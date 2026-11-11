@@ -10596,6 +10596,141 @@
           "x": "For Logic Pro, Apple says the usage limit is “impacted by the complexity of conversations you have with the assistant.” Users finding themselves running out of access can find the option to buy an Intelligence Usage Pack in the Intelligence Features > Show Usage section of the app’s main menu. Currently, only Logic Pro has the option to buy more usage, but it’s expected to be added to other Apple Creator Studio apps this month, including Pixelmator Pro, Final Cut Pro, Motion, plus Pages, Keynote, and Numbers that are getting access to Apple’s AI chatbot."
         }
       ]
+    },
+    "music/musicflux-text-music-editing": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "MusicFlux: Flexible Conditioning for Text-Guided Music Generation and Editing — Teysir Baoueb, Leonardo Boulitreau de M. M. Marques, Paraskevas Stamatiadis and Gaël Richard (Télécom Paris)."
+        },
+        {
+          "t": "p",
+          "x": "Music editing transforms existing recordings while preserving their original attributes. Recent approaches adapt pretrained text-to-music models for tasks like inpainting, event insertion, or restoration by conditioning them with context audio. Treating the source as in-context information, as recently proposed for image editing, is computationally expensive for music due to long audio sequences."
+        },
+        {
+          "t": "img",
+          "src": "https://musicflux.onrender.com/assets/img/fig-overview.png",
+          "cap": "Fig. 1. MusicFlux formulates generation, inpainting, and SFX restoration under a shared latent-conditioning paradigm."
+        },
+        {
+          "t": "p",
+          "x": "The authors develop MusicFlux, a text-guided music editor built on TangoFlux, an efficient pretrained flow-matching text-to-audio model. They fine-tune it for text-to-music generation, then adapt it for inpainting/outpainting and sound-effects restoration with joint audio, text and temporal-mask conditioning."
+        },
+        {
+          "t": "img",
+          "src": "https://musicflux.onrender.com/assets/img/fig-architectures.png",
+          "cap": "Fig. 2. MusicFlux-Concat (left) concatenates source and target latents; MusicFlux-CAR (right) uses shift networks and keeps the original sequence length."
+        },
+        {
+          "t": "p",
+          "x": "Two conditioning approaches trade off editing performance and computational efficiency: MusicFlux-Concat achieves stronger editing performance, while MusicFlux-CAR preserves the original sequence length and reduces inference runtime and dynamic memory by over 50%. Both remain competitive with task-specific baselines despite being single multi-task models trained on open data. Demo: https://musicflux.onrender.com/"
+        }
+      ]
+    },
+    "music/labelcamp-ai-connector": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/08/news-stories-images-4x3-2026-08-26T131412.133.png?fit=2000%2C1500&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "The list of music-industry tools and services exploring agentic AI and LLM connections continues to grow. Today there is news from Idol’s distribution-management platform Labelcamp, as well as from music-matching startup MyPart."
+        },
+        {
+          "t": "p",
+          "x": "Labelcamp’s new ‘AI Connector’ works with chatbots including Claude and ChatGPT to enable clients to handle catalogue and data-management tasks from within those tools, using a conversational interface."
+        },
+        {
+          "t": "p",
+          "x": "“A single prompt can see territorial rights adjusted across a batch of releases or an album rollout rescheduled along with its supporting singles,” explained Idol as an example. “It can also fix the metadata of an entire import, add missing DSP artist IDs across a catalogue, or explain why a platform rejected a delivery.”"
+        },
+        {
+          "t": "p",
+          "x": "This is Model Context Protocol (MCP) technology in action, and that’s also part of what MyPart is up to, releasing “general MCP AI music agents that combine music understanding with conversational and automated creative processes… designed to interpret music, lyrics, visual rhythm, scene transitions, audience context and user preferences to support music search, matching and playlist generation”"
+        },
+        {
+          "t": "p",
+          "x": "MyPart has also been talking about how its technology was used in the adaptive-gaming-music space, via a partnership with Epidemic Sound and Overwolf. The integration involved ‘Songhunt’, an in-game app that picks music from Epidemic’s catalogue to match on-screen gameplay."
+        }
+      ]
+    },
+    "music/culturecustodian-cloned-artist": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/culturecustodian.com/wp-content/uploads/2026/11/WEB-How-We-Distributed-Cloned-AI-Music-From-a-Fake-Nigerian-Artist.jpg?fit=1024%2C1024&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "We built a fake Nigerian artist from scratch — cloned voice, AI-generated song, zero real person behind the name — then told the distribution platforms exactly what we’d done."
+        },
+        {
+          "t": "p",
+          "x": "Our in-house producer recorded an original Afrobeats hook, GMYL, credited to an invented persona, CC Custody. We fed the vocal into Kits.ai and ElevenLabs to clone it, then rebuilt the song in Suno and Udio as No Do or Die. A second song, Omo Na You, was performed entirely by the cloned voice and credited to another fake persona, KX3."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/culturecustodian.com/wp-content/uploads/2026/11/KITS-AI-CLONING.jpg?resize=1024%2C482&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "On DistroKid we answered “Yes” to AI use and acknowledged CC Custody was an AI persona, yet the release sailed through to “Hooray, your music is on its way!” We pulled it ourselves. CD Baby, whose policy bans all AI content, never asked about AI and approved Omo Na You after ten days of human review."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/culturecustodian.com/wp-content/uploads/2026/11/CD-BABY-SUCCESSFUL-RELEASE-1.jpg?fit=1024%2C490&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "The free distributor Freecords denied No Do or Die; RouteNote still had it in a review queue more than 2 weeks after upload."
+        },
+        {
+          "t": "p",
+          "x": "Lawyer Fawehinmi ‘Foza’ Oyinkansola warned: “Distribution, however, is not sufficient proof of legal ownership or clearance. This creates potential liability across the value chain.”"
+        }
+      ]
+    },
+    "music/nvidia-suno-subpoena-quash": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/Nvidia-Office-1024x546.jpg",
+          "cap": "Photo Credit: Amir Shtanger"
+        },
+        {
+          "t": "p",
+          "x": "Nvidia’s NVentures venture arm took aim at a deposition subpoena from Universal Music and Sony Music in UMG v. Suno in a firmly worded motion to quash."
+        },
+        {
+          "t": "p",
+          "x": "The subpoena, which surfaced in August and was subsequently amended, pertains to Nvidia’s “pre-investment business relationship with Suno” and its execs; docs provided by Suno concerning the investment; training-data due diligence and infringement-litigation risks; and Suno’s potential impact on the market for sound recordings."
+        },
+        {
+          "t": "p",
+          "x": "“After months of negotiations, collection, and review, NVentures produced 6,324 documents comprising 28,194 pages,” per the motion to quash. “The deposition of such an investor is particularly inappropriate where the investor has already made a substantial production,” according to Nvidia."
+        },
+        {
+          "t": "p",
+          "x": "Suno is also grappling with lawsuits filed by Elvis Presley Enterprises and Eminem publisher Eight Mile Style."
+        }
+      ]
+    },
+    "music/spotify-dj-new-voices": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23985252/VRG_Illo_STK130_K_Radtke_Spotify_Podcast_1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "Spotify DJ gets new voices, and the ability to stop yammering."
+        },
+        {
+          "t": "p",
+          "x": "There are now eight more English-speaking voice options in various accents, and two new Spanish voices available for DJ, if you feel like personalizing that experience. You can also turn off the commentary that Spotify DJ makes between songs if you’re sick of hearing it talk, which will your music play with fewer interruptions."
+        }
+      ]
     }
   }
 }

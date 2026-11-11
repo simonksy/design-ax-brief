@@ -10571,6 +10571,142 @@
           "cap": "导入NVIDIA Isaac Sim的Lyra 2.0生成环境。图片来源：NVIDIA。"
         }
       ]
+    },
+    "games/tripo-tripothon-3d-hackathon": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/59/6aebbb95ac365.jpg",
+          "cap": "Tripothon S1"
+        },
+        {
+          "t": "p",
+          "x": "Tripothon S1是Tripo AI主办的首届全球世界构建黑客松，吸引了来自78个国家和地区的2,000多支注册团队，分为五个类别：游戏、影视与VFX、VR/XR/AR、应用以及实体设计。活动于2026年9月15日至10月20日举行，主题为“A Gift for ___”，使用Tripo的3D-native基础模型和Tripo API。"
+        },
+        {
+          "t": "video",
+          "yt": "o46nONohM9s"
+        },
+        {
+          "t": "p",
+          "x": "San Francisco站聚集了近60支团队和800多名参与者，大多数团队只有一到三人。该站第二名由Dulce Baerga的Dear Little Me获得，这是一款把儿童画作变成可互动3D玩具的WebXR应用。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/ba/6aebbbda932bc.jpg",
+          "cap": "Halls of History: The Veiled Study"
+        },
+        {
+          "t": "p",
+          "x": "San Francisco站最高奖由Annette Lapham的Halls of History: The Veiled Study获得，这是一款对话式解谜游戏，由Tripo API生成独特的文物供玩家寻找。Aspirium的Gemtronic则把数字宠物放进了智能戒指。"
+        },
+        {
+          "t": "p",
+          "x": "在全球赛中，第一名由第三人称生存射击游戏Somehow Still Alive获得。"
+        }
+      ]
+    },
+    "games/xbox-auto-sr-ally-x-120fps": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-27.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Microsoft宣布Automatic Super Resolution（Auto SR）在ROG XBOX Ally X和X20上正式推出，并扩大对AMD Ryzen AI-powered Copilot+ PCs的支持。Auto SR利用NPU对以较低分辨率渲染的游戏进行升频，在Windows层面运行，无需开发者集成。"
+        },
+        {
+          "t": "p",
+          "x": "新的Performance Mode将此前约60–75 FPS的帧率上限提高到120 FPS。在Microsoft的Rocket League 720p演示中，Quality Mode平均70 FPS，Performance Mode平均115 FPS。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Performance-Mode-115-FPS.webp",
+          "cap": "Auto SR Performance mode — 115 FPS。图片来源：Microsoft。"
+        },
+        {
+          "t": "p",
+          "x": "Auto SR现在可直接在掌机屏幕上运行，包括电池供电时，并支持1080p输入；在更高分辨率的外接显示器上，它可将1080p升频至1440p。它还能与Windows Auto HDR同时使用。"
+        },
+        {
+          "t": "p",
+          "x": "掌机支持、1080p兼容以及扩大的AMD Ryzen AI支持现已推出，Performance Mode和Auto HDR兼容则正通过Windows Update逐步推送。"
+        }
+      ]
+    },
+    "games/nexon-ictai-steam-review-study": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.invenglobal.com/upload/image/2026/11/09/i1794187207575008.jpeg",
+          "cap": "ⓒ Nexon"
+        },
+        {
+          "t": "p",
+          "x": "Nexon Korea AI Division旗下Applied Analytics Lab的研究人员分析了约19.37M 条Steam用户评论，凭借一项关于玩家对游戏内AI接受度的研究，获得ICTAI 2026（IEEE International Conference on Tools with Artificial Intelligence）Best Paper Award。"
+        },
+        {
+          "t": "p",
+          "x": "当AI作为帮助玩家的协作者发挥作用，或自然融入玩法时，评论趋于正面；当AI只是边缘元素或让人感觉难以控制时，评论则偏负面。研究人员得出结论：决定接受度的不是单纯是否加入AI，而是玩家对AI所扮演角色的体验。"
+        },
+        {
+          "t": "p",
+          "x": "Nexon据此构建了一套在上线前评估AI功能的预诊断框架，并计划将其扩展到策划阶段。ICTAI于2日至4日在Florida举行。"
+        }
+      ]
+    },
+    "games/amdlss5-dlss5-amd-mod": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/B3ULyP68EiAPD55fRNR8S7-2560-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "DLSS 5已经推出一段时间了，但显然不支持AMD显卡——至少官方不支持。此前已有模组让这项机器学习辅助的神经渲染技术在AMD RX 9000-series芯片上运行，如今又出现了一款大幅改进的模组。"
+        },
+        {
+          "t": "p",
+          "x": "AMDLSS5 2.0版现已推出（via Wccftech）。它声称与“其他模组”相比，在Resident Evil Requiem中fps提升+64%，比该模组前一版本fps提升+11%。"
+        },
+        {
+          "t": "p",
+          "x": "如果属实，那就格外令人惊喜：PC Gamer此前用另一款模组在AMD Radeon RX 9070 XT上测试DLSS 5，在4K 分辨率、RT Ultra设置、FSR 4 Balanced下，Cyberpunk 2077仅跑出9 fps。"
+        },
+        {
+          "t": "p",
+          "x": "DLSS 5本身即使在Nvidia GPU上也可能非常吃性能：在NBA 2K27 中，RTX 5080在4K 分辨率下帧率最多下降73%。"
+        },
+        {
+          "t": "p",
+          "x": "据模组作者在Reddit上的说法，支持的游戏包括Resident Evil Requiem、Cyberpunk 2077、The Witcher 3（仅限DX12重制版）、Red Dead Redemption 2、Shadow of the Tomb Raider、Nioh 3、Final Fantasy XVI、Monster Hunter Wilds、Onimusha: Way of the Sword、PRAGMATA以及Grand Theft Auto V Enhanced（仅限故事模式、离线）。"
+        },
+        {
+          "t": "p",
+          "x": "一些Reddit评论称，启用该模组后画质不太好。安装只需下载文件并运行安装程序，它可以“一键安装、更新或移除模组”。"
+        }
+      ]
+    },
+    "games/ue59-preview-agent-tools": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/c3/images/6af2cdf44eb77/widen_1840x0.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Unreal Engine 5.8原本应是Unreal Engine 6之前的最后一个大版本，但一周前Epic决定配合11月12日至15日举办的2026 Epic AI MegaJam，推出Unreal Engine 5.9 Preview。这是首个主要借助智能体工作流构建的引擎版本。"
+        },
+        {
+          "t": "p",
+          "x": "“少数几个人指挥成群的智能体，把UE6开发分支中的AI工具移植过来，并将Web实现为目标平台。智能体以UE4已退役的HTML5平台为起点编写了Web平台代码，工程师负责指挥、审查和测试。”"
+        },
+        {
+          "t": "p",
+          "x": "这个Preview大约用一周拼成，QA周期比平常短；Epic表示仍在“清理部分由智能体编写的代码”。它大幅改进了Python脚本和AI-assisted工作流，包括Unreal MCP、Unreal Assistant，以及Epic的AI-powered内容创作工具Unreal Canvas；此外还有Lumen World Cache、更好的Nanite剔除，以及通过WebAssembly和WebGPU重新支持Web作为目标平台。"
+        }
+      ]
     }
   }
 }

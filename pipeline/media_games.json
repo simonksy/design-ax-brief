@@ -1,32 +1,6 @@
-{
-  "date": "2026-11-11",
-  "section": "games",
-  "media": [
-    {
-      "id": "ue59-preview-agent-tools",
-      "type": "image",
-      "src": "pipeline/media/ue59-preview-agent-tools.jpg"
-    },
-    {
-      "id": "househouse-bigwalk-igf-ai",
-      "type": "image",
-      "src": "pipeline/media/househouse-bigwalk-igf-ai.jpg"
-    },
-    {
-      "id": "pcot-japanese-localization-end",
-      "type": "image",
-      "src": "pipeline/media/pcot-japanese-localization-end.jpg"
-    },
-    {
-      "id": "games-edu-program-ai-cancel",
-      "type": "image",
-      "src": "pipeline/media/games-edu-program-ai-cancel.jpg"
-    },
-    {
-      "id": "claude-fable-gears-clone",
-      "type": "video",
-      "src": "pipeline/media/claude-fable-gears-clone.mp4",
-      "poster": "pipeline/media/claude-fable-gears-clone.jpg"
-    }
-  ]
-}
+{"date":"2026-11-12","section":"games","media":[
+{"id":"witcher3-geralt-polish-ai-voice","type":"image","src":"pipeline/media/witcher3-geralt-polish-ai-voice.jpg"},
+{"id":"tripo-tripothon-3d-hackathon","type":"video","src":"pipeline/media/tripo-tripothon-3d-hackathon.mp4","poster":"pipeline/media/tripo-tripothon-3d-hackathon.jpg"},
+{"id":"xbox-auto-sr-ally-x-120fps","type":"image","src":"pipeline/media/xbox-auto-sr-ally-x-120fps.jpg"},
+{"id":"nexon-ictai-steam-review-study","type":"image","src":"pipeline/media/nexon-ictai-steam-review-study.jpg"},
+{"id":"amdlss5-dlss5-amd-mod","type":"image","src":"pipeline/media/amdlss5-dlss5-amd-mod.jpg"}]}

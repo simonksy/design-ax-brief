@@ -1,101 +1,96 @@
 {
-  "date": "2026-11-11",
+  "date": "2026-11-12",
   "section": "games",
   "items": [
     {
-      "title": "Unreal Engine 5.9 Preview Is Out & It Was Built With AI",
-      "url": "https://80.lv/articles/unreal-engine-5-9-preview-is-out-it-was-built-with-ai/",
-      "source": "80 Level",
-      "category": "games",
+      "url": "https://kotaku.com/the-witcher-3-devs-explain-using-ai-to-help-with-geralts-polish-voice-in-songs-of-the-past-this-is-one-of-those-ways-where-you-can-use-ai-ethically-2000756004",
+      "title": "The Witcher 3 Devs Explain Using AI To Help With Geralt's Polish Voice In Songs Of The Past",
+      "source": "Kotaku",
       "tool": "Games",
       "accent": "#7928ca",
       "motif": "cube",
-      "published_iso": "2026-11-10T08:24:00+00:00",
-      "og_image": "https://cdn.80.lv/api/upload/meta/50957/images/6af2d4ad241ac/contain_1200x630.jpg",
-      "excerpt": "Epic's UE 5.9 Preview ships AI workflow enhancements (agent tools, Unreal Canvas generation) plus web platform, rendering and animation updates; Epic says the preview itself was built largely with AI.",
-      "rationale": "New engine release with agent tools and Unreal Canvas generation — directly changes how UE teams work; games owns this story per cross-section assignment."
+      "rationale": "CD Projekt Red publicly details a consented AI voice-tuning case for a stroke-affected lead actor — a concrete, ethically framed precedent for AI voice work in AAA.",
+      "published_iso": "2026-11-11T22:00:04+00:00",
+      "og_image": "https://kotaku.com/app/uploads/2026/11/geralt.jpg",
+      "excerpt": "CD Projekt Red says the Polish voice of Geralt in the Songs of the Past expansion was tuned with AI, with the actor's consent, after he suffered a stroke between the original game and the new expansion."
     },
     {
-      "title": "House House clarifies use of AI tools in Big Walk's \"final stage of development\"",
-      "url": "https://www.gamesindustry.biz/house-house-clarifies-use-of-ai-tools-in-big-walks-final-stage-of-development",
-      "source": "GamesIndustry.biz",
-      "category": "games",
+      "url": "https://80.lv/articles/creators-developed-playable-worlds-vr-games-digital-pets-for-tripo-ai-s-first-3d-world-hackathon",
+      "title": "Creators Built Playable Worlds, VR Games & Digital Pets for Tripothon",
+      "source": "80 Level",
       "tool": "Games",
       "accent": "#0070f3",
       "motif": "cube",
-      "published_iso": "2026-11-10T09:07:50+00:00",
-      "og_image": "https://assetsio.gnwcdn.com/BigWalk_Screenshot_May25_06.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "House House issued a statement on AI tool use in Big Walk after a group of 2027 IGF jurors said they would decline to vote for games that used generative AI during development.",
-      "rationale": "Studio's official statement plus IGF juror stance sets a concrete awards-eligibility line on gen-AI use; industry-trade source carries both halves."
+      "rationale": "Tripo AI's first 3D-world hackathon results (2,000+ teams, 78 countries) show what generative 3D pipelines now ship as playable worlds; assigned to games only by the curator brief.",
+      "published_iso": "2026-11-11T19:42:00+00:00",
+      "og_image": "https://cdn.80.lv/api/upload/meta/50892/images/6aebc2cf9eae0/contain_1200x630.jpg",
+      "excerpt": "More than 2,000 teams from 78 countries took part in Tripo AI's first 3D-world hackathon (Tripothon S1), building playable worlds, VR games and digital pets with Tripo's generative 3D tools."
     },
     {
-      "title": "ゲーム日本語化ツール「PCOT」次のアプデで開発終了へ。AIの進化で“セルフ直接日本語化”の未来が見えたため",
-      "url": "https://automaton-media.com/articles/newsjp/20261110-478520/",
-      "source": "AUTOMATON",
-      "category": "games",
+      "url": "https://wccftech.com/microsoft-auto-sr-exits-preview-on-rog-xbox-ally-x-new-performance-mode-raises-fps-limit-to-120/",
+      "title": "Microsoft Auto SR Exits Preview On ROG XBOX Ally X, New Performance Mode Raises FPS Limit To 120",
+      "source": "Wccftech",
       "tool": "Games",
       "accent": "#f5a623",
       "motif": "cube",
-      "published_iso": "2026-11-10T13:49:45+00:00",
-      "og_image": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478520-header.jpg",
-      "excerpt": "Solo developer nurupo is ending the long-running game translation-assist tool PCOT after its next update, saying AI has made players' self-service direct Japanese localization the future.",
-      "rationale": "A long-standing fan-localization tool retiring because AI replaced its job — concrete signal on player-side localization."
+      "rationale": "New release: Microsoft's AI upscaler leaves preview on a handheld with a 120 FPS Performance Mode — directly changes what players and devs can target on Xbox Ally X.",
+      "published_iso": "2026-11-11T13:37:48+00:00",
+      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-27.jpg",
+      "excerpt": "Microsoft's AI upscaler Auto SR leaves preview on the ROG Xbox Ally X, adding handheld support, 1080p upscaling and a 120 FPS Performance Mode."
     },
     {
-      "title": "Educational game dev program cancelled because students were submitting games made entirely with AI",
-      "url": "https://www.pcgamer.com/software/ai/educational-game-dev-program-cancelled-because-students-were-submitting-games-made-entirely-with-ai/",
-      "source": "PC Gamer",
-      "category": "games",
+      "url": "https://www.invenglobal.com/articles/28324/nexon-wins-best-paper-award-at-ictai-2026",
+      "title": "Nexon Wins Best Paper Award at ICTAI 2026",
+      "source": "Inven Global",
       "tool": "Games",
       "accent": "#2ec5c5",
       "motif": "cube",
-      "published_iso": "2026-11-10T16:59:19Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/G9gk4ajHwYTMmxkGjFbr6X-2384-80.jpg",
-      "excerpt": "An educational game-development program was cancelled because growing generative-AI use made it 'harder to judge what students made themselves.'",
-      "rationale": "New event showing AI breaking game-dev education assessment — fresh angle distinct from storefront slop stories."
+      "rationale": "Actionable research: Nexon mined ~19.37M Steam reviews to find when players accept in-game AI and built a pre-launch diagnostic for AI features.",
+      "published_iso": "2026-11-09T01:18:47+00:00",
+      "og_image": "https://static.invenglobal.com/upload/image/2026/11/09/i1794187207575008.jpeg",
+      "excerpt": "Nexon researchers analysed about 19.37 million Steam reviews to find when players accept in-game AI, and built a pre-launch diagnostic for checking AI features before release."
     },
     {
-      "title": "Claude Fable 5.2 Builds Playable Gears of War: E-Day Clone From Three-Line Prompt",
-      "url": "https://wccftech.com/claude-fable-5-2-builds-playable-gears-of-war-e-day-clone-from-three-line-prompt-but-estimated-cost-reaches-15000/",
-      "source": "Wccftech",
-      "category": "games",
+      "url": "https://www.pcgamer.com/hardware/graphics-cards/amdlss5-gets-nvidias-neural-rendering-running-on-amd-graphics-cards-and-claims-64-percent-better-performance-than-other-mods/",
+      "title": "This mod to get DLSS 5 running on AMD RX 9000-series GPUs promises better performance than others",
+      "source": "PC Gamer",
       "tool": "Games",
       "accent": "#eb367f",
       "motif": "cube",
-      "published_iso": "2026-11-10T15:29:03+00:00",
-      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-24.jpg",
-      "excerpt": "Claude Fable 5.2 built a playable Unreal Engine Gears of War clone from a three-line prompt, but the project consumed about 8.5 billion tokens.",
-      "rationale": "Concrete capability-and-cost datapoint for agentic game building in Unreal (8.5B tokens, ~$15k) — useful calibration for teams."
+      "rationale": "New mod release: AMDLSS5 ports Nvidia's DLSS 5 neural rendering to Radeon RX 9000 cards, claiming 64% better performance than earlier mods — AI rendering escaping its vendor lock.",
+      "published_iso": "2026-11-10T16:53:20Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/B3ULyP68EiAPD55fRNR8S7-2560-80.jpg",
+      "excerpt": "The AMDLSS5 mod gets Nvidia's DLSS 5 neural rendering running on Radeon RX 9000 cards and claims 64% better performance than other mods."
     }
   ],
   "dedup": {
     "checks": {
-      "https://80.lv/articles/unreal-engine-5-9-preview-is-out-it-was-built-with-ai/": {
+      "https://kotaku.com/the-witcher-3-devs-explain-using-ai-to-help-with-geralts-polish-voice-in-songs-of-the-past-this-is-one-of-those-ways-where-you-can-use-ai-ethically-2000756004": {
         "verdict": "new",
-        "nearest": "https://www.gamesradar.com/games/epic-wants-to-pay-you-usd50-000-to-vibe-code-an-ai-slop-game/",
+        "nearest": "https://www.eurogamer.net/the-blood-of-dawnwalker-lead-actor-will-de-renzy-martin-ai-voiceover",
         "new_action": ""
       },
-      "https://www.gamesindustry.biz/house-house-clarifies-use-of-ai-tools-in-big-walks-final-stage-of-development": {
-        "verdict": "new",
-        "nearest": "https://www.pocketgamer.biz/roblox-brings-audioscape-team-in-house-to-develop-ai-audio-tools/",
-        "new_action": ""
-      },
-      "https://automaton-media.com/articles/newsjp/20261110-478520/": {
-        "verdict": "new",
-        "nearest": "http://www.gamespark.jp/article/2026/11/09/174651.html",
-        "new_action": ""
-      },
-      "https://www.pcgamer.com/software/ai/educational-game-dev-program-cancelled-because-students-were-submitting-games-made-entirely-with-ai/": {
+      "https://80.lv/articles/creators-developed-playable-worlds-vr-games-digital-pets-for-tripo-ai-s-first-3d-world-hackathon": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
       },
-      "https://wccftech.com/claude-fable-5-2-builds-playable-gears-of-war-e-day-clone-from-three-line-prompt-but-estimated-cost-reaches-15000/": {
+      "https://wccftech.com/microsoft-auto-sr-exits-preview-on-rog-xbox-ally-x-new-performance-mode-raises-fps-limit-to-120/": {
         "verdict": "new",
-        "nearest": "https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games",
+        "nearest": "https://www.eurogamer.net/xbox-series-x-s-amd-fsr-4-1-upscaling",
+        "new_action": ""
+      },
+      "https://www.invenglobal.com/articles/28324/nexon-wins-best-paper-award-at-ictai-2026": {
+        "verdict": "new",
+        "nearest": "https://www.inews24.com/view/2019597",
+        "new_action": ""
+      },
+      "https://www.pcgamer.com/hardware/graphics-cards/amdlss5-gets-nvidias-neural-rendering-running-on-amd-graphics-cards-and-claims-64-percent-better-performance-than-other-mods/": {
+        "verdict": "new",
+        "nearest": "https://www.eurogamer.net/xbox-series-x-s-amd-fsr-4-1-upscaling",
         "new_action": ""
       }
     },
-    "note": "Cluster c1 (UE 5.9 Preview): kept 80 Level, dropped AUTOMATON 20261110-478512 and Game*Spark 174714 as same release. history_match to Epic MegaJam $50k (10-23) and UE6 Blueprints keynote (11-05) are different events; 5.9 Preview is a new release. Cluster c3 (Big Walk / IGF jurors): kept GamesIndustry.biz, dropped Eurogamer (same statement), Aftermath (IGF juror statement, trigger of same story) and Polygon (analysis of same story). Cluster c7 (PCOT): kept AUTOMATON, dropped Game*Spark 174727. Dropped inews24 2023215 (Hive Axil interview — follow-up to published 10-27 gamemeca Hive Axil plugin story, no new release). Not picked on score: AMDLSS5 mod (PC Gamer, would be 2nd PC Gamer; DLSS 5 already well covered), Unity Spark how-to guide (evergreen tips), Take-Two piracy remarks (exec commentary, near 11-07 GTA6 AI-clone story). Cross-section: no candidate used in this pick matches a cross-section assignment other than UE 5.9 (games-owned); published_urls.json was not exact-grepped (no shell tool available to this agent) — orchestrator should run the grep before roll."
+    "note": "REPLACEMENT round: Shrek 2 Remastered (GamesRadar+) dropped after enrichment found AI only incidental (one reviewer's 'AI textures' theory); replaced by AMDLSS5 mod (PC Gamer). AMDLSS5 is a distinct community mod release (third-party DLSS 5 port to Radeon) — not the 10-14 wccftech DLSS 5 / Hogwarts announcement, the 10-25 RTX Remix 1.6 or FSR 4.1 stories, nor the 11-04 War Thunder DLSS 5 interview. Dropped as duplicates/follow-ups: Hogwarts Legacy DLSS 5 on GeForce NOW (likely-repeat of 10-14 wccftech 'DLSS 5 coming to Hogwarts Legacy in November'); Claude refusing Pokemon fan projects (reaction to the 11-02 Anthropic game-clone block, no new action); Game*Spark Unity real-time Japanese translation tool via PLaMo 3 (same running PLaMo gamer-tools story published 11-10); Com2uS Platform Hive Axil CEO interview (inews24; interview about the Hive Axil AI integration already covered 10-27 via gamemeca gid=1782378). Not picked: Nexus Mods daily upload cap (follow-up to 11-05; AI incidental), GTA-rival crime sim (GamesRadar; gen AI incidental to the popularity story), Elder Scrolls Shadowkey revival (AI role unverified). Orchestrator should exact-grep all five URLs and 'Auto SR', 'Geralt', 'AMDLSS5', 'ICTAI', 'Tripothon' across every section in published_urls.json before roll."
   }
 }

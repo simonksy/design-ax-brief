@@ -11097,6 +11097,142 @@
           "cap": "A Lyra 2.0-generated environment imported into NVIDIA Isaac Sim. Image credit: NVIDIA."
         }
       ]
+    },
+    "games/tripo-tripothon-3d-hackathon": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/59/6aebbb95ac365.jpg",
+          "cap": "Tripothon S1"
+        },
+        {
+          "t": "p",
+          "x": "Tripothon S1, the first global world-building hackathon hosted by Tripo AI, drew more than 2,000 registered teams from 78 countries and regions across five categories: games, film and VFX, VR/XR/AR, applications, and physical design. It ran from September 15 through October 20, 2026, around the theme “A Gift for ___,” using Tripo's 3D-native foundation models and Tripo API."
+        },
+        {
+          "t": "video",
+          "yt": "o46nONohM9s"
+        },
+        {
+          "t": "p",
+          "x": "The San Francisco event brought together nearly 60 teams and more than 800 attendees; most teams had only one to three people. Second place there went to Dulce Baerga’s Dear Little Me, a WebXR app that turns children’s drawings into interactive 3D playthings."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/ba/6aebbbda932bc.jpg",
+          "cap": "Halls of History: The Veiled Study"
+        },
+        {
+          "t": "p",
+          "x": "The top San Francisco prize went to Annette Lapham's Halls of History: The Veiled Study, a conversational mystery game in which the Tripo API generates unique artifacts for players to hunt. Gemtronic by Aspirium put a digital pet inside a smart ring."
+        },
+        {
+          "t": "p",
+          "x": "Across the global competition, first place went to Somehow Still Alive, a third-person survival shooter."
+        }
+      ]
+    },
+    "games/xbox-auto-sr-ally-x-120fps": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-27.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Microsoft has announced the general availability of Automatic Super Resolution (Auto SR) on the ROG XBOX Ally X and X20, alongside expanded support for AMD Ryzen AI-powered Copilot+ PCs. Auto SR uses the NPU to upscale games rendered at lower resolutions, operating at the Windows level without developer integration."
+        },
+        {
+          "t": "p",
+          "x": "A new Performance Mode raises the previous frame-rate ceiling of approximately 60–75 FPS to 120 FPS. In Microsoft's Rocket League demo at 720p, the game averaged 70 FPS in Quality Mode versus 115 FPS in Performance Mode."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Performance-Mode-115-FPS.webp",
+          "cap": "Auto SR Performance mode —115 FPS. Image credit: Microsoft."
+        },
+        {
+          "t": "p",
+          "x": "Auto SR now works directly on handheld displays, including on battery power, and supports 1080p input; on a higher-resolution external display it can upscale 1080p to 1440p. It can also work alongside Windows Auto HDR."
+        },
+        {
+          "t": "p",
+          "x": "Handheld support, 1080p compatibility and expanded AMD Ryzen AI support are available now, while Performance Mode and Auto HDR compatibility are rolling out gradually through Windows Update."
+        }
+      ]
+    },
+    "games/nexon-ictai-steam-review-study": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.invenglobal.com/upload/image/2026/11/09/i1794187207575008.jpeg",
+          "cap": "ⓒ Nexon"
+        },
+        {
+          "t": "p",
+          "x": "Researchers from the Applied Analytics Lab under Nexon Korea's AI Division won the Best Paper Award at ICTAI 2026 (IEEE International Conference on Tools with Artificial Intelligence) for a study on player acceptance of in-game AI that analyzed approximately 19.37 million Steam user reviews."
+        },
+        {
+          "t": "p",
+          "x": "Reviews were positive when AI functioned as a collaborator helping players or was naturally integrated into gameplay, and negative when AI remained a peripheral element or felt difficult to control. The researchers concluded that player experience of the AI's role, rather than the mere implementation of AI, determines acceptance."
+        },
+        {
+          "t": "p",
+          "x": "Nexon used the findings to build a pre-diagnosis framework to evaluate AI features prior to launch, and plans to expand it to the planning stage. ICTAI was held from the 2nd to the 4th in Florida."
+        }
+      ]
+    },
+    "games/amdlss5-dlss5-amd-mod": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/B3ULyP68EiAPD55fRNR8S7-2560-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "DLSS 5 has been out for a while now, but obviously not for AMD cards — not officially, anyway. Mods have previously got the machine learning-aided neural rendering tech running on AMD RX 9000-series silicon, and now there's a significantly improved one."
+        },
+        {
+          "t": "p",
+          "x": "AMDLSS5 version 2.0 is now out (via Wccftech). Compared with \"other mods\", it's claiming +64% fps in Resident Evil Requiem, and +11% fps compared with the previous version of this one."
+        },
+        {
+          "t": "p",
+          "x": "That's particularly great, if true: PC Gamer's testing of DLSS 5 on an AMD Radeon RX 9070 XT using a different mod managed just 9 fps in Cyberpunk 2077 at 4K on RT Ultra settings, with FSR 4 set to Balanced."
+        },
+        {
+          "t": "p",
+          "x": "DLSS 5 itself can be very intensive, even on an Nvidia GPU: in NBA 2K27, frame rates dropped up to 73% at 4K on an RTX 5080."
+        },
+        {
+          "t": "p",
+          "x": "According to the mod's creator on Reddit, supported games include Resident Evil Requiem, Cyberpunk 2077, The Witcher 3 (DX12 remaster only), Red Dead Redemption 2, Shadow of the Tomb Raider, Nioh 3, Final Fantasy XVI, Monster Hunter Wilds, Onimusha: Way of the Sword, PRAGMATA and Grand Theft Auto V Enhanced (story mode, offline only)."
+        },
+        {
+          "t": "p",
+          "x": "Some Reddit comments say the quality isn't very good with the mod enabled. Installation involves downloading the files and running the installer, which \"installs, updates or removes the mod with one click.\""
+        }
+      ]
+    },
+    "games/ue59-preview-agent-tools": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/c3/images/6af2cdf44eb77/widen_1840x0.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Unreal Engine 5.8 was supposed to be the last major release before Unreal Engine 6, but a week ago Epic decided to put together an Unreal Engine 5.9 Preview in time for the 2026 Epic AI MegaJam, which runs from November 12 to 15. It is the first engine release built primarily using agentic workflows."
+        },
+        {
+          "t": "p",
+          "x": "\"A handful of people directed fleets of agents to port the AI tooling from our UE6 development branch and implement Web as a target platform. Agents wrote the web platform code, starting from UE4's retired HTML5 platform, with engineers directing, reviewing, and testing the work.\""
+        },
+        {
+          "t": "p",
+          "x": "The Preview was put together in roughly a week, with a shorter QA period than usual; Epic says it's still \"cleaning up some of the agent-written code.\" It brings major improvements to Python scripting and AI-assisted workflows, including Unreal MCP, Unreal Assistant, and Unreal Canvas, Epic's AI-powered content creation tool, plus Lumen World Cache, better Nanite culling, and the return of Web as a target platform via WebAssembly and WebGPU."
+        }
+      ]
     }
   }
 }

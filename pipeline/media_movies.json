@@ -1,33 +1,33 @@
 {
- "date": "2026-11-11",
+ "date": "2026-11-12",
  "section": "movies",
  "media": [
   {
-   "id": "premiere27-colormode-mcp",
-   "type": "image",
-   "src": "pipeline/media/premiere27-colormode-mcp.jpg"
-  },
-  {
-   "id": "avid-readytoplay-veo",
-   "type": "image",
-   "src": "pipeline/media/avid-readytoplay-veo.jpg"
-  },
-  {
-   "id": "webby-credits-registry",
-   "type": "image",
-   "src": "pipeline/media/webby-credits-registry.jpg"
-  },
-  {
-   "id": "elempleo-ai-knockoff",
+   "id": "beeble-switchx3",
    "type": "video",
-   "src": "pipeline/media/elempleo-ai-knockoff.mp4",
-   "poster": "pipeline/media/elempleo-ai-knockoff.jpg"
+   "src": "pipeline/media/beeble-switchx3.mp4",
+   "poster": "pipeline/media/beeble-switchx3.jpg"
   },
   {
-   "id": "stormdogs-minkoff-trailer",
+   "id": "higgsfield-listen-meh-prize",
    "type": "video",
-   "src": "pipeline/media/stormdogs-minkoff-trailer.mp4",
-   "poster": "pipeline/media/stormdogs-minkoff-trailer.jpg"
+   "src": "pipeline/media/higgsfield-listen-meh-prize.mp4",
+   "poster": "pipeline/media/higgsfield-listen-meh-prize.jpg"
+  },
+  {
+   "id": "kakao-ryan-ai-short",
+   "type": "image",
+   "src": "pipeline/media/kakao-ryan-ai-short.jpg"
+  },
+  {
+   "id": "bfi-nfts-falmouth-650k",
+   "type": "image",
+   "src": "pipeline/media/bfi-nfts-falmouth-650k.jpg"
+  },
+  {
+   "id": "afm-innovation-hub-ai",
+   "type": "image",
+   "src": "pipeline/media/afm-innovation-hub-ai.jpg"
   }
  ]
 }

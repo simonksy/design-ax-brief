@@ -15166,6 +15166,138 @@
           "x": "“시뮬레이션에도 GPT 모멘트가 오길 바란다”고 MIT 박사후연구원 출신으로 지금은 UBC에 있는 Peter Yichen Chen은 말한다. 연구진은 변형 물체, 입상 물질, 단백질 등 여섯 가지 물리 현상에서 WorldParticle을 시연했다. 정확도는 수치 시뮬레이션 방법보다 높았고, 시간에 따라 바뀌는 단백질 구조는 수치 시뮬레이터보다 약 100배 빠르게 모델링했다. 연구는 SIGGRAPH Asia에서 발표된다."
         }
       ]
+    },
+    "science/physicsworld-metasurface-colour-router": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://physicsworld.com/wp-content/uploads/2026/11/spectrum-web-8534073-iStock_koey.jpg",
+          "cap": "Bayer 컬러 필터는 카메라 센서가 풀컬러 이미지를 재구성할 때 쓰는 수십 년 된 빨강·초록·파랑 모자이크다. 더 진보한 대안이 들어설 여지가 있다(Credit: iStock/Koey)"
+        },
+        {
+          "t": "p",
+          "x": "요즘 카메라는 들어오는 빛의 상당 부분을 버린다. 컬러 이미지를 얻으려고 검출 픽셀 하나하나를 빨강·초록·파랑 필터로 덮는데, 필터마다 스펙트럼 대부분을 걸러내서다."
+        },
+        {
+          "t": "p",
+          "x": "흡수형 필터를 메타표면으로 바꾸는 방법이 있다. 질화규소 나노기둥을 패턴으로 배열한 층인데, 빨강·초록·파랑 빛을 각각 알맞은 검출 픽셀로 보낸다. 문제는 이런 패턴을 설계하는 데 계산이 막대하게 든다는 점이다."
+        },
+        {
+          "t": "p",
+          "x": "Hyoseok Park과 공동 연구진은 시뮬레이션한 구조 140,000개로 신경망을 학습시키고, 유망한 설계를 차례로 골라 고쳐 나가는 유전 알고리즘과 묶었다. 학습한 신경망은 광학장을 기존 시뮬레이션보다 약 230,000배 빠르게 평가했고, 덕분에 후보 4천만 개를 탐색할 수 있었다."
+        },
+        {
+          "t": "p",
+          "x": "완성된 소자는 실험에서 입사광의 88.8%를 통과시켰다. 기존 컬러 필터 배열의 24.7%보다 3.6배 나은 수치다. 색 간섭이 조금 남고 공간 해상도도 약간 떨어진다. 쓰임새로는 스마트폰 카메라, 저조도·야간 투시 영상, 보안 카메라, 의료용 내시경, 현미경 등이 꼽힌다."
+        }
+      ]
+    },
+    "science/yangmills-proof-gross-panel": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/3ceddda6-8cb0-4621-9f8e-97277f5b40a7/shutterstock_2632659679-WEB.jpg?m=1794411083.492&w=1200",
+          "cap": "Igor Link/Shutterstock"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI가 검증을 맡긴 전문가들이 양자 Yang-Mills 이론의 “존재성”을 다룬 인공지능 생성(AI-generated) 증명을 확인했다고 밝혔다. 이 이론은 입자물리학 표준모형을 떠받치는 핵심 토대다."
+        },
+        {
+          "t": "p",
+          "x": "회사는 또 한 번의 “slop drop”을 피하려고 이론물리학자 David Gross에게 증명 공개를 감독할 위원회를 맡겼다. 11월 10일 밤 Gross와 그가 고른 동료 네 명은 증명이 어떻게 작동하는지 설명한 문서를 올리고, Lean으로 한 형식 검증을 인정한다고 밝혔다."
+        },
+        {
+          "t": "p",
+          "x": "이 “shepherding(목자 역할)” 방식에 일부 수학자들은 반발했다. 뉴욕대학교의 Scott Armstrong은 “목자들이 마침내 Lean 증명을 공개해 기쁘다”며 “이런 검토는 공개적으로 하는 편이 더 효율적이고 빠르다”고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "Yang-Mills는 아직 풀리지 않은 밀레니엄 난제 다섯 개 가운데 하나다. OpenAI의 모델은 첫 부분인 “존재성” 문제를 풀었지만 “질량 간극” 문제는 여전히 남아 있다. 위원회는 “우리는 아직 이 증명을 완전히 이해했다고 주장하지 않는다”고 썼다."
+        }
+      ]
+    },
+    "science/cornell-fish-schooling-ml": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2025/school-fish.jpg",
+          "cap": "Credit: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "과학자들이 새 머신러닝 기법으로 수천 종 물고기의 떼 짓기가 어떻게 진화했는지 살폈다. 논문은 11월 6일 Proceedings of the National Academy of Sciences에 실렸다."
+        },
+        {
+          "t": "p",
+          "x": "지난 3억5000만 년 동안 어류 진화 계통수 곳곳에서 물고기 종들은 한 덩어리로 움직이는 능력을 따로따로 약 60번 얻었고 약 320번 잃었다."
+        },
+        {
+          "t": "p",
+          "x": "연구팀은 대규모 언어 모델과 같은 방식의 텍스트 트랜스포머를 종 설명문으로 학습시켰다. 사진과 영상은 머신러닝으로 분석해 삼차원으로 바꾼 뒤 물고기가 무리 지어 움직이는지 평가했다. 이렇게 떼 짓기를 정량화한 종은 모두 2,839종으로, 현존 어종 39,000종의 10%에 가깝다."
+        },
+        {
+          "t": "video",
+          "src": "https://scx2.b-cdn.net/gfx/video/2026/machine-learning-helps.mp4"
+        },
+        {
+          "t": "p",
+          "x": "먹이사슬 아래쪽 종일수록 떼를 지을 가능성이 높고, 무리 지어 다니는 포식자는 거의 다 무리 지어 다니는 먹이를 먹는다. 모든 종이 떼를 짓는 계통에서는 새 종이 더 빨리 생겨났다."
+        }
+      ]
+    },
+    "science/psypost-ai-whiteness-study": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.psypost.org/wp-content/uploads/2026/04/artificial-intelligence-ai-chip.jpg"
+        },
+        {
+          "t": "p",
+          "x": "얼굴·목소리·이름·몸이 없는 인공지능 시스템도 사람들은 백인으로 인식하는 경향이 있다. Monica Gamez-Djokic과 Adam Waytz가 Journal of Personality and Social Psychology에 발표한 새 연구 결과다."
+        },
+        {
+          "t": "p",
+          "x": "Study 1a 연구에서 미국(U.S.) 참가자들은 평균적으로 기술의 72%를 백인으로 골랐다. Study 1b 연구에서는 인종적 성격을 띤 자유 응답 중 71%가 백인이었다. AI를 백인으로 분류한 비율은 일본 82%, 인도 67%였다."
+        },
+        {
+          "t": "p",
+          "x": "Study 4 연구에서는 AI를 더 백인으로 인식한 참가자일수록 그 팩트체크 권고를 조금 더 설득력 있게 평가했다. 다만 상관관계일 뿐이다. Study 5 연구 참가자들은 흑인과 라틴계 성인의 데이터로 학습했다고 소개된 AI에 지적 부담이 덜한 일을 맡겼다(4.27 vs. 4.51)."
+        },
+        {
+          "t": "p",
+          "x": "Gamez-Djokic은 “가장 놀라웠던 점은 사람들이 AI를 인종화하는 데 필요한 정보가 얼마나 적었는가였다”고 말했다."
+        }
+      ]
+    },
+    "science/science-alphaproof-code-signal": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://lh3.googleusercontent.com/PHIZgiGejgu8shHsJV9pVfWv7Kr5rTj-e2yIj73c8LkDKBnTTAr2r28DN9aZd1vLDjCnd1Wi2qOD0t8bPpNN-3DfmbEgxj0TE-TttqVbpdoOD1xmFQk=w1440-h810-n-nu"
+        },
+        {
+          "t": "p",
+          "x": "Google DeepMind 연구진은 사람의 전문성과 AI 에이전트를 묶은 새 에이전트형 형식 검증 프레임워크 AlphaProof Code로, AI 에이전트가 Signal 프로토콜을 이루는 실제 코드의 핵심 보안 속성을 수학적으로 증명하게 했다. 널리 쓰이는 암호 프로토콜을 AI가 이만큼 깊이 형식 검증한 사례는 처음이다."
+        },
+        {
+          "t": "p",
+          "x": "연구진은 여러 모델을 함께 써서 Signal의 보안 목표를 형식 명세로 옮겼고, 명세는 사람 전문가가 하나하나 검토했다. 증명은 Gemini Carbon 기반 에이전트가 맡았다. 에이전트는 육백만 줄이 넘는 Lean 코드를 만들고 증명을 스스로 감사한 뒤 코드베이스의 일 퍼센트만 사람이 다시 보도록 표시했다."
+        },
+        {
+          "t": "p",
+          "x": "에이전트들은 기기에서 실제로 돌아가는 컴파일된 코드 수준까지 핵심 보안 속성이 지켜진다는 사실을 증명했다. 전문가 팀이 보통 수년을 들이던 일이 네 주 만에 끝났다. 이미 고쳤던 실제 버그 두 개를 다시 심자 시스템은 버그가 있는 버전이 안전하지 않다는 기계 검증 증명을 내놓았다."
+        },
+        {
+          "t": "img",
+          "src": "https://lh3.googleusercontent.com/kF75VKGl2JdnK6eQJxqPLwQNsMq0CumACxUSMF5WoUME3lAw2-PBaQWpsOxaD1bTaXYhJd46zDMrx9s3kPW_oL9rg2rKh_HoCzYxN8Xd5XRIPQ2Vsg=w1440-h810-n-nu",
+          "cap": "AlphaProof Code에서 AI 에이전트는 사용자가 명세를 쓰도록 돕고, 구현이 그 명세를 충족한다는 것을 스스로 증명한다. 모든 증명은 Lean이 검사해 에이전트의 작업을 확인한다."
+        },
+        {
+          "t": "p",
+          "x": "Signal CTO Ehren Kret은 “AI 에이전트로 실제 코드를 유효한 Lean 정리로 옮긴 것은 큰 돌파구”라고 평가했다. 형식 검증 결과물은 DeepMind가 오픈소스로 공개한다."
+        }
+      ]
     }
   }
 }

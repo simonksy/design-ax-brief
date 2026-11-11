@@ -11273,6 +11273,154 @@
           "x": "CAIM1はCPUとセンサーを振動なく冷却するため、Noctuaと組んでNF-A4x10のアクティブ冷却システムを採用した。カメラは4K 動画を撮影でき、アクションスポーツを想定し、Bring-Your-Own-Lens方式を採る。"
         }
       ]
+    },
+    "gadgets/bluephone-pixel10-agent-os": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2025/09/google-pixel-10-pro-screen-on-home-screen-scaled.jpg",
+          "cap": "画面が点灯し、ホーム画面を表示したGoogle Pixel 10 Proを手に持つ人。"
+        },
+        {
+          "t": "p",
+          "x": "Y Combinatorが支援するスタートアップBlueは、AIアシスタントをスマートフォン体験の中心に据えた新しいBlue Phoneのパブリックベータを開始した。まったく新しい端末を作るのではなく、まずGoogle Pixel 10 ProとPixel 10 Pro XLから始め、どちらもBlue OSで動く。Blue OSは、AIアシスタントがアプリをまたいで動作し、ユーザーに代わってタスクをこなせるようにしたAndroidのカスタム版だ。"
+        },
+        {
+          "t": "p",
+          "x": "数か月前のレシートを探す、購入前に価格を比べる、身に覚えのない請求に異議を申し立てる。そうした作業をBlueが代わりに行い、複数の依頼を同時に処理することもできる。"
+        },
+        {
+          "t": "video",
+          "yt": "mrTgV4U_wI4"
+        },
+        {
+          "t": "p",
+          "x": "自然に話した考えを、きちんと書かれたメッセージに変える音声入力機能も備える。プライバシーへの懸念に対応するため、Blueはパスワードなどの機密情報を暗号化されたVaultに保管する。OSは、広告トラッキングを標準でブロックする、セキュリティ重視のオープンソース版Androidをベースにしている。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Screenshot-2026-11-11-at-8.01.19-PM.png",
+          "cap": "iPhoneからPixel 10 Pro上のBlue Phoneへ"
+        },
+        {
+          "t": "p",
+          "x": "Blue Phoneの価格は$1,299だが、購入から30日以内に古いiPhoneを同社に送れば無料で手に入る。Blueの無制限利用三か月分が付き、USでの出荷は11月と12月の予定だ。同社は独自のカスタムスマートフォンも開発中で、2027年第三四半期に登場する見込みだ。全額返金可能な$100で予約できる。"
+        }
+      ]
+    },
+    "gadgets/deepx-dxm1-butter-demo": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/ZgC56W69q8WA6rhcBjxWKn-1920-80.jpg",
+          "cap": "DEEPXによるチップ上のバターを使った熱デモ"
+        },
+        {
+          "t": "p",
+          "x": "最近CNBCでも取り上げられた韓国の半導体スタートアップDEEPXが、乳製品を使った奇抜な新しい熱ベンチマークで、DX-M1プロセッサーの低発熱ぶりを披露した。競合チップの上ではバターの塊が数秒でジュージューと音を立てたが、DEEPXのチップの上ではバターは固いままだった。"
+        },
+        {
+          "t": "p",
+          "x": "DEEPXによれば、データセンターの発熱に対する同社のシンプルな答えは「AIチップそのものをより低温で動かすこと」だという。名前を伏せた競合AIチップとの並列テストで、DX-M1 NPUは明らかに低温だった。DEEPXのCEO、Kim Nok-won氏は競合と比べて摂氏25度から40度以上の温度差があると主張し、各チップは「同じAIワークロードを処理した…そして最後のチップ[DX-M1]以外はすべてバターを溶かした」と述べた。"
+        },
+        {
+          "t": "p",
+          "x": "Tom's Hardwareは、この比較には大きな抜けがあると指摘する。最も目立つのは各プロセッサーがテストのワークロードをどれだけ速くこなすかという点で、電力とクロックを下げれば誰でもチップを低温で動かせる。"
+        },
+        {
+          "t": "p",
+          "x": "DX-M1は2025年8月からSamsungの5nm プロセスで生産されており、約$13.3M 相当の受注を獲得している。Samsungの2nm プロセスをベースとする次世代のDX-M2は、H2 2027の量産を目指す。これらのNPUsはエッジコンピューティングやロボティクス向けとみられ、電力を大量に消費するNvidiaのデータセンター向けGPUsとは競合しないため、バターテストは「少々的外れ」だという。"
+        }
+      ]
+    },
+    "gadgets/gigabyte-aitop-aero-spark": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/gigabyte-ai-top-aero-nvidia-rtx-spark.jpg",
+          "cap": "Gigabyte AI Top Aero — Nvidia RTX Sparkと128 GBのユニファイドメモリを備えた一リットルのAIデスクトップ。"
+        },
+        {
+          "t": "p",
+          "x": "Gigabyteは、ローカルAI開発やコンテンツ制作、そして将来的にはゲーム向けに設計したミニPC「AI Top Aero」を発売した。NvidiaのRTX Sparkプラットフォームを搭載し、容積約一リットルの筐体にNvidia Blackwell GPUとArm-basedのGrace CPUを組み合わせている。"
+        },
+        {
+          "t": "p",
+          "x": "RTX Spark N1X Superchipは、20-coreのGrace CPUと、6,144基のCUDAコアを備えたBlackwell RTX GPUを統合する。構成は最大128 GBのLPDDR5Xユニファイドメモリと最大4 TBのPCIe 5.0 SSDで、Nvidiaはクラウドサービスに頼らずローカルでAIモデルを動かすためのFP4 AI性能を最大1ペタフロップとしている。"
+        },
+        {
+          "t": "p",
+          "x": "「Personal AI Studio」と位置付けられ、LM Studio、Ollama、Nvidia Nemotronモデルに対応するほか、モデルの構築・ファインチューニング・実行のためのCUDA、ローカルネットワーク上のデバイスに推論を分散するNvidia PAIR(Personal AI Router)をサポートする。DLSS 5でのゲームにも対応するが、RTX Sparkの初期レビューでは一部ゲームで起動失敗やクラッシュが報告されている。"
+        },
+        {
+          "t": "p",
+          "x": "接続端子はUSB Type-C、10 GbE Ethernet、Wi-Fi 7。AI Top Aeroは2026年11月10日に発売された。Gigabyteは価格を明らかにしていないが、類似のAI Top Atomは64 GBメモリと2 TB SSDの構成で$4,999からとなっている。"
+        }
+      ]
+    },
+    "gadgets/googlehome-nest-liveview-fix": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2024/04/Voice-controls-from-Nest-Hub-Photo-frame-view.jpg?quality=82&strip=all&w=1600",
+          "cap": "Nest Hub"
+        },
+        {
+          "t": "p",
+          "x": "Nest Camデバイスの「Live View」の不具合修正、Nest Hubの改善、Geminiのアップグレードなどを含む新しいGoogle Homeアップデートが配信されている。"
+        },
+        {
+          "t": "p",
+          "x": "まだアーリーアクセス段階のGeminiは、スマートホーム操作がさらに改善され、タイマーが速くなり、「より会話的な音声フィードバック」を返し、Broadcastsも高速化した。特に注目すべきは、Nest Hubのスマートディスプレイが質問に対して「役立つ場合には関連画像」を表示するようになった点だ。"
+        },
+        {
+          "t": "p",
+          "x": "Google Homeアプリには「Google Home Premium」の設定ページ、複数のNest Thermostatsがある家庭向けの「Eco Mode Everywhere」トグル、対応ロック向けのGoogle WalletのHomeキーが追加された。"
+        },
+        {
+          "t": "p",
+          "x": "旧型のNest Camデバイスには、Nest Helloなどで起きていた「Live View」の不具合修正に加え、カメラ履歴の操作、一部の接続環境でのライブ配信、Nest Cam IQでイベントプレビューが空白になる問題、カメラの時計の精度に関する修正が入る。"
+        },
+        {
+          "t": "p",
+          "x": "AIエージェント関連では、Google Home MCP接続によって、エージェントが自動化を操作し、「サーモスタット、扇風機、空気清浄機、ロボット掃除機、照明効果、キッチン家電、EV充電器、煙・一酸化炭素警報器」にわたる新たな操作や状態確認を利用できるようになった。スマートスピーカー向けのアップデートも配信中だが、詳細は限られている。"
+        }
+      ]
+    },
+    "gadgets/pixel-drop-nov-gemini-intel": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/header_Pixel_drop_image.width-1300.jpg",
+          "cap": "Pixel Drop"
+        },
+        {
+          "t": "p",
+          "x": "11月のPixel Dropが到着した。新機能と拡張機能により、Pixel端末はよりパーソナルで直感的、そして便利になる。アップデートは本日から配信が始まり、今後数週間にわたって続く。"
+        },
+        {
+          "t": "p",
+          "x": "Pixel 10端末でGemini Intelligenceが使えるようになった。Ramblerやパーソナライズされた提案といった新機能に加え、朝のコーヒーの注文のような複数ステップのタスクもこなす。Ramblerは「えー」のようなつなぎ言葉を自動で取り除き、考えを明快で整った文章にまとめる。"
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Pixel_10_Pro_Gemini_Intelligence.width-1200.format-webp.webp",
+          "cap": "Pixel 10 ProのRambler"
+        },
+        {
+          "t": "p",
+          "x": "Geminiは食料品の購入、配車の予約、テイクアウトの注文といった複数ステップのタスクを処理でき、この機能は日本、英国、インドでも利用可能になった。月々の支出を追うトラッカーや、フライトと予約の詳細を取り込む旅行カウントダウンなど、自分専用のウィジェットも作れる。"
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Pixel_11_Pro_Create_My_Widget_re.width-1200.format-webp.webp",
+          "cap": "ウィジェットを言葉で説明する"
+        },
+        {
+          "t": "p",
+          "x": "Pixel 11シリーズではCall Screenが強化された。Geminiが知らない発信者に連絡の理由を、より会話に近い形で尋ね、画面にはリアルタイムの文字起こしが表示される。HiLightはGoogle Messagesに対応し、端末を伏せて置いているときにお気に入りの連絡先からメッセージが届くと光って知らせる。Pixel Tagは11月11日に登場する。"
+        }
+      ]
     }
   }
 }

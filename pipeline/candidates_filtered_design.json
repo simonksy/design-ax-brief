@@ -1,198 +1,18 @@
 {
   "section": "design",
-  "now_iso": "2026-11-10T22:00:35Z",
+  "now_iso": "2026-11-11T22:00:41Z",
   "window_hours": 72,
   "items": [
-    {
-      "title": "Adobe Powers a New Era of Creativity, Bringing Agents and Tools to Creatives Wherever and However They Create",
-      "url": "https://news.adobe.com/news/2026/11/adobe-powers-new-era-of-creativity",
-      "source": "Adobe Newsroom",
-      "category": "workflow",
-      "published_iso": "2026-11-10T10:05:00Z",
-      "excerpt": "Adobe MAX 2026 keynote release: Creative Agent expands across Firefly and Creative Cloud, a local MCP preview lets third-party agents edit native Photoshop/Illustrator/Premiere/After Effects files, Firefly Builder (private beta) turns prompts into on-brand interactive prototypes, plus Google and Microsoft partnerships.",
-      "og_image": "https://news.adobe.com/news/2026/11/media_194f62215cc674a3099d1a6f6b08199d16183a1ba.jpg?width=1200&format=pjpg&optimize=medium",
-      "history_match": {
-        "score": 0.152,
-        "date": "2026-10-18",
-        "url": "https://nvidianews.nvidia.com/news/adobe-and-nvidia-expand-collaboration-to-speed-agentic-creation",
-        "title": "Adobe and NVIDIA Expand Collaboration to Speed Agentic Creation",
-        "band": "related"
-      },
-      "cluster": "c1"
-    },
-    {
-      "title": "Adobe Firefly Expands as the AI Creative Studio, Bringing Adobe's Trusted Creative Tools to Every Creator",
-      "url": "https://news.adobe.com/news/2026/11/adobe-firefly-expands",
-      "source": "Adobe Newsroom",
-      "category": "render",
-      "published_iso": "2026-11-10T10:05:00Z",
-      "excerpt": "Firefly adds Creative Agent across its editors, Quick Actions, Firefly Graph (beta) for repeatable node workflows, and new video, design and image tools including a design-to-code prototyping preview. (Time from Google News; page shows date only.)",
-      "og_image": "https://news.adobe.com/news/2026/11/media_1be983d78cf64b14905c05379432c9a51f63f93b1.jpg?width=1200&format=pjpg&optimize=medium",
-      "history_match": {
-        "score": 0.198,
-        "date": "2026-11-09",
-        "url": "https://www.youtube.com/watch?v=dGEv6re6uYI",
-        "title": "Tell Your Story with Seedance 2.5 | Adobe Firefly",
-        "band": "related"
-      },
-      "cluster": "c1"
-    },
-    {
-      "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
-      "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
-      "source": "TechCrunch",
-      "category": "figma",
-      "published_iso": "2026-11-10T14:05:10+00:00",
-      "excerpt": "Adobe is taking on Figma with a new Firefly prototype builder that generates interactive sites and apps from prompts, and launches a local MCP so outside AI agents can drive Creative Cloud apps.",
-      "og_image": "https://techcrunch.com/wp-content/uploads/2026/11/FF-AIA-PlanMode-No-Logo-4.jpg?resize=1200,675",
-      "history_match": {
-        "score": 0.191,
-        "date": "2026-11-09",
-        "url": "https://www.youtube.com/watch?v=dGEv6re6uYI",
-        "title": "Tell Your Story with Seedance 2.5 | Adobe Firefly",
-        "band": "related"
-      },
-      "cluster": "c1"
-    },
-    {
-      "title": "Adobe is going all in on agentic AI",
-      "url": "https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates",
-      "source": "The Verge",
-      "category": "workflow",
-      "published_iso": "2026-11-10T14:00:00+00:00",
-      "excerpt": "Third-party AI agents can now operate Creative Cloud apps for you, and Firefly's AI Assistant can even run social media accounts, as Adobe reorients MAX 2026 around agents.",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/FF-AIA-No-Logo-4.jpg?quality=90&strip=all&w=1200",
-      "history_match": {
-        "score": 0.162,
-        "date": "2026-10-18",
-        "url": "https://nvidianews.nvidia.com/news/adobe-and-nvidia-expand-collaboration-to-speed-agentic-creation",
-        "title": "Adobe and NVIDIA Expand Collaboration to Speed Agentic Creation",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Photoshop, Lightroom, and Premiere are making it easier to remove things",
-      "url": "https://www.theverge.com/tech/1030653/adobe-max-2026-photoshop-premiere-removal-updates",
-      "source": "The Verge",
-      "category": "render",
-      "published_iso": "2026-11-10T14:00:00+00:00",
-      "excerpt": "Rundown of the new AI editing and design tools in Creative Cloud and Firefly from MAX 2026, led by smarter object/distraction removal across Photoshop, Lightroom and Premiere.",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/PS-Remove-No-Logo-2.jpg?quality=90&strip=all&w=1200"
-    },
-    {
-      "title": "Adobe unveils Photoshop 2027 with a host of new AI features",
-      "url": "https://www.creativebloq.com/news/adobe-unveils-photoshop-2027-with-a-host-of-new-ai-features",
-      "source": "Creative Bloq",
-      "category": "render",
-      "published_iso": "2026-11-10T15:21:36Z",
-      "excerpt": "Creative Bloq's look at Photoshop 2027: the Creative Agent and new generative features aimed at clearing busywork from retouching and compositing.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/v39ST7eeazreiuEfSYZnTJ-1920-80.jpg"
-    },
-    {
-      "title": "Adobe wants an AI agent to do your Premiere Pro editing",
-      "url": "https://www.creativebloq.com/news/adobe-premiere-pro-is-getting-an-ai-agent-to-do-the-boring-editing-jobs",
-      "source": "Creative Bloq",
-      "category": "render",
-      "published_iso": "2026-11-10T15:14:51Z",
-      "excerpt": "A Creative Agent revealed at Adobe MAX comes to Premiere Pro to take on the boring editing jobs, shifting editors toward directing an agent.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/E8YtHuCESfdmZLx6nXpNJ4-1920-80.jpg",
-      "history_match": {
-        "score": 0.202,
-        "date": "2026-11-02",
-        "url": "https://the-decoder.com/adobe-is-testing-how-well-ai-agents-can-use-editing-tools-like-a-photoshop-professional-would/",
-        "title": "Adobe is testing how well AI agents can use editing tools like a Photoshop professional would",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Adobe's Google partnership hints at a radically different future for Photoshop",
-      "url": "https://www.creativebloq.com/news/adobes-google-partnership-hints-at-a-radically-different-future-for-photoshop",
-      "source": "Creative Bloq",
-      "category": "workflow",
-      "published_iso": "2026-11-10T15:56:28Z",
-      "excerpt": "Adobe and Google DeepMind are exploring a customised Google image model for Photoshop that would allow near-real-time text-prompt edits and variation switching without breaking flow; exploratory, no release date.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/S5fvngHgSmS5ZR3ZtRpHSm-1920-80.jpg"
-    },
-    {
-      "title": "Adobe releases Photoshop 28.0",
-      "url": "https://www.cgchannel.com/2026/11/adobe-releases-photoshop-28-0/",
-      "source": "CG Channel",
-      "category": "render",
-      "published_iso": "2026-11-10T14:30:18+00:00",
-      "excerpt": "Big Photoshop update adds eye-catching AI relighting, trace erase and Generative Recompose; CG Channel details how the features work. (Time from RSS.)",
-      "og_image": "https://www.cgchannel.com/wp-content/uploads/2026/11/261110_Photoshop28_f-960x480.jpg"
-    },
-    {
-      "title": "Adobe releases After Effects 27.0",
-      "url": "https://www.cgchannel.com/2026/11/adobe-releases-after-effects-27-0/",
-      "source": "CG Channel",
-      "category": "render",
-      "published_iso": "2026-11-10T16:56:07+00:00",
-      "excerpt": "After Effects 27.0 brings changes to the 3D toolset and a new agentic AI Assistant for compositing and motion graphics work. (Time from RSS.)",
-      "og_image": "https://www.cgchannel.com/wp-content/uploads/2026/11/261110_AfterEffects27_f-960x480.jpg",
-      "history_match": {
-        "score": 0.175,
-        "date": "2026-10-18",
-        "url": "https://nvidianews.nvidia.com/news/adobe-and-nvidia-expand-collaboration-to-speed-agentic-creation",
-        "title": "Adobe and NVIDIA Expand Collaboration to Speed Agentic Creation",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Otoy releases OctaneRender 2027.1 in beta",
-      "url": "https://www.cgchannel.com/2026/11/otoy-releases-octanerender-2027-1/",
-      "source": "CG Channel",
-      "category": "render",
-      "published_iso": "2026-11-09T17:00:43+00:00",
-      "excerpt": "OctaneRender 2027.1 Beta 1 adds an MCP Server so AI tools can build and render scenes in the GPU renderer. (Article originally posted March 2026, updated for Beta 1; time from RSS.)",
-      "og_image": null
-    },
-    {
-      "title": "Introducing AI Assistant (beta) | Adobe Creative Cloud",
-      "url": "https://www.youtube.com/watch?v=qQym8jAyZBI",
-      "source": "Adobe Creative Cloud (YouTube)",
-      "category": "social",
-      "published_iso": "2026-11-10T06:30:23-08:00",
-      "excerpt": "Adobe's official intro to AI Assistant (beta), now across Photoshop, Premiere, After Effects, Illustrator and InDesign.",
-      "og_image": "https://i.ytimg.com/vi/qQym8jAyZBI/maxresdefault.jpg",
-      "history_match": {
-        "score": 0.183,
-        "date": "2026-10-18",
-        "url": "https://nvidianews.nvidia.com/news/adobe-and-nvidia-expand-collaboration-to-speed-agentic-creation",
-        "title": "Adobe and NVIDIA Expand Collaboration to Speed Agentic Creation",
-        "band": "related"
-      },
-      "cluster": "c11"
-    },
-    {
-      "title": "What's New in Adobe Illustrator and InDesign | Adobe Creative Cloud",
-      "url": "https://www.youtube.com/watch?v=ag3Q1lRivTA",
-      "source": "Adobe Creative Cloud (YouTube)",
-      "category": "social",
-      "published_iso": "2026-11-10T06:00:27-08:00",
-      "excerpt": "Official walkthrough of the MAX release for Illustrator and InDesign, including the new AI Assistant (beta) for repetitive layout and vector tasks.",
-      "og_image": "https://i.ytimg.com/vi/ag3Q1lRivTA/maxresdefault.jpg",
-      "cluster": "c11"
-    },
-    {
-      "title": "Unreal Engine 5.9 Preview Is Out & It Was Built With AI",
-      "url": "https://80.lv/articles/unreal-engine-5-9-preview-is-out-it-was-built-with-ai/",
-      "source": "80 Level",
-      "category": "render",
-      "published_iso": "2026-11-10T08:24:00+00:00",
-      "excerpt": "Epic's UE 5.9 Preview is the first engine release built primarily with agentic workflows: a handful of people directed fleets of agents to port UE6 AI tooling and add Web as a platform, ahead of the Epic AI MegaJam.",
-      "og_image": "https://cdn.80.lv/api/upload/meta/50957/images/6af2d4ad241ac/contain_1200x630.jpg"
-    },
     {
       "title": "6 easy ways to use the Figma agent right now",
       "url": "https://www.figma.com/blog/6-easy-ways-to-use-the-figma-agent-right-now/",
       "source": "Figma Blog",
       "category": "figma",
-      "published_iso": "2026-11-09T21:46:00.000Z",
-      "excerpt": "Figma's guide to six practical uses of its on-canvas design agent, from making designs more expressive and automating busywork to exploring more options on the canvas.",
-      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/e45f20141c28283bd8a1a0a1889c5f8e9befd92",
+      "published_iso": "2026-11-09T21:46:00Z",
+      "excerpt": "Figma's own guide to six practical uses of the in-canvas Figma agent: making designs more expressive, automating busywork, and exploring more variations directly on the canvas.",
+      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/e45f20141c28283bd8a1a0a1889c5f8e9befd922-7680x4320.png?w=1200&q=70&fit=max&auto=format",
       "history_match": {
-        "score": 0.158,
+        "score": 0.205,
         "date": "2026-10-28",
         "url": "https://www.youtube.com/watch?v=BS-N-AM5ql4",
         "title": "Explore Shaders and Motion with the Figma agent | Figma on Figma",
@@ -200,52 +20,177 @@
       }
     },
     {
-      "title": "Open your apps in Claude and work in them together",
-      "url": "https://claude.com/resources/articles/interactive-connectors-full-tool",
-      "source": "Claude",
+      "title": "Try Tabletop: customizable, collaborative spaces built with AI",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
+      "source": "Google Blog",
       "category": "figma",
-      "published_iso": "2026-11-10T00:00:00Z",
-      "excerpt": "Claude's interactive connectors (built on MCP Apps) now open beside the chat or full screen: Adobe for photo retouching/effects, Canva, Webflow, Vercel and others, with Figma and Shopify building integrations. (Date-only in JSON-LD.)",
-      "og_image": "https://claude.com/resources/articles/interactive-connectors-full-tool/opengraph-image/og",
+      "published_iso": "2026-11-11T16:00:00Z",
+      "excerpt": "Google Labs' new experiment Tabletop lets groups prompt AI to build custom collaborative mini-apps such as interactive itineraries, polls and brackets; waitlist now open.",
+      "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/labs_tabletop_blog_image_2784x1566.max-1440x810.jpg",
       "history_match": {
-        "score": 0.203,
-        "date": "2026-10-17",
-        "url": "https://www.figma.com/blog/design-together-with-code-layers/",
-        "title": "Design together with code layers on the canvas",
+        "score": 0.161,
+        "date": "2026-11-07",
+        "url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
+        "title": "Meta's Muse AI can create custom 'spaces' for the version of the app you need right now",
         "band": "related"
       }
     },
     {
-      "title": "Working with Claude Sheets, Whiteboards, and Interactive Connectors",
-      "url": "https://claude.com/resources/articles/more-ways-to-work-with-claude-sheets-whiteboards-and-interactive-connectors",
-      "source": "Claude",
-      "category": "workflow",
-      "published_iso": "2026-11-10T00:00:00Z",
-      "excerpt": "Anthropic introduces Claude Whiteboards and Sheets (beta, all paid plans) as new artifact surfaces alongside Claude Docs, Slides, Design and Motion, plus upgraded interactive connectors. (Date-only in JSON-LD.)",
-      "og_image": "https://claude.com/resources/articles/more-ways-to-work-with-claude-sheets-whiteboards-and-interactive-connectors/opengraph-image/og"
+      "title": "AI prototyping inside your design system: a hands-on guide for design & product teams",
+      "url": "https://uxdesign.cc/ai-prototyping-inside-your-design-system-a-hands-on-guide-for-design-product-teams-44825904c08d",
+      "source": "UX Collective",
+      "category": "tokens",
+      "published_iso": "2026-11-10T23:34:58Z",
+      "excerpt": "Why AI builders hand back a lookalike instead of your real components, what has to exist in a design system before an agent can use it, and the MCP setup the author uses for in-system prototyping.",
+      "og_image": "https://cdn-images-1.medium.com/max/1024/0*GVeuczf4PnCJn95b.jpeg",
+      "history_match": {
+        "score": 0.28,
+        "date": "2026-10-27",
+        "url": "https://uxdesign.cc/building-an-ai-ready-design-system-library-code-figma-with-mcp-ec5d9e8c90d2",
+        "title": "Building an AI-ready design system library: Code → Figma with MCP",
+        "band": "related"
+      }
     },
     {
-      "title": "Trimble expands AI capabilities across construction lifecycle",
-      "url": "https://www.engineering.com/trimble-expands-ai-capabilities-across-construction-lifecycle/",
+      "title": "Your design job is merging with the ones next to it",
+      "url": "https://uxdesign.cc/five-pairs-of-hands-what-the-typesetters-can-teach-designers-about-ai-9d6b8e8c2285",
+      "source": "UX Collective",
+      "category": "tokens",
+      "published_iso": "2026-11-09T12:13:36Z",
+      "excerpt": "A conversation with Christian Crumlish on what the collapse of typesetting roles teaches designers about AI merging adjacent jobs, and which work is worth keeping.",
+      "og_image": "https://cdn-images-1.medium.com/max/1024/0*DzAiRRarpyntojbB"
+    },
+    {
+      "title": "Config India 2026: What changed when designers started shipping code",
+      "url": "https://www.youtube.com/watch?v=3EbdkzGwL7c",
+      "source": "Figma (YouTube)",
+      "category": "social",
+      "published_iso": "2026-11-11T15:24:45Z",
+      "excerpt": "Freshworks' Sascha Trinkaus on connecting its design system to code so designers can ship, and what happens when they ship faster than teams can judge the ideas.",
+      "og_image": "https://i.ytimg.com/vi/3EbdkzGwL7c/maxresdefault.jpg",
+      "history_match": {
+        "score": 0.213,
+        "date": "2026-10-18",
+        "url": "https://www.figma.com/blog/build-by-design/",
+        "title": "Build by Design: New workflows for new ways of building",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Learn Figma Weave in 9 minutes",
+      "url": "https://www.youtube.com/watch?v=rYH3SIJWNHg",
+      "source": "Figma (YouTube)",
+      "category": "social",
+      "published_iso": "2026-11-11T18:00:35Z",
+      "excerpt": "Figma's walkthrough of Weave, the node-based workspace that chains AI models and editing tools into repeatable workflows for consistent, production-ready creative assets.",
+      "og_image": "https://i.ytimg.com/vi/rYH3SIJWNHg/maxresdefault.jpg",
+      "history_match": {
+        "score": 0.414,
+        "date": "2026-11-03",
+        "url": "https://www.figma.com/blog/the-tldr-on-figma-weave/",
+        "title": "The TL;DR on Figma Weave: Make your creative process repeatable",
+        "band": "likely-repeat"
+      }
+    },
+    {
+      "title": "Bytedance's Seedream 5.5 promises pixel-stable image editing across 100 rounds without color drift",
+      "url": "https://the-decoder.com/bytedances-seedream-5-5-promises-pixel-stable-image-editing-across-100-rounds-without-color-drift/",
+      "source": "The Decoder",
+      "category": "render",
+      "published_iso": "2026-11-09T18:50:01Z",
+      "excerpt": "ByteDance Seed's Seedream 5.5 targets production workflows: stable multi-pass editing up to 100 iterations, native RGBA output with transparent backgrounds, rolling out across Dreamina and CapCut. (Off-list: no on-list render outlet covered it.)",
+      "og_image": "https://the-decoder.com/wp-content/uploads/2026/11/seedance_examples-1200x603.png"
+    },
+    {
+      "title": "MiniMax H3 Image and Highspeed now available on AI Gateway",
+      "url": "https://vercel.com/changelog/minimax-h3-image-and-highspeed-now-available-on-ai-gateway",
+      "source": "Vercel",
+      "category": "render",
+      "published_iso": "2026-11-10T00:00:00Z",
+      "excerpt": "MiniMax's new open-weights H3 Image model (4K generation and editing) and its Highspeed variant are now callable via Vercel AI Gateway with one API key.",
+      "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/20yZQiIRVIrL4Y5mvQlsTe/3c8935388762292ca142432e205b9b9f/Vercel_x_MiniMax.png"
+    },
+    {
+      "title": "Creators built playable worlds, VR games and digital pets for Tripo AI's first 3D world hackathon",
+      "url": "https://80.lv/articles/creators-developed-playable-worlds-vr-games-digital-pets-for-tripo-ai-s-first-3d-world-hackathon/",
+      "source": "80 Level",
+      "category": "render",
+      "published_iso": "2026-11-11T19:42:00Z",
+      "excerpt": "More than 2,000 teams from 78 regions used Tripo's AI 3D generation in Tripothon S1, producing games, immersive experiences, creative apps and physical designs.",
+      "og_image": "https://cdn.80.lv/api/upload/meta/50892/images/6aebc2cf9eae0/contain_1200x630.jpg",
+      "history_match": {
+        "score": 0.174,
+        "date": "2026-11-05",
+        "url": "https://www.voxelmatters.com/tripo-ai-launches-agentic-canvas-for-node-based-3d-workflows/",
+        "title": "Tripo AI launches Agentic Canvas for node-based 3D workflows",
+        "band": "related"
+      }
+    },
+    {
+      "title": "So, what are the best AI video generators, and how do they compare on price?",
+      "url": "https://www.creativebloq.com/features/so-what-are-the-best-ai-video-generators-and-how-do-they-compare-on-price",
+      "source": "Creative Bloq",
+      "category": "render",
+      "published_iso": "2026-11-11T20:00:00Z",
+      "excerpt": "Creative Bloq compares the top five AI video generators for creatives, including Kling, on hidden costs, credit systems and commercial-use terms.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/SATszKasT2s5mVyDk4ACK4-1920-80.jpg"
+    },
+    {
+      "title": "Praxis-1 is now available",
+      "url": "https://runway.com/news/company-news/praxis-1-is-now-available",
+      "source": "Runway",
+      "category": "vr",
+      "published_iso": "2026-11-11T15:00:00Z",
+      "excerpt": "Runway releases Praxis-1, its world action model for robotics, with open weights under Apache 2.0 on Hugging Face and GitHub, extending its world-model work beyond video.",
+      "og_image": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/frame-8-bddb7fbc-4647-44e5-bf65-1fbb7e559b24.png"
+    },
+    {
+      "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+      "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+      "source": "Google DeepMind",
+      "category": "vr",
+      "published_iso": "2026-11-10T15:00:00Z",
+      "excerpt": "DeepMind's Gemini Robotics 2.5 update pushes general dexterity for physical AI, the embodied-model layer behind next-generation robot product design.",
+      "og_image": null,
+      "history_match": {
+        "score": 0.186,
+        "date": "2026-11-05",
+        "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+        "title": "Accelerating engineering for the physical world",
+        "band": "related"
+      }
+    },
+    {
+      "title": "At CoRL, NVIDIA and partners reveal how robots rehearse delicate work in simulation",
+      "url": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/",
+      "source": "NVIDIA Blog",
+      "category": "vr",
+      "published_iso": "2026-11-09T14:00:01Z",
+      "excerpt": "NVIDIA introduces GR00T 2, Isaac Lab 3.0 and new open benchmarks at CoRL, bringing simulation-first precision training to physical-AI robot development.",
+      "og_image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/corl-corp-blog-promo-pack-1920x1080-1-1680x945.png"
+    },
+    {
+      "title": "Clones and spies (AI is in a weird place right now)",
+      "url": "https://www.engineering.com/clones-and-spies-ai-is-in-a-weird-place-right-now/",
       "source": "Engineering.com",
       "category": "cad",
-      "published_iso": "2026-11-10T10:57:24+00:00",
-      "excerpt": "Trimble adds AI tools spanning generative design, jobsite diagnostics, automated inspections and contract risk analysis, with AI agents in Trimble Connect and governance features.",
-      "og_image": "https://www.engineering.com/wp-content/uploads/2025/11/Trimble-logo.png"
+      "published_iso": "2026-11-11T18:41:37Z",
+      "excerpt": "Engineering.com tests vibe-coded clones of AutoCAD (ArtCraft suite) and Fusion (SolidCraft, browser 3D CAD) and asks whether AI-built CAD clones are the tip of the iceberg.",
+      "og_image": "https://www.engineering.com/wp-content/uploads/2026/11/img_engpaper_thumb2026-nov10.png"
     },
     {
-      "title": "Creality's new mBox is an AI-enabled 3D printer for kids",
-      "url": "https://www.voxelmatters.com/crealitys-new-mbox-is-an-ai-enabled-3d-printer-for-kids/",
-      "source": "VoxelMatters",
+      "title": "Siemens adds agentic AI to HyperLynx verification workflows",
+      "url": "https://www.engineering.com/siemens-adds-agentic-ai-to-hyperlynx-verification-workflows/",
+      "source": "Engineering.com",
       "category": "cad",
-      "published_iso": "2026-11-10T16:00:53+00:00",
-      "excerpt": "Creality's $329 mBox is a compact, AI-enabled 3D printer designed for children, sold via TikTok Shop in the US. AI depth to be verified.",
-      "og_image": "https://www.voxelmatters.com/wp-content/uploads/2026/11/creality-mbox-3.jpeg",
+      "published_iso": "2026-11-11T14:11:42Z",
+      "excerpt": "Siemens' new agentic toolkit lets PCB designers run SerDes, DDR, signal- and power-integrity analysis in HyperLynx from natural-language prompts.",
+      "og_image": null,
       "history_match": {
-        "score": 0.181,
-        "date": "2026-11-08",
-        "url": "https://all3dp.com/4/this-ai-3d-printer-can-now-design-your-parts-too-i-have-questions/",
-        "title": "This AI 3D Printer Can Now Design Your Parts, Too. I Have Questions.",
+        "score": 0.286,
+        "date": "2026-10-25",
+        "url": "https://www.engineering.com/siemens-expands-agentic-ai-for-3d-ic-design-workflows/",
+        "title": "Siemens expands agentic AI for 3D IC design workflows",
         "band": "related"
       }
     },
@@ -255,26 +200,83 @@
       "source": "OpenAI",
       "category": "cad",
       "published_iso": "2026-11-09T08:00:00Z",
-      "excerpt": "Kuken Industries uses the OpenAI API to search 70 years of cooling-tower engineering drawings; engineers find the drawing for a repair in 4.5 minutes instead of nearly an hour. (Page 403; time and text from OpenAI RSS.)",
+      "excerpt": "Kuken Industries uses the OpenAI API to search 70 years of cooling-tower engineering drawings; engineers find the right drawing for a repair in 4.5 minutes instead of nearly an hour.",
       "og_image": null
     },
     {
-      "title": "Animaj Unveils FlipMove AI Animation Workflow",
-      "url": "https://www.awn.com/news/animaj-unveils-flipmove-ai-animation-workflow",
-      "source": "AWN",
-      "category": "render",
-      "published_iso": "2026-11-10T08:03:26-08:00",
-      "excerpt": "Animaj (Pocoyo, Maya the Bee) unveils FlipMove, an artist-led AI system that carries scenes from approved animatic to finished animation, already in production on 'Ozzy Fox'. Off-list outlet.",
-      "og_image": "https://www.awn.com/sites/default/files/styles/og_1200/public/image/attached/1081768-ofavailable-youtube-1280.jpg?itok=Iz8UDUrV"
+      "title": "Creality's new mBox is an AI-enabled 3D printer for kids",
+      "url": "https://www.voxelmatters.com/crealitys-new-mbox-is-an-ai-enabled-3d-printer-for-kids/",
+      "source": "VoxelMatters",
+      "category": "cad",
+      "published_iso": "2026-11-10T16:00:53Z",
+      "excerpt": "Creality's $329 mBox pairs AI print monitoring with CubeMe and SnapForm, AI tools that turn children's photos or drawings into printable 3D models.",
+      "og_image": "https://www.voxelmatters.com/wp-content/uploads/2026/11/creality-mbox-3.jpeg",
+      "history_match": {
+        "score": 0.165,
+        "date": "2026-11-08",
+        "url": "https://all3dp.com/4/this-ai-3d-printer-can-now-design-your-parts-too-i-have-questions/",
+        "title": "This AI 3D Printer Can Now Design Your Parts, Too. I Have Questions.",
+        "band": "related"
+      }
     },
     {
-      "title": "Framestore Brings Hybrid AI/VFX to Sky's Christmas Campaign",
-      "url": "https://www.awn.com/news/framestore-brings-hybrid-aivfx-skys-christmas-campaign",
-      "source": "AWN",
-      "category": "render",
-      "published_iso": "2026-11-09T06:56:50-08:00",
-      "excerpt": "Framestore's Sky Christmas spot used new AI tools built into its pipeline for previs and character removal alongside CG environments. Off-list outlet; check marketing dup.",
-      "og_image": "https://www.awn.com/sites/default/files/styles/og_1200/public/image/attached/1081755-skyxmsstill015-1280.jpg?itok=TlVSHe-P"
+      "title": "Mori AI home robot \"resembles a contemporary table lamp\"",
+      "url": "https://www.dezeen.com/2026/11/10/okaq-mori-ai-home-robot-lamp/",
+      "source": "Dezeen",
+      "category": "cad",
+      "published_iso": "2026-11-10T15:00:00Z",
+      "excerpt": "Cambridge startup OKA designed Mori, a lamp-shaped AI companion robot that greets people, changes light and moves its neck, styled to read as furniture rather than a machine. (Off-list: industrial design of an AI device.)",
+      "og_image": "https://static-2026.dezeen.com/uploads/2026/11/oka-mori-robot-lamp_dezeen_2364_sq-1.jpg"
+    },
+    {
+      "title": "Is ArtStation's new AI art policy good enough?",
+      "url": "https://www.creativebloq.com/news/is-artstations-new-ai-art-policy-good-enough",
+      "source": "Creative Bloq",
+      "category": "workflow",
+      "published_iso": "2026-11-10T17:00:00Z",
+      "excerpt": "ArtStation's new rules for AI-generated art try to balance artist protection and disclosure; Creative Bloq weighs whether the policy goes far enough for working creatives.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/dGgCUgM9B78DhMFiK75VbZ-1200-80.webp"
+    },
+    {
+      "title": "Adobe's Google partnership hints at a radically different future for Photoshop",
+      "url": "https://www.creativebloq.com/news/adobes-google-partnership-hints-at-a-radically-different-future-for-photoshop",
+      "source": "Creative Bloq",
+      "category": "workflow",
+      "published_iso": "2026-11-10T15:56:28Z",
+      "excerpt": "Adobe and Google are integrating creative tools into Google apps, including Adobe AI editing inside Gemini and PDF editing in Drive. Note: MAX-week adjacent, check against the 11-11 Adobe MAX card.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/S5fvngHgSmS5ZR3ZtRpHSm-1920-80.jpg",
+      "history_match": {
+        "score": 0.208,
+        "date": "2026-11-11",
+        "url": "https://news.adobe.com/news/2026/11/adobe-powers-new-era-of-creativity",
+        "title": "Adobe Powers a New Era of Creativity, Bringing Agents and Tools to Creatives Wherever and However They Create",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Layer launches Motion Designer Agent: game studios can now create campaign-ready UA videos just by chatting",
+      "url": "https://www.pocketgamer.biz/layer-launches-motion-designer-agent-game-studios-can-now-create-campaign-ready-ua-videos-just-by-chatting/",
+      "source": "PocketGamer.biz",
+      "category": "workflow",
+      "published_iso": "2026-11-11T14:00:00Z",
+      "excerpt": "Layer's Motion Designer Agent lets marketers brief, produce and iterate video ads in one conversation with no motion-design skills. (Off-list; check cross-section dup with marketing/games.)",
+      "og_image": "https://media.pocketgamer.biz/images/142068/90190/layer-001_l1200.jpg",
+      "history_match": {
+        "score": 0.187,
+        "date": "2026-10-28",
+        "url": "https://www.youtube.com/watch?v=BS-N-AM5ql4",
+        "title": "Explore Shaders and Motion with the Figma agent | Figma on Figma",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Animaj unveils FlipMove AI animation workflow",
+      "url": "https://www.awn.com/news/animaj-unveils-flipmove-ai-animation-workflow",
+      "source": "Animation World Network",
+      "category": "workflow",
+      "published_iso": "2026-11-10T16:03:26Z",
+      "excerpt": "Animaj's artist-led FlipMove system carries scenes from approved animatic to finished animation and is already in production on 'Ozzy Fox'. (Off-list; check cross-section dup with movies.)",
+      "og_image": "https://www.awn.com/sites/default/files/styles/og_1200/public/image/attached/1081768-ofavailable-youtube-1280.jpg?itok=Iz8UDUrV"
     }
   ],
   "dedup": {
@@ -285,51 +287,10 @@
   "story_dedup": {
     "history_days": 30,
     "dropped": [],
-    "review": 10,
-    "same_story_pairs": [
-      [
-        "https://news.adobe.com/news/2026/11/adobe-powers-new-era-of-creativity",
-        "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
-        0.396
-      ],
-      [
-        "https://news.adobe.com/news/2026/11/adobe-firefly-expands",
-        "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
-        0.322
-      ],
-      [
-        "https://www.youtube.com/watch?v=qQym8jAyZBI",
-        "https://www.youtube.com/watch?v=ag3Q1lRivTA",
-        0.602
-      ]
-    ]
+    "review": 11,
+    "same_story_pairs": []
   },
   "history_digest": [
-    {
-      "date": "2026-10-12",
-      "title": "Odyssey-3 is a new generative world model that you can try for free",
-      "url": "https://the-decoder.com/odyssey-3-is-a-new-generative-world-model-that-you-can-try-for-free/"
-    },
-    {
-      "date": "2026-10-12",
-      "title": "AI-generated UI is fast design, not UX",
-      "url": "https://uxdesign.cc/ai-generated-ui-is-fast-design-not-ux-855ca8abcd28"
-    },
-    {
-      "date": "2026-10-12",
-      "title": "Tesler's Law: complexity moved to a different part of the journey",
-      "url": "https://uxdesign.cc/teslers-law-complexity-survived-the-chat-field-it-just-moved-to-a-different-place-in-the-journey-8a63f099f490"
-    },
-    {
-      "date": "2026-10-12",
-      "title": "Why 'boring' AI is Hollywood's best bet",
-      "url": "https://www.creativebloq.com/features/why-boring-ai-is-hollywoods-best-bet"
-    },
-    {
-      "date": "2026-10-12",
-      "title": "Context Libraries: How AI power users manage context engineering",
-      "url": "https://www.nngroup.com/articles/context-libraries/"
-    },
     {
       "date": "2026-10-13",
       "title": "From a Figma URL to a custom WordPress theme with Claude Code",
@@ -999,6 +960,31 @@
       "date": "2026-11-10",
       "title": "Instagram's Effect Builder makes new filters from AI prompts",
       "url": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters"
+    },
+    {
+      "date": "2026-11-11",
+      "title": "Open your apps in Claude and work in them together",
+      "url": "https://claude.com/resources/articles/interactive-connectors-full-tool"
+    },
+    {
+      "date": "2026-11-11",
+      "title": "Adobe Powers a New Era of Creativity, Bringing Agents and Tools to Creatives Wherever and However They Create",
+      "url": "https://news.adobe.com/news/2026/11/adobe-powers-new-era-of-creativity"
+    },
+    {
+      "date": "2026-11-11",
+      "title": "Adobe releases After Effects 27.0",
+      "url": "https://www.cgchannel.com/2026/11/adobe-releases-after-effects-27-0/"
+    },
+    {
+      "date": "2026-11-11",
+      "title": "Adobe releases Photoshop 28.0",
+      "url": "https://www.cgchannel.com/2026/11/adobe-releases-photoshop-28-0/"
+    },
+    {
+      "date": "2026-11-11",
+      "title": "Trimble expands AI capabilities across construction lifecycle",
+      "url": "https://www.engineering.com/trimble-expands-ai-capabilities-across-construction-lifecycle/"
     }
   ]
 }

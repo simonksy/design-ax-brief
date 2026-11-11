@@ -9513,6 +9513,181 @@
           "x": "为回应担忧，TK允许作者发布说明，透明地交代AI在写作中的使用方式。该应用还能通过TK的MCP服务器或Claude技能连接用户自己的AI代理。TK目前可在网页端使用，桌面应用已列入路线图，拥有Medium账户的用户可免费使用。"
         }
       ]
+    },
+    "books/books-unions-openai-voice-brief": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/hero-2.jpg"
+        },
+        {
+          "t": "p",
+          "x": "10月29日，SAG-AFTRA、美国音乐家联合会（American Federation of Musicians）以及美国编剧工会（Writers Guild of America）的两个分会，在Sidney H. Stein法官审理的In re OpenAI, Inc., Copyright Infringement Litigation一案中提出动议，请求准许提交法庭之友意见书。这份34页的意见书支持由众多报社和作者组成的原告方，并请求法院驳回任何将AI训练一律视为合理使用的规则。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/brief-p19.jpg",
+          "cap": "2026年10月29日提交的意见书草案第19页。图片：In re OpenAI, Dkt. 2332，来自CourtListener"
+        },
+        {
+          "t": "p",
+          "x": "第19页将合成语音与工作流失联系起来。其中百分之二十一这一数字来自NAVA的State of Voiceover in 2026调查，该调查共收集1,379份回复：在被问及“你是否明知自己因合成语音而失去过工作？”时，百分之二十一的人回答是。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/nava-shot.jpg",
+          "cap": "NAVA调查页面，截图摄于2026年11月1日。图片：NAVA"
+        },
+        {
+          "t": "p",
+          "x": "工会认为，训练授权市场已经存在：他们2026年的合同中包含“在向第三方授权受保护作品用于训练面向公众、商业化的生成式AI系统时的通知与谈判权”。意见书写道：“若本案裁定训练一律属于合理使用，将使工会与业界在谈判桌上达成的条款失去意义。”"
+        },
+        {
+          "t": "img",
+          "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/picket.jpg",
+          "cap": "2023年7月31日，SAG-AFTRA在纽约Warner Bros. Discovery门外举行纠察抗议。摄影：Phil Roeder，来自Wikimedia Commons，CC BY 2.0"
+        },
+        {
+          "t": "p",
+          "x": "Stein法官首先需要决定是否接受这份意见书。"
+        }
+      ]
+    },
+    "books/books-claude-kindle-jailbreak-apps": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/11/claude-kindle-featured.jpeg?&fit=crop&w=1600&h=900"
+        },
+        {
+          "t": "p",
+          "x": "过去一年里，我们看到有人用旧Kindle做出各种有趣的东西，也看到有人用Claude定制设备软件。但直到现在，我还没见过有人同时做到这两点。"
+        },
+        {
+          "t": "p",
+          "x": "在ClaudeAI子版块上，用户abdenourgnx1展示了最近借助Claude完成的成果。他们手上有一台闲置的7th-gen Kindle，于是按照教程将其越狱，从而能访问这台电子阅读器的软件。随后，他们请Anthropic的AI助手帮了点忙："
+        },
+        {
+          "t": "p",
+          "x": "“越狱之后，claude就会接手，设计并构建你想要的任何应用。我只是给了它一张我想要的概念图，说明了我希望它如何运行，剩下的都是它完成的。记得为你的机型装好KUAL（kindle里的应用启动器）或其他同类工具。”"
+        },
+        {
+          "t": "p",
+          "x": "现在，这台Kindle成了一块可以挂在墙上的天气预报显示屏。它通过Wi-Fi获取新数据，每小时更新一次，但夜间不更新以节省电量。据称这一设置一周只消耗10%的电量，也就是说充一次电可以用两个多月。"
+        }
+      ]
+    },
+    "books/books-jaju-webtoon-ai-shortdrama": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://wimg.heraldcorp.com/news/cms/2026/11/10/news-p.v1.20261110.002e6a566b2744a899c811698375eee4_P2.png"
+        },
+        {
+          "t": "p",
+          "x": "内容制作公司Jaju Story表示，已完成利用5部韩国网漫原创知识产权（IP）制作中国AI短剧的合同签约。"
+        },
+        {
+          "t": "p",
+          "x": "Jaju Story正与中国本土AI制作公司合作，将5部国内原创IP制作成短剧，并通过当地平台发行。公司将参与原作策划及导演、审核工作，中国合作方则负责当地短剧制作、本地化、审查及发行等。"
+        },
+        {
+          "t": "p",
+          "x": "首批制作作品为《转生特急食谱》《Gwijeon》《Gimi》《公爵女拳手》《Aseul-aseul》共5部。据公司介绍，目前5部作品的制作合同均已签订，正在中国当地运用AI技术制作短剧，并准备于2026年11月通过腾讯、字节跳动、红果、微信等中国平台上线。"
+        },
+        {
+          "t": "p",
+          "x": "作品涵盖美食爱情、动作奇幻、古装惊悚、体育成长剧、现代爱情等多种类型。Jaju Story计划以原作的叙事和角色为基础制作影像内容，并按照合同约定的收益分成方式运营业务。"
+        },
+        {
+          "t": "p",
+          "x": "代表Kim Min-ju以作家身份活动，一直在网络小说、网漫、剧本等多个内容领域从事作品策划与写作，曾获大韩民国故事征集大赛优秀奖，目前负责故事及IP策划、原作写作以及各作品的商业化方向等。"
+        },
+        {
+          "t": "p",
+          "x": "公司还在推进以《转生特急食谱》等自有作品的世界观和角色为基础，将制作领域扩展到网漫和影像内容等。"
+        },
+        {
+          "t": "p",
+          "x": "正在考虑后续制作的作品为《Balbok》《Hwangunggi》《国唱Im Bang-ul》《黑暗中的证人》《Jakjeonghago Scandal》共5部。公司计划在首批及后续作品之外再获取更多IP，并结合各作品的制作准备情况和发行条件等扩大业务。"
+        },
+        {
+          "t": "p",
+          "x": "从长期看，公司将利用网络小说和网漫的世界观与角色，把内容制作范围扩展到短剧、动画、电影、音乐等，并考虑向中国以外的其他海外市场发行。"
+        },
+        {
+          "t": "p",
+          "x": "公司还计划推进与地方大学、教育机构及青年创作者等合作的AI内容制作教育和参与项目。"
+        },
+        {
+          "t": "p",
+          "x": "内容总监Gong Seong-sul表示：“AI不是取代创作者的手段，而是拓展创作者想象力和表达可能性的工具。”并称：“好内容的核心归根结底是打动人心的故事和情感。”"
+        },
+        {
+          "t": "p",
+          "x": "Gong Seong-sul接着表示：“我们要把一个原创IP扩展到网漫、短视频剧、动画、电影和音乐，打造在全球市场长久受欢迎的内容。”“我们将与地方创作人才共同成长，构建新的制作生态系统。”"
+        }
+      ]
+    },
+    "books/books-joongang-audiobook-ai-narration": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://image.koreajoongangdaily.com/12955845.webp?imageId=12955845&width=960&height=548&format=jpg",
+          "cap": "11月2日，《全知读者视角》（2018–20）有声书改编版在首尔西部Audien录音棚进行录制。"
+        },
+        {
+          "t": "p",
+          "x": "制作方主要用AI填补有声书行业的空白，例如为那些原本被认为缺乏商业价值的书制作音频版。"
+        },
+        {
+          "t": "p",
+          "x": "Audien有声书制作人Kim Song-hee表示：“AI只能在一定程度上表达情感。”这项技术或许适合非虚构作品的朗读，但AI-generated声音在小说改编中吸引力较弱。据Audien发行部门称，真人朗读的小说所获关注度据报约为AI版本的10倍。"
+        },
+        {
+          "t": "img",
+          "src": "https://image.koreajoongangdaily.com/12955847.webp?imageId=12955847&x=0.00&y=5.21&cropw=100.00&croph=75.68&width=960&height=548&format=jpg",
+          "cap": "有声书制作公司Audien的制作人Kim Song-hee（左）和Chang Ji-eun"
+        },
+        {
+          "t": "p",
+          "x": "1月至10月，Audien与真人配音演员合作的团队制作了约230部作品，而去年才成立的AI团队制作了约380部。一部五到六小时的有声书，若请多名配音演员制作约需500万韩元（3,680美元），用AI则约100万韩元即可完成。"
+        },
+        {
+          "t": "img",
+          "src": "https://image.koreajoongangdaily.com/12955846.webp?imageId=12955846&x=0.00&y=2.02&cropw=100.00&croph=57.13&width=960&height=750&format=jpg",
+          "cap": "配音演员在《全知读者视角》（2018-20）录音现场表演。"
+        },
+        {
+          "t": "p",
+          "x": "Audien改编的Lee Young-do作品《饮血之鸟》（2005）耗时两年半，动用58名配音演员，音频长达143小时40分钟。Kim Song-hee说：“AI在扩大整个有声书市场方面肯定能发挥作用。”"
+        }
+      ]
+    },
+    "books/madras-ai-library-books-fir": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.assettype.com/barandbench%2F2022-04%2F886749e2-68b4-4658-84a9-4ad607584aaf%2F8.jpg?w=1200&auto=format%2Ccompress",
+          "cap": "Madras High Court（马德拉斯高等法院）"
+        },
+        {
+          "t": "p",
+          "x": "Madras High Court（马德拉斯高等法院）周二责令Tamil Nadu邦监察与反腐败局（Directorate of Vigilance and Anti-Corruption，DVAC）就全邦公共图书馆涉嫌欺诈性采购图书一事，立即登记First Information Report（FIR，第一信息报告）[Ramasubbu Vs Gopal]。"
+        },
+        {
+          "t": "p",
+          "x": "由GR Swaminathan和MD Sumathi两位法官组成的合议庭指出，公共图书馆中存在多种虚假及人工智能生成（Artificial Intelligence-generated）的图书。法庭下令移除此类图书，立即冻结Agal Vilakku Publication、其所有人Mohan及其他涉嫌参与该骗局者的银行账户，并责令邦政府对相关责任官员启动包括停职在内的纪律处分。"
+        },
+        {
+          "t": "p",
+          "x": "法院表示：“数千万卢比（Crores of rupees）已从公共财政流失。”此次争议源于作家Perumal Murugan在社交媒体上提出质疑，涉及为Coimbatore的Periyar Arivulagam采购的图书。"
+        },
+        {
+          "t": "p",
+          "x": "法院提到在Madurai的Kalaignar Centenary Library发现的一本书，该书虚假署名经济学家Jean Drèze为作者。法院认为，AI-generated（AI生成）图书和抄袭图书可归入Tamil Nadu Public Libraries Rules, 1950中“doubtful taste（品味可疑）”这一表述。此案将于11月11日再次审理。"
+        }
+      ]
     }
   }
 }

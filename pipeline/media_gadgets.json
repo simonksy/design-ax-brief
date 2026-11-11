@@ -1,7 +1,32 @@
-{"date":"2026-11-11","section":"gadgets","media":[
-{"id":"pixel-drop-nov-gemini-intel","type":"image","src":"pipeline/media/pixel-drop-nov-gemini-intel.jpg"},
-{"id":"ring-ai-drone-rover-cam","type":"image","src":"pipeline/media/ring-ai-drone-rover-cam.jpg"},
-{"id":"kora-linux-ai-desktop-os","type":"image","src":"pipeline/media/kora-linux-ai-desktop-os.jpg"},
-{"id":"deepmind-gemini-robotics-25","type":"video","src":"pipeline/media/deepmind-gemini-robotics-25.mp4","poster":"pipeline/media/deepmind-gemini-robotics-25.jpg"},
-{"id":"apple-mac-local-ai-app","type":"image","src":"pipeline/media/apple-mac-local-ai-app.jpg"}
-]}
+{
+  "date": "2026-11-12",
+  "section": "gadgets",
+  "media": [
+    {
+      "id": "gemini-carplay-app",
+      "type": "image",
+      "src": "pipeline/media/gemini-carplay-app.jpg"
+    },
+    {
+      "id": "bluephone-pixel10-agent-os",
+      "type": "video",
+      "src": "pipeline/media/bluephone-pixel10-agent-os.mp4",
+      "poster": "pipeline/media/bluephone-pixel10-agent-os.jpg"
+    },
+    {
+      "id": "deepx-dxm1-butter-demo",
+      "type": "image",
+      "src": "pipeline/media/deepx-dxm1-butter-demo.jpg"
+    },
+    {
+      "id": "gigabyte-aitop-aero-spark",
+      "type": "image",
+      "src": "pipeline/media/gigabyte-aitop-aero-spark.jpg"
+    },
+    {
+      "id": "googlehome-nest-liveview-fix",
+      "type": "image",
+      "src": "pipeline/media/googlehome-nest-liveview-fix.jpg"
+    }
+  ]
+}

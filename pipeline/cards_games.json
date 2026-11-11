@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-11",
+  "date": "2026-11-12",
   "section": "games",
   "cards": [
     {
-      "id": "ue59-preview-agent-tools",
+      "id": "witcher3-geralt-polish-ai-voice",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "UE 5.9 Preview\nAI 에이전트 도구 탑재",
-      "body": "Epic에 따르면 UE 5.9 Preview는 주로 AI 에이전트 손에서 나왔다.",
-      "mini_headline": "UE 5.9 Preview, 에이전트 도구 추가",
+      "headline": "CD Projekt Red\nAI로 게롤트 목소리 조율",
+      "body": "뇌졸중 뒤 Songs of the Past 게롤트 음성을 동의받아 AI로 조율했다.",
+      "mini_headline": "AI로 게롤트 폴란드어 음성 조율",
       "tool": "Games",
-      "source": "80 Level",
-      "url": "https://80.lv/articles/unreal-engine-5-9-preview-is-out-it-was-built-with-ai/",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/the-witcher-3-devs-explain-using-ai-to-help-with-geralts-polish-voice-in-songs-of-the-past-this-is-one-of-those-ways-where-you-can-use-ai-ethically-2000756004",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
@@ -19,149 +19,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.80.lv/api/upload/content/c3/images/6af2cdf44eb77/widen_1840x0.jpeg"
+            "src": "https://kotaku.com/app/uploads/2026/11/geralt.jpg",
+            "cap": "CD Projekt Red"
           },
           {
             "t": "p",
-            "x": "Unreal Engine 5.8은 Unreal Engine 6 이전의 마지막 메이저 릴리스가 될 예정이었다. 그런데 Epic은 일주일 전, 11월 12일부터 15일까지 열리는 2026 Epic AI MegaJam에 맞춰 Unreal Engine 5.9 Preview를 내놓기로 했다. 주로 에이전트 기반 워크플로로 만든 첫 엔진 릴리스다."
+            "x": "The Witcher 3 폴란드어판에서 리비아의 게롤트(Geralt of Rivia)를 맡은 성우 Jacek Rozenek은 2019년 뇌졸중을 겪은 뒤 말하기가 어려워졌고 목소리도 달라졌다. CD Projekt Red는 곧 나올 확장팩 Songs of the Past에서 Rozenek의 새 연기를 2015년 출시판 연기와 맞추려고 AI를 쓰기로 했다."
           },
           {
             "t": "p",
-            "x": "\"몇 사람이 에이전트 무리를 지휘해 UE6 개발 브랜치의 AI 도구를 이식하고 Web을 타깃 플랫폼으로 구현했다. 웹 플랫폼 코드는 UE4에서 퇴역한 HTML5 플랫폼을 출발점 삼아 에이전트가 작성했고, 엔지니어가 작업을 지휘하고 검토하고 테스트했다.\""
+            "x": "현지화 프로듀서 Mikołaj Szwed는 Game File에 “동의를 받아 윤리적으로 AI를 쓰면서 좋은 일도 할 수 있는 방식 가운데 하나라고 생각한다”고 했다."
           },
           {
             "t": "p",
-            "x": "Preview는 약 일주일 만에 꾸려졌고 QA 기간도 평소보다 짧았다. Epic은 아직 \"에이전트가 작성한 코드 일부를 정리하는 중\"이라고 밝혔다. Python 스크립팅과 AI-assisted 워크플로도 크게 좋아졌다. Unreal MCP와 Unreal Assistant, Epic의 AI-powered 콘텐츠 제작 도구인 Unreal Canvas가 여기에 들어간다. Lumen World Cache와 개선된 Nanite 컬링이 더해졌고, WebAssembly와 WebGPU로 타깃 플랫폼 Web도 돌아왔다."
+            "x": "CDPR이 손잡은 곳은 우크라이나 AI 음성 복제 기업 Respeecher다. Respeecher는 한 사람이 남긴 기존 음성 작업으로 알고리즘을 학습시켜 새 연기를 원래 연기에 맞추는데, 배우 본인이나 유족이 동의해야만 작업한다. Rozenek이 원작에서 녹음한 대사는 10,000줄이 넘는다. Respeecher의 Dmytro Vasylets는 “가장 어려운 부분은 Jacek의 감정 폭이었다”고 말했다."
+          },
+          {
+            "t": "p",
+            "x": "CDPR은 앞으로 이 알고리즘으로 Rozenek의 목소리를 바꿀 계획이 없다고 밝혔다. Rozenek도 자신의 AI 분신을 들어보지 않았다고 확인했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Unreal Engine 5.9 Preview\nShips With AI Agent Tools",
-          "body": "Epic says the UE 5.9 Preview, which adds AI tools such as Unreal MCP and Unreal Canvas, was built largely by AI agents.",
-          "mini_headline": "UE 5.9 Preview Adds Agent Tools",
+          "headline": "CD Projekt Red tuned Geralt's\nPolish voice with AI",
+          "body": "Geralt's Polish voice in Songs of the Past was tuned with AI, with consent, after the actor suffered a stroke.",
+          "mini_headline": "AI tunes Geralt's Polish voice",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/c3/images/6af2cdf44eb77/widen_1840x0.jpeg"
+                "src": "https://kotaku.com/app/uploads/2026/11/geralt.jpg",
+                "cap": "CD Projekt Red"
               },
               {
                 "t": "p",
-                "x": "Unreal Engine 5.8 was supposed to be the last major release before Unreal Engine 6, but a week ago Epic decided to put together an Unreal Engine 5.9 Preview in time for the 2026 Epic AI MegaJam, which runs from November 12 to 15. It is the first engine release built primarily using agentic workflows."
+                "x": "Voice actor Jacek Rozenek plays Geralt of Rivia in the Polish version of The Witcher 3, but in 2019 he suffered a stroke that made it hard to speak and changed his voice. For the upcoming Songs of the Past expansion, CD Projekt Red chose to turn to AI to help match Rozenek’s new performance with the one he did for the 2015 release."
               },
               {
                 "t": "p",
-                "x": "\"A handful of people directed fleets of agents to port the AI tooling from our UE6 development branch and implement Web as a target platform. Agents wrote the web platform code, starting from UE4's retired HTML5 platform, with engineers directing, reviewing, and testing the work.\""
+                "x": "“I do think this is one of those ways where you can use AI ethically, with consent and also to do something good,” localization producer Mikołaj Szwed told Game File."
               },
               {
                 "t": "p",
-                "x": "The Preview was put together in roughly a week, with a shorter QA period than usual; Epic says it's still \"cleaning up some of the agent-written code.\" It brings major improvements to Python scripting and AI-assisted workflows, including Unreal MCP, Unreal Assistant, and Unreal Canvas, Epic's AI-powered content creation tool, plus Lumen World Cache, better Nanite culling, and the return of Web as a target platform via WebAssembly and WebGPU."
+                "x": "CDPR worked with Ukrainian AI voice cloning firm Respeecher, which trains an algorithm on someone’s existing voice work to match new performances to the originals; actors, or their estates, have to consent. Rozenek recorded over 10,000 lines for the original game. “The hardest part was Jacek’s emotional range,” Respeecher’s Dmytro Vasylets said."
+              },
+              {
+                "t": "p",
+                "x": "CDPR said it wasn’t planning to use the algorithm to alter Rozenek’s voice in the future, and the actor confirmed he has not listened to his AI doppelganger."
               }
             ]
           }
         },
         "ko": {
-          "headline": "UE 5.9 Preview\nAI 에이전트 도구 탑재",
-          "body": "Epic에 따르면 UE 5.9 Preview는 주로 AI 에이전트 손에서 나왔다.",
-          "mini_headline": "UE 5.9 Preview, 에이전트 도구 추가",
+          "headline": "CD Projekt Red\nAI로 게롤트 목소리 조율",
+          "body": "뇌졸중 뒤 Songs of the Past 게롤트 음성을 동의받아 AI로 조율했다.",
+          "mini_headline": "AI로 게롤트 폴란드어 음성 조율",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/c3/images/6af2cdf44eb77/widen_1840x0.jpeg"
+                "src": "https://kotaku.com/app/uploads/2026/11/geralt.jpg",
+                "cap": "CD Projekt Red"
               },
               {
                 "t": "p",
-                "x": "Unreal Engine 5.8은 Unreal Engine 6 이전의 마지막 메이저 릴리스가 될 예정이었다. 그런데 Epic은 일주일 전, 11월 12일부터 15일까지 열리는 2026 Epic AI MegaJam에 맞춰 Unreal Engine 5.9 Preview를 내놓기로 했다. 주로 에이전트 기반 워크플로로 만든 첫 엔진 릴리스다."
+                "x": "The Witcher 3 폴란드어판에서 리비아의 게롤트(Geralt of Rivia)를 맡은 성우 Jacek Rozenek은 2019년 뇌졸중을 겪은 뒤 말하기가 어려워졌고 목소리도 달라졌다. CD Projekt Red는 곧 나올 확장팩 Songs of the Past에서 Rozenek의 새 연기를 2015년 출시판 연기와 맞추려고 AI를 쓰기로 했다."
               },
               {
                 "t": "p",
-                "x": "\"몇 사람이 에이전트 무리를 지휘해 UE6 개발 브랜치의 AI 도구를 이식하고 Web을 타깃 플랫폼으로 구현했다. 웹 플랫폼 코드는 UE4에서 퇴역한 HTML5 플랫폼을 출발점 삼아 에이전트가 작성했고, 엔지니어가 작업을 지휘하고 검토하고 테스트했다.\""
+                "x": "현지화 프로듀서 Mikołaj Szwed는 Game File에 “동의를 받아 윤리적으로 AI를 쓰면서 좋은 일도 할 수 있는 방식 가운데 하나라고 생각한다”고 했다."
               },
               {
                 "t": "p",
-                "x": "Preview는 약 일주일 만에 꾸려졌고 QA 기간도 평소보다 짧았다. Epic은 아직 \"에이전트가 작성한 코드 일부를 정리하는 중\"이라고 밝혔다. Python 스크립팅과 AI-assisted 워크플로도 크게 좋아졌다. Unreal MCP와 Unreal Assistant, Epic의 AI-powered 콘텐츠 제작 도구인 Unreal Canvas가 여기에 들어간다. Lumen World Cache와 개선된 Nanite 컬링이 더해졌고, WebAssembly와 WebGPU로 타깃 플랫폼 Web도 돌아왔다."
+                "x": "CDPR이 손잡은 곳은 우크라이나 AI 음성 복제 기업 Respeecher다. Respeecher는 한 사람이 남긴 기존 음성 작업으로 알고리즘을 학습시켜 새 연기를 원래 연기에 맞추는데, 배우 본인이나 유족이 동의해야만 작업한다. Rozenek이 원작에서 녹음한 대사는 10,000줄이 넘는다. Respeecher의 Dmytro Vasylets는 “가장 어려운 부분은 Jacek의 감정 폭이었다”고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "CDPR은 앞으로 이 알고리즘으로 Rozenek의 목소리를 바꿀 계획이 없다고 밝혔다. Rozenek도 자신의 AI 분신을 들어보지 않았다고 확인했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "UE 5.9 Preview\nAIエージェントツール搭載",
-          "body": "EpicはUE 5.9 Previewの大半をAIエージェントが作ったと明かした。",
-          "mini_headline": "UE 5.9 Preview、エージェント機能を追加",
+          "headline": "CD Projekt Red\nゲラルトの声をAIで調整",
+          "body": "Songs of the Pastのゲラルトの声は、脳卒中後に同意を得てAIで調整された。",
+          "mini_headline": "AIでゲラルトのポーランド語音声を調整",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/c3/images/6af2cdf44eb77/widen_1840x0.jpeg"
+                "src": "https://kotaku.com/app/uploads/2026/11/geralt.jpg",
+                "cap": "CD Projekt Red"
               },
               {
                 "t": "p",
-                "x": "Unreal Engine 5.8はUnreal Engine 6前の最後のメジャーリリースになるはずだったが、Epicは一週間前、11月12日から15日まで開催される2026 Epic AI MegaJamに合わせてUnreal Engine 5.9 Previewをまとめることを決めた。主にエージェント型ワークフローで構築された初のエンジンリリースである。"
+                "x": "声優Jacek Rozenekは『The Witcher 3』ポーランド語版でリヴィアのゲラルト(Geralt of Rivia)を演じているが、2019年に脳卒中を患い、話すことが難しくなり声も変わった。近く登場する拡張コンテンツSongs of the Pastに向け、CD Projekt RedはRozenekの新たな演技を2015年発売版での演技に合わせるため、AIの力を借りることにした。"
               },
               {
                 "t": "p",
-                "x": "「少人数がエージェントの群れを指揮し、UE6の開発ブランチからAIツールを移植し、Webをターゲットプラットフォームとして実装した。WebプラットフォームのコードはUE4で廃止されたHTML5プラットフォームを出発点にエージェントが書き、エンジニアが指揮・レビュー・テストを担った」"
+                "x": "「同意を得たうえで、倫理的に、しかも良いことのためにAIを使える方法の一つだと思う」と、ローカライズプロデューサーのMikołaj SzwedはGame Fileに語った。"
               },
               {
                 "t": "p",
-                "x": "Previewは約一週間でまとめられ、QA期間は通常より短かった。Epicによれば、今も「エージェントが書いたコードの一部を整理している」段階だ。PythonスクリプティングとAI-assistedワークフローが大きく改善され、Unreal MCP、Unreal Assistant、そしてEpicのAI-poweredコンテンツ制作ツールであるUnreal Canvasが含まれる。さらにLumen World Cache、Naniteカリングの改善、WebAssemblyとWebGPUによるターゲットプラットフォームWebの復活も加わった。"
+                "x": "CDPRはウクライナのAI音声クローン企業Respeecherと組んだ。同社は本人の既存の音声作品でアルゴリズムを学習させ、新しい演技を元の演技に合わせる。俳優本人またはその遺族の同意が必要だ。Rozenekはオリジナル版で10,000行を超えるセリフを収録した。「最も難しかったのはJacekの感情の幅だった」とRespeecherのDmytro Vasyletsは語った。"
+              },
+              {
+                "t": "p",
+                "x": "CDPRは今後このアルゴリズムでRozenekの声を変える予定はないとし、Rozenek本人も自身のAI分身を聴いていないと認めた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "UE 5.9 Preview\n搭载AI智能体工具",
-          "body": "Epic称新增Unreal MCP的UE 5.9 Preview主要由AI智能体打造。",
-          "mini_headline": "UE 5.9 Preview新增智能体工具",
+          "headline": "CD Projekt Red\n用AI调校杰洛特波兰语配音",
+          "body": "演员中风后，Songs of the Past中杰洛特的波兰语配音经同意用AI调校。",
+          "mini_headline": "AI调校杰洛特波兰语配音",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/c3/images/6af2cdf44eb77/widen_1840x0.jpeg"
+                "src": "https://kotaku.com/app/uploads/2026/11/geralt.jpg",
+                "cap": "CD Projekt Red"
               },
               {
                 "t": "p",
-                "x": "Unreal Engine 5.8原本应是Unreal Engine 6之前的最后一个大版本，但一周前Epic决定配合11月12日至15日举办的2026 Epic AI MegaJam，推出Unreal Engine 5.9 Preview。这是首个主要借助智能体工作流构建的引擎版本。"
+                "x": "配音演员Jacek Rozenek在《The Witcher 3》波兰语版中为利维亚的杰洛特（Geralt of Rivia）配音，但他在2019年中风，说话变得困难，声音也随之改变。为即将推出的扩展内容Songs of the Past，CD Projekt Red决定借助AI，让Rozenek的新演出与他为2015年版本录制的演出相匹配。"
               },
               {
                 "t": "p",
-                "x": "“少数几个人指挥成群的智能体，把UE6开发分支中的AI工具移植过来，并将Web实现为目标平台。智能体以UE4已退役的HTML5平台为起点编写了Web平台代码，工程师负责指挥、审查和测试。”"
+                "x": "本地化制作人Mikołaj Szwed对Game File表示：“我确实认为，这是在征得同意的前提下合乎伦理地使用AI、同时用它做好事的方式之一。”"
               },
               {
                 "t": "p",
-                "x": "这个Preview大约用一周拼成，QA周期比平常短；Epic表示仍在“清理部分由智能体编写的代码”。它大幅改进了Python脚本和AI-assisted工作流，包括Unreal MCP、Unreal Assistant，以及Epic的AI-powered内容创作工具Unreal Canvas；此外还有Lumen World Cache、更好的Nanite剔除，以及通过WebAssembly和WebGPU重新支持Web作为目标平台。"
+                "x": "CDPR与乌克兰AI语音克隆公司Respeecher合作。该公司用某人已有的配音作品训练算法，使新演出与原版相匹配；必须获得演员本人或其遗产管理方的同意。Rozenek为原版游戏录制了超过10,000句台词。Respeecher的Dmytro Vasylets说：“最难的是Jacek的情感跨度。”"
+              },
+              {
+                "t": "p",
+                "x": "CDPR表示未来不打算用该算法改变Rozenek的声音，Rozenek本人也确认他没有听过自己的AI分身。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Unreal Engine 5.9 Preview\ntrae herramientas de agentes AI",
-          "body": "Epic afirma que UE 5.9 Preview, que añade Unreal MCP y Unreal Canvas, fue creada en gran parte por agentes de AI.",
-          "mini_headline": "UE 5.9 Preview suma herramientas de agentes",
+          "headline": "CD Projekt Red ajustó con AI\nla voz polaca de Geralt",
+          "body": "La voz polaca de Geralt en Songs of the Past se ajustó con AI, con consentimiento, tras el ictus del actor.",
+          "mini_headline": "La AI ajusta la voz polaca de Geralt",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/c3/images/6af2cdf44eb77/widen_1840x0.jpeg"
+                "src": "https://kotaku.com/app/uploads/2026/11/geralt.jpg",
+                "cap": "CD Projekt Red"
               },
               {
                 "t": "p",
-                "x": "Unreal Engine 5.8 iba a ser la última versión importante antes de Unreal Engine 6, pero hace una semana Epic decidió preparar una Unreal Engine 5.9 Preview a tiempo para la 2026 Epic AI MegaJam, que se celebra del 12 al 15 de noviembre. Es la primera versión del motor creada principalmente con flujos de trabajo agénticos."
+                "x": "El actor de doblaje Jacek Rozenek interpreta a Geralt of Rivia en la versión polaca de The Witcher 3, pero en 2019 sufrió un ictus que le dificultó hablar y le cambió la voz. Para la próxima expansión Songs of the Past, CD Projekt Red decidió recurrir a la AI para ajustar la nueva interpretación de Rozenek a la que hizo para el lanzamiento de 2015."
               },
               {
                 "t": "p",
-                "x": "\"Un puñado de personas dirigió flotas de agentes para portar las herramientas de AI de nuestra rama de desarrollo de UE6 e implementar Web como plataforma de destino. Los agentes escribieron el código de la plataforma web, partiendo de la retirada plataforma HTML5 de UE4, mientras los ingenieros dirigían, revisaban y probaban el trabajo.\""
+                "x": "“Creo que esta es una de esas formas en que se puede usar la AI de manera ética, con consentimiento y además para hacer algo bueno”, dijo a Game File el productor de localización Mikołaj Szwed."
               },
               {
                 "t": "p",
-                "x": "La Preview se armó en aproximadamente una semana, con un periodo de QA más corto de lo habitual; Epic dice que todavía está \"limpiando parte del código escrito por agentes\". Trae mejoras importantes en scripting con Python y en flujos de trabajo AI-assisted, incluidos Unreal MCP, Unreal Assistant y Unreal Canvas, la herramienta de creación de contenido AI-powered de Epic, además de Lumen World Cache, un mejor culling de Nanite y el regreso de Web como plataforma de destino mediante WebAssembly y WebGPU."
+                "x": "CDPR trabajó con Respeecher, empresa ucraniana de clonación de voz con AI, que entrena un algoritmo con el trabajo vocal previo de una persona para ajustar nuevas interpretaciones a las originales; los actores, o sus herederos, deben dar su consentimiento. Rozenek grabó más de 10,000 líneas para el juego original. “Lo más difícil fue el rango emocional de Jacek”, dijo Dmytro Vasylets, de Respeecher."
+              },
+              {
+                "t": "p",
+                "x": "CDPR dijo que no planea usar el algoritmo para alterar la voz de Rozenek en el futuro, y el actor confirmó que no ha escuchado a su doble de AI."
               }
             ]
           }
@@ -169,105 +199,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "UE 5.9 Preview\nAI 에이전트 도구 탑재",
-          "body": "Epic은 UE 5.9 Preview를 AI 에이전트가 주로 만들었다고 밝혔다.",
-          "mini_headline": "UE 5.9 Preview, 에이전트 도구 추가",
+          "headline": "CD Projekt Red\nAI로 게롤트 목소리 조율",
+          "body": "Songs of the Past 게롤트 음성은 뇌졸중 뒤 동의하에 AI로 조율됐다.",
+          "mini_headline": "AI로 게롤트 폴란드어 음성 조율",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/c3/images/6af2cdf44eb77/widen_1840x0.jpeg"
+                "src": "https://kotaku.com/app/uploads/2026/11/geralt.jpg",
+                "cap": "CD Projekt Red"
               },
               {
                 "t": "p",
-                "x": "Unreal Engine 5.8은 Unreal Engine 6 이전의 마지막 메이저 릴리스가 될 예정이었다. 그러나 Epic은 일주일 전, 11월 12일부터 15일까지 열리는 2026 Epic AI MegaJam에 맞춰 Unreal Engine 5.9 Preview를 꾸리기로 결정했다. 주로 에이전트 기반 워크플로로 만든 첫 엔진 릴리스다."
+                "x": "성우 Jacek Rozenek은 The Witcher 3 폴란드어판에서 리비아의 게롤트(Geralt of Rivia)를 연기하지만, 2019년 뇌졸중을 겪으면서 말하기가 어려워졌고 목소리도 달라졌다. 곧 나올 확장팩 Songs of the Past를 위해 CD Projekt Red는 Rozenek의 새 연기를 2015년 출시판 연기와 맞추는 데 AI의 도움을 받기로 했다."
               },
               {
                 "t": "p",
-                "x": "\"몇 사람이 에이전트 무리를 지휘해 UE6 개발 브랜치의 AI 도구를 이식하고 Web을 타깃 플랫폼으로 구현했다. 웹 플랫폼 코드는 UE4에서 퇴역한 HTML5 플랫폼을 출발점 삼아 에이전트가 작성했고, 엔지니어가 작업을 지휘하고 검토하고 테스트했다.\""
+                "x": "현지화 프로듀서 Mikołaj Szwed는 Game File에 “동의를 받아 윤리적으로 AI를 쓰면서 좋은 일도 할 수 있는 방식 가운데 하나라고 생각한다”고 말했다."
               },
               {
                 "t": "p",
-                "x": "Preview는 약 일주일 만에 꾸려졌고 QA 기간도 평소보다 짧았다. Epic은 아직 \"에이전트가 작성한 코드 일부를 정리하는 중\"이라고 밝혔다. 이번 버전은 Python 스크립팅과 AI-assisted 워크플로를 크게 개선했다. 여기에는 Unreal MCP, Unreal Assistant, 그리고 Epic의 AI-powered 콘텐츠 제작 도구인 Unreal Canvas가 포함된다. Lumen World Cache, 개선된 Nanite 컬링, WebAssembly와 WebGPU를 통한 타깃 플랫폼 Web의 복귀도 더해졌다."
+                "x": "CDPR은 우크라이나 AI 음성 복제 기업 Respeecher와 협업했다. Respeecher는 한 사람의 기존 음성 작업으로 알고리즘을 학습시켜 새 연기를 원래 연기에 맞추며, 배우 본인이나 유족의 동의가 있어야 한다. Rozenek은 원작에서 10,000줄이 넘는 대사를 녹음했다. Respeecher의 Dmytro Vasylets는 “가장 어려운 부분은 Jacek의 감정 폭이었다”고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "CDPR은 앞으로 이 알고리즘으로 Rozenek의 목소리를 바꿀 계획은 없다고 밝혔고, Rozenek도 자신의 AI 분신을 들어보지 않았다고 확인했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "UE 5.9 Preview\nAIエージェントツール搭載",
-          "body": "EpicはUE 5.9 Previewの大半をAIエージェントが作ったと明かした。",
-          "mini_headline": "UE 5.9 Preview、エージェント機能を追加",
+          "headline": "CD Projekt Red\nゲラルトの声をAIで調整",
+          "body": "Songs of the Pastのゲラルトの声は、脳卒中後に同意を得てAIで調整された。",
+          "mini_headline": "AIでゲラルトのポーランド語音声を調整",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/c3/images/6af2cdf44eb77/widen_1840x0.jpeg"
+                "src": "https://kotaku.com/app/uploads/2026/11/geralt.jpg",
+                "cap": "CD Projekt Red"
               },
               {
                 "t": "p",
-                "x": "Unreal Engine 5.8はUnreal Engine 6前の最後のメジャーリリースになるはずだったが、Epicは一週間前、11月12日から15日まで開催される2026 Epic AI MegaJamに合わせてUnreal Engine 5.9 Previewをまとめることを決めた。主にエージェント型ワークフローで構築された初のエンジンリリースである。"
+                "x": "声優Jacek Rozenekは『The Witcher 3』ポーランド語版でリヴィアのゲラルト(Geralt of Rivia)を演じているが、2019年に脳卒中を患い、話すことが難しくなり声も変わった。近く登場する拡張コンテンツSongs of the Pastに向け、CD Projekt RedはRozenekの新たな演技を2015年発売版での演技に合わせるため、AIの力を借りることにした。"
               },
               {
                 "t": "p",
-                "x": "「少人数がエージェントの群れを指揮し、UE6の開発ブランチからAIツールを移植し、Webをターゲットプラットフォームとして実装した。WebプラットフォームのコードはUE4で廃止されたHTML5プラットフォームを出発点にエージェントが書き、エンジニアが指揮・レビュー・テストを担った」"
+                "x": "「同意を得たうえで、倫理的に、しかも良いことのためにAIを使える方法の一つだと思う」と、ローカライズプロデューサーのMikołaj SzwedはGame Fileに語った。"
               },
               {
                 "t": "p",
-                "x": "Previewは約一週間でまとめられ、QA期間は通常より短かった。Epicによれば、今も「エージェントが書いたコードの一部を整理している」段階だ。PythonスクリプティングとAI-assistedワークフローが大きく改善され、Unreal MCP、Unreal Assistant、そしてEpicのAI-poweredコンテンツ制作ツールであるUnreal Canvasが含まれる。さらにLumen World Cache、Naniteカリングの改善、WebAssemblyとWebGPUによるターゲットプラットフォームWebの復活も加わった。"
+                "x": "CDPRはウクライナのAI音声クローン企業Respeecherと組んだ。同社は本人の既存の音声作品でアルゴリズムを学習させ、新しい演技を元の演技に合わせる。俳優本人またはその遺族の同意が必要だ。Rozenekはオリジナル版で10,000行を超えるセリフを収録した。「最も難しかったのはJacekの感情の幅だった」とRespeecherのDmytro Vasyletsは語った。"
+              },
+              {
+                "t": "p",
+                "x": "CDPRは今後このアルゴリズムでRozenekの声を変える予定はないとし、Rozenek本人も自身のAI分身を聴いていないと認めた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "UE 5.9 Preview\n搭载AI智能体工具",
-          "body": "Epic称新增Unreal MCP的UE 5.9 Preview主要由AI智能体打造。",
-          "mini_headline": "UE 5.9 Preview新增智能体工具",
+          "headline": "CD Projekt Red\n用AI调校杰洛特波兰语配音",
+          "body": "演员中风后，Songs of the Past中杰洛特的波兰语配音经同意用AI调校。",
+          "mini_headline": "AI调校杰洛特波兰语配音",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/c3/images/6af2cdf44eb77/widen_1840x0.jpeg"
+                "src": "https://kotaku.com/app/uploads/2026/11/geralt.jpg",
+                "cap": "CD Projekt Red"
               },
               {
                 "t": "p",
-                "x": "Unreal Engine 5.8原本应是Unreal Engine 6之前的最后一个大版本，但一周前Epic决定配合11月12日至15日举办的2026 Epic AI MegaJam，推出Unreal Engine 5.9 Preview。这是首个主要借助智能体工作流构建的引擎版本。"
+                "x": "配音演员Jacek Rozenek在《The Witcher 3》波兰语版中为利维亚的杰洛特（Geralt of Rivia）配音，但他在2019年中风，说话变得困难，声音也随之改变。为即将推出的扩展内容Songs of the Past，CD Projekt Red决定借助AI，让Rozenek的新演出与他为2015年版本录制的演出相匹配。"
               },
               {
                 "t": "p",
-                "x": "“少数几个人指挥成群的智能体，把UE6开发分支中的AI工具移植过来，并将Web实现为目标平台。智能体以UE4已退役的HTML5平台为起点编写了Web平台代码，工程师负责指挥、审查和测试。”"
+                "x": "本地化制作人Mikołaj Szwed对Game File表示：“我确实认为，这是在征得同意的前提下合乎伦理地使用AI、同时用它做好事的方式之一。”"
               },
               {
                 "t": "p",
-                "x": "这个Preview大约用一周拼成，QA周期比平常短；Epic表示仍在“清理部分由智能体编写的代码”。它大幅改进了Python脚本和AI-assisted工作流，包括Unreal MCP、Unreal Assistant，以及Epic的AI-powered内容创作工具Unreal Canvas；此外还有Lumen World Cache、更好的Nanite剔除，以及通过WebAssembly和WebGPU重新支持Web作为目标平台。"
+                "x": "CDPR与乌克兰AI语音克隆公司Respeecher合作。该公司用某人已有的配音作品训练算法，使新演出与原版相匹配；必须获得演员本人或其遗产管理方的同意。Rozenek为原版游戏录制了超过10,000句台词。Respeecher的Dmytro Vasylets说：“最难的是Jacek的情感跨度。”"
+              },
+              {
+                "t": "p",
+                "x": "CDPR表示未来不打算用该算法改变Rozenek的声音，Rozenek本人也确认他没有听过自己的AI分身。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Unreal Engine 5.9 Preview\ntrae herramientas de agentes AI",
-          "body": "Epic afirma que UE 5.9 Preview, que añade Unreal MCP y Unreal Canvas, fue creada en gran parte por agentes de AI.",
-          "mini_headline": "UE 5.9 Preview suma herramientas de agentes",
+          "headline": "CD Projekt Red ajustó con AI\nla voz polaca de Geralt",
+          "body": "La voz polaca de Geralt en Songs of the Past se ajustó con AI, con consentimiento, tras el ictus del actor.",
+          "mini_headline": "La AI ajusta la voz polaca de Geralt",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/c3/images/6af2cdf44eb77/widen_1840x0.jpeg"
+                "src": "https://kotaku.com/app/uploads/2026/11/geralt.jpg",
+                "cap": "CD Projekt Red"
               },
               {
                 "t": "p",
-                "x": "Unreal Engine 5.8 iba a ser la última versión importante antes de Unreal Engine 6, pero hace una semana Epic decidió preparar una Unreal Engine 5.9 Preview a tiempo para la 2026 Epic AI MegaJam, que se celebra del 12 al 15 de noviembre. Es la primera versión del motor creada principalmente con flujos de trabajo agénticos."
+                "x": "El actor de doblaje Jacek Rozenek interpreta a Geralt of Rivia en la versión polaca de The Witcher 3, pero en 2019 sufrió un ictus que le dificultó hablar y le cambió la voz. Para la próxima expansión Songs of the Past, CD Projekt Red decidió recurrir a la AI para ajustar la nueva interpretación de Rozenek a la que hizo para el lanzamiento de 2015."
               },
               {
                 "t": "p",
-                "x": "\"Un puñado de personas dirigió flotas de agentes para portar las herramientas de AI de nuestra rama de desarrollo de UE6 e implementar Web como plataforma de destino. Los agentes escribieron el código de la plataforma web, partiendo de la retirada plataforma HTML5 de UE4, mientras los ingenieros dirigían, revisaban y probaban el trabajo.\""
+                "x": "“Creo que esta es una de esas formas en que se puede usar la AI de manera ética, con consentimiento y además para hacer algo bueno”, dijo a Game File el productor de localización Mikołaj Szwed."
               },
               {
                 "t": "p",
-                "x": "La Preview se armó en aproximadamente una semana, con un periodo de QA más corto de lo habitual; Epic dice que todavía está \"limpiando parte del código escrito por agentes\". Trae mejoras importantes en scripting con Python y en flujos de trabajo AI-assisted, incluidos Unreal MCP, Unreal Assistant y Unreal Canvas, la herramienta de creación de contenido AI-powered de Epic, además de Lumen World Cache, un mejor culling de Nanite y el regreso de Web como plataforma de destino mediante WebAssembly y WebGPU."
+                "x": "CDPR trabajó con Respeecher, empresa ucraniana de clonación de voz con AI, que entrena un algoritmo con el trabajo vocal previo de una persona para ajustar nuevas interpretaciones a las originales; los actores, o sus herederos, deben dar su consentimiento. Rozenek grabó más de 10,000 líneas para el juego original. “Lo más difícil fue el rango emocional de Jacek”, dijo Dmytro Vasylets, de Respeecher."
+              },
+              {
+                "t": "p",
+                "x": "CDPR dijo que no planea usar el algoritmo para alterar la voz de Rozenek en el futuro, y el actor confirmó que no ha escuchado a su doble de AI."
               }
             ]
           }
@@ -275,15 +325,15 @@
       }
     },
     {
-      "id": "househouse-bigwalk-igf-ai",
+      "id": "tripo-tripothon-3d-hackathon",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "House House가\nBig Walk AI 해명",
-      "body": "Big Walk 개발사가 2027 IGF 심사위원 gen-AI 거부에 입장을 냈다.",
-      "mini_headline": "Big Walk의 AI 사용 해명",
+      "headline": "Tripo AI 해커톤\n2,000+팀 3D 월드",
+      "body": "78개국·지역의 2,000여 팀이 Tripo 3D 도구로 게임·VR·펫을 만들었다.",
+      "mini_headline": "Tripo AI의 3D-world 해커톤",
       "tool": "Games",
-      "source": "GamesIndustry.biz",
-      "url": "https://www.gamesindustry.biz/house-house-clarifies-use-of-ai-tools-in-big-walks-final-stage-of-development",
+      "source": "80 Level",
+      "url": "https://80.lv/articles/creators-developed-playable-worlds-vr-games-digital-pets-for-tripo-ai-s-first-3d-world-hackathon",
       "accent": "#0070f3",
       "motif": "cube",
       "full": {
@@ -291,155 +341,233 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://assetsio.gnwcdn.com/BigWalk_Screenshot_May25_06.png?width=1200&quality=85&format=jpg&auto=webp",
-            "cap": "이미지 출처: House House/Panic"
+            "src": "https://cdn.80.lv/api/upload/content/59/6aebbb95ac365.jpg",
+            "cap": "Tripothon S1"
           },
           {
             "t": "p",
-            "x": "House House는 Big Walk의 \"개발 막바지\"에 \"까다로운 기술적 과제와 버그\"를 풀려고 AI 도구를 \"아주 제한적으로\" 썼다고 밝혔다. 2027 Independent Games Festival(IGF) 심사위원 일부가 생성형 AI로 만든 게임에는 표를 주지 않겠다고 밝히자 나온 입장이다."
+            "x": "Tripo AI의 첫 글로벌 월드 빌딩 해커톤 Tripothon S1에 78개 국가·지역에서 2,000개 넘는 팀이 등록했다. 부문은 게임, 영화·VFX, VR/XR/AR, 애플리케이션, 피지컬 디자인 다섯 개였다. 대회는 2026년 9월 15일부터 10월 20일까지 “A Gift for ___”를 주제로 열렸고, 참가자들은 Tripo의 3D-native 파운데이션 모델과 Tripo API를 썼다."
+          },
+          {
+            "t": "video",
+            "yt": "o46nONohM9s"
           },
           {
             "t": "p",
-            "x": "스튜디오는 서드파티 코드 문제를 살피는 데 LLM 챗봇을 썼다고 설명했다. \"이 사용과 관련된 코드는 Big Walk 전체 코드의 0.1%에 한참 못 미칠 것으로 추산한다.\" 해돋이와 해넘이 무렵 약 20초 동안 게임을 50% 느리게 만든 Unity URP 섀도 캐스터 수정도 \"URP 내부 코드 약 10줄 분량\"이었다."
+            "x": "San Francisco 행사에는 60개 가까운 팀과 800명 넘는 참가자가 모였다. 팀은 대부분 한 명에서 세 명이었다. 이곳 준우승작은 Dulce Baerga의 Dear Little Me로, 아이들이 그린 그림을 인터랙티브 3D 장난감으로 바꿔 주는 WebXR 앱이다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.80.lv/api/upload/content/ba/6aebbbda932bc.jpg",
+            "cap": "Halls of History: The Veiled Study"
           },
           {
             "t": "p",
-            "x": "\"아무리 적더라도 AI 도구 사용을 지지하거나 옹호하려는 것은 아니다\"라는 게 개발사의 말이다. \"Big Walk는 내부 AI 사용 정책 없이 개발됐고, 우리는 그 정책의 부재를 실패로 본다.\""
+            "x": "San Francisco 최고상은 Annette Lapham의 대화형 미스터리 게임 Halls of History: The Veiled Study가 받았다. 플레이어가 찾아야 할 고유한 유물을 Tripo API가 만들어 낸다. Aspirium의 Gemtronic은 스마트 링 안에 디지털 펫을 담았다."
+          },
+          {
+            "t": "p",
+            "x": "글로벌 대회 전체 우승은 삼인칭 서바이벌 슈터 Somehow Still Alive에 돌아갔다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "House House Explains\nAI Use in Big Walk",
-          "body": "House House addressed AI use in Big Walk after a group of 2027 IGF jurors said they would not vote for gen-AI games.",
-          "mini_headline": "Big Walk's AI Use Explained",
+          "headline": "2,000+ teams built 3D worlds\nin Tripo AI's hackathon",
+          "body": "Over 2,000 teams from 78 countries and regions built playable worlds, VR games and digital pets with Tripo's 3D tools.",
+          "mini_headline": "Tripo AI's 3D-world hackathon",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/BigWalk_Screenshot_May25_06.png?width=1200&quality=85&format=jpg&auto=webp",
-                "cap": "Image credit: House House/Panic"
+                "src": "https://cdn.80.lv/api/upload/content/59/6aebbb95ac365.jpg",
+                "cap": "Tripothon S1"
               },
               {
                 "t": "p",
-                "x": "House House has clarified it used AI tools \"sparingly\" during the \"final stretch of development\" on Big Walk to address \"difficult technical challenges and bugs.\" The statement came after a group of jurors for the 2027 Independent Games Festival (IGF) said they would not vote for any game developed with generative AI."
+                "x": "Tripothon S1, the first global world-building hackathon hosted by Tripo AI, drew more than 2,000 registered teams from 78 countries and regions across five categories: games, film and VFX, VR/XR/AR, applications, and physical design. It ran from September 15 through October 20, 2026, around the theme “A Gift for ___,” using Tripo's 3D-native foundation models and Tripo API."
+              },
+              {
+                "t": "video",
+                "yt": "o46nONohM9s"
               },
               {
                 "t": "p",
-                "x": "The studio said it used LLM chatbots to research issues with third-party code: \"we'd estimate that well under 0.1% of Big Walk's code had anything to do with this usage.\" One fix, for Unity URP shadow casters that made the game run 50% slower for around 20 seconds at sunrise and sunset, \"represented about 10 lines of code inside URP.\""
+                "x": "The San Francisco event brought together nearly 60 teams and more than 800 attendees; most teams had only one to three people. Second place there went to Dulce Baerga’s Dear Little Me, a WebXR app that turns children’s drawings into interactive 3D playthings."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.80.lv/api/upload/content/ba/6aebbbda932bc.jpg",
+                "cap": "Halls of History: The Veiled Study"
               },
               {
                 "t": "p",
-                "x": "\"This is not an endorsement of, or argument for, the use of AI tools, however minimal,\" the developer said. \"Big Walk was developed without an internal AI usage policy in place, and we consider that lack of policy a failure.\""
+                "x": "The top San Francisco prize went to Annette Lapham's Halls of History: The Veiled Study, a conversational mystery game in which the Tripo API generates unique artifacts for players to hunt. Gemtronic by Aspirium put a digital pet inside a smart ring."
+              },
+              {
+                "t": "p",
+                "x": "Across the global competition, first place went to Somehow Still Alive, a third-person survival shooter."
               }
             ]
           }
         },
         "ko": {
-          "headline": "House House가\nBig Walk AI 해명",
-          "body": "Big Walk 개발사가 2027 IGF 심사위원 gen-AI 거부에 입장을 냈다.",
-          "mini_headline": "Big Walk의 AI 사용 해명",
+          "headline": "Tripo AI 해커톤\n2,000+팀 3D 월드",
+          "body": "78개국·지역의 2,000여 팀이 Tripo 3D 도구로 게임·VR·펫을 만들었다.",
+          "mini_headline": "Tripo AI의 3D-world 해커톤",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/BigWalk_Screenshot_May25_06.png?width=1200&quality=85&format=jpg&auto=webp",
-                "cap": "이미지 출처: House House/Panic"
+                "src": "https://cdn.80.lv/api/upload/content/59/6aebbb95ac365.jpg",
+                "cap": "Tripothon S1"
               },
               {
                 "t": "p",
-                "x": "House House는 Big Walk의 \"개발 막바지\"에 \"까다로운 기술적 과제와 버그\"를 풀려고 AI 도구를 \"아주 제한적으로\" 썼다고 밝혔다. 2027 Independent Games Festival(IGF) 심사위원 일부가 생성형 AI로 만든 게임에는 표를 주지 않겠다고 밝히자 나온 입장이다."
+                "x": "Tripo AI의 첫 글로벌 월드 빌딩 해커톤 Tripothon S1에 78개 국가·지역에서 2,000개 넘는 팀이 등록했다. 부문은 게임, 영화·VFX, VR/XR/AR, 애플리케이션, 피지컬 디자인 다섯 개였다. 대회는 2026년 9월 15일부터 10월 20일까지 “A Gift for ___”를 주제로 열렸고, 참가자들은 Tripo의 3D-native 파운데이션 모델과 Tripo API를 썼다."
+              },
+              {
+                "t": "video",
+                "yt": "o46nONohM9s"
               },
               {
                 "t": "p",
-                "x": "스튜디오는 서드파티 코드 문제를 살피는 데 LLM 챗봇을 썼다고 설명했다. \"이 사용과 관련된 코드는 Big Walk 전체 코드의 0.1%에 한참 못 미칠 것으로 추산한다.\" 해돋이와 해넘이 무렵 약 20초 동안 게임을 50% 느리게 만든 Unity URP 섀도 캐스터 수정도 \"URP 내부 코드 약 10줄 분량\"이었다."
+                "x": "San Francisco 행사에는 60개 가까운 팀과 800명 넘는 참가자가 모였다. 팀은 대부분 한 명에서 세 명이었다. 이곳 준우승작은 Dulce Baerga의 Dear Little Me로, 아이들이 그린 그림을 인터랙티브 3D 장난감으로 바꿔 주는 WebXR 앱이다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.80.lv/api/upload/content/ba/6aebbbda932bc.jpg",
+                "cap": "Halls of History: The Veiled Study"
               },
               {
                 "t": "p",
-                "x": "\"아무리 적더라도 AI 도구 사용을 지지하거나 옹호하려는 것은 아니다\"라는 게 개발사의 말이다. \"Big Walk는 내부 AI 사용 정책 없이 개발됐고, 우리는 그 정책의 부재를 실패로 본다.\""
+                "x": "San Francisco 최고상은 Annette Lapham의 대화형 미스터리 게임 Halls of History: The Veiled Study가 받았다. 플레이어가 찾아야 할 고유한 유물을 Tripo API가 만들어 낸다. Aspirium의 Gemtronic은 스마트 링 안에 디지털 펫을 담았다."
+              },
+              {
+                "t": "p",
+                "x": "글로벌 대회 전체 우승은 삼인칭 서바이벌 슈터 Somehow Still Alive에 돌아갔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "House Houseが\nBig WalkのAIを説明",
-          "body": "2027 IGF審査員のgen-AI拒否後、Big Walk開発元がAI使用を説明した。",
-          "mini_headline": "Big WalkのAI使用を説明",
+          "headline": "Tripo AIハッカソン\n2,000+チームが3D世界",
+          "body": "78の国・地域の2,000超のチームがTripoの3DツールでVRゲームやペットを作った。",
+          "mini_headline": "Tripo AIの3D-worldハッカソン",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/BigWalk_Screenshot_May25_06.png?width=1200&quality=85&format=jpg&auto=webp",
-                "cap": "画像クレジット：House House/Panic"
+                "src": "https://cdn.80.lv/api/upload/content/59/6aebbb95ac365.jpg",
+                "cap": "Tripothon S1"
               },
               {
                 "t": "p",
-                "x": "House Houseは、Big Walkの「開発の最終段階」で「難しい技術的課題やバグ」に対処するため、AIツールを「控えめに」使ったと明らかにした。この声明は、2027 Independent Games Festival（IGF）の審査員の一部が、生成AIを使って開発されたゲームには投票しないと表明したことを受けて出された。"
+                "x": "Tripo AIが主催した初のグローバルなワールドビルディング・ハッカソンTripothon S1には、78の国と地域から2,000を超えるチームが登録した。部門はゲーム、映画・VFX、VR/XR/AR、アプリケーション、フィジカルデザインの五つである。2026年9月15日から10月20日まで「A Gift for ___」をテーマに開かれ、Tripoの3D-native基盤モデルとTripo APIが使われた。"
+              },
+              {
+                "t": "video",
+                "yt": "o46nONohM9s"
               },
               {
                 "t": "p",
-                "x": "スタジオによると、サードパーティ製コードの問題を調べるためにLLMチャットボットを使ったという。「この利用に関わるコードは、Big Walkのコード全体の0.1%を大きく下回ると見積もっている」。日の出と日の入りの約20秒間にゲームが50%遅くなっていたUnity URPのシャドウキャスターの修正は、「URP内のコード約10行」だったという。"
+                "x": "San Francisco会場には60近いチームと800人を超える参加者が集まり、ほとんどのチームは一人から三人だった。同会場の準優勝はDulce BaergaのDear Little Meで、子どもの絵をインタラクティブな3Dのおもちゃに変えるWebXRアプリだ。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.80.lv/api/upload/content/ba/6aebbbda932bc.jpg",
+                "cap": "Halls of History: The Veiled Study"
               },
               {
                 "t": "p",
-                "x": "「どれほど小さな利用であっても、AIツールの使用を支持したり擁護したりするものではない」と開発元は述べた。「Big Walkは社内のAI利用方針がないまま開発され、我々はその方針の欠如を失敗だと考えている」"
+                "x": "San Francisco会場の最高賞はAnnette LaphamのHalls of History: The Veiled Studyが獲得した。会話型のミステリーゲームで、プレイヤーが探す固有のアーティファクトをTripo APIが生成する。AspiriumのGemtronicはスマートリングの中にデジタルペットを入れた。"
+              },
+              {
+                "t": "p",
+                "x": "グローバル大会全体の優勝は、三人称サバイバルシューターのSomehow Still Aliveだった。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "House House解释\nBig Walk的AI使用",
-          "body": "2027 IGF评审拒投gen-AI后，House House解释Big Walk用AI。",
-          "mini_headline": "Big Walk的AI使用说明",
+          "headline": "Tripo AI黑客松\n2,000+团队打造3D世界",
+          "body": "78个国家和地区的2,000多团队用Tripo 3D工具打造可玩世界、VR游戏和数字宠物。",
+          "mini_headline": "Tripo AI的3D-world黑客松",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/BigWalk_Screenshot_May25_06.png?width=1200&quality=85&format=jpg&auto=webp",
-                "cap": "图片来源：House House/Panic"
+                "src": "https://cdn.80.lv/api/upload/content/59/6aebbb95ac365.jpg",
+                "cap": "Tripothon S1"
               },
               {
                 "t": "p",
-                "x": "House House澄清称，在Big Walk“开发的最后阶段”，他们“有节制地”使用了AI工具，以解决“棘手的技术难题和bug”。此前，2027 Independent Games Festival（IGF）的一批评审表示，不会投票给任何使用生成式AI开发的游戏。"
+                "x": "Tripothon S1是Tripo AI主办的首届全球世界构建黑客松，吸引了来自78个国家和地区的2,000多支注册团队，分为五个类别：游戏、影视与VFX、VR/XR/AR、应用以及实体设计。活动于2026年9月15日至10月20日举行，主题为“A Gift for ___”，使用Tripo的3D-native基础模型和Tripo API。"
+              },
+              {
+                "t": "video",
+                "yt": "o46nONohM9s"
               },
               {
                 "t": "p",
-                "x": "工作室表示，他们用LLM聊天机器人研究第三方代码的问题：“我们估计，Big Walk中与此相关的代码远低于0.1%。”其中一项修复针对Unity URP的阴影投射器——它曾让游戏在日出和日落时约20秒内运行速度慢50%——“大约相当于URP内部的10行代码”。"
+                "x": "San Francisco站聚集了近60支团队和800多名参与者，大多数团队只有一到三人。该站第二名由Dulce Baerga的Dear Little Me获得，这是一款把儿童画作变成可互动3D玩具的WebXR应用。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.80.lv/api/upload/content/ba/6aebbbda932bc.jpg",
+                "cap": "Halls of History: The Veiled Study"
               },
               {
                 "t": "p",
-                "x": "“无论多么少量，这都不是在为使用AI工具背书或辩护，”开发者表示。“Big Walk在开发时没有内部AI使用政策，我们认为缺乏这样的政策是一种失败。”"
+                "x": "San Francisco站最高奖由Annette Lapham的Halls of History: The Veiled Study获得，这是一款对话式解谜游戏，由Tripo API生成独特的文物供玩家寻找。Aspirium的Gemtronic则把数字宠物放进了智能戒指。"
+              },
+              {
+                "t": "p",
+                "x": "在全球赛中，第一名由第三人称生存射击游戏Somehow Still Alive获得。"
               }
             ]
           }
         },
         "es": {
-          "headline": "House House explica el uso\nde AI en Big Walk",
-          "body": "House House explicó el uso de AI en Big Walk tras el anuncio de jurados del IGF 2027 de no votar por juegos gen-AI.",
-          "mini_headline": "El uso de AI en Big Walk, explicado",
+          "headline": "2,000+ equipos crean mundos 3D\nen el hackathon de Tripo AI",
+          "body": "Más de 2,000 equipos de 78 países y regiones crearon mundos, juegos VR y mascotas con las herramientas 3D de Tripo.",
+          "mini_headline": "El hackathon 3D-world de Tripo AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/BigWalk_Screenshot_May25_06.png?width=1200&quality=85&format=jpg&auto=webp",
-                "cap": "Crédito de imagen: House House/Panic"
+                "src": "https://cdn.80.lv/api/upload/content/59/6aebbb95ac365.jpg",
+                "cap": "Tripothon S1"
               },
               {
                 "t": "p",
-                "x": "House House aclaró que usó herramientas de AI \"con moderación\" durante el \"tramo final del desarrollo\" de Big Walk para resolver \"desafíos técnicos difíciles y errores\". La declaración llegó después de que un grupo de jurados del 2027 Independent Games Festival (IGF) dijera que no votaría por ningún juego desarrollado con AI generativa."
+                "x": "Tripothon S1, el primer hackathon global de construcción de mundos organizado por Tripo AI, reunió a más de 2,000 equipos inscritos de 78 países y regiones en cinco categorías: juegos, cine y VFX, VR/XR/AR, aplicaciones y diseño físico. Se celebró del 15 de septiembre al 20 de octubre de 2026 con el lema “A Gift for ___” y usó los modelos fundacionales 3D-native de Tripo y la Tripo API."
+              },
+              {
+                "t": "video",
+                "yt": "o46nONohM9s"
               },
               {
                 "t": "p",
-                "x": "El estudio explicó que usó chatbots LLM para investigar problemas con código de terceros: \"estimamos que muy por debajo del 0.1% del código de Big Walk tuvo algo que ver con este uso\". Una corrección, para los shadow casters de Unity URP que hacían que el juego funcionara un 50% más lento durante unos 20 segundos al amanecer y al atardecer, \"representó unas 10 líneas de código dentro de URP\"."
+                "x": "El evento de San Francisco reunió a cerca de 60 equipos y más de 800 asistentes; la mayoría de los equipos tenía solo de una a tres personas. Allí, el segundo puesto fue para Dear Little Me, de Dulce Baerga, una app WebXR que convierte dibujos infantiles en juguetes 3D interactivos."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.80.lv/api/upload/content/ba/6aebbbda932bc.jpg",
+                "cap": "Halls of History: The Veiled Study"
               },
               {
                 "t": "p",
-                "x": "\"Esto no es un respaldo ni un argumento a favor del uso de herramientas de AI, por mínimo que sea\", dijo el desarrollador. \"Big Walk se desarrolló sin una política interna de uso de AI, y consideramos que esa falta de política fue un fallo\"."
+                "x": "El premio principal de San Francisco fue para Halls of History: The Veiled Study, de Annette Lapham, un juego de misterio conversacional en el que la Tripo API genera artefactos únicos que los jugadores deben buscar. Gemtronic, de Aspirium, puso una mascota digital dentro de un anillo inteligente."
+              },
+              {
+                "t": "p",
+                "x": "En la competición global, el primer puesto fue para Somehow Still Alive, un shooter de supervivencia en tercera persona."
               }
             ]
           }
@@ -447,109 +575,161 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "House House가\nBig Walk AI 해명",
-          "body": "Big Walk 개발사가 2027 IGF 심사위원 gen-AI 거부에 답했다.",
-          "mini_headline": "Big Walk의 AI 사용 해명",
+          "headline": "Tripo AI 해커톤\n2,000+팀 3D 월드",
+          "body": "78개국·지역 2,000여 팀이 Tripo 3D 도구로 게임·VR·펫을 만들었다.",
+          "mini_headline": "Tripo AI의 3D-world 해커톤",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/BigWalk_Screenshot_May25_06.png?width=1200&quality=85&format=jpg&auto=webp",
-                "cap": "이미지 출처: House House/Panic"
+                "src": "https://cdn.80.lv/api/upload/content/59/6aebbb95ac365.jpg",
+                "cap": "Tripothon S1"
               },
               {
                 "t": "p",
-                "x": "House House는 Big Walk의 \"개발 막바지\"에 \"까다로운 기술적 과제와 버그\"를 해결하려고 AI 도구를 \"아주 제한적으로\" 썼다고 밝혔다. 이 입장은 2027 Independent Games Festival(IGF) 심사위원 일부가 생성형 AI로 개발한 게임에는 투표하지 않겠다고 밝힌 뒤 나왔다."
+                "x": "Tripo AI가 연 첫 글로벌 월드 빌딩 해커톤 Tripothon S1에는 78개 국가·지역에서 2,000개가 넘는 팀이 등록했다. 부문은 게임, 영화·VFX, VR/XR/AR, 애플리케이션, 피지컬 디자인 다섯 개였다. 대회는 2026년 9월 15일부터 10월 20일까지 “A Gift for ___”라는 주제로 열렸고, 참가자들은 Tripo의 3D-native 파운데이션 모델과 Tripo API를 썼다."
+              },
+              {
+                "t": "video",
+                "yt": "o46nONohM9s"
               },
               {
                 "t": "p",
-                "x": "스튜디오는 서드파티 코드 문제를 조사하는 데 LLM 챗봇을 썼다고 설명했다. \"이 사용과 관련된 코드는 Big Walk 전체 코드의 0.1%에 한참 못 미칠 것으로 추산한다.\" 해돋이와 해넘이 때 약 20초 동안 게임을 50% 느리게 만든 Unity URP 섀도 캐스터 수정 건은 \"URP 내부 코드 약 10줄 분량\"이었다."
+                "x": "San Francisco 행사에는 60개 가까운 팀과 800명이 넘는 참가자가 모였고, 대부분의 팀은 한 명에서 세 명 규모였다. 이곳 준우승은 Dulce Baerga의 Dear Little Me가 차지했다. 아이들의 그림을 인터랙티브 3D 장난감으로 바꿔 주는 WebXR 앱이다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.80.lv/api/upload/content/ba/6aebbbda932bc.jpg",
+                "cap": "Halls of History: The Veiled Study"
               },
               {
                 "t": "p",
-                "x": "\"아무리 적더라도 AI 도구 사용을 지지하거나 옹호하려는 것은 아니다\"라고 개발사는 말했다. \"Big Walk는 내부 AI 사용 정책 없이 개발됐고, 우리는 그 정책의 부재를 실패로 본다.\""
+                "x": "San Francisco 최고상은 Annette Lapham의 Halls of History: The Veiled Study에 돌아갔다. 대화형 미스터리 게임으로, 플레이어가 찾아야 할 고유한 유물을 Tripo API가 생성한다. Aspirium의 Gemtronic은 스마트 링 안에 디지털 펫을 넣었다."
+              },
+              {
+                "t": "p",
+                "x": "글로벌 대회 전체 우승은 삼인칭 서바이벌 슈터 Somehow Still Alive가 차지했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "House Houseが\nBig WalkのAIを説明",
-          "body": "2027 IGF審査員のgen-AI拒否後、Big Walk開発元がAI使用を説明した。",
-          "mini_headline": "Big WalkのAI使用を説明",
+          "headline": "Tripo AIハッカソン\n2,000+チームが3D世界",
+          "body": "78の国・地域の2,000超のチームがTripoの3DツールでVRゲームやペットを作った。",
+          "mini_headline": "Tripo AIの3D-worldハッカソン",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/BigWalk_Screenshot_May25_06.png?width=1200&quality=85&format=jpg&auto=webp",
-                "cap": "画像クレジット：House House/Panic"
+                "src": "https://cdn.80.lv/api/upload/content/59/6aebbb95ac365.jpg",
+                "cap": "Tripothon S1"
               },
               {
                 "t": "p",
-                "x": "House Houseは、Big Walkの「開発の最終段階」で「難しい技術的課題やバグ」に対処するため、AIツールを「控えめに」使ったと明らかにした。この声明は、2027 Independent Games Festival（IGF）の審査員の一部が、生成AIを使って開発されたゲームには投票しないと表明したことを受けて出された。"
+                "x": "Tripo AIが主催した初のグローバルなワールドビルディング・ハッカソンTripothon S1には、78の国と地域から2,000を超えるチームが登録した。部門はゲーム、映画・VFX、VR/XR/AR、アプリケーション、フィジカルデザインの五つである。2026年9月15日から10月20日まで「A Gift for ___」をテーマに開かれ、Tripoの3D-native基盤モデルとTripo APIが使われた。"
+              },
+              {
+                "t": "video",
+                "yt": "o46nONohM9s"
               },
               {
                 "t": "p",
-                "x": "スタジオによると、サードパーティ製コードの問題を調べるためにLLMチャットボットを使ったという。「この利用に関わるコードは、Big Walkのコード全体の0.1%を大きく下回ると見積もっている」。日の出と日の入りの約20秒間にゲームが50%遅くなっていたUnity URPのシャドウキャスターの修正は、「URP内のコード約10行」だったという。"
+                "x": "San Francisco会場には60近いチームと800人を超える参加者が集まり、ほとんどのチームは一人から三人だった。同会場の準優勝はDulce BaergaのDear Little Meで、子どもの絵をインタラクティブな3Dのおもちゃに変えるWebXRアプリだ。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.80.lv/api/upload/content/ba/6aebbbda932bc.jpg",
+                "cap": "Halls of History: The Veiled Study"
               },
               {
                 "t": "p",
-                "x": "「どれほど小さな利用であっても、AIツールの使用を支持したり擁護したりするものではない」と開発元は述べた。「Big Walkは社内のAI利用方針がないまま開発され、我々はその方針の欠如を失敗だと考えている」"
+                "x": "San Francisco会場の最高賞はAnnette LaphamのHalls of History: The Veiled Studyが獲得した。会話型のミステリーゲームで、プレイヤーが探す固有のアーティファクトをTripo APIが生成する。AspiriumのGemtronicはスマートリングの中にデジタルペットを入れた。"
+              },
+              {
+                "t": "p",
+                "x": "グローバル大会全体の優勝は、三人称サバイバルシューターのSomehow Still Aliveだった。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "House House解释\nBig Walk的AI使用",
-          "body": "2027 IGF评审拒投gen-AI后，House House解释Big Walk用AI。",
-          "mini_headline": "Big Walk的AI使用说明",
+          "headline": "Tripo AI黑客松\n2,000+团队打造3D世界",
+          "body": "78个国家和地区的2,000多团队用Tripo 3D工具打造可玩世界、VR游戏和数字宠物。",
+          "mini_headline": "Tripo AI的3D-world黑客松",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/BigWalk_Screenshot_May25_06.png?width=1200&quality=85&format=jpg&auto=webp",
-                "cap": "图片来源：House House/Panic"
+                "src": "https://cdn.80.lv/api/upload/content/59/6aebbb95ac365.jpg",
+                "cap": "Tripothon S1"
               },
               {
                 "t": "p",
-                "x": "House House澄清称，在Big Walk“开发的最后阶段”，他们“有节制地”使用了AI工具，以解决“棘手的技术难题和bug”。此前，2027 Independent Games Festival（IGF）的一批评审表示，不会投票给任何使用生成式AI开发的游戏。"
+                "x": "Tripothon S1是Tripo AI主办的首届全球世界构建黑客松，吸引了来自78个国家和地区的2,000多支注册团队，分为五个类别：游戏、影视与VFX、VR/XR/AR、应用以及实体设计。活动于2026年9月15日至10月20日举行，主题为“A Gift for ___”，使用Tripo的3D-native基础模型和Tripo API。"
+              },
+              {
+                "t": "video",
+                "yt": "o46nONohM9s"
               },
               {
                 "t": "p",
-                "x": "工作室表示，他们用LLM聊天机器人研究第三方代码的问题：“我们估计，Big Walk中与此相关的代码远低于0.1%。”其中一项修复针对Unity URP的阴影投射器——它曾让游戏在日出和日落时约20秒内运行速度慢50%——“大约相当于URP内部的10行代码”。"
+                "x": "San Francisco站聚集了近60支团队和800多名参与者，大多数团队只有一到三人。该站第二名由Dulce Baerga的Dear Little Me获得，这是一款把儿童画作变成可互动3D玩具的WebXR应用。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.80.lv/api/upload/content/ba/6aebbbda932bc.jpg",
+                "cap": "Halls of History: The Veiled Study"
               },
               {
                 "t": "p",
-                "x": "“无论多么少量，这都不是在为使用AI工具背书或辩护，”开发者表示。“Big Walk在开发时没有内部AI使用政策，我们认为缺乏这样的政策是一种失败。”"
+                "x": "San Francisco站最高奖由Annette Lapham的Halls of History: The Veiled Study获得，这是一款对话式解谜游戏，由Tripo API生成独特的文物供玩家寻找。Aspirium的Gemtronic则把数字宠物放进了智能戒指。"
+              },
+              {
+                "t": "p",
+                "x": "在全球赛中，第一名由第三人称生存射击游戏Somehow Still Alive获得。"
               }
             ]
           }
         },
         "es": {
-          "headline": "House House explica el uso\nde AI en Big Walk",
-          "body": "House House explicó el uso de AI en Big Walk tras el anuncio de jurados del IGF 2027 de no votar por juegos gen-AI.",
-          "mini_headline": "El uso de AI en Big Walk, explicado",
+          "headline": "2,000+ equipos crean mundos 3D\nen el hackathon de Tripo AI",
+          "body": "Más de 2,000 equipos de 78 países y regiones crearon mundos, juegos VR y mascotas con las herramientas 3D de Tripo.",
+          "mini_headline": "El hackathon 3D-world de Tripo AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/BigWalk_Screenshot_May25_06.png?width=1200&quality=85&format=jpg&auto=webp",
-                "cap": "Crédito de imagen: House House/Panic"
+                "src": "https://cdn.80.lv/api/upload/content/59/6aebbb95ac365.jpg",
+                "cap": "Tripothon S1"
               },
               {
                 "t": "p",
-                "x": "House House aclaró que usó herramientas de AI \"con moderación\" durante el \"tramo final del desarrollo\" de Big Walk para resolver \"desafíos técnicos difíciles y errores\". La declaración llegó después de que un grupo de jurados del 2027 Independent Games Festival (IGF) dijera que no votaría por ningún juego desarrollado con AI generativa."
+                "x": "Tripothon S1, el primer hackathon global de construcción de mundos organizado por Tripo AI, reunió a más de 2,000 equipos inscritos de 78 países y regiones en cinco categorías: juegos, cine y VFX, VR/XR/AR, aplicaciones y diseño físico. Se celebró del 15 de septiembre al 20 de octubre de 2026 con el lema “A Gift for ___” y usó los modelos fundacionales 3D-native de Tripo y la Tripo API."
+              },
+              {
+                "t": "video",
+                "yt": "o46nONohM9s"
               },
               {
                 "t": "p",
-                "x": "El estudio explicó que usó chatbots LLM para investigar problemas con código de terceros: \"estimamos que muy por debajo del 0.1% del código de Big Walk tuvo algo que ver con este uso\". Una corrección, para los shadow casters de Unity URP que hacían que el juego funcionara un 50% más lento durante unos 20 segundos al amanecer y al atardecer, \"representó unas 10 líneas de código dentro de URP\"."
+                "x": "El evento de San Francisco reunió a cerca de 60 equipos y más de 800 asistentes; la mayoría de los equipos tenía solo de una a tres personas. Allí, el segundo puesto fue para Dear Little Me, de Dulce Baerga, una app WebXR que convierte dibujos infantiles en juguetes 3D interactivos."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.80.lv/api/upload/content/ba/6aebbbda932bc.jpg",
+                "cap": "Halls of History: The Veiled Study"
               },
               {
                 "t": "p",
-                "x": "\"Esto no es un respaldo ni un argumento a favor del uso de herramientas de AI, por mínimo que sea\", dijo el desarrollador. \"Big Walk se desarrolló sin una política interna de uso de AI, y consideramos que esa falta de política fue un fallo\"."
+                "x": "El premio principal de San Francisco fue para Halls of History: The Veiled Study, de Annette Lapham, un juego de misterio conversacional en el que la Tripo API genera artefactos únicos que los jugadores deben buscar. Gemtronic, de Aspirium, puso una mascota digital dentro de un anillo inteligente."
+              },
+              {
+                "t": "p",
+                "x": "En la competición global, el primer puesto fue para Somehow Still Alive, un shooter de supervivencia en tercera persona."
               }
             ]
           }
@@ -557,15 +737,15 @@
       }
     },
     {
-      "id": "pcot-japanese-localization-end",
-      "source_lang": "ja",
+      "id": "xbox-auto-sr-ally-x-120fps",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "일본어화 툴 PCOT\n다음 업데이트로 개발 종료",
-      "body": "AI로 직접 일본어화하는 미래가 보인다며 PCOT가 다음 업데이트로 개발을 접는다.",
-      "mini_headline": "PCOT, 개발 종료",
+      "headline": "ROG Xbox Ally\nX용 Auto SR 정식판",
+      "body": "Auto SR이 ROG Xbox Ally X서 1080p·120 FPS로 출시됐다.",
+      "mini_headline": "Auto SR 프리뷰 종료",
       "tool": "Games",
-      "source": "AUTOMATON",
-      "url": "https://automaton-media.com/articles/newsjp/20261110-478520/",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/microsoft-auto-sr-exits-preview-on-rog-xbox-ally-x-new-performance-mode-raises-fps-limit-to-120/",
       "accent": "#f5a623",
       "motif": "cube",
       "full": {
@@ -573,295 +753,345 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478520-header.jpg"
+            "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-27.jpg"
           },
           {
             "t": "p",
-            "x": "개인 개발자 ぬるっぽ 씨가 11월 10일, 번역 지원 툴 'PCOT' 개발을 지금 진행 중인 업데이트를 끝으로 마친다고 발표했다. PCOT는 2020년부터 무료로 공개해 온 PC용 번역 지원 툴이다. OCR 기술로 게임 화면에서 고른 영역의 텍스트를 뽑아 번역한다. 2025년 4월 Gemini를 탑재하면서 인식과 번역 정확도가 크게 올랐다."
-          },
-          {
-            "t": "img",
-            "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478520-001-1080x560.jpg"
+            "x": "Microsoft가 ROG XBOX Ally X와 X20에 Automatic Super Resolution(Auto SR)을 정식으로 제공한다고 발표하면서 AMD Ryzen AI-powered Copilot+ PCs 지원도 넓혔다. Auto SR은 낮은 해상도로 렌더링한 게임을 NPU로 업스케일한다. 개발사가 따로 통합하지 않아도 Windows 단에서 돌아간다."
           },
           {
             "t": "p",
-            "x": "그는 AI가 진화하면서 플레이어가 직접 게임을 일본어화할 수 있는 미래가 보였고 툴의 역할도 일단락됐다고 이유를 밝혔다. 앱 공개와 버그 유지보수는 계속한다. 개발을 끝내는 게 슬프지는 않다며, 플레이어가 AI 도움으로 게임을 일본어로 즐기는 시대가 와서 정말 기쁘다고 했다."
+            "x": "새 Performance Mode는 약 60–75 FPS였던 프레임 레이트 상한을 120 FPS까지 끌어올린다. Microsoft가 Rocket League를 720p로 시연했을 때 평균 프레임은 Quality Mode 70 FPS, Performance Mode 115 FPS였다."
           },
           {
             "t": "img",
-            "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478520-002-1080x608.jpg"
+            "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Performance-Mode-115-FPS.webp",
+            "cap": "Auto SR Performance mode — 115 FPS. 이미지 출처: Microsoft."
+          },
+          {
+            "t": "p",
+            "x": "이제 Auto SR은 배터리 전원일 때를 포함해 휴대 기기 화면에서 바로 작동하고 1080p 입력도 받는다. 해상도가 더 높은 외부 디스플레이에서는 1080p를 1440p로 업스케일한다. Windows Auto HDR과 같이 쓸 수도 있다."
+          },
+          {
+            "t": "p",
+            "x": "휴대 기기 지원, 1080p 호환, AMD Ryzen AI 지원 확대는 지금 바로 쓸 수 있다. Performance Mode와 Auto HDR 호환은 Windows Update로 순차 배포된다."
           }
         ]
       },
       "text": {
-        "ja": {
-          "headline": "日本語化ツールPCOT\n次の更新で開発終了",
-          "body": "AIの進化で自ら直接日本語化する未来が見えたとして、PCOTは次の更新で開発を終える。",
-          "mini_headline": "PCOT、開発終了へ",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478520-header.jpg"
-              },
-              {
-                "t": "p",
-                "x": "個人開発者のぬるっぽ氏は11月10日、翻訳支援ツール「PCOT」の開発を、現在抱えている更新を最後に終了すると発表した。PCOTは2020年から無料公開されているPC向け翻訳支援ツールで、OCR技術でゲーム画面から選択範囲のテキストを抽出し翻訳する。2025年4月にはGeminiを搭載し、読み取りおよび翻訳の精度が飛躍的に向上した。"
-              },
-              {
-                "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478520-001-1080x560.jpg"
-              },
-              {
-                "t": "p",
-                "x": "同氏は理由として、AIの進化でプレイヤー自身がゲームを直接日本語化できる未来が見え、ツールとしての役割に区切りがついたと説明している。アプリの公開と不具合のメンテナンスは今後も継続する。開発終了を悲しくは思っておらず、プレイヤー自身がAIの手を借りてゲームを日本語で遊べる時代が来たことを本当に喜ばしく思っていると述べている。"
-              },
-              {
-                "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478520-002-1080x608.jpg"
-              }
-            ]
-          }
-        },
         "en": {
-          "headline": "Japanese Localizing Tool PCOT\nWill End After Next Update",
-          "body": "As AI points to players localizing games into Japanese themselves, PCOT will end development with its next update.",
-          "mini_headline": "PCOT to End Development",
+          "headline": "Auto SR leaves preview\non ROG Xbox Ally X",
+          "body": "Microsoft's AI upscaler Auto SR exits preview on the ROG Xbox Ally X with 1080p upscaling and a 120 FPS mode.",
+          "mini_headline": "Auto SR exits preview",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478520-header.jpg"
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-27.jpg"
               },
               {
                 "t": "p",
-                "x": "On November 10, independent developer Nuruppo (ぬるっぽ) announced that development of the translation-support tool \"PCOT\" will end with the update currently in progress. PCOT is a translation-support tool for PC that has been available for free since 2020; it uses OCR technology to extract and translate text from a selected area of the game screen. In April 2025 it added Gemini, which dramatically improved its reading and translation accuracy."
-              },
-              {
-                "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478520-001-1080x560.jpg"
+                "x": "Microsoft has announced the general availability of Automatic Super Resolution (Auto SR) on the ROG XBOX Ally X and X20, alongside expanded support for AMD Ryzen AI-powered Copilot+ PCs. Auto SR uses the NPU to upscale games rendered at lower resolutions, operating at the Windows level without developer integration."
               },
               {
                 "t": "p",
-                "x": "The developer explained that the evolution of AI has made it possible to see a future in which players can localize games into Japanese directly themselves, and that the tool's role has reached a natural close. The app will remain available, and bug maintenance will continue. The developer said they are not sad about ending development and are truly glad that an era has arrived in which players can play games in Japanese with the help of AI."
+                "x": "A new Performance Mode raises the previous frame-rate ceiling of approximately 60–75 FPS to 120 FPS. In Microsoft's Rocket League demo at 720p, the game averaged 70 FPS in Quality Mode versus 115 FPS in Performance Mode."
               },
               {
                 "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478520-002-1080x608.jpg"
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Performance-Mode-115-FPS.webp",
+                "cap": "Auto SR Performance mode —115 FPS. Image credit: Microsoft."
+              },
+              {
+                "t": "p",
+                "x": "Auto SR now works directly on handheld displays, including on battery power, and supports 1080p input; on a higher-resolution external display it can upscale 1080p to 1440p. It can also work alongside Windows Auto HDR."
+              },
+              {
+                "t": "p",
+                "x": "Handheld support, 1080p compatibility and expanded AMD Ryzen AI support are available now, while Performance Mode and Auto HDR compatibility are rolling out gradually through Windows Update."
               }
             ]
           }
         },
         "ko": {
-          "headline": "일본어화 툴 PCOT\n다음 업데이트로 개발 종료",
-          "body": "AI로 직접 일본어화하는 미래가 보인다며 PCOT가 다음 업데이트로 개발을 접는다.",
-          "mini_headline": "PCOT, 개발 종료",
+          "headline": "ROG Xbox Ally\nX용 Auto SR 정식판",
+          "body": "Auto SR이 ROG Xbox Ally X서 1080p·120 FPS로 출시됐다.",
+          "mini_headline": "Auto SR 프리뷰 종료",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478520-header.jpg"
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-27.jpg"
               },
               {
                 "t": "p",
-                "x": "개인 개발자 ぬるっぽ 씨가 11월 10일, 번역 지원 툴 'PCOT' 개발을 지금 진행 중인 업데이트를 끝으로 마친다고 발표했다. PCOT는 2020년부터 무료로 공개해 온 PC용 번역 지원 툴이다. OCR 기술로 게임 화면에서 고른 영역의 텍스트를 뽑아 번역한다. 2025년 4월 Gemini를 탑재하면서 인식과 번역 정확도가 크게 올랐다."
-              },
-              {
-                "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478520-001-1080x560.jpg"
+                "x": "Microsoft가 ROG XBOX Ally X와 X20에 Automatic Super Resolution(Auto SR)을 정식으로 제공한다고 발표하면서 AMD Ryzen AI-powered Copilot+ PCs 지원도 넓혔다. Auto SR은 낮은 해상도로 렌더링한 게임을 NPU로 업스케일한다. 개발사가 따로 통합하지 않아도 Windows 단에서 돌아간다."
               },
               {
                 "t": "p",
-                "x": "그는 AI가 진화하면서 플레이어가 직접 게임을 일본어화할 수 있는 미래가 보였고 툴의 역할도 일단락됐다고 이유를 밝혔다. 앱 공개와 버그 유지보수는 계속한다. 개발을 끝내는 게 슬프지는 않다며, 플레이어가 AI 도움으로 게임을 일본어로 즐기는 시대가 와서 정말 기쁘다고 했다."
+                "x": "새 Performance Mode는 약 60–75 FPS였던 프레임 레이트 상한을 120 FPS까지 끌어올린다. Microsoft가 Rocket League를 720p로 시연했을 때 평균 프레임은 Quality Mode 70 FPS, Performance Mode 115 FPS였다."
               },
               {
                 "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478520-002-1080x608.jpg"
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Performance-Mode-115-FPS.webp",
+                "cap": "Auto SR Performance mode — 115 FPS. 이미지 출처: Microsoft."
+              },
+              {
+                "t": "p",
+                "x": "이제 Auto SR은 배터리 전원일 때를 포함해 휴대 기기 화면에서 바로 작동하고 1080p 입력도 받는다. 해상도가 더 높은 외부 디스플레이에서는 1080p를 1440p로 업스케일한다. Windows Auto HDR과 같이 쓸 수도 있다."
+              },
+              {
+                "t": "p",
+                "x": "휴대 기기 지원, 1080p 호환, AMD Ryzen AI 지원 확대는 지금 바로 쓸 수 있다. Performance Mode와 Auto HDR 호환은 Windows Update로 순차 배포된다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "ROG Xbox Ally\nX向けAuto SR正式版",
+          "body": "AIのAuto SRがROG Xbox Ally Xで1080p・120 FPSに対応した。",
+          "mini_headline": "Auto SRがプレビュー終了",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-27.jpg"
+              },
+              {
+                "t": "p",
+                "x": "MicrosoftはROG XBOX Ally XとX20でのAutomatic Super Resolution(Auto SR)の一般提供を発表し、AMD Ryzen AI-poweredのCopilot+ PCsへの対応も広げた。Auto SRはNPUを使って低い解像度で描画したゲームをアップスケールし、開発者側の組み込みなしにWindowsレベルで動作する。"
+              },
+              {
+                "t": "p",
+                "x": "新しいPerformance Modeは、従来およそ60–75 FPSだったフレームレートの上限を120 FPSに引き上げる。MicrosoftによるRocket Leagueの720pデモでは、平均でQuality Modeが70 FPS、Performance Modeが115 FPSだった。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Performance-Mode-115-FPS.webp",
+                "cap": "Auto SR Performance mode — 115 FPS。画像提供:Microsoft。"
+              },
+              {
+                "t": "p",
+                "x": "Auto SRはバッテリー駆動時も含めて携帯機の画面で直接動くようになり、1080p入力にも対応した。より高解像度の外部ディスプレイでは1080pを1440pにアップスケールできる。Windows Auto HDRとの併用も可能だ。"
+              },
+              {
+                "t": "p",
+                "x": "携帯機対応、1080p互換、AMD Ryzen AI対応の拡大はすでに利用でき、Performance ModeとAuto HDRとの互換はWindows Updateを通じて段階的に配信される。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "日语化工具PCOT\n下次更新后停止开发",
-          "body": "以AI进化让人看到自行直接日语化的未来为由，PCOT将在下次更新后结束开发。",
-          "mini_headline": "PCOT将停止开发",
+          "headline": "ROG Xbox Ally\nX上Auto SR结束预览",
+          "body": "AI超分Auto SR在ROG Xbox Ally X转正，支持1080p与120 FPS。",
+          "mini_headline": "Auto SR结束预览",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478520-header.jpg"
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-27.jpg"
               },
               {
                 "t": "p",
-                "x": "个人开发者ぬるっぽ于11月10日宣布，翻译辅助工具“PCOT”的开发将在目前手头的更新完成后结束。PCOT是一款自2020年起免费公开的PC翻译辅助工具，借助OCR技术从游戏画面中提取所选区域的文字并进行翻译。2025年4月，它接入了Gemini，识别和翻译精度大幅提升。"
-              },
-              {
-                "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478520-001-1080x560.jpg"
+                "x": "Microsoft宣布Automatic Super Resolution（Auto SR）在ROG XBOX Ally X和X20上正式推出，并扩大对AMD Ryzen AI-powered Copilot+ PCs的支持。Auto SR利用NPU对以较低分辨率渲染的游戏进行升频，在Windows层面运行，无需开发者集成。"
               },
               {
                 "t": "p",
-                "x": "该开发者解释称，随着AI的进化，已经能看到玩家自己直接把游戏日语化的未来，这款工具的使命也告一段落。应用的公开和bug维护今后仍将继续。该开发者表示，并不为开发结束而难过，反而由衷高兴玩家借助AI就能用日语玩游戏的时代已经到来。"
+                "x": "新的Performance Mode将此前约60–75 FPS的帧率上限提高到120 FPS。在Microsoft的Rocket League 720p演示中，Quality Mode平均70 FPS，Performance Mode平均115 FPS。"
               },
               {
                 "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478520-002-1080x608.jpg"
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Performance-Mode-115-FPS.webp",
+                "cap": "Auto SR Performance mode — 115 FPS。图片来源：Microsoft。"
+              },
+              {
+                "t": "p",
+                "x": "Auto SR现在可直接在掌机屏幕上运行，包括电池供电时，并支持1080p输入；在更高分辨率的外接显示器上，它可将1080p升频至1440p。它还能与Windows Auto HDR同时使用。"
+              },
+              {
+                "t": "p",
+                "x": "掌机支持、1080p兼容以及扩大的AMD Ryzen AI支持现已推出，Performance Mode和Auto HDR兼容则正通过Windows Update逐步推送。"
               }
             ]
           }
         },
         "es": {
-          "headline": "PCOT, para traducir al japonés,\ntermina en la próxima versión",
-          "body": "Ante un futuro en que cada uno traduzca juegos al japonés con AI, PCOT terminará su desarrollo con la próxima versión.",
-          "mini_headline": "PCOT pone fin a su desarrollo",
+          "headline": "Auto SR deja la vista previa\nen la ROG Xbox Ally X",
+          "body": "Auto SR, el escalador con AI de Microsoft, deja la vista previa en la ROG Xbox Ally X con 1080p y un modo de 120 FPS.",
+          "mini_headline": "Auto SR deja la vista previa",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478520-header.jpg"
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-27.jpg"
               },
               {
                 "t": "p",
-                "x": "El desarrollador independiente ぬるっぽ anunció el 10 de noviembre que el desarrollo de la herramienta de apoyo a la traducción \"PCOT\" terminará con la actualización que tiene en curso. PCOT es una herramienta de apoyo a la traducción para PC, disponible gratis desde 2020, que usa tecnología OCR para extraer y traducir el texto de una zona seleccionada de la pantalla del juego. En abril de 2025 incorporó Gemini, lo que mejoró de forma notable la precisión de lectura y traducción."
-              },
-              {
-                "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478520-001-1080x560.jpg"
+                "x": "Microsoft anunció la disponibilidad general de Automatic Super Resolution (Auto SR) en las ROG XBOX Ally X y X20, junto con más compatibilidad con los AMD Ryzen AI-powered Copilot+ PCs. Auto SR usa la NPU para escalar juegos renderizados a resoluciones más bajas y funciona a nivel de Windows, sin integración por parte de los desarrolladores."
               },
               {
                 "t": "p",
-                "x": "El desarrollador explicó que, con la evolución de la AI, vislumbró un futuro en que los propios jugadores puedan traducir los juegos directamente al japonés, y que el papel de la herramienta llegó a su fin. La app seguirá publicada y el mantenimiento de errores continuará. Afirmó que no siente tristeza por el fin del desarrollo y que le alegra de verdad que haya llegado una época en que los jugadores pueden jugar en japonés con ayuda de la AI."
+                "x": "Un nuevo Performance Mode eleva el techo anterior de frecuencia de imagen, de unos 60–75 FPS, a 120 FPS. En la demo de Rocket League de Microsoft a 720p, el juego promedió 70 FPS en Quality Mode frente a 115 FPS en Performance Mode."
               },
               {
                 "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478520-002-1080x608.jpg"
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Performance-Mode-115-FPS.webp",
+                "cap": "Auto SR Performance mode — 115 FPS. Imagen: Microsoft."
+              },
+              {
+                "t": "p",
+                "x": "Auto SR ya funciona directamente en las pantallas de las consolas portátiles, también con batería, y admite entrada 1080p; en una pantalla externa de mayor resolución puede escalar de 1080p a 1440p. También puede funcionar junto con Windows Auto HDR."
+              },
+              {
+                "t": "p",
+                "x": "La compatibilidad con portátiles, la compatibilidad con 1080p y la ampliación del soporte para AMD Ryzen AI ya están disponibles, mientras que Performance Mode y la compatibilidad con Auto HDR llegan de forma gradual mediante Windows Update."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "Japanese Localizing Tool PCOT\nWill End After Next Update",
-          "body": "As AI points to players localizing games into Japanese themselves, PCOT will end development with its next update.",
-          "mini_headline": "PCOT to End Development",
+        "ko": {
+          "headline": "ROG Xbox Ally\nX용 Auto SR 정식판",
+          "body": "Auto SR이 ROG Xbox Ally X서 1080p·120 FPS로 출시됐다.",
+          "mini_headline": "Auto SR 프리뷰 종료",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478520-header.jpg"
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-27.jpg"
               },
               {
                 "t": "p",
-                "x": "On November 10, independent developer Nuruppo (ぬるっぽ) announced that development of the translation-support tool \"PCOT\" will end with the update currently in progress. PCOT is a translation-support tool for PC that has been available for free since 2020; it uses OCR technology to extract and translate text from a selected area of the game screen. In April 2025 it added Gemini, which dramatically improved its reading and translation accuracy."
-              },
-              {
-                "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478520-001-1080x560.jpg"
+                "x": "Microsoft는 ROG XBOX Ally X와 X20에서 Automatic Super Resolution(Auto SR)을 정식 제공한다고 발표했고, AMD Ryzen AI-powered Copilot+ PCs 지원도 넓혔다. Auto SR은 NPU로 낮은 해상도에서 렌더링한 게임을 업스케일하며, 개발사 통합 없이 Windows 단에서 작동한다."
               },
               {
                 "t": "p",
-                "x": "The developer explained that the evolution of AI has made it possible to see a future in which players can localize games into Japanese directly themselves, and that the tool's role has reached a natural close. The app will remain available, and bug maintenance will continue. The developer said they are not sad about ending development and are truly glad that an era has arrived in which players can play games in Japanese with the help of AI."
+                "x": "새 Performance Mode는 기존 약 60–75 FPS였던 프레임 레이트 상한을 120 FPS로 올린다. Microsoft의 Rocket League 720p 시연에서 평균 프레임은 Quality Mode 70 FPS, Performance Mode 115 FPS였다."
               },
               {
                 "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478520-002-1080x608.jpg"
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Performance-Mode-115-FPS.webp",
+                "cap": "Auto SR Performance mode — 115 FPS. 이미지 출처: Microsoft."
+              },
+              {
+                "t": "p",
+                "x": "Auto SR은 이제 배터리 전원 상태를 포함해 휴대 기기 화면에서 바로 작동하며 1080p 입력을 지원한다. 더 높은 해상도의 외부 디스플레이에서는 1080p를 1440p로 업스케일할 수 있다. Windows Auto HDR과 함께 쓸 수도 있다."
+              },
+              {
+                "t": "p",
+                "x": "휴대 기기 지원, 1080p 호환, AMD Ryzen AI 지원 확대는 지금 바로 쓸 수 있고, Performance Mode와 Auto HDR 호환은 Windows Update를 통해 순차 배포된다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "일본어화 툴 PCOT\n다음 업데이트로 개발 종료",
-          "body": "AI로 스스로 일본어화하는 미래가 보여 PCOT가 다음 업데이트로 개발을 끝낸다.",
-          "mini_headline": "PCOT, 개발 종료",
+        "ja": {
+          "headline": "ROG Xbox Ally\nX向けAuto SR正式版",
+          "body": "AIのAuto SRがROG Xbox Ally Xで1080p・120 FPSに対応した。",
+          "mini_headline": "Auto SRがプレビュー終了",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478520-header.jpg"
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-27.jpg"
               },
               {
                 "t": "p",
-                "x": "개인 개발자 ぬるっぽ 씨는 11월 10일, 번역 지원 툴 'PCOT'의 개발을 현재 진행 중인 업데이트를 마지막으로 끝낸다고 발표했다. PCOT는 2020년부터 무료로 공개된 PC용 번역 지원 툴로, OCR 기술로 게임 화면에서 선택한 영역의 텍스트를 추출해 번역한다. 2025년 4월에는 Gemini를 탑재해 인식과 번역 정확도가 크게 높아졌다."
-              },
-              {
-                "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478520-001-1080x560.jpg"
+                "x": "MicrosoftはROG XBOX Ally XとX20でのAutomatic Super Resolution(Auto SR)の一般提供を発表し、AMD Ryzen AI-poweredのCopilot+ PCsへの対応も広げた。Auto SRはNPUを使って低い解像度で描画したゲームをアップスケールし、開発者側の組み込みなしにWindowsレベルで動作する。"
               },
               {
                 "t": "p",
-                "x": "그는 AI의 진화로 플레이어가 직접 게임을 일본어화할 수 있는 미래가 보였고, 툴로서의 역할도 일단락됐다고 이유를 설명했다. 앱 공개와 버그 유지보수는 앞으로도 이어간다. 개발 종료가 슬프지는 않으며, 플레이어가 AI의 도움을 받아 게임을 일본어로 즐길 수 있는 시대가 온 것이 정말 기쁘다고 말했다."
+                "x": "新しいPerformance Modeは、従来およそ60–75 FPSだったフレームレートの上限を120 FPSに引き上げる。MicrosoftによるRocket Leagueの720pデモでは、平均でQuality Modeが70 FPS、Performance Modeが115 FPSだった。"
               },
               {
                 "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478520-002-1080x608.jpg"
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Performance-Mode-115-FPS.webp",
+                "cap": "Auto SR Performance mode — 115 FPS。画像提供:Microsoft。"
+              },
+              {
+                "t": "p",
+                "x": "Auto SRはバッテリー駆動時も含めて携帯機の画面で直接動くようになり、1080p入力にも対応した。より高解像度の外部ディスプレイでは1080pを1440pにアップスケールできる。Windows Auto HDRとの併用も可能だ。"
+              },
+              {
+                "t": "p",
+                "x": "携帯機対応、1080p互換、AMD Ryzen AI対応の拡大はすでに利用でき、Performance ModeとAuto HDRとの互換はWindows Updateを通じて段階的に配信される。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "日语化工具PCOT\n下次更新后停止开发",
-          "body": "以AI进化让人看到自行直接日语化的未来为由，PCOT将在下次更新后结束开发。",
-          "mini_headline": "PCOT将停止开发",
+          "headline": "ROG Xbox Ally\nX上Auto SR结束预览",
+          "body": "AI超分Auto SR在ROG Xbox Ally X转正，支持1080p与120 FPS。",
+          "mini_headline": "Auto SR结束预览",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478520-header.jpg"
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-27.jpg"
               },
               {
                 "t": "p",
-                "x": "个人开发者ぬるっぽ于11月10日宣布，翻译辅助工具“PCOT”的开发将在目前手头的更新完成后结束。PCOT是一款自2020年起免费公开的PC翻译辅助工具，借助OCR技术从游戏画面中提取所选区域的文字并进行翻译。2025年4月，它接入了Gemini，识别和翻译精度大幅提升。"
-              },
-              {
-                "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478520-001-1080x560.jpg"
+                "x": "Microsoft宣布Automatic Super Resolution（Auto SR）在ROG XBOX Ally X和X20上正式推出，并扩大对AMD Ryzen AI-powered Copilot+ PCs的支持。Auto SR利用NPU对以较低分辨率渲染的游戏进行升频，在Windows层面运行，无需开发者集成。"
               },
               {
                 "t": "p",
-                "x": "该开发者解释称，随着AI的进化，已经能看到玩家自己直接把游戏日语化的未来，这款工具的使命也告一段落。应用的公开和bug维护今后仍将继续。该开发者表示，并不为开发结束而难过，反而由衷高兴玩家借助AI就能用日语玩游戏的时代已经到来。"
+                "x": "新的Performance Mode将此前约60–75 FPS的帧率上限提高到120 FPS。在Microsoft的Rocket League 720p演示中，Quality Mode平均70 FPS，Performance Mode平均115 FPS。"
               },
               {
                 "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478520-002-1080x608.jpg"
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Performance-Mode-115-FPS.webp",
+                "cap": "Auto SR Performance mode — 115 FPS。图片来源：Microsoft。"
+              },
+              {
+                "t": "p",
+                "x": "Auto SR现在可直接在掌机屏幕上运行，包括电池供电时，并支持1080p输入；在更高分辨率的外接显示器上，它可将1080p升频至1440p。它还能与Windows Auto HDR同时使用。"
+              },
+              {
+                "t": "p",
+                "x": "掌机支持、1080p兼容以及扩大的AMD Ryzen AI支持现已推出，Performance Mode和Auto HDR兼容则正通过Windows Update逐步推送。"
               }
             ]
           }
         },
         "es": {
-          "headline": "PCOT, para traducir al japonés,\ntermina en la próxima versión",
-          "body": "Ante un futuro en que cada uno traduzca juegos al japonés con AI, PCOT terminará su desarrollo con la próxima versión.",
-          "mini_headline": "PCOT pone fin a su desarrollo",
+          "headline": "Auto SR deja la vista previa\nen la ROG Xbox Ally X",
+          "body": "Auto SR, el escalador con AI de Microsoft, deja la vista previa en la ROG Xbox Ally X con 1080p y un modo de 120 FPS.",
+          "mini_headline": "Auto SR deja la vista previa",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478520-header.jpg"
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-27.jpg"
               },
               {
                 "t": "p",
-                "x": "El desarrollador independiente ぬるっぽ anunció el 10 de noviembre que el desarrollo de la herramienta de apoyo a la traducción \"PCOT\" terminará con la actualización que tiene en curso. PCOT es una herramienta de apoyo a la traducción para PC, disponible gratis desde 2020, que usa tecnología OCR para extraer y traducir el texto de una zona seleccionada de la pantalla del juego. En abril de 2025 incorporó Gemini, lo que mejoró de forma notable la precisión de lectura y traducción."
-              },
-              {
-                "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478520-001-1080x560.jpg"
+                "x": "Microsoft anunció la disponibilidad general de Automatic Super Resolution (Auto SR) en las ROG XBOX Ally X y X20, junto con más compatibilidad con los AMD Ryzen AI-powered Copilot+ PCs. Auto SR usa la NPU para escalar juegos renderizados a resoluciones más bajas y funciona a nivel de Windows, sin integración por parte de los desarrolladores."
               },
               {
                 "t": "p",
-                "x": "El desarrollador explicó que, con la evolución de la AI, vislumbró un futuro en que los propios jugadores puedan traducir los juegos directamente al japonés, y que el papel de la herramienta llegó a su fin. La app seguirá publicada y el mantenimiento de errores continuará. Afirmó que no siente tristeza por el fin del desarrollo y que le alegra de verdad que haya llegado una época en que los jugadores pueden jugar en japonés con ayuda de la AI."
+                "x": "Un nuevo Performance Mode eleva el techo anterior de frecuencia de imagen, de unos 60–75 FPS, a 120 FPS. En la demo de Rocket League de Microsoft a 720p, el juego promedió 70 FPS en Quality Mode frente a 115 FPS en Performance Mode."
               },
               {
                 "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478520-002-1080x608.jpg"
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Performance-Mode-115-FPS.webp",
+                "cap": "Auto SR Performance mode — 115 FPS. Imagen: Microsoft."
+              },
+              {
+                "t": "p",
+                "x": "Auto SR ya funciona directamente en las pantallas de las consolas portátiles, también con batería, y admite entrada 1080p; en una pantalla externa de mayor resolución puede escalar de 1080p a 1440p. También puede funcionar junto con Windows Auto HDR."
+              },
+              {
+                "t": "p",
+                "x": "La compatibilidad con portátiles, la compatibilidad con 1080p y la ampliación del soporte para AMD Ryzen AI ya están disponibles, mientras que Performance Mode y la compatibilidad con Auto HDR llegan de forma gradual mediante Windows Update."
               }
             ]
           }
@@ -869,15 +1099,15 @@
       }
     },
     {
-      "id": "games-edu-program-ai-cancel",
+      "id": "nexon-ictai-steam-review-study",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "게임 개발 프로그램 폐지\nAI-Made 학생작 탓",
-      "body": "생성형 AI로 학생 자작 여부를 가리기 어려워져 게임 교육 프로그램이 폐지됐다.",
-      "mini_headline": "AI로 끝난 학생 게임 프로그램",
+      "headline": "Nexon, Steam\n리뷰로 AI 수용 분석",
+      "body": "Nexon Korea는 Steam 리뷰 19.37M 건으로 AI 진단법을 만들었다.",
+      "mini_headline": "Nexon, ICTAI 최우수 논문상",
       "tool": "Games",
-      "source": "PC Gamer",
-      "url": "https://www.pcgamer.com/software/ai/educational-game-dev-program-cancelled-because-students-were-submitting-games-made-entirely-with-ai/",
+      "source": "Inven Global",
+      "url": "https://www.invenglobal.com/articles/28324/nexon-wins-best-paper-award-at-ictai-2026",
       "accent": "#2ec5c5",
       "motif": "cube",
       "full": {
@@ -885,155 +1115,155 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/G9gk4ajHwYTMmxkGjFbr6X.jpg",
-            "cap": "(이미지 출처: EvgeniyShkolenko via Getty Images)"
+            "src": "https://static.invenglobal.com/upload/image/2026/11/09/i1794187207575008.jpeg",
+            "cap": "ⓒ Nexon"
           },
           {
             "t": "p",
-            "x": "\"학생을 위한 무료 전국 비디오게임 개발 대회\"인 Australian STEM Videogame Challenge는 생성형 AI가 부상하면서 올해 대회가 \"멋진 12년을 끝으로\" 마지막이 된다고 확인했다."
+            "x": "Nexon Korea AI Division 산하 Applied Analytics Lab 연구진이 ICTAI 2026(IEEE International Conference on Tools with Artificial Intelligence)에서 Best Paper Award를 받았다. Steam 사용자 리뷰 약 19.37M 건으로 플레이어가 게임 속 AI를 얼마나 받아들이는지 분석한 연구다."
           },
           {
             "t": "p",
-            "x": "Reddit에서 심사위원이라고 밝힌 한 이용자는 AI를 쓰는 것만이 문제가 아니라 \"일부 학생은 게임을 완전히 AI로 생성한다\"는 게 문제라고 했다. 그는 \"그걸 어떻게 채점하나? 그냥 영점을 줄 수도 없다\"고 썼다."
+            "x": "리뷰는 AI가 플레이어를 돕는 협력자 역할을 하거나 게임플레이에 자연스럽게 녹아들 때 긍정적이었고, AI가 주변 요소에 머물거나 통제하기 어렵다고 느껴질 때 부정적이었다. 연구진은 AI를 넣었느냐보다 플레이어가 체감하는 AI의 역할이 수용을 좌우한다고 결론 내렸다."
           },
           {
             "t": "p",
-            "x": "Australian Council for Educational Research도 AI 때문에 폐지한다고 확인했다. ACER의 Cathy Zemaitis는 \"게임 개발에서 생성형 AI가 빠르고 복잡하게 확산하면서 학생이 직접 만든 것을 판단하기 어려워졌고, 프로그램도 본래 취지에서 멀어져 이번 결정을 내렸다\"고 말했다. 대회를 다른 방식으로 이어갈 계획도 없다고 덧붙였다."
+            "x": "Nexon은 이 결과로 출시 전에 AI 기능을 평가하는 사전 진단 프레임워크를 만들었고, 앞으로 기획 단계까지 넓힐 계획이다. ICTAI는 Florida에서 2일부터 4일까지 열렸다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Game Dev Program Cancelled\nOver AI-Made Student Games",
-          "body": "An educational game-dev program was cancelled as generative AI made it harder to judge what students made themselves.",
-          "mini_headline": "AI Ends a Student Game Program",
+          "headline": "Nexon mined Steam reviews\nfor when players accept AI",
+          "body": "Nexon Korea researchers analysed about 19.37 million Steam reviews, then built a pre-launch check for AI features.",
+          "mini_headline": "Nexon wins ICTAI best paper",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/G9gk4ajHwYTMmxkGjFbr6X.jpg",
-                "cap": "(Image credit: EvgeniyShkolenko via Getty Images)"
+                "src": "https://static.invenglobal.com/upload/image/2026/11/09/i1794187207575008.jpeg",
+                "cap": "ⓒ Nexon"
               },
               {
                 "t": "p",
-                "x": "The Australian STEM Videogame Challenge, a \"free national videogame development competition for students,\" has confirmed that the rise of generative AI means this year's event will be the last, \"after 12 wonderful years.\""
+                "x": "Researchers from the Applied Analytics Lab under Nexon Korea's AI Division won the Best Paper Award at ICTAI 2026 (IEEE International Conference on Tools with Artificial Intelligence) for a study on player acceptance of in-game AI that analyzed approximately 19.37 million Steam user reviews."
               },
               {
                 "t": "p",
-                "x": "A self-proclaimed judge on Reddit said the problem wasn't merely the use of AI but that \"some students just completely generate their games with AI.\" \"How do you mark that? You can't just give them a zero,\" the judge wrote."
+                "x": "Reviews were positive when AI functioned as a collaborator helping players or was naturally integrated into gameplay, and negative when AI remained a peripheral element or felt difficult to control. The researchers concluded that player experience of the AI's role, rather than the mere implementation of AI, determines acceptance."
               },
               {
                 "t": "p",
-                "x": "The Australian Council for Educational Research confirmed the cancellation was due to AI. \"The decision was driven by the rapid and complex rise of generative AI in game development, making it harder to judge what students made themselves, and moving the program away from its original purpose,\" said ACER's Cathy Zemaitis, adding there are no plans to pursue alternative options for delivering the challenge."
+                "x": "Nexon used the findings to build a pre-diagnosis framework to evaluate AI features prior to launch, and plans to expand it to the planning stage. ICTAI was held from the 2nd to the 4th in Florida."
               }
             ]
           }
         },
         "ko": {
-          "headline": "게임 개발 프로그램 폐지\nAI-Made 학생작 탓",
-          "body": "생성형 AI로 학생 자작 여부를 가리기 어려워져 게임 교육 프로그램이 폐지됐다.",
-          "mini_headline": "AI로 끝난 학생 게임 프로그램",
+          "headline": "Nexon, Steam\n리뷰로 AI 수용 분석",
+          "body": "Nexon Korea는 Steam 리뷰 19.37M 건으로 AI 진단법을 만들었다.",
+          "mini_headline": "Nexon, ICTAI 최우수 논문상",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/G9gk4ajHwYTMmxkGjFbr6X.jpg",
-                "cap": "(이미지 출처: EvgeniyShkolenko via Getty Images)"
+                "src": "https://static.invenglobal.com/upload/image/2026/11/09/i1794187207575008.jpeg",
+                "cap": "ⓒ Nexon"
               },
               {
                 "t": "p",
-                "x": "\"학생을 위한 무료 전국 비디오게임 개발 대회\"인 Australian STEM Videogame Challenge는 생성형 AI가 부상하면서 올해 대회가 \"멋진 12년을 끝으로\" 마지막이 된다고 확인했다."
+                "x": "Nexon Korea AI Division 산하 Applied Analytics Lab 연구진이 ICTAI 2026(IEEE International Conference on Tools with Artificial Intelligence)에서 Best Paper Award를 받았다. Steam 사용자 리뷰 약 19.37M 건으로 플레이어가 게임 속 AI를 얼마나 받아들이는지 분석한 연구다."
               },
               {
                 "t": "p",
-                "x": "Reddit에서 심사위원이라고 밝힌 한 이용자는 AI를 쓰는 것만이 문제가 아니라 \"일부 학생은 게임을 완전히 AI로 생성한다\"는 게 문제라고 했다. 그는 \"그걸 어떻게 채점하나? 그냥 영점을 줄 수도 없다\"고 썼다."
+                "x": "리뷰는 AI가 플레이어를 돕는 협력자 역할을 하거나 게임플레이에 자연스럽게 녹아들 때 긍정적이었고, AI가 주변 요소에 머물거나 통제하기 어렵다고 느껴질 때 부정적이었다. 연구진은 AI를 넣었느냐보다 플레이어가 체감하는 AI의 역할이 수용을 좌우한다고 결론 내렸다."
               },
               {
                 "t": "p",
-                "x": "Australian Council for Educational Research도 AI 때문에 폐지한다고 확인했다. ACER의 Cathy Zemaitis는 \"게임 개발에서 생성형 AI가 빠르고 복잡하게 확산하면서 학생이 직접 만든 것을 판단하기 어려워졌고, 프로그램도 본래 취지에서 멀어져 이번 결정을 내렸다\"고 말했다. 대회를 다른 방식으로 이어갈 계획도 없다고 덧붙였다."
+                "x": "Nexon은 이 결과로 출시 전에 AI 기능을 평가하는 사전 진단 프레임워크를 만들었고, 앞으로 기획 단계까지 넓힐 계획이다. ICTAI는 Florida에서 2일부터 4일까지 열렸다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ゲーム開発プログラム中止\nAI-Madeの学生作品で",
-          "body": "生成AIで学生自身が作った部分の判断が難しくなり、ゲーム開発教育プログラムが中止された。",
-          "mini_headline": "AIが学生ゲーム企画を終わらせる",
+          "headline": "Steamレビューを分析\nNexonがAI受容を探る",
+          "body": "Nexon Koreaは約19.37M 件のSteamレビューからAI事前診断法を作った。",
+          "mini_headline": "Nexon、ICTAIで最優秀論文賞",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/G9gk4ajHwYTMmxkGjFbr6X.jpg",
-                "cap": "（画像クレジット：EvgeniyShkolenko via Getty Images）"
+                "src": "https://static.invenglobal.com/upload/image/2026/11/09/i1794187207575008.jpeg",
+                "cap": "ⓒ Nexon"
               },
               {
                 "t": "p",
-                "x": "「学生向けの無料の全国ビデオゲーム開発コンテスト」であるAustralian STEM Videogame Challengeは、生成AIの台頭により、今年の大会が「素晴らしい12年」を経て最後になると認めた。"
+                "x": "Nexon KoreaのAI Division傘下にあるApplied Analytics Labの研究者たちが、約19.37M 件のSteamユーザーレビューを分析したゲーム内AIのプレイヤー受容に関する研究で、ICTAI 2026(IEEE International Conference on Tools with Artificial Intelligence)のBest Paper Awardを受賞した。"
               },
               {
                 "t": "p",
-                "x": "Reddit上で審査員を名乗る人物は、問題はAIの使用そのものだけではなく、「一部の学生がゲームを丸ごとAIで生成している」ことだと述べた。「それをどう採点するのか。ゼロ点をつけるわけにもいかない」とこの審査員は書いている。"
+                "x": "AIがプレイヤーを助ける協力者として機能したり、ゲームプレイに自然に溶け込んだりしている場合はレビューが好意的で、AIが周辺的な要素にとどまったり、制御しにくいと感じられたりする場合は否定的だった。研究者たちは、AIを実装したかどうかではなく、プレイヤーが体験するAIの役割こそが受容を左右すると結論づけた。"
               },
               {
                 "t": "p",
-                "x": "Australian Council for Educational Researchは、中止がAIによるものだと認めた。ACERのCathy Zemaitis氏は「ゲーム開発における生成AIの急速かつ複雑な台頭により、学生が自分で作ったものを判断することが難しくなり、プログラムが本来の目的から離れつつあったことが決定の理由だ」と述べ、別の形でコンテストを実施する予定はないと付け加えた。"
+                "x": "Nexonはこの知見をもとに、発売前にAI機能を評価する事前診断フレームワークを構築し、企画段階にも広げる計画だ。ICTAIは2日から4日までFloridaで開かれた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "游戏开发项目停办\n因AI-Made学生游戏",
-          "body": "生成式AI让人难以判断学生自己做了什么，一个游戏开发教育项目因此停办。",
-          "mini_headline": "AI终结学生游戏项目",
+          "headline": "Nexon挖掘Steam评论\n看玩家何时接受AI",
+          "body": "Nexon Korea分析约19.37M 条Steam评论，建立AI功能上线前检测机制。",
+          "mini_headline": "Nexon获ICTAI最佳论文奖",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/G9gk4ajHwYTMmxkGjFbr6X.jpg",
-                "cap": "（图片来源：EvgeniyShkolenko via Getty Images）"
+                "src": "https://static.invenglobal.com/upload/image/2026/11/09/i1794187207575008.jpeg",
+                "cap": "ⓒ Nexon"
               },
               {
                 "t": "p",
-                "x": "作为“面向学生的免费全国性电子游戏开发竞赛”，Australian STEM Videogame Challenge确认，由于生成式AI的兴起，今年的赛事将在“精彩的12年”之后成为最后一届。"
+                "x": "Nexon Korea AI Division旗下Applied Analytics Lab的研究人员分析了约19.37M 条Steam用户评论，凭借一项关于玩家对游戏内AI接受度的研究，获得ICTAI 2026（IEEE International Conference on Tools with Artificial Intelligence）Best Paper Award。"
               },
               {
                 "t": "p",
-                "x": "一位在Reddit上自称评委的用户表示，问题不只是使用AI，而是“有些学生干脆完全用AI生成游戏”。这位评委写道：“这要怎么打分？总不能直接给零分吧。”"
+                "x": "当AI作为帮助玩家的协作者发挥作用，或自然融入玩法时，评论趋于正面；当AI只是边缘元素或让人感觉难以控制时，评论则偏负面。研究人员得出结论：决定接受度的不是单纯是否加入AI，而是玩家对AI所扮演角色的体验。"
               },
               {
                 "t": "p",
-                "x": "Australian Council for Educational Research确认停办是因为AI。ACER的Cathy Zemaitis表示：“这一决定源于生成式AI在游戏开发中迅速而复杂的兴起，它让我们更难判断哪些是学生自己做的，也让项目偏离了最初的宗旨。”她还补充说，目前没有计划以其他方式继续举办这项挑战赛。"
+                "x": "Nexon据此构建了一套在上线前评估AI功能的预诊断框架，并计划将其扩展到策划阶段。ICTAI于2日至4日在Florida举行。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Cancelan programa de videojuegos\npor juegos AI-Made de alumnos",
-          "body": "Un programa escolar de videojuegos se canceló porque la AI generativa complica juzgar lo que crean los propios alumnos.",
-          "mini_headline": "La AI pone fin a un programa escolar de juegos",
+          "headline": "Nexon analizó reseñas de Steam\npara ver cuándo se acepta la AI",
+          "body": "Nexon Korea analizó unos 19.37 millones de reseñas de Steam y creó una revisión previa para funciones de AI.",
+          "mini_headline": "Nexon gana el premio al mejor artículo de ICTAI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/G9gk4ajHwYTMmxkGjFbr6X.jpg",
-                "cap": "(Crédito de imagen: EvgeniyShkolenko via Getty Images)"
+                "src": "https://static.invenglobal.com/upload/image/2026/11/09/i1794187207575008.jpeg",
+                "cap": "ⓒ Nexon"
               },
               {
                 "t": "p",
-                "x": "El Australian STEM Videogame Challenge, una \"competición nacional y gratuita de desarrollo de videojuegos para estudiantes\", confirmó que, por el auge de la AI generativa, la edición de este año será la última, \"tras 12 años maravillosos\"."
+                "x": "Investigadores del Applied Analytics Lab de la AI Division de Nexon Korea ganaron el Best Paper Award en ICTAI 2026 (IEEE International Conference on Tools with Artificial Intelligence) por un estudio sobre la aceptación de la AI en los juegos por parte de los jugadores, que analizó unos 19.37 millones de reseñas de usuarios de Steam."
               },
               {
                 "t": "p",
-                "x": "Una persona que se presentó en Reddit como jurado dijo que el problema no era solo el uso de AI, sino que \"algunos estudiantes generan sus juegos por completo con AI\". \"¿Cómo se califica eso? No se les puede poner un cero sin más\", escribió."
+                "x": "Las reseñas fueron positivas cuando la AI actuaba como colaboradora que ayudaba a los jugadores o se integraba de forma natural en la jugabilidad, y negativas cuando quedaba como un elemento periférico o resultaba difícil de controlar. Los investigadores concluyeron que lo que determina la aceptación es la experiencia que el jugador tiene del papel de la AI, y no la mera implementación de AI."
               },
               {
                 "t": "p",
-                "x": "El Australian Council for Educational Research confirmó que la cancelación se debió a la AI. \"La decisión se debió al rápido y complejo auge de la AI generativa en el desarrollo de juegos, que hace más difícil juzgar lo que los estudiantes crearon por sí mismos y aleja el programa de su propósito original\", dijo Cathy Zemaitis, de ACER, quien añadió que no hay planes de buscar otras opciones para organizar el desafío."
+                "x": "Nexon usó los resultados para crear un marco de prediagnóstico que evalúa las funciones de AI antes del lanzamiento, y prevé ampliarlo a la fase de planificación. ICTAI se celebró del 2 al 4 en Florida."
               }
             ]
           }
@@ -1041,109 +1271,109 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "게임 개발 프로그램 폐지\nAI-Made 학생작 탓",
-          "body": "생성형 AI로 학생 자작 여부를 판단하기 어려워져 게임 교육 프로그램이 폐지됐다.",
-          "mini_headline": "AI로 끝난 학생 게임 프로그램",
+          "headline": "Nexon, Steam\n리뷰로 AI 수용 분석",
+          "body": "Nexon Korea는 Steam 리뷰 19.37M 건으로 AI 진단법을 만들었다.",
+          "mini_headline": "Nexon, ICTAI 최우수 논문상",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/G9gk4ajHwYTMmxkGjFbr6X.jpg",
-                "cap": "(이미지 출처: EvgeniyShkolenko via Getty Images)"
+                "src": "https://static.invenglobal.com/upload/image/2026/11/09/i1794187207575008.jpeg",
+                "cap": "ⓒ Nexon"
               },
               {
                 "t": "p",
-                "x": "\"학생을 위한 무료 전국 비디오게임 개발 대회\"인 Australian STEM Videogame Challenge는 생성형 AI의 부상으로 올해 대회가 \"멋진 12년을 끝으로\" 마지막이 된다고 확인했다."
+                "x": "Nexon Korea AI Division 산하 Applied Analytics Lab 연구진이 Steam 사용자 리뷰 약 19.37M 건을 분석해 게임 속 AI에 대한 플레이어 수용성을 다룬 연구로 ICTAI 2026(IEEE International Conference on Tools with Artificial Intelligence)에서 Best Paper Award를 받았다."
               },
               {
                 "t": "p",
-                "x": "Reddit에서 심사위원이라고 밝힌 한 이용자는 AI 사용 자체만이 문제가 아니라 \"일부 학생은 게임을 완전히 AI로 생성한다\"는 점이 문제라고 말했다. 그는 \"그걸 어떻게 채점하나? 그냥 영점을 줄 수도 없다\"고 썼다."
+                "x": "AI가 플레이어를 돕는 협력자로 작동하거나 게임플레이에 자연스럽게 녹아들 때 리뷰는 긍정적이었고, AI가 주변 요소에 머물거나 통제하기 어렵다고 느껴질 때는 부정적이었다. 연구진은 AI를 넣었는지 여부보다 플레이어가 체감하는 AI의 역할이 수용을 좌우한다고 결론지었다."
               },
               {
                 "t": "p",
-                "x": "Australian Council for Educational Research는 폐지가 AI 때문이라고 확인했다. ACER의 Cathy Zemaitis는 \"게임 개발에서 생성형 AI가 빠르고 복잡하게 확산하면서 학생이 직접 만든 것을 판단하기 어려워졌고, 프로그램도 본래 취지에서 멀어져 이번 결정을 내렸다\"고 말했다. 그는 대회를 다른 방식으로 이어갈 계획도 없다고 덧붙였다."
+                "x": "Nexon은 이 결과를 바탕으로 출시 전에 AI 기능을 평가하는 사전 진단 프레임워크를 만들었고, 이를 기획 단계까지 넓힐 계획이다. ICTAI는 Florida에서 2일부터 4일까지 열렸다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ゲーム開発プログラム中止\nAI-Madeの学生作品で",
-          "body": "生成AIで学生自身が作った部分の判断が難しくなり、ゲーム開発教育プログラムが中止された。",
-          "mini_headline": "AIが学生ゲーム企画を終わらせる",
+          "headline": "Steamレビューを分析\nNexonがAI受容を探る",
+          "body": "Nexon Koreaは約19.37M 件のSteamレビューからAI事前診断法を作った。",
+          "mini_headline": "Nexon、ICTAIで最優秀論文賞",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/G9gk4ajHwYTMmxkGjFbr6X.jpg",
-                "cap": "（画像クレジット：EvgeniyShkolenko via Getty Images）"
+                "src": "https://static.invenglobal.com/upload/image/2026/11/09/i1794187207575008.jpeg",
+                "cap": "ⓒ Nexon"
               },
               {
                 "t": "p",
-                "x": "「学生向けの無料の全国ビデオゲーム開発コンテスト」であるAustralian STEM Videogame Challengeは、生成AIの台頭により、今年の大会が「素晴らしい12年」を経て最後になると認めた。"
+                "x": "Nexon KoreaのAI Division傘下にあるApplied Analytics Labの研究者たちが、約19.37M 件のSteamユーザーレビューを分析したゲーム内AIのプレイヤー受容に関する研究で、ICTAI 2026(IEEE International Conference on Tools with Artificial Intelligence)のBest Paper Awardを受賞した。"
               },
               {
                 "t": "p",
-                "x": "Reddit上で審査員を名乗る人物は、問題はAIの使用そのものだけではなく、「一部の学生がゲームを丸ごとAIで生成している」ことだと述べた。「それをどう採点するのか。ゼロ点をつけるわけにもいかない」とこの審査員は書いている。"
+                "x": "AIがプレイヤーを助ける協力者として機能したり、ゲームプレイに自然に溶け込んだりしている場合はレビューが好意的で、AIが周辺的な要素にとどまったり、制御しにくいと感じられたりする場合は否定的だった。研究者たちは、AIを実装したかどうかではなく、プレイヤーが体験するAIの役割こそが受容を左右すると結論づけた。"
               },
               {
                 "t": "p",
-                "x": "Australian Council for Educational Researchは、中止がAIによるものだと認めた。ACERのCathy Zemaitis氏は「ゲーム開発における生成AIの急速かつ複雑な台頭により、学生が自分で作ったものを判断することが難しくなり、プログラムが本来の目的から離れつつあったことが決定の理由だ」と述べ、別の形でコンテストを実施する予定はないと付け加えた。"
+                "x": "Nexonはこの知見をもとに、発売前にAI機能を評価する事前診断フレームワークを構築し、企画段階にも広げる計画だ。ICTAIは2日から4日までFloridaで開かれた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "游戏开发项目停办\n因AI-Made学生游戏",
-          "body": "生成式AI让人难以判断学生自己做了什么，一个游戏开发教育项目因此停办。",
-          "mini_headline": "AI终结学生游戏项目",
+          "headline": "Nexon挖掘Steam评论\n看玩家何时接受AI",
+          "body": "Nexon Korea分析约19.37M 条Steam评论，建立AI功能上线前检测机制。",
+          "mini_headline": "Nexon获ICTAI最佳论文奖",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/G9gk4ajHwYTMmxkGjFbr6X.jpg",
-                "cap": "（图片来源：EvgeniyShkolenko via Getty Images）"
+                "src": "https://static.invenglobal.com/upload/image/2026/11/09/i1794187207575008.jpeg",
+                "cap": "ⓒ Nexon"
               },
               {
                 "t": "p",
-                "x": "作为“面向学生的免费全国性电子游戏开发竞赛”，Australian STEM Videogame Challenge确认，由于生成式AI的兴起，今年的赛事将在“精彩的12年”之后成为最后一届。"
+                "x": "Nexon Korea AI Division旗下Applied Analytics Lab的研究人员分析了约19.37M 条Steam用户评论，凭借一项关于玩家对游戏内AI接受度的研究，获得ICTAI 2026（IEEE International Conference on Tools with Artificial Intelligence）Best Paper Award。"
               },
               {
                 "t": "p",
-                "x": "一位在Reddit上自称评委的用户表示，问题不只是使用AI，而是“有些学生干脆完全用AI生成游戏”。这位评委写道：“这要怎么打分？总不能直接给零分吧。”"
+                "x": "当AI作为帮助玩家的协作者发挥作用，或自然融入玩法时，评论趋于正面；当AI只是边缘元素或让人感觉难以控制时，评论则偏负面。研究人员得出结论：决定接受度的不是单纯是否加入AI，而是玩家对AI所扮演角色的体验。"
               },
               {
                 "t": "p",
-                "x": "Australian Council for Educational Research确认停办是因为AI。ACER的Cathy Zemaitis表示：“这一决定源于生成式AI在游戏开发中迅速而复杂的兴起，它让我们更难判断哪些是学生自己做的，也让项目偏离了最初的宗旨。”她还补充说，目前没有计划以其他方式继续举办这项挑战赛。"
+                "x": "Nexon据此构建了一套在上线前评估AI功能的预诊断框架，并计划将其扩展到策划阶段。ICTAI于2日至4日在Florida举行。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Cancelan programa de videojuegos\npor juegos AI-Made de alumnos",
-          "body": "Un programa escolar de videojuegos se canceló porque la AI generativa complica juzgar lo que crean los propios alumnos.",
-          "mini_headline": "La AI pone fin a un programa escolar de juegos",
+          "headline": "Nexon analizó reseñas de Steam\npara ver cuándo se acepta la AI",
+          "body": "Nexon Korea analizó unos 19.37 millones de reseñas de Steam y creó una revisión previa para funciones de AI.",
+          "mini_headline": "Nexon gana el premio al mejor artículo de ICTAI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/G9gk4ajHwYTMmxkGjFbr6X.jpg",
-                "cap": "(Crédito de imagen: EvgeniyShkolenko via Getty Images)"
+                "src": "https://static.invenglobal.com/upload/image/2026/11/09/i1794187207575008.jpeg",
+                "cap": "ⓒ Nexon"
               },
               {
                 "t": "p",
-                "x": "El Australian STEM Videogame Challenge, una \"competición nacional y gratuita de desarrollo de videojuegos para estudiantes\", confirmó que, por el auge de la AI generativa, la edición de este año será la última, \"tras 12 años maravillosos\"."
+                "x": "Investigadores del Applied Analytics Lab de la AI Division de Nexon Korea ganaron el Best Paper Award en ICTAI 2026 (IEEE International Conference on Tools with Artificial Intelligence) por un estudio sobre la aceptación de la AI en los juegos por parte de los jugadores, que analizó unos 19.37 millones de reseñas de usuarios de Steam."
               },
               {
                 "t": "p",
-                "x": "Una persona que se presentó en Reddit como jurado dijo que el problema no era solo el uso de AI, sino que \"algunos estudiantes generan sus juegos por completo con AI\". \"¿Cómo se califica eso? No se les puede poner un cero sin más\", escribió."
+                "x": "Las reseñas fueron positivas cuando la AI actuaba como colaboradora que ayudaba a los jugadores o se integraba de forma natural en la jugabilidad, y negativas cuando quedaba como un elemento periférico o resultaba difícil de controlar. Los investigadores concluyeron que lo que determina la aceptación es la experiencia que el jugador tiene del papel de la AI, y no la mera implementación de AI."
               },
               {
                 "t": "p",
-                "x": "El Australian Council for Educational Research confirmó que la cancelación se debió a la AI. \"La decisión se debió al rápido y complejo auge de la AI generativa en el desarrollo de juegos, que hace más difícil juzgar lo que los estudiantes crearon por sí mismos y aleja el programa de su propósito original\", dijo Cathy Zemaitis, de ACER, quien añadió que no hay planes de buscar otras opciones para organizar el desafío."
+                "x": "Nexon usó los resultados para crear un marco de prediagnóstico que evalúa las funciones de AI antes del lanzamiento, y prevé ampliarlo a la fase de planificación. ICTAI se celebró del 2 al 4 en Florida."
               }
             ]
           }
@@ -1151,15 +1381,15 @@
       }
     },
     {
-      "id": "claude-fable-gears-clone",
+      "id": "amdlss5-dlss5-amd-mod",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Fable 5.2가 만든\nGears of War풍",
-      "body": "Claude Fable 5.2가 8.5B 토큰으로 Gears of War를 본떴다.",
-      "mini_headline": "Claude, Gears 클론 제작",
+      "headline": "AMDLSS5 모드로\nRX 9000 DLSS 5",
+      "body": "AMDLSS5는 AMD에서 DLSS 5를 돌리며 타 모드보다 64% 빠르다고 한다.",
+      "mini_headline": "AMDLSS5로\nAMD에도 DLSS 5",
       "tool": "Games",
-      "source": "Wccftech",
-      "url": "https://wccftech.com/claude-fable-5-2-builds-playable-gears-of-war-e-day-clone-from-three-line-prompt-but-estimated-cost-reaches-15000/",
+      "source": "PC Gamer",
+      "url": "https://www.pcgamer.com/hardware/graphics-cards/amdlss5-gets-nvidias-neural-rendering-running-on-amd-graphics-cards-and-claims-64-percent-better-performance-than-other-mods/",
       "accent": "#eb367f",
       "motif": "cube",
       "full": {
@@ -1167,203 +1397,221 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-24.jpg"
+            "src": "https://cdn.mos.cms.futurecdn.net/B3ULyP68EiAPD55fRNR8S7-2560-80.jpg"
           },
           {
             "t": "p",
-            "x": "AI 연구자이자 YouTuber인 Matthew Berman이 Anthropic의 Claude Fable 5.2가 Unreal Engine 5로 만든 Gears of War: E-Day풍(E-Day-inspired) 슈터를 공개했다. 바로 플레이할 수 있는 수준이고, 알려진 바로는 단 세 줄짜리 프롬프트에서 출발했다. 캐릭터는 달리고 엄폐하고 몸을 내밀어 쏘며, 시리즈 특유의 액티브 리로드도 한다."
-          },
-          {
-            "t": "video",
-            "yt": "0vNyVMDFdkg"
+            "x": "DLSS 5가 나온 지 꽤 됐지만 AMD 카드용은 당연히 없다. 적어도 공식적으로는 그렇다. 앞서 모드로 이 머신러닝 기반 뉴럴 렌더링 기술을 AMD RX 9000-series 칩에서 돌린 사례가 있었고, 이번에 훨씬 나아진 모드가 나왔다."
           },
           {
             "t": "p",
-            "x": "Berman은 모델에게 Gears of War: E-Day의 레벨 하나를 재현하라고 한 뒤 Ultra Code 모드를 켜고 알아서 작업하게 두었다. Berman에 따르면 프로젝트는 며칠 동안 약 8.5B 토큰을 썼고, API 환산(API-equivalent) 추정 비용은 $15,000에 가까웠다. Decrypt 집계로는 43시간 48분, 8.63B 토큰, 추정 비용 $14,710이다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/3-Line-Prompt.jpg",
-            "cap": "Unreal Engine 5 프로젝트를 시작한 세 줄짜리 프롬프트. 이미지 출처: YouTube의 Matthew Berman."
+            "x": "AMDLSS5 2.0 버전이 공개됐다(via Wccftech). 제작자는 Resident Evil Requiem에서 “다른 모드”보다 fps가 +64%, 이 모드의 이전 버전보다 fps가 +11% 높다고 주장한다."
           },
           {
             "t": "p",
-            "x": "이 수치는 API 가격으로 따진 추정치여서 Berman이 실제로 쓴 돈과 꼭 같지는 않다. 데모는 레벨 하나뿐이고 애니메이션이 어색한 대목도 있다. 성능과 안정성을 독립적으로 평가한 곳은 없다."
+            "x": "사실이라면 특히 반갑다. PC Gamer가 다른 모드로 AMD Radeon RX 9070 XT에서 DLSS 5를 시험했을 때 Cyberpunk 2077은 4K 해상도, RT Ultra 설정, FSR 4 Balanced에서 고작 9 fps에 그쳤다."
+          },
+          {
+            "t": "p",
+            "x": "DLSS 5는 Nvidia GPU에서도 매우 무거울 수 있다. RTX 5080에서 4K 해상도로 돌린 NBA 2K27은 프레임 레이트가 최대 73% 떨어졌다."
+          },
+          {
+            "t": "p",
+            "x": "모드 제작자가 Reddit에 올린 지원 게임 목록은 Resident Evil Requiem, Cyberpunk 2077, The Witcher 3(DX12 리마스터만), Red Dead Redemption 2, Shadow of the Tomb Raider, Nioh 3, Final Fantasy XVI, Monster Hunter Wilds, Onimusha: Way of the Sword, PRAGMATA, Grand Theft Auto V Enhanced(스토리 모드, 오프라인 전용)다."
+          },
+          {
+            "t": "p",
+            "x": "Reddit 댓글 중에는 모드를 켜면 화질이 썩 좋지 않다는 반응도 있다. 설치는 파일을 내려받아 인스톨러를 실행하면 끝이고, 인스톨러는 “클릭 한 번으로 모드를 설치, 업데이트 또는 제거”한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Claude Fable 5.2 Builds\nA Gears of War Clone",
-          "body": "From a three-line prompt, Claude Fable 5.2 built a playable Gears of War clone using about 8.5 billion tokens.",
-          "mini_headline": "Claude Builds a Gears Clone",
+          "headline": "AMDLSS5 mod brings DLSS 5\nto AMD Radeon RX 9000 cards",
+          "body": "AMDLSS5 runs Nvidia's DLSS 5 on Radeon RX 9000 cards and claims 64% higher fps than other mods in Resident Evil Requiem.",
+          "mini_headline": "AMDLSS5 brings\nDLSS 5 to AMD",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-24.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/B3ULyP68EiAPD55fRNR8S7-2560-80.jpg"
               },
               {
                 "t": "p",
-                "x": "AI researcher and YouTuber Matthew Berman has showcased a playable Gears of War: E-Day-inspired shooter built in Unreal Engine 5 by Anthropic's Claude Fable 5.2, reportedly starting with a prompt of just three lines. The character can sprint, take cover, lean out to fire, and perform the signature active reload."
-              },
-              {
-                "t": "video",
-                "yt": "0vNyVMDFdkg"
+                "x": "DLSS 5 has been out for a while now, but obviously not for AMD cards — not officially, anyway. Mods have previously got the machine learning-aided neural rendering tech running on AMD RX 9000-series silicon, and now there's a significantly improved one."
               },
               {
                 "t": "p",
-                "x": "Berman asked the model to reproduce a single level from Gears of War: E-Day, then enabled Ultra Code mode and let it work autonomously. According to Berman's report, the project consumed approximately 8.5 billion tokens over several days, with an estimated API-equivalent cost approaching $15,000; Decrypt puts it at 43 hours and 48 minutes, 8.63 billion tokens, and an estimated $14,710."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/3-Line-Prompt.jpg",
-                "cap": "The three-line prompt that initiated the Unreal Engine 5 project. Image credit: Matthew Berman on YouTube."
+                "x": "AMDLSS5 version 2.0 is now out (via Wccftech). Compared with \"other mods\", it's claiming +64% fps in Resident Evil Requiem, and +11% fps compared with the previous version of this one."
               },
               {
                 "t": "p",
-                "x": "These figures are estimated API pricing, not necessarily money Berman actually spent. The demo shows a single level, with some awkward animations, and performance and stability have not been independently evaluated."
+                "x": "That's particularly great, if true: PC Gamer's testing of DLSS 5 on an AMD Radeon RX 9070 XT using a different mod managed just 9 fps in Cyberpunk 2077 at 4K on RT Ultra settings, with FSR 4 set to Balanced."
+              },
+              {
+                "t": "p",
+                "x": "DLSS 5 itself can be very intensive, even on an Nvidia GPU: in NBA 2K27, frame rates dropped up to 73% at 4K on an RTX 5080."
+              },
+              {
+                "t": "p",
+                "x": "According to the mod's creator on Reddit, supported games include Resident Evil Requiem, Cyberpunk 2077, The Witcher 3 (DX12 remaster only), Red Dead Redemption 2, Shadow of the Tomb Raider, Nioh 3, Final Fantasy XVI, Monster Hunter Wilds, Onimusha: Way of the Sword, PRAGMATA and Grand Theft Auto V Enhanced (story mode, offline only)."
+              },
+              {
+                "t": "p",
+                "x": "Some Reddit comments say the quality isn't very good with the mod enabled. Installation involves downloading the files and running the installer, which \"installs, updates or removes the mod with one click.\""
               }
             ]
           }
         },
         "ko": {
-          "headline": "Fable 5.2가 만든\nGears of War풍",
-          "body": "Claude Fable 5.2가 8.5B 토큰으로 Gears of War를 본떴다.",
-          "mini_headline": "Claude, Gears 클론 제작",
+          "headline": "AMDLSS5 모드로\nRX 9000 DLSS 5",
+          "body": "AMDLSS5는 AMD에서 DLSS 5를 돌리며 타 모드보다 64% 빠르다고 한다.",
+          "mini_headline": "AMDLSS5로\nAMD에도 DLSS 5",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-24.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/B3ULyP68EiAPD55fRNR8S7-2560-80.jpg"
               },
               {
                 "t": "p",
-                "x": "AI 연구자이자 YouTuber인 Matthew Berman이 Anthropic의 Claude Fable 5.2가 Unreal Engine 5로 만든 Gears of War: E-Day풍(E-Day-inspired) 슈터를 공개했다. 바로 플레이할 수 있는 수준이고, 알려진 바로는 단 세 줄짜리 프롬프트에서 출발했다. 캐릭터는 달리고 엄폐하고 몸을 내밀어 쏘며, 시리즈 특유의 액티브 리로드도 한다."
-              },
-              {
-                "t": "video",
-                "yt": "0vNyVMDFdkg"
+                "x": "DLSS 5가 나온 지 꽤 됐지만 AMD 카드용은 당연히 없다. 적어도 공식적으로는 그렇다. 앞서 모드로 이 머신러닝 기반 뉴럴 렌더링 기술을 AMD RX 9000-series 칩에서 돌린 사례가 있었고, 이번에 훨씬 나아진 모드가 나왔다."
               },
               {
                 "t": "p",
-                "x": "Berman은 모델에게 Gears of War: E-Day의 레벨 하나를 재현하라고 한 뒤 Ultra Code 모드를 켜고 알아서 작업하게 두었다. Berman에 따르면 프로젝트는 며칠 동안 약 8.5B 토큰을 썼고, API 환산(API-equivalent) 추정 비용은 $15,000에 가까웠다. Decrypt 집계로는 43시간 48분, 8.63B 토큰, 추정 비용 $14,710이다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/3-Line-Prompt.jpg",
-                "cap": "Unreal Engine 5 프로젝트를 시작한 세 줄짜리 프롬프트. 이미지 출처: YouTube의 Matthew Berman."
+                "x": "AMDLSS5 2.0 버전이 공개됐다(via Wccftech). 제작자는 Resident Evil Requiem에서 “다른 모드”보다 fps가 +64%, 이 모드의 이전 버전보다 fps가 +11% 높다고 주장한다."
               },
               {
                 "t": "p",
-                "x": "이 수치는 API 가격으로 따진 추정치여서 Berman이 실제로 쓴 돈과 꼭 같지는 않다. 데모는 레벨 하나뿐이고 애니메이션이 어색한 대목도 있다. 성능과 안정성을 독립적으로 평가한 곳은 없다."
+                "x": "사실이라면 특히 반갑다. PC Gamer가 다른 모드로 AMD Radeon RX 9070 XT에서 DLSS 5를 시험했을 때 Cyberpunk 2077은 4K 해상도, RT Ultra 설정, FSR 4 Balanced에서 고작 9 fps에 그쳤다."
+              },
+              {
+                "t": "p",
+                "x": "DLSS 5는 Nvidia GPU에서도 매우 무거울 수 있다. RTX 5080에서 4K 해상도로 돌린 NBA 2K27은 프레임 레이트가 최대 73% 떨어졌다."
+              },
+              {
+                "t": "p",
+                "x": "모드 제작자가 Reddit에 올린 지원 게임 목록은 Resident Evil Requiem, Cyberpunk 2077, The Witcher 3(DX12 리마스터만), Red Dead Redemption 2, Shadow of the Tomb Raider, Nioh 3, Final Fantasy XVI, Monster Hunter Wilds, Onimusha: Way of the Sword, PRAGMATA, Grand Theft Auto V Enhanced(스토리 모드, 오프라인 전용)다."
+              },
+              {
+                "t": "p",
+                "x": "Reddit 댓글 중에는 모드를 켜면 화질이 썩 좋지 않다는 반응도 있다. 설치는 파일을 내려받아 인스톨러를 실행하면 끝이고, 인스톨러는 “클릭 한 번으로 모드를 설치, 업데이트 또는 제거”한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Fable 5.2が作った\nGears of War風",
-          "body": "Claude Fable 5.2が約8.5B トークンでGears of Warを再現した。",
-          "mini_headline": "ClaudeがGearsクローンを制作",
+          "headline": "AMDLSS5モッド\nRX 9000でDLSS 5",
+          "body": "AMDLSS5はRX 9000でDLSS 5を動かし、他モッド比64%高いfpsをうたう。",
+          "mini_headline": "AMDLSS5で\nAMDにDLSS 5",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-24.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/B3ULyP68EiAPD55fRNR8S7-2560-80.jpg"
               },
               {
                 "t": "p",
-                "x": "AI研究者でYouTuberのMatthew Berman氏が、AnthropicのClaude Fable 5.2がUnreal Engine 5で作った、Gears of War: E-Dayに着想を得た（E-Day-inspired）プレイ可能なシューターを披露した。わずか三行のプロンプトから始めたとされる。キャラクターはダッシュ、カバー、身を乗り出しての射撃、そしてシリーズ伝統のアクティブリロードもこなす。"
-              },
-              {
-                "t": "video",
-                "yt": "0vNyVMDFdkg"
+                "x": "DLSS 5が出てしばらく経つが、当然AMDのカードには提供されていない。少なくとも公式には。以前からモッドによって、この機械学習を活用したニューラルレンダリング技術をAMD RX 9000-seriesのチップで動かす例はあったが、今回大きく改良されたものが登場した。"
               },
               {
                 "t": "p",
-                "x": "Berman氏はモデルにGears of War: E-Dayのレベルを一つ再現するよう指示し、Ultra Codeモードを有効にして自律的に作業させた。Berman氏の報告では、プロジェクトは数日間で約8.5B トークンを消費し、API-equivalentの推定コストは$15,000に迫った。Decryptは43時間48分、8.63B トークン、推定$14,710としている。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/3-Line-Prompt.jpg",
-                "cap": "Unreal Engine 5プロジェクトの起点となった三行のプロンプト。画像クレジット：YouTubeのMatthew Berman氏。"
+                "x": "AMDLSS5のバージョン2.0が公開された(via Wccftech)。「他のモッド」と比べてResident Evil Requiemでfpsが+64%、このモッドの前バージョンと比べてfpsが+11%向上したとうたっている。"
               },
               {
                 "t": "p",
-                "x": "これらはAPI料金に基づく推定額で、Berman氏が実際に支払った金額とは限らない。デモは単一のレベルのみで、ぎこちないアニメーションも見られ、性能や安定性は第三者による評価を受けていない。"
+                "x": "本当ならとりわけ朗報だ。PC Gamerが別のモッドを使ってAMD Radeon RX 9070 XTでDLSS 5を試したところ、Cyberpunk 2077は4K 解像度、RT Ultra設定、FSR 4のBalancedでわずか9 fpsにとどまった。"
+              },
+              {
+                "t": "p",
+                "x": "DLSS 5自体、Nvidia GPUでも非常に重くなりうる。NBA 2K27 では、RTX 5080で4K 解像度時にフレームレートが最大73%低下した。"
+              },
+              {
+                "t": "p",
+                "x": "モッド作者がRedditで明かしたところでは、対応ゲームはResident Evil Requiem、Cyberpunk 2077、The Witcher 3(DX12リマスター版のみ)、Red Dead Redemption 2、Shadow of the Tomb Raider、Nioh 3、Final Fantasy XVI、Monster Hunter Wilds、Onimusha: Way of the Sword、PRAGMATA、Grand Theft Auto V Enhanced(ストーリーモード、オフラインのみ)だ。"
+              },
+              {
+                "t": "p",
+                "x": "Redditのコメントには、モッドを有効にすると画質があまり良くないという声もある。導入はファイルをダウンロードしてインストーラーを実行するだけで、インストーラーは「ワンクリックでモッドをインストール、更新、削除する」。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Fable 5.2打造\nGears of War克隆",
-          "body": "Claude Fable 5.2用约8.5B 词元做出可玩的Gears of War克隆。",
-          "mini_headline": "Claude打造Gears克隆",
+          "headline": "AMDLSS5模组让\nRX 9000跑DLSS 5",
+          "body": "AMDLSS5让Radeon RX 9000运行DLSS 5，号称fps比其他模组高64%。",
+          "mini_headline": "AMDLSS5让\nAMD用上DLSS 5",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-24.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/B3ULyP68EiAPD55fRNR8S7-2560-80.jpg"
               },
               {
                 "t": "p",
-                "x": "AI研究者兼YouTuber Matthew Berman展示了一款可玩的射击游戏，它受Gears of War: E-Day启发（E-Day-inspired），由Anthropic的Claude Fable 5.2用Unreal Engine 5打造，据称起点只是一段三行的提示词。角色可以冲刺、找掩体、探身射击，还能使出招牌的主动装填。"
-              },
-              {
-                "t": "video",
-                "yt": "0vNyVMDFdkg"
+                "x": "DLSS 5已经推出一段时间了，但显然不支持AMD显卡——至少官方不支持。此前已有模组让这项机器学习辅助的神经渲染技术在AMD RX 9000-series芯片上运行，如今又出现了一款大幅改进的模组。"
               },
               {
                 "t": "p",
-                "x": "Berman让模型复刻Gears of War: E-Day中的一个关卡，随后开启Ultra Code模式让它自主工作。据Berman介绍，该项目在数天内消耗了约8.5B 词元，按API-equivalent估算的成本接近$15,000；Decrypt的数据是43小时48分钟、8.63B 词元，估算成本$14,710。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/3-Line-Prompt.jpg",
-                "cap": "启动这个Unreal Engine 5项目的三行提示词。图片来源：YouTube上的Matthew Berman。"
+                "x": "AMDLSS5 2.0版现已推出（via Wccftech）。它声称与“其他模组”相比，在Resident Evil Requiem中fps提升+64%，比该模组前一版本fps提升+11%。"
               },
               {
                 "t": "p",
-                "x": "这些数字是按API定价估算的，并不一定是Berman实际花掉的钱。演示只展示了一个关卡，部分动画略显生硬，性能和稳定性也未经独立评估。"
+                "x": "如果属实，那就格外令人惊喜：PC Gamer此前用另一款模组在AMD Radeon RX 9070 XT上测试DLSS 5，在4K 分辨率、RT Ultra设置、FSR 4 Balanced下，Cyberpunk 2077仅跑出9 fps。"
+              },
+              {
+                "t": "p",
+                "x": "DLSS 5本身即使在Nvidia GPU上也可能非常吃性能：在NBA 2K27 中，RTX 5080在4K 分辨率下帧率最多下降73%。"
+              },
+              {
+                "t": "p",
+                "x": "据模组作者在Reddit上的说法，支持的游戏包括Resident Evil Requiem、Cyberpunk 2077、The Witcher 3（仅限DX12重制版）、Red Dead Redemption 2、Shadow of the Tomb Raider、Nioh 3、Final Fantasy XVI、Monster Hunter Wilds、Onimusha: Way of the Sword、PRAGMATA以及Grand Theft Auto V Enhanced（仅限故事模式、离线）。"
+              },
+              {
+                "t": "p",
+                "x": "一些Reddit评论称，启用该模组后画质不太好。安装只需下载文件并运行安装程序，它可以“一键安装、更新或移除模组”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Claude Fable 5.2 crea\nun clon de Gears of War",
-          "body": "Con un prompt de tres líneas, Claude Fable 5.2 creó un clon jugable de Gears of War usando unos 8.5B tokens.",
-          "mini_headline": "Claude crea un clon de Gears",
+          "headline": "El mod AMDLSS5 lleva DLSS 5\na las AMD Radeon RX 9000",
+          "body": "AMDLSS5 ejecuta DLSS 5 de Nvidia en Radeon RX 9000 y promete 64% más de fps que otros mods en Resident Evil Requiem.",
+          "mini_headline": "AMDLSS5 lleva\nDLSS 5 a AMD",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-24.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/B3ULyP68EiAPD55fRNR8S7-2560-80.jpg"
               },
               {
                 "t": "p",
-                "x": "El investigador de AI y YouTuber Matthew Berman mostró un shooter jugable inspirado en Gears of War: E-Day (E-Day-inspired), creado en Unreal Engine 5 por Claude Fable 5.2 de Anthropic, que según se informa partió de un prompt de solo tres líneas. El personaje puede esprintar, cubrirse, asomarse para disparar y hacer la característica recarga activa."
-              },
-              {
-                "t": "video",
-                "yt": "0vNyVMDFdkg"
+                "x": "DLSS 5 lleva ya un tiempo disponible, pero obviamente no para las tarjetas de AMD, al menos no de forma oficial. Algunos mods ya habían conseguido ejecutar esta tecnología de renderizado neuronal asistida por aprendizaje automático en chips AMD RX 9000-series, y ahora hay uno notablemente mejorado."
               },
               {
                 "t": "p",
-                "x": "Berman pidió al modelo que reprodujera un solo nivel de Gears of War: E-Day, luego activó el modo Ultra Code y lo dejó trabajar de forma autónoma. Según Berman, el proyecto consumió aproximadamente 8.5B tokens durante varios días, con un costo estimado API-equivalent cercano a $15,000; Decrypt lo cifra en 43 horas y 48 minutos, 8.63B tokens y un costo estimado de $14,710."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/3-Line-Prompt.jpg",
-                "cap": "El prompt de tres líneas que inició el proyecto de Unreal Engine 5. Crédito de imagen: Matthew Berman en YouTube."
+                "x": "Ya está disponible la versión 2.0 de AMDLSS5 (via Wccftech). En comparación con “otros mods”, afirma lograr +64% de fps en Resident Evil Requiem y +11% de fps frente a su versión anterior."
               },
               {
                 "t": "p",
-                "x": "Estas cifras son precios estimados de API, no necesariamente dinero que Berman haya gastado. La demo muestra un solo nivel, con algunas animaciones torpes, y su rendimiento y estabilidad no se han evaluado de forma independiente."
+                "x": "Si es cierto, es especialmente bueno: en las pruebas de PC Gamer con DLSS 5 en una AMD Radeon RX 9070 XT usando otro mod, Cyberpunk 2077 apenas llegó a 9 fps a 4K con ajustes RT Ultra y FSR 4 en Balanced."
+              },
+              {
+                "t": "p",
+                "x": "DLSS 5 puede ser muy exigente incluso en una GPU de Nvidia: en NBA 2K27, la tasa de fotogramas cayó hasta un 73% a 4K en una RTX 5080."
+              },
+              {
+                "t": "p",
+                "x": "Según el creador del mod en Reddit, entre los juegos compatibles están Resident Evil Requiem, Cyberpunk 2077, The Witcher 3 (solo la remasterización DX12), Red Dead Redemption 2, Shadow of the Tomb Raider, Nioh 3, Final Fantasy XVI, Monster Hunter Wilds, Onimusha: Way of the Sword, PRAGMATA y Grand Theft Auto V Enhanced (modo historia, solo sin conexión)."
+              },
+              {
+                "t": "p",
+                "x": "Algunos comentarios en Reddit señalan que la calidad no es muy buena con el mod activado. La instalación consiste en descargar los archivos y ejecutar el instalador, que “instala, actualiza o elimina el mod con un clic”."
               }
             ]
           }
@@ -1371,141 +1619,153 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Fable 5.2가 만든\nGears of War풍",
-          "body": "Claude Fable 5.2가 8.5B 토큰으로 Gears of War를 본떴다.",
-          "mini_headline": "Claude, Gears 클론 제작",
+          "headline": "AMDLSS5 모드로\nRX 9000 DLSS 5",
+          "body": "AMDLSS5는 DLSS 5를 AMD서 돌리며 타 모드보다 64% 빠르다고 한다.",
+          "mini_headline": "AMDLSS5로\nAMD에도 DLSS 5",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-24.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/B3ULyP68EiAPD55fRNR8S7-2560-80.jpg"
               },
               {
                 "t": "p",
-                "x": "AI 연구자이자 YouTuber인 Matthew Berman이 Anthropic의 Claude Fable 5.2가 Unreal Engine 5로 만든, 플레이 가능한 Gears of War: E-Day풍(E-Day-inspired) 슈터를 공개했다. 알려진 바로는 단 세 줄짜리 프롬프트에서 시작했다. 캐릭터는 달리기, 엄폐, 몸을 내밀어 사격하기, 그리고 시리즈 특유의 액티브 리로드까지 해낸다."
-              },
-              {
-                "t": "video",
-                "yt": "0vNyVMDFdkg"
+                "x": "DLSS 5가 나온 지 꽤 됐지만, 당연히 AMD 카드용은 없다. 적어도 공식적으로는 그렇다. 앞서 모드를 통해 이 머신러닝 기반 뉴럴 렌더링 기술을 AMD RX 9000-series 칩에서 돌린 사례가 있었는데, 이번에 크게 개선된 모드가 나왔다."
               },
               {
                 "t": "p",
-                "x": "Berman은 모델에게 Gears of War: E-Day의 레벨 하나를 재현하라고 요청한 뒤 Ultra Code 모드를 켜고 자율적으로 작업하게 했다. Berman의 설명에 따르면 프로젝트는 며칠에 걸쳐 약 8.5B 토큰을 썼고, API 환산(API-equivalent) 추정 비용은 $15,000에 육박했다. Decrypt는 43시간 48분, 8.63B 토큰, 추정 비용 $14,710으로 집계했다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/3-Line-Prompt.jpg",
-                "cap": "Unreal Engine 5 프로젝트를 시작한 세 줄짜리 프롬프트. 이미지 출처: YouTube의 Matthew Berman."
+                "x": "AMDLSS5 2.0 버전이 공개됐다(via Wccftech). “다른 모드”와 비교해 Resident Evil Requiem에서 fps가 +64% 높고, 이 모드의 이전 버전보다는 fps가 +11% 높다고 주장한다."
               },
               {
                 "t": "p",
-                "x": "이 수치는 API 가격 기준 추정치로, Berman이 실제로 쓴 돈과 반드시 같지는 않다. 데모는 레벨 하나만 보여주며 어색한 애니메이션도 일부 있다. 성능과 안정성은 독립적으로 평가되지 않았다."
+                "x": "사실이라면 특히 반가운 일이다. PC Gamer가 다른 모드로 AMD Radeon RX 9070 XT에서 DLSS 5를 시험했을 때, Cyberpunk 2077은 4K 해상도, RT Ultra 설정, FSR 4 Balanced에서 고작 9 fps에 그쳤다."
+              },
+              {
+                "t": "p",
+                "x": "DLSS 5 자체도 Nvidia GPU에서조차 매우 무거울 수 있다. RTX 5080, 4K 해상도 기준 NBA 2K27 프레임 레이트는 최대 73% 떨어졌다."
+              },
+              {
+                "t": "p",
+                "x": "모드 제작자가 Reddit에 밝힌 지원 게임은 Resident Evil Requiem, Cyberpunk 2077, The Witcher 3(DX12 리마스터만), Red Dead Redemption 2, Shadow of the Tomb Raider, Nioh 3, Final Fantasy XVI, Monster Hunter Wilds, Onimusha: Way of the Sword, PRAGMATA, Grand Theft Auto V Enhanced(스토리 모드, 오프라인 전용)다."
+              },
+              {
+                "t": "p",
+                "x": "Reddit 댓글 일부는 모드를 켜면 화질이 썩 좋지 않다고 말한다. 설치는 파일을 내려받아 인스톨러를 실행하면 되며, 인스톨러는 “클릭 한 번으로 모드를 설치, 업데이트 또는 제거”한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Fable 5.2が作った\nGears of War風",
-          "body": "Claude Fable 5.2が約8.5B トークンでGears of Warを再現した。",
-          "mini_headline": "ClaudeがGearsクローンを制作",
+          "headline": "AMDLSS5モッド\nRX 9000でDLSS 5",
+          "body": "AMDLSS5はRX 9000でDLSS 5を動かし、他モッド比64%高いfpsをうたう。",
+          "mini_headline": "AMDLSS5で\nAMDにDLSS 5",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-24.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/B3ULyP68EiAPD55fRNR8S7-2560-80.jpg"
               },
               {
                 "t": "p",
-                "x": "AI研究者でYouTuberのMatthew Berman氏が、AnthropicのClaude Fable 5.2がUnreal Engine 5で作った、Gears of War: E-Dayに着想を得た（E-Day-inspired）プレイ可能なシューターを披露した。わずか三行のプロンプトから始めたとされる。キャラクターはダッシュ、カバー、身を乗り出しての射撃、そしてシリーズ伝統のアクティブリロードもこなす。"
-              },
-              {
-                "t": "video",
-                "yt": "0vNyVMDFdkg"
+                "x": "DLSS 5が出てしばらく経つが、当然AMDのカードには提供されていない。少なくとも公式には。以前からモッドによって、この機械学習を活用したニューラルレンダリング技術をAMD RX 9000-seriesのチップで動かす例はあったが、今回大きく改良されたものが登場した。"
               },
               {
                 "t": "p",
-                "x": "Berman氏はモデルにGears of War: E-Dayのレベルを一つ再現するよう指示し、Ultra Codeモードを有効にして自律的に作業させた。Berman氏の報告では、プロジェクトは数日間で約8.5B トークンを消費し、API-equivalentの推定コストは$15,000に迫った。Decryptは43時間48分、8.63B トークン、推定$14,710としている。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/3-Line-Prompt.jpg",
-                "cap": "Unreal Engine 5プロジェクトの起点となった三行のプロンプト。画像クレジット：YouTubeのMatthew Berman氏。"
+                "x": "AMDLSS5のバージョン2.0が公開された(via Wccftech)。「他のモッド」と比べてResident Evil Requiemでfpsが+64%、このモッドの前バージョンと比べてfpsが+11%向上したとうたっている。"
               },
               {
                 "t": "p",
-                "x": "これらはAPI料金に基づく推定額で、Berman氏が実際に支払った金額とは限らない。デモは単一のレベルのみで、ぎこちないアニメーションも見られ、性能や安定性は第三者による評価を受けていない。"
+                "x": "本当ならとりわけ朗報だ。PC Gamerが別のモッドを使ってAMD Radeon RX 9070 XTでDLSS 5を試したところ、Cyberpunk 2077は4K 解像度、RT Ultra設定、FSR 4のBalancedでわずか9 fpsにとどまった。"
+              },
+              {
+                "t": "p",
+                "x": "DLSS 5自体、Nvidia GPUでも非常に重くなりうる。NBA 2K27 では、RTX 5080で4K 解像度時にフレームレートが最大73%低下した。"
+              },
+              {
+                "t": "p",
+                "x": "モッド作者がRedditで明かしたところでは、対応ゲームはResident Evil Requiem、Cyberpunk 2077、The Witcher 3(DX12リマスター版のみ)、Red Dead Redemption 2、Shadow of the Tomb Raider、Nioh 3、Final Fantasy XVI、Monster Hunter Wilds、Onimusha: Way of the Sword、PRAGMATA、Grand Theft Auto V Enhanced(ストーリーモード、オフラインのみ)だ。"
+              },
+              {
+                "t": "p",
+                "x": "Redditのコメントには、モッドを有効にすると画質があまり良くないという声もある。導入はファイルをダウンロードしてインストーラーを実行するだけで、インストーラーは「ワンクリックでモッドをインストール、更新、削除する」。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Fable 5.2打造\nGears of War克隆",
-          "body": "Claude Fable 5.2用约8.5B 词元做出可玩的Gears of War克隆。",
-          "mini_headline": "Claude打造Gears克隆",
+          "headline": "AMDLSS5模组让\nRX 9000跑DLSS 5",
+          "body": "AMDLSS5让Radeon RX 9000运行DLSS 5，号称fps比其他模组高64%。",
+          "mini_headline": "AMDLSS5让\nAMD用上DLSS 5",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-24.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/B3ULyP68EiAPD55fRNR8S7-2560-80.jpg"
               },
               {
                 "t": "p",
-                "x": "AI研究者兼YouTuber Matthew Berman展示了一款可玩的射击游戏，它受Gears of War: E-Day启发（E-Day-inspired），由Anthropic的Claude Fable 5.2用Unreal Engine 5打造，据称起点只是一段三行的提示词。角色可以冲刺、找掩体、探身射击，还能使出招牌的主动装填。"
-              },
-              {
-                "t": "video",
-                "yt": "0vNyVMDFdkg"
+                "x": "DLSS 5已经推出一段时间了，但显然不支持AMD显卡——至少官方不支持。此前已有模组让这项机器学习辅助的神经渲染技术在AMD RX 9000-series芯片上运行，如今又出现了一款大幅改进的模组。"
               },
               {
                 "t": "p",
-                "x": "Berman让模型复刻Gears of War: E-Day中的一个关卡，随后开启Ultra Code模式让它自主工作。据Berman介绍，该项目在数天内消耗了约8.5B 词元，按API-equivalent估算的成本接近$15,000；Decrypt的数据是43小时48分钟、8.63B 词元，估算成本$14,710。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/3-Line-Prompt.jpg",
-                "cap": "启动这个Unreal Engine 5项目的三行提示词。图片来源：YouTube上的Matthew Berman。"
+                "x": "AMDLSS5 2.0版现已推出（via Wccftech）。它声称与“其他模组”相比，在Resident Evil Requiem中fps提升+64%，比该模组前一版本fps提升+11%。"
               },
               {
                 "t": "p",
-                "x": "这些数字是按API定价估算的，并不一定是Berman实际花掉的钱。演示只展示了一个关卡，部分动画略显生硬，性能和稳定性也未经独立评估。"
+                "x": "如果属实，那就格外令人惊喜：PC Gamer此前用另一款模组在AMD Radeon RX 9070 XT上测试DLSS 5，在4K 分辨率、RT Ultra设置、FSR 4 Balanced下，Cyberpunk 2077仅跑出9 fps。"
+              },
+              {
+                "t": "p",
+                "x": "DLSS 5本身即使在Nvidia GPU上也可能非常吃性能：在NBA 2K27 中，RTX 5080在4K 分辨率下帧率最多下降73%。"
+              },
+              {
+                "t": "p",
+                "x": "据模组作者在Reddit上的说法，支持的游戏包括Resident Evil Requiem、Cyberpunk 2077、The Witcher 3（仅限DX12重制版）、Red Dead Redemption 2、Shadow of the Tomb Raider、Nioh 3、Final Fantasy XVI、Monster Hunter Wilds、Onimusha: Way of the Sword、PRAGMATA以及Grand Theft Auto V Enhanced（仅限故事模式、离线）。"
+              },
+              {
+                "t": "p",
+                "x": "一些Reddit评论称，启用该模组后画质不太好。安装只需下载文件并运行安装程序，它可以“一键安装、更新或移除模组”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Claude Fable 5.2 crea\nun clon de Gears of War",
-          "body": "Con un prompt de tres líneas, Claude Fable 5.2 creó un clon jugable de Gears of War usando unos 8.5B tokens.",
-          "mini_headline": "Claude crea un clon de Gears",
+          "headline": "El mod AMDLSS5 lleva DLSS 5\na las AMD Radeon RX 9000",
+          "body": "AMDLSS5 ejecuta DLSS 5 de Nvidia en Radeon RX 9000 y promete 64% más de fps que otros mods en Resident Evil Requiem.",
+          "mini_headline": "AMDLSS5 lleva\nDLSS 5 a AMD",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-24.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/B3ULyP68EiAPD55fRNR8S7-2560-80.jpg"
               },
               {
                 "t": "p",
-                "x": "El investigador de AI y YouTuber Matthew Berman mostró un shooter jugable inspirado en Gears of War: E-Day (E-Day-inspired), creado en Unreal Engine 5 por Claude Fable 5.2 de Anthropic, que según se informa partió de un prompt de solo tres líneas. El personaje puede esprintar, cubrirse, asomarse para disparar y hacer la característica recarga activa."
-              },
-              {
-                "t": "video",
-                "yt": "0vNyVMDFdkg"
+                "x": "DLSS 5 lleva ya un tiempo disponible, pero obviamente no para las tarjetas de AMD, al menos no de forma oficial. Algunos mods ya habían conseguido ejecutar esta tecnología de renderizado neuronal asistida por aprendizaje automático en chips AMD RX 9000-series, y ahora hay uno notablemente mejorado."
               },
               {
                 "t": "p",
-                "x": "Berman pidió al modelo que reprodujera un solo nivel de Gears of War: E-Day, luego activó el modo Ultra Code y lo dejó trabajar de forma autónoma. Según Berman, el proyecto consumió aproximadamente 8.5B tokens durante varios días, con un costo estimado API-equivalent cercano a $15,000; Decrypt lo cifra en 43 horas y 48 minutos, 8.63B tokens y un costo estimado de $14,710."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/3-Line-Prompt.jpg",
-                "cap": "El prompt de tres líneas que inició el proyecto de Unreal Engine 5. Crédito de imagen: Matthew Berman en YouTube."
+                "x": "Ya está disponible la versión 2.0 de AMDLSS5 (via Wccftech). En comparación con “otros mods”, afirma lograr +64% de fps en Resident Evil Requiem y +11% de fps frente a su versión anterior."
               },
               {
                 "t": "p",
-                "x": "Estas cifras son precios estimados de API, no necesariamente dinero que Berman haya gastado. La demo muestra un solo nivel, con algunas animaciones torpes, y su rendimiento y estabilidad no se han evaluado de forma independiente."
+                "x": "Si es cierto, es especialmente bueno: en las pruebas de PC Gamer con DLSS 5 en una AMD Radeon RX 9070 XT usando otro mod, Cyberpunk 2077 apenas llegó a 9 fps a 4K con ajustes RT Ultra y FSR 4 en Balanced."
+              },
+              {
+                "t": "p",
+                "x": "DLSS 5 puede ser muy exigente incluso en una GPU de Nvidia: en NBA 2K27, la tasa de fotogramas cayó hasta un 73% a 4K en una RTX 5080."
+              },
+              {
+                "t": "p",
+                "x": "Según el creador del mod en Reddit, entre los juegos compatibles están Resident Evil Requiem, Cyberpunk 2077, The Witcher 3 (solo la remasterización DX12), Red Dead Redemption 2, Shadow of the Tomb Raider, Nioh 3, Final Fantasy XVI, Monster Hunter Wilds, Onimusha: Way of the Sword, PRAGMATA y Grand Theft Auto V Enhanced (modo historia, solo sin conexión)."
+              },
+              {
+                "t": "p",
+                "x": "Algunos comentarios en Reddit señalan que la calidad no es muy buena con el mod activado. La instalación consiste en descargar los archivos y ejecutar el instalador, que “instala, actualiza o elimina el mod con un clic”."
               }
             ]
           }

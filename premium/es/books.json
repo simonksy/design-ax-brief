@@ -9746,6 +9746,181 @@
           "x": "Para atender las preocupaciones, TK permite a los autores publicar notas que explican con transparencia cómo se usó la AI en su escritura. La app también puede conectarse con el agente de AI propio del usuario a través del servidor MCP de TK o de la skill de Claude. TK está disponible en la web, con una app de escritorio en la hoja de ruta, y será gratuita para quienes tengan una cuenta de Medium."
         }
       ]
+    },
+    "books/books-unions-openai-voice-brief": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/hero-2.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El 29 de octubre, SAG-AFTRA, la American Federation of Musicians y las dos ramas del Writers Guild of America presentaron una moción para que se les permita aportar un escrito amicus curiae en In re OpenAI, Inc., Copyright Infringement Litigation, ante el juez Sidney H. Stein. El escrito, de 34 páginas, respalda a los demandantes, una larga lista de periódicos y autores, y pide al tribunal que rechace cualquier norma que trate el entrenamiento de IA como uso legítimo de forma general."
+        },
+        {
+          "t": "img",
+          "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/brief-p19.jpg",
+          "cap": "Página 19 del escrito propuesto, presentado el 29 de octubre de 2026. Imagen: In re OpenAI, Dkt. 2332, vía CourtListener"
+        },
+        {
+          "t": "p",
+          "x": "La página 19 vincula las voces sintéticas con la pérdida de encargos. Su cifra del 21 por ciento procede de la encuesta State of Voiceover in 2026 de NAVA, que reunió 1.379 respuestas: ante la pregunta «¿Alguna vez ha perdido a sabiendas un trabajo frente a una voz sintética?», el 21 por ciento respondió que sí."
+        },
+        {
+          "t": "img",
+          "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/nava-shot.jpg",
+          "cap": "Página de la encuesta de NAVA, captura tomada el 1 de noviembre de 2026. Imagen: NAVA"
+        },
+        {
+          "t": "p",
+          "x": "Los sindicatos sostienen que ya existe un mercado de licencias para entrenamiento: sus contratos de 2026 incluyen «un derecho de notificación y negociación sobre licencias a terceros de obras cubiertas para entrenar sistemas de IA generativa comerciales y abiertos al público». «Un fallo que declare aquí que el entrenamiento es uso legítimo de forma categórica dejaría sin efecto los términos que los Sindicatos y la industria acordaron en la mesa de negociación», señala el escrito."
+        },
+        {
+          "t": "img",
+          "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/picket.jpg",
+          "cap": "Piquete de SAG-AFTRA frente a Warner Bros. Discovery en Nueva York, 31 de julio de 2023. Foto: Phil Roeder vía Wikimedia Commons, CC BY 2.0"
+        },
+        {
+          "t": "p",
+          "x": "El juez Stein debe decidir primero si acepta el escrito."
+        }
+      ]
+    },
+    "books/books-claude-kindle-jailbreak-apps": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/11/claude-kindle-featured.jpeg?&fit=crop&w=1600&h=900"
+        },
+        {
+          "t": "p",
+          "x": "Durante el último año hemos visto a gente hacer cosas interesantes con sus Kindle antiguos y personalizar el software de sus dispositivos con Claude. Pero, hasta ahora, no había visto a nadie hacer ambas cosas a la vez."
+        },
+        {
+          "t": "p",
+          "x": "En el subreddit ClaudeAI, el usuario abdenourgnx1 mostró lo que logró hace poco con Claude. Tenía un Kindle 7th-gen sin usar, así que siguió una guía para hacerle jailbreak, lo que le dio acceso al software del lector electrónico. Después recibió algo de ayuda del asistente de IA de Anthropic:"
+        },
+        {
+          "t": "p",
+          "x": "«Tras el jailbreak, claude se encarga de diseñar y crear la aplicación que quieras. Yo solo le di una imagen conceptual de lo que quería y de cómo quería que se comportara, y se ocupó del resto. Asegúrate de tener KUAL (lanzador de aplicaciones en kindle) o algo equivalente para tu modelo.»"
+        },
+        {
+          "t": "p",
+          "x": "Ahora el Kindle es una pantalla que se puede colgar en la pared como pronóstico del tiempo. Obtiene datos nuevos por Wi-Fi y se actualiza cada hora, aunque no de noche para ahorrar batería. Según el usuario, esta configuración consume solo el 10% de la batería a la semana, lo que permite usarlo más de dos meses antes de volver a cargarlo."
+        }
+      ]
+    },
+    "books/books-jaju-webtoon-ai-shortdrama": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://wimg.heraldcorp.com/news/cms/2026/11/10/news-p.v1.20261110.002e6a566b2744a899c811698375eee4_P2.png"
+        },
+        {
+          "t": "p",
+          "x": "La productora de contenidos Jaju Story Co. informó de que ha completado los contratos para producir microdramas chinos con IA basados en cinco propiedades intelectuales (IP) originales de webtoons coreanos."
+        },
+        {
+          "t": "p",
+          "x": "Jaju Story impulsa un negocio en el que colabora con productoras chinas de IA para convertir cinco IP originales nacionales en microdramas y distribuirlos a través de plataformas locales. La empresa participará en la planificación original, la dirección y la revisión, mientras que sus socios chinos se encargarán de la producción local, la localización, la revisión de contenidos y la distribución."
+        },
+        {
+          "t": "p",
+          "x": "La primera tanda la forman cinco obras: «Reincarnation Express Recipe», «Gwijeon», «Gimi», «Duke Girl Boxer» y «Aseul-aseul». Según la empresa, ya se han cerrado los contratos de producción de las cinco y los microdramas se están produciendo en China con tecnología de IA. Prepara su estreno en noviembre de 2026 en plataformas chinas como Tencent, ByteDance, Hongguo y WeChat."
+        },
+        {
+          "t": "p",
+          "x": "Las obras abarcan géneros variados: romance culinario, fantasía de acción, thriller histórico, drama deportivo de crecimiento y romance contemporáneo. Jaju Story prevé producir contenido audiovisual a partir de las historias y los personajes originales, y gestionar el negocio con un modelo de reparto de ingresos según contrato."
+        },
+        {
+          "t": "p",
+          "x": "Kim Min-ju, director ejecutivo, ha trabajado como escritor en la planificación y redacción de obras de novela web, webtoon, guion y otros formatos. Ha recibido un premio a la excelencia en el Concurso de Historias de Corea y actualmente se ocupa de la planificación de historias e IP, la escritura de obras originales y la orientación comercial de cada título."
+        },
+        {
+          "t": "p",
+          "x": "La empresa también estudia ampliar su producción a webtoons y contenido audiovisual a partir de los universos y personajes de sus obras, como «Reincarnation Express Recipe»."
+        },
+        {
+          "t": "p",
+          "x": "Las obras en estudio para una segunda tanda son cinco: «Balbok», «Hwangunggi», «National Singer Im Bang-ul», «Witness in the Dark» y «Jakjeonghago Scandal». Además de estas, la empresa prevé adquirir más IP y ampliar el negocio teniendo en cuenta el estado de preparación de cada obra y las condiciones de distribución."
+        },
+        {
+          "t": "p",
+          "x": "A largo plazo, quiere extender su producción a microdramas, animación, cine y música a partir de los universos y personajes de novelas web y webtoons, y estudia distribuir en otros mercados internacionales además de China."
+        },
+        {
+          "t": "p",
+          "x": "También planea programas de formación y participación en producción de contenidos con IA junto con universidades, centros educativos y jóvenes creadores de la región."
+        },
+        {
+          "t": "p",
+          "x": "Gong Seong-sul, responsable de contenidos, afirmó: «La IA no es un medio para sustituir a los creadores, sino una herramienta que amplía su imaginación y sus posibilidades expresivas», y añadió: «La esencia de un buen contenido son, al final, las historias y emociones que conmueven a las personas»."
+        },
+        {
+          "t": "p",
+          "x": "Gong agregó: «Ampliaremos una sola IP original a webtoons, dramas de formato corto, animación, cine y música para convertirla en un contenido apreciado durante mucho tiempo en el mercado mundial», y «creceremos junto al talento creativo local para construir un nuevo ecosistema de producción»."
+        }
+      ]
+    },
+    "books/books-joongang-audiobook-ai-narration": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://image.koreajoongangdaily.com/12955845.webp?imageId=12955845&width=960&height=548&format=jpg",
+          "cap": "Grabación de la adaptación en audiolibro de «Omniscient Reader’s Viewpoint» (2018–20) en el estudio de Audien, en el oeste de Seúl, el 2 de noviembre."
+        },
+        {
+          "t": "p",
+          "x": "Las productoras usan la IA sobre todo para cubrir huecos en el sector del audiolibro, como crear versiones en audio de libros que de otro modo se considerarían poco rentables."
+        },
+        {
+          "t": "p",
+          "x": "«La IA solo puede expresar emociones hasta cierto punto», dijo Kim Song-hee, responsable de producción de audiolibros en Audien. La tecnología puede servir para narrar obras de no ficción, pero las voces AI-generated resultan menos convincentes en las adaptaciones de ficción. Según el departamento de distribución de Audien, la ficción narrada por personas atrae, al parecer, unas 10 veces más interés que su equivalente con IA."
+        },
+        {
+          "t": "img",
+          "src": "https://image.koreajoongangdaily.com/12955847.webp?imageId=12955847&x=0.00&y=5.21&cropw=100.00&croph=75.68&width=960&height=548&format=jpg",
+          "cap": "Kim Song-hee, a la izquierda, y Chang Ji-eun, productores de la empresa de audiolibros Audien"
+        },
+        {
+          "t": "p",
+          "x": "De enero a octubre, el equipo de Audien que trabaja con actores de voz humanos produjo unos 230 títulos, mientras que su equipo de IA, creado apenas el año pasado, produjo unos 380. Un audiolibro de cinco o seis horas que cuesta unos 5 millones de wones (3.680 dólares) con varios actores de voz puede hacerse por alrededor de 1 millón de wones con IA."
+        },
+        {
+          "t": "img",
+          "src": "https://image.koreajoongangdaily.com/12955846.webp?imageId=12955846&x=0.00&y=2.02&cropw=100.00&croph=57.13&width=960&height=750&format=jpg",
+          "cap": "Actores de voz durante una sesión de grabación de «Omniscient Reader's Viewpoint» (2018-20)."
+        },
+        {
+          "t": "p",
+          "x": "La adaptación de Audien de «The Bird That Drinks Blood» (2005), de Lee Young-do, llevó dos años y medio, con 58 actores de voz y 143 horas y 40 minutos de audio. «La IA sin duda tiene un papel en el crecimiento del mercado del audiolibro en su conjunto», dijo Kim."
+        }
+      ]
+    },
+    "books/madras-ai-library-books-fir": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.assettype.com/barandbench%2F2022-04%2F886749e2-68b4-4658-84a9-4ad607584aaf%2F8.jpg?w=1200&auto=format%2Ccompress",
+          "cap": "Madras High Court"
+        },
+        {
+          "t": "p",
+          "x": "El Madras High Court ordenó el martes a la Directorate of Vigilance and Anti-Corruption (DVAC) de Tamil Nadu registrar de inmediato un First Information Report (FIR) en relación con la presunta adquisición fraudulenta de libros para bibliotecas públicas de todo el estado [Ramasubbu Vs Gopal]."
+        },
+        {
+          "t": "p",
+          "x": "Un tribunal formado por los jueces GR Swaminathan y MD Sumathi señaló diversos libros falsos y generados con inteligencia artificial (Artificial Intelligence-generated) presentes en bibliotecas públicas. Ordenó retirar esos libros y congelar de inmediato las cuentas bancarias de Agal Vilakku Publication, de su propietario Mohan y de otros implicados en la presunta estafa, e instó al Estado a iniciar acciones disciplinarias, incluida la suspensión, contra los funcionarios responsables."
+        },
+        {
+          "t": "p",
+          "x": "\"Crores de rupias han salido del erario público\", afirmó el tribunal. La controversia salió a la luz por los libros adquiridos para Periyar Arivulagam en Coimbatore, después de que el escritor Perumal Murugan expresara su preocupación en redes sociales."
+        },
+        {
+          "t": "p",
+          "x": "El tribunal mencionó un libro hallado en la Kalaignar Centenary Library de Madurai que atribuía falsamente su autoría al economista Jean Drèze, y sostuvo que los libros AI-generated (generados con IA) y plagiados podrían encajar en la expresión \"doubtful taste\" de las Tamil Nadu Public Libraries Rules, 1950. El caso se verá de nuevo el 11 de noviembre."
+        }
+      ]
     }
   }
 }

@@ -10284,6 +10284,138 @@
           "x": "“我们希望模拟领域迎来自己的GPT时刻。”曾在MIT做博士后、现任职于UBC的Peter Yichen Chen说。研究人员在可变形物体、颗粒材料和蛋白质等六种物理现象上展示了WorldParticle，精度高于数值模拟方法，并且模拟蛋白质结构随时间变化的速度比数值模拟器快约100倍。这项研究将在SIGGRAPH Asia上发表。"
         }
       ]
+    },
+    "science/physicsworld-metasurface-colour-router": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://physicsworld.com/wp-content/uploads/2026/11/spectrum-web-8534073-iStock_koey.jpg",
+          "cap": "Bayer滤色片是一种已有数十年历史的红绿蓝马赛克，用于相机传感器重建全彩图像，为更先进的替代方案留下了空间(Credit: iStock/Koey)"
+        },
+        {
+          "t": "p",
+          "x": "现代相机会丢弃大部分进入的光。为生成彩色图像，相机在各个探测像素上覆盖红、绿或蓝色滤光片，每个滤光片都会挡掉大部分光谱。"
+        },
+        {
+          "t": "p",
+          "x": "一种可能的替代方案是用超表面取代这些吸收式滤光片：这是一层由氮化硅纳米柱构成的图案化结构，可将红、绿、蓝光引向相应的探测像素。然而，设计这种图案是一项巨大的计算挑战。"
+        },
+        {
+          "t": "p",
+          "x": "Hyoseok Park及其合作者用140,000个模拟结构训练了一个神经网络，再将其与遗传算法结合，逐步筛选并修改最有前景的设计。训练后的网络评估光场的速度比原始模拟快约230,000倍，从而能够搜索4000万个候选方案。"
+        },
+        {
+          "t": "p",
+          "x": "所得器件在实验中透过了88.8%的入射光，而传统滤色片阵列为24.7%，提升了3.6倍。仍存在一定的颜色串扰，空间分辨率也略有下降。可能的应用包括智能手机相机、弱光与夜视成像、安防摄像头、医用内窥镜和显微镜。"
+        }
+      ]
+    },
+    "science/yangmills-proof-gross-panel": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/3ceddda6-8cb0-4621-9f8e-97277f5b40a7/shutterstock_2632659679-WEB.jpg?m=1794411083.492&w=1200",
+          "cap": "Igor Link/Shutterstock"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI任命的审查专家表示，他们现已验证其由人工智能生成（AI-generated）的量子Yang-Mills理论“存在性”证明——该理论是粒子物理标准模型的重要基础。"
+        },
+        {
+          "t": "p",
+          "x": "为避免再次出现“slop drop”，该公司请理论物理学家David Gross领导一个委员会，监督证明的发布。11月10日晚，Gross与他挑选的四位同事发布了一份解释证明原理的文件，并确认了该证明在Lean中的形式化验证。"
+        },
+        {
+          "t": "p",
+          "x": "这种“shepherding（牧羊式）”做法激怒了一些数学家。纽约大学的Scott Armstrong说：“我很高兴牧羊人终于公开了Lean证明。”“这种审查可以在公开环境中更高效、更快速地完成。”"
+        },
+        {
+          "t": "p",
+          "x": "Yang-Mills是仍未解决的五个千禧年大奖难题之一。OpenAI的模型解决了第一部分，即“存在性”问题；“质量间隙”问题仍未解决。委员会写道：“我们并不声称已完全理解这一证明。”"
+        }
+      ]
+    },
+    "science/cornell-fish-schooling-ml": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2025/school-fish.jpg",
+          "cap": "Credit: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "科学家利用新的机器学习技术，研究了数千个物种中鱼类集群游动的演化。论文于11月6日发表在Proceedings of the National Academy of Sciences上。"
+        },
+        {
+          "t": "p",
+          "x": "在过去3.5亿年的鱼类演化树中，鱼类物种独立获得整体协同游动能力约60次，又失去约320次。"
+        },
+        {
+          "t": "p",
+          "x": "研究团队用物种描述训练了一个文本transformer（与大语言模型背后的方法相同），并用机器学习分析照片和视频，将其转换为三维形式，评估鱼类是否成群移动。他们总共量化了2,839个物种的集群行为，占39,000种现存鱼类的近10%。"
+        },
+        {
+          "t": "video",
+          "src": "https://scx2.b-cdn.net/gfx/video/2026/machine-learning-helps.mp4"
+        },
+        {
+          "t": "p",
+          "x": "处于食物链较低位置的物种更可能集群，而成群行动的捕食者几乎都以同样成群行动的猎物为食。所有物种都集群的谱系，新物种形成的速度更高。"
+        }
+      ]
+    },
+    "science/psypost-ai-whiteness-study": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.psypost.org/wp-content/uploads/2026/04/artificial-intelligence-ai-chip.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Monica Gamez-Djokic和Adam Waytz发表在Journal of Personality and Social Psychology上的新研究显示，即使人工智能系统没有面孔、声音、名字或身体，人们也倾向于把它们视为白人。"
+        },
+        {
+          "t": "p",
+          "x": "在Study 1a 中，美国（U.S.）参与者平均将72%的技术选为白人；在Study 1b 中，带有种族化色彩的开放式回答里有71%为白人。在日本，82%的人将AI归为白人；在印度，这一比例为67%。"
+        },
+        {
+          "t": "p",
+          "x": "在Study 4 中，认为AI更偏白人的参与者认为其事实核查建议略更有说服力，这是一种相关性关联。在Study 5 中，参与者给被描述为用黑人和拉丁裔成年人数据训练的AI分配了智力要求较低的工作（4.27 vs. 4.51）。"
+        },
+        {
+          "t": "p",
+          "x": "Gamez-Djokic说：“最让我惊讶的是，人们只需要很少的信息就会将AI种族化。”"
+        }
+      ]
+    },
+    "science/science-alphaproof-code-signal": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://lh3.googleusercontent.com/PHIZgiGejgu8shHsJV9pVfWv7Kr5rTj-e2yIj73c8LkDKBnTTAr2r28DN9aZd1vLDjCnd1Wi2qOD0t8bPpNN-3DfmbEgxj0TE-TttqVbpdoOD1xmFQk=w1440-h810-n-nu"
+        },
+        {
+          "t": "p",
+          "x": "Google DeepMind研究人员借助AlphaProof Code——一个将人类专业知识与AI智能体相结合的新型智能体形式化验证框架——引导AI智能体以数学方式证明Signal协议底层实际代码的关键安全属性。这是AI首次在如此深度上对一个广泛部署的加密协议进行形式化验证。"
+        },
+        {
+          "t": "p",
+          "x": "研究人员组合使用多种模型，将Signal的安全目标转化为形式化规约，每一条都由人类专家审核。随后，由Gemini Carbon驱动的智能体完成证明，生成了超过六百万行Lean，并对证明进行审计，只将代码库中百分之一的部分标记出来交由人类复查。"
+        },
+        {
+          "t": "p",
+          "x": "智能体证明，编译后的代码在设备上实际运行的代码层面满足关键安全属性。整个过程仅用了四周，而这类任务过去需要专家团队耗费数年。当研究人员重新引入两个此前已修复的真实漏洞时，系统给出了经机器检验的证明，表明含漏洞的版本并不安全。"
+        },
+        {
+          "t": "img",
+          "src": "https://lh3.googleusercontent.com/kF75VKGl2JdnK6eQJxqPLwQNsMq0CumACxUSMF5WoUME3lAw2-PBaQWpsOxaD1bTaXYhJd46zDMrx9s3kPW_oL9rg2rKh_HoCzYxN8Xd5XRIPQ2Vsg=w1440-h810-n-nu",
+          "cap": "在AlphaProof Code中，AI智能体帮助用户编写规约，再自主证明实现满足该规约。每一个证明都由Lean检查，以验证智能体的工作。"
+        },
+        {
+          "t": "p",
+          "x": "Signal CTO Ehren Kret表示：“用AI智能体把线上代码转化为有效的Lean定理，是一项重大突破。”DeepMind正在开源其形式化验证成果。"
+        }
+      ]
     }
   }
 }

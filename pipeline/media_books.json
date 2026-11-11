@@ -1,30 +1,31 @@
 {
-  "date": "2026-11-11",
-  "section": "books",
-  "media": [
-    {
-      "id": "madras-ai-library-books-fir",
-      "type": "image",
-      "src": "pipeline/media/madras-ai-library-books-fir.jpg"
-    },
-    {
-      "id": "claude-autobiography-engineer",
-      "type": "image",
-      "src": "pipeline/media/claude-autobiography-engineer.png"
-    },
-    {
-      "id": "voithru-ai-characterchat",
-      "type": "image",
-      "src": "pipeline/media/voithru-ai-characterchat.jpg"
-    },
-    {
-      "id": "incheon-ai-picturebooks",
-      "type": "svg"
-    },
-    {
-      "id": "bookseller-ai-discovery-steps",
-      "type": "image",
-      "src": "pipeline/media/bookseller-ai-discovery-steps.jpg"
-    }
-  ]
+ "date": "2026-11-12",
+ "section": "books",
+ "media": [
+  {
+   "id": "books-caine-prize-ai-cleared",
+   "type": "image",
+   "src": "pipeline/media/books-caine-prize-ai-cleared.jpg"
+  },
+  {
+   "id": "books-unions-openai-voice-brief",
+   "type": "image",
+   "src": "pipeline/media/books-unions-openai-voice-brief.jpg"
+  },
+  {
+   "id": "books-claude-kindle-jailbreak-apps",
+   "type": "image",
+   "src": "pipeline/media/books-claude-kindle-jailbreak-apps.jpg"
+  },
+  {
+   "id": "books-jaju-webtoon-ai-shortdrama",
+   "type": "image",
+   "src": "pipeline/media/books-jaju-webtoon-ai-shortdrama.png"
+  },
+  {
+   "id": "books-joongang-audiobook-ai-narration",
+   "type": "image",
+   "src": "pipeline/media/books-joongang-audiobook-ai-narration.jpg"
+  }
+ ]
 }

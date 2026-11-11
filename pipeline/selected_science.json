@@ -1,158 +1,103 @@
 {
-  "date": "2026-11-11",
+  "date": "2026-11-12",
   "section": "science",
   "picks": [
     {
-      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+      "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+      "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
       "source": "Google DeepMind",
       "tool": "Science",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "rationale": "This is DeepMind's own announcement of a new system in which LLM agents write Lean proofs. It machine-verified the compiled code of Signal's cryptographic protocol in about four weeks.",
-      "published_iso": "2026-11-10T12:00:00+00:00",
-      "og_image": "https://lh3.googleusercontent.com/PHIZgiGejgu8shHsJV9pVfWv7Kr5rTj-e2yIj73c8LkDKBnTTAr2r28DN9aZd1vLDjCnd1Wi2qOD0t8bPpNN-3DfmbEgxj0TE-TttqVbpdoOD1xmFQk=w1440-h810-n-nu",
-      "excerpt": "DeepMind's AlphaProof Code uses multiple LLM agents to write Lean proofs for software verification; it machine-verified the compiled code of Signal's cryptographic protocol in about four weeks, generating over six million lines of Lean and flagging ~1% of the codebase for human review."
+      "rationale": "Primary-source release of a next-gen DNA sequence model that predicts variant effects per human cell type/state; major new model, not previously covered.",
+      "published_iso": "2026-11-11T15:00:00+00:00",
+      "og_image": "https://lh3.googleusercontent.com/VPOhADdGu1T7kK_gWBiGzyVawQbKCjpL3-B0L0wxpYCyr8cHxviYmo9Hghy4f1laeIo2YKwuz8E07TR9HWWk2b0EONi0uvju-8TDLHX6YWHG4dXe3w=w1200-h630-n-nu-rw",
+      "excerpt": "DeepMind's next-generation DNA sequence model bridges single-cell biology and human genetics, predicting how genetic variants affect specific human cell types and cell states to help interpret disease risk."
     },
     {
-      "title": "Google Researchers Use AI And Mathematical Proofs to Cut Quantum Computing Requirements",
-      "url": "https://thequantuminsider.com/2026/11/10/google-researchers-use-ai-and-mathematical-proofs-to-cut-quantum-computing-requirements/",
-      "source": "The Quantum Insider",
+      "url": "https://physicsworld.com/a/ai-designed-metasurface-could-make-cameras-far-more-light-efficient/",
+      "title": "AI-designed metasurface could make cameras far more light-efficient",
+      "source": "Physics World",
       "tool": "Science",
       "accent": "#0070f3",
       "motif": "sphere",
-      "rationale": "A new paper (arXiv 2611.09822) in which agent teams with Lean-checked proofs cut quantum program costs 2.5x to 11x on chemistry and fusion workloads. It reports a result, not the earlier competition announcement.",
-      "published_iso": "2026-11-10T09:40:02+00:00",
-      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/11/Screenshot-2026-11-10-at-4.28.33-AM.png",
-      "excerpt": "Google DeepMind and Google Quantum AI used teams of AI agents with Lean-checked proofs to design quantum programs, cutting combined qubit-and-gate costs about 11x for a fusion simulation, 8x for photochemistry and 2.5x for a drug-metabolism model (arXiv 2611.09822)."
+      "rationale": "Neural-network inverse design yields a nanoscale colour router that beats absorptive filters; concrete physics result with a clear imaging payoff.",
+      "published_iso": "2026-11-11T08:07:16+00:00",
+      "og_image": "https://physicsworld.com/wp-content/uploads/2026/11/spectrum-web-8534073-iStock_koey.jpg",
+      "excerpt": "A neural-network-assisted inverse-design search produced a nanoscale colour router that delivers substantially more light to an image sensor than conventional absorptive colour filters."
     },
     {
-      "title": "Researcher uses AI to predict probabilities for chemical processes",
-      "url": "https://phys.org/news/2026-11-ai-probabilities-chemical.html",
-      "source": "Phys.org",
+      "url": "https://www.scientificamerican.com/article/openais-shepherds-affirm-blockbuster-physics-result/",
+      "title": "OpenAI's 'shepherds' affirm blockbuster physics result",
+      "source": "Scientific American",
       "tool": "Science",
       "accent": "#7928ca",
       "motif": "sphere",
-      "rationale": "A peer-reviewed case in which AI agents wrote most of an open-source quantum chemistry code (vibe-qc). Cross-checking against an independent code caught its errors, which gives researchers a concrete verification practice.",
-      "published_iso": "2026-11-10T11:40:05-05:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/electrons-reveal-what.jpg",
-      "excerpt": "University of Bonn chemist Michael Peintinger had AI agents write most of vibe-qc, an open-source quantum chemistry program for molecules and crystals, under his supervision; cross-checks against an independent code caught errors and confirmed results (Journal of Computational Chemistry)."
+      "rationale": "Follow-up with a new concrete event: a David Gross-led committee affirmed the AI-generated Yang-Mills existence proof and released an explanation plus Lean formal verification on Nov 10.",
+      "published_iso": "2026-11-11T07:30:00-05:00",
+      "og_image": "https://static.scientificamerican.com/dam/asset/3ceddda6-8cb0-4621-9f8e-97277f5b40a7/shutterstock_2632659679-WEB.jpg?m=1794411083.492&w=1200",
+      "excerpt": "A committee led by Nobel laureate David Gross affirmed OpenAI's AI-generated proof of the existence of quantum Yang-Mills theory and released an explanation plus Lean formal verification on Nov 10, while noting they do not yet fully understand the proof; the mass-gap question remains open."
     },
     {
-      "title": "AI, computer graphics and wave optics combine for more realistic holographic VR/AR displays",
-      "url": "https://techxplore.com/news/2026-11-ai-graphics-optics-combine-realistic.html",
-      "source": "Tech Xplore",
+      "url": "https://phys.org/news/2026-11-machine-reveals-fish-schooling-evolved.html",
+      "title": "Machine learning reveals how often fish schooling evolved—and repeatedly disappeared",
+      "source": "Phys.org",
       "tool": "Science",
       "accent": "#f5a623",
       "motif": "sphere",
-      "rationale": "HKU trained a learned optics model on camera measurements and paired it with mesh-based hologram generation for sharper holographic VR/AR. This is new optics research published in Nature Communications and ACM TOG.",
-      "published_iso": "2026-11-10T13:40:18-05:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/hku-researchers-bring.jpg",
-      "excerpt": "University of Hong Kong researchers trained a learned optics model on camera measurements to correct imperfections in a holographic display, and paired it with mesh-based hologram generation for smoother focus and sharper detail in lab prototypes (Nature Communications, ACM TOG)."
+      "rationale": "PNAS study using a text transformer plus computer vision across 2,839 species to show schooling evolved ~60 times and was lost ~320 times; AI as an evolutionary-biology method.",
+      "published_iso": "2026-11-09T18:30:05-05:00",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2025/school-fish.jpg",
+      "excerpt": "Cornell researchers used a text transformer on species descriptions plus computer vision and 3D reconstruction of fish photos/videos to classify 2,839 species, finding schooling evolved independently ~60 times and was lost ~320 times over 350 million years (PNAS)."
     },
     {
-      "title": "Prior expertise may determine whether AI builds skills or substitutes for them, field experiment suggests",
-      "url": "https://www.psypost.org/prior-expertise-may-determine-whether-ai-builds-skills-or-substitutes-for-them-field-experiment-suggests/",
+      "url": "https://www.psypost.org/people-project-a-specific-racial-identity-onto-artificial-intelligence-study-finds/",
+      "title": "People project a specific racial identity onto artificial intelligence, study finds",
       "source": "PsyPost",
       "tool": "Science",
       "accent": "#eb367f",
       "motif": "sphere",
-      "rationale": "A three-month randomized field trial (Autor and Google, NBER) with 133 patent lawyers. AI raised junior lawyers' drafts most, but on a later no-AI task only the senior lawyers who had used it kept the skill gain.",
-      "published_iso": "2026-11-07T14:00:20+00:00",
-      "og_image": "https://www.psypost.org/wp-content/uploads/2025/01/artificial-intelligence-1.jpg",
-      "excerpt": "A three-month randomized trial with 133 U.S. patent lawyers (MIT's David Autor and Google, NBER working paper) found an AI writing assistant improved drafts most for juniors, but on a later no-AI task only senior lawyers who had used the tool outperformed peers."
+      "rationale": "Five-study, three-country JPSP paper showing people code AI as White, which shifts persuasiveness and task allocation; fresh psychology finding about AI perception.",
+      "published_iso": "2026-11-11T21:00:32+00:00",
+      "og_image": "https://www.psypost.org/wp-content/uploads/2026/04/artificial-intelligence-ai-chip.jpg",
+      "excerpt": "Across five studies (~2,400 participants in the U.S., India and Japan), people associated AI with Whiteness even without human features, which modestly raised AI's persuasiveness; AI described as trained on Black and Latino adults was assigned less demanding work (Journal of Personality and Social Psychology, Purdue/Northwestern)."
     }
+  ],
+  "items": [
+    {"url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/", "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease", "source": "Google DeepMind", "tool": "Science", "accent": "#2ec5c5", "motif": "sphere", "rationale": "Primary-source release of a next-gen DNA sequence model that predicts variant effects per human cell type/state; major new model, not previously covered.", "published_iso": "2026-11-11T15:00:00+00:00", "og_image": "https://lh3.googleusercontent.com/VPOhADdGu1T7kK_gWBiGzyVawQbKCjpL3-B0L0wxpYCyr8cHxviYmo9Hghy4f1laeIo2YKwuz8E07TR9HWWk2b0EONi0uvju-8TDLHX6YWHG4dXe3w=w1200-h630-n-nu-rw", "excerpt": "DeepMind's next-generation DNA sequence model bridges single-cell biology and human genetics, predicting how genetic variants affect specific human cell types and cell states to help interpret disease risk."},
+    {"url": "https://physicsworld.com/a/ai-designed-metasurface-could-make-cameras-far-more-light-efficient/", "title": "AI-designed metasurface could make cameras far more light-efficient", "source": "Physics World", "tool": "Science", "accent": "#0070f3", "motif": "sphere", "rationale": "Neural-network inverse design yields a nanoscale colour router that beats absorptive filters; concrete physics result with a clear imaging payoff.", "published_iso": "2026-11-11T08:07:16+00:00", "og_image": "https://physicsworld.com/wp-content/uploads/2026/11/spectrum-web-8534073-iStock_koey.jpg", "excerpt": "A neural-network-assisted inverse-design search produced a nanoscale colour router that delivers substantially more light to an image sensor than conventional absorptive colour filters."},
+    {"url": "https://www.scientificamerican.com/article/openais-shepherds-affirm-blockbuster-physics-result/", "title": "OpenAI's 'shepherds' affirm blockbuster physics result", "source": "Scientific American", "tool": "Science", "accent": "#7928ca", "motif": "sphere", "rationale": "Follow-up with a new concrete event: a David Gross-led committee affirmed the AI-generated Yang-Mills existence proof and released an explanation plus Lean formal verification on Nov 10.", "published_iso": "2026-11-11T07:30:00-05:00", "og_image": "https://static.scientificamerican.com/dam/asset/3ceddda6-8cb0-4621-9f8e-97277f5b40a7/shutterstock_2632659679-WEB.jpg?m=1794411083.492&w=1200", "excerpt": "A committee led by Nobel laureate David Gross affirmed OpenAI's AI-generated proof of the existence of quantum Yang-Mills theory and released an explanation plus Lean formal verification on Nov 10, while noting they do not yet fully understand the proof; the mass-gap question remains open."},
+    {"url": "https://phys.org/news/2026-11-machine-reveals-fish-schooling-evolved.html", "title": "Machine learning reveals how often fish schooling evolved—and repeatedly disappeared", "source": "Phys.org", "tool": "Science", "accent": "#f5a623", "motif": "sphere", "rationale": "PNAS study using a text transformer plus computer vision across 2,839 species to show schooling evolved ~60 times and was lost ~320 times; AI as an evolutionary-biology method.", "published_iso": "2026-11-09T18:30:05-05:00", "og_image": "https://scx1.b-cdn.net/csz/news/800a/2025/school-fish.jpg", "excerpt": "Cornell researchers used a text transformer on species descriptions plus computer vision and 3D reconstruction of fish photos/videos to classify 2,839 species, finding schooling evolved independently ~60 times and was lost ~320 times over 350 million years (PNAS)."},
+    {"url": "https://www.psypost.org/people-project-a-specific-racial-identity-onto-artificial-intelligence-study-finds/", "title": "People project a specific racial identity onto artificial intelligence, study finds", "source": "PsyPost", "tool": "Science", "accent": "#eb367f", "motif": "sphere", "rationale": "Five-study, three-country JPSP paper showing people code AI as White, which shifts persuasiveness and task allocation; fresh psychology finding about AI perception.", "published_iso": "2026-11-11T21:00:32+00:00", "og_image": "https://www.psypost.org/wp-content/uploads/2026/04/artificial-intelligence-ai-chip.jpg", "excerpt": "Across five studies (~2,400 participants in the U.S., India and Japan), people associated AI with Whiteness even without human features, which modestly raised AI's persuasiveness; AI described as trained on Black and Latino adults was assigned less demanding work (Journal of Personality and Social Psychology, Purdue/Northwestern)."}
   ],
   "dedup": {
     "checks": {
-      "https://deepmind.google/blog/introducing-alphaproof-code/": {
+      "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/": {
         "verdict": "new",
-        "nearest": "https://www.scientificamerican.com/article/dueling-proofs-from-openai-and-anthropic-astound-scientists/",
+        "nearest": "https://www.nature.com/articles/d41586-026-03552-8",
         "new_action": ""
       },
-      "https://thequantuminsider.com/2026/11/10/google-researchers-use-ai-and-mathematical-proofs-to-cut-quantum-computing-requirements/": {
-        "verdict": "new",
-        "nearest": "https://thequantuminsider.com/2026/10/23/google-launches-150000-ai-competition-to-reduce-quantum-computing-demands/",
-        "new_action": ""
-      },
-      "https://phys.org/news/2026-11-ai-probabilities-chemical.html": {
-        "verdict": "new",
-        "nearest": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
-        "new_action": ""
-      },
-      "https://techxplore.com/news/2026-11-ai-graphics-optics-combine-realistic.html": {
+      "https://physicsworld.com/a/ai-designed-metasurface-could-make-cameras-far-more-light-efficient/": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
       },
-      "https://www.psypost.org/prior-expertise-may-determine-whether-ai-builds-skills-or-substitutes-for-them-field-experiment-suggests/": {
+      "https://www.scientificamerican.com/article/openais-shepherds-affirm-blockbuster-physics-result/": {
+        "verdict": "follow-up",
+        "nearest": "https://www.scientificamerican.com/article/dueling-proofs-from-openai-and-anthropic-astound-scientists/",
+        "new_action": "Nov 10: David Gross-led verification committee formally affirmed OpenAI's AI-generated Yang-Mills existence proof and released a written explanation plus a Lean formal verification (prior cards 10-23/10-28 covered the proof's announcement and reception, not this verdict)."
+      },
+      "https://phys.org/news/2026-11-machine-reveals-fish-schooling-evolved.html": {
         "verdict": "new",
-        "nearest": "https://www.eurekalert.org/news-releases/1150468",
+        "nearest": "",
+        "new_action": ""
+      },
+      "https://www.psypost.org/people-project-a-specific-racial-identity-onto-artificial-intelligence-study-finds/": {
+        "verdict": "new",
+        "nearest": "",
         "new_action": ""
       }
     },
-    "note": "Dropped as duplicates: (1) QuEra/Harvard/Anthropic 'Use AI to Reduce Quantum Circuit Resource Requirements' (TQI 11-10). It is the same Claude-designs-leaner-quantum-circuits research published 10-18 (thequantuminsider.com/2026/10/17/anthropics-claude-designs-leaner-quantum-circuits...), its arXiv 2610.22367 is an October paper, and it reports no new release. (2) GEN 'New AI Models Are Turbo-Charging Protein Design' is an analysis feature on the running protein-design story (10-24 Nvidia/IPD, 11-04 text-to-protein) with no new event. It was also dropped on 11-10. Not picked on merit: the human-involvement creative-writing study (PNAS Nexus, close in theme to the 10-29 'AI may quickly generate ideas, but working with people leads to more creative ones'), the battery cathode GAN (EurekAlert, 11-03, related to the 10-22 sodium-ion story), the uranium-enrichment ML study, fish schooling ML, MLP Copilot aluminum oxidation, and Universe Today buried rocks. The Google quantum paper is a research result, distinct from the 10-24 $150k competition launch, and distinct from AlphaProof Code (software verification), even though both are Google and Lean-based. Diversity: 5 distinct outlets. Cross-section check: none of the picks touch any cross-section assignment in the curator brief (Adobe MAX, UE 5.9, Framestore/Sky, Businesses in ChatGPT, Gemini healthcare, Pixel Drop), and none involve biosecurity topics. published_urls.json (4242 lines) was too large to read in full without grep, so the all-section exact-URL grep was NOT completed. The orchestrator should run it before roll."
-  },
-  "items": [
-    {
-      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
-      "source": "Google DeepMind",
-      "tool": "Science",
-      "accent": "#2ec5c5",
-      "motif": "sphere",
-      "rationale": "This is DeepMind's own announcement of a new system in which LLM agents write Lean proofs. It machine-verified the compiled code of Signal's cryptographic protocol in about four weeks.",
-      "published_iso": "2026-11-10T12:00:00+00:00",
-      "og_image": "https://lh3.googleusercontent.com/PHIZgiGejgu8shHsJV9pVfWv7Kr5rTj-e2yIj73c8LkDKBnTTAr2r28DN9aZd1vLDjCnd1Wi2qOD0t8bPpNN-3DfmbEgxj0TE-TttqVbpdoOD1xmFQk=w1440-h810-n-nu",
-      "excerpt": "DeepMind's AlphaProof Code uses multiple LLM agents to write Lean proofs for software verification; it machine-verified the compiled code of Signal's cryptographic protocol in about four weeks, generating over six million lines of Lean and flagging ~1% of the codebase for human review."
-    },
-    {
-      "title": "Google Researchers Use AI And Mathematical Proofs to Cut Quantum Computing Requirements",
-      "url": "https://thequantuminsider.com/2026/11/10/google-researchers-use-ai-and-mathematical-proofs-to-cut-quantum-computing-requirements/",
-      "source": "The Quantum Insider",
-      "tool": "Science",
-      "accent": "#0070f3",
-      "motif": "sphere",
-      "rationale": "A new paper (arXiv 2611.09822) in which agent teams with Lean-checked proofs cut quantum program costs 2.5x to 11x on chemistry and fusion workloads. It reports a result, not the earlier competition announcement.",
-      "published_iso": "2026-11-10T09:40:02+00:00",
-      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/11/Screenshot-2026-11-10-at-4.28.33-AM.png",
-      "excerpt": "Google DeepMind and Google Quantum AI used teams of AI agents with Lean-checked proofs to design quantum programs, cutting combined qubit-and-gate costs about 11x for a fusion simulation, 8x for photochemistry and 2.5x for a drug-metabolism model (arXiv 2611.09822)."
-    },
-    {
-      "title": "Researcher uses AI to predict probabilities for chemical processes",
-      "url": "https://phys.org/news/2026-11-ai-probabilities-chemical.html",
-      "source": "Phys.org",
-      "tool": "Science",
-      "accent": "#7928ca",
-      "motif": "sphere",
-      "rationale": "A peer-reviewed case in which AI agents wrote most of an open-source quantum chemistry code (vibe-qc). Cross-checking against an independent code caught its errors, which gives researchers a concrete verification practice.",
-      "published_iso": "2026-11-10T11:40:05-05:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/electrons-reveal-what.jpg",
-      "excerpt": "University of Bonn chemist Michael Peintinger had AI agents write most of vibe-qc, an open-source quantum chemistry program for molecules and crystals, under his supervision; cross-checks against an independent code caught errors and confirmed results (Journal of Computational Chemistry)."
-    },
-    {
-      "title": "AI, computer graphics and wave optics combine for more realistic holographic VR/AR displays",
-      "url": "https://techxplore.com/news/2026-11-ai-graphics-optics-combine-realistic.html",
-      "source": "Tech Xplore",
-      "tool": "Science",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "rationale": "HKU trained a learned optics model on camera measurements and paired it with mesh-based hologram generation for sharper holographic VR/AR. This is new optics research published in Nature Communications and ACM TOG.",
-      "published_iso": "2026-11-10T13:40:18-05:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/hku-researchers-bring.jpg",
-      "excerpt": "University of Hong Kong researchers trained a learned optics model on camera measurements to correct imperfections in a holographic display, and paired it with mesh-based hologram generation for smoother focus and sharper detail in lab prototypes (Nature Communications, ACM TOG)."
-    },
-    {
-      "title": "Prior expertise may determine whether AI builds skills or substitutes for them, field experiment suggests",
-      "url": "https://www.psypost.org/prior-expertise-may-determine-whether-ai-builds-skills-or-substitutes-for-them-field-experiment-suggests/",
-      "source": "PsyPost",
-      "tool": "Science",
-      "accent": "#eb367f",
-      "motif": "sphere",
-      "rationale": "A three-month randomized field trial (Autor and Google, NBER) with 133 patent lawyers. AI raised junior lawyers' drafts most, but on a later no-AI task only the senior lawyers who had used it kept the skill gain.",
-      "published_iso": "2026-11-07T14:00:20+00:00",
-      "og_image": "https://www.psypost.org/wp-content/uploads/2025/01/artificial-intelligence-1.jpg",
-      "excerpt": "A three-month randomized trial with 133 U.S. patent lawyers (MIT's David Autor and Google, NBER working paper) found an AI writing assistant improved drafts most for juniors, but on a later no-AI task only senior lawyers who had used the tool outperformed peers."
-    }
-  ]
+    "note": "Dropped as duplicate: QuEra/Harvard/Anthropic quantum-circuit resource reduction (TQI 11-10) = same Claude-designs-leaner-quantum-circuits work published 10-18 (TQI), no new release. Reviewed history_match items: AlphaGenome 2 vs 11-07 Nature automated-biology-lab (different story, kept); SciAm shepherds vs 10-28 dueling proofs / 10-23 inside story on OpenAI's million-dollar proof (kept as follow-up: new committee verdict + Lean verification release); fruit-fly connectome vs 10-20 Claude island (different, not picked on score); Live Science birdsong interview vs 10-16 MIT cell language (different; interview format, not picked). Not picked: Wharton human-AI creative workflow (close in theme to 10-29 TechXplore AI+people creativity card), GEN protein-design roundup (roundup), others on score/outlet spread. Cross-section: no pick appears in the medicine pool or published_urls for other sections. Outlets: 5 distinct; no biosecurity-sensitive items."
+  }
 }

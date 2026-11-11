@@ -3974,6 +3974,118 @@
           "x": "Los modelos aun así señalaron entre el 2% y el 29% de los tipos de error en informes de control sin errores insertados, sobre todo conclusiones no respaldadas por los resultados. Opus 5.5 obtuvo la puntuación más alta de detección de errores graves (99%), mientras que GPT-6.1 Sol y GPT-6 Luna lograron el 92% y el 87%. Los autores sugieren que depender solo de la revisión por pares humana puede dejar sin detectar errores metodológicos evitables."
         }
       ]
+    },
+    "medicine/mdcalc-crosscover-launch": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_1577391848-1024x576.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "La nueva herramienta revisa las preguntas de los clínicos en busca de problemas de privacidad y las respuestas de los chatbots en cuanto a su exactitud."
+        },
+        {
+          "t": "p",
+          "x": "MDCalc, un sitio de herramientas de referencia médica, lanzó el miércoles CrossCover, una herramienta que, según la empresa, busca ayudar a los clínicos a confiar en las respuestas de los chatbots médicos de inteligencia artificial, preservando la privacidad de pacientes y profesionales."
+        },
+        {
+          "t": "p",
+          "x": "Graham Walker, responsable de AI en MDCalc, dijo que la empresa ve la herramienta como un acelerador de la AI generativa clínica. “Podemos eliminar algunos de los desafíos, riesgos y problemas de la tecnología para que los médicos se sientan más seguros al usarla”, afirmó."
+        },
+        {
+          "t": "p",
+          "x": "CrossCover adopta un enfoque opuesto al de las herramientas médicas de AI de OpenEvidence, Abridge y la empresa de historias clínicas electrónicas Epic, que intentan incorporar a sus recomendaciones un repertorio cada vez más amplio de información de pacientes, profesionales y pagadores. En lugar de exigir a los clínicos que se registren con su número de identificación nacional o de negociar acuerdos de privacidad, la herramienta de MDCalc se centra en eliminar ese tipo de información de las consultas de los clínicos."
+        }
+      ]
+    },
+    "medicine/nejm-ai-aura-ana-triage": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "No existen recomendaciones basadas en la evidencia para priorizar la derivación a reumatología de las personas con pruebas de anticuerpos antinucleares (ANA) positivas. Los investigadores desarrollaron e implementaron un modelo de predicción clínica interpretable, AURA (AUtoimmune Risk Assessment), para predecir qué personas con un ANA positivo de nueva aparición desarrollarán una enfermedad autoinmune sistémica, y lo evaluaron en un estudio pragmático aleatorizado de 2 años."
+        },
+        {
+          "t": "img",
+          "src": "https://ai.nejm.org/cms/asset/fee9f883-230a-4ffb-a1e4-37ec9187c4b8/aioa2600112_f1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El modelo se integró en la historia clínica electrónica de un único sistema de salud académico. Las personas ANA-positive se asignaron aleatoriamente 1:1; en el grupo de intervención, a quienes tenían puntuaciones de alto riesgo se les invitó a una evaluación reumatológica acelerada, mientras que en el grupo de control las puntuaciones de riesgo se calcularon pero no se actuó sobre ellas."
+        },
+        {
+          "t": "p",
+          "x": "De 2385 personas asignadas aleatoriamente, se analizaron 954 en el grupo de intervención y 1006 en el grupo de control. El grupo de intervención tuvo un tiempo hasta el diagnóstico de enfermedad autoinmune significativamente menor (cociente de riesgos, 1.9; 95% CI, 1.3 a 2.7; P<0.001); la mediana hasta el diagnóstico fue de 43 días frente a 138 días."
+        },
+        {
+          "t": "p",
+          "x": "Entre quienes fueron evaluados por reumatología en un plazo de 6 meses, el 23% del grupo de intervención y el 16% del grupo de control recibieron un diagnóstico de enfermedad autoinmune (P=0.07)."
+        }
+      ]
+    },
+    "medicine/uw-rsna-ai-triage-realworld": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Los investigadores presentarán su experiencia en la implantación de 11 algoritmos de AI de triaje en tres hospitales (jueves 3 de diciembre | 9:30 a.m.-10:30 a.m. | R3-SSIN07-1 | Room E450B)."
+        },
+        {
+          "t": "p",
+          "x": "La evidencia del mundo real sobre el despliegue de AI a gran escala en la práctica clínica sigue siendo limitada, señalaron el ponente Domenico Mastrodicasa, MD, de la University of Washington, y sus colegas. El grupo evaluó cómo la implantación en todo el sistema de varias herramientas de triaje con AI afectó al tiempo de entrega de informes en un sistema de salud académico de nivel cuaternario que incluye un centro de trauma Level 1."
+        },
+        {
+          "t": "p",
+          "x": "Los algoritmos se desplegaron por etapas entre septiembre de 2023 y agosto de 2025 y procesaron más de 742,000 estudios de imagen. Los investigadores compararon las medianas de los tiempos de entrega antes y después del despliegue."
+        },
+        {
+          "t": "p",
+          "x": "La mayor mejora se dio en la malposición del tubo endotraqueal, donde el tiempo de entrega se redujo alrededor de un 76%, seguida de la fractura costal (53%) y la oclusión de vasos cerebrales (29%). En cambio, la embolia pulmonar y la hemorragia intracraneal no mejoraron. Según los investigadores, esto probablemente refleja una mayor proporción de estudios de seguimiento o de pacientes hospitalizados con hallazgos ya conocidos."
+        },
+        {
+          "t": "p",
+          "x": "“A medida que aumentan los volúmenes de imagen, identificar a tiempo los hallazgos clínicamente significativos es cada vez más difícil”, escribieron los autores. “Nuestra experiencia muestra que implantar herramientas de triaje con AI en todo el sistema puede apoyar a los radiólogos al priorizar los hallazgos críticos y mejorar la eficiencia del flujo de trabajo en entornos de alto volumen. Como el rendimiento varió entre aplicaciones, obtener estos beneficios requiere un despliegue dirigido y una optimización continua a medida que evolucionan los flujos de trabajo clínicos.”"
+        }
+      ]
+    },
+    "medicine/synsight-synthetic-rdt": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Las pruebas de diagnóstico rápido (RDTs) facilitan un diagnóstico asequible de enfermedades. El aprendizaje automático (ML) puede mejorar la interpretación de las RDT, pero a menudo depende de bibliotecas de imágenes reales grandes, privadas y costosas."
+        },
+        {
+          "t": "p",
+          "x": "Presentamos SynSight, una canalización ML-enabled de segmentación y clasificación de RDT entrenada con datos sintéticos. Validado en pruebas de HIV (98% de sensibilidad, 99% de especificidad) y en RDTs de COVID-19 (hasta 99% de exactitud), SynSight permite un entrenamiento rápido de ML sin imágenes reales de entrenamiento, al ritmo del desarrollo de nuevas RDT."
+        }
+      ]
+    },
+    "medicine/google-gemini-healthcare-preview": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2246672936.jpg?VersionId=AZn1m8lIjRQA5JQfMXNbwPJTuF9F9QrJ"
+        },
+        {
+          "t": "p",
+          "x": "Google lanzó el martes Gemini for healthcare, una plataforma agéntica de inteligencia artificial pensada para conectar los complejos flujos de trabajo clínicos, financieros y administrativos que usan proveedores de salud y aseguradoras. Se desarrolló junto a líderes clínicos y de planes de salud, y está diseñada para facilitar el cumplimiento de HIPAA."
+        },
+        {
+          "t": "p",
+          "x": "“El desafío fundamental en la salud no es la falta de información, sino la enorme fricción para convertir esos datos en acciones dentro de un ecosistema altamente regulado”, afirmó Thomas Kurian, CEO de Google Cloud."
+        },
+        {
+          "t": "p",
+          "x": "El sistema “integrado y totalmente gobernado” tiene cuatro componentes principales: habilidades para el trabajo sanitario, conectores a sistemas administrativos, un ecosistema abierto de socios de salud y una plataforma segura y gobernada con libre elección de modelo. Se integra con EHRs, sistemas de facturación, guías clínicas, codificación y conjuntos de datos de CMS."
+        },
+        {
+          "t": "p",
+          "x": "Gemini for healthcare está disponible en vista previa desde el 10 de noviembre para clientes de Gemini Enterprise Standard y Plus. Entre los socios figuran GoodRx, Epic, IMO Health, Oracle Health, Infinitus y Suki; los sistemas de salud HCA Healthcare y Northwell Health también se aliaron con Google para el lanzamiento."
+        },
+        {
+          "t": "p",
+          "x": "Michael Schlosser, M.D., de HCA, dijo que la compañía está “explorando cómo Gemini puede interpretar y sintetizar información compleja de pacientes procedente de múltiples sistemas de historia clínica electrónica y entornos de atención”."
+        }
+      ]
     }
   }
 }

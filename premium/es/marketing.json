@@ -4281,6 +4281,131 @@
           "x": "Los consumidores siguen tibios ante la idea: casi la mitad (49%) de los británicos ve de forma negativa a los actores AI-generated en anuncios, según YouGov. Reed dijo que el sistema es una extensión de la «paleta» de Ogilvy y que «detrás hay oficio humano y una persona»."
         }
       ]
+    },
+    "marketing/mrc-ai-measurement-draft": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/size/w2000/2026/11/mrc-ai-measurement-standards-q1-2027-draft-7-rulebooks-standard-weights-case-paper-template.jpg",
+          "cap": "El borrador de normas de AI del MRC llega en Q1 2027, pero los auditores ya aplican 7 reglamentos y 9 principios"
+        },
+        {
+          "t": "p",
+          "x": "El Media Rating Council informó el 10 de noviembre de 2026 que la primera fase de su borrador de normas sobre el uso de la inteligencia artificial en la medición de medios se someterá a comentarios públicos en el primer trimestre de 2027, y que una segunda fase llegará hacia mid-2027. Es más tarde de lo que preveía su guía del 8 de julio de 2026, que esperaba concluir “a lo largo de 2026 y a principios de 2027”."
+        },
+        {
+          "t": "p",
+          "x": "Hasta entonces, esa guía de 13 páginas vincula siete normas y directrices vigentes del MRC con nueve principios de AI en 58 entradas de anexo: requisitos que los auditores ya aplican, desde la divulgación de las tasas de error de los modelos hasta la importancia de las variables y las fichas de modelo en las subastas."
+        },
+        {
+          "t": "p",
+          "x": "Las nuevas reglas abarcarán la gobernanza de modelos, el tráfico inválido, la seguridad de marca, la “medición base de anuncios estructurados y conversacionales en LLM”, las audiencias simuladas y sintéticas y la transparencia de las subastas. El MRC señala zonas grises como la “validez agéntica” (agentic validity) —si que un agente cargue una página significa que una persona vio el anuncio—, las respuestas zero-click y los rastreadores de AI que pueden hacer que el tráfico de los editores se clasifique como inválido."
+        }
+      ]
+    },
+    "marketing/reddit-qloo-targeting": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.adexchanger.com/wp-content/uploads/2026/11/shutterstock_2735591353-1024x746.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "Reddit anunció el martes una alianza con la empresa de inferencia predictiva Qloo (que se pronuncia “clue”), que le da acceso a más de 10 años de datos propios de Qloo para mostrar anuncios más relevantes. El catálogo de Qloo registra correlaciones entre intereses, o “entidades”, como restaurantes y artistas musicales, a partir de atributos compartidos extraídos de reseñas de TasteDive, metadatos de Wikidata y datos de terceros con licencia."
+        },
+        {
+          "t": "p",
+          "x": "Encontrar atributos compartidos que no resultan evidentes a primera vista es la razón por la que Reddit se asoció con Qloo, explicó Virgilio Pigliucci, director sénior de ingeniería de Reddit. Quien busca una cafetera espresso a menudo también quiere una mesa para ella, así que Reddit podría mostrar un anuncio de un escritorio alto en un hilo sobre cafeteras."
+        },
+        {
+          "t": "p",
+          "x": "Optimizar la campaña de un anunciante nuevo solía requerir días o semanas de datos de interacción. Ahora Reddit puede “optimizar en función de las señales” de Qloo, y el modelo establece correlaciones sin conocer la búsqueda, el historial de navegación ni el subreddit del usuario, por lo que los anunciantes ven resultados “de inmediato”."
+        }
+      ]
+    },
+    "marketing/daangn-chatgpt-ads-api": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.hankyung.com/photo/202611/AA.46366592.1.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "La plataforma de vida local Daangn ha empezado a automatizar la gestión de anuncios con inteligencia artificial (AI). Tras presentar una función que permite analizar el rendimiento publicitario desde servicios de AI externos como ChatGPT y Claude, abrió una interfaz de programación de aplicaciones (API) que también permite registrar y modificar anuncios."
+        },
+        {
+          "t": "p",
+          "x": "Según fuentes del sector citadas el día 9, Daangn está mejorando el ‘Protocolo de Contexto de Modelo (MCP) para anuncios’ que lanzó para anunciantes en septiembre. MCP es una tecnología que ayuda a los modelos y agentes de AI a conectarse con sistemas externos para consultar datos o realizar tareas."
+        },
+        {
+          "t": "p",
+          "x": "Con el MCP de anuncios de Daangn, el anunciante puede conectar su cuenta publicitaria de Daangn a la AI que usa habitualmente y revisar en lenguaje natural el estado y el rendimiento de sus anuncios. Si pregunta “Resume el rendimiento de mis anuncios de los últimos 7 días”, la AI extrae y ordena los datos de la cuenta. Se pueden consultar y comparar la cuenta y el saldo, los anuncios activos y el rendimiento por periodo."
+        },
+        {
+          "t": "p",
+          "x": "Daangn también lanzó el mes pasado una versión beta de su Open API de anuncios, que permite a sistemas externos llamar directamente a las funciones publicitarias de Daangn. Desde herramientas propias de gestión publicitaria o paneles internos se pueden consultar, registrar o modificar campañas, grupos de anuncios y creatividades."
+        },
+        {
+          "t": "p",
+          "x": "El cambio responde a que muchos de los principales anunciantes de Daangn son pequeños comerciantes con poca experiencia en la gestión de anuncios. El cálculo es que, si se les ayuda a mejorar el rendimiento con solo preguntar a la AI que ya usan, publicarán más anuncios en Daangn."
+        },
+        {
+          "t": "p",
+          "x": "Kakao también iniciará el mes próximo una beta cerrada de ‘AI Crew’, un agente de AI que ayuda a los anunciantes a contratar y gestionar sus anuncios. AI Crew es un servicio en el que el anunciante introduce sus objetivos de negocio en una interfaz conversacional y la AI le propone productos publicitarios y estrategias de gestión adecuados."
+        }
+      ]
+    },
+    "marketing/united-ai-agent-ban": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23176430/1237621702.jpg?quality=90&strip=all&crop=0.014236902050115%2C0%2C99.9715261959%2C100&w=2400",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "United afirma que no permitirá que los asistentes personales de AI reserven billetes en la aerolínea, por motivos tanto de privacidad como regulatorios."
+        },
+        {
+          "t": "p",
+          "x": "La compañía dice que aún no ha visto a mucha gente intentar usar agentes de AI para reservar vuelos, según informa The Wall Street Journal, en línea con lo observado por otras empresas como Doordash. Pero a United le preocupa que los agentes puedan exponer información de los clientes o hacer compras que estos no pretendían, y que puedan eludir normas federales sobre la información que las aerolíneas deben compartir con los clientes, como pedirles que declaren que su equipaje no contiene explosivos."
+        },
+        {
+          "t": "p",
+          "x": "Aunque los agentes podrán seguir mostrando vuelos de United a los usuarios, no podrán completar la transacción en su nombre. Esta decisión, y otras similares, podría limitar la utilidad potencial de los nuevos asistentes personales de AI, como Muse de Meta y Dots de OpenAI. “Para ser sincero, no quiero crear otro intermediario”, dijo el CEO de United, Scott Kirby, en un evento el martes, según el Journal."
+        },
+        {
+          "t": "p",
+          "x": "En todos los sectores, las empresas debaten si permitir que los agentes de AI realicen transacciones en sus sitios, y United no es la única que bloquea el acceso a agentes no autorizados. eBay pareció impedir que los agentes navegaran por su sitio, y varios grandes bancos también les han impuesto restricciones. United sugiere que podría reconsiderar su decisión según los avances futuros. “A medida que avanzan los agentes de AI de terceros, vemos las oportunidades que ofrecen. Sin embargo, al mismo tiempo, permitirles interactuar directamente con una cuenta o una reserva de United podría implicar acciones delicadas, y queremos asegurarnos primero de haber establecido protecciones para los viajeros.”"
+        }
+      ]
+    },
+    "marketing/openai-chatgpt-business-agents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://digiday.com/wp-content/uploads/sites/3/2026/08/open-AI-digiday.jpg?w=1030&h=579&crop=1",
+          "cap": "Ivy Liu"
+        },
+        {
+          "t": "p",
+          "x": "Las empresas ya pueden reclamar un perfil en ChatGPT mediante un nuevo Business Hub, verificarse y cargar datos de sus productos y de la compañía. En U.S. (por ahora), las empresas de comercio electrónico y servicios en línea también pueden publicar un agente de empresa: un chat etiquetado por separado que habla en nombre de la marca cuando un usuario quiere profundizar en un producto."
+        },
+        {
+          "t": "p",
+          "x": "Benji Shomair, vp de monetización de OpenAI, dijo que el agente de empresa es la vía gratuita y orgánica hacia un formato que OpenAI empezó a probar como anuncio de pago en septiembre. “Piensen en el agente de empresa como la experiencia orgánica”, dijo. “El agente patrocinado es la experiencia de pago, pero el agente que está detrás debería ser el mismo”."
+        },
+        {
+          "t": "p",
+          "x": "Cuando el comprador está listo para pagar, el agente lo envía al sitio propio de la marca. Las marcas reciben temas de conversación en lugar de transcripciones y no pueden usar sus propios agentes. La beta de Insights de Business Hub muestra menciones, visualizaciones y clics al sitio web, además de temas de descubrimiento; “Las empresas no ven prompts ni chats individuales”, dijo un portavoz."
+        },
+        {
+          "t": "p",
+          "x": "Debra Aho Williamson, de Sonata Insights, dijo que el hecho de que OpenAI comparta los datos por sí misma “quitará parte del poder a las empresas externas”. Business Hub y los agentes son gratuitos por ahora, y Shomair dijo que una empresa “no debería influir en la frecuencia con la que aparece”."
+        }
+      ]
     }
   }
 }

@@ -1,102 +1,107 @@
 {
-  "date": "2026-11-11",
+  "date": "2026-11-12",
   "section": "design",
   "user_selection": null,
   "items": [
     {
-      "title": "Adobe Powers a New Era of Creativity, Bringing Agents and Tools to Creatives Wherever and However They Create",
-      "url": "https://news.adobe.com/news/2026/11/adobe-powers-new-era-of-creativity",
-      "source": "Adobe Newsroom",
-      "category": "workflow",
-      "tool": "AI Workflow",
-      "accent": "#ff5a4d",
-      "motif": "frame",
-      "published_iso": "2026-11-10T10:05:00Z",
-      "og_image": "https://news.adobe.com/news/2026/11/media_194f62215cc674a3099d1a6f6b08199d16183a1ba.jpg?width=1200&format=pjpg&optimize=medium",
-      "excerpt": "Adobe MAX 2026 keynote release: Creative Agent expands across Firefly and Creative Cloud, a local MCP preview lets third-party agents edit native Photoshop/Illustrator/Premiere/After Effects files, Firefly Builder (private beta) turns prompts into on-brand interactive prototypes, plus Google and Microsoft partnerships.",
-      "rationale": "Primary-source umbrella for Adobe MAX 2026: agents across Creative Cloud, a local MCP for third-party agents and the Firefly Builder prototyping tool change how designers work in Adobe apps."
-    },
-    {
-      "title": "Adobe releases Photoshop 28.0",
-      "url": "https://www.cgchannel.com/2026/11/adobe-releases-photoshop-28-0/",
-      "source": "CG Channel",
+      "rank": 1,
+      "title": "Bytedance's Seedream 5.5 promises pixel-stable image editing across 100 rounds without color drift",
+      "url": "https://the-decoder.com/bytedances-seedream-5-5-promises-pixel-stable-image-editing-across-100-rounds-without-color-drift/",
+      "source": "The Decoder",
       "category": "render",
       "tool": "KeyShot",
       "accent": "#f5a623",
       "motif": "sphere",
-      "published_iso": "2026-11-10T14:30:18+00:00",
-      "og_image": "https://www.cgchannel.com/wp-content/uploads/2026/11/261110_Photoshop28_f-960x480.jpg",
-      "excerpt": "Big Photoshop update adds eye-catching AI relighting, trace erase and Generative Recompose; CG Channel details how the features work. (Time from RSS.)",
-      "rationale": "A separate concrete release from the keynote. It covers the specific Photoshop 28 AI tools (relighting, trace erase, Generative Recompose) that retouchers can use right away."
+      "published_iso": "2026-11-09T18:50:01Z",
+      "og_image": "https://the-decoder.com/wp-content/uploads/2026/11/seedance_examples-1200x603.png",
+      "excerpt": "ByteDance Seed's Seedream 5.5 targets production workflows: stable multi-pass editing up to 100 iterations, native RGBA output with transparent backgrounds, rolling out across Dreamina and CapCut.",
+      "rationale": "New image-model release aimed squarely at production editing: 100-round edits without color drift plus native RGBA/transparent output change how designers iterate on assets."
     },
     {
-      "title": "Open your apps in Claude and work in them together",
-      "url": "https://claude.com/resources/articles/interactive-connectors-full-tool",
-      "source": "Claude",
-      "category": "figma",
-      "tool": "Figma",
-      "accent": "#0070f3",
+      "rank": 2,
+      "title": "Is ArtStation's new AI art policy good enough?",
+      "url": "https://www.creativebloq.com/news/is-artstations-new-ai-art-policy-good-enough",
+      "source": "Creative Bloq",
+      "category": "workflow",
+      "tool": "AI Workflow",
+      "accent": "#ff5a4d",
       "motif": "frame",
-      "published_iso": "2026-11-10T00:00:00Z",
-      "og_image": "https://claude.com/resources/articles/interactive-connectors-full-tool/opengraph-image/og",
-      "excerpt": "Claude's interactive connectors (built on MCP Apps) now open beside the chat or full screen: Adobe for photo retouching/effects, Canva, Webflow, Vercel and others, with Figma and Shopify building integrations. (Date-only in JSON-LD.)",
-      "rationale": "Design tools such as Adobe, Canva and Webflow now run as full interactive surfaces inside Claude, so designers can edit in the chat instead of switching apps."
+      "published_iso": "2026-11-10T17:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/dGgCUgM9B78DhMFiK75VbZ-1200-80.webp",
+      "excerpt": "ArtStation's new rules for AI-generated art try to balance artist protection and disclosure; Creative Bloq weighs whether the policy goes far enough for working creatives.",
+      "rationale": "New disclosure/labeling rules on the main portfolio platform for concept artists and 3D designers directly affect how they post and present work (assigned to design by the run brief)."
     },
     {
-      "title": "Adobe releases After Effects 27.0",
-      "url": "https://www.cgchannel.com/2026/11/adobe-releases-after-effects-27-0/",
-      "source": "CG Channel",
-      "category": "render",
-      "tool": "KeyShot",
-      "accent": "#eb367f",
-      "motif": "sphere",
-      "published_iso": "2026-11-10T16:56:07+00:00",
-      "og_image": "https://www.cgchannel.com/wp-content/uploads/2026/11/261110_AfterEffects27_f-960x480.jpg",
-      "excerpt": "After Effects 27.0 brings changes to the 3D toolset and a new agentic AI Assistant for compositing and motion graphics work. (Time from RSS.)",
-      "rationale": "A versioned product release separate from the keynote and the Photoshop pick. Motion designers get an agentic AI Assistant inside After Effects plus 3D toolset changes they can use in their next comp."
-    },
-    {
-      "title": "Trimble expands AI capabilities across construction lifecycle",
-      "url": "https://www.engineering.com/trimble-expands-ai-capabilities-across-construction-lifecycle/",
+      "rank": 3,
+      "title": "Siemens adds agentic AI to HyperLynx verification workflows",
+      "url": "https://www.engineering.com/siemens-adds-agentic-ai-to-hyperlynx-verification-workflows/",
       "source": "Engineering.com",
       "category": "cad",
       "tool": "Text-to-CAD",
       "accent": "#7928ca",
       "motif": "cube",
-      "published_iso": "2026-11-10T10:57:24+00:00",
-      "og_image": "https://www.engineering.com/wp-content/uploads/2025/11/Trimble-logo.png",
-      "excerpt": "Trimble adds AI tools spanning generative design, jobsite diagnostics, automated inspections and contract risk analysis, with AI agents in Trimble Connect and governance features.",
-      "rationale": "Brings generative design and AI agents in Trimble Connect to AEC designers, adding a CAD/AEC pick next to the Adobe-heavy creative-tools news."
+      "published_iso": "2026-11-11T14:11:42Z",
+      "og_image": null,
+      "excerpt": "Siemens' new agentic toolkit lets PCB designers run SerDes, DDR, signal- and power-integrity analysis in HyperLynx from natural-language prompts.",
+      "rationale": "Concrete product release: natural-language agents driving SI/PI verification in HyperLynx, a different tool and workflow from the 10-25 Siemens 3D IC card."
+    },
+    {
+      "rank": 4,
+      "title": "AI prototyping inside your design system: a hands-on guide for design & product teams",
+      "url": "https://uxdesign.cc/ai-prototyping-inside-your-design-system-a-hands-on-guide-for-design-product-teams-44825904c08d",
+      "source": "UX Collective",
+      "category": "tokens",
+      "tool": "Design Tokens",
+      "accent": "#2ec5c5",
+      "motif": "swatch",
+      "published_iso": "2026-11-10T23:34:58Z",
+      "og_image": "https://cdn-images-1.medium.com/max/1024/0*GVeuczf4PnCJn95b.jpeg",
+      "excerpt": "Why AI builders hand back a lookalike instead of your real components, what has to exist in a design system before an agent can use it, and the MCP setup the author uses for in-system prototyping.",
+      "rationale": "Highly actionable: a checklist of what a design system needs before agents can prototype with real components, plus a concrete MCP setup teams can copy tomorrow."
+    },
+    {
+      "rank": 5,
+      "title": "Config India 2026: What changed when designers started shipping code",
+      "url": "https://www.youtube.com/watch?v=3EbdkzGwL7c",
+      "source": "Figma (YouTube)",
+      "category": "social",
+      "tool": "Social",
+      "accent": "#ff2d55",
+      "motif": "frame",
+      "published_iso": "2026-11-11T15:24:45Z",
+      "og_image": "https://i.ytimg.com/vi/3EbdkzGwL7c/maxresdefault.jpg",
+      "excerpt": "Freshworks' Sascha Trinkaus on connecting its design system to code so designers can ship, and what happens when they ship faster than teams can judge the ideas.",
+      "rationale": "Fresh Config India case study from a large product org (Freshworks) on designers shipping code, including the downside of shipping faster than teams can evaluate ideas."
     }
   ],
   "dedup": {
     "checks": {
-      "https://news.adobe.com/news/2026/11/adobe-powers-new-era-of-creativity": {
+      "https://the-decoder.com/bytedances-seedream-5-5-promises-pixel-stable-image-editing-across-100-rounds-without-color-drift/": {
         "verdict": "new",
-        "nearest": "https://nvidianews.nvidia.com/news/adobe-and-nvidia-expand-collaboration-to-speed-agentic-creation",
+        "nearest": "",
         "new_action": ""
       },
-      "https://www.cgchannel.com/2026/11/adobe-releases-photoshop-28-0/": {
+      "https://www.creativebloq.com/news/is-artstations-new-ai-art-policy-good-enough": {
         "verdict": "new",
-        "nearest": "https://the-decoder.com/adobe-is-testing-how-well-ai-agents-can-use-editing-tools-like-a-photoshop-professional-would/",
+        "nearest": "https://www.creativebloq.com/news/etsys-crackdown-on-ai-slop-is-welcome-but-it-shows-how-far-things-have-slipped",
         "new_action": ""
       },
-      "https://claude.com/resources/articles/interactive-connectors-full-tool": {
-        "verdict": "new",
-        "nearest": "https://www.figma.com/blog/design-together-with-code-layers/",
-        "new_action": ""
-      },
-      "https://www.cgchannel.com/2026/11/adobe-releases-after-effects-27-0/": {
-        "verdict": "new",
-        "nearest": "https://nvidianews.nvidia.com/news/adobe-and-nvidia-expand-collaboration-to-speed-agentic-creation",
-        "new_action": ""
-      },
-      "https://www.engineering.com/trimble-expands-ai-capabilities-across-construction-lifecycle/": {
+      "https://www.engineering.com/siemens-adds-agentic-ai-to-hyperlynx-verification-workflows/": {
         "verdict": "new",
         "nearest": "https://www.engineering.com/siemens-expands-agentic-ai-for-3d-ic-design-workflows/",
         "new_action": ""
+      },
+      "https://uxdesign.cc/ai-prototyping-inside-your-design-system-a-hands-on-guide-for-design-product-teams-44825904c08d": {
+        "verdict": "new",
+        "nearest": "https://uxdesign.cc/building-an-ai-ready-design-system-library-code-figma-with-mcp-ec5d9e8c90d2",
+        "new_action": ""
+      },
+      "https://www.youtube.com/watch?v=3EbdkzGwL7c": {
+        "verdict": "new",
+        "nearest": "https://www.figma.com/blog/build-by-design/",
+        "new_action": ""
       }
     },
-    "note": "SECOND SWAP: Animaj FlipMove (awn.com/news/animaj-unveils-flipmove-ai-animation-workflow) was removed because movies already published the same story on 2026-11-06 (senalnews.com/en/content/animaj-unveiled-flipmove-an-artist-led-ai-animation-workflow, id movies-animaj-flipmove). Its dedup entry is also removed. The replacement is CG Channel 'Adobe releases After Effects 27.0', taken under the orchestrator's lifted Adobe cap. It is its own versioned release (an agentic AI Assistant for compositing and motion graphics, plus 3D toolset changes) and is not a retelling of the keynote or of Photoshop 28. It is not Premiere-centric. Its history_match (NVIDIA-Adobe collaboration, 2026-10-18) is a different, earlier event. It takes the freed render slot and the #eb367f accent. CG Channel now has 2 cards, which is within the per-outlet cap, and 4 distinct outlets remain. The Creative Bloq Google/DeepMind Photoshop piece was rejected: it is exploratory with no release date, and the umbrella keynote pick already covers the Google partnership. The orchestrator should exact-grep published_urls.json across all sections for the After Effects 27.0 URL. TRIMBLE: roll's story gate matched it to Siemens 3D-IC agentic AI (engineering.com, 2026-10-25, score 0.157). They are different stories from different vendors in different domains: Siemens is EDA/semiconductor packaging design, and Trimble is construction-lifecycle AI (generative design, jobsite diagnostics, Trimble Connect agents). The overlap is only the shared outlet and the 'expands AI' headline wording, so the verdict is new. PRIOR SWAP: Framestore x Sky hybrid AI/VFX was removed because it was already published on 2026-11-10 in another section. Original note: Adobe MAX cluster c1: kept the Adobe Newsroom primary. Dropped the Firefly-expands newsroom post, TechCrunch and The Verge 'all in on agentic AI' as the same keynote, and the Adobe YouTube AI Assistant and Illustrator/InDesign videos (cluster c11) as keynote retellings. The Verge removal rundown and Creative Bloq Photoshop 2027 duplicate the Photoshop 28 pick. Creative Bloq Premiere agent: Premiere-centric, so it goes to movies. UE 5.9 Preview goes to games only per the brief. Also rejected: OctaneRender 2027.1 (originally posted in March, no og_image), Kuken/OpenAI (case study, no image), Creality mBox (AI depth unverified), Figma '6 easy ways' (evergreen) and Claude Sheets/Whiteboards (same Claude hub drop as the connectors pick)."
+    "note": "Dropped as duplicates: 'Learn Figma Weave in 9 minutes' (YouTube; likely-repeat of 11-03 'The TL;DR on Figma Weave'); '6 easy ways to use the Figma agent' (another how-to on the Figma agent already covered 10-24/10-28/11-06); 'Adobe's Google partnership' (Creative Bloq; Gemini/Drive integration is part of the 11-11 Adobe MAX announcement card, not a new development). Excluded by run brief cross-section assignments: Tripo Tripothon (games), Animaj FlipMove (published in movies 11-06), Layer Motion Designer Agent. Not chosen on fit or score: robotics items (Runway Praxis-1, Gemini Robotics 2.5, NVIDIA CoRL; physical-AI, not design tools), Google Tabletop (overlaps 11-07 Meta Muse spaces theme), MiniMax H3 on Vercel (second render pick, gateway availability only), Creative Bloq AI video comparison (evergreen buyer's guide), Engineering.com CAD clones (opinion), Kuken/OpenAI (customer case study), Creality mBox (kids' printer, gadgets-adjacent, near 11-08 AI printer card), Dezeen Mori lamp (gadgets-adjacent), UXC Crumlish interview (essay). Seedream 5.5 vs 11-09 'Seedance 2.5 | Adobe Firefly': different model (image editing vs video), not the same story. Caveat: published_urls.json (4k lines) could not be exact-grepped from this agent (no shell); cross-section clearance relies on the run brief assignments and should be confirmed by the orchestrator's grep before roll."
   }
 }

@@ -1,214 +1,43 @@
 {
   "section": "marketing",
-  "now_iso": "2026-11-10T22:00:35Z",
+  "now_iso": "2026-11-11T22:00:41Z",
   "window_hours": 72,
   "items": [
     {
-      "title": "Google Expands Ads In AI Mode To 10+ Countries, Adds Multiturn Ads",
-      "url": "https://www.searchenginejournal.com/google-expands-ads-in-ai-mode-multiturn-ads/596540/",
-      "source": "Search Engine Journal",
+      "title": "AppsFlyer tests agent that changes Apple Ads bids once marketers approve",
+      "url": "https://ppc.land/appsflyer-tests-agent-that-changes-apple-ads-bids-once-marketers-approve/",
+      "source": "PPC Land",
       "category": "marketing",
-      "published_iso": "2026-11-10T19:08:34+00:00",
-      "excerpt": "Google is expanding ads in AI Mode to 10+ English-language countries and launching multiturn ads (ads on follow-up queries) in the U.S., with notes on what PPC advertisers get in reporting.",
-      "og_image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-ai-mode-goes-global-112.png",
+      "published_iso": "2026-11-11T20:44:50Z",
+      "excerpt": "AppsFlyer is testing, in closed beta, an AI agent that changes Apple Ads keyword bids based on estimated share of voice per keyword and geo once app marketers approve; four MCP tools add fraud data.",
+      "og_image": "https://ppc.land/content/images/2026/11/appsflyer-apple-ads-share-of-voice-agent-bids-after-approval-vu-meter-arm-volume-knob-pull-cord.jpg",
       "history_match": {
-        "score": 0.303,
-        "date": "2026-10-29",
-        "url": "https://blog.google/products/ads-commerce/ads-in-ai-mode-global/",
-        "title": "Ads in AI Mode expand to new markets.",
+        "score": 0.188,
+        "date": "2026-11-09",
+        "url": "https://ppc.land/apple-patent-describes-ai-that-repaints-app-screenshots-per-keyword/",
+        "title": "Apple patent describes AI that repaints app screenshots per keyword",
         "band": "related"
       }
     },
     {
-      "title": "Google Ads Tests A Weekly AI Report Card For Your Ad Creative",
-      "url": "https://www.searchenginejournal.com/google-ads-tests-asset-activity-page-with-weekly-ai-insights/596442/",
-      "source": "Search Engine Journal",
+      "title": "Media Rating Council sets Q1 2027 draft for first AI measurement standards",
+      "url": "https://ppc.land/media-rating-council-sets-q1-2027-draft-for-first-ai-measurement-standards/",
+      "source": "PPC Land",
       "category": "marketing",
-      "published_iso": "2026-11-09T16:30:00+00:00",
-      "excerpt": "Some Google Ads accounts show an Asset activity page that uses AI to deliver weekly insight cards on ad creative, including headline ideas to test.",
-      "og_image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-ads-asset-activity-featured-1600x840-1.jpg",
-      "history_match": {
-        "score": 0.234,
-        "date": "2026-10-13",
-        "url": "https://www.seroundtable.com/google-ai-ads-goals-and-assets-42269.html",
-        "title": "Google Ads Testing Google AI For Goals & Assets",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Meta Paused Its New Business Terms, And Businesses Should Plan As If It Never Gets Better",
-      "url": "https://www.searchenginejournal.com/meta-paused-its-new-business-terms-and-businesses-should-plan-as-if-it-never-gets-better/596343/",
-      "source": "Search Engine Journal",
-      "category": "marketing",
-      "published_iso": "2026-11-10T20:00:25+00:00",
-      "excerpt": "Meta removed 'train' from the crawl clause of its updated business and ad terms, kept 'develop', then paused the Nov. 20 terms entirely after advertiser pushback over AI use of business website content.",
-      "og_image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/meta-paused-255.png",
-      "history_match": {
-        "score": 0.245,
-        "date": "2026-10-17",
-        "url": "https://www.searchenginejournal.com/metas-new-terms-expand-crawling-rights-beyond-advertisers/593217/",
-        "title": "Meta's New Terms Expand Crawling Rights Beyond Advertisers",
-        "band": "related"
-      }
-    },
-    {
-      "title": "ChatGPT Ads While It Creates Your Image Live",
-      "url": "https://www.seroundtable.com/openai-chatgpt-ads-visual-ads-42493.html",
-      "source": "Search Engine Roundtable",
-      "category": "marketing",
-      "published_iso": "2026-11-10T05:45:00-05:00",
-      "excerpt": "OpenAI's promised visual ad format appears live: when users ask ChatGPT to make an image, an ad is shown while the image is being generated.",
-      "og_image": "https://images.seroundtable.com/visual-chatgpt-ads-while-you-wait-RyeRh5de.png",
-      "history_match": {
-        "score": 0.269,
-        "date": "2026-11-02",
-        "url": "https://www.seroundtable.com/chatgpt-ads-update-42427.html",
-        "title": "OpenAI's ChatGPT Gets Wider Ads, Multi-Image Ads Expands, Expansion & More",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Businesses in ChatGPT Business Hub Live With Click Data",
-      "url": "https://www.seroundtable.com/chatgpt-business-hub-42505.html",
-      "source": "Search Engine Roundtable",
-      "category": "marketing",
-      "published_iso": "2026-11-10T13:45:00-05:00",
-      "excerpt": "OpenAI launched Businesses in ChatGPT, a hub giving brands analytics on mentions, profile views and clicks from ChatGPT to their websites.",
-      "og_image": "https://images.seroundtable.com/businesses-in-chatgpt-business-insights-1-ErqPCkhI.webp",
-      "history_match": {
-        "score": 0.199,
-        "date": "2026-10-29",
-        "url": "https://ppc.land/stackadapt-lets-advertisers-retarget-chatgpt-ad-viewers-on-ctv-and-display/",
-        "title": "StackAdapt lets advertisers retarget ChatGPT ad viewers on CTV and display",
-        "band": "related"
-      }
-    },
-    {
-      "title": "OpenAI's new business agents give brands a free way into the conversation it's also selling as an ad",
-      "url": "https://digiday.com/marketing/openais-new-business-agents-give-brands-a-free-way-into-the-conversation-its-also-selling-as-an-ad/",
-      "source": "Digiday",
-      "category": "marketing",
-      "published_iso": "2026-11-10T18:00:00+00:00",
-      "excerpt": "OpenAI is giving brands a free route into ChatGPT conversations through verified business agents, while keeping control of the data and recommendations it also monetizes through ads.",
-      "og_image": "https://digiday.com/wp-content/uploads/sites/3/2026/08/open-AI-digiday.jpg"
-    },
-    {
-      "title": "Ad Tech Briefing: Amazon's auction trial puts agentic advertising's trust problem in focus",
-      "url": "https://digiday.com/media-buying/ad-tech-briefing-amazons-auction-trial-puts-agentic-advertisings-trust-problem-in-focus/",
-      "source": "Digiday",
-      "category": "marketing",
-      "published_iso": "2026-11-10T05:01:00+00:00",
-      "excerpt": "Unsealed FTC allegations over Amazon Ads' auction practices sharpen questions about trusting Big Tech black boxes as buyers hand bidding to AI agents.",
-      "og_image": "https://digiday.com/wp-content/uploads/sites/3/2025/10/amazon-google-digiday.png",
-      "history_match": {
-        "score": 0.162,
-        "date": "2026-11-04",
-        "url": "https://digiday.com/media-buying/ad-tech-briefing-googles-ai-reckoning/",
-        "title": "Ad Tech Briefing: Google's AI-reckoning",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Amid Holiday Commerce Push, Reddit Tests an AI-Powered Product Review Portal",
-      "url": "https://www.adweek.com/commerce/amid-holiday-commerce-push-reddit-tests-an-ai-powered-product-review-portal/",
-      "source": "ADWEEK",
-      "category": "marketing",
-      "published_iso": "2026-11-10T10:00:00-05:00",
-      "excerpt": "Reddit is testing product review pages that use AI to compile product discussions from across the platform, part of its holiday commerce and shopping-ads push.",
-      "og_image": "https://static-www.adweek.com/wp-content/uploads/2026/11/Reddit-Reviews.jpg?w=600&h=315&crop=1",
-      "history_match": {
-        "score": 0.202,
-        "date": "2026-10-13",
-        "url": "https://retailtechinnovationhub.com/home/2026/10/11/first-for-thg-commerce-as-it-brings-criteo-sponsored-products-to-ai-shopping-assistant-solution",
-        "title": "First for THG Commerce as company brings Criteo Sponsored Products to AI Shopping Assistant solution",
-        "band": "related"
-      }
-    },
-    {
-      "title": "OpenAI Gives Brands Some Data About How They Appear in ChatGPT",
-      "url": "https://www.adweek.com/commerce/openai-gives-brands-some-data-about-how-they-appear-in-chatgpt/",
-      "source": "ADWEEK",
-      "category": "marketing",
-      "published_iso": "2026-11-10T13:00:00-05:00",
-      "excerpt": "OpenAI's new business tool shows brands how they appear in ChatGPT, competing with the sprawling industry of GEO specialists.",
-      "og_image": "https://static-www.adweek.com/wp-content/uploads/2026/11/ChatGPT-business.jpg?w=600&h=315&crop=1",
-      "history_match": {
-        "score": 0.19,
-        "date": "2026-10-27",
-        "url": "https://www.seroundtable.com/chatgpt-ads-learn-more-amazon-dsp-42371.html",
-        "title": "ChatGPT Ads With Learn More Arrow Link - Some Through Amazon DSP",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Shopify Noses Further Into Ad Tech With Campaign Autopilot Expansion",
-      "url": "https://www.adexchanger.com/commerce/shopifyautopilot/",
-      "source": "AdExchanger",
-      "category": "marketing",
-      "published_iso": "2026-11-10T13:38:42+00:00",
-      "excerpt": "Shopify is expanding its AI-driven Campaign Autopilot ad product, using its first-party merchant data to push further into retail-media-style advertising.",
-      "og_image": "https://www.adexchanger.com/wp-content/uploads/2026/04/online-shopping_package-delivery_comic-e1678292494241.jpeg",
-      "history_match": {
-        "score": 0.162,
-        "date": "2026-10-14",
-        "url": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
-        "title": "Shopify opens its catalog up to more AI agents",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Reddit Taps Qloo To Strengthen Its Predictive Targeting",
-      "url": "https://www.adexchanger.com/marketers/reddit-taps-qloo-to-strengthen-its-predictive-targeting/",
-      "source": "AdExchanger",
-      "category": "marketing",
-      "published_iso": "2026-11-10T14:00:12+00:00",
-      "excerpt": "Through a partnership with Qloo's taste-correlation AI model, Reddit will target users with relevant ads based on correlated interests without needing search queries or browsing history.",
-      "og_image": "https://www.adexchanger.com/wp-content/uploads/2026/11/shutterstock_2735591353-scaled.jpg"
-    },
-    {
-      "title": "TIME's AI Agents Do The Coordinating, And Its Sellers Still Do The Selling",
-      "url": "https://www.adexchanger.com/ai/times-ai-agents-do-the-coordinating-and-its-sellers-still-do-the-selling/",
-      "source": "AdExchanger",
-      "category": "marketing",
-      "published_iso": "2026-11-09T06:00:52+00:00",
-      "excerpt": "TIME is using Kana's AI agents to draft ad proposals and troubleshoot campaigns, but not to replace the human relationships that drive ad sales.",
-      "og_image": "https://www.adexchanger.com/wp-content/uploads/2026/11/robots.jpg",
-      "history_match": {
-        "score": 0.155,
-        "date": "2026-10-30",
-        "url": "https://ppc.land/triton-digitals-seller-agent-books-otrium-audio-campaign-in-minutes/",
-        "title": "Triton Digital's seller agent books Otrium audio campaign in minutes",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Priceline's AI agent Penny lands in Snapchat ads amid holiday rush",
-      "url": "https://www.marketingdive.com/news/pricelines-ai-agent-penny-lands-in-snapchat-ads-amid-holiday-rush/874247/",
-      "source": "Marketing Dive",
-      "category": "marketing",
-      "published_iso": "2026-11-10T10:13:24-05:00",
-      "excerpt": "Priceline is the first travel brand to use AI Sponsored Snaps, which let advertisers bring their own chatbots into Snapchat, putting its Penny AI agent in ads.",
-      "og_image": "https://imgproxy.divecdn.com/ow9_BkkJNagEUw51KebyuFOQQWULZxk_P4G9aa0Eaco/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzY4NDgzMTMxX2dlSklYQW8uanBn.webp"
-    },
-    {
-      "title": "Synthetic audiences fall short: What marketers need to know",
-      "url": "https://www.marketingdive.com/news/synthetic-audiences-fall-short-what-marketers-need-to-know/833664/",
-      "source": "Marketing Dive",
-      "category": "marketing",
-      "published_iso": "2026-11-10T09:30:00-05:00",
-      "excerpt": "AI-generated audience simulations may make it harder for brands to reach new audiences, argues RYA co-founder Mark Himmelsbach.",
-      "og_image": "https://imgproxy.divecdn.com/NYbUwXu9MLsSL-93v1h1v9MLcJ-76xV3bIKNzAmCq-w/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjY2MjcwODc2LmpwZw==.webp"
+      "published_iso": "2026-11-11T07:38:41Z",
+      "excerpt": "The MRC says a draft of its first AI-specific ad measurement standards will arrive in Q1 2027, with a second phase by mid-2027; AI use is meanwhile audited under 7 existing rulebooks and 9 principles.",
+      "og_image": "https://ppc.land/content/images/2026/11/mrc-ai-measurement-standards-q1-2027-draft-7-rulebooks-standard-weights-case-paper-template.jpg"
     },
     {
       "title": "Adobe and Pepsi ads ran on AI recipe sites with fake chefs, DecryptAds finds",
       "url": "https://ppc.land/adobe-and-pepsi-ads-ran-on-ai-recipe-sites-with-fake-chefs-decryptads-finds/",
       "source": "PPC Land",
       "category": "marketing",
-      "published_iso": "2026-11-09T20:26:15.000Z",
-      "excerpt": "DecryptAds found major-brand ads on 2,100+ AI-generated recipe sites with fake AI chefs; Italy's HBagency manages ads.txt for 1,631 of them, raising brand-safety and disclosure questions.",
+      "published_iso": "2026-11-09T20:26:15Z",
+      "excerpt": "DecryptAds found major-brand programmatic ads on 2,100+ AI-generated recipe sites fronted by fake AI chefs, with Italy's HBagency managing ads.txt for 1,631 of them and Ezoic for 407 - a brand-safety/MFA problem for buyers.",
       "og_image": "https://ppc.land/content/images/2026/11/decryptads-ai-recipe-sites-fake-chefs-hbagency-ezoic-96-face-hole-chef-boards-pinned-ad-cards.jpg",
       "history_match": {
-        "score": 0.233,
+        "score": 0.283,
         "date": "2026-10-21",
         "url": "https://www.adexchanger.com/programmatic/ai-slop-sites-are-on-the-rise-is-ad-tech-ready-for-its-new-mfa-challenge/",
         "title": "AI Slop Sites Are On The Rise. Is Ad Tech Ready For Its New MFA Challenge?",
@@ -216,68 +45,272 @@
       }
     },
     {
-      "title": "Brainlabs warns Meta's AI creative could leave brands unsure what worked",
-      "url": "https://ppc.land/brainlabs-warns-metas-ai-creative-could-leave-brands-unsure-what-worked/",
-      "source": "PPC Land",
+      "title": "Google Ads Now Runs In AI Mode Across 10 More Countries",
+      "url": "https://www.searchenginejournal.com/google-expands-ads-in-ai-mode-multiturn-ads/596540/",
+      "source": "Search Engine Journal",
       "category": "marketing",
-      "published_iso": "2026-11-09T19:56:30.000Z",
-      "excerpt": "As Muse Image heads to Advantage+ creative, Brainlabs warns that ceding ad creative to Meta's AI keeps creative learnings inside the walled garden.",
-      "og_image": "https://ppc.land/content/images/2026/11/brainlabs-meta-ai-creative-learnings-stay-in-walled-garden-breeze-block-wall-topiary-arrow-empty-notebook.jpg"
-    },
-    {
-      "title": "TikTok updates its AI video ad tools",
-      "url": "https://www.socialmediatoday.com/news/tiktok-updates-its-ai-video-ad-tools/874209/",
-      "source": "Social Media Today",
-      "category": "marketing",
-      "published_iso": "2026-11-09T18:46:53-05:00",
-      "excerpt": "TikTok's Symphony ad-creation platform now has access to the latest Dreamina Seedance video model, expanding AI video ad creation options for brands.",
-      "og_image": "https://imgproxy.divecdn.com/evsYS_GFtH50RI0eh4S3ZT06hDfwnbxJL0GuV3RwhxQ/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS90aWt0b2tfc3ltcGhvbnRfdXBkYXRlMS5wbmc=.webp",
+      "published_iso": "2026-11-10T19:08:34Z",
+      "excerpt": "Google is expanding ads in AI Mode to 10+ more English-language countries and launching multiturn ads in the U.S. that appear in follow-up AI Mode conversations; SEJ details reporting implications for PPC advertisers.",
+      "og_image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-ai-mode-goes-global-112.png",
       "history_match": {
-        "score": 0.239,
-        "date": "2026-10-19",
-        "url": "https://tomorrowspublisher.today/news/national-trust-pulls-tiktok-ads-after-platform-s-ai-publishes-unauthorised-video-68149cb63312/index.html",
-        "title": "National Trust pulls TikTok ads after platform's AI publishes unauthorised videos",
+        "score": 0.278,
+        "date": "2026-11-05",
+        "url": "https://www.seroundtable.com/google-ai-mode-four-ads-42443.html",
+        "title": "Google AI Mode Now With Up To Four Ads",
         "band": "related"
       }
+    },
+    {
+      "title": "Meta Pauses Its Updated Business And Ad Terms Due Nov. 20",
+      "url": "https://www.searchenginejournal.com/meta-pauses-updated-business-ad-terms/596493/",
+      "source": "Search Engine Journal",
+      "category": "marketing",
+      "published_iso": "2026-11-10T11:30:00Z",
+      "excerpt": "Meta paused updated business and advertising terms that were due Nov. 20; the ad terms still in force let Meta crawl advertisers' sites, including for AI training.",
+      "og_image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/meta-headquarters-featured-1600x840-1.jpg",
+      "history_match": {
+        "score": 0.271,
+        "date": "2026-10-17",
+        "url": "https://www.searchenginejournal.com/metas-new-terms-expand-crawling-rights-beyond-advertisers/593217/",
+        "title": "Meta's New Terms Expand Crawling Rights Beyond Advertisers",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Ad Tech Briefing: Amazon's auction trial puts agentic advertising's trust problem in focus",
+      "url": "https://digiday.com/media-buying/ad-tech-briefing-amazons-auction-trial-puts-agentic-advertisings-trust-problem-in-focus/",
+      "source": "Digiday",
+      "category": "marketing",
+      "published_iso": "2026-11-10T05:01:00Z",
+      "excerpt": "Unsealed FTC allegations that Amazon Ads inflated ad prices on peak days sharpen buyer doubts about handing media buying to black-box AI agents run by the platforms selling the inventory.",
+      "og_image": "https://digiday.com/wp-content/uploads/sites/3/2025/10/amazon-google-digiday.png"
+    },
+    {
+      "title": "Mars wants to future proof impulse buys as AI is poised to take over more grocery runs",
+      "url": "https://digiday.com/marketing/mars-wants-to-future-proof-impulse-buys-as-ai-poised-to-take-over-more-grocery-runs/",
+      "source": "Digiday",
+      "category": "marketing",
+      "published_iso": "2026-11-11T05:01:00Z",
+      "excerpt": "Mars is preparing for AI-agent grocery shopping - working on LLM visibility, retail-media partnerships and how impulse purchases survive when an AI fills the basket.",
+      "og_image": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Daily-headshot.jpg"
+    },
+    {
+      "title": "Reddit Taps Qloo To Strengthen Its Predictive Targeting",
+      "url": "https://www.adexchanger.com/marketers/reddit-taps-qloo-to-strengthen-its-predictive-targeting/",
+      "source": "AdExchanger",
+      "category": "marketing",
+      "published_iso": "2026-11-10T14:00:12Z",
+      "excerpt": "Reddit partners with AI taste-intelligence firm Qloo to model correlated interests and target users with more relevant ads.",
+      "og_image": "https://www.adexchanger.com/wp-content/uploads/2026/11/shutterstock_2735591353-scaled.jpg"
+    },
+    {
+      "title": "In OpenAI's Ad Business, Advertisers Come Third",
+      "url": "https://www.adexchanger.com/ai/in-openais-ad-business-advertisers-come-third/",
+      "source": "AdExchanger",
+      "category": "marketing",
+      "published_iso": "2026-11-10T06:00:35Z",
+      "excerpt": "OpenAI ads lead Benji Shomair frames ChatGPT ads as a way to fund access, with user trust ranked above advertiser demands - shaping targeting, formats and measurement for buyers.",
+      "og_image": "https://www.adexchanger.com/wp-content/uploads/2026/11/LUMA-Benji-Shomair-OpenAI.jpg",
+      "history_match": {
+        "score": 0.253,
+        "date": "2026-11-11",
+        "url": "https://digiday.com/marketing/openais-new-business-agents-give-brands-a-free-way-into-the-conversation-its-also-selling-as-an-ad/",
+        "title": "OpenAI's new business agents give brands a free way into the conversation it's also selling as an ad",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Google's AI Ad Losses Are Meta's Gain; Chatbot Ad Formats Are Starting To Multiply",
+      "url": "https://www.adexchanger.com/daily-news-roundup/wednesday-11112026/",
+      "source": "AdExchanger",
+      "category": "marketing",
+      "published_iso": "2026-11-11T05:03:15Z",
+      "excerpt": "Advertisers worried that Google's AI products cannibalize their search ads are shifting budget to Meta, while new chatbot ad formats proliferate across AI assistants.",
+      "og_image": "https://www.adexchanger.com/wp-content/uploads/2025/11/AI-TA-Reddit-am-I-the-asshole-comic-featured.jpg",
+      "history_match": {
+        "score": 0.163,
+        "date": "2026-10-22",
+        "url": "https://www.adexchanger.com/marketers/chatgpt-ads-is-expanding-to-new-markets-and-exploring-new-ad-formats/",
+        "title": "ChatGPT Ads Is Expanding To New Markets And Exploring New Ad Formats",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Human-Crafted Holiday Ads Are an Unspoken Nod to AI Anxiety",
+      "url": "https://www.adweek.com/creativity/human-crafted-holiday-ads-are-an-unspoken-nod-to-ai-anxiety/",
+      "source": "ADWEEK",
+      "category": "marketing",
+      "published_iso": "2026-11-11T18:35:27Z",
+      "excerpt": "This year's holiday ads lean hard on painstaking handmade craft as AI-generated content floods feeds - a creative positioning response to AI ad backlash.",
+      "og_image": "https://static-www.adweek.com/wp-content/uploads/2026/11/etsy-grab.png?w=600&h=315&crop=1"
+    },
+    {
+      "title": "The AI-or-Not Debate Is Advertising's Most Pointless Argument",
+      "url": "https://www.adweek.com/creativity/the-ai-or-not-debate-is-advertisings-most-pointless-argument/",
+      "source": "ADWEEK",
+      "category": "marketing",
+      "published_iso": "2026-11-09T19:24:36Z",
+      "excerpt": "Adweek argues that almost nothing people watch or read is AI-free anymore, so the industry's AI-or-human argument over ad campaigns misses how creative production now works.",
+      "og_image": "https://static-www.adweek.com/wp-content/uploads/2026/11/dior-ai-night-color-2026.jpg?w=600&h=315&crop=1"
+    },
+    {
+      "title": "Amid Holiday Commerce Push, Reddit Tests an AI-Powered Product Review Portal",
+      "url": "https://www.adweek.com/commerce/amid-holiday-commerce-push-reddit-tests-an-ai-powered-product-review-portal/",
+      "source": "ADWEEK",
+      "category": "marketing",
+      "published_iso": "2026-11-10T15:00:00Z",
+      "excerpt": "Reddit is testing AI-compiled review pages for about 10,000 products built from user threads, part of its holiday commerce and shopping-ads push.",
+      "og_image": "https://static-www.adweek.com/wp-content/uploads/2026/11/Reddit-Reviews.jpg?w=600&h=315&crop=1",
+      "history_match": {
+        "score": 0.209,
+        "date": "2026-10-13",
+        "url": "https://retailtechinnovationhub.com/home/2026/10/11/first-for-thg-commerce-as-it-brings-criteo-sponsored-products-to-ai-shopping-assistant-solution",
+        "title": "First for THG Commerce as company brings Criteo Sponsored Products to AI Shopping Assistant solution",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Synthetic audiences fall short: What marketers need to know",
+      "url": "https://www.marketingdive.com/news/synthetic-audiences-fall-short-what-marketers-need-to-know/833664/",
+      "source": "Marketing Dive",
+      "category": "marketing",
+      "published_iso": "2026-11-10T14:30:00Z",
+      "excerpt": "AI-generated synthetic audience simulations used for targeting and testing may make it harder for brands to reach new customers, argues RYA co-founder Mark Himmelsbach.",
+      "og_image": "https://imgproxy.divecdn.com/NYbUwXu9MLsSL-93v1h1v9MLcJ-76xV3bIKNzAmCq-w/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjY2MjcwODc2LmpwZw==.webp"
+    },
+    {
+      "title": "New Data Shows Sales Agents Are Rescuing the Sales Cycle",
+      "url": "https://www.salesforce.com/news/stories/how-ai-agents-improve-crm-data-accuracy/",
+      "source": "Salesforce",
+      "category": "marketing",
+      "published_iso": "2026-11-10T17:00:00Z",
+      "excerpt": "Salesforce publishes new data on AI sales agents: sellers spend about 60% of their time on non-selling work such as data entry, and agents that keep CRM data accurate are giving that time back to the sales cycle.",
+      "og_image": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/789_0926_T39_The-Work-Lab-Teaser_a_v3_091826.jpg",
+      "history_match": {
+        "score": 0.181,
+        "date": "2026-10-14",
+        "url": "https://ppc.land/salesforce-trains-its-koa-model-on-27-years-of-crm-workflow-simulations/",
+        "title": "Salesforce trains its Koa model on 27 years of CRM workflow simulations",
+        "band": "related"
+      }
+    },
+    {
+      "title": "eBay appears to have shut the door on third-party AI agents",
+      "url": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
+      "source": "The Verge",
+      "category": "marketing",
+      "published_iso": "2026-11-10T16:20:30Z",
+      "excerpt": "eBay appears to block third-party AI shopping agents such as Meta's Muse from browsing its marketplace, another retailer drawing lines around agentic commerce.",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "history_match": {
+        "score": 0.223,
+        "date": "2026-10-14",
+        "url": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
+        "title": "Shopify opens its catalog up to more AI agents",
+        "band": "related"
+      }
+    },
+    {
+      "title": "United won't let your AI agent book your flight",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+      "source": "The Verge",
+      "category": "marketing",
+      "published_iso": "2026-11-11T21:54:21Z",
+      "excerpt": "United's new rule bans AI agents from buying tickets, seats and upgrades even when a traveler supervises each step, limiting assistants like Muse and Dots as a sales channel.",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23176430/1237621702.jpg?quality=90&strip=all&crop=0%2C10.721800295556%2C100%2C78.556399408888&w=1200",
+      "history_match": {
+        "score": 0.21,
+        "date": "2026-10-27",
+        "url": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
+        "title": "The RealReal won't let AI agents hog designer clothing",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Agentic AI in advertising: why connectivity, standards, and control matter",
+      "url": "https://iabtechlab.com/agentic-ai-in-advertising-why-connectivity-standards-and-control-matter/",
+      "source": "IAB Tech Lab",
+      "category": "marketing",
+      "published_iso": "2026-11-11T13:44:16Z",
+      "excerpt": "OneTag's Alexandra Balashoiu argues in an IAB Tech Lab member perspective that agentic ad buying needs shared standards and buyer control to work across platforms.",
+      "og_image": "https://iabtechlab.com/wp-content/uploads/2026/11/Onetag-Agentic-Member-Perspective-1.png",
+      "history_match": {
+        "score": 0.258,
+        "date": "2026-10-25",
+        "url": "https://ppc.land/iab-tech-lab-extends-ai-ad-buying-standard-comments-to-november-10/",
+        "title": "IAB Tech Lab extends AI ad-buying standard comments to November 10",
+        "band": "related"
+      }
+    },
+    {
+      "title": "\"내 광고 분석해줘\"…챗GPT 도입한 당근",
+      "url": "https://www.hankyung.com/article/2026110957441",
+      "source": "한국경제",
+      "category": "marketing",
+      "published_iso": "2026-11-09T17:29:30+09:00",
+      "excerpt": "당근이 챗GPT에 광고 등록·수정 API를 개방해 광고주가 챗GPT에서 광고를 다루고 분석을 요청할 수 있게 했다. 소상공인 광고주 증가를 기대한다.",
+      "og_image": "https://img.hankyung.com/photo/202611/AA.46366592.1.jpg"
+    },
+    {
+      "title": "기업브랜드 검수도 AI가 '척척'…어도비, 마케팅업무 에이전트로 잇는다 [어도비 맥스 2026]",
+      "url": "https://www.mk.co.kr/news/it/12204937",
+      "source": "매일경제",
+      "category": "marketing",
+      "published_iso": "2026-11-11T08:00:00+09:00",
+      "excerpt": "어도비가 마케팅팀이 말로 지휘하는 에이전트, 워크프론트 기획용 캔버스, 포토샵 브랜드 검수 기능을 공개해 광고 크리에이티브 제작·검수 흐름을 에이전트로 묶는다.",
+      "og_image": "https://pimg.mk.co.kr/news/cms/202611/11/news-p.v1.20261111.380072f4e42c443f875780c558caf2a7_R.jpg"
+    },
+    {
+      "title": "CJ올리브영, 모바일 앱에 AI 쇼핑 어시스턴트 '올영 티키' 도입",
+      "url": "https://www.news1.kr/industry/distribution/6349931",
+      "source": "뉴스1",
+      "category": "marketing",
+      "published_iso": "2026-11-11T08:45:13+09:00",
+      "excerpt": "CJ올리브영이 생성형 AI 쇼핑 어시스턴트 '올영 티키'를 고객 약 100만명 대상으로 시범 운영하고 내달 정식 출시한다. 대화형 상품 추천·비교·재고 확인을 제공한다.",
+      "og_image": "https://i3n.news1.kr/system/photos/2026/11/11/8207836/high.jpg"
+    },
+    {
+      "title": "AI에이전트, 제조사·소비자 직접 연결…\"AI와 함께하는 쇼핑, 2년 내 일상 될 것\"",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=02919206645644080&mediaCodeNo=257",
+      "source": "이데일리",
+      "category": "marketing",
+      "published_iso": "2026-11-09T12:00:03+09:00",
+      "excerpt": "AI가 상품 추천부터 비교·구매까지 맡는 대화형 쇼핑이 2~3년 안에 일상화되면서 연 100조원 규모 미국 유통광고(리테일 미디어) 시장도 재편 기로에 섰다는 전망.",
+      "og_image": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/11/PS26110901123.jpg",
+      "off_list": true
+    },
+    {
+      "title": "센드버드 딜라이트, 쇼핑·예약·고객 지원·고객 유지 묶은 AI 에이전트 출시",
+      "url": "https://www.techsuda.com/sendbird-delight-customer-agent-midas-launch/",
+      "source": "테크수다",
+      "category": "marketing",
+      "published_iso": "2026-11-10T08:49:00Z",
+      "excerpt": "센드버드 delight.ai가 쇼핑·예약·고객 지원·고객 유지를 하나로 통합한 브랜드용 AI 에이전트 '딜라이트 커스터머 에이전트'를 출시했다.",
+      "og_image": "https://cdn.media.bluedot.so/bluedot.techsuda/2026/11/guee79_202611100820.png"
+    },
+    {
+      "title": "JD's AI shopping assistant draws nearly 80 million Singles Day users as China's sales festival leans on chatbots",
+      "url": "https://mlq.ai/news/jds-ai-shopping-assistant-draws-nearly-80-million-singles-day-users-as-chinas-sales-festival-leans-on-chatbots/",
+      "source": "MLQ.ai (via Reuters)",
+      "category": "marketing",
+      "published_iso": "2026-11-11T14:46:59Z",
+      "excerpt": "Per Reuters, JD.com said its AI shopping assistant drew nearly 80 million Singles Day users, more than triple last year, and Tmall reported AI token sales rose - official 11.11 AI-shopping data.",
+      "og_image": "https://mlq.ai/media/news_images/jds-ai-shopping-assistant-draws-nearly-80-million-singles-day-users-as-chinas-sa.jpg",
+      "off_list": true
     }
   ],
   "dedup": {
-    "dropped": 0,
-    "kept": 17,
+    "dropped": 1,
+    "kept": 24,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
     "dropped": [],
-    "review": 12,
+    "review": 11,
     "same_story_pairs": []
   },
   "history_digest": [
-    {
-      "date": "2026-10-12",
-      "title": "비용 줄이려다 손님도 줄어드네…소비자들 외면하는 AI 광고",
-      "url": "https://news.tf.co.kr/read/life/2374702.htm"
-    },
-    {
-      "date": "2026-10-12",
-      "title": "Brands can block YouTube ads beside AI slop under new IAS tool",
-      "url": "https://ppc.land/brands-can-block-youtube-ads-beside-ai-slop-under-new-ias-tool/"
-    },
-    {
-      "date": "2026-10-12",
-      "title": "Meta's Muse agent gains access to ad accounts and 15 business tools",
-      "url": "https://ppc.land/metas-muse-agent-gains-access-to-ad-accounts-and-15-business-tools/"
-    },
-    {
-      "date": "2026-10-12",
-      "title": "네카오, AI 수익화 경쟁 본격화…이용자 4000만 정조준",
-      "url": "https://www.m-i.kr/news/articleView.html?idxno=2003965"
-    },
-    {
-      "date": "2026-10-12",
-      "title": "“AI가 쇼핑 다 해주면 광고는 누가 보나”…네이버·아마존, 문 걸어잠근다",
-      "url": "https://www.mk.co.kr/news/it/12173227"
-    },
     {
       "date": "2026-10-13",
       "title": "Turning Opportunistic AI Inference Capacity Into Better Ads Recommendations",
@@ -927,6 +960,31 @@
       "date": "2026-11-10",
       "title": "Meta’s AI ads included unapproved discounts",
       "url": "https://www.socialmediatoday.com/news/metas-ai-ads-included-unapproved-discounts/874067/"
+    },
+    {
+      "date": "2026-11-11",
+      "title": "OpenAI's new business agents give brands a free way into the conversation it's also selling as an ad",
+      "url": "https://digiday.com/marketing/openais-new-business-agents-give-brands-a-free-way-into-the-conversation-its-also-selling-as-an-ad/"
+    },
+    {
+      "date": "2026-11-11",
+      "title": "Shopify Noses Further Into Ad Tech With Campaign Autopilot Expansion",
+      "url": "https://www.adexchanger.com/commerce/shopifyautopilot/"
+    },
+    {
+      "date": "2026-11-11",
+      "title": "Priceline's AI agent Penny lands in Snapchat ads amid holiday rush",
+      "url": "https://www.marketingdive.com/news/pricelines-ai-agent-penny-lands-in-snapchat-ads-amid-holiday-rush/874247/"
+    },
+    {
+      "date": "2026-11-11",
+      "title": "Google Ads Tests A Weekly AI Report Card For Your Ad Creative",
+      "url": "https://www.searchenginejournal.com/google-ads-tests-asset-activity-page-with-weekly-ai-insights/596442/"
+    },
+    {
+      "date": "2026-11-11",
+      "title": "TikTok updates its AI video ad tools",
+      "url": "https://www.socialmediatoday.com/news/tiktok-updates-its-ai-video-ad-tools/874209/"
     }
   ]
 }

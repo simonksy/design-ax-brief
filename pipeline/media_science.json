@@ -1,31 +1,7 @@
-{
-  "date": "2026-11-11",
-  "section": "science",
-  "media": [
-    {
-      "id": "science-alphaproof-code-signal",
-      "type": "image",
-      "src": "pipeline/media/science-alphaproof-code-signal.jpg"
-    },
-    {
-      "id": "science-google-quantum-lean-agents",
-      "type": "image",
-      "src": "pipeline/media/science-google-quantum-lean-agents.png"
-    },
-    {
-      "id": "science-vibe-qc-bonn",
-      "type": "image",
-      "src": "pipeline/media/science-vibe-qc-bonn.jpg"
-    },
-    {
-      "id": "science-hku-holographic-optics",
-      "type": "image",
-      "src": "pipeline/media/science-hku-holographic-optics.jpg"
-    },
-    {
-      "id": "science-patent-lawyers-ai-trial",
-      "type": "image",
-      "src": "pipeline/media/science-patent-lawyers-ai-trial.jpg"
-    }
-  ]
-}
+{"date":"2026-11-12","section":"science","media":[
+{"id":"alphagenome2-celltype-variants","type":"image","src":"pipeline/media/alphagenome2-celltype-variants.jpg"},
+{"id":"physicsworld-metasurface-colour-router","type":"image","src":"pipeline/media/physicsworld-metasurface-colour-router.jpg"},
+{"id":"yangmills-proof-gross-panel","type":"image","src":"pipeline/media/yangmills-proof-gross-panel.jpg"},
+{"id":"cornell-fish-schooling-ml","type":"video","src":"pipeline/media/cornell-fish-schooling-ml.mp4","poster":"pipeline/media/cornell-fish-schooling-ml.jpg"},
+{"id":"psypost-ai-whiteness-study","type":"image","src":"pipeline/media/psypost-ai-whiteness-study.jpg"}
+]}

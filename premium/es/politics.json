@@ -5673,6 +5673,198 @@
           "x": "Noruega es solo el último país europeo en frenar a los centros de datos. Dinamarca, por ejemplo, los ha relegado al final de la cola de acceso a la red, por detrás de hospitales, estaciones de carga de coches y hogares. Portugal exige a los operadores invertir en nueva capacidad de energía renovable para abastecer a las nuevas granjas de servidores."
         }
       ]
+    },
+    "politics/raise-act-ny-portal": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La gobernadora Kathy Hochul puso en marcha el New York Center for AI Responsibility and Research (NYCAIRR), con sede en la Universidad de Binghamton de SUNY, para impulsar la investigación en seguridad de la AI, acelerar los descubrimientos científicos y probar de forma independiente la seguridad y la protección de los sistemas avanzados de AI."
+        },
+        {
+          "t": "p",
+          "x": "“Mientras el Gobierno federal no actúa, Nueva York lidera el camino en seguridad de la AI y exige rendir cuentas a las grandes tecnológicas”, dijo la gobernadora Hochul. “Hay demasiado en juego como para limitarse a creer en la palabra de las empresas de AI”."
+        },
+        {
+          "t": "video",
+          "yt": "Q0xjRecdwRI"
+        },
+        {
+          "t": "p",
+          "x": "Greg Morrisett, de Cornell Tech, y Jeannette Wing, de la Universidad de Columbia, dirigirán el Centro como codirectores interinos y reunirán a más de 80 científicos de todo el estado de Nueva York. El Centro cuenta con la capacidad de cómputo de Empire AI, la iniciativa público-privada de 500 millones de dólares de la gobernadora Hochul. Se anunció por primera vez en enero con una donación filantrópica de 30 millones de dólares encabezada por Tom Secunda y una inversión inicial en investigación de 25 millones de dólares de SUNY."
+        },
+        {
+          "t": "p",
+          "x": "Además, la nueva Office of Digital Innovation, Governance, Integrity, and Trust (DIGIT) habilitó su portal en línea para que los grandes desarrolladores de AI de frontera se registren ante el estado de Nueva York antes del 1 de enero de 2027. A partir de enero, los grandes desarrolladores de frontera también deberán publicar marcos de seguridad en sus sitios web, y todos los desarrolladores de frontera deberán informar de incidentes críticos de seguridad y publicar informes de transparencia de sus modelos."
+        },
+        {
+          "t": "img",
+          "src": "https://live.staticflickr.com/65535/55645308649_48af47cef7_z.jpg",
+          "cap": "La gobernadora Hochul declara que NY liderará al país en ciencia y seguridad de la AI; pone en marcha un nuevo instituto de investigación"
+        },
+        {
+          "t": "p",
+          "x": "Según la RAISE Act, los grandes desarrolladores de AI de frontera deben informar de cualquier incidente crítico de seguridad en un plazo de 72 horas. A petición del Estado, NYCAIRR se coordinará con DIGIT para empezar a revisar los marcos de seguridad publicados por los desarrolladores de AI y a formular recomendaciones."
+        }
+      ]
+    },
+    "politics/chinatalk-rl-environments": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Empresas de datos estadounidenses como Mercor, Surge AI, AfterQuery y Turing venden a laboratorios chinos de AI datos por valor de unos quinientos millones de dólares. Una parte de esos datos llega en forma de entornos de aprendizaje por refuerzo (RL), que los laboratorios usan para el post-entrenamiento (post-train) de sus modelos, de modo que destaquen en ámbitos concretos como programación, ciberseguridad, finanzas, derecho y biología."
+        },
+        {
+          "t": "p",
+          "x": "Los entornos de RL son, en esencia, mundos simulados en los que un modelo puede entrenarse para mejorar su rendimiento en tareas específicas; por ejemplo, un clon de PowerPoint junto con una rúbrica de evaluación redactada por expertos humanos."
+        },
+        {
+          "t": "img",
+          "src": "https://substackcdn.com/image/fetch/$s_!nGwa!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89708c9a-2e06-44a6-ad06-4dc23e63560a_1448x2048.png",
+          "cap": "Ejemplo de una tarea y una rúbrica de evaluación diseñadas para mejorar la capacidad de un modelo de crear presentaciones de diapositivas. Generado con ChatGPT Astra."
+        },
+        {
+          "t": "p",
+          "x": "Los autores señalan que el problema surge cuando los laboratorios chinos adquieren entornos en ámbitos sensibles: los entornos de programación pueden facilitar la búsqueda de vulnerabilidades (exploit-finding) y las capacidades de ciberataque ofensivo, y los entornos relacionados con la biología podrían mejorar las capacidades de síntesis génica y de diseño de armas biológicas."
+        },
+        {
+          "t": "p",
+          "x": "Encontraron al menos nueve proveedores —Mercor, SurgeAI, Turing, AfterQuery, Abundant, Pareto, DeccanAI, Eaglepoint e Invisible— y afirman que sin duda existen más. Solo Scale, micro1 y fleet dicen públicamente que renuncian a hacer negocios con China."
+        },
+        {
+          "t": "p",
+          "x": "Sus propuestas: la BIS podría restringir los entornos de doble uso (dual-use) con las normas vigentes, y el DoW debería cambiar sus criterios de contratación; sobre todo, el gobierno de EE. UU. (US) necesita más visibilidad. También sostienen que las consecuencias pueden exagerarse, ya que el aprovechamiento (piggybacking) mantiene a los laboratorios chinos al menos unos meses por detrás."
+        }
+      ]
+    },
+    "politics/finland-estonia-ai-incidents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/11/GettyImages-2301068364-scaled.jpg",
+          "cap": "Imagen ilustrativa tomada el 23 de octubre de 2026 en Fráncfort del Meno que muestra el logotipo de PHP en la pantalla de un teléfono inteligente y las letras AI en la pantalla de un portátil. | Kirill Kudryavtsev"
+        },
+        {
+          "t": "p",
+          "x": "BRUSSELS—La Unión Europea debería contar con un plan para responder a incidentes graves de inteligencia artificial, afirmaron dos países de la EU antes de una reunión clave de líderes nacionales centrada en la AI que se celebra el viernes."
+        },
+        {
+          "t": "p",
+          "x": "En una carta a la que tuvo acceso POLITICO, Finlandia y Estonia afirman que el bloque \"todavía puede competir en la frontera\" de la AI movilizando capital y aumentando la capacidad de cómputo, pero que esto debe ir de la mano de \"gobernarla de forma responsable\"."
+        },
+        {
+          "t": "p",
+          "x": "Los dos países, considerados entre los líderes digitales de Europa, piden \"mecanismos a escala de la EU (EU-level) para responder a incidentes graves de AI\"."
+        },
+        {
+          "t": "p",
+          "x": "La seguridad y la protección de la AI figuran en la agenda del viernes de la primera reunión del Consejo Europeo dedicada a esta nueva tecnología revolucionaria."
+        },
+        {
+          "t": "p",
+          "x": "La inquietud sobre si Europa está preparada para responder a amenazas impulsadas por AI (AI-powered) ha ido en aumento desde una serie de incidentes este verano en los que agentes de AI actuaron sin control y hackearon a otras empresas. Los recientes ciberataques y las revelaciones de vulnerabilidades de código también han suscitado la preocupación de que los sistemas de seguridad deben estar mejor preparados para la llegada de la inteligencia artificial."
+        },
+        {
+          "t": "p",
+          "x": "Hungría abogó por una red de puntos de contacto nacionales para el caso de que los proveedores de modelos de AI pierdan el control de sus modelos, en un documento de octubre al que tuvo acceso POLITICO. El país también propuso un equipo de evaluadores independientes \"previamente examinados y con habilitación de seguridad\" que puedan anticiparse a los incidentes."
+        },
+        {
+          "t": "p",
+          "x": "La carta de Finlandia y Estonia pide invertir en modelos europeos de AI de frontera \"como prioridad económica y como base de la influencia de Europa en el futuro de la AI\"."
+        },
+        {
+          "t": "p",
+          "x": "Los países advierten que Europa necesita \"capacidad independiente para evaluar los modelos más avanzados y sus riesgos de seguridad y protección\"."
+        }
+      ]
+    },
+    "politics/thailand-datacenter-rules": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img5.yna.co.kr/photo/etc/epa/2026/09/07/PEP20260907196901009_P4.jpg",
+          "cap": "Un centro de datos en Bangkok, capital de Tailandia [EPA foto de archivo de Yonhap]"
+        },
+        {
+          "t": "p",
+          "x": "(Hanói=Yonhap) Corresponsal Park Jin-hyung = Ante la creciente oposición a los centros de datos de inteligencia artificial (AI) que proliferan en los países del Sudeste Asiático, el Gobierno tailandés ha establecido normas para regular el ruido, la temperatura y el consumo de agua de estas instalaciones."
+        },
+        {
+          "t": "p",
+          "x": "Según las agencias AFP y Bloomberg, entre otras, el día 11 (hora local), el gabinete tailandés aprobó el día anterior normas que, entre otras cosas, limitan el ruido de los centros de datos a 70A-decibelios ponderados (dBA) o menos, medido en el límite del recinto."
+        },
+        {
+          "t": "p",
+          "x": "El decibelio A-ponderado es una unidad de ruido corregida por frecuencia que refleja cómo percibe realmente el sonido el oído humano; se sabe que 70dBA es un nivel ligeramente inferior al ruido de una aspiradora."
+        },
+        {
+          "t": "p",
+          "x": "Las nuevas normas también limitan el aumento de temperatura causado por los centros de datos a entre 1 y 2 grados Celsius, medido en el límite del recinto, y exigen que el agua de refrigeración se recircule y que se inspeccione obligatoriamente antes de verterla al exterior."
+        },
+        {
+          "t": "p",
+          "x": "Los centros de datos que consuman 20 megavatios (MW) o más de electricidad deberán construirse en polígonos industriales y estarán sujetos a una supervisión más estricta."
+        },
+        {
+          "t": "p",
+          "x": "Además, para acelerar la inversión en centros de datos y aplicar criterios claros, se decidió unificar los trámites de licencias y permisos en un 'servicio de ventanilla única' para agilizarlos."
+        },
+        {
+          "t": "p",
+          "x": "Este servicio de ventanilla única revisará los proyectos en su conjunto y decidirá su aprobación considerando de forma integral no solo el cumplimiento de los requisitos mínimos, sino también la creación de empleo en Tailandia, la oferta de formación técnica y la participación de empresas locales tailandesas en la cadena de suministro."
+        },
+        {
+          "t": "p",
+          "x": "Ekniti Nitithanprapas, viceprimer ministro y ministro de Finanzas de Tailandia, señaló que los centros de datos son una infraestructura clave para la economía digital y la AI, pero que consumen enormes cantidades de electricidad y agua y pueden afectar a las comunidades cercanas."
+        },
+        {
+          "t": "p",
+          "x": "Subrayó: \"Aplicaremos los estándares más altos\", y añadió que a los proyectos de construcción de centros de datos que no cumplan los requisitos ambientales, de seguridad y otros \"no se les permitirá avanzar\"."
+        },
+        {
+          "t": "p",
+          "x": "Agregó que los nuevos proyectos a la espera de permiso deberán cumplir las nuevas normas, mientras que los centros de datos legales aprobados antes del 14 de agosto podrán seguir operando, con un período de gracia de 1 año para adaptarse a las nuevas normas."
+        },
+        {
+          "t": "p",
+          "x": "En los últimos años, la inversión en centros de datos ha sido muy intensa en Tailandia, Malasia, Indonesia y otros países, con la vista puesta en mercados de rápido crecimiento como el del Sudeste Asiático."
+        },
+        {
+          "t": "p",
+          "x": "Según la Junta de Inversiones de Tailandia (BOI), las solicitudes de inversión recibidas entre enero y septiembre de este año superaron los 500억 달러 (cincuenta mil millones de dólares, unos 66조8천억원), y los proyectos relacionados con la AI representaron alrededor del 70% en valor."
+        },
+        {
+          "t": "p",
+          "x": "Sin embargo, también crece la oposición a los centros de datos entre los residentes locales y otros sectores, por la preocupación ante el elevado consumo de electricidad y agua y los problemas de ruido."
+        },
+        {
+          "t": "p",
+          "x": "Recientemente, en la isla indonesia de Batam, vecina de Singapur, los residentes protestaron contra los centros de datos después de que la sequía cortara el suministro de agua, y en Malasia un proyecto de construcción de un centro de datos fue cancelado ante la oposición vecinal."
+        }
+      ]
+    },
+    "politics/australia-ai-incident-law": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i.guim.co.uk/img/media/dffa89dc77a6bbaad44df383335bad241ee8e4ac/250_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4c894726f89832e90eabcf0ec9009cca"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI no enfrentará sanciones penales por la filtración de datos de Medicare, pero el primer ministro Anthony Albanese ha anunciado cambios en el derecho penal de Australia. Albanese publicó las recomendaciones de una \"revisión rápida\" sobre la intrusión de junio en un portal del servicio de informes estadísticos de Medicare administrado por Services Australia, entre ellas un posible delito de \"no prevenir\" por desarrollar un modelo de IA que incurra en conductas dañinas sin \"tomar medidas razonables para prevenir ese daño\"."
+        },
+        {
+          "t": "p",
+          "x": "Un agente de IA de OpenAI accedió en junio a datos de Services Australia y de otros tres sistemas; la empresa no avisó al Gobierno hasta mediados de septiembre (mid-September). Albanese afirmó que el Gobierno creará un nuevo regulador de seguridad de la IA e impondrá seis obligaciones a las empresas de IA, entre ellas la notificación obligatoria y rápida de incidentes y permitir la evaluación independiente de sus modelos. La revisión formuló 18 recomendaciones, todas aceptadas."
+        },
+        {
+          "t": "video",
+          "src": "https://uploads.guim.co.uk/2026/11/10/Mandatory_AI_safety_and_security_protections_announced_after_OpenAI_breach_of_Medicare___video--fec9dfb2-4a05-4f76-bf3f-f4c431fd2529-2.0_720h_q8.mp4"
+        },
+        {
+          "t": "p",
+          "x": "El ministro del Interior, Tony Burke, dijo: \"Nunca debería darse el caso de que alguien argumente que no sabía que el ordenador estaba cargado\". OpenAI indicó que estaba revisando las propuestas y que \"seguirá colaborando de forma constructiva\". El senador de los Greens David Shoebridge calificó el anuncio de \"capitulación\" ante la industria de la IA, mientras que Jonno Duniam, de la Coalition, dijo que lo respaldaba."
+        }
+      ]
     }
   }
 }

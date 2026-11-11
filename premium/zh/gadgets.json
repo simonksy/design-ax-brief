@@ -10934,6 +10934,154 @@
           "x": "为了在无振动的情况下为CPU和传感器散热，CAIM1与Noctua合作采用了NF-A4x10主动散热系统。这款相机可拍摄4K 视频，面向极限运动，并采用Bring-Your-Own-Lens（自带镜头）设计。"
         }
       ]
+    },
+    "gadgets/bluephone-pixel10-agent-os": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2025/09/google-pixel-10-pro-screen-on-home-screen-scaled.jpg",
+          "cap": "有人手持屏幕亮起、显示主屏幕的Google Pixel 10 Pro。"
+        },
+        {
+          "t": "p",
+          "x": "由Y Combinator支持的初创公司Blue已开放新款Blue Phone的公开测试版，这款手机把AI助手置于智能手机体验的核心。它没有从零打造一部全新手机，而是先从Google Pixel 10 Pro和Pixel 10 Pro XL入手，两者都运行Blue OS。Blue OS是定制版Android，可让AI助手跨应用工作，替你处理任务。"
+        },
+        {
+          "t": "p",
+          "x": "无论是查找几个月前的收据、购买前比价，还是对一笔意外扣款提出异议，Blue都能代劳，甚至可以同时处理多个请求。"
+        },
+        {
+          "t": "video",
+          "yt": "mrTgV4U_wI4"
+        },
+        {
+          "t": "p",
+          "x": "它还有语音听写功能，能把自然说出的想法转换成书写规范的消息。为回应隐私方面的担忧，Blue用加密的Vault保存密码等敏感信息，系统则基于一个注重安全、默认屏蔽广告追踪的开源Android版本。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Screenshot-2026-11-11-at-8.01.19-PM.png",
+          "cap": "从iPhone到Pixel 10 Pro上的Blue Phone"
+        },
+        {
+          "t": "p",
+          "x": "Blue Phone售价$1,299，但若在购买后30天内把旧iPhone寄给该公司，便可免费获得。它附带三个月的Blue无限使用权，US发货定于十一月和十二月。这家初创公司还在开发自有定制智能手机，预计2027年第三季度推出，现可支付可全额退款的$100预订。"
+        }
+      ]
+    },
+    "gadgets/deepx-dxm1-butter-demo": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/ZgC56W69q8WA6rhcBjxWKn-1920-80.jpg",
+          "cap": "DEEPX的芯片黄油散热演示"
+        },
+        {
+          "t": "p",
+          "x": "近期登上CNBC报道的韩国芯片初创公司DEEPX，用一项以乳制品为道具的离奇散热基准测试，展示了其DX-M1处理器的低温运行能力。竞争对手的芯片几秒内就让一块黄油滋滋作响，而放在DEEPX芯片上的黄油始终保持固态。"
+        },
+        {
+          "t": "p",
+          "x": "DEEPX称，它应对数据中心发热的简单办法是“让AI芯片本身运行得更凉”。在与未具名竞品AI芯片的并排测试中，DX-M1 NPU明显更凉。DEEPX CEO Kim Nok-won声称，与竞争对手相比温差达25到40多摄氏度，并表示这些芯片处理的是“相同的AI工作负载……除了最后一块芯片[DX-M1]，每块芯片都把黄油熔化了”。"
+        },
+        {
+          "t": "p",
+          "x": "Tom's Hardware指出，这项对比存在明显漏洞，最突出的是各处理器完成测试负载的速度：只要调低功耗和频率，谁都能让芯片保持低温。"
+        },
+        {
+          "t": "p",
+          "x": "DX-M1自2025年8月起采用Samsung 5nm 工艺生产，已拿下约$13.3M 的订单。基于Samsung 2nm 的下一代DX-M2目标在H2 2027量产。这些NPUs似乎面向边缘计算和机器人，并不与耗电巨大的Nvidia数据中心GPUs竞争，因此黄油测试“有点转移视线”。"
+        }
+      ]
+    },
+    "gadgets/gigabyte-aitop-aero-spark": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/gigabyte-ai-top-aero-nvidia-rtx-spark.jpg",
+          "cap": "Gigabyte AI Top Aero——搭载Nvidia RTX Spark与128 GB统一内存的一升AI台式机。"
+        },
+        {
+          "t": "p",
+          "x": "Gigabyte推出AI Top Aero迷你PC，面向本地AI开发、内容创作，未来也将支持游戏。它采用Nvidia的RTX Spark平台，在体积约一升的机箱内结合了Nvidia Blackwell GPU与Arm-based Grace CPU。"
+        },
+        {
+          "t": "p",
+          "x": "其RTX Spark N1X Superchip集成了20-core Grace CPU与拥有6,144个CUDA核心的Blackwell RTX GPU。配置最高可达128 GB LPDDR5X统一内存和4 TB PCIe 5.0 SSD；Nvidia称该平台FP4 AI性能最高可达1 petaflop，可在本地运行AI模型而无需依赖云服务。"
+        },
+        {
+          "t": "p",
+          "x": "它定位为“Personal AI Studio”，支持LM Studio、Ollama和Nvidia Nemotron模型，支持用于构建、微调和运行模型的CUDA，以及可在本地网络设备间分配推理的Nvidia PAIR（Personal AI Router）。它也支持DLSS 5游戏，但RTX Spark的首批评测报告称部分游戏出现启动失败和崩溃。"
+        },
+        {
+          "t": "p",
+          "x": "接口包括USB Type-C、10 GbE Ethernet和Wi-Fi 7。AI Top Aero于2026年11月10日发布；Gigabyte未公布价格，但同类的AI Top Atom配备64 GB内存和2 TB SSD，起售价为$4,999。"
+        }
+      ]
+    },
+    "gadgets/googlehome-nest-liveview-fix": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2024/04/Voice-controls-from-Nest-Hub-Photo-frame-view.jpg?quality=82&strip=all&w=1600",
+          "cap": "Nest Hub"
+        },
+        {
+          "t": "p",
+          "x": "新的Google Home更新正在推送，修复了影响Nest Cam设备的“Live View”问题，改进了Nest Hub，升级了Gemini，还有更多变化。"
+        },
+        {
+          "t": "p",
+          "x": "仍处于抢先体验阶段的Gemini在智能家居控制上进一步改进，计时器更快，提供“更具对话感的语音反馈”，Broadcasts也更快。最值得注意的是，Nest Hub智能显示屏现在会在你提问时“在有帮助时显示相关图片”。"
+        },
+        {
+          "t": "p",
+          "x": "Google Home应用新增“Google Home Premium”设置页面、为装有多台Nest Thermostats的家庭提供的“Eco Mode Everywhere”开关，以及Google Wallet中适用于兼容门锁的Home钥匙。"
+        },
+        {
+          "t": "p",
+          "x": "较旧的Nest Cam设备修复了Nest Hello等设备上的“Live View”问题，还修复了摄像头历史记录控制、特定连接下的直播、Nest Cam IQ事件预览空白以及摄像头时钟准确性等问题。"
+        },
+        {
+          "t": "p",
+          "x": "在AI智能体方面，Google Home MCP连接现在允许智能体控制自动化，并在“恒温器、风扇、空气净化器、扫地机器人、灯光效果、厨房电器、EV充电桩以及烟雾和一氧化碳报警器”上使用新的控制和状态查询功能。智能音箱更新也在推送，但细节有限。"
+        }
+      ]
+    },
+    "gadgets/pixel-drop-nov-gemini-intel": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/header_Pixel_drop_image.width-1300.jpg",
+          "cap": "Pixel Drop"
+        },
+        {
+          "t": "p",
+          "x": "11月的Pixel Drop现已推出，新增和扩展的功能让你的Pixel设备更个性化、更直观、更好用。更新从今天开始推送，并将在接下来的几周内陆续完成。"
+        },
+        {
+          "t": "p",
+          "x": "Pixel 10设备现已支持Gemini Intelligence，带来Rambler、个性化建议等新功能，还能处理多步骤任务，比如下单早晨的咖啡。Rambler可以自动去掉“嗯”之类的口头填充词，把你的想法整理成清晰、通顺的文字。"
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Pixel_10_Pro_Gemini_Intelligence.width-1200.format-webp.webp",
+          "cap": "Pixel 10 Pro上的Rambler"
+        },
+        {
+          "t": "p",
+          "x": "Gemini可以处理买菜、叫车或点外卖等多步骤任务，这项功能现已在日本、英国和印度推出。你还可以创建个性化小组件，例如追踪每月开支的记录器，或自动调取航班和预订信息的度假倒计时。"
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Pixel_11_Pro_Create_My_Widget_re.width-1200.format-webp.webp",
+          "cap": "描述你想要的小组件"
+        },
+        {
+          "t": "p",
+          "x": "在Pixel 11系列上，Call Screen迎来升级：Gemini会以更自然的对话方式询问陌生来电者的来意，屏幕上同步显示实时文字记录。HiLight现已支持Google Messages，手机屏幕朝下放置时，若常用联系人发来消息，它会亮起提示。Pixel Tag将于11月11日推出。"
+        }
+      ]
     }
   }
 }

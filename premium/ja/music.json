@@ -9949,6 +9949,141 @@
           "x": "Logic Proについて、Appleは利用上限が「アシスタントとの会話の複雑さに左右される」としている。利用枠を使い切ったユーザーは、アプリのメインメニューにあるIntelligence Features > Show Usageから、Intelligence Usage Packを購入できる。現時点で追加購入ができるのはLogic Proだけだが、今月中にPixelmator Pro、Final Cut Pro、Motionなど他のApple Creator Studioアプリ、さらにAppleのAIチャットボットが使えるようになるPages、Keynote、Numbersにも広がる見通しだ。"
         }
       ]
+    },
+    "music/musicflux-text-music-editing": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "MusicFlux: Flexible Conditioning for Text-Guided Music Generation and Editing — Teysir Baoueb、Leonardo Boulitreau de M. M. Marques、Paraskevas Stamatiadis、Gaël Richard(Télécom Paris)。"
+        },
+        {
+          "t": "p",
+          "x": "音楽編集とは、既存の録音を元の特性を保ちながら作り変えることだ。近年の手法は、事前学習済みのテキスト・トゥ・ミュージックモデルにコンテキスト音声を条件として与え、インペインティングやイベント挿入、修復といったタスクに適応させている。画像編集で最近提案されたように元音源をインコンテキスト情報として扱う方法は、音楽では音声シーケンスが長いため計算コストが高い。"
+        },
+        {
+          "t": "img",
+          "src": "https://musicflux.onrender.com/assets/img/fig-overview.png",
+          "cap": "Fig. 1. MusicFluxは、生成、インペインティング、SFX修復を共通の潜在条件付けパラダイムの下で定式化する。"
+        },
+        {
+          "t": "p",
+          "x": "著者らは、効率的な事前学習済みフローマッチング型テキスト・トゥ・オーディオモデルであるTangoFluxを基に、テキスト誘導型の音楽エディタMusicFluxを開発した。まずテキストからの音楽生成向けにファインチューニングし、その後、音声・テキスト・時間マスクを組み合わせた条件付けによって、インペインティング/アウトペインティングと効果音の修復に適応させた。"
+        },
+        {
+          "t": "img",
+          "src": "https://musicflux.onrender.com/assets/img/fig-architectures.png",
+          "cap": "Fig. 2. MusicFlux-Concat(左)は元音源とターゲットの潜在表現を連結し、MusicFlux-CAR(右)はシフトネットワークを用いて元のシーケンス長を保つ。"
+        },
+        {
+          "t": "p",
+          "x": "二つの条件付け手法は、編集性能と計算効率のトレードオフが異なる。MusicFlux-Concatは編集性能で上回り、MusicFlux-CARは元のシーケンス長を保ったまま推論時間と動的メモリを50%以上削減する。いずれもオープンデータで学習した単一のマルチタスクモデルだが、タスク特化型のベースラインに匹敵する性能を示す。Demo: https://musicflux.onrender.com/"
+        }
+      ]
+    },
+    "music/labelcamp-ai-connector": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/08/news-stories-images-4x3-2026-08-26T131412.133.png?fit=2000%2C1500&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "エージェント型AIやLLMとの連携を模索する音楽業界のツールやサービスは増え続けている。今日は、IdolのディストリビューションマネジメントプラットフォームLabelcampと、音楽マッチングのスタートアップMyPartからニュースが届いた。"
+        },
+        {
+          "t": "p",
+          "x": "Labelcampの新しい「AI Connector」は、ClaudeやChatGPTなどのチャットボットと連携し、顧客がそれらのツール内から対話型インターフェースでカタログやデータ管理の作業を行えるようにする。"
+        },
+        {
+          "t": "p",
+          "x": "Idolは例として次のように説明した。「一つのプロンプトで、複数のリリースにまたがるテリトリー権利を調整したり、アルバムの展開スケジュールをサポートシングルごと組み直したりできる。インポート全体のメタデータを修正したり、カタログ全体で欠けているDSPのアーティストIDsを追加したり、プラットフォームが納品を却下した理由を説明したりすることも可能だ」"
+        },
+        {
+          "t": "p",
+          "x": "これはModel Context Protocol(MCP)技術が実際に使われている例であり、MyPartが取り組んでいることの一部でもある。同社は「音楽理解を対話型・自動化された創作プロセスと組み合わせた汎用MCP AI音楽エージェント…音楽、歌詞、視覚的リズム、シーン転換、オーディエンスの文脈、ユーザーの好みを解釈し、音楽検索、マッチング、プレイリスト生成を支援するよう設計された」エージェントをリリースしている。"
+        },
+        {
+          "t": "p",
+          "x": "MyPartはまた、Epidemic SoundおよびOverwolfとの提携を通じて、自社技術がアダプティブなゲーム音楽の分野でどう使われたかについても語っている。この統合には、画面上のゲームプレイに合わせてEpidemicのカタログから音楽を選ぶゲーム内アプリ「Songhunt」が含まれていた。"
+        }
+      ]
+    },
+    "music/culturecustodian-cloned-artist": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/culturecustodian.com/wp-content/uploads/2026/11/WEB-How-We-Distributed-Cloned-AI-Music-From-a-Fake-Nigerian-Artist.jpg?fit=1024%2C1024&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "私たちは、クローン音声、AI-generatedの楽曲、名前の裏に実在の人物はゼロという偽のナイジェリア人アーティストを一から作り上げ、そのうえで配信プラットフォームに自分たちが何をしたかを正確に伝えた。"
+        },
+        {
+          "t": "p",
+          "x": "社内プロデューサーが、架空のペルソナCC Custody名義でオリジナルのAfrobeatsのフック「GMYL」を録音した。そのボーカルをKits.aiとElevenLabsに読み込ませてクローンし、SunoとUdioで曲を「No Do or Die」として作り直した。二曲目の「Omo Na You」は全編をクローン音声が歌い、別の偽ペルソナKX3名義とした。"
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/culturecustodian.com/wp-content/uploads/2026/11/KITS-AI-CLONING.jpg?resize=1024%2C482&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "DistroKidではAI使用の有無に「Yes」と答え、CC CustodyがAIペルソナであることも認めたが、リリースはすんなり「Hooray, your music is on its way!」まで進んだ。これは私たち自身で取り下げた。あらゆるAIコンテンツを禁止する方針のCD Babyは、AIについて一度も尋ねず、十日間の人による審査を経て「Omo Na You」を承認した。"
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/culturecustodian.com/wp-content/uploads/2026/11/CD-BABY-SUCCESSFUL-RELEASE-1.jpg?fit=1024%2C490&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "無料ディストリビューターのFreecordsは「No Do or Die」を却下し、RouteNoteではアップロードから2週間以上たっても審査待ちのままだった。"
+        },
+        {
+          "t": "p",
+          "x": "弁護士のFawehinmi ‘Foza’ Oyinkansolaは「ただし、配信されたことは法的な所有権や権利処理の十分な証明にはならない。これはバリューチェーン全体に潜在的な責任を生む」と警告した。"
+        }
+      ]
+    },
+    "music/nvidia-suno-subpoena-quash": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/Nvidia-Office-1024x546.jpg",
+          "cap": "Photo Credit: Amir Shtanger"
+        },
+        {
+          "t": "p",
+          "x": "Nvidiaのベンチャー投資部門NVenturesは、UMG v. Suno訴訟でUniversal MusicとSony Musicが出した証言録取の召喚状に対し、強い文言の取消申立てを行った。"
+        },
+        {
+          "t": "p",
+          "x": "八月に表面化し、その後修正されたこの召喚状は、Nvidiaの「Sunoとの投資前の取引関係」とその幹部、投資に関してSunoが提供した文書、学習データのデューデリジェンスと権利侵害訴訟のリスク、そしてSunoが録音物市場に与えうる影響を対象としている。"
+        },
+        {
+          "t": "p",
+          "x": "取消申立てによれば、「数か月にわたる交渉、収集、審査を経て、NVenturesは28,194ページに及ぶ6,324件の文書を提出した」。Nvidiaは「すでに相当量の提出を行った投資家に証言録取を求めることは、とりわけ不適切だ」としている。"
+        },
+        {
+          "t": "p",
+          "x": "SunoはElvis Presley Enterprisesや、Eminemの音楽出版社Eight Mile Styleが起こした訴訟にも直面している。"
+        }
+      ]
+    },
+    "music/spotify-dj-new-voices": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23985252/VRG_Illo_STK130_K_Radtke_Spotify_Podcast_1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "Spotify DJに新しい声が加わり、おしゃべりを止められるようにもなった。"
+        },
+        {
+          "t": "p",
+          "x": "DJではさまざまなアクセントの英語の音声が新たに八つ、スペイン語の新しい音声が二つ選べるようになり、好みに合わせて体験をカスタマイズできる。Spotify DJが曲の合間に入れる解説に飽きたなら、それをオフにすることもでき、音楽が途切れにくくなる。"
+        }
+      ]
     }
   }
 }

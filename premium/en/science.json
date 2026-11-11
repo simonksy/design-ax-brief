@@ -10973,6 +10973,138 @@
           "x": "“We want to have a GPT moment for simulation,” says Peter Yichen Chen, a former MIT postdoc now at UBC. The researchers demonstrated WorldParticle on six physical phenomena, including deformable objects, granular materials, and proteins, with higher accuracy than numerical simulation methods, and modeled how protein structures change over time about 100 times faster than numerical simulators. The work will be presented at SIGGRAPH Asia."
         }
       ]
+    },
+    "science/physicsworld-metasurface-colour-router": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://physicsworld.com/wp-content/uploads/2026/11/spectrum-web-8534073-iStock_koey.jpg",
+          "cap": "Bayer colour filters are a decades-old red, green and blue mosaic used in camera sensors to reconstruct full-colour images, leaving room for a more advanced alternative (Credit: iStock/Koey)"
+        },
+        {
+          "t": "p",
+          "x": "Modern cameras throw away much of the light that enters them. To create a colour image, cameras cover individual detector pixels with red, green or blue filters, each of which rejects most of the spectrum."
+        },
+        {
+          "t": "p",
+          "x": "One possible alternative is to replace these absorptive filters with a metasurface: a patterned layer of silicon-nitride nanopillars that could steer red, green and blue light towards the appropriate detector pixels. Designing such a pattern is, however, an enormous computational challenge."
+        },
+        {
+          "t": "p",
+          "x": "Hyoseok Park and collaborators trained a neural network on 140,000 simulated structures, then combined it with a genetic algorithm that progressively selected and modified the most promising designs. The trained network evaluated optical fields around 230,000 times faster than the original simulations, enabling a search through 40 million candidates."
+        },
+        {
+          "t": "p",
+          "x": "The resulting device transmitted 88.8% of incident light experimentally, compared with 24.7% for a conventional colour-filter array – a factor of 3.6 improvement. Some residual colour crosstalk and a modest loss of spatial resolution remain. Likely applications include smartphone cameras, low-light and night-vision imaging, security cameras, medical endoscopes, and microscopes."
+        }
+      ]
+    },
+    "science/yangmills-proof-gross-panel": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/3ceddda6-8cb0-4621-9f8e-97277f5b40a7/shutterstock_2632659679-WEB.jpg?m=1794411083.492&w=1200",
+          "cap": "Igor Link/Shutterstock"
+        },
+        {
+          "t": "p",
+          "x": "Experts appointed by OpenAI to vet the work say they’ve now verified its artificial-intelligence-generated proof of the “existence” of the quantum Yang-Mills theory—a vital foundation for the Standard Model of particle physics."
+        },
+        {
+          "t": "p",
+          "x": "Seeking to avoid another “slop drop,” the company enlisted theoretical physicist David Gross to lead a committee to supervise the proof’s release. On the night of November 10, Gross and the four colleagues he selected posted a document explaining how the proof works, alongside their affirmation of the proof’s formal verification in Lean."
+        },
+        {
+          "t": "p",
+          "x": "This “shepherding” approach has riled some mathematicians. “I’m happy the shepherds are releasing the Lean proof, finally,” says Scott Armstrong of New York University. “This review can be done more efficiently and quickly in the open.”"
+        },
+        {
+          "t": "p",
+          "x": "Yang-Mills is one of five remaining unsolved Millennium Prize Problems. OpenAI’s model solved the first part, the “existence” problem; the “mass gap” remains unresolved. “We do not claim to fully understand the proof yet,” the committee wrote."
+        }
+      ]
+    },
+    "science/cornell-fish-schooling-ml": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2025/school-fish.jpg",
+          "cap": "Credit: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "Scientists have used new machine learning techniques to investigate the evolution of fish moving together in schools across thousands of species. The paper was published Nov. 6 in the Proceedings of the National Academy of Sciences."
+        },
+        {
+          "t": "p",
+          "x": "Fish species have independently gained the capacity to move together as a unit some 60 times—and lost it some 320 times—across the evolutionary tree of life for fish over the last 350 million years."
+        },
+        {
+          "t": "p",
+          "x": "The team trained a text transformer, the same method behind large language models, on descriptions of species, and used machine learning to analyze photos and videos, convert them into three dimensions and assess whether fish were moving as a group. In total they quantified schooling for 2,839 species, or nearly 10% of the 39,000 living fish species."
+        },
+        {
+          "t": "video",
+          "src": "https://scx2.b-cdn.net/gfx/video/2026/machine-learning-helps.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Species lower in the food chain are more likely to school, and predators that move in groups virtually all eat prey that also move in groups. Lineages where all species schooled developed new species at a higher rate."
+        }
+      ]
+    },
+    "science/psypost-ai-whiteness-study": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.psypost.org/wp-content/uploads/2026/04/artificial-intelligence-ai-chip.jpg"
+        },
+        {
+          "t": "p",
+          "x": "People tend to perceive artificial intelligence systems as White, even when those systems lack a face, voice, name, or body, according to new research published in Journal of Personality and Social Psychology by Monica Gamez-Djokic and Adam Waytz."
+        },
+        {
+          "t": "p",
+          "x": "In Study 1a, U.S. participants selected White for 72% of the technologies on average; in Study 1b, among racialized open-ended responses, 71% were White. In Japan, 82% classified AI as White; in India, 67%."
+        },
+        {
+          "t": "p",
+          "x": "In Study 4, participants who perceived AI as more White rated its fact-checking recommendation as modestly more persuasive, a correlational link. In Study 5, participants assigned less intellectually demanding work to an AI described as trained on data from Black and Latino adults (4.27 vs. 4.51)."
+        },
+        {
+          "t": "p",
+          "x": "“What surprised me most was how little information people needed to racialize AI,” Gamez-Djokic said."
+        }
+      ]
+    },
+    "science/science-alphaproof-code-signal": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://lh3.googleusercontent.com/PHIZgiGejgu8shHsJV9pVfWv7Kr5rTj-e2yIj73c8LkDKBnTTAr2r28DN9aZd1vLDjCnd1Wi2qOD0t8bPpNN-3DfmbEgxj0TE-TttqVbpdoOD1xmFQk=w1440-h810-n-nu"
+        },
+        {
+          "t": "p",
+          "x": "Google DeepMind researchers guided AI agents to mathematically prove key security properties of the actual code underlying the Signal protocol, using AlphaProof Code, a novel agentic framework for formal verification that combines human expertise with AI agents. It is the first time AI has formally verified a widely deployed cryptographic protocol at this depth."
+        },
+        {
+          "t": "p",
+          "x": "Researchers worked with a mix of models to translate Signal's security goals into formal specifications, with human experts reviewing every one. Agents powered by Gemini Carbon then did the proofs, generating over six million lines of Lean, and audited the proof, flagging just one percent of the codebase for a second human look."
+        },
+        {
+          "t": "p",
+          "x": "The agents proved that the compiled code fulfills key security properties down to the exact code running on devices. The process took just four weeks, a task that historically takes expert teams years. When two real, previously fixed bugs were reintroduced, the system produced a machine-checked proof that the buggy version was insecure."
+        },
+        {
+          "t": "img",
+          "src": "https://lh3.googleusercontent.com/kF75VKGl2JdnK6eQJxqPLwQNsMq0CumACxUSMF5WoUME3lAw2-PBaQWpsOxaD1bTaXYhJd46zDMrx9s3kPW_oL9rg2rKh_HoCzYxN8Xd5XRIPQ2Vsg=w1440-h810-n-nu",
+          "cap": "In AlphaProof Code, AI agents help users write a specification, then autonomously prove that the implementation meets it. Every proof is checked by Lean to verify the agents' work."
+        },
+        {
+          "t": "p",
+          "x": "“Using AI agents to translate live code into valid Lean theorems is a major breakthrough,” said Signal CTO Ehren Kret. DeepMind is open-sourcing its formal verification artifacts."
+        }
+      ]
     }
   }
 }

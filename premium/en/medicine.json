@@ -3974,6 +3974,118 @@
           "x": "The models still flagged 2% to 29% of the error types in control reports without inserted errors, most often conclusions not supported by the results. Opus 5.5 achieved the highest major-error detection score (99%), while GPT-6.1 Sol and GPT-6 Luna scored 92% and 87%. The authors suggest that relying on human peer review alone may leave avoidable methodological errors undetected."
         }
       ]
+    },
+    "medicine/mdcalc-crosscover-launch": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_1577391848-1024x576.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "The new tool checks clinicians’ questions for privacy concerns and chatbots’ answers for accuracy."
+        },
+        {
+          "t": "p",
+          "x": "MDCalc, a medical reference tool site, on Wednesday launched CrossCover, a tool the company said is meant to help clinicians trust the answers of medical artificial intelligence chatbots while preserving patient and provider privacy."
+        },
+        {
+          "t": "p",
+          "x": "Graham Walker, head of AI at MDCalc, said the company sees the tool as an accelerator for clinical generative AI. “We can take away some of the challenges and risks and problems with the technology so that physicians can feel more confident in using it,” he said."
+        },
+        {
+          "t": "p",
+          "x": "CrossCover takes an approach that contradicts that of medical AI tools from OpenEvidence, Abridge, and electronic health record company Epic, which are trying to incorporate an ever-widening repertoire of patient, provider, and payer information into their recommendations. Rather than requiring clinicians to register with their national identification numbers or brokering privacy agreements, MDCalc’s tool focuses on stripping out those types of information from clinicians’ queries."
+        }
+      ]
+    },
+    "medicine/nejm-ai-aura-ana-triage": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "No evidence-based guidance exists for triaging individuals with positive antinuclear antibody (ANA) tests for rheumatology referral. The researchers developed and deployed an interpretable clinical prediction model, AURA (AUtoimmune Risk Assessment), to predict which individuals with incident positive ANA tests will develop systemic autoimmune disease, and evaluated it in a 2-year randomized pragmatic study."
+        },
+        {
+          "t": "img",
+          "src": "https://ai.nejm.org/cms/asset/fee9f883-230a-4ffb-a1e4-37ec9187c4b8/aioa2600112_f1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The model was integrated into the electronic health record at a single academic health system. ANA-positive individuals were randomly assigned 1:1; in the intervention group, those with high-risk scores were invited for expedited rheumatology evaluation, while in the control group risk scores were calculated but not acted on."
+        },
+        {
+          "t": "p",
+          "x": "Of 2385 randomly assigned individuals, 954 were analyzed in the intervention group and 1006 in the control group. The intervention group had a significantly shorter time to autoimmune disease diagnosis (hazard ratio, 1.9; 95% CI, 1.3 to 2.7; P<0.001); median time to diagnosis was 43 days versus 138 days."
+        },
+        {
+          "t": "p",
+          "x": "Among those evaluated by rheumatology within 6 months, 23% in the intervention group and 16% in the control group were diagnosed with an autoimmune disease (P=0.07)."
+        }
+      ]
+    },
+    "medicine/uw-rsna-ai-triage-realworld": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Researchers will present their experience in rolling out 11 triage AI algorithms across three hospitals (Thursday, December 3 | 9:30 a.m.-10:30 a.m. | R3-SSIN07-1 | Room E450B)."
+        },
+        {
+          "t": "p",
+          "x": "Real-world evidence on large-scale AI deployment in clinical practice remains limited, noted presenter Domenico Mastrodicasa, MD, of the University of Washington, and colleagues. The group evaluated how system-wide implementation of multiple AI triage tools affected report turnaround time at a quaternary academic health system that includes a Level 1 trauma center."
+        },
+        {
+          "t": "p",
+          "x": "The algorithms were deployed in stages between September 2023 and August 2025 and processed more than 742,000 imaging exams. The researchers compared median turnaround times before and after deployment."
+        },
+        {
+          "t": "p",
+          "x": "The largest gain came for endotracheal tube malposition, where turnaround time dropped by about 76%, followed by rib fracture (53%) and brain vessel occlusion (29%). Pulmonary embolism and intracranial hemorrhage, however, saw no improvement. The researchers say this likely reflects higher proportions of follow-up or inpatient studies with known findings."
+        },
+        {
+          "t": "p",
+          "x": "“As imaging volumes increase, timely identification of clinically significant findings is becoming more challenging,” the authors wrote. “Our experience shows that system-wide implementation of AI triage tools can support radiologists by prioritizing critical findings and improving workflow efficiency in high-volume settings. Since performance varied across applications, realizing these benefits requires targeted deployment and ongoing optimization as clinical workflows evolve.”"
+        }
+      ]
+    },
+    "medicine/synsight-synthetic-rdt": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Rapid diagnostic tests (RDTs) support affordable disease diagnosis. Machine learning (ML) can improve RDT interpretation but often relies on large, proprietary, and costly real-world image libraries."
+        },
+        {
+          "t": "p",
+          "x": "We present SynSight – a ML-enabled RDT segmentation and classification pipeline trained on synthetic data. Validated on HIV (98% sensitivity, 99% specificity) and COVID-19 RDTs (up to 99% accuracy), SynSight enables rapid ML training without real-world training images, keeping pace with new RDT development."
+        }
+      ]
+    },
+    "medicine/google-gemini-healthcare-preview": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2246672936.jpg?VersionId=AZn1m8lIjRQA5JQfMXNbwPJTuF9F9QrJ"
+        },
+        {
+          "t": "p",
+          "x": "Google launched Tuesday Gemini for healthcare, an agentic artificial intelligence platform aimed at connecting complex clinical, financial and administrative workflows used by healthcare providers and payers. It was developed alongside clinical and health plan leaders and is built to support HIPAA compliance."
+        },
+        {
+          "t": "p",
+          "x": "“The fundamental challenge in healthcare isn't a lack of information—it's the immense friction of making that data actionable across a highly regulated ecosystem,” said Thomas Kurian, Google Cloud CEO."
+        },
+        {
+          "t": "p",
+          "x": "The “integrated, fully governed” system has four main components: skills for healthcare work, connectors to administrative systems, an open healthcare partner ecosystem and a secure, governed platform with open model choice. It integrates with EHRs, billing systems, clinical guidelines, coding and CMS datasets."
+        },
+        {
+          "t": "p",
+          "x": "Gemini for healthcare is available in preview as of Nov. 10 to Gemini Enterprise Standard and Plus customers. Partners include GoodRx, Epic, IMO Health, Oracle Health, Infinitus and Suki; health systems HCA Healthcare and Northwell Health have also teamed up with Google for the launch."
+        },
+        {
+          "t": "p",
+          "x": "HCA's Michael Schlosser, M.D., said the company is “exploring how Gemini can interpret and synthesize complex patient information from multiple electronic health record systems and care settings.”"
+        }
+      ]
     }
   }
 }

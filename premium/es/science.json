@@ -10723,6 +10723,138 @@
           "x": "“Queremos tener un momento GPT para la simulación”, dice Peter Yichen Chen, exinvestigador posdoctoral del MIT y ahora en la UBC. Los investigadores demostraron WorldParticle en seis fenómenos físicos, entre ellos objetos deformables, materiales granulares y proteínas, con mayor precisión que los métodos de simulación numérica, y modelaron cómo cambian las estructuras de las proteínas con el tiempo unas 100 veces más rápido que los simuladores numéricos. El trabajo se presentará en SIGGRAPH Asia."
         }
       ]
+    },
+    "science/physicsworld-metasurface-colour-router": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://physicsworld.com/wp-content/uploads/2026/11/spectrum-web-8534073-iStock_koey.jpg",
+          "cap": "Los filtros de color Bayer son un mosaico rojo, verde y azul con décadas de antigüedad que se usa en los sensores de las cámaras para reconstruir imágenes a todo color, lo que deja margen para una alternativa más avanzada (Crédito: iStock/Koey)"
+        },
+        {
+          "t": "p",
+          "x": "Las cámaras modernas desechan gran parte de la luz que entra en ellas. Para crear una imagen en color, cubren los píxeles detectores individuales con filtros rojos, verdes o azules, cada uno de los cuales rechaza la mayor parte del espectro."
+        },
+        {
+          "t": "p",
+          "x": "Una posible alternativa es sustituir estos filtros absorbentes por una metasuperficie: una capa estampada de nanopilares de nitruro de silicio capaz de dirigir la luz roja, verde y azul hacia los píxeles detectores adecuados. Sin embargo, diseñar un patrón así supone un enorme desafío computacional."
+        },
+        {
+          "t": "p",
+          "x": "Hyoseok Park y sus colaboradores entrenaron una red neuronal con 140,000 estructuras simuladas y luego la combinaron con un algoritmo genético que seleccionaba y modificaba progresivamente los diseños más prometedores. La red entrenada evaluaba los campos ópticos unas 230,000 veces más rápido que las simulaciones originales, lo que permitió explorar 40 millones de candidatos."
+        },
+        {
+          "t": "p",
+          "x": "El dispositivo resultante transmitió experimentalmente el 88.8% de la luz incidente, frente al 24.7% de una matriz de filtros de color convencional: una mejora de un factor de 3.6. Persisten cierta diafonía de color residual y una modesta pérdida de resolución espacial. Entre las aplicaciones probables figuran las cámaras de smartphones, la imagen con poca luz y de visión nocturna, las cámaras de seguridad, los endoscopios médicos y los microscopios."
+        }
+      ]
+    },
+    "science/yangmills-proof-gross-panel": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/3ceddda6-8cb0-4621-9f8e-97277f5b40a7/shutterstock_2632659679-WEB.jpg?m=1794411083.492&w=1200",
+          "cap": "Igor Link/Shutterstock"
+        },
+        {
+          "t": "p",
+          "x": "Los expertos designados por OpenAI para revisar el trabajo afirman que ya han verificado su prueba generada por inteligencia artificial (AI-generated) de la “existencia” de la teoría cuántica de Yang-Mills, un pilar fundamental del Modelo Estándar de la física de partículas."
+        },
+        {
+          "t": "p",
+          "x": "Para evitar otro “slop drop”, la empresa pidió al físico teórico David Gross que dirigiera un comité encargado de supervisar la publicación de la prueba. La noche del 10 de noviembre, Gross y los cuatro colegas que eligió publicaron un documento que explica cómo funciona la prueba, junto con su aval a la verificación formal de la prueba en Lean."
+        },
+        {
+          "t": "p",
+          "x": "Este enfoque de “shepherding” (pastoreo) ha irritado a algunos matemáticos. “Me alegra que los pastores por fin publiquen la prueba en Lean”, dice Scott Armstrong, de la Universidad de Nueva York. “Esta revisión puede hacerse de forma más eficiente y rápida en abierto”."
+        },
+        {
+          "t": "p",
+          "x": "Yang-Mills es uno de los cinco Problemas del Milenio que siguen sin resolverse. El modelo de OpenAI resolvió la primera parte, el problema de la “existencia”; la “brecha de masa” sigue sin resolverse. “Todavía no afirmamos comprender del todo la prueba”, escribió el comité."
+        }
+      ]
+    },
+    "science/cornell-fish-schooling-ml": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2025/school-fish.jpg",
+          "cap": "Credit: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "Un grupo de científicos usó nuevas técnicas de aprendizaje automático para investigar la evolución del movimiento conjunto de los peces en cardúmenes a lo largo de miles de especies. El artículo se publicó el 6 de noviembre en Proceedings of the National Academy of Sciences."
+        },
+        {
+          "t": "p",
+          "x": "Las especies de peces adquirieron de forma independiente la capacidad de moverse juntas como una unidad unas 60 veces, y la perdieron unas 320, a lo largo del árbol evolutivo de los peces durante los últimos 350 millones de años."
+        },
+        {
+          "t": "p",
+          "x": "El equipo entrenó un transformer de texto, el mismo método que hay detrás de los grandes modelos de lenguaje, con descripciones de especies, y usó aprendizaje automático para analizar fotos y videos, convertirlos a tres dimensiones y evaluar si los peces se movían en grupo. En total cuantificaron el comportamiento de cardumen en 2,839 especies, casi el 10% de las 39,000 especies de peces vivas."
+        },
+        {
+          "t": "video",
+          "src": "https://scx2.b-cdn.net/gfx/video/2026/machine-learning-helps.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Las especies situadas más abajo en la cadena alimentaria tienen más probabilidades de formar cardúmenes, y los depredadores que se mueven en grupo casi siempre comen presas que también se mueven en grupo. Los linajes en los que todas las especies formaban cardúmenes originaron nuevas especies a un ritmo mayor."
+        }
+      ]
+    },
+    "science/psypost-ai-whiteness-study": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.psypost.org/wp-content/uploads/2026/04/artificial-intelligence-ai-chip.jpg"
+        },
+        {
+          "t": "p",
+          "x": "La gente tiende a percibir los sistemas de inteligencia artificial como blancos, incluso cuando carecen de rostro, voz, nombre o cuerpo, según una nueva investigación publicada en Journal of Personality and Social Psychology por Monica Gamez-Djokic y Adam Waytz."
+        },
+        {
+          "t": "p",
+          "x": "En el Study 1a, los participantes de EE. UU. (U.S.) eligieron la categoría blanca para el 72% de las tecnologías en promedio; en el Study 1b, entre las respuestas abiertas racializadas, el 71% fueron blancas. En Japón, el 82% clasificó la AI como blanca; en la India, el 67%."
+        },
+        {
+          "t": "p",
+          "x": "En el Study 4, los participantes que percibían la AI como más blanca calificaron su recomendación de verificación de datos como algo más persuasiva, un vínculo correlacional. En el Study 5, los participantes asignaron tareas menos exigentes intelectualmente a una AI descrita como entrenada con datos de adultos negros y latinos (4.27 vs. 4.51)."
+        },
+        {
+          "t": "p",
+          "x": "“Lo que más me sorprendió fue la poca información que la gente necesitaba para racializar la AI”, dijo Gamez-Djokic."
+        }
+      ]
+    },
+    "science/science-alphaproof-code-signal": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://lh3.googleusercontent.com/PHIZgiGejgu8shHsJV9pVfWv7Kr5rTj-e2yIj73c8LkDKBnTTAr2r28DN9aZd1vLDjCnd1Wi2qOD0t8bPpNN-3DfmbEgxj0TE-TttqVbpdoOD1xmFQk=w1440-h810-n-nu"
+        },
+        {
+          "t": "p",
+          "x": "Investigadores de Google DeepMind guiaron a agentes de AI para demostrar matemáticamente propiedades de seguridad clave del código real que sustenta el protocolo Signal, con AlphaProof Code, un nuevo marco agéntico de verificación formal que combina la experiencia humana con agentes de AI. Es la primera vez que la AI verifica formalmente con esta profundidad un protocolo criptográfico de amplio despliegue."
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores usaron una combinación de modelos para traducir los objetivos de seguridad de Signal a especificaciones formales, y expertos humanos revisaron cada una. Después, agentes impulsados por Gemini Carbon hicieron las demostraciones, generaron más de seis millones de líneas de Lean y auditaron la prueba, señalando apenas el uno por ciento del código para una segunda revisión humana."
+        },
+        {
+          "t": "p",
+          "x": "Los agentes demostraron que el código compilado cumple propiedades de seguridad clave hasta el código exacto que se ejecuta en los dispositivos. El proceso llevó apenas cuatro semanas, una tarea que históricamente ocupa años a equipos de expertos. Al reintroducir dos errores reales ya corregidos, el sistema produjo una prueba verificada por máquina de que la versión con fallos era insegura."
+        },
+        {
+          "t": "img",
+          "src": "https://lh3.googleusercontent.com/kF75VKGl2JdnK6eQJxqPLwQNsMq0CumACxUSMF5WoUME3lAw2-PBaQWpsOxaD1bTaXYhJd46zDMrx9s3kPW_oL9rg2rKh_HoCzYxN8Xd5XRIPQ2Vsg=w1440-h810-n-nu",
+          "cap": "En AlphaProof Code, los agentes de AI ayudan a los usuarios a redactar una especificación y luego demuestran de forma autónoma que la implementación la cumple. Lean comprueba cada prueba para verificar el trabajo de los agentes."
+        },
+        {
+          "t": "p",
+          "x": "“Usar agentes de AI para traducir código en producción a teoremas válidos de Lean es un gran avance”, dijo el CTO de Signal, Ehren Kret. DeepMind está publicando como código abierto sus artefactos de verificación formal."
+        }
+      ]
     }
   }
 }

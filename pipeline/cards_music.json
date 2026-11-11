@@ -1,423 +1,239 @@
 {
-  "date": "2026-11-11",
+  "date": "2026-11-12",
   "section": "music",
   "cards": [
     {
-      "id": "spotify-dj-new-voices",
+      "id": "ace-studio-music-v1",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Spotify AI DJ\n새 목소리에 끄기까지",
-      "body": "Spotify AI DJ에 영어 음성 여덟, 스페인어 둘과 해설 끄기가 생겼다.",
-      "mini_headline": "Spotify DJ 새 목소리",
+      "headline": "ACE Music v1이\n보컬 순위서 Suno 제쳐",
+      "body": "ACE Music v1이 블라인드 보컬 순위 정상에 올라 Suno v6를 앞섰다.",
+      "mini_headline": "ACE Music v1, Suno를 근소하게 앞서다",
       "tool": "Music",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/entertainment/1030682/spotify-dj-gets-new-voices-and-the-ability-to-stop-yammering",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/383070/new-ai-music-model-already-better-than-suno-ace-review",
       "accent": "#ff2d55",
-      "motif": "sphere",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23985252/VRG_Illo_STK130_K_Radtke_Spotify_Podcast_1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-          },
-          {
-            "t": "p",
-            "x": "Spotify DJ에 새 목소리가 생겼다. 수다를 끌 수도 있다."
-          },
-          {
-            "t": "p",
-            "x": "이제 DJ에서 억양이 다양한 영어 목소리 여덟 가지와 새 스페인어 목소리 두 가지를 더 골라 취향대로 꾸밀 수 있다. Spotify DJ가 곡 사이에 끼워 넣는 해설이 지겹다면 꺼 두면 된다. 음악이 그만큼 덜 끊긴다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Spotify's AI DJ gets new\nvoices and an off switch",
-          "body": "Spotify's AI DJ adds eight English voices and two Spanish ones, plus an option to turn its commentary off.",
-          "mini_headline": "Spotify DJ gets\nnew voices",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23985252/VRG_Illo_STK130_K_Radtke_Spotify_Podcast_1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-              },
-              {
-                "t": "p",
-                "x": "Spotify DJ gets new voices, and the ability to stop yammering."
-              },
-              {
-                "t": "p",
-                "x": "There are now eight more English-speaking voice options in various accents, and two new Spanish voices available for DJ, if you feel like personalizing that experience. You can also turn off the commentary that Spotify DJ makes between songs if you’re sick of hearing it talk, which will your music play with fewer interruptions."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Spotify AI DJ\n새 목소리에 끄기까지",
-          "body": "Spotify AI DJ에 영어 음성 여덟, 스페인어 둘과 해설 끄기가 생겼다.",
-          "mini_headline": "Spotify DJ 새 목소리",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23985252/VRG_Illo_STK130_K_Radtke_Spotify_Podcast_1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-              },
-              {
-                "t": "p",
-                "x": "Spotify DJ에 새 목소리가 생겼다. 수다를 끌 수도 있다."
-              },
-              {
-                "t": "p",
-                "x": "이제 DJ에서 억양이 다양한 영어 목소리 여덟 가지와 새 스페인어 목소리 두 가지를 더 골라 취향대로 꾸밀 수 있다. Spotify DJ가 곡 사이에 끼워 넣는 해설이 지겹다면 꺼 두면 된다. 음악이 그만큼 덜 끊긴다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Spotify AI DJ\n新音声とオフ機能",
-          "body": "Spotify AI DJに英語音声八つとスペイン語音声二つ、解説オフ機能が加わった。",
-          "mini_headline": "Spotify DJに新しい声",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23985252/VRG_Illo_STK130_K_Radtke_Spotify_Podcast_1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-              },
-              {
-                "t": "p",
-                "x": "Spotify DJに新しい声が加わり、おしゃべりを止められるようにもなった。"
-              },
-              {
-                "t": "p",
-                "x": "DJではさまざまなアクセントの英語の音声が新たに八つ、スペイン語の新しい音声が二つ選べるようになり、好みに合わせて体験をカスタマイズできる。Spotify DJが曲の合間に入れる解説に飽きたなら、それをオフにすることもでき、音楽が途切れにくくなる。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Spotify AI DJ\n新增声音与关闭开关",
-          "body": "Spotify AI DJ 新增八种英语声音和两种西班牙语声音，并可关闭解说。",
-          "mini_headline": "Spotify DJ 新增声音",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23985252/VRG_Illo_STK130_K_Radtke_Spotify_Podcast_1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-              },
-              {
-                "t": "p",
-                "x": "Spotify DJ 新增了声音，也终于可以让它别再唠叨了。"
-              },
-              {
-                "t": "p",
-                "x": "DJ 现在新增了八种不同口音的英语声音选项，以及两种新的西班牙语声音，方便你按喜好定制体验。如果你听腻了 Spotify DJ 在歌曲之间的解说，也可以将其关闭，让音乐播放时少些打断。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "El AI DJ de Spotify estrena\nnuevas voces y modo sin charla",
-          "body": "El AI DJ de Spotify suma ocho voces en inglés y dos en español, además de una opción para desactivar sus comentarios.",
-          "mini_headline": "El DJ de Spotify estrena voces",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23985252/VRG_Illo_STK130_K_Radtke_Spotify_Podcast_1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-              },
-              {
-                "t": "p",
-                "x": "Spotify DJ recibe nuevas voces y la posibilidad de dejar de parlotear."
-              },
-              {
-                "t": "p",
-                "x": "Ahora hay ocho opciones de voz más en inglés, con distintos acentos, y dos nuevas voces en español disponibles para DJ, por si quieres personalizar la experiencia. También puedes desactivar los comentarios que Spotify DJ hace entre canciones si te has cansado de oírlo hablar, de modo que tu música sonará con menos interrupciones."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Spotify AI DJ\n새 목소리·끄기 기능",
-          "body": "Spotify AI DJ가 영어 음성 여덟, 스페인어 둘과 해설 끄기를 더했다.",
-          "mini_headline": "Spotify DJ 새 목소리",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23985252/VRG_Illo_STK130_K_Radtke_Spotify_Podcast_1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-              },
-              {
-                "t": "p",
-                "x": "Spotify DJ에 새 목소리가 생기고, 수다를 멈추게 할 수도 있게 됐다."
-              },
-              {
-                "t": "p",
-                "x": "이제 DJ에서 다양한 억양의 영어 목소리 여덟 가지와 새 스페인어 목소리 두 가지를 더 고를 수 있어, 원하는 대로 경험을 꾸밀 수 있다. Spotify DJ가 곡 사이에 하는 해설이 지겹다면 이를 끌 수도 있어 음악이 덜 끊긴 채 재생된다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Spotify AI DJ\n新音声とオフ機能",
-          "body": "Spotify AI DJに英語音声八つとスペイン語音声二つ、解説オフ機能が加わった。",
-          "mini_headline": "Spotify DJに新しい声",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23985252/VRG_Illo_STK130_K_Radtke_Spotify_Podcast_1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-              },
-              {
-                "t": "p",
-                "x": "Spotify DJに新しい声が加わり、おしゃべりを止められるようにもなった。"
-              },
-              {
-                "t": "p",
-                "x": "DJではさまざまなアクセントの英語の音声が新たに八つ、スペイン語の新しい音声が二つ選べるようになり、好みに合わせて体験をカスタマイズできる。Spotify DJが曲の合間に入れる解説に飽きたなら、それをオフにすることもでき、音楽が途切れにくくなる。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Spotify AI DJ\n新增声音与关闭开关",
-          "body": "Spotify AI DJ 新增八种英语声音和两种西班牙语声音，并可关闭解说。",
-          "mini_headline": "Spotify DJ 新增声音",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23985252/VRG_Illo_STK130_K_Radtke_Spotify_Podcast_1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-              },
-              {
-                "t": "p",
-                "x": "Spotify DJ 新增了声音，也终于可以让它别再唠叨了。"
-              },
-              {
-                "t": "p",
-                "x": "DJ 现在新增了八种不同口音的英语声音选项，以及两种新的西班牙语声音，方便你按喜好定制体验。如果你听腻了 Spotify DJ 在歌曲之间的解说，也可以将其关闭，让音乐播放时少些打断。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "El AI DJ de Spotify estrena\nnuevas voces y modo sin charla",
-          "body": "El AI DJ de Spotify suma ocho voces en inglés y dos en español, además de una opción para desactivar sus comentarios.",
-          "mini_headline": "El DJ de Spotify estrena voces",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23985252/VRG_Illo_STK130_K_Radtke_Spotify_Podcast_1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-              },
-              {
-                "t": "p",
-                "x": "Spotify DJ recibe nuevas voces y la posibilidad de dejar de parlotear."
-              },
-              {
-                "t": "p",
-                "x": "Ahora hay ocho opciones de voz más en inglés, con distintos acentos, y dos nuevas voces en español disponibles para DJ, por si quieres personalizar la experiencia. También puedes desactivar los comentarios que Spotify DJ hace entre canciones si te has cansado de oírlo hablar, de modo que tu música sonará con menos interrupciones."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "vsl-vienna-performer",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "VSL 플러그인이\nMIDI를 사람처럼 연주",
-      "body": "VSL 녹음으로만 학습한 Vienna Performer가 MIDI에 표현을 입힌다.",
-      "mini_headline": "VSL AI가 MIDI를 연주",
-      "tool": "Music",
-      "source": "Sound On Sound",
-      "url": "https://www.soundonsound.com/news/vsl-introduce-vienna-performer",
-      "accent": "#0070f3",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/news_large/s3/imagelibrary/v/vsl_vienna_performer-duMmyjQ3ktwjp2hbBd4zsrUQ7R0lCMOE.jpg"
+            "src": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/AI-music-decrypt-style-03-gID_7.jpg"
           },
           {
             "t": "p",
-            "x": "VSL은 Vienna Performer를 DAW 안의 세션 연주자라고 소개한다. AI 기반(AI-powered) 플러그인으로, 사용자의 MIDI 파트를 받아 프레이징, 활 방향, 호흡, 비브라토, 타이밍을 다듬은 뒤 렌더링한 오디오 파일로 돌려준다."
+            "x": "ACE Studio가 만든 ACE Music v1이 Artificial Analysis 보컬 음악 순위 정상에 올랐다. Elo 점수 1,160점으로 Suno v6(1,144점)를 앞섰다. AA-Music-Vocal v1.1 벤치마크에서는 평가자가 같은 프롬프트로 만든 곡을 어느 모델 작품인지 모른 채 듣고 마음에 드는 곡을 고른다."
+          },
+          {
+            "t": "img",
+            "src": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://imagedelivery.net/YN1-rdnufJQJCgu3i1CbVw/MfUFfyR49NwW4OCFj1yIR9UB6An2rQPWYPKjJXYgzSA/public@webp"
           },
           {
             "t": "p",
-            "x": "모델 학습에는 VSL이 이 용도로 자체 스튜디오 Synchron Stage에서 따로 녹음한 음원만 썼다. 생성 기능은 없다. 음표와 다이내믹은 모두 사용자의 원래 파트 그대로이고 Vienna Performer는 아티큘레이션, 음 사이의 연결, 미세한 타이밍만 손본다."
+            "x": "격차는 크지 않고 두 모델의 통계적 신뢰구간도 겹친다. 기악 음악 순위는 따로 있는데, 여기서는 여전히 Suno가 정상이다."
           },
           {
             "t": "p",
-            "x": "출시 시점 라인업은 솔로 Violin, Cello, Flute, Clarinet, French Horn과 First Violins, Second Violins, Violas, Cellos 앙상블이다. 솔로 Trumpet과 Double Bass 앙상블도 곧 나온다."
+            "x": "Decrypt가 직접 써 보니 ACE Music은 주류 스타일에서 선율과 짜임새가 더 나은 곡을 냈고 보컬도 더 자연스럽고 마무리가 깔끔했다. 다만 멜로딕 데스메탈처럼 관습에서 벗어난 장르에서는 아직 Suno가 앞선다."
           },
           {
             "t": "p",
-            "x": "구독제이고 세 등급의 차이는 렌더 시간(분)뿐이다. Entry(140, 월 €9.99), Standard(360, 월 €19.99), Pro(1000, 월 €49.99)다. 렌더 시간은 악기 트랙마다 따로 세기 때문에 파트 12개짜리 두 분 길이 큐라면 24분이 든다. Windows 10+와 macOS 12+에서 VST3, AU, AAX로 쓸 수 있다."
+            "x": "“Idea” 기능은 기본 콘셉트를 가사와 구조가 있는 곡으로 키워 준다. v1.1 Preview는 오디오보다 악보를 먼저 만든다. 사용자는 멜로디와 코드를 고치고 MIDI 파일을 내보내며 보컬과 악기를 분리할 수도 있다."
+          },
+          {
+            "t": "p",
+            "x": "플래그십 모델은 아직 비공개 소스이고 공개 API도 없다. ACE Studio와 StepFun은 오픈 모델 ACE-Step 1.5를 이미 내놓았으며, 개발진은 “ACE Music v1 Flash를 2026년 말 오픈소스로 공개할 계획”이라고 했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "VSL's Vienna Performer plays\nyour MIDI like a musician",
-          "body": "Vienna Performer's models, trained only on VSL's own recordings, add phrasing, bowing and vibrato to your MIDI.",
-          "mini_headline": "VSL's AI plays\nyour MIDI",
+          "headline": "ACE Music v1 tops a blind\nvocal leaderboard over Suno",
+          "body": "ACE Studio's ACE Music v1 took first place on Artificial Analysis' blind vocal-music leaderboard, edging Suno v6.",
+          "mini_headline": "ACE Music v1 edges past Suno",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/news_large/s3/imagelibrary/v/vsl_vienna_performer-duMmyjQ3ktwjp2hbBd4zsrUQ7R0lCMOE.jpg"
+                "src": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/AI-music-decrypt-style-03-gID_7.jpg"
               },
               {
                 "t": "p",
-                "x": "Described as a session musician inside your DAW, VSL’s Vienna Performer is an AI-powered plug-in that takes a user’s MIDI parts, adjusts phrasing, bow direction, breath, vibrato and timing, and delivers the results as a rendered audio file."
+                "x": "ACE Music v1, developed by ACE Studio, has taken first place on Artificial Analysis' vocal music leaderboard, scoring 1,160 Elo points against Suno v6's 1,144. The AA-Music-Vocal v1.1 benchmark has evaluators listen to tracks produced from identical prompts without knowing which model created them, then choose their favorite."
+              },
+              {
+                "t": "img",
+                "src": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://imagedelivery.net/YN1-rdnufJQJCgu3i1CbVw/MfUFfyR49NwW4OCFj1yIR9UB6An2rQPWYPKjJXYgzSA/public@webp"
               },
               {
                 "t": "p",
-                "x": "Its models were trained exclusively on purpose-made recordings captured by VSL at its own Synchron Stage studio. There is no generative functionality — notes and dynamics come entirely from the user’s original part, while Vienna Performer handles articulations, note transitions and small timing adjustments."
+                "x": "The lead is relatively narrow, and the models' statistical confidence intervals overlap. Suno also retains the top position on the separate instrumental music leaderboard."
               },
               {
                 "t": "p",
-                "x": "It launches with solo Violin, Cello, Flute, Clarinet and French Horn, plus ensembles of First Violins, Second Violins, Violas and Cellos; solo Trumpet and a Double Bass ensemble follow shortly."
+                "x": "In Decrypt's hands-on tests, ACE Music produced more melodic and coherent songs in mainstream styles, with more natural vocals and cleaner endings. Suno still had an advantage in less conventional genres such as melodic death metal."
               },
               {
                 "t": "p",
-                "x": "It is subscription based in three tiers that differ only in render minutes: Entry (140, €9.99/month), Standard (360, €19.99/month) and Pro (1000, €49.99/month). Render minutes are counted per instrument track, so a two-minute cue with 12 parts uses 24. It runs on Windows 10+ and macOS 12+ as VST3, AU and AAX."
+                "x": "Its “Idea” feature can develop a basic concept into lyrics and a structured composition; the v1.1 Preview creates a musical score before generating audio, and users can edit melodies and chords, export MIDI files and separate vocals from instruments."
+              },
+              {
+                "t": "p",
+                "x": "The flagship model remains closed-source with no public API. ACE Studio and StepFun have already released the open ACE-Step 1.5, and “We plan to open-source ACE Music v1 Flash in late 2026,” the developers state."
               }
             ]
           }
         },
         "ko": {
-          "headline": "VSL 플러그인이\nMIDI를 사람처럼 연주",
-          "body": "VSL 녹음으로만 학습한 Vienna Performer가 MIDI에 표현을 입힌다.",
-          "mini_headline": "VSL AI가 MIDI를 연주",
+          "headline": "ACE Music v1이\n보컬 순위서 Suno 제쳐",
+          "body": "ACE Music v1이 블라인드 보컬 순위 정상에 올라 Suno v6를 앞섰다.",
+          "mini_headline": "ACE Music v1, Suno를 근소하게 앞서다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/news_large/s3/imagelibrary/v/vsl_vienna_performer-duMmyjQ3ktwjp2hbBd4zsrUQ7R0lCMOE.jpg"
+                "src": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/AI-music-decrypt-style-03-gID_7.jpg"
               },
               {
                 "t": "p",
-                "x": "VSL은 Vienna Performer를 DAW 안의 세션 연주자라고 소개한다. AI 기반(AI-powered) 플러그인으로, 사용자의 MIDI 파트를 받아 프레이징, 활 방향, 호흡, 비브라토, 타이밍을 다듬은 뒤 렌더링한 오디오 파일로 돌려준다."
+                "x": "ACE Studio가 만든 ACE Music v1이 Artificial Analysis 보컬 음악 순위 정상에 올랐다. Elo 점수 1,160점으로 Suno v6(1,144점)를 앞섰다. AA-Music-Vocal v1.1 벤치마크에서는 평가자가 같은 프롬프트로 만든 곡을 어느 모델 작품인지 모른 채 듣고 마음에 드는 곡을 고른다."
+              },
+              {
+                "t": "img",
+                "src": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://imagedelivery.net/YN1-rdnufJQJCgu3i1CbVw/MfUFfyR49NwW4OCFj1yIR9UB6An2rQPWYPKjJXYgzSA/public@webp"
               },
               {
                 "t": "p",
-                "x": "모델 학습에는 VSL이 이 용도로 자체 스튜디오 Synchron Stage에서 따로 녹음한 음원만 썼다. 생성 기능은 없다. 음표와 다이내믹은 모두 사용자의 원래 파트 그대로이고 Vienna Performer는 아티큘레이션, 음 사이의 연결, 미세한 타이밍만 손본다."
+                "x": "격차는 크지 않고 두 모델의 통계적 신뢰구간도 겹친다. 기악 음악 순위는 따로 있는데, 여기서는 여전히 Suno가 정상이다."
               },
               {
                 "t": "p",
-                "x": "출시 시점 라인업은 솔로 Violin, Cello, Flute, Clarinet, French Horn과 First Violins, Second Violins, Violas, Cellos 앙상블이다. 솔로 Trumpet과 Double Bass 앙상블도 곧 나온다."
+                "x": "Decrypt가 직접 써 보니 ACE Music은 주류 스타일에서 선율과 짜임새가 더 나은 곡을 냈고 보컬도 더 자연스럽고 마무리가 깔끔했다. 다만 멜로딕 데스메탈처럼 관습에서 벗어난 장르에서는 아직 Suno가 앞선다."
               },
               {
                 "t": "p",
-                "x": "구독제이고 세 등급의 차이는 렌더 시간(분)뿐이다. Entry(140, 월 €9.99), Standard(360, 월 €19.99), Pro(1000, 월 €49.99)다. 렌더 시간은 악기 트랙마다 따로 세기 때문에 파트 12개짜리 두 분 길이 큐라면 24분이 든다. Windows 10+와 macOS 12+에서 VST3, AU, AAX로 쓸 수 있다."
+                "x": "“Idea” 기능은 기본 콘셉트를 가사와 구조가 있는 곡으로 키워 준다. v1.1 Preview는 오디오보다 악보를 먼저 만든다. 사용자는 멜로디와 코드를 고치고 MIDI 파일을 내보내며 보컬과 악기를 분리할 수도 있다."
+              },
+              {
+                "t": "p",
+                "x": "플래그십 모델은 아직 비공개 소스이고 공개 API도 없다. ACE Studio와 StepFun은 오픈 모델 ACE-Step 1.5를 이미 내놓았으며, 개발진은 “ACE Music v1 Flash를 2026년 말 오픈소스로 공개할 계획”이라고 했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "VSLのプラグインが\nMIDIを奏者のように演奏",
-          "body": "VSLの自社録音のみで学習したVienna PerformerがMIDIに表情を付ける。",
-          "mini_headline": "VSLのAIがMIDIを演奏",
+          "headline": "ACE Music v1が\nブラインド評価でSuno超え",
+          "body": "ACE Music v1がブラインド評価のボーカル部門でSuno v6を抑え首位に立った。",
+          "mini_headline": "ACE Music v1、Sunoを僅差で上回る",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/news_large/s3/imagelibrary/v/vsl_vienna_performer-duMmyjQ3ktwjp2hbBd4zsrUQ7R0lCMOE.jpg"
+                "src": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/AI-music-decrypt-style-03-gID_7.jpg"
               },
               {
                 "t": "p",
-                "x": "DAWの中のセッションミュージシャンと説明されるVSLのVienna Performerは、AI搭載(AI-powered)のプラグインだ。ユーザーのMIDIパートを受け取り、フレージング、弓の方向、ブレス、ビブラート、タイミングを調整し、結果をレンダリング済みのオーディオファイルとして出力する。"
+                "x": "ACE Studioが開発したACE Music v1が、Artificial Analysisのボーカル音楽ランキングで首位に立った。Eloスコアは1,160で、Suno v6の1,144を上回る。AA-Music-Vocal v1.1ベンチマークでは、評価者が同一のプロンプトから生成された楽曲を、どのモデルが作ったかを知らされないまま聴き比べ、好みの曲を選ぶ。"
+              },
+              {
+                "t": "img",
+                "src": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://imagedelivery.net/YN1-rdnufJQJCgu3i1CbVw/MfUFfyR49NwW4OCFj1yIR9UB6An2rQPWYPKjJXYgzSA/public@webp"
               },
               {
                 "t": "p",
-                "x": "モデルは、VSLが自社スタジオSynchron Stageでこの目的のために収録した音源のみで学習している。生成機能はない。音符とダイナミクスはすべてユーザーの元のパートに由来し、Vienna Performerはアーティキュレーション、音のつながり、細かなタイミング調整を担う。"
+                "x": "リードは比較的小さく、両モデルの統計的な信頼区間は重なっている。また、別枠のインストゥルメンタル音楽ランキングでは、Sunoが引き続き首位を保っている。"
               },
               {
                 "t": "p",
-                "x": "発売時点では、ソロのViolin、Cello、Flute、Clarinet、French Hornに加え、First Violins、Second Violins、Violas、Cellosのアンサンブルを用意する。ソロのTrumpetとDouble Bassアンサンブルも間もなく続く。"
+                "x": "Decryptによる実地テストでは、ACE Musicは主流のスタイルでより旋律的でまとまりのある曲を生成し、ボーカルはより自然で、曲の終わり方もすっきりしていた。一方、メロディック・デスメタルのような型にはまらないジャンルでは、Sunoがなお優位だった。"
               },
               {
                 "t": "p",
-                "x": "サブスクリプション制で、三つのプランの違いはレンダー時間(分)のみだ。Entry(140、月額€9.99)、Standard(360、月額€19.99)、Pro(1000、月額€49.99)となる。レンダー時間は楽器トラックごとに数えるため、12パートある二分間のキューでは24を使う。Windows 10+とmacOS 12+で、VST3、AU、AAXとして動作する。"
+                "x": "「Idea」機能は、基本的なコンセプトを歌詞と構成を備えた楽曲へと発展させる。v1.1 Previewは音声を生成する前に楽譜を作成し、ユーザーはメロディーやコードを編集したり、MIDIファイルを書き出したり、ボーカルと楽器を分離したりできる。"
+              },
+              {
+                "t": "p",
+                "x": "フラッグシップモデルは引き続きクローズドソースで、公開APIもない。ACE StudioとStepFunはすでにオープンなACE-Step 1.5を公開しており、開発陣は「2026年後半にACE Music v1 Flashをオープンソース化する予定だ」と述べている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "VSL 新插件\n像乐手一样演奏 MIDI",
-          "body": "Vienna Performer仅用VSL自有录音训练，为MIDI添加乐句、运弓和揉弦。",
-          "mini_headline": "VSL 的 AI 演奏 MIDI",
+          "headline": "ACE Music v1\n盲测人声榜超越Suno",
+          "body": "ACE Music v1在盲测人声音乐榜单上登顶，以微弱优势胜过Suno v6。",
+          "mini_headline": "ACE Music v1小胜Suno",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/news_large/s3/imagelibrary/v/vsl_vienna_performer-duMmyjQ3ktwjp2hbBd4zsrUQ7R0lCMOE.jpg"
+                "src": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/AI-music-decrypt-style-03-gID_7.jpg"
               },
               {
                 "t": "p",
-                "x": "VSL 的 Vienna Performer 被形容为 DAW 里的录音室乐手，是一款 AI 驱动（AI-powered）的插件：它接收用户的 MIDI 声部，调整乐句、弓向、呼吸、揉弦和时值，并以渲染好的音频文件输出结果。"
+                "x": "由ACE Studio开发的ACE Music v1在Artificial Analysis的人声音乐榜单上位居榜首，以1,160 Elo分领先Suno v6的1,144分。AA-Music-Vocal v1.1基准测试让评测者在不知道由哪个模型生成的情况下，试听用相同提示词生成的曲目，并选出自己更喜欢的作品。"
+              },
+              {
+                "t": "img",
+                "src": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://imagedelivery.net/YN1-rdnufJQJCgu3i1CbVw/MfUFfyR49NwW4OCFj1yIR9UB6An2rQPWYPKjJXYgzSA/public@webp"
               },
               {
                 "t": "p",
-                "x": "其模型完全基于 VSL 在自家 Synchron Stage 录音棚专门录制的素材训练。它没有生成功能——音符和力度完全来自用户原本的声部，Vienna Performer 只负责演奏法、音与音之间的过渡以及细微的时值调整。"
+                "x": "领先优势相对较小，两个模型的统计置信区间存在重叠。在另一份器乐音乐榜单上，Suno仍保持榜首位置。"
               },
               {
                 "t": "p",
-                "x": "首发提供独奏 Violin、Cello、Flute、Clarinet 和 French Horn，以及 First Violins、Second Violins、Violas 和 Cellos 合奏；独奏 Trumpet 和 Double Bass 合奏随后很快推出。"
+                "x": "在Decrypt的实测中，ACE Music在主流风格上生成的歌曲旋律性更强、结构更连贯，人声更自然，结尾也更干净。在旋律死亡金属等不那么常规的曲风上，Suno仍占优势。"
               },
               {
                 "t": "p",
-                "x": "它采用订阅制，三个档位只在渲染分钟数上有区别：Entry（140，每月 €9.99）、Standard（360，每月 €19.99）和 Pro（1000，每月 €49.99）。渲染分钟按乐器音轨计算，因此一段两分钟、含 12 个声部的配乐会用掉 24 分钟。它支持 Windows 10+ 和 macOS 12+，格式为 VST3、AU 和 AAX。"
+                "x": "其“Idea”功能可以把一个基本构想发展成歌词和结构完整的作品；v1.1 Preview会在生成音频前先创建乐谱，用户可以编辑旋律与和弦、导出MIDI文件，并分离人声与乐器。"
+              },
+              {
+                "t": "p",
+                "x": "旗舰模型仍为闭源，也没有公开API。ACE Studio与StepFun已经发布了开放的ACE-Step 1.5，开发者表示：“我们计划在2026年底开源ACE Music v1 Flash。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Vienna Performer de VSL toca\ntu MIDI como un músico",
-          "body": "Vienna Performer, entrenado solo con grabaciones propias de VSL, añade fraseo, arcos y vibrato a tu MIDI.",
-          "mini_headline": "La AI de VSL toca tu MIDI",
+          "headline": "ACE Music v1 supera a Suno\nen un ranking vocal a ciegas",
+          "body": "ACE Music v1, de ACE Studio, encabeza el ranking vocal a ciegas de Artificial Analysis y supera a Suno v6.",
+          "mini_headline": "ACE Music v1 supera por poco a Suno",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/news_large/s3/imagelibrary/v/vsl_vienna_performer-duMmyjQ3ktwjp2hbBd4zsrUQ7R0lCMOE.jpg"
+                "src": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/AI-music-decrypt-style-03-gID_7.jpg"
               },
               {
                 "t": "p",
-                "x": "Descrito como un músico de sesión dentro de tu DAW, Vienna Performer de VSL es un plug-in AI-powered que toma las partes MIDI del usuario, ajusta el fraseo, la dirección del arco, la respiración, el vibrato y el tiempo, y entrega el resultado como un archivo de audio renderizado."
+                "x": "ACE Music v1, desarrollado por ACE Studio, ocupa el primer puesto en la clasificación de música vocal de Artificial Analysis, con 1,160 puntos Elo frente a los 1,144 de Suno v6. En el benchmark AA-Music-Vocal v1.1, los evaluadores escuchan pistas generadas a partir de prompts idénticos sin saber qué modelo las creó y luego eligen su favorita."
+              },
+              {
+                "t": "img",
+                "src": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://imagedelivery.net/YN1-rdnufJQJCgu3i1CbVw/MfUFfyR49NwW4OCFj1yIR9UB6An2rQPWYPKjJXYgzSA/public@webp"
               },
               {
                 "t": "p",
-                "x": "Sus modelos se entrenaron exclusivamente con grabaciones hechas a propósito por VSL en su propio estudio Synchron Stage. No tiene funciones generativas: las notas y la dinámica provienen por completo de la parte original del usuario, mientras que Vienna Performer se encarga de las articulaciones, las transiciones entre notas y pequeños ajustes de tiempo."
+                "x": "La ventaja es relativamente estrecha y los intervalos de confianza estadística de los modelos se solapan. Suno, además, conserva el primer puesto en la clasificación separada de música instrumental."
               },
               {
                 "t": "p",
-                "x": "Se lanza con Violin, Cello, Flute, Clarinet y French Horn solistas, además de conjuntos de First Violins, Second Violins, Violas y Cellos; en breve llegarán Trumpet solista y un conjunto de Double Bass."
+                "x": "En las pruebas prácticas de Decrypt, ACE Music produjo canciones más melódicas y coherentes en estilos convencionales, con voces más naturales y finales más limpios. Suno aún tenía ventaja en géneros menos convencionales, como el death metal melódico."
               },
               {
                 "t": "p",
-                "x": "Funciona por suscripción en tres niveles que solo difieren en los minutos de renderizado: Entry (140, €9.99/mes), Standard (360, €19.99/mes) y Pro (1000, €49.99/mes). Los minutos de renderizado se cuentan por pista de instrumento, de modo que una pieza de dos minutos con 12 partes consume 24. Funciona en Windows 10+ y macOS 12+ como VST3, AU y AAX."
+                "x": "Su función “Idea” puede convertir un concepto básico en letras y una composición estructurada; v1.1 Preview crea una partitura antes de generar el audio, y los usuarios pueden editar melodías y acordes, exportar archivos MIDI y separar las voces de los instrumentos."
+              },
+              {
+                "t": "p",
+                "x": "El modelo insignia sigue siendo de código cerrado y no tiene una API pública. ACE Studio y StepFun ya publicaron el modelo abierto ACE-Step 1.5, y “planeamos liberar ACE Music v1 Flash como código abierto a finales de 2026”, afirman los desarrolladores."
               }
             ]
           }
@@ -425,121 +241,153 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "VSL 플러그인이\nMIDI를 연주자처럼 연주",
-          "body": "VSL의 녹음만 학습한 Vienna Performer가 MIDI에 표현을 입힌다.",
-          "mini_headline": "VSL AI가 MIDI를 연주",
+          "headline": "ACE Music v1이\n보컬 순위서 Suno 제쳐",
+          "body": "ACE Music v1이 블라인드 보컬 순위 정상에 올라 Suno v6를 앞섰다.",
+          "mini_headline": "ACE Music v1, Suno를 근소하게 앞서다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/news_large/s3/imagelibrary/v/vsl_vienna_performer-duMmyjQ3ktwjp2hbBd4zsrUQ7R0lCMOE.jpg"
+                "src": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/AI-music-decrypt-style-03-gID_7.jpg"
               },
               {
                 "t": "p",
-                "x": "DAW 안의 세션 연주자로 소개된 VSL의 Vienna Performer는 AI 기반(AI-powered) 플러그인이다. 사용자의 MIDI 파트를 받아 프레이징, 활 방향, 호흡, 비브라토, 타이밍을 조정하고 결과를 렌더링된 오디오 파일로 내놓는다."
+                "x": "ACE Studio가 개발한 ACE Music v1이 Artificial Analysis의 보컬 음악 순위에서 정상에 올랐다. Elo 점수는 1,160점으로 Suno v6의 1,144점을 앞섰다. AA-Music-Vocal v1.1 벤치마크는 평가자가 같은 프롬프트로 만든 곡들을 어떤 모델이 만들었는지 모른 채 듣고 마음에 드는 곡을 고르는 방식이다."
+              },
+              {
+                "t": "img",
+                "src": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://imagedelivery.net/YN1-rdnufJQJCgu3i1CbVw/MfUFfyR49NwW4OCFj1yIR9UB6An2rQPWYPKjJXYgzSA/public@webp"
               },
               {
                 "t": "p",
-                "x": "모델은 VSL이 자체 스튜디오 Synchron Stage에서 이 용도로 따로 녹음한 음원만으로 학습했다. 생성 기능은 없다. 음표와 다이내믹은 전적으로 사용자의 원래 파트에서 나오고, Vienna Performer는 아티큘레이션, 음 사이의 연결, 미세한 타이밍 조정을 맡는다."
+                "x": "격차는 비교적 작고, 두 모델의 통계적 신뢰구간은 서로 겹친다. 별도의 기악 음악 순위에서는 여전히 Suno가 정상을 지키고 있다."
               },
               {
                 "t": "p",
-                "x": "출시 시점에는 솔로 Violin, Cello, Flute, Clarinet, French Horn과 함께 First Violins, Second Violins, Violas, Cellos 앙상블을 제공한다. 솔로 Trumpet과 Double Bass 앙상블도 곧 뒤따른다."
+                "x": "Decrypt의 직접 테스트에서 ACE Music은 주류 스타일에서 더 선율적이고 짜임새 있는 곡을 만들었고, 보컬은 더 자연스럽고 마무리도 더 깔끔했다. 멜로딕 데스메탈처럼 덜 관습적인 장르에서는 여전히 Suno가 앞섰다."
               },
               {
                 "t": "p",
-                "x": "구독형이며 세 등급은 렌더 시간(분)만 다르다. Entry(140, 월 €9.99), Standard(360, 월 €19.99), Pro(1000, 월 €49.99)다. 렌더 시간은 악기 트랙별로 계산되므로, 파트 12개로 된 두 분짜리 큐는 24분을 쓴다. Windows 10+와 macOS 12+에서 VST3, AU, AAX로 작동한다."
+                "x": "“Idea” 기능은 기본 콘셉트를 가사와 구조를 갖춘 곡으로 발전시킨다. v1.1 Preview는 오디오를 생성하기 전에 악보를 먼저 만들고, 사용자는 멜로디와 코드를 편집하고 MIDI 파일을 내보내며 보컬과 악기를 분리할 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "플래그십 모델은 여전히 비공개 소스이며 공개 API도 없다. ACE Studio와 StepFun은 이미 오픈 모델 ACE-Step 1.5를 공개했고, 개발진은 “ACE Music v1 Flash를 2026년 말 오픈소스로 공개할 계획”이라고 밝혔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "VSLのプラグインが\nMIDIを奏者のように演奏",
-          "body": "VSLの自社録音のみで学習したVienna PerformerがMIDIに表情を付ける。",
-          "mini_headline": "VSLのAIがMIDIを演奏",
+          "headline": "ACE Music v1が\nブラインド評価でSuno超え",
+          "body": "ACE Music v1がブラインド評価のボーカル部門でSuno v6を抑え首位に立った。",
+          "mini_headline": "ACE Music v1、Sunoを僅差で上回る",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/news_large/s3/imagelibrary/v/vsl_vienna_performer-duMmyjQ3ktwjp2hbBd4zsrUQ7R0lCMOE.jpg"
+                "src": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/AI-music-decrypt-style-03-gID_7.jpg"
               },
               {
                 "t": "p",
-                "x": "DAWの中のセッションミュージシャンと説明されるVSLのVienna Performerは、AI搭載(AI-powered)のプラグインだ。ユーザーのMIDIパートを受け取り、フレージング、弓の方向、ブレス、ビブラート、タイミングを調整し、結果をレンダリング済みのオーディオファイルとして出力する。"
+                "x": "ACE Studioが開発したACE Music v1が、Artificial Analysisのボーカル音楽ランキングで首位に立った。Eloスコアは1,160で、Suno v6の1,144を上回る。AA-Music-Vocal v1.1ベンチマークでは、評価者が同一のプロンプトから生成された楽曲を、どのモデルが作ったかを知らされないまま聴き比べ、好みの曲を選ぶ。"
+              },
+              {
+                "t": "img",
+                "src": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://imagedelivery.net/YN1-rdnufJQJCgu3i1CbVw/MfUFfyR49NwW4OCFj1yIR9UB6An2rQPWYPKjJXYgzSA/public@webp"
               },
               {
                 "t": "p",
-                "x": "モデルは、VSLが自社スタジオSynchron Stageでこの目的のために収録した音源のみで学習している。生成機能はない。音符とダイナミクスはすべてユーザーの元のパートに由来し、Vienna Performerはアーティキュレーション、音のつながり、細かなタイミング調整を担う。"
+                "x": "リードは比較的小さく、両モデルの統計的な信頼区間は重なっている。また、別枠のインストゥルメンタル音楽ランキングでは、Sunoが引き続き首位を保っている。"
               },
               {
                 "t": "p",
-                "x": "発売時点では、ソロのViolin、Cello、Flute、Clarinet、French Hornに加え、First Violins、Second Violins、Violas、Cellosのアンサンブルを用意する。ソロのTrumpetとDouble Bassアンサンブルも間もなく続く。"
+                "x": "Decryptによる実地テストでは、ACE Musicは主流のスタイルでより旋律的でまとまりのある曲を生成し、ボーカルはより自然で、曲の終わり方もすっきりしていた。一方、メロディック・デスメタルのような型にはまらないジャンルでは、Sunoがなお優位だった。"
               },
               {
                 "t": "p",
-                "x": "サブスクリプション制で、三つのプランの違いはレンダー時間(分)のみだ。Entry(140、月額€9.99)、Standard(360、月額€19.99)、Pro(1000、月額€49.99)となる。レンダー時間は楽器トラックごとに数えるため、12パートある二分間のキューでは24を使う。Windows 10+とmacOS 12+で、VST3、AU、AAXとして動作する。"
+                "x": "「Idea」機能は、基本的なコンセプトを歌詞と構成を備えた楽曲へと発展させる。v1.1 Previewは音声を生成する前に楽譜を作成し、ユーザーはメロディーやコードを編集したり、MIDIファイルを書き出したり、ボーカルと楽器を分離したりできる。"
+              },
+              {
+                "t": "p",
+                "x": "フラッグシップモデルは引き続きクローズドソースで、公開APIもない。ACE StudioとStepFunはすでにオープンなACE-Step 1.5を公開しており、開発陣は「2026年後半にACE Music v1 Flashをオープンソース化する予定だ」と述べている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "VSL 新插件\n像乐手一样演奏 MIDI",
-          "body": "Vienna Performer仅用VSL自有录音训练，为MIDI添加乐句、运弓和揉弦。",
-          "mini_headline": "VSL 的 AI 演奏 MIDI",
+          "headline": "ACE Music v1\n盲测人声榜超越Suno",
+          "body": "ACE Music v1在盲测人声音乐榜单上登顶，以微弱优势胜过Suno v6。",
+          "mini_headline": "ACE Music v1小胜Suno",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/news_large/s3/imagelibrary/v/vsl_vienna_performer-duMmyjQ3ktwjp2hbBd4zsrUQ7R0lCMOE.jpg"
+                "src": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/AI-music-decrypt-style-03-gID_7.jpg"
               },
               {
                 "t": "p",
-                "x": "VSL 的 Vienna Performer 被形容为 DAW 里的录音室乐手，是一款 AI 驱动（AI-powered）的插件：它接收用户的 MIDI 声部，调整乐句、弓向、呼吸、揉弦和时值，并以渲染好的音频文件输出结果。"
+                "x": "由ACE Studio开发的ACE Music v1在Artificial Analysis的人声音乐榜单上位居榜首，以1,160 Elo分领先Suno v6的1,144分。AA-Music-Vocal v1.1基准测试让评测者在不知道由哪个模型生成的情况下，试听用相同提示词生成的曲目，并选出自己更喜欢的作品。"
+              },
+              {
+                "t": "img",
+                "src": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://imagedelivery.net/YN1-rdnufJQJCgu3i1CbVw/MfUFfyR49NwW4OCFj1yIR9UB6An2rQPWYPKjJXYgzSA/public@webp"
               },
               {
                 "t": "p",
-                "x": "其模型完全基于 VSL 在自家 Synchron Stage 录音棚专门录制的素材训练。它没有生成功能——音符和力度完全来自用户原本的声部，Vienna Performer 只负责演奏法、音与音之间的过渡以及细微的时值调整。"
+                "x": "领先优势相对较小，两个模型的统计置信区间存在重叠。在另一份器乐音乐榜单上，Suno仍保持榜首位置。"
               },
               {
                 "t": "p",
-                "x": "首发提供独奏 Violin、Cello、Flute、Clarinet 和 French Horn，以及 First Violins、Second Violins、Violas 和 Cellos 合奏；独奏 Trumpet 和 Double Bass 合奏随后很快推出。"
+                "x": "在Decrypt的实测中，ACE Music在主流风格上生成的歌曲旋律性更强、结构更连贯，人声更自然，结尾也更干净。在旋律死亡金属等不那么常规的曲风上，Suno仍占优势。"
               },
               {
                 "t": "p",
-                "x": "它采用订阅制，三个档位只在渲染分钟数上有区别：Entry（140，每月 €9.99）、Standard（360，每月 €19.99）和 Pro（1000，每月 €49.99）。渲染分钟按乐器音轨计算，因此一段两分钟、含 12 个声部的配乐会用掉 24 分钟。它支持 Windows 10+ 和 macOS 12+，格式为 VST3、AU 和 AAX。"
+                "x": "其“Idea”功能可以把一个基本构想发展成歌词和结构完整的作品；v1.1 Preview会在生成音频前先创建乐谱，用户可以编辑旋律与和弦、导出MIDI文件，并分离人声与乐器。"
+              },
+              {
+                "t": "p",
+                "x": "旗舰模型仍为闭源，也没有公开API。ACE Studio与StepFun已经发布了开放的ACE-Step 1.5，开发者表示：“我们计划在2026年底开源ACE Music v1 Flash。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Vienna Performer de VSL toca\ntu MIDI como un músico",
-          "body": "Vienna Performer, entrenado solo con grabaciones propias de VSL, añade fraseo, arcos y vibrato a tu MIDI.",
-          "mini_headline": "La AI de VSL toca tu MIDI",
+          "headline": "ACE Music v1 supera a Suno\nen un ranking vocal a ciegas",
+          "body": "ACE Music v1, de ACE Studio, encabeza el ranking vocal a ciegas de Artificial Analysis y supera a Suno v6.",
+          "mini_headline": "ACE Music v1 supera por poco a Suno",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/news_large/s3/imagelibrary/v/vsl_vienna_performer-duMmyjQ3ktwjp2hbBd4zsrUQ7R0lCMOE.jpg"
+                "src": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/AI-music-decrypt-style-03-gID_7.jpg"
               },
               {
                 "t": "p",
-                "x": "Descrito como un músico de sesión dentro de tu DAW, Vienna Performer de VSL es un plug-in AI-powered que toma las partes MIDI del usuario, ajusta el fraseo, la dirección del arco, la respiración, el vibrato y el tiempo, y entrega el resultado como un archivo de audio renderizado."
+                "x": "ACE Music v1, desarrollado por ACE Studio, ocupa el primer puesto en la clasificación de música vocal de Artificial Analysis, con 1,160 puntos Elo frente a los 1,144 de Suno v6. En el benchmark AA-Music-Vocal v1.1, los evaluadores escuchan pistas generadas a partir de prompts idénticos sin saber qué modelo las creó y luego eligen su favorita."
+              },
+              {
+                "t": "img",
+                "src": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://imagedelivery.net/YN1-rdnufJQJCgu3i1CbVw/MfUFfyR49NwW4OCFj1yIR9UB6An2rQPWYPKjJXYgzSA/public@webp"
               },
               {
                 "t": "p",
-                "x": "Sus modelos se entrenaron exclusivamente con grabaciones hechas a propósito por VSL en su propio estudio Synchron Stage. No tiene funciones generativas: las notas y la dinámica provienen por completo de la parte original del usuario, mientras que Vienna Performer se encarga de las articulaciones, las transiciones entre notas y pequeños ajustes de tiempo."
+                "x": "La ventaja es relativamente estrecha y los intervalos de confianza estadística de los modelos se solapan. Suno, además, conserva el primer puesto en la clasificación separada de música instrumental."
               },
               {
                 "t": "p",
-                "x": "Se lanza con Violin, Cello, Flute, Clarinet y French Horn solistas, además de conjuntos de First Violins, Second Violins, Violas y Cellos; en breve llegarán Trumpet solista y un conjunto de Double Bass."
+                "x": "En las pruebas prácticas de Decrypt, ACE Music produjo canciones más melódicas y coherentes en estilos convencionales, con voces más naturales y finales más limpios. Suno aún tenía ventaja en géneros menos convencionales, como el death metal melódico."
               },
               {
                 "t": "p",
-                "x": "Funciona por suscripción en tres niveles que solo difieren en los minutos de renderizado: Entry (140, €9.99/mes), Standard (360, €19.99/mes) y Pro (1000, €49.99/mes). Los minutos de renderizado se cuentan por pista de instrumento, de modo que una pieza de dos minutos con 12 partes consume 24. Funciona en Windows 10+ y macOS 12+ como VST3, AU y AAX."
+                "x": "Su función “Idea” puede convertir un concepto básico en letras y una composición estructurada; v1.1 Preview crea una partitura antes de generar el audio, y los usuarios pueden editar melodías y acordes, exportar archivos MIDI y separar las voces de los instrumentos."
+              },
+              {
+                "t": "p",
+                "x": "El modelo insignia sigue siendo de código cerrado y no tiene una API pública. ACE Studio y StepFun ya publicaron el modelo abierto ACE-Step 1.5, y “planeamos liberar ACE Music v1 Flash como código abierto a finales de 2026”, afirman los desarrolladores."
               }
             ]
           }
@@ -547,15 +395,387 @@
       }
     },
     {
-      "id": "neutone-neusynth-stems",
+      "id": "musicflux-text-music-editing",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "NeuTone, DAW서\nNeuSynth로 새 스템",
-      "body": "NeuSynth는 DAW에서 최대 60초를 분석해 곡에 맞는 악기 스템을 만든다.",
-      "mini_headline": "NeuSynth, DAW에서 스템 생성",
+      "headline": "MusicFlux가\n오디오 모델을 편집기로",
+      "body": "MusicFlux는 사전학습 오디오 모델을 텍스트로 음악을 고치는 편집기로 바꿨다.",
+      "mini_headline": "MusicFlux, 텍스트로 음악 편집",
       "tool": "Music",
-      "source": "Monthly Mixing (mixing.co.kr)",
-      "url": "https://mixing.co.kr/en/44340",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.13834",
+      "accent": "#0070f3",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "MusicFlux: Flexible Conditioning for Text-Guided Music Generation and Editing — Teysir Baoueb, Leonardo Boulitreau de M. M. Marques, Paraskevas Stamatiadis, Gaël Richard(Télécom Paris)."
+          },
+          {
+            "t": "p",
+            "x": "음악 편집은 기존 녹음의 원래 속성을 살리면서 녹음을 바꾸는 일이다. 최근 연구는 사전학습된 텍스트-음악 모델에 맥락 오디오를 조건으로 넣어 인페인팅, 이벤트 삽입, 복원 같은 작업에 쓴다. 이미지 편집에서 나온 방식처럼 원본을 인컨텍스트 정보로 다루면 음악은 오디오 시퀀스가 길어 계산 비용이 커진다."
+          },
+          {
+            "t": "img",
+            "src": "https://musicflux.onrender.com/assets/img/fig-overview.png",
+            "cap": "Fig. 1. MusicFlux는 생성, 인페인팅, SFX 복원을 하나의 공유 잠재 조건화 틀로 묶어 정식화한다."
+          },
+          {
+            "t": "p",
+            "x": "저자들은 효율적인 사전학습 플로 매칭 텍스트-오디오 모델 TangoFlux 위에 텍스트 기반 음악 편집기 MusicFlux를 만들었다. 먼저 텍스트-음악 생성용으로 미세조정하고, 이어 오디오·텍스트·시간 마스크를 함께 조건으로 넣어 인페인팅/아웃페인팅과 효과음 복원까지 하도록 적응시켰다."
+          },
+          {
+            "t": "img",
+            "src": "https://musicflux.onrender.com/assets/img/fig-architectures.png",
+            "cap": "Fig. 2. MusicFlux-Concat(왼쪽)은 원본과 목표 잠재 표현을 이어 붙인다. MusicFlux-CAR(오른쪽)는 시프트 네트워크로 원래 시퀀스 길이를 그대로 둔다."
+          },
+          {
+            "t": "p",
+            "x": "두 조건화 방식은 편집 성능과 계산 효율 가운데 무엇을 더 챙기느냐가 다르다. MusicFlux-Concat은 편집 성능이 더 높다. MusicFlux-CAR는 원래 시퀀스 길이를 지키면서 추론 시간과 동적 메모리를 50% 넘게 줄인다. 둘 다 공개 데이터로 학습한 단일 멀티태스크 모델인데도 작업별 기준 모델에 견줄 만하다. Demo: https://musicflux.onrender.com/"
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "MusicFlux turns a text-to-audio\nmodel into a music editor",
+          "body": "MusicFlux adapts a pretrained flow-matching text-to-audio model for text-guided music inpainting and restoration.",
+          "mini_headline": "MusicFlux edits music by text",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "MusicFlux: Flexible Conditioning for Text-Guided Music Generation and Editing — Teysir Baoueb, Leonardo Boulitreau de M. M. Marques, Paraskevas Stamatiadis and Gaël Richard (Télécom Paris)."
+              },
+              {
+                "t": "p",
+                "x": "Music editing transforms existing recordings while preserving their original attributes. Recent approaches adapt pretrained text-to-music models for tasks like inpainting, event insertion, or restoration by conditioning them with context audio. Treating the source as in-context information, as recently proposed for image editing, is computationally expensive for music due to long audio sequences."
+              },
+              {
+                "t": "img",
+                "src": "https://musicflux.onrender.com/assets/img/fig-overview.png",
+                "cap": "Fig. 1. MusicFlux formulates generation, inpainting, and SFX restoration under a shared latent-conditioning paradigm."
+              },
+              {
+                "t": "p",
+                "x": "The authors develop MusicFlux, a text-guided music editor built on TangoFlux, an efficient pretrained flow-matching text-to-audio model. They fine-tune it for text-to-music generation, then adapt it for inpainting/outpainting and sound-effects restoration with joint audio, text and temporal-mask conditioning."
+              },
+              {
+                "t": "img",
+                "src": "https://musicflux.onrender.com/assets/img/fig-architectures.png",
+                "cap": "Fig. 2. MusicFlux-Concat (left) concatenates source and target latents; MusicFlux-CAR (right) uses shift networks and keeps the original sequence length."
+              },
+              {
+                "t": "p",
+                "x": "Two conditioning approaches trade off editing performance and computational efficiency: MusicFlux-Concat achieves stronger editing performance, while MusicFlux-CAR preserves the original sequence length and reduces inference runtime and dynamic memory by over 50%. Both remain competitive with task-specific baselines despite being single multi-task models trained on open data. Demo: https://musicflux.onrender.com/"
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "MusicFlux가\n오디오 모델을 편집기로",
+          "body": "MusicFlux는 사전학습 오디오 모델을 텍스트로 음악을 고치는 편집기로 바꿨다.",
+          "mini_headline": "MusicFlux, 텍스트로 음악 편집",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "MusicFlux: Flexible Conditioning for Text-Guided Music Generation and Editing — Teysir Baoueb, Leonardo Boulitreau de M. M. Marques, Paraskevas Stamatiadis, Gaël Richard(Télécom Paris)."
+              },
+              {
+                "t": "p",
+                "x": "음악 편집은 기존 녹음의 원래 속성을 살리면서 녹음을 바꾸는 일이다. 최근 연구는 사전학습된 텍스트-음악 모델에 맥락 오디오를 조건으로 넣어 인페인팅, 이벤트 삽입, 복원 같은 작업에 쓴다. 이미지 편집에서 나온 방식처럼 원본을 인컨텍스트 정보로 다루면 음악은 오디오 시퀀스가 길어 계산 비용이 커진다."
+              },
+              {
+                "t": "img",
+                "src": "https://musicflux.onrender.com/assets/img/fig-overview.png",
+                "cap": "Fig. 1. MusicFlux는 생성, 인페인팅, SFX 복원을 하나의 공유 잠재 조건화 틀로 묶어 정식화한다."
+              },
+              {
+                "t": "p",
+                "x": "저자들은 효율적인 사전학습 플로 매칭 텍스트-오디오 모델 TangoFlux 위에 텍스트 기반 음악 편집기 MusicFlux를 만들었다. 먼저 텍스트-음악 생성용으로 미세조정하고, 이어 오디오·텍스트·시간 마스크를 함께 조건으로 넣어 인페인팅/아웃페인팅과 효과음 복원까지 하도록 적응시켰다."
+              },
+              {
+                "t": "img",
+                "src": "https://musicflux.onrender.com/assets/img/fig-architectures.png",
+                "cap": "Fig. 2. MusicFlux-Concat(왼쪽)은 원본과 목표 잠재 표현을 이어 붙인다. MusicFlux-CAR(오른쪽)는 시프트 네트워크로 원래 시퀀스 길이를 그대로 둔다."
+              },
+              {
+                "t": "p",
+                "x": "두 조건화 방식은 편집 성능과 계산 효율 가운데 무엇을 더 챙기느냐가 다르다. MusicFlux-Concat은 편집 성능이 더 높다. MusicFlux-CAR는 원래 시퀀스 길이를 지키면서 추론 시간과 동적 메모리를 50% 넘게 줄인다. 둘 다 공개 데이터로 학습한 단일 멀티태스크 모델인데도 작업별 기준 모델에 견줄 만하다. Demo: https://musicflux.onrender.com/"
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "MusicFluxが\nオーディオ生成を音楽編集へ",
+          "body": "MusicFluxは学習済みフローマッチング型音声生成モデルを音楽の補完と修復に応用した。",
+          "mini_headline": "MusicFlux、テキストで音楽を編集",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "MusicFlux: Flexible Conditioning for Text-Guided Music Generation and Editing — Teysir Baoueb、Leonardo Boulitreau de M. M. Marques、Paraskevas Stamatiadis、Gaël Richard(Télécom Paris)。"
+              },
+              {
+                "t": "p",
+                "x": "音楽編集とは、既存の録音を元の特性を保ちながら作り変えることだ。近年の手法は、事前学習済みのテキスト・トゥ・ミュージックモデルにコンテキスト音声を条件として与え、インペインティングやイベント挿入、修復といったタスクに適応させている。画像編集で最近提案されたように元音源をインコンテキスト情報として扱う方法は、音楽では音声シーケンスが長いため計算コストが高い。"
+              },
+              {
+                "t": "img",
+                "src": "https://musicflux.onrender.com/assets/img/fig-overview.png",
+                "cap": "Fig. 1. MusicFluxは、生成、インペインティング、SFX修復を共通の潜在条件付けパラダイムの下で定式化する。"
+              },
+              {
+                "t": "p",
+                "x": "著者らは、効率的な事前学習済みフローマッチング型テキスト・トゥ・オーディオモデルであるTangoFluxを基に、テキスト誘導型の音楽エディタMusicFluxを開発した。まずテキストからの音楽生成向けにファインチューニングし、その後、音声・テキスト・時間マスクを組み合わせた条件付けによって、インペインティング/アウトペインティングと効果音の修復に適応させた。"
+              },
+              {
+                "t": "img",
+                "src": "https://musicflux.onrender.com/assets/img/fig-architectures.png",
+                "cap": "Fig. 2. MusicFlux-Concat(左)は元音源とターゲットの潜在表現を連結し、MusicFlux-CAR(右)はシフトネットワークを用いて元のシーケンス長を保つ。"
+              },
+              {
+                "t": "p",
+                "x": "二つの条件付け手法は、編集性能と計算効率のトレードオフが異なる。MusicFlux-Concatは編集性能で上回り、MusicFlux-CARは元のシーケンス長を保ったまま推論時間と動的メモリを50%以上削減する。いずれもオープンデータで学習した単一のマルチタスクモデルだが、タスク特化型のベースラインに匹敵する性能を示す。Demo: https://musicflux.onrender.com/"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "MusicFlux把文生音频\n模型变成音乐编辑器",
+          "body": "MusicFlux将预训练的流匹配文本生成音频模型改造用于文本引导的音乐修补与修复。",
+          "mini_headline": "MusicFlux用文本编辑音乐",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "MusicFlux: Flexible Conditioning for Text-Guided Music Generation and Editing — Teysir Baoueb、Leonardo Boulitreau de M. M. Marques、Paraskevas Stamatiadis、Gaël Richard（Télécom Paris）。"
+              },
+              {
+                "t": "p",
+                "x": "音乐编辑是在保留原有属性的同时对现有录音进行改造。近期方法以上下文音频作为条件，让预训练的文本生成音乐模型适用于修补、事件插入或修复等任务。像图像编辑领域近来提出的那样把源音频当作上下文信息处理，对音乐而言因音频序列较长，计算成本很高。"
+              },
+              {
+                "t": "img",
+                "src": "https://musicflux.onrender.com/assets/img/fig-overview.png",
+                "cap": "Fig. 1. MusicFlux在共享的潜在条件化范式下统一表述生成、修补和SFX修复。"
+              },
+              {
+                "t": "p",
+                "x": "作者基于高效的预训练流匹配文本生成音频模型TangoFlux，开发了文本引导的音乐编辑器MusicFlux。他们先将其微调用于文本生成音乐，再通过音频、文本与时间掩码的联合条件化，使其适用于修补/外延补全和音效修复。"
+              },
+              {
+                "t": "img",
+                "src": "https://musicflux.onrender.com/assets/img/fig-architectures.png",
+                "cap": "Fig. 2. MusicFlux-Concat（左）将源与目标潜变量拼接；MusicFlux-CAR（右）使用移位网络，并保持原始序列长度。"
+              },
+              {
+                "t": "p",
+                "x": "两种条件化方法在编辑性能与计算效率之间各有取舍：MusicFlux-Concat编辑性能更强，而MusicFlux-CAR保持原始序列长度，并将推理耗时和动态内存降低50%以上。两者均为基于开放数据训练的单一多任务模型，但仍可与针对特定任务的基线模型相媲美。Demo: https://musicflux.onrender.com/"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "MusicFlux convierte un modelo\ntexto-audio en editor musical",
+          "body": "MusicFlux adapta un modelo preentrenado de texto a audio para el inpainting y la restauración de música.",
+          "mini_headline": "MusicFlux edita música con texto",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "MusicFlux: Flexible Conditioning for Text-Guided Music Generation and Editing — Teysir Baoueb, Leonardo Boulitreau de M. M. Marques, Paraskevas Stamatiadis y Gaël Richard (Télécom Paris)."
+              },
+              {
+                "t": "p",
+                "x": "La edición musical transforma grabaciones existentes conservando sus atributos originales. Los enfoques recientes adaptan modelos preentrenados de texto a música para tareas como inpainting, inserción de eventos o restauración, condicionándolos con audio de contexto. Tratar la fuente como información en contexto, como se propuso recientemente para la edición de imágenes, resulta computacionalmente costoso en música debido a las largas secuencias de audio."
+              },
+              {
+                "t": "img",
+                "src": "https://musicflux.onrender.com/assets/img/fig-overview.png",
+                "cap": "Fig. 1. MusicFlux formula la generación, el inpainting y la restauración de SFX bajo un paradigma compartido de condicionamiento latente."
+              },
+              {
+                "t": "p",
+                "x": "Los autores desarrollan MusicFlux, un editor musical guiado por texto basado en TangoFlux, un modelo eficiente y preentrenado de texto a audio con flow matching. Primero lo ajustan para generar música a partir de texto y luego lo adaptan al inpainting/outpainting y a la restauración de efectos de sonido mediante un condicionamiento conjunto de audio, texto y máscara temporal."
+              },
+              {
+                "t": "img",
+                "src": "https://musicflux.onrender.com/assets/img/fig-architectures.png",
+                "cap": "Fig. 2. MusicFlux-Concat (izquierda) concatena los latentes de origen y destino; MusicFlux-CAR (derecha) usa redes de desplazamiento y conserva la longitud original de la secuencia."
+              },
+              {
+                "t": "p",
+                "x": "Dos enfoques de condicionamiento equilibran de forma distinta el rendimiento de edición y la eficiencia computacional: MusicFlux-Concat logra un mejor rendimiento de edición, mientras que MusicFlux-CAR conserva la longitud original de la secuencia y reduce en más del 50% el tiempo de inferencia y la memoria dinámica. Ambos siguen siendo competitivos frente a modelos de referencia específicos de cada tarea, pese a ser modelos multitarea únicos entrenados con datos abiertos. Demo: https://musicflux.onrender.com/"
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "MusicFlux가\n오디오 모델을 편집기로",
+          "body": "MusicFlux는 사전학습 오디오 모델을 텍스트 기반 음악 편집에 맞췄다.",
+          "mini_headline": "MusicFlux, 텍스트로 음악 편집",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "MusicFlux: Flexible Conditioning for Text-Guided Music Generation and Editing — Teysir Baoueb, Leonardo Boulitreau de M. M. Marques, Paraskevas Stamatiadis, Gaël Richard(Télécom Paris)."
+              },
+              {
+                "t": "p",
+                "x": "음악 편집은 기존 녹음의 원래 속성을 유지하면서 그 녹음을 바꾸는 작업이다. 최근 연구들은 사전학습된 텍스트-음악 모델에 맥락 오디오를 조건으로 주어 인페인팅, 이벤트 삽입, 복원 같은 작업에 맞춘다. 최근 이미지 편집에서 제안된 것처럼 원본을 인컨텍스트 정보로 다루는 방식은 오디오 시퀀스가 길어 음악에서는 계산 비용이 크다."
+              },
+              {
+                "t": "img",
+                "src": "https://musicflux.onrender.com/assets/img/fig-overview.png",
+                "cap": "Fig. 1. MusicFlux는 생성, 인페인팅, SFX 복원을 하나의 공유 잠재 조건화 패러다임으로 정식화한다."
+              },
+              {
+                "t": "p",
+                "x": "저자들은 효율적인 사전학습 플로 매칭 텍스트-오디오 모델 TangoFlux를 바탕으로 텍스트 기반 음악 편집기 MusicFlux를 개발했다. 먼저 텍스트-음악 생성에 맞게 미세조정한 뒤, 오디오·텍스트·시간 마스크를 함께 조건으로 쓰는 방식으로 인페인팅/아웃페인팅과 효과음 복원에 적응시켰다."
+              },
+              {
+                "t": "img",
+                "src": "https://musicflux.onrender.com/assets/img/fig-architectures.png",
+                "cap": "Fig. 2. MusicFlux-Concat(왼쪽)은 원본과 목표 잠재 표현을 이어 붙이고, MusicFlux-CAR(오른쪽)는 시프트 네트워크를 사용해 원래 시퀀스 길이를 유지한다."
+              },
+              {
+                "t": "p",
+                "x": "두 조건화 방식은 편집 성능과 계산 효율 사이에서 서로 다른 균형을 택한다. MusicFlux-Concat은 편집 성능이 더 높고, MusicFlux-CAR는 원래 시퀀스 길이를 유지하면서 추론 시간과 동적 메모리를 50% 이상 줄인다. 둘 다 공개 데이터로 학습한 단일 멀티태스크 모델이지만 작업별 기준 모델과 견줄 만한 성능을 낸다. Demo: https://musicflux.onrender.com/"
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "MusicFluxが\nオーディオ生成を音楽編集へ",
+          "body": "MusicFluxは学習済みフローマッチング型音声生成モデルを音楽の補完と修復に応用した。",
+          "mini_headline": "MusicFlux、テキストで音楽を編集",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "MusicFlux: Flexible Conditioning for Text-Guided Music Generation and Editing — Teysir Baoueb、Leonardo Boulitreau de M. M. Marques、Paraskevas Stamatiadis、Gaël Richard(Télécom Paris)。"
+              },
+              {
+                "t": "p",
+                "x": "音楽編集とは、既存の録音を元の特性を保ちながら作り変えることだ。近年の手法は、事前学習済みのテキスト・トゥ・ミュージックモデルにコンテキスト音声を条件として与え、インペインティングやイベント挿入、修復といったタスクに適応させている。画像編集で最近提案されたように元音源をインコンテキスト情報として扱う方法は、音楽では音声シーケンスが長いため計算コストが高い。"
+              },
+              {
+                "t": "img",
+                "src": "https://musicflux.onrender.com/assets/img/fig-overview.png",
+                "cap": "Fig. 1. MusicFluxは、生成、インペインティング、SFX修復を共通の潜在条件付けパラダイムの下で定式化する。"
+              },
+              {
+                "t": "p",
+                "x": "著者らは、効率的な事前学習済みフローマッチング型テキスト・トゥ・オーディオモデルであるTangoFluxを基に、テキスト誘導型の音楽エディタMusicFluxを開発した。まずテキストからの音楽生成向けにファインチューニングし、その後、音声・テキスト・時間マスクを組み合わせた条件付けによって、インペインティング/アウトペインティングと効果音の修復に適応させた。"
+              },
+              {
+                "t": "img",
+                "src": "https://musicflux.onrender.com/assets/img/fig-architectures.png",
+                "cap": "Fig. 2. MusicFlux-Concat(左)は元音源とターゲットの潜在表現を連結し、MusicFlux-CAR(右)はシフトネットワークを用いて元のシーケンス長を保つ。"
+              },
+              {
+                "t": "p",
+                "x": "二つの条件付け手法は、編集性能と計算効率のトレードオフが異なる。MusicFlux-Concatは編集性能で上回り、MusicFlux-CARは元のシーケンス長を保ったまま推論時間と動的メモリを50%以上削減する。いずれもオープンデータで学習した単一のマルチタスクモデルだが、タスク特化型のベースラインに匹敵する性能を示す。Demo: https://musicflux.onrender.com/"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "MusicFlux把文生音频\n模型变成音乐编辑器",
+          "body": "MusicFlux将预训练的流匹配文本生成音频模型改造用于文本引导的音乐修补与修复。",
+          "mini_headline": "MusicFlux用文本编辑音乐",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "MusicFlux: Flexible Conditioning for Text-Guided Music Generation and Editing — Teysir Baoueb、Leonardo Boulitreau de M. M. Marques、Paraskevas Stamatiadis、Gaël Richard（Télécom Paris）。"
+              },
+              {
+                "t": "p",
+                "x": "音乐编辑是在保留原有属性的同时对现有录音进行改造。近期方法以上下文音频作为条件，让预训练的文本生成音乐模型适用于修补、事件插入或修复等任务。像图像编辑领域近来提出的那样把源音频当作上下文信息处理，对音乐而言因音频序列较长，计算成本很高。"
+              },
+              {
+                "t": "img",
+                "src": "https://musicflux.onrender.com/assets/img/fig-overview.png",
+                "cap": "Fig. 1. MusicFlux在共享的潜在条件化范式下统一表述生成、修补和SFX修复。"
+              },
+              {
+                "t": "p",
+                "x": "作者基于高效的预训练流匹配文本生成音频模型TangoFlux，开发了文本引导的音乐编辑器MusicFlux。他们先将其微调用于文本生成音乐，再通过音频、文本与时间掩码的联合条件化，使其适用于修补/外延补全和音效修复。"
+              },
+              {
+                "t": "img",
+                "src": "https://musicflux.onrender.com/assets/img/fig-architectures.png",
+                "cap": "Fig. 2. MusicFlux-Concat（左）将源与目标潜变量拼接；MusicFlux-CAR（右）使用移位网络，并保持原始序列长度。"
+              },
+              {
+                "t": "p",
+                "x": "两种条件化方法在编辑性能与计算效率之间各有取舍：MusicFlux-Concat编辑性能更强，而MusicFlux-CAR保持原始序列长度，并将推理耗时和动态内存降低50%以上。两者均为基于开放数据训练的单一多任务模型，但仍可与针对特定任务的基线模型相媲美。Demo: https://musicflux.onrender.com/"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "MusicFlux convierte un modelo\ntexto-audio en editor musical",
+          "body": "MusicFlux adapta un modelo preentrenado de texto a audio para el inpainting y la restauración de música.",
+          "mini_headline": "MusicFlux edita música con texto",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "MusicFlux: Flexible Conditioning for Text-Guided Music Generation and Editing — Teysir Baoueb, Leonardo Boulitreau de M. M. Marques, Paraskevas Stamatiadis y Gaël Richard (Télécom Paris)."
+              },
+              {
+                "t": "p",
+                "x": "La edición musical transforma grabaciones existentes conservando sus atributos originales. Los enfoques recientes adaptan modelos preentrenados de texto a música para tareas como inpainting, inserción de eventos o restauración, condicionándolos con audio de contexto. Tratar la fuente como información en contexto, como se propuso recientemente para la edición de imágenes, resulta computacionalmente costoso en música debido a las largas secuencias de audio."
+              },
+              {
+                "t": "img",
+                "src": "https://musicflux.onrender.com/assets/img/fig-overview.png",
+                "cap": "Fig. 1. MusicFlux formula la generación, el inpainting y la restauración de SFX bajo un paradigma compartido de condicionamiento latente."
+              },
+              {
+                "t": "p",
+                "x": "Los autores desarrollan MusicFlux, un editor musical guiado por texto basado en TangoFlux, un modelo eficiente y preentrenado de texto a audio con flow matching. Primero lo ajustan para generar música a partir de texto y luego lo adaptan al inpainting/outpainting y a la restauración de efectos de sonido mediante un condicionamiento conjunto de audio, texto y máscara temporal."
+              },
+              {
+                "t": "img",
+                "src": "https://musicflux.onrender.com/assets/img/fig-architectures.png",
+                "cap": "Fig. 2. MusicFlux-Concat (izquierda) concatena los latentes de origen y destino; MusicFlux-CAR (derecha) usa redes de desplazamiento y conserva la longitud original de la secuencia."
+              },
+              {
+                "t": "p",
+                "x": "Dos enfoques de condicionamiento equilibran de forma distinta el rendimiento de edición y la eficiencia computacional: MusicFlux-Concat logra un mejor rendimiento de edición, mientras que MusicFlux-CAR conserva la longitud original de la secuencia y reduce en más del 50% el tiempo de inferencia y la memoria dinámica. Ambos siguen siendo competitivos frente a modelos de referencia específicos de cada tarea, pese a ser modelos multitarea únicos entrenados con datos abiertos. Demo: https://musicflux.onrender.com/"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "labelcamp-ai-connector",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Labelcamp 업무에\nClaude·ChatGPT",
+      "body": "Idol의 Labelcamp 고객은 Claude·ChatGPT로 데이터를 관리한다.",
+      "mini_headline": "Labelcamp, Claude·ChatGPT와 연동",
+      "tool": "Music",
+      "source": "Music Ally",
+      "url": "https://musically.com/2026/11/11/idols-labelcamp-and-startup-mypart-explore-ai-connections/",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
@@ -563,555 +783,335 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://mmagimg.speedgabia.com/2026/11/img-1794286888307-287c615a239e2285.webp"
+            "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/08/news-stories-images-4x3-2026-08-26T131412.133.png?fit=2000%2C1500&ssl=1"
           },
           {
             "t": "p",
-            "x": "NeuTone이 DAW 안에서 돌아가는 AI 스템 생성 플러그인 NeuSynth를 내놨다."
+            "x": "에이전트형 AI와 LLM을 잇는 음악 업계 도구와 서비스가 늘고 있다. 오늘은 Idol의 유통 관리 플랫폼 Labelcamp와 음악 매칭 스타트업 MyPart가 소식을 냈다."
           },
           {
             "t": "p",
-            "x": "NeuSynth는 작업 중인 트랙의 오디오를 듣고 새 악기 스템을 만든다. 입력 오디오는 최대 60초까지 넣을 수 있고 악기 레이어는 1개에서 6개 사이로 고른다."
-          },
-          {
-            "t": "img",
-            "src": "https://mmagimg.speedgabia.com/2026/11/img-1794286897214-a6fb9cea75d62a04.webp",
-            "cap": "이미지: NeuTone"
+            "x": "Labelcamp가 새로 내놓은 ‘AI Connector’는 Claude와 ChatGPT 같은 챗봇과 연동된다. 고객은 그 도구 안에서 대화하듯 카탈로그와 데이터 관리 업무를 처리한다."
           },
           {
             "t": "p",
-            "x": "한 번 생성하면 변형 세트 네 개가 나온다. 세트마다 악기별 WAV 파일이 따로 들어 있으며 파트끼리 잘 어울리게 설계됐다. 악기 카테고리, 오디오 레퍼런스, 텍스트 프롬프트로 결과를 조정하고 생성 전에 미리 들어 볼 수도 있다."
-          },
-          {
-            "t": "img",
-            "src": "https://mmagimg.speedgabia.com/2026/11/img-1794286906307-e9574f7d23644d8a.webp",
-            "cap": "이미지: NeuTone"
+            "x": "Idol이 든 예는 이렇다. “프롬프트 하나로 여러 릴리스의 지역별 권리를 한꺼번에 조정하거나, 앨범 출시 일정을 수록 싱글과 함께 다시 잡을 수 있습니다. 가져온 데이터 전체의 메타데이터를 고치거나, 카탈로그 전반에 빠진 DSP 아티스트 IDs를 추가하거나, 플랫폼이 왜 납품을 거부했는지 설명할 수도 있습니다.”"
           },
           {
             "t": "p",
-            "x": "무료 크레딧은 24개이고 유효 기간은 12개월이다. 무료 체험으로 만든 결과물은 비상업적 용도로만 쓸 수 있다. 유료 요금제는 Starter가 월 $4.99에 150크레딧, Creator가 월 $9.99에 400크레딧이다. 입력 오디오에는 크레딧이 들지 않는다."
+            "x": "Model Context Protocol(MCP) 기술이 실제로 쓰이는 모습이 바로 이것이고, MyPart가 하는 일도 여기에 일부 걸쳐 있다. MyPart는 “음악 이해를 대화형·자동화된 창작 과정과 결합한 범용 MCP AI 음악 에이전트… 음악, 가사, 시각적 리듬, 장면 전환, 청중 맥락, 사용자 선호를 해석해 음악 검색, 매칭, 플레이리스트 생성을 지원하도록 설계된” 에이전트를 내놓는다."
           },
           {
             "t": "p",
-            "x": "한 크레딧은 최대 30초 길이의 악기 하나, 변형 하나에 해당한다. 생성 한 번에 악기마다 변형이 네 개씩 나오므로 30초 길이 악기 하나를 만들면 네 크레딧이 든다."
-          },
-          {
-            "t": "img",
-            "src": "https://mmagimg.speedgabia.com/2026/11/img-1794286914872-64ad0e0cae1e3d36.webp"
-          },
-          {
-            "t": "p",
-            "x": "NeuTone은 업로드한 음악의 권리는 사용자에게 있고 프로젝트는 기본 비공개라고 밝혔다. 플러그인 이용 권한을 잃지 않고도 내 데이터가 AI 모델 개선에 쓰이지 않게 거부할 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "NeuSynth는 현재 macOS 11.0 이상에서 VST3와 AU 포맷으로 돌아간다. Windows 버전도 낼 계획이다."
+            "x": "MyPart는 Epidemic Sound, Overwolf와 손잡고 자사 기술을 적응형 게임 음악에 활용한 사례도 소개해 왔다. 여기에는 화면 속 게임플레이에 맞춰 Epidemic 카탈로그에서 음악을 골라 주는 인게임 앱 ‘Songhunt’가 들어 있다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "NeuTone's NeuSynth builds\nnew stems inside the DAW",
-          "body": "NeuSynth analyses up to 60 seconds of a track in the DAW and generates new instrument stem layers that fit it.",
-          "mini_headline": "NeuSynth builds\nstems in the DAW",
+          "headline": "Labelcamp links label ops\nto Claude and ChatGPT",
+          "body": "Idol's Labelcamp now lets clients handle catalogue and data-management tasks from Claude or ChatGPT.",
+          "mini_headline": "Labelcamp plugs into Claude, ChatGPT",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://mmagimg.speedgabia.com/2026/11/img-1794286888307-287c615a239e2285.webp"
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/08/news-stories-images-4x3-2026-08-26T131412.133.png?fit=2000%2C1500&ssl=1"
               },
               {
                 "t": "p",
-                "x": "NeuTone has announced NeuSynth, an AI stem generator plugin that runs inside your DAW."
+                "x": "The list of music-industry tools and services exploring agentic AI and LLM connections continues to grow. Today there is news from Idol’s distribution-management platform Labelcamp, as well as from music-matching startup MyPart."
               },
               {
                 "t": "p",
-                "x": "NeuSynth creates new instrument stems based on the audio of the track you're working on. You can use up to 60 seconds of audio as input and choose between 1 and 6 instrument layers."
-              },
-              {
-                "t": "img",
-                "src": "https://mmagimg.speedgabia.com/2026/11/img-1794286897214-a6fb9cea75d62a04.webp",
-                "cap": "Image: NeuTone"
+                "x": "Labelcamp’s new ‘AI Connector’ works with chatbots including Claude and ChatGPT to enable clients to handle catalogue and data-management tasks from within those tools, using a conversational interface."
               },
               {
                 "t": "p",
-                "x": "Each generation produces four variation sets. Every set contains a separate WAV file for each instrument, and the parts are designed to work well together. You can steer the results with instrument categories, an audio reference, or a text prompt, and you can preview them before generating."
-              },
-              {
-                "t": "img",
-                "src": "https://mmagimg.speedgabia.com/2026/11/img-1794286906307-e9574f7d23644d8a.webp",
-                "cap": "Image: NeuTone"
+                "x": "“A single prompt can see territorial rights adjusted across a batch of releases or an album rollout rescheduled along with its supporting singles,” explained Idol as an example. “It can also fix the metadata of an entire import, add missing DSP artist IDs across a catalogue, or explain why a platform rejected a delivery.”"
               },
               {
                 "t": "p",
-                "x": "You get 24 credits for free, valid for 12 months. Output from the free trial can only be used for non-commercial purposes. On paid plans, Starter costs $4.99 per month for 150 credits, and Creator costs $9.99 per month for 400 credits. Input audio does not use up any credits."
+                "x": "This is Model Context Protocol (MCP) technology in action, and that’s also part of what MyPart is up to, releasing “general MCP AI music agents that combine music understanding with conversational and automated creative processes… designed to interpret music, lyrics, visual rhythm, scene transitions, audience context and user preferences to support music search, matching and playlist generation”"
               },
               {
                 "t": "p",
-                "x": "One credit covers one variation of one instrument, up to 30 seconds long. Each generation produces four variations per instrument, so generating a single 30-second instrument uses four credits."
-              },
-              {
-                "t": "img",
-                "src": "https://mmagimg.speedgabia.com/2026/11/img-1794286914872-64ad0e0cae1e3d36.webp"
-              },
-              {
-                "t": "p",
-                "x": "NeuTone says users keep the rights to the music they upload and that projects are private by default. Users can also opt out of having their data used to improve AI models without losing access to the plugin."
-              },
-              {
-                "t": "p",
-                "x": "NeuSynth currently runs on macOS 11.0 or later in VST3 and AU formats. A Windows version is planned."
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "NeuSynth de NeuTone crea\nnuevos stems dentro del DAW",
-          "body": "NeuSynth analiza hasta 60 segundos de una pista en el DAW y genera nuevos stems de instrumentos a juego.",
-          "mini_headline": "NeuSynth crea stems en el DAW",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://mmagimg.speedgabia.com/2026/11/img-1794286888307-287c615a239e2285.webp"
-              },
-              {
-                "t": "p",
-                "x": "NeuTone ha anunciado NeuSynth, un plugin generador de stems con AI que funciona dentro de tu DAW."
-              },
-              {
-                "t": "p",
-                "x": "NeuSynth crea nuevos stems de instrumentos a partir del audio de la pista en la que estás trabajando. Puedes usar hasta 60 segundos de audio como entrada y elegir entre 1 y 6 capas de instrumentos."
-              },
-              {
-                "t": "img",
-                "src": "https://mmagimg.speedgabia.com/2026/11/img-1794286897214-a6fb9cea75d62a04.webp",
-                "cap": "Imagen: NeuTone"
-              },
-              {
-                "t": "p",
-                "x": "Cada generación produce cuatro conjuntos de variaciones. Cada conjunto incluye un archivo WAV independiente por instrumento, y las partes están diseñadas para funcionar bien juntas. Puedes orientar los resultados con categorías de instrumentos, una referencia de audio o un prompt de texto, y escucharlos antes de generar."
-              },
-              {
-                "t": "img",
-                "src": "https://mmagimg.speedgabia.com/2026/11/img-1794286906307-e9574f7d23644d8a.webp",
-                "cap": "Imagen: NeuTone"
-              },
-              {
-                "t": "p",
-                "x": "Se obtienen 24 créditos gratis, válidos durante 12 meses. Lo generado en la prueba gratuita solo puede usarse con fines no comerciales. En los planes de pago, Starter cuesta $4.99 al mes por 150 créditos y Creator cuesta $9.99 al mes por 400 créditos. El audio de entrada no consume créditos."
-              },
-              {
-                "t": "p",
-                "x": "Un crédito cubre una variación de un instrumento, de hasta 30 segundos. Cada generación produce cuatro variaciones por instrumento, así que generar un solo instrumento de 30 segundos consume cuatro créditos."
-              },
-              {
-                "t": "img",
-                "src": "https://mmagimg.speedgabia.com/2026/11/img-1794286914872-64ad0e0cae1e3d36.webp"
-              },
-              {
-                "t": "p",
-                "x": "NeuTone afirma que los usuarios conservan los derechos de la música que suben y que los proyectos son privados por defecto. Los usuarios también pueden excluirse del uso de sus datos para mejorar modelos de AI sin perder el acceso al plugin."
-              },
-              {
-                "t": "p",
-                "x": "NeuSynth funciona actualmente en macOS 11.0 o posterior en formatos VST3 y AU. Está prevista una versión para Windows."
+                "x": "MyPart has also been talking about how its technology was used in the adaptive-gaming-music space, via a partnership with Epidemic Sound and Overwolf. The integration involved ‘Songhunt’, an in-game app that picks music from Epidemic’s catalogue to match on-screen gameplay."
               }
             ]
           }
         },
         "ko": {
-          "headline": "NeuTone, DAW서\nNeuSynth로 새 스템",
-          "body": "NeuSynth는 DAW에서 최대 60초를 분석해 곡에 맞는 악기 스템을 만든다.",
-          "mini_headline": "NeuSynth, DAW에서 스템 생성",
+          "headline": "Labelcamp 업무에\nClaude·ChatGPT",
+          "body": "Idol의 Labelcamp 고객은 Claude·ChatGPT로 데이터를 관리한다.",
+          "mini_headline": "Labelcamp, Claude·ChatGPT와 연동",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://mmagimg.speedgabia.com/2026/11/img-1794286888307-287c615a239e2285.webp"
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/08/news-stories-images-4x3-2026-08-26T131412.133.png?fit=2000%2C1500&ssl=1"
               },
               {
                 "t": "p",
-                "x": "NeuTone이 DAW 안에서 돌아가는 AI 스템 생성 플러그인 NeuSynth를 내놨다."
+                "x": "에이전트형 AI와 LLM을 잇는 음악 업계 도구와 서비스가 늘고 있다. 오늘은 Idol의 유통 관리 플랫폼 Labelcamp와 음악 매칭 스타트업 MyPart가 소식을 냈다."
               },
               {
                 "t": "p",
-                "x": "NeuSynth는 작업 중인 트랙의 오디오를 듣고 새 악기 스템을 만든다. 입력 오디오는 최대 60초까지 넣을 수 있고 악기 레이어는 1개에서 6개 사이로 고른다."
-              },
-              {
-                "t": "img",
-                "src": "https://mmagimg.speedgabia.com/2026/11/img-1794286897214-a6fb9cea75d62a04.webp",
-                "cap": "이미지: NeuTone"
+                "x": "Labelcamp가 새로 내놓은 ‘AI Connector’는 Claude와 ChatGPT 같은 챗봇과 연동된다. 고객은 그 도구 안에서 대화하듯 카탈로그와 데이터 관리 업무를 처리한다."
               },
               {
                 "t": "p",
-                "x": "한 번 생성하면 변형 세트 네 개가 나온다. 세트마다 악기별 WAV 파일이 따로 들어 있으며 파트끼리 잘 어울리게 설계됐다. 악기 카테고리, 오디오 레퍼런스, 텍스트 프롬프트로 결과를 조정하고 생성 전에 미리 들어 볼 수도 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://mmagimg.speedgabia.com/2026/11/img-1794286906307-e9574f7d23644d8a.webp",
-                "cap": "이미지: NeuTone"
+                "x": "Idol이 든 예는 이렇다. “프롬프트 하나로 여러 릴리스의 지역별 권리를 한꺼번에 조정하거나, 앨범 출시 일정을 수록 싱글과 함께 다시 잡을 수 있습니다. 가져온 데이터 전체의 메타데이터를 고치거나, 카탈로그 전반에 빠진 DSP 아티스트 IDs를 추가하거나, 플랫폼이 왜 납품을 거부했는지 설명할 수도 있습니다.”"
               },
               {
                 "t": "p",
-                "x": "무료 크레딧은 24개이고 유효 기간은 12개월이다. 무료 체험으로 만든 결과물은 비상업적 용도로만 쓸 수 있다. 유료 요금제는 Starter가 월 $4.99에 150크레딧, Creator가 월 $9.99에 400크레딧이다. 입력 오디오에는 크레딧이 들지 않는다."
+                "x": "Model Context Protocol(MCP) 기술이 실제로 쓰이는 모습이 바로 이것이고, MyPart가 하는 일도 여기에 일부 걸쳐 있다. MyPart는 “음악 이해를 대화형·자동화된 창작 과정과 결합한 범용 MCP AI 음악 에이전트… 음악, 가사, 시각적 리듬, 장면 전환, 청중 맥락, 사용자 선호를 해석해 음악 검색, 매칭, 플레이리스트 생성을 지원하도록 설계된” 에이전트를 내놓는다."
               },
               {
                 "t": "p",
-                "x": "한 크레딧은 최대 30초 길이의 악기 하나, 변형 하나에 해당한다. 생성 한 번에 악기마다 변형이 네 개씩 나오므로 30초 길이 악기 하나를 만들면 네 크레딧이 든다."
-              },
-              {
-                "t": "img",
-                "src": "https://mmagimg.speedgabia.com/2026/11/img-1794286914872-64ad0e0cae1e3d36.webp"
-              },
-              {
-                "t": "p",
-                "x": "NeuTone은 업로드한 음악의 권리는 사용자에게 있고 프로젝트는 기본 비공개라고 밝혔다. 플러그인 이용 권한을 잃지 않고도 내 데이터가 AI 모델 개선에 쓰이지 않게 거부할 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "NeuSynth는 현재 macOS 11.0 이상에서 VST3와 AU 포맷으로 돌아간다. Windows 버전도 낼 계획이다."
+                "x": "MyPart는 Epidemic Sound, Overwolf와 손잡고 자사 기술을 적응형 게임 음악에 활용한 사례도 소개해 왔다. 여기에는 화면 속 게임플레이에 맞춰 Epidemic 카탈로그에서 음악을 골라 주는 인게임 앱 ‘Songhunt’가 들어 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "NeuTone、DAW内で\nNeuSynthで新ステム",
-          "body": "NeuSynthはDAW上で曲を最大60秒解析し、合う新たな楽器ステムを生成する。",
-          "mini_headline": "NeuSynth、DAW内でステム生成",
+          "headline": "Labelcampが連携\nClaude・ChatGPT",
+          "body": "IdolのLabelcampがClaudeやChatGPTでのカタログ管理に対応した。",
+          "mini_headline": "Labelcamp、Claude・ChatGPTと連携",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://mmagimg.speedgabia.com/2026/11/img-1794286888307-287c615a239e2285.webp"
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/08/news-stories-images-4x3-2026-08-26T131412.133.png?fit=2000%2C1500&ssl=1"
               },
               {
                 "t": "p",
-                "x": "NeuToneは、DAW内で動作するAIステム生成プラグイン「NeuSynth」を発表した。"
+                "x": "エージェント型AIやLLMとの連携を模索する音楽業界のツールやサービスは増え続けている。今日は、IdolのディストリビューションマネジメントプラットフォームLabelcampと、音楽マッチングのスタートアップMyPartからニュースが届いた。"
               },
               {
                 "t": "p",
-                "x": "NeuSynthは、作業中のトラックのオーディオをもとに新しい楽器ステムを生成する。入力には最大60秒のオーディオを使え、楽器レイヤーは1から6の間で選べる。"
-              },
-              {
-                "t": "img",
-                "src": "https://mmagimg.speedgabia.com/2026/11/img-1794286897214-a6fb9cea75d62a04.webp",
-                "cap": "画像：NeuTone"
+                "x": "Labelcampの新しい「AI Connector」は、ClaudeやChatGPTなどのチャットボットと連携し、顧客がそれらのツール内から対話型インターフェースでカタログやデータ管理の作業を行えるようにする。"
               },
               {
                 "t": "p",
-                "x": "一回の生成で四つのバリエーションセットが作られる。各セットには楽器ごとに個別のWAVファイルが含まれ、パート同士がうまく噛み合うよう設計されている。楽器カテゴリー、オーディオリファレンス、テキストプロンプトで結果を方向づけられ、生成前にプレビューもできる。"
-              },
-              {
-                "t": "img",
-                "src": "https://mmagimg.speedgabia.com/2026/11/img-1794286906307-e9574f7d23644d8a.webp",
-                "cap": "画像：NeuTone"
+                "x": "Idolは例として次のように説明した。「一つのプロンプトで、複数のリリースにまたがるテリトリー権利を調整したり、アルバムの展開スケジュールをサポートシングルごと組み直したりできる。インポート全体のメタデータを修正したり、カタログ全体で欠けているDSPのアーティストIDsを追加したり、プラットフォームが納品を却下した理由を説明したりすることも可能だ」"
               },
               {
                 "t": "p",
-                "x": "無料で24クレジットが付与され、有効期間は12か月だ。無料トライアルでの出力は非商用目的に限って利用できる。有料プランでは、Starterが月額$4.99で150クレジット、Creatorが月額$9.99で400クレジットとなる。入力オーディオはクレジットを消費しない。"
+                "x": "これはModel Context Protocol(MCP)技術が実際に使われている例であり、MyPartが取り組んでいることの一部でもある。同社は「音楽理解を対話型・自動化された創作プロセスと組み合わせた汎用MCP AI音楽エージェント…音楽、歌詞、視覚的リズム、シーン転換、オーディエンスの文脈、ユーザーの好みを解釈し、音楽検索、マッチング、プレイリスト生成を支援するよう設計された」エージェントをリリースしている。"
               },
               {
                 "t": "p",
-                "x": "一クレジットは、最長30秒の楽器一つにつきバリエーション一つ分に相当する。一回の生成で楽器ごとに四つのバリエーションが作られるため、30秒の楽器を一つ生成すると四クレジットを消費する。"
-              },
-              {
-                "t": "img",
-                "src": "https://mmagimg.speedgabia.com/2026/11/img-1794286914872-64ad0e0cae1e3d36.webp"
-              },
-              {
-                "t": "p",
-                "x": "NeuToneによれば、アップロードした音楽の権利はユーザーが保持し、プロジェクトは初期設定で非公開となる。ユーザーはプラグインの利用権を失うことなく、自分のデータをAIモデルの改善に使わせないよう選択できる。"
-              },
-              {
-                "t": "p",
-                "x": "NeuSynthは現在、macOS 11.0以降でVST3およびAU形式で動作する。Windows版も予定されている。"
+                "x": "MyPartはまた、Epidemic SoundおよびOverwolfとの提携を通じて、自社技術がアダプティブなゲーム音楽の分野でどう使われたかについても語っている。この統合には、画面上のゲームプレイに合わせてEpidemicのカタログから音楽を選ぶゲーム内アプリ「Songhunt」が含まれていた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "NeuTone在DAW内\n以NeuSynth生成新分轨",
-          "body": "NeuSynth在DAW中分析最多60秒的音轨，并生成与之匹配的新乐器分轨层。",
-          "mini_headline": "NeuSynth在DAW内生成分轨",
+          "headline": "Labelcamp接入\nClaude与ChatGPT",
+          "body": "Idol的Labelcamp客户可在Claude或ChatGPT中管理目录与数据。",
+          "mini_headline": "Labelcamp接入Claude与ChatGPT",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://mmagimg.speedgabia.com/2026/11/img-1794286888307-287c615a239e2285.webp"
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/08/news-stories-images-4x3-2026-08-26T131412.133.png?fit=2000%2C1500&ssl=1"
               },
               {
                 "t": "p",
-                "x": "NeuTone发布了NeuSynth，这是一款在DAW内运行的AI分轨生成插件。"
+                "x": "探索智能体AI与LLM连接的音乐行业工具和服务越来越多。今天，Idol旗下的发行管理平台Labelcamp和音乐匹配初创公司MyPart都传来了消息。"
               },
               {
                 "t": "p",
-                "x": "NeuSynth会根据你正在制作的音轨音频生成新的乐器分轨。输入音频最长可达60秒，乐器层数可在1到6之间选择。"
+                "x": "Labelcamp新推出的“AI Connector”可与Claude、ChatGPT等聊天机器人协同工作，让客户在这些工具中通过对话界面处理目录和数据管理任务。"
               },
+              {
+                "t": "p",
+                "x": "Idol举例解释说：“只需一条提示词，就能批量调整多张发行作品的地区版权，或连同配套单曲一起重新安排专辑发布计划。它还可以修复整批导入数据的元数据，在整个目录中补全缺失的DSP艺人IDs，或解释某个平台为何拒绝了一次交付。”"
+              },
+              {
+                "t": "p",
+                "x": "这正是Model Context Protocol（MCP）技术的实际应用，也是MyPart正在做的事情之一。该公司发布了“将音乐理解与对话式及自动化创作流程相结合的通用MCP AI音乐智能体……旨在解读音乐、歌词、视觉节奏、场景转换、受众语境和用户偏好，以支持音乐搜索、匹配和歌单生成”。"
+              },
+              {
+                "t": "p",
+                "x": "MyPart还介绍了其技术如何通过与Epidemic Sound和Overwolf的合作应用于自适应游戏音乐领域。这次集成涉及游戏内应用“Songhunt”，它会从Epidemic的曲库中挑选与屏幕上游戏画面相匹配的音乐。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Labelcamp conecta la gestión\nde sellos con Claude y ChatGPT",
+          "body": "Labelcamp, de Idol, permite a sus clientes gestionar catálogos y datos desde Claude o ChatGPT.",
+          "mini_headline": "Labelcamp se conecta a Claude y ChatGPT",
+          "full": {
+            "mode": "full",
+            "blocks": [
               {
                 "t": "img",
-                "src": "https://mmagimg.speedgabia.com/2026/11/img-1794286897214-a6fb9cea75d62a04.webp",
-                "cap": "图片：NeuTone"
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/08/news-stories-images-4x3-2026-08-26T131412.133.png?fit=2000%2C1500&ssl=1"
               },
               {
                 "t": "p",
-                "x": "每次生成会产出四组变体。每组都为每件乐器提供单独的WAV文件，各声部经过设计，彼此能够良好配合。用户可以通过乐器类别、音频参考或文本提示来引导结果，并可在生成前预览。"
-              },
-              {
-                "t": "img",
-                "src": "https://mmagimg.speedgabia.com/2026/11/img-1794286906307-e9574f7d23644d8a.webp",
-                "cap": "图片：NeuTone"
+                "x": "La lista de herramientas y servicios de la industria musical que exploran la AI agéntica y las conexiones con LLM sigue creciendo. Hoy hay novedades de Labelcamp, la plataforma de gestión de distribución de Idol, y de MyPart, startup de emparejamiento musical."
               },
               {
                 "t": "p",
-                "x": "用户可免费获得24个积分，有效期12个月。免费试用的输出仅可用于非商业用途。付费方案中，Starter每月$4.99，含150个积分；Creator每月$9.99，含400个积分。输入音频不消耗积分。"
+                "x": "El nuevo ‘AI Connector’ de Labelcamp funciona con chatbots como Claude y ChatGPT para que los clientes gestionen tareas de catálogo y de datos desde esas herramientas, mediante una interfaz conversacional."
               },
               {
                 "t": "p",
-                "x": "一个积分对应一件乐器的一个变体，时长最多30秒。每次生成会为每件乐器产出四个变体，因此生成一件30秒的乐器需消耗四个积分。"
-              },
-              {
-                "t": "img",
-                "src": "https://mmagimg.speedgabia.com/2026/11/img-1794286914872-64ad0e0cae1e3d36.webp"
+                "x": "“Un solo prompt puede ajustar los derechos territoriales de un lote de lanzamientos o reprogramar el despliegue de un álbum junto con sus sencillos de apoyo”, explicó Idol a modo de ejemplo. “También puede corregir los metadatos de toda una importación, añadir los IDs de artista de DSP que faltan en un catálogo o explicar por qué una plataforma rechazó una entrega.”"
               },
               {
                 "t": "p",
-                "x": "NeuTone表示，用户保留其上传音乐的权利，项目默认设为私密。用户还可以选择不让自己的数据用于改进AI模型，且不会因此失去插件的使用权限。"
+                "x": "Es la tecnología Model Context Protocol (MCP) en acción, y eso también forma parte de lo que hace MyPart, que lanza “agentes musicales de AI con MCP de uso general que combinan la comprensión musical con procesos creativos conversacionales y automatizados… diseñados para interpretar música, letras, ritmo visual, transiciones de escena, contexto de la audiencia y preferencias del usuario para apoyar la búsqueda musical, el emparejamiento y la generación de listas de reproducción”."
               },
               {
                 "t": "p",
-                "x": "NeuSynth目前支持macOS 11.0及以上版本，提供VST3和AU格式。Windows版本已在计划中。"
+                "x": "MyPart también ha explicado cómo se usó su tecnología en el ámbito de la música adaptativa para videojuegos, mediante una alianza con Epidemic Sound y Overwolf. La integración incluyó ‘Songhunt’, una aplicación dentro del juego que elige música del catálogo de Epidemic para acompañar lo que ocurre en pantalla."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "es": {
-          "headline": "NeuSynth de NeuTone crea\nnuevos stems dentro del DAW",
-          "body": "NeuSynth analiza hasta 60 segundos de una pista en el DAW y genera nuevos stems de instrumentos a juego.",
-          "mini_headline": "NeuSynth crea stems en el DAW",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://mmagimg.speedgabia.com/2026/11/img-1794286888307-287c615a239e2285.webp"
-              },
-              {
-                "t": "p",
-                "x": "NeuTone ha anunciado NeuSynth, un plugin generador de stems con AI que funciona dentro de tu DAW."
-              },
-              {
-                "t": "p",
-                "x": "NeuSynth crea nuevos stems de instrumentos a partir del audio de la pista en la que estás trabajando. Puedes usar hasta 60 segundos de audio como entrada y elegir entre 1 y 6 capas de instrumentos."
-              },
-              {
-                "t": "img",
-                "src": "https://mmagimg.speedgabia.com/2026/11/img-1794286897214-a6fb9cea75d62a04.webp",
-                "cap": "Imagen: NeuTone"
-              },
-              {
-                "t": "p",
-                "x": "Cada generación produce cuatro conjuntos de variaciones. Cada conjunto incluye un archivo WAV independiente por instrumento, y las partes están diseñadas para funcionar bien juntas. Puedes orientar los resultados con categorías de instrumentos, una referencia de audio o un prompt de texto, y escucharlos antes de generar."
-              },
-              {
-                "t": "img",
-                "src": "https://mmagimg.speedgabia.com/2026/11/img-1794286906307-e9574f7d23644d8a.webp",
-                "cap": "Imagen: NeuTone"
-              },
-              {
-                "t": "p",
-                "x": "Se obtienen 24 créditos gratis, válidos durante 12 meses. Lo generado en la prueba gratuita solo puede usarse con fines no comerciales. En los planes de pago, Starter cuesta $4.99 al mes por 150 créditos y Creator cuesta $9.99 al mes por 400 créditos. El audio de entrada no consume créditos."
-              },
-              {
-                "t": "p",
-                "x": "Un crédito cubre una variación de un instrumento, de hasta 30 segundos. Cada generación produce cuatro variaciones por instrumento, así que generar un solo instrumento de 30 segundos consume cuatro créditos."
-              },
-              {
-                "t": "img",
-                "src": "https://mmagimg.speedgabia.com/2026/11/img-1794286914872-64ad0e0cae1e3d36.webp"
-              },
-              {
-                "t": "p",
-                "x": "NeuTone afirma que los usuarios conservan los derechos de la música que suben y que los proyectos son privados por defecto. Los usuarios también pueden excluirse del uso de sus datos para mejorar modelos de AI sin perder el acceso al plugin."
-              },
-              {
-                "t": "p",
-                "x": "NeuSynth funciona actualmente en macOS 11.0 o posterior en formatos VST3 y AU. Está prevista una versión para Windows."
-              }
-            ]
-          }
-        },
         "ko": {
-          "headline": "NeuTone, DAW서\nNeuSynth로 새 스템",
-          "body": "NeuSynth는 DAW에서 최대 60초를 분석해 어울리는 새 악기 스템을 만든다.",
-          "mini_headline": "NeuSynth, DAW에서 스템 생성",
+          "headline": "Labelcamp 업무에\nClaude·ChatGPT",
+          "body": "Idol의 Labelcamp 고객은 Claude·ChatGPT로 데이터를 관리한다.",
+          "mini_headline": "Labelcamp, Claude·ChatGPT와 연동",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://mmagimg.speedgabia.com/2026/11/img-1794286888307-287c615a239e2285.webp"
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/08/news-stories-images-4x3-2026-08-26T131412.133.png?fit=2000%2C1500&ssl=1"
               },
               {
                 "t": "p",
-                "x": "NeuTone이 DAW 안에서 작동하는 AI 스템 생성 플러그인 NeuSynth를 발표했다."
+                "x": "에이전트형 AI와 LLM 연결을 모색하는 음악 업계 도구와 서비스가 계속 늘고 있다. 오늘은 Idol의 유통 관리 플랫폼 Labelcamp와 음악 매칭 스타트업 MyPart에서 소식이 나왔다."
               },
               {
                 "t": "p",
-                "x": "NeuSynth는 작업 중인 트랙의 오디오를 바탕으로 새 악기 스템을 만든다. 입력으로 최대 60초 분량의 오디오를 쓸 수 있고, 악기 레이어는 1개에서 6개 사이로 고를 수 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://mmagimg.speedgabia.com/2026/11/img-1794286897214-a6fb9cea75d62a04.webp",
-                "cap": "이미지: NeuTone"
+                "x": "Labelcamp의 새 ‘AI Connector’는 Claude와 ChatGPT 같은 챗봇과 연동된다. 고객은 그 도구 안에서 대화형 인터페이스로 카탈로그와 데이터 관리 업무를 처리할 수 있다."
               },
               {
                 "t": "p",
-                "x": "한 번 생성할 때마다 네 개의 변형 세트가 나온다. 각 세트에는 악기별로 별도의 WAV 파일이 들어 있고, 파트들은 서로 잘 어울리도록 설계됐다. 악기 카테고리, 오디오 레퍼런스, 텍스트 프롬프트로 결과를 조정할 수 있으며, 생성 전에 미리 들어 볼 수도 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://mmagimg.speedgabia.com/2026/11/img-1794286906307-e9574f7d23644d8a.webp",
-                "cap": "이미지: NeuTone"
+                "x": "Idol은 예를 들어 이렇게 설명했다. “프롬프트 하나로 여러 릴리스의 지역별 권리를 한꺼번에 조정하거나, 앨범 출시 일정을 수록 싱글과 함께 다시 잡을 수 있습니다. 가져온 데이터 전체의 메타데이터를 고치거나, 카탈로그 전반에 빠진 DSP 아티스트 IDs를 추가하거나, 플랫폼이 왜 납품을 거부했는지 설명할 수도 있습니다.”"
               },
               {
                 "t": "p",
-                "x": "무료로 24크레딧을 받으며 유효 기간은 12개월이다. 무료 체험으로 만든 결과물은 비상업적 용도로만 쓸 수 있다. 유료 요금제는 Starter가 월 $4.99에 150크레딧, Creator가 월 $9.99에 400크레딧이다. 입력 오디오에는 크레딧이 들지 않는다."
+                "x": "이것이 바로 Model Context Protocol(MCP) 기술이 실제로 쓰이는 모습이며, MyPart가 하는 일의 일부이기도 하다. MyPart는 “음악 이해를 대화형·자동화된 창작 과정과 결합한 범용 MCP AI 음악 에이전트… 음악, 가사, 시각적 리듬, 장면 전환, 청중 맥락, 사용자 선호를 해석해 음악 검색, 매칭, 플레이리스트 생성을 지원하도록 설계된” 에이전트를 내놓고 있다."
               },
               {
                 "t": "p",
-                "x": "한 크레딧은 최대 30초 길이의 악기 하나, 변형 하나에 해당한다. 한 번 생성할 때 악기마다 네 개의 변형이 나오므로, 30초 길이의 악기 하나를 생성하면 네 크레딧이 든다."
-              },
-              {
-                "t": "img",
-                "src": "https://mmagimg.speedgabia.com/2026/11/img-1794286914872-64ad0e0cae1e3d36.webp"
-              },
-              {
-                "t": "p",
-                "x": "NeuTone은 사용자가 업로드한 음악의 권리는 사용자에게 있고, 프로젝트는 기본적으로 비공개라고 밝혔다. 사용자는 플러그인 이용 권한을 잃지 않고도 자신의 데이터가 AI 모델 개선에 쓰이지 않도록 거부할 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "NeuSynth는 현재 macOS 11.0 이상에서 VST3와 AU 포맷으로 작동한다. Windows 버전도 출시할 계획이다."
+                "x": "MyPart는 Epidemic Sound, Overwolf와의 파트너십을 통해 자사 기술이 적응형 게임 음악 분야에 어떻게 쓰였는지도 소개해 왔다. 이 통합에는 화면 속 게임플레이에 맞춰 Epidemic의 카탈로그에서 음악을 골라 주는 인게임 앱 ‘Songhunt’가 포함됐다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "NeuTone、DAW内で\nNeuSynthで新ステム",
-          "body": "NeuSynthはDAW上で曲を最大60秒解析し、合う新たな楽器ステムを生成する。",
-          "mini_headline": "NeuSynth、DAW内でステム生成",
+          "headline": "Labelcampが連携\nClaude・ChatGPT",
+          "body": "IdolのLabelcampがClaudeやChatGPTでのカタログ管理に対応した。",
+          "mini_headline": "Labelcamp、Claude・ChatGPTと連携",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://mmagimg.speedgabia.com/2026/11/img-1794286888307-287c615a239e2285.webp"
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/08/news-stories-images-4x3-2026-08-26T131412.133.png?fit=2000%2C1500&ssl=1"
               },
               {
                 "t": "p",
-                "x": "NeuToneは、DAW内で動作するAIステム生成プラグイン「NeuSynth」を発表した。"
+                "x": "エージェント型AIやLLMとの連携を模索する音楽業界のツールやサービスは増え続けている。今日は、IdolのディストリビューションマネジメントプラットフォームLabelcampと、音楽マッチングのスタートアップMyPartからニュースが届いた。"
               },
               {
                 "t": "p",
-                "x": "NeuSynthは、作業中のトラックのオーディオをもとに新しい楽器ステムを生成する。入力には最大60秒のオーディオを使え、楽器レイヤーは1から6の間で選べる。"
-              },
-              {
-                "t": "img",
-                "src": "https://mmagimg.speedgabia.com/2026/11/img-1794286897214-a6fb9cea75d62a04.webp",
-                "cap": "画像：NeuTone"
+                "x": "Labelcampの新しい「AI Connector」は、ClaudeやChatGPTなどのチャットボットと連携し、顧客がそれらのツール内から対話型インターフェースでカタログやデータ管理の作業を行えるようにする。"
               },
               {
                 "t": "p",
-                "x": "一回の生成で四つのバリエーションセットが作られる。各セットには楽器ごとに個別のWAVファイルが含まれ、パート同士がうまく噛み合うよう設計されている。楽器カテゴリー、オーディオリファレンス、テキストプロンプトで結果を方向づけられ、生成前にプレビューもできる。"
-              },
-              {
-                "t": "img",
-                "src": "https://mmagimg.speedgabia.com/2026/11/img-1794286906307-e9574f7d23644d8a.webp",
-                "cap": "画像：NeuTone"
+                "x": "Idolは例として次のように説明した。「一つのプロンプトで、複数のリリースにまたがるテリトリー権利を調整したり、アルバムの展開スケジュールをサポートシングルごと組み直したりできる。インポート全体のメタデータを修正したり、カタログ全体で欠けているDSPのアーティストIDsを追加したり、プラットフォームが納品を却下した理由を説明したりすることも可能だ」"
               },
               {
                 "t": "p",
-                "x": "無料で24クレジットが付与され、有効期間は12か月だ。無料トライアルでの出力は非商用目的に限って利用できる。有料プランでは、Starterが月額$4.99で150クレジット、Creatorが月額$9.99で400クレジットとなる。入力オーディオはクレジットを消費しない。"
+                "x": "これはModel Context Protocol(MCP)技術が実際に使われている例であり、MyPartが取り組んでいることの一部でもある。同社は「音楽理解を対話型・自動化された創作プロセスと組み合わせた汎用MCP AI音楽エージェント…音楽、歌詞、視覚的リズム、シーン転換、オーディエンスの文脈、ユーザーの好みを解釈し、音楽検索、マッチング、プレイリスト生成を支援するよう設計された」エージェントをリリースしている。"
               },
               {
                 "t": "p",
-                "x": "一クレジットは、最長30秒の楽器一つにつきバリエーション一つ分に相当する。一回の生成で楽器ごとに四つのバリエーションが作られるため、30秒の楽器を一つ生成すると四クレジットを消費する。"
-              },
-              {
-                "t": "img",
-                "src": "https://mmagimg.speedgabia.com/2026/11/img-1794286914872-64ad0e0cae1e3d36.webp"
-              },
-              {
-                "t": "p",
-                "x": "NeuToneによれば、アップロードした音楽の権利はユーザーが保持し、プロジェクトは初期設定で非公開となる。ユーザーはプラグインの利用権を失うことなく、自分のデータをAIモデルの改善に使わせないよう選択できる。"
-              },
-              {
-                "t": "p",
-                "x": "NeuSynthは現在、macOS 11.0以降でVST3およびAU形式で動作する。Windows版も予定されている。"
+                "x": "MyPartはまた、Epidemic SoundおよびOverwolfとの提携を通じて、自社技術がアダプティブなゲーム音楽の分野でどう使われたかについても語っている。この統合には、画面上のゲームプレイに合わせてEpidemicのカタログから音楽を選ぶゲーム内アプリ「Songhunt」が含まれていた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "NeuTone在DAW内\n以NeuSynth生成新分轨",
-          "body": "NeuSynth在DAW中分析最多60秒的音轨，并生成与之匹配的新乐器分轨层。",
-          "mini_headline": "NeuSynth在DAW内生成分轨",
+          "headline": "Labelcamp接入\nClaude与ChatGPT",
+          "body": "Idol的Labelcamp客户可在Claude或ChatGPT中管理目录与数据。",
+          "mini_headline": "Labelcamp接入Claude与ChatGPT",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://mmagimg.speedgabia.com/2026/11/img-1794286888307-287c615a239e2285.webp"
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/08/news-stories-images-4x3-2026-08-26T131412.133.png?fit=2000%2C1500&ssl=1"
               },
               {
                 "t": "p",
-                "x": "NeuTone发布了NeuSynth，这是一款在DAW内运行的AI分轨生成插件。"
+                "x": "探索智能体AI与LLM连接的音乐行业工具和服务越来越多。今天，Idol旗下的发行管理平台Labelcamp和音乐匹配初创公司MyPart都传来了消息。"
               },
               {
                 "t": "p",
-                "x": "NeuSynth会根据你正在制作的音轨音频生成新的乐器分轨。输入音频最长可达60秒，乐器层数可在1到6之间选择。"
+                "x": "Labelcamp新推出的“AI Connector”可与Claude、ChatGPT等聊天机器人协同工作，让客户在这些工具中通过对话界面处理目录和数据管理任务。"
               },
+              {
+                "t": "p",
+                "x": "Idol举例解释说：“只需一条提示词，就能批量调整多张发行作品的地区版权，或连同配套单曲一起重新安排专辑发布计划。它还可以修复整批导入数据的元数据，在整个目录中补全缺失的DSP艺人IDs，或解释某个平台为何拒绝了一次交付。”"
+              },
+              {
+                "t": "p",
+                "x": "这正是Model Context Protocol（MCP）技术的实际应用，也是MyPart正在做的事情之一。该公司发布了“将音乐理解与对话式及自动化创作流程相结合的通用MCP AI音乐智能体……旨在解读音乐、歌词、视觉节奏、场景转换、受众语境和用户偏好，以支持音乐搜索、匹配和歌单生成”。"
+              },
+              {
+                "t": "p",
+                "x": "MyPart还介绍了其技术如何通过与Epidemic Sound和Overwolf的合作应用于自适应游戏音乐领域。这次集成涉及游戏内应用“Songhunt”，它会从Epidemic的曲库中挑选与屏幕上游戏画面相匹配的音乐。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Labelcamp conecta la gestión\nde sellos con Claude y ChatGPT",
+          "body": "Labelcamp, de Idol, permite a sus clientes gestionar catálogos y datos desde Claude o ChatGPT.",
+          "mini_headline": "Labelcamp se conecta a Claude y ChatGPT",
+          "full": {
+            "mode": "full",
+            "blocks": [
               {
                 "t": "img",
-                "src": "https://mmagimg.speedgabia.com/2026/11/img-1794286897214-a6fb9cea75d62a04.webp",
-                "cap": "图片：NeuTone"
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/08/news-stories-images-4x3-2026-08-26T131412.133.png?fit=2000%2C1500&ssl=1"
               },
               {
                 "t": "p",
-                "x": "每次生成会产出四组变体。每组都为每件乐器提供单独的WAV文件，各声部经过设计，彼此能够良好配合。用户可以通过乐器类别、音频参考或文本提示来引导结果，并可在生成前预览。"
-              },
-              {
-                "t": "img",
-                "src": "https://mmagimg.speedgabia.com/2026/11/img-1794286906307-e9574f7d23644d8a.webp",
-                "cap": "图片：NeuTone"
+                "x": "La lista de herramientas y servicios de la industria musical que exploran la AI agéntica y las conexiones con LLM sigue creciendo. Hoy hay novedades de Labelcamp, la plataforma de gestión de distribución de Idol, y de MyPart, startup de emparejamiento musical."
               },
               {
                 "t": "p",
-                "x": "用户可免费获得24个积分，有效期12个月。免费试用的输出仅可用于非商业用途。付费方案中，Starter每月$4.99，含150个积分；Creator每月$9.99，含400个积分。输入音频不消耗积分。"
+                "x": "El nuevo ‘AI Connector’ de Labelcamp funciona con chatbots como Claude y ChatGPT para que los clientes gestionen tareas de catálogo y de datos desde esas herramientas, mediante una interfaz conversacional."
               },
               {
                 "t": "p",
-                "x": "一个积分对应一件乐器的一个变体，时长最多30秒。每次生成会为每件乐器产出四个变体，因此生成一件30秒的乐器需消耗四个积分。"
-              },
-              {
-                "t": "img",
-                "src": "https://mmagimg.speedgabia.com/2026/11/img-1794286914872-64ad0e0cae1e3d36.webp"
+                "x": "“Un solo prompt puede ajustar los derechos territoriales de un lote de lanzamientos o reprogramar el despliegue de un álbum junto con sus sencillos de apoyo”, explicó Idol a modo de ejemplo. “También puede corregir los metadatos de toda una importación, añadir los IDs de artista de DSP que faltan en un catálogo o explicar por qué una plataforma rechazó una entrega.”"
               },
               {
                 "t": "p",
-                "x": "NeuTone表示，用户保留其上传音乐的权利，项目默认设为私密。用户还可以选择不让自己的数据用于改进AI模型，且不会因此失去插件的使用权限。"
+                "x": "Es la tecnología Model Context Protocol (MCP) en acción, y eso también forma parte de lo que hace MyPart, que lanza “agentes musicales de AI con MCP de uso general que combinan la comprensión musical con procesos creativos conversacionales y automatizados… diseñados para interpretar música, letras, ritmo visual, transiciones de escena, contexto de la audiencia y preferencias del usuario para apoyar la búsqueda musical, el emparejamiento y la generación de listas de reproducción”."
               },
               {
                 "t": "p",
-                "x": "NeuSynth目前支持macOS 11.0及以上版本，提供VST3和AU格式。Windows版本已在计划中。"
+                "x": "MyPart también ha explicado cómo se usó su tecnología en el ámbito de la música adaptativa para videojuegos, mediante una alianza con Epidemic Sound y Overwolf. La integración incluyó ‘Songhunt’, una aplicación dentro del juego que elige música del catálogo de Epidemic para acompañar lo que ocurre en pantalla."
               }
             ]
           }
@@ -1119,689 +1119,261 @@
       }
     },
     {
-      "id": "johnpark-mcdonalds-rap-hijack",
-      "source_lang": "ko",
-      "eyebrow": "AI NEWS",
-      "headline": "존박·곽진언 주문 랩\n해외 음원에 무단 등록",
-      "body": "제3자 명의로 해외 플랫폼에 올라온 음원에 존박 닮은 AI 의심 랩이 붙었다.",
-      "mini_headline": "존박 주문 랩\n무단 등록",
-      "tool": "Music",
-      "source": "Newsis",
-      "url": "https://www.newsis.com/view/NISX20261110_0003862456",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://img1.newsis.com/2026/11/10/NISI20261110_0002288144_web.jpg",
-            "cap": "존박. (사진 = 유튜브 캡처)"
-          },
-          {
-            "t": "p",
-            "x": "싱어송라이터 존박과 곽진언이 웹 예능에서 선보여 화제를 모은 '맥도날드 주문 랩'이 해외 음원 플랫폼에 무단 등록됐다. 작사·작곡 크레디트에도 원작자가 아닌 제3자의 이름이 올랐다."
-          },
-          {
-            "t": "p",
-            "x": "10일 가요계에 따르면 최근 스포티파이·유튜브 뮤직 등 글로벌 음원 스트리밍 플랫폼에 '요요티나(yoyotina)'라는 이름의 아티스트가 발표한 '맥도날즈(Mcdonald´s)'가 등록됐다. 발매일은 지난 2일로 기재됐다."
-          },
-          {
-            "t": "p",
-            "x": "스포티파이 크레디트에는 요요티나가 메인 아티스트로, '로리노 도밍고스(Laurino Domingos)'가 작곡·작사가 겸 스튜디오 프로듀서로 표기됐다. 음원 출처는 '아프로비츠 디스트로(Afrobeats Distro)'로 기재됐다. 유튜브 뮤직에는 나이지리아 기반으로 알려진 유통업체 '정글 엔터테인먼트 벤처스(Jungle Entertainment Ventures)'가 유통사로 올라 있다."
-          },
-          {
-            "t": "p",
-            "x": "음원은 유튜브 영상의 소리를 추출해 편집한 형태다. 곽진언의 랩으로 시작해 존박의 파트로 이어지며, 영상에 쓰인 배경 음악도 그대로 담겼다. 원본에 없던 후렴과 여성 보컬 파트가 새로 들어갔고, 후렴 뒤에는 존박의 음색과 흡사한 목소리로 새 가사를 붙인 랩이 추가돼 생성형 인공지능(AI)을 활용한 목소리 무단 복제 의혹도 제기됐다. 재생 시간은 2분43초가량이다."
-          },
-          {
-            "t": "img",
-            "src": "https://img1.newsis.com/2026/11/10/NISI20261110_0002288246_web.jpg",
-            "cap": "요요티나(yoyotina)의 '맥도날드스'라는 노래 제목으로 올라온 존박, 곽진언 음원. (사진 = 스포티파이 캡처)"
-          },
-          {
-            "t": "p",
-            "x": "원본은 존박의 유튜브 채널 '존이냐박이냐'에 지난달 공개된 '맥도날드에서 랩으로 주문하는 존박(with 로꼬)'이다. 존박과 곽진언이 래퍼 로꼬에게 힙합 레슨을 받은 뒤 맥도날드 매장에서 랩으로 메뉴를 주문하는 내용으로, 본편과 숏폼을 합쳐 조회수 1400만 회를 넘겼다. 영상이 화제가 되자 한국맥도날드는 이 랩을 배경음악으로 쓴 광고와 '존박 세트'를 선보이기도 했다. 다만 정식 음원으로 기획·발매된 곡은 아니다. 유튜브 등지에서 각종 패러디 영상이 나오고 있다."
-          },
-          {
-            "t": "p",
-            "x": "해당 사안을 인지한 존박 측은 저작권법 등을 토대로 조치 중이다."
-          }
-        ]
-      },
-      "text": {
-        "ko": {
-          "headline": "존박·곽진언 주문 랩\n해외 음원에 무단 등록",
-          "body": "제3자 명의로 해외 플랫폼에 올라온 음원에 존박 닮은 AI 의심 랩이 붙었다.",
-          "mini_headline": "존박 주문 랩\n무단 등록",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img1.newsis.com/2026/11/10/NISI20261110_0002288144_web.jpg",
-                "cap": "존박. (사진 = 유튜브 캡처)"
-              },
-              {
-                "t": "p",
-                "x": "싱어송라이터 존박과 곽진언이 웹 예능에서 선보여 화제를 모은 '맥도날드 주문 랩'이 해외 음원 플랫폼에 무단 등록됐다. 작사·작곡 크레디트에도 원작자가 아닌 제3자의 이름이 올랐다."
-              },
-              {
-                "t": "p",
-                "x": "10일 가요계에 따르면 최근 스포티파이·유튜브 뮤직 등 글로벌 음원 스트리밍 플랫폼에 '요요티나(yoyotina)'라는 이름의 아티스트가 발표한 '맥도날즈(Mcdonald´s)'가 등록됐다. 발매일은 지난 2일로 기재됐다."
-              },
-              {
-                "t": "p",
-                "x": "스포티파이 크레디트에는 요요티나가 메인 아티스트로, '로리노 도밍고스(Laurino Domingos)'가 작곡·작사가 겸 스튜디오 프로듀서로 표기됐다. 음원 출처는 '아프로비츠 디스트로(Afrobeats Distro)'로 기재됐다. 유튜브 뮤직에는 나이지리아 기반으로 알려진 유통업체 '정글 엔터테인먼트 벤처스(Jungle Entertainment Ventures)'가 유통사로 올라 있다."
-              },
-              {
-                "t": "p",
-                "x": "음원은 유튜브 영상의 소리를 추출해 편집한 형태다. 곽진언의 랩으로 시작해 존박의 파트로 이어지며, 영상에 쓰인 배경 음악도 그대로 담겼다. 원본에 없던 후렴과 여성 보컬 파트가 새로 들어갔고, 후렴 뒤에는 존박의 음색과 흡사한 목소리로 새 가사를 붙인 랩이 추가돼 생성형 인공지능(AI)을 활용한 목소리 무단 복제 의혹도 제기됐다. 재생 시간은 2분43초가량이다."
-              },
-              {
-                "t": "img",
-                "src": "https://img1.newsis.com/2026/11/10/NISI20261110_0002288246_web.jpg",
-                "cap": "요요티나(yoyotina)의 '맥도날드스'라는 노래 제목으로 올라온 존박, 곽진언 음원. (사진 = 스포티파이 캡처)"
-              },
-              {
-                "t": "p",
-                "x": "원본은 존박의 유튜브 채널 '존이냐박이냐'에 지난달 공개된 '맥도날드에서 랩으로 주문하는 존박(with 로꼬)'이다. 존박과 곽진언이 래퍼 로꼬에게 힙합 레슨을 받은 뒤 맥도날드 매장에서 랩으로 메뉴를 주문하는 내용으로, 본편과 숏폼을 합쳐 조회수 1400만 회를 넘겼다. 영상이 화제가 되자 한국맥도날드는 이 랩을 배경음악으로 쓴 광고와 '존박 세트'를 선보이기도 했다. 다만 정식 음원으로 기획·발매된 곡은 아니다. 유튜브 등지에서 각종 패러디 영상이 나오고 있다."
-              },
-              {
-                "t": "p",
-                "x": "해당 사안을 인지한 존박 측은 저작권법 등을 토대로 조치 중이다."
-              }
-            ]
-          }
-        },
-        "en": {
-          "headline": "John Park, Kwak Jin-eon rap\nlisted abroad without consent",
-          "body": "A track posted on overseas platforms under a 3rd party's name carries a suspected AI rap resembling John Park.",
-          "mini_headline": "John Park order rap listed without consent",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img1.newsis.com/2026/11/10/NISI20261110_0002288144_web.jpg",
-                "cap": "John Park. (Photo = YouTube capture)"
-              },
-              {
-                "t": "p",
-                "x": "The 'McDonald's order rap', which singer-songwriters John Park and Kwak Jin-eon performed on a web variety show to wide attention, has been registered on overseas music platforms without permission. The lyrics and composition credits also carry the name of a 3rd party rather than the original creators."
-              },
-              {
-                "t": "p",
-                "x": "According to the music industry on the 10th, 'Mcdonald´s', released by an artist named 'yoyotina', was recently registered on global music streaming platforms including Spotify and YouTube Music. The release date is listed as the 2nd."
-              },
-              {
-                "t": "p",
-                "x": "Spotify's credits list yoyotina as the main artist and 'Laurino Domingos' as composer, lyricist and studio producer. The source of the track is listed as 'Afrobeats Distro'. On YouTube Music, 'Jungle Entertainment Ventures', a distributor reported to be based in Nigeria, is listed as the distributor."
-              },
-              {
-                "t": "p",
-                "x": "The track is an edit of audio extracted from the YouTube video. It opens with Kwak Jin-eon's rap and moves into John Park's part, and the background music used in the video is carried over intact. A chorus and a female vocal part that were not in the original have been added, and after the chorus comes a rap with new lyrics in a voice closely resembling John Park's tone, raising suspicions that his voice was cloned without permission using generative artificial intelligence (AI). The running time is about 2 minutes 43 seconds."
-              },
-              {
-                "t": "img",
-                "src": "https://img1.newsis.com/2026/11/10/NISI20261110_0002288246_web.jpg",
-                "cap": "The John Park and Kwak Jin-eon track uploaded under the song title 'McDonalds' by yoyotina. (Photo = Spotify capture)"
-              },
-              {
-                "t": "p",
-                "x": "The original is 'John Park ordering in rap at McDonald's (with Loco)', posted last month on John Park's YouTube channel 'John or Park'. In it, John Park and Kwak Jin-eon take hip-hop lessons from rapper Loco and then order from the menu in rap at a McDonald's store; the main video and short-form clips together have passed 14 million views. As the video drew attention, McDonald's Korea released an ad using the rap as background music and a 'John Park Set'. However, it was never planned or released as an official track. Various parody videos are appearing on YouTube and elsewhere."
-              },
-              {
-                "t": "p",
-                "x": "Having become aware of the matter, John Park's side is taking action based on the Copyright Act and other laws."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "ジョン・パクの注文ラップ\n海外で無断登録",
-          "body": "第3者名義で海外に出た音源に、ジョン・パク似のAI疑惑ラップが加わっていた。",
-          "mini_headline": "ジョン・パクの注文ラップ無断登録",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img1.newsis.com/2026/11/10/NISI20261110_0002288144_web.jpg",
-                "cap": "ジョン・パク。(写真=YouTubeキャプチャー)"
-              },
-              {
-                "t": "p",
-                "x": "シンガーソングライターのジョン・パクとクァク・ジノンがウェブバラエティで披露し話題を集めた「マクドナルド注文ラップ」が、海外の音源プラットフォームに無断で登録された。作詞・作曲のクレジットにも、原作者ではない第3者の名前が載っている。"
-              },
-              {
-                "t": "p",
-                "x": "歌謡界によると10日、最近SpotifyやYouTube Musicなどグローバルな音源ストリーミングプラットフォームに、「yoyotina」という名のアーティストが発表した「Mcdonald´s」が登録された。リリース日は2日と記載されている。"
-              },
-              {
-                "t": "p",
-                "x": "Spotifyのクレジットでは、yoyotinaがメインアーティスト、「Laurino Domingos」が作曲・作詞家兼スタジオプロデューサーと表記されている。音源の出所は「Afrobeats Distro」と記載された。YouTube Musicでは、ナイジェリアを拠点とするとされる流通会社「Jungle Entertainment Ventures」が流通元として載っている。"
-              },
-              {
-                "t": "p",
-                "x": "音源はYouTube動画の音声を抽出して編集したものだ。クァク・ジノンのラップで始まりジョン・パクのパートへと続き、動画で使われたBGMもそのまま収められている。原曲になかったサビと女性ボーカルのパートが新たに加わり、サビの後にはジョン・パクの声色によく似た声で新しい歌詞を付けたラップが追加されており、生成人工知能(AI)を使った声の無断複製の疑いも浮上した。再生時間は約2分43秒だ。"
-              },
-              {
-                "t": "img",
-                "src": "https://img1.newsis.com/2026/11/10/NISI20261110_0002288246_web.jpg",
-                "cap": "yoyotinaの「マクドナルズ」という曲名でアップされたジョン・パク、クァク・ジノンの音源。(写真=Spotifyキャプチャー)"
-              },
-              {
-                "t": "p",
-                "x": "原曲は、ジョン・パクのYouTubeチャンネル「ジョンかパクか」で先月公開された「マクドナルドでラップで注文するジョン・パク(with ロコ)」だ。ジョン・パクとクァク・ジノンがラッパーのロコからヒップホップのレッスンを受けた後、マクドナルドの店舗でラップでメニューを注文する内容で、本編とショート動画を合わせて再生回数1400万回を超えた。動画が話題になると、韓国マクドナルドはこのラップをBGMに使った広告と「ジョン・パクセット」を打ち出した。ただし、正式な音源として企画・リリースされた曲ではない。YouTubeなどでは様々なパロディ動画が出ている。"
-              },
-              {
-                "t": "p",
-                "x": "事態を把握したジョン・パク側は、著作権法などに基づいて対応を進めている。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "约翰朴点餐说唱\n遭海外平台擅自上架",
-          "body": "以第3方名义上传至海外平台的音源中，加入了疑似模仿约翰朴的AI说唱。",
-          "mini_headline": "约翰朴点餐说唱遭擅自上架",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img1.newsis.com/2026/11/10/NISI20261110_0002288144_web.jpg",
-                "cap": "约翰朴。（图片=YouTube截图）"
-              },
-              {
-                "t": "p",
-                "x": "创作歌手约翰朴与Kwak Jin-eon在网络综艺中表演并引发热议的“麦当劳点餐说唱”，被擅自上架至海外音乐平台。作词作曲署名也不是原作者，而是第3方的名字。"
-              },
-              {
-                "t": "p",
-                "x": "据歌谣界10日消息，近日一首由名为“yoyotina”的艺人发布的“Mcdonald´s”出现在Spotify、YouTube Music等全球音乐流媒体平台上，发行日期标注为2日。"
-              },
-              {
-                "t": "p",
-                "x": "Spotify的署名中，yoyotina为主艺人，“Laurino Domingos”被标注为作曲、作词兼录音室制作人。音源来源标注为“Afrobeats Distro”。在YouTube Music上，据悉总部位于尼日利亚的发行商“Jungle Entertainment Ventures”被列为发行方。"
-              },
-              {
-                "t": "p",
-                "x": "该音源是从YouTube视频中提取声音后剪辑而成，以Kwak Jin-eon的说唱开头，接着是约翰朴的部分，视频中使用的背景音乐也原样保留。原版没有的副歌和女声部分被新加入，副歌之后还加入了一段用与约翰朴音色极为相似的声音演唱新歌词的说唱，因而引发了利用生成式人工智能（AI）擅自复制声音的质疑。时长约2分43秒。"
-              },
-              {
-                "t": "img",
-                "src": "https://img1.newsis.com/2026/11/10/NISI20261110_0002288246_web.jpg",
-                "cap": "以yoyotina的“McDonalds”为歌名上传的约翰朴、Kwak Jin-eon音源。（图片=Spotify截图）"
-              },
-              {
-                "t": "p",
-                "x": "原版是上月在约翰朴的YouTube频道“是John还是朴”上发布的《在麦当劳用说唱点餐的约翰朴（with Loco）》。内容是约翰朴和Kwak Jin-eon跟说唱歌手Loco上了嘻哈课后，在麦当劳门店用说唱点餐，正片与短视频合计播放量超过1400万次。视频走红后，韩国麦当劳还推出了以这段说唱为背景音乐的广告和“约翰朴套餐”。不过，这并不是作为正式音源策划发行的歌曲。YouTube等平台上正不断出现各种恶搞视频。"
-              },
-              {
-                "t": "p",
-                "x": "得知此事后，约翰朴方面正依据著作权法等采取措施。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Rap de John Park y Kwak Jin-eon\nsin permiso en webs extranjeras",
-          "body": "Una pista subida a webs extranjeras a nombre de un 3.er titular incluye un supuesto rap con AI que imita a John Park.",
-          "mini_headline": "Rap de John Park subido sin permiso",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img1.newsis.com/2026/11/10/NISI20261110_0002288144_web.jpg",
-                "cap": "John Park. (Foto = captura de YouTube)"
-              },
-              {
-                "t": "p",
-                "x": "El ‘rap del pedido en McDonald's’, que los cantautores John Park y Kwak Jin-eon interpretaron en un programa de variedades web y que dio mucho que hablar, fue registrado sin permiso en plataformas musicales extranjeras. En los créditos de letra y composición figura además el nombre de un 3.er titular y no el de los autores originales."
-              },
-              {
-                "t": "p",
-                "x": "Según la industria musical, el día 10, recientemente se registró en plataformas globales de streaming como Spotify y YouTube Music ‘Mcdonald´s’, publicada por un artista llamado ‘yoyotina’. La fecha de lanzamiento figura como el día 2."
-              },
-              {
-                "t": "p",
-                "x": "En los créditos de Spotify, yoyotina aparece como artista principal y ‘Laurino Domingos’ como compositor, letrista y productor de estudio. El origen de la pista figura como ‘Afrobeats Distro’. En YouTube Music aparece como distribuidora ‘Jungle Entertainment Ventures’, una empresa que, según se sabe, tiene su sede en Nigeria."
-              },
-              {
-                "t": "p",
-                "x": "La pista es una edición del audio extraído del video de YouTube. Empieza con el rap de Kwak Jin-eon y sigue con la parte de John Park, y conserva tal cual la música de fondo del video. Se añadieron un estribillo y una parte de voz femenina que no estaban en el original, y tras el estribillo hay un rap con letra nueva en una voz muy parecida al timbre de John Park, lo que ha generado sospechas de clonación no autorizada de la voz mediante inteligencia artificial generativa (AI). Dura unos 2 minutos y 43 segundos."
-              },
-              {
-                "t": "img",
-                "src": "https://img1.newsis.com/2026/11/10/NISI20261110_0002288246_web.jpg",
-                "cap": "La pista de John Park y Kwak Jin-eon subida con el título ‘McDonalds’ por yoyotina. (Foto = captura de Spotify)"
-              },
-              {
-                "t": "p",
-                "x": "El original es ‘John Park pide en rap en McDonald's (with Loco)’, publicado el mes pasado en el canal de YouTube de John Park ‘¿John o Park?’. En él, John Park y Kwak Jin-eon reciben clases de hip-hop del rapero Loco y luego piden el menú rapeando en un local de McDonald's; entre el video principal y los formatos cortos, superó los 14 millones de visualizaciones. Ante la repercusión, McDonald's Corea lanzó un anuncio con este rap como música de fondo y un ‘menú John Park’. Sin embargo, no es una canción planificada ni lanzada como tema oficial. En YouTube y otros sitios circulan diversas parodias."
-              },
-              {
-                "t": "p",
-                "x": "Tras conocer el caso, el entorno de John Park está tomando medidas con base en la Ley de Derechos de Autor, entre otras normas."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "en": {
-          "headline": "John Park, Kwak Jin-eon rap\nlisted abroad without consent",
-          "body": "A track posted on overseas platforms under a 3rd party's name carries a suspected AI rap resembling John Park.",
-          "mini_headline": "John Park order rap listed without consent",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img1.newsis.com/2026/11/10/NISI20261110_0002288144_web.jpg",
-                "cap": "John Park. (Photo = YouTube capture)"
-              },
-              {
-                "t": "p",
-                "x": "The 'McDonald's order rap', which singer-songwriters John Park and Kwak Jin-eon performed on a web variety show to wide attention, has been registered on overseas music platforms without permission. The lyrics and composition credits also carry the name of a 3rd party rather than the original creators."
-              },
-              {
-                "t": "p",
-                "x": "According to the music industry on the 10th, 'Mcdonald´s', released by an artist named 'yoyotina', was recently registered on global music streaming platforms including Spotify and YouTube Music. The release date is listed as the 2nd."
-              },
-              {
-                "t": "p",
-                "x": "Spotify's credits list yoyotina as the main artist and 'Laurino Domingos' as composer, lyricist and studio producer. The source of the track is listed as 'Afrobeats Distro'. On YouTube Music, 'Jungle Entertainment Ventures', a distributor reported to be based in Nigeria, is listed as the distributor."
-              },
-              {
-                "t": "p",
-                "x": "The track is an edit of audio extracted from the YouTube video. It opens with Kwak Jin-eon's rap and moves into John Park's part, and the background music used in the video is carried over intact. A chorus and a female vocal part that were not in the original have been added, and after the chorus comes a rap with new lyrics in a voice closely resembling John Park's tone, raising suspicions that his voice was cloned without permission using generative artificial intelligence (AI). The running time is about 2 minutes 43 seconds."
-              },
-              {
-                "t": "img",
-                "src": "https://img1.newsis.com/2026/11/10/NISI20261110_0002288246_web.jpg",
-                "cap": "The John Park and Kwak Jin-eon track uploaded under the song title 'McDonalds' by yoyotina. (Photo = Spotify capture)"
-              },
-              {
-                "t": "p",
-                "x": "The original is 'John Park ordering in rap at McDonald's (with Loco)', posted last month on John Park's YouTube channel 'John or Park'. In it, John Park and Kwak Jin-eon take hip-hop lessons from rapper Loco and then order from the menu in rap at a McDonald's store; the main video and short-form clips together have passed 14 million views. As the video drew attention, McDonald's Korea released an ad using the rap as background music and a 'John Park Set'. However, it was never planned or released as an official track. Various parody videos are appearing on YouTube and elsewhere."
-              },
-              {
-                "t": "p",
-                "x": "Having become aware of the matter, John Park's side is taking action based on the Copyright Act and other laws."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "ジョン・パクの注文ラップ\n海外で無断登録",
-          "body": "第3者名義で海外に出た音源に、ジョン・パク似のAI疑惑ラップが加わっていた。",
-          "mini_headline": "ジョン・パクの注文ラップ無断登録",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img1.newsis.com/2026/11/10/NISI20261110_0002288144_web.jpg",
-                "cap": "ジョン・パク。(写真=YouTubeキャプチャー)"
-              },
-              {
-                "t": "p",
-                "x": "シンガーソングライターのジョン・パクとクァク・ジノンがウェブバラエティで披露し話題を集めた「マクドナルド注文ラップ」が、海外の音源プラットフォームに無断で登録された。作詞・作曲のクレジットにも、原作者ではない第3者の名前が載っている。"
-              },
-              {
-                "t": "p",
-                "x": "歌謡界によると10日、最近SpotifyやYouTube Musicなどグローバルな音源ストリーミングプラットフォームに、「yoyotina」という名のアーティストが発表した「Mcdonald´s」が登録された。リリース日は2日と記載されている。"
-              },
-              {
-                "t": "p",
-                "x": "Spotifyのクレジットでは、yoyotinaがメインアーティスト、「Laurino Domingos」が作曲・作詞家兼スタジオプロデューサーと表記されている。音源の出所は「Afrobeats Distro」と記載された。YouTube Musicでは、ナイジェリアを拠点とするとされる流通会社「Jungle Entertainment Ventures」が流通元として載っている。"
-              },
-              {
-                "t": "p",
-                "x": "音源はYouTube動画の音声を抽出して編集したものだ。クァク・ジノンのラップで始まりジョン・パクのパートへと続き、動画で使われたBGMもそのまま収められている。原曲になかったサビと女性ボーカルのパートが新たに加わり、サビの後にはジョン・パクの声色によく似た声で新しい歌詞を付けたラップが追加されており、生成人工知能(AI)を使った声の無断複製の疑いも浮上した。再生時間は約2分43秒だ。"
-              },
-              {
-                "t": "img",
-                "src": "https://img1.newsis.com/2026/11/10/NISI20261110_0002288246_web.jpg",
-                "cap": "yoyotinaの「マクドナルズ」という曲名でアップされたジョン・パク、クァク・ジノンの音源。(写真=Spotifyキャプチャー)"
-              },
-              {
-                "t": "p",
-                "x": "原曲は、ジョン・パクのYouTubeチャンネル「ジョンかパクか」で先月公開された「マクドナルドでラップで注文するジョン・パク(with ロコ)」だ。ジョン・パクとクァク・ジノンがラッパーのロコからヒップホップのレッスンを受けた後、マクドナルドの店舗でラップでメニューを注文する内容で、本編とショート動画を合わせて再生回数1400万回を超えた。動画が話題になると、韓国マクドナルドはこのラップをBGMに使った広告と「ジョン・パクセット」を打ち出した。ただし、正式な音源として企画・リリースされた曲ではない。YouTubeなどでは様々なパロディ動画が出ている。"
-              },
-              {
-                "t": "p",
-                "x": "事態を把握したジョン・パク側は、著作権法などに基づいて対応を進めている。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "约翰朴点餐说唱\n遭海外平台擅自上架",
-          "body": "以第3方名义上传至海外平台的音源中，加入了疑似模仿约翰朴的AI说唱。",
-          "mini_headline": "约翰朴点餐说唱遭擅自上架",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img1.newsis.com/2026/11/10/NISI20261110_0002288144_web.jpg",
-                "cap": "约翰朴。（图片=YouTube截图）"
-              },
-              {
-                "t": "p",
-                "x": "创作歌手约翰朴与Kwak Jin-eon在网络综艺中表演并引发热议的“麦当劳点餐说唱”，被擅自上架至海外音乐平台。作词作曲署名也不是原作者，而是第3方的名字。"
-              },
-              {
-                "t": "p",
-                "x": "据歌谣界10日消息，近日一首由名为“yoyotina”的艺人发布的“Mcdonald´s”出现在Spotify、YouTube Music等全球音乐流媒体平台上，发行日期标注为2日。"
-              },
-              {
-                "t": "p",
-                "x": "Spotify的署名中，yoyotina为主艺人，“Laurino Domingos”被标注为作曲、作词兼录音室制作人。音源来源标注为“Afrobeats Distro”。在YouTube Music上，据悉总部位于尼日利亚的发行商“Jungle Entertainment Ventures”被列为发行方。"
-              },
-              {
-                "t": "p",
-                "x": "该音源是从YouTube视频中提取声音后剪辑而成，以Kwak Jin-eon的说唱开头，接着是约翰朴的部分，视频中使用的背景音乐也原样保留。原版没有的副歌和女声部分被新加入，副歌之后还加入了一段用与约翰朴音色极为相似的声音演唱新歌词的说唱，因而引发了利用生成式人工智能（AI）擅自复制声音的质疑。时长约2分43秒。"
-              },
-              {
-                "t": "img",
-                "src": "https://img1.newsis.com/2026/11/10/NISI20261110_0002288246_web.jpg",
-                "cap": "以yoyotina的“McDonalds”为歌名上传的约翰朴、Kwak Jin-eon音源。（图片=Spotify截图）"
-              },
-              {
-                "t": "p",
-                "x": "原版是上月在约翰朴的YouTube频道“是John还是朴”上发布的《在麦当劳用说唱点餐的约翰朴（with Loco）》。内容是约翰朴和Kwak Jin-eon跟说唱歌手Loco上了嘻哈课后，在麦当劳门店用说唱点餐，正片与短视频合计播放量超过1400万次。视频走红后，韩国麦当劳还推出了以这段说唱为背景音乐的广告和“约翰朴套餐”。不过，这并不是作为正式音源策划发行的歌曲。YouTube等平台上正不断出现各种恶搞视频。"
-              },
-              {
-                "t": "p",
-                "x": "得知此事后，约翰朴方面正依据著作权法等采取措施。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Rap de John Park y Kwak Jin-eon\nsin permiso en webs extranjeras",
-          "body": "Una pista subida a webs extranjeras a nombre de un 3.er titular incluye un supuesto rap con AI que imita a John Park.",
-          "mini_headline": "Rap de John Park subido sin permiso",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img1.newsis.com/2026/11/10/NISI20261110_0002288144_web.jpg",
-                "cap": "John Park. (Foto = captura de YouTube)"
-              },
-              {
-                "t": "p",
-                "x": "El ‘rap del pedido en McDonald's’, que los cantautores John Park y Kwak Jin-eon interpretaron en un programa de variedades web y que dio mucho que hablar, fue registrado sin permiso en plataformas musicales extranjeras. En los créditos de letra y composición figura además el nombre de un 3.er titular y no el de los autores originales."
-              },
-              {
-                "t": "p",
-                "x": "Según la industria musical, el día 10, recientemente se registró en plataformas globales de streaming como Spotify y YouTube Music ‘Mcdonald´s’, publicada por un artista llamado ‘yoyotina’. La fecha de lanzamiento figura como el día 2."
-              },
-              {
-                "t": "p",
-                "x": "En los créditos de Spotify, yoyotina aparece como artista principal y ‘Laurino Domingos’ como compositor, letrista y productor de estudio. El origen de la pista figura como ‘Afrobeats Distro’. En YouTube Music aparece como distribuidora ‘Jungle Entertainment Ventures’, una empresa que, según se sabe, tiene su sede en Nigeria."
-              },
-              {
-                "t": "p",
-                "x": "La pista es una edición del audio extraído del video de YouTube. Empieza con el rap de Kwak Jin-eon y sigue con la parte de John Park, y conserva tal cual la música de fondo del video. Se añadieron un estribillo y una parte de voz femenina que no estaban en el original, y tras el estribillo hay un rap con letra nueva en una voz muy parecida al timbre de John Park, lo que ha generado sospechas de clonación no autorizada de la voz mediante inteligencia artificial generativa (AI). Dura unos 2 minutos y 43 segundos."
-              },
-              {
-                "t": "img",
-                "src": "https://img1.newsis.com/2026/11/10/NISI20261110_0002288246_web.jpg",
-                "cap": "La pista de John Park y Kwak Jin-eon subida con el título ‘McDonalds’ por yoyotina. (Foto = captura de Spotify)"
-              },
-              {
-                "t": "p",
-                "x": "El original es ‘John Park pide en rap en McDonald's (with Loco)’, publicado el mes pasado en el canal de YouTube de John Park ‘¿John o Park?’. En él, John Park y Kwak Jin-eon reciben clases de hip-hop del rapero Loco y luego piden el menú rapeando en un local de McDonald's; entre el video principal y los formatos cortos, superó los 14 millones de visualizaciones. Ante la repercusión, McDonald's Corea lanzó un anuncio con este rap como música de fondo y un ‘menú John Park’. Sin embargo, no es una canción planificada ni lanzada como tema oficial. En YouTube y otros sitios circulan diversas parodias."
-              },
-              {
-                "t": "p",
-                "x": "Tras conocer el caso, el entorno de John Park está tomando medidas con base en la Ley de Derechos de Autor, entre otras normas."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "riaa-ai-labelling-glazier",
+      "id": "culturecustodian-cloned-artist",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "RIAA, AI 음악 표시\n플랫폼 몫만은 아니다",
-      "body": "RIAA의 Glazier는 AI 음악 표시를 스트리밍에만 맡길 수는 없다고 봤다.",
-      "mini_headline": "RIAA, AI 표시는 플랫폼만의 몫 아니다",
+      "headline": "복제한 AI 목소리로\n음원 유통사를 시험",
+      "body": "한 매체가 AI 복제 목소리임을 밝힌 가짜 가수를 유통사들이 내주는지 살폈다.",
+      "mini_headline": "가짜 AI 가수로 유통사 시험",
       "tool": "Music",
-      "source": "Music Ally",
-      "url": "https://musically.com/2026/11/10/ai-music-labelling-cant-be-just-the-platforms-says-riaa-boss/",
+      "source": "The Culture Custodian",
+      "url": "https://culturecustodian.com/distributed-cloned-ai-music-fake-nigerian-artist/",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/09/news-stories-images-4x3-2026-09-24T123959.252.png?fit=2000%2C1500&ssl=1"
+            "src": "https://i0.wp.com/culturecustodian.com/wp-content/uploads/2026/11/WEB-How-We-Distributed-Cloned-AI-Music-From-a-Fake-Nigerian-Artist.jpg?fit=1024%2C1024&ssl=1"
           },
           {
             "t": "p",
-            "x": "테크 매체 The Verge의 팟캐스트 ‘Decoder’ 최신 회차 제목에 웃음이 났다. “잠깐만 — RIAA 사람과 정말 즐겁게 이야기했다”. Napster 전성기(Peak Napster) 시절 이 업계 단체가 테크 업계에서 얻은 평판이 아직 잊히지 않았다는 걸 비튼 제목이다."
+            "x": "우리는 복제한 목소리와 AI-generated 곡으로, 이름 뒤에 실존 인물이 전혀 없는 가짜 나이지리아 아티스트를 처음부터 만들었다. 유통 플랫폼에는 우리가 한 일을 그대로 밝혔다."
           },
           {
             "t": "p",
-            "x": "그 ‘RIAA 사람’은 CEO Mitch Glazier다. 스트리밍 서비스의 표시 문제를 비롯해 AI 생성(AI-generated) 음악을 둘러싼 요즘 정책 쟁점 몇 가지를 짚었다."
+            "x": "사내 프로듀서가 가상의 페르소나 CC Custody 이름으로 오리지널 Afrobeats 훅 GMYL을 녹음했다. 이 보컬을 Kits.ai와 ElevenLabs로 복제한 다음 Suno와 Udio에서 No Do or Die라는 곡으로 다시 만들었다. 두 번째 곡 Omo Na You는 처음부터 끝까지 복제 목소리로 불렀고, 또 다른 가짜 페르소나 KX3 이름으로 올렸다."
+          },
+          {
+            "t": "img",
+            "src": "https://i0.wp.com/culturecustodian.com/wp-content/uploads/2026/11/KITS-AI-CLONING.jpg?resize=1024%2C482&ssl=1"
           },
           {
             "t": "p",
-            "x": "“결국 기꺼이 그 일을 해야 하는 쪽은 플랫폼과 유통사다. 생성형 AI에 관해서라면 음반사들이 생성형 AI 음악에 태그를 달아 Spotify에 올리는 게 아니기 때문이다. 그건 DIY 영역에서 나온다”고 Glazier는 말했다."
+            "x": "DistroKid에서는 AI 사용 여부에 “Yes”라고 답하고 CC Custody가 AI 페르소나라고 밝혔는데도 발매가 “Hooray, your music is on its way!”까지 막힘 없이 진행됐다. 이 발매는 우리가 직접 내렸다. AI 콘텐츠를 전면 금지한다는 CD Baby는 AI 여부를 한 번도 묻지 않았고, 열흘 동안 사람이 검토한 끝에 Omo Na You를 승인했다."
+          },
+          {
+            "t": "img",
+            "src": "https://i0.wp.com/culturecustodian.com/wp-content/uploads/2026/11/CD-BABY-SUCCESSFUL-RELEASE-1.jpg?fit=1024%2C490&ssl=1"
           },
           {
             "t": "p",
-            "x": "“그러니 관문은 DistroKid, TuneCore다. 유통사다. 이들이 AI 탐지 기술로 완전히 생성된 것인지 판별하고 있는가… 그렇다면 Apple과 Spotify 플랫폼에서 통하도록 태그를 달 의향이 있는가?”"
+            "x": "무료 유통사 Freecords는 No Do or Die를 거부했다. RouteNote에서는 업로드하고 2주가 넘도록 검토 대기열에 묶여 있었다."
           },
           {
             "t": "p",
-            "x": "“유통사들이 기꺼이 동참해야 한다”고 그는 이어 말했다. “플랫폼만으로는 안 된다. 하위 단계까지 이어지지 않으면 저마다 다른 방향으로 갈 것이기 때문이다.”"
-          },
-          {
-            "t": "p",
-            "x": "“이미 Deezer는 한 방향으로, Apple은 또 다른 방향으로, Spotify는 또 다른 방향으로 가고 있다. 내가 보기에 완전 생성 문제, 즉 DIY 문제는 유통사 문제다. 그리고 유통사들이 책임을 지고 협조하도록 인센티브를 줘야 한다.”"
+            "x": "변호사 Fawehinmi ‘Foza’ Oyinkansola의 경고는 이렇다. “그러나 유통되었다는 사실이 법적 소유권이나 권리 처리를 충분히 증명하지는 않는다. 이는 가치 사슬 전반에 잠재적 책임을 낳는다.”"
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "RIAA says AI music labels\ncan't fall on platforms alone",
-          "body": "RIAA chief Mitch Glazier told The Verge's Decoder that labelling AI music cannot fall only on streaming services.",
-          "mini_headline": "RIAA: AI labels\nnot just platforms",
+          "headline": "A cloned AI voice tests\nmusic distributors",
+          "body": "An outlet told distributors its fake Nigerian artist used a cloned AI voice, then tracked which still released it.",
+          "mini_headline": "Fake AI artist tests distributors",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/09/news-stories-images-4x3-2026-09-24T123959.252.png?fit=2000%2C1500&ssl=1"
+                "src": "https://i0.wp.com/culturecustodian.com/wp-content/uploads/2026/11/WEB-How-We-Distributed-Cloned-AI-Music-From-a-Fake-Nigerian-Artist.jpg?fit=1024%2C1024&ssl=1"
               },
               {
                 "t": "p",
-                "x": "We smiled at the headline for the latest edition of tech site The Verge’s ‘Decoder’ podcast: “Hold up — I had a great time talking to the RIAA guy”. A wry reference to the still-lingering memories of the industry body’s reputation in tech circles in the Peak Napster era."
+                "x": "We built a fake Nigerian artist from scratch — cloned voice, AI-generated song, zero real person behind the name — then told the distribution platforms exactly what we’d done."
               },
               {
                 "t": "p",
-                "x": "The RIAA guy is CEO Mitch Glazier, who addressed some of the current policy issues around AI-generated music, including labelling it on streaming services."
+                "x": "Our in-house producer recorded an original Afrobeats hook, GMYL, credited to an invented persona, CC Custody. We fed the vocal into Kits.ai and ElevenLabs to clone it, then rebuilt the song in Suno and Udio as No Do or Die. A second song, Omo Na You, was performed entirely by the cloned voice and credited to another fake persona, KX3."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/culturecustodian.com/wp-content/uploads/2026/11/KITS-AI-CLONING.jpg?resize=1024%2C482&ssl=1"
               },
               {
                 "t": "p",
-                "x": "“At the end of the day, it has to be the platforms and the distributors that are willing to do it. Because when it comes to generative AI, the record labels are not tagging and putting generative AI up on Spotify. That’s out of the DIY world,” said Glazier."
+                "x": "On DistroKid we answered “Yes” to AI use and acknowledged CC Custody was an AI persona, yet the release sailed through to “Hooray, your music is on its way!” We pulled it ourselves. CD Baby, whose policy bans all AI content, never asked about AI and approved Omo Na You after ten days of human review."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/culturecustodian.com/wp-content/uploads/2026/11/CD-BABY-SUCCESSFUL-RELEASE-1.jpg?fit=1024%2C490&ssl=1"
               },
               {
                 "t": "p",
-                "x": "“So your gateway is DistroKid, TuneCore. It’s the distributors. Are they using AI detection technology to determine that it’s fully generated… And if so, are they willing to tag it so that it works with Apple and Spotify’s platform?”"
+                "x": "The free distributor Freecords denied No Do or Die; RouteNote still had it in a review queue more than 2 weeks after upload."
               },
               {
                 "t": "p",
-                "x": "“The distributors have to be willing to play,” he continued. “It can’t just be the platforms because if it doesn’t go downstream, they’re going to go in different directions.”"
-              },
-              {
-                "t": "p",
-                "x": "“And already, Deezer’s going in one direction, Apple’s going in another direction, Spotify’s going in another direction. To me, the fully generated problem, which is a DIY problem, is a distributor problem. And we have to provide incentives to the distributors to get them to take responsibility and play ball.”"
+                "x": "Lawyer Fawehinmi ‘Foza’ Oyinkansola warned: “Distribution, however, is not sufficient proof of legal ownership or clearance. This creates potential liability across the value chain.”"
               }
             ]
           }
         },
         "ko": {
-          "headline": "RIAA, AI 음악 표시\n플랫폼 몫만은 아니다",
-          "body": "RIAA의 Glazier는 AI 음악 표시를 스트리밍에만 맡길 수는 없다고 봤다.",
-          "mini_headline": "RIAA, AI 표시는 플랫폼만의 몫 아니다",
+          "headline": "복제한 AI 목소리로\n음원 유통사를 시험",
+          "body": "한 매체가 AI 복제 목소리임을 밝힌 가짜 가수를 유통사들이 내주는지 살폈다.",
+          "mini_headline": "가짜 AI 가수로 유통사 시험",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/09/news-stories-images-4x3-2026-09-24T123959.252.png?fit=2000%2C1500&ssl=1"
+                "src": "https://i0.wp.com/culturecustodian.com/wp-content/uploads/2026/11/WEB-How-We-Distributed-Cloned-AI-Music-From-a-Fake-Nigerian-Artist.jpg?fit=1024%2C1024&ssl=1"
               },
               {
                 "t": "p",
-                "x": "테크 매체 The Verge의 팟캐스트 ‘Decoder’ 최신 회차 제목에 웃음이 났다. “잠깐만 — RIAA 사람과 정말 즐겁게 이야기했다”. Napster 전성기(Peak Napster) 시절 이 업계 단체가 테크 업계에서 얻은 평판이 아직 잊히지 않았다는 걸 비튼 제목이다."
+                "x": "우리는 복제한 목소리와 AI-generated 곡으로, 이름 뒤에 실존 인물이 전혀 없는 가짜 나이지리아 아티스트를 처음부터 만들었다. 유통 플랫폼에는 우리가 한 일을 그대로 밝혔다."
               },
               {
                 "t": "p",
-                "x": "그 ‘RIAA 사람’은 CEO Mitch Glazier다. 스트리밍 서비스의 표시 문제를 비롯해 AI 생성(AI-generated) 음악을 둘러싼 요즘 정책 쟁점 몇 가지를 짚었다."
+                "x": "사내 프로듀서가 가상의 페르소나 CC Custody 이름으로 오리지널 Afrobeats 훅 GMYL을 녹음했다. 이 보컬을 Kits.ai와 ElevenLabs로 복제한 다음 Suno와 Udio에서 No Do or Die라는 곡으로 다시 만들었다. 두 번째 곡 Omo Na You는 처음부터 끝까지 복제 목소리로 불렀고, 또 다른 가짜 페르소나 KX3 이름으로 올렸다."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/culturecustodian.com/wp-content/uploads/2026/11/KITS-AI-CLONING.jpg?resize=1024%2C482&ssl=1"
               },
               {
                 "t": "p",
-                "x": "“결국 기꺼이 그 일을 해야 하는 쪽은 플랫폼과 유통사다. 생성형 AI에 관해서라면 음반사들이 생성형 AI 음악에 태그를 달아 Spotify에 올리는 게 아니기 때문이다. 그건 DIY 영역에서 나온다”고 Glazier는 말했다."
+                "x": "DistroKid에서는 AI 사용 여부에 “Yes”라고 답하고 CC Custody가 AI 페르소나라고 밝혔는데도 발매가 “Hooray, your music is on its way!”까지 막힘 없이 진행됐다. 이 발매는 우리가 직접 내렸다. AI 콘텐츠를 전면 금지한다는 CD Baby는 AI 여부를 한 번도 묻지 않았고, 열흘 동안 사람이 검토한 끝에 Omo Na You를 승인했다."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/culturecustodian.com/wp-content/uploads/2026/11/CD-BABY-SUCCESSFUL-RELEASE-1.jpg?fit=1024%2C490&ssl=1"
               },
               {
                 "t": "p",
-                "x": "“그러니 관문은 DistroKid, TuneCore다. 유통사다. 이들이 AI 탐지 기술로 완전히 생성된 것인지 판별하고 있는가… 그렇다면 Apple과 Spotify 플랫폼에서 통하도록 태그를 달 의향이 있는가?”"
+                "x": "무료 유통사 Freecords는 No Do or Die를 거부했다. RouteNote에서는 업로드하고 2주가 넘도록 검토 대기열에 묶여 있었다."
               },
               {
                 "t": "p",
-                "x": "“유통사들이 기꺼이 동참해야 한다”고 그는 이어 말했다. “플랫폼만으로는 안 된다. 하위 단계까지 이어지지 않으면 저마다 다른 방향으로 갈 것이기 때문이다.”"
-              },
-              {
-                "t": "p",
-                "x": "“이미 Deezer는 한 방향으로, Apple은 또 다른 방향으로, Spotify는 또 다른 방향으로 가고 있다. 내가 보기에 완전 생성 문제, 즉 DIY 문제는 유통사 문제다. 그리고 유통사들이 책임을 지고 협조하도록 인센티브를 줘야 한다.”"
+                "x": "변호사 Fawehinmi ‘Foza’ Oyinkansola의 경고는 이렇다. “그러나 유통되었다는 사실이 법적 소유권이나 권리 처리를 충분히 증명하지는 않는다. 이는 가치 사슬 전반에 잠재적 책임을 낳는다.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "RIAA、AI音楽の表示は\n配信側だけでは無理と指摘",
-          "body": "RIAAのMitch Glazierは、AI音楽の表示を配信だけに任せられないと語った。",
-          "mini_headline": "RIAA:AI表示は配信側だけでない",
+          "headline": "クローンAI音声で\n音楽配信業者を試す",
+          "body": "ある媒体が偽のナイジェリア人歌手のAIクローン音声を申告し、どの配信業者が通すかを調べた。",
+          "mini_headline": "偽AIアーティストで配信業者を検証",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/09/news-stories-images-4x3-2026-09-24T123959.252.png?fit=2000%2C1500&ssl=1"
+                "src": "https://i0.wp.com/culturecustodian.com/wp-content/uploads/2026/11/WEB-How-We-Distributed-Cloned-AI-Music-From-a-Fake-Nigerian-Artist.jpg?fit=1024%2C1024&ssl=1"
               },
               {
                 "t": "p",
-                "x": "テックサイトThe Vergeのポッドキャスト「Decoder」最新回のタイトルに思わず笑ってしまった。「ちょっと待って — RIAAの人と話すのはすごく楽しかった」。Napster全盛期(Peak Napster)にこの業界団体がテック界隈で得た評判が、いまだに記憶に残っていることへの皮肉な言及だ。"
+                "x": "私たちは、クローン音声、AI-generatedの楽曲、名前の裏に実在の人物はゼロという偽のナイジェリア人アーティストを一から作り上げ、そのうえで配信プラットフォームに自分たちが何をしたかを正確に伝えた。"
               },
               {
                 "t": "p",
-                "x": "その「RIAAの人」とはCEOのMitch Glazierで、ストリーミングサービスでの表示を含め、AI生成(AI-generated)音楽をめぐる現在の政策課題のいくつかについて語った。"
+                "x": "社内プロデューサーが、架空のペルソナCC Custody名義でオリジナルのAfrobeatsのフック「GMYL」を録音した。そのボーカルをKits.aiとElevenLabsに読み込ませてクローンし、SunoとUdioで曲を「No Do or Die」として作り直した。二曲目の「Omo Na You」は全編をクローン音声が歌い、別の偽ペルソナKX3名義とした。"
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/culturecustodian.com/wp-content/uploads/2026/11/KITS-AI-CLONING.jpg?resize=1024%2C482&ssl=1"
               },
               {
                 "t": "p",
-                "x": "「結局のところ、それを進んでやるのはプラットフォームとディストリビューターでなければならない。生成AIに関して言えば、レコード会社が生成AIの曲にタグを付けてSpotifyに上げているわけではないからだ。それはDIYの世界から来ている」とGlazierは述べた。"
+                "x": "DistroKidではAI使用の有無に「Yes」と答え、CC CustodyがAIペルソナであることも認めたが、リリースはすんなり「Hooray, your music is on its way!」まで進んだ。これは私たち自身で取り下げた。あらゆるAIコンテンツを禁止する方針のCD Babyは、AIについて一度も尋ねず、十日間の人による審査を経て「Omo Na You」を承認した。"
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/culturecustodian.com/wp-content/uploads/2026/11/CD-BABY-SUCCESSFUL-RELEASE-1.jpg?fit=1024%2C490&ssl=1"
               },
               {
                 "t": "p",
-                "x": "「だから入口はDistroKid、TuneCoreだ。ディストリビューターだ。彼らはAI検出技術を使って、完全に生成されたものかどうかを判定しているのか…そしてもしそうなら、AppleとSpotifyのプラットフォームで機能するようにタグを付ける意思があるのか?」"
+                "x": "無料ディストリビューターのFreecordsは「No Do or Die」を却下し、RouteNoteではアップロードから2週間以上たっても審査待ちのままだった。"
               },
               {
                 "t": "p",
-                "x": "「ディストリビューターが進んで参加しなければならない」と彼は続けた。「プラットフォームだけでは無理だ。下流まで行き渡らなければ、各社がばらばらの方向に進んでしまうからだ」"
-              },
-              {
-                "t": "p",
-                "x": "「すでにDeezerはある方向に、Appleは別の方向に、Spotifyはまた別の方向に進んでいる。私に言わせれば、完全生成の問題、つまりDIYの問題はディストリビューターの問題だ。そして私たちは、ディストリビューターが責任を持って協力するようインセンティブを与えなければならない」"
+                "x": "弁護士のFawehinmi ‘Foza’ Oyinkansolaは「ただし、配信されたことは法的な所有権や権利処理の十分な証明にはならない。これはバリューチェーン全体に潜在的な責任を生む」と警告した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "RIAA：AI音乐标注\n不能只靠平台",
-          "body": "RIAA的Mitch Glazier在Decoder表示，AI音乐标注不能只靠流媒体。",
-          "mini_headline": "RIAA：AI 标注不能只靠平台",
+          "headline": "用克隆AI人声\n试探音乐发行商",
+          "body": "一家媒体告知发行商其虚构的尼日利亚歌手使用克隆AI人声，再追踪哪些仍予发行。",
+          "mini_headline": "虚构AI艺人试探发行商",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/09/news-stories-images-4x3-2026-09-24T123959.252.png?fit=2000%2C1500&ssl=1"
+                "src": "https://i0.wp.com/culturecustodian.com/wp-content/uploads/2026/11/WEB-How-We-Distributed-Cloned-AI-Music-From-a-Fake-Nigerian-Artist.jpg?fit=1024%2C1024&ssl=1"
               },
               {
                 "t": "p",
-                "x": "看到科技网站 The Verge 播客‘Decoder’最新一期的标题，我们不禁一笑：“等等——我和 RIAA 那位聊得很开心”。这是在打趣：在 Napster 鼎盛时期（Peak Napster），这个行业组织在科技圈留下的名声至今仍让人记忆犹新。"
+                "x": "我们从零打造了一位虚构的尼日利亚艺人——克隆的声音、AI-generated歌曲，名字背后没有任何真人——然后把我们的所作所为如实告诉了各发行平台。"
               },
               {
                 "t": "p",
-                "x": "这位“RIAA 那位”就是 CEO Mitch Glazier，他谈到了 AI 生成（AI-generated）音乐当前面临的一些政策问题，包括在流媒体服务上对其进行标注。"
+                "x": "我们的内部制作人录制了一段原创Afrobeats副歌GMYL，署名为虚构身份CC Custody。我们把这段人声输入Kits.ai和ElevenLabs进行克隆，再用Suno和Udio将歌曲重制为No Do or Die。第二首歌Omo Na You完全由克隆声音演唱，署名为另一个虚构身份KX3。"
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/culturecustodian.com/wp-content/uploads/2026/11/KITS-AI-CLONING.jpg?resize=1024%2C482&ssl=1"
               },
               {
                 "t": "p",
-                "x": "“归根结底，必须是平台和发行商愿意去做。因为说到生成式 AI，并不是唱片公司在给生成式 AI 作品打标签、把它们放上 Spotify。那是来自 DIY 圈子的，”Glazier 说。"
+                "x": "在DistroKid上，我们对是否使用AI回答了“Yes”，并承认CC Custody是AI身份，但发行仍一路顺利走到“Hooray, your music is on its way!”。我们自己撤下了它。CD Baby的政策禁止一切AI内容，却从未询问AI相关问题，并在经过十天人工审核后批准了Omo Na You。"
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/culturecustodian.com/wp-content/uploads/2026/11/CD-BABY-SUCCESSFUL-RELEASE-1.jpg?fit=1024%2C490&ssl=1"
               },
               {
                 "t": "p",
-                "x": "“所以入口是 DistroKid、TuneCore，是发行商。他们是否在用 AI 检测技术来判断作品是否完全由 AI 生成……如果是，他们是否愿意打上标签，让它能与 Apple 和 Spotify 的平台对接？”"
+                "x": "免费发行商Freecords拒绝了No Do or Die；RouteNote在上传2周多之后仍将其留在审核队列中。"
               },
               {
                 "t": "p",
-                "x": "“发行商必须愿意参与，”他接着说，“不能只靠平台，因为如果不往下游传递，大家就会各走各的方向。”"
-              },
-              {
-                "t": "p",
-                "x": "“现在已经是 Deezer 走一个方向，Apple 走另一个方向，Spotify 又走另一个方向。在我看来，完全生成的问题，也就是 DIY 问题，是发行商的问题。我们必须给发行商提供激励，让他们承担责任、积极配合。”"
+                "x": "律师Fawehinmi ‘Foza’ Oyinkansola警告称：“然而，发行并不足以证明合法所有权或权利清算。这会在整个价值链上带来潜在责任。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "RIAA: etiquetar música AI no\nes tarea solo de plataformas",
-          "body": "Mitch Glazier, jefe de la RIAA, dijo en Decoder de The Verge que etiquetar música AI no es solo cosa del streaming.",
-          "mini_headline": "RIAA: el etiquetado AI no es solo de plataformas",
+          "headline": "Una voz clonada con AI\npone a prueba a distribuidoras",
+          "body": "Un medio avisó a las distribuidoras de que su falso artista usaba una voz clonada con AI y vio quién lo publicaba.",
+          "mini_headline": "Un falso artista de AI pone a prueba a las distribuidoras",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/09/news-stories-images-4x3-2026-09-24T123959.252.png?fit=2000%2C1500&ssl=1"
+                "src": "https://i0.wp.com/culturecustodian.com/wp-content/uploads/2026/11/WEB-How-We-Distributed-Cloned-AI-Music-From-a-Fake-Nigerian-Artist.jpg?fit=1024%2C1024&ssl=1"
               },
               {
                 "t": "p",
-                "x": "Sonreímos al ver el titular del último episodio del podcast ‘Decoder’ del sitio tecnológico The Verge: “Un momento: me lo pasé muy bien hablando con el tipo de la RIAA”. Una referencia irónica al recuerdo, aún persistente, de la reputación que esta organización del sector tenía en los círculos tecnológicos en pleno auge de Napster (Peak Napster)."
+                "x": "Creamos desde cero un falso artista nigeriano —voz clonada, canción AI-generated, cero personas reales detrás del nombre— y luego contamos a las plataformas de distribución exactamente lo que habíamos hecho."
               },
               {
                 "t": "p",
-                "x": "El tipo de la RIAA es su CEO, Mitch Glazier, que abordó algunas de las cuestiones de política actuales en torno a la música generada por AI (AI-generated), incluido su etiquetado en los servicios de streaming."
+                "x": "Nuestro productor interno grabó un hook original de Afrobeats, GMYL, atribuido a un personaje inventado, CC Custody. Pasamos la voz por Kits.ai y ElevenLabs para clonarla y luego rehicimos la canción en Suno y Udio como No Do or Die. Una segunda canción, Omo Na You, fue interpretada íntegramente por la voz clonada y atribuida a otro personaje falso, KX3."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/culturecustodian.com/wp-content/uploads/2026/11/KITS-AI-CLONING.jpg?resize=1024%2C482&ssl=1"
               },
               {
                 "t": "p",
-                "x": "“Al final, tienen que ser las plataformas y las distribuidoras las que estén dispuestas a hacerlo. Porque, en lo que respecta a la AI generativa, no son los sellos discográficos los que etiquetan y suben AI generativa a Spotify. Eso viene del mundo DIY”, dijo Glazier."
+                "x": "En DistroKid respondimos “Yes” sobre el uso de AI y reconocimos que CC Custody era un personaje de AI; aun así, el lanzamiento pasó sin problemas hasta el “Hooray, your music is on its way!”. Lo retiramos nosotros mismos. CD Baby, cuya política prohíbe todo contenido de AI, nunca preguntó por la AI y aprobó Omo Na You tras diez días de revisión humana."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/culturecustodian.com/wp-content/uploads/2026/11/CD-BABY-SUCCESSFUL-RELEASE-1.jpg?fit=1024%2C490&ssl=1"
               },
               {
                 "t": "p",
-                "x": "“Así que la puerta de entrada es DistroKid, TuneCore. Son las distribuidoras. ¿Están usando tecnología de detección de AI para determinar que algo está totalmente generado…? Y, si es así, ¿están dispuestas a etiquetarlo para que funcione con la plataforma de Apple y Spotify?”"
+                "x": "La distribuidora gratuita Freecords rechazó No Do or Die; RouteNote aún la tenía en cola de revisión más de 2 semanas después de subirla."
               },
               {
                 "t": "p",
-                "x": "“Las distribuidoras tienen que estar dispuestas a participar”, continuó. “No pueden ser solo las plataformas, porque si no llega aguas abajo, cada una irá en una dirección distinta.”"
-              },
-              {
-                "t": "p",
-                "x": "“Y ya Deezer va en una dirección, Apple va en otra y Spotify va en otra. Para mí, el problema de lo totalmente generado, que es un problema DIY, es un problema de las distribuidoras. Y tenemos que dar incentivos a las distribuidoras para que asuman su responsabilidad y colaboren.”"
+                "x": "Fawehinmi ‘Foza’ Oyinkansola, jurista, advirtió: “Sin embargo, la distribución no es prueba suficiente de titularidad legal ni de autorización de derechos. Esto genera una posible responsabilidad a lo largo de toda la cadena de valor.”"
               }
             ]
           }
@@ -1809,153 +1381,491 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "RIAA, AI 음악 표시\n플랫폼 몫만은 아니다",
-          "body": "RIAA의 Glazier는 AI 음악 표시를 스트리밍에만 맡길 수 없다고 했다.",
-          "mini_headline": "RIAA, AI 표시는 플랫폼만의 몫 아니다",
+          "headline": "복제한 AI 목소리로\n음원 유통사를 시험",
+          "body": "한 매체가 AI 복제 목소리임을 밝힌 가짜 가수를 유통사들이 내주는지 살폈다.",
+          "mini_headline": "가짜 AI 가수로 유통사 시험",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/09/news-stories-images-4x3-2026-09-24T123959.252.png?fit=2000%2C1500&ssl=1"
+                "src": "https://i0.wp.com/culturecustodian.com/wp-content/uploads/2026/11/WEB-How-We-Distributed-Cloned-AI-Music-From-a-Fake-Nigerian-Artist.jpg?fit=1024%2C1024&ssl=1"
               },
               {
                 "t": "p",
-                "x": "테크 매체 The Verge의 팟캐스트 ‘Decoder’ 최신 회차 제목을 보고 웃음이 났다. “잠깐만 — RIAA 사람과 정말 즐겁게 이야기했다”. Napster 전성기(Peak Napster) 시절 테크 업계에서 이 업계 단체가 얻은 평판이 아직 기억에 남아 있다는 점을 비튼 표현이다."
+                "x": "우리는 복제한 목소리, AI-generated 곡, 이름 뒤에 실존 인물은 전혀 없는 가짜 나이지리아 아티스트를 처음부터 만들었다. 그리고 유통 플랫폼에 우리가 한 일을 그대로 알렸다."
               },
               {
                 "t": "p",
-                "x": "그 ‘RIAA 사람’은 CEO Mitch Glazier다. 그는 스트리밍 서비스에서의 표시 문제를 포함해 AI 생성(AI-generated) 음악을 둘러싼 현재의 정책 쟁점 몇 가지를 다뤘다."
+                "x": "사내 프로듀서가 가상의 페르소나 CC Custody 명의로 오리지널 Afrobeats 훅 GMYL을 녹음했다. 우리는 이 보컬을 Kits.ai와 ElevenLabs에 넣어 복제한 뒤, Suno와 Udio에서 곡을 No Do or Die로 다시 만들었다. 두 번째 곡 Omo Na You는 전부 복제 목소리로 불렀고, 또 다른 가짜 페르소나 KX3 명의로 올렸다."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/culturecustodian.com/wp-content/uploads/2026/11/KITS-AI-CLONING.jpg?resize=1024%2C482&ssl=1"
               },
               {
                 "t": "p",
-                "x": "“결국 기꺼이 그 일을 해야 하는 쪽은 플랫폼과 유통사다. 생성형 AI에 관해서라면 음반사들이 생성형 AI 음악에 태그를 달아 Spotify에 올리는 게 아니기 때문이다. 그건 DIY 영역에서 나온다”고 Glazier는 말했다."
+                "x": "DistroKid에서는 AI 사용 여부에 “Yes”라고 답하고 CC Custody가 AI 페르소나라고 밝혔지만, 발매는 “Hooray, your music is on its way!”까지 순조롭게 통과했다. 이 발매는 우리가 직접 내렸다. 모든 AI 콘텐츠를 금지하는 정책을 둔 CD Baby는 AI에 대해 한 번도 묻지 않았고, 열흘간의 사람 검토 끝에 Omo Na You를 승인했다."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/culturecustodian.com/wp-content/uploads/2026/11/CD-BABY-SUCCESSFUL-RELEASE-1.jpg?fit=1024%2C490&ssl=1"
               },
               {
                 "t": "p",
-                "x": "“그러니 관문은 DistroKid, TuneCore다. 유통사다. 이들이 AI 탐지 기술로 완전히 생성된 것인지 판별하고 있는가… 그렇다면 Apple과 Spotify 플랫폼에서 통하도록 태그를 달 의향이 있는가?”"
+                "x": "무료 유통사 Freecords는 No Do or Die를 거부했고, RouteNote에서는 업로드 후 2주가 넘도록 검토 대기열에 머물러 있었다."
               },
               {
                 "t": "p",
-                "x": "“유통사들이 기꺼이 동참해야 한다”고 그는 이어 말했다. “플랫폼만으로는 안 된다. 하위 단계까지 이어지지 않으면 저마다 다른 방향으로 갈 것이기 때문이다.”"
-              },
-              {
-                "t": "p",
-                "x": "“이미 Deezer는 한 방향으로, Apple은 또 다른 방향으로, Spotify는 또 다른 방향으로 가고 있다. 내가 보기에 완전 생성 문제, 즉 DIY 문제는 유통사 문제다. 그리고 유통사들이 책임을 지고 협조하도록 인센티브를 줘야 한다.”"
+                "x": "변호사 Fawehinmi ‘Foza’ Oyinkansola는 이렇게 경고했다. “그러나 유통되었다는 사실이 법적 소유권이나 권리 처리를 충분히 증명하지는 않는다. 이는 가치 사슬 전반에 잠재적 책임을 낳는다.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "RIAA、AI音楽の表示は\n配信側だけでは無理と指摘",
-          "body": "RIAAのMitch Glazierは、AI音楽の表示を配信だけに任せられないと語った。",
-          "mini_headline": "RIAA:AI表示は配信側だけでない",
+          "headline": "クローンAI音声で\n音楽配信業者を試す",
+          "body": "ある媒体が偽のナイジェリア人歌手のAIクローン音声を申告し、どの配信業者が通すかを調べた。",
+          "mini_headline": "偽AIアーティストで配信業者を検証",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/09/news-stories-images-4x3-2026-09-24T123959.252.png?fit=2000%2C1500&ssl=1"
+                "src": "https://i0.wp.com/culturecustodian.com/wp-content/uploads/2026/11/WEB-How-We-Distributed-Cloned-AI-Music-From-a-Fake-Nigerian-Artist.jpg?fit=1024%2C1024&ssl=1"
               },
               {
                 "t": "p",
-                "x": "テックサイトThe Vergeのポッドキャスト「Decoder」最新回のタイトルに思わず笑ってしまった。「ちょっと待って — RIAAの人と話すのはすごく楽しかった」。Napster全盛期(Peak Napster)にこの業界団体がテック界隈で得た評判が、いまだに記憶に残っていることへの皮肉な言及だ。"
+                "x": "私たちは、クローン音声、AI-generatedの楽曲、名前の裏に実在の人物はゼロという偽のナイジェリア人アーティストを一から作り上げ、そのうえで配信プラットフォームに自分たちが何をしたかを正確に伝えた。"
               },
               {
                 "t": "p",
-                "x": "その「RIAAの人」とはCEOのMitch Glazierで、ストリーミングサービスでの表示を含め、AI生成(AI-generated)音楽をめぐる現在の政策課題のいくつかについて語った。"
+                "x": "社内プロデューサーが、架空のペルソナCC Custody名義でオリジナルのAfrobeatsのフック「GMYL」を録音した。そのボーカルをKits.aiとElevenLabsに読み込ませてクローンし、SunoとUdioで曲を「No Do or Die」として作り直した。二曲目の「Omo Na You」は全編をクローン音声が歌い、別の偽ペルソナKX3名義とした。"
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/culturecustodian.com/wp-content/uploads/2026/11/KITS-AI-CLONING.jpg?resize=1024%2C482&ssl=1"
               },
               {
                 "t": "p",
-                "x": "「結局のところ、それを進んでやるのはプラットフォームとディストリビューターでなければならない。生成AIに関して言えば、レコード会社が生成AIの曲にタグを付けてSpotifyに上げているわけではないからだ。それはDIYの世界から来ている」とGlazierは述べた。"
+                "x": "DistroKidではAI使用の有無に「Yes」と答え、CC CustodyがAIペルソナであることも認めたが、リリースはすんなり「Hooray, your music is on its way!」まで進んだ。これは私たち自身で取り下げた。あらゆるAIコンテンツを禁止する方針のCD Babyは、AIについて一度も尋ねず、十日間の人による審査を経て「Omo Na You」を承認した。"
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/culturecustodian.com/wp-content/uploads/2026/11/CD-BABY-SUCCESSFUL-RELEASE-1.jpg?fit=1024%2C490&ssl=1"
               },
               {
                 "t": "p",
-                "x": "「だから入口はDistroKid、TuneCoreだ。ディストリビューターだ。彼らはAI検出技術を使って、完全に生成されたものかどうかを判定しているのか…そしてもしそうなら、AppleとSpotifyのプラットフォームで機能するようにタグを付ける意思があるのか?」"
+                "x": "無料ディストリビューターのFreecordsは「No Do or Die」を却下し、RouteNoteではアップロードから2週間以上たっても審査待ちのままだった。"
               },
               {
                 "t": "p",
-                "x": "「ディストリビューターが進んで参加しなければならない」と彼は続けた。「プラットフォームだけでは無理だ。下流まで行き渡らなければ、各社がばらばらの方向に進んでしまうからだ」"
-              },
-              {
-                "t": "p",
-                "x": "「すでにDeezerはある方向に、Appleは別の方向に、Spotifyはまた別の方向に進んでいる。私に言わせれば、完全生成の問題、つまりDIYの問題はディストリビューターの問題だ。そして私たちは、ディストリビューターが責任を持って協力するようインセンティブを与えなければならない」"
+                "x": "弁護士のFawehinmi ‘Foza’ Oyinkansolaは「ただし、配信されたことは法的な所有権や権利処理の十分な証明にはならない。これはバリューチェーン全体に潜在的な責任を生む」と警告した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "RIAA：AI音乐标注\n不能只靠平台",
-          "body": "RIAA的Mitch Glazier在Decoder表示，AI音乐标注不能只靠流媒体。",
-          "mini_headline": "RIAA：AI 标注不能只靠平台",
+          "headline": "用克隆AI人声\n试探音乐发行商",
+          "body": "一家媒体告知发行商其虚构的尼日利亚歌手使用克隆AI人声，再追踪哪些仍予发行。",
+          "mini_headline": "虚构AI艺人试探发行商",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/09/news-stories-images-4x3-2026-09-24T123959.252.png?fit=2000%2C1500&ssl=1"
+                "src": "https://i0.wp.com/culturecustodian.com/wp-content/uploads/2026/11/WEB-How-We-Distributed-Cloned-AI-Music-From-a-Fake-Nigerian-Artist.jpg?fit=1024%2C1024&ssl=1"
               },
               {
                 "t": "p",
-                "x": "看到科技网站 The Verge 播客‘Decoder’最新一期的标题，我们不禁一笑：“等等——我和 RIAA 那位聊得很开心”。这是在打趣：在 Napster 鼎盛时期（Peak Napster），这个行业组织在科技圈留下的名声至今仍让人记忆犹新。"
+                "x": "我们从零打造了一位虚构的尼日利亚艺人——克隆的声音、AI-generated歌曲，名字背后没有任何真人——然后把我们的所作所为如实告诉了各发行平台。"
               },
               {
                 "t": "p",
-                "x": "这位“RIAA 那位”就是 CEO Mitch Glazier，他谈到了 AI 生成（AI-generated）音乐当前面临的一些政策问题，包括在流媒体服务上对其进行标注。"
+                "x": "我们的内部制作人录制了一段原创Afrobeats副歌GMYL，署名为虚构身份CC Custody。我们把这段人声输入Kits.ai和ElevenLabs进行克隆，再用Suno和Udio将歌曲重制为No Do or Die。第二首歌Omo Na You完全由克隆声音演唱，署名为另一个虚构身份KX3。"
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/culturecustodian.com/wp-content/uploads/2026/11/KITS-AI-CLONING.jpg?resize=1024%2C482&ssl=1"
               },
               {
                 "t": "p",
-                "x": "“归根结底，必须是平台和发行商愿意去做。因为说到生成式 AI，并不是唱片公司在给生成式 AI 作品打标签、把它们放上 Spotify。那是来自 DIY 圈子的，”Glazier 说。"
+                "x": "在DistroKid上，我们对是否使用AI回答了“Yes”，并承认CC Custody是AI身份，但发行仍一路顺利走到“Hooray, your music is on its way!”。我们自己撤下了它。CD Baby的政策禁止一切AI内容，却从未询问AI相关问题，并在经过十天人工审核后批准了Omo Na You。"
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/culturecustodian.com/wp-content/uploads/2026/11/CD-BABY-SUCCESSFUL-RELEASE-1.jpg?fit=1024%2C490&ssl=1"
               },
               {
                 "t": "p",
-                "x": "“所以入口是 DistroKid、TuneCore，是发行商。他们是否在用 AI 检测技术来判断作品是否完全由 AI 生成……如果是，他们是否愿意打上标签，让它能与 Apple 和 Spotify 的平台对接？”"
+                "x": "免费发行商Freecords拒绝了No Do or Die；RouteNote在上传2周多之后仍将其留在审核队列中。"
               },
               {
                 "t": "p",
-                "x": "“发行商必须愿意参与，”他接着说，“不能只靠平台，因为如果不往下游传递，大家就会各走各的方向。”"
-              },
-              {
-                "t": "p",
-                "x": "“现在已经是 Deezer 走一个方向，Apple 走另一个方向，Spotify 又走另一个方向。在我看来，完全生成的问题，也就是 DIY 问题，是发行商的问题。我们必须给发行商提供激励，让他们承担责任、积极配合。”"
+                "x": "律师Fawehinmi ‘Foza’ Oyinkansola警告称：“然而，发行并不足以证明合法所有权或权利清算。这会在整个价值链上带来潜在责任。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "RIAA: etiquetar música AI no\nes tarea solo de plataformas",
-          "body": "Mitch Glazier, jefe de la RIAA, dijo en Decoder de The Verge que etiquetar música AI no es solo cosa del streaming.",
-          "mini_headline": "RIAA: el etiquetado AI no es solo de plataformas",
+          "headline": "Una voz clonada con AI\npone a prueba a distribuidoras",
+          "body": "Un medio avisó a las distribuidoras de que su falso artista usaba una voz clonada con AI y vio quién lo publicaba.",
+          "mini_headline": "Un falso artista de AI pone a prueba a las distribuidoras",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/09/news-stories-images-4x3-2026-09-24T123959.252.png?fit=2000%2C1500&ssl=1"
+                "src": "https://i0.wp.com/culturecustodian.com/wp-content/uploads/2026/11/WEB-How-We-Distributed-Cloned-AI-Music-From-a-Fake-Nigerian-Artist.jpg?fit=1024%2C1024&ssl=1"
               },
               {
                 "t": "p",
-                "x": "Sonreímos al ver el titular del último episodio del podcast ‘Decoder’ del sitio tecnológico The Verge: “Un momento: me lo pasé muy bien hablando con el tipo de la RIAA”. Una referencia irónica al recuerdo, aún persistente, de la reputación que esta organización del sector tenía en los círculos tecnológicos en pleno auge de Napster (Peak Napster)."
+                "x": "Creamos desde cero un falso artista nigeriano —voz clonada, canción AI-generated, cero personas reales detrás del nombre— y luego contamos a las plataformas de distribución exactamente lo que habíamos hecho."
               },
               {
                 "t": "p",
-                "x": "El tipo de la RIAA es su CEO, Mitch Glazier, que abordó algunas de las cuestiones de política actuales en torno a la música generada por AI (AI-generated), incluido su etiquetado en los servicios de streaming."
+                "x": "Nuestro productor interno grabó un hook original de Afrobeats, GMYL, atribuido a un personaje inventado, CC Custody. Pasamos la voz por Kits.ai y ElevenLabs para clonarla y luego rehicimos la canción en Suno y Udio como No Do or Die. Una segunda canción, Omo Na You, fue interpretada íntegramente por la voz clonada y atribuida a otro personaje falso, KX3."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/culturecustodian.com/wp-content/uploads/2026/11/KITS-AI-CLONING.jpg?resize=1024%2C482&ssl=1"
               },
               {
                 "t": "p",
-                "x": "“Al final, tienen que ser las plataformas y las distribuidoras las que estén dispuestas a hacerlo. Porque, en lo que respecta a la AI generativa, no son los sellos discográficos los que etiquetan y suben AI generativa a Spotify. Eso viene del mundo DIY”, dijo Glazier."
+                "x": "En DistroKid respondimos “Yes” sobre el uso de AI y reconocimos que CC Custody era un personaje de AI; aun así, el lanzamiento pasó sin problemas hasta el “Hooray, your music is on its way!”. Lo retiramos nosotros mismos. CD Baby, cuya política prohíbe todo contenido de AI, nunca preguntó por la AI y aprobó Omo Na You tras diez días de revisión humana."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/culturecustodian.com/wp-content/uploads/2026/11/CD-BABY-SUCCESSFUL-RELEASE-1.jpg?fit=1024%2C490&ssl=1"
               },
               {
                 "t": "p",
-                "x": "“Así que la puerta de entrada es DistroKid, TuneCore. Son las distribuidoras. ¿Están usando tecnología de detección de AI para determinar que algo está totalmente generado…? Y, si es así, ¿están dispuestas a etiquetarlo para que funcione con la plataforma de Apple y Spotify?”"
+                "x": "La distribuidora gratuita Freecords rechazó No Do or Die; RouteNote aún la tenía en cola de revisión más de 2 semanas después de subirla."
               },
               {
                 "t": "p",
-                "x": "“Las distribuidoras tienen que estar dispuestas a participar”, continuó. “No pueden ser solo las plataformas, porque si no llega aguas abajo, cada una irá en una dirección distinta.”"
+                "x": "Fawehinmi ‘Foza’ Oyinkansola, jurista, advirtió: “Sin embargo, la distribución no es prueba suficiente de titularidad legal ni de autorización de derechos. Esto genera una posible responsabilidad a lo largo de toda la cadena de valor.”"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "nvidia-suno-subpoena-quash",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Nvidia, 소환장 취소\nUMG v. Suno 소송",
+      "body": "Nvidia는 문서 6,300건 이상을 냈다며 Suno 소송 소환장 취소를 구했다.",
+      "mini_headline": "Nvidia, Suno 소송 소환장에 맞서",
+      "tool": "Music",
+      "source": "Digital Music News",
+      "url": "https://www.digitalmusicnews.com/2026/11/11/nvidia-suno-umg-subpoena-quash-motion/",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/Nvidia-Office-1024x546.jpg",
+            "cap": "Photo Credit: Amir Shtanger"
+          },
+          {
+            "t": "p",
+            "x": "Nvidia의 벤처 투자 부문 NVentures가 UMG v. Suno 소송에서 Universal Music과 Sony Music이 낸 증언 소환장을 취소해 달라며 날 선 신청서를 냈다."
+          },
+          {
+            "t": "p",
+            "x": "이 소환장은 팔월에 처음 알려진 뒤 수정됐다. 대상은 Nvidia와 Suno의 “투자 전 사업 관계”와 경영진, 투자 과정에서 Suno가 넘긴 문서, 학습 데이터 실사와 침해 소송 위험, Suno가 음원 시장에 줄 수 있는 영향이다."
+          },
+          {
+            "t": "p",
+            "x": "취소 신청서를 보면 “수개월에 걸친 협상과 수집, 검토 끝에 NVentures는 28,194쪽 분량의 문서 6,324건을 제출했다.” Nvidia는 “이미 상당한 자료를 제출한 투자자에게 증언을 요구하는 것은 특히 부적절하다”고 밝혔다."
+          },
+          {
+            "t": "p",
+            "x": "Suno는 Elvis Presley Enterprises와 Eminem의 음악 출판사 Eight Mile Style이 낸 소송에도 맞서고 있다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Nvidia moves to quash\nsubpoena in UMG v. Suno",
+          "body": "Nvidia seeks to quash a deposition subpoena in UMG's Suno suit, saying it has produced over 6,300 documents.",
+          "mini_headline": "Nvidia fights Suno-case subpoena",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/Nvidia-Office-1024x546.jpg",
+                "cap": "Photo Credit: Amir Shtanger"
               },
               {
                 "t": "p",
-                "x": "“Y ya Deezer va en una dirección, Apple va en otra y Spotify va en otra. Para mí, el problema de lo totalmente generado, que es un problema DIY, es un problema de las distribuidoras. Y tenemos que dar incentivos a las distribuidoras para que asuman su responsabilidad y colaboren.”"
+                "x": "Nvidia’s NVentures venture arm took aim at a deposition subpoena from Universal Music and Sony Music in UMG v. Suno in a firmly worded motion to quash."
+              },
+              {
+                "t": "p",
+                "x": "The subpoena, which surfaced in August and was subsequently amended, pertains to Nvidia’s “pre-investment business relationship with Suno” and its execs; docs provided by Suno concerning the investment; training-data due diligence and infringement-litigation risks; and Suno’s potential impact on the market for sound recordings."
+              },
+              {
+                "t": "p",
+                "x": "“After months of negotiations, collection, and review, NVentures produced 6,324 documents comprising 28,194 pages,” per the motion to quash. “The deposition of such an investor is particularly inappropriate where the investor has already made a substantial production,” according to Nvidia."
+              },
+              {
+                "t": "p",
+                "x": "Suno is also grappling with lawsuits filed by Elvis Presley Enterprises and Eminem publisher Eight Mile Style."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Nvidia, 소환장 취소\nUMG v. Suno 소송",
+          "body": "Nvidia는 문서 6,300건 이상을 냈다며 Suno 소송 소환장 취소를 구했다.",
+          "mini_headline": "Nvidia, Suno 소송 소환장에 맞서",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/Nvidia-Office-1024x546.jpg",
+                "cap": "Photo Credit: Amir Shtanger"
+              },
+              {
+                "t": "p",
+                "x": "Nvidia의 벤처 투자 부문 NVentures가 UMG v. Suno 소송에서 Universal Music과 Sony Music이 낸 증언 소환장을 취소해 달라며 날 선 신청서를 냈다."
+              },
+              {
+                "t": "p",
+                "x": "이 소환장은 팔월에 처음 알려진 뒤 수정됐다. 대상은 Nvidia와 Suno의 “투자 전 사업 관계”와 경영진, 투자 과정에서 Suno가 넘긴 문서, 학습 데이터 실사와 침해 소송 위험, Suno가 음원 시장에 줄 수 있는 영향이다."
+              },
+              {
+                "t": "p",
+                "x": "취소 신청서를 보면 “수개월에 걸친 협상과 수집, 검토 끝에 NVentures는 28,194쪽 분량의 문서 6,324건을 제출했다.” Nvidia는 “이미 상당한 자료를 제출한 투자자에게 증언을 요구하는 것은 특히 부적절하다”고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "Suno는 Elvis Presley Enterprises와 Eminem의 음악 출판사 Eight Mile Style이 낸 소송에도 맞서고 있다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "UMG v. Suno訴訟\nNvidiaが召喚状に異議",
+          "body": "Nvidiaは6,300件超の文書提出を理由に、Suno訴訟の証言召喚の取消を求めた。",
+          "mini_headline": "Nvidia、Suno訴訟の召喚状に対抗",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/Nvidia-Office-1024x546.jpg",
+                "cap": "Photo Credit: Amir Shtanger"
+              },
+              {
+                "t": "p",
+                "x": "Nvidiaのベンチャー投資部門NVenturesは、UMG v. Suno訴訟でUniversal MusicとSony Musicが出した証言録取の召喚状に対し、強い文言の取消申立てを行った。"
+              },
+              {
+                "t": "p",
+                "x": "八月に表面化し、その後修正されたこの召喚状は、Nvidiaの「Sunoとの投資前の取引関係」とその幹部、投資に関してSunoが提供した文書、学習データのデューデリジェンスと権利侵害訴訟のリスク、そしてSunoが録音物市場に与えうる影響を対象としている。"
+              },
+              {
+                "t": "p",
+                "x": "取消申立てによれば、「数か月にわたる交渉、収集、審査を経て、NVenturesは28,194ページに及ぶ6,324件の文書を提出した」。Nvidiaは「すでに相当量の提出を行った投資家に証言録取を求めることは、とりわけ不適切だ」としている。"
+              },
+              {
+                "t": "p",
+                "x": "SunoはElvis Presley Enterprisesや、Eminemの音楽出版社Eight Mile Styleが起こした訴訟にも直面している。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Nvidia申请撤销\nUMG v. Suno案传票",
+          "body": "Nvidia称已提交逾6,300份文件，请求撤销UMG诉Suno案中的作证传票。",
+          "mini_headline": "Nvidia对抗Suno案传票",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/Nvidia-Office-1024x546.jpg",
+                "cap": "Photo Credit: Amir Shtanger"
+              },
+              {
+                "t": "p",
+                "x": "Nvidia旗下风险投资部门NVentures在UMG v. Suno案中，针对Universal Music和Sony Music发出的作证传票，提交了措辞强硬的撤销动议。"
+              },
+              {
+                "t": "p",
+                "x": "这份传票于八月曝光，随后经过修改，内容涉及Nvidia“与Suno在投资前的业务关系”及其高管、Suno就该投资提供的文件、训练数据尽职调查与侵权诉讼风险，以及Suno对录音制品市场的潜在影响。"
+              },
+              {
+                "t": "p",
+                "x": "撤销动议称：“经过数月的谈判、收集和审查，NVentures已提交6,324份文件，共计28,194页。”Nvidia表示：“在投资者已大量提交材料的情况下，要求其作证尤为不妥。”"
+              },
+              {
+                "t": "p",
+                "x": "Suno还面临Elvis Presley Enterprises以及Eminem的版权出版商Eight Mile Style提起的诉讼。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Nvidia pide anular la citación\nen el caso UMG v. Suno",
+          "body": "Nvidia pide anular una citación en la demanda de UMG contra Suno y afirma haber entregado más de 6,300 documentos.",
+          "mini_headline": "Nvidia se opone a una citación del caso Suno",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/Nvidia-Office-1024x546.jpg",
+                "cap": "Photo Credit: Amir Shtanger"
+              },
+              {
+                "t": "p",
+                "x": "NVentures, el brazo de capital riesgo de Nvidia, arremetió contra una citación a declarar de Universal Music y Sony Music en el caso UMG v. Suno mediante una moción de anulación redactada en términos firmes."
+              },
+              {
+                "t": "p",
+                "x": "La citación, que salió a la luz en agosto y fue modificada posteriormente, se refiere a la “relación comercial previa a la inversión con Suno” de Nvidia y a sus directivos; a los documentos aportados por Suno sobre la inversión; a la diligencia debida sobre los datos de entrenamiento y los riesgos de litigios por infracción; y al posible impacto de Suno en el mercado de grabaciones sonoras."
+              },
+              {
+                "t": "p",
+                "x": "“Tras meses de negociaciones, recopilación y revisión, NVentures entregó 6,324 documentos que suman 28,194 páginas”, según la moción de anulación. “La declaración de un inversor así es especialmente inapropiada cuando el inversor ya ha realizado una entrega sustancial”, según Nvidia."
+              },
+              {
+                "t": "p",
+                "x": "Suno también enfrenta demandas presentadas por Elvis Presley Enterprises y por Eight Mile Style, la editorial de Eminem."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Nvidia, 소환장 취소\nUMG v. Suno 소송",
+          "body": "Nvidia는 문서 6,300건 이상을 냈다며 Suno 소송 소환장 취소를 구했다.",
+          "mini_headline": "Nvidia, Suno 소송 소환장에 맞서",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/Nvidia-Office-1024x546.jpg",
+                "cap": "Photo Credit: Amir Shtanger"
+              },
+              {
+                "t": "p",
+                "x": "Nvidia의 벤처 투자 부문 NVentures가 UMG v. Suno 소송에서 Universal Music과 Sony Music이 낸 증언 소환장을 겨냥해 강한 어조의 취소 신청을 냈다."
+              },
+              {
+                "t": "p",
+                "x": "팔월에 처음 드러나 이후 수정된 이 소환장은 Nvidia와 Suno의 “투자 전 사업 관계”와 경영진, 투자와 관련해 Suno가 제공한 문서, 학습 데이터 실사와 침해 소송 위험, 그리고 Suno가 음원 시장에 미칠 수 있는 영향을 다룬다."
+              },
+              {
+                "t": "p",
+                "x": "취소 신청서에 따르면 “수개월에 걸친 협상과 수집, 검토 끝에 NVentures는 28,194쪽 분량의 문서 6,324건을 제출했다.” Nvidia는 “이미 상당한 자료를 제출한 투자자에게 증언을 요구하는 것은 특히 부적절하다”고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "Suno는 Elvis Presley Enterprises, 그리고 Eminem의 음악 출판사 Eight Mile Style이 제기한 소송에도 대응하고 있다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "UMG v. Suno訴訟\nNvidiaが召喚状に異議",
+          "body": "Nvidiaは6,300件超の文書提出を理由に、Suno訴訟の証言召喚の取消を求めた。",
+          "mini_headline": "Nvidia、Suno訴訟の召喚状に対抗",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/Nvidia-Office-1024x546.jpg",
+                "cap": "Photo Credit: Amir Shtanger"
+              },
+              {
+                "t": "p",
+                "x": "Nvidiaのベンチャー投資部門NVenturesは、UMG v. Suno訴訟でUniversal MusicとSony Musicが出した証言録取の召喚状に対し、強い文言の取消申立てを行った。"
+              },
+              {
+                "t": "p",
+                "x": "八月に表面化し、その後修正されたこの召喚状は、Nvidiaの「Sunoとの投資前の取引関係」とその幹部、投資に関してSunoが提供した文書、学習データのデューデリジェンスと権利侵害訴訟のリスク、そしてSunoが録音物市場に与えうる影響を対象としている。"
+              },
+              {
+                "t": "p",
+                "x": "取消申立てによれば、「数か月にわたる交渉、収集、審査を経て、NVenturesは28,194ページに及ぶ6,324件の文書を提出した」。Nvidiaは「すでに相当量の提出を行った投資家に証言録取を求めることは、とりわけ不適切だ」としている。"
+              },
+              {
+                "t": "p",
+                "x": "SunoはElvis Presley Enterprisesや、Eminemの音楽出版社Eight Mile Styleが起こした訴訟にも直面している。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Nvidia申请撤销\nUMG v. Suno案传票",
+          "body": "Nvidia称已提交逾6,300份文件，请求撤销UMG诉Suno案中的作证传票。",
+          "mini_headline": "Nvidia对抗Suno案传票",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/Nvidia-Office-1024x546.jpg",
+                "cap": "Photo Credit: Amir Shtanger"
+              },
+              {
+                "t": "p",
+                "x": "Nvidia旗下风险投资部门NVentures在UMG v. Suno案中，针对Universal Music和Sony Music发出的作证传票，提交了措辞强硬的撤销动议。"
+              },
+              {
+                "t": "p",
+                "x": "这份传票于八月曝光，随后经过修改，内容涉及Nvidia“与Suno在投资前的业务关系”及其高管、Suno就该投资提供的文件、训练数据尽职调查与侵权诉讼风险，以及Suno对录音制品市场的潜在影响。"
+              },
+              {
+                "t": "p",
+                "x": "撤销动议称：“经过数月的谈判、收集和审查，NVentures已提交6,324份文件，共计28,194页。”Nvidia表示：“在投资者已大量提交材料的情况下，要求其作证尤为不妥。”"
+              },
+              {
+                "t": "p",
+                "x": "Suno还面临Elvis Presley Enterprises以及Eminem的版权出版商Eight Mile Style提起的诉讼。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Nvidia pide anular la citación\nen el caso UMG v. Suno",
+          "body": "Nvidia pide anular una citación en la demanda de UMG contra Suno y afirma haber entregado más de 6,300 documentos.",
+          "mini_headline": "Nvidia se opone a una citación del caso Suno",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/Nvidia-Office-1024x546.jpg",
+                "cap": "Photo Credit: Amir Shtanger"
+              },
+              {
+                "t": "p",
+                "x": "NVentures, el brazo de capital riesgo de Nvidia, arremetió contra una citación a declarar de Universal Music y Sony Music en el caso UMG v. Suno mediante una moción de anulación redactada en términos firmes."
+              },
+              {
+                "t": "p",
+                "x": "La citación, que salió a la luz en agosto y fue modificada posteriormente, se refiere a la “relación comercial previa a la inversión con Suno” de Nvidia y a sus directivos; a los documentos aportados por Suno sobre la inversión; a la diligencia debida sobre los datos de entrenamiento y los riesgos de litigios por infracción; y al posible impacto de Suno en el mercado de grabaciones sonoras."
+              },
+              {
+                "t": "p",
+                "x": "“Tras meses de negociaciones, recopilación y revisión, NVentures entregó 6,324 documentos que suman 28,194 páginas”, según la moción de anulación. “La declaración de un inversor así es especialmente inapropiada cuando el inversor ya ha realizado una entrega sustancial”, según Nvidia."
+              },
+              {
+                "t": "p",
+                "x": "Suno también enfrenta demandas presentadas por Elvis Presley Enterprises y por Eight Mile Style, la editorial de Eminem."
               }
             ]
           }
