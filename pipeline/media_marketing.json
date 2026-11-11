@@ -1,31 +1,30 @@
 {
- "date": "2026-11-11",
- "section": "marketing",
- "media": [
-  {
-   "id": "openai-chatgpt-business-agents",
-   "type": "image",
-   "src": "pipeline/media/openai-chatgpt-business-agents.jpg"
-  },
-  {
-   "id": "shopify-campaign-autopilot-ads",
-   "type": "image",
-   "src": "pipeline/media/shopify-campaign-autopilot-ads.jpg"
-  },
-  {
-   "id": "tiktok-symphony-seedance-ads",
-   "type": "image",
-   "src": "pipeline/media/tiktok-symphony-seedance-ads.jpg"
-  },
-  {
-   "id": "priceline-penny-snapchat-ads",
-   "type": "image",
-   "src": "pipeline/media/priceline-penny-snapchat-ads.jpg"
-  },
-  {
-   "id": "google-ads-asset-activity-ai",
-   "type": "image",
-   "src": "pipeline/media/google-ads-asset-activity-ai.jpg"
-  }
- ]
+  "date": "2026-11-12",
+  "section": "marketing",
+  "media": [
+    {
+      "id": "appsflyer-apple-ads-agent",
+      "type": "image",
+      "src": "pipeline/media/appsflyer-apple-ads-agent.jpg"
+    },
+    {
+      "id": "mrc-ai-measurement-draft",
+      "type": "image",
+      "src": "pipeline/media/mrc-ai-measurement-draft.jpg"
+    },
+    {
+      "id": "reddit-qloo-targeting",
+      "type": "image",
+      "src": "pipeline/media/reddit-qloo-targeting.jpg"
+    },
+    {
+      "id": "daangn-chatgpt-ads-api",
+      "type": "svg"
+    },
+    {
+      "id": "united-ai-agent-ban",
+      "type": "image",
+      "src": "pipeline/media/united-ai-agent-ban.jpg"
+    }
+  ]
 }

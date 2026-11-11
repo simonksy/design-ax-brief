@@ -1,7 +1,32 @@
-{"date":"2026-11-11","section":"politics","media":[
-{"id":"australia-ai-incident-law","type":"video","src":"pipeline/media/australia-ai-incident-law.mp4","poster":"pipeline/media/australia-ai-incident-law.jpg"},
-{"id":"eu-dsa-election-deepfake-guide","type":"image","src":"pipeline/media/eu-dsa-election-deepfake-guide.jpg"},
-{"id":"paris-call-ai-shutdown","type":"image","src":"pipeline/media/paris-call-ai-shutdown.jpg"},
-{"id":"pipc-anthropic-claude-probe","type":"image","src":"pipeline/media/pipc-anthropic-claude-probe.jpg"},
-{"id":"reuters-genai-news-survey-2026","type":"image","src":"pipeline/media/reuters-genai-news-survey-2026.png"}
-]}
+{
+ "date": "2026-11-12",
+ "section": "politics",
+ "media": [
+  {
+   "id": "bessent-uschina-ai-hotline",
+   "type": "image",
+   "src": "pipeline/media/bessent-uschina-ai-hotline.jpg"
+  },
+  {
+   "id": "raise-act-ny-portal",
+   "type": "video",
+   "src": "pipeline/media/raise-act-ny-portal.mp4",
+   "poster": "pipeline/media/raise-act-ny-portal.jpg"
+  },
+  {
+   "id": "chinatalk-rl-environments",
+   "type": "image",
+   "src": "pipeline/media/chinatalk-rl-environments.jpg"
+  },
+  {
+   "id": "finland-estonia-ai-incidents",
+   "type": "image",
+   "src": "pipeline/media/finland-estonia-ai-incidents.jpg"
+  },
+  {
+   "id": "thailand-datacenter-rules",
+   "type": "image",
+   "src": "pipeline/media/thailand-datacenter-rules.jpg"
+  }
+ ]
+}

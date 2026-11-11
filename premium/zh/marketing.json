@@ -4281,6 +4281,131 @@
           "x": "消费者对此仍反应冷淡：YouGov数据显示，近一半（49%）的英国人对广告中的AI-generated演员持负面看法。Reed表示，这套系统是Ogilvy“调色板”的延伸，“背后有人的手艺，也有人在把关”。"
         }
       ]
+    },
+    "marketing/mrc-ai-measurement-draft": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/size/w2000/2026/11/mrc-ai-measurement-standards-q1-2027-draft-7-rulebooks-standard-weights-case-paper-template.jpg",
+          "cap": "MRC的AI标准草案将于Q1 2027出炉，但审计方已在执行7套规则和9项原则"
+        },
+        {
+          "t": "p",
+          "x": "Media Rating Council于2026年11月10日表示，其规范媒体测量中人工智能应用的标准草案第一阶段计划在2027年第一季度公开征求意见，第二阶段将在mid-2027前跟进。这晚于其2026年7月8日指引中的预期，当时预计在“2026年全年及2027年初”完成。"
+        },
+        {
+          "t": "p",
+          "x": "在此之前，那份13页的指引仍是依据：它将七项现有MRC标准和指南对应到九项AI原则，形成58个附录条目——这些是审计方已经在执行的要求，从披露模型误差率，到拍卖中的特征重要性和模型卡。"
+        },
+        {
+          "t": "p",
+          "x": "新规则将涵盖模型治理、无效流量、品牌安全、“LLM中结构化与对话式广告的基础测量（base measurement of structured and conversational ads in LLM）”、模拟与合成受众以及拍卖透明度。MRC指出了若干灰色地带，例如“智能体有效性（agentic validity）”——智能体加载了页面是否意味着有人看到了广告——零点击（zero-click）答案，以及可能导致发布商流量被判定为无效的AI爬虫。"
+        }
+      ]
+    },
+    "marketing/reddit-qloo-targeting": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.adexchanger.com/wp-content/uploads/2026/11/shutterstock_2735591353-1024x746.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "Reddit周二宣布与预测推理公司Qloo（读作“clue”）建立合作，从而可以使用Qloo超过10年的专有数据，投放更相关的广告。Qloo的目录基于从TasteDive评论、Wikidata元数据和获授权的第三方数据中提取的共同属性，追踪餐厅、音乐人等兴趣（即“实体”）之间的关联。"
+        },
+        {
+          "t": "p",
+          "x": "Reddit工程高级总监Virgilio Pigliucci表示，找到那些乍看之下并不明显的共同属性，正是Reddit与Qloo合作的原因。购买意式咖啡机的人往往也想要一张放咖啡机的桌子，因此Reddit可能会在咖啡机相关帖子中投放高桌的广告。"
+        },
+        {
+          "t": "p",
+          "x": "过去，优化新广告主的广告活动需要积累几天甚至几周的互动数据。现在Reddit可以“依据Qloo的信号进行优化”，而且模型无需知道用户的搜索词、浏览记录或所在的subreddit就能推断关联，因此广告主能够“立刻”看到效果。"
+        }
+      ]
+    },
+    "marketing/daangn-chatgpt-ads-api": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.hankyung.com/photo/202611/AA.46366592.1.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "本地生活平台Daangn开始利用人工智能（AI）实现广告运营自动化。继推出可在ChatGPT、Claude等外部AI服务中分析广告效果的功能之后，它又开放了应用程序接口（API），让广告主还能登记和修改广告。"
+        },
+        {
+          "t": "p",
+          "x": "据业界9日消息，Daangn正在升级今年9月面向广告主推出的“广告模型上下文协议（MCP）”。MCP是一种帮助AI模型和智能体连接外部系统、查询数据或执行任务的技术。"
+        },
+        {
+          "t": "p",
+          "x": "借助Daangn广告MCP，广告主可以把Daangn广告账户接入平时使用的AI，用自然语言查看广告状态和效果。例如提问“帮我总结过去7天的广告效果”，AI就会调取广告账户的数据并加以整理。广告主可以查询并比较广告账户与余额、正在投放的广告情况以及各时段的效果等。"
+        },
+        {
+          "t": "p",
+          "x": "Daangn上月还公开了广告开放API测试版服务，让外部系统可以直接调用Daangn的广告功能。广告主可以在自有广告管理工具或内部仪表盘中查询、登记或修改广告活动、广告组和广告素材。"
+        },
+        {
+          "t": "p",
+          "x": "这一变化源于Daangn的主要广告主中有很多是缺乏广告运营经验的小商户。其算盘是：只要帮助他们通过向常用的AI提问就能提升广告效果，他们就会在Daangn投放更多广告。"
+        },
+        {
+          "t": "p",
+          "x": "Kakao也将于下月启动AI智能体“AI Crew”的封闭测试，该智能体用于支持广告主的广告投放与运营。AI Crew是一项服务：广告主在对话式界面中输入业务目标后，AI会推荐合适的广告产品和运营策略。"
+        }
+      ]
+    },
+    "marketing/united-ai-agent-ban": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23176430/1237621702.jpg?quality=90&strip=all&crop=0.014236902050115%2C0%2C99.9715261959%2C100&w=2400",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "United表示，出于隐私和监管方面的顾虑，不会允许个人AI助理在该航空公司预订机票。"
+        },
+        {
+          "t": "p",
+          "x": "据The Wall Street Journal报道，该公司表示目前还没看到很多人尝试用AI代理预订航班，这与Doordash等其他企业的观察一致。但United担心，代理可能泄露客户信息或做出客户并非本意的购买，还可能绕开联邦规定——这些规定涉及航空公司必须与客户共享的信息，例如让客户确认行李中没有爆炸物。"
+        },
+        {
+          "t": "p",
+          "x": "代理仍可向用户展示United的航班，但无法代表用户真正完成交易。这一决定以及类似决定，可能会限制Meta的Muse、OpenAI的Dots等新一代个人AI助理的潜在用处。据Journal报道，United首席执行官Scott Kirby周二在一场活动上说：“说实话，我不想再制造一个中间商。”"
+        },
+        {
+          "t": "p",
+          "x": "各行各业的企业都在纠结是否允许AI代理在其网站上进行交易，而United并不是唯一屏蔽未经授权代理的公司。eBay似乎已阻止代理浏览其网站，多家大型银行也对代理设置了限制。United暗示，可能会根据未来的技术进展重新考虑这一决定：“随着第三方AI代理不断进步，我们看到了它们带来的机遇。但与此同时，允许它们直接与United账户或预订交互可能涉及敏感操作，我们希望先为旅客建立好保护措施。”"
+        }
+      ]
+    },
+    "marketing/openai-chatgpt-business-agents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://digiday.com/wp-content/uploads/sites/3/2026/08/open-AI-digiday.jpg?w=1030&h=579&crop=1",
+          "cap": "Ivy Liu"
+        },
+        {
+          "t": "p",
+          "x": "企业现在可以通过全新的Business Hub在ChatGPT中认领主页、完成认证，并录入产品和公司信息。在美国（U.S.，目前仅限于此），电商和在线服务企业还可以发布商家代理——一个单独标注的聊天窗口，在用户想深入了解某款产品时代表品牌发言。"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI变现副总裁（vp）Benji Shomair表示，商家代理是进入一种广告形式的免费、自然途径，OpenAI自9月起开始将这一形式作为付费广告测试。“可以把商家代理看作自然体验，”他说，“赞助代理是付费体验，但背后的代理应当是同一个。”"
+        },
+        {
+          "t": "p",
+          "x": "当购物者准备付款时，代理会把他们引导到品牌自己的网站。品牌获得的是对话主题而非对话记录，也不能接入自己的代理。Business Hub的Insights测试版会显示提及量、浏览量和网站点击量，以及发现话题；一位发言人表示：“企业看不到单个提示词或聊天内容。”"
+        },
+        {
+          "t": "p",
+          "x": "Sonata Insights的Debra Aho Williamson表示，OpenAI自己分享洞察，“将从第三方公司手中拿走部分权力”。Business Hub和代理目前免费，Shomair表示，企业“不应影响其出现的频率”。"
+        }
+      ]
     }
   }
 }

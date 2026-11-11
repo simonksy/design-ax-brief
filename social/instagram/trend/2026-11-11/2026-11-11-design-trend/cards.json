@@ -1,0 +1,109 @@
+{
+  "meta": {
+    "issue": "디자인 툴, 에이전트 손에 쥐어진다",
+    "date": "2026.11.11",
+    "section": "DESIGN",
+    "accent": "#0070f3",
+    "note": "원문 4건 대조: 날짜는 원문 게재일(UX Collective 11.04 UTC, Figma YouTube 11.05 PT, Adobe 뉴스룸 11.10, Claude 블로그 11.10). '21개 중 20개 MCP·Code Connect 3개'는 수집본(Kaelig Deloumeau-Prigent 2026년 7월 현장 연구)으로, Adobe 로컬 MCP(preview)·'레이어·시퀀스·컴포지션 편집 가능'은 뉴스룸 원문으로, Claude 커넥터 전체 화면·MCP Apps·Figma 준비 중은 원문으로 확인. 11-07·11-10 디자인 trend(AEC 에이전트·실물 설계)와 겹치지 않게 골랐고, 오늘 story의 Photoshop 28은 뺐다. 사진은 Adobe 한 장만, UX Collective는 stat.",
+    "sources": [
+      "UX Collective — What AI has changed in Design Systems, and what is still up to us (2026.11.04)",
+      "Figma (YouTube) — Edit and generate vectors with the Figma agent (2026.11.05)",
+      "Adobe — Adobe Powers a New Era of Creativity, Bringing Agents and Tools to Creatives Wherever and However They Create (2026.11.10)",
+      "Claude — Open your apps in Claude and work in them together (2026.11.10)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 디자인 · 11.04~11.10",
+      "thread": [
+        {
+          "d": "11.04",
+          "t": "MCP 서버",
+          "c": "#0070f3",
+          "s": "DESIGN"
+        },
+        {
+          "d": "11.05",
+          "t": "벡터",
+          "c": "#0070f3",
+          "s": "DESIGN"
+        },
+        {
+          "d": "11.10",
+          "t": "원본 파일",
+          "c": "#0070f3",
+          "s": "DESIGN"
+        },
+        {
+          "d": "11.10",
+          "t": "전체 화면",
+          "c": "#0070f3",
+          "s": "DESIGN"
+        }
+      ],
+      "thread_note": "에이전트가 디자인 툴을 결과물 대신 원본째로 다룬다",
+      "eyebrow": "흐름 · 디자인",
+      "headline": "디자인 툴,\n에이전트가 쥔다",
+      "body": "하나씩 보면 기능 추가다. 엿새 사이 디자인 시스템과 Figma·Adobe·Claude가 잇달아 에이전트에게 작업 원본을 열었다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "stat",
+      "eyebrow": "2026.11.04",
+      "headline": "디자인 시스템,\n이제 AI가 읽는다",
+      "body": "오픈소스 디자인 시스템 21개 중 20개가 MCP 서버를 낸다. Figma Code Connect를 설정한 곳은 3개뿐이었다.",
+      "foot": "2026.11.04",
+      "_src": "https://uxdesign.cc/what-ai-has-changed-in-design-systems-and-what-is-still-up-to-us-d4e8e8f4ceb2",
+      "_id": "uxc-design-systems-mcp-study",
+      "stat_top": "Code Connect 3곳",
+      "stat_arrow": "오픈소스 디자인 시스템 21개 중",
+      "stat_bottom": "MCP 서버 20곳",
+      "stat_strike": false
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.11.05",
+      "headline": "Figma 에이전트,\n벡터도 그린다",
+      "body": "참조한 스타일대로 일러스트와 아이콘을 만든다. 선은 획으로 남아 두께와 끝 모양을 나중에 바꿀 수 있다.",
+      "foot": "2026.11.05",
+      "_src": "https://www.youtube.com/shorts/Vfh8hAEs7yk",
+      "_id": "figma-agent-vector-styles",
+      "video": "pipeline/media/figma-agent-vector-styles.mp4"
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.11.10",
+      "headline": "Adobe 원본 파일,\n외부 에이전트에게",
+      "body": "Adobe가 로컬 MCP 통합을 미리 공개했다. 쓰던 에이전트가 Photoshop·Premiere 원본을 고쳐도 레이어는 남는다.",
+      "foot": "2026.11.10",
+      "_src": "https://news.adobe.com/news/2026/11/adobe-powers-new-era-of-creativity",
+      "_id": "adobe-max26-creative-agent",
+      "media": "pipeline/media/adobe-max26-creative-agent.jpg"
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.11.10",
+      "headline": "Claude 안에서\n디자인 앱을 연다",
+      "body": "커넥터로 Canva·Adobe 같은 도구를 대화 옆이나 전체 화면에 열고 Claude가 직접 고친다. Figma도 준비 중이다.",
+      "foot": "2026.11.10",
+      "_src": "https://claude.com/resources/articles/interactive-connectors-full-tool",
+      "_id": "claude-connectors-design-apps",
+      "video": "pipeline/media/claude-connectors-design-apps.mp4"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

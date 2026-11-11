@@ -1,158 +1,103 @@
 {
-  "date": "2026-11-11",
+  "date": "2026-11-12",
   "section": "marketing",
   "picks": [
     {
-      "title": "OpenAI's new business agents give brands a free way into the conversation it's also selling as an ad",
-      "url": "https://digiday.com/marketing/openais-new-business-agents-give-brands-a-free-way-into-the-conversation-its-also-selling-as-an-ad/",
-      "source": "Digiday",
+      "title": "AppsFlyer tests agent that changes Apple Ads bids once marketers approve",
+      "url": "https://ppc.land/appsflyer-tests-agent-that-changes-apple-ads-bids-once-marketers-approve/",
+      "source": "PPC Land",
       "tool": "Marketing",
       "accent": "#ff8a3d",
       "motif": "frame",
-      "rationale": "New launch (Businesses in ChatGPT / verified business agents): brands get a free organic presence plus click data inside the same conversation OpenAI sells as ad inventory, which reshapes how budgets split between owned agents and ChatGPT Ads.",
-      "published_iso": "2026-11-10T18:00:00+00:00",
-      "og_image": "https://digiday.com/wp-content/uploads/sites/3/2026/08/open-AI-digiday.jpg",
-      "excerpt": "OpenAI is giving brands a free route into ChatGPT conversations through verified business agents, while keeping control of the data and recommendations it also monetizes through ads."
+      "rationale": "Agentic bidding with a human-approval gate on Apple Ads plus 4 MCP fraud-data tools — a concrete new beta that changes how app marketers run keyword bids.",
+      "published_iso": "2026-11-11T20:44:50Z",
+      "og_image": "https://ppc.land/content/images/2026/11/appsflyer-apple-ads-share-of-voice-agent-bids-after-approval-vu-meter-arm-volume-knob-pull-cord.jpg",
+      "excerpt": "AppsFlyer is testing, in closed beta, an AI agent that changes Apple Ads keyword bids based on estimated share of voice per keyword and geo once app marketers approve; four MCP tools add fraud data."
     },
     {
-      "title": "Shopify Noses Further Into Ad Tech With Campaign Autopilot Expansion",
-      "url": "https://www.adexchanger.com/commerce/shopifyautopilot/",
-      "source": "AdExchanger",
+      "title": "Media Rating Council sets Q1 2027 draft for first AI measurement standards",
+      "url": "https://ppc.land/media-rating-council-sets-q1-2027-draft-for-first-ai-measurement-standards/",
+      "source": "PPC Land",
       "tool": "Marketing",
       "accent": "#0070f3",
       "motif": "frame",
-      "rationale": "Product expansion: Shopify's AI-run Campaign Autopilot uses merchant first-party data to buy ads, pushing commerce platforms into retail-media-style ad buying.",
-      "published_iso": "2026-11-10T13:38:42+00:00",
-      "og_image": "https://www.adexchanger.com/wp-content/uploads/2026/04/online-shopping_package-delivery_comic-e1678292494241.jpeg",
-      "excerpt": "Shopify is expanding its AI-driven Campaign Autopilot ad product, using its first-party merchant data to push further into retail-media-style advertising."
+      "rationale": "First AI-specific ad measurement standards from the MRC with a dated timeline (Q1 2027 draft, mid-2027 phase two) — sets the audit bar every AI ad product will be held to.",
+      "published_iso": "2026-11-11T07:38:41Z",
+      "og_image": "https://ppc.land/content/images/2026/11/mrc-ai-measurement-standards-q1-2027-draft-7-rulebooks-standard-weights-case-paper-template.jpg",
+      "excerpt": "The MRC says a draft of its first AI-specific ad measurement standards will arrive in Q1 2027, with a second phase by mid-2027; AI use is meanwhile audited under 7 existing rulebooks and 9 principles."
     },
     {
-      "title": "TikTok updates its AI video ad tools",
-      "url": "https://www.socialmediatoday.com/news/tiktok-updates-its-ai-video-ad-tools/874209/",
-      "source": "Social Media Today",
-      "tool": "Marketing",
-      "accent": "#f5a623",
-      "motif": "frame",
-      "rationale": "Tool release: TikTok Symphony now runs the latest Dreamina Seedance video model, directly changing what ad creatives brands can generate before the holiday push.",
-      "published_iso": "2026-11-09T18:46:53-05:00",
-      "og_image": "https://imgproxy.divecdn.com/evsYS_GFtH50RI0eh4S3ZT06hDfwnbxJL0GuV3RwhxQ/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS90aWt0b2tfc3ltcGhvbnRfdXBkYXRlMS5wbmc=.webp",
-      "excerpt": "TikTok's Symphony ad-creation platform now has access to the latest Dreamina Seedance video model, expanding AI video ad creation options for brands."
-    },
-    {
-      "title": "Priceline's AI agent Penny lands in Snapchat ads amid holiday rush",
-      "url": "https://www.marketingdive.com/news/pricelines-ai-agent-penny-lands-in-snapchat-ads-amid-holiday-rush/874247/",
-      "source": "Marketing Dive",
+      "title": "Reddit Taps Qloo To Strengthen Its Predictive Targeting",
+      "url": "https://www.adexchanger.com/marketers/reddit-taps-qloo-to-strengthen-its-predictive-targeting/",
+      "source": "AdExchanger",
       "tool": "Marketing",
       "accent": "#7928ca",
       "motif": "frame",
-      "rationale": "New ad format in use: Priceline is the first travel brand on Snapchat's AI Sponsored Snaps, putting its own chatbot agent inside a paid ad unit.",
-      "published_iso": "2026-11-10T10:13:24-05:00",
-      "og_image": "https://imgproxy.divecdn.com/ow9_BkkJNagEUw51KebyuFOQQWULZxk_P4G9aa0Eaco/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzY4NDgzMTMxX2dlSklYQW8uanBn.webp",
-      "excerpt": "Priceline is the first travel brand to use AI Sponsored Snaps, which let advertisers bring their own chatbots into Snapchat, putting its Penny AI agent in ads."
+      "rationale": "New targeting partnership: Reddit adds Qloo's AI taste-graph to model correlated interests for ad targeting — directly changes what buyers can target on Reddit.",
+      "published_iso": "2026-11-10T14:00:12Z",
+      "og_image": "https://www.adexchanger.com/wp-content/uploads/2026/11/shutterstock_2735591353-scaled.jpg",
+      "excerpt": "Reddit partners with AI taste-intelligence firm Qloo to model correlated interests and target users with more relevant ads."
     },
     {
-      "title": "Google Ads Tests A Weekly AI Report Card For Your Ad Creative",
-      "url": "https://www.searchenginejournal.com/google-ads-tests-asset-activity-page-with-weekly-ai-insights/596442/",
-      "source": "Search Engine Journal",
+      "title": "\"내 광고 분석해줘\"…챗GPT 도입한 당근",
+      "url": "https://www.hankyung.com/article/2026110957441",
+      "source": "한국경제",
       "tool": "Marketing",
       "accent": "#2ec5c5",
       "motif": "frame",
-      "rationale": "New Google Ads test: an Asset activity page delivers weekly AI insight cards on ad creative, including headline ideas to test, which feeds straight into creative iteration.",
-      "published_iso": "2026-11-09T16:30:00+00:00",
-      "og_image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-ads-asset-activity-featured-1600x840-1.jpg",
-      "excerpt": "Some Google Ads accounts show an Asset activity page that uses AI to deliver weekly insight cards on ad creative, including headline ideas to test."
+      "rationale": "Korean ad platform opens ad create/edit API to ChatGPT so small advertisers can run and analyze Danggeun ads by chat — concrete new ad-buying surface, Korean market.",
+      "published_iso": "2026-11-09T17:29:30+09:00",
+      "og_image": "https://img.hankyung.com/photo/202611/AA.46366592.1.jpg",
+      "excerpt": "당근이 챗GPT에 광고 등록·수정 API를 개방해 광고주가 챗GPT에서 광고를 다루고 분석을 요청할 수 있게 했다. 소상공인 광고주 증가를 기대한다."
+    },
+    {
+      "title": "United won't let your AI agent book your flight",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+      "source": "The Verge",
+      "tool": "Marketing",
+      "accent": "#eb367f",
+      "motif": "frame",
+      "rationale": "New rule from a major airline banning AI agents from buying tickets/seats/upgrades even under supervision — a sales channel being closed to agentic commerce.",
+      "published_iso": "2026-11-11T21:54:21Z",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23176430/1237621702.jpg?quality=90&strip=all&crop=0%2C10.721800295556%2C100%2C78.556399408888&w=1200",
+      "excerpt": "United's new rule bans AI agents from buying tickets, seats and upgrades even when a traveler supervises each step, limiting assistants like Muse and Dots as a sales channel."
     }
   ],
   "items": [
-    {
-      "title": "OpenAI's new business agents give brands a free way into the conversation it's also selling as an ad",
-      "url": "https://digiday.com/marketing/openais-new-business-agents-give-brands-a-free-way-into-the-conversation-its-also-selling-as-an-ad/",
-      "source": "Digiday",
-      "tool": "Marketing",
-      "accent": "#ff8a3d",
-      "motif": "frame",
-      "rationale": "New launch (Businesses in ChatGPT / verified business agents): brands get a free organic presence plus click data inside the same conversation OpenAI sells as ad inventory, which reshapes how budgets split between owned agents and ChatGPT Ads.",
-      "published_iso": "2026-11-10T18:00:00+00:00",
-      "og_image": "https://digiday.com/wp-content/uploads/sites/3/2026/08/open-AI-digiday.jpg",
-      "excerpt": "OpenAI is giving brands a free route into ChatGPT conversations through verified business agents, while keeping control of the data and recommendations it also monetizes through ads."
-    },
-    {
-      "title": "Shopify Noses Further Into Ad Tech With Campaign Autopilot Expansion",
-      "url": "https://www.adexchanger.com/commerce/shopifyautopilot/",
-      "source": "AdExchanger",
-      "tool": "Marketing",
-      "accent": "#0070f3",
-      "motif": "frame",
-      "rationale": "Product expansion: Shopify's AI-run Campaign Autopilot uses merchant first-party data to buy ads, pushing commerce platforms into retail-media-style ad buying.",
-      "published_iso": "2026-11-10T13:38:42+00:00",
-      "og_image": "https://www.adexchanger.com/wp-content/uploads/2026/04/online-shopping_package-delivery_comic-e1678292494241.jpeg",
-      "excerpt": "Shopify is expanding its AI-driven Campaign Autopilot ad product, using its first-party merchant data to push further into retail-media-style advertising."
-    },
-    {
-      "title": "TikTok updates its AI video ad tools",
-      "url": "https://www.socialmediatoday.com/news/tiktok-updates-its-ai-video-ad-tools/874209/",
-      "source": "Social Media Today",
-      "tool": "Marketing",
-      "accent": "#f5a623",
-      "motif": "frame",
-      "rationale": "Tool release: TikTok Symphony now runs the latest Dreamina Seedance video model, directly changing what ad creatives brands can generate before the holiday push.",
-      "published_iso": "2026-11-09T18:46:53-05:00",
-      "og_image": "https://imgproxy.divecdn.com/evsYS_GFtH50RI0eh4S3ZT06hDfwnbxJL0GuV3RwhxQ/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS90aWt0b2tfc3ltcGhvbnRfdXBkYXRlMS5wbmc=.webp",
-      "excerpt": "TikTok's Symphony ad-creation platform now has access to the latest Dreamina Seedance video model, expanding AI video ad creation options for brands."
-    },
-    {
-      "title": "Priceline's AI agent Penny lands in Snapchat ads amid holiday rush",
-      "url": "https://www.marketingdive.com/news/pricelines-ai-agent-penny-lands-in-snapchat-ads-amid-holiday-rush/874247/",
-      "source": "Marketing Dive",
-      "tool": "Marketing",
-      "accent": "#7928ca",
-      "motif": "frame",
-      "rationale": "New ad format in use: Priceline is the first travel brand on Snapchat's AI Sponsored Snaps, putting its own chatbot agent inside a paid ad unit.",
-      "published_iso": "2026-11-10T10:13:24-05:00",
-      "og_image": "https://imgproxy.divecdn.com/ow9_BkkJNagEUw51KebyuFOQQWULZxk_P4G9aa0Eaco/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzY4NDgzMTMxX2dlSklYQW8uanBn.webp",
-      "excerpt": "Priceline is the first travel brand to use AI Sponsored Snaps, which let advertisers bring their own chatbots into Snapchat, putting its Penny AI agent in ads."
-    },
-    {
-      "title": "Google Ads Tests A Weekly AI Report Card For Your Ad Creative",
-      "url": "https://www.searchenginejournal.com/google-ads-tests-asset-activity-page-with-weekly-ai-insights/596442/",
-      "source": "Search Engine Journal",
-      "tool": "Marketing",
-      "accent": "#2ec5c5",
-      "motif": "frame",
-      "rationale": "New Google Ads test: an Asset activity page delivers weekly AI insight cards on ad creative, including headline ideas to test, which feeds straight into creative iteration.",
-      "published_iso": "2026-11-09T16:30:00+00:00",
-      "og_image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-ads-asset-activity-featured-1600x840-1.jpg",
-      "excerpt": "Some Google Ads accounts show an Asset activity page that uses AI to deliver weekly insight cards on ad creative, including headline ideas to test."
-    }
+    {"url": "https://ppc.land/appsflyer-tests-agent-that-changes-apple-ads-bids-once-marketers-approve/", "source": "PPC Land", "tool": "Marketing", "accent": "#ff8a3d", "motif": "frame", "rationale": "Agentic Apple Ads bidding with human approval gate (closed beta).", "published_iso": "2026-11-11T20:44:50Z", "og_image": "https://ppc.land/content/images/2026/11/appsflyer-apple-ads-share-of-voice-agent-bids-after-approval-vu-meter-arm-volume-knob-pull-cord.jpg", "excerpt": "AppsFlyer is testing, in closed beta, an AI agent that changes Apple Ads keyword bids based on estimated share of voice per keyword and geo once app marketers approve; four MCP tools add fraud data."},
+    {"url": "https://ppc.land/media-rating-council-sets-q1-2027-draft-for-first-ai-measurement-standards/", "source": "PPC Land", "tool": "Marketing", "accent": "#0070f3", "motif": "frame", "rationale": "MRC's first AI ad measurement standards timeline.", "published_iso": "2026-11-11T07:38:41Z", "og_image": "https://ppc.land/content/images/2026/11/mrc-ai-measurement-standards-q1-2027-draft-7-rulebooks-standard-weights-case-paper-template.jpg", "excerpt": "The MRC says a draft of its first AI-specific ad measurement standards will arrive in Q1 2027, with a second phase by mid-2027; AI use is meanwhile audited under 7 existing rulebooks and 9 principles."},
+    {"url": "https://www.adexchanger.com/marketers/reddit-taps-qloo-to-strengthen-its-predictive-targeting/", "source": "AdExchanger", "tool": "Marketing", "accent": "#7928ca", "motif": "frame", "rationale": "Reddit adds Qloo AI taste-graph to ad targeting.", "published_iso": "2026-11-10T14:00:12Z", "og_image": "https://www.adexchanger.com/wp-content/uploads/2026/11/shutterstock_2735591353-scaled.jpg", "excerpt": "Reddit partners with AI taste-intelligence firm Qloo to model correlated interests and target users with more relevant ads."},
+    {"url": "https://www.hankyung.com/article/2026110957441", "source": "한국경제", "tool": "Marketing", "accent": "#2ec5c5", "motif": "frame", "rationale": "Danggeun opens ad API to ChatGPT for small advertisers.", "published_iso": "2026-11-09T17:29:30+09:00", "og_image": "https://img.hankyung.com/photo/202611/AA.46366592.1.jpg", "excerpt": "당근이 챗GPT에 광고 등록·수정 API를 개방해 광고주가 챗GPT에서 광고를 다루고 분석을 요청할 수 있게 했다. 소상공인 광고주 증가를 기대한다."},
+    {"url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents", "source": "The Verge", "tool": "Marketing", "accent": "#eb367f", "motif": "frame", "rationale": "United bans AI agents from buying tickets — agentic sales channel closed.", "published_iso": "2026-11-11T21:54:21Z", "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23176430/1237621702.jpg?quality=90&strip=all&crop=0%2C10.721800295556%2C100%2C78.556399408888&w=1200", "excerpt": "United's new rule bans AI agents from buying tickets, seats and upgrades even when a traveler supervises each step, limiting assistants like Muse and Dots as a sales channel."}
   ],
   "dedup": {
     "checks": {
-      "https://digiday.com/marketing/openais-new-business-agents-give-brands-a-free-way-into-the-conversation-its-also-selling-as-an-ad/": {
+      "https://ppc.land/appsflyer-tests-agent-that-changes-apple-ads-bids-once-marketers-approve/": {
         "verdict": "new",
-        "nearest": "https://www.seroundtable.com/openai-updates-chatgpt-ads-bidding-options-42470.html",
+        "nearest": "https://ppc.land/apple-patent-describes-ai-that-repaints-app-screenshots-per-keyword/",
         "new_action": ""
       },
-      "https://www.adexchanger.com/commerce/shopifyautopilot/": {
-        "verdict": "new",
-        "nearest": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
-        "new_action": ""
-      },
-      "https://www.socialmediatoday.com/news/tiktok-updates-its-ai-video-ad-tools/874209/": {
-        "verdict": "new",
-        "nearest": "https://tomorrowspublisher.today/news/national-trust-pulls-tiktok-ads-after-platform-s-ai-publishes-unauthorised-video-68149cb63312/index.html",
-        "new_action": ""
-      },
-      "https://www.marketingdive.com/news/pricelines-ai-agent-penny-lands-in-snapchat-ads-amid-holiday-rush/874247/": {
+      "https://ppc.land/media-rating-council-sets-q1-2027-draft-for-first-ai-measurement-standards/": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
       },
-      "https://www.searchenginejournal.com/google-ads-tests-asset-activity-page-with-weekly-ai-insights/596442/": {
+      "https://www.adexchanger.com/marketers/reddit-taps-qloo-to-strengthen-its-predictive-targeting/": {
         "verdict": "new",
-        "nearest": "https://www.seroundtable.com/google-ai-ads-goals-and-assets-42269.html",
+        "nearest": "",
+        "new_action": ""
+      },
+      "https://www.hankyung.com/article/2026110957441": {
+        "verdict": "new",
+        "nearest": "https://www.hankyung.com/article/202611057601i",
+        "new_action": ""
+      },
+      "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents": {
+        "verdict": "new",
+        "nearest": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
         "new_action": ""
       }
     },
-    "note": "Businesses in ChatGPT cluster (Digiday / Adweek 'OpenAI Gives Brands Some Data' / SER 'Business Hub Live With Click Data'): one story, kept Digiday only (ad-inventory angle; orchestrator assigns it to marketing, one item). Dropped as running-story repeats: SEJ Google ads in AI Mode 10+ countries + multiturn ads (10-29 'Ads in AI Mode expand to new markets', 11-05 four ads; multiturn already dropped 11-10); SER ChatGPT visual ads during image generation (rollout of the visual formats announced 10-17 / multi-image 11-02); SEJ Meta paused business terms (running story from 10-17/10-18, opinion framing, AI-training clause not ad buying). Dropped as commentary/analysis: Digiday Amazon auction-trial briefing, Marketing Dive synthetic audiences op-ed, PPC Land Brainlabs warning, AdExchanger TIME/Kana case piece. Not picked on score/diversity: Adweek Reddit AI review portal, AdExchanger Reddit x Qloo targeting (AdExchanger already has Shopify), PPC Land DecryptAds AI recipe sites (related to 10-21/10-30 AI-slop coverage). Cross-section: all picks dated 11-09/11-10 after prior run cutoffs; none touch today's orchestrator assignments (Framestore x Sky excluded per brief). published_urls.json could not be exact-grepped with read-only tools; orchestrator should confirm the 5 URLs are absent from other sections before roll."
+    "note": "Dropped as duplicates/follow-ups: SEJ 'Google Ads Now Runs In AI Mode Across 10 More Countries' (same running expansion as blog.google 'Ads in AI Mode expand to new markets' 10-29 and seroundtable AI Mode four ads 11-05); SEJ 'Meta Pauses Its Updated Business And Ad Terms' (running Meta-terms story, 10-17 SEJ / 10-18 TechCrunch); AdExchanger 'In OpenAI's Ad Business, Advertisers Come Third' (interview on running ChatGPT-ads story, nearest Digiday 11-11); AdExchanger 11/11 daily roundup (roundup); IAB Tech Lab OneTag member perspective (commentary on agentic standards, nearest PPC Land 10-25). Dropped on scope/quality: Digiday Amazon auction trial (analysis), Adweek AI-or-not and Marketing Dive synthetic audiences (opinion), Salesforce sales-agent data (vendor promo), edaily outlook (off-list forecast), Sendbird (vendor launch), MLQ.ai JD Singles Day (off-list secondary). Skipped 매일경제 Adobe marketing agents per brief (Adobe MAX already covered 11-11 in design; distinctness from design's Adobe pick unconfirmed). eBay blocks third-party agents (Verge) is same-theme as United and The Verge kept to 1; United is fresher. DecryptAds AI recipe-sites (related to AI-slop MFA 10-21/10-30) held out to keep PPC Land at 2. Cross-section published_urls.json was too large to scan fully without grep; orchestrator should exact-grep the 5 URLs before roll."
   }
 }

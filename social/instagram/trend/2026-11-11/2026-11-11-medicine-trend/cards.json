@@ -1,0 +1,112 @@
+{
+  "meta": {
+    "issue": "AI에 맡기는 진료, FDA가 기준을 묻다",
+    "date": "2026.11.11",
+    "section": "MEDICINE",
+    "accent": "#00897b",
+    "note": "원문 대조: 날짜를 원문 게재일로 고침(npj 11.06→11.05, Endpoints 11.10→11.09, MedTech Dive 11.11→11.09, Radiology Business 11.11→11.10). 2001건·324건 중 31건·18%(368)·민감도 100%, 두 달·2년, 7월 기준 허가 0건·1월 5일, 1,200건·94% 확인. 510k·NeuroDR은 11-08 의료 trend와 겹쳐 뺐고 오늘 story(aha-voice)도 제외. Endpoints·Radiology Business 그림은 스톡이라 stat.",
+    "sources": [
+      "npj Digital Medicine — Collaborative generalist-specialist AI for safe worklist deprioritization of non-contrast brain computed tomography (2026.11.05)",
+      "Endpoints News — How early efforts to build autonomous clinical AI tools are approaching regulation (2026.11.09)",
+      "MedTech Dive — FDA seeks input on telesurgery, autonomous robotics (2026.11.09)",
+      "Radiology Business — Large language models show potential in MRI protocoling (2026.11.10)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 의료 · 11.05~11.10",
+      "thread": [
+        {
+          "d": "11.05",
+          "t": "판독 순서",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        },
+        {
+          "d": "11.09",
+          "t": "자율 AI",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        },
+        {
+          "d": "11.09",
+          "t": "자율 로봇",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        },
+        {
+          "d": "11.10",
+          "t": "MRI 처방",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        }
+      ],
+      "thread_note": "임상 AI가 돕기에서 맡기기로 넘어가자, FDA가 그 기준을 묻기 시작했다",
+      "eyebrow": "흐름 · 의료",
+      "headline": "AI에 맡기는 진료,\n기준을 묻다",
+      "body": "한 건씩 보면 연구 하나, 회의 하나다. 꿰어 보면 사람이 하던 판단을 AI에 넘기는 일이 닷새 새 연구에서 규제로 옮겨 갔다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.11.05",
+      "headline": "정상 CT는\nAI가 뒤로 미룬다",
+      "body": "AI 두 개가 모두 음성일 때만 뇌 CT를 후순위로 뺐다. 2001건 중 18%를 미뤘고 이상 소견은 하나도 놓치지 않았다.",
+      "foot": "2026.11.05",
+      "_src": "https://www.nature.com/articles/s41746-026-03447-y",
+      "_id": "medicine-brainct-clip-worklist",
+      "media": "pipeline/media/medicine-brainct-clip-worklist.jpg"
+    },
+    {
+      "n": 3,
+      "kind": "stat",
+      "eyebrow": "2026.11.09",
+      "headline": "자율 임상 AI,\n먼저 FDA로",
+      "body": "ARPA-H Advocate 팀들은 출범 두 달도 안 돼 FDA와 첫 회의를 했다. 목표는 2년 안 자율 AI 심부전 기기 제출이다.",
+      "foot": "2026.11.09",
+      "_src": "https://endpoints.news/how-early-efforts-to-build-autonomous-clinical-ai-tools-are-approaching-regulation/",
+      "_id": "arpah-advocate-fda-meetings",
+      "stat_top": "출범 두 달 안 FDA 회의",
+      "stat_arrow": "자율 AI 심부전 기기 제출",
+      "stat_bottom": "2년 안",
+      "stat_strike": false
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.11.09",
+      "headline": "FDA, 자율 로봇에\n의견을 묻다",
+      "body": "7월 기준 U.S.에서 허가받은 원격 조종·완전 자율 로봇 기기는 없다. FDA는 토론 문서를 내고 1월 5일까지 의견을 받는다.",
+      "foot": "2026.11.09",
+      "_src": "https://www.medtechdive.com/news/fda-seeks-input-on-telesurgery-autonomous-robotics/874124/",
+      "_id": "fda-telesurgery-autonomy-paper",
+      "media": "pipeline/media/fda-telesurgery-autonomy-paper.jpg"
+    },
+    {
+      "n": 5,
+      "kind": "stat",
+      "eyebrow": "2026.11.10",
+      "headline": "MRI 처방도\nLLM이 고른다",
+      "body": "MRI 의뢰서 1,200건에서 오픈 LLM 둘이 프로토콜 94%를 맞혔다. 저자들은 감독 없는 자동 추천은 위험하다고 했다.",
+      "foot": "2026.11.10",
+      "_src": "https://radiologybusiness.com/topics/artificial-intelligence/large-language-models-show-potential-mri-protocoling",
+      "_id": "llm-mri-protocoling-radiology",
+      "stat_top": "MRI 의뢰서 1,200건",
+      "stat_arrow": "GPT-OSS·Qwen3 프로토콜 정확도",
+      "stat_bottom": "94%",
+      "stat_strike": false
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

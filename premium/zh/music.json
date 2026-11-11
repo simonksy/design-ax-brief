@@ -9745,6 +9745,141 @@
           "x": "就Logic Pro而言，Apple表示使用上限“受你与助手对话复杂程度的影响”。用量耗尽的用户可以在应用主菜单的Intelligence Features > Show Usage中找到购买Intelligence Usage Pack的选项。目前只有Logic Pro提供购买更多用量的选项，但预计本月会扩展到其他Apple Creator Studio应用，包括Pixelmator Pro、Final Cut Pro、Motion，以及将接入Apple AI聊天机器人的Pages、Keynote和Numbers。"
         }
       ]
+    },
+    "music/musicflux-text-music-editing": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "MusicFlux: Flexible Conditioning for Text-Guided Music Generation and Editing — Teysir Baoueb、Leonardo Boulitreau de M. M. Marques、Paraskevas Stamatiadis、Gaël Richard（Télécom Paris）。"
+        },
+        {
+          "t": "p",
+          "x": "音乐编辑是在保留原有属性的同时对现有录音进行改造。近期方法以上下文音频作为条件，让预训练的文本生成音乐模型适用于修补、事件插入或修复等任务。像图像编辑领域近来提出的那样把源音频当作上下文信息处理，对音乐而言因音频序列较长，计算成本很高。"
+        },
+        {
+          "t": "img",
+          "src": "https://musicflux.onrender.com/assets/img/fig-overview.png",
+          "cap": "Fig. 1. MusicFlux在共享的潜在条件化范式下统一表述生成、修补和SFX修复。"
+        },
+        {
+          "t": "p",
+          "x": "作者基于高效的预训练流匹配文本生成音频模型TangoFlux，开发了文本引导的音乐编辑器MusicFlux。他们先将其微调用于文本生成音乐，再通过音频、文本与时间掩码的联合条件化，使其适用于修补/外延补全和音效修复。"
+        },
+        {
+          "t": "img",
+          "src": "https://musicflux.onrender.com/assets/img/fig-architectures.png",
+          "cap": "Fig. 2. MusicFlux-Concat（左）将源与目标潜变量拼接；MusicFlux-CAR（右）使用移位网络，并保持原始序列长度。"
+        },
+        {
+          "t": "p",
+          "x": "两种条件化方法在编辑性能与计算效率之间各有取舍：MusicFlux-Concat编辑性能更强，而MusicFlux-CAR保持原始序列长度，并将推理耗时和动态内存降低50%以上。两者均为基于开放数据训练的单一多任务模型，但仍可与针对特定任务的基线模型相媲美。Demo: https://musicflux.onrender.com/"
+        }
+      ]
+    },
+    "music/labelcamp-ai-connector": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/08/news-stories-images-4x3-2026-08-26T131412.133.png?fit=2000%2C1500&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "探索智能体AI与LLM连接的音乐行业工具和服务越来越多。今天，Idol旗下的发行管理平台Labelcamp和音乐匹配初创公司MyPart都传来了消息。"
+        },
+        {
+          "t": "p",
+          "x": "Labelcamp新推出的“AI Connector”可与Claude、ChatGPT等聊天机器人协同工作，让客户在这些工具中通过对话界面处理目录和数据管理任务。"
+        },
+        {
+          "t": "p",
+          "x": "Idol举例解释说：“只需一条提示词，就能批量调整多张发行作品的地区版权，或连同配套单曲一起重新安排专辑发布计划。它还可以修复整批导入数据的元数据，在整个目录中补全缺失的DSP艺人IDs，或解释某个平台为何拒绝了一次交付。”"
+        },
+        {
+          "t": "p",
+          "x": "这正是Model Context Protocol（MCP）技术的实际应用，也是MyPart正在做的事情之一。该公司发布了“将音乐理解与对话式及自动化创作流程相结合的通用MCP AI音乐智能体……旨在解读音乐、歌词、视觉节奏、场景转换、受众语境和用户偏好，以支持音乐搜索、匹配和歌单生成”。"
+        },
+        {
+          "t": "p",
+          "x": "MyPart还介绍了其技术如何通过与Epidemic Sound和Overwolf的合作应用于自适应游戏音乐领域。这次集成涉及游戏内应用“Songhunt”，它会从Epidemic的曲库中挑选与屏幕上游戏画面相匹配的音乐。"
+        }
+      ]
+    },
+    "music/culturecustodian-cloned-artist": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/culturecustodian.com/wp-content/uploads/2026/11/WEB-How-We-Distributed-Cloned-AI-Music-From-a-Fake-Nigerian-Artist.jpg?fit=1024%2C1024&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "我们从零打造了一位虚构的尼日利亚艺人——克隆的声音、AI-generated歌曲，名字背后没有任何真人——然后把我们的所作所为如实告诉了各发行平台。"
+        },
+        {
+          "t": "p",
+          "x": "我们的内部制作人录制了一段原创Afrobeats副歌GMYL，署名为虚构身份CC Custody。我们把这段人声输入Kits.ai和ElevenLabs进行克隆，再用Suno和Udio将歌曲重制为No Do or Die。第二首歌Omo Na You完全由克隆声音演唱，署名为另一个虚构身份KX3。"
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/culturecustodian.com/wp-content/uploads/2026/11/KITS-AI-CLONING.jpg?resize=1024%2C482&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "在DistroKid上，我们对是否使用AI回答了“Yes”，并承认CC Custody是AI身份，但发行仍一路顺利走到“Hooray, your music is on its way!”。我们自己撤下了它。CD Baby的政策禁止一切AI内容，却从未询问AI相关问题，并在经过十天人工审核后批准了Omo Na You。"
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/culturecustodian.com/wp-content/uploads/2026/11/CD-BABY-SUCCESSFUL-RELEASE-1.jpg?fit=1024%2C490&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "免费发行商Freecords拒绝了No Do or Die；RouteNote在上传2周多之后仍将其留在审核队列中。"
+        },
+        {
+          "t": "p",
+          "x": "律师Fawehinmi ‘Foza’ Oyinkansola警告称：“然而，发行并不足以证明合法所有权或权利清算。这会在整个价值链上带来潜在责任。”"
+        }
+      ]
+    },
+    "music/nvidia-suno-subpoena-quash": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/Nvidia-Office-1024x546.jpg",
+          "cap": "Photo Credit: Amir Shtanger"
+        },
+        {
+          "t": "p",
+          "x": "Nvidia旗下风险投资部门NVentures在UMG v. Suno案中，针对Universal Music和Sony Music发出的作证传票，提交了措辞强硬的撤销动议。"
+        },
+        {
+          "t": "p",
+          "x": "这份传票于八月曝光，随后经过修改，内容涉及Nvidia“与Suno在投资前的业务关系”及其高管、Suno就该投资提供的文件、训练数据尽职调查与侵权诉讼风险，以及Suno对录音制品市场的潜在影响。"
+        },
+        {
+          "t": "p",
+          "x": "撤销动议称：“经过数月的谈判、收集和审查，NVentures已提交6,324份文件，共计28,194页。”Nvidia表示：“在投资者已大量提交材料的情况下，要求其作证尤为不妥。”"
+        },
+        {
+          "t": "p",
+          "x": "Suno还面临Elvis Presley Enterprises以及Eminem的版权出版商Eight Mile Style提起的诉讼。"
+        }
+      ]
+    },
+    "music/spotify-dj-new-voices": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23985252/VRG_Illo_STK130_K_Radtke_Spotify_Podcast_1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "Spotify DJ 新增了声音，也终于可以让它别再唠叨了。"
+        },
+        {
+          "t": "p",
+          "x": "DJ 现在新增了八种不同口音的英语声音选项，以及两种新的西班牙语声音，方便你按喜好定制体验。如果你听腻了 Spotify DJ 在歌曲之间的解说，也可以将其关闭，让音乐播放时少些打断。"
+        }
+      ]
     }
   }
 }

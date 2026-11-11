@@ -1,96 +1,101 @@
 {
-  "date": "2026-11-11",
+  "date": "2026-11-12",
   "section": "gadgets",
   "items": [
     {
-      "title": "Pixel 10 with Gemini Intelligence, custom widgets, and more in our November Pixel Drop",
+      "title": "Google brings the Gemini app to Apple CarPlay",
+      "url": "https://www.engadget.com/2314093/google-brings-the-gemini-app-to-apple-carplay/",
+      "source": "Engadget",
+      "category": "gadgets",
       "tool": "Gadgets",
       "accent": "#ff5a4d",
       "motif": "headset",
-      "url": "https://blog.google/products-and-platforms/devices/pixel/november-2026-pixel-drop/",
-      "source": "Google Blog",
-      "published_iso": "2026-11-10T19:00:00+00:00",
-      "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/header_Pixel_drop_image.width-1300.jpg",
-      "excerpt": "Explore the latest Pixel features, including Gemini Intelligence on Pixel 10, HiLight alerts for Google Messages, and more.",
-      "rationale": "Primary-source release: the November Pixel Drop brings Gemini Intelligence (Rambler dictation, Create My Widget, proactive Gemini actions) to Pixel 10 owners today, so it changes what the phone does tomorrow."
+      "published_iso": "2026-11-11T19:54:55+00:00",
+      "og_image": "https://www.engadget.com/img/gallery/google-brings-the-gemini-app-to-apple-carplay/l-intro-1794426857.jpg",
+      "excerpt": "The chatbot was already available through the Google Maps app.",
+      "rationale": "Gemini lands as a standalone app on CarPlay, so iPhone drivers get Google's assistant in the dash; this is a new platform launch."
     },
     {
-      "title": "Ring’s Indoor Drone Camera Is Back—and Now Powered by AI",
+      "title": "Blue Phone gives Google's Pixel 10 Pro an AI assistant that goes beyond Gemini",
+      "url": "https://www.androidauthority.com/blue-os-google-pixel-10-pro-3733835/",
+      "source": "Android Authority",
+      "category": "gadgets",
       "tool": "Gadgets",
       "accent": "#0070f3",
       "motif": "headset",
-      "url": "https://www.wired.com/story/ring-robotics-drone-cam-rover-cam/",
-      "source": "WIRED",
-      "published_iso": "2026-11-10T13:30:00.000Z",
-      "og_image": "https://media.wired.com/photos/6af233321b32910f5c003593/191:100/w_1280,c_limit/Ring-Drone-Cam-Gear-DSC_0211.jpg",
-      "excerpt": "This $250 Drone Cam flies around your home to monitor threats. There’s also the Rover Cam for businesses, featuring the guts of Amazon’s former Astro robot.",
-      "rationale": "New hardware launch: Ring's $250 AI-piloted indoor Drone Cam (January) plus an Astro-derived Rover Cam, a priced, dated consumer robot product."
+      "published_iso": "2026-11-11T18:00:13+00:00",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2025/09/google-pixel-10-pro-screen-on-home-screen-scaled.jpg",
+      "excerpt": "Blue phone brings an AI-powered operating system to Pixel 10 Pro, letting an assistant handle tasks across apps.",
+      "rationale": "A third-party agentic OS on a Pixel that acts across apps. It is a concrete new product in the AI-phone race."
     },
     {
-      "title": "This New Linux-Based Desktop Operating System Is Built for AI Nerds",
-      "tool": "Gadgets",
-      "accent": "#7928ca",
-      "motif": "headset",
-      "url": "https://www.wired.com/story/kora-new-linux-based-desktop-operating-system-is-built-for-ai-nerds/",
-      "source": "WIRED",
-      "published_iso": "2026-11-10T14:00:00.000Z",
-      "og_image": "https://media.wired.com/photos/6af27401edee43782ec1ac6b/191:100/w_1280,c_limit/gear_ai_operating_system_nerdy.jpg",
-      "excerpt": "Built by Cyanogen’s cofounder, Kora is a next-gen alternative to Windows and macOS built for power users running local AI models.",
-      "rationale": "New platform: Kora, an AI-native Linux desktop OS co-engineered with Qualcomm for Snapdragon X2 Elite, built for running local models on-device."
-    },
-    {
-      "title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
-      "tool": "Gadgets",
-      "accent": "#2ec5c5",
-      "motif": "headset",
-      "url": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
-      "source": "Ars Technica",
-      "published_iso": "2026-11-10T15:00:39+00:00",
-      "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Credit_-Apptronik_-Mercedes-Benz-Apollo-2-using-Gemini-Robotics-2.5-to-autonomously-perform-automotive-kitting-at-a-Mercedes-Benz-factory-2560x1440.jpg",
-      "excerpt": "The new model is up to twice as successful at some tasks.",
-      "rationale": "New model release driving real robots (Apptronik Apollo at Mercedes-Benz) with up to 2x task success, plus an open jailbreak-safety benchmark for embodied AI."
-    },
-    {
-      "title": "Apple has new Mac app coming to make running local AI models easy",
+      "title": "Bizarre AI chip demo uses butter to highlight how new chip runs 40 degrees cooler than the competition",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/deepx-ai-chip-runs-so-cool-that-a-butter-heatsink-doesnt-melt-the-dx-m1-processor-impresses-in-a-bizarre-new-dairy-based-benchmark",
+      "source": "Tom's Hardware",
+      "category": "gadgets",
       "tool": "Gadgets",
       "accent": "#f5a623",
       "motif": "headset",
-      "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
-      "source": "9to5Mac",
-      "published_iso": "2026-11-10T19:15:32+00:00",
-      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Mac-mini.jpg?quality=82&strip=all&resize=1200,628",
-      "excerpt": "Leaker Aaron Perris has discovered evidence of a new Mac app in the works at Apple that makes it easy to run local AI models.",
-      "rationale": "Evidence of a first-party Apple app for running local models on Mac, a signal that on-device AI is moving from hobbyist tooling into macOS itself."
+      "published_iso": "2026-11-09T15:15:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/ZgC56W69q8WA6rhcBjxWKn-1920-80.jpg",
+      "excerpt": "South Korean chip startup DEEPX says its new AI chip will be at the heart of upcoming Hyundai robots.",
+      "rationale": "A memorable demo of a low-heat edge AI chip from a Korean company, with a Hyundai robot tie-in. It covers on-device AI hardware."
+    },
+    {
+      "title": "Gigabyte takes on Mac Studio with a tiny AI PC powered by Nvidia RTX Spark",
+      "url": "https://www.notebookcheck.net/Gigabyte-takes-on-Mac-Studio-with-a-tiny-AI-PC-powered-by-Nvidia-RTX-Spark.1447215.0.html",
+      "source": "Notebookcheck",
+      "category": "gadgets",
+      "tool": "Gadgets",
+      "accent": "#7928ca",
+      "motif": "headset",
+      "published_iso": "2026-11-10T20:45:00+01:00",
+      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/gigabyte-ai-top-aero-nvidia-rtx-spark.jpg",
+      "excerpt": "Gigabyte has launched the AI Top Aero, a compact desktop powered by Nvidia's RTX Spark platform and designed for local AI development, content creation and gaming. Its one-liter chassis packs a 20-core Grace CPU, a Blackwell GPU and up to 128 GB of memory, making it a Windows-bas",
+      "rationale": "A newly launched one-litre RTX Spark desktop with 128GB for local AI and creative work. It is a buyable Windows alternative to the Mac Studio."
+    },
+    {
+      "title": "Google Home update fixes Nest 'Live View' issues, improves Nest Hub and Gemini for speakers",
+      "url": "https://9to5google.com/2026/11/11/google-home-update-nest-hub-gemini-cameras/",
+      "source": "9to5Google",
+      "category": "gadgets",
+      "tool": "Gadgets",
+      "accent": "#2ec5c5",
+      "motif": "headset",
+      "published_iso": "2026-11-11T19:30:00+00:00",
+      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2024/04/Voice-controls-from-Nest-Hub-Photo-frame-view.jpg?quality=82&strip=all&resize=1200,628",
+      "excerpt": "A new Google Home update is rolling out with a fix for “Live View” issues affecting Nest Cam devices, improvements...",
+      "rationale": "The November Google Home release improves Gemini on speakers and the Nest Hub. It is a new rollout that differs from the 10-30 phrase-bug fix."
     }
   ],
   "dedup": {
     "checks": {
-      "https://blog.google/products-and-platforms/devices/pixel/november-2026-pixel-drop/": {
+      "https://www.engadget.com/2314093/google-brings-the-gemini-app-to-apple-carplay/": {
         "verdict": "new",
-        "nearest": "https://9to5google.com/2026/11/05/motorola-signature-27-gemini-intelligence-features/",
+        "nearest": "https://www.androidauthority.com/gemini-notebook-connected-app-3727634/",
         "new_action": ""
       },
-      "https://www.wired.com/story/ring-robotics-drone-cam-rover-cam/": {
+      "https://www.androidauthority.com/blue-os-google-pixel-10-pro-3733835/": {
         "verdict": "new",
-        "nearest": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
+        "nearest": "https://www.androidauthority.com/gemini-overlay-sparkling-animation-rollout-3729835/",
         "new_action": ""
       },
-      "https://www.wired.com/story/kora-new-linux-based-desktop-operating-system-is-built-for-ai-nerds/": {
+      "https://www.tomshardware.com/tech-industry/data-centers/deepx-ai-chip-runs-so-cool-that-a-butter-heatsink-doesnt-melt-the-dx-m1-processor-impresses-in-a-bizarre-new-dairy-based-benchmark": {
         "verdict": "new",
-        "nearest": "https://9to5google.com/2026/10/12/googlebook-os-review/",
+        "nearest": "",
         "new_action": ""
       },
-      "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/": {
+      "https://www.notebookcheck.net/Gigabyte-takes-on-Mac-Studio-with-a-tiny-AI-PC-powered-by-Nvidia-RTX-Spark.1447215.0.html": {
         "verdict": "new",
-        "nearest": "https://www.digitaltrends.com/phones/a-7-board-lets-an-ai-control-an-iphone-without-jailbreaking-it/",
+        "nearest": "https://www.notebookcheck.net/RTX-Spark-mini-PC-promises-to-overcome-memory-limitations-using-Mechrevo-s-unusual-AI-SSD.1422107.0.html",
         "new_action": ""
       },
-      "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/": {
+      "https://9to5google.com/2026/11/11/google-home-update-nest-hub-gemini-cameras/": {
         "verdict": "new",
-        "nearest": "https://www.macrumors.com/2026/10/15/meta-muse-spark-open-mac-studio/",
+        "nearest": "https://9to5google.com/2026/10/29/google-home-gemini-update-fixes-understand-phrase-bug/",
         "new_action": ""
       }
     },
-    "note": "Pixel Drop is a distinct release from the 11-06 Motorola Signature 27 card (different device, new rollout), and gadgets owns Pixel Drop / Gemini Intelligence per the cross-section brief. Within-pool duplicates dropped: cluster c3 Pixel Drop retellings (Android Authority, Digital Trends 'order groceries', Engadget Rambler) plus Google Blog 'Gemini Intelligence: new features, on more devices' and Digital Trends Pixel Watch workout guidance (same Nov Pixel Drop release); cluster c0 CNET Ring drone and TechRadar Siminoff 'AI or SI' (same Ring Drone Cam launch); etnews Qualcomm-Kora (same Kora OS launch as WIRED); Tom's Hardware DEEPX butter demo (same chip story as SamMobile DX-M2). Dropped as already published: Tom's Guide Siri Recap = watchOS 27.3 Siri Recap card of 2026-11-04 (MacRumors); 9to5Mac Apple $50 intelligence usage packs = assigned to and run in music on 2026-11-10. Passed over on scoring/diversity (not duplicates): Samsung Galaxy AI paid plan (9to5Google opinion, ZDNET report; pricing/business), Samsung Keyboard Rambler (speculative, follows 11-06 Gboard Rambler card), DEEPX DX-M2 chip (chip/foundry), Gigabyte AI Top Aero and HP ZGX Fury (more AI desktops after many mini-PC cards), MSI MEG X monitor (AI incidental), Alexa Photo Frame review, CES 2027 innovation awards (etnews). Cross-section exact-grep of published_urls.json not executed (no shell in this agent); all five picks were published after the 11-10 run, but the orchestrator should confirm today's science run did not also take Gemini Robotics 2.5 (DeepMind) and that no other section took Kora or Ring."
+    "note": "Dropped as duplicates: Aina AI ring (Notebookcheck), the same product as the 11-06 Wired Aina exclusive; Nothing record-button teaser, another teaser for the device already published 11-05 (Verge) with no new launch. Dropped within the pool: 9to5Google 'Google Home brings back sounds for Gemini', the same-day Google Home update cluster (kept the update-notes article); MSI EdgeMesa N, overlapping with Gigabyte AI Top Aero (both 128GB Blackwell local-AI mini desktops; kept one). Skipped on other grounds: Windows 11 Photos x Adobe gen AI (Adobe MAX tie-in, reserved to keep clear of design's Adobe pick); Altman/Samsung vision (exec commentary); CNET Apple Intelligence camera requirements (evergreen explainer); Apple glasses supplier rumor (thin); Stingray salmon lasers (long-deployed product, AI incidental); One UI 9 Watch (AI incidental); etnews Antarctic robot marathon (the next-best fresh item, held as backfill). Cross-section: the picks are dated 11-09 to 11-11. published_urls.json was spot-read but not fully grepped (Read-only tools in this run). The orchestrator should exact-grep the five URLs before roll."
   }
 }

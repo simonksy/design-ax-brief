@@ -1,158 +1,148 @@
 {
-  "date": "2026-11-11",
+  "date": "2026-11-12",
   "section": "books",
   "picks": [
     {
-      "title": "Madras High Court orders FIR over fake, AI-generated books in public libraries",
-      "url": "https://www.barandbench.com/news/litigation/madras-high-court-orders-fir-over-fake-ai-generated-books-in-public-libraries",
-      "source": "Bar and Bench",
+      "url": "https://www.bbc.co.uk/news/articles/cmglr260z7eko",
+      "source": "BBC News",
       "tool": "Books",
       "accent": "#f5a623",
       "motif": "swatch",
-      "rationale": "Follow-up with a new ruling: the Madras High Court orders Tamil Nadu's vigilance directorate to register an FIR and freeze accounts over library procurement of suspected AI-generated books by fake authors, moving the 11-07 government probe into criminal proceedings.",
-      "published_iso": "2026-11-10T15:13:11Z",
-      "og_image": "https://media.assettype.com/barandbench%2F2022-04%2F886749e2-68b4-4658-84a9-4ad607584aaf%2F8.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "excerpt": "The Madras High Court directed Tamil Nadu's vigilance directorate (DVAC) to register an FIR and freeze accounts over the Periyar library procurement of suspected AI-generated books by fake authors at inflated prices."
+      "rationale": "Caine Prize closes its AI-authorship review: no evidence the winning story was AI-generated, winner confirmed. This is the official outcome of the 10-13 accusation story.",
+      "published_iso": "2026-11-11T20:00:54Z",
+      "og_image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d560/live/9c22bcf0-ddfe-11f1-8445-15eb55286f71.jpg",
+      "excerpt": "The Caine Prize's review found no evidence that Simbarashe Kundizeza's winning story 'The Blue Fighter' was AI-generated and confirmed him as 2026 winner; he had denied the allegation made in a US magazine."
     },
     {
-      "title": "“글이라곤 일기만 썼는데”…AI로 책 낸 엔지니어가 깨달은 것",
-      "url": "https://weekly.khan.co.kr/article/202611100600001",
-      "source": "주간경향",
+      "url": "https://www.voiceoverherald.com/unions-openai-fair-use-brief-voice-actors-nava-survey/",
+      "source": "Voice Over Herald",
       "tool": "Books",
       "accent": "#0070f3",
       "motif": "swatch",
-      "rationale": "New book: a car-design engineer with almost no writing experience planned and edited a published 'autobiography' narrated by Claude in the first person, a concrete case of AI-assisted trade publishing in Korea.",
-      "published_iso": "2026-11-10T06:00:00+09:00",
-      "og_image": "https://img.khan.co.kr/weekly/2026/11/10/news-p.v1.20261106.c3229319ccba4739bc5fea8c53f060a4_P1.png",
-      "excerpt": "Anthropic의 Claude가 일인칭으로 자신의 탄생·기억·의식을 서술한 신간 <클로드 자서전: 나는 기억하지 못할 것이다>(동아시아)를 기획·엮은 사람은 글쓰기 경험이 거의 없는 자동차 설계 엔지니어 '메리'(가명)였다."
+      "rationale": "New court filing: SAG-AFTRA, AFM and WGA seek to file a brief in the OpenAI copyright case, putting audiobook narrators' lost work (NAVA survey) on the record.",
+      "published_iso": "2026-11-01T14:05:00+00:00",
+      "og_image": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/hero-2.jpg",
+      "excerpt": "SAG-AFTRA, AFM and the WGA asked to file a brief in the OpenAI copyright case, citing a NAVA survey of voice actors (including audiobook narrators) losing work to synthetic voices."
     },
     {
-      "title": "[단독] 카카오픽코마 자회사 '보이스루', AI 캐릭터챗 사업 진출",
-      "url": "https://www.ddaily.co.kr/page/view/2026111015494003840",
-      "source": "디지털데일리",
+      "url": "https://www.xda-developers.com/claude-apps-kindle-jailbreak/",
+      "source": "XDA Developers",
       "tool": "Books",
       "accent": "#7928ca",
       "motif": "swatch",
-      "rationale": "New service: Kakao Piccoma's localization subsidiary Voithru expands into AI character chat with webtoon and web-novel characters, another major platform turning serialized IP into conversational products.",
-      "published_iso": "2026-11-10T17:22:29+09:00",
-      "og_image": "https://www.ddaily.co.kr/photos/2026/11/10/2026111015483828933_l.jpg",
-      "excerpt": "카카오픽코마의 콘텐츠 현지화 자회사 보이스루가 웹툰·웹소설 캐릭터와 대화하는 AI 캐릭터챗 서비스로 사업을 확장한다."
+      "rationale": "Hands-on: a reader used Claude to build custom apps for a jailbroken 7th-gen Kindle. This is a different project from the 11-08 offline-LLM Kindle hack.",
+      "published_iso": "2026-11-11T07:15:09Z",
+      "og_image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/11/claude-kindle-featured.jpeg?w=1600&h=900&fit=crop",
+      "excerpt": "A hobbyist used Anthropic's Claude to build custom apps for a jailbroken 7th-gen Kindle, turning the e-reader into a device that does far more than display books."
     },
     {
-      "title": "\"교사가 쓰고 AI가 그렸다\" 인천시교육청, '상호존중 그림책' 12종 일선 학교 보급",
-      "url": "https://www.cstimes.com/news/articleView.html?idxno=727217",
-      "source": "컨슈머타임스",
+      "url": "https://biz.heraldcorp.com/article/10932222",
+      "source": "헤럴드경제",
       "tool": "Books",
       "accent": "#2ec5c5",
       "motif": "swatch",
-      "rationale": "New release: Incheon's education office distributes 12 picture books written by teachers and illustrated with AI image tools to schools, a concrete public-sector case of AI-illustrated children's books reaching classrooms.",
-      "published_iso": "2026-11-09T21:24:29+09:00",
-      "og_image": "https://www.cstimes.com/news/photo/202611/727217_648781_2021.jpg",
-      "excerpt": "인천시교육청이 현직 교사가 대본을 쓰고 AI 이미지 생성 도구로 삽화를 그린 '상호존중 그림책' 12종을 일선 학교에 보급한다."
+      "rationale": "A concrete new deal: five K-webtoon IPs licensed for Chinese AI short-drama production, with release set for November. It shows a new AI adaptation route for comics IP.",
+      "published_iso": "2026-11-10T14:17:23+09:00",
+      "og_image": "https://wimg.heraldcorp.com/news/cms/2026/11/10/news-p.v1.20261110.002e6a566b2744a899c811698375eee4_P2.png",
+      "excerpt": "자주스토리가 한국 웹툰 원작 IP 5종을 활용한 중국 AI 숏드라마 제작 계약을 완료하고 11월 공개를 준비한다."
     },
     {
-      "title": "AI is changing book discovery — here's what booksellers can actually do",
-      "url": "https://www.thebookseller.com/comment/ai-changing-book-discovery-what-booksellers-can-do",
-      "source": "The Bookseller",
+      "url": "https://www.koreajoongangdaily.com/lifestyle/a-human-touch-why-the-audiobook-industry-still-seeks-voice-actors-over-ai/12955839",
+      "source": "Korea JoongAng Daily",
       "tool": "Books",
       "accent": "#eb367f",
       "motif": "swatch",
-      "rationale": "Actionable for booksellers: practical steps to make sure ChatGPT, Gemini and Perplexity send readers to your shop when they ask where to buy a book.",
-      "published_iso": "2026-11-06T08:45:00Z",
-      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/684/Bookshop-c-Shutterstock.jpg",
-      "excerpt": "When a reader asks ChatGPT, Gemini or Perplexity where to buy a book, make sure they get your answer, writes Simon Young."
+      "rationale": "How Korean audiobook producers actually split the work: AI narration fills the commercially unviable backlist, while flagship titles still go to human actors.",
+      "published_iso": "2026-11-09T22:00:00Z",
+      "og_image": "https://image.koreajoongangdaily.com/12955845.jpg?imageId=12955845&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "excerpt": "Korean audiobook producers mainly use AI narration to fill gaps — audio versions of books otherwise commercially unviable — while flagship titles still go to human voice actors."
     }
   ],
   "items": [
     {
-      "title": "Madras High Court orders FIR over fake, AI-generated books in public libraries",
-      "url": "https://www.barandbench.com/news/litigation/madras-high-court-orders-fir-over-fake-ai-generated-books-in-public-libraries",
-      "source": "Bar and Bench",
+      "url": "https://www.bbc.co.uk/news/articles/cmglr260z7eko",
+      "source": "BBC News",
       "tool": "Books",
       "accent": "#f5a623",
       "motif": "swatch",
-      "rationale": "Follow-up with a new ruling: the Madras High Court orders Tamil Nadu's vigilance directorate to register an FIR and freeze accounts over library procurement of suspected AI-generated books by fake authors, moving the 11-07 government probe into criminal proceedings.",
-      "published_iso": "2026-11-10T15:13:11Z",
-      "og_image": "https://media.assettype.com/barandbench%2F2022-04%2F886749e2-68b4-4658-84a9-4ad607584aaf%2F8.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "excerpt": "The Madras High Court directed Tamil Nadu's vigilance directorate (DVAC) to register an FIR and freeze accounts over the Periyar library procurement of suspected AI-generated books by fake authors at inflated prices."
+      "rationale": "Caine Prize closes its AI-authorship review: no evidence the winning story was AI-generated, winner confirmed. This is the official outcome of the 10-13 accusation story.",
+      "published_iso": "2026-11-11T20:00:54Z",
+      "og_image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d560/live/9c22bcf0-ddfe-11f1-8445-15eb55286f71.jpg",
+      "excerpt": "The Caine Prize's review found no evidence that Simbarashe Kundizeza's winning story 'The Blue Fighter' was AI-generated and confirmed him as 2026 winner; he had denied the allegation made in a US magazine."
     },
     {
-      "title": "“글이라곤 일기만 썼는데”…AI로 책 낸 엔지니어가 깨달은 것",
-      "url": "https://weekly.khan.co.kr/article/202611100600001",
-      "source": "주간경향",
+      "url": "https://www.voiceoverherald.com/unions-openai-fair-use-brief-voice-actors-nava-survey/",
+      "source": "Voice Over Herald",
       "tool": "Books",
       "accent": "#0070f3",
       "motif": "swatch",
-      "rationale": "New book: a car-design engineer with almost no writing experience planned and edited a published 'autobiography' narrated by Claude in the first person, a concrete case of AI-assisted trade publishing in Korea.",
-      "published_iso": "2026-11-10T06:00:00+09:00",
-      "og_image": "https://img.khan.co.kr/weekly/2026/11/10/news-p.v1.20261106.c3229319ccba4739bc5fea8c53f060a4_P1.png",
-      "excerpt": "Anthropic의 Claude가 일인칭으로 자신의 탄생·기억·의식을 서술한 신간 <클로드 자서전: 나는 기억하지 못할 것이다>(동아시아)를 기획·엮은 사람은 글쓰기 경험이 거의 없는 자동차 설계 엔지니어 '메리'(가명)였다."
+      "rationale": "New court filing: SAG-AFTRA, AFM and WGA seek to file a brief in the OpenAI copyright case, putting audiobook narrators' lost work (NAVA survey) on the record.",
+      "published_iso": "2026-11-01T14:05:00+00:00",
+      "og_image": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/hero-2.jpg",
+      "excerpt": "SAG-AFTRA, AFM and the WGA asked to file a brief in the OpenAI copyright case, citing a NAVA survey of voice actors (including audiobook narrators) losing work to synthetic voices."
     },
     {
-      "title": "[단독] 카카오픽코마 자회사 '보이스루', AI 캐릭터챗 사업 진출",
-      "url": "https://www.ddaily.co.kr/page/view/2026111015494003840",
-      "source": "디지털데일리",
+      "url": "https://www.xda-developers.com/claude-apps-kindle-jailbreak/",
+      "source": "XDA Developers",
       "tool": "Books",
       "accent": "#7928ca",
       "motif": "swatch",
-      "rationale": "New service: Kakao Piccoma's localization subsidiary Voithru expands into AI character chat with webtoon and web-novel characters, another major platform turning serialized IP into conversational products.",
-      "published_iso": "2026-11-10T17:22:29+09:00",
-      "og_image": "https://www.ddaily.co.kr/photos/2026/11/10/2026111015483828933_l.jpg",
-      "excerpt": "카카오픽코마의 콘텐츠 현지화 자회사 보이스루가 웹툰·웹소설 캐릭터와 대화하는 AI 캐릭터챗 서비스로 사업을 확장한다."
+      "rationale": "Hands-on: a reader used Claude to build custom apps for a jailbroken 7th-gen Kindle. This is a different project from the 11-08 offline-LLM Kindle hack.",
+      "published_iso": "2026-11-11T07:15:09Z",
+      "og_image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/11/claude-kindle-featured.jpeg?w=1600&h=900&fit=crop",
+      "excerpt": "A hobbyist used Anthropic's Claude to build custom apps for a jailbroken 7th-gen Kindle, turning the e-reader into a device that does far more than display books."
     },
     {
-      "title": "\"교사가 쓰고 AI가 그렸다\" 인천시교육청, '상호존중 그림책' 12종 일선 학교 보급",
-      "url": "https://www.cstimes.com/news/articleView.html?idxno=727217",
-      "source": "컨슈머타임스",
+      "url": "https://biz.heraldcorp.com/article/10932222",
+      "source": "헤럴드경제",
       "tool": "Books",
       "accent": "#2ec5c5",
       "motif": "swatch",
-      "rationale": "New release: Incheon's education office distributes 12 picture books written by teachers and illustrated with AI image tools to schools, a concrete public-sector case of AI-illustrated children's books reaching classrooms.",
-      "published_iso": "2026-11-09T21:24:29+09:00",
-      "og_image": "https://www.cstimes.com/news/photo/202611/727217_648781_2021.jpg",
-      "excerpt": "인천시교육청이 현직 교사가 대본을 쓰고 AI 이미지 생성 도구로 삽화를 그린 '상호존중 그림책' 12종을 일선 학교에 보급한다."
+      "rationale": "A concrete new deal: five K-webtoon IPs licensed for Chinese AI short-drama production, with release set for November. It shows a new AI adaptation route for comics IP.",
+      "published_iso": "2026-11-10T14:17:23+09:00",
+      "og_image": "https://wimg.heraldcorp.com/news/cms/2026/11/10/news-p.v1.20261110.002e6a566b2744a899c811698375eee4_P2.png",
+      "excerpt": "자주스토리가 한국 웹툰 원작 IP 5종을 활용한 중국 AI 숏드라마 제작 계약을 완료하고 11월 공개를 준비한다."
     },
     {
-      "title": "AI is changing book discovery — here's what booksellers can actually do",
-      "url": "https://www.thebookseller.com/comment/ai-changing-book-discovery-what-booksellers-can-do",
-      "source": "The Bookseller",
+      "url": "https://www.koreajoongangdaily.com/lifestyle/a-human-touch-why-the-audiobook-industry-still-seeks-voice-actors-over-ai/12955839",
+      "source": "Korea JoongAng Daily",
       "tool": "Books",
       "accent": "#eb367f",
       "motif": "swatch",
-      "rationale": "Actionable for booksellers: practical steps to make sure ChatGPT, Gemini and Perplexity send readers to your shop when they ask where to buy a book.",
-      "published_iso": "2026-11-06T08:45:00Z",
-      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/684/Bookshop-c-Shutterstock.jpg",
-      "excerpt": "When a reader asks ChatGPT, Gemini or Perplexity where to buy a book, make sure they get your answer, writes Simon Young."
+      "rationale": "How Korean audiobook producers actually split the work: AI narration fills the commercially unviable backlist, while flagship titles still go to human actors.",
+      "published_iso": "2026-11-09T22:00:00Z",
+      "og_image": "https://image.koreajoongangdaily.com/12955845.jpg?imageId=12955845&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "excerpt": "Korean audiobook producers mainly use AI narration to fill gaps — audio versions of books otherwise commercially unviable — while flagship titles still go to human voice actors."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.barandbench.com/news/litigation/madras-high-court-orders-fir-over-fake-ai-generated-books-in-public-libraries": {
+      "https://www.bbc.co.uk/news/articles/cmglr260z7eko": {
         "verdict": "follow-up",
-        "nearest": "https://www.indiatoday.in/india/tamil-nadu/story/periyar-arivulagam-book-purchase-probe-ai-errors-inflated-prices-vijay-tvk-dmk-3034039-2026-11-06",
-        "new_action": "Madras High Court ruling (Nov 10) directing DVAC to register an FIR and freeze accounts, after the state government's probe order published 11-07"
+        "nearest": "https://www.thebookseller.com/news/caine-prize-initiates-human-centred-process-after-zimbabwean-winner-accused-of-ai-use",
+        "new_action": "Caine Prize announced the outcome of its review: no evidence of AI generation, and Kundizeza is confirmed as the 2026 winner"
       },
-      "https://weekly.khan.co.kr/article/202611100600001": {
+      "https://www.voiceoverherald.com/unions-openai-fair-use-brief-voice-actors-nava-survey/": {
         "verdict": "new",
-        "nearest": "https://www.theverge.com/entertainment/1010433/jason-jones-ai-novel-halo-destiny",
+        "nearest": "https://www.thebookseller.com/news/publishers-urge-us-court-to-reject-openais-fair-use-defence-in-copyright-case",
         "new_action": ""
       },
-      "https://www.ddaily.co.kr/page/view/2026111015494003840": {
+      "https://www.xda-developers.com/claude-apps-kindle-jailbreak/": {
+        "verdict": "new",
+        "nearest": "https://www.xda-developers.com/someone-got-an-offline-llm-running-on-a-2015-kindle-paperwhite-even-if-its-quite-slow/",
+        "new_action": ""
+      },
+      "https://biz.heraldcorp.com/article/10932222": {
         "verdict": "new",
         "nearest": "https://www.news1.kr/it-science/internet-platform/6320039",
         "new_action": ""
       },
-      "https://www.cstimes.com/news/articleView.html?idxno=727217": {
+      "https://www.koreajoongangdaily.com/lifestyle/a-human-touch-why-the-audiobook-industry-still-seeks-voice-actors-over-ai/12955839": {
         "verdict": "new",
-        "nearest": "https://www.globaltimes.cn/page/202610/1373304.shtml",
-        "new_action": ""
-      },
-      "https://www.thebookseller.com/comment/ai-changing-book-discovery-what-booksellers-can-do": {
-        "verdict": "new",
-        "nearest": "https://scholarlykitchen.sspnet.org/2026/10/15/guest-post-the-evolution-of-eras-agentic-discovery-makes-way-for-agentic-consumption/",
+        "nearest": "https://www.provideocoalition.com/audiobooks-with-multiple-voices-for-dialog-using-human-actors-or-cloned-with-elevenlabs/",
         "new_action": ""
       }
     },
-    "note": "SWAP pass: removed AUTOMATON 'MAGES says AI translation is a long way from viable for visual novels' — exact URL already published 2026-11-07 (published_urls.json). Replaced with Incheon education office's 12 teacher-written, AI-illustrated picture books (컨슈머타임스, 11-09): a concrete distribution event with no history_match and no prior coverage in the 30-day digest (nearest is the unrelated China AI-illustration recall, 11-02); cstimes uses ?idxno= so exact-grep the full URL in the ledger, not norm_url. Passed over for the swap: Hivemind 'Aurora translation supporters' (donga, follow-up to the donga 10-13 Hivemind series, a company program launch closer to business news); Chungnam 'Ongeul' publisher briefing (an info session, not a release); Tech Times AO3 outage (low-credibility outlet, running AO3 story from 404 Media 11-04). Earlier drops stand: Mint 'Gemini textbooks' (likely-repeat of blog.google 11-02); sedaily '딸깍 출판' (running theme, sedaily 10-17 / Hankook 11-04); PW Spines $64M raise (funding); WebtoonEnt earnings-call StoryChat (earnings, same theme and outlet as Voithru); Scholarly Kitchen x2, Brittle Paper podcast, Nocut webtoon trend, NY Post first-person, Korea JoongAng Daily audiobook feature (commentary/features, no new event); SIBF AI photo booth, Sanders AI book-photo (low value). Orchestrator should exact-grep all 5 pick URLs in published_urls.json and check cross-section clashes."
+    "note": "Dropped as same-story/commentary on published events: Publishing Perspectives France roundup (Goncourt 11-05 + Prix Pascal 10-21); The Hindu Prix Pascal opinion (10-21); Tomorrow's Publisher illustrator brief (follows the 10-30 AOI survey); Jane Friedman AI-detection essay (covered by the NPR 11-03 and Wired 11-10 items); 시사IN AI 학습 기획 (running book-buying/training story 10-15..11-08); 노컷 웹툰 쇼츠·AI 기획 (nocut 10-27 webtoon feature); 디지털데일리 웹툰엔터 AI 스토리챗 metric (an earnings-call number on the byUs/Bias chat already carded 10-26, plus ddaily character-chat 11-11). Passed over as weaker (commentary or low novelty): three Scholarly Kitchen essays, Book Riot monthly roundup, JoongAng opinion column, 오마이뉴스 illustrator feature, fnnews 제주, 구리시 자서전, Broken Frontier stamp rally (no og_image). Cross-section check: none of the picks are in today's gadgets or movies pools. published_urls.json (170k tokens) could not be exact-grepped with Read only, so the VOH unions brief and the XDA Kindle item should get a grep pass for music/politics/gadgets before roll."
   }
 }

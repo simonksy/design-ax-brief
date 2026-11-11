@@ -10698,6 +10698,142 @@
           "cap": "Un entorno generado con Lyra 2.0 importado en NVIDIA Isaac Sim. Crédito de imagen: NVIDIA."
         }
       ]
+    },
+    "games/tripo-tripothon-3d-hackathon": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/59/6aebbb95ac365.jpg",
+          "cap": "Tripothon S1"
+        },
+        {
+          "t": "p",
+          "x": "Tripothon S1, el primer hackathon global de construcción de mundos organizado por Tripo AI, reunió a más de 2,000 equipos inscritos de 78 países y regiones en cinco categorías: juegos, cine y VFX, VR/XR/AR, aplicaciones y diseño físico. Se celebró del 15 de septiembre al 20 de octubre de 2026 con el lema “A Gift for ___” y usó los modelos fundacionales 3D-native de Tripo y la Tripo API."
+        },
+        {
+          "t": "video",
+          "yt": "o46nONohM9s"
+        },
+        {
+          "t": "p",
+          "x": "El evento de San Francisco reunió a cerca de 60 equipos y más de 800 asistentes; la mayoría de los equipos tenía solo de una a tres personas. Allí, el segundo puesto fue para Dear Little Me, de Dulce Baerga, una app WebXR que convierte dibujos infantiles en juguetes 3D interactivos."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/ba/6aebbbda932bc.jpg",
+          "cap": "Halls of History: The Veiled Study"
+        },
+        {
+          "t": "p",
+          "x": "El premio principal de San Francisco fue para Halls of History: The Veiled Study, de Annette Lapham, un juego de misterio conversacional en el que la Tripo API genera artefactos únicos que los jugadores deben buscar. Gemtronic, de Aspirium, puso una mascota digital dentro de un anillo inteligente."
+        },
+        {
+          "t": "p",
+          "x": "En la competición global, el primer puesto fue para Somehow Still Alive, un shooter de supervivencia en tercera persona."
+        }
+      ]
+    },
+    "games/xbox-auto-sr-ally-x-120fps": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-27.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Microsoft anunció la disponibilidad general de Automatic Super Resolution (Auto SR) en las ROG XBOX Ally X y X20, junto con más compatibilidad con los AMD Ryzen AI-powered Copilot+ PCs. Auto SR usa la NPU para escalar juegos renderizados a resoluciones más bajas y funciona a nivel de Windows, sin integración por parte de los desarrolladores."
+        },
+        {
+          "t": "p",
+          "x": "Un nuevo Performance Mode eleva el techo anterior de frecuencia de imagen, de unos 60–75 FPS, a 120 FPS. En la demo de Rocket League de Microsoft a 720p, el juego promedió 70 FPS en Quality Mode frente a 115 FPS en Performance Mode."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Performance-Mode-115-FPS.webp",
+          "cap": "Auto SR Performance mode — 115 FPS. Imagen: Microsoft."
+        },
+        {
+          "t": "p",
+          "x": "Auto SR ya funciona directamente en las pantallas de las consolas portátiles, también con batería, y admite entrada 1080p; en una pantalla externa de mayor resolución puede escalar de 1080p a 1440p. También puede funcionar junto con Windows Auto HDR."
+        },
+        {
+          "t": "p",
+          "x": "La compatibilidad con portátiles, la compatibilidad con 1080p y la ampliación del soporte para AMD Ryzen AI ya están disponibles, mientras que Performance Mode y la compatibilidad con Auto HDR llegan de forma gradual mediante Windows Update."
+        }
+      ]
+    },
+    "games/nexon-ictai-steam-review-study": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.invenglobal.com/upload/image/2026/11/09/i1794187207575008.jpeg",
+          "cap": "ⓒ Nexon"
+        },
+        {
+          "t": "p",
+          "x": "Investigadores del Applied Analytics Lab de la AI Division de Nexon Korea ganaron el Best Paper Award en ICTAI 2026 (IEEE International Conference on Tools with Artificial Intelligence) por un estudio sobre la aceptación de la AI en los juegos por parte de los jugadores, que analizó unos 19.37 millones de reseñas de usuarios de Steam."
+        },
+        {
+          "t": "p",
+          "x": "Las reseñas fueron positivas cuando la AI actuaba como colaboradora que ayudaba a los jugadores o se integraba de forma natural en la jugabilidad, y negativas cuando quedaba como un elemento periférico o resultaba difícil de controlar. Los investigadores concluyeron que lo que determina la aceptación es la experiencia que el jugador tiene del papel de la AI, y no la mera implementación de AI."
+        },
+        {
+          "t": "p",
+          "x": "Nexon usó los resultados para crear un marco de prediagnóstico que evalúa las funciones de AI antes del lanzamiento, y prevé ampliarlo a la fase de planificación. ICTAI se celebró del 2 al 4 en Florida."
+        }
+      ]
+    },
+    "games/amdlss5-dlss5-amd-mod": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/B3ULyP68EiAPD55fRNR8S7-2560-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "DLSS 5 lleva ya un tiempo disponible, pero obviamente no para las tarjetas de AMD, al menos no de forma oficial. Algunos mods ya habían conseguido ejecutar esta tecnología de renderizado neuronal asistida por aprendizaje automático en chips AMD RX 9000-series, y ahora hay uno notablemente mejorado."
+        },
+        {
+          "t": "p",
+          "x": "Ya está disponible la versión 2.0 de AMDLSS5 (via Wccftech). En comparación con “otros mods”, afirma lograr +64% de fps en Resident Evil Requiem y +11% de fps frente a su versión anterior."
+        },
+        {
+          "t": "p",
+          "x": "Si es cierto, es especialmente bueno: en las pruebas de PC Gamer con DLSS 5 en una AMD Radeon RX 9070 XT usando otro mod, Cyberpunk 2077 apenas llegó a 9 fps a 4K con ajustes RT Ultra y FSR 4 en Balanced."
+        },
+        {
+          "t": "p",
+          "x": "DLSS 5 puede ser muy exigente incluso en una GPU de Nvidia: en NBA 2K27, la tasa de fotogramas cayó hasta un 73% a 4K en una RTX 5080."
+        },
+        {
+          "t": "p",
+          "x": "Según el creador del mod en Reddit, entre los juegos compatibles están Resident Evil Requiem, Cyberpunk 2077, The Witcher 3 (solo la remasterización DX12), Red Dead Redemption 2, Shadow of the Tomb Raider, Nioh 3, Final Fantasy XVI, Monster Hunter Wilds, Onimusha: Way of the Sword, PRAGMATA y Grand Theft Auto V Enhanced (modo historia, solo sin conexión)."
+        },
+        {
+          "t": "p",
+          "x": "Algunos comentarios en Reddit señalan que la calidad no es muy buena con el mod activado. La instalación consiste en descargar los archivos y ejecutar el instalador, que “instala, actualiza o elimina el mod con un clic”."
+        }
+      ]
+    },
+    "games/ue59-preview-agent-tools": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/c3/images/6af2cdf44eb77/widen_1840x0.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Unreal Engine 5.8 iba a ser la última versión importante antes de Unreal Engine 6, pero hace una semana Epic decidió preparar una Unreal Engine 5.9 Preview a tiempo para la 2026 Epic AI MegaJam, que se celebra del 12 al 15 de noviembre. Es la primera versión del motor creada principalmente con flujos de trabajo agénticos."
+        },
+        {
+          "t": "p",
+          "x": "\"Un puñado de personas dirigió flotas de agentes para portar las herramientas de AI de nuestra rama de desarrollo de UE6 e implementar Web como plataforma de destino. Los agentes escribieron el código de la plataforma web, partiendo de la retirada plataforma HTML5 de UE4, mientras los ingenieros dirigían, revisaban y probaban el trabajo.\""
+        },
+        {
+          "t": "p",
+          "x": "La Preview se armó en aproximadamente una semana, con un periodo de QA más corto de lo habitual; Epic dice que todavía está \"limpiando parte del código escrito por agentes\". Trae mejoras importantes en scripting con Python y en flujos de trabajo AI-assisted, incluidos Unreal MCP, Unreal Assistant y Unreal Canvas, la herramienta de creación de contenido AI-powered de Epic, además de Lumen World Cache, un mejor culling de Nanite y el regreso de Web como plataforma de destino mediante WebAssembly y WebGPU."
+        }
+      ]
     }
   }
 }

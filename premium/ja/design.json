@@ -11767,6 +11767,130 @@
           "x": "DiodeはClaudeの設計ファイルから三枚の基板すべてを直接製造した。ただし、これらの機器はまだ試作段階で、電気的検証、アンテナ調整、熱試験、認証は受けていない。"
         }
       ]
+    },
+    "design/artstation-ai-art-policy": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "KitBashはArtStationを買収した際、AIコンテンツの氾濫に対するユーザーの懸念に対処すると約束した。9月にはアップロード時の「NoAI」を初期設定でオンにした。今回のアップデートでは、生成AIコンテンツを取り締まる試みに加え、より詳細なAI申告とフィルタリングの細かな制御を導入したが、アーティストの反応はいまのところ分かれている。"
+        },
+        {
+          "t": "p",
+          "x": "投稿時には、生成AIを使ったかどうかの申告が求められる。選択肢は「主に生成AI」「生成AIと非生成的手法の併用」「100%非生成」だ。専用チャンネルでは、AI-generatedと思われるのに表示のない作品を報告でき、ArtStationはすべての報告がAIフィルタリングの改善に役立つとしている。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/9wsbfUqLD4Ez98e9dWE9wn-1200-80.jpg",
+          "cap": "(画像クレジット: ArtStation)"
+        },
+        {
+          "t": "p",
+          "x": "ユーザーは申告済みの生成AIコンテンツを非表示にでき、報告に基づくフィルタリングの強さを「Strict」「Balanced」「Loose」から選べる。初期設定では、AI-generatedと申告されたか「CreatedwithAI」タグの付いたプロジェクトは非表示になり、AIの疑いがある作品はstrictに設定される。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/A4CeER4pysFPNYhTJpJ64o-1200-80.jpg",
+          "cap": "(画像クレジット: ArtStation)"
+        },
+        {
+          "t": "p",
+          "x": "ユーザーによるモデレーションに頼るため、検出を逃れるAI作品もありうる一方、「Strict」フィルタリングではAIと誤判定された作品が消される可能性もある。アーティストが判定に異議を申し立てられるかもまだ明らかでない。コンセプトアートでは生成AIは避けられないと見る向きもあり、KitBashは禁止を不可能とまでは言わずとも逆効果と考えているのだろう。"
+        }
+      ]
+    },
+    "design/siemens-hyperlynx-agents": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Siemensは、電子システムエンジニアの検証ワークフロー自動化、シミュレーション結果のレビュー、設計判断を支援するエージェント型AIソリューション「HyperLynx Agentic Toolkit」を発表した。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/11/Fig-1-Siemens-adds-agentic-AI-to-HyperLynx-verification-workflows.avif",
+          "cap": "コンプライアンス・アイマスクを用いたDDR5シミュレーションを表示するHyperLynx Agentic Toolkit"
+        },
+        {
+          "t": "p",
+          "x": "システム速度が112Gや224Gへ移るにつれ、マージンの縮小、市場投入までの時間的圧力、熟練検証エンジニアの不足により、シグナルインテグリティの問題が設計サイクルの終盤まで持ち越されやすい。HyperLynxを基盤とするこのツールキットは、ドメイン特化型AIエージェントと物理ベースのシグナル/パワーインテグリティ(SI/PI)シミュレーションを組み合わせる。エンジニアが自然言語で検証目標を定めると、オーケストレーションエージェントがSerDes、DDR、シグナルインテグリティ、パワーインテグリティ解析の専門エージェントを統括し、シミュレーションの実行、パラメータ抽出、結果のレビュー、設計マージンに対する性能比較を行う。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/11/Fig-2-Siemens-adds-agentic-AI-to-HyperLynx-verification-workflows.avif",
+          "cap": "PAM4信号を用いた2つの設計案におけるアイ高さとアイ幅の散布図"
+        },
+        {
+          "t": "p",
+          "x": "このツールキットはQuesta One Agentic Toolkitに続くもので、Fuse EDA AI AgentとIntelligence Center Xを基盤とする。2026年第4四半期に一部顧客向けのアーリーアクセスを始め、その後一般提供する予定だ。"
+        }
+      ]
+    },
+    "design/uxc-design-system-ai-prototyping": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/0*GVeuczf4PnCJn95b.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Christine Vallaureは、チームがデザインシステムをAIビルダーにつなぎ、完成したように見える画面を得たものの、結局は開発者がそれを一から作り直す様子を見てきた。Lovable、Bolt、Claude Designといったビルダーはデザインシステムを読み込んだうえで、たいていshadcnとTailwindの上に独自のバージョンを作る。「プロンプトを工夫しても解決しない…コンポーネントが本物ではないのだ」"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/0*FsGZw7cGpPc5iRkF.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "必要なのは二つだ。一つは、すべてのコンポーネントの名前、目的、プロパティ、許容値、デフォルト値をコードから生成したマニフェスト。もう一つはMCP接続で、エージェントが推測する代わりに何が存在するかを問い合わせられるようにする。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/0*czCuIU3dfQCnhtuQ.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "方法は二つある。一つはStorybook MCPアドオン(Storybook 10以降、コンポーネントマニフェストを有効化)で、Storybookのテストではトークン使用量が27%少なく、ほぼ三倍速く完了した。もう一つは、エンジニアのいるチームが構築する独自のデザインシステムMCPだ。プロトタイプはマージしないデザインブランチに置き、採用されたアイデアはフィーチャーブランチで作り直す。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/0*YUHz6rnoOzIZqavV.jpeg"
+        }
+      ]
+    },
+    "design/config-india-freshworks-code": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "3EbdkzGwL7c"
+        },
+        {
+          "t": "p",
+          "x": "チームがアイデアの良し悪しを判断するよりも速く、デザイナーがコードを出荷できるようになったら何が起こるのか。Sascha Trinkausは、FreshworksがデザインシステムをAIツールとつなぎ、デザイナーが本番コードに貢献できるようエンジニアリングのワークフローを整えている取り組みを紹介する。市場のエビデンスや顧客フィードバックがプロトタイピング前にアイデアをどう磨くのか、デザイナーが自らのセンスをどう製品まで貫くのかを探る。エンジニアリング部門のKaushal Cavaleとともに、分野をまたいでこれを機能させるには何が必要か、人間の判断がどこで重要になるのか、そしてまだ模索中の点は何かを検討する。"
+        }
+      ]
+    },
+    "design/adobe-max26-creative-agent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://news.adobe.com/news/2026/11/media_194f62215cc674a3099d1a6f6b08199d16183a1ba.jpg?width=1200&format=pjpg&optimize=medium"
+        },
+        {
+          "t": "p",
+          "x": "Adobeは本日、Miami Beachで開かれたAdobe MAXで、Adobe Firefly、Creative Cloud、Adobe GenStudioの新しいエージェントとツールを発表した。クリエイターが自分の言葉で指示できるパートナー、Adobe Creative AgentをCreative CloudとAdobe Firefly全体に広げ、複雑なmulti-stepの作業を任せられるようにする。"
+        },
+        {
+          "t": "p",
+          "x": "Adobeはローカルの MCP 連携もプレビュー公開する。クリエイティブのプロは、すでに使っているthird-partyのエージェントに指示し、Photoshop、Illustrator、Premiere、After Effectsのネイティブなプロジェクトファイルを変更させられる。レイヤー、シーケンス、コンポジションは編集可能なまま残る。Creative Agentは、Illustrator、Premiere、InDesign、After Effects、Frame.ioで拡張されたAI Assistants(beta)を支える。"
+        },
+        {
+          "t": "p",
+          "x": "Fireflyは、Adobeのツールに、Adobe、Topaz Labs、さらにByteDance、Google、Kling、OpenAI、ElevenLabsなどパートナーのモデルを組み合わせたAIクリエイティブスタジオになる。新たにalways-onエージェント(preview)、Firefly Design(beta)、Firefly Graph(beta)、Firefly Builder(private beta)が加わる。Firefly Builderは自然言語でアイデアをインタラクティブでon-brandなプロトタイプに変え、コードは要らない。"
+        },
+        {
+          "t": "p",
+          "x": "企業向けには、CX Enterprise CoworkerがGenStudioに搭載される。AdobeはAnthropicやOpenAIとのコネクタを土台に、GoogleやMicrosoftとの提携も深めた。"
+        }
+      ]
     }
   }
 }

@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-11",
+  "date": "2026-11-12",
   "section": "science",
   "cards": [
     {
-      "id": "science-alphaproof-code-signal",
+      "id": "alphagenome2-celltype-variants",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "DeepMind 에이전트\nSignal 암호코드 검증",
-      "body": "LLM 에이전트가 Lean 증명으로 Signal 코드를 약 네 주 만에 검증했다.",
-      "mini_headline": "AlphaProof Code, Signal 검증",
+      "headline": "AlphaGenome 2\n세포별로 DNA 읽는다",
+      "body": "DeepMind AlphaGenome 2는 세포별 변이 효과로 질병 위험을 읽는다.",
+      "mini_headline": "AlphaGenome 2, 세포 DNA를 읽다",
       "tool": "Science",
       "source": "Google DeepMind",
-      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+      "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
@@ -19,345 +19,385 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://lh3.googleusercontent.com/PHIZgiGejgu8shHsJV9pVfWv7Kr5rTj-e2yIj73c8LkDKBnTTAr2r28DN9aZd1vLDjCnd1Wi2qOD0t8bPpNN-3DfmbEgxj0TE-TttqVbpdoOD1xmFQk=w1440-h810-n-nu"
+            "src": "https://lh3.googleusercontent.com/VPOhADdGu1T7kK_gWBiGzyVawQbKCjpL3-B0L0wxpYCyr8cHxviYmo9Hghy4f1laeIo2YKwuz8E07TR9HWWk2b0EONi0uvju-8TDLHX6YWHG4dXe3w=w1200-h630-n-nu-rw"
           },
           {
             "t": "p",
-            "x": "Google DeepMind 연구진은 사람의 전문성과 AI 에이전트를 묶은 새 에이전트형 형식 검증 프레임워크 AlphaProof Code로, AI 에이전트가 Signal 프로토콜을 이루는 실제 코드의 핵심 보안 속성을 수학적으로 증명하게 했다. 널리 쓰이는 암호 프로토콜을 AI가 이만큼 깊이 형식 검증한 사례는 처음이다."
+            "x": "오늘 차세대 모델 AlphaGenome 2가 나왔다. DNA 서열과 그 변이가 특정 인간 세포 유형에 어떤 영향을 주는지 예측하는 모델로, 과학자들이 질병의 원인을 세포 수준에서 밝히는 데 쓸 강력한 새 도구다."
           },
           {
             "t": "p",
-            "x": "연구진은 여러 모델을 함께 써서 Signal의 보안 목표를 형식 명세로 옮겼고, 명세는 사람 전문가가 하나하나 검토했다. 증명은 Gemini Carbon 기반 에이전트가 맡았다. 에이전트는 육백만 줄이 넘는 Lean 코드를 만들고 증명을 스스로 감사한 뒤 코드베이스의 일 퍼센트만 사람이 다시 보도록 표시했다."
-          },
-          {
-            "t": "p",
-            "x": "에이전트들은 기기에서 실제로 돌아가는 컴파일된 코드 수준까지 핵심 보안 속성이 지켜진다는 사실을 증명했다. 전문가 팀이 보통 수년을 들이던 일이 네 주 만에 끝났다. 이미 고쳤던 실제 버그 두 개를 다시 심자 시스템은 버그가 있는 버전이 안전하지 않다는 기계 검증 증명을 내놓았다."
+            "x": "AlphaGenome 2는 세포 안 유전자 발현을 바꾸는 변이를 이전 최고 성능 모델보다 두 배 가까이 더 찾아낸다. 비상업 연구에는 오늘부터 AlphaGenome API로, 상업 연구에는 비공개 프리뷰로 제공된다."
           },
           {
             "t": "img",
-            "src": "https://lh3.googleusercontent.com/kF75VKGl2JdnK6eQJxqPLwQNsMq0CumACxUSMF5WoUME3lAw2-PBaQWpsOxaD1bTaXYhJd46zDMrx9s3kPW_oL9rg2rKh_HoCzYxN8Xd5XRIPQ2Vsg=w1440-h810-n-nu",
-            "cap": "AlphaProof Code에서 AI 에이전트는 사용자가 명세를 쓰도록 돕고, 구현이 그 명세를 충족한다는 것을 스스로 증명한다. 모든 증명은 Lean이 검사해 에이전트의 작업을 확인한다."
+            "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/EUdRzfXXT2oOcMoR/ag1_vs_ag2_expr_cond_gdm_light_no_outline.gif",
+            "cap": "AlphaGenome 1과 2의 세포 유형 처리 방식 비교."
           },
           {
             "t": "p",
-            "x": "Signal CTO Ehren Kret은 “AI 에이전트로 실제 코드를 유효한 Lean 정리로 옮긴 것은 큰 돌파구”라고 평가했다. 형식 검증 결과물은 DeepMind가 오픈소스로 공개한다."
+            "x": "AlphaGenome 2는 여러 조건을 한꺼번에 예측하지 않는다. 조직·세포 유형·상태로 정의한 조건 하나마다 DNA 효과를 따로 예측하는 조건부 모델이다. 학습에는 인간과 생쥐 샘플의 벌크 데이터와 단일세포 데이터가 쓰였고, 개별 세포 프로필만 1억700만 개가 넘는다."
+          },
+          {
+            "t": "p",
+            "x": "28개 주요 면역세포 유형을 담은 TenK10K 데이터셋에서는 인과 변이(30% vs. 16%)와 방향성 유전자 효과(43% vs. 23%)를 두 배 가까이 더 찾았다. 한 변이가 장 대식세포의 ETS2 유전자를 과활성화해 IBD를 일으킨다는 발견도 계산만으로 재현했다."
+          },
+          {
+            "t": "p",
+            "x": "과학자들은 세포 수십 개에서 얻은 단일세포 RNA-seq 스냅샷만 올리면 재학습 없이 새 세포 상태의 변이 효과를 예측할 수 있다. AlphaGenome과 AlphaGenome 2는 연구용으로만 쓰도록 만들었다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "DeepMind agents verify\nSignal's crypto code",
-          "body": "LLM agents writing Lean proofs machine-verified Signal's compiled cryptographic code in about four weeks.",
-          "mini_headline": "AlphaProof Code\nverifies Signal",
+          "headline": "AlphaGenome 2 reads DNA\nthrough each cell type",
+          "body": "DeepMind's AlphaGenome 2 predicts how genetic variants act in human cell types to help interpret disease risk.",
+          "mini_headline": "AlphaGenome 2 reads cell DNA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://lh3.googleusercontent.com/PHIZgiGejgu8shHsJV9pVfWv7Kr5rTj-e2yIj73c8LkDKBnTTAr2r28DN9aZd1vLDjCnd1Wi2qOD0t8bPpNN-3DfmbEgxj0TE-TttqVbpdoOD1xmFQk=w1440-h810-n-nu"
+                "src": "https://lh3.googleusercontent.com/VPOhADdGu1T7kK_gWBiGzyVawQbKCjpL3-B0L0wxpYCyr8cHxviYmo9Hghy4f1laeIo2YKwuz8E07TR9HWWk2b0EONi0uvju-8TDLHX6YWHG4dXe3w=w1200-h630-n-nu-rw"
               },
               {
                 "t": "p",
-                "x": "Google DeepMind researchers guided AI agents to mathematically prove key security properties of the actual code underlying the Signal protocol, using AlphaProof Code, a novel agentic framework for formal verification that combines human expertise with AI agents. It is the first time AI has formally verified a widely deployed cryptographic protocol at this depth."
+                "x": "Today, we are announcing AlphaGenome 2, our next-generation model that predicts how DNA sequences and their variations impact specific human cell types, giving scientists a powerful new tool to uncover the cellular drivers of disease."
               },
               {
                 "t": "p",
-                "x": "Researchers worked with a mix of models to translate Signal's security goals into formal specifications, with human experts reviewing every one. Agents powered by Gemini Carbon then did the proofs, generating over six million lines of Lean, and audited the proof, flagging just one percent of the codebase for a second human look."
-              },
-              {
-                "t": "p",
-                "x": "The agents proved that the compiled code fulfills key security properties down to the exact code running on devices. The process took just four weeks, a task that historically takes expert teams years. When two real, previously fixed bugs were reintroduced, the system produced a machine-checked proof that the buggy version was insecure."
+                "x": "AlphaGenome 2 identifies nearly twice as many variants that change gene expression in cells, compared to our previous state-of-the-art model. It is available today for non-commercial research via the AlphaGenome API, and in private preview for commercial research."
               },
               {
                 "t": "img",
-                "src": "https://lh3.googleusercontent.com/kF75VKGl2JdnK6eQJxqPLwQNsMq0CumACxUSMF5WoUME3lAw2-PBaQWpsOxaD1bTaXYhJd46zDMrx9s3kPW_oL9rg2rKh_HoCzYxN8Xd5XRIPQ2Vsg=w1440-h810-n-nu",
-                "cap": "In AlphaProof Code, AI agents help users write a specification, then autonomously prove that the implementation meets it. Every proof is checked by Lean to verify the agents' work."
+                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/EUdRzfXXT2oOcMoR/ag1_vs_ag2_expr_cond_gdm_light_no_outline.gif",
+                "cap": "Comparing how AlphaGenome 1 and 2 treat cell types."
               },
               {
                 "t": "p",
-                "x": "“Using AI agents to translate live code into valid Lean theorems is a major breakthrough,” said Signal CTO Ehren Kret. DeepMind is open-sourcing its formal verification artifacts."
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "AlphaProof Code de DeepMind\nverifica el cifrado de Signal",
-          "body": "Agentes LLM con pruebas en Lean verificaron el código criptográfico compilado de Signal en unas cuatro semanas.",
-          "mini_headline": "AlphaProof Code\nverifica Signal",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://lh3.googleusercontent.com/PHIZgiGejgu8shHsJV9pVfWv7Kr5rTj-e2yIj73c8LkDKBnTTAr2r28DN9aZd1vLDjCnd1Wi2qOD0t8bPpNN-3DfmbEgxj0TE-TttqVbpdoOD1xmFQk=w1440-h810-n-nu"
+                "x": "Instead of predicting in parallel, AlphaGenome 2 is a conditional model that predicts DNA effects for one condition - defined as a tissue, cell type or state - at a time. It was trained on bulk and single-cell data from human and mouse samples, including over 107 million individual cell profiles."
               },
               {
                 "t": "p",
-                "x": "Investigadores de Google DeepMind guiaron a agentes de AI para demostrar matemáticamente propiedades de seguridad clave del código real que sustenta el protocolo Signal, con AlphaProof Code, un nuevo marco agéntico de verificación formal que combina la experiencia humana con agentes de AI. Es la primera vez que la AI verifica formalmente con esta profundidad un protocolo criptográfico de amplio despliegue."
+                "x": "On the TenK10K dataset of 28 primary immune cell types, it identified nearly twice as many causal variants (30% vs. 16%) and directional gene effects (43% vs. 23%). It also reproduced computationally a finding that a variant drives IBD by overactivating the ETS2 gene in gut macrophages."
               },
               {
                 "t": "p",
-                "x": "Los investigadores usaron una combinación de modelos para traducir los objetivos de seguridad de Signal a especificaciones formales, y expertos humanos revisaron cada una. Después, agentes impulsados por Gemini Carbon hicieron las demostraciones, generaron más de seis millones de líneas de Lean y auditaron la prueba, señalando apenas el uno por ciento del código para una segunda revisión humana."
-              },
-              {
-                "t": "p",
-                "x": "Los agentes demostraron que el código compilado cumple propiedades de seguridad clave hasta el código exacto que se ejecuta en los dispositivos. El proceso llevó apenas cuatro semanas, una tarea que históricamente ocupa años a equipos de expertos. Al reintroducir dos errores reales ya corregidos, el sistema produjo una prueba verificada por máquina de que la versión con fallos era insegura."
-              },
-              {
-                "t": "img",
-                "src": "https://lh3.googleusercontent.com/kF75VKGl2JdnK6eQJxqPLwQNsMq0CumACxUSMF5WoUME3lAw2-PBaQWpsOxaD1bTaXYhJd46zDMrx9s3kPW_oL9rg2rKh_HoCzYxN8Xd5XRIPQ2Vsg=w1440-h810-n-nu",
-                "cap": "En AlphaProof Code, los agentes de AI ayudan a los usuarios a redactar una especificación y luego demuestran de forma autónoma que la implementación la cumple. Lean comprueba cada prueba para verificar el trabajo de los agentes."
-              },
-              {
-                "t": "p",
-                "x": "“Usar agentes de AI para traducir código en producción a teoremas válidos de Lean es un gran avance”, dijo el CTO de Signal, Ehren Kret. DeepMind está publicando como código abierto sus artefactos de verificación formal."
+                "x": "Scientists can upload a single-cell RNA-seq snapshot from just a few dozen cells to predict variant effects for new cell states without retraining. AlphaGenome and AlphaGenome 2 are intended for research use only."
               }
             ]
           }
         },
         "ko": {
-          "headline": "DeepMind 에이전트\nSignal 암호코드 검증",
-          "body": "LLM 에이전트가 Lean 증명으로 Signal 코드를 약 네 주 만에 검증했다.",
-          "mini_headline": "AlphaProof Code, Signal 검증",
+          "headline": "AlphaGenome 2\n세포별로 DNA 읽는다",
+          "body": "DeepMind AlphaGenome 2는 세포별 변이 효과로 질병 위험을 읽는다.",
+          "mini_headline": "AlphaGenome 2, 세포 DNA를 읽다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://lh3.googleusercontent.com/PHIZgiGejgu8shHsJV9pVfWv7Kr5rTj-e2yIj73c8LkDKBnTTAr2r28DN9aZd1vLDjCnd1Wi2qOD0t8bPpNN-3DfmbEgxj0TE-TttqVbpdoOD1xmFQk=w1440-h810-n-nu"
+                "src": "https://lh3.googleusercontent.com/VPOhADdGu1T7kK_gWBiGzyVawQbKCjpL3-B0L0wxpYCyr8cHxviYmo9Hghy4f1laeIo2YKwuz8E07TR9HWWk2b0EONi0uvju-8TDLHX6YWHG4dXe3w=w1200-h630-n-nu-rw"
               },
               {
                 "t": "p",
-                "x": "Google DeepMind 연구진은 사람의 전문성과 AI 에이전트를 묶은 새 에이전트형 형식 검증 프레임워크 AlphaProof Code로, AI 에이전트가 Signal 프로토콜을 이루는 실제 코드의 핵심 보안 속성을 수학적으로 증명하게 했다. 널리 쓰이는 암호 프로토콜을 AI가 이만큼 깊이 형식 검증한 사례는 처음이다."
+                "x": "오늘 차세대 모델 AlphaGenome 2가 나왔다. DNA 서열과 그 변이가 특정 인간 세포 유형에 어떤 영향을 주는지 예측하는 모델로, 과학자들이 질병의 원인을 세포 수준에서 밝히는 데 쓸 강력한 새 도구다."
               },
               {
                 "t": "p",
-                "x": "연구진은 여러 모델을 함께 써서 Signal의 보안 목표를 형식 명세로 옮겼고, 명세는 사람 전문가가 하나하나 검토했다. 증명은 Gemini Carbon 기반 에이전트가 맡았다. 에이전트는 육백만 줄이 넘는 Lean 코드를 만들고 증명을 스스로 감사한 뒤 코드베이스의 일 퍼센트만 사람이 다시 보도록 표시했다."
-              },
-              {
-                "t": "p",
-                "x": "에이전트들은 기기에서 실제로 돌아가는 컴파일된 코드 수준까지 핵심 보안 속성이 지켜진다는 사실을 증명했다. 전문가 팀이 보통 수년을 들이던 일이 네 주 만에 끝났다. 이미 고쳤던 실제 버그 두 개를 다시 심자 시스템은 버그가 있는 버전이 안전하지 않다는 기계 검증 증명을 내놓았다."
+                "x": "AlphaGenome 2는 세포 안 유전자 발현을 바꾸는 변이를 이전 최고 성능 모델보다 두 배 가까이 더 찾아낸다. 비상업 연구에는 오늘부터 AlphaGenome API로, 상업 연구에는 비공개 프리뷰로 제공된다."
               },
               {
                 "t": "img",
-                "src": "https://lh3.googleusercontent.com/kF75VKGl2JdnK6eQJxqPLwQNsMq0CumACxUSMF5WoUME3lAw2-PBaQWpsOxaD1bTaXYhJd46zDMrx9s3kPW_oL9rg2rKh_HoCzYxN8Xd5XRIPQ2Vsg=w1440-h810-n-nu",
-                "cap": "AlphaProof Code에서 AI 에이전트는 사용자가 명세를 쓰도록 돕고, 구현이 그 명세를 충족한다는 것을 스스로 증명한다. 모든 증명은 Lean이 검사해 에이전트의 작업을 확인한다."
+                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/EUdRzfXXT2oOcMoR/ag1_vs_ag2_expr_cond_gdm_light_no_outline.gif",
+                "cap": "AlphaGenome 1과 2의 세포 유형 처리 방식 비교."
               },
               {
                 "t": "p",
-                "x": "Signal CTO Ehren Kret은 “AI 에이전트로 실제 코드를 유효한 Lean 정리로 옮긴 것은 큰 돌파구”라고 평가했다. 형식 검증 결과물은 DeepMind가 오픈소스로 공개한다."
+                "x": "AlphaGenome 2는 여러 조건을 한꺼번에 예측하지 않는다. 조직·세포 유형·상태로 정의한 조건 하나마다 DNA 효과를 따로 예측하는 조건부 모델이다. 학습에는 인간과 생쥐 샘플의 벌크 데이터와 단일세포 데이터가 쓰였고, 개별 세포 프로필만 1억700만 개가 넘는다."
+              },
+              {
+                "t": "p",
+                "x": "28개 주요 면역세포 유형을 담은 TenK10K 데이터셋에서는 인과 변이(30% vs. 16%)와 방향성 유전자 효과(43% vs. 23%)를 두 배 가까이 더 찾았다. 한 변이가 장 대식세포의 ETS2 유전자를 과활성화해 IBD를 일으킨다는 발견도 계산만으로 재현했다."
+              },
+              {
+                "t": "p",
+                "x": "과학자들은 세포 수십 개에서 얻은 단일세포 RNA-seq 스냅샷만 올리면 재학습 없이 새 세포 상태의 변이 효과를 예측할 수 있다. AlphaGenome과 AlphaGenome 2는 연구용으로만 쓰도록 만들었다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "DeepMindエージェント\nSignal暗号コード検証",
-          "body": "LLMエージェントがLean証明でSignalの暗号コードを約四週間で機械検証した。",
-          "mini_headline": "AlphaProof CodeがSignalを検証",
+          "headline": "AlphaGenome 2\n細胞ごとにDNAを読む",
+          "body": "DeepMindのAlphaGenome 2は細胞別に変異の作用を予測し疾患リスクを読む。",
+          "mini_headline": "AlphaGenome 2が細胞のDNAを読む",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://lh3.googleusercontent.com/PHIZgiGejgu8shHsJV9pVfWv7Kr5rTj-e2yIj73c8LkDKBnTTAr2r28DN9aZd1vLDjCnd1Wi2qOD0t8bPpNN-3DfmbEgxj0TE-TttqVbpdoOD1xmFQk=w1440-h810-n-nu"
+                "src": "https://lh3.googleusercontent.com/VPOhADdGu1T7kK_gWBiGzyVawQbKCjpL3-B0L0wxpYCyr8cHxviYmo9Hghy4f1laeIo2YKwuz8E07TR9HWWk2b0EONi0uvju-8TDLHX6YWHG4dXe3w=w1200-h630-n-nu-rw"
               },
               {
                 "t": "p",
-                "x": "Google DeepMindの研究者は、人間の専門知識とAIエージェントを組み合わせた新しいエージェント型形式検証フレームワークAlphaProof Codeを用い、Signalプロトコルを支える実際のコードの主要なセキュリティ特性をAIエージェントに数学的に証明させた。広く普及した暗号プロトコルをAIがこの深さで形式検証したのは初めてである。"
+                "x": "本日、次世代モデルAlphaGenome 2を発表する。DNA配列とその変異が特定のヒト細胞型にどう影響するかを予測するモデルで、病気の細胞レベルの要因を突き止めるための強力な新しいツールを科学者に提供する。"
               },
               {
                 "t": "p",
-                "x": "研究者は複数のモデルを組み合わせてSignalのセキュリティ目標を形式仕様に落とし込み、そのすべてを人間の専門家が確認した。続いてGemini Carbonを搭載したエージェントが証明を行い、六百万行を超えるLeanを生成したうえで証明を監査し、人間が改めて見るべき箇所としてコードベースのわずか一パーセントを指摘した。"
-              },
-              {
-                "t": "p",
-                "x": "エージェントは、コンパイル済みのコードが端末上で実際に動くコードのレベルまで主要なセキュリティ特性を満たすことを証明した。専門家チームが従来何年もかけてきた作業は、わずか四週間で終わった。過去に修正済みの実在するバグ二つを再び組み込むと、システムはバグを含む版が安全でないことを示す機械検証済みの証明を出した。"
+                "x": "AlphaGenome 2は、細胞内の遺伝子発現を変える変異を、従来の最先端モデルの二倍近く見つけ出す。非商用研究向けには本日からAlphaGenome API経由で提供し、商用研究向けには非公開プレビューで提供する。"
               },
               {
                 "t": "img",
-                "src": "https://lh3.googleusercontent.com/kF75VKGl2JdnK6eQJxqPLwQNsMq0CumACxUSMF5WoUME3lAw2-PBaQWpsOxaD1bTaXYhJd46zDMrx9s3kPW_oL9rg2rKh_HoCzYxN8Xd5XRIPQ2Vsg=w1440-h810-n-nu",
-                "cap": "AlphaProof Codeでは、AIエージェントがユーザーの仕様作成を手助けし、実装がその仕様を満たすことを自律的に証明する。すべての証明はLeanがチェックし、エージェントの作業を検証する。"
+                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/EUdRzfXXT2oOcMoR/ag1_vs_ag2_expr_cond_gdm_light_no_outline.gif",
+                "cap": "AlphaGenome 1と2の細胞型の扱い方の比較。"
               },
               {
                 "t": "p",
-                "x": "Signal CTOのEhren Kretは「AIエージェントで稼働中のコードを有効なLean定理に変換できたのは大きなブレークスルーだ」と述べた。DeepMindは形式検証の成果物をオープンソースで公開する。"
+                "x": "AlphaGenome 2は並列に予測するのではなく、組織・細胞型・状態として定義される条件を一つずつ扱い、DNAの効果を予測する条件付きモデルだ。ヒトとマウスのサンプルから得たバルクデータと単一細胞データで訓練され、その中には1億700万を超える個々の細胞プロファイルが含まれる。"
+              },
+              {
+                "t": "p",
+                "x": "28種類の主要な免疫細胞型を含むTenK10Kデータセットでは、因果変異(30% vs. 16%)と方向性のある遺伝子効果(43% vs. 23%)を二倍近く特定した。また、ある変異が腸のマクロファージでETS2遺伝子を過剰に活性化させてIBDを引き起こすという知見を、計算によって再現した。"
+              },
+              {
+                "t": "p",
+                "x": "科学者は数十個の細胞から得た単一細胞RNA-seqのスナップショットをアップロードするだけで、再訓練なしに新たな細胞状態での変異の効果を予測できる。AlphaGenomeとAlphaGenome 2は研究用途に限定される。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "DeepMind智能体\n验证Signal加密代码",
-          "body": "编写Lean证明的LLM智能体在约四周内对Signal编译后的加密代码完成了机器验证。",
-          "mini_headline": "AlphaProof Code验证Signal",
+          "headline": "AlphaGenome 2\n按细胞类型读取DNA",
+          "body": "DeepMind的AlphaGenome 2按细胞类型预测变异作用，助力解读疾病风险。",
+          "mini_headline": "AlphaGenome 2读取细胞DNA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://lh3.googleusercontent.com/PHIZgiGejgu8shHsJV9pVfWv7Kr5rTj-e2yIj73c8LkDKBnTTAr2r28DN9aZd1vLDjCnd1Wi2qOD0t8bPpNN-3DfmbEgxj0TE-TttqVbpdoOD1xmFQk=w1440-h810-n-nu"
+                "src": "https://lh3.googleusercontent.com/VPOhADdGu1T7kK_gWBiGzyVawQbKCjpL3-B0L0wxpYCyr8cHxviYmo9Hghy4f1laeIo2YKwuz8E07TR9HWWk2b0EONi0uvju-8TDLHX6YWHG4dXe3w=w1200-h630-n-nu-rw"
               },
               {
                 "t": "p",
-                "x": "Google DeepMind研究人员借助AlphaProof Code——一个将人类专业知识与AI智能体相结合的新型智能体形式化验证框架——引导AI智能体以数学方式证明Signal协议底层实际代码的关键安全属性。这是AI首次在如此深度上对一个广泛部署的加密协议进行形式化验证。"
+                "x": "今天，我们发布新一代模型AlphaGenome 2。它能预测DNA序列及其变异如何影响特定的人类细胞类型，为科学家揭示疾病的细胞驱动因素提供强大的新工具。"
               },
               {
                 "t": "p",
-                "x": "研究人员组合使用多种模型，将Signal的安全目标转化为形式化规约，每一条都由人类专家审核。随后，由Gemini Carbon驱动的智能体完成证明，生成了超过六百万行Lean，并对证明进行审计，只将代码库中百分之一的部分标记出来交由人类复查。"
-              },
-              {
-                "t": "p",
-                "x": "智能体证明，编译后的代码在设备上实际运行的代码层面满足关键安全属性。整个过程仅用了四周，而这类任务过去需要专家团队耗费数年。当研究人员重新引入两个此前已修复的真实漏洞时，系统给出了经机器检验的证明，表明含漏洞的版本并不安全。"
+                "x": "与我们此前最先进的模型相比，AlphaGenome 2识别出的改变细胞基因表达的变异数量接近两倍。该模型即日起通过AlphaGenome API向非商业研究开放，并以非公开预览形式向商业研究提供。"
               },
               {
                 "t": "img",
-                "src": "https://lh3.googleusercontent.com/kF75VKGl2JdnK6eQJxqPLwQNsMq0CumACxUSMF5WoUME3lAw2-PBaQWpsOxaD1bTaXYhJd46zDMrx9s3kPW_oL9rg2rKh_HoCzYxN8Xd5XRIPQ2Vsg=w1440-h810-n-nu",
-                "cap": "在AlphaProof Code中，AI智能体帮助用户编写规约，再自主证明实现满足该规约。每一个证明都由Lean检查，以验证智能体的工作。"
+                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/EUdRzfXXT2oOcMoR/ag1_vs_ag2_expr_cond_gdm_light_no_outline.gif",
+                "cap": "AlphaGenome 1与2处理细胞类型方式的对比。"
               },
               {
                 "t": "p",
-                "x": "Signal CTO Ehren Kret表示：“用AI智能体把线上代码转化为有效的Lean定理，是一项重大突破。”DeepMind正在开源其形式化验证成果。"
+                "x": "AlphaGenome 2不再并行预测，而是一个条件模型，每次针对一种条件（定义为一种组织、细胞类型或状态）预测DNA效应。它使用来自人类和小鼠样本的批量数据与单细胞数据训练，其中包括超过1.07亿个单细胞图谱。"
+              },
+              {
+                "t": "p",
+                "x": "在包含28种原代免疫细胞类型的TenK10K数据集上，它识别出的因果变异（30% vs. 16%）和方向性基因效应（43% vs. 23%）都接近两倍。它还通过计算重现了一项发现：某个变异通过过度激活肠道巨噬细胞中的ETS2基因而导致IBD。"
+              },
+              {
+                "t": "p",
+                "x": "科学家只需上传来自几十个细胞的单细胞RNA-seq快照，即可在无需重新训练的情况下预测新细胞状态下的变异效应。AlphaGenome与AlphaGenome 2仅供研究使用。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "AlphaGenome 2 lee el DNA\nsegún cada tipo de célula",
+          "body": "El AlphaGenome 2 de DeepMind predice el efecto de variantes por tipo celular para interpretar el riesgo de enfermedad.",
+          "mini_headline": "AlphaGenome 2 lee el DNA celular",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://lh3.googleusercontent.com/VPOhADdGu1T7kK_gWBiGzyVawQbKCjpL3-B0L0wxpYCyr8cHxviYmo9Hghy4f1laeIo2YKwuz8E07TR9HWWk2b0EONi0uvju-8TDLHX6YWHG4dXe3w=w1200-h630-n-nu-rw"
+              },
+              {
+                "t": "p",
+                "x": "Hoy anunciamos AlphaGenome 2, nuestro modelo de nueva generación que predice cómo las secuencias de DNA y sus variaciones afectan a tipos específicos de células humanas, una nueva y potente herramienta para que los científicos descubran los factores celulares que impulsan la enfermedad."
+              },
+              {
+                "t": "p",
+                "x": "AlphaGenome 2 identifica casi el doble de variantes que alteran la expresión génica en las células en comparación con nuestro anterior modelo de vanguardia. Ya está disponible para investigación no comercial a través de la AlphaGenome API, y en vista previa privada para investigación comercial."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/EUdRzfXXT2oOcMoR/ag1_vs_ag2_expr_cond_gdm_light_no_outline.gif",
+                "cap": "Comparación de cómo AlphaGenome 1 y 2 tratan los tipos celulares."
+              },
+              {
+                "t": "p",
+                "x": "En lugar de predecir en paralelo, AlphaGenome 2 es un modelo condicional que predice los efectos del DNA para una sola condición a la vez, definida como un tejido, un tipo celular o un estado. Se entrenó con datos masivos y de célula única de muestras humanas y de ratón, incluidos más de 107 millones de perfiles celulares individuales."
+              },
+              {
+                "t": "p",
+                "x": "En el conjunto de datos TenK10K, con 28 tipos de células inmunitarias primarias, identificó casi el doble de variantes causales (30% vs. 16%) y de efectos génicos direccionales (43% vs. 23%). También reprodujo computacionalmente el hallazgo de que una variante causa IBD al sobreactivar el gen ETS2 en los macrófagos intestinales."
+              },
+              {
+                "t": "p",
+                "x": "Los científicos pueden cargar una instantánea de RNA-seq de célula única de apenas unas decenas de células para predecir efectos de variantes en nuevos estados celulares sin reentrenar el modelo. AlphaGenome y AlphaGenome 2 están destinados únicamente a la investigación."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "es": {
-          "headline": "AlphaProof Code de DeepMind\nverifica el cifrado de Signal",
-          "body": "Agentes LLM con pruebas en Lean verificaron el código criptográfico compilado de Signal en unas cuatro semanas.",
-          "mini_headline": "AlphaProof Code\nverifica Signal",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://lh3.googleusercontent.com/PHIZgiGejgu8shHsJV9pVfWv7Kr5rTj-e2yIj73c8LkDKBnTTAr2r28DN9aZd1vLDjCnd1Wi2qOD0t8bPpNN-3DfmbEgxj0TE-TttqVbpdoOD1xmFQk=w1440-h810-n-nu"
-              },
-              {
-                "t": "p",
-                "x": "Investigadores de Google DeepMind guiaron a agentes de AI para demostrar matemáticamente propiedades de seguridad clave del código real que sustenta el protocolo Signal, con AlphaProof Code, un nuevo marco agéntico de verificación formal que combina la experiencia humana con agentes de AI. Es la primera vez que la AI verifica formalmente con esta profundidad un protocolo criptográfico de amplio despliegue."
-              },
-              {
-                "t": "p",
-                "x": "Los investigadores usaron una combinación de modelos para traducir los objetivos de seguridad de Signal a especificaciones formales, y expertos humanos revisaron cada una. Después, agentes impulsados por Gemini Carbon hicieron las demostraciones, generaron más de seis millones de líneas de Lean y auditaron la prueba, señalando apenas el uno por ciento del código para una segunda revisión humana."
-              },
-              {
-                "t": "p",
-                "x": "Los agentes demostraron que el código compilado cumple propiedades de seguridad clave hasta el código exacto que se ejecuta en los dispositivos. El proceso llevó apenas cuatro semanas, una tarea que históricamente ocupa años a equipos de expertos. Al reintroducir dos errores reales ya corregidos, el sistema produjo una prueba verificada por máquina de que la versión con fallos era insegura."
-              },
-              {
-                "t": "img",
-                "src": "https://lh3.googleusercontent.com/kF75VKGl2JdnK6eQJxqPLwQNsMq0CumACxUSMF5WoUME3lAw2-PBaQWpsOxaD1bTaXYhJd46zDMrx9s3kPW_oL9rg2rKh_HoCzYxN8Xd5XRIPQ2Vsg=w1440-h810-n-nu",
-                "cap": "En AlphaProof Code, los agentes de AI ayudan a los usuarios a redactar una especificación y luego demuestran de forma autónoma que la implementación la cumple. Lean comprueba cada prueba para verificar el trabajo de los agentes."
-              },
-              {
-                "t": "p",
-                "x": "“Usar agentes de AI para traducir código en producción a teoremas válidos de Lean es un gran avance”, dijo el CTO de Signal, Ehren Kret. DeepMind está publicando como código abierto sus artefactos de verificación formal."
-              }
-            ]
-          }
-        },
         "ko": {
-          "headline": "DeepMind 에이전트\nSignal 암호코드 검증",
-          "body": "LLM 에이전트가 Lean 증명으로 Signal 코드를 약 네 주 만에 검증했다.",
-          "mini_headline": "AlphaProof Code, Signal 검증",
+          "headline": "AlphaGenome 2\n세포별로 DNA 읽는다",
+          "body": "DeepMind AlphaGenome 2는 세포별 변이 효과로 질병 위험을 읽는다.",
+          "mini_headline": "AlphaGenome 2, 세포 DNA를 읽다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://lh3.googleusercontent.com/PHIZgiGejgu8shHsJV9pVfWv7Kr5rTj-e2yIj73c8LkDKBnTTAr2r28DN9aZd1vLDjCnd1Wi2qOD0t8bPpNN-3DfmbEgxj0TE-TttqVbpdoOD1xmFQk=w1440-h810-n-nu"
+                "src": "https://lh3.googleusercontent.com/VPOhADdGu1T7kK_gWBiGzyVawQbKCjpL3-B0L0wxpYCyr8cHxviYmo9Hghy4f1laeIo2YKwuz8E07TR9HWWk2b0EONi0uvju-8TDLHX6YWHG4dXe3w=w1200-h630-n-nu-rw"
               },
               {
                 "t": "p",
-                "x": "Google DeepMind 연구진은 사람의 전문성과 AI 에이전트를 결합한 새로운 에이전트형 형식 검증 프레임워크 AlphaProof Code를 활용해, AI 에이전트가 Signal 프로토콜을 이루는 실제 코드의 핵심 보안 속성을 수학적으로 증명하도록 이끌었다. 널리 배포된 암호 프로토콜을 AI가 이 정도 깊이로 형식 검증한 것은 처음이다."
+                "x": "오늘 우리는 차세대 모델 AlphaGenome 2를 발표한다. DNA 서열과 그 변이가 특정 인간 세포 유형에 어떤 영향을 미치는지 예측하는 모델로, 과학자들이 질병의 세포 수준 원인을 밝혀낼 강력한 새 도구다."
               },
               {
                 "t": "p",
-                "x": "연구진은 여러 모델을 함께 써서 Signal의 보안 목표를 형식 명세로 옮겼고, 사람 전문가가 그 하나하나를 검토했다. 이어 Gemini Carbon 기반 에이전트가 증명을 수행하며 육백만 줄이 넘는 Lean 코드를 생성했고, 증명을 스스로 감사해 코드베이스의 일 퍼센트만 사람이 다시 살펴보도록 표시했다."
-              },
-              {
-                "t": "p",
-                "x": "에이전트들은 컴파일된 코드가 기기에서 실제로 돌아가는 코드 수준까지 핵심 보안 속성을 충족한다는 것을 증명했다. 전문가 팀이 보통 수년을 들이던 작업이 네 주 만에 끝났다. 이미 고쳐졌던 실제 버그 두 개를 다시 심자, 시스템은 버그가 있는 버전이 안전하지 않다는 기계 검증 증명을 내놓았다."
+                "x": "AlphaGenome 2는 세포 내 유전자 발현을 바꾸는 변이를 이전 최고 성능 모델보다 두 배 가까이 많이 찾아낸다. 비상업 연구에는 오늘부터 AlphaGenome API로 제공하고, 상업 연구에는 비공개 프리뷰로 제공한다."
               },
               {
                 "t": "img",
-                "src": "https://lh3.googleusercontent.com/kF75VKGl2JdnK6eQJxqPLwQNsMq0CumACxUSMF5WoUME3lAw2-PBaQWpsOxaD1bTaXYhJd46zDMrx9s3kPW_oL9rg2rKh_HoCzYxN8Xd5XRIPQ2Vsg=w1440-h810-n-nu",
-                "cap": "AlphaProof Code에서는 AI 에이전트가 사용자의 명세 작성을 돕고, 구현이 그 명세를 충족함을 자율적으로 증명한다. 모든 증명은 Lean이 검사해 에이전트의 작업을 검증한다."
+                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/EUdRzfXXT2oOcMoR/ag1_vs_ag2_expr_cond_gdm_light_no_outline.gif",
+                "cap": "AlphaGenome 1과 2가 세포 유형을 다루는 방식 비교."
               },
               {
                 "t": "p",
-                "x": "Signal CTO Ehren Kret은 “AI 에이전트로 실제 코드를 유효한 Lean 정리로 옮긴 것은 큰 돌파구”라고 말했다. DeepMind는 형식 검증 결과물을 오픈소스로 공개한다."
+                "x": "AlphaGenome 2는 여러 조건을 병렬로 예측하지 않고, 조직·세포 유형·상태로 정의되는 조건 하나씩 DNA 효과를 예측하는 조건부 모델이다. 인간과 생쥐 샘플의 벌크 데이터와 단일세포 데이터로 학습했으며, 여기에는 1억700만 개가 넘는 개별 세포 프로필이 포함된다."
+              },
+              {
+                "t": "p",
+                "x": "28개 주요 면역세포 유형을 담은 TenK10K 데이터셋에서 인과 변이(30% vs. 16%)와 방향성 유전자 효과(43% vs. 23%)를 두 배 가까이 많이 찾아냈다. 한 변이가 장 대식세포의 ETS2 유전자를 과활성화해 IBD를 일으킨다는 발견도 계산으로 재현했다."
+              },
+              {
+                "t": "p",
+                "x": "과학자들은 수십 개 세포에서 얻은 단일세포 RNA-seq 스냅샷을 올려, 재학습 없이 새로운 세포 상태의 변이 효과를 예측할 수 있다. AlphaGenome과 AlphaGenome 2는 연구용으로만 쓰도록 만들어졌다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "DeepMindエージェント\nSignal暗号コード検証",
-          "body": "LLMエージェントがLean証明でSignalの暗号コードを約四週間で機械検証した。",
-          "mini_headline": "AlphaProof CodeがSignalを検証",
+          "headline": "AlphaGenome 2\n細胞ごとにDNAを読む",
+          "body": "DeepMindのAlphaGenome 2は細胞別に変異の作用を予測し疾患リスクを読む。",
+          "mini_headline": "AlphaGenome 2が細胞のDNAを読む",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://lh3.googleusercontent.com/PHIZgiGejgu8shHsJV9pVfWv7Kr5rTj-e2yIj73c8LkDKBnTTAr2r28DN9aZd1vLDjCnd1Wi2qOD0t8bPpNN-3DfmbEgxj0TE-TttqVbpdoOD1xmFQk=w1440-h810-n-nu"
+                "src": "https://lh3.googleusercontent.com/VPOhADdGu1T7kK_gWBiGzyVawQbKCjpL3-B0L0wxpYCyr8cHxviYmo9Hghy4f1laeIo2YKwuz8E07TR9HWWk2b0EONi0uvju-8TDLHX6YWHG4dXe3w=w1200-h630-n-nu-rw"
               },
               {
                 "t": "p",
-                "x": "Google DeepMindの研究者は、人間の専門知識とAIエージェントを組み合わせた新しいエージェント型形式検証フレームワークAlphaProof Codeを用い、Signalプロトコルを支える実際のコードの主要なセキュリティ特性をAIエージェントに数学的に証明させた。広く普及した暗号プロトコルをAIがこの深さで形式検証したのは初めてである。"
+                "x": "本日、次世代モデルAlphaGenome 2を発表する。DNA配列とその変異が特定のヒト細胞型にどう影響するかを予測するモデルで、病気の細胞レベルの要因を突き止めるための強力な新しいツールを科学者に提供する。"
               },
               {
                 "t": "p",
-                "x": "研究者は複数のモデルを組み合わせてSignalのセキュリティ目標を形式仕様に落とし込み、そのすべてを人間の専門家が確認した。続いてGemini Carbonを搭載したエージェントが証明を行い、六百万行を超えるLeanを生成したうえで証明を監査し、人間が改めて見るべき箇所としてコードベースのわずか一パーセントを指摘した。"
-              },
-              {
-                "t": "p",
-                "x": "エージェントは、コンパイル済みのコードが端末上で実際に動くコードのレベルまで主要なセキュリティ特性を満たすことを証明した。専門家チームが従来何年もかけてきた作業は、わずか四週間で終わった。過去に修正済みの実在するバグ二つを再び組み込むと、システムはバグを含む版が安全でないことを示す機械検証済みの証明を出した。"
+                "x": "AlphaGenome 2は、細胞内の遺伝子発現を変える変異を、従来の最先端モデルの二倍近く見つけ出す。非商用研究向けには本日からAlphaGenome API経由で提供し、商用研究向けには非公開プレビューで提供する。"
               },
               {
                 "t": "img",
-                "src": "https://lh3.googleusercontent.com/kF75VKGl2JdnK6eQJxqPLwQNsMq0CumACxUSMF5WoUME3lAw2-PBaQWpsOxaD1bTaXYhJd46zDMrx9s3kPW_oL9rg2rKh_HoCzYxN8Xd5XRIPQ2Vsg=w1440-h810-n-nu",
-                "cap": "AlphaProof Codeでは、AIエージェントがユーザーの仕様作成を手助けし、実装がその仕様を満たすことを自律的に証明する。すべての証明はLeanがチェックし、エージェントの作業を検証する。"
+                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/EUdRzfXXT2oOcMoR/ag1_vs_ag2_expr_cond_gdm_light_no_outline.gif",
+                "cap": "AlphaGenome 1と2の細胞型の扱い方の比較。"
               },
               {
                 "t": "p",
-                "x": "Signal CTOのEhren Kretは「AIエージェントで稼働中のコードを有効なLean定理に変換できたのは大きなブレークスルーだ」と述べた。DeepMindは形式検証の成果物をオープンソースで公開する。"
+                "x": "AlphaGenome 2は並列に予測するのではなく、組織・細胞型・状態として定義される条件を一つずつ扱い、DNAの効果を予測する条件付きモデルだ。ヒトとマウスのサンプルから得たバルクデータと単一細胞データで訓練され、その中には1億700万を超える個々の細胞プロファイルが含まれる。"
+              },
+              {
+                "t": "p",
+                "x": "28種類の主要な免疫細胞型を含むTenK10Kデータセットでは、因果変異(30% vs. 16%)と方向性のある遺伝子効果(43% vs. 23%)を二倍近く特定した。また、ある変異が腸のマクロファージでETS2遺伝子を過剰に活性化させてIBDを引き起こすという知見を、計算によって再現した。"
+              },
+              {
+                "t": "p",
+                "x": "科学者は数十個の細胞から得た単一細胞RNA-seqのスナップショットをアップロードするだけで、再訓練なしに新たな細胞状態での変異の効果を予測できる。AlphaGenomeとAlphaGenome 2は研究用途に限定される。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "DeepMind智能体\n验证Signal加密代码",
-          "body": "编写Lean证明的LLM智能体在约四周内对Signal编译后的加密代码完成了机器验证。",
-          "mini_headline": "AlphaProof Code验证Signal",
+          "headline": "AlphaGenome 2\n按细胞类型读取DNA",
+          "body": "DeepMind的AlphaGenome 2按细胞类型预测变异作用，助力解读疾病风险。",
+          "mini_headline": "AlphaGenome 2读取细胞DNA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://lh3.googleusercontent.com/PHIZgiGejgu8shHsJV9pVfWv7Kr5rTj-e2yIj73c8LkDKBnTTAr2r28DN9aZd1vLDjCnd1Wi2qOD0t8bPpNN-3DfmbEgxj0TE-TttqVbpdoOD1xmFQk=w1440-h810-n-nu"
+                "src": "https://lh3.googleusercontent.com/VPOhADdGu1T7kK_gWBiGzyVawQbKCjpL3-B0L0wxpYCyr8cHxviYmo9Hghy4f1laeIo2YKwuz8E07TR9HWWk2b0EONi0uvju-8TDLHX6YWHG4dXe3w=w1200-h630-n-nu-rw"
               },
               {
                 "t": "p",
-                "x": "Google DeepMind研究人员借助AlphaProof Code——一个将人类专业知识与AI智能体相结合的新型智能体形式化验证框架——引导AI智能体以数学方式证明Signal协议底层实际代码的关键安全属性。这是AI首次在如此深度上对一个广泛部署的加密协议进行形式化验证。"
+                "x": "今天，我们发布新一代模型AlphaGenome 2。它能预测DNA序列及其变异如何影响特定的人类细胞类型，为科学家揭示疾病的细胞驱动因素提供强大的新工具。"
               },
               {
                 "t": "p",
-                "x": "研究人员组合使用多种模型，将Signal的安全目标转化为形式化规约，每一条都由人类专家审核。随后，由Gemini Carbon驱动的智能体完成证明，生成了超过六百万行Lean，并对证明进行审计，只将代码库中百分之一的部分标记出来交由人类复查。"
-              },
-              {
-                "t": "p",
-                "x": "智能体证明，编译后的代码在设备上实际运行的代码层面满足关键安全属性。整个过程仅用了四周，而这类任务过去需要专家团队耗费数年。当研究人员重新引入两个此前已修复的真实漏洞时，系统给出了经机器检验的证明，表明含漏洞的版本并不安全。"
+                "x": "与我们此前最先进的模型相比，AlphaGenome 2识别出的改变细胞基因表达的变异数量接近两倍。该模型即日起通过AlphaGenome API向非商业研究开放，并以非公开预览形式向商业研究提供。"
               },
               {
                 "t": "img",
-                "src": "https://lh3.googleusercontent.com/kF75VKGl2JdnK6eQJxqPLwQNsMq0CumACxUSMF5WoUME3lAw2-PBaQWpsOxaD1bTaXYhJd46zDMrx9s3kPW_oL9rg2rKh_HoCzYxN8Xd5XRIPQ2Vsg=w1440-h810-n-nu",
-                "cap": "在AlphaProof Code中，AI智能体帮助用户编写规约，再自主证明实现满足该规约。每一个证明都由Lean检查，以验证智能体的工作。"
+                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/EUdRzfXXT2oOcMoR/ag1_vs_ag2_expr_cond_gdm_light_no_outline.gif",
+                "cap": "AlphaGenome 1与2处理细胞类型方式的对比。"
               },
               {
                 "t": "p",
-                "x": "Signal CTO Ehren Kret表示：“用AI智能体把线上代码转化为有效的Lean定理，是一项重大突破。”DeepMind正在开源其形式化验证成果。"
+                "x": "AlphaGenome 2不再并行预测，而是一个条件模型，每次针对一种条件（定义为一种组织、细胞类型或状态）预测DNA效应。它使用来自人类和小鼠样本的批量数据与单细胞数据训练，其中包括超过1.07亿个单细胞图谱。"
+              },
+              {
+                "t": "p",
+                "x": "在包含28种原代免疫细胞类型的TenK10K数据集上，它识别出的因果变异（30% vs. 16%）和方向性基因效应（43% vs. 23%）都接近两倍。它还通过计算重现了一项发现：某个变异通过过度激活肠道巨噬细胞中的ETS2基因而导致IBD。"
+              },
+              {
+                "t": "p",
+                "x": "科学家只需上传来自几十个细胞的单细胞RNA-seq快照，即可在无需重新训练的情况下预测新细胞状态下的变异效应。AlphaGenome与AlphaGenome 2仅供研究使用。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "AlphaGenome 2 lee el DNA\nsegún cada tipo de célula",
+          "body": "El AlphaGenome 2 de DeepMind predice el efecto de variantes por tipo celular para interpretar el riesgo de enfermedad.",
+          "mini_headline": "AlphaGenome 2 lee el DNA celular",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://lh3.googleusercontent.com/VPOhADdGu1T7kK_gWBiGzyVawQbKCjpL3-B0L0wxpYCyr8cHxviYmo9Hghy4f1laeIo2YKwuz8E07TR9HWWk2b0EONi0uvju-8TDLHX6YWHG4dXe3w=w1200-h630-n-nu-rw"
+              },
+              {
+                "t": "p",
+                "x": "Hoy anunciamos AlphaGenome 2, nuestro modelo de nueva generación que predice cómo las secuencias de DNA y sus variaciones afectan a tipos específicos de células humanas, una nueva y potente herramienta para que los científicos descubran los factores celulares que impulsan la enfermedad."
+              },
+              {
+                "t": "p",
+                "x": "AlphaGenome 2 identifica casi el doble de variantes que alteran la expresión génica en las células en comparación con nuestro anterior modelo de vanguardia. Ya está disponible para investigación no comercial a través de la AlphaGenome API, y en vista previa privada para investigación comercial."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/EUdRzfXXT2oOcMoR/ag1_vs_ag2_expr_cond_gdm_light_no_outline.gif",
+                "cap": "Comparación de cómo AlphaGenome 1 y 2 tratan los tipos celulares."
+              },
+              {
+                "t": "p",
+                "x": "En lugar de predecir en paralelo, AlphaGenome 2 es un modelo condicional que predice los efectos del DNA para una sola condición a la vez, definida como un tejido, un tipo celular o un estado. Se entrenó con datos masivos y de célula única de muestras humanas y de ratón, incluidos más de 107 millones de perfiles celulares individuales."
+              },
+              {
+                "t": "p",
+                "x": "En el conjunto de datos TenK10K, con 28 tipos de células inmunitarias primarias, identificó casi el doble de variantes causales (30% vs. 16%) y de efectos génicos direccionales (43% vs. 23%). También reprodujo computacionalmente el hallazgo de que una variante causa IBD al sobreactivar el gen ETS2 en los macrófagos intestinales."
+              },
+              {
+                "t": "p",
+                "x": "Los científicos pueden cargar una instantánea de RNA-seq de célula única de apenas unas decenas de células para predecir efectos de variantes en nuevos estados celulares sin reentrenar el modelo. AlphaGenome y AlphaGenome 2 están destinados únicamente a la investigación."
               }
             ]
           }
@@ -365,15 +405,15 @@
       }
     },
     {
-      "id": "science-google-quantum-lean-agents",
+      "id": "physicsworld-metasurface-colour-router",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI와 Lean 증명으로\n양자 비용 약 11배 절감",
-      "body": "Google AI가 Lean-checked 증명으로 양자 비용을 약 11배 줄였다.",
-      "mini_headline": "에이전트가\n양자 프로그램 축소",
+      "headline": "AI-designed\n메타표면이 빛 더 모은다",
+      "body": "신경망으로 설계한 나노 색 라우터가 흡수형 필터보다 많은 빛을 센서에 보낸다.",
+      "mini_headline": "AI 메타표면, 카메라 빛 늘려",
       "tool": "Science",
-      "source": "The Quantum Insider",
-      "url": "https://thequantuminsider.com/2026/11/10/google-researchers-use-ai-and-mathematical-proofs-to-cut-quantum-computing-requirements/",
+      "source": "Physics World",
+      "url": "https://physicsworld.com/a/ai-designed-metasurface-could-make-cameras-far-more-light-efficient/",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
@@ -381,173 +421,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://thequantuminsider.com/wp-content/uploads/2026/11/Screenshot-2026-11-10-at-4.28.33-AM.png"
+            "src": "https://physicsworld.com/wp-content/uploads/2026/11/spectrum-web-8534073-iStock_koey.jpg",
+            "cap": "Bayer 컬러 필터는 카메라 센서가 풀컬러 이미지를 재구성할 때 쓰는 수십 년 된 빨강·초록·파랑 모자이크다. 더 진보한 대안이 들어설 여지가 있다(Credit: iStock/Koey)"
           },
           {
             "t": "p",
-            "x": "Google 연구진이 AI 에이전트와 컴퓨터로 검증한 수학 증명을 써서 컴퓨팅 자원을 덜 먹는 양자 프로그램을 설계했다. Google DeepMind와 Google Quantum AI 연구진이 이끈 이 팀은 arXiv 프리프린트에서 핵융합 관련 시뮬레이션의 자원 비용을 약 열한 배, 광화학 계산은 여덟 배, 약물 대사 관련 모델은 2.5배 낮췄다고 밝혔다."
+            "x": "요즘 카메라는 들어오는 빛의 상당 부분을 버린다. 컬러 이미지를 얻으려고 검출 픽셀 하나하나를 빨강·초록·파랑 필터로 덮는데, 필터마다 스펙트럼 대부분을 걸러내서다."
           },
           {
             "t": "p",
-            "x": "연구팀은 Lean으로 양자 프로그래밍 라이브러리를 만들었다. 프로그램 탐색은 AI 에이전트 몫이었는데, 에이전트가 내놓는 해법에는 정확성 증명과 비용 증명이 모두 들어가야 했다. 해법이 원래 요구 사항을 채우는지는 별도 검사기가 확인했다. 팀들은 공용 위키와 정기 가상 컨퍼런스에서 프로그램과 실패한 접근법을 나눴다."
+            "x": "흡수형 필터를 메타표면으로 바꾸는 방법이 있다. 질화규소 나노기둥을 패턴으로 배열한 층인데, 빨강·초록·파랑 빛을 각각 알맞은 검출 픽셀로 보낸다. 문제는 이런 패턴을 설계하는 데 계산이 막대하게 든다는 점이다."
           },
           {
             "t": "p",
-            "x": "핵융합 저지능 시뮬레이션에서는 개선된 프로그램이 필요한 논리 큐비트를 5,650개에서 4,374개로 줄였고, 큐비트와 게이트를 합친 비용도 10.9배 낮췄다. 광화학은 8.08배, 시토크롬 P450 모델은 2.49배 줄었다. 연구진은 아크사인 계산에서 290배 넘게 줄인 결과도 보고했다."
+            "x": "Hyoseok Park과 공동 연구진은 시뮬레이션한 구조 140,000개로 신경망을 학습시키고, 유망한 설계를 차례로 골라 고쳐 나가는 유전 알고리즘과 묶었다. 학습한 신경망은 광학장을 기존 시뮬레이션보다 약 230,000배 빠르게 평가했고, 덕분에 후보 4천만 개를 탐색할 수 있었다."
           },
           {
             "t": "p",
-            "x": "다만 이 과학 프로그램들은 아직 초기 결함 허용 양자 컴퓨터가 감당하리라 예상되는 수준을 넘는다. 연구팀은 Lean 라이브러리와 명세, 검증된 해법을 오픈소스로 공개할 계획이다."
+            "x": "완성된 소자는 실험에서 입사광의 88.8%를 통과시켰다. 기존 컬러 필터 배열의 24.7%보다 3.6배 나은 수치다. 색 간섭이 조금 남고 공간 해상도도 약간 떨어진다. 쓰임새로는 스마트폰 카메라, 저조도·야간 투시 영상, 보안 카메라, 의료용 내시경, 현미경 등이 꼽힌다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI agents and Lean proofs\ncut quantum costs up to 11x",
-          "body": "Google's AI agent teams, backed by Lean-checked proofs, cut qubit-and-gate costs about 11x for a fusion simulation.",
-          "mini_headline": "Agents shrink\nquantum programs",
+          "headline": "AI-designed metasurface lets\ncameras catch more light",
+          "body": "A neural network helped design a nanoscale colour router that feeds image sensors more light than absorptive filters.",
+          "mini_headline": "AI metasurface boosts camera light",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://thequantuminsider.com/wp-content/uploads/2026/11/Screenshot-2026-11-10-at-4.28.33-AM.png"
+                "src": "https://physicsworld.com/wp-content/uploads/2026/11/spectrum-web-8534073-iStock_koey.jpg",
+                "cap": "Bayer colour filters are a decades-old red, green and blue mosaic used in camera sensors to reconstruct full-colour images, leaving room for a more advanced alternative (Credit: iStock/Koey)"
               },
               {
                 "t": "p",
-                "x": "Google researchers used AI agents and computer-checked mathematical proofs to design quantum programs requiring fewer computing resources. The team, led by researchers at Google DeepMind and Google Quantum AI, reported roughly elevenfold lower resource costs for a fusion-related simulation, eightfold for a photochemistry calculation and 2.5-fold for a model relevant to drug metabolism (arXiv preprint)."
+                "x": "Modern cameras throw away much of the light that enters them. To create a colour image, cameras cover individual detector pixels with red, green or blue filters, each of which rejects most of the spectrum."
               },
               {
                 "t": "p",
-                "x": "The team built a quantum programming library in Lean. AI agents searched for programs, and each proposed solution had to include proofs of both correctness and cost; a separate checker confirmed it met the original requirements. Teams shared programs and failed approaches through a common wiki and scheduled virtual conferences."
+                "x": "One possible alternative is to replace these absorptive filters with a metasurface: a patterned layer of silicon-nitride nanopillars that could steer red, green and blue light towards the appropriate detector pixels. Designing such a pattern is, however, an enormous computational challenge."
               },
               {
                 "t": "p",
-                "x": "For the fusion stopping-power simulation, the improved program required 4,374 logical qubits, down from 5,650, and cut the combined qubit-and-gate cost by a factor of 10.9. Photochemistry fell by 8.08 and the cytochrome P450 model by 2.49. The researchers also reported a more than 290-fold reduction for computing arcsine."
+                "x": "Hyoseok Park and collaborators trained a neural network on 140,000 simulated structures, then combined it with a genetic algorithm that progressively selected and modified the most promising designs. The trained network evaluated optical fields around 230,000 times faster than the original simulations, enabling a search through 40 million candidates."
               },
               {
                 "t": "p",
-                "x": "The scientific programs still exceed what early fault-tolerant quantum computers are projected to handle. The team plans to release its Lean library, specifications and verified solutions as open source."
+                "x": "The resulting device transmitted 88.8% of incident light experimentally, compared with 24.7% for a conventional colour-filter array – a factor of 3.6 improvement. Some residual colour crosstalk and a modest loss of spatial resolution remain. Likely applications include smartphone cameras, low-light and night-vision imaging, security cameras, medical endoscopes, and microscopes."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI와 Lean 증명으로\n양자 비용 약 11배 절감",
-          "body": "Google AI가 Lean-checked 증명으로 양자 비용을 약 11배 줄였다.",
-          "mini_headline": "에이전트가\n양자 프로그램 축소",
+          "headline": "AI-designed\n메타표면이 빛 더 모은다",
+          "body": "신경망으로 설계한 나노 색 라우터가 흡수형 필터보다 많은 빛을 센서에 보낸다.",
+          "mini_headline": "AI 메타표면, 카메라 빛 늘려",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://thequantuminsider.com/wp-content/uploads/2026/11/Screenshot-2026-11-10-at-4.28.33-AM.png"
+                "src": "https://physicsworld.com/wp-content/uploads/2026/11/spectrum-web-8534073-iStock_koey.jpg",
+                "cap": "Bayer 컬러 필터는 카메라 센서가 풀컬러 이미지를 재구성할 때 쓰는 수십 년 된 빨강·초록·파랑 모자이크다. 더 진보한 대안이 들어설 여지가 있다(Credit: iStock/Koey)"
               },
               {
                 "t": "p",
-                "x": "Google 연구진이 AI 에이전트와 컴퓨터로 검증한 수학 증명을 써서 컴퓨팅 자원을 덜 먹는 양자 프로그램을 설계했다. Google DeepMind와 Google Quantum AI 연구진이 이끈 이 팀은 arXiv 프리프린트에서 핵융합 관련 시뮬레이션의 자원 비용을 약 열한 배, 광화학 계산은 여덟 배, 약물 대사 관련 모델은 2.5배 낮췄다고 밝혔다."
+                "x": "요즘 카메라는 들어오는 빛의 상당 부분을 버린다. 컬러 이미지를 얻으려고 검출 픽셀 하나하나를 빨강·초록·파랑 필터로 덮는데, 필터마다 스펙트럼 대부분을 걸러내서다."
               },
               {
                 "t": "p",
-                "x": "연구팀은 Lean으로 양자 프로그래밍 라이브러리를 만들었다. 프로그램 탐색은 AI 에이전트 몫이었는데, 에이전트가 내놓는 해법에는 정확성 증명과 비용 증명이 모두 들어가야 했다. 해법이 원래 요구 사항을 채우는지는 별도 검사기가 확인했다. 팀들은 공용 위키와 정기 가상 컨퍼런스에서 프로그램과 실패한 접근법을 나눴다."
+                "x": "흡수형 필터를 메타표면으로 바꾸는 방법이 있다. 질화규소 나노기둥을 패턴으로 배열한 층인데, 빨강·초록·파랑 빛을 각각 알맞은 검출 픽셀로 보낸다. 문제는 이런 패턴을 설계하는 데 계산이 막대하게 든다는 점이다."
               },
               {
                 "t": "p",
-                "x": "핵융합 저지능 시뮬레이션에서는 개선된 프로그램이 필요한 논리 큐비트를 5,650개에서 4,374개로 줄였고, 큐비트와 게이트를 합친 비용도 10.9배 낮췄다. 광화학은 8.08배, 시토크롬 P450 모델은 2.49배 줄었다. 연구진은 아크사인 계산에서 290배 넘게 줄인 결과도 보고했다."
+                "x": "Hyoseok Park과 공동 연구진은 시뮬레이션한 구조 140,000개로 신경망을 학습시키고, 유망한 설계를 차례로 골라 고쳐 나가는 유전 알고리즘과 묶었다. 학습한 신경망은 광학장을 기존 시뮬레이션보다 약 230,000배 빠르게 평가했고, 덕분에 후보 4천만 개를 탐색할 수 있었다."
               },
               {
                 "t": "p",
-                "x": "다만 이 과학 프로그램들은 아직 초기 결함 허용 양자 컴퓨터가 감당하리라 예상되는 수준을 넘는다. 연구팀은 Lean 라이브러리와 명세, 검증된 해법을 오픈소스로 공개할 계획이다."
+                "x": "완성된 소자는 실험에서 입사광의 88.8%를 통과시켰다. 기존 컬러 필터 배열의 24.7%보다 3.6배 나은 수치다. 색 간섭이 조금 남고 공간 해상도도 약간 떨어진다. 쓰임새로는 스마트폰 카메라, 저조도·야간 투시 영상, 보안 카메라, 의료용 내시경, 현미경 등이 꼽힌다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIとLean証明で\n量子コスト最大11倍削減",
-          "body": "GoogleのAIチームがLean-checked証明で核融合計算コストを約11倍削減した。",
-          "mini_headline": "エージェントが\n量子プログラムを縮小",
+          "headline": "AI-designed\nメタ表面で光を多く取り込む",
+          "body": "ニューラルネットが設計したナノ色ルーターは吸収型フィルターより多くの光をセンサーに届ける。",
+          "mini_headline": "AIメタ表面がカメラの光を増やす",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://thequantuminsider.com/wp-content/uploads/2026/11/Screenshot-2026-11-10-at-4.28.33-AM.png"
+                "src": "https://physicsworld.com/wp-content/uploads/2026/11/spectrum-web-8534073-iStock_koey.jpg",
+                "cap": "Bayerカラーフィルターは、カメラセンサーがフルカラー画像を再構成するために使う数十年来の赤・緑・青のモザイクで、より高度な代替技術の余地がある(Credit: iStock/Koey)"
               },
               {
                 "t": "p",
-                "x": "Googleの研究者らは、AIエージェントとコンピューターで検証された数学的証明を用いて、より少ない計算資源で動く量子プログラムを設計した。Google DeepMindとGoogle Quantum AIの研究者が率いるチームは、核融合関連のシミュレーションで約十一倍、光化学計算で八倍、薬物代謝に関わるモデルで2.5倍の資源コスト削減を報告した(arXivプレプリント)。"
+                "x": "現代のカメラは入ってくる光の多くを捨てている。カラー画像を作るため、カメラは個々の検出ピクセルを赤・緑・青のフィルターで覆うが、各フィルターはスペクトルの大部分を遮る。"
               },
               {
                 "t": "p",
-                "x": "チームはLeanで量子プログラミングライブラリを構築した。AIエージェントがプログラムを探索し、提案される解にはそれぞれ正しさとコストの両方の証明を含める必要があった。別のチェッカーが元の要件を満たしているかを確認した。チーム同士は共通のwikiと定期的なバーチャル会議を通じて、プログラムや失敗したアプローチを共有した。"
+                "x": "代替案の一つは、こうした吸収型フィルターをメタ表面に置き換えることだ。メタ表面は窒化ケイ素のナノピラーをパターン状に並べた層で、赤・緑・青の光を適切な検出ピクセルへ導ける。ただし、そのパターンの設計は膨大な計算を要する難題である。"
               },
               {
                 "t": "p",
-                "x": "核融合の阻止能シミュレーションでは、改良版プログラムに必要な論理量子ビットが5,650個から4,374個に減り、量子ビットとゲートを合わせたコストは10.9倍削減された。光化学は8.08倍、シトクロムP450モデルは2.49倍の削減となった。研究者らは逆正弦の計算で290倍を超える削減も報告した。"
+                "x": "Hyoseok Parkらは140,000個のシミュレーション構造でニューラルネットワークを訓練し、有望な設計を段階的に選んで改変する遺伝的アルゴリズムと組み合わせた。訓練済みネットワークは元のシミュレーションの約230,000倍の速さで光学場を評価し、4000万個の候補の探索を可能にした。"
               },
               {
                 "t": "p",
-                "x": "これらの科学計算プログラムは、初期の誤り耐性量子コンピューターが扱えると見込まれる規模をなお上回る。チームはLeanライブラリ、仕様、検証済みの解をオープンソースとして公開する予定だ。"
+                "x": "完成したデバイスは実験で入射光の88.8%を透過し、従来のカラーフィルターアレイの24.7%と比べて3.6倍の改善となった。色のクロストークがいくらか残り、空間解像度もやや低下する。用途としてはスマートフォンのカメラ、低照度・暗視撮影、防犯カメラ、医療用内視鏡、顕微鏡などが見込まれる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI智能体与Lean证明\n量子成本最多降低11倍",
-          "body": "Google的AI智能体借助Lean-checked证明，将聚变模拟成本降低约11倍。",
-          "mini_headline": "智能体\n压缩量子程序",
+          "headline": "AI-designed超表面\n让相机捕获更多光线",
+          "body": "神经网络助力设计的纳米级分色器，比吸收式滤光片向图像传感器输送更多光。",
+          "mini_headline": "AI超表面为相机增光",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://thequantuminsider.com/wp-content/uploads/2026/11/Screenshot-2026-11-10-at-4.28.33-AM.png"
+                "src": "https://physicsworld.com/wp-content/uploads/2026/11/spectrum-web-8534073-iStock_koey.jpg",
+                "cap": "Bayer滤色片是一种已有数十年历史的红绿蓝马赛克，用于相机传感器重建全彩图像，为更先进的替代方案留下了空间(Credit: iStock/Koey)"
               },
               {
                 "t": "p",
-                "x": "Google研究人员利用AI智能体和经计算机检验的数学证明，设计出所需计算资源更少的量子程序。这支由Google DeepMind与Google Quantum AI研究人员领衔的团队报告称，聚变相关模拟的资源成本降低约十一倍，光化学计算降低八倍，与药物代谢相关的模型降低2.5倍（arXiv预印本）。"
+                "x": "现代相机会丢弃大部分进入的光。为生成彩色图像，相机在各个探测像素上覆盖红、绿或蓝色滤光片，每个滤光片都会挡掉大部分光谱。"
               },
               {
                 "t": "p",
-                "x": "团队用Lean构建了一个量子编程库。AI智能体负责搜索程序，每个候选方案都必须同时附带正确性与成本的证明；另有一个独立检查器确认其满足原始要求。各团队通过共享wiki和定期举行的线上会议，交流程序与失败的思路。"
+                "x": "一种可能的替代方案是用超表面取代这些吸收式滤光片：这是一层由氮化硅纳米柱构成的图案化结构，可将红、绿、蓝光引向相应的探测像素。然而，设计这种图案是一项巨大的计算挑战。"
               },
               {
                 "t": "p",
-                "x": "在聚变阻止本领模拟中，改进后的程序所需逻辑量子比特从5,650个降至4,374个，量子比特与门的综合成本降低10.9倍。光化学降低8.08倍，细胞色素P450模型降低2.49倍。研究人员还报告，反正弦计算的成本降低了290倍以上。"
+                "x": "Hyoseok Park及其合作者用140,000个模拟结构训练了一个神经网络，再将其与遗传算法结合，逐步筛选并修改最有前景的设计。训练后的网络评估光场的速度比原始模拟快约230,000倍，从而能够搜索4000万个候选方案。"
               },
               {
                 "t": "p",
-                "x": "这些科学程序仍超出早期容错量子计算机预计能够处理的规模。团队计划将其Lean库、规约和经验证的解决方案开源。"
+                "x": "所得器件在实验中透过了88.8%的入射光，而传统滤色片阵列为24.7%，提升了3.6倍。仍存在一定的颜色串扰，空间分辨率也略有下降。可能的应用包括智能手机相机、弱光与夜视成像、安防摄像头、医用内窥镜和显微镜。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Agentes de AI y pruebas en Lean\nbajan hasta 11x costos cuánticos",
-          "body": "Agentes de AI de Google, con pruebas Lean-checked, recortaron unas 11 veces el costo de una simulación de fusión.",
-          "mini_headline": "Agentes que reducen\nprogramas cuánticos",
+          "headline": "Una metasuperficie AI-designed\nda más luz a las cámaras",
+          "body": "Una red neuronal ayudó a diseñar un enrutador de color nanométrico que da más luz al sensor que filtros absorbentes.",
+          "mini_headline": "Metasuperficie AI da más luz a cámaras",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://thequantuminsider.com/wp-content/uploads/2026/11/Screenshot-2026-11-10-at-4.28.33-AM.png"
+                "src": "https://physicsworld.com/wp-content/uploads/2026/11/spectrum-web-8534073-iStock_koey.jpg",
+                "cap": "Los filtros de color Bayer son un mosaico rojo, verde y azul con décadas de antigüedad que se usa en los sensores de las cámaras para reconstruir imágenes a todo color, lo que deja margen para una alternativa más avanzada (Crédito: iStock/Koey)"
               },
               {
                 "t": "p",
-                "x": "Investigadores de Google usaron agentes de AI y demostraciones matemáticas verificadas por computadora para diseñar programas cuánticos que requieren menos recursos de cómputo. El equipo, liderado por investigadores de Google DeepMind y Google Quantum AI, informó costos de recursos unas once veces menores en una simulación relacionada con la fusión, ocho veces menores en un cálculo de fotoquímica y 2.5 veces menores en un modelo relevante para el metabolismo de fármacos (preprint en arXiv)."
+                "x": "Las cámaras modernas desechan gran parte de la luz que entra en ellas. Para crear una imagen en color, cubren los píxeles detectores individuales con filtros rojos, verdes o azules, cada uno de los cuales rechaza la mayor parte del espectro."
               },
               {
                 "t": "p",
-                "x": "El equipo construyó una biblioteca de programación cuántica en Lean. Los agentes de AI buscaban programas, y cada solución propuesta debía incluir pruebas tanto de corrección como de costo; un verificador independiente confirmaba que cumplía los requisitos originales. Los equipos compartían programas y enfoques fallidos mediante una wiki común y conferencias virtuales programadas."
+                "x": "Una posible alternativa es sustituir estos filtros absorbentes por una metasuperficie: una capa estampada de nanopilares de nitruro de silicio capaz de dirigir la luz roja, verde y azul hacia los píxeles detectores adecuados. Sin embargo, diseñar un patrón así supone un enorme desafío computacional."
               },
               {
                 "t": "p",
-                "x": "En la simulación del poder de frenado para fusión, el programa mejorado requirió 4,374 qubits lógicos, frente a 5,650, y redujo el costo combinado de qubits y puertas en un factor de 10.9. La fotoquímica bajó en un factor de 8.08 y el modelo del citocromo P450, en 2.49. Los investigadores también informaron una reducción de más de 290 veces en el cálculo del arcoseno."
+                "x": "Hyoseok Park y sus colaboradores entrenaron una red neuronal con 140,000 estructuras simuladas y luego la combinaron con un algoritmo genético que seleccionaba y modificaba progresivamente los diseños más prometedores. La red entrenada evaluaba los campos ópticos unas 230,000 veces más rápido que las simulaciones originales, lo que permitió explorar 40 millones de candidatos."
               },
               {
                 "t": "p",
-                "x": "Los programas científicos aún superan lo que se prevé que puedan manejar las primeras computadoras cuánticas tolerantes a fallos. El equipo planea publicar como código abierto su biblioteca de Lean, las especificaciones y las soluciones verificadas."
+                "x": "El dispositivo resultante transmitió experimentalmente el 88.8% de la luz incidente, frente al 24.7% de una matriz de filtros de color convencional: una mejora de un factor de 3.6. Persisten cierta diafonía de color residual y una modesta pérdida de resolución espacial. Entre las aplicaciones probables figuran las cámaras de smartphones, la imagen con poca luz y de visión nocturna, las cámaras de seguridad, los endoscopios médicos y los microscopios."
               }
             ]
           }
@@ -555,121 +601,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI와 Lean 증명,\n양자 비용 11배까지 절감",
-          "body": "Google AI가 Lean-checked 증명으로 양자 비용을 약 11배 줄였다.",
-          "mini_headline": "에이전트가\n양자 프로그램 축소",
+          "headline": "AI-designed\n메타표면이 빛 더 모은다",
+          "body": "신경망으로 설계한 나노 색 라우터가 흡수형 필터보다 많은 빛을 센서에 보낸다.",
+          "mini_headline": "AI 메타표면, 카메라 빛 늘려",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://thequantuminsider.com/wp-content/uploads/2026/11/Screenshot-2026-11-10-at-4.28.33-AM.png"
+                "src": "https://physicsworld.com/wp-content/uploads/2026/11/spectrum-web-8534073-iStock_koey.jpg",
+                "cap": "Bayer 컬러 필터는 카메라 센서가 풀컬러 이미지를 재구성하는 데 쓰는 수십 년 된 빨강·초록·파랑 모자이크로, 더 진보한 대안이 들어설 여지가 있다(Credit: iStock/Koey)"
               },
               {
                 "t": "p",
-                "x": "Google 연구진이 AI 에이전트와 컴퓨터로 검증한 수학적 증명을 활용해 더 적은 컴퓨팅 자원으로 돌아가는 양자 프로그램을 설계했다. Google DeepMind와 Google Quantum AI 연구진이 이끈 이 팀은 핵융합 관련 시뮬레이션에서 자원 비용을 약 열한 배, 광화학 계산에서 여덟 배, 약물 대사 관련 모델에서 2.5배 낮췄다고 보고했다(arXiv 프리프린트)."
+                "x": "현대 카메라는 들어오는 빛의 상당 부분을 버린다. 컬러 이미지를 만들기 위해 카메라는 개별 검출 픽셀을 빨강·초록·파랑 필터로 덮는데, 각 필터는 스펙트럼 대부분을 걸러낸다."
               },
               {
                 "t": "p",
-                "x": "연구팀은 Lean으로 양자 프로그래밍 라이브러리를 만들었다. AI 에이전트가 프로그램을 탐색했고, 제안된 해법마다 정확성과 비용에 대한 증명을 모두 담아야 했다. 별도의 검사기가 해법이 원래 요구 사항을 충족하는지 확인했다. 팀들은 공용 위키와 정기 가상 컨퍼런스로 프로그램과 실패한 접근법을 공유했다."
+                "x": "대안 하나는 이런 흡수형 필터를 메타표면으로 바꾸는 것이다. 메타표면은 질화규소 나노기둥을 패턴으로 배열한 층으로, 빨강·초록·파랑 빛을 알맞은 검출 픽셀로 보낼 수 있다. 다만 이런 패턴을 설계하는 일은 막대한 계산 과제다."
               },
               {
                 "t": "p",
-                "x": "핵융합 저지능 시뮬레이션에서 개선된 프로그램은 필요한 논리 큐비트를 5,650개에서 4,374개로 줄였고, 큐비트와 게이트를 합친 비용을 10.9배 낮췄다. 광화학은 8.08배, 시토크롬 P450 모델은 2.49배 줄었다. 연구진은 아크사인 계산에서 290배가 넘는 감소도 보고했다."
+                "x": "Hyoseok Park과 공동 연구진은 시뮬레이션한 구조 140,000개로 신경망을 학습시킨 뒤, 가장 유망한 설계를 차례로 골라 수정하는 유전 알고리즘과 결합했다. 학습한 신경망은 기존 시뮬레이션보다 약 230,000배 빠르게 광학장을 평가해 후보 4천만 개를 탐색할 수 있게 했다."
               },
               {
                 "t": "p",
-                "x": "이 과학 프로그램들은 초기 결함 허용 양자 컴퓨터가 처리할 것으로 예상되는 수준을 여전히 넘어선다. 연구팀은 Lean 라이브러리와 명세, 검증된 해법을 오픈소스로 공개할 계획이다."
+                "x": "완성된 소자는 실험에서 입사광의 88.8%를 투과시켜, 기존 컬러 필터 배열의 24.7%보다 3.6배 나아졌다. 색 간섭이 일부 남고 공간 해상도도 다소 떨어진다. 스마트폰 카메라, 저조도·야간 투시 영상, 보안 카메라, 의료용 내시경, 현미경 등에 쓰일 것으로 보인다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIとLean証明で\n量子コスト最大11倍削減",
-          "body": "GoogleのAIチームがLean-checked証明で核融合計算コストを約11倍削減した。",
-          "mini_headline": "エージェントが\n量子プログラムを縮小",
+          "headline": "AI-designed\nメタ表面で光を多く取り込む",
+          "body": "ニューラルネットが設計したナノ色ルーターは吸収型フィルターより多くの光をセンサーに届ける。",
+          "mini_headline": "AIメタ表面がカメラの光を増やす",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://thequantuminsider.com/wp-content/uploads/2026/11/Screenshot-2026-11-10-at-4.28.33-AM.png"
+                "src": "https://physicsworld.com/wp-content/uploads/2026/11/spectrum-web-8534073-iStock_koey.jpg",
+                "cap": "Bayerカラーフィルターは、カメラセンサーがフルカラー画像を再構成するために使う数十年来の赤・緑・青のモザイクで、より高度な代替技術の余地がある(Credit: iStock/Koey)"
               },
               {
                 "t": "p",
-                "x": "Googleの研究者らは、AIエージェントとコンピューターで検証された数学的証明を用いて、より少ない計算資源で動く量子プログラムを設計した。Google DeepMindとGoogle Quantum AIの研究者が率いるチームは、核融合関連のシミュレーションで約十一倍、光化学計算で八倍、薬物代謝に関わるモデルで2.5倍の資源コスト削減を報告した(arXivプレプリント)。"
+                "x": "現代のカメラは入ってくる光の多くを捨てている。カラー画像を作るため、カメラは個々の検出ピクセルを赤・緑・青のフィルターで覆うが、各フィルターはスペクトルの大部分を遮る。"
               },
               {
                 "t": "p",
-                "x": "チームはLeanで量子プログラミングライブラリを構築した。AIエージェントがプログラムを探索し、提案される解にはそれぞれ正しさとコストの両方の証明を含める必要があった。別のチェッカーが元の要件を満たしているかを確認した。チーム同士は共通のwikiと定期的なバーチャル会議を通じて、プログラムや失敗したアプローチを共有した。"
+                "x": "代替案の一つは、こうした吸収型フィルターをメタ表面に置き換えることだ。メタ表面は窒化ケイ素のナノピラーをパターン状に並べた層で、赤・緑・青の光を適切な検出ピクセルへ導ける。ただし、そのパターンの設計は膨大な計算を要する難題である。"
               },
               {
                 "t": "p",
-                "x": "核融合の阻止能シミュレーションでは、改良版プログラムに必要な論理量子ビットが5,650個から4,374個に減り、量子ビットとゲートを合わせたコストは10.9倍削減された。光化学は8.08倍、シトクロムP450モデルは2.49倍の削減となった。研究者らは逆正弦の計算で290倍を超える削減も報告した。"
+                "x": "Hyoseok Parkらは140,000個のシミュレーション構造でニューラルネットワークを訓練し、有望な設計を段階的に選んで改変する遺伝的アルゴリズムと組み合わせた。訓練済みネットワークは元のシミュレーションの約230,000倍の速さで光学場を評価し、4000万個の候補の探索を可能にした。"
               },
               {
                 "t": "p",
-                "x": "これらの科学計算プログラムは、初期の誤り耐性量子コンピューターが扱えると見込まれる規模をなお上回る。チームはLeanライブラリ、仕様、検証済みの解をオープンソースとして公開する予定だ。"
+                "x": "完成したデバイスは実験で入射光の88.8%を透過し、従来のカラーフィルターアレイの24.7%と比べて3.6倍の改善となった。色のクロストークがいくらか残り、空間解像度もやや低下する。用途としてはスマートフォンのカメラ、低照度・暗視撮影、防犯カメラ、医療用内視鏡、顕微鏡などが見込まれる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI智能体与Lean证明\n量子成本最多降低11倍",
-          "body": "Google的AI智能体借助Lean-checked证明，将聚变模拟成本降低约11倍。",
-          "mini_headline": "智能体\n压缩量子程序",
+          "headline": "AI-designed超表面\n让相机捕获更多光线",
+          "body": "神经网络助力设计的纳米级分色器，比吸收式滤光片向图像传感器输送更多光。",
+          "mini_headline": "AI超表面为相机增光",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://thequantuminsider.com/wp-content/uploads/2026/11/Screenshot-2026-11-10-at-4.28.33-AM.png"
+                "src": "https://physicsworld.com/wp-content/uploads/2026/11/spectrum-web-8534073-iStock_koey.jpg",
+                "cap": "Bayer滤色片是一种已有数十年历史的红绿蓝马赛克，用于相机传感器重建全彩图像，为更先进的替代方案留下了空间(Credit: iStock/Koey)"
               },
               {
                 "t": "p",
-                "x": "Google研究人员利用AI智能体和经计算机检验的数学证明，设计出所需计算资源更少的量子程序。这支由Google DeepMind与Google Quantum AI研究人员领衔的团队报告称，聚变相关模拟的资源成本降低约十一倍，光化学计算降低八倍，与药物代谢相关的模型降低2.5倍（arXiv预印本）。"
+                "x": "现代相机会丢弃大部分进入的光。为生成彩色图像，相机在各个探测像素上覆盖红、绿或蓝色滤光片，每个滤光片都会挡掉大部分光谱。"
               },
               {
                 "t": "p",
-                "x": "团队用Lean构建了一个量子编程库。AI智能体负责搜索程序，每个候选方案都必须同时附带正确性与成本的证明；另有一个独立检查器确认其满足原始要求。各团队通过共享wiki和定期举行的线上会议，交流程序与失败的思路。"
+                "x": "一种可能的替代方案是用超表面取代这些吸收式滤光片：这是一层由氮化硅纳米柱构成的图案化结构，可将红、绿、蓝光引向相应的探测像素。然而，设计这种图案是一项巨大的计算挑战。"
               },
               {
                 "t": "p",
-                "x": "在聚变阻止本领模拟中，改进后的程序所需逻辑量子比特从5,650个降至4,374个，量子比特与门的综合成本降低10.9倍。光化学降低8.08倍，细胞色素P450模型降低2.49倍。研究人员还报告，反正弦计算的成本降低了290倍以上。"
+                "x": "Hyoseok Park及其合作者用140,000个模拟结构训练了一个神经网络，再将其与遗传算法结合，逐步筛选并修改最有前景的设计。训练后的网络评估光场的速度比原始模拟快约230,000倍，从而能够搜索4000万个候选方案。"
               },
               {
                 "t": "p",
-                "x": "这些科学程序仍超出早期容错量子计算机预计能够处理的规模。团队计划将其Lean库、规约和经验证的解决方案开源。"
+                "x": "所得器件在实验中透过了88.8%的入射光，而传统滤色片阵列为24.7%，提升了3.6倍。仍存在一定的颜色串扰，空间分辨率也略有下降。可能的应用包括智能手机相机、弱光与夜视成像、安防摄像头、医用内窥镜和显微镜。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Agentes de AI y pruebas en Lean\nbajan hasta 11x costos cuánticos",
-          "body": "Agentes de AI de Google, con pruebas Lean-checked, recortaron unas 11 veces el costo de una simulación de fusión.",
-          "mini_headline": "Agentes que reducen\nprogramas cuánticos",
+          "headline": "Una metasuperficie AI-designed\nda más luz a las cámaras",
+          "body": "Una red neuronal ayudó a diseñar un enrutador de color nanométrico que da más luz al sensor que filtros absorbentes.",
+          "mini_headline": "Metasuperficie AI da más luz a cámaras",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://thequantuminsider.com/wp-content/uploads/2026/11/Screenshot-2026-11-10-at-4.28.33-AM.png"
+                "src": "https://physicsworld.com/wp-content/uploads/2026/11/spectrum-web-8534073-iStock_koey.jpg",
+                "cap": "Los filtros de color Bayer son un mosaico rojo, verde y azul con décadas de antigüedad que se usa en los sensores de las cámaras para reconstruir imágenes a todo color, lo que deja margen para una alternativa más avanzada (Crédito: iStock/Koey)"
               },
               {
                 "t": "p",
-                "x": "Investigadores de Google usaron agentes de AI y demostraciones matemáticas verificadas por computadora para diseñar programas cuánticos que requieren menos recursos de cómputo. El equipo, liderado por investigadores de Google DeepMind y Google Quantum AI, informó costos de recursos unas once veces menores en una simulación relacionada con la fusión, ocho veces menores en un cálculo de fotoquímica y 2.5 veces menores en un modelo relevante para el metabolismo de fármacos (preprint en arXiv)."
+                "x": "Las cámaras modernas desechan gran parte de la luz que entra en ellas. Para crear una imagen en color, cubren los píxeles detectores individuales con filtros rojos, verdes o azules, cada uno de los cuales rechaza la mayor parte del espectro."
               },
               {
                 "t": "p",
-                "x": "El equipo construyó una biblioteca de programación cuántica en Lean. Los agentes de AI buscaban programas, y cada solución propuesta debía incluir pruebas tanto de corrección como de costo; un verificador independiente confirmaba que cumplía los requisitos originales. Los equipos compartían programas y enfoques fallidos mediante una wiki común y conferencias virtuales programadas."
+                "x": "Una posible alternativa es sustituir estos filtros absorbentes por una metasuperficie: una capa estampada de nanopilares de nitruro de silicio capaz de dirigir la luz roja, verde y azul hacia los píxeles detectores adecuados. Sin embargo, diseñar un patrón así supone un enorme desafío computacional."
               },
               {
                 "t": "p",
-                "x": "En la simulación del poder de frenado para fusión, el programa mejorado requirió 4,374 qubits lógicos, frente a 5,650, y redujo el costo combinado de qubits y puertas en un factor de 10.9. La fotoquímica bajó en un factor de 8.08 y el modelo del citocromo P450, en 2.49. Los investigadores también informaron una reducción de más de 290 veces en el cálculo del arcoseno."
+                "x": "Hyoseok Park y sus colaboradores entrenaron una red neuronal con 140,000 estructuras simuladas y luego la combinaron con un algoritmo genético que seleccionaba y modificaba progresivamente los diseños más prometedores. La red entrenada evaluaba los campos ópticos unas 230,000 veces más rápido que las simulaciones originales, lo que permitió explorar 40 millones de candidatos."
               },
               {
                 "t": "p",
-                "x": "Los programas científicos aún superan lo que se prevé que puedan manejar las primeras computadoras cuánticas tolerantes a fallos. El equipo planea publicar como código abierto su biblioteca de Lean, las especificaciones y las soluciones verificadas."
+                "x": "El dispositivo resultante transmitió experimentalmente el 88.8% de la luz incidente, frente al 24.7% de una matriz de filtros de color convencional: una mejora de un factor de 3.6. Persisten cierta diafonía de color residual y una modesta pérdida de resolución espacial. Entre las aplicaciones probables figuran las cámaras de smartphones, la imagen con poca luz y de visión nocturna, las cámaras de seguridad, los endoscopios médicos y los microscopios."
               }
             ]
           }
@@ -677,15 +727,15 @@
       }
     },
     {
-      "id": "science-vibe-qc-bonn",
+      "id": "yangmills-proof-gross-panel",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI 에이전트가 만든\n양자화학 vibe-qc",
-      "body": "Bonn 화학자는 AI가 거의 다 짠 vibe-qc의 오류를 교차 검증으로 잡았다.",
-      "mini_headline": "AI 에이전트가\nvibe-qc 구축",
+      "headline": "패널이 인정한 OpenAI\nYang-Mills 증명",
+      "body": "David Gross 위원회가 OpenAI의 Yang-Mills 증명을 인정했다.",
+      "mini_headline": "위원회, AI의 Yang-Mills 증명 인정",
       "tool": "Science",
-      "source": "Phys.org",
-      "url": "https://phys.org/news/2026-11-ai-probabilities-chemical.html",
+      "source": "Scientific American",
+      "url": "https://www.scientificamerican.com/article/openais-shepherds-affirm-blockbuster-physics-result/",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
@@ -693,209 +743,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/electrons-reveal-what.jpg",
-            "cap": "붕소와 질소 원자로 이뤄진 아주 얇은 층 위의 물 분자. vibe-qc로 계산하고 vibe-viewer로 시각화했다. 출처: Michael F. Peintinger"
+            "src": "https://static.scientificamerican.com/dam/asset/3ceddda6-8cb0-4621-9f8e-97277f5b40a7/shutterstock_2632659679-WEB.jpg?m=1794411083.492&w=1200",
+            "cap": "Igor Link/Shutterstock"
           },
           {
             "t": "p",
-            "x": "University of Bonn(본 대학교) Mulliken Center for Theoretical Chemistry의 Dr. Michael F. Peintinger는 인공지능으로 양자화학 소프트웨어를 짜면 무슨 일이 생기는지 연구했다. 결과는 Journal of Computational Chemistry에 실렸다."
+            "x": "OpenAI가 검증을 맡긴 전문가들이 양자 Yang-Mills 이론의 “존재성”을 다룬 인공지능 생성(AI-generated) 증명을 확인했다고 밝혔다. 이 이론은 입자물리학 표준모형을 떠받치는 핵심 토대다."
           },
           {
             "t": "p",
-            "x": "“제가 아는 한, vibe-qc는 거의 전적으로 생성형 AI로 개발된 이 분야 최초의 프로그램입니다.” 그의 말이다. 프로그램 작성과 테스트는 과학적 지도 아래 AI 에이전트가 맡았고, 첫 종합 버전은 약 10주 만에 나왔다."
+            "x": "회사는 또 한 번의 “slop drop”을 피하려고 이론물리학자 David Gross에게 증명 공개를 감독할 위원회를 맡겼다. 11월 10일 밤 Gross와 그가 고른 동료 네 명은 증명이 어떻게 작동하는지 설명한 문서를 올리고, Lean으로 한 형식 검증을 인정한다고 밝혔다."
           },
           {
             "t": "p",
-            "x": "“모든 제안을 검토해야 합니다.” 첫날 어시스턴트는 전자를 모두 쌍으로 다루는 방법으로 리튬 원자를 계산하려 했다. 리튬의 전자는 세 개다. 다른 오류는 따로 개발된 프로그램과 결과를 맞춰 보고 나서야 드러났다. 그래서 어떤 방법이든 이 비교를 통과해야 준비됐다고 본다."
-          },
-          {
-            "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/electrons-reveal-what-1.jpg",
-            "cap": "원자 54개로 이뤄진 산화마그네슘 결정의 단면. 출처: Michael F. Peintinger"
+            "x": "이 “shepherding(목자 역할)” 방식에 일부 수학자들은 반발했다. 뉴욕대학교의 Scott Armstrong은 “목자들이 마침내 Lean 증명을 공개해 기쁘다”며 “이런 검토는 공개적으로 하는 편이 더 효율적이고 빠르다”고 말했다."
           },
           {
             "t": "p",
-            "x": "vibe-qc는 분자와 결정을 다루는 범용 프로그램이 됐고, Mozilla Public License로 오픈소스 공개돼 있다. 지금까지 발표한 계산은 다이아몬드의 전자 에너지처럼 대부분 테스트용이었다."
+            "x": "Yang-Mills는 아직 풀리지 않은 밀레니엄 난제 다섯 개 가운데 하나다. OpenAI의 모델은 첫 부분인 “존재성” 문제를 풀었지만 “질량 간극” 문제는 여전히 남아 있다. 위원회는 “우리는 아직 이 증명을 완전히 이해했다고 주장하지 않는다”고 썼다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI agents build vibe-qc,\na quantum chemistry code",
-          "body": "A Bonn chemist had AI agents write most of vibe-qc, and cross-checks against an independent code caught errors.",
-          "mini_headline": "AI agents\nbuild vibe-qc",
+          "headline": "Gross-led panel affirms\nOpenAI's Yang-Mills proof",
+          "body": "A David Gross-led committee affirmed OpenAI's AI-generated Yang-Mills proof and released a Lean formal verification.",
+          "mini_headline": "Panel affirms AI Yang-Mills proof",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/electrons-reveal-what.jpg",
-                "cap": "A water molecule on a wafer-thin layer of boron and nitrogen atoms. Calculated with vibe-qc, visualized with vibe-viewer. Credit: Michael F. Peintinger"
+                "src": "https://static.scientificamerican.com/dam/asset/3ceddda6-8cb0-4621-9f8e-97277f5b40a7/shutterstock_2632659679-WEB.jpg?m=1794411083.492&w=1200",
+                "cap": "Igor Link/Shutterstock"
               },
               {
                 "t": "p",
-                "x": "Dr. Michael F. Peintinger from the Mulliken Center for Theoretical Chemistry at the University of Bonn investigated what happens when artificial intelligence is used to write quantum chemistry software. His work is published in the Journal of Computational Chemistry."
+                "x": "Experts appointed by OpenAI to vet the work say they’ve now verified its artificial-intelligence-generated proof of the “existence” of the quantum Yang-Mills theory—a vital foundation for the Standard Model of particle physics."
               },
               {
                 "t": "p",
-                "x": "“To the best of my knowledge, vibe-qc is the first program of its kind to be developed almost entirely by generative AI,” he says. AI agents wrote and tested the program under scientific guidance, and the first comprehensive version was ready after about 10 weeks."
+                "x": "Seeking to avoid another “slop drop,” the company enlisted theoretical physicist David Gross to lead a committee to supervise the proof’s release. On the night of November 10, Gross and the four colleagues he selected posted a document explaining how the proof works, alongside their affirmation of the proof’s formal verification in Lean."
               },
               {
                 "t": "p",
-                "x": "“I have to review every suggestion.” On the first day, the assistant wanted to calculate a lithium atom with a method that treats all electrons in pairs, though lithium has three electrons. Other errors were only noticed when results were compared with an independently developed program, so a method is only considered ready once it stands up to such comparisons."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/electrons-reveal-what-1.jpg",
-                "cap": "A cross-section of a magnesium oxide crystal with 54 atoms. Credit: Michael F. Peintinger"
+                "x": "This “shepherding” approach has riled some mathematicians. “I’m happy the shepherds are releasing the Lean proof, finally,” says Scott Armstrong of New York University. “This review can be done more efficiently and quickly in the open.”"
               },
               {
                 "t": "p",
-                "x": "vibe-qc has become a general-purpose program for molecules and crystals and is open source under the Mozilla Public License. So far, published calculations have mainly served as tests, such as electron energies in diamond."
+                "x": "Yang-Mills is one of five remaining unsolved Millennium Prize Problems. OpenAI’s model solved the first part, the “existence” problem; the “mass gap” remains unresolved. “We do not claim to fully understand the proof yet,” the committee wrote."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI 에이전트가 만든\n양자화학 vibe-qc",
-          "body": "Bonn 화학자는 AI가 거의 다 짠 vibe-qc의 오류를 교차 검증으로 잡았다.",
-          "mini_headline": "AI 에이전트가\nvibe-qc 구축",
+          "headline": "패널이 인정한 OpenAI\nYang-Mills 증명",
+          "body": "David Gross 위원회가 OpenAI의 Yang-Mills 증명을 인정했다.",
+          "mini_headline": "위원회, AI의 Yang-Mills 증명 인정",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/electrons-reveal-what.jpg",
-                "cap": "붕소와 질소 원자로 이뤄진 아주 얇은 층 위의 물 분자. vibe-qc로 계산하고 vibe-viewer로 시각화했다. 출처: Michael F. Peintinger"
+                "src": "https://static.scientificamerican.com/dam/asset/3ceddda6-8cb0-4621-9f8e-97277f5b40a7/shutterstock_2632659679-WEB.jpg?m=1794411083.492&w=1200",
+                "cap": "Igor Link/Shutterstock"
               },
               {
                 "t": "p",
-                "x": "University of Bonn(본 대학교) Mulliken Center for Theoretical Chemistry의 Dr. Michael F. Peintinger는 인공지능으로 양자화학 소프트웨어를 짜면 무슨 일이 생기는지 연구했다. 결과는 Journal of Computational Chemistry에 실렸다."
+                "x": "OpenAI가 검증을 맡긴 전문가들이 양자 Yang-Mills 이론의 “존재성”을 다룬 인공지능 생성(AI-generated) 증명을 확인했다고 밝혔다. 이 이론은 입자물리학 표준모형을 떠받치는 핵심 토대다."
               },
               {
                 "t": "p",
-                "x": "“제가 아는 한, vibe-qc는 거의 전적으로 생성형 AI로 개발된 이 분야 최초의 프로그램입니다.” 그의 말이다. 프로그램 작성과 테스트는 과학적 지도 아래 AI 에이전트가 맡았고, 첫 종합 버전은 약 10주 만에 나왔다."
+                "x": "회사는 또 한 번의 “slop drop”을 피하려고 이론물리학자 David Gross에게 증명 공개를 감독할 위원회를 맡겼다. 11월 10일 밤 Gross와 그가 고른 동료 네 명은 증명이 어떻게 작동하는지 설명한 문서를 올리고, Lean으로 한 형식 검증을 인정한다고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "“모든 제안을 검토해야 합니다.” 첫날 어시스턴트는 전자를 모두 쌍으로 다루는 방법으로 리튬 원자를 계산하려 했다. 리튬의 전자는 세 개다. 다른 오류는 따로 개발된 프로그램과 결과를 맞춰 보고 나서야 드러났다. 그래서 어떤 방법이든 이 비교를 통과해야 준비됐다고 본다."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/electrons-reveal-what-1.jpg",
-                "cap": "원자 54개로 이뤄진 산화마그네슘 결정의 단면. 출처: Michael F. Peintinger"
+                "x": "이 “shepherding(목자 역할)” 방식에 일부 수학자들은 반발했다. 뉴욕대학교의 Scott Armstrong은 “목자들이 마침내 Lean 증명을 공개해 기쁘다”며 “이런 검토는 공개적으로 하는 편이 더 효율적이고 빠르다”고 말했다."
               },
               {
                 "t": "p",
-                "x": "vibe-qc는 분자와 결정을 다루는 범용 프로그램이 됐고, Mozilla Public License로 오픈소스 공개돼 있다. 지금까지 발표한 계산은 다이아몬드의 전자 에너지처럼 대부분 테스트용이었다."
+                "x": "Yang-Mills는 아직 풀리지 않은 밀레니엄 난제 다섯 개 가운데 하나다. OpenAI의 모델은 첫 부분인 “존재성” 문제를 풀었지만 “질량 간극” 문제는 여전히 남아 있다. 위원회는 “우리는 아직 이 증명을 완전히 이해했다고 주장하지 않는다”고 썼다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIエージェントが作る\n量子化学コードvibe-qc",
-          "body": "Bonnの化学者はvibe-qcの大半をAIに書かせ、独立コードとの照合で誤りを捉えた。",
-          "mini_headline": "AIエージェントが\nvibe-qcを構築",
+          "headline": "委員会、OpenAIの\nYang-Mills証明認定",
+          "body": "Gross率いる委員会がOpenAIのAIによるYang-Mills証明を認めた。",
+          "mini_headline": "委員会がAIのYang-Mills証明を認定",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/electrons-reveal-what.jpg",
-                "cap": "ホウ素と窒素の原子からなるごく薄い層の上の水分子。vibe-qcで計算し、vibe-viewerで可視化した。提供:Michael F. Peintinger"
+                "src": "https://static.scientificamerican.com/dam/asset/3ceddda6-8cb0-4621-9f8e-97277f5b40a7/shutterstock_2632659679-WEB.jpg?m=1794411083.492&w=1200",
+                "cap": "Igor Link/Shutterstock"
               },
               {
                 "t": "p",
-                "x": "University of BonnのMulliken Center for Theoretical Chemistryに所属するDr. Michael F. Peintingerは、人工知能を使って量子化学ソフトウェアを書くと何が起きるかを調べた。研究成果はJournal of Computational Chemistryに掲載されている。"
+                "x": "OpenAIが検証のために任命した専門家らは、量子Yang-Mills理論の「存在」に関する人工知能生成(AI-generated)の証明を検証したと述べた。この理論は素粒子物理学の標準模型の重要な基盤である。"
               },
               {
                 "t": "p",
-                "x": "「私の知る限り、vibe-qcはほぼ全面的に生成AIによって開発された、この種のものとして初めてのプログラムだ」と彼は言う。AIエージェントが科学的な指導のもとでプログラムを書いてテストし、約10週間で最初の包括的なバージョンが完成した。"
+                "x": "再び「slop drop」となるのを避けるため、同社は理論物理学者David Grossに、証明の公開を監督する委員会を率いるよう依頼した。11月10日夜、Grossと彼が選んだ四人の同僚は、証明の仕組みを説明する文書を公開し、Leanによる証明の形式検証を認めた。"
               },
               {
                 "t": "p",
-                "x": "「すべての提案を確認しなければならない」。初日、アシスタントはすべての電子を対にして扱う手法でリチウム原子を計算しようとしたが、リチウムの電子は三つだ。ほかの誤りは、独立に開発されたプログラムと結果を比較して初めて気づいた。そのため、ある手法はそうした比較に耐えて初めて完成とみなされる。"
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/electrons-reveal-what-1.jpg",
-                "cap": "54個の原子からなる酸化マグネシウム結晶の断面。提供:Michael F. Peintinger"
+                "x": "この「shepherding(羊飼い役)」方式には一部の数学者が反発している。ニューヨーク大学のScott Armstrongは「羊飼いたちがようやくLeanの証明を公開してくれてうれしい」と述べ、「この審査は公開の場で行う方が効率的で速い」と語った。"
               },
               {
                 "t": "p",
-                "x": "vibe-qcは分子と結晶を扱う汎用プログラムに成長し、Mozilla Public Licenseのもとでオープンソースとして公開されている。これまでに発表された計算は、ダイヤモンド中の電子エネルギーなど、主にテストとしての役割を果たしてきた。"
+                "x": "Yang-Millsは未解決のまま残る五つのミレニアム懸賞問題の一つだ。OpenAIのモデルは第一の部分である「存在」問題を解いたが、「質量ギャップ」は未解決のままである。委員会は「我々はまだこの証明を完全に理解しているとは主張しない」と記した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI智能体打造\n量子化学代码vibe-qc",
-          "body": "Bonn一位化学家让AI智能体写出vibe-qc大部分代码，再与独立代码比对查出错误。",
-          "mini_headline": "AI智能体\n打造vibe-qc",
+          "headline": "委员会认可OpenAI的\nYang-Mills证明",
+          "body": "Gross领衔委员会认可OpenAI的AI生成Yang-Mills证明并发布Lean验证。",
+          "mini_headline": "委员会认可AI的Yang-Mills证明",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/electrons-reveal-what.jpg",
-                "cap": "由硼原子和氮原子构成的极薄层上的一个水分子。由vibe-qc计算，vibe-viewer可视化。图片来源：Michael F. Peintinger"
+                "src": "https://static.scientificamerican.com/dam/asset/3ceddda6-8cb0-4621-9f8e-97277f5b40a7/shutterstock_2632659679-WEB.jpg?m=1794411083.492&w=1200",
+                "cap": "Igor Link/Shutterstock"
               },
               {
                 "t": "p",
-                "x": "University of Bonn（波恩大学）Mulliken Center for Theoretical Chemistry的Dr. Michael F. Peintinger研究了用人工智能编写量子化学软件会带来什么结果。他的研究发表在Journal of Computational Chemistry上。"
+                "x": "OpenAI任命的审查专家表示，他们现已验证其由人工智能生成（AI-generated）的量子Yang-Mills理论“存在性”证明——该理论是粒子物理标准模型的重要基础。"
               },
               {
                 "t": "p",
-                "x": "“据我所知，vibe-qc是首个几乎完全由生成式AI开发的同类程序。”他说。AI智能体在科学指导下编写并测试了该程序，约10周后，第一个完整版本就已就绪。"
+                "x": "为避免再次出现“slop drop”，该公司请理论物理学家David Gross领导一个委员会，监督证明的发布。11月10日晚，Gross与他挑选的四位同事发布了一份解释证明原理的文件，并确认了该证明在Lean中的形式化验证。"
               },
               {
                 "t": "p",
-                "x": "“每一条建议我都必须审查。”第一天，助手就想用一种把所有电子成对处理的方法来计算锂原子，而锂有三个电子。另一些错误直到把结果与一个独立开发的程序进行比较时才被发现，因此一种方法只有经得起这样的比较，才被视为可用。"
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/electrons-reveal-what-1.jpg",
-                "cap": "含54个原子的氧化镁晶体截面。图片来源：Michael F. Peintinger"
+                "x": "这种“shepherding（牧羊式）”做法激怒了一些数学家。纽约大学的Scott Armstrong说：“我很高兴牧羊人终于公开了Lean证明。”“这种审查可以在公开环境中更高效、更快速地完成。”"
               },
               {
                 "t": "p",
-                "x": "vibe-qc已发展为适用于分子和晶体的通用程序，并以Mozilla Public License开源。目前已发表的计算主要用于测试，例如金刚石中的电子能量。"
+                "x": "Yang-Mills是仍未解决的五个千禧年大奖难题之一。OpenAI的模型解决了第一部分，即“存在性”问题；“质量间隙”问题仍未解决。委员会写道：“我们并不声称已完全理解这一证明。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Agentes de AI crean vibe-qc,\nun código de química cuántica",
-          "body": "Un químico de Bonn delegó en agentes de AI la mayor parte de vibe-qc; cotejarlo con otro código reveló errores.",
-          "mini_headline": "Agentes de AI\ncrean vibe-qc",
+          "headline": "Un panel de Gross respalda\nla prueba Yang-Mills de OpenAI",
+          "body": "Un comité liderado por David Gross avaló la prueba Yang-Mills de OpenAI hecha por AI y publicó su verificación en Lean.",
+          "mini_headline": "Un panel avala la prueba Yang-Mills de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/electrons-reveal-what.jpg",
-                "cap": "Una molécula de agua sobre una capa finísima de átomos de boro y nitrógeno. Calculada con vibe-qc y visualizada con vibe-viewer. Crédito: Michael F. Peintinger"
+                "src": "https://static.scientificamerican.com/dam/asset/3ceddda6-8cb0-4621-9f8e-97277f5b40a7/shutterstock_2632659679-WEB.jpg?m=1794411083.492&w=1200",
+                "cap": "Igor Link/Shutterstock"
               },
               {
                 "t": "p",
-                "x": "El Dr. Michael F. Peintinger, del Mulliken Center for Theoretical Chemistry de la University of Bonn, investigó qué ocurre cuando se usa la inteligencia artificial para escribir software de química cuántica. Su trabajo se publica en el Journal of Computational Chemistry."
+                "x": "Los expertos designados por OpenAI para revisar el trabajo afirman que ya han verificado su prueba generada por inteligencia artificial (AI-generated) de la “existencia” de la teoría cuántica de Yang-Mills, un pilar fundamental del Modelo Estándar de la física de partículas."
               },
               {
                 "t": "p",
-                "x": "“Hasta donde sé, vibe-qc es el primer programa de su tipo desarrollado casi por completo mediante AI generativa”, afirma. Agentes de AI escribieron y probaron el programa bajo orientación científica, y la primera versión completa estuvo lista tras unas 10 semanas."
+                "x": "Para evitar otro “slop drop”, la empresa pidió al físico teórico David Gross que dirigiera un comité encargado de supervisar la publicación de la prueba. La noche del 10 de noviembre, Gross y los cuatro colegas que eligió publicaron un documento que explica cómo funciona la prueba, junto con su aval a la verificación formal de la prueba en Lean."
               },
               {
                 "t": "p",
-                "x": "“Tengo que revisar cada sugerencia.” El primer día, el asistente quiso calcular un átomo de litio con un método que trata todos los electrones en pares, aunque el litio tiene tres electrones. Otros errores solo se detectaron al comparar los resultados con un programa desarrollado de forma independiente, por lo que un método solo se considera listo cuando resiste esas comparaciones."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/electrons-reveal-what-1.jpg",
-                "cap": "Sección transversal de un cristal de óxido de magnesio con 54 átomos. Crédito: Michael F. Peintinger"
+                "x": "Este enfoque de “shepherding” (pastoreo) ha irritado a algunos matemáticos. “Me alegra que los pastores por fin publiquen la prueba en Lean”, dice Scott Armstrong, de la Universidad de Nueva York. “Esta revisión puede hacerse de forma más eficiente y rápida en abierto”."
               },
               {
                 "t": "p",
-                "x": "vibe-qc se ha convertido en un programa de uso general para moléculas y cristales y es de código abierto bajo la Mozilla Public License. Hasta ahora, los cálculos publicados han servido sobre todo como pruebas, como las energías electrónicas en el diamante."
+                "x": "Yang-Mills es uno de los cinco Problemas del Milenio que siguen sin resolverse. El modelo de OpenAI resolvió la primera parte, el problema de la “existencia”; la “brecha de masa” sigue sin resolverse. “Todavía no afirmamos comprender del todo la prueba”, escribió el comité."
               }
             ]
           }
@@ -903,145 +923,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI 에이전트가 만든\n양자화학 vibe-qc",
-          "body": "Bonn 화학자는 AI가 대부분 짠 vibe-qc의 오류를 교차 검증으로 잡았다.",
-          "mini_headline": "AI 에이전트가\nvibe-qc 구축",
+          "headline": "패널이 인정한 OpenAI\nYang-Mills 증명",
+          "body": "David Gross 위원회가 OpenAI의 Yang-Mills 증명을 인정했다.",
+          "mini_headline": "위원회, AI의 Yang-Mills 증명 인정",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/electrons-reveal-what.jpg",
-                "cap": "붕소와 질소 원자로 이뤄진 아주 얇은 층 위의 물 분자. vibe-qc로 계산하고 vibe-viewer로 시각화했다. 출처: Michael F. Peintinger"
+                "src": "https://static.scientificamerican.com/dam/asset/3ceddda6-8cb0-4621-9f8e-97277f5b40a7/shutterstock_2632659679-WEB.jpg?m=1794411083.492&w=1200",
+                "cap": "Igor Link/Shutterstock"
               },
               {
                 "t": "p",
-                "x": "University of Bonn(본 대학교) Mulliken Center for Theoretical Chemistry의 Dr. Michael F. Peintinger는 인공지능으로 양자화학 소프트웨어를 작성하면 어떤 일이 벌어지는지 연구했다. 연구 결과는 Journal of Computational Chemistry에 실렸다."
+                "x": "OpenAI가 검증을 맡긴 전문가들은 양자 Yang-Mills 이론의 “존재성”에 대한 인공지능 생성(AI-generated) 증명을 이제 확인했다고 밝혔다. 이 이론은 입자물리학 표준모형의 핵심 토대다."
               },
               {
                 "t": "p",
-                "x": "“제가 아는 한, vibe-qc는 거의 전적으로 생성형 AI로 개발된 이 분야 최초의 프로그램입니다.” 그의 말이다. AI 에이전트가 과학적 지도 아래 프로그램을 작성하고 테스트했으며, 약 10주 만에 첫 종합 버전이 완성됐다."
+                "x": "또 한 번의 “slop drop”을 피하려고 회사는 이론물리학자 David Gross에게 증명 공개를 감독할 위원회를 이끌게 했다. 11월 10일 밤, Gross와 그가 고른 동료 네 명은 증명의 작동 방식을 설명하는 문서를 올리고, Lean으로 한 증명의 형식 검증을 인정한다고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "“모든 제안을 검토해야 합니다.” 첫날 어시스턴트는 모든 전자를 쌍으로 다루는 방법으로 리튬 원자를 계산하려 했지만, 리튬의 전자는 세 개다. 다른 오류는 독립적으로 개발된 프로그램과 결과를 비교했을 때에야 드러났다. 그래서 어떤 방법이든 이런 비교를 통과해야 준비된 것으로 본다."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/electrons-reveal-what-1.jpg",
-                "cap": "원자 54개로 이뤄진 산화마그네슘 결정의 단면. 출처: Michael F. Peintinger"
+                "x": "이 “shepherding(목자 역할)” 방식은 일부 수학자들의 반발을 샀다. 뉴욕대학교의 Scott Armstrong은 “목자들이 마침내 Lean 증명을 공개해 기쁘다”며 “이런 검토는 공개적으로 하는 편이 더 효율적이고 빠르다”고 말했다."
               },
               {
                 "t": "p",
-                "x": "vibe-qc는 분자와 결정을 다루는 범용 프로그램으로 자리 잡았고, Mozilla Public License에 따라 오픈소스로 공개돼 있다. 지금까지 발표된 계산은 다이아몬드의 전자 에너지처럼 주로 테스트 용도였다."
+                "x": "Yang-Mills는 아직 풀리지 않은 밀레니엄 난제 다섯 개 가운데 하나다. OpenAI의 모델은 첫 부분인 “존재성” 문제를 풀었고, “질량 간극” 문제는 여전히 미해결이다. 위원회는 “우리는 아직 이 증명을 완전히 이해했다고 주장하지 않는다”고 썼다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIエージェントが作る\n量子化学コードvibe-qc",
-          "body": "Bonnの化学者はvibe-qcの大半をAIに書かせ、独立コードとの照合で誤りを捉えた。",
-          "mini_headline": "AIエージェントが\nvibe-qcを構築",
+          "headline": "委員会、OpenAIの\nYang-Mills証明認定",
+          "body": "Gross率いる委員会がOpenAIのAIによるYang-Mills証明を認めた。",
+          "mini_headline": "委員会がAIのYang-Mills証明を認定",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/electrons-reveal-what.jpg",
-                "cap": "ホウ素と窒素の原子からなるごく薄い層の上の水分子。vibe-qcで計算し、vibe-viewerで可視化した。提供:Michael F. Peintinger"
+                "src": "https://static.scientificamerican.com/dam/asset/3ceddda6-8cb0-4621-9f8e-97277f5b40a7/shutterstock_2632659679-WEB.jpg?m=1794411083.492&w=1200",
+                "cap": "Igor Link/Shutterstock"
               },
               {
                 "t": "p",
-                "x": "University of BonnのMulliken Center for Theoretical Chemistryに所属するDr. Michael F. Peintingerは、人工知能を使って量子化学ソフトウェアを書くと何が起きるかを調べた。研究成果はJournal of Computational Chemistryに掲載されている。"
+                "x": "OpenAIが検証のために任命した専門家らは、量子Yang-Mills理論の「存在」に関する人工知能生成(AI-generated)の証明を検証したと述べた。この理論は素粒子物理学の標準模型の重要な基盤である。"
               },
               {
                 "t": "p",
-                "x": "「私の知る限り、vibe-qcはほぼ全面的に生成AIによって開発された、この種のものとして初めてのプログラムだ」と彼は言う。AIエージェントが科学的な指導のもとでプログラムを書いてテストし、約10週間で最初の包括的なバージョンが完成した。"
+                "x": "再び「slop drop」となるのを避けるため、同社は理論物理学者David Grossに、証明の公開を監督する委員会を率いるよう依頼した。11月10日夜、Grossと彼が選んだ四人の同僚は、証明の仕組みを説明する文書を公開し、Leanによる証明の形式検証を認めた。"
               },
               {
                 "t": "p",
-                "x": "「すべての提案を確認しなければならない」。初日、アシスタントはすべての電子を対にして扱う手法でリチウム原子を計算しようとしたが、リチウムの電子は三つだ。ほかの誤りは、独立に開発されたプログラムと結果を比較して初めて気づいた。そのため、ある手法はそうした比較に耐えて初めて完成とみなされる。"
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/electrons-reveal-what-1.jpg",
-                "cap": "54個の原子からなる酸化マグネシウム結晶の断面。提供:Michael F. Peintinger"
+                "x": "この「shepherding(羊飼い役)」方式には一部の数学者が反発している。ニューヨーク大学のScott Armstrongは「羊飼いたちがようやくLeanの証明を公開してくれてうれしい」と述べ、「この審査は公開の場で行う方が効率的で速い」と語った。"
               },
               {
                 "t": "p",
-                "x": "vibe-qcは分子と結晶を扱う汎用プログラムに成長し、Mozilla Public Licenseのもとでオープンソースとして公開されている。これまでに発表された計算は、ダイヤモンド中の電子エネルギーなど、主にテストとしての役割を果たしてきた。"
+                "x": "Yang-Millsは未解決のまま残る五つのミレニアム懸賞問題の一つだ。OpenAIのモデルは第一の部分である「存在」問題を解いたが、「質量ギャップ」は未解決のままである。委員会は「我々はまだこの証明を完全に理解しているとは主張しない」と記した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI智能体打造\n量子化学代码vibe-qc",
-          "body": "Bonn一位化学家让AI智能体写出vibe-qc大部分代码，再与独立代码比对查出错误。",
-          "mini_headline": "AI智能体\n打造vibe-qc",
+          "headline": "委员会认可OpenAI的\nYang-Mills证明",
+          "body": "Gross领衔委员会认可OpenAI的AI生成Yang-Mills证明并发布Lean验证。",
+          "mini_headline": "委员会认可AI的Yang-Mills证明",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/electrons-reveal-what.jpg",
-                "cap": "由硼原子和氮原子构成的极薄层上的一个水分子。由vibe-qc计算，vibe-viewer可视化。图片来源：Michael F. Peintinger"
+                "src": "https://static.scientificamerican.com/dam/asset/3ceddda6-8cb0-4621-9f8e-97277f5b40a7/shutterstock_2632659679-WEB.jpg?m=1794411083.492&w=1200",
+                "cap": "Igor Link/Shutterstock"
               },
               {
                 "t": "p",
-                "x": "University of Bonn（波恩大学）Mulliken Center for Theoretical Chemistry的Dr. Michael F. Peintinger研究了用人工智能编写量子化学软件会带来什么结果。他的研究发表在Journal of Computational Chemistry上。"
+                "x": "OpenAI任命的审查专家表示，他们现已验证其由人工智能生成（AI-generated）的量子Yang-Mills理论“存在性”证明——该理论是粒子物理标准模型的重要基础。"
               },
               {
                 "t": "p",
-                "x": "“据我所知，vibe-qc是首个几乎完全由生成式AI开发的同类程序。”他说。AI智能体在科学指导下编写并测试了该程序，约10周后，第一个完整版本就已就绪。"
+                "x": "为避免再次出现“slop drop”，该公司请理论物理学家David Gross领导一个委员会，监督证明的发布。11月10日晚，Gross与他挑选的四位同事发布了一份解释证明原理的文件，并确认了该证明在Lean中的形式化验证。"
               },
               {
                 "t": "p",
-                "x": "“每一条建议我都必须审查。”第一天，助手就想用一种把所有电子成对处理的方法来计算锂原子，而锂有三个电子。另一些错误直到把结果与一个独立开发的程序进行比较时才被发现，因此一种方法只有经得起这样的比较，才被视为可用。"
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/electrons-reveal-what-1.jpg",
-                "cap": "含54个原子的氧化镁晶体截面。图片来源：Michael F. Peintinger"
+                "x": "这种“shepherding（牧羊式）”做法激怒了一些数学家。纽约大学的Scott Armstrong说：“我很高兴牧羊人终于公开了Lean证明。”“这种审查可以在公开环境中更高效、更快速地完成。”"
               },
               {
                 "t": "p",
-                "x": "vibe-qc已发展为适用于分子和晶体的通用程序，并以Mozilla Public License开源。目前已发表的计算主要用于测试，例如金刚石中的电子能量。"
+                "x": "Yang-Mills是仍未解决的五个千禧年大奖难题之一。OpenAI的模型解决了第一部分，即“存在性”问题；“质量间隙”问题仍未解决。委员会写道：“我们并不声称已完全理解这一证明。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Agentes de AI crean vibe-qc,\nun código de química cuántica",
-          "body": "Un químico de Bonn delegó en agentes de AI la mayor parte de vibe-qc; cotejarlo con otro código reveló errores.",
-          "mini_headline": "Agentes de AI\ncrean vibe-qc",
+          "headline": "Un panel de Gross respalda\nla prueba Yang-Mills de OpenAI",
+          "body": "Un comité liderado por David Gross avaló la prueba Yang-Mills de OpenAI hecha por AI y publicó su verificación en Lean.",
+          "mini_headline": "Un panel avala la prueba Yang-Mills de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/electrons-reveal-what.jpg",
-                "cap": "Una molécula de agua sobre una capa finísima de átomos de boro y nitrógeno. Calculada con vibe-qc y visualizada con vibe-viewer. Crédito: Michael F. Peintinger"
+                "src": "https://static.scientificamerican.com/dam/asset/3ceddda6-8cb0-4621-9f8e-97277f5b40a7/shutterstock_2632659679-WEB.jpg?m=1794411083.492&w=1200",
+                "cap": "Igor Link/Shutterstock"
               },
               {
                 "t": "p",
-                "x": "El Dr. Michael F. Peintinger, del Mulliken Center for Theoretical Chemistry de la University of Bonn, investigó qué ocurre cuando se usa la inteligencia artificial para escribir software de química cuántica. Su trabajo se publica en el Journal of Computational Chemistry."
+                "x": "Los expertos designados por OpenAI para revisar el trabajo afirman que ya han verificado su prueba generada por inteligencia artificial (AI-generated) de la “existencia” de la teoría cuántica de Yang-Mills, un pilar fundamental del Modelo Estándar de la física de partículas."
               },
               {
                 "t": "p",
-                "x": "“Hasta donde sé, vibe-qc es el primer programa de su tipo desarrollado casi por completo mediante AI generativa”, afirma. Agentes de AI escribieron y probaron el programa bajo orientación científica, y la primera versión completa estuvo lista tras unas 10 semanas."
+                "x": "Para evitar otro “slop drop”, la empresa pidió al físico teórico David Gross que dirigiera un comité encargado de supervisar la publicación de la prueba. La noche del 10 de noviembre, Gross y los cuatro colegas que eligió publicaron un documento que explica cómo funciona la prueba, junto con su aval a la verificación formal de la prueba en Lean."
               },
               {
                 "t": "p",
-                "x": "“Tengo que revisar cada sugerencia.” El primer día, el asistente quiso calcular un átomo de litio con un método que trata todos los electrones en pares, aunque el litio tiene tres electrones. Otros errores solo se detectaron al comparar los resultados con un programa desarrollado de forma independiente, por lo que un método solo se considera listo cuando resiste esas comparaciones."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/electrons-reveal-what-1.jpg",
-                "cap": "Sección transversal de un cristal de óxido de magnesio con 54 átomos. Crédito: Michael F. Peintinger"
+                "x": "Este enfoque de “shepherding” (pastoreo) ha irritado a algunos matemáticos. “Me alegra que los pastores por fin publiquen la prueba en Lean”, dice Scott Armstrong, de la Universidad de Nueva York. “Esta revisión puede hacerse de forma más eficiente y rápida en abierto”."
               },
               {
                 "t": "p",
-                "x": "vibe-qc se ha convertido en un programa de uso general para moléculas y cristales y es de código abierto bajo la Mozilla Public License. Hasta ahora, los cálculos publicados han servido sobre todo como pruebas, como las energías electrónicas en el diamante."
+                "x": "Yang-Mills es uno de los cinco Problemas del Milenio que siguen sin resolverse. El modelo de OpenAI resolvió la primera parte, el problema de la “existencia”; la “brecha de masa” sigue sin resolverse. “Todavía no afirmamos comprender del todo la prueba”, escribió el comité."
               }
             ]
           }
@@ -1049,15 +1049,15 @@
       }
     },
     {
-      "id": "science-hku-holographic-optics",
+      "id": "cornell-fish-schooling-ml",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "학습형 광학이\nVR·AR 홀로그램 또렷이",
-      "body": "HKU 연구진은 카메라 측정으로 광학 모델을 학습해 홀로그램 시제품 결함을 잡았다.",
-      "mini_headline": "더 선명한\n홀로그램 디스플레이",
+      "headline": "머신러닝이 추적한\n물고기 떼 짓기의 흥망",
+      "body": "Cornell AI로 본 2,839종 군집은 약 60번 나고 약 320번 사라졌다.",
+      "mini_headline": "AI로 본 물고기 떼의 역사",
       "tool": "Science",
-      "source": "Tech Xplore",
-      "url": "https://techxplore.com/news/2026-11-ai-graphics-optics-combine-realistic.html",
+      "source": "Phys.org",
+      "url": "https://phys.org/news/2026-11-machine-reveals-fish-schooling-evolved.html",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
@@ -1065,209 +1065,203 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/hku-researchers-bring.jpg",
-            "cap": "HKU의 홀로그램 디스플레이 연구를 표현한 개념도. 출처: The University of Hong Kong"
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2025/school-fish.jpg",
+            "cap": "Credit: Unsplash/CC0 Public Domain"
           },
           {
             "t": "p",
-            "x": "Yifan Evan Peng 교수가 이끄는 The University of Hong Kong(HKU) 연구진이 컴퓨터 그래픽스와 파동 광학, AI-based 보정을 엮은 기법 두 가지를 내놓았다. 홀로그램 디스플레이가 초점과 시점, 재질 표현의 변화를 더 자연스럽게 재현하도록 돕는 기법이다."
+            "x": "과학자들이 새 머신러닝 기법으로 수천 종 물고기의 떼 짓기가 어떻게 진화했는지 살폈다. 논문은 11월 6일 Proceedings of the National Academy of Sciences에 실렸다."
           },
           {
             "t": "p",
-            "x": "Nature Communications에 실린 첫 연구는 폴리곤 메시에서 출발해 홀로그램을 만드는 내내 장면의 3D 구조를 유지한다. 실제 디스플레이와 생기는 간극은 AI-based 보정이 메운다. 카메라 측정값으로 학습한 모델이 광학계의 결함까지 반영하는 방식이다. 실험실 테스트에서는 초점 변화가 더 매끄러워지고 이미지 디테일도 더 선명해졌다."
-          },
-          {
-            "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-computer-graphics-a.jpg",
-            "cap": "미래의 홀로그램 AR 경험을 표현한 개념도. 출처: The University of Hong Kong"
+            "x": "지난 3억5000만 년 동안 어류 진화 계통수 곳곳에서 물고기 종들은 한 덩어리로 움직이는 능력을 따로따로 약 60번 얻었고 약 320번 잃었다."
           },
           {
             "t": "p",
-            "x": "ACM Transactions on Graphics에 실린 두 번째 연구의 HoloPathTracer는 경로 추적과 파동 광학을 합쳐 반사와 굴절, 움직이는 하이라이트, 간접 조명까지 재현한다."
+            "x": "연구팀은 대규모 언어 모델과 같은 방식의 텍스트 트랜스포머를 종 설명문으로 학습시켰다. 사진과 영상은 머신러닝으로 분석해 삼차원으로 바꾼 뒤 물고기가 무리 지어 움직이는지 평가했다. 이렇게 떼 짓기를 정량화한 종은 모두 2,839종으로, 현존 어종 39,000종의 10%에 가깝다."
+          },
+          {
+            "t": "video",
+            "src": "https://scx2.b-cdn.net/gfx/video/2026/machine-learning-helps.mp4"
           },
           {
             "t": "p",
-            "x": "두 연구 모두 아직 연구용 시제품 단계다. 실시간 소비자용으로 쓰려면 연산이 더 빨라지고 공간 광 변조기도 더 좋아져야 한다."
+            "x": "먹이사슬 아래쪽 종일수록 떼를 지을 가능성이 높고, 무리 지어 다니는 포식자는 거의 다 무리 지어 다니는 먹이를 먹는다. 모든 종이 떼를 짓는 계통에서는 새 종이 더 빨리 생겨났다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Learned optics sharpen\nholographic VR and AR",
-          "body": "HKU researchers trained an optics model on camera measurements to correct flaws in a holographic display prototype.",
-          "mini_headline": "Sharper\nholographic displays",
+          "headline": "Machine learning maps how\nfish schooling came and went",
+          "body": "Across 2,839 species, Cornell's AI analysis found schooling evolved about 60 times and vanished about 320 times.",
+          "mini_headline": "AI traces fish schooling's history",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/hku-researchers-bring.jpg",
-                "cap": "Conceptual illustration of HKU's holographic display research. Credit: The University of Hong Kong"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2025/school-fish.jpg",
+                "cap": "Credit: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "Combining computer graphics, wave optics and AI-based calibration, researchers at The University of Hong Kong (HKU), led by professor Yifan Evan Peng, have developed two techniques that help holographic displays reproduce more natural changes in focus, perspective and material appearance."
+                "x": "Scientists have used new machine learning techniques to investigate the evolution of fish moving together in schools across thousands of species. The paper was published Nov. 6 in the Proceedings of the National Academy of Sciences."
               },
               {
                 "t": "p",
-                "x": "In one study, published in Nature Communications, the researchers begin with polygon meshes, retaining the 3D structure of a scene throughout hologram generation. AI-based calibration bridges the gap to a real display: using camera measurements, a learned model accounts for imperfections in the optical system. In lab tests this produced smoother changes in focus and clearer image detail."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-computer-graphics-a.jpg",
-                "cap": "Conceptual illustration of a future holographic AR experience. Credit: The University of Hong Kong"
+                "x": "Fish species have independently gained the capacity to move together as a unit some 60 times—and lost it some 320 times—across the evolutionary tree of life for fish over the last 350 million years."
               },
               {
                 "t": "p",
-                "x": "In the second study, in ACM Transactions on Graphics, HoloPathTracer combines path tracing with wave optics to reproduce reflections, refractions, shifting highlights and indirect illumination."
+                "x": "The team trained a text transformer, the same method behind large language models, on descriptions of species, and used machine learning to analyze photos and videos, convert them into three dimensions and assess whether fish were moving as a group. In total they quantified schooling for 2,839 species, or nearly 10% of the 39,000 living fish species."
+              },
+              {
+                "t": "video",
+                "src": "https://scx2.b-cdn.net/gfx/video/2026/machine-learning-helps.mp4"
               },
               {
                 "t": "p",
-                "x": "The work remains at the research-prototype stage; real-time consumer applications will require faster computation and better spatial light modulators."
+                "x": "Species lower in the food chain are more likely to school, and predators that move in groups virtually all eat prey that also move in groups. Lineages where all species schooled developed new species at a higher rate."
               }
             ]
           }
         },
         "ko": {
-          "headline": "학습형 광학이\nVR·AR 홀로그램 또렷이",
-          "body": "HKU 연구진은 카메라 측정으로 광학 모델을 학습해 홀로그램 시제품 결함을 잡았다.",
-          "mini_headline": "더 선명한\n홀로그램 디스플레이",
+          "headline": "머신러닝이 추적한\n물고기 떼 짓기의 흥망",
+          "body": "Cornell AI로 본 2,839종 군집은 약 60번 나고 약 320번 사라졌다.",
+          "mini_headline": "AI로 본 물고기 떼의 역사",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/hku-researchers-bring.jpg",
-                "cap": "HKU의 홀로그램 디스플레이 연구를 표현한 개념도. 출처: The University of Hong Kong"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2025/school-fish.jpg",
+                "cap": "Credit: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "Yifan Evan Peng 교수가 이끄는 The University of Hong Kong(HKU) 연구진이 컴퓨터 그래픽스와 파동 광학, AI-based 보정을 엮은 기법 두 가지를 내놓았다. 홀로그램 디스플레이가 초점과 시점, 재질 표현의 변화를 더 자연스럽게 재현하도록 돕는 기법이다."
+                "x": "과학자들이 새 머신러닝 기법으로 수천 종 물고기의 떼 짓기가 어떻게 진화했는지 살폈다. 논문은 11월 6일 Proceedings of the National Academy of Sciences에 실렸다."
               },
               {
                 "t": "p",
-                "x": "Nature Communications에 실린 첫 연구는 폴리곤 메시에서 출발해 홀로그램을 만드는 내내 장면의 3D 구조를 유지한다. 실제 디스플레이와 생기는 간극은 AI-based 보정이 메운다. 카메라 측정값으로 학습한 모델이 광학계의 결함까지 반영하는 방식이다. 실험실 테스트에서는 초점 변화가 더 매끄러워지고 이미지 디테일도 더 선명해졌다."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-computer-graphics-a.jpg",
-                "cap": "미래의 홀로그램 AR 경험을 표현한 개념도. 출처: The University of Hong Kong"
+                "x": "지난 3억5000만 년 동안 어류 진화 계통수 곳곳에서 물고기 종들은 한 덩어리로 움직이는 능력을 따로따로 약 60번 얻었고 약 320번 잃었다."
               },
               {
                 "t": "p",
-                "x": "ACM Transactions on Graphics에 실린 두 번째 연구의 HoloPathTracer는 경로 추적과 파동 광학을 합쳐 반사와 굴절, 움직이는 하이라이트, 간접 조명까지 재현한다."
+                "x": "연구팀은 대규모 언어 모델과 같은 방식의 텍스트 트랜스포머를 종 설명문으로 학습시켰다. 사진과 영상은 머신러닝으로 분석해 삼차원으로 바꾼 뒤 물고기가 무리 지어 움직이는지 평가했다. 이렇게 떼 짓기를 정량화한 종은 모두 2,839종으로, 현존 어종 39,000종의 10%에 가깝다."
+              },
+              {
+                "t": "video",
+                "src": "https://scx2.b-cdn.net/gfx/video/2026/machine-learning-helps.mp4"
               },
               {
                 "t": "p",
-                "x": "두 연구 모두 아직 연구용 시제품 단계다. 실시간 소비자용으로 쓰려면 연산이 더 빨라지고 공간 광 변조기도 더 좋아져야 한다."
+                "x": "먹이사슬 아래쪽 종일수록 떼를 지을 가능성이 높고, 무리 지어 다니는 포식자는 거의 다 무리 지어 다니는 먹이를 먹는다. 모든 종이 떼를 짓는 계통에서는 새 종이 더 빨리 생겨났다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "学習型光学で\nホログラムVR・ARを鮮明に",
-          "body": "HKUの研究者がカメラ測定で光学モデルを学習させ、ホログラム表示の試作機の欠陥を補正した。",
-          "mini_headline": "より鮮明な\nホログラムディスプレイ",
+          "headline": "機械学習が描く\n魚の群れの盛衰",
+          "body": "CornellのAI分析では2,839種の群れは約60回生まれ、約320回消えた。",
+          "mini_headline": "AIで追う魚の群れの歴史",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/hku-researchers-bring.jpg",
-                "cap": "HKUのホログラフィックディスプレイ研究のコンセプトイメージ。提供:The University of Hong Kong"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2025/school-fish.jpg",
+                "cap": "Credit: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "The University of Hong Kong(HKU)のYifan Evan Peng教授らの研究チームは、コンピューターグラフィックス、波動光学、AI-basedのキャリブレーションを組み合わせ、ホログラフィックディスプレイが焦点や視点、質感の変化をより自然に再現できるようにする二つの手法を開発した。"
+                "x": "科学者らは新たな機械学習手法を用い、数千種にわたる魚の群泳の進化を調べた。論文は11月6日付のProceedings of the National Academy of Sciencesに掲載された。"
               },
               {
                 "t": "p",
-                "x": "Nature Communicationsに掲載された研究では、ポリゴンメッシュから出発し、ホログラム生成の全過程でシーンの3D構造を保持する。実際のディスプレイとの隔たりはAI-basedのキャリブレーションが埋める。カメラによる測定値を用い、学習済みモデルが光学系の不完全さを考慮する。実験室でのテストでは、焦点の変化がより滑らかになり、画像の細部もより鮮明になった。"
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-computer-graphics-a.jpg",
-                "cap": "将来のホログラフィックAR体験のコンセプトイメージ。提供:The University of Hong Kong"
+                "x": "過去3億5000万年にわたる魚類の進化系統樹全体で、魚の種は一体となって動く能力を独立に約60回獲得し、約320回失ってきた。"
               },
               {
                 "t": "p",
-                "x": "ACM Transactions on Graphicsに掲載された二つ目の研究では、HoloPathTracerがパストレーシングと波動光学を組み合わせ、反射、屈折、移ろうハイライト、間接照明を再現する。"
+                "x": "研究チームは大規模言語モデルと同じ手法であるテキストトランスフォーマーを種の記述で訓練し、機械学習で写真や動画を解析して三次元に変換し、魚が群れで動いているかを評価した。合計2,839種、つまり現生魚類39,000種の10%近くについて群泳を定量化した。"
+              },
+              {
+                "t": "video",
+                "src": "https://scx2.b-cdn.net/gfx/video/2026/machine-learning-helps.mp4"
               },
               {
                 "t": "p",
-                "x": "この研究はまだ研究用プロトタイプの段階にあり、リアルタイムの消費者向け用途にはより高速な計算と高性能な空間光変調器が必要になる。"
+                "x": "食物連鎖の下位にいる種ほど群れを作りやすく、群れで動く捕食者はほぼすべてが群れで動く獲物を食べる。すべての種が群れを作る系統では、新種がより高い速度で生まれていた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "学习型光学让\n全息VR与AR更清晰",
-          "body": "HKU研究人员用相机测量数据训练光学模型，校正全息显示原型机的缺陷。",
-          "mini_headline": "更清晰的\n全息显示",
+          "headline": "机器学习描绘\n鱼群行为的兴衰",
+          "body": "Cornell的AI分析覆盖2,839个物种，发现集群行为约演化出60次、消失约320次。",
+          "mini_headline": "AI追溯鱼群行为的历史",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/hku-researchers-bring.jpg",
-                "cap": "HKU全息显示研究概念图。图片来源：The University of Hong Kong"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2025/school-fish.jpg",
+                "cap": "Credit: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "由Yifan Evan Peng教授领导的The University of Hong Kong（HKU）研究团队，结合计算机图形学、波动光学和AI-based校准，开发出两项技术，帮助全息显示器更自然地再现焦点、视角和材质外观的变化。"
+                "x": "科学家利用新的机器学习技术，研究了数千个物种中鱼类集群游动的演化。论文于11月6日发表在Proceedings of the National Academy of Sciences上。"
               },
               {
                 "t": "p",
-                "x": "在发表于Nature Communications的一项研究中，研究人员从多边形网格出发，在全息图生成的全过程中保留场景的3D结构。AI-based校准弥合了与真实显示器之间的差距：借助相机测量数据，学习模型可以考虑光学系统中的缺陷。在实验室测试中，这带来了更平滑的焦点变化和更清晰的图像细节。"
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-computer-graphics-a.jpg",
-                "cap": "未来全息AR体验的概念图。图片来源：The University of Hong Kong"
+                "x": "在过去3.5亿年的鱼类演化树中，鱼类物种独立获得整体协同游动能力约60次，又失去约320次。"
               },
               {
                 "t": "p",
-                "x": "在发表于ACM Transactions on Graphics的第二项研究中，HoloPathTracer将路径追踪与波动光学相结合，再现反射、折射、移动的高光和间接照明。"
+                "x": "研究团队用物种描述训练了一个文本transformer（与大语言模型背后的方法相同），并用机器学习分析照片和视频，将其转换为三维形式，评估鱼类是否成群移动。他们总共量化了2,839个物种的集群行为，占39,000种现存鱼类的近10%。"
+              },
+              {
+                "t": "video",
+                "src": "https://scx2.b-cdn.net/gfx/video/2026/machine-learning-helps.mp4"
               },
               {
                 "t": "p",
-                "x": "这项工作仍处于研究原型阶段；实时消费级应用还需要更快的计算速度和更好的空间光调制器。"
+                "x": "处于食物链较低位置的物种更可能集群，而成群行动的捕食者几乎都以同样成群行动的猎物为食。所有物种都集群的谱系，新物种形成的速度更高。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Óptica aprendida afina\nla VR y la AR holográficas",
-          "body": "Científicos de HKU entrenaron con mediciones de cámara un modelo óptico que corrige fallos de un prototipo holográfico.",
-          "mini_headline": "Pantallas holográficas\nmás nítidas",
+          "headline": "El aprendizaje automático traza\nel auge y la caída del cardumen",
+          "body": "En 2,839 especies, el análisis con AI de Cornell halló que el cardumen surgió unas 60 veces y desapareció unas 320.",
+          "mini_headline": "La AI traza la historia del cardumen",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/hku-researchers-bring.jpg",
-                "cap": "Ilustración conceptual de la investigación de HKU sobre pantallas holográficas. Crédito: The University of Hong Kong"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2025/school-fish.jpg",
+                "cap": "Credit: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "Combinando gráficos por computadora, óptica ondulatoria y calibración AI-based, investigadores de The University of Hong Kong (HKU), dirigidos por el profesor Yifan Evan Peng, han desarrollado dos técnicas que ayudan a las pantallas holográficas a reproducir cambios más naturales de enfoque, perspectiva y apariencia de los materiales."
+                "x": "Un grupo de científicos usó nuevas técnicas de aprendizaje automático para investigar la evolución del movimiento conjunto de los peces en cardúmenes a lo largo de miles de especies. El artículo se publicó el 6 de noviembre en Proceedings of the National Academy of Sciences."
               },
               {
                 "t": "p",
-                "x": "En un estudio publicado en Nature Communications, los investigadores parten de mallas poligonales y conservan la estructura 3D de la escena durante toda la generación del holograma. La calibración AI-based salva la distancia con una pantalla real: a partir de mediciones de cámara, un modelo aprendido tiene en cuenta las imperfecciones del sistema óptico. En pruebas de laboratorio, esto produjo cambios de enfoque más suaves y detalles de imagen más nítidos."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-computer-graphics-a.jpg",
-                "cap": "Ilustración conceptual de una futura experiencia de AR holográfica. Crédito: The University of Hong Kong"
+                "x": "Las especies de peces adquirieron de forma independiente la capacidad de moverse juntas como una unidad unas 60 veces, y la perdieron unas 320, a lo largo del árbol evolutivo de los peces durante los últimos 350 millones de años."
               },
               {
                 "t": "p",
-                "x": "En el segundo estudio, publicado en ACM Transactions on Graphics, HoloPathTracer combina el trazado de rutas con la óptica ondulatoria para reproducir reflejos, refracciones, brillos cambiantes e iluminación indirecta."
+                "x": "El equipo entrenó un transformer de texto, el mismo método que hay detrás de los grandes modelos de lenguaje, con descripciones de especies, y usó aprendizaje automático para analizar fotos y videos, convertirlos a tres dimensiones y evaluar si los peces se movían en grupo. En total cuantificaron el comportamiento de cardumen en 2,839 especies, casi el 10% de las 39,000 especies de peces vivas."
+              },
+              {
+                "t": "video",
+                "src": "https://scx2.b-cdn.net/gfx/video/2026/machine-learning-helps.mp4"
               },
               {
                 "t": "p",
-                "x": "El trabajo sigue en fase de prototipo de investigación; las aplicaciones de consumo en tiempo real requerirán un cálculo más rápido y mejores moduladores espaciales de luz."
+                "x": "Las especies situadas más abajo en la cadena alimentaria tienen más probabilidades de formar cardúmenes, y los depredadores que se mueven en grupo casi siempre comen presas que también se mueven en grupo. Los linajes en los que todas las especies formaban cardúmenes originaron nuevas especies a un ritmo mayor."
               }
             ]
           }
@@ -1275,145 +1269,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "학습형 광학이\nVR·AR 홀로그램 또렷이",
-          "body": "HKU 연구진은 카메라 측정으로 광학 모델을 학습해 홀로그램 시제품 결함을 잡았다.",
-          "mini_headline": "더 선명한\n홀로그램 디스플레이",
+          "headline": "머신러닝이 추적한\n물고기 떼 짓기의 흥망",
+          "body": "Cornell AI로 본 2,839종 군집은 약 60번 나고 약 320번 사라졌다.",
+          "mini_headline": "AI로 본 물고기 떼의 역사",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/hku-researchers-bring.jpg",
-                "cap": "HKU의 홀로그램 디스플레이 연구를 표현한 개념도. 출처: The University of Hong Kong"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2025/school-fish.jpg",
+                "cap": "Credit: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "Yifan Evan Peng 교수가 이끄는 The University of Hong Kong(HKU) 연구진은 컴퓨터 그래픽스, 파동 광학, AI-based 보정을 결합해, 홀로그램 디스플레이가 초점과 시점, 재질 표현의 변화를 더 자연스럽게 재현하도록 돕는 두 가지 기법을 개발했다."
+                "x": "과학자들이 새로운 머신러닝 기법으로 수천 종에 걸친 물고기 떼 짓기의 진화를 조사했다. 논문은 11월 6일 Proceedings of the National Academy of Sciences에 실렸다."
               },
               {
                 "t": "p",
-                "x": "Nature Communications에 실린 한 연구에서 연구진은 폴리곤 메시에서 출발해 홀로그램 생성 전 과정 동안 장면의 3D 구조를 유지한다. 실제 디스플레이와의 간극은 AI-based 보정이 메운다. 카메라 측정값을 바탕으로 학습된 모델이 광학계의 결함을 반영한다. 실험실 테스트에서 초점 변화가 더 매끄러워졌고 이미지 디테일도 더 선명해졌다."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-computer-graphics-a.jpg",
-                "cap": "미래의 홀로그램 AR 경험을 표현한 개념도. 출처: The University of Hong Kong"
+                "x": "지난 3억5000만 년 동안 어류 진화 계통수 전반에서 물고기 종들은 한 덩어리로 움직이는 능력을 독립적으로 약 60번 얻었고, 약 320번 잃었다."
               },
               {
                 "t": "p",
-                "x": "ACM Transactions on Graphics에 실린 두 번째 연구에서 HoloPathTracer는 경로 추적과 파동 광학을 결합해 반사, 굴절, 움직이는 하이라이트, 간접 조명을 재현한다."
+                "x": "연구팀은 대규모 언어 모델과 같은 방식인 텍스트 트랜스포머를 종 설명문으로 학습시키고, 머신러닝으로 사진과 영상을 분석해 삼차원으로 변환한 뒤 물고기가 무리 지어 움직이는지 평가했다. 모두 2,839종의 떼 짓기를 정량화했는데, 이는 현존 어종 39,000종의 10% 가까이다."
+              },
+              {
+                "t": "video",
+                "src": "https://scx2.b-cdn.net/gfx/video/2026/machine-learning-helps.mp4"
               },
               {
                 "t": "p",
-                "x": "이 연구는 아직 연구용 시제품 단계에 머물러 있다. 실시간 소비자용 응용에는 더 빠른 연산과 더 나은 공간 광 변조기가 필요하다."
+                "x": "먹이사슬 아래쪽에 있는 종일수록 떼를 지을 가능성이 높고, 무리 지어 움직이는 포식자는 거의 모두 무리 지어 다니는 먹이를 먹는다. 모든 종이 떼를 짓는 계통은 새로운 종을 더 빠른 속도로 만들어냈다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "学習型光学で\nホログラムVR・ARを鮮明に",
-          "body": "HKUの研究者がカメラ測定で光学モデルを学習させ、ホログラム表示の試作機の欠陥を補正した。",
-          "mini_headline": "より鮮明な\nホログラムディスプレイ",
+          "headline": "機械学習が描く\n魚の群れの盛衰",
+          "body": "CornellのAI分析では2,839種の群れは約60回生まれ、約320回消えた。",
+          "mini_headline": "AIで追う魚の群れの歴史",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/hku-researchers-bring.jpg",
-                "cap": "HKUのホログラフィックディスプレイ研究のコンセプトイメージ。提供:The University of Hong Kong"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2025/school-fish.jpg",
+                "cap": "Credit: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "The University of Hong Kong(HKU)のYifan Evan Peng教授らの研究チームは、コンピューターグラフィックス、波動光学、AI-basedのキャリブレーションを組み合わせ、ホログラフィックディスプレイが焦点や視点、質感の変化をより自然に再現できるようにする二つの手法を開発した。"
+                "x": "科学者らは新たな機械学習手法を用い、数千種にわたる魚の群泳の進化を調べた。論文は11月6日付のProceedings of the National Academy of Sciencesに掲載された。"
               },
               {
                 "t": "p",
-                "x": "Nature Communicationsに掲載された研究では、ポリゴンメッシュから出発し、ホログラム生成の全過程でシーンの3D構造を保持する。実際のディスプレイとの隔たりはAI-basedのキャリブレーションが埋める。カメラによる測定値を用い、学習済みモデルが光学系の不完全さを考慮する。実験室でのテストでは、焦点の変化がより滑らかになり、画像の細部もより鮮明になった。"
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-computer-graphics-a.jpg",
-                "cap": "将来のホログラフィックAR体験のコンセプトイメージ。提供:The University of Hong Kong"
+                "x": "過去3億5000万年にわたる魚類の進化系統樹全体で、魚の種は一体となって動く能力を独立に約60回獲得し、約320回失ってきた。"
               },
               {
                 "t": "p",
-                "x": "ACM Transactions on Graphicsに掲載された二つ目の研究では、HoloPathTracerがパストレーシングと波動光学を組み合わせ、反射、屈折、移ろうハイライト、間接照明を再現する。"
+                "x": "研究チームは大規模言語モデルと同じ手法であるテキストトランスフォーマーを種の記述で訓練し、機械学習で写真や動画を解析して三次元に変換し、魚が群れで動いているかを評価した。合計2,839種、つまり現生魚類39,000種の10%近くについて群泳を定量化した。"
+              },
+              {
+                "t": "video",
+                "src": "https://scx2.b-cdn.net/gfx/video/2026/machine-learning-helps.mp4"
               },
               {
                 "t": "p",
-                "x": "この研究はまだ研究用プロトタイプの段階にあり、リアルタイムの消費者向け用途にはより高速な計算と高性能な空間光変調器が必要になる。"
+                "x": "食物連鎖の下位にいる種ほど群れを作りやすく、群れで動く捕食者はほぼすべてが群れで動く獲物を食べる。すべての種が群れを作る系統では、新種がより高い速度で生まれていた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "学习型光学让\n全息VR与AR更清晰",
-          "body": "HKU研究人员用相机测量数据训练光学模型，校正全息显示原型机的缺陷。",
-          "mini_headline": "更清晰的\n全息显示",
+          "headline": "机器学习描绘\n鱼群行为的兴衰",
+          "body": "Cornell的AI分析覆盖2,839个物种，发现集群行为约演化出60次、消失约320次。",
+          "mini_headline": "AI追溯鱼群行为的历史",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/hku-researchers-bring.jpg",
-                "cap": "HKU全息显示研究概念图。图片来源：The University of Hong Kong"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2025/school-fish.jpg",
+                "cap": "Credit: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "由Yifan Evan Peng教授领导的The University of Hong Kong（HKU）研究团队，结合计算机图形学、波动光学和AI-based校准，开发出两项技术，帮助全息显示器更自然地再现焦点、视角和材质外观的变化。"
+                "x": "科学家利用新的机器学习技术，研究了数千个物种中鱼类集群游动的演化。论文于11月6日发表在Proceedings of the National Academy of Sciences上。"
               },
               {
                 "t": "p",
-                "x": "在发表于Nature Communications的一项研究中，研究人员从多边形网格出发，在全息图生成的全过程中保留场景的3D结构。AI-based校准弥合了与真实显示器之间的差距：借助相机测量数据，学习模型可以考虑光学系统中的缺陷。在实验室测试中，这带来了更平滑的焦点变化和更清晰的图像细节。"
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-computer-graphics-a.jpg",
-                "cap": "未来全息AR体验的概念图。图片来源：The University of Hong Kong"
+                "x": "在过去3.5亿年的鱼类演化树中，鱼类物种独立获得整体协同游动能力约60次，又失去约320次。"
               },
               {
                 "t": "p",
-                "x": "在发表于ACM Transactions on Graphics的第二项研究中，HoloPathTracer将路径追踪与波动光学相结合，再现反射、折射、移动的高光和间接照明。"
+                "x": "研究团队用物种描述训练了一个文本transformer（与大语言模型背后的方法相同），并用机器学习分析照片和视频，将其转换为三维形式，评估鱼类是否成群移动。他们总共量化了2,839个物种的集群行为，占39,000种现存鱼类的近10%。"
+              },
+              {
+                "t": "video",
+                "src": "https://scx2.b-cdn.net/gfx/video/2026/machine-learning-helps.mp4"
               },
               {
                 "t": "p",
-                "x": "这项工作仍处于研究原型阶段；实时消费级应用还需要更快的计算速度和更好的空间光调制器。"
+                "x": "处于食物链较低位置的物种更可能集群，而成群行动的捕食者几乎都以同样成群行动的猎物为食。所有物种都集群的谱系，新物种形成的速度更高。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Óptica aprendida afina\nla VR y la AR holográficas",
-          "body": "Científicos de HKU entrenaron con mediciones de cámara un modelo óptico que corrige fallos de un prototipo holográfico.",
-          "mini_headline": "Pantallas holográficas\nmás nítidas",
+          "headline": "El aprendizaje automático traza\nel auge y la caída del cardumen",
+          "body": "En 2,839 especies, el análisis con AI de Cornell halló que el cardumen surgió unas 60 veces y desapareció unas 320.",
+          "mini_headline": "La AI traza la historia del cardumen",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/hku-researchers-bring.jpg",
-                "cap": "Ilustración conceptual de la investigación de HKU sobre pantallas holográficas. Crédito: The University of Hong Kong"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2025/school-fish.jpg",
+                "cap": "Credit: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "Combinando gráficos por computadora, óptica ondulatoria y calibración AI-based, investigadores de The University of Hong Kong (HKU), dirigidos por el profesor Yifan Evan Peng, han desarrollado dos técnicas que ayudan a las pantallas holográficas a reproducir cambios más naturales de enfoque, perspectiva y apariencia de los materiales."
+                "x": "Un grupo de científicos usó nuevas técnicas de aprendizaje automático para investigar la evolución del movimiento conjunto de los peces en cardúmenes a lo largo de miles de especies. El artículo se publicó el 6 de noviembre en Proceedings of the National Academy of Sciences."
               },
               {
                 "t": "p",
-                "x": "En un estudio publicado en Nature Communications, los investigadores parten de mallas poligonales y conservan la estructura 3D de la escena durante toda la generación del holograma. La calibración AI-based salva la distancia con una pantalla real: a partir de mediciones de cámara, un modelo aprendido tiene en cuenta las imperfecciones del sistema óptico. En pruebas de laboratorio, esto produjo cambios de enfoque más suaves y detalles de imagen más nítidos."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-computer-graphics-a.jpg",
-                "cap": "Ilustración conceptual de una futura experiencia de AR holográfica. Crédito: The University of Hong Kong"
+                "x": "Las especies de peces adquirieron de forma independiente la capacidad de moverse juntas como una unidad unas 60 veces, y la perdieron unas 320, a lo largo del árbol evolutivo de los peces durante los últimos 350 millones de años."
               },
               {
                 "t": "p",
-                "x": "En el segundo estudio, publicado en ACM Transactions on Graphics, HoloPathTracer combina el trazado de rutas con la óptica ondulatoria para reproducir reflejos, refracciones, brillos cambiantes e iluminación indirecta."
+                "x": "El equipo entrenó un transformer de texto, el mismo método que hay detrás de los grandes modelos de lenguaje, con descripciones de especies, y usó aprendizaje automático para analizar fotos y videos, convertirlos a tres dimensiones y evaluar si los peces se movían en grupo. En total cuantificaron el comportamiento de cardumen en 2,839 especies, casi el 10% de las 39,000 especies de peces vivas."
+              },
+              {
+                "t": "video",
+                "src": "https://scx2.b-cdn.net/gfx/video/2026/machine-learning-helps.mp4"
               },
               {
                 "t": "p",
-                "x": "El trabajo sigue en fase de prototipo de investigación; las aplicaciones de consumo en tiempo real requerirán un cálculo más rápido y mejores moduladores espaciales de luz."
+                "x": "Las especies situadas más abajo en la cadena alimentaria tienen más probabilidades de formar cardúmenes, y los depredadores que se mueven en grupo casi siempre comen presas que también se mueven en grupo. Los linajes en los que todas las especies formaban cardúmenes originaron nuevas especies a un ritmo mayor."
               }
             ]
           }
@@ -1421,15 +1411,15 @@
       }
     },
     {
-      "id": "science-patent-lawyers-ai-trial",
+      "id": "psypost-ai-whiteness-study",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI는 저연차를 돕지만\n효과는 고연차에 남았다",
-      "body": "특허 변호사 133명 실험에서 AI를 써 본 고연차만 no-AI 과제에서 앞섰다.",
-      "mini_headline": "전문성이 좌우하는\nAI 학습 효과",
+      "headline": "사람들은 AI에서\n백인성을 본다",
+      "body": "세 나라 다섯 연구에서 AI를 백인으로 보는 인식은 설득력과 약하게 연관됐다.",
+      "mini_headline": "사람들은 AI를 백인으로 본다",
       "tool": "Science",
       "source": "PsyPost",
-      "url": "https://www.psypost.org/prior-expertise-may-determine-whether-ai-builds-skills-or-substitutes-for-them-field-experiment-suggests/",
+      "url": "https://www.psypost.org/people-project-a-specific-racial-identity-onto-artificial-intelligence-study-finds/",
       "accent": "#eb367f",
       "motif": "sphere",
       "full": {
@@ -1437,173 +1427,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.psypost.org/wp-content/uploads/2025/01/artificial-intelligence-1.jpg"
+            "src": "https://www.psypost.org/wp-content/uploads/2026/04/artificial-intelligence-ai-chip.jpg"
           },
           {
             "t": "p",
-            "x": "U.S. 특허 변호사 133명을 대상으로 석 달간 실험한 결과, AI 글쓰기 도우미를 쓰자 특허 초안 품질이 좋아졌고 개선 폭은 저연차 변호사에게서 가장 컸다. 그런데 이후 AI 없이 치른 과제에서는 이 도구를 써 온 고연차 변호사가 쓰지 않은 고연차 변호사를 앞섰고, 저연차 변호사 쪽에서는 평균적인 우위가 보이지 않았다. 결과는 National Bureau of Economic Research 워킹 페이퍼로 나왔다."
+            "x": "얼굴·목소리·이름·몸이 없는 인공지능 시스템도 사람들은 백인으로 인식하는 경향이 있다. Monica Gamez-Djokic과 Adam Waytz가 Journal of Personality and Social Psychology에 발표한 새 연구 결과다."
           },
           {
             "t": "p",
-            "x": "MIT의 David Autor와 Google 동료들은 11개 IP 로펌 변호사를 무작위로 나눴다. 90명은 아직 출시 전인 Google Labs 글쓰기 도구를 받았고, 43명은 대조군이 됐다. AI 사용자의 초안은 10일과 90일 시점에 표준편차의 약 삼분의 일만큼 나았는데, 부실한 초안이 줄어든 덕이 컸다."
+            "x": "Study 1a 연구에서 미국(U.S.) 참가자들은 평균적으로 기술의 72%를 백인으로 골랐다. Study 1b 연구에서는 인종적 성격을 띤 자유 응답 중 71%가 백인이었다. AI를 백인으로 분류한 비율은 일본 82%, 인도 67%였다."
           },
           {
             "t": "p",
-            "x": "no-AI 레드라이닝 과제의 우위는 전부 고연차 변호사 몫이었다. 저자들은 “AI-assisted 실무에서 지속적인 역량을 얻으려면 기초 전문성이 전제 조건일 수 있다”고 결론 내렸다."
+            "x": "Study 4 연구에서는 AI를 더 백인으로 인식한 참가자일수록 그 팩트체크 권고를 조금 더 설득력 있게 평가했다. 다만 상관관계일 뿐이다. Study 5 연구 참가자들은 흑인과 라틴계 성인의 데이터로 학습했다고 소개된 AI에 지적 부담이 덜한 일을 맡겼다(4.27 vs. 4.51)."
           },
           {
             "t": "p",
-            "x": "논문은 아직 동료 심사 전이다. 연구 수행과 자금 모두 Google이 맡았고, 저자 일곱 명 중 여섯 명이 Google 소속이다."
+            "x": "Gamez-Djokic은 “가장 놀라웠던 점은 사람들이 AI를 인종화하는 데 필요한 정보가 얼마나 적었는가였다”고 말했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI aids junior lawyers,\nbut seniors keep the gains",
-          "body": "In a trial of 133 patent lawyers, only seniors who had used an AI assistant outperformed peers on a later no-AI task.",
-          "mini_headline": "Expertise shapes\nwhat AI teaches",
+          "headline": "People project Whiteness\nonto AI, study finds",
+          "body": "Five studies across three countries found people link AI with Whiteness, tied modestly to its persuasiveness.",
+          "mini_headline": "People code AI as White",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.psypost.org/wp-content/uploads/2025/01/artificial-intelligence-1.jpg"
+                "src": "https://www.psypost.org/wp-content/uploads/2026/04/artificial-intelligence-ai-chip.jpg"
               },
               {
                 "t": "p",
-                "x": "In a three-month experiment with 133 U.S. patent lawyers, access to an AI writing assistant improved the quality of their patent drafts, with the largest gains among junior lawyers. But on a later task completed without AI, senior lawyers who had been using the tool outperformed senior lawyers who had not, while junior lawyers showed no average advantage. The findings were released as a National Bureau of Economic Research working paper."
+                "x": "People tend to perceive artificial intelligence systems as White, even when those systems lack a face, voice, name, or body, according to new research published in Journal of Personality and Social Psychology by Monica Gamez-Djokic and Adam Waytz."
               },
               {
                 "t": "p",
-                "x": "David Autor of MIT and colleagues at Google randomized lawyers from 11 IP firms: 90 to an unreleased Google Labs writing tool and 43 to a control group. AI users produced better drafts at 10 and 90 days, by about a third of a standard deviation, mainly through fewer weak drafts."
+                "x": "In Study 1a, U.S. participants selected White for 72% of the technologies on average; in Study 1b, among racialized open-ended responses, 71% were White. In Japan, 82% classified AI as White; in India, 67%."
               },
               {
                 "t": "p",
-                "x": "On the no-AI redlining task, the advantage came entirely from senior lawyers. “Foundational expertise may be a prerequisite for extracting durable skill from AI-assisted practice,” the authors concluded."
+                "x": "In Study 4, participants who perceived AI as more White rated its fact-checking recommendation as modestly more persuasive, a correlational link. In Study 5, participants assigned less intellectually demanding work to an AI described as trained on data from Black and Latino adults (4.27 vs. 4.51)."
               },
               {
                 "t": "p",
-                "x": "The paper has not yet been peer-reviewed. It was conducted and funded by Google, and six of the seven authors work at Google."
+                "x": "“What surprised me most was how little information people needed to racialize AI,” Gamez-Djokic said."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI는 저연차를 돕지만\n효과는 고연차에 남았다",
-          "body": "특허 변호사 133명 실험에서 AI를 써 본 고연차만 no-AI 과제에서 앞섰다.",
-          "mini_headline": "전문성이 좌우하는\nAI 학습 효과",
+          "headline": "사람들은 AI에서\n백인성을 본다",
+          "body": "세 나라 다섯 연구에서 AI를 백인으로 보는 인식은 설득력과 약하게 연관됐다.",
+          "mini_headline": "사람들은 AI를 백인으로 본다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.psypost.org/wp-content/uploads/2025/01/artificial-intelligence-1.jpg"
+                "src": "https://www.psypost.org/wp-content/uploads/2026/04/artificial-intelligence-ai-chip.jpg"
               },
               {
                 "t": "p",
-                "x": "U.S. 특허 변호사 133명을 대상으로 석 달간 실험한 결과, AI 글쓰기 도우미를 쓰자 특허 초안 품질이 좋아졌고 개선 폭은 저연차 변호사에게서 가장 컸다. 그런데 이후 AI 없이 치른 과제에서는 이 도구를 써 온 고연차 변호사가 쓰지 않은 고연차 변호사를 앞섰고, 저연차 변호사 쪽에서는 평균적인 우위가 보이지 않았다. 결과는 National Bureau of Economic Research 워킹 페이퍼로 나왔다."
+                "x": "얼굴·목소리·이름·몸이 없는 인공지능 시스템도 사람들은 백인으로 인식하는 경향이 있다. Monica Gamez-Djokic과 Adam Waytz가 Journal of Personality and Social Psychology에 발표한 새 연구 결과다."
               },
               {
                 "t": "p",
-                "x": "MIT의 David Autor와 Google 동료들은 11개 IP 로펌 변호사를 무작위로 나눴다. 90명은 아직 출시 전인 Google Labs 글쓰기 도구를 받았고, 43명은 대조군이 됐다. AI 사용자의 초안은 10일과 90일 시점에 표준편차의 약 삼분의 일만큼 나았는데, 부실한 초안이 줄어든 덕이 컸다."
+                "x": "Study 1a 연구에서 미국(U.S.) 참가자들은 평균적으로 기술의 72%를 백인으로 골랐다. Study 1b 연구에서는 인종적 성격을 띤 자유 응답 중 71%가 백인이었다. AI를 백인으로 분류한 비율은 일본 82%, 인도 67%였다."
               },
               {
                 "t": "p",
-                "x": "no-AI 레드라이닝 과제의 우위는 전부 고연차 변호사 몫이었다. 저자들은 “AI-assisted 실무에서 지속적인 역량을 얻으려면 기초 전문성이 전제 조건일 수 있다”고 결론 내렸다."
+                "x": "Study 4 연구에서는 AI를 더 백인으로 인식한 참가자일수록 그 팩트체크 권고를 조금 더 설득력 있게 평가했다. 다만 상관관계일 뿐이다. Study 5 연구 참가자들은 흑인과 라틴계 성인의 데이터로 학습했다고 소개된 AI에 지적 부담이 덜한 일을 맡겼다(4.27 vs. 4.51)."
               },
               {
                 "t": "p",
-                "x": "논문은 아직 동료 심사 전이다. 연구 수행과 자금 모두 Google이 맡았고, 저자 일곱 명 중 여섯 명이 Google 소속이다."
+                "x": "Gamez-Djokic은 “가장 놀라웠던 점은 사람들이 AI를 인종화하는 데 필요한 정보가 얼마나 적었는가였다”고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIは若手弁護士を助け\n成果はベテランに残る",
-          "body": "特許弁護士133人の試験で、AIを使ったベテランだけが後のno-AI課題で同僚を上回った。",
-          "mini_headline": "専門性が左右する\nAIの学び",
+          "headline": "人はAIを白人と\n見なす、研究で判明",
+          "body": "三か国の五つの研究で、人はAIを白人と結びつけ、それは説得力とも緩やかに関連した。",
+          "mini_headline": "人はAIを白人と見なす",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.psypost.org/wp-content/uploads/2025/01/artificial-intelligence-1.jpg"
+                "src": "https://www.psypost.org/wp-content/uploads/2026/04/artificial-intelligence-ai-chip.jpg"
               },
               {
                 "t": "p",
-                "x": "U.S.の特許弁護士133人を対象にした三か月の実験で、AIの文章作成アシスタントを使えるようにすると特許草案の質が向上し、その伸びは若手弁護士で最も大きかった。しかし、その後AIなしで取り組んだ課題では、ツールを使っていたベテラン弁護士が使っていなかったベテラン弁護士を上回った一方、若手弁護士には平均的な優位が見られなかった。この結果はNational Bureau of Economic Researchのワーキングペーパーとして公表された。"
+                "x": "人工知能システムに顔や声、名前、身体がなくても、人はそれを白人と認識する傾向がある。Monica Gamez-DjokicとAdam WaytzがJournal of Personality and Social Psychologyに発表した新たな研究で明らかになった。"
               },
               {
                 "t": "p",
-                "x": "MITのDavid AutorとGoogleの同僚らは、11のIP事務所の弁護士を無作為に割り付け、90人を未公開のGoogle Labsの文章作成ツールに、43人を対照群に振り分けた。AIの利用者は10日後と90日後の時点で、標準偏差の約三分の一だけ優れた草案を作成した。主に、出来の悪い草案が減ったことによるものだった。"
+                "x": "Study 1a では、米国(U.S.)の参加者は平均して技術の72%を白人として選んだ。Study 1b では、人種的な自由回答のうち71%が白人だった。日本では82%がAIを白人と分類し、インドでは67%だった。"
               },
               {
                 "t": "p",
-                "x": "no-AIのレッドライン(修正指摘)課題では、優位はすべてベテラン弁護士によるものだった。著者らは「基礎的な専門性は、AI-assistedの実務から持続的なスキルを引き出すための前提条件かもしれない」と結論づけた。"
+                "x": "Study 4 では、AIをより白人的と認識した参加者ほど、そのファクトチェックの推奨をやや説得力があると評価した。これは相関関係である。Study 5 では、黒人とラテン系の成人のデータで訓練されたと説明されたAIに、参加者は知的負荷の低い仕事を割り当てた(4.27 vs. 4.51)。"
               },
               {
                 "t": "p",
-                "x": "この論文はまだ査読を経ていない。研究はGoogleが実施して資金を出しており、著者七人のうち六人がGoogleに勤めている。"
+                "x": "「最も驚いたのは、人々がAIを人種化するのに必要な情報がいかに少ないかだった」とGamez-Djokicは述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI助力初级律师\n资深律师才留住收益",
-          "body": "在133名专利律师的试验中，只有用过AI助手的资深律师在之后的no-AI任务中胜过同行。",
-          "mini_headline": "专业功底决定\nAI教会什么",
+          "headline": "研究发现，人们\n倾向把AI视为白人",
+          "body": "横跨三国的五项研究发现，人们将AI与白人特质相联系，且这与其说服力有适度关联。",
+          "mini_headline": "人们把AI视为白人",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.psypost.org/wp-content/uploads/2025/01/artificial-intelligence-1.jpg"
+                "src": "https://www.psypost.org/wp-content/uploads/2026/04/artificial-intelligence-ai-chip.jpg"
               },
               {
                 "t": "p",
-                "x": "在一项针对133名U.S.专利律师、为期三个月的实验中，使用AI写作助手提高了他们专利草稿的质量，其中初级律师提升最大。但在随后不借助AI完成的任务中，一直使用该工具的资深律师胜过未使用的资深律师，而初级律师平均而言没有表现出优势。研究结果以National Bureau of Economic Research工作论文的形式发布。"
+                "x": "Monica Gamez-Djokic和Adam Waytz发表在Journal of Personality and Social Psychology上的新研究显示，即使人工智能系统没有面孔、声音、名字或身体，人们也倾向于把它们视为白人。"
               },
               {
                 "t": "p",
-                "x": "MIT的David Autor与Google的同事将来自11家IP律所的律师随机分组：90人使用一款尚未发布的Google Labs写作工具，43人进入对照组。AI使用者在第10天和第90天产出的草稿更好，高出约三分之一个标准差，主要原因是质量差的草稿变少了。"
+                "x": "在Study 1a 中，美国（U.S.）参与者平均将72%的技术选为白人；在Study 1b 中，带有种族化色彩的开放式回答里有71%为白人。在日本，82%的人将AI归为白人；在印度，这一比例为67%。"
               },
               {
                 "t": "p",
-                "x": "在no-AI的修订标注任务中，优势完全来自资深律师。作者总结道：“扎实的基础专业能力，可能是从AI-assisted实践中获得持久技能的前提。”"
+                "x": "在Study 4 中，认为AI更偏白人的参与者认为其事实核查建议略更有说服力，这是一种相关性关联。在Study 5 中，参与者给被描述为用黑人和拉丁裔成年人数据训练的AI分配了智力要求较低的工作（4.27 vs. 4.51）。"
               },
               {
                 "t": "p",
-                "x": "该论文尚未经过同行评审。研究由Google开展并资助，七位作者中有六位在Google工作。"
+                "x": "Gamez-Djokic说：“最让我惊讶的是，人们只需要很少的信息就会将AI种族化。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "La AI ayuda a abogados júnior,\npero solo los sénior lo retienen",
-          "body": "Entre 133 abogados de patentes, solo los sénior que usaron AI superaron a sus pares en una tarea no-AI posterior.",
-          "mini_headline": "La pericia define\nlo que enseña la AI",
+          "headline": "La gente proyecta la blanquitud\nsobre la AI, según un estudio",
+          "body": "Cinco estudios en tres países hallan que la gente asocia la AI con la blanquitud, ligada levemente a su persuasión.",
+          "mini_headline": "La gente ve la AI como blanca",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.psypost.org/wp-content/uploads/2025/01/artificial-intelligence-1.jpg"
+                "src": "https://www.psypost.org/wp-content/uploads/2026/04/artificial-intelligence-ai-chip.jpg"
               },
               {
                 "t": "p",
-                "x": "En un experimento de tres meses con 133 abogados de patentes de U.S., el acceso a un asistente de redacción con AI mejoró la calidad de sus borradores de patente, con las mayores mejoras entre los abogados júnior. Pero en una tarea posterior realizada sin AI, los abogados sénior que habían usado la herramienta superaron a los sénior que no la habían usado, mientras que los júnior no mostraron ventaja en promedio. Los resultados se publicaron como documento de trabajo del National Bureau of Economic Research."
+                "x": "La gente tiende a percibir los sistemas de inteligencia artificial como blancos, incluso cuando carecen de rostro, voz, nombre o cuerpo, según una nueva investigación publicada en Journal of Personality and Social Psychology por Monica Gamez-Djokic y Adam Waytz."
               },
               {
                 "t": "p",
-                "x": "David Autor, del MIT, y colegas de Google asignaron al azar a abogados de 11 firmas de IP: 90 a una herramienta de redacción inédita de Google Labs y 43 a un grupo de control. Los usuarios de AI produjeron mejores borradores a los 10 y a los 90 días, en aproximadamente un tercio de desviación estándar, sobre todo porque hubo menos borradores flojos."
+                "x": "En el Study 1a, los participantes de EE. UU. (U.S.) eligieron la categoría blanca para el 72% de las tecnologías en promedio; en el Study 1b, entre las respuestas abiertas racializadas, el 71% fueron blancas. En Japón, el 82% clasificó la AI como blanca; en la India, el 67%."
               },
               {
                 "t": "p",
-                "x": "En la tarea de revisión con marcas no-AI, la ventaja provino por completo de los abogados sénior. “La experiencia de base puede ser un requisito previo para extraer habilidades duraderas de la práctica AI-assisted”, concluyeron los autores."
+                "x": "En el Study 4, los participantes que percibían la AI como más blanca calificaron su recomendación de verificación de datos como algo más persuasiva, un vínculo correlacional. En el Study 5, los participantes asignaron tareas menos exigentes intelectualmente a una AI descrita como entrenada con datos de adultos negros y latinos (4.27 vs. 4.51)."
               },
               {
                 "t": "p",
-                "x": "El artículo aún no ha sido revisado por pares. Lo realizó y financió Google, y seis de los siete autores trabajan en Google."
+                "x": "“Lo que más me sorprendió fue la poca información que la gente necesitaba para racializar la AI”, dijo Gamez-Djokic."
               }
             ]
           }
@@ -1611,121 +1601,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI는 저연차를 돕지만\n효과는 고연차에 남았다",
-          "body": "특허 변호사 133명 실험에서 AI를 써 본 고연차만 no-AI 과제에서 앞섰다.",
-          "mini_headline": "전문성이 좌우하는\nAI 학습 효과",
+          "headline": "사람들은 AI에서\n백인성을 본다",
+          "body": "세 나라 다섯 연구에서 AI를 백인으로 보는 인식은 설득력과 약하게 연관됐다.",
+          "mini_headline": "사람들은 AI를 백인으로 본다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.psypost.org/wp-content/uploads/2025/01/artificial-intelligence-1.jpg"
+                "src": "https://www.psypost.org/wp-content/uploads/2026/04/artificial-intelligence-ai-chip.jpg"
               },
               {
                 "t": "p",
-                "x": "U.S. 특허 변호사 133명을 대상으로 한 석 달간의 실험에서 AI 글쓰기 도우미를 쓰자 특허 초안의 품질이 좋아졌고, 개선 폭은 저연차 변호사에게서 가장 컸다. 그러나 이후 AI 없이 수행한 과제에서는 이 도구를 써 온 고연차 변호사가 쓰지 않은 고연차 변호사를 앞선 반면, 저연차 변호사에게서는 평균적인 우위가 나타나지 않았다. 이 결과는 National Bureau of Economic Research 워킹 페이퍼로 공개됐다."
+                "x": "사람들은 얼굴·목소리·이름·몸이 없는 인공지능 시스템도 백인으로 인식하는 경향이 있다고, Monica Gamez-Djokic과 Adam Waytz가 Journal of Personality and Social Psychology에 발표한 새 연구가 밝혔다."
               },
               {
                 "t": "p",
-                "x": "MIT의 David Autor와 Google 동료들은 11개 IP 로펌의 변호사를 무작위로 나눠 90명에게는 아직 출시되지 않은 Google Labs 글쓰기 도구를 주고, 43명은 대조군에 배정했다. AI 사용자는 10일과 90일 시점에 표준편차의 약 삼분의 일만큼 더 나은 초안을 냈는데, 주로 부실한 초안이 줄어든 덕분이었다."
+                "x": "Study 1a 연구에서 미국(U.S.) 참가자들은 평균적으로 기술의 72%를 백인으로 골랐고, Study 1b 연구에서는 인종적 성격을 띤 자유 응답 가운데 71%가 백인이었다. 일본에서는 82%가 AI를 백인으로 분류했고, 인도에서는 67%였다."
               },
               {
                 "t": "p",
-                "x": "no-AI 레드라이닝 과제에서 우위는 전적으로 고연차 변호사에게서 나왔다. 저자들은 “AI-assisted 실무에서 지속적인 역량을 얻으려면 기초 전문성이 전제 조건일 수 있다”고 결론지었다."
+                "x": "Study 4 연구에서는 AI를 더 백인으로 인식한 참가자일수록 그 팩트체크 권고를 약간 더 설득력 있게 평가했는데, 이는 상관관계다. Study 5 연구에서 참가자들은 흑인과 라틴계 성인의 데이터로 학습했다고 소개된 AI에 지적 부담이 덜한 일을 맡겼다(4.27 vs. 4.51)."
               },
               {
                 "t": "p",
-                "x": "이 논문은 아직 동료 심사를 거치지 않았다. 연구는 Google이 수행하고 자금을 댔으며, 저자 일곱 명 중 여섯 명이 Google 소속이다."
+                "x": "Gamez-Djokic은 “가장 놀라웠던 점은 사람들이 AI를 인종화하는 데 필요한 정보가 얼마나 적었는가였다”고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIは若手弁護士を助け\n成果はベテランに残る",
-          "body": "特許弁護士133人の試験で、AIを使ったベテランだけが後のno-AI課題で同僚を上回った。",
-          "mini_headline": "専門性が左右する\nAIの学び",
+          "headline": "人はAIを白人と\n見なす、研究で判明",
+          "body": "三か国の五つの研究で、人はAIを白人と結びつけ、それは説得力とも緩やかに関連した。",
+          "mini_headline": "人はAIを白人と見なす",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.psypost.org/wp-content/uploads/2025/01/artificial-intelligence-1.jpg"
+                "src": "https://www.psypost.org/wp-content/uploads/2026/04/artificial-intelligence-ai-chip.jpg"
               },
               {
                 "t": "p",
-                "x": "U.S.の特許弁護士133人を対象にした三か月の実験で、AIの文章作成アシスタントを使えるようにすると特許草案の質が向上し、その伸びは若手弁護士で最も大きかった。しかし、その後AIなしで取り組んだ課題では、ツールを使っていたベテラン弁護士が使っていなかったベテラン弁護士を上回った一方、若手弁護士には平均的な優位が見られなかった。この結果はNational Bureau of Economic Researchのワーキングペーパーとして公表された。"
+                "x": "人工知能システムに顔や声、名前、身体がなくても、人はそれを白人と認識する傾向がある。Monica Gamez-DjokicとAdam WaytzがJournal of Personality and Social Psychologyに発表した新たな研究で明らかになった。"
               },
               {
                 "t": "p",
-                "x": "MITのDavid AutorとGoogleの同僚らは、11のIP事務所の弁護士を無作為に割り付け、90人を未公開のGoogle Labsの文章作成ツールに、43人を対照群に振り分けた。AIの利用者は10日後と90日後の時点で、標準偏差の約三分の一だけ優れた草案を作成した。主に、出来の悪い草案が減ったことによるものだった。"
+                "x": "Study 1a では、米国(U.S.)の参加者は平均して技術の72%を白人として選んだ。Study 1b では、人種的な自由回答のうち71%が白人だった。日本では82%がAIを白人と分類し、インドでは67%だった。"
               },
               {
                 "t": "p",
-                "x": "no-AIのレッドライン(修正指摘)課題では、優位はすべてベテラン弁護士によるものだった。著者らは「基礎的な専門性は、AI-assistedの実務から持続的なスキルを引き出すための前提条件かもしれない」と結論づけた。"
+                "x": "Study 4 では、AIをより白人的と認識した参加者ほど、そのファクトチェックの推奨をやや説得力があると評価した。これは相関関係である。Study 5 では、黒人とラテン系の成人のデータで訓練されたと説明されたAIに、参加者は知的負荷の低い仕事を割り当てた(4.27 vs. 4.51)。"
               },
               {
                 "t": "p",
-                "x": "この論文はまだ査読を経ていない。研究はGoogleが実施して資金を出しており、著者七人のうち六人がGoogleに勤めている。"
+                "x": "「最も驚いたのは、人々がAIを人種化するのに必要な情報がいかに少ないかだった」とGamez-Djokicは述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI助力初级律师\n资深律师才留住收益",
-          "body": "在133名专利律师的试验中，只有用过AI助手的资深律师在之后的no-AI任务中胜过同行。",
-          "mini_headline": "专业功底决定\nAI教会什么",
+          "headline": "研究发现，人们\n倾向把AI视为白人",
+          "body": "横跨三国的五项研究发现，人们将AI与白人特质相联系，且这与其说服力有适度关联。",
+          "mini_headline": "人们把AI视为白人",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.psypost.org/wp-content/uploads/2025/01/artificial-intelligence-1.jpg"
+                "src": "https://www.psypost.org/wp-content/uploads/2026/04/artificial-intelligence-ai-chip.jpg"
               },
               {
                 "t": "p",
-                "x": "在一项针对133名U.S.专利律师、为期三个月的实验中，使用AI写作助手提高了他们专利草稿的质量，其中初级律师提升最大。但在随后不借助AI完成的任务中，一直使用该工具的资深律师胜过未使用的资深律师，而初级律师平均而言没有表现出优势。研究结果以National Bureau of Economic Research工作论文的形式发布。"
+                "x": "Monica Gamez-Djokic和Adam Waytz发表在Journal of Personality and Social Psychology上的新研究显示，即使人工智能系统没有面孔、声音、名字或身体，人们也倾向于把它们视为白人。"
               },
               {
                 "t": "p",
-                "x": "MIT的David Autor与Google的同事将来自11家IP律所的律师随机分组：90人使用一款尚未发布的Google Labs写作工具，43人进入对照组。AI使用者在第10天和第90天产出的草稿更好，高出约三分之一个标准差，主要原因是质量差的草稿变少了。"
+                "x": "在Study 1a 中，美国（U.S.）参与者平均将72%的技术选为白人；在Study 1b 中，带有种族化色彩的开放式回答里有71%为白人。在日本，82%的人将AI归为白人；在印度，这一比例为67%。"
               },
               {
                 "t": "p",
-                "x": "在no-AI的修订标注任务中，优势完全来自资深律师。作者总结道：“扎实的基础专业能力，可能是从AI-assisted实践中获得持久技能的前提。”"
+                "x": "在Study 4 中，认为AI更偏白人的参与者认为其事实核查建议略更有说服力，这是一种相关性关联。在Study 5 中，参与者给被描述为用黑人和拉丁裔成年人数据训练的AI分配了智力要求较低的工作（4.27 vs. 4.51）。"
               },
               {
                 "t": "p",
-                "x": "该论文尚未经过同行评审。研究由Google开展并资助，七位作者中有六位在Google工作。"
+                "x": "Gamez-Djokic说：“最让我惊讶的是，人们只需要很少的信息就会将AI种族化。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "La AI ayuda a abogados júnior,\npero solo los sénior lo retienen",
-          "body": "Entre 133 abogados de patentes, solo los sénior que usaron AI superaron a sus pares en una tarea no-AI posterior.",
-          "mini_headline": "La pericia define\nlo que enseña la AI",
+          "headline": "La gente proyecta la blanquitud\nsobre la AI, según un estudio",
+          "body": "Cinco estudios en tres países hallan que la gente asocia la AI con la blanquitud, ligada levemente a su persuasión.",
+          "mini_headline": "La gente ve la AI como blanca",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.psypost.org/wp-content/uploads/2025/01/artificial-intelligence-1.jpg"
+                "src": "https://www.psypost.org/wp-content/uploads/2026/04/artificial-intelligence-ai-chip.jpg"
               },
               {
                 "t": "p",
-                "x": "En un experimento de tres meses con 133 abogados de patentes de U.S., el acceso a un asistente de redacción con AI mejoró la calidad de sus borradores de patente, con las mayores mejoras entre los abogados júnior. Pero en una tarea posterior realizada sin AI, los abogados sénior que habían usado la herramienta superaron a los sénior que no la habían usado, mientras que los júnior no mostraron ventaja en promedio. Los resultados se publicaron como documento de trabajo del National Bureau of Economic Research."
+                "x": "La gente tiende a percibir los sistemas de inteligencia artificial como blancos, incluso cuando carecen de rostro, voz, nombre o cuerpo, según una nueva investigación publicada en Journal of Personality and Social Psychology por Monica Gamez-Djokic y Adam Waytz."
               },
               {
                 "t": "p",
-                "x": "David Autor, del MIT, y colegas de Google asignaron al azar a abogados de 11 firmas de IP: 90 a una herramienta de redacción inédita de Google Labs y 43 a un grupo de control. Los usuarios de AI produjeron mejores borradores a los 10 y a los 90 días, en aproximadamente un tercio de desviación estándar, sobre todo porque hubo menos borradores flojos."
+                "x": "En el Study 1a, los participantes de EE. UU. (U.S.) eligieron la categoría blanca para el 72% de las tecnologías en promedio; en el Study 1b, entre las respuestas abiertas racializadas, el 71% fueron blancas. En Japón, el 82% clasificó la AI como blanca; en la India, el 67%."
               },
               {
                 "t": "p",
-                "x": "En la tarea de revisión con marcas no-AI, la ventaja provino por completo de los abogados sénior. “La experiencia de base puede ser un requisito previo para extraer habilidades duraderas de la práctica AI-assisted”, concluyeron los autores."
+                "x": "En el Study 4, los participantes que percibían la AI como más blanca calificaron su recomendación de verificación de datos como algo más persuasiva, un vínculo correlacional. En el Study 5, los participantes asignaron tareas menos exigentes intelectualmente a una AI descrita como entrenada con datos de adultos negros y latinos (4.27 vs. 4.51)."
               },
               {
                 "t": "p",
-                "x": "El artículo aún no ha sido revisado por pares. Lo realizó y financió Google, y seis de los siete autores trabajan en Google."
+                "x": "“Lo que más me sorprendió fue la poca información que la gente necesitaba para racializar la AI”, dijo Gamez-Djokic."
               }
             ]
           }

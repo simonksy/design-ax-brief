@@ -1,7 +1,31 @@
-{"date":"2026-11-11","section":"music","media":[
-{"id":"spotify-dj-new-voices","type":"image","src":"pipeline/media/spotify-dj-new-voices.jpg"},
-{"id":"vsl-vienna-performer","type":"image","src":"pipeline/media/vsl-vienna-performer.jpg"},
-{"id":"neutone-neusynth-stems","type":"image","src":"pipeline/media/neutone-neusynth-stems.jpg"},
-{"id":"johnpark-mcdonalds-rap-hijack","type":"image","src":"pipeline/media/johnpark-mcdonalds-rap-hijack.jpg"},
-{"id":"riaa-ai-labelling-glazier","type":"image","src":"pipeline/media/riaa-ai-labelling-glazier.jpg"}
-]}
+{
+ "date": "2026-11-12",
+ "section": "music",
+ "media": [
+  {
+   "id": "ace-studio-music-v1",
+   "type": "image",
+   "src": "pipeline/media/ace-studio-music-v1.jpg"
+  },
+  {
+   "id": "musicflux-text-music-editing",
+   "type": "image",
+   "src": "pipeline/media/musicflux-text-music-editing.png"
+  },
+  {
+   "id": "labelcamp-ai-connector",
+   "type": "image",
+   "src": "pipeline/media/labelcamp-ai-connector.jpg"
+  },
+  {
+   "id": "culturecustodian-cloned-artist",
+   "type": "image",
+   "src": "pipeline/media/culturecustodian-cloned-artist.jpg"
+  },
+  {
+   "id": "nvidia-suno-subpoena-quash",
+   "type": "image",
+   "src": "pipeline/media/nvidia-suno-subpoena-quash.jpg"
+  }
+ ]
+}

@@ -11722,6 +11722,154 @@
           "x": "Para refrigerar su CPU y su sensor sin vibraciones, CAIM1 se asoció con Noctua en un sistema de refrigeración activa NF-A4x10. La cámara graba video en 4K, está pensada para deportes de acción y usa un diseño Bring-Your-Own-Lens."
         }
       ]
+    },
+    "gadgets/bluephone-pixel10-agent-os": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2025/09/google-pixel-10-pro-screen-on-home-screen-scaled.jpg",
+          "cap": "Una persona sostiene un Google Pixel 10 Pro con la pantalla encendida, mostrando la pantalla de inicio."
+        },
+        {
+          "t": "p",
+          "x": "Blue, una startup respaldada por Y Combinator, ha abierto la beta pública de su nuevo Blue Phone, que sitúa a un asistente de AI en el centro de la experiencia del smartphone. En lugar de fabricar un teléfono completamente nuevo, empieza con el Google Pixel 10 Pro y el Pixel 10 Pro XL, ambos con Blue OS, una versión personalizada de Android que permite al asistente de AI trabajar entre apps y encargarse de tareas por el usuario."
+        },
+        {
+          "t": "p",
+          "x": "Si se busca un recibo de hace meses, se quieren comparar precios antes de una compra o se necesita impugnar un cargo inesperado, Blue puede hacerlo, incluso atendiendo varias solicitudes a la vez."
+        },
+        {
+          "t": "video",
+          "yt": "mrTgV4U_wI4"
+        },
+        {
+          "t": "p",
+          "x": "También incluye una función de dictado por voz que convierte ideas expresadas de forma natural en un mensaje bien redactado. Para responder a las preocupaciones sobre privacidad, Blue usa un Vault cifrado para contraseñas y otra información sensible, y el sistema se basa en una versión de Android de código abierto centrada en la seguridad que bloquea el rastreo publicitario por defecto."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Screenshot-2026-11-11-at-8.01.19-PM.png",
+          "cap": "Del iPhone al Blue Phone en el Pixel 10 Pro"
+        },
+        {
+          "t": "p",
+          "x": "El Blue Phone cuesta $1,299, pero puede salir gratis si se envía el iPhone antiguo a la compañía en los 30 días posteriores a la compra. Incluye tres meses de uso ilimitado de Blue, y los envíos en US están previstos para noviembre y diciembre. La startup también trabaja en su propio smartphone, previsto para el tercer trimestre de 2027, que puede reservarse por $100 totalmente reembolsables."
+        }
+      ]
+    },
+    "gadgets/deepx-dxm1-butter-demo": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/ZgC56W69q8WA6rhcBjxWKn-1920-80.jpg",
+          "cap": "Demostración térmica de DEEPX con mantequilla sobre el chip"
+        },
+        {
+          "t": "p",
+          "x": "La startup surcoreana de chips DEEPX, que CNBC presentó recientemente, demostró la baja temperatura de funcionamiento de su procesador DX-M1 con una extraña nueva prueba térmica a base de lácteos. Mientras los chips rivales hacían chisporrotear un trozo de mantequilla en segundos, sobre la solución de DEEPX el bloque de mantequilla se mantiene sólido."
+        },
+        {
+          "t": "p",
+          "x": "DEEPX afirma que su respuesta sencilla al calor de los centros de datos es “hacer que los propios chips de AI funcionen más fríos”. En una prueba lado a lado con chips de AI rivales sin nombre, la NPU DX-M1 es claramente más fría. El CEO de DEEPX, Kim Nok-won, asegura que hay una diferencia de temperatura de 25 a más de 40 grados Celsius frente a la competencia, y dice que los chips procesaron “la misma carga de trabajo de AI… y todos los chips derritieron la mantequilla excepto el último [DX-M1]”."
+        },
+        {
+          "t": "p",
+          "x": "Tom's Hardware señala grandes lagunas en la comparación, sobre todo la rapidez con la que cada procesador completa la carga de prueba: cualquiera puede mantener frío un chip si reduce la potencia y las frecuencias."
+        },
+        {
+          "t": "p",
+          "x": "El DX-M1 se fabrica en el proceso de 5nm de Samsung desde agosto de 2025 y ha conseguido pedidos por unos $13.3M. El DX-M2 de próxima generación, basado en el proceso de 2nm de Samsung, apunta a la producción en masa en H2 2027. Estas NPUs parecen destinadas a la computación en el borde y la robótica, así que no compiten con las GPUs de centros de datos de Nvidia, que consumen mucha energía, lo que convierte la prueba de la mantequilla en “una pista algo falsa”."
+        }
+      ]
+    },
+    "gadgets/gigabyte-aitop-aero-spark": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/gigabyte-ai-top-aero-nvidia-rtx-spark.jpg",
+          "cap": "Gigabyte AI Top Aero — escritorio de AI de un litro con Nvidia RTX Spark y 128 GB de memoria unificada."
+        },
+        {
+          "t": "p",
+          "x": "Gigabyte ha lanzado el AI Top Aero, un mini PC diseñado para el desarrollo local de AI, la creación de contenido y, en el futuro, los videojuegos. Funciona con la plataforma RTX Spark de Nvidia, que combina una GPU Nvidia Blackwell con una Grace CPU Arm-based en un chasis de aproximadamente un litro de volumen."
+        },
+        {
+          "t": "p",
+          "x": "Su RTX Spark N1X Superchip integra una Grace CPU 20-core con una Blackwell RTX GPU de 6,144 núcleos CUDA. Las configuraciones ofrecen hasta 128 GB de memoria unificada LPDDR5X y hasta un SSD PCIe 5.0 de 4 TB, y Nvidia atribuye a la plataforma hasta 1 petaflop de rendimiento de AI en FP4 para ejecutar modelos de AI localmente sin depender de servicios en la nube."
+        },
+        {
+          "t": "p",
+          "x": "Presentado como un “Personal AI Studio”, es compatible con LM Studio, Ollama y los modelos Nvidia Nemotron, con CUDA para crear, ajustar y ejecutar modelos, y con Nvidia PAIR (Personal AI Router) para distribuir la inferencia entre dispositivos de una red local. Admite juegos con DLSS 5, aunque las primeras reseñas de RTX Spark informan de fallos al iniciar y cierres inesperados en algunos juegos."
+        },
+        {
+          "t": "p",
+          "x": "La conectividad incluye USB Type-C, 10 GbE Ethernet y Wi-Fi 7. El AI Top Aero salió a la venta el 10 de noviembre de 2026; Gigabyte no ha revelado su precio, pero el similar AI Top Atom parte de $4,999 con 64 GB de memoria y un SSD de 2 TB."
+        }
+      ]
+    },
+    "gadgets/googlehome-nest-liveview-fix": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2024/04/Voice-controls-from-Nest-Hub-Photo-frame-view.jpg?quality=82&strip=all&w=1600",
+          "cap": "Nest Hub"
+        },
+        {
+          "t": "p",
+          "x": "Se está desplegando una nueva actualización de Google Home con una corrección para los problemas de “Live View” que afectan a los dispositivos Nest Cam, mejoras para el Nest Hub, novedades para Gemini y más."
+        },
+        {
+          "t": "p",
+          "x": "Gemini, todavía en acceso anticipado, recibe nuevas mejoras en el control del hogar inteligente, temporizadores más rápidos, “respuestas de voz más conversacionales” y Broadcasts más rápidos. Lo más destacado es que las pantallas inteligentes Nest Hub ahora muestran “imágenes relevantes cuando resultan útiles” al hacer preguntas."
+        },
+        {
+          "t": "p",
+          "x": "La app Google Home añade una página de ajustes de “Google Home Premium”, un interruptor “Eco Mode Everywhere” para hogares con varios Nest Thermostats y llaves Home en Google Wallet para cerraduras compatibles."
+        },
+        {
+          "t": "p",
+          "x": "Los dispositivos Nest Cam más antiguos reciben una corrección del problema de “Live View” en equipos como Nest Hello, además de arreglos en los controles del historial de la cámara, la transmisión en directo con ciertas conexiones, las vistas previas de eventos en blanco en Nest Cam IQ y la precisión del reloj de la cámara."
+        },
+        {
+          "t": "p",
+          "x": "En el terreno de los agentes de AI, las conexiones Google Home MCP permiten ahora a los agentes controlar automatizaciones y acceder a nuevos controles y comprobaciones de estado en “termostatos, ventiladores, purificadores de aire, robots aspiradores, efectos de iluminación, electrodomésticos de cocina, cargadores de EV y alarmas de humo y monóxido de carbono”. También se están desplegando actualizaciones para altavoces inteligentes, aunque hay pocos detalles."
+        }
+      ]
+    },
+    "gadgets/pixel-drop-nov-gemini-intel": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/header_Pixel_drop_image.width-1300.jpg",
+          "cap": "Pixel Drop"
+        },
+        {
+          "t": "p",
+          "x": "Llega el Pixel Drop de noviembre, con funciones nuevas y ampliadas que hacen tus dispositivos Pixel más personales, intuitivos y prácticos. Las actualizaciones empiezan a distribuirse hoy y continuarán durante las próximas semanas."
+        },
+        {
+          "t": "p",
+          "x": "Gemini Intelligence ya está disponible en los dispositivos Pixel 10 y aporta nuevas capacidades como Rambler, sugerencias personalizadas y la gestión de tareas de varios pasos, como pedir el café de la mañana. Rambler puede eliminar automáticamente muletillas como “eh” y convertir tus ideas en un texto claro y pulido."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Pixel_10_Pro_Gemini_Intelligence.width-1200.format-webp.webp",
+          "cap": "Rambler en el Pixel 10 Pro"
+        },
+        {
+          "t": "p",
+          "x": "Gemini puede encargarse de tareas de varios pasos, como hacer la compra, reservar un viaje o pedir comida para llevar, ahora disponibles en Japón, Reino Unido e India. También puedes crear widgets personalizados, como un registro de tus gastos mensuales o una cuenta atrás para una escapada que reúne los datos del vuelo y de la reserva."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Pixel_11_Pro_Create_My_Widget_re.width-1200.format-webp.webp",
+          "cap": "Describe tu widget"
+        },
+        {
+          "t": "p",
+          "x": "En la serie Pixel 11, Call Screen mejora: Gemini pregunta a quienes llaman desde números desconocidos el motivo de la llamada de forma mucho más conversacional, con una transcripción en directo en pantalla. HiLight ahora es compatible con Google Messages y se ilumina cuando un contacto favorito te escribe mientras el teléfono está boca abajo. Pixel Tag estará disponible el 11 de noviembre."
+        }
+      ]
     }
   }
 }

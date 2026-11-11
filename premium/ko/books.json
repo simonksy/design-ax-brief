@@ -13421,6 +13421,181 @@
           "x": "우려를 덜려고 TK는 작가가 글에 AI를 어떻게 썼는지 투명하게 밝히는 노트를 올릴 수 있게 했다. TK의 MCP 서버나 Claude 스킬로 이용자의 AI 에이전트와도 이어진다. TK는 웹에서 바로 쓸 수 있고 데스크톱 앱은 로드맵에 올라 있다. Medium 계정만 있으면 무료다."
         }
       ]
+    },
+    "books/books-unions-openai-voice-brief": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/hero-2.jpg"
+        },
+        {
+          "t": "p",
+          "x": "SAG-AFTRA와 미국음악가연맹(American Federation of Musicians), 미국작가조합(Writers Guild of America) 두 지부가 10월 29일 Sidney H. Stein 판사가 맡은 In re OpenAI, Inc., Copyright Infringement Litigation 사건에 법정 조언자 의견서를 내겠다는 신청을 냈다. 34쪽짜리 의견서는 여러 신문사와 작가로 이뤄진 원고 측 편에 서서, AI 학습을 일률적으로 공정 이용으로 보는 판단은 어떤 것이든 물리쳐 달라고 법원에 요청한다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/brief-p19.jpg",
+          "cap": "2026년 10월 29일 제출된 의견서안 19쪽. 이미지: In re OpenAI, Dkt. 2332, CourtListener 제공"
+        },
+        {
+          "t": "p",
+          "x": "19쪽은 합성 음성과 일감 감소를 잇는다. 여기 인용된 21퍼센트는 NAVA의 State of Voiceover in 2026 설문 결과다. 응답 1,379건이 모인 이 설문에서 “합성 음성 때문에 일을 잃은 것을 알고 있는 적이 있는가?”라는 질문에 21퍼센트가 그렇다고 답했다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/nava-shot.jpg",
+          "cap": "2026년 11월 1일 촬영한 NAVA 설문 페이지 화면. 이미지: NAVA"
+        },
+        {
+          "t": "p",
+          "x": "노조들은 학습 라이선스 시장이 이미 있다고 주장한다. 이들이 맺은 2026년 계약에는 “적용 대상 저작물을 대중용·상용 생성형 AI 시스템 학습에 쓰도록 제3자에게 라이선스할 때의 통지·교섭권”이 들어 있다. 의견서는 “이 사건에서 학습이 일률적으로 공정 이용이라는 판결이 나오면 노조와 업계가 교섭 테이블에서 합의한 조건이 무의미해진다”고 썼다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/picket.jpg",
+          "cap": "2023년 7월 31일 뉴욕 Warner Bros. Discovery 앞의 SAG-AFTRA 피켓 시위. 사진: Phil Roeder, Wikimedia Commons, CC BY 2.0"
+        },
+        {
+          "t": "p",
+          "x": "의견서를 받아들일지는 Stein 판사가 먼저 정해야 한다."
+        }
+      ]
+    },
+    "books/books-claude-kindle-jailbreak-apps": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/11/claude-kindle-featured.jpeg?&fit=crop&w=1600&h=900"
+        },
+        {
+          "t": "p",
+          "x": "지난 한 해 동안 오래된 Kindle로 멋진 일을 벌이거나 Claude로 기기 소프트웨어를 손보는 사람은 여럿 봤다. 두 가지를 한꺼번에 해낸 사람은 이번이 처음이다."
+        },
+        {
+          "t": "p",
+          "x": "ClaudeAI 서브레딧 사용자 abdenourgnx1이 최근 Claude로 해낸 작업을 올렸다. 쓰지 않던 7th-gen Kindle을 가이드대로 탈옥해 전자책 단말기 소프트웨어에 손댈 길을 연 뒤, Anthropic의 AI 어시스턴트에게 약간의 도움을 받았다."
+        },
+        {
+          "t": "p",
+          "x": "“탈옥한 뒤에는 claude가 넘겨받아 원하는 애플리케이션을 무엇이든 설계하고 만들어 준다. 나는 원하는 것의 콘셉트 이미지와 어떻게 동작하길 바라는지만 알려줬고, 나머지는 claude가 다 했다. KUAL(kindle용 애플리케이션 런처)이나 자기 모델에 맞는 같은 기능의 도구를 꼭 갖춰 두라.”"
+        },
+        {
+          "t": "p",
+          "x": "이 Kindle은 이제 벽에 거는 날씨 예보 디스플레이다. Wi-Fi로 매시간 새 데이터를 받아 화면을 바꾸지만, 배터리를 아끼려고 밤에는 갱신을 멈춘다. 이렇게 설정하면 일주일에 배터리가 10%만 닳아 한 번 충전으로 두 달 넘게 버틴다고 한다."
+        }
+      ]
+    },
+    "books/books-jaju-webtoon-ai-shortdrama": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://wimg.heraldcorp.com/news/cms/2026/11/10/news-p.v1.20261110.002e6a566b2744a899c811698375eee4_P2.png"
+        },
+        {
+          "t": "p",
+          "x": "콘텐츠 제작기업 자주스토리㈜가 한국 웹툰 원천 지식재산권(IP) 5종을 활용한 중국 AI 숏드라마 제작 계약을 완료했다고 밝혔다."
+        },
+        {
+          "t": "p",
+          "x": "자주스토리는 국내 원작 IP 5종을 중국 현지 AI 제작사와 협력해 숏드라마로 제작하고, 현지 플랫폼을 통해 유통하는 사업을 추진하고 있다. 회사는 원작 기획과 연출·검수에 참여하고, 중국 파트너사가 현지 숏드라마 제작과 현지화, 심의 및 유통 등을 담당하는 방식으로 협력할 계획이다."
+        },
+        {
+          "t": "p",
+          "x": "1차 제작 작품은 《환생 특급 레시피》, 《귀전》, 《기미》, 《듀크 걸 복서》, 《아슬아슬》 등 5종이다. 회사에 따르면 현재 5개 작품의 제작 계약을 완료했으며, 중국 현지에서 AI 기술을 활용한 숏드라마 제작을 진행하고 있다. 텐센트·바이트댄스·홍궈·위챗 등 중국 플랫폼을 통한 2026년 11월 공개를 준비 중이다."
+        },
+        {
+          "t": "p",
+          "x": "작품은 요리 로맨스, 액션 판타지, 사극 스릴러, 스포츠 성장 드라마, 현대 로맨스 등 다양한 장르로 구성됐다. 자주스토리는 원작의 서사와 캐릭터를 바탕으로 영상 콘텐츠를 제작하고, 계약에 따른 수익 배분 방식으로 사업을 운영할 계획이다."
+        },
+        {
+          "t": "p",
+          "x": "김민주 대표는 작가로 활동하며 웹소설·웹툰·시나리오 등 다양한 콘텐츠 분야에서 작품 기획과 집필을 진행해 왔다. 대한민국 스토리공모대전 우수상 수상 경력이 있으며, 현재 스토리·IP 기획과 원작 집필, 작품별 사업화 방향 등을 담당하고 있다."
+        },
+        {
+          "t": "p",
+          "x": "《환생 특급 레시피》를 비롯한 보유 작품의 세계관과 캐릭터를 활용해 웹툰과 영상 콘텐츠 등으로 제작 영역을 확대하는 방안도 추진하고 있다."
+        },
+        {
+          "t": "p",
+          "x": "후속 제작을 검토 중인 작품은 《발복》, 《환궁기》, 《국창 임방울》, 《어둠 속의 증인》, 《작정하고 스캔들》 등 5종이다. 회사는 1차 제작 작품과 후속 작품 외에도 추가 IP를 확보해 작품별 제작 준비 상황과 유통 여건 등을 고려하며 사업을 확대할 계획이다."
+        },
+        {
+          "t": "p",
+          "x": "장기적으로는 웹소설·웹툰의 세계관과 캐릭터를 활용해 숏드라마·애니메이션·영화·음악 등으로 콘텐츠 제작 범위를 넓히고, 중국 외 다른 해외 시장으로의 유통도 검토할 방침이다."
+        },
+        {
+          "t": "p",
+          "x": "지역 대학과 교육기관, 청년 창작자 등과 연계한 AI 콘텐츠 제작 교육과 참여 프로그램도 추진할 계획이다."
+        },
+        {
+          "t": "p",
+          "x": "공성술 콘텐츠총괄은 “AI는 창작자를 대체하는 수단이 아니라 창작자의 상상력과 표현 가능성을 확장하는 도구”라며 “좋은 콘텐츠의 핵심은 결국 사람의 마음을 움직이는 이야기와 감정”이라고 밝혔다."
+        },
+        {
+          "t": "p",
+          "x": "이어 “하나의 원천 IP를 웹툰·숏폼드라마·애니메이션·영화·음악으로 확장해 세계 시장에서 오래 사랑받는 콘텐츠로 만들겠다”며 “지역 창작 인재들과 함께 성장하며 새로운 제작 생태계를 구축하겠다”고 말했다."
+        }
+      ]
+    },
+    "books/books-joongang-audiobook-ai-narration": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://image.koreajoongangdaily.com/12955845.webp?imageId=12955845&width=960&height=548&format=jpg",
+          "cap": "11월 2일 서울 서부의 Audien 녹음 스튜디오에서 「전지적 독자 시점」(2018–20) 오디오북 녹음이 진행되고 있다."
+        },
+        {
+          "t": "p",
+          "x": "제작사들이 AI를 쓰는 곳은 주로 오디오북 업계의 빈틈이다. 상업성이 없어 보이는 책의 오디오판을 만드는 식이다."
+        },
+        {
+          "t": "p",
+          "x": "Audien의 오디오북 PD 김송희는 “AI는 감정을 어느 정도까지만 표현할 수 있다”고 말했다. 논픽션 낭독이라면 이 기술이 맞을 수도 있지만, 소설 각색에서는 AI-generated 음성이 귀를 붙잡는 힘이 떨어진다. Audien 유통 부서에 따르면 사람이 낭독한 소설은 AI 버전보다 관심을 약 10배 더 끈다고 한다."
+        },
+        {
+          "t": "img",
+          "src": "https://image.koreajoongangdaily.com/12955847.webp?imageId=12955847&x=0.00&y=5.21&cropw=100.00&croph=75.68&width=960&height=548&format=jpg",
+          "cap": "오디오북 제작사 Audien의 PD 김송희(왼쪽)와 장지은"
+        },
+        {
+          "t": "p",
+          "x": "1월부터 10월까지 Audien에서 성우와 작업하는 팀은 약 230편을, 지난해 꾸려진 AI 팀은 약 380편을 만들었다. 성우 여럿을 쓰면 약 500만 원($3,680)이 드는 5~6시간짜리 오디오북을 AI로는 약 100만 원에 만든다."
+        },
+        {
+          "t": "img",
+          "src": "https://image.koreajoongangdaily.com/12955846.webp?imageId=12955846&x=0.00&y=2.02&cropw=100.00&croph=57.13&width=960&height=750&format=jpg",
+          "cap": "「전지적 독자 시점」(2018-20) 녹음 현장에서 연기하는 성우들."
+        },
+        {
+          "t": "p",
+          "x": "Audien이 각색한 이영도의 「피를 마시는 새」(2005)는 2년 반 동안 성우 58명이 참여해 143시간 40분 분량으로 완성됐다. 김송희는 “AI는 오디오북 시장 전체를 키우는 데 분명히 맡을 역할이 있다”고 말했다."
+        }
+      ]
+    },
+    "books/madras-ai-library-books-fir": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.assettype.com/barandbench%2F2022-04%2F886749e2-68b4-4658-84a9-4ad607584aaf%2F8.jpg?w=1200&auto=format%2Ccompress",
+          "cap": "Madras High Court(마드라스 고등법원)"
+        },
+        {
+          "t": "p",
+          "x": "Madras High Court(마드라스 고등법원)는 화요일 Tamil Nadu 감시·반부패국(Directorate of Vigilance and Anti-Corruption, DVAC)에 주 전역 공공도서관 도서 구매 사기 의혹으로 First Information Report(FIR, 최초 사건 보고서)를 즉시 등록하라고 명령했다 [Ramasubbu Vs Gopal]."
+        },
+        {
+          "t": "p",
+          "x": "GR Swaminathan 판사와 MD Sumathi 판사의 재판부는 공공도서관에 있는 가짜 책과 인공지능 생성(Artificial Intelligence-generated) 책을 여럿 문제 삼았다. 이런 책은 치우라고 했고 Agal Vilakku Publication과 대표 Mohan 등 사기 의혹 관련자의 은행 계좌는 즉시 동결하라고 명령했다. 주 정부에는 책임 공무원을 상대로 정직을 포함한 징계 절차에 들어가라고 지시했다."
+        },
+        {
+          "t": "p",
+          "x": "법원은 \"수천만 루피(Crores of rupees)가 국고에서 빠져나갔다\"고 밝혔다. 논란은 작가 Perumal Murugan이 소셜미디어에 문제를 제기하면서 Coimbatore의 Periyar Arivulagam에 들여온 책을 중심으로 불거졌다."
+        },
+        {
+          "t": "p",
+          "x": "법원은 Madurai의 Kalaignar Centenary Library에서 나온 책도 짚었다. 경제학자 Jean Drèze를 저자로 거짓 표기한 책이다. 재판부는 AI-generated(AI 생성) 도서와 표절 도서가 Tamil Nadu Public Libraries Rules, 1950에 나오는 \"doubtful taste(의심스러운 취향)\"에 해당할 수 있다고 봤다. 다음 심리는 11월 11일이다."
+        }
+      ]
     }
   }
 }

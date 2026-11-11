@@ -4281,6 +4281,131 @@
           "x": "Consumers remain cool on the idea: nearly half (49%) of Britons view AI-generated actors in ads negatively, according to YouGov. Reed said the system is an extension of Ogilvy’s “palette” and that “there is a human craft and a human behind it.”"
         }
       ]
+    },
+    "marketing/mrc-ai-measurement-draft": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/size/w2000/2026/11/mrc-ai-measurement-standards-q1-2027-draft-7-rulebooks-standard-weights-case-paper-template.jpg",
+          "cap": "MRC’s AI standards draft lands Q1 2027, but auditors already apply 7 rulebooks and 9 principles"
+        },
+        {
+          "t": "p",
+          "x": "The Media Rating Council said on November 10, 2026 that the first phase of its draft standards governing artificial intelligence in media measurement is planned for public comment in the first quarter of 2027, with a second phase to follow by mid-2027. That is later than its July 8, 2026 guidance, which expected completion \"throughout 2026 and early 2027.\""
+        },
+        {
+          "t": "p",
+          "x": "Until then, that 13-page guidance maps seven existing MRC standards and guidelines onto nine AI principles in 58 appendix entries — requirements auditors already apply, from disclosure of model error rates to feature importance and model cards for auctions."
+        },
+        {
+          "t": "p",
+          "x": "The new rules will cover model governance, invalid traffic, brand safety, \"base measurement of structured and conversational ads in LLM,\" simulated and synthetic audiences, and auction transparency. The MRC flags grey areas such as \"agentic validity\" — whether an agent loading a page means a person saw the ad — zero-click answers, and AI crawlers that can get publishers' traffic classified as invalid."
+        }
+      ]
+    },
+    "marketing/reddit-qloo-targeting": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.adexchanger.com/wp-content/uploads/2026/11/shutterstock_2735591353-1024x746.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "Reddit announced a partnership with predictive inference company Qloo (pronounced “clue”) on Tuesday, giving it access to over 10 years of Qloo’s proprietary data to serve more relevant ads. Qloo’s catalogue tracks correlations between interests, or “entities,” like restaurants and musical artists, based on shared attributes drawn from TasteDive reviews, Wikidata metadata and licensed third-party data."
+        },
+        {
+          "t": "p",
+          "x": "Finding shared attributes that aren’t obvious at first glance is why Reddit partnered with Qloo, said Virgilio Pigliucci, Reddit’s senior director of engineering. People shopping for an espresso machine often also want a table for it, so Reddit might serve an ad for a tall desk on a coffeemaker thread."
+        },
+        {
+          "t": "p",
+          "x": "Optimizing a new advertiser’s campaign used to take days or weeks of engagement data. Now Reddit can “optimize against the signals” from Qloo, and the model draws correlations without knowing a user’s search query, browsing history or subreddit, so advertisers see results “right away.”"
+        }
+      ]
+    },
+    "marketing/daangn-chatgpt-ads-api": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.hankyung.com/photo/202611/AA.46366592.1.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "Local life platform Daangn has begun automating ad operations with artificial intelligence (AI). After introducing a feature that lets advertisers analyze ad performance from outside AI services such as ChatGPT and Claude, it has opened an application programming interface (API) that also lets them register and edit ads."
+        },
+        {
+          "t": "p",
+          "x": "According to the industry on the 9th, Daangn is upgrading the ‘Ad Model Context Protocol (MCP)’ it launched for advertisers in September. MCP is a technology that helps AI models and agents connect to external systems to look up data or carry out tasks."
+        },
+        {
+          "t": "p",
+          "x": "With Daangn’s ad MCP, advertisers can connect their Daangn ad account to the AI they normally use and check ad status and performance in natural language. Ask “Summarize my ad performance for the last 7 days,” and the AI pulls the data from the ad account and organizes it. Advertisers can look up and compare ad accounts and balances, running ads and performance by period."
+        },
+        {
+          "t": "p",
+          "x": "Last month Daangn also released a beta of its ad Open API, which lets external systems call Daangn’s ad functions directly. From their own ad management tools or internal dashboards, advertisers can look up, register or edit campaigns, ad groups and ad creatives."
+        },
+        {
+          "t": "p",
+          "x": "The change comes because many of Daangn’s main advertisers are small business owners with little experience running ads. The calculation is that if they can lift ad performance simply by asking the AI they already use, they will place more ads on Daangn."
+        },
+        {
+          "t": "p",
+          "x": "Kakao will also start a closed beta test next month of ‘AI Crew,’ an AI agent that supports advertisers in buying and running ads. With AI Crew, advertisers enter their business goals into a conversational interface and the AI suggests suitable ad products and operating strategies."
+        }
+      ]
+    },
+    "marketing/united-ai-agent-ban": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23176430/1237621702.jpg?quality=90&strip=all&crop=0.014236902050115%2C0%2C99.9715261959%2C100&w=2400",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "United says it won’t let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns."
+        },
+        {
+          "t": "p",
+          "x": "The company says it hasn’t yet seen many people try to use AI agents to book their flights, The Wall Street Journal reports, in line with observations from other businesses like Doordash. But United is concerned that agents could expose customers’ information or make purchases they didn’t intend, and potentially skirt federal rules about the kind of information airlines need to share with customers — like having them attest that their bags don’t have explosives."
+        },
+        {
+          "t": "p",
+          "x": "While agents can still show users United flights, they won’t be able to actually complete the transaction on their behalf. The decision, and others like it, could limit the potential usefulness of newer personal AI assistants like Meta’s Muse and OpenAI’s Dots. “To be honest, I don’t want to create another middleman,” United CEO Scott Kirby said at an event on Tuesday, according to the Journal."
+        },
+        {
+          "t": "p",
+          "x": "Across sectors, businesses are grappling with whether to let AI agents transact on their sites, and United is not alone in blocking access for unauthorized agents. eBay appeared to block agents from browsing the site, and several major banks have also placed restrictions on them. United suggests it could reconsider its decision based on future advancements. “As third-party AI agents advance, we see the opportunities they present. However, at the same time, allowing them to interact directly with a United account or booking could involve sensitive actions, and we want to make sure we have established protections for travelers first.”"
+        }
+      ]
+    },
+    "marketing/openai-chatgpt-business-agents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://digiday.com/wp-content/uploads/sites/3/2026/08/open-AI-digiday.jpg?w=1030&h=579&crop=1",
+          "cap": "Ivy Liu"
+        },
+        {
+          "t": "p",
+          "x": "Businesses can now claim a profile in ChatGPT through a new Business Hub, get verified and feed in product and company details. In the U.S. (for now), e-commerce and online services businesses can also publish a business agent – a separately labelled chat that speaks for the brand once a user wants to dig into a product."
+        },
+        {
+          "t": "p",
+          "x": "OpenAI's vp of monetization Benji Shomair said the business agent is the free, organic way into a format OpenAI started testing as a paid ad in September. “Think of the business agent as the organic experience,” he said. “The sponsored agent is the paid experience, but the agent that sits behind it should be the same.”"
+        },
+        {
+          "t": "p",
+          "x": "When the shopper is ready to pay, the agent sends them to the brand's own site. Brands get conversation themes rather than transcripts, and can't bring their own agents. The Business Hub's Insights beta shows mentions, views and website clicks, plus discovery topics; “Businesses don't see individual prompts or chats,” a spokesperson said."
+        },
+        {
+          "t": "p",
+          "x": "Sonata Insights' Debra Aho Williamson said OpenAI sharing insights itself “will take some of the power away from the third-party companies.” Business Hub and agents are free for now, and Shomair said a business “should not have an impact on how frequently it appears.”"
+        }
+      ]
     }
   }
 }

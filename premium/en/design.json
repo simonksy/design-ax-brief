@@ -11640,6 +11640,130 @@
           "x": "Diode manufactured all three boards directly from Claude’s design files. The devices are still prototypes: they haven’t been through electrical validation, antenna tuning, thermal testing, or certification."
         }
       ]
+    },
+    "design/artstation-ai-art-policy": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "When KitBash bought ArtStation, it pledged to address users' concerns about the flood of AI content. In September it turned on 'NoAI' for uploads by default. Now a new update introduces an attempt to police generative AI content along with more complete AI declarations and more control over filtering — with a mixed response from artists so far."
+        },
+        {
+          "t": "p",
+          "x": "When publishing, users will now be asked to declare whether generative AI was used: primarily generative AI, mixed generative AI and non-generative methods, or 100% non-generative. A dedicated channel lets users report artwork they think is AI-generated but isn't labelled; ArtStation says every report will help improve its AI filtering."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/9wsbfUqLD4Ez98e9dWE9wn-1200-80.jpg",
+          "cap": "(Image credit: ArtStation)"
+        },
+        {
+          "t": "p",
+          "x": "Users can hide declared generative AI content and choose how aggressively reports filter work: 'Strict', 'Balanced' or 'Loose'. By default, projects declared as AI-generated or tagged with 'CreatedwithAI' are hidden, and suspected AI is set to strict."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/A4CeER4pysFPNYhTJpJ64o-1200-80.jpg",
+          "cap": "(Image credit: ArtStation)"
+        },
+        {
+          "t": "p",
+          "x": "The reliance on user moderation means some AI work may go undetected while 'Strict' filtering could remove work falsely identified as AI, and it's not yet clear if artists can contest a flag. With generative AI seen by some as inevitable in concept art, KitBash probably sees banning it as counterproductive if not impossible."
+        }
+      ]
+    },
+    "design/siemens-hyperlynx-agents": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Siemens has announced the HyperLynx Agentic Toolkit, an agentic AI solution designed to help electronic systems engineers automate verification workflows, review simulation results and support design decisions."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/11/Fig-1-Siemens-adds-agentic-AI-to-HyperLynx-verification-workflows.avif",
+          "cap": "HyperLynx Agentic Toolkit showing DDR5 simulation with compliance eye mask"
+        },
+        {
+          "t": "p",
+          "x": "As system speeds move into 112G and 224G, tighter margins, time-to-market pressure and a shortage of senior verification engineers can push signal integrity issues late into the design cycle. Built on HyperLynx, the toolkit combines domain-specific AI agents with physics-based signal and power integrity simulation. Engineers define verification goals in natural language while an orchestration agent coordinates specialized agents for SerDes, DDR, signal integrity and power integrity analysis, running simulations, extracting parameters, reviewing results and comparing performance against design margins."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/11/Fig-2-Siemens-adds-agentic-AI-to-HyperLynx-verification-workflows.avif",
+          "cap": "Scatter plot of eye height vs. eye width for two design alternatives with PAM4 signaling"
+        },
+        {
+          "t": "p",
+          "x": "The toolkit follows the Questa One Agentic Toolkit and builds on Fuse EDA AI Agent and Intelligence Center X. It is planned for early access with select customers in the fourth quarter of 2026, followed by general availability."
+        }
+      ]
+    },
+    "design/uxc-design-system-ai-prototyping": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/0*GVeuczf4PnCJn95b.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Christine Vallaure saw teams connect their design system to an AI builder, get a finished-looking screen, then watch a developer rebuild it from scratch. Builders like Lovable, Bolt and Claude Design read your design system, then build their own version of it, usually on shadcn and Tailwind. \"Prompting harder will not fix it… The components are not real.\""
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/0*FsGZw7cGpPc5iRkF.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "What you need is two pieces: a manifest — every component's name, purpose, properties, allowed values and defaults, generated from the code — and an MCP connection so the agent asks what exists instead of guessing."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/0*czCuIU3dfQCnhtuQ.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Two routes: the Storybook MCP add-on (Storybook 10 or newer, components manifest switched on), which in Storybook's test used 27% fewer tokens and finished almost three times faster; or a custom design system MCP built by a team with engineers. Prototypes live on a design branch that is never merged, and accepted ideas are rebuilt on a feature branch."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/0*YUHz6rnoOzIZqavV.jpeg"
+        }
+      ]
+    },
+    "design/config-india-freshworks-code": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "3EbdkzGwL7c"
+        },
+        {
+          "t": "p",
+          "x": "What happens when designers can ship code faster than teams can judge the ideas behind it? Sascha Trinkaus shares how Freshworks is connecting its design system to AI tools and preparing engineering workflows for designers contributing production code. He explores how market evidence and customer feedback sharpen ideas before prototyping, and how designers carry their taste through to the product. Joined by Kaushal Cavale from Engineering, he examines what it takes to make this work across disciplines, where human judgement matters, and what they are still figuring out."
+        }
+      ]
+    },
+    "design/adobe-max26-creative-agent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://news.adobe.com/news/2026/11/media_194f62215cc674a3099d1a6f6b08199d16183a1ba.jpg?width=1200&format=pjpg&optimize=medium"
+        },
+        {
+          "t": "p",
+          "x": "Today at Adobe MAX in Miami Beach, Adobe announced new agents and tools in Adobe Firefly, Creative Cloud and Adobe GenStudio. Adobe is expanding the Adobe Creative Agent, a partner creatives can direct with their own words, across Creative Cloud and Adobe Firefly so they can hand off complex, multi-step tasks."
+        },
+        {
+          "t": "p",
+          "x": "Adobe is also previewing local MCP integrations that will let creative professionals direct the third-party agents they already use to make changes in their native project files in Photoshop, Illustrator, Premiere and After Effects, with layers, sequences and compositions staying editable. The Creative Agent powers expanded AI Assistants (beta) in Illustrator, Premiere, InDesign, After Effects and Frame.io."
+        },
+        {
+          "t": "p",
+          "x": "Firefly becomes an AI creative studio combining Adobe's tools with models from Adobe, Topaz Labs and partners including ByteDance, Google, Kling, OpenAI and ElevenLabs. New additions include always-on agents (preview), Firefly Design (beta), Firefly Graph (beta) and Firefly Builder (private beta), which turns ideas into interactive, on-brand prototypes using natural language, with no code required."
+        },
+        {
+          "t": "p",
+          "x": "For enterprises, CX Enterprise Coworker comes to GenStudio. Adobe also deepened partnerships with Google and Microsoft, building on connectors with Anthropic and OpenAI."
+        }
+      ]
     }
   }
 }

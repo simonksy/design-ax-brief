@@ -5673,6 +5673,198 @@
           "x": "Norway is only the latest European country to push back against centres. Denmark, for example, has pushed them to the back of the grid access queue, behind hospitals, car-charging stations, and households. Portugal is demanding that operators invest in fresh renewable energy capacity to power new server farms."
         }
       ]
+    },
+    "politics/raise-act-ny-portal": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Governor Kathy Hochul launched the New York Center for AI Responsibility and Research (NYCAIRR), based at SUNY's Binghamton University, to advance AI safety research, accelerate scientific discovery, and independently test advanced AI systems for safety and security."
+        },
+        {
+          "t": "p",
+          "x": "“While the federal government fails to act, New York is leading the way on AI safety and holding big tech accountable,” Governor Hochul said. “The stakes are too high to simply take AI companies at their word.”"
+        },
+        {
+          "t": "video",
+          "yt": "Q0xjRecdwRI"
+        },
+        {
+          "t": "p",
+          "x": "Greg Morrisett of Cornell Tech and Jeannette Wing of Columbia University will lead the Center as interim co-directors, bringing together more than 80 scientists across New York State. The Center is supported by the computing power of Empire AI, Governor Hochul's $500 million public-private initiative. It was first announced in January with a $30 million philanthropic gift led by Tom Secunda and an initial $25 million research investment from SUNY."
+        },
+        {
+          "t": "p",
+          "x": "Additionally, the new Office of Digital Innovation, Governance, Integrity, and Trust (DIGIT) launched its online portal for large frontier AI developers to register with New York State by January 1, 2027. Beginning in January, large frontier developers will also be required to publish safety frameworks on their websites, and all frontier developers will be required to report critical safety incidents and publish model transparency reports."
+        },
+        {
+          "t": "img",
+          "src": "https://live.staticflickr.com/65535/55645308649_48af47cef7_z.jpg",
+          "cap": "Governor Hochul Declares NY Will Lead the Nation in AI Science and Safety; Launches New Research Institute"
+        },
+        {
+          "t": "p",
+          "x": "Under the RAISE Act, large frontier AI developers must report any critical safety incident within 72 hours. At the State's request, NYCAIRR will coordinate with DIGIT to begin reviewing AI developers' published safety frameworks and providing recommendations."
+        }
+      ]
+    },
+    "politics/chinatalk-rl-environments": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "American data companies like Mercor, Surge AI, AfterQuery, and Turing are selling roughly half a billion dollars worth of data to Chinese AI labs. A chunk of that data comes in the form of reinforcement learning (RL) environments, which labs use to post-train their models to make them excel at specific domains like coding, cyber, finance, law, and bio."
+        },
+        {
+          "t": "p",
+          "x": "RL environments are essentially simulated worlds in which a model can train to improve its performance at specific tasks — for example, a PowerPoint clone plus a grading rubric written by human experts."
+        },
+        {
+          "t": "img",
+          "src": "https://substackcdn.com/image/fetch/$s_!nGwa!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89708c9a-2e06-44a6-ad06-4dc23e63560a_1448x2048.png",
+          "cap": "Example of a task and a grading rubric designed to improve a model’s slide deck-making capabilities. Generated with ChatGPT Astra."
+        },
+        {
+          "t": "p",
+          "x": "The authors say the issue arises when Chinese labs procure environments in sensitive domains: coding environments can aid exploit-finding and offensive cyberattack capabilities, and biology-related environments could upgrade gene synthesis and bioweapon design abilities."
+        },
+        {
+          "t": "p",
+          "x": "They found at least nine vendors — Mercor, SurgeAI, Turing, AfterQuery, Abundant, Pareto, DeccanAI, Eaglepoint and Invisible — and say more definitely exist. Only Scale, micro1 and fleet publicly say they forego China business."
+        },
+        {
+          "t": "p",
+          "x": "Their proposals: BIS could restrict dual-use environments under existing rules, and DoW should change procurement standards; most importantly, the US government needs more visibility. They also argue the consequences can be exaggerated, since piggybacking keeps Chinese labs at least a few months behind."
+        }
+      ]
+    },
+    "politics/finland-estonia-ai-incidents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/11/GettyImages-2301068364-scaled.jpg",
+          "cap": "An illustration picture taken on October 23, 2026 shows the PHP logo on a smartphone screen and the AI letters on a laptop screen in Frankfurt am Main. | Kirill Kudryavtsev"
+        },
+        {
+          "t": "p",
+          "x": "BRUSSELS—The European Union should have a plan to respond to serious artificial intelligence incidents, two EU countries said ahead of a key Friday meeting of national leaders focused on AI."
+        },
+        {
+          "t": "p",
+          "x": "In a letter seen by POLITICO, Finland and Estonia say the bloc \"can still compete at the frontier\" of AI by mobilizing capital and building up compute power, but this should go hand in hand with \"governing it responsibly.\""
+        },
+        {
+          "t": "p",
+          "x": "The two countries, considered among Europe's digital leaders, call for \"EU-level arrangements for responding to serious AI incidents.\""
+        },
+        {
+          "t": "p",
+          "x": "AI safety and security are on Friday's agenda of the first-ever European Council meeting devoted to the revolutionary new technology."
+        },
+        {
+          "t": "p",
+          "x": "Concerns about whether Europe is prepared to respond to AI-powered threats have been picking up steam since a series of incidents this summer in which AI agents went rogue and hacked into other companies. Recent cyberattacks and revelations of coding vulnerabilities have also raised concerns that security systems must be better equipped for the arrival of artificial intelligence."
+        },
+        {
+          "t": "p",
+          "x": "Hungary pushed for a network of national contact points in case AI model providers lose control of their models, in an October paper seen by POLITICO. The country also pushed for a team of \"pre-vetted, security-cleared\" independent evaluators who can be ahead of incidents."
+        },
+        {
+          "t": "p",
+          "x": "The letter from Finland and Estonia called for investment in European frontier AI models \"as an economic priority and as a foundation for Europe's influence on the future of AI.\""
+        },
+        {
+          "t": "p",
+          "x": "The countries warn that Europe requires \"independent capacity to evaluate the most advanced models and their safety and security risks.\""
+        }
+      ]
+    },
+    "politics/thailand-datacenter-rules": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img5.yna.co.kr/photo/etc/epa/2026/09/07/PEP20260907196901009_P4.jpg",
+          "cap": "A data center in Bangkok, the Thai capital [EPA Yonhap file photo]"
+        },
+        {
+          "t": "p",
+          "x": "(Hanoi=Yonhap News) Correspondent Park Jin-hyung = As public opposition grows to the artificial intelligence (AI) data centers springing up across Southeast Asia, the Thai government has drawn up regulatory standards on data centers' noise, temperature and water consumption."
+        },
+        {
+          "t": "p",
+          "x": "According to AFP, Bloomberg and other outlets on the 11th (local time), the Thai cabinet approved rules the previous day that include limiting data center noise to 70A-weighted decibels (dBA) or less, measured at the facility site boundary."
+        },
+        {
+          "t": "p",
+          "x": "The A-weighted decibel is a noise unit corrected by frequency to reflect how the human ear actually hears sound, and 70dBA is reportedly slightly lower than the noise of a vacuum cleaner."
+        },
+        {
+          "t": "p",
+          "x": "The new rules also limit the temperature rise caused by data centers to within 1 to 2 degrees Celsius at the site boundary, and require cooling water to be recirculated and to be inspected before any discharge outside."
+        },
+        {
+          "t": "p",
+          "x": "Data centers consuming 20 megawatts (MW) or more of power must be built in industrial estates and will face stricter oversight."
+        },
+        {
+          "t": "p",
+          "x": "To speed up data center investment and apply clear standards, the government also decided to merge the related licensing and permit procedures into a 'one-stop service' for faster processing."
+        },
+        {
+          "t": "p",
+          "x": "This one-stop licensing service will review projects as a whole and decide on approval by comprehensively considering not only whether minimum standards are met but also job creation in Thailand, provision of technical training, and participation of local Thai companies in the supply chain."
+        },
+        {
+          "t": "p",
+          "x": "Ekniti Nitithanprapas, Thailand's Deputy Prime Minister and Finance Minister, noted that while data centers are core infrastructure for the digital economy and AI, they consume huge amounts of electricity and water and can affect nearby communities."
+        },
+        {
+          "t": "p",
+          "x": "He stressed, \"We will apply the highest standards,\" adding that data center construction projects that fail to meet environmental, security and other requirements \"will not be allowed to proceed.\""
+        },
+        {
+          "t": "p",
+          "x": "He added that new projects awaiting permits must meet the new standards, while legal data centers approved before August 14 will be allowed to operate, with a 1-year grace period to meet the new standards."
+        },
+        {
+          "t": "p",
+          "x": "Over the past several years, data center investment has been very active in Thailand, Malaysia, Indonesia and elsewhere, targeting fast-growing markets such as Southeast Asia."
+        },
+        {
+          "t": "p",
+          "x": "According to Thailand's Board of Investment (BOI), investment applications received from January to September this year exceeded 500억 달러 (fifty billion dollars, about 66조8천억원), with AI-related projects accounting for about 70% by value."
+        },
+        {
+          "t": "p",
+          "x": "However, public opposition to data centers among local residents and others is also rising, amid concerns over heavy power and water consumption and noise."
+        },
+        {
+          "t": "p",
+          "x": "Recently, residents of Indonesia's Batam Island, near Singapore, protested against data centers after drought cut off the water supply, and in Malaysia a data center construction project was canceled in the face of local opposition."
+        }
+      ]
+    },
+    "politics/australia-ai-incident-law": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i.guim.co.uk/img/media/dffa89dc77a6bbaad44df383335bad241ee8e4ac/250_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4c894726f89832e90eabcf0ec9009cca"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI will not face criminal penalties over the Medicare data breach, but Prime Minister Anthony Albanese has flagged changes to Australia's criminal law. He released the recommendations of a \"rapid review\" into the June breach of a Medicare statistics reporting service portal administered by Services Australia, including a possible \"failure to prevent\" offence for developing an AI model that engaged in harmful conduct while failing \"to take reasonable steps to prevent that harm\"."
+        },
+        {
+          "t": "p",
+          "x": "An OpenAI AI agent accessed data from Services Australia and three other systems in June; the company did not notify the government until mid-September. Albanese said the government would set up a new AI safety regulator and impose six obligations on AI companies, including rapid mandatory notification of incidents and allowing independent evaluation of their models. The review made 18 recommendations, all accepted."
+        },
+        {
+          "t": "video",
+          "src": "https://uploads.guim.co.uk/2026/11/10/Mandatory_AI_safety_and_security_protections_announced_after_OpenAI_breach_of_Medicare___video--fec9dfb2-4a05-4f76-bf3f-f4c431fd2529-2.0_720h_q8.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Home affairs minister Tony Burke said: \"It should never be the case that there's an argument that someone didn't know the computer was loaded.\" OpenAI said it was reviewing the proposals and would \"continue to engage constructively\". Greens senator David Shoebridge called the announcement a \"capitulation\" to the AI industry, while the Coalition's Jonno Duniam said it backed the announcement."
+        }
+      ]
     }
   }
 }

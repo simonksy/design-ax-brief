@@ -9980,6 +9980,181 @@
           "x": "To address concerns, TK lets authors publish notes that transparently explain how AI was used in their writing. The app can also connect to your own AI agent through TK’s MCP server or Claude skill. TK is available on the web, with a desktop app on the roadmap, and will be free for those with a Medium account."
         }
       ]
+    },
+    "books/books-unions-openai-voice-brief": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/hero-2.jpg"
+        },
+        {
+          "t": "p",
+          "x": "On 29 October, SAG-AFTRA, the American Federation of Musicians and both branches of the Writers Guild of America filed a motion for leave to submit a friend-of-the-court brief in In re OpenAI, Inc., Copyright Infringement Litigation before Judge Sidney H. Stein. The 34-page brief backs the plaintiffs, a long list of newspapers and authors, and asks the court to reject any rule that treats AI training as fair use across the board."
+        },
+        {
+          "t": "img",
+          "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/brief-p19.jpg",
+          "cap": "Page 19 of the proposed brief, filed 29 October 2026. Image: In re OpenAI, Dkt. 2332, via CourtListener"
+        },
+        {
+          "t": "p",
+          "x": "Page 19 ties synthetic voices to lost bookings. Its 21 percent figure comes from NAVA's State of Voiceover in 2026 survey, which collected 1,379 responses: asked \"Have you ever knowingly lost a job to a synthetic voice?\", 21 percent said yes."
+        },
+        {
+          "t": "img",
+          "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/nava-shot.jpg",
+          "cap": "NAVA's survey page, screenshot taken 1 November 2026. Image: NAVA"
+        },
+        {
+          "t": "p",
+          "x": "The unions argue a market for training licences already exists: their 2026 contracts include \"a notice-and-bargaining right for third-party licenses of covered work to train public-facing, commercially-available generative AI systems.\" \"A ruling here that training is categorically fair use would render moot the terms the Unions and the industry agreed to at the bargaining table,\" the brief reads."
+        },
+        {
+          "t": "img",
+          "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/picket.jpg",
+          "cap": "SAG-AFTRA picket outside Warner Bros. Discovery in New York, 31 July 2023. Photo: Phil Roeder via Wikimedia Commons, CC BY 2.0"
+        },
+        {
+          "t": "p",
+          "x": "Judge Stein first has to decide whether to accept the brief."
+        }
+      ]
+    },
+    "books/books-claude-kindle-jailbreak-apps": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/11/claude-kindle-featured.jpeg?&fit=crop&w=1600&h=900"
+        },
+        {
+          "t": "p",
+          "x": "Over the past year, we've seen people do cool things with their old Kindles and customize device software using Claude. However, until now, I hadn't seen someone do both at the same time."
+        },
+        {
+          "t": "p",
+          "x": "Over on the ClaudeAI subreddit, user abdenourgnx1 showed off what they got done with Claude recently. They had a 7th-gen Kindle sitting around, so they followed a guide to jailbreak it, giving them access to the e-reader's software. Then they got a little help from Anthropic's AI assistant:"
+        },
+        {
+          "t": "p",
+          "x": "\"After the jailbreak, claude takes over to design and build whatever application you want. For me i just gave it a concept image of what i want and how i wanted it to behave and it did the rest. Make sure to have KUAL (application launcher in kindle) or whatever equivalent thing for your model.\""
+        },
+        {
+          "t": "p",
+          "x": "Now the Kindle is a cool display you can mount on your wall as a weather forecaster. It fetches new data over Wi-Fi and updates every hour, but not at night to save battery. They report that this setup drains only 10% of the battery over the week, meaning you can get over two months of use before you need to plug it in again."
+        }
+      ]
+    },
+    "books/books-jaju-webtoon-ai-shortdrama": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://wimg.heraldcorp.com/news/cms/2026/11/10/news-p.v1.20261110.002e6a566b2744a899c811698375eee4_P2.png"
+        },
+        {
+          "t": "p",
+          "x": "Content production company Jaju Story Co. said it has completed contracts to produce Chinese AI short dramas based on five original Korean webtoon intellectual properties (IP)."
+        },
+        {
+          "t": "p",
+          "x": "Jaju Story is pursuing a business in which it works with local Chinese AI production companies to turn five domestic original IPs into short dramas and distribute them through local platforms. The company plans to take part in original planning, directing and review, while its Chinese partners handle local short-drama production, localization, content review and distribution."
+        },
+        {
+          "t": "p",
+          "x": "The first batch consists of five works: “Reincarnation Express Recipe,” “Gwijeon,” “Gimi,” “Duke Girl Boxer” and “Aseul-aseul.” According to the company, production contracts for all five have been completed, and the short dramas are being produced in China using AI technology. It is preparing for release in November 2026 through Chinese platforms including Tencent, ByteDance, Hongguo and WeChat."
+        },
+        {
+          "t": "p",
+          "x": "The works span genres including cooking romance, action fantasy, historical thriller, sports coming-of-age drama and contemporary romance. Jaju Story plans to produce video content based on the original stories and characters, and to run the business on a contractual revenue-sharing basis."
+        },
+        {
+          "t": "p",
+          "x": "CEO Kim Min-ju has worked as a writer, planning and writing works across web novels, webtoons, screenplays and other content. Kim has won an excellence award at the Korea Story Contest and currently oversees story and IP planning, original writing and the commercialization direction of each work."
+        },
+        {
+          "t": "p",
+          "x": "The company is also pursuing plans to expand its production into webtoons, video and other content using the worlds and characters of its works, including “Reincarnation Express Recipe.”"
+        },
+        {
+          "t": "p",
+          "x": "Five works are under review for follow-up production: “Balbok,” “Hwangunggi,” “National Singer Im Bang-ul,” “Witness in the Dark” and “Jakjeonghago Scandal.” Beyond the first batch and the follow-up works, the company plans to secure additional IPs and expand the business while weighing each work’s production readiness and distribution conditions."
+        },
+        {
+          "t": "p",
+          "x": "In the long term, it aims to extend its content production to short dramas, animation, film and music using the worlds and characters of web novels and webtoons, and is also considering distribution in overseas markets beyond China."
+        },
+        {
+          "t": "p",
+          "x": "It also plans to run AI content production training and participation programs linked with local universities, educational institutions and young creators."
+        },
+        {
+          "t": "p",
+          "x": "Gong Seong-sul, head of content, said, “AI is not a means of replacing creators but a tool that expands their imagination and expressive possibilities,” adding, “The core of good content is ultimately the stories and emotions that move people.”"
+        },
+        {
+          "t": "p",
+          "x": "Gong added, “We will expand a single original IP into webtoons, short-form dramas, animation, film and music, and make it content that is loved in the global market for a long time,” and said, “We will grow together with local creative talent and build a new production ecosystem.”"
+        }
+      ]
+    },
+    "books/books-joongang-audiobook-ai-narration": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://image.koreajoongangdaily.com/12955845.webp?imageId=12955845&width=960&height=548&format=jpg",
+          "cap": "A recording session for the audiobook adaptation of “Omniscient Reader’s Viewpoint” (2018–20) takes place at Audien’s recording studio in western Seoul on Nov. 2."
+        },
+        {
+          "t": "p",
+          "x": "Producers primarily use AI to fill gaps in the audiobook industry, such as creating audio versions of books that would otherwise be considered commercially unviable."
+        },
+        {
+          "t": "p",
+          "x": "“AI can express emotions only to some extent,” said Kim Song-hee, an audiobook producer at Audien. The technology may suit narration for nonfiction works, but AI-generated voices are less compelling for fiction adaptations. According to Audien’s distribution department, human-narrated fiction reportedly attracts around 10 times as much interest as its AI counterpart."
+        },
+        {
+          "t": "img",
+          "src": "https://image.koreajoongangdaily.com/12955847.webp?imageId=12955847&x=0.00&y=5.21&cropw=100.00&croph=75.68&width=960&height=548&format=jpg",
+          "cap": "Producers Kim Song-hee, left, and Chang Ji-eun of audiobook production company Audien"
+        },
+        {
+          "t": "p",
+          "x": "From January through October, Audien’s team working with human voice actors produced around 230 titles, while its AI team, established just last year, produced approximately 380. A five- or six-hour audiobook that costs approximately 5 million won ($3,680) to produce with several voice actors can be made for around 1 million won when using AI."
+        },
+        {
+          "t": "img",
+          "src": "https://image.koreajoongangdaily.com/12955846.webp?imageId=12955846&x=0.00&y=2.02&cropw=100.00&croph=57.13&width=960&height=750&format=jpg",
+          "cap": "Voice actors perform during a recording session for \"Omniscient Reader's Viewpoint\" (2018-20)."
+        },
+        {
+          "t": "p",
+          "x": "Audien’s adaptation of Lee Young-do’s \"The Bird That Drinks Blood\" (2005) took two and a half years, with 58 voice actors and 143 hours and 40 minutes of audio. “AI definitely has a role to play in growing the overall audiobook market,” Kim said."
+        }
+      ]
+    },
+    "books/madras-ai-library-books-fir": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.assettype.com/barandbench%2F2022-04%2F886749e2-68b4-4658-84a9-4ad607584aaf%2F8.jpg?w=1200&auto=format%2Ccompress",
+          "cap": "Madras High Court"
+        },
+        {
+          "t": "p",
+          "x": "The Madras High Court on Tuesday directed the Tamil Nadu Directorate of Vigilance and Anti-Corruption (DVAC) to immediately register a First Information Report (FIR) in connection with alleged fraudulent procurement of books for public libraries across the State [Ramasubbu Vs Gopal]."
+        },
+        {
+          "t": "p",
+          "x": "A bench of Justices GR Swaminathan and MD Sumathi flagged various fake and Artificial Intelligence-generated books available in public libraries. It directed removal of such books and ordered the immediate freezing of bank accounts belonging to Agal Vilakku Publication, its proprietor Mohan and others involved in the alleged scam, and directed the State to initiate disciplinary action, including suspension, against officials responsible."
+        },
+        {
+          "t": "p",
+          "x": "\"Crores of rupees has gone out of the public exchequer,\" the Court said. The controversy came to light over books procured for Periyar Arivulagam in Coimbatore, after writer Perumal Murugan raised concerns on social media."
+        },
+        {
+          "t": "p",
+          "x": "The Court referred to a book found at the Kalaignar Centenary Library in Madurai that falsely attributed authorship to economist Jean Drèze, and held that AI-generated and plagiarised books could fall within the expression \"doubtful taste\" under the Tamil Nadu Public Libraries Rules, 1950. The matter will be heard next on November 11."
+        }
+      ]
     }
   }
 }

@@ -1,215 +1,143 @@
 {
-  "date": "2026-11-11",
+  "date": "2026-11-12",
   "section": "medicine",
   "cards": [
     {
-      "id": "google-gemini-healthcare-preview",
+      "id": "lancet-pharma-ad-llm",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Google Cloud,\n의료용 Gemini 출시",
-      "body": "Google이 HCA Healthcare 등과 의료용 Gemini 프리뷰를 내놨다.",
-      "mini_headline": "Gemini for healthcare 출시",
+      "headline": "제약 광고가 소비자용\nAI 추천을 몰래 바꾼다",
+      "body": "제약 광고를 넣자 LLM 치료 추천이 광고 약으로 쏠렸는데 지침 부합도는 높았다.",
+      "mini_headline": "제약 광고, AI 추천 좌우",
       "tool": "Medicine",
-      "source": "Fierce Healthcare",
-      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/google-cloud-rolls-out-gemini-healthcare",
+      "source": "The Lancet Digital Health",
+      "url": "https://www.thelancet.com/journals/landig/article/PIIS2589-7500(26)00137-8/fulltext",
       "accent": "#00897b",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2246672936.jpg?VersionId=AZn1m8lIjRQA5JQfMXNbwPJTuF9F9QrJ"
+            "t": "p",
+            "x": "제약 광고와 소비자용 인공지능의 약물 추천: 대조 연구 — Mahmud Omar, Reem Agbareia, Jolion McGreevy, Alexis Zebrowski, Ashwin Ramaswamy, Michael A Gorin, Esther-Maria Antao, Benjamin S Glicksberg, Ankit Sakhuja, Alexander W Charney, Eyal Klang, Girish N Nadkarni."
           },
           {
             "t": "p",
-            "x": "Google이 화요일 에이전트형 인공지능 플랫폼 Gemini for healthcare를 내놨다. 의료 서비스 제공자와 보험자가 다루는 복잡한 임상·재무·행정 워크플로를 하나로 잇는 플랫폼이다. 임상·건강보험 리더들과 함께 만들었고 HIPAA 준수를 돕도록 설계했다."
+            "x": "광고를 넣자 LLMs가 고르는 치료가 광고 대상 약물 쪽으로 옮겨 갔다. 지침 부합도는 여전히 높았다. 치료 정확성만 평가해서는 지침에 맞는 치료끼리 오가는 이런 변화를 놓칠 수 있다."
           },
           {
             "t": "p",
-            "x": "Google Cloud CEO Thomas Kurian은 “의료의 근본적인 과제는 정보 부족이 아니라, 고도로 규제된 생태계 전반에서 그 데이터를 실제 행동으로 옮기는 데 따르는 막대한 마찰이다.”라고 말했다."
-          },
-          {
-            "t": "p",
-            "x": "“통합되고 완전히 관리되는” 이 시스템은 네 가지 핵심 요소로 짜였다. 의료 업무용 스킬, 행정 시스템 커넥터, 개방형 의료 파트너 생태계, 개방형 모델을 골라 쓸 수 있는 안전한 관리형 플랫폼이다. EHRs와 청구 시스템, 임상 가이드라인, 코딩, CMS 데이터셋에도 연결된다."
-          },
-          {
-            "t": "p",
-            "x": "Gemini Enterprise Standard와 Plus 고객은 11월 10일부터 Gemini for healthcare를 프리뷰로 쓸 수 있다. GoodRx, Epic, IMO Health, Oracle Health, Infinitus, Suki가 파트너로 참여했고 의료기관 HCA Healthcare와 Northwell Health도 출시에 맞춰 Google과 손잡았다."
-          },
-          {
-            "t": "p",
-            "x": "HCA의 Michael Schlosser, M.D.는 자사가 “Gemini가 여러 전자건강기록 시스템과 진료 환경에 걸친 복잡한 환자 정보를 해석하고 종합하는 방법을 모색하고 있다”고 전했다."
+            "x": "광고의 영향은 겉으로 드러나지 않는 경우가 많았다. 이런 출력 변화가 처방이나 환자 결정까지 바꿀 수 있는지는 따로 직접 연구해야 한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Google Cloud rolls out\nGemini for healthcare",
-          "body": "Google's agentic Gemini for healthcare platform enters preview with partners including HCA Healthcare and Northwell.",
-          "mini_headline": "Gemini for healthcare launches",
+          "headline": "Drug ads quietly steer\nconsumer AI recommendations",
+          "body": "Injected pharma ads shifted LLM treatment choices toward the promoted drug while guideline concordance stayed high.",
+          "mini_headline": "Drug ads steer AI picks",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2246672936.jpg?VersionId=AZn1m8lIjRQA5JQfMXNbwPJTuF9F9QrJ"
+                "t": "p",
+                "x": "Pharmaceutical advertising and drug recommendations by consumer-facing artificial intelligence: a controlled study — Mahmud Omar, Reem Agbareia, Jolion McGreevy, Alexis Zebrowski, Ashwin Ramaswamy, Michael A Gorin, Esther-Maria Antao, Benjamin S Glicksberg, Ankit Sakhuja, Alexander W Charney, Eyal Klang, Girish N Nadkarni."
               },
               {
                 "t": "p",
-                "x": "Google launched Tuesday Gemini for healthcare, an agentic artificial intelligence platform aimed at connecting complex clinical, financial and administrative workflows used by healthcare providers and payers. It was developed alongside clinical and health plan leaders and is built to support HIPAA compliance."
+                "x": "Advertising shifted treatment selection by LLMs towards the promoted drug. Guideline concordance remained high, meaning that shifts among guideline-concordant treatments could evade evaluations of treatment correctness."
               },
               {
                 "t": "p",
-                "x": "“The fundamental challenge in healthcare isn't a lack of information—it's the immense friction of making that data actionable across a highly regulated ecosystem,” said Thomas Kurian, Google Cloud CEO."
-              },
-              {
-                "t": "p",
-                "x": "The “integrated, fully governed” system has four main components: skills for healthcare work, connectors to administrative systems, an open healthcare partner ecosystem and a secure, governed platform with open model choice. It integrates with EHRs, billing systems, clinical guidelines, coding and CMS datasets."
-              },
-              {
-                "t": "p",
-                "x": "Gemini for healthcare is available in preview as of Nov. 10 to Gemini Enterprise Standard and Plus customers. Partners include GoodRx, Epic, IMO Health, Oracle Health, Infinitus and Suki; health systems HCA Healthcare and Northwell Health have also teamed up with Google for the launch."
-              },
-              {
-                "t": "p",
-                "x": "HCA's Michael Schlosser, M.D., said the company is “exploring how Gemini can interpret and synthesize complex patient information from multiple electronic health record systems and care settings.”"
+                "x": "The influence of advertising was often undisclosed. Whether these output shifts could affect prescribing or patient decisions requires direct study."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Google Cloud,\n의료용 Gemini 출시",
-          "body": "Google이 HCA Healthcare 등과 의료용 Gemini 프리뷰를 내놨다.",
-          "mini_headline": "Gemini for healthcare 출시",
+          "headline": "제약 광고가 소비자용\nAI 추천을 몰래 바꾼다",
+          "body": "제약 광고를 넣자 LLM 치료 추천이 광고 약으로 쏠렸는데 지침 부합도는 높았다.",
+          "mini_headline": "제약 광고, AI 추천 좌우",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2246672936.jpg?VersionId=AZn1m8lIjRQA5JQfMXNbwPJTuF9F9QrJ"
+                "t": "p",
+                "x": "제약 광고와 소비자용 인공지능의 약물 추천: 대조 연구 — Mahmud Omar, Reem Agbareia, Jolion McGreevy, Alexis Zebrowski, Ashwin Ramaswamy, Michael A Gorin, Esther-Maria Antao, Benjamin S Glicksberg, Ankit Sakhuja, Alexander W Charney, Eyal Klang, Girish N Nadkarni."
               },
               {
                 "t": "p",
-                "x": "Google이 화요일 에이전트형 인공지능 플랫폼 Gemini for healthcare를 내놨다. 의료 서비스 제공자와 보험자가 다루는 복잡한 임상·재무·행정 워크플로를 하나로 잇는 플랫폼이다. 임상·건강보험 리더들과 함께 만들었고 HIPAA 준수를 돕도록 설계했다."
+                "x": "광고를 넣자 LLMs가 고르는 치료가 광고 대상 약물 쪽으로 옮겨 갔다. 지침 부합도는 여전히 높았다. 치료 정확성만 평가해서는 지침에 맞는 치료끼리 오가는 이런 변화를 놓칠 수 있다."
               },
               {
                 "t": "p",
-                "x": "Google Cloud CEO Thomas Kurian은 “의료의 근본적인 과제는 정보 부족이 아니라, 고도로 규제된 생태계 전반에서 그 데이터를 실제 행동으로 옮기는 데 따르는 막대한 마찰이다.”라고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "“통합되고 완전히 관리되는” 이 시스템은 네 가지 핵심 요소로 짜였다. 의료 업무용 스킬, 행정 시스템 커넥터, 개방형 의료 파트너 생태계, 개방형 모델을 골라 쓸 수 있는 안전한 관리형 플랫폼이다. EHRs와 청구 시스템, 임상 가이드라인, 코딩, CMS 데이터셋에도 연결된다."
-              },
-              {
-                "t": "p",
-                "x": "Gemini Enterprise Standard와 Plus 고객은 11월 10일부터 Gemini for healthcare를 프리뷰로 쓸 수 있다. GoodRx, Epic, IMO Health, Oracle Health, Infinitus, Suki가 파트너로 참여했고 의료기관 HCA Healthcare와 Northwell Health도 출시에 맞춰 Google과 손잡았다."
-              },
-              {
-                "t": "p",
-                "x": "HCA의 Michael Schlosser, M.D.는 자사가 “Gemini가 여러 전자건강기록 시스템과 진료 환경에 걸친 복잡한 환자 정보를 해석하고 종합하는 방법을 모색하고 있다”고 전했다."
+                "x": "광고의 영향은 겉으로 드러나지 않는 경우가 많았다. 이런 출력 변화가 처방이나 환자 결정까지 바꿀 수 있는지는 따로 직접 연구해야 한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Google Cloud、\n医療向けGemini投入",
-          "body": "医療版GeminiをGoogleがHCA HealthcareやNorthwellと始めた。",
-          "mini_headline": "Gemini for healthcare提供開始",
+          "headline": "製薬広告が消費者向け\nAIの推奨を静かに誘導",
+          "body": "製薬広告を挿入するとLLMの治療選択は宣伝薬に傾いたが、指針との一致度は高いままだった。",
+          "mini_headline": "製薬広告がAIの推奨を左右",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2246672936.jpg?VersionId=AZn1m8lIjRQA5JQfMXNbwPJTuF9F9QrJ"
+                "t": "p",
+                "x": "製薬広告と消費者向け人工知能による薬剤推奨：対照研究 — Mahmud Omar, Reem Agbareia, Jolion McGreevy, Alexis Zebrowski, Ashwin Ramaswamy, Michael A Gorin, Esther-Maria Antao, Benjamin S Glicksberg, Ankit Sakhuja, Alexander W Charney, Eyal Klang, Girish N Nadkarni."
               },
               {
                 "t": "p",
-                "x": "Googleは火曜日、医療提供者と保険者が使う複雑な臨床・財務・管理ワークフローをつなぐエージェント型人工知能プラットフォーム「Gemini for healthcare」を発表した。臨床や医療保険のリーダーと共同で開発し、HIPAA準拠を支援する設計である。"
+                "x": "広告はLLMsによる治療選択を宣伝対象の薬剤へと傾けた。ガイドラインとの一致度は高いままであり、ガイドラインに沿った治療同士の間での移行は、治療の正しさを測る評価をすり抜けうることを意味する。"
               },
               {
                 "t": "p",
-                "x": "「医療の根本的な課題は情報の不足ではない。高度に規制されたエコシステム全体でそのデータを実際に活用する際の、途方もない摩擦だ」と、Google Cloud CEOのThomas Kurianは述べた。"
-              },
-              {
-                "t": "p",
-                "x": "この「統合され、完全に統制された」システムは四つの主要要素から成る。医療業務向けのスキル、管理システムへのコネクタ、オープンな医療パートナーのエコシステム、そしてオープンなモデル選択を備えた安全で統制されたプラットフォームだ。EHRs、請求システム、臨床ガイドライン、コーディング、CMSデータセットと連携する。"
-              },
-              {
-                "t": "p",
-                "x": "Gemini for healthcareは11月10日からGemini Enterprise StandardおよびPlusの顧客にプレビュー提供されている。パートナーにはGoodRx、Epic、IMO Health、Oracle Health、Infinitus、Sukiが名を連ね、医療システムのHCA HealthcareとNorthwell Healthもローンチに合わせてGoogleと提携した。"
-              },
-              {
-                "t": "p",
-                "x": "HCAのMichael Schlosser, M.D.は、同社が「Geminiが複数の電子カルテシステムや診療環境にまたがる複雑な患者情報をどう解釈し統合できるかを探っている」と語った。"
+                "x": "広告の影響は多くの場合、開示されていなかった。こうした出力の変化が処方や患者の意思決定に影響しうるかどうかは、直接的な研究が必要である。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Google Cloud\n推出医疗版Gemini",
-          "body": "Google医疗版Gemini携HCA Healthcare和Northwell开启预览。",
-          "mini_headline": "Gemini for healthcare上线",
+          "headline": "药品广告悄然左右\n消费级AI的推荐",
+          "body": "植入的药品广告使LLM的治疗选择偏向推广药物，而指南符合度仍然很高。",
+          "mini_headline": "药品广告左右AI推荐",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2246672936.jpg?VersionId=AZn1m8lIjRQA5JQfMXNbwPJTuF9F9QrJ"
+                "t": "p",
+                "x": "药品广告与面向消费者的人工智能的药物推荐：一项对照研究 — Mahmud Omar, Reem Agbareia, Jolion McGreevy, Alexis Zebrowski, Ashwin Ramaswamy, Michael A Gorin, Esther-Maria Antao, Benjamin S Glicksberg, Ankit Sakhuja, Alexander W Charney, Eyal Klang, Girish N Nadkarni."
               },
               {
                 "t": "p",
-                "x": "Google周二推出Gemini for healthcare，这是一个智能体人工智能平台，旨在打通医疗服务提供方和支付方所用的复杂临床、财务与行政工作流程。该平台与临床及健康保险领域的负责人共同开发，设计上支持HIPAA合规。"
+                "x": "广告使LLMs的治疗选择偏向被推广的药物。指南符合度仍然很高，这意味着在符合指南的治疗方案之间发生的偏移，可能逃过对治疗正确性的评估。"
               },
               {
                 "t": "p",
-                "x": "“医疗领域的根本挑战不是缺乏信息，而是在高度监管的生态系统中让这些数据真正发挥作用时所面临的巨大阻力。”Google Cloud CEO Thomas Kurian表示。"
-              },
-              {
-                "t": "p",
-                "x": "这套“集成、全面治理”的系统由四个主要部分组成：面向医疗工作的技能、连接行政系统的连接器、开放的医疗合作伙伴生态，以及支持开放模型选择的安全、受治理平台。它可与EHRs、计费系统、临床指南、编码和CMS数据集集成。"
-              },
-              {
-                "t": "p",
-                "x": "自11月10日起，Gemini for healthcare面向Gemini Enterprise Standard和Plus客户提供预览。合作伙伴包括GoodRx、Epic、IMO Health、Oracle Health、Infinitus和Suki；医疗系统HCA Healthcare与Northwell Health也与Google联手参与此次发布。"
-              },
-              {
-                "t": "p",
-                "x": "HCA的Michael Schlosser, M.D.表示，公司正在“探索Gemini如何解读并综合来自多个电子健康记录系统和诊疗场景的复杂患者信息”。"
+                "x": "广告的影响往往未被披露。这些输出变化是否会影响处方或患者决策，还需要直接研究。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Google Cloud lanza\nGemini for healthcare",
-          "body": "Gemini for healthcare, plataforma agéntica de Google, entra en vista previa con socios como HCA Healthcare y Northwell.",
-          "mini_headline": "Llega Gemini for healthcare",
+          "headline": "Anuncios de fármacos orientan\nen silencio a la AI de consumo",
+          "body": "Anuncios farmacéuticos inyectados inclinaron al LLM hacia el fármaco promocionado, con alta concordancia con guías.",
+          "mini_headline": "Anuncios de fármacos guían a la AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2246672936.jpg?VersionId=AZn1m8lIjRQA5JQfMXNbwPJTuF9F9QrJ"
+                "t": "p",
+                "x": "Publicidad farmacéutica y recomendaciones de medicamentos por inteligencia artificial orientada al consumidor: un estudio controlado — Mahmud Omar, Reem Agbareia, Jolion McGreevy, Alexis Zebrowski, Ashwin Ramaswamy, Michael A Gorin, Esther-Maria Antao, Benjamin S Glicksberg, Ankit Sakhuja, Alexander W Charney, Eyal Klang, Girish N Nadkarni."
               },
               {
                 "t": "p",
-                "x": "Google lanzó el martes Gemini for healthcare, una plataforma agéntica de inteligencia artificial pensada para conectar los complejos flujos de trabajo clínicos, financieros y administrativos que usan proveedores de salud y aseguradoras. Se desarrolló junto a líderes clínicos y de planes de salud, y está diseñada para facilitar el cumplimiento de HIPAA."
+                "x": "La publicidad desplazó la selección de tratamientos de los LLMs hacia el fármaco promocionado. La concordancia con las guías siguió siendo alta, lo que significa que los cambios entre tratamientos concordantes con las guías podrían escapar a las evaluaciones de la corrección del tratamiento."
               },
               {
                 "t": "p",
-                "x": "“El desafío fundamental en la salud no es la falta de información, sino la enorme fricción para convertir esos datos en acciones dentro de un ecosistema altamente regulado”, afirmó Thomas Kurian, CEO de Google Cloud."
-              },
-              {
-                "t": "p",
-                "x": "El sistema “integrado y totalmente gobernado” tiene cuatro componentes principales: habilidades para el trabajo sanitario, conectores a sistemas administrativos, un ecosistema abierto de socios de salud y una plataforma segura y gobernada con libre elección de modelo. Se integra con EHRs, sistemas de facturación, guías clínicas, codificación y conjuntos de datos de CMS."
-              },
-              {
-                "t": "p",
-                "x": "Gemini for healthcare está disponible en vista previa desde el 10 de noviembre para clientes de Gemini Enterprise Standard y Plus. Entre los socios figuran GoodRx, Epic, IMO Health, Oracle Health, Infinitus y Suki; los sistemas de salud HCA Healthcare y Northwell Health también se aliaron con Google para el lanzamiento."
-              },
-              {
-                "t": "p",
-                "x": "Michael Schlosser, M.D., de HCA, dijo que la compañía está “explorando cómo Gemini puede interpretar y sintetizar información compleja de pacientes procedente de múltiples sistemas de historia clínica electrónica y entornos de atención”."
+                "x": "La influencia de la publicidad a menudo no se revelaba. Saber si estos cambios en las respuestas podrían afectar a la prescripción o a las decisiones de los pacientes requiere un estudio directo."
               }
             ]
           }
@@ -217,137 +145,89 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Google Cloud,\n의료용 Gemini 출시",
-          "body": "Google이 HCA Healthcare 등과 의료용 Gemini 프리뷰를 열었다.",
-          "mini_headline": "Gemini for healthcare 출시",
+          "headline": "제약 광고가 소비자용\nAI 추천을 몰래 바꾼다",
+          "body": "제약 광고를 넣자 LLM 치료 추천이 광고 약에 쏠렸지만 지침 부합도는 높았다.",
+          "mini_headline": "제약 광고, AI 추천 좌우",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2246672936.jpg?VersionId=AZn1m8lIjRQA5JQfMXNbwPJTuF9F9QrJ"
+                "t": "p",
+                "x": "제약 광고와 소비자용 인공지능의 약물 추천: 대조 연구 — Mahmud Omar, Reem Agbareia, Jolion McGreevy, Alexis Zebrowski, Ashwin Ramaswamy, Michael A Gorin, Esther-Maria Antao, Benjamin S Glicksberg, Ankit Sakhuja, Alexander W Charney, Eyal Klang, Girish N Nadkarni."
               },
               {
                 "t": "p",
-                "x": "Google은 화요일 의료 서비스 제공자와 보험자가 쓰는 복잡한 임상·재무·행정 워크플로를 하나로 잇는 에이전트형 인공지능 플랫폼 Gemini for healthcare를 출시했다. 임상 및 건강보험 리더들과 함께 개발했고, HIPAA 준수를 지원하도록 설계했다."
+                "x": "광고는 LLMs의 치료 선택을 광고 대상 약물 쪽으로 옮겼다. 지침 부합도는 여전히 높았는데, 이는 지침에 부합하는 치료들 사이의 이동이 치료 정확성 평가에서 드러나지 않을 수 있다는 뜻이다."
               },
               {
                 "t": "p",
-                "x": "“의료의 근본적인 과제는 정보 부족이 아니라, 고도로 규제된 생태계 전반에서 그 데이터를 실제 행동으로 옮기는 데 따르는 막대한 마찰이다.” Google Cloud CEO Thomas Kurian의 말이다."
-              },
-              {
-                "t": "p",
-                "x": "이 “통합되고 완전히 관리되는” 시스템은 네 가지 핵심 요소로 이뤄진다. 의료 업무용 스킬, 행정 시스템 커넥터, 개방형 의료 파트너 생태계, 그리고 개방형 모델 선택을 지원하는 안전하고 관리되는 플랫폼이다. EHRs, 청구 시스템, 임상 가이드라인, 코딩, CMS 데이터셋과 연동한다."
-              },
-              {
-                "t": "p",
-                "x": "Gemini for healthcare는 11월 10일부터 Gemini Enterprise Standard 및 Plus 고객에게 프리뷰로 제공된다. 파트너로 GoodRx, Epic, IMO Health, Oracle Health, Infinitus, Suki가 참여하고, 의료기관 HCA Healthcare와 Northwell Health도 출시에 맞춰 Google과 손잡았다."
-              },
-              {
-                "t": "p",
-                "x": "HCA의 Michael Schlosser, M.D.는 회사가 “Gemini가 여러 전자건강기록 시스템과 진료 환경에 걸친 복잡한 환자 정보를 해석하고 종합하는 방법을 모색하고 있다”고 말했다."
+                "x": "광고의 영향은 흔히 드러나지 않았다. 이런 출력 변화가 처방이나 환자의 결정에 영향을 줄 수 있는지는 직접적인 연구가 필요하다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Google Cloud、\n医療向けGemini投入",
-          "body": "医療版GeminiをGoogleがHCA HealthcareやNorthwellと始めた。",
-          "mini_headline": "Gemini for healthcare提供開始",
+          "headline": "製薬広告が消費者向け\nAIの推奨を静かに誘導",
+          "body": "製薬広告を挿入するとLLMの治療選択は宣伝薬に傾いたが、指針との一致度は高いままだった。",
+          "mini_headline": "製薬広告がAIの推奨を左右",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2246672936.jpg?VersionId=AZn1m8lIjRQA5JQfMXNbwPJTuF9F9QrJ"
+                "t": "p",
+                "x": "製薬広告と消費者向け人工知能による薬剤推奨：対照研究 — Mahmud Omar, Reem Agbareia, Jolion McGreevy, Alexis Zebrowski, Ashwin Ramaswamy, Michael A Gorin, Esther-Maria Antao, Benjamin S Glicksberg, Ankit Sakhuja, Alexander W Charney, Eyal Klang, Girish N Nadkarni."
               },
               {
                 "t": "p",
-                "x": "Googleは火曜日、医療提供者と保険者が使う複雑な臨床・財務・管理ワークフローをつなぐエージェント型人工知能プラットフォーム「Gemini for healthcare」を発表した。臨床や医療保険のリーダーと共同で開発し、HIPAA準拠を支援する設計である。"
+                "x": "広告はLLMsによる治療選択を宣伝対象の薬剤へと傾けた。ガイドラインとの一致度は高いままであり、ガイドラインに沿った治療同士の間での移行は、治療の正しさを測る評価をすり抜けうることを意味する。"
               },
               {
                 "t": "p",
-                "x": "「医療の根本的な課題は情報の不足ではない。高度に規制されたエコシステム全体でそのデータを実際に活用する際の、途方もない摩擦だ」と、Google Cloud CEOのThomas Kurianは述べた。"
-              },
-              {
-                "t": "p",
-                "x": "この「統合され、完全に統制された」システムは四つの主要要素から成る。医療業務向けのスキル、管理システムへのコネクタ、オープンな医療パートナーのエコシステム、そしてオープンなモデル選択を備えた安全で統制されたプラットフォームだ。EHRs、請求システム、臨床ガイドライン、コーディング、CMSデータセットと連携する。"
-              },
-              {
-                "t": "p",
-                "x": "Gemini for healthcareは11月10日からGemini Enterprise StandardおよびPlusの顧客にプレビュー提供されている。パートナーにはGoodRx、Epic、IMO Health、Oracle Health、Infinitus、Sukiが名を連ね、医療システムのHCA HealthcareとNorthwell Healthもローンチに合わせてGoogleと提携した。"
-              },
-              {
-                "t": "p",
-                "x": "HCAのMichael Schlosser, M.D.は、同社が「Geminiが複数の電子カルテシステムや診療環境にまたがる複雑な患者情報をどう解釈し統合できるかを探っている」と語った。"
+                "x": "広告の影響は多くの場合、開示されていなかった。こうした出力の変化が処方や患者の意思決定に影響しうるかどうかは、直接的な研究が必要である。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Google Cloud\n推出医疗版Gemini",
-          "body": "Google医疗版Gemini携HCA Healthcare和Northwell开启预览。",
-          "mini_headline": "Gemini for healthcare上线",
+          "headline": "药品广告悄然左右\n消费级AI的推荐",
+          "body": "植入的药品广告使LLM的治疗选择偏向推广药物，而指南符合度仍然很高。",
+          "mini_headline": "药品广告左右AI推荐",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2246672936.jpg?VersionId=AZn1m8lIjRQA5JQfMXNbwPJTuF9F9QrJ"
+                "t": "p",
+                "x": "药品广告与面向消费者的人工智能的药物推荐：一项对照研究 — Mahmud Omar, Reem Agbareia, Jolion McGreevy, Alexis Zebrowski, Ashwin Ramaswamy, Michael A Gorin, Esther-Maria Antao, Benjamin S Glicksberg, Ankit Sakhuja, Alexander W Charney, Eyal Klang, Girish N Nadkarni."
               },
               {
                 "t": "p",
-                "x": "Google周二推出Gemini for healthcare，这是一个智能体人工智能平台，旨在打通医疗服务提供方和支付方所用的复杂临床、财务与行政工作流程。该平台与临床及健康保险领域的负责人共同开发，设计上支持HIPAA合规。"
+                "x": "广告使LLMs的治疗选择偏向被推广的药物。指南符合度仍然很高，这意味着在符合指南的治疗方案之间发生的偏移，可能逃过对治疗正确性的评估。"
               },
               {
                 "t": "p",
-                "x": "“医疗领域的根本挑战不是缺乏信息，而是在高度监管的生态系统中让这些数据真正发挥作用时所面临的巨大阻力。”Google Cloud CEO Thomas Kurian表示。"
-              },
-              {
-                "t": "p",
-                "x": "这套“集成、全面治理”的系统由四个主要部分组成：面向医疗工作的技能、连接行政系统的连接器、开放的医疗合作伙伴生态，以及支持开放模型选择的安全、受治理平台。它可与EHRs、计费系统、临床指南、编码和CMS数据集集成。"
-              },
-              {
-                "t": "p",
-                "x": "自11月10日起，Gemini for healthcare面向Gemini Enterprise Standard和Plus客户提供预览。合作伙伴包括GoodRx、Epic、IMO Health、Oracle Health、Infinitus和Suki；医疗系统HCA Healthcare与Northwell Health也与Google联手参与此次发布。"
-              },
-              {
-                "t": "p",
-                "x": "HCA的Michael Schlosser, M.D.表示，公司正在“探索Gemini如何解读并综合来自多个电子健康记录系统和诊疗场景的复杂患者信息”。"
+                "x": "广告的影响往往未被披露。这些输出变化是否会影响处方或患者决策，还需要直接研究。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Google Cloud lanza\nGemini for healthcare",
-          "body": "Gemini for healthcare, plataforma agéntica de Google, entra en vista previa con socios como HCA Healthcare y Northwell.",
-          "mini_headline": "Llega Gemini for healthcare",
+          "headline": "Anuncios de fármacos orientan\nen silencio a la AI de consumo",
+          "body": "Anuncios farmacéuticos inyectados inclinaron al LLM hacia el fármaco promocionado, con alta concordancia con guías.",
+          "mini_headline": "Anuncios de fármacos guían a la AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2246672936.jpg?VersionId=AZn1m8lIjRQA5JQfMXNbwPJTuF9F9QrJ"
+                "t": "p",
+                "x": "Publicidad farmacéutica y recomendaciones de medicamentos por inteligencia artificial orientada al consumidor: un estudio controlado — Mahmud Omar, Reem Agbareia, Jolion McGreevy, Alexis Zebrowski, Ashwin Ramaswamy, Michael A Gorin, Esther-Maria Antao, Benjamin S Glicksberg, Ankit Sakhuja, Alexander W Charney, Eyal Klang, Girish N Nadkarni."
               },
               {
                 "t": "p",
-                "x": "Google lanzó el martes Gemini for healthcare, una plataforma agéntica de inteligencia artificial pensada para conectar los complejos flujos de trabajo clínicos, financieros y administrativos que usan proveedores de salud y aseguradoras. Se desarrolló junto a líderes clínicos y de planes de salud, y está diseñada para facilitar el cumplimiento de HIPAA."
+                "x": "La publicidad desplazó la selección de tratamientos de los LLMs hacia el fármaco promocionado. La concordancia con las guías siguió siendo alta, lo que significa que los cambios entre tratamientos concordantes con las guías podrían escapar a las evaluaciones de la corrección del tratamiento."
               },
               {
                 "t": "p",
-                "x": "“El desafío fundamental en la salud no es la falta de información, sino la enorme fricción para convertir esos datos en acciones dentro de un ecosistema altamente regulado”, afirmó Thomas Kurian, CEO de Google Cloud."
-              },
-              {
-                "t": "p",
-                "x": "El sistema “integrado y totalmente gobernado” tiene cuatro componentes principales: habilidades para el trabajo sanitario, conectores a sistemas administrativos, un ecosistema abierto de socios de salud y una plataforma segura y gobernada con libre elección de modelo. Se integra con EHRs, sistemas de facturación, guías clínicas, codificación y conjuntos de datos de CMS."
-              },
-              {
-                "t": "p",
-                "x": "Gemini for healthcare está disponible en vista previa desde el 10 de noviembre para clientes de Gemini Enterprise Standard y Plus. Entre los socios figuran GoodRx, Epic, IMO Health, Oracle Health, Infinitus y Suki; los sistemas de salud HCA Healthcare y Northwell Health también se aliaron con Google para el lanzamiento."
-              },
-              {
-                "t": "p",
-                "x": "Michael Schlosser, M.D., de HCA, dijo que la compañía está “explorando cómo Gemini puede interpretar y sintetizar información compleja de pacientes procedente de múltiples sistemas de historia clínica electrónica y entornos de atención”."
+                "x": "La influencia de la publicidad a menudo no se revelaba. Saber si estos cambios en las respuestas podrían afectar a la prescripción o a las decisiones de los pacientes requiere un estudio directo."
               }
             ]
           }
@@ -355,15 +235,15 @@
       }
     },
     {
-      "id": "aha-voice-heartfailure-alert",
+      "id": "mdcalc-crosscover-launch",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI 음성 분석,\n심부전 몇 주 먼저 감지",
-      "body": "AHA 2026서 AI 음성 분석이 심부전 악화를 표준 진료보다 수주 먼저 잡았다.",
-      "mini_headline": "AI 음성으로 심부전 조기 감지",
+      "headline": "MDCalc, 임상 AI\n챗봇에 안전장치 달다",
+      "body": "MDCalc가 의료 AI 챗봇 답변을 믿고 쓰게 돕는 CrossCover를 내놨다.",
+      "mini_headline": "MDCalc, CrossCover 출시",
       "tool": "Medicine",
-      "source": "Cardiovascular Business",
-      "url": "https://cardiovascularbusiness.com/topics/clinical/heart-failure/voice-changes-may-detect-worsening-heart-failure-weeks-other-symptoms-appear",
+      "source": "STAT",
+      "url": "https://www.statnews.com/2026/11/11/mdcalc-launches-crosscover-rumble-strip-for-clinical-ai-chatbots/",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
@@ -371,197 +251,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2026-11/william_abraham_explains_how_ai_can_detect_worsening_heart_failure_in_a_phone_call.jpg?h=b6022c96&itok=-COwDmK_"
+            "src": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_1577391848-1024x576.jpeg"
           },
           {
             "t": "p",
-            "x": "스마트폰으로 쓰는 인공지능(AI) 음성 분석 시스템이 심부전 증상 악화를 세 주 넘게 미리 잡아내 표준 진료를 크게 따돌렸다. DETECT-HF 임상시험의 최신 데이터로, American Heart Association Scientific Sessions 2026에서 발표됐고 JACC: Heart Failure에 실렸다."
+            "x": "새 도구는 임상의 질문에 개인정보가 섞였는지, 챗봇 답변이 정확한지 점검한다."
           },
           {
             "t": "p",
-            "x": "DETECT-HF는 외래 심부전 환자 563명에게 Cordio Medical의 HearO 시스템을 적용해 평가했다. 시스템은 주요 심부전 사건의 70% 이상을 평균 24.6일 앞서 예측했다. 책임 연구자 William T. Abraham, MD는 기존 방식인 매일 체중 측정의 민감도가 약 20%에 그친다고 설명했다."
-          },
-          {
-            "t": "video",
-            "src": "https://innovate-healthcare-cdn.s3.amazonaws.com/2026-11/William%20Abraham%20explains%20how%20AI%20voice%20analysis%20can%20detect%20worsening%20heart%20failure.mp4"
+            "x": "의료 참고 도구 사이트 MDCalc는 수요일 CrossCover를 출시했다. 환자와 의료진의 개인정보를 지키면서 임상의가 의료 인공지능 챗봇 답변을 믿고 쓰게 돕는 도구라는 게 회사 설명이다."
           },
           {
             "t": "p",
-            "x": "HearO는 환자가 매일 정해진 여섯 문장을 말하면 억양과 호흡 패턴 같은 음향 특성을 분석한다. AI 알고리즘이 환자마다 음성 모델을 만들어 두고 심부전 악화 패턴이 보이면 의료진에게 알린다."
+            "x": "MDCalc의 AI 책임자 Graham Walker는 이 도구를 임상 생성형 AI의 가속 장치로 본다고 했다. 그는 “이 기술의 과제와 위험, 문제 일부를 덜어내 의사들이 더 자신 있게 쓸 수 있도록 할 수 있다”고 덧붙였다."
           },
           {
             "t": "p",
-            "x": "참여자들은 예정된 녹음의 85%를 마쳤다. 원인을 알 수 없는 알림은 환자당 연 2.65건이었고 기기 관련 이상 사례는 보고되지 않았다. HearO는 FDA 혁신 의료기기로 지정됐으며, 회사는 2027년 U.S. 출시를 노린다."
+            "x": "CrossCover의 접근은 OpenEvidence, Abridge, 전자건강기록 기업 Epic의 의료 AI 도구와 정반대다. 이들 도구는 환자·의료진·지불자 정보를 갈수록 폭넓게 끌어와 추천에 반영하려 한다. MDCalc의 도구는 임상의에게 국가 식별번호 등록을 요구하거나 개인정보 협약을 중개하지 않는다. 대신 임상의 질의에서 그런 정보를 걷어내는 데 집중한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI voice check flags\nheart failure weeks early",
-          "body": "At AHA 2026, an AI voice analysis flagged worsening heart failure weeks before other symptoms, beating standard care.",
-          "mini_headline": "AI voice flags heart failure early",
+          "headline": "MDCalc adds a rumble strip\nfor clinical AI chatbots",
+          "body": "MDCalc launched CrossCover, a tool meant to help clinicians trust the answers medical AI chatbots give them.",
+          "mini_headline": "MDCalc launches CrossCover",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2026-11/william_abraham_explains_how_ai_can_detect_worsening_heart_failure_in_a_phone_call.jpg?h=b6022c96&itok=-COwDmK_"
+                "src": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_1577391848-1024x576.jpeg"
               },
               {
                 "t": "p",
-                "x": "A smartphone-based artificial intelligence (AI) voice analysis system can detect worsening heart failure symptoms more than three weeks early, significantly outperforming the standard of care, according to late-breaking DETECT-HF trial data presented at the American Heart Association Scientific Sessions 2026 and published in JACC: Heart Failure."
+                "x": "The new tool checks clinicians’ questions for privacy concerns and chatbots’ answers for accuracy."
               },
               {
                 "t": "p",
-                "x": "DETECT-HF evaluated Cordio Medical's HearO system in 563 ambulatory heart failure patients. It predicted more than 70% of significant heart failure events an average of 24.6 days in advance. Conventional daily weight measurements have a sensitivity of approximately 20%, according to lead investigator William T. Abraham, MD."
-              },
-              {
-                "t": "video",
-                "src": "https://innovate-healthcare-cdn.s3.amazonaws.com/2026-11/William%20Abraham%20explains%20how%20AI%20voice%20analysis%20can%20detect%20worsening%20heart%20failure.mp4"
+                "x": "MDCalc, a medical reference tool site, on Wednesday launched CrossCover, a tool the company said is meant to help clinicians trust the answers of medical artificial intelligence chatbots while preserving patient and provider privacy."
               },
               {
                 "t": "p",
-                "x": "HearO collects six standardized spoken sentences each day and evaluates intonation, breathing patterns and other acoustic features. AI algorithms build a patient-specific voice model and alert clinicians when patterns of worsening heart failure appear."
+                "x": "Graham Walker, head of AI at MDCalc, said the company sees the tool as an accelerator for clinical generative AI. “We can take away some of the challenges and risks and problems with the technology so that physicians can feel more confident in using it,” he said."
               },
               {
                 "t": "p",
-                "x": "Participants completed 85% of scheduled recordings; the unexplained alert rate was 2.65 per patient per year, and no device-related adverse events were reported. HearO received FDA breakthrough device designation, and the company hopes to launch in the U.S. in 2027."
+                "x": "CrossCover takes an approach that contradicts that of medical AI tools from OpenEvidence, Abridge, and electronic health record company Epic, which are trying to incorporate an ever-widening repertoire of patient, provider, and payer information into their recommendations. Rather than requiring clinicians to register with their national identification numbers or brokering privacy agreements, MDCalc’s tool focuses on stripping out those types of information from clinicians’ queries."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI 음성 분석,\n심부전 몇 주 먼저 감지",
-          "body": "AHA 2026서 AI 음성 분석이 심부전 악화를 표준 진료보다 수주 먼저 잡았다.",
-          "mini_headline": "AI 음성으로 심부전 조기 감지",
+          "headline": "MDCalc, 임상 AI\n챗봇에 안전장치 달다",
+          "body": "MDCalc가 의료 AI 챗봇 답변을 믿고 쓰게 돕는 CrossCover를 내놨다.",
+          "mini_headline": "MDCalc, CrossCover 출시",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2026-11/william_abraham_explains_how_ai_can_detect_worsening_heart_failure_in_a_phone_call.jpg?h=b6022c96&itok=-COwDmK_"
+                "src": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_1577391848-1024x576.jpeg"
               },
               {
                 "t": "p",
-                "x": "스마트폰으로 쓰는 인공지능(AI) 음성 분석 시스템이 심부전 증상 악화를 세 주 넘게 미리 잡아내 표준 진료를 크게 따돌렸다. DETECT-HF 임상시험의 최신 데이터로, American Heart Association Scientific Sessions 2026에서 발표됐고 JACC: Heart Failure에 실렸다."
+                "x": "새 도구는 임상의 질문에 개인정보가 섞였는지, 챗봇 답변이 정확한지 점검한다."
               },
               {
                 "t": "p",
-                "x": "DETECT-HF는 외래 심부전 환자 563명에게 Cordio Medical의 HearO 시스템을 적용해 평가했다. 시스템은 주요 심부전 사건의 70% 이상을 평균 24.6일 앞서 예측했다. 책임 연구자 William T. Abraham, MD는 기존 방식인 매일 체중 측정의 민감도가 약 20%에 그친다고 설명했다."
-              },
-              {
-                "t": "video",
-                "src": "https://innovate-healthcare-cdn.s3.amazonaws.com/2026-11/William%20Abraham%20explains%20how%20AI%20voice%20analysis%20can%20detect%20worsening%20heart%20failure.mp4"
+                "x": "의료 참고 도구 사이트 MDCalc는 수요일 CrossCover를 출시했다. 환자와 의료진의 개인정보를 지키면서 임상의가 의료 인공지능 챗봇 답변을 믿고 쓰게 돕는 도구라는 게 회사 설명이다."
               },
               {
                 "t": "p",
-                "x": "HearO는 환자가 매일 정해진 여섯 문장을 말하면 억양과 호흡 패턴 같은 음향 특성을 분석한다. AI 알고리즘이 환자마다 음성 모델을 만들어 두고 심부전 악화 패턴이 보이면 의료진에게 알린다."
+                "x": "MDCalc의 AI 책임자 Graham Walker는 이 도구를 임상 생성형 AI의 가속 장치로 본다고 했다. 그는 “이 기술의 과제와 위험, 문제 일부를 덜어내 의사들이 더 자신 있게 쓸 수 있도록 할 수 있다”고 덧붙였다."
               },
               {
                 "t": "p",
-                "x": "참여자들은 예정된 녹음의 85%를 마쳤다. 원인을 알 수 없는 알림은 환자당 연 2.65건이었고 기기 관련 이상 사례는 보고되지 않았다. HearO는 FDA 혁신 의료기기로 지정됐으며, 회사는 2027년 U.S. 출시를 노린다."
+                "x": "CrossCover의 접근은 OpenEvidence, Abridge, 전자건강기록 기업 Epic의 의료 AI 도구와 정반대다. 이들 도구는 환자·의료진·지불자 정보를 갈수록 폭넓게 끌어와 추천에 반영하려 한다. MDCalc의 도구는 임상의에게 국가 식별번호 등록을 요구하거나 개인정보 협약을 중개하지 않는다. 대신 임상의 질의에서 그런 정보를 걷어내는 데 집중한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI音声解析、\n心不全を数週間前に察知",
-          "body": "AHA 2026でAI音声解析が心不全の悪化を症状より数週間早く捉え、標準治療を上回った。",
-          "mini_headline": "AI音声で心不全を早期察知",
+          "headline": "MDCalc、臨床AI\nチャットボットに歯止め",
+          "body": "MDCalcが医療AIチャットボットの回答の信頼性を高めるCrossCoverを公開した。",
+          "mini_headline": "MDCalcがCrossCoverを公開",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2026-11/william_abraham_explains_how_ai_can_detect_worsening_heart_failure_in_a_phone_call.jpg?h=b6022c96&itok=-COwDmK_"
+                "src": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_1577391848-1024x576.jpeg"
               },
               {
                 "t": "p",
-                "x": "スマートフォンを使う人工知能(AI)音声解析システムが、心不全症状の悪化を三週間以上早く検知し、標準治療を大きく上回った。American Heart Association Scientific Sessions 2026で発表され、JACC: Heart Failureに掲載されたDETECT-HF試験の最新データによるものだ。"
+                "x": "新ツールは、臨床医の質問にプライバシー上の懸念がないか、チャットボットの回答が正確かを確認する。"
               },
               {
                 "t": "p",
-                "x": "DETECT-HFは外来の心不全患者563人を対象にCordio MedicalのHearOシステムを評価した。重大な心不全イベントの70%超を平均24.6日前に予測した。筆頭研究者のWilliam T. Abraham, MDによると、従来の毎日の体重測定の感度は約20%にとどまる。"
-              },
-              {
-                "t": "video",
-                "src": "https://innovate-healthcare-cdn.s3.amazonaws.com/2026-11/William%20Abraham%20explains%20how%20AI%20voice%20analysis%20can%20detect%20worsening%20heart%20failure.mp4"
+                "x": "医療参照ツールサイトのMDCalcは水曜日、CrossCoverを公開した。同社によると、患者と医療者のプライバシーを守りつつ、臨床医が医療用人工知能チャットボットの回答を信頼できるよう支援するためのツールだという。"
               },
               {
                 "t": "p",
-                "x": "HearOは毎日、定型の六つの文を話した音声を収集し、抑揚や呼吸パターンなどの音響的特徴を評価する。AIアルゴリズムが患者ごとの音声モデルを構築し、心不全悪化のパターンが現れると臨床医に通知する。"
+                "x": "MDCalcのAI責任者Graham Walkerは、同社はこのツールを臨床向け生成AIの加速装置と位置づけていると述べた。「この技術に伴う課題やリスク、問題の一部を取り除くことで、医師がより自信を持って使えるようにできる」と彼は語った。"
               },
               {
                 "t": "p",
-                "x": "参加者は予定された録音の85%を完了した。原因不明のアラートは患者あたり年2.65件で、デバイス関連の有害事象は報告されなかった。HearOはFDAのブレークスルー・デバイス指定を受けており、同社は2027年のU.S.での発売を目指している。"
+                "x": "CrossCoverの手法は、OpenEvidence、Abridge、電子カルテ企業Epicの医療AIツールとは相反する。これらは患者、医療者、支払者の情報をますます幅広く推奨に取り込もうとしている。MDCalcのツールは、臨床医に国の識別番号での登録を求めたりプライバシー契約を仲介したりする代わりに、臨床医の問い合わせからそうした情報を取り除くことに重点を置く。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI语音分析\n提前数周预警心衰",
-          "body": "AHA 2026上，AI语音分析比其他症状提前数周发现心衰恶化，优于标准护理。",
-          "mini_headline": "AI语音提前预警心衰",
+          "headline": "MDCalc为临床AI\n聊天机器人加装护栏",
+          "body": "MDCalc推出CrossCover，帮助临床医生信任医疗AI聊天机器人给出的回答。",
+          "mini_headline": "MDCalc推出CrossCover",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2026-11/william_abraham_explains_how_ai_can_detect_worsening_heart_failure_in_a_phone_call.jpg?h=b6022c96&itok=-COwDmK_"
+                "src": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_1577391848-1024x576.jpeg"
               },
               {
                 "t": "p",
-                "x": "根据在American Heart Association Scientific Sessions 2026上公布、并发表于JACC: Heart Failure的DETECT-HF试验最新数据，一款基于智能手机的人工智能(AI)语音分析系统可提前三周以上发现心衰症状恶化，表现明显优于标准护理。"
+                "x": "这款新工具会检查临床医生的提问是否涉及隐私问题，并核查聊天机器人回答的准确性。"
               },
               {
                 "t": "p",
-                "x": "DETECT-HF在563名门诊心衰患者中评估了Cordio Medical的HearO系统。该系统平均提前24.6天预测了70%以上的重大心衰事件。主要研究者William T. Abraham, MD表示，传统的每日称重灵敏度约为20%。"
-              },
-              {
-                "t": "video",
-                "src": "https://innovate-healthcare-cdn.s3.amazonaws.com/2026-11/William%20Abraham%20explains%20how%20AI%20voice%20analysis%20can%20detect%20worsening%20heart%20failure.mp4"
+                "x": "医学参考工具网站MDCalc于周三推出CrossCover。该公司表示，这款工具旨在帮助临床医生信任医疗人工智能聊天机器人的回答，同时保护患者和医疗服务提供者的隐私。"
               },
               {
                 "t": "p",
-                "x": "HearO每天采集六句标准化语句的录音，评估语调、呼吸模式等声学特征。AI算法为每位患者建立专属语音模型，一旦出现心衰恶化的模式便提醒临床医生。"
+                "x": "MDCalc的AI负责人Graham Walker表示，公司将这款工具视为临床生成式AI的加速器。他说：“我们可以消除这项技术的一些挑战、风险和问题，让医生能更有信心地使用它。”"
               },
               {
                 "t": "p",
-                "x": "参与者完成了85%的预定录音；无法解释的警报率为每名患者每年2.65次，未报告与器械相关的不良事件。HearO已获FDA突破性器械认定，公司希望于2027年在U.S.上市。"
+                "x": "CrossCover采取的路径与OpenEvidence、Abridge以及电子健康记录公司Epic的医疗AI工具相反，后者正试图将范围不断扩大的患者、医疗服务提供者和支付方信息纳入其推荐。MDCalc的工具既不要求临床医生用国家识别号注册，也不居间达成隐私协议，而是专注于从临床医生的查询中剔除这类信息。"
               }
             ]
           }
         },
         "es": {
-          "headline": "AI de voz alerta semanas antes\nde la insuficiencia cardíaca",
-          "body": "En AHA 2026, el análisis de voz con AI detectó semanas antes la insuficiencia cardíaca y superó la atención estándar.",
-          "mini_headline": "La AI de voz anticipa la insuficiencia cardíaca",
+          "headline": "MDCalc pone una banda de alerta\na los chatbots clínicos de AI",
+          "body": "MDCalc lanzó CrossCover, una herramienta para que los clínicos confíen en las respuestas de chatbots médicos de AI.",
+          "mini_headline": "MDCalc lanza CrossCover",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2026-11/william_abraham_explains_how_ai_can_detect_worsening_heart_failure_in_a_phone_call.jpg?h=b6022c96&itok=-COwDmK_"
+                "src": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_1577391848-1024x576.jpeg"
               },
               {
                 "t": "p",
-                "x": "Un sistema de análisis de voz con inteligencia artificial (AI) basado en el teléfono inteligente puede detectar el empeoramiento de los síntomas de insuficiencia cardíaca con más de tres semanas de antelación y supera con claridad la atención estándar, según datos de última hora del ensayo DETECT-HF presentados en las American Heart Association Scientific Sessions 2026 y publicados en JACC: Heart Failure."
+                "x": "La nueva herramienta revisa las preguntas de los clínicos en busca de problemas de privacidad y las respuestas de los chatbots en cuanto a su exactitud."
               },
               {
                 "t": "p",
-                "x": "DETECT-HF evaluó el sistema HearO de Cordio Medical en 563 pacientes ambulatorios con insuficiencia cardíaca. Predijo más del 70% de los eventos significativos de insuficiencia cardíaca con una media de 24.6 días de antelación. El pesaje diario convencional tiene una sensibilidad de aproximadamente el 20%, según el investigador principal, William T. Abraham, MD."
-              },
-              {
-                "t": "video",
-                "src": "https://innovate-healthcare-cdn.s3.amazonaws.com/2026-11/William%20Abraham%20explains%20how%20AI%20voice%20analysis%20can%20detect%20worsening%20heart%20failure.mp4"
+                "x": "MDCalc, un sitio de herramientas de referencia médica, lanzó el miércoles CrossCover, una herramienta que, según la empresa, busca ayudar a los clínicos a confiar en las respuestas de los chatbots médicos de inteligencia artificial, preservando la privacidad de pacientes y profesionales."
               },
               {
                 "t": "p",
-                "x": "HearO recoge cada día seis frases habladas estandarizadas y evalúa la entonación, los patrones respiratorios y otras características acústicas. Los algoritmos de AI construyen un modelo de voz específico para cada paciente y alertan a los médicos cuando aparecen patrones de empeoramiento de la insuficiencia cardíaca."
+                "x": "Graham Walker, responsable de AI en MDCalc, dijo que la empresa ve la herramienta como un acelerador de la AI generativa clínica. “Podemos eliminar algunos de los desafíos, riesgos y problemas de la tecnología para que los médicos se sientan más seguros al usarla”, afirmó."
               },
               {
                 "t": "p",
-                "x": "Los participantes completaron el 85% de las grabaciones previstas; la tasa de alertas sin explicación fue de 2.65 por paciente y año, y no se notificaron eventos adversos relacionados con el dispositivo. HearO recibió la designación de dispositivo innovador de la FDA, y la empresa espera lanzarlo en U.S. en 2027."
+                "x": "CrossCover adopta un enfoque opuesto al de las herramientas médicas de AI de OpenEvidence, Abridge y la empresa de historias clínicas electrónicas Epic, que intentan incorporar a sus recomendaciones un repertorio cada vez más amplio de información de pacientes, profesionales y pagadores. En lugar de exigir a los clínicos que se registren con su número de identificación nacional o de negociar acuerdos de privacidad, la herramienta de MDCalc se centra en eliminar ese tipo de información de las consultas de los clínicos."
               }
             ]
           }
@@ -569,137 +425,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI 음성 분석,\n심부전 몇 주 먼저 감지",
-          "body": "AHA 2026서 AI 음성 분석이 표준 진료보다 심부전 악화를 수주 먼저 잡았다.",
-          "mini_headline": "AI 음성으로 심부전 조기 감지",
+          "headline": "MDCalc, 임상 AI\n챗봇에 안전장치 달다",
+          "body": "MDCalc가 의료 AI 챗봇 답변을 믿고 쓰게 돕는 CrossCover를 냈다.",
+          "mini_headline": "MDCalc, CrossCover 출시",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2026-11/william_abraham_explains_how_ai_can_detect_worsening_heart_failure_in_a_phone_call.jpg?h=b6022c96&itok=-COwDmK_"
+                "src": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_1577391848-1024x576.jpeg"
               },
               {
                 "t": "p",
-                "x": "스마트폰 기반 인공지능(AI) 음성 분석 시스템이 심부전 증상 악화를 세 주 넘게 앞서 감지해 표준 진료를 크게 앞섰다. American Heart Association Scientific Sessions 2026에서 발표되고 JACC: Heart Failure에 실린 DETECT-HF 임상시험의 최신 데이터다."
+                "x": "새 도구는 임상의의 질문에서 개인정보 문제를, 챗봇의 답변에서 정확성을 점검한다."
               },
               {
                 "t": "p",
-                "x": "DETECT-HF는 외래 심부전 환자 563명을 대상으로 Cordio Medical의 HearO 시스템을 평가했다. 시스템은 주요 심부전 사건의 70% 이상을 평균 24.6일 앞서 예측했다. 책임 연구자 William T. Abraham, MD에 따르면 기존의 매일 체중 측정은 민감도가 약 20%에 그친다."
-              },
-              {
-                "t": "video",
-                "src": "https://innovate-healthcare-cdn.s3.amazonaws.com/2026-11/William%20Abraham%20explains%20how%20AI%20voice%20analysis%20can%20detect%20worsening%20heart%20failure.mp4"
+                "x": "의료 참고 도구 사이트 MDCalc는 수요일 CrossCover를 출시했다. 회사는 이 도구가 환자와 의료진의 개인정보를 지키면서 임상의가 의료 인공지능 챗봇의 답변을 신뢰하도록 돕기 위한 것이라고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "HearO는 매일 표준화된 여섯 문장의 발화를 수집해 억양, 호흡 패턴 등 음향 특성을 평가한다. AI 알고리즘이 환자별 음성 모델을 만들고, 심부전 악화 패턴이 나타나면 의료진에게 알린다."
+                "x": "MDCalc의 AI 책임자 Graham Walker는 회사가 이 도구를 임상 생성형 AI의 가속 장치로 본다고 말했다. 그는 “이 기술의 과제와 위험, 문제 일부를 덜어내 의사들이 더 자신 있게 쓸 수 있도록 할 수 있다”고 말했다."
               },
               {
                 "t": "p",
-                "x": "참여자는 예정된 녹음의 85%를 마쳤다. 원인을 설명할 수 없는 알림은 환자당 연 2.65건이었고, 기기 관련 이상 사례는 보고되지 않았다. HearO는 FDA 혁신 의료기기 지정을 받았으며, 회사는 2027년 U.S. 출시를 목표로 한다."
+                "x": "CrossCover는 OpenEvidence, Abridge, 전자건강기록 기업 Epic의 의료 AI 도구와 정반대의 접근을 택한다. 이들 도구는 갈수록 폭넓은 환자·의료진·지불자 정보를 추천에 반영하려 한다. MDCalc의 도구는 임상의에게 국가 식별번호 등록을 요구하거나 개인정보 협약을 중개하는 대신, 임상의의 질의에서 그런 정보를 걷어내는 데 집중한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI音声解析、\n心不全を数週間前に察知",
-          "body": "AHA 2026でAI音声解析が心不全の悪化を症状より数週間早く捉え、標準治療を上回った。",
-          "mini_headline": "AI音声で心不全を早期察知",
+          "headline": "MDCalc、臨床AI\nチャットボットに歯止め",
+          "body": "MDCalcが医療AIチャットボットの回答の信頼性を高めるCrossCoverを公開した。",
+          "mini_headline": "MDCalcがCrossCoverを公開",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2026-11/william_abraham_explains_how_ai_can_detect_worsening_heart_failure_in_a_phone_call.jpg?h=b6022c96&itok=-COwDmK_"
+                "src": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_1577391848-1024x576.jpeg"
               },
               {
                 "t": "p",
-                "x": "スマートフォンを使う人工知能(AI)音声解析システムが、心不全症状の悪化を三週間以上早く検知し、標準治療を大きく上回った。American Heart Association Scientific Sessions 2026で発表され、JACC: Heart Failureに掲載されたDETECT-HF試験の最新データによるものだ。"
+                "x": "新ツールは、臨床医の質問にプライバシー上の懸念がないか、チャットボットの回答が正確かを確認する。"
               },
               {
                 "t": "p",
-                "x": "DETECT-HFは外来の心不全患者563人を対象にCordio MedicalのHearOシステムを評価した。重大な心不全イベントの70%超を平均24.6日前に予測した。筆頭研究者のWilliam T. Abraham, MDによると、従来の毎日の体重測定の感度は約20%にとどまる。"
-              },
-              {
-                "t": "video",
-                "src": "https://innovate-healthcare-cdn.s3.amazonaws.com/2026-11/William%20Abraham%20explains%20how%20AI%20voice%20analysis%20can%20detect%20worsening%20heart%20failure.mp4"
+                "x": "医療参照ツールサイトのMDCalcは水曜日、CrossCoverを公開した。同社によると、患者と医療者のプライバシーを守りつつ、臨床医が医療用人工知能チャットボットの回答を信頼できるよう支援するためのツールだという。"
               },
               {
                 "t": "p",
-                "x": "HearOは毎日、定型の六つの文を話した音声を収集し、抑揚や呼吸パターンなどの音響的特徴を評価する。AIアルゴリズムが患者ごとの音声モデルを構築し、心不全悪化のパターンが現れると臨床医に通知する。"
+                "x": "MDCalcのAI責任者Graham Walkerは、同社はこのツールを臨床向け生成AIの加速装置と位置づけていると述べた。「この技術に伴う課題やリスク、問題の一部を取り除くことで、医師がより自信を持って使えるようにできる」と彼は語った。"
               },
               {
                 "t": "p",
-                "x": "参加者は予定された録音の85%を完了した。原因不明のアラートは患者あたり年2.65件で、デバイス関連の有害事象は報告されなかった。HearOはFDAのブレークスルー・デバイス指定を受けており、同社は2027年のU.S.での発売を目指している。"
+                "x": "CrossCoverの手法は、OpenEvidence、Abridge、電子カルテ企業Epicの医療AIツールとは相反する。これらは患者、医療者、支払者の情報をますます幅広く推奨に取り込もうとしている。MDCalcのツールは、臨床医に国の識別番号での登録を求めたりプライバシー契約を仲介したりする代わりに、臨床医の問い合わせからそうした情報を取り除くことに重点を置く。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI语音分析\n提前数周预警心衰",
-          "body": "AHA 2026上，AI语音分析比其他症状提前数周发现心衰恶化，优于标准护理。",
-          "mini_headline": "AI语音提前预警心衰",
+          "headline": "MDCalc为临床AI\n聊天机器人加装护栏",
+          "body": "MDCalc推出CrossCover，帮助临床医生信任医疗AI聊天机器人给出的回答。",
+          "mini_headline": "MDCalc推出CrossCover",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2026-11/william_abraham_explains_how_ai_can_detect_worsening_heart_failure_in_a_phone_call.jpg?h=b6022c96&itok=-COwDmK_"
+                "src": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_1577391848-1024x576.jpeg"
               },
               {
                 "t": "p",
-                "x": "根据在American Heart Association Scientific Sessions 2026上公布、并发表于JACC: Heart Failure的DETECT-HF试验最新数据，一款基于智能手机的人工智能(AI)语音分析系统可提前三周以上发现心衰症状恶化，表现明显优于标准护理。"
+                "x": "这款新工具会检查临床医生的提问是否涉及隐私问题，并核查聊天机器人回答的准确性。"
               },
               {
                 "t": "p",
-                "x": "DETECT-HF在563名门诊心衰患者中评估了Cordio Medical的HearO系统。该系统平均提前24.6天预测了70%以上的重大心衰事件。主要研究者William T. Abraham, MD表示，传统的每日称重灵敏度约为20%。"
-              },
-              {
-                "t": "video",
-                "src": "https://innovate-healthcare-cdn.s3.amazonaws.com/2026-11/William%20Abraham%20explains%20how%20AI%20voice%20analysis%20can%20detect%20worsening%20heart%20failure.mp4"
+                "x": "医学参考工具网站MDCalc于周三推出CrossCover。该公司表示，这款工具旨在帮助临床医生信任医疗人工智能聊天机器人的回答，同时保护患者和医疗服务提供者的隐私。"
               },
               {
                 "t": "p",
-                "x": "HearO每天采集六句标准化语句的录音，评估语调、呼吸模式等声学特征。AI算法为每位患者建立专属语音模型，一旦出现心衰恶化的模式便提醒临床医生。"
+                "x": "MDCalc的AI负责人Graham Walker表示，公司将这款工具视为临床生成式AI的加速器。他说：“我们可以消除这项技术的一些挑战、风险和问题，让医生能更有信心地使用它。”"
               },
               {
                 "t": "p",
-                "x": "参与者完成了85%的预定录音；无法解释的警报率为每名患者每年2.65次，未报告与器械相关的不良事件。HearO已获FDA突破性器械认定，公司希望于2027年在U.S.上市。"
+                "x": "CrossCover采取的路径与OpenEvidence、Abridge以及电子健康记录公司Epic的医疗AI工具相反，后者正试图将范围不断扩大的患者、医疗服务提供者和支付方信息纳入其推荐。MDCalc的工具既不要求临床医生用国家识别号注册，也不居间达成隐私协议，而是专注于从临床医生的查询中剔除这类信息。"
               }
             ]
           }
         },
         "es": {
-          "headline": "AI de voz alerta semanas antes\nde la insuficiencia cardíaca",
-          "body": "En AHA 2026, el análisis de voz con AI detectó semanas antes la insuficiencia cardíaca y superó la atención estándar.",
-          "mini_headline": "La AI de voz anticipa la insuficiencia cardíaca",
+          "headline": "MDCalc pone una banda de alerta\na los chatbots clínicos de AI",
+          "body": "MDCalc lanzó CrossCover, una herramienta para que los clínicos confíen en las respuestas de chatbots médicos de AI.",
+          "mini_headline": "MDCalc lanza CrossCover",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2026-11/william_abraham_explains_how_ai_can_detect_worsening_heart_failure_in_a_phone_call.jpg?h=b6022c96&itok=-COwDmK_"
+                "src": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_1577391848-1024x576.jpeg"
               },
               {
                 "t": "p",
-                "x": "Un sistema de análisis de voz con inteligencia artificial (AI) basado en el teléfono inteligente puede detectar el empeoramiento de los síntomas de insuficiencia cardíaca con más de tres semanas de antelación y supera con claridad la atención estándar, según datos de última hora del ensayo DETECT-HF presentados en las American Heart Association Scientific Sessions 2026 y publicados en JACC: Heart Failure."
+                "x": "La nueva herramienta revisa las preguntas de los clínicos en busca de problemas de privacidad y las respuestas de los chatbots en cuanto a su exactitud."
               },
               {
                 "t": "p",
-                "x": "DETECT-HF evaluó el sistema HearO de Cordio Medical en 563 pacientes ambulatorios con insuficiencia cardíaca. Predijo más del 70% de los eventos significativos de insuficiencia cardíaca con una media de 24.6 días de antelación. El pesaje diario convencional tiene una sensibilidad de aproximadamente el 20%, según el investigador principal, William T. Abraham, MD."
-              },
-              {
-                "t": "video",
-                "src": "https://innovate-healthcare-cdn.s3.amazonaws.com/2026-11/William%20Abraham%20explains%20how%20AI%20voice%20analysis%20can%20detect%20worsening%20heart%20failure.mp4"
+                "x": "MDCalc, un sitio de herramientas de referencia médica, lanzó el miércoles CrossCover, una herramienta que, según la empresa, busca ayudar a los clínicos a confiar en las respuestas de los chatbots médicos de inteligencia artificial, preservando la privacidad de pacientes y profesionales."
               },
               {
                 "t": "p",
-                "x": "HearO recoge cada día seis frases habladas estandarizadas y evalúa la entonación, los patrones respiratorios y otras características acústicas. Los algoritmos de AI construyen un modelo de voz específico para cada paciente y alertan a los médicos cuando aparecen patrones de empeoramiento de la insuficiencia cardíaca."
+                "x": "Graham Walker, responsable de AI en MDCalc, dijo que la empresa ve la herramienta como un acelerador de la AI generativa clínica. “Podemos eliminar algunos de los desafíos, riesgos y problemas de la tecnología para que los médicos se sientan más seguros al usarla”, afirmó."
               },
               {
                 "t": "p",
-                "x": "Los participantes completaron el 85% de las grabaciones previstas; la tasa de alertas sin explicación fue de 2.65 por paciente y año, y no se notificaron eventos adversos relacionados con el dispositivo. HearO recibió la designación de dispositivo innovador de la FDA, y la empresa espera lanzarlo en U.S. en 2027."
+                "x": "CrossCover adopta un enfoque opuesto al de las herramientas médicas de AI de OpenEvidence, Abridge y la empresa de historias clínicas electrónicas Epic, que intentan incorporar a sus recomendaciones un repertorio cada vez más amplio de información de pacientes, profesionales y pagadores. En lugar de exigir a los clínicos que se registren con su número de identificación nacional o de negociar acuerdos de privacidad, la herramienta de MDCalc se centra en eliminar ese tipo de información de las consultas de los clínicos."
               }
             ]
           }
@@ -707,501 +547,189 @@
       }
     },
     {
-      "id": "llm-mri-protocoling-radiology",
+      "id": "nejm-ai-aura-ana-triage",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "LLMs, MRI 프로토콜\n영상의학 전문의와 대등",
-      "body": "대형 언어 모델이 MRI 프로토콜 선택에서 영상의학 전문의와 맞먹었다.",
-      "mini_headline": "LLMs, MRI에서 전문의와 대등",
+      "headline": "류마티스 의뢰에 AI,\n무작위 시험으로 검증",
+      "body": "해석 가능한 모델 AURA가 무작위 평가에서 ANA 양성자 중 의뢰 대상을 골랐다.",
+      "mini_headline": "ANA 의뢰, AI가 분류",
       "tool": "Medicine",
-      "source": "Radiology Business",
-      "url": "https://radiologybusiness.com/topics/artificial-intelligence/large-language-models-show-potential-mri-protocoling",
-      "accent": "#7928ca",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2023-04/microsoftteams-image_22.png?h=56757225&itok=o575y87t"
-          },
-          {
-            "t": "p",
-            "x": "환자에게 가장 알맞은 MRI 프로토콜을 고르는 일에서 대형 언어 모델이 영상의학 전문의와 대등한 성능을 낼 수 있다는 새 분석이 나왔다. 대개 사람이 손으로 하던 MRI 프로토콜 선택을 일부 모델이 표준화하는 데 보탬이 될 수 있다는 결과다."
-          },
-          {
-            "t": "p",
-            "x": "University Hospital Bonn의 Dr. Zeynep Bendella가 이끈 연구진은 연속 접수된 MRI 의뢰서 1,200건으로 오픈 웨이트 LLMs 네 종을 시험했다. 영상의학 전문의 자격을 갖춘 두 명이 합의한 결과를 정답 기준으로 삼았다."
-          },
-          {
-            "t": "p",
-            "x": "GPT-OSS-120B와 Qwen3-235B-A22B-Instruct-2507은 프로토콜 정확도가 나란히 94%였다. MedGemma-27B-Text-IT는 79%, Gemma-3-27B-IT는 58%로 가장 낮았다. 부적절한 선택 비율은 GPT-OSS 5.8%, Qwen3 5.9%에 그쳤지만 MedGemma는 24.7%, Gemma3는 68.3%까지 올라갔다."
-          },
-          {
-            "t": "p",
-            "x": "가장 흔한 오류는 해부학적으로는 맞지만 임상적으로 최선은 아닌 프로토콜을 고른 경우였다. 저자들은 출력이 들쭉날쭉하고 부적절한 선택도 잦은 만큼 임상 감독 없이 자동 추천에 기대면 위험하다고 경고했다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "LLMs match radiologists\non MRI protocoling",
-          "body": "A new analysis finds large language models perform on par with radiologists at choosing the right MRI protocol.",
-          "mini_headline": "LLMs match radiologists on MRI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2023-04/microsoftteams-image_22.png?h=56757225&itok=o575y87t"
-              },
-              {
-                "t": "p",
-                "x": "Large language models can perform on par with radiologists when it comes to selecting the most appropriate MRI protocols for patients, according to a new analysis. The findings suggest certain models could help standardize MRI protocol selection, which is typically done manually."
-              },
-              {
-                "t": "p",
-                "x": "Researchers led by Dr. Zeynep Bendella of University Hospital Bonn evaluated four open-weight LLMs using 1,200 consecutive MRI referral forms, with a consensus of two board-certified radiologists as the reference standard."
-              },
-              {
-                "t": "p",
-                "x": "GPT-OSS-120B and Qwen3-235B-A22B-Instruct-2507 each earned 94% protocol accuracy. MedGemma-27B-Text-IT achieved 79%, and Gemma-3-27B-IT had the lowest performance, with 58%. Unacceptable selections were 5.8% for GPT-OSS and 5.9% for Qwen3, versus 24.7% for MedGemma and 68.3% for Gemma3."
-              },
-              {
-                "t": "p",
-                "x": "The most common error was choosing a protocol that was anatomically appropriate but clinically suboptimal. The authors cautioned that the variation in outputs and frequency of unacceptable selections highlight the risks of relying on automated recommendations without clinical oversight."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "LLMs, MRI 프로토콜\n영상의학 전문의와 대등",
-          "body": "대형 언어 모델이 MRI 프로토콜 선택에서 영상의학 전문의와 맞먹었다.",
-          "mini_headline": "LLMs, MRI에서 전문의와 대등",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2023-04/microsoftteams-image_22.png?h=56757225&itok=o575y87t"
-              },
-              {
-                "t": "p",
-                "x": "환자에게 가장 알맞은 MRI 프로토콜을 고르는 일에서 대형 언어 모델이 영상의학 전문의와 대등한 성능을 낼 수 있다는 새 분석이 나왔다. 대개 사람이 손으로 하던 MRI 프로토콜 선택을 일부 모델이 표준화하는 데 보탬이 될 수 있다는 결과다."
-              },
-              {
-                "t": "p",
-                "x": "University Hospital Bonn의 Dr. Zeynep Bendella가 이끈 연구진은 연속 접수된 MRI 의뢰서 1,200건으로 오픈 웨이트 LLMs 네 종을 시험했다. 영상의학 전문의 자격을 갖춘 두 명이 합의한 결과를 정답 기준으로 삼았다."
-              },
-              {
-                "t": "p",
-                "x": "GPT-OSS-120B와 Qwen3-235B-A22B-Instruct-2507은 프로토콜 정확도가 나란히 94%였다. MedGemma-27B-Text-IT는 79%, Gemma-3-27B-IT는 58%로 가장 낮았다. 부적절한 선택 비율은 GPT-OSS 5.8%, Qwen3 5.9%에 그쳤지만 MedGemma는 24.7%, Gemma3는 68.3%까지 올라갔다."
-              },
-              {
-                "t": "p",
-                "x": "가장 흔한 오류는 해부학적으로는 맞지만 임상적으로 최선은 아닌 프로토콜을 고른 경우였다. 저자들은 출력이 들쭉날쭉하고 부적절한 선택도 잦은 만큼 임상 감독 없이 자동 추천에 기대면 위험하다고 경고했다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "LLMs、MRIプロトコル\n選択で放射線科医と同等",
-          "body": "新たな分析で、大規模言語モデルはMRIプロトコル選択で放射線科医と同等の性能を示した。",
-          "mini_headline": "LLMs、MRIで放射線科医並み",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2023-04/microsoftteams-image_22.png?h=56757225&itok=o575y87t"
-              },
-              {
-                "t": "p",
-                "x": "新たな分析によると、大規模言語モデルは患者に最適なMRIプロトコルを選ぶ点で放射線科医と同等の性能を発揮しうる。通常は手作業で行われるMRIプロトコル選択を、一部のモデルが標準化する助けになる可能性が示された。"
-              },
-              {
-                "t": "p",
-                "x": "University Hospital BonnのDr. Zeynep Bendella率いる研究チームは、連続した1,200件のMRI依頼票を用いて四つのオープンウェイトLLMsを評価した。基準には専門医資格を持つ二人の放射線科医の合意を用いた。"
-              },
-              {
-                "t": "p",
-                "x": "GPT-OSS-120BとQwen3-235B-A22B-Instruct-2507はいずれもプロトコル正解率94%を記録した。MedGemma-27B-Text-ITは79%、Gemma-3-27B-ITは58%で最も低かった。不適切な選択はGPT-OSSが5.8%、Qwen3が5.9%だったのに対し、MedGemmaは24.7%、Gemma3は68.3%だった。"
-              },
-              {
-                "t": "p",
-                "x": "最も多い誤りは、解剖学的には適切だが臨床的には最適でないプロトコルを選ぶものだった。著者らは、出力のばらつきと不適切な選択の頻度が、臨床的な監督なしに自動推奨へ頼るリスクを浮き彫りにしていると警告した。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "LLMs选择MRI方案\n比肩放射科医生",
-          "body": "新分析显示，大语言模型在选择合适MRI方案上与放射科医生表现相当。",
-          "mini_headline": "LLMs在MRI上比肩放射科医生",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2023-04/microsoftteams-image_22.png?h=56757225&itok=o575y87t"
-              },
-              {
-                "t": "p",
-                "x": "一项新分析显示，在为患者选择最合适的MRI扫描方案时，大语言模型的表现可与放射科医生相当。研究结果表明，某些模型有助于将通常依赖人工完成的MRI方案选择标准化。"
-              },
-              {
-                "t": "p",
-                "x": "由University Hospital Bonn的Dr. Zeynep Bendella领导的研究团队，使用1,200份连续的MRI申请单评估了四款开放权重LLMs，并以两位委员会认证放射科医生的共识作为参考标准。"
-              },
-              {
-                "t": "p",
-                "x": "GPT-OSS-120B和Qwen3-235B-A22B-Instruct-2507的方案准确率均为94%。MedGemma-27B-Text-IT为79%，Gemma-3-27B-IT表现最差，仅为58%。不可接受的选择比例方面，GPT-OSS为5.8%，Qwen3为5.9%，而MedGemma为24.7%，Gemma3为68.3%。"
-              },
-              {
-                "t": "p",
-                "x": "最常见的错误是选择了解剖上合适但临床上并非最优的方案。作者提醒，输出结果的差异以及不可接受选择的频率，凸显了在缺乏临床监督的情况下依赖自动推荐的风险。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Los LLMs igualan a radiólogos\nal elegir protocolos de MRI",
-          "body": "Un nuevo análisis halla que los grandes modelos de lenguaje igualan a los radiólogos al elegir el protocolo de MRI.",
-          "mini_headline": "Los LLMs igualan a radiólogos en MRI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2023-04/microsoftteams-image_22.png?h=56757225&itok=o575y87t"
-              },
-              {
-                "t": "p",
-                "x": "Los grandes modelos de lenguaje pueden rendir al nivel de los radiólogos a la hora de seleccionar los protocolos de MRI más adecuados para los pacientes, según un nuevo análisis. Los resultados sugieren que ciertos modelos podrían ayudar a estandarizar la selección de protocolos de MRI, que normalmente se hace de forma manual."
-              },
-              {
-                "t": "p",
-                "x": "Investigadores dirigidos por la Dr. Zeynep Bendella, del University Hospital Bonn, evaluaron cuatro LLMs de pesos abiertos con 1,200 formularios consecutivos de solicitud de MRI, usando como estándar de referencia el consenso de dos radiólogos certificados."
-              },
-              {
-                "t": "p",
-                "x": "GPT-OSS-120B y Qwen3-235B-A22B-Instruct-2507 alcanzaron cada uno un 94% de precisión en el protocolo. MedGemma-27B-Text-IT logró un 79%, y Gemma-3-27B-IT tuvo el peor rendimiento, con un 58%. Las selecciones inaceptables fueron del 5.8% para GPT-OSS y del 5.9% para Qwen3, frente al 24.7% de MedGemma y el 68.3% de Gemma3."
-              },
-              {
-                "t": "p",
-                "x": "El error más común fue elegir un protocolo anatómicamente apropiado pero clínicamente subóptimo. Los autores advirtieron que la variación en los resultados y la frecuencia de selecciones inaceptables ponen de relieve los riesgos de confiar en recomendaciones automatizadas sin supervisión clínica."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "LLMs, MRI 프로토콜\n영상의학 전문의와 대등",
-          "body": "대형 언어 모델이 MRI 프로토콜 선택에서 영상의학 전문의와 대등하다는 분석이다.",
-          "mini_headline": "LLMs, MRI에서 전문의와 대등",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2023-04/microsoftteams-image_22.png?h=56757225&itok=o575y87t"
-              },
-              {
-                "t": "p",
-                "x": "새 분석에 따르면 대형 언어 모델은 환자에게 가장 적합한 MRI 프로토콜을 고르는 일에서 영상의학 전문의와 대등한 성능을 낼 수 있다. 연구 결과는 보통 수작업으로 이뤄지는 MRI 프로토콜 선택을 일부 모델이 표준화하는 데 도움이 될 수 있음을 시사한다."
-              },
-              {
-                "t": "p",
-                "x": "University Hospital Bonn의 Dr. Zeynep Bendella가 이끈 연구진은 연속된 MRI 의뢰서 1,200건으로 오픈 웨이트 LLMs 네 종을 평가했다. 기준은 영상의학 전문의 자격을 갖춘 두 명의 합의로 삼았다."
-              },
-              {
-                "t": "p",
-                "x": "GPT-OSS-120B와 Qwen3-235B-A22B-Instruct-2507은 각각 94%의 프로토콜 정확도를 기록했다. MedGemma-27B-Text-IT는 79%였고, Gemma-3-27B-IT가 58%로 가장 낮았다. 부적절한 선택은 GPT-OSS 5.8%, Qwen3 5.9%였던 반면 MedGemma는 24.7%, Gemma3는 68.3%에 달했다."
-              },
-              {
-                "t": "p",
-                "x": "가장 흔한 오류는 해부학적으로는 맞지만 임상적으로는 최적이 아닌 프로토콜을 고른 경우였다. 저자들은 출력의 편차와 부적절한 선택의 빈도가 임상적 감독 없이 자동 추천에 기대는 위험을 드러낸다고 경고했다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "LLMs、MRIプロトコル\n選択で放射線科医と同等",
-          "body": "新たな分析で、大規模言語モデルはMRIプロトコル選択で放射線科医と同等の性能を示した。",
-          "mini_headline": "LLMs、MRIで放射線科医並み",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2023-04/microsoftteams-image_22.png?h=56757225&itok=o575y87t"
-              },
-              {
-                "t": "p",
-                "x": "新たな分析によると、大規模言語モデルは患者に最適なMRIプロトコルを選ぶ点で放射線科医と同等の性能を発揮しうる。通常は手作業で行われるMRIプロトコル選択を、一部のモデルが標準化する助けになる可能性が示された。"
-              },
-              {
-                "t": "p",
-                "x": "University Hospital BonnのDr. Zeynep Bendella率いる研究チームは、連続した1,200件のMRI依頼票を用いて四つのオープンウェイトLLMsを評価した。基準には専門医資格を持つ二人の放射線科医の合意を用いた。"
-              },
-              {
-                "t": "p",
-                "x": "GPT-OSS-120BとQwen3-235B-A22B-Instruct-2507はいずれもプロトコル正解率94%を記録した。MedGemma-27B-Text-ITは79%、Gemma-3-27B-ITは58%で最も低かった。不適切な選択はGPT-OSSが5.8%、Qwen3が5.9%だったのに対し、MedGemmaは24.7%、Gemma3は68.3%だった。"
-              },
-              {
-                "t": "p",
-                "x": "最も多い誤りは、解剖学的には適切だが臨床的には最適でないプロトコルを選ぶものだった。著者らは、出力のばらつきと不適切な選択の頻度が、臨床的な監督なしに自動推奨へ頼るリスクを浮き彫りにしていると警告した。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "LLMs选择MRI方案\n比肩放射科医生",
-          "body": "新分析显示，大语言模型在选择合适MRI方案上与放射科医生表现相当。",
-          "mini_headline": "LLMs在MRI上比肩放射科医生",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2023-04/microsoftteams-image_22.png?h=56757225&itok=o575y87t"
-              },
-              {
-                "t": "p",
-                "x": "一项新分析显示，在为患者选择最合适的MRI扫描方案时，大语言模型的表现可与放射科医生相当。研究结果表明，某些模型有助于将通常依赖人工完成的MRI方案选择标准化。"
-              },
-              {
-                "t": "p",
-                "x": "由University Hospital Bonn的Dr. Zeynep Bendella领导的研究团队，使用1,200份连续的MRI申请单评估了四款开放权重LLMs，并以两位委员会认证放射科医生的共识作为参考标准。"
-              },
-              {
-                "t": "p",
-                "x": "GPT-OSS-120B和Qwen3-235B-A22B-Instruct-2507的方案准确率均为94%。MedGemma-27B-Text-IT为79%，Gemma-3-27B-IT表现最差，仅为58%。不可接受的选择比例方面，GPT-OSS为5.8%，Qwen3为5.9%，而MedGemma为24.7%，Gemma3为68.3%。"
-              },
-              {
-                "t": "p",
-                "x": "最常见的错误是选择了解剖上合适但临床上并非最优的方案。作者提醒，输出结果的差异以及不可接受选择的频率，凸显了在缺乏临床监督的情况下依赖自动推荐的风险。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Los LLMs igualan a radiólogos\nal elegir protocolos de MRI",
-          "body": "Un nuevo análisis halla que los grandes modelos de lenguaje igualan a los radiólogos al elegir el protocolo de MRI.",
-          "mini_headline": "Los LLMs igualan a radiólogos en MRI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2023-04/microsoftteams-image_22.png?h=56757225&itok=o575y87t"
-              },
-              {
-                "t": "p",
-                "x": "Los grandes modelos de lenguaje pueden rendir al nivel de los radiólogos a la hora de seleccionar los protocolos de MRI más adecuados para los pacientes, según un nuevo análisis. Los resultados sugieren que ciertos modelos podrían ayudar a estandarizar la selección de protocolos de MRI, que normalmente se hace de forma manual."
-              },
-              {
-                "t": "p",
-                "x": "Investigadores dirigidos por la Dr. Zeynep Bendella, del University Hospital Bonn, evaluaron cuatro LLMs de pesos abiertos con 1,200 formularios consecutivos de solicitud de MRI, usando como estándar de referencia el consenso de dos radiólogos certificados."
-              },
-              {
-                "t": "p",
-                "x": "GPT-OSS-120B y Qwen3-235B-A22B-Instruct-2507 alcanzaron cada uno un 94% de precisión en el protocolo. MedGemma-27B-Text-IT logró un 79%, y Gemma-3-27B-IT tuvo el peor rendimiento, con un 58%. Las selecciones inaceptables fueron del 5.8% para GPT-OSS y del 5.9% para Qwen3, frente al 24.7% de MedGemma y el 68.3% de Gemma3."
-              },
-              {
-                "t": "p",
-                "x": "El error más común fue elegir un protocolo anatómicamente apropiado pero clínicamente subóptimo. Los autores advirtieron que la variación en los resultados y la frecuencia de selecciones inaceptables ponen de relieve los riesgos de confiar en recomendaciones automatizadas sin supervisión clínica."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "thyroid-eye-radiomics-radiotherapy",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "MRI로 갑상선안병증\n방사선치료 반응 예측",
-      "body": "다중 시퀀스 MRI 라디오믹스 모델로 갑상선안병증 방사선치료 반응을 미리 가늠한다.",
-      "mini_headline": "MRI로 안와 방사선치료 반응 예측",
-      "tool": "Medicine",
-      "source": "Communications Medicine",
-      "url": "https://www.nature.com/articles/s43856-026-01991-y",
+      "source": "NEJM AI",
+      "url": "https://ai.nejm.org/doi/full/10.1056/AIoa2600112",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "p",
+            "x": "항핵항체(ANA) 검사 양성자 가운데 누구를 류마티스 진료로 의뢰할지 정하는 근거 기반 지침은 없다. 연구진은 해석 가능한 임상 예측 모델 AURA(AUtoimmune Risk Assessment)를 개발해 배치했다. 새로 ANA 양성 판정을 받은 사람 중 누가 전신 자가면역질환으로 진행할지 예측하는 모델로, 2년간 무작위 실용 연구로 평가했다."
+          },
+          {
             "t": "img",
-            "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-01991-y/MediaObjects/43856_2026_1991_Figa_HTML.png"
+            "src": "https://ai.nejm.org/cms/asset/fee9f883-230a-4ffb-a1e4-37ec9187c4b8/aioa2600112_f1.jpg"
           },
           {
             "t": "p",
-            "x": "방사선치료는 활동성 중등도~중증 갑상선안병증(TED)의 핵심 치료지만 환자마다 반응이 다르고, 임상 활동성 점수(CAS)로는 반응을 내다보기 어렵다. 저자들은 임상 데이터와 기존 영상, MRI 라디오믹스 특징을 묶어 방사선치료 반응을 예측하는 다중 시퀀스 모델을 만들었다."
+            "x": "모델은 한 학술 의료 시스템의 전자건강기록에 들어갔다. ANA-positive(ANA 양성) 대상자는 1:1로 무작위 배정했다. 중재군에서는 고위험 점수가 나온 사람에게 류마티스 진료를 서둘러 받도록 권했고 대조군에서는 위험 점수를 계산만 하고 따로 조치하지 않았다."
           },
           {
             "t": "p",
-            "x": "연구진은 표준 방사선치료(20 Gy)를 받은 TED 환자 85명을 후향적으로 모았다. T1CE와 T2WI MRI의 외안근에서 라디오믹스 특징을 뽑아 머신러닝 알고리즘 아홉 가지로 모델을 만들었다."
+            "x": "무작위 배정된 2385명 가운데 분석 대상은 중재군 954명, 대조군 1006명이었다. 중재군은 자가면역질환 진단까지 걸린 시간이 유의하게 짧았다(위험비 1.9; 95% CI, 1.3~2.7; P<0.001). 진단까지 걸린 기간의 중앙값은 43일 대 138일이었다."
           },
           {
             "t": "p",
-            "x": "85명 가운데 46명이 반응군, 39명이 비반응군이었다. 임상 모델은 성능이 떨어졌지만(AUC = 0.700) T1CE, T2WI, 다중 시퀀스 라디오믹스는 각각 AUCs 0.850, 0.875, 0.933을 기록했다. AUC가 가장 높은 쪽은 통합 모델(0.942)로, 임상 모델보다 유의하게 나았다(P = 0.040)."
-          },
-          {
-            "t": "p",
-            "x": "모델은 환자별 치료 결정을 돕고 효과 없는 방사선치료를 줄여 갑상선안병증 맞춤 관리를 앞당긴다. 전향적 검증을 거치면 개인별 위험 층화에도 쓸 수 있다."
+            "x": "6개월 안에 류마티스 진료를 받은 사람 가운데 자가면역질환 진단을 받은 비율은 중재군 23%, 대조군 16%였다(P=0.07)."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "MRI radiomics forecasts\nthyroid eye radiotherapy",
-          "body": "A multi-sequence MRI radiomics model predicts which thyroid eye disease patients will respond to orbital radiotherapy.",
-          "mini_headline": "MRI predicts eye radiotherapy response",
+          "headline": "Randomized trial puts AI\non rheumatology referrals",
+          "body": "An interpretable model, AURA, was deployed in a randomized evaluation to triage positive ANA tests for referral.",
+          "mini_headline": "AI triage for ANA referrals",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "No evidence-based guidance exists for triaging individuals with positive antinuclear antibody (ANA) tests for rheumatology referral. The researchers developed and deployed an interpretable clinical prediction model, AURA (AUtoimmune Risk Assessment), to predict which individuals with incident positive ANA tests will develop systemic autoimmune disease, and evaluated it in a 2-year randomized pragmatic study."
+              },
+              {
                 "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-01991-y/MediaObjects/43856_2026_1991_Figa_HTML.png"
+                "src": "https://ai.nejm.org/cms/asset/fee9f883-230a-4ffb-a1e4-37ec9187c4b8/aioa2600112_f1.jpg"
               },
               {
                 "t": "p",
-                "x": "Radiotherapy is a pivotal treatment for active, moderate-to-severe thyroid eye disease (TED), but responses vary, and the clinical activity score (CAS) has limited predictive value. The authors built a multi-sequence model integrating clinical data, conventional imaging and MRI radiomic features to predict radiotherapy response."
+                "x": "The model was integrated into the electronic health record at a single academic health system. ANA-positive individuals were randomly assigned 1:1; in the intervention group, those with high-risk scores were invited for expedited rheumatology evaluation, while in the control group risk scores were calculated but not acted on."
               },
               {
                 "t": "p",
-                "x": "85 TED subjects treated with standardized radiotherapy (20 Gy) were retrospectively enrolled. Radiomic features from extraocular muscles on T1CE and T2WI MRI were used to develop models with nine machine learning algorithms."
+                "x": "Of 2385 randomly assigned individuals, 954 were analyzed in the intervention group and 1006 in the control group. The intervention group had a significantly shorter time to autoimmune disease diagnosis (hazard ratio, 1.9; 95% CI, 1.3 to 2.7; P<0.001); median time to diagnosis was 43 days versus 138 days."
               },
               {
                 "t": "p",
-                "x": "Among 85 patients, 46 were responders and 39 non-responders. Clinical models showed limited performance (AUC = 0.700), whereas T1CE, T2WI and multi-sequence radiomics reached AUCs of 0.850, 0.875 and 0.933. The integrated model achieved the highest AUC (0.942) and significantly outperformed the clinical model (P = 0.040)."
-              },
-              {
-                "t": "p",
-                "x": "The model helps guide individualized decision-making, reduce ineffective radiotherapy, and advance personalized management for thyroid eye disease, supporting individualized risk stratification after prospective validation."
+                "x": "Among those evaluated by rheumatology within 6 months, 23% in the intervention group and 16% in the control group were diagnosed with an autoimmune disease (P=0.07)."
               }
             ]
           }
         },
         "ko": {
-          "headline": "MRI로 갑상선안병증\n방사선치료 반응 예측",
-          "body": "다중 시퀀스 MRI 라디오믹스 모델로 갑상선안병증 방사선치료 반응을 미리 가늠한다.",
-          "mini_headline": "MRI로 안와 방사선치료 반응 예측",
+          "headline": "류마티스 의뢰에 AI,\n무작위 시험으로 검증",
+          "body": "해석 가능한 모델 AURA가 무작위 평가에서 ANA 양성자 중 의뢰 대상을 골랐다.",
+          "mini_headline": "ANA 의뢰, AI가 분류",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "항핵항체(ANA) 검사 양성자 가운데 누구를 류마티스 진료로 의뢰할지 정하는 근거 기반 지침은 없다. 연구진은 해석 가능한 임상 예측 모델 AURA(AUtoimmune Risk Assessment)를 개발해 배치했다. 새로 ANA 양성 판정을 받은 사람 중 누가 전신 자가면역질환으로 진행할지 예측하는 모델로, 2년간 무작위 실용 연구로 평가했다."
+              },
+              {
                 "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-01991-y/MediaObjects/43856_2026_1991_Figa_HTML.png"
+                "src": "https://ai.nejm.org/cms/asset/fee9f883-230a-4ffb-a1e4-37ec9187c4b8/aioa2600112_f1.jpg"
               },
               {
                 "t": "p",
-                "x": "방사선치료는 활동성 중등도~중증 갑상선안병증(TED)의 핵심 치료지만 환자마다 반응이 다르고, 임상 활동성 점수(CAS)로는 반응을 내다보기 어렵다. 저자들은 임상 데이터와 기존 영상, MRI 라디오믹스 특징을 묶어 방사선치료 반응을 예측하는 다중 시퀀스 모델을 만들었다."
+                "x": "모델은 한 학술 의료 시스템의 전자건강기록에 들어갔다. ANA-positive(ANA 양성) 대상자는 1:1로 무작위 배정했다. 중재군에서는 고위험 점수가 나온 사람에게 류마티스 진료를 서둘러 받도록 권했고 대조군에서는 위험 점수를 계산만 하고 따로 조치하지 않았다."
               },
               {
                 "t": "p",
-                "x": "연구진은 표준 방사선치료(20 Gy)를 받은 TED 환자 85명을 후향적으로 모았다. T1CE와 T2WI MRI의 외안근에서 라디오믹스 특징을 뽑아 머신러닝 알고리즘 아홉 가지로 모델을 만들었다."
+                "x": "무작위 배정된 2385명 가운데 분석 대상은 중재군 954명, 대조군 1006명이었다. 중재군은 자가면역질환 진단까지 걸린 시간이 유의하게 짧았다(위험비 1.9; 95% CI, 1.3~2.7; P<0.001). 진단까지 걸린 기간의 중앙값은 43일 대 138일이었다."
               },
               {
                 "t": "p",
-                "x": "85명 가운데 46명이 반응군, 39명이 비반응군이었다. 임상 모델은 성능이 떨어졌지만(AUC = 0.700) T1CE, T2WI, 다중 시퀀스 라디오믹스는 각각 AUCs 0.850, 0.875, 0.933을 기록했다. AUC가 가장 높은 쪽은 통합 모델(0.942)로, 임상 모델보다 유의하게 나았다(P = 0.040)."
-              },
-              {
-                "t": "p",
-                "x": "모델은 환자별 치료 결정을 돕고 효과 없는 방사선치료를 줄여 갑상선안병증 맞춤 관리를 앞당긴다. 전향적 검증을 거치면 개인별 위험 층화에도 쓸 수 있다."
+                "x": "6개월 안에 류마티스 진료를 받은 사람 가운데 자가면역질환 진단을 받은 비율은 중재군 23%, 대조군 16%였다(P=0.07)."
               }
             ]
           }
         },
         "ja": {
-          "headline": "MRIラジオミクスで\n甲状腺眼症の照射効果を予測",
-          "body": "マルチシーケンスMRIラジオミクスモデルが甲状腺眼症の眼窩放射線治療への反応を予測する。",
-          "mini_headline": "MRIで眼の放射線治療効果を予測",
+          "headline": "リウマチ紹介にAI\n無作為化試験で検証",
+          "body": "解釈可能なモデルAURAを無作為化評価で導入し、ANA陽性者の紹介を選別した。",
+          "mini_headline": "ANA紹介をAIで選別",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "抗核抗体（ANA）検査陽性者をリウマチ科紹介に向けてトリアージするための、エビデンスに基づく指針は存在しない。研究者らは、新たにANA陽性となった人のうち誰が全身性自己免疫疾患を発症するかを予測する解釈可能な臨床予測モデルAURA（AUtoimmune Risk Assessment）を開発・導入し、2年間の無作為化実用研究で評価した。"
+              },
+              {
                 "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-01991-y/MediaObjects/43856_2026_1991_Figa_HTML.png"
+                "src": "https://ai.nejm.org/cms/asset/fee9f883-230a-4ffb-a1e4-37ec9187c4b8/aioa2600112_f1.jpg"
               },
               {
                 "t": "p",
-                "x": "放射線治療は活動性の中等症から重症の甲状腺眼症(TED)に対する重要な治療だが、反応にはばらつきがあり、臨床活動性スコア(CAS)の予測力は限られる。著者らは臨床データ、従来の画像、MRIラジオミクス特徴を統合し、放射線治療への反応を予測するマルチシーケンスモデルを構築した。"
+                "x": "モデルは単一の大学医療システムの電子カルテに組み込まれた。ANA-positive（ANA陽性）の対象者は1:1で無作為に割り付けられた。介入群では高リスクスコアの人に迅速なリウマチ科受診が案内され、対照群ではリスクスコアは算出されたものの対応はとられなかった。"
               },
               {
                 "t": "p",
-                "x": "標準化された放射線治療(20 Gy)を受けたTED患者85人を後ろ向きに登録した。T1CEとT2WIのMRIで外眼筋から得たラジオミクス特徴を用い、九つの機械学習アルゴリズムでモデルを開発した。"
+                "x": "無作為に割り付けられた2385人のうち、介入群954人、対照群1006人が解析された。介入群では自己免疫疾患の診断までの期間が有意に短かった（ハザード比1.9、95% CI 1.3〜2.7、P<0.001）。診断までの期間の中央値は43日対138日だった。"
               },
               {
                 "t": "p",
-                "x": "85人のうち46人が反応例、39人が非反応例だった。臨床モデルの性能は限定的だった(AUC = 0.700)が、T1CE、T2WI、マルチシーケンスのラジオミクスはそれぞれAUCs 0.850、0.875、0.933に達した。統合モデルは最も高いAUC(0.942)を示し、臨床モデルを有意に上回った(P = 0.040)。"
-              },
-              {
-                "t": "p",
-                "x": "このモデルは個別の意思決定を支え、効果のない放射線治療を減らし、甲状腺眼症の個別化管理を前進させる。前向き検証を経れば、個別のリスク層別化も支えうる。"
+                "x": "6か月以内にリウマチ科で評価を受けた人のうち、自己免疫疾患と診断されたのは介入群で23%、対照群で16%だった（P=0.07）。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "MRI影像组学\n预测甲状腺眼病放疗反应",
-          "body": "多序列MRI影像组学模型可预测哪些甲状腺眼病患者对眼眶放疗有反应。",
-          "mini_headline": "MRI预测眼病放疗反应",
+          "headline": "随机试验检验\nAI风湿科转诊分诊",
+          "body": "可解释模型AURA在随机评估中部署，用于对ANA阳性检测进行转诊分诊。",
+          "mini_headline": "AI分诊ANA转诊",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "目前尚无基于证据的指南，用于对抗核抗体（ANA）检测阳性者进行风湿科转诊分诊。研究人员开发并部署了一个可解释的临床预测模型AURA（AUtoimmune Risk Assessment），用于预测新发ANA阳性者中哪些人会发展为系统性自身免疫病，并在一项为期2年的随机实用性研究中对其进行了评估。"
+              },
+              {
                 "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-01991-y/MediaObjects/43856_2026_1991_Figa_HTML.png"
+                "src": "https://ai.nejm.org/cms/asset/fee9f883-230a-4ffb-a1e4-37ec9187c4b8/aioa2600112_f1.jpg"
               },
               {
                 "t": "p",
-                "x": "放疗是活动期中重度甲状腺眼病(TED)的关键治疗手段，但疗效因人而异，临床活动评分(CAS)的预测价值有限。作者整合临床数据、常规影像和MRI影像组学特征，构建了预测放疗反应的多序列模型。"
+                "x": "该模型被整合进单一学术医疗系统的电子健康记录。ANA-positive（ANA阳性）个体按1:1随机分组；干预组中高风险评分者被邀请接受加急风湿科评估，对照组则只计算风险评分而不采取行动。"
               },
               {
                 "t": "p",
-                "x": "研究回顾性纳入85名接受标准化放疗(20 Gy)的TED患者，利用T1CE和T2WI MRI上眼外肌的影像组学特征，结合九种机器学习算法开发模型。"
+                "x": "在2385名随机分组者中，干预组分析了954人，对照组分析了1006人。干预组确诊自身免疫病的时间显著更短（风险比1.9；95% CI，1.3至2.7；P<0.001）；确诊时间中位数为43天对138天。"
               },
               {
                 "t": "p",
-                "x": "85名患者中，46名为应答者，39名为无应答者。临床模型表现有限(AUC = 0.700)，而T1CE、T2WI和多序列影像组学的AUCs分别达到0.850、0.875和0.933。整合模型的AUC最高(0.942)，显著优于临床模型(P = 0.040)。"
-              },
-              {
-                "t": "p",
-                "x": "该模型有助于指导个体化决策、减少无效放疗，并推动甲状腺眼病的个性化管理；经前瞻性验证后，还可支持个体化风险分层。"
+                "x": "在6个月内接受风湿科评估的人中，干预组有23%、对照组有16%被诊断为自身免疫病（P=0.07）。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Radiómica por MRI predice quién\nresponde a radioterapia ocular",
-          "body": "Un modelo radiómico de MRI multisecuencia predice qué pacientes con orbitopatía tiroidea responden a la radioterapia.",
-          "mini_headline": "La MRI predice la respuesta a radioterapia ocular",
+          "headline": "Ensayo aleatorizado pone la AI\nen derivaciones reumatológicas",
+          "body": "El modelo interpretable AURA se desplegó en un ensayo aleatorizado para priorizar derivaciones por ANA positivo.",
+          "mini_headline": "AI para derivaciones por ANA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "No existen recomendaciones basadas en la evidencia para priorizar la derivación a reumatología de las personas con pruebas de anticuerpos antinucleares (ANA) positivas. Los investigadores desarrollaron e implementaron un modelo de predicción clínica interpretable, AURA (AUtoimmune Risk Assessment), para predecir qué personas con un ANA positivo de nueva aparición desarrollarán una enfermedad autoinmune sistémica, y lo evaluaron en un estudio pragmático aleatorizado de 2 años."
+              },
+              {
                 "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-01991-y/MediaObjects/43856_2026_1991_Figa_HTML.png"
+                "src": "https://ai.nejm.org/cms/asset/fee9f883-230a-4ffb-a1e4-37ec9187c4b8/aioa2600112_f1.jpg"
               },
               {
                 "t": "p",
-                "x": "La radioterapia es un tratamiento clave para la enfermedad ocular tiroidea (TED) activa de moderada a grave, pero la respuesta varía y la puntuación de actividad clínica (CAS) tiene un valor predictivo limitado. Los autores construyeron un modelo multisecuencia que integra datos clínicos, imagen convencional y características radiómicas de MRI para predecir la respuesta a la radioterapia."
+                "x": "El modelo se integró en la historia clínica electrónica de un único sistema de salud académico. Las personas ANA-positive se asignaron aleatoriamente 1:1; en el grupo de intervención, a quienes tenían puntuaciones de alto riesgo se les invitó a una evaluación reumatológica acelerada, mientras que en el grupo de control las puntuaciones de riesgo se calcularon pero no se actuó sobre ellas."
               },
               {
                 "t": "p",
-                "x": "Se incluyeron de forma retrospectiva 85 sujetos con TED tratados con radioterapia estandarizada (20 Gy). Con características radiómicas de los músculos extraoculares en MRI T1CE y T2WI se desarrollaron modelos mediante nueve algoritmos de aprendizaje automático."
+                "x": "De 2385 personas asignadas aleatoriamente, se analizaron 954 en el grupo de intervención y 1006 en el grupo de control. El grupo de intervención tuvo un tiempo hasta el diagnóstico de enfermedad autoinmune significativamente menor (cociente de riesgos, 1.9; 95% CI, 1.3 a 2.7; P<0.001); la mediana hasta el diagnóstico fue de 43 días frente a 138 días."
               },
               {
                 "t": "p",
-                "x": "De los 85 pacientes, 46 respondieron y 39 no respondieron. Los modelos clínicos mostraron un rendimiento limitado (AUC = 0.700), mientras que la radiómica de T1CE, T2WI y multisecuencia alcanzó AUCs de 0.850, 0.875 y 0.933. El modelo integrado obtuvo el AUC más alto (0.942) y superó de forma significativa al modelo clínico (P = 0.040)."
-              },
-              {
-                "t": "p",
-                "x": "El modelo ayuda a orientar decisiones individualizadas, reducir radioterapias ineficaces y avanzar en el manejo personalizado de la enfermedad ocular tiroidea, y respalda la estratificación individualizada del riesgo tras una validación prospectiva."
+                "x": "Entre quienes fueron evaluados por reumatología en un plazo de 6 meses, el 23% del grupo de intervención y el 16% del grupo de control recibieron un diagnóstico de enfermedad autoinmune (P=0.07)."
               }
             ]
           }
@@ -1209,121 +737,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "MRI로 갑상선안병증\n방사선치료 반응 예측",
-          "body": "다중 시퀀스 MRI 라디오믹스 모델이 갑상선안병증 방사선치료 반응을 예측한다.",
-          "mini_headline": "MRI로 안와 방사선치료 반응 예측",
+          "headline": "류마티스 의뢰에 AI,\n무작위 시험으로 검증",
+          "body": "해석 가능한 모델 AURA가 무작위 평가에서 ANA 양성자 의뢰를 선별했다.",
+          "mini_headline": "ANA 의뢰, AI가 분류",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "항핵항체(ANA) 검사 양성자를 류마티스 진료로 의뢰할지 분류하는 근거 기반 지침은 없다. 연구진은 새로 ANA 양성 판정을 받은 사람 중 누가 전신 자가면역질환으로 진행할지 예측하는 해석 가능한 임상 예측 모델 AURA(AUtoimmune Risk Assessment)를 개발·배치했고, 2년간의 무작위 실용 연구로 이를 평가했다."
+              },
+              {
                 "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-01991-y/MediaObjects/43856_2026_1991_Figa_HTML.png"
+                "src": "https://ai.nejm.org/cms/asset/fee9f883-230a-4ffb-a1e4-37ec9187c4b8/aioa2600112_f1.jpg"
               },
               {
                 "t": "p",
-                "x": "방사선치료는 활동성 중등도~중증 갑상선안병증(TED)의 핵심 치료지만 반응이 제각각이고, 임상 활동성 점수(CAS)의 예측력은 제한적이다. 저자들은 임상 데이터, 기존 영상, MRI 라디오믹스 특징을 통합해 방사선치료 반응을 예측하는 다중 시퀀스 모델을 만들었다."
+                "x": "모델은 한 학술 의료 시스템의 전자건강기록에 통합됐다. ANA-positive(ANA 양성) 대상자는 1:1로 무작위 배정됐다. 중재군에서는 고위험 점수를 받은 사람에게 신속한 류마티스 진료를 권했고, 대조군에서는 위험 점수를 계산만 하고 조치하지 않았다."
               },
               {
                 "t": "p",
-                "x": "표준화된 방사선치료(20 Gy)를 받은 TED 환자 85명을 후향적으로 등록했다. T1CE와 T2WI MRI의 외안근에서 얻은 라디오믹스 특징으로 아홉 가지 머신러닝 알고리즘을 써 모델을 개발했다."
+                "x": "무작위 배정된 2385명 가운데 중재군 954명, 대조군 1006명이 분석에 포함됐다. 중재군은 자가면역질환 진단까지 걸린 시간이 유의하게 짧았다(위험비 1.9; 95% CI, 1.3~2.7; P<0.001). 진단까지 걸린 시간의 중앙값은 43일 대 138일이었다."
               },
               {
                 "t": "p",
-                "x": "85명 중 46명이 반응군, 39명이 비반응군이었다. 임상 모델의 성능은 제한적이었지만(AUC = 0.700), T1CE, T2WI, 다중 시퀀스 라디오믹스는 각각 AUCs 0.850, 0.875, 0.933에 이르렀다. 통합 모델이 가장 높은 AUC(0.942)를 기록했고 임상 모델보다 유의하게 우수했다(P = 0.040)."
-              },
-              {
-                "t": "p",
-                "x": "이 모델은 개인별 의사결정을 돕고, 효과 없는 방사선치료를 줄이며, 갑상선안병증의 맞춤형 관리를 앞당긴다. 전향적 검증을 거치면 개인별 위험 층화도 뒷받침할 수 있다."
+                "x": "6개월 안에 류마티스 진료를 받은 사람 중 자가면역질환 진단을 받은 비율은 중재군 23%, 대조군 16%였다(P=0.07)."
               }
             ]
           }
         },
         "ja": {
-          "headline": "MRIラジオミクスで\n甲状腺眼症の照射効果を予測",
-          "body": "マルチシーケンスMRIラジオミクスモデルが甲状腺眼症の眼窩放射線治療への反応を予測する。",
-          "mini_headline": "MRIで眼の放射線治療効果を予測",
+          "headline": "リウマチ紹介にAI\n無作為化試験で検証",
+          "body": "解釈可能なモデルAURAを無作為化評価で導入し、ANA陽性者の紹介を選別した。",
+          "mini_headline": "ANA紹介をAIで選別",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "抗核抗体（ANA）検査陽性者をリウマチ科紹介に向けてトリアージするための、エビデンスに基づく指針は存在しない。研究者らは、新たにANA陽性となった人のうち誰が全身性自己免疫疾患を発症するかを予測する解釈可能な臨床予測モデルAURA（AUtoimmune Risk Assessment）を開発・導入し、2年間の無作為化実用研究で評価した。"
+              },
+              {
                 "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-01991-y/MediaObjects/43856_2026_1991_Figa_HTML.png"
+                "src": "https://ai.nejm.org/cms/asset/fee9f883-230a-4ffb-a1e4-37ec9187c4b8/aioa2600112_f1.jpg"
               },
               {
                 "t": "p",
-                "x": "放射線治療は活動性の中等症から重症の甲状腺眼症(TED)に対する重要な治療だが、反応にはばらつきがあり、臨床活動性スコア(CAS)の予測力は限られる。著者らは臨床データ、従来の画像、MRIラジオミクス特徴を統合し、放射線治療への反応を予測するマルチシーケンスモデルを構築した。"
+                "x": "モデルは単一の大学医療システムの電子カルテに組み込まれた。ANA-positive（ANA陽性）の対象者は1:1で無作為に割り付けられた。介入群では高リスクスコアの人に迅速なリウマチ科受診が案内され、対照群ではリスクスコアは算出されたものの対応はとられなかった。"
               },
               {
                 "t": "p",
-                "x": "標準化された放射線治療(20 Gy)を受けたTED患者85人を後ろ向きに登録した。T1CEとT2WIのMRIで外眼筋から得たラジオミクス特徴を用い、九つの機械学習アルゴリズムでモデルを開発した。"
+                "x": "無作為に割り付けられた2385人のうち、介入群954人、対照群1006人が解析された。介入群では自己免疫疾患の診断までの期間が有意に短かった（ハザード比1.9、95% CI 1.3〜2.7、P<0.001）。診断までの期間の中央値は43日対138日だった。"
               },
               {
                 "t": "p",
-                "x": "85人のうち46人が反応例、39人が非反応例だった。臨床モデルの性能は限定的だった(AUC = 0.700)が、T1CE、T2WI、マルチシーケンスのラジオミクスはそれぞれAUCs 0.850、0.875、0.933に達した。統合モデルは最も高いAUC(0.942)を示し、臨床モデルを有意に上回った(P = 0.040)。"
-              },
-              {
-                "t": "p",
-                "x": "このモデルは個別の意思決定を支え、効果のない放射線治療を減らし、甲状腺眼症の個別化管理を前進させる。前向き検証を経れば、個別のリスク層別化も支えうる。"
+                "x": "6か月以内にリウマチ科で評価を受けた人のうち、自己免疫疾患と診断されたのは介入群で23%、対照群で16%だった（P=0.07）。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "MRI影像组学\n预测甲状腺眼病放疗反应",
-          "body": "多序列MRI影像组学模型可预测哪些甲状腺眼病患者对眼眶放疗有反应。",
-          "mini_headline": "MRI预测眼病放疗反应",
+          "headline": "随机试验检验\nAI风湿科转诊分诊",
+          "body": "可解释模型AURA在随机评估中部署，用于对ANA阳性检测进行转诊分诊。",
+          "mini_headline": "AI分诊ANA转诊",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "目前尚无基于证据的指南，用于对抗核抗体（ANA）检测阳性者进行风湿科转诊分诊。研究人员开发并部署了一个可解释的临床预测模型AURA（AUtoimmune Risk Assessment），用于预测新发ANA阳性者中哪些人会发展为系统性自身免疫病，并在一项为期2年的随机实用性研究中对其进行了评估。"
+              },
+              {
                 "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-01991-y/MediaObjects/43856_2026_1991_Figa_HTML.png"
+                "src": "https://ai.nejm.org/cms/asset/fee9f883-230a-4ffb-a1e4-37ec9187c4b8/aioa2600112_f1.jpg"
               },
               {
                 "t": "p",
-                "x": "放疗是活动期中重度甲状腺眼病(TED)的关键治疗手段，但疗效因人而异，临床活动评分(CAS)的预测价值有限。作者整合临床数据、常规影像和MRI影像组学特征，构建了预测放疗反应的多序列模型。"
+                "x": "该模型被整合进单一学术医疗系统的电子健康记录。ANA-positive（ANA阳性）个体按1:1随机分组；干预组中高风险评分者被邀请接受加急风湿科评估，对照组则只计算风险评分而不采取行动。"
               },
               {
                 "t": "p",
-                "x": "研究回顾性纳入85名接受标准化放疗(20 Gy)的TED患者，利用T1CE和T2WI MRI上眼外肌的影像组学特征，结合九种机器学习算法开发模型。"
+                "x": "在2385名随机分组者中，干预组分析了954人，对照组分析了1006人。干预组确诊自身免疫病的时间显著更短（风险比1.9；95% CI，1.3至2.7；P<0.001）；确诊时间中位数为43天对138天。"
               },
               {
                 "t": "p",
-                "x": "85名患者中，46名为应答者，39名为无应答者。临床模型表现有限(AUC = 0.700)，而T1CE、T2WI和多序列影像组学的AUCs分别达到0.850、0.875和0.933。整合模型的AUC最高(0.942)，显著优于临床模型(P = 0.040)。"
-              },
-              {
-                "t": "p",
-                "x": "该模型有助于指导个体化决策、减少无效放疗，并推动甲状腺眼病的个性化管理；经前瞻性验证后，还可支持个体化风险分层。"
+                "x": "在6个月内接受风湿科评估的人中，干预组有23%、对照组有16%被诊断为自身免疫病（P=0.07）。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Radiómica por MRI predice quién\nresponde a radioterapia ocular",
-          "body": "Un modelo radiómico de MRI multisecuencia predice qué pacientes con orbitopatía tiroidea responden a la radioterapia.",
-          "mini_headline": "La MRI predice la respuesta a radioterapia ocular",
+          "headline": "Ensayo aleatorizado pone la AI\nen derivaciones reumatológicas",
+          "body": "El modelo interpretable AURA se desplegó en un ensayo aleatorizado para priorizar derivaciones por ANA positivo.",
+          "mini_headline": "AI para derivaciones por ANA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "No existen recomendaciones basadas en la evidencia para priorizar la derivación a reumatología de las personas con pruebas de anticuerpos antinucleares (ANA) positivas. Los investigadores desarrollaron e implementaron un modelo de predicción clínica interpretable, AURA (AUtoimmune Risk Assessment), para predecir qué personas con un ANA positivo de nueva aparición desarrollarán una enfermedad autoinmune sistémica, y lo evaluaron en un estudio pragmático aleatorizado de 2 años."
+              },
+              {
                 "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-01991-y/MediaObjects/43856_2026_1991_Figa_HTML.png"
+                "src": "https://ai.nejm.org/cms/asset/fee9f883-230a-4ffb-a1e4-37ec9187c4b8/aioa2600112_f1.jpg"
               },
               {
                 "t": "p",
-                "x": "La radioterapia es un tratamiento clave para la enfermedad ocular tiroidea (TED) activa de moderada a grave, pero la respuesta varía y la puntuación de actividad clínica (CAS) tiene un valor predictivo limitado. Los autores construyeron un modelo multisecuencia que integra datos clínicos, imagen convencional y características radiómicas de MRI para predecir la respuesta a la radioterapia."
+                "x": "El modelo se integró en la historia clínica electrónica de un único sistema de salud académico. Las personas ANA-positive se asignaron aleatoriamente 1:1; en el grupo de intervención, a quienes tenían puntuaciones de alto riesgo se les invitó a una evaluación reumatológica acelerada, mientras que en el grupo de control las puntuaciones de riesgo se calcularon pero no se actuó sobre ellas."
               },
               {
                 "t": "p",
-                "x": "Se incluyeron de forma retrospectiva 85 sujetos con TED tratados con radioterapia estandarizada (20 Gy). Con características radiómicas de los músculos extraoculares en MRI T1CE y T2WI se desarrollaron modelos mediante nueve algoritmos de aprendizaje automático."
+                "x": "De 2385 personas asignadas aleatoriamente, se analizaron 954 en el grupo de intervención y 1006 en el grupo de control. El grupo de intervención tuvo un tiempo hasta el diagnóstico de enfermedad autoinmune significativamente menor (cociente de riesgos, 1.9; 95% CI, 1.3 a 2.7; P<0.001); la mediana hasta el diagnóstico fue de 43 días frente a 138 días."
               },
               {
                 "t": "p",
-                "x": "De los 85 pacientes, 46 respondieron y 39 no respondieron. Los modelos clínicos mostraron un rendimiento limitado (AUC = 0.700), mientras que la radiómica de T1CE, T2WI y multisecuencia alcanzó AUCs de 0.850, 0.875 y 0.933. El modelo integrado obtuvo el AUC más alto (0.942) y superó de forma significativa al modelo clínico (P = 0.040)."
-              },
-              {
-                "t": "p",
-                "x": "El modelo ayuda a orientar decisiones individualizadas, reducir radioterapias ineficaces y avanzar en el manejo personalizado de la enfermedad ocular tiroidea, y respalda la estratificación individualizada del riesgo tras una validación prospectiva."
+                "x": "Entre quienes fueron evaluados por reumatología en un plazo de 6 meses, el 23% del grupo de intervención y el 16% del grupo de control recibieron un diagnóstico de enfermedad autoinmune (P=0.07)."
               }
             ]
           }
@@ -1331,195 +859,189 @@
       }
     },
     {
-      "id": "fda-telesurgery-autonomy-paper",
+      "id": "uw-rsna-ai-triage-realworld",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "FDA, 자율 로봇과\n원격수술 의견 묻는다",
-      "body": "FDA가 자율·원격 조종 로봇 의료기기의 편익과 위험을 짚는 토론 문서를 냈다.",
-      "mini_headline": "FDA, 자율 로봇 검토",
+      "headline": "AI 트리아지 도구의\n실제 성과는 제각각",
+      "body": "UW 742,000여건서 AI는 튜브 판독을 76% 줄였지만 PE엔 효과 없었다.",
+      "mini_headline": "AI 트리아지, 성과 제각각",
       "tool": "Medicine",
-      "source": "MedTech Dive",
-      "url": "https://www.medtechdive.com/news/fda-seeks-input-on-telesurgery-autonomous-robotics/874124/",
-      "accent": "#2ec5c5",
+      "source": "AuntMinnie",
+      "url": "https://www.auntminnie.com/resources/conference/rsna/2026/artificial-intelligence-preview/article/16425184/ai-triage-algorithms-yield-varied-results-in-realworld-use",
+      "accent": "#7928ca",
       "motif": "sphere",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://imgproxy.divecdn.com/SkgPNSy80tEMMPvtkSNoBTWXP3Nuuxp-AcVGYMtaSnA/g:nowe:0:0/c:2451:1384/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9wYXRlbF93aXRoX3BhdGllbnRfb3B0aW1pemVkXzEwMDBfMC5qcGcud2VicA==.webp",
-            "cap": "원격수술을 해 온 Florida 비뇨의학과 전문의 Dr. Vipul Patel(오른쪽)이 병원 복도에서 환자와 이야기를 나누고 있다."
+            "t": "p",
+            "x": "연구진이 세 병원에 트리아지 AI 알고리즘 11개를 도입한 경험을 발표한다(12월 3일 목요일 | 9:30 a.m.-10:30 a.m. | R3-SSIN07-1 | Room E450B)."
           },
           {
             "t": "p",
-            "x": "Food and Drug Administration(식품의약국)이 금요일 자율 또는 원격 조종 기능을 갖춘 로봇 의료기기 토론 문서를 내고 이들 시스템의 편익과 위험을 두고 의견을 구했다. 의견은 1월 5일까지 받고, 공개 워크숍은 12월 2~3일에 연다."
+            "x": "University of Washington의 발표자 Domenico Mastrodicasa, MD와 동료들은 실제 임상에서 AI를 대규모로 배치한 실사용 근거가 여전히 부족하다고 지적했다. 연구팀은 Level 1 외상센터를 포함한 4차 학술 의료 시스템에서 AI 트리아지 도구 여러 개를 시스템 전체에 도입한 뒤 판독 보고 소요 시간이 어떻게 달라졌는지 살폈다."
           },
           {
             "t": "p",
-            "x": "FDA에 따르면 7월 기준 U.S.에서 판매 허가를 받은 원격 조종·완전 자율 로봇 기기는 없다. 10월에는 Dr. Vipul Patel이 임상시험용 의료기기 면제를 받아 약 35마일 떨어진 환자에게 로봇 전립선절제술을 했다."
+            "x": "알고리즘은 2023년 9월부터 2025년 8월까지 단계적으로 배치돼 742,000건이 넘는 영상 검사를 처리했다. 연구진은 배치 전과 후의 보고 소요 시간 중앙값을 견줬다."
           },
           {
             "t": "p",
-            "x": "제조사들은 자율 기능도 들여다보고 있다. 채혈 전문 인력 없이 피를 뽑거나 몸속에서 생명을 위협하는 출혈을 찾아 멈추는 기능 등이 거론된다. FDA는 인공지능과 머신러닝, 연결성이 빠르게 발전하면서 로봇 응용 분야가 넓어지고 있다고 설명했다."
+            "x": "개선 폭이 가장 컸던 항목은 기관내 튜브 위치 이상으로, 보고 소요 시간이 약 76% 줄었다. 늑골 골절(53%)과 뇌혈관 폐색(29%)이 뒤를 이었다. 폐색전증과 두개내 출혈은 나아지지 않았다. 이미 알려진 소견이 있는 추적 검사나 입원 환자 검사의 비중이 더 높았던 탓일 가능성이 크다는 게 연구진의 판단이다."
           },
           {
             "t": "p",
-            "x": "자율성은 시술의 정확성과 재현성, 워크플로 효율을 높일 수 있다. 다만 잘못된 자율 실행, 사용자의 경계심 저하, 시술 변수에 잘 적응하지 못하는 문제 같은 고유한 위험도 함께 따를 수 있다."
+            "x": "“영상 검사량이 늘면서 임상적으로 중요한 소견을 제때 찾아내기가 점점 어려워지고 있다”고 저자들은 썼다. “우리 경험은 AI 트리아지 도구를 시스템 전체에 도입하면 중요 소견을 우선 처리하고 검사량이 많은 환경에서 업무 효율을 높여 영상의학과 의사를 지원할 수 있음을 보여준다. 다만 성능이 적용 분야마다 달랐던 만큼, 이런 이점을 얻으려면 표적화된 배치와 임상 워크플로 변화에 맞춘 지속적인 최적화가 필요하다.”"
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "FDA seeks input on autonomous\nrobotics and telesurgery",
-          "body": "The FDA issued a discussion paper on benefit-risk for robotic devices that act autonomously or via remote teleoperation.",
-          "mini_headline": "FDA weighs autonomous robotics",
+          "headline": "AI triage tools deliver\nuneven real-world results",
+          "body": "Across 742,000+ exams at UW, AI triage cut turnaround 76% for tube malposition but not for PE or brain bleeds.",
+          "mini_headline": "AI triage, uneven results",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/SkgPNSy80tEMMPvtkSNoBTWXP3Nuuxp-AcVGYMtaSnA/g:nowe:0:0/c:2451:1384/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9wYXRlbF93aXRoX3BhdGllbnRfb3B0aW1pemVkXzEwMDBfMC5qcGcud2VicA==.webp",
-                "cap": "Dr. Vipul Patel (right), a Florida-based urologist who has performed telesurgeries, speaks with a patient in a hospital corridor."
+                "t": "p",
+                "x": "Researchers will present their experience in rolling out 11 triage AI algorithms across three hospitals (Thursday, December 3 | 9:30 a.m.-10:30 a.m. | R3-SSIN07-1 | Room E450B)."
               },
               {
                 "t": "p",
-                "x": "The Food and Drug Administration on Friday issued a discussion paper on robotic medical devices with autonomous or remote teleoperation capabilities and is requesting feedback on the systems’ benefits and risks. Comments are due Jan. 5; a public workshop is scheduled for Dec. 2-3."
+                "x": "Real-world evidence on large-scale AI deployment in clinical practice remains limited, noted presenter Domenico Mastrodicasa, MD, of the University of Washington, and colleagues. The group evaluated how system-wide implementation of multiple AI triage tools affected report turnaround time at a quaternary academic health system that includes a Level 1 trauma center."
               },
               {
                 "t": "p",
-                "x": "In the U.S., no remotely teleoperated or fully autonomous robotic devices have received marketing authorization as of July, the FDA said. In October, Dr. Vipul Patel performed a robotic prostatectomy on a patient about 35 miles away under an investigational device exemption."
+                "x": "The algorithms were deployed in stages between September 2023 and August 2025 and processed more than 742,000 imaging exams. The researchers compared median turnaround times before and after deployment."
               },
               {
                 "t": "p",
-                "x": "Manufacturers are also exploring autonomous functions, which could include obtaining a blood draw without a phlebotomist and finding or stopping life-threatening bleeding inside the body. Rapid advances in artificial intelligence, machine learning and connectivity are driving expansion of robotic applications, the FDA said."
+                "x": "The largest gain came for endotracheal tube malposition, where turnaround time dropped by about 76%, followed by rib fracture (53%) and brain vessel occlusion (29%). Pulmonary embolism and intracranial hemorrhage, however, saw no improvement. The researchers say this likely reflects higher proportions of follow-up or inpatient studies with known findings."
               },
               {
                 "t": "p",
-                "x": "Autonomy could support procedural accuracy, reproducibility or workflow efficiency, but distinct risks such as incorrect autonomous execution, reduced user vigilance and limited adaptability to procedural variability may accompany the benefits."
+                "x": "“As imaging volumes increase, timely identification of clinically significant findings is becoming more challenging,” the authors wrote. “Our experience shows that system-wide implementation of AI triage tools can support radiologists by prioritizing critical findings and improving workflow efficiency in high-volume settings. Since performance varied across applications, realizing these benefits requires targeted deployment and ongoing optimization as clinical workflows evolve.”"
               }
             ]
           }
         },
         "ko": {
-          "headline": "FDA, 자율 로봇과\n원격수술 의견 묻는다",
-          "body": "FDA가 자율·원격 조종 로봇 의료기기의 편익과 위험을 짚는 토론 문서를 냈다.",
-          "mini_headline": "FDA, 자율 로봇 검토",
+          "headline": "AI 트리아지 도구의\n실제 성과는 제각각",
+          "body": "UW 742,000여건서 AI는 튜브 판독을 76% 줄였지만 PE엔 효과 없었다.",
+          "mini_headline": "AI 트리아지, 성과 제각각",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/SkgPNSy80tEMMPvtkSNoBTWXP3Nuuxp-AcVGYMtaSnA/g:nowe:0:0/c:2451:1384/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9wYXRlbF93aXRoX3BhdGllbnRfb3B0aW1pemVkXzEwMDBfMC5qcGcud2VicA==.webp",
-                "cap": "원격수술을 해 온 Florida 비뇨의학과 전문의 Dr. Vipul Patel(오른쪽)이 병원 복도에서 환자와 이야기를 나누고 있다."
+                "t": "p",
+                "x": "연구진이 세 병원에 트리아지 AI 알고리즘 11개를 도입한 경험을 발표한다(12월 3일 목요일 | 9:30 a.m.-10:30 a.m. | R3-SSIN07-1 | Room E450B)."
               },
               {
                 "t": "p",
-                "x": "Food and Drug Administration(식품의약국)이 금요일 자율 또는 원격 조종 기능을 갖춘 로봇 의료기기 토론 문서를 내고 이들 시스템의 편익과 위험을 두고 의견을 구했다. 의견은 1월 5일까지 받고, 공개 워크숍은 12월 2~3일에 연다."
+                "x": "University of Washington의 발표자 Domenico Mastrodicasa, MD와 동료들은 실제 임상에서 AI를 대규모로 배치한 실사용 근거가 여전히 부족하다고 지적했다. 연구팀은 Level 1 외상센터를 포함한 4차 학술 의료 시스템에서 AI 트리아지 도구 여러 개를 시스템 전체에 도입한 뒤 판독 보고 소요 시간이 어떻게 달라졌는지 살폈다."
               },
               {
                 "t": "p",
-                "x": "FDA에 따르면 7월 기준 U.S.에서 판매 허가를 받은 원격 조종·완전 자율 로봇 기기는 없다. 10월에는 Dr. Vipul Patel이 임상시험용 의료기기 면제를 받아 약 35마일 떨어진 환자에게 로봇 전립선절제술을 했다."
+                "x": "알고리즘은 2023년 9월부터 2025년 8월까지 단계적으로 배치돼 742,000건이 넘는 영상 검사를 처리했다. 연구진은 배치 전과 후의 보고 소요 시간 중앙값을 견줬다."
               },
               {
                 "t": "p",
-                "x": "제조사들은 자율 기능도 들여다보고 있다. 채혈 전문 인력 없이 피를 뽑거나 몸속에서 생명을 위협하는 출혈을 찾아 멈추는 기능 등이 거론된다. FDA는 인공지능과 머신러닝, 연결성이 빠르게 발전하면서 로봇 응용 분야가 넓어지고 있다고 설명했다."
+                "x": "개선 폭이 가장 컸던 항목은 기관내 튜브 위치 이상으로, 보고 소요 시간이 약 76% 줄었다. 늑골 골절(53%)과 뇌혈관 폐색(29%)이 뒤를 이었다. 폐색전증과 두개내 출혈은 나아지지 않았다. 이미 알려진 소견이 있는 추적 검사나 입원 환자 검사의 비중이 더 높았던 탓일 가능성이 크다는 게 연구진의 판단이다."
               },
               {
                 "t": "p",
-                "x": "자율성은 시술의 정확성과 재현성, 워크플로 효율을 높일 수 있다. 다만 잘못된 자율 실행, 사용자의 경계심 저하, 시술 변수에 잘 적응하지 못하는 문제 같은 고유한 위험도 함께 따를 수 있다."
+                "x": "“영상 검사량이 늘면서 임상적으로 중요한 소견을 제때 찾아내기가 점점 어려워지고 있다”고 저자들은 썼다. “우리 경험은 AI 트리아지 도구를 시스템 전체에 도입하면 중요 소견을 우선 처리하고 검사량이 많은 환경에서 업무 효율을 높여 영상의학과 의사를 지원할 수 있음을 보여준다. 다만 성능이 적용 분야마다 달랐던 만큼, 이런 이점을 얻으려면 표적화된 배치와 임상 워크플로 변화에 맞춘 지속적인 최적화가 필요하다.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "FDA、自律ロボットと\n遠隔手術で意見募集",
-          "body": "FDAは自律動作や遠隔操作で動くロボット機器の便益とリスクに関する討議資料を公表した。",
-          "mini_headline": "FDA、自律ロボットを検討",
+          "headline": "AIトリアージの\n実地成果はまちまち",
+          "body": "UWの742,000件超の検査でAIはチューブ異常の読影時間を76%短縮、PEは改善せず。",
+          "mini_headline": "AIトリアージ、成果まちまち",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/SkgPNSy80tEMMPvtkSNoBTWXP3Nuuxp-AcVGYMtaSnA/g:nowe:0:0/c:2451:1384/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9wYXRlbF93aXRoX3BhdGllbnRfb3B0aW1pemVkXzEwMDBfMC5qcGcud2VicA==.webp",
-                "cap": "遠隔手術を手がけてきたFloridaの泌尿器科医Dr. Vipul Patel(右)が、病院の廊下で患者と話している。"
+                "t": "p",
+                "x": "研究者らは、11種類のトリアージAIアルゴリズムを3つの病院に展開した経験を発表する（12月3日木曜日 | 9:30 a.m.-10:30 a.m. | R3-SSIN07-1 | Room E450B）。"
               },
               {
                 "t": "p",
-                "x": "Food and Drug Administration(食品医薬品局)は金曜日、自律機能または遠隔操作機能を持つロボット医療機器に関する討議資料を公表し、これらのシステムの便益とリスクについて意見を求めた。意見の締め切りは1月5日で、公開ワークショップは12月2〜3日に予定されている。"
+                "x": "臨床現場での大規模なAI導入に関する実臨床エビデンスはまだ限られていると、発表者であるUniversity of WashingtonのDomenico Mastrodicasa, MDらは指摘した。研究グループは、Level 1 外傷センターを含む四次医療の大学医療システムで、複数のAIトリアージツールをシステム全体に導入したことが、レポートのターンアラウンドタイムにどう影響したかを評価した。"
               },
               {
                 "t": "p",
-                "x": "FDAによると、7月時点でU.S.では遠隔操作型または完全自律型のロボット機器で販売承認を得たものはない。10月にはDr. Vipul Patelが治験用機器免除のもと、約35マイル離れた患者にロボット前立腺摘除術を行った。"
+                "x": "アルゴリズムは2023年9月から2025年8月にかけて段階的に導入され、742,000件を超える画像検査を処理した。研究者らは導入前後のターンアラウンドタイムの中央値を比較した。"
               },
               {
                 "t": "p",
-                "x": "メーカーは自律機能の開発も模索している。採血担当者なしでの採血や、体内の生命を脅かす出血の発見・止血などが含まれうる。FDAは、人工知能、機械学習、接続技術の急速な進歩がロボット応用の拡大を後押ししているとした。"
+                "x": "最も大きな改善は気管チューブの位置異常で見られ、ターンアラウンドタイムは約76%短縮した。次いで肋骨骨折（53%）、脳血管閉塞（29%）が続いた。一方、肺塞栓症と頭蓋内出血では改善が見られなかった。研究者らは、既知の所見がある経過観察検査や入院患者の検査の割合が高かったためとみている。"
               },
               {
                 "t": "p",
-                "x": "自律性は手技の正確性、再現性、ワークフロー効率を支えうる一方、誤った自律動作、使用者の注意力低下、手技のばらつきへの適応力の限界といった固有のリスクが便益に伴う可能性がある。"
+                "x": "「画像検査の件数が増えるにつれ、臨床的に重要な所見を適時に見つけることは難しくなっている」と著者らは記した。「我々の経験は、AIトリアージツールをシステム全体に導入することで、重要所見を優先し、大量の検査を扱う環境で業務効率を高め、放射線科医を支援できることを示している。ただし性能は用途によって異なったため、こうした利点を得るには、的を絞った導入と、臨床ワークフローの変化に合わせた継続的な最適化が必要だ」"
               }
             ]
           }
         },
         "zh": {
-          "headline": "FDA就自主机器人\n与远程手术征求意见",
-          "body": "FDA发布讨论文件，探讨自主运行或远程操控的机器人器械的获益与风险。",
-          "mini_headline": "FDA权衡自主机器人",
+          "headline": "AI分诊工具\n真实效果参差不齐",
+          "body": "UW逾742,000次检查中，AI将插管错位报告时间缩短76%，但PE与脑出血无改善。",
+          "mini_headline": "AI分诊效果参差",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/SkgPNSy80tEMMPvtkSNoBTWXP3Nuuxp-AcVGYMtaSnA/g:nowe:0:0/c:2451:1384/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9wYXRlbF93aXRoX3BhdGllbnRfb3B0aW1pemVkXzEwMDBfMC5qcGcud2VicA==.webp",
-                "cap": "曾实施远程手术的Florida泌尿科医生Dr. Vipul Patel(右)在医院走廊与一名患者交谈。"
+                "t": "p",
+                "x": "研究人员将介绍在三家医院部署11种分诊AI算法的经验（12月3日星期四 | 9:30 a.m.-10:30 a.m. | R3-SSIN07-1 | Room E450B）。"
               },
               {
                 "t": "p",
-                "x": "Food and Drug Administration(食品药品监督管理局)周五发布一份关于具备自主或远程操控能力的机器人医疗器械的讨论文件，就这类系统的获益与风险征求意见。意见截止日期为1月5日，公开研讨会定于12月2-3日举行。"
+                "x": "University of Washington的报告人Domenico Mastrodicasa, MD及其同事指出，临床实践中大规模部署AI的真实世界证据仍然有限。该团队评估了在一家包含Level 1 创伤中心的四级学术医疗系统中，全系统部署多种AI分诊工具对报告周转时间的影响。"
               },
               {
                 "t": "p",
-                "x": "FDA表示，截至7月，U.S.尚无远程操控或完全自主的机器人器械获得上市许可。10月，Dr. Vipul Patel在研究用器械豁免框架下，为约35英里外的一名患者实施了机器人前列腺切除术。"
+                "x": "这些算法于2023年9月至2025年8月间分阶段部署，处理了超过742,000次影像检查。研究人员比较了部署前后的周转时间中位数。"
               },
               {
                 "t": "p",
-                "x": "制造商也在探索自主功能，可能包括在没有抽血员的情况下完成抽血，以及发现或止住体内危及生命的出血。FDA表示，人工智能、机器学习和互联技术的快速进步正推动机器人应用的扩展。"
+                "x": "改善最大的是气管插管错位，周转时间缩短约76%，其次是肋骨骨折（53%）和脑血管闭塞（29%）。然而，肺栓塞和颅内出血没有改善。研究人员认为，这可能是因为其中已知结果的随访检查或住院检查比例更高。"
               },
               {
                 "t": "p",
-                "x": "自主性可提升操作的准确性、可重复性或工作流程效率，但随之而来的也可能有特有的风险，例如自主执行出错、使用者警觉性下降，以及对操作变化的适应能力有限。"
+                "x": "“随着影像检查量增加，及时识别具有临床意义的发现正变得越来越困难，”作者写道。“我们的经验表明，在全系统部署AI分诊工具，可以通过优先处理危急发现、提升高检查量环境下的工作流程效率来支持放射科医生。由于不同应用的表现各异，要实现这些益处，需要有针对性的部署，并随着临床工作流程的演变持续优化。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "La FDA pide opiniones sobre\nrobótica autónoma y telecirugía",
-          "body": "La FDA publicó un documento de debate sobre el beneficio-riesgo de dispositivos robóticos autónomos o teleoperados.",
-          "mini_headline": "La FDA evalúa la robótica autónoma",
+          "headline": "El triaje con AI da resultados\ndispares en la práctica real",
+          "body": "En 742,000+ estudios de UW, la AI acortó un 76% el informe de tubos mal colocados, no el de PE ni sangrado cerebral.",
+          "mini_headline": "Triaje con AI, resultados dispares",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/SkgPNSy80tEMMPvtkSNoBTWXP3Nuuxp-AcVGYMtaSnA/g:nowe:0:0/c:2451:1384/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9wYXRlbF93aXRoX3BhdGllbnRfb3B0aW1pemVkXzEwMDBfMC5qcGcud2VicA==.webp",
-                "cap": "El Dr. Vipul Patel (derecha), urólogo con sede en Florida que ha realizado telecirugías, conversa con un paciente en un pasillo del hospital."
+                "t": "p",
+                "x": "Los investigadores presentarán su experiencia en la implantación de 11 algoritmos de AI de triaje en tres hospitales (jueves 3 de diciembre | 9:30 a.m.-10:30 a.m. | R3-SSIN07-1 | Room E450B)."
               },
               {
                 "t": "p",
-                "x": "La Food and Drug Administration publicó el viernes un documento de debate sobre dispositivos médicos robóticos con capacidades autónomas o de teleoperación remota, y solicita opiniones sobre los beneficios y riesgos de estos sistemas. Los comentarios se reciben hasta el 5 de enero; un taller público está previsto para el 2-3 de diciembre."
+                "x": "La evidencia del mundo real sobre el despliegue de AI a gran escala en la práctica clínica sigue siendo limitada, señalaron el ponente Domenico Mastrodicasa, MD, de la University of Washington, y sus colegas. El grupo evaluó cómo la implantación en todo el sistema de varias herramientas de triaje con AI afectó al tiempo de entrega de informes en un sistema de salud académico de nivel cuaternario que incluye un centro de trauma Level 1."
               },
               {
                 "t": "p",
-                "x": "En U.S., ningún dispositivo robótico teleoperado a distancia o totalmente autónomo había recibido autorización de comercialización hasta julio, según la FDA. En octubre, el Dr. Vipul Patel realizó una prostatectomía robótica a un paciente situado a unas 35 millas de distancia, bajo una exención de dispositivo en investigación."
+                "x": "Los algoritmos se desplegaron por etapas entre septiembre de 2023 y agosto de 2025 y procesaron más de 742,000 estudios de imagen. Los investigadores compararon las medianas de los tiempos de entrega antes y después del despliegue."
               },
               {
                 "t": "p",
-                "x": "Los fabricantes también exploran funciones autónomas, que podrían incluir extraer sangre sin un flebotomista y localizar o detener hemorragias potencialmente mortales dentro del cuerpo. Los rápidos avances en inteligencia artificial, aprendizaje automático y conectividad impulsan la expansión de las aplicaciones robóticas, señaló la FDA."
+                "x": "La mayor mejora se dio en la malposición del tubo endotraqueal, donde el tiempo de entrega se redujo alrededor de un 76%, seguida de la fractura costal (53%) y la oclusión de vasos cerebrales (29%). En cambio, la embolia pulmonar y la hemorragia intracraneal no mejoraron. Según los investigadores, esto probablemente refleja una mayor proporción de estudios de seguimiento o de pacientes hospitalizados con hallazgos ya conocidos."
               },
               {
                 "t": "p",
-                "x": "La autonomía podría favorecer la precisión del procedimiento, la reproducibilidad o la eficiencia del flujo de trabajo, pero los beneficios pueden ir acompañados de riesgos propios, como una ejecución autónoma incorrecta, una menor vigilancia del usuario y una capacidad limitada de adaptarse a la variabilidad del procedimiento."
+                "x": "“A medida que aumentan los volúmenes de imagen, identificar a tiempo los hallazgos clínicamente significativos es cada vez más difícil”, escribieron los autores. “Nuestra experiencia muestra que implantar herramientas de triaje con AI en todo el sistema puede apoyar a los radiólogos al priorizar los hallazgos críticos y mejorar la eficiencia del flujo de trabajo en entornos de alto volumen. Como el rendimiento varió entre aplicaciones, obtener estos beneficios requiere un despliegue dirigido y una optimización continua a medida que evolucionan los flujos de trabajo clínicos.”"
               }
             ]
           }
@@ -1527,125 +1049,313 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "FDA, 자율 로봇과\n원격수술 의견 묻는다",
-          "body": "FDA가 자율·원격 조종 로봇 의료기기의 편익과 위험을 다룬 토론 문서를 냈다.",
-          "mini_headline": "FDA, 자율 로봇 검토",
+          "headline": "AI 트리아지 도구의\n실제 성과는 제각각",
+          "body": "UW 742,000여건서 AI는 튜브 판독 76% 단축, PE엔 효과 없었다.",
+          "mini_headline": "AI 트리아지, 성과 제각각",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/SkgPNSy80tEMMPvtkSNoBTWXP3Nuuxp-AcVGYMtaSnA/g:nowe:0:0/c:2451:1384/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9wYXRlbF93aXRoX3BhdGllbnRfb3B0aW1pemVkXzEwMDBfMC5qcGcud2VicA==.webp",
-                "cap": "원격수술을 집도해 온 Florida의 비뇨의학과 전문의 Dr. Vipul Patel(오른쪽)이 병원 복도에서 환자와 이야기하고 있다."
+                "t": "p",
+                "x": "연구진은 세 병원에 11개 트리아지 AI 알고리즘을 도입한 경험을 발표한다(12월 3일 목요일 | 9:30 a.m.-10:30 a.m. | R3-SSIN07-1 | Room E450B)."
               },
               {
                 "t": "p",
-                "x": "Food and Drug Administration(식품의약국)은 금요일 자율 또는 원격 조종 기능을 갖춘 로봇 의료기기에 관한 토론 문서를 내고, 이들 시스템의 편익과 위험에 대한 의견을 요청했다. 의견 마감은 1월 5일이며, 공개 워크숍은 12월 2~3일 열린다."
+                "x": "실제 임상에서 AI를 대규모로 배치한 실사용 근거는 여전히 부족하다고 University of Washington의 발표자 Domenico Mastrodicasa, MD와 동료들은 지적했다. 연구팀은 Level 1 외상센터를 포함한 4차 학술 의료 시스템에서 여러 AI 트리아지 도구를 시스템 전체에 도입한 것이 판독 보고 소요 시간에 어떤 영향을 미쳤는지 평가했다."
               },
               {
                 "t": "p",
-                "x": "FDA는 7월 기준 U.S.에서 원격 조종 또는 완전 자율 로봇 기기가 판매 허가를 받은 사례는 없다고 밝혔다. 10월에는 Dr. Vipul Patel이 임상시험용 의료기기 면제 아래 약 35마일 떨어진 환자에게 로봇 전립선절제술을 시행했다."
+                "x": "알고리즘은 2023년 9월부터 2025년 8월까지 단계적으로 배치돼 742,000건이 넘는 영상 검사를 처리했다. 연구진은 배치 전후의 보고 소요 시간 중앙값을 비교했다."
               },
               {
                 "t": "p",
-                "x": "제조사들은 자율 기능도 모색하고 있다. 채혈 전문 인력 없이 채혈하거나, 체내의 생명을 위협하는 출혈을 찾아내 멈추는 기능 등이 여기에 포함될 수 있다. FDA는 인공지능, 머신러닝, 연결성의 빠른 발전이 로봇 응용의 확대를 이끌고 있다고 밝혔다."
+                "x": "가장 큰 개선은 기관내 튜브 위치 이상에서 나왔다. 보고 소요 시간이 약 76% 줄었고, 늑골 골절(53%)과 뇌혈관 폐색(29%)이 뒤를 이었다. 반면 폐색전증과 두개내 출혈은 개선되지 않았다. 연구진은 이미 알려진 소견이 있는 추적 검사나 입원 환자 검사의 비중이 더 높았던 탓일 가능성이 크다고 본다."
               },
               {
                 "t": "p",
-                "x": "자율성은 시술의 정확성, 재현성, 워크플로 효율을 높일 수 있지만, 잘못된 자율 실행, 사용자 경계심 저하, 시술 변수에 대한 제한된 적응력 같은 고유한 위험이 편익과 함께 따를 수 있다."
+                "x": "“영상 검사량이 늘면서 임상적으로 중요한 소견을 제때 찾아내기가 점점 어려워지고 있다”고 저자들은 썼다. “우리 경험은 AI 트리아지 도구를 시스템 전체에 도입하면 중요 소견을 우선 처리하고 검사량이 많은 환경에서 업무 효율을 높여 영상의학과 의사를 지원할 수 있음을 보여준다. 다만 성능이 적용 분야마다 달랐던 만큼, 이런 이점을 얻으려면 표적화된 배치와 임상 워크플로 변화에 맞춘 지속적인 최적화가 필요하다.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "FDA、自律ロボットと\n遠隔手術で意見募集",
-          "body": "FDAは自律動作や遠隔操作で動くロボット機器の便益とリスクに関する討議資料を公表した。",
-          "mini_headline": "FDA、自律ロボットを検討",
+          "headline": "AIトリアージの\n実地成果はまちまち",
+          "body": "UWの742,000件超の検査でAIはチューブ異常の読影時間を76%短縮、PEは改善せず。",
+          "mini_headline": "AIトリアージ、成果まちまち",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/SkgPNSy80tEMMPvtkSNoBTWXP3Nuuxp-AcVGYMtaSnA/g:nowe:0:0/c:2451:1384/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9wYXRlbF93aXRoX3BhdGllbnRfb3B0aW1pemVkXzEwMDBfMC5qcGcud2VicA==.webp",
-                "cap": "遠隔手術を手がけてきたFloridaの泌尿器科医Dr. Vipul Patel(右)が、病院の廊下で患者と話している。"
+                "t": "p",
+                "x": "研究者らは、11種類のトリアージAIアルゴリズムを3つの病院に展開した経験を発表する（12月3日木曜日 | 9:30 a.m.-10:30 a.m. | R3-SSIN07-1 | Room E450B）。"
               },
               {
                 "t": "p",
-                "x": "Food and Drug Administration(食品医薬品局)は金曜日、自律機能または遠隔操作機能を持つロボット医療機器に関する討議資料を公表し、これらのシステムの便益とリスクについて意見を求めた。意見の締め切りは1月5日で、公開ワークショップは12月2〜3日に予定されている。"
+                "x": "臨床現場での大規模なAI導入に関する実臨床エビデンスはまだ限られていると、発表者であるUniversity of WashingtonのDomenico Mastrodicasa, MDらは指摘した。研究グループは、Level 1 外傷センターを含む四次医療の大学医療システムで、複数のAIトリアージツールをシステム全体に導入したことが、レポートのターンアラウンドタイムにどう影響したかを評価した。"
               },
               {
                 "t": "p",
-                "x": "FDAによると、7月時点でU.S.では遠隔操作型または完全自律型のロボット機器で販売承認を得たものはない。10月にはDr. Vipul Patelが治験用機器免除のもと、約35マイル離れた患者にロボット前立腺摘除術を行った。"
+                "x": "アルゴリズムは2023年9月から2025年8月にかけて段階的に導入され、742,000件を超える画像検査を処理した。研究者らは導入前後のターンアラウンドタイムの中央値を比較した。"
               },
               {
                 "t": "p",
-                "x": "メーカーは自律機能の開発も模索している。採血担当者なしでの採血や、体内の生命を脅かす出血の発見・止血などが含まれうる。FDAは、人工知能、機械学習、接続技術の急速な進歩がロボット応用の拡大を後押ししているとした。"
+                "x": "最も大きな改善は気管チューブの位置異常で見られ、ターンアラウンドタイムは約76%短縮した。次いで肋骨骨折（53%）、脳血管閉塞（29%）が続いた。一方、肺塞栓症と頭蓋内出血では改善が見られなかった。研究者らは、既知の所見がある経過観察検査や入院患者の検査の割合が高かったためとみている。"
               },
               {
                 "t": "p",
-                "x": "自律性は手技の正確性、再現性、ワークフロー効率を支えうる一方、誤った自律動作、使用者の注意力低下、手技のばらつきへの適応力の限界といった固有のリスクが便益に伴う可能性がある。"
+                "x": "「画像検査の件数が増えるにつれ、臨床的に重要な所見を適時に見つけることは難しくなっている」と著者らは記した。「我々の経験は、AIトリアージツールをシステム全体に導入することで、重要所見を優先し、大量の検査を扱う環境で業務効率を高め、放射線科医を支援できることを示している。ただし性能は用途によって異なったため、こうした利点を得るには、的を絞った導入と、臨床ワークフローの変化に合わせた継続的な最適化が必要だ」"
               }
             ]
           }
         },
         "zh": {
-          "headline": "FDA就自主机器人\n与远程手术征求意见",
-          "body": "FDA发布讨论文件，探讨自主运行或远程操控的机器人器械的获益与风险。",
-          "mini_headline": "FDA权衡自主机器人",
+          "headline": "AI分诊工具\n真实效果参差不齐",
+          "body": "UW逾742,000次检查中，AI将插管错位报告时间缩短76%，但PE与脑出血无改善。",
+          "mini_headline": "AI分诊效果参差",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/SkgPNSy80tEMMPvtkSNoBTWXP3Nuuxp-AcVGYMtaSnA/g:nowe:0:0/c:2451:1384/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9wYXRlbF93aXRoX3BhdGllbnRfb3B0aW1pemVkXzEwMDBfMC5qcGcud2VicA==.webp",
-                "cap": "曾实施远程手术的Florida泌尿科医生Dr. Vipul Patel(右)在医院走廊与一名患者交谈。"
+                "t": "p",
+                "x": "研究人员将介绍在三家医院部署11种分诊AI算法的经验（12月3日星期四 | 9:30 a.m.-10:30 a.m. | R3-SSIN07-1 | Room E450B）。"
               },
               {
                 "t": "p",
-                "x": "Food and Drug Administration(食品药品监督管理局)周五发布一份关于具备自主或远程操控能力的机器人医疗器械的讨论文件，就这类系统的获益与风险征求意见。意见截止日期为1月5日，公开研讨会定于12月2-3日举行。"
+                "x": "University of Washington的报告人Domenico Mastrodicasa, MD及其同事指出，临床实践中大规模部署AI的真实世界证据仍然有限。该团队评估了在一家包含Level 1 创伤中心的四级学术医疗系统中，全系统部署多种AI分诊工具对报告周转时间的影响。"
               },
               {
                 "t": "p",
-                "x": "FDA表示，截至7月，U.S.尚无远程操控或完全自主的机器人器械获得上市许可。10月，Dr. Vipul Patel在研究用器械豁免框架下，为约35英里外的一名患者实施了机器人前列腺切除术。"
+                "x": "这些算法于2023年9月至2025年8月间分阶段部署，处理了超过742,000次影像检查。研究人员比较了部署前后的周转时间中位数。"
               },
               {
                 "t": "p",
-                "x": "制造商也在探索自主功能，可能包括在没有抽血员的情况下完成抽血，以及发现或止住体内危及生命的出血。FDA表示，人工智能、机器学习和互联技术的快速进步正推动机器人应用的扩展。"
+                "x": "改善最大的是气管插管错位，周转时间缩短约76%，其次是肋骨骨折（53%）和脑血管闭塞（29%）。然而，肺栓塞和颅内出血没有改善。研究人员认为，这可能是因为其中已知结果的随访检查或住院检查比例更高。"
               },
               {
                 "t": "p",
-                "x": "自主性可提升操作的准确性、可重复性或工作流程效率，但随之而来的也可能有特有的风险，例如自主执行出错、使用者警觉性下降，以及对操作变化的适应能力有限。"
+                "x": "“随着影像检查量增加，及时识别具有临床意义的发现正变得越来越困难，”作者写道。“我们的经验表明，在全系统部署AI分诊工具，可以通过优先处理危急发现、提升高检查量环境下的工作流程效率来支持放射科医生。由于不同应用的表现各异，要实现这些益处，需要有针对性的部署，并随着临床工作流程的演变持续优化。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "La FDA pide opiniones sobre\nrobótica autónoma y telecirugía",
-          "body": "La FDA publicó un documento de debate sobre el beneficio-riesgo de dispositivos robóticos autónomos o teleoperados.",
-          "mini_headline": "La FDA evalúa la robótica autónoma",
+          "headline": "El triaje con AI da resultados\ndispares en la práctica real",
+          "body": "En 742,000+ estudios de UW, la AI acortó un 76% el informe de tubos mal colocados, no el de PE ni sangrado cerebral.",
+          "mini_headline": "Triaje con AI, resultados dispares",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/SkgPNSy80tEMMPvtkSNoBTWXP3Nuuxp-AcVGYMtaSnA/g:nowe:0:0/c:2451:1384/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9wYXRlbF93aXRoX3BhdGllbnRfb3B0aW1pemVkXzEwMDBfMC5qcGcud2VicA==.webp",
-                "cap": "El Dr. Vipul Patel (derecha), urólogo con sede en Florida que ha realizado telecirugías, conversa con un paciente en un pasillo del hospital."
+                "t": "p",
+                "x": "Los investigadores presentarán su experiencia en la implantación de 11 algoritmos de AI de triaje en tres hospitales (jueves 3 de diciembre | 9:30 a.m.-10:30 a.m. | R3-SSIN07-1 | Room E450B)."
               },
               {
                 "t": "p",
-                "x": "La Food and Drug Administration publicó el viernes un documento de debate sobre dispositivos médicos robóticos con capacidades autónomas o de teleoperación remota, y solicita opiniones sobre los beneficios y riesgos de estos sistemas. Los comentarios se reciben hasta el 5 de enero; un taller público está previsto para el 2-3 de diciembre."
+                "x": "La evidencia del mundo real sobre el despliegue de AI a gran escala en la práctica clínica sigue siendo limitada, señalaron el ponente Domenico Mastrodicasa, MD, de la University of Washington, y sus colegas. El grupo evaluó cómo la implantación en todo el sistema de varias herramientas de triaje con AI afectó al tiempo de entrega de informes en un sistema de salud académico de nivel cuaternario que incluye un centro de trauma Level 1."
               },
               {
                 "t": "p",
-                "x": "En U.S., ningún dispositivo robótico teleoperado a distancia o totalmente autónomo había recibido autorización de comercialización hasta julio, según la FDA. En octubre, el Dr. Vipul Patel realizó una prostatectomía robótica a un paciente situado a unas 35 millas de distancia, bajo una exención de dispositivo en investigación."
+                "x": "Los algoritmos se desplegaron por etapas entre septiembre de 2023 y agosto de 2025 y procesaron más de 742,000 estudios de imagen. Los investigadores compararon las medianas de los tiempos de entrega antes y después del despliegue."
               },
               {
                 "t": "p",
-                "x": "Los fabricantes también exploran funciones autónomas, que podrían incluir extraer sangre sin un flebotomista y localizar o detener hemorragias potencialmente mortales dentro del cuerpo. Los rápidos avances en inteligencia artificial, aprendizaje automático y conectividad impulsan la expansión de las aplicaciones robóticas, señaló la FDA."
+                "x": "La mayor mejora se dio en la malposición del tubo endotraqueal, donde el tiempo de entrega se redujo alrededor de un 76%, seguida de la fractura costal (53%) y la oclusión de vasos cerebrales (29%). En cambio, la embolia pulmonar y la hemorragia intracraneal no mejoraron. Según los investigadores, esto probablemente refleja una mayor proporción de estudios de seguimiento o de pacientes hospitalizados con hallazgos ya conocidos."
               },
               {
                 "t": "p",
-                "x": "La autonomía podría favorecer la precisión del procedimiento, la reproducibilidad o la eficiencia del flujo de trabajo, pero los beneficios pueden ir acompañados de riesgos propios, como una ejecución autónoma incorrecta, una menor vigilancia del usuario y una capacidad limitada de adaptarse a la variabilidad del procedimiento."
+                "x": "“A medida que aumentan los volúmenes de imagen, identificar a tiempo los hallazgos clínicamente significativos es cada vez más difícil”, escribieron los autores. “Nuestra experiencia muestra que implantar herramientas de triaje con AI en todo el sistema puede apoyar a los radiólogos al priorizar los hallazgos críticos y mejorar la eficiencia del flujo de trabajo en entornos de alto volumen. Como el rendimiento varió entre aplicaciones, obtener estos beneficios requiere un despliegue dirigido y una optimización continua a medida que evolucionan los flujos de trabajo clínicos.”"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "synsight-synthetic-rdt",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "합성 이미지로 AI가\n신속진단검사 읽는다",
+      "body": "SynSight는 합성 데이터로 HIV 검사 민감도 98%·특이도 99%를 냈다.",
+      "mini_headline": "합성 데이터로 RDTs 판독",
+      "tool": "Medicine",
+      "source": "npj Digital Medicine",
+      "url": "https://www.nature.com/articles/s41746-026-03380-0",
+      "accent": "#2ec5c5",
+      "motif": "sphere",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "신속진단검사(RDTs)는 질병을 저렴하게 진단하도록 돕는다. 머신러닝(ML)으로 RDT 판독을 개선할 수는 있지만 대개 크고 독점적이며 비싼 실제 이미지 라이브러리가 있어야 한다."
+          },
+          {
+            "t": "p",
+            "x": "우리가 소개하는 SynSight는 합성 데이터로 학습한 ML 기반(ML-enabled) RDT 분할·분류 파이프라인이다. SynSight는 HIV(민감도 98%, 특이도 99%)와 COVID-19 RDTs(정확도 최대 99%)에서 검증됐고 실제 학습 이미지 없이도 ML을 빠르게 학습시켜 새 RDT가 개발되는 속도를 따라갈 수 있다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Synthetic images train AI\nto read rapid diagnostic tests",
+          "body": "SynSight, trained on synthetic data, read HIV rapid tests with 98% sensitivity and 99% specificity.",
+          "mini_headline": "Synthetic data reads RDTs",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Rapid diagnostic tests (RDTs) support affordable disease diagnosis. Machine learning (ML) can improve RDT interpretation but often relies on large, proprietary, and costly real-world image libraries."
+              },
+              {
+                "t": "p",
+                "x": "We present SynSight – a ML-enabled RDT segmentation and classification pipeline trained on synthetic data. Validated on HIV (98% sensitivity, 99% specificity) and COVID-19 RDTs (up to 99% accuracy), SynSight enables rapid ML training without real-world training images, keeping pace with new RDT development."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "합성 이미지로 AI가\n신속진단검사 읽는다",
+          "body": "SynSight는 합성 데이터로 HIV 검사 민감도 98%·특이도 99%를 냈다.",
+          "mini_headline": "합성 데이터로 RDTs 판독",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "신속진단검사(RDTs)는 질병을 저렴하게 진단하도록 돕는다. 머신러닝(ML)으로 RDT 판독을 개선할 수는 있지만 대개 크고 독점적이며 비싼 실제 이미지 라이브러리가 있어야 한다."
+              },
+              {
+                "t": "p",
+                "x": "우리가 소개하는 SynSight는 합성 데이터로 학습한 ML 기반(ML-enabled) RDT 분할·분류 파이프라인이다. SynSight는 HIV(민감도 98%, 특이도 99%)와 COVID-19 RDTs(정확도 최대 99%)에서 검증됐고 실제 학습 이미지 없이도 ML을 빠르게 학습시켜 새 RDT가 개발되는 속도를 따라갈 수 있다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "合成画像で学ぶAIが\n迅速診断検査を判定",
+          "body": "合成データで学んだSynSightはHIV迅速検査を感度98%、特異度99%で判定した。",
+          "mini_headline": "合成データでRDTsを判定",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "迅速診断検査（RDTs）は安価な疾病診断を支える。機械学習（ML）はRDTの判定を改善しうるが、多くの場合、大規模で独占的かつ高価な実世界の画像ライブラリに依存している。"
+              },
+              {
+                "t": "p",
+                "x": "我々は、合成データで学習したML-enabled（ML対応）のRDTセグメンテーション・分類パイプラインSynSightを提示する。HIV（感度98%、特異度99%）およびCOVID-19 RDTs（最大99%の精度）で検証されたSynSightは、実世界の学習画像なしに迅速なML学習を可能にし、新たなRDT開発のペースに追随できる。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "合成图像训练AI\n判读快速诊断检测",
+          "body": "基于合成数据训练的SynSight判读HIV快速检测，灵敏度98%，特异度99%。",
+          "mini_headline": "合成数据判读RDTs",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "快速诊断检测（RDTs）有助于实现低成本的疾病诊断。机器学习（ML）可以改进RDT判读，但往往依赖大型、专有且昂贵的真实世界图像库。"
+              },
+              {
+                "t": "p",
+                "x": "我们提出SynSight——一个基于合成数据训练的ML-enabled RDT分割与分类流程。SynSight已在HIV（灵敏度98%，特异度99%）和COVID-19 RDTs（准确率最高99%）上得到验证，无需真实世界训练图像即可快速完成ML训练，跟上新RDT的开发节奏。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Imágenes sintéticas enseñan\na la AI a leer pruebas rápidas",
+          "body": "SynSight, entrenado con datos sintéticos, leyó pruebas rápidas de HIV con 98% de sensibilidad y 99% de especificidad.",
+          "mini_headline": "Datos sintéticos leen RDTs",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Las pruebas de diagnóstico rápido (RDTs) facilitan un diagnóstico asequible de enfermedades. El aprendizaje automático (ML) puede mejorar la interpretación de las RDT, pero a menudo depende de bibliotecas de imágenes reales grandes, privadas y costosas."
+              },
+              {
+                "t": "p",
+                "x": "Presentamos SynSight, una canalización ML-enabled de segmentación y clasificación de RDT entrenada con datos sintéticos. Validado en pruebas de HIV (98% de sensibilidad, 99% de especificidad) y en RDTs de COVID-19 (hasta 99% de exactitud), SynSight permite un entrenamiento rápido de ML sin imágenes reales de entrenamiento, al ritmo del desarrollo de nuevas RDT."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "합성 이미지로 AI가\n신속진단검사 읽는다",
+          "body": "SynSight는 합성 데이터로 HIV 검사 민감도 98%·특이도 99%를 냈다.",
+          "mini_headline": "합성 데이터로 RDTs 판독",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "신속진단검사(RDTs)는 저렴한 질병 진단을 돕는다. 머신러닝(ML)은 RDT 판독을 개선할 수 있지만, 대개 크고 독점적이며 비싼 실제 이미지 라이브러리에 의존한다."
+              },
+              {
+                "t": "p",
+                "x": "우리는 합성 데이터로 학습한 ML 기반(ML-enabled) RDT 분할·분류 파이프라인 SynSight를 소개한다. HIV(민감도 98%, 특이도 99%)와 COVID-19 RDTs(정확도 최대 99%)에서 검증된 SynSight는 실제 학습 이미지 없이도 빠르게 ML을 학습시켜 새로운 RDT 개발 속도에 발맞출 수 있게 한다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "合成画像で学ぶAIが\n迅速診断検査を判定",
+          "body": "合成データで学んだSynSightはHIV迅速検査を感度98%、特異度99%で判定した。",
+          "mini_headline": "合成データでRDTsを判定",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "迅速診断検査（RDTs）は安価な疾病診断を支える。機械学習（ML）はRDTの判定を改善しうるが、多くの場合、大規模で独占的かつ高価な実世界の画像ライブラリに依存している。"
+              },
+              {
+                "t": "p",
+                "x": "我々は、合成データで学習したML-enabled（ML対応）のRDTセグメンテーション・分類パイプラインSynSightを提示する。HIV（感度98%、特異度99%）およびCOVID-19 RDTs（最大99%の精度）で検証されたSynSightは、実世界の学習画像なしに迅速なML学習を可能にし、新たなRDT開発のペースに追随できる。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "合成图像训练AI\n判读快速诊断检测",
+          "body": "基于合成数据训练的SynSight判读HIV快速检测，灵敏度98%，特异度99%。",
+          "mini_headline": "合成数据判读RDTs",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "快速诊断检测（RDTs）有助于实现低成本的疾病诊断。机器学习（ML）可以改进RDT判读，但往往依赖大型、专有且昂贵的真实世界图像库。"
+              },
+              {
+                "t": "p",
+                "x": "我们提出SynSight——一个基于合成数据训练的ML-enabled RDT分割与分类流程。SynSight已在HIV（灵敏度98%，特异度99%）和COVID-19 RDTs（准确率最高99%）上得到验证，无需真实世界训练图像即可快速完成ML训练，跟上新RDT的开发节奏。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Imágenes sintéticas enseñan\na la AI a leer pruebas rápidas",
+          "body": "SynSight, entrenado con datos sintéticos, leyó pruebas rápidas de HIV con 98% de sensibilidad y 99% de especificidad.",
+          "mini_headline": "Datos sintéticos leen RDTs",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Las pruebas de diagnóstico rápido (RDTs) facilitan un diagnóstico asequible de enfermedades. El aprendizaje automático (ML) puede mejorar la interpretación de las RDT, pero a menudo depende de bibliotecas de imágenes reales grandes, privadas y costosas."
+              },
+              {
+                "t": "p",
+                "x": "Presentamos SynSight, una canalización ML-enabled de segmentación y clasificación de RDT entrenada con datos sintéticos. Validado en pruebas de HIV (98% de sensibilidad, 99% de especificidad) y en RDTs de COVID-19 (hasta 99% de exactitud), SynSight permite un entrenamiento rápido de ML sin imágenes reales de entrenamiento, al ritmo del desarrollo de nuevas RDT."
               }
             ]
           }

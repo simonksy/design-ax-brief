@@ -11381,6 +11381,130 @@
           "x": "Diode直接根据Claude的设计文件制造了全部三块电路板。这些设备仍是原型：尚未经过电气验证、天线调校、热测试或认证。"
         }
       ]
+    },
+    "design/artstation-ai-art-policy": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "KitBash收购ArtStation时承诺，将回应用户对AI内容泛滥的担忧。9月，它将上传作品的“NoAI”设为默认开启。如今，一次新更新尝试管控生成式AI内容，同时推出更完整的AI声明和更多过滤控制，但艺术家们目前反应不一。"
+        },
+        {
+          "t": "p",
+          "x": "现在发布作品时，用户需要声明是否使用了生成式AI：主要为生成式AI、生成式AI与非生成方法混合，或100%非生成。用户还可通过专门渠道举报疑似AI-generated却未标注的作品；ArtStation表示，每一份举报都将帮助改进其AI过滤。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/9wsbfUqLD4Ez98e9dWE9wn-1200-80.jpg",
+          "cap": "（图片来源：ArtStation）"
+        },
+        {
+          "t": "p",
+          "x": "用户可以隐藏已声明的生成式AI内容，并选择举报过滤的力度：“Strict”“Balanced”或“Loose”。默认情况下，声明为AI-generated或带有“CreatedwithAI”标签的项目会被隐藏，疑似AI作品的过滤设为strict。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/A4CeER4pysFPNYhTJpJ64o-1200-80.jpg",
+          "cap": "（图片来源：ArtStation）"
+        },
+        {
+          "t": "p",
+          "x": "依赖用户审核意味着部分AI作品可能漏网，而“Strict”过滤又可能删除被误判为AI的作品，目前也不清楚艺术家能否对标记提出申诉。有人认为生成式AI在概念艺术中不可避免，因此KitBash或许认为禁止它即便并非不可能，也会适得其反。"
+        }
+      ]
+    },
+    "design/siemens-hyperlynx-agents": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Siemens发布了HyperLynx Agentic Toolkit，这是一款智能体AI解决方案，旨在帮助电子系统工程师自动化验证工作流、审查仿真结果并辅助设计决策。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/11/Fig-1-Siemens-adds-agentic-AI-to-HyperLynx-verification-workflows.avif",
+          "cap": "HyperLynx Agentic Toolkit展示带合规眼图模板的DDR5仿真"
+        },
+        {
+          "t": "p",
+          "x": "随着系统速率迈向112G和224G，余量收紧、上市时间压力以及资深验证工程师短缺，可能让信号完整性问题拖到设计周期后期。该工具包基于HyperLynx构建，将领域专用AI智能体与基于物理的信号完整性和电源完整性（SI/PI）仿真相结合。工程师用自然语言定义验证目标，编排智能体则协调负责SerDes、DDR、信号完整性和电源完整性分析的专用智能体，执行仿真、提取参数、审查结果，并将性能与设计余量进行比较。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/11/Fig-2-Siemens-adds-agentic-AI-to-HyperLynx-verification-workflows.avif",
+          "cap": "采用PAM4信令的两种设计方案的眼高与眼宽散点图"
+        },
+        {
+          "t": "p",
+          "x": "该工具包继Questa One Agentic Toolkit之后推出，并以Fuse EDA AI Agent和Intelligence Center X为基础。计划于2026年第四季度向部分客户开放早期试用，随后全面上市。"
+        }
+      ]
+    },
+    "design/uxc-design-system-ai-prototyping": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/0*GVeuczf4PnCJn95b.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Christine Vallaure见过不少团队把设计系统接入AI构建工具，得到一个看似完成的界面，随后却看着开发者从头重写。Lovable、Bolt和Claude Design等构建工具会读取你的设计系统，再通常基于shadcn和Tailwind做出自己的版本。“再怎么用力写提示词也解决不了……这些组件不是真的。”"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/0*FsGZw7cGpPc5iRkF.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "你需要两样东西：一份清单（manifest），包含从代码生成的每个组件的名称、用途、属性、允许值和默认值；以及一个MCP连接，让智能体询问有哪些组件，而不是靠猜。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/0*czCuIU3dfQCnhtuQ.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "有两条路线：一是Storybook MCP插件（需Storybook 10或更新版本，并开启组件清单），在Storybook的测试中，它少用了27%的token，完成速度快了近三倍；二是由有工程师的团队自建的设计系统MCP。原型放在永不合并的设计分支上，被采纳的想法再在功能分支上重建。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/0*YUHz6rnoOzIZqavV.jpeg"
+        }
+      ]
+    },
+    "design/config-india-freshworks-code": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "3EbdkzGwL7c"
+        },
+        {
+          "t": "p",
+          "x": "当设计师交付代码的速度超过团队评判其背后想法的速度时，会发生什么？Sascha Trinkaus分享了Freshworks如何将设计系统接入AI工具，并为设计师贡献生产代码调整工程工作流。他探讨了市场证据和客户反馈如何在原型制作前打磨想法，以及设计师如何把自己的品味一路带到产品中。他还与工程部门的Kaushal Cavale一起，探讨跨学科落地需要什么、人的判断在哪些环节至关重要，以及他们仍在摸索的问题。"
+        }
+      ]
+    },
+    "design/adobe-max26-creative-agent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://news.adobe.com/news/2026/11/media_194f62215cc674a3099d1a6f6b08199d16183a1ba.jpg?width=1200&format=pjpg&optimize=medium"
+        },
+        {
+          "t": "p",
+          "x": "今天，Adobe在Miami Beach举行的Adobe MAX上发布了Adobe Firefly、Creative Cloud和Adobe GenStudio中的新智能体与工具。Adobe正把Adobe Creative Agent扩展到Creative Cloud和Adobe Firefly。这是创作者可以用自己的话来指挥的伙伴，能接手复杂的multi-step任务。"
+        },
+        {
+          "t": "p",
+          "x": "Adobe还在预览本地MCP集成，创意专业人士可以指挥自己已在使用的third-party智能体，直接修改Photoshop、Illustrator、Premiere和After Effects中的原生项目文件，图层、序列和合成都保持可编辑。Creative Agent还为Illustrator、Premiere、InDesign、After Effects和Frame.io中扩展后的AI Assistants(beta)提供支持。"
+        },
+        {
+          "t": "p",
+          "x": "Firefly成为一个AI创意工作室，把Adobe的工具与Adobe、Topaz Labs以及ByteDance、Google、Kling、OpenAI、ElevenLabs等合作伙伴的模型结合在一起。新增内容包括always-on智能体(preview)、Firefly Design(beta)、Firefly Graph(beta)和Firefly Builder(private beta)；Firefly Builder用自然语言把想法变成可交互、on-brand的原型，无需写代码。"
+        },
+        {
+          "t": "p",
+          "x": "面向企业，CX Enterprise Coworker登陆GenStudio。Adobe还在与Anthropic和OpenAI的连接器基础上，深化了与Google和Microsoft的合作。"
+        }
+      ]
     }
   }
 }

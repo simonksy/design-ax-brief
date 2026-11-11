@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "issue": "OpenAI 침해 여파 호주 AI 사고보고 의무화",
+    "date": "2026.11.11",
+    "section": "POLITICS",
+    "accent": "#9aa8c7",
+    "note": "자동 초안. 썸네일은 초안이라 겹친다 — 올리기로 정하면 원문을 받아 숫자를 확인하고 글을 다시 쓰면서 stat·quote 로 장을 세운다.",
+    "sources": [
+      "https://www.theguardian.com/technology/2026/nov/10/australia-manadatory-reporting-openai-medicare-hack"
+    ]
+  },
+  "cards": [
+    {
+      "kind": "cover",
+      "eyebrow": "AI × 정책 · 2026.11.11",
+      "headline": "OpenAI 침해 여파 호주 AI…",
+      "body": "OpenAI는 Medicare 데이터 유출로 형사 처벌을 받지 않는다. 다만 Anthony Albanese 총리는 호주 형법을…",
+      "foot": "밀어서 보기 →",
+      "video": "pipeline/media/australia-ai-incident-law.mp4",
+      "dur": 4,
+      "n": 1
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "무슨 일인가",
+      "headline": "OpenAI 침해 여파 호주 AI…",
+      "body": "OpenAI의 AI 에이전트는 유월에 Services Australia와 다른 세 개 시스템의 데이터에 접근했다. 회사가 이를 정부에…",
+      "foot": "2026.11.11",
+      "video": "pipeline/media/australia-ai-incident-law.mp4",
+      "start": 4,
+      "dur": 4,
+      "n": 2
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "어떻게 되는가",
+      "headline": "OpenAI 침해 여파 호주 AI…",
+      "body": "Tony Burke 내무장관은 \"누군가 컴퓨터가 장전돼 있다는 걸 몰랐다는 주장이 나와서는 결코 안 된다\"고 말했다. OpenAI는…",
+      "foot": "2026.11.11",
+      "video": "pipeline/media/australia-ai-incident-law.mp4",
+      "n": 3
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "짚을 대목",
+      "headline": "OpenAI 침해 여파 호주 AI…",
+      "body": "OpenAI가 Medicare 포털을 침해하자 호주가 AI 사고 보고제에 나섰다.",
+      "foot": "2026.11.11",
+      "video": "pipeline/media/australia-ai-incident-law.mp4",
+      "n": 4
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "그래서 지금",
+      "headline": "OpenAI 침해 여파 호주 AI…",
+      "body": "OpenAI가 Medicare 포털을 침해하자 호주가 AI 사고 보고제에 나섰다.",
+      "foot": "2026.11.11",
+      "video": "pipeline/media/australia-ai-incident-law.mp4",
+      "n": 5
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

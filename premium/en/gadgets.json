@@ -11678,6 +11678,154 @@
           "x": "To cool its CPU and sensor without vibration, CAIM1 partnered with Noctua on an NF-A4x10 active-cooling system. The camera shoots 4K video, targets action sports and uses a Bring-Your-Own-Lens design."
         }
       ]
+    },
+    "gadgets/bluephone-pixel10-agent-os": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2025/09/google-pixel-10-pro-screen-on-home-screen-scaled.jpg",
+          "cap": "Someone holding the Google Pixel 10 Pro with its screen on, showing the home screen."
+        },
+        {
+          "t": "p",
+          "x": "A startup called Blue, backed by Y Combinator, has opened the public beta of its new Blue Phone, which puts an AI assistant at the heart of the smartphone experience. Instead of building an entirely new phone, it's starting with the Google Pixel 10 Pro and Pixel 10 Pro XL, both running Blue OS, a customized version of Android that lets the AI assistant work across apps and handle tasks for you."
+        },
+        {
+          "t": "p",
+          "x": "If you're trying to find a receipt from months ago, compare prices before a purchase, or dispute an unexpected charge, Blue can do it for you — even working on multiple requests at the same time."
+        },
+        {
+          "t": "video",
+          "yt": "mrTgV4U_wI4"
+        },
+        {
+          "t": "p",
+          "x": "It also has a voice dictation feature that turns naturally spoken thoughts into a properly written message. To address privacy concerns, Blue uses an encrypted Vault for passwords and other sensitive information, and the OS is based on a security-focused, open-source version of Android that blocks ad tracking by default."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Screenshot-2026-11-11-at-8.01.19-PM.png",
+          "cap": "iPhone to Blue Phone on Pixel 10 Pro"
+        },
+        {
+          "t": "p",
+          "x": "Blue Phone costs $1,299, but you could get it for free if you send your old iPhone to the company within 30 days of purchase. It comes with three months of unlimited Blue usage, and US shipments are scheduled for November and December. The startup is also working on its own custom smartphone, expected in the third quarter of 2027, which can be reserved for a fully refundable $100."
+        }
+      ]
+    },
+    "gadgets/deepx-dxm1-butter-demo": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/ZgC56W69q8WA6rhcBjxWKn-1920-80.jpg",
+          "cap": "DEEPX's butter-on-chip thermal demo"
+        },
+        {
+          "t": "p",
+          "x": "South Korean chip startup DEEPX, recently featured by CNBC, demonstrated its DX-M1 processor's cool-running capabilities in a bizarre new dairy-based thermal benchmark. While rival chips caused a knob of butter to sizzle in seconds, atop the DEEPX solution, the butter block remains solid."
+        },
+        {
+          "t": "p",
+          "x": "DEEPX says its simple answer to data center heat is to \"make the AI chips themselves run cooler.\" In a side-by-side test against unnamed rival AI chips, the DX-M1 NPU is clearly cooler. DEEPX CEO Kim Nok-won claims a temperature difference of 25 to more than 40 degrees Celsius compared with competitors, saying the chips processed \"the same AI workload… and every chip melted the butter except the last chip [DX-M1].\""
+        },
+        {
+          "t": "p",
+          "x": "Tom's Hardware notes big gaps in the comparison, most notably how fast each processor tackles the test workload: anyone can run a chip cool if the power and clocks are scaled back."
+        },
+        {
+          "t": "p",
+          "x": "The DX-M1 has been produced on Samsung 5nm since August 2025 and has won approximately $13.3M worth of orders. The next-gen DX-M2, based on Samsung 2nm, is aiming for mass production in H2 2027. These NPUs look set for edge computing and robotics, so they aren't competing with power-gulping Nvidia data center GPUs, making the butter test \"a bit of a red herring.\""
+        }
+      ]
+    },
+    "gadgets/gigabyte-aitop-aero-spark": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/gigabyte-ai-top-aero-nvidia-rtx-spark.jpg",
+          "cap": "Gigabyte AI Top Aero — one-liter AI desktop with Nvidia RTX Spark and 128 GB of unified memory."
+        },
+        {
+          "t": "p",
+          "x": "Gigabyte has launched the AI Top Aero, a mini PC designed for local AI development, content creation, and, in the future, gaming. It is powered by Nvidia's RTX Spark platform, combining an Nvidia Blackwell GPU with an Arm-based Grace CPU in a chassis with a volume of roughly one liter."
+        },
+        {
+          "t": "p",
+          "x": "Its RTX Spark N1X Superchip integrates a 20-core Grace CPU with a Blackwell RTX GPU featuring 6,144 CUDA cores. Configurations offer up to 128 GB of LPDDR5X unified memory and up to a 4 TB PCIe 5.0 SSD, and Nvidia rates the platform at up to 1 petaflop of FP4 AI performance for running AI models locally without relying on cloud services."
+        },
+        {
+          "t": "p",
+          "x": "Positioned as a \"Personal AI Studio,\" it supports LM Studio, Ollama and Nvidia Nemotron models, CUDA for building, fine-tuning and running models, and Nvidia PAIR (Personal AI Router) to distribute inference across devices on a local network. Gaming with DLSS 5 is supported, though first reviews of RTX Spark report launch failures and crashes in some games."
+        },
+        {
+          "t": "p",
+          "x": "Connectivity includes USB Type-C, 10 GbE Ethernet and Wi-Fi 7. The AI Top Aero launched November 10, 2026; Gigabyte has not disclosed its price, but the similar AI Top Atom starts at $4,999 with 64 GB of memory and a 2 TB SSD."
+        }
+      ]
+    },
+    "gadgets/googlehome-nest-liveview-fix": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2024/04/Voice-controls-from-Nest-Hub-Photo-frame-view.jpg?quality=82&strip=all&w=1600",
+          "cap": "Nest Hub"
+        },
+        {
+          "t": "p",
+          "x": "A new Google Home update is rolling out with a fix for \"Live View\" issues affecting Nest Cam devices, improvements for the Nest Hub, upgrades for Gemini, and more."
+        },
+        {
+          "t": "p",
+          "x": "Gemini, still in early access, gets further improvements to smart home controls, faster timers, \"more conversational voice feedback\" and faster Broadcasts. Most notably, Nest Hub smart displays now show \"relevant images when helpful\" when you ask questions."
+        },
+        {
+          "t": "p",
+          "x": "The Google Home app adds a \"Google Home Premium\" settings page, an \"Eco Mode Everywhere\" toggle for homes with multiple Nest Thermostats, and Home keys in Google Wallet for compatible locks."
+        },
+        {
+          "t": "p",
+          "x": "Older Nest Cam devices get a fix for the \"Live View\" issue on devices such as Nest Hello, plus fixes for camera history controls, live streaming over certain connections, blank event previews on Nest Cam IQ, and camera clock accuracy."
+        },
+        {
+          "t": "p",
+          "x": "On the AI agent front, Google Home MCP connections now allow agents to control automations and access new controls and status checks across \"thermostats, fans, air purifiers, robot vacuums, lighting effects, kitchen appliances, EV chargers, and smoke and carbon monoxide alarms.\" Smart speaker updates are also rolling out, but details are limited."
+        }
+      ]
+    },
+    "gadgets/pixel-drop-nov-gemini-intel": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/header_Pixel_drop_image.width-1300.jpg",
+          "cap": "Pixel Drop"
+        },
+        {
+          "t": "p",
+          "x": "Our November Pixel Drop is here, with new and expanded features making your Pixel devices more personalized, intuitive, and handy. Updates start rolling out today and will continue over the next several weeks."
+        },
+        {
+          "t": "p",
+          "x": "Gemini Intelligence is now available on Pixel 10 devices, bringing new capabilities like Rambler, personalized suggestions, and taking care of multi-step tasks — like placing your morning coffee order. Rambler can automatically remove filler words like “um,” and format your thoughts into clear, polished text."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Pixel_10_Pro_Gemini_Intelligence.width-1200.format-webp.webp",
+          "cap": "Rambler on Pixel 10 Pro"
+        },
+        {
+          "t": "p",
+          "x": "Gemini can handle multi-step tasks like getting groceries, booking a ride or ordering takeout — now available in Japan, UK, and India. You can also create personalized widgets, like a tracker to follow your monthly spending or a getaway countdown that pulls in flight and reservation details."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Pixel_11_Pro_Create_My_Widget_re.width-1200.format-webp.webp",
+          "cap": "Describe your widget"
+        },
+        {
+          "t": "p",
+          "x": "On the Pixel 11 series, Call Screen gets an upgrade: Gemini asks unknown callers why they're reaching out in a much more conversational manner, with a live transcript on screen. HiLight now supports Google Messages, glowing when a favorite contact messages you while your phone is face down. Pixel Tag is available November 11."
+        }
+      ]
     }
   }
 }

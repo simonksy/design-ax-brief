@@ -1,158 +1,96 @@
 {
-  "date": "2026-11-11",
+  "date": "2026-11-12",
   "section": "medicine",
-  "picks": [
+  "items": [
     {
-      "title": "Google Cloud rolls out Gemini for healthcare",
-      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/google-cloud-rolls-out-gemini-healthcare",
-      "source": "Fierce Healthcare",
+      "title": "Pharmaceutical advertising and drug recommendations by consumer-facing artificial intelligence: a controlled study",
+      "url": "https://www.thelancet.com/journals/landig/article/PIIS2589-7500(26)00137-8/fulltext",
+      "source": "The Lancet Digital Health",
       "tool": "Medicine",
       "accent": "#00897b",
       "motif": "sphere",
-      "rationale": "New launch (cross-section assignment: medicine only): Google's agentic, HIPAA-oriented Gemini platform for providers and health plans, with Northwell, HCA and Optum as US preview partners.",
-      "published_iso": "2026-11-10T11:23:18-05:00",
-      "og_image": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2246672936.jpg?VersionId=AZn1m8lIjRQA5JQfMXNbwPJTuF9F9QrJ",
-      "excerpt": "Google launched Gemini for healthcare, an agentic AI platform built with clinical and health-plan leaders and designed to support HIPAA compliance; US preview partners include Northwell, HCA and Optum."
+      "rationale": "Controlled study shows injected pharma ads steer consumer LLM drug picks while guideline concordance stays high — a patient-safety risk that evades accuracy checks.",
+      "published_iso": "2026-11-10T23:37:16Z",
+      "og_image": null,
+      "excerpt": "Controlled study: injecting pharmaceutical advertising shifted LLM treatment selection toward the promoted drug while guideline concordance stayed high, so the shifts could evade correctness checks; the advertising influence was often undisclosed. (Published date via Crossref; article page blocked.)"
     },
     {
-      "title": "Voice changes may detect worsening heart failure weeks before other symptoms appear",
-      "url": "https://cardiovascularbusiness.com/topics/clinical/heart-failure/voice-changes-may-detect-worsening-heart-failure-weeks-other-symptoms-appear",
-      "source": "Cardiovascular Business",
+      "title": "MDCalc launches a 'rumble strip' for doctors using generative AI tools",
+      "url": "https://www.statnews.com/2026/11/11/mdcalc-launches-crosscover-rumble-strip-for-clinical-ai-chatbots/",
+      "source": "STAT",
       "tool": "Medicine",
       "accent": "#0070f3",
       "motif": "sphere",
-      "rationale": "AHA 2026: AI voice analysis over a phone call flagged worsening heart failure weeks early and beat standard of care, a patient-facing remote-monitoring result distinct from the earlier AHA echo/PARAMOUNT items.",
-      "published_iso": "2026-11-10T20:22:18+00:00",
-      "og_image": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2026-11/william_abraham_explains_how_ai_can_detect_worsening_heart_failure_in_a_phone_call.jpg?h=b6022c96&itok=-COwDmK_",
-      "excerpt": "An AI-powered voice analysis system presented at AHA 2026 flagged worsening heart failure weeks before other symptoms and was much more accurate than the current standard of care."
+      "rationale": "New clinician-facing product launch (CrossCover) that cross-checks medical chatbot answers at the point of care.",
+      "published_iso": "2026-11-11T09:30:00Z",
+      "og_image": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_1577391848-1024x576.jpeg",
+      "excerpt": "MDCalc, a medical reference tool site, is launching CrossCover, a tool meant to help clinicians trust the answers of medical AI chatbots."
     },
     {
-      "title": "Large language models show potential in MRI protocoling",
-      "url": "https://radiologybusiness.com/topics/artificial-intelligence/large-language-models-show-potential-mri-protocoling",
-      "source": "Radiology Business",
-      "tool": "Medicine",
-      "accent": "#7928ca",
-      "motif": "sphere",
-      "rationale": "New analysis: LLMs match radiologists at choosing the right MRI protocol, a concrete radiology workflow task; different study from the 10-14 prostate-MRI detection item it loosely matches.",
-      "published_iso": "2026-11-10T00:10:55+00:00",
-      "og_image": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2023-04/microsoftteams-image_22.png?h=56757225&itok=o575y87t",
-      "excerpt": "A new analysis finds LLMs perform on par with radiologists at selecting the most appropriate MRI protocol for patients."
-    },
-    {
-      "title": "Multi-sequence MRI-based radiomics model for predicting radiotherapy response in thyroid eye disease",
-      "url": "https://www.nature.com/articles/s43856-026-01991-y",
-      "source": "Communications Medicine",
+      "title": "Randomized Evaluation of an Autoimmune Disease Prediction Model — AURA (AUtoimmune Risk Assessment)",
+      "url": "https://ai.nejm.org/doi/full/10.1056/AIoa2600112",
+      "source": "NEJM AI",
       "tool": "Medicine",
       "accent": "#f5a623",
       "motif": "sphere",
-      "rationale": "Peer-reviewed treatment-planning model: MRI radiomics predicts which thyroid eye disease patients will respond to orbital radiotherapy, a named disease and a real treatment decision.",
-      "published_iso": "2026-11-10T13:05:00Z",
-      "og_image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs43856-026-01991-y/MediaObjects/43856_2026_1991_Fig1_HTML.png",
-      "excerpt": "A multi-sequence MRI radiomics model predicts which thyroid eye disease patients will respond to orbital radiotherapy, whose effect varies widely across patients — a treatment-planning use of imaging AI."
+      "rationale": "Randomized deployment of an interpretable model triaging positive-ANA patients for rheumatology referral — RCT-level evidence on a real referral workflow.",
+      "published_iso": "2026-11-06T15:00:51Z",
+      "og_image": "https://ai.nejm.org/cms/asset/fee9f883-230a-4ffb-a1e4-37ec9187c4b8/aioa2600112_f1.jpg",
+      "excerpt": "No evidence-based guidance exists for triaging individuals with positive antinuclear antibody (ANA) tests for rheumatology referral. We developed and deployed an interpretable clinical prediction m..."
     },
     {
-      "title": "FDA seeks input on telesurgery, autonomous robotics",
-      "url": "https://www.medtechdive.com/news/fda-seeks-input-on-telesurgery-autonomous-robotics/874124/",
-      "source": "MedTech Dive",
+      "title": "AI triage algorithms yield varied results in real-world use",
+      "url": "https://www.auntminnie.com/resources/conference/rsna/2026/artificial-intelligence-preview/article/16425184/ai-triage-algorithms-yield-varied-results-in-realworld-use",
+      "source": "AuntMinnie",
+      "tool": "Medicine",
+      "accent": "#7928ca",
+      "motif": "sphere",
+      "rationale": "RSNA 2026 preview: system-wide UW deployment across 742,000+ exams — big turnaround gains for some findings, none for PE and ICH; sobering real-world evidence.",
+      "published_iso": "2026-11-11T12:00:00Z",
+      "og_image": null,
+      "excerpt": "RSNA 2026 preview: University of Washington evaluated staged system-wide deployment of multiple AI triage tools across 742,000+ imaging exams. Turnaround fell 76% for endotracheal tube malposition, 53% for rib fracture and 29% for vessel occlusion, but PE and intracranial hemorrhage saw no improvement."
+    },
+    {
+      "title": "Synthetic data to lower barriers towards equitable artificial intelligence in rapid diagnostic test interpretation",
+      "url": "https://www.nature.com/articles/s41746-026-03380-0",
+      "source": "npj Digital Medicine",
       "tool": "Medicine",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "rationale": "Regulator action: CDRH discussion paper on benefit-risk for autonomous and teleoperated robotic devices (docket FDA-2026-N-13135, comments due Jan. 5, 2027; workshop Dec. 2-3). Enrichment should confirm the autonomy framing carries an AI angle.",
-      "published_iso": "2026-11-09T10:47:04-05:00",
-      "og_image": "https://imgproxy.divecdn.com/SkgPNSy80tEMMPvtkSNoBTWXP3Nuuxp-AcVGYMtaSnA/g:nowe:0:0/c:2451:1384/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9wYXRlbF93aXRoX3BhdGllbnRfb3B0aW1pemVkXzEwMDBfMC5qcGcud2VicA==.webp",
-      "excerpt": "FDA's CDRH released a discussion paper on benefit-risk for robotic medical devices with autonomous or remote teleoperation capabilities (docket FDA-2026-N-13135, comments due Jan. 5, 2027; workshop Dec. 2-3)."
+      "rationale": "SynSight reads HIV and COVID-19 rapid tests at 98-99% accuracy using a model trained on synthetic images — cheaper path to AI diagnostics in low-resource settings.",
+      "published_iso": "2026-11-10T00:00:00Z",
+      "og_image": null,
+      "excerpt": "Rapid diagnostic tests (RDTs) support affordable disease diagnosis. Machine learning (ML) can improve RDT interpretation but often relies on large, proprietary, and costly real-world image libraries. We present SynSight – a ML-enabled RDT segmentation and classification pipeline trained on synthetic data. Validated on HIV (98% sensitivity, 99% specificity) and COVID-19 RDTs (up to 99% accuracy), S"
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.fiercehealthcare.com/ai-and-machine-learning/google-cloud-rolls-out-gemini-healthcare": {
+      "https://www.thelancet.com/journals/landig/article/PIIS2589-7500(26)00137-8/fulltext": {
         "verdict": "new",
-        "nearest": "https://blog.google/innovation-and-ai/technology/health/evaluating-health-ai-at-scale/",
+        "nearest": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/10.1001/jamanetworkopen.2026.41142",
         "new_action": ""
       },
-      "https://cardiovascularbusiness.com/topics/clinical/heart-failure/voice-changes-may-detect-worsening-heart-failure-weeks-other-symptoms-appear": {
+      "https://www.statnews.com/2026/11/11/mdcalc-launches-crosscover-rumble-strip-for-clinical-ai-chatbots/": {
         "verdict": "new",
-        "nearest": "https://cardiovascularbusiness.com/topics/clinical/heart-failure/ai-flags-heart-failure-patients-risk-functional-decline",
+        "nearest": "https://www.healthcaredive.com/news/developers-not-doctors-held-accountable-generative-ai-medical-devices-fda/833738/",
         "new_action": ""
       },
-      "https://radiologybusiness.com/topics/artificial-intelligence/large-language-models-show-potential-mri-protocoling": {
+      "https://ai.nejm.org/doi/full/10.1056/AIoa2600112": {
         "verdict": "new",
-        "nearest": "https://www.auntminnie.com/clinical-news/mri/news/15837355/ai-on-par-with-radiologists-for-finding-prostate-cancer-on-mri",
+        "nearest": "",
         "new_action": ""
       },
-      "https://www.nature.com/articles/s43856-026-01991-y": {
+      "https://www.auntminnie.com/resources/conference/rsna/2026/artificial-intelligence-preview/article/16425184/ai-triage-algorithms-yield-varied-results-in-realworld-use": {
         "verdict": "new",
-        "nearest": "https://www.nature.com/articles/s43856-026-01952-5",
+        "nearest": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/article/15975544/siimcaimi-ai-triaging-for-ich-leads-to-faster-turnaround-times",
         "new_action": ""
       },
-      "https://www.medtechdive.com/news/fda-seeks-input-on-telesurgery-autonomous-robotics/874124/": {
+      "https://www.nature.com/articles/s41746-026-03380-0": {
         "verdict": "new",
-        "nearest": "https://endpoints.news/how-early-efforts-to-build-autonomous-clinical-ai-tools-are-approaching-regulation/",
+        "nearest": "",
         "new_action": ""
       }
     },
-    "note": "Pool 16, no story_dedup drops, no clusters. Dropped as duplicate/running story: Doximity 190 health systems (history_match related to 10-26 Doximity/UpToDate; customer-count update, no new release, earnings-adjacent). Dropped as non-qualifying: STAT 'accurate advice can make us sicker' (opinion), MedCity 'look beyond speed' campaign (advocacy), Endpoints OpenAI head-of-health interview (interview, no new event), Quibim x Microsoft network (distribution deal; also related to 10-14 prostate MRI), OSU x Microsoft partnership (partnership PR, no concrete deployment named), Google AI for Healthcare Professionals certificate (Oct 29, stale and education-only). Not picked on ranking/verification: BMJ ChatGPT death lawsuit (body unverified, no image, possible overlap with politics liability coverage), NEJM AI AURA RCT, JAMA Netw Open AI-in-trials, npj SynSight (all gated/no og_image). MRI-protocoling history_match (10-14 prostate MRI, related) is a different study and task. FDA telesurgery is a new CDRH release, distinct from the 11-10 Endpoints ADVOCATE/FDA-meetings story. Gemini for healthcare is assigned to medicine by the cross-section brief. published_urls.json could not be exact-grepped (Read-only tools); none of the picks is a cross-section assignment conflict."
-  },
-  "items": [
-    {
-      "title": "Google Cloud rolls out Gemini for healthcare",
-      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/google-cloud-rolls-out-gemini-healthcare",
-      "source": "Fierce Healthcare",
-      "tool": "Medicine",
-      "accent": "#00897b",
-      "motif": "sphere",
-      "rationale": "New launch (cross-section assignment: medicine only): Google's agentic, HIPAA-oriented Gemini platform for providers and health plans, with Northwell, HCA and Optum as US preview partners.",
-      "published_iso": "2026-11-10T11:23:18-05:00",
-      "og_image": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2246672936.jpg?VersionId=AZn1m8lIjRQA5JQfMXNbwPJTuF9F9QrJ",
-      "excerpt": "Google launched Gemini for healthcare, an agentic AI platform built with clinical and health-plan leaders and designed to support HIPAA compliance; US preview partners include Northwell, HCA and Optum."
-    },
-    {
-      "title": "Voice changes may detect worsening heart failure weeks before other symptoms appear",
-      "url": "https://cardiovascularbusiness.com/topics/clinical/heart-failure/voice-changes-may-detect-worsening-heart-failure-weeks-other-symptoms-appear",
-      "source": "Cardiovascular Business",
-      "tool": "Medicine",
-      "accent": "#0070f3",
-      "motif": "sphere",
-      "rationale": "AHA 2026: AI voice analysis over a phone call flagged worsening heart failure weeks early and beat standard of care, a patient-facing remote-monitoring result distinct from the earlier AHA echo/PARAMOUNT items.",
-      "published_iso": "2026-11-10T20:22:18+00:00",
-      "og_image": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2026-11/william_abraham_explains_how_ai_can_detect_worsening_heart_failure_in_a_phone_call.jpg?h=b6022c96&itok=-COwDmK_",
-      "excerpt": "An AI-powered voice analysis system presented at AHA 2026 flagged worsening heart failure weeks before other symptoms and was much more accurate than the current standard of care."
-    },
-    {
-      "title": "Large language models show potential in MRI protocoling",
-      "url": "https://radiologybusiness.com/topics/artificial-intelligence/large-language-models-show-potential-mri-protocoling",
-      "source": "Radiology Business",
-      "tool": "Medicine",
-      "accent": "#7928ca",
-      "motif": "sphere",
-      "rationale": "New analysis: LLMs match radiologists at choosing the right MRI protocol, a concrete radiology workflow task; different study from the 10-14 prostate-MRI detection item it loosely matches.",
-      "published_iso": "2026-11-10T00:10:55+00:00",
-      "og_image": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2023-04/microsoftteams-image_22.png?h=56757225&itok=o575y87t",
-      "excerpt": "A new analysis finds LLMs perform on par with radiologists at selecting the most appropriate MRI protocol for patients."
-    },
-    {
-      "title": "Multi-sequence MRI-based radiomics model for predicting radiotherapy response in thyroid eye disease",
-      "url": "https://www.nature.com/articles/s43856-026-01991-y",
-      "source": "Communications Medicine",
-      "tool": "Medicine",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "rationale": "Peer-reviewed treatment-planning model: MRI radiomics predicts which thyroid eye disease patients will respond to orbital radiotherapy, a named disease and a real treatment decision.",
-      "published_iso": "2026-11-10T13:05:00Z",
-      "og_image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs43856-026-01991-y/MediaObjects/43856_2026_1991_Fig1_HTML.png",
-      "excerpt": "A multi-sequence MRI radiomics model predicts which thyroid eye disease patients will respond to orbital radiotherapy, whose effect varies widely across patients — a treatment-planning use of imaging AI."
-    },
-    {
-      "title": "FDA seeks input on telesurgery, autonomous robotics",
-      "url": "https://www.medtechdive.com/news/fda-seeks-input-on-telesurgery-autonomous-robotics/874124/",
-      "source": "MedTech Dive",
-      "tool": "Medicine",
-      "accent": "#2ec5c5",
-      "motif": "sphere",
-      "rationale": "Regulator action: CDRH discussion paper on benefit-risk for autonomous and teleoperated robotic devices (docket FDA-2026-N-13135, comments due Jan. 5, 2027; workshop Dec. 2-3). Enrichment should confirm the autonomy framing carries an AI angle.",
-      "published_iso": "2026-11-09T10:47:04-05:00",
-      "og_image": "https://imgproxy.divecdn.com/SkgPNSy80tEMMPvtkSNoBTWXP3Nuuxp-AcVGYMtaSnA/g:nowe:0:0/c:2451:1384/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9wYXRlbF93aXRoX3BhdGllbnRfb3B0aW1pemVkXzEwMDBfMC5qcGcud2VicA==.webp",
-      "excerpt": "FDA's CDRH released a discussion paper on benefit-risk for robotic medical devices with autonomous or remote teleoperation capabilities (docket FDA-2026-N-13135, comments due Jan. 5, 2027; workshop Dec. 2-3)."
-    }
-  ]
+    "note": "No candidate is a repeat of a published medicine story. Lancet pharma-ad study is a distinct new study from the 11-06 JAMA silent-manipulation and 11-03 drug-name-convergence papers. UW triage (RSNA preview) is a different study from the 10-28 SIIM-CAIMI ICH triage card. Not picked (not duplicates): Doximity 190 health systems (business-expansion item, running Doximity story 10-26/10-30, no new clinical release beyond those), STAT 11-05 chatbot/HIPAA (analysis, older), WIRED teen Gemini suicide (allegation/school-monitoring story closer to politics/gadgets, cross-section risk), AuntMinnie stroke-outcomes and PE-worklist RSNA previews (left out to keep outlet diversity), JAMA Netw Open AI-in-trials (page blocked, details unverified)."
+  }
 }

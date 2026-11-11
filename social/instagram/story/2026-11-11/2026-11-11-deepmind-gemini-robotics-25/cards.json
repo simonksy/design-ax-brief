@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "issue": "DeepMind 공개 Gemini 로보틱스2.5",
+    "date": "2026.11.11",
+    "section": "GADGETS",
+    "accent": "#ff5a4d",
+    "note": "자동 초안. 썸네일은 초안이라 겹친다 — 올리기로 정하면 원문을 받아 숫자를 확인하고 글을 다시 쓰면서 stat·quote 로 장을 세운다.",
+    "sources": [
+      "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/"
+    ]
+  },
+  "cards": [
+    {
+      "kind": "cover",
+      "eyebrow": "AI × 가젯 · 2026.11.11",
+      "headline": "DeepMind 공개 Gemini…",
+      "body": "Google DeepMind가 AI-powered 플랫폼 Gemini Robotics의 새 세대를 내놓았다. 새 모델은 200가지가…",
+      "foot": "밀어서 보기 →",
+      "video": "pipeline/media/deepmind-gemini-robotics-25.mp4",
+      "dur": 4,
+      "n": 1
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "무슨 일인가",
+      "headline": "DeepMind 공개 Gemini…",
+      "body": "Gemini Robotics 2.5는 이전 버전보다 성공률이 대체로 30~100퍼센트 높고, 속도도 20~30퍼센트 빠르다.…",
+      "foot": "2026.11.11",
+      "video": "pipeline/media/deepmind-gemini-robotics-25.mp4",
+      "start": 4,
+      "dur": 4,
+      "n": 2
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "어떻게 되는가",
+      "headline": "DeepMind 공개 Gemini…",
+      "body": "ASIMOV-Jailbreak는 로봇 AI를 속여 위험한 행동을 끌어내려고 만든 프롬프트 1,500개짜리 오픈소스 데이터베이스다.…",
+      "foot": "2026.11.11",
+      "video": "pipeline/media/deepmind-gemini-robotics-25.mp4",
+      "n": 3
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "짚을 대목",
+      "headline": "DeepMind 공개 Gemini…",
+      "body": "Gemini Robotics 2.5는 일부 작업에서 성공률을 최대 두 배로 올렸다.",
+      "foot": "2026.11.11",
+      "video": "pipeline/media/deepmind-gemini-robotics-25.mp4",
+      "n": 4
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "그래서 지금",
+      "headline": "DeepMind 공개 Gemini…",
+      "body": "Gemini Robotics 2.5는 일부 작업에서 성공률을 최대 두 배로 올렸다.",
+      "foot": "2026.11.11",
+      "video": "pipeline/media/deepmind-gemini-robotics-25.mp4",
+      "n": 5
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

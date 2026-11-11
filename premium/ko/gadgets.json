@@ -16943,6 +16943,154 @@
           "x": "CAIM1은 CPU와 센서를 진동 없이 식히려고 Noctua와 손잡고 NF-A4x10 능동 냉각 시스템을 넣었다. 4K 영상을 찍고 액션 스포츠를 겨냥하며, 렌즈를 직접 골라 끼우는 Bring-Your-Own-Lens 설계를 택했다."
         }
       ]
+    },
+    "gadgets/bluephone-pixel10-agent-os": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2025/09/google-pixel-10-pro-screen-on-home-screen-scaled.jpg",
+          "cap": "화면이 켜진 Google Pixel 10 Pro를 손에 든 모습. 홈 화면이 보인다."
+        },
+        {
+          "t": "p",
+          "x": "Y Combinator가 투자한 스타트업 Blue가 새 Blue Phone 공개 베타를 열었다. 스마트폰 경험 한가운데에 AI 어시스턴트를 둔 제품이다. 폰을 처음부터 새로 만들지 않고 Google Pixel 10 Pro와 Pixel 10 Pro XL을 바탕으로 삼았으며, 두 기기 모두 Blue OS로 돌아간다. Blue OS는 AI 어시스턴트가 여러 앱을 오가며 사용자 대신 일을 처리하도록 손본 Android 버전이다."
+        },
+        {
+          "t": "p",
+          "x": "몇 달 전 영수증 찾기, 사기 전 가격 비교, 뜻밖의 청구에 이의 제기 같은 일을 Blue가 대신 맡는다. 요청 여러 개를 한꺼번에 처리하기도 한다."
+        },
+        {
+          "t": "video",
+          "yt": "mrTgV4U_wI4"
+        },
+        {
+          "t": "p",
+          "x": "편하게 말한 생각을 제대로 다듬은 메시지로 바꿔 주는 음성 받아쓰기도 들어 있다. 개인정보 걱정을 덜려고 Blue는 비밀번호 같은 민감한 정보를 암호화된 Vault에 넣어 두며, OS 자체도 광고 추적을 기본으로 막는 보안 중심 오픈소스 Android 버전 위에 올렸다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Screenshot-2026-11-11-at-8.01.19-PM.png",
+          "cap": "iPhone에서 Pixel 10 Pro 기반 Blue Phone으로"
+        },
+        {
+          "t": "p",
+          "x": "Blue Phone 가격은 $1,299인데, 산 뒤 30일 안에 쓰던 iPhone을 회사로 보내면 공짜다. Blue 무제한 이용 석 달이 딸려 오고, US 배송은 11월과 12월로 잡혀 있다. 회사는 자체 스마트폰도 따로 만들고 있다. 2027년 세 번째 분기에 나올 예정이며, 전액 환불되는 $100를 내면 예약할 수 있다."
+        }
+      ]
+    },
+    "gadgets/deepx-dxm1-butter-demo": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/ZgC56W69q8WA6rhcBjxWKn-1920-80.jpg",
+          "cap": "DEEPX의 칩 위 버터 발열 시연"
+        },
+        {
+          "t": "p",
+          "x": "최근 CNBC가 소개한 한국 칩 스타트업 DEEPX가 유제품을 쓴 별난 발열 벤치마크로 DX-M1 프로세서가 열을 적게 낸다는 걸 보여 줬다. 경쟁 칩에 올린 버터 덩어리는 몇 초 만에 지글거렸지만 DEEPX 칩 위 버터는 굳은 모양 그대로였다."
+        },
+        {
+          "t": "p",
+          "x": "데이터센터 발열을 두고 DEEPX가 내놓는 해법은 간단하다. “AI 칩 자체를 더 시원하게 돌리는 것”이다. 이름을 밝히지 않은 경쟁 AI 칩과 나란히 놓고 한 시험에서 DX-M1 NPU는 눈에 띄게 시원했다. DEEPX CEO Kim Nok-won은 경쟁 제품보다 온도가 섭씨 25도에서 40도 이상 낮다고 주장하며 칩들이 “같은 AI 워크로드를 처리했고… 마지막 칩 [DX-M1]을 빼고 모든 칩이 버터를 녹였다”고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "Tom's Hardware는 이 비교에 큰 허점이 있다고 꼬집는다. 가장 큰 구멍은 각 프로세서가 시험 워크로드를 얼마나 빨리 끝내느냐다. 전력과 클럭만 낮추면 어떤 칩이든 시원하게 돌릴 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "DX-M1은 2025년 8월부터 Samsung 5nm 공정에서 나오고 있고, 약 $13.3M 규모의 주문을 따냈다. 차세대 DX-M2는 Samsung 2nm 기반으로 H2 2027 양산이 목표다. 이들 NPUs는 엣지 컴퓨팅과 로보틱스를 겨냥한 칩으로 보여 전력을 많이 먹는 Nvidia 데이터센터 GPUs와 맞붙지 않는다. 버터 시험이 “다소 엉뚱한 미끼”라는 평가가 나오는 이유다."
+        }
+      ]
+    },
+    "gadgets/gigabyte-aitop-aero-spark": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/gigabyte-ai-top-aero-nvidia-rtx-spark.jpg",
+          "cap": "Gigabyte AI Top Aero — Nvidia RTX Spark와 128 GB 통합 메모리를 갖춘 한 리터 크기의 AI 데스크톱."
+        },
+        {
+          "t": "p",
+          "x": "Gigabyte가 미니 PC AI Top Aero를 내놓았다. 로컬 AI 개발과 콘텐츠 제작, 나중에는 게임까지 염두에 둔 제품이다. Nvidia RTX Spark 플랫폼을 얹어 약 한 리터 부피의 섀시에 Nvidia Blackwell GPU와 Arm-based Grace CPU를 함께 넣었다."
+        },
+        {
+          "t": "p",
+          "x": "RTX Spark N1X Superchip 하나에 20-core Grace CPU와 CUDA 코어 6,144개짜리 Blackwell RTX GPU가 들어간다. 구성에 따라 최대 128 GB LPDDR5X 통합 메모리와 최대 4 TB PCIe 5.0 SSD를 고를 수 있다. Nvidia가 내세우는 FP4 AI 성능은 최대 1 페타플롭으로, 클라우드 서비스에 기대지 않고 AI 모델을 로컬에서 돌리는 수준이다."
+        },
+        {
+          "t": "p",
+          "x": "“Personal AI Studio”를 내건 이 제품은 LM Studio, Ollama, Nvidia Nemotron 모델을 지원한다. 모델을 만들고 파인튜닝하고 돌리는 CUDA, 로컬 네트워크의 여러 기기로 추론을 나눠 보내는 Nvidia PAIR(Personal AI Router)도 쓸 수 있다. DLSS 5 게임도 돌아가지만 RTX Spark 첫 리뷰에서는 일부 게임이 실행되지 않거나 충돌했다는 보고가 나왔다."
+        },
+        {
+          "t": "p",
+          "x": "단자는 USB Type-C, 10 GbE Ethernet, Wi-Fi 7을 갖췄다. AI Top Aero 출시일은 2026년 11월 10일이다. Gigabyte는 가격을 밝히지 않았다. 비슷한 AI Top Atom은 64 GB 메모리와 2 TB SSD 구성이 $4,999부터다."
+        }
+      ]
+    },
+    "gadgets/googlehome-nest-liveview-fix": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2024/04/Voice-controls-from-Nest-Hub-Photo-frame-view.jpg?quality=82&strip=all&w=1600",
+          "cap": "Nest Hub"
+        },
+        {
+          "t": "p",
+          "x": "새 Google Home 업데이트가 풀리고 있다. Nest Cam 기기의 “Live View” 문제를 고치고 Nest Hub를 손봤으며 Gemini도 업그레이드했다."
+        },
+        {
+          "t": "p",
+          "x": "아직 얼리 액세스 단계인 Gemini는 스마트홈 제어가 나아졌고 타이머와 Broadcasts가 빨라졌으며 “더 대화하듯 자연스러운 음성 피드백”을 낸다. 가장 큰 변화는 Nest Hub 스마트 디스플레이다. 이제 질문하면 “도움이 될 때 관련 이미지”를 함께 띄운다."
+        },
+        {
+          "t": "p",
+          "x": "Google Home 앱에는 “Google Home Premium” 설정 페이지가 생겼다. Nest Thermostats를 여러 대 둔 집을 위한 “Eco Mode Everywhere” 토글, 호환 도어락에 쓰는 Google Wallet의 Home 키도 들어왔다."
+        },
+        {
+          "t": "p",
+          "x": "구형 Nest Cam 기기는 Nest Hello 등에서 생긴 “Live View” 문제가 고쳐진다. 카메라 기록 제어, 일부 연결 환경의 실시간 스트리밍, Nest Cam IQ의 빈 이벤트 미리보기, 카메라 시계 정확도 문제도 함께 손봤다."
+        },
+        {
+          "t": "p",
+          "x": "AI 에이전트 쪽에서는 Google Home MCP 연결로 에이전트가 자동화를 제어하고 “온도조절기, 선풍기, 공기청정기, 로봇청소기, 조명 효과, 주방 가전, EV 충전기, 연기 및 일산화탄소 경보기” 전반에서 새 제어·상태 확인 기능을 쓸 수 있게 됐다. 스마트 스피커 업데이트도 풀리고 있지만 알려진 내용은 많지 않다."
+        }
+      ]
+    },
+    "gadgets/pixel-drop-nov-gemini-intel": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/header_Pixel_drop_image.width-1300.jpg",
+          "cap": "Pixel Drop"
+        },
+        {
+          "t": "p",
+          "x": "11월 Pixel Drop이 나왔다. 기능이 새로 붙거나 넓어져 Pixel 기기를 내게 더 맞게, 더 직관적이고 편하게 쓸 수 있다. 배포는 오늘 시작해 몇 주에 걸쳐 이어진다."
+        },
+        {
+          "t": "p",
+          "x": "Pixel 10 기기에서도 이제 Gemini Intelligence를 쓸 수 있다. Rambler와 맞춤 제안 같은 새 기능이 들어왔고, 아침 커피 주문처럼 여러 단계를 거치는 일도 맡는다. Rambler는 “음” 같은 군말을 알아서 지우고 생각을 깔끔한 글로 다듬어 준다."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Pixel_10_Pro_Gemini_Intelligence.width-1200.format-webp.webp",
+          "cap": "Pixel 10 Pro의 Rambler"
+        },
+        {
+          "t": "p",
+          "x": "장보기, 차량 호출, 음식 포장 주문처럼 여러 단계를 밟는 작업을 Gemini가 처리하는 기능은 이제 일본, 영국, 인도에서도 쓸 수 있다. 위젯도 직접 만든다. 월별 지출을 추적하는 위젯, 항공편과 예약 정보를 불러오는 여행 카운트다운 같은 식이다."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Pixel_11_Pro_Create_My_Widget_re.width-1200.format-webp.webp",
+          "cap": "원하는 위젯을 설명하기"
+        },
+        {
+          "t": "p",
+          "x": "Pixel 11 시리즈의 Call Screen도 좋아졌다. 모르는 번호로 전화가 오면 Gemini가 훨씬 자연스러운 말투로 용건을 묻고, 화면에는 실시간 자막이 뜬다. HiLight는 이제 Google Messages도 지원한다. 휴대폰을 엎어 둔 상태에서 즐겨찾는 연락처의 메시지가 오면 빛으로 알려 준다. Pixel Tag는 11월 11일 나온다."
+        }
+      ]
     }
   }
 }

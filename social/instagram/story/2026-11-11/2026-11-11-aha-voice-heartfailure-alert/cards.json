@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "issue": "AI 음성 분석, 심부전 몇 주 먼저 감지",
+    "date": "2026.11.11",
+    "section": "MEDICINE",
+    "accent": "#00897b",
+    "note": "자동 초안. 썸네일은 초안이라 겹친다 — 올리기로 정하면 원문을 받아 숫자를 확인하고 글을 다시 쓰면서 stat·quote 로 장을 세운다.",
+    "sources": [
+      "https://cardiovascularbusiness.com/topics/clinical/heart-failure/voice-changes-may-detect-worsening-heart-failure-weeks-other-symptoms-appear"
+    ]
+  },
+  "cards": [
+    {
+      "kind": "cover",
+      "eyebrow": "AI × 의료 · 2026.11.11",
+      "headline": "AI 음성 분석, 심부전 몇 주 먼저 감지",
+      "body": "스마트폰으로 쓰는 인공지능(AI) 음성 분석 시스템이 심부전 증상 악화를 세 주 넘게 미리 잡아내 표준 진료를 크게 따돌렸다.…",
+      "foot": "밀어서 보기 →",
+      "video": "pipeline/media/aha-voice-heartfailure-alert.mp4",
+      "dur": 4,
+      "n": 1
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "무슨 일인가",
+      "headline": "AI 음성 분석, 심부전 몇 주 먼저 감지",
+      "body": "DETECT-HF는 외래 심부전 환자 563명에게 Cordio Medical의 HearO 시스템을 적용해 평가했다. 시스템은 주요…",
+      "foot": "2026.11.11",
+      "video": "pipeline/media/aha-voice-heartfailure-alert.mp4",
+      "start": 4,
+      "dur": 4,
+      "n": 2
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "어떻게 되는가",
+      "headline": "AI 음성 분석, 심부전 몇 주 먼저 감지",
+      "body": "HearO는 환자가 매일 정해진 여섯 문장을 말하면 억양과 호흡 패턴 같은 음향 특성을 분석한다. AI 알고리즘이 환자마다 음성…",
+      "foot": "2026.11.11",
+      "video": "pipeline/media/aha-voice-heartfailure-alert.mp4",
+      "n": 3
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "짚을 대목",
+      "headline": "AI 음성 분석, 심부전 몇 주 먼저 감지",
+      "body": "참여자들은 예정된 녹음의 85%를 마쳤다. 원인을 알 수 없는 알림은 환자당 연 2.65건이었고 기기 관련 이상 사례는 보고되지…",
+      "foot": "2026.11.11",
+      "video": "pipeline/media/aha-voice-heartfailure-alert.mp4",
+      "n": 4
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "그래서 지금",
+      "headline": "AI 음성 분석, 심부전 몇 주 먼저 감지",
+      "body": "AHA 2026서 AI 음성 분석이 심부전 악화를 표준 진료보다 수주 먼저 잡았다.",
+      "foot": "2026.11.11",
+      "video": "pipeline/media/aha-voice-heartfailure-alert.mp4",
+      "n": 5
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

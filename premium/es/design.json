@@ -11477,6 +11477,130 @@
           "x": "Diode fabricó las tres placas directamente a partir de los archivos de diseño de Claude. Los dispositivos siguen siendo prototipos: no han pasado por validación eléctrica, ajuste de antena, pruebas térmicas ni certificación."
         }
       ]
+    },
+    "design/artstation-ai-art-policy": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Cuando KitBash compró ArtStation, se comprometió a atender la preocupación de los usuarios por la avalancha de contenido de IA. En septiembre activó por defecto 'NoAI' en las subidas. Ahora, una nueva actualización intenta controlar el contenido de IA generativa e incorpora declaraciones de IA más completas y más control sobre el filtrado, con una respuesta dividida entre los artistas hasta el momento."
+        },
+        {
+          "t": "p",
+          "x": "Al publicar, se pedirá a los usuarios que declaren si usaron IA generativa: principalmente IA generativa, una mezcla de IA generativa y métodos no generativos, o 100% no generativo. Un canal específico permite denunciar obras que parezcan AI-generated pero no estén etiquetadas; ArtStation afirma que cada denuncia ayudará a mejorar su filtrado de IA."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/9wsbfUqLD4Ez98e9dWE9wn-1200-80.jpg",
+          "cap": "(Crédito de imagen: ArtStation)"
+        },
+        {
+          "t": "p",
+          "x": "Los usuarios pueden ocultar el contenido declarado como IA generativa y elegir con qué intensidad las denuncias filtran las obras: 'Strict', 'Balanced' o 'Loose'. Por defecto se ocultan los proyectos declarados como AI-generated o etiquetados con 'CreatedwithAI', y la IA sospechosa se fija en strict."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/A4CeER4pysFPNYhTJpJ64o-1200-80.jpg",
+          "cap": "(Crédito de imagen: ArtStation)"
+        },
+        {
+          "t": "p",
+          "x": "Depender de la moderación de los usuarios implica que parte de la obra con IA puede pasar inadvertida, mientras que el filtrado 'Strict' podría eliminar trabajos identificados por error como IA, y aún no está claro si los artistas pueden impugnar una marca. Como algunos consideran inevitable la IA generativa en el arte conceptual, KitBash probablemente ve su prohibición como contraproducente, si no imposible."
+        }
+      ]
+    },
+    "design/siemens-hyperlynx-agents": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Siemens ha anunciado HyperLynx Agentic Toolkit, una solución de IA agéntica pensada para ayudar a los ingenieros de sistemas electrónicos a automatizar flujos de verificación, revisar resultados de simulación y apoyar decisiones de diseño."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/11/Fig-1-Siemens-adds-agentic-AI-to-HyperLynx-verification-workflows.avif",
+          "cap": "HyperLynx Agentic Toolkit muestra una simulación DDR5 con máscara de ojo de cumplimiento"
+        },
+        {
+          "t": "p",
+          "x": "A medida que las velocidades de los sistemas pasan a 112G y 224G, los márgenes más estrechos, la presión por llegar al mercado y la escasez de ingenieros de verificación sénior pueden retrasar los problemas de integridad de señal hasta el final del ciclo de diseño. Basado en HyperLynx, el kit combina agentes de IA específicos del dominio con simulación de integridad de señal y de alimentación (SI/PI) basada en la física. Los ingenieros definen los objetivos de verificación en lenguaje natural, mientras un agente orquestador coordina agentes especializados en análisis SerDes, DDR, de integridad de señal y de integridad de alimentación, que ejecutan simulaciones, extraen parámetros, revisan resultados y comparan el rendimiento con los márgenes de diseño."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/11/Fig-2-Siemens-adds-agentic-AI-to-HyperLynx-verification-workflows.avif",
+          "cap": "Gráfico de dispersión de altura frente a anchura de ojo para dos alternativas de diseño con señalización PAM4"
+        },
+        {
+          "t": "p",
+          "x": "El kit sigue a Questa One Agentic Toolkit y se apoya en Fuse EDA AI Agent e Intelligence Center X. Está previsto un acceso anticipado para clientes seleccionados en el cuarto trimestre de 2026, seguido de la disponibilidad general."
+        }
+      ]
+    },
+    "design/uxc-design-system-ai-prototyping": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/0*GVeuczf4PnCJn95b.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Christine Vallaure vio cómo varios equipos conectaban su sistema de diseño a un constructor de IA, obtenían una pantalla de aspecto terminado y luego veían a un desarrollador rehacerla desde cero. Constructores como Lovable, Bolt y Claude Design leen tu sistema de diseño y después crean su propia versión, normalmente sobre shadcn y Tailwind. «Insistir más en el prompt no lo arreglará… Los componentes no son reales»."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/0*FsGZw7cGpPc5iRkF.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Hacen falta dos piezas: un manifiesto —el nombre, el propósito, las propiedades, los valores permitidos y los valores por defecto de cada componente, generado a partir del código— y una conexión MCP para que el agente pregunte qué existe en lugar de adivinar."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/0*czCuIU3dfQCnhtuQ.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Hay dos vías: el complemento Storybook MCP (Storybook 10 o posterior, con el manifiesto de componentes activado), que en la prueba de Storybook usó un 27% menos de tokens y terminó casi tres veces más rápido; o un MCP de sistema de diseño propio, creado por un equipo con ingenieros. Los prototipos viven en una rama de diseño que nunca se fusiona, y las ideas aceptadas se reconstruyen en una rama de funcionalidad."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/0*YUHz6rnoOzIZqavV.jpeg"
+        }
+      ]
+    },
+    "design/config-india-freshworks-code": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "3EbdkzGwL7c"
+        },
+        {
+          "t": "p",
+          "x": "¿Qué ocurre cuando los diseñadores pueden publicar código más rápido de lo que los equipos pueden juzgar las ideas que hay detrás? Sascha Trinkaus cuenta cómo Freshworks está conectando su sistema de diseño con herramientas de IA y preparando los flujos de ingeniería para que los diseñadores aporten código de producción. Explora cómo la evidencia del mercado y los comentarios de los clientes afinan las ideas antes de prototipar, y cómo los diseñadores llevan su criterio hasta el producto. Junto a Kaushal Cavale, de Ingeniería, analiza qué hace falta para que esto funcione entre disciplinas, dónde importa el juicio humano y qué siguen resolviendo."
+        }
+      ]
+    },
+    "design/adobe-max26-creative-agent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://news.adobe.com/news/2026/11/media_194f62215cc674a3099d1a6f6b08199d16183a1ba.jpg?width=1200&format=pjpg&optimize=medium"
+        },
+        {
+          "t": "p",
+          "x": "Hoy, en Adobe MAX en Miami Beach, Adobe anunció nuevos agentes y herramientas en Adobe Firefly, Creative Cloud y Adobe GenStudio. Adobe amplía Adobe Creative Agent, un socio al que los creativos pueden dirigir con sus propias palabras, a Creative Cloud y Adobe Firefly para que puedan delegar tareas complejas de varios pasos (multi-step)."
+        },
+        {
+          "t": "p",
+          "x": "Adobe también presenta en vista previa integraciones MCP locales que permitirán a los profesionales creativos dirigir a los agentes de terceros (third-party) que ya usan para hacer cambios en sus archivos de proyecto nativos de Photoshop, Illustrator, Premiere y After Effects, con capas, secuencias y composiciones que siguen siendo editables. Creative Agent impulsa los AI Assistants (beta) ampliados en Illustrator, Premiere, InDesign, After Effects y Frame.io."
+        },
+        {
+          "t": "p",
+          "x": "Firefly se convierte en un estudio creativo de AI que combina las herramientas de Adobe con modelos de Adobe, Topaz Labs y socios como ByteDance, Google, Kling, OpenAI y ElevenLabs. Entre las novedades están los agentes always-on (preview), Firefly Design (beta), Firefly Graph (beta) y Firefly Builder (private beta), que convierte ideas en prototipos interactivos y on-brand mediante lenguaje natural, sin necesidad de código."
+        },
+        {
+          "t": "p",
+          "x": "Para empresas, CX Enterprise Coworker llega a GenStudio. Adobe también profundizó sus alianzas con Google y Microsoft, sobre la base de sus conectores con Anthropic y OpenAI."
+        }
+      ]
     }
   }
 }
