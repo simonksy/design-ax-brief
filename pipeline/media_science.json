@@ -1,7 +1,31 @@
-{"date":"2026-11-12","section":"science","media":[
-{"id":"alphagenome2-celltype-variants","type":"image","src":"pipeline/media/alphagenome2-celltype-variants.jpg"},
-{"id":"physicsworld-metasurface-colour-router","type":"image","src":"pipeline/media/physicsworld-metasurface-colour-router.jpg"},
-{"id":"yangmills-proof-gross-panel","type":"image","src":"pipeline/media/yangmills-proof-gross-panel.jpg"},
-{"id":"cornell-fish-schooling-ml","type":"video","src":"pipeline/media/cornell-fish-schooling-ml.mp4","poster":"pipeline/media/cornell-fish-schooling-ml.jpg"},
-{"id":"psypost-ai-whiteness-study","type":"image","src":"pipeline/media/psypost-ai-whiteness-study.jpg"}
-]}
+{
+  "date": "2026-11-13",
+  "section": "science",
+  "media": [
+    {
+      "id": "science-m87-ml-reanalysis",
+      "type": "image",
+      "src": "pipeline/media/science-m87-ml-reanalysis.jpg"
+    },
+    {
+      "id": "wharton-chatgpt-ideation-study",
+      "type": "image",
+      "src": "pipeline/media/wharton-chatgpt-ideation-study.jpg"
+    },
+    {
+      "id": "harvard-ai-peer-review-blind",
+      "type": "image",
+      "src": "pipeline/media/harvard-ai-peer-review-blind.jpg"
+    },
+    {
+      "id": "mit-climate-emulator-unrealistic",
+      "type": "image",
+      "src": "pipeline/media/mit-climate-emulator-unrealistic.jpg"
+    },
+    {
+      "id": "qctrl-quantware-coldstart",
+      "type": "image",
+      "src": "pipeline/media/qctrl-quantware-coldstart.png"
+    }
+  ]
+}

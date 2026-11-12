@@ -10855,6 +10855,143 @@
           "x": "“Usar agentes de AI para traducir código en producción a teoremas válidos de Lean es un gran avance”, dijo el CTO de Signal, Ehren Kret. DeepMind está publicando como código abierto sus artefactos de verificación formal."
         }
       ]
+    },
+    "science/wharton-chatgpt-ideation-study": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/using-ai-for-creative.jpg",
+          "cap": "Proporción de relatos de cada género cuando los participantes escribieron sin AI y cuando escribieron con ChatGPT bajo tres diseños de colaboración. Crédito: Kartik Hosanagar y Daehwan Ahn, a partir de datos de Hosanagar & Ahn, PNAS Nexus (2026)."
+        },
+        {
+          "t": "p",
+          "x": "Un estudio experimental sobre distintas formas de trabajar con AI en una tarea creativa concluye que preservar la participación humana en las primeras decisiones creativas puede ayudar a las organizaciones a equilibrar eficiencia, calidad y satisfacción."
+        },
+        {
+          "t": "p",
+          "x": "Kartik Hosanagar y Daehwan Ahn pidieron a 285 estudiantes de una asignatura optativa sobre tecnologías emergentes que escribieran un relato de 1,000 palabras. En la siguiente clase, los mismos estudiantes usaron ChatGPT 3.5 para escribir un relato con uno de tres enfoques. Los resultados se publicaron en la revista PNAS Nexus."
+        },
+        {
+          "t": "p",
+          "x": "En la condición “Human Confirmation”, la AI hizo todo el trabajo —generar ideas, esbozar, redactar y editar— y los humanos solo aprobaron los resultados. En la condición “Human Creativity”, los humanos generaron ideas, eligieron un concepto y esbozaron el relato, y después la AI lo redactó y editó. En la condición “Copilot”, los participantes podían usar el apoyo de la AI en cualquier etapa del proceso creativo."
+        },
+        {
+          "t": "p",
+          "x": "Con ayuda de la AI, los relatos se escribieron un 36.2% más rápido. Al ser leídos por lectores humanos, los relatos escritos con el enfoque Human Confirmation se calificaron con menor calidad que los escritos solo por humanos, pero tanto los de Human Creativity como los de Copilot se calificaron con mayor calidad que los solo humanos. Los grupos Human Creativity y Copilot también declararon mayores niveles de satisfacción."
+        },
+        {
+          "t": "p",
+          "x": "Los participantes señalaron que los relatos de la AI carecían de profundidad emocional, originalidad y matices. Según los autores, el diseño de la colaboración influye en los equilibrios entre productividad, diversidad creativa y satisfacción humana en el trabajo AI-assisted."
+        }
+      ]
+    },
+    "science/harvard-ai-peer-review-blind": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.psypost.org/wp-content/uploads/2026/04/artificial-intelligence4.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "Un documento de trabajo de Gary King y Steven Worthington, de Harvard, informa que en comparaciones ciegas evaluadas por un modelo de AI y por exeditores de revistas, las revisiones por pares AI-written de artículos inéditos ganaron la gran mayoría de los enfrentamientos y contenían alrededor de una tercera parte de la tasa de afirmaciones incorrectas. El artículo aún no ha pasado por revisión por pares."
+        },
+        {
+          "t": "p",
+          "x": "La referencia humana provino de rapidPeer, un servicio de Harvard previo al envío que paga bien a expertos externos: 124 manuscritos y 134 revisiones humanas recopiladas entre 2019 y 2026. Para cada manuscrito, Claude Opus 4.8 de Anthropic escribió una revisión; GPT-5.5 de OpenAI actuó como juez de AI independiente, y tres exeditores de revistas destacadas evaluaron 10 pares elegidos al azar."
+        },
+        {
+          "t": "p",
+          "x": "El juez de AI prefirió la revisión de AI en el 100% de los pares decididos (132 de 132), y los exeditores, sin conocer la autoría, la prefirieron en el 87% de sus juicios (26 de 30). Las revisiones de AI Web-enabled contenían cero fuentes inventadas, y el 5.5% de sus afirmaciones se consideró incorrecto, frente al 15.9% en las revisiones humanas."
+        },
+        {
+          "t": "p",
+          "x": "Expertos externos advirtieron que el estudio midió la calidad de la retroalimentación constructiva, no si la AI puede juzgar qué artículos merecen publicarse, y los autores alertan de que una dependencia generalizada de la AI podría volver más uniforme la literatura científica."
+        }
+      ]
+    },
+    "science/mit-climate-emulator-unrealistic": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://news.mit.edu/sites/default/files/images/202611/MIT-Climate-Emulation-01.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "Investigadores del MIT han desarrollado una técnica que agiliza la producción de modelos de inteligencia artificial rápidos, fiables y adaptables para la predicción climática. Estos emuladores climáticos pueden simular con rapidez los efectos de las actividades humanas sobre el clima futuro y se ejecutan en cuestión de segundos."
+        },
+        {
+          "t": "p",
+          "x": "La técnica de entrenamiento mejora el rendimiento y la adaptabilidad de un emulador climático usando solo una fracción de los datos que suelen requerirse. Un emulador entrenado con una cantidad mucho menor de datos sintéticos cuidadosamente seleccionados predice con precisión los resultados de escenarios que no vio durante el entrenamiento, mientras que los emuladores tradicionales no lograron adaptarse a situaciones nuevas. La investigación aparece en Proceedings of the National Academy of Sciences."
+        },
+        {
+          "t": "p",
+          "x": "Los emuladores suelen entrenarse con entre seis y ocho escenarios futuros realistas, cada uno ejecutado en un modelo del sistema terrestre a escala completa. El algoritmo del MIT, en cambio, genera escenarios sintéticos optimizados, de modo que un usuario solo tendría que ejecutar ese modelo una vez. “Nuestro algoritmo puede generar escenarios extraños que no se parecen en nada a un futuro realista, pero no nos importa demasiado que los escenarios de entrenamiento sean realistas”, afirma Womack, autor principal del artículo."
+        },
+        {
+          "t": "p",
+          "x": "Los datos de emisiones resultantes contienen variaciones rápidas en lugar de trayectorias suaves. Un emulador entrenado de esta manera puede captar los efectos de las políticas locales de control de contaminantes; los emuladores tradicionales que evaluaron no superaron esta prueba."
+        }
+      ]
+    },
+    "science/qctrl-quantware-coldstart": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/11/image-71.png",
+          "cap": "Fidelidades de puerta tras una puesta en marcha totalmente autónoma de un QuantWare Contralto-D21."
+        },
+        {
+          "t": "p",
+          "x": "El proveedor de software de infraestructura cuántica Q-CTRL ha publicado datos de evaluación de hardware que demuestran la puesta en marcha desde arranque en frío y la calibración de puertas totalmente autónomas en procesadores superconductores QuantWare D-Line mediante su plataforma de control Boulder Opal. Validada en un dispositivo QuantWare Contralto-D21 de 21 cúbits, la máquina de estados de AI basada en la física ajustó bloques de línea de alimentación de cinco cúbits desde un estado sin calibrar hasta fidelidades de puerta operativas en menos de tres horas, sin intervención manual de especialistas."
+        },
+        {
+          "t": "p",
+          "x": "Resultados: tiempo de puesta en marcha en frío <3 horas por línea de alimentación de 5 cúbits; fidelidad de puerta de un cúbit 99.95% de mediana (puertas SX); fidelidad de puerta de dos cúbits >98% en el pico / 96% de mediana del dispositivo (puertas CZ). Hoja de ruta: QuantWare A-Line y recalibración en tiempo de ejecución, soporte para acopladores sintonizables, paralelización de tareas y seguimiento continuo de la deriva a finales de 2026."
+        },
+        {
+          "t": "p",
+          "x": "Escalar los ordenadores cuánticos superconductores supone un grave cuello de botella operativo, porque decenas de parámetros de control interdependientes deben ajustarse de forma iterativa y estabilizarse frente a la deriva ambiental. Las rutinas de calibración convencionales basadas en scripts fallan con frecuencia cuando las frecuencias del hardware se desvían fuera de estrechas ventanas de barrido, lo que obliga a los físicos experimentales a intervenir manualmente."
+        },
+        {
+          "t": "p",
+          "x": "Boulder Opal codifica rutinas de caracterización y calibración específicas de cada arquitectura en una máquina de estados automatizada capaz de detectar anomalías fuera de rango, filtrar resonancias falsas positivas y recuperar de forma autónoma los cúbits de bajo rendimiento."
+        }
+      ]
+    },
+    "science/alphagenome2-celltype-variants": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://lh3.googleusercontent.com/VPOhADdGu1T7kK_gWBiGzyVawQbKCjpL3-B0L0wxpYCyr8cHxviYmo9Hghy4f1laeIo2YKwuz8E07TR9HWWk2b0EONi0uvju-8TDLHX6YWHG4dXe3w=w1200-h630-n-nu-rw"
+        },
+        {
+          "t": "p",
+          "x": "Hoy anunciamos AlphaGenome 2, nuestro modelo de nueva generación que predice cómo las secuencias de DNA y sus variaciones afectan a tipos específicos de células humanas, una nueva y potente herramienta para que los científicos descubran los factores celulares que impulsan la enfermedad."
+        },
+        {
+          "t": "p",
+          "x": "AlphaGenome 2 identifica casi el doble de variantes que alteran la expresión génica en las células en comparación con nuestro anterior modelo de vanguardia. Ya está disponible para investigación no comercial a través de la AlphaGenome API, y en vista previa privada para investigación comercial."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/EUdRzfXXT2oOcMoR/ag1_vs_ag2_expr_cond_gdm_light_no_outline.gif",
+          "cap": "Comparación de cómo AlphaGenome 1 y 2 tratan los tipos celulares."
+        },
+        {
+          "t": "p",
+          "x": "En lugar de predecir en paralelo, AlphaGenome 2 es un modelo condicional que predice los efectos del DNA para una sola condición a la vez, definida como un tejido, un tipo celular o un estado. Se entrenó con datos masivos y de célula única de muestras humanas y de ratón, incluidos más de 107 millones de perfiles celulares individuales."
+        },
+        {
+          "t": "p",
+          "x": "En el conjunto de datos TenK10K, con 28 tipos de células inmunitarias primarias, identificó casi el doble de variantes causales (30% vs. 16%) y de efectos génicos direccionales (43% vs. 23%). También reprodujo computacionalmente el hallazgo de que una variante causa IBD al sobreactivar el gen ETS2 en los macrófagos intestinales."
+        },
+        {
+          "t": "p",
+          "x": "Los científicos pueden cargar una instantánea de RNA-seq de célula única de apenas unas decenas de células para predecir efectos de variantes en nuevos estados celulares sin reentrenar el modelo. AlphaGenome y AlphaGenome 2 están destinados únicamente a la investigación."
+        }
+      ]
     }
   }
 }

@@ -9921,6 +9921,143 @@
           "x": "El tribunal mencionó un libro hallado en la Kalaignar Centenary Library de Madurai que atribuía falsamente su autoría al economista Jean Drèze, y sostuvo que los libros AI-generated (generados con IA) y plagiados podrían encajar en la expresión \"doubtful taste\" de las Tamil Nadu Public Libraries Rules, 1950. El caso se verá de nuevo el 11 de noviembre."
         }
       ]
+    },
+    "books/paizo-feybound-ai-art": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.wargamer.com/wp-content/sites/wargamer/2026/11/pathfinder-feybound-ai-airt.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Feybound, un libro de referencia de Pathfinder publicado el 4 de noviembre, ha recibido críticas por contener supuestamente arte hecho con AI. Las imágenes fueron señaladas por primera vez por fans en Reddit el 10 de noviembre. Paizo dijo a Wargamer que “hemos hablado de las inquietudes planteadas con el artista responsable del arte de Feybound, y el artista niega haber usado AI”."
+        },
+        {
+          "t": "p",
+          "x": "La publicación de Reddit destaca siete ilustraciones como supuesta prueba, y señala columnas de templo sin simetría, arquitectura imposible y animales y personas que se funden entre sí."
+        },
+        {
+          "t": "p",
+          "x": "Tras su investigación, “el director de arte respalda al artista, que ha producido mucho material para Paizo a lo largo de los años”. “Paizo no usa arte de AI en nuestros productos, y todos los artistas firman un contrato que excluye claramente el uso de inteligencia artificial en sus creaciones”, añade la empresa."
+        },
+        {
+          "t": "p",
+          "x": "La política de Paizo viene de lejos: una entrada de blog de 2023 afirmaba que “Paizo no usará trabajo ‘creativo’ generado por AI (AI-generated) de ningún tipo en el futuro previsible”. La empresa agradeció a su comunidad por “hacérnoslo saber” y afirma que “se toma en serio el supuesto uso de productos de AI en nuestro arte”."
+        }
+      ]
+    },
+    "books/hivemind-aurora-translation": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://it.donga.com/media/__sized__/images/2026/11/10/a92622a13a004953-thumbnail-1920x1080-70.jpg",
+          "cap": "Ceremonia de lanzamiento de la promoción 1 de Aurorah Translation Supporters, celebrada por Hivemind el día 1 / Fuente: IT Donga"
+        },
+        {
+          "t": "p",
+          "x": "Hivemind, startup que desarrolla y opera la plataforma global de publicación ‘Aurorah’, celebró el 1 de noviembre la ceremonia de lanzamiento de la promoción 1 de ‘Aurorah Translation Supporters’ y se propuso construir un modelo de colaboración entre la AI y traductores humanos."
+        },
+        {
+          "t": "img",
+          "src": "https://it.donga.com/media/__sized__/images/2026/11/10/45ff4549ef194d0f-thumbnail-1920x1080-70.jpg",
+          "cap": "Kim Dong-wook, CEO de Hivemind / Fuente: IT Donga"
+        },
+        {
+          "t": "p",
+          "x": "El CEO Kim Dong-wook afirmó que “Hivemind nació para presentar excelentes novelas web originales a lectores de todo el mundo reduciendo los costes de traducción con AI”, y añadió que “si se depende solo de la traducción preliminar de AI, el estilo propio del autor y sus matices finos pueden dañarse, por lo que el trabajo humano de localización es imprescindible”."
+        },
+        {
+          "t": "p",
+          "x": "De más de 100 candidatos se seleccionaron 30, asignados a razón de 10 por ámbito lingüístico: inglés, chino y japonés. Durante un mes, los participantes se encargan de localizar las novelas web asignadas, cotejando con el original la 1.ª versión de la traducción generada por AI y corrigiendo el sentido y la expresión."
+        },
+        {
+          "t": "img",
+          "src": "https://it.donga.com/media/__sized__/images/2026/11/10/51ac7a60f92d4de4-thumbnail-1920x1080-70.jpg",
+          "cap": "Ceremonia de lanzamiento de la promoción 1 de Aurorah Translation Supporters, celebrada por Hivemind el día 1 / Fuente: IT Donga"
+        },
+        {
+          "t": "p",
+          "x": "Aurorah gestiona en un solo lugar los datos de ambientación de las obras, los glosarios, las traducciones y el historial de revisiones, y los participantes pueden elegir motores LLM como ChatGPT o Claude. Los motivos y detalles de las correcciones se acumulan en una base de datos y se usan para el control de calidad de la localización y la mejora de los modelos."
+        },
+        {
+          "t": "p",
+          "x": "Hivemind impulsa la expansión internacional de Aurorah con Japón como primer mercado exterior y prevé reclutar nuevas promociones a partir de los resultados de la promoción 1."
+        }
+      ]
+    },
+    "books/scholarlykitchen-ai-user-study": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/DP-20201-001-1024x660.jpg",
+          "cap": "Looking Glass, atribuido a Isaac Platt, 1829–35"
+        },
+        {
+          "t": "p",
+          "x": "En la Charleston Library Conference, a Lisa Janicke Hinchliffe le llamó la atención la frecuencia con que el foco estaba en los chatbots de AI generativa y lo poco que oyó sobre los esfuerzos por entender cómo investigadores y estudiantes interactúan con las herramientas de AI."
+        },
+        {
+          "t": "p",
+          "x": "Las bibliotecas quieren tener agencia en el entorno de AI del campus, pero no gestionan la AI corporativa; las editoriales deciden las condiciones de licencia de AI y qué funciones de AI añadir. “Cuando bibliotecas y editoriales organizan sus estrategias en torno a las herramientas de AI, nadie estudia de forma sistemática a las personas que usan la AI”."
+        },
+        {
+          "t": "p",
+          "x": "Sostiene que ambas pueden ganar agencia en la era de la AI si vuelven a investigar cómo trabajan los usuarios, como hicieron las bibliotecas en la era de las capas de descubrimiento. Una agenda de investigación compartida: qué tareas confían a la AI investigadores y estudiantes, cuándo dejan fuera la AI, cómo verifican los resultados de la AI y qué controles y opciones predeterminadas quieren."
+        },
+        {
+          "t": "p",
+          "x": "Próximos pasos: las bibliotecas deberían estudiar la práctica de la AI en sus comunidades, compartir los hallazgos con los responsables de AI del campus y usarlos para evaluar las funciones de los proveedores; las editoriales deberían consultar a los usuarios sobre las funciones de AI antes de lanzarlas, tratar la investigación de usuarios como un recurso compartido, explicar sus decisiones de diseño e invitar a las bibliotecas a la investigación."
+        }
+      ]
+    },
+    "books/openai-amicus-briefs-map": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/11/Screen-Shot-2026-11-02-at-10.58.57-PM.png"
+        },
+        {
+          "t": "p",
+          "x": "In re OpenAI Copyright Infringement Litigation reúne más de una docena de grandes demandas sobre AI, entre ellas casos presentados por el Authors Guild y varias organizaciones de noticias, incluido el New York Times. El tribunal recibió 51 escritos amicus antes del plazo del 30 de octubre."
+        },
+        {
+          "t": "p",
+          "x": "Los demandantes sostienen que OpenAI infringió derechos al copiar obras para entrenar sus modelos (incluso de fuentes piratas) y que sus resultados también pueden ser infractores; OpenAI replica que copiar para entrenar es uso legítimo (fair use). La última ronda de escritos vence el 6 de noviembre, tras lo cual se fijarán los alegatos orales ante el juez Sidney H. Stein."
+        },
+        {
+          "t": "p",
+          "x": "Exactamente la mitad de los escritos (26) apoya a los demandantes; 18 apoyan a los demandados; ocho son neutrales. Entre quienes respaldan a los demandantes figuran la Association of American Publishers, la Copyright Alliance, Ken Burns, WME, miembros del Congress (Congreso) y PEN America."
+        },
+        {
+          "t": "p",
+          "x": "Del lado de la defensa están Authors Alliance, Kevin Kelly, EFF, Edward Lee y Rebecca Tushnet, y Public Knowledge, muchos de los cuales atacan la teoría de la “dilución del mercado” (market dilution). Los escritos neutrales proceden de Pamela Samuelson y Christopher Sprigman, la Wikimedia Foundation y Matthew Sag."
+        }
+      ]
+    },
+    "books/books-caine-prize-ai-cleared": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ichef.bbci.co.uk/ace/standard/973/cpsprodpb/d560/live/9c22bcf0-ddfe-11f1-8445-15eb55286f71.jpg",
+          "cap": "Simbarashe Kundizeza, que vive en Harare, dice que un poema sobre peceras le inspiró a escribir un relato sobre las dificultades de su familia"
+        },
+        {
+          "t": "p",
+          "x": "El Caine Prize for African Writing ha informado de que, tras una revisión interna, no ha encontrado pruebas de que el escritor zimbabuense Simbarashe Kundizeza usara IA generativa para escribir su relato ganador, y lo ha confirmado como ganador del premio de este año, dotado con £10.000 (13.000 dólares)."
+        },
+        {
+          "t": "p",
+          "x": "La revisión siguió a un artículo de la periodista Vauhini Vara en la revista estadounidense The Atlantic, que afirmaba que el software AI-detection Pangram había mostrado que su relato estaba generado por completo con IA. Kundizeza negó la acusación, que provocó un gran revuelo en redes sociales; algunos escritores africanos sugirieron que este tipo de acusaciones se dirigen sobre todo contra escritores no blancos."
+        },
+        {
+          "t": "p",
+          "x": "«Tras nuestra investigación detallada, creemos que las pruebas son claras: The Blue Fighter fue escrito por un humano», dijo Ellah Wakatama, presidenta del consejo de administración del Caine Prize. La revisión incluyó entrevistas con el autor, el jurado de 2026 y Shallow Tales Review, donde se publicó el relato por primera vez, además de un análisis independiente y experto de los metadatos de los borradores del autor, a cargo de un investigador de ciberseguridad y análisis forense digital."
+        },
+        {
+          "t": "p",
+          "x": "La polémica se suma a las disputas de este año en torno a otros premios literarios, como el Commonwealth Short Story Prize y el Goncourt francés."
+        }
+      ]
     }
   }
 }

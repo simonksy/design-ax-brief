@@ -1,151 +1,196 @@
 {
- "section": "movies",
- "now_iso": "2026-11-11T22:00:41Z",
- "window_hours": 336,
- "items": [
-  {
-   "title": "Hollywood Has Flipped on GenAI, Says 'Avatar' VFX House Weta FX Chief: 'If You Don't Have an AI Strategy, Don't Bother'",
-   "url": "https://variety.com/2026/film/markets-festivals/hollywood-flipped-genai-avatar-vfx-house-weta-fx-1236941070/",
-   "source": "Variety",
-   "category": "movies",
-   "published_iso": "2026-11-06T06:46:06+00:00",
-   "excerpt": "Weta FX CEO Daniel Seah told Taiwan Creative Content Fest that studio legal departments banned generative AI early last year, but by Q3 clients were demanding an AI strategy, mostly to find cost savings.",
-   "og_image": "https://variety.com/wp-content/uploads/2026/11/Sue-Wang-Daniel-Seah.jpg?w=1000&h=563&crop=1"
-  },
-  {
-   "title": "AI Takes Center Stage at Tech-Forward AFM With Innovation Hub and AFM House Expansion",
-   "url": "https://variety.com/2026/digital/news/ai-tech-forward-afm-innovation-hub-afm-house-expansion-1236941553/",
-   "source": "Variety",
-   "category": "movies",
-   "published_iso": "2026-11-10T16:23:00+00:00",
-   "excerpt": "The American Film Market puts AI at the center of this year's edition, with an expanded AFM House and Innovation Hub programming built around AI production tools.",
-   "og_image": "https://variety.com/wp-content/uploads/2026/08/AFM-HOUSE.jpg?w=1000&h=563&crop=1"
-  },
-  {
-   "title": "How Grimes' Cameo in Theater-Bound AI Film 'Gods Don't Give Gifts' Came Together (EXCLUSIVE)",
-   "url": "https://variety.com/2026/film/news/grimes-cameo-ai-film-gods-dont-give-gifts-1236940417/",
-   "source": "Variety",
-   "category": "movies",
-   "published_iso": "2026-11-05T17:00:00+00:00",
-   "excerpt": "Grimes will have a minutes-long cameo in 'Gods Don't Give Gifts,' billed as the first AI-generated feature set to debut in theaters. (Deadline covered the film's AFM sales 10-26; the cameo is the new fact.)",
-   "og_image": "https://variety.com/wp-content/uploads/2026/11/2_Grimes_NoLogo-1.png?w=1000&h=563&crop=1"
-  },
-  {
-   "title": "David Ellison Is Very Bullish On AI's Creative Potential",
-   "url": "https://www.hollywoodreporter.com/business/business-news/david-ellison-bullish-on-ai-creative-potential-1236751250/",
-   "source": "The Hollywood Reporter",
-   "category": "movies",
-   "published_iso": "2026-11-09T23:59:24+00:00",
-   "excerpt": "On his first earnings call running both Paramount and Warner Bros., Skydance CEO David Ellison called AI 'the biggest creative unlock in modern history' while dismissing 'AI slop' - a studio AI-production policy signal.",
-   "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/GettyImages-2271646645.jpg?w=1440&h=810&crop=1"
-  },
-  {
-   "title": "Cinematographers' Favorite Festival Is All About AI This Year - but Artists Still Hate the Tech",
-   "url": "https://www.indiewire.com/news/festivals/camerimage-2026-is-all-about-ai-1235226124/",
-   "source": "IndieWire",
-   "category": "movies",
-   "published_iso": "2026-11-09T12:35:00+00:00",
-   "excerpt": "Camerimage in Torun opened with AI-generated videos and remarks from a robot, while cinematographers on the ground remained hostile to generative tools. (Camerimage opening carded earlier - only use if a concrete new fact.)",
-   "og_image": "https://www.indiewire.com/wp-content/uploads/2026/11/Screen-Shot-2026-11-09-at-9.44.41-AM.png?w=650"
-  },
-  {
-   "title": "Argentina's 'Listen to MEH' Wins $500K Higgsfield AI Film Prize",
-   "url": "https://www.awn.com/news/argentinas-listen-meh-wins-500k-higgsfield-ai-film-prize",
-   "source": "Animation World Network",
-   "category": "movies",
-   "published_iso": "2026-11-10T15:11:45-08:00",
-   "excerpt": "The first fiction short from Argentine AI production company PURGA Studio took Higgsfield's $500K top prize, awarded by a jury including Ed Catmull, Phedon Papamichael, Paul W.S. Anderson and Alex Proyas.",
-   "og_image": "https://www.awn.com/sites/default/files/styles/og_1200/public/image/attached/1081778-listen-meh-purga-studio-1280.jpg?itok=rLWTXtKQ"
-  },
-  {
-   "title": "'Backrooms' Director Kane Parsons Says He's 'Anti-AI': No Artist Needs 'Generative Tools'",
-   "url": "https://www.thewrap.com/creative-content/movies/backrooms-kane-parsons-anti-ai/",
-   "source": "TheWrap",
-   "category": "movies",
-   "published_iso": "2026-11-10T19:28:17+00:00",
-   "excerpt": "Kane Parsons, the YouTube-born director of A24's 'Backrooms,' says no artist needs generative tools and lays out his stance on AI in the creative process.",
-   "og_image": "https://www.thewrap.com/wp-content/uploads/2026/11/Kane-Parsons.jpg"
-  },
-  {
-   "title": "Alex Proyas Takes Over Directing Duties On Antonio Banderas Historical Epic 'Cortés'",
-   "url": "https://deadline.com/2026/11/alex-proyas-direct-antonio-banderas-cortes-movie-1237217523/",
-   "source": "Deadline",
-   "category": "movies",
-   "published_iso": "2026-11-09T19:32:35+00:00",
-   "excerpt": "Alex Proyas replaces Paul Mignot on 'Cortés,' an AI-enabled epic starring Antonio Banderas, written by Nicholas Kazan and co-financed by Utopai Studios and Ex Machina Studios, combining live action with AI-generated environments.",
-   "og_image": "https://deadline.com/wp-content/uploads/2026/11/Alex-Proyas-and-Antonio-Banderas.jpg?w=1024"
-  },
-  {
-   "title": "AI Dubbing Pioneer Flawless Sells Tech To Steven Schuurman Venture",
-   "url": "https://deadline.com/2026/10/flawless-ai-dubbing-sells-technology-1237208379/",
-   "source": "Deadline",
-   "category": "movies",
-   "published_iso": "2026-10-30T09:23:09+00:00",
-   "excerpt": "Flawless, the British company that spent $100M building SAG-AFTRA-endorsed visual-dubbing tech (TrueSync, used on 'Fall'), went into administration and sold its IP to a venture of Elastic founder Steven Schuurman.",
-   "og_image": "https://deadline.com/wp-content/uploads/2023/03/fall-2022-1200-1200-675-675-crop-000000.jpg?w=1024"
-  },
-  {
-   "title": "CAA's Bryan Lourd Discusses AI As Agency Weighs In On NYT Vs. OpenAI Battle",
-   "url": "https://deadline.com/2026/11/bryan-lourd-caa-ai-lawsuit-1237212214/",
-   "source": "Deadline",
-   "category": "movies",
-   "published_iso": "2026-11-03T17:26:49+00:00",
-   "excerpt": "CAA, with major stars on board, weighed in on the New York Times v. OpenAI training-data case, and Bryan Lourd laid out the agency's position on what AI may train on and what it should pay for.",
-   "og_image": "https://deadline.com/wp-content/uploads/2026/11/caa-openai.jpg?w=1024"
-  },
-  {
-   "title": "NFTS, Falmouth University awarded £650,000 from BFI to support industry use of AI, virtual production",
-   "url": "https://www.screendaily.com/news/nfts-falmouth-university-awarded-650000-from-bfi-to-support-industry-use-of-ai-virtual-production/5222296.article",
-   "source": "Screen Daily",
-   "category": "movies",
-   "published_iso": "2026-11-11T14:57:00+00:00",
-   "excerpt": "The BFI Innovation Challenge Fund puts £650K into two programmes, including Falmouth's 'Lab to slate' giving eight UK indie creatives training, tools, legal guidance and ethics frameworks for applying AI in real screen projects.",
-   "og_image": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/0/3/3/1492033_pexelstarawinstead8386440_411690.jpg"
-  },
-  {
-   "title": "ArtStation Adds AI Declarations & Default AI Filtering for Artwork",
-   "url": "https://80.lv/articles/artstation-adds-ai-declarations-default-ai-filtering-for-artwork",
-   "source": "80 Level",
-   "category": "movies",
-   "published_iso": "2026-11-10T06:34:00+00:00",
-   "excerpt": "ArtStation, the portfolio hub for film/game concept and VFX artists, now lets artists label how much generative AI went into a project, report unlabeled work, and filters AI content by default.",
-   "og_image": "https://cdn.80.lv/api/upload/meta/50955/images/6af2bae3631f5/contain_1200x630.jpg"
-  },
-  {
-   "title": "Introducing SwitchX 3.0",
-   "url": "https://beeble.ai/research/switchx-3-0",
-   "source": "Beeble",
-   "category": "movies",
-   "published_iso": "2026-11-10T00:00:00+00:00",
-   "excerpt": "Beeble's production video-to-video compositing model SwitchX 3.0 adds up to four references, moving/dynamic backgrounds, tighter camera tracking and prompt control, rebuilt on MiniMax H3 with Beeble's own dataset. (Off-list vendor source: no allowed outlet had covered it yet; neural relighting keyword.)",
-   "og_image": "https://desktop.beeble.ai/public/landing/cms/images/og/switchx-3-0/ogImage-v2.webp"
-  },
-  {
-   "title": "When Video Becomes an Interface | inside view",
-   "url": "https://www.youtube.com/watch?v=1XV_2WrnZH0",
-   "source": "Runway (YouTube)",
-   "category": "movies",
-   "published_iso": "2026-11-10T08:13:03-08:00",
-   "excerpt": "Inside Runway Labs, designers prototype what real-time video models make possible: select anything on screen to dive deeper with no prompt, resizable videos the model reinterprets, and a drawing app that animates sketches in your own style.",
-   "og_image": "https://i.ytimg.com/vi/1XV_2WrnZH0/maxresdefault.jpg"
-  },
-  {
-   "title": "라이언이 AI 애니로…카카오·오픈AI '그래도, 라이언' 공개",
-   "url": "https://www.yna.co.kr/view/AKR20261110046400017",
-   "source": "연합뉴스",
-   "category": "movies",
-   "published_iso": "2026-11-10T09:48:05+09:00",
-   "excerpt": "카카오가 오픈AI와 기술 협업으로 라이언의 첫 AI 단편 애니메이션 '그래도, 라이언'(약 5분)을 공개했다. 기획·연출 등 사람의 창작 과정에 생성형 AI를 접목했고, 감정선과 맞지 않는 결과물은 반복 재작업했다.",
-   "og_image": "https://img6.yna.co.kr/etc/inner/KR/2026/11/10/AKR20261110046400017_01_i_P4.jpg"
-  },
-  {
-   "title": "최휘영 \"AI 파도, 연대의 방식으로 항로 찾는 영화인에 박수\"",
-   "url": "https://www.yna.co.kr/view/AKR20261106176100005",
-   "source": "연합뉴스",
-   "category": "movies",
-   "published_iso": "2026-11-06T19:09:57+09:00",
-   "excerpt": "최휘영 문체부 장관이 '2026 대한민국예술원 영화전'에서 AI 단편 '확인'을 관람했다. 영화전 주제는 '임권택 없이 임권택 영화 만들기' — 임권택 감독의 연출 문법을 AI가 학습해 새 영상을 만든 실험이다.",
-   "og_image": "https://img5.yna.co.kr/photo/yna/YH/2026/11/06/PYH2026110609630001300_P4.jpg"
-  }
- ]
+  "section": "movies",
+  "now_iso": "2026-11-12T22:03:17Z",
+  "window_hours": 336,
+  "items": [
+    {
+      "title": "Around 10-15 Percent of SAG-AFTRA Membership Wants AI Blocked, CEO Tells Web Summit",
+      "url": "https://www.hollywoodreporter.com/business/business-news/sag-aftra-duncan-crabtree-ireland-web-summit-ai-dan-neely-1236753936/",
+      "source": "The Hollywood Reporter",
+      "category": "movies",
+      "published_iso": "2026-11-12T16:52:42+00:00",
+      "excerpt": "SAG-AFTRA national executive director Duncan Crabtree-Ireland told Web Summit in Lisbon that roughly 10-15% of members want the union to block AI outright and are angry it hasn't, as the guild pursues consent-and-compensation rules for digital replicas instead.",
+      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/FotoJet-2026-11-12T165017.613.jpg?w=1440&h=810&crop=1"
+    },
+    {
+      "title": "Industry Trio Launch Distinkt, AI-Powered Agency for Global Talent (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/news/distinkt-talent-agency-ai-actors-clients-1236946168/",
+      "source": "Variety",
+      "category": "movies",
+      "published_iso": "2026-11-12T17:20:00+00:00",
+      "excerpt": "A group of entertainment veterans have launched Distinkt in Los Angeles, a talent agency powered by AI and aimed at the mass population of unrepresented performers worldwide.",
+      "og_image": "https://variety.com/wp-content/uploads/2026/11/Unknown_a9cd6c.jpeg?w=1000&h=563&crop=1"
+    },
+    {
+      "title": "Adobe Gives Sneak Peek at Real-Time Generative AI Video Editing Feature (Project Live Set)",
+      "url": "https://variety.com/2026/digital/news/adobe-project-live-set-real-time-ai-video-editing-feature-1236943403/",
+      "source": "Variety",
+      "category": "movies",
+      "published_iso": "2026-11-11T14:00:00+00:00",
+      "excerpt": "At Adobe MAX Sneaks, Adobe showed Project Live Set, an experimental AI feature that lets creators generate and edit video while it is playing, in real time.",
+      "og_image": "https://variety.com/wp-content/uploads/2026/11/Adobe-Project-Live-Set.png?w=1000&h=563&crop=1"
+    },
+    {
+      "title": "Adobe MAX 2026 Sneaks: all 10 projects",
+      "url": "https://www.redsharknews.com/adobe-max-2026-sneaks-projects-labs-playground",
+      "source": "RedShark News",
+      "category": "movies",
+      "published_iso": "2026-11-12T12:00:00.000Z",
+      "excerpt": "Adobe showed 10 research projects at MAX 2026 Sneaks; RedShark details each tool, including two that can be tried now in Labs Playground.",
+      "og_image": "https://www.redsharknews.com/hubfs/adobe%20max%202026%20sneaks.jpg"
+    },
+    {
+      "title": "Adobe Firefly adds Build a story and Assemble short video",
+      "url": "https://www.redsharknews.com/adobe-firefly-build-story-assemble-short-video",
+      "source": "RedShark News",
+      "category": "movies",
+      "published_iso": "2026-11-11T15:32:49.000Z",
+      "excerpt": "Adobe Firefly adds two beta workspaces, Build a story and Assemble short video, that take an idea through planned scenes and shots to a finished clip.",
+      "og_image": "https://www.redsharknews.com/hubfs/adobe%20firefly%20video%20editor.jpg"
+    },
+    {
+      "title": "Adobe's AI experiments let you walk around in photos and interview your characters",
+      "url": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
+      "source": "The Verge",
+      "category": "movies",
+      "published_iso": "2026-11-11T14:00:00+00:00",
+      "excerpt": "The Verge rounds up Adobe MAX 2026 Sneaks experiments, including tools to step inside still photos as 3D spaces and to 'interview' generated characters (Project Screen Test).",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Adobe-Project-Screen-Test.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+    },
+    {
+      "title": "CAA and Ogilvy Unveil ECHO AI Celebrity Ad Platform",
+      "url": "https://www.awn.com/news/caa-and-ogilvy-unveil-echo-ai-celebrity-ad-platform",
+      "source": "Animation World Network",
+      "category": "movies",
+      "published_iso": "2026-11-10T12:31:44-08:00",
+      "excerpt": "Ogilvy and CAA launched ECHO, a platform on WPP Open that licenses the digital likeness, voice and IP of opted-in CAA clients and turns a short shoot into a portfolio of AI-generated, media-ready ad assets.",
+      "og_image": "https://www.awn.com/sites/default/files/styles/og_1200/public/image/attached/1081773-video-1280.jpg?itok=YILTubPT"
+    },
+    {
+      "title": "Film Accelerator Open Cities, Run By Ex-Sundance CEO Joana Vicente & Producer Jason Kliot, Reveals First Projects",
+      "url": "https://deadline.com/2026/11/film-accelerator-open-cities-sundance-joana-vicente-reveals-first-projects-ai-1237220246/",
+      "source": "Deadline",
+      "category": "movies",
+      "published_iso": "2026-11-11T15:01:32+00:00",
+      "excerpt": "Open Cities, a tech-oriented film accelerator led by former Sundance CEO Joana Vicente, selected its first 11 projects, backed by partners including Google, Luma AI, Beeble, Cinelytic and Wonder Studios. (AI is in the partner roster, lighter in the body.)",
+      "og_image": "https://deadline.com/wp-content/uploads/2026/11/Joana-Vicent-and-Jason-Kliot-Courtesy-of-Joao-Ramos.jpeg?w=1024"
+    },
+    {
+      "title": "iZotope Intros Photon for AI-Powered Stem Separation and Denoising",
+      "url": "https://postperspective.com/izotope-intros-photon-for-ai-powered-stem-separation-and-denoising/",
+      "source": "postPerspective",
+      "category": "movies",
+      "published_iso": "2026-11-03T17:13:06+00:00",
+      "excerpt": "iZotope introduced Photon, a standalone app and ARA plugin using 12 custom-trained ML models for stem separation and audio/dialogue enhancement, processed locally on the user's GPU.",
+      "og_image": "https://postperspective.com/wp-content/uploads/2026/11/Photon-hero-copy.jpg"
+    },
+    {
+      "title": "iQIYI Launches China's First AI Film Studio in Shanghai, with Inaugural Title \"Cop in Trouble\" in Production",
+      "url": "https://kyodonewsprwire.jp/release/202611029160",
+      "source": "iQIYI (PR Newswire via Kyodo)",
+      "category": "movies",
+      "published_iso": "2026-11-02T13:40:12+09:00",
+      "excerpt": "iQIYI opened a ~110 sq m AI Film Studio at its Shanghai Creative Center that pairs live-action shooting with AI post, syncing on-set footage to its NadouPro platform (Seedance 2.5, Kling 4.0 among ~30 models); internet feature 'Cop in Trouble' began shooting Oct. 28. Off-list press release; no allowed-domain coverage found.",
+      "og_image": "https://kyodonewsprwire.jp/prwfile/release/M107864/202611029160/_prw_OI1fl_6Tkcn7y2.jpg"
+    },
+    {
+      "title": "Saranagati Teaser: Hombale Films Backs AI-Driven Film On ISKCON Founder's Life",
+      "url": "https://www.outlookindia.com/art-entertainment/saranagati-teaser-hombale-films-backs-ai-driven-film-on-iskcon-founders-life",
+      "source": "Outlook India",
+      "category": "movies",
+      "published_iso": "2026-11-10T19:50:54+05:30",
+      "excerpt": "'Kantara' producer Hombale Films unveiled the teaser for Saranagati, a hybrid AI feature using AI motion capture to turn performers into digital characters, set for worldwide release in August 2027. Off-list; no allowed-domain coverage found.",
+      "og_image": "https://cf-images.assettype.com/outlookindia/2026-11-10/ruz1wzp6/Screenshot-2026-11-10-at-19.44.12.png?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100"
+    },
+    {
+      "title": "KBS 3년만의 대하사극 '문무'…AI 전투신 '고거전' 뛰어넘을까",
+      "url": "https://sports.khan.co.kr/article/202611122200006",
+      "source": "스포츠경향",
+      "published_iso": "2026-11-12T22:00:00+09:00",
+      "excerpt": "KBS's 30bn-won historical epic 'Munmu' (premieres Nov. 14) built its three big battles — Jupilsan, Maesoseong, Gibeolpo — with generative AI video; CP Lee Ho says AI tools improved so fast over the 18-month production that they kept swapping in newer models, using AI even more for the tidal-flat Gibeolpo battle.",
+      "og_image": "https://images.khan.co.kr/article/2026/11/12/l_2026111302000044400039133.jpg",
+      "category": "movies"
+    },
+    {
+      "title": "'소년범' 조진웅 불쾌감, 왜 시청자 몫?..최악의 '시그널', 기어코 보낸 tvN",
+      "url": "https://www.starnewskorea.com/star/2026/11/09/2026110811585056910",
+      "source": "스타뉴스",
+      "published_iso": "2026-11-09T06:00:00+09:00",
+      "excerpt": "tvN says it tested AI-based actor replacement and video-tech fixes to remove disgraced actor Cho Jin-woong from 'Signal 2' before deciding to air the series with him anyway — a real-world test case of AI face replacement failing to meet broadcast quality.",
+      "og_image": "https://image.starnewskorea.com/21/2026/11/2026110811585056910_1.jpg",
+      "category": "movies"
+    },
+    {
+      "title": "Blue Eye Samurai Studio Says Netflix Won't Allow It to Use AI: 'We're Not Allowed'",
+      "url": "https://in.ign.com/blue-eye-samurai/276813/blue-eye-samurai-studio-says-netflix-wont-allow-it-to-use-ai-were-not-allowed",
+      "source": "IGN India",
+      "published_iso": "2026-11-12T10:00:00+00:00",
+      "excerpt": "Blue Spirit CCO Charles Beirnaert told TCCF Taipei the French studio is barred from using AI on its Netflix projects including Blue Eye Samurai; it has asked Netflix at what stage AI might be allowed and the answer has consistently been no.",
+      "og_image": "https://sm.ign.com/t/ign_in/news/n/netflix-co/netflix-confirms-blue-eye-samurai-will-end-with-third-and-fi_w1st.1200.jpg",
+      "category": "movies"
+    },
+    {
+      "title": "Chinese actress Zhao Liying's lawsuit spotlights AI misuse as experts urge stronger oversight",
+      "url": "https://www.globaltimes.cn/page/202611/1374182.shtml",
+      "source": "Global Times",
+      "published_iso": "2026-11-12T22:45:00+08:00",
+      "excerpt": "Zhao Liying has sued the operator of ByteDance's Hongguo Short Drama platform and Douyin over AI face-swapped use of her likeness in short dramas (reported claim 810,000 yuan), the highest-profile star case yet against AI-generated micro-drama production.",
+      "og_image": "https://www.globaltimes.cn/Portals/0/attachment/2026/2026-11-12/085e211b-5d72-44f7-ae9e-b0b47769c971.jpeg",
+      "category": "movies"
+    },
+    {
+      "title": "Labels required for AI-made dramas",
+      "url": "https://www.chinadaily.com.cn/a/202611/11/WS6af3bb72e4b03ebf8519bac6.html",
+      "source": "China Daily",
+      "published_iso": "2026-11-11T08:48:49+08:00",
+      "excerpt": "China's NRTA issued rules bringing AI-generated short dramas under unified national oversight for the first time, alongside live-action short dramas, including mandatory AI-content labelling. (Check vs. earlier NRTA crackdown coverage 11-05..11-10 — only new if these are the formal rules.)",
+      "og_image": "http://img2.chinadaily.com.cn/images/202611/11/6af425f9e4b03ebf74636b1a.png",
+      "category": "movies"
+    },
+    {
+      "title": "Lei Lei's Hybrid Doc 'Vertigo Garden,' About a Botanist's AI-Replicated Memories, Lands at Asian Shadows Ahead of IDFA Bow",
+      "url": "https://variety.com/2026/film/news/lei-lei-hybrid-doc-vertigo-garden-asian-shadows-idfa-1236945987/",
+      "source": "Variety",
+      "published_iso": "2026-11-12T11:07:25+00:00",
+      "excerpt": "Animator Lei Lei's hybrid doc reconstructs a preserved botanist's memories with AI; he describes training AI to generate footage of the same location again and again and cutting the results into a flickering effect likened to Rose Lowder. Asian Shadows takes sales ahead of IDFA.",
+      "og_image": "https://variety.com/wp-content/uploads/2026/11/Vertigo-Garden.jpg?w=1000&h=563&crop=1",
+      "category": "movies"
+    },
+    {
+      "title": "덱스터, AI VFX로 미디어아트 확장…'플래시백 계림' 전시",
+      "url": "https://zdnet.co.kr/view/?no=20261112133150",
+      "source": "지디넷코리아",
+      "published_iso": "2026-11-12T13:40:01+09:00",
+      "excerpt": "Korean VFX house Dexter Studios used its AI-based VFX pipeline to re-composite subsidiary Flashbackground's immersive media-art piece 'Flashback Gyerim' for a large exhibition space at AI Content Festival 2026.",
+      "og_image": "https://image.zdnet.co.kr/2026/11/12/1766270f78eb3f78e26f3b66b2676292.jpg",
+      "category": "movies"
+    },
+    {
+      "title": "ByteDance Releases Seedance 2.5 Flash, a Faster Video Model Priced About 34% Below Seedance 2.5",
+      "url": "https://pandaily.com/bytedance-seedance-2-5-flash-faster-lower-cost-video-model-volcano-ark-api",
+      "source": "Pandaily",
+      "published_iso": "2026-11-12T08:39:30+00:00",
+      "excerpt": "Volcano Engine's Seedance 2.5 Flash generates video twice as fast as Seedance 2.5 at about 0.99 yuan/sec at 720p (~34% cheaper); API access opens on Volcano Ark Nov. 15. (Published time from outlet RSS pubDate; page has no meta date.)",
+      "og_image": "https://cms-image.pandaily.com/1/seedance_96adab67c5.png",
+      "category": "movies"
+    },
+    {
+      "title": "Hollywood warned young screenwriters about AI. Now it may be their ticket in",
+      "url": "https://www.yahoo.com/entertainment/movies/articles/hollywood-warned-young-screenwriters-ai-110000462.html",
+      "source": "Los Angeles Times (via Yahoo)",
+      "published_iso": "2026-11-11T11:00:00Z",
+      "excerpt": "LA film-school educators are teaching emerging screenwriters to use generative AI to develop loglines, pitches and visual pitch materials — a shift from strike-era hostility as AI spreads through screenwriting platforms.",
+      "og_image": "https://s.yimg.com/lo/mysterio/api/0fa6a33d933420906a5c682624f5d8aec388caf33b4db641a2bbc01ba02b740f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fla_times_articles_853%2F99966ef363af2d1429f3e4e74692759c.jpg",
+      "category": "movies"
+    },
+    {
+      "title": "「生成AI」は映像業界をどう変えるか？ 金子修介監督らが語るAIと映画の関係性",
+      "url": "https://cyzo.jp/culture/post_420632/",
+      "source": "日刊サイゾー",
+      "published_iso": "2026-11-11T12:00:46+09:00",
+      "excerpt": "Gamera/Death Note director Shusuke Kaneko's new film '2126年、海の星をさがして' (opens Nov. 13) used generative AI from Smoothie Studio for its in-film game world and Shanghai/Busan pitch scenes to fit budget and schedule; he is now developing an actor-free, fully gen-AI tokusatsu project for streaming.",
+      "og_image": "https://cyzo.jp/wp-content/uploads/2026/11/20261109-cyzoonline-news-aimovie-pic08.jpg",
+      "category": "movies"
+    }
+  ]
 }

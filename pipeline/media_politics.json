@@ -1,32 +1,7 @@
-{
- "date": "2026-11-12",
- "section": "politics",
- "media": [
-  {
-   "id": "bessent-uschina-ai-hotline",
-   "type": "image",
-   "src": "pipeline/media/bessent-uschina-ai-hotline.jpg"
-  },
-  {
-   "id": "raise-act-ny-portal",
-   "type": "video",
-   "src": "pipeline/media/raise-act-ny-portal.mp4",
-   "poster": "pipeline/media/raise-act-ny-portal.jpg"
-  },
-  {
-   "id": "chinatalk-rl-environments",
-   "type": "image",
-   "src": "pipeline/media/chinatalk-rl-environments.jpg"
-  },
-  {
-   "id": "finland-estonia-ai-incidents",
-   "type": "image",
-   "src": "pipeline/media/finland-estonia-ai-incidents.jpg"
-  },
-  {
-   "id": "thailand-datacenter-rules",
-   "type": "image",
-   "src": "pipeline/media/thailand-datacenter-rules.jpg"
-  }
- ]
-}
+{"date":"2026-11-13","section":"politics","media":[
+{"id":"advocacy-suit-halt-ai-labs","type":"image","src":"pipeline/media/advocacy-suit-halt-ai-labs.jpg"},
+{"id":"uk-norway-ai-intent-statement","type":"image","src":"pipeline/media/uk-norway-ai-intent-statement.png"},
+{"id":"bis-ai-chip-sea-license-rule","type":"image","src":"pipeline/media/bis-ai-chip-sea-license-rule.jpg"},
+{"id":"eu-ombudsman-snabe-ai-envoy","type":"image","src":"pipeline/media/eu-ombudsman-snabe-ai-envoy.jpg"},
+{"id":"taiwan-cib-election-deepfakes","type":"image","src":"pipeline/media/taiwan-cib-election-deepfakes.jpg"}
+]}

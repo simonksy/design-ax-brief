@@ -10416,6 +10416,143 @@
           "x": "Signal CTO Ehren Kret表示：“用AI智能体把线上代码转化为有效的Lean定理，是一项重大突破。”DeepMind正在开源其形式化验证成果。"
         }
       ]
+    },
+    "science/wharton-chatgpt-ideation-study": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/using-ai-for-creative.jpg",
+          "cap": "参与者在不使用AI写作，以及在三种协作设计下与ChatGPT一起写作时，各类型故事所占比例。图片来源：Kartik Hosanagar和Daehwan Ahn，数据来自Hosanagar & Ahn, PNAS Nexus (2026)。"
+        },
+        {
+          "t": "p",
+          "x": "一项比较在创意任务中与AI协作的多种方式的实验研究发现，在早期创意决策中保留人的参与，有助于组织在效率、质量和满意度之间取得平衡。"
+        },
+        {
+          "t": "p",
+          "x": "Kartik Hosanagar和Daehwan Ahn请一门新兴技术选修课上的285名学生写一篇1,000词的故事。下一节课上，同一批学生采用三种方式之一，借助ChatGPT 3.5写故事。研究结果发表在期刊PNAS Nexus上。"
+        },
+        {
+          "t": "p",
+          "x": "在“Human Confirmation”条件下，AI包揽全部工作——构思、列大纲、起草和编辑——人只负责批准输出。在“Human Creativity”条件下，由人提出想法、选定故事概念并列出大纲，再由AI起草和编辑。在“Copilot”条件下，参与者可以在创作过程的任何阶段使用AI辅助。"
+        },
+        {
+          "t": "p",
+          "x": "在AI帮助下，故事的写作速度快了36.2%。由人类读者阅读后，采用Human Confirmation方式写成的故事被评为质量低于纯人工故事，而Human Creativity和Copilot的故事都被评为质量高于纯人工故事。Human Creativity和Copilot两组的满意度也更高。"
+        },
+        {
+          "t": "p",
+          "x": "参与者指出，AI写的故事缺乏情感深度、原创性和细腻之处。作者认为，协作设计会影响AI辅助（AI-assisted）工作中生产力、创意多样性和人的满意度之间的取舍。"
+        }
+      ]
+    },
+    "science/harvard-ai-peer-review-blind": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.psypost.org/wp-content/uploads/2026/04/artificial-intelligence4.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "Harvard的Gary King和Steven Worthington在一篇工作论文中报告，在由AI模型和前期刊编辑评判的盲测比较中，针对未发表论文的AI撰写（AI-written）同行评审赢下了绝大多数对决，错误论断的比例约为人类评审的三分之一。该论文尚未经过同行评审。"
+        },
+        {
+          "t": "p",
+          "x": "人类基准来自rapidPeer——Harvard一项向外部专家支付丰厚报酬的投稿前服务：2019年至2026年间收集的124份稿件和134份人类评审。每份稿件由Anthropic的Claude Opus 4.8撰写评审；OpenAI的GPT-5.5担任独立的AI评委，三位顶级期刊前编辑评判了随机抽取的10组。"
+        },
+        {
+          "t": "p",
+          "x": "AI评委在已判定的组中100%（132组中的132组）偏好AI评审，处于盲测状态的前编辑在87%的判断中（30次中的26次）偏好AI评审。可联网（Web-enabled）的AI评审中虚构来源为零，5.5%的论断被判为错误，而人类评审为15.9%。"
+        },
+        {
+          "t": "p",
+          "x": "外部专家提醒，这项研究衡量的是建设性反馈的质量，而不是AI能否判断哪些论文值得发表；作者也警告，对AI的广泛依赖可能让科学文献变得更加同质化。"
+        }
+      ]
+    },
+    "science/mit-climate-emulator-unrealistic": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://news.mit.edu/sites/default/files/images/202611/MIT-Climate-Emulation-01.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "MIT研究人员开发出一种技术，可简化快速、可信且适应性强的气候预测人工智能模型的生产。这类气候模拟器能迅速模拟人类活动对未来气候的影响，几秒钟即可运行完毕。"
+        },
+        {
+          "t": "p",
+          "x": "这种训练技术只需通常所需数据的一小部分，就能提升气候模拟器的性能和适应性。用数量少得多、经过精心挑选的合成数据训练出的模拟器，能准确预测训练中未见过的情景结果，而传统模拟器无法适应新情况。该研究发表于Proceedings of the National Academy of Sciences。"
+        },
+        {
+          "t": "p",
+          "x": "模拟器通常用六到八个现实的未来情景训练，每个情景都要用完整规模的地球系统模型运行一遍。MIT的算法则生成经过优化的合成情景，因此用户只需运行该模型一次。论文第一作者Womack说：“我们的算法可能会生成一些完全不像现实未来的怪异情景，但我们并不太在意训练情景是否现实。”"
+        },
+        {
+          "t": "p",
+          "x": "由此得到的排放数据包含剧烈变化，而非平滑的轨迹。以这种方式训练的模拟器能够捕捉地方污染物控制政策的效果；研究人员评估的传统模拟器都未能通过这项测试。"
+        }
+      ]
+    },
+    "science/qctrl-quantware-coldstart": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/11/image-71.png",
+          "cap": "QuantWare Contralto-D21完全自主启动后的门保真度。"
+        },
+        {
+          "t": "p",
+          "x": "量子基础设施软件供应商Q-CTRL发布硬件基准数据，展示其利用Boulder Opal控制平台，在QuantWare D-Line超导处理器上实现完全自主的冷启动调试和门校准。在一台21量子比特的QuantWare Contralto-D21设备上验证时，这一融入物理知识的AI状态机在没有专家人工干预的情况下，不到三小时便将五量子比特馈线模块从未校准状态调至可运行的门保真度。"
+        },
+        {
+          "t": "p",
+          "x": "基准：每条5量子比特馈线的冷启动调试时间<3小时；单量子比特门保真度中位数99.95%（SX门）；双量子比特门保真度峰值>98% / 设备中位数96%（CZ门）。后续路线图：2026年末推出QuantWare A-Line支持与运行时重新校准，新增可调耦合器支持、任务并行化和持续漂移跟踪。"
+        },
+        {
+          "t": "p",
+          "x": "扩展超导量子计算机面临严重的运营瓶颈，因为数十个相互依赖的控制参数必须反复调校，并针对环境漂移保持稳定。当硬件频率漂出狭窄的扫描窗口时，传统的脚本化校准流程经常失败，需要实验物理学家手动介入。"
+        },
+        {
+          "t": "p",
+          "x": "Boulder Opal将特定架构的表征与校准流程编码进一个自动化状态机，能够检测超出范围的异常、过滤假阳性共振，并自主恢复表现不佳的量子比特。"
+        }
+      ]
+    },
+    "science/alphagenome2-celltype-variants": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://lh3.googleusercontent.com/VPOhADdGu1T7kK_gWBiGzyVawQbKCjpL3-B0L0wxpYCyr8cHxviYmo9Hghy4f1laeIo2YKwuz8E07TR9HWWk2b0EONi0uvju-8TDLHX6YWHG4dXe3w=w1200-h630-n-nu-rw"
+        },
+        {
+          "t": "p",
+          "x": "今天，我们发布新一代模型AlphaGenome 2。它能预测DNA序列及其变异如何影响特定的人类细胞类型，为科学家揭示疾病的细胞驱动因素提供强大的新工具。"
+        },
+        {
+          "t": "p",
+          "x": "与我们此前最先进的模型相比，AlphaGenome 2识别出的改变细胞基因表达的变异数量接近两倍。该模型即日起通过AlphaGenome API向非商业研究开放，并以非公开预览形式向商业研究提供。"
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/EUdRzfXXT2oOcMoR/ag1_vs_ag2_expr_cond_gdm_light_no_outline.gif",
+          "cap": "AlphaGenome 1与2处理细胞类型方式的对比。"
+        },
+        {
+          "t": "p",
+          "x": "AlphaGenome 2不再并行预测，而是一个条件模型，每次针对一种条件（定义为一种组织、细胞类型或状态）预测DNA效应。它使用来自人类和小鼠样本的批量数据与单细胞数据训练，其中包括超过1.07亿个单细胞图谱。"
+        },
+        {
+          "t": "p",
+          "x": "在包含28种原代免疫细胞类型的TenK10K数据集上，它识别出的因果变异（30% vs. 16%）和方向性基因效应（43% vs. 23%）都接近两倍。它还通过计算重现了一项发现：某个变异通过过度激活肠道巨噬细胞中的ETS2基因而导致IBD。"
+        },
+        {
+          "t": "p",
+          "x": "科学家只需上传来自几十个细胞的单细胞RNA-seq快照，即可在无需重新训练的情况下预测新细胞状态下的变异效应。AlphaGenome与AlphaGenome 2仅供研究使用。"
+        }
+      ]
     }
   }
 }

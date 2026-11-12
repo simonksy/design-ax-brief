@@ -10834,6 +10834,151 @@
           "x": "La Preview se armó en aproximadamente una semana, con un periodo de QA más corto de lo habitual; Epic dice que todavía está \"limpiando parte del código escrito por agentes\". Trae mejoras importantes en scripting con Python y en flujos de trabajo AI-assisted, incluidos Unreal MCP, Unreal Assistant y Unreal Canvas, la herramienta de creación de contenido AI-powered de Epic, además de Lumen World Cache, un mejor culling de Nanite y el regreso de Web como plataforma de destino mediante WebAssembly y WebGPU."
         }
       ]
+    },
+    "games/tencent-ai-gaming-companions": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/b9/images/6af5c6c9f3f7f/widen_1840x0.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Sinceramente, el momento de esta noticia resulta bastante cómico, aunque el concepto en sí no es nuevo. Antes que el gigante tecnológico chino Tencent, Razer ya había presentado AVA, que permite elegir entre varios pequeños compañeros holográficos de IA diseñados para formar parte de la vida diaria, ya sea para trabajar o para jugar."
+        },
+        {
+          "t": "p",
+          "x": "Eciyuan, la nueva aplicación de escritorio de Tencent, está dirigida a jugadores e incluye cuatro compañeros de IA que observan tus partidas y sugieren posibles acciones; además, puedes conversar con ellos cuando quieras. Cada una de las cuatro chicas tiene su propia personalidad, historia, intereses y muestras de voz. Por ejemplo, Shen Lubai es una aspirante a comentarista de esports de 24 años a la que le gustan juegos como Valorant, League of Legends y Counter-Strike. Xia Xia estudia Periodismo y Comunicación, Guiyu parece ser cocinera y a Bella le encanta el surf."
+        },
+        {
+          "t": "p",
+          "x": "Al parecer, se puede seguir conversando con los compañeros de Eciyuan en el móvil e incluso hacer que aparezcan en el escritorio como pequeños personajes o poner fondos de pantalla que combinan con su ropa."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/75/images/6af5c4663e8b4/widen_1840x0.jpg"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/11/images/6af5c46aeedbb/widen_1840x0.jpg"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/12/images/6af5c4724c758/widen_1840x0.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Todavía hay muy poca información sobre Eciyuan y sus compañeros de IA, y aún no se ha anunciado un lanzamiento global. Habrá que ver si las chicas pueden dar consejos útiles en partidas reales. Por ahora, la beta solo está disponible en China."
+        }
+      ]
+    },
+    "games/apex-neural-rendering-framegen": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-30.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Apex Compute ha presentado Apex Neural Rendering (ANR), una suite multiplataforma de renderizado neuronal que, según se informa, ofrece una generación de frames hasta 2.4X más rápida, mejor calidad de imagen y un consumo de memoria de GPU considerablemente menor que la tecnología de NVIDIA. ANR consta de Frame Generation (FG), Super Resolution (SR) y Ray Reconstruction (RR); Frame Generation está disponible actualmente en beta."
+        },
+        {
+          "t": "p",
+          "x": "La compatibilidad abarca las NVIDIA GeForce GTX 16 y RTX 20/30/40/50 Series, las AMD Radeon RX 5000/6000/7000/9000 Series y Steam Deck, y las Intel Arc A-Series y B-Series, en Windows 10/11, Linux y SteamOS, además de un kit de pruebas de Metal para macOS 26."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/ANR-Bench-Numbers.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Según las pruebas internas de Apex Compute, en una GeForce RTX 5090 a 3840×2160, ANR FG necesita 1.01 milisegundos por frame generado en modo 2X, frente a 1.26 ms de NVIDIA DLSS Frame Generation. El uso de memoria de GPU es de 214 MB frente a los 562 MB de NVIDIA en 4K, una reducción de aproximadamente el 62%. Las mediciones publicadas en la RTX 5090 apuntan a mejoras de tiempo de procesamiento más modestas que el 2.4X anunciado, y se refieren al coste de generar frames, no a los FPS reales en juegos."
+        },
+        {
+          "t": "video",
+          "yt": "xhzNx3seocQ"
+        },
+        {
+          "t": "p",
+          "x": "Las mediciones internas de calidad de Apex favorecen a ANR frente a NVIDIA DLSS FG, aunque todavía hacen falta pruebas independientes. La beta se instala mediante OptiScaler desde GitHub; la implementación de generación de frames aún no es de código abierto, y cabe esperar problemas de compatibilidad y artefactos visuales."
+        }
+      ]
+    },
+    "games/ludo-toolbox-coding-agents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://mobidictum.com/wp-content/uploads/2026/03/ludo_ai_logo.png"
+        },
+        {
+          "t": "p",
+          "x": "Ludo.ai anunció Ludo Toolbox, un conjunto de 32 herramientas gratuitas de línea de comandos que proporcionan a agentes de programación como Claude Code, Codex, Cursor, GitHub Copilot y Gemini CLI las medidas y los archivos de motor que necesitan para añadir sprites, imágenes, sonidos y modelos 3D a un juego. Se distribuye dentro de Ludo CLI, de código abierto (MIT), y funciona completamente sin conexión, sin necesidad de cuenta, clave de API ni créditos."
+        },
+        {
+          "t": "p",
+          "x": "La caja de herramientas sustituye las conjeturas de los agentes sobre puntos de anclaje, colisionadores y pixels-per-meter por cifras exactas, devuelve JSON y escribe los archivos propios del motor. Si se le pide configurar un caballero en Unity con el pivote en los pies y una altura de 1.8 metros, el agente encadena tres herramientas; en Godot, Phaser y Box2D se obtienen las mismas cifras."
+        },
+        {
+          "t": "p",
+          "x": "\"Los agentes de programación son muy buenos con el código de juegos, pero todavía calculan el arte a ojo. La caja de herramientas les da las cifras\", afirmó Jorge Gomes, Co-Founder y CTO de Ludo.ai."
+        },
+        {
+          "t": "video",
+          "yt": "4LIIbfU19pc"
+        },
+        {
+          "t": "p",
+          "x": "La caja de herramientas funciona con cualquier recurso, se haya creado con Ludo o no. Ya está disponible en Ludo CLI 0.2.0 y versiones posteriores, que requieren Node.js 20 o superior."
+        }
+      ]
+    },
+    "games/gamesbeat-next-ai-native-games": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/11/AI-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "La mayor oportunidad de la IA en los videojuegos podría ser crear tipos de juegos completamente nuevos que no serían posibles sin ella. Ese fue el tema central de un panel de GamesBeat Next 2026 con Brian Tanner (Artificial Agency), Piero Molino (Studio Atelico) y Jon Snoddy (Operative Games), moderado por Jamil Moledina."
+        },
+        {
+          "t": "p",
+          "x": "Molino señaló que los primeros experimentos con agentes generativos \"necesitan mucha IA, pero en realidad no son juegos\" porque \"no había mordiente ni desafío\". En Operative Games, la conversación es la mecánica central: \"La mecánica del juego es la historia. La mecánica del juego es la conversación\", dijo Snoddy."
+        },
+        {
+          "t": "p",
+          "x": "El panel también abordó la economía en tiempo de ejecución: Tanner describió cómo equilibrar calidad, velocidad y coste, mientras que Molino dijo: \"Si soy diseñador de juegos y sé que hacer una llamada dentro del juego me cuesta cierta cantidad, eso influye en el diseño que puedo hacer\"."
+        },
+        {
+          "t": "p",
+          "x": "Los ponentes vieron potencial en juegos sistémicos de tipo sandbox impulsados por personajes autónomos, y describieron el desarrollo AI-native como un reto tanto de diseño como técnico."
+        }
+      ]
+    },
+    "games/witcher3-geralt-polish-ai-voice": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/11/geralt.jpg",
+          "cap": "CD Projekt Red"
+        },
+        {
+          "t": "p",
+          "x": "El actor de doblaje Jacek Rozenek interpreta a Geralt of Rivia en la versión polaca de The Witcher 3, pero en 2019 sufrió un ictus que le dificultó hablar y le cambió la voz. Para la próxima expansión Songs of the Past, CD Projekt Red decidió recurrir a la AI para ajustar la nueva interpretación de Rozenek a la que hizo para el lanzamiento de 2015."
+        },
+        {
+          "t": "p",
+          "x": "“Creo que esta es una de esas formas en que se puede usar la AI de manera ética, con consentimiento y además para hacer algo bueno”, dijo a Game File el productor de localización Mikołaj Szwed."
+        },
+        {
+          "t": "p",
+          "x": "CDPR trabajó con Respeecher, empresa ucraniana de clonación de voz con AI, que entrena un algoritmo con el trabajo vocal previo de una persona para ajustar nuevas interpretaciones a las originales; los actores, o sus herederos, deben dar su consentimiento. Rozenek grabó más de 10,000 líneas para el juego original. “Lo más difícil fue el rango emocional de Jacek”, dijo Dmytro Vasylets, de Respeecher."
+        },
+        {
+          "t": "p",
+          "x": "CDPR dijo que no planea usar el algoritmo para alterar la voz de Rozenek en el futuro, y el actor confirmó que no ha escuchado a su doble de AI."
+        }
+      ]
     }
   }
 }

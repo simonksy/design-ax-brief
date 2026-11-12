@@ -1,221 +1,227 @@
 {
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "section": "gadgets",
   "cards": [
     {
-      "id": "gemini-carplay-app",
+      "id": "samsung-eyewear-dec-launch",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Gemini 전용 앱이\nApple CarPlay에",
-      "body": "Google Maps로 쓰던 Gemini가 Apple CarPlay 앱으로 온다.",
-      "mini_headline": "CarPlay에 온 Gemini",
+      "headline": "Samsung 스마트 안경\n12월 출시 확정",
+      "body": "Samsung·Gentle Monster 안경이 12월 10일 US·한국에 나온다.",
+      "mini_headline": "Samsung 안경 12월 10일 출시",
       "tool": "Gadgets",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2314093/google-brings-the-gemini-app-to-apple-carplay/",
+      "source": "Samsung Global Newsroom",
+      "url": "https://news.samsung.com/global/samsung-announces-december-release-for-intelligent-eyewear-bringing-a-smarter-way-to-see-the-world",
       "accent": "#ff5a4d",
       "motif": "headset",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.engadget.com/img/gallery/google-brings-the-gemini-app-to-apple-carplay/l-intro-1794426857.jpg",
-            "cap": "Google, Apple CarPlay에 Gemini 앱 출시"
+            "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/11/12152225/Samsung-Mobile-Intelligent-Eyewear-Launch-Gentle-Monster-Warby-Parker_main1.jpg"
           },
           {
             "t": "p",
-            "x": "Google이 Gemini 앱을 Apple CarPlay에 내놓았다. 챗봇을 되도록 많은 화면과 스피커, 경험 곳곳에 심어 피할 수 없게 만들려는 행보의 연장선이다. 오늘부터 Gemini Live가 지원하는 모든 언어로 쓸 수 있다."
+            "x": "Samsung Electronics가 오늘 스마트 안경 전 라인업의 출시 계획을 내놨다. 미국(U.S.)과 한국에서 12월 10일 나오고, 사전 주문은 오늘부터 받는다. Samsung의 모바일 엔지니어링 역량에 Gentle Monster와 Warby Parker의 독특한 디자인 30종을 입혔다. Google과 함께 개발했고 Gemini가 들어 있어, 주변 세상을 파악하고 언어의 벽을 넘어 소통하며 늘 연결된 채로 지내도록 돕는다."
+          },
+          {
+            "t": "img",
+            "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/11/12152250/Samsung-Mobile-Intelligent-Eyewear-Launch-Gentle-Monster-Warby-Parker_main2.jpg",
+            "cap": "다양한 색상으로 나온 Gentle Monster Intelligent Eyewear의 여섯 가지 프레임 디자인"
+          },
+          {
+            "t": "img",
+            "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/11/12152327/Samsung-Mobile-Intelligent-Eyewear-Launch-Gentle-Monster-Warby-Parker_main3.jpg",
+            "cap": "안경과 선글라스 버전으로 나온 Warby Parker Intelligent Eyewear의 세 가지 프레임 디자인"
           },
           {
             "t": "p",
-            "x": "그동안 CarPlay에서 이 AI 어시스턴트를 쓰려면 Google Maps 앱을 거쳐야 했다. 이제는 화면의 Gemini 아이콘만 누르면 된다. Google에 따르면 차 안에서 Gemini와 나누던 대화를 이어 가거나 새 대화를 시작할 수 있다."
+            "x": "무게는 약 41그램이다. 눈앞에 보이는 것을 Gemini에게 묻고, 화이트보드 내용을 요약해 Samsung Notes에 담고, 메뉴를 번역하고, Google Maps의 턴바이턴 길 안내를 받는다. Gemini가 보는 시각 정보는 12MP HDR 카메라가 담당한다. Snapdragon AR1 Gen 1 Platform 덕분에 배터리는 최대 아홉 시간, 충전 케이스를 더하면 최대 72시간 간다. 처리 일부는 분할 컴퓨팅 방식으로 연결된 Galaxy 폰이 맡는다."
           },
           {
             "t": "p",
-            "x": "Google이 제안하는 쓰임새는 출퇴근길 회의 준비, 이메일 확인, Daily Brief 듣기, 근처 가볼 만한 곳 추천 같은 것들이다. 대화는 Gemini iPhone 앱과 동기화돼 채팅 기록에 남는다."
-          },
-          {
-            "t": "p",
-            "x": "CarPlay에서 어시스턴트를 쓰려면 iPhone의 Gemini 앱을 최신 버전으로 유지하고 마이크 권한을 켜 둬야 한다. iPhone에서 Gemini Live를 한 번 이상 써 봤어야 한다는 조건도 붙는다."
-          },
-          {
-            "t": "p",
-            "x": "Android Auto 챗봇에 Personal Assistance(다른 Google 앱의 정보를 끌어와 답을 더 개인에 맞추는 기능)를 켠 지 얼마 안 돼 Gemini 앱이 CarPlay에 들어왔다. Google built-in 차량의 Gemini에도 Personal Intelligence가 들어가고 있다."
+            "x": "두 컬렉션 모두 2026년 12월 10일부터 미국(U.S.)에서 팔리고, Gentle Monster Intelligent Eyewear는 한국에서도 나온다. 미국(U.S.) 가격은 Warby Parker Intelligent Eyewear가 $395부터, Gentle Monster Intelligent Eyewear가 모델에 따라 $449에서 $489 사이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Gemini gets its own app\non Apple CarPlay",
-          "body": "Google is bringing a Gemini app to Apple CarPlay, extending a chatbot that was already reachable via Google Maps.",
-          "mini_headline": "Gemini comes to CarPlay",
+          "headline": "Samsung sets December release\nfor its Intelligent Eyewear",
+          "body": "Samsung's Intelligent Eyewear ships December 10 in the US, with its Gentle Monster frames also launching in Korea.",
+          "mini_headline": "Samsung glasses ship Dec 10",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/google-brings-the-gemini-app-to-apple-carplay/l-intro-1794426857.jpg",
-                "cap": "Google brings the Gemini app to Apple CarPlay"
+                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/11/12152225/Samsung-Mobile-Intelligent-Eyewear-Launch-Gentle-Monster-Warby-Parker_main1.jpg"
               },
               {
                 "t": "p",
-                "x": "Continuing on its apparent quest to ensure the chatbot is inescapable on as many screens, speakers and experiences as possible, Google has brought the Gemini app to Apple CarPlay. It's available starting today for all supported Gemini Live languages."
+                "x": "Samsung Electronics today announced the upcoming launch of the full lineup of intelligent eyewear. Set for release in the U.S. and South Korea on Dec. 10 with pre-orders beginning today, the collection combines Samsung’s mobile engineering expertise with 30 distinctive designs from Gentle Monster and Warby Parker. Developed in collaboration with Google and with Gemini built in, the intelligent eyewear helps users understand the world around them, communicate across languages and stay connected."
+              },
+              {
+                "t": "img",
+                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/11/12152250/Samsung-Mobile-Intelligent-Eyewear-Launch-Gentle-Monster-Warby-Parker_main2.jpg",
+                "cap": "The six frame designs of Gentle Monster Intelligent Eyewear with various colorways"
+              },
+              {
+                "t": "img",
+                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/11/12152327/Samsung-Mobile-Intelligent-Eyewear-Launch-Gentle-Monster-Warby-Parker_main3.jpg",
+                "cap": "The three frame designs of Warby Parker Intelligent Eyewear in optical and sun versions"
               },
               {
                 "t": "p",
-                "x": "Google previously made the AI assistant available on CarPlay through the Google Maps app. Now, you'll be able to access it just by tapping the Gemini icon on your display. Google said you can pick up where you left off with Gemini in your car or start a new conversation with the chatbot."
+                "x": "Weighing around 41 grams, the eyewear lets users ask Gemini about what they see, summarize a whiteboard into Samsung Notes, translate menus and get turn-by-turn directions from Google Maps. A 12MP HDR camera provides visual context for Gemini, and the Snapdragon AR1 Gen 1 Platform delivers up to nine hours of battery life, or up to 72 hours with the charging case. A split-computing system offloads part of the processing to the connected Galaxy phone."
               },
               {
                 "t": "p",
-                "x": "The company suggested drivers could use Gemini to prep for a meeting during their commute, catch up on emails, hear their Daily Brief or get recommendations for local places worth checking out in an area. Your conversations will sync with the Gemini iPhone app and remain in your chat history."
-              },
-              {
-                "t": "p",
-                "x": "To use the assistant on CarPlay, you'll need to make sure you have the latest version of the Gemini app on your iPhone and the microphone permissions are on. You'll need to have used Gemini Live at least once on your iPhone as well."
-              },
-              {
-                "t": "p",
-                "x": "Google brought the Gemini app to CarPlay not long after it enabled Personal Assistance (which can access details from other Google apps for more personalized responses) in the chatbot on Android Auto. The company is bringing Personal Intelligence to Gemini on cars with Google built-in as well."
+                "x": "Both collections will launch in the U.S. beginning Dec. 10, 2026, while Gentle Monster Intelligent Eyewear will also be available in Korea. In the U.S., Warby Parker Intelligent Eyewear will start at $395, while Gentle Monster Intelligent Eyewear will range from $449 to $489, depending on the model."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Gemini 전용 앱이\nApple CarPlay에",
-          "body": "Google Maps로 쓰던 Gemini가 Apple CarPlay 앱으로 온다.",
-          "mini_headline": "CarPlay에 온 Gemini",
+          "headline": "Samsung 스마트 안경\n12월 출시 확정",
+          "body": "Samsung·Gentle Monster 안경이 12월 10일 US·한국에 나온다.",
+          "mini_headline": "Samsung 안경 12월 10일 출시",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/google-brings-the-gemini-app-to-apple-carplay/l-intro-1794426857.jpg",
-                "cap": "Google, Apple CarPlay에 Gemini 앱 출시"
+                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/11/12152225/Samsung-Mobile-Intelligent-Eyewear-Launch-Gentle-Monster-Warby-Parker_main1.jpg"
               },
               {
                 "t": "p",
-                "x": "Google이 Gemini 앱을 Apple CarPlay에 내놓았다. 챗봇을 되도록 많은 화면과 스피커, 경험 곳곳에 심어 피할 수 없게 만들려는 행보의 연장선이다. 오늘부터 Gemini Live가 지원하는 모든 언어로 쓸 수 있다."
+                "x": "Samsung Electronics가 오늘 스마트 안경 전 라인업의 출시 계획을 내놨다. 미국(U.S.)과 한국에서 12월 10일 나오고, 사전 주문은 오늘부터 받는다. Samsung의 모바일 엔지니어링 역량에 Gentle Monster와 Warby Parker의 독특한 디자인 30종을 입혔다. Google과 함께 개발했고 Gemini가 들어 있어, 주변 세상을 파악하고 언어의 벽을 넘어 소통하며 늘 연결된 채로 지내도록 돕는다."
+              },
+              {
+                "t": "img",
+                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/11/12152250/Samsung-Mobile-Intelligent-Eyewear-Launch-Gentle-Monster-Warby-Parker_main2.jpg",
+                "cap": "다양한 색상으로 나온 Gentle Monster Intelligent Eyewear의 여섯 가지 프레임 디자인"
+              },
+              {
+                "t": "img",
+                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/11/12152327/Samsung-Mobile-Intelligent-Eyewear-Launch-Gentle-Monster-Warby-Parker_main3.jpg",
+                "cap": "안경과 선글라스 버전으로 나온 Warby Parker Intelligent Eyewear의 세 가지 프레임 디자인"
               },
               {
                 "t": "p",
-                "x": "그동안 CarPlay에서 이 AI 어시스턴트를 쓰려면 Google Maps 앱을 거쳐야 했다. 이제는 화면의 Gemini 아이콘만 누르면 된다. Google에 따르면 차 안에서 Gemini와 나누던 대화를 이어 가거나 새 대화를 시작할 수 있다."
+                "x": "무게는 약 41그램이다. 눈앞에 보이는 것을 Gemini에게 묻고, 화이트보드 내용을 요약해 Samsung Notes에 담고, 메뉴를 번역하고, Google Maps의 턴바이턴 길 안내를 받는다. Gemini가 보는 시각 정보는 12MP HDR 카메라가 담당한다. Snapdragon AR1 Gen 1 Platform 덕분에 배터리는 최대 아홉 시간, 충전 케이스를 더하면 최대 72시간 간다. 처리 일부는 분할 컴퓨팅 방식으로 연결된 Galaxy 폰이 맡는다."
               },
               {
                 "t": "p",
-                "x": "Google이 제안하는 쓰임새는 출퇴근길 회의 준비, 이메일 확인, Daily Brief 듣기, 근처 가볼 만한 곳 추천 같은 것들이다. 대화는 Gemini iPhone 앱과 동기화돼 채팅 기록에 남는다."
-              },
-              {
-                "t": "p",
-                "x": "CarPlay에서 어시스턴트를 쓰려면 iPhone의 Gemini 앱을 최신 버전으로 유지하고 마이크 권한을 켜 둬야 한다. iPhone에서 Gemini Live를 한 번 이상 써 봤어야 한다는 조건도 붙는다."
-              },
-              {
-                "t": "p",
-                "x": "Android Auto 챗봇에 Personal Assistance(다른 Google 앱의 정보를 끌어와 답을 더 개인에 맞추는 기능)를 켠 지 얼마 안 돼 Gemini 앱이 CarPlay에 들어왔다. Google built-in 차량의 Gemini에도 Personal Intelligence가 들어가고 있다."
+                "x": "두 컬렉션 모두 2026년 12월 10일부터 미국(U.S.)에서 팔리고, Gentle Monster Intelligent Eyewear는 한국에서도 나온다. 미국(U.S.) 가격은 Warby Parker Intelligent Eyewear가 $395부터, Gentle Monster Intelligent Eyewear가 모델에 따라 $449에서 $489 사이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Gemini専用アプリが\nApple CarPlayに",
-          "body": "Google Mapsで使えたGeminiがApple CarPlayのアプリになる。",
-          "mini_headline": "GeminiがCarPlayに登場",
+          "headline": "Samsung AIグラス\n12月発売が決定",
+          "body": "Samsung・Gentle Monsterのグラスは12月10日、USと韓国で発売だ。",
+          "mini_headline": "Samsungグラス、12月10日発売",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/google-brings-the-gemini-app-to-apple-carplay/l-intro-1794426857.jpg",
-                "cap": "GoogleがGeminiアプリをApple CarPlayに投入"
+                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/11/12152225/Samsung-Mobile-Intelligent-Eyewear-Launch-Gentle-Monster-Warby-Parker_main1.jpg"
               },
               {
                 "t": "p",
-                "x": "チャットボットをできるだけ多くの画面、スピーカー、体験から逃れられない存在にしようとする取り組みの一環として、GoogleはGeminiアプリをApple CarPlayに投入した。本日から、Gemini Liveが対応するすべての言語で利用できる。"
+                "x": "Samsung Electronicsは本日、インテリジェントアイウェアのフルラインアップを発売すると発表した。米国（U.S.）と韓国で12月10日に発売され、予約受付は本日始まる。このコレクションは、Samsungのモバイル技術とGentle MonsterおよびWarby Parkerによる30種類の個性的なデザインを組み合わせたものだ。Googleと共同開発し、Geminiを内蔵したこのアイウェアは、周囲の世界の理解、言語を超えたコミュニケーション、つながりの維持を助ける。"
+              },
+              {
+                "t": "img",
+                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/11/12152250/Samsung-Mobile-Intelligent-Eyewear-Launch-Gentle-Monster-Warby-Parker_main2.jpg",
+                "cap": "さまざまなカラーで展開するGentle Monster Intelligent Eyewearの六種類のフレームデザイン"
+              },
+              {
+                "t": "img",
+                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/11/12152327/Samsung-Mobile-Intelligent-Eyewear-Launch-Gentle-Monster-Warby-Parker_main3.jpg",
+                "cap": "度付きとサングラスの両バージョンがあるWarby Parker Intelligent Eyewearの三種類のフレームデザイン"
               },
               {
                 "t": "p",
-                "x": "GoogleはこれまでGoogle Mapsアプリを通じてCarPlayでこのAIアシスタントを使えるようにしていた。今後はディスプレイ上のGeminiアイコンをタップするだけで利用できる。Googleによると、車内でGeminiとの会話を中断したところから再開することも、チャットボットと新しい会話を始めることもできる。"
+                "x": "重さ約41グラムのこのアイウェアでは、見ているものについてGeminiに尋ねる、ホワイトボードの内容を要約してSamsung Notesに残す、メニューを翻訳する、Google Mapsでターンバイターンの道案内を受けるといったことができる。12MP HDRカメラがGeminiに視覚情報を与え、Snapdragon AR1 Gen 1 Platformにより最大九時間、充電ケース併用で最大72時間のバッテリー駆動を実現する。分散処理の仕組みにより、処理の一部は接続したGalaxyスマートフォンが担う。"
               },
               {
                 "t": "p",
-                "x": "同社は、通勤中の会議準備やメールの確認、Daily Briefの聴取、周辺で訪れる価値のある場所の提案などにGeminiを使えるとしている。会話はGeminiのiPhoneアプリと同期され、チャット履歴に残る。"
-              },
-              {
-                "t": "p",
-                "x": "CarPlayでアシスタントを使うには、iPhoneのGeminiアプリを最新版にし、マイクの権限をオンにしておく必要がある。また、iPhoneでGemini Liveを少なくとも一度使っておく必要もある。"
-              },
-              {
-                "t": "p",
-                "x": "GoogleがGeminiアプリをCarPlayに投入したのは、Android AutoのチャットボットでPersonal Assistance(他のGoogleアプリの情報にアクセスし、よりパーソナライズされた回答を返す機能)を有効にして間もなくのことだ。同社はGoogle built-in搭載車のGeminiにもPersonal Intelligenceを導入する。"
+                "x": "両コレクションは2026年12月10日から米国（U.S.）で発売され、Gentle Monster Intelligent Eyewearは韓国でも販売される。米国（U.S.）での価格は、Warby Parker Intelligent Eyewearが$395から、Gentle Monster Intelligent Eyewearがモデルにより$449から$489となる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Gemini独立应用登陆\nApple CarPlay",
-          "body": "Gemini应用登陆Apple CarPlay，此前它可经Google Maps使用。",
-          "mini_headline": "Gemini登陆CarPlay",
+          "headline": "Samsung智能眼镜\n定档12月发售",
+          "body": "Samsung智能眼镜12月10日在US发售，Gentle Monster款也在韩国上市。",
+          "mini_headline": "Samsung眼镜12月10日发售",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/google-brings-the-gemini-app-to-apple-carplay/l-intro-1794426857.jpg",
-                "cap": "Google将Gemini应用带到Apple CarPlay"
+                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/11/12152225/Samsung-Mobile-Intelligent-Eyewear-Launch-Gentle-Monster-Warby-Parker_main1.jpg"
               },
               {
                 "t": "p",
-                "x": "Google似乎决意让这款聊天机器人在尽可能多的屏幕、音箱和体验中无处不在，如今又把Gemini应用带到了Apple CarPlay。该应用即日起在所有Gemini Live支持的语言中可用。"
+                "x": "Samsung Electronics今天宣布即将推出完整的智能眼镜产品线。该系列将于12月10日在美国（U.S.）和韩国发售，预订从今天开始。这一系列结合了Samsung的移动工程专长，以及来自Gentle Monster和Warby Parker的30款独特设计。这款智能眼镜与Google合作开发并内置Gemini，帮助用户理解周围的世界、跨语言交流并保持联系。"
+              },
+              {
+                "t": "img",
+                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/11/12152250/Samsung-Mobile-Intelligent-Eyewear-Launch-Gentle-Monster-Warby-Parker_main2.jpg",
+                "cap": "Gentle Monster Intelligent Eyewear的六款镜框设计，提供多种配色"
+              },
+              {
+                "t": "img",
+                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/11/12152327/Samsung-Mobile-Intelligent-Eyewear-Launch-Gentle-Monster-Warby-Parker_main3.jpg",
+                "cap": "Warby Parker Intelligent Eyewear的三款镜框设计，分光学镜和太阳镜版本"
               },
               {
                 "t": "p",
-                "x": "此前，Google已通过Google Maps应用在CarPlay上提供这款AI助手。现在，只需轻点屏幕上的Gemini图标即可使用。Google表示，你可以在车内接着之前与Gemini的对话继续，也可以与聊天机器人开始新的对话。"
+                "x": "这款眼镜重约41克，用户可以就眼前所见向Gemini提问、把白板内容总结到Samsung Notes、翻译菜单，并通过Google Maps获得逐向导航。12MP HDR摄像头为Gemini提供视觉信息，Snapdragon AR1 Gen 1 Platform带来最长九小时的续航，配合充电盒最长可达72小时。分离式计算系统会把部分处理工作交给已连接的Galaxy手机。"
               },
               {
                 "t": "p",
-                "x": "该公司建议，驾驶者可以在通勤途中用Gemini准备会议、处理邮件、收听Daily Brief，或获取附近值得一去的地点推荐。对话会与Gemini iPhone应用同步，并保留在聊天记录中。"
-              },
-              {
-                "t": "p",
-                "x": "要在CarPlay上使用该助手，需要确保iPhone上的Gemini应用为最新版本，并已开启麦克风权限。此外，还需要至少在iPhone上使用过一次Gemini Live。"
-              },
-              {
-                "t": "p",
-                "x": "不久前，Google刚在Android Auto的聊天机器人中启用Personal Assistance（可调取其他Google应用中的信息，给出更个性化的回答），随后便将Gemini应用带到了CarPlay。该公司还将在搭载Google built-in的汽车上为Gemini引入Personal Intelligence。"
+                "x": "两个系列将于2026年12月10日起在美国（U.S.）发售，Gentle Monster Intelligent Eyewear也将在韩国上市。在美国（U.S.），Warby Parker Intelligent Eyewear起价$395，Gentle Monster Intelligent Eyewear则视型号定价$449至$489。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Gemini estrena su propia app\nen Apple CarPlay",
-          "body": "Google lleva una app de Gemini a Apple CarPlay y amplía un chatbot que ya era accesible a través de Google Maps.",
-          "mini_headline": "Gemini llega a CarPlay",
+          "headline": "Samsung fija para diciembre\nsus Intelligent Eyewear",
+          "body": "Las Intelligent Eyewear de Samsung salen en US el 10 de diciembre, y las Gentle Monster también llegan a Corea.",
+          "mini_headline": "Las gafas de Samsung salen el 10 de diciembre",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/google-brings-the-gemini-app-to-apple-carplay/l-intro-1794426857.jpg",
-                "cap": "Google lleva la app de Gemini a Apple CarPlay"
+                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/11/12152225/Samsung-Mobile-Intelligent-Eyewear-Launch-Gentle-Monster-Warby-Parker_main1.jpg"
               },
               {
                 "t": "p",
-                "x": "En su aparente empeño por que el chatbot resulte ineludible en tantas pantallas, altavoces y experiencias como sea posible, Google ha llevado la app de Gemini a Apple CarPlay. Está disponible desde hoy en todos los idiomas compatibles con Gemini Live."
+                "x": "Samsung Electronics anunció hoy el próximo lanzamiento de la gama completa de gafas inteligentes. Con salida prevista en Estados Unidos (U.S.) y Corea del Sur el 10 de diciembre y reservas abiertas desde hoy, la colección combina la experiencia de Samsung en ingeniería móvil con 30 diseños distintivos de Gentle Monster y Warby Parker. Desarrolladas en colaboración con Google y con Gemini integrado, las gafas ayudan a los usuarios a entender el mundo que los rodea, comunicarse en distintos idiomas y mantenerse conectados."
+              },
+              {
+                "t": "img",
+                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/11/12152250/Samsung-Mobile-Intelligent-Eyewear-Launch-Gentle-Monster-Warby-Parker_main2.jpg",
+                "cap": "Los seis diseños de montura de Gentle Monster Intelligent Eyewear en varias combinaciones de color"
+              },
+              {
+                "t": "img",
+                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/11/12152327/Samsung-Mobile-Intelligent-Eyewear-Launch-Gentle-Monster-Warby-Parker_main3.jpg",
+                "cap": "Los tres diseños de montura de Warby Parker Intelligent Eyewear en versiones graduadas y de sol"
               },
               {
                 "t": "p",
-                "x": "Google ya ofrecía el asistente de AI en CarPlay a través de la app Google Maps. Ahora bastará con tocar el icono de Gemini en la pantalla para acceder a él. Según Google, se puede retomar en el coche una conversación con Gemini donde se dejó o iniciar una nueva con el chatbot."
+                "x": "Con un peso de unos 41 gramos, las gafas permiten preguntar a Gemini sobre lo que se ve, resumir una pizarra en Samsung Notes, traducir menús y recibir indicaciones paso a paso de Google Maps. Una cámara 12MP HDR aporta contexto visual a Gemini, y la Snapdragon AR1 Gen 1 Platform ofrece hasta nueve horas de batería, o hasta 72 horas con el estuche de carga. Un sistema de computación dividida traslada parte del procesamiento al teléfono Galaxy conectado."
               },
               {
                 "t": "p",
-                "x": "La compañía sugirió que los conductores pueden usar Gemini para preparar una reunión durante el trayecto, ponerse al día con el correo, escuchar su Daily Brief u obtener recomendaciones de lugares de la zona que valga la pena visitar. Las conversaciones se sincronizan con la app de Gemini para iPhone y quedan en el historial de chat."
-              },
-              {
-                "t": "p",
-                "x": "Para usar el asistente en CarPlay, hay que tener la versión más reciente de la app de Gemini en el iPhone y los permisos del micrófono activados. También es necesario haber usado Gemini Live al menos una vez en el iPhone."
-              },
-              {
-                "t": "p",
-                "x": "Google llevó la app de Gemini a CarPlay poco después de activar Personal Assistance (que puede acceder a datos de otras apps de Google para dar respuestas más personalizadas) en el chatbot de Android Auto. La compañía también está llevando Personal Intelligence a Gemini en los coches con Google built-in."
+                "x": "Ambas colecciones saldrán a la venta en Estados Unidos (U.S.) a partir del 10 de diciembre de 2026, y Gentle Monster Intelligent Eyewear también estará disponible en Corea. En Estados Unidos (U.S.), Warby Parker Intelligent Eyewear costará desde $395, mientras que Gentle Monster Intelligent Eyewear oscilará entre $449 y $489, según el modelo."
               }
             ]
           }
@@ -223,141 +229,145 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Gemini 전용 앱이\nApple CarPlay에",
-          "body": "Google Maps로 쓰던 Gemini가 Apple CarPlay 앱으로 온다.",
-          "mini_headline": "CarPlay에 온 Gemini",
+          "headline": "Samsung 스마트 안경\n12월 출시 확정",
+          "body": "Samsung·Gentle Monster 안경이 12월 10일 US·한국에 나온다.",
+          "mini_headline": "Samsung 안경 12월 10일 출시",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/google-brings-the-gemini-app-to-apple-carplay/l-intro-1794426857.jpg",
-                "cap": "Google, Apple CarPlay에 Gemini 앱 출시"
+                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/11/12152225/Samsung-Mobile-Intelligent-Eyewear-Launch-Gentle-Monster-Warby-Parker_main1.jpg"
               },
               {
                 "t": "p",
-                "x": "챗봇을 가능한 한 많은 화면과 스피커, 경험 속에서 피할 수 없는 존재로 만들려는 행보를 이어가며, Google이 Gemini 앱을 Apple CarPlay에 내놓았다. 오늘부터 Gemini Live가 지원하는 모든 언어에서 쓸 수 있다."
+                "x": "Samsung Electronics는 오늘 스마트 안경 전 라인업의 출시 계획을 발표했다. 미국(U.S.)과 한국에서 12월 10일 출시되며 사전 주문은 오늘부터 받는다. 이 컬렉션은 Samsung의 모바일 엔지니어링 역량에 Gentle Monster와 Warby Parker의 독특한 디자인 30종을 더했다. Google과 협업해 개발하고 Gemini를 내장한 이 안경은 사용자가 주변 세상을 이해하고, 언어의 벽을 넘어 소통하며, 연결된 상태를 유지하도록 돕는다."
+              },
+              {
+                "t": "img",
+                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/11/12152250/Samsung-Mobile-Intelligent-Eyewear-Launch-Gentle-Monster-Warby-Parker_main2.jpg",
+                "cap": "다양한 색상으로 나온 Gentle Monster Intelligent Eyewear의 여섯 가지 프레임 디자인"
+              },
+              {
+                "t": "img",
+                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/11/12152327/Samsung-Mobile-Intelligent-Eyewear-Launch-Gentle-Monster-Warby-Parker_main3.jpg",
+                "cap": "안경과 선글라스 버전으로 나온 Warby Parker Intelligent Eyewear의 세 가지 프레임 디자인"
               },
               {
                 "t": "p",
-                "x": "Google은 앞서 Google Maps 앱을 통해 CarPlay에서 이 AI 어시스턴트를 쓸 수 있게 했다. 이제는 화면의 Gemini 아이콘을 누르기만 하면 바로 쓸 수 있다. Google은 차 안에서 Gemini와 하던 대화를 이어가거나 챗봇과 새 대화를 시작할 수 있다고 밝혔다."
+                "x": "무게가 약 41그램인 이 안경으로 사용자는 눈앞에 보이는 것을 Gemini에게 묻고, 화이트보드 내용을 요약해 Samsung Notes에 담고, 메뉴를 번역하고, Google Maps의 턴바이턴 길 안내를 받을 수 있다. 12MP HDR 카메라가 Gemini에 시각 정보를 제공하고, Snapdragon AR1 Gen 1 Platform은 최대 아홉 시간, 충전 케이스와 함께 쓰면 최대 72시간의 배터리 사용 시간을 낸다. 분할 컴퓨팅 시스템이 처리의 일부를 연결된 Galaxy 폰에 넘긴다."
               },
               {
                 "t": "p",
-                "x": "회사는 운전자가 출퇴근길에 회의를 준비하거나, 이메일을 확인하거나, Daily Brief를 듣거나, 주변에서 가볼 만한 장소를 추천받는 데 Gemini를 쓸 수 있다고 제안했다. 대화는 Gemini iPhone 앱과 동기화되어 채팅 기록에 남는다."
-              },
-              {
-                "t": "p",
-                "x": "CarPlay에서 어시스턴트를 쓰려면 iPhone의 Gemini 앱을 최신 버전으로 유지하고 마이크 권한을 켜 두어야 한다. 또한 iPhone에서 Gemini Live를 한 번 이상 써 본 적이 있어야 한다."
-              },
-              {
-                "t": "p",
-                "x": "Google은 Android Auto의 챗봇에 Personal Assistance(다른 Google 앱의 정보를 활용해 더 개인화된 답을 내는 기능)를 켠 지 얼마 지나지 않아 Gemini 앱을 CarPlay에 들여왔다. 회사는 Google built-in 차량의 Gemini에도 Personal Intelligence를 도입하고 있다."
+                "x": "두 컬렉션은 2026년 12월 10일부터 미국(U.S.)에서 출시되며, Gentle Monster Intelligent Eyewear는 한국에서도 판매된다. 미국(U.S.)에서 Warby Parker Intelligent Eyewear는 $395부터, Gentle Monster Intelligent Eyewear는 모델에 따라 $449에서 $489 사이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Gemini専用アプリが\nApple CarPlayに",
-          "body": "Google Mapsで使えたGeminiがApple CarPlayのアプリになる。",
-          "mini_headline": "GeminiがCarPlayに登場",
+          "headline": "Samsung AIグラス\n12月発売が決定",
+          "body": "Samsung・Gentle Monsterのグラスは12月10日、USと韓国で発売だ。",
+          "mini_headline": "Samsungグラス、12月10日発売",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/google-brings-the-gemini-app-to-apple-carplay/l-intro-1794426857.jpg",
-                "cap": "GoogleがGeminiアプリをApple CarPlayに投入"
+                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/11/12152225/Samsung-Mobile-Intelligent-Eyewear-Launch-Gentle-Monster-Warby-Parker_main1.jpg"
               },
               {
                 "t": "p",
-                "x": "チャットボットをできるだけ多くの画面、スピーカー、体験から逃れられない存在にしようとする取り組みの一環として、GoogleはGeminiアプリをApple CarPlayに投入した。本日から、Gemini Liveが対応するすべての言語で利用できる。"
+                "x": "Samsung Electronicsは本日、インテリジェントアイウェアのフルラインアップを発売すると発表した。米国（U.S.）と韓国で12月10日に発売され、予約受付は本日始まる。このコレクションは、Samsungのモバイル技術とGentle MonsterおよびWarby Parkerによる30種類の個性的なデザインを組み合わせたものだ。Googleと共同開発し、Geminiを内蔵したこのアイウェアは、周囲の世界の理解、言語を超えたコミュニケーション、つながりの維持を助ける。"
+              },
+              {
+                "t": "img",
+                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/11/12152250/Samsung-Mobile-Intelligent-Eyewear-Launch-Gentle-Monster-Warby-Parker_main2.jpg",
+                "cap": "さまざまなカラーで展開するGentle Monster Intelligent Eyewearの六種類のフレームデザイン"
+              },
+              {
+                "t": "img",
+                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/11/12152327/Samsung-Mobile-Intelligent-Eyewear-Launch-Gentle-Monster-Warby-Parker_main3.jpg",
+                "cap": "度付きとサングラスの両バージョンがあるWarby Parker Intelligent Eyewearの三種類のフレームデザイン"
               },
               {
                 "t": "p",
-                "x": "GoogleはこれまでGoogle Mapsアプリを通じてCarPlayでこのAIアシスタントを使えるようにしていた。今後はディスプレイ上のGeminiアイコンをタップするだけで利用できる。Googleによると、車内でGeminiとの会話を中断したところから再開することも、チャットボットと新しい会話を始めることもできる。"
+                "x": "重さ約41グラムのこのアイウェアでは、見ているものについてGeminiに尋ねる、ホワイトボードの内容を要約してSamsung Notesに残す、メニューを翻訳する、Google Mapsでターンバイターンの道案内を受けるといったことができる。12MP HDRカメラがGeminiに視覚情報を与え、Snapdragon AR1 Gen 1 Platformにより最大九時間、充電ケース併用で最大72時間のバッテリー駆動を実現する。分散処理の仕組みにより、処理の一部は接続したGalaxyスマートフォンが担う。"
               },
               {
                 "t": "p",
-                "x": "同社は、通勤中の会議準備やメールの確認、Daily Briefの聴取、周辺で訪れる価値のある場所の提案などにGeminiを使えるとしている。会話はGeminiのiPhoneアプリと同期され、チャット履歴に残る。"
-              },
-              {
-                "t": "p",
-                "x": "CarPlayでアシスタントを使うには、iPhoneのGeminiアプリを最新版にし、マイクの権限をオンにしておく必要がある。また、iPhoneでGemini Liveを少なくとも一度使っておく必要もある。"
-              },
-              {
-                "t": "p",
-                "x": "GoogleがGeminiアプリをCarPlayに投入したのは、Android AutoのチャットボットでPersonal Assistance(他のGoogleアプリの情報にアクセスし、よりパーソナライズされた回答を返す機能)を有効にして間もなくのことだ。同社はGoogle built-in搭載車のGeminiにもPersonal Intelligenceを導入する。"
+                "x": "両コレクションは2026年12月10日から米国（U.S.）で発売され、Gentle Monster Intelligent Eyewearは韓国でも販売される。米国（U.S.）での価格は、Warby Parker Intelligent Eyewearが$395から、Gentle Monster Intelligent Eyewearがモデルにより$449から$489となる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Gemini独立应用登陆\nApple CarPlay",
-          "body": "Gemini应用登陆Apple CarPlay，此前它可经Google Maps使用。",
-          "mini_headline": "Gemini登陆CarPlay",
+          "headline": "Samsung智能眼镜\n定档12月发售",
+          "body": "Samsung智能眼镜12月10日在US发售，Gentle Monster款也在韩国上市。",
+          "mini_headline": "Samsung眼镜12月10日发售",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/google-brings-the-gemini-app-to-apple-carplay/l-intro-1794426857.jpg",
-                "cap": "Google将Gemini应用带到Apple CarPlay"
+                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/11/12152225/Samsung-Mobile-Intelligent-Eyewear-Launch-Gentle-Monster-Warby-Parker_main1.jpg"
               },
               {
                 "t": "p",
-                "x": "Google似乎决意让这款聊天机器人在尽可能多的屏幕、音箱和体验中无处不在，如今又把Gemini应用带到了Apple CarPlay。该应用即日起在所有Gemini Live支持的语言中可用。"
+                "x": "Samsung Electronics今天宣布即将推出完整的智能眼镜产品线。该系列将于12月10日在美国（U.S.）和韩国发售，预订从今天开始。这一系列结合了Samsung的移动工程专长，以及来自Gentle Monster和Warby Parker的30款独特设计。这款智能眼镜与Google合作开发并内置Gemini，帮助用户理解周围的世界、跨语言交流并保持联系。"
+              },
+              {
+                "t": "img",
+                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/11/12152250/Samsung-Mobile-Intelligent-Eyewear-Launch-Gentle-Monster-Warby-Parker_main2.jpg",
+                "cap": "Gentle Monster Intelligent Eyewear的六款镜框设计，提供多种配色"
+              },
+              {
+                "t": "img",
+                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/11/12152327/Samsung-Mobile-Intelligent-Eyewear-Launch-Gentle-Monster-Warby-Parker_main3.jpg",
+                "cap": "Warby Parker Intelligent Eyewear的三款镜框设计，分光学镜和太阳镜版本"
               },
               {
                 "t": "p",
-                "x": "此前，Google已通过Google Maps应用在CarPlay上提供这款AI助手。现在，只需轻点屏幕上的Gemini图标即可使用。Google表示，你可以在车内接着之前与Gemini的对话继续，也可以与聊天机器人开始新的对话。"
+                "x": "这款眼镜重约41克，用户可以就眼前所见向Gemini提问、把白板内容总结到Samsung Notes、翻译菜单，并通过Google Maps获得逐向导航。12MP HDR摄像头为Gemini提供视觉信息，Snapdragon AR1 Gen 1 Platform带来最长九小时的续航，配合充电盒最长可达72小时。分离式计算系统会把部分处理工作交给已连接的Galaxy手机。"
               },
               {
                 "t": "p",
-                "x": "该公司建议，驾驶者可以在通勤途中用Gemini准备会议、处理邮件、收听Daily Brief，或获取附近值得一去的地点推荐。对话会与Gemini iPhone应用同步，并保留在聊天记录中。"
-              },
-              {
-                "t": "p",
-                "x": "要在CarPlay上使用该助手，需要确保iPhone上的Gemini应用为最新版本，并已开启麦克风权限。此外，还需要至少在iPhone上使用过一次Gemini Live。"
-              },
-              {
-                "t": "p",
-                "x": "不久前，Google刚在Android Auto的聊天机器人中启用Personal Assistance（可调取其他Google应用中的信息，给出更个性化的回答），随后便将Gemini应用带到了CarPlay。该公司还将在搭载Google built-in的汽车上为Gemini引入Personal Intelligence。"
+                "x": "两个系列将于2026年12月10日起在美国（U.S.）发售，Gentle Monster Intelligent Eyewear也将在韩国上市。在美国（U.S.），Warby Parker Intelligent Eyewear起价$395，Gentle Monster Intelligent Eyewear则视型号定价$449至$489。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Gemini estrena su propia app\nen Apple CarPlay",
-          "body": "Google lleva una app de Gemini a Apple CarPlay y amplía un chatbot que ya era accesible a través de Google Maps.",
-          "mini_headline": "Gemini llega a CarPlay",
+          "headline": "Samsung fija para diciembre\nsus Intelligent Eyewear",
+          "body": "Las Intelligent Eyewear de Samsung salen en US el 10 de diciembre, y las Gentle Monster también llegan a Corea.",
+          "mini_headline": "Las gafas de Samsung salen el 10 de diciembre",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/google-brings-the-gemini-app-to-apple-carplay/l-intro-1794426857.jpg",
-                "cap": "Google lleva la app de Gemini a Apple CarPlay"
+                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/11/12152225/Samsung-Mobile-Intelligent-Eyewear-Launch-Gentle-Monster-Warby-Parker_main1.jpg"
               },
               {
                 "t": "p",
-                "x": "En su aparente empeño por que el chatbot resulte ineludible en tantas pantallas, altavoces y experiencias como sea posible, Google ha llevado la app de Gemini a Apple CarPlay. Está disponible desde hoy en todos los idiomas compatibles con Gemini Live."
+                "x": "Samsung Electronics anunció hoy el próximo lanzamiento de la gama completa de gafas inteligentes. Con salida prevista en Estados Unidos (U.S.) y Corea del Sur el 10 de diciembre y reservas abiertas desde hoy, la colección combina la experiencia de Samsung en ingeniería móvil con 30 diseños distintivos de Gentle Monster y Warby Parker. Desarrolladas en colaboración con Google y con Gemini integrado, las gafas ayudan a los usuarios a entender el mundo que los rodea, comunicarse en distintos idiomas y mantenerse conectados."
+              },
+              {
+                "t": "img",
+                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/11/12152250/Samsung-Mobile-Intelligent-Eyewear-Launch-Gentle-Monster-Warby-Parker_main2.jpg",
+                "cap": "Los seis diseños de montura de Gentle Monster Intelligent Eyewear en varias combinaciones de color"
+              },
+              {
+                "t": "img",
+                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/11/12152327/Samsung-Mobile-Intelligent-Eyewear-Launch-Gentle-Monster-Warby-Parker_main3.jpg",
+                "cap": "Los tres diseños de montura de Warby Parker Intelligent Eyewear en versiones graduadas y de sol"
               },
               {
                 "t": "p",
-                "x": "Google ya ofrecía el asistente de AI en CarPlay a través de la app Google Maps. Ahora bastará con tocar el icono de Gemini en la pantalla para acceder a él. Según Google, se puede retomar en el coche una conversación con Gemini donde se dejó o iniciar una nueva con el chatbot."
+                "x": "Con un peso de unos 41 gramos, las gafas permiten preguntar a Gemini sobre lo que se ve, resumir una pizarra en Samsung Notes, traducir menús y recibir indicaciones paso a paso de Google Maps. Una cámara 12MP HDR aporta contexto visual a Gemini, y la Snapdragon AR1 Gen 1 Platform ofrece hasta nueve horas de batería, o hasta 72 horas con el estuche de carga. Un sistema de computación dividida traslada parte del procesamiento al teléfono Galaxy conectado."
               },
               {
                 "t": "p",
-                "x": "La compañía sugirió que los conductores pueden usar Gemini para preparar una reunión durante el trayecto, ponerse al día con el correo, escuchar su Daily Brief u obtener recomendaciones de lugares de la zona que valga la pena visitar. Las conversaciones se sincronizan con la app de Gemini para iPhone y quedan en el historial de chat."
-              },
-              {
-                "t": "p",
-                "x": "Para usar el asistente en CarPlay, hay que tener la versión más reciente de la app de Gemini en el iPhone y los permisos del micrófono activados. También es necesario haber usado Gemini Live al menos una vez en el iPhone."
-              },
-              {
-                "t": "p",
-                "x": "Google llevó la app de Gemini a CarPlay poco después de activar Personal Assistance (que puede acceder a datos de otras apps de Google para dar respuestas más personalizadas) en el chatbot de Android Auto. La compañía también está llevando Personal Intelligence a Gemini en los coches con Google built-in."
+                "x": "Ambas colecciones saldrán a la venta en Estados Unidos (U.S.) a partir del 10 de diciembre de 2026, y Gentle Monster Intelligent Eyewear también estará disponible en Corea. En Estados Unidos (U.S.), Warby Parker Intelligent Eyewear costará desde $395, mientras que Gentle Monster Intelligent Eyewear oscilará entre $449 y $489, según el modelo."
               }
             ]
           }
@@ -365,15 +375,15 @@
       }
     },
     {
-      "id": "bluephone-pixel10-agent-os",
+      "id": "windows-photos-adobe-genai",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Blue Phone AI가\nPixel 10 Pro에",
-      "body": "Blue Phone이 Pixel 10 Pro에 AI-powered OS를 얹는다.",
-      "mini_headline": "Pixel 10 Pro용 AI OS",
+      "headline": "Windows 11에\nAdobe 생성형 AI",
+      "body": "Adobe 생성형 편집과 Express가 Windows 11 Photos에 온다.",
+      "mini_headline": "Windows Photos에 Adobe AI",
       "tool": "Gadgets",
-      "source": "Android Authority",
-      "url": "https://www.androidauthority.com/blue-os-google-pixel-10-pro-3733835/",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/Windows-11-Photos-is-getting-Adobe-s-generative-AI-tools-in-December.1447789.0.html",
       "accent": "#0070f3",
       "motif": "headset",
       "full": {
@@ -381,233 +391,209 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.androidauthority.com/wp-content/uploads/2025/09/google-pixel-10-pro-screen-on-home-screen-scaled.jpg",
-            "cap": "화면이 켜진 Google Pixel 10 Pro를 손에 든 모습. 홈 화면이 보인다."
+            "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Adobe-Max.jpg",
+            "cap": "Windows 기본 사진 편집기에 곧 Adobe-powered 기능이 들어온다"
           },
           {
             "t": "p",
-            "x": "Y Combinator가 투자한 스타트업 Blue가 새 Blue Phone 공개 베타를 열었다. 스마트폰 경험 한가운데에 AI 어시스턴트를 둔 제품이다. 폰을 처음부터 새로 만들지 않고 Google Pixel 10 Pro와 Pixel 10 Pro XL을 바탕으로 삼았으며, 두 기기 모두 Blue OS로 돌아간다. Blue OS는 AI 어시스턴트가 여러 앱을 오가며 사용자 대신 일을 처리하도록 손본 Android 버전이다."
+            "x": "Adobe와 Microsoft가 파트너십을 넓혀 Windows 11에 AI-powered 편집 기능을 새로 들이고, Arm-based PCs에서 Creative Cloud 성능도 끌어올린다. 발표 무대는 Adobe Max 2026이었다."
           },
           {
             "t": "p",
-            "x": "몇 달 전 영수증 찾기, 사기 전 가격 비교, 뜻밖의 청구에 이의 제기 같은 일을 Blue가 대신 맡는다. 요청 여러 개를 한꺼번에 처리하기도 한다."
-          },
-          {
-            "t": "video",
-            "yt": "mrTgV4U_wI4"
+            "x": "Windows 11 기본 Photos 앱에 Adobe의 생성형 AI 도구가 들어간다. 이미지를 원래 경계 바깥으로 넓히고, 일부가 잘리지 않게 사진을 회전하고, 원치 않는 물체를 지운 빈자리를 자동으로 채운다. 텍스트 기반 편집도 되고, Photos 뷰어에서 Adobe Express를 바로 열어 사진을 초대장이나 소셜 미디어 게시물 같은 디자인으로 바꿀 수도 있다."
           },
           {
             "t": "p",
-            "x": "편하게 말한 생각을 제대로 다듬은 메시지로 바꿔 주는 음성 받아쓰기도 들어 있다. 개인정보 걱정을 덜려고 Blue는 비밀번호 같은 민감한 정보를 암호화된 Vault에 넣어 두며, OS 자체도 광고 추적을 기본으로 막는 보안 중심 오픈소스 Android 버전 위에 올렸다."
+            "x": "Windows Insiders가 2026년 12월부터 먼저 써 볼 수 있다. 그 뒤 출시 일정은 두 회사 모두 밝히지 않았고, 일부 AI 기능에 유료 구독이 필요한지도 설명하지 않았다."
+          },
+          {
+            "t": "p",
+            "x": "Adobe는 Photoshop, Premiere, After Effects, Substance 3D Painter(beta)도 Windows on Arm 기기에 맞게 다듬었다. Nvidia RTX Spark를 탑재한 Microsoft의 Surface Laptop Ultra가 대표적이다. Photoshop은 온디바이스 생성형 AI 처리가 빨라졌지만, 일부 기능과 서드파티 플러그인은 아직 Windows on Arm과 호환되지 않는다."
           },
           {
             "t": "img",
-            "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Screenshot-2026-11-11-at-8.01.19-PM.png",
-            "cap": "iPhone에서 Pixel 10 Pro 기반 Blue Phone으로"
-          },
-          {
-            "t": "p",
-            "x": "Blue Phone 가격은 $1,299인데, 산 뒤 30일 안에 쓰던 iPhone을 회사로 보내면 공짜다. Blue 무제한 이용 석 달이 딸려 오고, US 배송은 11월과 12월로 잡혀 있다. 회사는 자체 스마트폰도 따로 만들고 있다. 2027년 세 번째 분기에 나올 예정이며, 전액 환불되는 $100를 내면 예약할 수 있다."
+            "src": "https://www.notebookcheck.net/fileadmin/_processed_/8/b/csm_Adobe-X-Microsoft-Windows-11-features_86f7cbac0b.gif",
+            "cap": "Adobe X Microsoft Windows 11 기능"
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Blue Phone puts an AI OS\non the Pixel 10 Pro",
-          "body": "Blue Phone brings an AI-powered operating system to the Pixel 10 Pro, letting an assistant handle tasks across apps.",
-          "mini_headline": "An AI OS for Pixel 10 Pro",
+          "headline": "Windows 11 Photos gets\nAdobe generative AI tools",
+          "body": "Adobe's generative editing and Express integration come to Windows 11 Photos, previewing for Insiders in December.",
+          "mini_headline": "Adobe AI comes to Windows Photos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2025/09/google-pixel-10-pro-screen-on-home-screen-scaled.jpg",
-                "cap": "Someone holding the Google Pixel 10 Pro with its screen on, showing the home screen."
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Adobe-Max.jpg",
+                "cap": "Windows' native photo editor will get some Adobe-powered features soon"
               },
               {
                 "t": "p",
-                "x": "A startup called Blue, backed by Y Combinator, has opened the public beta of its new Blue Phone, which puts an AI assistant at the heart of the smartphone experience. Instead of building an entirely new phone, it's starting with the Google Pixel 10 Pro and Pixel 10 Pro XL, both running Blue OS, a customized version of Android that lets the AI assistant work across apps and handle tasks for you."
+                "x": "Adobe and Microsoft are expanding their partnership to bring new AI-powered editing capabilities to Windows 11 and also improve Creative Cloud performance on Arm-based PCs. The companies announced the collaboration at Adobe Max 2026."
               },
               {
                 "t": "p",
-                "x": "If you're trying to find a receipt from months ago, compare prices before a purchase, or dispute an unexpected charge, Blue can do it for you — even working on multiple requests at the same time."
-              },
-              {
-                "t": "video",
-                "yt": "mrTgV4U_wI4"
+                "x": "Adobe's generative AI tools are coming to the native Windows 11 Photos app. Users will be able to expand images beyond their original borders, rotate photographs without losing portions of the image, and remove unwanted objects while automatically filling the resulting gaps. The integration will also support text-based editing, and Adobe Express will be accessible directly from the Photos viewer to turn pictures into invitations, social media posts and other designs."
               },
               {
                 "t": "p",
-                "x": "It also has a voice dictation feature that turns naturally spoken thoughts into a properly written message. To address privacy concerns, Blue uses an encrypted Vault for passwords and other sensitive information, and the OS is based on a security-focused, open-source version of Android that blocks ad tracking by default."
+                "x": "These features will initially be available to Windows Insiders starting in December 2026. Neither company has specified a wider release date or clarified whether certain AI features will require a paid subscription."
+              },
+              {
+                "t": "p",
+                "x": "Adobe has also optimised Photoshop, Premiere, After Effects and Substance 3D Painter (beta) for Windows on Arm devices, including Microsoft's Surface Laptop Ultra powered by Nvidia RTX Spark. Photoshop benefits from faster on-device generative AI processing, though some features and third-party plugins remain incompatible with Windows on Arm."
               },
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Screenshot-2026-11-11-at-8.01.19-PM.png",
-                "cap": "iPhone to Blue Phone on Pixel 10 Pro"
-              },
-              {
-                "t": "p",
-                "x": "Blue Phone costs $1,299, but you could get it for free if you send your old iPhone to the company within 30 days of purchase. It comes with three months of unlimited Blue usage, and US shipments are scheduled for November and December. The startup is also working on its own custom smartphone, expected in the third quarter of 2027, which can be reserved for a fully refundable $100."
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/8/b/csm_Adobe-X-Microsoft-Windows-11-features_86f7cbac0b.gif",
+                "cap": "Adobe X Microsoft Windows 11 features"
               }
             ]
           }
         },
         "ko": {
-          "headline": "Blue Phone AI가\nPixel 10 Pro에",
-          "body": "Blue Phone이 Pixel 10 Pro에 AI-powered OS를 얹는다.",
-          "mini_headline": "Pixel 10 Pro용 AI OS",
+          "headline": "Windows 11에\nAdobe 생성형 AI",
+          "body": "Adobe 생성형 편집과 Express가 Windows 11 Photos에 온다.",
+          "mini_headline": "Windows Photos에 Adobe AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2025/09/google-pixel-10-pro-screen-on-home-screen-scaled.jpg",
-                "cap": "화면이 켜진 Google Pixel 10 Pro를 손에 든 모습. 홈 화면이 보인다."
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Adobe-Max.jpg",
+                "cap": "Windows 기본 사진 편집기에 곧 Adobe-powered 기능이 들어온다"
               },
               {
                 "t": "p",
-                "x": "Y Combinator가 투자한 스타트업 Blue가 새 Blue Phone 공개 베타를 열었다. 스마트폰 경험 한가운데에 AI 어시스턴트를 둔 제품이다. 폰을 처음부터 새로 만들지 않고 Google Pixel 10 Pro와 Pixel 10 Pro XL을 바탕으로 삼았으며, 두 기기 모두 Blue OS로 돌아간다. Blue OS는 AI 어시스턴트가 여러 앱을 오가며 사용자 대신 일을 처리하도록 손본 Android 버전이다."
+                "x": "Adobe와 Microsoft가 파트너십을 넓혀 Windows 11에 AI-powered 편집 기능을 새로 들이고, Arm-based PCs에서 Creative Cloud 성능도 끌어올린다. 발표 무대는 Adobe Max 2026이었다."
               },
               {
                 "t": "p",
-                "x": "몇 달 전 영수증 찾기, 사기 전 가격 비교, 뜻밖의 청구에 이의 제기 같은 일을 Blue가 대신 맡는다. 요청 여러 개를 한꺼번에 처리하기도 한다."
-              },
-              {
-                "t": "video",
-                "yt": "mrTgV4U_wI4"
+                "x": "Windows 11 기본 Photos 앱에 Adobe의 생성형 AI 도구가 들어간다. 이미지를 원래 경계 바깥으로 넓히고, 일부가 잘리지 않게 사진을 회전하고, 원치 않는 물체를 지운 빈자리를 자동으로 채운다. 텍스트 기반 편집도 되고, Photos 뷰어에서 Adobe Express를 바로 열어 사진을 초대장이나 소셜 미디어 게시물 같은 디자인으로 바꿀 수도 있다."
               },
               {
                 "t": "p",
-                "x": "편하게 말한 생각을 제대로 다듬은 메시지로 바꿔 주는 음성 받아쓰기도 들어 있다. 개인정보 걱정을 덜려고 Blue는 비밀번호 같은 민감한 정보를 암호화된 Vault에 넣어 두며, OS 자체도 광고 추적을 기본으로 막는 보안 중심 오픈소스 Android 버전 위에 올렸다."
+                "x": "Windows Insiders가 2026년 12월부터 먼저 써 볼 수 있다. 그 뒤 출시 일정은 두 회사 모두 밝히지 않았고, 일부 AI 기능에 유료 구독이 필요한지도 설명하지 않았다."
+              },
+              {
+                "t": "p",
+                "x": "Adobe는 Photoshop, Premiere, After Effects, Substance 3D Painter(beta)도 Windows on Arm 기기에 맞게 다듬었다. Nvidia RTX Spark를 탑재한 Microsoft의 Surface Laptop Ultra가 대표적이다. Photoshop은 온디바이스 생성형 AI 처리가 빨라졌지만, 일부 기능과 서드파티 플러그인은 아직 Windows on Arm과 호환되지 않는다."
               },
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Screenshot-2026-11-11-at-8.01.19-PM.png",
-                "cap": "iPhone에서 Pixel 10 Pro 기반 Blue Phone으로"
-              },
-              {
-                "t": "p",
-                "x": "Blue Phone 가격은 $1,299인데, 산 뒤 30일 안에 쓰던 iPhone을 회사로 보내면 공짜다. Blue 무제한 이용 석 달이 딸려 오고, US 배송은 11월과 12월로 잡혀 있다. 회사는 자체 스마트폰도 따로 만들고 있다. 2027년 세 번째 분기에 나올 예정이며, 전액 환불되는 $100를 내면 예약할 수 있다."
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/8/b/csm_Adobe-X-Microsoft-Windows-11-features_86f7cbac0b.gif",
+                "cap": "Adobe X Microsoft Windows 11 기능"
               }
             ]
           }
         },
         "ja": {
-          "headline": "Blue PhoneのAIが\nPixel 10 Proに",
-          "body": "Blue PhoneはPixel 10 ProにAI-powered OSを載せる。",
-          "mini_headline": "Pixel 10 Pro向けAI OS",
+          "headline": "Windows 11の\nフォトにAdobe生成AI",
+          "body": "Adobeの生成編集とExpressがWindows 11 Photosに来る。",
+          "mini_headline": "Windows PhotosにAdobe AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2025/09/google-pixel-10-pro-screen-on-home-screen-scaled.jpg",
-                "cap": "画面が点灯し、ホーム画面を表示したGoogle Pixel 10 Proを手に持つ人。"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Adobe-Max.jpg",
+                "cap": "Windows標準の写真編集アプリに、まもなくAdobe-poweredの機能が加わる"
               },
               {
                 "t": "p",
-                "x": "Y Combinatorが支援するスタートアップBlueは、AIアシスタントをスマートフォン体験の中心に据えた新しいBlue Phoneのパブリックベータを開始した。まったく新しい端末を作るのではなく、まずGoogle Pixel 10 ProとPixel 10 Pro XLから始め、どちらもBlue OSで動く。Blue OSは、AIアシスタントがアプリをまたいで動作し、ユーザーに代わってタスクをこなせるようにしたAndroidのカスタム版だ。"
+                "x": "AdobeとMicrosoftは提携を広げ、Windows 11に新たなAI-poweredの編集機能を導入するとともに、Arm-based PCsでのCreative Cloudの性能を高める。両社はこの協業をAdobe Max 2026で発表した。"
               },
               {
                 "t": "p",
-                "x": "数か月前のレシートを探す、購入前に価格を比べる、身に覚えのない請求に異議を申し立てる。そうした作業をBlueが代わりに行い、複数の依頼を同時に処理することもできる。"
-              },
-              {
-                "t": "video",
-                "yt": "mrTgV4U_wI4"
+                "x": "Adobeの生成AIツールがWindows 11標準のPhotosアプリに搭載される。画像を元の枠の外まで拡張したり、画像の一部を失わずに写真を回転したり、不要なオブジェクトを消して生じた隙間を自動で埋めたりできる。テキストによる編集にも対応し、PhotosビューアーからAdobe Expressを直接呼び出して、写真を招待状やソーシャルメディア投稿などのデザインに仕上げられる。"
               },
               {
                 "t": "p",
-                "x": "自然に話した考えを、きちんと書かれたメッセージに変える音声入力機能も備える。プライバシーへの懸念に対応するため、Blueはパスワードなどの機密情報を暗号化されたVaultに保管する。OSは、広告トラッキングを標準でブロックする、セキュリティ重視のオープンソース版Androidをベースにしている。"
+                "x": "これらの機能は2026年12月から、まずWindows Insidersに提供される。両社とも一般提供の時期は明らかにしておらず、一部のAI機能に有料サブスクリプションが必要かどうかも説明していない。"
+              },
+              {
+                "t": "p",
+                "x": "AdobeはまたPhotoshop、Premiere、After Effects、Substance 3D Painter（beta）を、Nvidia RTX Spark搭載のMicrosoft Surface Laptop UltraをはじめとするWindows on Arm機器向けに最適化した。Photoshopではオンデバイスの生成AI処理が速くなったが、一部の機能やサードパーティ製プラグインは依然としてWindows on Armに対応していない。"
               },
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Screenshot-2026-11-11-at-8.01.19-PM.png",
-                "cap": "iPhoneからPixel 10 Pro上のBlue Phoneへ"
-              },
-              {
-                "t": "p",
-                "x": "Blue Phoneの価格は$1,299だが、購入から30日以内に古いiPhoneを同社に送れば無料で手に入る。Blueの無制限利用三か月分が付き、USでの出荷は11月と12月の予定だ。同社は独自のカスタムスマートフォンも開発中で、2027年第三四半期に登場する見込みだ。全額返金可能な$100で予約できる。"
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/8/b/csm_Adobe-X-Microsoft-Windows-11-features_86f7cbac0b.gif",
+                "cap": "Adobe X MicrosoftのWindows 11向け機能"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Blue Phone将AI\n装进Pixel 10 Pro",
-          "body": "Blue Phone为Pixel 10 Pro带来AI-powered系统，可跨应用办事。",
-          "mini_headline": "Pixel 10 Pro的AI OS",
+          "headline": "Windows 11照片应用\n迎来Adobe生成式AI",
+          "body": "Adobe生成式编辑与Express将登陆Windows 11 Photos。",
+          "mini_headline": "Adobe AI登陆Windows Photos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2025/09/google-pixel-10-pro-screen-on-home-screen-scaled.jpg",
-                "cap": "有人手持屏幕亮起、显示主屏幕的Google Pixel 10 Pro。"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Adobe-Max.jpg",
+                "cap": "Windows自带的照片编辑器即将获得一些Adobe-powered功能"
               },
               {
                 "t": "p",
-                "x": "由Y Combinator支持的初创公司Blue已开放新款Blue Phone的公开测试版，这款手机把AI助手置于智能手机体验的核心。它没有从零打造一部全新手机，而是先从Google Pixel 10 Pro和Pixel 10 Pro XL入手，两者都运行Blue OS。Blue OS是定制版Android，可让AI助手跨应用工作，替你处理任务。"
+                "x": "Adobe与Microsoft正在扩大合作，为Windows 11带来新的AI-powered编辑功能，同时提升Creative Cloud在Arm-based PCs上的性能。两家公司在Adobe Max 2026上宣布了这项合作。"
               },
               {
                 "t": "p",
-                "x": "无论是查找几个月前的收据、购买前比价，还是对一笔意外扣款提出异议，Blue都能代劳，甚至可以同时处理多个请求。"
-              },
-              {
-                "t": "video",
-                "yt": "mrTgV4U_wI4"
+                "x": "Adobe的生成式AI工具将进入Windows 11自带的Photos应用。用户可以把图像扩展到原始边界之外，旋转照片而不丢失画面内容，并移除不需要的物体，同时自动填补留下的空缺。这项集成还支持基于文字的编辑，用户可直接在Photos查看器中打开Adobe Express，把照片做成邀请函、社交媒体帖子等设计。"
               },
               {
                 "t": "p",
-                "x": "它还有语音听写功能，能把自然说出的想法转换成书写规范的消息。为回应隐私方面的担忧，Blue用加密的Vault保存密码等敏感信息，系统则基于一个注重安全、默认屏蔽广告追踪的开源Android版本。"
+                "x": "这些功能将从2026年12月起率先向Windows Insiders开放。两家公司均未公布更大范围的上线日期，也未说明部分AI功能是否需要付费订阅。"
+              },
+              {
+                "t": "p",
+                "x": "Adobe还针对Windows on Arm设备优化了Photoshop、Premiere、After Effects和Substance 3D Painter（beta），其中包括搭载Nvidia RTX Spark的Microsoft Surface Laptop Ultra。Photoshop的端侧生成式AI处理速度更快，但部分功能和第三方插件仍不兼容Windows on Arm。"
               },
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Screenshot-2026-11-11-at-8.01.19-PM.png",
-                "cap": "从iPhone到Pixel 10 Pro上的Blue Phone"
-              },
-              {
-                "t": "p",
-                "x": "Blue Phone售价$1,299，但若在购买后30天内把旧iPhone寄给该公司，便可免费获得。它附带三个月的Blue无限使用权，US发货定于十一月和十二月。这家初创公司还在开发自有定制智能手机，预计2027年第三季度推出，现可支付可全额退款的$100预订。"
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/8/b/csm_Adobe-X-Microsoft-Windows-11-features_86f7cbac0b.gif",
+                "cap": "Adobe X Microsoft Windows 11功能"
               }
             ]
           }
         },
         "es": {
-          "headline": "Blue Phone instala un AI OS\nen el Pixel 10 Pro",
-          "body": "Blue Phone lleva un sistema operativo AI-powered al Pixel 10 Pro para que un asistente gestione tareas entre apps.",
-          "mini_headline": "Un AI OS para el Pixel 10 Pro",
+          "headline": "Windows 11 Photos incorpora\nla AI generativa de Adobe",
+          "body": "La edición generativa de Adobe y Express llegan a Windows 11 Photos, con una vista previa para Insiders en diciembre.",
+          "mini_headline": "La AI de Adobe llega a Windows Photos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2025/09/google-pixel-10-pro-screen-on-home-screen-scaled.jpg",
-                "cap": "Una persona sostiene un Google Pixel 10 Pro con la pantalla encendida, mostrando la pantalla de inicio."
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Adobe-Max.jpg",
+                "cap": "El editor de fotos nativo de Windows recibirá pronto funciones Adobe-powered"
               },
               {
                 "t": "p",
-                "x": "Blue, una startup respaldada por Y Combinator, ha abierto la beta pública de su nuevo Blue Phone, que sitúa a un asistente de AI en el centro de la experiencia del smartphone. En lugar de fabricar un teléfono completamente nuevo, empieza con el Google Pixel 10 Pro y el Pixel 10 Pro XL, ambos con Blue OS, una versión personalizada de Android que permite al asistente de AI trabajar entre apps y encargarse de tareas por el usuario."
+                "x": "Adobe y Microsoft amplían su alianza para llevar nuevas funciones de edición AI-powered a Windows 11 y mejorar el rendimiento de Creative Cloud en Arm-based PCs. Las empresas anunciaron la colaboración en Adobe Max 2026."
               },
               {
                 "t": "p",
-                "x": "Si se busca un recibo de hace meses, se quieren comparar precios antes de una compra o se necesita impugnar un cargo inesperado, Blue puede hacerlo, incluso atendiendo varias solicitudes a la vez."
-              },
-              {
-                "t": "video",
-                "yt": "mrTgV4U_wI4"
+                "x": "Las herramientas de AI generativa de Adobe llegan a la app nativa Photos de Windows 11. Los usuarios podrán ampliar imágenes más allá de sus bordes originales, girar fotografías sin perder partes de la imagen y eliminar objetos no deseados mientras los huecos resultantes se rellenan automáticamente. La integración también admitirá la edición mediante texto, y Adobe Express estará accesible directamente desde el visor de Photos para convertir imágenes en invitaciones, publicaciones para redes sociales y otros diseños."
               },
               {
                 "t": "p",
-                "x": "También incluye una función de dictado por voz que convierte ideas expresadas de forma natural en un mensaje bien redactado. Para responder a las preocupaciones sobre privacidad, Blue usa un Vault cifrado para contraseñas y otra información sensible, y el sistema se basa en una versión de Android de código abierto centrada en la seguridad que bloquea el rastreo publicitario por defecto."
+                "x": "Estas funciones estarán disponibles primero para los Windows Insiders a partir de diciembre de 2026. Ninguna de las dos empresas ha precisado una fecha de lanzamiento más amplia ni ha aclarado si ciertas funciones de AI requerirán una suscripción de pago."
+              },
+              {
+                "t": "p",
+                "x": "Adobe también ha optimizado Photoshop, Premiere, After Effects y Substance 3D Painter (beta) para dispositivos Windows on Arm, incluido el Surface Laptop Ultra de Microsoft con Nvidia RTX Spark. Photoshop se beneficia de un procesamiento de AI generativa en el dispositivo más rápido, aunque algunas funciones y plugins de terceros siguen sin ser compatibles con Windows on Arm."
               },
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Screenshot-2026-11-11-at-8.01.19-PM.png",
-                "cap": "Del iPhone al Blue Phone en el Pixel 10 Pro"
-              },
-              {
-                "t": "p",
-                "x": "El Blue Phone cuesta $1,299, pero puede salir gratis si se envía el iPhone antiguo a la compañía en los 30 días posteriores a la compra. Incluye tres meses de uso ilimitado de Blue, y los envíos en US están previstos para noviembre y diciembre. La startup también trabaja en su propio smartphone, previsto para el tercer trimestre de 2027, que puede reservarse por $100 totalmente reembolsables."
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/8/b/csm_Adobe-X-Microsoft-Windows-11-features_86f7cbac0b.gif",
+                "cap": "Funciones de Adobe X Microsoft para Windows 11"
               }
             ]
           }
@@ -615,161 +601,145 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Blue Phone AI가\nPixel 10 Pro에",
-          "body": "Blue Phone이 Pixel 10 Pro에 AI-powered OS를 얹는다.",
-          "mini_headline": "Pixel 10 Pro용 AI OS",
+          "headline": "Windows 11에\nAdobe 생성형 AI",
+          "body": "Adobe 생성형 편집과 Express가 Windows 11 Photos에 온다.",
+          "mini_headline": "Windows Photos에 Adobe AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2025/09/google-pixel-10-pro-screen-on-home-screen-scaled.jpg",
-                "cap": "화면이 켜진 Google Pixel 10 Pro를 손에 든 모습. 홈 화면이 보인다."
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Adobe-Max.jpg",
+                "cap": "Windows 기본 사진 편집기에 곧 Adobe-powered 기능이 들어온다"
               },
               {
                 "t": "p",
-                "x": "Y Combinator의 투자를 받은 스타트업 Blue가 새 Blue Phone의 공개 베타를 열었다. AI 어시스턴트를 스마트폰 경험의 중심에 둔 제품이다. 완전히 새로운 폰을 만드는 대신 Google Pixel 10 Pro와 Pixel 10 Pro XL에서 출발하며, 두 기기 모두 Blue OS를 돌린다. Blue OS는 AI 어시스턴트가 여러 앱을 오가며 사용자 대신 작업을 처리하도록 맞춤화한 Android 버전이다."
+                "x": "Adobe와 Microsoft가 파트너십을 넓혀 Windows 11에 새로운 AI-powered 편집 기능을 들여오고, Arm-based PCs에서 Creative Cloud 성능도 끌어올린다. 두 회사는 Adobe Max 2026에서 이 협업을 발표했다."
               },
               {
                 "t": "p",
-                "x": "몇 달 전 영수증을 찾거나, 구매 전에 가격을 비교하거나, 예상치 못한 청구에 이의를 제기하려 할 때 Blue가 대신 해 준다. 여러 요청을 동시에 처리하기도 한다."
-              },
-              {
-                "t": "video",
-                "yt": "mrTgV4U_wI4"
+                "x": "Adobe의 생성형 AI 도구가 Windows 11 기본 Photos 앱에 들어온다. 사용자는 이미지를 원래 경계 너머로 확장하고, 이미지 일부를 잃지 않고 사진을 회전하고, 원치 않는 물체를 지우면서 생긴 빈자리를 자동으로 채울 수 있다. 텍스트 기반 편집도 지원하며, Photos 뷰어에서 바로 Adobe Express를 열어 사진을 초대장, 소셜 미디어 게시물 등 다양한 디자인으로 바꿀 수 있다."
               },
               {
                 "t": "p",
-                "x": "자연스럽게 말한 생각을 제대로 쓴 메시지로 바꿔 주는 음성 받아쓰기 기능도 있다. 개인정보 우려에 대응해 Blue는 비밀번호 등 민감한 정보를 암호화된 Vault에 보관하며, OS는 광고 추적을 기본으로 차단하는 보안 중심의 오픈소스 Android 버전을 기반으로 한다."
+                "x": "이 기능은 2026년 12월부터 Windows Insiders에게 먼저 제공된다. 두 회사 모두 더 넓은 출시 일정을 밝히지 않았고, 일부 AI 기능에 유료 구독이 필요한지도 설명하지 않았다."
+              },
+              {
+                "t": "p",
+                "x": "Adobe는 Nvidia RTX Spark를 탑재한 Microsoft의 Surface Laptop Ultra를 비롯한 Windows on Arm 기기에 맞춰 Photoshop, Premiere, After Effects, Substance 3D Painter(beta)도 최적화했다. Photoshop은 온디바이스 생성형 AI 처리가 빨라졌지만, 일부 기능과 서드파티 플러그인은 여전히 Windows on Arm과 호환되지 않는다."
               },
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Screenshot-2026-11-11-at-8.01.19-PM.png",
-                "cap": "iPhone에서 Pixel 10 Pro 기반 Blue Phone으로"
-              },
-              {
-                "t": "p",
-                "x": "Blue Phone의 가격은 $1,299이지만, 구매 후 30일 안에 쓰던 iPhone을 회사에 보내면 무료로 받을 수 있다. Blue 무제한 이용 석 달이 포함되며, US 배송은 11월과 12월로 잡혀 있다. 이 스타트업은 자체 맞춤형 스마트폰도 개발하고 있다. 2027년 세 번째 분기에 나올 예정이며, 전액 환불되는 $100에 예약할 수 있다."
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/8/b/csm_Adobe-X-Microsoft-Windows-11-features_86f7cbac0b.gif",
+                "cap": "Adobe X Microsoft Windows 11 기능"
               }
             ]
           }
         },
         "ja": {
-          "headline": "Blue PhoneのAIが\nPixel 10 Proに",
-          "body": "Blue PhoneはPixel 10 ProにAI-powered OSを載せる。",
-          "mini_headline": "Pixel 10 Pro向けAI OS",
+          "headline": "Windows 11の\nフォトにAdobe生成AI",
+          "body": "Adobeの生成編集とExpressがWindows 11 Photosに来る。",
+          "mini_headline": "Windows PhotosにAdobe AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2025/09/google-pixel-10-pro-screen-on-home-screen-scaled.jpg",
-                "cap": "画面が点灯し、ホーム画面を表示したGoogle Pixel 10 Proを手に持つ人。"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Adobe-Max.jpg",
+                "cap": "Windows標準の写真編集アプリに、まもなくAdobe-poweredの機能が加わる"
               },
               {
                 "t": "p",
-                "x": "Y Combinatorが支援するスタートアップBlueは、AIアシスタントをスマートフォン体験の中心に据えた新しいBlue Phoneのパブリックベータを開始した。まったく新しい端末を作るのではなく、まずGoogle Pixel 10 ProとPixel 10 Pro XLから始め、どちらもBlue OSで動く。Blue OSは、AIアシスタントがアプリをまたいで動作し、ユーザーに代わってタスクをこなせるようにしたAndroidのカスタム版だ。"
+                "x": "AdobeとMicrosoftは提携を広げ、Windows 11に新たなAI-poweredの編集機能を導入するとともに、Arm-based PCsでのCreative Cloudの性能を高める。両社はこの協業をAdobe Max 2026で発表した。"
               },
               {
                 "t": "p",
-                "x": "数か月前のレシートを探す、購入前に価格を比べる、身に覚えのない請求に異議を申し立てる。そうした作業をBlueが代わりに行い、複数の依頼を同時に処理することもできる。"
-              },
-              {
-                "t": "video",
-                "yt": "mrTgV4U_wI4"
+                "x": "Adobeの生成AIツールがWindows 11標準のPhotosアプリに搭載される。画像を元の枠の外まで拡張したり、画像の一部を失わずに写真を回転したり、不要なオブジェクトを消して生じた隙間を自動で埋めたりできる。テキストによる編集にも対応し、PhotosビューアーからAdobe Expressを直接呼び出して、写真を招待状やソーシャルメディア投稿などのデザインに仕上げられる。"
               },
               {
                 "t": "p",
-                "x": "自然に話した考えを、きちんと書かれたメッセージに変える音声入力機能も備える。プライバシーへの懸念に対応するため、Blueはパスワードなどの機密情報を暗号化されたVaultに保管する。OSは、広告トラッキングを標準でブロックする、セキュリティ重視のオープンソース版Androidをベースにしている。"
+                "x": "これらの機能は2026年12月から、まずWindows Insidersに提供される。両社とも一般提供の時期は明らかにしておらず、一部のAI機能に有料サブスクリプションが必要かどうかも説明していない。"
+              },
+              {
+                "t": "p",
+                "x": "AdobeはまたPhotoshop、Premiere、After Effects、Substance 3D Painter（beta）を、Nvidia RTX Spark搭載のMicrosoft Surface Laptop UltraをはじめとするWindows on Arm機器向けに最適化した。Photoshopではオンデバイスの生成AI処理が速くなったが、一部の機能やサードパーティ製プラグインは依然としてWindows on Armに対応していない。"
               },
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Screenshot-2026-11-11-at-8.01.19-PM.png",
-                "cap": "iPhoneからPixel 10 Pro上のBlue Phoneへ"
-              },
-              {
-                "t": "p",
-                "x": "Blue Phoneの価格は$1,299だが、購入から30日以内に古いiPhoneを同社に送れば無料で手に入る。Blueの無制限利用三か月分が付き、USでの出荷は11月と12月の予定だ。同社は独自のカスタムスマートフォンも開発中で、2027年第三四半期に登場する見込みだ。全額返金可能な$100で予約できる。"
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/8/b/csm_Adobe-X-Microsoft-Windows-11-features_86f7cbac0b.gif",
+                "cap": "Adobe X MicrosoftのWindows 11向け機能"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Blue Phone将AI\n装进Pixel 10 Pro",
-          "body": "Blue Phone为Pixel 10 Pro带来AI-powered系统，可跨应用办事。",
-          "mini_headline": "Pixel 10 Pro的AI OS",
+          "headline": "Windows 11照片应用\n迎来Adobe生成式AI",
+          "body": "Adobe生成式编辑与Express将登陆Windows 11 Photos。",
+          "mini_headline": "Adobe AI登陆Windows Photos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2025/09/google-pixel-10-pro-screen-on-home-screen-scaled.jpg",
-                "cap": "有人手持屏幕亮起、显示主屏幕的Google Pixel 10 Pro。"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Adobe-Max.jpg",
+                "cap": "Windows自带的照片编辑器即将获得一些Adobe-powered功能"
               },
               {
                 "t": "p",
-                "x": "由Y Combinator支持的初创公司Blue已开放新款Blue Phone的公开测试版，这款手机把AI助手置于智能手机体验的核心。它没有从零打造一部全新手机，而是先从Google Pixel 10 Pro和Pixel 10 Pro XL入手，两者都运行Blue OS。Blue OS是定制版Android，可让AI助手跨应用工作，替你处理任务。"
+                "x": "Adobe与Microsoft正在扩大合作，为Windows 11带来新的AI-powered编辑功能，同时提升Creative Cloud在Arm-based PCs上的性能。两家公司在Adobe Max 2026上宣布了这项合作。"
               },
               {
                 "t": "p",
-                "x": "无论是查找几个月前的收据、购买前比价，还是对一笔意外扣款提出异议，Blue都能代劳，甚至可以同时处理多个请求。"
-              },
-              {
-                "t": "video",
-                "yt": "mrTgV4U_wI4"
+                "x": "Adobe的生成式AI工具将进入Windows 11自带的Photos应用。用户可以把图像扩展到原始边界之外，旋转照片而不丢失画面内容，并移除不需要的物体，同时自动填补留下的空缺。这项集成还支持基于文字的编辑，用户可直接在Photos查看器中打开Adobe Express，把照片做成邀请函、社交媒体帖子等设计。"
               },
               {
                 "t": "p",
-                "x": "它还有语音听写功能，能把自然说出的想法转换成书写规范的消息。为回应隐私方面的担忧，Blue用加密的Vault保存密码等敏感信息，系统则基于一个注重安全、默认屏蔽广告追踪的开源Android版本。"
+                "x": "这些功能将从2026年12月起率先向Windows Insiders开放。两家公司均未公布更大范围的上线日期，也未说明部分AI功能是否需要付费订阅。"
+              },
+              {
+                "t": "p",
+                "x": "Adobe还针对Windows on Arm设备优化了Photoshop、Premiere、After Effects和Substance 3D Painter（beta），其中包括搭载Nvidia RTX Spark的Microsoft Surface Laptop Ultra。Photoshop的端侧生成式AI处理速度更快，但部分功能和第三方插件仍不兼容Windows on Arm。"
               },
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Screenshot-2026-11-11-at-8.01.19-PM.png",
-                "cap": "从iPhone到Pixel 10 Pro上的Blue Phone"
-              },
-              {
-                "t": "p",
-                "x": "Blue Phone售价$1,299，但若在购买后30天内把旧iPhone寄给该公司，便可免费获得。它附带三个月的Blue无限使用权，US发货定于十一月和十二月。这家初创公司还在开发自有定制智能手机，预计2027年第三季度推出，现可支付可全额退款的$100预订。"
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/8/b/csm_Adobe-X-Microsoft-Windows-11-features_86f7cbac0b.gif",
+                "cap": "Adobe X Microsoft Windows 11功能"
               }
             ]
           }
         },
         "es": {
-          "headline": "Blue Phone instala un AI OS\nen el Pixel 10 Pro",
-          "body": "Blue Phone lleva un sistema operativo AI-powered al Pixel 10 Pro para que un asistente gestione tareas entre apps.",
-          "mini_headline": "Un AI OS para el Pixel 10 Pro",
+          "headline": "Windows 11 Photos incorpora\nla AI generativa de Adobe",
+          "body": "La edición generativa de Adobe y Express llegan a Windows 11 Photos, con una vista previa para Insiders en diciembre.",
+          "mini_headline": "La AI de Adobe llega a Windows Photos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2025/09/google-pixel-10-pro-screen-on-home-screen-scaled.jpg",
-                "cap": "Una persona sostiene un Google Pixel 10 Pro con la pantalla encendida, mostrando la pantalla de inicio."
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Adobe-Max.jpg",
+                "cap": "El editor de fotos nativo de Windows recibirá pronto funciones Adobe-powered"
               },
               {
                 "t": "p",
-                "x": "Blue, una startup respaldada por Y Combinator, ha abierto la beta pública de su nuevo Blue Phone, que sitúa a un asistente de AI en el centro de la experiencia del smartphone. En lugar de fabricar un teléfono completamente nuevo, empieza con el Google Pixel 10 Pro y el Pixel 10 Pro XL, ambos con Blue OS, una versión personalizada de Android que permite al asistente de AI trabajar entre apps y encargarse de tareas por el usuario."
+                "x": "Adobe y Microsoft amplían su alianza para llevar nuevas funciones de edición AI-powered a Windows 11 y mejorar el rendimiento de Creative Cloud en Arm-based PCs. Las empresas anunciaron la colaboración en Adobe Max 2026."
               },
               {
                 "t": "p",
-                "x": "Si se busca un recibo de hace meses, se quieren comparar precios antes de una compra o se necesita impugnar un cargo inesperado, Blue puede hacerlo, incluso atendiendo varias solicitudes a la vez."
-              },
-              {
-                "t": "video",
-                "yt": "mrTgV4U_wI4"
+                "x": "Las herramientas de AI generativa de Adobe llegan a la app nativa Photos de Windows 11. Los usuarios podrán ampliar imágenes más allá de sus bordes originales, girar fotografías sin perder partes de la imagen y eliminar objetos no deseados mientras los huecos resultantes se rellenan automáticamente. La integración también admitirá la edición mediante texto, y Adobe Express estará accesible directamente desde el visor de Photos para convertir imágenes en invitaciones, publicaciones para redes sociales y otros diseños."
               },
               {
                 "t": "p",
-                "x": "También incluye una función de dictado por voz que convierte ideas expresadas de forma natural en un mensaje bien redactado. Para responder a las preocupaciones sobre privacidad, Blue usa un Vault cifrado para contraseñas y otra información sensible, y el sistema se basa en una versión de Android de código abierto centrada en la seguridad que bloquea el rastreo publicitario por defecto."
+                "x": "Estas funciones estarán disponibles primero para los Windows Insiders a partir de diciembre de 2026. Ninguna de las dos empresas ha precisado una fecha de lanzamiento más amplia ni ha aclarado si ciertas funciones de AI requerirán una suscripción de pago."
+              },
+              {
+                "t": "p",
+                "x": "Adobe también ha optimizado Photoshop, Premiere, After Effects y Substance 3D Painter (beta) para dispositivos Windows on Arm, incluido el Surface Laptop Ultra de Microsoft con Nvidia RTX Spark. Photoshop se beneficia de un procesamiento de AI generativa en el dispositivo más rápido, aunque algunas funciones y plugins de terceros siguen sin ser compatibles con Windows on Arm."
               },
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Screenshot-2026-11-11-at-8.01.19-PM.png",
-                "cap": "Del iPhone al Blue Phone en el Pixel 10 Pro"
-              },
-              {
-                "t": "p",
-                "x": "El Blue Phone cuesta $1,299, pero puede salir gratis si se envía el iPhone antiguo a la compañía en los 30 días posteriores a la compra. Incluye tres meses de uso ilimitado de Blue, y los envíos en US están previstos para noviembre y diciembre. La startup también trabaja en su propio smartphone, previsto para el tercer trimestre de 2027, que puede reservarse por $100 totalmente reembolsables."
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/8/b/csm_Adobe-X-Microsoft-Windows-11-features_86f7cbac0b.gif",
+                "cap": "Funciones de Adobe X Microsoft para Windows 11"
               }
             ]
           }
@@ -777,337 +747,15 @@
       }
     },
     {
-      "id": "deepx-dxm1-butter-demo",
+      "id": "msi-edgemesa-n-ai",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "DEEPX, 버터로 잰\n시원한 AI 칩",
-      "body": "DEEPX는 버터로 DX-M1 AI 칩이 섭씨 25~40도 넘게 시원하다고 했다.",
-      "mini_headline": "DEEPX의 버터 칩 시험",
+      "headline": "MSI 소형 AI 데스크톱\n통합메모리 최대 128GB",
+      "body": "MSI EdgeMesa N AI+는 최대 128GB 메모리의 로컬 AI 개발용이다.",
+      "mini_headline": "MSI 128GB 로컬 AI 데스크톱",
       "tool": "Gadgets",
-      "source": "Tom's Hardware",
-      "url": "https://www.tomshardware.com/tech-industry/data-centers/deepx-ai-chip-runs-so-cool-that-a-butter-heatsink-doesnt-melt-the-dx-m1-processor-impresses-in-a-bizarre-new-dairy-based-benchmark",
-      "accent": "#f5a623",
-      "motif": "headset",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/ZgC56W69q8WA6rhcBjxWKn-1920-80.jpg",
-            "cap": "DEEPX의 칩 위 버터 발열 시연"
-          },
-          {
-            "t": "p",
-            "x": "최근 CNBC가 소개한 한국 칩 스타트업 DEEPX가 유제품을 쓴 별난 발열 벤치마크로 DX-M1 프로세서가 열을 적게 낸다는 걸 보여 줬다. 경쟁 칩에 올린 버터 덩어리는 몇 초 만에 지글거렸지만 DEEPX 칩 위 버터는 굳은 모양 그대로였다."
-          },
-          {
-            "t": "p",
-            "x": "데이터센터 발열을 두고 DEEPX가 내놓는 해법은 간단하다. “AI 칩 자체를 더 시원하게 돌리는 것”이다. 이름을 밝히지 않은 경쟁 AI 칩과 나란히 놓고 한 시험에서 DX-M1 NPU는 눈에 띄게 시원했다. DEEPX CEO Kim Nok-won은 경쟁 제품보다 온도가 섭씨 25도에서 40도 이상 낮다고 주장하며 칩들이 “같은 AI 워크로드를 처리했고… 마지막 칩 [DX-M1]을 빼고 모든 칩이 버터를 녹였다”고 말했다."
-          },
-          {
-            "t": "p",
-            "x": "Tom's Hardware는 이 비교에 큰 허점이 있다고 꼬집는다. 가장 큰 구멍은 각 프로세서가 시험 워크로드를 얼마나 빨리 끝내느냐다. 전력과 클럭만 낮추면 어떤 칩이든 시원하게 돌릴 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "DX-M1은 2025년 8월부터 Samsung 5nm 공정에서 나오고 있고, 약 $13.3M 규모의 주문을 따냈다. 차세대 DX-M2는 Samsung 2nm 기반으로 H2 2027 양산이 목표다. 이들 NPUs는 엣지 컴퓨팅과 로보틱스를 겨냥한 칩으로 보여 전력을 많이 먹는 Nvidia 데이터센터 GPUs와 맞붙지 않는다. 버터 시험이 “다소 엉뚱한 미끼”라는 평가가 나오는 이유다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "DEEPX tests its cool AI chip\nwith a butter heatsink",
-          "body": "DEEPX used butter to show its DX-M1 AI chip runs 25 to over 40 degrees Celsius cooler than rival chips.",
-          "mini_headline": "DEEPX's butter chip test",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/ZgC56W69q8WA6rhcBjxWKn-1920-80.jpg",
-                "cap": "DEEPX's butter-on-chip thermal demo"
-              },
-              {
-                "t": "p",
-                "x": "South Korean chip startup DEEPX, recently featured by CNBC, demonstrated its DX-M1 processor's cool-running capabilities in a bizarre new dairy-based thermal benchmark. While rival chips caused a knob of butter to sizzle in seconds, atop the DEEPX solution, the butter block remains solid."
-              },
-              {
-                "t": "p",
-                "x": "DEEPX says its simple answer to data center heat is to \"make the AI chips themselves run cooler.\" In a side-by-side test against unnamed rival AI chips, the DX-M1 NPU is clearly cooler. DEEPX CEO Kim Nok-won claims a temperature difference of 25 to more than 40 degrees Celsius compared with competitors, saying the chips processed \"the same AI workload… and every chip melted the butter except the last chip [DX-M1].\""
-              },
-              {
-                "t": "p",
-                "x": "Tom's Hardware notes big gaps in the comparison, most notably how fast each processor tackles the test workload: anyone can run a chip cool if the power and clocks are scaled back."
-              },
-              {
-                "t": "p",
-                "x": "The DX-M1 has been produced on Samsung 5nm since August 2025 and has won approximately $13.3M worth of orders. The next-gen DX-M2, based on Samsung 2nm, is aiming for mass production in H2 2027. These NPUs look set for edge computing and robotics, so they aren't competing with power-gulping Nvidia data center GPUs, making the butter test \"a bit of a red herring.\""
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "DEEPX, 버터로 잰\n시원한 AI 칩",
-          "body": "DEEPX는 버터로 DX-M1 AI 칩이 섭씨 25~40도 넘게 시원하다고 했다.",
-          "mini_headline": "DEEPX의 버터 칩 시험",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/ZgC56W69q8WA6rhcBjxWKn-1920-80.jpg",
-                "cap": "DEEPX의 칩 위 버터 발열 시연"
-              },
-              {
-                "t": "p",
-                "x": "최근 CNBC가 소개한 한국 칩 스타트업 DEEPX가 유제품을 쓴 별난 발열 벤치마크로 DX-M1 프로세서가 열을 적게 낸다는 걸 보여 줬다. 경쟁 칩에 올린 버터 덩어리는 몇 초 만에 지글거렸지만 DEEPX 칩 위 버터는 굳은 모양 그대로였다."
-              },
-              {
-                "t": "p",
-                "x": "데이터센터 발열을 두고 DEEPX가 내놓는 해법은 간단하다. “AI 칩 자체를 더 시원하게 돌리는 것”이다. 이름을 밝히지 않은 경쟁 AI 칩과 나란히 놓고 한 시험에서 DX-M1 NPU는 눈에 띄게 시원했다. DEEPX CEO Kim Nok-won은 경쟁 제품보다 온도가 섭씨 25도에서 40도 이상 낮다고 주장하며 칩들이 “같은 AI 워크로드를 처리했고… 마지막 칩 [DX-M1]을 빼고 모든 칩이 버터를 녹였다”고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "Tom's Hardware는 이 비교에 큰 허점이 있다고 꼬집는다. 가장 큰 구멍은 각 프로세서가 시험 워크로드를 얼마나 빨리 끝내느냐다. 전력과 클럭만 낮추면 어떤 칩이든 시원하게 돌릴 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "DX-M1은 2025년 8월부터 Samsung 5nm 공정에서 나오고 있고, 약 $13.3M 규모의 주문을 따냈다. 차세대 DX-M2는 Samsung 2nm 기반으로 H2 2027 양산이 목표다. 이들 NPUs는 엣지 컴퓨팅과 로보틱스를 겨냥한 칩으로 보여 전력을 많이 먹는 Nvidia 데이터센터 GPUs와 맞붙지 않는다. 버터 시험이 “다소 엉뚱한 미끼”라는 평가가 나오는 이유다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "DEEPX、バターで試す\n低発熱のAIチップ",
-          "body": "DEEPXはバターで、DX-M1 AIチップが競合より摂氏25〜40度以上低温だと示した。",
-          "mini_headline": "DEEPXのバターチップ試験",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/ZgC56W69q8WA6rhcBjxWKn-1920-80.jpg",
-                "cap": "DEEPXによるチップ上のバターを使った熱デモ"
-              },
-              {
-                "t": "p",
-                "x": "最近CNBCでも取り上げられた韓国の半導体スタートアップDEEPXが、乳製品を使った奇抜な新しい熱ベンチマークで、DX-M1プロセッサーの低発熱ぶりを披露した。競合チップの上ではバターの塊が数秒でジュージューと音を立てたが、DEEPXのチップの上ではバターは固いままだった。"
-              },
-              {
-                "t": "p",
-                "x": "DEEPXによれば、データセンターの発熱に対する同社のシンプルな答えは「AIチップそのものをより低温で動かすこと」だという。名前を伏せた競合AIチップとの並列テストで、DX-M1 NPUは明らかに低温だった。DEEPXのCEO、Kim Nok-won氏は競合と比べて摂氏25度から40度以上の温度差があると主張し、各チップは「同じAIワークロードを処理した…そして最後のチップ[DX-M1]以外はすべてバターを溶かした」と述べた。"
-              },
-              {
-                "t": "p",
-                "x": "Tom's Hardwareは、この比較には大きな抜けがあると指摘する。最も目立つのは各プロセッサーがテストのワークロードをどれだけ速くこなすかという点で、電力とクロックを下げれば誰でもチップを低温で動かせる。"
-              },
-              {
-                "t": "p",
-                "x": "DX-M1は2025年8月からSamsungの5nm プロセスで生産されており、約$13.3M 相当の受注を獲得している。Samsungの2nm プロセスをベースとする次世代のDX-M2は、H2 2027の量産を目指す。これらのNPUsはエッジコンピューティングやロボティクス向けとみられ、電力を大量に消費するNvidiaのデータセンター向けGPUsとは競合しないため、バターテストは「少々的外れ」だという。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "DEEPX用黄油散热\n测试低温AI芯片",
-          "body": "DEEPX用黄油证明其DX-M1 AI芯片温度比竞品低25至40余摄氏度。",
-          "mini_headline": "DEEPX的黄油芯片测试",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/ZgC56W69q8WA6rhcBjxWKn-1920-80.jpg",
-                "cap": "DEEPX的芯片黄油散热演示"
-              },
-              {
-                "t": "p",
-                "x": "近期登上CNBC报道的韩国芯片初创公司DEEPX，用一项以乳制品为道具的离奇散热基准测试，展示了其DX-M1处理器的低温运行能力。竞争对手的芯片几秒内就让一块黄油滋滋作响，而放在DEEPX芯片上的黄油始终保持固态。"
-              },
-              {
-                "t": "p",
-                "x": "DEEPX称，它应对数据中心发热的简单办法是“让AI芯片本身运行得更凉”。在与未具名竞品AI芯片的并排测试中，DX-M1 NPU明显更凉。DEEPX CEO Kim Nok-won声称，与竞争对手相比温差达25到40多摄氏度，并表示这些芯片处理的是“相同的AI工作负载……除了最后一块芯片[DX-M1]，每块芯片都把黄油熔化了”。"
-              },
-              {
-                "t": "p",
-                "x": "Tom's Hardware指出，这项对比存在明显漏洞，最突出的是各处理器完成测试负载的速度：只要调低功耗和频率，谁都能让芯片保持低温。"
-              },
-              {
-                "t": "p",
-                "x": "DX-M1自2025年8月起采用Samsung 5nm 工艺生产，已拿下约$13.3M 的订单。基于Samsung 2nm 的下一代DX-M2目标在H2 2027量产。这些NPUs似乎面向边缘计算和机器人，并不与耗电巨大的Nvidia数据中心GPUs竞争，因此黄油测试“有点转移视线”。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "DEEPX prueba su chip de AI frío\ncon un disipador de mantequilla",
-          "body": "DEEPX mostró con mantequilla que su chip AI DX-M1 opera de 25 a más de 40 grados Celsius más frío que la competencia.",
-          "mini_headline": "La prueba de mantequilla de DEEPX",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/ZgC56W69q8WA6rhcBjxWKn-1920-80.jpg",
-                "cap": "Demostración térmica de DEEPX con mantequilla sobre el chip"
-              },
-              {
-                "t": "p",
-                "x": "La startup surcoreana de chips DEEPX, que CNBC presentó recientemente, demostró la baja temperatura de funcionamiento de su procesador DX-M1 con una extraña nueva prueba térmica a base de lácteos. Mientras los chips rivales hacían chisporrotear un trozo de mantequilla en segundos, sobre la solución de DEEPX el bloque de mantequilla se mantiene sólido."
-              },
-              {
-                "t": "p",
-                "x": "DEEPX afirma que su respuesta sencilla al calor de los centros de datos es “hacer que los propios chips de AI funcionen más fríos”. En una prueba lado a lado con chips de AI rivales sin nombre, la NPU DX-M1 es claramente más fría. El CEO de DEEPX, Kim Nok-won, asegura que hay una diferencia de temperatura de 25 a más de 40 grados Celsius frente a la competencia, y dice que los chips procesaron “la misma carga de trabajo de AI… y todos los chips derritieron la mantequilla excepto el último [DX-M1]”."
-              },
-              {
-                "t": "p",
-                "x": "Tom's Hardware señala grandes lagunas en la comparación, sobre todo la rapidez con la que cada procesador completa la carga de prueba: cualquiera puede mantener frío un chip si reduce la potencia y las frecuencias."
-              },
-              {
-                "t": "p",
-                "x": "El DX-M1 se fabrica en el proceso de 5nm de Samsung desde agosto de 2025 y ha conseguido pedidos por unos $13.3M. El DX-M2 de próxima generación, basado en el proceso de 2nm de Samsung, apunta a la producción en masa en H2 2027. Estas NPUs parecen destinadas a la computación en el borde y la robótica, así que no compiten con las GPUs de centros de datos de Nvidia, que consumen mucha energía, lo que convierte la prueba de la mantequilla en “una pista algo falsa”."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "DEEPX, 버터로 잰\n시원한 AI 칩",
-          "body": "DEEPX가 버터로 DX-M1 AI 칩이 섭씨 25~40도 넘게 시원함을 보였다.",
-          "mini_headline": "DEEPX의 버터 칩 시험",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/ZgC56W69q8WA6rhcBjxWKn-1920-80.jpg",
-                "cap": "DEEPX의 칩 위 버터 발열 시연"
-              },
-              {
-                "t": "p",
-                "x": "최근 CNBC에 소개된 한국 칩 스타트업 DEEPX가 유제품을 활용한 기묘한 새 발열 벤치마크로 DX-M1 프로세서의 저발열 성능을 시연했다. 경쟁 칩 위의 버터 덩어리는 몇 초 만에 지글거렸지만, DEEPX 칩 위의 버터는 단단한 형태를 유지했다."
-              },
-              {
-                "t": "p",
-                "x": "DEEPX는 데이터센터 발열에 대한 자사의 간단한 해법이 “AI 칩 자체를 더 시원하게 돌리는 것”이라고 말한다. 이름을 밝히지 않은 경쟁 AI 칩과 나란히 놓고 한 시험에서 DX-M1 NPU는 확연히 더 시원했다. DEEPX CEO Kim Nok-won은 경쟁 제품 대비 섭씨 25도에서 40도 이상의 온도 차이가 난다고 주장하며, 칩들이 “같은 AI 워크로드를 처리했고… 마지막 칩 [DX-M1]을 빼고 모든 칩이 버터를 녹였다”고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "Tom's Hardware는 이 비교에 큰 허점이 있다고 지적한다. 가장 눈에 띄는 것은 각 프로세서가 시험 워크로드를 얼마나 빨리 처리하느냐다. 전력과 클럭을 낮추면 누구든 칩을 시원하게 돌릴 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "DX-M1은 2025년 8월부터 Samsung 5nm 공정으로 생산되고 있으며, 약 $13.3M 규모의 주문을 따냈다. Samsung 2nm 기반의 차세대 DX-M2는 H2 2027 양산을 목표로 한다. 이들 NPUs는 엣지 컴퓨팅과 로보틱스를 겨냥한 것으로 보여 전력을 많이 먹는 Nvidia 데이터센터 GPUs와 경쟁하지 않으며, 그래서 버터 시험은 “다소 엉뚱한 미끼”라는 평가다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "DEEPX、バターで試す\n低発熱のAIチップ",
-          "body": "DEEPXはバターで、DX-M1 AIチップが競合より摂氏25〜40度以上低温だと示した。",
-          "mini_headline": "DEEPXのバターチップ試験",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/ZgC56W69q8WA6rhcBjxWKn-1920-80.jpg",
-                "cap": "DEEPXによるチップ上のバターを使った熱デモ"
-              },
-              {
-                "t": "p",
-                "x": "最近CNBCでも取り上げられた韓国の半導体スタートアップDEEPXが、乳製品を使った奇抜な新しい熱ベンチマークで、DX-M1プロセッサーの低発熱ぶりを披露した。競合チップの上ではバターの塊が数秒でジュージューと音を立てたが、DEEPXのチップの上ではバターは固いままだった。"
-              },
-              {
-                "t": "p",
-                "x": "DEEPXによれば、データセンターの発熱に対する同社のシンプルな答えは「AIチップそのものをより低温で動かすこと」だという。名前を伏せた競合AIチップとの並列テストで、DX-M1 NPUは明らかに低温だった。DEEPXのCEO、Kim Nok-won氏は競合と比べて摂氏25度から40度以上の温度差があると主張し、各チップは「同じAIワークロードを処理した…そして最後のチップ[DX-M1]以外はすべてバターを溶かした」と述べた。"
-              },
-              {
-                "t": "p",
-                "x": "Tom's Hardwareは、この比較には大きな抜けがあると指摘する。最も目立つのは各プロセッサーがテストのワークロードをどれだけ速くこなすかという点で、電力とクロックを下げれば誰でもチップを低温で動かせる。"
-              },
-              {
-                "t": "p",
-                "x": "DX-M1は2025年8月からSamsungの5nm プロセスで生産されており、約$13.3M 相当の受注を獲得している。Samsungの2nm プロセスをベースとする次世代のDX-M2は、H2 2027の量産を目指す。これらのNPUsはエッジコンピューティングやロボティクス向けとみられ、電力を大量に消費するNvidiaのデータセンター向けGPUsとは競合しないため、バターテストは「少々的外れ」だという。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "DEEPX用黄油散热\n测试低温AI芯片",
-          "body": "DEEPX用黄油证明其DX-M1 AI芯片温度比竞品低25至40余摄氏度。",
-          "mini_headline": "DEEPX的黄油芯片测试",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/ZgC56W69q8WA6rhcBjxWKn-1920-80.jpg",
-                "cap": "DEEPX的芯片黄油散热演示"
-              },
-              {
-                "t": "p",
-                "x": "近期登上CNBC报道的韩国芯片初创公司DEEPX，用一项以乳制品为道具的离奇散热基准测试，展示了其DX-M1处理器的低温运行能力。竞争对手的芯片几秒内就让一块黄油滋滋作响，而放在DEEPX芯片上的黄油始终保持固态。"
-              },
-              {
-                "t": "p",
-                "x": "DEEPX称，它应对数据中心发热的简单办法是“让AI芯片本身运行得更凉”。在与未具名竞品AI芯片的并排测试中，DX-M1 NPU明显更凉。DEEPX CEO Kim Nok-won声称，与竞争对手相比温差达25到40多摄氏度，并表示这些芯片处理的是“相同的AI工作负载……除了最后一块芯片[DX-M1]，每块芯片都把黄油熔化了”。"
-              },
-              {
-                "t": "p",
-                "x": "Tom's Hardware指出，这项对比存在明显漏洞，最突出的是各处理器完成测试负载的速度：只要调低功耗和频率，谁都能让芯片保持低温。"
-              },
-              {
-                "t": "p",
-                "x": "DX-M1自2025年8月起采用Samsung 5nm 工艺生产，已拿下约$13.3M 的订单。基于Samsung 2nm 的下一代DX-M2目标在H2 2027量产。这些NPUs似乎面向边缘计算和机器人，并不与耗电巨大的Nvidia数据中心GPUs竞争，因此黄油测试“有点转移视线”。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "DEEPX prueba su chip de AI frío\ncon un disipador de mantequilla",
-          "body": "DEEPX mostró con mantequilla que su chip AI DX-M1 opera de 25 a más de 40 grados Celsius más frío que la competencia.",
-          "mini_headline": "La prueba de mantequilla de DEEPX",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/ZgC56W69q8WA6rhcBjxWKn-1920-80.jpg",
-                "cap": "Demostración térmica de DEEPX con mantequilla sobre el chip"
-              },
-              {
-                "t": "p",
-                "x": "La startup surcoreana de chips DEEPX, que CNBC presentó recientemente, demostró la baja temperatura de funcionamiento de su procesador DX-M1 con una extraña nueva prueba térmica a base de lácteos. Mientras los chips rivales hacían chisporrotear un trozo de mantequilla en segundos, sobre la solución de DEEPX el bloque de mantequilla se mantiene sólido."
-              },
-              {
-                "t": "p",
-                "x": "DEEPX afirma que su respuesta sencilla al calor de los centros de datos es “hacer que los propios chips de AI funcionen más fríos”. En una prueba lado a lado con chips de AI rivales sin nombre, la NPU DX-M1 es claramente más fría. El CEO de DEEPX, Kim Nok-won, asegura que hay una diferencia de temperatura de 25 a más de 40 grados Celsius frente a la competencia, y dice que los chips procesaron “la misma carga de trabajo de AI… y todos los chips derritieron la mantequilla excepto el último [DX-M1]”."
-              },
-              {
-                "t": "p",
-                "x": "Tom's Hardware señala grandes lagunas en la comparación, sobre todo la rapidez con la que cada procesador completa la carga de prueba: cualquiera puede mantener frío un chip si reduce la potencia y las frecuencias."
-              },
-              {
-                "t": "p",
-                "x": "El DX-M1 se fabrica en el proceso de 5nm de Samsung desde agosto de 2025 y ha conseguido pedidos por unos $13.3M. El DX-M2 de próxima generación, basado en el proceso de 2nm de Samsung, apunta a la producción en masa en H2 2027. Estas NPUs parecen destinadas a la computación en el borde y la robótica, así que no compiten con las GPUs de centros de datos de Nvidia, que consumen mucha energía, lo que convierte la prueba de la mantequilla en “una pista algo falsa”."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "gigabyte-aitop-aero-spark",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Gigabyte AI PC\nMac Studio에 도전",
-      "body": "AI Top Aero는 RTX Spark와 최대 128 GB를 한 리터에 담았다.",
-      "mini_headline": "Gigabyte의 RTX Spark 미니 PC",
-      "tool": "Gadgets",
-      "source": "Notebookcheck",
-      "url": "https://www.notebookcheck.net/Gigabyte-takes-on-Mac-Studio-with-a-tiny-AI-PC-powered-by-Nvidia-RTX-Spark.1447215.0.html",
+      "source": "The Gadgeteer",
+      "url": "https://the-gadgeteer.com/2026/11/11/msi-edgemesa-n-ai-desktop/",
       "accent": "#7928ca",
       "motif": "headset",
       "full": {
@@ -1115,179 +763,245 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/gigabyte-ai-top-aero-nvidia-rtx-spark.jpg",
-            "cap": "Gigabyte AI Top Aero — Nvidia RTX Spark와 128 GB 통합 메모리를 갖춘 한 리터 크기의 AI 데스크톱."
+            "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-005US-AI-Supercomputer-Desktop-Cover.jpeg"
           },
           {
             "t": "p",
-            "x": "Gigabyte가 미니 PC AI Top Aero를 내놓았다. 로컬 AI 개발과 콘텐츠 제작, 나중에는 게임까지 염두에 둔 제품이다. Nvidia RTX Spark 플랫폼을 얹어 약 한 리터 부피의 섀시에 Nvidia Blackwell GPU와 Arm-based Grace CPU를 함께 넣었다."
+            "x": "MSI의 EdgeMesa N AI+는 NVIDIA의 RTX Spark N1X 슈퍼칩과 최대 128GB 통합 메모리를 작은 데스크톱에 넣었다. US에서 파는 두 구성은 프로세서와 그래픽 하드웨어가 같아서, 사실상 메모리와 저장 용량만 고르면 된다."
+          },
+          {
+            "t": "img",
+            "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-005US-AI-Supercomputer-Desktop-5.png"
           },
           {
             "t": "p",
-            "x": "RTX Spark N1X Superchip 하나에 20-core Grace CPU와 CUDA 코어 6,144개짜리 Blackwell RTX GPU가 들어간다. 구성에 따라 최대 128 GB LPDDR5X 통합 메모리와 최대 4 TB PCIe 5.0 SSD를 고를 수 있다. Nvidia가 내세우는 FP4 AI 성능은 최대 1 페타플롭으로, 클라우드 서비스에 기대지 않고 AI 모델을 로컬에서 돌리는 수준이다."
+            "x": "RTX Spark N1X는 6,144-core Blackwell RTX GPU와 20-core NVIDIA Grace CPU를 묶었고, FP4 AI 성능은 최대 1 petaFLOP이다. MSI가 거듭 강조하는 용도는 늘 켜 두는 AI 에이전트다."
+          },
+          {
+            "t": "img",
+            "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-006US-AI-Supercomputer-Desktop-1.jpeg"
           },
           {
             "t": "p",
-            "x": "“Personal AI Studio”를 내건 이 제품은 LM Studio, Ollama, Nvidia Nemotron 모델을 지원한다. 모델을 만들고 파인튜닝하고 돌리는 CUDA, 로컬 네트워크의 여러 기기로 추론을 나눠 보내는 Nvidia PAIR(Personal AI Router)도 쓸 수 있다. DLSS 5 게임도 돌아가지만 RTX Spark 첫 리뷰에서는 일부 게임이 실행되지 않거나 충돌했다는 보고가 나왔다."
+            "x": "두 버전 모두 256-bit 인터페이스의 LPDDR5X-9600을 쓴다. X-006US는 64GB와 1TB SSD를, X-005US는 128GB와 4TB를 실었다. 통합 메모리라 CPU와 GPU가 같은 메모리 풀을 읽고, 모델 가중치와 작업 데이터도 한곳에 머문다."
+          },
+          {
+            "t": "img",
+            "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-005US-AI-Supercomputer-Desktop-4-1.jpeg"
           },
           {
             "t": "p",
-            "x": "단자는 USB Type-C, 10 GbE Ethernet, Wi-Fi 7을 갖췄다. AI Top Aero 출시일은 2026년 11월 10일이다. Gigabyte는 가격을 밝히지 않았다. 비슷한 AI Top Atom은 64 GB 메모리와 2 TB SSD 구성이 $4,999부터다."
+            "x": "본체는 너비 5.98인치, 깊이 5.79인치, 높이 2.09인치다. 냉각은 베이퍼 챔버가 맡고 전원 어댑터는 240W다. 20Gbps USB Type-C 포트 네 개와 10G LAN, Wi-Fi 7을 갖췄고 디스플레이는 최대 네 대까지 물린다. 프로세서가 Arm이라 쓰는 툴체인이 이를 지원해야 한다. X-006US 가격은 $4,699다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Gigabyte's one-liter AI PC\ntakes on the Mac Studio",
-          "body": "Gigabyte's AI Top Aero packs Nvidia's RTX Spark platform and up to 128 GB of memory into a one-liter desktop.",
-          "mini_headline": "Gigabyte's RTX Spark mini PC",
+          "headline": "MSI's compact AI desktop packs\nup to 128GB of unified memory",
+          "body": "MSI's EdgeMesa N AI+ pairs up to 128GB of unified memory with Nvidia Blackwell graphics for local AI development.",
+          "mini_headline": "MSI's 128GB local AI desktop",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/gigabyte-ai-top-aero-nvidia-rtx-spark.jpg",
-                "cap": "Gigabyte AI Top Aero — one-liter AI desktop with Nvidia RTX Spark and 128 GB of unified memory."
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-005US-AI-Supercomputer-Desktop-Cover.jpeg"
               },
               {
                 "t": "p",
-                "x": "Gigabyte has launched the AI Top Aero, a mini PC designed for local AI development, content creation, and, in the future, gaming. It is powered by Nvidia's RTX Spark platform, combining an Nvidia Blackwell GPU with an Arm-based Grace CPU in a chassis with a volume of roughly one liter."
+                "x": "MSI’s EdgeMesa N AI+ puts NVIDIA’s RTX Spark N1X superchip into a compact desktop with up to 128GB of unified memory. Its two US configurations share the same processor and graphics hardware, leaving memory and storage as the main buying decisions."
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-005US-AI-Supercomputer-Desktop-5.png"
               },
               {
                 "t": "p",
-                "x": "Its RTX Spark N1X Superchip integrates a 20-core Grace CPU with a Blackwell RTX GPU featuring 6,144 CUDA cores. Configurations offer up to 128 GB of LPDDR5X unified memory and up to a 4 TB PCIe 5.0 SSD, and Nvidia rates the platform at up to 1 petaflop of FP4 AI performance for running AI models locally without relying on cloud services."
+                "x": "The RTX Spark N1X pairs a 6,144-core Blackwell RTX GPU with a 20-core NVIDIA Grace CPU, rated at up to 1 petaFLOP of FP4 AI performance. Persistent AI agents are the workload MSI keeps pointing at."
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-006US-AI-Supercomputer-Desktop-1.jpeg"
               },
               {
                 "t": "p",
-                "x": "Positioned as a \"Personal AI Studio,\" it supports LM Studio, Ollama and Nvidia Nemotron models, CUDA for building, fine-tuning and running models, and Nvidia PAIR (Personal AI Router) to distribute inference across devices on a local network. Gaming with DLSS 5 is supported, though first reviews of RTX Spark report launch failures and crashes in some games."
+                "x": "Both versions use LPDDR5X-9600 across a 256-bit interface: the X-006US carries 64GB and a 1TB SSD, the X-005US 128GB and 4TB. Unified memory means the CPU and GPU read the same pool, so model weights and working data stay in one place."
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-005US-AI-Supercomputer-Desktop-4-1.jpeg"
               },
               {
                 "t": "p",
-                "x": "Connectivity includes USB Type-C, 10 GbE Ethernet and Wi-Fi 7. The AI Top Aero launched November 10, 2026; Gigabyte has not disclosed its price, but the similar AI Top Atom starts at $4,999 with 64 GB of memory and a 2 TB SSD."
+                "x": "The machine measures 5.98 inches wide, 5.79 inches deep and 2.09 inches tall, with vapor-chamber cooling and a 240W power adapter. It offers four 20Gbps USB Type-C ports, 10G LAN, Wi-Fi 7 and up to four displays. The processor is Arm, so your toolchain has to support it. The X-006US costs $4,699."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Gigabyte AI PC\nMac Studio에 도전",
-          "body": "AI Top Aero는 RTX Spark와 최대 128 GB를 한 리터에 담았다.",
-          "mini_headline": "Gigabyte의 RTX Spark 미니 PC",
+          "headline": "MSI 소형 AI 데스크톱\n통합메모리 최대 128GB",
+          "body": "MSI EdgeMesa N AI+는 최대 128GB 메모리의 로컬 AI 개발용이다.",
+          "mini_headline": "MSI 128GB 로컬 AI 데스크톱",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/gigabyte-ai-top-aero-nvidia-rtx-spark.jpg",
-                "cap": "Gigabyte AI Top Aero — Nvidia RTX Spark와 128 GB 통합 메모리를 갖춘 한 리터 크기의 AI 데스크톱."
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-005US-AI-Supercomputer-Desktop-Cover.jpeg"
               },
               {
                 "t": "p",
-                "x": "Gigabyte가 미니 PC AI Top Aero를 내놓았다. 로컬 AI 개발과 콘텐츠 제작, 나중에는 게임까지 염두에 둔 제품이다. Nvidia RTX Spark 플랫폼을 얹어 약 한 리터 부피의 섀시에 Nvidia Blackwell GPU와 Arm-based Grace CPU를 함께 넣었다."
+                "x": "MSI의 EdgeMesa N AI+는 NVIDIA의 RTX Spark N1X 슈퍼칩과 최대 128GB 통합 메모리를 작은 데스크톱에 넣었다. US에서 파는 두 구성은 프로세서와 그래픽 하드웨어가 같아서, 사실상 메모리와 저장 용량만 고르면 된다."
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-005US-AI-Supercomputer-Desktop-5.png"
               },
               {
                 "t": "p",
-                "x": "RTX Spark N1X Superchip 하나에 20-core Grace CPU와 CUDA 코어 6,144개짜리 Blackwell RTX GPU가 들어간다. 구성에 따라 최대 128 GB LPDDR5X 통합 메모리와 최대 4 TB PCIe 5.0 SSD를 고를 수 있다. Nvidia가 내세우는 FP4 AI 성능은 최대 1 페타플롭으로, 클라우드 서비스에 기대지 않고 AI 모델을 로컬에서 돌리는 수준이다."
+                "x": "RTX Spark N1X는 6,144-core Blackwell RTX GPU와 20-core NVIDIA Grace CPU를 묶었고, FP4 AI 성능은 최대 1 petaFLOP이다. MSI가 거듭 강조하는 용도는 늘 켜 두는 AI 에이전트다."
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-006US-AI-Supercomputer-Desktop-1.jpeg"
               },
               {
                 "t": "p",
-                "x": "“Personal AI Studio”를 내건 이 제품은 LM Studio, Ollama, Nvidia Nemotron 모델을 지원한다. 모델을 만들고 파인튜닝하고 돌리는 CUDA, 로컬 네트워크의 여러 기기로 추론을 나눠 보내는 Nvidia PAIR(Personal AI Router)도 쓸 수 있다. DLSS 5 게임도 돌아가지만 RTX Spark 첫 리뷰에서는 일부 게임이 실행되지 않거나 충돌했다는 보고가 나왔다."
+                "x": "두 버전 모두 256-bit 인터페이스의 LPDDR5X-9600을 쓴다. X-006US는 64GB와 1TB SSD를, X-005US는 128GB와 4TB를 실었다. 통합 메모리라 CPU와 GPU가 같은 메모리 풀을 읽고, 모델 가중치와 작업 데이터도 한곳에 머문다."
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-005US-AI-Supercomputer-Desktop-4-1.jpeg"
               },
               {
                 "t": "p",
-                "x": "단자는 USB Type-C, 10 GbE Ethernet, Wi-Fi 7을 갖췄다. AI Top Aero 출시일은 2026년 11월 10일이다. Gigabyte는 가격을 밝히지 않았다. 비슷한 AI Top Atom은 64 GB 메모리와 2 TB SSD 구성이 $4,999부터다."
+                "x": "본체는 너비 5.98인치, 깊이 5.79인치, 높이 2.09인치다. 냉각은 베이퍼 챔버가 맡고 전원 어댑터는 240W다. 20Gbps USB Type-C 포트 네 개와 10G LAN, Wi-Fi 7을 갖췄고 디스플레이는 최대 네 대까지 물린다. 프로세서가 Arm이라 쓰는 툴체인이 이를 지원해야 한다. X-006US 가격은 $4,699다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "GigabyteのAI PC\nMac Studioに挑む",
-          "body": "AI Top AeroはRTX Sparkと最大128 GBを一リットルに収めた。",
-          "mini_headline": "GigabyteのRTX SparkミニPC",
+          "headline": "MSIの小型AIデスクトップ\n統合メモリ最大128GB",
+          "body": "MSI EdgeMesa N AI+は最大128GBの統合メモリでローカルAI開発向けだ。",
+          "mini_headline": "MSIの128GBローカルAIデスクトップ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/gigabyte-ai-top-aero-nvidia-rtx-spark.jpg",
-                "cap": "Gigabyte AI Top Aero — Nvidia RTX Sparkと128 GBのユニファイドメモリを備えた一リットルのAIデスクトップ。"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-005US-AI-Supercomputer-Desktop-Cover.jpeg"
               },
               {
                 "t": "p",
-                "x": "Gigabyteは、ローカルAI開発やコンテンツ制作、そして将来的にはゲーム向けに設計したミニPC「AI Top Aero」を発売した。NvidiaのRTX Sparkプラットフォームを搭載し、容積約一リットルの筐体にNvidia Blackwell GPUとArm-basedのGrace CPUを組み合わせている。"
+                "x": "MSIのEdgeMesa N AI+は、NVIDIAのRTX Spark N1Xスーパーチップを、最大128GBの統合メモリとともに小型デスクトップに収めた。US向けの二つの構成はプロセッサーとグラフィックスのハードウェアが共通で、購入時の主な選択肢はメモリとストレージになる。"
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-005US-AI-Supercomputer-Desktop-5.png"
               },
               {
                 "t": "p",
-                "x": "RTX Spark N1X Superchipは、20-coreのGrace CPUと、6,144基のCUDAコアを備えたBlackwell RTX GPUを統合する。構成は最大128 GBのLPDDR5Xユニファイドメモリと最大4 TBのPCIe 5.0 SSDで、Nvidiaはクラウドサービスに頼らずローカルでAIモデルを動かすためのFP4 AI性能を最大1ペタフロップとしている。"
+                "x": "RTX Spark N1Xは6,144-core Blackwell RTX GPUと20-core NVIDIA Grace CPUを組み合わせ、最大1 petaFLOPのFP4 AI性能をうたう。MSIが繰り返し想定用途に挙げるのは、常駐型のAIエージェントだ。"
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-006US-AI-Supercomputer-Desktop-1.jpeg"
               },
               {
                 "t": "p",
-                "x": "「Personal AI Studio」と位置付けられ、LM Studio、Ollama、Nvidia Nemotronモデルに対応するほか、モデルの構築・ファインチューニング・実行のためのCUDA、ローカルネットワーク上のデバイスに推論を分散するNvidia PAIR(Personal AI Router)をサポートする。DLSS 5でのゲームにも対応するが、RTX Sparkの初期レビューでは一部ゲームで起動失敗やクラッシュが報告されている。"
+                "x": "どちらのバージョンも256-bitインターフェースのLPDDR5X-9600を採用する。X-006USは64GBと1TB SSD、X-005USは128GBと4TBを搭載する。統合メモリではCPUとGPUが同じメモリプールを読むため、モデルの重みと作業データが一か所にとどまる。"
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-005US-AI-Supercomputer-Desktop-4-1.jpeg"
               },
               {
                 "t": "p",
-                "x": "接続端子はUSB Type-C、10 GbE Ethernet、Wi-Fi 7。AI Top Aeroは2026年11月10日に発売された。Gigabyteは価格を明らかにしていないが、類似のAI Top Atomは64 GBメモリと2 TB SSDの構成で$4,999からとなっている。"
+                "x": "本体は幅5.98インチ、奥行き5.79インチ、高さ2.09インチで、ベイパーチャンバー冷却と240W電源アダプターを備える。20Gbps USB Type-Cポート四つ、10G LAN、Wi-Fi 7を備え、最大四台のディスプレイに対応する。プロセッサーはArmなので、使うツールチェーンが対応している必要がある。X-006USの価格は$4,699だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Gigabyte的AI PC\n叫板Mac Studio",
-          "body": "AI Top Aero将Nvidia RTX Spark与最高128 GB内存装进一升机身。",
-          "mini_headline": "Gigabyte的RTX Spark迷你PC",
+          "headline": "MSI小型AI台式机\n最高128GB统一内存",
+          "body": "MSI EdgeMesa N AI+配备最高128GB统一内存，面向本地AI开发。",
+          "mini_headline": "MSI 128GB本地AI台式机",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/gigabyte-ai-top-aero-nvidia-rtx-spark.jpg",
-                "cap": "Gigabyte AI Top Aero——搭载Nvidia RTX Spark与128 GB统一内存的一升AI台式机。"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-005US-AI-Supercomputer-Desktop-Cover.jpeg"
               },
               {
                 "t": "p",
-                "x": "Gigabyte推出AI Top Aero迷你PC，面向本地AI开发、内容创作，未来也将支持游戏。它采用Nvidia的RTX Spark平台，在体积约一升的机箱内结合了Nvidia Blackwell GPU与Arm-based Grace CPU。"
+                "x": "MSI的EdgeMesa N AI+把NVIDIA的RTX Spark N1X超级芯片装进一台小型台式机，并配备最高128GB统一内存。它在US推出的两种配置采用相同的处理器和图形硬件，购买时主要只需在内存和存储上做选择。"
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-005US-AI-Supercomputer-Desktop-5.png"
               },
               {
                 "t": "p",
-                "x": "其RTX Spark N1X Superchip集成了20-core Grace CPU与拥有6,144个CUDA核心的Blackwell RTX GPU。配置最高可达128 GB LPDDR5X统一内存和4 TB PCIe 5.0 SSD；Nvidia称该平台FP4 AI性能最高可达1 petaflop，可在本地运行AI模型而无需依赖云服务。"
+                "x": "RTX Spark N1X将6,144-core Blackwell RTX GPU与20-core NVIDIA Grace CPU结合，FP4 AI性能最高可达1 petaFLOP。MSI反复强调的工作负载是常驻运行的AI智能体。"
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-006US-AI-Supercomputer-Desktop-1.jpeg"
               },
               {
                 "t": "p",
-                "x": "它定位为“Personal AI Studio”，支持LM Studio、Ollama和Nvidia Nemotron模型，支持用于构建、微调和运行模型的CUDA，以及可在本地网络设备间分配推理的Nvidia PAIR（Personal AI Router）。它也支持DLSS 5游戏，但RTX Spark的首批评测报告称部分游戏出现启动失败和崩溃。"
+                "x": "两个版本都采用256-bit接口的LPDDR5X-9600：X-006US配备64GB和1TB SSD，X-005US配备128GB和4TB。统一内存意味着CPU和GPU读取同一个内存池，因此模型权重和工作数据都留在一处。"
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-005US-AI-Supercomputer-Desktop-4-1.jpeg"
               },
               {
                 "t": "p",
-                "x": "接口包括USB Type-C、10 GbE Ethernet和Wi-Fi 7。AI Top Aero于2026年11月10日发布；Gigabyte未公布价格，但同类的AI Top Atom配备64 GB内存和2 TB SSD，起售价为$4,999。"
+                "x": "整机宽5.98英寸、深5.79英寸、高2.09英寸，采用均热板散热和240W电源适配器。它提供四个20Gbps USB Type-C接口、10G LAN和Wi-Fi 7，最多支持四台显示器。处理器为Arm架构，因此你的工具链必须支持它。X-006US售价$4,699。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Gigabyte: un AI PC de un litro\nque compite con el Mac Studio",
-          "body": "El AI Top Aero de Gigabyte integra la RTX Spark de Nvidia y hasta 128 GB de memoria en un escritorio de un litro.",
-          "mini_headline": "El mini PC RTX Spark de Gigabyte",
+          "headline": "El PC compacto de AI de MSI trae\nhasta 128GB de memoria unificada",
+          "body": "El EdgeMesa N AI+ de MSI combina hasta 128GB de memoria unificada con gráficos Nvidia Blackwell para AI local.",
+          "mini_headline": "El PC de AI local de MSI con 128GB",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/gigabyte-ai-top-aero-nvidia-rtx-spark.jpg",
-                "cap": "Gigabyte AI Top Aero — escritorio de AI de un litro con Nvidia RTX Spark y 128 GB de memoria unificada."
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-005US-AI-Supercomputer-Desktop-Cover.jpeg"
               },
               {
                 "t": "p",
-                "x": "Gigabyte ha lanzado el AI Top Aero, un mini PC diseñado para el desarrollo local de AI, la creación de contenido y, en el futuro, los videojuegos. Funciona con la plataforma RTX Spark de Nvidia, que combina una GPU Nvidia Blackwell con una Grace CPU Arm-based en un chasis de aproximadamente un litro de volumen."
+                "x": "El EdgeMesa N AI+ de MSI integra el superchip RTX Spark N1X de NVIDIA en un escritorio compacto con hasta 128GB de memoria unificada. Sus dos configuraciones para US comparten el mismo procesador y el mismo hardware gráfico, por lo que la memoria y el almacenamiento son las principales decisiones de compra."
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-005US-AI-Supercomputer-Desktop-5.png"
               },
               {
                 "t": "p",
-                "x": "Su RTX Spark N1X Superchip integra una Grace CPU 20-core con una Blackwell RTX GPU de 6,144 núcleos CUDA. Las configuraciones ofrecen hasta 128 GB de memoria unificada LPDDR5X y hasta un SSD PCIe 5.0 de 4 TB, y Nvidia atribuye a la plataforma hasta 1 petaflop de rendimiento de AI en FP4 para ejecutar modelos de AI localmente sin depender de servicios en la nube."
+                "x": "El RTX Spark N1X combina una Blackwell RTX GPU de 6,144-core con una NVIDIA Grace CPU de 20-core, con un rendimiento de hasta 1 petaFLOP en FP4 AI. Los agentes de AI persistentes son la carga de trabajo que MSI no deja de señalar."
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-006US-AI-Supercomputer-Desktop-1.jpeg"
               },
               {
                 "t": "p",
-                "x": "Presentado como un “Personal AI Studio”, es compatible con LM Studio, Ollama y los modelos Nvidia Nemotron, con CUDA para crear, ajustar y ejecutar modelos, y con Nvidia PAIR (Personal AI Router) para distribuir la inferencia entre dispositivos de una red local. Admite juegos con DLSS 5, aunque las primeras reseñas de RTX Spark informan de fallos al iniciar y cierres inesperados en algunos juegos."
+                "x": "Ambas versiones usan LPDDR5X-9600 con una interfaz de 256-bit: el X-006US lleva 64GB y un SSD de 1TB, y el X-005US, 128GB y 4TB. Con la memoria unificada, la CPU y la GPU leen el mismo bloque de memoria, de modo que los pesos del modelo y los datos de trabajo permanecen en un solo lugar."
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-005US-AI-Supercomputer-Desktop-4-1.jpeg"
               },
               {
                 "t": "p",
-                "x": "La conectividad incluye USB Type-C, 10 GbE Ethernet y Wi-Fi 7. El AI Top Aero salió a la venta el 10 de noviembre de 2026; Gigabyte no ha revelado su precio, pero el similar AI Top Atom parte de $4,999 con 64 GB de memoria y un SSD de 2 TB."
+                "x": "El equipo mide 5.98 pulgadas de ancho, 5.79 pulgadas de fondo y 2.09 pulgadas de alto, con refrigeración por cámara de vapor y un adaptador de corriente de 240W. Ofrece cuatro puertos USB Type-C de 20Gbps, 10G LAN, Wi-Fi 7 y soporte para hasta cuatro pantallas. El procesador es Arm, así que tu cadena de herramientas debe ser compatible. El X-006US cuesta $4,699."
               }
             ]
           }
@@ -1295,125 +1009,169 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Gigabyte AI PC\nMac Studio에 도전",
-          "body": "AI Top Aero는 RTX Spark와 최대 128 GB를 한 리터에 담았다.",
-          "mini_headline": "Gigabyte의 RTX Spark 미니 PC",
+          "headline": "MSI 소형 AI 데스크톱\n통합메모리 최대 128GB",
+          "body": "MSI EdgeMesa N AI+는 최대 128GB 메모리의 로컬 AI 개발용이다.",
+          "mini_headline": "MSI 128GB 로컬 AI 데스크톱",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/gigabyte-ai-top-aero-nvidia-rtx-spark.jpg",
-                "cap": "Gigabyte AI Top Aero — Nvidia RTX Spark와 128 GB 통합 메모리를 갖춘 한 리터 크기의 AI 데스크톱."
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-005US-AI-Supercomputer-Desktop-Cover.jpeg"
               },
               {
                 "t": "p",
-                "x": "Gigabyte가 로컬 AI 개발과 콘텐츠 제작, 그리고 향후 게임을 위해 설계한 미니 PC AI Top Aero를 출시했다. Nvidia의 RTX Spark 플랫폼을 탑재해 부피 약 한 리터의 섀시 안에 Nvidia Blackwell GPU와 Arm-based Grace CPU를 결합했다."
+                "x": "MSI의 EdgeMesa N AI+는 NVIDIA의 RTX Spark N1X 슈퍼칩과 최대 128GB 통합 메모리를 소형 데스크톱에 담았다. US에서 판매되는 두 가지 구성은 프로세서와 그래픽 하드웨어가 같아, 구매할 때 고를 것은 주로 메모리와 저장 용량이다."
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-005US-AI-Supercomputer-Desktop-5.png"
               },
               {
                 "t": "p",
-                "x": "RTX Spark N1X Superchip은 20-core Grace CPU와 CUDA 코어 6,144개를 갖춘 Blackwell RTX GPU를 통합했다. 구성에 따라 최대 128 GB LPDDR5X 통합 메모리와 최대 4 TB PCIe 5.0 SSD를 갖출 수 있으며, Nvidia는 클라우드 서비스에 기대지 않고 AI 모델을 로컬에서 돌리는 FP4 AI 성능을 최대 1 페타플롭으로 제시한다."
+                "x": "RTX Spark N1X는 6,144-core Blackwell RTX GPU와 20-core NVIDIA Grace CPU를 결합했고, FP4 AI 성능은 최대 1 petaFLOP이다. MSI가 거듭 내세우는 작업은 상시 구동되는 AI 에이전트다."
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-006US-AI-Supercomputer-Desktop-1.jpeg"
               },
               {
                 "t": "p",
-                "x": "“Personal AI Studio”를 표방하는 이 제품은 LM Studio, Ollama, Nvidia Nemotron 모델을 지원하고, 모델 구축·파인튜닝·실행을 위한 CUDA, 로컬 네트워크의 여러 기기에 추론을 분산하는 Nvidia PAIR(Personal AI Router)도 지원한다. DLSS 5 게임도 지원하지만, RTX Spark 첫 리뷰들에서는 일부 게임의 실행 실패와 충돌이 보고됐다."
+                "x": "두 버전 모두 256-bit 인터페이스의 LPDDR5X-9600을 쓴다. X-006US는 64GB와 1TB SSD를, X-005US는 128GB와 4TB를 탑재했다. 통합 메모리 구조에서는 CPU와 GPU가 같은 메모리 풀을 읽기 때문에 모델 가중치와 작업 데이터가 한곳에 머문다."
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-005US-AI-Supercomputer-Desktop-4-1.jpeg"
               },
               {
                 "t": "p",
-                "x": "연결 단자로는 USB Type-C, 10 GbE Ethernet, Wi-Fi 7을 갖췄다. AI Top Aero는 2026년 11월 10일 출시됐다. Gigabyte는 가격을 공개하지 않았지만, 비슷한 AI Top Atom은 64 GB 메모리와 2 TB SSD 구성에 $4,999부터 시작한다."
+                "x": "본체 크기는 너비 5.98인치, 깊이 5.79인치, 높이 2.09인치이며, 베이퍼 챔버 냉각과 240W 전원 어댑터를 갖췄다. 20Gbps USB Type-C 포트 네 개와 10G LAN, Wi-Fi 7을 제공하고 디스플레이는 최대 네 대까지 연결된다. 프로세서가 Arm이라 사용하는 툴체인이 이를 지원해야 한다. X-006US의 가격은 $4,699다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "GigabyteのAI PC\nMac Studioに挑む",
-          "body": "AI Top AeroはRTX Sparkと最大128 GBを一リットルに収めた。",
-          "mini_headline": "GigabyteのRTX SparkミニPC",
+          "headline": "MSIの小型AIデスクトップ\n統合メモリ最大128GB",
+          "body": "MSI EdgeMesa N AI+は最大128GBの統合メモリでローカルAI開発向けだ。",
+          "mini_headline": "MSIの128GBローカルAIデスクトップ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/gigabyte-ai-top-aero-nvidia-rtx-spark.jpg",
-                "cap": "Gigabyte AI Top Aero — Nvidia RTX Sparkと128 GBのユニファイドメモリを備えた一リットルのAIデスクトップ。"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-005US-AI-Supercomputer-Desktop-Cover.jpeg"
               },
               {
                 "t": "p",
-                "x": "Gigabyteは、ローカルAI開発やコンテンツ制作、そして将来的にはゲーム向けに設計したミニPC「AI Top Aero」を発売した。NvidiaのRTX Sparkプラットフォームを搭載し、容積約一リットルの筐体にNvidia Blackwell GPUとArm-basedのGrace CPUを組み合わせている。"
+                "x": "MSIのEdgeMesa N AI+は、NVIDIAのRTX Spark N1Xスーパーチップを、最大128GBの統合メモリとともに小型デスクトップに収めた。US向けの二つの構成はプロセッサーとグラフィックスのハードウェアが共通で、購入時の主な選択肢はメモリとストレージになる。"
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-005US-AI-Supercomputer-Desktop-5.png"
               },
               {
                 "t": "p",
-                "x": "RTX Spark N1X Superchipは、20-coreのGrace CPUと、6,144基のCUDAコアを備えたBlackwell RTX GPUを統合する。構成は最大128 GBのLPDDR5Xユニファイドメモリと最大4 TBのPCIe 5.0 SSDで、Nvidiaはクラウドサービスに頼らずローカルでAIモデルを動かすためのFP4 AI性能を最大1ペタフロップとしている。"
+                "x": "RTX Spark N1Xは6,144-core Blackwell RTX GPUと20-core NVIDIA Grace CPUを組み合わせ、最大1 petaFLOPのFP4 AI性能をうたう。MSIが繰り返し想定用途に挙げるのは、常駐型のAIエージェントだ。"
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-006US-AI-Supercomputer-Desktop-1.jpeg"
               },
               {
                 "t": "p",
-                "x": "「Personal AI Studio」と位置付けられ、LM Studio、Ollama、Nvidia Nemotronモデルに対応するほか、モデルの構築・ファインチューニング・実行のためのCUDA、ローカルネットワーク上のデバイスに推論を分散するNvidia PAIR(Personal AI Router)をサポートする。DLSS 5でのゲームにも対応するが、RTX Sparkの初期レビューでは一部ゲームで起動失敗やクラッシュが報告されている。"
+                "x": "どちらのバージョンも256-bitインターフェースのLPDDR5X-9600を採用する。X-006USは64GBと1TB SSD、X-005USは128GBと4TBを搭載する。統合メモリではCPUとGPUが同じメモリプールを読むため、モデルの重みと作業データが一か所にとどまる。"
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-005US-AI-Supercomputer-Desktop-4-1.jpeg"
               },
               {
                 "t": "p",
-                "x": "接続端子はUSB Type-C、10 GbE Ethernet、Wi-Fi 7。AI Top Aeroは2026年11月10日に発売された。Gigabyteは価格を明らかにしていないが、類似のAI Top Atomは64 GBメモリと2 TB SSDの構成で$4,999からとなっている。"
+                "x": "本体は幅5.98インチ、奥行き5.79インチ、高さ2.09インチで、ベイパーチャンバー冷却と240W電源アダプターを備える。20Gbps USB Type-Cポート四つ、10G LAN、Wi-Fi 7を備え、最大四台のディスプレイに対応する。プロセッサーはArmなので、使うツールチェーンが対応している必要がある。X-006USの価格は$4,699だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Gigabyte的AI PC\n叫板Mac Studio",
-          "body": "AI Top Aero将Nvidia RTX Spark与最高128 GB内存装进一升机身。",
-          "mini_headline": "Gigabyte的RTX Spark迷你PC",
+          "headline": "MSI小型AI台式机\n最高128GB统一内存",
+          "body": "MSI EdgeMesa N AI+配备最高128GB统一内存，面向本地AI开发。",
+          "mini_headline": "MSI 128GB本地AI台式机",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/gigabyte-ai-top-aero-nvidia-rtx-spark.jpg",
-                "cap": "Gigabyte AI Top Aero——搭载Nvidia RTX Spark与128 GB统一内存的一升AI台式机。"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-005US-AI-Supercomputer-Desktop-Cover.jpeg"
               },
               {
                 "t": "p",
-                "x": "Gigabyte推出AI Top Aero迷你PC，面向本地AI开发、内容创作，未来也将支持游戏。它采用Nvidia的RTX Spark平台，在体积约一升的机箱内结合了Nvidia Blackwell GPU与Arm-based Grace CPU。"
+                "x": "MSI的EdgeMesa N AI+把NVIDIA的RTX Spark N1X超级芯片装进一台小型台式机，并配备最高128GB统一内存。它在US推出的两种配置采用相同的处理器和图形硬件，购买时主要只需在内存和存储上做选择。"
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-005US-AI-Supercomputer-Desktop-5.png"
               },
               {
                 "t": "p",
-                "x": "其RTX Spark N1X Superchip集成了20-core Grace CPU与拥有6,144个CUDA核心的Blackwell RTX GPU。配置最高可达128 GB LPDDR5X统一内存和4 TB PCIe 5.0 SSD；Nvidia称该平台FP4 AI性能最高可达1 petaflop，可在本地运行AI模型而无需依赖云服务。"
+                "x": "RTX Spark N1X将6,144-core Blackwell RTX GPU与20-core NVIDIA Grace CPU结合，FP4 AI性能最高可达1 petaFLOP。MSI反复强调的工作负载是常驻运行的AI智能体。"
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-006US-AI-Supercomputer-Desktop-1.jpeg"
               },
               {
                 "t": "p",
-                "x": "它定位为“Personal AI Studio”，支持LM Studio、Ollama和Nvidia Nemotron模型，支持用于构建、微调和运行模型的CUDA，以及可在本地网络设备间分配推理的Nvidia PAIR（Personal AI Router）。它也支持DLSS 5游戏，但RTX Spark的首批评测报告称部分游戏出现启动失败和崩溃。"
+                "x": "两个版本都采用256-bit接口的LPDDR5X-9600：X-006US配备64GB和1TB SSD，X-005US配备128GB和4TB。统一内存意味着CPU和GPU读取同一个内存池，因此模型权重和工作数据都留在一处。"
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-005US-AI-Supercomputer-Desktop-4-1.jpeg"
               },
               {
                 "t": "p",
-                "x": "接口包括USB Type-C、10 GbE Ethernet和Wi-Fi 7。AI Top Aero于2026年11月10日发布；Gigabyte未公布价格，但同类的AI Top Atom配备64 GB内存和2 TB SSD，起售价为$4,999。"
+                "x": "整机宽5.98英寸、深5.79英寸、高2.09英寸，采用均热板散热和240W电源适配器。它提供四个20Gbps USB Type-C接口、10G LAN和Wi-Fi 7，最多支持四台显示器。处理器为Arm架构，因此你的工具链必须支持它。X-006US售价$4,699。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Gigabyte: un AI PC de un litro\nque compite con el Mac Studio",
-          "body": "El AI Top Aero de Gigabyte integra la RTX Spark de Nvidia y hasta 128 GB de memoria en un escritorio de un litro.",
-          "mini_headline": "El mini PC RTX Spark de Gigabyte",
+          "headline": "El PC compacto de AI de MSI trae\nhasta 128GB de memoria unificada",
+          "body": "El EdgeMesa N AI+ de MSI combina hasta 128GB de memoria unificada con gráficos Nvidia Blackwell para AI local.",
+          "mini_headline": "El PC de AI local de MSI con 128GB",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/gigabyte-ai-top-aero-nvidia-rtx-spark.jpg",
-                "cap": "Gigabyte AI Top Aero — escritorio de AI de un litro con Nvidia RTX Spark y 128 GB de memoria unificada."
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-005US-AI-Supercomputer-Desktop-Cover.jpeg"
               },
               {
                 "t": "p",
-                "x": "Gigabyte ha lanzado el AI Top Aero, un mini PC diseñado para el desarrollo local de AI, la creación de contenido y, en el futuro, los videojuegos. Funciona con la plataforma RTX Spark de Nvidia, que combina una GPU Nvidia Blackwell con una Grace CPU Arm-based en un chasis de aproximadamente un litro de volumen."
+                "x": "El EdgeMesa N AI+ de MSI integra el superchip RTX Spark N1X de NVIDIA en un escritorio compacto con hasta 128GB de memoria unificada. Sus dos configuraciones para US comparten el mismo procesador y el mismo hardware gráfico, por lo que la memoria y el almacenamiento son las principales decisiones de compra."
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-005US-AI-Supercomputer-Desktop-5.png"
               },
               {
                 "t": "p",
-                "x": "Su RTX Spark N1X Superchip integra una Grace CPU 20-core con una Blackwell RTX GPU de 6,144 núcleos CUDA. Las configuraciones ofrecen hasta 128 GB de memoria unificada LPDDR5X y hasta un SSD PCIe 5.0 de 4 TB, y Nvidia atribuye a la plataforma hasta 1 petaflop de rendimiento de AI en FP4 para ejecutar modelos de AI localmente sin depender de servicios en la nube."
+                "x": "El RTX Spark N1X combina una Blackwell RTX GPU de 6,144-core con una NVIDIA Grace CPU de 20-core, con un rendimiento de hasta 1 petaFLOP en FP4 AI. Los agentes de AI persistentes son la carga de trabajo que MSI no deja de señalar."
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-006US-AI-Supercomputer-Desktop-1.jpeg"
               },
               {
                 "t": "p",
-                "x": "Presentado como un “Personal AI Studio”, es compatible con LM Studio, Ollama y los modelos Nvidia Nemotron, con CUDA para crear, ajustar y ejecutar modelos, y con Nvidia PAIR (Personal AI Router) para distribuir la inferencia entre dispositivos de una red local. Admite juegos con DLSS 5, aunque las primeras reseñas de RTX Spark informan de fallos al iniciar y cierres inesperados en algunos juegos."
+                "x": "Ambas versiones usan LPDDR5X-9600 con una interfaz de 256-bit: el X-006US lleva 64GB y un SSD de 1TB, y el X-005US, 128GB y 4TB. Con la memoria unificada, la CPU y la GPU leen el mismo bloque de memoria, de modo que los pesos del modelo y los datos de trabajo permanecen en un solo lugar."
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-005US-AI-Supercomputer-Desktop-4-1.jpeg"
               },
               {
                 "t": "p",
-                "x": "La conectividad incluye USB Type-C, 10 GbE Ethernet y Wi-Fi 7. El AI Top Aero salió a la venta el 10 de noviembre de 2026; Gigabyte no ha revelado su precio, pero el similar AI Top Atom parte de $4,999 con 64 GB de memoria y un SSD de 2 TB."
+                "x": "El equipo mide 5.98 pulgadas de ancho, 5.79 pulgadas de fondo y 2.09 pulgadas de alto, con refrigeración por cámara de vapor y un adaptador de corriente de 240W. Ofrece cuatro puertos USB Type-C de 20Gbps, 10G LAN, Wi-Fi 7 y soporte para hasta cuatro pantallas. El procesador es Arm, así que tu cadena de herramientas debe ser compatible. El X-006US cuesta $4,699."
               }
             ]
           }
@@ -1421,15 +1179,15 @@
       }
     },
     {
-      "id": "googlehome-nest-liveview-fix",
+      "id": "anker-soundcore-typeless",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Google Home 갱신\nNest 캠·Gemini",
-      "body": "Nest Cam Live View를 고치고 Nest Hub Gemini도 손봤다.",
-      "mini_headline": "Google Home, Nest 캠 수정",
+      "headline": "Anker AI 녹음기에\nTypeless 받아쓰기",
+      "body": "Typeless가 Anker Soundcore Work에 AI 받아쓰기를 더한다.",
+      "mini_headline": "Anker 녹음기에 받아쓰기 추가",
       "tool": "Gadgets",
-      "source": "9to5Google",
-      "url": "https://9to5google.com/2026/11/11/google-home-update-nest-hub-gemini-cameras/",
+      "source": "Digital Trends",
+      "url": "https://www.digitaltrends.com/computing/anker-soundcore-work-typeless-ai-dictation/",
       "accent": "#2ec5c5",
       "motif": "headset",
       "full": {
@@ -1437,203 +1195,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://9to5google.com/wp-content/uploads/sites/4/2024/04/Voice-controls-from-Nest-Hub-Photo-frame-view.jpg?quality=82&strip=all&w=1600",
-            "cap": "Nest Hub"
+            "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Anker-Soundcore-Work-Typeless.jpg",
+            "cap": "Typeless"
           },
           {
             "t": "p",
-            "x": "새 Google Home 업데이트가 풀리고 있다. Nest Cam 기기의 “Live View” 문제를 고치고 Nest Hub를 손봤으며 Gemini도 업그레이드했다."
+            "x": "AI-powered 음성 받아쓰기·텍스트 처리 앱 Typeless가 Anker와 공식 파트너십을 맺고 웨어러블 마이크 Soundcore Work에 AI 음성 받아쓰기 앱을 제공한다고 발표했다. Anker가 CES 2026에서 선보인 이 제품은 판매된 지도 꽤 됐다. 이제 웨어러블로 이메일, 메시지, AI 프롬프트에 긴 문서까지 받아쓸 수 있다."
           },
           {
             "t": "p",
-            "x": "아직 얼리 액세스 단계인 Gemini는 스마트홈 제어가 나아졌고 타이머와 Broadcasts가 빨라졌으며 “더 대화하듯 자연스러운 음성 피드백”을 낸다. 가장 큰 변화는 Nest Hub 스마트 디스플레이다. 이제 질문하면 “도움이 될 때 관련 이미지”를 함께 띄운다."
+            "x": "Soundcore Work는 옷깃에 달고 속삭이듯 자연스럽게 말해도 된다는 게 장점이다. 처음에는 Anker 전용 앱으로 전사와 요약을 해 주는 AI-powered 회의 녹음기로 나왔다. 동전만 한 크기에 듀얼 마이크를 넣었고, 옷에 클립으로 끼우거나 목에 걸 수 있다."
           },
           {
             "t": "p",
-            "x": "Google Home 앱에는 “Google Home Premium” 설정 페이지가 생겼다. Nest Thermostats를 여러 대 둔 집을 위한 “Eco Mode Everywhere” 토글, 호환 도어락에 쓰는 Google Wallet의 Home 키도 들어왔다."
+            "x": "대화를 녹음하고 전사본을 훑어볼 필요 없이, 쓰고 싶은 내용을 앱에 바로 받아쓰게 하면 된다. 말을 읽기 쉬운 글로 다듬는 건 Typeless, 소리를 담는 건 웨어러블 몫이다."
           },
           {
             "t": "p",
-            "x": "구형 Nest Cam 기기는 Nest Hello 등에서 생긴 “Live View” 문제가 고쳐진다. 카메라 기록 제어, 일부 연결 환경의 실시간 스트리밍, Nest Cam IQ의 빈 이벤트 미리보기, 카메라 시계 정확도 문제도 함께 손봤다."
-          },
-          {
-            "t": "p",
-            "x": "AI 에이전트 쪽에서는 Google Home MCP 연결로 에이전트가 자동화를 제어하고 “온도조절기, 선풍기, 공기청정기, 로봇청소기, 조명 효과, 주방 가전, EV 충전기, 연기 및 일산화탄소 경보기” 전반에서 새 제어·상태 확인 기능을 쓸 수 있게 됐다. 스마트 스피커 업데이트도 풀리고 있지만 알려진 내용은 많지 않다."
+            "x": "이 통합 기능은 Windows, macOS, iOS, Android에서 돌아간다. 기존 Soundcore Work 사용자는 Typeless에 연결하기 전에 Soundcore 앱에서 마이크 펌웨어부터 업데이트해야 한다. 데스크톱에서는 웨어러블을 두 번 탭해 받아쓰기를 켜고 끌 수도 있다. Anker에 따르면 배터리는 최대 여덟 시간, 충전 케이스를 쓰면 32시간까지 간다. Soundcore Work는 이미 $159에 팔리고 있다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Google Home update fixes\nNest cams and tunes Gemini",
-          "body": "A new Google Home update fixes Live View issues on Nest Cam devices and brings Gemini upgrades to the Nest Hub.",
-          "mini_headline": "Google Home fixes Nest cams",
+          "headline": "Anker's tiny AI recorder gets\nTypeless voice dictation",
+          "body": "Typeless is bringing its AI voice dictation app to Anker's Soundcore Work, the wearable mic introduced at CES 2026.",
+          "mini_headline": "Anker recorder adds dictation",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2024/04/Voice-controls-from-Nest-Hub-Photo-frame-view.jpg?quality=82&strip=all&w=1600",
-                "cap": "Nest Hub"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Anker-Soundcore-Work-Typeless.jpg",
+                "cap": "Typeless"
               },
               {
                 "t": "p",
-                "x": "A new Google Home update is rolling out with a fix for \"Live View\" issues affecting Nest Cam devices, improvements for the Nest Hub, upgrades for Gemini, and more."
+                "x": "Typeless, the AI-powered voice dictation and text-processing app, has just announced an official partnership with Anker to bring its AI voice dictation app to the Soundcore Work wearable microphone. Anker introduced it at CES 2026, and it has been on sale for quite some time. The latest integration lets users dictate emails, messages, AI prompts, and even lengthy documents using the wearable."
               },
               {
                 "t": "p",
-                "x": "Gemini, still in early access, gets further improvements to smart home controls, faster timers, \"more conversational voice feedback\" and faster Broadcasts. Most notably, Nest Hub smart displays now show \"relevant images when helpful\" when you ask questions."
+                "x": "The argument for Soundcore Work is that you can wear it on your collar and speak naturally, even in a whisper. Soundcore Work was originally introduced as an AI-powered meeting recorder, offering transcription and summaries through Anker’s companion app. The coin-sized device comes with dual microphones and can be clipped onto clothing or worn around the neck."
               },
               {
                 "t": "p",
-                "x": "The Google Home app adds a \"Google Home Premium\" settings page, an \"Eco Mode Everywhere\" toggle for homes with multiple Nest Thermostats, and Home keys in Google Wallet for compatible locks."
+                "x": "Instead of recording a conversation and going through the transcript afterward, users can dictate what they want to write directly into the app. Typeless handles turning spoken words into readable text, while the wearable takes care of capturing the audio."
               },
               {
                 "t": "p",
-                "x": "Older Nest Cam devices get a fix for the \"Live View\" issue on devices such as Nest Hello, plus fixes for camera history controls, live streaming over certain connections, blank event previews on Nest Cam IQ, and camera clock accuracy."
-              },
-              {
-                "t": "p",
-                "x": "On the AI agent front, Google Home MCP connections now allow agents to control automations and access new controls and status checks across \"thermostats, fans, air purifiers, robot vacuums, lighting effects, kitchen appliances, EV chargers, and smoke and carbon monoxide alarms.\" Smart speaker updates are also rolling out, but details are limited."
+                "x": "The integration works on Windows, macOS, iOS, and Android. Existing Soundcore Work owners will need to update the microphone’s firmware through the Soundcore app before pairing it with Typeless. Desktop users can also start or stop dictation by double-tapping the wearable. Anker claims up to eight hours of battery life, extending to 32 hours with the charging case. Soundcore Work is already available for $159."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Google Home 갱신\nNest 캠·Gemini",
-          "body": "Nest Cam Live View를 고치고 Nest Hub Gemini도 손봤다.",
-          "mini_headline": "Google Home, Nest 캠 수정",
+          "headline": "Anker AI 녹음기에\nTypeless 받아쓰기",
+          "body": "Typeless가 Anker Soundcore Work에 AI 받아쓰기를 더한다.",
+          "mini_headline": "Anker 녹음기에 받아쓰기 추가",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2024/04/Voice-controls-from-Nest-Hub-Photo-frame-view.jpg?quality=82&strip=all&w=1600",
-                "cap": "Nest Hub"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Anker-Soundcore-Work-Typeless.jpg",
+                "cap": "Typeless"
               },
               {
                 "t": "p",
-                "x": "새 Google Home 업데이트가 풀리고 있다. Nest Cam 기기의 “Live View” 문제를 고치고 Nest Hub를 손봤으며 Gemini도 업그레이드했다."
+                "x": "AI-powered 음성 받아쓰기·텍스트 처리 앱 Typeless가 Anker와 공식 파트너십을 맺고 웨어러블 마이크 Soundcore Work에 AI 음성 받아쓰기 앱을 제공한다고 발표했다. Anker가 CES 2026에서 선보인 이 제품은 판매된 지도 꽤 됐다. 이제 웨어러블로 이메일, 메시지, AI 프롬프트에 긴 문서까지 받아쓸 수 있다."
               },
               {
                 "t": "p",
-                "x": "아직 얼리 액세스 단계인 Gemini는 스마트홈 제어가 나아졌고 타이머와 Broadcasts가 빨라졌으며 “더 대화하듯 자연스러운 음성 피드백”을 낸다. 가장 큰 변화는 Nest Hub 스마트 디스플레이다. 이제 질문하면 “도움이 될 때 관련 이미지”를 함께 띄운다."
+                "x": "Soundcore Work는 옷깃에 달고 속삭이듯 자연스럽게 말해도 된다는 게 장점이다. 처음에는 Anker 전용 앱으로 전사와 요약을 해 주는 AI-powered 회의 녹음기로 나왔다. 동전만 한 크기에 듀얼 마이크를 넣었고, 옷에 클립으로 끼우거나 목에 걸 수 있다."
               },
               {
                 "t": "p",
-                "x": "Google Home 앱에는 “Google Home Premium” 설정 페이지가 생겼다. Nest Thermostats를 여러 대 둔 집을 위한 “Eco Mode Everywhere” 토글, 호환 도어락에 쓰는 Google Wallet의 Home 키도 들어왔다."
+                "x": "대화를 녹음하고 전사본을 훑어볼 필요 없이, 쓰고 싶은 내용을 앱에 바로 받아쓰게 하면 된다. 말을 읽기 쉬운 글로 다듬는 건 Typeless, 소리를 담는 건 웨어러블 몫이다."
               },
               {
                 "t": "p",
-                "x": "구형 Nest Cam 기기는 Nest Hello 등에서 생긴 “Live View” 문제가 고쳐진다. 카메라 기록 제어, 일부 연결 환경의 실시간 스트리밍, Nest Cam IQ의 빈 이벤트 미리보기, 카메라 시계 정확도 문제도 함께 손봤다."
-              },
-              {
-                "t": "p",
-                "x": "AI 에이전트 쪽에서는 Google Home MCP 연결로 에이전트가 자동화를 제어하고 “온도조절기, 선풍기, 공기청정기, 로봇청소기, 조명 효과, 주방 가전, EV 충전기, 연기 및 일산화탄소 경보기” 전반에서 새 제어·상태 확인 기능을 쓸 수 있게 됐다. 스마트 스피커 업데이트도 풀리고 있지만 알려진 내용은 많지 않다."
+                "x": "이 통합 기능은 Windows, macOS, iOS, Android에서 돌아간다. 기존 Soundcore Work 사용자는 Typeless에 연결하기 전에 Soundcore 앱에서 마이크 펌웨어부터 업데이트해야 한다. 데스크톱에서는 웨어러블을 두 번 탭해 받아쓰기를 켜고 끌 수도 있다. Anker에 따르면 배터리는 최대 여덟 시간, 충전 케이스를 쓰면 32시간까지 간다. Soundcore Work는 이미 $159에 팔리고 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Google Homeが更新\nNestとGeminiを改善",
-          "body": "Nest CamのLive View問題を直し、Nest HubのGeminiも強化した。",
-          "mini_headline": "Google HomeがNestカメラを修正",
+          "headline": "AnkerのAI録音機に\nTypeless音声入力",
+          "body": "TypelessがAI音声入力アプリをAnkerのSoundcore Workに提供する。",
+          "mini_headline": "Anker録音機が音声入力に対応",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2024/04/Voice-controls-from-Nest-Hub-Photo-frame-view.jpg?quality=82&strip=all&w=1600",
-                "cap": "Nest Hub"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Anker-Soundcore-Work-Typeless.jpg",
+                "cap": "Typeless"
               },
               {
                 "t": "p",
-                "x": "Nest Camデバイスの「Live View」の不具合修正、Nest Hubの改善、Geminiのアップグレードなどを含む新しいGoogle Homeアップデートが配信されている。"
+                "x": "AI-poweredの音声入力・テキスト処理アプリTypelessは、Ankerとの正式な提携を発表し、AI音声入力アプリをウェアラブルマイクSoundcore Workに提供する。AnkerはCES 2026でこの製品を発表しており、発売からすでにかなりたつ。今回の統合により、ユーザーはウェアラブルを使ってメール、メッセージ、AIプロンプト、さらには長い文書まで口述入力できる。"
               },
               {
                 "t": "p",
-                "x": "まだアーリーアクセス段階のGeminiは、スマートホーム操作がさらに改善され、タイマーが速くなり、「より会話的な音声フィードバック」を返し、Broadcastsも高速化した。特に注目すべきは、Nest Hubのスマートディスプレイが質問に対して「役立つ場合には関連画像」を表示するようになった点だ。"
+                "x": "Soundcore Workの売りは、襟に付けて自然に、ささやき声でも話せることだ。Soundcore Workはもともと、Ankerの専用アプリで文字起こしと要約を提供するAI-poweredの会議レコーダーとして登場した。コインほどの大きさでデュアルマイクを備え、服にクリップで留めたり首から下げたりできる。"
               },
               {
                 "t": "p",
-                "x": "Google Homeアプリには「Google Home Premium」の設定ページ、複数のNest Thermostatsがある家庭向けの「Eco Mode Everywhere」トグル、対応ロック向けのGoogle WalletのHomeキーが追加された。"
+                "x": "会話を録音して後から文字起こしを見直す代わりに、書きたい内容をアプリに直接口述できる。Typelessが話し言葉を読みやすい文章に変え、ウェアラブルが音声の取り込みを担う。"
               },
               {
                 "t": "p",
-                "x": "旧型のNest Camデバイスには、Nest Helloなどで起きていた「Live View」の不具合修正に加え、カメラ履歴の操作、一部の接続環境でのライブ配信、Nest Cam IQでイベントプレビューが空白になる問題、カメラの時計の精度に関する修正が入る。"
-              },
-              {
-                "t": "p",
-                "x": "AIエージェント関連では、Google Home MCP接続によって、エージェントが自動化を操作し、「サーモスタット、扇風機、空気清浄機、ロボット掃除機、照明効果、キッチン家電、EV充電器、煙・一酸化炭素警報器」にわたる新たな操作や状態確認を利用できるようになった。スマートスピーカー向けのアップデートも配信中だが、詳細は限られている。"
+                "x": "この統合はWindows、macOS、iOS、Androidで動作する。既存のSoundcore Workユーザーは、Typelessとペアリングする前にSoundcoreアプリでマイクのファームウェアを更新する必要がある。デスクトップではウェアラブルをダブルタップして口述入力を開始・停止することもできる。Ankerによるとバッテリーは最大八時間、充電ケース併用で32時間まで延びる。Soundcore Workはすでに$159で販売されている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Google Home更新\n修复Nest优化Gemini",
-          "body": "新版修复Nest Cam的Live View问题，并为Nest Hub升级Gemini。",
-          "mini_headline": "Google Home修复Nest摄像头",
+          "headline": "Anker小型AI录音器\n接入Typeless语音输入",
+          "body": "Typeless将AI语音听写应用带到Anker的Soundcore Work上。",
+          "mini_headline": "Anker录音器新增听写",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2024/04/Voice-controls-from-Nest-Hub-Photo-frame-view.jpg?quality=82&strip=all&w=1600",
-                "cap": "Nest Hub"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Anker-Soundcore-Work-Typeless.jpg",
+                "cap": "Typeless"
               },
               {
                 "t": "p",
-                "x": "新的Google Home更新正在推送，修复了影响Nest Cam设备的“Live View”问题，改进了Nest Hub，升级了Gemini，还有更多变化。"
+                "x": "AI-powered语音听写与文本处理应用Typeless宣布与Anker达成正式合作，将其AI语音听写应用带到可穿戴麦克风Soundcore Work上。Anker在CES 2026上推出了这款产品，它已经开售了相当长一段时间。最新的集成让用户可以借助这款可穿戴设备听写邮件、消息、AI提示词，甚至长篇文档。"
               },
               {
                 "t": "p",
-                "x": "仍处于抢先体验阶段的Gemini在智能家居控制上进一步改进，计时器更快，提供“更具对话感的语音反馈”，Broadcasts也更快。最值得注意的是，Nest Hub智能显示屏现在会在你提问时“在有帮助时显示相关图片”。"
+                "x": "Soundcore Work的卖点在于可以别在衣领上自然说话，即使轻声细语也行。Soundcore Work最初是作为AI-powered会议录音器推出的，通过Anker的配套应用提供转写和摘要。这款硬币大小的设备配有双麦克风，可以夹在衣服上或挂在脖子上。"
               },
               {
                 "t": "p",
-                "x": "Google Home应用新增“Google Home Premium”设置页面、为装有多台Nest Thermostats的家庭提供的“Eco Mode Everywhere”开关，以及Google Wallet中适用于兼容门锁的Home钥匙。"
+                "x": "用户不必先录下对话再翻看转写稿，而是可以把想写的内容直接口述到应用中。Typeless负责把口语转成通顺的文字，可穿戴设备则负责采集声音。"
               },
               {
                 "t": "p",
-                "x": "较旧的Nest Cam设备修复了Nest Hello等设备上的“Live View”问题，还修复了摄像头历史记录控制、特定连接下的直播、Nest Cam IQ事件预览空白以及摄像头时钟准确性等问题。"
-              },
-              {
-                "t": "p",
-                "x": "在AI智能体方面，Google Home MCP连接现在允许智能体控制自动化，并在“恒温器、风扇、空气净化器、扫地机器人、灯光效果、厨房电器、EV充电桩以及烟雾和一氧化碳报警器”上使用新的控制和状态查询功能。智能音箱更新也在推送，但细节有限。"
+                "x": "这项集成支持Windows、macOS、iOS和Android。现有Soundcore Work用户需要先通过Soundcore应用更新麦克风固件，再与Typeless配对。桌面用户还可以双击这款可穿戴设备来开始或停止听写。Anker称其续航最长八小时，配合充电盒可延长至32小时。Soundcore Work现已上市，售价$159。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Google Home repara cámaras Nest\ny mejora Gemini",
-          "body": "Una nueva actualización de Google Home corrige fallos de Live View en Nest Cam y lleva mejoras de Gemini al Nest Hub.",
-          "mini_headline": "Google Home repara las cámaras Nest",
+          "headline": "La grabadora AI de Anker suma\nel dictado por voz de Typeless",
+          "body": "Typeless lleva su app de dictado por voz con AI al Soundcore Work de Anker, el micrófono que se presentó en CES 2026.",
+          "mini_headline": "La grabadora de Anker suma dictado",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2024/04/Voice-controls-from-Nest-Hub-Photo-frame-view.jpg?quality=82&strip=all&w=1600",
-                "cap": "Nest Hub"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Anker-Soundcore-Work-Typeless.jpg",
+                "cap": "Typeless"
               },
               {
                 "t": "p",
-                "x": "Se está desplegando una nueva actualización de Google Home con una corrección para los problemas de “Live View” que afectan a los dispositivos Nest Cam, mejoras para el Nest Hub, novedades para Gemini y más."
+                "x": "Typeless, la app AI-powered de dictado por voz y procesamiento de texto, acaba de anunciar una alianza oficial con Anker para llevar su app de dictado por voz con AI al micrófono portátil Soundcore Work. Anker lo presentó en CES 2026 y lleva bastante tiempo a la venta. La nueva integración permite dictar correos, mensajes, prompts de AI e incluso documentos extensos con el dispositivo."
               },
               {
                 "t": "p",
-                "x": "Gemini, todavía en acceso anticipado, recibe nuevas mejoras en el control del hogar inteligente, temporizadores más rápidos, “respuestas de voz más conversacionales” y Broadcasts más rápidos. Lo más destacado es que las pantallas inteligentes Nest Hub ahora muestran “imágenes relevantes cuando resultan útiles” al hacer preguntas."
+                "x": "El argumento a favor de Soundcore Work es que se puede llevar en el cuello de la camisa y hablar con naturalidad, incluso en susurros. Soundcore Work se presentó originalmente como una grabadora de reuniones AI-powered, con transcripciones y resúmenes a través de la app complementaria de Anker. El dispositivo, del tamaño de una moneda, tiene micrófonos duales y puede sujetarse a la ropa o llevarse colgado del cuello."
               },
               {
                 "t": "p",
-                "x": "La app Google Home añade una página de ajustes de “Google Home Premium”, un interruptor “Eco Mode Everywhere” para hogares con varios Nest Thermostats y llaves Home en Google Wallet para cerraduras compatibles."
+                "x": "En lugar de grabar una conversación y revisar la transcripción después, los usuarios pueden dictar directamente en la app lo que quieren escribir. Typeless se encarga de convertir las palabras habladas en texto legible, mientras el dispositivo portátil capta el audio."
               },
               {
                 "t": "p",
-                "x": "Los dispositivos Nest Cam más antiguos reciben una corrección del problema de “Live View” en equipos como Nest Hello, además de arreglos en los controles del historial de la cámara, la transmisión en directo con ciertas conexiones, las vistas previas de eventos en blanco en Nest Cam IQ y la precisión del reloj de la cámara."
-              },
-              {
-                "t": "p",
-                "x": "En el terreno de los agentes de AI, las conexiones Google Home MCP permiten ahora a los agentes controlar automatizaciones y acceder a nuevos controles y comprobaciones de estado en “termostatos, ventiladores, purificadores de aire, robots aspiradores, efectos de iluminación, electrodomésticos de cocina, cargadores de EV y alarmas de humo y monóxido de carbono”. También se están desplegando actualizaciones para altavoces inteligentes, aunque hay pocos detalles."
+                "x": "La integración funciona en Windows, macOS, iOS y Android. Quienes ya tengan un Soundcore Work deberán actualizar el firmware del micrófono desde la app Soundcore antes de emparejarlo con Typeless. En el escritorio, también se puede iniciar o detener el dictado con un doble toque en el dispositivo. Anker asegura hasta ocho horas de batería, que se amplían a 32 horas con el estuche de carga. Soundcore Work ya está disponible por $159."
               }
             ]
           }
@@ -1641,141 +1375,477 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Google Home 갱신\nNest 캠·Gemini",
-          "body": "Nest Cam Live View를 고치고 Nest Hub Gemini도 손봤다.",
-          "mini_headline": "Google Home, Nest 캠 수정",
+          "headline": "Anker AI 녹음기에\nTypeless 받아쓰기",
+          "body": "Typeless가 Anker Soundcore Work에 AI 받아쓰기를 더한다.",
+          "mini_headline": "Anker 녹음기에 받아쓰기 추가",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2024/04/Voice-controls-from-Nest-Hub-Photo-frame-view.jpg?quality=82&strip=all&w=1600",
-                "cap": "Nest Hub"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Anker-Soundcore-Work-Typeless.jpg",
+                "cap": "Typeless"
               },
               {
                 "t": "p",
-                "x": "Nest Cam 기기의 “Live View” 문제 수정, Nest Hub 개선, Gemini 업그레이드 등을 담은 새 Google Home 업데이트가 배포되고 있다."
+                "x": "AI-powered 음성 받아쓰기·텍스트 처리 앱 Typeless가 Anker와 공식 파트너십을 맺고, 웨어러블 마이크 Soundcore Work에 AI 음성 받아쓰기 앱을 제공한다고 발표했다. Anker는 이 제품을 CES 2026에서 선보였고, 판매를 시작한 지도 꽤 됐다. 이번 통합으로 사용자는 웨어러블로 이메일, 메시지, AI 프롬프트는 물론 긴 문서까지 받아쓸 수 있다."
               },
               {
                 "t": "p",
-                "x": "아직 얼리 액세스 단계인 Gemini는 스마트홈 제어가 한층 나아지고, 타이머가 빨라지고, “더 대화하듯 자연스러운 음성 피드백”을 내며, Broadcasts도 빨라졌다. 무엇보다 Nest Hub 스마트 디스플레이는 이제 질문을 하면 “도움이 될 때 관련 이미지”를 보여 준다."
+                "x": "Soundcore Work의 장점은 옷깃에 달고 자연스럽게, 속삭이듯 말해도 된다는 점이다. Soundcore Work는 원래 Anker의 전용 앱으로 전사와 요약을 제공하는 AI-powered 회의 녹음기로 나왔다. 동전만 한 크기에 듀얼 마이크를 갖췄고, 옷에 클립으로 달거나 목에 걸 수 있다."
               },
               {
                 "t": "p",
-                "x": "Google Home 앱에는 “Google Home Premium” 설정 페이지, 여러 대의 Nest Thermostats를 둔 집을 위한 “Eco Mode Everywhere” 토글, 호환 도어락용 Google Wallet의 Home 키가 추가됐다."
+                "x": "대화를 녹음한 뒤 전사본을 훑어보는 대신, 쓰고 싶은 내용을 앱에 바로 받아쓰게 할 수 있다. Typeless는 말을 읽기 쉬운 글로 바꾸고, 웨어러블은 소리를 담는 역할을 맡는다."
               },
               {
                 "t": "p",
-                "x": "구형 Nest Cam 기기는 Nest Hello 등에서 생긴 “Live View” 문제 수정과 함께 카메라 기록 제어, 일부 연결 환경의 실시간 스트리밍, Nest Cam IQ의 빈 이벤트 미리보기, 카메라 시계 정확도 관련 수정을 받는다."
-              },
-              {
-                "t": "p",
-                "x": "AI 에이전트 측면에서는 Google Home MCP 연결을 통해 에이전트가 자동화를 제어하고 “온도조절기, 선풍기, 공기청정기, 로봇청소기, 조명 효과, 주방 가전, EV 충전기, 연기 및 일산화탄소 경보기” 전반에서 새로운 제어와 상태 확인 기능을 쓸 수 있게 됐다. 스마트 스피커 업데이트도 배포되고 있지만 세부 내용은 많지 않다."
+                "x": "이 통합 기능은 Windows, macOS, iOS, Android에서 작동한다. 기존 Soundcore Work 사용자는 Typeless와 연결하기 전에 Soundcore 앱에서 마이크 펌웨어를 업데이트해야 한다. 데스크톱 사용자는 웨어러블을 두 번 탭해 받아쓰기를 시작하거나 멈출 수도 있다. Anker는 배터리가 최대 여덟 시간, 충전 케이스를 쓰면 32시간까지 간다고 밝혔다. Soundcore Work는 이미 $159에 판매되고 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Google Homeが更新\nNestとGeminiを改善",
-          "body": "Nest CamのLive View問題を直し、Nest HubのGeminiも強化した。",
-          "mini_headline": "Google HomeがNestカメラを修正",
+          "headline": "AnkerのAI録音機に\nTypeless音声入力",
+          "body": "TypelessがAI音声入力アプリをAnkerのSoundcore Workに提供する。",
+          "mini_headline": "Anker録音機が音声入力に対応",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2024/04/Voice-controls-from-Nest-Hub-Photo-frame-view.jpg?quality=82&strip=all&w=1600",
-                "cap": "Nest Hub"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Anker-Soundcore-Work-Typeless.jpg",
+                "cap": "Typeless"
               },
               {
                 "t": "p",
-                "x": "Nest Camデバイスの「Live View」の不具合修正、Nest Hubの改善、Geminiのアップグレードなどを含む新しいGoogle Homeアップデートが配信されている。"
+                "x": "AI-poweredの音声入力・テキスト処理アプリTypelessは、Ankerとの正式な提携を発表し、AI音声入力アプリをウェアラブルマイクSoundcore Workに提供する。AnkerはCES 2026でこの製品を発表しており、発売からすでにかなりたつ。今回の統合により、ユーザーはウェアラブルを使ってメール、メッセージ、AIプロンプト、さらには長い文書まで口述入力できる。"
               },
               {
                 "t": "p",
-                "x": "まだアーリーアクセス段階のGeminiは、スマートホーム操作がさらに改善され、タイマーが速くなり、「より会話的な音声フィードバック」を返し、Broadcastsも高速化した。特に注目すべきは、Nest Hubのスマートディスプレイが質問に対して「役立つ場合には関連画像」を表示するようになった点だ。"
+                "x": "Soundcore Workの売りは、襟に付けて自然に、ささやき声でも話せることだ。Soundcore Workはもともと、Ankerの専用アプリで文字起こしと要約を提供するAI-poweredの会議レコーダーとして登場した。コインほどの大きさでデュアルマイクを備え、服にクリップで留めたり首から下げたりできる。"
               },
               {
                 "t": "p",
-                "x": "Google Homeアプリには「Google Home Premium」の設定ページ、複数のNest Thermostatsがある家庭向けの「Eco Mode Everywhere」トグル、対応ロック向けのGoogle WalletのHomeキーが追加された。"
+                "x": "会話を録音して後から文字起こしを見直す代わりに、書きたい内容をアプリに直接口述できる。Typelessが話し言葉を読みやすい文章に変え、ウェアラブルが音声の取り込みを担う。"
               },
               {
                 "t": "p",
-                "x": "旧型のNest Camデバイスには、Nest Helloなどで起きていた「Live View」の不具合修正に加え、カメラ履歴の操作、一部の接続環境でのライブ配信、Nest Cam IQでイベントプレビューが空白になる問題、カメラの時計の精度に関する修正が入る。"
-              },
-              {
-                "t": "p",
-                "x": "AIエージェント関連では、Google Home MCP接続によって、エージェントが自動化を操作し、「サーモスタット、扇風機、空気清浄機、ロボット掃除機、照明効果、キッチン家電、EV充電器、煙・一酸化炭素警報器」にわたる新たな操作や状態確認を利用できるようになった。スマートスピーカー向けのアップデートも配信中だが、詳細は限られている。"
+                "x": "この統合はWindows、macOS、iOS、Androidで動作する。既存のSoundcore Workユーザーは、Typelessとペアリングする前にSoundcoreアプリでマイクのファームウェアを更新する必要がある。デスクトップではウェアラブルをダブルタップして口述入力を開始・停止することもできる。Ankerによるとバッテリーは最大八時間、充電ケース併用で32時間まで延びる。Soundcore Workはすでに$159で販売されている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Google Home更新\n修复Nest优化Gemini",
-          "body": "新版修复Nest Cam的Live View问题，并为Nest Hub升级Gemini。",
-          "mini_headline": "Google Home修复Nest摄像头",
+          "headline": "Anker小型AI录音器\n接入Typeless语音输入",
+          "body": "Typeless将AI语音听写应用带到Anker的Soundcore Work上。",
+          "mini_headline": "Anker录音器新增听写",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2024/04/Voice-controls-from-Nest-Hub-Photo-frame-view.jpg?quality=82&strip=all&w=1600",
-                "cap": "Nest Hub"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Anker-Soundcore-Work-Typeless.jpg",
+                "cap": "Typeless"
               },
               {
                 "t": "p",
-                "x": "新的Google Home更新正在推送，修复了影响Nest Cam设备的“Live View”问题，改进了Nest Hub，升级了Gemini，还有更多变化。"
+                "x": "AI-powered语音听写与文本处理应用Typeless宣布与Anker达成正式合作，将其AI语音听写应用带到可穿戴麦克风Soundcore Work上。Anker在CES 2026上推出了这款产品，它已经开售了相当长一段时间。最新的集成让用户可以借助这款可穿戴设备听写邮件、消息、AI提示词，甚至长篇文档。"
               },
               {
                 "t": "p",
-                "x": "仍处于抢先体验阶段的Gemini在智能家居控制上进一步改进，计时器更快，提供“更具对话感的语音反馈”，Broadcasts也更快。最值得注意的是，Nest Hub智能显示屏现在会在你提问时“在有帮助时显示相关图片”。"
+                "x": "Soundcore Work的卖点在于可以别在衣领上自然说话，即使轻声细语也行。Soundcore Work最初是作为AI-powered会议录音器推出的，通过Anker的配套应用提供转写和摘要。这款硬币大小的设备配有双麦克风，可以夹在衣服上或挂在脖子上。"
               },
               {
                 "t": "p",
-                "x": "Google Home应用新增“Google Home Premium”设置页面、为装有多台Nest Thermostats的家庭提供的“Eco Mode Everywhere”开关，以及Google Wallet中适用于兼容门锁的Home钥匙。"
+                "x": "用户不必先录下对话再翻看转写稿，而是可以把想写的内容直接口述到应用中。Typeless负责把口语转成通顺的文字，可穿戴设备则负责采集声音。"
               },
               {
                 "t": "p",
-                "x": "较旧的Nest Cam设备修复了Nest Hello等设备上的“Live View”问题，还修复了摄像头历史记录控制、特定连接下的直播、Nest Cam IQ事件预览空白以及摄像头时钟准确性等问题。"
-              },
-              {
-                "t": "p",
-                "x": "在AI智能体方面，Google Home MCP连接现在允许智能体控制自动化，并在“恒温器、风扇、空气净化器、扫地机器人、灯光效果、厨房电器、EV充电桩以及烟雾和一氧化碳报警器”上使用新的控制和状态查询功能。智能音箱更新也在推送，但细节有限。"
+                "x": "这项集成支持Windows、macOS、iOS和Android。现有Soundcore Work用户需要先通过Soundcore应用更新麦克风固件，再与Typeless配对。桌面用户还可以双击这款可穿戴设备来开始或停止听写。Anker称其续航最长八小时，配合充电盒可延长至32小时。Soundcore Work现已上市，售价$159。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Google Home repara cámaras Nest\ny mejora Gemini",
-          "body": "Una nueva actualización de Google Home corrige fallos de Live View en Nest Cam y lleva mejoras de Gemini al Nest Hub.",
-          "mini_headline": "Google Home repara las cámaras Nest",
+          "headline": "La grabadora AI de Anker suma\nel dictado por voz de Typeless",
+          "body": "Typeless lleva su app de dictado por voz con AI al Soundcore Work de Anker, el micrófono que se presentó en CES 2026.",
+          "mini_headline": "La grabadora de Anker suma dictado",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2024/04/Voice-controls-from-Nest-Hub-Photo-frame-view.jpg?quality=82&strip=all&w=1600",
-                "cap": "Nest Hub"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Anker-Soundcore-Work-Typeless.jpg",
+                "cap": "Typeless"
               },
               {
                 "t": "p",
-                "x": "Se está desplegando una nueva actualización de Google Home con una corrección para los problemas de “Live View” que afectan a los dispositivos Nest Cam, mejoras para el Nest Hub, novedades para Gemini y más."
+                "x": "Typeless, la app AI-powered de dictado por voz y procesamiento de texto, acaba de anunciar una alianza oficial con Anker para llevar su app de dictado por voz con AI al micrófono portátil Soundcore Work. Anker lo presentó en CES 2026 y lleva bastante tiempo a la venta. La nueva integración permite dictar correos, mensajes, prompts de AI e incluso documentos extensos con el dispositivo."
               },
               {
                 "t": "p",
-                "x": "Gemini, todavía en acceso anticipado, recibe nuevas mejoras en el control del hogar inteligente, temporizadores más rápidos, “respuestas de voz más conversacionales” y Broadcasts más rápidos. Lo más destacado es que las pantallas inteligentes Nest Hub ahora muestran “imágenes relevantes cuando resultan útiles” al hacer preguntas."
+                "x": "El argumento a favor de Soundcore Work es que se puede llevar en el cuello de la camisa y hablar con naturalidad, incluso en susurros. Soundcore Work se presentó originalmente como una grabadora de reuniones AI-powered, con transcripciones y resúmenes a través de la app complementaria de Anker. El dispositivo, del tamaño de una moneda, tiene micrófonos duales y puede sujetarse a la ropa o llevarse colgado del cuello."
               },
               {
                 "t": "p",
-                "x": "La app Google Home añade una página de ajustes de “Google Home Premium”, un interruptor “Eco Mode Everywhere” para hogares con varios Nest Thermostats y llaves Home en Google Wallet para cerraduras compatibles."
+                "x": "En lugar de grabar una conversación y revisar la transcripción después, los usuarios pueden dictar directamente en la app lo que quieren escribir. Typeless se encarga de convertir las palabras habladas en texto legible, mientras el dispositivo portátil capta el audio."
               },
               {
                 "t": "p",
-                "x": "Los dispositivos Nest Cam más antiguos reciben una corrección del problema de “Live View” en equipos como Nest Hello, además de arreglos en los controles del historial de la cámara, la transmisión en directo con ciertas conexiones, las vistas previas de eventos en blanco en Nest Cam IQ y la precisión del reloj de la cámara."
+                "x": "La integración funciona en Windows, macOS, iOS y Android. Quienes ya tengan un Soundcore Work deberán actualizar el firmware del micrófono desde la app Soundcore antes de emparejarlo con Typeless. En el escritorio, también se puede iniciar o detener el dictado con un doble toque en el dispositivo. Anker asegura hasta ocho horas de batería, que se amplían a 32 horas con el estuche de carga. Soundcore Work ya está disponible por $159."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "homeview-siri-fix-update",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "HomeView Siri\nApple이 12월 손본다",
+      "body": "Apple은 12월 업데이트로 HomeView Siri AI 오류를 고친다.",
+      "mini_headline": "HomeView Siri 12월 수정",
+      "tool": "Gadgets",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/11/12/apple-plans-homeview-update-with-siri-fix/",
+      "accent": "#eb367f",
+      "motif": "headset",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://images.macrumors.com/t/PcvtzDz-CC6xLnTkUzpoizZN5MQ=/2000x/article-new/2026/10/homeview-wall-mount.jpg"
+          },
+          {
+            "t": "p",
+            "x": "테크 저널리스트 Joanna Stern이 오늘 New Things 뉴스레터 무료판에 HomeView 리뷰를 실었다. 기기에 카메라가 달려 있는데도 Siri AI가 \"당신을 볼 카메라가 없어요\"라고 답한 일이 있었다고 한다. Apple은 이를 고친 소프트웨어 업데이트를 12월에 낼 계획이라고 Stern에게 확인했다."
+          },
+          {
+            "t": "p",
+            "x": "HomeView가 Stern을 알아본 상태에서도 Siri AI는 차고 문 열기와 현관문 잠금 해제를 거부했다. Apple은 다음 달 소프트웨어 업데이트부터 이 기능을 쓸 수 있다고 그에게 밝혔다. 그때까지는 HomeView에서 Home 앱을 열고 화면의 컨트롤을 눌러 도어록과 차고 문을 열면 된다."
+          },
+          {
+            "t": "video",
+            "yt": "yVTcVtLn2o4"
+          },
+          {
+            "t": "p",
+            "x": "\"현재 HomeView가 인식한 사용자는 도어록과 차고 문을 포함한 보안 액세서리를 HomeView 화면에서 바로 잠금 해제할 수 있습니다\"라고 Apple 대변인은 Stern에게 말했다. \"다음 달 소프트웨어 업데이트로 이 기능이 Siri AI까지 확장돼, 인식된 사용자가 보안 액세서리를 관리할 방법이 더 늘어납니다.\""
+          },
+          {
+            "t": "p",
+            "x": "HomeView는 이번 주 금요일 나오고, 미국(U.S.) 가격은 $299부터다. 우리도 직접 써 본 소감을 핸즈온 리뷰 영상으로 공개했다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Apple plans December fix\nfor HomeView's Siri flaws",
+          "body": "Apple told Joanna Stern a December HomeView update will fix Siri AI claiming it had no camera to see her.",
+          "mini_headline": "HomeView Siri fix due December",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.macrumors.com/t/PcvtzDz-CC6xLnTkUzpoizZN5MQ=/2000x/article-new/2026/10/homeview-wall-mount.jpg"
               },
               {
                 "t": "p",
-                "x": "En el terreno de los agentes de AI, las conexiones Google Home MCP permiten ahora a los agentes controlar automatizaciones y acceder a nuevos controles y comprobaciones de estado en “termostatos, ventiladores, purificadores de aire, robots aspiradores, efectos de iluminación, electrodomésticos de cocina, cargadores de EV y alarmas de humo y monóxido de carbono”. También se están desplegando actualizaciones para altavoces inteligentes, aunque hay pocos detalles."
+                "x": "In her HomeView review shared in a free edition of her New Things newsletter today, tech journalist Joanna Stern said Siri AI once told her \"I don't have a camera to see you,\" even though the device has a camera. Apple confirmed to Stern that it plans to release a software update in December with a fix for this issue."
+              },
+              {
+                "t": "p",
+                "x": "Siri AI also refused to open Stern's garage door or unlock her front door, even though the HomeView recognized her. Apple told her that the software update coming next month will enable this functionality. In the meantime, you can unlock door locks and garage doors by opening the Home app on the HomeView and tapping on-screen controls."
+              },
+              {
+                "t": "video",
+                "yt": "yVTcVtLn2o4"
+              },
+              {
+                "t": "p",
+                "x": "\"Today users recognized by HomeView can unlock security accessories, including door locks and garage doors, directly on their HomeView screen,\" an Apple spokesperson told Stern. \"With a software update next month, this will extend to Siri AI, giving users more ways to manage security accessories once they've been recognized.\""
+              },
+              {
+                "t": "p",
+                "x": "HomeView launches this Friday, with U.S. pricing starting at $299. We also shared our own hands-on review video with our own impressions."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "HomeView Siri\nApple이 12월 손본다",
+          "body": "Apple은 12월 업데이트로 HomeView Siri AI 오류를 고친다.",
+          "mini_headline": "HomeView Siri 12월 수정",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.macrumors.com/t/PcvtzDz-CC6xLnTkUzpoizZN5MQ=/2000x/article-new/2026/10/homeview-wall-mount.jpg"
+              },
+              {
+                "t": "p",
+                "x": "테크 저널리스트 Joanna Stern이 오늘 New Things 뉴스레터 무료판에 HomeView 리뷰를 실었다. 기기에 카메라가 달려 있는데도 Siri AI가 \"당신을 볼 카메라가 없어요\"라고 답한 일이 있었다고 한다. Apple은 이를 고친 소프트웨어 업데이트를 12월에 낼 계획이라고 Stern에게 확인했다."
+              },
+              {
+                "t": "p",
+                "x": "HomeView가 Stern을 알아본 상태에서도 Siri AI는 차고 문 열기와 현관문 잠금 해제를 거부했다. Apple은 다음 달 소프트웨어 업데이트부터 이 기능을 쓸 수 있다고 그에게 밝혔다. 그때까지는 HomeView에서 Home 앱을 열고 화면의 컨트롤을 눌러 도어록과 차고 문을 열면 된다."
+              },
+              {
+                "t": "video",
+                "yt": "yVTcVtLn2o4"
+              },
+              {
+                "t": "p",
+                "x": "\"현재 HomeView가 인식한 사용자는 도어록과 차고 문을 포함한 보안 액세서리를 HomeView 화면에서 바로 잠금 해제할 수 있습니다\"라고 Apple 대변인은 Stern에게 말했다. \"다음 달 소프트웨어 업데이트로 이 기능이 Siri AI까지 확장돼, 인식된 사용자가 보안 액세서리를 관리할 방법이 더 늘어납니다.\""
+              },
+              {
+                "t": "p",
+                "x": "HomeView는 이번 주 금요일 나오고, 미국(U.S.) 가격은 $299부터다. 우리도 직접 써 본 소감을 핸즈온 리뷰 영상으로 공개했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "HomeViewのSiri\nAppleが12月に修正",
+          "body": "Appleは12月のHomeView更新でSiri AIのカメラ誤答を直すとした。",
+          "mini_headline": "HomeViewのSiri、12月に修正",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.macrumors.com/t/PcvtzDz-CC6xLnTkUzpoizZN5MQ=/2000x/article-new/2026/10/homeview-wall-mount.jpg"
+              },
+              {
+                "t": "p",
+                "x": "テックジャーナリストのJoanna Sternは、本日配信したニュースレターNew Thingsの無料版に掲載したHomeViewレビューで、デバイスにカメラがあるにもかかわらず、Siri AIに「あなたを見るカメラがありません」と言われたことがあると述べた。Appleは、この問題を修正するソフトウェアアップデートを12月に配信する予定だとSternに認めた。"
+              },
+              {
+                "t": "p",
+                "x": "HomeViewがSternを認識していたにもかかわらず、Siri AIはガレージのドアを開けることも玄関の鍵を開けることも拒んだ。Appleは来月のソフトウェアアップデートでこの機能が使えるようになると彼女に伝えた。それまでは、HomeViewでHomeアプリを開き、画面上のコントロールをタップすればドアロックやガレージドアを解錠できる。"
+              },
+              {
+                "t": "video",
+                "yt": "yVTcVtLn2o4"
+              },
+              {
+                "t": "p",
+                "x": "「現在、HomeViewに認識されたユーザーは、ドアロックやガレージドアを含むセキュリティアクセサリーをHomeViewの画面から直接解錠できます」とAppleの広報担当者はSternに語った。「来月のソフトウェアアップデートで、これがSiri AIにも広がり、認識されたユーザーがセキュリティアクセサリーを管理する方法が増えます」"
+              },
+              {
+                "t": "p",
+                "x": "HomeViewは今週金曜日に発売され、米国（U.S.）での価格は$299からだ。私たちも実機に触れた感想をまとめたハンズオンレビュー動画を公開している。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "HomeView Siri\nApple计划12月修复",
+          "body": "Apple称12月HomeView更新将修复Siri AI误称无摄像头的问题。",
+          "mini_headline": "HomeView Siri 12月修复",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.macrumors.com/t/PcvtzDz-CC6xLnTkUzpoizZN5MQ=/2000x/article-new/2026/10/homeview-wall-mount.jpg"
+              },
+              {
+                "t": "p",
+                "x": "科技记者Joanna Stern今天在其New Things通讯的免费版中发布了HomeView评测。她说，尽管设备带有摄像头，Siri AI却曾对她说“我没有可以看到你的摄像头”。Apple向Stern证实，计划在12月发布软件更新修复这一问题。"
+              },
+              {
+                "t": "p",
+                "x": "尽管HomeView已经识别出Stern，Siri AI仍拒绝为她打开车库门或解锁前门。Apple告诉她，下个月推出的软件更新将启用这项功能。在此之前，用户可以在HomeView上打开Home应用，点按屏幕上的控件来解锁门锁和车库门。"
+              },
+              {
+                "t": "video",
+                "yt": "yVTcVtLn2o4"
+              },
+              {
+                "t": "p",
+                "x": "“如今，被HomeView识别的用户可以直接在HomeView屏幕上解锁门锁和车库门等安全配件，”Apple发言人对Stern表示，“下个月的软件更新将把这一功能扩展到Siri AI，让用户在被识别后有更多方式管理安全配件。”"
+              },
+              {
+                "t": "p",
+                "x": "HomeView将于本周五发售，美国（U.S.）起售价为$299。我们也发布了自己的上手评测视频，分享了我们的印象。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Apple corregirá en diciembre\nlos fallos de Siri en HomeView",
+          "body": "Apple dijo a Joanna Stern que una actualización de HomeView en diciembre corregirá el error de cámara de Siri AI.",
+          "mini_headline": "HomeView: arreglo de Siri en diciembre",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.macrumors.com/t/PcvtzDz-CC6xLnTkUzpoizZN5MQ=/2000x/article-new/2026/10/homeview-wall-mount.jpg"
+              },
+              {
+                "t": "p",
+                "x": "En su reseña de HomeView, publicada hoy en una edición gratuita de su boletín New Things, la periodista tecnológica Joanna Stern contó que Siri AI le dijo una vez \"No tengo una cámara para verte\", aunque el dispositivo tiene cámara. Apple confirmó a Stern que planea lanzar en diciembre una actualización de software que corrija este problema."
+              },
+              {
+                "t": "p",
+                "x": "Siri AI también se negó a abrir la puerta del garaje de Stern o a desbloquear su puerta principal, pese a que HomeView la había reconocido. Apple le dijo que la actualización de software del próximo mes habilitará esta función. Mientras tanto, se pueden desbloquear cerraduras y puertas de garaje abriendo la app Home en HomeView y tocando los controles en pantalla."
+              },
+              {
+                "t": "video",
+                "yt": "yVTcVtLn2o4"
+              },
+              {
+                "t": "p",
+                "x": "\"Hoy, los usuarios reconocidos por HomeView pueden desbloquear accesorios de seguridad, como cerraduras y puertas de garaje, directamente en la pantalla de HomeView\", dijo un portavoz de Apple a Stern. \"Con una actualización de software el próximo mes, esto se extenderá a Siri AI, lo que dará a los usuarios más formas de gestionar los accesorios de seguridad una vez que hayan sido reconocidos\"."
+              },
+              {
+                "t": "p",
+                "x": "HomeView sale a la venta este viernes, con un precio en Estados Unidos (U.S.) desde $299. También publicamos nuestro propio video de prueba con nuestras impresiones."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "HomeView Siri\nApple이 12월 손본다",
+          "body": "Apple은 12월 업데이트로 HomeView Siri AI 오류를 고친다.",
+          "mini_headline": "HomeView Siri 12월 수정",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.macrumors.com/t/PcvtzDz-CC6xLnTkUzpoizZN5MQ=/2000x/article-new/2026/10/homeview-wall-mount.jpg"
+              },
+              {
+                "t": "p",
+                "x": "테크 저널리스트 Joanna Stern은 오늘 New Things 뉴스레터 무료판에 실은 HomeView 리뷰에서, 기기에 카메라가 있는데도 Siri AI가 \"당신을 볼 카메라가 없어요\"라고 답한 적이 있다고 전했다. Apple은 이 문제를 고친 소프트웨어 업데이트를 12월에 내놓을 계획이라고 Stern에게 확인했다."
+              },
+              {
+                "t": "p",
+                "x": "HomeView가 Stern을 알아봤는데도 Siri AI는 차고 문을 열거나 현관문 잠금을 푸는 것도 거부했다. Apple은 다음 달 나올 소프트웨어 업데이트로 이 기능을 쓸 수 있게 된다고 그에게 밝혔다. 그 전까지는 HomeView에서 Home 앱을 열고 화면의 컨트롤을 눌러 도어록과 차고 문을 열 수 있다."
+              },
+              {
+                "t": "video",
+                "yt": "yVTcVtLn2o4"
+              },
+              {
+                "t": "p",
+                "x": "\"현재 HomeView가 인식한 사용자는 도어록과 차고 문을 포함한 보안 액세서리를 HomeView 화면에서 바로 잠금 해제할 수 있습니다\"라고 Apple 대변인은 Stern에게 말했다. \"다음 달 소프트웨어 업데이트로 이 기능이 Siri AI까지 확장돼, 인식된 사용자가 보안 액세서리를 관리할 방법이 더 늘어납니다.\""
+              },
+              {
+                "t": "p",
+                "x": "HomeView는 이번 주 금요일 출시되며, 미국(U.S.) 가격은 $299부터다. 우리도 직접 써본 소감을 담은 핸즈온 리뷰 영상을 공개했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "HomeViewのSiri\nAppleが12月に修正",
+          "body": "Appleは12月のHomeView更新でSiri AIのカメラ誤答を直すとした。",
+          "mini_headline": "HomeViewのSiri、12月に修正",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.macrumors.com/t/PcvtzDz-CC6xLnTkUzpoizZN5MQ=/2000x/article-new/2026/10/homeview-wall-mount.jpg"
+              },
+              {
+                "t": "p",
+                "x": "テックジャーナリストのJoanna Sternは、本日配信したニュースレターNew Thingsの無料版に掲載したHomeViewレビューで、デバイスにカメラがあるにもかかわらず、Siri AIに「あなたを見るカメラがありません」と言われたことがあると述べた。Appleは、この問題を修正するソフトウェアアップデートを12月に配信する予定だとSternに認めた。"
+              },
+              {
+                "t": "p",
+                "x": "HomeViewがSternを認識していたにもかかわらず、Siri AIはガレージのドアを開けることも玄関の鍵を開けることも拒んだ。Appleは来月のソフトウェアアップデートでこの機能が使えるようになると彼女に伝えた。それまでは、HomeViewでHomeアプリを開き、画面上のコントロールをタップすればドアロックやガレージドアを解錠できる。"
+              },
+              {
+                "t": "video",
+                "yt": "yVTcVtLn2o4"
+              },
+              {
+                "t": "p",
+                "x": "「現在、HomeViewに認識されたユーザーは、ドアロックやガレージドアを含むセキュリティアクセサリーをHomeViewの画面から直接解錠できます」とAppleの広報担当者はSternに語った。「来月のソフトウェアアップデートで、これがSiri AIにも広がり、認識されたユーザーがセキュリティアクセサリーを管理する方法が増えます」"
+              },
+              {
+                "t": "p",
+                "x": "HomeViewは今週金曜日に発売され、米国（U.S.）での価格は$299からだ。私たちも実機に触れた感想をまとめたハンズオンレビュー動画を公開している。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "HomeView Siri\nApple计划12月修复",
+          "body": "Apple称12月HomeView更新将修复Siri AI误称无摄像头的问题。",
+          "mini_headline": "HomeView Siri 12月修复",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.macrumors.com/t/PcvtzDz-CC6xLnTkUzpoizZN5MQ=/2000x/article-new/2026/10/homeview-wall-mount.jpg"
+              },
+              {
+                "t": "p",
+                "x": "科技记者Joanna Stern今天在其New Things通讯的免费版中发布了HomeView评测。她说，尽管设备带有摄像头，Siri AI却曾对她说“我没有可以看到你的摄像头”。Apple向Stern证实，计划在12月发布软件更新修复这一问题。"
+              },
+              {
+                "t": "p",
+                "x": "尽管HomeView已经识别出Stern，Siri AI仍拒绝为她打开车库门或解锁前门。Apple告诉她，下个月推出的软件更新将启用这项功能。在此之前，用户可以在HomeView上打开Home应用，点按屏幕上的控件来解锁门锁和车库门。"
+              },
+              {
+                "t": "video",
+                "yt": "yVTcVtLn2o4"
+              },
+              {
+                "t": "p",
+                "x": "“如今，被HomeView识别的用户可以直接在HomeView屏幕上解锁门锁和车库门等安全配件，”Apple发言人对Stern表示，“下个月的软件更新将把这一功能扩展到Siri AI，让用户在被识别后有更多方式管理安全配件。”"
+              },
+              {
+                "t": "p",
+                "x": "HomeView将于本周五发售，美国（U.S.）起售价为$299。我们也发布了自己的上手评测视频，分享了我们的印象。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Apple corregirá en diciembre\nlos fallos de Siri en HomeView",
+          "body": "Apple dijo a Joanna Stern que una actualización de HomeView en diciembre corregirá el error de cámara de Siri AI.",
+          "mini_headline": "HomeView: arreglo de Siri en diciembre",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.macrumors.com/t/PcvtzDz-CC6xLnTkUzpoizZN5MQ=/2000x/article-new/2026/10/homeview-wall-mount.jpg"
+              },
+              {
+                "t": "p",
+                "x": "En su reseña de HomeView, publicada hoy en una edición gratuita de su boletín New Things, la periodista tecnológica Joanna Stern contó que Siri AI le dijo una vez \"No tengo una cámara para verte\", aunque el dispositivo tiene cámara. Apple confirmó a Stern que planea lanzar en diciembre una actualización de software que corrija este problema."
+              },
+              {
+                "t": "p",
+                "x": "Siri AI también se negó a abrir la puerta del garaje de Stern o a desbloquear su puerta principal, pese a que HomeView la había reconocido. Apple le dijo que la actualización de software del próximo mes habilitará esta función. Mientras tanto, se pueden desbloquear cerraduras y puertas de garaje abriendo la app Home en HomeView y tocando los controles en pantalla."
+              },
+              {
+                "t": "video",
+                "yt": "yVTcVtLn2o4"
+              },
+              {
+                "t": "p",
+                "x": "\"Hoy, los usuarios reconocidos por HomeView pueden desbloquear accesorios de seguridad, como cerraduras y puertas de garaje, directamente en la pantalla de HomeView\", dijo un portavoz de Apple a Stern. \"Con una actualización de software el próximo mes, esto se extenderá a Siri AI, lo que dará a los usuarios más formas de gestionar los accesorios de seguridad una vez que hayan sido reconocidos\"."
+              },
+              {
+                "t": "p",
+                "x": "HomeView sale a la venta este viernes, con un precio en Estados Unidos (U.S.) desde $299. También publicamos nuestro propio video de prueba con nuestras impresiones."
               }
             ]
           }

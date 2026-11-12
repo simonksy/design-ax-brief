@@ -15527,6 +15527,151 @@
           "x": "Preview는 약 일주일 만에 꾸려졌고 QA 기간도 평소보다 짧았다. Epic은 아직 \"에이전트가 작성한 코드 일부를 정리하는 중\"이라고 밝혔다. Python 스크립팅과 AI-assisted 워크플로도 크게 좋아졌다. Unreal MCP와 Unreal Assistant, Epic의 AI-powered 콘텐츠 제작 도구인 Unreal Canvas가 여기에 들어간다. Lumen World Cache와 개선된 Nanite 컬링이 더해졌고, WebAssembly와 WebGPU로 타깃 플랫폼 Web도 돌아왔다."
         }
       ]
+    },
+    "games/tencent-ai-gaming-companions": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/b9/images/6af5c6c9f3f7f/widen_1840x0.jpg"
+        },
+        {
+          "t": "p",
+          "x": "솔직히 타이밍은 좀 우습지만 개념 자체는 새롭지 않다. 중국 빅테크 Tencent보다 먼저 Razer가 AVA를 선보였다. AVA에서는 작은 홀로그램 AI 동반자 여럿 가운데 하나를 고르는데, 업무든 게임이든 일상에 녹아들도록 설계됐다."
+        },
+        {
+          "t": "p",
+          "x": "Tencent의 새 데스크톱 앱 Eciyuan은 게이머가 대상이다. AI 동반자 네 명이 게임 플레이를 지켜보며 해볼 만한 행동을 제안하고, 원하면 언제든 대화도 나눌 수 있다. 네 소녀는 저마다 성격과 배경, 관심사, 목소리 샘플이 있다. 이를테면 Shen Lubai는 Valorant, League of Legends, Counter-Strike 같은 게임을 즐기는 24세 e스포츠 해설가 지망생이다. Xia Xia는 저널리즘·커뮤니케이션 전공 학생이고 Guiyu는 요리사로 보이며, Bella는 서핑에 푹 빠져 있다."
+        },
+        {
+          "t": "p",
+          "x": "Eciyuan 동반자와는 모바일에서도 대화를 이어갈 수 있는 듯하다. 작은 캐릭터로 데스크톱에 띄워 두거나 의상에 맞춘 배경화면을 설정하는 기능도 있어 보인다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/75/images/6af5c4663e8b4/widen_1840x0.jpg"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/11/images/6af5c46aeedbb/widen_1840x0.jpg"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/12/images/6af5c4724c758/widen_1840x0.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Eciyuan과 AI 동반자 정보는 아직 아주 적고, 글로벌 출시 소식도 없다. 이 소녀들이 실제 경기에서 쓸 만한 조언을 해 줄지는 두고 볼 일이다. 베타는 현재 중국에서만 쓸 수 있다."
+        }
+      ]
+    },
+    "games/apex-neural-rendering-framegen": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-30.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Apex Compute가 크로스플랫폼 뉴럴 렌더링 제품군 Apex Neural Rendering(ANR)을 공개했다. 회사는 NVIDIA 기술보다 프레임 생성이 최대 2.4X 빠르고 화질이 더 좋으며 GPU 메모리도 훨씬 덜 쓴다고 주장한다. ANR은 Frame Generation(FG), Super Resolution(SR), Ray Reconstruction(RR)으로 이뤄지며, 지금은 Frame Generation이 베타로 나와 있다."
+        },
+        {
+          "t": "p",
+          "x": "NVIDIA GeForce GTX 16 및 RTX 20/30/40/50 Series, AMD Radeon RX 5000/6000/7000/9000 Series와 Steam Deck, Intel Arc A-Series와 B-Series에서 돌아간다. 운영체제는 Windows 10/11, Linux, SteamOS를 지원하고, macOS 26용 Metal 테스트 키트도 있다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/ANR-Bench-Numbers.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Apex Compute 내부 벤치마크를 보면 3840×2160 해상도의 GeForce RTX 5090에서 ANR FG는 2X 모드 기준 생성 프레임 하나에 1.01밀리초가 걸려 NVIDIA DLSS Frame Generation의 1.26 ms보다 짧다. 4K 기준 GPU 메모리 사용량은 214 MB로 NVIDIA의 562 MB보다 약 62% 적다. 다만 공개된 RTX 5090 측정치만 보면 처리 시간 개선 폭이 광고한 2.4X에 못 미쳐 보인다. 이 수치도 실제 게임 FPS가 아니라 프레임을 만드는 비용이다."
+        },
+        {
+          "t": "video",
+          "yt": "xhzNx3seocQ"
+        },
+        {
+          "t": "p",
+          "x": "Apex 자체 화질 측정에서는 ANR이 NVIDIA DLSS FG보다 낫게 나왔지만 독립 검증은 여전히 필요하다. 베타는 GitHub의 OptiScaler로 설치하고, 프레임 생성 구현은 아직 오픈소스가 아니다. 호환성 문제와 시각적 아티팩트도 감안해야 한다."
+        }
+      ]
+    },
+    "games/ludo-toolbox-coding-agents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://mobidictum.com/wp-content/uploads/2026/03/ludo_ai_logo.png"
+        },
+        {
+          "t": "p",
+          "x": "Ludo.ai가 Ludo Toolbox를 발표했다. 무료 명령줄 도구 32개 묶음으로, Claude Code, Codex, Cursor, GitHub Copilot, Gemini CLI 같은 코딩 에이전트가 게임에 스프라이트·이미지·사운드·3D 모델을 넣을 때 필요한 수치와 엔진 파일을 내준다. 오픈소스(MIT) Ludo CLI에 들어 있어 완전히 오프라인으로 돌아가고, 계정도 API 키도 크레딧도 필요 없다."
+        },
+        {
+          "t": "p",
+          "x": "툴박스는 앵커 포인트, 콜라이더, pixels-per-meter를 에이전트가 짐작하던 자리에 정확한 수치를 넣는다. 결과는 JSON으로 돌려주고 엔진 고유 파일도 직접 쓴다. Unity에서 발에 피벗을 둔 키 1.8미터 기사를 설정해 달라고 하면 에이전트는 도구 세 개를 연달아 쓰고, Godot, Phaser, Box2D에서도 같은 수치가 나온다."
+        },
+        {
+          "t": "p",
+          "x": "Ludo.ai의 Co-Founder 겸 CTO인 Jorge Gomes는 \"코딩 에이전트는 게임 코드에는 매우 능숙하지만, 아트는 여전히 눈대중으로 처리한다. 툴박스는 그 대신 수치를 건넨다\"고 말했다."
+        },
+        {
+          "t": "video",
+          "yt": "4LIIbfU19pc"
+        },
+        {
+          "t": "p",
+          "x": "툴박스는 Ludo로 만든 에셋이든 아니든 다 쓸 수 있다. Ludo CLI 0.2.0 이상에서 바로 이용할 수 있고 Node.js 20 이상이 필요하다."
+        }
+      ]
+    },
+    "games/gamesbeat-next-ai-native-games": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/11/AI-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "게임에서 AI가 줄 가장 큰 기회는 AI 없이는 불가능했을 완전히 새로운 게임을 만드는 일일지 모른다. Jamil Moledina가 진행하고 Brian Tanner(Artificial Agency), Piero Molino(Studio Atelico), Jon Snoddy(Operative Games)가 참여한 GamesBeat Next 2026 패널은 이 주제를 중심에 뒀다."
+        },
+        {
+          "t": "p",
+          "x": "Molino는 초기 생성형 에이전트 실험을 두고 \"AI는 많이 필요하지만 진짜 게임은 아니다\"라고 평했다. \"긴장감도, 도전도 없었기\" 때문이다. Operative Games에서는 대화가 핵심 메커닉이다. Snoddy는 \"게임 메커닉이 곧 스토리다. 게임 메커닉이 곧 대화다\"라고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "패널은 런타임 경제성도 다뤘다. Tanner는 품질과 속도, 비용 사이의 균형을 설명했고, Molino는 \"내가 게임 디자이너인데 게임 안에서 호출 한 번에 일정 비용이 든다는 걸 안다면, 그것이 내가 할 수 있는 디자인에 영향을 준다\"고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "연사들은 자율 캐릭터가 이끄는 시스템 중심 샌드박스형 게임에 잠재력이 있다고 봤다. AI-native 개발은 기술 과제이면서 그만큼 디자인 과제이기도 하다는 설명이다."
+        }
+      ]
+    },
+    "games/witcher3-geralt-polish-ai-voice": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/11/geralt.jpg",
+          "cap": "CD Projekt Red"
+        },
+        {
+          "t": "p",
+          "x": "The Witcher 3 폴란드어판에서 리비아의 게롤트(Geralt of Rivia)를 맡은 성우 Jacek Rozenek은 2019년 뇌졸중을 겪은 뒤 말하기가 어려워졌고 목소리도 달라졌다. CD Projekt Red는 곧 나올 확장팩 Songs of the Past에서 Rozenek의 새 연기를 2015년 출시판 연기와 맞추려고 AI를 쓰기로 했다."
+        },
+        {
+          "t": "p",
+          "x": "현지화 프로듀서 Mikołaj Szwed는 Game File에 “동의를 받아 윤리적으로 AI를 쓰면서 좋은 일도 할 수 있는 방식 가운데 하나라고 생각한다”고 했다."
+        },
+        {
+          "t": "p",
+          "x": "CDPR이 손잡은 곳은 우크라이나 AI 음성 복제 기업 Respeecher다. Respeecher는 한 사람이 남긴 기존 음성 작업으로 알고리즘을 학습시켜 새 연기를 원래 연기에 맞추는데, 배우 본인이나 유족이 동의해야만 작업한다. Rozenek이 원작에서 녹음한 대사는 10,000줄이 넘는다. Respeecher의 Dmytro Vasylets는 “가장 어려운 부분은 Jacek의 감정 폭이었다”고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "CDPR은 앞으로 이 알고리즘으로 Rozenek의 목소리를 바꿀 계획이 없다고 밝혔다. Rozenek도 자신의 AI 분신을 들어보지 않았다고 확인했다."
+        }
+      ]
     }
   }
 }

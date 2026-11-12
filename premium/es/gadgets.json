@@ -11870,6 +11870,154 @@
           "x": "En la serie Pixel 11, Call Screen mejora: Gemini pregunta a quienes llaman desde números desconocidos el motivo de la llamada de forma mucho más conversacional, con una transcripción en directo en pantalla. HiLight ahora es compatible con Google Messages y se ilumina cuando un contacto favorito te escribe mientras el teléfono está boca abajo. Pixel Tag estará disponible el 11 de noviembre."
         }
       ]
+    },
+    "gadgets/windows-photos-adobe-genai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Adobe-Max.jpg",
+          "cap": "El editor de fotos nativo de Windows recibirá pronto funciones Adobe-powered"
+        },
+        {
+          "t": "p",
+          "x": "Adobe y Microsoft amplían su alianza para llevar nuevas funciones de edición AI-powered a Windows 11 y mejorar el rendimiento de Creative Cloud en Arm-based PCs. Las empresas anunciaron la colaboración en Adobe Max 2026."
+        },
+        {
+          "t": "p",
+          "x": "Las herramientas de AI generativa de Adobe llegan a la app nativa Photos de Windows 11. Los usuarios podrán ampliar imágenes más allá de sus bordes originales, girar fotografías sin perder partes de la imagen y eliminar objetos no deseados mientras los huecos resultantes se rellenan automáticamente. La integración también admitirá la edición mediante texto, y Adobe Express estará accesible directamente desde el visor de Photos para convertir imágenes en invitaciones, publicaciones para redes sociales y otros diseños."
+        },
+        {
+          "t": "p",
+          "x": "Estas funciones estarán disponibles primero para los Windows Insiders a partir de diciembre de 2026. Ninguna de las dos empresas ha precisado una fecha de lanzamiento más amplia ni ha aclarado si ciertas funciones de AI requerirán una suscripción de pago."
+        },
+        {
+          "t": "p",
+          "x": "Adobe también ha optimizado Photoshop, Premiere, After Effects y Substance 3D Painter (beta) para dispositivos Windows on Arm, incluido el Surface Laptop Ultra de Microsoft con Nvidia RTX Spark. Photoshop se beneficia de un procesamiento de AI generativa en el dispositivo más rápido, aunque algunas funciones y plugins de terceros siguen sin ser compatibles con Windows on Arm."
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/_processed_/8/b/csm_Adobe-X-Microsoft-Windows-11-features_86f7cbac0b.gif",
+          "cap": "Funciones de Adobe X Microsoft para Windows 11"
+        }
+      ]
+    },
+    "gadgets/msi-edgemesa-n-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-005US-AI-Supercomputer-Desktop-Cover.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "El EdgeMesa N AI+ de MSI integra el superchip RTX Spark N1X de NVIDIA en un escritorio compacto con hasta 128GB de memoria unificada. Sus dos configuraciones para US comparten el mismo procesador y el mismo hardware gráfico, por lo que la memoria y el almacenamiento son las principales decisiones de compra."
+        },
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-005US-AI-Supercomputer-Desktop-5.png"
+        },
+        {
+          "t": "p",
+          "x": "El RTX Spark N1X combina una Blackwell RTX GPU de 6,144-core con una NVIDIA Grace CPU de 20-core, con un rendimiento de hasta 1 petaFLOP en FP4 AI. Los agentes de AI persistentes son la carga de trabajo que MSI no deja de señalar."
+        },
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-006US-AI-Supercomputer-Desktop-1.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Ambas versiones usan LPDDR5X-9600 con una interfaz de 256-bit: el X-006US lleva 64GB y un SSD de 1TB, y el X-005US, 128GB y 4TB. Con la memoria unificada, la CPU y la GPU leen el mismo bloque de memoria, de modo que los pesos del modelo y los datos de trabajo permanecen en un solo lugar."
+        },
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-005US-AI-Supercomputer-Desktop-4-1.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "El equipo mide 5.98 pulgadas de ancho, 5.79 pulgadas de fondo y 2.09 pulgadas de alto, con refrigeración por cámara de vapor y un adaptador de corriente de 240W. Ofrece cuatro puertos USB Type-C de 20Gbps, 10G LAN, Wi-Fi 7 y soporte para hasta cuatro pantallas. El procesador es Arm, así que tu cadena de herramientas debe ser compatible. El X-006US cuesta $4,699."
+        }
+      ]
+    },
+    "gadgets/anker-soundcore-typeless": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Anker-Soundcore-Work-Typeless.jpg",
+          "cap": "Typeless"
+        },
+        {
+          "t": "p",
+          "x": "Typeless, la app AI-powered de dictado por voz y procesamiento de texto, acaba de anunciar una alianza oficial con Anker para llevar su app de dictado por voz con AI al micrófono portátil Soundcore Work. Anker lo presentó en CES 2026 y lleva bastante tiempo a la venta. La nueva integración permite dictar correos, mensajes, prompts de AI e incluso documentos extensos con el dispositivo."
+        },
+        {
+          "t": "p",
+          "x": "El argumento a favor de Soundcore Work es que se puede llevar en el cuello de la camisa y hablar con naturalidad, incluso en susurros. Soundcore Work se presentó originalmente como una grabadora de reuniones AI-powered, con transcripciones y resúmenes a través de la app complementaria de Anker. El dispositivo, del tamaño de una moneda, tiene micrófonos duales y puede sujetarse a la ropa o llevarse colgado del cuello."
+        },
+        {
+          "t": "p",
+          "x": "En lugar de grabar una conversación y revisar la transcripción después, los usuarios pueden dictar directamente en la app lo que quieren escribir. Typeless se encarga de convertir las palabras habladas en texto legible, mientras el dispositivo portátil capta el audio."
+        },
+        {
+          "t": "p",
+          "x": "La integración funciona en Windows, macOS, iOS y Android. Quienes ya tengan un Soundcore Work deberán actualizar el firmware del micrófono desde la app Soundcore antes de emparejarlo con Typeless. En el escritorio, también se puede iniciar o detener el dictado con un doble toque en el dispositivo. Anker asegura hasta ocho horas de batería, que se amplían a 32 horas con el estuche de carga. Soundcore Work ya está disponible por $159."
+        }
+      ]
+    },
+    "gadgets/homeview-siri-fix-update": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.macrumors.com/t/PcvtzDz-CC6xLnTkUzpoizZN5MQ=/2000x/article-new/2026/10/homeview-wall-mount.jpg"
+        },
+        {
+          "t": "p",
+          "x": "En su reseña de HomeView, publicada hoy en una edición gratuita de su boletín New Things, la periodista tecnológica Joanna Stern contó que Siri AI le dijo una vez \"No tengo una cámara para verte\", aunque el dispositivo tiene cámara. Apple confirmó a Stern que planea lanzar en diciembre una actualización de software que corrija este problema."
+        },
+        {
+          "t": "p",
+          "x": "Siri AI también se negó a abrir la puerta del garaje de Stern o a desbloquear su puerta principal, pese a que HomeView la había reconocido. Apple le dijo que la actualización de software del próximo mes habilitará esta función. Mientras tanto, se pueden desbloquear cerraduras y puertas de garaje abriendo la app Home en HomeView y tocando los controles en pantalla."
+        },
+        {
+          "t": "video",
+          "yt": "yVTcVtLn2o4"
+        },
+        {
+          "t": "p",
+          "x": "\"Hoy, los usuarios reconocidos por HomeView pueden desbloquear accesorios de seguridad, como cerraduras y puertas de garaje, directamente en la pantalla de HomeView\", dijo un portavoz de Apple a Stern. \"Con una actualización de software el próximo mes, esto se extenderá a Siri AI, lo que dará a los usuarios más formas de gestionar los accesorios de seguridad una vez que hayan sido reconocidos\"."
+        },
+        {
+          "t": "p",
+          "x": "HomeView sale a la venta este viernes, con un precio en Estados Unidos (U.S.) desde $299. También publicamos nuestro propio video de prueba con nuestras impresiones."
+        }
+      ]
+    },
+    "gadgets/gemini-carplay-app": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/google-brings-the-gemini-app-to-apple-carplay/l-intro-1794426857.jpg",
+          "cap": "Google lleva la app de Gemini a Apple CarPlay"
+        },
+        {
+          "t": "p",
+          "x": "En su aparente empeño por que el chatbot resulte ineludible en tantas pantallas, altavoces y experiencias como sea posible, Google ha llevado la app de Gemini a Apple CarPlay. Está disponible desde hoy en todos los idiomas compatibles con Gemini Live."
+        },
+        {
+          "t": "p",
+          "x": "Google ya ofrecía el asistente de AI en CarPlay a través de la app Google Maps. Ahora bastará con tocar el icono de Gemini en la pantalla para acceder a él. Según Google, se puede retomar en el coche una conversación con Gemini donde se dejó o iniciar una nueva con el chatbot."
+        },
+        {
+          "t": "p",
+          "x": "La compañía sugirió que los conductores pueden usar Gemini para preparar una reunión durante el trayecto, ponerse al día con el correo, escuchar su Daily Brief u obtener recomendaciones de lugares de la zona que valga la pena visitar. Las conversaciones se sincronizan con la app de Gemini para iPhone y quedan en el historial de chat."
+        },
+        {
+          "t": "p",
+          "x": "Para usar el asistente en CarPlay, hay que tener la versión más reciente de la app de Gemini en el iPhone y los permisos del micrófono activados. También es necesario haber usado Gemini Live al menos una vez en el iPhone."
+        },
+        {
+          "t": "p",
+          "x": "Google llevó la app de Gemini a CarPlay poco después de activar Personal Assistance (que puede acceder a datos de otras apps de Google para dar respuestas más personalizadas) en el chatbot de Android Auto. La compañía también está llevando Personal Intelligence a Gemini en los coches con Google built-in."
+        }
+      ]
     }
   }
 }

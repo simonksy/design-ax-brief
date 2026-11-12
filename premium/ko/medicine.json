@@ -4086,6 +4086,107 @@
           "x": "HCA의 Michael Schlosser, M.D.는 자사가 “Gemini가 여러 전자건강기록 시스템과 진료 환경에 걸친 복잡한 환자 정보를 해석하고 종합하는 방법을 모색하고 있다”고 전했다."
         }
       ]
+    },
+    "medicine/medicare-wiser-ai-priorauth-docs": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.statnews.com/wp-content/uploads/2026/05/AP26023803702193-1024x576.jpg",
+          "cap": "Emilie Megnien/AP"
+        },
+        {
+          "t": "p",
+          "x": "새로 나온 문서가 Medicare의 AI 사전승인 실험을 향한 의문을 키우고 있다. 이번 STAT Health Tech는 Oura의 AI 승부수, 임상 AI 챗봇에 필요한 '럼블 스트립(rumble strip)', Medicare AI 사전승인 실험을 둘러싼 의문을 짚는다."
+        },
+        {
+          "t": "p",
+          "x": "뉴스레터 전문은 STAT+ 구독자만 볼 수 있다."
+        }
+      ]
+    },
+    "medicine/fda-cms-states-healthai-oversight": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.statnews.com/wp-content/uploads/2025/07/AdobeStock_971648927_Editorial_Use_Only-1024x576.jpeg",
+          "cap": "Adobe"
+        },
+        {
+          "t": "p",
+          "x": "FDA와 CMS가 보건 AI 문제로 주와 손잡으려 한다. 이번 STAT Health Tech 뉴스레터는 AI 규제에서 주와 협력하려는 연방 당국자들, AI 책임 문제에서 의사를 보호하는 문제 등을 다룬다."
+        },
+        {
+          "t": "p",
+          "x": "뉴스레터 전문은 STAT+ 구독자만 볼 수 있다."
+        }
+      ]
+    },
+    "medicine/jama-ai-interventional-trials-ctgov": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "이 횡단 연구는 2022년부터 진행된 임상시험에서 인공지능(AI)이 어떻게 쓰였는지 살폈다. 분석 대상은 ClinicalTrials.gov에 등록되고 2022년 첫 달 이후 시작된 중재 시험이었고, 연구진은 AI 활용이 어떻게 계획되고 기술되는지 정리했다."
+        },
+        {
+          "t": "p",
+          "x": "검색된 기록 8559건 가운데 최종 코호트에 든 중재 시험은 1212건이었다. 대규모 언어 모델을 포함한 생성형 AI를 쓰겠다는 계획은 2022년 시작 시험에서는 한 건도 없었지만 2025년 시작 시험에서는 491건 중 100건(20.4%)으로 크게 늘었다. 환자 추적 관찰이나 건강 교육 등에 AI 에이전트를 쓰려는 시험도 여덟 건 있었다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/df47/13749202/7f04ceea0423/jamanetwopen-e2642797-g001.webp",
+          "cap": "포함된 시험의 특성을 보여 주는 막대그래프"
+        },
+        {
+          "t": "p",
+          "x": "임상 질환으로는 암(20.0%), 신경·정신 건강(19.6%), 심혈관·대사 질환(18.6%)이 가장 흔했다. AI는 질병 위험이나 치료 선택을 가늠하는 선별·예측 모델링에 가장 많이 쓰였다(39.8%). 국가별로는 미국이 303건(25.0%), 중국이 149건(12.3%)이었다."
+        },
+        {
+          "t": "p",
+          "x": "ClinicalTrials.gov에는 AI 관련 구조화 항목도, 보고 요건도 없어 방법론 세부 정보가 빠진 경우가 많았다. 연구진은 AI 보고 표준에 맞춘 구조화 등록 항목을 두면 투명성이 높아질 것이라고 밝혔다."
+        }
+      ]
+    },
+    "medicine/npj-cancer-persistent-fever-ml": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "입원한 암 환자는 정맥 항생제를 맞기 시작한 뒤에도 열이 이어지는 일이 흔한데, 그러면 추가 영상 검사와 항균제 강화로 이어지곤 한다. 연구진은 두 대학병원의 전자건강기록으로 항생제 투여 48–72시간 뒤 지속 발열을 예측하는 머신러닝 모델을 만들고 외부 검증까지 마쳤다."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03449-w/MediaObjects/41746_2026_3449_Fig1_HTML.png",
+          "cap": "Fig. 1: UME 및 BWH 데이터셋의 코호트 추출 단계를 보여 주는 흐름도."
+        },
+        {
+          "t": "p",
+          "x": "최종 코호트는 University Medicine Essen(UME) 입원 987건과 Brigham and Women’s Hospital(BWH) 입원 7409건이었다. 가장 성능이 좋은 모델의 AUROC는 내부 검증 0.82(95% CI 0.79–0.84), 외부 검증 0.78(95% CI 0.77–0.79)이었다. 핵심 예측 인자는 체온 관련 변수였다."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03449-w/MediaObjects/41746_2026_3449_Fig2_HTML.png",
+          "cap": "Fig. 2: 내부(UME) 및 외부(BWH) 검증 코호트에서 본 예측 모델의 판별력, 임상적 유용성, 보정."
+        },
+        {
+          "t": "p",
+          "x": "항생제 강화와 흉부 CT 촬영의 약 사분의 일은 발열이 지속되지 않으리라고 정확히 예측된 환자에게 이뤄졌다. 임상에서는 단독 배제 판단에 쓰지 말고 보조 수단으로만 써야 하며, 전향적 연구가 필요하다."
+        }
+      ]
+    },
+    "medicine/lancet-pharma-ad-llm": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "제약 광고와 소비자용 인공지능의 약물 추천: 대조 연구 — Mahmud Omar, Reem Agbareia, Jolion McGreevy, Alexis Zebrowski, Ashwin Ramaswamy, Michael A Gorin, Esther-Maria Antao, Benjamin S Glicksberg, Ankit Sakhuja, Alexander W Charney, Eyal Klang, Girish N Nadkarni."
+        },
+        {
+          "t": "p",
+          "x": "광고를 넣자 LLMs가 고르는 치료가 광고 대상 약물 쪽으로 옮겨 갔다. 지침 부합도는 여전히 높았다. 치료 정확성만 평가해서는 지침에 맞는 치료끼리 오가는 이런 변화를 놓칠 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "광고의 영향은 겉으로 드러나지 않는 경우가 많았다. 이런 출력 변화가 처방이나 환자 결정까지 바꿀 수 있는지는 따로 직접 연구해야 한다."
+        }
+      ]
     }
   }
 }

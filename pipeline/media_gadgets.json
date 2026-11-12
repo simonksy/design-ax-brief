@@ -1,32 +1,32 @@
 {
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "section": "gadgets",
   "media": [
     {
-      "id": "gemini-carplay-app",
+      "id": "samsung-eyewear-dec-launch",
       "type": "image",
-      "src": "pipeline/media/gemini-carplay-app.jpg"
+      "src": "pipeline/media/samsung-eyewear-dec-launch.jpg"
     },
     {
-      "id": "bluephone-pixel10-agent-os",
+      "id": "windows-photos-adobe-genai",
+      "type": "image",
+      "src": "pipeline/media/windows-photos-adobe-genai.jpg"
+    },
+    {
+      "id": "msi-edgemesa-n-ai",
+      "type": "image",
+      "src": "pipeline/media/msi-edgemesa-n-ai.jpg"
+    },
+    {
+      "id": "anker-soundcore-typeless",
+      "type": "image",
+      "src": "pipeline/media/anker-soundcore-typeless.jpg"
+    },
+    {
+      "id": "homeview-siri-fix-update",
       "type": "video",
-      "src": "pipeline/media/bluephone-pixel10-agent-os.mp4",
-      "poster": "pipeline/media/bluephone-pixel10-agent-os.jpg"
-    },
-    {
-      "id": "deepx-dxm1-butter-demo",
-      "type": "image",
-      "src": "pipeline/media/deepx-dxm1-butter-demo.jpg"
-    },
-    {
-      "id": "gigabyte-aitop-aero-spark",
-      "type": "image",
-      "src": "pipeline/media/gigabyte-aitop-aero-spark.jpg"
-    },
-    {
-      "id": "googlehome-nest-liveview-fix",
-      "type": "image",
-      "src": "pipeline/media/googlehome-nest-liveview-fix.jpg"
+      "src": "pipeline/media/homeview-siri-fix-update.mp4",
+      "poster": "pipeline/media/homeview-siri-fix-update.jpg"
     }
   ]
 }

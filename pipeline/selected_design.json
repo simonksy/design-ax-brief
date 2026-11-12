@@ -1,107 +1,101 @@
 {
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "section": "design",
-  "user_selection": null,
   "items": [
     {
-      "rank": 1,
-      "title": "Bytedance's Seedream 5.5 promises pixel-stable image editing across 100 rounds without color drift",
-      "url": "https://the-decoder.com/bytedances-seedream-5-5-promises-pixel-stable-image-editing-across-100-rounds-without-color-drift/",
-      "source": "The Decoder",
-      "category": "render",
+      "tool": "Figma",
+      "category": "figma",
+      "accent": "#0070f3",
+      "motif": "frame",
+      "title": "Framer Updates: Image and Shader Generation",
+      "url": "https://www.framer.com/updates/image-shader-generation",
+      "source": "Framer",
+      "published_iso": "2026-11-12T00:00:00Z",
+      "og_image": "https://framerusercontent.com/images/188hlNOfbDRG4rHCkWqDpBILpg.png?width=1600&height=900",
+      "excerpt": "The Framer Agent can now generate or edit images, textures and illustrations and create or tweak shaders such as halftone, bokeh or CRT. It can also feed a generated image into an image shader.",
+      "rationale": "Primary-source release: Framer's agent now generates images and shaders on the site canvas, so designers can make visual assets without leaving the site builder. Picked over the duplicate Framer YouTube demo (cluster c2)."
+    },
+    {
       "tool": "KeyShot",
+      "category": "render",
       "accent": "#f5a623",
       "motif": "sphere",
-      "published_iso": "2026-11-09T18:50:01Z",
-      "og_image": "https://the-decoder.com/wp-content/uploads/2026/11/seedance_examples-1200x603.png",
-      "excerpt": "ByteDance Seed's Seedream 5.5 targets production workflows: stable multi-pass editing up to 100 iterations, native RGBA output with transparent backgrounds, rolling out across Dreamina and CapCut.",
-      "rationale": "New image-model release aimed squarely at production editing: 100-round edits without color drift plus native RGBA/transparent output change how designers iterate on assets."
+      "title": "5 new Google Flow Tools designed by visual artists",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/new-google-flow-tools/",
+      "source": "Google (The Keyword)",
+      "published_iso": "2026-11-12T00:00:00Z",
+      "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Nov_Cohort_Hero_4.width-1300.jpg",
+      "excerpt": "Google added five creative tools to Flow, its AI filmmaking studio, built with visual artists: they keep characters consistent across decades, generate stylized art, simulate complex lighting and turn phone videos into polished shots.",
+      "rationale": "New tools from the primary source covering character consistency, stylization, lighting simulation and phone-to-polished shots, all directly usable in visual production."
     },
     {
-      "rank": 2,
-      "title": "Is ArtStation's new AI art policy good enough?",
-      "url": "https://www.creativebloq.com/news/is-artstations-new-ai-art-policy-good-enough",
-      "source": "Creative Bloq",
-      "category": "workflow",
-      "tool": "AI Workflow",
-      "accent": "#ff5a4d",
-      "motif": "frame",
-      "published_iso": "2026-11-10T17:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/dGgCUgM9B78DhMFiK75VbZ-1200-80.webp",
-      "excerpt": "ArtStation's new rules for AI-generated art try to balance artist protection and disclosure; Creative Bloq weighs whether the policy goes far enough for working creatives.",
-      "rationale": "New disclosure/labeling rules on the main portfolio platform for concept artists and 3D designers directly affect how they post and present work (assigned to design by the run brief)."
-    },
-    {
-      "rank": 3,
-      "title": "Siemens adds agentic AI to HyperLynx verification workflows",
-      "url": "https://www.engineering.com/siemens-adds-agentic-ai-to-hyperlynx-verification-workflows/",
-      "source": "Engineering.com",
-      "category": "cad",
-      "tool": "Text-to-CAD",
-      "accent": "#7928ca",
-      "motif": "cube",
-      "published_iso": "2026-11-11T14:11:42Z",
-      "og_image": null,
-      "excerpt": "Siemens' new agentic toolkit lets PCB designers run SerDes, DDR, signal- and power-integrity analysis in HyperLynx from natural-language prompts.",
-      "rationale": "Concrete product release: natural-language agents driving SI/PI verification in HyperLynx, a different tool and workflow from the 10-25 Siemens 3D IC card."
-    },
-    {
-      "rank": 4,
-      "title": "AI prototyping inside your design system: a hands-on guide for design & product teams",
-      "url": "https://uxdesign.cc/ai-prototyping-inside-your-design-system-a-hands-on-guide-for-design-product-teams-44825904c08d",
-      "source": "UX Collective",
-      "category": "tokens",
       "tool": "Design Tokens",
+      "category": "tokens",
       "accent": "#2ec5c5",
       "motif": "swatch",
-      "published_iso": "2026-11-10T23:34:58Z",
-      "og_image": "https://cdn-images-1.medium.com/max/1024/0*GVeuczf4PnCJn95b.jpeg",
-      "excerpt": "Why AI builders hand back a lookalike instead of your real components, what has to exist in a design system before an agent can use it, and the MCP setup the author uses for in-system prototyping.",
-      "rationale": "Highly actionable: a checklist of what a design system needs before agents can prototype with real components, plus a concrete MCP setup teams can copy tomorrow."
+      "title": "KT, 앱 디자인부터 고객 안내 문구까지 AI 적용…'KDS 2.0' 구축",
+      "url": "https://www.inthenews.co.kr/news/article.html?no=94443",
+      "source": "인더뉴스 (InTheNews)",
+      "published_iso": "2026-11-12T15:04:24+09:00",
+      "og_image": "https://www.inthenews.co.kr/data/photos/20261146/art_17944633067103_566c36.jpg",
+      "excerpt": "KT built KDS 2.0, a UX design system that AI can read directly. Its 'KDS Harness' lets AI lay out screens to the system's rules and check the results, cutting about 8 months of work (424 requirements, 25 components) to 2 months 40 days. KT also launched an AI message-writing agent that cuts drafting and review from 30-60 minutes to about 5.",
+      "rationale": "A concrete enterprise case of an AI-readable design system plus a harness that checks generated screens against it, with measured time savings that design-system teams can benchmark against."
     },
     {
-      "rank": 5,
-      "title": "Config India 2026: What changed when designers started shipping code",
-      "url": "https://www.youtube.com/watch?v=3EbdkzGwL7c",
-      "source": "Figma (YouTube)",
-      "category": "social",
-      "tool": "Social",
-      "accent": "#ff2d55",
-      "motif": "frame",
-      "published_iso": "2026-11-11T15:24:45Z",
-      "og_image": "https://i.ytimg.com/vi/3EbdkzGwL7c/maxresdefault.jpg",
-      "excerpt": "Freshworks' Sascha Trinkaus on connecting its design system to code so designers can ship, and what happens when they ship faster than teams can judge the ideas.",
-      "rationale": "Fresh Config India case study from a large product org (Freshworks) on designers shipping code, including the downside of shipping faster than teams can evaluate ideas."
+      "tool": "Text-to-CAD",
+      "category": "cad",
+      "accent": "#7928ca",
+      "motif": "cube",
+      "title": "Rhino World 2026: McNeel lets AI in",
+      "url": "https://aecmag.com/cad/rhino-world-2026-mcneel-lets-ai-in/",
+      "source": "AEC Magazine",
+      "published_iso": "2026-11-12T09:55:20Z",
+      "og_image": "https://aecmag.com/wp-content/uploads/2026/11/RhinoAI.jpg",
+      "excerpt": "With Rhino 9 out, AEC Magazine reports from Rhino World 2026 on how McNeel is bringing AI into Rhino and speeding up development without changing its perpetual-licence business model.",
+      "rationale": "McNeel opening Rhino to AI is a direction change for a core tool used by product, industrial and architectural designers. Reported from the event by a specialist outlet."
+    },
+    {
+      "tool": "Design Tokens",
+      "category": "tokens",
+      "accent": "#eb367f",
+      "motif": "swatch",
+      "title": "Should You Actually Add AI To That? A Four-Question Audit For Product Teams",
+      "url": "https://smashingmagazine.com/2026/11/should-you-add-ai-audit-product-teams/",
+      "source": "Smashing Magazine",
+      "published_iso": "2026-11-12T10:00:00Z",
+      "og_image": "https://files.smashing.media/articles/should-you-add-au-audit-product-teams/should-you-add-ai-audit-product-teams.jpg",
+      "excerpt": "An AI feature can save users time on a task, then cost them that time checking its output. Smashing offers a four-question audit for deciding where AI earns its place in a product and what users need to trust it.",
+      "rationale": "A practical framework a product designer can use in tomorrow's roadmap review, from a whitelisted, reputable outlet. It uses a second tokens slot, so it gets a distinct palette accent."
     }
   ],
   "dedup": {
     "checks": {
-      "https://the-decoder.com/bytedances-seedream-5-5-promises-pixel-stable-image-editing-across-100-rounds-without-color-drift/": {
+      "https://www.framer.com/updates/image-shader-generation": {
+        "verdict": "new",
+        "nearest": "https://www.youtube.com/watch?v=BS-N-AM5ql4",
+        "new_action": ""
+      },
+      "https://blog.google/innovation-and-ai/models-and-research/google-labs/new-google-flow-tools/": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
       },
-      "https://www.creativebloq.com/news/is-artstations-new-ai-art-policy-good-enough": {
+      "https://www.inthenews.co.kr/news/article.html?no=94443": {
         "verdict": "new",
-        "nearest": "https://www.creativebloq.com/news/etsys-crackdown-on-ai-slop-is-welcome-but-it-shows-how-far-things-have-slipped",
+        "nearest": "",
         "new_action": ""
       },
-      "https://www.engineering.com/siemens-adds-agentic-ai-to-hyperlynx-verification-workflows/": {
+      "https://aecmag.com/cad/rhino-world-2026-mcneel-lets-ai-in/": {
         "verdict": "new",
-        "nearest": "https://www.engineering.com/siemens-expands-agentic-ai-for-3d-ic-design-workflows/",
+        "nearest": "",
         "new_action": ""
       },
-      "https://uxdesign.cc/ai-prototyping-inside-your-design-system-a-hands-on-guide-for-design-product-teams-44825904c08d": {
+      "https://smashingmagazine.com/2026/11/should-you-add-ai-audit-product-teams/": {
         "verdict": "new",
-        "nearest": "https://uxdesign.cc/building-an-ai-ready-design-system-library-code-figma-with-mcp-ec5d9e8c90d2",
-        "new_action": ""
-      },
-      "https://www.youtube.com/watch?v=3EbdkzGwL7c": {
-        "verdict": "new",
-        "nearest": "https://www.figma.com/blog/build-by-design/",
+        "nearest": "https://smashingmagazine.com/2026/10/is-your-organization-messing-up-ai-adoption/",
         "new_action": ""
       }
     },
-    "note": "Dropped as duplicates: 'Learn Figma Weave in 9 minutes' (YouTube; likely-repeat of 11-03 'The TL;DR on Figma Weave'); '6 easy ways to use the Figma agent' (another how-to on the Figma agent already covered 10-24/10-28/11-06); 'Adobe's Google partnership' (Creative Bloq; Gemini/Drive integration is part of the 11-11 Adobe MAX announcement card, not a new development). Excluded by run brief cross-section assignments: Tripo Tripothon (games), Animaj FlipMove (published in movies 11-06), Layer Motion Designer Agent. Not chosen on fit or score: robotics items (Runway Praxis-1, Gemini Robotics 2.5, NVIDIA CoRL; physical-AI, not design tools), Google Tabletop (overlaps 11-07 Meta Muse spaces theme), MiniMax H3 on Vercel (second render pick, gateway availability only), Creative Bloq AI video comparison (evergreen buyer's guide), Engineering.com CAD clones (opinion), Kuken/OpenAI (customer case study), Creality mBox (kids' printer, gadgets-adjacent, near 11-08 AI printer card), Dezeen Mori lamp (gadgets-adjacent), UXC Crumlish interview (essay). Seedream 5.5 vs 11-09 'Seedance 2.5 | Adobe Firefly': different model (image editing vs video), not the same story. Caveat: published_urls.json (4k lines) could not be exact-grepped from this agent (no shell); cross-section clearance relies on the run brief assignments and should be confirmed by the orchestrator's grep before roll."
+    "note": "Framer: different vendor and product from the 10-28 Figma-agent shaders video (history_match 'related'), so it is new. Dropped Framer YouTube G9O1Ex3EXno as the same story (cluster c2), keeping the primary blog. Dropped BCN3D Aurora (3dprintingindustry) as a likely repeat of the 11-08 all3dp 'This AI 3D Printer Can Now Design Your Parts' story about the same AI-design printer. Excluded per curator_brief cross-section assignments: Road to VR Android XR glasses (gadgets), Creative Bloq Unreal Engine 5.9 (already ran in games 11-11), The Verge GDC survey (games). Skipped on fit or quality: Gemini 4 Hydrogen (general model news), Creative Bloq AI video generator roundup (evergreen, no og_image), Figma 3D transforms launch video (case study that extends the 10-28 Figma agent shaders/motion story), plus the Runway and Jesse Showalter videos, UX Collective opinion pieces, the dev.to comparison, Creality mBox, the HF LoRA guide and Phota Labs, all ranked lower. Cross-section: Google Flow is not in the brief's assignment list; the orchestrator should confirm movies did not also pick it."
   }
 }

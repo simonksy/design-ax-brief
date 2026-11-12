@@ -1,169 +1,303 @@
 {
- "section": "music",
- "now_iso": "2026-11-11T22:00:41Z",
- "window_hours": 336,
- "items": [
-  {
-   "title": "Berlin company launches AI kick drum generator trained on its own audio dataset",
-   "url": "https://ra.co/news/86320",
-   "source": "Resident Advisor",
-   "category": "AI sample generation",
-   "published_iso": "2026-11-11T12:00:47.000Z",
-   "excerpt": "Berlin-based Just 4 Noise launched Just 4 Kicks, an AI plugin that generates royalty-free kick drum samples with genre, texture, style and length controls; its model was trained only on audio its own team recorded on analogue gear.",
-   "og_image": "https://static.ra.co/images/news/2026/justnoise.png"
-  },
-  {
-   "title": "This New AI Music Model Is Already Better Than Suno—We Put ACE to the Test",
-   "url": "https://decrypt.co/383070/new-ai-music-model-already-better-than-suno-ace-review",
-   "source": "Decrypt",
-   "category": "AI music generation",
-   "published_iso": "2026-11-11T20:16:02Z",
-   "excerpt": "ACE Studio's ACE Music v1 took first place on Artificial Analysis' blind vocal-music leaderboard (1,160 Elo vs Suno v6's 1,144); Decrypt's tests found stronger melodies, more natural vocals and cleaner endings, though Suno handled niche genres better. Off-list source: no allowed-domain coverage of this model release.",
-   "og_image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/AI-music-decrypt-style-03-gID_7.jpg"
-  },
-  {
-   "title": "Idol’s Labelcamp and startup MyPart explore AI connections",
-   "url": "https://musically.com/2026/11/11/idols-labelcamp-and-startup-mypart-explore-ai-connections/",
-   "source": "Music Ally",
-   "category": "AI music",
-   "published_iso": "2026-11-11T13:30:00+00:00",
-   "excerpt": "Idol's distribution-management platform Labelcamp launched an AI Connector letting labels and distributors run supply-chain operations and catalogue analytics from Claude or ChatGPT; startup MyPart also added agentic AI connections.",
-   "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/08/news-stories-images-4x3-2026-08-26T131412.133.png?fit=2000%2C1500&ssl=1"
-  },
-  {
-   "title": "Influur Pulse 2.0 Uses AI to Simplify Music Influencer Campaigns",
-   "url": "https://www.hypebot.com/influur-pulse-2-0-uses-ai-to-simplify-music-influencer-campaigns/",
-   "source": "Hypebot",
-   "category": "AI music",
-   "published_iso": "2026-11-11T14:33:00.000Z",
-   "excerpt": "Influur's Pulse 2.0 is an AI agent for label marketing teams that discovers creators, runs outreach, automates music influencer campaigns through to payment, and measures results.",
-   "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/11/Influur_Pulse_1.png"
-  },
-  {
-   "title": "Carmine Appice On Using AI To Create Cactus Music Videos",
-   "url": "https://www.hypebot.com/carmine-appice-on-a-legendary-career-ai-music-videos-more/",
-   "source": "Hypebot",
-   "category": "AI music video",
-   "published_iso": "2026-11-11T08:24:21.000Z",
-   "excerpt": "Drummer Carmine Appice (Vanilla Fudge, Cactus, Jeff Beck, Rod Stewart) explains how he is now using AI video tools to make music videos for Cactus.",
-   "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/11/CA-pic-00.jpg"
-  },
-  {
-   "title": "\"AI 목소리라고? 좋기만 한데?\"…머무르 노래 음원차트 휩쓸자 편견도 무너졌다",
-   "url": "https://www.aipostkorea.com/news/articleView.html?idxno=13246",
-   "source": "AI포스트",
-   "category": "AI 음악",
-   "published_iso": "2026-11-10T15:57:18+09:00",
-   "excerpt": "인간이 기획·작사·작곡하고 AI로 보컬을 생성한 머무르의 '꿈꾸던 어른이 되었나요?'가 멜론 톱100 2위에 오르며 생성형 AI 보컬을 창작 도구로 받아들이는 분위기가 확산되고 있다.",
-   "og_image": "https://cdn.aipostkorea.com/news/photo/202611/13246_23974_5444.png"
-  },
-  {
-   "title": "멜론 2위 AI 곡, 유튜브뮤직은 라벨 달고 국내 앱은 표시 기준 없어",
-   "url": "https://www.issueinsight.co.kr/news/articleView.html?idxno=3088",
-   "source": "이슈인사이트",
-   "category": "AI 음악",
-   "published_iso": "2026-11-11T08:28:00+09:00",
-   "excerpt": "AI 보컬 곡 머무르 '꿈꾸던 어른이 되었나요?'가 멜론 2위에 올랐지만 멜론·플로·벅스는 AI 음악 표시 체계가 없고, 유튜브뮤직은 10월 14일부터 재생 화면에 AI 라벨을 붙이고 있다. Off-list source (DSP labelling angle).",
-   "og_image": "https://cdn.issueinsight.co.kr/news/photo/202611/3088_1638_4913.jpg"
-  },
-  {
-   "title": "메이크어스, AI 활용해 음악 콘텐츠 촬영부터 마스터링까지 제작 공정 자동화 추진",
-   "url": "https://biz.chosun.com/industry/business_info/2026/11/11/RFCNHM2V55AHXPYPGR3L6QXXV4/",
-   "source": "조선비즈",
-   "category": "AI mastering",
-   "published_iso": "2026-11-11T00:12:17.894Z",
-   "excerpt": "메이크어스가 AI를 활용해 음악 콘텐츠 촬영부터 믹싱·마스터링까지 제작 공정을 자동화하는 체계를 추진한다. Off-list source (AI mastering slot had no on-list item).",
-   "og_image": "https://biz.chosun.com/resizer/v2/Y44PJ2YQYZHOZPOHJUN3EDWWUU.jpg?auth=41439cc44284db9c45836ec054ee65a798502246dfe50cd8e24e236b396f53b0&width=900&height=472&smart=true"
-  },
-  {
-   "title": "AI 음악 유통 정책 갈라진 글로벌 플랫폼…사운드클라우드는 개방, 밴드캠프는 제한 - 미디어피아",
-   "url": "https://www.mediapia.co.kr/news/articleView.html?idxno=200970",
-   "source": "미디어피아",
-   "category": "AI music",
-   "published_iso": "2026-11-11T23:19:10+09:00",
-   "excerpt": "글로벌 스트리밍 플랫폼의 AI 생성 음악 정책이 갈린다: 스포티파이는 AI 스팸 추천 노출 제한, 밴드캠프는 AI 생성 음악 제한, 사운드클라우드는 개방. Off-list source.",
-   "og_image": "https://cdn.mediapia.co.kr/news/photo/202611/200970_301221_4221.png"
-  },
-  {
-   "title": "We Distributed Cloned AI Music From a Fake Nigerian Artist",
-   "url": "https://culturecustodian.com/distributed-cloned-ai-music-fake-nigerian-artist/",
-   "source": "The Culture Custodian",
-   "category": "AI vocal cloning",
-   "published_iso": "2026-11-11T13:00:41+00:00",
-   "excerpt": "Investigation: the outlet built a fake Nigerian artist with a cloned voice and an AI-generated song, told distribution platforms exactly what it had done, and tracked which ones still distributed it. Off-list source.",
-   "og_image": "https://culturecustodian.com/wp-content/uploads/2026/11/WEB-How-We-Distributed-Cloned-AI-Music-From-a-Fake-Nigerian-Artist-1024x1024.jpg"
-  },
-  {
-   "title": "DJ.Studio 5.0: DJ DAW Now Has Phrase Detection, Smart Beatgrid & More",
-   "url": "https://www.gearnews.com/dj-studio/",
-   "source": "Gearnews",
-   "category": "AI DJ",
-   "published_iso": "2026-11-11T14:00:28+01:00",
-   "excerpt": "DJ.Studio 5.0, the DJ DAW, adds Phrase Detection and a Smart Beatgrid; its AI-powered Automix is renamed Harmonize and now orders playlists by tempo and harmonic match 15x faster.",
-   "og_image": "https://cdn.gearnews.com/wp-content/uploads/2024/12/dj.studio-5.0-T.jpg"
-  },
-  {
-   "title": "Nvidia Moves to Quash Burdensome UMG v. Suno Subpoena",
-   "url": "https://www.digitalmusicnews.com/2026/11/11/nvidia-suno-umg-subpoena-quash-motion/",
-   "source": "Digital Music News",
-   "category": "music AI licensing",
-   "published_iso": "2026-11-11T18:54:27+00:00",
-   "excerpt": "Nvidia moved to quash a 'burdensome' deposition subpoena in UMG v. Suno, saying it has already produced more than 6,300 documents.",
-   "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/Nvidia-Office.jpg"
-  },
-  {
-   "title": "UMG v. Suno Discovery Dispute Rages Amid Marathon Legal Battle",
-   "url": "https://www.digitalmusicnews.com/2026/11/10/umg-v-suno-discovery-dispute/",
-   "source": "Digital Music News",
-   "category": "music AI licensing",
-   "published_iso": "2026-11-11T02:54:52+00:00",
-   "excerpt": "In the UMG v. Suno discovery dispute, Suno is now questioning whether the major labels actually have the rights to license their catalogues for AI training.",
-   "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/04/JJMC.jpg"
-  },
-  {
-   "title": "AI to Be Used to Make Idol Music Videos; HITGS and Genus Share Unreleased Songs - MK",
-   "url": "https://www.mk.co.kr/en/hot-issues/12205296",
-   "source": "Maeil Business (MK)",
-   "category": "AI music video",
-   "published_iso": "2026-11-11T14:18:21+09:00",
-   "excerpt": "The 3rd Korea AI Advertising Awards opens a category where entrants make generative-AI music videos for unreleased songs by rookie idols from HITGS and Genus. Off-list source.",
-   "og_image": "https://pimg.mk.co.kr/news/cms/202611/11/news-p.v1.20261111.4f18bd5a157e4e97a6538759b0d248e9_R.jpg"
-  },
-  {
-   "title": "MusicFlux: Flexible Conditioning for Text-Guided Music Generation and Editing",
-   "url": "https://arxiv.org/abs/2611.13834",
-   "source": "arXiv",
-   "category": "text-to-music",
-   "published_iso": "2026-11-10T10:00:03Z",
-   "excerpt": "MusicFlux is a text-guided music editor built on a pretrained flow-matching text-to-audio model, with two conditioning approaches that trade editing quality against compute for inpainting, event insertion and restoration.",
-   "og_image": null
-  },
-  {
-   "title": "뉴튠 이종필 대표, WIPO 회의 참석…'AI 음악 창작물' 권리 추적 체계 제시 - 뉴스컬처",
-   "url": "https://www.nc.press/news/articleView.html?idxno=630651",
-   "source": "뉴스컬처",
-   "category": "music AI licensing",
-   "published_iso": "2026-11-10T13:57:36+09:00",
-   "excerpt": "뉴튠 이종필 대표가 WIPO 회의에서 생성형 AI 음악 창작물의 권리 추적·분류 체계를 제시했다. Off-list source.",
-   "og_image": "https://cdn.nc.press/news/photo/202611/630651_869476_5651.png"
-  },
-  {
-   "title": "[스타트업-ing] AI와 인간 재능의 공존 방법, 글로벌 음악 장터 ‘레몬사운드’로 본 가능성",
-   "url": "https://www.donga.com/news/amp/all/20261111/135006973/1",
-   "source": "동아일보",
-   "category": "AI 음악",
-   "published_iso": "2026-11-11T15:14:00+09:00",
-   "excerpt": "글로벌 음악 장터 '레몬사운드' 사례로 본 AI와 인간 창작자의 공존 방식 — 스타트업 인터뷰. Off-list source.",
-   "og_image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/11/135006953.1.jpg"
-  },
-  {
-   "title": "ISINA Uses AI and Industry Connections to Help Emerging Artists Build Their Careers",
-   "url": "https://thesource.com/2026/11/10/isina-ai-artist-discovery-development-platform/",
-   "source": "The Source",
-   "category": "AI music",
-   "published_iso": "2026-11-10T13:48:16+00:00",
-   "excerpt": "ISINA uses AI matching plus industry connections to help emerging artists find collaborators and develop careers. Off-list source.",
-   "og_image": "https://thesource.com/wp-content/uploads/2026/11/image-15.jpeg"
-  }
- ]
+  "section": "music",
+  "now_iso": "2026-11-12T22:03:17Z",
+  "window_hours": 336,
+  "items": [
+    {
+      "title": "Ringo's Charlie is a sync-licensing AI assistant within WhatsApp",
+      "url": "https://musically.com/2026/11/12/ringos-charlie-is-a-sync-licensing-ai-assistant-within-whatsapp/",
+      "source": "Music Ally",
+      "published_iso": "2026-11-12T13:30:00+00:00",
+      "excerpt": "Dutch sync-tech startup Ringo has unveiled Charlie, an AI assistant inside WhatsApp that handles sync-licensing requests on top of its AI-powered licensing platform launched in 2025.",
+      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-26.png?fit=2000%2C1500&ssl=1",
+      "keywords": [
+        "music AI licensing",
+        "AI music"
+      ],
+      "category": "music"
+    },
+    {
+      "title": "RadioMatic aims to make AI-music a soundtrack for businesses",
+      "url": "https://musically.com/2026/11/12/radiomatic-aims-to-make-ai-music-a-soundtrack-for-businesses/",
+      "source": "Music Ally",
+      "published_iso": "2026-11-12T13:30:00+00:00",
+      "excerpt": "A new startup, RadioMatic, launches specifically to supply AI-generated background music to cafes, bars and other businesses, formalising a trend of venues playing AI music.",
+      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-25.png?fit=2000%2C1500&ssl=1",
+      "keywords": [
+        "AI music generation",
+        "AI music"
+      ],
+      "category": "music"
+    },
+    {
+      "title": "AI-powered label PaRa Music says it's identified the next big Indian regional music sub-genre",
+      "url": "https://musically.com/2026/11/12/ai-powered-label-para-music-says-its-identified-the-next-big-indian-regional-music-sub-genre/",
+      "source": "Music Ally",
+      "published_iso": "2026-11-12T20:00:11+00:00",
+      "excerpt": "Indian label PaRa Music, which uses its in-house AI platform PaRaMeter to analyse audience behaviour and demand patterns to guide investment, says the system has flagged the next breakout regional sub-genre.",
+      "og_image": "https://musically.com/wp-content/uploads/2026/06/PaRa-Music-logo.jpg",
+      "keywords": [
+        "AI music",
+        "label AI strategy"
+      ],
+      "category": "music"
+    },
+    {
+      "title": "This new plugin lets you generate loops and one-shots from text prompts (Sonura Flow)",
+      "url": "https://musictech.com/news/gear/sonura-flow/",
+      "source": "MusicTech",
+      "published_iso": "2026-11-12T17:26:53+00:00",
+      "excerpt": "Sonura Flow is a free plugin that generates loops, vocals, one-shots and effects from text prompts inside the DAW, with category selection for drums, bass, melody, pads or vocals.",
+      "og_image": "https://musictech.com/wp-content/uploads/2026/11/Sonura-Flow-hero@2000x1500-1068x801.jpg",
+      "keywords": [
+        "AI sample generation",
+        "text-to-music",
+        "AI music plugin"
+      ],
+      "category": "music"
+    },
+    {
+      "title": "Highlights, concerns, and trends from Game Sound Con 2026",
+      "url": "https://musictech.com/news/events/games-sound-con-2026/",
+      "source": "MusicTech",
+      "published_iso": "2026-11-11T17:26:50+00:00",
+      "excerpt": "AI was discussed in depth at GameSoundCon; Clean Cuts Interactive's Roc Lee led 'A Frank Discussion About AI for Sound Designers: Different Work, Not Less Work' as game-audio pros weigh generative tools.",
+      "og_image": "https://musictech.com/wp-content/uploads/2026/11/gaming-headset-stock@2000x1500-1068x801.jpg",
+      "keywords": [
+        "generative music",
+        "adaptive game score"
+      ],
+      "category": "music"
+    },
+    {
+      "title": "Maono's creator-focused AI-powered microphone, the PD500W, is now available",
+      "url": "https://musictech.com/news/gear/maono-pd500w-available-now/",
+      "source": "MusicTech",
+      "published_iso": "2026-11-09T17:23:28+00:00",
+      "excerpt": "After crowdfunding, Maono's PD500W hybrid dynamic mic ships with onboard recording and AI-powered processing features aimed at creators.",
+      "og_image": "https://musictech.com/wp-content/uploads/2026/06/Maono-2@2000x1500-1068x801.jpg",
+      "keywords": [
+        "AI mixing"
+      ],
+      "category": "music"
+    },
+    {
+      "title": "You can now vibe code plugins for your MPC with the help of Akai's official SDK",
+      "url": "https://www.musicradar.com/music-tech/you-can-now-vibe-code-plugins-for-your-mpc-with-the-help-of-akais-official-sdk",
+      "source": "MusicRadar",
+      "published_iso": "2026-11-12T15:01:44Z",
+      "excerpt": "Akai's MPC 3.10.1, MPC Sample and Force updates ship the official open SDK, explicitly framed around AI-assisted 'vibe coding' of MPC plugins; Akai's Andy Mac weighs AI coding speed against cutting corners. (Akai open-source plan was covered 10-29; this is the shipping update.)",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/yiHYKV3d9js2BZekG3W85e-1588-80.jpg",
+      "keywords": [
+        "AI music plugin"
+      ],
+      "category": "music"
+    },
+    {
+      "title": "Blackstar just gave its ID:X Floor amp modellers Neural Amp Modelling support",
+      "url": "https://www.musicradar.com/guitars/blackstar-amplification-adds-nam-a2-lite-to-its-idx-floor-amp-modeller-series",
+      "source": "MusicRadar",
+      "published_iso": "2026-11-12T15:00:00Z",
+      "excerpt": "A free update brings NAM A2 Lite neural amp captures to Blackstar's three ID:X Floor units via an expanded Tone 3000 partnership. (Weak: NAM A2 hardware adoption covered 11-08.)",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/ef2RAHDWxh6eaCuxvccNHT-1820-80.jpg",
+      "keywords": [
+        "neural synthesizer"
+      ],
+      "category": "music"
+    },
+    {
+      "title": "Nick Cave on AI song-generating platforms: 'An affront to any songwriter'",
+      "url": "https://www.musicradar.com/artists/singers-songwriters/an-affront-to-any-songwriter-who-has-lived-and-struggled-in-this-world-and-earned-the-right-to-create-a-song-nick-cave-on-ai-song-generating-platforms",
+      "source": "MusicRadar",
+      "published_iso": "2026-11-11T12:49:47+00:00",
+      "excerpt": "Nick Cave calls AI song generators the 'final, most soul-destroying humiliation' for songwriters. (Was an unpublished 11-11 candidate; opinion.)",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/h3TxNdhfE3wxsokjXh4dZL-1508-80.jpg",
+      "keywords": [
+        "AI songwriting"
+      ],
+      "category": "music"
+    },
+    {
+      "title": "Tracktion Waveform Free 14.1 adds AI-powered Mix Analysis",
+      "url": "https://www.soundonsound.com/news/tracktion-waveform-free-141-now-available",
+      "source": "Sound On Sound",
+      "published_iso": "2026-11-07T07:30:42+00:00",
+      "excerpt": "Waveform Free 14.1's Mix Analysis lets the DAW's AI Assistant examine a project's audio and report loudness, true peak, dynamics, spectral balance and mono compatibility, flagging tracks that muddy the mix.",
+      "og_image": null,
+      "keywords": [
+        "AI mixing",
+        "AI mastering"
+      ],
+      "category": "music"
+    },
+    {
+      "title": "ElevenLabs brings free voice restoration to veterans, songwriters, and more patients",
+      "url": "https://elevenlabs.io/blog/impact-nyc-summit",
+      "source": "ElevenLabs",
+      "published_iso": "2026-11-12T12:00:00.000Z",
+      "excerpt": "At its NYC Summit ElevenLabs launched free ElevenMusic access for artists who have lost their voice, partnered with Wounded Warrior Project and added NYU Langone to its 1 Million Voices programme.",
+      "og_image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/hzu606cgpup-2304662705.webp",
+      "keywords": [
+        "ElevenLabs Music",
+        "AI vocal cloning"
+      ],
+      "category": "music"
+    },
+    {
+      "title": "What's new in Stable Audio: November 2026 release notes",
+      "url": "https://stability.ai/guides/whats-new-in-stable-audio-november-2026-release-notes",
+      "source": "Stability AI",
+      "published_iso": "2026-11-04T14:58:48+00:00",
+      "excerpt": "Stable Audio adds a project workspace, a Generate app for full tracks and sound effects, a Sampler app for short sample packs, and updates to the beta multitrack Sessions editor.",
+      "og_image": null,
+      "keywords": [
+        "Stable Audio",
+        "AI music generation",
+        "AI sample generation"
+      ],
+      "category": "music"
+    },
+    {
+      "title": "Reservoir expands its Suno and Anthropic infringement lawsuits, now seeks nearly $450 million",
+      "url": "https://www.digitalmusicnews.com/2026/11/12/reservoir-suno-lawsuit-anthropic-amended/",
+      "source": "Digital Music News",
+      "published_iso": "2026-11-12T18:03:00+00:00",
+      "excerpt": "Reservoir Media amended its copyright and DMCA complaints, raising allegedly infringed works to 1,368 against Suno and 1,143 against Anthropic and pushing combined statutory damages sought to about $445 million. (New filing; Suno litigation saturated.)",
+      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/Suno-Anthropic-Suits-Updated-Reservoir-1024x546.jpg",
+      "keywords": [
+        "music AI licensing",
+        "Suno"
+      ],
+      "category": "music"
+    },
+    {
+      "title": "Influur Pulse 2.0 uses AI to simplify music influencer campaigns",
+      "url": "https://www.hypebot.com/influur-pulse-2-0-uses-ai-to-simplify-music-influencer-campaigns/",
+      "source": "Hypebot",
+      "published_iso": "2026-11-11T14:33:00.000Z",
+      "excerpt": "Influur's AI-powered platform helps artists and labels discover creators, automate song-promotion campaigns and measure results.",
+      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/11/Influur_Pulse_1.png",
+      "keywords": [
+        "AI music",
+        "label AI strategy"
+      ],
+      "category": "music"
+    },
+    {
+      "title": "Carmine Appice on using AI to create Cactus music videos",
+      "url": "https://www.hypebot.com/carmine-appice-on-a-legendary-career-ai-music-videos-more/",
+      "source": "Hypebot",
+      "published_iso": "2026-11-11T08:24:21.000Z",
+      "excerpt": "Veteran drummer Carmine Appice (Vanilla Fudge, Cactus) explains how AI video tools now drive the music videos for his band Cactus.",
+      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/11/CA-pic-00.jpg",
+      "keywords": [
+        "AI music video"
+      ],
+      "category": "music"
+    },
+    {
+      "title": "AI 노래가 전화 화면까지 들어온다…민티파이 운영사 뮤직플랫, V 컬러링 서비스 시작",
+      "url": "https://www.aipostkorea.com/news/articleView.html?idxno=13276",
+      "source": "AI포스트",
+      "published_iso": "2026-11-12T15:57:18+09:00",
+      "excerpt": "AI 음원 유통 서비스 민티파이(뮤직플랫)가 통신 3사 통화연결 영상 서비스 V 컬러링·V 프로필에 AI 음원을 공급하기 시작했다.",
+      "og_image": "https://cdn.aipostkorea.com/news/photo/202611/13276_24022_5651.png",
+      "keywords": [
+        "AI 음악",
+        "AI music"
+      ],
+      "category": "music"
+    },
+    {
+      "title": "\"AI 목소리라고? 좋기만 한데?\"…머무르 노래 음원차트 휩쓸자 편견도 무너졌다",
+      "url": "https://www.aipostkorea.com/news/articleView.html?idxno=13246",
+      "source": "AI포스트",
+      "published_iso": "2026-11-10T15:57:18+09:00",
+      "excerpt": "인간 기획·작사·작곡에 AI 음성 생성을 결합한 머무르의 '꿈꾸던 어른이 되었나요?'가 음원 차트 2위에 오르고 써클차트 4관왕을 기록하며 AI 보컬 수용 논쟁을 바꾸고 있다.",
+      "og_image": "https://cdn.aipostkorea.com/news/photo/202611/13246_23974_5444.png",
+      "keywords": [
+        "AI 음악",
+        "AI artist streaming chart entry"
+      ],
+      "category": "music"
+    },
+    {
+      "title": "뉴튠 이종필 대표, WIPO AIII 연례 회의서 'AI 생성 콘텐츠 분류 체계' 패널 발표",
+      "url": "https://www.aipostkorea.com/news/articleView.html?idxno=13237",
+      "source": "AI포스트",
+      "published_iso": "2026-11-10T13:21:17+09:00",
+      "excerpt": "AI 음악 스타트업 뉴튠의 이종필 대표가 11월 11일 제네바 WIPO 첫 AI 인프라 연례 회의에서 AI 생성 콘텐츠 분류 체계를 발표한다.",
+      "og_image": "https://cdn.aipostkorea.com/news/photo/202611/13237_23959_1949.png",
+      "keywords": [
+        "music AI licensing",
+        "AI 음악"
+      ],
+      "category": "music"
+    },
+    {
+      "title": "AI 시대, 저작권 보상 어떻게…'2026 서울 저작권 포럼'",
+      "url": "https://www.newsis.com/view/NISX20261112_0003864865",
+      "source": "뉴시스",
+      "published_iso": "2026-11-12T09:33:26+09:00",
+      "excerpt": "문체부와 한국저작권위원회가 12일 '생성형 AI와 저작권'을 주제로 2026 서울 저작권 포럼을 열고 AI 학습 데이터 보상 문제를 논의한다.",
+      "og_image": "https://img1.newsis.com/2026/11/12/NISI20261112_0002289683_web.jpg",
+      "keywords": [
+        "music AI licensing",
+        "음저협 문체부 AI"
+      ],
+      "category": "music"
+    },
+    {
+      "title": "Grimes to make film debut in 'first-ever' AI-generated movie in cinemas",
+      "url": "https://mixmag.net/read/grimes-make-film-debut-first-ever-ai-generated-movie-cinemas-news",
+      "source": "Mixmag",
+      "published_iso": "2026-11-11T00:00:00+00:00",
+      "excerpt": "Grimes voices a lookalike aristocratic character in Gods Don't Give Gifts, billed as the first AI-generated feature in cinemas. (Body date only: 11 November 2026; cross-check movies section.)",
+      "og_image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/grimes-film.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=2fzNG13SjzuXroZgL3Kn0IkoaV2iCh19wY6OtpWbQqs",
+      "keywords": [
+        "AI music video"
+      ],
+      "category": "music"
+    },
+    {
+      "title": "Albanese's love affair with music is on the rocks over AI. Can he write a different tune?",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/11/albaneses-love-affair-with-music-is-on-the-rocks-over-ai-can-he-write-a-different-tune",
+      "source": "The Guardian",
+      "published_iso": "2026-11-10T22:00:20.000Z",
+      "excerpt": "Opinion: Australia's PM is trying to untangle the AI copyright/TDM knot as the music industry pushes back. (Opinion; IFPI-Australia TDM covered 11-09.)",
+      "og_image": null,
+      "keywords": [
+        "music AI licensing"
+      ],
+      "category": "music"
+    },
+    {
+      "title": "Stock tips with a beat: Samsung Securities' AI K-pop group racks up views",
+      "url": "https://www.straitstimes.com/asia/east-asia/stock-tips-with-a-beat-samsung-securities-ai-k-pop-group-racks-up-views",
+      "source": "The Straits Times (Reuters)",
+      "published_iso": "2026-11-12T03:18:00.000Z",
+      "excerpt": "Samsung Securities' AI-generated K-pop girl group LUMINA, which sings investment tips, passed 3 million YouTube views about five weeks after its debut video. (Off-list: on-list Korean outlets had no item.)",
+      "og_image": "https://cassette.sphdigital.com.sg/image/straitstimes/25dbd0ac3e9ee11e7c8549f67bb766de425cf294b1c2a77f9405aed56eec6164?t=og",
+      "keywords": [
+        "AI 가수",
+        "AI music video"
+      ],
+      "off_list": true,
+      "category": "music"
+    },
+    {
+      "title": "Knxwledge launches streaming service after distributors remove his music without explanation",
+      "url": "https://www.complex.com/music/a/markelibert/knxwledge-streaming-app-albums-removed-distributors",
+      "source": "Complex",
+      "published_iso": "2026-11-12T00:30:52.726Z",
+      "excerpt": "Grammy-winning producer Knxwledge launched his own streaming app after distributors pulled records he released years before public AI music tools existed, collateral of the AI-slop takedown wave. (Off-list.)",
+      "og_image": "https://images.complex.com/complex/image/upload/c_crop,h_1910,w_2939,x_0,y_0/g_auto:aoi_1176_764_588_382,ar_1.91,c_fill,q_auto,w_1200/sanity-new/ehkmatoir85wnox3ljc2",
+      "keywords": [
+        "AI music",
+        "AI streaming fraud crackdown"
+      ],
+      "off_list": true,
+      "category": "music"
+    }
+  ]
 }

@@ -4406,6 +4406,140 @@
           "x": "Sonata Insights의 Debra Aho Williamson은 OpenAI가 인사이트를 직접 넘겨주면 “서드파티 기업의 힘이 일부 줄어들 것”이라고 봤다. Business Hub와 에이전트는 당분간 무료다. Shomair는 기업이 “얼마나 자주 노출되는지에 영향을 미쳐서는 안 된다”고 했다."
         }
       ]
+    },
+    "marketing/google-ads-ai-public-figure-ban": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-ads-logo-mirror-wCJesbMh.jpg",
+          "cap": "Google Ads 로고 미러"
+        },
+        {
+          "t": "p",
+          "x": "Google Ads가 unacceptable Business Practices 정책을 손봐, AI로 공인을 사칭하면 AI로 생성하거나 편집했다고 밝혀도 허용하지 않는다는 점을 분명히 했다. AI 사용 자체는 괜찮고 쓸 때 그 사실을 밝히면 되지만, 이 경우만은 예외다."
+        },
+        {
+          "t": "p",
+          "x": "Google이 덧붙인 메모는 이렇다. \"참고: AI로 공인을 사칭하는 광고는 AI로 생성하거나 편집했다고 밝히더라도 허용되지 않습니다.\""
+        },
+        {
+          "t": "p",
+          "x": "추가된 문장을 빨간색으로 표시한 스크린샷이다."
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-doc-change-hAyqlNeM.png",
+          "cap": "Google 문서 변경 사항"
+        },
+        {
+          "t": "p",
+          "x": "Google의 Unacceptable Business Practices 정책은 AI로 공인을 사칭하는 광고를 금지한다. 광고에 해당 콘텐츠를 AI로 생성하거나 편집했다고 밝혀 두어도 마찬가지다."
+        },
+        {
+          "t": "p",
+          "x": "Google은 이렇게 썼다. \"Google은 Public-figure impersonation(공인 사칭)에 관한 Unacceptable Business Practices 정책을 업데이트해, AI로 공인을 사칭하는 광고는 AI로 생성하거나 편집했다고 밝히더라도 허용되지 않는다는 점을 명확히 했습니다. 이번 설명은 광고주의 정책 이해를 돕기 위한 것이며 정책 집행 방식을 바꾸지 않습니다.\""
+        },
+        {
+          "t": "p",
+          "x": "그러니 이런 엄청난 광고는 이제 그만 내보내야 한다."
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/ai-ad-atmEYoSV.jpg",
+          "cap": "AI 광고"
+        }
+      ]
+    },
+    "marketing/eu-ai-act-deepfake-ad-labels": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/size/w2000/2026/11/eu-ai-act-deep-fake-label-3-percent-fines-carousel-projector-flattered-kettle-across-sea.jpg",
+          "cap": "Non-EU 광고 제작사가 실물을 미화한 AI 제품 사진에 라벨을 달지 않으면 매출액의 3%를 벌금으로 낸다"
+        },
+        {
+          "t": "p",
+          "x": "AI Act 제50조 투명성 의무를 다룬 유럽연합 집행위원회(European Commission) 가이드라인이 문서번호 C/2026/6005로 유럽연합 관보에 실렸다. 가이드라인은 EU 밖에 세운 기업이라도 EU 역내에 걸 광고용으로 AI 시스템을 써 유명인 딥페이크를 만들면 AI Act가 적용되는 배포자(deployer)가 된다고 설명한다."
+        },
+        {
+          "t": "p",
+          "x": "AI-made 유명인 보증 광고, 제품을 써 보는 합성 인플루언서, 실제 제품을 왜곡한 제품 이미지는 모두 딥페이크여서 눈에 보이는 라벨을 달아야 한다. AI 활용 방식을 통제하지 않고 대행사에 의뢰만 하는 기업은 배포자가 아니다. 광고 문구와 제품 설명은 건강·소비자 안전·지속가능성 주장을 담지 않으면 텍스트 규정에서 빠진다."
+        },
+        {
+          "t": "p",
+          "x": "배포자는 \"제공자가 콘텐츠에 삽입한 기계 판독형 표시에 기댈 수 없다.\" 제50조를 어기면 EUR 15,000,000과 전 세계 연간 총매출액의 3% 가운데 큰 금액까지 벌금이 매겨진다. 2026년 8월 2일 전에 출시된 생성형 시스템은 2026년 12월 2일까지 표시 의무를 갖추면 된다."
+        }
+      ]
+    },
+    "marketing/nectar-creator-agent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2023/10/misbahfarah-together.jpg?w=1024",
+          "cap": "Nectar AI 공동 창업자 Misbah Uraizee와 Farah Uraizee"
+        },
+        {
+          "t": "p",
+          "x": "AI-powered 마케팅 운영체제 Nectar가 인플루언서 마케팅의 수작업을 크게 덜어 줄 새 AI 에이전트를 내놓는다. 목요일 공개된 “Creator Agent”는 크리에이터를 찾아 콘텐츠와 브랜드 파트너십을 확인하고, 맞춤 메시지를 보내 협업을 조율한 뒤 캠페인 성과까지 지켜본다."
+        },
+        {
+          "t": "p",
+          "x": "Nectar에 따르면 Creator Agent는 크리에이터 프로필 3억 개 이상을 뒤져 잠재 파트너를 찾는다. 이제 막 주목받기 시작한 소규모 크리에이터도 대상이다. 영상을 분석해 크리에이터가 무엇을 올리는지 파악하고, 특정 키워드만 찾는 대신 맥락을 보고 콘텐츠를 검토해 브랜드 안전성을 따진다."
+        },
+        {
+          "t": "p",
+          "x": "에이전트는 브랜드 어조로 메시지를 써서 보내고 맞춤 랜딩 페이지도 만든다. 계약, 제품 협찬, 배송 정보 관리도 거든다. CEO Misbah Uraizee는 TechCrunch에 “브랜드는 어떤 형식으로든 어조 가이드라인을 공유하면 되고, 나머지는 Nectar가 그간의 이력에서 파악한다”고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "Creator Agent는 오늘부터 전 세계에서 쓸 수 있고 Instagram 크리에이터와 TikTokers를 지원한다. 회사는 자사 Model Context Protocol(MCP)로도 제공해 Claude, ChatGPT, Gemini, Copilot 같은 AI 어시스턴트 안에서 쓰게 할 계획이다."
+        }
+      ]
+    },
+    "marketing/podqi-chatbot-fake-retail-sites": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "AI 챗봇에게 제품을 묻거나 구매처를 찾는 쇼핑객이 사칭 사이트 같은 위험한 웹사이트로 흘러갈 수 있다는 연구가 새로 나왔다. IP 보호 기업 Podqi는 ChatGPT, Gemini, Perplexity에 151개 브랜드를 두고 “[brand]는 온라인 어디에서 찾을 수 있나요?” 같은 쇼핑 질문을 던졌다."
+        },
+        {
+          "t": "p",
+          "x": "답변 6,795개를 살펴보니 세 AI 엔진 모두 위험한 사이트를 인용해 쇼핑객에게 내밀었다. 위험한 사이트란 실제 소매업체를 사칭하거나 모조품을 파는 가짜 웹사이트, 다시 등록된 옛 브랜드 도메인, 운영이 끊긴 사이트를 말한다. Gemini는 답변의 4퍼센트, ChatGPT는 8퍼센트에서 위험한 사이트를 보여 줬다. Perplexity는 15퍼센트로 가장 나빴다. 특히 소규모 브랜드가 취약해 보인다."
+        },
+        {
+          "t": "p",
+          "x": "한 대화에서 Perplexity는 엉뚱한 페이지를 Stüssy의 공식 웹사이트로 지목하며 “정품 보장 상품을 찾기에 가장 좋은 출발점”이라고 했다. Podqi CEO이자 공동 창업자인 Trevor West는 “개인 정보나 신용카드 정보를 입력하기 전에 그 출처를 확인하는 것이 언제나 최선”이라고 말했다."
+        }
+      ]
+    },
+    "marketing/appsflyer-apple-ads-agent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/size/w2000/2026/11/appsflyer-apple-ads-share-of-voice-agent-bids-after-approval-vu-meter-arm-volume-knob-pull-cord.jpg",
+          "cap": "AppsFlyer의 첫 실행형 에이전트는 승인이 떨어지면 Apple Ads 입찰가를 직접 움직인다"
+        },
+        {
+          "t": "p",
+          "x": "AppsFlyer는 오늘 마케터가 승인하면 키워드 입찰가를 바꾸는 Apple Ads 에이전트를 비공개 베타로 내놓았다. 회사 라인업에서 조언을 넘어 직접 실행까지 하는 첫 에이전트다. Apple Ads Share of Voice Agent는 키워드·지역별 점유율(share of voice)을 추정한다. 광고주가 “목표에서 벗어났을 때(off target)” 입찰가 변경을 권하고 AppsFlyer에서 Apple Ads로 곧바로 실행한다. 이용하려면 고객 성공 매니저를 거쳐야 한다."
+        },
+        {
+          "t": "p",
+          "x": "발표 자료는 점유율 추정 방식도, 입찰을 어느 Apple 인터페이스로 넘기는지도 밝히지 않았다(Campaign Management API는 2027년 1월 26일 종료된다). 승인을 어떻게 강제하는지도 빠졌다. Apple의 Maximize Conversions 캠페인은 애초에 키워드 입찰을 허용하지 않는다."
+        },
+        {
+          "t": "p",
+          "x": "AppsFlyer는 Create an Agent도 출시했다. 업무 흐름을 평이한 말로 설명하면 맞춤형 에이전트가 만들어지고, 이 에이전트가 분석·근본 원인 분석·권고안을 정해진 일정에 맞춰 Slack이나 이메일로 보낸다. 새 MCP 기능 네 가지는 Protect360 사기 데이터, 크리에이티브 단위 성과, OneLink 생성(승인 후에만), 파트너 연동 설정을 “모든 MCP 클라이언트(any MCP client)”에 연다."
+        },
+        {
+          "t": "p",
+          "x": "“마케팅 팀은 수작업 캠페인 운영에서 에이전트 기반 실행으로 옮겨가고 있다”고 AppsFlyer의 Inna Weiner VP Product는 말했다. 가격과 고객 성과, 정식 출시일은 공개하지 않았다."
+        }
+      ]
     }
   }
 }

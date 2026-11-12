@@ -1,31 +1,31 @@
 {
- "date": "2026-11-12",
- "section": "books",
- "media": [
-  {
-   "id": "books-caine-prize-ai-cleared",
-   "type": "image",
-   "src": "pipeline/media/books-caine-prize-ai-cleared.jpg"
-  },
-  {
-   "id": "books-unions-openai-voice-brief",
-   "type": "image",
-   "src": "pipeline/media/books-unions-openai-voice-brief.jpg"
-  },
-  {
-   "id": "books-claude-kindle-jailbreak-apps",
-   "type": "image",
-   "src": "pipeline/media/books-claude-kindle-jailbreak-apps.jpg"
-  },
-  {
-   "id": "books-jaju-webtoon-ai-shortdrama",
-   "type": "image",
-   "src": "pipeline/media/books-jaju-webtoon-ai-shortdrama.png"
-  },
-  {
-   "id": "books-joongang-audiobook-ai-narration",
-   "type": "image",
-   "src": "pipeline/media/books-joongang-audiobook-ai-narration.jpg"
-  }
- ]
+  "date": "2026-11-13",
+  "section": "books",
+  "media": [
+    {
+      "id": "upress-ai-integrity-charter",
+      "type": "image",
+      "src": "pipeline/media/upress-ai-integrity-charter.jpg"
+    },
+    {
+      "id": "paizo-feybound-ai-art",
+      "type": "image",
+      "src": "pipeline/media/paizo-feybound-ai-art.jpg"
+    },
+    {
+      "id": "hivemind-aurora-translation",
+      "type": "image",
+      "src": "pipeline/media/hivemind-aurora-translation.jpg"
+    },
+    {
+      "id": "scholarlykitchen-ai-user-study",
+      "type": "image",
+      "src": "pipeline/media/scholarlykitchen-ai-user-study.jpg"
+    },
+    {
+      "id": "openai-amicus-briefs-map",
+      "type": "image",
+      "src": "pipeline/media/openai-amicus-briefs-map.png"
+    }
+  ]
 }

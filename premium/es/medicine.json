@@ -4086,6 +4086,107 @@
           "x": "Michael Schlosser, M.D., de HCA, dijo que la compañía está “explorando cómo Gemini puede interpretar y sintetizar información compleja de pacientes procedente de múltiples sistemas de historia clínica electrónica y entornos de atención”."
         }
       ]
+    },
+    "medicine/medicare-wiser-ai-priorauth-docs": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.statnews.com/wp-content/uploads/2026/05/AP26023803702193-1024x576.jpg",
+          "cap": "Emilie Megnien/AP"
+        },
+        {
+          "t": "p",
+          "x": "Nuevos documentos plantean más dudas sobre el experimento de autorización previa con AI de Medicare. En esta edición de STAT Health Tech: la gran apuesta de Oura por la AI, una 'rumble strip' para los chatbots clínicos de AI y las dudas sobre el experimento de autorización previa con AI de Medicare."
+        },
+        {
+          "t": "p",
+          "x": "El boletín completo está disponible para los suscriptores de STAT+."
+        }
+      ]
+    },
+    "medicine/fda-cms-states-healthai-oversight": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.statnews.com/wp-content/uploads/2025/07/AdobeStock_971648927_Editorial_Use_Only-1024x576.jpeg",
+          "cap": "Adobe"
+        },
+        {
+          "t": "p",
+          "x": "La FDA y los CMS buscan colaborar con los estados en materia de AI sanitaria. En esta edición del boletín Health Tech de STAT: funcionarios federales buscan trabajar con los estados en la regulación de la AI, la protección de los médicos frente a la responsabilidad por AI, y más."
+        },
+        {
+          "t": "p",
+          "x": "El boletín completo está disponible para los suscriptores de STAT+."
+        }
+      ]
+    },
+    "medicine/jama-ai-interventional-trials-ctgov": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Este estudio transversal examina el uso de la inteligencia artificial (AI) en ensayos clínicos iniciados a partir de 2022. Los investigadores analizaron ensayos de intervención registrados en ClinicalTrials.gov con fechas de inicio desde enero de 2022 para caracterizar cómo se planifica y describe el uso de AI."
+        },
+        {
+          "t": "p",
+          "x": "De los 8559 registros que arrojó la búsqueda, la cohorte final incluyó 1212 ensayos de intervención. El uso previsto de AI generativa, incluidos los grandes modelos de lenguaje, aumentó de forma marcada: de ningún ensayo iniciado en 2022 a 100 de 491 (20.4%) de los iniciados en 2025. Ocho ensayos preveían usar agentes de AI para el seguimiento de pacientes o la educación sanitaria, entre otros fines."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/df47/13749202/7f04ceea0423/jamanetwopen-e2642797-g001.webp",
+          "cap": "Gráficos de barras de las características de los ensayos incluidos"
+        },
+        {
+          "t": "p",
+          "x": "Las condiciones clínicas más frecuentes fueron el cáncer (20.0%), la salud neurológica y mental (19.6%) y las enfermedades cardiovasculares y metabólicas (18.6%). La AI se usó sobre todo para el cribado y el modelado predictivo del riesgo de enfermedad o la selección de tratamientos (39.8%). Estados Unidos aportó 303 ensayos (25.0%) y China, 149 (12.3%)."
+        },
+        {
+          "t": "p",
+          "x": "Como ClinicalTrials.gov no tiene campos estructurados sobre AI ni requisitos de notificación, a menudo faltaban detalles de los métodos; los autores afirman que unos campos de registro estructurados y alineados con los estándares de notificación de AI mejorarían la transparencia."
+        }
+      ]
+    },
+    "medicine/npj-cancer-persistent-fever-ml": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La fiebre persistente tras iniciar antibióticos intravenosos es frecuente en pacientes hospitalizados con cáncer y a menudo conlleva más pruebas de imagen y una escalada antimicrobiana. Los investigadores desarrollaron y validaron externamente modelos de aprendizaje automático para predecir la fiebre persistente 48–72 h después del inicio de los antibióticos, a partir de historias clínicas electrónicas de dos hospitales universitarios."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03449-w/MediaObjects/41746_2026_3449_Fig1_HTML.png",
+          "cap": "Fig. 1: Diagrama de flujo que ilustra los pasos de extracción de cohortes de los conjuntos de datos de UME y BWH."
+        },
+        {
+          "t": "p",
+          "x": "Las cohortes finales incluyeron 987 estancias hospitalarias en University Medicine Essen (UME) y 7409 en Brigham and Women’s Hospital (BWH). El modelo con mejor rendimiento alcanzó un AUROC de 0.82 (95% CI 0.79–0.84) en la validación interna y de 0.78 (95% CI 0.77–0.79) en la externa. Las variables relacionadas con la temperatura fueron los predictores dominantes."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03449-w/MediaObjects/41746_2026_3449_Fig2_HTML.png",
+          "cap": "Fig. 2: Discriminación, utilidad clínica y calibración de los modelos de predicción en las cohortes de validación interna (UME) y externa (BWH)."
+        },
+        {
+          "t": "p",
+          "x": "Aproximadamente una cuarta parte de las escaladas antibióticas y de las CT de tórax se produjeron en pacientes en quienes se predijo correctamente que no seguirían con fiebre. El uso clínico debería limitarse a un papel complementario y no a decisiones de descarte independientes, y se necesitan estudios prospectivos."
+        }
+      ]
+    },
+    "medicine/lancet-pharma-ad-llm": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Publicidad farmacéutica y recomendaciones de medicamentos por inteligencia artificial orientada al consumidor: un estudio controlado — Mahmud Omar, Reem Agbareia, Jolion McGreevy, Alexis Zebrowski, Ashwin Ramaswamy, Michael A Gorin, Esther-Maria Antao, Benjamin S Glicksberg, Ankit Sakhuja, Alexander W Charney, Eyal Klang, Girish N Nadkarni."
+        },
+        {
+          "t": "p",
+          "x": "La publicidad desplazó la selección de tratamientos de los LLMs hacia el fármaco promocionado. La concordancia con las guías siguió siendo alta, lo que significa que los cambios entre tratamientos concordantes con las guías podrían escapar a las evaluaciones de la corrección del tratamiento."
+        },
+        {
+          "t": "p",
+          "x": "La influencia de la publicidad a menudo no se revelaba. Saber si estos cambios en las respuestas podrían afectar a la prescripción o a las decisiones de los pacientes requiere un estudio directo."
+        }
+      ]
     }
   }
 }

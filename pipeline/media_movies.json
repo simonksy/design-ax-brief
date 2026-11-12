@@ -1,33 +1,7 @@
-{
- "date": "2026-11-12",
- "section": "movies",
- "media": [
-  {
-   "id": "beeble-switchx3",
-   "type": "video",
-   "src": "pipeline/media/beeble-switchx3.mp4",
-   "poster": "pipeline/media/beeble-switchx3.jpg"
-  },
-  {
-   "id": "higgsfield-listen-meh-prize",
-   "type": "video",
-   "src": "pipeline/media/higgsfield-listen-meh-prize.mp4",
-   "poster": "pipeline/media/higgsfield-listen-meh-prize.jpg"
-  },
-  {
-   "id": "kakao-ryan-ai-short",
-   "type": "image",
-   "src": "pipeline/media/kakao-ryan-ai-short.jpg"
-  },
-  {
-   "id": "bfi-nfts-falmouth-650k",
-   "type": "image",
-   "src": "pipeline/media/bfi-nfts-falmouth-650k.jpg"
-  },
-  {
-   "id": "afm-innovation-hub-ai",
-   "type": "image",
-   "src": "pipeline/media/afm-innovation-hub-ai.jpg"
-  }
- ]
-}
+{"date":"2026-11-13","section":"movies","media":[
+{"id":"firefly-build-story-assemble","type":"video","src":"pipeline/media/firefly-build-story-assemble.mp4","poster":"pipeline/media/firefly-build-story-assemble.jpg"},
+{"id":"distinkt-ai-talent-agency","type":"image","src":"pipeline/media/distinkt-ai-talent-agency.jpg"},
+{"id":"sagaftra-websummit-ai-block","type":"image","src":"pipeline/media/sagaftra-websummit-ai-block.jpg"},
+{"id":"saranagati-hombale-ai-teaser","type":"video","src":"pipeline/media/saranagati-hombale-ai-teaser.mp4","poster":"pipeline/media/saranagati-hombale-ai-teaser.jpg"},
+{"id":"kbs-munmu-ai-battles","type":"image","src":"pipeline/media/kbs-munmu-ai-battles.jpg"}
+]}

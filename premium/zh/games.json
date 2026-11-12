@@ -10707,6 +10707,151 @@
           "x": "这个Preview大约用一周拼成，QA周期比平常短；Epic表示仍在“清理部分由智能体编写的代码”。它大幅改进了Python脚本和AI-assisted工作流，包括Unreal MCP、Unreal Assistant，以及Epic的AI-powered内容创作工具Unreal Canvas；此外还有Lumen World Cache、更好的Nanite剔除，以及通过WebAssembly和WebGPU重新支持Web作为目标平台。"
         }
       ]
+    },
+    "games/tencent-ai-gaming-companions": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/b9/images/6af5c6c9f3f7f/widen_1840x0.jpg"
+        },
+        {
+          "t": "p",
+          "x": "说实话，这条新闻的时机相当滑稽，不过这个概念本身并不新鲜。在中国科技巨头Tencent之前，Razer就已推出AVA，用户可以从几个小巧的全息AI伴侣中挑选，它们旨在融入日常生活，无论是工作还是游戏。"
+        },
+        {
+          "t": "p",
+          "x": "Eciyuan是Tencent面向玩家的新款桌面应用，内置四位AI伴侣，它们会观看你的游戏过程并建议可行的操作，你也可以随时和她们聊天。四个女孩各有自己的性格、背景、兴趣和语音样本。例如，Shen Lubai是一位24岁、立志成为电竞解说的女孩，喜欢Valorant、League of Legends和Counter-Strike等游戏。Xia Xia是新闻与传播专业的学生，Guiyu似乎是一名厨师，Bella则热衷冲浪。"
+        },
+        {
+          "t": "p",
+          "x": "据悉，你还可以在手机上继续与Eciyuan伴侣聊天，甚至让她们以小角色的形式待在桌面上，或设置与她们服装相配的壁纸。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/75/images/6af5c4663e8b4/widen_1840x0.jpg"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/11/images/6af5c46aeedbb/widen_1840x0.jpg"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/12/images/6af5c4724c758/widen_1840x0.jpg"
+        },
+        {
+          "t": "p",
+          "x": "关于Eciyuan及其AI伴侣的信息仍然很少，目前也没有全球发布的消息。这些女孩能否在真实对局中给出有用的建议，还有待观察。目前，测试版仅在中国提供。"
+        }
+      ]
+    },
+    "games/apex-neural-rendering-framegen": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-30.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Apex Compute推出了跨平台神经渲染套件Apex Neural Rendering（ANR）。据称与NVIDIA的技术相比，其帧生成速度最高快2.4X，画质更好，GPU显存占用也显著更低。ANR由Frame Generation（FG）、Super Resolution（SR）和Ray Reconstruction（RR）组成，目前Frame Generation已推出测试版。"
+        },
+        {
+          "t": "p",
+          "x": "兼容范围涵盖NVIDIA GeForce GTX 16及RTX 20/30/40/50 Series、AMD Radeon RX 5000/6000/7000/9000 Series和Steam Deck，以及Intel Arc A-Series和B-Series，支持Windows 10/11、Linux和SteamOS，另有面向macOS 26的Metal测试套件。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/ANR-Bench-Numbers.jpg"
+        },
+        {
+          "t": "p",
+          "x": "根据Apex Compute的内部基准测试，在3840×2160分辨率下的GeForce RTX 5090上，ANR FG在2X模式下每生成一帧需要1.01毫秒，而NVIDIA DLSS Frame Generation为1.26 ms。在4K 分辨率下，GPU显存占用为214 MB，而NVIDIA为562 MB，减少约62%。不过，其公布的RTX 5090测量数据显示，处理时间的改善幅度不及宣传的2.4X，而且这些数据针对的是生成帧的开销，而非实际游戏FPS。"
+        },
+        {
+          "t": "video",
+          "yt": "xhzNx3seocQ"
+        },
+        {
+          "t": "p",
+          "x": "Apex的内部画质测量结果显示ANR优于NVIDIA DLSS FG，但仍需独立测试验证。测试版通过GitHub上的OptiScaler安装；帧生成实现尚未开源，用户应预料到兼容性问题和画面瑕疵。"
+        }
+      ]
+    },
+    "games/ludo-toolbox-coding-agents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://mobidictum.com/wp-content/uploads/2026/03/ludo_ai_logo.png"
+        },
+        {
+          "t": "p",
+          "x": "Ludo.ai发布了Ludo Toolbox。这是一套包含32个免费命令行工具的工具集，可为Claude Code、Codex、Cursor、GitHub Copilot和Gemini CLI等编程智能体提供向游戏添加精灵、图像、声音和3D模型所需的尺寸数据和引擎文件。它内置于开源（MIT）的Ludo CLI中，完全离线运行，无需账号、API密钥或积分。"
+        },
+        {
+          "t": "p",
+          "x": "该工具箱用精确数值取代智能体对锚点、碰撞体和pixels-per-meter的猜测，返回JSON并直接写出引擎自身的文件。若要求在Unity中设置一个枢轴位于脚部、身高1.8米的骑士，智能体会串联使用三个工具；在Godot、Phaser和Box2D中得出的数值也相同。"
+        },
+        {
+          "t": "p",
+          "x": "Ludo.ai的Co-Founder兼CTO Jorge Gomes表示：“编程智能体非常擅长写游戏代码，但处理美术时仍靠目测。工具箱则直接给它们数值。”"
+        },
+        {
+          "t": "video",
+          "yt": "4LIIbfU19pc"
+        },
+        {
+          "t": "p",
+          "x": "该工具箱适用于任何素材，无论是否由Ludo制作。它现已在Ludo CLI 0.2.0及更高版本中提供，需要Node.js 20或更新版本。"
+        }
+      ]
+    },
+    "games/gamesbeat-next-ai-native-games": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/11/AI-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "AI在游戏领域最大的机会，或许是创造出没有它就无法实现的全新游戏类型。这是GamesBeat Next 2026一场小组讨论的核心主题，讨论由Jamil Moledina主持，嘉宾包括Brian Tanner（Artificial Agency）、Piero Molino（Studio Atelico）和Jon Snoddy（Operative Games）。"
+        },
+        {
+          "t": "p",
+          "x": "Molino指出，早期的生成式智能体实验“需要大量AI，但并不算真正的游戏”，因为“没有咬劲，没有挑战”。在Operative Games，对话是核心机制。Snoddy说：“游戏机制就是故事。游戏机制就是对话。”"
+        },
+        {
+          "t": "p",
+          "x": "小组还探讨了运行时的经济性：Tanner谈到要在质量、速度和成本之间取得平衡，Molino则说：“如果我是一名游戏设计师，并且知道在游戏中每调用一次都要花费一定成本，这就会影响我能做出的设计。”"
+        },
+        {
+          "t": "p",
+          "x": "嘉宾们认为由自主角色驱动的系统化沙盒类游戏颇具潜力，并表示AI-native开发既是技术挑战，也同样是设计挑战。"
+        }
+      ]
+    },
+    "games/witcher3-geralt-polish-ai-voice": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/11/geralt.jpg",
+          "cap": "CD Projekt Red"
+        },
+        {
+          "t": "p",
+          "x": "配音演员Jacek Rozenek在《The Witcher 3》波兰语版中为利维亚的杰洛特（Geralt of Rivia）配音，但他在2019年中风，说话变得困难，声音也随之改变。为即将推出的扩展内容Songs of the Past，CD Projekt Red决定借助AI，让Rozenek的新演出与他为2015年版本录制的演出相匹配。"
+        },
+        {
+          "t": "p",
+          "x": "本地化制作人Mikołaj Szwed对Game File表示：“我确实认为，这是在征得同意的前提下合乎伦理地使用AI、同时用它做好事的方式之一。”"
+        },
+        {
+          "t": "p",
+          "x": "CDPR与乌克兰AI语音克隆公司Respeecher合作。该公司用某人已有的配音作品训练算法，使新演出与原版相匹配；必须获得演员本人或其遗产管理方的同意。Rozenek为原版游戏录制了超过10,000句台词。Respeecher的Dmytro Vasylets说：“最难的是Jacek的情感跨度。”"
+        },
+        {
+          "t": "p",
+          "x": "CDPR表示未来不打算用该算法改变Rozenek的声音，Rozenek本人也确认他没有听过自己的AI分身。"
+        }
+      ]
     }
   }
 }

@@ -1,143 +1,197 @@
 {
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "section": "medicine",
   "cards": [
     {
-      "id": "lancet-pharma-ad-llm",
+      "id": "doximity-cds-survey-63pct",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "제약 광고가 소비자용\nAI 추천을 몰래 바꾼다",
-      "body": "제약 광고를 넣자 LLM 치료 추천이 광고 약으로 쏠렸는데 지침 부합도는 높았다.",
-      "mini_headline": "제약 광고, AI 추천 좌우",
+      "headline": "AI, 이제 의사의\n일상 도구가 됐다",
+      "body": "Doximity 조사, U.S. 의사 3,300+명의 63%가 진료에 AI를 쓴다.",
+      "mini_headline": "의사의 일상이 된 AI",
       "tool": "Medicine",
-      "source": "The Lancet Digital Health",
-      "url": "https://www.thelancet.com/journals/landig/article/PIIS2589-7500(26)00137-8/fulltext",
+      "source": "Healthcare Dive",
+      "url": "https://www.healthcaredive.com/news/despite-concerns-ai-becomes-daily-fixture-in-physician-workflows/874541/",
       "accent": "#00897b",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "제약 광고와 소비자용 인공지능의 약물 추천: 대조 연구 — Mahmud Omar, Reem Agbareia, Jolion McGreevy, Alexis Zebrowski, Ashwin Ramaswamy, Michael A Gorin, Esther-Maria Antao, Benjamin S Glicksberg, Ankit Sakhuja, Alexander W Charney, Eyal Klang, Girish N Nadkarni."
+            "t": "img",
+            "src": "https://imgproxy.divecdn.com/AM_NT-IV2s-WIQ0l-DhVMyXuf_4ShsdQj2epak14Zmo/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzYzMDY4MzEwLmpwZw==.webp",
+            "cap": "Getty Images"
           },
           {
             "t": "p",
-            "x": "광고를 넣자 LLMs가 고르는 치료가 광고 대상 약물 쪽으로 옮겨 갔다. 지침 부합도는 여전히 높았다. 치료 정확성만 평가해서는 지침에 맞는 치료끼리 오가는 이런 변화를 놓칠 수 있다."
+            "x": "Doximity가 목요일 공개한 설문을 보면 의사들은 AI를 행정 업무뿐 아니라 의학 문헌 검색 같은 일상적인 임상 의사결정 지원에도 쓰기 시작했다. 절반 이상이 AI를 매일 쓴다고 답했고 또 다른 삼분의 일은 일주일에 한 번 이상 쓴다고 했다."
           },
           {
             "t": "p",
-            "x": "광고의 영향은 겉으로 드러나지 않는 경우가 많았다. 이런 출력 변화가 처방이나 환자 결정까지 바꿀 수 있는지는 따로 직접 연구해야 한다."
+            "x": "Doximity가 자사 U.S. 의사 3,300명 이상을 조사해 보니 임상 의사결정 지원에 AI를 쓰는 비율이 2025년 37%에서 63%로 두 배 가까이 뛰었다. 방대한 의학 문헌을 훑을 때 AI를 쓰는 의사도 지난해 조사의 절반 남짓에서 70%로 늘었다."
+          },
+          {
+            "t": "p",
+            "x": "의사 다수(81%)는 AI를 쓰다가 갱신된 가이드라인, 다른 진단 가능성, 치료 옵션처럼 몰랐던 것을 새로 알게 됐다고 답했다. 65%는 AI 도구 덕분에 임상 역량과 지식이 늘었다고 했다."
+          },
+          {
+            "t": "p",
+            "x": "하지만 61%는 수련의가 AI에 지나치게 기대다 스스로 임상 역량을 기르지 못할까 걱정했다. 절반 가까이는 AI 과의존을 우려했고 의사 네 명 중 세 명은 지난 한 해 AI를 업무에 쓰다 사실 오류를 한 번 이상 겪었다. AI 결과물을 고치거나 다시 확인하는 품이 한 해 전보다 줄었다는 응답도 사분의 일을 넘었다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Drug ads quietly steer\nconsumer AI recommendations",
-          "body": "Injected pharma ads shifted LLM treatment choices toward the promoted drug while guideline concordance stayed high.",
-          "mini_headline": "Drug ads steer AI picks",
+          "headline": "AI becomes a daily fixture\nin physician workflows",
+          "body": "A Doximity survey of 3,300+ U.S. physicians finds AI use for clinical decision support nearly doubled to 63%.",
+          "mini_headline": "AI now daily for doctors",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Pharmaceutical advertising and drug recommendations by consumer-facing artificial intelligence: a controlled study — Mahmud Omar, Reem Agbareia, Jolion McGreevy, Alexis Zebrowski, Ashwin Ramaswamy, Michael A Gorin, Esther-Maria Antao, Benjamin S Glicksberg, Ankit Sakhuja, Alexander W Charney, Eyal Klang, Girish N Nadkarni."
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/AM_NT-IV2s-WIQ0l-DhVMyXuf_4ShsdQj2epak14Zmo/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzYzMDY4MzEwLmpwZw==.webp",
+                "cap": "Getty Images"
               },
               {
                 "t": "p",
-                "x": "Advertising shifted treatment selection by LLMs towards the promoted drug. Guideline concordance remained high, meaning that shifts among guideline-concordant treatments could evade evaluations of treatment correctness."
+                "x": "Physicians’ AI use is moving beyond administrative tasks to more everyday clinical decision support, like searching through medical literature, according to a survey published Thursday by Doximity. More than half of physicians said they use AI daily and another third use it at least once a week."
               },
               {
                 "t": "p",
-                "x": "The influence of advertising was often undisclosed. Whether these output shifts could affect prescribing or patient decisions requires direct study."
+                "x": "The Doximity survey of more than 3,300 of the firm’s U.S. doctors shows that the share of physicians using AI for clinical decision support nearly doubled to 63%, up from 37% in 2025. Also, more physicians — 70% from just over half in last year’s survey — are using AI to comb through troves of medical literature."
+              },
+              {
+                "t": "p",
+                "x": "A majority (81%) of physicians said that using AI has taught them something they previously didn’t know, including updated guidelines, alternative diagnoses or treatment options. Another 65% said that AI tools have helped with developing their clinical skills and knowledge."
+              },
+              {
+                "t": "p",
+                "x": "But 61% worry that trainees will rely on AI too much and not develop their own set of clinical skills. Nearly half were concerned about overreliance on AI, and three in four physicians said they encountered a factual inaccuracy at least once in the past year while using AI for work. Over a quarter said the effort they put into correcting or double-checking AI output has decreased compared with a year ago."
               }
             ]
           }
         },
         "ko": {
-          "headline": "제약 광고가 소비자용\nAI 추천을 몰래 바꾼다",
-          "body": "제약 광고를 넣자 LLM 치료 추천이 광고 약으로 쏠렸는데 지침 부합도는 높았다.",
-          "mini_headline": "제약 광고, AI 추천 좌우",
+          "headline": "AI, 이제 의사의\n일상 도구가 됐다",
+          "body": "Doximity 조사, U.S. 의사 3,300+명의 63%가 진료에 AI를 쓴다.",
+          "mini_headline": "의사의 일상이 된 AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "제약 광고와 소비자용 인공지능의 약물 추천: 대조 연구 — Mahmud Omar, Reem Agbareia, Jolion McGreevy, Alexis Zebrowski, Ashwin Ramaswamy, Michael A Gorin, Esther-Maria Antao, Benjamin S Glicksberg, Ankit Sakhuja, Alexander W Charney, Eyal Klang, Girish N Nadkarni."
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/AM_NT-IV2s-WIQ0l-DhVMyXuf_4ShsdQj2epak14Zmo/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzYzMDY4MzEwLmpwZw==.webp",
+                "cap": "Getty Images"
               },
               {
                 "t": "p",
-                "x": "광고를 넣자 LLMs가 고르는 치료가 광고 대상 약물 쪽으로 옮겨 갔다. 지침 부합도는 여전히 높았다. 치료 정확성만 평가해서는 지침에 맞는 치료끼리 오가는 이런 변화를 놓칠 수 있다."
+                "x": "Doximity가 목요일 공개한 설문을 보면 의사들은 AI를 행정 업무뿐 아니라 의학 문헌 검색 같은 일상적인 임상 의사결정 지원에도 쓰기 시작했다. 절반 이상이 AI를 매일 쓴다고 답했고 또 다른 삼분의 일은 일주일에 한 번 이상 쓴다고 했다."
               },
               {
                 "t": "p",
-                "x": "광고의 영향은 겉으로 드러나지 않는 경우가 많았다. 이런 출력 변화가 처방이나 환자 결정까지 바꿀 수 있는지는 따로 직접 연구해야 한다."
+                "x": "Doximity가 자사 U.S. 의사 3,300명 이상을 조사해 보니 임상 의사결정 지원에 AI를 쓰는 비율이 2025년 37%에서 63%로 두 배 가까이 뛰었다. 방대한 의학 문헌을 훑을 때 AI를 쓰는 의사도 지난해 조사의 절반 남짓에서 70%로 늘었다."
+              },
+              {
+                "t": "p",
+                "x": "의사 다수(81%)는 AI를 쓰다가 갱신된 가이드라인, 다른 진단 가능성, 치료 옵션처럼 몰랐던 것을 새로 알게 됐다고 답했다. 65%는 AI 도구 덕분에 임상 역량과 지식이 늘었다고 했다."
+              },
+              {
+                "t": "p",
+                "x": "하지만 61%는 수련의가 AI에 지나치게 기대다 스스로 임상 역량을 기르지 못할까 걱정했다. 절반 가까이는 AI 과의존을 우려했고 의사 네 명 중 세 명은 지난 한 해 AI를 업무에 쓰다 사실 오류를 한 번 이상 겪었다. AI 결과물을 고치거나 다시 확인하는 품이 한 해 전보다 줄었다는 응답도 사분의 일을 넘었다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "製薬広告が消費者向け\nAIの推奨を静かに誘導",
-          "body": "製薬広告を挿入するとLLMの治療選択は宣伝薬に傾いたが、指針との一致度は高いままだった。",
-          "mini_headline": "製薬広告がAIの推奨を左右",
+          "headline": "AIが医師の\n日常業務に定着",
+          "body": "Doximityの調査で、U.S.の医師3,300人超のうち63%が臨床判断にAIを使う。",
+          "mini_headline": "医師の日常になったAI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "製薬広告と消費者向け人工知能による薬剤推奨：対照研究 — Mahmud Omar, Reem Agbareia, Jolion McGreevy, Alexis Zebrowski, Ashwin Ramaswamy, Michael A Gorin, Esther-Maria Antao, Benjamin S Glicksberg, Ankit Sakhuja, Alexander W Charney, Eyal Klang, Girish N Nadkarni."
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/AM_NT-IV2s-WIQ0l-DhVMyXuf_4ShsdQj2epak14Zmo/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzYzMDY4MzEwLmpwZw==.webp",
+                "cap": "Getty Images"
               },
               {
                 "t": "p",
-                "x": "広告はLLMsによる治療選択を宣伝対象の薬剤へと傾けた。ガイドラインとの一致度は高いままであり、ガイドラインに沿った治療同士の間での移行は、治療の正しさを測る評価をすり抜けうることを意味する。"
+                "x": "Doximityが木曜日に公表した調査によると、医師のAI利用は事務作業を超え、医学文献の検索といった日常的な臨床意思決定支援へと広がっている。医師の半数以上がAIを毎日使い、さらに三分の一が少なくとも週に一度使っていると答えた。"
               },
               {
                 "t": "p",
-                "x": "広告の影響は多くの場合、開示されていなかった。こうした出力の変化が処方や患者の意思決定に影響しうるかどうかは、直接的な研究が必要である。"
+                "x": "同社のU.S.の医師3,300人以上を対象としたDoximityの調査では、臨床意思決定支援にAIを使う医師の割合が2025年の37%から63%へとほぼ倍増した。また、膨大な医学文献の精査にAIを使う医師も、昨年の調査の半数強から70%に増えた。"
+              },
+              {
+                "t": "p",
+                "x": "医師の大多数（81%）は、AIを使うことで更新されたガイドラインや別の診断、治療の選択肢など、以前は知らなかったことを学んだと答えた。さらに65%は、AIツールが臨床スキルと知識の向上に役立ったと答えた。"
+              },
+              {
+                "t": "p",
+                "x": "一方で61%は、研修医がAIに頼りすぎて自らの臨床スキルを身につけられないことを懸念している。半数近くがAIへの過度な依存を不安視し、医師の四人に三人は過去一年間に仕事でAIを使う中で事実誤認に少なくとも一度遭遇したと答えた。四分の一以上は、AIの出力を修正・再確認する手間が一年前より減ったと答えた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "药品广告悄然左右\n消费级AI的推荐",
-          "body": "植入的药品广告使LLM的治疗选择偏向推广药物，而指南符合度仍然很高。",
-          "mini_headline": "药品广告左右AI推荐",
+          "headline": "AI成为医生\n日常工作标配",
+          "body": "Doximity调查3,300多名U.S.医生，AI辅助临床决策比例几乎翻倍至63%。",
+          "mini_headline": "AI成医生日常工具",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "药品广告与面向消费者的人工智能的药物推荐：一项对照研究 — Mahmud Omar, Reem Agbareia, Jolion McGreevy, Alexis Zebrowski, Ashwin Ramaswamy, Michael A Gorin, Esther-Maria Antao, Benjamin S Glicksberg, Ankit Sakhuja, Alexander W Charney, Eyal Klang, Girish N Nadkarni."
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/AM_NT-IV2s-WIQ0l-DhVMyXuf_4ShsdQj2epak14Zmo/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzYzMDY4MzEwLmpwZw==.webp",
+                "cap": "Getty Images"
               },
               {
                 "t": "p",
-                "x": "广告使LLMs的治疗选择偏向被推广的药物。指南符合度仍然很高，这意味着在符合指南的治疗方案之间发生的偏移，可能逃过对治疗正确性的评估。"
+                "x": "据Doximity周四发布的一项调查，医生对AI的使用正从行政事务延伸到更日常的临床决策支持，例如检索医学文献。超过一半的医生表示每天使用AI，另有三分之一至少每周使用一次。"
               },
               {
                 "t": "p",
-                "x": "广告的影响往往未被披露。这些输出变化是否会影响处方或患者决策，还需要直接研究。"
+                "x": "这项Doximity调查覆盖该公司3,300多名U.S.医生，结果显示，用AI进行临床决策支持的医生比例几乎翻倍，从2025年的37%升至63%。此外，用AI梳理海量医学文献的医生也从去年调查中的略超一半增至70%。"
+              },
+              {
+                "t": "p",
+                "x": "大多数医生（81%）表示，使用AI让他们学到了以前不知道的东西，包括更新后的指南、其他诊断或治疗方案。另有65%表示，AI工具帮助他们提升了临床技能和知识。"
+              },
+              {
+                "t": "p",
+                "x": "但61%的医生担心受训医生会过度依赖AI，无法培养自己的临床技能。近一半的医生担心对AI过度依赖，四分之三的医生表示，过去一年在工作中使用AI时至少遇到过一次事实错误。超过四分之一的医生表示，与一年前相比，他们在纠正或复核AI输出上投入的精力有所减少。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Anuncios de fármacos orientan\nen silencio a la AI de consumo",
-          "body": "Anuncios farmacéuticos inyectados inclinaron al LLM hacia el fármaco promocionado, con alta concordancia con guías.",
-          "mini_headline": "Anuncios de fármacos guían a la AI",
+          "headline": "La AI se vuelve rutina diaria\nen el trabajo de los médicos",
+          "body": "Según Doximity, entre más de 3,300 médicos de U.S., el uso de AI para decisiones clínicas casi se duplicó al 63%.",
+          "mini_headline": "La AI ya es diaria para los médicos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Publicidad farmacéutica y recomendaciones de medicamentos por inteligencia artificial orientada al consumidor: un estudio controlado — Mahmud Omar, Reem Agbareia, Jolion McGreevy, Alexis Zebrowski, Ashwin Ramaswamy, Michael A Gorin, Esther-Maria Antao, Benjamin S Glicksberg, Ankit Sakhuja, Alexander W Charney, Eyal Klang, Girish N Nadkarni."
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/AM_NT-IV2s-WIQ0l-DhVMyXuf_4ShsdQj2epak14Zmo/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzYzMDY4MzEwLmpwZw==.webp",
+                "cap": "Getty Images"
               },
               {
                 "t": "p",
-                "x": "La publicidad desplazó la selección de tratamientos de los LLMs hacia el fármaco promocionado. La concordancia con las guías siguió siendo alta, lo que significa que los cambios entre tratamientos concordantes con las guías podrían escapar a las evaluaciones de la corrección del tratamiento."
+                "x": "El uso de AI por parte de los médicos va más allá de las tareas administrativas y se extiende a un apoyo más cotidiano a las decisiones clínicas, como la búsqueda en la literatura médica, según una encuesta publicada el jueves por Doximity. Más de la mitad de los médicos dijo que usa AI a diario y otro tercio la usa al menos una vez por semana."
               },
               {
                 "t": "p",
-                "x": "La influencia de la publicidad a menudo no se revelaba. Saber si estos cambios en las respuestas podrían afectar a la prescripción o a las decisiones de los pacientes requiere un estudio directo."
+                "x": "La encuesta de Doximity a más de 3,300 de sus médicos en U.S. muestra que la proporción de médicos que usan AI como apoyo a las decisiones clínicas casi se duplicó hasta el 63%, frente al 37% en 2025. Además, más médicos —el 70%, frente a algo más de la mitad en la encuesta del año pasado— usan AI para revisar grandes volúmenes de literatura médica."
+              },
+              {
+                "t": "p",
+                "x": "Una mayoría (81%) de los médicos dijo que usar AI les ha enseñado algo que antes no sabían, como guías actualizadas, diagnósticos alternativos u opciones de tratamiento. Otro 65% afirmó que las herramientas de AI les han ayudado a desarrollar sus habilidades y conocimientos clínicos."
+              },
+              {
+                "t": "p",
+                "x": "Pero el 61% teme que los residentes dependan demasiado de la AI y no desarrollen sus propias habilidades clínicas. Casi la mitad expresó preocupación por la dependencia excesiva de la AI, y tres de cada cuatro médicos dijeron haber encontrado al menos una inexactitud factual en el último año al usar AI en el trabajo. Más de una cuarta parte dijo que el esfuerzo que dedican a corregir o verificar los resultados de la AI ha disminuido respecto de hace un año."
               }
             ]
           }
@@ -145,89 +199,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "제약 광고가 소비자용\nAI 추천을 몰래 바꾼다",
-          "body": "제약 광고를 넣자 LLM 치료 추천이 광고 약에 쏠렸지만 지침 부합도는 높았다.",
-          "mini_headline": "제약 광고, AI 추천 좌우",
+          "headline": "AI, 이제 의사의\n일상 도구가 되다",
+          "body": "Doximity 조사, U.S. 의사 3,300+명의 63%가 진료에 AI를 쓴다.",
+          "mini_headline": "의사의 일상이 된 AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "제약 광고와 소비자용 인공지능의 약물 추천: 대조 연구 — Mahmud Omar, Reem Agbareia, Jolion McGreevy, Alexis Zebrowski, Ashwin Ramaswamy, Michael A Gorin, Esther-Maria Antao, Benjamin S Glicksberg, Ankit Sakhuja, Alexander W Charney, Eyal Klang, Girish N Nadkarni."
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/AM_NT-IV2s-WIQ0l-DhVMyXuf_4ShsdQj2epak14Zmo/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzYzMDY4MzEwLmpwZw==.webp",
+                "cap": "Getty Images"
               },
               {
                 "t": "p",
-                "x": "광고는 LLMs의 치료 선택을 광고 대상 약물 쪽으로 옮겼다. 지침 부합도는 여전히 높았는데, 이는 지침에 부합하는 치료들 사이의 이동이 치료 정확성 평가에서 드러나지 않을 수 있다는 뜻이다."
+                "x": "Doximity가 목요일 공개한 설문에 따르면, 의사들의 AI 활용은 행정 업무를 넘어 의학 문헌 검색 같은 일상적인 임상 의사결정 지원으로 넓어지고 있다. 의사의 절반 이상이 AI를 매일 쓴다고 답했고, 또 다른 삼분의 일은 일주일에 한 번 이상 쓴다고 답했다."
               },
               {
                 "t": "p",
-                "x": "광고의 영향은 흔히 드러나지 않았다. 이런 출력 변화가 처방이나 환자의 결정에 영향을 줄 수 있는지는 직접적인 연구가 필요하다."
+                "x": "Doximity가 자사의 U.S. 의사 3,300명 이상을 조사한 결과, 임상 의사결정 지원에 AI를 쓰는 의사 비율은 2025년 37%에서 63%로 두 배 가까이 늘었다. 방대한 의학 문헌을 훑는 데 AI를 쓰는 의사도 지난해 조사의 절반 남짓에서 70%로 많아졌다."
+              },
+              {
+                "t": "p",
+                "x": "의사 다수(81%)는 AI를 쓰면서 갱신된 가이드라인, 다른 진단 가능성, 치료 옵션 등 이전에 몰랐던 것을 배웠다고 답했다. 또 65%는 AI 도구가 임상 역량과 지식을 키우는 데 도움이 됐다고 했다."
+              },
+              {
+                "t": "p",
+                "x": "그러나 61%는 수련의가 AI에 지나치게 기대 스스로 임상 역량을 기르지 못할까 우려했다. 절반 가까이는 AI 과의존을 걱정했고, 의사 네 명 중 세 명은 지난 한 해 업무에 AI를 쓰다 사실 오류를 한 번 이상 겪었다고 답했다. 사분의 일 이상은 AI 결과물을 고치거나 다시 확인하는 데 들이는 노력이 한 해 전보다 줄었다고 했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "製薬広告が消費者向け\nAIの推奨を静かに誘導",
-          "body": "製薬広告を挿入するとLLMの治療選択は宣伝薬に傾いたが、指針との一致度は高いままだった。",
-          "mini_headline": "製薬広告がAIの推奨を左右",
+          "headline": "AIが医師の\n日常業務に定着",
+          "body": "Doximityの調査で、U.S.の医師3,300人超のうち63%が臨床判断にAIを使う。",
+          "mini_headline": "医師の日常になったAI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "製薬広告と消費者向け人工知能による薬剤推奨：対照研究 — Mahmud Omar, Reem Agbareia, Jolion McGreevy, Alexis Zebrowski, Ashwin Ramaswamy, Michael A Gorin, Esther-Maria Antao, Benjamin S Glicksberg, Ankit Sakhuja, Alexander W Charney, Eyal Klang, Girish N Nadkarni."
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/AM_NT-IV2s-WIQ0l-DhVMyXuf_4ShsdQj2epak14Zmo/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzYzMDY4MzEwLmpwZw==.webp",
+                "cap": "Getty Images"
               },
               {
                 "t": "p",
-                "x": "広告はLLMsによる治療選択を宣伝対象の薬剤へと傾けた。ガイドラインとの一致度は高いままであり、ガイドラインに沿った治療同士の間での移行は、治療の正しさを測る評価をすり抜けうることを意味する。"
+                "x": "Doximityが木曜日に公表した調査によると、医師のAI利用は事務作業を超え、医学文献の検索といった日常的な臨床意思決定支援へと広がっている。医師の半数以上がAIを毎日使い、さらに三分の一が少なくとも週に一度使っていると答えた。"
               },
               {
                 "t": "p",
-                "x": "広告の影響は多くの場合、開示されていなかった。こうした出力の変化が処方や患者の意思決定に影響しうるかどうかは、直接的な研究が必要である。"
+                "x": "同社のU.S.の医師3,300人以上を対象としたDoximityの調査では、臨床意思決定支援にAIを使う医師の割合が2025年の37%から63%へとほぼ倍増した。また、膨大な医学文献の精査にAIを使う医師も、昨年の調査の半数強から70%に増えた。"
+              },
+              {
+                "t": "p",
+                "x": "医師の大多数（81%）は、AIを使うことで更新されたガイドラインや別の診断、治療の選択肢など、以前は知らなかったことを学んだと答えた。さらに65%は、AIツールが臨床スキルと知識の向上に役立ったと答えた。"
+              },
+              {
+                "t": "p",
+                "x": "一方で61%は、研修医がAIに頼りすぎて自らの臨床スキルを身につけられないことを懸念している。半数近くがAIへの過度な依存を不安視し、医師の四人に三人は過去一年間に仕事でAIを使う中で事実誤認に少なくとも一度遭遇したと答えた。四分の一以上は、AIの出力を修正・再確認する手間が一年前より減ったと答えた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "药品广告悄然左右\n消费级AI的推荐",
-          "body": "植入的药品广告使LLM的治疗选择偏向推广药物，而指南符合度仍然很高。",
-          "mini_headline": "药品广告左右AI推荐",
+          "headline": "AI成为医生\n日常工作标配",
+          "body": "Doximity调查3,300多名U.S.医生，AI辅助临床决策比例几乎翻倍至63%。",
+          "mini_headline": "AI成医生日常工具",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "药品广告与面向消费者的人工智能的药物推荐：一项对照研究 — Mahmud Omar, Reem Agbareia, Jolion McGreevy, Alexis Zebrowski, Ashwin Ramaswamy, Michael A Gorin, Esther-Maria Antao, Benjamin S Glicksberg, Ankit Sakhuja, Alexander W Charney, Eyal Klang, Girish N Nadkarni."
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/AM_NT-IV2s-WIQ0l-DhVMyXuf_4ShsdQj2epak14Zmo/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzYzMDY4MzEwLmpwZw==.webp",
+                "cap": "Getty Images"
               },
               {
                 "t": "p",
-                "x": "广告使LLMs的治疗选择偏向被推广的药物。指南符合度仍然很高，这意味着在符合指南的治疗方案之间发生的偏移，可能逃过对治疗正确性的评估。"
+                "x": "据Doximity周四发布的一项调查，医生对AI的使用正从行政事务延伸到更日常的临床决策支持，例如检索医学文献。超过一半的医生表示每天使用AI，另有三分之一至少每周使用一次。"
               },
               {
                 "t": "p",
-                "x": "广告的影响往往未被披露。这些输出变化是否会影响处方或患者决策，还需要直接研究。"
+                "x": "这项Doximity调查覆盖该公司3,300多名U.S.医生，结果显示，用AI进行临床决策支持的医生比例几乎翻倍，从2025年的37%升至63%。此外，用AI梳理海量医学文献的医生也从去年调查中的略超一半增至70%。"
+              },
+              {
+                "t": "p",
+                "x": "大多数医生（81%）表示，使用AI让他们学到了以前不知道的东西，包括更新后的指南、其他诊断或治疗方案。另有65%表示，AI工具帮助他们提升了临床技能和知识。"
+              },
+              {
+                "t": "p",
+                "x": "但61%的医生担心受训医生会过度依赖AI，无法培养自己的临床技能。近一半的医生担心对AI过度依赖，四分之三的医生表示，过去一年在工作中使用AI时至少遇到过一次事实错误。超过四分之一的医生表示，与一年前相比，他们在纠正或复核AI输出上投入的精力有所减少。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Anuncios de fármacos orientan\nen silencio a la AI de consumo",
-          "body": "Anuncios farmacéuticos inyectados inclinaron al LLM hacia el fármaco promocionado, con alta concordancia con guías.",
-          "mini_headline": "Anuncios de fármacos guían a la AI",
+          "headline": "La AI se vuelve rutina diaria\nen el trabajo de los médicos",
+          "body": "Según Doximity, entre más de 3,300 médicos de U.S., el uso de AI para decisiones clínicas casi se duplicó al 63%.",
+          "mini_headline": "La AI ya es diaria para los médicos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Publicidad farmacéutica y recomendaciones de medicamentos por inteligencia artificial orientada al consumidor: un estudio controlado — Mahmud Omar, Reem Agbareia, Jolion McGreevy, Alexis Zebrowski, Ashwin Ramaswamy, Michael A Gorin, Esther-Maria Antao, Benjamin S Glicksberg, Ankit Sakhuja, Alexander W Charney, Eyal Klang, Girish N Nadkarni."
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/AM_NT-IV2s-WIQ0l-DhVMyXuf_4ShsdQj2epak14Zmo/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzYzMDY4MzEwLmpwZw==.webp",
+                "cap": "Getty Images"
               },
               {
                 "t": "p",
-                "x": "La publicidad desplazó la selección de tratamientos de los LLMs hacia el fármaco promocionado. La concordancia con las guías siguió siendo alta, lo que significa que los cambios entre tratamientos concordantes con las guías podrían escapar a las evaluaciones de la corrección del tratamiento."
+                "x": "El uso de AI por parte de los médicos va más allá de las tareas administrativas y se extiende a un apoyo más cotidiano a las decisiones clínicas, como la búsqueda en la literatura médica, según una encuesta publicada el jueves por Doximity. Más de la mitad de los médicos dijo que usa AI a diario y otro tercio la usa al menos una vez por semana."
               },
               {
                 "t": "p",
-                "x": "La influencia de la publicidad a menudo no se revelaba. Saber si estos cambios en las respuestas podrían afectar a la prescripción o a las decisiones de los pacientes requiere un estudio directo."
+                "x": "La encuesta de Doximity a más de 3,300 de sus médicos en U.S. muestra que la proporción de médicos que usan AI como apoyo a las decisiones clínicas casi se duplicó hasta el 63%, frente al 37% en 2025. Además, más médicos —el 70%, frente a algo más de la mitad en la encuesta del año pasado— usan AI para revisar grandes volúmenes de literatura médica."
+              },
+              {
+                "t": "p",
+                "x": "Una mayoría (81%) de los médicos dijo que usar AI les ha enseñado algo que antes no sabían, como guías actualizadas, diagnósticos alternativos u opciones de tratamiento. Otro 65% afirmó que las herramientas de AI les han ayudado a desarrollar sus habilidades y conocimientos clínicos."
+              },
+              {
+                "t": "p",
+                "x": "Pero el 61% teme que los residentes dependan demasiado de la AI y no desarrollen sus propias habilidades clínicas. Casi la mitad expresó preocupación por la dependencia excesiva de la AI, y tres de cada cuatro médicos dijeron haber encontrado al menos una inexactitud factual en el último año al usar AI en el trabajo. Más de una cuarta parte dijo que el esfuerzo que dedican a corregir o verificar los resultados de la AI ha disminuido respecto de hace un año."
               }
             ]
           }
@@ -235,15 +325,15 @@
       }
     },
     {
-      "id": "mdcalc-crosscover-launch",
+      "id": "medicare-wiser-ai-priorauth-docs",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "MDCalc, 임상 AI\n챗봇에 안전장치 달다",
-      "body": "MDCalc가 의료 AI 챗봇 답변을 믿고 쓰게 돕는 CrossCover를 내놨다.",
-      "mini_headline": "MDCalc, CrossCover 출시",
+      "headline": "새 문서, Medicare\nAI 사전승인 시범에 의문",
+      "body": "새 문서가 Medicare의 AI 사전승인 시범사업 WISeR에 의문을 키웠다.",
+      "mini_headline": "Medicare AI 사전승인에 의문",
       "tool": "Medicine",
       "source": "STAT",
-      "url": "https://www.statnews.com/2026/11/11/mdcalc-launches-crosscover-rumble-strip-for-clinical-ai-chatbots/",
+      "url": "https://www.statnews.com/2026/11/12/new-documents-raise-more-questions-about-medicares-ai-prior-authorization-experiment/",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
@@ -251,173 +341,131 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_1577391848-1024x576.jpeg"
+            "src": "https://www.statnews.com/wp-content/uploads/2026/05/AP26023803702193-1024x576.jpg",
+            "cap": "Emilie Megnien/AP"
           },
           {
             "t": "p",
-            "x": "새 도구는 임상의 질문에 개인정보가 섞였는지, 챗봇 답변이 정확한지 점검한다."
+            "x": "새로 나온 문서가 Medicare의 AI 사전승인 실험을 향한 의문을 키우고 있다. 이번 STAT Health Tech는 Oura의 AI 승부수, 임상 AI 챗봇에 필요한 '럼블 스트립(rumble strip)', Medicare AI 사전승인 실험을 둘러싼 의문을 짚는다."
           },
           {
             "t": "p",
-            "x": "의료 참고 도구 사이트 MDCalc는 수요일 CrossCover를 출시했다. 환자와 의료진의 개인정보를 지키면서 임상의가 의료 인공지능 챗봇 답변을 믿고 쓰게 돕는 도구라는 게 회사 설명이다."
-          },
-          {
-            "t": "p",
-            "x": "MDCalc의 AI 책임자 Graham Walker는 이 도구를 임상 생성형 AI의 가속 장치로 본다고 했다. 그는 “이 기술의 과제와 위험, 문제 일부를 덜어내 의사들이 더 자신 있게 쓸 수 있도록 할 수 있다”고 덧붙였다."
-          },
-          {
-            "t": "p",
-            "x": "CrossCover의 접근은 OpenEvidence, Abridge, 전자건강기록 기업 Epic의 의료 AI 도구와 정반대다. 이들 도구는 환자·의료진·지불자 정보를 갈수록 폭넓게 끌어와 추천에 반영하려 한다. MDCalc의 도구는 임상의에게 국가 식별번호 등록을 요구하거나 개인정보 협약을 중개하지 않는다. 대신 임상의 질의에서 그런 정보를 걷어내는 데 집중한다."
+            "x": "뉴스레터 전문은 STAT+ 구독자만 볼 수 있다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "MDCalc adds a rumble strip\nfor clinical AI chatbots",
-          "body": "MDCalc launched CrossCover, a tool meant to help clinicians trust the answers medical AI chatbots give them.",
-          "mini_headline": "MDCalc launches CrossCover",
+          "headline": "New documents question\nMedicare's AI prior-auth test",
+          "body": "Newly surfaced documents raise more questions about WISeR, Medicare's pilot using AI vendors for prior authorization.",
+          "mini_headline": "Medicare AI prior-auth questioned",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_1577391848-1024x576.jpeg"
+                "src": "https://www.statnews.com/wp-content/uploads/2026/05/AP26023803702193-1024x576.jpg",
+                "cap": "Emilie Megnien/AP"
               },
               {
                 "t": "p",
-                "x": "The new tool checks clinicians’ questions for privacy concerns and chatbots’ answers for accuracy."
+                "x": "New documents raise more questions about Medicare’s AI prior-authorization experiment. In this edition of STAT Health Tech: Oura's big bet on AI, a 'rumble strip' for clinical AI chatbots, and questions around Medicare’s AI prior-authorization experiment."
               },
               {
                 "t": "p",
-                "x": "MDCalc, a medical reference tool site, on Wednesday launched CrossCover, a tool the company said is meant to help clinicians trust the answers of medical artificial intelligence chatbots while preserving patient and provider privacy."
-              },
-              {
-                "t": "p",
-                "x": "Graham Walker, head of AI at MDCalc, said the company sees the tool as an accelerator for clinical generative AI. “We can take away some of the challenges and risks and problems with the technology so that physicians can feel more confident in using it,” he said."
-              },
-              {
-                "t": "p",
-                "x": "CrossCover takes an approach that contradicts that of medical AI tools from OpenEvidence, Abridge, and electronic health record company Epic, which are trying to incorporate an ever-widening repertoire of patient, provider, and payer information into their recommendations. Rather than requiring clinicians to register with their national identification numbers or brokering privacy agreements, MDCalc’s tool focuses on stripping out those types of information from clinicians’ queries."
+                "x": "The full newsletter is available to STAT+ subscribers."
               }
             ]
           }
         },
         "ko": {
-          "headline": "MDCalc, 임상 AI\n챗봇에 안전장치 달다",
-          "body": "MDCalc가 의료 AI 챗봇 답변을 믿고 쓰게 돕는 CrossCover를 내놨다.",
-          "mini_headline": "MDCalc, CrossCover 출시",
+          "headline": "새 문서, Medicare\nAI 사전승인 시범에 의문",
+          "body": "새 문서가 Medicare의 AI 사전승인 시범사업 WISeR에 의문을 키웠다.",
+          "mini_headline": "Medicare AI 사전승인에 의문",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_1577391848-1024x576.jpeg"
+                "src": "https://www.statnews.com/wp-content/uploads/2026/05/AP26023803702193-1024x576.jpg",
+                "cap": "Emilie Megnien/AP"
               },
               {
                 "t": "p",
-                "x": "새 도구는 임상의 질문에 개인정보가 섞였는지, 챗봇 답변이 정확한지 점검한다."
+                "x": "새로 나온 문서가 Medicare의 AI 사전승인 실험을 향한 의문을 키우고 있다. 이번 STAT Health Tech는 Oura의 AI 승부수, 임상 AI 챗봇에 필요한 '럼블 스트립(rumble strip)', Medicare AI 사전승인 실험을 둘러싼 의문을 짚는다."
               },
               {
                 "t": "p",
-                "x": "의료 참고 도구 사이트 MDCalc는 수요일 CrossCover를 출시했다. 환자와 의료진의 개인정보를 지키면서 임상의가 의료 인공지능 챗봇 답변을 믿고 쓰게 돕는 도구라는 게 회사 설명이다."
-              },
-              {
-                "t": "p",
-                "x": "MDCalc의 AI 책임자 Graham Walker는 이 도구를 임상 생성형 AI의 가속 장치로 본다고 했다. 그는 “이 기술의 과제와 위험, 문제 일부를 덜어내 의사들이 더 자신 있게 쓸 수 있도록 할 수 있다”고 덧붙였다."
-              },
-              {
-                "t": "p",
-                "x": "CrossCover의 접근은 OpenEvidence, Abridge, 전자건강기록 기업 Epic의 의료 AI 도구와 정반대다. 이들 도구는 환자·의료진·지불자 정보를 갈수록 폭넓게 끌어와 추천에 반영하려 한다. MDCalc의 도구는 임상의에게 국가 식별번호 등록을 요구하거나 개인정보 협약을 중개하지 않는다. 대신 임상의 질의에서 그런 정보를 걷어내는 데 집중한다."
+                "x": "뉴스레터 전문은 STAT+ 구독자만 볼 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "MDCalc、臨床AI\nチャットボットに歯止め",
-          "body": "MDCalcが医療AIチャットボットの回答の信頼性を高めるCrossCoverを公開した。",
-          "mini_headline": "MDCalcがCrossCoverを公開",
+          "headline": "新文書がMedicareの\nAI事前承認試験に疑問",
+          "body": "新たな文書で、AI業者を使うMedicareの事前承認試験WISeRに疑問が深まった。",
+          "mini_headline": "Medicare AI事前承認に疑問",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_1577391848-1024x576.jpeg"
+                "src": "https://www.statnews.com/wp-content/uploads/2026/05/AP26023803702193-1024x576.jpg",
+                "cap": "Emilie Megnien/AP"
               },
               {
                 "t": "p",
-                "x": "新ツールは、臨床医の質問にプライバシー上の懸念がないか、チャットボットの回答が正確かを確認する。"
+                "x": "新たな文書により、MedicareのAI事前承認実験をめぐる疑問がさらに深まっている。今回のSTAT Health Techでは、OuraのAIへの大きな賭け、臨床AIチャットボットのための「ランブルストリップ（rumble strip）」、そしてMedicareのAI事前承認実験をめぐる疑問を取り上げる。"
               },
               {
                 "t": "p",
-                "x": "医療参照ツールサイトのMDCalcは水曜日、CrossCoverを公開した。同社によると、患者と医療者のプライバシーを守りつつ、臨床医が医療用人工知能チャットボットの回答を信頼できるよう支援するためのツールだという。"
-              },
-              {
-                "t": "p",
-                "x": "MDCalcのAI責任者Graham Walkerは、同社はこのツールを臨床向け生成AIの加速装置と位置づけていると述べた。「この技術に伴う課題やリスク、問題の一部を取り除くことで、医師がより自信を持って使えるようにできる」と彼は語った。"
-              },
-              {
-                "t": "p",
-                "x": "CrossCoverの手法は、OpenEvidence、Abridge、電子カルテ企業Epicの医療AIツールとは相反する。これらは患者、医療者、支払者の情報をますます幅広く推奨に取り込もうとしている。MDCalcのツールは、臨床医に国の識別番号での登録を求めたりプライバシー契約を仲介したりする代わりに、臨床医の問い合わせからそうした情報を取り除くことに重点を置く。"
+                "x": "ニュースレターの全文はSTAT+購読者向けに公開されている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "MDCalc为临床AI\n聊天机器人加装护栏",
-          "body": "MDCalc推出CrossCover，帮助临床医生信任医疗AI聊天机器人给出的回答。",
-          "mini_headline": "MDCalc推出CrossCover",
+          "headline": "Medicare AI预授权\n试点遭新文件质疑",
+          "body": "新曝光的文件令Medicare借助AI供应商开展预先授权的试点WISeR再受质疑。",
+          "mini_headline": "Medicare AI预授权受质疑",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_1577391848-1024x576.jpeg"
+                "src": "https://www.statnews.com/wp-content/uploads/2026/05/AP26023803702193-1024x576.jpg",
+                "cap": "Emilie Megnien/AP"
               },
               {
                 "t": "p",
-                "x": "这款新工具会检查临床医生的提问是否涉及隐私问题，并核查聊天机器人回答的准确性。"
+                "x": "新文件让Medicare的AI预先授权实验面临更多质疑。本期STAT Health Tech内容：Oura在AI上的大赌注、为临床AI聊天机器人设置的“减速带”（rumble strip），以及围绕Medicare AI预先授权实验的疑问。"
               },
               {
                 "t": "p",
-                "x": "医学参考工具网站MDCalc于周三推出CrossCover。该公司表示，这款工具旨在帮助临床医生信任医疗人工智能聊天机器人的回答，同时保护患者和医疗服务提供者的隐私。"
-              },
-              {
-                "t": "p",
-                "x": "MDCalc的AI负责人Graham Walker表示，公司将这款工具视为临床生成式AI的加速器。他说：“我们可以消除这项技术的一些挑战、风险和问题，让医生能更有信心地使用它。”"
-              },
-              {
-                "t": "p",
-                "x": "CrossCover采取的路径与OpenEvidence、Abridge以及电子健康记录公司Epic的医疗AI工具相反，后者正试图将范围不断扩大的患者、医疗服务提供者和支付方信息纳入其推荐。MDCalc的工具既不要求临床医生用国家识别号注册，也不居间达成隐私协议，而是专注于从临床医生的查询中剔除这类信息。"
+                "x": "完整版通讯仅向STAT+订阅用户开放。"
               }
             ]
           }
         },
         "es": {
-          "headline": "MDCalc pone una banda de alerta\na los chatbots clínicos de AI",
-          "body": "MDCalc lanzó CrossCover, una herramienta para que los clínicos confíen en las respuestas de chatbots médicos de AI.",
-          "mini_headline": "MDCalc lanza CrossCover",
+          "headline": "Nuevos documentos cuestionan\nla prueba de AI de Medicare",
+          "body": "Nuevos documentos suman dudas sobre WISeR, el piloto de Medicare que usa proveedores de AI para autorizaciones previas.",
+          "mini_headline": "Dudas sobre la AI de Medicare",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_1577391848-1024x576.jpeg"
+                "src": "https://www.statnews.com/wp-content/uploads/2026/05/AP26023803702193-1024x576.jpg",
+                "cap": "Emilie Megnien/AP"
               },
               {
                 "t": "p",
-                "x": "La nueva herramienta revisa las preguntas de los clínicos en busca de problemas de privacidad y las respuestas de los chatbots en cuanto a su exactitud."
+                "x": "Nuevos documentos plantean más dudas sobre el experimento de autorización previa con AI de Medicare. En esta edición de STAT Health Tech: la gran apuesta de Oura por la AI, una 'rumble strip' para los chatbots clínicos de AI y las dudas sobre el experimento de autorización previa con AI de Medicare."
               },
               {
                 "t": "p",
-                "x": "MDCalc, un sitio de herramientas de referencia médica, lanzó el miércoles CrossCover, una herramienta que, según la empresa, busca ayudar a los clínicos a confiar en las respuestas de los chatbots médicos de inteligencia artificial, preservando la privacidad de pacientes y profesionales."
-              },
-              {
-                "t": "p",
-                "x": "Graham Walker, responsable de AI en MDCalc, dijo que la empresa ve la herramienta como un acelerador de la AI generativa clínica. “Podemos eliminar algunos de los desafíos, riesgos y problemas de la tecnología para que los médicos se sientan más seguros al usarla”, afirmó."
-              },
-              {
-                "t": "p",
-                "x": "CrossCover adopta un enfoque opuesto al de las herramientas médicas de AI de OpenEvidence, Abridge y la empresa de historias clínicas electrónicas Epic, que intentan incorporar a sus recomendaciones un repertorio cada vez más amplio de información de pacientes, profesionales y pagadores. En lugar de exigir a los clínicos que se registren con su número de identificación nacional o de negociar acuerdos de privacidad, la herramienta de MDCalc se centra en eliminar ese tipo de información de las consultas de los clínicos."
+                "x": "El boletín completo está disponible para los suscriptores de STAT+."
               }
             ]
           }
@@ -425,121 +473,93 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "MDCalc, 임상 AI\n챗봇에 안전장치 달다",
-          "body": "MDCalc가 의료 AI 챗봇 답변을 믿고 쓰게 돕는 CrossCover를 냈다.",
-          "mini_headline": "MDCalc, CrossCover 출시",
+          "headline": "새 문서, Medicare\nAI 사전승인 시범에 의문",
+          "body": "새 문서로 Medicare의 AI 사전승인 시범사업 WISeR에 의문이 커졌다.",
+          "mini_headline": "Medicare AI 사전승인에 의문",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_1577391848-1024x576.jpeg"
+                "src": "https://www.statnews.com/wp-content/uploads/2026/05/AP26023803702193-1024x576.jpg",
+                "cap": "Emilie Megnien/AP"
               },
               {
                 "t": "p",
-                "x": "새 도구는 임상의의 질문에서 개인정보 문제를, 챗봇의 답변에서 정확성을 점검한다."
+                "x": "새 문서가 Medicare의 AI 사전승인 실험을 둘러싼 의문을 키우고 있다. 이번 STAT Health Tech에서는 Oura의 AI 승부수, 임상 AI 챗봇을 위한 '럼블 스트립(rumble strip)', Medicare의 AI 사전승인 실험을 둘러싼 의문을 다룬다."
               },
               {
                 "t": "p",
-                "x": "의료 참고 도구 사이트 MDCalc는 수요일 CrossCover를 출시했다. 회사는 이 도구가 환자와 의료진의 개인정보를 지키면서 임상의가 의료 인공지능 챗봇의 답변을 신뢰하도록 돕기 위한 것이라고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "MDCalc의 AI 책임자 Graham Walker는 회사가 이 도구를 임상 생성형 AI의 가속 장치로 본다고 말했다. 그는 “이 기술의 과제와 위험, 문제 일부를 덜어내 의사들이 더 자신 있게 쓸 수 있도록 할 수 있다”고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "CrossCover는 OpenEvidence, Abridge, 전자건강기록 기업 Epic의 의료 AI 도구와 정반대의 접근을 택한다. 이들 도구는 갈수록 폭넓은 환자·의료진·지불자 정보를 추천에 반영하려 한다. MDCalc의 도구는 임상의에게 국가 식별번호 등록을 요구하거나 개인정보 협약을 중개하는 대신, 임상의의 질의에서 그런 정보를 걷어내는 데 집중한다."
+                "x": "STAT+ 구독자는 뉴스레터 전문을 볼 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "MDCalc、臨床AI\nチャットボットに歯止め",
-          "body": "MDCalcが医療AIチャットボットの回答の信頼性を高めるCrossCoverを公開した。",
-          "mini_headline": "MDCalcがCrossCoverを公開",
+          "headline": "新文書がMedicareの\nAI事前承認試験に疑問",
+          "body": "新たな文書で、AI業者を使うMedicareの事前承認試験WISeRに疑問が深まった。",
+          "mini_headline": "Medicare AI事前承認に疑問",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_1577391848-1024x576.jpeg"
+                "src": "https://www.statnews.com/wp-content/uploads/2026/05/AP26023803702193-1024x576.jpg",
+                "cap": "Emilie Megnien/AP"
               },
               {
                 "t": "p",
-                "x": "新ツールは、臨床医の質問にプライバシー上の懸念がないか、チャットボットの回答が正確かを確認する。"
+                "x": "新たな文書により、MedicareのAI事前承認実験をめぐる疑問がさらに深まっている。今回のSTAT Health Techでは、OuraのAIへの大きな賭け、臨床AIチャットボットのための「ランブルストリップ（rumble strip）」、そしてMedicareのAI事前承認実験をめぐる疑問を取り上げる。"
               },
               {
                 "t": "p",
-                "x": "医療参照ツールサイトのMDCalcは水曜日、CrossCoverを公開した。同社によると、患者と医療者のプライバシーを守りつつ、臨床医が医療用人工知能チャットボットの回答を信頼できるよう支援するためのツールだという。"
-              },
-              {
-                "t": "p",
-                "x": "MDCalcのAI責任者Graham Walkerは、同社はこのツールを臨床向け生成AIの加速装置と位置づけていると述べた。「この技術に伴う課題やリスク、問題の一部を取り除くことで、医師がより自信を持って使えるようにできる」と彼は語った。"
-              },
-              {
-                "t": "p",
-                "x": "CrossCoverの手法は、OpenEvidence、Abridge、電子カルテ企業Epicの医療AIツールとは相反する。これらは患者、医療者、支払者の情報をますます幅広く推奨に取り込もうとしている。MDCalcのツールは、臨床医に国の識別番号での登録を求めたりプライバシー契約を仲介したりする代わりに、臨床医の問い合わせからそうした情報を取り除くことに重点を置く。"
+                "x": "ニュースレターの全文はSTAT+購読者向けに公開されている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "MDCalc为临床AI\n聊天机器人加装护栏",
-          "body": "MDCalc推出CrossCover，帮助临床医生信任医疗AI聊天机器人给出的回答。",
-          "mini_headline": "MDCalc推出CrossCover",
+          "headline": "Medicare AI预授权\n试点遭新文件质疑",
+          "body": "新曝光的文件令Medicare借助AI供应商开展预先授权的试点WISeR再受质疑。",
+          "mini_headline": "Medicare AI预授权受质疑",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_1577391848-1024x576.jpeg"
+                "src": "https://www.statnews.com/wp-content/uploads/2026/05/AP26023803702193-1024x576.jpg",
+                "cap": "Emilie Megnien/AP"
               },
               {
                 "t": "p",
-                "x": "这款新工具会检查临床医生的提问是否涉及隐私问题，并核查聊天机器人回答的准确性。"
+                "x": "新文件让Medicare的AI预先授权实验面临更多质疑。本期STAT Health Tech内容：Oura在AI上的大赌注、为临床AI聊天机器人设置的“减速带”（rumble strip），以及围绕Medicare AI预先授权实验的疑问。"
               },
               {
                 "t": "p",
-                "x": "医学参考工具网站MDCalc于周三推出CrossCover。该公司表示，这款工具旨在帮助临床医生信任医疗人工智能聊天机器人的回答，同时保护患者和医疗服务提供者的隐私。"
-              },
-              {
-                "t": "p",
-                "x": "MDCalc的AI负责人Graham Walker表示，公司将这款工具视为临床生成式AI的加速器。他说：“我们可以消除这项技术的一些挑战、风险和问题，让医生能更有信心地使用它。”"
-              },
-              {
-                "t": "p",
-                "x": "CrossCover采取的路径与OpenEvidence、Abridge以及电子健康记录公司Epic的医疗AI工具相反，后者正试图将范围不断扩大的患者、医疗服务提供者和支付方信息纳入其推荐。MDCalc的工具既不要求临床医生用国家识别号注册，也不居间达成隐私协议，而是专注于从临床医生的查询中剔除这类信息。"
+                "x": "完整版通讯仅向STAT+订阅用户开放。"
               }
             ]
           }
         },
         "es": {
-          "headline": "MDCalc pone una banda de alerta\na los chatbots clínicos de AI",
-          "body": "MDCalc lanzó CrossCover, una herramienta para que los clínicos confíen en las respuestas de chatbots médicos de AI.",
-          "mini_headline": "MDCalc lanza CrossCover",
+          "headline": "Nuevos documentos cuestionan\nla prueba de AI de Medicare",
+          "body": "Nuevos documentos suman dudas sobre WISeR, el piloto de Medicare que usa proveedores de AI para autorizaciones previas.",
+          "mini_headline": "Dudas sobre la AI de Medicare",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_1577391848-1024x576.jpeg"
+                "src": "https://www.statnews.com/wp-content/uploads/2026/05/AP26023803702193-1024x576.jpg",
+                "cap": "Emilie Megnien/AP"
               },
               {
                 "t": "p",
-                "x": "La nueva herramienta revisa las preguntas de los clínicos en busca de problemas de privacidad y las respuestas de los chatbots en cuanto a su exactitud."
+                "x": "Nuevos documentos plantean más dudas sobre el experimento de autorización previa con AI de Medicare. En esta edición de STAT Health Tech: la gran apuesta de Oura por la AI, una 'rumble strip' para los chatbots clínicos de AI y las dudas sobre el experimento de autorización previa con AI de Medicare."
               },
               {
                 "t": "p",
-                "x": "MDCalc, un sitio de herramientas de referencia médica, lanzó el miércoles CrossCover, una herramienta que, según la empresa, busca ayudar a los clínicos a confiar en las respuestas de los chatbots médicos de inteligencia artificial, preservando la privacidad de pacientes y profesionales."
-              },
-              {
-                "t": "p",
-                "x": "Graham Walker, responsable de AI en MDCalc, dijo que la empresa ve la herramienta como un acelerador de la AI generativa clínica. “Podemos eliminar algunos de los desafíos, riesgos y problemas de la tecnología para que los médicos se sientan más seguros al usarla”, afirmó."
-              },
-              {
-                "t": "p",
-                "x": "CrossCover adopta un enfoque opuesto al de las herramientas médicas de AI de OpenEvidence, Abridge y la empresa de historias clínicas electrónicas Epic, que intentan incorporar a sus recomendaciones un repertorio cada vez más amplio de información de pacientes, profesionales y pagadores. En lugar de exigir a los clínicos que se registren con su número de identificación nacional o de negociar acuerdos de privacidad, la herramienta de MDCalc se centra en eliminar ese tipo de información de las consultas de los clínicos."
+                "x": "El boletín completo está disponible para los suscriptores de STAT+."
               }
             ]
           }
@@ -547,15 +567,257 @@
       }
     },
     {
-      "id": "nejm-ai-aura-ana-triage",
+      "id": "fda-cms-states-healthai-oversight",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "류마티스 의뢰에 AI,\n무작위 시험으로 검증",
-      "body": "해석 가능한 모델 AURA가 무작위 평가에서 ANA 양성자 중 의뢰 대상을 골랐다.",
-      "mini_headline": "ANA 의뢰, AI가 분류",
+      "headline": "FDA·CMS, 보건 AI\n감독에 주와 손잡나",
+      "body": "STAT Health Tech: FDA·CMS가 주와 손잡고 AI를 규제하려 한다.",
+      "mini_headline": "FDA·CMS, 주와 AI 협력",
       "tool": "Medicine",
-      "source": "NEJM AI",
-      "url": "https://ai.nejm.org/doi/full/10.1056/AIoa2600112",
+      "source": "STAT",
+      "url": "https://www.statnews.com/2026/11/03/fda-cms-collaborate-with-states-on-ai-heath-tech/",
+      "accent": "#7928ca",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://www.statnews.com/wp-content/uploads/2025/07/AdobeStock_971648927_Editorial_Use_Only-1024x576.jpeg",
+            "cap": "Adobe"
+          },
+          {
+            "t": "p",
+            "x": "FDA와 CMS가 보건 AI 문제로 주와 손잡으려 한다. 이번 STAT Health Tech 뉴스레터는 AI 규제에서 주와 협력하려는 연방 당국자들, AI 책임 문제에서 의사를 보호하는 문제 등을 다룬다."
+          },
+          {
+            "t": "p",
+            "x": "뉴스레터 전문은 STAT+ 구독자만 볼 수 있다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "FDA and CMS look to states\non health AI oversight",
+          "body": "FDA and CMS officials want to work with states on regulating health AI, according to STAT's Health Tech newsletter.",
+          "mini_headline": "FDA, CMS eye states on AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.statnews.com/wp-content/uploads/2025/07/AdobeStock_971648927_Editorial_Use_Only-1024x576.jpeg",
+                "cap": "Adobe"
+              },
+              {
+                "t": "p",
+                "x": "FDA, CMS look to collaborate with states on health AI. In this edition of STAT's Health Tech newsletter: Federal officials look to work with states on regulating AI, protecting doctors from AI liability, and more."
+              },
+              {
+                "t": "p",
+                "x": "The full newsletter is available to STAT+ subscribers."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "FDA·CMS, 보건 AI\n감독에 주와 손잡나",
+          "body": "STAT Health Tech: FDA·CMS가 주와 손잡고 AI를 규제하려 한다.",
+          "mini_headline": "FDA·CMS, 주와 AI 협력",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.statnews.com/wp-content/uploads/2025/07/AdobeStock_971648927_Editorial_Use_Only-1024x576.jpeg",
+                "cap": "Adobe"
+              },
+              {
+                "t": "p",
+                "x": "FDA와 CMS가 보건 AI 문제로 주와 손잡으려 한다. 이번 STAT Health Tech 뉴스레터는 AI 규제에서 주와 협력하려는 연방 당국자들, AI 책임 문제에서 의사를 보호하는 문제 등을 다룬다."
+              },
+              {
+                "t": "p",
+                "x": "뉴스레터 전문은 STAT+ 구독자만 볼 수 있다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "FDAとCMS、医療AI\n監督で州と連携へ",
+          "body": "STAT Health Techによると、FDAとCMSは医療AI規制で州と連携を図る。",
+          "mini_headline": "FDA・CMS、AIで州と連携",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.statnews.com/wp-content/uploads/2025/07/AdobeStock_971648927_Editorial_Use_Only-1024x576.jpeg",
+                "cap": "Adobe"
+              },
+              {
+                "t": "p",
+                "x": "FDAとCMSが医療AIをめぐり州との連携を模索している。今回のSTAT Health Techニュースレターでは、AI規制で州との協力を目指す連邦当局者、AIをめぐる法的責任から医師を守る取り組みなどを取り上げる。"
+              },
+              {
+                "t": "p",
+                "x": "ニュースレターの全文はSTAT+購読者向けに公開されている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "FDA和CMS寻求与各州\n共同监管医疗AI",
+          "body": "据STAT Health Tech通讯，FDA和CMS官员希望与各州合作监管医疗AI。",
+          "mini_headline": "FDA、CMS携手各州管AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.statnews.com/wp-content/uploads/2025/07/AdobeStock_971648927_Editorial_Use_Only-1024x576.jpeg",
+                "cap": "Adobe"
+              },
+              {
+                "t": "p",
+                "x": "FDA与CMS寻求与各州在医疗AI方面合作。本期STAT Health Tech通讯内容：联邦官员寻求与各州合作监管AI、保护医生免于AI相关责任等。"
+              },
+              {
+                "t": "p",
+                "x": "完整版通讯仅向STAT+订阅用户开放。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "FDA y CMS miran a los estados\npara supervisar la AI sanitaria",
+          "body": "Funcionarios de la FDA y CMS quieren colaborar con los estados para regular la AI sanitaria, según STAT Health Tech.",
+          "mini_headline": "FDA y CMS miran a los estados por la AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.statnews.com/wp-content/uploads/2025/07/AdobeStock_971648927_Editorial_Use_Only-1024x576.jpeg",
+                "cap": "Adobe"
+              },
+              {
+                "t": "p",
+                "x": "La FDA y los CMS buscan colaborar con los estados en materia de AI sanitaria. En esta edición del boletín Health Tech de STAT: funcionarios federales buscan trabajar con los estados en la regulación de la AI, la protección de los médicos frente a la responsabilidad por AI, y más."
+              },
+              {
+                "t": "p",
+                "x": "El boletín completo está disponible para los suscriptores de STAT+."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "FDA·CMS, 보건 AI\n감독에 주와 협력 모색",
+          "body": "STAT Health Tech: FDA·CMS가 주와 AI 규제 협력을 원한다.",
+          "mini_headline": "FDA·CMS, 주와 AI 협력",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.statnews.com/wp-content/uploads/2025/07/AdobeStock_971648927_Editorial_Use_Only-1024x576.jpeg",
+                "cap": "Adobe"
+              },
+              {
+                "t": "p",
+                "x": "FDA와 CMS가 보건 AI를 두고 주와 협력하려 한다. 이번 STAT Health Tech 뉴스레터에서는 AI 규제를 위해 주와 손잡으려는 연방 당국자들, AI 책임에서 의사를 보호하는 문제 등을 다룬다."
+              },
+              {
+                "t": "p",
+                "x": "STAT+ 구독자는 뉴스레터 전문을 볼 수 있다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "FDAとCMS、医療AI\n監督で州と連携へ",
+          "body": "STAT Health Techによると、FDAとCMSは医療AI規制で州と連携を図る。",
+          "mini_headline": "FDA・CMS、AIで州と連携",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.statnews.com/wp-content/uploads/2025/07/AdobeStock_971648927_Editorial_Use_Only-1024x576.jpeg",
+                "cap": "Adobe"
+              },
+              {
+                "t": "p",
+                "x": "FDAとCMSが医療AIをめぐり州との連携を模索している。今回のSTAT Health Techニュースレターでは、AI規制で州との協力を目指す連邦当局者、AIをめぐる法的責任から医師を守る取り組みなどを取り上げる。"
+              },
+              {
+                "t": "p",
+                "x": "ニュースレターの全文はSTAT+購読者向けに公開されている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "FDA和CMS寻求与各州\n共同监管医疗AI",
+          "body": "据STAT Health Tech通讯，FDA和CMS官员希望与各州合作监管医疗AI。",
+          "mini_headline": "FDA、CMS携手各州管AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.statnews.com/wp-content/uploads/2025/07/AdobeStock_971648927_Editorial_Use_Only-1024x576.jpeg",
+                "cap": "Adobe"
+              },
+              {
+                "t": "p",
+                "x": "FDA与CMS寻求与各州在医疗AI方面合作。本期STAT Health Tech通讯内容：联邦官员寻求与各州合作监管AI、保护医生免于AI相关责任等。"
+              },
+              {
+                "t": "p",
+                "x": "完整版通讯仅向STAT+订阅用户开放。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "FDA y CMS miran a los estados\npara supervisar la AI sanitaria",
+          "body": "Funcionarios de la FDA y CMS quieren colaborar con los estados para regular la AI sanitaria, según STAT Health Tech.",
+          "mini_headline": "FDA y CMS miran a los estados por la AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.statnews.com/wp-content/uploads/2025/07/AdobeStock_971648927_Editorial_Use_Only-1024x576.jpeg",
+                "cap": "Adobe"
+              },
+              {
+                "t": "p",
+                "x": "La FDA y los CMS buscan colaborar con los estados en materia de AI sanitaria. En esta edición del boletín Health Tech de STAT: funcionarios federales buscan trabajar con los estados en la regulación de la AI, la protección de los médicos frente a la responsabilidad por AI, y más."
+              },
+              {
+                "t": "p",
+                "x": "El boletín completo está disponible para los suscriptores de STAT+."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "jama-ai-interventional-trials-ctgov",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "중재 임상시험 속\nAI 활용 지도",
+      "body": "2022년 이후 ClinicalTrials.gov 시험 속 AI 활용을 분석했다.",
+      "mini_headline": "임상시험 속 AI 지도",
+      "tool": "Medicine",
+      "source": "JAMA Network Open",
+      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/10.1001/jamanetworkopen.2026.42797",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
@@ -563,173 +825,179 @@
         "blocks": [
           {
             "t": "p",
-            "x": "항핵항체(ANA) 검사 양성자 가운데 누구를 류마티스 진료로 의뢰할지 정하는 근거 기반 지침은 없다. 연구진은 해석 가능한 임상 예측 모델 AURA(AUtoimmune Risk Assessment)를 개발해 배치했다. 새로 ANA 양성 판정을 받은 사람 중 누가 전신 자가면역질환으로 진행할지 예측하는 모델로, 2년간 무작위 실용 연구로 평가했다."
+            "x": "이 횡단 연구는 2022년부터 진행된 임상시험에서 인공지능(AI)이 어떻게 쓰였는지 살폈다. 분석 대상은 ClinicalTrials.gov에 등록되고 2022년 첫 달 이후 시작된 중재 시험이었고, 연구진은 AI 활용이 어떻게 계획되고 기술되는지 정리했다."
+          },
+          {
+            "t": "p",
+            "x": "검색된 기록 8559건 가운데 최종 코호트에 든 중재 시험은 1212건이었다. 대규모 언어 모델을 포함한 생성형 AI를 쓰겠다는 계획은 2022년 시작 시험에서는 한 건도 없었지만 2025년 시작 시험에서는 491건 중 100건(20.4%)으로 크게 늘었다. 환자 추적 관찰이나 건강 교육 등에 AI 에이전트를 쓰려는 시험도 여덟 건 있었다."
           },
           {
             "t": "img",
-            "src": "https://ai.nejm.org/cms/asset/fee9f883-230a-4ffb-a1e4-37ec9187c4b8/aioa2600112_f1.jpg"
+            "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/df47/13749202/7f04ceea0423/jamanetwopen-e2642797-g001.webp",
+            "cap": "포함된 시험의 특성을 보여 주는 막대그래프"
           },
           {
             "t": "p",
-            "x": "모델은 한 학술 의료 시스템의 전자건강기록에 들어갔다. ANA-positive(ANA 양성) 대상자는 1:1로 무작위 배정했다. 중재군에서는 고위험 점수가 나온 사람에게 류마티스 진료를 서둘러 받도록 권했고 대조군에서는 위험 점수를 계산만 하고 따로 조치하지 않았다."
+            "x": "임상 질환으로는 암(20.0%), 신경·정신 건강(19.6%), 심혈관·대사 질환(18.6%)이 가장 흔했다. AI는 질병 위험이나 치료 선택을 가늠하는 선별·예측 모델링에 가장 많이 쓰였다(39.8%). 국가별로는 미국이 303건(25.0%), 중국이 149건(12.3%)이었다."
           },
           {
             "t": "p",
-            "x": "무작위 배정된 2385명 가운데 분석 대상은 중재군 954명, 대조군 1006명이었다. 중재군은 자가면역질환 진단까지 걸린 시간이 유의하게 짧았다(위험비 1.9; 95% CI, 1.3~2.7; P<0.001). 진단까지 걸린 기간의 중앙값은 43일 대 138일이었다."
-          },
-          {
-            "t": "p",
-            "x": "6개월 안에 류마티스 진료를 받은 사람 가운데 자가면역질환 진단을 받은 비율은 중재군 23%, 대조군 16%였다(P=0.07)."
+            "x": "ClinicalTrials.gov에는 AI 관련 구조화 항목도, 보고 요건도 없어 방법론 세부 정보가 빠진 경우가 많았다. 연구진은 AI 보고 표준에 맞춘 구조화 등록 항목을 두면 투명성이 높아질 것이라고 밝혔다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Randomized trial puts AI\non rheumatology referrals",
-          "body": "An interpretable model, AURA, was deployed in a randomized evaluation to triage positive ANA tests for referral.",
-          "mini_headline": "AI triage for ANA referrals",
+          "headline": "Mapping AI use in registered\ninterventional trials",
+          "body": "A cross-sectional study maps how AI is used in interventional trials registered on ClinicalTrials.gov since 2022.",
+          "mini_headline": "AI in clinical trials, mapped",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "No evidence-based guidance exists for triaging individuals with positive antinuclear antibody (ANA) tests for rheumatology referral. The researchers developed and deployed an interpretable clinical prediction model, AURA (AUtoimmune Risk Assessment), to predict which individuals with incident positive ANA tests will develop systemic autoimmune disease, and evaluated it in a 2-year randomized pragmatic study."
+                "x": "This cross-sectional study examines the use of artificial intelligence (AI) in clinical trials conducted starting in 2022. Researchers analyzed interventional trials registered on ClinicalTrials.gov, with start dates from January 2022 onward, to characterize how AI use is planned and described."
+              },
+              {
+                "t": "p",
+                "x": "Of 8559 records returned by the search, the final cohort comprised 1212 interventional trials. Planned generative AI use, including large language models, rose sharply, from no trials starting in 2022 to 100 of 491 (20.4%) of those starting in 2025. Eight trials planned for use of AI agents for patient follow-up or health education delivery, among other purposes."
               },
               {
                 "t": "img",
-                "src": "https://ai.nejm.org/cms/asset/fee9f883-230a-4ffb-a1e4-37ec9187c4b8/aioa2600112_f1.jpg"
+                "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/df47/13749202/7f04ceea0423/jamanetwopen-e2642797-g001.webp",
+                "cap": "Bar Graphs of Characteristics of Included Trials"
               },
               {
                 "t": "p",
-                "x": "The model was integrated into the electronic health record at a single academic health system. ANA-positive individuals were randomly assigned 1:1; in the intervention group, those with high-risk scores were invited for expedited rheumatology evaluation, while in the control group risk scores were calculated but not acted on."
+                "x": "The most common clinical conditions were cancer (20.0%), neurological and mental health (19.6%), and cardiovascular and metabolic disease (18.6%). AI was most often used for screening and predictive modeling of disease risk or treatment selection (39.8%). The United States accounted for 303 trials (25.0%) and China for 149 (12.3%)."
               },
               {
                 "t": "p",
-                "x": "Of 2385 randomly assigned individuals, 954 were analyzed in the intervention group and 1006 in the control group. The intervention group had a significantly shorter time to autoimmune disease diagnosis (hazard ratio, 1.9; 95% CI, 1.3 to 2.7; P<0.001); median time to diagnosis was 43 days versus 138 days."
-              },
-              {
-                "t": "p",
-                "x": "Among those evaluated by rheumatology within 6 months, 23% in the intervention group and 16% in the control group were diagnosed with an autoimmune disease (P=0.07)."
+                "x": "Because ClinicalTrials.gov has no structured AI fields or reporting requirements, method details were often absent; the authors say structured registry fields aligned with AI reporting standards would improve transparency."
               }
             ]
           }
         },
         "ko": {
-          "headline": "류마티스 의뢰에 AI,\n무작위 시험으로 검증",
-          "body": "해석 가능한 모델 AURA가 무작위 평가에서 ANA 양성자 중 의뢰 대상을 골랐다.",
-          "mini_headline": "ANA 의뢰, AI가 분류",
+          "headline": "중재 임상시험 속\nAI 활용 지도",
+          "body": "2022년 이후 ClinicalTrials.gov 시험 속 AI 활용을 분석했다.",
+          "mini_headline": "임상시험 속 AI 지도",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "항핵항체(ANA) 검사 양성자 가운데 누구를 류마티스 진료로 의뢰할지 정하는 근거 기반 지침은 없다. 연구진은 해석 가능한 임상 예측 모델 AURA(AUtoimmune Risk Assessment)를 개발해 배치했다. 새로 ANA 양성 판정을 받은 사람 중 누가 전신 자가면역질환으로 진행할지 예측하는 모델로, 2년간 무작위 실용 연구로 평가했다."
+                "x": "이 횡단 연구는 2022년부터 진행된 임상시험에서 인공지능(AI)이 어떻게 쓰였는지 살폈다. 분석 대상은 ClinicalTrials.gov에 등록되고 2022년 첫 달 이후 시작된 중재 시험이었고, 연구진은 AI 활용이 어떻게 계획되고 기술되는지 정리했다."
+              },
+              {
+                "t": "p",
+                "x": "검색된 기록 8559건 가운데 최종 코호트에 든 중재 시험은 1212건이었다. 대규모 언어 모델을 포함한 생성형 AI를 쓰겠다는 계획은 2022년 시작 시험에서는 한 건도 없었지만 2025년 시작 시험에서는 491건 중 100건(20.4%)으로 크게 늘었다. 환자 추적 관찰이나 건강 교육 등에 AI 에이전트를 쓰려는 시험도 여덟 건 있었다."
               },
               {
                 "t": "img",
-                "src": "https://ai.nejm.org/cms/asset/fee9f883-230a-4ffb-a1e4-37ec9187c4b8/aioa2600112_f1.jpg"
+                "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/df47/13749202/7f04ceea0423/jamanetwopen-e2642797-g001.webp",
+                "cap": "포함된 시험의 특성을 보여 주는 막대그래프"
               },
               {
                 "t": "p",
-                "x": "모델은 한 학술 의료 시스템의 전자건강기록에 들어갔다. ANA-positive(ANA 양성) 대상자는 1:1로 무작위 배정했다. 중재군에서는 고위험 점수가 나온 사람에게 류마티스 진료를 서둘러 받도록 권했고 대조군에서는 위험 점수를 계산만 하고 따로 조치하지 않았다."
+                "x": "임상 질환으로는 암(20.0%), 신경·정신 건강(19.6%), 심혈관·대사 질환(18.6%)이 가장 흔했다. AI는 질병 위험이나 치료 선택을 가늠하는 선별·예측 모델링에 가장 많이 쓰였다(39.8%). 국가별로는 미국이 303건(25.0%), 중국이 149건(12.3%)이었다."
               },
               {
                 "t": "p",
-                "x": "무작위 배정된 2385명 가운데 분석 대상은 중재군 954명, 대조군 1006명이었다. 중재군은 자가면역질환 진단까지 걸린 시간이 유의하게 짧았다(위험비 1.9; 95% CI, 1.3~2.7; P<0.001). 진단까지 걸린 기간의 중앙값은 43일 대 138일이었다."
-              },
-              {
-                "t": "p",
-                "x": "6개월 안에 류마티스 진료를 받은 사람 가운데 자가면역질환 진단을 받은 비율은 중재군 23%, 대조군 16%였다(P=0.07)."
+                "x": "ClinicalTrials.gov에는 AI 관련 구조화 항목도, 보고 요건도 없어 방법론 세부 정보가 빠진 경우가 많았다. 연구진은 AI 보고 표준에 맞춘 구조화 등록 항목을 두면 투명성이 높아질 것이라고 밝혔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "リウマチ紹介にAI\n無作為化試験で検証",
-          "body": "解釈可能なモデルAURAを無作為化評価で導入し、ANA陽性者の紹介を選別した。",
-          "mini_headline": "ANA紹介をAIで選別",
+          "headline": "登録介入試験における\nAI活用を可視化",
+          "body": "2022年以降ClinicalTrials.gov登録の介入試験でのAI活用を分析した。",
+          "mini_headline": "臨床試験のAI活用を可視化",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "抗核抗体（ANA）検査陽性者をリウマチ科紹介に向けてトリアージするための、エビデンスに基づく指針は存在しない。研究者らは、新たにANA陽性となった人のうち誰が全身性自己免疫疾患を発症するかを予測する解釈可能な臨床予測モデルAURA（AUtoimmune Risk Assessment）を開発・導入し、2年間の無作為化実用研究で評価した。"
+                "x": "この横断研究は、2022年以降に実施された臨床試験における人工知能（AI）の利用を調べたものだ。研究者らは、開始日が2022年一月以降でClinicalTrials.govに登録された介入試験を分析し、AIの利用がどのように計画・記述されているかを明らかにした。"
+              },
+              {
+                "t": "p",
+                "x": "検索で得られた8559件の記録のうち、最終コホートは1212件の介入試験で構成された。大規模言語モデルを含む生成AIの利用計画は急増し、2022年開始の試験では皆無だったが、2025年開始の試験では491件中100件（20.4%）に達した。八件の試験は、患者のフォローアップや健康教育の提供などにAIエージェントを使う計画だった。"
               },
               {
                 "t": "img",
-                "src": "https://ai.nejm.org/cms/asset/fee9f883-230a-4ffb-a1e4-37ec9187c4b8/aioa2600112_f1.jpg"
+                "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/df47/13749202/7f04ceea0423/jamanetwopen-e2642797-g001.webp",
+                "cap": "対象試験の特性を示す棒グラフ"
               },
               {
                 "t": "p",
-                "x": "モデルは単一の大学医療システムの電子カルテに組み込まれた。ANA-positive（ANA陽性）の対象者は1:1で無作為に割り付けられた。介入群では高リスクスコアの人に迅速なリウマチ科受診が案内され、対照群ではリスクスコアは算出されたものの対応はとられなかった。"
+                "x": "最も多い臨床領域はがん（20.0%）、神経・メンタルヘルス（19.6%）、心血管・代謝疾患（18.6%）だった。AIの用途で最も多かったのは、疾患リスクや治療選択のためのスクリーニングと予測モデリング（39.8%）である。国別ではアメリカが303件（25.0%）、中国が149件（12.3%）を占めた。"
               },
               {
                 "t": "p",
-                "x": "無作為に割り付けられた2385人のうち、介入群954人、対照群1006人が解析された。介入群では自己免疫疾患の診断までの期間が有意に短かった（ハザード比1.9、95% CI 1.3〜2.7、P<0.001）。診断までの期間の中央値は43日対138日だった。"
-              },
-              {
-                "t": "p",
-                "x": "6か月以内にリウマチ科で評価を受けた人のうち、自己免疫疾患と診断されたのは介入群で23%、対照群で16%だった（P=0.07）。"
+                "x": "ClinicalTrials.govにはAIに関する構造化項目や報告要件がないため、手法の詳細が欠けていることが多かった。著者らは、AI報告基準に沿った構造化登録項目を設ければ透明性が高まるとしている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "随机试验检验\nAI风湿科转诊分诊",
-          "body": "可解释模型AURA在随机评估中部署，用于对ANA阳性检测进行转诊分诊。",
-          "mini_headline": "AI分诊ANA转诊",
+          "headline": "绘制注册干预性试验\n中的AI应用图景",
+          "body": "横断面研究梳理2022年以来ClinicalTrials.gov干预试验的AI应用。",
+          "mini_headline": "临床试验中的AI图谱",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "目前尚无基于证据的指南，用于对抗核抗体（ANA）检测阳性者进行风湿科转诊分诊。研究人员开发并部署了一个可解释的临床预测模型AURA（AUtoimmune Risk Assessment），用于预测新发ANA阳性者中哪些人会发展为系统性自身免疫病，并在一项为期2年的随机实用性研究中对其进行了评估。"
+                "x": "这项横断面研究考察了2022年起开展的临床试验中人工智能（AI）的使用情况。研究人员分析了在ClinicalTrials.gov登记、开始日期在2022年一月及以后的干预性试验，以描述AI的使用是如何规划和表述的。"
+              },
+              {
+                "t": "p",
+                "x": "在检索返回的8559条记录中，最终队列包括1212项干预性试验。计划使用生成式AI（包括大语言模型）的试验急剧增加，2022年开始的试验中一项也没有，而2025年开始的试验中491项里有100项（20.4%）。八项试验计划使用AI智能体进行患者随访或提供健康教育等。"
               },
               {
                 "t": "img",
-                "src": "https://ai.nejm.org/cms/asset/fee9f883-230a-4ffb-a1e4-37ec9187c4b8/aioa2600112_f1.jpg"
+                "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/df47/13749202/7f04ceea0423/jamanetwopen-e2642797-g001.webp",
+                "cap": "纳入试验特征的柱状图"
               },
               {
                 "t": "p",
-                "x": "该模型被整合进单一学术医疗系统的电子健康记录。ANA-positive（ANA阳性）个体按1:1随机分组；干预组中高风险评分者被邀请接受加急风湿科评估，对照组则只计算风险评分而不采取行动。"
+                "x": "最常见的临床病症为癌症（20.0%）、神经与精神健康（19.6%）以及心血管与代谢疾病（18.6%）。AI最常用于疾病风险或治疗选择的筛查和预测建模（39.8%）。美国有303项试验（25.0%），中国有149项（12.3%）。"
               },
               {
                 "t": "p",
-                "x": "在2385名随机分组者中，干预组分析了954人，对照组分析了1006人。干预组确诊自身免疫病的时间显著更短（风险比1.9；95% CI，1.3至2.7；P<0.001）；确诊时间中位数为43天对138天。"
-              },
-              {
-                "t": "p",
-                "x": "在6个月内接受风湿科评估的人中，干预组有23%、对照组有16%被诊断为自身免疫病（P=0.07）。"
+                "x": "由于ClinicalTrials.gov没有结构化的AI字段或报告要求，方法细节常常缺失；作者认为，与AI报告标准相一致的结构化注册字段将提高透明度。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Ensayo aleatorizado pone la AI\nen derivaciones reumatológicas",
-          "body": "El modelo interpretable AURA se desplegó en un ensayo aleatorizado para priorizar derivaciones por ANA positivo.",
-          "mini_headline": "AI para derivaciones por ANA",
+          "headline": "Mapa del uso de AI en ensayos\nde intervención registrados",
+          "body": "Un estudio transversal analiza el uso de AI en ensayos de intervención registrados en ClinicalTrials.gov desde 2022.",
+          "mini_headline": "La AI en los ensayos clínicos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "No existen recomendaciones basadas en la evidencia para priorizar la derivación a reumatología de las personas con pruebas de anticuerpos antinucleares (ANA) positivas. Los investigadores desarrollaron e implementaron un modelo de predicción clínica interpretable, AURA (AUtoimmune Risk Assessment), para predecir qué personas con un ANA positivo de nueva aparición desarrollarán una enfermedad autoinmune sistémica, y lo evaluaron en un estudio pragmático aleatorizado de 2 años."
+                "x": "Este estudio transversal examina el uso de la inteligencia artificial (AI) en ensayos clínicos iniciados a partir de 2022. Los investigadores analizaron ensayos de intervención registrados en ClinicalTrials.gov con fechas de inicio desde enero de 2022 para caracterizar cómo se planifica y describe el uso de AI."
+              },
+              {
+                "t": "p",
+                "x": "De los 8559 registros que arrojó la búsqueda, la cohorte final incluyó 1212 ensayos de intervención. El uso previsto de AI generativa, incluidos los grandes modelos de lenguaje, aumentó de forma marcada: de ningún ensayo iniciado en 2022 a 100 de 491 (20.4%) de los iniciados en 2025. Ocho ensayos preveían usar agentes de AI para el seguimiento de pacientes o la educación sanitaria, entre otros fines."
               },
               {
                 "t": "img",
-                "src": "https://ai.nejm.org/cms/asset/fee9f883-230a-4ffb-a1e4-37ec9187c4b8/aioa2600112_f1.jpg"
+                "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/df47/13749202/7f04ceea0423/jamanetwopen-e2642797-g001.webp",
+                "cap": "Gráficos de barras de las características de los ensayos incluidos"
               },
               {
                 "t": "p",
-                "x": "El modelo se integró en la historia clínica electrónica de un único sistema de salud académico. Las personas ANA-positive se asignaron aleatoriamente 1:1; en el grupo de intervención, a quienes tenían puntuaciones de alto riesgo se les invitó a una evaluación reumatológica acelerada, mientras que en el grupo de control las puntuaciones de riesgo se calcularon pero no se actuó sobre ellas."
+                "x": "Las condiciones clínicas más frecuentes fueron el cáncer (20.0%), la salud neurológica y mental (19.6%) y las enfermedades cardiovasculares y metabólicas (18.6%). La AI se usó sobre todo para el cribado y el modelado predictivo del riesgo de enfermedad o la selección de tratamientos (39.8%). Estados Unidos aportó 303 ensayos (25.0%) y China, 149 (12.3%)."
               },
               {
                 "t": "p",
-                "x": "De 2385 personas asignadas aleatoriamente, se analizaron 954 en el grupo de intervención y 1006 en el grupo de control. El grupo de intervención tuvo un tiempo hasta el diagnóstico de enfermedad autoinmune significativamente menor (cociente de riesgos, 1.9; 95% CI, 1.3 a 2.7; P<0.001); la mediana hasta el diagnóstico fue de 43 días frente a 138 días."
-              },
-              {
-                "t": "p",
-                "x": "Entre quienes fueron evaluados por reumatología en un plazo de 6 meses, el 23% del grupo de intervención y el 16% del grupo de control recibieron un diagnóstico de enfermedad autoinmune (P=0.07)."
+                "x": "Como ClinicalTrials.gov no tiene campos estructurados sobre AI ni requisitos de notificación, a menudo faltaban detalles de los métodos; los autores afirman que unos campos de registro estructurados y alineados con los estándares de notificación de AI mejorarían la transparencia."
               }
             ]
           }
@@ -737,121 +1005,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "류마티스 의뢰에 AI,\n무작위 시험으로 검증",
-          "body": "해석 가능한 모델 AURA가 무작위 평가에서 ANA 양성자 의뢰를 선별했다.",
-          "mini_headline": "ANA 의뢰, AI가 분류",
+          "headline": "중재 임상시험의\nAI 활용을 그리다",
+          "body": "2022년 이후 ClinicalTrials.gov 시험의 AI 활용을 분석했다.",
+          "mini_headline": "임상시험 속 AI 지도",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "항핵항체(ANA) 검사 양성자를 류마티스 진료로 의뢰할지 분류하는 근거 기반 지침은 없다. 연구진은 새로 ANA 양성 판정을 받은 사람 중 누가 전신 자가면역질환으로 진행할지 예측하는 해석 가능한 임상 예측 모델 AURA(AUtoimmune Risk Assessment)를 개발·배치했고, 2년간의 무작위 실용 연구로 이를 평가했다."
+                "x": "이 횡단 연구는 2022년부터 진행된 임상시험에서 인공지능(AI)이 어떻게 쓰였는지 살폈다. 연구진은 ClinicalTrials.gov에 등록되고 시작일이 2022년 첫 달 이후인 중재 시험을 분석해, AI 활용이 어떻게 계획되고 기술되는지 정리했다."
+              },
+              {
+                "t": "p",
+                "x": "검색된 기록 8559건 가운데 최종 코호트는 중재 시험 1212건으로 구성됐다. 대규모 언어 모델을 포함한 생성형 AI 활용 계획은 2022년 시작 시험에서는 한 건도 없었으나 2025년 시작 시험에서는 491건 중 100건(20.4%)으로 크게 늘었다. 여덟 건의 시험은 환자 추적 관찰이나 건강 교육 제공 등에 AI 에이전트를 쓸 계획이었다."
               },
               {
                 "t": "img",
-                "src": "https://ai.nejm.org/cms/asset/fee9f883-230a-4ffb-a1e4-37ec9187c4b8/aioa2600112_f1.jpg"
+                "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/df47/13749202/7f04ceea0423/jamanetwopen-e2642797-g001.webp",
+                "cap": "포함된 시험의 특성을 보여 주는 막대그래프"
               },
               {
                 "t": "p",
-                "x": "모델은 한 학술 의료 시스템의 전자건강기록에 통합됐다. ANA-positive(ANA 양성) 대상자는 1:1로 무작위 배정됐다. 중재군에서는 고위험 점수를 받은 사람에게 신속한 류마티스 진료를 권했고, 대조군에서는 위험 점수를 계산만 하고 조치하지 않았다."
+                "x": "가장 흔한 임상 질환은 암(20.0%), 신경·정신 건강(19.6%), 심혈관·대사 질환(18.6%)이었다. AI는 질병 위험이나 치료 선택을 위한 선별·예측 모델링에 가장 많이 쓰였다(39.8%). 미국이 303건(25.0%), 중국이 149건(12.3%)을 차지했다."
               },
               {
                 "t": "p",
-                "x": "무작위 배정된 2385명 가운데 중재군 954명, 대조군 1006명이 분석에 포함됐다. 중재군은 자가면역질환 진단까지 걸린 시간이 유의하게 짧았다(위험비 1.9; 95% CI, 1.3~2.7; P<0.001). 진단까지 걸린 시간의 중앙값은 43일 대 138일이었다."
-              },
-              {
-                "t": "p",
-                "x": "6개월 안에 류마티스 진료를 받은 사람 중 자가면역질환 진단을 받은 비율은 중재군 23%, 대조군 16%였다(P=0.07)."
+                "x": "ClinicalTrials.gov에는 AI 관련 구조화 항목이나 보고 요건이 없어 방법론 세부 정보가 빠진 경우가 많았다. 연구진은 AI 보고 표준에 맞춘 구조화된 등록 항목이 투명성을 높일 것이라고 밝혔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "リウマチ紹介にAI\n無作為化試験で検証",
-          "body": "解釈可能なモデルAURAを無作為化評価で導入し、ANA陽性者の紹介を選別した。",
-          "mini_headline": "ANA紹介をAIで選別",
+          "headline": "登録介入試験における\nAI活用を可視化",
+          "body": "2022年以降ClinicalTrials.gov登録の介入試験でのAI活用を分析した。",
+          "mini_headline": "臨床試験のAI活用を可視化",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "抗核抗体（ANA）検査陽性者をリウマチ科紹介に向けてトリアージするための、エビデンスに基づく指針は存在しない。研究者らは、新たにANA陽性となった人のうち誰が全身性自己免疫疾患を発症するかを予測する解釈可能な臨床予測モデルAURA（AUtoimmune Risk Assessment）を開発・導入し、2年間の無作為化実用研究で評価した。"
+                "x": "この横断研究は、2022年以降に実施された臨床試験における人工知能（AI）の利用を調べたものだ。研究者らは、開始日が2022年一月以降でClinicalTrials.govに登録された介入試験を分析し、AIの利用がどのように計画・記述されているかを明らかにした。"
+              },
+              {
+                "t": "p",
+                "x": "検索で得られた8559件の記録のうち、最終コホートは1212件の介入試験で構成された。大規模言語モデルを含む生成AIの利用計画は急増し、2022年開始の試験では皆無だったが、2025年開始の試験では491件中100件（20.4%）に達した。八件の試験は、患者のフォローアップや健康教育の提供などにAIエージェントを使う計画だった。"
               },
               {
                 "t": "img",
-                "src": "https://ai.nejm.org/cms/asset/fee9f883-230a-4ffb-a1e4-37ec9187c4b8/aioa2600112_f1.jpg"
+                "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/df47/13749202/7f04ceea0423/jamanetwopen-e2642797-g001.webp",
+                "cap": "対象試験の特性を示す棒グラフ"
               },
               {
                 "t": "p",
-                "x": "モデルは単一の大学医療システムの電子カルテに組み込まれた。ANA-positive（ANA陽性）の対象者は1:1で無作為に割り付けられた。介入群では高リスクスコアの人に迅速なリウマチ科受診が案内され、対照群ではリスクスコアは算出されたものの対応はとられなかった。"
+                "x": "最も多い臨床領域はがん（20.0%）、神経・メンタルヘルス（19.6%）、心血管・代謝疾患（18.6%）だった。AIの用途で最も多かったのは、疾患リスクや治療選択のためのスクリーニングと予測モデリング（39.8%）である。国別ではアメリカが303件（25.0%）、中国が149件（12.3%）を占めた。"
               },
               {
                 "t": "p",
-                "x": "無作為に割り付けられた2385人のうち、介入群954人、対照群1006人が解析された。介入群では自己免疫疾患の診断までの期間が有意に短かった（ハザード比1.9、95% CI 1.3〜2.7、P<0.001）。診断までの期間の中央値は43日対138日だった。"
-              },
-              {
-                "t": "p",
-                "x": "6か月以内にリウマチ科で評価を受けた人のうち、自己免疫疾患と診断されたのは介入群で23%、対照群で16%だった（P=0.07）。"
+                "x": "ClinicalTrials.govにはAIに関する構造化項目や報告要件がないため、手法の詳細が欠けていることが多かった。著者らは、AI報告基準に沿った構造化登録項目を設ければ透明性が高まるとしている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "随机试验检验\nAI风湿科转诊分诊",
-          "body": "可解释模型AURA在随机评估中部署，用于对ANA阳性检测进行转诊分诊。",
-          "mini_headline": "AI分诊ANA转诊",
+          "headline": "绘制注册干预性试验\n中的AI应用图景",
+          "body": "横断面研究梳理2022年以来ClinicalTrials.gov干预试验的AI应用。",
+          "mini_headline": "临床试验中的AI图谱",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "目前尚无基于证据的指南，用于对抗核抗体（ANA）检测阳性者进行风湿科转诊分诊。研究人员开发并部署了一个可解释的临床预测模型AURA（AUtoimmune Risk Assessment），用于预测新发ANA阳性者中哪些人会发展为系统性自身免疫病，并在一项为期2年的随机实用性研究中对其进行了评估。"
+                "x": "这项横断面研究考察了2022年起开展的临床试验中人工智能（AI）的使用情况。研究人员分析了在ClinicalTrials.gov登记、开始日期在2022年一月及以后的干预性试验，以描述AI的使用是如何规划和表述的。"
+              },
+              {
+                "t": "p",
+                "x": "在检索返回的8559条记录中，最终队列包括1212项干预性试验。计划使用生成式AI（包括大语言模型）的试验急剧增加，2022年开始的试验中一项也没有，而2025年开始的试验中491项里有100项（20.4%）。八项试验计划使用AI智能体进行患者随访或提供健康教育等。"
               },
               {
                 "t": "img",
-                "src": "https://ai.nejm.org/cms/asset/fee9f883-230a-4ffb-a1e4-37ec9187c4b8/aioa2600112_f1.jpg"
+                "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/df47/13749202/7f04ceea0423/jamanetwopen-e2642797-g001.webp",
+                "cap": "纳入试验特征的柱状图"
               },
               {
                 "t": "p",
-                "x": "该模型被整合进单一学术医疗系统的电子健康记录。ANA-positive（ANA阳性）个体按1:1随机分组；干预组中高风险评分者被邀请接受加急风湿科评估，对照组则只计算风险评分而不采取行动。"
+                "x": "最常见的临床病症为癌症（20.0%）、神经与精神健康（19.6%）以及心血管与代谢疾病（18.6%）。AI最常用于疾病风险或治疗选择的筛查和预测建模（39.8%）。美国有303项试验（25.0%），中国有149项（12.3%）。"
               },
               {
                 "t": "p",
-                "x": "在2385名随机分组者中，干预组分析了954人，对照组分析了1006人。干预组确诊自身免疫病的时间显著更短（风险比1.9；95% CI，1.3至2.7；P<0.001）；确诊时间中位数为43天对138天。"
-              },
-              {
-                "t": "p",
-                "x": "在6个月内接受风湿科评估的人中，干预组有23%、对照组有16%被诊断为自身免疫病（P=0.07）。"
+                "x": "由于ClinicalTrials.gov没有结构化的AI字段或报告要求，方法细节常常缺失；作者认为，与AI报告标准相一致的结构化注册字段将提高透明度。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Ensayo aleatorizado pone la AI\nen derivaciones reumatológicas",
-          "body": "El modelo interpretable AURA se desplegó en un ensayo aleatorizado para priorizar derivaciones por ANA positivo.",
-          "mini_headline": "AI para derivaciones por ANA",
+          "headline": "Mapa del uso de AI en ensayos\nde intervención registrados",
+          "body": "Un estudio transversal analiza el uso de AI en ensayos de intervención registrados en ClinicalTrials.gov desde 2022.",
+          "mini_headline": "La AI en los ensayos clínicos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "No existen recomendaciones basadas en la evidencia para priorizar la derivación a reumatología de las personas con pruebas de anticuerpos antinucleares (ANA) positivas. Los investigadores desarrollaron e implementaron un modelo de predicción clínica interpretable, AURA (AUtoimmune Risk Assessment), para predecir qué personas con un ANA positivo de nueva aparición desarrollarán una enfermedad autoinmune sistémica, y lo evaluaron en un estudio pragmático aleatorizado de 2 años."
+                "x": "Este estudio transversal examina el uso de la inteligencia artificial (AI) en ensayos clínicos iniciados a partir de 2022. Los investigadores analizaron ensayos de intervención registrados en ClinicalTrials.gov con fechas de inicio desde enero de 2022 para caracterizar cómo se planifica y describe el uso de AI."
+              },
+              {
+                "t": "p",
+                "x": "De los 8559 registros que arrojó la búsqueda, la cohorte final incluyó 1212 ensayos de intervención. El uso previsto de AI generativa, incluidos los grandes modelos de lenguaje, aumentó de forma marcada: de ningún ensayo iniciado en 2022 a 100 de 491 (20.4%) de los iniciados en 2025. Ocho ensayos preveían usar agentes de AI para el seguimiento de pacientes o la educación sanitaria, entre otros fines."
               },
               {
                 "t": "img",
-                "src": "https://ai.nejm.org/cms/asset/fee9f883-230a-4ffb-a1e4-37ec9187c4b8/aioa2600112_f1.jpg"
+                "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/df47/13749202/7f04ceea0423/jamanetwopen-e2642797-g001.webp",
+                "cap": "Gráficos de barras de las características de los ensayos incluidos"
               },
               {
                 "t": "p",
-                "x": "El modelo se integró en la historia clínica electrónica de un único sistema de salud académico. Las personas ANA-positive se asignaron aleatoriamente 1:1; en el grupo de intervención, a quienes tenían puntuaciones de alto riesgo se les invitó a una evaluación reumatológica acelerada, mientras que en el grupo de control las puntuaciones de riesgo se calcularon pero no se actuó sobre ellas."
+                "x": "Las condiciones clínicas más frecuentes fueron el cáncer (20.0%), la salud neurológica y mental (19.6%) y las enfermedades cardiovasculares y metabólicas (18.6%). La AI se usó sobre todo para el cribado y el modelado predictivo del riesgo de enfermedad o la selección de tratamientos (39.8%). Estados Unidos aportó 303 ensayos (25.0%) y China, 149 (12.3%)."
               },
               {
                 "t": "p",
-                "x": "De 2385 personas asignadas aleatoriamente, se analizaron 954 en el grupo de intervención y 1006 en el grupo de control. El grupo de intervención tuvo un tiempo hasta el diagnóstico de enfermedad autoinmune significativamente menor (cociente de riesgos, 1.9; 95% CI, 1.3 a 2.7; P<0.001); la mediana hasta el diagnóstico fue de 43 días frente a 138 días."
-              },
-              {
-                "t": "p",
-                "x": "Entre quienes fueron evaluados por reumatología en un plazo de 6 meses, el 23% del grupo de intervención y el 16% del grupo de control recibieron un diagnóstico de enfermedad autoinmune (P=0.07)."
+                "x": "Como ClinicalTrials.gov no tiene campos estructurados sobre AI ni requisitos de notificación, a menudo faltaban detalles de los métodos; los autores afirman que unos campos de registro estructurados y alineados con los estándares de notificación de AI mejorarían la transparencia."
               }
             ]
           }
@@ -859,429 +1131,201 @@
       }
     },
     {
-      "id": "uw-rsna-ai-triage-realworld",
+      "id": "npj-cancer-persistent-fever-ml",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI 트리아지 도구의\n실제 성과는 제각각",
-      "body": "UW 742,000여건서 AI는 튜브 판독을 76% 줄였지만 PE엔 효과 없었다.",
-      "mini_headline": "AI 트리아지, 성과 제각각",
-      "tool": "Medicine",
-      "source": "AuntMinnie",
-      "url": "https://www.auntminnie.com/resources/conference/rsna/2026/artificial-intelligence-preview/article/16425184/ai-triage-algorithms-yield-varied-results-in-realworld-use",
-      "accent": "#7928ca",
-      "motif": "sphere",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "연구진이 세 병원에 트리아지 AI 알고리즘 11개를 도입한 경험을 발표한다(12월 3일 목요일 | 9:30 a.m.-10:30 a.m. | R3-SSIN07-1 | Room E450B)."
-          },
-          {
-            "t": "p",
-            "x": "University of Washington의 발표자 Domenico Mastrodicasa, MD와 동료들은 실제 임상에서 AI를 대규모로 배치한 실사용 근거가 여전히 부족하다고 지적했다. 연구팀은 Level 1 외상센터를 포함한 4차 학술 의료 시스템에서 AI 트리아지 도구 여러 개를 시스템 전체에 도입한 뒤 판독 보고 소요 시간이 어떻게 달라졌는지 살폈다."
-          },
-          {
-            "t": "p",
-            "x": "알고리즘은 2023년 9월부터 2025년 8월까지 단계적으로 배치돼 742,000건이 넘는 영상 검사를 처리했다. 연구진은 배치 전과 후의 보고 소요 시간 중앙값을 견줬다."
-          },
-          {
-            "t": "p",
-            "x": "개선 폭이 가장 컸던 항목은 기관내 튜브 위치 이상으로, 보고 소요 시간이 약 76% 줄었다. 늑골 골절(53%)과 뇌혈관 폐색(29%)이 뒤를 이었다. 폐색전증과 두개내 출혈은 나아지지 않았다. 이미 알려진 소견이 있는 추적 검사나 입원 환자 검사의 비중이 더 높았던 탓일 가능성이 크다는 게 연구진의 판단이다."
-          },
-          {
-            "t": "p",
-            "x": "“영상 검사량이 늘면서 임상적으로 중요한 소견을 제때 찾아내기가 점점 어려워지고 있다”고 저자들은 썼다. “우리 경험은 AI 트리아지 도구를 시스템 전체에 도입하면 중요 소견을 우선 처리하고 검사량이 많은 환경에서 업무 효율을 높여 영상의학과 의사를 지원할 수 있음을 보여준다. 다만 성능이 적용 분야마다 달랐던 만큼, 이런 이점을 얻으려면 표적화된 배치와 임상 워크플로 변화에 맞춘 지속적인 최적화가 필요하다.”"
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "AI triage tools deliver\nuneven real-world results",
-          "body": "Across 742,000+ exams at UW, AI triage cut turnaround 76% for tube malposition but not for PE or brain bleeds.",
-          "mini_headline": "AI triage, uneven results",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Researchers will present their experience in rolling out 11 triage AI algorithms across three hospitals (Thursday, December 3 | 9:30 a.m.-10:30 a.m. | R3-SSIN07-1 | Room E450B)."
-              },
-              {
-                "t": "p",
-                "x": "Real-world evidence on large-scale AI deployment in clinical practice remains limited, noted presenter Domenico Mastrodicasa, MD, of the University of Washington, and colleagues. The group evaluated how system-wide implementation of multiple AI triage tools affected report turnaround time at a quaternary academic health system that includes a Level 1 trauma center."
-              },
-              {
-                "t": "p",
-                "x": "The algorithms were deployed in stages between September 2023 and August 2025 and processed more than 742,000 imaging exams. The researchers compared median turnaround times before and after deployment."
-              },
-              {
-                "t": "p",
-                "x": "The largest gain came for endotracheal tube malposition, where turnaround time dropped by about 76%, followed by rib fracture (53%) and brain vessel occlusion (29%). Pulmonary embolism and intracranial hemorrhage, however, saw no improvement. The researchers say this likely reflects higher proportions of follow-up or inpatient studies with known findings."
-              },
-              {
-                "t": "p",
-                "x": "“As imaging volumes increase, timely identification of clinically significant findings is becoming more challenging,” the authors wrote. “Our experience shows that system-wide implementation of AI triage tools can support radiologists by prioritizing critical findings and improving workflow efficiency in high-volume settings. Since performance varied across applications, realizing these benefits requires targeted deployment and ongoing optimization as clinical workflows evolve.”"
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "AI 트리아지 도구의\n실제 성과는 제각각",
-          "body": "UW 742,000여건서 AI는 튜브 판독을 76% 줄였지만 PE엔 효과 없었다.",
-          "mini_headline": "AI 트리아지, 성과 제각각",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "연구진이 세 병원에 트리아지 AI 알고리즘 11개를 도입한 경험을 발표한다(12월 3일 목요일 | 9:30 a.m.-10:30 a.m. | R3-SSIN07-1 | Room E450B)."
-              },
-              {
-                "t": "p",
-                "x": "University of Washington의 발표자 Domenico Mastrodicasa, MD와 동료들은 실제 임상에서 AI를 대규모로 배치한 실사용 근거가 여전히 부족하다고 지적했다. 연구팀은 Level 1 외상센터를 포함한 4차 학술 의료 시스템에서 AI 트리아지 도구 여러 개를 시스템 전체에 도입한 뒤 판독 보고 소요 시간이 어떻게 달라졌는지 살폈다."
-              },
-              {
-                "t": "p",
-                "x": "알고리즘은 2023년 9월부터 2025년 8월까지 단계적으로 배치돼 742,000건이 넘는 영상 검사를 처리했다. 연구진은 배치 전과 후의 보고 소요 시간 중앙값을 견줬다."
-              },
-              {
-                "t": "p",
-                "x": "개선 폭이 가장 컸던 항목은 기관내 튜브 위치 이상으로, 보고 소요 시간이 약 76% 줄었다. 늑골 골절(53%)과 뇌혈관 폐색(29%)이 뒤를 이었다. 폐색전증과 두개내 출혈은 나아지지 않았다. 이미 알려진 소견이 있는 추적 검사나 입원 환자 검사의 비중이 더 높았던 탓일 가능성이 크다는 게 연구진의 판단이다."
-              },
-              {
-                "t": "p",
-                "x": "“영상 검사량이 늘면서 임상적으로 중요한 소견을 제때 찾아내기가 점점 어려워지고 있다”고 저자들은 썼다. “우리 경험은 AI 트리아지 도구를 시스템 전체에 도입하면 중요 소견을 우선 처리하고 검사량이 많은 환경에서 업무 효율을 높여 영상의학과 의사를 지원할 수 있음을 보여준다. 다만 성능이 적용 분야마다 달랐던 만큼, 이런 이점을 얻으려면 표적화된 배치와 임상 워크플로 변화에 맞춘 지속적인 최적화가 필요하다.”"
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AIトリアージの\n実地成果はまちまち",
-          "body": "UWの742,000件超の検査でAIはチューブ異常の読影時間を76%短縮、PEは改善せず。",
-          "mini_headline": "AIトリアージ、成果まちまち",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "研究者らは、11種類のトリアージAIアルゴリズムを3つの病院に展開した経験を発表する（12月3日木曜日 | 9:30 a.m.-10:30 a.m. | R3-SSIN07-1 | Room E450B）。"
-              },
-              {
-                "t": "p",
-                "x": "臨床現場での大規模なAI導入に関する実臨床エビデンスはまだ限られていると、発表者であるUniversity of WashingtonのDomenico Mastrodicasa, MDらは指摘した。研究グループは、Level 1 外傷センターを含む四次医療の大学医療システムで、複数のAIトリアージツールをシステム全体に導入したことが、レポートのターンアラウンドタイムにどう影響したかを評価した。"
-              },
-              {
-                "t": "p",
-                "x": "アルゴリズムは2023年9月から2025年8月にかけて段階的に導入され、742,000件を超える画像検査を処理した。研究者らは導入前後のターンアラウンドタイムの中央値を比較した。"
-              },
-              {
-                "t": "p",
-                "x": "最も大きな改善は気管チューブの位置異常で見られ、ターンアラウンドタイムは約76%短縮した。次いで肋骨骨折（53%）、脳血管閉塞（29%）が続いた。一方、肺塞栓症と頭蓋内出血では改善が見られなかった。研究者らは、既知の所見がある経過観察検査や入院患者の検査の割合が高かったためとみている。"
-              },
-              {
-                "t": "p",
-                "x": "「画像検査の件数が増えるにつれ、臨床的に重要な所見を適時に見つけることは難しくなっている」と著者らは記した。「我々の経験は、AIトリアージツールをシステム全体に導入することで、重要所見を優先し、大量の検査を扱う環境で業務効率を高め、放射線科医を支援できることを示している。ただし性能は用途によって異なったため、こうした利点を得るには、的を絞った導入と、臨床ワークフローの変化に合わせた継続的な最適化が必要だ」"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "AI分诊工具\n真实效果参差不齐",
-          "body": "UW逾742,000次检查中，AI将插管错位报告时间缩短76%，但PE与脑出血无改善。",
-          "mini_headline": "AI分诊效果参差",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "研究人员将介绍在三家医院部署11种分诊AI算法的经验（12月3日星期四 | 9:30 a.m.-10:30 a.m. | R3-SSIN07-1 | Room E450B）。"
-              },
-              {
-                "t": "p",
-                "x": "University of Washington的报告人Domenico Mastrodicasa, MD及其同事指出，临床实践中大规模部署AI的真实世界证据仍然有限。该团队评估了在一家包含Level 1 创伤中心的四级学术医疗系统中，全系统部署多种AI分诊工具对报告周转时间的影响。"
-              },
-              {
-                "t": "p",
-                "x": "这些算法于2023年9月至2025年8月间分阶段部署，处理了超过742,000次影像检查。研究人员比较了部署前后的周转时间中位数。"
-              },
-              {
-                "t": "p",
-                "x": "改善最大的是气管插管错位，周转时间缩短约76%，其次是肋骨骨折（53%）和脑血管闭塞（29%）。然而，肺栓塞和颅内出血没有改善。研究人员认为，这可能是因为其中已知结果的随访检查或住院检查比例更高。"
-              },
-              {
-                "t": "p",
-                "x": "“随着影像检查量增加，及时识别具有临床意义的发现正变得越来越困难，”作者写道。“我们的经验表明，在全系统部署AI分诊工具，可以通过优先处理危急发现、提升高检查量环境下的工作流程效率来支持放射科医生。由于不同应用的表现各异，要实现这些益处，需要有针对性的部署，并随着临床工作流程的演变持续优化。”"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "El triaje con AI da resultados\ndispares en la práctica real",
-          "body": "En 742,000+ estudios de UW, la AI acortó un 76% el informe de tubos mal colocados, no el de PE ni sangrado cerebral.",
-          "mini_headline": "Triaje con AI, resultados dispares",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Los investigadores presentarán su experiencia en la implantación de 11 algoritmos de AI de triaje en tres hospitales (jueves 3 de diciembre | 9:30 a.m.-10:30 a.m. | R3-SSIN07-1 | Room E450B)."
-              },
-              {
-                "t": "p",
-                "x": "La evidencia del mundo real sobre el despliegue de AI a gran escala en la práctica clínica sigue siendo limitada, señalaron el ponente Domenico Mastrodicasa, MD, de la University of Washington, y sus colegas. El grupo evaluó cómo la implantación en todo el sistema de varias herramientas de triaje con AI afectó al tiempo de entrega de informes en un sistema de salud académico de nivel cuaternario que incluye un centro de trauma Level 1."
-              },
-              {
-                "t": "p",
-                "x": "Los algoritmos se desplegaron por etapas entre septiembre de 2023 y agosto de 2025 y procesaron más de 742,000 estudios de imagen. Los investigadores compararon las medianas de los tiempos de entrega antes y después del despliegue."
-              },
-              {
-                "t": "p",
-                "x": "La mayor mejora se dio en la malposición del tubo endotraqueal, donde el tiempo de entrega se redujo alrededor de un 76%, seguida de la fractura costal (53%) y la oclusión de vasos cerebrales (29%). En cambio, la embolia pulmonar y la hemorragia intracraneal no mejoraron. Según los investigadores, esto probablemente refleja una mayor proporción de estudios de seguimiento o de pacientes hospitalizados con hallazgos ya conocidos."
-              },
-              {
-                "t": "p",
-                "x": "“A medida que aumentan los volúmenes de imagen, identificar a tiempo los hallazgos clínicamente significativos es cada vez más difícil”, escribieron los autores. “Nuestra experiencia muestra que implantar herramientas de triaje con AI en todo el sistema puede apoyar a los radiólogos al priorizar los hallazgos críticos y mejorar la eficiencia del flujo de trabajo en entornos de alto volumen. Como el rendimiento varió entre aplicaciones, obtener estos beneficios requiere un despliegue dirigido y una optimización continua a medida que evolucionan los flujos de trabajo clínicos.”"
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "AI 트리아지 도구의\n실제 성과는 제각각",
-          "body": "UW 742,000여건서 AI는 튜브 판독 76% 단축, PE엔 효과 없었다.",
-          "mini_headline": "AI 트리아지, 성과 제각각",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "연구진은 세 병원에 11개 트리아지 AI 알고리즘을 도입한 경험을 발표한다(12월 3일 목요일 | 9:30 a.m.-10:30 a.m. | R3-SSIN07-1 | Room E450B)."
-              },
-              {
-                "t": "p",
-                "x": "실제 임상에서 AI를 대규모로 배치한 실사용 근거는 여전히 부족하다고 University of Washington의 발표자 Domenico Mastrodicasa, MD와 동료들은 지적했다. 연구팀은 Level 1 외상센터를 포함한 4차 학술 의료 시스템에서 여러 AI 트리아지 도구를 시스템 전체에 도입한 것이 판독 보고 소요 시간에 어떤 영향을 미쳤는지 평가했다."
-              },
-              {
-                "t": "p",
-                "x": "알고리즘은 2023년 9월부터 2025년 8월까지 단계적으로 배치돼 742,000건이 넘는 영상 검사를 처리했다. 연구진은 배치 전후의 보고 소요 시간 중앙값을 비교했다."
-              },
-              {
-                "t": "p",
-                "x": "가장 큰 개선은 기관내 튜브 위치 이상에서 나왔다. 보고 소요 시간이 약 76% 줄었고, 늑골 골절(53%)과 뇌혈관 폐색(29%)이 뒤를 이었다. 반면 폐색전증과 두개내 출혈은 개선되지 않았다. 연구진은 이미 알려진 소견이 있는 추적 검사나 입원 환자 검사의 비중이 더 높았던 탓일 가능성이 크다고 본다."
-              },
-              {
-                "t": "p",
-                "x": "“영상 검사량이 늘면서 임상적으로 중요한 소견을 제때 찾아내기가 점점 어려워지고 있다”고 저자들은 썼다. “우리 경험은 AI 트리아지 도구를 시스템 전체에 도입하면 중요 소견을 우선 처리하고 검사량이 많은 환경에서 업무 효율을 높여 영상의학과 의사를 지원할 수 있음을 보여준다. 다만 성능이 적용 분야마다 달랐던 만큼, 이런 이점을 얻으려면 표적화된 배치와 임상 워크플로 변화에 맞춘 지속적인 최적화가 필요하다.”"
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AIトリアージの\n実地成果はまちまち",
-          "body": "UWの742,000件超の検査でAIはチューブ異常の読影時間を76%短縮、PEは改善せず。",
-          "mini_headline": "AIトリアージ、成果まちまち",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "研究者らは、11種類のトリアージAIアルゴリズムを3つの病院に展開した経験を発表する（12月3日木曜日 | 9:30 a.m.-10:30 a.m. | R3-SSIN07-1 | Room E450B）。"
-              },
-              {
-                "t": "p",
-                "x": "臨床現場での大規模なAI導入に関する実臨床エビデンスはまだ限られていると、発表者であるUniversity of WashingtonのDomenico Mastrodicasa, MDらは指摘した。研究グループは、Level 1 外傷センターを含む四次医療の大学医療システムで、複数のAIトリアージツールをシステム全体に導入したことが、レポートのターンアラウンドタイムにどう影響したかを評価した。"
-              },
-              {
-                "t": "p",
-                "x": "アルゴリズムは2023年9月から2025年8月にかけて段階的に導入され、742,000件を超える画像検査を処理した。研究者らは導入前後のターンアラウンドタイムの中央値を比較した。"
-              },
-              {
-                "t": "p",
-                "x": "最も大きな改善は気管チューブの位置異常で見られ、ターンアラウンドタイムは約76%短縮した。次いで肋骨骨折（53%）、脳血管閉塞（29%）が続いた。一方、肺塞栓症と頭蓋内出血では改善が見られなかった。研究者らは、既知の所見がある経過観察検査や入院患者の検査の割合が高かったためとみている。"
-              },
-              {
-                "t": "p",
-                "x": "「画像検査の件数が増えるにつれ、臨床的に重要な所見を適時に見つけることは難しくなっている」と著者らは記した。「我々の経験は、AIトリアージツールをシステム全体に導入することで、重要所見を優先し、大量の検査を扱う環境で業務効率を高め、放射線科医を支援できることを示している。ただし性能は用途によって異なったため、こうした利点を得るには、的を絞った導入と、臨床ワークフローの変化に合わせた継続的な最適化が必要だ」"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "AI分诊工具\n真实效果参差不齐",
-          "body": "UW逾742,000次检查中，AI将插管错位报告时间缩短76%，但PE与脑出血无改善。",
-          "mini_headline": "AI分诊效果参差",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "研究人员将介绍在三家医院部署11种分诊AI算法的经验（12月3日星期四 | 9:30 a.m.-10:30 a.m. | R3-SSIN07-1 | Room E450B）。"
-              },
-              {
-                "t": "p",
-                "x": "University of Washington的报告人Domenico Mastrodicasa, MD及其同事指出，临床实践中大规模部署AI的真实世界证据仍然有限。该团队评估了在一家包含Level 1 创伤中心的四级学术医疗系统中，全系统部署多种AI分诊工具对报告周转时间的影响。"
-              },
-              {
-                "t": "p",
-                "x": "这些算法于2023年9月至2025年8月间分阶段部署，处理了超过742,000次影像检查。研究人员比较了部署前后的周转时间中位数。"
-              },
-              {
-                "t": "p",
-                "x": "改善最大的是气管插管错位，周转时间缩短约76%，其次是肋骨骨折（53%）和脑血管闭塞（29%）。然而，肺栓塞和颅内出血没有改善。研究人员认为，这可能是因为其中已知结果的随访检查或住院检查比例更高。"
-              },
-              {
-                "t": "p",
-                "x": "“随着影像检查量增加，及时识别具有临床意义的发现正变得越来越困难，”作者写道。“我们的经验表明，在全系统部署AI分诊工具，可以通过优先处理危急发现、提升高检查量环境下的工作流程效率来支持放射科医生。由于不同应用的表现各异，要实现这些益处，需要有针对性的部署，并随着临床工作流程的演变持续优化。”"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "El triaje con AI da resultados\ndispares en la práctica real",
-          "body": "En 742,000+ estudios de UW, la AI acortó un 76% el informe de tubos mal colocados, no el de PE ni sangrado cerebral.",
-          "mini_headline": "Triaje con AI, resultados dispares",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Los investigadores presentarán su experiencia en la implantación de 11 algoritmos de AI de triaje en tres hospitales (jueves 3 de diciembre | 9:30 a.m.-10:30 a.m. | R3-SSIN07-1 | Room E450B)."
-              },
-              {
-                "t": "p",
-                "x": "La evidencia del mundo real sobre el despliegue de AI a gran escala en la práctica clínica sigue siendo limitada, señalaron el ponente Domenico Mastrodicasa, MD, de la University of Washington, y sus colegas. El grupo evaluó cómo la implantación en todo el sistema de varias herramientas de triaje con AI afectó al tiempo de entrega de informes en un sistema de salud académico de nivel cuaternario que incluye un centro de trauma Level 1."
-              },
-              {
-                "t": "p",
-                "x": "Los algoritmos se desplegaron por etapas entre septiembre de 2023 y agosto de 2025 y procesaron más de 742,000 estudios de imagen. Los investigadores compararon las medianas de los tiempos de entrega antes y después del despliegue."
-              },
-              {
-                "t": "p",
-                "x": "La mayor mejora se dio en la malposición del tubo endotraqueal, donde el tiempo de entrega se redujo alrededor de un 76%, seguida de la fractura costal (53%) y la oclusión de vasos cerebrales (29%). En cambio, la embolia pulmonar y la hemorragia intracraneal no mejoraron. Según los investigadores, esto probablemente refleja una mayor proporción de estudios de seguimiento o de pacientes hospitalizados con hallazgos ya conocidos."
-              },
-              {
-                "t": "p",
-                "x": "“A medida que aumentan los volúmenes de imagen, identificar a tiempo los hallazgos clínicamente significativos es cada vez más difícil”, escribieron los autores. “Nuestra experiencia muestra que implantar herramientas de triaje con AI en todo el sistema puede apoyar a los radiólogos al priorizar los hallazgos críticos y mejorar la eficiencia del flujo de trabajo en entornos de alto volumen. Como el rendimiento varió entre aplicaciones, obtener estos beneficios requiere un despliegue dirigido y una optimización continua a medida que evolucionan los flujos de trabajo clínicos.”"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "synsight-synthetic-rdt",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "합성 이미지로 AI가\n신속진단검사 읽는다",
-      "body": "SynSight는 합성 데이터로 HIV 검사 민감도 98%·특이도 99%를 냈다.",
-      "mini_headline": "합성 데이터로 RDTs 판독",
+      "headline": "ML로 암 환자의\n지속 발열 예측",
+      "body": "검증된 EHR 모델이 IV 항생제 48–72시간째 암 환자의 지속 발열을 내다본다.",
+      "mini_headline": "ML, 암 환자 발열 예측",
       "tool": "Medicine",
       "source": "npj Digital Medicine",
-      "url": "https://www.nature.com/articles/s41746-026-03380-0",
-      "accent": "#2ec5c5",
+      "url": "https://www.nature.com/articles/s41746-026-03449-w",
+      "accent": "#eb367f",
       "motif": "sphere",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "p",
-            "x": "신속진단검사(RDTs)는 질병을 저렴하게 진단하도록 돕는다. 머신러닝(ML)으로 RDT 판독을 개선할 수는 있지만 대개 크고 독점적이며 비싼 실제 이미지 라이브러리가 있어야 한다."
+            "x": "입원한 암 환자는 정맥 항생제를 맞기 시작한 뒤에도 열이 이어지는 일이 흔한데, 그러면 추가 영상 검사와 항균제 강화로 이어지곤 한다. 연구진은 두 대학병원의 전자건강기록으로 항생제 투여 48–72시간 뒤 지속 발열을 예측하는 머신러닝 모델을 만들고 외부 검증까지 마쳤다."
+          },
+          {
+            "t": "img",
+            "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03449-w/MediaObjects/41746_2026_3449_Fig1_HTML.png",
+            "cap": "Fig. 1: UME 및 BWH 데이터셋의 코호트 추출 단계를 보여 주는 흐름도."
           },
           {
             "t": "p",
-            "x": "우리가 소개하는 SynSight는 합성 데이터로 학습한 ML 기반(ML-enabled) RDT 분할·분류 파이프라인이다. SynSight는 HIV(민감도 98%, 특이도 99%)와 COVID-19 RDTs(정확도 최대 99%)에서 검증됐고 실제 학습 이미지 없이도 ML을 빠르게 학습시켜 새 RDT가 개발되는 속도를 따라갈 수 있다."
+            "x": "최종 코호트는 University Medicine Essen(UME) 입원 987건과 Brigham and Women’s Hospital(BWH) 입원 7409건이었다. 가장 성능이 좋은 모델의 AUROC는 내부 검증 0.82(95% CI 0.79–0.84), 외부 검증 0.78(95% CI 0.77–0.79)이었다. 핵심 예측 인자는 체온 관련 변수였다."
+          },
+          {
+            "t": "img",
+            "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03449-w/MediaObjects/41746_2026_3449_Fig2_HTML.png",
+            "cap": "Fig. 2: 내부(UME) 및 외부(BWH) 검증 코호트에서 본 예측 모델의 판별력, 임상적 유용성, 보정."
+          },
+          {
+            "t": "p",
+            "x": "항생제 강화와 흉부 CT 촬영의 약 사분의 일은 발열이 지속되지 않으리라고 정확히 예측된 환자에게 이뤄졌다. 임상에서는 단독 배제 판단에 쓰지 말고 보조 수단으로만 써야 하며, 전향적 연구가 필요하다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Synthetic images train AI\nto read rapid diagnostic tests",
-          "body": "SynSight, trained on synthetic data, read HIV rapid tests with 98% sensitivity and 99% specificity.",
-          "mini_headline": "Synthetic data reads RDTs",
+          "headline": "Predicting persistent fever\nin cancer patients with ML",
+          "body": "Externally validated EHR models predict which cancer patients stay febrile 48–72 hours into IV antibiotics.",
+          "mini_headline": "ML predicts cancer fever",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Rapid diagnostic tests (RDTs) support affordable disease diagnosis. Machine learning (ML) can improve RDT interpretation but often relies on large, proprietary, and costly real-world image libraries."
+                "x": "Persistent fever after initiating intravenous antibiotics is common in hospitalized patients with cancer and often leads to additional imaging and antimicrobial escalation. The researchers developed and externally validated machine learning models to predict persistent fever 48–72 h after antibiotic initiation using electronic health records from two academic hospitals."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03449-w/MediaObjects/41746_2026_3449_Fig1_HTML.png",
+                "cap": "Fig. 1: Flow diagram illustrating the cohort extraction steps for the UME and BWH datasets."
               },
               {
                 "t": "p",
-                "x": "We present SynSight – a ML-enabled RDT segmentation and classification pipeline trained on synthetic data. Validated on HIV (98% sensitivity, 99% specificity) and COVID-19 RDTs (up to 99% accuracy), SynSight enables rapid ML training without real-world training images, keeping pace with new RDT development."
+                "x": "Final cohorts comprised 987 hospital stays at University Medicine Essen (UME) and 7409 hospital stays at Brigham and Women’s Hospital (BWH). The best-performing model achieved an AUROC of 0.82 (95% CI 0.79–0.84) internally and 0.78 (95% CI 0.77–0.79) externally. Temperature-related variables were the dominant predictors."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03449-w/MediaObjects/41746_2026_3449_Fig2_HTML.png",
+                "cap": "Fig. 2: Discrimination, clinical utility, and calibration of prediction models in the internal (UME) and external (BWH) validation cohorts."
+              },
+              {
+                "t": "p",
+                "x": "Approximately one quarter of antibiotic escalations and chest CT scans occurred in patients correctly predicted not to remain febrile. Clinical use should be limited to an adjunctive role rather than standalone rule-out decision-making, and prospective studies are required."
               }
             ]
           }
         },
         "ko": {
-          "headline": "합성 이미지로 AI가\n신속진단검사 읽는다",
-          "body": "SynSight는 합성 데이터로 HIV 검사 민감도 98%·특이도 99%를 냈다.",
-          "mini_headline": "합성 데이터로 RDTs 판독",
+          "headline": "ML로 암 환자의\n지속 발열 예측",
+          "body": "검증된 EHR 모델이 IV 항생제 48–72시간째 암 환자의 지속 발열을 내다본다.",
+          "mini_headline": "ML, 암 환자 발열 예측",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "신속진단검사(RDTs)는 질병을 저렴하게 진단하도록 돕는다. 머신러닝(ML)으로 RDT 판독을 개선할 수는 있지만 대개 크고 독점적이며 비싼 실제 이미지 라이브러리가 있어야 한다."
+                "x": "입원한 암 환자는 정맥 항생제를 맞기 시작한 뒤에도 열이 이어지는 일이 흔한데, 그러면 추가 영상 검사와 항균제 강화로 이어지곤 한다. 연구진은 두 대학병원의 전자건강기록으로 항생제 투여 48–72시간 뒤 지속 발열을 예측하는 머신러닝 모델을 만들고 외부 검증까지 마쳤다."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03449-w/MediaObjects/41746_2026_3449_Fig1_HTML.png",
+                "cap": "Fig. 1: UME 및 BWH 데이터셋의 코호트 추출 단계를 보여 주는 흐름도."
               },
               {
                 "t": "p",
-                "x": "우리가 소개하는 SynSight는 합성 데이터로 학습한 ML 기반(ML-enabled) RDT 분할·분류 파이프라인이다. SynSight는 HIV(민감도 98%, 특이도 99%)와 COVID-19 RDTs(정확도 최대 99%)에서 검증됐고 실제 학습 이미지 없이도 ML을 빠르게 학습시켜 새 RDT가 개발되는 속도를 따라갈 수 있다."
+                "x": "최종 코호트는 University Medicine Essen(UME) 입원 987건과 Brigham and Women’s Hospital(BWH) 입원 7409건이었다. 가장 성능이 좋은 모델의 AUROC는 내부 검증 0.82(95% CI 0.79–0.84), 외부 검증 0.78(95% CI 0.77–0.79)이었다. 핵심 예측 인자는 체온 관련 변수였다."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03449-w/MediaObjects/41746_2026_3449_Fig2_HTML.png",
+                "cap": "Fig. 2: 내부(UME) 및 외부(BWH) 검증 코호트에서 본 예측 모델의 판별력, 임상적 유용성, 보정."
+              },
+              {
+                "t": "p",
+                "x": "항생제 강화와 흉부 CT 촬영의 약 사분의 일은 발열이 지속되지 않으리라고 정확히 예측된 환자에게 이뤄졌다. 임상에서는 단독 배제 판단에 쓰지 말고 보조 수단으로만 써야 하며, 전향적 연구가 필요하다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "合成画像で学ぶAIが\n迅速診断検査を判定",
-          "body": "合成データで学んだSynSightはHIV迅速検査を感度98%、特異度99%で判定した。",
-          "mini_headline": "合成データでRDTsを判定",
+          "headline": "MLでがん患者の\n持続発熱を予測",
+          "body": "外部検証したEHRモデルがIV抗菌薬開始48–72時間後も発熱が続くがん患者を予測する。",
+          "mini_headline": "MLでがん患者の発熱予測",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "迅速診断検査（RDTs）は安価な疾病診断を支える。機械学習（ML）はRDTの判定を改善しうるが、多くの場合、大規模で独占的かつ高価な実世界の画像ライブラリに依存している。"
+                "x": "入院中のがん患者では、静脈内抗菌薬の投与開始後も発熱が続くことが多く、追加の画像検査や抗菌薬の強化につながりやすい。研究チームは二つの大学病院の電子健康記録を用い、抗菌薬開始から48–72時間後の持続発熱を予測する機械学習モデルを開発し、外部検証を行った。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03449-w/MediaObjects/41746_2026_3449_Fig1_HTML.png",
+                "cap": "Fig. 1: UMEおよびBWHデータセットのコホート抽出手順を示すフロー図。"
               },
               {
                 "t": "p",
-                "x": "我々は、合成データで学習したML-enabled（ML対応）のRDTセグメンテーション・分類パイプラインSynSightを提示する。HIV（感度98%、特異度99%）およびCOVID-19 RDTs（最大99%の精度）で検証されたSynSightは、実世界の学習画像なしに迅速なML学習を可能にし、新たなRDT開発のペースに追随できる。"
+                "x": "最終コホートは、University Medicine Essen（UME）の入院987件と、Brigham and Women’s Hospital（BWH）の入院7409件で構成された。最も性能の高いモデルのAUROCは、内部検証で0.82（95% CI 0.79–0.84）、外部検証で0.78（95% CI 0.77–0.79）だった。体温関連の変数が主要な予測因子だった。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03449-w/MediaObjects/41746_2026_3449_Fig2_HTML.png",
+                "cap": "Fig. 2: 内部（UME）および外部（BWH）検証コホートにおける予測モデルの識別能、臨床的有用性、較正。"
+              },
+              {
+                "t": "p",
+                "x": "抗菌薬の強化と胸部CT検査のおよそ四分の一は、発熱が続かないと正しく予測された患者で行われていた。臨床での利用は単独の除外判断ではなく補助的な役割にとどめるべきであり、前向き研究が必要である。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "合成图像训练AI\n判读快速诊断检测",
-          "body": "基于合成数据训练的SynSight判读HIV快速检测，灵敏度98%，特异度99%。",
-          "mini_headline": "合成数据判读RDTs",
+          "headline": "用ML预测癌症\n患者持续发热",
+          "body": "经外部验证的EHR模型可预测哪些癌症患者在IV抗生素治疗48–72小时后仍发热。",
+          "mini_headline": "ML预测癌症患者发热",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "快速诊断检测（RDTs）有助于实现低成本的疾病诊断。机器学习（ML）可以改进RDT判读，但往往依赖大型、专有且昂贵的真实世界图像库。"
+                "x": "住院癌症患者在开始静脉抗生素治疗后持续发热很常见，常导致额外的影像检查和抗菌药物升级。研究人员利用两家学术医院的电子健康记录，开发并外部验证了预测抗生素开始后48–72小时持续发热的机器学习模型。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03449-w/MediaObjects/41746_2026_3449_Fig1_HTML.png",
+                "cap": "Fig. 1: UME与BWH数据集队列提取步骤流程图。"
               },
               {
                 "t": "p",
-                "x": "我们提出SynSight——一个基于合成数据训练的ML-enabled RDT分割与分类流程。SynSight已在HIV（灵敏度98%，特异度99%）和COVID-19 RDTs（准确率最高99%）上得到验证，无需真实世界训练图像即可快速完成ML训练，跟上新RDT的开发节奏。"
+                "x": "最终队列包括University Medicine Essen（UME）的987次住院和Brigham and Women’s Hospital（BWH）的7409次住院。表现最佳的模型内部AUROC为0.82（95% CI 0.79–0.84），外部为0.78（95% CI 0.77–0.79）。体温相关变量是最主要的预测因子。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03449-w/MediaObjects/41746_2026_3449_Fig2_HTML.png",
+                "cap": "Fig. 2: 预测模型在内部（UME）和外部（BWH）验证队列中的区分度、临床效用与校准。"
+              },
+              {
+                "t": "p",
+                "x": "约四分之一的抗菌药物升级和胸部CT检查发生在被正确预测不会持续发热的患者身上。临床应用应仅限于辅助角色，而非单独用于排除决策，且仍需前瞻性研究。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Imágenes sintéticas enseñan\na la AI a leer pruebas rápidas",
-          "body": "SynSight, entrenado con datos sintéticos, leyó pruebas rápidas de HIV con 98% de sensibilidad y 99% de especificidad.",
-          "mini_headline": "Datos sintéticos leen RDTs",
+          "headline": "Predecir la fiebre persistente\nen pacientes con cáncer con ML",
+          "body": "Modelos de EHR, validados externamente, predicen la fiebre persistente en cáncer a 48–72 horas de antibióticos IV.",
+          "mini_headline": "ML predice la fiebre en cáncer",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Las pruebas de diagnóstico rápido (RDTs) facilitan un diagnóstico asequible de enfermedades. El aprendizaje automático (ML) puede mejorar la interpretación de las RDT, pero a menudo depende de bibliotecas de imágenes reales grandes, privadas y costosas."
+                "x": "La fiebre persistente tras iniciar antibióticos intravenosos es frecuente en pacientes hospitalizados con cáncer y a menudo conlleva más pruebas de imagen y una escalada antimicrobiana. Los investigadores desarrollaron y validaron externamente modelos de aprendizaje automático para predecir la fiebre persistente 48–72 h después del inicio de los antibióticos, a partir de historias clínicas electrónicas de dos hospitales universitarios."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03449-w/MediaObjects/41746_2026_3449_Fig1_HTML.png",
+                "cap": "Fig. 1: Diagrama de flujo que ilustra los pasos de extracción de cohortes de los conjuntos de datos de UME y BWH."
               },
               {
                 "t": "p",
-                "x": "Presentamos SynSight, una canalización ML-enabled de segmentación y clasificación de RDT entrenada con datos sintéticos. Validado en pruebas de HIV (98% de sensibilidad, 99% de especificidad) y en RDTs de COVID-19 (hasta 99% de exactitud), SynSight permite un entrenamiento rápido de ML sin imágenes reales de entrenamiento, al ritmo del desarrollo de nuevas RDT."
+                "x": "Las cohortes finales incluyeron 987 estancias hospitalarias en University Medicine Essen (UME) y 7409 en Brigham and Women’s Hospital (BWH). El modelo con mejor rendimiento alcanzó un AUROC de 0.82 (95% CI 0.79–0.84) en la validación interna y de 0.78 (95% CI 0.77–0.79) en la externa. Las variables relacionadas con la temperatura fueron los predictores dominantes."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03449-w/MediaObjects/41746_2026_3449_Fig2_HTML.png",
+                "cap": "Fig. 2: Discriminación, utilidad clínica y calibración de los modelos de predicción en las cohortes de validación interna (UME) y externa (BWH)."
+              },
+              {
+                "t": "p",
+                "x": "Aproximadamente una cuarta parte de las escaladas antibióticas y de las CT de tórax se produjeron en pacientes en quienes se predijo correctamente que no seguirían con fiebre. El uso clínico debería limitarse a un papel complementario y no a decisiones de descarte independientes, y se necesitan estudios prospectivos."
               }
             ]
           }
@@ -1289,73 +1333,129 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "합성 이미지로 AI가\n신속진단검사 읽는다",
-          "body": "SynSight는 합성 데이터로 HIV 검사 민감도 98%·특이도 99%를 냈다.",
-          "mini_headline": "합성 데이터로 RDTs 판독",
+          "headline": "ML로 암 환자의\n지속 발열 예측",
+          "body": "검증된 EHR 모델이 IV 항생제 48–72시간째 암 환자 지속 발열을 예측한다.",
+          "mini_headline": "ML, 암 환자 발열 예측",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "신속진단검사(RDTs)는 저렴한 질병 진단을 돕는다. 머신러닝(ML)은 RDT 판독을 개선할 수 있지만, 대개 크고 독점적이며 비싼 실제 이미지 라이브러리에 의존한다."
+                "x": "입원한 암 환자는 정맥 항생제 투여를 시작한 뒤에도 발열이 이어지는 일이 흔하며, 이는 추가 영상 검사와 항균제 강화로 이어지곤 한다. 연구진은 두 대학병원의 전자건강기록을 바탕으로 항생제 투여 48–72시간 뒤의 지속 발열을 예측하는 머신러닝 모델을 개발하고 외부 검증했다."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03449-w/MediaObjects/41746_2026_3449_Fig1_HTML.png",
+                "cap": "Fig. 1: UME 및 BWH 데이터셋의 코호트 추출 단계를 보여 주는 흐름도."
               },
               {
                 "t": "p",
-                "x": "우리는 합성 데이터로 학습한 ML 기반(ML-enabled) RDT 분할·분류 파이프라인 SynSight를 소개한다. HIV(민감도 98%, 특이도 99%)와 COVID-19 RDTs(정확도 최대 99%)에서 검증된 SynSight는 실제 학습 이미지 없이도 빠르게 ML을 학습시켜 새로운 RDT 개발 속도에 발맞출 수 있게 한다."
+                "x": "최종 코호트는 University Medicine Essen(UME)의 입원 987건과 Brigham and Women’s Hospital(BWH)의 입원 7409건이었다. 성능이 가장 좋은 모델의 AUROC는 내부 검증에서 0.82(95% CI 0.79–0.84), 외부 검증에서 0.78(95% CI 0.77–0.79)이었다. 체온 관련 변수가 핵심 예측 인자였다."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03449-w/MediaObjects/41746_2026_3449_Fig2_HTML.png",
+                "cap": "Fig. 2: 내부(UME) 및 외부(BWH) 검증 코호트에서 본 예측 모델의 판별력, 임상적 유용성, 보정."
+              },
+              {
+                "t": "p",
+                "x": "항생제 강화와 흉부 CT 촬영의 약 사분의 일은 발열이 지속되지 않으리라고 정확히 예측된 환자에게서 이뤄졌다. 임상에서는 단독 배제 판단이 아닌 보조 역할로 쓰임을 제한해야 하며, 전향적 연구가 필요하다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "合成画像で学ぶAIが\n迅速診断検査を判定",
-          "body": "合成データで学んだSynSightはHIV迅速検査を感度98%、特異度99%で判定した。",
-          "mini_headline": "合成データでRDTsを判定",
+          "headline": "MLでがん患者の\n持続発熱を予測",
+          "body": "外部検証したEHRモデルがIV抗菌薬開始48–72時間後も発熱が続くがん患者を予測する。",
+          "mini_headline": "MLでがん患者の発熱予測",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "迅速診断検査（RDTs）は安価な疾病診断を支える。機械学習（ML）はRDTの判定を改善しうるが、多くの場合、大規模で独占的かつ高価な実世界の画像ライブラリに依存している。"
+                "x": "入院中のがん患者では、静脈内抗菌薬の投与開始後も発熱が続くことが多く、追加の画像検査や抗菌薬の強化につながりやすい。研究チームは二つの大学病院の電子健康記録を用い、抗菌薬開始から48–72時間後の持続発熱を予測する機械学習モデルを開発し、外部検証を行った。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03449-w/MediaObjects/41746_2026_3449_Fig1_HTML.png",
+                "cap": "Fig. 1: UMEおよびBWHデータセットのコホート抽出手順を示すフロー図。"
               },
               {
                 "t": "p",
-                "x": "我々は、合成データで学習したML-enabled（ML対応）のRDTセグメンテーション・分類パイプラインSynSightを提示する。HIV（感度98%、特異度99%）およびCOVID-19 RDTs（最大99%の精度）で検証されたSynSightは、実世界の学習画像なしに迅速なML学習を可能にし、新たなRDT開発のペースに追随できる。"
+                "x": "最終コホートは、University Medicine Essen（UME）の入院987件と、Brigham and Women’s Hospital（BWH）の入院7409件で構成された。最も性能の高いモデルのAUROCは、内部検証で0.82（95% CI 0.79–0.84）、外部検証で0.78（95% CI 0.77–0.79）だった。体温関連の変数が主要な予測因子だった。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03449-w/MediaObjects/41746_2026_3449_Fig2_HTML.png",
+                "cap": "Fig. 2: 内部（UME）および外部（BWH）検証コホートにおける予測モデルの識別能、臨床的有用性、較正。"
+              },
+              {
+                "t": "p",
+                "x": "抗菌薬の強化と胸部CT検査のおよそ四分の一は、発熱が続かないと正しく予測された患者で行われていた。臨床での利用は単独の除外判断ではなく補助的な役割にとどめるべきであり、前向き研究が必要である。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "合成图像训练AI\n判读快速诊断检测",
-          "body": "基于合成数据训练的SynSight判读HIV快速检测，灵敏度98%，特异度99%。",
-          "mini_headline": "合成数据判读RDTs",
+          "headline": "用ML预测癌症\n患者持续发热",
+          "body": "经外部验证的EHR模型可预测哪些癌症患者在IV抗生素治疗48–72小时后仍发热。",
+          "mini_headline": "ML预测癌症患者发热",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "快速诊断检测（RDTs）有助于实现低成本的疾病诊断。机器学习（ML）可以改进RDT判读，但往往依赖大型、专有且昂贵的真实世界图像库。"
+                "x": "住院癌症患者在开始静脉抗生素治疗后持续发热很常见，常导致额外的影像检查和抗菌药物升级。研究人员利用两家学术医院的电子健康记录，开发并外部验证了预测抗生素开始后48–72小时持续发热的机器学习模型。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03449-w/MediaObjects/41746_2026_3449_Fig1_HTML.png",
+                "cap": "Fig. 1: UME与BWH数据集队列提取步骤流程图。"
               },
               {
                 "t": "p",
-                "x": "我们提出SynSight——一个基于合成数据训练的ML-enabled RDT分割与分类流程。SynSight已在HIV（灵敏度98%，特异度99%）和COVID-19 RDTs（准确率最高99%）上得到验证，无需真实世界训练图像即可快速完成ML训练，跟上新RDT的开发节奏。"
+                "x": "最终队列包括University Medicine Essen（UME）的987次住院和Brigham and Women’s Hospital（BWH）的7409次住院。表现最佳的模型内部AUROC为0.82（95% CI 0.79–0.84），外部为0.78（95% CI 0.77–0.79）。体温相关变量是最主要的预测因子。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03449-w/MediaObjects/41746_2026_3449_Fig2_HTML.png",
+                "cap": "Fig. 2: 预测模型在内部（UME）和外部（BWH）验证队列中的区分度、临床效用与校准。"
+              },
+              {
+                "t": "p",
+                "x": "约四分之一的抗菌药物升级和胸部CT检查发生在被正确预测不会持续发热的患者身上。临床应用应仅限于辅助角色，而非单独用于排除决策，且仍需前瞻性研究。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Imágenes sintéticas enseñan\na la AI a leer pruebas rápidas",
-          "body": "SynSight, entrenado con datos sintéticos, leyó pruebas rápidas de HIV con 98% de sensibilidad y 99% de especificidad.",
-          "mini_headline": "Datos sintéticos leen RDTs",
+          "headline": "Predecir la fiebre persistente\nen pacientes con cáncer con ML",
+          "body": "Modelos de EHR, validados externamente, predicen la fiebre persistente en cáncer a 48–72 horas de antibióticos IV.",
+          "mini_headline": "ML predice la fiebre en cáncer",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Las pruebas de diagnóstico rápido (RDTs) facilitan un diagnóstico asequible de enfermedades. El aprendizaje automático (ML) puede mejorar la interpretación de las RDT, pero a menudo depende de bibliotecas de imágenes reales grandes, privadas y costosas."
+                "x": "La fiebre persistente tras iniciar antibióticos intravenosos es frecuente en pacientes hospitalizados con cáncer y a menudo conlleva más pruebas de imagen y una escalada antimicrobiana. Los investigadores desarrollaron y validaron externamente modelos de aprendizaje automático para predecir la fiebre persistente 48–72 h después del inicio de los antibióticos, a partir de historias clínicas electrónicas de dos hospitales universitarios."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03449-w/MediaObjects/41746_2026_3449_Fig1_HTML.png",
+                "cap": "Fig. 1: Diagrama de flujo que ilustra los pasos de extracción de cohortes de los conjuntos de datos de UME y BWH."
               },
               {
                 "t": "p",
-                "x": "Presentamos SynSight, una canalización ML-enabled de segmentación y clasificación de RDT entrenada con datos sintéticos. Validado en pruebas de HIV (98% de sensibilidad, 99% de especificidad) y en RDTs de COVID-19 (hasta 99% de exactitud), SynSight permite un entrenamiento rápido de ML sin imágenes reales de entrenamiento, al ritmo del desarrollo de nuevas RDT."
+                "x": "Las cohortes finales incluyeron 987 estancias hospitalarias en University Medicine Essen (UME) y 7409 en Brigham and Women’s Hospital (BWH). El modelo con mejor rendimiento alcanzó un AUROC de 0.82 (95% CI 0.79–0.84) en la validación interna y de 0.78 (95% CI 0.77–0.79) en la externa. Las variables relacionadas con la temperatura fueron los predictores dominantes."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03449-w/MediaObjects/41746_2026_3449_Fig2_HTML.png",
+                "cap": "Fig. 2: Discriminación, utilidad clínica y calibración de los modelos de predicción en las cohortes de validación interna (UME) y externa (BWH)."
+              },
+              {
+                "t": "p",
+                "x": "Aproximadamente una cuarta parte de las escaladas antibióticas y de las CT de tórax se produjeron en pacientes en quienes se predijo correctamente que no seguirían con fiebre. El uso clínico debería limitarse a un papel complementario y no a decisiones de descarte independientes, y se necesitan estudios prospectivos."
               }
             ]
           }

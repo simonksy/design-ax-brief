@@ -9880,6 +9880,136 @@
           "x": "DJ 现在新增了八种不同口音的英语声音选项，以及两种新的西班牙语声音，方便你按喜好定制体验。如果你听腻了 Spotify DJ 在歌曲之间的解说，也可以将其关闭，让音乐播放时少些打断。"
         }
       ]
+    },
+    "music/stable-audio-nov-workspace": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.squarespace-cdn.com/content/v1/6213c340453c3f502425776e/2cc42a62-5083-4c7f-a86a-77f92b11a3d7/Stable_Audio_Release_Notes_Blog_Thumbnail_16x9.png"
+        },
+        {
+          "t": "p",
+          "x": "Stable Audio推出了新的工作区，把应用、项目和声音集中到一处。登录后首先进入Home；在Library中可以浏览和整理在Stable Audio各个应用中创作的全部内容。"
+        },
+        {
+          "t": "img",
+          "src": "https://images.squarespace-cdn.com/content/v1/6213c340453c3f502425776e/8480d97a-11fe-4346-b14f-13140df9b932/generate-01-overview.png",
+          "cap": "Generate"
+        },
+        {
+          "t": "p",
+          "x": "新的Generate应用是开始制作音乐和音效的地方。可以用文字输入提示，也可以在代表流派、风格和乐器的混音器中加入不同的“paints”，以可视化方式进行描述。使用Lens可以修剪、添加淡入淡出、替换片段或延长一段录音；每次编辑都会生成一个新版本。"
+        },
+        {
+          "t": "img",
+          "src": "https://images.squarespace-cdn.com/content/v1/6213c340453c3f502425776e/5fc8930d-54b7-4592-b497-a23ffe634e50/sampler-02-pack.png",
+          "cap": "Sampler"
+        },
+        {
+          "t": "p",
+          "x": "Sampler用于制作成套的短采样、循环或鼓组。从“techno risers”这样的提示开始，最多可生成八个变体，或生成一套包含八个单次采样的完整鼓组。其步进音序器可在16-step网格上为最多八种乐器编程，模式长度最多32小节。"
+        },
+        {
+          "t": "p",
+          "x": "Labs是面向实验性测试版应用的新空间。处于测试阶段的多轨应用Sessions现已移至此处，提供Full mix模式或可编辑的八轨音轨台。所有功能均由商业上安全的模型驱动，生成内容归用户所有。"
+        }
+      ]
+    },
+    "music/elevenlabs-voice-restoration-music": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://eleven-public-cdn.elevenlabs.io/payloadcms/hzu606cgpup-2304662705.webp"
+        },
+        {
+          "t": "p",
+          "x": "纽约教育工作者Greg Kellner的歌声在2019年因脑癌而失去，他借助旧录音，通过ElevenMusic重现了自己的歌声。Abdi Omar因脑瘫从未拥有过说话的声音，他用ElevenLabs Voice Designer设计了自己的声音，如今以说唱艺人的身份使用ElevenMusic。"
+        },
+        {
+          "t": "p",
+          "x": "11月11日，在ElevenLabs New York Summit上，两人用各自的ElevenMusic歌声演唱了新歌。永久失声的人现在可以免费使用ElevenMusic；该项目与Songwriters of North America（SONA）合作推出，并由SONA审核资格。"
+        },
+        {
+          "t": "p",
+          "x": "“声音修复从来不只是满足基本需求，更是要在一切让我们成为人的方面，真正被听见。”ElevenLabs影响力负责人（Head of Impact）Gabi Leibowitz说。"
+        },
+        {
+          "t": "p",
+          "x": "Wounded Warrior Project被宣布成为Impact Program合作伙伴，NYU Langone Health则加入了1 Million Voices。这是ElevenLabs价值$1B 的实物捐助承诺，已帮助超过11,000人重新用自己的声音说话。"
+        }
+      ]
+    },
+    "music/ringo-charlie-whatsapp-sync": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-26.png?fit=2000%2C1500&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "自2023年首轮融资、2025年推出AI-powered授权平台以来，我们一直关注荷兰同步技术初创公司Ringo的进展。如今，它发布了最新功能：一款名为Charlie的AI助手。"
+        },
+        {
+          "t": "p",
+          "x": "她（没错，Ringo的公告特意指定了这个代词）被设计为完全在WhatsApp内运行，负责接收客户提问，之后可交由Ringo团队处理。"
+        }
+      ]
+    },
+    "music/knxwledge-streaming-app-takedowns": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.complex.com/complex/image/upload/c_crop,h_1910,w_2939,x_0,y_0/g_auto:aoi_1176_764_588_382,ar_1.91,c_fill,q_auto,w_1200/sanity-new/ehkmatoir85wnox3ljc2"
+        },
+        {
+          "t": "p",
+          "x": "周二（Nov. 10），格莱美获奖（Grammy-winning）制作人Knxwledge在X上宣布推出自己的iOS流媒体应用，让粉丝可以收听他的全部作品目录和未来新作。此前数月，他的作品不断从流媒体平台上消失。"
+        },
+        {
+          "t": "p",
+          "x": "据这位制作人说，被下架的部分作品发行时间比人工智能音乐生成工具普及还要早好几年。"
+        },
+        {
+          "t": "p",
+          "x": "他解释道：\"OVER THE PAST FEW MONTHS DISTRIBUTORS HAVE TAKEN DOWN RECORDS IV'E MADE AND RELEASED YEARS BEFORE AI WAS EVEN AVAILABLE TO THE PUBLIC,\"（过去几个月，发行商下架了我在AI向公众开放之前好几年就制作并发行的唱片） \"ALL THOSE RECORDS CLEARLY HAVE RELEASE DATES, APPARENTLY THE PEOPLE REVIEWING THEM DON'T CARE OR HAVE THE TIME TO DIFFERENTIATE.\"（这些唱片都清楚标着发行日期，显然审核的人根本不在乎，或者没时间去分辨。）"
+        },
+        {
+          "t": "p",
+          "x": "该应用收录了他的完整作品目录，他说这些都由他亲自重新做了母带处理。Android版本预计稍后推出，他引导粉丝前往他的Discord服务器获取最新消息。"
+        }
+      ]
+    },
+    "music/ace-studio-music-v1": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/AI-music-decrypt-style-03-gID_7.jpg"
+        },
+        {
+          "t": "p",
+          "x": "由ACE Studio开发的ACE Music v1在Artificial Analysis的人声音乐榜单上位居榜首，以1,160 Elo分领先Suno v6的1,144分。AA-Music-Vocal v1.1基准测试让评测者在不知道由哪个模型生成的情况下，试听用相同提示词生成的曲目，并选出自己更喜欢的作品。"
+        },
+        {
+          "t": "img",
+          "src": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://imagedelivery.net/YN1-rdnufJQJCgu3i1CbVw/MfUFfyR49NwW4OCFj1yIR9UB6An2rQPWYPKjJXYgzSA/public@webp"
+        },
+        {
+          "t": "p",
+          "x": "领先优势相对较小，两个模型的统计置信区间存在重叠。在另一份器乐音乐榜单上，Suno仍保持榜首位置。"
+        },
+        {
+          "t": "p",
+          "x": "在Decrypt的实测中，ACE Music在主流风格上生成的歌曲旋律性更强、结构更连贯，人声更自然，结尾也更干净。在旋律死亡金属等不那么常规的曲风上，Suno仍占优势。"
+        },
+        {
+          "t": "p",
+          "x": "其“Idea”功能可以把一个基本构想发展成歌词和结构完整的作品；v1.1 Preview会在生成音频前先创建乐谱，用户可以编辑旋律与和弦、导出MIDI文件，并分离人声与乐器。"
+        },
+        {
+          "t": "p",
+          "x": "旗舰模型仍为闭源，也没有公开API。ACE Studio与StepFun已经发布了开放的ACE-Step 1.5，开发者表示：“我们计划在2026年底开源ACE Music v1 Flash。”"
+        }
+      ]
     }
   }
 }

@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "section": "books",
   "cards": [
     {
-      "id": "books-caine-prize-ai-cleared",
+      "id": "upress-ai-integrity-charter",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI-accused 수상자\n케인상이 결백 확인",
-      "body": "케인상은 AI-generated 증거가 없다며 2026년 수상작을 그대로 확정했다.",
-      "mini_headline": "케인상, 수상자 결백 확인",
+      "headline": "학술 출판사들\nAI 책임 헌장에 서명",
+      "body": "26개국 학술 출판사 100곳 이상이 투명성과 책임을 앞세운 AI 헌장에 서명했다.",
+      "mini_headline": "출판사들, AI 헌장 서명",
       "tool": "Books",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmglr260z7eko",
+      "source": "Publishers Weekly",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101763-university-presses-sign-charter-promising-integrity-vigilance-over-ai.html",
       "accent": "#f5a623",
       "motif": "swatch",
       "full": {
@@ -19,179 +19,203 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://ichef.bbci.co.uk/ace/standard/973/cpsprodpb/d560/live/9c22bcf0-ddfe-11f1-8445-15eb55286f71.jpg",
-            "cap": "하라레에 사는 Simbarashe Kundizeza는 어항을 다룬 시에서 영감을 얻어 가족의 어려움을 그린 이야기를 썼다고 말한다"
+            "src": "https://www.publishersweekly.com/images/cached/ARTICLE_PHOTO/photo/000/000/132/132825-v2-600x.JPG",
+            "cap": "U.K.(영국)의 Cambridge University Press는 University Press Charter를 함께 조직한 곳이다."
           },
           {
             "t": "p",
-            "x": "아프리카 문학상인 케인상(Caine Prize for African Writing)은 내부 검토에서 짐바브웨 작가 Simbarashe Kundizeza가 수상 단편을 쓸 때 생성형 AI를 썼다는 증거를 찾지 못했다며, 그를 올해 상금 £10,000($13,000) 수상자로 확정했다."
+            "x": "100곳이 넘는 학술 출판사가 새 University Press Charter에 서명했다. 산출량보다 품질을 앞세우고 출판 과정을 투명하게 하며 “인공지능에 대한 책임 있는 접근법을 개발”하겠다는 약속이다."
           },
           {
             "t": "p",
-            "x": "검토의 발단은 저널리스트 Vauhini Vara가 미국(US) 잡지 The Atlantic에 쓴 기사다. 기사는 AI-detection 소프트웨어 Pangram 분석을 근거로 그의 작품이 전부 AI로 생성됐다고 주장했다. Kundizeza는 의혹을 부인했다. 의혹은 소셜미디어에서 큰 논란이 됐고, 일부 아프리카 작가들은 이런 의혹이 주로 비백인 작가를 겨냥한다고 지적했다."
+            "x": "U.K.의 Cambridge University Press와 Bristol University Press가 작업을 이끌었고 University Press Week에 맞춰 출범했다. U.S.에서는 27곳이 서명했다. Amherst, Baylor, Columbia, Duke, Fordham, Johns Hopkins, MIT, Princeton, Rutgers, SUNY, University of California의 대학 출판부가 이름을 올렸다."
           },
           {
             "t": "p",
-            "x": "케인상 이사회 의장 Ellah Wakatama는 “면밀한 조사 결과 증거는 분명하다고 본다. The Blue Fighter는 사람이 쓴 작품이다”라고 말했다. 검토에는 작가와 2026년 심사위원단, 작품을 처음 실은 Shallow Tales Review 인터뷰가 들어갔다. 사이버 보안·디지털 포렌식 조사관이 작가 초고의 메타데이터를 독립적으로 분석한 전문 결과도 반영됐다."
+            "x": "주최 측은 대학 출판부들이 공동의 약속으로 뭉친 건 이번이 처음이라고 했다. 학술 출판계는 논문 생산량 급증, 일부 출판사의 허술한 동료 심사, 출판된 연구를 향한 신뢰 하락에 시달린다."
           },
           {
             "t": "p",
-            "x": "올해는 이에 앞서 Commonwealth Short Story Prize와 프랑스 공쿠르상(Goncourt) 등 다른 문학상에서도 분쟁이 벌어졌다."
+            "x": "“더 많은 논문이 더 빠르게 만들어지고, 일부 출판사가 엄격한 동료 심사를 우선하지 않으면서 콘텐츠에 대한 신뢰가 줄어드는 실제 위험이 나타나고 있다. 무언가 바뀌어야 한다.” Cambridge University Press의 Mandy Hill 대표의 말이다."
+          },
+          {
+            "t": "p",
+            "x": "지금까지 26개국 108곳이 서명했고 운영은 Association of University Presses가 맡는다. 세계 최대 대학 출판부인 Oxford University Press가 빠진 점이 눈에 띈다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Caine Prize review clears\nits AI-accused winner",
-          "body": "The Caine Prize found no evidence Simbarashe Kundizeza's winning story was AI-generated and confirmed his 2026 win.",
-          "mini_headline": "Caine Prize clears winner",
+          "headline": "Scholarly presses sign\na charter on responsible AI",
+          "body": "Over 100 scholarly publishers from 26 countries signed a charter pledging transparency and responsible approaches to AI.",
+          "mini_headline": "Presses sign an AI charter",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/standard/973/cpsprodpb/d560/live/9c22bcf0-ddfe-11f1-8445-15eb55286f71.jpg",
-                "cap": "Simbarashe Kundizeza, who lives in Harare, says he was inspired by a poem about fish tanks to write a story about his family struggles"
+                "src": "https://www.publishersweekly.com/images/cached/ARTICLE_PHOTO/photo/000/000/132/132825-v2-600x.JPG",
+                "cap": "The U.K.’s Cambridge University Press helped lead the effort to organize the University Press Charter."
               },
               {
                 "t": "p",
-                "x": "The Caine Prize for African Writing has said that after an internal review it has found no evidence that Zimbabwean writer Simbarashe Kundizeza had used generative AI to write his winning short story and confirmed him as the winner of this year's £10,000 ($13,000) award."
+                "x": "More than 100 scholarly publishers have signed a new University Press Charter, in which they commit to prioritizing quality over output, transparency in the publishing process, and “developing responsible approaches to artificial intelligence.”"
               },
               {
                 "t": "p",
-                "x": "The review followed an article in US magazine The Atlantic by journalist Vauhini Vara, which alleged that AI-detection software Pangram had shown his story was entirely AI generated. Kundizeza had denied the allegation, and the accusation caused a social media uproar, with some African writers suggesting such accusations are primarily being made against non-white writers."
+                "x": "The U.K.’s Cambridge University Press and Bristol University Press led the effort, which launched as part of University Press Week. The charter includes 27 U.S. signatories, including university presses at Amherst, Baylor, Columbia, Duke, Fordham, Johns Hopkins, MIT, Princeton, Rutgers, SUNY, and the University of California."
               },
               {
                 "t": "p",
-                "x": "\"From our detailed investigation, we feel the evidence is clear: The Blue Fighter was human written,\" said Ellah Wakatama, chair of the Caine Prize's board of trustees. The review included interviews with the author, the 2026 judging panel and the Shallow Tales Review, where the story was first published, as well as independent and expert-led metadata analysis of the author's drafts by a cyber security and digital forensic investigator."
+                "x": "According to its organizers, this is the first time university presses have rallied behind a shared set of commitments. It comes as academic publishing deals with a surge in the number of papers being produced, weak peer review at some publishers, and falling trust in published research."
               },
               {
                 "t": "p",
-                "x": "The row follows disputes over other literary prizes this year, including the Commonwealth Short Story Prize and France's Goncourt."
+                "x": "“Real risks are emerging as more papers are created more quickly, with some publishers not prioritizing rigorous peer review and as a result content is being trusted less widely. Something has to change,” said Mandy Hill, managing director of Cambridge University Press."
+              },
+              {
+                "t": "p",
+                "x": "So far, signatories comprise 108 publishers in 26 countries. The Association of University Presses hosts the charter. Notably absent is Oxford University Press, the largest university press in the world."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI-accused 수상자\n케인상이 결백 확인",
-          "body": "케인상은 AI-generated 증거가 없다며 2026년 수상작을 그대로 확정했다.",
-          "mini_headline": "케인상, 수상자 결백 확인",
+          "headline": "학술 출판사들\nAI 책임 헌장에 서명",
+          "body": "26개국 학술 출판사 100곳 이상이 투명성과 책임을 앞세운 AI 헌장에 서명했다.",
+          "mini_headline": "출판사들, AI 헌장 서명",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/standard/973/cpsprodpb/d560/live/9c22bcf0-ddfe-11f1-8445-15eb55286f71.jpg",
-                "cap": "하라레에 사는 Simbarashe Kundizeza는 어항을 다룬 시에서 영감을 얻어 가족의 어려움을 그린 이야기를 썼다고 말한다"
+                "src": "https://www.publishersweekly.com/images/cached/ARTICLE_PHOTO/photo/000/000/132/132825-v2-600x.JPG",
+                "cap": "U.K.(영국)의 Cambridge University Press는 University Press Charter를 함께 조직한 곳이다."
               },
               {
                 "t": "p",
-                "x": "아프리카 문학상인 케인상(Caine Prize for African Writing)은 내부 검토에서 짐바브웨 작가 Simbarashe Kundizeza가 수상 단편을 쓸 때 생성형 AI를 썼다는 증거를 찾지 못했다며, 그를 올해 상금 £10,000($13,000) 수상자로 확정했다."
+                "x": "100곳이 넘는 학술 출판사가 새 University Press Charter에 서명했다. 산출량보다 품질을 앞세우고 출판 과정을 투명하게 하며 “인공지능에 대한 책임 있는 접근법을 개발”하겠다는 약속이다."
               },
               {
                 "t": "p",
-                "x": "검토의 발단은 저널리스트 Vauhini Vara가 미국(US) 잡지 The Atlantic에 쓴 기사다. 기사는 AI-detection 소프트웨어 Pangram 분석을 근거로 그의 작품이 전부 AI로 생성됐다고 주장했다. Kundizeza는 의혹을 부인했다. 의혹은 소셜미디어에서 큰 논란이 됐고, 일부 아프리카 작가들은 이런 의혹이 주로 비백인 작가를 겨냥한다고 지적했다."
+                "x": "U.K.의 Cambridge University Press와 Bristol University Press가 작업을 이끌었고 University Press Week에 맞춰 출범했다. U.S.에서는 27곳이 서명했다. Amherst, Baylor, Columbia, Duke, Fordham, Johns Hopkins, MIT, Princeton, Rutgers, SUNY, University of California의 대학 출판부가 이름을 올렸다."
               },
               {
                 "t": "p",
-                "x": "케인상 이사회 의장 Ellah Wakatama는 “면밀한 조사 결과 증거는 분명하다고 본다. The Blue Fighter는 사람이 쓴 작품이다”라고 말했다. 검토에는 작가와 2026년 심사위원단, 작품을 처음 실은 Shallow Tales Review 인터뷰가 들어갔다. 사이버 보안·디지털 포렌식 조사관이 작가 초고의 메타데이터를 독립적으로 분석한 전문 결과도 반영됐다."
+                "x": "주최 측은 대학 출판부들이 공동의 약속으로 뭉친 건 이번이 처음이라고 했다. 학술 출판계는 논문 생산량 급증, 일부 출판사의 허술한 동료 심사, 출판된 연구를 향한 신뢰 하락에 시달린다."
               },
               {
                 "t": "p",
-                "x": "올해는 이에 앞서 Commonwealth Short Story Prize와 프랑스 공쿠르상(Goncourt) 등 다른 문학상에서도 분쟁이 벌어졌다."
+                "x": "“더 많은 논문이 더 빠르게 만들어지고, 일부 출판사가 엄격한 동료 심사를 우선하지 않으면서 콘텐츠에 대한 신뢰가 줄어드는 실제 위험이 나타나고 있다. 무언가 바뀌어야 한다.” Cambridge University Press의 Mandy Hill 대표의 말이다."
+              },
+              {
+                "t": "p",
+                "x": "지금까지 26개국 108곳이 서명했고 운영은 Association of University Presses가 맡는다. 세계 최대 대학 출판부인 Oxford University Press가 빠진 점이 눈에 띈다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI-accusedの受賞者\nケイン賞が潔白と認定",
-          "body": "ケイン賞は受賞作がAI-generatedとの証拠はないとし、2026年の受賞を確定した。",
-          "mini_headline": "ケイン賞、受賞者の潔白を認定",
+          "headline": "学術出版社が\n責任あるAI憲章に署名",
+          "body": "26カ国の学術出版社100社超が、透明性と責任あるAI活用を誓う憲章に署名した。",
+          "mini_headline": "出版社がAI憲章に署名",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/standard/973/cpsprodpb/d560/live/9c22bcf0-ddfe-11f1-8445-15eb55286f71.jpg",
-                "cap": "ハラレ在住のSimbarashe Kundizezaは、水槽を詠んだ詩に触発され、家族の苦境を描いた物語を書いたという"
+                "src": "https://www.publishersweekly.com/images/cached/ARTICLE_PHOTO/photo/000/000/132/132825-v2-600x.JPG",
+                "cap": "U.K.(英国)のCambridge University Pressは、University Press Charterの取りまとめを主導した出版社の一つだ。"
               },
               {
                 "t": "p",
-                "x": "ケイン賞(Caine Prize for African Writing)は、内部調査の結果、ジンバブエの作家Simbarashe Kundizezaが受賞短編の執筆に生成AIを使った証拠は見つからなかったとし、今年の賞金£10,000($13,000)の受賞者として彼を確定したと発表した。"
+                "x": "100社を超える学術出版社が新たなUniversity Press Charterに署名した。量より質を優先すること、出版プロセスの透明性、そして「人工知能への責任あるアプローチの構築」を約束する内容だ。"
               },
               {
                 "t": "p",
-                "x": "調査のきっかけは、ジャーナリストのVauhini Varaが米誌The Atlanticに寄せた記事だった。記事は、AI-detectionソフトウェアのPangramによって彼の作品が完全にAIで生成されたものと示されたと主張した。Kundizezaは疑惑を否定し、この告発はソーシャルメディアで大きな騒動を呼んだ。一部のアフリカ人作家は、こうした告発が主に非白人の作家に向けられていると指摘した。"
+                "x": "取り組みを主導したのはU.K.のCambridge University PressとBristol University Pressで、University Press Weekの一環として始まった。憲章にはU.S.の署名機関27社が名を連ね、Amherst、Baylor、Columbia、Duke、Fordham、Johns Hopkins、MIT、Princeton、Rutgers、SUNY、University of Californiaの大学出版局が含まれる。"
               },
               {
                 "t": "p",
-                "x": "ケイン賞理事会のEllah Wakatama議長は「詳細な調査の結果、証拠は明らかだと考える。The Blue Fighterは人間が書いたものだ」と述べた。調査には、作者、2026年の審査員団、作品を最初に掲載したShallow Tales Reviewへの聞き取りに加え、サイバーセキュリティとデジタルフォレンジックの調査員による、作者の草稿の独立した専門的なメタデータ分析が含まれた。"
+                "x": "主催者によれば、大学出版局が共通の約束のもとに結束するのは初めてだ。学術出版は論文数の急増、一部出版社の脆弱な査読、公表された研究への信頼低下という課題に直面している。"
               },
               {
                 "t": "p",
-                "x": "今年はほかにも、Commonwealth Short Story Prizeやフランスのゴンクール賞(Goncourt)など、文学賞をめぐる論争が起きている。"
+                "x": "「より多くの論文がより速く生み出され、一部の出版社が厳格な査読を優先しない結果、コンテンツが広く信頼されなくなるという現実のリスクが生じている。何かを変えなければならない」と、Cambridge University PressのマネージングディレクターMandy Hillは述べた。"
+              },
+              {
+                "t": "p",
+                "x": "現時点で署名したのは26カ国の108社だ。憲章はAssociation of University Pressesが運営する。世界最大の大学出版局であるOxford University Pressの名はない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI-accused获奖者\n凯恩奖确认其清白",
-          "body": "凯恩奖称无证据表明获奖作品为AI-generated，并确认其2026年获奖。",
-          "mini_headline": "凯恩奖确认获奖者清白",
+          "headline": "学术出版社签署\n负责任AI宪章",
+          "body": "来自26个国家的100多家学术出版社签署宪章，承诺透明并以负责任方式对待AI。",
+          "mini_headline": "出版社签署AI宪章",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/standard/973/cpsprodpb/d560/live/9c22bcf0-ddfe-11f1-8445-15eb55286f71.jpg",
-                "cap": "居住在哈拉雷的Simbarashe Kundizeza表示，一首关于鱼缸的诗启发他写下了一个关于家庭困境的故事"
+                "src": "https://www.publishersweekly.com/images/cached/ARTICLE_PHOTO/photo/000/000/132/132825-v2-600x.JPG",
+                "cap": "U.K.（英国）的Cambridge University Press参与牵头组织了University Press Charter。"
               },
               {
                 "t": "p",
-                "x": "非洲文学凯恩奖（Caine Prize for African Writing）表示，经内部审查，未发现津巴布韦作家Simbarashe Kundizeza使用生成式AI创作其获奖短篇小说的证据，并确认他为今年£10,000（$13,000）奖项的得主。"
+                "x": "100多家学术出版社签署了新的University Press Charter，承诺质量优先于产量、出版过程保持透明，并“制定负责任的人工智能应对方式”。"
               },
               {
                 "t": "p",
-                "x": "此次审查源于记者Vauhini Vara在美国杂志The Atlantic上发表的一篇文章，文章称AI-detection软件Pangram显示其作品完全由AI生成。Kundizeza否认了这一指控，该指控在社交媒体上引发轩然大波，一些非洲作家认为此类指控主要针对非白人作家。"
+                "x": "此次行动由U.K.的Cambridge University Press和Bristol University Press牵头，作为University Press Week的一部分启动。宪章有27家U.S.签署方，包括Amherst、Baylor、Columbia、Duke、Fordham、Johns Hopkins、MIT、Princeton、Rutgers、SUNY和University of California的大学出版社。"
               },
               {
                 "t": "p",
-                "x": "凯恩奖理事会主席Ellah Wakatama表示：“经过详细调查，我们认为证据很清楚：The Blue Fighter是人类写的。”审查内容包括对作者、2026年评审团以及首发该作品的Shallow Tales Review的访谈，还有一名网络安全与数字取证调查员对作者草稿进行的独立专家元数据分析。"
+                "x": "据组织者介绍，这是大学出版社首次围绕一套共同承诺联合起来。当前学术出版正面临论文数量激增、部分出版社同行评审薄弱以及对已发表研究的信任下降等问题。"
               },
               {
                 "t": "p",
-                "x": "此前，今年其他文学奖项也出现争议，包括Commonwealth Short Story Prize和法国龚古尔奖（Goncourt）。"
+                "x": "“随着越来越多的论文被更快地产出，一些出版社不重视严格的同行评审，内容因此不再被广泛信任，真正的风险正在显现。必须有所改变。”Cambridge University Press总经理Mandy Hill表示。"
+              },
+              {
+                "t": "p",
+                "x": "目前签署方共有来自26个国家的108家出版社。宪章由Association of University Presses托管。值得注意的是，全球最大的大学出版社Oxford University Press并未加入。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Caine Prize exonera a su\nganador «AI-accused»",
-          "body": "El Caine Prize no halló pruebas de que el relato ganador fuera AI-generated y confirmó su premio de 2026.",
-          "mini_headline": "El Caine Prize exonera a su ganador",
+          "headline": "Editoriales académicas firman\nuna carta sobre AI responsable",
+          "body": "Más de 100 editoriales académicas de 26 países firman una carta de transparencia y uso responsable de la AI.",
+          "mini_headline": "Editoriales firman carta de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/standard/973/cpsprodpb/d560/live/9c22bcf0-ddfe-11f1-8445-15eb55286f71.jpg",
-                "cap": "Simbarashe Kundizeza, que vive en Harare, dice que un poema sobre peceras le inspiró a escribir un relato sobre las dificultades de su familia"
+                "src": "https://www.publishersweekly.com/images/cached/ARTICLE_PHOTO/photo/000/000/132/132825-v2-600x.JPG",
+                "cap": "La Cambridge University Press del U.K. ayudó a liderar la organización de la University Press Charter."
               },
               {
                 "t": "p",
-                "x": "El Caine Prize for African Writing ha informado de que, tras una revisión interna, no ha encontrado pruebas de que el escritor zimbabuense Simbarashe Kundizeza usara IA generativa para escribir su relato ganador, y lo ha confirmado como ganador del premio de este año, dotado con £10.000 (13.000 dólares)."
+                "x": "Más de 100 editoriales académicas han firmado una nueva University Press Charter, en la que se comprometen a priorizar la calidad sobre la producción, la transparencia en el proceso editorial y a “desarrollar enfoques responsables de la inteligencia artificial”."
               },
               {
                 "t": "p",
-                "x": "La revisión siguió a un artículo de la periodista Vauhini Vara en la revista estadounidense The Atlantic, que afirmaba que el software AI-detection Pangram había mostrado que su relato estaba generado por completo con IA. Kundizeza negó la acusación, que provocó un gran revuelo en redes sociales; algunos escritores africanos sugirieron que este tipo de acusaciones se dirigen sobre todo contra escritores no blancos."
+                "x": "La Cambridge University Press y la Bristol University Press, ambas del U.K., lideraron la iniciativa, que se lanzó en el marco de la University Press Week. La carta incluye 27 firmantes de U.S., entre ellos las editoriales universitarias de Amherst, Baylor, Columbia, Duke, Fordham, Johns Hopkins, MIT, Princeton, Rutgers, SUNY y la University of California."
               },
               {
                 "t": "p",
-                "x": "«Tras nuestra investigación detallada, creemos que las pruebas son claras: The Blue Fighter fue escrito por un humano», dijo Ellah Wakatama, presidenta del consejo de administración del Caine Prize. La revisión incluyó entrevistas con el autor, el jurado de 2026 y Shallow Tales Review, donde se publicó el relato por primera vez, además de un análisis independiente y experto de los metadatos de los borradores del autor, a cargo de un investigador de ciberseguridad y análisis forense digital."
+                "x": "Según sus organizadores, es la primera vez que las editoriales universitarias se unen en torno a un conjunto de compromisos compartidos. Llega cuando la edición académica afronta un aumento del número de artículos, una revisión por pares débil en algunas editoriales y una caída de la confianza en la investigación publicada."
               },
               {
                 "t": "p",
-                "x": "La polémica se suma a las disputas de este año en torno a otros premios literarios, como el Commonwealth Short Story Prize y el Goncourt francés."
+                "x": "“Están surgiendo riesgos reales a medida que se producen más artículos con mayor rapidez, con algunas editoriales que no priorizan una revisión por pares rigurosa y, en consecuencia, el contenido goza de menos confianza. Algo tiene que cambiar”, dijo Mandy Hill, directora general de Cambridge University Press."
+              },
+              {
+                "t": "p",
+                "x": "Hasta ahora, los firmantes suman 108 editoriales de 26 países. La Association of University Presses aloja la carta. Destaca la ausencia de Oxford University Press, la mayor editorial universitaria del mundo."
               }
             ]
           }
@@ -199,125 +223,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI-accused 수상자\n케인상이 결백 확인",
-          "body": "케인상은 AI-generated 증거가 없다며 2026년 수상작을 확정했다.",
-          "mini_headline": "케인상, 수상자 결백 확인",
+          "headline": "학술 출판사들이\n책임 있는 AI 헌장 서명",
+          "body": "26개국 학술 출판사 100곳 이상이 투명하고 책임 있는 AI 헌장에 서명했다.",
+          "mini_headline": "출판사들, AI 헌장 서명",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/standard/973/cpsprodpb/d560/live/9c22bcf0-ddfe-11f1-8445-15eb55286f71.jpg",
-                "cap": "하라레에 사는 Simbarashe Kundizeza는 어항에 관한 시에서 영감을 받아 가족의 어려움을 다룬 이야기를 썼다고 말한다"
+                "src": "https://www.publishersweekly.com/images/cached/ARTICLE_PHOTO/photo/000/000/132/132825-v2-600x.JPG",
+                "cap": "U.K.(영국)의 Cambridge University Press는 University Press Charter 조직을 이끈 곳 중 하나다."
               },
               {
                 "t": "p",
-                "x": "아프리카 문학상인 케인상(Caine Prize for African Writing)은 내부 검토 결과 짐바브웨 작가 Simbarashe Kundizeza가 수상 단편을 쓰는 데 생성형 AI를 사용했다는 증거를 찾지 못했다며, 그를 올해 상금 £10,000($13,000) 수상자로 확정했다고 밝혔다."
+                "x": "100곳이 넘는 학술 출판사가 새 University Press Charter에 서명했다. 이들은 산출량보다 품질을 우선하고, 출판 과정을 투명하게 하며, “인공지능에 대한 책임 있는 접근법을 개발”하겠다고 약속했다."
               },
               {
                 "t": "p",
-                "x": "이번 검토는 저널리스트 Vauhini Vara가 미국(US) 잡지 The Atlantic에 쓴 기사에서 비롯됐다. 기사는 AI-detection 소프트웨어 Pangram 분석 결과 그의 작품이 전부 AI로 생성됐다고 주장했다. Kundizeza는 의혹을 부인했고, 이 의혹은 소셜미디어에서 큰 논란을 불렀다. 일부 아프리카 작가들은 이런 의혹이 주로 비백인 작가를 겨냥한다고 지적했다."
+                "x": "U.K.의 Cambridge University Press와 Bristol University Press가 이 작업을 주도했고, University Press Week의 일환으로 출범했다. 헌장에는 U.S. 서명 기관 27곳이 참여했으며, Amherst, Baylor, Columbia, Duke, Fordham, Johns Hopkins, MIT, Princeton, Rutgers, SUNY, University of California의 대학 출판부가 포함됐다."
               },
               {
                 "t": "p",
-                "x": "케인상 이사회 의장 Ellah Wakatama는 “면밀한 조사 결과 증거는 분명하다고 본다. The Blue Fighter는 사람이 쓴 작품이다”라고 말했다. 검토에는 작가와 2026년 심사위원단, 작품을 처음 실은 Shallow Tales Review 인터뷰가 포함됐고, 사이버 보안·디지털 포렌식 조사관이 작가 초고의 메타데이터를 독립적으로 전문 분석한 내용도 들어갔다."
+                "x": "주최 측에 따르면 대학 출판부들이 공동의 약속 아래 뭉친 것은 이번이 처음이다. 학술 출판계는 논문 생산량 급증, 일부 출판사의 허술한 동료 심사, 출판된 연구에 대한 신뢰 하락이라는 문제를 안고 있다."
               },
               {
                 "t": "p",
-                "x": "이번 논란은 올해 Commonwealth Short Story Prize와 프랑스 공쿠르상(Goncourt) 등 다른 문학상을 둘러싼 분쟁에 이어 나왔다."
+                "x": "“더 많은 논문이 더 빠르게 만들어지고, 일부 출판사가 엄격한 동료 심사를 우선하지 않으면서 콘텐츠에 대한 신뢰가 줄어드는 실제 위험이 나타나고 있다. 무언가 바뀌어야 한다.” Cambridge University Press의 Mandy Hill 대표는 이렇게 말했다."
+              },
+              {
+                "t": "p",
+                "x": "현재까지 서명 기관은 26개국 108곳이다. 헌장은 Association of University Presses가 운영한다. 세계 최대 대학 출판부인 Oxford University Press는 눈에 띄게 빠졌다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI-accusedの受賞者\nケイン賞が潔白と認定",
-          "body": "ケイン賞は受賞作がAI-generatedとの証拠はないとし、2026年の受賞を確定した。",
-          "mini_headline": "ケイン賞、受賞者の潔白を認定",
+          "headline": "学術出版社が\n責任あるAI憲章に署名",
+          "body": "26カ国の学術出版社100社超が、透明性と責任あるAI活用を誓う憲章に署名した。",
+          "mini_headline": "出版社がAI憲章に署名",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/standard/973/cpsprodpb/d560/live/9c22bcf0-ddfe-11f1-8445-15eb55286f71.jpg",
-                "cap": "ハラレ在住のSimbarashe Kundizezaは、水槽を詠んだ詩に触発され、家族の苦境を描いた物語を書いたという"
+                "src": "https://www.publishersweekly.com/images/cached/ARTICLE_PHOTO/photo/000/000/132/132825-v2-600x.JPG",
+                "cap": "U.K.(英国)のCambridge University Pressは、University Press Charterの取りまとめを主導した出版社の一つだ。"
               },
               {
                 "t": "p",
-                "x": "ケイン賞(Caine Prize for African Writing)は、内部調査の結果、ジンバブエの作家Simbarashe Kundizezaが受賞短編の執筆に生成AIを使った証拠は見つからなかったとし、今年の賞金£10,000($13,000)の受賞者として彼を確定したと発表した。"
+                "x": "100社を超える学術出版社が新たなUniversity Press Charterに署名した。量より質を優先すること、出版プロセスの透明性、そして「人工知能への責任あるアプローチの構築」を約束する内容だ。"
               },
               {
                 "t": "p",
-                "x": "調査のきっかけは、ジャーナリストのVauhini Varaが米誌The Atlanticに寄せた記事だった。記事は、AI-detectionソフトウェアのPangramによって彼の作品が完全にAIで生成されたものと示されたと主張した。Kundizezaは疑惑を否定し、この告発はソーシャルメディアで大きな騒動を呼んだ。一部のアフリカ人作家は、こうした告発が主に非白人の作家に向けられていると指摘した。"
+                "x": "取り組みを主導したのはU.K.のCambridge University PressとBristol University Pressで、University Press Weekの一環として始まった。憲章にはU.S.の署名機関27社が名を連ね、Amherst、Baylor、Columbia、Duke、Fordham、Johns Hopkins、MIT、Princeton、Rutgers、SUNY、University of Californiaの大学出版局が含まれる。"
               },
               {
                 "t": "p",
-                "x": "ケイン賞理事会のEllah Wakatama議長は「詳細な調査の結果、証拠は明らかだと考える。The Blue Fighterは人間が書いたものだ」と述べた。調査には、作者、2026年の審査員団、作品を最初に掲載したShallow Tales Reviewへの聞き取りに加え、サイバーセキュリティとデジタルフォレンジックの調査員による、作者の草稿の独立した専門的なメタデータ分析が含まれた。"
+                "x": "主催者によれば、大学出版局が共通の約束のもとに結束するのは初めてだ。学術出版は論文数の急増、一部出版社の脆弱な査読、公表された研究への信頼低下という課題に直面している。"
               },
               {
                 "t": "p",
-                "x": "今年はほかにも、Commonwealth Short Story Prizeやフランスのゴンクール賞(Goncourt)など、文学賞をめぐる論争が起きている。"
+                "x": "「より多くの論文がより速く生み出され、一部の出版社が厳格な査読を優先しない結果、コンテンツが広く信頼されなくなるという現実のリスクが生じている。何かを変えなければならない」と、Cambridge University PressのマネージングディレクターMandy Hillは述べた。"
+              },
+              {
+                "t": "p",
+                "x": "現時点で署名したのは26カ国の108社だ。憲章はAssociation of University Pressesが運営する。世界最大の大学出版局であるOxford University Pressの名はない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI-accused获奖者\n凯恩奖确认其清白",
-          "body": "凯恩奖称无证据表明获奖作品为AI-generated，并确认其2026年获奖。",
-          "mini_headline": "凯恩奖确认获奖者清白",
+          "headline": "学术出版社签署\n负责任AI宪章",
+          "body": "来自26个国家的100多家学术出版社签署宪章，承诺透明并以负责任方式对待AI。",
+          "mini_headline": "出版社签署AI宪章",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/standard/973/cpsprodpb/d560/live/9c22bcf0-ddfe-11f1-8445-15eb55286f71.jpg",
-                "cap": "居住在哈拉雷的Simbarashe Kundizeza表示，一首关于鱼缸的诗启发他写下了一个关于家庭困境的故事"
+                "src": "https://www.publishersweekly.com/images/cached/ARTICLE_PHOTO/photo/000/000/132/132825-v2-600x.JPG",
+                "cap": "U.K.（英国）的Cambridge University Press参与牵头组织了University Press Charter。"
               },
               {
                 "t": "p",
-                "x": "非洲文学凯恩奖（Caine Prize for African Writing）表示，经内部审查，未发现津巴布韦作家Simbarashe Kundizeza使用生成式AI创作其获奖短篇小说的证据，并确认他为今年£10,000（$13,000）奖项的得主。"
+                "x": "100多家学术出版社签署了新的University Press Charter，承诺质量优先于产量、出版过程保持透明，并“制定负责任的人工智能应对方式”。"
               },
               {
                 "t": "p",
-                "x": "此次审查源于记者Vauhini Vara在美国杂志The Atlantic上发表的一篇文章，文章称AI-detection软件Pangram显示其作品完全由AI生成。Kundizeza否认了这一指控，该指控在社交媒体上引发轩然大波，一些非洲作家认为此类指控主要针对非白人作家。"
+                "x": "此次行动由U.K.的Cambridge University Press和Bristol University Press牵头，作为University Press Week的一部分启动。宪章有27家U.S.签署方，包括Amherst、Baylor、Columbia、Duke、Fordham、Johns Hopkins、MIT、Princeton、Rutgers、SUNY和University of California的大学出版社。"
               },
               {
                 "t": "p",
-                "x": "凯恩奖理事会主席Ellah Wakatama表示：“经过详细调查，我们认为证据很清楚：The Blue Fighter是人类写的。”审查内容包括对作者、2026年评审团以及首发该作品的Shallow Tales Review的访谈，还有一名网络安全与数字取证调查员对作者草稿进行的独立专家元数据分析。"
+                "x": "据组织者介绍，这是大学出版社首次围绕一套共同承诺联合起来。当前学术出版正面临论文数量激增、部分出版社同行评审薄弱以及对已发表研究的信任下降等问题。"
               },
               {
                 "t": "p",
-                "x": "此前，今年其他文学奖项也出现争议，包括Commonwealth Short Story Prize和法国龚古尔奖（Goncourt）。"
+                "x": "“随着越来越多的论文被更快地产出，一些出版社不重视严格的同行评审，内容因此不再被广泛信任，真正的风险正在显现。必须有所改变。”Cambridge University Press总经理Mandy Hill表示。"
+              },
+              {
+                "t": "p",
+                "x": "目前签署方共有来自26个国家的108家出版社。宪章由Association of University Presses托管。值得注意的是，全球最大的大学出版社Oxford University Press并未加入。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Caine Prize exonera a su\nganador «AI-accused»",
-          "body": "El Caine Prize no halló pruebas de que el relato ganador fuera AI-generated y confirmó su premio de 2026.",
-          "mini_headline": "El Caine Prize exonera a su ganador",
+          "headline": "Editoriales académicas firman\nuna carta sobre AI responsable",
+          "body": "Más de 100 editoriales académicas de 26 países firman una carta de transparencia y uso responsable de la AI.",
+          "mini_headline": "Editoriales firman carta de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/standard/973/cpsprodpb/d560/live/9c22bcf0-ddfe-11f1-8445-15eb55286f71.jpg",
-                "cap": "Simbarashe Kundizeza, que vive en Harare, dice que un poema sobre peceras le inspiró a escribir un relato sobre las dificultades de su familia"
+                "src": "https://www.publishersweekly.com/images/cached/ARTICLE_PHOTO/photo/000/000/132/132825-v2-600x.JPG",
+                "cap": "La Cambridge University Press del U.K. ayudó a liderar la organización de la University Press Charter."
               },
               {
                 "t": "p",
-                "x": "El Caine Prize for African Writing ha informado de que, tras una revisión interna, no ha encontrado pruebas de que el escritor zimbabuense Simbarashe Kundizeza usara IA generativa para escribir su relato ganador, y lo ha confirmado como ganador del premio de este año, dotado con £10.000 (13.000 dólares)."
+                "x": "Más de 100 editoriales académicas han firmado una nueva University Press Charter, en la que se comprometen a priorizar la calidad sobre la producción, la transparencia en el proceso editorial y a “desarrollar enfoques responsables de la inteligencia artificial”."
               },
               {
                 "t": "p",
-                "x": "La revisión siguió a un artículo de la periodista Vauhini Vara en la revista estadounidense The Atlantic, que afirmaba que el software AI-detection Pangram había mostrado que su relato estaba generado por completo con IA. Kundizeza negó la acusación, que provocó un gran revuelo en redes sociales; algunos escritores africanos sugirieron que este tipo de acusaciones se dirigen sobre todo contra escritores no blancos."
+                "x": "La Cambridge University Press y la Bristol University Press, ambas del U.K., lideraron la iniciativa, que se lanzó en el marco de la University Press Week. La carta incluye 27 firmantes de U.S., entre ellos las editoriales universitarias de Amherst, Baylor, Columbia, Duke, Fordham, Johns Hopkins, MIT, Princeton, Rutgers, SUNY y la University of California."
               },
               {
                 "t": "p",
-                "x": "«Tras nuestra investigación detallada, creemos que las pruebas son claras: The Blue Fighter fue escrito por un humano», dijo Ellah Wakatama, presidenta del consejo de administración del Caine Prize. La revisión incluyó entrevistas con el autor, el jurado de 2026 y Shallow Tales Review, donde se publicó el relato por primera vez, además de un análisis independiente y experto de los metadatos de los borradores del autor, a cargo de un investigador de ciberseguridad y análisis forense digital."
+                "x": "Según sus organizadores, es la primera vez que las editoriales universitarias se unen en torno a un conjunto de compromisos compartidos. Llega cuando la edición académica afronta un aumento del número de artículos, una revisión por pares débil en algunas editoriales y una caída de la confianza en la investigación publicada."
               },
               {
                 "t": "p",
-                "x": "La polémica se suma a las disputas de este año en torno a otros premios literarios, como el Commonwealth Short Story Prize y el Goncourt francés."
+                "x": "“Están surgiendo riesgos reales a medida que se producen más artículos con mayor rapidez, con algunas editoriales que no priorizan una revisión por pares rigurosa y, en consecuencia, el contenido goza de menos confianza. Algo tiene que cambiar”, dijo Mandy Hill, directora general de Cambridge University Press."
+              },
+              {
+                "t": "p",
+                "x": "Hasta ahora, los firmantes suman 108 editoriales de 26 países. La Association of University Presses aloja la carta. Destaca la ausencia de Oxford University Press, la mayor editorial universitaria del mundo."
               }
             ]
           }
@@ -325,15 +365,15 @@
       }
     },
     {
-      "id": "books-unions-openai-voice-brief",
+      "id": "paizo-feybound-ai-art",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "노조들, OpenAI\n저작권 소송에 목소리",
-      "body": "SAG-AFTRA·AFM·WGA가 OpenAI 소송에 의견서를 내겠다고 신청했다.",
-      "mini_headline": "노조, OpenAI 소송에 참여",
+      "headline": "Feybound AI 그림\n의혹, Paizo는 부인",
+      "body": "AI 그림을 금지해 온 Paizo가 Feybound 삽화의 AI 의혹을 부인했다.",
+      "mini_headline": "Paizo, AI 그림 의혹 부인",
       "tool": "Books",
-      "source": "Voice Over Herald",
-      "url": "https://www.voiceoverherald.com/unions-openai-fair-use-brief-voice-actors-nava-survey/",
+      "source": "Wargamer",
+      "url": "https://www.wargamer.com/pathfinder/feybound-ai-art",
       "accent": "#0070f3",
       "motif": "swatch",
       "full": {
@@ -341,263 +381,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/hero-2.jpg"
+            "src": "https://www.wargamer.com/wp-content/sites/wargamer/2026/11/pathfinder-feybound-ai-airt.jpg"
           },
           {
             "t": "p",
-            "x": "SAG-AFTRA와 미국음악가연맹(American Federation of Musicians), 미국작가조합(Writers Guild of America) 두 지부가 10월 29일 Sidney H. Stein 판사가 맡은 In re OpenAI, Inc., Copyright Infringement Litigation 사건에 법정 조언자 의견서를 내겠다는 신청을 냈다. 34쪽짜리 의견서는 여러 신문사와 작가로 이뤄진 원고 측 편에 서서, AI 학습을 일률적으로 공정 이용으로 보는 판단은 어떤 것이든 물리쳐 달라고 법원에 요청한다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/brief-p19.jpg",
-            "cap": "2026년 10월 29일 제출된 의견서안 19쪽. 이미지: In re OpenAI, Dkt. 2332, CourtListener 제공"
+            "x": "11월 4일 나온 Pathfinder 소스북 Feybound가 AI 그림 의혹에 휩싸였다. 팬들이 11월 10일 Reddit에서 처음 문제를 제기했다. Paizo는 Wargamer에 “Feybound의 그림을 맡은 아티스트와 제기된 우려를 논의했으며, 아티스트는 AI 사용을 부인한다”고 밝혔다."
           },
           {
             "t": "p",
-            "x": "19쪽은 합성 음성과 일감 감소를 잇는다. 여기 인용된 21퍼센트는 NAVA의 State of Voiceover in 2026 설문 결과다. 응답 1,379건이 모인 이 설문에서 “합성 음성 때문에 일을 잃은 것을 알고 있는 적이 있는가?”라는 질문에 21퍼센트가 그렇다고 답했다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/nava-shot.jpg",
-            "cap": "2026년 11월 1일 촬영한 NAVA 설문 페이지 화면. 이미지: NAVA"
+            "x": "Reddit 게시물은 삽화 일곱 점을 증거로 들었다. 대칭이 맞지 않는 신전 기둥, 있을 수 없는 건축 구조, 서로 녹아 붙은 듯한 동물과 사람이다."
           },
           {
             "t": "p",
-            "x": "노조들은 학습 라이선스 시장이 이미 있다고 주장한다. 이들이 맺은 2026년 계약에는 “적용 대상 저작물을 대중용·상용 생성형 AI 시스템 학습에 쓰도록 제3자에게 라이선스할 때의 통지·교섭권”이 들어 있다. 의견서는 “이 사건에서 학습이 일률적으로 공정 이용이라는 판결이 나오면 노조와 업계가 교섭 테이블에서 합의한 조건이 무의미해진다”고 썼다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/picket.jpg",
-            "cap": "2023년 7월 31일 뉴욕 Warner Bros. Discovery 앞의 SAG-AFTRA 피켓 시위. 사진: Phil Roeder, Wikimedia Commons, CC BY 2.0"
+            "x": "조사 결론은 “아트 디렉터는 수년간 Paizo를 위해 많은 작품을 만들어 온 아티스트를 지지한다”는 것이었다. 회사는 “Paizo는 제품에 AI 그림을 쓰지 않으며, 모든 아티스트는 창작에 인공지능 사용을 명확히 배제하는 계약에 서명한다”고 덧붙였다."
           },
           {
             "t": "p",
-            "x": "의견서를 받아들일지는 Stein 판사가 먼저 정해야 한다."
+            "x": "Paizo가 이 방침을 세운 지는 오래다. 2023년 블로그 글에서 이미 “Paizo는 당분간 어떤 종류의 AI-generated(AI 생성) ‘창작’ 작업도 쓰지 않을 것”이라고 밝혔다. 회사는 “이 문제를 알려준” 커뮤니티에 고마움을 전하며 “우리 그림에 AI 제품이 쓰였다는 의혹을 심각하게 받아들인다”고 했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Unions seek a voice in\nOpenAI copyright case",
-          "body": "SAG-AFTRA, AFM and WGA asked to file a brief in the OpenAI copyright case, citing a survey of voice actors losing work.",
-          "mini_headline": "Unions enter OpenAI case",
+          "headline": "Paizo rejects AI art claims\nover Pathfinder's Feybound",
+          "body": "Paizo, which bans AI art in its books, denies fan claims that AI illustrations slipped into its new book Feybound.",
+          "mini_headline": "Paizo denies AI art claims",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/hero-2.jpg"
+                "src": "https://www.wargamer.com/wp-content/sites/wargamer/2026/11/pathfinder-feybound-ai-airt.jpg"
               },
               {
                 "t": "p",
-                "x": "On 29 October, SAG-AFTRA, the American Federation of Musicians and both branches of the Writers Guild of America filed a motion for leave to submit a friend-of-the-court brief in In re OpenAI, Inc., Copyright Infringement Litigation before Judge Sidney H. Stein. The 34-page brief backs the plaintiffs, a long list of newspapers and authors, and asks the court to reject any rule that treats AI training as fair use across the board."
-              },
-              {
-                "t": "img",
-                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/brief-p19.jpg",
-                "cap": "Page 19 of the proposed brief, filed 29 October 2026. Image: In re OpenAI, Dkt. 2332, via CourtListener"
+                "x": "Feybound, a Pathfinder sourcebook released on November 4, has come under fire for allegedly containing AI artwork. The images were first flagged by fans on Reddit on November 10. Paizo told Wargamer “we have discussed the concerns raised with the artist responsible for the art in Feybound, and the artist denies using AI”."
               },
               {
                 "t": "p",
-                "x": "Page 19 ties synthetic voices to lost bookings. Its 21 percent figure comes from NAVA's State of Voiceover in 2026 survey, which collected 1,379 responses: asked \"Have you ever knowingly lost a job to a synthetic voice?\", 21 percent said yes."
-              },
-              {
-                "t": "img",
-                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/nava-shot.jpg",
-                "cap": "NAVA's survey page, screenshot taken 1 November 2026. Image: NAVA"
+                "x": "The Reddit post highlights seven illustrations as supposed evidence, citing temple pillars that lack symmetry, impossible architecture, and animals and people melting together."
               },
               {
                 "t": "p",
-                "x": "The unions argue a market for training licences already exists: their 2026 contracts include \"a notice-and-bargaining right for third-party licenses of covered work to train public-facing, commercially-available generative AI systems.\" \"A ruling here that training is categorically fair use would render moot the terms the Unions and the industry agreed to at the bargaining table,\" the brief reads."
-              },
-              {
-                "t": "img",
-                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/picket.jpg",
-                "cap": "SAG-AFTRA picket outside Warner Bros. Discovery in New York, 31 July 2023. Photo: Phil Roeder via Wikimedia Commons, CC BY 2.0"
+                "x": "Following its investigation, “the art director supports the artist, who has produced a lot of material for Paizo over the years.” “Paizo does not use AI art in our products, and all artists sign a contract with a clear exclusion of using artificial intelligence in their creations”, the company adds."
               },
               {
                 "t": "p",
-                "x": "Judge Stein first has to decide whether to accept the brief."
+                "x": "Paizo’s policy is long-standing: a 2023 blog post stated “Paizo will not use AI-generated 'creative' work of any kind for the foreseeable future”. The company thanked its community for “bringing it to our attention” and says it “takes alleged use of AI products in our art seriously”."
               }
             ]
           }
         },
         "ko": {
-          "headline": "노조들, OpenAI\n저작권 소송에 목소리",
-          "body": "SAG-AFTRA·AFM·WGA가 OpenAI 소송에 의견서를 내겠다고 신청했다.",
-          "mini_headline": "노조, OpenAI 소송에 참여",
+          "headline": "Feybound AI 그림\n의혹, Paizo는 부인",
+          "body": "AI 그림을 금지해 온 Paizo가 Feybound 삽화의 AI 의혹을 부인했다.",
+          "mini_headline": "Paizo, AI 그림 의혹 부인",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/hero-2.jpg"
+                "src": "https://www.wargamer.com/wp-content/sites/wargamer/2026/11/pathfinder-feybound-ai-airt.jpg"
               },
               {
                 "t": "p",
-                "x": "SAG-AFTRA와 미국음악가연맹(American Federation of Musicians), 미국작가조합(Writers Guild of America) 두 지부가 10월 29일 Sidney H. Stein 판사가 맡은 In re OpenAI, Inc., Copyright Infringement Litigation 사건에 법정 조언자 의견서를 내겠다는 신청을 냈다. 34쪽짜리 의견서는 여러 신문사와 작가로 이뤄진 원고 측 편에 서서, AI 학습을 일률적으로 공정 이용으로 보는 판단은 어떤 것이든 물리쳐 달라고 법원에 요청한다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/brief-p19.jpg",
-                "cap": "2026년 10월 29일 제출된 의견서안 19쪽. 이미지: In re OpenAI, Dkt. 2332, CourtListener 제공"
+                "x": "11월 4일 나온 Pathfinder 소스북 Feybound가 AI 그림 의혹에 휩싸였다. 팬들이 11월 10일 Reddit에서 처음 문제를 제기했다. Paizo는 Wargamer에 “Feybound의 그림을 맡은 아티스트와 제기된 우려를 논의했으며, 아티스트는 AI 사용을 부인한다”고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "19쪽은 합성 음성과 일감 감소를 잇는다. 여기 인용된 21퍼센트는 NAVA의 State of Voiceover in 2026 설문 결과다. 응답 1,379건이 모인 이 설문에서 “합성 음성 때문에 일을 잃은 것을 알고 있는 적이 있는가?”라는 질문에 21퍼센트가 그렇다고 답했다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/nava-shot.jpg",
-                "cap": "2026년 11월 1일 촬영한 NAVA 설문 페이지 화면. 이미지: NAVA"
+                "x": "Reddit 게시물은 삽화 일곱 점을 증거로 들었다. 대칭이 맞지 않는 신전 기둥, 있을 수 없는 건축 구조, 서로 녹아 붙은 듯한 동물과 사람이다."
               },
               {
                 "t": "p",
-                "x": "노조들은 학습 라이선스 시장이 이미 있다고 주장한다. 이들이 맺은 2026년 계약에는 “적용 대상 저작물을 대중용·상용 생성형 AI 시스템 학습에 쓰도록 제3자에게 라이선스할 때의 통지·교섭권”이 들어 있다. 의견서는 “이 사건에서 학습이 일률적으로 공정 이용이라는 판결이 나오면 노조와 업계가 교섭 테이블에서 합의한 조건이 무의미해진다”고 썼다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/picket.jpg",
-                "cap": "2023년 7월 31일 뉴욕 Warner Bros. Discovery 앞의 SAG-AFTRA 피켓 시위. 사진: Phil Roeder, Wikimedia Commons, CC BY 2.0"
+                "x": "조사 결론은 “아트 디렉터는 수년간 Paizo를 위해 많은 작품을 만들어 온 아티스트를 지지한다”는 것이었다. 회사는 “Paizo는 제품에 AI 그림을 쓰지 않으며, 모든 아티스트는 창작에 인공지능 사용을 명확히 배제하는 계약에 서명한다”고 덧붙였다."
               },
               {
                 "t": "p",
-                "x": "의견서를 받아들일지는 Stein 판사가 먼저 정해야 한다."
+                "x": "Paizo가 이 방침을 세운 지는 오래다. 2023년 블로그 글에서 이미 “Paizo는 당분간 어떤 종류의 AI-generated(AI 생성) ‘창작’ 작업도 쓰지 않을 것”이라고 밝혔다. 회사는 “이 문제를 알려준” 커뮤니티에 고마움을 전하며 “우리 그림에 AI 제품이 쓰였다는 의혹을 심각하게 받아들인다”고 했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "労組、OpenAI\n著作権訴訟に声を上げる",
-          "body": "SAG-AFTRA、AFM、WGAがOpenAI著作権訴訟への意見書提出を申し立てた。",
-          "mini_headline": "労組がOpenAI訴訟に参加へ",
+          "headline": "Paizo、AIアート疑惑\nFeyboundめぐり否定",
+          "body": "AI画像を禁じるPaizoが、FeyboundにAI挿絵が混じったとの指摘を否定した。",
+          "mini_headline": "PaizoがAIアート疑惑を否定",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/hero-2.jpg"
+                "src": "https://www.wargamer.com/wp-content/sites/wargamer/2026/11/pathfinder-feybound-ai-airt.jpg"
               },
               {
                 "t": "p",
-                "x": "10月29日、SAG-AFTRA、米国音楽家連盟(American Federation of Musicians)、全米脚本家組合(Writers Guild of America)の両支部は、Sidney H. Stein判事が担当するIn re OpenAI, Inc., Copyright Infringement Litigationで、法廷助言者意見書の提出許可を求める申し立てを行った。34ページの意見書は、多数の新聞社や作家からなる原告側を支持し、AIの学習を一律にフェアユースとみなすいかなる判断も退けるよう裁判所に求めている。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/brief-p19.jpg",
-                "cap": "2026年10月29日に提出された意見書案の19ページ。画像:In re OpenAI, Dkt. 2332(CourtListener経由)"
+                "x": "11月4日に発売されたPathfinderのソースブックFeyboundが、AIアートを含んでいる疑いで批判を浴びている。画像は11月10日にReddit上でファンが最初に指摘した。PaizoはWargamerに「Feyboundのアートを担当したアーティストと寄せられた懸念について話し合い、アーティストはAIの使用を否定している」と語った。"
               },
               {
                 "t": "p",
-                "x": "19ページは合成音声と仕事の喪失を結びつけている。そこにある21パーセントという数字は、1,379件の回答を集めたNAVAの調査「State of Voiceover in 2026」によるものだ。「合成音声に仕事を奪われたと認識したことがあるか」との問いに、21パーセントが「ある」と答えた。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/nava-shot.jpg",
-                "cap": "NAVAの調査ページ。2026年11月1日撮影のスクリーンショット。画像:NAVA"
+                "x": "Redditの投稿は証拠とされるイラスト七点を挙げ、左右対称でない神殿の柱、ありえない建築、溶け合ったような動物と人物を指摘している。"
               },
               {
                 "t": "p",
-                "x": "組合側は、学習用ライセンスの市場はすでに存在すると主張する。2026年の契約には「対象作品を、一般向けに商用提供される生成AIシステムの学習のために第三者へライセンスする際の通知・交渉権」が盛り込まれている。意見書は「本件で学習が一律にフェアユースだとする判決が出れば、組合と業界が交渉の場で合意した条件が無意味になる」と述べている。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/picket.jpg",
-                "cap": "2023年7月31日、ニューヨークのWarner Bros. Discovery前でピケを張るSAG-AFTRA。写真:Phil Roeder(Wikimedia Commons経由、CC BY 2.0)"
+                "x": "調査を経て「アートディレクターは、長年Paizoのために多くの作品を手がけてきたアーティストを支持している」。同社は「PaizoはAIアートを製品に使用しておらず、すべてのアーティストは創作に人工知能を使わないことを明記した契約に署名している」と付け加えた。"
               },
               {
                 "t": "p",
-                "x": "Stein判事はまず、意見書を受理するかどうかを判断しなければならない。"
+                "x": "Paizoの方針は以前からのものだ。2023年のブログ記事では「Paizoは当面、いかなる種類のAI-generatedな『創作』物も使用しない」と表明していた。同社は「この件を知らせてくれた」コミュニティに感謝し、「アートにおけるAI製品の使用疑惑を真剣に受け止めている」としている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "工会求在OpenAI\n版权案中发声",
-          "body": "SAG-AFTRA、AFM和WGA申请在OpenAI版权案中提交法庭之友意见书。",
-          "mini_headline": "工会介入OpenAI案",
+          "headline": "Paizo驳斥\nFeybound用AI图之说",
+          "body": "禁止在书中使用AI美术的Paizo，否认粉丝所称新书Feybound混入AI插图的说法。",
+          "mini_headline": "Paizo否认AI美术指控",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/hero-2.jpg"
+                "src": "https://www.wargamer.com/wp-content/sites/wargamer/2026/11/pathfinder-feybound-ai-airt.jpg"
               },
               {
                 "t": "p",
-                "x": "10月29日，SAG-AFTRA、美国音乐家联合会（American Federation of Musicians）以及美国编剧工会（Writers Guild of America）的两个分会，在Sidney H. Stein法官审理的In re OpenAI, Inc., Copyright Infringement Litigation一案中提出动议，请求准许提交法庭之友意见书。这份34页的意见书支持由众多报社和作者组成的原告方，并请求法院驳回任何将AI训练一律视为合理使用的规则。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/brief-p19.jpg",
-                "cap": "2026年10月29日提交的意见书草案第19页。图片：In re OpenAI, Dkt. 2332，来自CourtListener"
+                "x": "11月4日发售的Pathfinder设定集Feybound因被指含有AI美术而遭到批评。这些图像最早由粉丝于11月10日在Reddit上指出。Paizo对Wargamer表示：“我们已就外界提出的疑虑与负责Feybound美术的艺术家进行沟通，该艺术家否认使用了AI。”"
               },
               {
                 "t": "p",
-                "x": "第19页将合成语音与工作流失联系起来。其中百分之二十一这一数字来自NAVA的State of Voiceover in 2026调查，该调查共收集1,379份回复：在被问及“你是否明知自己因合成语音而失去过工作？”时，百分之二十一的人回答是。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/nava-shot.jpg",
-                "cap": "NAVA调查页面，截图摄于2026年11月1日。图片：NAVA"
+                "x": "这篇Reddit帖子列出七幅插图作为所谓证据，指出神殿柱子不对称、建筑结构不可能存在，以及动物与人物融为一体。"
               },
               {
                 "t": "p",
-                "x": "工会认为，训练授权市场已经存在：他们2026年的合同中包含“在向第三方授权受保护作品用于训练面向公众、商业化的生成式AI系统时的通知与谈判权”。意见书写道：“若本案裁定训练一律属于合理使用，将使工会与业界在谈判桌上达成的条款失去意义。”"
-              },
-              {
-                "t": "img",
-                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/picket.jpg",
-                "cap": "2023年7月31日，SAG-AFTRA在纽约Warner Bros. Discovery门外举行纠察抗议。摄影：Phil Roeder，来自Wikimedia Commons，CC BY 2.0"
+                "x": "调查之后，“美术总监支持这位多年来为Paizo创作了大量作品的艺术家。”公司还补充说：“Paizo不在产品中使用AI美术，所有艺术家签署的合同都明确排除在创作中使用人工智能。”"
               },
               {
                 "t": "p",
-                "x": "Stein法官首先需要决定是否接受这份意见书。"
+                "x": "Paizo的这一政策由来已久：2023年的一篇博客文章称，“在可预见的未来，Paizo不会使用任何AI-generated的‘创意’作品”。公司感谢社区“提醒我们注意此事”，并表示“认真对待美术中涉嫌使用AI产品的情况”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Sindicatos piden voz en el caso\nde copyright contra OpenAI",
-          "body": "SAG-AFTRA, AFM y WGA pidieron presentar un escrito en el caso de OpenAI, citando una encuesta a actores de voz.",
-          "mini_headline": "Los sindicatos entran en el caso OpenAI",
+          "headline": "Paizo rechaza acusaciones de AI\nen Feybound, de Pathfinder",
+          "body": "Paizo, que prohíbe el arte con AI en sus libros, niega que se colaran ilustraciones de AI en su nuevo libro Feybound.",
+          "mini_headline": "Paizo niega arte con AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/hero-2.jpg"
+                "src": "https://www.wargamer.com/wp-content/sites/wargamer/2026/11/pathfinder-feybound-ai-airt.jpg"
               },
               {
                 "t": "p",
-                "x": "El 29 de octubre, SAG-AFTRA, la American Federation of Musicians y las dos ramas del Writers Guild of America presentaron una moción para que se les permita aportar un escrito amicus curiae en In re OpenAI, Inc., Copyright Infringement Litigation, ante el juez Sidney H. Stein. El escrito, de 34 páginas, respalda a los demandantes, una larga lista de periódicos y autores, y pide al tribunal que rechace cualquier norma que trate el entrenamiento de IA como uso legítimo de forma general."
-              },
-              {
-                "t": "img",
-                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/brief-p19.jpg",
-                "cap": "Página 19 del escrito propuesto, presentado el 29 de octubre de 2026. Imagen: In re OpenAI, Dkt. 2332, vía CourtListener"
+                "x": "Feybound, un libro de referencia de Pathfinder publicado el 4 de noviembre, ha recibido críticas por contener supuestamente arte hecho con AI. Las imágenes fueron señaladas por primera vez por fans en Reddit el 10 de noviembre. Paizo dijo a Wargamer que “hemos hablado de las inquietudes planteadas con el artista responsable del arte de Feybound, y el artista niega haber usado AI”."
               },
               {
                 "t": "p",
-                "x": "La página 19 vincula las voces sintéticas con la pérdida de encargos. Su cifra del 21 por ciento procede de la encuesta State of Voiceover in 2026 de NAVA, que reunió 1.379 respuestas: ante la pregunta «¿Alguna vez ha perdido a sabiendas un trabajo frente a una voz sintética?», el 21 por ciento respondió que sí."
-              },
-              {
-                "t": "img",
-                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/nava-shot.jpg",
-                "cap": "Página de la encuesta de NAVA, captura tomada el 1 de noviembre de 2026. Imagen: NAVA"
+                "x": "La publicación de Reddit destaca siete ilustraciones como supuesta prueba, y señala columnas de templo sin simetría, arquitectura imposible y animales y personas que se funden entre sí."
               },
               {
                 "t": "p",
-                "x": "Los sindicatos sostienen que ya existe un mercado de licencias para entrenamiento: sus contratos de 2026 incluyen «un derecho de notificación y negociación sobre licencias a terceros de obras cubiertas para entrenar sistemas de IA generativa comerciales y abiertos al público». «Un fallo que declare aquí que el entrenamiento es uso legítimo de forma categórica dejaría sin efecto los términos que los Sindicatos y la industria acordaron en la mesa de negociación», señala el escrito."
-              },
-              {
-                "t": "img",
-                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/picket.jpg",
-                "cap": "Piquete de SAG-AFTRA frente a Warner Bros. Discovery en Nueva York, 31 de julio de 2023. Foto: Phil Roeder vía Wikimedia Commons, CC BY 2.0"
+                "x": "Tras su investigación, “el director de arte respalda al artista, que ha producido mucho material para Paizo a lo largo de los años”. “Paizo no usa arte de AI en nuestros productos, y todos los artistas firman un contrato que excluye claramente el uso de inteligencia artificial en sus creaciones”, añade la empresa."
               },
               {
                 "t": "p",
-                "x": "El juez Stein debe decidir primero si acepta el escrito."
+                "x": "La política de Paizo viene de lejos: una entrada de blog de 2023 afirmaba que “Paizo no usará trabajo ‘creativo’ generado por AI (AI-generated) de ningún tipo en el futuro previsible”. La empresa agradeció a su comunidad por “hacérnoslo saber” y afirma que “se toma en serio el supuesto uso de productos de AI en nuestro arte”."
               }
             ]
           }
@@ -605,181 +555,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "노조들, OpenAI\n저작권 소송에 목소리",
-          "body": "SAG-AFTRA·AFM·WGA가 OpenAI 소송에 의견서 제출을 청했다.",
-          "mini_headline": "노조, OpenAI 소송에 참여",
+          "headline": "Feybound AI 그림\n의혹, Paizo는 부인",
+          "body": "AI 그림을 금지한 Paizo가 Feybound의 AI 삽화 의혹을 부인했다.",
+          "mini_headline": "Paizo, AI 그림 의혹 부인",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/hero-2.jpg"
+                "src": "https://www.wargamer.com/wp-content/sites/wargamer/2026/11/pathfinder-feybound-ai-airt.jpg"
               },
               {
                 "t": "p",
-                "x": "10월 29일 SAG-AFTRA, 미국음악가연맹(American Federation of Musicians), 미국작가조합(Writers Guild of America)의 두 지부는 Sidney H. Stein 판사가 맡은 In re OpenAI, Inc., Copyright Infringement Litigation 사건에 법정 조언자 의견서를 내게 해 달라는 신청을 냈다. 34쪽 분량의 의견서는 여러 신문사와 작가로 이뤄진 원고 측을 지지하며, AI 학습을 일률적으로 공정 이용으로 보는 어떤 판단도 받아들이지 말라고 법원에 요청한다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/brief-p19.jpg",
-                "cap": "2026년 10월 29일 제출된 의견서안 19쪽. 이미지: In re OpenAI, Dkt. 2332, CourtListener 제공"
+                "x": "11월 4일 출시된 Pathfinder 소스북 Feybound가 AI 그림을 담았다는 의혹으로 비판받고 있다. 이 이미지들은 11월 10일 Reddit에서 팬들이 처음 문제 삼았다. Paizo는 Wargamer에 “Feybound의 그림을 맡은 아티스트와 제기된 우려를 논의했으며, 아티스트는 AI 사용을 부인한다”고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "19쪽은 합성 음성과 일감 감소를 연결한다. 여기 나온 21퍼센트라는 수치는 NAVA의 State of Voiceover in 2026 설문에서 나왔다. 응답 1,379건을 모은 이 설문에서 “합성 음성 때문에 일을 잃은 것을 알고 있는 적이 있는가?”라는 질문에 21퍼센트가 그렇다고 답했다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/nava-shot.jpg",
-                "cap": "2026년 11월 1일 촬영한 NAVA 설문 페이지 화면. 이미지: NAVA"
+                "x": "Reddit 게시물은 증거라며 삽화 일곱 점을 짚었다. 대칭이 맞지 않는 신전 기둥, 불가능한 건축 구조, 서로 녹아 붙은 듯한 동물과 사람이 근거로 꼽혔다."
               },
               {
                 "t": "p",
-                "x": "노조들은 학습 라이선스 시장이 이미 존재한다고 주장한다. 이들의 2026년 계약에는 “적용 대상 저작물을 대중용·상용 생성형 AI 시스템 학습에 쓰도록 제3자에게 라이선스할 때의 통지·교섭권”이 들어 있다. 의견서는 “이 사건에서 학습이 일률적으로 공정 이용이라는 판결이 나오면 노조와 업계가 교섭 테이블에서 합의한 조건이 무의미해진다”고 썼다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/picket.jpg",
-                "cap": "2023년 7월 31일 뉴욕 Warner Bros. Discovery 앞의 SAG-AFTRA 피켓 시위. 사진: Phil Roeder, Wikimedia Commons, CC BY 2.0"
+                "x": "조사 결과 “아트 디렉터는 수년간 Paizo를 위해 많은 작품을 만들어 온 아티스트를 지지한다.” 회사는 “Paizo는 제품에 AI 그림을 쓰지 않으며, 모든 아티스트는 창작에 인공지능 사용을 명확히 배제하는 계약에 서명한다”고 덧붙였다."
               },
               {
                 "t": "p",
-                "x": "Stein 판사는 먼저 의견서를 받아들일지부터 결정해야 한다."
+                "x": "Paizo의 방침은 오래됐다. 2023년 블로그 글에서 “Paizo는 당분간 어떤 종류의 AI-generated(AI 생성) ‘창작’ 작업도 쓰지 않을 것”이라고 밝혔다. 회사는 “이 문제를 알려준” 커뮤니티에 감사를 표하며 “우리 그림에 AI 제품이 쓰였다는 의혹을 심각하게 받아들인다”고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "労組、OpenAI\n著作権訴訟に声を上げる",
-          "body": "SAG-AFTRA、AFM、WGAがOpenAI著作権訴訟への意見書提出を申し立てた。",
-          "mini_headline": "労組がOpenAI訴訟に参加へ",
+          "headline": "Paizo、AIアート疑惑\nFeyboundめぐり否定",
+          "body": "AI画像を禁じるPaizoが、FeyboundにAI挿絵が混じったとの指摘を否定した。",
+          "mini_headline": "PaizoがAIアート疑惑を否定",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/hero-2.jpg"
+                "src": "https://www.wargamer.com/wp-content/sites/wargamer/2026/11/pathfinder-feybound-ai-airt.jpg"
               },
               {
                 "t": "p",
-                "x": "10月29日、SAG-AFTRA、米国音楽家連盟(American Federation of Musicians)、全米脚本家組合(Writers Guild of America)の両支部は、Sidney H. Stein判事が担当するIn re OpenAI, Inc., Copyright Infringement Litigationで、法廷助言者意見書の提出許可を求める申し立てを行った。34ページの意見書は、多数の新聞社や作家からなる原告側を支持し、AIの学習を一律にフェアユースとみなすいかなる判断も退けるよう裁判所に求めている。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/brief-p19.jpg",
-                "cap": "2026年10月29日に提出された意見書案の19ページ。画像:In re OpenAI, Dkt. 2332(CourtListener経由)"
+                "x": "11月4日に発売されたPathfinderのソースブックFeyboundが、AIアートを含んでいる疑いで批判を浴びている。画像は11月10日にReddit上でファンが最初に指摘した。PaizoはWargamerに「Feyboundのアートを担当したアーティストと寄せられた懸念について話し合い、アーティストはAIの使用を否定している」と語った。"
               },
               {
                 "t": "p",
-                "x": "19ページは合成音声と仕事の喪失を結びつけている。そこにある21パーセントという数字は、1,379件の回答を集めたNAVAの調査「State of Voiceover in 2026」によるものだ。「合成音声に仕事を奪われたと認識したことがあるか」との問いに、21パーセントが「ある」と答えた。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/nava-shot.jpg",
-                "cap": "NAVAの調査ページ。2026年11月1日撮影のスクリーンショット。画像:NAVA"
+                "x": "Redditの投稿は証拠とされるイラスト七点を挙げ、左右対称でない神殿の柱、ありえない建築、溶け合ったような動物と人物を指摘している。"
               },
               {
                 "t": "p",
-                "x": "組合側は、学習用ライセンスの市場はすでに存在すると主張する。2026年の契約には「対象作品を、一般向けに商用提供される生成AIシステムの学習のために第三者へライセンスする際の通知・交渉権」が盛り込まれている。意見書は「本件で学習が一律にフェアユースだとする判決が出れば、組合と業界が交渉の場で合意した条件が無意味になる」と述べている。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/picket.jpg",
-                "cap": "2023年7月31日、ニューヨークのWarner Bros. Discovery前でピケを張るSAG-AFTRA。写真:Phil Roeder(Wikimedia Commons経由、CC BY 2.0)"
+                "x": "調査を経て「アートディレクターは、長年Paizoのために多くの作品を手がけてきたアーティストを支持している」。同社は「PaizoはAIアートを製品に使用しておらず、すべてのアーティストは創作に人工知能を使わないことを明記した契約に署名している」と付け加えた。"
               },
               {
                 "t": "p",
-                "x": "Stein判事はまず、意見書を受理するかどうかを判断しなければならない。"
+                "x": "Paizoの方針は以前からのものだ。2023年のブログ記事では「Paizoは当面、いかなる種類のAI-generatedな『創作』物も使用しない」と表明していた。同社は「この件を知らせてくれた」コミュニティに感謝し、「アートにおけるAI製品の使用疑惑を真剣に受け止めている」としている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "工会求在OpenAI\n版权案中发声",
-          "body": "SAG-AFTRA、AFM和WGA申请在OpenAI版权案中提交法庭之友意见书。",
-          "mini_headline": "工会介入OpenAI案",
+          "headline": "Paizo驳斥\nFeybound用AI图之说",
+          "body": "禁止在书中使用AI美术的Paizo，否认粉丝所称新书Feybound混入AI插图的说法。",
+          "mini_headline": "Paizo否认AI美术指控",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/hero-2.jpg"
+                "src": "https://www.wargamer.com/wp-content/sites/wargamer/2026/11/pathfinder-feybound-ai-airt.jpg"
               },
               {
                 "t": "p",
-                "x": "10月29日，SAG-AFTRA、美国音乐家联合会（American Federation of Musicians）以及美国编剧工会（Writers Guild of America）的两个分会，在Sidney H. Stein法官审理的In re OpenAI, Inc., Copyright Infringement Litigation一案中提出动议，请求准许提交法庭之友意见书。这份34页的意见书支持由众多报社和作者组成的原告方，并请求法院驳回任何将AI训练一律视为合理使用的规则。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/brief-p19.jpg",
-                "cap": "2026年10月29日提交的意见书草案第19页。图片：In re OpenAI, Dkt. 2332，来自CourtListener"
+                "x": "11月4日发售的Pathfinder设定集Feybound因被指含有AI美术而遭到批评。这些图像最早由粉丝于11月10日在Reddit上指出。Paizo对Wargamer表示：“我们已就外界提出的疑虑与负责Feybound美术的艺术家进行沟通，该艺术家否认使用了AI。”"
               },
               {
                 "t": "p",
-                "x": "第19页将合成语音与工作流失联系起来。其中百分之二十一这一数字来自NAVA的State of Voiceover in 2026调查，该调查共收集1,379份回复：在被问及“你是否明知自己因合成语音而失去过工作？”时，百分之二十一的人回答是。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/nava-shot.jpg",
-                "cap": "NAVA调查页面，截图摄于2026年11月1日。图片：NAVA"
+                "x": "这篇Reddit帖子列出七幅插图作为所谓证据，指出神殿柱子不对称、建筑结构不可能存在，以及动物与人物融为一体。"
               },
               {
                 "t": "p",
-                "x": "工会认为，训练授权市场已经存在：他们2026年的合同中包含“在向第三方授权受保护作品用于训练面向公众、商业化的生成式AI系统时的通知与谈判权”。意见书写道：“若本案裁定训练一律属于合理使用，将使工会与业界在谈判桌上达成的条款失去意义。”"
-              },
-              {
-                "t": "img",
-                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/picket.jpg",
-                "cap": "2023年7月31日，SAG-AFTRA在纽约Warner Bros. Discovery门外举行纠察抗议。摄影：Phil Roeder，来自Wikimedia Commons，CC BY 2.0"
+                "x": "调查之后，“美术总监支持这位多年来为Paizo创作了大量作品的艺术家。”公司还补充说：“Paizo不在产品中使用AI美术，所有艺术家签署的合同都明确排除在创作中使用人工智能。”"
               },
               {
                 "t": "p",
-                "x": "Stein法官首先需要决定是否接受这份意见书。"
+                "x": "Paizo的这一政策由来已久：2023年的一篇博客文章称，“在可预见的未来，Paizo不会使用任何AI-generated的‘创意’作品”。公司感谢社区“提醒我们注意此事”，并表示“认真对待美术中涉嫌使用AI产品的情况”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Sindicatos piden voz en el caso\nde copyright contra OpenAI",
-          "body": "SAG-AFTRA, AFM y WGA pidieron presentar un escrito en el caso de OpenAI, citando una encuesta a actores de voz.",
-          "mini_headline": "Los sindicatos entran en el caso OpenAI",
+          "headline": "Paizo rechaza acusaciones de AI\nen Feybound, de Pathfinder",
+          "body": "Paizo, que prohíbe el arte con AI en sus libros, niega que se colaran ilustraciones de AI en su nuevo libro Feybound.",
+          "mini_headline": "Paizo niega arte con AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/hero-2.jpg"
+                "src": "https://www.wargamer.com/wp-content/sites/wargamer/2026/11/pathfinder-feybound-ai-airt.jpg"
               },
               {
                 "t": "p",
-                "x": "El 29 de octubre, SAG-AFTRA, la American Federation of Musicians y las dos ramas del Writers Guild of America presentaron una moción para que se les permita aportar un escrito amicus curiae en In re OpenAI, Inc., Copyright Infringement Litigation, ante el juez Sidney H. Stein. El escrito, de 34 páginas, respalda a los demandantes, una larga lista de periódicos y autores, y pide al tribunal que rechace cualquier norma que trate el entrenamiento de IA como uso legítimo de forma general."
-              },
-              {
-                "t": "img",
-                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/brief-p19.jpg",
-                "cap": "Página 19 del escrito propuesto, presentado el 29 de octubre de 2026. Imagen: In re OpenAI, Dkt. 2332, vía CourtListener"
+                "x": "Feybound, un libro de referencia de Pathfinder publicado el 4 de noviembre, ha recibido críticas por contener supuestamente arte hecho con AI. Las imágenes fueron señaladas por primera vez por fans en Reddit el 10 de noviembre. Paizo dijo a Wargamer que “hemos hablado de las inquietudes planteadas con el artista responsable del arte de Feybound, y el artista niega haber usado AI”."
               },
               {
                 "t": "p",
-                "x": "La página 19 vincula las voces sintéticas con la pérdida de encargos. Su cifra del 21 por ciento procede de la encuesta State of Voiceover in 2026 de NAVA, que reunió 1.379 respuestas: ante la pregunta «¿Alguna vez ha perdido a sabiendas un trabajo frente a una voz sintética?», el 21 por ciento respondió que sí."
-              },
-              {
-                "t": "img",
-                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/nava-shot.jpg",
-                "cap": "Página de la encuesta de NAVA, captura tomada el 1 de noviembre de 2026. Imagen: NAVA"
+                "x": "La publicación de Reddit destaca siete ilustraciones como supuesta prueba, y señala columnas de templo sin simetría, arquitectura imposible y animales y personas que se funden entre sí."
               },
               {
                 "t": "p",
-                "x": "Los sindicatos sostienen que ya existe un mercado de licencias para entrenamiento: sus contratos de 2026 incluyen «un derecho de notificación y negociación sobre licencias a terceros de obras cubiertas para entrenar sistemas de IA generativa comerciales y abiertos al público». «Un fallo que declare aquí que el entrenamiento es uso legítimo de forma categórica dejaría sin efecto los términos que los Sindicatos y la industria acordaron en la mesa de negociación», señala el escrito."
-              },
-              {
-                "t": "img",
-                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/picket.jpg",
-                "cap": "Piquete de SAG-AFTRA frente a Warner Bros. Discovery en Nueva York, 31 de julio de 2023. Foto: Phil Roeder vía Wikimedia Commons, CC BY 2.0"
+                "x": "Tras su investigación, “el director de arte respalda al artista, que ha producido mucho material para Paizo a lo largo de los años”. “Paizo no usa arte de AI en nuestros productos, y todos los artistas firman un contrato que excluye claramente el uso de inteligencia artificial en sus creaciones”, añade la empresa."
               },
               {
                 "t": "p",
-                "x": "El juez Stein debe decidir primero si acepta el escrito."
+                "x": "La política de Paizo viene de lejos: una entrada de blog de 2023 afirmaba que “Paizo no usará trabajo ‘creativo’ generado por AI (AI-generated) de ningún tipo en el futuro previsible”. La empresa agradeció a su comunidad por “hacérnoslo saber” y afirma que “se toma en serio el supuesto uso de productos de AI en nuestro arte”."
               }
             ]
           }
@@ -787,15 +677,15 @@
       }
     },
     {
-      "id": "books-claude-kindle-jailbreak-apps",
-      "source_lang": "en",
+      "id": "hivemind-aurora-translation",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "탈옥한 Kindle에\nClaude표 맞춤 앱",
-      "body": "한 애호가가 탈옥한 7th-gen Kindle에 쓸 앱을 Claude로 만들었다.",
-      "mini_headline": "Claude로 만든 Kindle 앱",
+      "headline": "AI가 초벌, 사람이 완성\n오로라 번역 서포터즈 출범",
+      "body": "하이브마인드가 AI 초벌 번역을 사람이 다듬는 오로라 번역 서포터즈를 출범했다.",
+      "mini_headline": "AI 초벌, 사람이 완성",
       "tool": "Books",
-      "source": "XDA Developers",
-      "url": "https://www.xda-developers.com/claude-apps-kindle-jailbreak/",
+      "source": "IT동아",
+      "url": "https://it.donga.com/109886/",
       "accent": "#7928ca",
       "motif": "swatch",
       "full": {
@@ -803,295 +693,445 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/11/claude-kindle-featured.jpeg?&fit=crop&w=1600&h=900"
+            "src": "https://it.donga.com/media/__sized__/images/2026/11/10/a92622a13a004953-thumbnail-1920x1080-70.jpg",
+            "cap": "지난 1일 하이브마인드가 개최한 오로라 번역 서포터즈 1기 발대식 현장 / 출처=IT동아"
           },
           {
             "t": "p",
-            "x": "지난 한 해 동안 오래된 Kindle로 멋진 일을 벌이거나 Claude로 기기 소프트웨어를 손보는 사람은 여럿 봤다. 두 가지를 한꺼번에 해낸 사람은 이번이 처음이다."
+            "x": "글로벌 퍼블리싱 플랫폼 ‘오로라(Aurorah)’를 개발·운영하는 스타트업 하이브마인드가 지난 11월 1일 ‘오로라 번역 서포터즈’ 1기 발대식을 열고 AI와 인간 번역가의 협업 모델 구축에 나섰다."
+          },
+          {
+            "t": "img",
+            "src": "https://it.donga.com/media/__sized__/images/2026/11/10/45ff4549ef194d0f-thumbnail-1920x1080-70.jpg",
+            "cap": "김동욱 하이브마인드 대표 / 출처=IT동아"
           },
           {
             "t": "p",
-            "x": "ClaudeAI 서브레딧 사용자 abdenourgnx1이 최근 Claude로 해낸 작업을 올렸다. 쓰지 않던 7th-gen Kindle을 가이드대로 탈옥해 전자책 단말기 소프트웨어에 손댈 길을 연 뒤, Anthropic의 AI 어시스턴트에게 약간의 도움을 받았다."
+            "x": "김동욱 대표는 “AI를 활용해 번역 비용을 낮춤으로써 우수한 원작 웹소설을 글로벌 독자에게 소개하고자 하이브마인드는 시작됐다”며 “다만 AI 초벌 번역만 의존할 경우 작가 고유의 문체와 세밀한 뉘앙스가 훼손될 수 있어 인간의 현지화 작업이 필수적”이라고 말했다."
           },
           {
             "t": "p",
-            "x": "“탈옥한 뒤에는 claude가 넘겨받아 원하는 애플리케이션을 무엇이든 설계하고 만들어 준다. 나는 원하는 것의 콘셉트 이미지와 어떻게 동작하길 바라는지만 알려줬고, 나머지는 claude가 다 했다. KUAL(kindle용 애플리케이션 런처)이나 자기 모델에 맞는 같은 기능의 도구를 꼭 갖춰 두라.”"
+            "x": "100명 이상 지원자 중 30명이 선발돼 영어·중국어·일본어 언어권별로 10명씩 배치됐다. 참가자들은 한 달간 배정받은 웹소설의 현지화를 맡아, AI가 생성한 1차 번역안을 원문과 대조해 의미와 표현을 바로잡는다."
+          },
+          {
+            "t": "img",
+            "src": "https://it.donga.com/media/__sized__/images/2026/11/10/51ac7a60f92d4de4-thumbnail-1920x1080-70.jpg",
+            "cap": "지난 1일 하이브마인드가 개최한 오로라 번역 서포터즈 1기 발대식 현장 / 출처=IT동아"
           },
           {
             "t": "p",
-            "x": "이 Kindle은 이제 벽에 거는 날씨 예보 디스플레이다. Wi-Fi로 매시간 새 데이터를 받아 화면을 바꾸지만, 배터리를 아끼려고 밤에는 갱신을 멈춘다. 이렇게 설정하면 일주일에 배터리가 10%만 닳아 한 번 충전으로 두 달 넘게 버틴다고 한다."
+            "x": "오로라는 작품 설정 데이터, 용어집, 번역 결과물, 수정 이력을 한곳에서 관리하며, 참가자는 챗GPT, 클로드 등 LLM 엔진을 골라 쓸 수 있다. 입력한 수정 사유와 내역은 데이터베이스로 축적돼 현지화 품질 관리와 모델 고도화에 활용된다."
+          },
+          {
+            "t": "p",
+            "x": "하이브마인드는 일본을 첫 해외 시장으로 오로라의 해외 진출을 추진 중이며, 1기 성과를 바탕으로 후속 기수를 모집할 예정이다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "A jailbroken Kindle gets\ncustom apps from Claude",
-          "body": "A hobbyist used Claude to build custom apps for a jailbroken 7th-gen Kindle, stretching it well beyond reading books.",
-          "mini_headline": "Claude-built Kindle apps",
+        "ko": {
+          "headline": "AI가 초벌, 사람이 완성\n오로라 번역 서포터즈 출범",
+          "body": "하이브마인드가 AI 초벌 번역을 사람이 다듬는 오로라 번역 서포터즈를 출범했다.",
+          "mini_headline": "AI 초벌, 사람이 완성",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/11/claude-kindle-featured.jpeg?&fit=crop&w=1600&h=900"
+                "src": "https://it.donga.com/media/__sized__/images/2026/11/10/a92622a13a004953-thumbnail-1920x1080-70.jpg",
+                "cap": "지난 1일 하이브마인드가 개최한 오로라 번역 서포터즈 1기 발대식 현장 / 출처=IT동아"
               },
               {
                 "t": "p",
-                "x": "Over the past year, we've seen people do cool things with their old Kindles and customize device software using Claude. However, until now, I hadn't seen someone do both at the same time."
+                "x": "글로벌 퍼블리싱 플랫폼 ‘오로라(Aurorah)’를 개발·운영하는 스타트업 하이브마인드가 지난 11월 1일 ‘오로라 번역 서포터즈’ 1기 발대식을 열고 AI와 인간 번역가의 협업 모델 구축에 나섰다."
+              },
+              {
+                "t": "img",
+                "src": "https://it.donga.com/media/__sized__/images/2026/11/10/45ff4549ef194d0f-thumbnail-1920x1080-70.jpg",
+                "cap": "김동욱 하이브마인드 대표 / 출처=IT동아"
               },
               {
                 "t": "p",
-                "x": "Over on the ClaudeAI subreddit, user abdenourgnx1 showed off what they got done with Claude recently. They had a 7th-gen Kindle sitting around, so they followed a guide to jailbreak it, giving them access to the e-reader's software. Then they got a little help from Anthropic's AI assistant:"
+                "x": "김동욱 대표는 “AI를 활용해 번역 비용을 낮춤으로써 우수한 원작 웹소설을 글로벌 독자에게 소개하고자 하이브마인드는 시작됐다”며 “다만 AI 초벌 번역만 의존할 경우 작가 고유의 문체와 세밀한 뉘앙스가 훼손될 수 있어 인간의 현지화 작업이 필수적”이라고 말했다."
               },
               {
                 "t": "p",
-                "x": "\"After the jailbreak, claude takes over to design and build whatever application you want. For me i just gave it a concept image of what i want and how i wanted it to behave and it did the rest. Make sure to have KUAL (application launcher in kindle) or whatever equivalent thing for your model.\""
+                "x": "100명 이상 지원자 중 30명이 선발돼 영어·중국어·일본어 언어권별로 10명씩 배치됐다. 참가자들은 한 달간 배정받은 웹소설의 현지화를 맡아, AI가 생성한 1차 번역안을 원문과 대조해 의미와 표현을 바로잡는다."
+              },
+              {
+                "t": "img",
+                "src": "https://it.donga.com/media/__sized__/images/2026/11/10/51ac7a60f92d4de4-thumbnail-1920x1080-70.jpg",
+                "cap": "지난 1일 하이브마인드가 개최한 오로라 번역 서포터즈 1기 발대식 현장 / 출처=IT동아"
               },
               {
                 "t": "p",
-                "x": "Now the Kindle is a cool display you can mount on your wall as a weather forecaster. It fetches new data over Wi-Fi and updates every hour, but not at night to save battery. They report that this setup drains only 10% of the battery over the week, meaning you can get over two months of use before you need to plug it in again."
+                "x": "오로라는 작품 설정 데이터, 용어집, 번역 결과물, 수정 이력을 한곳에서 관리하며, 참가자는 챗GPT, 클로드 등 LLM 엔진을 골라 쓸 수 있다. 입력한 수정 사유와 내역은 데이터베이스로 축적돼 현지화 품질 관리와 모델 고도화에 활용된다."
+              },
+              {
+                "t": "p",
+                "x": "하이브마인드는 일본을 첫 해외 시장으로 오로라의 해외 진출을 추진 중이며, 1기 성과를 바탕으로 후속 기수를 모집할 예정이다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "탈옥한 Kindle에\nClaude표 맞춤 앱",
-          "body": "한 애호가가 탈옥한 7th-gen Kindle에 쓸 앱을 Claude로 만들었다.",
-          "mini_headline": "Claude로 만든 Kindle 앱",
+        "en": {
+          "headline": "AI drafts, humans polish:\nAurorah supporters launch",
+          "body": "Hivemind launched Aurorah Translation Supporters, in which people refine AI first-draft translations.",
+          "mini_headline": "AI drafts, humans finish",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/11/claude-kindle-featured.jpeg?&fit=crop&w=1600&h=900"
+                "src": "https://it.donga.com/media/__sized__/images/2026/11/10/a92622a13a004953-thumbnail-1920x1080-70.jpg",
+                "cap": "The launch ceremony for cohort 1 of the Aurorah Translation Supporters, held by Hivemind on the 1st / Source: IT Donga"
               },
               {
                 "t": "p",
-                "x": "지난 한 해 동안 오래된 Kindle로 멋진 일을 벌이거나 Claude로 기기 소프트웨어를 손보는 사람은 여럿 봤다. 두 가지를 한꺼번에 해낸 사람은 이번이 처음이다."
+                "x": "Hivemind, a startup that develops and runs the global publishing platform ‘Aurorah’, held a launch ceremony for cohort 1 of its ‘Aurorah Translation Supporters’ on November 1, setting out to build a collaboration model between AI and human translators."
+              },
+              {
+                "t": "img",
+                "src": "https://it.donga.com/media/__sized__/images/2026/11/10/45ff4549ef194d0f-thumbnail-1920x1080-70.jpg",
+                "cap": "Kim Dong-wook, CEO of Hivemind / Source: IT Donga"
               },
               {
                 "t": "p",
-                "x": "ClaudeAI 서브레딧 사용자 abdenourgnx1이 최근 Claude로 해낸 작업을 올렸다. 쓰지 않던 7th-gen Kindle을 가이드대로 탈옥해 전자책 단말기 소프트웨어에 손댈 길을 연 뒤, Anthropic의 AI 어시스턴트에게 약간의 도움을 받았다."
+                "x": "CEO Kim Dong-wook said, “Hivemind started out to introduce excellent original web novels to global readers by using AI to lower translation costs,” adding, “But relying only on AI first-draft translation can damage an author’s distinctive style and fine nuances, so human localization work is essential.”"
               },
               {
                 "t": "p",
-                "x": "“탈옥한 뒤에는 claude가 넘겨받아 원하는 애플리케이션을 무엇이든 설계하고 만들어 준다. 나는 원하는 것의 콘셉트 이미지와 어떻게 동작하길 바라는지만 알려줬고, 나머지는 claude가 다 했다. KUAL(kindle용 애플리케이션 런처)이나 자기 모델에 맞는 같은 기능의 도구를 꼭 갖춰 두라.”"
+                "x": "Of more than 100 applicants, 30 were selected and assigned 10 each to the English, Chinese and Japanese language groups. For one month, participants handle the localization of their assigned web novels, checking the AI-generated 1st-pass translation against the original and correcting meaning and expression."
+              },
+              {
+                "t": "img",
+                "src": "https://it.donga.com/media/__sized__/images/2026/11/10/51ac7a60f92d4de4-thumbnail-1920x1080-70.jpg",
+                "cap": "The launch ceremony for cohort 1 of the Aurorah Translation Supporters, held by Hivemind on the 1st / Source: IT Donga"
               },
               {
                 "t": "p",
-                "x": "이 Kindle은 이제 벽에 거는 날씨 예보 디스플레이다. Wi-Fi로 매시간 새 데이터를 받아 화면을 바꾸지만, 배터리를 아끼려고 밤에는 갱신을 멈춘다. 이렇게 설정하면 일주일에 배터리가 10%만 닳아 한 번 충전으로 두 달 넘게 버틴다고 한다."
+                "x": "Aurorah manages story setting data, glossaries, translation output and revision history in one place, and participants can choose LLM engines such as ChatGPT and Claude. The revision reasons and details they enter build up in a database used for localization quality control and model improvement."
+              },
+              {
+                "t": "p",
+                "x": "Hivemind is pursuing Aurorah’s overseas expansion with Japan as its first foreign market, and plans to recruit later cohorts based on the results of cohort 1."
               }
             ]
           }
         },
         "ja": {
-          "headline": "脱獄したKindleに\nClaudeが専用アプリ",
-          "body": "愛好家がClaudeで、脱獄した7th-genのKindle用アプリを作った。",
-          "mini_headline": "Claude製のKindleアプリ",
+          "headline": "AIが下訳、人が仕上げ\nオーロラ翻訳サポーターズ始動",
+          "body": "ハイブマインドが、AIの下訳を人が磨くオーロラ翻訳サポーターズを発足させた。",
+          "mini_headline": "AIが下訳、人が仕上げ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/11/claude-kindle-featured.jpeg?&fit=crop&w=1600&h=900"
+                "src": "https://it.donga.com/media/__sized__/images/2026/11/10/a92622a13a004953-thumbnail-1920x1080-70.jpg",
+                "cap": "1日にハイブマインドが開催したオーロラ翻訳サポーターズ1期の発足式の様子 / 出典=IT東亜"
               },
               {
                 "t": "p",
-                "x": "この一年、古いKindleで面白いことをする人や、Claudeでデバイスのソフトウェアをカスタマイズする人を見てきた。だが、その両方を同時にやる人はこれまで見たことがなかった。"
+                "x": "グローバル出版プラットフォーム「オーロラ(Aurorah)」を開発・運営するスタートアップのハイブマインドは、11月1日に「オーロラ翻訳サポーターズ」1期の発足式を開き、AIと人間の翻訳者による協業モデルの構築に乗り出した。"
+              },
+              {
+                "t": "img",
+                "src": "https://it.donga.com/media/__sized__/images/2026/11/10/45ff4549ef194d0f-thumbnail-1920x1080-70.jpg",
+                "cap": "ハイブマインドのキム・ドンウク代表 / 出典=IT東亜"
               },
               {
                 "t": "p",
-                "x": "ClaudeAIサブレディットで、ユーザーのabdenourgnx1が最近Claudeで成し遂げたことを披露した。手元に眠っていた7th-genのKindleがあったため、ガイドに従って脱獄させ、電子書籍リーダーのソフトウェアにアクセスできるようにした。そのうえでAnthropicのAIアシスタントの手を少し借りた。"
+                "x": "キム・ドンウク代表は「AIを活用して翻訳コストを下げ、優れたオリジナルのウェブ小説を世界の読者に紹介するためにハイブマインドは始まった」とし、「ただしAIの下訳だけに頼ると、作家固有の文体や細かなニュアンスが損なわれかねないため、人間によるローカライズ作業が欠かせない」と語った。"
               },
               {
                 "t": "p",
-                "x": "「脱獄後はclaudeが引き継いで、欲しいアプリケーションを何でも設計・構築してくれる。自分は欲しいもののコンセプト画像と、どう動いてほしいかを伝えただけで、あとは全部やってくれた。KUAL(kindleのアプリケーションランチャー)か、自分の機種でそれに相当するものを必ず用意しておくこと」"
+                "x": "100人以上の応募者から30人が選ばれ、英語・中国語・日本語の言語圏ごとに10人ずつ配置された。参加者は1か月間、割り当てられたウェブ小説のローカライズを担い、AIが生成した1次翻訳案を原文と照らし合わせて意味や表現を修正する。"
+              },
+              {
+                "t": "img",
+                "src": "https://it.donga.com/media/__sized__/images/2026/11/10/51ac7a60f92d4de4-thumbnail-1920x1080-70.jpg",
+                "cap": "1日にハイブマインドが開催したオーロラ翻訳サポーターズ1期の発足式の様子 / 出典=IT東亜"
               },
               {
                 "t": "p",
-                "x": "今ではこのKindleは、壁に掛けて使える天気予報ディスプレイになった。Wi-Fi経由で新しいデータを取得して毎時更新するが、バッテリー節約のため夜間は更新しない。この設定でバッテリーの減りは1週間で10%にとどまり、再充電まで2か月以上使えるという。"
+                "x": "オーロラは作品の設定データ、用語集、翻訳成果物、修正履歴を一元管理し、参加者はChatGPTやClaudeなどのLLMエンジンを選んで使える。入力した修正理由と内容はデータベースに蓄積され、ローカライズの品質管理とモデルの高度化に活用される。"
+              },
+              {
+                "t": "p",
+                "x": "ハイブマインドは日本を最初の海外市場としてオーロラの海外展開を進めており、1期の成果をもとに次期メンバーを募集する予定だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "越狱Kindle获得\nClaude定制应用",
-          "body": "一位爱好者用Claude为越狱的7th-gen Kindle打造定制应用，远超阅读用途。",
-          "mini_headline": "Claude打造的Kindle应用",
+          "headline": "AI初译，人工定稿\nAurorah翻译支持者启动",
+          "body": "Hivemind推出Aurorah翻译支持者计划，由人工润色AI初译稿。",
+          "mini_headline": "AI初译，人工定稿",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/11/claude-kindle-featured.jpeg?&fit=crop&w=1600&h=900"
+                "src": "https://it.donga.com/media/__sized__/images/2026/11/10/a92622a13a004953-thumbnail-1920x1080-70.jpg",
+                "cap": "Hivemind于1日举行的Aurorah翻译支持者第1期启动仪式现场 / 来源：IT东亚"
               },
               {
                 "t": "p",
-                "x": "过去一年里，我们看到有人用旧Kindle做出各种有趣的东西，也看到有人用Claude定制设备软件。但直到现在，我还没见过有人同时做到这两点。"
+                "x": "开发并运营全球出版平台“Aurorah”的初创公司Hivemind于11月1日举行“Aurorah翻译支持者”第1期启动仪式，着手构建AI与人类译者协作的模式。"
+              },
+              {
+                "t": "img",
+                "src": "https://it.donga.com/media/__sized__/images/2026/11/10/45ff4549ef194d0f-thumbnail-1920x1080-70.jpg",
+                "cap": "Hivemind代表Kim Dong-wook / 来源：IT东亚"
               },
               {
                 "t": "p",
-                "x": "在ClaudeAI子版块上，用户abdenourgnx1展示了最近借助Claude完成的成果。他们手上有一台闲置的7th-gen Kindle，于是按照教程将其越狱，从而能访问这台电子阅读器的软件。随后，他们请Anthropic的AI助手帮了点忙："
+                "x": "Kim Dong-wook表示：“Hivemind的创立初衷，是借助AI降低翻译成本，把优秀的原创网络小说介绍给全球读者。”他还说：“但如果只依赖AI初译，作者独有的文风和细腻的语感可能受损，因此人工本地化必不可少。”"
               },
               {
                 "t": "p",
-                "x": "“越狱之后，claude就会接手，设计并构建你想要的任何应用。我只是给了它一张我想要的概念图，说明了我希望它如何运行，剩下的都是它完成的。记得为你的机型装好KUAL（kindle里的应用启动器）或其他同类工具。”"
+                "x": "从100多名申请者中选出30人，按英语、中文、日语语种各分配10人。参与者在一个月内负责所分配网络小说的本地化，将AI生成的第1版译稿与原文对照，修正意思和表达。"
+              },
+              {
+                "t": "img",
+                "src": "https://it.donga.com/media/__sized__/images/2026/11/10/51ac7a60f92d4de4-thumbnail-1920x1080-70.jpg",
+                "cap": "Hivemind于1日举行的Aurorah翻译支持者第1期启动仪式现场 / 来源：IT东亚"
               },
               {
                 "t": "p",
-                "x": "现在，这台Kindle成了一块可以挂在墙上的天气预报显示屏。它通过Wi-Fi获取新数据，每小时更新一次，但夜间不更新以节省电量。据称这一设置一周只消耗10%的电量，也就是说充一次电可以用两个多月。"
+                "x": "Aurorah在同一处管理作品设定数据、术语表、翻译成果和修改记录，参与者可自选ChatGPT、Claude等LLM引擎。所输入的修改理由与内容会积累进数据库，用于本地化质量管理和模型升级。"
+              },
+              {
+                "t": "p",
+                "x": "Hivemind正以日本为首个海外市场推进Aurorah出海，并计划根据第1期成果招募后续批次。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un Kindle con jailbreak recibe\napps a medida hechas con Claude",
-          "body": "Un aficionado usó Claude para crear apps a medida para un Kindle 7th-gen con jailbreak, más allá de la lectura.",
-          "mini_headline": "Apps para Kindle hechas con Claude",
+          "headline": "Borrador con AI, acabado humano\nArranca el programa de Aurorah",
+          "body": "Hivemind lanzó Aurorah Translation Supporters, un programa en el que personas pulen traducciones iniciales de AI.",
+          "mini_headline": "Borrador con AI, acabado humano",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/11/claude-kindle-featured.jpeg?&fit=crop&w=1600&h=900"
+                "src": "https://it.donga.com/media/__sized__/images/2026/11/10/a92622a13a004953-thumbnail-1920x1080-70.jpg",
+                "cap": "Ceremonia de lanzamiento de la promoción 1 de Aurorah Translation Supporters, celebrada por Hivemind el día 1 / Fuente: IT Donga"
               },
               {
                 "t": "p",
-                "x": "Durante el último año hemos visto a gente hacer cosas interesantes con sus Kindle antiguos y personalizar el software de sus dispositivos con Claude. Pero, hasta ahora, no había visto a nadie hacer ambas cosas a la vez."
+                "x": "Hivemind, startup que desarrolla y opera la plataforma global de publicación ‘Aurorah’, celebró el 1 de noviembre la ceremonia de lanzamiento de la promoción 1 de ‘Aurorah Translation Supporters’ y se propuso construir un modelo de colaboración entre la AI y traductores humanos."
+              },
+              {
+                "t": "img",
+                "src": "https://it.donga.com/media/__sized__/images/2026/11/10/45ff4549ef194d0f-thumbnail-1920x1080-70.jpg",
+                "cap": "Kim Dong-wook, CEO de Hivemind / Fuente: IT Donga"
               },
               {
                 "t": "p",
-                "x": "En el subreddit ClaudeAI, el usuario abdenourgnx1 mostró lo que logró hace poco con Claude. Tenía un Kindle 7th-gen sin usar, así que siguió una guía para hacerle jailbreak, lo que le dio acceso al software del lector electrónico. Después recibió algo de ayuda del asistente de IA de Anthropic:"
+                "x": "El CEO Kim Dong-wook afirmó que “Hivemind nació para presentar excelentes novelas web originales a lectores de todo el mundo reduciendo los costes de traducción con AI”, y añadió que “si se depende solo de la traducción preliminar de AI, el estilo propio del autor y sus matices finos pueden dañarse, por lo que el trabajo humano de localización es imprescindible”."
               },
               {
                 "t": "p",
-                "x": "«Tras el jailbreak, claude se encarga de diseñar y crear la aplicación que quieras. Yo solo le di una imagen conceptual de lo que quería y de cómo quería que se comportara, y se ocupó del resto. Asegúrate de tener KUAL (lanzador de aplicaciones en kindle) o algo equivalente para tu modelo.»"
+                "x": "De más de 100 candidatos se seleccionaron 30, asignados a razón de 10 por ámbito lingüístico: inglés, chino y japonés. Durante un mes, los participantes se encargan de localizar las novelas web asignadas, cotejando con el original la 1.ª versión de la traducción generada por AI y corrigiendo el sentido y la expresión."
+              },
+              {
+                "t": "img",
+                "src": "https://it.donga.com/media/__sized__/images/2026/11/10/51ac7a60f92d4de4-thumbnail-1920x1080-70.jpg",
+                "cap": "Ceremonia de lanzamiento de la promoción 1 de Aurorah Translation Supporters, celebrada por Hivemind el día 1 / Fuente: IT Donga"
               },
               {
                 "t": "p",
-                "x": "Ahora el Kindle es una pantalla que se puede colgar en la pared como pronóstico del tiempo. Obtiene datos nuevos por Wi-Fi y se actualiza cada hora, aunque no de noche para ahorrar batería. Según el usuario, esta configuración consume solo el 10% de la batería a la semana, lo que permite usarlo más de dos meses antes de volver a cargarlo."
+                "x": "Aurorah gestiona en un solo lugar los datos de ambientación de las obras, los glosarios, las traducciones y el historial de revisiones, y los participantes pueden elegir motores LLM como ChatGPT o Claude. Los motivos y detalles de las correcciones se acumulan en una base de datos y se usan para el control de calidad de la localización y la mejora de los modelos."
+              },
+              {
+                "t": "p",
+                "x": "Hivemind impulsa la expansión internacional de Aurorah con Japón como primer mercado exterior y prevé reclutar nuevas promociones a partir de los resultados de la promoción 1."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "탈옥한 Kindle에\nClaude표 맞춤 앱",
-          "body": "한 애호가가 Claude로 탈옥한 7th-gen Kindle용 앱을 만들었다.",
-          "mini_headline": "Claude로 만든 Kindle 앱",
+        "en": {
+          "headline": "AI drafts, humans polish:\nAurorah supporters launch",
+          "body": "Hivemind launched Aurorah Translation Supporters, in which people refine AI first-draft translations.",
+          "mini_headline": "AI drafts, humans finish",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/11/claude-kindle-featured.jpeg?&fit=crop&w=1600&h=900"
+                "src": "https://it.donga.com/media/__sized__/images/2026/11/10/a92622a13a004953-thumbnail-1920x1080-70.jpg",
+                "cap": "The launch ceremony for cohort 1 of the Aurorah Translation Supporters, held by Hivemind on the 1st / Source: IT Donga"
               },
               {
                 "t": "p",
-                "x": "지난 한 해 동안 사람들이 오래된 Kindle로 멋진 일을 하거나 Claude로 기기 소프트웨어를 고치는 모습을 봐 왔다. 하지만 지금까지 두 가지를 한꺼번에 하는 사람은 보지 못했다."
+                "x": "Hivemind, a startup that develops and runs the global publishing platform ‘Aurorah’, held a launch ceremony for cohort 1 of its ‘Aurorah Translation Supporters’ on November 1, setting out to build a collaboration model between AI and human translators."
+              },
+              {
+                "t": "img",
+                "src": "https://it.donga.com/media/__sized__/images/2026/11/10/45ff4549ef194d0f-thumbnail-1920x1080-70.jpg",
+                "cap": "Kim Dong-wook, CEO of Hivemind / Source: IT Donga"
               },
               {
                 "t": "p",
-                "x": "ClaudeAI 서브레딧에서 사용자 abdenourgnx1이 최근 Claude로 해낸 작업을 공개했다. 쓰지 않던 7th-gen Kindle이 있어 가이드를 따라 탈옥했고, 덕분에 전자책 단말기의 소프트웨어에 접근할 수 있게 됐다. 그다음 Anthropic의 AI 어시스턴트에게서 약간의 도움을 받았다."
+                "x": "CEO Kim Dong-wook said, “Hivemind started out to introduce excellent original web novels to global readers by using AI to lower translation costs,” adding, “But relying only on AI first-draft translation can damage an author’s distinctive style and fine nuances, so human localization work is essential.”"
               },
               {
                 "t": "p",
-                "x": "“탈옥한 뒤에는 claude가 넘겨받아 원하는 애플리케이션을 무엇이든 설계하고 만들어 준다. 나는 원하는 것의 콘셉트 이미지와 어떻게 동작하길 바라는지만 알려줬고, 나머지는 claude가 다 했다. KUAL(kindle용 애플리케이션 런처)이나 자기 모델에 맞는 같은 기능의 도구를 꼭 갖춰 두라.”"
+                "x": "Of more than 100 applicants, 30 were selected and assigned 10 each to the English, Chinese and Japanese language groups. For one month, participants handle the localization of their assigned web novels, checking the AI-generated 1st-pass translation against the original and correcting meaning and expression."
+              },
+              {
+                "t": "img",
+                "src": "https://it.donga.com/media/__sized__/images/2026/11/10/51ac7a60f92d4de4-thumbnail-1920x1080-70.jpg",
+                "cap": "The launch ceremony for cohort 1 of the Aurorah Translation Supporters, held by Hivemind on the 1st / Source: IT Donga"
               },
               {
                 "t": "p",
-                "x": "이제 이 Kindle은 벽에 걸어 두는 날씨 예보용 디스플레이가 됐다. Wi-Fi로 새 데이터를 받아 매시간 갱신하지만, 배터리를 아끼려고 밤에는 갱신하지 않는다. 이 설정으로 일주일 동안 배터리가 10%만 줄어, 다시 충전하기까지 두 달 넘게 쓸 수 있다고 한다."
+                "x": "Aurorah manages story setting data, glossaries, translation output and revision history in one place, and participants can choose LLM engines such as ChatGPT and Claude. The revision reasons and details they enter build up in a database used for localization quality control and model improvement."
+              },
+              {
+                "t": "p",
+                "x": "Hivemind is pursuing Aurorah’s overseas expansion with Japan as its first foreign market, and plans to recruit later cohorts based on the results of cohort 1."
               }
             ]
           }
         },
         "ja": {
-          "headline": "脱獄したKindleに\nClaudeが専用アプリ",
-          "body": "愛好家がClaudeで、脱獄した7th-genのKindle用アプリを作った。",
-          "mini_headline": "Claude製のKindleアプリ",
+          "headline": "AIが下訳、人が仕上げ\nオーロラ翻訳サポーターズ始動",
+          "body": "ハイブマインドが、AIの下訳を人が磨くオーロラ翻訳サポーターズを発足させた。",
+          "mini_headline": "AIが下訳、人が仕上げ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/11/claude-kindle-featured.jpeg?&fit=crop&w=1600&h=900"
+                "src": "https://it.donga.com/media/__sized__/images/2026/11/10/a92622a13a004953-thumbnail-1920x1080-70.jpg",
+                "cap": "1日にハイブマインドが開催したオーロラ翻訳サポーターズ1期の発足式の様子 / 出典=IT東亜"
               },
               {
                 "t": "p",
-                "x": "この一年、古いKindleで面白いことをする人や、Claudeでデバイスのソフトウェアをカスタマイズする人を見てきた。だが、その両方を同時にやる人はこれまで見たことがなかった。"
+                "x": "グローバル出版プラットフォーム「オーロラ(Aurorah)」を開発・運営するスタートアップのハイブマインドは、11月1日に「オーロラ翻訳サポーターズ」1期の発足式を開き、AIと人間の翻訳者による協業モデルの構築に乗り出した。"
+              },
+              {
+                "t": "img",
+                "src": "https://it.donga.com/media/__sized__/images/2026/11/10/45ff4549ef194d0f-thumbnail-1920x1080-70.jpg",
+                "cap": "ハイブマインドのキム・ドンウク代表 / 出典=IT東亜"
               },
               {
                 "t": "p",
-                "x": "ClaudeAIサブレディットで、ユーザーのabdenourgnx1が最近Claudeで成し遂げたことを披露した。手元に眠っていた7th-genのKindleがあったため、ガイドに従って脱獄させ、電子書籍リーダーのソフトウェアにアクセスできるようにした。そのうえでAnthropicのAIアシスタントの手を少し借りた。"
+                "x": "キム・ドンウク代表は「AIを活用して翻訳コストを下げ、優れたオリジナルのウェブ小説を世界の読者に紹介するためにハイブマインドは始まった」とし、「ただしAIの下訳だけに頼ると、作家固有の文体や細かなニュアンスが損なわれかねないため、人間によるローカライズ作業が欠かせない」と語った。"
               },
               {
                 "t": "p",
-                "x": "「脱獄後はclaudeが引き継いで、欲しいアプリケーションを何でも設計・構築してくれる。自分は欲しいもののコンセプト画像と、どう動いてほしいかを伝えただけで、あとは全部やってくれた。KUAL(kindleのアプリケーションランチャー)か、自分の機種でそれに相当するものを必ず用意しておくこと」"
+                "x": "100人以上の応募者から30人が選ばれ、英語・中国語・日本語の言語圏ごとに10人ずつ配置された。参加者は1か月間、割り当てられたウェブ小説のローカライズを担い、AIが生成した1次翻訳案を原文と照らし合わせて意味や表現を修正する。"
+              },
+              {
+                "t": "img",
+                "src": "https://it.donga.com/media/__sized__/images/2026/11/10/51ac7a60f92d4de4-thumbnail-1920x1080-70.jpg",
+                "cap": "1日にハイブマインドが開催したオーロラ翻訳サポーターズ1期の発足式の様子 / 出典=IT東亜"
               },
               {
                 "t": "p",
-                "x": "今ではこのKindleは、壁に掛けて使える天気予報ディスプレイになった。Wi-Fi経由で新しいデータを取得して毎時更新するが、バッテリー節約のため夜間は更新しない。この設定でバッテリーの減りは1週間で10%にとどまり、再充電まで2か月以上使えるという。"
+                "x": "オーロラは作品の設定データ、用語集、翻訳成果物、修正履歴を一元管理し、参加者はChatGPTやClaudeなどのLLMエンジンを選んで使える。入力した修正理由と内容はデータベースに蓄積され、ローカライズの品質管理とモデルの高度化に活用される。"
+              },
+              {
+                "t": "p",
+                "x": "ハイブマインドは日本を最初の海外市場としてオーロラの海外展開を進めており、1期の成果をもとに次期メンバーを募集する予定だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "越狱Kindle获得\nClaude定制应用",
-          "body": "一位爱好者用Claude为越狱的7th-gen Kindle打造定制应用，远超阅读用途。",
-          "mini_headline": "Claude打造的Kindle应用",
+          "headline": "AI初译，人工定稿\nAurorah翻译支持者启动",
+          "body": "Hivemind推出Aurorah翻译支持者计划，由人工润色AI初译稿。",
+          "mini_headline": "AI初译，人工定稿",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/11/claude-kindle-featured.jpeg?&fit=crop&w=1600&h=900"
+                "src": "https://it.donga.com/media/__sized__/images/2026/11/10/a92622a13a004953-thumbnail-1920x1080-70.jpg",
+                "cap": "Hivemind于1日举行的Aurorah翻译支持者第1期启动仪式现场 / 来源：IT东亚"
               },
               {
                 "t": "p",
-                "x": "过去一年里，我们看到有人用旧Kindle做出各种有趣的东西，也看到有人用Claude定制设备软件。但直到现在，我还没见过有人同时做到这两点。"
+                "x": "开发并运营全球出版平台“Aurorah”的初创公司Hivemind于11月1日举行“Aurorah翻译支持者”第1期启动仪式，着手构建AI与人类译者协作的模式。"
+              },
+              {
+                "t": "img",
+                "src": "https://it.donga.com/media/__sized__/images/2026/11/10/45ff4549ef194d0f-thumbnail-1920x1080-70.jpg",
+                "cap": "Hivemind代表Kim Dong-wook / 来源：IT东亚"
               },
               {
                 "t": "p",
-                "x": "在ClaudeAI子版块上，用户abdenourgnx1展示了最近借助Claude完成的成果。他们手上有一台闲置的7th-gen Kindle，于是按照教程将其越狱，从而能访问这台电子阅读器的软件。随后，他们请Anthropic的AI助手帮了点忙："
+                "x": "Kim Dong-wook表示：“Hivemind的创立初衷，是借助AI降低翻译成本，把优秀的原创网络小说介绍给全球读者。”他还说：“但如果只依赖AI初译，作者独有的文风和细腻的语感可能受损，因此人工本地化必不可少。”"
               },
               {
                 "t": "p",
-                "x": "“越狱之后，claude就会接手，设计并构建你想要的任何应用。我只是给了它一张我想要的概念图，说明了我希望它如何运行，剩下的都是它完成的。记得为你的机型装好KUAL（kindle里的应用启动器）或其他同类工具。”"
+                "x": "从100多名申请者中选出30人，按英语、中文、日语语种各分配10人。参与者在一个月内负责所分配网络小说的本地化，将AI生成的第1版译稿与原文对照，修正意思和表达。"
+              },
+              {
+                "t": "img",
+                "src": "https://it.donga.com/media/__sized__/images/2026/11/10/51ac7a60f92d4de4-thumbnail-1920x1080-70.jpg",
+                "cap": "Hivemind于1日举行的Aurorah翻译支持者第1期启动仪式现场 / 来源：IT东亚"
               },
               {
                 "t": "p",
-                "x": "现在，这台Kindle成了一块可以挂在墙上的天气预报显示屏。它通过Wi-Fi获取新数据，每小时更新一次，但夜间不更新以节省电量。据称这一设置一周只消耗10%的电量，也就是说充一次电可以用两个多月。"
+                "x": "Aurorah在同一处管理作品设定数据、术语表、翻译成果和修改记录，参与者可自选ChatGPT、Claude等LLM引擎。所输入的修改理由与内容会积累进数据库，用于本地化质量管理和模型升级。"
+              },
+              {
+                "t": "p",
+                "x": "Hivemind正以日本为首个海外市场推进Aurorah出海，并计划根据第1期成果招募后续批次。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un Kindle con jailbreak recibe\napps a medida hechas con Claude",
-          "body": "Un aficionado usó Claude para crear apps a medida para un Kindle 7th-gen con jailbreak, más allá de la lectura.",
-          "mini_headline": "Apps para Kindle hechas con Claude",
+          "headline": "Borrador con AI, acabado humano\nArranca el programa de Aurorah",
+          "body": "Hivemind lanzó Aurorah Translation Supporters, un programa en el que personas pulen traducciones iniciales de AI.",
+          "mini_headline": "Borrador con AI, acabado humano",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/11/claude-kindle-featured.jpeg?&fit=crop&w=1600&h=900"
+                "src": "https://it.donga.com/media/__sized__/images/2026/11/10/a92622a13a004953-thumbnail-1920x1080-70.jpg",
+                "cap": "Ceremonia de lanzamiento de la promoción 1 de Aurorah Translation Supporters, celebrada por Hivemind el día 1 / Fuente: IT Donga"
               },
               {
                 "t": "p",
-                "x": "Durante el último año hemos visto a gente hacer cosas interesantes con sus Kindle antiguos y personalizar el software de sus dispositivos con Claude. Pero, hasta ahora, no había visto a nadie hacer ambas cosas a la vez."
+                "x": "Hivemind, startup que desarrolla y opera la plataforma global de publicación ‘Aurorah’, celebró el 1 de noviembre la ceremonia de lanzamiento de la promoción 1 de ‘Aurorah Translation Supporters’ y se propuso construir un modelo de colaboración entre la AI y traductores humanos."
+              },
+              {
+                "t": "img",
+                "src": "https://it.donga.com/media/__sized__/images/2026/11/10/45ff4549ef194d0f-thumbnail-1920x1080-70.jpg",
+                "cap": "Kim Dong-wook, CEO de Hivemind / Fuente: IT Donga"
               },
               {
                 "t": "p",
-                "x": "En el subreddit ClaudeAI, el usuario abdenourgnx1 mostró lo que logró hace poco con Claude. Tenía un Kindle 7th-gen sin usar, así que siguió una guía para hacerle jailbreak, lo que le dio acceso al software del lector electrónico. Después recibió algo de ayuda del asistente de IA de Anthropic:"
+                "x": "El CEO Kim Dong-wook afirmó que “Hivemind nació para presentar excelentes novelas web originales a lectores de todo el mundo reduciendo los costes de traducción con AI”, y añadió que “si se depende solo de la traducción preliminar de AI, el estilo propio del autor y sus matices finos pueden dañarse, por lo que el trabajo humano de localización es imprescindible”."
               },
               {
                 "t": "p",
-                "x": "«Tras el jailbreak, claude se encarga de diseñar y crear la aplicación que quieras. Yo solo le di una imagen conceptual de lo que quería y de cómo quería que se comportara, y se ocupó del resto. Asegúrate de tener KUAL (lanzador de aplicaciones en kindle) o algo equivalente para tu modelo.»"
+                "x": "De más de 100 candidatos se seleccionaron 30, asignados a razón de 10 por ámbito lingüístico: inglés, chino y japonés. Durante un mes, los participantes se encargan de localizar las novelas web asignadas, cotejando con el original la 1.ª versión de la traducción generada por AI y corrigiendo el sentido y la expresión."
+              },
+              {
+                "t": "img",
+                "src": "https://it.donga.com/media/__sized__/images/2026/11/10/51ac7a60f92d4de4-thumbnail-1920x1080-70.jpg",
+                "cap": "Ceremonia de lanzamiento de la promoción 1 de Aurorah Translation Supporters, celebrada por Hivemind el día 1 / Fuente: IT Donga"
               },
               {
                 "t": "p",
-                "x": "Ahora el Kindle es una pantalla que se puede colgar en la pared como pronóstico del tiempo. Obtiene datos nuevos por Wi-Fi y se actualiza cada hora, aunque no de noche para ahorrar batería. Según el usuario, esta configuración consume solo el 10% de la batería a la semana, lo que permite usarlo más de dos meses antes de volver a cargarlo."
+                "x": "Aurorah gestiona en un solo lugar los datos de ambientación de las obras, los glosarios, las traducciones y el historial de revisiones, y los participantes pueden elegir motores LLM como ChatGPT o Claude. Los motivos y detalles de las correcciones se acumulan en una base de datos y se usan para el control de calidad de la localización y la mejora de los modelos."
+              },
+              {
+                "t": "p",
+                "x": "Hivemind impulsa la expansión internacional de Aurorah con Japón como primer mercado exterior y prevé reclutar nuevas promociones a partir de los resultados de la promoción 1."
               }
             ]
           }
@@ -1099,591 +1139,321 @@
       }
     },
     {
-      "id": "books-jaju-webtoon-ai-shortdrama",
-      "source_lang": "ko",
+      "id": "scholarlykitchen-ai-user-study",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "웹툰 IP 5종\n중국 AI 숏드라마로",
-      "body": "자주스토리가 웹툰 IP 5종의 중국 AI 숏드라마 계약 후 11월 공개를 앞뒀다.",
-      "mini_headline": "웹툰, AI 숏드라마로",
+      "headline": "도서관·출판사에\nAI 이용자 연구 촉구",
+      "body": "연구자·학생의 AI 이용을 살피면 도서관·출판사도 AI 시대 주도권을 쥘 수 있다.",
+      "mini_headline": "AI 이용자를 연구하라",
       "tool": "Books",
-      "source": "헤럴드경제",
-      "url": "https://biz.heraldcorp.com/article/10932222",
+      "source": "The Scholarly Kitchen",
+      "url": "https://scholarlykitchen.sspnet.org/2026/11/10/ai-and-the-users-we-serve/",
       "accent": "#2ec5c5",
       "motif": "swatch",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://wimg.heraldcorp.com/news/cms/2026/11/10/news-p.v1.20261110.002e6a566b2744a899c811698375eee4_P2.png"
+            "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/DP-20201-001-1024x660.jpg",
+            "cap": "Looking Glass, Isaac Platt 작품으로 추정, 1829–35"
           },
           {
             "t": "p",
-            "x": "콘텐츠 제작기업 자주스토리㈜가 한국 웹툰 원천 지식재산권(IP) 5종을 활용한 중국 AI 숏드라마 제작 계약을 완료했다고 밝혔다."
+            "x": "Lisa Janicke Hinchliffe는 Charleston Library Conference에서 놀랐다. 생성형 AI 챗봇 이야기는 넘쳐나는데 연구자와 학습자가 AI 도구를 실제로 어떻게 쓰는지 이해하려는 시도는 거의 들리지 않았다."
           },
           {
             "t": "p",
-            "x": "자주스토리는 국내 원작 IP 5종을 중국 현지 AI 제작사와 협력해 숏드라마로 제작하고, 현지 플랫폼을 통해 유통하는 사업을 추진하고 있다. 회사는 원작 기획과 연출·검수에 참여하고, 중국 파트너사가 현지 숏드라마 제작과 현지화, 심의 및 유통 등을 담당하는 방식으로 협력할 계획이다."
+            "x": "도서관은 캠퍼스 AI 환경에서 주도권을 원하지만 기업용 AI를 직접 운영하진 않는다. 출판사는 AI 라이선스 조건을 따지고 어떤 AI 기능을 넣을지 고민한다. “도서관과 출판사가 모두 AI 도구를 중심으로 전략을 짜면, AI를 쓰는 사람들을 체계적으로 연구하는 이는 아무도 없다.”"
           },
           {
             "t": "p",
-            "x": "1차 제작 작품은 《환생 특급 레시피》, 《귀전》, 《기미》, 《듀크 걸 복서》, 《아슬아슬》 등 5종이다. 회사에 따르면 현재 5개 작품의 제작 계약을 완료했으며, 중국 현지에서 AI 기술을 활용한 숏드라마 제작을 진행하고 있다. 텐센트·바이트댄스·홍궈·위챗 등 중국 플랫폼을 통한 2026년 11월 공개를 준비 중이다."
+            "x": "그의 주장은 이렇다. 디스커버리 레이어 시대에 그랬듯 도서관이 이용자의 작업 방식을 다시 조사하면 양측 모두 AI 시대의 주도권을 찾을 수 있다. 공동 연구 의제로는 연구자와 학생이 어떤 작업을 AI에 맡기는지, 언제 AI를 빼는지, AI 결과물을 어떻게 확인하는지, 어떤 통제 기능과 기본값을 원하는지를 꼽았다."
           },
           {
             "t": "p",
-            "x": "작품은 요리 로맨스, 액션 판타지, 사극 스릴러, 스포츠 성장 드라마, 현대 로맨스 등 다양한 장르로 구성됐다. 자주스토리는 원작의 서사와 캐릭터를 바탕으로 영상 콘텐츠를 제작하고, 계약에 따른 수익 배분 방식으로 사업을 운영할 계획이다."
-          },
-          {
-            "t": "p",
-            "x": "김민주 대표는 작가로 활동하며 웹소설·웹툰·시나리오 등 다양한 콘텐츠 분야에서 작품 기획과 집필을 진행해 왔다. 대한민국 스토리공모대전 우수상 수상 경력이 있으며, 현재 스토리·IP 기획과 원작 집필, 작품별 사업화 방향 등을 담당하고 있다."
-          },
-          {
-            "t": "p",
-            "x": "《환생 특급 레시피》를 비롯한 보유 작품의 세계관과 캐릭터를 활용해 웹툰과 영상 콘텐츠 등으로 제작 영역을 확대하는 방안도 추진하고 있다."
-          },
-          {
-            "t": "p",
-            "x": "후속 제작을 검토 중인 작품은 《발복》, 《환궁기》, 《국창 임방울》, 《어둠 속의 증인》, 《작정하고 스캔들》 등 5종이다. 회사는 1차 제작 작품과 후속 작품 외에도 추가 IP를 확보해 작품별 제작 준비 상황과 유통 여건 등을 고려하며 사업을 확대할 계획이다."
-          },
-          {
-            "t": "p",
-            "x": "장기적으로는 웹소설·웹툰의 세계관과 캐릭터를 활용해 숏드라마·애니메이션·영화·음악 등으로 콘텐츠 제작 범위를 넓히고, 중국 외 다른 해외 시장으로의 유통도 검토할 방침이다."
-          },
-          {
-            "t": "p",
-            "x": "지역 대학과 교육기관, 청년 창작자 등과 연계한 AI 콘텐츠 제작 교육과 참여 프로그램도 추진할 계획이다."
-          },
-          {
-            "t": "p",
-            "x": "공성술 콘텐츠총괄은 “AI는 창작자를 대체하는 수단이 아니라 창작자의 상상력과 표현 가능성을 확장하는 도구”라며 “좋은 콘텐츠의 핵심은 결국 사람의 마음을 움직이는 이야기와 감정”이라고 밝혔다."
-          },
-          {
-            "t": "p",
-            "x": "이어 “하나의 원천 IP를 웹툰·숏폼드라마·애니메이션·영화·음악으로 확장해 세계 시장에서 오래 사랑받는 콘텐츠로 만들겠다”며 “지역 창작 인재들과 함께 성장하며 새로운 제작 생태계를 구축하겠다”고 말했다."
+            "x": "다음 단계도 내놓았다. 도서관은 자기 공동체의 AI 활용 실태를 연구해 그 결과를 캠퍼스 AI 책임자들과 나누고 벤더 기능 평가에 써야 한다. 출판사는 AI 기능을 내놓기 전에 이용자에게 묻고 이용자 연구를 공유 자원으로 삼아야 한다. 설계 선택을 설명하고 도서관을 연구에 초대하는 일도 출판사 몫이다."
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "웹툰 IP 5종\n중국 AI 숏드라마로",
-          "body": "자주스토리가 웹툰 IP 5종의 중국 AI 숏드라마 계약 후 11월 공개를 앞뒀다.",
-          "mini_headline": "웹툰, AI 숏드라마로",
+        "en": {
+          "headline": "Libraries and publishers\nurged to study AI users",
+          "body": "Libraries and publishers can claim agency in the AI age by studying how researchers and students actually use AI.",
+          "mini_headline": "Study how users use AI",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://wimg.heraldcorp.com/news/cms/2026/11/10/news-p.v1.20261110.002e6a566b2744a899c811698375eee4_P2.png"
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/DP-20201-001-1024x660.jpg",
+                "cap": "Looking Glass, attributed to Isaac Platt, 1829–35"
               },
               {
                 "t": "p",
-                "x": "콘텐츠 제작기업 자주스토리㈜가 한국 웹툰 원천 지식재산권(IP) 5종을 활용한 중국 AI 숏드라마 제작 계약을 완료했다고 밝혔다."
+                "x": "At the Charleston Library Conference, Lisa Janicke Hinchliffe was struck by how often the focus was on generative AI chatbots and how little she heard about efforts to understand how researchers and learners engage with AI tools."
               },
               {
                 "t": "p",
-                "x": "자주스토리는 국내 원작 IP 5종을 중국 현지 AI 제작사와 협력해 숏드라마로 제작하고, 현지 플랫폼을 통해 유통하는 사업을 추진하고 있다. 회사는 원작 기획과 연출·검수에 참여하고, 중국 파트너사가 현지 숏드라마 제작과 현지화, 심의 및 유통 등을 담당하는 방식으로 협력할 계획이다."
+                "x": "Libraries want agency in the campus AI environment but do not run enterprise AI; publishers are deciding on AI licensing terms and which AI features to add. “When libraries and publishers both organize their strategies around AI tools, no one is systematically studying the people using AI.”"
               },
               {
                 "t": "p",
-                "x": "1차 제작 작품은 《환생 특급 레시피》, 《귀전》, 《기미》, 《듀크 걸 복서》, 《아슬아슬》 등 5종이다. 회사에 따르면 현재 5개 작품의 제작 계약을 완료했으며, 중국 현지에서 AI 기술을 활용한 숏드라마 제작을 진행하고 있다. 텐센트·바이트댄스·홍궈·위챗 등 중국 플랫폼을 통한 2026년 11월 공개를 준비 중이다."
+                "x": "She argues both can claim agency in the AI age by once again investigating how users work, as libraries did in the discovery-layer era. A shared inquiry agenda: which tasks researchers and students trust to AI, when they keep AI out, how they check AI output, and what controls and defaults they want."
               },
               {
                 "t": "p",
-                "x": "작품은 요리 로맨스, 액션 판타지, 사극 스릴러, 스포츠 성장 드라마, 현대 로맨스 등 다양한 장르로 구성됐다. 자주스토리는 원작의 서사와 캐릭터를 바탕으로 영상 콘텐츠를 제작하고, 계약에 따른 수익 배분 방식으로 사업을 운영할 계획이다."
-              },
-              {
-                "t": "p",
-                "x": "김민주 대표는 작가로 활동하며 웹소설·웹툰·시나리오 등 다양한 콘텐츠 분야에서 작품 기획과 집필을 진행해 왔다. 대한민국 스토리공모대전 우수상 수상 경력이 있으며, 현재 스토리·IP 기획과 원작 집필, 작품별 사업화 방향 등을 담당하고 있다."
-              },
-              {
-                "t": "p",
-                "x": "《환생 특급 레시피》를 비롯한 보유 작품의 세계관과 캐릭터를 활용해 웹툰과 영상 콘텐츠 등으로 제작 영역을 확대하는 방안도 추진하고 있다."
-              },
-              {
-                "t": "p",
-                "x": "후속 제작을 검토 중인 작품은 《발복》, 《환궁기》, 《국창 임방울》, 《어둠 속의 증인》, 《작정하고 스캔들》 등 5종이다. 회사는 1차 제작 작품과 후속 작품 외에도 추가 IP를 확보해 작품별 제작 준비 상황과 유통 여건 등을 고려하며 사업을 확대할 계획이다."
-              },
-              {
-                "t": "p",
-                "x": "장기적으로는 웹소설·웹툰의 세계관과 캐릭터를 활용해 숏드라마·애니메이션·영화·음악 등으로 콘텐츠 제작 범위를 넓히고, 중국 외 다른 해외 시장으로의 유통도 검토할 방침이다."
-              },
-              {
-                "t": "p",
-                "x": "지역 대학과 교육기관, 청년 창작자 등과 연계한 AI 콘텐츠 제작 교육과 참여 프로그램도 추진할 계획이다."
-              },
-              {
-                "t": "p",
-                "x": "공성술 콘텐츠총괄은 “AI는 창작자를 대체하는 수단이 아니라 창작자의 상상력과 표현 가능성을 확장하는 도구”라며 “좋은 콘텐츠의 핵심은 결국 사람의 마음을 움직이는 이야기와 감정”이라고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "이어 “하나의 원천 IP를 웹툰·숏폼드라마·애니메이션·영화·음악으로 확장해 세계 시장에서 오래 사랑받는 콘텐츠로 만들겠다”며 “지역 창작 인재들과 함께 성장하며 새로운 제작 생태계를 구축하겠다”고 말했다."
+                "x": "Next steps: libraries should study AI practice in their communities, share findings with campus AI leaders and use them to evaluate vendor features; publishers should ask users about AI features before release, treat user research as a shared resource, explain design choices and invite libraries into the research."
               }
             ]
           }
         },
-        "en": {
-          "headline": "Five webtoon IPs head to\nChinese AI short dramas",
-          "body": "Jaju Story signed deals to turn five webtoon IPs into Chinese AI short dramas, set for release in November.",
-          "mini_headline": "Webtoons become AI short dramas",
+        "ko": {
+          "headline": "도서관·출판사에\nAI 이용자 연구 촉구",
+          "body": "연구자·학생의 AI 이용을 살피면 도서관·출판사도 AI 시대 주도권을 쥘 수 있다.",
+          "mini_headline": "AI 이용자를 연구하라",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://wimg.heraldcorp.com/news/cms/2026/11/10/news-p.v1.20261110.002e6a566b2744a899c811698375eee4_P2.png"
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/DP-20201-001-1024x660.jpg",
+                "cap": "Looking Glass, Isaac Platt 작품으로 추정, 1829–35"
               },
               {
                 "t": "p",
-                "x": "Content production company Jaju Story Co. said it has completed contracts to produce Chinese AI short dramas based on five original Korean webtoon intellectual properties (IP)."
+                "x": "Lisa Janicke Hinchliffe는 Charleston Library Conference에서 놀랐다. 생성형 AI 챗봇 이야기는 넘쳐나는데 연구자와 학습자가 AI 도구를 실제로 어떻게 쓰는지 이해하려는 시도는 거의 들리지 않았다."
               },
               {
                 "t": "p",
-                "x": "Jaju Story is pursuing a business in which it works with local Chinese AI production companies to turn five domestic original IPs into short dramas and distribute them through local platforms. The company plans to take part in original planning, directing and review, while its Chinese partners handle local short-drama production, localization, content review and distribution."
+                "x": "도서관은 캠퍼스 AI 환경에서 주도권을 원하지만 기업용 AI를 직접 운영하진 않는다. 출판사는 AI 라이선스 조건을 따지고 어떤 AI 기능을 넣을지 고민한다. “도서관과 출판사가 모두 AI 도구를 중심으로 전략을 짜면, AI를 쓰는 사람들을 체계적으로 연구하는 이는 아무도 없다.”"
               },
               {
                 "t": "p",
-                "x": "The first batch consists of five works: “Reincarnation Express Recipe,” “Gwijeon,” “Gimi,” “Duke Girl Boxer” and “Aseul-aseul.” According to the company, production contracts for all five have been completed, and the short dramas are being produced in China using AI technology. It is preparing for release in November 2026 through Chinese platforms including Tencent, ByteDance, Hongguo and WeChat."
+                "x": "그의 주장은 이렇다. 디스커버리 레이어 시대에 그랬듯 도서관이 이용자의 작업 방식을 다시 조사하면 양측 모두 AI 시대의 주도권을 찾을 수 있다. 공동 연구 의제로는 연구자와 학생이 어떤 작업을 AI에 맡기는지, 언제 AI를 빼는지, AI 결과물을 어떻게 확인하는지, 어떤 통제 기능과 기본값을 원하는지를 꼽았다."
               },
               {
                 "t": "p",
-                "x": "The works span genres including cooking romance, action fantasy, historical thriller, sports coming-of-age drama and contemporary romance. Jaju Story plans to produce video content based on the original stories and characters, and to run the business on a contractual revenue-sharing basis."
-              },
-              {
-                "t": "p",
-                "x": "CEO Kim Min-ju has worked as a writer, planning and writing works across web novels, webtoons, screenplays and other content. Kim has won an excellence award at the Korea Story Contest and currently oversees story and IP planning, original writing and the commercialization direction of each work."
-              },
-              {
-                "t": "p",
-                "x": "The company is also pursuing plans to expand its production into webtoons, video and other content using the worlds and characters of its works, including “Reincarnation Express Recipe.”"
-              },
-              {
-                "t": "p",
-                "x": "Five works are under review for follow-up production: “Balbok,” “Hwangunggi,” “National Singer Im Bang-ul,” “Witness in the Dark” and “Jakjeonghago Scandal.” Beyond the first batch and the follow-up works, the company plans to secure additional IPs and expand the business while weighing each work’s production readiness and distribution conditions."
-              },
-              {
-                "t": "p",
-                "x": "In the long term, it aims to extend its content production to short dramas, animation, film and music using the worlds and characters of web novels and webtoons, and is also considering distribution in overseas markets beyond China."
-              },
-              {
-                "t": "p",
-                "x": "It also plans to run AI content production training and participation programs linked with local universities, educational institutions and young creators."
-              },
-              {
-                "t": "p",
-                "x": "Gong Seong-sul, head of content, said, “AI is not a means of replacing creators but a tool that expands their imagination and expressive possibilities,” adding, “The core of good content is ultimately the stories and emotions that move people.”"
-              },
-              {
-                "t": "p",
-                "x": "Gong added, “We will expand a single original IP into webtoons, short-form dramas, animation, film and music, and make it content that is loved in the global market for a long time,” and said, “We will grow together with local creative talent and build a new production ecosystem.”"
+                "x": "다음 단계도 내놓았다. 도서관은 자기 공동체의 AI 활용 실태를 연구해 그 결과를 캠퍼스 AI 책임자들과 나누고 벤더 기능 평가에 써야 한다. 출판사는 AI 기능을 내놓기 전에 이용자에게 묻고 이용자 연구를 공유 자원으로 삼아야 한다. 설계 선택을 설명하고 도서관을 연구에 초대하는 일도 출판사 몫이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ウェブトゥーンIP 5作品\n中国AIショートドラマに",
-          "body": "ジャジュストーリーがウェブトゥーン5作品を中国AIショートドラマ化し、11月に公開予定だ。",
-          "mini_headline": "ウェブトゥーンがAIショートドラマに",
+          "headline": "図書館と出版社に\nAI利用者の研究を促す",
+          "body": "図書館と出版社は、研究者や学生の実際のAI利用を調べることでAI時代の主体性を得られる。",
+          "mini_headline": "AIの使われ方を調べよ",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://wimg.heraldcorp.com/news/cms/2026/11/10/news-p.v1.20261110.002e6a566b2744a899c811698375eee4_P2.png"
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/DP-20201-001-1024x660.jpg",
+                "cap": "Looking Glass、Isaac Platt作とされる、1829–35"
               },
               {
                 "t": "p",
-                "x": "コンテンツ制作会社のジャジュストーリー(株)は、韓国のウェブトゥーン原作知的財産(IP)5作品を活用した中国AIショートドラマの制作契約を完了したと明らかにした。"
+                "x": "Charleston Library Conferenceで、Lisa Janicke Hinchliffeは、生成AIチャットボットに焦点が当たる頻度の高さと、研究者や学習者がAIツールとどう関わっているかを理解する取り組みがほとんど聞かれないことに驚いた。"
               },
               {
                 "t": "p",
-                "x": "ジャジュストーリーは、国内原作IP 5作品を中国現地のAI制作会社と協力してショートドラマ化し、現地プラットフォームを通じて配信する事業を進めている。同社は原作の企画や演出・検収に参加し、中国のパートナー企業が現地でのショートドラマ制作やローカライズ、審査、配信などを担う形で協力する計画だ。"
+                "x": "図書館はキャンパスのAI環境で主体性を持ちたいが、エンタープライズAIを運用しているわけではない。出版社はAIのライセンス条件や、どのAI機能を加えるかを決めつつある。「図書館と出版社がともにAIツールを軸に戦略を組み立てれば、AIを使う人々を体系的に調べる者は誰もいなくなる」"
               },
               {
                 "t": "p",
-                "x": "第1弾の制作作品は『転生特急レシピ』『クィジョン』『キミ』『デューク・ガール・ボクサー』『アスラアスル』の5作品だ。同社によると、現在5作品の制作契約を完了しており、中国現地でAI技術を活用したショートドラマ制作を進めている。テンセント、バイトダンス、ホングオ、WeChatなど中国のプラットフォームを通じた2026年11月の公開を準備中だ。"
+                "x": "彼女は、図書館がディスカバリーレイヤーの時代にそうしたように、利用者の働き方を改めて調べることで、両者ともAI時代に主体性を発揮できると主張する。共通の調査課題は、研究者や学生がどの作業をAIに任せるのか、いつAIを使わないのか、AIの出力をどう確かめるのか、どんな制御や初期設定を望むのかだ。"
               },
               {
                 "t": "p",
-                "x": "作品は料理ロマンス、アクションファンタジー、時代劇スリラー、スポーツ成長ドラマ、現代ロマンスなど多様なジャンルで構成されている。ジャジュストーリーは原作の物語とキャラクターをもとに映像コンテンツを制作し、契約に基づく収益分配方式で事業を運営する計画だ。"
-              },
-              {
-                "t": "p",
-                "x": "キム・ミンジュ代表は作家として活動し、ウェブ小説やウェブトゥーン、シナリオなど多様なコンテンツ分野で作品の企画と執筆を手がけてきた。大韓民国ストーリー公募大展で優秀賞を受賞した経歴を持ち、現在はストーリー・IPの企画や原作執筆、作品ごとの事業化の方向性などを担当している。"
-              },
-              {
-                "t": "p",
-                "x": "『転生特急レシピ』をはじめとする保有作品の世界観とキャラクターを活用し、ウェブトゥーンや映像コンテンツなどへ制作領域を広げる方策も進めている。"
-              },
-              {
-                "t": "p",
-                "x": "後続制作を検討中の作品は『パルボク』『ファングンギ』『国唱イム・バンウル』『闇の中の証人』『チャクチョンハゴ・スキャンダル』の5作品だ。同社は第1弾と後続作品以外にも追加のIPを確保し、作品ごとの制作準備状況や配信環境などを考慮しながら事業を拡大する計画だ。"
-              },
-              {
-                "t": "p",
-                "x": "長期的には、ウェブ小説やウェブトゥーンの世界観とキャラクターを活用してショートドラマ、アニメーション、映画、音楽などへとコンテンツ制作の範囲を広げ、中国以外の海外市場への配信も検討する方針だ。"
-              },
-              {
-                "t": "p",
-                "x": "地域の大学や教育機関、若手クリエイターなどと連携したAIコンテンツ制作の教育・参加プログラムも推進する計画だ。"
-              },
-              {
-                "t": "p",
-                "x": "コン・ソンスル・コンテンツ総括は「AIはクリエイターに取って代わる手段ではなく、クリエイターの想像力と表現の可能性を広げるツールだ」とし、「良いコンテンツの核心は、結局のところ人の心を動かす物語と感情だ」と述べた。"
-              },
-              {
-                "t": "p",
-                "x": "さらに「一つの原作IPをウェブトゥーン、ショートフォームドラマ、アニメーション、映画、音楽へと広げ、世界市場で長く愛されるコンテンツにする」とし、「地域の創作人材とともに成長し、新たな制作エコシステムを築く」と語った。"
+                "x": "次の一歩として、図書館は自らのコミュニティにおけるAIの使われ方を調査し、結果をキャンパスのAI責任者と共有してベンダーの機能評価に生かすべきだ。出版社はAI機能の公開前に利用者に意見を聞き、利用者調査を共有資源として扱い、設計上の選択を説明し、図書館を調査に招き入れるべきだという。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "5部网漫IP\n改编为中国AI短剧",
-          "body": "Jaju Story已就5部网漫IP签约改编中国AI短剧，计划11月上线。",
-          "mini_headline": "网漫改编AI短剧",
+          "headline": "图书馆与出版社\n应研究AI用户",
+          "body": "图书馆和出版社可通过研究研究人员与学生如何真正使用AI，在AI时代掌握主动。",
+          "mini_headline": "研究用户如何用AI",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://wimg.heraldcorp.com/news/cms/2026/11/10/news-p.v1.20261110.002e6a566b2744a899c811698375eee4_P2.png"
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/DP-20201-001-1024x660.jpg",
+                "cap": "Looking Glass，传为Isaac Platt所作，1829–35"
               },
               {
                 "t": "p",
-                "x": "内容制作公司Jaju Story表示，已完成利用5部韩国网漫原创知识产权（IP）制作中国AI短剧的合同签约。"
+                "x": "在Charleston Library Conference上，Lisa Janicke Hinchliffe注意到，焦点频频落在生成式AI聊天机器人上，而关于理解研究者和学习者如何使用AI工具的努力却鲜有耳闻。"
               },
               {
                 "t": "p",
-                "x": "Jaju Story正与中国本土AI制作公司合作，将5部国内原创IP制作成短剧，并通过当地平台发行。公司将参与原作策划及导演、审核工作，中国合作方则负责当地短剧制作、本地化、审查及发行等。"
+                "x": "图书馆希望在校园AI环境中掌握主动，却并不运营企业级AI；出版社则在决定AI授权条款以及要添加哪些AI功能。“当图书馆和出版社都围绕AI工具来制定战略时，就没有人在系统地研究使用AI的人。”"
               },
               {
                 "t": "p",
-                "x": "首批制作作品为《转生特急食谱》《Gwijeon》《Gimi》《公爵女拳手》《Aseul-aseul》共5部。据公司介绍，目前5部作品的制作合同均已签订，正在中国当地运用AI技术制作短剧，并准备于2026年11月通过腾讯、字节跳动、红果、微信等中国平台上线。"
+                "x": "她认为，只要像图书馆在发现层时代那样再次研究用户如何工作，双方都能在AI时代掌握主动。共同的研究议题包括：研究者和学生把哪些任务交给AI、何时不用AI、如何核查AI输出，以及他们想要哪些控制选项和默认设置。"
               },
               {
                 "t": "p",
-                "x": "作品涵盖美食爱情、动作奇幻、古装惊悚、体育成长剧、现代爱情等多种类型。Jaju Story计划以原作的叙事和角色为基础制作影像内容，并按照合同约定的收益分成方式运营业务。"
-              },
-              {
-                "t": "p",
-                "x": "代表Kim Min-ju以作家身份活动，一直在网络小说、网漫、剧本等多个内容领域从事作品策划与写作，曾获大韩民国故事征集大赛优秀奖，目前负责故事及IP策划、原作写作以及各作品的商业化方向等。"
-              },
-              {
-                "t": "p",
-                "x": "公司还在推进以《转生特急食谱》等自有作品的世界观和角色为基础，将制作领域扩展到网漫和影像内容等。"
-              },
-              {
-                "t": "p",
-                "x": "正在考虑后续制作的作品为《Balbok》《Hwangunggi》《国唱Im Bang-ul》《黑暗中的证人》《Jakjeonghago Scandal》共5部。公司计划在首批及后续作品之外再获取更多IP，并结合各作品的制作准备情况和发行条件等扩大业务。"
-              },
-              {
-                "t": "p",
-                "x": "从长期看，公司将利用网络小说和网漫的世界观与角色，把内容制作范围扩展到短剧、动画、电影、音乐等，并考虑向中国以外的其他海外市场发行。"
-              },
-              {
-                "t": "p",
-                "x": "公司还计划推进与地方大学、教育机构及青年创作者等合作的AI内容制作教育和参与项目。"
-              },
-              {
-                "t": "p",
-                "x": "内容总监Gong Seong-sul表示：“AI不是取代创作者的手段，而是拓展创作者想象力和表达可能性的工具。”并称：“好内容的核心归根结底是打动人心的故事和情感。”"
-              },
-              {
-                "t": "p",
-                "x": "Gong Seong-sul接着表示：“我们要把一个原创IP扩展到网漫、短视频剧、动画、电影和音乐，打造在全球市场长久受欢迎的内容。”“我们将与地方创作人才共同成长，构建新的制作生态系统。”"
+                "x": "下一步，图书馆应研究本社区的AI使用实践，与校园AI负责人分享结果，并用来评估供应商的功能；出版社应在发布AI功能前征询用户意见，把用户研究当作共享资源，说明设计选择，并邀请图书馆参与研究。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Cinco IP de webtoon se vuelven\nmicrodramas chinos con IA",
-          "body": "Jaju Story firmó la adaptación de cinco IP de webtoon a microdramas chinos con IA, que se estrenarán en noviembre.",
-          "mini_headline": "Webtoons convertidos en microdramas con IA",
+          "headline": "Bibliotecas y editoriales:\nestudiar a los usuarios de AI",
+          "body": "Bibliotecas y editoriales pueden ganar peso en la era de la AI estudiando cómo la usan investigadores y estudiantes.",
+          "mini_headline": "Estudiar cómo se usa la AI",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://wimg.heraldcorp.com/news/cms/2026/11/10/news-p.v1.20261110.002e6a566b2744a899c811698375eee4_P2.png"
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/DP-20201-001-1024x660.jpg",
+                "cap": "Looking Glass, atribuido a Isaac Platt, 1829–35"
               },
               {
                 "t": "p",
-                "x": "La productora de contenidos Jaju Story Co. informó de que ha completado los contratos para producir microdramas chinos con IA basados en cinco propiedades intelectuales (IP) originales de webtoons coreanos."
+                "x": "En la Charleston Library Conference, a Lisa Janicke Hinchliffe le llamó la atención la frecuencia con que el foco estaba en los chatbots de AI generativa y lo poco que oyó sobre los esfuerzos por entender cómo investigadores y estudiantes interactúan con las herramientas de AI."
               },
               {
                 "t": "p",
-                "x": "Jaju Story impulsa un negocio en el que colabora con productoras chinas de IA para convertir cinco IP originales nacionales en microdramas y distribuirlos a través de plataformas locales. La empresa participará en la planificación original, la dirección y la revisión, mientras que sus socios chinos se encargarán de la producción local, la localización, la revisión de contenidos y la distribución."
+                "x": "Las bibliotecas quieren tener agencia en el entorno de AI del campus, pero no gestionan la AI corporativa; las editoriales deciden las condiciones de licencia de AI y qué funciones de AI añadir. “Cuando bibliotecas y editoriales organizan sus estrategias en torno a las herramientas de AI, nadie estudia de forma sistemática a las personas que usan la AI”."
               },
               {
                 "t": "p",
-                "x": "La primera tanda la forman cinco obras: «Reincarnation Express Recipe», «Gwijeon», «Gimi», «Duke Girl Boxer» y «Aseul-aseul». Según la empresa, ya se han cerrado los contratos de producción de las cinco y los microdramas se están produciendo en China con tecnología de IA. Prepara su estreno en noviembre de 2026 en plataformas chinas como Tencent, ByteDance, Hongguo y WeChat."
+                "x": "Sostiene que ambas pueden ganar agencia en la era de la AI si vuelven a investigar cómo trabajan los usuarios, como hicieron las bibliotecas en la era de las capas de descubrimiento. Una agenda de investigación compartida: qué tareas confían a la AI investigadores y estudiantes, cuándo dejan fuera la AI, cómo verifican los resultados de la AI y qué controles y opciones predeterminadas quieren."
               },
               {
                 "t": "p",
-                "x": "Las obras abarcan géneros variados: romance culinario, fantasía de acción, thriller histórico, drama deportivo de crecimiento y romance contemporáneo. Jaju Story prevé producir contenido audiovisual a partir de las historias y los personajes originales, y gestionar el negocio con un modelo de reparto de ingresos según contrato."
-              },
-              {
-                "t": "p",
-                "x": "Kim Min-ju, director ejecutivo, ha trabajado como escritor en la planificación y redacción de obras de novela web, webtoon, guion y otros formatos. Ha recibido un premio a la excelencia en el Concurso de Historias de Corea y actualmente se ocupa de la planificación de historias e IP, la escritura de obras originales y la orientación comercial de cada título."
-              },
-              {
-                "t": "p",
-                "x": "La empresa también estudia ampliar su producción a webtoons y contenido audiovisual a partir de los universos y personajes de sus obras, como «Reincarnation Express Recipe»."
-              },
-              {
-                "t": "p",
-                "x": "Las obras en estudio para una segunda tanda son cinco: «Balbok», «Hwangunggi», «National Singer Im Bang-ul», «Witness in the Dark» y «Jakjeonghago Scandal». Además de estas, la empresa prevé adquirir más IP y ampliar el negocio teniendo en cuenta el estado de preparación de cada obra y las condiciones de distribución."
-              },
-              {
-                "t": "p",
-                "x": "A largo plazo, quiere extender su producción a microdramas, animación, cine y música a partir de los universos y personajes de novelas web y webtoons, y estudia distribuir en otros mercados internacionales además de China."
-              },
-              {
-                "t": "p",
-                "x": "También planea programas de formación y participación en producción de contenidos con IA junto con universidades, centros educativos y jóvenes creadores de la región."
-              },
-              {
-                "t": "p",
-                "x": "Gong Seong-sul, responsable de contenidos, afirmó: «La IA no es un medio para sustituir a los creadores, sino una herramienta que amplía su imaginación y sus posibilidades expresivas», y añadió: «La esencia de un buen contenido son, al final, las historias y emociones que conmueven a las personas»."
-              },
-              {
-                "t": "p",
-                "x": "Gong agregó: «Ampliaremos una sola IP original a webtoons, dramas de formato corto, animación, cine y música para convertirla en un contenido apreciado durante mucho tiempo en el mercado mundial», y «creceremos junto al talento creativo local para construir un nuevo ecosistema de producción»."
+                "x": "Próximos pasos: las bibliotecas deberían estudiar la práctica de la AI en sus comunidades, compartir los hallazgos con los responsables de AI del campus y usarlos para evaluar las funciones de los proveedores; las editoriales deberían consultar a los usuarios sobre las funciones de AI antes de lanzarlas, tratar la investigación de usuarios como un recurso compartido, explicar sus decisiones de diseño e invitar a las bibliotecas a la investigación."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "Five webtoon IPs head to\nChinese AI short dramas",
-          "body": "Jaju Story signed deals to turn five webtoon IPs into Chinese AI short dramas, set for release in November.",
-          "mini_headline": "Webtoons become AI short dramas",
+        "ko": {
+          "headline": "도서관·출판사에\nAI 이용자 연구 촉구",
+          "body": "도서관·출판사는 연구자·학생의 AI 이용을 살펴 AI 시대 주도권을 쥘 수 있다.",
+          "mini_headline": "AI 이용자를 연구하라",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://wimg.heraldcorp.com/news/cms/2026/11/10/news-p.v1.20261110.002e6a566b2744a899c811698375eee4_P2.png"
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/DP-20201-001-1024x660.jpg",
+                "cap": "Looking Glass, Isaac Platt 작품으로 추정, 1829–35"
               },
               {
                 "t": "p",
-                "x": "Content production company Jaju Story Co. said it has completed contracts to produce Chinese AI short dramas based on five original Korean webtoon intellectual properties (IP)."
+                "x": "Charleston Library Conference에서 Lisa Janicke Hinchliffe는 생성형 AI 챗봇에 관심이 얼마나 자주 쏠리는지, 그리고 연구자와 학습자가 AI 도구를 어떻게 쓰는지 이해하려는 노력은 얼마나 드물게 들리는지에 놀랐다."
               },
               {
                 "t": "p",
-                "x": "Jaju Story is pursuing a business in which it works with local Chinese AI production companies to turn five domestic original IPs into short dramas and distribute them through local platforms. The company plans to take part in original planning, directing and review, while its Chinese partners handle local short-drama production, localization, content review and distribution."
+                "x": "도서관은 캠퍼스 AI 환경에서 주도권을 원하지만 기업용 AI를 운영하지는 않는다. 출판사는 AI 라이선스 조건과 어떤 AI 기능을 더할지 정하고 있다. “도서관과 출판사가 모두 AI 도구를 중심으로 전략을 짜면, AI를 쓰는 사람들을 체계적으로 연구하는 이는 아무도 없다.”"
               },
               {
                 "t": "p",
-                "x": "The first batch consists of five works: “Reincarnation Express Recipe,” “Gwijeon,” “Gimi,” “Duke Girl Boxer” and “Aseul-aseul.” According to the company, production contracts for all five have been completed, and the short dramas are being produced in China using AI technology. It is preparing for release in November 2026 through Chinese platforms including Tencent, ByteDance, Hongguo and WeChat."
+                "x": "그는 도서관이 디스커버리 레이어 시대에 그랬듯 이용자의 작업 방식을 다시 조사하면 양측 모두 AI 시대의 주도권을 찾을 수 있다고 주장한다. 공동 연구 의제는 연구자와 학생이 어떤 작업을 AI에 맡기는지, 언제 AI를 배제하는지, AI 결과물을 어떻게 확인하는지, 어떤 통제 기능과 기본값을 원하는지다."
               },
               {
                 "t": "p",
-                "x": "The works span genres including cooking romance, action fantasy, historical thriller, sports coming-of-age drama and contemporary romance. Jaju Story plans to produce video content based on the original stories and characters, and to run the business on a contractual revenue-sharing basis."
-              },
-              {
-                "t": "p",
-                "x": "CEO Kim Min-ju has worked as a writer, planning and writing works across web novels, webtoons, screenplays and other content. Kim has won an excellence award at the Korea Story Contest and currently oversees story and IP planning, original writing and the commercialization direction of each work."
-              },
-              {
-                "t": "p",
-                "x": "The company is also pursuing plans to expand its production into webtoons, video and other content using the worlds and characters of its works, including “Reincarnation Express Recipe.”"
-              },
-              {
-                "t": "p",
-                "x": "Five works are under review for follow-up production: “Balbok,” “Hwangunggi,” “National Singer Im Bang-ul,” “Witness in the Dark” and “Jakjeonghago Scandal.” Beyond the first batch and the follow-up works, the company plans to secure additional IPs and expand the business while weighing each work’s production readiness and distribution conditions."
-              },
-              {
-                "t": "p",
-                "x": "In the long term, it aims to extend its content production to short dramas, animation, film and music using the worlds and characters of web novels and webtoons, and is also considering distribution in overseas markets beyond China."
-              },
-              {
-                "t": "p",
-                "x": "It also plans to run AI content production training and participation programs linked with local universities, educational institutions and young creators."
-              },
-              {
-                "t": "p",
-                "x": "Gong Seong-sul, head of content, said, “AI is not a means of replacing creators but a tool that expands their imagination and expressive possibilities,” adding, “The core of good content is ultimately the stories and emotions that move people.”"
-              },
-              {
-                "t": "p",
-                "x": "Gong added, “We will expand a single original IP into webtoons, short-form dramas, animation, film and music, and make it content that is loved in the global market for a long time,” and said, “We will grow together with local creative talent and build a new production ecosystem.”"
+                "x": "다음 단계로, 도서관은 자기 공동체의 AI 활용 실태를 연구하고 그 결과를 캠퍼스 AI 책임자들과 공유해 벤더 기능 평가에 써야 한다. 출판사는 AI 기능 출시 전에 이용자에게 묻고, 이용자 연구를 공유 자원으로 다루며, 설계 선택을 설명하고 도서관을 연구에 초대해야 한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ウェブトゥーンIP 5作品\n中国AIショートドラマに",
-          "body": "ジャジュストーリーがウェブトゥーン5作品を中国AIショートドラマ化し、11月に公開予定だ。",
-          "mini_headline": "ウェブトゥーンがAIショートドラマに",
+          "headline": "図書館と出版社に\nAI利用者の研究を促す",
+          "body": "図書館と出版社は、研究者や学生の実際のAI利用を調べることでAI時代の主体性を得られる。",
+          "mini_headline": "AIの使われ方を調べよ",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://wimg.heraldcorp.com/news/cms/2026/11/10/news-p.v1.20261110.002e6a566b2744a899c811698375eee4_P2.png"
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/DP-20201-001-1024x660.jpg",
+                "cap": "Looking Glass、Isaac Platt作とされる、1829–35"
               },
               {
                 "t": "p",
-                "x": "コンテンツ制作会社のジャジュストーリー(株)は、韓国のウェブトゥーン原作知的財産(IP)5作品を活用した中国AIショートドラマの制作契約を完了したと明らかにした。"
+                "x": "Charleston Library Conferenceで、Lisa Janicke Hinchliffeは、生成AIチャットボットに焦点が当たる頻度の高さと、研究者や学習者がAIツールとどう関わっているかを理解する取り組みがほとんど聞かれないことに驚いた。"
               },
               {
                 "t": "p",
-                "x": "ジャジュストーリーは、国内原作IP 5作品を中国現地のAI制作会社と協力してショートドラマ化し、現地プラットフォームを通じて配信する事業を進めている。同社は原作の企画や演出・検収に参加し、中国のパートナー企業が現地でのショートドラマ制作やローカライズ、審査、配信などを担う形で協力する計画だ。"
+                "x": "図書館はキャンパスのAI環境で主体性を持ちたいが、エンタープライズAIを運用しているわけではない。出版社はAIのライセンス条件や、どのAI機能を加えるかを決めつつある。「図書館と出版社がともにAIツールを軸に戦略を組み立てれば、AIを使う人々を体系的に調べる者は誰もいなくなる」"
               },
               {
                 "t": "p",
-                "x": "第1弾の制作作品は『転生特急レシピ』『クィジョン』『キミ』『デューク・ガール・ボクサー』『アスラアスル』の5作品だ。同社によると、現在5作品の制作契約を完了しており、中国現地でAI技術を活用したショートドラマ制作を進めている。テンセント、バイトダンス、ホングオ、WeChatなど中国のプラットフォームを通じた2026年11月の公開を準備中だ。"
+                "x": "彼女は、図書館がディスカバリーレイヤーの時代にそうしたように、利用者の働き方を改めて調べることで、両者ともAI時代に主体性を発揮できると主張する。共通の調査課題は、研究者や学生がどの作業をAIに任せるのか、いつAIを使わないのか、AIの出力をどう確かめるのか、どんな制御や初期設定を望むのかだ。"
               },
               {
                 "t": "p",
-                "x": "作品は料理ロマンス、アクションファンタジー、時代劇スリラー、スポーツ成長ドラマ、現代ロマンスなど多様なジャンルで構成されている。ジャジュストーリーは原作の物語とキャラクターをもとに映像コンテンツを制作し、契約に基づく収益分配方式で事業を運営する計画だ。"
-              },
-              {
-                "t": "p",
-                "x": "キム・ミンジュ代表は作家として活動し、ウェブ小説やウェブトゥーン、シナリオなど多様なコンテンツ分野で作品の企画と執筆を手がけてきた。大韓民国ストーリー公募大展で優秀賞を受賞した経歴を持ち、現在はストーリー・IPの企画や原作執筆、作品ごとの事業化の方向性などを担当している。"
-              },
-              {
-                "t": "p",
-                "x": "『転生特急レシピ』をはじめとする保有作品の世界観とキャラクターを活用し、ウェブトゥーンや映像コンテンツなどへ制作領域を広げる方策も進めている。"
-              },
-              {
-                "t": "p",
-                "x": "後続制作を検討中の作品は『パルボク』『ファングンギ』『国唱イム・バンウル』『闇の中の証人』『チャクチョンハゴ・スキャンダル』の5作品だ。同社は第1弾と後続作品以外にも追加のIPを確保し、作品ごとの制作準備状況や配信環境などを考慮しながら事業を拡大する計画だ。"
-              },
-              {
-                "t": "p",
-                "x": "長期的には、ウェブ小説やウェブトゥーンの世界観とキャラクターを活用してショートドラマ、アニメーション、映画、音楽などへとコンテンツ制作の範囲を広げ、中国以外の海外市場への配信も検討する方針だ。"
-              },
-              {
-                "t": "p",
-                "x": "地域の大学や教育機関、若手クリエイターなどと連携したAIコンテンツ制作の教育・参加プログラムも推進する計画だ。"
-              },
-              {
-                "t": "p",
-                "x": "コン・ソンスル・コンテンツ総括は「AIはクリエイターに取って代わる手段ではなく、クリエイターの想像力と表現の可能性を広げるツールだ」とし、「良いコンテンツの核心は、結局のところ人の心を動かす物語と感情だ」と述べた。"
-              },
-              {
-                "t": "p",
-                "x": "さらに「一つの原作IPをウェブトゥーン、ショートフォームドラマ、アニメーション、映画、音楽へと広げ、世界市場で長く愛されるコンテンツにする」とし、「地域の創作人材とともに成長し、新たな制作エコシステムを築く」と語った。"
+                "x": "次の一歩として、図書館は自らのコミュニティにおけるAIの使われ方を調査し、結果をキャンパスのAI責任者と共有してベンダーの機能評価に生かすべきだ。出版社はAI機能の公開前に利用者に意見を聞き、利用者調査を共有資源として扱い、設計上の選択を説明し、図書館を調査に招き入れるべきだという。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "5部网漫IP\n改编为中国AI短剧",
-          "body": "Jaju Story已就5部网漫IP签约改编中国AI短剧，计划11月上线。",
-          "mini_headline": "网漫改编AI短剧",
+          "headline": "图书馆与出版社\n应研究AI用户",
+          "body": "图书馆和出版社可通过研究研究人员与学生如何真正使用AI，在AI时代掌握主动。",
+          "mini_headline": "研究用户如何用AI",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://wimg.heraldcorp.com/news/cms/2026/11/10/news-p.v1.20261110.002e6a566b2744a899c811698375eee4_P2.png"
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/DP-20201-001-1024x660.jpg",
+                "cap": "Looking Glass，传为Isaac Platt所作，1829–35"
               },
               {
                 "t": "p",
-                "x": "内容制作公司Jaju Story表示，已完成利用5部韩国网漫原创知识产权（IP）制作中国AI短剧的合同签约。"
+                "x": "在Charleston Library Conference上，Lisa Janicke Hinchliffe注意到，焦点频频落在生成式AI聊天机器人上，而关于理解研究者和学习者如何使用AI工具的努力却鲜有耳闻。"
               },
               {
                 "t": "p",
-                "x": "Jaju Story正与中国本土AI制作公司合作，将5部国内原创IP制作成短剧，并通过当地平台发行。公司将参与原作策划及导演、审核工作，中国合作方则负责当地短剧制作、本地化、审查及发行等。"
+                "x": "图书馆希望在校园AI环境中掌握主动，却并不运营企业级AI；出版社则在决定AI授权条款以及要添加哪些AI功能。“当图书馆和出版社都围绕AI工具来制定战略时，就没有人在系统地研究使用AI的人。”"
               },
               {
                 "t": "p",
-                "x": "首批制作作品为《转生特急食谱》《Gwijeon》《Gimi》《公爵女拳手》《Aseul-aseul》共5部。据公司介绍，目前5部作品的制作合同均已签订，正在中国当地运用AI技术制作短剧，并准备于2026年11月通过腾讯、字节跳动、红果、微信等中国平台上线。"
+                "x": "她认为，只要像图书馆在发现层时代那样再次研究用户如何工作，双方都能在AI时代掌握主动。共同的研究议题包括：研究者和学生把哪些任务交给AI、何时不用AI、如何核查AI输出，以及他们想要哪些控制选项和默认设置。"
               },
               {
                 "t": "p",
-                "x": "作品涵盖美食爱情、动作奇幻、古装惊悚、体育成长剧、现代爱情等多种类型。Jaju Story计划以原作的叙事和角色为基础制作影像内容，并按照合同约定的收益分成方式运营业务。"
-              },
-              {
-                "t": "p",
-                "x": "代表Kim Min-ju以作家身份活动，一直在网络小说、网漫、剧本等多个内容领域从事作品策划与写作，曾获大韩民国故事征集大赛优秀奖，目前负责故事及IP策划、原作写作以及各作品的商业化方向等。"
-              },
-              {
-                "t": "p",
-                "x": "公司还在推进以《转生特急食谱》等自有作品的世界观和角色为基础，将制作领域扩展到网漫和影像内容等。"
-              },
-              {
-                "t": "p",
-                "x": "正在考虑后续制作的作品为《Balbok》《Hwangunggi》《国唱Im Bang-ul》《黑暗中的证人》《Jakjeonghago Scandal》共5部。公司计划在首批及后续作品之外再获取更多IP，并结合各作品的制作准备情况和发行条件等扩大业务。"
-              },
-              {
-                "t": "p",
-                "x": "从长期看，公司将利用网络小说和网漫的世界观与角色，把内容制作范围扩展到短剧、动画、电影、音乐等，并考虑向中国以外的其他海外市场发行。"
-              },
-              {
-                "t": "p",
-                "x": "公司还计划推进与地方大学、教育机构及青年创作者等合作的AI内容制作教育和参与项目。"
-              },
-              {
-                "t": "p",
-                "x": "内容总监Gong Seong-sul表示：“AI不是取代创作者的手段，而是拓展创作者想象力和表达可能性的工具。”并称：“好内容的核心归根结底是打动人心的故事和情感。”"
-              },
-              {
-                "t": "p",
-                "x": "Gong Seong-sul接着表示：“我们要把一个原创IP扩展到网漫、短视频剧、动画、电影和音乐，打造在全球市场长久受欢迎的内容。”“我们将与地方创作人才共同成长，构建新的制作生态系统。”"
+                "x": "下一步，图书馆应研究本社区的AI使用实践，与校园AI负责人分享结果，并用来评估供应商的功能；出版社应在发布AI功能前征询用户意见，把用户研究当作共享资源，说明设计选择，并邀请图书馆参与研究。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Cinco IP de webtoon se vuelven\nmicrodramas chinos con IA",
-          "body": "Jaju Story firmó la adaptación de cinco IP de webtoon a microdramas chinos con IA, que se estrenarán en noviembre.",
-          "mini_headline": "Webtoons convertidos en microdramas con IA",
+          "headline": "Bibliotecas y editoriales:\nestudiar a los usuarios de AI",
+          "body": "Bibliotecas y editoriales pueden ganar peso en la era de la AI estudiando cómo la usan investigadores y estudiantes.",
+          "mini_headline": "Estudiar cómo se usa la AI",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://wimg.heraldcorp.com/news/cms/2026/11/10/news-p.v1.20261110.002e6a566b2744a899c811698375eee4_P2.png"
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/DP-20201-001-1024x660.jpg",
+                "cap": "Looking Glass, atribuido a Isaac Platt, 1829–35"
               },
               {
                 "t": "p",
-                "x": "La productora de contenidos Jaju Story Co. informó de que ha completado los contratos para producir microdramas chinos con IA basados en cinco propiedades intelectuales (IP) originales de webtoons coreanos."
+                "x": "En la Charleston Library Conference, a Lisa Janicke Hinchliffe le llamó la atención la frecuencia con que el foco estaba en los chatbots de AI generativa y lo poco que oyó sobre los esfuerzos por entender cómo investigadores y estudiantes interactúan con las herramientas de AI."
               },
               {
                 "t": "p",
-                "x": "Jaju Story impulsa un negocio en el que colabora con productoras chinas de IA para convertir cinco IP originales nacionales en microdramas y distribuirlos a través de plataformas locales. La empresa participará en la planificación original, la dirección y la revisión, mientras que sus socios chinos se encargarán de la producción local, la localización, la revisión de contenidos y la distribución."
+                "x": "Las bibliotecas quieren tener agencia en el entorno de AI del campus, pero no gestionan la AI corporativa; las editoriales deciden las condiciones de licencia de AI y qué funciones de AI añadir. “Cuando bibliotecas y editoriales organizan sus estrategias en torno a las herramientas de AI, nadie estudia de forma sistemática a las personas que usan la AI”."
               },
               {
                 "t": "p",
-                "x": "La primera tanda la forman cinco obras: «Reincarnation Express Recipe», «Gwijeon», «Gimi», «Duke Girl Boxer» y «Aseul-aseul». Según la empresa, ya se han cerrado los contratos de producción de las cinco y los microdramas se están produciendo en China con tecnología de IA. Prepara su estreno en noviembre de 2026 en plataformas chinas como Tencent, ByteDance, Hongguo y WeChat."
+                "x": "Sostiene que ambas pueden ganar agencia en la era de la AI si vuelven a investigar cómo trabajan los usuarios, como hicieron las bibliotecas en la era de las capas de descubrimiento. Una agenda de investigación compartida: qué tareas confían a la AI investigadores y estudiantes, cuándo dejan fuera la AI, cómo verifican los resultados de la AI y qué controles y opciones predeterminadas quieren."
               },
               {
                 "t": "p",
-                "x": "Las obras abarcan géneros variados: romance culinario, fantasía de acción, thriller histórico, drama deportivo de crecimiento y romance contemporáneo. Jaju Story prevé producir contenido audiovisual a partir de las historias y los personajes originales, y gestionar el negocio con un modelo de reparto de ingresos según contrato."
-              },
-              {
-                "t": "p",
-                "x": "Kim Min-ju, director ejecutivo, ha trabajado como escritor en la planificación y redacción de obras de novela web, webtoon, guion y otros formatos. Ha recibido un premio a la excelencia en el Concurso de Historias de Corea y actualmente se ocupa de la planificación de historias e IP, la escritura de obras originales y la orientación comercial de cada título."
-              },
-              {
-                "t": "p",
-                "x": "La empresa también estudia ampliar su producción a webtoons y contenido audiovisual a partir de los universos y personajes de sus obras, como «Reincarnation Express Recipe»."
-              },
-              {
-                "t": "p",
-                "x": "Las obras en estudio para una segunda tanda son cinco: «Balbok», «Hwangunggi», «National Singer Im Bang-ul», «Witness in the Dark» y «Jakjeonghago Scandal». Además de estas, la empresa prevé adquirir más IP y ampliar el negocio teniendo en cuenta el estado de preparación de cada obra y las condiciones de distribución."
-              },
-              {
-                "t": "p",
-                "x": "A largo plazo, quiere extender su producción a microdramas, animación, cine y música a partir de los universos y personajes de novelas web y webtoons, y estudia distribuir en otros mercados internacionales además de China."
-              },
-              {
-                "t": "p",
-                "x": "También planea programas de formación y participación en producción de contenidos con IA junto con universidades, centros educativos y jóvenes creadores de la región."
-              },
-              {
-                "t": "p",
-                "x": "Gong Seong-sul, responsable de contenidos, afirmó: «La IA no es un medio para sustituir a los creadores, sino una herramienta que amplía su imaginación y sus posibilidades expresivas», y añadió: «La esencia de un buen contenido son, al final, las historias y emociones que conmueven a las personas»."
-              },
-              {
-                "t": "p",
-                "x": "Gong agregó: «Ampliaremos una sola IP original a webtoons, dramas de formato corto, animación, cine y música para convertirla en un contenido apreciado durante mucho tiempo en el mercado mundial», y «creceremos junto al talento creativo local para construir un nuevo ecosistema de producción»."
+                "x": "Próximos pasos: las bibliotecas deberían estudiar la práctica de la AI en sus comunidades, compartir los hallazgos con los responsables de AI del campus y usarlos para evaluar las funciones de los proveedores; las editoriales deberían consultar a los usuarios sobre las funciones de AI antes de lanzarlas, tratar la investigación de usuarios como un recurso compartido, explicar sus decisiones de diseño e invitar a las bibliotecas a la investigación."
               }
             ]
           }
@@ -1691,15 +1461,15 @@
       }
     },
     {
-      "id": "books-joongang-audiobook-ai-narration",
+      "id": "openai-amicus-briefs-map",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "오디오북 빈틈은 AI가\n소설 낭독은 사람이",
-      "body": "한국 오디오북 제작사들은 수익성 낮은 책엔 AI를, 소설엔 성우를 쓴다.",
-      "mini_headline": "오디오북, 사람 목소리 지킨다",
+      "headline": "OpenAI 저작권 소송\n법정의견서 50건 넘어",
+      "body": "In re OpenAI에 쌓인 50건 넘는 의견서로 AI 저작권 쟁점이 드러난다.",
+      "mini_headline": "OpenAI 소송, 의견서 50건 넘어",
       "tool": "Books",
-      "source": "Korea JoongAng Daily",
-      "url": "https://www.koreajoongangdaily.com/lifestyle/a-human-touch-why-the-audiobook-industry-still-seeks-voice-actors-over-ai/12955839",
+      "source": "Publishing Perspectives",
+      "url": "https://publishingperspectives.com/2026/11/copyright-infringement-lawsuit-against-openai-draws-more-than-50-very-illuminating-amicus-briefs/",
       "accent": "#eb367f",
       "motif": "swatch",
       "full": {
@@ -1707,239 +1477,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://image.koreajoongangdaily.com/12955845.webp?imageId=12955845&width=960&height=548&format=jpg",
-            "cap": "11월 2일 서울 서부의 Audien 녹음 스튜디오에서 「전지적 독자 시점」(2018–20) 오디오북 녹음이 진행되고 있다."
+            "src": "https://publishingperspectives.com/wp-content/uploads/2026/11/Screen-Shot-2026-11-02-at-10.58.57-PM.png"
           },
           {
             "t": "p",
-            "x": "제작사들이 AI를 쓰는 곳은 주로 오디오북 업계의 빈틈이다. 상업성이 없어 보이는 책의 오디오판을 만드는 식이다."
+            "x": "In re OpenAI Copyright Infringement Litigation은 Authors Guild와 New York Times를 비롯한 언론사들의 소송 등 열두 건이 넘는 주요 AI 소송을 하나로 묶은 사건이다. 10월 30일 마감까지 법원에 들어온 법정 조언자 의견서(amicus brief)는 51건이다."
           },
           {
             "t": "p",
-            "x": "Audien의 오디오북 PD 김송희는 “AI는 감정을 어느 정도까지만 표현할 수 있다”고 말했다. 논픽션 낭독이라면 이 기술이 맞을 수도 있지만, 소설 각색에서는 AI-generated 음성이 귀를 붙잡는 힘이 떨어진다. Audien 유통 부서에 따르면 사람이 낭독한 소설은 AI 버전보다 관심을 약 10배 더 끈다고 한다."
-          },
-          {
-            "t": "img",
-            "src": "https://image.koreajoongangdaily.com/12955847.webp?imageId=12955847&x=0.00&y=5.21&cropw=100.00&croph=75.68&width=960&height=548&format=jpg",
-            "cap": "오디오북 제작사 Audien의 PD 김송희(왼쪽)와 장지은"
+            "x": "원고 측은 OpenAI가 모델 학습용으로 (불법 복제 출처를 포함해) 저작물을 복사해 침해했고 출력물도 침해일 수 있다고 주장한다. OpenAI는 학습을 위한 복사가 공정 이용이라고 맞선다. 마지막 의견서 기한은 11월 6일이다. 그 뒤 Sidney H. Stein 판사 앞에서 구두 변론 일정이 잡힌다."
           },
           {
             "t": "p",
-            "x": "1월부터 10월까지 Audien에서 성우와 작업하는 팀은 약 230편을, 지난해 꾸려진 AI 팀은 약 380편을 만들었다. 성우 여럿을 쓰면 약 500만 원($3,680)이 드는 5~6시간짜리 오디오북을 AI로는 약 100만 원에 만든다."
-          },
-          {
-            "t": "img",
-            "src": "https://image.koreajoongangdaily.com/12955846.webp?imageId=12955846&x=0.00&y=2.02&cropw=100.00&croph=57.13&width=960&height=750&format=jpg",
-            "cap": "「전지적 독자 시점」(2018-20) 녹음 현장에서 연기하는 성우들."
+            "x": "의견서의 정확히 절반인 26건이 원고 편에, 18건이 피고 편에 섰다. 나머지 여덟 건은 중립이다. 원고 지지 측에는 Association of American Publishers, Copyright Alliance, Ken Burns, WME, Congress(연방 의회) 의원들, PEN America가 이름을 올렸다."
           },
           {
             "t": "p",
-            "x": "Audien이 각색한 이영도의 「피를 마시는 새」(2005)는 2년 반 동안 성우 58명이 참여해 143시간 40분 분량으로 완성됐다. 김송희는 “AI는 오디오북 시장 전체를 키우는 데 분명히 맡을 역할이 있다”고 말했다."
+            "x": "피고 쪽 의견서는 Authors Alliance, Kevin Kelly, EFF, Edward Lee와 Rebecca Tushnet, Public Knowledge가 냈고 상당수가 “시장 희석(market dilution)” 이론을 겨냥했다. 중립 의견서는 Pamela Samuelson과 Christopher Sprigman, Wikimedia Foundation, Matthew Sag가 제출했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI fills audiobook gaps,\nhumans still voice fiction",
-          "body": "Korean audiobook producers use AI voices for commercially unviable titles while keeping human actors for fiction.",
-          "mini_headline": "Audiobooks keep humans",
+          "headline": "OpenAI copyright case\ndraws 50+ amicus briefs",
+          "body": "More than 50 amicus briefs filed in In re OpenAI map the fault lines of one of the most important AI copyright cases.",
+          "mini_headline": "50+ briefs in OpenAI case",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12955845.webp?imageId=12955845&width=960&height=548&format=jpg",
-                "cap": "A recording session for the audiobook adaptation of “Omniscient Reader’s Viewpoint” (2018–20) takes place at Audien’s recording studio in western Seoul on Nov. 2."
+                "src": "https://publishingperspectives.com/wp-content/uploads/2026/11/Screen-Shot-2026-11-02-at-10.58.57-PM.png"
               },
               {
                 "t": "p",
-                "x": "Producers primarily use AI to fill gaps in the audiobook industry, such as creating audio versions of books that would otherwise be considered commercially unviable."
+                "x": "In re OpenAI Copyright Infringement Litigation consolidates more than a dozen major AI lawsuits, including cases filed by the Authors Guild and several news organizations, including the New York Times. The court received 51 amicus briefs by the October 30 deadline."
               },
               {
                 "t": "p",
-                "x": "“AI can express emotions only to some extent,” said Kim Song-hee, an audiobook producer at Audien. The technology may suit narration for nonfiction works, but AI-generated voices are less compelling for fiction adaptations. According to Audien’s distribution department, human-narrated fiction reportedly attracts around 10 times as much interest as its AI counterpart."
-              },
-              {
-                "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12955847.webp?imageId=12955847&x=0.00&y=5.21&cropw=100.00&croph=75.68&width=960&height=548&format=jpg",
-                "cap": "Producers Kim Song-hee, left, and Chang Ji-eun of audiobook production company Audien"
+                "x": "The plaintiffs argue OpenAI infringed by copying works to train its models (including from pirated sources) and that its outputs can also be infringing; OpenAI counters that copying for training is fair use. A final round of briefs is due November 6, after which oral arguments will be set before judge Sidney H. Stein."
               },
               {
                 "t": "p",
-                "x": "From January through October, Audien’s team working with human voice actors produced around 230 titles, while its AI team, established just last year, produced approximately 380. A five- or six-hour audiobook that costs approximately 5 million won ($3,680) to produce with several voice actors can be made for around 1 million won when using AI."
-              },
-              {
-                "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12955846.webp?imageId=12955846&x=0.00&y=2.02&cropw=100.00&croph=57.13&width=960&height=750&format=jpg",
-                "cap": "Voice actors perform during a recording session for \"Omniscient Reader's Viewpoint\" (2018-20)."
+                "x": "Fully half of the briefs (26) support the plaintiffs; 18 support the defendants; eight are neutral. Supporters of the plaintiffs include the Association of American Publishers, the Copyright Alliance, Ken Burns, WME, members of Congress and PEN America."
               },
               {
                 "t": "p",
-                "x": "Audien’s adaptation of Lee Young-do’s \"The Bird That Drinks Blood\" (2005) took two and a half years, with 58 voice actors and 143 hours and 40 minutes of audio. “AI definitely has a role to play in growing the overall audiobook market,” Kim said."
+                "x": "On the defense side are Authors Alliance, Kevin Kelly, EFF, Edward Lee and Rebecca Tushnet, and Public Knowledge, many attacking the “market dilution” theory. Neutral briefs come from Pamela Samuelson and Christopher Sprigman, the Wikimedia Foundation and Matthew Sag."
               }
             ]
           }
         },
         "ko": {
-          "headline": "오디오북 빈틈은 AI가\n소설 낭독은 사람이",
-          "body": "한국 오디오북 제작사들은 수익성 낮은 책엔 AI를, 소설엔 성우를 쓴다.",
-          "mini_headline": "오디오북, 사람 목소리 지킨다",
+          "headline": "OpenAI 저작권 소송\n법정의견서 50건 넘어",
+          "body": "In re OpenAI에 쌓인 50건 넘는 의견서로 AI 저작권 쟁점이 드러난다.",
+          "mini_headline": "OpenAI 소송, 의견서 50건 넘어",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12955845.webp?imageId=12955845&width=960&height=548&format=jpg",
-                "cap": "11월 2일 서울 서부의 Audien 녹음 스튜디오에서 「전지적 독자 시점」(2018–20) 오디오북 녹음이 진행되고 있다."
+                "src": "https://publishingperspectives.com/wp-content/uploads/2026/11/Screen-Shot-2026-11-02-at-10.58.57-PM.png"
               },
               {
                 "t": "p",
-                "x": "제작사들이 AI를 쓰는 곳은 주로 오디오북 업계의 빈틈이다. 상업성이 없어 보이는 책의 오디오판을 만드는 식이다."
+                "x": "In re OpenAI Copyright Infringement Litigation은 Authors Guild와 New York Times를 비롯한 언론사들의 소송 등 열두 건이 넘는 주요 AI 소송을 하나로 묶은 사건이다. 10월 30일 마감까지 법원에 들어온 법정 조언자 의견서(amicus brief)는 51건이다."
               },
               {
                 "t": "p",
-                "x": "Audien의 오디오북 PD 김송희는 “AI는 감정을 어느 정도까지만 표현할 수 있다”고 말했다. 논픽션 낭독이라면 이 기술이 맞을 수도 있지만, 소설 각색에서는 AI-generated 음성이 귀를 붙잡는 힘이 떨어진다. Audien 유통 부서에 따르면 사람이 낭독한 소설은 AI 버전보다 관심을 약 10배 더 끈다고 한다."
-              },
-              {
-                "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12955847.webp?imageId=12955847&x=0.00&y=5.21&cropw=100.00&croph=75.68&width=960&height=548&format=jpg",
-                "cap": "오디오북 제작사 Audien의 PD 김송희(왼쪽)와 장지은"
+                "x": "원고 측은 OpenAI가 모델 학습용으로 (불법 복제 출처를 포함해) 저작물을 복사해 침해했고 출력물도 침해일 수 있다고 주장한다. OpenAI는 학습을 위한 복사가 공정 이용이라고 맞선다. 마지막 의견서 기한은 11월 6일이다. 그 뒤 Sidney H. Stein 판사 앞에서 구두 변론 일정이 잡힌다."
               },
               {
                 "t": "p",
-                "x": "1월부터 10월까지 Audien에서 성우와 작업하는 팀은 약 230편을, 지난해 꾸려진 AI 팀은 약 380편을 만들었다. 성우 여럿을 쓰면 약 500만 원($3,680)이 드는 5~6시간짜리 오디오북을 AI로는 약 100만 원에 만든다."
-              },
-              {
-                "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12955846.webp?imageId=12955846&x=0.00&y=2.02&cropw=100.00&croph=57.13&width=960&height=750&format=jpg",
-                "cap": "「전지적 독자 시점」(2018-20) 녹음 현장에서 연기하는 성우들."
+                "x": "의견서의 정확히 절반인 26건이 원고 편에, 18건이 피고 편에 섰다. 나머지 여덟 건은 중립이다. 원고 지지 측에는 Association of American Publishers, Copyright Alliance, Ken Burns, WME, Congress(연방 의회) 의원들, PEN America가 이름을 올렸다."
               },
               {
                 "t": "p",
-                "x": "Audien이 각색한 이영도의 「피를 마시는 새」(2005)는 2년 반 동안 성우 58명이 참여해 143시간 40분 분량으로 완성됐다. 김송희는 “AI는 오디오북 시장 전체를 키우는 데 분명히 맡을 역할이 있다”고 말했다."
+                "x": "피고 쪽 의견서는 Authors Alliance, Kevin Kelly, EFF, Edward Lee와 Rebecca Tushnet, Public Knowledge가 냈고 상당수가 “시장 희석(market dilution)” 이론을 겨냥했다. 중립 의견서는 Pamela Samuelson과 Christopher Sprigman, Wikimedia Foundation, Matthew Sag가 제출했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIが隙間を埋めても\n小説朗読は人が担う",
-          "body": "韓国のオーディオブック制作会社は、採算の合わない本にAI、小説には人の声優を使う。",
-          "mini_headline": "オーディオブックは人の声を守る",
+          "headline": "OpenAI著作権訴訟\n意見書50件超が集まる",
+          "body": "In re OpenAIに出された50件超の意見書が、AI著作権訴訟の争点を描き出す。",
+          "mini_headline": "OpenAI訴訟に意見書50件超",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12955845.webp?imageId=12955845&width=960&height=548&format=jpg",
-                "cap": "11月2日、ソウル西部にあるAudienの録音スタジオで行われた『全知的な読者の視点から』(2018–20)オーディオブック版の収録。"
+                "src": "https://publishingperspectives.com/wp-content/uploads/2026/11/Screen-Shot-2026-11-02-at-10.58.57-PM.png"
               },
               {
                 "t": "p",
-                "x": "制作会社は主に、採算が合わないとされる本のオーディオ版を作るなど、オーディオブック業界の隙間を埋めるためにAIを使っている。"
+                "x": "In re OpenAI Copyright Infringement Litigationは、Authors Guildや、New York Timesを含む複数の報道機関が起こした訴訟など、十数件の主要なAI訴訟を併合したものだ。裁判所は10月30日の期限までに51件のアミカスブリーフ(意見書)を受け取った。"
               },
               {
                 "t": "p",
-                "x": "「AIが表現できる感情はある程度までだ」と、Audienのオーディオブックプロデューサー、キム・ソンヒは語る。この技術はノンフィクションの朗読には向くかもしれないが、小説の翻案ではAI-generatedの声は訴求力に欠ける。Audienの流通部門によると、人が朗読した小説はAI版の約10倍の関心を集めるという。"
-              },
-              {
-                "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12955847.webp?imageId=12955847&x=0.00&y=5.21&cropw=100.00&croph=75.68&width=960&height=548&format=jpg",
-                "cap": "オーディオブック制作会社Audienのプロデューサー、キム・ソンヒ(左)とチャン・ジウン"
+                "x": "原告側は、OpenAIがモデルの学習のために(海賊版の入手元を含め)著作物を複製したことが侵害にあたり、その出力も侵害となりうると主張する。OpenAIは学習のための複製はフェアユースだと反論している。最終ラウンドの意見書の期限は11月6日で、その後Sidney H. Stein判事のもとで口頭弁論の日程が決まる。"
               },
               {
                 "t": "p",
-                "x": "1月から10月にかけて、Audienで声優と組むチームは約230タイトルを制作し、昨年発足したばかりのAIチームは約380タイトルを制作した。複数の声優を起用すると約500万ウォン(3,680ドル)かかる5〜6時間のオーディオブックも、AIなら約100万ウォンで作れる。"
-              },
-              {
-                "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12955846.webp?imageId=12955846&x=0.00&y=2.02&cropw=100.00&croph=57.13&width=960&height=750&format=jpg",
-                "cap": "『全知的な読者の視点から』(2018-20)の収録で演技する声優たち。"
+                "x": "意見書のちょうど半数(26件)が原告を、18件が被告を支持し、八件は中立だ。原告支持にはAssociation of American Publishers、Copyright Alliance、Ken Burns、WME、Congress(連邦議会)の議員、PEN Americaが名を連ねる。"
               },
               {
                 "t": "p",
-                "x": "Audienによるイ・ヨンドの『血を飲む鳥』(2005)の翻案には2年半を要し、声優58人が参加、音声は143時間40分に及んだ。キムは「AIはオーディオブック市場全体の成長に確かに役割を果たす」と述べた。"
+                "x": "被告側にはAuthors Alliance、Kevin Kelly、EFF、Edward LeeとRebecca Tushnet、Public Knowledgeが並び、その多くが「市場の希釈(market dilution)」理論を批判している。中立の意見書はPamela SamuelsonとChristopher Sprigman、Wikimedia Foundation、Matthew Sagから出された。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI填补有声书空白\n小说仍由真人演绎",
-          "body": "韩国有声书制作方用AI制作缺乏商业价值的书，小说则仍用真人配音。",
-          "mini_headline": "有声书仍留真人声音",
+          "headline": "OpenAI版权案\n法庭之友意见书逾50份",
+          "body": "In re OpenAI案收到逾50份法庭之友意见书，勾勒出最重要AI版权案之一的分歧。",
+          "mini_headline": "OpenAI案收到逾50份意见书",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12955845.webp?imageId=12955845&width=960&height=548&format=jpg",
-                "cap": "11月2日，《全知读者视角》（2018–20）有声书改编版在首尔西部Audien录音棚进行录制。"
+                "src": "https://publishingperspectives.com/wp-content/uploads/2026/11/Screen-Shot-2026-11-02-at-10.58.57-PM.png"
               },
               {
                 "t": "p",
-                "x": "制作方主要用AI填补有声书行业的空白，例如为那些原本被认为缺乏商业价值的书制作音频版。"
+                "x": "In re OpenAI Copyright Infringement Litigation合并了十多起重大AI诉讼，其中包括Authors Guild以及New York Times等多家新闻机构提起的案件。截至10月30日的截止日期，法院共收到51份法庭之友意见书。"
               },
               {
                 "t": "p",
-                "x": "Audien有声书制作人Kim Song-hee表示：“AI只能在一定程度上表达情感。”这项技术或许适合非虚构作品的朗读，但AI-generated声音在小说改编中吸引力较弱。据Audien发行部门称，真人朗读的小说所获关注度据报约为AI版本的10倍。"
-              },
-              {
-                "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12955847.webp?imageId=12955847&x=0.00&y=5.21&cropw=100.00&croph=75.68&width=960&height=548&format=jpg",
-                "cap": "有声书制作公司Audien的制作人Kim Song-hee（左）和Chang Ji-eun"
+                "x": "原告方认为，OpenAI为训练模型而复制作品（包括来自盗版来源的作品）构成侵权，其输出内容也可能侵权；OpenAI则反驳称，为训练而复制属于合理使用。最后一轮意见书须于11月6日前提交，此后将安排在Sidney H. Stein法官面前进行口头辩论。"
               },
               {
                 "t": "p",
-                "x": "1月至10月，Audien与真人配音演员合作的团队制作了约230部作品，而去年才成立的AI团队制作了约380部。一部五到六小时的有声书，若请多名配音演员制作约需500万韩元（3,680美元），用AI则约100万韩元即可完成。"
-              },
-              {
-                "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12955846.webp?imageId=12955846&x=0.00&y=2.02&cropw=100.00&croph=57.13&width=960&height=750&format=jpg",
-                "cap": "配音演员在《全知读者视角》（2018-20）录音现场表演。"
+                "x": "整整一半的意见书（26份）支持原告；18份支持被告；八份持中立立场。支持原告的包括Association of American Publishers、Copyright Alliance、Ken Burns、WME、Congress议员以及PEN America。"
               },
               {
                 "t": "p",
-                "x": "Audien改编的Lee Young-do作品《饮血之鸟》（2005）耗时两年半，动用58名配音演员，音频长达143小时40分钟。Kim Song-hee说：“AI在扩大整个有声书市场方面肯定能发挥作用。”"
+                "x": "被告一方有Authors Alliance、Kevin Kelly、EFF、Edward Lee和Rebecca Tushnet，以及Public Knowledge，其中许多抨击了“市场稀释”（market dilution）理论。中立意见书来自Pamela Samuelson和Christopher Sprigman、Wikimedia Foundation以及Matthew Sag。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Audiolibros: la IA cubre huecos\ny la ficción sigue en voz humana",
-          "body": "Productoras coreanas de audiolibros usan voces de IA en títulos poco rentables y mantienen actores humanos en ficción.",
-          "mini_headline": "Los audiolibros mantienen la voz humana",
+          "headline": "Caso de copyright contra OpenAI\nsuma más de 50 escritos amicus",
+          "body": "Más de 50 escritos amicus en In re OpenAI trazan las líneas de fractura de un caso clave de copyright y AI.",
+          "mini_headline": "Más de 50 escritos en el caso OpenAI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12955845.webp?imageId=12955845&width=960&height=548&format=jpg",
-                "cap": "Grabación de la adaptación en audiolibro de «Omniscient Reader’s Viewpoint» (2018–20) en el estudio de Audien, en el oeste de Seúl, el 2 de noviembre."
+                "src": "https://publishingperspectives.com/wp-content/uploads/2026/11/Screen-Shot-2026-11-02-at-10.58.57-PM.png"
               },
               {
                 "t": "p",
-                "x": "Las productoras usan la IA sobre todo para cubrir huecos en el sector del audiolibro, como crear versiones en audio de libros que de otro modo se considerarían poco rentables."
+                "x": "In re OpenAI Copyright Infringement Litigation reúne más de una docena de grandes demandas sobre AI, entre ellas casos presentados por el Authors Guild y varias organizaciones de noticias, incluido el New York Times. El tribunal recibió 51 escritos amicus antes del plazo del 30 de octubre."
               },
               {
                 "t": "p",
-                "x": "«La IA solo puede expresar emociones hasta cierto punto», dijo Kim Song-hee, responsable de producción de audiolibros en Audien. La tecnología puede servir para narrar obras de no ficción, pero las voces AI-generated resultan menos convincentes en las adaptaciones de ficción. Según el departamento de distribución de Audien, la ficción narrada por personas atrae, al parecer, unas 10 veces más interés que su equivalente con IA."
-              },
-              {
-                "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12955847.webp?imageId=12955847&x=0.00&y=5.21&cropw=100.00&croph=75.68&width=960&height=548&format=jpg",
-                "cap": "Kim Song-hee, a la izquierda, y Chang Ji-eun, productores de la empresa de audiolibros Audien"
+                "x": "Los demandantes sostienen que OpenAI infringió derechos al copiar obras para entrenar sus modelos (incluso de fuentes piratas) y que sus resultados también pueden ser infractores; OpenAI replica que copiar para entrenar es uso legítimo (fair use). La última ronda de escritos vence el 6 de noviembre, tras lo cual se fijarán los alegatos orales ante el juez Sidney H. Stein."
               },
               {
                 "t": "p",
-                "x": "De enero a octubre, el equipo de Audien que trabaja con actores de voz humanos produjo unos 230 títulos, mientras que su equipo de IA, creado apenas el año pasado, produjo unos 380. Un audiolibro de cinco o seis horas que cuesta unos 5 millones de wones (3.680 dólares) con varios actores de voz puede hacerse por alrededor de 1 millón de wones con IA."
-              },
-              {
-                "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12955846.webp?imageId=12955846&x=0.00&y=2.02&cropw=100.00&croph=57.13&width=960&height=750&format=jpg",
-                "cap": "Actores de voz durante una sesión de grabación de «Omniscient Reader's Viewpoint» (2018-20)."
+                "x": "Exactamente la mitad de los escritos (26) apoya a los demandantes; 18 apoyan a los demandados; ocho son neutrales. Entre quienes respaldan a los demandantes figuran la Association of American Publishers, la Copyright Alliance, Ken Burns, WME, miembros del Congress (Congreso) y PEN America."
               },
               {
                 "t": "p",
-                "x": "La adaptación de Audien de «The Bird That Drinks Blood» (2005), de Lee Young-do, llevó dos años y medio, con 58 actores de voz y 143 horas y 40 minutos de audio. «La IA sin duda tiene un papel en el crecimiento del mercado del audiolibro en su conjunto», dijo Kim."
+                "x": "Del lado de la defensa están Authors Alliance, Kevin Kelly, EFF, Edward Lee y Rebecca Tushnet, y Public Knowledge, muchos de los cuales atacan la teoría de la “dilución del mercado” (market dilution). Los escritos neutrales proceden de Pamela Samuelson y Christopher Sprigman, la Wikimedia Foundation y Matthew Sag."
               }
             ]
           }
@@ -1947,165 +1651,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "오디오북 빈틈은 AI가\n소설 낭독은 사람이",
-          "body": "한국 오디오북 제작사는 수익성 낮은 책엔 AI를, 소설엔 성우를 쓴다.",
-          "mini_headline": "오디오북, 사람 목소리 지킨다",
+          "headline": "OpenAI 저작권 소송\n법정의견서 50건 넘어",
+          "body": "In re OpenAI에 낸 50건 넘는 의견서가 AI 저작권 쟁점을 보여준다.",
+          "mini_headline": "OpenAI 소송, 의견서 50건 넘어",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12955845.webp?imageId=12955845&width=960&height=548&format=jpg",
-                "cap": "11월 2일 서울 서부의 Audien 녹음 스튜디오에서 「전지적 독자 시점」(2018–20) 오디오북 녹음이 진행되고 있다."
+                "src": "https://publishingperspectives.com/wp-content/uploads/2026/11/Screen-Shot-2026-11-02-at-10.58.57-PM.png"
               },
               {
                 "t": "p",
-                "x": "제작사들은 주로 상업성이 없다고 여겨질 책의 오디오판을 만드는 등 오디오북 업계의 빈틈을 메우는 데 AI를 쓴다."
+                "x": "In re OpenAI Copyright Infringement Litigation은 Authors Guild와 New York Times를 비롯한 여러 언론사가 제기한 소송 등 열두 건이 넘는 주요 AI 소송을 병합한 사건이다. 법원은 10월 30일 마감까지 법정 조언자 의견서(amicus brief) 51건을 받았다."
               },
               {
                 "t": "p",
-                "x": "Audien의 오디오북 PD 김송희는 “AI는 감정을 어느 정도까지만 표현할 수 있다”고 말했다. 이 기술은 논픽션 낭독에는 맞을 수 있지만, 소설 각색에서는 AI-generated 음성의 흡인력이 떨어진다. Audien 유통 부서에 따르면 사람이 낭독한 소설은 AI 버전보다 약 10배의 관심을 끄는 것으로 전해졌다."
-              },
-              {
-                "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12955847.webp?imageId=12955847&x=0.00&y=5.21&cropw=100.00&croph=75.68&width=960&height=548&format=jpg",
-                "cap": "오디오북 제작사 Audien의 PD 김송희(왼쪽)와 장지은"
+                "x": "원고 측은 OpenAI가 모델 학습을 위해 (불법 복제 출처를 포함해) 저작물을 복사해 침해했고, 그 출력물도 침해가 될 수 있다고 주장한다. OpenAI는 학습을 위한 복사가 공정 이용이라고 맞선다. 마지막 의견서 제출 기한은 11월 6일이며, 이후 Sidney H. Stein 판사 앞에서 구두 변론 일정이 잡힌다."
               },
               {
                 "t": "p",
-                "x": "1월부터 10월까지 Audien에서 성우와 작업하는 팀은 약 230편을 제작했고, 지난해 갓 만들어진 AI 팀은 약 380편을 만들었다. 여러 성우를 기용하면 약 500만 원($3,680)이 드는 5~6시간 분량 오디오북을 AI로는 약 100만 원에 만들 수 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12955846.webp?imageId=12955846&x=0.00&y=2.02&cropw=100.00&croph=57.13&width=960&height=750&format=jpg",
-                "cap": "「전지적 독자 시점」(2018-20) 녹음 현장에서 연기하는 성우들."
+                "x": "의견서의 정확히 절반(26건)이 원고를, 18건이 피고를 지지했고, 여덟 건은 중립이다. 원고 지지 측에는 Association of American Publishers, Copyright Alliance, Ken Burns, WME, Congress(연방 의회) 의원들, PEN America가 있다."
               },
               {
                 "t": "p",
-                "x": "Audien이 각색한 이영도의 「피를 마시는 새」(2005)는 2년 반이 걸렸고, 성우 58명이 참여해 143시간 40분 분량이 됐다. 김송희는 “AI는 오디오북 시장 전체를 키우는 데 분명히 맡을 역할이 있다”고 말했다."
+                "x": "피고 측에는 Authors Alliance, Kevin Kelly, EFF, Edward Lee와 Rebecca Tushnet, Public Knowledge가 섰고, 상당수가 “시장 희석(market dilution)” 이론을 공격했다. 중립 의견서는 Pamela Samuelson과 Christopher Sprigman, Wikimedia Foundation, Matthew Sag가 냈다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIが隙間を埋めても\n小説朗読は人が担う",
-          "body": "韓国のオーディオブック制作会社は、採算の合わない本にAI、小説には人の声優を使う。",
-          "mini_headline": "オーディオブックは人の声を守る",
+          "headline": "OpenAI著作権訴訟\n意見書50件超が集まる",
+          "body": "In re OpenAIに出された50件超の意見書が、AI著作権訴訟の争点を描き出す。",
+          "mini_headline": "OpenAI訴訟に意見書50件超",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12955845.webp?imageId=12955845&width=960&height=548&format=jpg",
-                "cap": "11月2日、ソウル西部にあるAudienの録音スタジオで行われた『全知的な読者の視点から』(2018–20)オーディオブック版の収録。"
+                "src": "https://publishingperspectives.com/wp-content/uploads/2026/11/Screen-Shot-2026-11-02-at-10.58.57-PM.png"
               },
               {
                 "t": "p",
-                "x": "制作会社は主に、採算が合わないとされる本のオーディオ版を作るなど、オーディオブック業界の隙間を埋めるためにAIを使っている。"
+                "x": "In re OpenAI Copyright Infringement Litigationは、Authors Guildや、New York Timesを含む複数の報道機関が起こした訴訟など、十数件の主要なAI訴訟を併合したものだ。裁判所は10月30日の期限までに51件のアミカスブリーフ(意見書)を受け取った。"
               },
               {
                 "t": "p",
-                "x": "「AIが表現できる感情はある程度までだ」と、Audienのオーディオブックプロデューサー、キム・ソンヒは語る。この技術はノンフィクションの朗読には向くかもしれないが、小説の翻案ではAI-generatedの声は訴求力に欠ける。Audienの流通部門によると、人が朗読した小説はAI版の約10倍の関心を集めるという。"
-              },
-              {
-                "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12955847.webp?imageId=12955847&x=0.00&y=5.21&cropw=100.00&croph=75.68&width=960&height=548&format=jpg",
-                "cap": "オーディオブック制作会社Audienのプロデューサー、キム・ソンヒ(左)とチャン・ジウン"
+                "x": "原告側は、OpenAIがモデルの学習のために(海賊版の入手元を含め)著作物を複製したことが侵害にあたり、その出力も侵害となりうると主張する。OpenAIは学習のための複製はフェアユースだと反論している。最終ラウンドの意見書の期限は11月6日で、その後Sidney H. Stein判事のもとで口頭弁論の日程が決まる。"
               },
               {
                 "t": "p",
-                "x": "1月から10月にかけて、Audienで声優と組むチームは約230タイトルを制作し、昨年発足したばかりのAIチームは約380タイトルを制作した。複数の声優を起用すると約500万ウォン(3,680ドル)かかる5〜6時間のオーディオブックも、AIなら約100万ウォンで作れる。"
-              },
-              {
-                "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12955846.webp?imageId=12955846&x=0.00&y=2.02&cropw=100.00&croph=57.13&width=960&height=750&format=jpg",
-                "cap": "『全知的な読者の視点から』(2018-20)の収録で演技する声優たち。"
+                "x": "意見書のちょうど半数(26件)が原告を、18件が被告を支持し、八件は中立だ。原告支持にはAssociation of American Publishers、Copyright Alliance、Ken Burns、WME、Congress(連邦議会)の議員、PEN Americaが名を連ねる。"
               },
               {
                 "t": "p",
-                "x": "Audienによるイ・ヨンドの『血を飲む鳥』(2005)の翻案には2年半を要し、声優58人が参加、音声は143時間40分に及んだ。キムは「AIはオーディオブック市場全体の成長に確かに役割を果たす」と述べた。"
+                "x": "被告側にはAuthors Alliance、Kevin Kelly、EFF、Edward LeeとRebecca Tushnet、Public Knowledgeが並び、その多くが「市場の希釈(market dilution)」理論を批判している。中立の意見書はPamela SamuelsonとChristopher Sprigman、Wikimedia Foundation、Matthew Sagから出された。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI填补有声书空白\n小说仍由真人演绎",
-          "body": "韩国有声书制作方用AI制作缺乏商业价值的书，小说则仍用真人配音。",
-          "mini_headline": "有声书仍留真人声音",
+          "headline": "OpenAI版权案\n法庭之友意见书逾50份",
+          "body": "In re OpenAI案收到逾50份法庭之友意见书，勾勒出最重要AI版权案之一的分歧。",
+          "mini_headline": "OpenAI案收到逾50份意见书",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12955845.webp?imageId=12955845&width=960&height=548&format=jpg",
-                "cap": "11月2日，《全知读者视角》（2018–20）有声书改编版在首尔西部Audien录音棚进行录制。"
+                "src": "https://publishingperspectives.com/wp-content/uploads/2026/11/Screen-Shot-2026-11-02-at-10.58.57-PM.png"
               },
               {
                 "t": "p",
-                "x": "制作方主要用AI填补有声书行业的空白，例如为那些原本被认为缺乏商业价值的书制作音频版。"
+                "x": "In re OpenAI Copyright Infringement Litigation合并了十多起重大AI诉讼，其中包括Authors Guild以及New York Times等多家新闻机构提起的案件。截至10月30日的截止日期，法院共收到51份法庭之友意见书。"
               },
               {
                 "t": "p",
-                "x": "Audien有声书制作人Kim Song-hee表示：“AI只能在一定程度上表达情感。”这项技术或许适合非虚构作品的朗读，但AI-generated声音在小说改编中吸引力较弱。据Audien发行部门称，真人朗读的小说所获关注度据报约为AI版本的10倍。"
-              },
-              {
-                "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12955847.webp?imageId=12955847&x=0.00&y=5.21&cropw=100.00&croph=75.68&width=960&height=548&format=jpg",
-                "cap": "有声书制作公司Audien的制作人Kim Song-hee（左）和Chang Ji-eun"
+                "x": "原告方认为，OpenAI为训练模型而复制作品（包括来自盗版来源的作品）构成侵权，其输出内容也可能侵权；OpenAI则反驳称，为训练而复制属于合理使用。最后一轮意见书须于11月6日前提交，此后将安排在Sidney H. Stein法官面前进行口头辩论。"
               },
               {
                 "t": "p",
-                "x": "1月至10月，Audien与真人配音演员合作的团队制作了约230部作品，而去年才成立的AI团队制作了约380部。一部五到六小时的有声书，若请多名配音演员制作约需500万韩元（3,680美元），用AI则约100万韩元即可完成。"
-              },
-              {
-                "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12955846.webp?imageId=12955846&x=0.00&y=2.02&cropw=100.00&croph=57.13&width=960&height=750&format=jpg",
-                "cap": "配音演员在《全知读者视角》（2018-20）录音现场表演。"
+                "x": "整整一半的意见书（26份）支持原告；18份支持被告；八份持中立立场。支持原告的包括Association of American Publishers、Copyright Alliance、Ken Burns、WME、Congress议员以及PEN America。"
               },
               {
                 "t": "p",
-                "x": "Audien改编的Lee Young-do作品《饮血之鸟》（2005）耗时两年半，动用58名配音演员，音频长达143小时40分钟。Kim Song-hee说：“AI在扩大整个有声书市场方面肯定能发挥作用。”"
+                "x": "被告一方有Authors Alliance、Kevin Kelly、EFF、Edward Lee和Rebecca Tushnet，以及Public Knowledge，其中许多抨击了“市场稀释”（market dilution）理论。中立意见书来自Pamela Samuelson和Christopher Sprigman、Wikimedia Foundation以及Matthew Sag。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Audiolibros: la IA cubre huecos\ny la ficción sigue en voz humana",
-          "body": "Productoras coreanas de audiolibros usan voces de IA en títulos poco rentables y mantienen actores humanos en ficción.",
-          "mini_headline": "Los audiolibros mantienen la voz humana",
+          "headline": "Caso de copyright contra OpenAI\nsuma más de 50 escritos amicus",
+          "body": "Más de 50 escritos amicus en In re OpenAI trazan las líneas de fractura de un caso clave de copyright y AI.",
+          "mini_headline": "Más de 50 escritos en el caso OpenAI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12955845.webp?imageId=12955845&width=960&height=548&format=jpg",
-                "cap": "Grabación de la adaptación en audiolibro de «Omniscient Reader’s Viewpoint» (2018–20) en el estudio de Audien, en el oeste de Seúl, el 2 de noviembre."
+                "src": "https://publishingperspectives.com/wp-content/uploads/2026/11/Screen-Shot-2026-11-02-at-10.58.57-PM.png"
               },
               {
                 "t": "p",
-                "x": "Las productoras usan la IA sobre todo para cubrir huecos en el sector del audiolibro, como crear versiones en audio de libros que de otro modo se considerarían poco rentables."
+                "x": "In re OpenAI Copyright Infringement Litigation reúne más de una docena de grandes demandas sobre AI, entre ellas casos presentados por el Authors Guild y varias organizaciones de noticias, incluido el New York Times. El tribunal recibió 51 escritos amicus antes del plazo del 30 de octubre."
               },
               {
                 "t": "p",
-                "x": "«La IA solo puede expresar emociones hasta cierto punto», dijo Kim Song-hee, responsable de producción de audiolibros en Audien. La tecnología puede servir para narrar obras de no ficción, pero las voces AI-generated resultan menos convincentes en las adaptaciones de ficción. Según el departamento de distribución de Audien, la ficción narrada por personas atrae, al parecer, unas 10 veces más interés que su equivalente con IA."
-              },
-              {
-                "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12955847.webp?imageId=12955847&x=0.00&y=5.21&cropw=100.00&croph=75.68&width=960&height=548&format=jpg",
-                "cap": "Kim Song-hee, a la izquierda, y Chang Ji-eun, productores de la empresa de audiolibros Audien"
+                "x": "Los demandantes sostienen que OpenAI infringió derechos al copiar obras para entrenar sus modelos (incluso de fuentes piratas) y que sus resultados también pueden ser infractores; OpenAI replica que copiar para entrenar es uso legítimo (fair use). La última ronda de escritos vence el 6 de noviembre, tras lo cual se fijarán los alegatos orales ante el juez Sidney H. Stein."
               },
               {
                 "t": "p",
-                "x": "De enero a octubre, el equipo de Audien que trabaja con actores de voz humanos produjo unos 230 títulos, mientras que su equipo de IA, creado apenas el año pasado, produjo unos 380. Un audiolibro de cinco o seis horas que cuesta unos 5 millones de wones (3.680 dólares) con varios actores de voz puede hacerse por alrededor de 1 millón de wones con IA."
-              },
-              {
-                "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12955846.webp?imageId=12955846&x=0.00&y=2.02&cropw=100.00&croph=57.13&width=960&height=750&format=jpg",
-                "cap": "Actores de voz durante una sesión de grabación de «Omniscient Reader's Viewpoint» (2018-20)."
+                "x": "Exactamente la mitad de los escritos (26) apoya a los demandantes; 18 apoyan a los demandados; ocho son neutrales. Entre quienes respaldan a los demandantes figuran la Association of American Publishers, la Copyright Alliance, Ken Burns, WME, miembros del Congress (Congreso) y PEN America."
               },
               {
                 "t": "p",
-                "x": "La adaptación de Audien de «The Bird That Drinks Blood» (2005), de Lee Young-do, llevó dos años y medio, con 58 actores de voz y 143 horas y 40 minutos de audio. «La IA sin duda tiene un papel en el crecimiento del mercado del audiolibro en su conjunto», dijo Kim."
+                "x": "Del lado de la defensa están Authors Alliance, Kevin Kelly, EFF, Edward Lee y Rebecca Tushnet, y Public Knowledge, muchos de los cuales atacan la teoría de la “dilución del mercado” (market dilution). Los escritos neutrales proceden de Pamela Samuelson y Christopher Sprigman, la Wikimedia Foundation y Matthew Sag."
               }
             ]
           }

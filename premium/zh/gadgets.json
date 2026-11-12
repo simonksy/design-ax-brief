@@ -11082,6 +11082,154 @@
           "x": "在Pixel 11系列上，Call Screen迎来升级：Gemini会以更自然的对话方式询问陌生来电者的来意，屏幕上同步显示实时文字记录。HiLight现已支持Google Messages，手机屏幕朝下放置时，若常用联系人发来消息，它会亮起提示。Pixel Tag将于11月11日推出。"
         }
       ]
+    },
+    "gadgets/windows-photos-adobe-genai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Adobe-Max.jpg",
+          "cap": "Windows自带的照片编辑器即将获得一些Adobe-powered功能"
+        },
+        {
+          "t": "p",
+          "x": "Adobe与Microsoft正在扩大合作，为Windows 11带来新的AI-powered编辑功能，同时提升Creative Cloud在Arm-based PCs上的性能。两家公司在Adobe Max 2026上宣布了这项合作。"
+        },
+        {
+          "t": "p",
+          "x": "Adobe的生成式AI工具将进入Windows 11自带的Photos应用。用户可以把图像扩展到原始边界之外，旋转照片而不丢失画面内容，并移除不需要的物体，同时自动填补留下的空缺。这项集成还支持基于文字的编辑，用户可直接在Photos查看器中打开Adobe Express，把照片做成邀请函、社交媒体帖子等设计。"
+        },
+        {
+          "t": "p",
+          "x": "这些功能将从2026年12月起率先向Windows Insiders开放。两家公司均未公布更大范围的上线日期，也未说明部分AI功能是否需要付费订阅。"
+        },
+        {
+          "t": "p",
+          "x": "Adobe还针对Windows on Arm设备优化了Photoshop、Premiere、After Effects和Substance 3D Painter（beta），其中包括搭载Nvidia RTX Spark的Microsoft Surface Laptop Ultra。Photoshop的端侧生成式AI处理速度更快，但部分功能和第三方插件仍不兼容Windows on Arm。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/_processed_/8/b/csm_Adobe-X-Microsoft-Windows-11-features_86f7cbac0b.gif",
+          "cap": "Adobe X Microsoft Windows 11功能"
+        }
+      ]
+    },
+    "gadgets/msi-edgemesa-n-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-005US-AI-Supercomputer-Desktop-Cover.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "MSI的EdgeMesa N AI+把NVIDIA的RTX Spark N1X超级芯片装进一台小型台式机，并配备最高128GB统一内存。它在US推出的两种配置采用相同的处理器和图形硬件，购买时主要只需在内存和存储上做选择。"
+        },
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-005US-AI-Supercomputer-Desktop-5.png"
+        },
+        {
+          "t": "p",
+          "x": "RTX Spark N1X将6,144-core Blackwell RTX GPU与20-core NVIDIA Grace CPU结合，FP4 AI性能最高可达1 petaFLOP。MSI反复强调的工作负载是常驻运行的AI智能体。"
+        },
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-006US-AI-Supercomputer-Desktop-1.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "两个版本都采用256-bit接口的LPDDR5X-9600：X-006US配备64GB和1TB SSD，X-005US配备128GB和4TB。统一内存意味着CPU和GPU读取同一个内存池，因此模型权重和工作数据都留在一处。"
+        },
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-005US-AI-Supercomputer-Desktop-4-1.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "整机宽5.98英寸、深5.79英寸、高2.09英寸，采用均热板散热和240W电源适配器。它提供四个20Gbps USB Type-C接口、10G LAN和Wi-Fi 7，最多支持四台显示器。处理器为Arm架构，因此你的工具链必须支持它。X-006US售价$4,699。"
+        }
+      ]
+    },
+    "gadgets/anker-soundcore-typeless": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Anker-Soundcore-Work-Typeless.jpg",
+          "cap": "Typeless"
+        },
+        {
+          "t": "p",
+          "x": "AI-powered语音听写与文本处理应用Typeless宣布与Anker达成正式合作，将其AI语音听写应用带到可穿戴麦克风Soundcore Work上。Anker在CES 2026上推出了这款产品，它已经开售了相当长一段时间。最新的集成让用户可以借助这款可穿戴设备听写邮件、消息、AI提示词，甚至长篇文档。"
+        },
+        {
+          "t": "p",
+          "x": "Soundcore Work的卖点在于可以别在衣领上自然说话，即使轻声细语也行。Soundcore Work最初是作为AI-powered会议录音器推出的，通过Anker的配套应用提供转写和摘要。这款硬币大小的设备配有双麦克风，可以夹在衣服上或挂在脖子上。"
+        },
+        {
+          "t": "p",
+          "x": "用户不必先录下对话再翻看转写稿，而是可以把想写的内容直接口述到应用中。Typeless负责把口语转成通顺的文字，可穿戴设备则负责采集声音。"
+        },
+        {
+          "t": "p",
+          "x": "这项集成支持Windows、macOS、iOS和Android。现有Soundcore Work用户需要先通过Soundcore应用更新麦克风固件，再与Typeless配对。桌面用户还可以双击这款可穿戴设备来开始或停止听写。Anker称其续航最长八小时，配合充电盒可延长至32小时。Soundcore Work现已上市，售价$159。"
+        }
+      ]
+    },
+    "gadgets/homeview-siri-fix-update": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.macrumors.com/t/PcvtzDz-CC6xLnTkUzpoizZN5MQ=/2000x/article-new/2026/10/homeview-wall-mount.jpg"
+        },
+        {
+          "t": "p",
+          "x": "科技记者Joanna Stern今天在其New Things通讯的免费版中发布了HomeView评测。她说，尽管设备带有摄像头，Siri AI却曾对她说“我没有可以看到你的摄像头”。Apple向Stern证实，计划在12月发布软件更新修复这一问题。"
+        },
+        {
+          "t": "p",
+          "x": "尽管HomeView已经识别出Stern，Siri AI仍拒绝为她打开车库门或解锁前门。Apple告诉她，下个月推出的软件更新将启用这项功能。在此之前，用户可以在HomeView上打开Home应用，点按屏幕上的控件来解锁门锁和车库门。"
+        },
+        {
+          "t": "video",
+          "yt": "yVTcVtLn2o4"
+        },
+        {
+          "t": "p",
+          "x": "“如今，被HomeView识别的用户可以直接在HomeView屏幕上解锁门锁和车库门等安全配件，”Apple发言人对Stern表示，“下个月的软件更新将把这一功能扩展到Siri AI，让用户在被识别后有更多方式管理安全配件。”"
+        },
+        {
+          "t": "p",
+          "x": "HomeView将于本周五发售，美国（U.S.）起售价为$299。我们也发布了自己的上手评测视频，分享了我们的印象。"
+        }
+      ]
+    },
+    "gadgets/gemini-carplay-app": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/google-brings-the-gemini-app-to-apple-carplay/l-intro-1794426857.jpg",
+          "cap": "Google将Gemini应用带到Apple CarPlay"
+        },
+        {
+          "t": "p",
+          "x": "Google似乎决意让这款聊天机器人在尽可能多的屏幕、音箱和体验中无处不在，如今又把Gemini应用带到了Apple CarPlay。该应用即日起在所有Gemini Live支持的语言中可用。"
+        },
+        {
+          "t": "p",
+          "x": "此前，Google已通过Google Maps应用在CarPlay上提供这款AI助手。现在，只需轻点屏幕上的Gemini图标即可使用。Google表示，你可以在车内接着之前与Gemini的对话继续，也可以与聊天机器人开始新的对话。"
+        },
+        {
+          "t": "p",
+          "x": "该公司建议，驾驶者可以在通勤途中用Gemini准备会议、处理邮件、收听Daily Brief，或获取附近值得一去的地点推荐。对话会与Gemini iPhone应用同步，并保留在聊天记录中。"
+        },
+        {
+          "t": "p",
+          "x": "要在CarPlay上使用该助手，需要确保iPhone上的Gemini应用为最新版本，并已开启麦克风权限。此外，还需要至少在iPhone上使用过一次Gemini Live。"
+        },
+        {
+          "t": "p",
+          "x": "不久前，Google刚在Android Auto的聊天机器人中启用Personal Assistance（可调取其他Google应用中的信息，给出更个性化的回答），随后便将Gemini应用带到了CarPlay。该公司还将在搭载Google built-in的汽车上为Gemini引入Personal Intelligence。"
+        }
+      ]
     }
   }
 }

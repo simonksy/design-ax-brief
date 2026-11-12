@@ -11891,6 +11891,153 @@
           "x": "企業向けには、CX Enterprise CoworkerがGenStudioに搭載される。AdobeはAnthropicやOpenAIとのコネクタを土台に、GoogleやMicrosoftとの提携も深めた。"
         }
       ]
+    },
+    "design/google-flow-artist-tools": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Nov_Cohort_Hero_4.width-1300.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Googleは、AI制作スタジオのGoogle Flowに新しいツールを五つ公開する。いずれもクリエイターが手がけたもので、構想から最終編集まで物語づくりを支える。"
+        },
+        {
+          "t": "p",
+          "x": "1. アーティストで映像作家のJames GerdeによるCharacter Posterは、シンプルなストーリーのコンセプトを洗練された美しいビジュアルに仕上げ、ソーシャル上のストーリー全体で独自のスタイルを保てるようにする。"
+        },
+        {
+          "t": "video",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/01_Charater_Poster_-_10.6.26_-_1.mp4"
+        },
+        {
+          "t": "p",
+          "x": "2. 映像作家Anurag TiwariによるCharacter Arcは、同じキャラクターの核となる外見を保ったまま、さまざまな年齢や人生の段階を視覚化できる。彼はドキュメンタリー「Children of the Sun」でこれを使っている。"
+        },
+        {
+          "t": "p",
+          "x": "3. 同じくAnurag TiwariによるPixel Machineは、画像をビットマップ、ASCII、CRT、ピクセルアート、グリッチのスタイルに変換し、タイトル、トランジション、ミュージックビデオの映像に使えるようにする。"
+        },
+        {
+          "t": "p",
+          "x": "4. アーティストでクリエイティブディレクターのEzra PaulekasによるLucid Glassは、光がガラスを通り抜ける様子を再現し、プリズムやハロー、屈折、光のブルームを生み出す。いわば「不可能なレンズ」だ。"
+        },
+        {
+          "t": "p",
+          "x": "5. 映像作家Ryan McCoyによるPocket Studioは、日常的なスマートフォン映像をより洗練されたショットに変える。単一のテイクから複数のカメラアングルを生成して画質を高めつつ、俳優の元の演技はそのまま保つ。"
+        }
+      ]
+    },
+    "design/kt-kds2-design-system": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.inthenews.co.kr/data/photos/20261146/art_17944633067103_566c36.jpg",
+          "cap": "KT社員が「KDS 2.0」とAIベースの「メッセージ生成エージェント」を活用する様子。写真｜KT"
+        },
+        {
+          "t": "p",
+          "x": "KT（代表取締役パク・ユンヨン）は、AI活用機能を強化したUXデザインシステム「KDS（KT UX Design System）2.0」を構築し、顧客向け案内メッセージの作成と検収を支援するAIエージェントを導入したと12日明らかにした。"
+        },
+        {
+          "t": "p",
+          "x": "2.0では、人が参照していたデザインガイドをAIも直接読み取って活用できるようにした。AIがデザイン基準に沿って画面を構成し、成果物を点検できる「KDSハーネス（Harness）」を構築し、繰り返しのデザイン作業と修正の負担を減らした。"
+        },
+        {
+          "t": "p",
+          "x": "KTはKDSをマイKT・KTドットコム・ダイレクトショップなどに適用し、AIモデルプラットフォーム「トークンファクトリー」などにも活用して、企画・デザイン・開発を並行して進め、繰り返しのコーディングと文書化作業を自動化した。計424件の機能要件と25のコンポーネント、約110万行のコードを処理する過程で、従来の方法なら約8か月かかる作業を2か月40日で終え、開発期間を5か月以上短縮した。"
+        },
+        {
+          "t": "p",
+          "x": "KTはUXライティングガイドを見直し、「先納」を「事前納付」に、「従量課金」を「使った分だけ料金請求」に改め、10月30日に社内でAIベースの「メッセージ生成エージェント」を公開した。メッセージの作成・検収時間は従来の30〜60分から約5分に、画像制作は4時間から15分に短縮され、二日以上かかっていた翻訳作業は30秒になった。今月20日には「顧客言語エージェント」も披露する予定だ。"
+        },
+        {
+          "t": "p",
+          "x": "ウォン・マンホKT AXプラットフォーム本部長（常務）は「KDS 2.0でデザインの一貫性を高め、顧客コミュニケーション業務もAXに転換し、業務生産性と顧客体験をともに改善している」と述べた。"
+        }
+      ]
+    },
+    "design/rhino9-mcneel-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/11/RhinoAI.jpg"
+        },
+        {
+          "t": "p",
+          "x": "McNeelがRhino 9（10月28日リリース）を静かに展開するなか、Campbell YuleがRhino World 2026から、同社が事業モデルを維持しつつAIを取り入れる様子を伝える。価格とアップグレード費用は据え置きで、Rhino 9のライセンスでRhino 6、7、8も動かせる。創業者でCEOのBob McNeelは「何も変わっていないが、すべてが変わった」と語った。"
+        },
+        {
+          "t": "p",
+          "x": "McNeelは社内でAIを開発・テストのツールとして使っている。Claude Opusの登場後、Steve Baerは生産性が20%上がると見込んでいたが、実際には三倍近くになった。彼とAndy Le Bihanがマージしたプルリクエストは、営業日あたり3.3件から9.5件に増えた。変更は今もマージ前にレビューされる。"
+        },
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/11/RhinoAI-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Callum SykesがClaude Codeで作ったRhinoAIは、MCPサーバーを介してAIエージェントをRhinoにつなぐオープンソースのプラグインだ。Rhino内ではパネルがClaudeやCodexなどのエージェントを見つけ、外部では自前のモデルとエージェントを持ち込める。"
+        },
+        {
+          "t": "p",
+          "x": "テストでは、エージェントが三面図から柑橘用ジューサーを作り、パラメトリックなGrasshopper 2 モデルに変換した。建築分野のテストはばらつきが大きく、スタジアムのモデルはエージェントが画像を追加で受け取るまで失敗した。Rhino.ComputeはLinuxでも動くようになった。"
+        }
+      ]
+    },
+    "design/smashing-ai-feature-audit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://files.smashing.media/articles/should-you-add-au-audit-product-teams/should-you-add-ai-audit-product-teams.jpg"
+        },
+        {
+          "t": "p",
+          "x": "AI機能はユーザーの作業時間を節約しても、その時間が結果の確認に費やされてしまうことがある。Victor Yoccoは、AIがどこで役に立つのか、そしてユーザーが出力を検証するには何が必要かをプロダクトチームが判断するための実践的な点検法を示す。"
+        },
+        {
+          "t": "p",
+          "x": "AI機能が役に立つのは、それがもたらす価値が、ユーザーが調整にかけるコストを上回るとき、つまり損益分岐線を超えるときだ。価値は、省かれた手間、人が見逃していたはずの誤りの検出、同じ仕事をする人々の間での一貫性として現れる。"
+        },
+        {
+          "t": "img",
+          "src": "https://files.smashing.media/articles/should-you-add-au-audit-product-teams/ai-adoption-adjustment-effort.jpg",
+          "cap": "図 1：AI追加による正味の価値。"
+        },
+        {
+          "t": "p",
+          "x": "四つの問いは次のとおりだ。このユーザーにとって作業全体の手間は減るか。ユーザーの今のやり方より優れているか。ユーザーは誤りに気づけるか。一年使った後も、ユーザーはAIが間違っているときにそれを見抜けるか。それぞれの問いから、出典の表示や検証を促すプロンプトといった設計条件、あるいは検証スキルを使い続けるための仕組みが導かれる。"
+        },
+        {
+          "t": "p",
+          "x": "この点検は、次のAI機能がロードマップに載る前に、実際にその仕事をする人と一緒に60分で実施できる。"
+        }
+      ]
+    },
+    "design/seedream55-stable-edit": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Bytedance Seedは、プロの制作ワークフロー向けの新しい画像生成モデル「Seedream 5.5」を発表した。Bytedanceによると、改良点の一つは最大100ラウンドにわたる安定したマルチラウンド編集で、変更しない画像領域はピクセル単位で保持され、色ずれも起きない。最近は新しいFluxモデルもこの分野で注目を集めた。"
+        },
+        {
+          "t": "video",
+          "src": "https://the-decoder.de/wp-content/uploads/2026/11/seedream55.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Seedream 5.5は透過背景のネイティブRGBA画像も生成でき、生成した要素を手作業の切り抜きなしでそのままデザイン素材として使える。Bytedanceによれば、光や素材、肌の質感をよりリアルに描き、密集した小さな文字もより正確に再現するという。"
+        },
+        {
+          "t": "img",
+          "src": "https://the-decoder.com/wp-content/uploads/2026/11/seedance_examples_font.png",
+          "cap": "非常に正確で密度の高い小さな文字。| 画像: Bytedance"
+        },
+        {
+          "t": "p",
+          "x": "Bytedanceは、Seedream 5.5がテキスト構造とリアリズムでGPT Image 2.5 Sunburstなどのモデルを上回ると主張する。モデルはJimeng、Doubao、Doubao Work、Volcengine Arkで順次提供されている。Pro版も予定されている。"
+        }
+      ]
     }
   }
 }

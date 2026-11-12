@@ -1,101 +1,158 @@
 {
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "section": "movies",
   "items": [
     {
-      "rank": 1,
-      "title": "Introducing SwitchX 3.0",
+      "title": "Adobe Firefly adds Build a story and Assemble short video",
+      "url": "https://www.redsharknews.com/adobe-firefly-build-story-assemble-short-video",
+      "source": "RedShark News",
+      "category": "movies",
       "tool": "Movies",
       "accent": "#0070f3",
       "motif": "frame",
-      "url": "https://beeble.ai/research/switchx-3-0",
-      "source": "Beeble",
-      "published_iso": "2026-11-10T00:00:00+00:00",
-      "og_image": "https://desktop.beeble.ai/public/landing/cms/images/og/switchx-3-0/ogImage-v2.webp",
-      "excerpt": "Beeble's production video-to-video compositing model SwitchX 3.0 adds up to four references, moving/dynamic backgrounds, tighter camera tracking and prompt control, rebuilt on MiniMax H3 with Beeble's own dataset.",
-      "rationale": "Most actionable item in the pool: a new version of a production compositing/relighting model VFX artists can use now (primary vendor source)."
+      "rationale": "Two new beta Firefly workspaces take an idea through planned scenes and shots to a finished clip — a shipped tool filmmakers can try today; the section's single Adobe MAX card.",
+      "published_iso": "2026-11-11T15:32:49.000Z",
+      "og_image": "https://www.redsharknews.com/hubfs/adobe%20firefly%20video%20editor.jpg",
+      "excerpt": "Adobe Firefly adds two beta workspaces, Build a story and Assemble short video, that take an idea through planned scenes and shots to a finished clip."
     },
     {
-      "rank": 2,
-      "title": "Argentina's 'Listen to MEH' Wins $500K Higgsfield AI Film Prize",
+      "title": "Industry Trio Launch Distinkt, AI-Powered Agency for Global Talent (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/news/distinkt-talent-agency-ai-actors-clients-1236946168/",
+      "source": "Variety",
+      "category": "movies",
       "tool": "Movies",
       "accent": "#f5a623",
       "motif": "frame",
-      "url": "https://www.awn.com/news/argentinas-listen-meh-wins-500k-higgsfield-ai-film-prize",
-      "source": "Animation World Network",
-      "published_iso": "2026-11-10T15:11:45-08:00",
-      "og_image": "https://www.awn.com/sites/default/files/styles/og_1200/public/image/attached/1081778-listen-meh-purga-studio-1280.jpg?itok=rLWTXtKQ",
-      "excerpt": "The first fiction short from Argentine AI production company PURGA Studio took Higgsfield's $500K top prize, awarded by a jury including Ed Catmull, Phedon Papamichael, Paul W.S. Anderson and Alex Proyas.",
-      "rationale": "Concrete new result (prize winner) with a heavyweight industry jury; shows the bar AI shorts are being judged against."
+      "rationale": "New AI-powered talent agency aimed at unrepresented performers worldwide — a fresh launch reshaping how actors get representation.",
+      "published_iso": "2026-11-12T17:20:00+00:00",
+      "og_image": "https://variety.com/wp-content/uploads/2026/11/Unknown_a9cd6c.jpeg?w=1000&h=563&crop=1",
+      "excerpt": "A group of entertainment veterans have launched Distinkt in Los Angeles, a talent agency powered by AI and aimed at the mass population of unrepresented performers worldwide."
     },
     {
-      "rank": 3,
-      "title": "라이언이 AI 애니로…카카오·오픈AI '그래도, 라이언' 공개",
+      "title": "Around 10-15 Percent of SAG-AFTRA Membership Wants AI Blocked, CEO Tells Web Summit",
+      "url": "https://www.hollywoodreporter.com/business/business-news/sag-aftra-duncan-crabtree-ireland-web-summit-ai-dan-neely-1236753936/",
+      "source": "The Hollywood Reporter",
+      "category": "movies",
       "tool": "Movies",
       "accent": "#7928ca",
       "motif": "frame",
-      "url": "https://www.yna.co.kr/view/AKR20261110046400017",
-      "source": "연합뉴스",
-      "published_iso": "2026-11-10T09:48:05+09:00",
-      "og_image": "https://img6.yna.co.kr/etc/inner/KR/2026/11/10/AKR20261110046400017_01_i_P4.jpg",
-      "excerpt": "카카오가 오픈AI와 기술 협업으로 라이언의 첫 AI 단편 애니메이션 '그래도, 라이언'(약 5분)을 공개했다. 기획·연출 등 사람의 창작 과정에 생성형 AI를 접목했고, 감정선과 맞지 않는 결과물은 반복 재작업했다.",
-      "rationale": "New release: a major Korean IP's first AI short animation made with OpenAI, with a described human-in-the-loop workflow."
+      "rationale": "SAG-AFTRA's executive director puts a number on the anti-AI faction (10-15%) and restates the consent-and-compensation route for digital replicas — new data from the union, not a rehash of the amicus brief.",
+      "published_iso": "2026-11-12T16:52:42+00:00",
+      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/FotoJet-2026-11-12T165017.613.jpg?w=1440&h=810&crop=1",
+      "excerpt": "SAG-AFTRA national executive director Duncan Crabtree-Ireland told Web Summit in Lisbon that roughly 10-15% of members want the union to block AI outright and are angry it hasn't, as the guild pursues consent-and-compensation rules for digital replicas instead."
     },
     {
-      "rank": 4,
-      "title": "NFTS, Falmouth University awarded £650,000 from BFI to support industry use of AI, virtual production",
+      "title": "Saranagati Teaser: Hombale Films Backs AI-Driven Film On ISKCON Founder's Life",
+      "url": "https://www.outlookindia.com/art-entertainment/saranagati-teaser-hombale-films-backs-ai-driven-film-on-iskcon-founders-life",
+      "source": "Outlook India",
+      "category": "movies",
       "tool": "Movies",
       "accent": "#2ec5c5",
       "motif": "frame",
-      "url": "https://www.screendaily.com/news/nfts-falmouth-university-awarded-650000-from-bfi-to-support-industry-use-of-ai-virtual-production/5222296.article",
-      "source": "Screen Daily",
-      "published_iso": "2026-11-11T14:57:00+00:00",
-      "og_image": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/0/3/3/1492033_pexelstarawinstead8386440_411690.jpg",
-      "excerpt": "The BFI Innovation Challenge Fund puts £650K into two programmes, including Falmouth's 'Lab to slate' giving eight UK indie creatives training, tools, legal guidance and ethics frameworks for applying AI in real screen projects.",
-      "rationale": "Freshest item; a public-funder program that gives indie filmmakers training, tools and legal/ethics guidance for AI on real projects."
+      "rationale": "A major Indian producer ('Kantara') releases the teaser for a hybrid AI feature that uses AI motion capture for its characters, with a worldwide release set for August 2027. The outlet is off-list, but this is a distinct new production.",
+      "published_iso": "2026-11-10T19:50:54+05:30",
+      "og_image": "https://cf-images.assettype.com/outlookindia/2026-11-10/ruz1wzp6/Screenshot-2026-11-10-at-19.44.12.png?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "excerpt": "'Kantara' producer Hombale Films unveiled the teaser for Saranagati, a hybrid AI feature using AI motion capture to turn performers into digital characters, set for worldwide release in August 2027."
     },
     {
-      "rank": 5,
-      "title": "AI Takes Center Stage at Tech-Forward AFM With Innovation Hub and AFM House Expansion",
+      "title": "KBS 3년만의 대하사극 '문무'…AI 전투신 '고거전' 뛰어넘을까",
+      "url": "https://sports.khan.co.kr/article/202611122200006",
+      "source": "스포츠경향",
+      "category": "movies",
       "tool": "Movies",
       "accent": "#eb367f",
       "motif": "frame",
-      "url": "https://variety.com/2026/digital/news/ai-tech-forward-afm-innovation-hub-afm-house-expansion-1236941553/",
+      "rationale": "KBS's 30bn-won flagship historical epic 'Munmu' (premieres Nov. 14) built all three major battle sequences with generative AI video, swapping in newer models during the 18-month shoot. It is a concrete, broadcast-scale production use from a public broadcaster.",
+      "published_iso": "2026-11-12T22:00:00+09:00",
+      "og_image": "https://images.khan.co.kr/article/2026/11/12/l_2026111302000044400039133.jpg",
+      "excerpt": "KBS's 30bn-won historical epic 'Munmu' (premieres Nov. 14) built its three big battles — Jupilsan, Maesoseong, Gibeolpo — with generative AI video; CP Lee Ho says AI tools improved so fast over the 18-month production that they kept swapping in newer models, using AI even more for the tidal-flat Gibeolpo battle."
+    }
+  ],
+  "picks": [
+    {
+      "url": "https://www.redsharknews.com/adobe-firefly-build-story-assemble-short-video",
+      "source": "RedShark News",
+      "tool": "Movies",
+      "accent": "#0070f3",
+      "motif": "frame",
+      "rationale": "Two new beta Firefly workspaces take an idea through planned scenes and shots to a finished clip — a shipped tool filmmakers can try today; the section's single Adobe MAX card.",
+      "published_iso": "2026-11-11T15:32:49.000Z",
+      "og_image": "https://www.redsharknews.com/hubfs/adobe%20firefly%20video%20editor.jpg",
+      "excerpt": "Adobe Firefly adds two beta workspaces, Build a story and Assemble short video, that take an idea through planned scenes and shots to a finished clip."
+    },
+    {
+      "url": "https://variety.com/2026/film/news/distinkt-talent-agency-ai-actors-clients-1236946168/",
       "source": "Variety",
-      "published_iso": "2026-11-10T16:23:00+00:00",
-      "og_image": "https://variety.com/wp-content/uploads/2026/08/AFM-HOUSE.jpg?w=1000&h=563&crop=1",
-      "excerpt": "The American Film Market puts AI at the center of this year's edition, with an expanded AFM House and Innovation Hub programming built around AI production tools.",
-      "rationale": "New announcement from the key sales market: AFM builds dedicated AI production-tool programming, signalling where buyers and sellers are heading."
+      "tool": "Movies",
+      "accent": "#f5a623",
+      "motif": "frame",
+      "rationale": "New AI-powered talent agency aimed at unrepresented performers worldwide — a fresh launch reshaping how actors get representation.",
+      "published_iso": "2026-11-12T17:20:00+00:00",
+      "og_image": "https://variety.com/wp-content/uploads/2026/11/Unknown_a9cd6c.jpeg?w=1000&h=563&crop=1",
+      "excerpt": "A group of entertainment veterans have launched Distinkt in Los Angeles, a talent agency powered by AI and aimed at the mass population of unrepresented performers worldwide."
+    },
+    {
+      "url": "https://www.hollywoodreporter.com/business/business-news/sag-aftra-duncan-crabtree-ireland-web-summit-ai-dan-neely-1236753936/",
+      "source": "The Hollywood Reporter",
+      "tool": "Movies",
+      "accent": "#7928ca",
+      "motif": "frame",
+      "rationale": "SAG-AFTRA's executive director puts a number on the anti-AI faction (10-15%) and restates the consent-and-compensation route for digital replicas — new data from the union, not a rehash of the amicus brief.",
+      "published_iso": "2026-11-12T16:52:42+00:00",
+      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/FotoJet-2026-11-12T165017.613.jpg?w=1440&h=810&crop=1",
+      "excerpt": "SAG-AFTRA national executive director Duncan Crabtree-Ireland told Web Summit in Lisbon that roughly 10-15% of members want the union to block AI outright and are angry it hasn't, as the guild pursues consent-and-compensation rules for digital replicas instead."
+    },
+    {
+      "url": "https://www.outlookindia.com/art-entertainment/saranagati-teaser-hombale-films-backs-ai-driven-film-on-iskcon-founders-life",
+      "source": "Outlook India",
+      "tool": "Movies",
+      "accent": "#2ec5c5",
+      "motif": "frame",
+      "rationale": "A major Indian producer ('Kantara') releases the teaser for a hybrid AI feature that uses AI motion capture for its characters, with a worldwide release set for August 2027. The outlet is off-list, but this is a distinct new production.",
+      "published_iso": "2026-11-10T19:50:54+05:30",
+      "og_image": "https://cf-images.assettype.com/outlookindia/2026-11-10/ruz1wzp6/Screenshot-2026-11-10-at-19.44.12.png?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "excerpt": "'Kantara' producer Hombale Films unveiled the teaser for Saranagati, a hybrid AI feature using AI motion capture to turn performers into digital characters, set for worldwide release in August 2027."
+    },
+    {
+      "url": "https://sports.khan.co.kr/article/202611122200006",
+      "source": "스포츠경향",
+      "tool": "Movies",
+      "accent": "#eb367f",
+      "motif": "frame",
+      "rationale": "KBS's 30bn-won flagship historical epic 'Munmu' (premieres Nov. 14) built all three major battle sequences with generative AI video, swapping in newer models during the 18-month shoot. It is a concrete, broadcast-scale production use from a public broadcaster.",
+      "published_iso": "2026-11-12T22:00:00+09:00",
+      "og_image": "https://images.khan.co.kr/article/2026/11/12/l_2026111302000044400039133.jpg",
+      "excerpt": "KBS's 30bn-won historical epic 'Munmu' (premieres Nov. 14) built its three big battles — Jupilsan, Maesoseong, Gibeolpo — with generative AI video; CP Lee Ho says AI tools improved so fast over the 18-month production that they kept swapping in newer models, using AI even more for the tidal-flat Gibeolpo battle."
     }
   ],
   "dedup": {
     "checks": {
-      "https://beeble.ai/research/switchx-3-0": {
+      "https://www.redsharknews.com/adobe-firefly-build-story-assemble-short-video": {
+        "verdict": "new",
+        "nearest": "https://www.redsharknews.com/adobe-max-2026-premiere-color-mode-mcp",
+        "new_action": ""
+      },
+      "https://variety.com/2026/film/news/distinkt-talent-agency-ai-actors-clients-1236946168/": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
       },
-      "https://www.awn.com/news/argentinas-listen-meh-wins-500k-higgsfield-ai-film-prize": {
+      "https://www.hollywoodreporter.com/business/business-news/sag-aftra-duncan-crabtree-ireland-web-summit-ai-dan-neely-1236753936/": {
         "verdict": "new",
-        "nearest": "https://www.youtube.com/watch?v=Q6xJOpTylco",
+        "nearest": "https://deadline.com/2026/10/sag-aftra-wga-afm-openai-copyright-court-battle-brief-1237209138/",
         "new_action": ""
       },
-      "https://www.yna.co.kr/view/AKR20261110046400017": {
+      "https://www.outlookindia.com/art-entertainment/saranagati-teaser-hombale-films-backs-ai-driven-film-on-iskcon-founders-life": {
         "verdict": "new",
-        "nearest": "",
+        "nearest": "https://www.newindianexpress.com/kerala/2026/Nov/04/prompt-action-cut-here-comes-keralams-first-full-length-ai-feature-film",
         "new_action": ""
       },
-      "https://www.screendaily.com/news/nfts-falmouth-university-awarded-650000-from-bfi-to-support-industry-use-of-ai-virtual-production/5222296.article": {
+      "https://sports.khan.co.kr/article/202611122200006": {
         "verdict": "new",
-        "nearest": "https://www.vanguardngr.com/2026/11/idris-elba-google-launch-free-ai-filmmaking-programme-in-five-african-countries/",
-        "new_action": ""
-      },
-      "https://variety.com/2026/digital/news/ai-tech-forward-afm-innovation-hub-afm-house-expansion-1236941553/": {
-        "verdict": "new",
-        "nearest": "https://deadline.com/2026/10/gossip-goblin-gods-dont-give-gifts-heads-to-afm-sales-1237170580/",
+        "nearest": "https://www.news1.kr/entertain/broadcast-tv/6337749",
         "new_action": ""
       }
     },
-    "note": "Dropped as same story as published history: IndieWire Camerimage (= THR Camerimage opening 11-09); 최휘영 장관 '임권택 없이' 영화전 (= yna 11-04 AI 임권택 스타일 영화전); Grimes cameo in 'Gods Don't Give Gifts' (= Deadline 10-26; cameo is extra reporting, not a new release); Weta FX CEO 'Hollywood flipped' (commentary at the same TCCF appearance as the 11-05 Weta FX/TAICCA card). Excluded by cross-section assignment: ArtStation AI declarations (design only). Not selected on score/diversity: Cortes director change to Alex Proyas (valid follow-up of Variety 10-13 Cortes, ranked below cap), Ellison earnings-call remarks and Kane Parsons anti-AI interview (executive/creator commentary), CAA on NYT v OpenAI (running training-data litigation story, cf. 11-02 SAG-AFTRA/WGA/AFM brief), Flawless IP sale (business/administration, 10-30, older), Runway 'inside view' video (Runway real-time video theme carded 11-10). Cross-section check: published_urls.json is too large for a full read without grep; partial scan found no hits and orchestrator assignments name none of the five picks — roll.py URL gate should still confirm."
+    "note": "Dropped as cross-section duplicates: CAA/Ogilvy ECHO (AWN), the same story as marketing 2026-11-10 digiday ogilvy-and-caa-launch-partnership; iZotope Photon (postPerspective), the same release as music 2026-11-05 musictech izotope-photon. Kept one Adobe card per the curator brief: Firefly Build a story / Assemble short video, a shipped feature distinct from the Premiere Color Mode/MCP card on 11-11. Dropped the other Adobe MAX items as same-cluster/cap: Variety Project Live Set, RedShark 'all 10 Sneaks', and The Verge Sneaks roundup. Dropped Deadline Open Cities because AI is incidental (only in the partner roster). Pre-dropped by story_dedup: iQIYI AI film studio (same as 11-03 chinadaily). ADD pass (recovery pool, max 1): added KBS 'Munmu' AI battle scenes (스포츠경향). Its nearest story is the 11-02 news1 roundup on Korean broadcasters using AI ('3분 액션신에 2억 절감'), an industry-wide feature. Munmu is a specific flagship production with its own premiere (Nov. 14), so it counts as new. Rejected: China Daily NRTA AI-drama labels, a probable continuation of the 11-09 yna short-drama crackdown with no clear separate formal rule text; Pandaily Seedance 2.5 Flash, a speed and price variant of the 10-29 Seedance 2.5 and mostly pricing news; Zhao Liying v. Hongguo, a real new lawsuit but a celebrity case with fewer production details; Kaneko/Smoothie (cyzo), Blue Eye Samurai Netflix no-AI (IGN India), Vertigo Garden (Variety, which would also be a 2nd Variety card), Dexter Gyerim exhibition (media-art rather than film), the LA Times screenwriting-education feature (an analysis piece), and tvN Signal 2 (AI only tested and abandoned, inside a scandal story) all ranked lower."
   }
 }

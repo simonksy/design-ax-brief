@@ -10861,6 +10861,151 @@
           "x": "Previewは約一週間でまとめられ、QA期間は通常より短かった。Epicによれば、今も「エージェントが書いたコードの一部を整理している」段階だ。PythonスクリプティングとAI-assistedワークフローが大きく改善され、Unreal MCP、Unreal Assistant、そしてEpicのAI-poweredコンテンツ制作ツールであるUnreal Canvasが含まれる。さらにLumen World Cache、Naniteカリングの改善、WebAssemblyとWebGPUによるターゲットプラットフォームWebの復活も加わった。"
         }
       ]
+    },
+    "games/tencent-ai-gaming-companions": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/b9/images/6af5c6c9f3f7f/widen_1840x0.jpg"
+        },
+        {
+          "t": "p",
+          "x": "正直なところ、このニュースのタイミングはかなり滑稽だが、コンセプト自体は目新しいものではない。中国のテック大手Tencentより先に、RazerがすでにAVAを発表している。AVAでは、仕事でもゲームでも日常の一部になるよう設計された、小さなホログラムのAIコンパニオン数体から好きなものを選べる。"
+        },
+        {
+          "t": "p",
+          "x": "Tencentの新しいデスクトップアプリEciyuanはゲーマー向けで、プレイを見守って取れる行動を提案する4人のAIコンパニオンを備え、好きなときに会話もできる。4人の少女はそれぞれ独自の性格、経歴、趣味、ボイスサンプルを持つ。たとえばShen Lubaiは、Valorant、League of Legends、Counter-Strikeなどを好む24歳のeスポーツ実況者志望だ。Xia Xiaはジャーナリズム・コミュニケーション専攻の学生、Guiyuは料理人らしく、Bellaはサーフィンに夢中だ。"
+        },
+        {
+          "t": "p",
+          "x": "Eciyuanのコンパニオンとはモバイルでも会話を続けられ、小さなキャラクターとしてデスクトップに置いたり、衣装に合わせた壁紙を設定したりもできるようだ。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/75/images/6af5c4663e8b4/widen_1840x0.jpg"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/11/images/6af5c46aeedbb/widen_1840x0.jpg"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/12/images/6af5c4724c758/widen_1840x0.jpg"
+        },
+        {
+          "t": "p",
+          "x": "EciyuanとそのAIコンパニオンに関する情報はまだごく少なく、グローバル展開についての発表もまだない。実際の試合で彼女たちが本当に役立つ助言をくれるかは、今後を見守る必要がある。現時点でベータ版は中国でのみ提供されている。"
+        }
+      ]
+    },
+    "games/apex-neural-rendering-framegen": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-30.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Apex Computeが、クロスプラットフォームのニューラルレンダリングスイートApex Neural Rendering（ANR）を発表した。NVIDIAの技術と比べ、フレーム生成が最大2.4X高速で、画質も優れ、GPUメモリ消費も大幅に少ないという。ANRはFrame Generation（FG）、Super Resolution（SR）、Ray Reconstruction（RR）で構成され、現在はFrame Generationがベータ版として提供されている。"
+        },
+        {
+          "t": "p",
+          "x": "対応環境はNVIDIA GeForce GTX 16およびRTX 20/30/40/50 Series、AMD Radeon RX 5000/6000/7000/9000 SeriesとSteam Deck、Intel Arc A-SeriesとB-Seriesで、Windows 10/11、Linux、SteamOSに対応し、macOS 26向けのMetalテストキットもある。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/ANR-Bench-Numbers.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Apex Computeの社内ベンチマークによると、3840×2160のGeForce RTX 5090で、ANR FGは2Xモードで生成フレーム1枚あたり1.01ミリ秒を要し、NVIDIA DLSS Frame Generationは1.26 msだった。GPUメモリ使用量は4K 解像度で214 MBと、NVIDIAの562 MBより約62%少ない。ただし公開されたRTX 5090の測定値では、処理時間の改善は宣伝された2.4Xほど大きくないとみられ、これらは実際のゲームのFPSではなくフレーム生成のコストに関する数値である。"
+        },
+        {
+          "t": "video",
+          "yt": "xhzNx3seocQ"
+        },
+        {
+          "t": "p",
+          "x": "Apexの社内画質測定ではANRがNVIDIA DLSS FGを上回ったが、独立した検証はまだ必要だ。ベータ版はGitHubからOptiScaler経由でインストールする。フレーム生成の実装はまだオープンソースではなく、互換性の問題や視覚的なアーティファクトも想定しておく必要がある。"
+        }
+      ]
+    },
+    "games/ludo-toolbox-coding-agents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://mobidictum.com/wp-content/uploads/2026/03/ludo_ai_logo.png"
+        },
+        {
+          "t": "p",
+          "x": "Ludo.aiはLudo Toolboxを発表した。Claude Code、Codex、Cursor、GitHub Copilot、Gemini CLIなどのコーディングエージェントが、ゲームにスプライト、画像、サウンド、3Dモデルを追加するのに必要な寸法とエンジン用ファイルを提供する、32種の無料コマンドラインツールだ。オープンソース（MIT）のLudo CLIに同梱され、完全にオフラインで動作し、アカウント、APIキー、クレジットは不要である。"
+        },
+        {
+          "t": "p",
+          "x": "このツールボックスは、アンカーポイントやコライダー、pixels-per-meterに関するエージェントの推測を正確な数値に置き換え、JSONを返してエンジン独自のファイルを書き出す。Unityで足元にピボットを置いた身長1.8メートルの騎士を設定するよう指示すると、エージェントは3つのツールを連続して使い、Godot、Phaser、Box2Dでも同じ数値が得られる。"
+        },
+        {
+          "t": "p",
+          "x": "Ludo.aiのCo-Founder兼CTOであるJorge Gomesは「コーディングエージェントはゲームのコードは非常に得意だが、アートはいまだに目分量で扱っている。ツールボックスは代わりに数値を渡す」と述べた。"
+        },
+        {
+          "t": "video",
+          "yt": "4LIIbfU19pc"
+        },
+        {
+          "t": "p",
+          "x": "ツールボックスは、Ludoで作ったかどうかに関係なく、あらゆるアセットに使える。Ludo CLI 0.2.0以降ですでに利用でき、Node.js 20以降が必要だ。"
+        }
+      ]
+    },
+    "games/gamesbeat-next-ai-native-games": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/11/AI-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "ゲームにおけるAIの最大の機会は、AIなしでは不可能だったまったく新しい種類のゲームを生み出すことかもしれない。これが、Jamil Moledinaが司会を務め、Brian Tanner（Artificial Agency）、Piero Molino（Studio Atelico）、Jon Snoddy（Operative Games）が登壇したGamesBeat Next 2026のパネルの中心テーマだった。"
+        },
+        {
+          "t": "p",
+          "x": "Molinoは、初期の生成エージェントの実験は「AIを大量に必要とするが、本当のゲームではない」と指摘した。「手応えも挑戦もない」からだという。Operative Gamesでは会話が中核のメカニクスだ。「ゲームのメカニクスはストーリーだ。ゲームのメカニクスは会話だ」とSnoddyは語った。"
+        },
+        {
+          "t": "p",
+          "x": "パネルではランタイムの経済性も話題となった。Tannerは品質、速度、コストのバランスについて説明し、Molinoは「私がゲームデザイナーで、ゲーム内で呼び出しを行うたびに一定のコストがかかると分かっていれば、それが私にできるデザインに影響する」と述べた。"
+        },
+        {
+          "t": "p",
+          "x": "登壇者たちは、自律的なキャラクターが動かすシステミックなサンドボックス型ゲームに可能性を見いだし、AI-native開発は技術的な課題であると同時にデザインの課題でもあると述べた。"
+        }
+      ]
+    },
+    "games/witcher3-geralt-polish-ai-voice": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/11/geralt.jpg",
+          "cap": "CD Projekt Red"
+        },
+        {
+          "t": "p",
+          "x": "声優Jacek Rozenekは『The Witcher 3』ポーランド語版でリヴィアのゲラルト(Geralt of Rivia)を演じているが、2019年に脳卒中を患い、話すことが難しくなり声も変わった。近く登場する拡張コンテンツSongs of the Pastに向け、CD Projekt RedはRozenekの新たな演技を2015年発売版での演技に合わせるため、AIの力を借りることにした。"
+        },
+        {
+          "t": "p",
+          "x": "「同意を得たうえで、倫理的に、しかも良いことのためにAIを使える方法の一つだと思う」と、ローカライズプロデューサーのMikołaj SzwedはGame Fileに語った。"
+        },
+        {
+          "t": "p",
+          "x": "CDPRはウクライナのAI音声クローン企業Respeecherと組んだ。同社は本人の既存の音声作品でアルゴリズムを学習させ、新しい演技を元の演技に合わせる。俳優本人またはその遺族の同意が必要だ。Rozenekはオリジナル版で10,000行を超えるセリフを収録した。「最も難しかったのはJacekの感情の幅だった」とRespeecherのDmytro Vasyletsは語った。"
+        },
+        {
+          "t": "p",
+          "x": "CDPRは今後このアルゴリズムでRozenekの声を変える予定はないとし、Rozenek本人も自身のAI分身を聴いていないと認めた。"
+        }
+      ]
     }
   }
 }

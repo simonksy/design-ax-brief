@@ -4086,6 +4086,107 @@
           "x": "HCAのMichael Schlosser, M.D.は、同社が「Geminiが複数の電子カルテシステムや診療環境にまたがる複雑な患者情報をどう解釈し統合できるかを探っている」と語った。"
         }
       ]
+    },
+    "medicine/medicare-wiser-ai-priorauth-docs": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.statnews.com/wp-content/uploads/2026/05/AP26023803702193-1024x576.jpg",
+          "cap": "Emilie Megnien/AP"
+        },
+        {
+          "t": "p",
+          "x": "新たな文書により、MedicareのAI事前承認実験をめぐる疑問がさらに深まっている。今回のSTAT Health Techでは、OuraのAIへの大きな賭け、臨床AIチャットボットのための「ランブルストリップ（rumble strip）」、そしてMedicareのAI事前承認実験をめぐる疑問を取り上げる。"
+        },
+        {
+          "t": "p",
+          "x": "ニュースレターの全文はSTAT+購読者向けに公開されている。"
+        }
+      ]
+    },
+    "medicine/fda-cms-states-healthai-oversight": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.statnews.com/wp-content/uploads/2025/07/AdobeStock_971648927_Editorial_Use_Only-1024x576.jpeg",
+          "cap": "Adobe"
+        },
+        {
+          "t": "p",
+          "x": "FDAとCMSが医療AIをめぐり州との連携を模索している。今回のSTAT Health Techニュースレターでは、AI規制で州との協力を目指す連邦当局者、AIをめぐる法的責任から医師を守る取り組みなどを取り上げる。"
+        },
+        {
+          "t": "p",
+          "x": "ニュースレターの全文はSTAT+購読者向けに公開されている。"
+        }
+      ]
+    },
+    "medicine/jama-ai-interventional-trials-ctgov": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "この横断研究は、2022年以降に実施された臨床試験における人工知能（AI）の利用を調べたものだ。研究者らは、開始日が2022年一月以降でClinicalTrials.govに登録された介入試験を分析し、AIの利用がどのように計画・記述されているかを明らかにした。"
+        },
+        {
+          "t": "p",
+          "x": "検索で得られた8559件の記録のうち、最終コホートは1212件の介入試験で構成された。大規模言語モデルを含む生成AIの利用計画は急増し、2022年開始の試験では皆無だったが、2025年開始の試験では491件中100件（20.4%）に達した。八件の試験は、患者のフォローアップや健康教育の提供などにAIエージェントを使う計画だった。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/df47/13749202/7f04ceea0423/jamanetwopen-e2642797-g001.webp",
+          "cap": "対象試験の特性を示す棒グラフ"
+        },
+        {
+          "t": "p",
+          "x": "最も多い臨床領域はがん（20.0%）、神経・メンタルヘルス（19.6%）、心血管・代謝疾患（18.6%）だった。AIの用途で最も多かったのは、疾患リスクや治療選択のためのスクリーニングと予測モデリング（39.8%）である。国別ではアメリカが303件（25.0%）、中国が149件（12.3%）を占めた。"
+        },
+        {
+          "t": "p",
+          "x": "ClinicalTrials.govにはAIに関する構造化項目や報告要件がないため、手法の詳細が欠けていることが多かった。著者らは、AI報告基準に沿った構造化登録項目を設ければ透明性が高まるとしている。"
+        }
+      ]
+    },
+    "medicine/npj-cancer-persistent-fever-ml": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "入院中のがん患者では、静脈内抗菌薬の投与開始後も発熱が続くことが多く、追加の画像検査や抗菌薬の強化につながりやすい。研究チームは二つの大学病院の電子健康記録を用い、抗菌薬開始から48–72時間後の持続発熱を予測する機械学習モデルを開発し、外部検証を行った。"
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03449-w/MediaObjects/41746_2026_3449_Fig1_HTML.png",
+          "cap": "Fig. 1: UMEおよびBWHデータセットのコホート抽出手順を示すフロー図。"
+        },
+        {
+          "t": "p",
+          "x": "最終コホートは、University Medicine Essen（UME）の入院987件と、Brigham and Women’s Hospital（BWH）の入院7409件で構成された。最も性能の高いモデルのAUROCは、内部検証で0.82（95% CI 0.79–0.84）、外部検証で0.78（95% CI 0.77–0.79）だった。体温関連の変数が主要な予測因子だった。"
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03449-w/MediaObjects/41746_2026_3449_Fig2_HTML.png",
+          "cap": "Fig. 2: 内部（UME）および外部（BWH）検証コホートにおける予測モデルの識別能、臨床的有用性、較正。"
+        },
+        {
+          "t": "p",
+          "x": "抗菌薬の強化と胸部CT検査のおよそ四分の一は、発熱が続かないと正しく予測された患者で行われていた。臨床での利用は単独の除外判断ではなく補助的な役割にとどめるべきであり、前向き研究が必要である。"
+        }
+      ]
+    },
+    "medicine/lancet-pharma-ad-llm": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "製薬広告と消費者向け人工知能による薬剤推奨：対照研究 — Mahmud Omar, Reem Agbareia, Jolion McGreevy, Alexis Zebrowski, Ashwin Ramaswamy, Michael A Gorin, Esther-Maria Antao, Benjamin S Glicksberg, Ankit Sakhuja, Alexander W Charney, Eyal Klang, Girish N Nadkarni."
+        },
+        {
+          "t": "p",
+          "x": "広告はLLMsによる治療選択を宣伝対象の薬剤へと傾けた。ガイドラインとの一致度は高いままであり、ガイドラインに沿った治療同士の間での移行は、治療の正しさを測る評価をすり抜けうることを意味する。"
+        },
+        {
+          "t": "p",
+          "x": "広告の影響は多くの場合、開示されていなかった。こうした出力の変化が処方や患者の意思決定に影響しうるかどうかは、直接的な研究が必要である。"
+        }
+      ]
     }
   }
 }

@@ -1,101 +1,96 @@
 {
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "section": "politics",
   "items": [
     {
-      "title": "美 재무 \"미중 정상, 내주 회동서 AI 대화 진전시킬 것\"",
-      "url": "https://www.yna.co.kr/view/AKR20261111129300009",
-      "source": "연합뉴스",
-      "category": "politics",
       "tool": "Politics",
       "accent": "#3b6bff",
       "motif": "cube",
-      "published_iso": "2026-11-11T15:26:15+09:00",
-      "og_image": "https://img9.yna.co.kr/photo/ap/2026/10/25/PAP20261025202101009_P4.jpg",
-      "excerpt": "베선트 미 재무장관은 18~19일 APEC 계기 선전 미중 정상회담에서 '초지능' 양자 대화가 진전될 것이라며, 첨단 모델 공개 전 평가·시험 모범사례를 논의하고 중대 사고 시 직접 연락 채널을 구축하기로 합의했다고 밝혔다.",
-      "rationale": "AI geopolitics: on-record statement from the US Treasury Secretary that Washington and Beijing agreed to discuss pre-release frontier-model testing and set up a direct incident hotline. Attributed to Bessent."
+      "title": "Advocacy groups sue AI giants to freeze new models, warning of 'catastrophic' risks",
+      "url": "https://apnews.com/article/artificial-intelligence-ai-lawsuit-cyberattacks-anthropic-openai-03ece37b96979fe834f60976648504ba",
+      "source": "AP News",
+      "published_iso": "2026-11-12T15:00:30Z",
+      "og_image": "https://dims.apnews.com/dims4/default/4e44ba9/2147483647/strip/true/crop/4662x3108+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F30%2F0e%2Fef26d3feddcef8b768b205a106a9%2F4fd0f97a72934b7eb0c5305851250919",
+      "excerpt": "A coalition of online safety and consumer advocacy groups has sued five leading AI companies in a California state court, asking it to halt further development of advanced AI systems they say pose 'imminent and catastrophic risks'.",
+      "rationale": "New court filing seeking to halt frontier-model development at five labs; a liability case that could directly constrain AI builders. Policy/litigation axis."
     },
     {
-      "title": "Governor Hochul launches NY AI research center; RAISE Act registration portal opens for large frontier AI developers",
-      "url": "https://www.governor.ny.gov/news/governor-hochul-declares-ny-will-lead-nation-ai-science-and-safety-launches-new-research",
-      "source": "Governor of New York",
-      "category": "politics",
       "tool": "Politics",
       "accent": "#0070f3",
       "motif": "cube",
-      "published_iso": "2026-11-10T00:00:00-05:00",
-      "og_image": "https://www.governor.ny.gov/sites/default/files/styles/cover_image_660x400_/public/2026-11/aisafety.jpg?h=f64511b9&itok=ODZfsICT",
-      "excerpt": "New York opened a portal for large frontier AI companies to register and comply with RAISE Act safety, transparency and reporting requirements, and launched the New York Center for AI Responsibility and Research at SUNY Binghamton to independently test advanced AI systems. (Primary release; body date only — Nov 10, 2026.)",
-      "rationale": "Policy/regulation, primary document: RAISE Act compliance now has a live registration portal, which directly affects frontier developers operating in New York."
+      "title": "United Kingdom-Norway Joint Statement of intent on Artificial Intelligence",
+      "url": "https://www.gov.uk/government/news/united-kingdom-norway-joint-statement-of-intent-on-artificial-intelligence",
+      "source": "GOV.UK",
+      "published_iso": "2026-11-12T16:16:04+00:00",
+      "og_image": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      "excerpt": "Primary document: the UK and Norway sign a joint statement of intent to deepen AI cooperation, covering compute, defence, AI security and international governance.",
+      "rationale": "Primary government release of a new bilateral AI pact covering compute, defence and AI security. Sovereign-AI/geopolitics axis."
     },
     {
-      "title": "Piggybacking to the Frontier: US data firms are selling RL environments to Chinese AI labs",
-      "url": "https://www.chinatalk.media/p/the-us-is-selling-rl-environments",
-      "source": "ChinaTalk",
-      "category": "politics",
       "tool": "Politics",
       "accent": "#7928ca",
       "motif": "cube",
-      "published_iso": "2026-11-11T11:07:30+00:00",
-      "og_image": "https://substackcdn.com/image/fetch/$s_!R3-x!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F424ec8f7-3da7-479b-bb9b-ae1db97ff118_940x856.png",
-      "excerpt": "A ChinaTalk investigation finds at least nine US data vendors (incl. Mercor, Surge AI, AfterQuery, Turing) selling roughly $500M of training data and RL environments to Chinese AI labs, a channel outside chip export controls.",
-      "rationale": "AI geopolitics: an original investigation into training data and RL environments flowing to Chinese labs outside chip export controls. This is a separate story from the Nvidia/Megaspeed chip coverage. Findings are attributed to ChinaTalk."
+      "title": "\"미, 중국 AI 칩 '동남아 우회로' 차단 추진\" — 싱가포르·말레이시아 등 7개국 수출허가 대상",
+      "url": "https://www.yna.co.kr/view/AKR20261112121900009",
+      "source": "연합뉴스",
+      "published_iso": "2026-11-12T14:45:28+09:00",
+      "og_image": "https://img0.yna.co.kr/photo/etc/af/2026/11/10/PAF20261110169301009_P4.jpg",
+      "excerpt": "The Information 보도에 따르면 미 상무부 BIS가 중국 기업의 제3국 데이터센터 경유 원격 AI 칩 사용을 막기 위해 싱가포르·말레이시아·태국·인도네시아·브라질·노르웨이·남아공 7개국에 블랙웰급 이상 칩 수출허가 의무를 적용하는 규정을 마무리 중이며, 이르면 이달 발표될 수 있다. (보도 기반, 규정 미공표)",
+      "rationale": "A new export-control rule (license requirement for 7 countries) being finalized by BIS; distinct from the Nvidia/Huang running story. Attribute to The Information; rule not yet published. Chip-export axis."
     },
     {
-      "title": "EU needs a system to respond to AI incidents, Finland and Estonia say",
-      "url": "https://www.politico.eu/article/eu-needs-a-system-to-respond-to-ai-incidents-finland-and-estonia-say/",
-      "source": "POLITICO Europe",
-      "category": "politics",
       "tool": "Politics",
       "accent": "#2ec5c5",
       "motif": "cube",
-      "published_iso": "2026-11-11T16:19:06+00:00",
-      "og_image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/11/11/GettyImages-2301068364-scaled.jpg",
-      "excerpt": "In a letter seen by POLITICO, Finland and Estonia call for 'EU-level arrangements for responding to serious AI incidents' ahead of Friday's informal European Council in Dublin on AI.",
-      "rationale": "Policy: a formal letter from two member-state governments asking for an EU-level AI incident-response mechanism, sent ahead of the Dublin informal European Council on AI."
+      "title": "EU watchdog probes Commission's AI pick over conflict of interest concerns",
+      "url": "https://www.politico.eu/article/eu-watchdog-commission-ai-pick-conflict-of-interest-concerns/",
+      "source": "POLITICO Europe",
+      "published_iso": "2026-11-10T16:02:55+00:00",
+      "og_image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/11/10/GettyImages-1246946570-scaled.jpg",
+      "excerpt": "The European Ombudsman opened an inquiry and will inspect Commission documents over the appointment of Jim Hagemann Snabe as EU AI envoy.",
+      "rationale": "Formal Ombudsman inquiry into the EU's AI envoy appointment: a new official action on who steers EU AI policy. Governance axis."
     },
     {
-      "title": "태국, 데이터센터 규제기준 마련…소음·온도·물 소비 등 제한",
-      "url": "https://www.yna.co.kr/view/AKR20261111094500084",
-      "source": "연합뉴스",
-      "category": "politics",
       "tool": "Politics",
-      "accent": "#f5a623",
+      "accent": "#eb367f",
       "motif": "cube",
-      "published_iso": "2026-11-11T12:21:06+09:00",
-      "og_image": "https://img5.yna.co.kr/photo/etc/epa/2026/09/07/PEP20260907196901009_P4.jpg",
-      "excerpt": "AI 데이터센터 반대 여론 속에 태국 내각이 데이터센터 소음 70dBA 이하, 부지 경계 기온 상승 1~2도 이내, 냉각수 재순환 의무를 승인했다. 20MW 이상 시설은 산업단지에만 짓고 인허가는 원스톱으로 통합한다.",
-      "rationale": "Policy and datacenter siting: a Thai cabinet decision setting concrete noise, heat and water limits and zoning rules for AI datacenters."
+      "title": "Police investigate 219 cases involving election deepfakes, misinformation",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/12/2003867622",
+      "source": "Taipei Times",
+      "published_iso": "2026-11-12T00:00:00+08:00",
+      "og_image": "https://img.taipeitimes.com/images/2026/11/12/6af52f97d911a.jpg",
+      "excerpt": "Taiwan's Criminal Investigation Bureau has investigated 219 election-related misinformation and deepfake cases ahead of the November vote, referring 176 people in 134 cases to prosecutors.",
+      "rationale": "Concrete law-enforcement action on election deepfakes (176 people referred to prosecutors) ahead of Taiwan's vote. Elections axis; off-list exception, no on-list outlet carried it."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.yna.co.kr/view/AKR20261111129300009": {
+      "https://apnews.com/article/artificial-intelligence-ai-lawsuit-cyberattacks-anthropic-openai-03ece37b96979fe834f60976648504ba": {
         "verdict": "new",
-        "nearest": "https://the-decoder.com/eight-countries-and-top-ai-labs-agree-to-shutdown-mechanisms-in-new-paris-declaration/",
+        "nearest": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
         "new_action": ""
       },
-      "https://www.governor.ny.gov/news/governor-hochul-declares-ny-will-lead-nation-ai-science-and-safety-launches-new-research": {
+      "https://www.gov.uk/government/news/united-kingdom-norway-joint-statement-of-intent-on-artificial-intelligence": {
         "verdict": "new",
-        "nearest": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2175",
+        "nearest": "https://www.rapporteur.com/news/norway-suspends-electricity-grid-access-for-new-data-centres/",
         "new_action": ""
       },
-      "https://www.chinatalk.media/p/the-us-is-selling-rl-environments": {
+      "https://www.yna.co.kr/view/AKR20261112121900009": {
         "verdict": "new",
         "nearest": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
         "new_action": ""
       },
-      "https://www.politico.eu/article/eu-needs-a-system-to-respond-to-ai-incidents-finland-and-estonia-say/": {
+      "https://www.politico.eu/article/eu-watchdog-commission-ai-pick-conflict-of-interest-concerns/": {
         "verdict": "new",
-        "nearest": "https://www.euronews.com/2026/10/14/eus-ai-rules-face-first-enforcement-test-over-lab-incidents",
+        "nearest": "https://www.politico.eu/article/eu-countries-still-cant-get-it-together-on-ai/",
         "new_action": ""
       },
-      "https://www.yna.co.kr/view/AKR20261111094500084": {
+      "https://www.taipeitimes.com/News/taiwan/archives/2026/11/12/2003867622": {
         "verdict": "new",
-        "nearest": "https://www.rapporteur.com/news/norway-suspends-electricity-grid-access-for-new-data-centres/",
+        "nearest": "https://www.policeconduct.gov.uk/news/iopc-investigating-officers-use-ai-criminal-investigations",
         "new_action": ""
       }
     },
-    "note": "Dropped as running-story duplicates of the Nvidia/Megaspeed chip-diversion story (Verge 11-08, Ars 'Jensen Huang summoned' 11-07), since none reports a new decision: Axios Lutnick scoop and Axios Bessent Situation Room scoop (one cluster c0, extra reporting that Commerce disputes), Yonhap 'chip regulation 3 bills gain momentum' (existing bills, momentum analysis), and POLITICO Virkkunen 'very trusted partners' (commentary). Dropped Poynter $187M AI midterm ads as a likely-repeat of Gizmodo 10-19 $137M (same Wesleyan Media Project data, updated). Dropped Rapporteur 'EU presses OpenAI/Anthropic on safety incidents' as part of the running story behind Euronews 10-15 on lab-incident enforcement (article body blocked, so no new formal act could be confirmed). Dropped as off-axis or lower value: EU Ombudsman probe of the AI envoy appointment (a personnel and conflict-of-interest story that still stands without AI), Adobe style-mimicry lobbying (corporate advocacy, not a decision, and an Adobe cross-section risk), MEPs criticising the datacentre scheme (reactions), Trump 60 Minutes remarks (interview commentary), and the MIT TR Wiener profile. Bench: Guardian OfS university coursework guidance (first alternate)."
+    "note": "Dropped as follow-ups on running stories with no new official action: MIT TR Nvidia chip-tracking (extra reporting on Chip Security Act / Huang story, 11-07), Axios Lutnick/Trump and Axios Bessent/Lutnick scoops (cluster c2; sourced reporting on the Nvidia-China story, 11-08), WIRED Huang resignation (exec move on the same running story), POLITICO EU Virkkunen 'trusted partners' (comment on the Nvidia crisis), Poynter $187M AI ads (post-election analysis continuing the 10-19 Gizmodo $137M story), Verge data-center critics (follow-up to the 11-05 ballot-measure story), Guardian NHS/Palantir claim deletion (running Palantir-NHS story, 11-10). Excluded by brief: Tech Policy Press amicus roundup (assigned to books). Not picked on score: Verge Yahoo/ILC licensing (industry licensing, weak politics axis), Rapporteur France defence AI centre and Adobe style-mimicry (page Cloudflare-gated), IAPP Greece (member analysis), Guardian OfS coursework, Guardian public-sector unions, Ars Gemini schools protests, Yonhap Korea-UN disarmament meeting, TechLabari Kenya bill (off-list). Outlets: 5 distinct, 1 each. Cross-section check against published_urls.json was not exhaustive (no grep tool in this agent); none of the picks are expected in other sections."
   }
 }

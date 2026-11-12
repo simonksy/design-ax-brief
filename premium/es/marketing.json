@@ -4406,6 +4406,140 @@
           "x": "Debra Aho Williamson, de Sonata Insights, dijo que el hecho de que OpenAI comparta los datos por sí misma “quitará parte del poder a las empresas externas”. Business Hub y los agentes son gratuitos por ahora, y Shomair dijo que una empresa “no debería influir en la frecuencia con la que aparece”."
         }
       ]
+    },
+    "marketing/google-ads-ai-public-figure-ban": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-ads-logo-mirror-wCJesbMh.jpg",
+          "cap": "Logo de Google Ads en espejo"
+        },
+        {
+          "t": "p",
+          "x": "Google Ads aclaró en su política de unacceptable Business Practices que no se permite suplantar a figuras públicas con AI, aunque se declare que el contenido se generó o editó con AI. Sí, se puede usar AI, pero no en este caso, y cuando se usa AI hay que declararlo."
+        },
+        {
+          "t": "p",
+          "x": "Google añadió esta nota: \"Nota: No se permiten los anuncios que suplantan a figuras públicas con AI, aunque declaren que se generaron o editaron con AI\"."
+        },
+        {
+          "t": "p",
+          "x": "Esta es una captura de pantalla de lo que se añadió, resaltado en rojo:"
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-doc-change-hAyqlNeM.png",
+          "cap": "Cambio en el documento de Google"
+        },
+        {
+          "t": "p",
+          "x": "La política de Unacceptable Business Practices de Google prohíbe los anuncios que usan AI para suplantar a figuras públicas. La norma se aplica aunque el anuncio declare que el contenido se generó o editó con AI."
+        },
+        {
+          "t": "p",
+          "x": "Google escribió: \"Google actualizó su política de Unacceptable Business Practices sobre Public-figure impersonation para aclarar que no se permiten los anuncios que suplantan a figuras públicas con AI, aunque declaren que se generaron o editaron con AI. Esta aclaración busca ayudar a los anunciantes a entender la política y no cambia su aplicación\"."
+        },
+        {
+          "t": "p",
+          "x": "Así que dejen de usar este anuncio descomunal:"
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/ai-ad-atmEYoSV.jpg",
+          "cap": "Anuncio de AI"
+        }
+      ]
+    },
+    "marketing/eu-ai-act-deepfake-ad-labels": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/size/w2000/2026/11/eu-ai-act-deep-fake-label-3-percent-fines-carousel-projector-flattered-kettle-across-sea.jpg",
+          "cap": "Los creadores de anuncios Non-EU se exponen a multas del 3% de la facturación si no etiquetan las fotos de producto hechas con AI que embellecen el artículo real"
+        },
+        {
+          "t": "p",
+          "x": "Las directrices de la Comisión Europea sobre las obligaciones de transparencia del artículo 50 de la AI Act se publicaron en el Diario Oficial de la Unión Europea con la referencia C/2026/6005. Según las directrices, una empresa establecida fuera de la EU que usa un sistema de AI para generar un deep fake de una celebridad para un anuncio que se muestra en la Unión es un responsable del despliegue (deployer) dentro del ámbito de la AI Act."
+        },
+        {
+          "t": "p",
+          "x": "Los respaldos de celebridades AI-made, los influencers sintéticos que prueban productos y las imágenes de producto que tergiversan el artículo real cuentan como deep fakes que necesitan una etiqueta visible. Una empresa que solo encarga el trabajo a una agencia, sin control sobre cómo usa la AI, no es un responsable del despliegue. Los textos publicitarios y las descripciones de producto quedan fuera de la norma sobre texto salvo que hagan afirmaciones sobre salud, seguridad del consumidor o sostenibilidad."
+        },
+        {
+          "t": "p",
+          "x": "Los responsables del despliegue \"no pueden confiar en la marca legible por máquina que el proveedor incrusta en el contenido\". Las multas por incumplir el artículo 50 alcanzan EUR 15,000,000 o el 3% de la facturación anual mundial total, lo que sea mayor. Los sistemas generativos comercializados antes del 2 de agosto de 2026 tienen hasta el 2 de diciembre de 2026 para cumplir la obligación de marcado."
+        }
+      ]
+    },
+    "marketing/nectar-creator-agent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2023/10/misbahfarah-together.jpg?w=1024",
+          "cap": "Misbah Uraizee y Farah Uraizee, cofundadores de Nectar AI"
+        },
+        {
+          "t": "p",
+          "x": "Nectar, un sistema operativo AI-powered para marketing, lanza un nuevo agente de AI pensado para eliminar buena parte del trabajo manual del marketing de influencers. Anunciado el jueves, su nuevo “Creator Agent” puede buscar creadores, revisar su contenido y sus colaboraciones con marcas, enviar mensajes personalizados, coordinar colaboraciones y supervisar el rendimiento de las campañas."
+        },
+        {
+          "t": "p",
+          "x": "Nectar afirma que Creator Agent busca en más de 300 millones de perfiles de creadores para encontrar posibles socios, incluidos creadores más pequeños que están ganando tracción. Analiza videos para entender sobre qué publican los creadores y comprueba la seguridad de marca revisando el contenido en contexto, en lugar de limitarse a buscar palabras clave concretas."
+        },
+        {
+          "t": "p",
+          "x": "El agente puede redactar y enviar mensajes con la voz de la marca, crear páginas de destino personalizadas y ayudar a gestionar contratos, regalos de productos y detalles de envío. “Las marcas pueden compartir sus pautas de voz en cualquier formato, y Nectar deduce el resto a partir de su historial”, dijo a TechCrunch Misbah Uraizee, CEO de la empresa."
+        },
+        {
+          "t": "p",
+          "x": "Creator Agent ya está disponible en todo el mundo y abarca a creadores de Instagram y TikTokers. La empresa prevé ofrecerlo a través de su Model Context Protocol (MCP) para que pueda usarse desde asistentes de AI como Claude, ChatGPT, Gemini y Copilot."
+        }
+      ]
+    },
+    "marketing/podqi-chatbot-fake-retail-sites": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "Los compradores que usan chatbots de AI para investigar productos o encontrar dónde comprarlos podrían acabar en sitios impostores y otras webs de riesgo, según un nuevo estudio. La firma de protección de IP Podqi planteó a ChatGPT, Gemini y Perplexity preguntas de compra sobre 151 marcas, como “¿Dónde puedo encontrar [brand] en línea?”"
+        },
+        {
+          "t": "p",
+          "x": "A lo largo de 6,795 respuestas, los tres motores de AI citaron y mostraron a los compradores sitios de riesgo, definidos como webs falsas que suplantan a minoristas reales o venden imitaciones, dominios antiguos de marcas registrados de nuevo o sitios inactivos. Gemini mostró sitios de riesgo en el 4 por ciento de las respuestas, ChatGPT en el 8 por ciento y Perplexity fue el peor, con un 15 por ciento. Las marcas más pequeñas parecen especialmente expuestas."
+        },
+        {
+          "t": "p",
+          "x": "En una conversación, Perplexity señaló una página equivocada como el sitio oficial de Stüssy y la llamó “el mejor punto de partida para artículos auténticos garantizados”. “Siempre es mejor verificar el origen antes de introducir información personal o datos de la tarjeta de crédito”, dice Trevor West, CEO y cofundador de Podqi."
+        }
+      ]
+    },
+    "marketing/appsflyer-apple-ads-agent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/size/w2000/2026/11/appsflyer-apple-ads-share-of-voice-agent-bids-after-approval-vu-meter-arm-volume-knob-pull-cord.jpg",
+          "cap": "Girar la perilla: el primer agente ejecutor de AppsFlyer mueve las pujas de Apple Ads tras la aprobación"
+        },
+        {
+          "t": "p",
+          "x": "AppsFlyer lanzó hoy en beta cerrada un agente para Apple Ads que modifica las pujas por palabra clave una vez que el profesional de marketing las aprueba, el primer agente de su catálogo que actúa en lugar de limitarse a aconsejar. El Apple Ads Share of Voice Agent estima la cuota de voz (share of voice) por palabra clave y geografía, recomienda un cambio de puja cuando un anunciante está “fuera de objetivo” (off target) y lo ejecuta en Apple Ads directamente desde AppsFlyer; el acceso se gestiona a través de los responsables de éxito del cliente."
+        },
+        {
+          "t": "p",
+          "x": "El comunicado no explica cómo se estima la cuota de voz, qué interfaz de Apple transmite las pujas —la Campaign Management API dejará de funcionar el 26 de enero de 2027— ni cómo se garantiza la aprobación. Las campañas Maximize Conversions de Apple no permiten pujas por palabra clave."
+        },
+        {
+          "t": "p",
+          "x": "AppsFlyer también presentó Create an Agent, que crea un agente personalizado a partir de una descripción del flujo de trabajo en lenguaje sencillo y envía análisis, análisis de causa raíz y recomendaciones a Slack o por correo electrónico de forma programada. Cuatro nuevas funciones MCP abren los datos de fraude de Protect360, los resultados por creatividad, la creación de OneLink (solo tras la aprobación) y la configuración de integraciones con socios a “cualquier cliente MCP” (any MCP client)."
+        },
+        {
+          "t": "p",
+          "x": "“Los equipos de marketing están pasando de la orquestación manual de campañas a la ejecución mediante agentes”, dijo Inna Weiner, VP Product de AppsFlyer. No se dieron precios, resultados de clientes ni fecha de disponibilidad general."
+        }
+      ]
     }
   }
 }
