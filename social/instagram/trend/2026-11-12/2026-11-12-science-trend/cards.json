@@ -1,0 +1,113 @@
+{
+  "meta": {
+    "issue": "AI는 상대를 가려 본다",
+    "date": "2026.11.12",
+    "section": "SCIENCE",
+    "accent": "#3aa655",
+    "note": "원문 대조: Ai2·PsyPost는 curl로 직접, Tech Xplore 2건은 차단돼 수집 당시 enrichment 본문으로 확인. 날짜를 원문 게재일로 고침(FairStress 10.22→10.20, 억양 11.04→11.03, 에이전트 11.10→11.05, 백인성 11.12→11.11 UTC). 수치 29개 영역·300개 시나리오·60–65%, 모델 4종·억양 5종, 13개 중 8개·325,000회·항공권 최대 $198, 72%·일본 82% 확인. 억양 카드는 11.08 trend에서 쓴 사진이라 quote로, 사진은 백인성 1장만.",
+    "sources": [
+      "Ai2 — FairStress: A deeper evaluation of fairness in LLM decision-making (2026.10.20)",
+      "Tech Xplore — Leading AI models are biased against certain accents when scoring interviews, presentations and tests (2026.11.03)",
+      "Tech Xplore — Some AI agents use personal information to upsell wealthier individuals (2026.11.05)",
+      "PsyPost — People project a specific racial identity onto artificial intelligence, study finds (2026.11.11)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 과학 · 10.20~11.11",
+      "thread": [
+        {
+          "d": "10.20",
+          "t": "공정성",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        },
+        {
+          "d": "11.03",
+          "t": "억양 채점",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        },
+        {
+          "d": "11.05",
+          "t": "부자 추천",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        },
+        {
+          "d": "11.11",
+          "t": "AI 인종",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        }
+      ],
+      "thread_note": "AI는 상대가 누구인지 읽고 대우를 바꾸고, 사람도 AI에 정체성을 입힌다",
+      "eyebrow": "흐름 · 과학",
+      "headline": "AI는 상대를\n가려 본다",
+      "body": "한 건씩 보면 모델 하나의 편향이다. 3주를 이어 보면 판정·채점·추천이 모두 상대가 누군지에 따라 달라졌다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "stat",
+      "eyebrow": "2026.10.20",
+      "headline": "신원이 보이면\n대칭이 깨진다",
+      "body": "Ai2 FairStress는 29개 영역 300개 시나리오로 쟀다. 신원이 없을 땐 대칭이던 모델이 신원이 드러나자 기울었다.",
+      "foot": "2026.10.20",
+      "_src": "https://allenai.org/blog/fairstress",
+      "_id": "science-fairstress",
+      "stat_top": "두 후보 우열이 없을 때",
+      "stat_arrow": "소수자로 표시된 후보를 고른 비율",
+      "stat_bottom": "60–65%",
+      "stat_strike": false
+    },
+    {
+      "n": 3,
+      "kind": "quote",
+      "eyebrow": "2026.11.03",
+      "headline": "같은 답, 억양 따라\n다른 점수",
+      "body": "오디오 모델 4종이 같은 답을 억양 5종으로 채점했다. 중국·나이지리아 억양이 가장 낮고 미국·영국이 가장 높았다.",
+      "foot": "2026.11.03",
+      "_src": "https://techxplore.com/news/2026-11-ai-biased-accents-scoring.html",
+      "_id": "uw-accent-bias-audio",
+      "quote": "‘웅얼거린다’고\n거듭 주장했지만\n아주 잘 받아 적었다",
+      "quote_by": "Orevaoghene Ahia · UW 공동 제1저자"
+    },
+    {
+      "n": 4,
+      "kind": "stat",
+      "eyebrow": "2026.11.05",
+      "headline": "부자에겐\n비싼 쪽을 권한다",
+      "body": "AI 모델 13개 중 8개가 325,000회 실험에서 부유한 사용자에게 싼 걸 원해도 비싼 선택지를 권했다.",
+      "foot": "2026.11.05",
+      "_src": "https://techxplore.com/news/2026-11-ai-agents-personal-upsell-wealthier.html",
+      "_id": "cmu-cisco-agent-upsell",
+      "stat_top": "같은 요청, 다른 재산",
+      "stat_arrow": "항공권 가격 차이",
+      "stat_bottom": "최대 $198",
+      "stat_strike": false
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.11.11",
+      "headline": "사람도 AI에서\n백인을 본다",
+      "body": "얼굴도 이름도 없는 AI를 사람들은 백인으로 봤다. 미국 참가자는 기술의 72%를, 일본은 82%가 AI를 백인으로 꼽았다.",
+      "foot": "2026.11.11",
+      "_src": "https://www.psypost.org/people-project-a-specific-racial-identity-onto-artificial-intelligence-study-finds/",
+      "_id": "psypost-ai-whiteness-study",
+      "media": "pipeline/media/psypost-ai-whiteness-study.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

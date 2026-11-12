@@ -1,0 +1,113 @@
+{
+  "meta": {
+    "issue": "AI 시안, 배포까지 가는 길",
+    "date": "2026.11.12",
+    "section": "DESIGN",
+    "accent": "#0070f3",
+    "note": "원문 4건 대조: 날짜는 원문 게재일(Cursor 체인지로그 11.05, Google 블로그 11.09, UX Collective RSS 11.10 GMT, Figma YouTube 업로드 11.11). Cursor 'localhost' 문장·DB·인증·호스팅·보안 검사 후 공개, AI Studio 카드 없이 일일 한도 무료·실서비스는 유료 결제 계정, Claude Design 인계 노트 문장('recreation for design and prototyping')과 '컴포넌트 목록+MCP' 해법, Freshworks 디자인 시스템-AI 연결·디자이너 프로덕션 코드(영상 설명) 확인. Cursor 영상은 11-07 story에 쓰여 stat으로 돌림. UX Collective는 Cloudflare 차단이라 RSS 본문으로 대조. 11-11 디자인 trend(MCP·Adobe·Claude 커넥터)와 겹치지 않게 다른 전선으로 묶음.",
+    "sources": [
+      "Cursor — Build Live Apps in Cursor (2026.11.05)",
+      "Google — Developers can now build with Google Maps Platform in AI Studio (2026.11.09)",
+      "UX Collective — AI prototyping inside your design system: a hands-on guide for design & product teams (2026.11.10)",
+      "Figma — Config India 2026: What changed when designers started shipping code (2026.11.11)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 디자인 · 11.05~11.11",
+      "thread": [
+        {
+          "d": "11.05",
+          "t": "배포",
+          "c": "#0070f3",
+          "s": "DESIGN"
+        },
+        {
+          "d": "11.09",
+          "t": "실데이터",
+          "c": "#0070f3",
+          "s": "DESIGN"
+        },
+        {
+          "d": "11.10",
+          "t": "컴포넌트",
+          "c": "#0070f3",
+          "s": "DESIGN"
+        },
+        {
+          "d": "11.11",
+          "t": "디자이너",
+          "c": "#0070f3",
+          "s": "DESIGN"
+        }
+      ],
+      "thread_note": "AI로 만든 시안이 배포 직전까지 왔고, 남은 벽은 진짜 컴포넌트다",
+      "eyebrow": "흐름 · 디자인",
+      "headline": "AI 시안,\n배포까지 가는 길",
+      "body": "한 건씩 보면 도구 기능 하나다. 나란히 놓으면 AI로 만든 앱이 localhost를 벗어나고, 남은 벽은 실제 컴포넌트다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "stat",
+      "eyebrow": "2026.11.05",
+      "headline": "말하면 배포까지\nCursor가 맡는다",
+      "body": "앱 대부분이 localhost를 못 벗어난다며, Cursor가 제작·DB·인증·배포를 에이전트에 맡겼다. 보안 검사를 통과해야 공개된다.",
+      "foot": "2026.11.05",
+      "_src": "https://cursor.com/changelog/build-live-apps",
+      "_id": "cursor-live-apps-hosting",
+      "stat_top": "localhost에 머물던 앱",
+      "stat_arrow": "Cursor 에이전트가 배포까지",
+      "stat_bottom": "링크 하나로 공개",
+      "stat_strike": true
+    },
+    {
+      "n": 3,
+      "kind": "stat",
+      "eyebrow": "2026.11.09",
+      "headline": "시안에 진짜\n지도가 붙는다",
+      "body": "AI Studio에서 Google Maps Platform을 바로 쓴다. 카드 없이 하루 한도까지 무료, 실서비스엔 유료 결제가 필요하다.",
+      "foot": "2026.11.09",
+      "_src": "https://blog.google/innovation-and-ai/technology/developers-tools/build-google-maps-platform-ai-studio/",
+      "_id": "aistudio-google-maps",
+      "stat_top": "결제·키 설정은 따로",
+      "stat_arrow": "이제 AI Studio 안에서",
+      "stat_bottom": "프롬프트로 지도 앱",
+      "stat_strike": true
+    },
+    {
+      "n": 4,
+      "kind": "quote",
+      "eyebrow": "2026.11.10",
+      "headline": "진짜 컴포넌트까진\n아직이다",
+      "body": "디자인 시스템을 연결한 AI 빌더도 실제 컴포넌트 대신 비슷한 복제본을 짠다. 필자는 컴포넌트 목록과 MCP를 해법으로 든다.",
+      "foot": "2026.11.10",
+      "_src": "https://uxdesign.cc/ai-prototyping-inside-your-design-system-a-hands-on-guide-for-design-product-teams-44825904c08d",
+      "_id": "uxc-design-system-ai-prototyping",
+      "quote": "디자인과\n프로토타이핑을 위한\n재현본입니다",
+      "quote_by": "Claude Design 인계 노트 · UX Collective 인용"
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.11.11",
+      "headline": "디자이너가\n코드를 낸다",
+      "body": "Freshworks는 디자인 시스템을 AI 도구에 붙이고, 디자이너가 프로덕션 코드를 내도록 엔지니어링 흐름을 손보고 있다.",
+      "foot": "2026.11.11",
+      "_src": "https://www.youtube.com/watch?v=3EbdkzGwL7c",
+      "_id": "config-india-freshworks-code",
+      "video": "pipeline/media/config-india-freshworks-code.mp4"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

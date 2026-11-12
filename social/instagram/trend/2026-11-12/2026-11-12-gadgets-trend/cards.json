@@ -1,0 +1,113 @@
+{
+  "meta": {
+    "issue": "로컬 AI, 개조에서 제품으로",
+    "date": "2026.11.12",
+    "section": "GADGETS",
+    "accent": "#ff5a4d",
+    "note": "원문 4건 대조: 날짜를 원문 게재일로 고침(Tom's Hardware 11.09→11.08, WIRED·9to5Mac 11.11→11.10, Notebookcheck 11.12→11.10). 2.8T·PMem 200·40코어 Xeon·1-bit 0.85토큰/s·송풍기, Kora 64GB RAM·2027·Snapdragon·De Girolami 인용, Harbor 오픈 웨이트·Thunderbolt 5 메모리 묶기(유출 단계), Aero 20코어 Grace·128GB·1리터·확인. 사진은 5장에만 두고 2·4장은 stat, 3장은 quote.",
+    "sources": [
+      "Tom's Hardware — Homelabber uses second-gen Optane memory sticks to run a 2.8-trillion-parameter AI model on CPU alone (2026.11.08)",
+      "WIRED — Kora, a new Linux-based desktop operating system, is built for AI nerds (2026.11.10)",
+      "9to5Mac — Apple has new Mac app coming to make running local AI models easy (2026.11.10)",
+      "Notebookcheck — Gigabyte takes on Mac Studio with a tiny AI PC powered by Nvidia RTX Spark (2026.11.10)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 가젯 · 11.08~11.10",
+      "thread": [
+        {
+          "d": "11.08",
+          "t": "Optane 개조",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        },
+        {
+          "d": "11.10",
+          "t": "AI OS",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        },
+        {
+          "d": "11.10",
+          "t": "Mac 앱",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        },
+        {
+          "d": "11.10",
+          "t": "1L PC",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        }
+      ],
+      "thread_note": "로컬 AI가 집에서 하는 개조에서 OS·앱·완제품으로 올라오고 있다",
+      "eyebrow": "흐름 · 가젯",
+      "headline": "로컬 AI,\n개조에서 제품으로",
+      "body": "하나씩 보면 해킹, 신생 OS, 유출, 새 PC다. 꿰어 보면 집 안 개조가 OS·앱·완제품으로 올라오는 사흘이다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "stat",
+      "eyebrow": "2026.11.08",
+      "headline": "2.8T 모델을\n중고 Optane에",
+      "body": "단종된 Optane PMem 200과 40코어 Xeon으로 Kimi K3를 돌렸다. 1-bit로 초당 0.85토큰, 열엔 송풍기.",
+      "foot": "2026.11.08",
+      "_src": "https://www.tomshardware.com/tech-industry/artificial-intelligence/homelabber-uses-second-gen-optane-memory-sticks-to-run-a-2-8-trillion-parameter-ai-model-on-cpu-alone-warns-that-optanes-extreme-heat-can-burn-out-nearby-memory-dram-used-blower-fans-to-prevent-melting-ram",
+      "_id": "kimi-k3-optane-homelab",
+      "stat_top": "GPU 없이 CPU만",
+      "stat_arrow": "Kimi K3 · 1-bit",
+      "stat_bottom": "초당 0.85토큰",
+      "stat_strike": false
+    },
+    {
+      "n": 3,
+      "kind": "quote",
+      "eyebrow": "2026.11.10",
+      "headline": "AI를 위한\n데스크톱 OS",
+      "body": "Cyanogen 공동창업자의 Linux 기반 OS. RAM 64GB 이상 데스크톱용, 2027년 Snapdragon PC부터 나온다.",
+      "foot": "2026.11.10",
+      "_src": "https://www.wired.com/story/kora-new-linux-based-desktop-operating-system-is-built-for-ai-nerds/",
+      "_id": "kora-linux-ai-desktop-os",
+      "quote": "모든 맥락,\n모든 기억이\n내 기기에 있다",
+      "quote_by": "Franck De Girolami · Kora 공동창업자"
+    },
+    {
+      "n": 4,
+      "kind": "stat",
+      "eyebrow": "2026.11.10",
+      "headline": "Apple도 Mac을\n추론 서버로",
+      "body": "유출된 Apple 앱 Harbor. 오픈 웨이트 모델을 Mac에서 돌리고, Thunderbolt 5로 여러 대의 메모리를 묶는다.",
+      "foot": "2026.11.10",
+      "_src": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+      "_id": "apple-mac-local-ai-app",
+      "stat_top": "Mac 한 대의 메모리",
+      "stat_arrow": "Thunderbolt 5로 연결",
+      "stat_bottom": "여러 대를 한 풀로",
+      "stat_strike": false
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.11.10",
+      "headline": "1리터 상자에\n128GB",
+      "body": "Gigabyte AI Top Aero는 20코어 Grace CPU, Blackwell GPU, 최대 128GB를 1리터에 담았다.",
+      "foot": "2026.11.10",
+      "_src": "https://www.notebookcheck.net/Gigabyte-takes-on-Mac-Studio-with-a-tiny-AI-PC-powered-by-Nvidia-RTX-Spark.1447215.0.html",
+      "_id": "gigabyte-aitop-aero-spark",
+      "media": "pipeline/media/gigabyte-aitop-aero-spark.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "meta": {
+    "issue": "심장 AI, 성적표를 내밀다",
+    "date": "2026.11.12",
+    "section": "MEDICINE",
+    "accent": "#00897b",
+    "note": "원문 대조: Cleerly·AHA는 curl로 직접 확인(PARAMOUNT 530명·31→75%/32→47%, 심초음파 8.5→4.6분, AHA 발표 11.09). AuntMinnie·Lancet·CV Business는 403이라 enrichment 요약(cards_medicine.json full)으로 확인(1,674명·1.35분 대 7.2분·2배, 27,382명·C index 0.669 대 0.637·2–3초 대 13분, DETECT-HF 563명·70% 이상·24.6일·체중 민감도 약 20%). Lancet MRI·음성 카드는 story 회차와 그림이 겹쳐 stat, CT·플라크도 사진 한 장 규칙에 따라 stat — 사진은 심초음파 한 장.",
+    "sources": [
+      "AuntMinnie — Deep-learning model predicts mortality from CTA scans (2026.11.07)",
+      "The Lancet Digital Health — AI-derived ejection fraction from cardiac MRI and mortality (2026.11.08)",
+      "Cleerly — PARAMOUNT, the First Randomized Trial of AI-Enabled Plaque-Based Care, Meets Primary Endpoint (2026.11.07)",
+      "American Heart Association Newsroom — AI-interpreted echocardiograms comparable to human reports; cardiologists' time cut by about 50% (2026.11.09)",
+      "Cardiovascular Business — Voice changes may detect worsening heart failure weeks before other symptoms appear (2026.11.11)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "5건 · 의료 · 11.07~11.11",
+      "thread": [
+        {
+          "d": "11.7",
+          "t": "판막 CT",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        },
+        {
+          "d": "11.8",
+          "t": "심장 MRI",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        },
+        {
+          "d": "11.9",
+          "t": "플라크",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        },
+        {
+          "d": "11.10",
+          "t": "심초음파",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        },
+        {
+          "d": "11.11",
+          "t": "목소리",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        }
+      ],
+      "thread_note": "심장 AI가 판독 속도 자랑에서 사망·치료·시간 수치로 성적표를 낸다",
+      "eyebrow": "흐름 · 의료",
+      "headline": "심장 AI,\n성적표를 내밀다",
+      "body": "한 건씩 보면 판독 도구 소식이다. 닷새 사이 CT·MRI·초음파·목소리에서 사망·치료·시간 수치가 줄지어 나왔다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "stat",
+      "eyebrow": "2026.11.07",
+      "headline": "판막 섬유화, 1분 남짓",
+      "body": "TAVR 앞둔 1,674명의 CTA. AI가 판막 조직을 1.35분에 정량했고, 섬유화가 가장 많은 군은 사망 위험이 2배였다.",
+      "foot": "2026.11.07",
+      "_src": "https://www.auntminnie.com/clinical-news/ct/article/16424554/deeplearning-model-predicts-mortality-from-cta-scans",
+      "_id": "cedars-tavr-cta-fibrosis",
+      "stat_top": "전문가 7.2분",
+      "stat_arrow": "AI 판막 조직 정량",
+      "stat_bottom": "1.35분",
+      "stat_strike": false
+    },
+    {
+      "n": 3,
+      "kind": "stat",
+      "eyebrow": "2026.11.08",
+      "headline": "심장 MRI, 몇 초 만에",
+      "body": "영국·미국 27,382명. AI가 잰 박출률이 사망 예측에서 의사 측정값을 근소하게 앞섰다(C index 0.669 대 0.637).",
+      "foot": "2026.11.08",
+      "_src": "https://www.thelancet.com/journals/landig/article/PIIS2589-7500(26)00065-8/fulltext",
+      "_id": "lancet-cmr-ai-ejection-fraction",
+      "stat_top": "이전 연구 전문의 13분 안팎",
+      "stat_arrow": "AI 환자 한 명 분석",
+      "stat_bottom": "2–3초",
+      "stat_strike": false
+    },
+    {
+      "n": 4,
+      "kind": "stat",
+      "eyebrow": "2026.11.09",
+      "headline": "AI 플라크, 무작위 시험",
+      "body": "530명 무작위 시험 PARAMOUNT. 지질저하제 사용이 AI-QCT 진료군은 31%→75%, 일반 진료군은 32%→47%로 늘었다.",
+      "foot": "2026.11.09",
+      "_src": "https://cleerly.com/press/paramount-first-randomized-trial",
+      "_id": "cleerly-paramount-trial",
+      "stat_top": "일반 진료 32% → 47%",
+      "stat_arrow": "AI-QCT 진료군 지질저하제",
+      "stat_bottom": "31% → 75%",
+      "stat_strike": false
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.11.10",
+      "headline": "심초음파 판독, 시간 절반",
+      "body": "첫 무작위 시험. AI 예비 판독은 사람이 쓴 예비 판독과 정확도가 비슷했고, 판독 시간은 8.5분에서 4.6분으로 줄었다.",
+      "foot": "2026.11.10",
+      "_src": "https://newsroom.heart.org/news/ai-interpreted-echocardiograms-comparable-to-human-reports-cardiologists-time-cut-by-about-50",
+      "_id": "aha-echo-ai-reading-time",
+      "media": "pipeline/media/aha-echo-ai-reading-time.jpg"
+    },
+    {
+      "n": 6,
+      "kind": "stat",
+      "eyebrow": "2026.11.11",
+      "headline": "목소리로 심부전 경보",
+      "body": "DETECT-HF 563명. 매일 여섯 문장을 말하면 HearO가 주요 심부전 사건 70% 이상을 평균 24.6일 먼저 예측했다.",
+      "foot": "2026.11.11",
+      "_src": "https://cardiovascularbusiness.com/topics/clinical/heart-failure/voice-changes-may-detect-worsening-heart-failure-weeks-other-symptoms-appear",
+      "_id": "aha-voice-heartfailure-alert",
+      "stat_top": "체중 측정 민감도 약 20%",
+      "stat_arrow": "HearO 사전 예측",
+      "stat_bottom": "평균 24.6일 전",
+      "stat_strike": false
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 7
+    }
+  ]
+}

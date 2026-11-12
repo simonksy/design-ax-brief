@@ -1,0 +1,111 @@
+{
+  "meta": {
+    "issue": "AI 썼나, 먼저 밝힌다",
+    "date": "2026.11.12",
+    "section": "GAMES",
+    "accent": "#2ec5c5",
+    "note": "원문 4건 대조: 날짜를 원문 게재일로 고침(PC Gamer Kenney 11.09→11.06, Jackbox 11.10→11.08, GI.biz House House 11.11→11.10, Kotaku CDPR 11.12→11.11 UTC). 사진은 CDPR 한 장만 두고 나머지는 quote·stat. 인용(Kenney 글, Bilder 발언), 0.1% 미만·2027 IGF, 2019 뇌졸중·1만 줄·Respeecher·동의 확인.",
+    "sources": [
+      "PC Gamer — The AI posting war is heating up: 'Please, leave me behind,' says artist who got into it with Epic CEO Tim Sweeney on X (2026.11.06)",
+      "PC Gamer — Jackbox Games isn't interested in AI development: 'All that is done by people' (2026.11.08)",
+      "GamesIndustry.biz — House House clarifies use of AI tools in Big Walk's \"final stage of development\" (2026.11.10)",
+      "Kotaku — The Witcher 3 Devs Explain Using AI To Help With Geralt's Polish Voice In Songs Of The Past (2026.11.11)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 게임 · 11.06~11.11",
+      "thread": [
+        {
+          "d": "11.06",
+          "t": "X 설전",
+          "c": "#2ec5c5",
+          "s": "GAMES"
+        },
+        {
+          "d": "11.08",
+          "t": "안 쓴다",
+          "c": "#2ec5c5",
+          "s": "GAMES"
+        },
+        {
+          "d": "11.10",
+          "t": "0.1%",
+          "c": "#2ec5c5",
+          "s": "GAMES"
+        },
+        {
+          "d": "11.11",
+          "t": "동의 음성",
+          "c": "#2ec5c5",
+          "s": "GAMES"
+        }
+      ],
+      "thread_note": "게임사는 이제 AI를 어디에 썼는지, 안 썼는지 스스로 밝힌다",
+      "eyebrow": "흐름 · 게임",
+      "headline": "AI 썼나,\n이제 먼저 밝힌다",
+      "body": "따로 보면 업계 말다툼이다. 이어 보면 닷새 사이 스튜디오마다 AI를 어디에 썼고 안 썼는지 스스로 밝히고 있다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "quote",
+      "quote": "슬롭이 미래라고\n억만장자가 설득해도\n넘어가지 마세요",
+      "quote_by": "Kenney · X 게시글",
+      "eyebrow": "2026.11.06",
+      "headline": "Sweeney는 '헛소리'라 답했다",
+      "body": "Epic CEO Tim Sweeney가 맞받았다. AI 찬성 발언엔 거센 비판이 따라 다들 말을 아낀다고 그는 말했다.",
+      "foot": "2026.11.06",
+      "_src": "https://www.pcgamer.com/software/ai/the-ai-posting-war-is-heating-up-please-leave-me-behind-says-artist-who-got-into-it-with-epic-ceo-tim-sweeney-on-x/",
+      "_id": "kenney-sweeney-genai-clash"
+    },
+    {
+      "n": 3,
+      "kind": "quote",
+      "quote": "웃음도 글도 그림도\n사람이 만든다.\n바꿀 생각은 없다",
+      "quote_by": "Mike Bilder · Jackbox Games CEO",
+      "eyebrow": "2026.11.08",
+      "headline": "Jackbox, 사람이 만든다",
+      "body": "도구·리서치용 AI는 강력하다면서도, 생성 에셋으로 사람을 대신할 생각은 없다고 못 박았다.",
+      "foot": "2026.11.08",
+      "_src": "https://www.pcgamer.com/gaming-industry/game-development/jackbox-games-isnt-interested-in-ai-development-all-that-is-done-by-people-and-we-have-no-intention-of-changing-that/",
+      "_id": "jackbox-human-made-pledge"
+    },
+    {
+      "n": 4,
+      "kind": "stat",
+      "eyebrow": "2026.11.10",
+      "headline": "IGF 앞에서 쓴 곳을 밝혔다",
+      "body": "2027 IGF 심사위원 일부가 생성형 AI 게임엔 표를 안 주겠다고 하자 House House가 Big Walk의 사용처를 밝혔다.",
+      "foot": "2026.11.10",
+      "_src": "https://www.gamesindustry.biz/house-house-clarifies-use-of-ai-tools-in-big-walks-final-stage-of-development",
+      "_id": "househouse-bigwalk-igf-ai",
+      "stat_top": "LLM 답을 고쳐 쓴 코드",
+      "stat_arrow": "Big Walk 전체 코드 중",
+      "stat_bottom": "0.1% 훨씬 미만",
+      "stat_strike": false
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.11.11",
+      "headline": "동의받은 AI, 게롤트 목소리",
+      "body": "2019년 뇌졸중을 겪은 폴란드어 성우의 목소리를 1만 줄 넘는 옛 녹음으로 맞췄다. 본인 동의 아래서다.",
+      "foot": "2026.11.11",
+      "_src": "https://kotaku.com/the-witcher-3-devs-explain-using-ai-to-help-with-geralts-polish-voice-in-songs-of-the-past-this-is-one-of-those-ways-where-you-can-use-ai-ethically-2000756004",
+      "_id": "witcher3-geralt-polish-ai-voice",
+      "media": "pipeline/media/witcher3-geralt-polish-ai-voice.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

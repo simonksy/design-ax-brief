@@ -1,0 +1,113 @@
+{
+  "meta": {
+    "issue": "AI, 백지 대신 있는 곡을 고친다",
+    "date": "2026.11.12",
+    "section": "MUSIC",
+    "accent": "#eb367f",
+    "note": "원문 4건 대조: 날짜를 원문 게재일로 고침(ProCraft arXiv 11.08→11.05, VSL 11.11→11.09, NeuSynth 11.11→11.10, MusicFlux 11.12→11.10). 0.5B·30초·7작업·8악기·16명·16배, 60초·1~6층·4변주 확인. NeuSynth 사진은 11-11 story에 써서 stat로, 사진은 VSL 한 장만. 11-08·11-11 음악 trend(목소리 권리)와 겹치지 않게 다른 전선.",
+    "sources": [
+      "arXiv — ProCraft: Instruction-Driven Music Production from Free-Form Text (2026.11.05)",
+      "Sound On Sound — VSL introduce Vienna Performer (2026.11.09)",
+      "Monthly Mixing — NeuTone Launches NeuSynth, an AI Stem Generator (2026.11.10)",
+      "arXiv — MusicFlux: Flexible Conditioning for Text-Guided Music Generation and Editing (2026.11.10)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 음악 · 11.05~11.10",
+      "thread": [
+        {
+          "d": "11.05",
+          "t": "지시편집",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        },
+        {
+          "d": "11.09",
+          "t": "연주보정",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        },
+        {
+          "d": "11.10",
+          "t": "스템생성",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        },
+        {
+          "d": "11.10",
+          "t": "편집기",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        }
+      ],
+      "thread_note": "음악 AI가 새 곡을 짓기보다 이미 있는 곡을 고치는 쪽으로 옮겨 간다",
+      "eyebrow": "흐름 · 음악",
+      "headline": "AI, 백지 대신\n있는 곡을 고친다",
+      "body": "하나씩 보면 논문 한 편, 플러그인 하나다. 엿새 사이 나온 넷 모두 백지가 아니라 사용자의 곡에서 출발했다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "stat",
+      "eyebrow": "2026.11.05",
+      "headline": "문장 하나로\n믹스를 고친다",
+      "body": "0.5B 모델 ProCraft는 30초 음악을 자유 문장 지시대로 고친다. 일곱 가지 작업, 악기 여덟 종을 다룬다.",
+      "foot": "2026.11.05",
+      "_src": "https://arxiv.org/abs/2611.07423",
+      "_id": "procraft-instruction-music-edit",
+      "stat_top": "0.5B 파라미터",
+      "stat_arrow": "청취자 16명 평가, 추출 작업에서",
+      "stat_bottom": "16배 모델과 대등",
+      "stat_strike": false
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.11.09",
+      "headline": "음은 그대로,\n연주만 사람처럼",
+      "body": "VSL Vienna Performer는 사용자 MIDI의 음과 셈여림은 두고 프레이징·보잉·비브라토·타이밍만 다듬는다.",
+      "foot": "2026.11.09",
+      "_src": "https://www.soundonsound.com/news/vsl-introduce-vienna-performer",
+      "_id": "vsl-vienna-performer",
+      "media": "pipeline/media/vsl-vienna-performer.jpg"
+    },
+    {
+      "n": 4,
+      "kind": "stat",
+      "eyebrow": "2026.11.10",
+      "headline": "내 트랙에 맞춰\n새 악기 스템",
+      "body": "NeuSynth는 DAW에서 작업 중인 곡을 듣고 그에 맞는 악기 스템을 만든다. 한 번에 변주 네 벌이 나온다.",
+      "foot": "2026.11.10",
+      "_src": "https://mixing.co.kr/en/44340",
+      "_id": "neutone-neusynth-stems",
+      "stat_top": "입력 오디오 최대 60초",
+      "stat_arrow": "곡에 맞춰 새로 쌓는 층",
+      "stat_bottom": "악기 1~6개",
+      "stat_strike": false
+    },
+    {
+      "n": 5,
+      "kind": "quote",
+      "eyebrow": "2026.11.10",
+      "headline": "생성 모델을\n편집기로 바꾸다",
+      "body": "MusicFlux는 사전학습한 텍스트-오디오 모델을 텍스트로 음악을 고치는 편집기로 바꿨다. ICASSP 2027 투고작이다.",
+      "foot": "2026.11.10",
+      "_src": "https://arxiv.org/abs/2611.13834",
+      "_id": "musicflux-text-music-editing",
+      "quote": "음악 편집은 기존 녹음의\n원래 속성을 지키며 바꾸는 일",
+      "quote_by": "MusicFlux 논문 초록 · arXiv"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}
