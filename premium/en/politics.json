@@ -5865,6 +5865,152 @@
           "x": "Home affairs minister Tony Burke said: \"It should never be the case that there's an argument that someone didn't know the computer was loaded.\" OpenAI said it was reviewing the proposals and would \"continue to engage constructively\". Greens senator David Shoebridge called the announcement a \"capitulation\" to the AI industry, while the Coalition's Jonno Duniam said it backed the announcement."
         }
       ]
+    },
+    "politics/uk-norway-ai-intent-statement": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Kanishka Narayan, UK Minister for Artificial Intelligence, and Torgeir Micaelsen, Norwegian Minister for Digitalisation and Public Governance, met on the margins of the Atlantic Futures Forum (AFF) on 12th November and signed a joint statement of intent on AI in Oslo."
+        },
+        {
+          "t": "p",
+          "x": "The ministers expressed their intention to strengthen cooperation on artificial intelligence as a new area of bilateral cooperation building on the Norwegian-UK Strategic Partnership. They committed to explore collaboration in areas including:"
+        },
+        {
+          "t": "p",
+          "x": "Compute infrastructure and hardware integration, including semiconductors and novel AI hardware; closer cooperation between the UK’s Taskforce RAID and Norway’s Defence Centre for Data and AI on AI-enabled defence capabilities; sharing best practices on AI security, testing and evaluation between UK AISI and AI Norway; more complementary and interoperable international AI governance; AI research and innovation policy; and the convergence of AI with quantum technologies, biotechnology and robotics."
+        },
+        {
+          "t": "p",
+          "x": "The UK Department for Business, Innovation, Science and Trade and the Norwegian Ministry of Digitalisation and Public Governance will coordinate the work. The Statement expresses the intentions of the Participants and does not create rights or obligations under international or domestic law."
+        }
+      ]
+    },
+    "politics/bis-ai-chip-sea-license-rule": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img0.yna.co.kr/photo/etc/af/2026/11/10/PAF20261110169301009_P4.jpg",
+          "cap": "Megaspeed's office in Singapore [AFP=Yonhap News]"
+        },
+        {
+          "t": "p",
+          "x": "The U.S. Commerce Department is in the final stages of a new regulatory plan to stop Chinese artificial intelligence (AI) companies from remotely using advanced AI chips through data centers in third countries, IT outlet The Information reported on the 11th (local time)."
+        },
+        {
+          "t": "p",
+          "x": "Citing 2 sources, the outlet said the department's Bureau of Industry and Security (BIS) is seeking to extend existing semiconductor export control rules to 7 countries, including Singapore, Malaysia, Thailand, Indonesia, Brazil, Norway and South Africa. The sources said the new rules could be announced as early as this month."
+        },
+        {
+          "t": "p",
+          "x": "These countries would need export licenses to bring in Nvidia Blackwell-class or more advanced chips, would have to tell the Commerce Department who receives the chips and for what purpose, and would be subject to ongoing monitoring. Data centers run by U.S. companies in these countries, however, would be exempt from licensing on condition that they restrict remote access from arms-embargoed countries such as China and Russia, but would instead have to report matters such as whether they serve local customers and the scale of their computing."
+        },
+        {
+          "t": "p",
+          "x": "Such 'remote access' had been a key regulatory demand of China hawks, since it lets Chinese companies train AI models on advanced U.S. chips barred from export, mainly through Southeast Asian data centers. The Information noted that moving ahead with a policy Nvidia had lobbied against may reflect Nvidia's waning influence in U.S. politics."
+        },
+        {
+          "t": "p",
+          "x": "The Commerce Department also plans to formally scrap the Biden administration's 'AI Diffusion Rule.' In Congress, a push is under way to include 3 bills tightening AI semiconductor export controls in the National Defense Authorization Act (NDAA)."
+        }
+      ]
+    },
+    "politics/eu-ombudsman-snabe-ai-envoy": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/11/10/GettyImages-1246946570-scaled.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The EU’s watchdog is investigating whether the European Commission managed to “identify, assess and address” actual or potential conflicts of interest when it appointed the chairman of Siemens as Ursula von der Leyen’s AI envoy."
+        },
+        {
+          "t": "p",
+          "x": "A group of NGOs, including Transparency International and Corporate Europe Observatory, complained in June to the European Ombudsman about the choice of Jim Hagemann Snabe, warning that his ongoing role at Siemens “may compromise the envoy’s independence and impartiality.”"
+        },
+        {
+          "t": "p",
+          "x": "“I have decided to open an inquiry into this complaint,” Ombudsman Teresa Anjinho wrote, adding that it was necessary for the watchdog to inspect Commission documents, and possibly meet with “relevant Commission staff members.”"
+        },
+        {
+          "t": "p",
+          "x": "Siemens was one of the main proponents of exempting products covered by the EU’s machinery rules from the bloc’s flagship AI law. Snabe will serve in the unpaid role until the end of March 2027."
+        },
+        {
+          "t": "p",
+          "x": "The European Commission “will collaborate” with the probe, spokesperson Balazs Ujvari said, adding that the EU executive carried out a “thorough assessment prior to the appointment” and that “measures have been taken to ensure no conflict of interest.”"
+        }
+      ]
+    },
+    "politics/taiwan-cib-election-deepfakes": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.taipeitimes.com/images/2026/11/12/6af52f97d911a.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Police have investigated 219 cases nationwide involving election-related misinformation and deepfake videos, referring 176 people in 134 cases to prosecutors for further investigation, the Criminal Investigation Bureau (CIB) said yesterday."
+        },
+        {
+          "t": "p",
+          "x": "With the rapid development of content generated using artificial intelligence (AI), misinformation has evolved from text and images to highly realistic deepfake videos and audio, the bureau said. Such content can imitate candidates' voices and appearances to fabricate statements or events."
+        },
+        {
+          "t": "p",
+          "x": "Police have improved their technological investigative capabilities by using AI-based deepfake detection, digital forensics and online intelligence analysis to quickly verify suspected illegal content, collect evidence and trace its origins, it said."
+        },
+        {
+          "t": "p",
+          "x": "Candidates who discover deepfake content they suspect impersonates their voice or likeness can apply to the CIB for forensic authentication. Once confirmed, a request can be submitted through the Ministry of Digital Affairs' election AI deepfake reporting platform, and online platforms are required to restrict access to, remove or take down the content within two days."
+        },
+        {
+          "t": "p",
+          "x": "Anyone who disseminates or broadcasts deepfake videos or other content involving candidates faces a maximum prison sentence of seven years, the bureau said."
+        }
+      ]
+    },
+    "politics/bessent-uschina-ai-hotline": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img9.yna.co.kr/photo/ap/2026/10/25/PAP20261025202101009_P4.jpg",
+          "cap": "Trump (left) and Xi Jinping meeting in Beijing in May [AP=Yonhap file photo]"
+        },
+        {
+          "t": "p",
+          "x": "(Seoul=Yonhap News) Reporter Kim Yong-rae = U.S. Treasury Secretary Scott Bessent said on the 10th (local time) that the leaders of the U.S. and China will advance talks on artificial intelligence (AI)."
+        },
+        {
+          "t": "p",
+          "x": "According to Reuters, in the text of a speech that day to the National Committee on U.S.-China Relations in New York, Bessent said he wants to \"build a constructive relationship based on balance and reciprocity\" with China, and that a new bilateral dialogue on 'superintelligence' (superintelligence·SI) will advance at the U.S.-China summit to be held in Shenzhen, China, on the 18th and 19th on the occasion of the Asia-Pacific Economic Cooperation (APEC) summit."
+        },
+        {
+          "t": "p",
+          "x": "Superintelligence refers to a hypothetical AI that broadly surpasses human intellectual capabilities, and is the expression the Trump administration usually uses when referring to AI."
+        },
+        {
+          "t": "p",
+          "x": "Bessent said the dialogue is meant to help both countries prepare for common risks and \"to prevent misunderstandings between the two countries' systems,\" adding, \"We also expect to exchange views on best practices for evaluating and testing advanced AI models before their release, and on ways to ensure human judgment firmly controls this technology.\""
+        },
+        {
+          "t": "p",
+          "x": "He added that the two countries have agreed to establish a direct communication channel through which each can quickly notify the other in the event of a major incident."
+        },
+        {
+          "t": "p",
+          "x": "The U.S. and Chinese leaders agreed to build a new AI alert system at a White House summit in September. At the time, however, U.S. President Donald Trump had been reluctant to introduce new safeguards in order to maintain U.S. leadership in AI."
+        },
+        {
+          "t": "p",
+          "x": "Bessent stressed, \"As superintelligence advances, the need to manage risks in new domains will also grow,\" adding, \"The two countries must show how to reconcile the demands of competition with the responsibilities of leading nations.\""
+        },
+        {
+          "t": "p",
+          "x": "However, he said, \"The interests of the two countries are not always aligned, and likewise our approaches to every challenge cannot always be the same,\" highlighting differences in how the two countries view and approach AI development."
+        }
+      ]
     }
   }
 }

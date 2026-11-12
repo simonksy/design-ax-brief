@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "section": "games",
   "cards": [
     {
-      "id": "witcher3-geralt-polish-ai-voice",
+      "id": "gdc-state-industry-2026-genai",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "CD Projekt Red\nAI로 게롤트 목소리 조율",
-      "body": "뇌졸중 뒤 Songs of the Past 게롤트 음성을 동의받아 AI로 조율했다.",
-      "mini_headline": "AI로 게롤트 폴란드어 음성 조율",
+      "headline": "GDC 조사, 개발자\n40%가 생성형 AI 쓴다",
+      "body": "GDC 게임 업계 현황 보고서에서 개발자 40%가 생성형 AI를 쓴다고 답했다.",
+      "mini_headline": "GDC 개발자 40%\n생성형 AI 쓴다",
       "tool": "Games",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/the-witcher-3-devs-explain-using-ai-to-help-with-geralts-polish-voice-in-songs-of-the-past-this-is-one-of-those-ways-where-you-can-use-ai-ethically-2000756004",
+      "source": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/gdc-state-of-the-game-industry-report-40-of-developers-are-using-generative-ai-for-work",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
@@ -19,179 +19,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://kotaku.com/app/uploads/2026/11/geralt.jpg",
-            "cap": "CD Projekt Red"
+            "src": "https://assetsio.gnwcdn.com/state-of-the-game-industry-2026_SaCPvuv.png?width=1200&quality=85&format=jpg&auto=webp",
+            "cap": "GDC State of the Game Industry 2026 보고서"
           },
           {
             "t": "p",
-            "x": "The Witcher 3 폴란드어판에서 리비아의 게롤트(Geralt of Rivia)를 맡은 성우 Jacek Rozenek은 2019년 뇌졸중을 겪은 뒤 말하기가 어려워졌고 목소리도 달라졌다. CD Projekt Red는 곧 나올 확장팩 Songs of the Past에서 Rozenek의 새 연기를 2015년 출시판 연기와 맞추려고 AI를 쓰기로 했다."
+            "x": "Game Developers Conference(GDC)의 최신 State of the Game Industry 보고서를 보면 개발자 40%가 업무에 생성형 AI를 쓴다. 직전 보고서보다 4% 늘었으나 조사 프로젝트 책임자 Beth Elderkin은 증가 폭이 지난번보다 작다고 짚었다."
           },
           {
             "t": "p",
-            "x": "현지화 프로듀서 Mikołaj Szwed는 Game File에 “동의를 받아 윤리적으로 AI를 쓰면서 좋은 일도 할 수 있는 방식 가운데 하나라고 생각한다”고 했다."
+            "x": "이 기술을 쓰는 개발자 57%는 텍스트 생성, 리서치, 초기 프로토타이핑, 코딩, 프레젠테이션에 활용한다. 생성형 AI가 가장 많이 쓰이는 곳은 비즈니스 운영·서비스 부문, 모바일 전용 스튜디오, 부분 유료(free-to-play) 개발사다. AAA 업계 종사자 27%는 생성형 AI를 쓰라는 권유나 압박을 느낀다고 했고, 인디 개발자 쪽은 9%였다."
           },
           {
             "t": "p",
-            "x": "CDPR이 손잡은 곳은 우크라이나 AI 음성 복제 기업 Respeecher다. Respeecher는 한 사람이 남긴 기존 음성 작업으로 알고리즘을 학습시켜 새 연기를 원래 연기에 맞추는데, 배우 본인이나 유족이 동의해야만 작업한다. Rozenek이 원작에서 녹음한 대사는 10,000줄이 넘는다. Respeecher의 Dmytro Vasylets는 “가장 어려운 부분은 Jacek의 감정 폭이었다”고 말했다."
+            "x": "응답자 55%는 AI가 게임에 나쁜 영향을 준다고 답했다. 전년보다 1% 늘었다. Elderkin은 \"이제 사람들이 이 기술을 알게 됐고, 이론상의 문제가 아니라 현실이 됐기 때문이라고 본다. 그래서 어떻게 쓰고 싶은지, 아예 쓸지 말지를 스스로 안다\"고 말했다."
           },
           {
             "t": "p",
-            "x": "CDPR은 앞으로 이 알고리즘으로 Rozenek의 목소리를 바꿀 계획이 없다고 밝혔다. Rozenek도 자신의 AI 분신을 들어보지 않았다고 확인했다."
+            "x": "AI 말고도 응답자 33%가 최근 24개월 사이 해고를 겪었다. PC는 81%로 여전히 우위를 지켰고, Unreal은 35%, Unity는 28%였다. 개발자 86%는 한 주에 40시간 넘게 일한 적이 있다고 답했다. Elderkin은 올해 \"미래에 대한 많은 회복력과 희망\"을 본다고 했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "CD Projekt Red tuned Geralt's\nPolish voice with AI",
-          "body": "Geralt's Polish voice in Songs of the Past was tuned with AI, with consent, after the actor suffered a stroke.",
-          "mini_headline": "AI tunes Geralt's Polish voice",
+          "headline": "GDC survey: 40% of developers\nuse generative AI at work",
+          "body": "GDC's State of the Game Industry report finds 40% of developers using generative AI for their work.",
+          "mini_headline": "GDC: 40% of devs\nuse generative AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/11/geralt.jpg",
-                "cap": "CD Projekt Red"
+                "src": "https://assetsio.gnwcdn.com/state-of-the-game-industry-2026_SaCPvuv.png?width=1200&quality=85&format=jpg&auto=webp",
+                "cap": "GDC State of the Game Industry 2026"
               },
               {
                 "t": "p",
-                "x": "Voice actor Jacek Rozenek plays Geralt of Rivia in the Polish version of The Witcher 3, but in 2019 he suffered a stroke that made it hard to speak and changed his voice. For the upcoming Songs of the Past expansion, CD Projekt Red chose to turn to AI to help match Rozenek’s new performance with the one he did for the 2015 release."
+                "x": "40% of developers are using generative AI in their work, according to the latest State of the Game Industry report from the Game Developers Conference (GDC). That's an increase of 4% on the previous report, but survey project lead Beth Elderkin notes that this is a smaller increase than last time."
               },
               {
                 "t": "p",
-                "x": "“I do think this is one of those ways where you can use AI ethically, with consent and also to do something good,” localization producer Mikołaj Szwed told Game File."
+                "x": "57% of developers using the tech employ it for text generation, research, early prototyping, coding, and presentations. Generative AI is most popular with business operations and services, mobile-only studios, and free-to-play developers. 27% of AAA workers feel encouraged or pressured to use generative AI; 9% of indie developers say the same."
               },
               {
                 "t": "p",
-                "x": "CDPR worked with Ukrainian AI voice cloning firm Respeecher, which trains an algorithm on someone’s existing voice work to match new performances to the originals; actors, or their estates, have to consent. Rozenek recorded over 10,000 lines for the original game. “The hardest part was Jacek’s emotional range,” Respeecher’s Dmytro Vasylets said."
+                "x": "55% of respondents said that AI is having a negative impact on games, a 1% increase year-on-year. \"I think it's more that people just know the technology now, and it's an actuality instead of a theoretical issue, so they know how they want to use it or whether they want to use it at all,\" Elderkin says."
               },
               {
                 "t": "p",
-                "x": "CDPR said it wasn’t planning to use the algorithm to alter Rozenek’s voice in the future, and the actor confirmed he has not listened to his AI doppelganger."
+                "x": "Beyond AI, 33% of respondents have been laid off in the last 24 months. PC remains dominant at 81%, Unreal and Unity came in at 35% and 28%, and 86% of developers say they have worked over 40 hours in a week. Elderkin says that this year she is seeing \"a lot of resilience and hope in the future.\""
               }
             ]
           }
         },
         "ko": {
-          "headline": "CD Projekt Red\nAI로 게롤트 목소리 조율",
-          "body": "뇌졸중 뒤 Songs of the Past 게롤트 음성을 동의받아 AI로 조율했다.",
-          "mini_headline": "AI로 게롤트 폴란드어 음성 조율",
+          "headline": "GDC 조사, 개발자\n40%가 생성형 AI 쓴다",
+          "body": "GDC 게임 업계 현황 보고서에서 개발자 40%가 생성형 AI를 쓴다고 답했다.",
+          "mini_headline": "GDC 개발자 40%\n생성형 AI 쓴다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/11/geralt.jpg",
-                "cap": "CD Projekt Red"
+                "src": "https://assetsio.gnwcdn.com/state-of-the-game-industry-2026_SaCPvuv.png?width=1200&quality=85&format=jpg&auto=webp",
+                "cap": "GDC State of the Game Industry 2026 보고서"
               },
               {
                 "t": "p",
-                "x": "The Witcher 3 폴란드어판에서 리비아의 게롤트(Geralt of Rivia)를 맡은 성우 Jacek Rozenek은 2019년 뇌졸중을 겪은 뒤 말하기가 어려워졌고 목소리도 달라졌다. CD Projekt Red는 곧 나올 확장팩 Songs of the Past에서 Rozenek의 새 연기를 2015년 출시판 연기와 맞추려고 AI를 쓰기로 했다."
+                "x": "Game Developers Conference(GDC)의 최신 State of the Game Industry 보고서를 보면 개발자 40%가 업무에 생성형 AI를 쓴다. 직전 보고서보다 4% 늘었으나 조사 프로젝트 책임자 Beth Elderkin은 증가 폭이 지난번보다 작다고 짚었다."
               },
               {
                 "t": "p",
-                "x": "현지화 프로듀서 Mikołaj Szwed는 Game File에 “동의를 받아 윤리적으로 AI를 쓰면서 좋은 일도 할 수 있는 방식 가운데 하나라고 생각한다”고 했다."
+                "x": "이 기술을 쓰는 개발자 57%는 텍스트 생성, 리서치, 초기 프로토타이핑, 코딩, 프레젠테이션에 활용한다. 생성형 AI가 가장 많이 쓰이는 곳은 비즈니스 운영·서비스 부문, 모바일 전용 스튜디오, 부분 유료(free-to-play) 개발사다. AAA 업계 종사자 27%는 생성형 AI를 쓰라는 권유나 압박을 느낀다고 했고, 인디 개발자 쪽은 9%였다."
               },
               {
                 "t": "p",
-                "x": "CDPR이 손잡은 곳은 우크라이나 AI 음성 복제 기업 Respeecher다. Respeecher는 한 사람이 남긴 기존 음성 작업으로 알고리즘을 학습시켜 새 연기를 원래 연기에 맞추는데, 배우 본인이나 유족이 동의해야만 작업한다. Rozenek이 원작에서 녹음한 대사는 10,000줄이 넘는다. Respeecher의 Dmytro Vasylets는 “가장 어려운 부분은 Jacek의 감정 폭이었다”고 말했다."
+                "x": "응답자 55%는 AI가 게임에 나쁜 영향을 준다고 답했다. 전년보다 1% 늘었다. Elderkin은 \"이제 사람들이 이 기술을 알게 됐고, 이론상의 문제가 아니라 현실이 됐기 때문이라고 본다. 그래서 어떻게 쓰고 싶은지, 아예 쓸지 말지를 스스로 안다\"고 말했다."
               },
               {
                 "t": "p",
-                "x": "CDPR은 앞으로 이 알고리즘으로 Rozenek의 목소리를 바꿀 계획이 없다고 밝혔다. Rozenek도 자신의 AI 분신을 들어보지 않았다고 확인했다."
+                "x": "AI 말고도 응답자 33%가 최근 24개월 사이 해고를 겪었다. PC는 81%로 여전히 우위를 지켰고, Unreal은 35%, Unity는 28%였다. 개발자 86%는 한 주에 40시간 넘게 일한 적이 있다고 답했다. Elderkin은 올해 \"미래에 대한 많은 회복력과 희망\"을 본다고 했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "CD Projekt Red\nゲラルトの声をAIで調整",
-          "body": "Songs of the Pastのゲラルトの声は、脳卒中後に同意を得てAIで調整された。",
-          "mini_headline": "AIでゲラルトのポーランド語音声を調整",
+          "headline": "GDC調査：開発者の\n40%が生成AIを活用",
+          "body": "GDCのゲーム業界現状調査で、開発者の40%が業務に生成AIを使っていると分かった。",
+          "mini_headline": "GDC：開発者の40%が\n生成AIを活用",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/11/geralt.jpg",
-                "cap": "CD Projekt Red"
+                "src": "https://assetsio.gnwcdn.com/state-of-the-game-industry-2026_SaCPvuv.png?width=1200&quality=85&format=jpg&auto=webp",
+                "cap": "GDC State of the Game Industry 2026"
               },
               {
                 "t": "p",
-                "x": "声優Jacek Rozenekは『The Witcher 3』ポーランド語版でリヴィアのゲラルト(Geralt of Rivia)を演じているが、2019年に脳卒中を患い、話すことが難しくなり声も変わった。近く登場する拡張コンテンツSongs of the Pastに向け、CD Projekt RedはRozenekの新たな演技を2015年発売版での演技に合わせるため、AIの力を借りることにした。"
+                "x": "Game Developers Conference（GDC）の最新「State of the Game Industry」レポートによると、開発者の40%が仕事に生成AIを使っている。前回から4%の増加だが、調査プロジェクトリーダーのBeth Elderkinは、伸びは前回より小さいと指摘する。"
               },
               {
                 "t": "p",
-                "x": "「同意を得たうえで、倫理的に、しかも良いことのためにAIを使える方法の一つだと思う」と、ローカライズプロデューサーのMikołaj SzwedはGame Fileに語った。"
+                "x": "この技術を使う開発者の57%は、テキスト生成、リサーチ、初期のプロトタイピング、コーディング、プレゼンテーションに用いている。生成AIの利用が最も多いのは、ビジネス運営・サービス部門、モバイル専業スタジオ、基本プレイ無料（free-to-play）の開発者だ。AAAの従事者の27%が生成AIの利用を促されている、あるいは圧力を感じていると答え、インディー開発者では9%が同様に答えた。"
               },
               {
                 "t": "p",
-                "x": "CDPRはウクライナのAI音声クローン企業Respeecherと組んだ。同社は本人の既存の音声作品でアルゴリズムを学習させ、新しい演技を元の演技に合わせる。俳優本人またはその遺族の同意が必要だ。Rozenekはオリジナル版で10,000行を超えるセリフを収録した。「最も難しかったのはJacekの感情の幅だった」とRespeecherのDmytro Vasyletsは語った。"
+                "x": "回答者の55%がAIはゲームに悪影響を与えていると答え、前年から1%増えた。Elderkinは「人々がこの技術を知るようになり、理論上の問題ではなく現実になったということだと思う。だから、どう使いたいのか、そもそも使いたいのかが分かっている」と話す。"
               },
               {
                 "t": "p",
-                "x": "CDPRは今後このアルゴリズムでRozenekの声を変える予定はないとし、Rozenek本人も自身のAI分身を聴いていないと認めた。"
+                "x": "AI以外では、回答者の33%が過去24か月に解雇を経験している。PCは81%で依然として主流で、UnrealとUnityはそれぞれ35%と28%、開発者の86%が1週間に40時間を超えて働いたことがあると答えた。Elderkinは今年、「将来への多くの回復力と希望」を感じているという。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "CD Projekt Red\n用AI调校杰洛特波兰语配音",
-          "body": "演员中风后，Songs of the Past中杰洛特的波兰语配音经同意用AI调校。",
-          "mini_headline": "AI调校杰洛特波兰语配音",
+          "headline": "GDC调查：40%的开发者\n在工作中使用生成式AI",
+          "body": "GDC《游戏行业现状》报告显示，40%的开发者在工作中使用生成式AI。",
+          "mini_headline": "GDC：40%开发者\n使用生成式AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/11/geralt.jpg",
-                "cap": "CD Projekt Red"
+                "src": "https://assetsio.gnwcdn.com/state-of-the-game-industry-2026_SaCPvuv.png?width=1200&quality=85&format=jpg&auto=webp",
+                "cap": "GDC State of the Game Industry 2026"
               },
               {
                 "t": "p",
-                "x": "配音演员Jacek Rozenek在《The Witcher 3》波兰语版中为利维亚的杰洛特（Geralt of Rivia）配音，但他在2019年中风，说话变得困难，声音也随之改变。为即将推出的扩展内容Songs of the Past，CD Projekt Red决定借助AI，让Rozenek的新演出与他为2015年版本录制的演出相匹配。"
+                "x": "据游戏开发者大会（GDC）最新发布的《State of the Game Industry》报告，40%的开发者正在工作中使用生成式AI。这比上一份报告增加了4%，但调查项目负责人Beth Elderkin指出，这次的增幅小于上一次。"
               },
               {
                 "t": "p",
-                "x": "本地化制作人Mikołaj Szwed对Game File表示：“我确实认为，这是在征得同意的前提下合乎伦理地使用AI、同时用它做好事的方式之一。”"
+                "x": "使用该技术的开发者中，57%将其用于文本生成、资料研究、早期原型设计、编程和演示文稿。生成式AI在商业运营与服务、纯移动端工作室以及免费游戏（free-to-play）开发者中最受欢迎。27%的AAA从业者感到被鼓励或被迫使用生成式AI；独立开发者中这一比例为9%。"
               },
               {
                 "t": "p",
-                "x": "CDPR与乌克兰AI语音克隆公司Respeecher合作。该公司用某人已有的配音作品训练算法，使新演出与原版相匹配；必须获得演员本人或其遗产管理方的同意。Rozenek为原版游戏录制了超过10,000句台词。Respeecher的Dmytro Vasylets说：“最难的是Jacek的情感跨度。”"
+                "x": "55%的受访者表示AI正在对游戏产生负面影响，同比上升1%。Elderkin说：“我认为更多是因为人们现在已经了解这项技术，它已成为现实而非理论问题，所以他们知道自己想如何使用它，或者是否想用它。”"
               },
               {
                 "t": "p",
-                "x": "CDPR表示未来不打算用该算法改变Rozenek的声音，Rozenek本人也确认他没有听过自己的AI分身。"
+                "x": "除AI之外，33%的受访者在过去24个月内遭遇裁员。PC仍以81%占据主导，Unreal和Unity分别为35%和28%，86%的开发者表示曾一周工作超过40小时。Elderkin表示，今年她看到了“很多韧性和对未来的希望”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "CD Projekt Red ajustó con AI\nla voz polaca de Geralt",
-          "body": "La voz polaca de Geralt en Songs of the Past se ajustó con AI, con consentimiento, tras el ictus del actor.",
-          "mini_headline": "La AI ajusta la voz polaca de Geralt",
+          "headline": "GDC: 40% de desarrolladores\nusa IA generativa en su trabajo",
+          "body": "El informe State of the Game Industry de GDC indica que el 40% de los desarrolladores usa IA generativa en su trabajo.",
+          "mini_headline": "GDC: el 40% de devs\nusa IA generativa",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/11/geralt.jpg",
-                "cap": "CD Projekt Red"
+                "src": "https://assetsio.gnwcdn.com/state-of-the-game-industry-2026_SaCPvuv.png?width=1200&quality=85&format=jpg&auto=webp",
+                "cap": "GDC State of the Game Industry 2026"
               },
               {
                 "t": "p",
-                "x": "El actor de doblaje Jacek Rozenek interpreta a Geralt of Rivia en la versión polaca de The Witcher 3, pero en 2019 sufrió un ictus que le dificultó hablar y le cambió la voz. Para la próxima expansión Songs of the Past, CD Projekt Red decidió recurrir a la AI para ajustar la nueva interpretación de Rozenek a la que hizo para el lanzamiento de 2015."
+                "x": "El 40% de los desarrolladores usa IA generativa en su trabajo, según el último informe State of the Game Industry de la Game Developers Conference (GDC). Es un aumento del 4% respecto al informe anterior, aunque la responsable del proyecto de la encuesta, Beth Elderkin, señala que el incremento es menor que la vez pasada."
               },
               {
                 "t": "p",
-                "x": "“Creo que esta es una de esas formas en que se puede usar la AI de manera ética, con consentimiento y además para hacer algo bueno”, dijo a Game File el productor de localización Mikołaj Szwed."
+                "x": "El 57% de los desarrolladores que usan esta tecnología la emplean para generar texto, investigar, crear prototipos tempranos, programar y preparar presentaciones. La IA generativa es más popular en operaciones y servicios de negocio, en estudios exclusivamente móviles y entre desarrolladores free-to-play. El 27% de los trabajadores de AAA se siente animado o presionado a usar IA generativa; el 9% de los desarrolladores independientes dice lo mismo."
               },
               {
                 "t": "p",
-                "x": "CDPR trabajó con Respeecher, empresa ucraniana de clonación de voz con AI, que entrena un algoritmo con el trabajo vocal previo de una persona para ajustar nuevas interpretaciones a las originales; los actores, o sus herederos, deben dar su consentimiento. Rozenek grabó más de 10,000 líneas para el juego original. “Lo más difícil fue el rango emocional de Jacek”, dijo Dmytro Vasylets, de Respeecher."
+                "x": "El 55% de los encuestados afirmó que la IA tiene un impacto negativo en los videojuegos, un 1% más que el año anterior. \"Creo que se debe más a que la gente ya conoce la tecnología, y es una realidad en lugar de un problema teórico, así que sabe cómo quiere usarla o si quiere usarla en absoluto\", dice Elderkin."
               },
               {
                 "t": "p",
-                "x": "CDPR dijo que no planea usar el algoritmo para alterar la voz de Rozenek en el futuro, y el actor confirmó que no ha escuchado a su doble de AI."
+                "x": "Más allá de la IA, el 33% de los encuestados ha sido despedido en los últimos 24 meses. El PC sigue dominando con un 81%, Unreal y Unity alcanzan el 35% y el 28%, y el 86% de los desarrolladores dice haber trabajado más de 40 horas en una semana. Elderkin afirma que este año ve \"mucha resiliencia y esperanza en el futuro\"."
               }
             ]
           }
@@ -199,125 +199,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "CD Projekt Red\nAI로 게롤트 목소리 조율",
-          "body": "Songs of the Past 게롤트 음성은 뇌졸중 뒤 동의하에 AI로 조율됐다.",
-          "mini_headline": "AI로 게롤트 폴란드어 음성 조율",
+          "headline": "GDC 조사: 개발자의\n40%가 생성형 AI 활용",
+          "body": "GDC 게임 업계 현황 보고서에 따르면 개발자의 40%가 생성형 AI를 쓴다.",
+          "mini_headline": "GDC: 개발자 40%\n생성형 AI 활용",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/11/geralt.jpg",
-                "cap": "CD Projekt Red"
+                "src": "https://assetsio.gnwcdn.com/state-of-the-game-industry-2026_SaCPvuv.png?width=1200&quality=85&format=jpg&auto=webp",
+                "cap": "GDC State of the Game Industry 2026 보고서"
               },
               {
                 "t": "p",
-                "x": "성우 Jacek Rozenek은 The Witcher 3 폴란드어판에서 리비아의 게롤트(Geralt of Rivia)를 연기하지만, 2019년 뇌졸중을 겪으면서 말하기가 어려워졌고 목소리도 달라졌다. 곧 나올 확장팩 Songs of the Past를 위해 CD Projekt Red는 Rozenek의 새 연기를 2015년 출시판 연기와 맞추는 데 AI의 도움을 받기로 했다."
+                "x": "Game Developers Conference(GDC)의 최신 State of the Game Industry 보고서에 따르면 개발자의 40%가 업무에 생성형 AI를 쓰고 있다. 직전 보고서보다 4% 늘었지만, 조사 프로젝트 책임자 Beth Elderkin은 증가 폭이 지난번보다 작다고 짚었다."
               },
               {
                 "t": "p",
-                "x": "현지화 프로듀서 Mikołaj Szwed는 Game File에 “동의를 받아 윤리적으로 AI를 쓰면서 좋은 일도 할 수 있는 방식 가운데 하나라고 생각한다”고 말했다."
+                "x": "이 기술을 쓰는 개발자의 57%는 텍스트 생성, 리서치, 초기 프로토타이핑, 코딩, 프레젠테이션에 활용한다. 생성형 AI는 비즈니스 운영·서비스 부문, 모바일 전용 스튜디오, 부분 유료(free-to-play) 개발사에서 가장 많이 쓰인다. AAA 업계 종사자의 27%는 생성형 AI 사용을 권유받거나 압박받는다고 느끼며, 인디 개발자는 9%가 같은 답을 했다."
               },
               {
                 "t": "p",
-                "x": "CDPR은 우크라이나 AI 음성 복제 기업 Respeecher와 협업했다. Respeecher는 한 사람의 기존 음성 작업으로 알고리즘을 학습시켜 새 연기를 원래 연기에 맞추며, 배우 본인이나 유족의 동의가 있어야 한다. Rozenek은 원작에서 10,000줄이 넘는 대사를 녹음했다. Respeecher의 Dmytro Vasylets는 “가장 어려운 부분은 Jacek의 감정 폭이었다”고 말했다."
+                "x": "응답자의 55%는 AI가 게임에 부정적인 영향을 미치고 있다고 답했고, 이는 전년보다 1% 늘어난 수치다. Elderkin은 \"이제 사람들이 이 기술을 알게 됐고, 이론상의 문제가 아니라 현실이 됐기 때문이라고 본다. 그래서 어떻게 쓰고 싶은지, 아예 쓸지 말지를 스스로 안다\"고 말했다."
               },
               {
                 "t": "p",
-                "x": "CDPR은 앞으로 이 알고리즘으로 Rozenek의 목소리를 바꿀 계획은 없다고 밝혔고, Rozenek도 자신의 AI 분신을 들어보지 않았다고 확인했다."
+                "x": "AI 외에도 응답자의 33%는 최근 24개월 사이 해고를 겪었다. PC는 81%로 여전히 우위를 지켰고, Unreal과 Unity는 각각 35%와 28%였으며, 개발자의 86%는 한 주에 40시간 넘게 일한 적이 있다고 답했다. Elderkin은 올해 \"미래에 대한 많은 회복력과 희망\"을 보고 있다고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "CD Projekt Red\nゲラルトの声をAIで調整",
-          "body": "Songs of the Pastのゲラルトの声は、脳卒中後に同意を得てAIで調整された。",
-          "mini_headline": "AIでゲラルトのポーランド語音声を調整",
+          "headline": "GDC調査：開発者の\n40%が生成AIを活用",
+          "body": "GDCのゲーム業界現状調査で、開発者の40%が業務に生成AIを使っていると分かった。",
+          "mini_headline": "GDC：開発者の40%が\n生成AIを活用",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/11/geralt.jpg",
-                "cap": "CD Projekt Red"
+                "src": "https://assetsio.gnwcdn.com/state-of-the-game-industry-2026_SaCPvuv.png?width=1200&quality=85&format=jpg&auto=webp",
+                "cap": "GDC State of the Game Industry 2026"
               },
               {
                 "t": "p",
-                "x": "声優Jacek Rozenekは『The Witcher 3』ポーランド語版でリヴィアのゲラルト(Geralt of Rivia)を演じているが、2019年に脳卒中を患い、話すことが難しくなり声も変わった。近く登場する拡張コンテンツSongs of the Pastに向け、CD Projekt RedはRozenekの新たな演技を2015年発売版での演技に合わせるため、AIの力を借りることにした。"
+                "x": "Game Developers Conference（GDC）の最新「State of the Game Industry」レポートによると、開発者の40%が仕事に生成AIを使っている。前回から4%の増加だが、調査プロジェクトリーダーのBeth Elderkinは、伸びは前回より小さいと指摘する。"
               },
               {
                 "t": "p",
-                "x": "「同意を得たうえで、倫理的に、しかも良いことのためにAIを使える方法の一つだと思う」と、ローカライズプロデューサーのMikołaj SzwedはGame Fileに語った。"
+                "x": "この技術を使う開発者の57%は、テキスト生成、リサーチ、初期のプロトタイピング、コーディング、プレゼンテーションに用いている。生成AIの利用が最も多いのは、ビジネス運営・サービス部門、モバイル専業スタジオ、基本プレイ無料（free-to-play）の開発者だ。AAAの従事者の27%が生成AIの利用を促されている、あるいは圧力を感じていると答え、インディー開発者では9%が同様に答えた。"
               },
               {
                 "t": "p",
-                "x": "CDPRはウクライナのAI音声クローン企業Respeecherと組んだ。同社は本人の既存の音声作品でアルゴリズムを学習させ、新しい演技を元の演技に合わせる。俳優本人またはその遺族の同意が必要だ。Rozenekはオリジナル版で10,000行を超えるセリフを収録した。「最も難しかったのはJacekの感情の幅だった」とRespeecherのDmytro Vasyletsは語った。"
+                "x": "回答者の55%がAIはゲームに悪影響を与えていると答え、前年から1%増えた。Elderkinは「人々がこの技術を知るようになり、理論上の問題ではなく現実になったということだと思う。だから、どう使いたいのか、そもそも使いたいのかが分かっている」と話す。"
               },
               {
                 "t": "p",
-                "x": "CDPRは今後このアルゴリズムでRozenekの声を変える予定はないとし、Rozenek本人も自身のAI分身を聴いていないと認めた。"
+                "x": "AI以外では、回答者の33%が過去24か月に解雇を経験している。PCは81%で依然として主流で、UnrealとUnityはそれぞれ35%と28%、開発者の86%が1週間に40時間を超えて働いたことがあると答えた。Elderkinは今年、「将来への多くの回復力と希望」を感じているという。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "CD Projekt Red\n用AI调校杰洛特波兰语配音",
-          "body": "演员中风后，Songs of the Past中杰洛特的波兰语配音经同意用AI调校。",
-          "mini_headline": "AI调校杰洛特波兰语配音",
+          "headline": "GDC调查：40%的开发者\n在工作中使用生成式AI",
+          "body": "GDC《游戏行业现状》报告显示，40%的开发者在工作中使用生成式AI。",
+          "mini_headline": "GDC：40%开发者\n使用生成式AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/11/geralt.jpg",
-                "cap": "CD Projekt Red"
+                "src": "https://assetsio.gnwcdn.com/state-of-the-game-industry-2026_SaCPvuv.png?width=1200&quality=85&format=jpg&auto=webp",
+                "cap": "GDC State of the Game Industry 2026"
               },
               {
                 "t": "p",
-                "x": "配音演员Jacek Rozenek在《The Witcher 3》波兰语版中为利维亚的杰洛特（Geralt of Rivia）配音，但他在2019年中风，说话变得困难，声音也随之改变。为即将推出的扩展内容Songs of the Past，CD Projekt Red决定借助AI，让Rozenek的新演出与他为2015年版本录制的演出相匹配。"
+                "x": "据游戏开发者大会（GDC）最新发布的《State of the Game Industry》报告，40%的开发者正在工作中使用生成式AI。这比上一份报告增加了4%，但调查项目负责人Beth Elderkin指出，这次的增幅小于上一次。"
               },
               {
                 "t": "p",
-                "x": "本地化制作人Mikołaj Szwed对Game File表示：“我确实认为，这是在征得同意的前提下合乎伦理地使用AI、同时用它做好事的方式之一。”"
+                "x": "使用该技术的开发者中，57%将其用于文本生成、资料研究、早期原型设计、编程和演示文稿。生成式AI在商业运营与服务、纯移动端工作室以及免费游戏（free-to-play）开发者中最受欢迎。27%的AAA从业者感到被鼓励或被迫使用生成式AI；独立开发者中这一比例为9%。"
               },
               {
                 "t": "p",
-                "x": "CDPR与乌克兰AI语音克隆公司Respeecher合作。该公司用某人已有的配音作品训练算法，使新演出与原版相匹配；必须获得演员本人或其遗产管理方的同意。Rozenek为原版游戏录制了超过10,000句台词。Respeecher的Dmytro Vasylets说：“最难的是Jacek的情感跨度。”"
+                "x": "55%的受访者表示AI正在对游戏产生负面影响，同比上升1%。Elderkin说：“我认为更多是因为人们现在已经了解这项技术，它已成为现实而非理论问题，所以他们知道自己想如何使用它，或者是否想用它。”"
               },
               {
                 "t": "p",
-                "x": "CDPR表示未来不打算用该算法改变Rozenek的声音，Rozenek本人也确认他没有听过自己的AI分身。"
+                "x": "除AI之外，33%的受访者在过去24个月内遭遇裁员。PC仍以81%占据主导，Unreal和Unity分别为35%和28%，86%的开发者表示曾一周工作超过40小时。Elderkin表示，今年她看到了“很多韧性和对未来的希望”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "CD Projekt Red ajustó con AI\nla voz polaca de Geralt",
-          "body": "La voz polaca de Geralt en Songs of the Past se ajustó con AI, con consentimiento, tras el ictus del actor.",
-          "mini_headline": "La AI ajusta la voz polaca de Geralt",
+          "headline": "GDC: 40% de desarrolladores\nusa IA generativa en su trabajo",
+          "body": "El informe State of the Game Industry de GDC indica que el 40% de los desarrolladores usa IA generativa en su trabajo.",
+          "mini_headline": "GDC: el 40% de devs\nusa IA generativa",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/11/geralt.jpg",
-                "cap": "CD Projekt Red"
+                "src": "https://assetsio.gnwcdn.com/state-of-the-game-industry-2026_SaCPvuv.png?width=1200&quality=85&format=jpg&auto=webp",
+                "cap": "GDC State of the Game Industry 2026"
               },
               {
                 "t": "p",
-                "x": "El actor de doblaje Jacek Rozenek interpreta a Geralt of Rivia en la versión polaca de The Witcher 3, pero en 2019 sufrió un ictus que le dificultó hablar y le cambió la voz. Para la próxima expansión Songs of the Past, CD Projekt Red decidió recurrir a la AI para ajustar la nueva interpretación de Rozenek a la que hizo para el lanzamiento de 2015."
+                "x": "El 40% de los desarrolladores usa IA generativa en su trabajo, según el último informe State of the Game Industry de la Game Developers Conference (GDC). Es un aumento del 4% respecto al informe anterior, aunque la responsable del proyecto de la encuesta, Beth Elderkin, señala que el incremento es menor que la vez pasada."
               },
               {
                 "t": "p",
-                "x": "“Creo que esta es una de esas formas en que se puede usar la AI de manera ética, con consentimiento y además para hacer algo bueno”, dijo a Game File el productor de localización Mikołaj Szwed."
+                "x": "El 57% de los desarrolladores que usan esta tecnología la emplean para generar texto, investigar, crear prototipos tempranos, programar y preparar presentaciones. La IA generativa es más popular en operaciones y servicios de negocio, en estudios exclusivamente móviles y entre desarrolladores free-to-play. El 27% de los trabajadores de AAA se siente animado o presionado a usar IA generativa; el 9% de los desarrolladores independientes dice lo mismo."
               },
               {
                 "t": "p",
-                "x": "CDPR trabajó con Respeecher, empresa ucraniana de clonación de voz con AI, que entrena un algoritmo con el trabajo vocal previo de una persona para ajustar nuevas interpretaciones a las originales; los actores, o sus herederos, deben dar su consentimiento. Rozenek grabó más de 10,000 líneas para el juego original. “Lo más difícil fue el rango emocional de Jacek”, dijo Dmytro Vasylets, de Respeecher."
+                "x": "El 55% de los encuestados afirmó que la IA tiene un impacto negativo en los videojuegos, un 1% más que el año anterior. \"Creo que se debe más a que la gente ya conoce la tecnología, y es una realidad en lugar de un problema teórico, así que sabe cómo quiere usarla o si quiere usarla en absoluto\", dice Elderkin."
               },
               {
                 "t": "p",
-                "x": "CDPR dijo que no planea usar el algoritmo para alterar la voz de Rozenek en el futuro, y el actor confirmó que no ha escuchado a su doble de AI."
+                "x": "Más allá de la IA, el 33% de los encuestados ha sido despedido en los últimos 24 meses. El PC sigue dominando con un 81%, Unreal y Unity alcanzan el 35% y el 28%, y el 86% de los desarrolladores dice haber trabajado más de 40 horas en una semana. Elderkin afirma que este año ve \"mucha resiliencia y esperanza en el futuro\"."
               }
             ]
           }
@@ -325,249 +325,261 @@
       }
     },
     {
-      "id": "tripo-tripothon-3d-hackathon",
+      "id": "tencent-ai-gaming-companions",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Tripo AI 해커톤\n2,000+팀 3D 월드",
-      "body": "78개국·지역의 2,000여 팀이 Tripo 3D 도구로 게임·VR·펫을 만들었다.",
-      "mini_headline": "Tripo AI의 3D-world 해커톤",
+      "headline": "Tencent가 내놓은\n플레이 보는 AI 동반자",
+      "body": "Tencent가 게임 플레이를 보며 조언하는 애니풍 AI 동반자 넷을 내놨다.",
+      "mini_headline": "Tencent의\nAI 게임 동반자",
       "tool": "Games",
       "source": "80 Level",
-      "url": "https://80.lv/articles/creators-developed-playable-worlds-vr-games-digital-pets-for-tripo-ai-s-first-3d-world-hackathon",
+      "url": "https://80.lv/articles/tencent-launches-ai-gaming-companions-that-watch-you-play-offer-advice/",
       "accent": "#0070f3",
       "motif": "cube",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.80.lv/api/upload/content/59/6aebbb95ac365.jpg",
-            "cap": "Tripothon S1"
+            "src": "https://cdn.80.lv/api/upload/content/b9/images/6af5c6c9f3f7f/widen_1840x0.jpg"
           },
           {
             "t": "p",
-            "x": "Tripo AI의 첫 글로벌 월드 빌딩 해커톤 Tripothon S1에 78개 국가·지역에서 2,000개 넘는 팀이 등록했다. 부문은 게임, 영화·VFX, VR/XR/AR, 애플리케이션, 피지컬 디자인 다섯 개였다. 대회는 2026년 9월 15일부터 10월 20일까지 “A Gift for ___”를 주제로 열렸고, 참가자들은 Tripo의 3D-native 파운데이션 모델과 Tripo API를 썼다."
-          },
-          {
-            "t": "video",
-            "yt": "o46nONohM9s"
+            "x": "솔직히 타이밍은 좀 우습지만 개념 자체는 새롭지 않다. 중국 빅테크 Tencent보다 먼저 Razer가 AVA를 선보였다. AVA에서는 작은 홀로그램 AI 동반자 여럿 가운데 하나를 고르는데, 업무든 게임이든 일상에 녹아들도록 설계됐다."
           },
           {
             "t": "p",
-            "x": "San Francisco 행사에는 60개 가까운 팀과 800명 넘는 참가자가 모였다. 팀은 대부분 한 명에서 세 명이었다. 이곳 준우승작은 Dulce Baerga의 Dear Little Me로, 아이들이 그린 그림을 인터랙티브 3D 장난감으로 바꿔 주는 WebXR 앱이다."
+            "x": "Tencent의 새 데스크톱 앱 Eciyuan은 게이머가 대상이다. AI 동반자 네 명이 게임 플레이를 지켜보며 해볼 만한 행동을 제안하고, 원하면 언제든 대화도 나눌 수 있다. 네 소녀는 저마다 성격과 배경, 관심사, 목소리 샘플이 있다. 이를테면 Shen Lubai는 Valorant, League of Legends, Counter-Strike 같은 게임을 즐기는 24세 e스포츠 해설가 지망생이다. Xia Xia는 저널리즘·커뮤니케이션 전공 학생이고 Guiyu는 요리사로 보이며, Bella는 서핑에 푹 빠져 있다."
+          },
+          {
+            "t": "p",
+            "x": "Eciyuan 동반자와는 모바일에서도 대화를 이어갈 수 있는 듯하다. 작은 캐릭터로 데스크톱에 띄워 두거나 의상에 맞춘 배경화면을 설정하는 기능도 있어 보인다."
           },
           {
             "t": "img",
-            "src": "https://cdn.80.lv/api/upload/content/ba/6aebbbda932bc.jpg",
-            "cap": "Halls of History: The Veiled Study"
+            "src": "https://cdn.80.lv/api/upload/content/75/images/6af5c4663e8b4/widen_1840x0.jpg"
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.80.lv/api/upload/content/11/images/6af5c46aeedbb/widen_1840x0.jpg"
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.80.lv/api/upload/content/12/images/6af5c4724c758/widen_1840x0.jpg"
           },
           {
             "t": "p",
-            "x": "San Francisco 최고상은 Annette Lapham의 대화형 미스터리 게임 Halls of History: The Veiled Study가 받았다. 플레이어가 찾아야 할 고유한 유물을 Tripo API가 만들어 낸다. Aspirium의 Gemtronic은 스마트 링 안에 디지털 펫을 담았다."
-          },
-          {
-            "t": "p",
-            "x": "글로벌 대회 전체 우승은 삼인칭 서바이벌 슈터 Somehow Still Alive에 돌아갔다."
+            "x": "Eciyuan과 AI 동반자 정보는 아직 아주 적고, 글로벌 출시 소식도 없다. 이 소녀들이 실제 경기에서 쓸 만한 조언을 해 줄지는 두고 볼 일이다. 베타는 현재 중국에서만 쓸 수 있다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "2,000+ teams built 3D worlds\nin Tripo AI's hackathon",
-          "body": "Over 2,000 teams from 78 countries and regions built playable worlds, VR games and digital pets with Tripo's 3D tools.",
-          "mini_headline": "Tripo AI's 3D-world hackathon",
+          "headline": "Tencent launches AI gaming\ncompanions that watch you play",
+          "body": "Tencent has launched four anime-style AI companions that watch gamers play and offer them advice.",
+          "mini_headline": "Tencent's AI\ngaming companions",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/59/6aebbb95ac365.jpg",
-                "cap": "Tripothon S1"
+                "src": "https://cdn.80.lv/api/upload/content/b9/images/6af5c6c9f3f7f/widen_1840x0.jpg"
               },
               {
                 "t": "p",
-                "x": "Tripothon S1, the first global world-building hackathon hosted by Tripo AI, drew more than 2,000 registered teams from 78 countries and regions across five categories: games, film and VFX, VR/XR/AR, applications, and physical design. It ran from September 15 through October 20, 2026, around the theme “A Gift for ___,” using Tripo's 3D-native foundation models and Tripo API."
-              },
-              {
-                "t": "video",
-                "yt": "o46nONohM9s"
+                "x": "The timing of this news is honestly quite comical, though the concept itself is nothing new. Before the Chinese tech giant Tencent, Razer had already introduced AVA, which lets users choose from several tiny holographic AI companions designed to become part of their everyday lives, whether for work or gaming."
               },
               {
                 "t": "p",
-                "x": "The San Francisco event brought together nearly 60 teams and more than 800 attendees; most teams had only one to three people. Second place there went to Dulce Baerga’s Dear Little Me, a WebXR app that turns children’s drawings into interactive 3D playthings."
+                "x": "Eciyuan, Tencent's new desktop app, is aimed at gamers and features four AI companions that watch your gameplay and suggest possible actions, and you can also chat with them whenever you feel like it. Each of the four girls has her own personality, background, personality, interests, and voice samples. For example, Shen Lubai is a 24-year-old aspiring esports commentator who enjoys games like Valorant, League of Legends, and Counter-Strike. Xia Xia is a Journalism and Communications student, while Guiyu seems to be a cook, and Bella is really into surfing."
+              },
+              {
+                "t": "p",
+                "x": "Apparently, you can continue chatting with your Eciyuan companions on mobile and can even have them hang out on your desktop as little characters or set wallpapers that match their outfits."
               },
               {
                 "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/ba/6aebbbda932bc.jpg",
-                "cap": "Halls of History: The Veiled Study"
+                "src": "https://cdn.80.lv/api/upload/content/75/images/6af5c4663e8b4/widen_1840x0.jpg"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.80.lv/api/upload/content/11/images/6af5c46aeedbb/widen_1840x0.jpg"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.80.lv/api/upload/content/12/images/6af5c4724c758/widen_1840x0.jpg"
               },
               {
                 "t": "p",
-                "x": "The top San Francisco prize went to Annette Lapham's Halls of History: The Veiled Study, a conversational mystery game in which the Tripo API generates unique artifacts for players to hunt. Gemtronic by Aspirium put a digital pet inside a smart ring."
-              },
-              {
-                "t": "p",
-                "x": "Across the global competition, first place went to Somehow Still Alive, a third-person survival shooter."
+                "x": "There's still very little information available about Eciyuan and its AI companions, and there's no word on a global release just yet. We'll have to see if the girls can actually offer useful advice during real matches. For now, the beta is only available in China."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Tripo AI 해커톤\n2,000+팀 3D 월드",
-          "body": "78개국·지역의 2,000여 팀이 Tripo 3D 도구로 게임·VR·펫을 만들었다.",
-          "mini_headline": "Tripo AI의 3D-world 해커톤",
+          "headline": "Tencent가 내놓은\n플레이 보는 AI 동반자",
+          "body": "Tencent가 게임 플레이를 보며 조언하는 애니풍 AI 동반자 넷을 내놨다.",
+          "mini_headline": "Tencent의\nAI 게임 동반자",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/59/6aebbb95ac365.jpg",
-                "cap": "Tripothon S1"
+                "src": "https://cdn.80.lv/api/upload/content/b9/images/6af5c6c9f3f7f/widen_1840x0.jpg"
               },
               {
                 "t": "p",
-                "x": "Tripo AI의 첫 글로벌 월드 빌딩 해커톤 Tripothon S1에 78개 국가·지역에서 2,000개 넘는 팀이 등록했다. 부문은 게임, 영화·VFX, VR/XR/AR, 애플리케이션, 피지컬 디자인 다섯 개였다. 대회는 2026년 9월 15일부터 10월 20일까지 “A Gift for ___”를 주제로 열렸고, 참가자들은 Tripo의 3D-native 파운데이션 모델과 Tripo API를 썼다."
-              },
-              {
-                "t": "video",
-                "yt": "o46nONohM9s"
+                "x": "솔직히 타이밍은 좀 우습지만 개념 자체는 새롭지 않다. 중국 빅테크 Tencent보다 먼저 Razer가 AVA를 선보였다. AVA에서는 작은 홀로그램 AI 동반자 여럿 가운데 하나를 고르는데, 업무든 게임이든 일상에 녹아들도록 설계됐다."
               },
               {
                 "t": "p",
-                "x": "San Francisco 행사에는 60개 가까운 팀과 800명 넘는 참가자가 모였다. 팀은 대부분 한 명에서 세 명이었다. 이곳 준우승작은 Dulce Baerga의 Dear Little Me로, 아이들이 그린 그림을 인터랙티브 3D 장난감으로 바꿔 주는 WebXR 앱이다."
+                "x": "Tencent의 새 데스크톱 앱 Eciyuan은 게이머가 대상이다. AI 동반자 네 명이 게임 플레이를 지켜보며 해볼 만한 행동을 제안하고, 원하면 언제든 대화도 나눌 수 있다. 네 소녀는 저마다 성격과 배경, 관심사, 목소리 샘플이 있다. 이를테면 Shen Lubai는 Valorant, League of Legends, Counter-Strike 같은 게임을 즐기는 24세 e스포츠 해설가 지망생이다. Xia Xia는 저널리즘·커뮤니케이션 전공 학생이고 Guiyu는 요리사로 보이며, Bella는 서핑에 푹 빠져 있다."
+              },
+              {
+                "t": "p",
+                "x": "Eciyuan 동반자와는 모바일에서도 대화를 이어갈 수 있는 듯하다. 작은 캐릭터로 데스크톱에 띄워 두거나 의상에 맞춘 배경화면을 설정하는 기능도 있어 보인다."
               },
               {
                 "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/ba/6aebbbda932bc.jpg",
-                "cap": "Halls of History: The Veiled Study"
+                "src": "https://cdn.80.lv/api/upload/content/75/images/6af5c4663e8b4/widen_1840x0.jpg"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.80.lv/api/upload/content/11/images/6af5c46aeedbb/widen_1840x0.jpg"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.80.lv/api/upload/content/12/images/6af5c4724c758/widen_1840x0.jpg"
               },
               {
                 "t": "p",
-                "x": "San Francisco 최고상은 Annette Lapham의 대화형 미스터리 게임 Halls of History: The Veiled Study가 받았다. 플레이어가 찾아야 할 고유한 유물을 Tripo API가 만들어 낸다. Aspirium의 Gemtronic은 스마트 링 안에 디지털 펫을 담았다."
-              },
-              {
-                "t": "p",
-                "x": "글로벌 대회 전체 우승은 삼인칭 서바이벌 슈터 Somehow Still Alive에 돌아갔다."
+                "x": "Eciyuan과 AI 동반자 정보는 아직 아주 적고, 글로벌 출시 소식도 없다. 이 소녀들이 실제 경기에서 쓸 만한 조언을 해 줄지는 두고 볼 일이다. 베타는 현재 중국에서만 쓸 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Tripo AIハッカソン\n2,000+チームが3D世界",
-          "body": "78の国・地域の2,000超のチームがTripoの3DツールでVRゲームやペットを作った。",
-          "mini_headline": "Tripo AIの3D-worldハッカソン",
+          "headline": "Tencent、ゲームを\n見守るAI相棒を投入",
+          "body": "Tencentが、ゲーマーのプレイを見て助言するアニメ風AIコンパニオン4人を投入した。",
+          "mini_headline": "TencentのAI\nゲーム相棒",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/59/6aebbb95ac365.jpg",
-                "cap": "Tripothon S1"
+                "src": "https://cdn.80.lv/api/upload/content/b9/images/6af5c6c9f3f7f/widen_1840x0.jpg"
               },
               {
                 "t": "p",
-                "x": "Tripo AIが主催した初のグローバルなワールドビルディング・ハッカソンTripothon S1には、78の国と地域から2,000を超えるチームが登録した。部門はゲーム、映画・VFX、VR/XR/AR、アプリケーション、フィジカルデザインの五つである。2026年9月15日から10月20日まで「A Gift for ___」をテーマに開かれ、Tripoの3D-native基盤モデルとTripo APIが使われた。"
-              },
-              {
-                "t": "video",
-                "yt": "o46nONohM9s"
+                "x": "正直なところ、このニュースのタイミングはかなり滑稽だが、コンセプト自体は目新しいものではない。中国のテック大手Tencentより先に、RazerがすでにAVAを発表している。AVAでは、仕事でもゲームでも日常の一部になるよう設計された、小さなホログラムのAIコンパニオン数体から好きなものを選べる。"
               },
               {
                 "t": "p",
-                "x": "San Francisco会場には60近いチームと800人を超える参加者が集まり、ほとんどのチームは一人から三人だった。同会場の準優勝はDulce BaergaのDear Little Meで、子どもの絵をインタラクティブな3Dのおもちゃに変えるWebXRアプリだ。"
+                "x": "Tencentの新しいデスクトップアプリEciyuanはゲーマー向けで、プレイを見守って取れる行動を提案する4人のAIコンパニオンを備え、好きなときに会話もできる。4人の少女はそれぞれ独自の性格、経歴、趣味、ボイスサンプルを持つ。たとえばShen Lubaiは、Valorant、League of Legends、Counter-Strikeなどを好む24歳のeスポーツ実況者志望だ。Xia Xiaはジャーナリズム・コミュニケーション専攻の学生、Guiyuは料理人らしく、Bellaはサーフィンに夢中だ。"
+              },
+              {
+                "t": "p",
+                "x": "Eciyuanのコンパニオンとはモバイルでも会話を続けられ、小さなキャラクターとしてデスクトップに置いたり、衣装に合わせた壁紙を設定したりもできるようだ。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/ba/6aebbbda932bc.jpg",
-                "cap": "Halls of History: The Veiled Study"
+                "src": "https://cdn.80.lv/api/upload/content/75/images/6af5c4663e8b4/widen_1840x0.jpg"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.80.lv/api/upload/content/11/images/6af5c46aeedbb/widen_1840x0.jpg"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.80.lv/api/upload/content/12/images/6af5c4724c758/widen_1840x0.jpg"
               },
               {
                 "t": "p",
-                "x": "San Francisco会場の最高賞はAnnette LaphamのHalls of History: The Veiled Studyが獲得した。会話型のミステリーゲームで、プレイヤーが探す固有のアーティファクトをTripo APIが生成する。AspiriumのGemtronicはスマートリングの中にデジタルペットを入れた。"
-              },
-              {
-                "t": "p",
-                "x": "グローバル大会全体の優勝は、三人称サバイバルシューターのSomehow Still Aliveだった。"
+                "x": "EciyuanとそのAIコンパニオンに関する情報はまだごく少なく、グローバル展開についての発表もまだない。実際の試合で彼女たちが本当に役立つ助言をくれるかは、今後を見守る必要がある。現時点でベータ版は中国でのみ提供されている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Tripo AI黑客松\n2,000+团队打造3D世界",
-          "body": "78个国家和地区的2,000多团队用Tripo 3D工具打造可玩世界、VR游戏和数字宠物。",
-          "mini_headline": "Tripo AI的3D-world黑客松",
+          "headline": "Tencent推出AI伴侣\n可旁观你玩游戏",
+          "body": "Tencent推出四位动漫风AI伴侣，可观看玩家游戏并给出建议。",
+          "mini_headline": "Tencent的\nAI游戏伴侣",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/59/6aebbb95ac365.jpg",
-                "cap": "Tripothon S1"
+                "src": "https://cdn.80.lv/api/upload/content/b9/images/6af5c6c9f3f7f/widen_1840x0.jpg"
               },
               {
                 "t": "p",
-                "x": "Tripothon S1是Tripo AI主办的首届全球世界构建黑客松，吸引了来自78个国家和地区的2,000多支注册团队，分为五个类别：游戏、影视与VFX、VR/XR/AR、应用以及实体设计。活动于2026年9月15日至10月20日举行，主题为“A Gift for ___”，使用Tripo的3D-native基础模型和Tripo API。"
-              },
-              {
-                "t": "video",
-                "yt": "o46nONohM9s"
+                "x": "说实话，这条新闻的时机相当滑稽，不过这个概念本身并不新鲜。在中国科技巨头Tencent之前，Razer就已推出AVA，用户可以从几个小巧的全息AI伴侣中挑选，它们旨在融入日常生活，无论是工作还是游戏。"
               },
               {
                 "t": "p",
-                "x": "San Francisco站聚集了近60支团队和800多名参与者，大多数团队只有一到三人。该站第二名由Dulce Baerga的Dear Little Me获得，这是一款把儿童画作变成可互动3D玩具的WebXR应用。"
+                "x": "Eciyuan是Tencent面向玩家的新款桌面应用，内置四位AI伴侣，它们会观看你的游戏过程并建议可行的操作，你也可以随时和她们聊天。四个女孩各有自己的性格、背景、兴趣和语音样本。例如，Shen Lubai是一位24岁、立志成为电竞解说的女孩，喜欢Valorant、League of Legends和Counter-Strike等游戏。Xia Xia是新闻与传播专业的学生，Guiyu似乎是一名厨师，Bella则热衷冲浪。"
+              },
+              {
+                "t": "p",
+                "x": "据悉，你还可以在手机上继续与Eciyuan伴侣聊天，甚至让她们以小角色的形式待在桌面上，或设置与她们服装相配的壁纸。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/ba/6aebbbda932bc.jpg",
-                "cap": "Halls of History: The Veiled Study"
+                "src": "https://cdn.80.lv/api/upload/content/75/images/6af5c4663e8b4/widen_1840x0.jpg"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.80.lv/api/upload/content/11/images/6af5c46aeedbb/widen_1840x0.jpg"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.80.lv/api/upload/content/12/images/6af5c4724c758/widen_1840x0.jpg"
               },
               {
                 "t": "p",
-                "x": "San Francisco站最高奖由Annette Lapham的Halls of History: The Veiled Study获得，这是一款对话式解谜游戏，由Tripo API生成独特的文物供玩家寻找。Aspirium的Gemtronic则把数字宠物放进了智能戒指。"
-              },
-              {
-                "t": "p",
-                "x": "在全球赛中，第一名由第三人称生存射击游戏Somehow Still Alive获得。"
+                "x": "关于Eciyuan及其AI伴侣的信息仍然很少，目前也没有全球发布的消息。这些女孩能否在真实对局中给出有用的建议，还有待观察。目前，测试版仅在中国提供。"
               }
             ]
           }
         },
         "es": {
-          "headline": "2,000+ equipos crean mundos 3D\nen el hackathon de Tripo AI",
-          "body": "Más de 2,000 equipos de 78 países y regiones crearon mundos, juegos VR y mascotas con las herramientas 3D de Tripo.",
-          "mini_headline": "El hackathon 3D-world de Tripo AI",
+          "headline": "Tencent lanza compañeros de IA\nque observan cómo juegas",
+          "body": "Tencent ha lanzado cuatro compañeros de IA de estilo anime que observan a los jugadores y les dan consejos.",
+          "mini_headline": "Los compañeros de IA\nde Tencent",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/59/6aebbb95ac365.jpg",
-                "cap": "Tripothon S1"
+                "src": "https://cdn.80.lv/api/upload/content/b9/images/6af5c6c9f3f7f/widen_1840x0.jpg"
               },
               {
                 "t": "p",
-                "x": "Tripothon S1, el primer hackathon global de construcción de mundos organizado por Tripo AI, reunió a más de 2,000 equipos inscritos de 78 países y regiones en cinco categorías: juegos, cine y VFX, VR/XR/AR, aplicaciones y diseño físico. Se celebró del 15 de septiembre al 20 de octubre de 2026 con el lema “A Gift for ___” y usó los modelos fundacionales 3D-native de Tripo y la Tripo API."
-              },
-              {
-                "t": "video",
-                "yt": "o46nONohM9s"
+                "x": "Sinceramente, el momento de esta noticia resulta bastante cómico, aunque el concepto en sí no es nuevo. Antes que el gigante tecnológico chino Tencent, Razer ya había presentado AVA, que permite elegir entre varios pequeños compañeros holográficos de IA diseñados para formar parte de la vida diaria, ya sea para trabajar o para jugar."
               },
               {
                 "t": "p",
-                "x": "El evento de San Francisco reunió a cerca de 60 equipos y más de 800 asistentes; la mayoría de los equipos tenía solo de una a tres personas. Allí, el segundo puesto fue para Dear Little Me, de Dulce Baerga, una app WebXR que convierte dibujos infantiles en juguetes 3D interactivos."
+                "x": "Eciyuan, la nueva aplicación de escritorio de Tencent, está dirigida a jugadores e incluye cuatro compañeros de IA que observan tus partidas y sugieren posibles acciones; además, puedes conversar con ellos cuando quieras. Cada una de las cuatro chicas tiene su propia personalidad, historia, intereses y muestras de voz. Por ejemplo, Shen Lubai es una aspirante a comentarista de esports de 24 años a la que le gustan juegos como Valorant, League of Legends y Counter-Strike. Xia Xia estudia Periodismo y Comunicación, Guiyu parece ser cocinera y a Bella le encanta el surf."
+              },
+              {
+                "t": "p",
+                "x": "Al parecer, se puede seguir conversando con los compañeros de Eciyuan en el móvil e incluso hacer que aparezcan en el escritorio como pequeños personajes o poner fondos de pantalla que combinan con su ropa."
               },
               {
                 "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/ba/6aebbbda932bc.jpg",
-                "cap": "Halls of History: The Veiled Study"
+                "src": "https://cdn.80.lv/api/upload/content/75/images/6af5c4663e8b4/widen_1840x0.jpg"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.80.lv/api/upload/content/11/images/6af5c46aeedbb/widen_1840x0.jpg"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.80.lv/api/upload/content/12/images/6af5c4724c758/widen_1840x0.jpg"
               },
               {
                 "t": "p",
-                "x": "El premio principal de San Francisco fue para Halls of History: The Veiled Study, de Annette Lapham, un juego de misterio conversacional en el que la Tripo API genera artefactos únicos que los jugadores deben buscar. Gemtronic, de Aspirium, puso una mascota digital dentro de un anillo inteligente."
-              },
-              {
-                "t": "p",
-                "x": "En la competición global, el primer puesto fue para Somehow Still Alive, un shooter de supervivencia en tercera persona."
+                "x": "Todavía hay muy poca información sobre Eciyuan y sus compañeros de IA, y aún no se ha anunciado un lanzamiento global. Habrá que ver si las chicas pueden dar consejos útiles en partidas reales. Por ahora, la beta solo está disponible en China."
               }
             ]
           }
@@ -575,161 +587,169 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Tripo AI 해커톤\n2,000+팀 3D 월드",
-          "body": "78개국·지역 2,000여 팀이 Tripo 3D 도구로 게임·VR·펫을 만들었다.",
-          "mini_headline": "Tripo AI의 3D-world 해커톤",
+          "headline": "Tencent가 내놓은\n플레이 보는 AI 동반자",
+          "body": "Tencent가 게임 플레이를 보며 조언하는 애니풍 AI 동반자 넷을 출시했다.",
+          "mini_headline": "Tencent의\nAI 게임 동반자",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/59/6aebbb95ac365.jpg",
-                "cap": "Tripothon S1"
+                "src": "https://cdn.80.lv/api/upload/content/b9/images/6af5c6c9f3f7f/widen_1840x0.jpg"
               },
               {
                 "t": "p",
-                "x": "Tripo AI가 연 첫 글로벌 월드 빌딩 해커톤 Tripothon S1에는 78개 국가·지역에서 2,000개가 넘는 팀이 등록했다. 부문은 게임, 영화·VFX, VR/XR/AR, 애플리케이션, 피지컬 디자인 다섯 개였다. 대회는 2026년 9월 15일부터 10월 20일까지 “A Gift for ___”라는 주제로 열렸고, 참가자들은 Tripo의 3D-native 파운데이션 모델과 Tripo API를 썼다."
-              },
-              {
-                "t": "video",
-                "yt": "o46nONohM9s"
+                "x": "솔직히 이 소식의 타이밍은 꽤 우습지만, 개념 자체는 새롭지 않다. 중국 빅테크 Tencent보다 앞서 Razer가 이미 AVA를 선보였다. AVA는 업무든 게임이든 일상의 일부가 되도록 설계한 작은 홀로그램 AI 동반자 여럿 가운데 하나를 고를 수 있게 한다."
               },
               {
                 "t": "p",
-                "x": "San Francisco 행사에는 60개 가까운 팀과 800명이 넘는 참가자가 모였고, 대부분의 팀은 한 명에서 세 명 규모였다. 이곳 준우승은 Dulce Baerga의 Dear Little Me가 차지했다. 아이들의 그림을 인터랙티브 3D 장난감으로 바꿔 주는 WebXR 앱이다."
+                "x": "Tencent의 새 데스크톱 앱 Eciyuan은 게이머를 겨냥했다. 게임 플레이를 지켜보며 할 만한 행동을 제안하는 AI 동반자 네 명이 들어 있고, 원할 때 언제든 대화도 나눌 수 있다. 네 소녀는 저마다 성격, 배경, 관심사, 목소리 샘플을 갖췄다. 예를 들어 Shen Lubai는 Valorant, League of Legends, Counter-Strike 같은 게임을 즐기는 24세 e스포츠 해설가 지망생이다. Xia Xia는 저널리즘·커뮤니케이션 전공 학생이고, Guiyu는 요리사로 보이며, Bella는 서핑에 푹 빠져 있다."
+              },
+              {
+                "t": "p",
+                "x": "Eciyuan 동반자와는 모바일에서도 대화를 이어갈 수 있고, 작은 캐릭터로 데스크톱에 머물게 하거나 의상에 맞춘 배경화면을 설정할 수도 있는 것으로 보인다."
               },
               {
                 "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/ba/6aebbbda932bc.jpg",
-                "cap": "Halls of History: The Veiled Study"
+                "src": "https://cdn.80.lv/api/upload/content/75/images/6af5c4663e8b4/widen_1840x0.jpg"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.80.lv/api/upload/content/11/images/6af5c46aeedbb/widen_1840x0.jpg"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.80.lv/api/upload/content/12/images/6af5c4724c758/widen_1840x0.jpg"
               },
               {
                 "t": "p",
-                "x": "San Francisco 최고상은 Annette Lapham의 Halls of History: The Veiled Study에 돌아갔다. 대화형 미스터리 게임으로, 플레이어가 찾아야 할 고유한 유물을 Tripo API가 생성한다. Aspirium의 Gemtronic은 스마트 링 안에 디지털 펫을 넣었다."
-              },
-              {
-                "t": "p",
-                "x": "글로벌 대회 전체 우승은 삼인칭 서바이벌 슈터 Somehow Still Alive가 차지했다."
+                "x": "Eciyuan과 AI 동반자에 관한 정보는 아직 매우 적고, 글로벌 출시 소식도 아직 없다. 이 소녀들이 실제 경기에서 쓸 만한 조언을 해 줄지는 지켜봐야 한다. 현재 베타는 중국에서만 이용할 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Tripo AIハッカソン\n2,000+チームが3D世界",
-          "body": "78の国・地域の2,000超のチームがTripoの3DツールでVRゲームやペットを作った。",
-          "mini_headline": "Tripo AIの3D-worldハッカソン",
+          "headline": "Tencent、ゲームを\n見守るAI相棒を投入",
+          "body": "Tencentが、ゲーマーのプレイを見て助言するアニメ風AIコンパニオン4人を投入した。",
+          "mini_headline": "TencentのAI\nゲーム相棒",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/59/6aebbb95ac365.jpg",
-                "cap": "Tripothon S1"
+                "src": "https://cdn.80.lv/api/upload/content/b9/images/6af5c6c9f3f7f/widen_1840x0.jpg"
               },
               {
                 "t": "p",
-                "x": "Tripo AIが主催した初のグローバルなワールドビルディング・ハッカソンTripothon S1には、78の国と地域から2,000を超えるチームが登録した。部門はゲーム、映画・VFX、VR/XR/AR、アプリケーション、フィジカルデザインの五つである。2026年9月15日から10月20日まで「A Gift for ___」をテーマに開かれ、Tripoの3D-native基盤モデルとTripo APIが使われた。"
-              },
-              {
-                "t": "video",
-                "yt": "o46nONohM9s"
+                "x": "正直なところ、このニュースのタイミングはかなり滑稽だが、コンセプト自体は目新しいものではない。中国のテック大手Tencentより先に、RazerがすでにAVAを発表している。AVAでは、仕事でもゲームでも日常の一部になるよう設計された、小さなホログラムのAIコンパニオン数体から好きなものを選べる。"
               },
               {
                 "t": "p",
-                "x": "San Francisco会場には60近いチームと800人を超える参加者が集まり、ほとんどのチームは一人から三人だった。同会場の準優勝はDulce BaergaのDear Little Meで、子どもの絵をインタラクティブな3Dのおもちゃに変えるWebXRアプリだ。"
+                "x": "Tencentの新しいデスクトップアプリEciyuanはゲーマー向けで、プレイを見守って取れる行動を提案する4人のAIコンパニオンを備え、好きなときに会話もできる。4人の少女はそれぞれ独自の性格、経歴、趣味、ボイスサンプルを持つ。たとえばShen Lubaiは、Valorant、League of Legends、Counter-Strikeなどを好む24歳のeスポーツ実況者志望だ。Xia Xiaはジャーナリズム・コミュニケーション専攻の学生、Guiyuは料理人らしく、Bellaはサーフィンに夢中だ。"
+              },
+              {
+                "t": "p",
+                "x": "Eciyuanのコンパニオンとはモバイルでも会話を続けられ、小さなキャラクターとしてデスクトップに置いたり、衣装に合わせた壁紙を設定したりもできるようだ。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/ba/6aebbbda932bc.jpg",
-                "cap": "Halls of History: The Veiled Study"
+                "src": "https://cdn.80.lv/api/upload/content/75/images/6af5c4663e8b4/widen_1840x0.jpg"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.80.lv/api/upload/content/11/images/6af5c46aeedbb/widen_1840x0.jpg"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.80.lv/api/upload/content/12/images/6af5c4724c758/widen_1840x0.jpg"
               },
               {
                 "t": "p",
-                "x": "San Francisco会場の最高賞はAnnette LaphamのHalls of History: The Veiled Studyが獲得した。会話型のミステリーゲームで、プレイヤーが探す固有のアーティファクトをTripo APIが生成する。AspiriumのGemtronicはスマートリングの中にデジタルペットを入れた。"
-              },
-              {
-                "t": "p",
-                "x": "グローバル大会全体の優勝は、三人称サバイバルシューターのSomehow Still Aliveだった。"
+                "x": "EciyuanとそのAIコンパニオンに関する情報はまだごく少なく、グローバル展開についての発表もまだない。実際の試合で彼女たちが本当に役立つ助言をくれるかは、今後を見守る必要がある。現時点でベータ版は中国でのみ提供されている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Tripo AI黑客松\n2,000+团队打造3D世界",
-          "body": "78个国家和地区的2,000多团队用Tripo 3D工具打造可玩世界、VR游戏和数字宠物。",
-          "mini_headline": "Tripo AI的3D-world黑客松",
+          "headline": "Tencent推出AI伴侣\n可旁观你玩游戏",
+          "body": "Tencent推出四位动漫风AI伴侣，可观看玩家游戏并给出建议。",
+          "mini_headline": "Tencent的\nAI游戏伴侣",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/59/6aebbb95ac365.jpg",
-                "cap": "Tripothon S1"
+                "src": "https://cdn.80.lv/api/upload/content/b9/images/6af5c6c9f3f7f/widen_1840x0.jpg"
               },
               {
                 "t": "p",
-                "x": "Tripothon S1是Tripo AI主办的首届全球世界构建黑客松，吸引了来自78个国家和地区的2,000多支注册团队，分为五个类别：游戏、影视与VFX、VR/XR/AR、应用以及实体设计。活动于2026年9月15日至10月20日举行，主题为“A Gift for ___”，使用Tripo的3D-native基础模型和Tripo API。"
-              },
-              {
-                "t": "video",
-                "yt": "o46nONohM9s"
+                "x": "说实话，这条新闻的时机相当滑稽，不过这个概念本身并不新鲜。在中国科技巨头Tencent之前，Razer就已推出AVA，用户可以从几个小巧的全息AI伴侣中挑选，它们旨在融入日常生活，无论是工作还是游戏。"
               },
               {
                 "t": "p",
-                "x": "San Francisco站聚集了近60支团队和800多名参与者，大多数团队只有一到三人。该站第二名由Dulce Baerga的Dear Little Me获得，这是一款把儿童画作变成可互动3D玩具的WebXR应用。"
+                "x": "Eciyuan是Tencent面向玩家的新款桌面应用，内置四位AI伴侣，它们会观看你的游戏过程并建议可行的操作，你也可以随时和她们聊天。四个女孩各有自己的性格、背景、兴趣和语音样本。例如，Shen Lubai是一位24岁、立志成为电竞解说的女孩，喜欢Valorant、League of Legends和Counter-Strike等游戏。Xia Xia是新闻与传播专业的学生，Guiyu似乎是一名厨师，Bella则热衷冲浪。"
+              },
+              {
+                "t": "p",
+                "x": "据悉，你还可以在手机上继续与Eciyuan伴侣聊天，甚至让她们以小角色的形式待在桌面上，或设置与她们服装相配的壁纸。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/ba/6aebbbda932bc.jpg",
-                "cap": "Halls of History: The Veiled Study"
+                "src": "https://cdn.80.lv/api/upload/content/75/images/6af5c4663e8b4/widen_1840x0.jpg"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.80.lv/api/upload/content/11/images/6af5c46aeedbb/widen_1840x0.jpg"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.80.lv/api/upload/content/12/images/6af5c4724c758/widen_1840x0.jpg"
               },
               {
                 "t": "p",
-                "x": "San Francisco站最高奖由Annette Lapham的Halls of History: The Veiled Study获得，这是一款对话式解谜游戏，由Tripo API生成独特的文物供玩家寻找。Aspirium的Gemtronic则把数字宠物放进了智能戒指。"
-              },
-              {
-                "t": "p",
-                "x": "在全球赛中，第一名由第三人称生存射击游戏Somehow Still Alive获得。"
+                "x": "关于Eciyuan及其AI伴侣的信息仍然很少，目前也没有全球发布的消息。这些女孩能否在真实对局中给出有用的建议，还有待观察。目前，测试版仅在中国提供。"
               }
             ]
           }
         },
         "es": {
-          "headline": "2,000+ equipos crean mundos 3D\nen el hackathon de Tripo AI",
-          "body": "Más de 2,000 equipos de 78 países y regiones crearon mundos, juegos VR y mascotas con las herramientas 3D de Tripo.",
-          "mini_headline": "El hackathon 3D-world de Tripo AI",
+          "headline": "Tencent lanza compañeros de IA\nque observan cómo juegas",
+          "body": "Tencent ha lanzado cuatro compañeros de IA de estilo anime que observan a los jugadores y les dan consejos.",
+          "mini_headline": "Los compañeros de IA\nde Tencent",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/59/6aebbb95ac365.jpg",
-                "cap": "Tripothon S1"
+                "src": "https://cdn.80.lv/api/upload/content/b9/images/6af5c6c9f3f7f/widen_1840x0.jpg"
               },
               {
                 "t": "p",
-                "x": "Tripothon S1, el primer hackathon global de construcción de mundos organizado por Tripo AI, reunió a más de 2,000 equipos inscritos de 78 países y regiones en cinco categorías: juegos, cine y VFX, VR/XR/AR, aplicaciones y diseño físico. Se celebró del 15 de septiembre al 20 de octubre de 2026 con el lema “A Gift for ___” y usó los modelos fundacionales 3D-native de Tripo y la Tripo API."
-              },
-              {
-                "t": "video",
-                "yt": "o46nONohM9s"
+                "x": "Sinceramente, el momento de esta noticia resulta bastante cómico, aunque el concepto en sí no es nuevo. Antes que el gigante tecnológico chino Tencent, Razer ya había presentado AVA, que permite elegir entre varios pequeños compañeros holográficos de IA diseñados para formar parte de la vida diaria, ya sea para trabajar o para jugar."
               },
               {
                 "t": "p",
-                "x": "El evento de San Francisco reunió a cerca de 60 equipos y más de 800 asistentes; la mayoría de los equipos tenía solo de una a tres personas. Allí, el segundo puesto fue para Dear Little Me, de Dulce Baerga, una app WebXR que convierte dibujos infantiles en juguetes 3D interactivos."
+                "x": "Eciyuan, la nueva aplicación de escritorio de Tencent, está dirigida a jugadores e incluye cuatro compañeros de IA que observan tus partidas y sugieren posibles acciones; además, puedes conversar con ellos cuando quieras. Cada una de las cuatro chicas tiene su propia personalidad, historia, intereses y muestras de voz. Por ejemplo, Shen Lubai es una aspirante a comentarista de esports de 24 años a la que le gustan juegos como Valorant, League of Legends y Counter-Strike. Xia Xia estudia Periodismo y Comunicación, Guiyu parece ser cocinera y a Bella le encanta el surf."
+              },
+              {
+                "t": "p",
+                "x": "Al parecer, se puede seguir conversando con los compañeros de Eciyuan en el móvil e incluso hacer que aparezcan en el escritorio como pequeños personajes o poner fondos de pantalla que combinan con su ropa."
               },
               {
                 "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/ba/6aebbbda932bc.jpg",
-                "cap": "Halls of History: The Veiled Study"
+                "src": "https://cdn.80.lv/api/upload/content/75/images/6af5c4663e8b4/widen_1840x0.jpg"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.80.lv/api/upload/content/11/images/6af5c46aeedbb/widen_1840x0.jpg"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.80.lv/api/upload/content/12/images/6af5c4724c758/widen_1840x0.jpg"
               },
               {
                 "t": "p",
-                "x": "El premio principal de San Francisco fue para Halls of History: The Veiled Study, de Annette Lapham, un juego de misterio conversacional en el que la Tripo API genera artefactos únicos que los jugadores deben buscar. Gemtronic, de Aspirium, puso una mascota digital dentro de un anillo inteligente."
-              },
-              {
-                "t": "p",
-                "x": "En la competición global, el primer puesto fue para Somehow Still Alive, un shooter de supervivencia en tercera persona."
+                "x": "Todavía hay muy poca información sobre Eciyuan y sus compañeros de IA, y aún no se ha anunciado un lanzamiento global. Habrá que ver si las chicas pueden dar consejos útiles en partidas reales. Por ahora, la beta solo está disponible en China."
               }
             ]
           }
@@ -737,15 +757,15 @@
       }
     },
     {
-      "id": "xbox-auto-sr-ally-x-120fps",
+      "id": "apex-neural-rendering-framegen",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "ROG Xbox Ally\nX용 Auto SR 정식판",
-      "body": "Auto SR이 ROG Xbox Ally X서 1080p·120 FPS로 출시됐다.",
-      "mini_headline": "Auto SR 프리뷰 종료",
+      "headline": "Apex 뉴럴 렌더링,\nDLSS 프레임 생성 겨냥",
+      "body": "ANR 베타는 최대 2.4x 빠르고 VRAM을 62% 덜 쓰며 옛 GPUs도 된다.",
+      "mini_headline": "Apex,\nDLSS에 도전",
       "tool": "Games",
       "source": "Wccftech",
-      "url": "https://wccftech.com/microsoft-auto-sr-exits-preview-on-rog-xbox-ally-x-new-performance-mode-raises-fps-limit-to-120/",
+      "url": "https://wccftech.com/apex-neural-rendering-challenges-nvidia-dlss-with-up-to-2-4x-faster-frame-generation-62-lower-vram-usage-and-broad-gpu-support/",
       "accent": "#f5a623",
       "motif": "cube",
       "full": {
@@ -753,203 +773,221 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-27.jpg"
+            "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-30.jpg"
           },
           {
             "t": "p",
-            "x": "Microsoft가 ROG XBOX Ally X와 X20에 Automatic Super Resolution(Auto SR)을 정식으로 제공한다고 발표하면서 AMD Ryzen AI-powered Copilot+ PCs 지원도 넓혔다. Auto SR은 낮은 해상도로 렌더링한 게임을 NPU로 업스케일한다. 개발사가 따로 통합하지 않아도 Windows 단에서 돌아간다."
+            "x": "Apex Compute가 크로스플랫폼 뉴럴 렌더링 제품군 Apex Neural Rendering(ANR)을 공개했다. 회사는 NVIDIA 기술보다 프레임 생성이 최대 2.4X 빠르고 화질이 더 좋으며 GPU 메모리도 훨씬 덜 쓴다고 주장한다. ANR은 Frame Generation(FG), Super Resolution(SR), Ray Reconstruction(RR)으로 이뤄지며, 지금은 Frame Generation이 베타로 나와 있다."
           },
           {
             "t": "p",
-            "x": "새 Performance Mode는 약 60–75 FPS였던 프레임 레이트 상한을 120 FPS까지 끌어올린다. Microsoft가 Rocket League를 720p로 시연했을 때 평균 프레임은 Quality Mode 70 FPS, Performance Mode 115 FPS였다."
+            "x": "NVIDIA GeForce GTX 16 및 RTX 20/30/40/50 Series, AMD Radeon RX 5000/6000/7000/9000 Series와 Steam Deck, Intel Arc A-Series와 B-Series에서 돌아간다. 운영체제는 Windows 10/11, Linux, SteamOS를 지원하고, macOS 26용 Metal 테스트 키트도 있다."
           },
           {
             "t": "img",
-            "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Performance-Mode-115-FPS.webp",
-            "cap": "Auto SR Performance mode — 115 FPS. 이미지 출처: Microsoft."
+            "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/ANR-Bench-Numbers.jpg"
           },
           {
             "t": "p",
-            "x": "이제 Auto SR은 배터리 전원일 때를 포함해 휴대 기기 화면에서 바로 작동하고 1080p 입력도 받는다. 해상도가 더 높은 외부 디스플레이에서는 1080p를 1440p로 업스케일한다. Windows Auto HDR과 같이 쓸 수도 있다."
+            "x": "Apex Compute 내부 벤치마크를 보면 3840×2160 해상도의 GeForce RTX 5090에서 ANR FG는 2X 모드 기준 생성 프레임 하나에 1.01밀리초가 걸려 NVIDIA DLSS Frame Generation의 1.26 ms보다 짧다. 4K 기준 GPU 메모리 사용량은 214 MB로 NVIDIA의 562 MB보다 약 62% 적다. 다만 공개된 RTX 5090 측정치만 보면 처리 시간 개선 폭이 광고한 2.4X에 못 미쳐 보인다. 이 수치도 실제 게임 FPS가 아니라 프레임을 만드는 비용이다."
+          },
+          {
+            "t": "video",
+            "yt": "xhzNx3seocQ"
           },
           {
             "t": "p",
-            "x": "휴대 기기 지원, 1080p 호환, AMD Ryzen AI 지원 확대는 지금 바로 쓸 수 있다. Performance Mode와 Auto HDR 호환은 Windows Update로 순차 배포된다."
+            "x": "Apex 자체 화질 측정에서는 ANR이 NVIDIA DLSS FG보다 낫게 나왔지만 독립 검증은 여전히 필요하다. 베타는 GitHub의 OptiScaler로 설치하고, 프레임 생성 구현은 아직 오픈소스가 아니다. 호환성 문제와 시각적 아티팩트도 감안해야 한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Auto SR leaves preview\non ROG Xbox Ally X",
-          "body": "Microsoft's AI upscaler Auto SR exits preview on the ROG Xbox Ally X with 1080p upscaling and a 120 FPS mode.",
-          "mini_headline": "Auto SR exits preview",
+          "headline": "Apex Neural Rendering takes\non DLSS frame generation",
+          "body": "Apex Neural Rendering claims up to 2.4x faster frame generation and 62% less VRAM, plus beta support for older GPUs.",
+          "mini_headline": "Apex takes\non DLSS",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-27.jpg"
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-30.jpg"
               },
               {
                 "t": "p",
-                "x": "Microsoft has announced the general availability of Automatic Super Resolution (Auto SR) on the ROG XBOX Ally X and X20, alongside expanded support for AMD Ryzen AI-powered Copilot+ PCs. Auto SR uses the NPU to upscale games rendered at lower resolutions, operating at the Windows level without developer integration."
+                "x": "Apex Compute has introduced Apex Neural Rendering (ANR), a cross-platform neural rendering suite that reportedly delivers up to 2.4X faster frame generation, superior image quality, and substantially lower GPU memory consumption than NVIDIA's technology. ANR consists of Frame Generation (FG), Super Resolution (SR), and Ray Reconstruction (RR); Frame Generation is currently available in beta."
               },
               {
                 "t": "p",
-                "x": "A new Performance Mode raises the previous frame-rate ceiling of approximately 60–75 FPS to 120 FPS. In Microsoft's Rocket League demo at 720p, the game averaged 70 FPS in Quality Mode versus 115 FPS in Performance Mode."
+                "x": "Compatibility spans NVIDIA GeForce GTX 16 and RTX 20/30/40/50 Series, AMD Radeon RX 5000/6000/7000/9000 Series and Steam Deck, and Intel Arc A-Series and B-Series, on Windows 10/11, Linux and SteamOS, plus a Metal test kit for macOS 26."
               },
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Performance-Mode-115-FPS.webp",
-                "cap": "Auto SR Performance mode —115 FPS. Image credit: Microsoft."
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/ANR-Bench-Numbers.jpg"
               },
               {
                 "t": "p",
-                "x": "Auto SR now works directly on handheld displays, including on battery power, and supports 1080p input; on a higher-resolution external display it can upscale 1080p to 1440p. It can also work alongside Windows Auto HDR."
+                "x": "According to Apex Compute's internal benchmarks, on a GeForce RTX 5090 at 3840×2160, ANR FG requires 1.01 milliseconds per generated frame in 2X mode, compared to 1.26 ms for NVIDIA DLSS Frame Generation. GPU memory use is 214 MB versus NVIDIA's 562 MB at 4K, a reduction of approximately 62%. Its published RTX 5090 measurements suggest more modest processing-time improvements than the advertised 2.4X, and these concern the cost of generating frames rather than actual gaming FPS."
+              },
+              {
+                "t": "video",
+                "yt": "xhzNx3seocQ"
               },
               {
                 "t": "p",
-                "x": "Handheld support, 1080p compatibility and expanded AMD Ryzen AI support are available now, while Performance Mode and Auto HDR compatibility are rolling out gradually through Windows Update."
+                "x": "Apex's internal quality measurements favor ANR over NVIDIA DLSS FG, although independent testing is still necessary. The beta installs via OptiScaler from GitHub; the frame generation implementation is not yet open-source, and compatibility issues and visual artifacts should be expected."
               }
             ]
           }
         },
         "ko": {
-          "headline": "ROG Xbox Ally\nX용 Auto SR 정식판",
-          "body": "Auto SR이 ROG Xbox Ally X서 1080p·120 FPS로 출시됐다.",
-          "mini_headline": "Auto SR 프리뷰 종료",
+          "headline": "Apex 뉴럴 렌더링,\nDLSS 프레임 생성 겨냥",
+          "body": "ANR 베타는 최대 2.4x 빠르고 VRAM을 62% 덜 쓰며 옛 GPUs도 된다.",
+          "mini_headline": "Apex,\nDLSS에 도전",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-27.jpg"
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-30.jpg"
               },
               {
                 "t": "p",
-                "x": "Microsoft가 ROG XBOX Ally X와 X20에 Automatic Super Resolution(Auto SR)을 정식으로 제공한다고 발표하면서 AMD Ryzen AI-powered Copilot+ PCs 지원도 넓혔다. Auto SR은 낮은 해상도로 렌더링한 게임을 NPU로 업스케일한다. 개발사가 따로 통합하지 않아도 Windows 단에서 돌아간다."
+                "x": "Apex Compute가 크로스플랫폼 뉴럴 렌더링 제품군 Apex Neural Rendering(ANR)을 공개했다. 회사는 NVIDIA 기술보다 프레임 생성이 최대 2.4X 빠르고 화질이 더 좋으며 GPU 메모리도 훨씬 덜 쓴다고 주장한다. ANR은 Frame Generation(FG), Super Resolution(SR), Ray Reconstruction(RR)으로 이뤄지며, 지금은 Frame Generation이 베타로 나와 있다."
               },
               {
                 "t": "p",
-                "x": "새 Performance Mode는 약 60–75 FPS였던 프레임 레이트 상한을 120 FPS까지 끌어올린다. Microsoft가 Rocket League를 720p로 시연했을 때 평균 프레임은 Quality Mode 70 FPS, Performance Mode 115 FPS였다."
+                "x": "NVIDIA GeForce GTX 16 및 RTX 20/30/40/50 Series, AMD Radeon RX 5000/6000/7000/9000 Series와 Steam Deck, Intel Arc A-Series와 B-Series에서 돌아간다. 운영체제는 Windows 10/11, Linux, SteamOS를 지원하고, macOS 26용 Metal 테스트 키트도 있다."
               },
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Performance-Mode-115-FPS.webp",
-                "cap": "Auto SR Performance mode — 115 FPS. 이미지 출처: Microsoft."
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/ANR-Bench-Numbers.jpg"
               },
               {
                 "t": "p",
-                "x": "이제 Auto SR은 배터리 전원일 때를 포함해 휴대 기기 화면에서 바로 작동하고 1080p 입력도 받는다. 해상도가 더 높은 외부 디스플레이에서는 1080p를 1440p로 업스케일한다. Windows Auto HDR과 같이 쓸 수도 있다."
+                "x": "Apex Compute 내부 벤치마크를 보면 3840×2160 해상도의 GeForce RTX 5090에서 ANR FG는 2X 모드 기준 생성 프레임 하나에 1.01밀리초가 걸려 NVIDIA DLSS Frame Generation의 1.26 ms보다 짧다. 4K 기준 GPU 메모리 사용량은 214 MB로 NVIDIA의 562 MB보다 약 62% 적다. 다만 공개된 RTX 5090 측정치만 보면 처리 시간 개선 폭이 광고한 2.4X에 못 미쳐 보인다. 이 수치도 실제 게임 FPS가 아니라 프레임을 만드는 비용이다."
+              },
+              {
+                "t": "video",
+                "yt": "xhzNx3seocQ"
               },
               {
                 "t": "p",
-                "x": "휴대 기기 지원, 1080p 호환, AMD Ryzen AI 지원 확대는 지금 바로 쓸 수 있다. Performance Mode와 Auto HDR 호환은 Windows Update로 순차 배포된다."
+                "x": "Apex 자체 화질 측정에서는 ANR이 NVIDIA DLSS FG보다 낫게 나왔지만 독립 검증은 여전히 필요하다. 베타는 GitHub의 OptiScaler로 설치하고, 프레임 생성 구현은 아직 오픈소스가 아니다. 호환성 문제와 시각적 아티팩트도 감안해야 한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ROG Xbox Ally\nX向けAuto SR正式版",
-          "body": "AIのAuto SRがROG Xbox Ally Xで1080p・120 FPSに対応した。",
-          "mini_headline": "Auto SRがプレビュー終了",
+          "headline": "Apexのニューラル描画が\nDLSSフレーム生成に挑む",
+          "body": "ANRは最大2.4x速いフレーム生成とVRAM 62%減、旧GPUsのベータ対応をうたう。",
+          "mini_headline": "Apex、\nDLSSに挑む",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-27.jpg"
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-30.jpg"
               },
               {
                 "t": "p",
-                "x": "MicrosoftはROG XBOX Ally XとX20でのAutomatic Super Resolution(Auto SR)の一般提供を発表し、AMD Ryzen AI-poweredのCopilot+ PCsへの対応も広げた。Auto SRはNPUを使って低い解像度で描画したゲームをアップスケールし、開発者側の組み込みなしにWindowsレベルで動作する。"
+                "x": "Apex Computeが、クロスプラットフォームのニューラルレンダリングスイートApex Neural Rendering（ANR）を発表した。NVIDIAの技術と比べ、フレーム生成が最大2.4X高速で、画質も優れ、GPUメモリ消費も大幅に少ないという。ANRはFrame Generation（FG）、Super Resolution（SR）、Ray Reconstruction（RR）で構成され、現在はFrame Generationがベータ版として提供されている。"
               },
               {
                 "t": "p",
-                "x": "新しいPerformance Modeは、従来およそ60–75 FPSだったフレームレートの上限を120 FPSに引き上げる。MicrosoftによるRocket Leagueの720pデモでは、平均でQuality Modeが70 FPS、Performance Modeが115 FPSだった。"
+                "x": "対応環境はNVIDIA GeForce GTX 16およびRTX 20/30/40/50 Series、AMD Radeon RX 5000/6000/7000/9000 SeriesとSteam Deck、Intel Arc A-SeriesとB-Seriesで、Windows 10/11、Linux、SteamOSに対応し、macOS 26向けのMetalテストキットもある。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Performance-Mode-115-FPS.webp",
-                "cap": "Auto SR Performance mode — 115 FPS。画像提供:Microsoft。"
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/ANR-Bench-Numbers.jpg"
               },
               {
                 "t": "p",
-                "x": "Auto SRはバッテリー駆動時も含めて携帯機の画面で直接動くようになり、1080p入力にも対応した。より高解像度の外部ディスプレイでは1080pを1440pにアップスケールできる。Windows Auto HDRとの併用も可能だ。"
+                "x": "Apex Computeの社内ベンチマークによると、3840×2160のGeForce RTX 5090で、ANR FGは2Xモードで生成フレーム1枚あたり1.01ミリ秒を要し、NVIDIA DLSS Frame Generationは1.26 msだった。GPUメモリ使用量は4K 解像度で214 MBと、NVIDIAの562 MBより約62%少ない。ただし公開されたRTX 5090の測定値では、処理時間の改善は宣伝された2.4Xほど大きくないとみられ、これらは実際のゲームのFPSではなくフレーム生成のコストに関する数値である。"
+              },
+              {
+                "t": "video",
+                "yt": "xhzNx3seocQ"
               },
               {
                 "t": "p",
-                "x": "携帯機対応、1080p互換、AMD Ryzen AI対応の拡大はすでに利用でき、Performance ModeとAuto HDRとの互換はWindows Updateを通じて段階的に配信される。"
+                "x": "Apexの社内画質測定ではANRがNVIDIA DLSS FGを上回ったが、独立した検証はまだ必要だ。ベータ版はGitHubからOptiScaler経由でインストールする。フレーム生成の実装はまだオープンソースではなく、互換性の問題や視覚的なアーティファクトも想定しておく必要がある。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "ROG Xbox Ally\nX上Auto SR结束预览",
-          "body": "AI超分Auto SR在ROG Xbox Ally X转正，支持1080p与120 FPS。",
-          "mini_headline": "Auto SR结束预览",
+          "headline": "Apex神经渲染技术\n挑战DLSS帧生成",
+          "body": "Apex号称帧生成最高快2.4x、VRAM少用62%，并以测试版支持旧款GPUs。",
+          "mini_headline": "Apex\n挑战DLSS",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-27.jpg"
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-30.jpg"
               },
               {
                 "t": "p",
-                "x": "Microsoft宣布Automatic Super Resolution（Auto SR）在ROG XBOX Ally X和X20上正式推出，并扩大对AMD Ryzen AI-powered Copilot+ PCs的支持。Auto SR利用NPU对以较低分辨率渲染的游戏进行升频，在Windows层面运行，无需开发者集成。"
+                "x": "Apex Compute推出了跨平台神经渲染套件Apex Neural Rendering（ANR）。据称与NVIDIA的技术相比，其帧生成速度最高快2.4X，画质更好，GPU显存占用也显著更低。ANR由Frame Generation（FG）、Super Resolution（SR）和Ray Reconstruction（RR）组成，目前Frame Generation已推出测试版。"
               },
               {
                 "t": "p",
-                "x": "新的Performance Mode将此前约60–75 FPS的帧率上限提高到120 FPS。在Microsoft的Rocket League 720p演示中，Quality Mode平均70 FPS，Performance Mode平均115 FPS。"
+                "x": "兼容范围涵盖NVIDIA GeForce GTX 16及RTX 20/30/40/50 Series、AMD Radeon RX 5000/6000/7000/9000 Series和Steam Deck，以及Intel Arc A-Series和B-Series，支持Windows 10/11、Linux和SteamOS，另有面向macOS 26的Metal测试套件。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Performance-Mode-115-FPS.webp",
-                "cap": "Auto SR Performance mode — 115 FPS。图片来源：Microsoft。"
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/ANR-Bench-Numbers.jpg"
               },
               {
                 "t": "p",
-                "x": "Auto SR现在可直接在掌机屏幕上运行，包括电池供电时，并支持1080p输入；在更高分辨率的外接显示器上，它可将1080p升频至1440p。它还能与Windows Auto HDR同时使用。"
+                "x": "根据Apex Compute的内部基准测试，在3840×2160分辨率下的GeForce RTX 5090上，ANR FG在2X模式下每生成一帧需要1.01毫秒，而NVIDIA DLSS Frame Generation为1.26 ms。在4K 分辨率下，GPU显存占用为214 MB，而NVIDIA为562 MB，减少约62%。不过，其公布的RTX 5090测量数据显示，处理时间的改善幅度不及宣传的2.4X，而且这些数据针对的是生成帧的开销，而非实际游戏FPS。"
+              },
+              {
+                "t": "video",
+                "yt": "xhzNx3seocQ"
               },
               {
                 "t": "p",
-                "x": "掌机支持、1080p兼容以及扩大的AMD Ryzen AI支持现已推出，Performance Mode和Auto HDR兼容则正通过Windows Update逐步推送。"
+                "x": "Apex的内部画质测量结果显示ANR优于NVIDIA DLSS FG，但仍需独立测试验证。测试版通过GitHub上的OptiScaler安装；帧生成实现尚未开源，用户应预料到兼容性问题和画面瑕疵。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Auto SR deja la vista previa\nen la ROG Xbox Ally X",
-          "body": "Auto SR, el escalador con AI de Microsoft, deja la vista previa en la ROG Xbox Ally X con 1080p y un modo de 120 FPS.",
-          "mini_headline": "Auto SR deja la vista previa",
+          "headline": "Apex Neural Rendering desafía\na DLSS en generación de frames",
+          "body": "Apex promete generar frames hasta 2.4x más rápido y usar un 62% menos de VRAM, con soporte beta para GPUs antiguas.",
+          "mini_headline": "Apex desafía\na DLSS",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-27.jpg"
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-30.jpg"
               },
               {
                 "t": "p",
-                "x": "Microsoft anunció la disponibilidad general de Automatic Super Resolution (Auto SR) en las ROG XBOX Ally X y X20, junto con más compatibilidad con los AMD Ryzen AI-powered Copilot+ PCs. Auto SR usa la NPU para escalar juegos renderizados a resoluciones más bajas y funciona a nivel de Windows, sin integración por parte de los desarrolladores."
+                "x": "Apex Compute ha presentado Apex Neural Rendering (ANR), una suite multiplataforma de renderizado neuronal que, según se informa, ofrece una generación de frames hasta 2.4X más rápida, mejor calidad de imagen y un consumo de memoria de GPU considerablemente menor que la tecnología de NVIDIA. ANR consta de Frame Generation (FG), Super Resolution (SR) y Ray Reconstruction (RR); Frame Generation está disponible actualmente en beta."
               },
               {
                 "t": "p",
-                "x": "Un nuevo Performance Mode eleva el techo anterior de frecuencia de imagen, de unos 60–75 FPS, a 120 FPS. En la demo de Rocket League de Microsoft a 720p, el juego promedió 70 FPS en Quality Mode frente a 115 FPS en Performance Mode."
+                "x": "La compatibilidad abarca las NVIDIA GeForce GTX 16 y RTX 20/30/40/50 Series, las AMD Radeon RX 5000/6000/7000/9000 Series y Steam Deck, y las Intel Arc A-Series y B-Series, en Windows 10/11, Linux y SteamOS, además de un kit de pruebas de Metal para macOS 26."
               },
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Performance-Mode-115-FPS.webp",
-                "cap": "Auto SR Performance mode — 115 FPS. Imagen: Microsoft."
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/ANR-Bench-Numbers.jpg"
               },
               {
                 "t": "p",
-                "x": "Auto SR ya funciona directamente en las pantallas de las consolas portátiles, también con batería, y admite entrada 1080p; en una pantalla externa de mayor resolución puede escalar de 1080p a 1440p. También puede funcionar junto con Windows Auto HDR."
+                "x": "Según las pruebas internas de Apex Compute, en una GeForce RTX 5090 a 3840×2160, ANR FG necesita 1.01 milisegundos por frame generado en modo 2X, frente a 1.26 ms de NVIDIA DLSS Frame Generation. El uso de memoria de GPU es de 214 MB frente a los 562 MB de NVIDIA en 4K, una reducción de aproximadamente el 62%. Las mediciones publicadas en la RTX 5090 apuntan a mejoras de tiempo de procesamiento más modestas que el 2.4X anunciado, y se refieren al coste de generar frames, no a los FPS reales en juegos."
+              },
+              {
+                "t": "video",
+                "yt": "xhzNx3seocQ"
               },
               {
                 "t": "p",
-                "x": "La compatibilidad con portátiles, la compatibilidad con 1080p y la ampliación del soporte para AMD Ryzen AI ya están disponibles, mientras que Performance Mode y la compatibilidad con Auto HDR llegan de forma gradual mediante Windows Update."
+                "x": "Las mediciones internas de calidad de Apex favorecen a ANR frente a NVIDIA DLSS FG, aunque todavía hacen falta pruebas independientes. La beta se instala mediante OptiScaler desde GitHub; la implementación de generación de frames aún no es de código abierto, y cabe esperar problemas de compatibilidad y artefactos visuales."
               }
             ]
           }
@@ -957,141 +995,153 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "ROG Xbox Ally\nX용 Auto SR 정식판",
-          "body": "Auto SR이 ROG Xbox Ally X서 1080p·120 FPS로 출시됐다.",
-          "mini_headline": "Auto SR 프리뷰 종료",
+          "headline": "Apex 뉴럴 렌더링,\nDLSS 프레임 생성 겨냥",
+          "body": "ANR 베타는 최대 2.4x 빠르고 VRAM 62% 절감, 옛 GPUs도 지원한다.",
+          "mini_headline": "Apex,\nDLSS에 도전",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-27.jpg"
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-30.jpg"
               },
               {
                 "t": "p",
-                "x": "Microsoft는 ROG XBOX Ally X와 X20에서 Automatic Super Resolution(Auto SR)을 정식 제공한다고 발표했고, AMD Ryzen AI-powered Copilot+ PCs 지원도 넓혔다. Auto SR은 NPU로 낮은 해상도에서 렌더링한 게임을 업스케일하며, 개발사 통합 없이 Windows 단에서 작동한다."
+                "x": "Apex Compute가 크로스플랫폼 뉴럴 렌더링 제품군 Apex Neural Rendering(ANR)을 공개했다. NVIDIA 기술보다 프레임 생성이 최대 2.4X 빠르고, 화질이 더 뛰어나며, GPU 메모리 사용량도 크게 적다고 한다. ANR은 Frame Generation(FG), Super Resolution(SR), Ray Reconstruction(RR)으로 구성되며, 현재 Frame Generation이 베타로 제공된다."
               },
               {
                 "t": "p",
-                "x": "새 Performance Mode는 기존 약 60–75 FPS였던 프레임 레이트 상한을 120 FPS로 올린다. Microsoft의 Rocket League 720p 시연에서 평균 프레임은 Quality Mode 70 FPS, Performance Mode 115 FPS였다."
+                "x": "호환 대상은 NVIDIA GeForce GTX 16 및 RTX 20/30/40/50 Series, AMD Radeon RX 5000/6000/7000/9000 Series와 Steam Deck, Intel Arc A-Series와 B-Series이며, Windows 10/11, Linux, SteamOS를 지원하고 macOS 26용 Metal 테스트 키트도 있다."
               },
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Performance-Mode-115-FPS.webp",
-                "cap": "Auto SR Performance mode — 115 FPS. 이미지 출처: Microsoft."
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/ANR-Bench-Numbers.jpg"
               },
               {
                 "t": "p",
-                "x": "Auto SR은 이제 배터리 전원 상태를 포함해 휴대 기기 화면에서 바로 작동하며 1080p 입력을 지원한다. 더 높은 해상도의 외부 디스플레이에서는 1080p를 1440p로 업스케일할 수 있다. Windows Auto HDR과 함께 쓸 수도 있다."
+                "x": "Apex Compute의 내부 벤치마크에 따르면 3840×2160 해상도의 GeForce RTX 5090에서 ANR FG는 2X 모드 기준 생성 프레임당 1.01밀리초가 걸려, NVIDIA DLSS Frame Generation의 1.26 ms보다 짧다. GPU 메모리 사용량은 4K 기준 214 MB로 NVIDIA의 562 MB보다 약 62% 적다. 다만 공개된 RTX 5090 측정치는 광고한 2.4X보다 처리 시간 개선 폭이 작아 보이며, 이는 실제 게임 FPS가 아니라 프레임을 생성하는 비용에 관한 수치다."
+              },
+              {
+                "t": "video",
+                "yt": "xhzNx3seocQ"
               },
               {
                 "t": "p",
-                "x": "휴대 기기 지원, 1080p 호환, AMD Ryzen AI 지원 확대는 지금 바로 쓸 수 있고, Performance Mode와 Auto HDR 호환은 Windows Update를 통해 순차 배포된다."
+                "x": "Apex의 내부 화질 측정에서는 ANR이 NVIDIA DLSS FG보다 낫다고 나왔지만, 독립적인 검증이 여전히 필요하다. 베타는 GitHub의 OptiScaler를 통해 설치하며, 프레임 생성 구현은 아직 오픈소스가 아니다. 호환성 문제와 시각적 아티팩트도 감안해야 한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ROG Xbox Ally\nX向けAuto SR正式版",
-          "body": "AIのAuto SRがROG Xbox Ally Xで1080p・120 FPSに対応した。",
-          "mini_headline": "Auto SRがプレビュー終了",
+          "headline": "Apexのニューラル描画が\nDLSSフレーム生成に挑む",
+          "body": "ANRは最大2.4x速いフレーム生成とVRAM 62%減、旧GPUsのベータ対応をうたう。",
+          "mini_headline": "Apex、\nDLSSに挑む",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-27.jpg"
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-30.jpg"
               },
               {
                 "t": "p",
-                "x": "MicrosoftはROG XBOX Ally XとX20でのAutomatic Super Resolution(Auto SR)の一般提供を発表し、AMD Ryzen AI-poweredのCopilot+ PCsへの対応も広げた。Auto SRはNPUを使って低い解像度で描画したゲームをアップスケールし、開発者側の組み込みなしにWindowsレベルで動作する。"
+                "x": "Apex Computeが、クロスプラットフォームのニューラルレンダリングスイートApex Neural Rendering（ANR）を発表した。NVIDIAの技術と比べ、フレーム生成が最大2.4X高速で、画質も優れ、GPUメモリ消費も大幅に少ないという。ANRはFrame Generation（FG）、Super Resolution（SR）、Ray Reconstruction（RR）で構成され、現在はFrame Generationがベータ版として提供されている。"
               },
               {
                 "t": "p",
-                "x": "新しいPerformance Modeは、従来およそ60–75 FPSだったフレームレートの上限を120 FPSに引き上げる。MicrosoftによるRocket Leagueの720pデモでは、平均でQuality Modeが70 FPS、Performance Modeが115 FPSだった。"
+                "x": "対応環境はNVIDIA GeForce GTX 16およびRTX 20/30/40/50 Series、AMD Radeon RX 5000/6000/7000/9000 SeriesとSteam Deck、Intel Arc A-SeriesとB-Seriesで、Windows 10/11、Linux、SteamOSに対応し、macOS 26向けのMetalテストキットもある。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Performance-Mode-115-FPS.webp",
-                "cap": "Auto SR Performance mode — 115 FPS。画像提供:Microsoft。"
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/ANR-Bench-Numbers.jpg"
               },
               {
                 "t": "p",
-                "x": "Auto SRはバッテリー駆動時も含めて携帯機の画面で直接動くようになり、1080p入力にも対応した。より高解像度の外部ディスプレイでは1080pを1440pにアップスケールできる。Windows Auto HDRとの併用も可能だ。"
+                "x": "Apex Computeの社内ベンチマークによると、3840×2160のGeForce RTX 5090で、ANR FGは2Xモードで生成フレーム1枚あたり1.01ミリ秒を要し、NVIDIA DLSS Frame Generationは1.26 msだった。GPUメモリ使用量は4K 解像度で214 MBと、NVIDIAの562 MBより約62%少ない。ただし公開されたRTX 5090の測定値では、処理時間の改善は宣伝された2.4Xほど大きくないとみられ、これらは実際のゲームのFPSではなくフレーム生成のコストに関する数値である。"
+              },
+              {
+                "t": "video",
+                "yt": "xhzNx3seocQ"
               },
               {
                 "t": "p",
-                "x": "携帯機対応、1080p互換、AMD Ryzen AI対応の拡大はすでに利用でき、Performance ModeとAuto HDRとの互換はWindows Updateを通じて段階的に配信される。"
+                "x": "Apexの社内画質測定ではANRがNVIDIA DLSS FGを上回ったが、独立した検証はまだ必要だ。ベータ版はGitHubからOptiScaler経由でインストールする。フレーム生成の実装はまだオープンソースではなく、互換性の問題や視覚的なアーティファクトも想定しておく必要がある。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "ROG Xbox Ally\nX上Auto SR结束预览",
-          "body": "AI超分Auto SR在ROG Xbox Ally X转正，支持1080p与120 FPS。",
-          "mini_headline": "Auto SR结束预览",
+          "headline": "Apex神经渲染技术\n挑战DLSS帧生成",
+          "body": "Apex号称帧生成最高快2.4x、VRAM少用62%，并以测试版支持旧款GPUs。",
+          "mini_headline": "Apex\n挑战DLSS",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-27.jpg"
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-30.jpg"
               },
               {
                 "t": "p",
-                "x": "Microsoft宣布Automatic Super Resolution（Auto SR）在ROG XBOX Ally X和X20上正式推出，并扩大对AMD Ryzen AI-powered Copilot+ PCs的支持。Auto SR利用NPU对以较低分辨率渲染的游戏进行升频，在Windows层面运行，无需开发者集成。"
+                "x": "Apex Compute推出了跨平台神经渲染套件Apex Neural Rendering（ANR）。据称与NVIDIA的技术相比，其帧生成速度最高快2.4X，画质更好，GPU显存占用也显著更低。ANR由Frame Generation（FG）、Super Resolution（SR）和Ray Reconstruction（RR）组成，目前Frame Generation已推出测试版。"
               },
               {
                 "t": "p",
-                "x": "新的Performance Mode将此前约60–75 FPS的帧率上限提高到120 FPS。在Microsoft的Rocket League 720p演示中，Quality Mode平均70 FPS，Performance Mode平均115 FPS。"
+                "x": "兼容范围涵盖NVIDIA GeForce GTX 16及RTX 20/30/40/50 Series、AMD Radeon RX 5000/6000/7000/9000 Series和Steam Deck，以及Intel Arc A-Series和B-Series，支持Windows 10/11、Linux和SteamOS，另有面向macOS 26的Metal测试套件。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Performance-Mode-115-FPS.webp",
-                "cap": "Auto SR Performance mode — 115 FPS。图片来源：Microsoft。"
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/ANR-Bench-Numbers.jpg"
               },
               {
                 "t": "p",
-                "x": "Auto SR现在可直接在掌机屏幕上运行，包括电池供电时，并支持1080p输入；在更高分辨率的外接显示器上，它可将1080p升频至1440p。它还能与Windows Auto HDR同时使用。"
+                "x": "根据Apex Compute的内部基准测试，在3840×2160分辨率下的GeForce RTX 5090上，ANR FG在2X模式下每生成一帧需要1.01毫秒，而NVIDIA DLSS Frame Generation为1.26 ms。在4K 分辨率下，GPU显存占用为214 MB，而NVIDIA为562 MB，减少约62%。不过，其公布的RTX 5090测量数据显示，处理时间的改善幅度不及宣传的2.4X，而且这些数据针对的是生成帧的开销，而非实际游戏FPS。"
+              },
+              {
+                "t": "video",
+                "yt": "xhzNx3seocQ"
               },
               {
                 "t": "p",
-                "x": "掌机支持、1080p兼容以及扩大的AMD Ryzen AI支持现已推出，Performance Mode和Auto HDR兼容则正通过Windows Update逐步推送。"
+                "x": "Apex的内部画质测量结果显示ANR优于NVIDIA DLSS FG，但仍需独立测试验证。测试版通过GitHub上的OptiScaler安装；帧生成实现尚未开源，用户应预料到兼容性问题和画面瑕疵。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Auto SR deja la vista previa\nen la ROG Xbox Ally X",
-          "body": "Auto SR, el escalador con AI de Microsoft, deja la vista previa en la ROG Xbox Ally X con 1080p y un modo de 120 FPS.",
-          "mini_headline": "Auto SR deja la vista previa",
+          "headline": "Apex Neural Rendering desafía\na DLSS en generación de frames",
+          "body": "Apex promete generar frames hasta 2.4x más rápido y usar un 62% menos de VRAM, con soporte beta para GPUs antiguas.",
+          "mini_headline": "Apex desafía\na DLSS",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-27.jpg"
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-30.jpg"
               },
               {
                 "t": "p",
-                "x": "Microsoft anunció la disponibilidad general de Automatic Super Resolution (Auto SR) en las ROG XBOX Ally X y X20, junto con más compatibilidad con los AMD Ryzen AI-powered Copilot+ PCs. Auto SR usa la NPU para escalar juegos renderizados a resoluciones más bajas y funciona a nivel de Windows, sin integración por parte de los desarrolladores."
+                "x": "Apex Compute ha presentado Apex Neural Rendering (ANR), una suite multiplataforma de renderizado neuronal que, según se informa, ofrece una generación de frames hasta 2.4X más rápida, mejor calidad de imagen y un consumo de memoria de GPU considerablemente menor que la tecnología de NVIDIA. ANR consta de Frame Generation (FG), Super Resolution (SR) y Ray Reconstruction (RR); Frame Generation está disponible actualmente en beta."
               },
               {
                 "t": "p",
-                "x": "Un nuevo Performance Mode eleva el techo anterior de frecuencia de imagen, de unos 60–75 FPS, a 120 FPS. En la demo de Rocket League de Microsoft a 720p, el juego promedió 70 FPS en Quality Mode frente a 115 FPS en Performance Mode."
+                "x": "La compatibilidad abarca las NVIDIA GeForce GTX 16 y RTX 20/30/40/50 Series, las AMD Radeon RX 5000/6000/7000/9000 Series y Steam Deck, y las Intel Arc A-Series y B-Series, en Windows 10/11, Linux y SteamOS, además de un kit de pruebas de Metal para macOS 26."
               },
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Performance-Mode-115-FPS.webp",
-                "cap": "Auto SR Performance mode — 115 FPS. Imagen: Microsoft."
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/ANR-Bench-Numbers.jpg"
               },
               {
                 "t": "p",
-                "x": "Auto SR ya funciona directamente en las pantallas de las consolas portátiles, también con batería, y admite entrada 1080p; en una pantalla externa de mayor resolución puede escalar de 1080p a 1440p. También puede funcionar junto con Windows Auto HDR."
+                "x": "Según las pruebas internas de Apex Compute, en una GeForce RTX 5090 a 3840×2160, ANR FG necesita 1.01 milisegundos por frame generado en modo 2X, frente a 1.26 ms de NVIDIA DLSS Frame Generation. El uso de memoria de GPU es de 214 MB frente a los 562 MB de NVIDIA en 4K, una reducción de aproximadamente el 62%. Las mediciones publicadas en la RTX 5090 apuntan a mejoras de tiempo de procesamiento más modestas que el 2.4X anunciado, y se refieren al coste de generar frames, no a los FPS reales en juegos."
+              },
+              {
+                "t": "video",
+                "yt": "xhzNx3seocQ"
               },
               {
                 "t": "p",
-                "x": "La compatibilidad con portátiles, la compatibilidad con 1080p y la ampliación del soporte para AMD Ryzen AI ya están disponibles, mientras que Performance Mode y la compatibilidad con Auto HDR llegan de forma gradual mediante Windows Update."
+                "x": "Las mediciones internas de calidad de Apex favorecen a ANR frente a NVIDIA DLSS FG, aunque todavía hacen falta pruebas independientes. La beta se instala mediante OptiScaler desde GitHub; la implementación de generación de frames aún no es de código abierto, y cabe esperar problemas de compatibilidad y artefactos visuales."
               }
             ]
           }
@@ -1099,15 +1149,15 @@
       }
     },
     {
-      "id": "nexon-ictai-steam-review-study",
+      "id": "ludo-toolbox-coding-agents",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Nexon, Steam\n리뷰로 AI 수용 분석",
-      "body": "Nexon Korea는 Steam 리뷰 19.37M 건으로 AI 진단법을 만들었다.",
-      "mini_headline": "Nexon, ICTAI 최우수 논문상",
+      "headline": "AI 코딩 에이전트용\nLudo 무료 툴박스 공개",
+      "body": "오픈소스 Ludo Toolbox는 코딩 에이전트용 무료 게임 에셋 도구 32개다.",
+      "mini_headline": "Ludo의 무료\n에이전트 툴박스",
       "tool": "Games",
-      "source": "Inven Global",
-      "url": "https://www.invenglobal.com/articles/28324/nexon-wins-best-paper-award-at-ictai-2026",
+      "source": "Mobidictum",
+      "url": "https://mobidictum.com/ludo-free-open-source-toolbox-ai-coding-agents/",
       "accent": "#2ec5c5",
       "motif": "cube",
       "full": {
@@ -1115,155 +1165,197 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://static.invenglobal.com/upload/image/2026/11/09/i1794187207575008.jpeg",
-            "cap": "ⓒ Nexon"
+            "src": "https://mobidictum.com/wp-content/uploads/2026/03/ludo_ai_logo.png"
           },
           {
             "t": "p",
-            "x": "Nexon Korea AI Division 산하 Applied Analytics Lab 연구진이 ICTAI 2026(IEEE International Conference on Tools with Artificial Intelligence)에서 Best Paper Award를 받았다. Steam 사용자 리뷰 약 19.37M 건으로 플레이어가 게임 속 AI를 얼마나 받아들이는지 분석한 연구다."
+            "x": "Ludo.ai가 Ludo Toolbox를 발표했다. 무료 명령줄 도구 32개 묶음으로, Claude Code, Codex, Cursor, GitHub Copilot, Gemini CLI 같은 코딩 에이전트가 게임에 스프라이트·이미지·사운드·3D 모델을 넣을 때 필요한 수치와 엔진 파일을 내준다. 오픈소스(MIT) Ludo CLI에 들어 있어 완전히 오프라인으로 돌아가고, 계정도 API 키도 크레딧도 필요 없다."
           },
           {
             "t": "p",
-            "x": "리뷰는 AI가 플레이어를 돕는 협력자 역할을 하거나 게임플레이에 자연스럽게 녹아들 때 긍정적이었고, AI가 주변 요소에 머물거나 통제하기 어렵다고 느껴질 때 부정적이었다. 연구진은 AI를 넣었느냐보다 플레이어가 체감하는 AI의 역할이 수용을 좌우한다고 결론 내렸다."
+            "x": "툴박스는 앵커 포인트, 콜라이더, pixels-per-meter를 에이전트가 짐작하던 자리에 정확한 수치를 넣는다. 결과는 JSON으로 돌려주고 엔진 고유 파일도 직접 쓴다. Unity에서 발에 피벗을 둔 키 1.8미터 기사를 설정해 달라고 하면 에이전트는 도구 세 개를 연달아 쓰고, Godot, Phaser, Box2D에서도 같은 수치가 나온다."
           },
           {
             "t": "p",
-            "x": "Nexon은 이 결과로 출시 전에 AI 기능을 평가하는 사전 진단 프레임워크를 만들었고, 앞으로 기획 단계까지 넓힐 계획이다. ICTAI는 Florida에서 2일부터 4일까지 열렸다."
+            "x": "Ludo.ai의 Co-Founder 겸 CTO인 Jorge Gomes는 \"코딩 에이전트는 게임 코드에는 매우 능숙하지만, 아트는 여전히 눈대중으로 처리한다. 툴박스는 그 대신 수치를 건넨다\"고 말했다."
+          },
+          {
+            "t": "video",
+            "yt": "4LIIbfU19pc"
+          },
+          {
+            "t": "p",
+            "x": "툴박스는 Ludo로 만든 에셋이든 아니든 다 쓸 수 있다. Ludo CLI 0.2.0 이상에서 바로 이용할 수 있고 Node.js 20 이상이 필요하다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Nexon mined Steam reviews\nfor when players accept AI",
-          "body": "Nexon Korea researchers analysed about 19.37 million Steam reviews, then built a pre-launch check for AI features.",
-          "mini_headline": "Nexon wins ICTAI best paper",
+          "headline": "Ludo releases free toolbox\nfor AI coding agents",
+          "body": "The open-source Ludo Toolbox gives coding agents 32 free command-line tools to prepare game assets for engines.",
+          "mini_headline": "Ludo's free\nagent toolbox",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.invenglobal.com/upload/image/2026/11/09/i1794187207575008.jpeg",
-                "cap": "ⓒ Nexon"
+                "src": "https://mobidictum.com/wp-content/uploads/2026/03/ludo_ai_logo.png"
               },
               {
                 "t": "p",
-                "x": "Researchers from the Applied Analytics Lab under Nexon Korea's AI Division won the Best Paper Award at ICTAI 2026 (IEEE International Conference on Tools with Artificial Intelligence) for a study on player acceptance of in-game AI that analyzed approximately 19.37 million Steam user reviews."
+                "x": "Ludo.ai announced the Ludo Toolbox, a set of 32 free command-line tools that give coding agents such as Claude Code, Codex, Cursor, GitHub Copilot, and Gemini CLI the measurements and engine files they need to add sprites, images, sounds, and 3D models to a game. It ships inside the open-source (MIT) Ludo CLI and runs entirely offline, with no account, API key, or credits required."
               },
               {
                 "t": "p",
-                "x": "Reviews were positive when AI functioned as a collaborator helping players or was naturally integrated into gameplay, and negative when AI remained a peripheral element or felt difficult to control. The researchers concluded that player experience of the AI's role, rather than the mere implementation of AI, determines acceptance."
+                "x": "The toolbox replaces agents' guesses about anchor points, colliders and pixels-per-meter with exact numbers, returning JSON and writing the engine's own files. Asked to set up a knight in Unity with the pivot on its feet and a 1.8-meter height, the agent chains three tools; the same numbers come out for Godot, Phaser, and Box2D."
               },
               {
                 "t": "p",
-                "x": "Nexon used the findings to build a pre-diagnosis framework to evaluate AI features prior to launch, and plans to expand it to the planning stage. ICTAI was held from the 2nd to the 4th in Florida."
+                "x": "\"Coding agents are very good at game code, but they still eyeball the art. The toolbox gives them the numbers instead,\" said Jorge Gomes, Co-Founder and CTO of Ludo.ai."
+              },
+              {
+                "t": "video",
+                "yt": "4LIIbfU19pc"
+              },
+              {
+                "t": "p",
+                "x": "The toolbox works on any asset, whether made with Ludo or not. It is available now in Ludo CLI 0.2.0 and later, which requires Node.js 20 or newer."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Nexon, Steam\n리뷰로 AI 수용 분석",
-          "body": "Nexon Korea는 Steam 리뷰 19.37M 건으로 AI 진단법을 만들었다.",
-          "mini_headline": "Nexon, ICTAI 최우수 논문상",
+          "headline": "AI 코딩 에이전트용\nLudo 무료 툴박스 공개",
+          "body": "오픈소스 Ludo Toolbox는 코딩 에이전트용 무료 게임 에셋 도구 32개다.",
+          "mini_headline": "Ludo의 무료\n에이전트 툴박스",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.invenglobal.com/upload/image/2026/11/09/i1794187207575008.jpeg",
-                "cap": "ⓒ Nexon"
+                "src": "https://mobidictum.com/wp-content/uploads/2026/03/ludo_ai_logo.png"
               },
               {
                 "t": "p",
-                "x": "Nexon Korea AI Division 산하 Applied Analytics Lab 연구진이 ICTAI 2026(IEEE International Conference on Tools with Artificial Intelligence)에서 Best Paper Award를 받았다. Steam 사용자 리뷰 약 19.37M 건으로 플레이어가 게임 속 AI를 얼마나 받아들이는지 분석한 연구다."
+                "x": "Ludo.ai가 Ludo Toolbox를 발표했다. 무료 명령줄 도구 32개 묶음으로, Claude Code, Codex, Cursor, GitHub Copilot, Gemini CLI 같은 코딩 에이전트가 게임에 스프라이트·이미지·사운드·3D 모델을 넣을 때 필요한 수치와 엔진 파일을 내준다. 오픈소스(MIT) Ludo CLI에 들어 있어 완전히 오프라인으로 돌아가고, 계정도 API 키도 크레딧도 필요 없다."
               },
               {
                 "t": "p",
-                "x": "리뷰는 AI가 플레이어를 돕는 협력자 역할을 하거나 게임플레이에 자연스럽게 녹아들 때 긍정적이었고, AI가 주변 요소에 머물거나 통제하기 어렵다고 느껴질 때 부정적이었다. 연구진은 AI를 넣었느냐보다 플레이어가 체감하는 AI의 역할이 수용을 좌우한다고 결론 내렸다."
+                "x": "툴박스는 앵커 포인트, 콜라이더, pixels-per-meter를 에이전트가 짐작하던 자리에 정확한 수치를 넣는다. 결과는 JSON으로 돌려주고 엔진 고유 파일도 직접 쓴다. Unity에서 발에 피벗을 둔 키 1.8미터 기사를 설정해 달라고 하면 에이전트는 도구 세 개를 연달아 쓰고, Godot, Phaser, Box2D에서도 같은 수치가 나온다."
               },
               {
                 "t": "p",
-                "x": "Nexon은 이 결과로 출시 전에 AI 기능을 평가하는 사전 진단 프레임워크를 만들었고, 앞으로 기획 단계까지 넓힐 계획이다. ICTAI는 Florida에서 2일부터 4일까지 열렸다."
+                "x": "Ludo.ai의 Co-Founder 겸 CTO인 Jorge Gomes는 \"코딩 에이전트는 게임 코드에는 매우 능숙하지만, 아트는 여전히 눈대중으로 처리한다. 툴박스는 그 대신 수치를 건넨다\"고 말했다."
+              },
+              {
+                "t": "video",
+                "yt": "4LIIbfU19pc"
+              },
+              {
+                "t": "p",
+                "x": "툴박스는 Ludo로 만든 에셋이든 아니든 다 쓸 수 있다. Ludo CLI 0.2.0 이상에서 바로 이용할 수 있고 Node.js 20 이상이 필요하다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Steamレビューを分析\nNexonがAI受容を探る",
-          "body": "Nexon Koreaは約19.37M 件のSteamレビューからAI事前診断法を作った。",
-          "mini_headline": "Nexon、ICTAIで最優秀論文賞",
+          "headline": "Ludo、AIコーディング\nエージェント向け無料ツール群",
+          "body": "Ludo Toolboxはオープンソースで、エージェントに無料のツール32種を提供する。",
+          "mini_headline": "Ludoの無料\nエージェント用ツール",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.invenglobal.com/upload/image/2026/11/09/i1794187207575008.jpeg",
-                "cap": "ⓒ Nexon"
+                "src": "https://mobidictum.com/wp-content/uploads/2026/03/ludo_ai_logo.png"
               },
               {
                 "t": "p",
-                "x": "Nexon KoreaのAI Division傘下にあるApplied Analytics Labの研究者たちが、約19.37M 件のSteamユーザーレビューを分析したゲーム内AIのプレイヤー受容に関する研究で、ICTAI 2026(IEEE International Conference on Tools with Artificial Intelligence)のBest Paper Awardを受賞した。"
+                "x": "Ludo.aiはLudo Toolboxを発表した。Claude Code、Codex、Cursor、GitHub Copilot、Gemini CLIなどのコーディングエージェントが、ゲームにスプライト、画像、サウンド、3Dモデルを追加するのに必要な寸法とエンジン用ファイルを提供する、32種の無料コマンドラインツールだ。オープンソース（MIT）のLudo CLIに同梱され、完全にオフラインで動作し、アカウント、APIキー、クレジットは不要である。"
               },
               {
                 "t": "p",
-                "x": "AIがプレイヤーを助ける協力者として機能したり、ゲームプレイに自然に溶け込んだりしている場合はレビューが好意的で、AIが周辺的な要素にとどまったり、制御しにくいと感じられたりする場合は否定的だった。研究者たちは、AIを実装したかどうかではなく、プレイヤーが体験するAIの役割こそが受容を左右すると結論づけた。"
+                "x": "このツールボックスは、アンカーポイントやコライダー、pixels-per-meterに関するエージェントの推測を正確な数値に置き換え、JSONを返してエンジン独自のファイルを書き出す。Unityで足元にピボットを置いた身長1.8メートルの騎士を設定するよう指示すると、エージェントは3つのツールを連続して使い、Godot、Phaser、Box2Dでも同じ数値が得られる。"
               },
               {
                 "t": "p",
-                "x": "Nexonはこの知見をもとに、発売前にAI機能を評価する事前診断フレームワークを構築し、企画段階にも広げる計画だ。ICTAIは2日から4日までFloridaで開かれた。"
+                "x": "Ludo.aiのCo-Founder兼CTOであるJorge Gomesは「コーディングエージェントはゲームのコードは非常に得意だが、アートはいまだに目分量で扱っている。ツールボックスは代わりに数値を渡す」と述べた。"
+              },
+              {
+                "t": "video",
+                "yt": "4LIIbfU19pc"
+              },
+              {
+                "t": "p",
+                "x": "ツールボックスは、Ludoで作ったかどうかに関係なく、あらゆるアセットに使える。Ludo CLI 0.2.0以降ですでに利用でき、Node.js 20以降が必要だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Nexon挖掘Steam评论\n看玩家何时接受AI",
-          "body": "Nexon Korea分析约19.37M 条Steam评论，建立AI功能上线前检测机制。",
-          "mini_headline": "Nexon获ICTAI最佳论文奖",
+          "headline": "Ludo为AI编程智能体\n推出免费工具箱",
+          "body": "开源Ludo Toolbox为编程智能体提供32个免费命令行工具，用于为引擎准备游戏素材。",
+          "mini_headline": "Ludo的免费\n智能体工具箱",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.invenglobal.com/upload/image/2026/11/09/i1794187207575008.jpeg",
-                "cap": "ⓒ Nexon"
+                "src": "https://mobidictum.com/wp-content/uploads/2026/03/ludo_ai_logo.png"
               },
               {
                 "t": "p",
-                "x": "Nexon Korea AI Division旗下Applied Analytics Lab的研究人员分析了约19.37M 条Steam用户评论，凭借一项关于玩家对游戏内AI接受度的研究，获得ICTAI 2026（IEEE International Conference on Tools with Artificial Intelligence）Best Paper Award。"
+                "x": "Ludo.ai发布了Ludo Toolbox。这是一套包含32个免费命令行工具的工具集，可为Claude Code、Codex、Cursor、GitHub Copilot和Gemini CLI等编程智能体提供向游戏添加精灵、图像、声音和3D模型所需的尺寸数据和引擎文件。它内置于开源（MIT）的Ludo CLI中，完全离线运行，无需账号、API密钥或积分。"
               },
               {
                 "t": "p",
-                "x": "当AI作为帮助玩家的协作者发挥作用，或自然融入玩法时，评论趋于正面；当AI只是边缘元素或让人感觉难以控制时，评论则偏负面。研究人员得出结论：决定接受度的不是单纯是否加入AI，而是玩家对AI所扮演角色的体验。"
+                "x": "该工具箱用精确数值取代智能体对锚点、碰撞体和pixels-per-meter的猜测，返回JSON并直接写出引擎自身的文件。若要求在Unity中设置一个枢轴位于脚部、身高1.8米的骑士，智能体会串联使用三个工具；在Godot、Phaser和Box2D中得出的数值也相同。"
               },
               {
                 "t": "p",
-                "x": "Nexon据此构建了一套在上线前评估AI功能的预诊断框架，并计划将其扩展到策划阶段。ICTAI于2日至4日在Florida举行。"
+                "x": "Ludo.ai的Co-Founder兼CTO Jorge Gomes表示：“编程智能体非常擅长写游戏代码，但处理美术时仍靠目测。工具箱则直接给它们数值。”"
+              },
+              {
+                "t": "video",
+                "yt": "4LIIbfU19pc"
+              },
+              {
+                "t": "p",
+                "x": "该工具箱适用于任何素材，无论是否由Ludo制作。它现已在Ludo CLI 0.2.0及更高版本中提供，需要Node.js 20或更新版本。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Nexon analizó reseñas de Steam\npara ver cuándo se acepta la AI",
-          "body": "Nexon Korea analizó unos 19.37 millones de reseñas de Steam y creó una revisión previa para funciones de AI.",
-          "mini_headline": "Nexon gana el premio al mejor artículo de ICTAI",
+          "headline": "Ludo lanza herramientas gratis\npara agentes de código de IA",
+          "body": "Ludo Toolbox, de código abierto, da a los agentes de código 32 herramientas gratuitas para preparar recursos de juego.",
+          "mini_headline": "Herramientas gratis\nde Ludo para agentes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.invenglobal.com/upload/image/2026/11/09/i1794187207575008.jpeg",
-                "cap": "ⓒ Nexon"
+                "src": "https://mobidictum.com/wp-content/uploads/2026/03/ludo_ai_logo.png"
               },
               {
                 "t": "p",
-                "x": "Investigadores del Applied Analytics Lab de la AI Division de Nexon Korea ganaron el Best Paper Award en ICTAI 2026 (IEEE International Conference on Tools with Artificial Intelligence) por un estudio sobre la aceptación de la AI en los juegos por parte de los jugadores, que analizó unos 19.37 millones de reseñas de usuarios de Steam."
+                "x": "Ludo.ai anunció Ludo Toolbox, un conjunto de 32 herramientas gratuitas de línea de comandos que proporcionan a agentes de programación como Claude Code, Codex, Cursor, GitHub Copilot y Gemini CLI las medidas y los archivos de motor que necesitan para añadir sprites, imágenes, sonidos y modelos 3D a un juego. Se distribuye dentro de Ludo CLI, de código abierto (MIT), y funciona completamente sin conexión, sin necesidad de cuenta, clave de API ni créditos."
               },
               {
                 "t": "p",
-                "x": "Las reseñas fueron positivas cuando la AI actuaba como colaboradora que ayudaba a los jugadores o se integraba de forma natural en la jugabilidad, y negativas cuando quedaba como un elemento periférico o resultaba difícil de controlar. Los investigadores concluyeron que lo que determina la aceptación es la experiencia que el jugador tiene del papel de la AI, y no la mera implementación de AI."
+                "x": "La caja de herramientas sustituye las conjeturas de los agentes sobre puntos de anclaje, colisionadores y pixels-per-meter por cifras exactas, devuelve JSON y escribe los archivos propios del motor. Si se le pide configurar un caballero en Unity con el pivote en los pies y una altura de 1.8 metros, el agente encadena tres herramientas; en Godot, Phaser y Box2D se obtienen las mismas cifras."
               },
               {
                 "t": "p",
-                "x": "Nexon usó los resultados para crear un marco de prediagnóstico que evalúa las funciones de AI antes del lanzamiento, y prevé ampliarlo a la fase de planificación. ICTAI se celebró del 2 al 4 en Florida."
+                "x": "\"Los agentes de programación son muy buenos con el código de juegos, pero todavía calculan el arte a ojo. La caja de herramientas les da las cifras\", afirmó Jorge Gomes, Co-Founder y CTO de Ludo.ai."
+              },
+              {
+                "t": "video",
+                "yt": "4LIIbfU19pc"
+              },
+              {
+                "t": "p",
+                "x": "La caja de herramientas funciona con cualquier recurso, se haya creado con Ludo o no. Ya está disponible en Ludo CLI 0.2.0 y versiones posteriores, que requieren Node.js 20 o superior."
               }
             ]
           }
@@ -1271,109 +1363,137 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Nexon, Steam\n리뷰로 AI 수용 분석",
-          "body": "Nexon Korea는 Steam 리뷰 19.37M 건으로 AI 진단법을 만들었다.",
-          "mini_headline": "Nexon, ICTAI 최우수 논문상",
+          "headline": "AI 코딩 에이전트용\nLudo 무료 툴박스 공개",
+          "body": "오픈소스 Ludo Toolbox는 코딩 에이전트용 무료 게임 에셋 도구 32개다.",
+          "mini_headline": "Ludo의 무료\n에이전트 툴박스",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.invenglobal.com/upload/image/2026/11/09/i1794187207575008.jpeg",
-                "cap": "ⓒ Nexon"
+                "src": "https://mobidictum.com/wp-content/uploads/2026/03/ludo_ai_logo.png"
               },
               {
                 "t": "p",
-                "x": "Nexon Korea AI Division 산하 Applied Analytics Lab 연구진이 Steam 사용자 리뷰 약 19.37M 건을 분석해 게임 속 AI에 대한 플레이어 수용성을 다룬 연구로 ICTAI 2026(IEEE International Conference on Tools with Artificial Intelligence)에서 Best Paper Award를 받았다."
+                "x": "Ludo.ai가 Ludo Toolbox를 발표했다. Claude Code, Codex, Cursor, GitHub Copilot, Gemini CLI 같은 코딩 에이전트가 게임에 스프라이트, 이미지, 사운드, 3D 모델을 넣을 때 필요한 수치와 엔진 파일을 제공하는 무료 명령줄 도구 32개 모음이다. 오픈소스(MIT) Ludo CLI에 포함돼 완전히 오프라인으로 작동하며, 계정이나 API 키, 크레딧이 필요 없다."
               },
               {
                 "t": "p",
-                "x": "AI가 플레이어를 돕는 협력자로 작동하거나 게임플레이에 자연스럽게 녹아들 때 리뷰는 긍정적이었고, AI가 주변 요소에 머물거나 통제하기 어렵다고 느껴질 때는 부정적이었다. 연구진은 AI를 넣었는지 여부보다 플레이어가 체감하는 AI의 역할이 수용을 좌우한다고 결론지었다."
+                "x": "이 툴박스는 앵커 포인트, 콜라이더, pixels-per-meter에 대한 에이전트의 추측을 정확한 수치로 대체하고, JSON을 반환하며 엔진 고유의 파일을 직접 작성한다. Unity에서 발에 피벗을 두고 키가 1.8미터인 기사를 설정해 달라고 하면 에이전트는 도구 세 개를 연달아 쓰며, Godot, Phaser, Box2D에서도 같은 수치가 나온다."
               },
               {
                 "t": "p",
-                "x": "Nexon은 이 결과를 바탕으로 출시 전에 AI 기능을 평가하는 사전 진단 프레임워크를 만들었고, 이를 기획 단계까지 넓힐 계획이다. ICTAI는 Florida에서 2일부터 4일까지 열렸다."
+                "x": "Ludo.ai의 Co-Founder 겸 CTO인 Jorge Gomes는 \"코딩 에이전트는 게임 코드에는 매우 능숙하지만, 아트는 여전히 눈대중으로 처리한다. 툴박스는 그 대신 수치를 건넨다\"고 말했다."
+              },
+              {
+                "t": "video",
+                "yt": "4LIIbfU19pc"
+              },
+              {
+                "t": "p",
+                "x": "툴박스는 Ludo로 만들었든 아니든 어떤 에셋에도 쓸 수 있다. 지금 Ludo CLI 0.2.0 이상에서 이용할 수 있으며, Node.js 20 이상이 필요하다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Steamレビューを分析\nNexonがAI受容を探る",
-          "body": "Nexon Koreaは約19.37M 件のSteamレビューからAI事前診断法を作った。",
-          "mini_headline": "Nexon、ICTAIで最優秀論文賞",
+          "headline": "Ludo、AIコーディング\nエージェント向け無料ツール群",
+          "body": "Ludo Toolboxはオープンソースで、エージェントに無料のツール32種を提供する。",
+          "mini_headline": "Ludoの無料\nエージェント用ツール",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.invenglobal.com/upload/image/2026/11/09/i1794187207575008.jpeg",
-                "cap": "ⓒ Nexon"
+                "src": "https://mobidictum.com/wp-content/uploads/2026/03/ludo_ai_logo.png"
               },
               {
                 "t": "p",
-                "x": "Nexon KoreaのAI Division傘下にあるApplied Analytics Labの研究者たちが、約19.37M 件のSteamユーザーレビューを分析したゲーム内AIのプレイヤー受容に関する研究で、ICTAI 2026(IEEE International Conference on Tools with Artificial Intelligence)のBest Paper Awardを受賞した。"
+                "x": "Ludo.aiはLudo Toolboxを発表した。Claude Code、Codex、Cursor、GitHub Copilot、Gemini CLIなどのコーディングエージェントが、ゲームにスプライト、画像、サウンド、3Dモデルを追加するのに必要な寸法とエンジン用ファイルを提供する、32種の無料コマンドラインツールだ。オープンソース（MIT）のLudo CLIに同梱され、完全にオフラインで動作し、アカウント、APIキー、クレジットは不要である。"
               },
               {
                 "t": "p",
-                "x": "AIがプレイヤーを助ける協力者として機能したり、ゲームプレイに自然に溶け込んだりしている場合はレビューが好意的で、AIが周辺的な要素にとどまったり、制御しにくいと感じられたりする場合は否定的だった。研究者たちは、AIを実装したかどうかではなく、プレイヤーが体験するAIの役割こそが受容を左右すると結論づけた。"
+                "x": "このツールボックスは、アンカーポイントやコライダー、pixels-per-meterに関するエージェントの推測を正確な数値に置き換え、JSONを返してエンジン独自のファイルを書き出す。Unityで足元にピボットを置いた身長1.8メートルの騎士を設定するよう指示すると、エージェントは3つのツールを連続して使い、Godot、Phaser、Box2Dでも同じ数値が得られる。"
               },
               {
                 "t": "p",
-                "x": "Nexonはこの知見をもとに、発売前にAI機能を評価する事前診断フレームワークを構築し、企画段階にも広げる計画だ。ICTAIは2日から4日までFloridaで開かれた。"
+                "x": "Ludo.aiのCo-Founder兼CTOであるJorge Gomesは「コーディングエージェントはゲームのコードは非常に得意だが、アートはいまだに目分量で扱っている。ツールボックスは代わりに数値を渡す」と述べた。"
+              },
+              {
+                "t": "video",
+                "yt": "4LIIbfU19pc"
+              },
+              {
+                "t": "p",
+                "x": "ツールボックスは、Ludoで作ったかどうかに関係なく、あらゆるアセットに使える。Ludo CLI 0.2.0以降ですでに利用でき、Node.js 20以降が必要だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Nexon挖掘Steam评论\n看玩家何时接受AI",
-          "body": "Nexon Korea分析约19.37M 条Steam评论，建立AI功能上线前检测机制。",
-          "mini_headline": "Nexon获ICTAI最佳论文奖",
+          "headline": "Ludo为AI编程智能体\n推出免费工具箱",
+          "body": "开源Ludo Toolbox为编程智能体提供32个免费命令行工具，用于为引擎准备游戏素材。",
+          "mini_headline": "Ludo的免费\n智能体工具箱",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.invenglobal.com/upload/image/2026/11/09/i1794187207575008.jpeg",
-                "cap": "ⓒ Nexon"
+                "src": "https://mobidictum.com/wp-content/uploads/2026/03/ludo_ai_logo.png"
               },
               {
                 "t": "p",
-                "x": "Nexon Korea AI Division旗下Applied Analytics Lab的研究人员分析了约19.37M 条Steam用户评论，凭借一项关于玩家对游戏内AI接受度的研究，获得ICTAI 2026（IEEE International Conference on Tools with Artificial Intelligence）Best Paper Award。"
+                "x": "Ludo.ai发布了Ludo Toolbox。这是一套包含32个免费命令行工具的工具集，可为Claude Code、Codex、Cursor、GitHub Copilot和Gemini CLI等编程智能体提供向游戏添加精灵、图像、声音和3D模型所需的尺寸数据和引擎文件。它内置于开源（MIT）的Ludo CLI中，完全离线运行，无需账号、API密钥或积分。"
               },
               {
                 "t": "p",
-                "x": "当AI作为帮助玩家的协作者发挥作用，或自然融入玩法时，评论趋于正面；当AI只是边缘元素或让人感觉难以控制时，评论则偏负面。研究人员得出结论：决定接受度的不是单纯是否加入AI，而是玩家对AI所扮演角色的体验。"
+                "x": "该工具箱用精确数值取代智能体对锚点、碰撞体和pixels-per-meter的猜测，返回JSON并直接写出引擎自身的文件。若要求在Unity中设置一个枢轴位于脚部、身高1.8米的骑士，智能体会串联使用三个工具；在Godot、Phaser和Box2D中得出的数值也相同。"
               },
               {
                 "t": "p",
-                "x": "Nexon据此构建了一套在上线前评估AI功能的预诊断框架，并计划将其扩展到策划阶段。ICTAI于2日至4日在Florida举行。"
+                "x": "Ludo.ai的Co-Founder兼CTO Jorge Gomes表示：“编程智能体非常擅长写游戏代码，但处理美术时仍靠目测。工具箱则直接给它们数值。”"
+              },
+              {
+                "t": "video",
+                "yt": "4LIIbfU19pc"
+              },
+              {
+                "t": "p",
+                "x": "该工具箱适用于任何素材，无论是否由Ludo制作。它现已在Ludo CLI 0.2.0及更高版本中提供，需要Node.js 20或更新版本。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Nexon analizó reseñas de Steam\npara ver cuándo se acepta la AI",
-          "body": "Nexon Korea analizó unos 19.37 millones de reseñas de Steam y creó una revisión previa para funciones de AI.",
-          "mini_headline": "Nexon gana el premio al mejor artículo de ICTAI",
+          "headline": "Ludo lanza herramientas gratis\npara agentes de código de IA",
+          "body": "Ludo Toolbox, de código abierto, da a los agentes de código 32 herramientas gratuitas para preparar recursos de juego.",
+          "mini_headline": "Herramientas gratis\nde Ludo para agentes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.invenglobal.com/upload/image/2026/11/09/i1794187207575008.jpeg",
-                "cap": "ⓒ Nexon"
+                "src": "https://mobidictum.com/wp-content/uploads/2026/03/ludo_ai_logo.png"
               },
               {
                 "t": "p",
-                "x": "Investigadores del Applied Analytics Lab de la AI Division de Nexon Korea ganaron el Best Paper Award en ICTAI 2026 (IEEE International Conference on Tools with Artificial Intelligence) por un estudio sobre la aceptación de la AI en los juegos por parte de los jugadores, que analizó unos 19.37 millones de reseñas de usuarios de Steam."
+                "x": "Ludo.ai anunció Ludo Toolbox, un conjunto de 32 herramientas gratuitas de línea de comandos que proporcionan a agentes de programación como Claude Code, Codex, Cursor, GitHub Copilot y Gemini CLI las medidas y los archivos de motor que necesitan para añadir sprites, imágenes, sonidos y modelos 3D a un juego. Se distribuye dentro de Ludo CLI, de código abierto (MIT), y funciona completamente sin conexión, sin necesidad de cuenta, clave de API ni créditos."
               },
               {
                 "t": "p",
-                "x": "Las reseñas fueron positivas cuando la AI actuaba como colaboradora que ayudaba a los jugadores o se integraba de forma natural en la jugabilidad, y negativas cuando quedaba como un elemento periférico o resultaba difícil de controlar. Los investigadores concluyeron que lo que determina la aceptación es la experiencia que el jugador tiene del papel de la AI, y no la mera implementación de AI."
+                "x": "La caja de herramientas sustituye las conjeturas de los agentes sobre puntos de anclaje, colisionadores y pixels-per-meter por cifras exactas, devuelve JSON y escribe los archivos propios del motor. Si se le pide configurar un caballero en Unity con el pivote en los pies y una altura de 1.8 metros, el agente encadena tres herramientas; en Godot, Phaser y Box2D se obtienen las mismas cifras."
               },
               {
                 "t": "p",
-                "x": "Nexon usó los resultados para crear un marco de prediagnóstico que evalúa las funciones de AI antes del lanzamiento, y prevé ampliarlo a la fase de planificación. ICTAI se celebró del 2 al 4 en Florida."
+                "x": "\"Los agentes de programación son muy buenos con el código de juegos, pero todavía calculan el arte a ojo. La caja de herramientas les da las cifras\", afirmó Jorge Gomes, Co-Founder y CTO de Ludo.ai."
+              },
+              {
+                "t": "video",
+                "yt": "4LIIbfU19pc"
+              },
+              {
+                "t": "p",
+                "x": "La caja de herramientas funciona con cualquier recurso, se haya creado con Ludo o no. Ya está disponible en Ludo CLI 0.2.0 y versiones posteriores, que requieren Node.js 20 o superior."
               }
             ]
           }
@@ -1381,15 +1501,15 @@
       }
     },
     {
-      "id": "amdlss5-dlss5-amd-mod",
+      "id": "gamesbeat-next-ai-native-games",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AMDLSS5 모드로\nRX 9000 DLSS 5",
-      "body": "AMDLSS5는 AMD에서 DLSS 5를 돌리며 타 모드보다 64% 빠르다고 한다.",
-      "mini_headline": "AMDLSS5로\nAMD에도 DLSS 5",
+      "headline": "AI로만 만들 수 있는\n게임을 만든다",
+      "body": "GamesBeat Next 패널이 AI-native 개발로 열릴 게임을 짚었다.",
+      "mini_headline": "AI만이\n만들 수 있는 게임",
       "tool": "Games",
-      "source": "PC Gamer",
-      "url": "https://www.pcgamer.com/hardware/graphics-cards/amdlss5-gets-nvidias-neural-rendering-running-on-amd-graphics-cards-and-claims-64-percent-better-performance-than-other-mods/",
+      "source": "GamesBeat",
+      "url": "https://gamesbeat.com/ai-native-game-development-making-games-that-can-only-be-made-with-ai-gamesbeat-next-2026/",
       "accent": "#eb367f",
       "motif": "cube",
       "full": {
@@ -1397,221 +1517,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/B3ULyP68EiAPD55fRNR8S7-2560-80.jpg"
+            "src": "https://gamesbeat.com/wp-content/uploads/2026/11/AI-1.jpg"
           },
           {
             "t": "p",
-            "x": "DLSS 5가 나온 지 꽤 됐지만 AMD 카드용은 당연히 없다. 적어도 공식적으로는 그렇다. 앞서 모드로 이 머신러닝 기반 뉴럴 렌더링 기술을 AMD RX 9000-series 칩에서 돌린 사례가 있었고, 이번에 훨씬 나아진 모드가 나왔다."
+            "x": "게임에서 AI가 줄 가장 큰 기회는 AI 없이는 불가능했을 완전히 새로운 게임을 만드는 일일지 모른다. Jamil Moledina가 진행하고 Brian Tanner(Artificial Agency), Piero Molino(Studio Atelico), Jon Snoddy(Operative Games)가 참여한 GamesBeat Next 2026 패널은 이 주제를 중심에 뒀다."
           },
           {
             "t": "p",
-            "x": "AMDLSS5 2.0 버전이 공개됐다(via Wccftech). 제작자는 Resident Evil Requiem에서 “다른 모드”보다 fps가 +64%, 이 모드의 이전 버전보다 fps가 +11% 높다고 주장한다."
+            "x": "Molino는 초기 생성형 에이전트 실험을 두고 \"AI는 많이 필요하지만 진짜 게임은 아니다\"라고 평했다. \"긴장감도, 도전도 없었기\" 때문이다. Operative Games에서는 대화가 핵심 메커닉이다. Snoddy는 \"게임 메커닉이 곧 스토리다. 게임 메커닉이 곧 대화다\"라고 말했다."
           },
           {
             "t": "p",
-            "x": "사실이라면 특히 반갑다. PC Gamer가 다른 모드로 AMD Radeon RX 9070 XT에서 DLSS 5를 시험했을 때 Cyberpunk 2077은 4K 해상도, RT Ultra 설정, FSR 4 Balanced에서 고작 9 fps에 그쳤다."
+            "x": "패널은 런타임 경제성도 다뤘다. Tanner는 품질과 속도, 비용 사이의 균형을 설명했고, Molino는 \"내가 게임 디자이너인데 게임 안에서 호출 한 번에 일정 비용이 든다는 걸 안다면, 그것이 내가 할 수 있는 디자인에 영향을 준다\"고 말했다."
           },
           {
             "t": "p",
-            "x": "DLSS 5는 Nvidia GPU에서도 매우 무거울 수 있다. RTX 5080에서 4K 해상도로 돌린 NBA 2K27은 프레임 레이트가 최대 73% 떨어졌다."
-          },
-          {
-            "t": "p",
-            "x": "모드 제작자가 Reddit에 올린 지원 게임 목록은 Resident Evil Requiem, Cyberpunk 2077, The Witcher 3(DX12 리마스터만), Red Dead Redemption 2, Shadow of the Tomb Raider, Nioh 3, Final Fantasy XVI, Monster Hunter Wilds, Onimusha: Way of the Sword, PRAGMATA, Grand Theft Auto V Enhanced(스토리 모드, 오프라인 전용)다."
-          },
-          {
-            "t": "p",
-            "x": "Reddit 댓글 중에는 모드를 켜면 화질이 썩 좋지 않다는 반응도 있다. 설치는 파일을 내려받아 인스톨러를 실행하면 끝이고, 인스톨러는 “클릭 한 번으로 모드를 설치, 업데이트 또는 제거”한다."
+            "x": "연사들은 자율 캐릭터가 이끄는 시스템 중심 샌드박스형 게임에 잠재력이 있다고 봤다. AI-native 개발은 기술 과제이면서 그만큼 디자인 과제이기도 하다는 설명이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AMDLSS5 mod brings DLSS 5\nto AMD Radeon RX 9000 cards",
-          "body": "AMDLSS5 runs Nvidia's DLSS 5 on Radeon RX 9000 cards and claims 64% higher fps than other mods in Resident Evil Requiem.",
-          "mini_headline": "AMDLSS5 brings\nDLSS 5 to AMD",
+          "headline": "Making games that can\nonly be made with AI",
+          "body": "GamesBeat Next explored how AI-native development could unlock games with intelligent characters and dynamic worlds.",
+          "mini_headline": "Games only\nAI can make",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/B3ULyP68EiAPD55fRNR8S7-2560-80.jpg"
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/11/AI-1.jpg"
               },
               {
                 "t": "p",
-                "x": "DLSS 5 has been out for a while now, but obviously not for AMD cards — not officially, anyway. Mods have previously got the machine learning-aided neural rendering tech running on AMD RX 9000-series silicon, and now there's a significantly improved one."
+                "x": "AI's biggest opportunity in games may be creating entirely new kinds of games that would not be possible without it. That was the central theme of a GamesBeat Next 2026 panel with Brian Tanner (Artificial Agency), Piero Molino (Studio Atelico) and Jon Snoddy (Operative Games), moderated by Jamil Moledina."
               },
               {
                 "t": "p",
-                "x": "AMDLSS5 version 2.0 is now out (via Wccftech). Compared with \"other mods\", it's claiming +64% fps in Resident Evil Requiem, and +11% fps compared with the previous version of this one."
+                "x": "Molino noted that early generative agent experiments \"need a lot of AI, but they are not really games\" because there was \"no bite, no challenge.\" At Operative Games, conversation is the core mechanic: \"The game mechanic is the story. The game mechanic is the conversation,\" Snoddy said."
               },
               {
                 "t": "p",
-                "x": "That's particularly great, if true: PC Gamer's testing of DLSS 5 on an AMD Radeon RX 9070 XT using a different mod managed just 9 fps in Cyberpunk 2077 at 4K on RT Ultra settings, with FSR 4 set to Balanced."
+                "x": "The panel also explored runtime economics: Tanner described balancing quality, speed and cost, while Molino said, \"If I'm a game designer, and I know that making a call within the game costs me a certain amount, that influences the design that I can make.\""
               },
               {
                 "t": "p",
-                "x": "DLSS 5 itself can be very intensive, even on an Nvidia GPU: in NBA 2K27, frame rates dropped up to 73% at 4K on an RTX 5080."
-              },
-              {
-                "t": "p",
-                "x": "According to the mod's creator on Reddit, supported games include Resident Evil Requiem, Cyberpunk 2077, The Witcher 3 (DX12 remaster only), Red Dead Redemption 2, Shadow of the Tomb Raider, Nioh 3, Final Fantasy XVI, Monster Hunter Wilds, Onimusha: Way of the Sword, PRAGMATA and Grand Theft Auto V Enhanced (story mode, offline only)."
-              },
-              {
-                "t": "p",
-                "x": "Some Reddit comments say the quality isn't very good with the mod enabled. Installation involves downloading the files and running the installer, which \"installs, updates or removes the mod with one click.\""
+                "x": "The speakers saw potential for systemic, sandbox-style games driven by autonomous characters, and described AI-native development as a design challenge as much as a technical one."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AMDLSS5 모드로\nRX 9000 DLSS 5",
-          "body": "AMDLSS5는 AMD에서 DLSS 5를 돌리며 타 모드보다 64% 빠르다고 한다.",
-          "mini_headline": "AMDLSS5로\nAMD에도 DLSS 5",
+          "headline": "AI로만 만들 수 있는\n게임을 만든다",
+          "body": "GamesBeat Next 패널이 AI-native 개발로 열릴 게임을 짚었다.",
+          "mini_headline": "AI만이\n만들 수 있는 게임",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/B3ULyP68EiAPD55fRNR8S7-2560-80.jpg"
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/11/AI-1.jpg"
               },
               {
                 "t": "p",
-                "x": "DLSS 5가 나온 지 꽤 됐지만 AMD 카드용은 당연히 없다. 적어도 공식적으로는 그렇다. 앞서 모드로 이 머신러닝 기반 뉴럴 렌더링 기술을 AMD RX 9000-series 칩에서 돌린 사례가 있었고, 이번에 훨씬 나아진 모드가 나왔다."
+                "x": "게임에서 AI가 줄 가장 큰 기회는 AI 없이는 불가능했을 완전히 새로운 게임을 만드는 일일지 모른다. Jamil Moledina가 진행하고 Brian Tanner(Artificial Agency), Piero Molino(Studio Atelico), Jon Snoddy(Operative Games)가 참여한 GamesBeat Next 2026 패널은 이 주제를 중심에 뒀다."
               },
               {
                 "t": "p",
-                "x": "AMDLSS5 2.0 버전이 공개됐다(via Wccftech). 제작자는 Resident Evil Requiem에서 “다른 모드”보다 fps가 +64%, 이 모드의 이전 버전보다 fps가 +11% 높다고 주장한다."
+                "x": "Molino는 초기 생성형 에이전트 실험을 두고 \"AI는 많이 필요하지만 진짜 게임은 아니다\"라고 평했다. \"긴장감도, 도전도 없었기\" 때문이다. Operative Games에서는 대화가 핵심 메커닉이다. Snoddy는 \"게임 메커닉이 곧 스토리다. 게임 메커닉이 곧 대화다\"라고 말했다."
               },
               {
                 "t": "p",
-                "x": "사실이라면 특히 반갑다. PC Gamer가 다른 모드로 AMD Radeon RX 9070 XT에서 DLSS 5를 시험했을 때 Cyberpunk 2077은 4K 해상도, RT Ultra 설정, FSR 4 Balanced에서 고작 9 fps에 그쳤다."
+                "x": "패널은 런타임 경제성도 다뤘다. Tanner는 품질과 속도, 비용 사이의 균형을 설명했고, Molino는 \"내가 게임 디자이너인데 게임 안에서 호출 한 번에 일정 비용이 든다는 걸 안다면, 그것이 내가 할 수 있는 디자인에 영향을 준다\"고 말했다."
               },
               {
                 "t": "p",
-                "x": "DLSS 5는 Nvidia GPU에서도 매우 무거울 수 있다. RTX 5080에서 4K 해상도로 돌린 NBA 2K27은 프레임 레이트가 최대 73% 떨어졌다."
-              },
-              {
-                "t": "p",
-                "x": "모드 제작자가 Reddit에 올린 지원 게임 목록은 Resident Evil Requiem, Cyberpunk 2077, The Witcher 3(DX12 리마스터만), Red Dead Redemption 2, Shadow of the Tomb Raider, Nioh 3, Final Fantasy XVI, Monster Hunter Wilds, Onimusha: Way of the Sword, PRAGMATA, Grand Theft Auto V Enhanced(스토리 모드, 오프라인 전용)다."
-              },
-              {
-                "t": "p",
-                "x": "Reddit 댓글 중에는 모드를 켜면 화질이 썩 좋지 않다는 반응도 있다. 설치는 파일을 내려받아 인스톨러를 실행하면 끝이고, 인스톨러는 “클릭 한 번으로 모드를 설치, 업데이트 또는 제거”한다."
+                "x": "연사들은 자율 캐릭터가 이끄는 시스템 중심 샌드박스형 게임에 잠재력이 있다고 봤다. AI-native 개발은 기술 과제이면서 그만큼 디자인 과제이기도 하다는 설명이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AMDLSS5モッド\nRX 9000でDLSS 5",
-          "body": "AMDLSS5はRX 9000でDLSS 5を動かし、他モッド比64%高いfpsをうたう。",
-          "mini_headline": "AMDLSS5で\nAMDにDLSS 5",
+          "headline": "AIでしか作れない\nゲームをつくる",
+          "body": "GamesBeat Nextで、AI-native開発が可能にするゲームの姿が議論された。",
+          "mini_headline": "AIにしか\n作れないゲーム",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/B3ULyP68EiAPD55fRNR8S7-2560-80.jpg"
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/11/AI-1.jpg"
               },
               {
                 "t": "p",
-                "x": "DLSS 5が出てしばらく経つが、当然AMDのカードには提供されていない。少なくとも公式には。以前からモッドによって、この機械学習を活用したニューラルレンダリング技術をAMD RX 9000-seriesのチップで動かす例はあったが、今回大きく改良されたものが登場した。"
+                "x": "ゲームにおけるAIの最大の機会は、AIなしでは不可能だったまったく新しい種類のゲームを生み出すことかもしれない。これが、Jamil Moledinaが司会を務め、Brian Tanner（Artificial Agency）、Piero Molino（Studio Atelico）、Jon Snoddy（Operative Games）が登壇したGamesBeat Next 2026のパネルの中心テーマだった。"
               },
               {
                 "t": "p",
-                "x": "AMDLSS5のバージョン2.0が公開された(via Wccftech)。「他のモッド」と比べてResident Evil Requiemでfpsが+64%、このモッドの前バージョンと比べてfpsが+11%向上したとうたっている。"
+                "x": "Molinoは、初期の生成エージェントの実験は「AIを大量に必要とするが、本当のゲームではない」と指摘した。「手応えも挑戦もない」からだという。Operative Gamesでは会話が中核のメカニクスだ。「ゲームのメカニクスはストーリーだ。ゲームのメカニクスは会話だ」とSnoddyは語った。"
               },
               {
                 "t": "p",
-                "x": "本当ならとりわけ朗報だ。PC Gamerが別のモッドを使ってAMD Radeon RX 9070 XTでDLSS 5を試したところ、Cyberpunk 2077は4K 解像度、RT Ultra設定、FSR 4のBalancedでわずか9 fpsにとどまった。"
+                "x": "パネルではランタイムの経済性も話題となった。Tannerは品質、速度、コストのバランスについて説明し、Molinoは「私がゲームデザイナーで、ゲーム内で呼び出しを行うたびに一定のコストがかかると分かっていれば、それが私にできるデザインに影響する」と述べた。"
               },
               {
                 "t": "p",
-                "x": "DLSS 5自体、Nvidia GPUでも非常に重くなりうる。NBA 2K27 では、RTX 5080で4K 解像度時にフレームレートが最大73%低下した。"
-              },
-              {
-                "t": "p",
-                "x": "モッド作者がRedditで明かしたところでは、対応ゲームはResident Evil Requiem、Cyberpunk 2077、The Witcher 3(DX12リマスター版のみ)、Red Dead Redemption 2、Shadow of the Tomb Raider、Nioh 3、Final Fantasy XVI、Monster Hunter Wilds、Onimusha: Way of the Sword、PRAGMATA、Grand Theft Auto V Enhanced(ストーリーモード、オフラインのみ)だ。"
-              },
-              {
-                "t": "p",
-                "x": "Redditのコメントには、モッドを有効にすると画質があまり良くないという声もある。導入はファイルをダウンロードしてインストーラーを実行するだけで、インストーラーは「ワンクリックでモッドをインストール、更新、削除する」。"
+                "x": "登壇者たちは、自律的なキャラクターが動かすシステミックなサンドボックス型ゲームに可能性を見いだし、AI-native開発は技術的な課題であると同時にデザインの課題でもあると述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AMDLSS5模组让\nRX 9000跑DLSS 5",
-          "body": "AMDLSS5让Radeon RX 9000运行DLSS 5，号称fps比其他模组高64%。",
-          "mini_headline": "AMDLSS5让\nAMD用上DLSS 5",
+          "headline": "打造只有AI\n才能做出的游戏",
+          "body": "GamesBeat Next探讨AI-native开发如何带来有智能角色和动态世界的游戏。",
+          "mini_headline": "只有AI\n能做的游戏",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/B3ULyP68EiAPD55fRNR8S7-2560-80.jpg"
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/11/AI-1.jpg"
               },
               {
                 "t": "p",
-                "x": "DLSS 5已经推出一段时间了，但显然不支持AMD显卡——至少官方不支持。此前已有模组让这项机器学习辅助的神经渲染技术在AMD RX 9000-series芯片上运行，如今又出现了一款大幅改进的模组。"
+                "x": "AI在游戏领域最大的机会，或许是创造出没有它就无法实现的全新游戏类型。这是GamesBeat Next 2026一场小组讨论的核心主题，讨论由Jamil Moledina主持，嘉宾包括Brian Tanner（Artificial Agency）、Piero Molino（Studio Atelico）和Jon Snoddy（Operative Games）。"
               },
               {
                 "t": "p",
-                "x": "AMDLSS5 2.0版现已推出（via Wccftech）。它声称与“其他模组”相比，在Resident Evil Requiem中fps提升+64%，比该模组前一版本fps提升+11%。"
+                "x": "Molino指出，早期的生成式智能体实验“需要大量AI，但并不算真正的游戏”，因为“没有咬劲，没有挑战”。在Operative Games，对话是核心机制。Snoddy说：“游戏机制就是故事。游戏机制就是对话。”"
               },
               {
                 "t": "p",
-                "x": "如果属实，那就格外令人惊喜：PC Gamer此前用另一款模组在AMD Radeon RX 9070 XT上测试DLSS 5，在4K 分辨率、RT Ultra设置、FSR 4 Balanced下，Cyberpunk 2077仅跑出9 fps。"
+                "x": "小组还探讨了运行时的经济性：Tanner谈到要在质量、速度和成本之间取得平衡，Molino则说：“如果我是一名游戏设计师，并且知道在游戏中每调用一次都要花费一定成本，这就会影响我能做出的设计。”"
               },
               {
                 "t": "p",
-                "x": "DLSS 5本身即使在Nvidia GPU上也可能非常吃性能：在NBA 2K27 中，RTX 5080在4K 分辨率下帧率最多下降73%。"
-              },
-              {
-                "t": "p",
-                "x": "据模组作者在Reddit上的说法，支持的游戏包括Resident Evil Requiem、Cyberpunk 2077、The Witcher 3（仅限DX12重制版）、Red Dead Redemption 2、Shadow of the Tomb Raider、Nioh 3、Final Fantasy XVI、Monster Hunter Wilds、Onimusha: Way of the Sword、PRAGMATA以及Grand Theft Auto V Enhanced（仅限故事模式、离线）。"
-              },
-              {
-                "t": "p",
-                "x": "一些Reddit评论称，启用该模组后画质不太好。安装只需下载文件并运行安装程序，它可以“一键安装、更新或移除模组”。"
+                "x": "嘉宾们认为由自主角色驱动的系统化沙盒类游戏颇具潜力，并表示AI-native开发既是技术挑战，也同样是设计挑战。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El mod AMDLSS5 lleva DLSS 5\na las AMD Radeon RX 9000",
-          "body": "AMDLSS5 ejecuta DLSS 5 de Nvidia en Radeon RX 9000 y promete 64% más de fps que otros mods en Resident Evil Requiem.",
-          "mini_headline": "AMDLSS5 lleva\nDLSS 5 a AMD",
+          "headline": "Crear juegos que solo pueden\nhacerse con IA",
+          "body": "GamesBeat Next analizó cómo el desarrollo AI-native permitiría juegos con personajes inteligentes y mundos dinámicos.",
+          "mini_headline": "Juegos que solo\nla IA puede crear",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/B3ULyP68EiAPD55fRNR8S7-2560-80.jpg"
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/11/AI-1.jpg"
               },
               {
                 "t": "p",
-                "x": "DLSS 5 lleva ya un tiempo disponible, pero obviamente no para las tarjetas de AMD, al menos no de forma oficial. Algunos mods ya habían conseguido ejecutar esta tecnología de renderizado neuronal asistida por aprendizaje automático en chips AMD RX 9000-series, y ahora hay uno notablemente mejorado."
+                "x": "La mayor oportunidad de la IA en los videojuegos podría ser crear tipos de juegos completamente nuevos que no serían posibles sin ella. Ese fue el tema central de un panel de GamesBeat Next 2026 con Brian Tanner (Artificial Agency), Piero Molino (Studio Atelico) y Jon Snoddy (Operative Games), moderado por Jamil Moledina."
               },
               {
                 "t": "p",
-                "x": "Ya está disponible la versión 2.0 de AMDLSS5 (via Wccftech). En comparación con “otros mods”, afirma lograr +64% de fps en Resident Evil Requiem y +11% de fps frente a su versión anterior."
+                "x": "Molino señaló que los primeros experimentos con agentes generativos \"necesitan mucha IA, pero en realidad no son juegos\" porque \"no había mordiente ni desafío\". En Operative Games, la conversación es la mecánica central: \"La mecánica del juego es la historia. La mecánica del juego es la conversación\", dijo Snoddy."
               },
               {
                 "t": "p",
-                "x": "Si es cierto, es especialmente bueno: en las pruebas de PC Gamer con DLSS 5 en una AMD Radeon RX 9070 XT usando otro mod, Cyberpunk 2077 apenas llegó a 9 fps a 4K con ajustes RT Ultra y FSR 4 en Balanced."
+                "x": "El panel también abordó la economía en tiempo de ejecución: Tanner describió cómo equilibrar calidad, velocidad y coste, mientras que Molino dijo: \"Si soy diseñador de juegos y sé que hacer una llamada dentro del juego me cuesta cierta cantidad, eso influye en el diseño que puedo hacer\"."
               },
               {
                 "t": "p",
-                "x": "DLSS 5 puede ser muy exigente incluso en una GPU de Nvidia: en NBA 2K27, la tasa de fotogramas cayó hasta un 73% a 4K en una RTX 5080."
-              },
-              {
-                "t": "p",
-                "x": "Según el creador del mod en Reddit, entre los juegos compatibles están Resident Evil Requiem, Cyberpunk 2077, The Witcher 3 (solo la remasterización DX12), Red Dead Redemption 2, Shadow of the Tomb Raider, Nioh 3, Final Fantasy XVI, Monster Hunter Wilds, Onimusha: Way of the Sword, PRAGMATA y Grand Theft Auto V Enhanced (modo historia, solo sin conexión)."
-              },
-              {
-                "t": "p",
-                "x": "Algunos comentarios en Reddit señalan que la calidad no es muy buena con el mod activado. La instalación consiste en descargar los archivos y ejecutar el instalador, que “instala, actualiza o elimina el mod con un clic”."
+                "x": "Los ponentes vieron potencial en juegos sistémicos de tipo sandbox impulsados por personajes autónomos, y describieron el desarrollo AI-native como un reto tanto de diseño como técnico."
               }
             ]
           }
@@ -1619,153 +1691,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AMDLSS5 모드로\nRX 9000 DLSS 5",
-          "body": "AMDLSS5는 DLSS 5를 AMD서 돌리며 타 모드보다 64% 빠르다고 한다.",
-          "mini_headline": "AMDLSS5로\nAMD에도 DLSS 5",
+          "headline": "AI로만 만들 수 있는\n게임을 만든다",
+          "body": "GamesBeat Next는 AI-native 개발이 여는 게임 가능성을 짚었다.",
+          "mini_headline": "AI만이\n만들 수 있는 게임",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/B3ULyP68EiAPD55fRNR8S7-2560-80.jpg"
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/11/AI-1.jpg"
               },
               {
                 "t": "p",
-                "x": "DLSS 5가 나온 지 꽤 됐지만, 당연히 AMD 카드용은 없다. 적어도 공식적으로는 그렇다. 앞서 모드를 통해 이 머신러닝 기반 뉴럴 렌더링 기술을 AMD RX 9000-series 칩에서 돌린 사례가 있었는데, 이번에 크게 개선된 모드가 나왔다."
+                "x": "게임에서 AI의 가장 큰 기회는 AI 없이는 불가능했을 완전히 새로운 종류의 게임을 만드는 데 있을지 모른다. Jamil Moledina가 진행하고 Brian Tanner(Artificial Agency), Piero Molino(Studio Atelico), Jon Snoddy(Operative Games)가 참여한 GamesBeat Next 2026 패널의 핵심 주제였다."
               },
               {
                 "t": "p",
-                "x": "AMDLSS5 2.0 버전이 공개됐다(via Wccftech). “다른 모드”와 비교해 Resident Evil Requiem에서 fps가 +64% 높고, 이 모드의 이전 버전보다는 fps가 +11% 높다고 주장한다."
+                "x": "Molino는 초기 생성형 에이전트 실험이 \"AI는 많이 필요하지만 진짜 게임은 아니다\"라며, \"긴장감도, 도전도 없었기\" 때문이라고 짚었다. Operative Games에서는 대화가 핵심 메커닉이다. Snoddy는 \"게임 메커닉이 곧 스토리다. 게임 메커닉이 곧 대화다\"라고 말했다."
               },
               {
                 "t": "p",
-                "x": "사실이라면 특히 반가운 일이다. PC Gamer가 다른 모드로 AMD Radeon RX 9070 XT에서 DLSS 5를 시험했을 때, Cyberpunk 2077은 4K 해상도, RT Ultra 설정, FSR 4 Balanced에서 고작 9 fps에 그쳤다."
+                "x": "패널은 런타임 경제성도 다뤘다. Tanner는 품질, 속도, 비용 사이의 균형을 설명했고, Molino는 \"내가 게임 디자이너인데 게임 안에서 호출 한 번에 일정 비용이 든다는 걸 안다면, 그것이 내가 할 수 있는 디자인에 영향을 준다\"고 말했다."
               },
               {
                 "t": "p",
-                "x": "DLSS 5 자체도 Nvidia GPU에서조차 매우 무거울 수 있다. RTX 5080, 4K 해상도 기준 NBA 2K27 프레임 레이트는 최대 73% 떨어졌다."
-              },
-              {
-                "t": "p",
-                "x": "모드 제작자가 Reddit에 밝힌 지원 게임은 Resident Evil Requiem, Cyberpunk 2077, The Witcher 3(DX12 리마스터만), Red Dead Redemption 2, Shadow of the Tomb Raider, Nioh 3, Final Fantasy XVI, Monster Hunter Wilds, Onimusha: Way of the Sword, PRAGMATA, Grand Theft Auto V Enhanced(스토리 모드, 오프라인 전용)다."
-              },
-              {
-                "t": "p",
-                "x": "Reddit 댓글 일부는 모드를 켜면 화질이 썩 좋지 않다고 말한다. 설치는 파일을 내려받아 인스톨러를 실행하면 되며, 인스톨러는 “클릭 한 번으로 모드를 설치, 업데이트 또는 제거”한다."
+                "x": "연사들은 자율적인 캐릭터가 이끄는 시스템 중심의 샌드박스형 게임에 잠재력이 있다고 보았고, AI-native 개발은 기술 과제인 만큼 디자인 과제이기도 하다고 설명했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AMDLSS5モッド\nRX 9000でDLSS 5",
-          "body": "AMDLSS5はRX 9000でDLSS 5を動かし、他モッド比64%高いfpsをうたう。",
-          "mini_headline": "AMDLSS5で\nAMDにDLSS 5",
+          "headline": "AIでしか作れない\nゲームをつくる",
+          "body": "GamesBeat Nextで、AI-native開発が可能にするゲームの姿が議論された。",
+          "mini_headline": "AIにしか\n作れないゲーム",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/B3ULyP68EiAPD55fRNR8S7-2560-80.jpg"
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/11/AI-1.jpg"
               },
               {
                 "t": "p",
-                "x": "DLSS 5が出てしばらく経つが、当然AMDのカードには提供されていない。少なくとも公式には。以前からモッドによって、この機械学習を活用したニューラルレンダリング技術をAMD RX 9000-seriesのチップで動かす例はあったが、今回大きく改良されたものが登場した。"
+                "x": "ゲームにおけるAIの最大の機会は、AIなしでは不可能だったまったく新しい種類のゲームを生み出すことかもしれない。これが、Jamil Moledinaが司会を務め、Brian Tanner（Artificial Agency）、Piero Molino（Studio Atelico）、Jon Snoddy（Operative Games）が登壇したGamesBeat Next 2026のパネルの中心テーマだった。"
               },
               {
                 "t": "p",
-                "x": "AMDLSS5のバージョン2.0が公開された(via Wccftech)。「他のモッド」と比べてResident Evil Requiemでfpsが+64%、このモッドの前バージョンと比べてfpsが+11%向上したとうたっている。"
+                "x": "Molinoは、初期の生成エージェントの実験は「AIを大量に必要とするが、本当のゲームではない」と指摘した。「手応えも挑戦もない」からだという。Operative Gamesでは会話が中核のメカニクスだ。「ゲームのメカニクスはストーリーだ。ゲームのメカニクスは会話だ」とSnoddyは語った。"
               },
               {
                 "t": "p",
-                "x": "本当ならとりわけ朗報だ。PC Gamerが別のモッドを使ってAMD Radeon RX 9070 XTでDLSS 5を試したところ、Cyberpunk 2077は4K 解像度、RT Ultra設定、FSR 4のBalancedでわずか9 fpsにとどまった。"
+                "x": "パネルではランタイムの経済性も話題となった。Tannerは品質、速度、コストのバランスについて説明し、Molinoは「私がゲームデザイナーで、ゲーム内で呼び出しを行うたびに一定のコストがかかると分かっていれば、それが私にできるデザインに影響する」と述べた。"
               },
               {
                 "t": "p",
-                "x": "DLSS 5自体、Nvidia GPUでも非常に重くなりうる。NBA 2K27 では、RTX 5080で4K 解像度時にフレームレートが最大73%低下した。"
-              },
-              {
-                "t": "p",
-                "x": "モッド作者がRedditで明かしたところでは、対応ゲームはResident Evil Requiem、Cyberpunk 2077、The Witcher 3(DX12リマスター版のみ)、Red Dead Redemption 2、Shadow of the Tomb Raider、Nioh 3、Final Fantasy XVI、Monster Hunter Wilds、Onimusha: Way of the Sword、PRAGMATA、Grand Theft Auto V Enhanced(ストーリーモード、オフラインのみ)だ。"
-              },
-              {
-                "t": "p",
-                "x": "Redditのコメントには、モッドを有効にすると画質があまり良くないという声もある。導入はファイルをダウンロードしてインストーラーを実行するだけで、インストーラーは「ワンクリックでモッドをインストール、更新、削除する」。"
+                "x": "登壇者たちは、自律的なキャラクターが動かすシステミックなサンドボックス型ゲームに可能性を見いだし、AI-native開発は技術的な課題であると同時にデザインの課題でもあると述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AMDLSS5模组让\nRX 9000跑DLSS 5",
-          "body": "AMDLSS5让Radeon RX 9000运行DLSS 5，号称fps比其他模组高64%。",
-          "mini_headline": "AMDLSS5让\nAMD用上DLSS 5",
+          "headline": "打造只有AI\n才能做出的游戏",
+          "body": "GamesBeat Next探讨AI-native开发如何带来有智能角色和动态世界的游戏。",
+          "mini_headline": "只有AI\n能做的游戏",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/B3ULyP68EiAPD55fRNR8S7-2560-80.jpg"
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/11/AI-1.jpg"
               },
               {
                 "t": "p",
-                "x": "DLSS 5已经推出一段时间了，但显然不支持AMD显卡——至少官方不支持。此前已有模组让这项机器学习辅助的神经渲染技术在AMD RX 9000-series芯片上运行，如今又出现了一款大幅改进的模组。"
+                "x": "AI在游戏领域最大的机会，或许是创造出没有它就无法实现的全新游戏类型。这是GamesBeat Next 2026一场小组讨论的核心主题，讨论由Jamil Moledina主持，嘉宾包括Brian Tanner（Artificial Agency）、Piero Molino（Studio Atelico）和Jon Snoddy（Operative Games）。"
               },
               {
                 "t": "p",
-                "x": "AMDLSS5 2.0版现已推出（via Wccftech）。它声称与“其他模组”相比，在Resident Evil Requiem中fps提升+64%，比该模组前一版本fps提升+11%。"
+                "x": "Molino指出，早期的生成式智能体实验“需要大量AI，但并不算真正的游戏”，因为“没有咬劲，没有挑战”。在Operative Games，对话是核心机制。Snoddy说：“游戏机制就是故事。游戏机制就是对话。”"
               },
               {
                 "t": "p",
-                "x": "如果属实，那就格外令人惊喜：PC Gamer此前用另一款模组在AMD Radeon RX 9070 XT上测试DLSS 5，在4K 分辨率、RT Ultra设置、FSR 4 Balanced下，Cyberpunk 2077仅跑出9 fps。"
+                "x": "小组还探讨了运行时的经济性：Tanner谈到要在质量、速度和成本之间取得平衡，Molino则说：“如果我是一名游戏设计师，并且知道在游戏中每调用一次都要花费一定成本，这就会影响我能做出的设计。”"
               },
               {
                 "t": "p",
-                "x": "DLSS 5本身即使在Nvidia GPU上也可能非常吃性能：在NBA 2K27 中，RTX 5080在4K 分辨率下帧率最多下降73%。"
-              },
-              {
-                "t": "p",
-                "x": "据模组作者在Reddit上的说法，支持的游戏包括Resident Evil Requiem、Cyberpunk 2077、The Witcher 3（仅限DX12重制版）、Red Dead Redemption 2、Shadow of the Tomb Raider、Nioh 3、Final Fantasy XVI、Monster Hunter Wilds、Onimusha: Way of the Sword、PRAGMATA以及Grand Theft Auto V Enhanced（仅限故事模式、离线）。"
-              },
-              {
-                "t": "p",
-                "x": "一些Reddit评论称，启用该模组后画质不太好。安装只需下载文件并运行安装程序，它可以“一键安装、更新或移除模组”。"
+                "x": "嘉宾们认为由自主角色驱动的系统化沙盒类游戏颇具潜力，并表示AI-native开发既是技术挑战，也同样是设计挑战。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El mod AMDLSS5 lleva DLSS 5\na las AMD Radeon RX 9000",
-          "body": "AMDLSS5 ejecuta DLSS 5 de Nvidia en Radeon RX 9000 y promete 64% más de fps que otros mods en Resident Evil Requiem.",
-          "mini_headline": "AMDLSS5 lleva\nDLSS 5 a AMD",
+          "headline": "Crear juegos que solo pueden\nhacerse con IA",
+          "body": "GamesBeat Next analizó cómo el desarrollo AI-native permitiría juegos con personajes inteligentes y mundos dinámicos.",
+          "mini_headline": "Juegos que solo\nla IA puede crear",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/B3ULyP68EiAPD55fRNR8S7-2560-80.jpg"
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/11/AI-1.jpg"
               },
               {
                 "t": "p",
-                "x": "DLSS 5 lleva ya un tiempo disponible, pero obviamente no para las tarjetas de AMD, al menos no de forma oficial. Algunos mods ya habían conseguido ejecutar esta tecnología de renderizado neuronal asistida por aprendizaje automático en chips AMD RX 9000-series, y ahora hay uno notablemente mejorado."
+                "x": "La mayor oportunidad de la IA en los videojuegos podría ser crear tipos de juegos completamente nuevos que no serían posibles sin ella. Ese fue el tema central de un panel de GamesBeat Next 2026 con Brian Tanner (Artificial Agency), Piero Molino (Studio Atelico) y Jon Snoddy (Operative Games), moderado por Jamil Moledina."
               },
               {
                 "t": "p",
-                "x": "Ya está disponible la versión 2.0 de AMDLSS5 (via Wccftech). En comparación con “otros mods”, afirma lograr +64% de fps en Resident Evil Requiem y +11% de fps frente a su versión anterior."
+                "x": "Molino señaló que los primeros experimentos con agentes generativos \"necesitan mucha IA, pero en realidad no son juegos\" porque \"no había mordiente ni desafío\". En Operative Games, la conversación es la mecánica central: \"La mecánica del juego es la historia. La mecánica del juego es la conversación\", dijo Snoddy."
               },
               {
                 "t": "p",
-                "x": "Si es cierto, es especialmente bueno: en las pruebas de PC Gamer con DLSS 5 en una AMD Radeon RX 9070 XT usando otro mod, Cyberpunk 2077 apenas llegó a 9 fps a 4K con ajustes RT Ultra y FSR 4 en Balanced."
+                "x": "El panel también abordó la economía en tiempo de ejecución: Tanner describió cómo equilibrar calidad, velocidad y coste, mientras que Molino dijo: \"Si soy diseñador de juegos y sé que hacer una llamada dentro del juego me cuesta cierta cantidad, eso influye en el diseño que puedo hacer\"."
               },
               {
                 "t": "p",
-                "x": "DLSS 5 puede ser muy exigente incluso en una GPU de Nvidia: en NBA 2K27, la tasa de fotogramas cayó hasta un 73% a 4K en una RTX 5080."
-              },
-              {
-                "t": "p",
-                "x": "Según el creador del mod en Reddit, entre los juegos compatibles están Resident Evil Requiem, Cyberpunk 2077, The Witcher 3 (solo la remasterización DX12), Red Dead Redemption 2, Shadow of the Tomb Raider, Nioh 3, Final Fantasy XVI, Monster Hunter Wilds, Onimusha: Way of the Sword, PRAGMATA y Grand Theft Auto V Enhanced (modo historia, solo sin conexión)."
-              },
-              {
-                "t": "p",
-                "x": "Algunos comentarios en Reddit señalan que la calidad no es muy buena con el mod activado. La instalación consiste en descargar los archivos y ejecutar el instalador, que “instala, actualiza o elimina el mod con un clic”."
+                "x": "Los ponentes vieron potencial en juegos sistémicos de tipo sandbox impulsados por personajes autónomos, y describieron el desarrollo AI-native como un reto tanto de diseño como técnico."
               }
             ]
           }

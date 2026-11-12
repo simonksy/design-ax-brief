@@ -10731,6 +10731,136 @@
           "x": "There are now eight more English-speaking voice options in various accents, and two new Spanish voices available for DJ, if you feel like personalizing that experience. You can also turn off the commentary that Spotify DJ makes between songs if you’re sick of hearing it talk, which will your music play with fewer interruptions."
         }
       ]
+    },
+    "music/stable-audio-nov-workspace": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.squarespace-cdn.com/content/v1/6213c340453c3f502425776e/2cc42a62-5083-4c7f-a86a-77f92b11a3d7/Stable_Audio_Release_Notes_Blog_Thumbnail_16x9.png"
+        },
+        {
+          "t": "p",
+          "x": "Stable Audio has a new workspace that brings your apps, projects, and sounds together in one place. Home is where you land when you sign in; Library is where you browse and organize everything you've made across Stable Audio's apps."
+        },
+        {
+          "t": "img",
+          "src": "https://images.squarespace-cdn.com/content/v1/6213c340453c3f502425776e/8480d97a-11fe-4346-b14f-13140df9b932/generate-01-overview.png",
+          "cap": "Generate"
+        },
+        {
+          "t": "p",
+          "x": "The new Generate app is where you can start making music and sound effects. Prompt with text, or describe it visually by adding different \"paints\" to a mixer representing genres, styles, and instruments. Use the Lens to trim, add fades, replace a section, or extend a take; each edit creates a new version."
+        },
+        {
+          "t": "img",
+          "src": "https://images.squarespace-cdn.com/content/v1/6213c340453c3f502425776e/5fc8930d-54b7-4592-b497-a23ffe634e50/sampler-02-pack.png",
+          "cap": "Sampler"
+        },
+        {
+          "t": "p",
+          "x": "Sampler makes sets of short samples, loops, or drum kits. Start with a prompt like \"techno risers\" and generate up to eight variations, or a full drum kit with eight one-shot samples. Its step sequencer programs up to eight instruments on a 16-step grid, in patterns up to 32 bars."
+        },
+        {
+          "t": "p",
+          "x": "Labs is a new place for experimental beta apps. Sessions, the multitrack app in beta, now lives there and offers a Full mix mode or an editable eight-track deck. Everything is powered by commercially safe models, and you own your outputs."
+        }
+      ]
+    },
+    "music/elevenlabs-voice-restoration-music": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://eleven-public-cdn.elevenlabs.io/payloadcms/hzu606cgpup-2304662705.webp"
+        },
+        {
+          "t": "p",
+          "x": "Greg Kellner, a New York educator whose singing voice was taken by brain cancer in 2019, recreated it through ElevenMusic from old recordings. Abdi Omar, who never had a spoken voice because of cerebral palsy, designed his own with ElevenLabs Voice Designer and now uses ElevenMusic as a rap artist."
+        },
+        {
+          "t": "p",
+          "x": "On November 11 at the ElevenLabs New York Summit, both performed new songs with their ElevenMusic singing voices. People living with permanent voice loss can now get free access to ElevenMusic, launched with Songwriters of North America (SONA), which will verify eligibility."
+        },
+        {
+          "t": "p",
+          "x": "“Voice restoration has always been about more than getting basic needs met. It’s about being truly heard, in all the ways that make us human,” said Gabi Leibowitz, Head of Impact at ElevenLabs."
+        },
+        {
+          "t": "p",
+          "x": "Wounded Warrior Project was announced as an Impact Program partner, and NYU Langone Health joined 1 Million Voices — ElevenLabs’ $1 billion in-kind commitment, which has helped more than 11,000 people speak again in their own voice."
+        }
+      ]
+    },
+    "music/ringo-charlie-whatsapp-sync": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-26.png?fit=2000%2C1500&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "We’ve followed the progress of Dutch sync-tech startup Ringo since its first funding round in 2023 and the launch of its AI-powered licensing platform in 2025. Now it has unveiled its latest feature: an AI assistant called Charlie."
+        },
+        {
+          "t": "p",
+          "x": "She (yes, the pronoun is specified in Ringo’s announcement) is designed to live entirely within WhatsApp, fielding questions from clients that can then be dealt with by Ringo’s team."
+        }
+      ]
+    },
+    "music/knxwledge-streaming-app-takedowns": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.complex.com/complex/image/upload/c_crop,h_1910,w_2939,x_0,y_0/g_auto:aoi_1176_764_588_382,ar_1.91,c_fill,q_auto,w_1200/sanity-new/ehkmatoir85wnox3ljc2"
+        },
+        {
+          "t": "p",
+          "x": "On Tuesday (Nov. 10), the Grammy-winning producer Knxwledge announced on X that he launched his own streaming app for iOS, giving fans access to his entire catalog and future releases, after months of his projects disappearing from streaming platforms."
+        },
+        {
+          "t": "p",
+          "x": "According to the producer, some of the removed projects were released years before artificial intelligence music-generation tools became widely available."
+        },
+        {
+          "t": "p",
+          "x": "\"OVER THE PAST FEW MONTHS DISTRIBUTORS HAVE TAKEN DOWN RECORDS IV'E MADE AND RELEASED YEARS BEFORE AI WAS EVEN AVAILABLE TO THE PUBLIC,\" he explained. \"ALL THOSE RECORDS CLEARLY HAVE RELEASE DATES, APPARENTLY THE PEOPLE REVIEWING THEM DON'T CARE OR HAVE THE TIME TO DIFFERENTIATE.\""
+        },
+        {
+          "t": "p",
+          "x": "The app features his complete catalog, which he says he personally remastered. An Android version is expected later, and he is directing fans to his Discord server for updates."
+        }
+      ]
+    },
+    "music/ace-studio-music-v1": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/AI-music-decrypt-style-03-gID_7.jpg"
+        },
+        {
+          "t": "p",
+          "x": "ACE Music v1, developed by ACE Studio, has taken first place on Artificial Analysis' vocal music leaderboard, scoring 1,160 Elo points against Suno v6's 1,144. The AA-Music-Vocal v1.1 benchmark has evaluators listen to tracks produced from identical prompts without knowing which model created them, then choose their favorite."
+        },
+        {
+          "t": "img",
+          "src": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://imagedelivery.net/YN1-rdnufJQJCgu3i1CbVw/MfUFfyR49NwW4OCFj1yIR9UB6An2rQPWYPKjJXYgzSA/public@webp"
+        },
+        {
+          "t": "p",
+          "x": "The lead is relatively narrow, and the models' statistical confidence intervals overlap. Suno also retains the top position on the separate instrumental music leaderboard."
+        },
+        {
+          "t": "p",
+          "x": "In Decrypt's hands-on tests, ACE Music produced more melodic and coherent songs in mainstream styles, with more natural vocals and cleaner endings. Suno still had an advantage in less conventional genres such as melodic death metal."
+        },
+        {
+          "t": "p",
+          "x": "Its “Idea” feature can develop a basic concept into lyrics and a structured composition; the v1.1 Preview creates a musical score before generating audio, and users can edit melodies and chords, export MIDI files and separate vocals from instruments."
+        },
+        {
+          "t": "p",
+          "x": "The flagship model remains closed-source with no public API. ACE Studio and StepFun have already released the open ACE-Step 1.5, and “We plan to open-source ACE Music v1 Flash in late 2026,” the developers state."
+        }
+      ]
     }
   }
 }

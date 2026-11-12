@@ -1,979 +1,287 @@
 {
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "section": "music",
   "cards": [
     {
-      "id": "ace-studio-music-v1",
+      "id": "sonura-flow-text-loops",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "ACE Music v1이\n보컬 순위서 Suno 제쳐",
-      "body": "ACE Music v1이 블라인드 보컬 순위 정상에 올라 Suno v6를 앞섰다.",
-      "mini_headline": "ACE Music v1, Suno를 근소하게 앞서다",
+      "headline": "Sonura Flow\n텍스트로 DAW 루프 생성",
+      "body": "무료 플러그인 Sonura Flow는 DAW에서 텍스트로 루프와 보컬을 만든다.",
+      "mini_headline": "텍스트로 루프 만드는 무료 플러그인",
       "tool": "Music",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/383070/new-ai-music-model-already-better-than-suno-ace-review",
+      "source": "MusicTech",
+      "url": "https://musictech.com/news/gear/sonura-flow/",
       "accent": "#ff2d55",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/AI-music-decrypt-style-03-gID_7.jpg"
-          },
-          {
-            "t": "p",
-            "x": "ACE Studio가 만든 ACE Music v1이 Artificial Analysis 보컬 음악 순위 정상에 올랐다. Elo 점수 1,160점으로 Suno v6(1,144점)를 앞섰다. AA-Music-Vocal v1.1 벤치마크에서는 평가자가 같은 프롬프트로 만든 곡을 어느 모델 작품인지 모른 채 듣고 마음에 드는 곡을 고른다."
-          },
-          {
-            "t": "img",
-            "src": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://imagedelivery.net/YN1-rdnufJQJCgu3i1CbVw/MfUFfyR49NwW4OCFj1yIR9UB6An2rQPWYPKjJXYgzSA/public@webp"
-          },
-          {
-            "t": "p",
-            "x": "격차는 크지 않고 두 모델의 통계적 신뢰구간도 겹친다. 기악 음악 순위는 따로 있는데, 여기서는 여전히 Suno가 정상이다."
-          },
-          {
-            "t": "p",
-            "x": "Decrypt가 직접 써 보니 ACE Music은 주류 스타일에서 선율과 짜임새가 더 나은 곡을 냈고 보컬도 더 자연스럽고 마무리가 깔끔했다. 다만 멜로딕 데스메탈처럼 관습에서 벗어난 장르에서는 아직 Suno가 앞선다."
-          },
-          {
-            "t": "p",
-            "x": "“Idea” 기능은 기본 콘셉트를 가사와 구조가 있는 곡으로 키워 준다. v1.1 Preview는 오디오보다 악보를 먼저 만든다. 사용자는 멜로디와 코드를 고치고 MIDI 파일을 내보내며 보컬과 악기를 분리할 수도 있다."
-          },
-          {
-            "t": "p",
-            "x": "플래그십 모델은 아직 비공개 소스이고 공개 API도 없다. ACE Studio와 StepFun은 오픈 모델 ACE-Step 1.5를 이미 내놓았으며, 개발진은 “ACE Music v1 Flash를 2026년 말 오픈소스로 공개할 계획”이라고 했다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "ACE Music v1 tops a blind\nvocal leaderboard over Suno",
-          "body": "ACE Studio's ACE Music v1 took first place on Artificial Analysis' blind vocal-music leaderboard, edging Suno v6.",
-          "mini_headline": "ACE Music v1 edges past Suno",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/AI-music-decrypt-style-03-gID_7.jpg"
-              },
-              {
-                "t": "p",
-                "x": "ACE Music v1, developed by ACE Studio, has taken first place on Artificial Analysis' vocal music leaderboard, scoring 1,160 Elo points against Suno v6's 1,144. The AA-Music-Vocal v1.1 benchmark has evaluators listen to tracks produced from identical prompts without knowing which model created them, then choose their favorite."
-              },
-              {
-                "t": "img",
-                "src": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://imagedelivery.net/YN1-rdnufJQJCgu3i1CbVw/MfUFfyR49NwW4OCFj1yIR9UB6An2rQPWYPKjJXYgzSA/public@webp"
-              },
-              {
-                "t": "p",
-                "x": "The lead is relatively narrow, and the models' statistical confidence intervals overlap. Suno also retains the top position on the separate instrumental music leaderboard."
-              },
-              {
-                "t": "p",
-                "x": "In Decrypt's hands-on tests, ACE Music produced more melodic and coherent songs in mainstream styles, with more natural vocals and cleaner endings. Suno still had an advantage in less conventional genres such as melodic death metal."
-              },
-              {
-                "t": "p",
-                "x": "Its “Idea” feature can develop a basic concept into lyrics and a structured composition; the v1.1 Preview creates a musical score before generating audio, and users can edit melodies and chords, export MIDI files and separate vocals from instruments."
-              },
-              {
-                "t": "p",
-                "x": "The flagship model remains closed-source with no public API. ACE Studio and StepFun have already released the open ACE-Step 1.5, and “We plan to open-source ACE Music v1 Flash in late 2026,” the developers state."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "ACE Music v1이\n보컬 순위서 Suno 제쳐",
-          "body": "ACE Music v1이 블라인드 보컬 순위 정상에 올라 Suno v6를 앞섰다.",
-          "mini_headline": "ACE Music v1, Suno를 근소하게 앞서다",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/AI-music-decrypt-style-03-gID_7.jpg"
-              },
-              {
-                "t": "p",
-                "x": "ACE Studio가 만든 ACE Music v1이 Artificial Analysis 보컬 음악 순위 정상에 올랐다. Elo 점수 1,160점으로 Suno v6(1,144점)를 앞섰다. AA-Music-Vocal v1.1 벤치마크에서는 평가자가 같은 프롬프트로 만든 곡을 어느 모델 작품인지 모른 채 듣고 마음에 드는 곡을 고른다."
-              },
-              {
-                "t": "img",
-                "src": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://imagedelivery.net/YN1-rdnufJQJCgu3i1CbVw/MfUFfyR49NwW4OCFj1yIR9UB6An2rQPWYPKjJXYgzSA/public@webp"
-              },
-              {
-                "t": "p",
-                "x": "격차는 크지 않고 두 모델의 통계적 신뢰구간도 겹친다. 기악 음악 순위는 따로 있는데, 여기서는 여전히 Suno가 정상이다."
-              },
-              {
-                "t": "p",
-                "x": "Decrypt가 직접 써 보니 ACE Music은 주류 스타일에서 선율과 짜임새가 더 나은 곡을 냈고 보컬도 더 자연스럽고 마무리가 깔끔했다. 다만 멜로딕 데스메탈처럼 관습에서 벗어난 장르에서는 아직 Suno가 앞선다."
-              },
-              {
-                "t": "p",
-                "x": "“Idea” 기능은 기본 콘셉트를 가사와 구조가 있는 곡으로 키워 준다. v1.1 Preview는 오디오보다 악보를 먼저 만든다. 사용자는 멜로디와 코드를 고치고 MIDI 파일을 내보내며 보컬과 악기를 분리할 수도 있다."
-              },
-              {
-                "t": "p",
-                "x": "플래그십 모델은 아직 비공개 소스이고 공개 API도 없다. ACE Studio와 StepFun은 오픈 모델 ACE-Step 1.5를 이미 내놓았으며, 개발진은 “ACE Music v1 Flash를 2026년 말 오픈소스로 공개할 계획”이라고 했다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "ACE Music v1が\nブラインド評価でSuno超え",
-          "body": "ACE Music v1がブラインド評価のボーカル部門でSuno v6を抑え首位に立った。",
-          "mini_headline": "ACE Music v1、Sunoを僅差で上回る",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/AI-music-decrypt-style-03-gID_7.jpg"
-              },
-              {
-                "t": "p",
-                "x": "ACE Studioが開発したACE Music v1が、Artificial Analysisのボーカル音楽ランキングで首位に立った。Eloスコアは1,160で、Suno v6の1,144を上回る。AA-Music-Vocal v1.1ベンチマークでは、評価者が同一のプロンプトから生成された楽曲を、どのモデルが作ったかを知らされないまま聴き比べ、好みの曲を選ぶ。"
-              },
-              {
-                "t": "img",
-                "src": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://imagedelivery.net/YN1-rdnufJQJCgu3i1CbVw/MfUFfyR49NwW4OCFj1yIR9UB6An2rQPWYPKjJXYgzSA/public@webp"
-              },
-              {
-                "t": "p",
-                "x": "リードは比較的小さく、両モデルの統計的な信頼区間は重なっている。また、別枠のインストゥルメンタル音楽ランキングでは、Sunoが引き続き首位を保っている。"
-              },
-              {
-                "t": "p",
-                "x": "Decryptによる実地テストでは、ACE Musicは主流のスタイルでより旋律的でまとまりのある曲を生成し、ボーカルはより自然で、曲の終わり方もすっきりしていた。一方、メロディック・デスメタルのような型にはまらないジャンルでは、Sunoがなお優位だった。"
-              },
-              {
-                "t": "p",
-                "x": "「Idea」機能は、基本的なコンセプトを歌詞と構成を備えた楽曲へと発展させる。v1.1 Previewは音声を生成する前に楽譜を作成し、ユーザーはメロディーやコードを編集したり、MIDIファイルを書き出したり、ボーカルと楽器を分離したりできる。"
-              },
-              {
-                "t": "p",
-                "x": "フラッグシップモデルは引き続きクローズドソースで、公開APIもない。ACE StudioとStepFunはすでにオープンなACE-Step 1.5を公開しており、開発陣は「2026年後半にACE Music v1 Flashをオープンソース化する予定だ」と述べている。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "ACE Music v1\n盲测人声榜超越Suno",
-          "body": "ACE Music v1在盲测人声音乐榜单上登顶，以微弱优势胜过Suno v6。",
-          "mini_headline": "ACE Music v1小胜Suno",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/AI-music-decrypt-style-03-gID_7.jpg"
-              },
-              {
-                "t": "p",
-                "x": "由ACE Studio开发的ACE Music v1在Artificial Analysis的人声音乐榜单上位居榜首，以1,160 Elo分领先Suno v6的1,144分。AA-Music-Vocal v1.1基准测试让评测者在不知道由哪个模型生成的情况下，试听用相同提示词生成的曲目，并选出自己更喜欢的作品。"
-              },
-              {
-                "t": "img",
-                "src": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://imagedelivery.net/YN1-rdnufJQJCgu3i1CbVw/MfUFfyR49NwW4OCFj1yIR9UB6An2rQPWYPKjJXYgzSA/public@webp"
-              },
-              {
-                "t": "p",
-                "x": "领先优势相对较小，两个模型的统计置信区间存在重叠。在另一份器乐音乐榜单上，Suno仍保持榜首位置。"
-              },
-              {
-                "t": "p",
-                "x": "在Decrypt的实测中，ACE Music在主流风格上生成的歌曲旋律性更强、结构更连贯，人声更自然，结尾也更干净。在旋律死亡金属等不那么常规的曲风上，Suno仍占优势。"
-              },
-              {
-                "t": "p",
-                "x": "其“Idea”功能可以把一个基本构想发展成歌词和结构完整的作品；v1.1 Preview会在生成音频前先创建乐谱，用户可以编辑旋律与和弦、导出MIDI文件，并分离人声与乐器。"
-              },
-              {
-                "t": "p",
-                "x": "旗舰模型仍为闭源，也没有公开API。ACE Studio与StepFun已经发布了开放的ACE-Step 1.5，开发者表示：“我们计划在2026年底开源ACE Music v1 Flash。”"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "ACE Music v1 supera a Suno\nen un ranking vocal a ciegas",
-          "body": "ACE Music v1, de ACE Studio, encabeza el ranking vocal a ciegas de Artificial Analysis y supera a Suno v6.",
-          "mini_headline": "ACE Music v1 supera por poco a Suno",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/AI-music-decrypt-style-03-gID_7.jpg"
-              },
-              {
-                "t": "p",
-                "x": "ACE Music v1, desarrollado por ACE Studio, ocupa el primer puesto en la clasificación de música vocal de Artificial Analysis, con 1,160 puntos Elo frente a los 1,144 de Suno v6. En el benchmark AA-Music-Vocal v1.1, los evaluadores escuchan pistas generadas a partir de prompts idénticos sin saber qué modelo las creó y luego eligen su favorita."
-              },
-              {
-                "t": "img",
-                "src": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://imagedelivery.net/YN1-rdnufJQJCgu3i1CbVw/MfUFfyR49NwW4OCFj1yIR9UB6An2rQPWYPKjJXYgzSA/public@webp"
-              },
-              {
-                "t": "p",
-                "x": "La ventaja es relativamente estrecha y los intervalos de confianza estadística de los modelos se solapan. Suno, además, conserva el primer puesto en la clasificación separada de música instrumental."
-              },
-              {
-                "t": "p",
-                "x": "En las pruebas prácticas de Decrypt, ACE Music produjo canciones más melódicas y coherentes en estilos convencionales, con voces más naturales y finales más limpios. Suno aún tenía ventaja en géneros menos convencionales, como el death metal melódico."
-              },
-              {
-                "t": "p",
-                "x": "Su función “Idea” puede convertir un concepto básico en letras y una composición estructurada; v1.1 Preview crea una partitura antes de generar el audio, y los usuarios pueden editar melodías y acordes, exportar archivos MIDI y separar las voces de los instrumentos."
-              },
-              {
-                "t": "p",
-                "x": "El modelo insignia sigue siendo de código cerrado y no tiene una API pública. ACE Studio y StepFun ya publicaron el modelo abierto ACE-Step 1.5, y “planeamos liberar ACE Music v1 Flash como código abierto a finales de 2026”, afirman los desarrolladores."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "ACE Music v1이\n보컬 순위서 Suno 제쳐",
-          "body": "ACE Music v1이 블라인드 보컬 순위 정상에 올라 Suno v6를 앞섰다.",
-          "mini_headline": "ACE Music v1, Suno를 근소하게 앞서다",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/AI-music-decrypt-style-03-gID_7.jpg"
-              },
-              {
-                "t": "p",
-                "x": "ACE Studio가 개발한 ACE Music v1이 Artificial Analysis의 보컬 음악 순위에서 정상에 올랐다. Elo 점수는 1,160점으로 Suno v6의 1,144점을 앞섰다. AA-Music-Vocal v1.1 벤치마크는 평가자가 같은 프롬프트로 만든 곡들을 어떤 모델이 만들었는지 모른 채 듣고 마음에 드는 곡을 고르는 방식이다."
-              },
-              {
-                "t": "img",
-                "src": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://imagedelivery.net/YN1-rdnufJQJCgu3i1CbVw/MfUFfyR49NwW4OCFj1yIR9UB6An2rQPWYPKjJXYgzSA/public@webp"
-              },
-              {
-                "t": "p",
-                "x": "격차는 비교적 작고, 두 모델의 통계적 신뢰구간은 서로 겹친다. 별도의 기악 음악 순위에서는 여전히 Suno가 정상을 지키고 있다."
-              },
-              {
-                "t": "p",
-                "x": "Decrypt의 직접 테스트에서 ACE Music은 주류 스타일에서 더 선율적이고 짜임새 있는 곡을 만들었고, 보컬은 더 자연스럽고 마무리도 더 깔끔했다. 멜로딕 데스메탈처럼 덜 관습적인 장르에서는 여전히 Suno가 앞섰다."
-              },
-              {
-                "t": "p",
-                "x": "“Idea” 기능은 기본 콘셉트를 가사와 구조를 갖춘 곡으로 발전시킨다. v1.1 Preview는 오디오를 생성하기 전에 악보를 먼저 만들고, 사용자는 멜로디와 코드를 편집하고 MIDI 파일을 내보내며 보컬과 악기를 분리할 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "플래그십 모델은 여전히 비공개 소스이며 공개 API도 없다. ACE Studio와 StepFun은 이미 오픈 모델 ACE-Step 1.5를 공개했고, 개발진은 “ACE Music v1 Flash를 2026년 말 오픈소스로 공개할 계획”이라고 밝혔다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "ACE Music v1が\nブラインド評価でSuno超え",
-          "body": "ACE Music v1がブラインド評価のボーカル部門でSuno v6を抑え首位に立った。",
-          "mini_headline": "ACE Music v1、Sunoを僅差で上回る",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/AI-music-decrypt-style-03-gID_7.jpg"
-              },
-              {
-                "t": "p",
-                "x": "ACE Studioが開発したACE Music v1が、Artificial Analysisのボーカル音楽ランキングで首位に立った。Eloスコアは1,160で、Suno v6の1,144を上回る。AA-Music-Vocal v1.1ベンチマークでは、評価者が同一のプロンプトから生成された楽曲を、どのモデルが作ったかを知らされないまま聴き比べ、好みの曲を選ぶ。"
-              },
-              {
-                "t": "img",
-                "src": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://imagedelivery.net/YN1-rdnufJQJCgu3i1CbVw/MfUFfyR49NwW4OCFj1yIR9UB6An2rQPWYPKjJXYgzSA/public@webp"
-              },
-              {
-                "t": "p",
-                "x": "リードは比較的小さく、両モデルの統計的な信頼区間は重なっている。また、別枠のインストゥルメンタル音楽ランキングでは、Sunoが引き続き首位を保っている。"
-              },
-              {
-                "t": "p",
-                "x": "Decryptによる実地テストでは、ACE Musicは主流のスタイルでより旋律的でまとまりのある曲を生成し、ボーカルはより自然で、曲の終わり方もすっきりしていた。一方、メロディック・デスメタルのような型にはまらないジャンルでは、Sunoがなお優位だった。"
-              },
-              {
-                "t": "p",
-                "x": "「Idea」機能は、基本的なコンセプトを歌詞と構成を備えた楽曲へと発展させる。v1.1 Previewは音声を生成する前に楽譜を作成し、ユーザーはメロディーやコードを編集したり、MIDIファイルを書き出したり、ボーカルと楽器を分離したりできる。"
-              },
-              {
-                "t": "p",
-                "x": "フラッグシップモデルは引き続きクローズドソースで、公開APIもない。ACE StudioとStepFunはすでにオープンなACE-Step 1.5を公開しており、開発陣は「2026年後半にACE Music v1 Flashをオープンソース化する予定だ」と述べている。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "ACE Music v1\n盲测人声榜超越Suno",
-          "body": "ACE Music v1在盲测人声音乐榜单上登顶，以微弱优势胜过Suno v6。",
-          "mini_headline": "ACE Music v1小胜Suno",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/AI-music-decrypt-style-03-gID_7.jpg"
-              },
-              {
-                "t": "p",
-                "x": "由ACE Studio开发的ACE Music v1在Artificial Analysis的人声音乐榜单上位居榜首，以1,160 Elo分领先Suno v6的1,144分。AA-Music-Vocal v1.1基准测试让评测者在不知道由哪个模型生成的情况下，试听用相同提示词生成的曲目，并选出自己更喜欢的作品。"
-              },
-              {
-                "t": "img",
-                "src": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://imagedelivery.net/YN1-rdnufJQJCgu3i1CbVw/MfUFfyR49NwW4OCFj1yIR9UB6An2rQPWYPKjJXYgzSA/public@webp"
-              },
-              {
-                "t": "p",
-                "x": "领先优势相对较小，两个模型的统计置信区间存在重叠。在另一份器乐音乐榜单上，Suno仍保持榜首位置。"
-              },
-              {
-                "t": "p",
-                "x": "在Decrypt的实测中，ACE Music在主流风格上生成的歌曲旋律性更强、结构更连贯，人声更自然，结尾也更干净。在旋律死亡金属等不那么常规的曲风上，Suno仍占优势。"
-              },
-              {
-                "t": "p",
-                "x": "其“Idea”功能可以把一个基本构想发展成歌词和结构完整的作品；v1.1 Preview会在生成音频前先创建乐谱，用户可以编辑旋律与和弦、导出MIDI文件，并分离人声与乐器。"
-              },
-              {
-                "t": "p",
-                "x": "旗舰模型仍为闭源，也没有公开API。ACE Studio与StepFun已经发布了开放的ACE-Step 1.5，开发者表示：“我们计划在2026年底开源ACE Music v1 Flash。”"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "ACE Music v1 supera a Suno\nen un ranking vocal a ciegas",
-          "body": "ACE Music v1, de ACE Studio, encabeza el ranking vocal a ciegas de Artificial Analysis y supera a Suno v6.",
-          "mini_headline": "ACE Music v1 supera por poco a Suno",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/AI-music-decrypt-style-03-gID_7.jpg"
-              },
-              {
-                "t": "p",
-                "x": "ACE Music v1, desarrollado por ACE Studio, ocupa el primer puesto en la clasificación de música vocal de Artificial Analysis, con 1,160 puntos Elo frente a los 1,144 de Suno v6. En el benchmark AA-Music-Vocal v1.1, los evaluadores escuchan pistas generadas a partir de prompts idénticos sin saber qué modelo las creó y luego eligen su favorita."
-              },
-              {
-                "t": "img",
-                "src": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://imagedelivery.net/YN1-rdnufJQJCgu3i1CbVw/MfUFfyR49NwW4OCFj1yIR9UB6An2rQPWYPKjJXYgzSA/public@webp"
-              },
-              {
-                "t": "p",
-                "x": "La ventaja es relativamente estrecha y los intervalos de confianza estadística de los modelos se solapan. Suno, además, conserva el primer puesto en la clasificación separada de música instrumental."
-              },
-              {
-                "t": "p",
-                "x": "En las pruebas prácticas de Decrypt, ACE Music produjo canciones más melódicas y coherentes en estilos convencionales, con voces más naturales y finales más limpios. Suno aún tenía ventaja en géneros menos convencionales, como el death metal melódico."
-              },
-              {
-                "t": "p",
-                "x": "Su función “Idea” puede convertir un concepto básico en letras y una composición estructurada; v1.1 Preview crea una partitura antes de generar el audio, y los usuarios pueden editar melodías y acordes, exportar archivos MIDI y separar las voces de los instrumentos."
-              },
-              {
-                "t": "p",
-                "x": "El modelo insignia sigue siendo de código cerrado y no tiene una API pública. ACE Studio y StepFun ya publicaron el modelo abierto ACE-Step 1.5, y “planeamos liberar ACE Music v1 Flash como código abierto a finales de 2026”, afirman los desarrolladores."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "musicflux-text-music-editing",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "MusicFlux가\n오디오 모델을 편집기로",
-      "body": "MusicFlux는 사전학습 오디오 모델을 텍스트로 음악을 고치는 편집기로 바꿨다.",
-      "mini_headline": "MusicFlux, 텍스트로 음악 편집",
-      "tool": "Music",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2611.13834",
-      "accent": "#0070f3",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "MusicFlux: Flexible Conditioning for Text-Guided Music Generation and Editing — Teysir Baoueb, Leonardo Boulitreau de M. M. Marques, Paraskevas Stamatiadis, Gaël Richard(Télécom Paris)."
-          },
-          {
-            "t": "p",
-            "x": "음악 편집은 기존 녹음의 원래 속성을 살리면서 녹음을 바꾸는 일이다. 최근 연구는 사전학습된 텍스트-음악 모델에 맥락 오디오를 조건으로 넣어 인페인팅, 이벤트 삽입, 복원 같은 작업에 쓴다. 이미지 편집에서 나온 방식처럼 원본을 인컨텍스트 정보로 다루면 음악은 오디오 시퀀스가 길어 계산 비용이 커진다."
-          },
-          {
-            "t": "img",
-            "src": "https://musicflux.onrender.com/assets/img/fig-overview.png",
-            "cap": "Fig. 1. MusicFlux는 생성, 인페인팅, SFX 복원을 하나의 공유 잠재 조건화 틀로 묶어 정식화한다."
-          },
-          {
-            "t": "p",
-            "x": "저자들은 효율적인 사전학습 플로 매칭 텍스트-오디오 모델 TangoFlux 위에 텍스트 기반 음악 편집기 MusicFlux를 만들었다. 먼저 텍스트-음악 생성용으로 미세조정하고, 이어 오디오·텍스트·시간 마스크를 함께 조건으로 넣어 인페인팅/아웃페인팅과 효과음 복원까지 하도록 적응시켰다."
-          },
-          {
-            "t": "img",
-            "src": "https://musicflux.onrender.com/assets/img/fig-architectures.png",
-            "cap": "Fig. 2. MusicFlux-Concat(왼쪽)은 원본과 목표 잠재 표현을 이어 붙인다. MusicFlux-CAR(오른쪽)는 시프트 네트워크로 원래 시퀀스 길이를 그대로 둔다."
-          },
-          {
-            "t": "p",
-            "x": "두 조건화 방식은 편집 성능과 계산 효율 가운데 무엇을 더 챙기느냐가 다르다. MusicFlux-Concat은 편집 성능이 더 높다. MusicFlux-CAR는 원래 시퀀스 길이를 지키면서 추론 시간과 동적 메모리를 50% 넘게 줄인다. 둘 다 공개 데이터로 학습한 단일 멀티태스크 모델인데도 작업별 기준 모델에 견줄 만하다. Demo: https://musicflux.onrender.com/"
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "MusicFlux turns a text-to-audio\nmodel into a music editor",
-          "body": "MusicFlux adapts a pretrained flow-matching text-to-audio model for text-guided music inpainting and restoration.",
-          "mini_headline": "MusicFlux edits music by text",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "MusicFlux: Flexible Conditioning for Text-Guided Music Generation and Editing — Teysir Baoueb, Leonardo Boulitreau de M. M. Marques, Paraskevas Stamatiadis and Gaël Richard (Télécom Paris)."
-              },
-              {
-                "t": "p",
-                "x": "Music editing transforms existing recordings while preserving their original attributes. Recent approaches adapt pretrained text-to-music models for tasks like inpainting, event insertion, or restoration by conditioning them with context audio. Treating the source as in-context information, as recently proposed for image editing, is computationally expensive for music due to long audio sequences."
-              },
-              {
-                "t": "img",
-                "src": "https://musicflux.onrender.com/assets/img/fig-overview.png",
-                "cap": "Fig. 1. MusicFlux formulates generation, inpainting, and SFX restoration under a shared latent-conditioning paradigm."
-              },
-              {
-                "t": "p",
-                "x": "The authors develop MusicFlux, a text-guided music editor built on TangoFlux, an efficient pretrained flow-matching text-to-audio model. They fine-tune it for text-to-music generation, then adapt it for inpainting/outpainting and sound-effects restoration with joint audio, text and temporal-mask conditioning."
-              },
-              {
-                "t": "img",
-                "src": "https://musicflux.onrender.com/assets/img/fig-architectures.png",
-                "cap": "Fig. 2. MusicFlux-Concat (left) concatenates source and target latents; MusicFlux-CAR (right) uses shift networks and keeps the original sequence length."
-              },
-              {
-                "t": "p",
-                "x": "Two conditioning approaches trade off editing performance and computational efficiency: MusicFlux-Concat achieves stronger editing performance, while MusicFlux-CAR preserves the original sequence length and reduces inference runtime and dynamic memory by over 50%. Both remain competitive with task-specific baselines despite being single multi-task models trained on open data. Demo: https://musicflux.onrender.com/"
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "MusicFlux가\n오디오 모델을 편집기로",
-          "body": "MusicFlux는 사전학습 오디오 모델을 텍스트로 음악을 고치는 편집기로 바꿨다.",
-          "mini_headline": "MusicFlux, 텍스트로 음악 편집",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "MusicFlux: Flexible Conditioning for Text-Guided Music Generation and Editing — Teysir Baoueb, Leonardo Boulitreau de M. M. Marques, Paraskevas Stamatiadis, Gaël Richard(Télécom Paris)."
-              },
-              {
-                "t": "p",
-                "x": "음악 편집은 기존 녹음의 원래 속성을 살리면서 녹음을 바꾸는 일이다. 최근 연구는 사전학습된 텍스트-음악 모델에 맥락 오디오를 조건으로 넣어 인페인팅, 이벤트 삽입, 복원 같은 작업에 쓴다. 이미지 편집에서 나온 방식처럼 원본을 인컨텍스트 정보로 다루면 음악은 오디오 시퀀스가 길어 계산 비용이 커진다."
-              },
-              {
-                "t": "img",
-                "src": "https://musicflux.onrender.com/assets/img/fig-overview.png",
-                "cap": "Fig. 1. MusicFlux는 생성, 인페인팅, SFX 복원을 하나의 공유 잠재 조건화 틀로 묶어 정식화한다."
-              },
-              {
-                "t": "p",
-                "x": "저자들은 효율적인 사전학습 플로 매칭 텍스트-오디오 모델 TangoFlux 위에 텍스트 기반 음악 편집기 MusicFlux를 만들었다. 먼저 텍스트-음악 생성용으로 미세조정하고, 이어 오디오·텍스트·시간 마스크를 함께 조건으로 넣어 인페인팅/아웃페인팅과 효과음 복원까지 하도록 적응시켰다."
-              },
-              {
-                "t": "img",
-                "src": "https://musicflux.onrender.com/assets/img/fig-architectures.png",
-                "cap": "Fig. 2. MusicFlux-Concat(왼쪽)은 원본과 목표 잠재 표현을 이어 붙인다. MusicFlux-CAR(오른쪽)는 시프트 네트워크로 원래 시퀀스 길이를 그대로 둔다."
-              },
-              {
-                "t": "p",
-                "x": "두 조건화 방식은 편집 성능과 계산 효율 가운데 무엇을 더 챙기느냐가 다르다. MusicFlux-Concat은 편집 성능이 더 높다. MusicFlux-CAR는 원래 시퀀스 길이를 지키면서 추론 시간과 동적 메모리를 50% 넘게 줄인다. 둘 다 공개 데이터로 학습한 단일 멀티태스크 모델인데도 작업별 기준 모델에 견줄 만하다. Demo: https://musicflux.onrender.com/"
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "MusicFluxが\nオーディオ生成を音楽編集へ",
-          "body": "MusicFluxは学習済みフローマッチング型音声生成モデルを音楽の補完と修復に応用した。",
-          "mini_headline": "MusicFlux、テキストで音楽を編集",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "MusicFlux: Flexible Conditioning for Text-Guided Music Generation and Editing — Teysir Baoueb、Leonardo Boulitreau de M. M. Marques、Paraskevas Stamatiadis、Gaël Richard(Télécom Paris)。"
-              },
-              {
-                "t": "p",
-                "x": "音楽編集とは、既存の録音を元の特性を保ちながら作り変えることだ。近年の手法は、事前学習済みのテキスト・トゥ・ミュージックモデルにコンテキスト音声を条件として与え、インペインティングやイベント挿入、修復といったタスクに適応させている。画像編集で最近提案されたように元音源をインコンテキスト情報として扱う方法は、音楽では音声シーケンスが長いため計算コストが高い。"
-              },
-              {
-                "t": "img",
-                "src": "https://musicflux.onrender.com/assets/img/fig-overview.png",
-                "cap": "Fig. 1. MusicFluxは、生成、インペインティング、SFX修復を共通の潜在条件付けパラダイムの下で定式化する。"
-              },
-              {
-                "t": "p",
-                "x": "著者らは、効率的な事前学習済みフローマッチング型テキスト・トゥ・オーディオモデルであるTangoFluxを基に、テキスト誘導型の音楽エディタMusicFluxを開発した。まずテキストからの音楽生成向けにファインチューニングし、その後、音声・テキスト・時間マスクを組み合わせた条件付けによって、インペインティング/アウトペインティングと効果音の修復に適応させた。"
-              },
-              {
-                "t": "img",
-                "src": "https://musicflux.onrender.com/assets/img/fig-architectures.png",
-                "cap": "Fig. 2. MusicFlux-Concat(左)は元音源とターゲットの潜在表現を連結し、MusicFlux-CAR(右)はシフトネットワークを用いて元のシーケンス長を保つ。"
-              },
-              {
-                "t": "p",
-                "x": "二つの条件付け手法は、編集性能と計算効率のトレードオフが異なる。MusicFlux-Concatは編集性能で上回り、MusicFlux-CARは元のシーケンス長を保ったまま推論時間と動的メモリを50%以上削減する。いずれもオープンデータで学習した単一のマルチタスクモデルだが、タスク特化型のベースラインに匹敵する性能を示す。Demo: https://musicflux.onrender.com/"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "MusicFlux把文生音频\n模型变成音乐编辑器",
-          "body": "MusicFlux将预训练的流匹配文本生成音频模型改造用于文本引导的音乐修补与修复。",
-          "mini_headline": "MusicFlux用文本编辑音乐",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "MusicFlux: Flexible Conditioning for Text-Guided Music Generation and Editing — Teysir Baoueb、Leonardo Boulitreau de M. M. Marques、Paraskevas Stamatiadis、Gaël Richard（Télécom Paris）。"
-              },
-              {
-                "t": "p",
-                "x": "音乐编辑是在保留原有属性的同时对现有录音进行改造。近期方法以上下文音频作为条件，让预训练的文本生成音乐模型适用于修补、事件插入或修复等任务。像图像编辑领域近来提出的那样把源音频当作上下文信息处理，对音乐而言因音频序列较长，计算成本很高。"
-              },
-              {
-                "t": "img",
-                "src": "https://musicflux.onrender.com/assets/img/fig-overview.png",
-                "cap": "Fig. 1. MusicFlux在共享的潜在条件化范式下统一表述生成、修补和SFX修复。"
-              },
-              {
-                "t": "p",
-                "x": "作者基于高效的预训练流匹配文本生成音频模型TangoFlux，开发了文本引导的音乐编辑器MusicFlux。他们先将其微调用于文本生成音乐，再通过音频、文本与时间掩码的联合条件化，使其适用于修补/外延补全和音效修复。"
-              },
-              {
-                "t": "img",
-                "src": "https://musicflux.onrender.com/assets/img/fig-architectures.png",
-                "cap": "Fig. 2. MusicFlux-Concat（左）将源与目标潜变量拼接；MusicFlux-CAR（右）使用移位网络，并保持原始序列长度。"
-              },
-              {
-                "t": "p",
-                "x": "两种条件化方法在编辑性能与计算效率之间各有取舍：MusicFlux-Concat编辑性能更强，而MusicFlux-CAR保持原始序列长度，并将推理耗时和动态内存降低50%以上。两者均为基于开放数据训练的单一多任务模型，但仍可与针对特定任务的基线模型相媲美。Demo: https://musicflux.onrender.com/"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "MusicFlux convierte un modelo\ntexto-audio en editor musical",
-          "body": "MusicFlux adapta un modelo preentrenado de texto a audio para el inpainting y la restauración de música.",
-          "mini_headline": "MusicFlux edita música con texto",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "MusicFlux: Flexible Conditioning for Text-Guided Music Generation and Editing — Teysir Baoueb, Leonardo Boulitreau de M. M. Marques, Paraskevas Stamatiadis y Gaël Richard (Télécom Paris)."
-              },
-              {
-                "t": "p",
-                "x": "La edición musical transforma grabaciones existentes conservando sus atributos originales. Los enfoques recientes adaptan modelos preentrenados de texto a música para tareas como inpainting, inserción de eventos o restauración, condicionándolos con audio de contexto. Tratar la fuente como información en contexto, como se propuso recientemente para la edición de imágenes, resulta computacionalmente costoso en música debido a las largas secuencias de audio."
-              },
-              {
-                "t": "img",
-                "src": "https://musicflux.onrender.com/assets/img/fig-overview.png",
-                "cap": "Fig. 1. MusicFlux formula la generación, el inpainting y la restauración de SFX bajo un paradigma compartido de condicionamiento latente."
-              },
-              {
-                "t": "p",
-                "x": "Los autores desarrollan MusicFlux, un editor musical guiado por texto basado en TangoFlux, un modelo eficiente y preentrenado de texto a audio con flow matching. Primero lo ajustan para generar música a partir de texto y luego lo adaptan al inpainting/outpainting y a la restauración de efectos de sonido mediante un condicionamiento conjunto de audio, texto y máscara temporal."
-              },
-              {
-                "t": "img",
-                "src": "https://musicflux.onrender.com/assets/img/fig-architectures.png",
-                "cap": "Fig. 2. MusicFlux-Concat (izquierda) concatena los latentes de origen y destino; MusicFlux-CAR (derecha) usa redes de desplazamiento y conserva la longitud original de la secuencia."
-              },
-              {
-                "t": "p",
-                "x": "Dos enfoques de condicionamiento equilibran de forma distinta el rendimiento de edición y la eficiencia computacional: MusicFlux-Concat logra un mejor rendimiento de edición, mientras que MusicFlux-CAR conserva la longitud original de la secuencia y reduce en más del 50% el tiempo de inferencia y la memoria dinámica. Ambos siguen siendo competitivos frente a modelos de referencia específicos de cada tarea, pese a ser modelos multitarea únicos entrenados con datos abiertos. Demo: https://musicflux.onrender.com/"
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "MusicFlux가\n오디오 모델을 편집기로",
-          "body": "MusicFlux는 사전학습 오디오 모델을 텍스트 기반 음악 편집에 맞췄다.",
-          "mini_headline": "MusicFlux, 텍스트로 음악 편집",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "MusicFlux: Flexible Conditioning for Text-Guided Music Generation and Editing — Teysir Baoueb, Leonardo Boulitreau de M. M. Marques, Paraskevas Stamatiadis, Gaël Richard(Télécom Paris)."
-              },
-              {
-                "t": "p",
-                "x": "음악 편집은 기존 녹음의 원래 속성을 유지하면서 그 녹음을 바꾸는 작업이다. 최근 연구들은 사전학습된 텍스트-음악 모델에 맥락 오디오를 조건으로 주어 인페인팅, 이벤트 삽입, 복원 같은 작업에 맞춘다. 최근 이미지 편집에서 제안된 것처럼 원본을 인컨텍스트 정보로 다루는 방식은 오디오 시퀀스가 길어 음악에서는 계산 비용이 크다."
-              },
-              {
-                "t": "img",
-                "src": "https://musicflux.onrender.com/assets/img/fig-overview.png",
-                "cap": "Fig. 1. MusicFlux는 생성, 인페인팅, SFX 복원을 하나의 공유 잠재 조건화 패러다임으로 정식화한다."
-              },
-              {
-                "t": "p",
-                "x": "저자들은 효율적인 사전학습 플로 매칭 텍스트-오디오 모델 TangoFlux를 바탕으로 텍스트 기반 음악 편집기 MusicFlux를 개발했다. 먼저 텍스트-음악 생성에 맞게 미세조정한 뒤, 오디오·텍스트·시간 마스크를 함께 조건으로 쓰는 방식으로 인페인팅/아웃페인팅과 효과음 복원에 적응시켰다."
-              },
-              {
-                "t": "img",
-                "src": "https://musicflux.onrender.com/assets/img/fig-architectures.png",
-                "cap": "Fig. 2. MusicFlux-Concat(왼쪽)은 원본과 목표 잠재 표현을 이어 붙이고, MusicFlux-CAR(오른쪽)는 시프트 네트워크를 사용해 원래 시퀀스 길이를 유지한다."
-              },
-              {
-                "t": "p",
-                "x": "두 조건화 방식은 편집 성능과 계산 효율 사이에서 서로 다른 균형을 택한다. MusicFlux-Concat은 편집 성능이 더 높고, MusicFlux-CAR는 원래 시퀀스 길이를 유지하면서 추론 시간과 동적 메모리를 50% 이상 줄인다. 둘 다 공개 데이터로 학습한 단일 멀티태스크 모델이지만 작업별 기준 모델과 견줄 만한 성능을 낸다. Demo: https://musicflux.onrender.com/"
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "MusicFluxが\nオーディオ生成を音楽編集へ",
-          "body": "MusicFluxは学習済みフローマッチング型音声生成モデルを音楽の補完と修復に応用した。",
-          "mini_headline": "MusicFlux、テキストで音楽を編集",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "MusicFlux: Flexible Conditioning for Text-Guided Music Generation and Editing — Teysir Baoueb、Leonardo Boulitreau de M. M. Marques、Paraskevas Stamatiadis、Gaël Richard(Télécom Paris)。"
-              },
-              {
-                "t": "p",
-                "x": "音楽編集とは、既存の録音を元の特性を保ちながら作り変えることだ。近年の手法は、事前学習済みのテキスト・トゥ・ミュージックモデルにコンテキスト音声を条件として与え、インペインティングやイベント挿入、修復といったタスクに適応させている。画像編集で最近提案されたように元音源をインコンテキスト情報として扱う方法は、音楽では音声シーケンスが長いため計算コストが高い。"
-              },
-              {
-                "t": "img",
-                "src": "https://musicflux.onrender.com/assets/img/fig-overview.png",
-                "cap": "Fig. 1. MusicFluxは、生成、インペインティング、SFX修復を共通の潜在条件付けパラダイムの下で定式化する。"
-              },
-              {
-                "t": "p",
-                "x": "著者らは、効率的な事前学習済みフローマッチング型テキスト・トゥ・オーディオモデルであるTangoFluxを基に、テキスト誘導型の音楽エディタMusicFluxを開発した。まずテキストからの音楽生成向けにファインチューニングし、その後、音声・テキスト・時間マスクを組み合わせた条件付けによって、インペインティング/アウトペインティングと効果音の修復に適応させた。"
-              },
-              {
-                "t": "img",
-                "src": "https://musicflux.onrender.com/assets/img/fig-architectures.png",
-                "cap": "Fig. 2. MusicFlux-Concat(左)は元音源とターゲットの潜在表現を連結し、MusicFlux-CAR(右)はシフトネットワークを用いて元のシーケンス長を保つ。"
-              },
-              {
-                "t": "p",
-                "x": "二つの条件付け手法は、編集性能と計算効率のトレードオフが異なる。MusicFlux-Concatは編集性能で上回り、MusicFlux-CARは元のシーケンス長を保ったまま推論時間と動的メモリを50%以上削減する。いずれもオープンデータで学習した単一のマルチタスクモデルだが、タスク特化型のベースラインに匹敵する性能を示す。Demo: https://musicflux.onrender.com/"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "MusicFlux把文生音频\n模型变成音乐编辑器",
-          "body": "MusicFlux将预训练的流匹配文本生成音频模型改造用于文本引导的音乐修补与修复。",
-          "mini_headline": "MusicFlux用文本编辑音乐",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "MusicFlux: Flexible Conditioning for Text-Guided Music Generation and Editing — Teysir Baoueb、Leonardo Boulitreau de M. M. Marques、Paraskevas Stamatiadis、Gaël Richard（Télécom Paris）。"
-              },
-              {
-                "t": "p",
-                "x": "音乐编辑是在保留原有属性的同时对现有录音进行改造。近期方法以上下文音频作为条件，让预训练的文本生成音乐模型适用于修补、事件插入或修复等任务。像图像编辑领域近来提出的那样把源音频当作上下文信息处理，对音乐而言因音频序列较长，计算成本很高。"
-              },
-              {
-                "t": "img",
-                "src": "https://musicflux.onrender.com/assets/img/fig-overview.png",
-                "cap": "Fig. 1. MusicFlux在共享的潜在条件化范式下统一表述生成、修补和SFX修复。"
-              },
-              {
-                "t": "p",
-                "x": "作者基于高效的预训练流匹配文本生成音频模型TangoFlux，开发了文本引导的音乐编辑器MusicFlux。他们先将其微调用于文本生成音乐，再通过音频、文本与时间掩码的联合条件化，使其适用于修补/外延补全和音效修复。"
-              },
-              {
-                "t": "img",
-                "src": "https://musicflux.onrender.com/assets/img/fig-architectures.png",
-                "cap": "Fig. 2. MusicFlux-Concat（左）将源与目标潜变量拼接；MusicFlux-CAR（右）使用移位网络，并保持原始序列长度。"
-              },
-              {
-                "t": "p",
-                "x": "两种条件化方法在编辑性能与计算效率之间各有取舍：MusicFlux-Concat编辑性能更强，而MusicFlux-CAR保持原始序列长度，并将推理耗时和动态内存降低50%以上。两者均为基于开放数据训练的单一多任务模型，但仍可与针对特定任务的基线模型相媲美。Demo: https://musicflux.onrender.com/"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "MusicFlux convierte un modelo\ntexto-audio en editor musical",
-          "body": "MusicFlux adapta un modelo preentrenado de texto a audio para el inpainting y la restauración de música.",
-          "mini_headline": "MusicFlux edita música con texto",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "MusicFlux: Flexible Conditioning for Text-Guided Music Generation and Editing — Teysir Baoueb, Leonardo Boulitreau de M. M. Marques, Paraskevas Stamatiadis y Gaël Richard (Télécom Paris)."
-              },
-              {
-                "t": "p",
-                "x": "La edición musical transforma grabaciones existentes conservando sus atributos originales. Los enfoques recientes adaptan modelos preentrenados de texto a música para tareas como inpainting, inserción de eventos o restauración, condicionándolos con audio de contexto. Tratar la fuente como información en contexto, como se propuso recientemente para la edición de imágenes, resulta computacionalmente costoso en música debido a las largas secuencias de audio."
-              },
-              {
-                "t": "img",
-                "src": "https://musicflux.onrender.com/assets/img/fig-overview.png",
-                "cap": "Fig. 1. MusicFlux formula la generación, el inpainting y la restauración de SFX bajo un paradigma compartido de condicionamiento latente."
-              },
-              {
-                "t": "p",
-                "x": "Los autores desarrollan MusicFlux, un editor musical guiado por texto basado en TangoFlux, un modelo eficiente y preentrenado de texto a audio con flow matching. Primero lo ajustan para generar música a partir de texto y luego lo adaptan al inpainting/outpainting y a la restauración de efectos de sonido mediante un condicionamiento conjunto de audio, texto y máscara temporal."
-              },
-              {
-                "t": "img",
-                "src": "https://musicflux.onrender.com/assets/img/fig-architectures.png",
-                "cap": "Fig. 2. MusicFlux-Concat (izquierda) concatena los latentes de origen y destino; MusicFlux-CAR (derecha) usa redes de desplazamiento y conserva la longitud original de la secuencia."
-              },
-              {
-                "t": "p",
-                "x": "Dos enfoques de condicionamiento equilibran de forma distinta el rendimiento de edición y la eficiencia computacional: MusicFlux-Concat logra un mejor rendimiento de edición, mientras que MusicFlux-CAR conserva la longitud original de la secuencia y reduce en más del 50% el tiempo de inferencia y la memoria dinámica. Ambos siguen siendo competitivos frente a modelos de referencia específicos de cada tarea, pese a ser modelos multitarea únicos entrenados con datos abiertos. Demo: https://musicflux.onrender.com/"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "labelcamp-ai-connector",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Labelcamp 업무에\nClaude·ChatGPT",
-      "body": "Idol의 Labelcamp 고객은 Claude·ChatGPT로 데이터를 관리한다.",
-      "mini_headline": "Labelcamp, Claude·ChatGPT와 연동",
-      "tool": "Music",
-      "source": "Music Ally",
-      "url": "https://musically.com/2026/11/11/idols-labelcamp-and-startup-mypart-explore-ai-connections/",
-      "accent": "#7928ca",
       "motif": "sphere",
       "full": {
         "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/08/news-stories-images-4x3-2026-08-26T131412.133.png?fit=2000%2C1500&ssl=1"
+            "src": "https://musictech.com/wp-content/uploads/2026/11/Sonura-Flow-hero@2000x1500-1068x801.jpg"
           },
           {
             "t": "p",
-            "x": "에이전트형 AI와 LLM을 잇는 음악 업계 도구와 서비스가 늘고 있다. 오늘은 Idol의 유통 관리 플랫폼 Labelcamp와 음악 매칭 스타트업 MyPart가 소식을 냈다."
+            "x": "Sonura Flow는 새로 나온 무료 플러그인으로, 프로듀서는 DAW를 떠나지 않고 간단한 텍스트 프롬프트만으로 루프와 원샷 등 새 사운드를 만들 수 있다."
           },
           {
             "t": "p",
-            "x": "Labelcamp가 새로 내놓은 ‘AI Connector’는 Claude와 ChatGPT 같은 챗봇과 연동된다. 고객은 그 도구 안에서 대화하듯 카탈로그와 데이터 관리 업무를 처리한다."
+            "x": "원하는 사운드를 설명하고 드럼·베이스·멜로디·패드·보컬 중 카테고리를 고르면 루프와 보컬, 원샷, 효과음이 나온다."
           },
           {
             "t": "p",
-            "x": "Idol이 든 예는 이렇다. “프롬프트 하나로 여러 릴리스의 지역별 권리를 한꺼번에 조정하거나, 앨범 출시 일정을 수록 싱글과 함께 다시 잡을 수 있습니다. 가져온 데이터 전체의 메타데이터를 고치거나, 카탈로그 전반에 빠진 DSP 아티스트 IDs를 추가하거나, 플랫폼이 왜 납품을 거부했는지 설명할 수도 있습니다.”"
+            "x": "루프 길이도 정할 수 있다. 플러그인이 변형을 여러 개 내놓으면 마음에 드는 것을 골라 트랙 타임라인에 바로 끌어다 놓으면 된다."
           },
           {
             "t": "p",
-            "x": "Model Context Protocol(MCP) 기술이 실제로 쓰이는 모습이 바로 이것이고, MyPart가 하는 일도 여기에 일부 걸쳐 있다. MyPart는 “음악 이해를 대화형·자동화된 창작 과정과 결합한 범용 MCP AI 음악 에이전트… 음악, 가사, 시각적 리듬, 장면 전환, 청중 맥락, 사용자 선호를 해석해 음악 검색, 매칭, 플레이리스트 생성을 지원하도록 설계된” 에이전트를 내놓는다."
+            "x": "무료 플랜으로는 하루에 루프 10개, 원샷·효과음 20개, 완성 트랙을 최대 네 곡까지 만들 수 있다. 기간 제한도 결제 카드 등록도 없다. 유료 플랜은 생성 한도가 더 높다."
+          },
+          {
+            "t": "video",
+            "yt": "hTa_ysLlG9M"
           },
           {
             "t": "p",
-            "x": "MyPart는 Epidemic Sound, Overwolf와 손잡고 자사 기술을 적응형 게임 음악에 활용한 사례도 소개해 왔다. 여기에는 화면 속 게임플레이에 맞춰 Epidemic 카탈로그에서 음악을 골라 주는 인게임 앱 ‘Songhunt’가 들어 있다."
+            "x": "무료 플랜으로 만든 사운드는 모두 CC0 라이선스로 퍼블릭 도메인에 공개된다. 프로듀서는 출처 표기나 라이선스 제약 없이 자기 발매작에 쓸 수 있다. AI로 만든(AI-generated) 오디오의 권리를 둘러싼 흔한 걱정을 덜어 주는 대목이다."
+          },
+          {
+            "t": "p",
+            "x": "Sonura Flow를 설치하면 드럼 머신 Sonura Kit도 함께 깔린다. Sonura Kit는 같은 텍스트 프롬프트 방식으로 킷과 패턴을 만든다. 한 번 설치로 사운드 생성기와 비트 제작 도구를 모두 갖추는 셈이다."
+          },
+          {
+            "t": "p",
+            "x": "지원 환경은 Apple Silicon과 Intel Macs의 macOS 12 이상, 64-bit Windows 10과 11이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Labelcamp links label ops\nto Claude and ChatGPT",
-          "body": "Idol's Labelcamp now lets clients handle catalogue and data-management tasks from Claude or ChatGPT.",
-          "mini_headline": "Labelcamp plugs into Claude, ChatGPT",
+          "headline": "Sonura Flow turns text prompts\ninto loops inside the DAW",
+          "body": "Sonura Flow is a free plugin that generates loops, vocals, one-shots and effects from text prompts inside the DAW.",
+          "mini_headline": "Free text-to-loop plugin",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/08/news-stories-images-4x3-2026-08-26T131412.133.png?fit=2000%2C1500&ssl=1"
+                "src": "https://musictech.com/wp-content/uploads/2026/11/Sonura-Flow-hero@2000x1500-1068x801.jpg"
               },
               {
                 "t": "p",
-                "x": "The list of music-industry tools and services exploring agentic AI and LLM connections continues to grow. Today there is news from Idol’s distribution-management platform Labelcamp, as well as from music-matching startup MyPart."
+                "x": "Sonura Flow is a free new plugin that lets producers generate new sounds – loops, one-shots and more – from simple text prompts without even leaving their DAW."
               },
               {
                 "t": "p",
-                "x": "Labelcamp’s new ‘AI Connector’ works with chatbots including Claude and ChatGPT to enable clients to handle catalogue and data-management tasks from within those tools, using a conversational interface."
+                "x": "Users can generate loops, vocals, one-shots and effects by entering a description of the sound they want and selecting a category such as drums, bass, melody, pads or vocals."
               },
               {
                 "t": "p",
-                "x": "“A single prompt can see territorial rights adjusted across a batch of releases or an album rollout rescheduled along with its supporting singles,” explained Idol as an example. “It can also fix the metadata of an entire import, add missing DSP artist IDs across a catalogue, or explain why a platform rejected a delivery.”"
+                "x": "They can also set the desired loop length, with the plugin generating multiple variations to choose from before dragging the preferred sound directly into the track’s timeline."
               },
               {
                 "t": "p",
-                "x": "This is Model Context Protocol (MCP) technology in action, and that’s also part of what MyPart is up to, releasing “general MCP AI music agents that combine music understanding with conversational and automated creative processes… designed to interpret music, lyrics, visual rhythm, scene transitions, audience context and user preferences to support music search, matching and playlist generation”"
+                "x": "The free plan allows users to generate 10 loops, 20 one-shots and effects, as well as up to four full tracks per day. It has no time limit and requires no payment card, while a paid plan offers a higher generation limit."
+              },
+              {
+                "t": "video",
+                "yt": "hTa_ysLlG9M"
               },
               {
                 "t": "p",
-                "x": "MyPart has also been talking about how its technology was used in the adaptive-gaming-music space, via a partnership with Epidemic Sound and Overwolf. The integration involved ‘Songhunt’, an in-game app that picks music from Epidemic’s catalogue to match on-screen gameplay."
+                "x": "All sounds made on the free plan are released into the public domain under a CC0 licence, allowing producers to use them in their own releases without attribution or licensing restrictions, which addresses a common concern about the rights to AI-generated audio."
+              },
+              {
+                "t": "p",
+                "x": "Sonura Flow installs with Sonura Kit, a drum machine that builds kits and patterns using the same text-prompt approach. Producers get a sound generator and a beat-building tool from one installation."
+              },
+              {
+                "t": "p",
+                "x": "Sonura Flow supports macOS 12 or later on both Apple Silicon and Intel Macs and 64-bit Windows 10 and 11."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Labelcamp 업무에\nClaude·ChatGPT",
-          "body": "Idol의 Labelcamp 고객은 Claude·ChatGPT로 데이터를 관리한다.",
-          "mini_headline": "Labelcamp, Claude·ChatGPT와 연동",
+          "headline": "Sonura Flow\n텍스트로 DAW 루프 생성",
+          "body": "무료 플러그인 Sonura Flow는 DAW에서 텍스트로 루프와 보컬을 만든다.",
+          "mini_headline": "텍스트로 루프 만드는 무료 플러그인",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/08/news-stories-images-4x3-2026-08-26T131412.133.png?fit=2000%2C1500&ssl=1"
+                "src": "https://musictech.com/wp-content/uploads/2026/11/Sonura-Flow-hero@2000x1500-1068x801.jpg"
               },
               {
                 "t": "p",
-                "x": "에이전트형 AI와 LLM을 잇는 음악 업계 도구와 서비스가 늘고 있다. 오늘은 Idol의 유통 관리 플랫폼 Labelcamp와 음악 매칭 스타트업 MyPart가 소식을 냈다."
+                "x": "Sonura Flow는 새로 나온 무료 플러그인으로, 프로듀서는 DAW를 떠나지 않고 간단한 텍스트 프롬프트만으로 루프와 원샷 등 새 사운드를 만들 수 있다."
               },
               {
                 "t": "p",
-                "x": "Labelcamp가 새로 내놓은 ‘AI Connector’는 Claude와 ChatGPT 같은 챗봇과 연동된다. 고객은 그 도구 안에서 대화하듯 카탈로그와 데이터 관리 업무를 처리한다."
+                "x": "원하는 사운드를 설명하고 드럼·베이스·멜로디·패드·보컬 중 카테고리를 고르면 루프와 보컬, 원샷, 효과음이 나온다."
               },
               {
                 "t": "p",
-                "x": "Idol이 든 예는 이렇다. “프롬프트 하나로 여러 릴리스의 지역별 권리를 한꺼번에 조정하거나, 앨범 출시 일정을 수록 싱글과 함께 다시 잡을 수 있습니다. 가져온 데이터 전체의 메타데이터를 고치거나, 카탈로그 전반에 빠진 DSP 아티스트 IDs를 추가하거나, 플랫폼이 왜 납품을 거부했는지 설명할 수도 있습니다.”"
+                "x": "루프 길이도 정할 수 있다. 플러그인이 변형을 여러 개 내놓으면 마음에 드는 것을 골라 트랙 타임라인에 바로 끌어다 놓으면 된다."
               },
               {
                 "t": "p",
-                "x": "Model Context Protocol(MCP) 기술이 실제로 쓰이는 모습이 바로 이것이고, MyPart가 하는 일도 여기에 일부 걸쳐 있다. MyPart는 “음악 이해를 대화형·자동화된 창작 과정과 결합한 범용 MCP AI 음악 에이전트… 음악, 가사, 시각적 리듬, 장면 전환, 청중 맥락, 사용자 선호를 해석해 음악 검색, 매칭, 플레이리스트 생성을 지원하도록 설계된” 에이전트를 내놓는다."
+                "x": "무료 플랜으로는 하루에 루프 10개, 원샷·효과음 20개, 완성 트랙을 최대 네 곡까지 만들 수 있다. 기간 제한도 결제 카드 등록도 없다. 유료 플랜은 생성 한도가 더 높다."
+              },
+              {
+                "t": "video",
+                "yt": "hTa_ysLlG9M"
               },
               {
                 "t": "p",
-                "x": "MyPart는 Epidemic Sound, Overwolf와 손잡고 자사 기술을 적응형 게임 음악에 활용한 사례도 소개해 왔다. 여기에는 화면 속 게임플레이에 맞춰 Epidemic 카탈로그에서 음악을 골라 주는 인게임 앱 ‘Songhunt’가 들어 있다."
+                "x": "무료 플랜으로 만든 사운드는 모두 CC0 라이선스로 퍼블릭 도메인에 공개된다. 프로듀서는 출처 표기나 라이선스 제약 없이 자기 발매작에 쓸 수 있다. AI로 만든(AI-generated) 오디오의 권리를 둘러싼 흔한 걱정을 덜어 주는 대목이다."
+              },
+              {
+                "t": "p",
+                "x": "Sonura Flow를 설치하면 드럼 머신 Sonura Kit도 함께 깔린다. Sonura Kit는 같은 텍스트 프롬프트 방식으로 킷과 패턴을 만든다. 한 번 설치로 사운드 생성기와 비트 제작 도구를 모두 갖추는 셈이다."
+              },
+              {
+                "t": "p",
+                "x": "지원 환경은 Apple Silicon과 Intel Macs의 macOS 12 이상, 64-bit Windows 10과 11이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Labelcampが連携\nClaude・ChatGPT",
-          "body": "IdolのLabelcampがClaudeやChatGPTでのカタログ管理に対応した。",
-          "mini_headline": "Labelcamp、Claude・ChatGPTと連携",
+          "headline": "Sonura Flow\nテキストでDAW内ループ生成",
+          "body": "無料プラグインSonura Flowは、DAW内でテキストからループやボーカルを生成する。",
+          "mini_headline": "テキストからループを作る無料プラグイン",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/08/news-stories-images-4x3-2026-08-26T131412.133.png?fit=2000%2C1500&ssl=1"
+                "src": "https://musictech.com/wp-content/uploads/2026/11/Sonura-Flow-hero@2000x1500-1068x801.jpg"
               },
               {
                 "t": "p",
-                "x": "エージェント型AIやLLMとの連携を模索する音楽業界のツールやサービスは増え続けている。今日は、IdolのディストリビューションマネジメントプラットフォームLabelcampと、音楽マッチングのスタートアップMyPartからニュースが届いた。"
+                "x": "Sonura Flowは、プロデューサーがDAWを離れることなく、シンプルなテキストプロンプトからループやワンショットなど新しいサウンドを生成できる新しい無料プラグインだ。"
               },
               {
                 "t": "p",
-                "x": "Labelcampの新しい「AI Connector」は、ClaudeやChatGPTなどのチャットボットと連携し、顧客がそれらのツール内から対話型インターフェースでカタログやデータ管理の作業を行えるようにする。"
+                "x": "ユーザーは欲しいサウンドの説明を入力し、ドラム、ベース、メロディ、パッド、ボーカルといったカテゴリーを選ぶだけで、ループ、ボーカル、ワンショット、エフェクトを生成できる。"
               },
               {
                 "t": "p",
-                "x": "Idolは例として次のように説明した。「一つのプロンプトで、複数のリリースにまたがるテリトリー権利を調整したり、アルバムの展開スケジュールをサポートシングルごと組み直したりできる。インポート全体のメタデータを修正したり、カタログ全体で欠けているDSPのアーティストIDsを追加したり、プラットフォームが納品を却下した理由を説明したりすることも可能だ」"
+                "x": "ループの長さも指定できる。プラグインが複数のバリエーションを生成するので、気に入ったサウンドを選んでトラックのタイムラインに直接ドラッグすればよい。"
               },
               {
                 "t": "p",
-                "x": "これはModel Context Protocol(MCP)技術が実際に使われている例であり、MyPartが取り組んでいることの一部でもある。同社は「音楽理解を対話型・自動化された創作プロセスと組み合わせた汎用MCP AI音楽エージェント…音楽、歌詞、視覚的リズム、シーン転換、オーディエンスの文脈、ユーザーの好みを解釈し、音楽検索、マッチング、プレイリスト生成を支援するよう設計された」エージェントをリリースしている。"
+                "x": "無料プランでは一日あたりループ10本、ワンショットとエフェクト20個、フルトラック最大四曲まで生成できる。期限はなく支払い用カードも不要で、有料プランではより多くの生成が可能だ。"
+              },
+              {
+                "t": "video",
+                "yt": "hTa_ysLlG9M"
               },
               {
                 "t": "p",
-                "x": "MyPartはまた、Epidemic SoundおよびOverwolfとの提携を通じて、自社技術がアダプティブなゲーム音楽の分野でどう使われたかについても語っている。この統合には、画面上のゲームプレイに合わせてEpidemicのカタログから音楽を選ぶゲーム内アプリ「Songhunt」が含まれていた。"
+                "x": "無料プランで作られたサウンドはすべてCC0ライセンスのもとパブリックドメインとして公開され、プロデューサーはクレジット表記やライセンス上の制約なしに自身のリリースで使える。AI生成（AI-generated）オーディオの権利をめぐるよくある懸念に応える形だ。"
+              },
+              {
+                "t": "p",
+                "x": "Sonura Flowは、同じテキストプロンプト方式でキットとパターンを作るドラムマシンSonura Kitと一緒にインストールされる。一度のインストールでサウンド生成ツールとビート制作ツールが手に入る。"
+              },
+              {
+                "t": "p",
+                "x": "Sonura Flowは、Apple SiliconおよびIntel Macs上のmacOS 12以降と、64-bit Windows 10および11に対応する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Labelcamp接入\nClaude与ChatGPT",
-          "body": "Idol的Labelcamp客户可在Claude或ChatGPT中管理目录与数据。",
-          "mini_headline": "Labelcamp接入Claude与ChatGPT",
+          "headline": "Sonura Flow\n在DAW内用文字生成循环",
+          "body": "Sonura Flow是免费插件，可在DAW内用文字提示生成循环、人声、单次采样和音效。",
+          "mini_headline": "用文字生成循环的免费插件",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/08/news-stories-images-4x3-2026-08-26T131412.133.png?fit=2000%2C1500&ssl=1"
+                "src": "https://musictech.com/wp-content/uploads/2026/11/Sonura-Flow-hero@2000x1500-1068x801.jpg"
               },
               {
                 "t": "p",
-                "x": "探索智能体AI与LLM连接的音乐行业工具和服务越来越多。今天，Idol旗下的发行管理平台Labelcamp和音乐匹配初创公司MyPart都传来了消息。"
+                "x": "Sonura Flow是一款全新的免费插件，制作人无需离开DAW，就能通过简单的文字提示生成循环、单次采样等新声音。"
               },
               {
                 "t": "p",
-                "x": "Labelcamp新推出的“AI Connector”可与Claude、ChatGPT等聊天机器人协同工作，让客户在这些工具中通过对话界面处理目录和数据管理任务。"
+                "x": "用户只需输入对所需声音的描述，并选择鼓、贝斯、旋律、铺底或人声等类别，即可生成循环、人声、单次采样和音效。"
               },
               {
                 "t": "p",
-                "x": "Idol举例解释说：“只需一条提示词，就能批量调整多张发行作品的地区版权，或连同配套单曲一起重新安排专辑发布计划。它还可以修复整批导入数据的元数据，在整个目录中补全缺失的DSP艺人IDs，或解释某个平台为何拒绝了一次交付。”"
+                "x": "用户还可以设定所需的循环长度，插件会生成多个变体供挑选，再将选中的声音直接拖进音轨时间线。"
               },
               {
                 "t": "p",
-                "x": "这正是Model Context Protocol（MCP）技术的实际应用，也是MyPart正在做的事情之一。该公司发布了“将音乐理解与对话式及自动化创作流程相结合的通用MCP AI音乐智能体……旨在解读音乐、歌词、视觉节奏、场景转换、受众语境和用户偏好，以支持音乐搜索、匹配和歌单生成”。"
+                "x": "免费方案每天可生成10段循环、20个单次采样和音效，以及最多四首完整曲目。该方案没有时间限制，也无需支付卡；付费方案则提供更高的生成额度。"
+              },
+              {
+                "t": "video",
+                "yt": "hTa_ysLlG9M"
               },
               {
                 "t": "p",
-                "x": "MyPart还介绍了其技术如何通过与Epidemic Sound和Overwolf的合作应用于自适应游戏音乐领域。这次集成涉及游戏内应用“Songhunt”，它会从Epidemic的曲库中挑选与屏幕上游戏画面相匹配的音乐。"
+                "x": "免费方案下制作的所有声音均以CC0许可证发布到公有领域，制作人可在自己的发行作品中使用，无需署名，也不受许可限制，这回应了外界对AI生成（AI-generated）音频权利的常见担忧。"
+              },
+              {
+                "t": "p",
+                "x": "Sonura Flow会与鼓机Sonura Kit一同安装，后者同样通过文字提示来构建套件和节奏型。制作人一次安装就能同时获得声音生成器和节拍制作工具。"
+              },
+              {
+                "t": "p",
+                "x": "Sonura Flow支持Apple Silicon和Intel Macs上的macOS 12及以上版本，以及64-bit Windows 10和11。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Labelcamp conecta la gestión\nde sellos con Claude y ChatGPT",
-          "body": "Labelcamp, de Idol, permite a sus clientes gestionar catálogos y datos desde Claude o ChatGPT.",
-          "mini_headline": "Labelcamp se conecta a Claude y ChatGPT",
+          "headline": "Sonura Flow convierte texto\nen loops dentro del DAW",
+          "body": "Sonura Flow es un plugin gratuito que genera loops, voces, one-shots y efectos a partir de texto dentro del DAW.",
+          "mini_headline": "Plugin gratuito de texto a loop",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/08/news-stories-images-4x3-2026-08-26T131412.133.png?fit=2000%2C1500&ssl=1"
+                "src": "https://musictech.com/wp-content/uploads/2026/11/Sonura-Flow-hero@2000x1500-1068x801.jpg"
               },
               {
                 "t": "p",
-                "x": "La lista de herramientas y servicios de la industria musical que exploran la AI agéntica y las conexiones con LLM sigue creciendo. Hoy hay novedades de Labelcamp, la plataforma de gestión de distribución de Idol, y de MyPart, startup de emparejamiento musical."
+                "x": "Sonura Flow es un nuevo plugin gratuito que permite a los productores generar sonidos nuevos –loops, one-shots y más– a partir de simples indicaciones de texto, sin salir siquiera de su DAW."
               },
               {
                 "t": "p",
-                "x": "El nuevo ‘AI Connector’ de Labelcamp funciona con chatbots como Claude y ChatGPT para que los clientes gestionen tareas de catálogo y de datos desde esas herramientas, mediante una interfaz conversacional."
+                "x": "Los usuarios pueden generar loops, voces, one-shots y efectos escribiendo una descripción del sonido que buscan y eligiendo una categoría como batería, bajo, melodía, pads o voces."
               },
               {
                 "t": "p",
-                "x": "“Un solo prompt puede ajustar los derechos territoriales de un lote de lanzamientos o reprogramar el despliegue de un álbum junto con sus sencillos de apoyo”, explicó Idol a modo de ejemplo. “También puede corregir los metadatos de toda una importación, añadir los IDs de artista de DSP que faltan en un catálogo o explicar por qué una plataforma rechazó una entrega.”"
+                "x": "También pueden fijar la duración del loop; el plugin genera varias variaciones para elegir antes de arrastrar el sonido preferido directamente a la línea de tiempo de la pista."
               },
               {
                 "t": "p",
-                "x": "Es la tecnología Model Context Protocol (MCP) en acción, y eso también forma parte de lo que hace MyPart, que lanza “agentes musicales de AI con MCP de uso general que combinan la comprensión musical con procesos creativos conversacionales y automatizados… diseñados para interpretar música, letras, ritmo visual, transiciones de escena, contexto de la audiencia y preferencias del usuario para apoyar la búsqueda musical, el emparejamiento y la generación de listas de reproducción”."
+                "x": "El plan gratuito permite generar 10 loops, 20 one-shots y efectos, y hasta cuatro temas completos al día. No tiene límite de tiempo ni requiere tarjeta de pago, mientras que un plan de pago ofrece un límite de generación mayor."
+              },
+              {
+                "t": "video",
+                "yt": "hTa_ysLlG9M"
               },
               {
                 "t": "p",
-                "x": "MyPart también ha explicado cómo se usó su tecnología en el ámbito de la música adaptativa para videojuegos, mediante una alianza con Epidemic Sound y Overwolf. La integración incluyó ‘Songhunt’, una aplicación dentro del juego que elige música del catálogo de Epidemic para acompañar lo que ocurre en pantalla."
+                "x": "Todos los sonidos creados con el plan gratuito pasan al dominio público bajo una licencia CC0, lo que permite a los productores usarlos en sus propios lanzamientos sin atribución ni restricciones de licencia, algo que responde a una preocupación habitual sobre los derechos del audio generado con AI (AI-generated)."
+              },
+              {
+                "t": "p",
+                "x": "Sonura Flow se instala junto con Sonura Kit, una caja de ritmos que crea kits y patrones con el mismo enfoque de indicaciones de texto. Los productores obtienen un generador de sonidos y una herramienta para crear beats en una sola instalación."
+              },
+              {
+                "t": "p",
+                "x": "Sonura Flow es compatible con macOS 12 o posterior en Macs con Apple Silicon e Intel, y con Windows 10 y 11 de 64-bit."
               }
             ]
           }
@@ -981,137 +289,185 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Labelcamp 업무에\nClaude·ChatGPT",
-          "body": "Idol의 Labelcamp 고객은 Claude·ChatGPT로 데이터를 관리한다.",
-          "mini_headline": "Labelcamp, Claude·ChatGPT와 연동",
+          "headline": "Sonura Flow\n텍스트로 DAW 루프 생성",
+          "body": "무료 플러그인 Sonura Flow는 DAW에서 텍스트로 루프와 보컬을 만든다.",
+          "mini_headline": "텍스트로 루프 만드는 무료 플러그인",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/08/news-stories-images-4x3-2026-08-26T131412.133.png?fit=2000%2C1500&ssl=1"
+                "src": "https://musictech.com/wp-content/uploads/2026/11/Sonura-Flow-hero@2000x1500-1068x801.jpg"
               },
               {
                 "t": "p",
-                "x": "에이전트형 AI와 LLM 연결을 모색하는 음악 업계 도구와 서비스가 계속 늘고 있다. 오늘은 Idol의 유통 관리 플랫폼 Labelcamp와 음악 매칭 스타트업 MyPart에서 소식이 나왔다."
+                "x": "Sonura Flow는 프로듀서가 DAW를 떠나지 않고도 간단한 텍스트 프롬프트로 루프, 원샷 등 새로운 사운드를 만들 수 있게 해 주는 새 무료 플러그인이다."
               },
               {
                 "t": "p",
-                "x": "Labelcamp의 새 ‘AI Connector’는 Claude와 ChatGPT 같은 챗봇과 연동된다. 고객은 그 도구 안에서 대화형 인터페이스로 카탈로그와 데이터 관리 업무를 처리할 수 있다."
+                "x": "사용자가 원하는 사운드를 설명하고 드럼, 베이스, 멜로디, 패드, 보컬 같은 카테고리를 고르면 루프, 보컬, 원샷, 효과음을 생성할 수 있다."
               },
               {
                 "t": "p",
-                "x": "Idol은 예를 들어 이렇게 설명했다. “프롬프트 하나로 여러 릴리스의 지역별 권리를 한꺼번에 조정하거나, 앨범 출시 일정을 수록 싱글과 함께 다시 잡을 수 있습니다. 가져온 데이터 전체의 메타데이터를 고치거나, 카탈로그 전반에 빠진 DSP 아티스트 IDs를 추가하거나, 플랫폼이 왜 납품을 거부했는지 설명할 수도 있습니다.”"
+                "x": "원하는 루프 길이도 정할 수 있다. 플러그인이 여러 변형을 만들어 주면 마음에 드는 사운드를 골라 트랙 타임라인에 바로 끌어다 놓으면 된다."
               },
               {
                 "t": "p",
-                "x": "이것이 바로 Model Context Protocol(MCP) 기술이 실제로 쓰이는 모습이며, MyPart가 하는 일의 일부이기도 하다. MyPart는 “음악 이해를 대화형·자동화된 창작 과정과 결합한 범용 MCP AI 음악 에이전트… 음악, 가사, 시각적 리듬, 장면 전환, 청중 맥락, 사용자 선호를 해석해 음악 검색, 매칭, 플레이리스트 생성을 지원하도록 설계된” 에이전트를 내놓고 있다."
+                "x": "무료 플랜에서는 하루에 루프 10개, 원샷과 효과음 20개, 완성 트랙 최대 네 곡을 만들 수 있다. 기간 제한이 없고 결제 카드도 필요 없으며, 유료 플랜은 더 높은 생성 한도를 제공한다."
+              },
+              {
+                "t": "video",
+                "yt": "hTa_ysLlG9M"
               },
               {
                 "t": "p",
-                "x": "MyPart는 Epidemic Sound, Overwolf와의 파트너십을 통해 자사 기술이 적응형 게임 음악 분야에 어떻게 쓰였는지도 소개해 왔다. 이 통합에는 화면 속 게임플레이에 맞춰 Epidemic의 카탈로그에서 음악을 골라 주는 인게임 앱 ‘Songhunt’가 포함됐다."
+                "x": "무료 플랜으로 만든 모든 사운드는 CC0 라이선스에 따라 퍼블릭 도메인으로 공개된다. 프로듀서는 출처 표기나 라이선스 제약 없이 자신의 발매작에 쓸 수 있어, AI로 만든(AI-generated) 오디오의 권리를 둘러싼 흔한 우려를 덜어 준다."
+              },
+              {
+                "t": "p",
+                "x": "Sonura Flow는 같은 텍스트 프롬프트 방식으로 킷과 패턴을 만드는 드럼 머신 Sonura Kit와 함께 설치된다. 한 번 설치로 사운드 생성기와 비트 제작 도구를 모두 얻는 셈이다."
+              },
+              {
+                "t": "p",
+                "x": "Sonura Flow는 Apple Silicon과 Intel Macs의 macOS 12 이상, 그리고 64-bit Windows 10과 11을 지원한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Labelcampが連携\nClaude・ChatGPT",
-          "body": "IdolのLabelcampがClaudeやChatGPTでのカタログ管理に対応した。",
-          "mini_headline": "Labelcamp、Claude・ChatGPTと連携",
+          "headline": "Sonura Flow\nテキストでDAW内ループ生成",
+          "body": "無料プラグインSonura Flowは、DAW内でテキストからループやボーカルを生成する。",
+          "mini_headline": "テキストからループを作る無料プラグイン",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/08/news-stories-images-4x3-2026-08-26T131412.133.png?fit=2000%2C1500&ssl=1"
+                "src": "https://musictech.com/wp-content/uploads/2026/11/Sonura-Flow-hero@2000x1500-1068x801.jpg"
               },
               {
                 "t": "p",
-                "x": "エージェント型AIやLLMとの連携を模索する音楽業界のツールやサービスは増え続けている。今日は、IdolのディストリビューションマネジメントプラットフォームLabelcampと、音楽マッチングのスタートアップMyPartからニュースが届いた。"
+                "x": "Sonura Flowは、プロデューサーがDAWを離れることなく、シンプルなテキストプロンプトからループやワンショットなど新しいサウンドを生成できる新しい無料プラグインだ。"
               },
               {
                 "t": "p",
-                "x": "Labelcampの新しい「AI Connector」は、ClaudeやChatGPTなどのチャットボットと連携し、顧客がそれらのツール内から対話型インターフェースでカタログやデータ管理の作業を行えるようにする。"
+                "x": "ユーザーは欲しいサウンドの説明を入力し、ドラム、ベース、メロディ、パッド、ボーカルといったカテゴリーを選ぶだけで、ループ、ボーカル、ワンショット、エフェクトを生成できる。"
               },
               {
                 "t": "p",
-                "x": "Idolは例として次のように説明した。「一つのプロンプトで、複数のリリースにまたがるテリトリー権利を調整したり、アルバムの展開スケジュールをサポートシングルごと組み直したりできる。インポート全体のメタデータを修正したり、カタログ全体で欠けているDSPのアーティストIDsを追加したり、プラットフォームが納品を却下した理由を説明したりすることも可能だ」"
+                "x": "ループの長さも指定できる。プラグインが複数のバリエーションを生成するので、気に入ったサウンドを選んでトラックのタイムラインに直接ドラッグすればよい。"
               },
               {
                 "t": "p",
-                "x": "これはModel Context Protocol(MCP)技術が実際に使われている例であり、MyPartが取り組んでいることの一部でもある。同社は「音楽理解を対話型・自動化された創作プロセスと組み合わせた汎用MCP AI音楽エージェント…音楽、歌詞、視覚的リズム、シーン転換、オーディエンスの文脈、ユーザーの好みを解釈し、音楽検索、マッチング、プレイリスト生成を支援するよう設計された」エージェントをリリースしている。"
+                "x": "無料プランでは一日あたりループ10本、ワンショットとエフェクト20個、フルトラック最大四曲まで生成できる。期限はなく支払い用カードも不要で、有料プランではより多くの生成が可能だ。"
+              },
+              {
+                "t": "video",
+                "yt": "hTa_ysLlG9M"
               },
               {
                 "t": "p",
-                "x": "MyPartはまた、Epidemic SoundおよびOverwolfとの提携を通じて、自社技術がアダプティブなゲーム音楽の分野でどう使われたかについても語っている。この統合には、画面上のゲームプレイに合わせてEpidemicのカタログから音楽を選ぶゲーム内アプリ「Songhunt」が含まれていた。"
+                "x": "無料プランで作られたサウンドはすべてCC0ライセンスのもとパブリックドメインとして公開され、プロデューサーはクレジット表記やライセンス上の制約なしに自身のリリースで使える。AI生成（AI-generated）オーディオの権利をめぐるよくある懸念に応える形だ。"
+              },
+              {
+                "t": "p",
+                "x": "Sonura Flowは、同じテキストプロンプト方式でキットとパターンを作るドラムマシンSonura Kitと一緒にインストールされる。一度のインストールでサウンド生成ツールとビート制作ツールが手に入る。"
+              },
+              {
+                "t": "p",
+                "x": "Sonura Flowは、Apple SiliconおよびIntel Macs上のmacOS 12以降と、64-bit Windows 10および11に対応する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Labelcamp接入\nClaude与ChatGPT",
-          "body": "Idol的Labelcamp客户可在Claude或ChatGPT中管理目录与数据。",
-          "mini_headline": "Labelcamp接入Claude与ChatGPT",
+          "headline": "Sonura Flow\n在DAW内用文字生成循环",
+          "body": "Sonura Flow是免费插件，可在DAW内用文字提示生成循环、人声、单次采样和音效。",
+          "mini_headline": "用文字生成循环的免费插件",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/08/news-stories-images-4x3-2026-08-26T131412.133.png?fit=2000%2C1500&ssl=1"
+                "src": "https://musictech.com/wp-content/uploads/2026/11/Sonura-Flow-hero@2000x1500-1068x801.jpg"
               },
               {
                 "t": "p",
-                "x": "探索智能体AI与LLM连接的音乐行业工具和服务越来越多。今天，Idol旗下的发行管理平台Labelcamp和音乐匹配初创公司MyPart都传来了消息。"
+                "x": "Sonura Flow是一款全新的免费插件，制作人无需离开DAW，就能通过简单的文字提示生成循环、单次采样等新声音。"
               },
               {
                 "t": "p",
-                "x": "Labelcamp新推出的“AI Connector”可与Claude、ChatGPT等聊天机器人协同工作，让客户在这些工具中通过对话界面处理目录和数据管理任务。"
+                "x": "用户只需输入对所需声音的描述，并选择鼓、贝斯、旋律、铺底或人声等类别，即可生成循环、人声、单次采样和音效。"
               },
               {
                 "t": "p",
-                "x": "Idol举例解释说：“只需一条提示词，就能批量调整多张发行作品的地区版权，或连同配套单曲一起重新安排专辑发布计划。它还可以修复整批导入数据的元数据，在整个目录中补全缺失的DSP艺人IDs，或解释某个平台为何拒绝了一次交付。”"
+                "x": "用户还可以设定所需的循环长度，插件会生成多个变体供挑选，再将选中的声音直接拖进音轨时间线。"
               },
               {
                 "t": "p",
-                "x": "这正是Model Context Protocol（MCP）技术的实际应用，也是MyPart正在做的事情之一。该公司发布了“将音乐理解与对话式及自动化创作流程相结合的通用MCP AI音乐智能体……旨在解读音乐、歌词、视觉节奏、场景转换、受众语境和用户偏好，以支持音乐搜索、匹配和歌单生成”。"
+                "x": "免费方案每天可生成10段循环、20个单次采样和音效，以及最多四首完整曲目。该方案没有时间限制，也无需支付卡；付费方案则提供更高的生成额度。"
+              },
+              {
+                "t": "video",
+                "yt": "hTa_ysLlG9M"
               },
               {
                 "t": "p",
-                "x": "MyPart还介绍了其技术如何通过与Epidemic Sound和Overwolf的合作应用于自适应游戏音乐领域。这次集成涉及游戏内应用“Songhunt”，它会从Epidemic的曲库中挑选与屏幕上游戏画面相匹配的音乐。"
+                "x": "免费方案下制作的所有声音均以CC0许可证发布到公有领域，制作人可在自己的发行作品中使用，无需署名，也不受许可限制，这回应了外界对AI生成（AI-generated）音频权利的常见担忧。"
+              },
+              {
+                "t": "p",
+                "x": "Sonura Flow会与鼓机Sonura Kit一同安装，后者同样通过文字提示来构建套件和节奏型。制作人一次安装就能同时获得声音生成器和节拍制作工具。"
+              },
+              {
+                "t": "p",
+                "x": "Sonura Flow支持Apple Silicon和Intel Macs上的macOS 12及以上版本，以及64-bit Windows 10和11。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Labelcamp conecta la gestión\nde sellos con Claude y ChatGPT",
-          "body": "Labelcamp, de Idol, permite a sus clientes gestionar catálogos y datos desde Claude o ChatGPT.",
-          "mini_headline": "Labelcamp se conecta a Claude y ChatGPT",
+          "headline": "Sonura Flow convierte texto\nen loops dentro del DAW",
+          "body": "Sonura Flow es un plugin gratuito que genera loops, voces, one-shots y efectos a partir de texto dentro del DAW.",
+          "mini_headline": "Plugin gratuito de texto a loop",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/08/news-stories-images-4x3-2026-08-26T131412.133.png?fit=2000%2C1500&ssl=1"
+                "src": "https://musictech.com/wp-content/uploads/2026/11/Sonura-Flow-hero@2000x1500-1068x801.jpg"
               },
               {
                 "t": "p",
-                "x": "La lista de herramientas y servicios de la industria musical que exploran la AI agéntica y las conexiones con LLM sigue creciendo. Hoy hay novedades de Labelcamp, la plataforma de gestión de distribución de Idol, y de MyPart, startup de emparejamiento musical."
+                "x": "Sonura Flow es un nuevo plugin gratuito que permite a los productores generar sonidos nuevos –loops, one-shots y más– a partir de simples indicaciones de texto, sin salir siquiera de su DAW."
               },
               {
                 "t": "p",
-                "x": "El nuevo ‘AI Connector’ de Labelcamp funciona con chatbots como Claude y ChatGPT para que los clientes gestionen tareas de catálogo y de datos desde esas herramientas, mediante una interfaz conversacional."
+                "x": "Los usuarios pueden generar loops, voces, one-shots y efectos escribiendo una descripción del sonido que buscan y eligiendo una categoría como batería, bajo, melodía, pads o voces."
               },
               {
                 "t": "p",
-                "x": "“Un solo prompt puede ajustar los derechos territoriales de un lote de lanzamientos o reprogramar el despliegue de un álbum junto con sus sencillos de apoyo”, explicó Idol a modo de ejemplo. “También puede corregir los metadatos de toda una importación, añadir los IDs de artista de DSP que faltan en un catálogo o explicar por qué una plataforma rechazó una entrega.”"
+                "x": "También pueden fijar la duración del loop; el plugin genera varias variaciones para elegir antes de arrastrar el sonido preferido directamente a la línea de tiempo de la pista."
               },
               {
                 "t": "p",
-                "x": "Es la tecnología Model Context Protocol (MCP) en acción, y eso también forma parte de lo que hace MyPart, que lanza “agentes musicales de AI con MCP de uso general que combinan la comprensión musical con procesos creativos conversacionales y automatizados… diseñados para interpretar música, letras, ritmo visual, transiciones de escena, contexto de la audiencia y preferencias del usuario para apoyar la búsqueda musical, el emparejamiento y la generación de listas de reproducción”."
+                "x": "El plan gratuito permite generar 10 loops, 20 one-shots y efectos, y hasta cuatro temas completos al día. No tiene límite de tiempo ni requiere tarjeta de pago, mientras que un plan de pago ofrece un límite de generación mayor."
+              },
+              {
+                "t": "video",
+                "yt": "hTa_ysLlG9M"
               },
               {
                 "t": "p",
-                "x": "MyPart también ha explicado cómo se usó su tecnología en el ámbito de la música adaptativa para videojuegos, mediante una alianza con Epidemic Sound y Overwolf. La integración incluyó ‘Songhunt’, una aplicación dentro del juego que elige música del catálogo de Epidemic para acompañar lo que ocurre en pantalla."
+                "x": "Todos los sonidos creados con el plan gratuito pasan al dominio público bajo una licencia CC0, lo que permite a los productores usarlos en sus propios lanzamientos sin atribución ni restricciones de licencia, algo que responde a una preocupación habitual sobre los derechos del audio generado con AI (AI-generated)."
+              },
+              {
+                "t": "p",
+                "x": "Sonura Flow se instala junto con Sonura Kit, una caja de ritmos que crea kits y patrones con el mismo enfoque de indicaciones de texto. Los productores obtienen un generador de sonidos y una herramienta para crear beats en una sola instalación."
+              },
+              {
+                "t": "p",
+                "x": "Sonura Flow es compatible con macOS 12 o posterior en Macs con Apple Silicon e Intel, y con Windows 10 y 11 de 64-bit."
               }
             ]
           }
@@ -1119,261 +475,249 @@
       }
     },
     {
-      "id": "culturecustodian-cloned-artist",
+      "id": "stable-audio-nov-workspace",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "복제한 AI 목소리로\n음원 유통사를 시험",
-      "body": "한 매체가 AI 복제 목소리임을 밝힌 가짜 가수를 유통사들이 내주는지 살폈다.",
-      "mini_headline": "가짜 AI 가수로 유통사 시험",
+      "headline": "Stable Audio에\n작업공간·새 앱 추가",
+      "body": "Stable Audio에 작업공간과 Generate·Sampler 앱이 생겼다.",
+      "mini_headline": "Stable Audio 새 앱",
       "tool": "Music",
-      "source": "The Culture Custodian",
-      "url": "https://culturecustodian.com/distributed-cloned-ai-music-fake-nigerian-artist/",
-      "accent": "#2ec5c5",
+      "source": "Stability AI",
+      "url": "https://stability.ai/guides/whats-new-in-stable-audio-november-2026-release-notes",
+      "accent": "#0070f3",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://i0.wp.com/culturecustodian.com/wp-content/uploads/2026/11/WEB-How-We-Distributed-Cloned-AI-Music-From-a-Fake-Nigerian-Artist.jpg?fit=1024%2C1024&ssl=1"
+            "src": "https://images.squarespace-cdn.com/content/v1/6213c340453c3f502425776e/2cc42a62-5083-4c7f-a86a-77f92b11a3d7/Stable_Audio_Release_Notes_Blog_Thumbnail_16x9.png"
           },
           {
             "t": "p",
-            "x": "우리는 복제한 목소리와 AI-generated 곡으로, 이름 뒤에 실존 인물이 전혀 없는 가짜 나이지리아 아티스트를 처음부터 만들었다. 유통 플랫폼에는 우리가 한 일을 그대로 밝혔다."
-          },
-          {
-            "t": "p",
-            "x": "사내 프로듀서가 가상의 페르소나 CC Custody 이름으로 오리지널 Afrobeats 훅 GMYL을 녹음했다. 이 보컬을 Kits.ai와 ElevenLabs로 복제한 다음 Suno와 Udio에서 No Do or Die라는 곡으로 다시 만들었다. 두 번째 곡 Omo Na You는 처음부터 끝까지 복제 목소리로 불렀고, 또 다른 가짜 페르소나 KX3 이름으로 올렸다."
+            "x": "Stable Audio에 앱과 프로젝트, 사운드를 한곳에 모은 새 작업공간이 생겼다. 로그인하면 Home이 먼저 뜨고, Library에서는 Stable Audio 여러 앱에서 만든 결과물을 모두 둘러보고 정리한다."
           },
           {
             "t": "img",
-            "src": "https://i0.wp.com/culturecustodian.com/wp-content/uploads/2026/11/KITS-AI-CLONING.jpg?resize=1024%2C482&ssl=1"
+            "src": "https://images.squarespace-cdn.com/content/v1/6213c340453c3f502425776e/8480d97a-11fe-4346-b14f-13140df9b932/generate-01-overview.png",
+            "cap": "Generate"
           },
           {
             "t": "p",
-            "x": "DistroKid에서는 AI 사용 여부에 “Yes”라고 답하고 CC Custody가 AI 페르소나라고 밝혔는데도 발매가 “Hooray, your music is on its way!”까지 막힘 없이 진행됐다. 이 발매는 우리가 직접 내렸다. AI 콘텐츠를 전면 금지한다는 CD Baby는 AI 여부를 한 번도 묻지 않았고, 열흘 동안 사람이 검토한 끝에 Omo Na You를 승인했다."
+            "x": "음악과 효과음 제작은 새 Generate 앱에서 시작한다. 프롬프트를 텍스트로 넣어도 되고, 장르·스타일·악기를 뜻하는 “paints”를 믹서에 여러 개 더해 시각적으로 묘사해도 된다. Lens에서는 트리밍, 페이드 추가, 구간 교체, 테이크 연장을 할 수 있다. 편집할 때마다 새 버전이 생긴다."
           },
           {
             "t": "img",
-            "src": "https://i0.wp.com/culturecustodian.com/wp-content/uploads/2026/11/CD-BABY-SUCCESSFUL-RELEASE-1.jpg?fit=1024%2C490&ssl=1"
+            "src": "https://images.squarespace-cdn.com/content/v1/6213c340453c3f502425776e/5fc8930d-54b7-4592-b497-a23ffe634e50/sampler-02-pack.png",
+            "cap": "Sampler"
           },
           {
             "t": "p",
-            "x": "무료 유통사 Freecords는 No Do or Die를 거부했다. RouteNote에서는 업로드하고 2주가 넘도록 검토 대기열에 묶여 있었다."
+            "x": "Sampler는 짧은 샘플과 루프, 드럼 킷 세트를 만든다. “techno risers” 같은 프롬프트에서 출발해 변형을 최대 여덟 가지까지 뽑거나, 원샷 샘플 여덟 개짜리 드럼 킷 한 벌을 만든다. 스텝 시퀀서에서는 16-step 그리드로 악기 최대 여덟 개를 최대 32마디 패턴까지 프로그래밍한다."
           },
           {
             "t": "p",
-            "x": "변호사 Fawehinmi ‘Foza’ Oyinkansola의 경고는 이렇다. “그러나 유통되었다는 사실이 법적 소유권이나 권리 처리를 충분히 증명하지는 않는다. 이는 가치 사슬 전반에 잠재적 책임을 낳는다.”"
+            "x": "Labs는 실험 단계의 베타 앱을 모은 새 공간이다. 베타 멀티트랙 앱 Sessions도 이곳으로 옮겨 왔다. Full mix 모드나 편집 가능한 여덟 트랙 덱을 쓸 수 있다. 모든 기능은 상업적으로 안전한 모델이 돌리고, 결과물 소유권은 사용자에게 있다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "A cloned AI voice tests\nmusic distributors",
-          "body": "An outlet told distributors its fake Nigerian artist used a cloned AI voice, then tracked which still released it.",
-          "mini_headline": "Fake AI artist tests distributors",
+          "headline": "Stable Audio adds a workspace\nand Generate and Sampler apps",
+          "body": "Stable Audio adds a project workspace, a Generate app for full tracks and a Sampler app for sample packs.",
+          "mini_headline": "Stable Audio gets new apps",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/culturecustodian.com/wp-content/uploads/2026/11/WEB-How-We-Distributed-Cloned-AI-Music-From-a-Fake-Nigerian-Artist.jpg?fit=1024%2C1024&ssl=1"
+                "src": "https://images.squarespace-cdn.com/content/v1/6213c340453c3f502425776e/2cc42a62-5083-4c7f-a86a-77f92b11a3d7/Stable_Audio_Release_Notes_Blog_Thumbnail_16x9.png"
               },
               {
                 "t": "p",
-                "x": "We built a fake Nigerian artist from scratch — cloned voice, AI-generated song, zero real person behind the name — then told the distribution platforms exactly what we’d done."
-              },
-              {
-                "t": "p",
-                "x": "Our in-house producer recorded an original Afrobeats hook, GMYL, credited to an invented persona, CC Custody. We fed the vocal into Kits.ai and ElevenLabs to clone it, then rebuilt the song in Suno and Udio as No Do or Die. A second song, Omo Na You, was performed entirely by the cloned voice and credited to another fake persona, KX3."
+                "x": "Stable Audio has a new workspace that brings your apps, projects, and sounds together in one place. Home is where you land when you sign in; Library is where you browse and organize everything you've made across Stable Audio's apps."
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/culturecustodian.com/wp-content/uploads/2026/11/KITS-AI-CLONING.jpg?resize=1024%2C482&ssl=1"
+                "src": "https://images.squarespace-cdn.com/content/v1/6213c340453c3f502425776e/8480d97a-11fe-4346-b14f-13140df9b932/generate-01-overview.png",
+                "cap": "Generate"
               },
               {
                 "t": "p",
-                "x": "On DistroKid we answered “Yes” to AI use and acknowledged CC Custody was an AI persona, yet the release sailed through to “Hooray, your music is on its way!” We pulled it ourselves. CD Baby, whose policy bans all AI content, never asked about AI and approved Omo Na You after ten days of human review."
+                "x": "The new Generate app is where you can start making music and sound effects. Prompt with text, or describe it visually by adding different \"paints\" to a mixer representing genres, styles, and instruments. Use the Lens to trim, add fades, replace a section, or extend a take; each edit creates a new version."
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/culturecustodian.com/wp-content/uploads/2026/11/CD-BABY-SUCCESSFUL-RELEASE-1.jpg?fit=1024%2C490&ssl=1"
+                "src": "https://images.squarespace-cdn.com/content/v1/6213c340453c3f502425776e/5fc8930d-54b7-4592-b497-a23ffe634e50/sampler-02-pack.png",
+                "cap": "Sampler"
               },
               {
                 "t": "p",
-                "x": "The free distributor Freecords denied No Do or Die; RouteNote still had it in a review queue more than 2 weeks after upload."
+                "x": "Sampler makes sets of short samples, loops, or drum kits. Start with a prompt like \"techno risers\" and generate up to eight variations, or a full drum kit with eight one-shot samples. Its step sequencer programs up to eight instruments on a 16-step grid, in patterns up to 32 bars."
               },
               {
                 "t": "p",
-                "x": "Lawyer Fawehinmi ‘Foza’ Oyinkansola warned: “Distribution, however, is not sufficient proof of legal ownership or clearance. This creates potential liability across the value chain.”"
+                "x": "Labs is a new place for experimental beta apps. Sessions, the multitrack app in beta, now lives there and offers a Full mix mode or an editable eight-track deck. Everything is powered by commercially safe models, and you own your outputs."
               }
             ]
           }
         },
         "ko": {
-          "headline": "복제한 AI 목소리로\n음원 유통사를 시험",
-          "body": "한 매체가 AI 복제 목소리임을 밝힌 가짜 가수를 유통사들이 내주는지 살폈다.",
-          "mini_headline": "가짜 AI 가수로 유통사 시험",
+          "headline": "Stable Audio에\n작업공간·새 앱 추가",
+          "body": "Stable Audio에 작업공간과 Generate·Sampler 앱이 생겼다.",
+          "mini_headline": "Stable Audio 새 앱",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/culturecustodian.com/wp-content/uploads/2026/11/WEB-How-We-Distributed-Cloned-AI-Music-From-a-Fake-Nigerian-Artist.jpg?fit=1024%2C1024&ssl=1"
+                "src": "https://images.squarespace-cdn.com/content/v1/6213c340453c3f502425776e/2cc42a62-5083-4c7f-a86a-77f92b11a3d7/Stable_Audio_Release_Notes_Blog_Thumbnail_16x9.png"
               },
               {
                 "t": "p",
-                "x": "우리는 복제한 목소리와 AI-generated 곡으로, 이름 뒤에 실존 인물이 전혀 없는 가짜 나이지리아 아티스트를 처음부터 만들었다. 유통 플랫폼에는 우리가 한 일을 그대로 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "사내 프로듀서가 가상의 페르소나 CC Custody 이름으로 오리지널 Afrobeats 훅 GMYL을 녹음했다. 이 보컬을 Kits.ai와 ElevenLabs로 복제한 다음 Suno와 Udio에서 No Do or Die라는 곡으로 다시 만들었다. 두 번째 곡 Omo Na You는 처음부터 끝까지 복제 목소리로 불렀고, 또 다른 가짜 페르소나 KX3 이름으로 올렸다."
+                "x": "Stable Audio에 앱과 프로젝트, 사운드를 한곳에 모은 새 작업공간이 생겼다. 로그인하면 Home이 먼저 뜨고, Library에서는 Stable Audio 여러 앱에서 만든 결과물을 모두 둘러보고 정리한다."
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/culturecustodian.com/wp-content/uploads/2026/11/KITS-AI-CLONING.jpg?resize=1024%2C482&ssl=1"
+                "src": "https://images.squarespace-cdn.com/content/v1/6213c340453c3f502425776e/8480d97a-11fe-4346-b14f-13140df9b932/generate-01-overview.png",
+                "cap": "Generate"
               },
               {
                 "t": "p",
-                "x": "DistroKid에서는 AI 사용 여부에 “Yes”라고 답하고 CC Custody가 AI 페르소나라고 밝혔는데도 발매가 “Hooray, your music is on its way!”까지 막힘 없이 진행됐다. 이 발매는 우리가 직접 내렸다. AI 콘텐츠를 전면 금지한다는 CD Baby는 AI 여부를 한 번도 묻지 않았고, 열흘 동안 사람이 검토한 끝에 Omo Na You를 승인했다."
+                "x": "음악과 효과음 제작은 새 Generate 앱에서 시작한다. 프롬프트를 텍스트로 넣어도 되고, 장르·스타일·악기를 뜻하는 “paints”를 믹서에 여러 개 더해 시각적으로 묘사해도 된다. Lens에서는 트리밍, 페이드 추가, 구간 교체, 테이크 연장을 할 수 있다. 편집할 때마다 새 버전이 생긴다."
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/culturecustodian.com/wp-content/uploads/2026/11/CD-BABY-SUCCESSFUL-RELEASE-1.jpg?fit=1024%2C490&ssl=1"
+                "src": "https://images.squarespace-cdn.com/content/v1/6213c340453c3f502425776e/5fc8930d-54b7-4592-b497-a23ffe634e50/sampler-02-pack.png",
+                "cap": "Sampler"
               },
               {
                 "t": "p",
-                "x": "무료 유통사 Freecords는 No Do or Die를 거부했다. RouteNote에서는 업로드하고 2주가 넘도록 검토 대기열에 묶여 있었다."
+                "x": "Sampler는 짧은 샘플과 루프, 드럼 킷 세트를 만든다. “techno risers” 같은 프롬프트에서 출발해 변형을 최대 여덟 가지까지 뽑거나, 원샷 샘플 여덟 개짜리 드럼 킷 한 벌을 만든다. 스텝 시퀀서에서는 16-step 그리드로 악기 최대 여덟 개를 최대 32마디 패턴까지 프로그래밍한다."
               },
               {
                 "t": "p",
-                "x": "변호사 Fawehinmi ‘Foza’ Oyinkansola의 경고는 이렇다. “그러나 유통되었다는 사실이 법적 소유권이나 권리 처리를 충분히 증명하지는 않는다. 이는 가치 사슬 전반에 잠재적 책임을 낳는다.”"
+                "x": "Labs는 실험 단계의 베타 앱을 모은 새 공간이다. 베타 멀티트랙 앱 Sessions도 이곳으로 옮겨 왔다. Full mix 모드나 편집 가능한 여덟 트랙 덱을 쓸 수 있다. 모든 기능은 상업적으로 안전한 모델이 돌리고, 결과물 소유권은 사용자에게 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "クローンAI音声で\n音楽配信業者を試す",
-          "body": "ある媒体が偽のナイジェリア人歌手のAIクローン音声を申告し、どの配信業者が通すかを調べた。",
-          "mini_headline": "偽AIアーティストで配信業者を検証",
+          "headline": "Stable Audioに\nワークスペースと新アプリ",
+          "body": "Stable Audioが作業空間とGenerate・Samplerアプリを追加した。",
+          "mini_headline": "Stable Audioに新アプリ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/culturecustodian.com/wp-content/uploads/2026/11/WEB-How-We-Distributed-Cloned-AI-Music-From-a-Fake-Nigerian-Artist.jpg?fit=1024%2C1024&ssl=1"
+                "src": "https://images.squarespace-cdn.com/content/v1/6213c340453c3f502425776e/2cc42a62-5083-4c7f-a86a-77f92b11a3d7/Stable_Audio_Release_Notes_Blog_Thumbnail_16x9.png"
               },
               {
                 "t": "p",
-                "x": "私たちは、クローン音声、AI-generatedの楽曲、名前の裏に実在の人物はゼロという偽のナイジェリア人アーティストを一から作り上げ、そのうえで配信プラットフォームに自分たちが何をしたかを正確に伝えた。"
-              },
-              {
-                "t": "p",
-                "x": "社内プロデューサーが、架空のペルソナCC Custody名義でオリジナルのAfrobeatsのフック「GMYL」を録音した。そのボーカルをKits.aiとElevenLabsに読み込ませてクローンし、SunoとUdioで曲を「No Do or Die」として作り直した。二曲目の「Omo Na You」は全編をクローン音声が歌い、別の偽ペルソナKX3名義とした。"
+                "x": "Stable Audioに、アプリ、プロジェクト、サウンドを一か所にまとめる新しいワークスペースが加わった。サインインすると最初に表示されるのがHome、Stable Audioの各アプリで作ったものすべてを閲覧・整理できるのがLibraryだ。"
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/culturecustodian.com/wp-content/uploads/2026/11/KITS-AI-CLONING.jpg?resize=1024%2C482&ssl=1"
+                "src": "https://images.squarespace-cdn.com/content/v1/6213c340453c3f502425776e/8480d97a-11fe-4346-b14f-13140df9b932/generate-01-overview.png",
+                "cap": "Generate"
               },
               {
                 "t": "p",
-                "x": "DistroKidではAI使用の有無に「Yes」と答え、CC CustodyがAIペルソナであることも認めたが、リリースはすんなり「Hooray, your music is on its way!」まで進んだ。これは私たち自身で取り下げた。あらゆるAIコンテンツを禁止する方針のCD Babyは、AIについて一度も尋ねず、十日間の人による審査を経て「Omo Na You」を承認した。"
+                "x": "新しいGenerateアプリでは、音楽や効果音の制作を始められる。テキストでプロンプトを入力するか、ジャンル、スタイル、楽器を表すミキサーにさまざまな「paints」を加えて視覚的に表現することもできる。Lensを使えば、トリミング、フェードの追加、セクションの差し替え、テイクの延長が可能で、編集のたびに新しいバージョンが作られる。"
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/culturecustodian.com/wp-content/uploads/2026/11/CD-BABY-SUCCESSFUL-RELEASE-1.jpg?fit=1024%2C490&ssl=1"
+                "src": "https://images.squarespace-cdn.com/content/v1/6213c340453c3f502425776e/5fc8930d-54b7-4592-b497-a23ffe634e50/sampler-02-pack.png",
+                "cap": "Sampler"
               },
               {
                 "t": "p",
-                "x": "無料ディストリビューターのFreecordsは「No Do or Die」を却下し、RouteNoteではアップロードから2週間以上たっても審査待ちのままだった。"
+                "x": "Samplerは短いサンプル、ループ、ドラムキットのセットを作る。「techno risers」のようなプロンプトから最大八つのバリエーションを生成したり、八つのワンショットサンプルからなるドラムキット一式を生成したりできる。ステップシーケンサーでは、16-stepのグリッド上で最大八つの楽器を、最大32小節のパターンでプログラムできる。"
               },
               {
                 "t": "p",
-                "x": "弁護士のFawehinmi ‘Foza’ Oyinkansolaは「ただし、配信されたことは法的な所有権や権利処理の十分な証明にはならない。これはバリューチェーン全体に潜在的な責任を生む」と警告した。"
+                "x": "Labsは実験的なベータアプリのための新しい場所だ。ベータ版のマルチトラックアプリSessionsは現在ここに移り、Full mixモードか、編集可能な八トラックのデッキを使える。すべて商用利用に安全なモデルで動いており、生成物はユーザーが所有する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "用克隆AI人声\n试探音乐发行商",
-          "body": "一家媒体告知发行商其虚构的尼日利亚歌手使用克隆AI人声，再追踪哪些仍予发行。",
-          "mini_headline": "虚构AI艺人试探发行商",
+          "headline": "Stable Audio新增\n工作区与新应用",
+          "body": "Stable Audio新增项目工作区以及Generate与Sampler应用。",
+          "mini_headline": "Stable Audio推出新应用",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/culturecustodian.com/wp-content/uploads/2026/11/WEB-How-We-Distributed-Cloned-AI-Music-From-a-Fake-Nigerian-Artist.jpg?fit=1024%2C1024&ssl=1"
+                "src": "https://images.squarespace-cdn.com/content/v1/6213c340453c3f502425776e/2cc42a62-5083-4c7f-a86a-77f92b11a3d7/Stable_Audio_Release_Notes_Blog_Thumbnail_16x9.png"
               },
               {
                 "t": "p",
-                "x": "我们从零打造了一位虚构的尼日利亚艺人——克隆的声音、AI-generated歌曲，名字背后没有任何真人——然后把我们的所作所为如实告诉了各发行平台。"
-              },
-              {
-                "t": "p",
-                "x": "我们的内部制作人录制了一段原创Afrobeats副歌GMYL，署名为虚构身份CC Custody。我们把这段人声输入Kits.ai和ElevenLabs进行克隆，再用Suno和Udio将歌曲重制为No Do or Die。第二首歌Omo Na You完全由克隆声音演唱，署名为另一个虚构身份KX3。"
+                "x": "Stable Audio推出了新的工作区，把应用、项目和声音集中到一处。登录后首先进入Home；在Library中可以浏览和整理在Stable Audio各个应用中创作的全部内容。"
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/culturecustodian.com/wp-content/uploads/2026/11/KITS-AI-CLONING.jpg?resize=1024%2C482&ssl=1"
+                "src": "https://images.squarespace-cdn.com/content/v1/6213c340453c3f502425776e/8480d97a-11fe-4346-b14f-13140df9b932/generate-01-overview.png",
+                "cap": "Generate"
               },
               {
                 "t": "p",
-                "x": "在DistroKid上，我们对是否使用AI回答了“Yes”，并承认CC Custody是AI身份，但发行仍一路顺利走到“Hooray, your music is on its way!”。我们自己撤下了它。CD Baby的政策禁止一切AI内容，却从未询问AI相关问题，并在经过十天人工审核后批准了Omo Na You。"
+                "x": "新的Generate应用是开始制作音乐和音效的地方。可以用文字输入提示，也可以在代表流派、风格和乐器的混音器中加入不同的“paints”，以可视化方式进行描述。使用Lens可以修剪、添加淡入淡出、替换片段或延长一段录音；每次编辑都会生成一个新版本。"
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/culturecustodian.com/wp-content/uploads/2026/11/CD-BABY-SUCCESSFUL-RELEASE-1.jpg?fit=1024%2C490&ssl=1"
+                "src": "https://images.squarespace-cdn.com/content/v1/6213c340453c3f502425776e/5fc8930d-54b7-4592-b497-a23ffe634e50/sampler-02-pack.png",
+                "cap": "Sampler"
               },
               {
                 "t": "p",
-                "x": "免费发行商Freecords拒绝了No Do or Die；RouteNote在上传2周多之后仍将其留在审核队列中。"
+                "x": "Sampler用于制作成套的短采样、循环或鼓组。从“techno risers”这样的提示开始，最多可生成八个变体，或生成一套包含八个单次采样的完整鼓组。其步进音序器可在16-step网格上为最多八种乐器编程，模式长度最多32小节。"
               },
               {
                 "t": "p",
-                "x": "律师Fawehinmi ‘Foza’ Oyinkansola警告称：“然而，发行并不足以证明合法所有权或权利清算。这会在整个价值链上带来潜在责任。”"
+                "x": "Labs是面向实验性测试版应用的新空间。处于测试阶段的多轨应用Sessions现已移至此处，提供Full mix模式或可编辑的八轨音轨台。所有功能均由商业上安全的模型驱动，生成内容归用户所有。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Una voz clonada con AI\npone a prueba a distribuidoras",
-          "body": "Un medio avisó a las distribuidoras de que su falso artista usaba una voz clonada con AI y vio quién lo publicaba.",
-          "mini_headline": "Un falso artista de AI pone a prueba a las distribuidoras",
+          "headline": "Stable Audio estrena espacio\ny apps Generate y Sampler",
+          "body": "Stable Audio añade un espacio de proyectos, la app Generate para temas completos y Sampler para packs de muestras.",
+          "mini_headline": "Nuevas apps en Stable Audio",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/culturecustodian.com/wp-content/uploads/2026/11/WEB-How-We-Distributed-Cloned-AI-Music-From-a-Fake-Nigerian-Artist.jpg?fit=1024%2C1024&ssl=1"
+                "src": "https://images.squarespace-cdn.com/content/v1/6213c340453c3f502425776e/2cc42a62-5083-4c7f-a86a-77f92b11a3d7/Stable_Audio_Release_Notes_Blog_Thumbnail_16x9.png"
               },
               {
                 "t": "p",
-                "x": "Creamos desde cero un falso artista nigeriano —voz clonada, canción AI-generated, cero personas reales detrás del nombre— y luego contamos a las plataformas de distribución exactamente lo que habíamos hecho."
-              },
-              {
-                "t": "p",
-                "x": "Nuestro productor interno grabó un hook original de Afrobeats, GMYL, atribuido a un personaje inventado, CC Custody. Pasamos la voz por Kits.ai y ElevenLabs para clonarla y luego rehicimos la canción en Suno y Udio como No Do or Die. Una segunda canción, Omo Na You, fue interpretada íntegramente por la voz clonada y atribuida a otro personaje falso, KX3."
+                "x": "Stable Audio tiene un nuevo espacio de trabajo que reúne tus apps, proyectos y sonidos en un solo lugar. Home es donde llegas al iniciar sesión; Library es donde exploras y organizas todo lo que has creado en las apps de Stable Audio."
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/culturecustodian.com/wp-content/uploads/2026/11/KITS-AI-CLONING.jpg?resize=1024%2C482&ssl=1"
+                "src": "https://images.squarespace-cdn.com/content/v1/6213c340453c3f502425776e/8480d97a-11fe-4346-b14f-13140df9b932/generate-01-overview.png",
+                "cap": "Generate"
               },
               {
                 "t": "p",
-                "x": "En DistroKid respondimos “Yes” sobre el uso de AI y reconocimos que CC Custody era un personaje de AI; aun así, el lanzamiento pasó sin problemas hasta el “Hooray, your music is on its way!”. Lo retiramos nosotros mismos. CD Baby, cuya política prohíbe todo contenido de AI, nunca preguntó por la AI y aprobó Omo Na You tras diez días de revisión humana."
+                "x": "La nueva app Generate es el punto de partida para crear música y efectos de sonido. Puedes dar indicaciones con texto o describir el sonido de forma visual añadiendo distintas “paints” a un mezclador que representa géneros, estilos e instrumentos. Con Lens puedes recortar, añadir fundidos, sustituir una sección o alargar una toma; cada edición crea una nueva versión."
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/culturecustodian.com/wp-content/uploads/2026/11/CD-BABY-SUCCESSFUL-RELEASE-1.jpg?fit=1024%2C490&ssl=1"
+                "src": "https://images.squarespace-cdn.com/content/v1/6213c340453c3f502425776e/5fc8930d-54b7-4592-b497-a23ffe634e50/sampler-02-pack.png",
+                "cap": "Sampler"
               },
               {
                 "t": "p",
-                "x": "La distribuidora gratuita Freecords rechazó No Do or Die; RouteNote aún la tenía en cola de revisión más de 2 semanas después de subirla."
+                "x": "Sampler crea conjuntos de samples cortos, loops o kits de batería. Se parte de una indicación como “techno risers” y se generan hasta ocho variaciones, o un kit de batería completo con ocho samples one-shot. Su secuenciador por pasos programa hasta ocho instrumentos en una cuadrícula 16-step, en patrones de hasta 32 compases."
               },
               {
                 "t": "p",
-                "x": "Fawehinmi ‘Foza’ Oyinkansola, jurista, advirtió: “Sin embargo, la distribución no es prueba suficiente de titularidad legal ni de autorización de derechos. Esto genera una posible responsabilidad a lo largo de toda la cadena de valor.”"
+                "x": "Labs es un nuevo espacio para apps experimentales en beta. Sessions, la app multipista en beta, se encuentra ahora allí y ofrece un modo Full mix o una mesa editable de ocho pistas. Todo funciona con modelos comercialmente seguros, y los resultados son tuyos."
               }
             ]
           }
@@ -1381,169 +725,161 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "복제한 AI 목소리로\n음원 유통사를 시험",
-          "body": "한 매체가 AI 복제 목소리임을 밝힌 가짜 가수를 유통사들이 내주는지 살폈다.",
-          "mini_headline": "가짜 AI 가수로 유통사 시험",
+          "headline": "Stable Audio,\n작업공간과 새 앱 추가",
+          "body": "Stable Audio가 작업공간과 Generate·Sampler 앱을 추가했다.",
+          "mini_headline": "Stable Audio 새 앱",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/culturecustodian.com/wp-content/uploads/2026/11/WEB-How-We-Distributed-Cloned-AI-Music-From-a-Fake-Nigerian-Artist.jpg?fit=1024%2C1024&ssl=1"
+                "src": "https://images.squarespace-cdn.com/content/v1/6213c340453c3f502425776e/2cc42a62-5083-4c7f-a86a-77f92b11a3d7/Stable_Audio_Release_Notes_Blog_Thumbnail_16x9.png"
               },
               {
                 "t": "p",
-                "x": "우리는 복제한 목소리, AI-generated 곡, 이름 뒤에 실존 인물은 전혀 없는 가짜 나이지리아 아티스트를 처음부터 만들었다. 그리고 유통 플랫폼에 우리가 한 일을 그대로 알렸다."
-              },
-              {
-                "t": "p",
-                "x": "사내 프로듀서가 가상의 페르소나 CC Custody 명의로 오리지널 Afrobeats 훅 GMYL을 녹음했다. 우리는 이 보컬을 Kits.ai와 ElevenLabs에 넣어 복제한 뒤, Suno와 Udio에서 곡을 No Do or Die로 다시 만들었다. 두 번째 곡 Omo Na You는 전부 복제 목소리로 불렀고, 또 다른 가짜 페르소나 KX3 명의로 올렸다."
+                "x": "Stable Audio에 앱과 프로젝트, 사운드를 한곳에 모은 새 작업공간이 생겼다. 로그인하면 Home이 먼저 나오고, Library에서는 Stable Audio의 여러 앱에서 만든 모든 것을 둘러보고 정리할 수 있다."
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/culturecustodian.com/wp-content/uploads/2026/11/KITS-AI-CLONING.jpg?resize=1024%2C482&ssl=1"
+                "src": "https://images.squarespace-cdn.com/content/v1/6213c340453c3f502425776e/8480d97a-11fe-4346-b14f-13140df9b932/generate-01-overview.png",
+                "cap": "Generate"
               },
               {
                 "t": "p",
-                "x": "DistroKid에서는 AI 사용 여부에 “Yes”라고 답하고 CC Custody가 AI 페르소나라고 밝혔지만, 발매는 “Hooray, your music is on its way!”까지 순조롭게 통과했다. 이 발매는 우리가 직접 내렸다. 모든 AI 콘텐츠를 금지하는 정책을 둔 CD Baby는 AI에 대해 한 번도 묻지 않았고, 열흘간의 사람 검토 끝에 Omo Na You를 승인했다."
+                "x": "새 Generate 앱에서 음악과 효과음 제작을 시작할 수 있다. 텍스트로 프롬프트를 넣거나, 장르·스타일·악기를 나타내는 믹서에 여러 “paints”를 더해 시각적으로 묘사할 수도 있다. Lens로 트리밍, 페이드 추가, 구간 교체, 테이크 연장을 할 수 있고, 편집할 때마다 새 버전이 만들어진다."
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/culturecustodian.com/wp-content/uploads/2026/11/CD-BABY-SUCCESSFUL-RELEASE-1.jpg?fit=1024%2C490&ssl=1"
+                "src": "https://images.squarespace-cdn.com/content/v1/6213c340453c3f502425776e/5fc8930d-54b7-4592-b497-a23ffe634e50/sampler-02-pack.png",
+                "cap": "Sampler"
               },
               {
                 "t": "p",
-                "x": "무료 유통사 Freecords는 No Do or Die를 거부했고, RouteNote에서는 업로드 후 2주가 넘도록 검토 대기열에 머물러 있었다."
+                "x": "Sampler는 짧은 샘플, 루프, 드럼 킷 세트를 만든다. “techno risers” 같은 프롬프트로 시작해 최대 여덟 가지 변형을 만들거나, 원샷 샘플 여덟 개로 된 드럼 킷 한 벌을 만들 수 있다. 스텝 시퀀서로는 16-step 그리드에서 최대 여덟 개 악기를 최대 32마디 패턴으로 프로그래밍할 수 있다."
               },
               {
                 "t": "p",
-                "x": "변호사 Fawehinmi ‘Foza’ Oyinkansola는 이렇게 경고했다. “그러나 유통되었다는 사실이 법적 소유권이나 권리 처리를 충분히 증명하지는 않는다. 이는 가치 사슬 전반에 잠재적 책임을 낳는다.”"
+                "x": "Labs는 실험적인 베타 앱을 위한 새 공간이다. 베타 중인 멀티트랙 앱 Sessions가 이제 이곳으로 옮겨 왔으며, Full mix 모드나 편집 가능한 여덟 트랙 덱을 제공한다. 모든 기능은 상업적으로 안전한 모델로 구동되며, 결과물의 소유권은 사용자에게 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "クローンAI音声で\n音楽配信業者を試す",
-          "body": "ある媒体が偽のナイジェリア人歌手のAIクローン音声を申告し、どの配信業者が通すかを調べた。",
-          "mini_headline": "偽AIアーティストで配信業者を検証",
+          "headline": "Stable Audioに\nワークスペースと新アプリ",
+          "body": "Stable Audioが作業空間とGenerate・Samplerアプリを追加した。",
+          "mini_headline": "Stable Audioに新アプリ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/culturecustodian.com/wp-content/uploads/2026/11/WEB-How-We-Distributed-Cloned-AI-Music-From-a-Fake-Nigerian-Artist.jpg?fit=1024%2C1024&ssl=1"
+                "src": "https://images.squarespace-cdn.com/content/v1/6213c340453c3f502425776e/2cc42a62-5083-4c7f-a86a-77f92b11a3d7/Stable_Audio_Release_Notes_Blog_Thumbnail_16x9.png"
               },
               {
                 "t": "p",
-                "x": "私たちは、クローン音声、AI-generatedの楽曲、名前の裏に実在の人物はゼロという偽のナイジェリア人アーティストを一から作り上げ、そのうえで配信プラットフォームに自分たちが何をしたかを正確に伝えた。"
-              },
-              {
-                "t": "p",
-                "x": "社内プロデューサーが、架空のペルソナCC Custody名義でオリジナルのAfrobeatsのフック「GMYL」を録音した。そのボーカルをKits.aiとElevenLabsに読み込ませてクローンし、SunoとUdioで曲を「No Do or Die」として作り直した。二曲目の「Omo Na You」は全編をクローン音声が歌い、別の偽ペルソナKX3名義とした。"
+                "x": "Stable Audioに、アプリ、プロジェクト、サウンドを一か所にまとめる新しいワークスペースが加わった。サインインすると最初に表示されるのがHome、Stable Audioの各アプリで作ったものすべてを閲覧・整理できるのがLibraryだ。"
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/culturecustodian.com/wp-content/uploads/2026/11/KITS-AI-CLONING.jpg?resize=1024%2C482&ssl=1"
+                "src": "https://images.squarespace-cdn.com/content/v1/6213c340453c3f502425776e/8480d97a-11fe-4346-b14f-13140df9b932/generate-01-overview.png",
+                "cap": "Generate"
               },
               {
                 "t": "p",
-                "x": "DistroKidではAI使用の有無に「Yes」と答え、CC CustodyがAIペルソナであることも認めたが、リリースはすんなり「Hooray, your music is on its way!」まで進んだ。これは私たち自身で取り下げた。あらゆるAIコンテンツを禁止する方針のCD Babyは、AIについて一度も尋ねず、十日間の人による審査を経て「Omo Na You」を承認した。"
+                "x": "新しいGenerateアプリでは、音楽や効果音の制作を始められる。テキストでプロンプトを入力するか、ジャンル、スタイル、楽器を表すミキサーにさまざまな「paints」を加えて視覚的に表現することもできる。Lensを使えば、トリミング、フェードの追加、セクションの差し替え、テイクの延長が可能で、編集のたびに新しいバージョンが作られる。"
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/culturecustodian.com/wp-content/uploads/2026/11/CD-BABY-SUCCESSFUL-RELEASE-1.jpg?fit=1024%2C490&ssl=1"
+                "src": "https://images.squarespace-cdn.com/content/v1/6213c340453c3f502425776e/5fc8930d-54b7-4592-b497-a23ffe634e50/sampler-02-pack.png",
+                "cap": "Sampler"
               },
               {
                 "t": "p",
-                "x": "無料ディストリビューターのFreecordsは「No Do or Die」を却下し、RouteNoteではアップロードから2週間以上たっても審査待ちのままだった。"
+                "x": "Samplerは短いサンプル、ループ、ドラムキットのセットを作る。「techno risers」のようなプロンプトから最大八つのバリエーションを生成したり、八つのワンショットサンプルからなるドラムキット一式を生成したりできる。ステップシーケンサーでは、16-stepのグリッド上で最大八つの楽器を、最大32小節のパターンでプログラムできる。"
               },
               {
                 "t": "p",
-                "x": "弁護士のFawehinmi ‘Foza’ Oyinkansolaは「ただし、配信されたことは法的な所有権や権利処理の十分な証明にはならない。これはバリューチェーン全体に潜在的な責任を生む」と警告した。"
+                "x": "Labsは実験的なベータアプリのための新しい場所だ。ベータ版のマルチトラックアプリSessionsは現在ここに移り、Full mixモードか、編集可能な八トラックのデッキを使える。すべて商用利用に安全なモデルで動いており、生成物はユーザーが所有する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "用克隆AI人声\n试探音乐发行商",
-          "body": "一家媒体告知发行商其虚构的尼日利亚歌手使用克隆AI人声，再追踪哪些仍予发行。",
-          "mini_headline": "虚构AI艺人试探发行商",
+          "headline": "Stable Audio新增\n工作区与新应用",
+          "body": "Stable Audio新增项目工作区以及Generate与Sampler应用。",
+          "mini_headline": "Stable Audio推出新应用",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/culturecustodian.com/wp-content/uploads/2026/11/WEB-How-We-Distributed-Cloned-AI-Music-From-a-Fake-Nigerian-Artist.jpg?fit=1024%2C1024&ssl=1"
+                "src": "https://images.squarespace-cdn.com/content/v1/6213c340453c3f502425776e/2cc42a62-5083-4c7f-a86a-77f92b11a3d7/Stable_Audio_Release_Notes_Blog_Thumbnail_16x9.png"
               },
               {
                 "t": "p",
-                "x": "我们从零打造了一位虚构的尼日利亚艺人——克隆的声音、AI-generated歌曲，名字背后没有任何真人——然后把我们的所作所为如实告诉了各发行平台。"
-              },
-              {
-                "t": "p",
-                "x": "我们的内部制作人录制了一段原创Afrobeats副歌GMYL，署名为虚构身份CC Custody。我们把这段人声输入Kits.ai和ElevenLabs进行克隆，再用Suno和Udio将歌曲重制为No Do or Die。第二首歌Omo Na You完全由克隆声音演唱，署名为另一个虚构身份KX3。"
+                "x": "Stable Audio推出了新的工作区，把应用、项目和声音集中到一处。登录后首先进入Home；在Library中可以浏览和整理在Stable Audio各个应用中创作的全部内容。"
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/culturecustodian.com/wp-content/uploads/2026/11/KITS-AI-CLONING.jpg?resize=1024%2C482&ssl=1"
+                "src": "https://images.squarespace-cdn.com/content/v1/6213c340453c3f502425776e/8480d97a-11fe-4346-b14f-13140df9b932/generate-01-overview.png",
+                "cap": "Generate"
               },
               {
                 "t": "p",
-                "x": "在DistroKid上，我们对是否使用AI回答了“Yes”，并承认CC Custody是AI身份，但发行仍一路顺利走到“Hooray, your music is on its way!”。我们自己撤下了它。CD Baby的政策禁止一切AI内容，却从未询问AI相关问题，并在经过十天人工审核后批准了Omo Na You。"
+                "x": "新的Generate应用是开始制作音乐和音效的地方。可以用文字输入提示，也可以在代表流派、风格和乐器的混音器中加入不同的“paints”，以可视化方式进行描述。使用Lens可以修剪、添加淡入淡出、替换片段或延长一段录音；每次编辑都会生成一个新版本。"
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/culturecustodian.com/wp-content/uploads/2026/11/CD-BABY-SUCCESSFUL-RELEASE-1.jpg?fit=1024%2C490&ssl=1"
+                "src": "https://images.squarespace-cdn.com/content/v1/6213c340453c3f502425776e/5fc8930d-54b7-4592-b497-a23ffe634e50/sampler-02-pack.png",
+                "cap": "Sampler"
               },
               {
                 "t": "p",
-                "x": "免费发行商Freecords拒绝了No Do or Die；RouteNote在上传2周多之后仍将其留在审核队列中。"
+                "x": "Sampler用于制作成套的短采样、循环或鼓组。从“techno risers”这样的提示开始，最多可生成八个变体，或生成一套包含八个单次采样的完整鼓组。其步进音序器可在16-step网格上为最多八种乐器编程，模式长度最多32小节。"
               },
               {
                 "t": "p",
-                "x": "律师Fawehinmi ‘Foza’ Oyinkansola警告称：“然而，发行并不足以证明合法所有权或权利清算。这会在整个价值链上带来潜在责任。”"
+                "x": "Labs是面向实验性测试版应用的新空间。处于测试阶段的多轨应用Sessions现已移至此处，提供Full mix模式或可编辑的八轨音轨台。所有功能均由商业上安全的模型驱动，生成内容归用户所有。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Una voz clonada con AI\npone a prueba a distribuidoras",
-          "body": "Un medio avisó a las distribuidoras de que su falso artista usaba una voz clonada con AI y vio quién lo publicaba.",
-          "mini_headline": "Un falso artista de AI pone a prueba a las distribuidoras",
+          "headline": "Stable Audio estrena espacio\ny apps Generate y Sampler",
+          "body": "Stable Audio añade un espacio de proyectos, la app Generate para temas completos y Sampler para packs de muestras.",
+          "mini_headline": "Nuevas apps en Stable Audio",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/culturecustodian.com/wp-content/uploads/2026/11/WEB-How-We-Distributed-Cloned-AI-Music-From-a-Fake-Nigerian-Artist.jpg?fit=1024%2C1024&ssl=1"
+                "src": "https://images.squarespace-cdn.com/content/v1/6213c340453c3f502425776e/2cc42a62-5083-4c7f-a86a-77f92b11a3d7/Stable_Audio_Release_Notes_Blog_Thumbnail_16x9.png"
               },
               {
                 "t": "p",
-                "x": "Creamos desde cero un falso artista nigeriano —voz clonada, canción AI-generated, cero personas reales detrás del nombre— y luego contamos a las plataformas de distribución exactamente lo que habíamos hecho."
-              },
-              {
-                "t": "p",
-                "x": "Nuestro productor interno grabó un hook original de Afrobeats, GMYL, atribuido a un personaje inventado, CC Custody. Pasamos la voz por Kits.ai y ElevenLabs para clonarla y luego rehicimos la canción en Suno y Udio como No Do or Die. Una segunda canción, Omo Na You, fue interpretada íntegramente por la voz clonada y atribuida a otro personaje falso, KX3."
+                "x": "Stable Audio tiene un nuevo espacio de trabajo que reúne tus apps, proyectos y sonidos en un solo lugar. Home es donde llegas al iniciar sesión; Library es donde exploras y organizas todo lo que has creado en las apps de Stable Audio."
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/culturecustodian.com/wp-content/uploads/2026/11/KITS-AI-CLONING.jpg?resize=1024%2C482&ssl=1"
+                "src": "https://images.squarespace-cdn.com/content/v1/6213c340453c3f502425776e/8480d97a-11fe-4346-b14f-13140df9b932/generate-01-overview.png",
+                "cap": "Generate"
               },
               {
                 "t": "p",
-                "x": "En DistroKid respondimos “Yes” sobre el uso de AI y reconocimos que CC Custody era un personaje de AI; aun así, el lanzamiento pasó sin problemas hasta el “Hooray, your music is on its way!”. Lo retiramos nosotros mismos. CD Baby, cuya política prohíbe todo contenido de AI, nunca preguntó por la AI y aprobó Omo Na You tras diez días de revisión humana."
+                "x": "La nueva app Generate es el punto de partida para crear música y efectos de sonido. Puedes dar indicaciones con texto o describir el sonido de forma visual añadiendo distintas “paints” a un mezclador que representa géneros, estilos e instrumentos. Con Lens puedes recortar, añadir fundidos, sustituir una sección o alargar una toma; cada edición crea una nueva versión."
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/culturecustodian.com/wp-content/uploads/2026/11/CD-BABY-SUCCESSFUL-RELEASE-1.jpg?fit=1024%2C490&ssl=1"
+                "src": "https://images.squarespace-cdn.com/content/v1/6213c340453c3f502425776e/5fc8930d-54b7-4592-b497-a23ffe634e50/sampler-02-pack.png",
+                "cap": "Sampler"
               },
               {
                 "t": "p",
-                "x": "La distribuidora gratuita Freecords rechazó No Do or Die; RouteNote aún la tenía en cola de revisión más de 2 semanas después de subirla."
+                "x": "Sampler crea conjuntos de samples cortos, loops o kits de batería. Se parte de una indicación como “techno risers” y se generan hasta ocho variaciones, o un kit de batería completo con ocho samples one-shot. Su secuenciador por pasos programa hasta ocho instrumentos en una cuadrícula 16-step, en patrones de hasta 32 compases."
               },
               {
                 "t": "p",
-                "x": "Fawehinmi ‘Foza’ Oyinkansola, jurista, advirtió: “Sin embargo, la distribución no es prueba suficiente de titularidad legal ni de autorización de derechos. Esto genera una posible responsabilidad a lo largo de toda la cadena de valor.”"
+                "x": "Labs es un nuevo espacio para apps experimentales en beta. Sessions, la app multipista en beta, se encuentra ahora allí y ofrece un modo Full mix o una mesa editable de ocho pistas. Todo funciona con modelos comercialmente seguros, y los resultados son tuyos."
               }
             ]
           }
@@ -1551,15 +887,15 @@
       }
     },
     {
-      "id": "nvidia-suno-subpoena-quash",
+      "id": "elevenlabs-voice-restoration-music",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Nvidia, 소환장 취소\nUMG v. Suno 소송",
-      "body": "Nvidia는 문서 6,300건 이상을 냈다며 Suno 소송 소환장 취소를 구했다.",
-      "mini_headline": "Nvidia, Suno 소송 소환장에 맞서",
+      "headline": "ElevenLabs 음악\n목소리 잃은 이에 무료로",
+      "body": "ElevenLabs, NYC서 목소리 잃은 이에 ElevenMusic 무료로 연다.",
+      "mini_headline": "목소리 잃은 이에 무료 ElevenMusic",
       "tool": "Music",
-      "source": "Digital Music News",
-      "url": "https://www.digitalmusicnews.com/2026/11/11/nvidia-suno-umg-subpoena-quash-motion/",
+      "source": "ElevenLabs",
+      "url": "https://elevenlabs.io/blog/impact-nyc-summit",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
@@ -1567,179 +903,437 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/Nvidia-Office-1024x546.jpg",
-            "cap": "Photo Credit: Amir Shtanger"
+            "src": "https://eleven-public-cdn.elevenlabs.io/payloadcms/hzu606cgpup-2304662705.webp"
           },
           {
             "t": "p",
-            "x": "Nvidia의 벤처 투자 부문 NVentures가 UMG v. Suno 소송에서 Universal Music과 Sony Music이 낸 증언 소환장을 취소해 달라며 날 선 신청서를 냈다."
+            "x": "뉴욕의 교육자 Greg Kellner는 2019년 뇌암으로 노래하는 목소리를 잃었다. 그는 옛 녹음을 토대로 ElevenMusic에서 그 목소리를 되살렸다. 뇌성마비 탓에 말하는 목소리가 한 번도 없었던 Abdi Omar는 ElevenLabs Voice Designer로 자기 목소리를 직접 디자인했고, 지금은 ElevenMusic으로 래퍼 활동을 한다."
           },
           {
             "t": "p",
-            "x": "이 소환장은 팔월에 처음 알려진 뒤 수정됐다. 대상은 Nvidia와 Suno의 “투자 전 사업 관계”와 경영진, 투자 과정에서 Suno가 넘긴 문서, 학습 데이터 실사와 침해 소송 위험, Suno가 음원 시장에 줄 수 있는 영향이다."
+            "x": "두 사람은 11월 11일 ElevenLabs New York Summit에서 ElevenMusic으로 되찾은 노래 목소리로 신곡을 공연했다. 이제 목소리를 영구히 잃은 사람은 ElevenMusic을 무료로 쓸 수 있다. 이 지원은 Songwriters of North America(SONA)와 함께 시작했고, 자격 확인은 SONA가 맡는다."
           },
           {
             "t": "p",
-            "x": "취소 신청서를 보면 “수개월에 걸친 협상과 수집, 검토 끝에 NVentures는 28,194쪽 분량의 문서 6,324건을 제출했다.” Nvidia는 “이미 상당한 자료를 제출한 투자자에게 증언을 요구하는 것은 특히 부적절하다”고 밝혔다."
+            "x": "“목소리 복원은 언제나 기본적인 필요를 채우는 일 이상이었습니다. 우리를 인간답게 만드는 모든 방식으로 진정으로 들리는 것에 관한 일입니다.” ElevenLabs 임팩트 총괄(Head of Impact) Gabi Leibowitz가 한 말이다."
           },
           {
             "t": "p",
-            "x": "Suno는 Elvis Presley Enterprises와 Eminem의 음악 출판사 Eight Mile Style이 낸 소송에도 맞서고 있다."
+            "x": "ElevenLabs는 Wounded Warrior Project를 Impact Program 파트너로 발표했고, NYU Langone Health는 1 Million Voices에 합류했다. 1 Million Voices는 ElevenLabs가 약속한 $1B 규모 현물 지원이다. 지금까지 11,000명 넘는 사람이 이 지원으로 다시 자기 목소리로 말하게 됐다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Nvidia moves to quash\nsubpoena in UMG v. Suno",
-          "body": "Nvidia seeks to quash a deposition subpoena in UMG's Suno suit, saying it has produced over 6,300 documents.",
-          "mini_headline": "Nvidia fights Suno-case subpoena",
+          "headline": "ElevenLabs offers free music\nto artists who lost their voice",
+          "body": "At its NYC Summit, ElevenLabs opened free ElevenMusic access to artists who have lost their voice.",
+          "mini_headline": "Free ElevenMusic for lost voices",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/Nvidia-Office-1024x546.jpg",
-                "cap": "Photo Credit: Amir Shtanger"
+                "src": "https://eleven-public-cdn.elevenlabs.io/payloadcms/hzu606cgpup-2304662705.webp"
               },
               {
                 "t": "p",
-                "x": "Nvidia’s NVentures venture arm took aim at a deposition subpoena from Universal Music and Sony Music in UMG v. Suno in a firmly worded motion to quash."
+                "x": "Greg Kellner, a New York educator whose singing voice was taken by brain cancer in 2019, recreated it through ElevenMusic from old recordings. Abdi Omar, who never had a spoken voice because of cerebral palsy, designed his own with ElevenLabs Voice Designer and now uses ElevenMusic as a rap artist."
               },
               {
                 "t": "p",
-                "x": "The subpoena, which surfaced in August and was subsequently amended, pertains to Nvidia’s “pre-investment business relationship with Suno” and its execs; docs provided by Suno concerning the investment; training-data due diligence and infringement-litigation risks; and Suno’s potential impact on the market for sound recordings."
+                "x": "On November 11 at the ElevenLabs New York Summit, both performed new songs with their ElevenMusic singing voices. People living with permanent voice loss can now get free access to ElevenMusic, launched with Songwriters of North America (SONA), which will verify eligibility."
               },
               {
                 "t": "p",
-                "x": "“After months of negotiations, collection, and review, NVentures produced 6,324 documents comprising 28,194 pages,” per the motion to quash. “The deposition of such an investor is particularly inappropriate where the investor has already made a substantial production,” according to Nvidia."
+                "x": "“Voice restoration has always been about more than getting basic needs met. It’s about being truly heard, in all the ways that make us human,” said Gabi Leibowitz, Head of Impact at ElevenLabs."
               },
               {
                 "t": "p",
-                "x": "Suno is also grappling with lawsuits filed by Elvis Presley Enterprises and Eminem publisher Eight Mile Style."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Nvidia, 소환장 취소\nUMG v. Suno 소송",
-          "body": "Nvidia는 문서 6,300건 이상을 냈다며 Suno 소송 소환장 취소를 구했다.",
-          "mini_headline": "Nvidia, Suno 소송 소환장에 맞서",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/Nvidia-Office-1024x546.jpg",
-                "cap": "Photo Credit: Amir Shtanger"
-              },
-              {
-                "t": "p",
-                "x": "Nvidia의 벤처 투자 부문 NVentures가 UMG v. Suno 소송에서 Universal Music과 Sony Music이 낸 증언 소환장을 취소해 달라며 날 선 신청서를 냈다."
-              },
-              {
-                "t": "p",
-                "x": "이 소환장은 팔월에 처음 알려진 뒤 수정됐다. 대상은 Nvidia와 Suno의 “투자 전 사업 관계”와 경영진, 투자 과정에서 Suno가 넘긴 문서, 학습 데이터 실사와 침해 소송 위험, Suno가 음원 시장에 줄 수 있는 영향이다."
-              },
-              {
-                "t": "p",
-                "x": "취소 신청서를 보면 “수개월에 걸친 협상과 수집, 검토 끝에 NVentures는 28,194쪽 분량의 문서 6,324건을 제출했다.” Nvidia는 “이미 상당한 자료를 제출한 투자자에게 증언을 요구하는 것은 특히 부적절하다”고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "Suno는 Elvis Presley Enterprises와 Eminem의 음악 출판사 Eight Mile Style이 낸 소송에도 맞서고 있다."
+                "x": "Wounded Warrior Project was announced as an Impact Program partner, and NYU Langone Health joined 1 Million Voices — ElevenLabs’ $1 billion in-kind commitment, which has helped more than 11,000 people speak again in their own voice."
               }
             ]
           }
         },
         "ja": {
-          "headline": "UMG v. Suno訴訟\nNvidiaが召喚状に異議",
-          "body": "Nvidiaは6,300件超の文書提出を理由に、Suno訴訟の証言召喚の取消を求めた。",
-          "mini_headline": "Nvidia、Suno訴訟の召喚状に対抗",
+          "headline": "ElevenLabsが\n声を失った音楽家に無料開放",
+          "body": "ElevenLabsはNYCで声を失った人にElevenMusicを無料開放した。",
+          "mini_headline": "声を失った人にElevenMusicを無料で",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/Nvidia-Office-1024x546.jpg",
-                "cap": "Photo Credit: Amir Shtanger"
+                "src": "https://eleven-public-cdn.elevenlabs.io/payloadcms/hzu606cgpup-2304662705.webp"
               },
               {
                 "t": "p",
-                "x": "Nvidiaのベンチャー投資部門NVenturesは、UMG v. Suno訴訟でUniversal MusicとSony Musicが出した証言録取の召喚状に対し、強い文言の取消申立てを行った。"
+                "x": "ニューヨークの教育者Greg Kellnerは2019年に脳がんで歌声を失ったが、昔の録音をもとにElevenMusicでその声を再現した。脳性まひのために話す声を一度も持ったことのないAbdi Omarは、ElevenLabs Voice Designerで自分の声をデザインし、現在はElevenMusicを使ってラップアーティストとして活動している。"
               },
               {
                 "t": "p",
-                "x": "八月に表面化し、その後修正されたこの召喚状は、Nvidiaの「Sunoとの投資前の取引関係」とその幹部、投資に関してSunoが提供した文書、学習データのデューデリジェンスと権利侵害訴訟のリスク、そしてSunoが録音物市場に与えうる影響を対象としている。"
+                "x": "11月11日のElevenLabs New York Summitで、二人はElevenMusicの歌声で新曲を披露した。永久に声を失った人々は、今後ElevenMusicを無料で利用できる。この取り組みはSongwriters of North America（SONA）と共に始まり、SONAが利用資格を確認する。"
               },
               {
                 "t": "p",
-                "x": "取消申立てによれば、「数か月にわたる交渉、収集、審査を経て、NVenturesは28,194ページに及ぶ6,324件の文書を提出した」。Nvidiaは「すでに相当量の提出を行った投資家に証言録取を求めることは、とりわけ不適切だ」としている。"
+                "x": "「声の回復は、常に基本的なニーズを満たす以上の意味を持ってきました。私たちを人間たらしめるあらゆる形で、本当に耳を傾けてもらうことなのです」と、ElevenLabsのHead of ImpactであるGabi Leibowitzは語った。"
               },
               {
                 "t": "p",
-                "x": "SunoはElvis Presley Enterprisesや、Eminemの音楽出版社Eight Mile Styleが起こした訴訟にも直面している。"
+                "x": "Wounded Warrior ProjectがImpact Programのパートナーとして発表され、NYU Langone Healthが1 Million Voicesに加わった。1 Million VoicesはElevenLabsによる$1B 規模の現物支援で、これまでに11,000人以上が自分の声で再び話せるよう支えてきた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Nvidia申请撤销\nUMG v. Suno案传票",
-          "body": "Nvidia称已提交逾6,300份文件，请求撤销UMG诉Suno案中的作证传票。",
-          "mini_headline": "Nvidia对抗Suno案传票",
+          "headline": "ElevenLabs向\n失声艺术家免费开放音乐",
+          "body": "ElevenLabs在NYC Summit上向失声艺术家免费开放ElevenMusic。",
+          "mini_headline": "为失声者免费开放ElevenMusic",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/Nvidia-Office-1024x546.jpg",
-                "cap": "Photo Credit: Amir Shtanger"
+                "src": "https://eleven-public-cdn.elevenlabs.io/payloadcms/hzu606cgpup-2304662705.webp"
               },
               {
                 "t": "p",
-                "x": "Nvidia旗下风险投资部门NVentures在UMG v. Suno案中，针对Universal Music和Sony Music发出的作证传票，提交了措辞强硬的撤销动议。"
+                "x": "纽约教育工作者Greg Kellner的歌声在2019年因脑癌而失去，他借助旧录音，通过ElevenMusic重现了自己的歌声。Abdi Omar因脑瘫从未拥有过说话的声音，他用ElevenLabs Voice Designer设计了自己的声音，如今以说唱艺人的身份使用ElevenMusic。"
               },
               {
                 "t": "p",
-                "x": "这份传票于八月曝光，随后经过修改，内容涉及Nvidia“与Suno在投资前的业务关系”及其高管、Suno就该投资提供的文件、训练数据尽职调查与侵权诉讼风险，以及Suno对录音制品市场的潜在影响。"
+                "x": "11月11日，在ElevenLabs New York Summit上，两人用各自的ElevenMusic歌声演唱了新歌。永久失声的人现在可以免费使用ElevenMusic；该项目与Songwriters of North America（SONA）合作推出，并由SONA审核资格。"
               },
               {
                 "t": "p",
-                "x": "撤销动议称：“经过数月的谈判、收集和审查，NVentures已提交6,324份文件，共计28,194页。”Nvidia表示：“在投资者已大量提交材料的情况下，要求其作证尤为不妥。”"
+                "x": "“声音修复从来不只是满足基本需求，更是要在一切让我们成为人的方面，真正被听见。”ElevenLabs影响力负责人（Head of Impact）Gabi Leibowitz说。"
               },
               {
                 "t": "p",
-                "x": "Suno还面临Elvis Presley Enterprises以及Eminem的版权出版商Eight Mile Style提起的诉讼。"
+                "x": "Wounded Warrior Project被宣布成为Impact Program合作伙伴，NYU Langone Health则加入了1 Million Voices。这是ElevenLabs价值$1B 的实物捐助承诺，已帮助超过11,000人重新用自己的声音说话。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Nvidia pide anular la citación\nen el caso UMG v. Suno",
-          "body": "Nvidia pide anular una citación en la demanda de UMG contra Suno y afirma haber entregado más de 6,300 documentos.",
-          "mini_headline": "Nvidia se opone a una citación del caso Suno",
+          "headline": "ElevenLabs ofrece música gratis\na artistas que perdieron la voz",
+          "body": "En su NYC Summit, ElevenLabs abrió el acceso gratuito a ElevenMusic para artistas que han perdido la voz.",
+          "mini_headline": "ElevenMusic gratis para quien perdió la voz",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/Nvidia-Office-1024x546.jpg",
-                "cap": "Photo Credit: Amir Shtanger"
+                "src": "https://eleven-public-cdn.elevenlabs.io/payloadcms/hzu606cgpup-2304662705.webp"
               },
               {
                 "t": "p",
-                "x": "NVentures, el brazo de capital riesgo de Nvidia, arremetió contra una citación a declarar de Universal Music y Sony Music en el caso UMG v. Suno mediante una moción de anulación redactada en términos firmes."
+                "x": "Greg Kellner, un educador de Nueva York que perdió su voz para cantar por un cáncer cerebral en 2019, la recreó con ElevenMusic a partir de grabaciones antiguas. Abdi Omar, que nunca tuvo voz hablada debido a una parálisis cerebral, diseñó la suya con ElevenLabs Voice Designer y ahora usa ElevenMusic como artista de rap."
               },
               {
                 "t": "p",
-                "x": "La citación, que salió a la luz en agosto y fue modificada posteriormente, se refiere a la “relación comercial previa a la inversión con Suno” de Nvidia y a sus directivos; a los documentos aportados por Suno sobre la inversión; a la diligencia debida sobre los datos de entrenamiento y los riesgos de litigios por infracción; y al posible impacto de Suno en el mercado de grabaciones sonoras."
+                "x": "El 11 de noviembre, en el ElevenLabs New York Summit, ambos interpretaron canciones nuevas con sus voces cantadas de ElevenMusic. Las personas con pérdida permanente de la voz ya pueden acceder gratis a ElevenMusic, en una iniciativa lanzada con Songwriters of North America (SONA), que verificará la elegibilidad."
               },
               {
                 "t": "p",
-                "x": "“Tras meses de negociaciones, recopilación y revisión, NVentures entregó 6,324 documentos que suman 28,194 páginas”, según la moción de anulación. “La declaración de un inversor así es especialmente inapropiada cuando el inversor ya ha realizado una entrega sustancial”, según Nvidia."
+                "x": "“La restauración de la voz siempre ha ido más allá de cubrir necesidades básicas. Se trata de ser escuchado de verdad, en todas las formas que nos hacen humanos”, dijo Gabi Leibowitz, Head of Impact de ElevenLabs."
               },
               {
                 "t": "p",
-                "x": "Suno también enfrenta demandas presentadas por Elvis Presley Enterprises y por Eight Mile Style, la editorial de Eminem."
+                "x": "Wounded Warrior Project fue anunciado como socio del Impact Program, y NYU Langone Health se sumó a 1 Million Voices, el compromiso en especie de $1B de ElevenLabs, que ha ayudado a más de 11,000 personas a volver a hablar con su propia voz."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "ElevenLabs 음악\n목소리 잃은 이에 무료로",
+          "body": "ElevenLabs, NYC서 목소리 잃은 이에 ElevenMusic 무료로 연다.",
+          "mini_headline": "목소리 잃은 이에 무료 ElevenMusic",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://eleven-public-cdn.elevenlabs.io/payloadcms/hzu606cgpup-2304662705.webp"
+              },
+              {
+                "t": "p",
+                "x": "뉴욕의 교육자 Greg Kellner는 2019년 뇌암으로 노래하는 목소리를 잃었다. 그는 옛 녹음을 토대로 ElevenMusic에서 그 목소리를 되살렸다. 뇌성마비 탓에 말하는 목소리가 한 번도 없었던 Abdi Omar는 ElevenLabs Voice Designer로 자기 목소리를 직접 디자인했고, 지금은 ElevenMusic으로 래퍼 활동을 한다."
+              },
+              {
+                "t": "p",
+                "x": "두 사람은 11월 11일 ElevenLabs New York Summit에서 ElevenMusic으로 되찾은 노래 목소리로 신곡을 공연했다. 이제 목소리를 영구히 잃은 사람은 ElevenMusic을 무료로 쓸 수 있다. 이 지원은 Songwriters of North America(SONA)와 함께 시작했고, 자격 확인은 SONA가 맡는다."
+              },
+              {
+                "t": "p",
+                "x": "“목소리 복원은 언제나 기본적인 필요를 채우는 일 이상이었습니다. 우리를 인간답게 만드는 모든 방식으로 진정으로 들리는 것에 관한 일입니다.” ElevenLabs 임팩트 총괄(Head of Impact) Gabi Leibowitz가 한 말이다."
+              },
+              {
+                "t": "p",
+                "x": "ElevenLabs는 Wounded Warrior Project를 Impact Program 파트너로 발표했고, NYU Langone Health는 1 Million Voices에 합류했다. 1 Million Voices는 ElevenLabs가 약속한 $1B 규모 현물 지원이다. 지금까지 11,000명 넘는 사람이 이 지원으로 다시 자기 목소리로 말하게 됐다."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ja": {
+          "headline": "ElevenLabsが\n声を失った音楽家に無料開放",
+          "body": "ElevenLabsはNYCで声を失った人にElevenMusicを無料開放した。",
+          "mini_headline": "声を失った人にElevenMusicを無料で",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://eleven-public-cdn.elevenlabs.io/payloadcms/hzu606cgpup-2304662705.webp"
+              },
+              {
+                "t": "p",
+                "x": "ニューヨークの教育者Greg Kellnerは2019年に脳がんで歌声を失ったが、昔の録音をもとにElevenMusicでその声を再現した。脳性まひのために話す声を一度も持ったことのないAbdi Omarは、ElevenLabs Voice Designerで自分の声をデザインし、現在はElevenMusicを使ってラップアーティストとして活動している。"
+              },
+              {
+                "t": "p",
+                "x": "11月11日のElevenLabs New York Summitで、二人はElevenMusicの歌声で新曲を披露した。永久に声を失った人々は、今後ElevenMusicを無料で利用できる。この取り組みはSongwriters of North America（SONA）と共に始まり、SONAが利用資格を確認する。"
+              },
+              {
+                "t": "p",
+                "x": "「声の回復は、常に基本的なニーズを満たす以上の意味を持ってきました。私たちを人間たらしめるあらゆる形で、本当に耳を傾けてもらうことなのです」と、ElevenLabsのHead of ImpactであるGabi Leibowitzは語った。"
+              },
+              {
+                "t": "p",
+                "x": "Wounded Warrior ProjectがImpact Programのパートナーとして発表され、NYU Langone Healthが1 Million Voicesに加わった。1 Million VoicesはElevenLabsによる$1B 規模の現物支援で、これまでに11,000人以上が自分の声で再び話せるよう支えてきた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "ElevenLabs向\n失声艺术家免费开放音乐",
+          "body": "ElevenLabs在NYC Summit上向失声艺术家免费开放ElevenMusic。",
+          "mini_headline": "为失声者免费开放ElevenMusic",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://eleven-public-cdn.elevenlabs.io/payloadcms/hzu606cgpup-2304662705.webp"
+              },
+              {
+                "t": "p",
+                "x": "纽约教育工作者Greg Kellner的歌声在2019年因脑癌而失去，他借助旧录音，通过ElevenMusic重现了自己的歌声。Abdi Omar因脑瘫从未拥有过说话的声音，他用ElevenLabs Voice Designer设计了自己的声音，如今以说唱艺人的身份使用ElevenMusic。"
+              },
+              {
+                "t": "p",
+                "x": "11月11日，在ElevenLabs New York Summit上，两人用各自的ElevenMusic歌声演唱了新歌。永久失声的人现在可以免费使用ElevenMusic；该项目与Songwriters of North America（SONA）合作推出，并由SONA审核资格。"
+              },
+              {
+                "t": "p",
+                "x": "“声音修复从来不只是满足基本需求，更是要在一切让我们成为人的方面，真正被听见。”ElevenLabs影响力负责人（Head of Impact）Gabi Leibowitz说。"
+              },
+              {
+                "t": "p",
+                "x": "Wounded Warrior Project被宣布成为Impact Program合作伙伴，NYU Langone Health则加入了1 Million Voices。这是ElevenLabs价值$1B 的实物捐助承诺，已帮助超过11,000人重新用自己的声音说话。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "ElevenLabs ofrece música gratis\na artistas que perdieron la voz",
+          "body": "En su NYC Summit, ElevenLabs abrió el acceso gratuito a ElevenMusic para artistas que han perdido la voz.",
+          "mini_headline": "ElevenMusic gratis para quien perdió la voz",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://eleven-public-cdn.elevenlabs.io/payloadcms/hzu606cgpup-2304662705.webp"
+              },
+              {
+                "t": "p",
+                "x": "Greg Kellner, un educador de Nueva York que perdió su voz para cantar por un cáncer cerebral en 2019, la recreó con ElevenMusic a partir de grabaciones antiguas. Abdi Omar, que nunca tuvo voz hablada debido a una parálisis cerebral, diseñó la suya con ElevenLabs Voice Designer y ahora usa ElevenMusic como artista de rap."
+              },
+              {
+                "t": "p",
+                "x": "El 11 de noviembre, en el ElevenLabs New York Summit, ambos interpretaron canciones nuevas con sus voces cantadas de ElevenMusic. Las personas con pérdida permanente de la voz ya pueden acceder gratis a ElevenMusic, en una iniciativa lanzada con Songwriters of North America (SONA), que verificará la elegibilidad."
+              },
+              {
+                "t": "p",
+                "x": "“La restauración de la voz siempre ha ido más allá de cubrir necesidades básicas. Se trata de ser escuchado de verdad, en todas las formas que nos hacen humanos”, dijo Gabi Leibowitz, Head of Impact de ElevenLabs."
+              },
+              {
+                "t": "p",
+                "x": "Wounded Warrior Project fue anunciado como socio del Impact Program, y NYU Langone Health se sumó a 1 Million Voices, el compromiso en especie de $1B de ElevenLabs, que ha ayudado a más de 11,000 personas a volver a hablar con su propia voz."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "ElevenLabs 음악\n목소리 잃은 이에 무료로",
+          "body": "ElevenLabs는 NYC서 목소리 잃은 이에 ElevenMusic 무료화했다.",
+          "mini_headline": "목소리 잃은 이에 무료 ElevenMusic",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://eleven-public-cdn.elevenlabs.io/payloadcms/hzu606cgpup-2304662705.webp"
+              },
+              {
+                "t": "p",
+                "x": "뉴욕의 교육자 Greg Kellner는 2019년 뇌암으로 노래하는 목소리를 잃었지만, 옛 녹음을 바탕으로 ElevenMusic을 통해 그 목소리를 되살렸다. 뇌성마비로 말하는 목소리를 가져 본 적이 없는 Abdi Omar는 ElevenLabs Voice Designer로 자신의 목소리를 직접 디자인했고, 지금은 ElevenMusic으로 래퍼 활동을 한다."
+              },
+              {
+                "t": "p",
+                "x": "11월 11일 ElevenLabs New York Summit에서 두 사람은 ElevenMusic으로 되찾은 노래 목소리로 신곡을 공연했다. 이제 영구적으로 목소리를 잃은 사람은 ElevenMusic을 무료로 쓸 수 있다. 이 지원은 Songwriters of North America(SONA)와 함께 시작했으며, 자격 확인은 SONA가 맡는다."
+              },
+              {
+                "t": "p",
+                "x": "“목소리 복원은 언제나 기본적인 필요를 채우는 일 이상이었습니다. 우리를 인간답게 만드는 모든 방식으로 진정으로 들리는 것에 관한 일입니다.” ElevenLabs 임팩트 총괄(Head of Impact) Gabi Leibowitz의 말이다."
+              },
+              {
+                "t": "p",
+                "x": "Wounded Warrior Project가 Impact Program 파트너로 발표됐고, NYU Langone Health는 1 Million Voices에 합류했다. 1 Million Voices는 ElevenLabs가 약속한 $1B 규모의 현물 지원으로, 지금까지 11,000명 넘는 사람이 자기 목소리로 다시 말하도록 도왔다."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "ringo-charlie-whatsapp-sync",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Ringo의 Charlie\nWhatsApp 싱크 응대",
+      "body": "Ringo가 WhatsApp서 싱크 문의용 AI 비서 Charlie를 공개했다.",
+      "mini_headline": "WhatsApp AI로 싱크 라이선스",
+      "tool": "Music",
+      "source": "Music Ally",
+      "url": "https://musically.com/2026/11/12/ringos-charlie-is-a-sync-licensing-ai-assistant-within-whatsapp/",
+      "accent": "#7928ca",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-26.png?fit=2000%2C1500&ssl=1"
+          },
+          {
+            "t": "p",
+            "x": "우리는 네덜란드 싱크 테크 스타트업 Ringo를 2023년 첫 투자 유치 때부터, 2025년 AI 기반(AI-powered) 라이선싱 플랫폼 출시까지 지켜봐 왔다. 이번에 Ringo가 내놓은 최신 기능은 AI 비서 Charlie다."
+          },
+          {
+            "t": "p",
+            "x": "그녀는(그렇다, Ringo 발표문에 대명사가 그렇게 적혀 있다) WhatsApp 안에서만 돌아가도록 설계됐다. 고객 문의를 받아 두면 Ringo 팀이 이어받아 처리한다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Ringo's Charlie fields sync\nlicensing queries in WhatsApp",
+          "body": "Dutch startup Ringo has unveiled Charlie, an AI assistant that fields sync-licensing queries inside WhatsApp.",
+          "mini_headline": "Sync licensing via WhatsApp AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-26.png?fit=2000%2C1500&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "We’ve followed the progress of Dutch sync-tech startup Ringo since its first funding round in 2023 and the launch of its AI-powered licensing platform in 2025. Now it has unveiled its latest feature: an AI assistant called Charlie."
+              },
+              {
+                "t": "p",
+                "x": "She (yes, the pronoun is specified in Ringo’s announcement) is designed to live entirely within WhatsApp, fielding questions from clients that can then be dealt with by Ringo’s team."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Ringo의 Charlie\nWhatsApp 싱크 응대",
+          "body": "Ringo가 WhatsApp서 싱크 문의용 AI 비서 Charlie를 공개했다.",
+          "mini_headline": "WhatsApp AI로 싱크 라이선스",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-26.png?fit=2000%2C1500&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "우리는 네덜란드 싱크 테크 스타트업 Ringo를 2023년 첫 투자 유치 때부터, 2025년 AI 기반(AI-powered) 라이선싱 플랫폼 출시까지 지켜봐 왔다. 이번에 Ringo가 내놓은 최신 기능은 AI 비서 Charlie다."
+              },
+              {
+                "t": "p",
+                "x": "그녀는(그렇다, Ringo 발표문에 대명사가 그렇게 적혀 있다) WhatsApp 안에서만 돌아가도록 설계됐다. 고객 문의를 받아 두면 Ringo 팀이 이어받아 처리한다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "RingoのCharlie\nWhatsAppでシンク相談",
+          "body": "RingoがWhatsAppでシンク許諾の問い合わせに応じるAI Charlieを発表した。",
+          "mini_headline": "WhatsAppのAIでシンク許諾",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-26.png?fit=2000%2C1500&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "私たちはオランダのシンク技術スタートアップRingoを、2023年の最初の資金調達、2025年のAI-poweredライセンシングプラットフォームの立ち上げから追ってきた。そのRingoが最新機能として、AIアシスタントCharlieを発表した。"
+              },
+              {
+                "t": "p",
+                "x": "彼女（そう、Ringoの発表では代名詞が指定されている）はWhatsApp内だけで動くよう設計されており、顧客からの質問を受け付け、それをRingoのチームが引き継いで対応できる。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Ringo的Charlie\nWhatsApp处理授权咨询",
+          "body": "荷兰初创公司Ringo推出AI助手Charlie，在WhatsApp内解答同步授权咨询。",
+          "mini_headline": "WhatsApp内的同步授权AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-26.png?fit=2000%2C1500&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "自2023年首轮融资、2025年推出AI-powered授权平台以来，我们一直关注荷兰同步技术初创公司Ringo的进展。如今，它发布了最新功能：一款名为Charlie的AI助手。"
+              },
+              {
+                "t": "p",
+                "x": "她（没错，Ringo的公告特意指定了这个代词）被设计为完全在WhatsApp内运行，负责接收客户提问，之后可交由Ringo团队处理。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Charlie, de Ringo, atiende\nconsultas de sync en WhatsApp",
+          "body": "La startup neerlandesa Ringo presentó Charlie, un asistente AI que atiende consultas de licencias sync en WhatsApp.",
+          "mini_headline": "Licencias sync con AI en WhatsApp",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-26.png?fit=2000%2C1500&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "Seguimos la evolución de Ringo, startup neerlandesa de tecnología sync, desde su primera ronda de financiación en 2023 y el lanzamiento de su plataforma de licencias AI-powered en 2025. Ahora ha presentado su función más reciente: una asistente AI llamada Charlie."
+              },
+              {
+                "t": "p",
+                "x": "Ella (sí, el pronombre está especificado en el anuncio de Ringo) está diseñada para funcionar íntegramente dentro de WhatsApp y atender preguntas de clientes que luego puede gestionar el equipo de Ringo."
               }
             ]
           }
@@ -1747,125 +1341,401 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Nvidia, 소환장 취소\nUMG v. Suno 소송",
-          "body": "Nvidia는 문서 6,300건 이상을 냈다며 Suno 소송 소환장 취소를 구했다.",
-          "mini_headline": "Nvidia, Suno 소송 소환장에 맞서",
+          "headline": "Ringo의 Charlie\nWhatsApp 싱크 응대",
+          "body": "Ringo가 WhatsApp서 싱크 문의용 AI 비서 Charlie를 공개했다.",
+          "mini_headline": "WhatsApp AI로 싱크 라이선스",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/Nvidia-Office-1024x546.jpg",
-                "cap": "Photo Credit: Amir Shtanger"
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-26.png?fit=2000%2C1500&ssl=1"
               },
               {
                 "t": "p",
-                "x": "Nvidia의 벤처 투자 부문 NVentures가 UMG v. Suno 소송에서 Universal Music과 Sony Music이 낸 증언 소환장을 겨냥해 강한 어조의 취소 신청을 냈다."
+                "x": "우리는 네덜란드 싱크 테크 스타트업 Ringo를 2023년 첫 투자 유치와 2025년 AI 기반(AI-powered) 라이선싱 플랫폼 출시 때부터 지켜봐 왔다. 이번에 Ringo가 최신 기능으로 AI 비서 Charlie를 공개했다."
               },
               {
                 "t": "p",
-                "x": "팔월에 처음 드러나 이후 수정된 이 소환장은 Nvidia와 Suno의 “투자 전 사업 관계”와 경영진, 투자와 관련해 Suno가 제공한 문서, 학습 데이터 실사와 침해 소송 위험, 그리고 Suno가 음원 시장에 미칠 수 있는 영향을 다룬다."
-              },
-              {
-                "t": "p",
-                "x": "취소 신청서에 따르면 “수개월에 걸친 협상과 수집, 검토 끝에 NVentures는 28,194쪽 분량의 문서 6,324건을 제출했다.” Nvidia는 “이미 상당한 자료를 제출한 투자자에게 증언을 요구하는 것은 특히 부적절하다”고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "Suno는 Elvis Presley Enterprises, 그리고 Eminem의 음악 출판사 Eight Mile Style이 제기한 소송에도 대응하고 있다."
+                "x": "그녀는(그렇다, Ringo의 발표문에 대명사가 명시돼 있다) 전적으로 WhatsApp 안에서 작동하도록 설계됐으며, 고객 문의를 받아 Ringo 팀이 이어서 처리할 수 있게 한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "UMG v. Suno訴訟\nNvidiaが召喚状に異議",
-          "body": "Nvidiaは6,300件超の文書提出を理由に、Suno訴訟の証言召喚の取消を求めた。",
-          "mini_headline": "Nvidia、Suno訴訟の召喚状に対抗",
+          "headline": "RingoのCharlie\nWhatsAppでシンク相談",
+          "body": "RingoがWhatsAppでシンク許諾の問い合わせに応じるAI Charlieを発表した。",
+          "mini_headline": "WhatsAppのAIでシンク許諾",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/Nvidia-Office-1024x546.jpg",
-                "cap": "Photo Credit: Amir Shtanger"
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-26.png?fit=2000%2C1500&ssl=1"
               },
               {
                 "t": "p",
-                "x": "Nvidiaのベンチャー投資部門NVenturesは、UMG v. Suno訴訟でUniversal MusicとSony Musicが出した証言録取の召喚状に対し、強い文言の取消申立てを行った。"
+                "x": "私たちはオランダのシンク技術スタートアップRingoを、2023年の最初の資金調達、2025年のAI-poweredライセンシングプラットフォームの立ち上げから追ってきた。そのRingoが最新機能として、AIアシスタントCharlieを発表した。"
               },
               {
                 "t": "p",
-                "x": "八月に表面化し、その後修正されたこの召喚状は、Nvidiaの「Sunoとの投資前の取引関係」とその幹部、投資に関してSunoが提供した文書、学習データのデューデリジェンスと権利侵害訴訟のリスク、そしてSunoが録音物市場に与えうる影響を対象としている。"
-              },
-              {
-                "t": "p",
-                "x": "取消申立てによれば、「数か月にわたる交渉、収集、審査を経て、NVenturesは28,194ページに及ぶ6,324件の文書を提出した」。Nvidiaは「すでに相当量の提出を行った投資家に証言録取を求めることは、とりわけ不適切だ」としている。"
-              },
-              {
-                "t": "p",
-                "x": "SunoはElvis Presley Enterprisesや、Eminemの音楽出版社Eight Mile Styleが起こした訴訟にも直面している。"
+                "x": "彼女（そう、Ringoの発表では代名詞が指定されている）はWhatsApp内だけで動くよう設計されており、顧客からの質問を受け付け、それをRingoのチームが引き継いで対応できる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Nvidia申请撤销\nUMG v. Suno案传票",
-          "body": "Nvidia称已提交逾6,300份文件，请求撤销UMG诉Suno案中的作证传票。",
-          "mini_headline": "Nvidia对抗Suno案传票",
+          "headline": "Ringo的Charlie\nWhatsApp处理授权咨询",
+          "body": "荷兰初创公司Ringo推出AI助手Charlie，在WhatsApp内解答同步授权咨询。",
+          "mini_headline": "WhatsApp内的同步授权AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/Nvidia-Office-1024x546.jpg",
-                "cap": "Photo Credit: Amir Shtanger"
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-26.png?fit=2000%2C1500&ssl=1"
               },
               {
                 "t": "p",
-                "x": "Nvidia旗下风险投资部门NVentures在UMG v. Suno案中，针对Universal Music和Sony Music发出的作证传票，提交了措辞强硬的撤销动议。"
+                "x": "自2023年首轮融资、2025年推出AI-powered授权平台以来，我们一直关注荷兰同步技术初创公司Ringo的进展。如今，它发布了最新功能：一款名为Charlie的AI助手。"
               },
               {
                 "t": "p",
-                "x": "这份传票于八月曝光，随后经过修改，内容涉及Nvidia“与Suno在投资前的业务关系”及其高管、Suno就该投资提供的文件、训练数据尽职调查与侵权诉讼风险，以及Suno对录音制品市场的潜在影响。"
-              },
-              {
-                "t": "p",
-                "x": "撤销动议称：“经过数月的谈判、收集和审查，NVentures已提交6,324份文件，共计28,194页。”Nvidia表示：“在投资者已大量提交材料的情况下，要求其作证尤为不妥。”"
-              },
-              {
-                "t": "p",
-                "x": "Suno还面临Elvis Presley Enterprises以及Eminem的版权出版商Eight Mile Style提起的诉讼。"
+                "x": "她（没错，Ringo的公告特意指定了这个代词）被设计为完全在WhatsApp内运行，负责接收客户提问，之后可交由Ringo团队处理。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Nvidia pide anular la citación\nen el caso UMG v. Suno",
-          "body": "Nvidia pide anular una citación en la demanda de UMG contra Suno y afirma haber entregado más de 6,300 documentos.",
-          "mini_headline": "Nvidia se opone a una citación del caso Suno",
+          "headline": "Charlie, de Ringo, atiende\nconsultas de sync en WhatsApp",
+          "body": "La startup neerlandesa Ringo presentó Charlie, un asistente AI que atiende consultas de licencias sync en WhatsApp.",
+          "mini_headline": "Licencias sync con AI en WhatsApp",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/Nvidia-Office-1024x546.jpg",
-                "cap": "Photo Credit: Amir Shtanger"
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-26.png?fit=2000%2C1500&ssl=1"
               },
               {
                 "t": "p",
-                "x": "NVentures, el brazo de capital riesgo de Nvidia, arremetió contra una citación a declarar de Universal Music y Sony Music en el caso UMG v. Suno mediante una moción de anulación redactada en términos firmes."
+                "x": "Seguimos la evolución de Ringo, startup neerlandesa de tecnología sync, desde su primera ronda de financiación en 2023 y el lanzamiento de su plataforma de licencias AI-powered en 2025. Ahora ha presentado su función más reciente: una asistente AI llamada Charlie."
               },
               {
                 "t": "p",
-                "x": "La citación, que salió a la luz en agosto y fue modificada posteriormente, se refiere a la “relación comercial previa a la inversión con Suno” de Nvidia y a sus directivos; a los documentos aportados por Suno sobre la inversión; a la diligencia debida sobre los datos de entrenamiento y los riesgos de litigios por infracción; y al posible impacto de Suno en el mercado de grabaciones sonoras."
+                "x": "Ella (sí, el pronombre está especificado en el anuncio de Ringo) está diseñada para funcionar íntegramente dentro de WhatsApp y atender preguntas de clientes que luego puede gestionar el equipo de Ringo."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "knxwledge-streaming-app-takedowns",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Knxwledge, 배급사\n삭제 뒤 자체 앱 출시",
+      "body": "Knxwledge는 AI 이전 음반이 배급사에서 내려가자 스트리밍 앱을 냈다.",
+      "mini_headline": "Knxwledge의 자체 스트리밍 앱",
+      "tool": "Music",
+      "source": "Complex",
+      "url": "https://www.complex.com/music/a/markelibert/knxwledge-streaming-app-albums-removed-distributors",
+      "accent": "#2ec5c5",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://images.complex.com/complex/image/upload/c_crop,h_1910,w_2939,x_0,y_0/g_auto:aoi_1176_764_588_382,ar_1.91,c_fill,q_auto,w_1200/sanity-new/ehkmatoir85wnox3ljc2"
+          },
+          {
+            "t": "p",
+            "x": "그래미 수상(Grammy-winning) 프로듀서 Knxwledge가 화요일(Nov. 10) X에 iOS용 자체 스트리밍 앱을 냈다고 알렸다. 몇 달째 그의 작품이 스트리밍 플랫폼에서 사라지자 내놓은 앱이다. 팬들은 여기서 그의 전체 카탈로그와 앞으로 나올 작품을 들을 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "그의 말로는 내려간 작품 가운데 일부는 인공지능 음악 생성 도구가 널리 쓰이기 몇 년 전에 나왔다."
+          },
+          {
+            "t": "p",
+            "x": "그의 설명은 이렇다. \"OVER THE PAST FEW MONTHS DISTRIBUTORS HAVE TAKEN DOWN RECORDS IV'E MADE AND RELEASED YEARS BEFORE AI WAS EVEN AVAILABLE TO THE PUBLIC,\"(지난 몇 달 동안 배급사들이 AI가 대중에게 공개되기도 몇 년 전에 내가 만들어 발매한 음반들을 내렸다) \"ALL THOSE RECORDS CLEARLY HAVE RELEASE DATES, APPARENTLY THE PEOPLE REVIEWING THEM DON'T CARE OR HAVE THE TIME TO DIFFERENTIATE.\"(그 음반들에는 모두 발매일이 분명히 적혀 있는데, 심사하는 사람들은 신경 쓰지 않거나 구별할 시간이 없는 모양이다)"
+          },
+          {
+            "t": "p",
+            "x": "앱에는 그가 직접 리마스터했다는 전체 카탈로그가 실렸다. Android 버전은 나중에 나온다. 그는 팬들에게 업데이트 소식은 Discord 서버에서 확인하라고 안내했다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Knxwledge starts his own app\nafter distributor takedowns",
+          "body": "Knxwledge launched a streaming app after distributors pulled records released before public AI music tools existed.",
+          "mini_headline": "Knxwledge's own streaming app",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.complex.com/complex/image/upload/c_crop,h_1910,w_2939,x_0,y_0/g_auto:aoi_1176_764_588_382,ar_1.91,c_fill,q_auto,w_1200/sanity-new/ehkmatoir85wnox3ljc2"
               },
               {
                 "t": "p",
-                "x": "“Tras meses de negociaciones, recopilación y revisión, NVentures entregó 6,324 documentos que suman 28,194 páginas”, según la moción de anulación. “La declaración de un inversor así es especialmente inapropiada cuando el inversor ya ha realizado una entrega sustancial”, según Nvidia."
+                "x": "On Tuesday (Nov. 10), the Grammy-winning producer Knxwledge announced on X that he launched his own streaming app for iOS, giving fans access to his entire catalog and future releases, after months of his projects disappearing from streaming platforms."
               },
               {
                 "t": "p",
-                "x": "Suno también enfrenta demandas presentadas por Elvis Presley Enterprises y por Eight Mile Style, la editorial de Eminem."
+                "x": "According to the producer, some of the removed projects were released years before artificial intelligence music-generation tools became widely available."
+              },
+              {
+                "t": "p",
+                "x": "\"OVER THE PAST FEW MONTHS DISTRIBUTORS HAVE TAKEN DOWN RECORDS IV'E MADE AND RELEASED YEARS BEFORE AI WAS EVEN AVAILABLE TO THE PUBLIC,\" he explained. \"ALL THOSE RECORDS CLEARLY HAVE RELEASE DATES, APPARENTLY THE PEOPLE REVIEWING THEM DON'T CARE OR HAVE THE TIME TO DIFFERENTIATE.\""
+              },
+              {
+                "t": "p",
+                "x": "The app features his complete catalog, which he says he personally remastered. An Android version is expected later, and he is directing fans to his Discord server for updates."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Knxwledge, 배급사\n삭제 뒤 자체 앱 출시",
+          "body": "Knxwledge는 AI 이전 음반이 배급사에서 내려가자 스트리밍 앱을 냈다.",
+          "mini_headline": "Knxwledge의 자체 스트리밍 앱",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.complex.com/complex/image/upload/c_crop,h_1910,w_2939,x_0,y_0/g_auto:aoi_1176_764_588_382,ar_1.91,c_fill,q_auto,w_1200/sanity-new/ehkmatoir85wnox3ljc2"
+              },
+              {
+                "t": "p",
+                "x": "그래미 수상(Grammy-winning) 프로듀서 Knxwledge가 화요일(Nov. 10) X에 iOS용 자체 스트리밍 앱을 냈다고 알렸다. 몇 달째 그의 작품이 스트리밍 플랫폼에서 사라지자 내놓은 앱이다. 팬들은 여기서 그의 전체 카탈로그와 앞으로 나올 작품을 들을 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "그의 말로는 내려간 작품 가운데 일부는 인공지능 음악 생성 도구가 널리 쓰이기 몇 년 전에 나왔다."
+              },
+              {
+                "t": "p",
+                "x": "그의 설명은 이렇다. \"OVER THE PAST FEW MONTHS DISTRIBUTORS HAVE TAKEN DOWN RECORDS IV'E MADE AND RELEASED YEARS BEFORE AI WAS EVEN AVAILABLE TO THE PUBLIC,\"(지난 몇 달 동안 배급사들이 AI가 대중에게 공개되기도 몇 년 전에 내가 만들어 발매한 음반들을 내렸다) \"ALL THOSE RECORDS CLEARLY HAVE RELEASE DATES, APPARENTLY THE PEOPLE REVIEWING THEM DON'T CARE OR HAVE THE TIME TO DIFFERENTIATE.\"(그 음반들에는 모두 발매일이 분명히 적혀 있는데, 심사하는 사람들은 신경 쓰지 않거나 구별할 시간이 없는 모양이다)"
+              },
+              {
+                "t": "p",
+                "x": "앱에는 그가 직접 리마스터했다는 전체 카탈로그가 실렸다. Android 버전은 나중에 나온다. 그는 팬들에게 업데이트 소식은 Discord 서버에서 확인하라고 안내했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Knxwledgeが\n配信削除受け独自アプリ",
+          "body": "KnxwledgeはAI普及前の作品を配信業者に消され、自前の配信アプリを始めた。",
+          "mini_headline": "Knxwledgeの自前配信アプリ",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.complex.com/complex/image/upload/c_crop,h_1910,w_2939,x_0,y_0/g_auto:aoi_1176_764_588_382,ar_1.91,c_fill,q_auto,w_1200/sanity-new/ehkmatoir85wnox3ljc2"
+              },
+              {
+                "t": "p",
+                "x": "グラミー賞受賞（Grammy-winning）プロデューサーのKnxwledgeは火曜日（Nov. 10）、X上で、ファンが全カタログと今後のリリースを聴ける自身のiOS向けストリーミングアプリを公開したと発表した。数か月にわたり、彼の作品がストリーミングプラットフォームから消えていた末の判断だ。"
+              },
+              {
+                "t": "p",
+                "x": "本人によれば、削除された作品の一部は、人工知能による音楽生成ツールが広く使えるようになる何年も前にリリースされたものだという。"
+              },
+              {
+                "t": "p",
+                "x": "彼はこう説明した。\"OVER THE PAST FEW MONTHS DISTRIBUTORS HAVE TAKEN DOWN RECORDS IV'E MADE AND RELEASED YEARS BEFORE AI WAS EVEN AVAILABLE TO THE PUBLIC,\"（ここ数か月、ディストリビューターは、AIが一般に使えるようになる何年も前に僕が作ってリリースしたレコードを削除してきた） \"ALL THOSE RECORDS CLEARLY HAVE RELEASE DATES, APPARENTLY THE PEOPLE REVIEWING THEM DON'T CARE OR HAVE THE TIME TO DIFFERENTIATE.\"（どのレコードにもはっきりリリース日がある。どうやら審査する人たちは気にしていないか、見分ける時間がないらしい）"
+              },
+              {
+                "t": "p",
+                "x": "アプリには、本人が自らリマスターしたという全カタログが収録されている。Android版は後日登場する予定で、最新情報は彼のDiscordサーバーで確認するようファンに呼びかけている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Knxwledge遭下架后\n推出自有流媒体应用",
+          "body": "因发行商下架其在AI音乐工具普及前发布的作品，Knxwledge推出了自己的流媒体应用。",
+          "mini_headline": "Knxwledge自建流媒体应用",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.complex.com/complex/image/upload/c_crop,h_1910,w_2939,x_0,y_0/g_auto:aoi_1176_764_588_382,ar_1.91,c_fill,q_auto,w_1200/sanity-new/ehkmatoir85wnox3ljc2"
+              },
+              {
+                "t": "p",
+                "x": "周二（Nov. 10），格莱美获奖（Grammy-winning）制作人Knxwledge在X上宣布推出自己的iOS流媒体应用，让粉丝可以收听他的全部作品目录和未来新作。此前数月，他的作品不断从流媒体平台上消失。"
+              },
+              {
+                "t": "p",
+                "x": "据这位制作人说，被下架的部分作品发行时间比人工智能音乐生成工具普及还要早好几年。"
+              },
+              {
+                "t": "p",
+                "x": "他解释道：\"OVER THE PAST FEW MONTHS DISTRIBUTORS HAVE TAKEN DOWN RECORDS IV'E MADE AND RELEASED YEARS BEFORE AI WAS EVEN AVAILABLE TO THE PUBLIC,\"（过去几个月，发行商下架了我在AI向公众开放之前好几年就制作并发行的唱片） \"ALL THOSE RECORDS CLEARLY HAVE RELEASE DATES, APPARENTLY THE PEOPLE REVIEWING THEM DON'T CARE OR HAVE THE TIME TO DIFFERENTIATE.\"（这些唱片都清楚标着发行日期，显然审核的人根本不在乎，或者没时间去分辨。）"
+              },
+              {
+                "t": "p",
+                "x": "该应用收录了他的完整作品目录，他说这些都由他亲自重新做了母带处理。Android版本预计稍后推出，他引导粉丝前往他的Discord服务器获取最新消息。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Knxwledge lanza su propia app\ntras retiradas de distribuidoras",
+          "body": "Knxwledge lanzó una app de streaming tras la retirada de discos anteriores a las herramientas públicas de música AI.",
+          "mini_headline": "La app de streaming de Knxwledge",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.complex.com/complex/image/upload/c_crop,h_1910,w_2939,x_0,y_0/g_auto:aoi_1176_764_588_382,ar_1.91,c_fill,q_auto,w_1200/sanity-new/ehkmatoir85wnox3ljc2"
+              },
+              {
+                "t": "p",
+                "x": "El martes (Nov. 10), el productor Knxwledge, ganador de un Grammy (Grammy-winning), anunció en X que lanzó su propia app de streaming para iOS, que da a los fans acceso a todo su catálogo y a sus futuros lanzamientos, tras meses en los que sus proyectos fueron desapareciendo de las plataformas de streaming."
+              },
+              {
+                "t": "p",
+                "x": "Según el productor, algunos de los proyectos retirados se publicaron años antes de que las herramientas de generación musical con inteligencia artificial estuvieran ampliamente disponibles."
+              },
+              {
+                "t": "p",
+                "x": "Así lo explicó: \"OVER THE PAST FEW MONTHS DISTRIBUTORS HAVE TAKEN DOWN RECORDS IV'E MADE AND RELEASED YEARS BEFORE AI WAS EVEN AVAILABLE TO THE PUBLIC,\" (en los últimos meses, las distribuidoras han retirado discos que hice y publiqué años antes de que la AI estuviera siquiera al alcance del público). \"ALL THOSE RECORDS CLEARLY HAVE RELEASE DATES, APPARENTLY THE PEOPLE REVIEWING THEM DON'T CARE OR HAVE THE TIME TO DIFFERENTIATE.\" (Todos esos discos tienen fechas de lanzamiento claras; al parecer, a quienes los revisan no les importa o no tienen tiempo para diferenciarlos)."
+              },
+              {
+                "t": "p",
+                "x": "La app incluye su catálogo completo, que según él remasterizó personalmente. Se espera una versión para Android más adelante, y por ahora remite a los fans a su servidor de Discord para recibir novedades."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Knxwledge, 배급사\n삭제 뒤 자체 앱 출시",
+          "body": "Knxwledge는 AI 이전 음반이 배급사에서 내려가자 스트리밍 앱을 냈다.",
+          "mini_headline": "Knxwledge의 자체 스트리밍 앱",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.complex.com/complex/image/upload/c_crop,h_1910,w_2939,x_0,y_0/g_auto:aoi_1176_764_588_382,ar_1.91,c_fill,q_auto,w_1200/sanity-new/ehkmatoir85wnox3ljc2"
+              },
+              {
+                "t": "p",
+                "x": "그래미 수상(Grammy-winning) 프로듀서 Knxwledge는 화요일(Nov. 10) X에서 iOS용 자체 스트리밍 앱을 출시했다고 밝혔다. 몇 달째 그의 작품이 스트리밍 플랫폼에서 사라진 끝에 내놓은 앱으로, 팬들은 그의 전체 카탈로그와 앞으로 낼 작품을 들을 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "그에 따르면 삭제된 작품 중 일부는 인공지능 음악 생성 도구가 널리 쓰이기 몇 년 전에 발매됐다."
+              },
+              {
+                "t": "p",
+                "x": "그는 이렇게 설명했다. \"OVER THE PAST FEW MONTHS DISTRIBUTORS HAVE TAKEN DOWN RECORDS IV'E MADE AND RELEASED YEARS BEFORE AI WAS EVEN AVAILABLE TO THE PUBLIC,\"(지난 몇 달 동안 배급사들이 AI가 대중에게 공개되기도 몇 년 전에 내가 만들어 발매한 음반들을 내렸다) \"ALL THOSE RECORDS CLEARLY HAVE RELEASE DATES, APPARENTLY THE PEOPLE REVIEWING THEM DON'T CARE OR HAVE THE TIME TO DIFFERENTIATE.\"(그 음반들에는 모두 발매일이 분명히 적혀 있는데, 심사하는 사람들은 신경 쓰지 않거나 구별할 시간이 없는 모양이다)"
+              },
+              {
+                "t": "p",
+                "x": "앱에는 그가 직접 리마스터했다는 전체 카탈로그가 담겼다. Android 버전은 추후 나올 예정이며, 그는 팬들에게 업데이트 소식은 Discord 서버에서 확인하라고 안내하고 있다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Knxwledgeが\n配信削除受け独自アプリ",
+          "body": "KnxwledgeはAI普及前の作品を配信業者に消され、自前の配信アプリを始めた。",
+          "mini_headline": "Knxwledgeの自前配信アプリ",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.complex.com/complex/image/upload/c_crop,h_1910,w_2939,x_0,y_0/g_auto:aoi_1176_764_588_382,ar_1.91,c_fill,q_auto,w_1200/sanity-new/ehkmatoir85wnox3ljc2"
+              },
+              {
+                "t": "p",
+                "x": "グラミー賞受賞（Grammy-winning）プロデューサーのKnxwledgeは火曜日（Nov. 10）、X上で、ファンが全カタログと今後のリリースを聴ける自身のiOS向けストリーミングアプリを公開したと発表した。数か月にわたり、彼の作品がストリーミングプラットフォームから消えていた末の判断だ。"
+              },
+              {
+                "t": "p",
+                "x": "本人によれば、削除された作品の一部は、人工知能による音楽生成ツールが広く使えるようになる何年も前にリリースされたものだという。"
+              },
+              {
+                "t": "p",
+                "x": "彼はこう説明した。\"OVER THE PAST FEW MONTHS DISTRIBUTORS HAVE TAKEN DOWN RECORDS IV'E MADE AND RELEASED YEARS BEFORE AI WAS EVEN AVAILABLE TO THE PUBLIC,\"（ここ数か月、ディストリビューターは、AIが一般に使えるようになる何年も前に僕が作ってリリースしたレコードを削除してきた） \"ALL THOSE RECORDS CLEARLY HAVE RELEASE DATES, APPARENTLY THE PEOPLE REVIEWING THEM DON'T CARE OR HAVE THE TIME TO DIFFERENTIATE.\"（どのレコードにもはっきりリリース日がある。どうやら審査する人たちは気にしていないか、見分ける時間がないらしい）"
+              },
+              {
+                "t": "p",
+                "x": "アプリには、本人が自らリマスターしたという全カタログが収録されている。Android版は後日登場する予定で、最新情報は彼のDiscordサーバーで確認するようファンに呼びかけている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Knxwledge遭下架后\n推出自有流媒体应用",
+          "body": "因发行商下架其在AI音乐工具普及前发布的作品，Knxwledge推出了自己的流媒体应用。",
+          "mini_headline": "Knxwledge自建流媒体应用",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.complex.com/complex/image/upload/c_crop,h_1910,w_2939,x_0,y_0/g_auto:aoi_1176_764_588_382,ar_1.91,c_fill,q_auto,w_1200/sanity-new/ehkmatoir85wnox3ljc2"
+              },
+              {
+                "t": "p",
+                "x": "周二（Nov. 10），格莱美获奖（Grammy-winning）制作人Knxwledge在X上宣布推出自己的iOS流媒体应用，让粉丝可以收听他的全部作品目录和未来新作。此前数月，他的作品不断从流媒体平台上消失。"
+              },
+              {
+                "t": "p",
+                "x": "据这位制作人说，被下架的部分作品发行时间比人工智能音乐生成工具普及还要早好几年。"
+              },
+              {
+                "t": "p",
+                "x": "他解释道：\"OVER THE PAST FEW MONTHS DISTRIBUTORS HAVE TAKEN DOWN RECORDS IV'E MADE AND RELEASED YEARS BEFORE AI WAS EVEN AVAILABLE TO THE PUBLIC,\"（过去几个月，发行商下架了我在AI向公众开放之前好几年就制作并发行的唱片） \"ALL THOSE RECORDS CLEARLY HAVE RELEASE DATES, APPARENTLY THE PEOPLE REVIEWING THEM DON'T CARE OR HAVE THE TIME TO DIFFERENTIATE.\"（这些唱片都清楚标着发行日期，显然审核的人根本不在乎，或者没时间去分辨。）"
+              },
+              {
+                "t": "p",
+                "x": "该应用收录了他的完整作品目录，他说这些都由他亲自重新做了母带处理。Android版本预计稍后推出，他引导粉丝前往他的Discord服务器获取最新消息。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Knxwledge lanza su propia app\ntras retiradas de distribuidoras",
+          "body": "Knxwledge lanzó una app de streaming tras la retirada de discos anteriores a las herramientas públicas de música AI.",
+          "mini_headline": "La app de streaming de Knxwledge",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.complex.com/complex/image/upload/c_crop,h_1910,w_2939,x_0,y_0/g_auto:aoi_1176_764_588_382,ar_1.91,c_fill,q_auto,w_1200/sanity-new/ehkmatoir85wnox3ljc2"
+              },
+              {
+                "t": "p",
+                "x": "El martes (Nov. 10), el productor Knxwledge, ganador de un Grammy (Grammy-winning), anunció en X que lanzó su propia app de streaming para iOS, que da a los fans acceso a todo su catálogo y a sus futuros lanzamientos, tras meses en los que sus proyectos fueron desapareciendo de las plataformas de streaming."
+              },
+              {
+                "t": "p",
+                "x": "Según el productor, algunos de los proyectos retirados se publicaron años antes de que las herramientas de generación musical con inteligencia artificial estuvieran ampliamente disponibles."
+              },
+              {
+                "t": "p",
+                "x": "Así lo explicó: \"OVER THE PAST FEW MONTHS DISTRIBUTORS HAVE TAKEN DOWN RECORDS IV'E MADE AND RELEASED YEARS BEFORE AI WAS EVEN AVAILABLE TO THE PUBLIC,\" (en los últimos meses, las distribuidoras han retirado discos que hice y publiqué años antes de que la AI estuviera siquiera al alcance del público). \"ALL THOSE RECORDS CLEARLY HAVE RELEASE DATES, APPARENTLY THE PEOPLE REVIEWING THEM DON'T CARE OR HAVE THE TIME TO DIFFERENTIATE.\" (Todos esos discos tienen fechas de lanzamiento claras; al parecer, a quienes los revisan no les importa o no tienen tiempo para diferenciarlos)."
+              },
+              {
+                "t": "p",
+                "x": "La app incluye su catálogo completo, que según él remasterizó personalmente. Se espera una versión para Android más adelante, y por ahora remite a los fans a su servidor de Discord para recibir novedades."
               }
             ]
           }

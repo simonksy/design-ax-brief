@@ -1,197 +1,535 @@
 {
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "section": "design",
   "cards": [
     {
-      "id": "seedream55-stable-edit",
+      "id": "framer-agent-shaders",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Seedream 5.5\n100회 편집에도 안정적",
-      "body": "ByteDance Seedream 5.5는 100번을 고쳐도 색이 그대로다.",
-      "mini_headline": "Seedream 5.5 안정 편집",
-      "tool": "KeyShot",
-      "source": "The Decoder",
-      "url": "https://the-decoder.com/bytedances-seedream-5-5-promises-pixel-stable-image-editing-across-100-rounds-without-color-drift/",
-      "accent": "#f5a623",
-      "motif": "sphere",
+      "headline": "Framer Agent가\n이미지·셰이더 만든다",
+      "body": "Framer 에이전트가 이미지 생성·편집에 하프톤·보케·CRT 셰이더까지 맡는다.",
+      "mini_headline": "Framer Agent, 셰이더 추가",
+      "tool": "Figma",
+      "source": "Framer",
+      "url": "https://www.framer.com/updates/image-shader-generation",
+      "accent": "#0070f3",
+      "motif": "frame",
       "full": {
         "mode": "full",
         "blocks": [
           {
+            "t": "video",
+            "src": "https://framerusercontent.com/assets/Iw5LhjPbn3iGV8Pg34gm34pSKmQ.mp4"
+          },
+          {
             "t": "p",
-            "x": "Bytedance Seed가 전문 제작 워크플로용 새 이미지 생성 모델 Seedream 5.5를 내놨다. Bytedance가 꼽은 개선점 하나는 최대 100회까지 이어지는 안정적인 다회차 편집이다. 손대지 않은 영역은 픽셀 단위로 그대로 남고 색도 변하지 않는다. 이 분야에서는 최근 새 Flux 모델도 주목받았다."
+            "x": "Framer에 이미지 생성과 셰이더 생성 기능이 들어왔다. 사이트에 맞는 이미지나 텍스처, 일러스트레이션이 필요하면 Agent에게 요청하면 된다. 채팅창에 이미지를 끌어다 놓거나 캔버스에서 이미지를 고른 뒤 피사체 교체, 배경 제거, 스타일 변경을 맡길 수도 있다."
+          },
+          {
+            "t": "p",
+            "x": "셰이더도 마찬가지다. 하프톤, 보케 블러, CRT, 연필 효과 같은 셰이더를 Agent에게 요청하거나, 온라인에서 본 효과를 “포인터를 드래그하면 이미지가 번지게” 하는 식으로 설명하면 된다. 캔버스에 이미 있는 Framer 셰이더도 손볼 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "두 기능을 함께 쓸 수도 있다. Agent가 만든 이미지를 이미지 셰이더의 입력으로 지정하는 식이다. 마우스를 움직이면 잉크가 번지는 펜 드로잉으로 바꿔 주는 셰이더가 그 예다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Framer Agent now makes\nimages and shaders",
+          "body": "Framer's agent can now generate or edit images and build shaders like halftone, bokeh or CRT.",
+          "mini_headline": "Framer Agent adds shaders",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "video",
+                "src": "https://framerusercontent.com/assets/Iw5LhjPbn3iGV8Pg34gm34pSKmQ.mp4"
+              },
+              {
+                "t": "p",
+                "x": "Introducing image generation and generated shaders in Framer. Ask the Agent for a custom image, texture, or illustration that fits your site. You can also drop an image into the chat or select one on the canvas, then ask the Agent to swap the subject, remove the background, or restyle it."
+              },
+              {
+                "t": "p",
+                "x": "Shaders work the same way. Ask the Agent for a shader, like a halftone, bokeh blur, CRT, pencil effect, or describe a specific effect you saw online, like “smudge an image on pointer drag.” It can also tweak a Framer shader that’s already on your canvas."
+              },
+              {
+                "t": "p",
+                "x": "Image and Shader generation work together too. The Agent can generate an image and set it as the input of an image shader, for example one that turns it into a pen drawing with an ink smudge on mouse move."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Framer Agent가\n이미지·셰이더 만든다",
+          "body": "Framer 에이전트가 이미지 생성·편집에 하프톤·보케·CRT 셰이더까지 맡는다.",
+          "mini_headline": "Framer Agent, 셰이더 추가",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "video",
+                "src": "https://framerusercontent.com/assets/Iw5LhjPbn3iGV8Pg34gm34pSKmQ.mp4"
+              },
+              {
+                "t": "p",
+                "x": "Framer에 이미지 생성과 셰이더 생성 기능이 들어왔다. 사이트에 맞는 이미지나 텍스처, 일러스트레이션이 필요하면 Agent에게 요청하면 된다. 채팅창에 이미지를 끌어다 놓거나 캔버스에서 이미지를 고른 뒤 피사체 교체, 배경 제거, 스타일 변경을 맡길 수도 있다."
+              },
+              {
+                "t": "p",
+                "x": "셰이더도 마찬가지다. 하프톤, 보케 블러, CRT, 연필 효과 같은 셰이더를 Agent에게 요청하거나, 온라인에서 본 효과를 “포인터를 드래그하면 이미지가 번지게” 하는 식으로 설명하면 된다. 캔버스에 이미 있는 Framer 셰이더도 손볼 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "두 기능을 함께 쓸 수도 있다. Agent가 만든 이미지를 이미지 셰이더의 입력으로 지정하는 식이다. 마우스를 움직이면 잉크가 번지는 펜 드로잉으로 바꿔 주는 셰이더가 그 예다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Framer Agentが\n画像とシェーダーを生成",
+          "body": "Framer Agentが画像を生成・編集し、ハーフトーン・ボケ・CRTシェーダーも作る。",
+          "mini_headline": "Framer Agentにシェーダー機能",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "video",
+                "src": "https://framerusercontent.com/assets/Iw5LhjPbn3iGV8Pg34gm34pSKmQ.mp4"
+              },
+              {
+                "t": "p",
+                "x": "Framerに画像生成とシェーダー生成が加わった。サイトに合わせたカスタム画像やテクスチャ、イラストをAgentに頼めばよい。チャットに画像をドロップするか、キャンバス上の画像を選択し、被写体の差し替えや背景の削除、スタイルの変更をAgentに指示することもできる。"
+              },
+              {
+                "t": "p",
+                "x": "シェーダーも同じ仕組みだ。ハーフトーン、ボケブラー、CRT、鉛筆効果といったシェーダーをAgentに頼むか、「ポインターのドラッグで画像をにじませる」のように、オンラインで見かけた特定の効果を説明すればよい。キャンバス上にある既存のFramerシェーダーを調整することもできる。"
+              },
+              {
+                "t": "p",
+                "x": "画像生成とシェーダー生成は組み合わせても使える。Agentは画像を生成し、それを画像シェーダーの入力に設定できる。たとえば、マウスを動かすとインクがにじむペン画に変えるシェーダーである。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Framer Agent\n现可生成图像和着色器",
+          "body": "Framer的智能体现可生成或编辑图像，并构建半调、散景或CRT等着色器。",
+          "mini_headline": "Framer Agent新增着色器",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "video",
+                "src": "https://framerusercontent.com/assets/Iw5LhjPbn3iGV8Pg34gm34pSKmQ.mp4"
+              },
+              {
+                "t": "p",
+                "x": "Framer推出图像生成与生成式着色器。你可以让Agent生成契合网站的定制图像、纹理或插画；也可以把图像拖入聊天窗口，或在画布上选中一张图，再让Agent替换主体、移除背景或重新设定风格。"
+              },
+              {
+                "t": "p",
+                "x": "着色器的用法相同。可以向Agent索要半调、散景模糊、CRT、铅笔效果等着色器，也可以描述在网上看到的某种效果，比如“指针拖动时涂抹图像”。它还能调整画布上已有的Framer着色器。"
+              },
+              {
+                "t": "p",
+                "x": "图像生成与着色器生成也能配合使用。Agent可以先生成一张图像，再把它设为图像着色器的输入，例如把图像变成钢笔画，鼠标移动时出现墨迹晕染。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Framer Agent ya genera\nimágenes y shaders",
+          "body": "El agente de Framer ya puede generar o editar imágenes y crear shaders como halftone, bokeh o CRT.",
+          "mini_headline": "Framer Agent suma shaders",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "video",
+                "src": "https://framerusercontent.com/assets/Iw5LhjPbn3iGV8Pg34gm34pSKmQ.mp4"
+              },
+              {
+                "t": "p",
+                "x": "Framer presenta la generación de imágenes y los shaders generados. Puedes pedir al Agent una imagen, textura o ilustración personalizada que encaje con tu sitio. También puedes soltar una imagen en el chat o seleccionar una en el lienzo y pedir al Agent que cambie el sujeto, elimine el fondo o le dé otro estilo."
+              },
+              {
+                "t": "p",
+                "x": "Los shaders funcionan igual. Pide al Agent un shader, como halftone, desenfoque bokeh, CRT o efecto de lápiz, o describe un efecto concreto que hayas visto en internet, como “difuminar una imagen al arrastrar el puntero”. También puede ajustar un shader de Framer que ya esté en el lienzo."
+              },
+              {
+                "t": "p",
+                "x": "La generación de imágenes y la de shaders también funcionan juntas. El Agent puede generar una imagen y usarla como entrada de un shader de imagen, por ejemplo uno que la convierte en un dibujo a pluma con una mancha de tinta al mover el ratón."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Framer Agent가\n이미지·셰이더 만든다",
+          "body": "Framer 에이전트가 이미지 생성·편집과 하프톤·보케·CRT 셰이더를 지원한다.",
+          "mini_headline": "Framer Agent, 셰이더 추가",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "video",
+                "src": "https://framerusercontent.com/assets/Iw5LhjPbn3iGV8Pg34gm34pSKmQ.mp4"
+              },
+              {
+                "t": "p",
+                "x": "Framer에 이미지 생성과 셰이더 생성 기능이 들어왔다. Agent에게 사이트에 맞는 맞춤 이미지나 텍스처, 일러스트레이션을 요청하면 된다. 채팅창에 이미지를 끌어다 놓거나 캔버스에서 이미지를 선택한 뒤 피사체 교체, 배경 제거, 스타일 변경을 요청할 수도 있다."
+              },
+              {
+                "t": "p",
+                "x": "셰이더도 같은 방식으로 작동한다. Agent에게 하프톤, 보케 블러, CRT, 연필 효과 같은 셰이더를 요청하거나, 온라인에서 본 특정 효과를 “포인터를 드래그하면 이미지가 번지게” 하는 식으로 설명하면 된다. 캔버스에 이미 있는 Framer 셰이더를 손볼 수도 있다."
+              },
+              {
+                "t": "p",
+                "x": "이미지 생성과 셰이더 생성은 함께 쓸 수도 있다. Agent가 이미지를 생성한 뒤 이를 이미지 셰이더의 입력으로 지정할 수 있다. 예를 들어 마우스를 움직이면 잉크가 번지는 펜 드로잉으로 바꿔 주는 셰이더다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Framer Agentが\n画像とシェーダーを生成",
+          "body": "Framer Agentが画像を生成・編集し、ハーフトーン・ボケ・CRTシェーダーも作る。",
+          "mini_headline": "Framer Agentにシェーダー機能",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "video",
+                "src": "https://framerusercontent.com/assets/Iw5LhjPbn3iGV8Pg34gm34pSKmQ.mp4"
+              },
+              {
+                "t": "p",
+                "x": "Framerに画像生成とシェーダー生成が加わった。サイトに合わせたカスタム画像やテクスチャ、イラストをAgentに頼めばよい。チャットに画像をドロップするか、キャンバス上の画像を選択し、被写体の差し替えや背景の削除、スタイルの変更をAgentに指示することもできる。"
+              },
+              {
+                "t": "p",
+                "x": "シェーダーも同じ仕組みだ。ハーフトーン、ボケブラー、CRT、鉛筆効果といったシェーダーをAgentに頼むか、「ポインターのドラッグで画像をにじませる」のように、オンラインで見かけた特定の効果を説明すればよい。キャンバス上にある既存のFramerシェーダーを調整することもできる。"
+              },
+              {
+                "t": "p",
+                "x": "画像生成とシェーダー生成は組み合わせても使える。Agentは画像を生成し、それを画像シェーダーの入力に設定できる。たとえば、マウスを動かすとインクがにじむペン画に変えるシェーダーである。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Framer Agent\n现可生成图像和着色器",
+          "body": "Framer的智能体现可生成或编辑图像，并构建半调、散景或CRT等着色器。",
+          "mini_headline": "Framer Agent新增着色器",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "video",
+                "src": "https://framerusercontent.com/assets/Iw5LhjPbn3iGV8Pg34gm34pSKmQ.mp4"
+              },
+              {
+                "t": "p",
+                "x": "Framer推出图像生成与生成式着色器。你可以让Agent生成契合网站的定制图像、纹理或插画；也可以把图像拖入聊天窗口，或在画布上选中一张图，再让Agent替换主体、移除背景或重新设定风格。"
+              },
+              {
+                "t": "p",
+                "x": "着色器的用法相同。可以向Agent索要半调、散景模糊、CRT、铅笔效果等着色器，也可以描述在网上看到的某种效果，比如“指针拖动时涂抹图像”。它还能调整画布上已有的Framer着色器。"
+              },
+              {
+                "t": "p",
+                "x": "图像生成与着色器生成也能配合使用。Agent可以先生成一张图像，再把它设为图像着色器的输入，例如把图像变成钢笔画，鼠标移动时出现墨迹晕染。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Framer Agent ya genera\nimágenes y shaders",
+          "body": "El agente de Framer ya puede generar o editar imágenes y crear shaders como halftone, bokeh o CRT.",
+          "mini_headline": "Framer Agent suma shaders",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "video",
+                "src": "https://framerusercontent.com/assets/Iw5LhjPbn3iGV8Pg34gm34pSKmQ.mp4"
+              },
+              {
+                "t": "p",
+                "x": "Framer presenta la generación de imágenes y los shaders generados. Puedes pedir al Agent una imagen, textura o ilustración personalizada que encaje con tu sitio. También puedes soltar una imagen en el chat o seleccionar una en el lienzo y pedir al Agent que cambie el sujeto, elimine el fondo o le dé otro estilo."
+              },
+              {
+                "t": "p",
+                "x": "Los shaders funcionan igual. Pide al Agent un shader, como halftone, desenfoque bokeh, CRT o efecto de lápiz, o describe un efecto concreto que hayas visto en internet, como “difuminar una imagen al arrastrar el puntero”. También puede ajustar un shader de Framer que ya esté en el lienzo."
+              },
+              {
+                "t": "p",
+                "x": "La generación de imágenes y la de shaders también funcionan juntas. El Agent puede generar una imagen y usarla como entrada de un shader de imagen, por ejemplo uno que la convierte en un dibujo a pluma con una mancha de tinta al mover el ratón."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "google-flow-artist-tools",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Google Flow에\n작가와 만든 도구 다섯 개",
+      "body": "Google AI 스튜디오 Flow에 작가들이 직접 만든 도구 다섯 개가 들어갔다.",
+      "mini_headline": "Flow, 작가 도구 다섯 개 추가",
+      "tool": "KeyShot",
+      "source": "Google (The Keyword)",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/new-google-flow-tools/",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Nov_Cohort_Hero_4.width-1300.jpg"
+          },
+          {
+            "t": "p",
+            "x": "Google이 AI 창작 스튜디오 Google Flow에 새 도구 다섯 개를 공개한다. 모두 크리에이터가 직접 만든 것으로, 구상부터 최종 편집까지 이야기를 빚는 과정을 거든다."
+          },
+          {
+            "t": "p",
+            "x": "1. 아티스트이자 영화감독인 James Gerde가 만든 Character Poster는 간단한 스토리 콘셉트를 완성도 높고 아름답게 디자인된 비주얼로 바꿔 준다. 소셜 스토리 전반에서 크리에이터 고유의 스타일도 지켜 준다."
           },
           {
             "t": "video",
-            "src": "https://the-decoder.de/wp-content/uploads/2026/11/seedream55.mp4"
+            "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/01_Charater_Poster_-_10.6.26_-_1.mp4"
           },
           {
             "t": "p",
-            "x": "Seedream 5.5는 투명 배경의 네이티브 RGBA 이미지도 만든다. 생성한 요소를 손으로 누끼 따지 않고 곧장 디자인 에셋으로 쓰면 된다. Bytedance 설명으로는 빛과 재질, 피부 질감이 더 사실적이고 작고 촘촘한 글자도 더 정확하게 나온다."
-          },
-          {
-            "t": "img",
-            "src": "https://the-decoder.com/wp-content/uploads/2026/11/seedance_examples_font.png",
-            "cap": "작고 촘촘한 글자도 정확하게 나온다. | 이미지: Bytedance"
+            "x": "2. 영화감독 Anurag Tiwari가 만든 Character Arc는 한 캐릭터의 핵심 외형을 지키면서 여러 나이와 인생 단계를 시각화한다. 그는 자기 다큐멘터리 “Children of the Sun”에 이 도구를 쓰고 있다."
           },
           {
             "t": "p",
-            "x": "Bytedance는 텍스트 구조와 사실감에서 Seedream 5.5가 GPT Image 2.5 Sunburst 같은 모델보다 낫다고 주장한다. 모델은 Jimeng, Doubao, Doubao Work, Volcengine Ark에 차례로 풀리는 중이며 Pro 버전도 준비하고 있다."
+            "x": "3. 역시 Anurag Tiwari가 만든 Pixel Machine은 이미지를 비트맵, ASCII, CRT, 픽셀 아트, 글리치 스타일로 바꾼다. 타이틀, 트랜지션, 뮤직비디오 비주얼에 쓰라고 만든 도구다."
+          },
+          {
+            "t": "p",
+            "x": "4. 아티스트이자 크리에이티브 디렉터 Ezra Paulekas가 만든 Lucid Glass는 빛이 유리를 통과하는 모습을 재현해 프리즘, 헤일로, 굴절, 광학 블룸을 만든다. 이른바 \"불가능한 렌즈\"다."
+          },
+          {
+            "t": "p",
+            "x": "5. 영화감독 Ryan McCoy가 만든 Pocket Studio는 평범한 휴대폰 영상을 더 완성도 높은 샷으로 바꾼다. 테이크 한 번으로 여러 카메라 앵글을 뽑고 화질도 끌어올리지만, 배우의 원래 연기는 건드리지 않는다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Seedream 5.5 holds steady\nacross 100 edit rounds",
-          "body": "ByteDance's Seedream 5.5 edits up to 100 rounds without color drift and outputs native RGBA files.",
-          "mini_headline": "Seedream 5.5 stable edits",
+          "headline": "Google Flow adds five\ntools built with artists",
+          "body": "Google's AI creative studio Flow adds five artist-built tools, from consistent characters to lighting simulation.",
+          "mini_headline": "Flow adds five artist tools",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Nov_Cohort_Hero_4.width-1300.jpg"
+              },
+              {
                 "t": "p",
-                "x": "Bytedance Seed introduces Seedream 5.5, a new image generation model built for professional production workflows. According to Bytedance, one improvement is stable multi-round editing across up to 100 rounds, with unchanged image areas preserved at the pixel level and no color shifts. The new Flux model also stood out here recently."
+                "x": "Google is releasing five new tools in Google Flow, its AI creative studio — all built by creatives — to help shape stories from concept to final cut."
+              },
+              {
+                "t": "p",
+                "x": "1. Character Poster, by artist and filmmaker James Gerde, turns simple story concepts into polished, beautifully designed visuals and helps creators maintain a signature style across their social stories."
               },
               {
                 "t": "video",
-                "src": "https://the-decoder.de/wp-content/uploads/2026/11/seedream55.mp4"
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/01_Charater_Poster_-_10.6.26_-_1.mp4"
               },
               {
                 "t": "p",
-                "x": "Seedream 5.5 also generates native RGBA images with transparent backgrounds, letting generated elements serve directly as design assets without manual cutouts. Bytedance says the model renders light, materials, and skin textures more realistically and reproduces dense small text more accurately."
-              },
-              {
-                "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/11/seedance_examples_font.png",
-                "cap": "Very accurate, dense, small text. | Image: Bytedance"
+                "x": "2. Character Arc, by filmmaker Anurag Tiwari, lets storytellers visualize the same character across different ages and life stages without losing their core look. He is using it for his documentary “Children of the Sun.”"
               },
               {
                 "t": "p",
-                "x": "Bytedance claims Seedream 5.5 leads models like GPT Image 2.5 Sunburst in text structure and realism. The model is gradually rolling out via Jimeng, Doubao, Doubao Work, and Volcengine Ark. A Pro version is planned."
+                "x": "3. Pixel Machine, also by Anurag Tiwari, converts images into bitmap, ASCII, CRT, pixel art, and glitch styles for title treatments, transitions, and music video visuals."
+              },
+              {
+                "t": "p",
+                "x": "4. Lucid Glass, by artist and creative director Ezra Paulekas, recreates the way light passes through glass, generating prisms, halos, refractions, and optical blooms — an \"impossible lens.\""
+              },
+              {
+                "t": "p",
+                "x": "5. Pocket Studio, by filmmaker Ryan McCoy, turns everyday phone footage into more polished shots: from a single take it generates multiple camera angles and upgrades the visual fidelity, keeping the actor’s original performance intact."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Seedream 5.5\n100회 편집에도 안정적",
-          "body": "ByteDance Seedream 5.5는 100번을 고쳐도 색이 그대로다.",
-          "mini_headline": "Seedream 5.5 안정 편집",
+          "headline": "Google Flow에\n작가와 만든 도구 다섯 개",
+          "body": "Google AI 스튜디오 Flow에 작가들이 직접 만든 도구 다섯 개가 들어갔다.",
+          "mini_headline": "Flow, 작가 도구 다섯 개 추가",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Nov_Cohort_Hero_4.width-1300.jpg"
+              },
+              {
                 "t": "p",
-                "x": "Bytedance Seed가 전문 제작 워크플로용 새 이미지 생성 모델 Seedream 5.5를 내놨다. Bytedance가 꼽은 개선점 하나는 최대 100회까지 이어지는 안정적인 다회차 편집이다. 손대지 않은 영역은 픽셀 단위로 그대로 남고 색도 변하지 않는다. 이 분야에서는 최근 새 Flux 모델도 주목받았다."
+                "x": "Google이 AI 창작 스튜디오 Google Flow에 새 도구 다섯 개를 공개한다. 모두 크리에이터가 직접 만든 것으로, 구상부터 최종 편집까지 이야기를 빚는 과정을 거든다."
+              },
+              {
+                "t": "p",
+                "x": "1. 아티스트이자 영화감독인 James Gerde가 만든 Character Poster는 간단한 스토리 콘셉트를 완성도 높고 아름답게 디자인된 비주얼로 바꿔 준다. 소셜 스토리 전반에서 크리에이터 고유의 스타일도 지켜 준다."
               },
               {
                 "t": "video",
-                "src": "https://the-decoder.de/wp-content/uploads/2026/11/seedream55.mp4"
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/01_Charater_Poster_-_10.6.26_-_1.mp4"
               },
               {
                 "t": "p",
-                "x": "Seedream 5.5는 투명 배경의 네이티브 RGBA 이미지도 만든다. 생성한 요소를 손으로 누끼 따지 않고 곧장 디자인 에셋으로 쓰면 된다. Bytedance 설명으로는 빛과 재질, 피부 질감이 더 사실적이고 작고 촘촘한 글자도 더 정확하게 나온다."
-              },
-              {
-                "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/11/seedance_examples_font.png",
-                "cap": "작고 촘촘한 글자도 정확하게 나온다. | 이미지: Bytedance"
+                "x": "2. 영화감독 Anurag Tiwari가 만든 Character Arc는 한 캐릭터의 핵심 외형을 지키면서 여러 나이와 인생 단계를 시각화한다. 그는 자기 다큐멘터리 “Children of the Sun”에 이 도구를 쓰고 있다."
               },
               {
                 "t": "p",
-                "x": "Bytedance는 텍스트 구조와 사실감에서 Seedream 5.5가 GPT Image 2.5 Sunburst 같은 모델보다 낫다고 주장한다. 모델은 Jimeng, Doubao, Doubao Work, Volcengine Ark에 차례로 풀리는 중이며 Pro 버전도 준비하고 있다."
+                "x": "3. 역시 Anurag Tiwari가 만든 Pixel Machine은 이미지를 비트맵, ASCII, CRT, 픽셀 아트, 글리치 스타일로 바꾼다. 타이틀, 트랜지션, 뮤직비디오 비주얼에 쓰라고 만든 도구다."
+              },
+              {
+                "t": "p",
+                "x": "4. 아티스트이자 크리에이티브 디렉터 Ezra Paulekas가 만든 Lucid Glass는 빛이 유리를 통과하는 모습을 재현해 프리즘, 헤일로, 굴절, 광학 블룸을 만든다. 이른바 \"불가능한 렌즈\"다."
+              },
+              {
+                "t": "p",
+                "x": "5. 영화감독 Ryan McCoy가 만든 Pocket Studio는 평범한 휴대폰 영상을 더 완성도 높은 샷으로 바꾼다. 테이크 한 번으로 여러 카메라 앵글을 뽑고 화질도 끌어올리지만, 배우의 원래 연기는 건드리지 않는다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Seedream 5.5\n100回の編集でも安定",
-          "body": "ByteDanceのSeedream 5.5は100回の編集でも色ずれしない。",
-          "mini_headline": "Seedream 5.5の安定編集",
+          "headline": "Google Flowに\n作家と作った五つのツール",
+          "body": "GoogleのAI制作スタジオFlowに、アーティストが作った五つのツールが加わった。",
+          "mini_headline": "Flowに作家発のツール五つ",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Nov_Cohort_Hero_4.width-1300.jpg"
+              },
+              {
                 "t": "p",
-                "x": "Bytedance Seedは、プロの制作ワークフロー向けの新しい画像生成モデル「Seedream 5.5」を発表した。Bytedanceによると、改良点の一つは最大100ラウンドにわたる安定したマルチラウンド編集で、変更しない画像領域はピクセル単位で保持され、色ずれも起きない。最近は新しいFluxモデルもこの分野で注目を集めた。"
+                "x": "Googleは、AI制作スタジオのGoogle Flowに新しいツールを五つ公開する。いずれもクリエイターが手がけたもので、構想から最終編集まで物語づくりを支える。"
+              },
+              {
+                "t": "p",
+                "x": "1. アーティストで映像作家のJames GerdeによるCharacter Posterは、シンプルなストーリーのコンセプトを洗練された美しいビジュアルに仕上げ、ソーシャル上のストーリー全体で独自のスタイルを保てるようにする。"
               },
               {
                 "t": "video",
-                "src": "https://the-decoder.de/wp-content/uploads/2026/11/seedream55.mp4"
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/01_Charater_Poster_-_10.6.26_-_1.mp4"
               },
               {
                 "t": "p",
-                "x": "Seedream 5.5は透過背景のネイティブRGBA画像も生成でき、生成した要素を手作業の切り抜きなしでそのままデザイン素材として使える。Bytedanceによれば、光や素材、肌の質感をよりリアルに描き、密集した小さな文字もより正確に再現するという。"
-              },
-              {
-                "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/11/seedance_examples_font.png",
-                "cap": "非常に正確で密度の高い小さな文字。| 画像: Bytedance"
+                "x": "2. 映像作家Anurag TiwariによるCharacter Arcは、同じキャラクターの核となる外見を保ったまま、さまざまな年齢や人生の段階を視覚化できる。彼はドキュメンタリー「Children of the Sun」でこれを使っている。"
               },
               {
                 "t": "p",
-                "x": "Bytedanceは、Seedream 5.5がテキスト構造とリアリズムでGPT Image 2.5 Sunburstなどのモデルを上回ると主張する。モデルはJimeng、Doubao、Doubao Work、Volcengine Arkで順次提供されている。Pro版も予定されている。"
+                "x": "3. 同じくAnurag TiwariによるPixel Machineは、画像をビットマップ、ASCII、CRT、ピクセルアート、グリッチのスタイルに変換し、タイトル、トランジション、ミュージックビデオの映像に使えるようにする。"
+              },
+              {
+                "t": "p",
+                "x": "4. アーティストでクリエイティブディレクターのEzra PaulekasによるLucid Glassは、光がガラスを通り抜ける様子を再現し、プリズムやハロー、屈折、光のブルームを生み出す。いわば「不可能なレンズ」だ。"
+              },
+              {
+                "t": "p",
+                "x": "5. 映像作家Ryan McCoyによるPocket Studioは、日常的なスマートフォン映像をより洗練されたショットに変える。単一のテイクから複数のカメラアングルを生成して画質を高めつつ、俳優の元の演技はそのまま保つ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Seedream 5.5\n100轮编辑依然稳定",
-          "body": "ByteDance的Seedream 5.5编辑100轮也不偏色，可输出RGBA。",
-          "mini_headline": "Seedream 5.5稳定编辑",
+          "headline": "Google Flow\n上线五款艺术家共创工具",
+          "body": "Google的AI创作工作室Flow新增五款艺术家打造的工具，从角色一致到光照模拟。",
+          "mini_headline": "Flow新增五款艺术家工具",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Nov_Cohort_Hero_4.width-1300.jpg"
+              },
+              {
                 "t": "p",
-                "x": "Bytedance Seed推出新一代图像生成模型Seedream 5.5，面向专业制作工作流。据Bytedance介绍，改进之一是最多100轮的稳定多轮编辑，未改动的图像区域在像素层面得到保留，也不会出现偏色。新的Flux模型近期也在这方面表现突出。"
+                "x": "Google在其AI创作工作室Google Flow中推出五款新工具，全部由创作者打造，帮助塑造从构思到最终剪辑的故事。"
+              },
+              {
+                "t": "p",
+                "x": "1. Character Poster由艺术家兼电影人James Gerde打造，可将简单的故事构想变成精致、设计精美的视觉作品，并帮助创作者在社交平台的故事中保持标志性风格。"
               },
               {
                 "t": "video",
-                "src": "https://the-decoder.de/wp-content/uploads/2026/11/seedream55.mp4"
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/01_Charater_Poster_-_10.6.26_-_1.mp4"
               },
               {
                 "t": "p",
-                "x": "Seedream 5.5还能生成带透明背景的原生RGBA图像，生成的元素无需手动抠图即可直接用作设计素材。Bytedance表示，该模型对光线、材质和皮肤纹理的呈现更真实，对密集小字的还原也更准确。"
-              },
-              {
-                "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/11/seedance_examples_font.png",
-                "cap": "非常准确、密集的小字。| 图片：Bytedance"
+                "x": "2. Character Arc由电影人Anurag Tiwari打造，能让讲故事的人在不丢失核心外貌的前提下，呈现同一角色在不同年龄和人生阶段的样子。他正将其用于自己的纪录片《Children of the Sun》。"
               },
               {
                 "t": "p",
-                "x": "Bytedance称，Seedream 5.5在文字结构和真实感方面领先GPT Image 2.5 Sunburst等模型。该模型正通过Jimeng、Doubao、Doubao Work和Volcengine Ark逐步上线。Pro版本也在规划中。"
+                "x": "3. Pixel Machine同样出自Anurag Tiwari之手，可将图像转换为位图、ASCII、CRT、像素画和故障风格，用于片名设计、转场和音乐视频画面。"
+              },
+              {
+                "t": "p",
+                "x": "4. Lucid Glass由艺术家兼创意总监Ezra Paulekas打造，重现光线穿过玻璃的效果，生成棱镜、光晕、折射和光学辉光，堪称“不可能的镜头”。"
+              },
+              {
+                "t": "p",
+                "x": "5. Pocket Studio由电影人Ryan McCoy打造，可把日常手机拍摄的素材变成更精致的镜头：从单条镜头生成多个机位角度并提升画质，同时完整保留演员的原始表演。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Seedream 5.5 se mantiene\nestable en 100 ediciones",
-          "body": "Seedream 5.5, de ByteDance, edita hasta 100 rondas sin desviar el color y genera archivos RGBA nativos.",
-          "mini_headline": "Seedream 5.5: ediciones estables",
+          "headline": "Google Flow suma cinco\nherramientas de artistas",
+          "body": "Google añade a Flow, su estudio creativo de AI, cinco herramientas creadas por artistas, de personajes a iluminación.",
+          "mini_headline": "Flow suma cinco herramientas de artistas",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Nov_Cohort_Hero_4.width-1300.jpg"
+              },
+              {
                 "t": "p",
-                "x": "Bytedance Seed presenta Seedream 5.5, un nuevo modelo de generación de imágenes pensado para flujos de producción profesional. Según Bytedance, una de las mejoras es la edición estable en varias rondas, hasta 100, que conserva a nivel de píxel las zonas de la imagen sin cambios y no altera el color. El nuevo modelo Flux también destacó aquí recientemente."
+                "x": "Google lanza cinco nuevas herramientas en Google Flow, su estudio creativo de AI, todas creadas por creativos, para ayudar a dar forma a las historias desde el concepto hasta el montaje final."
+              },
+              {
+                "t": "p",
+                "x": "1. Character Poster, del artista y cineasta James Gerde, convierte conceptos sencillos de historias en piezas visuales pulidas y bien diseñadas, y ayuda a los creadores a mantener un estilo propio en sus historias para redes sociales."
               },
               {
                 "t": "video",
-                "src": "https://the-decoder.de/wp-content/uploads/2026/11/seedream55.mp4"
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/01_Charater_Poster_-_10.6.26_-_1.mp4"
               },
               {
                 "t": "p",
-                "x": "Seedream 5.5 también genera imágenes RGBA nativas con fondo transparente, de modo que los elementos generados sirven directamente como recursos de diseño sin recortes manuales. Bytedance afirma que el modelo representa con más realismo la luz, los materiales y las texturas de la piel, y reproduce con más precisión el texto pequeño y denso."
-              },
-              {
-                "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/11/seedance_examples_font.png",
-                "cap": "Texto pequeño y denso, muy preciso. | Imagen: Bytedance"
+                "x": "2. Character Arc, del cineasta Anurag Tiwari, permite visualizar a un mismo personaje en distintas edades y etapas de la vida sin perder su aspecto esencial. Lo está usando en su documental “Children of the Sun”."
               },
               {
                 "t": "p",
-                "x": "Bytedance asegura que Seedream 5.5 supera a modelos como GPT Image 2.5 Sunburst en estructura de texto y realismo. El modelo se está desplegando de forma gradual en Jimeng, Doubao, Doubao Work y Volcengine Ark. Está prevista una versión Pro."
+                "x": "3. Pixel Machine, también de Anurag Tiwari, convierte imágenes en estilos bitmap, ASCII, CRT, pixel art y glitch para títulos, transiciones y visuales de videoclips."
+              },
+              {
+                "t": "p",
+                "x": "4. Lucid Glass, del artista y director creativo Ezra Paulekas, recrea cómo la luz atraviesa el vidrio y genera prismas, halos, refracciones y destellos ópticos: una \"lente imposible\"."
+              },
+              {
+                "t": "p",
+                "x": "5. Pocket Studio, del cineasta Ryan McCoy, convierte grabaciones cotidianas del teléfono en planos más pulidos: a partir de una sola toma genera varios ángulos de cámara y mejora la calidad visual, sin alterar la interpretación original del actor."
               }
             ]
           }
@@ -199,125 +537,169 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Seedream 5.5\n100회 편집에도 안정적",
-          "body": "ByteDance Seedream 5.5는 100회 편집에도 색이 안 변한다.",
-          "mini_headline": "Seedream 5.5 안정 편집",
+          "headline": "Google Flow에\n작가와 만든 도구 다섯 개",
+          "body": "Google의 AI 스튜디오 Flow에 작가들이 만든 도구 다섯 개가 추가됐다.",
+          "mini_headline": "Flow, 작가 도구 다섯 개 추가",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Nov_Cohort_Hero_4.width-1300.jpg"
+              },
+              {
                 "t": "p",
-                "x": "Bytedance Seed가 전문 제작 워크플로를 겨냥한 새 이미지 생성 모델 Seedream 5.5를 공개했다. Bytedance에 따르면 개선점 중 하나는 최대 100회에 걸친 안정적인 다회차 편집으로, 바뀌지 않은 이미지 영역은 픽셀 단위로 보존되고 색상 변화도 없다. 최근에는 새 Flux 모델도 이 분야에서 주목받았다."
+                "x": "Google이 AI 창작 스튜디오 Google Flow에 새 도구 다섯 개를 공개한다. 모두 크리에이터가 직접 만든 도구로, 구상부터 최종 편집까지 이야기를 빚는 과정을 돕는다."
+              },
+              {
+                "t": "p",
+                "x": "1. 아티스트이자 영화감독인 James Gerde가 만든 Character Poster는 간단한 스토리 콘셉트를 완성도 높고 아름답게 디자인된 비주얼로 바꿔 주며, 크리에이터가 소셜 스토리 전반에서 고유한 스타일을 유지하도록 돕는다."
               },
               {
                 "t": "video",
-                "src": "https://the-decoder.de/wp-content/uploads/2026/11/seedream55.mp4"
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/01_Charater_Poster_-_10.6.26_-_1.mp4"
               },
               {
                 "t": "p",
-                "x": "Seedream 5.5는 투명 배경의 네이티브 RGBA 이미지도 생성해, 만든 요소를 수작업 누끼 없이 바로 디자인 에셋으로 쓸 수 있다. Bytedance는 이 모델이 빛과 재질, 피부 질감을 더 사실적으로 표현하고 작고 촘촘한 글자도 더 정확하게 재현한다고 설명한다."
-              },
-              {
-                "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/11/seedance_examples_font.png",
-                "cap": "매우 정확하고 촘촘한 작은 글자. | 이미지: Bytedance"
+                "x": "2. 영화감독 Anurag Tiwari가 만든 Character Arc는 같은 캐릭터를 핵심 외형을 잃지 않은 채 여러 나이와 인생 단계에 걸쳐 시각화해 준다. 그는 자신의 다큐멘터리 “Children of the Sun”에 이 도구를 쓰고 있다."
               },
               {
                 "t": "p",
-                "x": "Bytedance는 Seedream 5.5가 텍스트 구조와 사실감에서 GPT Image 2.5 Sunburst 같은 모델을 앞선다고 주장한다. 모델은 Jimeng, Doubao, Doubao Work, Volcengine Ark를 통해 순차 배포되고 있다. Pro 버전도 계획돼 있다."
+                "x": "3. 역시 Anurag Tiwari가 만든 Pixel Machine은 이미지를 비트맵, ASCII, CRT, 픽셀 아트, 글리치 스타일로 변환해 타이틀, 트랜지션, 뮤직비디오 비주얼에 쓸 수 있게 한다."
+              },
+              {
+                "t": "p",
+                "x": "4. 아티스트이자 크리에이티브 디렉터인 Ezra Paulekas가 만든 Lucid Glass는 빛이 유리를 통과하는 방식을 재현해 프리즘, 헤일로, 굴절, 광학 블룸을 만들어 낸다. 이른바 \"불가능한 렌즈\"다."
+              },
+              {
+                "t": "p",
+                "x": "5. 영화감독 Ryan McCoy가 만든 Pocket Studio는 일상적인 휴대폰 영상을 더 완성도 높은 샷으로 바꾼다. 한 번의 테이크에서 여러 카메라 앵글을 생성하고 화질을 끌어올리면서도 배우의 원래 연기는 그대로 유지한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Seedream 5.5\n100回の編集でも安定",
-          "body": "ByteDanceのSeedream 5.5は100回の編集でも色ずれしない。",
-          "mini_headline": "Seedream 5.5の安定編集",
+          "headline": "Google Flowに\n作家と作った五つのツール",
+          "body": "GoogleのAI制作スタジオFlowに、アーティストが作った五つのツールが加わった。",
+          "mini_headline": "Flowに作家発のツール五つ",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Nov_Cohort_Hero_4.width-1300.jpg"
+              },
+              {
                 "t": "p",
-                "x": "Bytedance Seedは、プロの制作ワークフロー向けの新しい画像生成モデル「Seedream 5.5」を発表した。Bytedanceによると、改良点の一つは最大100ラウンドにわたる安定したマルチラウンド編集で、変更しない画像領域はピクセル単位で保持され、色ずれも起きない。最近は新しいFluxモデルもこの分野で注目を集めた。"
+                "x": "Googleは、AI制作スタジオのGoogle Flowに新しいツールを五つ公開する。いずれもクリエイターが手がけたもので、構想から最終編集まで物語づくりを支える。"
+              },
+              {
+                "t": "p",
+                "x": "1. アーティストで映像作家のJames GerdeによるCharacter Posterは、シンプルなストーリーのコンセプトを洗練された美しいビジュアルに仕上げ、ソーシャル上のストーリー全体で独自のスタイルを保てるようにする。"
               },
               {
                 "t": "video",
-                "src": "https://the-decoder.de/wp-content/uploads/2026/11/seedream55.mp4"
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/01_Charater_Poster_-_10.6.26_-_1.mp4"
               },
               {
                 "t": "p",
-                "x": "Seedream 5.5は透過背景のネイティブRGBA画像も生成でき、生成した要素を手作業の切り抜きなしでそのままデザイン素材として使える。Bytedanceによれば、光や素材、肌の質感をよりリアルに描き、密集した小さな文字もより正確に再現するという。"
-              },
-              {
-                "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/11/seedance_examples_font.png",
-                "cap": "非常に正確で密度の高い小さな文字。| 画像: Bytedance"
+                "x": "2. 映像作家Anurag TiwariによるCharacter Arcは、同じキャラクターの核となる外見を保ったまま、さまざまな年齢や人生の段階を視覚化できる。彼はドキュメンタリー「Children of the Sun」でこれを使っている。"
               },
               {
                 "t": "p",
-                "x": "Bytedanceは、Seedream 5.5がテキスト構造とリアリズムでGPT Image 2.5 Sunburstなどのモデルを上回ると主張する。モデルはJimeng、Doubao、Doubao Work、Volcengine Arkで順次提供されている。Pro版も予定されている。"
+                "x": "3. 同じくAnurag TiwariによるPixel Machineは、画像をビットマップ、ASCII、CRT、ピクセルアート、グリッチのスタイルに変換し、タイトル、トランジション、ミュージックビデオの映像に使えるようにする。"
+              },
+              {
+                "t": "p",
+                "x": "4. アーティストでクリエイティブディレクターのEzra PaulekasによるLucid Glassは、光がガラスを通り抜ける様子を再現し、プリズムやハロー、屈折、光のブルームを生み出す。いわば「不可能なレンズ」だ。"
+              },
+              {
+                "t": "p",
+                "x": "5. 映像作家Ryan McCoyによるPocket Studioは、日常的なスマートフォン映像をより洗練されたショットに変える。単一のテイクから複数のカメラアングルを生成して画質を高めつつ、俳優の元の演技はそのまま保つ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Seedream 5.5\n100轮编辑依然稳定",
-          "body": "ByteDance的Seedream 5.5编辑100轮也不偏色，可输出RGBA。",
-          "mini_headline": "Seedream 5.5稳定编辑",
+          "headline": "Google Flow\n上线五款艺术家共创工具",
+          "body": "Google的AI创作工作室Flow新增五款艺术家打造的工具，从角色一致到光照模拟。",
+          "mini_headline": "Flow新增五款艺术家工具",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Nov_Cohort_Hero_4.width-1300.jpg"
+              },
+              {
                 "t": "p",
-                "x": "Bytedance Seed推出新一代图像生成模型Seedream 5.5，面向专业制作工作流。据Bytedance介绍，改进之一是最多100轮的稳定多轮编辑，未改动的图像区域在像素层面得到保留，也不会出现偏色。新的Flux模型近期也在这方面表现突出。"
+                "x": "Google在其AI创作工作室Google Flow中推出五款新工具，全部由创作者打造，帮助塑造从构思到最终剪辑的故事。"
+              },
+              {
+                "t": "p",
+                "x": "1. Character Poster由艺术家兼电影人James Gerde打造，可将简单的故事构想变成精致、设计精美的视觉作品，并帮助创作者在社交平台的故事中保持标志性风格。"
               },
               {
                 "t": "video",
-                "src": "https://the-decoder.de/wp-content/uploads/2026/11/seedream55.mp4"
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/01_Charater_Poster_-_10.6.26_-_1.mp4"
               },
               {
                 "t": "p",
-                "x": "Seedream 5.5还能生成带透明背景的原生RGBA图像，生成的元素无需手动抠图即可直接用作设计素材。Bytedance表示，该模型对光线、材质和皮肤纹理的呈现更真实，对密集小字的还原也更准确。"
-              },
-              {
-                "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/11/seedance_examples_font.png",
-                "cap": "非常准确、密集的小字。| 图片：Bytedance"
+                "x": "2. Character Arc由电影人Anurag Tiwari打造，能让讲故事的人在不丢失核心外貌的前提下，呈现同一角色在不同年龄和人生阶段的样子。他正将其用于自己的纪录片《Children of the Sun》。"
               },
               {
                 "t": "p",
-                "x": "Bytedance称，Seedream 5.5在文字结构和真实感方面领先GPT Image 2.5 Sunburst等模型。该模型正通过Jimeng、Doubao、Doubao Work和Volcengine Ark逐步上线。Pro版本也在规划中。"
+                "x": "3. Pixel Machine同样出自Anurag Tiwari之手，可将图像转换为位图、ASCII、CRT、像素画和故障风格，用于片名设计、转场和音乐视频画面。"
+              },
+              {
+                "t": "p",
+                "x": "4. Lucid Glass由艺术家兼创意总监Ezra Paulekas打造，重现光线穿过玻璃的效果，生成棱镜、光晕、折射和光学辉光，堪称“不可能的镜头”。"
+              },
+              {
+                "t": "p",
+                "x": "5. Pocket Studio由电影人Ryan McCoy打造，可把日常手机拍摄的素材变成更精致的镜头：从单条镜头生成多个机位角度并提升画质，同时完整保留演员的原始表演。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Seedream 5.5 se mantiene\nestable en 100 ediciones",
-          "body": "Seedream 5.5, de ByteDance, edita hasta 100 rondas sin desviar el color y genera archivos RGBA nativos.",
-          "mini_headline": "Seedream 5.5: ediciones estables",
+          "headline": "Google Flow suma cinco\nherramientas de artistas",
+          "body": "Google añade a Flow, su estudio creativo de AI, cinco herramientas creadas por artistas, de personajes a iluminación.",
+          "mini_headline": "Flow suma cinco herramientas de artistas",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Nov_Cohort_Hero_4.width-1300.jpg"
+              },
+              {
                 "t": "p",
-                "x": "Bytedance Seed presenta Seedream 5.5, un nuevo modelo de generación de imágenes pensado para flujos de producción profesional. Según Bytedance, una de las mejoras es la edición estable en varias rondas, hasta 100, que conserva a nivel de píxel las zonas de la imagen sin cambios y no altera el color. El nuevo modelo Flux también destacó aquí recientemente."
+                "x": "Google lanza cinco nuevas herramientas en Google Flow, su estudio creativo de AI, todas creadas por creativos, para ayudar a dar forma a las historias desde el concepto hasta el montaje final."
+              },
+              {
+                "t": "p",
+                "x": "1. Character Poster, del artista y cineasta James Gerde, convierte conceptos sencillos de historias en piezas visuales pulidas y bien diseñadas, y ayuda a los creadores a mantener un estilo propio en sus historias para redes sociales."
               },
               {
                 "t": "video",
-                "src": "https://the-decoder.de/wp-content/uploads/2026/11/seedream55.mp4"
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/01_Charater_Poster_-_10.6.26_-_1.mp4"
               },
               {
                 "t": "p",
-                "x": "Seedream 5.5 también genera imágenes RGBA nativas con fondo transparente, de modo que los elementos generados sirven directamente como recursos de diseño sin recortes manuales. Bytedance afirma que el modelo representa con más realismo la luz, los materiales y las texturas de la piel, y reproduce con más precisión el texto pequeño y denso."
-              },
-              {
-                "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/11/seedance_examples_font.png",
-                "cap": "Texto pequeño y denso, muy preciso. | Imagen: Bytedance"
+                "x": "2. Character Arc, del cineasta Anurag Tiwari, permite visualizar a un mismo personaje en distintas edades y etapas de la vida sin perder su aspecto esencial. Lo está usando en su documental “Children of the Sun”."
               },
               {
                 "t": "p",
-                "x": "Bytedance asegura que Seedream 5.5 supera a modelos como GPT Image 2.5 Sunburst en estructura de texto y realismo. El modelo se está desplegando de forma gradual en Jimeng, Doubao, Doubao Work y Volcengine Ark. Está prevista una versión Pro."
+                "x": "3. Pixel Machine, también de Anurag Tiwari, convierte imágenes en estilos bitmap, ASCII, CRT, pixel art y glitch para títulos, transiciones y visuales de videoclips."
+              },
+              {
+                "t": "p",
+                "x": "4. Lucid Glass, del artista y director creativo Ezra Paulekas, recrea cómo la luz atraviesa el vidrio y genera prismas, halos, refracciones y destellos ópticos: una \"lente imposible\"."
+              },
+              {
+                "t": "p",
+                "x": "5. Pocket Studio, del cineasta Ryan McCoy, convierte grabaciones cotidianas del teléfono en planos más pulidos: a partir de una sola toma genera varios ángulos de cámara y mejora la calidad visual, sin alterar la interpretación original del actor."
               }
             ]
           }
@@ -325,719 +707,15 @@
       }
     },
     {
-      "id": "artstation-ai-art-policy",
-      "source_lang": "en",
+      "id": "kt-kds2-design-system",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "AI-generated에\nArtStation 새 룰",
-      "body": "ArtStation이 AI 사용 여부를 신고받고 AI 작품은 기본으로 가린다.",
-      "mini_headline": "ArtStation의 AI 아트 규칙",
-      "tool": "AI Workflow",
-      "source": "Creative Bloq",
-      "url": "https://www.creativebloq.com/news/is-artstations-new-ai-art-policy-good-enough",
-      "accent": "#ff5a4d",
-      "motif": "frame",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "KitBash는 ArtStation을 인수하며 AI 콘텐츠가 넘쳐날까 걱정하는 사용자들에게 대책을 약속했다. 9월에는 업로드에 'NoAI'를 기본으로 켰다. 이번 업데이트로 생성형 AI 콘텐츠 관리에 나서면서 AI 사용 신고는 더 자세해졌고 필터링 제어도 더 세밀해졌다. 아티스트 반응은 아직 엇갈린다."
-          },
-          {
-            "t": "p",
-            "x": "이제 게시할 때 생성형 AI를 썼는지 신고해야 한다. 선택지는 '주로 생성형 AI', '생성형 AI와 비생성 방식 혼합', '100% 비생성'이다. AI-generated로 보이는데 표시가 없는 작품은 별도 채널로 제보하면 된다. ArtStation은 제보 하나하나가 AI 필터링을 다듬는 데 쓰인다고 밝혔다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/9wsbfUqLD4Ez98e9dWE9wn-1200-80.jpg",
-            "cap": "(이미지 출처: ArtStation)"
-          },
-          {
-            "t": "p",
-            "x": "사용자는 생성형 AI로 신고된 콘텐츠를 숨길 수 있고 제보 기반 필터링 강도도 'Strict', 'Balanced', 'Loose' 가운데 고른다. 기본 설정에서는 AI-generated로 신고됐거나 'CreatedwithAI' 태그가 달린 프로젝트가 가려지고, AI 의심 작품에는 strict가 적용된다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/A4CeER4pysFPNYhTJpJ64o-1200-80.jpg",
-            "cap": "(이미지 출처: ArtStation)"
-          },
-          {
-            "t": "p",
-            "x": "사용자 신고에 기대는 구조라 빠져나가는 AI 작품이 있을 수 있다. 'Strict' 필터링은 AI로 잘못 판정된 작품까지 지울 위험이 있다. 아티스트가 판정에 이의를 제기할 길이 있는지도 아직 분명하지 않다. 컨셉 아트에서 생성형 AI를 피할 수 없는 흐름으로 보는 시각도 있어, KitBash는 금지가 불가능하진 않더라도 역효과가 난다고 판단한 듯하다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "ArtStation sets new rules\nfor AI-generated art",
-          "body": "ArtStation now asks creators to declare AI use, adds AI reporting and filters AI art by default, to mixed reactions.",
-          "mini_headline": "ArtStation's AI art rules",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "When KitBash bought ArtStation, it pledged to address users' concerns about the flood of AI content. In September it turned on 'NoAI' for uploads by default. Now a new update introduces an attempt to police generative AI content along with more complete AI declarations and more control over filtering — with a mixed response from artists so far."
-              },
-              {
-                "t": "p",
-                "x": "When publishing, users will now be asked to declare whether generative AI was used: primarily generative AI, mixed generative AI and non-generative methods, or 100% non-generative. A dedicated channel lets users report artwork they think is AI-generated but isn't labelled; ArtStation says every report will help improve its AI filtering."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/9wsbfUqLD4Ez98e9dWE9wn-1200-80.jpg",
-                "cap": "(Image credit: ArtStation)"
-              },
-              {
-                "t": "p",
-                "x": "Users can hide declared generative AI content and choose how aggressively reports filter work: 'Strict', 'Balanced' or 'Loose'. By default, projects declared as AI-generated or tagged with 'CreatedwithAI' are hidden, and suspected AI is set to strict."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/A4CeER4pysFPNYhTJpJ64o-1200-80.jpg",
-                "cap": "(Image credit: ArtStation)"
-              },
-              {
-                "t": "p",
-                "x": "The reliance on user moderation means some AI work may go undetected while 'Strict' filtering could remove work falsely identified as AI, and it's not yet clear if artists can contest a flag. With generative AI seen by some as inevitable in concept art, KitBash probably sees banning it as counterproductive if not impossible."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "AI-generated에\nArtStation 새 룰",
-          "body": "ArtStation이 AI 사용 여부를 신고받고 AI 작품은 기본으로 가린다.",
-          "mini_headline": "ArtStation의 AI 아트 규칙",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "KitBash는 ArtStation을 인수하며 AI 콘텐츠가 넘쳐날까 걱정하는 사용자들에게 대책을 약속했다. 9월에는 업로드에 'NoAI'를 기본으로 켰다. 이번 업데이트로 생성형 AI 콘텐츠 관리에 나서면서 AI 사용 신고는 더 자세해졌고 필터링 제어도 더 세밀해졌다. 아티스트 반응은 아직 엇갈린다."
-              },
-              {
-                "t": "p",
-                "x": "이제 게시할 때 생성형 AI를 썼는지 신고해야 한다. 선택지는 '주로 생성형 AI', '생성형 AI와 비생성 방식 혼합', '100% 비생성'이다. AI-generated로 보이는데 표시가 없는 작품은 별도 채널로 제보하면 된다. ArtStation은 제보 하나하나가 AI 필터링을 다듬는 데 쓰인다고 밝혔다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/9wsbfUqLD4Ez98e9dWE9wn-1200-80.jpg",
-                "cap": "(이미지 출처: ArtStation)"
-              },
-              {
-                "t": "p",
-                "x": "사용자는 생성형 AI로 신고된 콘텐츠를 숨길 수 있고 제보 기반 필터링 강도도 'Strict', 'Balanced', 'Loose' 가운데 고른다. 기본 설정에서는 AI-generated로 신고됐거나 'CreatedwithAI' 태그가 달린 프로젝트가 가려지고, AI 의심 작품에는 strict가 적용된다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/A4CeER4pysFPNYhTJpJ64o-1200-80.jpg",
-                "cap": "(이미지 출처: ArtStation)"
-              },
-              {
-                "t": "p",
-                "x": "사용자 신고에 기대는 구조라 빠져나가는 AI 작품이 있을 수 있다. 'Strict' 필터링은 AI로 잘못 판정된 작품까지 지울 위험이 있다. 아티스트가 판정에 이의를 제기할 길이 있는지도 아직 분명하지 않다. 컨셉 아트에서 생성형 AI를 피할 수 없는 흐름으로 보는 시각도 있어, KitBash는 금지가 불가능하진 않더라도 역효과가 난다고 판단한 듯하다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AI-generatedに\nArtStation新ルール",
-          "body": "ArtStationはAI使用の申告を求め、AI作品を初期設定で非表示にする。",
-          "mini_headline": "ArtStationのAIアート規則",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "KitBashはArtStationを買収した際、AIコンテンツの氾濫に対するユーザーの懸念に対処すると約束した。9月にはアップロード時の「NoAI」を初期設定でオンにした。今回のアップデートでは、生成AIコンテンツを取り締まる試みに加え、より詳細なAI申告とフィルタリングの細かな制御を導入したが、アーティストの反応はいまのところ分かれている。"
-              },
-              {
-                "t": "p",
-                "x": "投稿時には、生成AIを使ったかどうかの申告が求められる。選択肢は「主に生成AI」「生成AIと非生成的手法の併用」「100%非生成」だ。専用チャンネルでは、AI-generatedと思われるのに表示のない作品を報告でき、ArtStationはすべての報告がAIフィルタリングの改善に役立つとしている。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/9wsbfUqLD4Ez98e9dWE9wn-1200-80.jpg",
-                "cap": "(画像クレジット: ArtStation)"
-              },
-              {
-                "t": "p",
-                "x": "ユーザーは申告済みの生成AIコンテンツを非表示にでき、報告に基づくフィルタリングの強さを「Strict」「Balanced」「Loose」から選べる。初期設定では、AI-generatedと申告されたか「CreatedwithAI」タグの付いたプロジェクトは非表示になり、AIの疑いがある作品はstrictに設定される。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/A4CeER4pysFPNYhTJpJ64o-1200-80.jpg",
-                "cap": "(画像クレジット: ArtStation)"
-              },
-              {
-                "t": "p",
-                "x": "ユーザーによるモデレーションに頼るため、検出を逃れるAI作品もありうる一方、「Strict」フィルタリングではAIと誤判定された作品が消される可能性もある。アーティストが判定に異議を申し立てられるかもまだ明らかでない。コンセプトアートでは生成AIは避けられないと見る向きもあり、KitBashは禁止を不可能とまでは言わずとも逆効果と考えているのだろう。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "ArtStation出新规\n针对AI-generated",
-          "body": "ArtStation要求创作者申报AI使用，并默认屏蔽AI作品，反响不一。",
-          "mini_headline": "ArtStation的AI艺术规则",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "KitBash收购ArtStation时承诺，将回应用户对AI内容泛滥的担忧。9月，它将上传作品的“NoAI”设为默认开启。如今，一次新更新尝试管控生成式AI内容，同时推出更完整的AI声明和更多过滤控制，但艺术家们目前反应不一。"
-              },
-              {
-                "t": "p",
-                "x": "现在发布作品时，用户需要声明是否使用了生成式AI：主要为生成式AI、生成式AI与非生成方法混合，或100%非生成。用户还可通过专门渠道举报疑似AI-generated却未标注的作品；ArtStation表示，每一份举报都将帮助改进其AI过滤。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/9wsbfUqLD4Ez98e9dWE9wn-1200-80.jpg",
-                "cap": "（图片来源：ArtStation）"
-              },
-              {
-                "t": "p",
-                "x": "用户可以隐藏已声明的生成式AI内容，并选择举报过滤的力度：“Strict”“Balanced”或“Loose”。默认情况下，声明为AI-generated或带有“CreatedwithAI”标签的项目会被隐藏，疑似AI作品的过滤设为strict。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/A4CeER4pysFPNYhTJpJ64o-1200-80.jpg",
-                "cap": "（图片来源：ArtStation）"
-              },
-              {
-                "t": "p",
-                "x": "依赖用户审核意味着部分AI作品可能漏网，而“Strict”过滤又可能删除被误判为AI的作品，目前也不清楚艺术家能否对标记提出申诉。有人认为生成式AI在概念艺术中不可避免，因此KitBash或许认为禁止它即便并非不可能，也会适得其反。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "ArtStation fija nuevas reglas\npara el arte «AI-generated»",
-          "body": "ArtStation pide declarar el uso de IA, añade denuncias y filtra el arte con IA por defecto, con reacciones divididas.",
-          "mini_headline": "Las reglas de ArtStation para el arte con IA",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Cuando KitBash compró ArtStation, se comprometió a atender la preocupación de los usuarios por la avalancha de contenido de IA. En septiembre activó por defecto 'NoAI' en las subidas. Ahora, una nueva actualización intenta controlar el contenido de IA generativa e incorpora declaraciones de IA más completas y más control sobre el filtrado, con una respuesta dividida entre los artistas hasta el momento."
-              },
-              {
-                "t": "p",
-                "x": "Al publicar, se pedirá a los usuarios que declaren si usaron IA generativa: principalmente IA generativa, una mezcla de IA generativa y métodos no generativos, o 100% no generativo. Un canal específico permite denunciar obras que parezcan AI-generated pero no estén etiquetadas; ArtStation afirma que cada denuncia ayudará a mejorar su filtrado de IA."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/9wsbfUqLD4Ez98e9dWE9wn-1200-80.jpg",
-                "cap": "(Crédito de imagen: ArtStation)"
-              },
-              {
-                "t": "p",
-                "x": "Los usuarios pueden ocultar el contenido declarado como IA generativa y elegir con qué intensidad las denuncias filtran las obras: 'Strict', 'Balanced' o 'Loose'. Por defecto se ocultan los proyectos declarados como AI-generated o etiquetados con 'CreatedwithAI', y la IA sospechosa se fija en strict."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/A4CeER4pysFPNYhTJpJ64o-1200-80.jpg",
-                "cap": "(Crédito de imagen: ArtStation)"
-              },
-              {
-                "t": "p",
-                "x": "Depender de la moderación de los usuarios implica que parte de la obra con IA puede pasar inadvertida, mientras que el filtrado 'Strict' podría eliminar trabajos identificados por error como IA, y aún no está claro si los artistas pueden impugnar una marca. Como algunos consideran inevitable la IA generativa en el arte conceptual, KitBash probablemente ve su prohibición como contraproducente, si no imposible."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "AI-generated에\nArtStation 새 룰",
-          "body": "ArtStation이 AI 사용 신고를 받고 AI 작품을 기본으로 가린다.",
-          "mini_headline": "ArtStation의 AI 아트 규칙",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "KitBash는 ArtStation을 인수하면서 AI 콘텐츠 범람에 대한 사용자 우려에 대응하겠다고 약속했다. 9월에는 업로드에 'NoAI'를 기본으로 켰다. 이번 업데이트는 생성형 AI 콘텐츠를 관리하려는 시도와 함께 더 상세한 AI 사용 신고와 더 세밀한 필터링 제어를 도입했는데, 아티스트들의 반응은 아직 엇갈린다."
-              },
-              {
-                "t": "p",
-                "x": "이제 게시할 때 생성형 AI 사용 여부를 신고해야 한다. 선택지는 '주로 생성형 AI', '생성형 AI와 비생성 방식 혼합', '100% 비생성'이다. 별도 채널로 AI-generated로 보이는데 표시되지 않은 작품을 제보할 수 있으며, ArtStation은 모든 제보가 AI 필터링 개선에 도움이 된다고 밝혔다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/9wsbfUqLD4Ez98e9dWE9wn-1200-80.jpg",
-                "cap": "(이미지 출처: ArtStation)"
-              },
-              {
-                "t": "p",
-                "x": "사용자는 생성형 AI로 신고된 콘텐츠를 숨기고, 제보에 따른 필터링 강도를 'Strict', 'Balanced', 'Loose' 중에서 고를 수 있다. 기본값으로는 AI-generated로 신고됐거나 'CreatedwithAI' 태그가 붙은 프로젝트가 숨겨지고, AI 의심 작품은 strict로 설정된다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/A4CeER4pysFPNYhTJpJ64o-1200-80.jpg",
-                "cap": "(이미지 출처: ArtStation)"
-              },
-              {
-                "t": "p",
-                "x": "사용자 신고에 기대는 만큼 일부 AI 작품은 걸러지지 않을 수 있고, 'Strict' 필터링은 AI로 잘못 판정된 작품까지 지울 수 있다. 아티스트가 판정에 이의를 제기할 수 있는지도 아직 분명하지 않다. 컨셉 아트에서 생성형 AI를 피할 수 없는 흐름으로 보는 시각도 있는 만큼, KitBash는 금지가 불가능하지는 않더라도 역효과를 낳는다고 보는 듯하다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AI-generatedに\nArtStation新ルール",
-          "body": "ArtStationはAI使用の申告を求め、AI作品を初期設定で非表示にする。",
-          "mini_headline": "ArtStationのAIアート規則",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "KitBashはArtStationを買収した際、AIコンテンツの氾濫に対するユーザーの懸念に対処すると約束した。9月にはアップロード時の「NoAI」を初期設定でオンにした。今回のアップデートでは、生成AIコンテンツを取り締まる試みに加え、より詳細なAI申告とフィルタリングの細かな制御を導入したが、アーティストの反応はいまのところ分かれている。"
-              },
-              {
-                "t": "p",
-                "x": "投稿時には、生成AIを使ったかどうかの申告が求められる。選択肢は「主に生成AI」「生成AIと非生成的手法の併用」「100%非生成」だ。専用チャンネルでは、AI-generatedと思われるのに表示のない作品を報告でき、ArtStationはすべての報告がAIフィルタリングの改善に役立つとしている。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/9wsbfUqLD4Ez98e9dWE9wn-1200-80.jpg",
-                "cap": "(画像クレジット: ArtStation)"
-              },
-              {
-                "t": "p",
-                "x": "ユーザーは申告済みの生成AIコンテンツを非表示にでき、報告に基づくフィルタリングの強さを「Strict」「Balanced」「Loose」から選べる。初期設定では、AI-generatedと申告されたか「CreatedwithAI」タグの付いたプロジェクトは非表示になり、AIの疑いがある作品はstrictに設定される。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/A4CeER4pysFPNYhTJpJ64o-1200-80.jpg",
-                "cap": "(画像クレジット: ArtStation)"
-              },
-              {
-                "t": "p",
-                "x": "ユーザーによるモデレーションに頼るため、検出を逃れるAI作品もありうる一方、「Strict」フィルタリングではAIと誤判定された作品が消される可能性もある。アーティストが判定に異議を申し立てられるかもまだ明らかでない。コンセプトアートでは生成AIは避けられないと見る向きもあり、KitBashは禁止を不可能とまでは言わずとも逆効果と考えているのだろう。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "ArtStation出新规\n针对AI-generated",
-          "body": "ArtStation要求创作者申报AI使用，并默认屏蔽AI作品，反响不一。",
-          "mini_headline": "ArtStation的AI艺术规则",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "KitBash收购ArtStation时承诺，将回应用户对AI内容泛滥的担忧。9月，它将上传作品的“NoAI”设为默认开启。如今，一次新更新尝试管控生成式AI内容，同时推出更完整的AI声明和更多过滤控制，但艺术家们目前反应不一。"
-              },
-              {
-                "t": "p",
-                "x": "现在发布作品时，用户需要声明是否使用了生成式AI：主要为生成式AI、生成式AI与非生成方法混合，或100%非生成。用户还可通过专门渠道举报疑似AI-generated却未标注的作品；ArtStation表示，每一份举报都将帮助改进其AI过滤。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/9wsbfUqLD4Ez98e9dWE9wn-1200-80.jpg",
-                "cap": "（图片来源：ArtStation）"
-              },
-              {
-                "t": "p",
-                "x": "用户可以隐藏已声明的生成式AI内容，并选择举报过滤的力度：“Strict”“Balanced”或“Loose”。默认情况下，声明为AI-generated或带有“CreatedwithAI”标签的项目会被隐藏，疑似AI作品的过滤设为strict。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/A4CeER4pysFPNYhTJpJ64o-1200-80.jpg",
-                "cap": "（图片来源：ArtStation）"
-              },
-              {
-                "t": "p",
-                "x": "依赖用户审核意味着部分AI作品可能漏网，而“Strict”过滤又可能删除被误判为AI的作品，目前也不清楚艺术家能否对标记提出申诉。有人认为生成式AI在概念艺术中不可避免，因此KitBash或许认为禁止它即便并非不可能，也会适得其反。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "ArtStation fija nuevas reglas\npara el arte «AI-generated»",
-          "body": "ArtStation pide declarar el uso de IA, añade denuncias y filtra el arte con IA por defecto, con reacciones divididas.",
-          "mini_headline": "Las reglas de ArtStation para el arte con IA",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Cuando KitBash compró ArtStation, se comprometió a atender la preocupación de los usuarios por la avalancha de contenido de IA. En septiembre activó por defecto 'NoAI' en las subidas. Ahora, una nueva actualización intenta controlar el contenido de IA generativa e incorpora declaraciones de IA más completas y más control sobre el filtrado, con una respuesta dividida entre los artistas hasta el momento."
-              },
-              {
-                "t": "p",
-                "x": "Al publicar, se pedirá a los usuarios que declaren si usaron IA generativa: principalmente IA generativa, una mezcla de IA generativa y métodos no generativos, o 100% no generativo. Un canal específico permite denunciar obras que parezcan AI-generated pero no estén etiquetadas; ArtStation afirma que cada denuncia ayudará a mejorar su filtrado de IA."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/9wsbfUqLD4Ez98e9dWE9wn-1200-80.jpg",
-                "cap": "(Crédito de imagen: ArtStation)"
-              },
-              {
-                "t": "p",
-                "x": "Los usuarios pueden ocultar el contenido declarado como IA generativa y elegir con qué intensidad las denuncias filtran las obras: 'Strict', 'Balanced' o 'Loose'. Por defecto se ocultan los proyectos declarados como AI-generated o etiquetados con 'CreatedwithAI', y la IA sospechosa se fija en strict."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/A4CeER4pysFPNYhTJpJ64o-1200-80.jpg",
-                "cap": "(Crédito de imagen: ArtStation)"
-              },
-              {
-                "t": "p",
-                "x": "Depender de la moderación de los usuarios implica que parte de la obra con IA puede pasar inadvertida, mientras que el filtrado 'Strict' podría eliminar trabajos identificados por error como IA, y aún no está claro si los artistas pueden impugnar una marca. Como algunos consideran inevitable la IA generativa en el arte conceptual, KitBash probablemente ve su prohibición como contraproducente, si no imposible."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "siemens-hyperlynx-agents",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "HyperLynx 검증에\nAI 에이전트 도입",
-      "body": "HyperLynx에서 엔지니어가 SerDes·DDR 분석을 자연어로 돌린다.",
-      "mini_headline": "Siemens HyperLynx 에이전트",
-      "tool": "Text-to-CAD",
-      "source": "Engineering.com",
-      "url": "https://www.engineering.com/siemens-adds-agentic-ai-to-hyperlynx-verification-workflows/",
-      "accent": "#7928ca",
-      "motif": "cube",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "Siemens가 에이전틱 AI 솔루션 HyperLynx Agentic Toolkit을 발표했다. 전자 시스템 엔지니어의 검증 워크플로를 자동화하며 시뮬레이션 결과 검토와 설계 의사결정을 거든다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.engineering.com/wp-content/uploads/2026/11/Fig-1-Siemens-adds-agentic-AI-to-HyperLynx-verification-workflows.avif",
-            "cap": "HyperLynx Agentic Toolkit에서 컴플라이언스 아이 마스크를 적용해 돌린 DDR5 시뮬레이션"
-          },
-          {
-            "t": "p",
-            "x": "시스템 속도가 112G와 224G로 오르면서 마진은 좁아졌다. 출시 일정은 빠듯하고 숙련된 검증 엔지니어는 모자라, 신호 무결성 문제가 설계 후반까지 밀리기 일쑤다. HyperLynx 위에 만든 이 툴킷은 도메인 특화 AI 에이전트에 물리 기반 신호·전력 무결성(SI/PI) 시뮬레이션을 묶었다. 엔지니어가 자연어로 검증 목표를 정하면 오케스트레이션 에이전트가 SerDes, DDR, 신호 무결성, 전력 무결성 분석을 맡은 전문 에이전트들을 조율한다. 이들이 시뮬레이션을 돌리고 파라미터를 뽑고 결과를 검토한 뒤 성능을 설계 마진과 비교한다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.engineering.com/wp-content/uploads/2026/11/Fig-2-Siemens-adds-agentic-AI-to-HyperLynx-verification-workflows.avif",
-            "cap": "PAM4 신호를 쓰는 두 설계안의 아이 높이 대 아이 폭 산점도"
-          },
-          {
-            "t": "p",
-            "x": "Questa One Agentic Toolkit의 뒤를 잇는 제품으로, Fuse EDA AI Agent와 Intelligence Center X 위에서 돌아간다. 2026년 4분기 일부 고객에게 얼리 액세스로 먼저 제공된 뒤 정식 출시된다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Siemens brings AI agents\nto HyperLynx verification",
-          "body": "Siemens' agentic toolkit lets engineers run SerDes, DDR and SI/PI analysis in HyperLynx via natural-language prompts.",
-          "mini_headline": "Siemens HyperLynx agents",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Siemens has announced the HyperLynx Agentic Toolkit, an agentic AI solution designed to help electronic systems engineers automate verification workflows, review simulation results and support design decisions."
-              },
-              {
-                "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/11/Fig-1-Siemens-adds-agentic-AI-to-HyperLynx-verification-workflows.avif",
-                "cap": "HyperLynx Agentic Toolkit showing DDR5 simulation with compliance eye mask"
-              },
-              {
-                "t": "p",
-                "x": "As system speeds move into 112G and 224G, tighter margins, time-to-market pressure and a shortage of senior verification engineers can push signal integrity issues late into the design cycle. Built on HyperLynx, the toolkit combines domain-specific AI agents with physics-based signal and power integrity simulation. Engineers define verification goals in natural language while an orchestration agent coordinates specialized agents for SerDes, DDR, signal integrity and power integrity analysis, running simulations, extracting parameters, reviewing results and comparing performance against design margins."
-              },
-              {
-                "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/11/Fig-2-Siemens-adds-agentic-AI-to-HyperLynx-verification-workflows.avif",
-                "cap": "Scatter plot of eye height vs. eye width for two design alternatives with PAM4 signaling"
-              },
-              {
-                "t": "p",
-                "x": "The toolkit follows the Questa One Agentic Toolkit and builds on Fuse EDA AI Agent and Intelligence Center X. It is planned for early access with select customers in the fourth quarter of 2026, followed by general availability."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "HyperLynx 검증에\nAI 에이전트 도입",
-          "body": "HyperLynx에서 엔지니어가 SerDes·DDR 분석을 자연어로 돌린다.",
-          "mini_headline": "Siemens HyperLynx 에이전트",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Siemens가 에이전틱 AI 솔루션 HyperLynx Agentic Toolkit을 발표했다. 전자 시스템 엔지니어의 검증 워크플로를 자동화하며 시뮬레이션 결과 검토와 설계 의사결정을 거든다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/11/Fig-1-Siemens-adds-agentic-AI-to-HyperLynx-verification-workflows.avif",
-                "cap": "HyperLynx Agentic Toolkit에서 컴플라이언스 아이 마스크를 적용해 돌린 DDR5 시뮬레이션"
-              },
-              {
-                "t": "p",
-                "x": "시스템 속도가 112G와 224G로 오르면서 마진은 좁아졌다. 출시 일정은 빠듯하고 숙련된 검증 엔지니어는 모자라, 신호 무결성 문제가 설계 후반까지 밀리기 일쑤다. HyperLynx 위에 만든 이 툴킷은 도메인 특화 AI 에이전트에 물리 기반 신호·전력 무결성(SI/PI) 시뮬레이션을 묶었다. 엔지니어가 자연어로 검증 목표를 정하면 오케스트레이션 에이전트가 SerDes, DDR, 신호 무결성, 전력 무결성 분석을 맡은 전문 에이전트들을 조율한다. 이들이 시뮬레이션을 돌리고 파라미터를 뽑고 결과를 검토한 뒤 성능을 설계 마진과 비교한다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/11/Fig-2-Siemens-adds-agentic-AI-to-HyperLynx-verification-workflows.avif",
-                "cap": "PAM4 신호를 쓰는 두 설계안의 아이 높이 대 아이 폭 산점도"
-              },
-              {
-                "t": "p",
-                "x": "Questa One Agentic Toolkit의 뒤를 잇는 제품으로, Fuse EDA AI Agent와 Intelligence Center X 위에서 돌아간다. 2026년 4분기 일부 고객에게 얼리 액세스로 먼저 제공된 뒤 정식 출시된다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "HyperLynxの検証に\nAIエージェント導入",
-          "body": "HyperLynxでSerDesやDDR、SI/PI解析を自然言語で実行できる。",
-          "mini_headline": "Siemens HyperLynxエージェント",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Siemensは、電子システムエンジニアの検証ワークフロー自動化、シミュレーション結果のレビュー、設計判断を支援するエージェント型AIソリューション「HyperLynx Agentic Toolkit」を発表した。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/11/Fig-1-Siemens-adds-agentic-AI-to-HyperLynx-verification-workflows.avif",
-                "cap": "コンプライアンス・アイマスクを用いたDDR5シミュレーションを表示するHyperLynx Agentic Toolkit"
-              },
-              {
-                "t": "p",
-                "x": "システム速度が112Gや224Gへ移るにつれ、マージンの縮小、市場投入までの時間的圧力、熟練検証エンジニアの不足により、シグナルインテグリティの問題が設計サイクルの終盤まで持ち越されやすい。HyperLynxを基盤とするこのツールキットは、ドメイン特化型AIエージェントと物理ベースのシグナル/パワーインテグリティ(SI/PI)シミュレーションを組み合わせる。エンジニアが自然言語で検証目標を定めると、オーケストレーションエージェントがSerDes、DDR、シグナルインテグリティ、パワーインテグリティ解析の専門エージェントを統括し、シミュレーションの実行、パラメータ抽出、結果のレビュー、設計マージンに対する性能比較を行う。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/11/Fig-2-Siemens-adds-agentic-AI-to-HyperLynx-verification-workflows.avif",
-                "cap": "PAM4信号を用いた2つの設計案におけるアイ高さとアイ幅の散布図"
-              },
-              {
-                "t": "p",
-                "x": "このツールキットはQuesta One Agentic Toolkitに続くもので、Fuse EDA AI AgentとIntelligence Center Xを基盤とする。2026年第4四半期に一部顧客向けのアーリーアクセスを始め、その後一般提供する予定だ。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Siemens引入AI智能体\n用于HyperLynx验证",
-          "body": "工程师可用自然语言在HyperLynx中运行SerDes、DDR和SI/PI分析。",
-          "mini_headline": "Siemens HyperLynx智能体",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Siemens发布了HyperLynx Agentic Toolkit，这是一款智能体AI解决方案，旨在帮助电子系统工程师自动化验证工作流、审查仿真结果并辅助设计决策。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/11/Fig-1-Siemens-adds-agentic-AI-to-HyperLynx-verification-workflows.avif",
-                "cap": "HyperLynx Agentic Toolkit展示带合规眼图模板的DDR5仿真"
-              },
-              {
-                "t": "p",
-                "x": "随着系统速率迈向112G和224G，余量收紧、上市时间压力以及资深验证工程师短缺，可能让信号完整性问题拖到设计周期后期。该工具包基于HyperLynx构建，将领域专用AI智能体与基于物理的信号完整性和电源完整性（SI/PI）仿真相结合。工程师用自然语言定义验证目标，编排智能体则协调负责SerDes、DDR、信号完整性和电源完整性分析的专用智能体，执行仿真、提取参数、审查结果，并将性能与设计余量进行比较。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/11/Fig-2-Siemens-adds-agentic-AI-to-HyperLynx-verification-workflows.avif",
-                "cap": "采用PAM4信令的两种设计方案的眼高与眼宽散点图"
-              },
-              {
-                "t": "p",
-                "x": "该工具包继Questa One Agentic Toolkit之后推出，并以Fuse EDA AI Agent和Intelligence Center X为基础。计划于2026年第四季度向部分客户开放早期试用，随后全面上市。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Siemens lleva agentes de IA\na la verificación en HyperLynx",
-          "body": "El kit agéntico de Siemens permite ejecutar análisis SerDes, DDR y SI/PI en HyperLynx mediante lenguaje natural.",
-          "mini_headline": "Agentes de Siemens en HyperLynx",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Siemens ha anunciado HyperLynx Agentic Toolkit, una solución de IA agéntica pensada para ayudar a los ingenieros de sistemas electrónicos a automatizar flujos de verificación, revisar resultados de simulación y apoyar decisiones de diseño."
-              },
-              {
-                "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/11/Fig-1-Siemens-adds-agentic-AI-to-HyperLynx-verification-workflows.avif",
-                "cap": "HyperLynx Agentic Toolkit muestra una simulación DDR5 con máscara de ojo de cumplimiento"
-              },
-              {
-                "t": "p",
-                "x": "A medida que las velocidades de los sistemas pasan a 112G y 224G, los márgenes más estrechos, la presión por llegar al mercado y la escasez de ingenieros de verificación sénior pueden retrasar los problemas de integridad de señal hasta el final del ciclo de diseño. Basado en HyperLynx, el kit combina agentes de IA específicos del dominio con simulación de integridad de señal y de alimentación (SI/PI) basada en la física. Los ingenieros definen los objetivos de verificación en lenguaje natural, mientras un agente orquestador coordina agentes especializados en análisis SerDes, DDR, de integridad de señal y de integridad de alimentación, que ejecutan simulaciones, extraen parámetros, revisan resultados y comparan el rendimiento con los márgenes de diseño."
-              },
-              {
-                "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/11/Fig-2-Siemens-adds-agentic-AI-to-HyperLynx-verification-workflows.avif",
-                "cap": "Gráfico de dispersión de altura frente a anchura de ojo para dos alternativas de diseño con señalización PAM4"
-              },
-              {
-                "t": "p",
-                "x": "El kit sigue a Questa One Agentic Toolkit y se apoya en Fuse EDA AI Agent e Intelligence Center X. Está previsto un acceso anticipado para clientes seleccionados en el cuarto trimestre de 2026, seguido de la disponibilidad general."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "HyperLynx 검증에\nAI 에이전트 도입",
-          "body": "엔지니어는 HyperLynx에서 SerDes·DDR 분석을 자연어로 실행한다.",
-          "mini_headline": "Siemens HyperLynx 에이전트",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Siemens가 전자 시스템 엔지니어의 검증 워크플로 자동화, 시뮬레이션 결과 검토, 설계 의사결정을 돕는 에이전틱 AI 솔루션 HyperLynx Agentic Toolkit을 발표했다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/11/Fig-1-Siemens-adds-agentic-AI-to-HyperLynx-verification-workflows.avif",
-                "cap": "컴플라이언스 아이 마스크를 적용한 DDR5 시뮬레이션을 보여주는 HyperLynx Agentic Toolkit"
-              },
-              {
-                "t": "p",
-                "x": "시스템 속도가 112G와 224G로 올라가면서 좁아진 마진, 출시 일정 압박, 숙련 검증 엔지니어 부족 탓에 신호 무결성 문제가 설계 후반으로 밀리기 쉽다. HyperLynx 기반의 이 툴킷은 도메인 특화 AI 에이전트와 물리 기반 신호·전력 무결성(SI/PI) 시뮬레이션을 결합한다. 엔지니어가 자연어로 검증 목표를 정하면 오케스트레이션 에이전트가 SerDes, DDR, 신호 무결성, 전력 무결성 분석을 맡은 전문 에이전트들을 조율해 시뮬레이션 실행, 파라미터 추출, 결과 검토, 설계 마진 대비 성능 비교를 수행한다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/11/Fig-2-Siemens-adds-agentic-AI-to-HyperLynx-verification-workflows.avif",
-                "cap": "PAM4 신호를 쓰는 두 설계안의 아이 높이 대 아이 폭 산점도"
-              },
-              {
-                "t": "p",
-                "x": "이 툴킷은 Questa One Agentic Toolkit에 이은 것으로, Fuse EDA AI Agent와 Intelligence Center X를 기반으로 한다. 2026년 4분기 일부 고객 대상 얼리 액세스를 거쳐 정식 출시될 예정이다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "HyperLynxの検証に\nAIエージェント導入",
-          "body": "HyperLynxでSerDesやDDR、SI/PI解析を自然言語で実行できる。",
-          "mini_headline": "Siemens HyperLynxエージェント",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Siemensは、電子システムエンジニアの検証ワークフロー自動化、シミュレーション結果のレビュー、設計判断を支援するエージェント型AIソリューション「HyperLynx Agentic Toolkit」を発表した。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/11/Fig-1-Siemens-adds-agentic-AI-to-HyperLynx-verification-workflows.avif",
-                "cap": "コンプライアンス・アイマスクを用いたDDR5シミュレーションを表示するHyperLynx Agentic Toolkit"
-              },
-              {
-                "t": "p",
-                "x": "システム速度が112Gや224Gへ移るにつれ、マージンの縮小、市場投入までの時間的圧力、熟練検証エンジニアの不足により、シグナルインテグリティの問題が設計サイクルの終盤まで持ち越されやすい。HyperLynxを基盤とするこのツールキットは、ドメイン特化型AIエージェントと物理ベースのシグナル/パワーインテグリティ(SI/PI)シミュレーションを組み合わせる。エンジニアが自然言語で検証目標を定めると、オーケストレーションエージェントがSerDes、DDR、シグナルインテグリティ、パワーインテグリティ解析の専門エージェントを統括し、シミュレーションの実行、パラメータ抽出、結果のレビュー、設計マージンに対する性能比較を行う。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/11/Fig-2-Siemens-adds-agentic-AI-to-HyperLynx-verification-workflows.avif",
-                "cap": "PAM4信号を用いた2つの設計案におけるアイ高さとアイ幅の散布図"
-              },
-              {
-                "t": "p",
-                "x": "このツールキットはQuesta One Agentic Toolkitに続くもので、Fuse EDA AI AgentとIntelligence Center Xを基盤とする。2026年第4四半期に一部顧客向けのアーリーアクセスを始め、その後一般提供する予定だ。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Siemens引入AI智能体\n用于HyperLynx验证",
-          "body": "工程师可用自然语言在HyperLynx中运行SerDes、DDR和SI/PI分析。",
-          "mini_headline": "Siemens HyperLynx智能体",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Siemens发布了HyperLynx Agentic Toolkit，这是一款智能体AI解决方案，旨在帮助电子系统工程师自动化验证工作流、审查仿真结果并辅助设计决策。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/11/Fig-1-Siemens-adds-agentic-AI-to-HyperLynx-verification-workflows.avif",
-                "cap": "HyperLynx Agentic Toolkit展示带合规眼图模板的DDR5仿真"
-              },
-              {
-                "t": "p",
-                "x": "随着系统速率迈向112G和224G，余量收紧、上市时间压力以及资深验证工程师短缺，可能让信号完整性问题拖到设计周期后期。该工具包基于HyperLynx构建，将领域专用AI智能体与基于物理的信号完整性和电源完整性（SI/PI）仿真相结合。工程师用自然语言定义验证目标，编排智能体则协调负责SerDes、DDR、信号完整性和电源完整性分析的专用智能体，执行仿真、提取参数、审查结果，并将性能与设计余量进行比较。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/11/Fig-2-Siemens-adds-agentic-AI-to-HyperLynx-verification-workflows.avif",
-                "cap": "采用PAM4信令的两种设计方案的眼高与眼宽散点图"
-              },
-              {
-                "t": "p",
-                "x": "该工具包继Questa One Agentic Toolkit之后推出，并以Fuse EDA AI Agent和Intelligence Center X为基础。计划于2026年第四季度向部分客户开放早期试用，随后全面上市。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Siemens lleva agentes de IA\na la verificación en HyperLynx",
-          "body": "El kit agéntico de Siemens permite ejecutar análisis SerDes, DDR y SI/PI en HyperLynx mediante lenguaje natural.",
-          "mini_headline": "Agentes de Siemens en HyperLynx",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Siemens ha anunciado HyperLynx Agentic Toolkit, una solución de IA agéntica pensada para ayudar a los ingenieros de sistemas electrónicos a automatizar flujos de verificación, revisar resultados de simulación y apoyar decisiones de diseño."
-              },
-              {
-                "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/11/Fig-1-Siemens-adds-agentic-AI-to-HyperLynx-verification-workflows.avif",
-                "cap": "HyperLynx Agentic Toolkit muestra una simulación DDR5 con máscara de ojo de cumplimiento"
-              },
-              {
-                "t": "p",
-                "x": "A medida que las velocidades de los sistemas pasan a 112G y 224G, los márgenes más estrechos, la presión por llegar al mercado y la escasez de ingenieros de verificación sénior pueden retrasar los problemas de integridad de señal hasta el final del ciclo de diseño. Basado en HyperLynx, el kit combina agentes de IA específicos del dominio con simulación de integridad de señal y de alimentación (SI/PI) basada en la física. Los ingenieros definen los objetivos de verificación en lenguaje natural, mientras un agente orquestador coordina agentes especializados en análisis SerDes, DDR, de integridad de señal y de integridad de alimentación, que ejecutan simulaciones, extraen parámetros, revisan resultados y comparan el rendimiento con los márgenes de diseño."
-              },
-              {
-                "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/11/Fig-2-Siemens-adds-agentic-AI-to-HyperLynx-verification-workflows.avif",
-                "cap": "Gráfico de dispersión de altura frente a anchura de ojo para dos alternativas de diseño con señalización PAM4"
-              },
-              {
-                "t": "p",
-                "x": "El kit sigue a Questa One Agentic Toolkit y se apoya en Fuse EDA AI Agent e Intelligence Center X. Está previsto un acceso anticipado para clientes seleccionados en el cuarto trimestre de 2026, seguido de la disponibilidad general."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "uxc-design-system-ai-prototyping",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "실제 디자인 시스템 안에서\nAI로 프로토타입 만들기",
-      "body": "AI 에이전트가 진짜 컴포넌트로 프로토타입을 만들 조건과 MCP 설정을 짚는다.",
-      "mini_headline": "시스템 안의 AI 프로토타이핑",
+      "headline": "KT KDS 2.0,\nAI가 읽는 디자인 시스템",
+      "body": "KT는 AI가 규칙대로 화면을 짜고 검수해 8개월 작업을 2개월 40일로 줄였다.",
+      "mini_headline": "KT, AI용 디자인 시스템",
       "tool": "Design Tokens",
-      "source": "UX Collective",
-      "url": "https://uxdesign.cc/ai-prototyping-inside-your-design-system-a-hands-on-guide-for-design-product-teams-44825904c08d",
+      "source": "인더뉴스 (InTheNews)",
+      "url": "https://www.inthenews.co.kr/news/article.html?no=94443",
       "accent": "#2ec5c5",
       "motif": "swatch",
       "full": {
@@ -1045,375 +723,345 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn-images-1.medium.com/max/1024/0*GVeuczf4PnCJn95b.jpeg"
+            "src": "https://www.inthenews.co.kr/data/photos/20261146/art_17944633067103_566c36.jpg",
+            "cap": "KT 직원들이 ‘KDS 2.0’과 AI 기반 ‘메시지 생성 에이전트’를 활용하는 모습. 사진｜KT"
           },
           {
             "t": "p",
-            "x": "Christine Vallaure는 여러 팀이 디자인 시스템을 AI 빌더에 연결해 완성된 듯한 화면을 얻고도 결국 개발자가 처음부터 다시 만드는 모습을 지켜봤다. Lovable, Bolt, Claude Design 같은 빌더는 디자인 시스템을 읽고 나서 대개 shadcn과 Tailwind 위에 제 버전을 따로 만든다. “프롬프트를 더 세게 써도 해결되지 않는다… 컴포넌트가 진짜가 아니다.”"
-          },
-          {
-            "t": "img",
-            "src": "https://cdn-images-1.medium.com/max/1024/0*FsGZw7cGpPc5iRkF.jpeg"
+            "x": "KT(대표이사 박윤영)는 AI 활용 기능을 강화한 UX 디자인시스템 ‘KDS(KT UX Design System) 2.0’을 구축하고, 고객 안내 메시지의 작성과 검수를 지원하는 AI 에이전트를 도입했다고 12일 밝혔습니다."
           },
           {
             "t": "p",
-            "x": "필요한 건 두 가지다. 하나는 모든 컴포넌트의 이름, 용도, 속성, 허용값, 기본값을 코드에서 뽑아낸 매니페스트이고, 다른 하나는 에이전트가 짐작하지 않고 무엇이 있는지 먼저 묻게 하는 MCP 연결이다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn-images-1.medium.com/max/1024/0*czCuIU3dfQCnhtuQ.jpeg"
+            "x": "2.0 버전에서는 사람이 참고하던 디자인 가이드를 AI도 직접 읽고 활용할 수 있도록 했습니다. AI가 디자인 기준에 맞춰 화면을 구성하고 결과물을 점검할 수 있는 ‘KDS 하네스(Harness)’를 구축해 반복되는 디자인 작업과 수정 부담을 줄였습니다."
           },
           {
             "t": "p",
-            "x": "구현 방법도 두 가지다. 첫째는 Storybook MCP 애드온(Storybook 10 이상, 컴포넌트 매니페스트 활성화)이다. Storybook 자체 테스트에서 토큰은 27% 덜 쓰고 작업은 세 배 가까이 빨리 끝났다. 엔지니어가 있는 팀이라면 맞춤형 디자인 시스템 MCP를 직접 만드는 길도 있다. 프로토타입은 병합하지 않을 디자인 브랜치에 두고, 채택된 아이디어는 기능 브랜치에서 다시 만든다."
+            "x": "KT는 KDS를 마이케이티·KT닷컴·다이렉트샵 등에 적용하고 AI 모델 플랫폼 ‘토큰팩토리’ 등에 활용, 기획·디자인·개발 과정을 병렬로 진행하고 반복적인 코딩과 문서화 작업을 자동화했습니다. 총 424건의 기능 요구사항과 25개 컴포넌트, 약 110만 줄의 코드를 처리하는 과정에서 기존 방식으로 약 8개월이 소요될 작업을 2개월 40일 만에 수행해 개발 기간을 5개월 이상 단축했습니다."
           },
           {
-            "t": "img",
-            "src": "https://cdn-images-1.medium.com/max/1024/0*YUHz6rnoOzIZqavV.jpeg"
+            "t": "p",
+            "x": "KT는 UX 라이팅 가이드를 정비해 ‘선납’은 ‘미리 납부’로, ‘종량 과금’은 ‘사용한 만큼 요금 청구’로 바꿨고, 10월 30일 사내에 AI 기반 ‘메시지 생성 에이전트’를 오픈했습니다. 메시지 작성·검수 시간은 기존 30~60분에서 약 5분으로, 이미지 제작은 4시간에서 15분으로 줄었고, 이틀 이상 걸리던 번역 작업은 30초로 단축됐습니다. 이달 20일에는 ‘고객 언어 에이전트’도 선보일 예정입니다."
+          },
+          {
+            "t": "p",
+            "x": "원만호 KT AX플랫폼본부장(상무)은 “KDS 2.0으로 디자인의 일관성을 높이고, 고객 커뮤니케이션 업무도 AX로 전환해 업무 생산성과 고객 경험을 함께 개선하고 있다”고 말했습니다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "Prototyping with AI inside\nyour real design system",
-          "body": "The guide explains what a design system needs before AI agents can prototype with real components, plus an MCP setup.",
-          "mini_headline": "AI prototyping in-system",
+        "ko": {
+          "headline": "KT KDS 2.0,\nAI가 읽는 디자인 시스템",
+          "body": "KT는 AI가 규칙대로 화면을 짜고 검수해 8개월 작업을 2개월 40일로 줄였다.",
+          "mini_headline": "KT, AI용 디자인 시스템",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/0*GVeuczf4PnCJn95b.jpeg"
+                "src": "https://www.inthenews.co.kr/data/photos/20261146/art_17944633067103_566c36.jpg",
+                "cap": "KT 직원들이 ‘KDS 2.0’과 AI 기반 ‘메시지 생성 에이전트’를 활용하는 모습. 사진｜KT"
               },
               {
                 "t": "p",
-                "x": "Christine Vallaure saw teams connect their design system to an AI builder, get a finished-looking screen, then watch a developer rebuild it from scratch. Builders like Lovable, Bolt and Claude Design read your design system, then build their own version of it, usually on shadcn and Tailwind. \"Prompting harder will not fix it… The components are not real.\""
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/0*FsGZw7cGpPc5iRkF.jpeg"
+                "x": "KT(대표이사 박윤영)는 AI 활용 기능을 강화한 UX 디자인시스템 ‘KDS(KT UX Design System) 2.0’을 구축하고, 고객 안내 메시지의 작성과 검수를 지원하는 AI 에이전트를 도입했다고 12일 밝혔습니다."
               },
               {
                 "t": "p",
-                "x": "What you need is two pieces: a manifest — every component's name, purpose, properties, allowed values and defaults, generated from the code — and an MCP connection so the agent asks what exists instead of guessing."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/0*czCuIU3dfQCnhtuQ.jpeg"
+                "x": "2.0 버전에서는 사람이 참고하던 디자인 가이드를 AI도 직접 읽고 활용할 수 있도록 했습니다. AI가 디자인 기준에 맞춰 화면을 구성하고 결과물을 점검할 수 있는 ‘KDS 하네스(Harness)’를 구축해 반복되는 디자인 작업과 수정 부담을 줄였습니다."
               },
               {
                 "t": "p",
-                "x": "Two routes: the Storybook MCP add-on (Storybook 10 or newer, components manifest switched on), which in Storybook's test used 27% fewer tokens and finished almost three times faster; or a custom design system MCP built by a team with engineers. Prototypes live on a design branch that is never merged, and accepted ideas are rebuilt on a feature branch."
+                "x": "KT는 KDS를 마이케이티·KT닷컴·다이렉트샵 등에 적용하고 AI 모델 플랫폼 ‘토큰팩토리’ 등에 활용, 기획·디자인·개발 과정을 병렬로 진행하고 반복적인 코딩과 문서화 작업을 자동화했습니다. 총 424건의 기능 요구사항과 25개 컴포넌트, 약 110만 줄의 코드를 처리하는 과정에서 기존 방식으로 약 8개월이 소요될 작업을 2개월 40일 만에 수행해 개발 기간을 5개월 이상 단축했습니다."
               },
               {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/0*YUHz6rnoOzIZqavV.jpeg"
+                "t": "p",
+                "x": "KT는 UX 라이팅 가이드를 정비해 ‘선납’은 ‘미리 납부’로, ‘종량 과금’은 ‘사용한 만큼 요금 청구’로 바꿨고, 10월 30일 사내에 AI 기반 ‘메시지 생성 에이전트’를 오픈했습니다. 메시지 작성·검수 시간은 기존 30~60분에서 약 5분으로, 이미지 제작은 4시간에서 15분으로 줄었고, 이틀 이상 걸리던 번역 작업은 30초로 단축됐습니다. 이달 20일에는 ‘고객 언어 에이전트’도 선보일 예정입니다."
+              },
+              {
+                "t": "p",
+                "x": "원만호 KT AX플랫폼본부장(상무)은 “KDS 2.0으로 디자인의 일관성을 높이고, 고객 커뮤니케이션 업무도 AX로 전환해 업무 생산성과 고객 경험을 함께 개선하고 있다”고 말했습니다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "실제 디자인 시스템 안에서\nAI로 프로토타입 만들기",
-          "body": "AI 에이전트가 진짜 컴포넌트로 프로토타입을 만들 조건과 MCP 설정을 짚는다.",
-          "mini_headline": "시스템 안의 AI 프로토타이핑",
+        "en": {
+          "headline": "KT KDS 2.0, a design\nsystem that AI reads",
+          "body": "KT lets AI build and check screens by its rules, cutting 8 months of work to 2 months and 40 days.",
+          "mini_headline": "KT, a design system for AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/0*GVeuczf4PnCJn95b.jpeg"
+                "src": "https://www.inthenews.co.kr/data/photos/20261146/art_17944633067103_566c36.jpg",
+                "cap": "KT employees using ‘KDS 2.0’ and the AI-based ‘message generation agent’. Photo｜KT"
               },
               {
                 "t": "p",
-                "x": "Christine Vallaure는 여러 팀이 디자인 시스템을 AI 빌더에 연결해 완성된 듯한 화면을 얻고도 결국 개발자가 처음부터 다시 만드는 모습을 지켜봤다. Lovable, Bolt, Claude Design 같은 빌더는 디자인 시스템을 읽고 나서 대개 shadcn과 Tailwind 위에 제 버전을 따로 만든다. “프롬프트를 더 세게 써도 해결되지 않는다… 컴포넌트가 진짜가 아니다.”"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/0*FsGZw7cGpPc5iRkF.jpeg"
+                "x": "KT (CEO Park Yun-young) said on the 12th that it has built ‘KDS (KT UX Design System) 2.0’, a UX design system with stronger AI capabilities, and introduced an AI agent that helps write and review customer notification messages."
               },
               {
                 "t": "p",
-                "x": "필요한 건 두 가지다. 하나는 모든 컴포넌트의 이름, 용도, 속성, 허용값, 기본값을 코드에서 뽑아낸 매니페스트이고, 다른 하나는 에이전트가 짐작하지 않고 무엇이 있는지 먼저 묻게 하는 MCP 연결이다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/0*czCuIU3dfQCnhtuQ.jpeg"
+                "x": "In version 2.0, the design guide that people used to consult can now be read and used directly by AI as well. KT built the ‘KDS Harness’, which lets AI compose screens to the design standards and check the results, reducing repetitive design work and the burden of revisions."
               },
               {
                 "t": "p",
-                "x": "구현 방법도 두 가지다. 첫째는 Storybook MCP 애드온(Storybook 10 이상, 컴포넌트 매니페스트 활성화)이다. Storybook 자체 테스트에서 토큰은 27% 덜 쓰고 작업은 세 배 가까이 빨리 끝났다. 엔지니어가 있는 팀이라면 맞춤형 디자인 시스템 MCP를 직접 만드는 길도 있다. 프로토타입은 병합하지 않을 디자인 브랜치에 두고, 채택된 아이디어는 기능 브랜치에서 다시 만든다."
+                "x": "KT applied KDS to My KT, KT.com, Direct Shop and other services and used it for its AI model platform ‘Token Factory’, running planning, design and development in parallel and automating repetitive coding and documentation. In handling a total of 424 functional requirements, 25 components and about 110만 lines of code, it finished in 2 months and 40 days work that would have taken about 8 months the conventional way, shortening development by more than 5 months."
               },
               {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/0*YUHz6rnoOzIZqavV.jpeg"
+                "t": "p",
+                "x": "KT revised its UX writing guide, replacing ‘prepayment’ with ‘pay in advance’ and ‘metered billing’ with ‘billed for what you use’, and on October 30 opened an AI-based ‘message generation agent’ internally. Time to write and review a message fell from 30 to 60 minutes to about 5 minutes, image production from 4 hours to 15 minutes, and translation work that used to take two days or more to 30 seconds. A ‘customer language agent’ is also set to debut on the 20th of this month."
+              },
+              {
+                "t": "p",
+                "x": "Won Man-ho, head of KT's AX Platform Division (senior vice president), said, “With KDS 2.0 we are raising design consistency and shifting customer communication work to AX as well, improving both work productivity and customer experience.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "本物のデザインシステムで\nAIプロトタイピング",
-          "body": "AIエージェントが実コンポーネントで試作するための条件とMCP設定を解説する。",
-          "mini_headline": "システム内でのAIプロトタイピング",
+          "headline": "KT KDS 2.0、\nAIが読むデザインシステム",
+          "body": "KTはAIが規則どおりに画面を組み点検し、8か月の作業を2か月40日に縮めた。",
+          "mini_headline": "KT、AI向けデザインシステム",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/0*GVeuczf4PnCJn95b.jpeg"
+                "src": "https://www.inthenews.co.kr/data/photos/20261146/art_17944633067103_566c36.jpg",
+                "cap": "KT社員が「KDS 2.0」とAIベースの「メッセージ生成エージェント」を活用する様子。写真｜KT"
               },
               {
                 "t": "p",
-                "x": "Christine Vallaureは、チームがデザインシステムをAIビルダーにつなぎ、完成したように見える画面を得たものの、結局は開発者がそれを一から作り直す様子を見てきた。Lovable、Bolt、Claude Designといったビルダーはデザインシステムを読み込んだうえで、たいていshadcnとTailwindの上に独自のバージョンを作る。「プロンプトを工夫しても解決しない…コンポーネントが本物ではないのだ」"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/0*FsGZw7cGpPc5iRkF.jpeg"
+                "x": "KT（代表取締役パク・ユンヨン）は、AI活用機能を強化したUXデザインシステム「KDS（KT UX Design System）2.0」を構築し、顧客向け案内メッセージの作成と検収を支援するAIエージェントを導入したと12日明らかにした。"
               },
               {
                 "t": "p",
-                "x": "必要なのは二つだ。一つは、すべてのコンポーネントの名前、目的、プロパティ、許容値、デフォルト値をコードから生成したマニフェスト。もう一つはMCP接続で、エージェントが推測する代わりに何が存在するかを問い合わせられるようにする。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/0*czCuIU3dfQCnhtuQ.jpeg"
+                "x": "2.0では、人が参照していたデザインガイドをAIも直接読み取って活用できるようにした。AIがデザイン基準に沿って画面を構成し、成果物を点検できる「KDSハーネス（Harness）」を構築し、繰り返しのデザイン作業と修正の負担を減らした。"
               },
               {
                 "t": "p",
-                "x": "方法は二つある。一つはStorybook MCPアドオン(Storybook 10以降、コンポーネントマニフェストを有効化)で、Storybookのテストではトークン使用量が27%少なく、ほぼ三倍速く完了した。もう一つは、エンジニアのいるチームが構築する独自のデザインシステムMCPだ。プロトタイプはマージしないデザインブランチに置き、採用されたアイデアはフィーチャーブランチで作り直す。"
+                "x": "KTはKDSをマイKT・KTドットコム・ダイレクトショップなどに適用し、AIモデルプラットフォーム「トークンファクトリー」などにも活用して、企画・デザイン・開発を並行して進め、繰り返しのコーディングと文書化作業を自動化した。計424件の機能要件と25のコンポーネント、約110万行のコードを処理する過程で、従来の方法なら約8か月かかる作業を2か月40日で終え、開発期間を5か月以上短縮した。"
               },
               {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/0*YUHz6rnoOzIZqavV.jpeg"
+                "t": "p",
+                "x": "KTはUXライティングガイドを見直し、「先納」を「事前納付」に、「従量課金」を「使った分だけ料金請求」に改め、10月30日に社内でAIベースの「メッセージ生成エージェント」を公開した。メッセージの作成・検収時間は従来の30〜60分から約5分に、画像制作は4時間から15分に短縮され、二日以上かかっていた翻訳作業は30秒になった。今月20日には「顧客言語エージェント」も披露する予定だ。"
+              },
+              {
+                "t": "p",
+                "x": "ウォン・マンホKT AXプラットフォーム本部長（常務）は「KDS 2.0でデザインの一貫性を高め、顧客コミュニケーション業務もAXに転換し、業務生産性と顧客体験をともに改善している」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "在真实设计系统中\n用AI做原型",
-          "body": "指南讲解AI智能体用真实组件做原型前，设计系统需具备什么，以及MCP配置。",
-          "mini_headline": "系统内的AI原型设计",
+          "headline": "KT KDS 2.0：\nAI能读懂的设计系统",
+          "body": "KT让AI按规则搭建并检查界面，把8个月的工作缩短至2个月40天。",
+          "mini_headline": "KT推出面向AI的设计系统",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/0*GVeuczf4PnCJn95b.jpeg"
+                "src": "https://www.inthenews.co.kr/data/photos/20261146/art_17944633067103_566c36.jpg",
+                "cap": "KT员工使用“KDS 2.0”和基于AI的“消息生成智能体”。图片｜KT"
               },
               {
                 "t": "p",
-                "x": "Christine Vallaure见过不少团队把设计系统接入AI构建工具，得到一个看似完成的界面，随后却看着开发者从头重写。Lovable、Bolt和Claude Design等构建工具会读取你的设计系统，再通常基于shadcn和Tailwind做出自己的版本。“再怎么用力写提示词也解决不了……这些组件不是真的。”"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/0*FsGZw7cGpPc5iRkF.jpeg"
+                "x": "KT（代表理事Park Yun-young）12日表示，已构建强化AI应用功能的UX设计系统“KDS（KT UX Design System）2.0”，并引入了辅助撰写和审核客户通知消息的AI智能体。"
               },
               {
                 "t": "p",
-                "x": "你需要两样东西：一份清单（manifest），包含从代码生成的每个组件的名称、用途、属性、允许值和默认值；以及一个MCP连接，让智能体询问有哪些组件，而不是靠猜。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/0*czCuIU3dfQCnhtuQ.jpeg"
+                "x": "2.0版本让AI也能直接读取并使用原本供人参考的设计指南。KT构建了“KDS Harness”，让AI按照设计标准组织界面并检查结果，减轻了重复设计工作和修改负担。"
               },
               {
                 "t": "p",
-                "x": "有两条路线：一是Storybook MCP插件（需Storybook 10或更新版本，并开启组件清单），在Storybook的测试中，它少用了27%的token，完成速度快了近三倍；二是由有工程师的团队自建的设计系统MCP。原型放在永不合并的设计分支上，被采纳的想法再在功能分支上重建。"
+                "x": "KT将KDS应用于My KT、KT.com、Direct Shop等服务，并用于AI模型平台“Token Factory”等，使策划、设计、开发并行推进，并将重复的编码和文档工作自动化。在处理共424项功能需求、25个组件和约110万行代码的过程中，原本按传统方式需约8个月的工作仅用2个月40天完成，开发周期缩短5个月以上。"
               },
               {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/0*YUHz6rnoOzIZqavV.jpeg"
+                "t": "p",
+                "x": "KT修订了UX写作指南，将“预缴”改为“提前缴费”，将“按量计费”改为“用多少付多少”，并于10月30日在公司内部上线基于AI的“消息生成智能体”。消息撰写与审核时间从原来的30~60分钟缩短至约5分钟，图片制作从4小时缩短至15分钟，原本需要两天以上的翻译工作缩短至30秒。本月20日还将推出“客户语言智能体”。"
+              },
+              {
+                "t": "p",
+                "x": "KT AX平台本部长（常务）Won Man-ho表示：“通过KDS 2.0提升设计一致性，同时把客户沟通业务也转向AX，正在同步改善工作效率和客户体验。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Prototipar con IA dentro\nde tu sistema de diseño real",
-          "body": "La guía explica qué pide un sistema de diseño para que la IA prototipe con componentes reales, y cómo usar MCP.",
-          "mini_headline": "Prototipos con IA en el sistema",
+          "headline": "KT KDS 2.0, un sistema de\ndiseño que lee la AI",
+          "body": "KT hace que la AI arme y revise pantallas según sus reglas y reduce 8 meses de trabajo a 2 meses y 40 días.",
+          "mini_headline": "KT, sistema de diseño para AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/0*GVeuczf4PnCJn95b.jpeg"
+                "src": "https://www.inthenews.co.kr/data/photos/20261146/art_17944633067103_566c36.jpg",
+                "cap": "Empleados de KT usan ‘KDS 2.0’ y el ‘agente de generación de mensajes’ basado en AI. Foto｜KT"
               },
               {
                 "t": "p",
-                "x": "Christine Vallaure vio cómo varios equipos conectaban su sistema de diseño a un constructor de IA, obtenían una pantalla de aspecto terminado y luego veían a un desarrollador rehacerla desde cero. Constructores como Lovable, Bolt y Claude Design leen tu sistema de diseño y después crean su propia versión, normalmente sobre shadcn y Tailwind. «Insistir más en el prompt no lo arreglará… Los componentes no son reales»."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/0*FsGZw7cGpPc5iRkF.jpeg"
+                "x": "KT (consejero delegado: Park Yun-young) anunció el día 12 que ha creado ‘KDS (KT UX Design System) 2.0’, un sistema de diseño UX con funciones de AI reforzadas, y que ha incorporado un agente de AI que ayuda a redactar y revisar los mensajes informativos para clientes."
               },
               {
                 "t": "p",
-                "x": "Hacen falta dos piezas: un manifiesto —el nombre, el propósito, las propiedades, los valores permitidos y los valores por defecto de cada componente, generado a partir del código— y una conexión MCP para que el agente pregunte qué existe en lugar de adivinar."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/0*czCuIU3dfQCnhtuQ.jpeg"
+                "x": "En la versión 2.0, la guía de diseño que antes consultaban las personas también puede leerla y usarla directamente la AI. KT creó el ‘KDS Harness’, que permite a la AI componer pantallas según los criterios de diseño y revisar el resultado, lo que reduce el trabajo de diseño repetitivo y la carga de correcciones."
               },
               {
                 "t": "p",
-                "x": "Hay dos vías: el complemento Storybook MCP (Storybook 10 o posterior, con el manifiesto de componentes activado), que en la prueba de Storybook usó un 27% menos de tokens y terminó casi tres veces más rápido; o un MCP de sistema de diseño propio, creado por un equipo con ingenieros. Los prototipos viven en una rama de diseño que nunca se fusiona, y las ideas aceptadas se reconstruyen en una rama de funcionalidad."
+                "x": "KT aplicó KDS a My KT, KT.com, Direct Shop y otros servicios, y lo usó en su plataforma de modelos de AI ‘Token Factory’, entre otras, para llevar en paralelo la planificación, el diseño y el desarrollo y automatizar las tareas repetitivas de programación y documentación. Al procesar en total 424 requisitos funcionales, 25 componentes y unas 110만 líneas de código, completó en 2 meses y 40 días un trabajo que con el método anterior habría llevado unos 8 meses, y acortó el desarrollo en más de 5 meses."
               },
               {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/0*YUHz6rnoOzIZqavV.jpeg"
+                "t": "p",
+                "x": "KT revisó su guía de redacción UX: cambió ‘prepago’ por ‘pagar por adelantado’ y ‘tarifa por consumo’ por ‘cobrar según lo usado’, y el 30 de octubre puso en marcha internamente un ‘agente de generación de mensajes’ basado en AI. El tiempo para redactar y revisar un mensaje bajó de 30 a 60 minutos a unos 5 minutos; la producción de imágenes, de 4 horas a 15 minutos, y las traducciones que llevaban dos días o más, a 30 segundos. El día 20 de este mes presentará también un ‘agente de lenguaje del cliente’."
+              },
+              {
+                "t": "p",
+                "x": "Won Man-ho, director de la División de Plataforma AX de KT (vicepresidente), dijo: “Con KDS 2.0 estamos mejorando la coherencia del diseño y llevando también a AX la comunicación con los clientes, para mejorar a la vez la productividad y la experiencia del cliente”."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "실제 디자인 시스템 안에서\nAI로 프로토타입 만들기",
-          "body": "AI 에이전트가 실제 컴포넌트로 프로토타입을 만들 조건과 MCP 설정을 짚는다.",
-          "mini_headline": "시스템 안의 AI 프로토타이핑",
+        "en": {
+          "headline": "KT KDS 2.0, a design\nsystem that AI reads",
+          "body": "KT lets AI build and check screens by its rules, cutting 8 months of work to 2 months and 40 days.",
+          "mini_headline": "KT, a design system for AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/0*GVeuczf4PnCJn95b.jpeg"
+                "src": "https://www.inthenews.co.kr/data/photos/20261146/art_17944633067103_566c36.jpg",
+                "cap": "KT employees using ‘KDS 2.0’ and the AI-based ‘message generation agent’. Photo｜KT"
               },
               {
                 "t": "p",
-                "x": "Christine Vallaure는 팀들이 디자인 시스템을 AI 빌더에 연결해 완성된 듯한 화면을 얻고도, 결국 개발자가 그것을 처음부터 다시 만드는 모습을 지켜봤다. Lovable, Bolt, Claude Design 같은 빌더는 디자인 시스템을 읽은 뒤 대개 shadcn과 Tailwind 위에 자기만의 버전을 새로 만든다. “프롬프트를 더 세게 써도 해결되지 않는다… 컴포넌트가 진짜가 아니다.”"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/0*FsGZw7cGpPc5iRkF.jpeg"
+                "x": "KT (CEO Park Yun-young) said on the 12th that it has built ‘KDS (KT UX Design System) 2.0’, a UX design system with stronger AI capabilities, and introduced an AI agent that helps write and review customer notification messages."
               },
               {
                 "t": "p",
-                "x": "필요한 것은 두 가지다. 하나는 모든 컴포넌트의 이름, 용도, 속성, 허용값, 기본값을 코드에서 생성한 매니페스트다. 다른 하나는 에이전트가 추측하는 대신 무엇이 있는지 묻게 하는 MCP 연결이다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/0*czCuIU3dfQCnhtuQ.jpeg"
+                "x": "In version 2.0, the design guide that people used to consult can now be read and used directly by AI as well. KT built the ‘KDS Harness’, which lets AI compose screens to the design standards and check the results, reducing repetitive design work and the burden of revisions."
               },
               {
                 "t": "p",
-                "x": "방법은 두 가지다. 하나는 Storybook MCP 애드온(Storybook 10 이상, 컴포넌트 매니페스트 활성화)으로, Storybook 자체 테스트에서 토큰을 27% 적게 쓰고 세 배 가까이 빠르게 끝냈다. 다른 하나는 엔지니어가 있는 팀이 직접 만드는 맞춤형 디자인 시스템 MCP다. 프로토타입은 병합하지 않는 디자인 브랜치에 두고, 채택된 아이디어는 기능 브랜치에서 다시 만든다."
+                "x": "KT applied KDS to My KT, KT.com, Direct Shop and other services and used it for its AI model platform ‘Token Factory’, running planning, design and development in parallel and automating repetitive coding and documentation. In handling a total of 424 functional requirements, 25 components and about 110만 lines of code, it finished in 2 months and 40 days work that would have taken about 8 months the conventional way, shortening development by more than 5 months."
               },
               {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/0*YUHz6rnoOzIZqavV.jpeg"
+                "t": "p",
+                "x": "KT revised its UX writing guide, replacing ‘prepayment’ with ‘pay in advance’ and ‘metered billing’ with ‘billed for what you use’, and on October 30 opened an AI-based ‘message generation agent’ internally. Time to write and review a message fell from 30 to 60 minutes to about 5 minutes, image production from 4 hours to 15 minutes, and translation work that used to take two days or more to 30 seconds. A ‘customer language agent’ is also set to debut on the 20th of this month."
+              },
+              {
+                "t": "p",
+                "x": "Won Man-ho, head of KT's AX Platform Division (senior vice president), said, “With KDS 2.0 we are raising design consistency and shifting customer communication work to AX as well, improving both work productivity and customer experience.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "本物のデザインシステムで\nAIプロトタイピング",
-          "body": "AIエージェントが実コンポーネントで試作するための条件とMCP設定を解説する。",
-          "mini_headline": "システム内でのAIプロトタイピング",
+          "headline": "KT KDS 2.0、\nAIが読むデザインシステム",
+          "body": "KTはAIが規則どおりに画面を組み点検し、8か月の作業を2か月40日に縮めた。",
+          "mini_headline": "KT、AI向けデザインシステム",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/0*GVeuczf4PnCJn95b.jpeg"
+                "src": "https://www.inthenews.co.kr/data/photos/20261146/art_17944633067103_566c36.jpg",
+                "cap": "KT社員が「KDS 2.0」とAIベースの「メッセージ生成エージェント」を活用する様子。写真｜KT"
               },
               {
                 "t": "p",
-                "x": "Christine Vallaureは、チームがデザインシステムをAIビルダーにつなぎ、完成したように見える画面を得たものの、結局は開発者がそれを一から作り直す様子を見てきた。Lovable、Bolt、Claude Designといったビルダーはデザインシステムを読み込んだうえで、たいていshadcnとTailwindの上に独自のバージョンを作る。「プロンプトを工夫しても解決しない…コンポーネントが本物ではないのだ」"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/0*FsGZw7cGpPc5iRkF.jpeg"
+                "x": "KT（代表取締役パク・ユンヨン）は、AI活用機能を強化したUXデザインシステム「KDS（KT UX Design System）2.0」を構築し、顧客向け案内メッセージの作成と検収を支援するAIエージェントを導入したと12日明らかにした。"
               },
               {
                 "t": "p",
-                "x": "必要なのは二つだ。一つは、すべてのコンポーネントの名前、目的、プロパティ、許容値、デフォルト値をコードから生成したマニフェスト。もう一つはMCP接続で、エージェントが推測する代わりに何が存在するかを問い合わせられるようにする。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/0*czCuIU3dfQCnhtuQ.jpeg"
+                "x": "2.0では、人が参照していたデザインガイドをAIも直接読み取って活用できるようにした。AIがデザイン基準に沿って画面を構成し、成果物を点検できる「KDSハーネス（Harness）」を構築し、繰り返しのデザイン作業と修正の負担を減らした。"
               },
               {
                 "t": "p",
-                "x": "方法は二つある。一つはStorybook MCPアドオン(Storybook 10以降、コンポーネントマニフェストを有効化)で、Storybookのテストではトークン使用量が27%少なく、ほぼ三倍速く完了した。もう一つは、エンジニアのいるチームが構築する独自のデザインシステムMCPだ。プロトタイプはマージしないデザインブランチに置き、採用されたアイデアはフィーチャーブランチで作り直す。"
+                "x": "KTはKDSをマイKT・KTドットコム・ダイレクトショップなどに適用し、AIモデルプラットフォーム「トークンファクトリー」などにも活用して、企画・デザイン・開発を並行して進め、繰り返しのコーディングと文書化作業を自動化した。計424件の機能要件と25のコンポーネント、約110万行のコードを処理する過程で、従来の方法なら約8か月かかる作業を2か月40日で終え、開発期間を5か月以上短縮した。"
               },
               {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/0*YUHz6rnoOzIZqavV.jpeg"
+                "t": "p",
+                "x": "KTはUXライティングガイドを見直し、「先納」を「事前納付」に、「従量課金」を「使った分だけ料金請求」に改め、10月30日に社内でAIベースの「メッセージ生成エージェント」を公開した。メッセージの作成・検収時間は従来の30〜60分から約5分に、画像制作は4時間から15分に短縮され、二日以上かかっていた翻訳作業は30秒になった。今月20日には「顧客言語エージェント」も披露する予定だ。"
+              },
+              {
+                "t": "p",
+                "x": "ウォン・マンホKT AXプラットフォーム本部長（常務）は「KDS 2.0でデザインの一貫性を高め、顧客コミュニケーション業務もAXに転換し、業務生産性と顧客体験をともに改善している」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "在真实设计系统中\n用AI做原型",
-          "body": "指南讲解AI智能体用真实组件做原型前，设计系统需具备什么，以及MCP配置。",
-          "mini_headline": "系统内的AI原型设计",
+          "headline": "KT KDS 2.0：\nAI能读懂的设计系统",
+          "body": "KT让AI按规则搭建并检查界面，把8个月的工作缩短至2个月40天。",
+          "mini_headline": "KT推出面向AI的设计系统",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/0*GVeuczf4PnCJn95b.jpeg"
+                "src": "https://www.inthenews.co.kr/data/photos/20261146/art_17944633067103_566c36.jpg",
+                "cap": "KT员工使用“KDS 2.0”和基于AI的“消息生成智能体”。图片｜KT"
               },
               {
                 "t": "p",
-                "x": "Christine Vallaure见过不少团队把设计系统接入AI构建工具，得到一个看似完成的界面，随后却看着开发者从头重写。Lovable、Bolt和Claude Design等构建工具会读取你的设计系统，再通常基于shadcn和Tailwind做出自己的版本。“再怎么用力写提示词也解决不了……这些组件不是真的。”"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/0*FsGZw7cGpPc5iRkF.jpeg"
+                "x": "KT（代表理事Park Yun-young）12日表示，已构建强化AI应用功能的UX设计系统“KDS（KT UX Design System）2.0”，并引入了辅助撰写和审核客户通知消息的AI智能体。"
               },
               {
                 "t": "p",
-                "x": "你需要两样东西：一份清单（manifest），包含从代码生成的每个组件的名称、用途、属性、允许值和默认值；以及一个MCP连接，让智能体询问有哪些组件，而不是靠猜。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/0*czCuIU3dfQCnhtuQ.jpeg"
+                "x": "2.0版本让AI也能直接读取并使用原本供人参考的设计指南。KT构建了“KDS Harness”，让AI按照设计标准组织界面并检查结果，减轻了重复设计工作和修改负担。"
               },
               {
                 "t": "p",
-                "x": "有两条路线：一是Storybook MCP插件（需Storybook 10或更新版本，并开启组件清单），在Storybook的测试中，它少用了27%的token，完成速度快了近三倍；二是由有工程师的团队自建的设计系统MCP。原型放在永不合并的设计分支上，被采纳的想法再在功能分支上重建。"
+                "x": "KT将KDS应用于My KT、KT.com、Direct Shop等服务，并用于AI模型平台“Token Factory”等，使策划、设计、开发并行推进，并将重复的编码和文档工作自动化。在处理共424项功能需求、25个组件和约110万行代码的过程中，原本按传统方式需约8个月的工作仅用2个月40天完成，开发周期缩短5个月以上。"
               },
               {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/0*YUHz6rnoOzIZqavV.jpeg"
+                "t": "p",
+                "x": "KT修订了UX写作指南，将“预缴”改为“提前缴费”，将“按量计费”改为“用多少付多少”，并于10月30日在公司内部上线基于AI的“消息生成智能体”。消息撰写与审核时间从原来的30~60分钟缩短至约5分钟，图片制作从4小时缩短至15分钟，原本需要两天以上的翻译工作缩短至30秒。本月20日还将推出“客户语言智能体”。"
+              },
+              {
+                "t": "p",
+                "x": "KT AX平台本部长（常务）Won Man-ho表示：“通过KDS 2.0提升设计一致性，同时把客户沟通业务也转向AX，正在同步改善工作效率和客户体验。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Prototipar con IA dentro\nde tu sistema de diseño real",
-          "body": "La guía explica qué pide un sistema de diseño para que la IA prototipe con componentes reales, y cómo usar MCP.",
-          "mini_headline": "Prototipos con IA en el sistema",
+          "headline": "KT KDS 2.0, un sistema de\ndiseño que lee la AI",
+          "body": "KT hace que la AI arme y revise pantallas según sus reglas y reduce 8 meses de trabajo a 2 meses y 40 días.",
+          "mini_headline": "KT, sistema de diseño para AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/0*GVeuczf4PnCJn95b.jpeg"
+                "src": "https://www.inthenews.co.kr/data/photos/20261146/art_17944633067103_566c36.jpg",
+                "cap": "Empleados de KT usan ‘KDS 2.0’ y el ‘agente de generación de mensajes’ basado en AI. Foto｜KT"
               },
               {
                 "t": "p",
-                "x": "Christine Vallaure vio cómo varios equipos conectaban su sistema de diseño a un constructor de IA, obtenían una pantalla de aspecto terminado y luego veían a un desarrollador rehacerla desde cero. Constructores como Lovable, Bolt y Claude Design leen tu sistema de diseño y después crean su propia versión, normalmente sobre shadcn y Tailwind. «Insistir más en el prompt no lo arreglará… Los componentes no son reales»."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/0*FsGZw7cGpPc5iRkF.jpeg"
+                "x": "KT (consejero delegado: Park Yun-young) anunció el día 12 que ha creado ‘KDS (KT UX Design System) 2.0’, un sistema de diseño UX con funciones de AI reforzadas, y que ha incorporado un agente de AI que ayuda a redactar y revisar los mensajes informativos para clientes."
               },
               {
                 "t": "p",
-                "x": "Hacen falta dos piezas: un manifiesto —el nombre, el propósito, las propiedades, los valores permitidos y los valores por defecto de cada componente, generado a partir del código— y una conexión MCP para que el agente pregunte qué existe en lugar de adivinar."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/0*czCuIU3dfQCnhtuQ.jpeg"
+                "x": "En la versión 2.0, la guía de diseño que antes consultaban las personas también puede leerla y usarla directamente la AI. KT creó el ‘KDS Harness’, que permite a la AI componer pantallas según los criterios de diseño y revisar el resultado, lo que reduce el trabajo de diseño repetitivo y la carga de correcciones."
               },
               {
                 "t": "p",
-                "x": "Hay dos vías: el complemento Storybook MCP (Storybook 10 o posterior, con el manifiesto de componentes activado), que en la prueba de Storybook usó un 27% menos de tokens y terminó casi tres veces más rápido; o un MCP de sistema de diseño propio, creado por un equipo con ingenieros. Los prototipos viven en una rama de diseño que nunca se fusiona, y las ideas aceptadas se reconstruyen en una rama de funcionalidad."
+                "x": "KT aplicó KDS a My KT, KT.com, Direct Shop y otros servicios, y lo usó en su plataforma de modelos de AI ‘Token Factory’, entre otras, para llevar en paralelo la planificación, el diseño y el desarrollo y automatizar las tareas repetitivas de programación y documentación. Al procesar en total 424 requisitos funcionales, 25 componentes y unas 110만 líneas de código, completó en 2 meses y 40 días un trabajo que con el método anterior habría llevado unos 8 meses, y acortó el desarrollo en más de 5 meses."
               },
               {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/0*YUHz6rnoOzIZqavV.jpeg"
+                "t": "p",
+                "x": "KT revisó su guía de redacción UX: cambió ‘prepago’ por ‘pagar por adelantado’ y ‘tarifa por consumo’ por ‘cobrar según lo usado’, y el 30 de octubre puso en marcha internamente un ‘agente de generación de mensajes’ basado en AI. El tiempo para redactar y revisar un mensaje bajó de 30 a 60 minutos a unos 5 minutos; la producción de imágenes, de 4 horas a 15 minutos, y las traducciones que llevaban dos días o más, a 30 segundos. El día 20 de este mes presentará también un ‘agente de lenguaje del cliente’."
+              },
+              {
+                "t": "p",
+                "x": "Won Man-ho, director de la División de Plataforma AX de KT (vicepresidente), dijo: “Con KDS 2.0 estamos mejorando la coherencia del diseño y llevando también a AX la comunicación con los clientes, para mejorar a la vez la productividad y la experiencia del cliente”."
               }
             ]
           }
@@ -1421,117 +1069,213 @@
       }
     },
     {
-      "id": "config-india-freshworks-code",
+      "id": "rhino9-mcneel-ai",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "디자이너가 코드를\n배포하자 달라진 것",
-      "body": "Freshworks는 디자인 시스템을 AI에 붙여 디자이너도 코드를 낸다.",
-      "mini_headline": "코드를 내는 디자이너",
-      "tool": "Social",
-      "source": "Figma (YouTube)",
-      "url": "https://www.youtube.com/watch?v=3EbdkzGwL7c",
-      "accent": "#ff2d55",
-      "motif": "frame",
+      "headline": "Rhino World에서\nMcNeel, AI 개방",
+      "body": "McNeel은 Rhino World 2026에서 사업 모델은 지키며 AI를 품었다.",
+      "mini_headline": "McNeel, Rhino에 AI 허용",
+      "tool": "Text-to-CAD",
+      "source": "AEC Magazine",
+      "url": "https://aecmag.com/cad/rhino-world-2026-mcneel-lets-ai-in/",
+      "accent": "#7928ca",
+      "motif": "cube",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
-            "t": "video",
-            "yt": "3EbdkzGwL7c"
+            "t": "img",
+            "src": "https://aecmag.com/wp-content/uploads/2026/11/RhinoAI.jpg"
           },
           {
             "t": "p",
-            "x": "팀이 아이디어를 판단하는 속도보다 디자이너가 코드를 더 빨리 배포하면 어떻게 될까? Sascha Trinkaus는 Freshworks가 디자인 시스템을 AI 도구에 연결하고 디자이너가 프로덕션 코드에 기여하도록 엔지니어링 워크플로를 준비해 온 과정을 소개한다. 시장 근거와 고객 피드백이 프로토타이핑 전에 아이디어를 어떻게 다듬는지, 디자이너가 자기 감각을 제품까지 어떻게 끌고 가는지도 살핀다. 엔지니어링 쪽 Kaushal Cavale과 함께 분야를 넘나들며 이를 실현하려면 무엇이 필요한지, 사람의 판단이 어디서 중요한지, 아직 답을 찾는 중인 부분은 무엇인지도 짚는다."
+            "x": "McNeel이 Rhino 9(10월 28일 출시)를 조용히 배포하는 사이, Campbell Yule이 Rhino World 2026 현장에서 이 회사가 사업 모델을 지키며 AI를 받아들이는 방식을 전한다. 가격과 업그레이드 비용은 그대로다. Rhino 9 라이선스로 Rhino 6, 7, 8도 실행할 수 있다. 창업자이자 CEO인 Bob McNeel은 “달라진 것은 없지만, 모든 것이 달라졌다”고 말했다."
+          },
+          {
+            "t": "p",
+            "x": "McNeel은 내부 개발과 테스트에 AI를 쓴다. Claude Opus가 나온 뒤 Steve Baer는 생산성이 20% 오르리라 봤지만, 실제로는 세 배 가까이 뛰었다. 그와 Andy Le Bihan이 근무일 하루에 병합한 풀 리퀘스트는 3.3건에서 9.5건으로 늘었다. 변경 사항은 지금도 병합 전에 검토를 거친다."
+          },
+          {
+            "t": "img",
+            "src": "https://aecmag.com/wp-content/uploads/2026/11/RhinoAI-1.jpg"
+          },
+          {
+            "t": "p",
+            "x": "RhinoAI는 Callum Sykes가 Claude Code로 만든 오픈소스 플러그인으로, MCP 서버를 거쳐 AI 에이전트를 Rhino에 연결한다. Rhino 안에서는 패널이 Claude나 Codex 같은 에이전트를 찾아 주고, 밖에서는 사용자가 모델과 에이전트를 직접 가져오면 된다."
+          },
+          {
+            "t": "p",
+            "x": "테스트에서 에이전트는 삼면도를 보고 시트러스 착즙기를 만든 뒤 파라메트릭 Grasshopper 2 모델로 바꿨다. 건축 테스트는 결과가 들쭉날쭉했다. 경기장 모델은 에이전트가 이미지를 더 받기 전까지 실패했다. Rhino.Compute는 이제 Linux에서도 돌아간다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "What changed when designers\nstarted shipping code",
-          "body": "Freshworks is connecting its design system to AI tools so designers can contribute production code.",
-          "mini_headline": "Designers shipping code",
+          "headline": "McNeel opens Rhino\nto AI at Rhino World",
+          "body": "At Rhino World 2026, McNeel showed how it is bringing AI into Rhino while keeping its business model unchanged.",
+          "mini_headline": "McNeel lets AI into Rhino",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "3EbdkzGwL7c"
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/RhinoAI.jpg"
               },
               {
                 "t": "p",
-                "x": "What happens when designers can ship code faster than teams can judge the ideas behind it? Sascha Trinkaus shares how Freshworks is connecting its design system to AI tools and preparing engineering workflows for designers contributing production code. He explores how market evidence and customer feedback sharpen ideas before prototyping, and how designers carry their taste through to the product. Joined by Kaushal Cavale from Engineering, he examines what it takes to make this work across disciplines, where human judgement matters, and what they are still figuring out."
+                "x": "As McNeel quietly rolls out Rhino 9 (released 28 October), Campbell Yule reports from Rhino World 2026 on how the company is embracing AI while retaining its business model: prices and upgrade costs are unchanged, and a Rhino 9 licence also runs Rhino 6, 7 and 8. “Nothing’s changed, everything has changed,” said founder and CEO Bob McNeel."
+              },
+              {
+                "t": "p",
+                "x": "McNeel uses AI internally as a development and testing tool. After Claude Opus arrived, Steve Baer expected a 20% productivity gain; what they got was closer to three times. He and Andy Le Bihan went from 3.3 merged pull requests per working day to 9.5. Changes are still reviewed before merging."
+              },
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/RhinoAI-1.jpg"
+              },
+              {
+                "t": "p",
+                "x": "RhinoAI, built by Callum Sykes with Claude Code, is an open-source plug-in that connects AI agents to Rhino through an MCP server. Inside Rhino, a panel finds agents such as Claude or Codex; outside, you bring your own model and agent."
+              },
+              {
+                "t": "p",
+                "x": "In tests, an agent built a citrus juicer from a three-view drawing and turned it into a parametric Grasshopper 2 model. Architectural tests were more uneven: a stadium model failed until the agent got more images. Rhino.Compute now also runs on Linux."
               }
             ]
           }
         },
         "ko": {
-          "headline": "디자이너가 코드를\n배포하자 달라진 것",
-          "body": "Freshworks는 디자인 시스템을 AI에 붙여 디자이너도 코드를 낸다.",
-          "mini_headline": "코드를 내는 디자이너",
+          "headline": "Rhino World에서\nMcNeel, AI 개방",
+          "body": "McNeel은 Rhino World 2026에서 사업 모델은 지키며 AI를 품었다.",
+          "mini_headline": "McNeel, Rhino에 AI 허용",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "3EbdkzGwL7c"
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/RhinoAI.jpg"
               },
               {
                 "t": "p",
-                "x": "팀이 아이디어를 판단하는 속도보다 디자이너가 코드를 더 빨리 배포하면 어떻게 될까? Sascha Trinkaus는 Freshworks가 디자인 시스템을 AI 도구에 연결하고 디자이너가 프로덕션 코드에 기여하도록 엔지니어링 워크플로를 준비해 온 과정을 소개한다. 시장 근거와 고객 피드백이 프로토타이핑 전에 아이디어를 어떻게 다듬는지, 디자이너가 자기 감각을 제품까지 어떻게 끌고 가는지도 살핀다. 엔지니어링 쪽 Kaushal Cavale과 함께 분야를 넘나들며 이를 실현하려면 무엇이 필요한지, 사람의 판단이 어디서 중요한지, 아직 답을 찾는 중인 부분은 무엇인지도 짚는다."
+                "x": "McNeel이 Rhino 9(10월 28일 출시)를 조용히 배포하는 사이, Campbell Yule이 Rhino World 2026 현장에서 이 회사가 사업 모델을 지키며 AI를 받아들이는 방식을 전한다. 가격과 업그레이드 비용은 그대로다. Rhino 9 라이선스로 Rhino 6, 7, 8도 실행할 수 있다. 창업자이자 CEO인 Bob McNeel은 “달라진 것은 없지만, 모든 것이 달라졌다”고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "McNeel은 내부 개발과 테스트에 AI를 쓴다. Claude Opus가 나온 뒤 Steve Baer는 생산성이 20% 오르리라 봤지만, 실제로는 세 배 가까이 뛰었다. 그와 Andy Le Bihan이 근무일 하루에 병합한 풀 리퀘스트는 3.3건에서 9.5건으로 늘었다. 변경 사항은 지금도 병합 전에 검토를 거친다."
+              },
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/RhinoAI-1.jpg"
+              },
+              {
+                "t": "p",
+                "x": "RhinoAI는 Callum Sykes가 Claude Code로 만든 오픈소스 플러그인으로, MCP 서버를 거쳐 AI 에이전트를 Rhino에 연결한다. Rhino 안에서는 패널이 Claude나 Codex 같은 에이전트를 찾아 주고, 밖에서는 사용자가 모델과 에이전트를 직접 가져오면 된다."
+              },
+              {
+                "t": "p",
+                "x": "테스트에서 에이전트는 삼면도를 보고 시트러스 착즙기를 만든 뒤 파라메트릭 Grasshopper 2 모델로 바꿨다. 건축 테스트는 결과가 들쭉날쭉했다. 경기장 모델은 에이전트가 이미지를 더 받기 전까지 실패했다. Rhino.Compute는 이제 Linux에서도 돌아간다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "デザイナーがコードを\nリリースして変わったこと",
-          "body": "FreshworksはデザインシステムをAIとつなぎ、デザイナーも本番コードを書く。",
-          "mini_headline": "コードを出すデザイナー",
+          "headline": "Rhino Worldで\nMcNeelがAIを解禁",
+          "body": "McNeelはRhino World 2026で、事業モデルを保ったままAI導入を示した。",
+          "mini_headline": "McNeel、RhinoにAI導入",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "3EbdkzGwL7c"
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/RhinoAI.jpg"
               },
               {
                 "t": "p",
-                "x": "チームがアイデアの良し悪しを判断するよりも速く、デザイナーがコードを出荷できるようになったら何が起こるのか。Sascha Trinkausは、FreshworksがデザインシステムをAIツールとつなぎ、デザイナーが本番コードに貢献できるようエンジニアリングのワークフローを整えている取り組みを紹介する。市場のエビデンスや顧客フィードバックがプロトタイピング前にアイデアをどう磨くのか、デザイナーが自らのセンスをどう製品まで貫くのかを探る。エンジニアリング部門のKaushal Cavaleとともに、分野をまたいでこれを機能させるには何が必要か、人間の判断がどこで重要になるのか、そしてまだ模索中の点は何かを検討する。"
+                "x": "McNeelがRhino 9（10月28日リリース）を静かに展開するなか、Campbell YuleがRhino World 2026から、同社が事業モデルを維持しつつAIを取り入れる様子を伝える。価格とアップグレード費用は据え置きで、Rhino 9のライセンスでRhino 6、7、8も動かせる。創業者でCEOのBob McNeelは「何も変わっていないが、すべてが変わった」と語った。"
+              },
+              {
+                "t": "p",
+                "x": "McNeelは社内でAIを開発・テストのツールとして使っている。Claude Opusの登場後、Steve Baerは生産性が20%上がると見込んでいたが、実際には三倍近くになった。彼とAndy Le Bihanがマージしたプルリクエストは、営業日あたり3.3件から9.5件に増えた。変更は今もマージ前にレビューされる。"
+              },
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/RhinoAI-1.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Callum SykesがClaude Codeで作ったRhinoAIは、MCPサーバーを介してAIエージェントをRhinoにつなぐオープンソースのプラグインだ。Rhino内ではパネルがClaudeやCodexなどのエージェントを見つけ、外部では自前のモデルとエージェントを持ち込める。"
+              },
+              {
+                "t": "p",
+                "x": "テストでは、エージェントが三面図から柑橘用ジューサーを作り、パラメトリックなGrasshopper 2 モデルに変換した。建築分野のテストはばらつきが大きく、スタジアムのモデルはエージェントが画像を追加で受け取るまで失敗した。Rhino.ComputeはLinuxでも動くようになった。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "设计师开始交付代码后\n发生了什么变化",
-          "body": "Freshworks正将设计系统接入AI工具，让设计师也能贡献生产代码。",
-          "mini_headline": "交付代码的设计师",
+          "headline": "Rhino World上\nMcNeel向AI开放",
+          "body": "McNeel在Rhino World 2026上展示了不改商业模式而引入AI的做法。",
+          "mini_headline": "McNeel让AI进入Rhino",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "3EbdkzGwL7c"
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/RhinoAI.jpg"
               },
               {
                 "t": "p",
-                "x": "当设计师交付代码的速度超过团队评判其背后想法的速度时，会发生什么？Sascha Trinkaus分享了Freshworks如何将设计系统接入AI工具，并为设计师贡献生产代码调整工程工作流。他探讨了市场证据和客户反馈如何在原型制作前打磨想法，以及设计师如何把自己的品味一路带到产品中。他还与工程部门的Kaushal Cavale一起，探讨跨学科落地需要什么、人的判断在哪些环节至关重要，以及他们仍在摸索的问题。"
+                "x": "McNeel悄然推出Rhino 9（10月28日发布）之际，Campbell Yule在Rhino World 2026现场报道了这家公司如何在保留商业模式的同时拥抱AI：价格和升级费用不变，Rhino 9许可证也可运行Rhino 6、7和8。创始人兼CEO Bob McNeel说：“什么都没变，一切都变了。”"
+              },
+              {
+                "t": "p",
+                "x": "McNeel在内部把AI用作开发和测试工具。Claude Opus问世后，Steve Baer预计生产率会提升20%，实际结果接近三倍。他和Andy Le Bihan每个工作日合并的拉取请求从3.3个增至9.5个。代码变更在合并前仍需审查。"
+              },
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/RhinoAI-1.jpg"
+              },
+              {
+                "t": "p",
+                "x": "RhinoAI由Callum Sykes借助Claude Code开发，是一款通过MCP服务器把AI智能体连接到Rhino的开源插件。在Rhino内部，面板可以找到Claude或Codex等智能体；在外部，用户可以自带模型和智能体。"
+              },
+              {
+                "t": "p",
+                "x": "测试中，一个智能体根据三视图做出了柑橘榨汁机，并把它转换为参数化的Grasshopper 2 模型。建筑方面的测试结果参差不齐：体育场模型直到智能体获得更多图像后才成功。Rhino.Compute现在也能在Linux上运行。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Qué cambió cuando diseñadores\nempezaron a entregar código",
-          "body": "Freshworks conecta su sistema de diseño con herramientas de IA para que los diseñadores aporten código de producción.",
-          "mini_headline": "Diseñadores que entregan código",
+          "headline": "McNeel abre Rhino a la AI\nen Rhino World",
+          "body": "En Rhino World 2026, McNeel mostró cómo lleva la AI a Rhino sin cambiar su modelo de negocio.",
+          "mini_headline": "McNeel abre Rhino a la AI",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "3EbdkzGwL7c"
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/RhinoAI.jpg"
               },
               {
                 "t": "p",
-                "x": "¿Qué ocurre cuando los diseñadores pueden publicar código más rápido de lo que los equipos pueden juzgar las ideas que hay detrás? Sascha Trinkaus cuenta cómo Freshworks está conectando su sistema de diseño con herramientas de IA y preparando los flujos de ingeniería para que los diseñadores aporten código de producción. Explora cómo la evidencia del mercado y los comentarios de los clientes afinan las ideas antes de prototipar, y cómo los diseñadores llevan su criterio hasta el producto. Junto a Kaushal Cavale, de Ingeniería, analiza qué hace falta para que esto funcione entre disciplinas, dónde importa el juicio humano y qué siguen resolviendo."
+                "x": "Mientras McNeel lanza discretamente Rhino 9 (publicado el 28 de octubre), Campbell Yule informa desde Rhino World 2026 sobre cómo la empresa adopta la AI sin renunciar a su modelo de negocio: los precios y el coste de actualización no cambian, y una licencia de Rhino 9 también permite usar Rhino 6, 7 y 8. “No ha cambiado nada, lo ha cambiado todo”, dijo el fundador y CEO, Bob McNeel."
+              },
+              {
+                "t": "p",
+                "x": "McNeel usa la AI internamente como herramienta de desarrollo y pruebas. Tras la llegada de Claude Opus, Steve Baer esperaba un aumento de productividad del 20%; lo que obtuvieron se acercó a tres veces más. Él y Andy Le Bihan pasaron de 3.3 pull requests fusionadas por día laborable a 9.5. Los cambios se siguen revisando antes de fusionarlos."
+              },
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/RhinoAI-1.jpg"
+              },
+              {
+                "t": "p",
+                "x": "RhinoAI, creado por Callum Sykes con Claude Code, es un plug-in de código abierto que conecta agentes de AI con Rhino mediante un servidor MCP. Dentro de Rhino, un panel localiza agentes como Claude o Codex; fuera, cada usuario aporta su propio modelo y agente."
+              },
+              {
+                "t": "p",
+                "x": "En las pruebas, un agente construyó un exprimidor de cítricos a partir de un dibujo en tres vistas y lo convirtió en un modelo paramétrico de Grasshopper 2. Las pruebas arquitectónicas fueron más desiguales: un modelo de estadio falló hasta que el agente recibió más imágenes. Rhino.Compute ahora también funciona en Linux."
               }
             ]
           }
@@ -1539,73 +1283,499 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "디자이너가 코드를\n배포하자 달라진 것",
-          "body": "Freshworks가 디자인 시스템을 AI에 연결해 디자이너도 코드를 낸다.",
-          "mini_headline": "코드를 내는 디자이너",
+          "headline": "Rhino World에서\nMcNeel, AI 개방",
+          "body": "McNeel은 Rhino World 2026에서 사업 모델 그대로 AI를 품었다.",
+          "mini_headline": "McNeel, Rhino에 AI 허용",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "3EbdkzGwL7c"
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/RhinoAI.jpg"
               },
               {
                 "t": "p",
-                "x": "팀이 아이디어를 판단하는 속도보다 디자이너가 코드를 더 빨리 배포할 수 있게 되면 무슨 일이 벌어질까? Sascha Trinkaus는 Freshworks가 디자인 시스템을 AI 도구와 연결하고, 디자이너가 프로덕션 코드에 기여할 수 있도록 엔지니어링 워크플로를 준비하는 과정을 소개한다. 그는 시장 근거와 고객 피드백이 프로토타이핑 전에 아이디어를 어떻게 다듬는지, 디자이너가 자신의 감각을 제품까지 어떻게 이어 가는지 살핀다. 엔지니어링 부문의 Kaushal Cavale과 함께 분야를 넘나들며 이를 실현하는 데 무엇이 필요한지, 사람의 판단이 어디서 중요한지, 아직 무엇을 찾아가는 중인지도 짚는다."
+                "x": "McNeel이 Rhino 9(10월 28일 출시)를 조용히 배포하는 가운데, Campbell Yule이 Rhino World 2026 현장에서 이 회사가 사업 모델을 유지하면서 AI를 받아들이는 방식을 전한다. 가격과 업그레이드 비용은 그대로이고, Rhino 9 라이선스로 Rhino 6, 7, 8도 실행할 수 있다. 창업자이자 CEO인 Bob McNeel은 “달라진 것은 없지만, 모든 것이 달라졌다”고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "McNeel은 내부에서 AI를 개발·테스트 도구로 쓴다. Claude Opus가 나온 뒤 Steve Baer는 생산성이 20% 오를 것으로 예상했지만, 실제로는 세 배 가까이 뛰었다. 그와 Andy Le Bihan이 근무일 하루에 병합한 풀 리퀘스트는 3.3건에서 9.5건으로 늘었다. 변경 사항은 지금도 병합 전에 검토를 거친다."
+              },
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/RhinoAI-1.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Callum Sykes가 Claude Code로 만든 RhinoAI는 MCP 서버를 통해 AI 에이전트를 Rhino에 연결하는 오픈소스 플러그인이다. Rhino 안에서는 패널이 Claude나 Codex 같은 에이전트를 찾아 주고, 밖에서는 사용자가 직접 모델과 에이전트를 가져오면 된다."
+              },
+              {
+                "t": "p",
+                "x": "테스트에서 에이전트는 삼면도를 바탕으로 시트러스 착즙기를 만들고 이를 파라메트릭 Grasshopper 2 모델로 바꿨다. 건축 테스트 결과는 들쭉날쭉했다. 경기장 모델은 에이전트가 이미지를 더 받기 전까지 실패했다. Rhino.Compute는 이제 Linux에서도 돌아간다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "デザイナーがコードを\nリリースして変わったこと",
-          "body": "FreshworksはデザインシステムをAIとつなぎ、デザイナーも本番コードを書く。",
-          "mini_headline": "コードを出すデザイナー",
+          "headline": "Rhino Worldで\nMcNeelがAIを解禁",
+          "body": "McNeelはRhino World 2026で、事業モデルを保ったままAI導入を示した。",
+          "mini_headline": "McNeel、RhinoにAI導入",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "3EbdkzGwL7c"
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/RhinoAI.jpg"
               },
               {
                 "t": "p",
-                "x": "チームがアイデアの良し悪しを判断するよりも速く、デザイナーがコードを出荷できるようになったら何が起こるのか。Sascha Trinkausは、FreshworksがデザインシステムをAIツールとつなぎ、デザイナーが本番コードに貢献できるようエンジニアリングのワークフローを整えている取り組みを紹介する。市場のエビデンスや顧客フィードバックがプロトタイピング前にアイデアをどう磨くのか、デザイナーが自らのセンスをどう製品まで貫くのかを探る。エンジニアリング部門のKaushal Cavaleとともに、分野をまたいでこれを機能させるには何が必要か、人間の判断がどこで重要になるのか、そしてまだ模索中の点は何かを検討する。"
+                "x": "McNeelがRhino 9（10月28日リリース）を静かに展開するなか、Campbell YuleがRhino World 2026から、同社が事業モデルを維持しつつAIを取り入れる様子を伝える。価格とアップグレード費用は据え置きで、Rhino 9のライセンスでRhino 6、7、8も動かせる。創業者でCEOのBob McNeelは「何も変わっていないが、すべてが変わった」と語った。"
+              },
+              {
+                "t": "p",
+                "x": "McNeelは社内でAIを開発・テストのツールとして使っている。Claude Opusの登場後、Steve Baerは生産性が20%上がると見込んでいたが、実際には三倍近くになった。彼とAndy Le Bihanがマージしたプルリクエストは、営業日あたり3.3件から9.5件に増えた。変更は今もマージ前にレビューされる。"
+              },
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/RhinoAI-1.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Callum SykesがClaude Codeで作ったRhinoAIは、MCPサーバーを介してAIエージェントをRhinoにつなぐオープンソースのプラグインだ。Rhino内ではパネルがClaudeやCodexなどのエージェントを見つけ、外部では自前のモデルとエージェントを持ち込める。"
+              },
+              {
+                "t": "p",
+                "x": "テストでは、エージェントが三面図から柑橘用ジューサーを作り、パラメトリックなGrasshopper 2 モデルに変換した。建築分野のテストはばらつきが大きく、スタジアムのモデルはエージェントが画像を追加で受け取るまで失敗した。Rhino.ComputeはLinuxでも動くようになった。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "设计师开始交付代码后\n发生了什么变化",
-          "body": "Freshworks正将设计系统接入AI工具，让设计师也能贡献生产代码。",
-          "mini_headline": "交付代码的设计师",
+          "headline": "Rhino World上\nMcNeel向AI开放",
+          "body": "McNeel在Rhino World 2026上展示了不改商业模式而引入AI的做法。",
+          "mini_headline": "McNeel让AI进入Rhino",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "3EbdkzGwL7c"
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/RhinoAI.jpg"
               },
               {
                 "t": "p",
-                "x": "当设计师交付代码的速度超过团队评判其背后想法的速度时，会发生什么？Sascha Trinkaus分享了Freshworks如何将设计系统接入AI工具，并为设计师贡献生产代码调整工程工作流。他探讨了市场证据和客户反馈如何在原型制作前打磨想法，以及设计师如何把自己的品味一路带到产品中。他还与工程部门的Kaushal Cavale一起，探讨跨学科落地需要什么、人的判断在哪些环节至关重要，以及他们仍在摸索的问题。"
+                "x": "McNeel悄然推出Rhino 9（10月28日发布）之际，Campbell Yule在Rhino World 2026现场报道了这家公司如何在保留商业模式的同时拥抱AI：价格和升级费用不变，Rhino 9许可证也可运行Rhino 6、7和8。创始人兼CEO Bob McNeel说：“什么都没变，一切都变了。”"
+              },
+              {
+                "t": "p",
+                "x": "McNeel在内部把AI用作开发和测试工具。Claude Opus问世后，Steve Baer预计生产率会提升20%，实际结果接近三倍。他和Andy Le Bihan每个工作日合并的拉取请求从3.3个增至9.5个。代码变更在合并前仍需审查。"
+              },
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/RhinoAI-1.jpg"
+              },
+              {
+                "t": "p",
+                "x": "RhinoAI由Callum Sykes借助Claude Code开发，是一款通过MCP服务器把AI智能体连接到Rhino的开源插件。在Rhino内部，面板可以找到Claude或Codex等智能体；在外部，用户可以自带模型和智能体。"
+              },
+              {
+                "t": "p",
+                "x": "测试中，一个智能体根据三视图做出了柑橘榨汁机，并把它转换为参数化的Grasshopper 2 模型。建筑方面的测试结果参差不齐：体育场模型直到智能体获得更多图像后才成功。Rhino.Compute现在也能在Linux上运行。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Qué cambió cuando diseñadores\nempezaron a entregar código",
-          "body": "Freshworks conecta su sistema de diseño con herramientas de IA para que los diseñadores aporten código de producción.",
-          "mini_headline": "Diseñadores que entregan código",
+          "headline": "McNeel abre Rhino a la AI\nen Rhino World",
+          "body": "En Rhino World 2026, McNeel mostró cómo lleva la AI a Rhino sin cambiar su modelo de negocio.",
+          "mini_headline": "McNeel abre Rhino a la AI",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "3EbdkzGwL7c"
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/RhinoAI.jpg"
               },
               {
                 "t": "p",
-                "x": "¿Qué ocurre cuando los diseñadores pueden publicar código más rápido de lo que los equipos pueden juzgar las ideas que hay detrás? Sascha Trinkaus cuenta cómo Freshworks está conectando su sistema de diseño con herramientas de IA y preparando los flujos de ingeniería para que los diseñadores aporten código de producción. Explora cómo la evidencia del mercado y los comentarios de los clientes afinan las ideas antes de prototipar, y cómo los diseñadores llevan su criterio hasta el producto. Junto a Kaushal Cavale, de Ingeniería, analiza qué hace falta para que esto funcione entre disciplinas, dónde importa el juicio humano y qué siguen resolviendo."
+                "x": "Mientras McNeel lanza discretamente Rhino 9 (publicado el 28 de octubre), Campbell Yule informa desde Rhino World 2026 sobre cómo la empresa adopta la AI sin renunciar a su modelo de negocio: los precios y el coste de actualización no cambian, y una licencia de Rhino 9 también permite usar Rhino 6, 7 y 8. “No ha cambiado nada, lo ha cambiado todo”, dijo el fundador y CEO, Bob McNeel."
+              },
+              {
+                "t": "p",
+                "x": "McNeel usa la AI internamente como herramienta de desarrollo y pruebas. Tras la llegada de Claude Opus, Steve Baer esperaba un aumento de productividad del 20%; lo que obtuvieron se acercó a tres veces más. Él y Andy Le Bihan pasaron de 3.3 pull requests fusionadas por día laborable a 9.5. Los cambios se siguen revisando antes de fusionarlos."
+              },
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/RhinoAI-1.jpg"
+              },
+              {
+                "t": "p",
+                "x": "RhinoAI, creado por Callum Sykes con Claude Code, es un plug-in de código abierto que conecta agentes de AI con Rhino mediante un servidor MCP. Dentro de Rhino, un panel localiza agentes como Claude o Codex; fuera, cada usuario aporta su propio modelo y agente."
+              },
+              {
+                "t": "p",
+                "x": "En las pruebas, un agente construyó un exprimidor de cítricos a partir de un dibujo en tres vistas y lo convirtió en un modelo paramétrico de Grasshopper 2. Las pruebas arquitectónicas fueron más desiguales: un modelo de estadio falló hasta que el agente recibió más imágenes. Rhino.Compute ahora también funciona en Linux."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "smashing-ai-feature-audit",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "AI를 넣어야 할까?\n네 가지 질문 점검법",
+      "body": "Smashing Magazine이 AI 기능의 쓸모를 가릴 질문 네 개를 내놨다.",
+      "mini_headline": "AI 기능 점검 질문 네 가지",
+      "tool": "Design Tokens",
+      "source": "Smashing Magazine",
+      "url": "https://smashingmagazine.com/2026/11/should-you-add-ai-audit-product-teams/",
+      "accent": "#eb367f",
+      "motif": "swatch",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://files.smashing.media/articles/should-you-add-au-audit-product-teams/should-you-add-ai-audit-product-teams.jpg"
+          },
+          {
+            "t": "p",
+            "x": "AI 기능은 사용자의 작업 시간을 아껴 주지만, 아낀 시간을 결과 확인에 다시 쓰게 만들기도 한다. Victor Yocco는 AI가 어디서 제 몫을 하는지, 사용자가 결과를 검증하려면 무엇이 필요한지 제품팀이 가려내도록 돕는 실용적인 점검법을 내놓는다."
+          },
+          {
+            "t": "p",
+            "x": "AI 기능이 돌려주는 가치가 사용자가 조정에 들이는 비용보다 클 때, 다시 말해 손익분기선을 넘을 때 그 기능은 제 몫을 한다. 가치는 덜어 낸 수고, 사람이라면 놓쳤을 오류를 잡아내는 일, 같은 일을 하는 사람들 사이의 일관성으로 드러난다."
+          },
+          {
+            "t": "img",
+            "src": "https://files.smashing.media/articles/should-you-add-au-audit-product-teams/ai-adoption-adjustment-effort.jpg",
+            "cap": "그림 1: AI 추가의 순가치."
+          },
+          {
+            "t": "p",
+            "x": "네 가지 질문은 이렇다. 이 기능이 사용자가 작업에 들이는 전체 수고를 줄이는가? 지금 일하는 방식보다 나은가? 사용자가 오류를 잡아낼 수 있는가? 한 해 동안 쓴 뒤에도 AI가 틀렸을 때 알아챌 수 있는가? 질문마다 출처 표시나 검증 프롬프트 같은 설계 조건, 또는 검증 능력이 계속 쓰이도록 하는 장치가 따라붙는다."
+          },
+          {
+            "t": "p",
+            "x": "다음 AI 기능을 로드맵에 올리기 전에, 실제로 그 일을 하는 사람과 함께 60분이면 해 볼 수 있는 점검이다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Should you add AI?\nA four-question audit",
+          "body": "Smashing Magazine offers a four-question audit for deciding where an AI feature earns its place in a product.",
+          "mini_headline": "A four-question AI audit",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://files.smashing.media/articles/should-you-add-au-audit-product-teams/should-you-add-ai-audit-product-teams.jpg"
+              },
+              {
+                "t": "p",
+                "x": "An AI feature can save users time on a task, only for them to spend it checking the results. Victor Yocco offers a practical audit to help product teams decide where AI earns its place and what users need to verify its output."
+              },
+              {
+                "t": "p",
+                "x": "An AI feature earns its place when what it returns beats what it costs the user to adjust — the break-even line. Returns come as effort removed, errors caught that the person would have missed, and consistency across people doing the same work."
+              },
+              {
+                "t": "img",
+                "src": "https://files.smashing.media/articles/should-you-add-au-audit-product-teams/ai-adoption-adjustment-effort.jpg",
+                "cap": "Figure 1: Net value of an AI addition."
+              },
+              {
+                "t": "p",
+                "x": "Four questions: Does this reduce the total effort the task takes for this user? Does this beat the way the user does the task now? Can the user catch the errors? After a year of using this, can the user still tell when the AI is wrong? Each produces a design condition, such as provenance display and verification prompts, or a mechanism that keeps verification skill in use."
+              },
+              {
+                "t": "p",
+                "x": "The audit can be run in 60 minutes, with someone who does the work, before the next AI feature reaches the roadmap."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "AI를 넣어야 할까?\n네 가지 질문 점검법",
+          "body": "Smashing Magazine이 AI 기능의 쓸모를 가릴 질문 네 개를 내놨다.",
+          "mini_headline": "AI 기능 점검 질문 네 가지",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://files.smashing.media/articles/should-you-add-au-audit-product-teams/should-you-add-ai-audit-product-teams.jpg"
+              },
+              {
+                "t": "p",
+                "x": "AI 기능은 사용자의 작업 시간을 아껴 주지만, 아낀 시간을 결과 확인에 다시 쓰게 만들기도 한다. Victor Yocco는 AI가 어디서 제 몫을 하는지, 사용자가 결과를 검증하려면 무엇이 필요한지 제품팀이 가려내도록 돕는 실용적인 점검법을 내놓는다."
+              },
+              {
+                "t": "p",
+                "x": "AI 기능이 돌려주는 가치가 사용자가 조정에 들이는 비용보다 클 때, 다시 말해 손익분기선을 넘을 때 그 기능은 제 몫을 한다. 가치는 덜어 낸 수고, 사람이라면 놓쳤을 오류를 잡아내는 일, 같은 일을 하는 사람들 사이의 일관성으로 드러난다."
+              },
+              {
+                "t": "img",
+                "src": "https://files.smashing.media/articles/should-you-add-au-audit-product-teams/ai-adoption-adjustment-effort.jpg",
+                "cap": "그림 1: AI 추가의 순가치."
+              },
+              {
+                "t": "p",
+                "x": "네 가지 질문은 이렇다. 이 기능이 사용자가 작업에 들이는 전체 수고를 줄이는가? 지금 일하는 방식보다 나은가? 사용자가 오류를 잡아낼 수 있는가? 한 해 동안 쓴 뒤에도 AI가 틀렸을 때 알아챌 수 있는가? 질문마다 출처 표시나 검증 프롬프트 같은 설계 조건, 또는 검증 능력이 계속 쓰이도록 하는 장치가 따라붙는다."
+              },
+              {
+                "t": "p",
+                "x": "다음 AI 기능을 로드맵에 올리기 전에, 실제로 그 일을 하는 사람과 함께 60분이면 해 볼 수 있는 점검이다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AIを加えるべきか？\n四つの問いで点検",
+          "body": "Smashing MagazineがAI機能の居場所を見極める四つの問いを示した。",
+          "mini_headline": "AI機能を点検する四つの問い",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://files.smashing.media/articles/should-you-add-au-audit-product-teams/should-you-add-ai-audit-product-teams.jpg"
+              },
+              {
+                "t": "p",
+                "x": "AI機能はユーザーの作業時間を節約しても、その時間が結果の確認に費やされてしまうことがある。Victor Yoccoは、AIがどこで役に立つのか、そしてユーザーが出力を検証するには何が必要かをプロダクトチームが判断するための実践的な点検法を示す。"
+              },
+              {
+                "t": "p",
+                "x": "AI機能が役に立つのは、それがもたらす価値が、ユーザーが調整にかけるコストを上回るとき、つまり損益分岐線を超えるときだ。価値は、省かれた手間、人が見逃していたはずの誤りの検出、同じ仕事をする人々の間での一貫性として現れる。"
+              },
+              {
+                "t": "img",
+                "src": "https://files.smashing.media/articles/should-you-add-au-audit-product-teams/ai-adoption-adjustment-effort.jpg",
+                "cap": "図 1：AI追加による正味の価値。"
+              },
+              {
+                "t": "p",
+                "x": "四つの問いは次のとおりだ。このユーザーにとって作業全体の手間は減るか。ユーザーの今のやり方より優れているか。ユーザーは誤りに気づけるか。一年使った後も、ユーザーはAIが間違っているときにそれを見抜けるか。それぞれの問いから、出典の表示や検証を促すプロンプトといった設計条件、あるいは検証スキルを使い続けるための仕組みが導かれる。"
+              },
+              {
+                "t": "p",
+                "x": "この点検は、次のAI機能がロードマップに載る前に、実際にその仕事をする人と一緒に60分で実施できる。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "该不该加AI？\n四个问题来检验",
+          "body": "Smashing Magazine提出四个问题，帮助判断AI功能在产品中是否值得存在。",
+          "mini_headline": "四个问题审视AI功能",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://files.smashing.media/articles/should-you-add-au-audit-product-teams/should-you-add-ai-audit-product-teams.jpg"
+              },
+              {
+                "t": "p",
+                "x": "AI功能可能为用户节省了完成任务的时间，结果用户又把这些时间花在检查结果上。Victor Yocco提出一套实用的审视方法，帮助产品团队判断AI在哪里值得加入，以及用户需要什么来核验它的输出。"
+              },
+              {
+                "t": "p",
+                "x": "当AI功能带来的回报超过用户为调整它所付出的成本，也就是越过盈亏平衡线时，它才值得存在。回报体现为省下的工夫、发现本会被人遗漏的错误，以及做同样工作的人之间的一致性。"
+              },
+              {
+                "t": "img",
+                "src": "https://files.smashing.media/articles/should-you-add-au-audit-product-teams/ai-adoption-adjustment-effort.jpg",
+                "cap": "图 1：加入AI的净价值。"
+              },
+              {
+                "t": "p",
+                "x": "四个问题是：它能否减少这位用户完成任务的总工作量？它是否胜过用户现在的做法？用户能否发现错误？使用一年之后，用户还能否察觉AI何时出错？每个问题都会引出一项设计条件，例如来源显示和核验提示，或是让核验能力持续得到运用的机制。"
+              },
+              {
+                "t": "p",
+                "x": "在下一个AI功能进入路线图之前，可以和实际做这项工作的人一起，用60分钟完成这次审视。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "¿Conviene añadir AI?\nAuditoría en cuatro preguntas",
+          "body": "Smashing Magazine propone una auditoría de cuatro preguntas para decidir dónde se justifica una función de AI.",
+          "mini_headline": "Auditoría de AI en cuatro preguntas",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://files.smashing.media/articles/should-you-add-au-audit-product-teams/should-you-add-ai-audit-product-teams.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Una función de AI puede ahorrar tiempo a los usuarios en una tarea, solo para que lo gasten revisando los resultados. Victor Yocco propone una auditoría práctica para ayudar a los equipos de producto a decidir dónde se justifica la AI y qué necesitan los usuarios para verificar sus resultados."
+              },
+              {
+                "t": "p",
+                "x": "Una función de AI se justifica cuando lo que aporta supera lo que le cuesta al usuario ajustarla: el punto de equilibrio. Lo que aporta se traduce en esfuerzo eliminado, errores detectados que la persona habría pasado por alto y coherencia entre quienes hacen el mismo trabajo."
+              },
+              {
+                "t": "img",
+                "src": "https://files.smashing.media/articles/should-you-add-au-audit-product-teams/ai-adoption-adjustment-effort.jpg",
+                "cap": "Figura 1: Valor neto de añadir AI."
+              },
+              {
+                "t": "p",
+                "x": "Cuatro preguntas: ¿Reduce esto el esfuerzo total que la tarea le supone a este usuario? ¿Supera la forma en que el usuario hace hoy la tarea? ¿Puede el usuario detectar los errores? Tras un año de uso, ¿sigue pudiendo el usuario darse cuenta de cuándo se equivoca la AI? Cada una da lugar a una condición de diseño, como mostrar la procedencia e incluir avisos de verificación, o a un mecanismo que mantenga en uso la habilidad de verificar."
+              },
+              {
+                "t": "p",
+                "x": "La auditoría puede hacerse en 60 minutos, con alguien que haga ese trabajo, antes de que la próxima función de AI llegue a la hoja de ruta."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "AI를 넣어야 할까?\n네 가지 질문 점검법",
+          "body": "Smashing Magazine이 AI 기능의 쓸모를 가리는 네 질문을 제시했다.",
+          "mini_headline": "AI 기능 점검 질문 네 가지",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://files.smashing.media/articles/should-you-add-au-audit-product-teams/should-you-add-ai-audit-product-teams.jpg"
+              },
+              {
+                "t": "p",
+                "x": "AI 기능은 사용자의 작업 시간을 아껴 주지만, 사용자는 그 시간을 결과 확인에 다시 쓰게 될 수 있다. Victor Yocco는 제품팀이 AI가 어디서 제 몫을 하는지, 사용자가 결과를 검증하려면 무엇이 필요한지 판단하도록 돕는 실용적인 점검법을 제시한다."
+              },
+              {
+                "t": "p",
+                "x": "AI 기능은 그것이 돌려주는 가치가 사용자가 조정하는 데 드는 비용보다 클 때, 즉 손익분기선을 넘을 때 제 몫을 한다. 그 가치는 덜어낸 수고, 사람이 놓쳤을 오류를 잡아내는 것, 같은 일을 하는 사람들 사이의 일관성으로 나타난다."
+              },
+              {
+                "t": "img",
+                "src": "https://files.smashing.media/articles/should-you-add-au-audit-product-teams/ai-adoption-adjustment-effort.jpg",
+                "cap": "그림 1: AI 추가의 순가치."
+              },
+              {
+                "t": "p",
+                "x": "네 가지 질문은 이렇다. 이 기능은 이 사용자가 작업에 들이는 전체 수고를 줄이는가? 사용자가 지금 일하는 방식보다 나은가? 사용자가 오류를 잡아낼 수 있는가? 한 해 동안 쓴 뒤에도 사용자가 AI가 틀렸을 때 알아챌 수 있는가? 각 질문은 출처 표시와 검증 프롬프트 같은 설계 조건이나, 검증 능력이 계속 쓰이도록 하는 장치로 이어진다."
+              },
+              {
+                "t": "p",
+                "x": "이 점검은 다음 AI 기능이 로드맵에 오르기 전에, 실제로 그 일을 하는 사람과 함께 60분 만에 해 볼 수 있다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AIを加えるべきか？\n四つの問いで点検",
+          "body": "Smashing MagazineがAI機能の居場所を見極める四つの問いを示した。",
+          "mini_headline": "AI機能を点検する四つの問い",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://files.smashing.media/articles/should-you-add-au-audit-product-teams/should-you-add-ai-audit-product-teams.jpg"
+              },
+              {
+                "t": "p",
+                "x": "AI機能はユーザーの作業時間を節約しても、その時間が結果の確認に費やされてしまうことがある。Victor Yoccoは、AIがどこで役に立つのか、そしてユーザーが出力を検証するには何が必要かをプロダクトチームが判断するための実践的な点検法を示す。"
+              },
+              {
+                "t": "p",
+                "x": "AI機能が役に立つのは、それがもたらす価値が、ユーザーが調整にかけるコストを上回るとき、つまり損益分岐線を超えるときだ。価値は、省かれた手間、人が見逃していたはずの誤りの検出、同じ仕事をする人々の間での一貫性として現れる。"
+              },
+              {
+                "t": "img",
+                "src": "https://files.smashing.media/articles/should-you-add-au-audit-product-teams/ai-adoption-adjustment-effort.jpg",
+                "cap": "図 1：AI追加による正味の価値。"
+              },
+              {
+                "t": "p",
+                "x": "四つの問いは次のとおりだ。このユーザーにとって作業全体の手間は減るか。ユーザーの今のやり方より優れているか。ユーザーは誤りに気づけるか。一年使った後も、ユーザーはAIが間違っているときにそれを見抜けるか。それぞれの問いから、出典の表示や検証を促すプロンプトといった設計条件、あるいは検証スキルを使い続けるための仕組みが導かれる。"
+              },
+              {
+                "t": "p",
+                "x": "この点検は、次のAI機能がロードマップに載る前に、実際にその仕事をする人と一緒に60分で実施できる。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "该不该加AI？\n四个问题来检验",
+          "body": "Smashing Magazine提出四个问题，帮助判断AI功能在产品中是否值得存在。",
+          "mini_headline": "四个问题审视AI功能",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://files.smashing.media/articles/should-you-add-au-audit-product-teams/should-you-add-ai-audit-product-teams.jpg"
+              },
+              {
+                "t": "p",
+                "x": "AI功能可能为用户节省了完成任务的时间，结果用户又把这些时间花在检查结果上。Victor Yocco提出一套实用的审视方法，帮助产品团队判断AI在哪里值得加入，以及用户需要什么来核验它的输出。"
+              },
+              {
+                "t": "p",
+                "x": "当AI功能带来的回报超过用户为调整它所付出的成本，也就是越过盈亏平衡线时，它才值得存在。回报体现为省下的工夫、发现本会被人遗漏的错误，以及做同样工作的人之间的一致性。"
+              },
+              {
+                "t": "img",
+                "src": "https://files.smashing.media/articles/should-you-add-au-audit-product-teams/ai-adoption-adjustment-effort.jpg",
+                "cap": "图 1：加入AI的净价值。"
+              },
+              {
+                "t": "p",
+                "x": "四个问题是：它能否减少这位用户完成任务的总工作量？它是否胜过用户现在的做法？用户能否发现错误？使用一年之后，用户还能否察觉AI何时出错？每个问题都会引出一项设计条件，例如来源显示和核验提示，或是让核验能力持续得到运用的机制。"
+              },
+              {
+                "t": "p",
+                "x": "在下一个AI功能进入路线图之前，可以和实际做这项工作的人一起，用60分钟完成这次审视。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "¿Conviene añadir AI?\nAuditoría en cuatro preguntas",
+          "body": "Smashing Magazine propone una auditoría de cuatro preguntas para decidir dónde se justifica una función de AI.",
+          "mini_headline": "Auditoría de AI en cuatro preguntas",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://files.smashing.media/articles/should-you-add-au-audit-product-teams/should-you-add-ai-audit-product-teams.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Una función de AI puede ahorrar tiempo a los usuarios en una tarea, solo para que lo gasten revisando los resultados. Victor Yocco propone una auditoría práctica para ayudar a los equipos de producto a decidir dónde se justifica la AI y qué necesitan los usuarios para verificar sus resultados."
+              },
+              {
+                "t": "p",
+                "x": "Una función de AI se justifica cuando lo que aporta supera lo que le cuesta al usuario ajustarla: el punto de equilibrio. Lo que aporta se traduce en esfuerzo eliminado, errores detectados que la persona habría pasado por alto y coherencia entre quienes hacen el mismo trabajo."
+              },
+              {
+                "t": "img",
+                "src": "https://files.smashing.media/articles/should-you-add-au-audit-product-teams/ai-adoption-adjustment-effort.jpg",
+                "cap": "Figura 1: Valor neto de añadir AI."
+              },
+              {
+                "t": "p",
+                "x": "Cuatro preguntas: ¿Reduce esto el esfuerzo total que la tarea le supone a este usuario? ¿Supera la forma en que el usuario hace hoy la tarea? ¿Puede el usuario detectar los errores? Tras un año de uso, ¿sigue pudiendo el usuario darse cuenta de cuándo se equivoca la AI? Cada una da lugar a una condición de diseño, como mostrar la procedencia e incluir avisos de verificación, o a un mecanismo que mantenga en uso la habilidad de verificar."
+              },
+              {
+                "t": "p",
+                "x": "La auditoría puede hacerse en 60 minutos, con alguien que haga ese trabajo, antes de que la próxima función de AI llegue a la hoja de ruta."
               }
             ]
           }

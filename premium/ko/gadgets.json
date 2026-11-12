@@ -17091,6 +17091,154 @@
           "x": "Pixel 11 시리즈의 Call Screen도 좋아졌다. 모르는 번호로 전화가 오면 Gemini가 훨씬 자연스러운 말투로 용건을 묻고, 화면에는 실시간 자막이 뜬다. HiLight는 이제 Google Messages도 지원한다. 휴대폰을 엎어 둔 상태에서 즐겨찾는 연락처의 메시지가 오면 빛으로 알려 준다. Pixel Tag는 11월 11일 나온다."
         }
       ]
+    },
+    "gadgets/windows-photos-adobe-genai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Adobe-Max.jpg",
+          "cap": "Windows 기본 사진 편집기에 곧 Adobe-powered 기능이 들어온다"
+        },
+        {
+          "t": "p",
+          "x": "Adobe와 Microsoft가 파트너십을 넓혀 Windows 11에 AI-powered 편집 기능을 새로 들이고, Arm-based PCs에서 Creative Cloud 성능도 끌어올린다. 발표 무대는 Adobe Max 2026이었다."
+        },
+        {
+          "t": "p",
+          "x": "Windows 11 기본 Photos 앱에 Adobe의 생성형 AI 도구가 들어간다. 이미지를 원래 경계 바깥으로 넓히고, 일부가 잘리지 않게 사진을 회전하고, 원치 않는 물체를 지운 빈자리를 자동으로 채운다. 텍스트 기반 편집도 되고, Photos 뷰어에서 Adobe Express를 바로 열어 사진을 초대장이나 소셜 미디어 게시물 같은 디자인으로 바꿀 수도 있다."
+        },
+        {
+          "t": "p",
+          "x": "Windows Insiders가 2026년 12월부터 먼저 써 볼 수 있다. 그 뒤 출시 일정은 두 회사 모두 밝히지 않았고, 일부 AI 기능에 유료 구독이 필요한지도 설명하지 않았다."
+        },
+        {
+          "t": "p",
+          "x": "Adobe는 Photoshop, Premiere, After Effects, Substance 3D Painter(beta)도 Windows on Arm 기기에 맞게 다듬었다. Nvidia RTX Spark를 탑재한 Microsoft의 Surface Laptop Ultra가 대표적이다. Photoshop은 온디바이스 생성형 AI 처리가 빨라졌지만, 일부 기능과 서드파티 플러그인은 아직 Windows on Arm과 호환되지 않는다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/_processed_/8/b/csm_Adobe-X-Microsoft-Windows-11-features_86f7cbac0b.gif",
+          "cap": "Adobe X Microsoft Windows 11 기능"
+        }
+      ]
+    },
+    "gadgets/msi-edgemesa-n-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-005US-AI-Supercomputer-Desktop-Cover.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "MSI의 EdgeMesa N AI+는 NVIDIA의 RTX Spark N1X 슈퍼칩과 최대 128GB 통합 메모리를 작은 데스크톱에 넣었다. US에서 파는 두 구성은 프로세서와 그래픽 하드웨어가 같아서, 사실상 메모리와 저장 용량만 고르면 된다."
+        },
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-005US-AI-Supercomputer-Desktop-5.png"
+        },
+        {
+          "t": "p",
+          "x": "RTX Spark N1X는 6,144-core Blackwell RTX GPU와 20-core NVIDIA Grace CPU를 묶었고, FP4 AI 성능은 최대 1 petaFLOP이다. MSI가 거듭 강조하는 용도는 늘 켜 두는 AI 에이전트다."
+        },
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-006US-AI-Supercomputer-Desktop-1.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "두 버전 모두 256-bit 인터페이스의 LPDDR5X-9600을 쓴다. X-006US는 64GB와 1TB SSD를, X-005US는 128GB와 4TB를 실었다. 통합 메모리라 CPU와 GPU가 같은 메모리 풀을 읽고, 모델 가중치와 작업 데이터도 한곳에 머문다."
+        },
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-005US-AI-Supercomputer-Desktop-4-1.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "본체는 너비 5.98인치, 깊이 5.79인치, 높이 2.09인치다. 냉각은 베이퍼 챔버가 맡고 전원 어댑터는 240W다. 20Gbps USB Type-C 포트 네 개와 10G LAN, Wi-Fi 7을 갖췄고 디스플레이는 최대 네 대까지 물린다. 프로세서가 Arm이라 쓰는 툴체인이 이를 지원해야 한다. X-006US 가격은 $4,699다."
+        }
+      ]
+    },
+    "gadgets/anker-soundcore-typeless": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Anker-Soundcore-Work-Typeless.jpg",
+          "cap": "Typeless"
+        },
+        {
+          "t": "p",
+          "x": "AI-powered 음성 받아쓰기·텍스트 처리 앱 Typeless가 Anker와 공식 파트너십을 맺고 웨어러블 마이크 Soundcore Work에 AI 음성 받아쓰기 앱을 제공한다고 발표했다. Anker가 CES 2026에서 선보인 이 제품은 판매된 지도 꽤 됐다. 이제 웨어러블로 이메일, 메시지, AI 프롬프트에 긴 문서까지 받아쓸 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "Soundcore Work는 옷깃에 달고 속삭이듯 자연스럽게 말해도 된다는 게 장점이다. 처음에는 Anker 전용 앱으로 전사와 요약을 해 주는 AI-powered 회의 녹음기로 나왔다. 동전만 한 크기에 듀얼 마이크를 넣었고, 옷에 클립으로 끼우거나 목에 걸 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "대화를 녹음하고 전사본을 훑어볼 필요 없이, 쓰고 싶은 내용을 앱에 바로 받아쓰게 하면 된다. 말을 읽기 쉬운 글로 다듬는 건 Typeless, 소리를 담는 건 웨어러블 몫이다."
+        },
+        {
+          "t": "p",
+          "x": "이 통합 기능은 Windows, macOS, iOS, Android에서 돌아간다. 기존 Soundcore Work 사용자는 Typeless에 연결하기 전에 Soundcore 앱에서 마이크 펌웨어부터 업데이트해야 한다. 데스크톱에서는 웨어러블을 두 번 탭해 받아쓰기를 켜고 끌 수도 있다. Anker에 따르면 배터리는 최대 여덟 시간, 충전 케이스를 쓰면 32시간까지 간다. Soundcore Work는 이미 $159에 팔리고 있다."
+        }
+      ]
+    },
+    "gadgets/homeview-siri-fix-update": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.macrumors.com/t/PcvtzDz-CC6xLnTkUzpoizZN5MQ=/2000x/article-new/2026/10/homeview-wall-mount.jpg"
+        },
+        {
+          "t": "p",
+          "x": "테크 저널리스트 Joanna Stern이 오늘 New Things 뉴스레터 무료판에 HomeView 리뷰를 실었다. 기기에 카메라가 달려 있는데도 Siri AI가 \"당신을 볼 카메라가 없어요\"라고 답한 일이 있었다고 한다. Apple은 이를 고친 소프트웨어 업데이트를 12월에 낼 계획이라고 Stern에게 확인했다."
+        },
+        {
+          "t": "p",
+          "x": "HomeView가 Stern을 알아본 상태에서도 Siri AI는 차고 문 열기와 현관문 잠금 해제를 거부했다. Apple은 다음 달 소프트웨어 업데이트부터 이 기능을 쓸 수 있다고 그에게 밝혔다. 그때까지는 HomeView에서 Home 앱을 열고 화면의 컨트롤을 눌러 도어록과 차고 문을 열면 된다."
+        },
+        {
+          "t": "video",
+          "yt": "yVTcVtLn2o4"
+        },
+        {
+          "t": "p",
+          "x": "\"현재 HomeView가 인식한 사용자는 도어록과 차고 문을 포함한 보안 액세서리를 HomeView 화면에서 바로 잠금 해제할 수 있습니다\"라고 Apple 대변인은 Stern에게 말했다. \"다음 달 소프트웨어 업데이트로 이 기능이 Siri AI까지 확장돼, 인식된 사용자가 보안 액세서리를 관리할 방법이 더 늘어납니다.\""
+        },
+        {
+          "t": "p",
+          "x": "HomeView는 이번 주 금요일 나오고, 미국(U.S.) 가격은 $299부터다. 우리도 직접 써 본 소감을 핸즈온 리뷰 영상으로 공개했다."
+        }
+      ]
+    },
+    "gadgets/gemini-carplay-app": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/google-brings-the-gemini-app-to-apple-carplay/l-intro-1794426857.jpg",
+          "cap": "Google, Apple CarPlay에 Gemini 앱 출시"
+        },
+        {
+          "t": "p",
+          "x": "Google이 Gemini 앱을 Apple CarPlay에 내놓았다. 챗봇을 되도록 많은 화면과 스피커, 경험 곳곳에 심어 피할 수 없게 만들려는 행보의 연장선이다. 오늘부터 Gemini Live가 지원하는 모든 언어로 쓸 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "그동안 CarPlay에서 이 AI 어시스턴트를 쓰려면 Google Maps 앱을 거쳐야 했다. 이제는 화면의 Gemini 아이콘만 누르면 된다. Google에 따르면 차 안에서 Gemini와 나누던 대화를 이어 가거나 새 대화를 시작할 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "Google이 제안하는 쓰임새는 출퇴근길 회의 준비, 이메일 확인, Daily Brief 듣기, 근처 가볼 만한 곳 추천 같은 것들이다. 대화는 Gemini iPhone 앱과 동기화돼 채팅 기록에 남는다."
+        },
+        {
+          "t": "p",
+          "x": "CarPlay에서 어시스턴트를 쓰려면 iPhone의 Gemini 앱을 최신 버전으로 유지하고 마이크 권한을 켜 둬야 한다. iPhone에서 Gemini Live를 한 번 이상 써 봤어야 한다는 조건도 붙는다."
+        },
+        {
+          "t": "p",
+          "x": "Android Auto 챗봇에 Personal Assistance(다른 Google 앱의 정보를 끌어와 답을 더 개인에 맞추는 기능)를 켠 지 얼마 안 돼 Gemini 앱이 CarPlay에 들어왔다. Google built-in 차량의 Gemini에도 Personal Intelligence가 들어가고 있다."
+        }
+      ]
     }
   }
 }

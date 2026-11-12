@@ -1,31 +1,7 @@
-{
- "date": "2026-11-12",
- "section": "music",
- "media": [
-  {
-   "id": "ace-studio-music-v1",
-   "type": "image",
-   "src": "pipeline/media/ace-studio-music-v1.jpg"
-  },
-  {
-   "id": "musicflux-text-music-editing",
-   "type": "image",
-   "src": "pipeline/media/musicflux-text-music-editing.png"
-  },
-  {
-   "id": "labelcamp-ai-connector",
-   "type": "image",
-   "src": "pipeline/media/labelcamp-ai-connector.jpg"
-  },
-  {
-   "id": "culturecustodian-cloned-artist",
-   "type": "image",
-   "src": "pipeline/media/culturecustodian-cloned-artist.jpg"
-  },
-  {
-   "id": "nvidia-suno-subpoena-quash",
-   "type": "image",
-   "src": "pipeline/media/nvidia-suno-subpoena-quash.jpg"
-  }
- ]
-}
+{"date":"2026-11-13","section":"music","media":[
+{"id":"sonura-flow-text-loops","type":"video","src":"pipeline/media/sonura-flow-text-loops.mp4","poster":"pipeline/media/sonura-flow-text-loops.jpg"},
+{"id":"stable-audio-nov-workspace","type":"image","src":"pipeline/media/stable-audio-nov-workspace.jpg"},
+{"id":"elevenlabs-voice-restoration-music","type":"image","src":"pipeline/media/elevenlabs-voice-restoration-music.jpg"},
+{"id":"ringo-charlie-whatsapp-sync","type":"image","src":"pipeline/media/ringo-charlie-whatsapp-sync.jpg"},
+{"id":"knxwledge-streaming-app-takedowns","type":"image","src":"pipeline/media/knxwledge-streaming-app-takedowns.png"}
+]}

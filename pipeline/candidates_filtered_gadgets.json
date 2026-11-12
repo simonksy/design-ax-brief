@@ -1,68 +1,224 @@
 {
   "section": "gadgets",
-  "now_iso": "2026-11-11T22:00:41Z",
+  "now_iso": "2026-11-12T22:03:17Z",
   "window_hours": 336,
   "items": [
     {
-      "title": "Google brings the Gemini app to Apple CarPlay",
-      "url": "https://www.engadget.com/2314093/google-brings-the-gemini-app-to-apple-carplay/",
+      "title": "Google and Samsung’s Android XR Smart Glasses Are Finally Here",
+      "url": "https://www.wired.com/story/google-samsung-intelligent-eyewear-launch-warby-parker-gentle-monster-smart-glasses/",
+      "source": "WIRED",
+      "domain": "wired.com",
+      "category": "gadgets",
+      "published_iso": "2026-11-12T14:00:00.000Z",
+      "excerpt": "The Warby Parker and Gentle Monster frames cost $395 and $449, respectively, and come in a handful of styles.",
+      "og_image": "https://media.wired.com/photos/6af47aa0e19a3e976bf95d8a/191:100/w_1280,c_limit/DSC_0094.jpg",
+      "history_match": {
+        "score": 0.401,
+        "date": "2026-11-06",
+        "url": "https://www.androidauthority.com/samsung-smart-glasses-pre-orders-3732159/",
+        "title": "Samsung Android XR smart glasses pre-orders get started on November 12",
+        "band": "likely-repeat"
+      },
+      "cluster": "c0"
+    },
+    {
+      "title": "The first batch of Android XR smartglasses made me rethink my stance on specs without displays",
+      "url": "https://www.engadget.com/2314258/android-xr-smartglasses-hands-on/",
       "source": "Engadget",
+      "domain": "engadget.com",
       "category": "gadgets",
-      "published_iso": "2026-11-11T19:54:55+00:00",
-      "excerpt": "The chatbot was already available through the Google Maps app.",
-      "og_image": "https://www.engadget.com/img/gallery/google-brings-the-gemini-app-to-apple-carplay/l-intro-1794426857.jpg",
+      "published_iso": "2026-11-12T14:00:00+00:00",
+      "excerpt": "Google’s first run of intelligent eyewear has a lot to offer.",
+      "og_image": "https://www.engadget.com/img/gallery/the-first-batch-of-android-xr-smartglasses-made-me-rethink-my-stance-on-specs-without-displays/l-intro-1794495834.jpg"
+    },
+    {
+      "title": "I tested Google's $395 Intelligent Eyewear smart glasses — I'm not sure why I'd buy them",
+      "url": "https://www.androidauthority.com/google-intelligent-eyewear-hands-on-3734091/",
+      "source": "Android Authority",
+      "domain": "androidauthority.com",
+      "category": "gadgets",
+      "published_iso": "2026-11-12T14:00:11+00:00",
+      "excerpt": "Google's Intelligent Eyewear smart glasses have arrived. They look great and how robust Gemini support — but I'm not sure that's enough.",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/11/Google-Intelligent-Eyewear-23.jpg",
       "history_match": {
-        "score": 0.211,
-        "date": "2026-10-25",
-        "url": "https://www.androidauthority.com/gemini-notebook-connected-app-3727634/",
-        "title": "You can now manage Gemini Notebooks directly from your Gemini chats",
+        "score": 0.231,
+        "date": "2026-10-30",
+        "url": "https://www.digitaltrends.com/phones/google-android-xr-cli-developer-tools-2026/",
+        "title": "Google's new Android XR tools let developers test apps without needing to buy expensive smart glasses",
         "band": "related"
       }
     },
     {
-      "title": "3,500 laser-armed AI submarine drones patrol Norwegian salmon farms, killing sea lice and protecting 112 million fish — parasites get zapped by high-tech alternative to harsh chemical baths",
-      "url": "https://www.tomshardware.com/tech-industry/drones/3-500-ai-laser-robots-patrol-norwegian-salmon-farms-killing-sea-lice-parasites-get-zapped-by-high-tech-alternative-to-harsh-chemical-baths",
-      "source": "Tom's Hardware",
+      "title": "Pixel Watch and Fitbit Air will be able to control Android XR glasses with gestures",
+      "url": "https://9to5google.com/2026/11/12/android-xr-will-support-piel-watch-and-fitbit-air-control/",
+      "source": "9to5Google",
+      "domain": "9to5google.com",
       "category": "gadgets",
-      "published_iso": "2026-11-11T10:00:00Z",
-      "excerpt": "3,500 Stingray AI laser robots deployed around salmon pens along the Norwegian coast 24/7 protect over 112 million fish from sea lice.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/CcJj3zzJzKto8sKy4SRuze-1920-80.jpg"
-    },
-    {
-      "title": "Bizarre AI chip demo uses butter to highlight how new chip runs 40 degrees cooler than the competition — competing chips melt butter TIM in strange new dairy-based benchmark, Deepx processor impresses with low thermals",
-      "url": "https://www.tomshardware.com/tech-industry/data-centers/deepx-ai-chip-runs-so-cool-that-a-butter-heatsink-doesnt-melt-the-dx-m1-processor-impresses-in-a-bizarre-new-dairy-based-benchmark",
-      "source": "Tom's Hardware",
-      "category": "gadgets",
-      "published_iso": "2026-11-09T15:15:00Z",
-      "excerpt": "South Korean chip startup DEEPX says its new AI chip will be at the heart of upcoming Hyundai robots.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/ZgC56W69q8WA6rhcBjxWKn-1920-80.jpg"
-    },
-    {
-      "title": "Blue Phone gives Google's Pixel 10 Pro an AI assistant that goes beyond Gemini",
-      "url": "https://www.androidauthority.com/blue-os-google-pixel-10-pro-3733835/",
-      "source": "Android Authority",
-      "category": "gadgets",
-      "published_iso": "2026-11-11T18:00:13+00:00",
-      "excerpt": "Blue phone brings an AI-powered operating system to Pixel 10 Pro, letting an assistant handle tasks across apps.",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2025/09/google-pixel-10-pro-screen-on-home-screen-scaled.jpg",
+      "published_iso": "2026-11-12T16:39:04+00:00",
+      "excerpt": "Android XR glasses get their own control wearable, but you might already own it. Google says the Fitbit Air and...",
+      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/android-xr-intelligent-eyewear-warby-parker-28.jpg?quality=82&strip=all&resize=1200,628",
       "history_match": {
-        "score": 0.185,
-        "date": "2026-11-02",
-        "url": "https://www.androidauthority.com/gemini-overlay-sparkling-animation-rollout-3729835/",
-        "title": "Google is giving Gemini's overlay a literal sparkle on your Android phone",
+        "score": 0.181,
+        "date": "2026-10-17",
+        "url": "https://www.androidauthority.com/hey-gemini-camera-activation-android-xr-3724200/",
+        "title": "Google’s next Gemini trick could change how you use Android XR glasses",
         "band": "related"
       }
     },
     {
-      "title": "Nothing’s mysterious upcoming device shows off a record button in new teaser",
-      "url": "https://www.androidauthority.com/nothing-record-button-teaser-3733552/",
-      "source": "Android Authority",
+      "title": "삼성, 첫 AI 안경 내달 10일 출시…판매가 65만원대",
+      "url": "https://www.etnews.com/20261112000321",
+      "source": "전자신문",
+      "domain": "etnews.com",
       "category": "gadgets",
-      "published_iso": "2026-11-10T18:15:55+00:00",
-      "excerpt": "Nothing has shared a new teaser for an upcoming product. Could it be the device CEO Carl Pei hinted at earlier this month?",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/11/nothing-ai-hardware-coming-soon-scaled.jpg",
+      "published_iso": "2026-11-12T23:00:00+09:00",
+      "excerpt": "삼성전자가 첫 인공지능(AI) 스마트안경 '인텔리전트 아이웨어'를 내달 10일 한국과 미국에서 출시한다. 구글 제미나이를 탑재해 통역·길 안내·회의 요약 등을 제공한다. 스마트폰 중심이던 AI 경험을 안경 폼팩터로 넓히는 행보다. 삼성전자는 12일(현지시간) 미국 뉴욕에서 구글, 젠틀몬스터, 워비파커와 협업한 인텔리전트 아이웨어 전체 라인업을 공개했다. 젠틀몬스터 16종, 워비파커 14종 등 총 30종이다. 사용자는 제미나이와 대화하며 눈앞의",
+      "og_image": "https://img.etnews.com/news/article/2026/11/12/news-p.v1.20261112.3858cc25b4d443c1a72a31dd5c1ad421_P1.jpg"
+    },
+    {
+      "title": "Samsung Announces December Release for Intelligent Eyewear, Bringing a Smarter Way To See the World",
+      "url": "https://news.samsung.com/global/samsung-announces-december-release-for-intelligent-eyewear-bringing-a-smarter-way-to-see-the-world",
+      "source": "Samsung Global Newsroom",
+      "domain": "news.samsung.com",
+      "category": "gadgets",
+      "published_iso": "2026-11-12T23:00:00+09:00",
+      "excerpt": "Combining Samsung engineering with 30 unique designs from Gentle Monster and Warby Parker,",
+      "og_image": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/11/12154033/Samsung-Mobile-Intelligent-Eyewear-Launch-Gentle-Monster-Warby-Parker_Thumb932.jpg",
       "history_match": {
-        "score": 0.357,
+        "score": 0.15,
+        "date": "2026-11-06",
+        "url": "https://www.androidauthority.com/samsung-smart-glasses-pre-orders-3732159/",
+        "title": "Samsung Android XR smart glasses pre-orders get started on November 12",
+        "band": "related"
+      }
+    },
+    {
+      "title": "You Can Get Google's New Smart Glasses Next Month. I've Tried Them Out",
+      "url": "https://www.cnet.com/tech/mobile/google-samsung-intelligent-eyewear-warby-parker-gentle-monster-launch-date-hands-on/",
+      "source": "CNET",
+      "domain": "cnet.com",
+      "category": "gadgets",
+      "published_iso": "2026-11-12T09:00:06-05:00",
+      "excerpt": "Warby Parker's and Gentle Monster's Google and Samsung-created smart glasses have cameras like Meta's, but these have some subtle differences when it comes to AI.",
+      "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/Warby.Gentle.Google.glasses.1.jpg",
+      "history_match": {
+        "score": 0.279,
+        "date": "2026-11-06",
+        "url": "https://www.androidauthority.com/samsung-smart-glasses-pre-orders-3732159/",
+        "title": "Samsung Android XR smart glasses pre-orders get started on November 12",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Snapdragon AR1 powers Samsung and Google's new Warby Parker and Gentle Monster glasses",
+      "url": "https://the-gadgeteer.com/2026/11/12/snapdragon-ar1-samsung-intelligent-eyewear/",
+      "source": "The Gadgeteer",
+      "domain": "the-gadgeteer.com",
+      "category": "gadgets",
+      "published_iso": "2026-11-12T09:22:24-06:00",
+      "excerpt": "Qualcomm's Snapdragon AR1 Gen 1 powers every pair of Samsung's new Intelligent Eyewear, and it's the chip that lets frames weighing about 41 grams run a 12MP",
+      "og_image": "https://the-gadgeteer.com/wp-content/uploads/2026/11/hero-collage-1.jpg",
+      "history_match": {
+        "score": 0.258,
+        "date": "2026-11-06",
+        "url": "https://www.androidauthority.com/samsung-smart-glasses-pre-orders-3732159/",
+        "title": "Samsung Android XR smart glasses pre-orders get started on November 12",
+        "band": "related"
+      },
+      "cluster": "c0"
+    },
+    {
+      "title": "Apple HomeView review: A versatile smart display and Siri-powered home hub",
+      "url": "https://www.engadget.com/2313999/apple-homeview-review/",
+      "source": "Engadget",
+      "domain": "engadget.com",
+      "category": "gadgets",
+      "published_iso": "2026-11-12T14:00:00+00:00",
+      "excerpt": "With its first smart display, Apple provides a lot of convenience for a variety of tasks in your home.",
+      "og_image": "https://www.engadget.com/img/gallery/apple-homeview-review-a-versatile-smart-display-and-siri-powered-home-hub/l-intro-1794423451.jpg",
+      "history_match": {
+        "score": 0.355,
+        "date": "2026-10-14",
+        "url": "https://arstechnica.com/apple/2026/10/apple-homeview-smart-home-hub-opens-for-preorders-at-299/",
+        "title": "Apple’s first smart display is the 7-inch HomeView for $299",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Apple’s HomeView Tries Face Authentication Without FaceID",
+      "url": "https://www.wired.com/story/apples-homeview-tries-face-authentication-without-faceid/",
+      "source": "WIRED",
+      "domain": "wired.com",
+      "category": "gadgets",
+      "published_iso": "2026-11-12T14:00:00.000Z",
+      "excerpt": "Apple’s FaceID has long provided robust authentication. But for its smart home device, HomeView, the company is betting on new “person recognition” technology that has yet to be challenged in the wild.",
+      "og_image": "https://media.wired.com/photos/6af4fdf535927e964a65305d/191:100/w_1280,c_limit/Security_Apple%E2%80%99s%20HomeView%20Won%E2%80%99t%20Have%20FaceID.%20It%E2%80%99ll%20Have%20Something%20Worse_v1.jpg",
+      "history_match": {
+        "score": 0.206,
+        "date": "2026-10-20",
+        "url": "https://9to5mac.com/2026/10/18/apples-next-homeview-could-debut-as-soon-as-next-year-with-a-robotic-arm-report/",
+        "title": "Apple's next HomeView could debut as soon as next year with a robotic arm: report",
+        "band": "related"
+      }
+    },
+    {
+      "title": "I spent 8 days with an Apple HomeView in my kitchen and another on my wall — and they've made me reach for my iPhone less",
+      "url": "https://www.techradar.com/home/smart-home-hubs/apple-homeview-review",
+      "source": "TechRadar",
+      "domain": "techradar.com",
+      "category": "gadgets",
+      "published_iso": "2026-11-12T14:00:00Z",
+      "excerpt": "Siri AI, personalized experiences, and surprisingly powerful sound",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/WuFBVqzrJFjFrECPykb7n9-2560-80.jpg"
+    },
+    {
+      "title": "Anker’s tiny AI recorder gets voice dictation support with Typeless",
+      "url": "https://www.digitaltrends.com/computing/anker-soundcore-work-typeless-ai-dictation/",
+      "source": "Digital Trends",
+      "domain": "digitaltrends.com",
+      "category": "gadgets",
+      "published_iso": "2026-11-11T17:44:14-08:00",
+      "excerpt": "Typeless, the AI-powered voice dictation and text-processing app, has just announced an official partnership with Anker to bring its AI voice dictation app to the Soundcore Work wearable microphone. The tiny recorder isn’t exactly new, though. Anker introduced it at CES 2026, and it has been on sale for quite some time. The latest integration […]",
+      "og_image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Anker-Soundcore-Work-Typeless.jpg?resize=1200%2C630&ssl=1"
+    },
+    {
+      "title": "Kamrui P2 AI mini PC review: Practical AI performance in a micro footprint",
+      "url": "https://www.digitaltrends.com/computing/kamrui-mini-pc/",
+      "source": "Digital Trends",
+      "domain": "digitaltrends.com",
+      "category": "gadgets",
+      "published_iso": "2026-11-12T08:23:00-08:00",
+      "excerpt": "Modern compact desktops offer serious performance and high value without taking up your entire desk. The era of needing a massive desktop tower for daily office computing is officially behind us. Small form factor machines have evolved from compromised, low-power terminals into genuinely capable workstations. You no longer have to sacrifice performance just to reclaim […]",
+      "og_image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/landscape_tech_workspace.jpg?resize=1200%2C630&ssl=1"
+    },
+    {
+      "title": "I ditched my MacBook Pro for Lenovo's Yoga 9n 2-in-1 — here's what happened",
+      "url": "https://www.tomsguide.com/computing/laptops/lenovo-yoga-9n-2-in-1-review",
+      "source": "Tom's Guide",
+      "domain": "tomsguide.com",
+      "category": "gadgets",
+      "published_iso": "2026-11-12T10:30:00Z",
+      "excerpt": "The Lenovo Yoga 9n features a great OLED screen, pen support, and local AI. However, low gaming performance and high pricing keep it behind the MacBook Pro.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/ZgVM5EFtsDn4f2hoUNDZwU-2560-80.jpg",
+      "history_match": {
+        "score": 0.165,
+        "date": "2026-10-28",
+        "url": "https://www.tomsguide.com/computing/macbooks/apple-reveals-m6-macbook-pro-for-pro-and-tell-week-heres-everything-thats-new",
+        "title": "Apple MacBook Pro M6 just unveiled with 30% faster graphics, 25% faster AI and up to 24 hours of battery life",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Nothing's screen-less new gadget really looks like yet another AI recorder",
+      "url": "https://9to5google.com/2026/11/12/nothings-screen-less-new-gadget-really-looks-like-yet-another-ai-recorder/",
+      "source": "9to5Google",
+      "domain": "9to5google.com",
+      "category": "gadgets",
+      "published_iso": "2026-11-12T17:30:00+00:00",
+      "excerpt": "Nothing has been teasing its first dedicated AI product and, as we expected, it really looks like an AI recorder....",
+      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/nothing-ai-recorder-teaser.jpg?quality=82&strip=all&resize=1200,628",
+      "history_match": {
+        "score": 0.226,
         "date": "2026-11-05",
         "url": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
         "title": "Nothing teases a screen-free AI device ahead of launch next month",
@@ -70,56 +226,50 @@
       }
     },
     {
-      "title": "Google Home update fixes Nest 'Live View' issues, improves Nest Hub and Gemini for speakers",
-      "url": "https://9to5google.com/2026/11/11/google-home-update-nest-hub-gemini-cameras/",
-      "source": "9to5Google",
+      "title": "Samsung Health will offer hyper-personalized insights in the future",
+      "url": "https://www.sammobile.com/news/samsung-health-hyper-personalized-ai-insights-future/",
+      "source": "SamMobile",
+      "domain": "sammobile.com",
       "category": "gadgets",
-      "published_iso": "2026-11-11T19:30:00+00:00",
-      "excerpt": "A new Google Home update is rolling out with a fix for “Live View” issues affecting Nest Cam devices, improvements...",
-      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2024/04/Voice-controls-from-Nest-Hub-Photo-frame-view.jpg?quality=82&strip=all&resize=1200,628",
+      "published_iso": "2026-11-12T13:56:40+00:00",
+      "excerpt": "Samsung will upgrade Samsung Health with hyper-personalized AI insights across diet, fitness, and sleep using wearable data.",
+      "og_image": "https://www.sammobile.com/wp-content/uploads/2026/07/Galaxy-Z-Flip-8-Samsung-Health.jpg",
       "history_match": {
-        "score": 0.233,
-        "date": "2026-10-30",
-        "url": "https://9to5google.com/2026/10/29/google-home-gemini-update-fixes-understand-phrase-bug/",
-        "title": "Google Home update should make Gemini stop saying 'Sorry, I didn't understand' so much",
+        "score": 0.289,
+        "date": "2026-11-03",
+        "url": "https://www.androidauthority.com/chatgpt-health-google-health-integration-apk-teardown-3730462/",
+        "title": "ChatGPT could soon turn your Android health data into something you can actually use",
         "band": "related"
       }
     },
     {
-      "title": "Google Home brings back sounds for Gemini, and I’m both elated and irritated [Video]",
-      "url": "https://9to5google.com/2026/11/11/google-home-brings-back-sounds-for-gemini-and-im-both-elated-and-irritated-video/",
-      "source": "9to5Google",
+      "title": "MSI’s Compact AI Desktop Packs Up to 128GB of Unified Memory | MSI EdgeMesa N AI",
+      "url": "https://the-gadgeteer.com/2026/11/11/msi-edgemesa-n-ai-desktop/",
+      "source": "The Gadgeteer",
+      "domain": "the-gadgeteer.com",
       "category": "gadgets",
-      "published_iso": "2026-11-11T18:35:00+00:00",
-      "excerpt": "If you woke up to new sounds on your Google Home or Nest smart speakers, you're not alone. Here's everything we've found so far.",
-      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/google-home-speaker-green.jpg?quality=82&strip=all&resize=1200,628",
+      "published_iso": "2026-11-11T06:00:00-06:00",
+      "excerpt": "MSI’s EdgeMesa N AI+ pairs up to 128GB of unified memory with NVIDIA Blackwell graphics in a compact desktop built for local AI development.",
+      "og_image": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-005US-AI-Supercomputer-Desktop-Cover.jpeg",
       "history_match": {
-        "score": 0.186,
-        "date": "2026-11-05",
-        "url": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
-        "title": "Gemini for Home now plugs into AT&T’s smart security system",
+        "score": 0.213,
+        "date": "2026-11-12",
+        "url": "https://www.notebookcheck.net/Gigabyte-takes-on-Mac-Studio-with-a-tiny-AI-PC-powered-by-Nvidia-RTX-Spark.1447215.0.html",
+        "title": "Gigabyte takes on Mac Studio with a tiny AI PC powered by Nvidia RTX Spark",
         "band": "related"
       }
-    },
-    {
-      "title": "Rumored Apple Smart Glasses Mentioned in Supplier's Earnings Briefing",
-      "url": "https://www.macrumors.com/2026/11/11/apple-smart-glasses-mentioned-by-suppliers/",
-      "source": "MacRumors",
-      "category": "gadgets",
-      "published_iso": "2026-11-11T13:49:50+00:00",
-      "excerpt": "Apple's rumored smart glasses and AirPods with cameras may have been referenced by Chinese manufacturing equipment supplier Quick Intelligent Equipment, according to a Securities Times report on the company's quarterly earnings briefing. The company claimed it has been involved i",
-      "og_image": "https://images.macrumors.com/t/9uJqMj4VFJjMbPcQi5cTqaPUB18=/2500x/article-new/2021/01/Apple-Glasses-Triad-Feature.jpg"
     },
     {
       "title": "Windows 11 Photos is getting Adobe's generative AI tools in December",
       "url": "https://www.notebookcheck.net/Windows-11-Photos-is-getting-Adobe-s-generative-AI-tools-in-December.1447789.0.html",
       "source": "Notebookcheck",
+      "domain": "notebookcheck.net",
       "category": "gadgets",
       "published_iso": "2026-11-11T11:21:00+01:00",
-      "excerpt": "Adobe and Microsoft are bringing generative AI image editing and Adobe Express integration to Windows 11 Photos, with a preview scheduled for Windows Insiders in December 2026. The partnership also introduces performance optimizations for Adobe products on Nvidia RTX Spark-powere",
+      "excerpt": "Adobe and Microsoft are bringing generative AI image editing and Adobe Express integration to Windows 11 Photos, with a preview scheduled for Windows Insiders in December 2026. The partnership also introduces performance optimizations for Adobe products on Nvidia RTX Spark-powered Windows PCs.",
       "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Adobe-Max.jpg",
       "history_match": {
-        "score": 0.17,
+        "score": 0.151,
         "date": "2026-10-15",
         "url": "https://www.macrumors.com/2026/10/14/apple-intelligence-china-ios-27-3/",
         "title": "Apple Intelligence Coming to China in December With iOS 27.3",
@@ -127,148 +277,135 @@
       }
     },
     {
-      "title": "Gigabyte takes on Mac Studio with a tiny AI PC powered by Nvidia RTX Spark",
-      "url": "https://www.notebookcheck.net/Gigabyte-takes-on-Mac-Studio-with-a-tiny-AI-PC-powered-by-Nvidia-RTX-Spark.1447215.0.html",
-      "source": "Notebookcheck",
+      "title": "'Hey Gemini' hotword debuts on Android XR glasses",
+      "url": "https://9to5google.com/2026/11/12/hey-gemini-hotword-debuts-on-android-xr-glasses/",
+      "source": "9to5Google",
+      "domain": "9to5google.com",
       "category": "gadgets",
-      "published_iso": "2026-11-10T20:45:00+01:00",
-      "excerpt": "Gigabyte has launched the AI Top Aero, a compact desktop powered by Nvidia's RTX Spark platform and designed for local AI development, content creation and gaming. Its one-liter chassis packs a 20-core Grace CPU, a Blackwell GPU and up to 128 GB of memory, making it a Windows-bas",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/gigabyte-ai-top-aero-nvidia-rtx-spark.jpg",
+      "published_iso": "2026-11-12T15:00:00+00:00",
+      "excerpt": "Google is finally introducing a “Hey Gemini” hotword for its AI assistant, but it’s only on Android XR glasses to...",
+      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/android-xr-intelligent-eyewear-warby-parker-37.jpg?quality=82&strip=all&resize=1200,628",
       "history_match": {
-        "score": 0.194,
-        "date": "2026-10-13",
-        "url": "https://www.notebookcheck.net/RTX-Spark-mini-PC-promises-to-overcome-memory-limitations-using-Mechrevo-s-unusual-AI-SSD.1422107.0.html",
-        "title": "RTX Spark mini PC promises to overcome memory limitations using Mechrevo's unusual AI SSD",
-        "band": "related"
+        "score": 0.436,
+        "date": "2026-10-17",
+        "url": "https://www.androidauthority.com/hey-gemini-camera-activation-android-xr-3724200/",
+        "title": "Google’s next Gemini trick could change how you use Android XR glasses",
+        "band": "likely-repeat"
       }
     },
     {
-      "title": "Aina unveils a chunky AI ring with its own screen, joystick and microphone",
-      "url": "https://www.notebookcheck.net/Aina-unveils-a-chunky-AI-ring-with-its-own-screen-joystick-and-microphone.1443341.0.html",
-      "source": "Notebookcheck",
+      "title": "I asked Google how Intelligent Eyewear will overcome the 'pervert glasses' backlash to beat Meta — redacted faces and tamper-resistant LEDs are just the start",
+      "url": "https://www.tomsguide.com/computing/augmented-reality/i-asked-google-how-theyre-going-to-overcome-the-pervert-glasses-backlash-heres-how-they-plan-to-beat-meta",
+      "source": "Tom's Guide",
+      "domain": "tomsguide.com",
       "category": "gadgets",
-      "published_iso": "2026-11-05T23:16:00+01:00",
-      "excerpt": "Aina is packing a screen, joystick, microphone and speaker into a smart ring designed to control AI agents and everyday apps. The chunky wearable lets users send voice prompts, receive notifications and take calls, with preorders priced at $399 and shipping planned for January 20",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/aina-ai-ring-03.jpg",
+      "published_iso": "2026-11-12T14:00:00Z",
+      "excerpt": "Can Google make smart glasses less creepy?",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/gPx37gn6rSBFUdX2GU5az9-2560-80.jpg"
+    },
+    {
+      "title": "Google’s new Gemini-powered smart glasses let you get AI help without pulling out your phone",
+      "url": "https://www.digitaltrends.com/wearables/google-ai-smart-glasses-bring-gemini-live-translation-and-a-12mp-camera/",
+      "source": "Digital Trends",
+      "domain": "digitaltrends.com",
+      "category": "gadgets",
+      "published_iso": "2026-11-12T08:18:56-08:00",
+      "excerpt": "Google’s Gemini-powered glasses from Gentle Monster and Warby Parker are up for pre-order. Here’s what they can do and how much they cost.",
+      "og_image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Google-gemini-powered-glasses-feature.jpg?resize=1200%2C630&ssl=1",
       "history_match": {
-        "score": 0.273,
+        "score": 0.412,
         "date": "2026-11-06",
-        "url": "https://www.wired.com/story/aina-smart-ring/",
-        "title": "Exclusive: Aina’s Smart Ring Wants to Be a Remote Control for Your AI Agent",
+        "url": "https://www.androidauthority.com/samsung-smart-glasses-pre-orders-3732159/",
+        "title": "Samsung Android XR smart glasses pre-orders get started on November 12",
+        "band": "likely-repeat"
+      },
+      "cluster": "c0"
+    },
+    {
+      "title": "Apple Says HomeView Software Update Coming Next Month With Siri Fix",
+      "url": "https://www.macrumors.com/2026/11/12/apple-plans-homeview-update-with-siri-fix/",
+      "source": "MacRumors",
+      "domain": "macrumors.com",
+      "category": "gadgets",
+      "published_iso": "2026-11-12T14:19:13+00:00",
+      "excerpt": "In her HomeView review shared in a free edition of her New Things newsletter today, tech journalist Joanna Stern said Siri AI once told her \"I don't have a camera to see you,\" even though the device has a camera. Apple confirmed to Stern that it plans to release a software update in December with a fix for this issue. Siri AI also refused to open Stern's garage door or unlock her front door, even ",
+      "og_image": "https://images.macrumors.com/t/PcvtzDz-CC6xLnTkUzpoizZN5MQ=/2000x/article-new/2026/10/homeview-wall-mount.jpg",
+      "history_match": {
+        "score": 0.171,
+        "date": "2026-10-20",
+        "url": "https://9to5mac.com/2026/10/18/apples-next-homeview-could-debut-as-soon-as-next-year-with-a-robotic-arm-report/",
+        "title": "Apple's next HomeView could debut as soon as next year with a robotic arm: report",
         "band": "related"
       }
     },
     {
-      "title": "MSI’s Compact AI Desktop Packs Up to 128GB of Unified Memory",
-      "url": "https://the-gadgeteer.com/2026/11/11/msi-edgemesa-n-ai-desktop/",
-      "source": "The Gadgeteer",
+      "title": "Nothing unveils gadget without display in teaser video, ahead of December launch",
+      "url": "https://www.notebookcheck.net/Nothing-unveils-gadget-without-display-in-teaser-video-ahead-of-December-launch.1448182.0.html",
+      "source": "Notebookcheck",
+      "domain": "notebookcheck.net",
       "category": "gadgets",
-      "published_iso": "2026-11-11T06:00:00-06:00",
-      "excerpt": "MSI’s EdgeMesa N AI+ pairs up to 128GB of unified memory with NVIDIA Blackwell graphics in a compact desktop built for local AI development.",
-      "og_image": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-005US-AI-Supercomputer-Desktop-Cover.jpeg",
+      "published_iso": "2026-11-11T19:21:00+01:00",
+      "excerpt": "Nothing is launching a gadget in December that does away with a display entirely but is still intended to offer innovative AI features. The company's founder now reveals the device's design for the first time in a teaser video.",
+      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Nothing-Gadget.jpg",
       "history_match": {
-        "score": 0.155,
-        "date": "2026-11-11",
-        "url": "https://www.wired.com/story/kora-new-linux-based-desktop-operating-system-is-built-for-ai-nerds/",
-        "title": "This New Linux-Based Desktop Operating System Is Built for AI Nerds",
-        "band": "related"
-      }
-    },
-    {
-      "title": "영하 24도 '남극 마라톤' 도전한 로봇…결과는?",
-      "url": "https://www.etnews.com/20261111000440",
-      "source": "전자신문 (etnews)",
-      "category": "gadgets",
-      "published_iso": "2026-11-12T06:00:00+09:00",
-      "excerpt": "영하 24도의 남극에서 마라톤 완주에 도전한 휴머노이드 로봇이 화제입니다. 지난 8일 남극 동부 울티마 캠프 인근에서 열린 '남극 아이스 울트라' 대회에 휴머노이드 로봇 '케스트르'가 참가했습니다. 대회는 새벽 1시에 시작됐으며, 케스트르는 추위를 막기 위해 두꺼운 보온 재킷을 입고 25명의 인간 참가자들과 함께 출발했습니다. 그러나 약 3km를 이동한 뒤 배터리가 방전되면서 로봇은 결국 기권했습니다. 대회 주최 측에 따르면 휴머노이드 로봇이",
-      "og_image": "https://img.etnews.com/news/article/2026/11/11/news-p.v1.20261111.98781e474c3a4b02b453a9312c246849_P1.jpg"
-    },
-    {
-      "title": "One UI 9 Watch update is finally rolling out to Galaxy Watches",
-      "url": "https://www.sammobile.com/news/one-ui-9-watch-update-finally-rolling-out-galaxy-watches/",
-      "source": "SamMobile",
-      "category": "gadgets",
-      "published_iso": "2026-11-11T21:46:29+00:00",
-      "excerpt": "Samsung has started rolling out the stable version of its latest smartwatch software following a 75-day beta testing period.",
-      "og_image": "https://www.sammobile.com/wp-content/uploads/2025/11/Galaxy-Watch-8-Classic-2.jpg",
-      "history_match": {
-        "score": 0.15,
-        "date": "2026-10-26",
-        "url": "https://9to5google.com/2026/10/23/gemini-settings-redesign-android/",
-        "title": "Gemini for Android rolls out side panel and settings redesign",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Sam Altman shared his vision of 'the next version of the smartphone' with 50 Samsung executives",
-      "url": "https://www.sammobile.com/news/sam-altman-shared-his-vision-of-the-next-version-of-the-smartphone-with-50-samsung-executives/",
-      "source": "SamMobile",
-      "category": "gadgets",
-      "published_iso": "2026-11-11T15:56:00+00:00",
-      "excerpt": "OpenAI CEO Sam Altman believes that \"the next version of the smartphone\" will be a true AI companion. He'd like to build one with Samsung.",
-      "og_image": "https://www.sammobile.com/wp-content/uploads/2025/09/Samsung-logo-2.jpg",
-      "history_match": {
-        "score": 0.15,
-        "date": "2026-10-14",
-        "url": "https://www.techradar.com/ai-platforms-assistants/unitree-ceo-says-robotics-breakthrough-could-happen-in-2027-with-the-chatgpt-moment-for-embodied-intelligence-being-powered-by-openais-gpt-7-model",
-        "title": "Robots could get a ‘ChatGPT moment’ in the next one to two years, Unitree chief says — and it’ll be powered by OpenAI’s GPT-7",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Want Apple Intelligence for Your Home Security Camera? You’ll Need These 4 Things",
-      "url": "https://www.cnet.com/tech/what-you-need-for-apple-intelligence-on-home-security-cameras/",
-      "source": "CNET",
-      "category": "gadgets",
-      "published_iso": "2026-11-11T06:00:11-05:00",
-      "excerpt": "Apple Intelligence offers smart AI features for compatible cameras, but you’ll need to play by Apple’s rules. Here’s all the requirements.",
-      "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/Agara-Camera-Hub.jpg",
-      "history_match": {
-        "score": 0.271,
+        "score": 0.252,
         "date": "2026-11-05",
-        "url": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
-        "title": "Gemini for Home now plugs into AT&T’s smart security system",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
+        "title": "Nothing teases a screen-free AI device ahead of launch next month",
+        "band": "related"
+      }
+    },
+    {
+      "title": "I tried Google’s AI glasses and Meta’s finally got real competition",
+      "url": "https://www.theverge.com/tech/1031647/google-android-xr-warby-parker-gentle-monster-hands-on",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "category": "gadgets",
+      "published_iso": "2026-11-12T14:00:00+00:00",
+      "excerpt": "Where Meta’s privacy policy is reactive, Google’s approach is proactive.",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/androidxr8.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+    },
+    {
+      "title": "Microsoft's Automatic Super Resolution is now officially out for the ROG Xbox Ally X",
+      "url": "https://www.engadget.com/2313202/microsoft-automatic-super-resolution-comes-to-rog-xbox-ally-x/",
+      "source": "Engadget",
+      "domain": "engadget.com",
+      "category": "gadgets",
+      "published_iso": "2026-11-11T12:59:44+00:00",
+      "excerpt": "Microsoft’s upscaling tech for video games is now officially available for select Xbox Ally machines, as well as some other Copilot+ PCs.",
+      "og_image": "https://www.engadget.com/img/gallery/microsofts-automatic-super-resolution-is-now-officially-out-for-the-rog-xbox-ally-x/l-intro-1794401662.jpg",
+      "history_match": {
+        "score": 0.181,
+        "date": "2026-10-29",
+        "url": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
+        "title": "Microsoft is ending Copilot support on smart TVs",
         "band": "related"
       }
     }
   ],
   "dedup": {
-    "dropped": 0,
-    "kept": 16,
+    "dropped": 2,
+    "kept": 25,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
     "dropped": [],
-    "review": 12,
-    "same_story_pairs": []
+    "review": 18,
+    "same_story_pairs": [
+      [
+        "https://www.wired.com/story/google-samsung-intelligent-eyewear-launch-warby-parker-gentle-monster-smart-glasses/",
+        "https://the-gadgeteer.com/2026/11/12/snapdragon-ar1-samsung-intelligent-eyewear/",
+        0.319
+      ],
+      [
+        "https://www.wired.com/story/google-samsung-intelligent-eyewear-launch-warby-parker-gentle-monster-smart-glasses/",
+        "https://www.digitaltrends.com/wearables/google-ai-smart-glasses-bring-gemini-live-translation-and-a-12mp-camera/",
+        0.313
+      ]
+    ]
   },
   "history_digest": [
-    {
-      "date": "2026-10-13",
-      "title": "Googlebook OS review: A post-smartphone PC, if Google can keep it",
-      "url": "https://9to5google.com/2026/10/12/googlebook-os-review/"
-    },
-    {
-      "date": "2026-10-13",
-      "title": "Google announces the Fitbit Edge, a middle ground between Pixel Watch 5 and Fitbit Air",
-      "url": "https://arstechnica.com/gadgets/2026/10/google-announces-the-fitbit-edge-a-middle-ground-between-pixel-watch-5-and-fitbit-air/"
-    },
-    {
-      "date": "2026-10-13",
-      "title": "Google Translate could soon auto-save transcripts of your Live conversations (Updated: Rolling out)",
-      "url": "https://www.androidauthority.com/google-translate-live-translate-smart-glasses-apk-teardown-3716624/"
-    },
-    {
-      "date": "2026-10-13",
-      "title": "RTX Spark mini PC promises to overcome memory limitations using Mechrevo's unusual AI SSD",
-      "url": "https://www.notebookcheck.net/RTX-Spark-mini-PC-promises-to-overcome-memory-limitations-using-Mechrevo-s-unusual-AI-SSD.1422107.0.html"
-    },
-    {
-      "date": "2026-10-13",
-      "title": "Meta has some Wonder Full new AI models",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model"
-    },
     {
       "date": "2026-10-14",
       "title": "Apple’s first smart display is the 7-inch HomeView for $299",
@@ -943,6 +1080,31 @@
       "date": "2026-11-11",
       "title": "Ring’s Indoor Drone Camera Is Back—and Now Powered by AI",
       "url": "https://www.wired.com/story/ring-robotics-drone-cam-rover-cam/"
+    },
+    {
+      "date": "2026-11-12",
+      "title": "Google Home update fixes Nest 'Live View' issues, improves Nest Hub and Gemini for speakers",
+      "url": "https://9to5google.com/2026/11/11/google-home-update-nest-hub-gemini-cameras/"
+    },
+    {
+      "date": "2026-11-12",
+      "title": "Blue Phone gives Google's Pixel 10 Pro an AI assistant that goes beyond Gemini",
+      "url": "https://www.androidauthority.com/blue-os-google-pixel-10-pro-3733835/"
+    },
+    {
+      "date": "2026-11-12",
+      "title": "Google brings the Gemini app to Apple CarPlay",
+      "url": "https://www.engadget.com/2314093/google-brings-the-gemini-app-to-apple-carplay/"
+    },
+    {
+      "date": "2026-11-12",
+      "title": "Gigabyte takes on Mac Studio with a tiny AI PC powered by Nvidia RTX Spark",
+      "url": "https://www.notebookcheck.net/Gigabyte-takes-on-Mac-Studio-with-a-tiny-AI-PC-powered-by-Nvidia-RTX-Spark.1447215.0.html"
+    },
+    {
+      "date": "2026-11-12",
+      "title": "Bizarre AI chip demo uses butter to highlight how new chip runs 40 degrees cooler than the competition",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/deepx-ai-chip-runs-so-cool-that-a-butter-heatsink-doesnt-melt-the-dx-m1-processor-impresses-in-a-bizarre-new-dairy-based-benchmark"
     }
   ]
 }

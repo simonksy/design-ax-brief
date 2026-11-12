@@ -4086,6 +4086,107 @@
           "x": "HCA的Michael Schlosser, M.D.表示，公司正在“探索Gemini如何解读并综合来自多个电子健康记录系统和诊疗场景的复杂患者信息”。"
         }
       ]
+    },
+    "medicine/medicare-wiser-ai-priorauth-docs": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.statnews.com/wp-content/uploads/2026/05/AP26023803702193-1024x576.jpg",
+          "cap": "Emilie Megnien/AP"
+        },
+        {
+          "t": "p",
+          "x": "新文件让Medicare的AI预先授权实验面临更多质疑。本期STAT Health Tech内容：Oura在AI上的大赌注、为临床AI聊天机器人设置的“减速带”（rumble strip），以及围绕Medicare AI预先授权实验的疑问。"
+        },
+        {
+          "t": "p",
+          "x": "完整版通讯仅向STAT+订阅用户开放。"
+        }
+      ]
+    },
+    "medicine/fda-cms-states-healthai-oversight": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.statnews.com/wp-content/uploads/2025/07/AdobeStock_971648927_Editorial_Use_Only-1024x576.jpeg",
+          "cap": "Adobe"
+        },
+        {
+          "t": "p",
+          "x": "FDA与CMS寻求与各州在医疗AI方面合作。本期STAT Health Tech通讯内容：联邦官员寻求与各州合作监管AI、保护医生免于AI相关责任等。"
+        },
+        {
+          "t": "p",
+          "x": "完整版通讯仅向STAT+订阅用户开放。"
+        }
+      ]
+    },
+    "medicine/jama-ai-interventional-trials-ctgov": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "这项横断面研究考察了2022年起开展的临床试验中人工智能（AI）的使用情况。研究人员分析了在ClinicalTrials.gov登记、开始日期在2022年一月及以后的干预性试验，以描述AI的使用是如何规划和表述的。"
+        },
+        {
+          "t": "p",
+          "x": "在检索返回的8559条记录中，最终队列包括1212项干预性试验。计划使用生成式AI（包括大语言模型）的试验急剧增加，2022年开始的试验中一项也没有，而2025年开始的试验中491项里有100项（20.4%）。八项试验计划使用AI智能体进行患者随访或提供健康教育等。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/df47/13749202/7f04ceea0423/jamanetwopen-e2642797-g001.webp",
+          "cap": "纳入试验特征的柱状图"
+        },
+        {
+          "t": "p",
+          "x": "最常见的临床病症为癌症（20.0%）、神经与精神健康（19.6%）以及心血管与代谢疾病（18.6%）。AI最常用于疾病风险或治疗选择的筛查和预测建模（39.8%）。美国有303项试验（25.0%），中国有149项（12.3%）。"
+        },
+        {
+          "t": "p",
+          "x": "由于ClinicalTrials.gov没有结构化的AI字段或报告要求，方法细节常常缺失；作者认为，与AI报告标准相一致的结构化注册字段将提高透明度。"
+        }
+      ]
+    },
+    "medicine/npj-cancer-persistent-fever-ml": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "住院癌症患者在开始静脉抗生素治疗后持续发热很常见，常导致额外的影像检查和抗菌药物升级。研究人员利用两家学术医院的电子健康记录，开发并外部验证了预测抗生素开始后48–72小时持续发热的机器学习模型。"
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03449-w/MediaObjects/41746_2026_3449_Fig1_HTML.png",
+          "cap": "Fig. 1: UME与BWH数据集队列提取步骤流程图。"
+        },
+        {
+          "t": "p",
+          "x": "最终队列包括University Medicine Essen（UME）的987次住院和Brigham and Women’s Hospital（BWH）的7409次住院。表现最佳的模型内部AUROC为0.82（95% CI 0.79–0.84），外部为0.78（95% CI 0.77–0.79）。体温相关变量是最主要的预测因子。"
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03449-w/MediaObjects/41746_2026_3449_Fig2_HTML.png",
+          "cap": "Fig. 2: 预测模型在内部（UME）和外部（BWH）验证队列中的区分度、临床效用与校准。"
+        },
+        {
+          "t": "p",
+          "x": "约四分之一的抗菌药物升级和胸部CT检查发生在被正确预测不会持续发热的患者身上。临床应用应仅限于辅助角色，而非单独用于排除决策，且仍需前瞻性研究。"
+        }
+      ]
+    },
+    "medicine/lancet-pharma-ad-llm": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "药品广告与面向消费者的人工智能的药物推荐：一项对照研究 — Mahmud Omar, Reem Agbareia, Jolion McGreevy, Alexis Zebrowski, Ashwin Ramaswamy, Michael A Gorin, Esther-Maria Antao, Benjamin S Glicksberg, Ankit Sakhuja, Alexander W Charney, Eyal Klang, Girish N Nadkarni."
+        },
+        {
+          "t": "p",
+          "x": "广告使LLMs的治疗选择偏向被推广的药物。指南符合度仍然很高，这意味着在符合指南的治疗方案之间发生的偏移，可能逃过对治疗正确性的评估。"
+        },
+        {
+          "t": "p",
+          "x": "广告的影响往往未被披露。这些输出变化是否会影响处方或患者决策，还需要直接研究。"
+        }
+      ]
     }
   }
 }

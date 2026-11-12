@@ -10084,6 +10084,136 @@
           "x": "DJではさまざまなアクセントの英語の音声が新たに八つ、スペイン語の新しい音声が二つ選べるようになり、好みに合わせて体験をカスタマイズできる。Spotify DJが曲の合間に入れる解説に飽きたなら、それをオフにすることもでき、音楽が途切れにくくなる。"
         }
       ]
+    },
+    "music/stable-audio-nov-workspace": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.squarespace-cdn.com/content/v1/6213c340453c3f502425776e/2cc42a62-5083-4c7f-a86a-77f92b11a3d7/Stable_Audio_Release_Notes_Blog_Thumbnail_16x9.png"
+        },
+        {
+          "t": "p",
+          "x": "Stable Audioに、アプリ、プロジェクト、サウンドを一か所にまとめる新しいワークスペースが加わった。サインインすると最初に表示されるのがHome、Stable Audioの各アプリで作ったものすべてを閲覧・整理できるのがLibraryだ。"
+        },
+        {
+          "t": "img",
+          "src": "https://images.squarespace-cdn.com/content/v1/6213c340453c3f502425776e/8480d97a-11fe-4346-b14f-13140df9b932/generate-01-overview.png",
+          "cap": "Generate"
+        },
+        {
+          "t": "p",
+          "x": "新しいGenerateアプリでは、音楽や効果音の制作を始められる。テキストでプロンプトを入力するか、ジャンル、スタイル、楽器を表すミキサーにさまざまな「paints」を加えて視覚的に表現することもできる。Lensを使えば、トリミング、フェードの追加、セクションの差し替え、テイクの延長が可能で、編集のたびに新しいバージョンが作られる。"
+        },
+        {
+          "t": "img",
+          "src": "https://images.squarespace-cdn.com/content/v1/6213c340453c3f502425776e/5fc8930d-54b7-4592-b497-a23ffe634e50/sampler-02-pack.png",
+          "cap": "Sampler"
+        },
+        {
+          "t": "p",
+          "x": "Samplerは短いサンプル、ループ、ドラムキットのセットを作る。「techno risers」のようなプロンプトから最大八つのバリエーションを生成したり、八つのワンショットサンプルからなるドラムキット一式を生成したりできる。ステップシーケンサーでは、16-stepのグリッド上で最大八つの楽器を、最大32小節のパターンでプログラムできる。"
+        },
+        {
+          "t": "p",
+          "x": "Labsは実験的なベータアプリのための新しい場所だ。ベータ版のマルチトラックアプリSessionsは現在ここに移り、Full mixモードか、編集可能な八トラックのデッキを使える。すべて商用利用に安全なモデルで動いており、生成物はユーザーが所有する。"
+        }
+      ]
+    },
+    "music/elevenlabs-voice-restoration-music": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://eleven-public-cdn.elevenlabs.io/payloadcms/hzu606cgpup-2304662705.webp"
+        },
+        {
+          "t": "p",
+          "x": "ニューヨークの教育者Greg Kellnerは2019年に脳がんで歌声を失ったが、昔の録音をもとにElevenMusicでその声を再現した。脳性まひのために話す声を一度も持ったことのないAbdi Omarは、ElevenLabs Voice Designerで自分の声をデザインし、現在はElevenMusicを使ってラップアーティストとして活動している。"
+        },
+        {
+          "t": "p",
+          "x": "11月11日のElevenLabs New York Summitで、二人はElevenMusicの歌声で新曲を披露した。永久に声を失った人々は、今後ElevenMusicを無料で利用できる。この取り組みはSongwriters of North America（SONA）と共に始まり、SONAが利用資格を確認する。"
+        },
+        {
+          "t": "p",
+          "x": "「声の回復は、常に基本的なニーズを満たす以上の意味を持ってきました。私たちを人間たらしめるあらゆる形で、本当に耳を傾けてもらうことなのです」と、ElevenLabsのHead of ImpactであるGabi Leibowitzは語った。"
+        },
+        {
+          "t": "p",
+          "x": "Wounded Warrior ProjectがImpact Programのパートナーとして発表され、NYU Langone Healthが1 Million Voicesに加わった。1 Million VoicesはElevenLabsによる$1B 規模の現物支援で、これまでに11,000人以上が自分の声で再び話せるよう支えてきた。"
+        }
+      ]
+    },
+    "music/ringo-charlie-whatsapp-sync": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-26.png?fit=2000%2C1500&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "私たちはオランダのシンク技術スタートアップRingoを、2023年の最初の資金調達、2025年のAI-poweredライセンシングプラットフォームの立ち上げから追ってきた。そのRingoが最新機能として、AIアシスタントCharlieを発表した。"
+        },
+        {
+          "t": "p",
+          "x": "彼女（そう、Ringoの発表では代名詞が指定されている）はWhatsApp内だけで動くよう設計されており、顧客からの質問を受け付け、それをRingoのチームが引き継いで対応できる。"
+        }
+      ]
+    },
+    "music/knxwledge-streaming-app-takedowns": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.complex.com/complex/image/upload/c_crop,h_1910,w_2939,x_0,y_0/g_auto:aoi_1176_764_588_382,ar_1.91,c_fill,q_auto,w_1200/sanity-new/ehkmatoir85wnox3ljc2"
+        },
+        {
+          "t": "p",
+          "x": "グラミー賞受賞（Grammy-winning）プロデューサーのKnxwledgeは火曜日（Nov. 10）、X上で、ファンが全カタログと今後のリリースを聴ける自身のiOS向けストリーミングアプリを公開したと発表した。数か月にわたり、彼の作品がストリーミングプラットフォームから消えていた末の判断だ。"
+        },
+        {
+          "t": "p",
+          "x": "本人によれば、削除された作品の一部は、人工知能による音楽生成ツールが広く使えるようになる何年も前にリリースされたものだという。"
+        },
+        {
+          "t": "p",
+          "x": "彼はこう説明した。\"OVER THE PAST FEW MONTHS DISTRIBUTORS HAVE TAKEN DOWN RECORDS IV'E MADE AND RELEASED YEARS BEFORE AI WAS EVEN AVAILABLE TO THE PUBLIC,\"（ここ数か月、ディストリビューターは、AIが一般に使えるようになる何年も前に僕が作ってリリースしたレコードを削除してきた） \"ALL THOSE RECORDS CLEARLY HAVE RELEASE DATES, APPARENTLY THE PEOPLE REVIEWING THEM DON'T CARE OR HAVE THE TIME TO DIFFERENTIATE.\"（どのレコードにもはっきりリリース日がある。どうやら審査する人たちは気にしていないか、見分ける時間がないらしい）"
+        },
+        {
+          "t": "p",
+          "x": "アプリには、本人が自らリマスターしたという全カタログが収録されている。Android版は後日登場する予定で、最新情報は彼のDiscordサーバーで確認するようファンに呼びかけている。"
+        }
+      ]
+    },
+    "music/ace-studio-music-v1": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/AI-music-decrypt-style-03-gID_7.jpg"
+        },
+        {
+          "t": "p",
+          "x": "ACE Studioが開発したACE Music v1が、Artificial Analysisのボーカル音楽ランキングで首位に立った。Eloスコアは1,160で、Suno v6の1,144を上回る。AA-Music-Vocal v1.1ベンチマークでは、評価者が同一のプロンプトから生成された楽曲を、どのモデルが作ったかを知らされないまま聴き比べ、好みの曲を選ぶ。"
+        },
+        {
+          "t": "img",
+          "src": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://imagedelivery.net/YN1-rdnufJQJCgu3i1CbVw/MfUFfyR49NwW4OCFj1yIR9UB6An2rQPWYPKjJXYgzSA/public@webp"
+        },
+        {
+          "t": "p",
+          "x": "リードは比較的小さく、両モデルの統計的な信頼区間は重なっている。また、別枠のインストゥルメンタル音楽ランキングでは、Sunoが引き続き首位を保っている。"
+        },
+        {
+          "t": "p",
+          "x": "Decryptによる実地テストでは、ACE Musicは主流のスタイルでより旋律的でまとまりのある曲を生成し、ボーカルはより自然で、曲の終わり方もすっきりしていた。一方、メロディック・デスメタルのような型にはまらないジャンルでは、Sunoがなお優位だった。"
+        },
+        {
+          "t": "p",
+          "x": "「Idea」機能は、基本的なコンセプトを歌詞と構成を備えた楽曲へと発展させる。v1.1 Previewは音声を生成する前に楽譜を作成し、ユーザーはメロディーやコードを編集したり、MIDIファイルを書き出したり、ボーカルと楽器を分離したりできる。"
+        },
+        {
+          "t": "p",
+          "x": "フラッグシップモデルは引き続きクローズドソースで、公開APIもない。ACE StudioとStepFunはすでにオープンなACE-Step 1.5を公開しており、開発陣は「2026年後半にACE Music v1 Flashをオープンソース化する予定だ」と述べている。"
+        }
+      ]
     }
   }
 }

@@ -1,251 +1,239 @@
 {
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "section": "movies",
   "cards": [
     {
-      "id": "beeble-switchx3",
+      "id": "firefly-build-story-assemble",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Beeble SwitchX\n3.0, 움직이는 배경",
-      "body": "Beeble SwitchX 3.0이 참조 최대 네 개에 움직이는 배경까지 지원한다.",
-      "mini_headline": "SwitchX 3.0\n움직이는 배경 지원",
+      "headline": "Adobe Firefly,\n아이디어에서 클립까지",
+      "body": "Firefly 베타 공간 두 개가 아이디어를 장면과 숏을 거쳐 클립으로 만든다.",
+      "mini_headline": "Firefly, 아이디어에서 클립까지",
       "tool": "Movies",
-      "source": "Beeble",
-      "url": "https://beeble.ai/research/switchx-3-0",
+      "source": "RedShark News",
+      "url": "https://www.redsharknews.com/adobe-firefly-build-story-assemble-short-video",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "img",
+            "src": "https://www.redsharknews.com/hubfs/adobe%20firefly%20video%20editor.jpg"
+          },
+          {
+            "t": "p",
+            "x": "Adobe가 MAX 2026에서 Firefly에 베타 작업 공간 두 개를 더했다. 둘을 함께 쓰면 아이디어 단계부터 짧은 영상 완성까지 한 흐름으로 다룬다. Firefly 메뉴 Video 항목 아래의 Build a story는 프롬프트를 짜임새 있는 시각적 스토리로 바꾸고, Assemble short video는 클립을 늘어놓는 단순한 단일 트랙 작업 공간이다."
+          },
+          {
             "t": "video",
-            "yt": "EC02tPJfAsA"
+            "src": "https://images-tv.adobe.com/mpcv3/14067/3507880/202d88d5-1a16-4a96-82e9-e2705e0a963b/f0f56478-3475-461d-a2e2-30359e9a5ca7_1793918460.854x480at800_h264.mp4"
           },
           {
             "t": "p",
-            "x": "SwitchX는 배경과 조명은 물론 영상 속 무엇이든 프로덕션급 품질로 바꾸는 video-to-video 모델이다. 오늘 SwitchX 3.0을 내놓는다."
-          },
-          {
-            "t": "p",
-            "x": "MiniMax H3는 공개된 범용 비디오 모델이다. 우리는 이 모델을 뜯어 프로덕션용 video-to-video라는 한 가지 작업에 맞게 다시 만들었다. 자체 데이터셋과 자체 아키텍처를 썼고, 마지막 패스에서 원본 영상을 다시 읽어 디테일을 살리며 해상도를 최대 4K까지 올린다. Source-Locked Rendering은 알파로 연기를 픽셀 단위, 프레임 단위로 고정해 빛과 주변 세계만 바꾼다."
+            "x": "Firefly AI Assistant에 아이디어를 설명하면 어시스턴트가 목표 길이를 묻고 캐릭터·장소·사물·크리에이티브 방향 같은 세부 사항도 원하면 받는다. 그다음 룩과 사운드 방식, 장면·숏 수, 등장할 캐릭터·장소·사물을 제안하고 이를 요소로 저장해 숏끼리 일관성을 지킨다. 숏마다 비트 설명을 쓰고 첫 프레임도 만든다. 숏은 장면별로 묶인 카드로 뜬다. 클립은 카드마다 따로, 또는 Generate all로 한꺼번에 생성해 내려받거나 Timeline (beta)에서 열 수 있다. 다만 프레임을 생성한 뒤에는 해상도와 화면비를 바꿀 수 없다."
           },
           {
             "t": "img",
-            "src": "https://desktop.beeble.ai/public/landing/cms/images/research/switchx-3-0/whats-new-four-updates-v2.webp",
-            "cap": "3.0은 워크플로와 고정 기능은 그대로 두고 주요 업데이트 네 가지를 더했다."
+            "src": "https://www.redsharknews.com/hs-fs/hubfs/adobe%20firefly%20video%20editor%20quick%20actions.jpg?width=1920&height=1080&name=adobe%20firefly%20video%20editor%20quick%20actions.jpg"
           },
           {
             "t": "p",
-            "x": "다중 참조: 한 작업에 이미지를 최대 네 장까지 넣는다. 세트 전체 와이드 숏이든 소품 클로즈업이든 스토리보드든 상관없다. 동적 배경: 뒤로 차량이 지나가고 군중이 걷는다. 무언가 폭발하고 불길이 일렁이고 눈이 내린다. 완벽한 카메라 트래킹: 핸드헬드, 오빗, 러닝 숏을 마커나 매치 무브 없이 처리한다. 더 정밀한 프롬프트 제어: 장면에서 무슨 일이 어떻게, 언제 일어나는지 적으면 된다."
-          },
-          {
-            "t": "img",
-            "src": "https://desktop.beeble.ai/public/landing/cms/images/research/switchx-3-0/refs-billboard.webp",
-            "cap": "참조 네 개. 로케이션, 빌보드 카드 두 장, 시퀀스 스토리보드."
+            "x": "Assemble short video는 생성하거나 가져온 클립을 단일 트랙에서 다루는 가벼운 작업 공간이다. 클립을 자르고 나누고 순서를 바꾸는 것은 물론 볼륨 조절, 컷 감지, 화면비 변경까지 된다. 고른 클립은 텍스트 프롬프트로 다시 생성할 수 있는데, 이때 드는 생성 크레딧이 비용 표시로 함께 뜬다. 다시 만든 버전은 테이크로 쌓여 서로 비교할 수 있다."
           },
           {
             "t": "p",
-            "x": "4K 출력과 10-bit 컬러를 지원한다. 프레임 수는 원본과 정확히 같고 화면비도 그대로다. SwitchX 3.0은 Beeble 클라우드 앱의 캔버스 노드로 쓰거나 별도 SwitchX 페이지에서 쓰면 된다."
+            "x": "두 도구 모두 베타이며 Creative Cloud for Teams나 Enterprise 사용자는 쓸 수 없다. Build a story는 데스크톱 Chrome과 Edge에서만 돌아간다. 클립도 직접 올릴 수 없고 Adobe 클라우드 스토리지의 생성 기록에서만 불러온다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Beeble SwitchX 3.0 adds\nmoving backgrounds",
-          "body": "Beeble's SwitchX 3.0 video-to-video model now takes up to four references and handles moving backgrounds.",
-          "mini_headline": "SwitchX 3.0 takes\nmoving backgrounds",
+          "headline": "Adobe Firefly adds a path\nfrom story idea to clip",
+          "body": "Two beta Firefly workspaces take an idea through planned scenes and shots to a finished clip.",
+          "mini_headline": "Firefly goes idea to clip",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://www.redsharknews.com/hubfs/adobe%20firefly%20video%20editor.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Adobe has added two beta workspaces to Firefly at MAX 2026 that between them cover the journey from idea to short video. Build a story, found under Video in the Firefly menu, turns a prompt into a structured visual story. Assemble short video then offers a simplified, single-track workspace for arranging the clips."
+              },
+              {
                 "t": "video",
-                "yt": "EC02tPJfAsA"
+                "src": "https://images-tv.adobe.com/mpcv3/14067/3507880/202d88d5-1a16-4a96-82e9-e2705e0a963b/f0f56478-3475-461d-a2e2-30359e9a5ca7_1793918460.854x480at800_h264.mp4"
               },
               {
                 "t": "p",
-                "x": "SwitchX is a video-to-video model where you can switch the background, lighting, and literally anything in your video with production-level quality. Today we're announcing SwitchX 3.0."
-              },
-              {
-                "t": "p",
-                "x": "MiniMax H3 is an open, general-purpose video model. We took it apart and rebuilt it for one job, video-to-video for production: our own dataset, our own architecture, and a final pass up to 4K that reads your original footage again for detail. Source-Locked Rendering uses your alpha to lock your performance pixel for pixel, frame for frame, so only the light and the world around it change."
+                "x": "Users describe an idea to the Firefly AI Assistant, which asks for a target duration and optional details on characters, locations, objects, and creative direction. It then proposes a look, a sound approach, the number of scenes and shots, and the characters, locations, and objects involved, saving them as elements to keep them consistent across shots, writing a beat description for each shot and generating a first frame. Shots appear as cards grouped by scene; clips can be generated card by card or with Generate all, then downloaded or opened in Timeline (beta). Resolution and aspect ratio can’t be changed once frames are generated."
               },
               {
                 "t": "img",
-                "src": "https://desktop.beeble.ai/public/landing/cms/images/research/switchx-3-0/whats-new-four-updates-v2.webp",
-                "cap": "3.0 keeps the workflow and the lock, and brings four major updates."
+                "src": "https://www.redsharknews.com/hs-fs/hubfs/adobe%20firefly%20video%20editor%20quick%20actions.jpg?width=1920&height=1080&name=adobe%20firefly%20video%20editor%20quick%20actions.jpg"
               },
               {
                 "t": "p",
-                "x": "Multiple references: up to four images in a single job — a wide of a whole set, a close-up of a prop, even a storyboard. Dynamic backgrounds: traffic passes behind you, crowds walk, things explode, fire moves, snow falls. Perfect camera tracking: handheld, orbit, and running shots, with no markers and no match move. Tighter prompt control: describe what happens in the scene, how it moves, and when."
-              },
-              {
-                "t": "img",
-                "src": "https://desktop.beeble.ai/public/landing/cms/images/research/switchx-3-0/refs-billboard.webp",
-                "cap": "Four references: the location, two billboard cards, and a storyboard of the sequence."
+                "x": "Assemble short video is a lightweight workspace for generated or imported clips on a single track. Users can trim, split, and rearrange clips, adjust volume, detect cuts, and change the aspect ratio. Selected clips can be regenerated from a text prompt, with a cost indicator showing the generative credits required; regenerated versions appear as takes to compare."
               },
               {
                 "t": "p",
-                "x": "4K output and 10-bit color. Frame count matches your source exactly, and aspect ratio never changes. SwitchX 3.0 is available in the Beeble cloud app: as a node in the canvas, or on the standalone SwitchX page."
+                "x": "Both tools are in beta and not available to Creative Cloud for Teams or Enterprise users. Build a story works only in Chrome and Edge on desktop and takes clips only from Adobe cloud storage’s generation history, not direct uploads."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Beeble SwitchX\n3.0, 움직이는 배경",
-          "body": "Beeble SwitchX 3.0이 참조 최대 네 개에 움직이는 배경까지 지원한다.",
-          "mini_headline": "SwitchX 3.0\n움직이는 배경 지원",
+          "headline": "Adobe Firefly,\n아이디어에서 클립까지",
+          "body": "Firefly 베타 공간 두 개가 아이디어를 장면과 숏을 거쳐 클립으로 만든다.",
+          "mini_headline": "Firefly, 아이디어에서 클립까지",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://www.redsharknews.com/hubfs/adobe%20firefly%20video%20editor.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Adobe가 MAX 2026에서 Firefly에 베타 작업 공간 두 개를 더했다. 둘을 함께 쓰면 아이디어 단계부터 짧은 영상 완성까지 한 흐름으로 다룬다. Firefly 메뉴 Video 항목 아래의 Build a story는 프롬프트를 짜임새 있는 시각적 스토리로 바꾸고, Assemble short video는 클립을 늘어놓는 단순한 단일 트랙 작업 공간이다."
+              },
+              {
                 "t": "video",
-                "yt": "EC02tPJfAsA"
+                "src": "https://images-tv.adobe.com/mpcv3/14067/3507880/202d88d5-1a16-4a96-82e9-e2705e0a963b/f0f56478-3475-461d-a2e2-30359e9a5ca7_1793918460.854x480at800_h264.mp4"
               },
               {
                 "t": "p",
-                "x": "SwitchX는 배경과 조명은 물론 영상 속 무엇이든 프로덕션급 품질로 바꾸는 video-to-video 모델이다. 오늘 SwitchX 3.0을 내놓는다."
-              },
-              {
-                "t": "p",
-                "x": "MiniMax H3는 공개된 범용 비디오 모델이다. 우리는 이 모델을 뜯어 프로덕션용 video-to-video라는 한 가지 작업에 맞게 다시 만들었다. 자체 데이터셋과 자체 아키텍처를 썼고, 마지막 패스에서 원본 영상을 다시 읽어 디테일을 살리며 해상도를 최대 4K까지 올린다. Source-Locked Rendering은 알파로 연기를 픽셀 단위, 프레임 단위로 고정해 빛과 주변 세계만 바꾼다."
+                "x": "Firefly AI Assistant에 아이디어를 설명하면 어시스턴트가 목표 길이를 묻고 캐릭터·장소·사물·크리에이티브 방향 같은 세부 사항도 원하면 받는다. 그다음 룩과 사운드 방식, 장면·숏 수, 등장할 캐릭터·장소·사물을 제안하고 이를 요소로 저장해 숏끼리 일관성을 지킨다. 숏마다 비트 설명을 쓰고 첫 프레임도 만든다. 숏은 장면별로 묶인 카드로 뜬다. 클립은 카드마다 따로, 또는 Generate all로 한꺼번에 생성해 내려받거나 Timeline (beta)에서 열 수 있다. 다만 프레임을 생성한 뒤에는 해상도와 화면비를 바꿀 수 없다."
               },
               {
                 "t": "img",
-                "src": "https://desktop.beeble.ai/public/landing/cms/images/research/switchx-3-0/whats-new-four-updates-v2.webp",
-                "cap": "3.0은 워크플로와 고정 기능은 그대로 두고 주요 업데이트 네 가지를 더했다."
+                "src": "https://www.redsharknews.com/hs-fs/hubfs/adobe%20firefly%20video%20editor%20quick%20actions.jpg?width=1920&height=1080&name=adobe%20firefly%20video%20editor%20quick%20actions.jpg"
               },
               {
                 "t": "p",
-                "x": "다중 참조: 한 작업에 이미지를 최대 네 장까지 넣는다. 세트 전체 와이드 숏이든 소품 클로즈업이든 스토리보드든 상관없다. 동적 배경: 뒤로 차량이 지나가고 군중이 걷는다. 무언가 폭발하고 불길이 일렁이고 눈이 내린다. 완벽한 카메라 트래킹: 핸드헬드, 오빗, 러닝 숏을 마커나 매치 무브 없이 처리한다. 더 정밀한 프롬프트 제어: 장면에서 무슨 일이 어떻게, 언제 일어나는지 적으면 된다."
-              },
-              {
-                "t": "img",
-                "src": "https://desktop.beeble.ai/public/landing/cms/images/research/switchx-3-0/refs-billboard.webp",
-                "cap": "참조 네 개. 로케이션, 빌보드 카드 두 장, 시퀀스 스토리보드."
+                "x": "Assemble short video는 생성하거나 가져온 클립을 단일 트랙에서 다루는 가벼운 작업 공간이다. 클립을 자르고 나누고 순서를 바꾸는 것은 물론 볼륨 조절, 컷 감지, 화면비 변경까지 된다. 고른 클립은 텍스트 프롬프트로 다시 생성할 수 있는데, 이때 드는 생성 크레딧이 비용 표시로 함께 뜬다. 다시 만든 버전은 테이크로 쌓여 서로 비교할 수 있다."
               },
               {
                 "t": "p",
-                "x": "4K 출력과 10-bit 컬러를 지원한다. 프레임 수는 원본과 정확히 같고 화면비도 그대로다. SwitchX 3.0은 Beeble 클라우드 앱의 캔버스 노드로 쓰거나 별도 SwitchX 페이지에서 쓰면 된다."
+                "x": "두 도구 모두 베타이며 Creative Cloud for Teams나 Enterprise 사용자는 쓸 수 없다. Build a story는 데스크톱 Chrome과 Edge에서만 돌아간다. 클립도 직접 올릴 수 없고 Adobe 클라우드 스토리지의 생성 기록에서만 불러온다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Beeble SwitchX\n3.0、動く背景に対応",
-          "body": "Beeble SwitchX 3.0は参照を最大四つまで受け付け、動く背景も扱える。",
-          "mini_headline": "SwitchX 3.0\n動く背景に対応",
+          "headline": "Adobe Firefly\n構想からクリップへ",
+          "body": "Fireflyの二つのベータ版作業空間が、構想をシーンとショットを経てクリップに仕上げる。",
+          "mini_headline": "Firefly、構想からクリップへ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://www.redsharknews.com/hubfs/adobe%20firefly%20video%20editor.jpg"
+              },
+              {
+                "t": "p",
+                "x": "AdobeはMAX 2026で、Fireflyに二つのベータ版ワークスペースを追加した。両者を合わせると、アイデアから短尺動画までの道のりをカバーする。FireflyメニューのVideoの下にあるBuild a storyは、プロンプトを構造化されたビジュアルストーリーに変える。続くAssemble short videoは、クリップを並べるための簡素なシングルトラックのワークスペースを提供する。"
+              },
+              {
                 "t": "video",
-                "yt": "EC02tPJfAsA"
+                "src": "https://images-tv.adobe.com/mpcv3/14067/3507880/202d88d5-1a16-4a96-82e9-e2705e0a963b/f0f56478-3475-461d-a2e2-30359e9a5ca7_1793918460.854x480at800_h264.mp4"
               },
               {
                 "t": "p",
-                "x": "SwitchXは、背景や照明はもちろん、映像内の文字どおりあらゆるものをプロダクション品質で差し替えられるvideo-to-videoモデルだ。本日、SwitchX 3.0を発表する。"
-              },
-              {
-                "t": "p",
-                "x": "MiniMax H3はオープンな汎用ビデオモデルだ。我々はそれを分解し、プロダクション向けvideo-to-videoという一つの仕事のために作り直した。独自のデータセット、独自のアーキテクチャ、そして元の映像を再び読み込んでディテールを補いながら最大 4K まで仕上げる最終パスである。Source-Locked Renderingはアルファを使って演技をピクセル単位、フレーム単位で固定し、光と周囲の世界だけを変える。"
+                "x": "ユーザーがFirefly AI Assistantにアイデアを伝えると、アシスタントは目標の尺と、キャラクター、ロケーション、オブジェクト、クリエイティブの方向性に関する任意の詳細を尋ねる。続いてルック、サウンドの方針、シーンとショットの数、登場するキャラクター、ロケーション、オブジェクトを提案し、それらを要素として保存してショット間の一貫性を保つ。各ショットのビート説明を書き、最初のフレームも生成する。ショットはシーンごとにまとめられたカードとして表示され、クリップはカードごと、またはGenerate allで生成し、ダウンロードするかTimeline (beta)で開ける。フレーム生成後は解像度とアスペクト比を変更できない。"
               },
               {
                 "t": "img",
-                "src": "https://desktop.beeble.ai/public/landing/cms/images/research/switchx-3-0/whats-new-four-updates-v2.webp",
-                "cap": "3.0はワークフローとロックを維持しつつ、四つの主要アップデートを加える。"
+                "src": "https://www.redsharknews.com/hs-fs/hubfs/adobe%20firefly%20video%20editor%20quick%20actions.jpg?width=1920&height=1080&name=adobe%20firefly%20video%20editor%20quick%20actions.jpg"
               },
               {
                 "t": "p",
-                "x": "複数リファレンス：一つのジョブに最大四枚の画像を使える。セット全体の引きの画、小道具のクローズアップ、さらには絵コンテも可能だ。ダイナミック背景：背後を車が行き交い、群衆が歩き、物が爆発し、炎が揺れ、雪が降る。完璧なカメラトラッキング：手持ち、オービット、走りながらのショットにも、マーカーやマッチムーブなしで対応する。より精密なプロンプト制御：シーンで何が起き、どう動き、いつ起きるかを記述できる。"
-              },
-              {
-                "t": "img",
-                "src": "https://desktop.beeble.ai/public/landing/cms/images/research/switchx-3-0/refs-billboard.webp",
-                "cap": "四つのリファレンス：ロケーション、ビルボードカード二枚、シーケンスの絵コンテ。"
+                "x": "Assemble short videoは、生成または読み込んだクリップを単一トラックで扱う軽量なワークスペースだ。クリップのトリム、分割、並べ替えに加え、音量調整、カット検出、アスペクト比の変更ができる。選択したクリップはテキストプロンプトで再生成でき、必要な生成クレジットを示すコスト表示が出る。再生成したバージョンは比較用のテイクとして表示される。"
               },
               {
                 "t": "p",
-                "x": "4K 出力と10-bit カラーに対応する。フレーム数はソースと完全に一致し、アスペクト比も変わらない。SwitchX 3.0はBeebleクラウドアプリで、キャンバス上のノードとして、または単独のSwitchXページで利用できる。"
+                "x": "両ツールともベータ版で、Creative Cloud for TeamsやEnterpriseのユーザーは利用できない。Build a storyはデスクトップのChromeとEdgeでのみ動作し、クリップは直接アップロードではなく、Adobeクラウドストレージの生成履歴からのみ取り込める。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Beeble SwitchX\n3.0 支持动态背景",
-          "body": "Beeble 的 SwitchX 3.0 现可接收最多四张参考图，并能处理动态背景。",
-          "mini_headline": "SwitchX 3.0\n支持动态背景",
+          "headline": "Adobe Firefly\n从故事构想到片段",
+          "body": "Firefly两个测试版工作区可将构想经由场景与镜头规划变成完整片段。",
+          "mini_headline": "Firefly：从构想到片段",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://www.redsharknews.com/hubfs/adobe%20firefly%20video%20editor.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Adobe在MAX 2026上为Firefly新增两个测试版工作区，两者合起来覆盖从构想到短视频的全过程。位于Firefly菜单Video下的Build a story可将提示词转化为结构化的视觉故事；Assemble short video则提供一个简化的单轨工作区，用于排列片段。"
+              },
+              {
                 "t": "video",
-                "yt": "EC02tPJfAsA"
+                "src": "https://images-tv.adobe.com/mpcv3/14067/3507880/202d88d5-1a16-4a96-82e9-e2705e0a963b/f0f56478-3475-461d-a2e2-30359e9a5ca7_1793918460.854x480at800_h264.mp4"
               },
               {
                 "t": "p",
-                "x": "SwitchX 是一款 video-to-video 模型，能以制作级品质替换视频中的背景、光照，乃至名副其实的任何内容。今天我们发布 SwitchX 3.0。"
-              },
-              {
-                "t": "p",
-                "x": "MiniMax H3 是一款开放的通用视频模型。我们将其拆解，并为一项任务重新构建——面向制作的 video-to-video：自有数据集、自有架构，以及最后一道最高至 4K 的处理，它会再次读取原始素材以还原细节。Source-Locked Rendering 利用你的 alpha 通道逐像素、逐帧锁定表演，只改变光线和周围的世界。"
+                "x": "用户向Firefly AI Assistant描述构想后，助手会询问目标时长，以及角色、地点、物件和创意方向等可选细节。随后它会提出画面风格、声音思路、场景与镜头数量，以及涉及的角色、地点和物件，并将其保存为元素，以保持各镜头之间的一致性；它还会为每个镜头撰写节拍描述并生成首帧。镜头以卡片形式按场景分组显示；片段可逐张卡片生成，也可用Generate all一次生成，之后可下载或在Timeline (beta)中打开。帧生成后，分辨率和画面比例便无法更改。"
               },
               {
                 "t": "img",
-                "src": "https://desktop.beeble.ai/public/landing/cms/images/research/switchx-3-0/whats-new-four-updates-v2.webp",
-                "cap": "3.0 保留了原有工作流和锁定功能，并带来四项重大更新。"
+                "src": "https://www.redsharknews.com/hs-fs/hubfs/adobe%20firefly%20video%20editor%20quick%20actions.jpg?width=1920&height=1080&name=adobe%20firefly%20video%20editor%20quick%20actions.jpg"
               },
               {
                 "t": "p",
-                "x": "多张参考图：单个任务最多可用四张图像——整个布景的全景、道具特写，甚至是故事板。动态背景：身后车流穿行、人群走动、物体爆炸、火焰跃动、雪花飘落。完美的摄影机跟踪：手持、环绕和奔跑镜头均可，无需标记点，也无需匹配移动。更精细的提示词控制：描述场景中发生什么、如何运动以及何时发生。"
-              },
-              {
-                "t": "img",
-                "src": "https://desktop.beeble.ai/public/landing/cms/images/research/switchx-3-0/refs-billboard.webp",
-                "cap": "四张参考图：拍摄地点、两张广告牌卡片，以及该段落的故事板。"
+                "x": "Assemble short video是一个轻量工作区，可在单一轨道上处理生成或导入的片段。用户可以修剪、分割和重新排列片段，调整音量，检测剪辑点，并更改画面比例。选中的片段可通过文本提示重新生成，界面会显示所需生成积分的费用提示；重新生成的版本会作为可供比较的镜次出现。"
               },
               {
                 "t": "p",
-                "x": "支持 4K 输出和 10-bit 色彩。帧数与源素材完全一致，画面比例始终不变。SwitchX 3.0 已在 Beeble 云端应用中上线：可作为画布中的节点使用，也可在独立的 SwitchX 页面使用。"
+                "x": "两款工具均处于测试阶段，Creative Cloud for Teams和Enterprise用户无法使用。Build a story仅支持桌面端的Chrome和Edge，且只能从Adobe云存储的生成历史中调取片段，不支持直接上传。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Beeble SwitchX 3.0 añade\nfondos en movimiento",
-          "body": "El modelo video-to-video SwitchX 3.0 de Beeble ahora admite hasta cuatro referencias y maneja fondos en movimiento.",
-          "mini_headline": "SwitchX 3.0 admite\nfondos en movimiento",
+          "headline": "Adobe Firefly añade un camino\nde la idea de historia al clip",
+          "body": "Dos espacios de trabajo beta de Firefly llevan una idea por escenas y planos hasta un clip terminado.",
+          "mini_headline": "Firefly, de la idea al clip",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://www.redsharknews.com/hubfs/adobe%20firefly%20video%20editor.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Adobe ha añadido a Firefly en MAX 2026 dos espacios de trabajo beta que, entre ambos, cubren el recorrido desde la idea hasta el video corto. Build a story, ubicado en Video dentro del menú de Firefly, convierte un prompt en una historia visual estructurada. Assemble short video ofrece después un espacio de trabajo simplificado, de una sola pista, para ordenar los clips."
+              },
+              {
                 "t": "video",
-                "yt": "EC02tPJfAsA"
+                "src": "https://images-tv.adobe.com/mpcv3/14067/3507880/202d88d5-1a16-4a96-82e9-e2705e0a963b/f0f56478-3475-461d-a2e2-30359e9a5ca7_1793918460.854x480at800_h264.mp4"
               },
               {
                 "t": "p",
-                "x": "SwitchX es un modelo video-to-video con el que se puede cambiar el fondo, la iluminación y literalmente cualquier cosa de un video con calidad de producción. Hoy anunciamos SwitchX 3.0."
-              },
-              {
-                "t": "p",
-                "x": "MiniMax H3 es un modelo de video abierto y de uso general. Lo desmontamos y lo reconstruimos para una sola tarea, video-to-video para producción: nuestro propio conjunto de datos, nuestra propia arquitectura y una pasada final de hasta 4K que vuelve a leer el material original para recuperar detalle. Source-Locked Rendering usa tu canal alfa para fijar tu interpretación píxel a píxel, fotograma a fotograma, de modo que solo cambian la luz y el mundo que la rodea."
+                "x": "Los usuarios describen una idea al Firefly AI Assistant, que pide una duración objetivo y detalles opcionales sobre personajes, ubicaciones, objetos y dirección creativa. Luego propone un estilo visual, un enfoque sonoro, el número de escenas y planos, y los personajes, ubicaciones y objetos involucrados, y los guarda como elementos para mantenerlos coherentes entre planos; además escribe una descripción de acción para cada plano y genera un primer fotograma. Los planos aparecen como tarjetas agrupadas por escena; los clips se pueden generar tarjeta por tarjeta o con Generate all, y luego descargarse o abrirse en Timeline (beta). La resolución y la relación de aspecto no se pueden cambiar una vez generados los fotogramas."
               },
               {
                 "t": "img",
-                "src": "https://desktop.beeble.ai/public/landing/cms/images/research/switchx-3-0/whats-new-four-updates-v2.webp",
-                "cap": "La 3.0 conserva el flujo de trabajo y el bloqueo, y trae cuatro actualizaciones importantes."
+                "src": "https://www.redsharknews.com/hs-fs/hubfs/adobe%20firefly%20video%20editor%20quick%20actions.jpg?width=1920&height=1080&name=adobe%20firefly%20video%20editor%20quick%20actions.jpg"
               },
               {
                 "t": "p",
-                "x": "Referencias múltiples: hasta cuatro imágenes en una sola tarea, ya sea un plano general de todo el set, un primer plano de un objeto o incluso un guion gráfico. Fondos dinámicos: el tráfico pasa detrás, las multitudes caminan, las cosas explotan, el fuego se mueve, cae la nieve. Seguimiento de cámara perfecto: tomas en mano, en órbita y en carrera, sin marcadores ni match move. Control más preciso del prompt: describe qué ocurre en la escena, cómo se mueve y cuándo."
-              },
-              {
-                "t": "img",
-                "src": "https://desktop.beeble.ai/public/landing/cms/images/research/switchx-3-0/refs-billboard.webp",
-                "cap": "Cuatro referencias: la ubicación, dos tarjetas de vallas publicitarias y un guion gráfico de la secuencia."
+                "x": "Assemble short video es un espacio de trabajo ligero para clips generados o importados en una sola pista. Los usuarios pueden recortar, dividir y reordenar clips, ajustar el volumen, detectar cortes y cambiar la relación de aspecto. Los clips seleccionados se pueden regenerar a partir de un prompt de texto, con un indicador de costo que muestra los créditos generativos necesarios; las versiones regeneradas aparecen como tomas para comparar."
               },
               {
                 "t": "p",
-                "x": "Salida en 4K y color de 10-bit. El número de fotogramas coincide exactamente con el original y la relación de aspecto nunca cambia. SwitchX 3.0 está disponible en la app en la nube de Beeble: como nodo en el lienzo o en la página independiente de SwitchX."
+                "x": "Ambas herramientas están en beta y no están disponibles para usuarios de Creative Cloud for Teams ni de Enterprise. Build a story solo funciona en Chrome y Edge de escritorio y solo toma clips del historial de generación del almacenamiento en la nube de Adobe, no de cargas directas."
               }
             ]
           }
@@ -253,161 +241,153 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Beeble SwitchX\n3.0, 움직이는 배경",
-          "body": "Beeble SwitchX 3.0이 참조 최대 네 개와 움직이는 배경을 지원한다.",
-          "mini_headline": "SwitchX 3.0\n움직이는 배경 지원",
+          "headline": "Adobe Firefly,\n아이디어에서 클립까지",
+          "body": "Firefly 베타 공간 두 개가 아이디어를 장면과 숏을 거쳐 클립으로 만든다.",
+          "mini_headline": "Firefly, 아이디어에서 클립까지",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://www.redsharknews.com/hubfs/adobe%20firefly%20video%20editor.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Adobe가 MAX 2026에서 Firefly에 베타 작업 공간 두 개를 추가했다. 두 공간을 합치면 아이디어에서 짧은 영상까지의 과정을 모두 다룬다. Firefly 메뉴의 Video 항목 아래에 있는 Build a story는 프롬프트를 구조화된 시각적 스토리로 바꾼다. 이어 Assemble short video는 클립을 배열하는 단순한 단일 트랙 작업 공간을 제공한다."
+              },
+              {
                 "t": "video",
-                "yt": "EC02tPJfAsA"
+                "src": "https://images-tv.adobe.com/mpcv3/14067/3507880/202d88d5-1a16-4a96-82e9-e2705e0a963b/f0f56478-3475-461d-a2e2-30359e9a5ca7_1793918460.854x480at800_h264.mp4"
               },
               {
                 "t": "p",
-                "x": "SwitchX는 배경과 조명은 물론 영상 속 말 그대로 무엇이든 프로덕션급 품질로 바꿀 수 있는 video-to-video 모델이다. 오늘 SwitchX 3.0을 발표한다."
-              },
-              {
-                "t": "p",
-                "x": "MiniMax H3는 공개된 범용 비디오 모델이다. 우리는 이를 분해해 프로덕션용 video-to-video라는 한 가지 작업에 맞게 다시 만들었다. 자체 데이터셋과 자체 아키텍처, 그리고 원본 영상을 다시 읽어 디테일을 살리며 최대 4K 해상도까지 올리는 마지막 패스다. Source-Locked Rendering은 알파를 이용해 연기를 픽셀 단위, 프레임 단위로 고정하므로 빛과 주변 세계만 바뀐다."
+                "x": "사용자가 Firefly AI Assistant에 아이디어를 설명하면, 어시스턴트는 목표 길이와 함께 캐릭터·장소·사물·크리에이티브 방향에 관한 선택적 세부 사항을 묻는다. 이어 룩과 사운드 방식, 장면과 숏의 수, 등장하는 캐릭터·장소·사물을 제안하고, 이를 요소로 저장해 숏 사이의 일관성을 유지한다. 숏마다 비트 설명을 쓰고 첫 프레임도 생성한다. 숏은 장면별로 묶인 카드로 나타나며, 클립은 카드별로 또는 Generate all로 생성한 뒤 내려받거나 Timeline (beta)에서 열 수 있다. 프레임을 생성한 뒤에는 해상도와 화면비를 바꿀 수 없다."
               },
               {
                 "t": "img",
-                "src": "https://desktop.beeble.ai/public/landing/cms/images/research/switchx-3-0/whats-new-four-updates-v2.webp",
-                "cap": "3.0은 워크플로와 고정 기능을 유지하면서 네 가지 주요 업데이트를 더한다."
+                "src": "https://www.redsharknews.com/hs-fs/hubfs/adobe%20firefly%20video%20editor%20quick%20actions.jpg?width=1920&height=1080&name=adobe%20firefly%20video%20editor%20quick%20actions.jpg"
               },
               {
                 "t": "p",
-                "x": "다중 참조: 한 작업에 이미지를 최대 네 장까지 넣을 수 있다. 세트 전체의 와이드 숏, 소품 클로즈업, 스토리보드도 가능하다. 동적 배경: 뒤로 차량이 지나가고, 군중이 걷고, 무언가가 폭발하고, 불길이 움직이고, 눈이 내린다. 완벽한 카메라 트래킹: 핸드헬드, 오빗, 러닝 숏을 마커나 매치 무브 없이 처리한다. 더 정밀한 프롬프트 제어: 장면에서 무슨 일이 일어나는지, 어떻게 움직이는지, 언제 일어나는지를 묘사하면 된다."
-              },
-              {
-                "t": "img",
-                "src": "https://desktop.beeble.ai/public/landing/cms/images/research/switchx-3-0/refs-billboard.webp",
-                "cap": "네 개의 참조: 로케이션, 빌보드 카드 두 장, 시퀀스 스토리보드."
+                "x": "Assemble short video는 생성하거나 가져온 클립을 단일 트랙에서 다루는 가벼운 작업 공간이다. 사용자는 클립을 자르고 나누고 재배열할 수 있으며, 볼륨 조절, 컷 감지, 화면비 변경도 가능하다. 선택한 클립은 텍스트 프롬프트로 다시 생성할 수 있고, 필요한 생성 크레딧을 보여 주는 비용 표시가 함께 뜬다. 다시 생성한 버전은 비교할 수 있는 테이크로 나타난다."
               },
               {
                 "t": "p",
-                "x": "4K 출력과 10-bit 컬러를 지원한다. 프레임 수는 원본과 정확히 일치하고 화면비는 바뀌지 않는다. SwitchX 3.0은 Beeble 클라우드 앱에서 캔버스의 노드로, 또는 별도의 SwitchX 페이지에서 쓸 수 있다."
+                "x": "두 도구 모두 베타 단계이며 Creative Cloud for Teams나 Enterprise 사용자는 쓸 수 없다. Build a story는 데스크톱의 Chrome과 Edge에서만 작동하고, 클립은 직접 업로드가 아닌 Adobe 클라우드 스토리지의 생성 기록에서만 가져온다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Beeble SwitchX\n3.0、動く背景に対応",
-          "body": "Beeble SwitchX 3.0は参照を最大四つまで受け付け、動く背景も扱える。",
-          "mini_headline": "SwitchX 3.0\n動く背景に対応",
+          "headline": "Adobe Firefly\n構想からクリップへ",
+          "body": "Fireflyの二つのベータ版作業空間が、構想をシーンとショットを経てクリップに仕上げる。",
+          "mini_headline": "Firefly、構想からクリップへ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://www.redsharknews.com/hubfs/adobe%20firefly%20video%20editor.jpg"
+              },
+              {
+                "t": "p",
+                "x": "AdobeはMAX 2026で、Fireflyに二つのベータ版ワークスペースを追加した。両者を合わせると、アイデアから短尺動画までの道のりをカバーする。FireflyメニューのVideoの下にあるBuild a storyは、プロンプトを構造化されたビジュアルストーリーに変える。続くAssemble short videoは、クリップを並べるための簡素なシングルトラックのワークスペースを提供する。"
+              },
+              {
                 "t": "video",
-                "yt": "EC02tPJfAsA"
+                "src": "https://images-tv.adobe.com/mpcv3/14067/3507880/202d88d5-1a16-4a96-82e9-e2705e0a963b/f0f56478-3475-461d-a2e2-30359e9a5ca7_1793918460.854x480at800_h264.mp4"
               },
               {
                 "t": "p",
-                "x": "SwitchXは、背景や照明はもちろん、映像内の文字どおりあらゆるものをプロダクション品質で差し替えられるvideo-to-videoモデルだ。本日、SwitchX 3.0を発表する。"
-              },
-              {
-                "t": "p",
-                "x": "MiniMax H3はオープンな汎用ビデオモデルだ。我々はそれを分解し、プロダクション向けvideo-to-videoという一つの仕事のために作り直した。独自のデータセット、独自のアーキテクチャ、そして元の映像を再び読み込んでディテールを補いながら最大 4K まで仕上げる最終パスである。Source-Locked Renderingはアルファを使って演技をピクセル単位、フレーム単位で固定し、光と周囲の世界だけを変える。"
+                "x": "ユーザーがFirefly AI Assistantにアイデアを伝えると、アシスタントは目標の尺と、キャラクター、ロケーション、オブジェクト、クリエイティブの方向性に関する任意の詳細を尋ねる。続いてルック、サウンドの方針、シーンとショットの数、登場するキャラクター、ロケーション、オブジェクトを提案し、それらを要素として保存してショット間の一貫性を保つ。各ショットのビート説明を書き、最初のフレームも生成する。ショットはシーンごとにまとめられたカードとして表示され、クリップはカードごと、またはGenerate allで生成し、ダウンロードするかTimeline (beta)で開ける。フレーム生成後は解像度とアスペクト比を変更できない。"
               },
               {
                 "t": "img",
-                "src": "https://desktop.beeble.ai/public/landing/cms/images/research/switchx-3-0/whats-new-four-updates-v2.webp",
-                "cap": "3.0はワークフローとロックを維持しつつ、四つの主要アップデートを加える。"
+                "src": "https://www.redsharknews.com/hs-fs/hubfs/adobe%20firefly%20video%20editor%20quick%20actions.jpg?width=1920&height=1080&name=adobe%20firefly%20video%20editor%20quick%20actions.jpg"
               },
               {
                 "t": "p",
-                "x": "複数リファレンス：一つのジョブに最大四枚の画像を使える。セット全体の引きの画、小道具のクローズアップ、さらには絵コンテも可能だ。ダイナミック背景：背後を車が行き交い、群衆が歩き、物が爆発し、炎が揺れ、雪が降る。完璧なカメラトラッキング：手持ち、オービット、走りながらのショットにも、マーカーやマッチムーブなしで対応する。より精密なプロンプト制御：シーンで何が起き、どう動き、いつ起きるかを記述できる。"
-              },
-              {
-                "t": "img",
-                "src": "https://desktop.beeble.ai/public/landing/cms/images/research/switchx-3-0/refs-billboard.webp",
-                "cap": "四つのリファレンス：ロケーション、ビルボードカード二枚、シーケンスの絵コンテ。"
+                "x": "Assemble short videoは、生成または読み込んだクリップを単一トラックで扱う軽量なワークスペースだ。クリップのトリム、分割、並べ替えに加え、音量調整、カット検出、アスペクト比の変更ができる。選択したクリップはテキストプロンプトで再生成でき、必要な生成クレジットを示すコスト表示が出る。再生成したバージョンは比較用のテイクとして表示される。"
               },
               {
                 "t": "p",
-                "x": "4K 出力と10-bit カラーに対応する。フレーム数はソースと完全に一致し、アスペクト比も変わらない。SwitchX 3.0はBeebleクラウドアプリで、キャンバス上のノードとして、または単独のSwitchXページで利用できる。"
+                "x": "両ツールともベータ版で、Creative Cloud for TeamsやEnterpriseのユーザーは利用できない。Build a storyはデスクトップのChromeとEdgeでのみ動作し、クリップは直接アップロードではなく、Adobeクラウドストレージの生成履歴からのみ取り込める。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Beeble SwitchX\n3.0 支持动态背景",
-          "body": "Beeble 的 SwitchX 3.0 现可接收最多四张参考图，并能处理动态背景。",
-          "mini_headline": "SwitchX 3.0\n支持动态背景",
+          "headline": "Adobe Firefly\n从故事构想到片段",
+          "body": "Firefly两个测试版工作区可将构想经由场景与镜头规划变成完整片段。",
+          "mini_headline": "Firefly：从构想到片段",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://www.redsharknews.com/hubfs/adobe%20firefly%20video%20editor.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Adobe在MAX 2026上为Firefly新增两个测试版工作区，两者合起来覆盖从构想到短视频的全过程。位于Firefly菜单Video下的Build a story可将提示词转化为结构化的视觉故事；Assemble short video则提供一个简化的单轨工作区，用于排列片段。"
+              },
+              {
                 "t": "video",
-                "yt": "EC02tPJfAsA"
+                "src": "https://images-tv.adobe.com/mpcv3/14067/3507880/202d88d5-1a16-4a96-82e9-e2705e0a963b/f0f56478-3475-461d-a2e2-30359e9a5ca7_1793918460.854x480at800_h264.mp4"
               },
               {
                 "t": "p",
-                "x": "SwitchX 是一款 video-to-video 模型，能以制作级品质替换视频中的背景、光照，乃至名副其实的任何内容。今天我们发布 SwitchX 3.0。"
-              },
-              {
-                "t": "p",
-                "x": "MiniMax H3 是一款开放的通用视频模型。我们将其拆解，并为一项任务重新构建——面向制作的 video-to-video：自有数据集、自有架构，以及最后一道最高至 4K 的处理，它会再次读取原始素材以还原细节。Source-Locked Rendering 利用你的 alpha 通道逐像素、逐帧锁定表演，只改变光线和周围的世界。"
+                "x": "用户向Firefly AI Assistant描述构想后，助手会询问目标时长，以及角色、地点、物件和创意方向等可选细节。随后它会提出画面风格、声音思路、场景与镜头数量，以及涉及的角色、地点和物件，并将其保存为元素，以保持各镜头之间的一致性；它还会为每个镜头撰写节拍描述并生成首帧。镜头以卡片形式按场景分组显示；片段可逐张卡片生成，也可用Generate all一次生成，之后可下载或在Timeline (beta)中打开。帧生成后，分辨率和画面比例便无法更改。"
               },
               {
                 "t": "img",
-                "src": "https://desktop.beeble.ai/public/landing/cms/images/research/switchx-3-0/whats-new-four-updates-v2.webp",
-                "cap": "3.0 保留了原有工作流和锁定功能，并带来四项重大更新。"
+                "src": "https://www.redsharknews.com/hs-fs/hubfs/adobe%20firefly%20video%20editor%20quick%20actions.jpg?width=1920&height=1080&name=adobe%20firefly%20video%20editor%20quick%20actions.jpg"
               },
               {
                 "t": "p",
-                "x": "多张参考图：单个任务最多可用四张图像——整个布景的全景、道具特写，甚至是故事板。动态背景：身后车流穿行、人群走动、物体爆炸、火焰跃动、雪花飘落。完美的摄影机跟踪：手持、环绕和奔跑镜头均可，无需标记点，也无需匹配移动。更精细的提示词控制：描述场景中发生什么、如何运动以及何时发生。"
-              },
-              {
-                "t": "img",
-                "src": "https://desktop.beeble.ai/public/landing/cms/images/research/switchx-3-0/refs-billboard.webp",
-                "cap": "四张参考图：拍摄地点、两张广告牌卡片，以及该段落的故事板。"
+                "x": "Assemble short video是一个轻量工作区，可在单一轨道上处理生成或导入的片段。用户可以修剪、分割和重新排列片段，调整音量，检测剪辑点，并更改画面比例。选中的片段可通过文本提示重新生成，界面会显示所需生成积分的费用提示；重新生成的版本会作为可供比较的镜次出现。"
               },
               {
                 "t": "p",
-                "x": "支持 4K 输出和 10-bit 色彩。帧数与源素材完全一致，画面比例始终不变。SwitchX 3.0 已在 Beeble 云端应用中上线：可作为画布中的节点使用，也可在独立的 SwitchX 页面使用。"
+                "x": "两款工具均处于测试阶段，Creative Cloud for Teams和Enterprise用户无法使用。Build a story仅支持桌面端的Chrome和Edge，且只能从Adobe云存储的生成历史中调取片段，不支持直接上传。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Beeble SwitchX 3.0 añade\nfondos en movimiento",
-          "body": "El modelo video-to-video SwitchX 3.0 de Beeble ahora admite hasta cuatro referencias y maneja fondos en movimiento.",
-          "mini_headline": "SwitchX 3.0 admite\nfondos en movimiento",
+          "headline": "Adobe Firefly añade un camino\nde la idea de historia al clip",
+          "body": "Dos espacios de trabajo beta de Firefly llevan una idea por escenas y planos hasta un clip terminado.",
+          "mini_headline": "Firefly, de la idea al clip",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://www.redsharknews.com/hubfs/adobe%20firefly%20video%20editor.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Adobe ha añadido a Firefly en MAX 2026 dos espacios de trabajo beta que, entre ambos, cubren el recorrido desde la idea hasta el video corto. Build a story, ubicado en Video dentro del menú de Firefly, convierte un prompt en una historia visual estructurada. Assemble short video ofrece después un espacio de trabajo simplificado, de una sola pista, para ordenar los clips."
+              },
+              {
                 "t": "video",
-                "yt": "EC02tPJfAsA"
+                "src": "https://images-tv.adobe.com/mpcv3/14067/3507880/202d88d5-1a16-4a96-82e9-e2705e0a963b/f0f56478-3475-461d-a2e2-30359e9a5ca7_1793918460.854x480at800_h264.mp4"
               },
               {
                 "t": "p",
-                "x": "SwitchX es un modelo video-to-video con el que se puede cambiar el fondo, la iluminación y literalmente cualquier cosa de un video con calidad de producción. Hoy anunciamos SwitchX 3.0."
-              },
-              {
-                "t": "p",
-                "x": "MiniMax H3 es un modelo de video abierto y de uso general. Lo desmontamos y lo reconstruimos para una sola tarea, video-to-video para producción: nuestro propio conjunto de datos, nuestra propia arquitectura y una pasada final de hasta 4K que vuelve a leer el material original para recuperar detalle. Source-Locked Rendering usa tu canal alfa para fijar tu interpretación píxel a píxel, fotograma a fotograma, de modo que solo cambian la luz y el mundo que la rodea."
+                "x": "Los usuarios describen una idea al Firefly AI Assistant, que pide una duración objetivo y detalles opcionales sobre personajes, ubicaciones, objetos y dirección creativa. Luego propone un estilo visual, un enfoque sonoro, el número de escenas y planos, y los personajes, ubicaciones y objetos involucrados, y los guarda como elementos para mantenerlos coherentes entre planos; además escribe una descripción de acción para cada plano y genera un primer fotograma. Los planos aparecen como tarjetas agrupadas por escena; los clips se pueden generar tarjeta por tarjeta o con Generate all, y luego descargarse o abrirse en Timeline (beta). La resolución y la relación de aspecto no se pueden cambiar una vez generados los fotogramas."
               },
               {
                 "t": "img",
-                "src": "https://desktop.beeble.ai/public/landing/cms/images/research/switchx-3-0/whats-new-four-updates-v2.webp",
-                "cap": "La 3.0 conserva el flujo de trabajo y el bloqueo, y trae cuatro actualizaciones importantes."
+                "src": "https://www.redsharknews.com/hs-fs/hubfs/adobe%20firefly%20video%20editor%20quick%20actions.jpg?width=1920&height=1080&name=adobe%20firefly%20video%20editor%20quick%20actions.jpg"
               },
               {
                 "t": "p",
-                "x": "Referencias múltiples: hasta cuatro imágenes en una sola tarea, ya sea un plano general de todo el set, un primer plano de un objeto o incluso un guion gráfico. Fondos dinámicos: el tráfico pasa detrás, las multitudes caminan, las cosas explotan, el fuego se mueve, cae la nieve. Seguimiento de cámara perfecto: tomas en mano, en órbita y en carrera, sin marcadores ni match move. Control más preciso del prompt: describe qué ocurre en la escena, cómo se mueve y cuándo."
-              },
-              {
-                "t": "img",
-                "src": "https://desktop.beeble.ai/public/landing/cms/images/research/switchx-3-0/refs-billboard.webp",
-                "cap": "Cuatro referencias: la ubicación, dos tarjetas de vallas publicitarias y un guion gráfico de la secuencia."
+                "x": "Assemble short video es un espacio de trabajo ligero para clips generados o importados en una sola pista. Los usuarios pueden recortar, dividir y reordenar clips, ajustar el volumen, detectar cortes y cambiar la relación de aspecto. Los clips seleccionados se pueden regenerar a partir de un prompt de texto, con un indicador de costo que muestra los créditos generativos necesarios; las versiones regeneradas aparecen como tomas para comparar."
               },
               {
                 "t": "p",
-                "x": "Salida en 4K y color de 10-bit. El número de fotogramas coincide exactamente con el original y la relación de aspecto nunca cambia. SwitchX 3.0 está disponible en la app en la nube de Beeble: como nodo en el lienzo o en la página independiente de SwitchX."
+                "x": "Ambas herramientas están en beta y no están disponibles para usuarios de Creative Cloud for Teams ni de Enterprise. Build a story solo funciona en Chrome y Edge de escritorio y solo toma clips del historial de generación del almacenamiento en la nube de Adobe, no de cargas directas."
               }
             ]
           }
@@ -415,15 +395,15 @@
       }
     },
     {
-      "id": "higgsfield-listen-meh-prize",
+      "id": "distinkt-ai-talent-agency",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "아르헨티나 AI 단편\n$500K 대상 수상",
-      "body": "'Listen to MEH'가 Higgsfield의 $500K 대상을 거머쥐었다.",
-      "mini_headline": "'Listen to MEH'\n$500K AI 상 수상",
+      "headline": "소속사 없는 연기자의\nAI-powered 대행사",
+      "body": "LA·London에서 AI-powered 대행사 Distinkt가 출범했다.",
+      "mini_headline": "Distinkt의 AI 인재 에이전시",
       "tool": "Movies",
-      "source": "Animation World Network",
-      "url": "https://www.awn.com/news/argentinas-listen-meh-wins-500k-higgsfield-ai-film-prize",
+      "source": "Variety",
+      "url": "https://variety.com/2026/film/news/distinkt-talent-agency-ai-actors-clients-1236946168/",
       "accent": "#f5a623",
       "motif": "frame",
       "full": {
@@ -431,345 +411,295 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.awn.com/sites/default/files/image/attached/1081778-listen-meh-purga-studio-1280.jpg",
-            "cap": "'Listen to Meh.' 이미지 제공: PURGA Films."
+            "src": "https://variety.com/wp-content/uploads/2026/11/Unknown_a9cd6c.jpeg?w=1000&h=667&crop=1"
           },
           {
             "t": "p",
-            "x": "아르헨티나 AI 제작사 PURGA Studio가 첫 극영화 단편 Listen to MEH로 Higgsfield Global Film Festival의 최고상 상금 $500,000를 받았다."
+            "x": "Distinkt는 전 세계에서 소속사 없이 활동하는 수많은 창작자와 클라이언트를 겨냥한 인재 회사로, Los Angeles와 London에서 문을 열었다. AI 워크플로와 인간 에이전트를 함께 써서 배우, 감독, 프로듀서, 편집자, 사진작가, 디지털 크리에이티브를 주요 시장의 기회와 이어 준다. 출범 당시 클라이언트는 43개국 약 2,000명이다."
           },
           {
             "t": "p",
-            "x": "AI 비디오 플랫폼 Higgsfield가 연 이 대회는 상금 $1 million을 수상자 14명에게 나눠 줬다. AI 영상과 이미지는 모두 Higgsfield의 Cinema Studio에서 만들어야 했지만 편집에는 Blender, DaVinci Resolve 같은 기존 도구를 써도 됐다. PURGA에 따르면 이번 영화제에는 176개국에서 시작된 프로젝트 67,223건이 몰렸다. 심사는 Pixar 공동 창업자 Ed Catmull과 촬영감독 Phedon Papamichael, Resident Evil 감독 Paul W. S. Anderson, Dark City 감독 Alex Proyas가 맡았다."
+            "x": "Distinkt는 California-licensed 회사로, Robert Herman과 Chris Gibbin, UTA 커뮤니케이션 책임자 출신 Chris Day가 함께 세웠다. CEO Herman은 “에이전시 업무의 조정과 행정 상당 부분을 기술이 처리하도록 Distinkt를 만들었다. 덕분에 에이전트는 판단, 평가, 협상에 집중할 수 있다”고 말했다."
           },
           {
             "t": "p",
-            "x": "Listen to MEH는 아르헨티나 팜파스 초원의 외딴 목장에서 홀로 사는 가우초가 농가 지붕 위에 선 검은 양을 발견하는 이야기다. Martín과 Manuel Montes de Oca가 Bautista Vidal, Joaquín Iraola와 함께 만든 작품으로 부조리와 서스펜스에 마술적 리얼리즘을 섞었다."
+            "x": "클라이언트는 누구나 자체 플랫폼에서 일거리를 분석하는 “AI 팀원” 네 명과, 법률 준수·계약 분석 등을 맡는 AI “전문가” 패널을 지원받는다. 최종 결정과 계약 중개는 전부 인간 에이전트 몫이다. 인재 클라이언트는 돈을 내지 않으며 전속 계약도 맺지 않는다. 회사가 노리는 시장은 에이전트가 없는 것으로 추산되는 SAG-AFTRA 회원 약 70% 같은 미개척층이다."
           },
           {
             "t": "p",
-            "x": "PURGA Studio 감독 Martín Montes de Oca는 “우리에게 이건 월드컵 우승과 같다”고 말했다. PURGA Studio 공동 창업자이자 총괄 프로듀서 Sebastián Aspani는 “인공지능은 우리 같은 독립 스튜디오가 다룰 수 있는 규모를 바꾸고 있다”고 덧붙였다."
-          },
-          {
-            "t": "video",
-            "yt": "miNfT_JSzpk"
+            "x": "Herman은 “기술로 에이전트를 대체하려는 것이 아니라 에이전트에게 초능력을 주려는 것”이라고 말했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Argentine AI short wins\nHiggsfield's $500K prize",
-          "body": "PURGA Studio's first fiction short, 'Listen to MEH', took Higgsfield's $500K prize from a jury including Ed Catmull.",
-          "mini_headline": "'Listen to MEH' wins\n$500K AI prize",
+          "headline": "Distinkt, an AI-powered agency\nfor unrepresented performers",
+          "body": "Entertainment veterans launched Distinkt in LA and London, an AI-powered agency for unrepresented talent worldwide.",
+          "mini_headline": "Distinkt: an AI talent agency",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.awn.com/sites/default/files/image/attached/1081778-listen-meh-purga-studio-1280.jpg",
-                "cap": "'Listen to Meh.' Image courtesy of PURGA Films."
+                "src": "https://variety.com/wp-content/uploads/2026/11/Unknown_a9cd6c.jpeg?w=1000&h=667&crop=1"
               },
               {
                 "t": "p",
-                "x": "Argentine AI production company PURGA Studio has taken the Higgsfield Global Film Festival's $500,000 top prize with their first fiction short, Listen to MEH."
+                "x": "Distinkt, a talent firm built for a large population of unrepresented creators and clients around the world, has launched out of Los Angeles and London. The agency will use AI workflows and human agents to connect actors, directors, producers, editors, photographers and digital creatives with opportunities in key markets. Distinkt is up and running with nearly 2,000 clients in 43 countries."
               },
               {
                 "t": "p",
-                "x": "AI video platform Higgsfield ran the competition, splitting a $1 million prize pool among 14 winners. All AI video and images had to be generated inside Higgsfield's Cinema Studio, though entrants could edit with traditional tools such as Blender and DaVinci Resolve. According to PURGA, the festival drew 67,223 projects started across 176 countries. Pixar co-founder Ed Catmull sat on the jury alongside cinematographer Phedon Papamichael, Resident Evil director Paul W. S. Anderson and Dark City filmmaker Alex Proyas."
+                "x": "The California-licensed company is founded by Robert Herman, Chris Gibbin and former UTA communications head Chris Day. “We built Distinkt so that a significant part of the coordination and administration of agency work is managed by technology. That frees our agents to focus on judgment, evaluation and negotiation,” said CEO Herman."
               },
               {
                 "t": "p",
-                "x": "Listen to MEH takes place on a remote ranch on Argentina's Pampas grasslands, where a lone gaucho finds a black sheep standing on his farmhouse roof. Martín and Manuel Montes de Oca made the film with Bautista Vidal and Joaquín Iraola, mixing absurdism, suspense and magical realism."
+                "x": "Every Distinkt client receives four “AI teammates” on a proprietary platform to analyze work opportunities, as well as a panel of AI “specialists” in areas like legal compliance and contract analysis. Human agents make all final decisions and broker deals. Distinkt is free of charge for talent clients and will not ask them to be represented exclusively; it is going after untapped pools like the some 70% of SAG-AFTRA members it estimates do not have agents."
               },
               {
                 "t": "p",
-                "x": "\"For us, this is like winning the World Cup,\" said Martín Montes de Oca, a director at PURGA Studio. \"Artificial intelligence is changing what's possible in terms of scale for independent studios like ours,\" said Sebastián Aspani, PURGA Studio co-founder and executive producer."
-              },
-              {
-                "t": "video",
-                "yt": "miNfT_JSzpk"
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "아르헨티나 AI 단편\n$500K 대상 수상",
-          "body": "'Listen to MEH'가 Higgsfield의 $500K 대상을 거머쥐었다.",
-          "mini_headline": "'Listen to MEH'\n$500K AI 상 수상",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.awn.com/sites/default/files/image/attached/1081778-listen-meh-purga-studio-1280.jpg",
-                "cap": "'Listen to Meh.' 이미지 제공: PURGA Films."
-              },
-              {
-                "t": "p",
-                "x": "아르헨티나 AI 제작사 PURGA Studio가 첫 극영화 단편 Listen to MEH로 Higgsfield Global Film Festival의 최고상 상금 $500,000를 받았다."
-              },
-              {
-                "t": "p",
-                "x": "AI 비디오 플랫폼 Higgsfield가 연 이 대회는 상금 $1 million을 수상자 14명에게 나눠 줬다. AI 영상과 이미지는 모두 Higgsfield의 Cinema Studio에서 만들어야 했지만 편집에는 Blender, DaVinci Resolve 같은 기존 도구를 써도 됐다. PURGA에 따르면 이번 영화제에는 176개국에서 시작된 프로젝트 67,223건이 몰렸다. 심사는 Pixar 공동 창업자 Ed Catmull과 촬영감독 Phedon Papamichael, Resident Evil 감독 Paul W. S. Anderson, Dark City 감독 Alex Proyas가 맡았다."
-              },
-              {
-                "t": "p",
-                "x": "Listen to MEH는 아르헨티나 팜파스 초원의 외딴 목장에서 홀로 사는 가우초가 농가 지붕 위에 선 검은 양을 발견하는 이야기다. Martín과 Manuel Montes de Oca가 Bautista Vidal, Joaquín Iraola와 함께 만든 작품으로 부조리와 서스펜스에 마술적 리얼리즘을 섞었다."
-              },
-              {
-                "t": "p",
-                "x": "PURGA Studio 감독 Martín Montes de Oca는 “우리에게 이건 월드컵 우승과 같다”고 말했다. PURGA Studio 공동 창업자이자 총괄 프로듀서 Sebastián Aspani는 “인공지능은 우리 같은 독립 스튜디오가 다룰 수 있는 규모를 바꾸고 있다”고 덧붙였다."
-              },
-              {
-                "t": "video",
-                "yt": "miNfT_JSzpk"
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "アルゼンチンAI短編が\n$500K 賞を獲得",
-          "body": "初の短編『Listen to MEH』がHiggsfieldの$500K 賞を獲得した。",
-          "mini_headline": "『Listen to MEH』\n$500K AI賞を獲得",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.awn.com/sites/default/files/image/attached/1081778-listen-meh-purga-studio-1280.jpg",
-                "cap": "『Listen to Meh』。画像提供：PURGA Films。"
-              },
-              {
-                "t": "p",
-                "x": "アルゼンチンのAI制作会社PURGA Studioが、初のフィクション短編『Listen to MEH』でHiggsfield Global Film Festivalの最高賞$500,000を獲得した。"
-              },
-              {
-                "t": "p",
-                "x": "大会を主催したのはAI動画プラットフォームのHiggsfieldで、$1 million の賞金総額を14組の受賞者で分け合った。AI動画と画像はすべてHiggsfieldのCinema Studio内で生成する必要があったが、編集にはBlenderやDaVinci Resolveなど従来のツールを使えた。PURGAによると、映画祭には176カ国で67,223件のプロジェクトが立ち上げられた。審査員にはPixar共同創業者のEd Catmullのほか、撮影監督Phedon Papamichael、『Resident Evil』の監督Paul W. S. Anderson、『Dark City』の監督Alex Proyasが名を連ねた。"
-              },
-              {
-                "t": "p",
-                "x": "『Listen to MEH』の舞台は、アルゼンチンのパンパス草原にある人里離れた牧場だ。孤独なガウチョが、農家の屋根の上に立つ黒い羊を見つける。MartínとManuel Montes de OcaがBautista Vidal、Joaquín Iraolaとともに制作し、不条理、サスペンス、魔術的リアリズムを織り交ぜた。"
-              },
-              {
-                "t": "p",
-                "x": "「私たちにとって、これはワールドカップで優勝したようなものだ」と、PURGA Studioの監督Martín Montes de Ocaは語った。「人工知能は、我々のような独立系スタジオにとって、規模の面で可能なことを変えつつある」と、PURGA Studio共同創業者でエグゼクティブプロデューサーのSebastián Aspaniは述べた。"
-              },
-              {
-                "t": "video",
-                "yt": "miNfT_JSzpk"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "阿根廷AI短片获$500K\nHiggsfield大奖",
-          "body": "首部短片《Listen to MEH》摘得 Higgsfield $500K 大奖。",
-          "mini_headline": "《Listen to MEH》\n获 $500K AI 大奖",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.awn.com/sites/default/files/image/attached/1081778-listen-meh-purga-studio-1280.jpg",
-                "cap": "《Listen to Meh》。图片由 PURGA Films 提供。"
-              },
-              {
-                "t": "p",
-                "x": "阿根廷 AI 制作公司 PURGA Studio 凭借首部剧情短片《Listen to MEH》摘得 Higgsfield Global Film Festival 的 $500,000 最高奖。"
-              },
-              {
-                "t": "p",
-                "x": "比赛由 AI 视频平台 Higgsfield 主办，$1 million 奖金池由 14 位获奖者分享。所有 AI 视频和图像都必须在 Higgsfield 的 Cinema Studio 内生成，但参赛者可以用 Blender、DaVinci Resolve 等传统工具剪辑。据 PURGA 称，本届影展共有来自 176 个国家的 67,223 个项目启动。评审团成员包括 Pixar 联合创始人 Ed Catmull，以及摄影师 Phedon Papamichael、《Resident Evil》导演 Paul W. S. Anderson 和《Dark City》导演 Alex Proyas。"
-              },
-              {
-                "t": "p",
-                "x": "《Listen to MEH》的故事发生在阿根廷潘帕斯草原上一座偏远的牧场，一位孤独的高乔人发现一只黑羊站在他的农舍屋顶上。Martín 和 Manuel Montes de Oca 与 Bautista Vidal、Joaquín Iraola 合作完成了这部影片，融合了荒诞、悬疑与魔幻现实主义。"
-              },
-              {
-                "t": "p",
-                "x": "“对我们来说，这就像赢得了世界杯。”PURGA Studio 导演 Martín Montes de Oca 说。“人工智能正在改变像我们这样的独立工作室在规模上的可能性。”PURGA Studio 联合创始人兼执行制片人 Sebastián Aspani 说。"
-              },
-              {
-                "t": "video",
-                "yt": "miNfT_JSzpk"
+                "x": "“We’re using technology to give agents superpowers, not to replace them,” said Herman."
               }
             ]
           }
         },
         "es": {
-          "headline": "Corto argentino de AI gana el\npremio de $500K de Higgsfield",
-          "body": "'Listen to MEH', primer corto de PURGA Studio, ganó el premio de $500K de Higgsfield ante un jurado con Ed Catmull.",
-          "mini_headline": "'Listen to MEH' gana\npremio AI de $500K",
+          "headline": "Distinkt, una agencia AI-powered\npara artistas sin representación",
+          "body": "Veteranos del entretenimiento lanzaron en LA y London Distinkt, una agencia AI-powered para talento sin representación.",
+          "mini_headline": "Distinkt: agencia de talento con AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.awn.com/sites/default/files/image/attached/1081778-listen-meh-purga-studio-1280.jpg",
-                "cap": "'Listen to Meh.' Imagen cortesía de PURGA Films."
+                "src": "https://variety.com/wp-content/uploads/2026/11/Unknown_a9cd6c.jpeg?w=1000&h=667&crop=1"
               },
               {
                 "t": "p",
-                "x": "La productora argentina de AI PURGA Studio ganó el premio mayor de $500,000 del Higgsfield Global Film Festival con su primer cortometraje de ficción, Listen to MEH."
+                "x": "Distinkt, una firma de talento creada para la gran población de creadores y clientes sin representación de todo el mundo, se ha lanzado desde Los Angeles y London. La agencia usará flujos de trabajo de AI y agentes humanos para conectar a actores, directores, productores, editores, fotógrafos y creativos digitales con oportunidades en mercados clave. Distinkt ya está en funcionamiento con casi 2,000 clientes en 43 países."
               },
               {
                 "t": "p",
-                "x": "La plataforma de video con AI Higgsfield organizó el certamen y repartió una bolsa de $1 million entre 14 ganadores. Todo el video y las imágenes con AI debían generarse dentro de Cinema Studio de Higgsfield, aunque los participantes podían editar con herramientas tradicionales como Blender y DaVinci Resolve. Según PURGA, el festival reunió 67,223 proyectos iniciados en 176 países. El cofundador de Pixar Ed Catmull formó parte del jurado junto al director de fotografía Phedon Papamichael, el director de Resident Evil Paul W. S. Anderson y el cineasta de Dark City Alex Proyas."
+                "x": "La empresa, California-licensed (con licencia en California), fue fundada por Robert Herman, Chris Gibbin y el exjefe de comunicaciones de UTA Chris Day. “Construimos Distinkt para que una parte importante de la coordinación y la administración del trabajo de agencia la gestione la tecnología. Eso permite a nuestros agentes concentrarse en el criterio, la evaluación y la negociación”, dijo el CEO Herman."
               },
               {
                 "t": "p",
-                "x": "Listen to MEH transcurre en un rancho remoto de las praderas de las Pampas de Argentina, donde un gaucho solitario encuentra una oveja negra parada sobre el techo de su casa. Martín y Manuel Montes de Oca hicieron la película con Bautista Vidal y Joaquín Iraola, mezclando absurdo, suspenso y realismo mágico."
+                "x": "Cada cliente de Distinkt recibe cuatro “compañeros de equipo AI” en una plataforma propia para analizar oportunidades de trabajo, además de un panel de “especialistas” AI en áreas como cumplimiento legal y análisis de contratos. Los agentes humanos toman todas las decisiones finales y cierran los acuerdos. Distinkt es gratuita para los clientes de talento y no les pedirá representación exclusiva; apunta a grupos sin explotar, como el 70% aproximado de los miembros de SAG-AFTRA que, según sus estimaciones, no tienen agente."
               },
               {
                 "t": "p",
-                "x": "“Para nosotros, esto es como ganar el Mundial”, dijo Martín Montes de Oca, director de PURGA Studio. “La inteligencia artificial está cambiando lo que es posible en términos de escala para estudios independientes como el nuestro”, dijo Sebastián Aspani, cofundador y productor ejecutivo de PURGA Studio."
+                "x": "“Usamos la tecnología para dar superpoderes a los agentes, no para reemplazarlos”, dijo Herman."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "소속사 없는 연기자의\nAI-powered 대행사",
+          "body": "LA·London에서 AI-powered 대행사 Distinkt가 출범했다.",
+          "mini_headline": "Distinkt의 AI 인재 에이전시",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/11/Unknown_a9cd6c.jpeg?w=1000&h=667&crop=1"
               },
               {
-                "t": "video",
-                "yt": "miNfT_JSzpk"
+                "t": "p",
+                "x": "Distinkt는 전 세계에서 소속사 없이 활동하는 수많은 창작자와 클라이언트를 겨냥한 인재 회사로, Los Angeles와 London에서 문을 열었다. AI 워크플로와 인간 에이전트를 함께 써서 배우, 감독, 프로듀서, 편집자, 사진작가, 디지털 크리에이티브를 주요 시장의 기회와 이어 준다. 출범 당시 클라이언트는 43개국 약 2,000명이다."
+              },
+              {
+                "t": "p",
+                "x": "Distinkt는 California-licensed 회사로, Robert Herman과 Chris Gibbin, UTA 커뮤니케이션 책임자 출신 Chris Day가 함께 세웠다. CEO Herman은 “에이전시 업무의 조정과 행정 상당 부분을 기술이 처리하도록 Distinkt를 만들었다. 덕분에 에이전트는 판단, 평가, 협상에 집중할 수 있다”고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "클라이언트는 누구나 자체 플랫폼에서 일거리를 분석하는 “AI 팀원” 네 명과, 법률 준수·계약 분석 등을 맡는 AI “전문가” 패널을 지원받는다. 최종 결정과 계약 중개는 전부 인간 에이전트 몫이다. 인재 클라이언트는 돈을 내지 않으며 전속 계약도 맺지 않는다. 회사가 노리는 시장은 에이전트가 없는 것으로 추산되는 SAG-AFTRA 회원 약 70% 같은 미개척층이다."
+              },
+              {
+                "t": "p",
+                "x": "Herman은 “기술로 에이전트를 대체하려는 것이 아니라 에이전트에게 초능력을 주려는 것”이라고 말했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "無所属俳優へDistinkt\nAI-powered事務所",
+          "body": "LAとLondonで無所属向けAI-powered事務所Distinktが始動した。",
+          "mini_headline": "Distinkt:AIタレント事務所",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/11/Unknown_a9cd6c.jpeg?w=1000&h=667&crop=1"
+              },
+              {
+                "t": "p",
+                "x": "世界中で所属先を持たない多くのクリエイターやクライアントのためのタレント企業Distinktが、Los AngelesとLondonを拠点に始動した。同社はAIワークフローと人間のエージェントを組み合わせ、俳優、監督、プロデューサー、編集者、写真家、デジタルクリエイターを主要市場の機会につなぐ。Distinktは43カ国、約2,000人のクライアントを抱えて稼働している。"
+              },
+              {
+                "t": "p",
+                "x": "California-licensedの同社は、Robert Herman、Chris Gibbin、そしてUTAの元広報責任者Chris Dayが設立した。CEOのHermanは「エージェント業務の調整や事務の大部分をテクノロジーが担うようにDistinktを作った。それによってエージェントは判断、評価、交渉に集中できる」と語った。"
+              },
+              {
+                "t": "p",
+                "x": "Distinktのクライアントは全員、独自プラットフォーム上で仕事の機会を分析する四人の「AIチームメイト」と、法令順守や契約分析などの分野を担うAI「スペシャリスト」の一団を利用できる。最終判断と契約の仲介はすべて人間のエージェントが行う。Distinktはタレントのクライアントには無料で、専属契約も求めない。同社が狙うのは、エージェントを持たないと推計するSAG-AFTRA会員の約70%といった未開拓層だ。"
+              },
+              {
+                "t": "p",
+                "x": "Hermanは「テクノロジーはエージェントを置き換えるためではなく、エージェントに超能力を与えるために使っている」と述べた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "AI-powered经纪公司\nDistinkt助无经纪艺人",
+          "body": "娱乐老将在LA和London推出服务无经纪艺人的AI-powered机构Distinkt。",
+          "mini_headline": "Distinkt：AI人才经纪公司",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/11/Unknown_a9cd6c.jpeg?w=1000&h=667&crop=1"
+              },
+              {
+                "t": "p",
+                "x": "面向全球大量没有经纪代理的创作者和客户的人才公司Distinkt在Los Angeles和London成立。该机构将结合AI工作流程与人类经纪人，把演员、导演、制片人、剪辑师、摄影师和数字创意人士与主要市场的机会连接起来。Distinkt已在43个国家拥有近2,000名客户并投入运营。"
+              },
+              {
+                "t": "p",
+                "x": "这家California-licensed公司由Robert Herman、Chris Gibbin以及UTA前传播主管Chris Day创立。CEO Herman表示：“我们打造Distinkt，是为了让经纪工作中相当一部分的协调和行政事务由技术来处理。这样我们的经纪人就能专注于判断、评估和谈判。”"
+              },
+              {
+                "t": "p",
+                "x": "每位Distinkt客户都会在自有平台上获得四名用于分析工作机会的“AI队友”，以及一组负责法律合规、合同分析等领域的AI“专家”。所有最终决定和交易撮合均由人类经纪人完成。Distinkt对人才客户免费，也不要求独家代理；它瞄准的是尚未开发的群体，例如其估计约70%没有经纪人的SAG-AFTRA会员。"
+              },
+              {
+                "t": "p",
+                "x": "Herman说：“我们用技术给经纪人超能力，而不是取代他们。”"
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "아르헨티나 AI 단편\n$500K 대상 수상",
-          "body": "'Listen to MEH'가 Higgsfield $500K 상을 받았다.",
-          "mini_headline": "'Listen to MEH'\n$500K AI 상 수상",
+        "es": {
+          "headline": "Distinkt, una agencia AI-powered\npara artistas sin representación",
+          "body": "Veteranos del entretenimiento lanzaron en LA y London Distinkt, una agencia AI-powered para talento sin representación.",
+          "mini_headline": "Distinkt: agencia de talento con AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.awn.com/sites/default/files/image/attached/1081778-listen-meh-purga-studio-1280.jpg",
-                "cap": "'Listen to Meh.' 이미지 제공: PURGA Films."
+                "src": "https://variety.com/wp-content/uploads/2026/11/Unknown_a9cd6c.jpeg?w=1000&h=667&crop=1"
               },
               {
                 "t": "p",
-                "x": "아르헨티나 AI 제작사 PURGA Studio가 첫 극영화 단편 Listen to MEH로 Higgsfield Global Film Festival의 최고상 상금 $500,000를 받았다."
+                "x": "Distinkt, una firma de talento creada para la gran población de creadores y clientes sin representación de todo el mundo, se ha lanzado desde Los Angeles y London. La agencia usará flujos de trabajo de AI y agentes humanos para conectar a actores, directores, productores, editores, fotógrafos y creativos digitales con oportunidades en mercados clave. Distinkt ya está en funcionamiento con casi 2,000 clientes en 43 países."
               },
               {
                 "t": "p",
-                "x": "AI 비디오 플랫폼 Higgsfield가 연 이 대회는 $1 million 규모의 상금을 수상자 14명에게 나눠 줬다. 모든 AI 영상과 이미지는 Higgsfield의 Cinema Studio 안에서 생성해야 했지만, 참가자는 Blender와 DaVinci Resolve 같은 기존 도구로 편집할 수 있었다. PURGA에 따르면 이번 영화제에는 176개국에서 시작된 프로젝트 67,223건이 몰렸다. 심사위원단에는 Pixar 공동 창업자 Ed Catmull과 함께 촬영감독 Phedon Papamichael, Resident Evil 감독 Paul W. S. Anderson, Dark City 감독 Alex Proyas가 참여했다."
+                "x": "La empresa, California-licensed (con licencia en California), fue fundada por Robert Herman, Chris Gibbin y el exjefe de comunicaciones de UTA Chris Day. “Construimos Distinkt para que una parte importante de la coordinación y la administración del trabajo de agencia la gestione la tecnología. Eso permite a nuestros agentes concentrarse en el criterio, la evaluación y la negociación”, dijo el CEO Herman."
               },
               {
                 "t": "p",
-                "x": "Listen to MEH는 아르헨티나 팜파스 초원의 외딴 목장을 배경으로, 홀로 사는 가우초가 농가 지붕 위에 선 검은 양을 발견하는 이야기다. Martín과 Manuel Montes de Oca가 Bautista Vidal, Joaquín Iraola와 함께 만들었으며, 부조리와 서스펜스, 마술적 리얼리즘을 섞었다."
+                "x": "Cada cliente de Distinkt recibe cuatro “compañeros de equipo AI” en una plataforma propia para analizar oportunidades de trabajo, además de un panel de “especialistas” AI en áreas como cumplimiento legal y análisis de contratos. Los agentes humanos toman todas las decisiones finales y cierran los acuerdos. Distinkt es gratuita para los clientes de talento y no les pedirá representación exclusiva; apunta a grupos sin explotar, como el 70% aproximado de los miembros de SAG-AFTRA que, según sus estimaciones, no tienen agente."
               },
               {
                 "t": "p",
-                "x": "PURGA Studio 감독 Martín Montes de Oca는 “우리에게 이건 월드컵 우승과 같다”고 말했다. PURGA Studio 공동 창업자이자 총괄 프로듀서 Sebastián Aspani는 “인공지능은 우리 같은 독립 스튜디오가 다룰 수 있는 규모를 바꾸고 있다”고 말했다."
+                "x": "“Usamos la tecnología para dar superpoderes a los agentes, no para reemplazarlos”, dijo Herman."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "무소속용 Distinkt\nAI-powered 대행사",
+          "body": "LA·London에서 AI-powered 대행사 Distinkt가 출범했다.",
+          "mini_headline": "Distinkt: AI 인재 에이전시",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/11/Unknown_a9cd6c.jpeg?w=1000&h=667&crop=1"
               },
               {
-                "t": "video",
-                "yt": "miNfT_JSzpk"
+                "t": "p",
+                "x": "전 세계에서 소속사 없이 활동하는 수많은 창작자와 클라이언트를 위한 인재 회사 Distinkt가 Los Angeles와 London에서 출범했다. 이 에이전시는 AI 워크플로와 인간 에이전트를 함께 활용해 배우, 감독, 프로듀서, 편집자, 사진작가, 디지털 크리에이티브를 주요 시장의 기회와 연결한다. Distinkt는 43개국 약 2,000명의 클라이언트와 함께 운영을 시작했다."
+              },
+              {
+                "t": "p",
+                "x": "California-licensed 회사인 Distinkt는 Robert Herman, Chris Gibbin, 그리고 UTA 커뮤니케이션 책임자 출신 Chris Day가 세웠다. CEO Herman은 “에이전시 업무의 조정과 행정 상당 부분을 기술이 처리하도록 Distinkt를 만들었다. 덕분에 에이전트는 판단, 평가, 협상에 집중할 수 있다”고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "Distinkt의 모든 클라이언트는 자체 플랫폼에서 일거리를 분석하는 네 명의 “AI 팀원”과, 법률 준수와 계약 분석 같은 분야의 AI “전문가” 패널을 제공받는다. 최종 결정과 계약 중개는 모두 인간 에이전트가 맡는다. Distinkt는 인재 클라이언트에게 무료이며 전속 계약도 요구하지 않는다. 회사는 에이전트가 없는 것으로 추산되는 SAG-AFTRA 회원 약 70% 같은 미개척층을 노린다."
+              },
+              {
+                "t": "p",
+                "x": "Herman은 “기술로 에이전트를 대체하려는 것이 아니라 에이전트에게 초능력을 주려는 것”이라고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "アルゼンチンAI短編が\n$500K 賞を獲得",
-          "body": "初の短編『Listen to MEH』がHiggsfieldの$500K 賞を獲得した。",
-          "mini_headline": "『Listen to MEH』\n$500K AI賞を獲得",
+          "headline": "無所属俳優へDistinkt\nAI-powered事務所",
+          "body": "LAとLondonで無所属向けAI-powered事務所Distinktが始動した。",
+          "mini_headline": "Distinkt:AIタレント事務所",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.awn.com/sites/default/files/image/attached/1081778-listen-meh-purga-studio-1280.jpg",
-                "cap": "『Listen to Meh』。画像提供：PURGA Films。"
+                "src": "https://variety.com/wp-content/uploads/2026/11/Unknown_a9cd6c.jpeg?w=1000&h=667&crop=1"
               },
               {
                 "t": "p",
-                "x": "アルゼンチンのAI制作会社PURGA Studioが、初のフィクション短編『Listen to MEH』でHiggsfield Global Film Festivalの最高賞$500,000を獲得した。"
+                "x": "世界中で所属先を持たない多くのクリエイターやクライアントのためのタレント企業Distinktが、Los AngelesとLondonを拠点に始動した。同社はAIワークフローと人間のエージェントを組み合わせ、俳優、監督、プロデューサー、編集者、写真家、デジタルクリエイターを主要市場の機会につなぐ。Distinktは43カ国、約2,000人のクライアントを抱えて稼働している。"
               },
               {
                 "t": "p",
-                "x": "大会を主催したのはAI動画プラットフォームのHiggsfieldで、$1 million の賞金総額を14組の受賞者で分け合った。AI動画と画像はすべてHiggsfieldのCinema Studio内で生成する必要があったが、編集にはBlenderやDaVinci Resolveなど従来のツールを使えた。PURGAによると、映画祭には176カ国で67,223件のプロジェクトが立ち上げられた。審査員にはPixar共同創業者のEd Catmullのほか、撮影監督Phedon Papamichael、『Resident Evil』の監督Paul W. S. Anderson、『Dark City』の監督Alex Proyasが名を連ねた。"
+                "x": "California-licensedの同社は、Robert Herman、Chris Gibbin、そしてUTAの元広報責任者Chris Dayが設立した。CEOのHermanは「エージェント業務の調整や事務の大部分をテクノロジーが担うようにDistinktを作った。それによってエージェントは判断、評価、交渉に集中できる」と語った。"
               },
               {
                 "t": "p",
-                "x": "『Listen to MEH』の舞台は、アルゼンチンのパンパス草原にある人里離れた牧場だ。孤独なガウチョが、農家の屋根の上に立つ黒い羊を見つける。MartínとManuel Montes de OcaがBautista Vidal、Joaquín Iraolaとともに制作し、不条理、サスペンス、魔術的リアリズムを織り交ぜた。"
+                "x": "Distinktのクライアントは全員、独自プラットフォーム上で仕事の機会を分析する四人の「AIチームメイト」と、法令順守や契約分析などの分野を担うAI「スペシャリスト」の一団を利用できる。最終判断と契約の仲介はすべて人間のエージェントが行う。Distinktはタレントのクライアントには無料で、専属契約も求めない。同社が狙うのは、エージェントを持たないと推計するSAG-AFTRA会員の約70%といった未開拓層だ。"
               },
               {
                 "t": "p",
-                "x": "「私たちにとって、これはワールドカップで優勝したようなものだ」と、PURGA Studioの監督Martín Montes de Ocaは語った。「人工知能は、我々のような独立系スタジオにとって、規模の面で可能なことを変えつつある」と、PURGA Studio共同創業者でエグゼクティブプロデューサーのSebastián Aspaniは述べた。"
-              },
-              {
-                "t": "video",
-                "yt": "miNfT_JSzpk"
+                "x": "Hermanは「テクノロジーはエージェントを置き換えるためではなく、エージェントに超能力を与えるために使っている」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "阿根廷AI短片获$500K\nHiggsfield大奖",
-          "body": "首部短片《Listen to MEH》摘得 Higgsfield $500K 大奖。",
-          "mini_headline": "《Listen to MEH》\n获 $500K AI 大奖",
+          "headline": "AI-powered经纪公司\nDistinkt助无经纪艺人",
+          "body": "娱乐老将在LA和London推出服务无经纪艺人的AI-powered机构Distinkt。",
+          "mini_headline": "Distinkt：AI人才经纪公司",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.awn.com/sites/default/files/image/attached/1081778-listen-meh-purga-studio-1280.jpg",
-                "cap": "《Listen to Meh》。图片由 PURGA Films 提供。"
+                "src": "https://variety.com/wp-content/uploads/2026/11/Unknown_a9cd6c.jpeg?w=1000&h=667&crop=1"
               },
               {
                 "t": "p",
-                "x": "阿根廷 AI 制作公司 PURGA Studio 凭借首部剧情短片《Listen to MEH》摘得 Higgsfield Global Film Festival 的 $500,000 最高奖。"
+                "x": "面向全球大量没有经纪代理的创作者和客户的人才公司Distinkt在Los Angeles和London成立。该机构将结合AI工作流程与人类经纪人，把演员、导演、制片人、剪辑师、摄影师和数字创意人士与主要市场的机会连接起来。Distinkt已在43个国家拥有近2,000名客户并投入运营。"
               },
               {
                 "t": "p",
-                "x": "比赛由 AI 视频平台 Higgsfield 主办，$1 million 奖金池由 14 位获奖者分享。所有 AI 视频和图像都必须在 Higgsfield 的 Cinema Studio 内生成，但参赛者可以用 Blender、DaVinci Resolve 等传统工具剪辑。据 PURGA 称，本届影展共有来自 176 个国家的 67,223 个项目启动。评审团成员包括 Pixar 联合创始人 Ed Catmull，以及摄影师 Phedon Papamichael、《Resident Evil》导演 Paul W. S. Anderson 和《Dark City》导演 Alex Proyas。"
+                "x": "这家California-licensed公司由Robert Herman、Chris Gibbin以及UTA前传播主管Chris Day创立。CEO Herman表示：“我们打造Distinkt，是为了让经纪工作中相当一部分的协调和行政事务由技术来处理。这样我们的经纪人就能专注于判断、评估和谈判。”"
               },
               {
                 "t": "p",
-                "x": "《Listen to MEH》的故事发生在阿根廷潘帕斯草原上一座偏远的牧场，一位孤独的高乔人发现一只黑羊站在他的农舍屋顶上。Martín 和 Manuel Montes de Oca 与 Bautista Vidal、Joaquín Iraola 合作完成了这部影片，融合了荒诞、悬疑与魔幻现实主义。"
+                "x": "每位Distinkt客户都会在自有平台上获得四名用于分析工作机会的“AI队友”，以及一组负责法律合规、合同分析等领域的AI“专家”。所有最终决定和交易撮合均由人类经纪人完成。Distinkt对人才客户免费，也不要求独家代理；它瞄准的是尚未开发的群体，例如其估计约70%没有经纪人的SAG-AFTRA会员。"
               },
               {
                 "t": "p",
-                "x": "“对我们来说，这就像赢得了世界杯。”PURGA Studio 导演 Martín Montes de Oca 说。“人工智能正在改变像我们这样的独立工作室在规模上的可能性。”PURGA Studio 联合创始人兼执行制片人 Sebastián Aspani 说。"
-              },
-              {
-                "t": "video",
-                "yt": "miNfT_JSzpk"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Corto argentino de AI gana el\npremio de $500K de Higgsfield",
-          "body": "'Listen to MEH', primer corto de PURGA Studio, ganó el premio de $500K de Higgsfield ante un jurado con Ed Catmull.",
-          "mini_headline": "'Listen to MEH' gana\npremio AI de $500K",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.awn.com/sites/default/files/image/attached/1081778-listen-meh-purga-studio-1280.jpg",
-                "cap": "'Listen to Meh.' Imagen cortesía de PURGA Films."
-              },
-              {
-                "t": "p",
-                "x": "La productora argentina de AI PURGA Studio ganó el premio mayor de $500,000 del Higgsfield Global Film Festival con su primer cortometraje de ficción, Listen to MEH."
-              },
-              {
-                "t": "p",
-                "x": "La plataforma de video con AI Higgsfield organizó el certamen y repartió una bolsa de $1 million entre 14 ganadores. Todo el video y las imágenes con AI debían generarse dentro de Cinema Studio de Higgsfield, aunque los participantes podían editar con herramientas tradicionales como Blender y DaVinci Resolve. Según PURGA, el festival reunió 67,223 proyectos iniciados en 176 países. El cofundador de Pixar Ed Catmull formó parte del jurado junto al director de fotografía Phedon Papamichael, el director de Resident Evil Paul W. S. Anderson y el cineasta de Dark City Alex Proyas."
-              },
-              {
-                "t": "p",
-                "x": "Listen to MEH transcurre en un rancho remoto de las praderas de las Pampas de Argentina, donde un gaucho solitario encuentra una oveja negra parada sobre el techo de su casa. Martín y Manuel Montes de Oca hicieron la película con Bautista Vidal y Joaquín Iraola, mezclando absurdo, suspenso y realismo mágico."
-              },
-              {
-                "t": "p",
-                "x": "“Para nosotros, esto es como ganar el Mundial”, dijo Martín Montes de Oca, director de PURGA Studio. “La inteligencia artificial está cambiando lo que es posible en términos de escala para estudios independientes como el nuestro”, dijo Sebastián Aspani, cofundador y productor ejecutivo de PURGA Studio."
-              },
-              {
-                "t": "video",
-                "yt": "miNfT_JSzpk"
+                "x": "Herman说：“我们用技术给经纪人超能力，而不是取代他们。”"
               }
             ]
           }
@@ -777,541 +707,189 @@
       }
     },
     {
-      "id": "kakao-ryan-ai-short",
-      "source_lang": "ko",
-      "eyebrow": "AI NEWS",
-      "headline": "카카오·오픈AI\n라이언 AI 단편 공개",
-      "body": "카카오가 오픈AI와 만든 라이언의 첫 AI 단편 '그래도, 라이언'을 공개했다.",
-      "mini_headline": "라이언\nAI 단편 공개",
-      "tool": "Movies",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261110046400017",
-      "accent": "#7928ca",
-      "motif": "frame",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://img6.yna.co.kr/etc/inner/KR/2026/11/10/AKR20261110046400017_01_i_P4.jpg"
-          },
-          {
-            "t": "p",
-            "x": "카카오[035720]의 대표 캐릭터 '라이언'이 미국 오픈AI의 생성형 인공지능(AI) 기술과 만나 단편 애니메이션으로 재탄생했다. 카카오는 오픈AI와의 기술 협업을 통해 제작한 라이언의 첫 AI 단편 애니메이션 '그래도, 라이언'을 선보인다고 10일 밝혔다."
-          },
-          {
-            "t": "p",
-            "x": "동명 웹툰을 원작으로 한 이번 작품은 약 5분 분량의 단편 애니메이션으로 기획과 연출 등 사람의 창작 과정에 생성형 AI 기술을 접목한 새로운 제작 방식을 시도했다. 제작에는 넷플릭스 애니메이션 '이 별에 필요한'을 연출한 한지원 감독과 김영준 AI 슈퍼바이저가 참여했다."
-          },
-          {
-            "t": "p",
-            "x": "장면 스케치와 정교한 프롬프트를 바탕으로 오픈AI의 '챗GPT 이미지' 기능을 활용해 초안을 생성한 뒤 전문가들의 수작업 보정 및 수정 과정을 거쳐 완성도를 끌어올렸다. 제작진은 원하는 연출과 감정선을 구체화하기 위해 한 장면에만 약 1천500개의 프롬프트를 투입했다."
-          },
-          {
-            "t": "p",
-            "x": "앞서 카카오는 지난 8일 서울 성수동 무비랜드에서 사전 특별 상영회와 관객과의 대화(GV)를 진행했다. 현장에서는 본편 상영과 함께 제작 비하인드 전시가 열렸으며 GV 예매는 오픈 하루 만에 매진됐다."
-          },
-          {
-            "t": "p",
-            "x": "한지원 감독은 GV에서 \"말이나 큰 표정 변화 없이도 라이언의 마음이 전해지고, 관객들이 각자의 이야기를 발견할 수 있도록 연출에 공을 들였다\"고 전했다. 김영준 슈퍼바이저는 \"AI 결과물이 감정선과 맞지 않으면 다시 작업하는 과정을 반복했다\"며 \"창작자의 판단과 손길이 최종 완성도를 결정했다\"고 설명했다."
-          }
-        ]
-      },
-      "text": {
-        "ko": {
-          "headline": "카카오·오픈AI\n라이언 AI 단편 공개",
-          "body": "카카오가 오픈AI와 만든 라이언의 첫 AI 단편 '그래도, 라이언'을 공개했다.",
-          "mini_headline": "라이언\nAI 단편 공개",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img6.yna.co.kr/etc/inner/KR/2026/11/10/AKR20261110046400017_01_i_P4.jpg"
-              },
-              {
-                "t": "p",
-                "x": "카카오[035720]의 대표 캐릭터 '라이언'이 미국 오픈AI의 생성형 인공지능(AI) 기술과 만나 단편 애니메이션으로 재탄생했다. 카카오는 오픈AI와의 기술 협업을 통해 제작한 라이언의 첫 AI 단편 애니메이션 '그래도, 라이언'을 선보인다고 10일 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "동명 웹툰을 원작으로 한 이번 작품은 약 5분 분량의 단편 애니메이션으로 기획과 연출 등 사람의 창작 과정에 생성형 AI 기술을 접목한 새로운 제작 방식을 시도했다. 제작에는 넷플릭스 애니메이션 '이 별에 필요한'을 연출한 한지원 감독과 김영준 AI 슈퍼바이저가 참여했다."
-              },
-              {
-                "t": "p",
-                "x": "장면 스케치와 정교한 프롬프트를 바탕으로 오픈AI의 '챗GPT 이미지' 기능을 활용해 초안을 생성한 뒤 전문가들의 수작업 보정 및 수정 과정을 거쳐 완성도를 끌어올렸다. 제작진은 원하는 연출과 감정선을 구체화하기 위해 한 장면에만 약 1천500개의 프롬프트를 투입했다."
-              },
-              {
-                "t": "p",
-                "x": "앞서 카카오는 지난 8일 서울 성수동 무비랜드에서 사전 특별 상영회와 관객과의 대화(GV)를 진행했다. 현장에서는 본편 상영과 함께 제작 비하인드 전시가 열렸으며 GV 예매는 오픈 하루 만에 매진됐다."
-              },
-              {
-                "t": "p",
-                "x": "한지원 감독은 GV에서 \"말이나 큰 표정 변화 없이도 라이언의 마음이 전해지고, 관객들이 각자의 이야기를 발견할 수 있도록 연출에 공을 들였다\"고 전했다. 김영준 슈퍼바이저는 \"AI 결과물이 감정선과 맞지 않으면 다시 작업하는 과정을 반복했다\"며 \"창작자의 판단과 손길이 최종 완성도를 결정했다\"고 설명했다."
-              }
-            ]
-          }
-        },
-        "en": {
-          "headline": "Kakao, OpenAI unveil\nAI short starring Ryan",
-          "body": "Kakao has released 'Still, Ryan', the character's first AI short film, made with OpenAI.",
-          "mini_headline": "Ryan's first\nAI short film",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img6.yna.co.kr/etc/inner/KR/2026/11/10/AKR20261110046400017_01_i_P4.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Kakao [035720]'s signature character Ryan has been reborn as a short animation through generative artificial intelligence (AI) technology from American firm OpenAI. Kakao said on the 10th that it is unveiling 'Still, Ryan', Ryan's first AI short animation, produced through a technical collaboration with OpenAI."
-              },
-              {
-                "t": "p",
-                "x": "Based on the webtoon of the same name, the roughly 5-minute short animation tries a new production method that brings generative AI technology into human creative processes such as planning and directing. Director Han Ji-won, who directed the Netflix animation 'Lost in Starlight', and AI supervisor Kim Young-jun took part in the production."
-              },
-              {
-                "t": "p",
-                "x": "Working from scene sketches and detailed prompts, the team generated drafts with OpenAI's 'ChatGPT Images' feature, then raised the quality through manual correction and revision by specialists. To give concrete shape to the direction and emotional line they wanted, the crew put about 1천500 prompts into a single scene."
-              },
-              {
-                "t": "p",
-                "x": "Earlier, on the 8th, Kakao held a special preview screening and a guest visit (GV) audience talk at Movieland in Seongsu-dong, Seoul. Alongside the screening, the venue hosted a behind-the-scenes exhibition on the production, and GV tickets sold out within a day of going on sale."
-              },
-              {
-                "t": "p",
-                "x": "At the GV, director Han Ji-won said, “I put a lot of care into the direction so that Ryan's feelings come across even without words or big changes in expression, and so that audiences can each discover their own story.” Supervisor Kim Young-jun explained, “When the AI output didn't match the emotional line, we repeated the process of reworking it,” adding, “The creators' judgment and touch determined the final quality.”"
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "カカオとOpenAI\nライアンのAI短編公開",
-          "body": "カカオがOpenAIと制作したライアン初のAI短編『それでも、ライアン』を公開した。",
-          "mini_headline": "ライアン\nAI短編を公開",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img6.yna.co.kr/etc/inner/KR/2026/11/10/AKR20261110046400017_01_i_P4.jpg"
-              },
-              {
-                "t": "p",
-                "x": "カカオ[035720]の看板キャラクター「ライアン」が、米OpenAIの生成人工知能(AI)技術と出会い、短編アニメーションとして生まれ変わった。カカオは10日、OpenAIとの技術協業で制作したライアン初のAI短編アニメーション『それでも、ライアン』を公開すると発表した。"
-              },
-              {
-                "t": "p",
-                "x": "同名のウェブトゥーンを原作とする本作は約5分の短編アニメーションで、企画や演出といった人間の創作過程に生成AI技術を取り入れる新たな制作方式に挑んだ。制作にはNetflixアニメーション『この星に必要な』を手がけたハン・ジウォン監督と、キム・ヨンジュンAIスーパーバイザーが参加した。"
-              },
-              {
-                "t": "p",
-                "x": "シーンのスケッチと精緻なプロンプトをもとにOpenAIの「ChatGPT Images」機能で下絵を生成し、専門家による手作業の補正と修正を経て完成度を高めた。制作陣は狙いとする演出と感情の流れを具体化するため、一つのシーンだけで約1천500個のプロンプトを投入した。"
-              },
-              {
-                "t": "p",
-                "x": "これに先立ちカカオは8日、ソウル・聖水洞のムービーランドで特別先行上映会と観客との対話(GV)を開いた。会場では本編上映とともに制作の舞台裏を紹介する展示が行われ、GVのチケットは発売からわずか一日で完売した。"
-              },
-              {
-                "t": "p",
-                "x": "ハン・ジウォン監督はGVで「言葉や大きな表情の変化がなくてもライアンの気持ちが伝わり、観客それぞれが自分の物語を見つけられるよう演出に力を注いだ」と語った。キム・ヨンジュン・スーパーバイザーは「AIの出力が感情の流れに合わなければ作業をやり直す過程を繰り返した」とし、「クリエイターの判断と手仕事が最終的な完成度を決めた」と説明した。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Kakao携手OpenAI\n发布Ryan AI短片",
-          "body": "Kakao公开与OpenAI合作的Ryan首部AI短片《即便如此，Ryan》。",
-          "mini_headline": "Ryan\nAI短片公开",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img6.yna.co.kr/etc/inner/KR/2026/11/10/AKR20261110046400017_01_i_P4.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Kakao[035720]的代表角色“Ryan”借助美国 OpenAI 的生成式人工智能（AI）技术，以短篇动画的形式重获新生。Kakao 于10日表示，将推出通过与 OpenAI 技术合作制作的 Ryan 首部 AI 短篇动画《即便如此，Ryan》。"
-              },
-              {
-                "t": "p",
-                "x": "本片改编自同名网络漫画，是一部时长约5分钟的短篇动画，尝试了在策划、导演等人类创作过程中融入生成式 AI 技术的全新制作方式。执导 Netflix 动画《这颗星球需要的》的韩智元导演与 AI 总监金英俊参与了制作。"
-              },
-              {
-                "t": "p",
-                "x": "制作团队以场景草图和精细的提示词为基础，利用 OpenAI 的“ChatGPT 图像”功能生成初稿，再经过专业人员的手工修正与调整，提升完成度。为了把想要的演出和情感线具体化，仅一个场景就投入了约1천500个提示词。"
-              },
-              {
-                "t": "p",
-                "x": "此前，Kakao 已于8日在首尔圣水洞 Movieland 举办了提前特别放映会和观众见面会（GV）。现场除正片放映外，还举办了制作幕后展览，GV 门票开售仅一天便售罄。"
-              },
-              {
-                "t": "p",
-                "x": "韩智元导演在 GV 上表示：“我在导演上下了很多功夫，希望即使没有台词或明显的表情变化，也能传达出 Ryan 的心情，让观众各自发现属于自己的故事。”金英俊总监解释说：“AI 生成结果如果与情感线不符，我们就反复重做。”他还说：“创作者的判断与双手决定了最终的完成度。”"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Kakao y OpenAI estrenan\nun corto de AI con Ryan",
-          "body": "Kakao presentó 'Aun así, Ryan', el primer corto de AI de su personaje Ryan, creado junto a OpenAI.",
-          "mini_headline": "Ryan estrena\ncorto de AI",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img6.yna.co.kr/etc/inner/KR/2026/11/10/AKR20261110046400017_01_i_P4.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Ryan, el personaje insignia de Kakao [035720], renace como cortometraje animado gracias a la tecnología de inteligencia artificial (AI) generativa de la estadounidense OpenAI. Kakao anunció el día 10 que presenta 'Aun así, Ryan', el primer cortometraje animado con AI de Ryan, producido mediante una colaboración técnica con OpenAI."
-              },
-              {
-                "t": "p",
-                "x": "Basada en el webtoon homónimo, la obra es un cortometraje animado de unos 5 minutos que ensaya un nuevo método de producción que incorpora la AI generativa a procesos creativos humanos como la planificación y la dirección. En la producción participaron Han Ji-won, que dirigió la película animada de Netflix 'Lost in Starlight', y el supervisor de AI Kim Young-jun."
-              },
-              {
-                "t": "p",
-                "x": "A partir de bocetos de escenas y prompts detallados, el equipo generó borradores con la función 'ChatGPT Images' de OpenAI y luego elevó la calidad con retoques y correcciones manuales de especialistas. Para concretar la puesta en escena y la línea emocional que buscaban, invirtieron unos 1천500 prompts en una sola escena."
-              },
-              {
-                "t": "p",
-                "x": "Antes, el día 8, Kakao realizó una proyección especial anticipada y un encuentro con el público (GV) en Movieland, en Seongsu-dong, Seúl. Además de la proyección, se montó una exposición sobre el detrás de escena de la producción, y las entradas para el GV se agotaron en un día."
-              },
-              {
-                "t": "p",
-                "x": "En el GV, Han Ji-won dijo: “Puse mucho empeño en la dirección para que los sentimientos de Ryan se transmitieran sin palabras ni grandes cambios de expresión, y para que cada espectador pudiera descubrir su propia historia”. El supervisor Kim Young-jun explicó: “Cuando el resultado de la AI no encajaba con la línea emocional, repetíamos el proceso de rehacerlo”, y añadió: “El criterio y la mano de los creadores determinaron la calidad final”."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "en": {
-          "headline": "Kakao, OpenAI unveil\nAI short starring Ryan",
-          "body": "Kakao has released 'Still, Ryan', the character's first AI short film, made with OpenAI.",
-          "mini_headline": "Ryan's first\nAI short film",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img6.yna.co.kr/etc/inner/KR/2026/11/10/AKR20261110046400017_01_i_P4.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Kakao [035720]'s signature character Ryan has been reborn as a short animation through generative artificial intelligence (AI) technology from American firm OpenAI. Kakao said on the 10th that it is unveiling 'Still, Ryan', Ryan's first AI short animation, produced through a technical collaboration with OpenAI."
-              },
-              {
-                "t": "p",
-                "x": "Based on the webtoon of the same name, the roughly 5-minute short animation tries a new production method that brings generative AI technology into human creative processes such as planning and directing. Director Han Ji-won, who directed the Netflix animation 'Lost in Starlight', and AI supervisor Kim Young-jun took part in the production."
-              },
-              {
-                "t": "p",
-                "x": "Working from scene sketches and detailed prompts, the team generated drafts with OpenAI's 'ChatGPT Images' feature, then raised the quality through manual correction and revision by specialists. To give concrete shape to the direction and emotional line they wanted, the crew put about 1천500 prompts into a single scene."
-              },
-              {
-                "t": "p",
-                "x": "Earlier, on the 8th, Kakao held a special preview screening and a guest visit (GV) audience talk at Movieland in Seongsu-dong, Seoul. Alongside the screening, the venue hosted a behind-the-scenes exhibition on the production, and GV tickets sold out within a day of going on sale."
-              },
-              {
-                "t": "p",
-                "x": "At the GV, director Han Ji-won said, “I put a lot of care into the direction so that Ryan's feelings come across even without words or big changes in expression, and so that audiences can each discover their own story.” Supervisor Kim Young-jun explained, “When the AI output didn't match the emotional line, we repeated the process of reworking it,” adding, “The creators' judgment and touch determined the final quality.”"
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "カカオとOpenAI\nライアンのAI短編公開",
-          "body": "カカオがOpenAIと制作したライアン初のAI短編『それでも、ライアン』を公開した。",
-          "mini_headline": "ライアン\nAI短編を公開",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img6.yna.co.kr/etc/inner/KR/2026/11/10/AKR20261110046400017_01_i_P4.jpg"
-              },
-              {
-                "t": "p",
-                "x": "カカオ[035720]の看板キャラクター「ライアン」が、米OpenAIの生成人工知能(AI)技術と出会い、短編アニメーションとして生まれ変わった。カカオは10日、OpenAIとの技術協業で制作したライアン初のAI短編アニメーション『それでも、ライアン』を公開すると発表した。"
-              },
-              {
-                "t": "p",
-                "x": "同名のウェブトゥーンを原作とする本作は約5分の短編アニメーションで、企画や演出といった人間の創作過程に生成AI技術を取り入れる新たな制作方式に挑んだ。制作にはNetflixアニメーション『この星に必要な』を手がけたハン・ジウォン監督と、キム・ヨンジュンAIスーパーバイザーが参加した。"
-              },
-              {
-                "t": "p",
-                "x": "シーンのスケッチと精緻なプロンプトをもとにOpenAIの「ChatGPT Images」機能で下絵を生成し、専門家による手作業の補正と修正を経て完成度を高めた。制作陣は狙いとする演出と感情の流れを具体化するため、一つのシーンだけで約1천500個のプロンプトを投入した。"
-              },
-              {
-                "t": "p",
-                "x": "これに先立ちカカオは8日、ソウル・聖水洞のムービーランドで特別先行上映会と観客との対話(GV)を開いた。会場では本編上映とともに制作の舞台裏を紹介する展示が行われ、GVのチケットは発売からわずか一日で完売した。"
-              },
-              {
-                "t": "p",
-                "x": "ハン・ジウォン監督はGVで「言葉や大きな表情の変化がなくてもライアンの気持ちが伝わり、観客それぞれが自分の物語を見つけられるよう演出に力を注いだ」と語った。キム・ヨンジュン・スーパーバイザーは「AIの出力が感情の流れに合わなければ作業をやり直す過程を繰り返した」とし、「クリエイターの判断と手仕事が最終的な完成度を決めた」と説明した。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Kakao携手OpenAI\n发布Ryan AI短片",
-          "body": "Kakao公开与OpenAI合作的Ryan首部AI短片《即便如此，Ryan》。",
-          "mini_headline": "Ryan\nAI短片公开",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img6.yna.co.kr/etc/inner/KR/2026/11/10/AKR20261110046400017_01_i_P4.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Kakao[035720]的代表角色“Ryan”借助美国 OpenAI 的生成式人工智能（AI）技术，以短篇动画的形式重获新生。Kakao 于10日表示，将推出通过与 OpenAI 技术合作制作的 Ryan 首部 AI 短篇动画《即便如此，Ryan》。"
-              },
-              {
-                "t": "p",
-                "x": "本片改编自同名网络漫画，是一部时长约5分钟的短篇动画，尝试了在策划、导演等人类创作过程中融入生成式 AI 技术的全新制作方式。执导 Netflix 动画《这颗星球需要的》的韩智元导演与 AI 总监金英俊参与了制作。"
-              },
-              {
-                "t": "p",
-                "x": "制作团队以场景草图和精细的提示词为基础，利用 OpenAI 的“ChatGPT 图像”功能生成初稿，再经过专业人员的手工修正与调整，提升完成度。为了把想要的演出和情感线具体化，仅一个场景就投入了约1천500个提示词。"
-              },
-              {
-                "t": "p",
-                "x": "此前，Kakao 已于8日在首尔圣水洞 Movieland 举办了提前特别放映会和观众见面会（GV）。现场除正片放映外，还举办了制作幕后展览，GV 门票开售仅一天便售罄。"
-              },
-              {
-                "t": "p",
-                "x": "韩智元导演在 GV 上表示：“我在导演上下了很多功夫，希望即使没有台词或明显的表情变化，也能传达出 Ryan 的心情，让观众各自发现属于自己的故事。”金英俊总监解释说：“AI 生成结果如果与情感线不符，我们就反复重做。”他还说：“创作者的判断与双手决定了最终的完成度。”"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Kakao y OpenAI estrenan\nun corto de AI con Ryan",
-          "body": "Kakao presentó 'Aun así, Ryan', el primer corto de AI de su personaje Ryan, creado junto a OpenAI.",
-          "mini_headline": "Ryan estrena\ncorto de AI",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img6.yna.co.kr/etc/inner/KR/2026/11/10/AKR20261110046400017_01_i_P4.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Ryan, el personaje insignia de Kakao [035720], renace como cortometraje animado gracias a la tecnología de inteligencia artificial (AI) generativa de la estadounidense OpenAI. Kakao anunció el día 10 que presenta 'Aun así, Ryan', el primer cortometraje animado con AI de Ryan, producido mediante una colaboración técnica con OpenAI."
-              },
-              {
-                "t": "p",
-                "x": "Basada en el webtoon homónimo, la obra es un cortometraje animado de unos 5 minutos que ensaya un nuevo método de producción que incorpora la AI generativa a procesos creativos humanos como la planificación y la dirección. En la producción participaron Han Ji-won, que dirigió la película animada de Netflix 'Lost in Starlight', y el supervisor de AI Kim Young-jun."
-              },
-              {
-                "t": "p",
-                "x": "A partir de bocetos de escenas y prompts detallados, el equipo generó borradores con la función 'ChatGPT Images' de OpenAI y luego elevó la calidad con retoques y correcciones manuales de especialistas. Para concretar la puesta en escena y la línea emocional que buscaban, invirtieron unos 1천500 prompts en una sola escena."
-              },
-              {
-                "t": "p",
-                "x": "Antes, el día 8, Kakao realizó una proyección especial anticipada y un encuentro con el público (GV) en Movieland, en Seongsu-dong, Seúl. Además de la proyección, se montó una exposición sobre el detrás de escena de la producción, y las entradas para el GV se agotaron en un día."
-              },
-              {
-                "t": "p",
-                "x": "En el GV, Han Ji-won dijo: “Puse mucho empeño en la dirección para que los sentimientos de Ryan se transmitieran sin palabras ni grandes cambios de expresión, y para que cada espectador pudiera descubrir su propia historia”. El supervisor Kim Young-jun explicó: “Cuando el resultado de la AI no encajaba con la línea emocional, repetíamos el proceso de rehacerlo”, y añadió: “El criterio y la mano de los creadores determinaron la calidad final”."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "bfi-nfts-falmouth-650k",
+      "id": "sagaftra-websummit-ai-block",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "BFI, AI에 £650K\nNFTS·Falmouth에",
-      "body": "BFI가 £650K 를 들여 UK 인디 창작자 여덟 명의 AI 교육 등을 돕는다.",
-      "mini_headline": "BFI, AI 인재에\n£650K 투입",
+      "headline": "SAG-AFTRA 회원의\n10-15%는 AI 차단파",
+      "body": "Crabtree-Ireland는 금지 대신 복제물 동의·보상을 원한다고 했다.",
+      "mini_headline": "SAG-AFTRA의 AI 반대 소수파",
       "tool": "Movies",
-      "source": "Screen Daily",
-      "url": "https://www.screendaily.com/news/nfts-falmouth-university-awarded-650000-from-bfi-to-support-industry-use-of-ai-virtual-production/5222296.article",
-      "accent": "#2ec5c5",
+      "source": "The Hollywood Reporter",
+      "url": "https://www.hollywoodreporter.com/business/business-news/sag-aftra-duncan-crabtree-ireland-web-summit-ai-dan-neely-1236753936/",
+      "accent": "#7928ca",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/0/3/3/1492033_pexelstarawinstead8386440_411690.jpg"
+            "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/FotoJet-2026-11-12T165017.613.jpg?w=1920&h=1080&crop=1"
           },
           {
             "t": "p",
-            "x": "BFI National Lottery Innovation Challenge Fund가 AI와 버추얼 프로덕션 같은 신기술을 쓰는 UK 독립 창작자를 지원하는 프로그램 두 곳에 £650,000를 투자한다. BFI는 National Film and Television School(NFTS)에 £400,000, Falmouth University에 £250,000를 배정했고 프로젝트는 두 해에 걸쳐 진행된다."
+            "x": "SAG-AFTRA 전국 사무총장 겸 CEO Duncan Crabtree-Ireland가 Lisbon의 Web Summit에서 Vermillio 공동 창업자 겸 CEO Dan Neely와 함께 연기자의 권리, AI와의 공존, NO FAKES Act를 이야기했다. Vermillio는 AI 라이선싱·보호 플랫폼이다."
           },
           {
             "t": "p",
-            "x": "NFTS x BFI Innovators Programme은 업계 협의와 연구, 기술 개발을 한데 묶어 실무자 10명 코호트의 창작 R&D 프로젝트에 자금을 댄다."
+            "x": "그는 “누구도 그것을 멈출 수 없고 막을 수 없다는 사실을 이해하고 받아들이는 분위기가 형성됐다. 우리 회원 중 일부는 우리가 그것을 막아 주기를 바란다. 매일 그들의 이야기를 듣는데, 우리가 막지 않는다며 화를 낸다”고 말했다. SAG-AFTRA 회원 160,000명 가운데 AI가 완전히 막히길 바라는 사람이 얼마나 되느냐는 질문에는 “추정하자면 10퍼센트, 어쩌면 15퍼센트 정도”라고 답했다."
           },
           {
             "t": "p",
-            "x": "Falmouth University는 'Lab to slate: unlocking AI for the UK's independent screen sector'를 개발한다. 독립 창작자 여덟 명이 체계적인 교육과 도구 접근권, 법률 자문, 윤리 프레임워크를 지원받아 실제 창작 프로젝트에 AI를 써 본다. 두 프로젝트의 결과는 모두 공개할 계획이다."
+            "x": "Crabtree-Ireland는 엔터테인먼트 분야 AI의 기본 원칙 세 가지로 동의, 통제, 보상을 들었다. “일부 회원은 보조 수단으로 AI 도구를 정말 쓰고 싶어 하지만, 창작 행위 자체를 사랑하기 때문에 AI에 대체되기를 원하는 사람은 아무도 없다.”"
           },
           {
             "t": "p",
-            "x": "BFI의 산업 개발·혁신 총괄 디렉터 Rishi Coupland는 “최근 연구에 따르면 독립 프로듀서의 많게는 30%가 이미 영화 제작의 중심에 AI를 쓰고 있지만, 이 기술은 제대로 이해되지 못하는 경우가 많다”고 말했다."
+            "x": "Neely는 Vermillio가 무단 사용을 잡아낼 수 있고 가드레일 제품도 내놓고 있다고 말했다. Crabtree-Ireland는 SAG-AFTRA의 기준은 그보다 낮다며 이렇게 말했다. “당신의 목소리로 인식될 것이라면, 분명히 당신처럼 들리거나 당신처럼 보인다면 … 그것은 복제물이다.”"
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "BFI backs NFTS, Falmouth\nwith £650K for AI skills",
-          "body": "The BFI gives £650K to two programmes, including Falmouth's AI training for eight UK indie creatives.",
-          "mini_headline": "BFI puts £650K\ninto AI skills",
+          "headline": "Some 10-15% of SAG-AFTRA\nmembers want AI blocked",
+          "body": "Duncan Crabtree-Ireland told Web Summit the union seeks consent and compensation for digital replicas, not a ban.",
+          "mini_headline": "SAG-AFTRA's anti-AI minority",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/0/3/3/1492033_pexelstarawinstead8386440_411690.jpg"
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/FotoJet-2026-11-12T165017.613.jpg?w=1920&h=1080&crop=1"
               },
               {
                 "t": "p",
-                "x": "The BFI National Lottery Innovation Challenge Fund is investing £650,000 in two programmes aimed at supporting UK independent creatives with the use of new technologies including AI and virtual production. The BFI has awarded £400,000 to the National Film and Television School (NFTS) and £250,000 to Falmouth University to deliver projects over a two-year period."
+                "x": "SAG-AFTRA national executive director and CEO Duncan Crabtree-Ireland was joined at Lisbon’s Web Summit by Dan Neely, co-founder and CEO of AI licensing and protection platform Vermillio, to discuss performers’ rights, coexisting with AI and the NO FAKES Act."
               },
               {
                 "t": "p",
-                "x": "The NFTS x BFI Innovators Programme will combine sector consultation and research and skills development as well as supporting a cohort of 10 practitioners with funded creative R&D projects."
+                "x": "“There’s been an understanding and an acceptance of the fact that no one can stop it, no one can block it. Some of our members would like us to block it. I hear from them every day, and they’re angry that we aren’t,” he said. Asked what percentage of SAG-AFTRA’s 160,000-strong membership would like AI completely obstructed, he replied: “If I were estimating, I’d say something like 10 percent, maybe 15 percent.”"
               },
               {
                 "t": "p",
-                "x": "Falmouth University will develop 'Lab to slate: unlocking AI for the UK's independent screen sector'. Eight independent creatives will receive structured training, access to tools, legal guidance and ethical frameworks, applying AI within real creative projects. The findings from both projects will be published."
+                "x": "Crabtree-Ireland pointed to three basic principles for AI in entertainment — consent, control and compensation. “Some of our members really want to work with AI tools for augmentation, but none of them want to be replaced by AI because they love the act of creation.”"
               },
               {
                 "t": "p",
-                "x": "“Recent research indicates that as many as 30% of independent producers are already using AI as central to helping them make films, but the technology is often poorly understood,” said Rishi Coupland, BFI’s executive director of industry development and innovation."
+                "x": "Neely said Vermillio can detect unauthorized uses and offers a guardrails product. Crabtree-Ireland said SAG-AFTRA has a lower bar: “If it is going to be perceived as your voice, if it clearly sounds like you or if it looks like you … then that is a replica.”"
               }
             ]
           }
         },
         "ko": {
-          "headline": "BFI, AI에 £650K\nNFTS·Falmouth에",
-          "body": "BFI가 £650K 를 들여 UK 인디 창작자 여덟 명의 AI 교육 등을 돕는다.",
-          "mini_headline": "BFI, AI 인재에\n£650K 투입",
+          "headline": "SAG-AFTRA 회원의\n10-15%는 AI 차단파",
+          "body": "Crabtree-Ireland는 금지 대신 복제물 동의·보상을 원한다고 했다.",
+          "mini_headline": "SAG-AFTRA의 AI 반대 소수파",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/0/3/3/1492033_pexelstarawinstead8386440_411690.jpg"
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/FotoJet-2026-11-12T165017.613.jpg?w=1920&h=1080&crop=1"
               },
               {
                 "t": "p",
-                "x": "BFI National Lottery Innovation Challenge Fund가 AI와 버추얼 프로덕션 같은 신기술을 쓰는 UK 독립 창작자를 지원하는 프로그램 두 곳에 £650,000를 투자한다. BFI는 National Film and Television School(NFTS)에 £400,000, Falmouth University에 £250,000를 배정했고 프로젝트는 두 해에 걸쳐 진행된다."
+                "x": "SAG-AFTRA 전국 사무총장 겸 CEO Duncan Crabtree-Ireland가 Lisbon의 Web Summit에서 Vermillio 공동 창업자 겸 CEO Dan Neely와 함께 연기자의 권리, AI와의 공존, NO FAKES Act를 이야기했다. Vermillio는 AI 라이선싱·보호 플랫폼이다."
               },
               {
                 "t": "p",
-                "x": "NFTS x BFI Innovators Programme은 업계 협의와 연구, 기술 개발을 한데 묶어 실무자 10명 코호트의 창작 R&D 프로젝트에 자금을 댄다."
+                "x": "그는 “누구도 그것을 멈출 수 없고 막을 수 없다는 사실을 이해하고 받아들이는 분위기가 형성됐다. 우리 회원 중 일부는 우리가 그것을 막아 주기를 바란다. 매일 그들의 이야기를 듣는데, 우리가 막지 않는다며 화를 낸다”고 말했다. SAG-AFTRA 회원 160,000명 가운데 AI가 완전히 막히길 바라는 사람이 얼마나 되느냐는 질문에는 “추정하자면 10퍼센트, 어쩌면 15퍼센트 정도”라고 답했다."
               },
               {
                 "t": "p",
-                "x": "Falmouth University는 'Lab to slate: unlocking AI for the UK's independent screen sector'를 개발한다. 독립 창작자 여덟 명이 체계적인 교육과 도구 접근권, 법률 자문, 윤리 프레임워크를 지원받아 실제 창작 프로젝트에 AI를 써 본다. 두 프로젝트의 결과는 모두 공개할 계획이다."
+                "x": "Crabtree-Ireland는 엔터테인먼트 분야 AI의 기본 원칙 세 가지로 동의, 통제, 보상을 들었다. “일부 회원은 보조 수단으로 AI 도구를 정말 쓰고 싶어 하지만, 창작 행위 자체를 사랑하기 때문에 AI에 대체되기를 원하는 사람은 아무도 없다.”"
               },
               {
                 "t": "p",
-                "x": "BFI의 산업 개발·혁신 총괄 디렉터 Rishi Coupland는 “최근 연구에 따르면 독립 프로듀서의 많게는 30%가 이미 영화 제작의 중심에 AI를 쓰고 있지만, 이 기술은 제대로 이해되지 못하는 경우가 많다”고 말했다."
+                "x": "Neely는 Vermillio가 무단 사용을 잡아낼 수 있고 가드레일 제품도 내놓고 있다고 말했다. Crabtree-Ireland는 SAG-AFTRA의 기준은 그보다 낮다며 이렇게 말했다. “당신의 목소리로 인식될 것이라면, 분명히 당신처럼 들리거나 당신처럼 보인다면 … 그것은 복제물이다.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "BFIがAIに£650K\nNFTSとFalmouthへ",
-          "body": "BFIがUKの独立系作家八人へのFalmouthのAI研修など二事業に£650K を出す。",
-          "mini_headline": "BFIがAI人材に\n£650K を投資",
+          "headline": "SAG-AFTRA会員の\n10-15%がAI阻止を望む",
+          "body": "Crabtree-Irelandは、組合が求めるのは禁止でなく同意と報酬だと述べた。",
+          "mini_headline": "SAG-AFTRAの反AI少数派",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/0/3/3/1492033_pexelstarawinstead8386440_411690.jpg"
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/FotoJet-2026-11-12T165017.613.jpg?w=1920&h=1080&crop=1"
               },
               {
                 "t": "p",
-                "x": "BFI National Lottery Innovation Challenge Fundは、AIやバーチャルプロダクションなどの新技術を活用するUKの独立系クリエイターを支援する二つのプログラムに£650,000を投資する。BFIはNational Film and Television School(NFTS)に£400,000、Falmouth Universityに£250,000を配分し、二年間にわたってプロジェクトを実施する。"
+                "x": "SAG-AFTRAの全国事務局長兼CEOであるDuncan Crabtree-Irelandは、LisbonのWeb Summitで、AIのライセンス管理・保護プラットフォームVermillioの共同創業者兼CEOであるDan Neelyとともに、演者の権利、AIとの共存、NO FAKES Actについて議論した。"
               },
               {
                 "t": "p",
-                "x": "NFTS x BFI Innovators Programmeは、業界との協議と調査、スキル開発を組み合わせるとともに、10人の実務者からなるコホートの創作R&Dプロジェクトに資金を提供する。"
+                "x": "「誰にも止められない、誰にも阻止できないという事実への理解と受け入れが広がっている。会員の中には私たちに阻止してほしいと考える人もいる。毎日その声を聞いているし、私たちがそうしないことに彼らは怒っている」と彼は語った。160,000人を擁するSAG-AFTRA会員のうち、AIの完全な阻止を望む割合を問われると、「推定するなら10パーセント、もしかすると15パーセントくらいだろう」と答えた。"
               },
               {
                 "t": "p",
-                "x": "Falmouth Universityは「Lab to slate: unlocking AI for the UK's independent screen sector」を開発する。八人の独立系クリエイターが体系的な研修、ツールへのアクセス、法的助言、倫理的枠組みを受け、実際の創作プロジェクトでAIを活用する。両プロジェクトの成果は公表される予定だ。"
+                "x": "Crabtree-Irelandは、エンターテインメントにおけるAIの三つの基本原則として、同意、管理、報酬を挙げた。「会員の中には補助としてAIツールを本当に使いたい人もいるが、創作という行為を愛しているからこそ、AIに取って代わられたい人は誰もいない」"
               },
               {
                 "t": "p",
-                "x": "「最近の調査では、独立系プロデューサーの30%もが、すでに映画制作の中核としてAIを使っているが、この技術は十分に理解されていないことが多い」と、BFIの産業開発・イノベーション担当エグゼクティブディレクター、Rishi Couplandは述べた。"
+                "x": "Neelyは、Vermillioが無断使用を検出でき、ガードレール製品も提供していると述べた。Crabtree-Irelandによれば、SAG-AFTRAの基準はより低い。「あなたの声だと受け取られるなら、明らかにあなたのように聞こえたり、あなたのように見えたりするなら……それは複製だ」"
               }
             ]
           }
         },
         "zh": {
-          "headline": "BFI为AI技能拨£650K\nNFTS与Falmouth",
-          "body": "BFI向两个项目拨款£650K，包括Falmouth为八名UK独立创作者开设的AI培训。",
-          "mini_headline": "BFI拨£650K\n投向AI技能",
+          "headline": "SAG-AFTRA会员中\n10-15%希望封禁AI",
+          "body": "Crabtree-Ireland称，工会要的不是禁令，而是数字复制品的同意与补偿。",
+          "mini_headline": "SAG-AFTRA中的反AI少数派",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/0/3/3/1492033_pexelstarawinstead8386440_411690.jpg"
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/FotoJet-2026-11-12T165017.613.jpg?w=1920&h=1080&crop=1"
               },
               {
                 "t": "p",
-                "x": "BFI National Lottery Innovation Challenge Fund 将投资 £650,000 用于两个项目，旨在支持 UK 独立创作者运用 AI 和虚拟制作等新技术。BFI 已向 National Film and Television School（NFTS）拨款 £400,000，向 Falmouth University 拨款 £250,000，用于在两年内实施项目。"
+                "x": "SAG-AFTRA全国执行董事兼CEO Duncan Crabtree-Ireland在Lisbon的Web Summit上，与AI授权与保护平台Vermillio的联合创始人兼CEO Dan Neely一同探讨了演员权益、与AI共存以及NO FAKES Act。"
               },
               {
                 "t": "p",
-                "x": "NFTS x BFI Innovators Programme 将结合行业咨询、研究与技能培养，并资助由 10 名从业者组成的小组开展创意 R&D 项目。"
+                "x": "他说：“大家已经理解并接受了这样一个事实：没人能阻止它，没人能挡住它。我们的一些会员希望我们挡住它。我每天都听到他们的声音，他们对我们没有这么做感到愤怒。”被问及SAG-AFTRA 160,000名会员中有多大比例希望彻底阻止AI时，他答道：“如果让我估计，我会说大约百分之十，也许百分之十五。”"
               },
               {
                 "t": "p",
-                "x": "Falmouth University 将开发“Lab to slate: unlocking AI for the UK's independent screen sector”项目。八名独立创作者将获得系统培训、工具使用权限、法律指导和伦理框架，在真实的创作项目中应用 AI。两个项目的研究成果都将公开发布。"
+                "x": "Crabtree-Ireland提出了娱乐业AI的三项基本原则——同意、控制和补偿。“我们的一些会员确实希望借助AI工具来增强创作，但没有人想被AI取代，因为他们热爱创作这件事本身。”"
               },
               {
                 "t": "p",
-                "x": "“最近的研究表明，多达 30% 的独立制片人已将 AI 作为电影制作的核心工具，但人们对这项技术往往了解不足。”BFI 产业发展与创新执行总监 Rishi Coupland 表示。"
+                "x": "Neely表示，Vermillio能够检测未经授权的使用，并提供护栏产品。Crabtree-Ireland则说，SAG-AFTRA的标准更低：“如果它会被认为是你的声音，如果它听起来明显像你，或者看起来像你……那就是复制品。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "El BFI destina £650K a NFTS y\nFalmouth para formar en AI",
-          "body": "El BFI da £650K a dos programas, entre ellos la formación en AI de Falmouth para ocho creadores indie del UK.",
-          "mini_headline": "El BFI invierte £650K\nen habilidades de AI",
+          "headline": "Un 10-15% de los socios de\nSAG-AFTRA quiere bloquear la AI",
+          "body": "Crabtree-Ireland dijo en Web Summit que el sindicato pide consentimiento y compensación por réplicas, no vetarlas.",
+          "mini_headline": "La minoría anti-AI de SAG-AFTRA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/0/3/3/1492033_pexelstarawinstead8386440_411690.jpg"
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/FotoJet-2026-11-12T165017.613.jpg?w=1920&h=1080&crop=1"
               },
               {
                 "t": "p",
-                "x": "El BFI National Lottery Innovation Challenge Fund invierte £650,000 en dos programas destinados a apoyar a creadores independientes del UK en el uso de nuevas tecnologías, como la AI y la producción virtual. El BFI ha otorgado £400,000 a la National Film and Television School (NFTS) y £250,000 a Falmouth University para desarrollar proyectos durante un periodo de dos años."
+                "x": "El director ejecutivo nacional y CEO de SAG-AFTRA, Duncan Crabtree-Ireland, coincidió en la Web Summit de Lisboa (Lisbon) con Dan Neely, cofundador y CEO de Vermillio, plataforma de licencias y protección de AI, para hablar de los derechos de los intérpretes, la convivencia con la AI y la NO FAKES Act."
               },
               {
                 "t": "p",
-                "x": "El NFTS x BFI Innovators Programme combinará consultas con el sector, investigación y desarrollo de habilidades, además de apoyar a un grupo de 10 profesionales con proyectos creativos de R&D financiados."
+                "x": "“Se ha entendido y aceptado el hecho de que nadie puede detenerlo, nadie puede bloquearlo. Algunos de nuestros miembros querrían que lo bloqueáramos. Los escucho todos los días, y están enojados porque no lo hacemos”, dijo. Al preguntarle qué porcentaje de los 160,000 miembros de SAG-AFTRA querría que la AI se obstaculizara por completo, respondió: “Si tuviera que estimarlo, diría algo así como un 10 por ciento, quizá un 15 por ciento”."
               },
               {
                 "t": "p",
-                "x": "Falmouth University desarrollará 'Lab to slate: unlocking AI for the UK's independent screen sector'. Ocho creadores independientes recibirán formación estructurada, acceso a herramientas, asesoría legal y marcos éticos, y aplicarán la AI en proyectos creativos reales. Los resultados de ambos proyectos se publicarán."
+                "x": "Crabtree-Ireland señaló tres principios básicos para la AI en el entretenimiento: consentimiento, control y compensación. “Algunos de nuestros miembros realmente quieren trabajar con herramientas de AI como apoyo, pero ninguno quiere ser reemplazado por la AI porque aman el acto de crear”."
               },
               {
                 "t": "p",
-                "x": "“Investigaciones recientes indican que hasta un 30% de los productores independientes ya usa la AI como pieza central para hacer sus películas, pero a menudo la tecnología se entiende mal”, dijo Rishi Coupland, director ejecutivo de desarrollo de la industria e innovación del BFI."
+                "x": "Neely dijo que Vermillio puede detectar usos no autorizados y ofrece un producto de salvaguardas. Crabtree-Ireland dijo que SAG-AFTRA pone el listón más bajo: “Si va a percibirse como tu voz, si claramente suena como tú o si se parece a ti … entonces eso es una réplica”."
               }
             ]
           }
@@ -1319,121 +897,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "BFI, AI에 £650K\nNFTS·Falmouth에",
-          "body": "BFI가 £650K 를 들여 UK 인디 창작자 여덟 명의 AI 교육 등을 지원한다.",
-          "mini_headline": "BFI, AI 인재에\n£650K 투입",
+          "headline": "SAG-AFTRA 회원의\n10-15%는 AI 차단파",
+          "body": "Crabtree-Ireland는 금지 대신 복제물 동의·보상을 원한다고 했다.",
+          "mini_headline": "SAG-AFTRA의 AI 반대 소수파",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/0/3/3/1492033_pexelstarawinstead8386440_411690.jpg"
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/FotoJet-2026-11-12T165017.613.jpg?w=1920&h=1080&crop=1"
               },
               {
                 "t": "p",
-                "x": "BFI National Lottery Innovation Challenge Fund가 AI와 버추얼 프로덕션 등 신기술을 활용하는 UK 독립 창작자를 돕는 두 프로그램에 £650,000를 투자한다. BFI는 National Film and Television School(NFTS)에 £400,000, Falmouth University에 £250,000를 배정해 두 해에 걸쳐 프로젝트를 진행하게 했다."
+                "x": "SAG-AFTRA 전국 사무총장 겸 CEO Duncan Crabtree-Ireland가 Lisbon의 Web Summit에서 AI 라이선싱·보호 플랫폼 Vermillio의 공동 창업자 겸 CEO Dan Neely와 함께 연기자의 권리, AI와의 공존, NO FAKES Act를 논의했다."
               },
               {
                 "t": "p",
-                "x": "NFTS x BFI Innovators Programme은 업계 협의와 연구, 기술 개발을 결합하고, 실무자 10명으로 구성된 코호트의 창작 R&D 프로젝트에 자금을 지원한다."
+                "x": "그는 “누구도 그것을 멈출 수 없고 막을 수 없다는 사실을 이해하고 받아들이는 분위기가 형성됐다. 우리 회원 중 일부는 우리가 그것을 막아 주기를 바란다. 매일 그들의 이야기를 듣는데, 우리가 막지 않는다며 화를 낸다”고 말했다. 160,000명 규모의 SAG-AFTRA 회원 가운데 AI가 완전히 차단되기를 바라는 비율을 묻자 그는 “추정하자면 10퍼센트, 어쩌면 15퍼센트 정도”라고 답했다."
               },
               {
                 "t": "p",
-                "x": "Falmouth University는 'Lab to slate: unlocking AI for the UK's independent screen sector'를 개발한다. 독립 창작자 여덟 명이 체계적인 교육과 도구 접근권, 법률 자문, 윤리 프레임워크를 받아 실제 창작 프로젝트에 AI를 적용한다. 두 프로젝트의 결과는 공개될 예정이다."
+                "x": "Crabtree-Ireland는 엔터테인먼트 분야 AI의 세 가지 기본 원칙으로 동의, 통제, 보상을 꼽았다. “일부 회원은 보조 수단으로 AI 도구를 정말 쓰고 싶어 하지만, 창작 행위 자체를 사랑하기 때문에 AI에 대체되기를 원하는 사람은 아무도 없다.”"
               },
               {
                 "t": "p",
-                "x": "BFI의 산업 개발·혁신 총괄 디렉터 Rishi Coupland는 “최근 연구에 따르면 독립 프로듀서의 많게는 30%가 이미 영화 제작의 중심에 AI를 쓰고 있지만, 이 기술은 제대로 이해되지 못하는 경우가 많다”고 말했다."
+                "x": "Neely는 Vermillio가 무단 사용을 탐지할 수 있으며 가드레일 제품도 제공한다고 말했다. Crabtree-Ireland는 SAG-AFTRA의 기준이 더 낮다며 이렇게 말했다. “당신의 목소리로 인식될 것이라면, 분명히 당신처럼 들리거나 당신처럼 보인다면 … 그것은 복제물이다.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "BFIがAIに£650K\nNFTSとFalmouthへ",
-          "body": "BFIがUKの独立系作家八人へのFalmouthのAI研修など二事業に£650K を出す。",
-          "mini_headline": "BFIがAI人材に\n£650K を投資",
+          "headline": "SAG-AFTRA会員の\n10-15%がAI阻止を望む",
+          "body": "Crabtree-Irelandは、組合が求めるのは禁止でなく同意と報酬だと述べた。",
+          "mini_headline": "SAG-AFTRAの反AI少数派",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/0/3/3/1492033_pexelstarawinstead8386440_411690.jpg"
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/FotoJet-2026-11-12T165017.613.jpg?w=1920&h=1080&crop=1"
               },
               {
                 "t": "p",
-                "x": "BFI National Lottery Innovation Challenge Fundは、AIやバーチャルプロダクションなどの新技術を活用するUKの独立系クリエイターを支援する二つのプログラムに£650,000を投資する。BFIはNational Film and Television School(NFTS)に£400,000、Falmouth Universityに£250,000を配分し、二年間にわたってプロジェクトを実施する。"
+                "x": "SAG-AFTRAの全国事務局長兼CEOであるDuncan Crabtree-Irelandは、LisbonのWeb Summitで、AIのライセンス管理・保護プラットフォームVermillioの共同創業者兼CEOであるDan Neelyとともに、演者の権利、AIとの共存、NO FAKES Actについて議論した。"
               },
               {
                 "t": "p",
-                "x": "NFTS x BFI Innovators Programmeは、業界との協議と調査、スキル開発を組み合わせるとともに、10人の実務者からなるコホートの創作R&Dプロジェクトに資金を提供する。"
+                "x": "「誰にも止められない、誰にも阻止できないという事実への理解と受け入れが広がっている。会員の中には私たちに阻止してほしいと考える人もいる。毎日その声を聞いているし、私たちがそうしないことに彼らは怒っている」と彼は語った。160,000人を擁するSAG-AFTRA会員のうち、AIの完全な阻止を望む割合を問われると、「推定するなら10パーセント、もしかすると15パーセントくらいだろう」と答えた。"
               },
               {
                 "t": "p",
-                "x": "Falmouth Universityは「Lab to slate: unlocking AI for the UK's independent screen sector」を開発する。八人の独立系クリエイターが体系的な研修、ツールへのアクセス、法的助言、倫理的枠組みを受け、実際の創作プロジェクトでAIを活用する。両プロジェクトの成果は公表される予定だ。"
+                "x": "Crabtree-Irelandは、エンターテインメントにおけるAIの三つの基本原則として、同意、管理、報酬を挙げた。「会員の中には補助としてAIツールを本当に使いたい人もいるが、創作という行為を愛しているからこそ、AIに取って代わられたい人は誰もいない」"
               },
               {
                 "t": "p",
-                "x": "「最近の調査では、独立系プロデューサーの30%もが、すでに映画制作の中核としてAIを使っているが、この技術は十分に理解されていないことが多い」と、BFIの産業開発・イノベーション担当エグゼクティブディレクター、Rishi Couplandは述べた。"
+                "x": "Neelyは、Vermillioが無断使用を検出でき、ガードレール製品も提供していると述べた。Crabtree-Irelandによれば、SAG-AFTRAの基準はより低い。「あなたの声だと受け取られるなら、明らかにあなたのように聞こえたり、あなたのように見えたりするなら……それは複製だ」"
               }
             ]
           }
         },
         "zh": {
-          "headline": "BFI为AI技能拨£650K\nNFTS与Falmouth",
-          "body": "BFI向两个项目拨款£650K，包括Falmouth为八名UK独立创作者开设的AI培训。",
-          "mini_headline": "BFI拨£650K\n投向AI技能",
+          "headline": "SAG-AFTRA会员中\n10-15%希望封禁AI",
+          "body": "Crabtree-Ireland称，工会要的不是禁令，而是数字复制品的同意与补偿。",
+          "mini_headline": "SAG-AFTRA中的反AI少数派",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/0/3/3/1492033_pexelstarawinstead8386440_411690.jpg"
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/FotoJet-2026-11-12T165017.613.jpg?w=1920&h=1080&crop=1"
               },
               {
                 "t": "p",
-                "x": "BFI National Lottery Innovation Challenge Fund 将投资 £650,000 用于两个项目，旨在支持 UK 独立创作者运用 AI 和虚拟制作等新技术。BFI 已向 National Film and Television School（NFTS）拨款 £400,000，向 Falmouth University 拨款 £250,000，用于在两年内实施项目。"
+                "x": "SAG-AFTRA全国执行董事兼CEO Duncan Crabtree-Ireland在Lisbon的Web Summit上，与AI授权与保护平台Vermillio的联合创始人兼CEO Dan Neely一同探讨了演员权益、与AI共存以及NO FAKES Act。"
               },
               {
                 "t": "p",
-                "x": "NFTS x BFI Innovators Programme 将结合行业咨询、研究与技能培养，并资助由 10 名从业者组成的小组开展创意 R&D 项目。"
+                "x": "他说：“大家已经理解并接受了这样一个事实：没人能阻止它，没人能挡住它。我们的一些会员希望我们挡住它。我每天都听到他们的声音，他们对我们没有这么做感到愤怒。”被问及SAG-AFTRA 160,000名会员中有多大比例希望彻底阻止AI时，他答道：“如果让我估计，我会说大约百分之十，也许百分之十五。”"
               },
               {
                 "t": "p",
-                "x": "Falmouth University 将开发“Lab to slate: unlocking AI for the UK's independent screen sector”项目。八名独立创作者将获得系统培训、工具使用权限、法律指导和伦理框架，在真实的创作项目中应用 AI。两个项目的研究成果都将公开发布。"
+                "x": "Crabtree-Ireland提出了娱乐业AI的三项基本原则——同意、控制和补偿。“我们的一些会员确实希望借助AI工具来增强创作，但没有人想被AI取代，因为他们热爱创作这件事本身。”"
               },
               {
                 "t": "p",
-                "x": "“最近的研究表明，多达 30% 的独立制片人已将 AI 作为电影制作的核心工具，但人们对这项技术往往了解不足。”BFI 产业发展与创新执行总监 Rishi Coupland 表示。"
+                "x": "Neely表示，Vermillio能够检测未经授权的使用，并提供护栏产品。Crabtree-Ireland则说，SAG-AFTRA的标准更低：“如果它会被认为是你的声音，如果它听起来明显像你，或者看起来像你……那就是复制品。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "El BFI destina £650K a NFTS y\nFalmouth para formar en AI",
-          "body": "El BFI da £650K a dos programas, entre ellos la formación en AI de Falmouth para ocho creadores indie del UK.",
-          "mini_headline": "El BFI invierte £650K\nen habilidades de AI",
+          "headline": "Un 10-15% de los socios de\nSAG-AFTRA quiere bloquear la AI",
+          "body": "Crabtree-Ireland dijo en Web Summit que el sindicato pide consentimiento y compensación por réplicas, no vetarlas.",
+          "mini_headline": "La minoría anti-AI de SAG-AFTRA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/0/3/3/1492033_pexelstarawinstead8386440_411690.jpg"
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/FotoJet-2026-11-12T165017.613.jpg?w=1920&h=1080&crop=1"
               },
               {
                 "t": "p",
-                "x": "El BFI National Lottery Innovation Challenge Fund invierte £650,000 en dos programas destinados a apoyar a creadores independientes del UK en el uso de nuevas tecnologías, como la AI y la producción virtual. El BFI ha otorgado £400,000 a la National Film and Television School (NFTS) y £250,000 a Falmouth University para desarrollar proyectos durante un periodo de dos años."
+                "x": "El director ejecutivo nacional y CEO de SAG-AFTRA, Duncan Crabtree-Ireland, coincidió en la Web Summit de Lisboa (Lisbon) con Dan Neely, cofundador y CEO de Vermillio, plataforma de licencias y protección de AI, para hablar de los derechos de los intérpretes, la convivencia con la AI y la NO FAKES Act."
               },
               {
                 "t": "p",
-                "x": "El NFTS x BFI Innovators Programme combinará consultas con el sector, investigación y desarrollo de habilidades, además de apoyar a un grupo de 10 profesionales con proyectos creativos de R&D financiados."
+                "x": "“Se ha entendido y aceptado el hecho de que nadie puede detenerlo, nadie puede bloquearlo. Algunos de nuestros miembros querrían que lo bloqueáramos. Los escucho todos los días, y están enojados porque no lo hacemos”, dijo. Al preguntarle qué porcentaje de los 160,000 miembros de SAG-AFTRA querría que la AI se obstaculizara por completo, respondió: “Si tuviera que estimarlo, diría algo así como un 10 por ciento, quizá un 15 por ciento”."
               },
               {
                 "t": "p",
-                "x": "Falmouth University desarrollará 'Lab to slate: unlocking AI for the UK's independent screen sector'. Ocho creadores independientes recibirán formación estructurada, acceso a herramientas, asesoría legal y marcos éticos, y aplicarán la AI en proyectos creativos reales. Los resultados de ambos proyectos se publicarán."
+                "x": "Crabtree-Ireland señaló tres principios básicos para la AI en el entretenimiento: consentimiento, control y compensación. “Algunos de nuestros miembros realmente quieren trabajar con herramientas de AI como apoyo, pero ninguno quiere ser reemplazado por la AI porque aman el acto de crear”."
               },
               {
                 "t": "p",
-                "x": "“Investigaciones recientes indican que hasta un 30% de los productores independientes ya usa la AI como pieza central para hacer sus películas, pero a menudo la tecnología se entiende mal”, dijo Rishi Coupland, director ejecutivo de desarrollo de la industria e innovación del BFI."
+                "x": "Neely dijo que Vermillio puede detectar usos no autorizados y ofrece un producto de salvaguardas. Crabtree-Ireland dijo que SAG-AFTRA pone el listón más bajo: “Si va a percibirse como tu voz, si claramente suena como tú o si se parece a ti … entonces eso es una réplica”."
               }
             ]
           }
@@ -1441,15 +1019,367 @@
       }
     },
     {
-      "id": "afm-innovation-hub-ai",
+      "id": "saranagati-hombale-ai-teaser",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI, 올해 AFM의\n중심에 서다",
-      "body": "AFM이 Innovation Hub를 AI로 채운 AFM House로 넓힌다.",
-      "mini_headline": "AFM, AI를\n전면에",
+      "headline": "ISKCON 창립자 생애\nAI-driven 영화로",
+      "body": "Hombale 후원작은 AI 모션 캡처로 사람 동작을 디지털 캐릭터에 입힌다.",
+      "mini_headline": "Hombale의 AI 전기영화 티저",
       "tool": "Movies",
-      "source": "Variety",
-      "url": "https://variety.com/2026/digital/news/ai-tech-forward-afm-innovation-hub-afm-house-expansion-1236941553/",
+      "source": "Outlook India",
+      "url": "https://www.outlookindia.com/art-entertainment/saranagati-teaser-hombale-films-backs-ai-driven-film-on-iskcon-founders-life",
+      "accent": "#2ec5c5",
+      "motif": "frame",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://cf-images.assettype.com/outlookindia/2026-11-10/ruz1wzp6/Screenshot-2026-11-10-at-19.44.12.png?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100"
+          },
+          {
+            "t": "p",
+            "x": "ISKCON 창립자 Swami Prabhupada의 생애를 그린 장편 Saranagati의 티저가 화요일 공개됐다. Hombale Films가 후원하는 이 작품은 인공지능 생성 영상에 사람의 창작을 더한 하이브리드 AI 영화로 소개됐다. 영화는 1965년 Prabhupada의 US 여정을 따라가며 그가 서구에 Hare Krishna 운동을 알리는 데 어떤 역할을 했는지 그린다."
+          },
+          {
+            "t": "p",
+            "x": "티저에는 디지털로 만든 영상과 캐릭터가 나온다. 제작진은 이를 Artificial Intelligence Motion Capture 사례로 설명하는데, 사람의 움직임을 디지털 캐릭터로 옮기는 기법이다. 영상은 AI-generated처럼 보이지만 제작진은 전통적인 창작 과정이 맡은 몫을 강조했다."
+          },
+          {
+            "t": "video",
+            "yt": "aHyEqQkF4Po"
+          },
+          {
+            "t": "p",
+            "x": "티저의 YouTube 설명에 따르면 “음악, 사운드 디자인, 사운드 프로덕션을 포함한 오디오 전체”가 “인간의 창의성과 예술적 진정성으로 전통적이고 유기적으로 만들어졌다.”"
+          },
+          {
+            "t": "p",
+            "x": "연출은 1970년대에 Swami Prabhupada의 제자가 된 Gaura Shakti Dasa가 맡는다. VK와 Rudra Vruksh도 연출진에 이름을 올렸고 제작은 Rajesh Singh와 Lohith Rao가 한다. Hombale Films는 그동안 Kantara, Mahavatar Narsimha 등 화제작을 여럿 후원했다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Hombale backs AI-driven film\non ISKCON founder's life",
+          "body": "Hombale's hybrid AI feature uses AI motion capture to turn human movements into digital characters.",
+          "mini_headline": "Hombale's AI biopic teaser",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cf-images.assettype.com/outlookindia/2026-11-10/ruz1wzp6/Screenshot-2026-11-10-at-19.44.12.png?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100"
+              },
+              {
+                "t": "p",
+                "x": "The teaser of Saranagati, a feature film based on the life of ISKCON founder Swami Prabhupada, was released on Tuesday. Backed by Hombale Films, the project is being presented as a hybrid AI film, combining artificial intelligence-generated visuals with human creative contributions. The film follows Prabhupada's journey to the US in 1965 and traces how he helped popularise the Hare Krishna movement in the West."
+              },
+              {
+                "t": "p",
+                "x": "The teaser features digitally created visuals and characters, with the makers describing the production as an example of Artificial Intelligence Motion Capture. Through this technique, human movements are converted into digital characters. While the visuals appear to be AI-generated, the makers have emphasised the role of traditional creative processes in the film."
+              },
+              {
+                "t": "video",
+                "yt": "aHyEqQkF4Po"
+              },
+              {
+                "t": "p",
+                "x": "According to the teaser's YouTube description, the “entire audiography, including music, sound design, and sound production” has been “crafted traditionally and organically, with human creativity and artistic authenticity.”"
+              },
+              {
+                "t": "p",
+                "x": "Saranagati is directed by Gaura Shakti Dasa, who became a disciple of Swami Prabhupada in the 1970s. VK and Rudra Vruksh are also part of the direction team, while Rajesh Singh and Lohith Rao are producing the film. Hombale Films has backed several notable projects, including Kantara and Mahavatar Narsimha."
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Hombale apoya un filme AI-driven\nsobre el fundador de ISKCON",
+          "body": "El filme híbrido de Hombale usa captura de movimiento AI para convertir movimientos humanos en personajes digitales.",
+          "mini_headline": "El biopic AI de Hombale",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cf-images.assettype.com/outlookindia/2026-11-10/ruz1wzp6/Screenshot-2026-11-10-at-19.44.12.png?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100"
+              },
+              {
+                "t": "p",
+                "x": "El teaser de Saranagati, un largometraje basado en la vida del fundador de ISKCON, Swami Prabhupada, se publicó el martes. Respaldado por Hombale Films, el proyecto se presenta como una película híbrida de AI que combina imágenes generadas por inteligencia artificial con aportes creativos humanos. La película sigue el viaje de Prabhupada a Estados Unidos (US) en 1965 y muestra cómo ayudó a popularizar el movimiento Hare Krishna en Occidente."
+              },
+              {
+                "t": "p",
+                "x": "El teaser muestra imágenes y personajes creados digitalmente, y sus responsables describen la producción como un ejemplo de Artificial Intelligence Motion Capture. Con esta técnica, los movimientos humanos se convierten en personajes digitales. Aunque las imágenes parecen AI-generated (generadas por AI), los creadores han subrayado el papel de los procesos creativos tradicionales en la película."
+              },
+              {
+                "t": "video",
+                "yt": "aHyEqQkF4Po"
+              },
+              {
+                "t": "p",
+                "x": "Según la descripción del teaser en YouTube, “toda la audiografía, incluida la música, el diseño de sonido y la producción de sonido” ha sido “elaborada de forma tradicional y orgánica, con creatividad humana y autenticidad artística”."
+              },
+              {
+                "t": "p",
+                "x": "Saranagati está dirigida por Gaura Shakti Dasa, quien se convirtió en discípulo de Swami Prabhupada en los 1970s. VK y Rudra Vruksh también forman parte del equipo de dirección, mientras que Rajesh Singh y Lohith Rao producen la película. Hombale Films ha respaldado varios proyectos destacados, como Kantara y Mahavatar Narsimha."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "ISKCON 창립자 생애\nAI-driven 영화로",
+          "body": "Hombale 후원작은 AI 모션 캡처로 사람 동작을 디지털 캐릭터에 입힌다.",
+          "mini_headline": "Hombale의 AI 전기영화 티저",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cf-images.assettype.com/outlookindia/2026-11-10/ruz1wzp6/Screenshot-2026-11-10-at-19.44.12.png?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100"
+              },
+              {
+                "t": "p",
+                "x": "ISKCON 창립자 Swami Prabhupada의 생애를 그린 장편 Saranagati의 티저가 화요일 공개됐다. Hombale Films가 후원하는 이 작품은 인공지능 생성 영상에 사람의 창작을 더한 하이브리드 AI 영화로 소개됐다. 영화는 1965년 Prabhupada의 US 여정을 따라가며 그가 서구에 Hare Krishna 운동을 알리는 데 어떤 역할을 했는지 그린다."
+              },
+              {
+                "t": "p",
+                "x": "티저에는 디지털로 만든 영상과 캐릭터가 나온다. 제작진은 이를 Artificial Intelligence Motion Capture 사례로 설명하는데, 사람의 움직임을 디지털 캐릭터로 옮기는 기법이다. 영상은 AI-generated처럼 보이지만 제작진은 전통적인 창작 과정이 맡은 몫을 강조했다."
+              },
+              {
+                "t": "video",
+                "yt": "aHyEqQkF4Po"
+              },
+              {
+                "t": "p",
+                "x": "티저의 YouTube 설명에 따르면 “음악, 사운드 디자인, 사운드 프로덕션을 포함한 오디오 전체”가 “인간의 창의성과 예술적 진정성으로 전통적이고 유기적으로 만들어졌다.”"
+              },
+              {
+                "t": "p",
+                "x": "연출은 1970년대에 Swami Prabhupada의 제자가 된 Gaura Shakti Dasa가 맡는다. VK와 Rudra Vruksh도 연출진에 이름을 올렸고 제작은 Rajesh Singh와 Lohith Rao가 한다. Hombale Films는 그동안 Kantara, Mahavatar Narsimha 등 화제작을 여럿 후원했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Hombale、ISKCON\n創設者AI-driven映画",
+          "body": "HombaleのAI映画はAIモーションキャプチャで人の動きをデジタルキャラ化する。",
+          "mini_headline": "HombaleのAI伝記映画ティザー",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cf-images.assettype.com/outlookindia/2026-11-10/ruz1wzp6/Screenshot-2026-11-10-at-19.44.12.png?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100"
+              },
+              {
+                "t": "p",
+                "x": "ISKCON創設者Swami Prabhupadaの生涯を描く長編映画Saranagatiのティザーが火曜日に公開された。Hombale Filmsが支援する本作は、人工知能で生成した映像と人間の創作を組み合わせたハイブリッドAI映画として打ち出されている。映画は1965年のPrabhupadaのUSへの旅をたどり、彼が西洋でHare Krishna運動の普及にどう貢献したかを描く。"
+              },
+              {
+                "t": "p",
+                "x": "ティザーにはデジタルで作られた映像とキャラクターが登場し、制作陣はこの制作をArtificial Intelligence Motion Captureの一例だと説明する。この技法では人の動きがデジタルキャラクターに変換される。映像はAI-generatedに見えるが、制作陣は本作における伝統的な創作プロセスの役割を強調している。"
+              },
+              {
+                "t": "video",
+                "yt": "aHyEqQkF4Po"
+              },
+              {
+                "t": "p",
+                "x": "ティザーのYouTube説明文によると、「音楽、サウンドデザイン、サウンドプロダクションを含むオーディオ全体」は「人間の創造性と芸術的な真正性をもって、伝統的かつ有機的に作り上げられた」。"
+              },
+              {
+                "t": "p",
+                "x": "Saranagatiを監督するのは、1970年代にSwami Prabhupadaの弟子となったGaura Shakti Dasaだ。VKとRudra Vrukshも演出チームに加わり、Rajesh SinghとLohith Raoがプロデュースする。Hombale FilmsはKantaraやMahavatar Narsimhaなど、注目作を数多く支援してきた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Hombale推ISKCON\n创始人AI-driven电影",
+          "body": "Hombale的混合AI电影用AI动作捕捉将人的动作转为数字角色。",
+          "mini_headline": "Hombale的AI传记片预告",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cf-images.assettype.com/outlookindia/2026-11-10/ruz1wzp6/Screenshot-2026-11-10-at-19.44.12.png?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100"
+              },
+              {
+                "t": "p",
+                "x": "讲述ISKCON创始人Swami Prabhupada生平的长片Saranagati于周二发布预告。该项目由Hombale Films支持，被定位为一部混合AI电影，将人工智能生成的画面与人类的创作投入相结合。影片追随Prabhupada在1965年前往US的旅程，讲述他如何帮助Hare Krishna运动在西方普及。"
+              },
+              {
+                "t": "p",
+                "x": "预告中出现了数字制作的画面和角色，主创将这次制作描述为Artificial Intelligence Motion Capture的一个范例。借助这项技术，人的动作被转化为数字角色。虽然画面看起来是AI-generated，但主创强调了传统创作流程在片中的作用。"
+              },
+              {
+                "t": "video",
+                "yt": "aHyEqQkF4Po"
+              },
+              {
+                "t": "p",
+                "x": "根据预告的YouTube说明，“包括音乐、声音设计和声音制作在内的全部音频”都是“以人类的创造力和艺术真诚，用传统而有机的方式打造的”。"
+              },
+              {
+                "t": "p",
+                "x": "Saranagati由Gaura Shakti Dasa执导，他在1970年代成为Swami Prabhupada的弟子。VK和Rudra Vruksh也加入导演团队，Rajesh Singh和Lohith Rao担任制片。Hombale Films曾支持过多部知名作品，包括Kantara和Mahavatar Narsimha。"
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "es": {
+          "headline": "Hombale apoya un filme AI-driven\nsobre el fundador de ISKCON",
+          "body": "El filme híbrido de Hombale usa captura de movimiento AI para convertir movimientos humanos en personajes digitales.",
+          "mini_headline": "El biopic AI de Hombale",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cf-images.assettype.com/outlookindia/2026-11-10/ruz1wzp6/Screenshot-2026-11-10-at-19.44.12.png?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100"
+              },
+              {
+                "t": "p",
+                "x": "El teaser de Saranagati, un largometraje basado en la vida del fundador de ISKCON, Swami Prabhupada, se publicó el martes. Respaldado por Hombale Films, el proyecto se presenta como una película híbrida de AI que combina imágenes generadas por inteligencia artificial con aportes creativos humanos. La película sigue el viaje de Prabhupada a Estados Unidos (US) en 1965 y muestra cómo ayudó a popularizar el movimiento Hare Krishna en Occidente."
+              },
+              {
+                "t": "p",
+                "x": "El teaser muestra imágenes y personajes creados digitalmente, y sus responsables describen la producción como un ejemplo de Artificial Intelligence Motion Capture. Con esta técnica, los movimientos humanos se convierten en personajes digitales. Aunque las imágenes parecen AI-generated (generadas por AI), los creadores han subrayado el papel de los procesos creativos tradicionales en la película."
+              },
+              {
+                "t": "video",
+                "yt": "aHyEqQkF4Po"
+              },
+              {
+                "t": "p",
+                "x": "Según la descripción del teaser en YouTube, “toda la audiografía, incluida la música, el diseño de sonido y la producción de sonido” ha sido “elaborada de forma tradicional y orgánica, con creatividad humana y autenticidad artística”."
+              },
+              {
+                "t": "p",
+                "x": "Saranagati está dirigida por Gaura Shakti Dasa, quien se convirtió en discípulo de Swami Prabhupada en los 1970s. VK y Rudra Vruksh también forman parte del equipo de dirección, mientras que Rajesh Singh y Lohith Rao producen la película. Hombale Films ha respaldado varios proyectos destacados, como Kantara y Mahavatar Narsimha."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Hombale·ISKCON\n창립자 AI-driven작",
+          "body": "Hombale의 AI 영화는 AI 모션 캡처로 사람 동작을 디지털 캐릭터화한다.",
+          "mini_headline": "Hombale의 AI 전기영화 티저",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cf-images.assettype.com/outlookindia/2026-11-10/ruz1wzp6/Screenshot-2026-11-10-at-19.44.12.png?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100"
+              },
+              {
+                "t": "p",
+                "x": "ISKCON 창립자 Swami Prabhupada의 생애를 다룬 장편 영화 Saranagati의 티저가 화요일 공개됐다. Hombale Films가 후원하는 이 작품은 인공지능 생성 영상과 인간의 창작 기여를 결합한 하이브리드 AI 영화로 소개된다. 영화는 1965년 Prabhupada의 US 여정을 따라가며, 그가 서구에 Hare Krishna 운동을 알리는 데 어떻게 기여했는지 그린다."
+              },
+              {
+                "t": "p",
+                "x": "티저에는 디지털로 만든 영상과 캐릭터가 등장하며, 제작진은 이 작업을 Artificial Intelligence Motion Capture의 사례로 설명한다. 이 기법은 사람의 움직임을 디지털 캐릭터로 바꾼다. 영상은 AI-generated로 보이지만, 제작진은 영화에서 전통적인 창작 과정이 맡은 역할을 강조했다."
+              },
+              {
+                "t": "video",
+                "yt": "aHyEqQkF4Po"
+              },
+              {
+                "t": "p",
+                "x": "티저의 YouTube 설명에 따르면 “음악, 사운드 디자인, 사운드 프로덕션을 포함한 오디오 전체”가 “인간의 창의성과 예술적 진정성으로 전통적이고 유기적으로 만들어졌다.”"
+              },
+              {
+                "t": "p",
+                "x": "Saranagati는 1970년대에 Swami Prabhupada의 제자가 된 Gaura Shakti Dasa가 연출한다. VK와 Rudra Vruksh도 연출진에 참여하고, Rajesh Singh와 Lohith Rao가 제작을 맡는다. Hombale Films는 Kantara와 Mahavatar Narsimha 등 여러 주목받은 작품을 후원해 왔다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Hombale、ISKCON\n創設者AI-driven映画",
+          "body": "HombaleのAI映画はAIモーションキャプチャで人の動きをデジタルキャラ化する。",
+          "mini_headline": "HombaleのAI伝記映画ティザー",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cf-images.assettype.com/outlookindia/2026-11-10/ruz1wzp6/Screenshot-2026-11-10-at-19.44.12.png?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100"
+              },
+              {
+                "t": "p",
+                "x": "ISKCON創設者Swami Prabhupadaの生涯を描く長編映画Saranagatiのティザーが火曜日に公開された。Hombale Filmsが支援する本作は、人工知能で生成した映像と人間の創作を組み合わせたハイブリッドAI映画として打ち出されている。映画は1965年のPrabhupadaのUSへの旅をたどり、彼が西洋でHare Krishna運動の普及にどう貢献したかを描く。"
+              },
+              {
+                "t": "p",
+                "x": "ティザーにはデジタルで作られた映像とキャラクターが登場し、制作陣はこの制作をArtificial Intelligence Motion Captureの一例だと説明する。この技法では人の動きがデジタルキャラクターに変換される。映像はAI-generatedに見えるが、制作陣は本作における伝統的な創作プロセスの役割を強調している。"
+              },
+              {
+                "t": "video",
+                "yt": "aHyEqQkF4Po"
+              },
+              {
+                "t": "p",
+                "x": "ティザーのYouTube説明文によると、「音楽、サウンドデザイン、サウンドプロダクションを含むオーディオ全体」は「人間の創造性と芸術的な真正性をもって、伝統的かつ有機的に作り上げられた」。"
+              },
+              {
+                "t": "p",
+                "x": "Saranagatiを監督するのは、1970年代にSwami Prabhupadaの弟子となったGaura Shakti Dasaだ。VKとRudra Vrukshも演出チームに加わり、Rajesh SinghとLohith Raoがプロデュースする。Hombale FilmsはKantaraやMahavatar Narsimhaなど、注目作を数多く支援してきた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Hombale推ISKCON\n创始人AI-driven电影",
+          "body": "Hombale的混合AI电影用AI动作捕捉将人的动作转为数字角色。",
+          "mini_headline": "Hombale的AI传记片预告",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cf-images.assettype.com/outlookindia/2026-11-10/ruz1wzp6/Screenshot-2026-11-10-at-19.44.12.png?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100"
+              },
+              {
+                "t": "p",
+                "x": "讲述ISKCON创始人Swami Prabhupada生平的长片Saranagati于周二发布预告。该项目由Hombale Films支持，被定位为一部混合AI电影，将人工智能生成的画面与人类的创作投入相结合。影片追随Prabhupada在1965年前往US的旅程，讲述他如何帮助Hare Krishna运动在西方普及。"
+              },
+              {
+                "t": "p",
+                "x": "预告中出现了数字制作的画面和角色，主创将这次制作描述为Artificial Intelligence Motion Capture的一个范例。借助这项技术，人的动作被转化为数字角色。虽然画面看起来是AI-generated，但主创强调了传统创作流程在片中的作用。"
+              },
+              {
+                "t": "video",
+                "yt": "aHyEqQkF4Po"
+              },
+              {
+                "t": "p",
+                "x": "根据预告的YouTube说明，“包括音乐、声音设计和声音制作在内的全部音频”都是“以人类的创造力和艺术真诚，用传统而有机的方式打造的”。"
+              },
+              {
+                "t": "p",
+                "x": "Saranagati由Gaura Shakti Dasa执导，他在1970年代成为Swami Prabhupada的弟子。VK和Rudra Vruksh也加入导演团队，Rajesh Singh和Lohith Rao担任制片。Hombale Films曾支持过多部知名作品，包括Kantara和Mahavatar Narsimha。"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "kbs-munmu-ai-battles",
+      "source_lang": "ko",
+      "eyebrow": "AI NEWS",
+      "headline": "KBS 대하사극 '문무'\n세 전투신 AI로 구현",
+      "body": "1년 반 제작 동안 AI가 계속 발전해 제작진은 새 기술이 나올 때마다 적용했다.",
+      "mini_headline": "'문무' AI 전투신",
+      "tool": "Movies",
+      "source": "스포츠경향",
+      "url": "https://sports.khan.co.kr/article/202611122200006",
       "accent": "#eb367f",
       "motif": "frame",
       "full": {
@@ -1457,295 +1387,395 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://variety.com/wp-content/uploads/2026/08/AFM-HOUSE.jpg?w=1000&h=563&crop=1"
+            "src": "https://images.khan.co.kr/article/2026/11/12/l_2026111302000044400039133.jpg",
+            "cap": "KBS 2TV 새 대하드라마 ‘문무’의 배우 장혁, 이현욱, 김강우(왼쪽부터)가 12일 제작발표회에서 포즈를 취하고 있다. 연합뉴스"
           },
           {
             "t": "p",
-            "x": "처음엔 영화, 그다음은 영화제였다. 올해 American Film Market을 사로잡은 건 AI다. 2026년 행사에서 마켓의 Innovation Hub는 첫 “AFM House”로 커진다. Fairmont Century Plaza의 AFM HQ 맞은편, 15,000-square-foot 규모 공간에서 20곳 가까운 기업이 자사 기술을 선보이고 AI의 영향을 다루는 패널도 새로 잇따라 열린다."
+            "x": "3년 만에 돌아온 KBS 대하사극 ‘문무’가 인공지능(AI) 기술을 활용한 대규모 전쟁 장면과 배우들의 열연을 앞세워 안방극장을 찾는다. 12일 서울 구로구 신도림에서 제작발표회가 열렸다."
           },
           {
             "t": "p",
-            "x": "IFTA 회장 Jackie Brenneman은 “데이터를 분석하고 예측하는 아주 좋은 수단으로서의 AI보다, 창작 도구로서의 AI를 두고 훨씬 더 많은 논쟁이 있다”고 말한다."
+            "x": "‘문무’는 신라 문무왕 김법민을 중심으로 삼국통일과 당나라에 맞서 자주권을 지켜낸 나당전쟁의 역사를 그린 작품이다. KBS가 ‘고려 거란 전쟁’ 이후 3년 만에 선보이는 대하사극으로, 이현욱이 문무왕을, 장혁이 연개소문을, 김강우가 김춘추를 연기한다."
+          },
+          {
+            "t": "img",
+            "src": "https://images.khan.co.kr/article/2026/11/12/l_2026111302000044400039132.jpg",
+            "cap": "(왼쪽부터) 김도현, 장혁, 최예빈, 이현욱, 김강우, 정웅인, 백성현. 연합뉴스"
           },
           {
             "t": "p",
-            "x": "Sylvester Stallone-backed 스위스 기업 Largo.ai도 다시 참가한다. 가상 포커스 그룹과 캐스팅 예측 같은 도구를 내놓은 회사다. IBM 출신 Greg Schoeninger가 세운 Oxen.ai에서는 여러 모델 가운데 하나를 골라 AI 숏을 만들 수 있고 모델별 토큰 비용도 공개된다. 패널은 Producers Guild of America가 “영화·TV 리더가 마주한 AI 결정”을 주제로 열고, Cine Group은 비생성형 AI를 “Tilly가 아닌 유틸리티”로 보는 자리를 마련한다."
+            "x": "특히 이번 작품은 주필산 전투부터 매소성 전투, 기벌포 전투까지 각 전투의 특성에 맞춰 AI 기술을 적용했다. 이호 CP는 “기획부터 촬영까지 약 1년 반 동안 AI 기술이 계속 발전했다”며 “새로운 기술이 나올 때마다 활용할 수 있는 부분을 찾아 적용했다”고 밝혔다. 이어 “위험한 장면이나 기존 촬영 방식으로 구현하기 어려운 부분에 기술을 활용했다”고 설명했다."
           },
           {
             "t": "p",
-            "x": "Brenneman은 “우리는 영화제가 아니다”라며 “작품을 선정하지 않고, 가치 판단도 하지 않는다. 그건 바이어의 몫이다”라고 말한다."
+            "x": "현재 제작 중인 기벌포 전투에 대해서는 “갯벌과 바다를 배경으로 하는 전투인 만큼 AI 영상 기술이 잘 어울릴 것이라고 생각했다”며 “그사이 기술이 더 발전해 이전보다 AI를 더욱 많이 활용하고 있다”고 덧붙였다."
+          },
+          {
+            "t": "p",
+            "x": "‘고려 거란 전쟁’이 역사 왜곡 논란에 휩싸였던 만큼 이번 작품은 사료와 전문가 자문을 바탕으로 제작했다. ‘문무’는 오는 14일 오후 9시 20분 KBS 2TV에서 첫 방송된다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "AI takes center stage\nat this year's AFM",
-          "body": "The American Film Market expands its Innovation Hub into a new AFM House full of AI tools and panels.",
-          "mini_headline": "AFM puts AI\ncenter stage",
+        "ko": {
+          "headline": "KBS 대하사극 '문무'\n세 전투신 AI로 구현",
+          "body": "1년 반 제작 동안 AI가 계속 발전해 제작진은 새 기술이 나올 때마다 적용했다.",
+          "mini_headline": "'문무' AI 전투신",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/08/AFM-HOUSE.jpg?w=1000&h=563&crop=1"
+                "src": "https://images.khan.co.kr/article/2026/11/12/l_2026111302000044400039133.jpg",
+                "cap": "KBS 2TV 새 대하드라마 ‘문무’의 배우 장혁, 이현욱, 김강우(왼쪽부터)가 12일 제작발표회에서 포즈를 취하고 있다. 연합뉴스"
               },
               {
                 "t": "p",
-                "x": "First it came for the films, then the film festivals. Now, AI has taken hold of this year’s American Film Market. The 2026 edition will see the market’s Innovation Hub expand into its inaugural “AFM House,” a 15,000-square-foot space across from the AFM HQ at the Fairmont Century Plaza, with nearly 20 firms highlighting their own technology and a suite of new panels discussing AI’s impact."
+                "x": "3년 만에 돌아온 KBS 대하사극 ‘문무’가 인공지능(AI) 기술을 활용한 대규모 전쟁 장면과 배우들의 열연을 앞세워 안방극장을 찾는다. 12일 서울 구로구 신도림에서 제작발표회가 열렸다."
               },
               {
                 "t": "p",
-                "x": "“AI as a creative tool — there’s a lot more debate on that than AI as a really great way to analyze data and make predictions,” says IFTA president Jackie Brenneman."
+                "x": "‘문무’는 신라 문무왕 김법민을 중심으로 삼국통일과 당나라에 맞서 자주권을 지켜낸 나당전쟁의 역사를 그린 작품이다. KBS가 ‘고려 거란 전쟁’ 이후 3년 만에 선보이는 대하사극으로, 이현욱이 문무왕을, 장혁이 연개소문을, 김강우가 김춘추를 연기한다."
+              },
+              {
+                "t": "img",
+                "src": "https://images.khan.co.kr/article/2026/11/12/l_2026111302000044400039132.jpg",
+                "cap": "(왼쪽부터) 김도현, 장혁, 최예빈, 이현욱, 김강우, 정웅인, 백성현. 연합뉴스"
               },
               {
                 "t": "p",
-                "x": "Returning is Largo.ai, a Sylvester Stallone-backed Swiss firm whose tools include simulated focus groups and casting projections. Oxen.ai, founded by IBM veteran Greg Schoeninger, lets creators build AI shots with a selection of models and publicly outlines each model’s token cost. The Producers Guild of America hosts a panel on “the AI Decisions Facing Film and TV Leaders,” and the Cine Group a panel on non-generative AI as a “utility rather than Tilly.”"
+                "x": "특히 이번 작품은 주필산 전투부터 매소성 전투, 기벌포 전투까지 각 전투의 특성에 맞춰 AI 기술을 적용했다. 이호 CP는 “기획부터 촬영까지 약 1년 반 동안 AI 기술이 계속 발전했다”며 “새로운 기술이 나올 때마다 활용할 수 있는 부분을 찾아 적용했다”고 밝혔다. 이어 “위험한 장면이나 기존 촬영 방식으로 구현하기 어려운 부분에 기술을 활용했다”고 설명했다."
               },
               {
                 "t": "p",
-                "x": "“We’re not a festival,” Brenneman says. “We are not making selections. We do not make judgment calls. That’s for the buyers.”"
+                "x": "현재 제작 중인 기벌포 전투에 대해서는 “갯벌과 바다를 배경으로 하는 전투인 만큼 AI 영상 기술이 잘 어울릴 것이라고 생각했다”며 “그사이 기술이 더 발전해 이전보다 AI를 더욱 많이 활용하고 있다”고 덧붙였다."
+              },
+              {
+                "t": "p",
+                "x": "‘고려 거란 전쟁’이 역사 왜곡 논란에 휩싸였던 만큼 이번 작품은 사료와 전문가 자문을 바탕으로 제작했다. ‘문무’는 오는 14일 오후 9시 20분 KBS 2TV에서 첫 방송된다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "AI, 올해 AFM의\n중심에 서다",
-          "body": "AFM이 Innovation Hub를 AI로 채운 AFM House로 넓힌다.",
-          "mini_headline": "AFM, AI를\n전면에",
+        "en": {
+          "headline": "KBS epic 'Munmu' uses AI\nfor three battle scenes",
+          "body": "Over 1 and a half years of production, AI kept improving, and the team applied each new tool as it arrived.",
+          "mini_headline": "AI battle scenes in 'Munmu'",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/08/AFM-HOUSE.jpg?w=1000&h=563&crop=1"
+                "src": "https://images.khan.co.kr/article/2026/11/12/l_2026111302000044400039133.jpg",
+                "cap": "Actors Jang Hyuk, Lee Hyun-wook and Kim Kang-woo (from left) of ‘Munmu’, the new historical drama on KBS 2TV, pose at a press conference on the 12th. Yonhap News"
               },
               {
                 "t": "p",
-                "x": "처음엔 영화, 그다음은 영화제였다. 올해 American Film Market을 사로잡은 건 AI다. 2026년 행사에서 마켓의 Innovation Hub는 첫 “AFM House”로 커진다. Fairmont Century Plaza의 AFM HQ 맞은편, 15,000-square-foot 규모 공간에서 20곳 가까운 기업이 자사 기술을 선보이고 AI의 영향을 다루는 패널도 새로 잇따라 열린다."
+                "x": "The KBS historical epic ‘Munmu’, returning after 3 years, comes to TV screens led by large-scale battle scenes made with artificial intelligence (AI) technology and strong performances from its cast. A press conference was held on the 12th in Sindorim, Guro-gu, Seoul."
               },
               {
                 "t": "p",
-                "x": "IFTA 회장 Jackie Brenneman은 “데이터를 분석하고 예측하는 아주 좋은 수단으로서의 AI보다, 창작 도구로서의 AI를 두고 훨씬 더 많은 논쟁이 있다”고 말한다."
+                "x": "‘Munmu’ centers on King Munmu of Silla, Kim Beop-min, and depicts the unification of the Three Kingdoms and the Silla-Tang War, in which Silla defended its sovereignty against Tang. It is the first historical epic KBS has presented in 3 years since ‘Korea-Khitan War’, with Lee Hyun-wook playing King Munmu, Jang Hyuk playing Yeon Gaesomun and Kim Kang-woo playing Kim Chun-chu."
+              },
+              {
+                "t": "img",
+                "src": "https://images.khan.co.kr/article/2026/11/12/l_2026111302000044400039132.jpg",
+                "cap": "(From left) Kim Do-hyun, Jang Hyuk, Choi Ye-bin, Lee Hyun-wook, Kim Kang-woo, Jung Woong-in, Baek Sung-hyun. Yonhap News"
               },
               {
                 "t": "p",
-                "x": "Sylvester Stallone-backed 스위스 기업 Largo.ai도 다시 참가한다. 가상 포커스 그룹과 캐스팅 예측 같은 도구를 내놓은 회사다. IBM 출신 Greg Schoeninger가 세운 Oxen.ai에서는 여러 모델 가운데 하나를 골라 AI 숏을 만들 수 있고 모델별 토큰 비용도 공개된다. 패널은 Producers Guild of America가 “영화·TV 리더가 마주한 AI 결정”을 주제로 열고, Cine Group은 비생성형 AI를 “Tilly가 아닌 유틸리티”로 보는 자리를 마련한다."
+                "x": "In particular, the series applied AI technology tailored to the character of each battle, from the Battle of Jupilsan to the Battle of Maeso Fortress and the Battle of Gibeolpo. “AI technology kept advancing over the roughly 1 and a half years from planning to filming,” said CP Lee Ho. “Whenever a new technology came out, we looked for the parts where we could use it and applied it.” He added, “We used the technology for dangerous scenes or parts that were hard to achieve with conventional filming methods.”"
               },
               {
                 "t": "p",
-                "x": "Brenneman은 “우리는 영화제가 아니다”라며 “작품을 선정하지 않고, 가치 판단도 하지 않는다. 그건 바이어의 몫이다”라고 말한다."
+                "x": "Of the Battle of Gibeolpo, now in production, he said, “Since it is a battle set against mudflats and the sea, we thought AI video technology would suit it well,” adding, “In the meantime the technology has advanced further, so we are using AI even more than before.”"
+              },
+              {
+                "t": "p",
+                "x": "Because ‘Korea-Khitan War’ was caught up in controversy over historical distortion, this series was made on the basis of historical records and expert advice. ‘Munmu’ premieres on KBS 2TV on the 14th at 9:20 p.m."
               }
             ]
           }
         },
         "ja": {
-          "headline": "今年のAFM、\nAIが主役に",
-          "body": "AFMがInnovation HubをAIツールとパネルが並ぶAFM Houseへ広げる。",
-          "mini_headline": "AFM、AIを\n主役に",
+          "headline": "KBS大河時代劇『文武』\n三つの戦闘シーンをAIで",
+          "body": "1年半の制作中もAIは進化を続け、制作陣は新技術が出るたびに取り入れた。",
+          "mini_headline": "『文武』のAI戦闘シーン",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/08/AFM-HOUSE.jpg?w=1000&h=563&crop=1"
+                "src": "https://images.khan.co.kr/article/2026/11/12/l_2026111302000044400039133.jpg",
+                "cap": "KBS 2TVの新大河ドラマ『文武』に出演する俳優チャン・ヒョク、イ・ヒョヌク、キム・ガンウ(左から)が、12日の制作発表会でポーズを取っている。聯合ニュース"
               },
               {
                 "t": "p",
-                "x": "まず映画が、次に映画祭がAIにのみ込まれた。そしていま、AIは今年のAmerican Film Marketを席巻している。2026年版では、マーケットのInnovation Hubが初の「AFM House」へと拡大する。Fairmont Century PlazaのAFM HQ向かいに設けられる15,000-square-footの空間で、20社近くが自社技術を披露し、AIの影響を論じる新たなパネルも多数用意される。"
+                "x": "3年ぶりに戻ってきたKBSの大河時代劇『文武』が、人工知能(AI)技術を活用した大規模な戦闘シーンと俳優陣の熱演を武器にお茶の間に登場する。12日、ソウル九老区新道林で制作発表会が開かれた。"
               },
               {
                 "t": "p",
-                "x": "「創作ツールとしてのAIについては、データを分析して予測を立てるための優れた手段としてのAIよりも、はるかに多くの議論がある」と、IFTA会長のJackie Brennemanは言う。"
+                "x": "『文武』は、新羅の文武王・金法敏を中心に、三国統一と、唐に立ち向かって自主権を守り抜いた羅唐戦争の歴史を描く作品だ。KBSが『高麗契丹戦争』以来3年ぶりに送り出す大河時代劇で、イ・ヒョヌクが文武王を、チャン・ヒョクが淵蓋蘇文を、キム・ガンウが金春秋を演じる。"
+              },
+              {
+                "t": "img",
+                "src": "https://images.khan.co.kr/article/2026/11/12/l_2026111302000044400039132.jpg",
+                "cap": "(左から)キム・ドヒョン、チャン・ヒョク、チェ・イェビン、イ・ヒョヌク、キム・ガンウ、チョン・ウンイン、ペク・ソンヒョン。聯合ニュース"
               },
               {
                 "t": "p",
-                "x": "今年も参加するのは、Sylvester Stallone-backedのスイス企業Largo.aiで、模擬フォーカスグループやキャスティング予測といったツールを持つ。IBM出身のGreg Schoeningerが創業したOxen.aiは、複数のモデルから選んでAIショットを作れるようにし、モデルごとのトークンコストを公開している。Producers Guild of Americaは「映画・TVのリーダーが直面するAIの決断」をテーマにしたパネルを、Cine Groupは非生成AIを「Tillyではなくユーティリティ」として捉えるパネルを開く。"
+                "x": "特に本作は、駐蹕山の戦いから買肖城の戦い、伎伐浦の戦いまで、それぞれの戦闘の特性に合わせてAI技術を適用した。イ・ホCPは「企画から撮影までの約1年半の間、AI技術は進化し続けた」とし、「新しい技術が出るたびに活用できる部分を探して取り入れた」と明かした。さらに「危険な場面や、従来の撮影方式では表現が難しい部分に技術を使った」と説明した。"
               },
               {
                 "t": "p",
-                "x": "「我々は映画祭ではない」とBrennemanは言う。「作品を選ぶことはしない。良し悪しの判断もしない。それはバイヤーのすることだ」"
+                "x": "現在制作中の伎伐浦の戦いについては、「干潟と海を舞台にした戦いなので、AI映像技術がよく合うと考えた」とし、「その間に技術がさらに進化し、以前よりもAIをより多く活用している」と付け加えた。"
+              },
+              {
+                "t": "p",
+                "x": "『高麗契丹戦争』が歴史歪曲をめぐる論争に巻き込まれただけに、本作は史料と専門家の助言をもとに制作された。『文武』は14日午後9時20分からKBS 2TVで放送が始まる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI成为今年\nAFM的焦点",
-          "body": "AFM将Innovation Hub扩展为全新的AFM House，汇集AI工具与座谈。",
-          "mini_headline": "AFM让AI\n站上中心舞台",
+          "headline": "KBS大河剧《文武》\n用AI打造三场战役",
+          "body": "在1年半的制作期间AI持续进步，剧组每逢新技术问世便加以应用。",
+          "mini_headline": "《文武》的AI战争场面",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/08/AFM-HOUSE.jpg?w=1000&h=563&crop=1"
+                "src": "https://images.khan.co.kr/article/2026/11/12/l_2026111302000044400039133.jpg",
+                "cap": "KBS 2TV新大河剧《文武》的演员张赫、李玹旭、金康宇（从左至右）12日在制作发布会上摆姿势。韩联社"
               },
               {
                 "t": "p",
-                "x": "先是电影，再是电影节。如今，AI 已占据今年的 American Film Market。2026 年这一届，市场的 Innovation Hub 将扩展为首个“AFM House”——一个位于 Fairmont Century Plaza 的 AFM HQ 对面、面积 15,000-square-foot 的空间，近 20 家公司将在此展示各自的技术，另有一系列讨论 AI 影响的新座谈。"
+                "x": "时隔3年回归的KBS大河历史剧《文武》，将以运用人工智能（AI）技术打造的大规模战争场面和演员们的精彩表演登上荧屏。12日，制作发布会在首尔九老区新道林举行。"
               },
               {
                 "t": "p",
-                "x": "“把 AI 当作创作工具——这方面的争议，远比把 AI 当作分析数据、做出预测的绝佳手段要多。”IFTA 主席 Jackie Brenneman 说。"
+                "x": "《文武》以新罗文武王金法敏为中心，讲述三国统一以及对抗唐朝、守护自主权的罗唐战争的历史。这是KBS继《高丽契丹战争》之后时隔3年推出的大河历史剧，李玹旭饰演文武王，张赫饰演渊盖苏文，金康宇饰演金春秋。"
+              },
+              {
+                "t": "img",
+                "src": "https://images.khan.co.kr/article/2026/11/12/l_2026111302000044400039132.jpg",
+                "cap": "（从左至右）金度贤、张赫、崔艺彬、李玹旭、金康宇、郑雄仁、白成贤。韩联社"
               },
               {
                 "t": "p",
-                "x": "再度参展的有 Sylvester Stallone-backed 的瑞士公司 Largo.ai，其工具包括模拟焦点小组和选角预测。由 IBM 老将 Greg Schoeninger 创办的 Oxen.ai 让创作者可从多种模型中选择来生成 AI 镜头，并公开列出每个模型的 token 成本。Producers Guild of America 将举办主题为“电影与 TV 领导者面临的 AI 决策”的座谈，Cine Group 则举办一场把非生成式 AI 视为“utility rather than Tilly”的座谈。"
+                "x": "尤其是，本剧从驻跸山之战到买肖城之战、伎伐浦之战，根据每场战役的特点运用了AI技术。CP李浩表示：“从策划到拍摄的约1年半时间里，AI技术一直在发展。”他还说：“每当有新技术出现，我们就寻找可以利用的部分加以应用。”他接着解释：“我们把技术用在危险场面，或用传统拍摄方式难以实现的部分。”"
               },
               {
                 "t": "p",
-                "x": "“我们不是电影节，”Brenneman 说，“我们不做评选，也不做价值判断。那是买家的事。”"
+                "x": "对于目前正在制作的伎伐浦之战，他补充说：“这是以滩涂和大海为背景的战役，所以我们认为AI影像技术会很合适。”“这期间技术又有了进步，我们比以前更多地使用AI。”"
+              },
+              {
+                "t": "p",
+                "x": "由于《高丽契丹战争》曾陷入歪曲历史的争议，本剧以史料和专家咨询为基础制作。《文武》将于14日晚9点20分在KBS 2TV首播。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La AI ocupa el centro\nen el AFM de este año",
-          "body": "El American Film Market amplía su Innovation Hub con una nueva AFM House llena de herramientas y paneles de AI.",
-          "mini_headline": "El AFM pone la AI\nen el centro",
+          "headline": "La epopeya de KBS ‘Munmu’\nrecrea tres batallas con AI",
+          "body": "Durante 1 año y medio de producción, la AI siguió avanzando y el equipo aplicó cada nueva técnica que surgía.",
+          "mini_headline": "Las batallas con AI de ‘Munmu’",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/08/AFM-HOUSE.jpg?w=1000&h=563&crop=1"
+                "src": "https://images.khan.co.kr/article/2026/11/12/l_2026111302000044400039133.jpg",
+                "cap": "Los actores Jang Hyuk, Lee Hyun-wook y Kim Kang-woo (de izquierda a derecha), de la nueva serie histórica de KBS 2TV ‘Munmu’, posan en la presentación del día 12. Yonhap News"
               },
               {
                 "t": "p",
-                "x": "Primero llegó a las películas, luego a los festivales de cine. Ahora la AI se ha apoderado del American Film Market de este año. En la edición de 2026, el Innovation Hub del mercado se ampliará a su primera “AFM House”, un espacio de 15,000-square-foot frente al AFM HQ en el Fairmont Century Plaza, con casi 20 empresas que mostrarán su propia tecnología y una serie de nuevos paneles sobre el impacto de la AI."
+                "x": "La serie histórica de KBS ‘Munmu’, que regresa tras 3 años, llega a la televisión con grandes escenas de guerra creadas con tecnología de inteligencia artificial (AI) y sólidas actuaciones de su reparto. La presentación se celebró el día 12 en Sindorim, en el distrito de Guro-gu, Seúl."
               },
               {
                 "t": "p",
-                "x": "“La AI como herramienta creativa: sobre eso hay mucho más debate que sobre la AI como una gran forma de analizar datos y hacer predicciones”, dice Jackie Brenneman, presidenta de IFTA."
+                "x": "‘Munmu’ se centra en el rey Munmu de Silla, Kim Beop-min, y narra la unificación de los Tres Reinos y la guerra Silla-Tang, en la que se defendió la soberanía frente a la dinastía Tang. Es la serie histórica que KBS estrena 3 años después de ‘Korea-Khitan War’, con Lee Hyun-wook como el rey Munmu, Jang Hyuk como Yeon Gaesomun y Kim Kang-woo como Kim Chun-chu."
+              },
+              {
+                "t": "img",
+                "src": "https://images.khan.co.kr/article/2026/11/12/l_2026111302000044400039132.jpg",
+                "cap": "(De izquierda a derecha) Kim Do-hyun, Jang Hyuk, Choi Ye-bin, Lee Hyun-wook, Kim Kang-woo, Jung Woong-in y Baek Sung-hyun. Yonhap News"
               },
               {
                 "t": "p",
-                "x": "Vuelve Largo.ai, una firma suiza Sylvester Stallone-backed (respaldada por Sylvester Stallone) cuyas herramientas incluyen grupos focales simulados y proyecciones de casting. Oxen.ai, fundada por Greg Schoeninger, veterano de IBM, permite a los creadores construir planos con AI eligiendo entre varios modelos y detalla públicamente el costo en tokens de cada modelo. El Producers Guild of America organiza un panel sobre “las decisiones de AI que enfrentan los líderes del cine y la TV”, y el Cine Group, uno sobre la AI no generativa como “utility rather than Tilly”."
+                "x": "En particular, la serie aplicó tecnología de AI adaptada a las características de cada batalla, desde la de Jupilsan hasta las de la fortaleza de Maeso y Gibeolpo. El CP Lee Ho explicó que “la tecnología de AI siguió avanzando durante cerca de 1 año y medio, desde la planificación hasta el rodaje” y que “cada vez que salía una nueva tecnología, buscábamos qué partes podíamos aprovechar y la aplicábamos”. Añadió: “Usamos la tecnología en escenas peligrosas o en partes difíciles de lograr con los métodos de rodaje convencionales”."
               },
               {
                 "t": "p",
-                "x": "“No somos un festival”, dice Brenneman. “No hacemos selecciones. No emitimos juicios. Eso les corresponde a los compradores”."
+                "x": "Sobre la batalla de Gibeolpo, aún en producción, añadió: “Como es una batalla ambientada en marismas y en el mar, pensamos que la tecnología de video con AI encajaría bien”, y “mientras tanto la tecnología avanzó aún más, así que usamos la AI más que antes”."
+              },
+              {
+                "t": "p",
+                "x": "Dado que ‘Korea-Khitan War’ se vio envuelta en una polémica por distorsión histórica, esta serie se elaboró a partir de fuentes históricas y del asesoramiento de expertos. ‘Munmu’ se estrena el día 14 a las 9:20 p. m. en KBS 2TV."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "AI, 올해 AFM의\n중심에 서다",
-          "body": "AFM이 Innovation Hub를 AI로 채운 AFM House로 넓힌다.",
-          "mini_headline": "AFM, AI를\n전면에",
+        "en": {
+          "headline": "KBS epic 'Munmu' uses AI\nfor three battle scenes",
+          "body": "Over 1 and a half years of production, AI kept improving, and the team applied each new tool as it arrived.",
+          "mini_headline": "AI battle scenes in 'Munmu'",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/08/AFM-HOUSE.jpg?w=1000&h=563&crop=1"
+                "src": "https://images.khan.co.kr/article/2026/11/12/l_2026111302000044400039133.jpg",
+                "cap": "Actors Jang Hyuk, Lee Hyun-wook and Kim Kang-woo (from left) of ‘Munmu’, the new historical drama on KBS 2TV, pose at a press conference on the 12th. Yonhap News"
               },
               {
                 "t": "p",
-                "x": "처음에는 영화였고, 그다음은 영화제였다. 이제 AI가 올해 American Film Market을 사로잡았다. 2026년 행사에서는 마켓의 Innovation Hub가 첫 “AFM House”로 확장된다. Fairmont Century Plaza의 AFM HQ 맞은편에 자리한 15,000-square-foot 규모의 공간으로, 20곳 가까운 기업이 자사 기술을 선보이고 AI의 영향을 다루는 새 패널이 잇달아 열린다."
+                "x": "The KBS historical epic ‘Munmu’, returning after 3 years, comes to TV screens led by large-scale battle scenes made with artificial intelligence (AI) technology and strong performances from its cast. A press conference was held on the 12th in Sindorim, Guro-gu, Seoul."
               },
               {
                 "t": "p",
-                "x": "IFTA 회장 Jackie Brenneman은 “데이터를 분석하고 예측하는 아주 좋은 수단으로서의 AI보다, 창작 도구로서의 AI를 두고 훨씬 더 많은 논쟁이 있다”고 말한다."
+                "x": "‘Munmu’ centers on King Munmu of Silla, Kim Beop-min, and depicts the unification of the Three Kingdoms and the Silla-Tang War, in which Silla defended its sovereignty against Tang. It is the first historical epic KBS has presented in 3 years since ‘Korea-Khitan War’, with Lee Hyun-wook playing King Munmu, Jang Hyuk playing Yeon Gaesomun and Kim Kang-woo playing Kim Chun-chu."
+              },
+              {
+                "t": "img",
+                "src": "https://images.khan.co.kr/article/2026/11/12/l_2026111302000044400039132.jpg",
+                "cap": "(From left) Kim Do-hyun, Jang Hyuk, Choi Ye-bin, Lee Hyun-wook, Kim Kang-woo, Jung Woong-in, Baek Sung-hyun. Yonhap News"
               },
               {
                 "t": "p",
-                "x": "Sylvester Stallone-backed 스위스 기업 Largo.ai도 다시 참가한다. 이 회사의 도구에는 가상 포커스 그룹과 캐스팅 예측이 있다. IBM 출신 Greg Schoeninger가 세운 Oxen.ai는 여러 모델 가운데 골라 AI 숏을 만들 수 있게 하고, 모델별 토큰 비용을 공개한다. Producers Guild of America는 “영화·TV 리더가 마주한 AI 결정”을 주제로, Cine Group은 비생성형 AI를 “Tilly가 아닌 유틸리티”로 보는 패널을 연다."
+                "x": "In particular, the series applied AI technology tailored to the character of each battle, from the Battle of Jupilsan to the Battle of Maeso Fortress and the Battle of Gibeolpo. “AI technology kept advancing over the roughly 1 and a half years from planning to filming,” said CP Lee Ho. “Whenever a new technology came out, we looked for the parts where we could use it and applied it.” He added, “We used the technology for dangerous scenes or parts that were hard to achieve with conventional filming methods.”"
               },
               {
                 "t": "p",
-                "x": "Brenneman은 “우리는 영화제가 아니다”라며 “작품을 선정하지 않고, 가치 판단도 하지 않는다. 그건 바이어의 몫이다”라고 말한다."
+                "x": "Of the Battle of Gibeolpo, now in production, he said, “Since it is a battle set against mudflats and the sea, we thought AI video technology would suit it well,” adding, “In the meantime the technology has advanced further, so we are using AI even more than before.”"
+              },
+              {
+                "t": "p",
+                "x": "Because ‘Korea-Khitan War’ was caught up in controversy over historical distortion, this series was made on the basis of historical records and expert advice. ‘Munmu’ premieres on KBS 2TV on the 14th at 9:20 p.m."
               }
             ]
           }
         },
         "ja": {
-          "headline": "今年のAFM、\nAIが主役に",
-          "body": "AFMがInnovation HubをAIツールとパネルが並ぶAFM Houseへ広げる。",
-          "mini_headline": "AFM、AIを\n主役に",
+          "headline": "KBS大河時代劇『文武』\n三つの戦闘シーンをAIで",
+          "body": "1年半の制作中もAIは進化を続け、制作陣は新技術が出るたびに取り入れた。",
+          "mini_headline": "『文武』のAI戦闘シーン",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/08/AFM-HOUSE.jpg?w=1000&h=563&crop=1"
+                "src": "https://images.khan.co.kr/article/2026/11/12/l_2026111302000044400039133.jpg",
+                "cap": "KBS 2TVの新大河ドラマ『文武』に出演する俳優チャン・ヒョク、イ・ヒョヌク、キム・ガンウ(左から)が、12日の制作発表会でポーズを取っている。聯合ニュース"
               },
               {
                 "t": "p",
-                "x": "まず映画が、次に映画祭がAIにのみ込まれた。そしていま、AIは今年のAmerican Film Marketを席巻している。2026年版では、マーケットのInnovation Hubが初の「AFM House」へと拡大する。Fairmont Century PlazaのAFM HQ向かいに設けられる15,000-square-footの空間で、20社近くが自社技術を披露し、AIの影響を論じる新たなパネルも多数用意される。"
+                "x": "3年ぶりに戻ってきたKBSの大河時代劇『文武』が、人工知能(AI)技術を活用した大規模な戦闘シーンと俳優陣の熱演を武器にお茶の間に登場する。12日、ソウル九老区新道林で制作発表会が開かれた。"
               },
               {
                 "t": "p",
-                "x": "「創作ツールとしてのAIについては、データを分析して予測を立てるための優れた手段としてのAIよりも、はるかに多くの議論がある」と、IFTA会長のJackie Brennemanは言う。"
+                "x": "『文武』は、新羅の文武王・金法敏を中心に、三国統一と、唐に立ち向かって自主権を守り抜いた羅唐戦争の歴史を描く作品だ。KBSが『高麗契丹戦争』以来3年ぶりに送り出す大河時代劇で、イ・ヒョヌクが文武王を、チャン・ヒョクが淵蓋蘇文を、キム・ガンウが金春秋を演じる。"
+              },
+              {
+                "t": "img",
+                "src": "https://images.khan.co.kr/article/2026/11/12/l_2026111302000044400039132.jpg",
+                "cap": "(左から)キム・ドヒョン、チャン・ヒョク、チェ・イェビン、イ・ヒョヌク、キム・ガンウ、チョン・ウンイン、ペク・ソンヒョン。聯合ニュース"
               },
               {
                 "t": "p",
-                "x": "今年も参加するのは、Sylvester Stallone-backedのスイス企業Largo.aiで、模擬フォーカスグループやキャスティング予測といったツールを持つ。IBM出身のGreg Schoeningerが創業したOxen.aiは、複数のモデルから選んでAIショットを作れるようにし、モデルごとのトークンコストを公開している。Producers Guild of Americaは「映画・TVのリーダーが直面するAIの決断」をテーマにしたパネルを、Cine Groupは非生成AIを「Tillyではなくユーティリティ」として捉えるパネルを開く。"
+                "x": "特に本作は、駐蹕山の戦いから買肖城の戦い、伎伐浦の戦いまで、それぞれの戦闘の特性に合わせてAI技術を適用した。イ・ホCPは「企画から撮影までの約1年半の間、AI技術は進化し続けた」とし、「新しい技術が出るたびに活用できる部分を探して取り入れた」と明かした。さらに「危険な場面や、従来の撮影方式では表現が難しい部分に技術を使った」と説明した。"
               },
               {
                 "t": "p",
-                "x": "「我々は映画祭ではない」とBrennemanは言う。「作品を選ぶことはしない。良し悪しの判断もしない。それはバイヤーのすることだ」"
+                "x": "現在制作中の伎伐浦の戦いについては、「干潟と海を舞台にした戦いなので、AI映像技術がよく合うと考えた」とし、「その間に技術がさらに進化し、以前よりもAIをより多く活用している」と付け加えた。"
+              },
+              {
+                "t": "p",
+                "x": "『高麗契丹戦争』が歴史歪曲をめぐる論争に巻き込まれただけに、本作は史料と専門家の助言をもとに制作された。『文武』は14日午後9時20分からKBS 2TVで放送が始まる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI成为今年\nAFM的焦点",
-          "body": "AFM将Innovation Hub扩展为全新的AFM House，汇集AI工具与座谈。",
-          "mini_headline": "AFM让AI\n站上中心舞台",
+          "headline": "KBS大河剧《文武》\n用AI打造三场战役",
+          "body": "在1年半的制作期间AI持续进步，剧组每逢新技术问世便加以应用。",
+          "mini_headline": "《文武》的AI战争场面",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/08/AFM-HOUSE.jpg?w=1000&h=563&crop=1"
+                "src": "https://images.khan.co.kr/article/2026/11/12/l_2026111302000044400039133.jpg",
+                "cap": "KBS 2TV新大河剧《文武》的演员张赫、李玹旭、金康宇（从左至右）12日在制作发布会上摆姿势。韩联社"
               },
               {
                 "t": "p",
-                "x": "先是电影，再是电影节。如今，AI 已占据今年的 American Film Market。2026 年这一届，市场的 Innovation Hub 将扩展为首个“AFM House”——一个位于 Fairmont Century Plaza 的 AFM HQ 对面、面积 15,000-square-foot 的空间，近 20 家公司将在此展示各自的技术，另有一系列讨论 AI 影响的新座谈。"
+                "x": "时隔3年回归的KBS大河历史剧《文武》，将以运用人工智能（AI）技术打造的大规模战争场面和演员们的精彩表演登上荧屏。12日，制作发布会在首尔九老区新道林举行。"
               },
               {
                 "t": "p",
-                "x": "“把 AI 当作创作工具——这方面的争议，远比把 AI 当作分析数据、做出预测的绝佳手段要多。”IFTA 主席 Jackie Brenneman 说。"
+                "x": "《文武》以新罗文武王金法敏为中心，讲述三国统一以及对抗唐朝、守护自主权的罗唐战争的历史。这是KBS继《高丽契丹战争》之后时隔3年推出的大河历史剧，李玹旭饰演文武王，张赫饰演渊盖苏文，金康宇饰演金春秋。"
+              },
+              {
+                "t": "img",
+                "src": "https://images.khan.co.kr/article/2026/11/12/l_2026111302000044400039132.jpg",
+                "cap": "（从左至右）金度贤、张赫、崔艺彬、李玹旭、金康宇、郑雄仁、白成贤。韩联社"
               },
               {
                 "t": "p",
-                "x": "再度参展的有 Sylvester Stallone-backed 的瑞士公司 Largo.ai，其工具包括模拟焦点小组和选角预测。由 IBM 老将 Greg Schoeninger 创办的 Oxen.ai 让创作者可从多种模型中选择来生成 AI 镜头，并公开列出每个模型的 token 成本。Producers Guild of America 将举办主题为“电影与 TV 领导者面临的 AI 决策”的座谈，Cine Group 则举办一场把非生成式 AI 视为“utility rather than Tilly”的座谈。"
+                "x": "尤其是，本剧从驻跸山之战到买肖城之战、伎伐浦之战，根据每场战役的特点运用了AI技术。CP李浩表示：“从策划到拍摄的约1年半时间里，AI技术一直在发展。”他还说：“每当有新技术出现，我们就寻找可以利用的部分加以应用。”他接着解释：“我们把技术用在危险场面，或用传统拍摄方式难以实现的部分。”"
               },
               {
                 "t": "p",
-                "x": "“我们不是电影节，”Brenneman 说，“我们不做评选，也不做价值判断。那是买家的事。”"
+                "x": "对于目前正在制作的伎伐浦之战，他补充说：“这是以滩涂和大海为背景的战役，所以我们认为AI影像技术会很合适。”“这期间技术又有了进步，我们比以前更多地使用AI。”"
+              },
+              {
+                "t": "p",
+                "x": "由于《高丽契丹战争》曾陷入歪曲历史的争议，本剧以史料和专家咨询为基础制作。《文武》将于14日晚9点20分在KBS 2TV首播。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La AI ocupa el centro\nen el AFM de este año",
-          "body": "El American Film Market amplía su Innovation Hub con una nueva AFM House llena de herramientas y paneles de AI.",
-          "mini_headline": "El AFM pone la AI\nen el centro",
+          "headline": "La epopeya de KBS ‘Munmu’\nrecrea tres batallas con AI",
+          "body": "Durante 1 año y medio de producción, la AI siguió avanzando y el equipo aplicó cada nueva técnica que surgía.",
+          "mini_headline": "Las batallas con AI de ‘Munmu’",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/08/AFM-HOUSE.jpg?w=1000&h=563&crop=1"
+                "src": "https://images.khan.co.kr/article/2026/11/12/l_2026111302000044400039133.jpg",
+                "cap": "Los actores Jang Hyuk, Lee Hyun-wook y Kim Kang-woo (de izquierda a derecha), de la nueva serie histórica de KBS 2TV ‘Munmu’, posan en la presentación del día 12. Yonhap News"
               },
               {
                 "t": "p",
-                "x": "Primero llegó a las películas, luego a los festivales de cine. Ahora la AI se ha apoderado del American Film Market de este año. En la edición de 2026, el Innovation Hub del mercado se ampliará a su primera “AFM House”, un espacio de 15,000-square-foot frente al AFM HQ en el Fairmont Century Plaza, con casi 20 empresas que mostrarán su propia tecnología y una serie de nuevos paneles sobre el impacto de la AI."
+                "x": "La serie histórica de KBS ‘Munmu’, que regresa tras 3 años, llega a la televisión con grandes escenas de guerra creadas con tecnología de inteligencia artificial (AI) y sólidas actuaciones de su reparto. La presentación se celebró el día 12 en Sindorim, en el distrito de Guro-gu, Seúl."
               },
               {
                 "t": "p",
-                "x": "“La AI como herramienta creativa: sobre eso hay mucho más debate que sobre la AI como una gran forma de analizar datos y hacer predicciones”, dice Jackie Brenneman, presidenta de IFTA."
+                "x": "‘Munmu’ se centra en el rey Munmu de Silla, Kim Beop-min, y narra la unificación de los Tres Reinos y la guerra Silla-Tang, en la que se defendió la soberanía frente a la dinastía Tang. Es la serie histórica que KBS estrena 3 años después de ‘Korea-Khitan War’, con Lee Hyun-wook como el rey Munmu, Jang Hyuk como Yeon Gaesomun y Kim Kang-woo como Kim Chun-chu."
+              },
+              {
+                "t": "img",
+                "src": "https://images.khan.co.kr/article/2026/11/12/l_2026111302000044400039132.jpg",
+                "cap": "(De izquierda a derecha) Kim Do-hyun, Jang Hyuk, Choi Ye-bin, Lee Hyun-wook, Kim Kang-woo, Jung Woong-in y Baek Sung-hyun. Yonhap News"
               },
               {
                 "t": "p",
-                "x": "Vuelve Largo.ai, una firma suiza Sylvester Stallone-backed (respaldada por Sylvester Stallone) cuyas herramientas incluyen grupos focales simulados y proyecciones de casting. Oxen.ai, fundada por Greg Schoeninger, veterano de IBM, permite a los creadores construir planos con AI eligiendo entre varios modelos y detalla públicamente el costo en tokens de cada modelo. El Producers Guild of America organiza un panel sobre “las decisiones de AI que enfrentan los líderes del cine y la TV”, y el Cine Group, uno sobre la AI no generativa como “utility rather than Tilly”."
+                "x": "En particular, la serie aplicó tecnología de AI adaptada a las características de cada batalla, desde la de Jupilsan hasta las de la fortaleza de Maeso y Gibeolpo. El CP Lee Ho explicó que “la tecnología de AI siguió avanzando durante cerca de 1 año y medio, desde la planificación hasta el rodaje” y que “cada vez que salía una nueva tecnología, buscábamos qué partes podíamos aprovechar y la aplicábamos”. Añadió: “Usamos la tecnología en escenas peligrosas o en partes difíciles de lograr con los métodos de rodaje convencionales”."
               },
               {
                 "t": "p",
-                "x": "“No somos un festival”, dice Brenneman. “No hacemos selecciones. No emitimos juicios. Eso les corresponde a los compradores”."
+                "x": "Sobre la batalla de Gibeolpo, aún en producción, añadió: “Como es una batalla ambientada en marismas y en el mar, pensamos que la tecnología de video con AI encajaría bien”, y “mientras tanto la tecnología avanzó aún más, así que usamos la AI más que antes”."
+              },
+              {
+                "t": "p",
+                "x": "Dado que ‘Korea-Khitan War’ se vio envuelta en una polémica por distorsión histórica, esta serie se elaboró a partir de fuentes históricas y del asesoramiento de expertos. ‘Munmu’ se estrena el día 14 a las 9:20 p. m. en KBS 2TV."
               }
             ]
           }

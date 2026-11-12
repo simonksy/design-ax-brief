@@ -15010,6 +15010,136 @@
           "x": "이제 DJ에서 억양이 다양한 영어 목소리 여덟 가지와 새 스페인어 목소리 두 가지를 더 골라 취향대로 꾸밀 수 있다. Spotify DJ가 곡 사이에 끼워 넣는 해설이 지겹다면 꺼 두면 된다. 음악이 그만큼 덜 끊긴다."
         }
       ]
+    },
+    "music/stable-audio-nov-workspace": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.squarespace-cdn.com/content/v1/6213c340453c3f502425776e/2cc42a62-5083-4c7f-a86a-77f92b11a3d7/Stable_Audio_Release_Notes_Blog_Thumbnail_16x9.png"
+        },
+        {
+          "t": "p",
+          "x": "Stable Audio에 앱과 프로젝트, 사운드를 한곳에 모은 새 작업공간이 생겼다. 로그인하면 Home이 먼저 뜨고, Library에서는 Stable Audio 여러 앱에서 만든 결과물을 모두 둘러보고 정리한다."
+        },
+        {
+          "t": "img",
+          "src": "https://images.squarespace-cdn.com/content/v1/6213c340453c3f502425776e/8480d97a-11fe-4346-b14f-13140df9b932/generate-01-overview.png",
+          "cap": "Generate"
+        },
+        {
+          "t": "p",
+          "x": "음악과 효과음 제작은 새 Generate 앱에서 시작한다. 프롬프트를 텍스트로 넣어도 되고, 장르·스타일·악기를 뜻하는 “paints”를 믹서에 여러 개 더해 시각적으로 묘사해도 된다. Lens에서는 트리밍, 페이드 추가, 구간 교체, 테이크 연장을 할 수 있다. 편집할 때마다 새 버전이 생긴다."
+        },
+        {
+          "t": "img",
+          "src": "https://images.squarespace-cdn.com/content/v1/6213c340453c3f502425776e/5fc8930d-54b7-4592-b497-a23ffe634e50/sampler-02-pack.png",
+          "cap": "Sampler"
+        },
+        {
+          "t": "p",
+          "x": "Sampler는 짧은 샘플과 루프, 드럼 킷 세트를 만든다. “techno risers” 같은 프롬프트에서 출발해 변형을 최대 여덟 가지까지 뽑거나, 원샷 샘플 여덟 개짜리 드럼 킷 한 벌을 만든다. 스텝 시퀀서에서는 16-step 그리드로 악기 최대 여덟 개를 최대 32마디 패턴까지 프로그래밍한다."
+        },
+        {
+          "t": "p",
+          "x": "Labs는 실험 단계의 베타 앱을 모은 새 공간이다. 베타 멀티트랙 앱 Sessions도 이곳으로 옮겨 왔다. Full mix 모드나 편집 가능한 여덟 트랙 덱을 쓸 수 있다. 모든 기능은 상업적으로 안전한 모델이 돌리고, 결과물 소유권은 사용자에게 있다."
+        }
+      ]
+    },
+    "music/elevenlabs-voice-restoration-music": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://eleven-public-cdn.elevenlabs.io/payloadcms/hzu606cgpup-2304662705.webp"
+        },
+        {
+          "t": "p",
+          "x": "뉴욕의 교육자 Greg Kellner는 2019년 뇌암으로 노래하는 목소리를 잃었다. 그는 옛 녹음을 토대로 ElevenMusic에서 그 목소리를 되살렸다. 뇌성마비 탓에 말하는 목소리가 한 번도 없었던 Abdi Omar는 ElevenLabs Voice Designer로 자기 목소리를 직접 디자인했고, 지금은 ElevenMusic으로 래퍼 활동을 한다."
+        },
+        {
+          "t": "p",
+          "x": "두 사람은 11월 11일 ElevenLabs New York Summit에서 ElevenMusic으로 되찾은 노래 목소리로 신곡을 공연했다. 이제 목소리를 영구히 잃은 사람은 ElevenMusic을 무료로 쓸 수 있다. 이 지원은 Songwriters of North America(SONA)와 함께 시작했고, 자격 확인은 SONA가 맡는다."
+        },
+        {
+          "t": "p",
+          "x": "“목소리 복원은 언제나 기본적인 필요를 채우는 일 이상이었습니다. 우리를 인간답게 만드는 모든 방식으로 진정으로 들리는 것에 관한 일입니다.” ElevenLabs 임팩트 총괄(Head of Impact) Gabi Leibowitz가 한 말이다."
+        },
+        {
+          "t": "p",
+          "x": "ElevenLabs는 Wounded Warrior Project를 Impact Program 파트너로 발표했고, NYU Langone Health는 1 Million Voices에 합류했다. 1 Million Voices는 ElevenLabs가 약속한 $1B 규모 현물 지원이다. 지금까지 11,000명 넘는 사람이 이 지원으로 다시 자기 목소리로 말하게 됐다."
+        }
+      ]
+    },
+    "music/ringo-charlie-whatsapp-sync": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-26.png?fit=2000%2C1500&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "우리는 네덜란드 싱크 테크 스타트업 Ringo를 2023년 첫 투자 유치 때부터, 2025년 AI 기반(AI-powered) 라이선싱 플랫폼 출시까지 지켜봐 왔다. 이번에 Ringo가 내놓은 최신 기능은 AI 비서 Charlie다."
+        },
+        {
+          "t": "p",
+          "x": "그녀는(그렇다, Ringo 발표문에 대명사가 그렇게 적혀 있다) WhatsApp 안에서만 돌아가도록 설계됐다. 고객 문의를 받아 두면 Ringo 팀이 이어받아 처리한다."
+        }
+      ]
+    },
+    "music/knxwledge-streaming-app-takedowns": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.complex.com/complex/image/upload/c_crop,h_1910,w_2939,x_0,y_0/g_auto:aoi_1176_764_588_382,ar_1.91,c_fill,q_auto,w_1200/sanity-new/ehkmatoir85wnox3ljc2"
+        },
+        {
+          "t": "p",
+          "x": "그래미 수상(Grammy-winning) 프로듀서 Knxwledge가 화요일(Nov. 10) X에 iOS용 자체 스트리밍 앱을 냈다고 알렸다. 몇 달째 그의 작품이 스트리밍 플랫폼에서 사라지자 내놓은 앱이다. 팬들은 여기서 그의 전체 카탈로그와 앞으로 나올 작품을 들을 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "그의 말로는 내려간 작품 가운데 일부는 인공지능 음악 생성 도구가 널리 쓰이기 몇 년 전에 나왔다."
+        },
+        {
+          "t": "p",
+          "x": "그의 설명은 이렇다. \"OVER THE PAST FEW MONTHS DISTRIBUTORS HAVE TAKEN DOWN RECORDS IV'E MADE AND RELEASED YEARS BEFORE AI WAS EVEN AVAILABLE TO THE PUBLIC,\"(지난 몇 달 동안 배급사들이 AI가 대중에게 공개되기도 몇 년 전에 내가 만들어 발매한 음반들을 내렸다) \"ALL THOSE RECORDS CLEARLY HAVE RELEASE DATES, APPARENTLY THE PEOPLE REVIEWING THEM DON'T CARE OR HAVE THE TIME TO DIFFERENTIATE.\"(그 음반들에는 모두 발매일이 분명히 적혀 있는데, 심사하는 사람들은 신경 쓰지 않거나 구별할 시간이 없는 모양이다)"
+        },
+        {
+          "t": "p",
+          "x": "앱에는 그가 직접 리마스터했다는 전체 카탈로그가 실렸다. Android 버전은 나중에 나온다. 그는 팬들에게 업데이트 소식은 Discord 서버에서 확인하라고 안내했다."
+        }
+      ]
+    },
+    "music/ace-studio-music-v1": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/AI-music-decrypt-style-03-gID_7.jpg"
+        },
+        {
+          "t": "p",
+          "x": "ACE Studio가 만든 ACE Music v1이 Artificial Analysis 보컬 음악 순위 정상에 올랐다. Elo 점수 1,160점으로 Suno v6(1,144점)를 앞섰다. AA-Music-Vocal v1.1 벤치마크에서는 평가자가 같은 프롬프트로 만든 곡을 어느 모델 작품인지 모른 채 듣고 마음에 드는 곡을 고른다."
+        },
+        {
+          "t": "img",
+          "src": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://imagedelivery.net/YN1-rdnufJQJCgu3i1CbVw/MfUFfyR49NwW4OCFj1yIR9UB6An2rQPWYPKjJXYgzSA/public@webp"
+        },
+        {
+          "t": "p",
+          "x": "격차는 크지 않고 두 모델의 통계적 신뢰구간도 겹친다. 기악 음악 순위는 따로 있는데, 여기서는 여전히 Suno가 정상이다."
+        },
+        {
+          "t": "p",
+          "x": "Decrypt가 직접 써 보니 ACE Music은 주류 스타일에서 선율과 짜임새가 더 나은 곡을 냈고 보컬도 더 자연스럽고 마무리가 깔끔했다. 다만 멜로딕 데스메탈처럼 관습에서 벗어난 장르에서는 아직 Suno가 앞선다."
+        },
+        {
+          "t": "p",
+          "x": "“Idea” 기능은 기본 콘셉트를 가사와 구조가 있는 곡으로 키워 준다. v1.1 Preview는 오디오보다 악보를 먼저 만든다. 사용자는 멜로디와 코드를 고치고 MIDI 파일을 내보내며 보컬과 악기를 분리할 수도 있다."
+        },
+        {
+          "t": "p",
+          "x": "플래그십 모델은 아직 비공개 소스이고 공개 API도 없다. ACE Studio와 StepFun은 오픈 모델 ACE-Step 1.5를 이미 내놓았으며, 개발진은 “ACE Music v1 Flash를 2026년 말 오픈소스로 공개할 계획”이라고 했다."
+        }
+      ]
     }
   }
 }

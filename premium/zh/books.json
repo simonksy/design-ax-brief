@@ -9688,6 +9688,143 @@
           "x": "法院提到在Madurai的Kalaignar Centenary Library发现的一本书，该书虚假署名经济学家Jean Drèze为作者。法院认为，AI-generated（AI生成）图书和抄袭图书可归入Tamil Nadu Public Libraries Rules, 1950中“doubtful taste（品味可疑）”这一表述。此案将于11月11日再次审理。"
         }
       ]
+    },
+    "books/paizo-feybound-ai-art": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.wargamer.com/wp-content/sites/wargamer/2026/11/pathfinder-feybound-ai-airt.jpg"
+        },
+        {
+          "t": "p",
+          "x": "11月4日发售的Pathfinder设定集Feybound因被指含有AI美术而遭到批评。这些图像最早由粉丝于11月10日在Reddit上指出。Paizo对Wargamer表示：“我们已就外界提出的疑虑与负责Feybound美术的艺术家进行沟通，该艺术家否认使用了AI。”"
+        },
+        {
+          "t": "p",
+          "x": "这篇Reddit帖子列出七幅插图作为所谓证据，指出神殿柱子不对称、建筑结构不可能存在，以及动物与人物融为一体。"
+        },
+        {
+          "t": "p",
+          "x": "调查之后，“美术总监支持这位多年来为Paizo创作了大量作品的艺术家。”公司还补充说：“Paizo不在产品中使用AI美术，所有艺术家签署的合同都明确排除在创作中使用人工智能。”"
+        },
+        {
+          "t": "p",
+          "x": "Paizo的这一政策由来已久：2023年的一篇博客文章称，“在可预见的未来，Paizo不会使用任何AI-generated的‘创意’作品”。公司感谢社区“提醒我们注意此事”，并表示“认真对待美术中涉嫌使用AI产品的情况”。"
+        }
+      ]
+    },
+    "books/hivemind-aurora-translation": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://it.donga.com/media/__sized__/images/2026/11/10/a92622a13a004953-thumbnail-1920x1080-70.jpg",
+          "cap": "Hivemind于1日举行的Aurorah翻译支持者第1期启动仪式现场 / 来源：IT东亚"
+        },
+        {
+          "t": "p",
+          "x": "开发并运营全球出版平台“Aurorah”的初创公司Hivemind于11月1日举行“Aurorah翻译支持者”第1期启动仪式，着手构建AI与人类译者协作的模式。"
+        },
+        {
+          "t": "img",
+          "src": "https://it.donga.com/media/__sized__/images/2026/11/10/45ff4549ef194d0f-thumbnail-1920x1080-70.jpg",
+          "cap": "Hivemind代表Kim Dong-wook / 来源：IT东亚"
+        },
+        {
+          "t": "p",
+          "x": "Kim Dong-wook表示：“Hivemind的创立初衷，是借助AI降低翻译成本，把优秀的原创网络小说介绍给全球读者。”他还说：“但如果只依赖AI初译，作者独有的文风和细腻的语感可能受损，因此人工本地化必不可少。”"
+        },
+        {
+          "t": "p",
+          "x": "从100多名申请者中选出30人，按英语、中文、日语语种各分配10人。参与者在一个月内负责所分配网络小说的本地化，将AI生成的第1版译稿与原文对照，修正意思和表达。"
+        },
+        {
+          "t": "img",
+          "src": "https://it.donga.com/media/__sized__/images/2026/11/10/51ac7a60f92d4de4-thumbnail-1920x1080-70.jpg",
+          "cap": "Hivemind于1日举行的Aurorah翻译支持者第1期启动仪式现场 / 来源：IT东亚"
+        },
+        {
+          "t": "p",
+          "x": "Aurorah在同一处管理作品设定数据、术语表、翻译成果和修改记录，参与者可自选ChatGPT、Claude等LLM引擎。所输入的修改理由与内容会积累进数据库，用于本地化质量管理和模型升级。"
+        },
+        {
+          "t": "p",
+          "x": "Hivemind正以日本为首个海外市场推进Aurorah出海，并计划根据第1期成果招募后续批次。"
+        }
+      ]
+    },
+    "books/scholarlykitchen-ai-user-study": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/DP-20201-001-1024x660.jpg",
+          "cap": "Looking Glass，传为Isaac Platt所作，1829–35"
+        },
+        {
+          "t": "p",
+          "x": "在Charleston Library Conference上，Lisa Janicke Hinchliffe注意到，焦点频频落在生成式AI聊天机器人上，而关于理解研究者和学习者如何使用AI工具的努力却鲜有耳闻。"
+        },
+        {
+          "t": "p",
+          "x": "图书馆希望在校园AI环境中掌握主动，却并不运营企业级AI；出版社则在决定AI授权条款以及要添加哪些AI功能。“当图书馆和出版社都围绕AI工具来制定战略时，就没有人在系统地研究使用AI的人。”"
+        },
+        {
+          "t": "p",
+          "x": "她认为，只要像图书馆在发现层时代那样再次研究用户如何工作，双方都能在AI时代掌握主动。共同的研究议题包括：研究者和学生把哪些任务交给AI、何时不用AI、如何核查AI输出，以及他们想要哪些控制选项和默认设置。"
+        },
+        {
+          "t": "p",
+          "x": "下一步，图书馆应研究本社区的AI使用实践，与校园AI负责人分享结果，并用来评估供应商的功能；出版社应在发布AI功能前征询用户意见，把用户研究当作共享资源，说明设计选择，并邀请图书馆参与研究。"
+        }
+      ]
+    },
+    "books/openai-amicus-briefs-map": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/11/Screen-Shot-2026-11-02-at-10.58.57-PM.png"
+        },
+        {
+          "t": "p",
+          "x": "In re OpenAI Copyright Infringement Litigation合并了十多起重大AI诉讼，其中包括Authors Guild以及New York Times等多家新闻机构提起的案件。截至10月30日的截止日期，法院共收到51份法庭之友意见书。"
+        },
+        {
+          "t": "p",
+          "x": "原告方认为，OpenAI为训练模型而复制作品（包括来自盗版来源的作品）构成侵权，其输出内容也可能侵权；OpenAI则反驳称，为训练而复制属于合理使用。最后一轮意见书须于11月6日前提交，此后将安排在Sidney H. Stein法官面前进行口头辩论。"
+        },
+        {
+          "t": "p",
+          "x": "整整一半的意见书（26份）支持原告；18份支持被告；八份持中立立场。支持原告的包括Association of American Publishers、Copyright Alliance、Ken Burns、WME、Congress议员以及PEN America。"
+        },
+        {
+          "t": "p",
+          "x": "被告一方有Authors Alliance、Kevin Kelly、EFF、Edward Lee和Rebecca Tushnet，以及Public Knowledge，其中许多抨击了“市场稀释”（market dilution）理论。中立意见书来自Pamela Samuelson和Christopher Sprigman、Wikimedia Foundation以及Matthew Sag。"
+        }
+      ]
+    },
+    "books/books-caine-prize-ai-cleared": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ichef.bbci.co.uk/ace/standard/973/cpsprodpb/d560/live/9c22bcf0-ddfe-11f1-8445-15eb55286f71.jpg",
+          "cap": "居住在哈拉雷的Simbarashe Kundizeza表示，一首关于鱼缸的诗启发他写下了一个关于家庭困境的故事"
+        },
+        {
+          "t": "p",
+          "x": "非洲文学凯恩奖（Caine Prize for African Writing）表示，经内部审查，未发现津巴布韦作家Simbarashe Kundizeza使用生成式AI创作其获奖短篇小说的证据，并确认他为今年£10,000（$13,000）奖项的得主。"
+        },
+        {
+          "t": "p",
+          "x": "此次审查源于记者Vauhini Vara在美国杂志The Atlantic上发表的一篇文章，文章称AI-detection软件Pangram显示其作品完全由AI生成。Kundizeza否认了这一指控，该指控在社交媒体上引发轩然大波，一些非洲作家认为此类指控主要针对非白人作家。"
+        },
+        {
+          "t": "p",
+          "x": "凯恩奖理事会主席Ellah Wakatama表示：“经过详细调查，我们认为证据很清楚：The Blue Fighter是人类写的。”审查内容包括对作者、2026年评审团以及首发该作品的Shallow Tales Review的访谈，还有一名网络安全与数字取证调查员对作者草稿进行的独立专家元数据分析。"
+        },
+        {
+          "t": "p",
+          "x": "此前，今年其他文学奖项也出现争议，包括Commonwealth Short Story Prize和法国龚古尔奖（Goncourt）。"
+        }
+      ]
     }
   }
 }

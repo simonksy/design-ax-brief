@@ -1,30 +1,31 @@
 {
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "section": "marketing",
   "media": [
     {
-      "id": "appsflyer-apple-ads-agent",
+      "id": "google-ads-editor-aimax-default",
       "type": "image",
-      "src": "pipeline/media/appsflyer-apple-ads-agent.jpg"
+      "src": "pipeline/media/google-ads-editor-aimax-default.jpg"
     },
     {
-      "id": "mrc-ai-measurement-draft",
+      "id": "google-ads-ai-public-figure-ban",
       "type": "image",
-      "src": "pipeline/media/mrc-ai-measurement-draft.jpg"
+      "src": "pipeline/media/google-ads-ai-public-figure-ban.jpg"
     },
     {
-      "id": "reddit-qloo-targeting",
+      "id": "eu-ai-act-deepfake-ad-labels",
       "type": "image",
-      "src": "pipeline/media/reddit-qloo-targeting.jpg"
+      "src": "pipeline/media/eu-ai-act-deepfake-ad-labels.jpg"
     },
     {
-      "id": "daangn-chatgpt-ads-api",
-      "type": "svg"
+      "id": "nectar-creator-agent",
+      "type": "image",
+      "src": "pipeline/media/nectar-creator-agent.jpg"
     },
     {
-      "id": "united-ai-agent-ban",
+      "id": "podqi-chatbot-fake-retail-sites",
       "type": "image",
-      "src": "pipeline/media/united-ai-agent-ban.jpg"
+      "src": "pipeline/media/podqi-chatbot-fake-retail-sites.jpg"
     }
   ]
 }

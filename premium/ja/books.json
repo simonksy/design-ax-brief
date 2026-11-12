@@ -10162,6 +10162,143 @@
           "x": "裁判所は、MaduraiのKalaignar Centenary Libraryで見つかった、経済学者Jean Drèzeを著者と偽った書籍に言及し、AI-generated(AI生成)の書籍や盗用書籍はTamil Nadu Public Libraries Rules, 1950の「doubtful taste(疑わしい趣味)」という表現に該当し得ると判断した。次回審理は11月11日に行われる。"
         }
       ]
+    },
+    "books/paizo-feybound-ai-art": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.wargamer.com/wp-content/sites/wargamer/2026/11/pathfinder-feybound-ai-airt.jpg"
+        },
+        {
+          "t": "p",
+          "x": "11月4日に発売されたPathfinderのソースブックFeyboundが、AIアートを含んでいる疑いで批判を浴びている。画像は11月10日にReddit上でファンが最初に指摘した。PaizoはWargamerに「Feyboundのアートを担当したアーティストと寄せられた懸念について話し合い、アーティストはAIの使用を否定している」と語った。"
+        },
+        {
+          "t": "p",
+          "x": "Redditの投稿は証拠とされるイラスト七点を挙げ、左右対称でない神殿の柱、ありえない建築、溶け合ったような動物と人物を指摘している。"
+        },
+        {
+          "t": "p",
+          "x": "調査を経て「アートディレクターは、長年Paizoのために多くの作品を手がけてきたアーティストを支持している」。同社は「PaizoはAIアートを製品に使用しておらず、すべてのアーティストは創作に人工知能を使わないことを明記した契約に署名している」と付け加えた。"
+        },
+        {
+          "t": "p",
+          "x": "Paizoの方針は以前からのものだ。2023年のブログ記事では「Paizoは当面、いかなる種類のAI-generatedな『創作』物も使用しない」と表明していた。同社は「この件を知らせてくれた」コミュニティに感謝し、「アートにおけるAI製品の使用疑惑を真剣に受け止めている」としている。"
+        }
+      ]
+    },
+    "books/hivemind-aurora-translation": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://it.donga.com/media/__sized__/images/2026/11/10/a92622a13a004953-thumbnail-1920x1080-70.jpg",
+          "cap": "1日にハイブマインドが開催したオーロラ翻訳サポーターズ1期の発足式の様子 / 出典=IT東亜"
+        },
+        {
+          "t": "p",
+          "x": "グローバル出版プラットフォーム「オーロラ(Aurorah)」を開発・運営するスタートアップのハイブマインドは、11月1日に「オーロラ翻訳サポーターズ」1期の発足式を開き、AIと人間の翻訳者による協業モデルの構築に乗り出した。"
+        },
+        {
+          "t": "img",
+          "src": "https://it.donga.com/media/__sized__/images/2026/11/10/45ff4549ef194d0f-thumbnail-1920x1080-70.jpg",
+          "cap": "ハイブマインドのキム・ドンウク代表 / 出典=IT東亜"
+        },
+        {
+          "t": "p",
+          "x": "キム・ドンウク代表は「AIを活用して翻訳コストを下げ、優れたオリジナルのウェブ小説を世界の読者に紹介するためにハイブマインドは始まった」とし、「ただしAIの下訳だけに頼ると、作家固有の文体や細かなニュアンスが損なわれかねないため、人間によるローカライズ作業が欠かせない」と語った。"
+        },
+        {
+          "t": "p",
+          "x": "100人以上の応募者から30人が選ばれ、英語・中国語・日本語の言語圏ごとに10人ずつ配置された。参加者は1か月間、割り当てられたウェブ小説のローカライズを担い、AIが生成した1次翻訳案を原文と照らし合わせて意味や表現を修正する。"
+        },
+        {
+          "t": "img",
+          "src": "https://it.donga.com/media/__sized__/images/2026/11/10/51ac7a60f92d4de4-thumbnail-1920x1080-70.jpg",
+          "cap": "1日にハイブマインドが開催したオーロラ翻訳サポーターズ1期の発足式の様子 / 出典=IT東亜"
+        },
+        {
+          "t": "p",
+          "x": "オーロラは作品の設定データ、用語集、翻訳成果物、修正履歴を一元管理し、参加者はChatGPTやClaudeなどのLLMエンジンを選んで使える。入力した修正理由と内容はデータベースに蓄積され、ローカライズの品質管理とモデルの高度化に活用される。"
+        },
+        {
+          "t": "p",
+          "x": "ハイブマインドは日本を最初の海外市場としてオーロラの海外展開を進めており、1期の成果をもとに次期メンバーを募集する予定だ。"
+        }
+      ]
+    },
+    "books/scholarlykitchen-ai-user-study": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/DP-20201-001-1024x660.jpg",
+          "cap": "Looking Glass、Isaac Platt作とされる、1829–35"
+        },
+        {
+          "t": "p",
+          "x": "Charleston Library Conferenceで、Lisa Janicke Hinchliffeは、生成AIチャットボットに焦点が当たる頻度の高さと、研究者や学習者がAIツールとどう関わっているかを理解する取り組みがほとんど聞かれないことに驚いた。"
+        },
+        {
+          "t": "p",
+          "x": "図書館はキャンパスのAI環境で主体性を持ちたいが、エンタープライズAIを運用しているわけではない。出版社はAIのライセンス条件や、どのAI機能を加えるかを決めつつある。「図書館と出版社がともにAIツールを軸に戦略を組み立てれば、AIを使う人々を体系的に調べる者は誰もいなくなる」"
+        },
+        {
+          "t": "p",
+          "x": "彼女は、図書館がディスカバリーレイヤーの時代にそうしたように、利用者の働き方を改めて調べることで、両者ともAI時代に主体性を発揮できると主張する。共通の調査課題は、研究者や学生がどの作業をAIに任せるのか、いつAIを使わないのか、AIの出力をどう確かめるのか、どんな制御や初期設定を望むのかだ。"
+        },
+        {
+          "t": "p",
+          "x": "次の一歩として、図書館は自らのコミュニティにおけるAIの使われ方を調査し、結果をキャンパスのAI責任者と共有してベンダーの機能評価に生かすべきだ。出版社はAI機能の公開前に利用者に意見を聞き、利用者調査を共有資源として扱い、設計上の選択を説明し、図書館を調査に招き入れるべきだという。"
+        }
+      ]
+    },
+    "books/openai-amicus-briefs-map": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/11/Screen-Shot-2026-11-02-at-10.58.57-PM.png"
+        },
+        {
+          "t": "p",
+          "x": "In re OpenAI Copyright Infringement Litigationは、Authors Guildや、New York Timesを含む複数の報道機関が起こした訴訟など、十数件の主要なAI訴訟を併合したものだ。裁判所は10月30日の期限までに51件のアミカスブリーフ(意見書)を受け取った。"
+        },
+        {
+          "t": "p",
+          "x": "原告側は、OpenAIがモデルの学習のために(海賊版の入手元を含め)著作物を複製したことが侵害にあたり、その出力も侵害となりうると主張する。OpenAIは学習のための複製はフェアユースだと反論している。最終ラウンドの意見書の期限は11月6日で、その後Sidney H. Stein判事のもとで口頭弁論の日程が決まる。"
+        },
+        {
+          "t": "p",
+          "x": "意見書のちょうど半数(26件)が原告を、18件が被告を支持し、八件は中立だ。原告支持にはAssociation of American Publishers、Copyright Alliance、Ken Burns、WME、Congress(連邦議会)の議員、PEN Americaが名を連ねる。"
+        },
+        {
+          "t": "p",
+          "x": "被告側にはAuthors Alliance、Kevin Kelly、EFF、Edward LeeとRebecca Tushnet、Public Knowledgeが並び、その多くが「市場の希釈(market dilution)」理論を批判している。中立の意見書はPamela SamuelsonとChristopher Sprigman、Wikimedia Foundation、Matthew Sagから出された。"
+        }
+      ]
+    },
+    "books/books-caine-prize-ai-cleared": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ichef.bbci.co.uk/ace/standard/973/cpsprodpb/d560/live/9c22bcf0-ddfe-11f1-8445-15eb55286f71.jpg",
+          "cap": "ハラレ在住のSimbarashe Kundizezaは、水槽を詠んだ詩に触発され、家族の苦境を描いた物語を書いたという"
+        },
+        {
+          "t": "p",
+          "x": "ケイン賞(Caine Prize for African Writing)は、内部調査の結果、ジンバブエの作家Simbarashe Kundizezaが受賞短編の執筆に生成AIを使った証拠は見つからなかったとし、今年の賞金£10,000($13,000)の受賞者として彼を確定したと発表した。"
+        },
+        {
+          "t": "p",
+          "x": "調査のきっかけは、ジャーナリストのVauhini Varaが米誌The Atlanticに寄せた記事だった。記事は、AI-detectionソフトウェアのPangramによって彼の作品が完全にAIで生成されたものと示されたと主張した。Kundizezaは疑惑を否定し、この告発はソーシャルメディアで大きな騒動を呼んだ。一部のアフリカ人作家は、こうした告発が主に非白人の作家に向けられていると指摘した。"
+        },
+        {
+          "t": "p",
+          "x": "ケイン賞理事会のEllah Wakatama議長は「詳細な調査の結果、証拠は明らかだと考える。The Blue Fighterは人間が書いたものだ」と述べた。調査には、作者、2026年の審査員団、作品を最初に掲載したShallow Tales Reviewへの聞き取りに加え、サイバーセキュリティとデジタルフォレンジックの調査員による、作者の草稿の独立した専門的なメタデータ分析が含まれた。"
+        },
+        {
+          "t": "p",
+          "x": "今年はほかにも、Commonwealth Short Story Prizeやフランスのゴンクール賞(Goncourt)など、文学賞をめぐる論争が起きている。"
+        }
+      ]
     }
   }
 }

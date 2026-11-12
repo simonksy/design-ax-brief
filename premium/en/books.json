@@ -10155,6 +10155,143 @@
           "x": "The Court referred to a book found at the Kalaignar Centenary Library in Madurai that falsely attributed authorship to economist Jean Drèze, and held that AI-generated and plagiarised books could fall within the expression \"doubtful taste\" under the Tamil Nadu Public Libraries Rules, 1950. The matter will be heard next on November 11."
         }
       ]
+    },
+    "books/paizo-feybound-ai-art": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.wargamer.com/wp-content/sites/wargamer/2026/11/pathfinder-feybound-ai-airt.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Feybound, a Pathfinder sourcebook released on November 4, has come under fire for allegedly containing AI artwork. The images were first flagged by fans on Reddit on November 10. Paizo told Wargamer “we have discussed the concerns raised with the artist responsible for the art in Feybound, and the artist denies using AI”."
+        },
+        {
+          "t": "p",
+          "x": "The Reddit post highlights seven illustrations as supposed evidence, citing temple pillars that lack symmetry, impossible architecture, and animals and people melting together."
+        },
+        {
+          "t": "p",
+          "x": "Following its investigation, “the art director supports the artist, who has produced a lot of material for Paizo over the years.” “Paizo does not use AI art in our products, and all artists sign a contract with a clear exclusion of using artificial intelligence in their creations”, the company adds."
+        },
+        {
+          "t": "p",
+          "x": "Paizo’s policy is long-standing: a 2023 blog post stated “Paizo will not use AI-generated 'creative' work of any kind for the foreseeable future”. The company thanked its community for “bringing it to our attention” and says it “takes alleged use of AI products in our art seriously”."
+        }
+      ]
+    },
+    "books/hivemind-aurora-translation": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://it.donga.com/media/__sized__/images/2026/11/10/a92622a13a004953-thumbnail-1920x1080-70.jpg",
+          "cap": "The launch ceremony for cohort 1 of the Aurorah Translation Supporters, held by Hivemind on the 1st / Source: IT Donga"
+        },
+        {
+          "t": "p",
+          "x": "Hivemind, a startup that develops and runs the global publishing platform ‘Aurorah’, held a launch ceremony for cohort 1 of its ‘Aurorah Translation Supporters’ on November 1, setting out to build a collaboration model between AI and human translators."
+        },
+        {
+          "t": "img",
+          "src": "https://it.donga.com/media/__sized__/images/2026/11/10/45ff4549ef194d0f-thumbnail-1920x1080-70.jpg",
+          "cap": "Kim Dong-wook, CEO of Hivemind / Source: IT Donga"
+        },
+        {
+          "t": "p",
+          "x": "CEO Kim Dong-wook said, “Hivemind started out to introduce excellent original web novels to global readers by using AI to lower translation costs,” adding, “But relying only on AI first-draft translation can damage an author’s distinctive style and fine nuances, so human localization work is essential.”"
+        },
+        {
+          "t": "p",
+          "x": "Of more than 100 applicants, 30 were selected and assigned 10 each to the English, Chinese and Japanese language groups. For one month, participants handle the localization of their assigned web novels, checking the AI-generated 1st-pass translation against the original and correcting meaning and expression."
+        },
+        {
+          "t": "img",
+          "src": "https://it.donga.com/media/__sized__/images/2026/11/10/51ac7a60f92d4de4-thumbnail-1920x1080-70.jpg",
+          "cap": "The launch ceremony for cohort 1 of the Aurorah Translation Supporters, held by Hivemind on the 1st / Source: IT Donga"
+        },
+        {
+          "t": "p",
+          "x": "Aurorah manages story setting data, glossaries, translation output and revision history in one place, and participants can choose LLM engines such as ChatGPT and Claude. The revision reasons and details they enter build up in a database used for localization quality control and model improvement."
+        },
+        {
+          "t": "p",
+          "x": "Hivemind is pursuing Aurorah’s overseas expansion with Japan as its first foreign market, and plans to recruit later cohorts based on the results of cohort 1."
+        }
+      ]
+    },
+    "books/scholarlykitchen-ai-user-study": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/DP-20201-001-1024x660.jpg",
+          "cap": "Looking Glass, attributed to Isaac Platt, 1829–35"
+        },
+        {
+          "t": "p",
+          "x": "At the Charleston Library Conference, Lisa Janicke Hinchliffe was struck by how often the focus was on generative AI chatbots and how little she heard about efforts to understand how researchers and learners engage with AI tools."
+        },
+        {
+          "t": "p",
+          "x": "Libraries want agency in the campus AI environment but do not run enterprise AI; publishers are deciding on AI licensing terms and which AI features to add. “When libraries and publishers both organize their strategies around AI tools, no one is systematically studying the people using AI.”"
+        },
+        {
+          "t": "p",
+          "x": "She argues both can claim agency in the AI age by once again investigating how users work, as libraries did in the discovery-layer era. A shared inquiry agenda: which tasks researchers and students trust to AI, when they keep AI out, how they check AI output, and what controls and defaults they want."
+        },
+        {
+          "t": "p",
+          "x": "Next steps: libraries should study AI practice in their communities, share findings with campus AI leaders and use them to evaluate vendor features; publishers should ask users about AI features before release, treat user research as a shared resource, explain design choices and invite libraries into the research."
+        }
+      ]
+    },
+    "books/openai-amicus-briefs-map": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/11/Screen-Shot-2026-11-02-at-10.58.57-PM.png"
+        },
+        {
+          "t": "p",
+          "x": "In re OpenAI Copyright Infringement Litigation consolidates more than a dozen major AI lawsuits, including cases filed by the Authors Guild and several news organizations, including the New York Times. The court received 51 amicus briefs by the October 30 deadline."
+        },
+        {
+          "t": "p",
+          "x": "The plaintiffs argue OpenAI infringed by copying works to train its models (including from pirated sources) and that its outputs can also be infringing; OpenAI counters that copying for training is fair use. A final round of briefs is due November 6, after which oral arguments will be set before judge Sidney H. Stein."
+        },
+        {
+          "t": "p",
+          "x": "Fully half of the briefs (26) support the plaintiffs; 18 support the defendants; eight are neutral. Supporters of the plaintiffs include the Association of American Publishers, the Copyright Alliance, Ken Burns, WME, members of Congress and PEN America."
+        },
+        {
+          "t": "p",
+          "x": "On the defense side are Authors Alliance, Kevin Kelly, EFF, Edward Lee and Rebecca Tushnet, and Public Knowledge, many attacking the “market dilution” theory. Neutral briefs come from Pamela Samuelson and Christopher Sprigman, the Wikimedia Foundation and Matthew Sag."
+        }
+      ]
+    },
+    "books/books-caine-prize-ai-cleared": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ichef.bbci.co.uk/ace/standard/973/cpsprodpb/d560/live/9c22bcf0-ddfe-11f1-8445-15eb55286f71.jpg",
+          "cap": "Simbarashe Kundizeza, who lives in Harare, says he was inspired by a poem about fish tanks to write a story about his family struggles"
+        },
+        {
+          "t": "p",
+          "x": "The Caine Prize for African Writing has said that after an internal review it has found no evidence that Zimbabwean writer Simbarashe Kundizeza had used generative AI to write his winning short story and confirmed him as the winner of this year's £10,000 ($13,000) award."
+        },
+        {
+          "t": "p",
+          "x": "The review followed an article in US magazine The Atlantic by journalist Vauhini Vara, which alleged that AI-detection software Pangram had shown his story was entirely AI generated. Kundizeza had denied the allegation, and the accusation caused a social media uproar, with some African writers suggesting such accusations are primarily being made against non-white writers."
+        },
+        {
+          "t": "p",
+          "x": "\"From our detailed investigation, we feel the evidence is clear: The Blue Fighter was human written,\" said Ellah Wakatama, chair of the Caine Prize's board of trustees. The review included interviews with the author, the 2026 judging panel and the Shallow Tales Review, where the story was first published, as well as independent and expert-led metadata analysis of the author's drafts by a cyber security and digital forensic investigator."
+        },
+        {
+          "t": "p",
+          "x": "The row follows disputes over other literary prizes this year, including the Commonwealth Short Story Prize and France's Goncourt."
+        }
+      ]
     }
   }
 }

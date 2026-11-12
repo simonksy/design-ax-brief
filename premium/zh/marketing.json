@@ -4406,6 +4406,140 @@
           "x": "Sonata Insights的Debra Aho Williamson表示，OpenAI自己分享洞察，“将从第三方公司手中拿走部分权力”。Business Hub和代理目前免费，Shomair表示，企业“不应影响其出现的频率”。"
         }
       ]
+    },
+    "marketing/google-ads-ai-public-figure-ban": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-ads-logo-mirror-wCJesbMh.jpg",
+          "cap": "Google Ads标志镜像"
+        },
+        {
+          "t": "p",
+          "x": "Google Ads在其unacceptable Business Practices政策中明确，使用AI冒充公众人物的行为不被允许，即使已披露内容由AI生成或编辑。没错，你可以使用AI，但这种情况不行；而且使用AI时应当予以披露。"
+        },
+        {
+          "t": "p",
+          "x": "Google添加了这条说明：“注意：使用AI冒充公众人物的广告不被允许，即使已披露其由AI生成或编辑。”"
+        },
+        {
+          "t": "p",
+          "x": "以下是新增内容的截图，已用红色标出："
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-doc-change-hAyqlNeM.png",
+          "cap": "Google文档变更"
+        },
+        {
+          "t": "p",
+          "x": "Google的Unacceptable Business Practices政策禁止使用AI冒充公众人物的广告。即使广告披露了内容由AI生成或编辑，这一规则同样适用。"
+        },
+        {
+          "t": "p",
+          "x": "Google写道：“Google更新了其Unacceptable Business Practices政策中关于Public-figure impersonation（冒充公众人物）的规定，明确使用AI冒充公众人物的广告不被允许，即使已披露其由AI生成或编辑。此次澄清旨在帮助广告主理解该政策，并不改变政策的执行。”"
+        },
+        {
+          "t": "p",
+          "x": "所以，别再用这种夸张的广告了："
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/ai-ad-atmEYoSV.jpg",
+          "cap": "AI广告"
+        }
+      ]
+    },
+    "marketing/eu-ai-act-deepfake-ad-labels": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/size/w2000/2026/11/eu-ai-act-deep-fake-label-3-percent-fines-carousel-projector-flattered-kettle-across-sea.jpg",
+          "cap": "若美化实物的AI产品图未加标识，Non-EU广告制作方将面临营业额3%的罚款"
+        },
+        {
+          "t": "p",
+          "x": "欧盟委员会关于AI Act第50条透明度义务的指南已在《欧盟官方公报》上发布，编号为C/2026/6005。根据该指南，一家在EU以外设立的公司，若使用AI系统为在欧盟境内展示的广告生成名人深度伪造内容，即属于AI Act适用范围内的部署者。"
+        },
+        {
+          "t": "p",
+          "x": "AI-made的名人代言、试用产品的合成网红以及与实物不符的产品图片，都属于需要可见标识的深度伪造。仅委托代理机构、并不掌控其如何使用AI的公司，不算部署者。广告文案和产品描述只要不涉及健康、消费者安全或可持续性方面的声明，就不受文本规则约束。"
+        },
+        {
+          "t": "p",
+          "x": "部署者“不能依赖提供者嵌入内容中的机器可读标记”。违反第50条的罚款最高可达EUR 15,000,000或全球年营业总额的3%，以较高者为准。2026年8月2日之前投放市场的生成式系统，须在2026年12月2日前履行标记义务。"
+        }
+      ]
+    },
+    "marketing/nectar-creator-agent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2023/10/misbahfarah-together.jpg?w=1024",
+          "cap": "Nectar AI联合创始人Misbah Uraizee与Farah Uraizee"
+        },
+        {
+          "t": "p",
+          "x": "AI-powered营销操作系统Nectar将推出一款新的AI代理，旨在省去网红营销中的大量手工工作。其周四发布的新“Creator Agent”可以搜索创作者、核查其内容与品牌合作、发送个性化消息、协调合作并监测营销活动表现。"
+        },
+        {
+          "t": "p",
+          "x": "Nectar表示，Creator Agent会在超过3亿个创作者档案中搜索潜在合作伙伴，其中包括正在走红的小型创作者。它会分析视频以了解创作者发布的内容主题，并通过结合语境审查内容、而非仅搜索特定关键词，来检查品牌安全。"
+        },
+        {
+          "t": "p",
+          "x": "该代理能以品牌的口吻起草并发送消息、创建定制落地页，并协助管理合同、产品赠送和物流细节。CEO Misbah Uraizee对TechCrunch表示：“品牌可以用任何格式分享语调指南，其余的Nectar会从它们的历史记录中学习。”"
+        },
+        {
+          "t": "p",
+          "x": "Creator Agent今天起在全球上线，覆盖Instagram创作者和TikTokers。公司计划通过其Model Context Protocol（MCP）提供该功能，供Claude、ChatGPT、Gemini和Copilot等AI助手使用。"
+        }
+      ]
+    },
+    "marketing/podqi-chatbot-fake-retail-sites": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "一项新研究发现，使用AI聊天机器人研究商品或寻找购买渠道的购物者，可能会被引向冒牌网站及其他高风险网站。知识产权（IP）保护公司Podqi向ChatGPT、Gemini和Perplexity提出了涉及151个品牌的购物相关问题，例如“在网上哪里能找到[brand]？”"
+        },
+        {
+          "t": "p",
+          "x": "在总计6,795条回答中，三个AI引擎都引用并向购物者展示了高风险网站，即冒充真实零售商或售卖仿冒品的假网站、被重新注册的旧品牌域名，或已失效的网站。Gemini在百分之四的回答中展示了高风险网站，ChatGPT为百分之八，Perplexity表现最差，达百分之十五。小品牌似乎尤其容易受害。"
+        },
+        {
+          "t": "p",
+          "x": "在一次对话中，Perplexity把一个错误页面当作Stüssy的官方网站，并称其为“保证正品的最佳起点”。Podqi CEO兼联合创始人Trevor West说：“在输入个人信息或信用卡信息之前，最好始终先核实来源。”"
+        }
+      ]
+    },
+    "marketing/appsflyer-apple-ads-agent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/size/w2000/2026/11/appsflyer-apple-ads-share-of-voice-agent-bids-after-approval-vu-meter-arm-volume-knob-pull-cord.jpg",
+          "cap": "拧动旋钮：AppsFlyer首个可执行的智能体在获批后调整Apple Ads出价"
+        },
+        {
+          "t": "p",
+          "x": "AppsFlyer今天推出一款进入封闭测试的Apple Ads智能体，可在营销人员批准后更改关键词出价，这是该公司产品线中首个不止提供建议、而是直接执行操作的智能体。Apple Ads Share of Voice Agent会按关键词和地区估算声量份额（share of voice），在广告主“偏离目标（off target）”时建议调整出价，并直接从AppsFlyer在Apple Ads中执行。使用需通过客户成功经理开通。"
+        },
+        {
+          "t": "p",
+          "x": "公告没有说明声量份额如何估算、出价通过哪个Apple接口提交（Campaign Management API将于2027年1月26日停用），也没有说明如何确保审批。Apple的Maximize Conversions广告系列根本不允许设置关键词出价。"
+        },
+        {
+          "t": "p",
+          "x": "AppsFlyer还推出了Create an Agent，可根据用平实语言描述的工作流程构建自定义智能体，并按计划把分析、根因分析和建议发送到Slack或电子邮件。新增的四项MCP功能向“任何MCP客户端（any MCP client）”开放Protect360欺诈数据、创意层级的效果、OneLink创建（仅在批准后）以及合作伙伴集成设置。"
+        },
+        {
+          "t": "p",
+          "x": "AppsFlyer的VP Product Inna Weiner表示：“营销团队正从手动编排广告活动转向由智能体执行。”公司未公布定价、客户成效或正式上线日期。"
+        }
+      ]
     }
   }
 }

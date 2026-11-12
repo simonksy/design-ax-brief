@@ -1,101 +1,106 @@
 {
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "section": "gadgets",
   "items": [
     {
-      "title": "Google brings the Gemini app to Apple CarPlay",
-      "url": "https://www.engadget.com/2314093/google-brings-the-gemini-app-to-apple-carplay/",
-      "source": "Engadget",
+      "title": "Samsung Announces December Release for Intelligent Eyewear, Bringing a Smarter Way To See the World",
+      "url": "https://news.samsung.com/global/samsung-announces-december-release-for-intelligent-eyewear-bringing-a-smarter-way-to-see-the-world",
+      "source": "Samsung Global Newsroom",
+      "domain": "news.samsung.com",
       "category": "gadgets",
       "tool": "Gadgets",
       "accent": "#ff5a4d",
       "motif": "headset",
-      "published_iso": "2026-11-11T19:54:55+00:00",
-      "og_image": "https://www.engadget.com/img/gallery/google-brings-the-gemini-app-to-apple-carplay/l-intro-1794426857.jpg",
-      "excerpt": "The chatbot was already available through the Google Maps app.",
-      "rationale": "Gemini lands as a standalone app on CarPlay, so iPhone drivers get Google's assistant in the dash; this is a new platform launch."
+      "published_iso": "2026-11-12T23:00:00+09:00",
+      "og_image": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/11/12154033/Samsung-Mobile-Intelligent-Eyewear-Launch-Gentle-Monster-Warby-Parker_Thumb932.jpg",
+      "excerpt": "Combining Samsung engineering with 30 unique designs from Gentle Monster and Warby Parker,",
+      "rationale": "Primary-source launch of the Gemini-powered Android XR glasses (30 Gentle Monster/Warby Parker frames, $395/$449, Dec 10 release in US/Korea); the single eyewear card the run allows."
     },
     {
-      "title": "Blue Phone gives Google's Pixel 10 Pro an AI assistant that goes beyond Gemini",
-      "url": "https://www.androidauthority.com/blue-os-google-pixel-10-pro-3733835/",
-      "source": "Android Authority",
+      "title": "Windows 11 Photos is getting Adobe's generative AI tools in December",
+      "url": "https://www.notebookcheck.net/Windows-11-Photos-is-getting-Adobe-s-generative-AI-tools-in-December.1447789.0.html",
+      "source": "Notebookcheck",
+      "domain": "notebookcheck.net",
       "category": "gadgets",
       "tool": "Gadgets",
       "accent": "#0070f3",
       "motif": "headset",
-      "published_iso": "2026-11-11T18:00:13+00:00",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2025/09/google-pixel-10-pro-screen-on-home-screen-scaled.jpg",
-      "excerpt": "Blue phone brings an AI-powered operating system to Pixel 10 Pro, letting an assistant handle tasks across apps.",
-      "rationale": "A third-party agentic OS on a Pixel that acts across apps. It is a concrete new product in the AI-phone race."
+      "published_iso": "2026-11-11T11:21:00+01:00",
+      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Adobe-Max.jpg",
+      "excerpt": "Adobe and Microsoft are bringing generative AI image editing and Adobe Express integration to Windows 11 Photos, with a preview scheduled for Windows Insiders in December 2026. The partnership also introduces performance optimizations for Adobe products on Nvidia RTX Spark-powered Windows PCs.",
+      "rationale": "Adobe generative editing lands inside the default Windows photo app (Insider preview in December), so a built-in OS tool now gets Adobe-grade AI edits."
     },
     {
-      "title": "Bizarre AI chip demo uses butter to highlight how new chip runs 40 degrees cooler than the competition",
-      "url": "https://www.tomshardware.com/tech-industry/data-centers/deepx-ai-chip-runs-so-cool-that-a-butter-heatsink-doesnt-melt-the-dx-m1-processor-impresses-in-a-bizarre-new-dairy-based-benchmark",
-      "source": "Tom's Hardware",
-      "category": "gadgets",
-      "tool": "Gadgets",
-      "accent": "#f5a623",
-      "motif": "headset",
-      "published_iso": "2026-11-09T15:15:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/ZgC56W69q8WA6rhcBjxWKn-1920-80.jpg",
-      "excerpt": "South Korean chip startup DEEPX says its new AI chip will be at the heart of upcoming Hyundai robots.",
-      "rationale": "A memorable demo of a low-heat edge AI chip from a Korean company, with a Hyundai robot tie-in. It covers on-device AI hardware."
-    },
-    {
-      "title": "Gigabyte takes on Mac Studio with a tiny AI PC powered by Nvidia RTX Spark",
-      "url": "https://www.notebookcheck.net/Gigabyte-takes-on-Mac-Studio-with-a-tiny-AI-PC-powered-by-Nvidia-RTX-Spark.1447215.0.html",
-      "source": "Notebookcheck",
+      "title": "MSI’s Compact AI Desktop Packs Up to 128GB of Unified Memory | MSI EdgeMesa N AI",
+      "url": "https://the-gadgeteer.com/2026/11/11/msi-edgemesa-n-ai-desktop/",
+      "source": "The Gadgeteer",
+      "domain": "the-gadgeteer.com",
       "category": "gadgets",
       "tool": "Gadgets",
       "accent": "#7928ca",
       "motif": "headset",
-      "published_iso": "2026-11-10T20:45:00+01:00",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/gigabyte-ai-top-aero-nvidia-rtx-spark.jpg",
-      "excerpt": "Gigabyte has launched the AI Top Aero, a compact desktop powered by Nvidia's RTX Spark platform and designed for local AI development, content creation and gaming. Its one-liter chassis packs a 20-core Grace CPU, a Blackwell GPU and up to 128 GB of memory, making it a Windows-bas",
-      "rationale": "A newly launched one-litre RTX Spark desktop with 128GB for local AI and creative work. It is a buyable Windows alternative to the Mac Studio."
+      "published_iso": "2026-11-11T06:00:00-06:00",
+      "og_image": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-005US-AI-Supercomputer-Desktop-Cover.jpeg",
+      "excerpt": "MSI’s EdgeMesa N AI+ pairs up to 128GB of unified memory with NVIDIA Blackwell graphics in a compact desktop built for local AI development.",
+      "rationale": "New MSI product launch: a compact desktop built for running and developing AI models locally (up to 128GB unified memory, Nvidia Blackwell), so AI is the device's purpose, not a side feature."
     },
     {
-      "title": "Google Home update fixes Nest 'Live View' issues, improves Nest Hub and Gemini for speakers",
-      "url": "https://9to5google.com/2026/11/11/google-home-update-nest-hub-gemini-cameras/",
-      "source": "9to5Google",
+      "title": "Anker’s tiny AI recorder gets voice dictation support with Typeless",
+      "url": "https://www.digitaltrends.com/computing/anker-soundcore-work-typeless-ai-dictation/",
+      "source": "Digital Trends",
+      "domain": "digitaltrends.com",
       "category": "gadgets",
       "tool": "Gadgets",
       "accent": "#2ec5c5",
       "motif": "headset",
-      "published_iso": "2026-11-11T19:30:00+00:00",
-      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2024/04/Voice-controls-from-Nest-Hub-Photo-frame-view.jpg?quality=82&strip=all&resize=1200,628",
-      "excerpt": "A new Google Home update is rolling out with a fix for “Live View” issues affecting Nest Cam devices, improvements...",
-      "rationale": "The November Google Home release improves Gemini on speakers and the Nest Hub. It is a new rollout that differs from the 10-30 phrase-bug fix."
+      "published_iso": "2026-11-11T17:44:14-08:00",
+      "og_image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Anker-Soundcore-Work-Typeless.jpg?resize=1200%2C630&ssl=1",
+      "excerpt": "Typeless, the AI-powered voice dictation and text-processing app, has just announced an official partnership with Anker to bring its AI voice dictation app to the Soundcore Work wearable microphone. The tiny recorder isn’t exactly new, though. Anker introduced it at CES 2026, and it has been on sale for quite some time. The latest integration […]",
+      "rationale": "New partnership turns an existing wearable AI recorder into a dictation input: Typeless voice-to-text now runs through the Soundcore Work mic."
+    },
+    {
+      "title": "Apple Says HomeView Software Update Coming Next Month With Siri Fix",
+      "url": "https://www.macrumors.com/2026/11/12/apple-plans-homeview-update-with-siri-fix/",
+      "source": "MacRumors",
+      "domain": "macrumors.com",
+      "category": "gadgets",
+      "tool": "Gadgets",
+      "accent": "#eb367f",
+      "motif": "headset",
+      "published_iso": "2026-11-12T14:19:13+00:00",
+      "og_image": "https://images.macrumors.com/t/PcvtzDz-CC6xLnTkUzpoizZN5MQ=/2000x/article-new/2026/10/homeview-wall-mount.jpg",
+      "excerpt": "In her HomeView review shared in a free edition of her New Things newsletter today, tech journalist Joanna Stern said Siri AI once told her \"I don't have a camera to see you,\" even though the device has a camera. Apple confirmed to Stern that it plans to release a software update in December with a fix for this issue. Siri AI also refused to open Stern's garage door or unlock her front door, even ",
+      "rationale": "Apple confirms a December HomeView update to fix Siri AI failures found in the first reviews, a concrete new commitment beyond the October launch coverage."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.engadget.com/2314093/google-brings-the-gemini-app-to-apple-carplay/": {
+      "https://news.samsung.com/global/samsung-announces-december-release-for-intelligent-eyewear-bringing-a-smarter-way-to-see-the-world": {
+        "verdict": "follow-up",
+        "nearest": "https://www.androidauthority.com/samsung-smart-glasses-pre-orders-3732159/",
+        "new_action": "Official launch announcement on 11-12: full 30-frame lineup (16 Gentle Monster, 14 Warby Parker), pricing ($395/$449) and a firm Dec 10 US/Korea release date. The 11-06 card only reported that pre-orders would open."
+      },
+      "https://www.notebookcheck.net/Windows-11-Photos-is-getting-Adobe-s-generative-AI-tools-in-December.1447789.0.html": {
         "verdict": "new",
-        "nearest": "https://www.androidauthority.com/gemini-notebook-connected-app-3727634/",
+        "nearest": "https://www.macrumors.com/2026/10/14/apple-intelligence-china-ios-27-3/",
         "new_action": ""
       },
-      "https://www.androidauthority.com/blue-os-google-pixel-10-pro-3733835/": {
+      "https://the-gadgeteer.com/2026/11/11/msi-edgemesa-n-ai-desktop/": {
         "verdict": "new",
-        "nearest": "https://www.androidauthority.com/gemini-overlay-sparkling-animation-rollout-3729835/",
+        "nearest": "https://www.notebookcheck.net/Gigabyte-takes-on-Mac-Studio-with-a-tiny-AI-PC-powered-by-Nvidia-RTX-Spark.1447215.0.html",
         "new_action": ""
       },
-      "https://www.tomshardware.com/tech-industry/data-centers/deepx-ai-chip-runs-so-cool-that-a-butter-heatsink-doesnt-melt-the-dx-m1-processor-impresses-in-a-bizarre-new-dairy-based-benchmark": {
+      "https://www.digitaltrends.com/computing/anker-soundcore-work-typeless-ai-dictation/": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
       },
-      "https://www.notebookcheck.net/Gigabyte-takes-on-Mac-Studio-with-a-tiny-AI-PC-powered-by-Nvidia-RTX-Spark.1447215.0.html": {
-        "verdict": "new",
-        "nearest": "https://www.notebookcheck.net/RTX-Spark-mini-PC-promises-to-overcome-memory-limitations-using-Mechrevo-s-unusual-AI-SSD.1422107.0.html",
-        "new_action": ""
-      },
-      "https://9to5google.com/2026/11/11/google-home-update-nest-hub-gemini-cameras/": {
-        "verdict": "new",
-        "nearest": "https://9to5google.com/2026/10/29/google-home-gemini-update-fixes-understand-phrase-bug/",
-        "new_action": ""
+      "https://www.macrumors.com/2026/11/12/apple-plans-homeview-update-with-siri-fix/": {
+        "verdict": "follow-up",
+        "nearest": "https://arstechnica.com/apple/2026/10/apple-homeview-smart-home-hub-opens-for-preorders-at-299/",
+        "new_action": "Apple confirmed a December HomeView software update that fixes Siri AI failures (camera denial, refusing door and garage commands). This is a new vendor commitment, not more launch coverage. The tagged match 9to5mac 2026-10-18 (next-gen HomeView rumor) is a different story."
       }
     },
-    "note": "Dropped as duplicates: Aina AI ring (Notebookcheck), the same product as the 11-06 Wired Aina exclusive; Nothing record-button teaser, another teaser for the device already published 11-05 (Verge) with no new launch. Dropped within the pool: 9to5Google 'Google Home brings back sounds for Gemini', the same-day Google Home update cluster (kept the update-notes article); MSI EdgeMesa N, overlapping with Gigabyte AI Top Aero (both 128GB Blackwell local-AI mini desktops; kept one). Skipped on other grounds: Windows 11 Photos x Adobe gen AI (Adobe MAX tie-in, reserved to keep clear of design's Adobe pick); Altman/Samsung vision (exec commentary); CNET Apple Intelligence camera requirements (evergreen explainer); Apple glasses supplier rumor (thin); Stingray salmon lasers (long-deployed product, AI incidental); One UI 9 Watch (AI incidental); etnews Antarctic robot marathon (the next-best fresh item, held as backfill). Cross-section: the picks are dated 11-09 to 11-11. published_urls.json was spot-read but not fully grepped (Read-only tools in this run). The orchestrator should exact-grep the five URLs before roll."
+    "note": "SWAP PASS: removed Engadget 'Microsoft's Automatic Super Resolution is now officially out for the ROG Xbox Ally X' as a cross-section duplicate (games published the same Auto SR general release on 2026-11-12 via wccftech). Replacement: The Gadgeteer MSI EdgeMesa N AI. It is a different vendor and product from the 11-12 Gigabyte RTX Spark mini PC card (tagged 'related'), so it counts as a new launch. Other remaining candidates rejected for the swap: Samsung Health 'hyper-personalized insights in the future' (vague roadmap, no release; off-whitelist SamMobile), Lenovo Yoga 9n review (AI incidental), Kamrui P2 mini PC review (advertorial tone). Excluded per the swap brief: every Android XR glasses item, HomeView reviews and the WIRED face-auth analysis, and the Nothing teasers. Original pass: Android XR Intelligent Eyewear cluster limited to one card (Samsung primary). Dropped as the same launch: WIRED (likely-repeat), Engadget hands-on, Android Authority hands-on, CNET, The Verge, Digital Trends (likely-repeat), The Gadgeteer AR1, Tom's Guide privacy interview, etnews 삼성 AI 안경, 9to5Google 'Hey Gemini' hotword (likely-repeat of AA 10-17), and 9to5Google Pixel Watch/Fitbit Air gestures (a sub-feature). Apple HomeView reviews (Engadget, TechRadar) and WIRED face-auth were dropped as reviews and analysis of the HomeView published 10-14; MacRumors kept for its new Apple commitment. Nothing teasers (9to5Google, Notebookcheck) dropped as the same teaser The Verge ran 11-05. Diversity: 5 distinct outlets."
   }
 }

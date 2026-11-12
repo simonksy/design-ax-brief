@@ -4086,6 +4086,107 @@
           "x": "HCA's Michael Schlosser, M.D., said the company is “exploring how Gemini can interpret and synthesize complex patient information from multiple electronic health record systems and care settings.”"
         }
       ]
+    },
+    "medicine/medicare-wiser-ai-priorauth-docs": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.statnews.com/wp-content/uploads/2026/05/AP26023803702193-1024x576.jpg",
+          "cap": "Emilie Megnien/AP"
+        },
+        {
+          "t": "p",
+          "x": "New documents raise more questions about Medicare’s AI prior-authorization experiment. In this edition of STAT Health Tech: Oura's big bet on AI, a 'rumble strip' for clinical AI chatbots, and questions around Medicare’s AI prior-authorization experiment."
+        },
+        {
+          "t": "p",
+          "x": "The full newsletter is available to STAT+ subscribers."
+        }
+      ]
+    },
+    "medicine/fda-cms-states-healthai-oversight": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.statnews.com/wp-content/uploads/2025/07/AdobeStock_971648927_Editorial_Use_Only-1024x576.jpeg",
+          "cap": "Adobe"
+        },
+        {
+          "t": "p",
+          "x": "FDA, CMS look to collaborate with states on health AI. In this edition of STAT's Health Tech newsletter: Federal officials look to work with states on regulating AI, protecting doctors from AI liability, and more."
+        },
+        {
+          "t": "p",
+          "x": "The full newsletter is available to STAT+ subscribers."
+        }
+      ]
+    },
+    "medicine/jama-ai-interventional-trials-ctgov": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "This cross-sectional study examines the use of artificial intelligence (AI) in clinical trials conducted starting in 2022. Researchers analyzed interventional trials registered on ClinicalTrials.gov, with start dates from January 2022 onward, to characterize how AI use is planned and described."
+        },
+        {
+          "t": "p",
+          "x": "Of 8559 records returned by the search, the final cohort comprised 1212 interventional trials. Planned generative AI use, including large language models, rose sharply, from no trials starting in 2022 to 100 of 491 (20.4%) of those starting in 2025. Eight trials planned for use of AI agents for patient follow-up or health education delivery, among other purposes."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/df47/13749202/7f04ceea0423/jamanetwopen-e2642797-g001.webp",
+          "cap": "Bar Graphs of Characteristics of Included Trials"
+        },
+        {
+          "t": "p",
+          "x": "The most common clinical conditions were cancer (20.0%), neurological and mental health (19.6%), and cardiovascular and metabolic disease (18.6%). AI was most often used for screening and predictive modeling of disease risk or treatment selection (39.8%). The United States accounted for 303 trials (25.0%) and China for 149 (12.3%)."
+        },
+        {
+          "t": "p",
+          "x": "Because ClinicalTrials.gov has no structured AI fields or reporting requirements, method details were often absent; the authors say structured registry fields aligned with AI reporting standards would improve transparency."
+        }
+      ]
+    },
+    "medicine/npj-cancer-persistent-fever-ml": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Persistent fever after initiating intravenous antibiotics is common in hospitalized patients with cancer and often leads to additional imaging and antimicrobial escalation. The researchers developed and externally validated machine learning models to predict persistent fever 48–72 h after antibiotic initiation using electronic health records from two academic hospitals."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03449-w/MediaObjects/41746_2026_3449_Fig1_HTML.png",
+          "cap": "Fig. 1: Flow diagram illustrating the cohort extraction steps for the UME and BWH datasets."
+        },
+        {
+          "t": "p",
+          "x": "Final cohorts comprised 987 hospital stays at University Medicine Essen (UME) and 7409 hospital stays at Brigham and Women’s Hospital (BWH). The best-performing model achieved an AUROC of 0.82 (95% CI 0.79–0.84) internally and 0.78 (95% CI 0.77–0.79) externally. Temperature-related variables were the dominant predictors."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03449-w/MediaObjects/41746_2026_3449_Fig2_HTML.png",
+          "cap": "Fig. 2: Discrimination, clinical utility, and calibration of prediction models in the internal (UME) and external (BWH) validation cohorts."
+        },
+        {
+          "t": "p",
+          "x": "Approximately one quarter of antibiotic escalations and chest CT scans occurred in patients correctly predicted not to remain febrile. Clinical use should be limited to an adjunctive role rather than standalone rule-out decision-making, and prospective studies are required."
+        }
+      ]
+    },
+    "medicine/lancet-pharma-ad-llm": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Pharmaceutical advertising and drug recommendations by consumer-facing artificial intelligence: a controlled study — Mahmud Omar, Reem Agbareia, Jolion McGreevy, Alexis Zebrowski, Ashwin Ramaswamy, Michael A Gorin, Esther-Maria Antao, Benjamin S Glicksberg, Ankit Sakhuja, Alexander W Charney, Eyal Klang, Girish N Nadkarni."
+        },
+        {
+          "t": "p",
+          "x": "Advertising shifted treatment selection by LLMs towards the promoted drug. Guideline concordance remained high, meaning that shifts among guideline-concordant treatments could evade evaluations of treatment correctness."
+        },
+        {
+          "t": "p",
+          "x": "The influence of advertising was often undisclosed. Whether these output shifts could affect prescribing or patient decisions requires direct study."
+        }
+      ]
     }
   }
 }

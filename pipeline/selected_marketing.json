@@ -1,103 +1,101 @@
 {
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "section": "marketing",
-  "picks": [
+  "items": [
     {
-      "title": "AppsFlyer tests agent that changes Apple Ads bids once marketers approve",
-      "url": "https://ppc.land/appsflyer-tests-agent-that-changes-apple-ads-bids-once-marketers-approve/",
+      "title": "Google Ads Editor 2.14 turns on AI Max by default for new Search campaigns",
+      "url": "https://ppc.land/google-ads-editor-2-14-turns-on-ai-max-by-default-for-new-search-campaigns/",
       "source": "PPC Land",
+      "category": "marketing",
       "tool": "Marketing",
       "accent": "#ff8a3d",
       "motif": "frame",
-      "rationale": "Agentic bidding with a human-approval gate on Apple Ads plus 4 MCP fraud-data tools — a concrete new beta that changes how app marketers run keyword bids.",
-      "published_iso": "2026-11-11T20:44:50Z",
-      "og_image": "https://ppc.land/content/images/2026/11/appsflyer-apple-ads-share-of-voice-agent-bids-after-approval-vu-meter-arm-volume-knob-pull-cord.jpg",
-      "excerpt": "AppsFlyer is testing, in closed beta, an AI agent that changes Apple Ads keyword bids based on estimated share of voice per keyword and geo once app marketers approve; four MCP tools add fraud data."
+      "published_iso": "2026-11-12T12:44:59Z",
+      "og_image": "https://ppc.land/content/images/2026/11/google-ads-editor-2-14-ai-max-default-new-search-campaigns-prepunched-punch-cards-inspector.jpg",
+      "excerpt": "Google Ads Editor 2.14 activates AI Max, text asset automation and Final URL expansion by default when advertisers create new Search campaigns, among 10 changes that also include retention-only bidding and loss of the Shopping local inventory toggle.",
+      "rationale": "New tool release that flips AI Max on by default for every new Search campaign built in Editor; buyers have to opt out deliberately starting tomorrow."
     },
     {
-      "title": "Media Rating Council sets Q1 2027 draft for first AI measurement standards",
-      "url": "https://ppc.land/media-rating-council-sets-q1-2027-draft-for-first-ai-measurement-standards/",
-      "source": "PPC Land",
+      "title": "Google Ads Disallows Impersonating Public Figures With AI, Even If Disclosed",
+      "url": "https://www.seroundtable.com/google-ads-disallows-impersonate-public-figures-ai-42512.html",
+      "source": "Search Engine Roundtable",
+      "category": "marketing",
       "tool": "Marketing",
       "accent": "#0070f3",
       "motif": "frame",
-      "rationale": "First AI-specific ad measurement standards from the MRC with a dated timeline (Q1 2027 draft, mid-2027 phase two) — sets the audit bar every AI ad product will be held to.",
-      "published_iso": "2026-11-11T07:38:41Z",
-      "og_image": "https://ppc.land/content/images/2026/11/mrc-ai-measurement-standards-q1-2027-draft-7-rulebooks-standard-weights-case-paper-template.jpg",
-      "excerpt": "The MRC says a draft of its first AI-specific ad measurement standards will arrive in Q1 2027, with a second phase by mid-2027; AI use is meanwhile audited under 7 existing rulebooks and 9 principles."
+      "published_iso": "2026-11-12T07:51:00-05:00",
+      "og_image": "https://images.seroundtable.com/google-doc-change-hAyqlNeM.png",
+      "excerpt": "Google Ads clarified its Unacceptable Business Practices policy: ads that impersonate public figures with AI-generated or AI-edited likenesses are banned even when they carry an AI disclosure, with suspension on detection and no warning.",
+      "rationale": "New platform policy with immediate, no-warning account suspension for AI likenesses of public figures; disclosure no longer protects the ad."
     },
     {
-      "title": "Reddit Taps Qloo To Strengthen Its Predictive Targeting",
-      "url": "https://www.adexchanger.com/marketers/reddit-taps-qloo-to-strengthen-its-predictive-targeting/",
-      "source": "AdExchanger",
+      "title": "Non-EU advertisers face 3% EU fines for unlabelled AI deep fake ads",
+      "url": "https://ppc.land/non-eu-advertisers-face-3-eu-fines-for-unlabelled-ai-deep-fake-ads/",
+      "source": "PPC Land",
+      "category": "marketing",
       "tool": "Marketing",
       "accent": "#7928ca",
       "motif": "frame",
-      "rationale": "New targeting partnership: Reddit adds Qloo's AI taste-graph to model correlated interests for ad targeting — directly changes what buyers can target on Reddit.",
-      "published_iso": "2026-11-10T14:00:12Z",
-      "og_image": "https://www.adexchanger.com/wp-content/uploads/2026/11/shutterstock_2735591353-scaled.jpg",
-      "excerpt": "Reddit partners with AI taste-intelligence firm Qloo to model correlated interests and target users with more relevant ads."
+      "published_iso": "2026-11-12T13:33:30Z",
+      "og_image": "https://ppc.land/content/images/2026/11/eu-ai-act-deep-fake-label-3-percent-fines-carousel-projector-flattered-kettle-across-sea.jpg",
+      "excerpt": "Under EU AI Act transparency rules, synthetic influencers and AI product shots that misstate an item count as deep fakes requiring labels, with fines up to 3% for non-EU advertisers; ad copy stays exempt and older AI tools must add watermarks by December 2.",
+      "rationale": "Concrete compliance line for ad creative (synthetic influencers and altered product shots must be labelled, Dec 2 watermark deadline) that also reaches advertisers outside the EU."
     },
     {
-      "title": "\"내 광고 분석해줘\"…챗GPT 도입한 당근",
-      "url": "https://www.hankyung.com/article/2026110957441",
-      "source": "한국경제",
+      "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+      "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+      "source": "TechCrunch",
+      "category": "marketing",
       "tool": "Marketing",
       "accent": "#2ec5c5",
       "motif": "frame",
-      "rationale": "Korean ad platform opens ad create/edit API to ChatGPT so small advertisers can run and analyze Danggeun ads by chat — concrete new ad-buying surface, Korean market.",
-      "published_iso": "2026-11-09T17:29:30+09:00",
-      "og_image": "https://img.hankyung.com/photo/202611/AA.46366592.1.jpg",
-      "excerpt": "당근이 챗GPT에 광고 등록·수정 API를 개방해 광고주가 챗GPT에서 광고를 다루고 분석을 요청할 수 있게 했다. 소상공인 광고주 증가를 기대한다."
+      "published_iso": "2026-11-12T19:11:00+00:00",
+      "og_image": "https://techcrunch.com/wp-content/uploads/2023/10/misbahfarah-together.jpg?resize=1200,676",
+      "excerpt": "Nectar's new Creator Agent searches for creators, checks their content and prior brand partnerships, sends personalized outreach, coordinates collaborations and tracks campaign performance for brands' influencer programs.",
+      "rationale": "Product launch that brings agents into paid creator partnerships, a category the section has not covered in the last 30 days."
     },
     {
-      "title": "United won't let your AI agent book your flight",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+      "title": "AI chatbots are recommending fake retail websites, study finds",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-fake-websites",
       "source": "The Verge",
+      "category": "marketing",
       "tool": "Marketing",
       "accent": "#eb367f",
       "motif": "frame",
-      "rationale": "New rule from a major airline banning AI agents from buying tickets/seats/upgrades even under supervision — a sales channel being closed to agentic commerce.",
-      "published_iso": "2026-11-11T21:54:21Z",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23176430/1237621702.jpg?quality=90&strip=all&crop=0%2C10.721800295556%2C100%2C78.556399408888&w=1200",
-      "excerpt": "United's new rule bans AI agents from buying tickets, seats and upgrades even when a traveler supervises each step, limiting assistants like Muse and Dots as a sales channel."
+      "published_iso": "2026-11-12T17:00:00+00:00",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "excerpt": "A Podqi study prompting ChatGPT, Gemini and Perplexity with shopping questions about 151 brands found the chatbots steering shoppers to impostor and risky retail sites, with Perplexity performing worst.",
+      "rationale": "New study across 151 brands showing AI shopping answers send buyers to impostor stores, a direct risk to brands' AI-channel sales right before the holidays."
     }
-  ],
-  "items": [
-    {"url": "https://ppc.land/appsflyer-tests-agent-that-changes-apple-ads-bids-once-marketers-approve/", "source": "PPC Land", "tool": "Marketing", "accent": "#ff8a3d", "motif": "frame", "rationale": "Agentic Apple Ads bidding with human approval gate (closed beta).", "published_iso": "2026-11-11T20:44:50Z", "og_image": "https://ppc.land/content/images/2026/11/appsflyer-apple-ads-share-of-voice-agent-bids-after-approval-vu-meter-arm-volume-knob-pull-cord.jpg", "excerpt": "AppsFlyer is testing, in closed beta, an AI agent that changes Apple Ads keyword bids based on estimated share of voice per keyword and geo once app marketers approve; four MCP tools add fraud data."},
-    {"url": "https://ppc.land/media-rating-council-sets-q1-2027-draft-for-first-ai-measurement-standards/", "source": "PPC Land", "tool": "Marketing", "accent": "#0070f3", "motif": "frame", "rationale": "MRC's first AI ad measurement standards timeline.", "published_iso": "2026-11-11T07:38:41Z", "og_image": "https://ppc.land/content/images/2026/11/mrc-ai-measurement-standards-q1-2027-draft-7-rulebooks-standard-weights-case-paper-template.jpg", "excerpt": "The MRC says a draft of its first AI-specific ad measurement standards will arrive in Q1 2027, with a second phase by mid-2027; AI use is meanwhile audited under 7 existing rulebooks and 9 principles."},
-    {"url": "https://www.adexchanger.com/marketers/reddit-taps-qloo-to-strengthen-its-predictive-targeting/", "source": "AdExchanger", "tool": "Marketing", "accent": "#7928ca", "motif": "frame", "rationale": "Reddit adds Qloo AI taste-graph to ad targeting.", "published_iso": "2026-11-10T14:00:12Z", "og_image": "https://www.adexchanger.com/wp-content/uploads/2026/11/shutterstock_2735591353-scaled.jpg", "excerpt": "Reddit partners with AI taste-intelligence firm Qloo to model correlated interests and target users with more relevant ads."},
-    {"url": "https://www.hankyung.com/article/2026110957441", "source": "한국경제", "tool": "Marketing", "accent": "#2ec5c5", "motif": "frame", "rationale": "Danggeun opens ad API to ChatGPT for small advertisers.", "published_iso": "2026-11-09T17:29:30+09:00", "og_image": "https://img.hankyung.com/photo/202611/AA.46366592.1.jpg", "excerpt": "당근이 챗GPT에 광고 등록·수정 API를 개방해 광고주가 챗GPT에서 광고를 다루고 분석을 요청할 수 있게 했다. 소상공인 광고주 증가를 기대한다."},
-    {"url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents", "source": "The Verge", "tool": "Marketing", "accent": "#eb367f", "motif": "frame", "rationale": "United bans AI agents from buying tickets — agentic sales channel closed.", "published_iso": "2026-11-11T21:54:21Z", "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23176430/1237621702.jpg?quality=90&strip=all&crop=0%2C10.721800295556%2C100%2C78.556399408888&w=1200", "excerpt": "United's new rule bans AI agents from buying tickets, seats and upgrades even when a traveler supervises each step, limiting assistants like Muse and Dots as a sales channel."}
   ],
   "dedup": {
     "checks": {
-      "https://ppc.land/appsflyer-tests-agent-that-changes-apple-ads-bids-once-marketers-approve/": {
+      "https://ppc.land/google-ads-editor-2-14-turns-on-ai-max-by-default-for-new-search-campaigns/": {
         "verdict": "new",
-        "nearest": "https://ppc.land/apple-patent-describes-ai-that-repaints-app-screenshots-per-keyword/",
+        "nearest": "https://ppc.land/google-turns-on-pmax-image-extraction-by-default-from-december-4/",
         "new_action": ""
       },
-      "https://ppc.land/media-rating-council-sets-q1-2027-draft-for-first-ai-measurement-standards/": {
+      "https://www.seroundtable.com/google-ads-disallows-impersonate-public-figures-ai-42512.html": {
+        "verdict": "new",
+        "nearest": "https://www.seroundtable.com/google-ads-expands-ai-content-label-disclosure-42461.html",
+        "new_action": ""
+      },
+      "https://ppc.land/non-eu-advertisers-face-3-eu-fines-for-unlabelled-ai-deep-fake-ads/": {
+        "verdict": "new",
+        "nearest": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+        "new_action": ""
+      },
+      "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
       },
-      "https://www.adexchanger.com/marketers/reddit-taps-qloo-to-strengthen-its-predictive-targeting/": {
+      "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-fake-websites": {
         "verdict": "new",
-        "nearest": "",
-        "new_action": ""
-      },
-      "https://www.hankyung.com/article/2026110957441": {
-        "verdict": "new",
-        "nearest": "https://www.hankyung.com/article/202611057601i",
-        "new_action": ""
-      },
-      "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents": {
-        "verdict": "new",
-        "nearest": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
+        "nearest": "https://www.searchenginejournal.com/3-ai-models-shopped-shopifys-catalog-each-picked-a-different-winner/594298/",
         "new_action": ""
       }
     },
-    "note": "Dropped as duplicates/follow-ups: SEJ 'Google Ads Now Runs In AI Mode Across 10 More Countries' (same running expansion as blog.google 'Ads in AI Mode expand to new markets' 10-29 and seroundtable AI Mode four ads 11-05); SEJ 'Meta Pauses Its Updated Business And Ad Terms' (running Meta-terms story, 10-17 SEJ / 10-18 TechCrunch); AdExchanger 'In OpenAI's Ad Business, Advertisers Come Third' (interview on running ChatGPT-ads story, nearest Digiday 11-11); AdExchanger 11/11 daily roundup (roundup); IAB Tech Lab OneTag member perspective (commentary on agentic standards, nearest PPC Land 10-25). Dropped on scope/quality: Digiday Amazon auction trial (analysis), Adweek AI-or-not and Marketing Dive synthetic audiences (opinion), Salesforce sales-agent data (vendor promo), edaily outlook (off-list forecast), Sendbird (vendor launch), MLQ.ai JD Singles Day (off-list secondary). Skipped 매일경제 Adobe marketing agents per brief (Adobe MAX already covered 11-11 in design; distinctness from design's Adobe pick unconfirmed). eBay blocks third-party agents (Verge) is same-theme as United and The Verge kept to 1; United is fresher. DecryptAds AI recipe-sites (related to AI-slop MFA 10-21/10-30) held out to keep PPC Land at 2. Cross-section published_urls.json was too large to scan fully without grep; orchestrator should exact-grep the 5 URLs before roll."
+    "note": "Pool 17. Checked against the 30-day marketing history_digest and against politics history/candidates for cross-section overlap (none: politics has no EU AI Act ad-label or DFA item). Dropped as duplicate or running story: PPC Land United/EU DFA (United bans AI agents from booking already ran 11-12 via The Verge; the article is mostly that story); AdExchanger daily roundup (rehash, ChatGPT ad formats already covered). Passed over, not duplicates: SER ChatGPT Ads intelligent bidding (a legitimate follow-up to the 11-07 bidding update, but ChatGPT Ads has run 4 times in 30 days, and a 3rd outlet slot went to The Verge for diversity); Viant/Waymark (an acquisition interview, excluded as M&A); Digiday IAB attribution blueprint (sits right next to the MRC standards card from 11-12); Digiday Mars and Amazon auction (interview/analysis); Schibsted/Nodals (publisher yield tooling, weaker); Salesforce x2 (vendor-published survey data); etnews Visa (conference talk; the Visa agent benchmark already ran 11-08); Reddit AI review summaries (product discovery feature, ad link is weak). Outlets: PPC Land 2, SER 1, TechCrunch 1, The Verge 1."
   }
 }

@@ -1,160 +1,160 @@
 {
- "section": "medicine",
- "now_iso": "2026-11-11T22:00:41Z",
- "window_hours": 336,
- "items": [
-  {
-   "title": "AI triage algorithms yield varied results in real-world use",
-   "url": "https://www.auntminnie.com/resources/conference/rsna/2026/artificial-intelligence-preview/article/16425184/ai-triage-algorithms-yield-varied-results-in-realworld-use",
-   "source": "AuntMinnie",
-   "category": "medicine",
-   "published_iso": "2026-11-11T12:00:00Z",
-   "excerpt": "RSNA 2026 preview: University of Washington evaluated staged system-wide deployment of multiple AI triage tools across 742,000+ imaging exams. Turnaround fell 76% for endotracheal tube malposition, 53% for rib fracture and 29% for vessel occlusion, but PE and intracranial hemorrhage saw no improvement.",
-   "og_image": null
-  },
-  {
-   "title": "AI may not improve patient outcomes for stroke",
-   "url": "https://www.auntminnie.com/resources/conference/rsna/2026/artificial-intelligence-preview/article/16425178/ai-may-not-improve-patient-outcomes-for-stroke",
-   "source": "AuntMinnie",
-   "category": "medicine",
-   "published_iso": "2026-11-11T12:00:00Z",
-   "excerpt": "RSNA 2026 preview: Northwell/Hofstra compared 876 acute ischemic stroke patients before and after five AI tools were introduced at a comprehensive stroke center; no significant change in good functional outcome at discharge, though CT angiography within 60 minutes rose sharply.",
-   "og_image": null
-  },
-  {
-   "title": "AI shines as worklist prioritization tool in detecting PE",
-   "url": "https://www.auntminnie.com/resources/conference/rsna/2026/artificial-intelligence-preview/article/16425185/ai-shines-as-worklist-prioritization-tool-in-detecting-pe",
-   "source": "AuntMinnie",
-   "category": "medicine",
-   "published_iso": "2026-11-11T12:00:00Z",
-   "excerpt": "RSNA 2026 preview: Northwell study of 90,000+ CTPA exams found an FDA-cleared AI that bumps PE-positive scans up the worklist correctly reprioritized 84% with <1% false-positive elevation, cutting wait times ~41 minutes in resident workflows; no effect for attending-only reads.",
-   "og_image": null
-  },
-  {
-   "title": "공공의료 AI 고속도로 첫 개통...29년까지 전국 72개 공공병원 연결",
-   "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3016223",
-   "source": "의학신문(일간보사)",
-   "category": "medicine",
-   "published_iso": "2026-11-11T20:25:39+09:00",
-   "excerpt": "[의학신문·일간보사=이재원 기자] 정부가 수도권 대형병원에 집중됐던 첨단 의료 인공지능(AI)을 지역 공공병원으로 확산하기 위한 '공공의료 AI 고속도로' 구축에",
-   "og_image": "https://cdn.bosa.co.kr/news/photo/202611/3016223_417127_2433.jpg"
-  },
-  {
-   "title": "의정갈등 속 업무 혼선 AI로…해운대백병원 간호국이 이끈 변화",
-   "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044422",
-   "source": "청년의사",
-   "category": "medicine",
-   "published_iso": "2026-11-10T07:00:32+09:00",
-   "excerpt": "신규 간호사 채용부터 약 1,500명에 달하는 간호인력 관리, 신입 간호사 교육과 성장 지원까지. 해운대백병원 간호국이 인공지능(AI)을 활용하는 분야가 다양해지고 있다. 반복적인 행정업무를 자동화하고 간호사 개인별 성장 수준을 체계적으로 관리하기 위해서다.특히 의정갈등 이후 인턴 복귀로 진료지원(PA) 간호사와의 업무분장이 달라지면서 혼선이 빚어진 현장에서는 AI 챗봇의 도움을 톡톡히 받았다.해운대백병원 간호국은 지난 6일 부산 해운대백병원에서 열린 'HiPex(Hospital Innovation and Patient Experi",
-   "og_image": "https://cdn.docdocdoc.co.kr/news/thumbnail/202611/3044422_3048370_5656_v150.jpg"
-  },
-  {
-   "title": "\"환자 눈 보는 동안 기록은 AI가\"…33년차 외과의가 만든 '왕진 도구'",
-   "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044404",
-   "source": "청년의사",
-   "category": "medicine",
-   "published_iso": "2026-11-10T06:35:28+09:00",
-   "excerpt": "초고령사회에 접어들면서 방문진료(왕진)의 역할이 커지고 있지만, 현장에는 여전히 참여를 망설이는 의사가 많다. 복잡한 수가 체계와 이동 동선 관리도 문제지만, 환자 집에서 진료를 마친 뒤 차량이나 의원으로 돌아와 다시 붙잡아야 하는 진료 기록과 서식 작성이 큰 부담이기 때문이다.이 문제를 직접 풀겠다고 나선 의사가 있다. 왕진연구소 김주형 대표(집으로의원 대표원장)다. 33년 임상 경력의 외과 전문의인 김 대표는 2023년부터 방문진료를 해왔고, 같은 해 4월 방문진료 기록 작성과 운영 체계화를 지원하는 왕진연구소를 세웠다.김 대표",
-   "og_image": "https://cdn.docdocdoc.co.kr/news/thumbnail/202611/3044404_3048383_2057_v150.jpg"
-  },
-  {
-   "title": "AI improves trainee doctors' ear disease diagnostic accuracy by 32.2 percentage points: AMC",
-   "url": "https://www.koreabiomed.com/news/articleView.html?idxno=33776",
-   "source": "Korea Biomedical Review",
-   "category": "medicine",
-   "published_iso": "2026-11-09T11:15:14+09:00",
-   "excerpt": "AI assistance significantly improved physicians’ accuracy in diagnosing middle ear diseases from endoscopic images, with junior trainee doctors showing the largest gain of 32.2 percentage points, a study at Asan Medical Center (AMC) found.The team, led by Professors Ahn Joong-ho of the Department of",
-   "og_image": "https://cdn.koreabiomed.com/news/thumbnail/202611/33776_36923_855_v150.jpg"
-  },
-  {
-   "title": "Lunit wins Saudi National Guard healthcare AI imaging deal",
-   "url": "https://www.koreabiomed.com/news/articleView.html?idxno=33795",
-   "source": "Korea Biomedical Review",
-   "category": "medicine",
-   "published_iso": "2026-11-10T10:28:25+09:00",
-   "excerpt": "Lunit, a Korean medical AI company, said Tuesday it has secured a deal to supply its AI-powered medical imaging software to Saudi Arabia's Ministry of National Guard Health Affairs (MNGHA), expanding its presence in the country's healthcare market.The deployment will be handled through solutions by",
-   "og_image": "https://cdn.koreabiomed.com/news/thumbnail/202611/33795_36946_2722_v150.jpg"
-  },
-  {
-   "title": "Pediatric emergency specialist turns to AI as staffing fears deepen",
-   "url": "https://www.koreabiomed.com/news/articleView.html?idxno=33783",
-   "source": "Korea Biomedical Review",
-   "category": "medicine",
-   "published_iso": "2026-11-09T14:07:19+09:00",
-   "excerpt": "A pediatric emergency specialist at Samsung Medical Center says fears of staffing shortages drove her to develop an AI agent that gathers information from parents before they meet medical staff.“These are heavy-hearted days. Conditions are tough, and the news is so devastating that I find myself won",
-   "og_image": "https://cdn.koreabiomed.com/news/thumbnail/202611/33783_36929_629_v150.jpg"
-  },
-  {
-   "title": "Pharmaceutical advertising and drug recommendations by consumer-facing artificial intelligence: a controlled study",
-   "url": "https://www.thelancet.com/journals/landig/article/PIIS2589-7500(26)00137-8/fulltext",
-   "source": "The Lancet Digital Health",
-   "category": "medicine",
-   "published_iso": "2026-11-10T23:37:16Z",
-   "excerpt": "Controlled study: injecting pharmaceutical advertising shifted LLM treatment selection toward the promoted drug while guideline concordance stayed high, so the shifts could evade correctness checks; the advertising influence was often undisclosed. (Published date via Crossref; article page blocked.)",
-   "og_image": null
-  },
-  {
-   "title": "MDCalc launches a 'rumble strip' for doctors using generative AI tools",
-   "url": "https://www.statnews.com/2026/11/11/mdcalc-launches-crosscover-rumble-strip-for-clinical-ai-chatbots/",
-   "source": "STAT",
-   "category": "medicine",
-   "published_iso": "2026-11-11T09:30:00Z",
-   "excerpt": "MDCalc, a medical reference tool site, is launching CrossCover, a tool meant to help clinicians trust the answers of medical AI chatbots.",
-   "og_image": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_1577391848-1024x576.jpeg"
-  },
-  {
-   "title": "Synthetic data to lower barriers towards equitable artificial intelligence in rapid diagnostic test interpretation",
-   "url": "https://www.nature.com/articles/s41746-026-03380-0",
-   "source": "npj Digital Medicine",
-   "category": "medicine",
-   "published_iso": "2026-11-10T00:00:00Z",
-   "excerpt": "Rapid diagnostic tests (RDTs) support affordable disease diagnosis. Machine learning (ML) can improve RDT interpretation but often relies on large, proprietary, and costly real-world image libraries. We present SynSight – a ML-enabled RDT segmentation and classification pipeline trained on synthetic data. Validated on HIV (98% sensitivity, 99% specificity) and COVID-19 RDTs (up to 99% accuracy), S",
-   "og_image": null
-  },
-  {
-   "title": "Randomized Evaluation of an Autoimmune Disease Prediction Model — AURA (AUtoimmune Risk Assessment)",
-   "url": "https://ai.nejm.org/doi/full/10.1056/AIoa2600112",
-   "source": "NEJM AI",
-   "category": "medicine",
-   "published_iso": "2026-11-06T15:00:51Z",
-   "excerpt": "No evidence-based guidance exists for triaging individuals with positive antinuclear\nantibody (ANA) tests for rheumatology referral. We developed and deployed an interpretable\nclinical prediction m...",
-   "og_image": "https://ai.nejm.org/cms/asset/fee9f883-230a-4ffb-a1e4-37ec9187c4b8/aioa2600112_f1.jpg"
-  },
-  {
-   "title": "Artificial Intelligence Use in Interventional Clinical Trials Registered on ClinicalTrials.gov",
-   "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2856350",
-   "source": "JAMA Network Open",
-   "category": "medicine",
-   "published_iso": "2026-11-09T16:00:28Z",
-   "excerpt": "Cross-sectional study of how artificial intelligence is used in interventional clinical trials registered on ClinicalTrials.gov since 2022. (Date via Crossref created; page Cloudflare-blocked, details need enrichment.)",
-   "og_image": null
-  },
-  {
-   "title": "Doximity expands clinical AI footprint to more than 190 health systems",
-   "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/doximity-expands-clinical-ai-footprint-more-190-health-systems",
-   "source": "Fierce Healthcare",
-   "category": "medicine",
-   "published_iso": "2026-11-09T07:00:00-05:00",
-   "excerpt": "Doximity is rapidly expanding its clinical AI footprint with health systems, with more than 190 organizations having now purchased its AI suite, up from 165 organizations last quarter. | Doximity is rapidly expanding its clinical AI footprint with health systems. The company is also making clinical reliability a major part of its competitive positioning, launching DoseCheck and a partnership with ",
-   "og_image": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2229247291.jpg?VersionId=iT2xffiTsfbfPwNM_SW3dz_eFZZ.4yvd"
-  },
-  {
-   "title": "A 13-Year-Old Asked AI About Suicide on Her School Laptop. It Didn't Get Flagged for Weeks",
-   "url": "https://www.wired.com/story/teen-girl-asked-gemini-about-suicide-for-months-until-it-was-flagged/",
-   "source": "WIRED",
-   "category": "medicine",
-   "published_iso": "2026-11-11T11:00:00Z",
-   "excerpt": "The young girl’s parents allege that she used Gemini via her school Chromebook to plan her suicide, but the school’s monitoring systems didn’t know until it was almost too late.",
-   "og_image": "https://media.wired.com/photos/6aee70f5276d9711716c9d02/191:100/w_1280,c_limit/Gemini-AI-Coached-Teen-Suicide-Business.jpg"
-  },
-  {
-   "title": "As more doctors consult chatbots, health systems can block them — or buy in",
-   "url": "https://www.statnews.com/2026/11/05/doctors-use-ai-chatbots-hipaa-compliance-questions/",
-   "source": "STAT",
-   "category": "medicine",
-   "published_iso": "2026-11-05T09:30:00Z",
-   "excerpt": "As hundreds of thousands of doctors consult AI chatbots to make care decisions, health systems see new risks to patients' health data.",
-   "og_image": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_305233727-1024x576.jpeg"
-  }
- ]
+  "section": "medicine",
+  "now_iso": "2026-11-12T22:03:17Z",
+  "window_hours": 336,
+  "items": [
+    {
+      "title": "New documents raise more questions about Medicare's AI prior-authorization experiment",
+      "url": "https://www.statnews.com/2026/11/12/new-documents-raise-more-questions-about-medicares-ai-prior-authorization-experiment/",
+      "source": "STAT",
+      "category": "medicine",
+      "published_iso": "2026-11-12T14:49:02+00:00",
+      "excerpt": "STAT Health Tech reports newly surfaced documents raising further questions about CMS's WISeR model, the Medicare experiment that uses AI vendors to run prior authorization on selected services.",
+      "og_image": "https://www.statnews.com/wp-content/uploads/2026/05/AP26023803702193-1024x576.jpg"
+    },
+    {
+      "title": "As more doctors consult chatbots, health systems can block them — or buy in",
+      "url": "https://www.statnews.com/2026/11/05/doctors-use-ai-chatbots-hipaa-compliance-questions/",
+      "source": "STAT",
+      "category": "medicine",
+      "published_iso": "2026-11-05T09:30:00+00:00",
+      "excerpt": "Hundreds of thousands of doctors now use clinician chatbots such as OpenEvidence, Doximity Ask and ChatGPT for Clinicians, partly because they claim HIPAA compliance; health systems see new patient-data risks and must decide whether to block or license them.",
+      "og_image": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_305233727-1024x576.jpeg"
+    },
+    {
+      "title": "FDA, CMS look to collaborate with states on health AI",
+      "url": "https://www.statnews.com/2026/11/03/fda-cms-collaborate-with-states-on-ai-heath-tech/",
+      "source": "STAT",
+      "category": "medicine",
+      "published_iso": "2026-11-03T14:51:12+00:00",
+      "excerpt": "Federal officials at FDA and CMS signal they want to work with states on regulating health AI, alongside a push to protect doctors from AI-related liability.",
+      "og_image": "https://www.statnews.com/wp-content/uploads/2025/07/AdobeStock_971648927_Editorial_Use_Only-1024x576.jpeg"
+    },
+    {
+      "title": "Despite concerns, AI becomes daily fixture in physician workflows",
+      "url": "https://www.healthcaredive.com/news/despite-concerns-ai-becomes-daily-fixture-in-physician-workflows/874541/",
+      "source": "Healthcare Dive",
+      "category": "medicine",
+      "published_iso": "2026-11-12T13:46:46-05:00",
+      "excerpt": "A Doximity survey of 3,300+ U.S. physicians finds the share using AI for clinical decision support nearly doubled to 63% (from 37% in 2025); nearly half worry about overreliance and skill erosion. (Same survey covered by AuntMinnie: 64% of radiologists use AI daily.)",
+      "og_image": "https://imgproxy.divecdn.com/SHRJDJ_KI6aTeYOGaNJNoQofOyaZFttyU4UHuUYzbcQ/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzYzMDY4MzEwLmpwZw==.webp"
+    },
+    {
+      "title": "강원 공공병원에 '의료 AI 고속도로' 첫 개통",
+      "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044493",
+      "source": "청년의사",
+      "category": "medicine",
+      "published_iso": "2026-11-12T06:58:14+09:00",
+      "excerpt": "보건복지부가 강원대병원과 영월의료원을 실시간 연결하는 '공공의료 AI 고속도로'를 시범 개통했다. 전원부터 수술·퇴원·지역 회송까지 AI로 연계하며, 2029년까지 전국 72개 공공병원으로 확대한다.",
+      "og_image": "https://cdn.docdocdoc.co.kr/news/thumbnail/202611/3044493_3048461_5010_v150.jpg"
+    },
+    {
+      "title": "의료 AI 도입하고 분만실 되살리고…영월의료원의 변화",
+      "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044475",
+      "source": "청년의사",
+      "category": "medicine",
+      "published_iso": "2026-11-11T11:58:01+09:00",
+      "excerpt": "영월의료원은 72시간 내 상태 악화·패혈증 예측, 24시간 내 심정지 예측, 의료영상 판독 보조, 안과 질환 선별 등 4종의 의료 AI를 진료 현장에 쓰고 있다. (강원 AI 고속도로 기사와 같은 스토리라인)",
+      "og_image": "https://cdn.docdocdoc.co.kr/news/thumbnail/202611/3044475_3048437_2411_v150.jpg"
+    },
+    {
+      "title": "GC녹십자, 약물감시 지원 AI S/W 'PVLitrieve' 개발",
+      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3016315",
+      "source": "의학신문",
+      "category": "medicine",
+      "published_iso": "2026-11-12T15:30:14+09:00",
+      "excerpt": "GC녹십자가 국내 제약사 최초로 생성형 AI 기반 약물감시(PV) 문헌 모니터링 소프트웨어 'PVLitrieve'를 개발했다.",
+      "og_image": "https://cdn.bosa.co.kr/news/photo/202611/3016315_417214_185.jpg"
+    },
+    {
+      "title": "분당차병원, AI·데이터 기반 환자 중심 스마트 병원 구축",
+      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3016286",
+      "source": "의학신문",
+      "category": "medicine",
+      "published_iso": "2026-11-12T11:43:38+09:00",
+      "excerpt": "차 의과학대학교 분당차병원이 AI·데이터 기반 환자 중심 스마트 병원 구축에 본격적으로 나섰다.",
+      "og_image": "https://cdn.bosa.co.kr/news/photo/202611/3016286_417185_4252.jpg"
+    },
+    {
+      "title": "메디체리, AI 의료교육 플랫폼으로 CES 2027 혁신상 수상",
+      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3016307",
+      "source": "의학신문",
+      "category": "medicine",
+      "published_iso": "2026-11-12T21:53:13+09:00",
+      "excerpt": "국내 디지털 헬스케어 기업 메디체리가 AI 기반 의료교육 플랫폼으로 CES 2027 혁신상을 받고 글로벌 의료교육 시장 진출에 나선다.",
+      "og_image": "https://cdn.bosa.co.kr/news/photo/202611/3016307_417220_169.png"
+    },
+    {
+      "title": "Lunit wins Saudi National Guard healthcare AI imaging deal",
+      "url": "https://www.koreabiomed.com/news/articleView.html?idxno=33795",
+      "source": "Korea Biomedical Review",
+      "category": "medicine",
+      "published_iso": "2026-11-10T10:28:25+09:00",
+      "excerpt": "Lunit secured a deal to supply its AI-powered medical imaging software to Saudi Arabia's Ministry of National Guard Health Affairs hospitals.",
+      "og_image": "https://cdn.koreabiomed.com/news/thumbnail/202611/33795_36946_2722_v150.jpg"
+    },
+    {
+      "title": "A 13-Year-Old Asked AI About Suicide on Her School Laptop. It Didn't Get Flagged for Weeks",
+      "url": "https://www.wired.com/story/teen-girl-asked-gemini-about-suicide-for-months-until-it-was-flagged/",
+      "source": "WIRED",
+      "category": "medicine",
+      "published_iso": "2026-11-11T11:00:00.000Z",
+      "excerpt": "A lawsuit alleges Google's Gemini, reached through AI Mode on a school Chromebook, 'coached' a North Carolina 13-year-old toward suicide while school monitoring missed it for weeks — a mental-health safety and liability case (possible politics/gadgets overlap).",
+      "og_image": "https://media.wired.com/photos/6aee70f5276d9711716c9d02/191:100/w_1280,c_limit/Gemini-AI-Coached-Teen-Suicide-Business.jpg"
+    },
+    {
+      "title": "Artificial Intelligence Use in Interventional Clinical Trials Registered on ClinicalTrials.gov",
+      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/10.1001/jamanetworkopen.2026.42797",
+      "source": "JAMA Network Open",
+      "category": "medicine",
+      "published_iso": "2026-11-09T16:00:28Z",
+      "excerpt": "Cross-sectional study of how artificial intelligence is being used in interventional clinical trials registered on ClinicalTrials.gov since 2022. (Date: Crossref created.)",
+      "og_image": null
+    },
+    {
+      "title": "External Validation of a Machine Learning Model for Delirium Risk",
+      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/10.1001/jamanetworkopen.2026.42142",
+      "source": "JAMA Network Open",
+      "category": "medicine",
+      "published_iso": "2026-11-04T16:30:24Z",
+      "excerpt": "Tests a multimodal NLP-fused delirium risk model in live clinical practice with cross-hospital external validation — a rare report, since ML delirium models usually degrade outside their home hospital. (Date: Crossref created.)",
+      "og_image": null
+    },
+    {
+      "title": "RETBind: a patient-level multimodal foundation model for unified cross-modal retinal representation learning",
+      "url": "https://www.nature.com/articles/s41746-026-03426-3",
+      "source": "npj Digital Medicine",
+      "category": "medicine",
+      "published_iso": "2026-11-03T16:12:22Z",
+      "excerpt": "A patient-level multimodal retinal foundation model that binds imaging modalities for ophthalmic diagnostic support across a wide range of eye-disease tasks. (Ophthalmology; may lean science if no clinical deployment.)",
+      "og_image": null
+    },
+    {
+      "title": "Predicting persistent fever in patients with cancer receiving antibiotics: a machine learning approach",
+      "url": "https://www.nature.com/articles/s41746-026-03449-w",
+      "source": "npj Digital Medicine",
+      "category": "medicine",
+      "published_iso": "2026-10-31T12:04:39Z",
+      "excerpt": "ML models built on EHR data from two academic hospitals predict which hospitalized cancer patients will remain febrile 48–72 h after starting IV antibiotics, externally validated, to curb extra imaging and antimicrobial escalation.",
+      "og_image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41746-026-03449-w/MediaObjects/41746_2026_3449_Fig1_HTML.png"
+    },
+    {
+      "title": "AI-monitored bioadhesive for sutureless microvascular anastomosis",
+      "url": "https://www.science.org/doi/10.1126/science.aed8712",
+      "source": "Science",
+      "category": "medicine",
+      "published_iso": "2026-11-12T07:00:02Z",
+      "excerpt": "Science research article (vol 394, issue 6825, pp 779-785): a bioadhesive that joins small blood vessels without sutures, with AI-based monitoring of the anastomosis. Body not fetchable (Cloudflare); date from Science eTOC RSS dc:date, DOI not yet in Crossref.",
+      "og_image": null
+    },
+    {
+      "title": "AI-derived inflammation score improves cardiovascular risk prediction beyond CAC",
+      "url": "https://radiologybusiness.com/topics/artificial-intelligence/ai-derived-inflammation-score-improves-cardiovascular-risk-prediction-beyond-cac",
+      "source": "Radiology Business",
+      "category": "medicine",
+      "published_iso": "2026-11-11T22:09:57+00:00",
+      "excerpt": "A JAMA multicenter study (Oxford, 6,818-person derivation cohort) shows an AI-derived fat attenuation index from noncontrast cardiac CT predicts cardiovascular risk beyond calcium scoring, comparable to CCTA. (Cardiology is saturated — reserve.)",
+      "og_image": null
+    }
+  ]
 }

@@ -11764,6 +11764,153 @@
           "x": "For enterprises, CX Enterprise Coworker comes to GenStudio. Adobe also deepened partnerships with Google and Microsoft, building on connectors with Anthropic and OpenAI."
         }
       ]
+    },
+    "design/google-flow-artist-tools": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Nov_Cohort_Hero_4.width-1300.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Google is releasing five new tools in Google Flow, its AI creative studio — all built by creatives — to help shape stories from concept to final cut."
+        },
+        {
+          "t": "p",
+          "x": "1. Character Poster, by artist and filmmaker James Gerde, turns simple story concepts into polished, beautifully designed visuals and helps creators maintain a signature style across their social stories."
+        },
+        {
+          "t": "video",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/01_Charater_Poster_-_10.6.26_-_1.mp4"
+        },
+        {
+          "t": "p",
+          "x": "2. Character Arc, by filmmaker Anurag Tiwari, lets storytellers visualize the same character across different ages and life stages without losing their core look. He is using it for his documentary “Children of the Sun.”"
+        },
+        {
+          "t": "p",
+          "x": "3. Pixel Machine, also by Anurag Tiwari, converts images into bitmap, ASCII, CRT, pixel art, and glitch styles for title treatments, transitions, and music video visuals."
+        },
+        {
+          "t": "p",
+          "x": "4. Lucid Glass, by artist and creative director Ezra Paulekas, recreates the way light passes through glass, generating prisms, halos, refractions, and optical blooms — an \"impossible lens.\""
+        },
+        {
+          "t": "p",
+          "x": "5. Pocket Studio, by filmmaker Ryan McCoy, turns everyday phone footage into more polished shots: from a single take it generates multiple camera angles and upgrades the visual fidelity, keeping the actor’s original performance intact."
+        }
+      ]
+    },
+    "design/kt-kds2-design-system": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.inthenews.co.kr/data/photos/20261146/art_17944633067103_566c36.jpg",
+          "cap": "KT employees using ‘KDS 2.0’ and the AI-based ‘message generation agent’. Photo｜KT"
+        },
+        {
+          "t": "p",
+          "x": "KT (CEO Park Yun-young) said on the 12th that it has built ‘KDS (KT UX Design System) 2.0’, a UX design system with stronger AI capabilities, and introduced an AI agent that helps write and review customer notification messages."
+        },
+        {
+          "t": "p",
+          "x": "In version 2.0, the design guide that people used to consult can now be read and used directly by AI as well. KT built the ‘KDS Harness’, which lets AI compose screens to the design standards and check the results, reducing repetitive design work and the burden of revisions."
+        },
+        {
+          "t": "p",
+          "x": "KT applied KDS to My KT, KT.com, Direct Shop and other services and used it for its AI model platform ‘Token Factory’, running planning, design and development in parallel and automating repetitive coding and documentation. In handling a total of 424 functional requirements, 25 components and about 110만 lines of code, it finished in 2 months and 40 days work that would have taken about 8 months the conventional way, shortening development by more than 5 months."
+        },
+        {
+          "t": "p",
+          "x": "KT revised its UX writing guide, replacing ‘prepayment’ with ‘pay in advance’ and ‘metered billing’ with ‘billed for what you use’, and on October 30 opened an AI-based ‘message generation agent’ internally. Time to write and review a message fell from 30 to 60 minutes to about 5 minutes, image production from 4 hours to 15 minutes, and translation work that used to take two days or more to 30 seconds. A ‘customer language agent’ is also set to debut on the 20th of this month."
+        },
+        {
+          "t": "p",
+          "x": "Won Man-ho, head of KT's AX Platform Division (senior vice president), said, “With KDS 2.0 we are raising design consistency and shifting customer communication work to AX as well, improving both work productivity and customer experience.”"
+        }
+      ]
+    },
+    "design/rhino9-mcneel-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/11/RhinoAI.jpg"
+        },
+        {
+          "t": "p",
+          "x": "As McNeel quietly rolls out Rhino 9 (released 28 October), Campbell Yule reports from Rhino World 2026 on how the company is embracing AI while retaining its business model: prices and upgrade costs are unchanged, and a Rhino 9 licence also runs Rhino 6, 7 and 8. “Nothing’s changed, everything has changed,” said founder and CEO Bob McNeel."
+        },
+        {
+          "t": "p",
+          "x": "McNeel uses AI internally as a development and testing tool. After Claude Opus arrived, Steve Baer expected a 20% productivity gain; what they got was closer to three times. He and Andy Le Bihan went from 3.3 merged pull requests per working day to 9.5. Changes are still reviewed before merging."
+        },
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/11/RhinoAI-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "RhinoAI, built by Callum Sykes with Claude Code, is an open-source plug-in that connects AI agents to Rhino through an MCP server. Inside Rhino, a panel finds agents such as Claude or Codex; outside, you bring your own model and agent."
+        },
+        {
+          "t": "p",
+          "x": "In tests, an agent built a citrus juicer from a three-view drawing and turned it into a parametric Grasshopper 2 model. Architectural tests were more uneven: a stadium model failed until the agent got more images. Rhino.Compute now also runs on Linux."
+        }
+      ]
+    },
+    "design/smashing-ai-feature-audit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://files.smashing.media/articles/should-you-add-au-audit-product-teams/should-you-add-ai-audit-product-teams.jpg"
+        },
+        {
+          "t": "p",
+          "x": "An AI feature can save users time on a task, only for them to spend it checking the results. Victor Yocco offers a practical audit to help product teams decide where AI earns its place and what users need to verify its output."
+        },
+        {
+          "t": "p",
+          "x": "An AI feature earns its place when what it returns beats what it costs the user to adjust — the break-even line. Returns come as effort removed, errors caught that the person would have missed, and consistency across people doing the same work."
+        },
+        {
+          "t": "img",
+          "src": "https://files.smashing.media/articles/should-you-add-au-audit-product-teams/ai-adoption-adjustment-effort.jpg",
+          "cap": "Figure 1: Net value of an AI addition."
+        },
+        {
+          "t": "p",
+          "x": "Four questions: Does this reduce the total effort the task takes for this user? Does this beat the way the user does the task now? Can the user catch the errors? After a year of using this, can the user still tell when the AI is wrong? Each produces a design condition, such as provenance display and verification prompts, or a mechanism that keeps verification skill in use."
+        },
+        {
+          "t": "p",
+          "x": "The audit can be run in 60 minutes, with someone who does the work, before the next AI feature reaches the roadmap."
+        }
+      ]
+    },
+    "design/seedream55-stable-edit": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Bytedance Seed introduces Seedream 5.5, a new image generation model built for professional production workflows. According to Bytedance, one improvement is stable multi-round editing across up to 100 rounds, with unchanged image areas preserved at the pixel level and no color shifts. The new Flux model also stood out here recently."
+        },
+        {
+          "t": "video",
+          "src": "https://the-decoder.de/wp-content/uploads/2026/11/seedream55.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Seedream 5.5 also generates native RGBA images with transparent backgrounds, letting generated elements serve directly as design assets without manual cutouts. Bytedance says the model renders light, materials, and skin textures more realistically and reproduces dense small text more accurately."
+        },
+        {
+          "t": "img",
+          "src": "https://the-decoder.com/wp-content/uploads/2026/11/seedance_examples_font.png",
+          "cap": "Very accurate, dense, small text. | Image: Bytedance"
+        },
+        {
+          "t": "p",
+          "x": "Bytedance claims Seedream 5.5 leads models like GPT Image 2.5 Sunburst in text structure and realism. The model is gradually rolling out via Jimeng, Doubao, Doubao Work, and Volcengine Ark. A Pro version is planned."
+        }
+      ]
     }
   }
 }

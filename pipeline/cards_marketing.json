@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "section": "marketing",
   "cards": [
     {
-      "id": "appsflyer-apple-ads-agent",
+      "id": "google-ads-editor-aimax-default",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AppsFlyer 에이전트\nApple Ads 입찰",
-      "body": "AppsFlyer 에이전트가 승인 뒤 Apple Ads 키워드 입찰가를 바꾼다.",
-      "mini_headline": "AppsFlyer, Apple Ads 입찰 에이전트",
+      "headline": "Editor 2.14\nAI Max 기본 적용",
+      "body": "Editor 2.14의 새 Search 캠페인은 AI Max가 기본으로 켜진다.",
+      "mini_headline": "Editor 2.14, AI Max 기본값",
       "tool": "Marketing",
       "source": "PPC Land",
-      "url": "https://ppc.land/appsflyer-tests-agent-that-changes-apple-ads-bids-once-marketers-approve/",
+      "url": "https://ppc.land/google-ads-editor-2-14-turns-on-ai-max-by-default-for-new-search-campaigns/",
       "accent": "#ff8a3d",
       "motif": "frame",
       "full": {
@@ -19,179 +19,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://ppc.land/content/images/size/w2000/2026/11/appsflyer-apple-ads-share-of-voice-agent-bids-after-approval-vu-meter-arm-volume-knob-pull-cord.jpg",
-            "cap": "AppsFlyer의 첫 실행형 에이전트는 승인이 떨어지면 Apple Ads 입찰가를 직접 움직인다"
+            "src": "https://ppc.land/content/images/size/w2000/2026/11/google-ads-editor-2-14-ai-max-default-new-search-campaigns-prepunched-punch-cards-inspector.jpg",
+            "cap": "Google Ads Editor 2.14는 모든 새 Search 캠페인을 AI Max와 Final URL expansion이 켜진 상태로 시작한다"
           },
           {
             "t": "p",
-            "x": "AppsFlyer는 오늘 마케터가 승인하면 키워드 입찰가를 바꾸는 Apple Ads 에이전트를 비공개 베타로 내놓았다. 회사 라인업에서 조언을 넘어 직접 실행까지 하는 첫 에이전트다. Apple Ads Share of Voice Agent는 키워드·지역별 점유율(share of voice)을 추정한다. 광고주가 “목표에서 벗어났을 때(off target)” 입찰가 변경을 권하고 AppsFlyer에서 Apple Ads로 곧바로 실행한다. 이용하려면 고객 성공 매니저를 거쳐야 한다."
+            "x": "Google이 캠페인을 대량으로 다루는 무료 데스크톱 앱 Google Ads Editor의 2.14 버전을 내놓았다. 릴리스 노트에 따르면 \"새 Search 캠페인을 만들 때 AI Max, 텍스트 애셋 자동화, Final URL expansion이 이제 기본으로 활성화된다.\" 노트에 게시 날짜는 없다. Search Engine Roundtable은 2026년 11월 12일 이 릴리스를 보도하며 새 기능을 10개로 집계했다."
           },
           {
             "t": "p",
-            "x": "발표 자료는 점유율 추정 방식도, 입찰을 어느 Apple 인터페이스로 넘기는지도 밝히지 않았다(Campaign Management API는 2027년 1월 26일 종료된다). 승인을 어떻게 강제하는지도 빠졌다. Apple의 Maximize Conversions 캠페인은 애초에 키워드 입찰을 허용하지 않는다."
+            "x": "AI Max는 검색어 매칭, 텍스트 맞춤화, Final URL expansion을 묶은 기능이다. 텍스트 맞춤화는 랜딩 페이지와 기존 광고, 키워드를 참고해 광고 제목과 설명을 쓰고, Final URL expansion은 사용자를 같은 도메인의 다른 페이지로 보내기도 한다. Final URL expansion은 텍스트 맞춤화를 켜야만 쓸 수 있다. 이 기능을 켜면 고정해 둔 광고 제목도 지켜지지 않는다."
           },
           {
             "t": "p",
-            "x": "AppsFlyer는 Create an Agent도 출시했다. 업무 흐름을 평이한 말로 설명하면 맞춤형 에이전트가 만들어지고, 이 에이전트가 분석·근본 원인 분석·권고안을 정해진 일정에 맞춰 Slack이나 이메일로 보낸다. 새 MCP 기능 네 가지는 Protect360 사기 데이터, 크리에이티브 단위 성과, OneLink 생성(승인 후에만), 파트너 연동 설정을 “모든 MCP 클라이언트(any MCP client)”에 연다."
+            "x": "Google은 2026년 9월 기존 확장 검색 캠페인과 자동 생성 애셋 캠페인을 AI Max로 옮기면서 두 그룹 모두 Final URL expansion을 꺼 두었다. Editor 2.14의 새 Search 캠페인은 반대로 이 기능을 켠 채 시작한다."
           },
           {
             "t": "p",
-            "x": "“마케팅 팀은 수작업 캠페인 운영에서 에이전트 기반 실행으로 옮겨가고 있다”고 AppsFlyer의 Inna Weiner VP Product는 말했다. 가격과 고객 성과, 정식 출시일은 공개하지 않았다."
+            "x": "이번 릴리스부터 Editor에서 계정 단위의 신규 고객 확보·유지 설정을 고칠 수 있다. 채널 우선순위 지정과 예산 한도가 새로 들어갔고, Shopping 캠페인에서 지역 인벤토리 광고를 끄는 옵션은 빠졌다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AppsFlyer agent tunes Apple Ads\nbids after marketer approval",
-          "body": "In a closed beta, an AppsFlyer agent adjusts Apple Ads keyword bids by share of voice once marketers approve.",
-          "mini_headline": "AppsFlyer agent bids on Apple Ads",
+          "headline": "Google Ads Editor 2.14 turns\nAI Max on by default",
+          "body": "New Search campaigns built in Editor 2.14 now start with AI Max, text automation and Final URL expansion switched on.",
+          "mini_headline": "Editor 2.14 defaults to AI Max",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/appsflyer-apple-ads-share-of-voice-agent-bids-after-approval-vu-meter-arm-volume-knob-pull-cord.jpg",
-                "cap": "The grader turns the knob: AppsFlyer’s first acting agent moves Apple Ads bids after approval"
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/google-ads-editor-2-14-ai-max-default-new-search-campaigns-prepunched-punch-cards-inspector.jpg",
+                "cap": "Google Ads Editor 2.14 starts every new Search campaign with AI Max and Final URL expansion on"
               },
               {
                 "t": "p",
-                "x": "AppsFlyer today put an Apple Ads agent into closed beta that changes keyword bids once a marketer approves them, the first agent in the company's line-up that acts rather than only advises. The Apple Ads Share of Voice Agent estimates share of voice for each keyword and geography, recommends a bid change when an advertiser is \"off target,\" and executes it in Apple Ads directly from AppsFlyer; access runs through customer success managers."
+                "x": "Google has released version 2.14 of Google Ads Editor, its free desktop application for bulk campaign work. According to the release notes, \"AI Max, text asset automation, and Final URL expansion are now activated by default when creating new Search campaigns.\" The notes carry no publication date; Search Engine Roundtable reported the release on November 12, 2026, and counted 10 new features."
               },
               {
                 "t": "p",
-                "x": "The release does not say how share of voice is estimated, which Apple interface carries the bids — the Campaign Management API will be sunset on January 26, 2027 — or how approval is enforced. Apple's Maximize Conversions campaigns do not allow keyword bids at all."
+                "x": "AI Max combines search term matching, text customization, which writes headlines and descriptions from landing pages, existing ads and keywords, and Final URL expansion, which can send a user to a different page on the same domain. Final URL expansion is not available without text customization, and when it is enabled, pinned headlines are not respected."
               },
               {
                 "t": "p",
-                "x": "AppsFlyer also launched Create an Agent, which builds a custom agent from a plain-language workflow description and delivers analysis, root cause analysis and recommendations to Slack or email on a schedule. Four MCP additions expose Protect360 fraud data, creative-level results, OneLink creation (only after approval) and partner integration settings to \"any MCP client.\""
+                "x": "When Google migrated older broad match and automatically created assets campaigns into AI Max in September 2026, it left Final URL expansion off for both groups. In Editor 2.14, a new Search campaign starts with it on."
               },
               {
                 "t": "p",
-                "x": "\"Marketing teams are moving from manual campaign orchestration to agentic execution,\" said Inna Weiner, VP Product at AppsFlyer. No pricing, customer results or general availability date were given."
+                "x": "The release also lets Editor edit account-level new customer acquisition and retention settings, adds channel prioritization and budget caps, and removes the option to turn off local inventory ads in Shopping campaigns."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AppsFlyer 에이전트\nApple Ads 입찰",
-          "body": "AppsFlyer 에이전트가 승인 뒤 Apple Ads 키워드 입찰가를 바꾼다.",
-          "mini_headline": "AppsFlyer, Apple Ads 입찰 에이전트",
+          "headline": "Editor 2.14\nAI Max 기본 적용",
+          "body": "Editor 2.14의 새 Search 캠페인은 AI Max가 기본으로 켜진다.",
+          "mini_headline": "Editor 2.14, AI Max 기본값",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/appsflyer-apple-ads-share-of-voice-agent-bids-after-approval-vu-meter-arm-volume-knob-pull-cord.jpg",
-                "cap": "AppsFlyer의 첫 실행형 에이전트는 승인이 떨어지면 Apple Ads 입찰가를 직접 움직인다"
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/google-ads-editor-2-14-ai-max-default-new-search-campaigns-prepunched-punch-cards-inspector.jpg",
+                "cap": "Google Ads Editor 2.14는 모든 새 Search 캠페인을 AI Max와 Final URL expansion이 켜진 상태로 시작한다"
               },
               {
                 "t": "p",
-                "x": "AppsFlyer는 오늘 마케터가 승인하면 키워드 입찰가를 바꾸는 Apple Ads 에이전트를 비공개 베타로 내놓았다. 회사 라인업에서 조언을 넘어 직접 실행까지 하는 첫 에이전트다. Apple Ads Share of Voice Agent는 키워드·지역별 점유율(share of voice)을 추정한다. 광고주가 “목표에서 벗어났을 때(off target)” 입찰가 변경을 권하고 AppsFlyer에서 Apple Ads로 곧바로 실행한다. 이용하려면 고객 성공 매니저를 거쳐야 한다."
+                "x": "Google이 캠페인을 대량으로 다루는 무료 데스크톱 앱 Google Ads Editor의 2.14 버전을 내놓았다. 릴리스 노트에 따르면 \"새 Search 캠페인을 만들 때 AI Max, 텍스트 애셋 자동화, Final URL expansion이 이제 기본으로 활성화된다.\" 노트에 게시 날짜는 없다. Search Engine Roundtable은 2026년 11월 12일 이 릴리스를 보도하며 새 기능을 10개로 집계했다."
               },
               {
                 "t": "p",
-                "x": "발표 자료는 점유율 추정 방식도, 입찰을 어느 Apple 인터페이스로 넘기는지도 밝히지 않았다(Campaign Management API는 2027년 1월 26일 종료된다). 승인을 어떻게 강제하는지도 빠졌다. Apple의 Maximize Conversions 캠페인은 애초에 키워드 입찰을 허용하지 않는다."
+                "x": "AI Max는 검색어 매칭, 텍스트 맞춤화, Final URL expansion을 묶은 기능이다. 텍스트 맞춤화는 랜딩 페이지와 기존 광고, 키워드를 참고해 광고 제목과 설명을 쓰고, Final URL expansion은 사용자를 같은 도메인의 다른 페이지로 보내기도 한다. Final URL expansion은 텍스트 맞춤화를 켜야만 쓸 수 있다. 이 기능을 켜면 고정해 둔 광고 제목도 지켜지지 않는다."
               },
               {
                 "t": "p",
-                "x": "AppsFlyer는 Create an Agent도 출시했다. 업무 흐름을 평이한 말로 설명하면 맞춤형 에이전트가 만들어지고, 이 에이전트가 분석·근본 원인 분석·권고안을 정해진 일정에 맞춰 Slack이나 이메일로 보낸다. 새 MCP 기능 네 가지는 Protect360 사기 데이터, 크리에이티브 단위 성과, OneLink 생성(승인 후에만), 파트너 연동 설정을 “모든 MCP 클라이언트(any MCP client)”에 연다."
+                "x": "Google은 2026년 9월 기존 확장 검색 캠페인과 자동 생성 애셋 캠페인을 AI Max로 옮기면서 두 그룹 모두 Final URL expansion을 꺼 두었다. Editor 2.14의 새 Search 캠페인은 반대로 이 기능을 켠 채 시작한다."
               },
               {
                 "t": "p",
-                "x": "“마케팅 팀은 수작업 캠페인 운영에서 에이전트 기반 실행으로 옮겨가고 있다”고 AppsFlyer의 Inna Weiner VP Product는 말했다. 가격과 고객 성과, 정식 출시일은 공개하지 않았다."
+                "x": "이번 릴리스부터 Editor에서 계정 단위의 신규 고객 확보·유지 설정을 고칠 수 있다. 채널 우선순위 지정과 예산 한도가 새로 들어갔고, Shopping 캠페인에서 지역 인벤토리 광고를 끄는 옵션은 빠졌다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AppsFlyerのAI\n承認後Apple Ads入札",
-          "body": "AppsFlyerのエージェントは承認後にApple Adsのキーワード入札額を調整する。",
-          "mini_headline": "AppsFlyer、Apple Ads入札エージェント",
+          "headline": "Editor 2.14\nAI Maxが既定に",
+          "body": "Editor 2.14の新規Searchキャンペーンは、AI Maxが既定でオンだ。",
+          "mini_headline": "Editor 2.14、AI Maxを既定に",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/appsflyer-apple-ads-share-of-voice-agent-bids-after-approval-vu-meter-arm-volume-knob-pull-cord.jpg",
-                "cap": "つまみを回す：AppsFlyer初の実行型エージェントが承認後にApple Adsの入札額を動かす"
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/google-ads-editor-2-14-ai-max-default-new-search-campaigns-prepunched-punch-cards-inspector.jpg",
+                "cap": "Google Ads Editor 2.14では、新規SearchキャンペーンがすべてAI MaxとFinal URL expansionをオンにした状態で始まる"
               },
               {
                 "t": "p",
-                "x": "AppsFlyerは本日、マーケターの承認を得てキーワード入札額を変更するApple Adsエージェントをクローズドベータとして投入した。助言にとどまらず実際に操作する、同社ラインアップ初のエージェントである。Apple Ads Share of Voice Agentはキーワードと地域ごとにシェア・オブ・ボイス（share of voice）を推定し、広告主が「目標から外れている（off target）」場合に入札額の変更を提案し、AppsFlyerから直接Apple Adsで実行する。利用はカスタマーサクセスマネージャー経由となる。"
+                "x": "GoogleはGoogle Ads Editorのバージョン2.14をリリースした。キャンペーンを一括で扱うための無料デスクトップアプリケーションだ。リリースノートによると「新規Searchキャンペーンの作成時に、AI Max、テキストアセットの自動化、Final URL expansionが既定で有効になる」。ノートに公開日の記載はない。Search Engine Roundtableは2026年11月12日にこのリリースを報じ、新機能を10件と数えた。"
               },
               {
                 "t": "p",
-                "x": "発表では、シェア・オブ・ボイスの推定方法、入札をどのApple側インターフェースで送るのか（Campaign Management APIは2027年1月26日に提供終了となる）、承認をどう担保するのかは示されていない。AppleのMaximize Conversionsキャンペーンはそもそもキーワード入札を認めていない。"
+                "x": "AI Maxは、検索語句のマッチング、テキストのカスタマイズ、Final URL expansionを組み合わせたものだ。テキストのカスタマイズはランディングページや既存の広告、キーワードから広告見出しと説明文を作成し、Final URL expansionはユーザーを同じドメイン内の別ページへ送ることがある。Final URL expansionはテキストのカスタマイズなしでは使えず、有効にすると固定した広告見出しは守られない。"
               },
               {
                 "t": "p",
-                "x": "AppsFlyerはCreate an Agentも公開した。平易な言葉で業務フローを説明するとカスタムエージェントを構築し、分析、根本原因分析、推奨事項を定期的にSlackやメールへ届ける。新たに加わった四つのMCP機能は、Protect360の不正データ、クリエイティブ単位の成果、OneLinkの作成（承認後のみ）、パートナー連携設定を「あらゆるMCPクライアント（any MCP client）」に開放する。"
+                "x": "Googleは2026年9月、旧来の部分一致キャンペーンと自動作成アセットのキャンペーンをAI Maxへ移行した際、両グループともFinal URL expansionをオフのままにした。Editor 2.14では、新規Searchキャンペーンがこの機能をオンにした状態で始まる。"
               },
               {
                 "t": "p",
-                "x": "「マーケティングチームは手作業のキャンペーン運用から、エージェントによる実行へと移りつつある」と、AppsFlyerのVP ProductであるInna Weiner氏は述べた。価格、顧客の成果、一般提供の時期は明らかにされていない。"
+                "x": "今回のリリースでは、Editorでアカウント単位の新規顧客の獲得と維持の設定を編集できるようになり、チャネルの優先順位付けと予算上限が加わったほか、Shoppingキャンペーンでローカル在庫広告をオフにするオプションが削除された。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AppsFlyer智能体\n代调Apple Ads出价",
-          "body": "封闭测试中，AppsFlyer智能体在营销人员批准后调整Apple Ads关键词出价。",
-          "mini_headline": "AppsFlyer智能体代调Apple Ads出价",
+          "headline": "Editor 2.14\n默认开启AI Max",
+          "body": "在Editor 2.14中新建的Search广告系列，默认开启AI Max与文本自动化。",
+          "mini_headline": "Editor 2.14默认启用AI Max",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/appsflyer-apple-ads-share-of-voice-agent-bids-after-approval-vu-meter-arm-volume-knob-pull-cord.jpg",
-                "cap": "拧动旋钮：AppsFlyer首个可执行的智能体在获批后调整Apple Ads出价"
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/google-ads-editor-2-14-ai-max-default-new-search-campaigns-prepunched-punch-cards-inspector.jpg",
+                "cap": "Google Ads Editor 2.14让每个新建的Search广告系列都开启AI Max和Final URL expansion"
               },
               {
                 "t": "p",
-                "x": "AppsFlyer今天推出一款进入封闭测试的Apple Ads智能体，可在营销人员批准后更改关键词出价，这是该公司产品线中首个不止提供建议、而是直接执行操作的智能体。Apple Ads Share of Voice Agent会按关键词和地区估算声量份额（share of voice），在广告主“偏离目标（off target）”时建议调整出价，并直接从AppsFlyer在Apple Ads中执行。使用需通过客户成功经理开通。"
+                "x": "Google发布了Google Ads Editor 2.14版，这是一款用于批量处理广告系列的免费桌面应用。据版本说明，“新建Search广告系列时，AI Max、文本素材自动化和Final URL expansion现已默认启用。”说明未注明发布日期；Search Engine Roundtable于2026年11月12日报道了这一版本，并统计出10项新功能。"
               },
               {
                 "t": "p",
-                "x": "公告没有说明声量份额如何估算、出价通过哪个Apple接口提交（Campaign Management API将于2027年1月26日停用），也没有说明如何确保审批。Apple的Maximize Conversions广告系列根本不允许设置关键词出价。"
+                "x": "AI Max整合了搜索字词匹配、文本自定义和Final URL expansion。文本自定义会根据着陆页、现有广告和关键字撰写标题与描述，Final URL expansion则可能把用户引向同一域名下的其他页面。没有文本自定义就无法使用Final URL expansion，而启用后，固定的标题不会被遵守。"
               },
               {
                 "t": "p",
-                "x": "AppsFlyer还推出了Create an Agent，可根据用平实语言描述的工作流程构建自定义智能体，并按计划把分析、根因分析和建议发送到Slack或电子邮件。新增的四项MCP功能向“任何MCP客户端（any MCP client）”开放Protect360欺诈数据、创意层级的效果、OneLink创建（仅在批准后）以及合作伙伴集成设置。"
+                "x": "2026年9月，Google将旧的广泛匹配广告系列和自动生成素材广告系列迁移到AI Max时，两组都关闭了Final URL expansion。在Editor 2.14中，新建的Search广告系列则默认开启该功能。"
               },
               {
                 "t": "p",
-                "x": "AppsFlyer的VP Product Inna Weiner表示：“营销团队正从手动编排广告活动转向由智能体执行。”公司未公布定价、客户成效或正式上线日期。"
+                "x": "此次版本还让Editor可以编辑账号级的新客户获取与留存设置，新增了渠道优先级和预算上限，并移除了在Shopping广告系列中关闭本地商品目录广告的选项。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un agente de AppsFlyer ajusta\npujas en Apple Ads con permiso",
-          "body": "En beta cerrada, un agente de AppsFlyer ajusta pujas de Apple Ads por cuota de voz cuando el especialista lo aprueba.",
-          "mini_headline": "Agente de AppsFlyer puja en Apple Ads",
+          "headline": "Google Ads Editor 2.14 activa\nAI Max por defecto",
+          "body": "Las nuevas campañas de Search en Editor 2.14 arrancan con AI Max, automatización de texto y Final URL expansion.",
+          "mini_headline": "Editor 2.14 activa AI Max por defecto",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/appsflyer-apple-ads-share-of-voice-agent-bids-after-approval-vu-meter-arm-volume-knob-pull-cord.jpg",
-                "cap": "Girar la perilla: el primer agente ejecutor de AppsFlyer mueve las pujas de Apple Ads tras la aprobación"
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/google-ads-editor-2-14-ai-max-default-new-search-campaigns-prepunched-punch-cards-inspector.jpg",
+                "cap": "Google Ads Editor 2.14 inicia cada nueva campaña de Search con AI Max y Final URL expansion activados"
               },
               {
                 "t": "p",
-                "x": "AppsFlyer lanzó hoy en beta cerrada un agente para Apple Ads que modifica las pujas por palabra clave una vez que el profesional de marketing las aprueba, el primer agente de su catálogo que actúa en lugar de limitarse a aconsejar. El Apple Ads Share of Voice Agent estima la cuota de voz (share of voice) por palabra clave y geografía, recomienda un cambio de puja cuando un anunciante está “fuera de objetivo” (off target) y lo ejecuta en Apple Ads directamente desde AppsFlyer; el acceso se gestiona a través de los responsables de éxito del cliente."
+                "x": "Google ha lanzado la versión 2.14 de Google Ads Editor, su aplicación de escritorio gratuita para gestionar campañas de forma masiva. Según las notas de la versión, \"AI Max, la automatización de recursos de texto y Final URL expansion ahora se activan de forma predeterminada al crear nuevas campañas de Search\". Las notas no tienen fecha de publicación; Search Engine Roundtable informó del lanzamiento el 12 de noviembre de 2026 y contó 10 funciones nuevas."
               },
               {
                 "t": "p",
-                "x": "El comunicado no explica cómo se estima la cuota de voz, qué interfaz de Apple transmite las pujas —la Campaign Management API dejará de funcionar el 26 de enero de 2027— ni cómo se garantiza la aprobación. Las campañas Maximize Conversions de Apple no permiten pujas por palabra clave."
+                "x": "AI Max combina la concordancia de términos de búsqueda, la personalización de texto, que redacta títulos y descripciones a partir de páginas de destino, anuncios existentes y palabras clave, y Final URL expansion, que puede enviar al usuario a otra página del mismo dominio. Final URL expansion no está disponible sin la personalización de texto y, cuando está activada, no se respetan los títulos fijados."
               },
               {
                 "t": "p",
-                "x": "AppsFlyer también presentó Create an Agent, que crea un agente personalizado a partir de una descripción del flujo de trabajo en lenguaje sencillo y envía análisis, análisis de causa raíz y recomendaciones a Slack o por correo electrónico de forma programada. Cuatro nuevas funciones MCP abren los datos de fraude de Protect360, los resultados por creatividad, la creación de OneLink (solo tras la aprobación) y la configuración de integraciones con socios a “cualquier cliente MCP” (any MCP client)."
+                "x": "Cuando Google migró a AI Max, en septiembre de 2026, las antiguas campañas de concordancia amplia y de recursos creados automáticamente, dejó Final URL expansion desactivada en ambos grupos. En Editor 2.14, una nueva campaña de Search empieza con esa función activada."
               },
               {
                 "t": "p",
-                "x": "“Los equipos de marketing están pasando de la orquestación manual de campañas a la ejecución mediante agentes”, dijo Inna Weiner, VP Product de AppsFlyer. No se dieron precios, resultados de clientes ni fecha de disponibilidad general."
+                "x": "La versión también permite editar en Editor la configuración de adquisición y retención de nuevos clientes a nivel de cuenta, añade la priorización de canales y los límites de presupuesto, y elimina la opción de desactivar los anuncios de inventario local en las campañas de Shopping."
               }
             ]
           }
@@ -199,125 +199,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AppsFlyer 에이전트\nApple Ads 입찰",
-          "body": "AppsFlyer 에이전트가 승인 후 Apple Ads 키워드 입찰가를 바꾼다.",
-          "mini_headline": "AppsFlyer, Apple Ads 입찰 에이전트",
+          "headline": "Editor 2.14\nAI Max 기본 적용",
+          "body": "Editor 2.14의 새 Search 캠페인은 AI Max가 기본으로 켜진다.",
+          "mini_headline": "Editor 2.14, AI Max 기본값",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/appsflyer-apple-ads-share-of-voice-agent-bids-after-approval-vu-meter-arm-volume-knob-pull-cord.jpg",
-                "cap": "조정 노브를 돌리다: AppsFlyer의 첫 실행형 에이전트가 승인 뒤 Apple Ads 입찰가를 움직인다"
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/google-ads-editor-2-14-ai-max-default-new-search-campaigns-prepunched-punch-cards-inspector.jpg",
+                "cap": "Google Ads Editor 2.14는 모든 새 Search 캠페인을 AI Max와 Final URL expansion이 켜진 상태로 시작한다"
               },
               {
                 "t": "p",
-                "x": "AppsFlyer는 오늘 마케터가 승인하면 키워드 입찰가를 바꾸는 Apple Ads 에이전트를 비공개 베타로 내놓았다. 조언에 그치지 않고 직접 실행하는, 회사 라인업의 첫 에이전트다. Apple Ads Share of Voice Agent는 키워드와 지역별로 점유율(share of voice)을 추정하고, 광고주가 “목표에서 벗어났을 때(off target)” 입찰가 변경을 권하며, AppsFlyer에서 Apple Ads로 곧바로 실행한다. 이용은 고객 성공 매니저를 통해서만 가능하다."
+                "x": "Google이 대량 캠페인 작업용 무료 데스크톱 애플리케이션 Google Ads Editor의 2.14 버전을 내놓았다. 릴리스 노트에 따르면 \"새 Search 캠페인을 만들 때 AI Max, 텍스트 애셋 자동화, Final URL expansion이 이제 기본으로 활성화된다.\" 노트에는 게시 날짜가 없다. Search Engine Roundtable은 2026년 11월 12일 이 릴리스를 보도하며 새 기능을 10개로 집계했다."
               },
               {
                 "t": "p",
-                "x": "발표 자료는 점유율을 어떻게 추정하는지, 입찰을 어느 Apple 인터페이스로 전달하는지 — Campaign Management API는 2027년 1월 26일 종료된다 — , 승인을 어떻게 강제하는지 밝히지 않았다. Apple의 Maximize Conversions 캠페인은 키워드 입찰 자체를 허용하지 않는다."
+                "x": "AI Max는 검색어 매칭, 텍스트 맞춤화, Final URL expansion을 묶은 기능이다. 텍스트 맞춤화는 랜딩 페이지와 기존 광고, 키워드를 바탕으로 광고 제목과 설명을 작성하고, Final URL expansion은 사용자를 같은 도메인의 다른 페이지로 보낼 수 있다. Final URL expansion은 텍스트 맞춤화 없이는 쓸 수 없으며, 이 기능을 켜면 고정해 둔 광고 제목이 지켜지지 않는다."
               },
               {
                 "t": "p",
-                "x": "AppsFlyer는 Create an Agent도 출시했다. 업무 흐름을 평이한 말로 설명하면 맞춤형 에이전트를 만들어 분석, 근본 원인 분석, 권고안을 정해진 일정에 따라 Slack이나 이메일로 보내준다. 새로 추가된 MCP 기능 네 가지는 Protect360 사기 데이터, 크리에이티브 단위 성과, OneLink 생성(승인 후에만), 파트너 연동 설정을 “모든 MCP 클라이언트(any MCP client)”에 연다."
+                "x": "Google은 2026년 9월 기존 확장 검색 캠페인과 자동 생성 애셋 캠페인을 AI Max로 옮기면서 두 그룹 모두 Final URL expansion을 꺼 두었다. Editor 2.14에서는 새 Search 캠페인이 이 기능을 켠 채 시작한다."
               },
               {
                 "t": "p",
-                "x": "“마케팅 팀은 수작업 캠페인 운영에서 에이전트 기반 실행으로 옮겨가고 있다”고 AppsFlyer의 Inna Weiner VP Product는 말했다. 가격, 고객 성과, 정식 출시일은 공개되지 않았다."
+                "x": "이번 릴리스로 Editor에서 계정 수준의 신규 고객 확보 및 유지 설정을 편집할 수 있게 됐고, 채널 우선순위 지정과 예산 한도가 추가됐으며, Shopping 캠페인에서 지역 인벤토리 광고를 끄는 옵션은 사라졌다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AppsFlyerのAI\n承認後Apple Ads入札",
-          "body": "AppsFlyerのエージェントは承認後にApple Adsのキーワード入札額を調整する。",
-          "mini_headline": "AppsFlyer、Apple Ads入札エージェント",
+          "headline": "Editor 2.14\nAI Maxが既定に",
+          "body": "Editor 2.14の新規Searchキャンペーンは、AI Maxが既定でオンだ。",
+          "mini_headline": "Editor 2.14、AI Maxを既定に",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/appsflyer-apple-ads-share-of-voice-agent-bids-after-approval-vu-meter-arm-volume-knob-pull-cord.jpg",
-                "cap": "つまみを回す：AppsFlyer初の実行型エージェントが承認後にApple Adsの入札額を動かす"
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/google-ads-editor-2-14-ai-max-default-new-search-campaigns-prepunched-punch-cards-inspector.jpg",
+                "cap": "Google Ads Editor 2.14では、新規SearchキャンペーンがすべてAI MaxとFinal URL expansionをオンにした状態で始まる"
               },
               {
                 "t": "p",
-                "x": "AppsFlyerは本日、マーケターの承認を得てキーワード入札額を変更するApple Adsエージェントをクローズドベータとして投入した。助言にとどまらず実際に操作する、同社ラインアップ初のエージェントである。Apple Ads Share of Voice Agentはキーワードと地域ごとにシェア・オブ・ボイス（share of voice）を推定し、広告主が「目標から外れている（off target）」場合に入札額の変更を提案し、AppsFlyerから直接Apple Adsで実行する。利用はカスタマーサクセスマネージャー経由となる。"
+                "x": "GoogleはGoogle Ads Editorのバージョン2.14をリリースした。キャンペーンを一括で扱うための無料デスクトップアプリケーションだ。リリースノートによると「新規Searchキャンペーンの作成時に、AI Max、テキストアセットの自動化、Final URL expansionが既定で有効になる」。ノートに公開日の記載はない。Search Engine Roundtableは2026年11月12日にこのリリースを報じ、新機能を10件と数えた。"
               },
               {
                 "t": "p",
-                "x": "発表では、シェア・オブ・ボイスの推定方法、入札をどのApple側インターフェースで送るのか（Campaign Management APIは2027年1月26日に提供終了となる）、承認をどう担保するのかは示されていない。AppleのMaximize Conversionsキャンペーンはそもそもキーワード入札を認めていない。"
+                "x": "AI Maxは、検索語句のマッチング、テキストのカスタマイズ、Final URL expansionを組み合わせたものだ。テキストのカスタマイズはランディングページや既存の広告、キーワードから広告見出しと説明文を作成し、Final URL expansionはユーザーを同じドメイン内の別ページへ送ることがある。Final URL expansionはテキストのカスタマイズなしでは使えず、有効にすると固定した広告見出しは守られない。"
               },
               {
                 "t": "p",
-                "x": "AppsFlyerはCreate an Agentも公開した。平易な言葉で業務フローを説明するとカスタムエージェントを構築し、分析、根本原因分析、推奨事項を定期的にSlackやメールへ届ける。新たに加わった四つのMCP機能は、Protect360の不正データ、クリエイティブ単位の成果、OneLinkの作成（承認後のみ）、パートナー連携設定を「あらゆるMCPクライアント（any MCP client）」に開放する。"
+                "x": "Googleは2026年9月、旧来の部分一致キャンペーンと自動作成アセットのキャンペーンをAI Maxへ移行した際、両グループともFinal URL expansionをオフのままにした。Editor 2.14では、新規Searchキャンペーンがこの機能をオンにした状態で始まる。"
               },
               {
                 "t": "p",
-                "x": "「マーケティングチームは手作業のキャンペーン運用から、エージェントによる実行へと移りつつある」と、AppsFlyerのVP ProductであるInna Weiner氏は述べた。価格、顧客の成果、一般提供の時期は明らかにされていない。"
+                "x": "今回のリリースでは、Editorでアカウント単位の新規顧客の獲得と維持の設定を編集できるようになり、チャネルの優先順位付けと予算上限が加わったほか、Shoppingキャンペーンでローカル在庫広告をオフにするオプションが削除された。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AppsFlyer智能体\n代调Apple Ads出价",
-          "body": "封闭测试中，AppsFlyer智能体在营销人员批准后调整Apple Ads关键词出价。",
-          "mini_headline": "AppsFlyer智能体代调Apple Ads出价",
+          "headline": "Editor 2.14\n默认开启AI Max",
+          "body": "在Editor 2.14中新建的Search广告系列，默认开启AI Max与文本自动化。",
+          "mini_headline": "Editor 2.14默认启用AI Max",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/appsflyer-apple-ads-share-of-voice-agent-bids-after-approval-vu-meter-arm-volume-knob-pull-cord.jpg",
-                "cap": "拧动旋钮：AppsFlyer首个可执行的智能体在获批后调整Apple Ads出价"
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/google-ads-editor-2-14-ai-max-default-new-search-campaigns-prepunched-punch-cards-inspector.jpg",
+                "cap": "Google Ads Editor 2.14让每个新建的Search广告系列都开启AI Max和Final URL expansion"
               },
               {
                 "t": "p",
-                "x": "AppsFlyer今天推出一款进入封闭测试的Apple Ads智能体，可在营销人员批准后更改关键词出价，这是该公司产品线中首个不止提供建议、而是直接执行操作的智能体。Apple Ads Share of Voice Agent会按关键词和地区估算声量份额（share of voice），在广告主“偏离目标（off target）”时建议调整出价，并直接从AppsFlyer在Apple Ads中执行。使用需通过客户成功经理开通。"
+                "x": "Google发布了Google Ads Editor 2.14版，这是一款用于批量处理广告系列的免费桌面应用。据版本说明，“新建Search广告系列时，AI Max、文本素材自动化和Final URL expansion现已默认启用。”说明未注明发布日期；Search Engine Roundtable于2026年11月12日报道了这一版本，并统计出10项新功能。"
               },
               {
                 "t": "p",
-                "x": "公告没有说明声量份额如何估算、出价通过哪个Apple接口提交（Campaign Management API将于2027年1月26日停用），也没有说明如何确保审批。Apple的Maximize Conversions广告系列根本不允许设置关键词出价。"
+                "x": "AI Max整合了搜索字词匹配、文本自定义和Final URL expansion。文本自定义会根据着陆页、现有广告和关键字撰写标题与描述，Final URL expansion则可能把用户引向同一域名下的其他页面。没有文本自定义就无法使用Final URL expansion，而启用后，固定的标题不会被遵守。"
               },
               {
                 "t": "p",
-                "x": "AppsFlyer还推出了Create an Agent，可根据用平实语言描述的工作流程构建自定义智能体，并按计划把分析、根因分析和建议发送到Slack或电子邮件。新增的四项MCP功能向“任何MCP客户端（any MCP client）”开放Protect360欺诈数据、创意层级的效果、OneLink创建（仅在批准后）以及合作伙伴集成设置。"
+                "x": "2026年9月，Google将旧的广泛匹配广告系列和自动生成素材广告系列迁移到AI Max时，两组都关闭了Final URL expansion。在Editor 2.14中，新建的Search广告系列则默认开启该功能。"
               },
               {
                 "t": "p",
-                "x": "AppsFlyer的VP Product Inna Weiner表示：“营销团队正从手动编排广告活动转向由智能体执行。”公司未公布定价、客户成效或正式上线日期。"
+                "x": "此次版本还让Editor可以编辑账号级的新客户获取与留存设置，新增了渠道优先级和预算上限，并移除了在Shopping广告系列中关闭本地商品目录广告的选项。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un agente de AppsFlyer ajusta\npujas en Apple Ads con permiso",
-          "body": "En beta cerrada, un agente de AppsFlyer ajusta pujas de Apple Ads por cuota de voz cuando el especialista lo aprueba.",
-          "mini_headline": "Agente de AppsFlyer puja en Apple Ads",
+          "headline": "Google Ads Editor 2.14 activa\nAI Max por defecto",
+          "body": "Las nuevas campañas de Search en Editor 2.14 arrancan con AI Max, automatización de texto y Final URL expansion.",
+          "mini_headline": "Editor 2.14 activa AI Max por defecto",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/appsflyer-apple-ads-share-of-voice-agent-bids-after-approval-vu-meter-arm-volume-knob-pull-cord.jpg",
-                "cap": "Girar la perilla: el primer agente ejecutor de AppsFlyer mueve las pujas de Apple Ads tras la aprobación"
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/google-ads-editor-2-14-ai-max-default-new-search-campaigns-prepunched-punch-cards-inspector.jpg",
+                "cap": "Google Ads Editor 2.14 inicia cada nueva campaña de Search con AI Max y Final URL expansion activados"
               },
               {
                 "t": "p",
-                "x": "AppsFlyer lanzó hoy en beta cerrada un agente para Apple Ads que modifica las pujas por palabra clave una vez que el profesional de marketing las aprueba, el primer agente de su catálogo que actúa en lugar de limitarse a aconsejar. El Apple Ads Share of Voice Agent estima la cuota de voz (share of voice) por palabra clave y geografía, recomienda un cambio de puja cuando un anunciante está “fuera de objetivo” (off target) y lo ejecuta en Apple Ads directamente desde AppsFlyer; el acceso se gestiona a través de los responsables de éxito del cliente."
+                "x": "Google ha lanzado la versión 2.14 de Google Ads Editor, su aplicación de escritorio gratuita para gestionar campañas de forma masiva. Según las notas de la versión, \"AI Max, la automatización de recursos de texto y Final URL expansion ahora se activan de forma predeterminada al crear nuevas campañas de Search\". Las notas no tienen fecha de publicación; Search Engine Roundtable informó del lanzamiento el 12 de noviembre de 2026 y contó 10 funciones nuevas."
               },
               {
                 "t": "p",
-                "x": "El comunicado no explica cómo se estima la cuota de voz, qué interfaz de Apple transmite las pujas —la Campaign Management API dejará de funcionar el 26 de enero de 2027— ni cómo se garantiza la aprobación. Las campañas Maximize Conversions de Apple no permiten pujas por palabra clave."
+                "x": "AI Max combina la concordancia de términos de búsqueda, la personalización de texto, que redacta títulos y descripciones a partir de páginas de destino, anuncios existentes y palabras clave, y Final URL expansion, que puede enviar al usuario a otra página del mismo dominio. Final URL expansion no está disponible sin la personalización de texto y, cuando está activada, no se respetan los títulos fijados."
               },
               {
                 "t": "p",
-                "x": "AppsFlyer también presentó Create an Agent, que crea un agente personalizado a partir de una descripción del flujo de trabajo en lenguaje sencillo y envía análisis, análisis de causa raíz y recomendaciones a Slack o por correo electrónico de forma programada. Cuatro nuevas funciones MCP abren los datos de fraude de Protect360, los resultados por creatividad, la creación de OneLink (solo tras la aprobación) y la configuración de integraciones con socios a “cualquier cliente MCP” (any MCP client)."
+                "x": "Cuando Google migró a AI Max, en septiembre de 2026, las antiguas campañas de concordancia amplia y de recursos creados automáticamente, dejó Final URL expansion desactivada en ambos grupos. En Editor 2.14, una nueva campaña de Search empieza con esa función activada."
               },
               {
                 "t": "p",
-                "x": "“Los equipos de marketing están pasando de la orquestación manual de campañas a la ejecución mediante agentes”, dijo Inna Weiner, VP Product de AppsFlyer. No se dieron precios, resultados de clientes ni fecha de disponibilidad general."
+                "x": "La versión también permite editar en Editor la configuración de adquisición y retención de nuevos clientes a nivel de cuenta, añade la priorización de canales y los límites de presupuesto, y elimina la opción de desactivar los anuncios de inventario local en las campañas de Shopping."
               }
             ]
           }
@@ -325,171 +325,303 @@
       }
     },
     {
-      "id": "mrc-ai-measurement-draft",
+      "id": "google-ads-ai-public-figure-ban",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "MRC 첫 AI 측정기준\nQ1 2027 초안 공개",
-      "body": "MRC는 Q1 2027에 AI 측정 기준 초안을, mid-2027에 후속안을 낸다.",
-      "mini_headline": "MRC, AI 광고 기준 초안",
+      "headline": "Google Ads\nAI 공인 사칭 금지",
+      "body": "AI로 공인을 사칭한 광고는 AI임을 밝혀도 금지된다고 Google이 밝혔다.",
+      "mini_headline": "AI 공인 광고 금지",
       "tool": "Marketing",
-      "source": "PPC Land",
-      "url": "https://ppc.land/media-rating-council-sets-q1-2027-draft-for-first-ai-measurement-standards/",
+      "source": "Search Engine Roundtable",
+      "url": "https://www.seroundtable.com/google-ads-disallows-impersonate-public-figures-ai-42512.html",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://ppc.land/content/images/size/w2000/2026/11/mrc-ai-measurement-standards-q1-2027-draft-7-rulebooks-standard-weights-case-paper-template.jpg",
-            "cap": "MRC의 AI 기준 초안은 Q1 2027에 나오지만 감사인은 이미 7개 규정집과 9개 원칙을 적용한다"
+            "src": "https://images.seroundtable.com/google-ads-logo-mirror-wCJesbMh.jpg",
+            "cap": "Google Ads 로고 미러"
           },
           {
             "t": "p",
-            "x": "Media Rating Council은 2026년 11월 10일, 미디어 측정에 쓰이는 인공지능 기준 초안의 첫 단계를 2027년 첫 분기에 공개 의견 수렴에 부치고 두 번째 단계는 mid-2027까지 잇겠다고 밝혔다. 2026년 7월 8일 지침이 “2026년 내내 그리고 2027년 초”에 마무리될 것으로 내다봤던 일정보다 늦어졌다."
+            "x": "Google Ads가 unacceptable Business Practices 정책을 손봐, AI로 공인을 사칭하면 AI로 생성하거나 편집했다고 밝혀도 허용하지 않는다는 점을 분명히 했다. AI 사용 자체는 괜찮고 쓸 때 그 사실을 밝히면 되지만, 이 경우만은 예외다."
           },
           {
             "t": "p",
-            "x": "그때까지는 13쪽짜리 그 지침이 기준 노릇을 한다. 지침은 기존 MRC 기준과 가이드라인 일곱 가지를 AI 원칙 아홉 가지에 대응시켜 부록 58개 항목으로 정리했다. 모델 오류율 공개부터 경매용 피처 중요도, 모델 카드까지 감사인이 이미 적용하는 요건이다."
+            "x": "Google이 덧붙인 메모는 이렇다. \"참고: AI로 공인을 사칭하는 광고는 AI로 생성하거나 편집했다고 밝히더라도 허용되지 않습니다.\""
           },
           {
             "t": "p",
-            "x": "새 규정이 다룰 분야는 모델 거버넌스, 무효 트래픽, 브랜드 안전성, “LLM 내 구조화·대화형 광고의 기본 측정(base measurement of structured and conversational ads in LLM)”, 시뮬레이션·합성 오디언스, 경매 투명성이다. MRC는 회색 지대도 짚었다. 에이전트가 페이지를 불러온 것을 사람이 광고를 본 것으로 칠 수 있느냐는 “에이전트 유효성(agentic validity)” 문제, 제로 클릭(zero-click) 답변, 퍼블리셔 트래픽을 무효로 분류되게 만들 수 있는 AI 크롤러가 그렇다."
+            "x": "추가된 문장을 빨간색으로 표시한 스크린샷이다."
+          },
+          {
+            "t": "img",
+            "src": "https://images.seroundtable.com/google-doc-change-hAyqlNeM.png",
+            "cap": "Google 문서 변경 사항"
+          },
+          {
+            "t": "p",
+            "x": "Google의 Unacceptable Business Practices 정책은 AI로 공인을 사칭하는 광고를 금지한다. 광고에 해당 콘텐츠를 AI로 생성하거나 편집했다고 밝혀 두어도 마찬가지다."
+          },
+          {
+            "t": "p",
+            "x": "Google은 이렇게 썼다. \"Google은 Public-figure impersonation(공인 사칭)에 관한 Unacceptable Business Practices 정책을 업데이트해, AI로 공인을 사칭하는 광고는 AI로 생성하거나 편집했다고 밝히더라도 허용되지 않는다는 점을 명확히 했습니다. 이번 설명은 광고주의 정책 이해를 돕기 위한 것이며 정책 집행 방식을 바꾸지 않습니다.\""
+          },
+          {
+            "t": "p",
+            "x": "그러니 이런 엄청난 광고는 이제 그만 내보내야 한다."
+          },
+          {
+            "t": "img",
+            "src": "https://images.seroundtable.com/ai-ad-atmEYoSV.jpg",
+            "cap": "AI 광고"
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "MRC sets Q1 2027 draft for\nfirst AI measurement rules",
-          "body": "The MRC will release its first draft AI ad measurement standards in Q1 2027, with a second phase due by mid-2027.",
-          "mini_headline": "MRC drafts AI ad standards",
+          "headline": "Google Ads bars AI impersonation\nof public figures",
+          "body": "Ads that use AI to impersonate public figures are not allowed even when they disclose the AI, Google clarified.",
+          "mini_headline": "No AI public-figure ads",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/mrc-ai-measurement-standards-q1-2027-draft-7-rulebooks-standard-weights-case-paper-template.jpg",
-                "cap": "MRC’s AI standards draft lands Q1 2027, but auditors already apply 7 rulebooks and 9 principles"
+                "src": "https://images.seroundtable.com/google-ads-logo-mirror-wCJesbMh.jpg",
+                "cap": "Google Ads Logo Mirror"
               },
               {
                 "t": "p",
-                "x": "The Media Rating Council said on November 10, 2026 that the first phase of its draft standards governing artificial intelligence in media measurement is planned for public comment in the first quarter of 2027, with a second phase to follow by mid-2027. That is later than its July 8, 2026 guidance, which expected completion \"throughout 2026 and early 2027.\""
+                "x": "Google Ads clarified in its unacceptable Business Practices policy that impersonating public figures using AI isn’t allowed, even if they disclose that they were generated or edited using AI. Yes, you can use AI but not in this case and when you use AI, you should disclose it."
               },
               {
                 "t": "p",
-                "x": "Until then, that 13-page guidance maps seven existing MRC standards and guidelines onto nine AI principles in 58 appendix entries — requirements auditors already apply, from disclosure of model error rates to feature importance and model cards for auctions."
+                "x": "Google added this note: \"Note: Ads that impersonate public figures using AI aren’t allowed, even if they disclose that they were generated or edited using AI.\""
               },
               {
                 "t": "p",
-                "x": "The new rules will cover model governance, invalid traffic, brand safety, \"base measurement of structured and conversational ads in LLM,\" simulated and synthetic audiences, and auction transparency. The MRC flags grey areas such as \"agentic validity\" — whether an agent loading a page means a person saw the ad — zero-click answers, and AI crawlers that can get publishers' traffic classified as invalid."
+                "x": "Here is a screenshot of what was added, highlighted in red:"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-doc-change-hAyqlNeM.png",
+                "cap": "Google Doc Change"
+              },
+              {
+                "t": "p",
+                "x": "Google's Unacceptable Business Practices policy prohibits ads that use AI to impersonate public figures. This rule applies even if the ad discloses that the content was generated or edited using AI."
+              },
+              {
+                "t": "p",
+                "x": "Google wrote: \"Google updated its Unacceptable Business Practices policy on Public-figure impersonation to clarify that ads that impersonate public figures using AI are not allowed, even if they disclose that they were generated or edited using AI. This clarification is meant to help advertisers understand the policy and does not change the enforcement of the policy.\""
+              },
+              {
+                "t": "p",
+                "x": "So stop using this whale of an ad:"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/ai-ad-atmEYoSV.jpg",
+                "cap": "Ai Ad"
               }
             ]
           }
         },
         "ko": {
-          "headline": "MRC 첫 AI 측정기준\nQ1 2027 초안 공개",
-          "body": "MRC는 Q1 2027에 AI 측정 기준 초안을, mid-2027에 후속안을 낸다.",
-          "mini_headline": "MRC, AI 광고 기준 초안",
+          "headline": "Google Ads\nAI 공인 사칭 금지",
+          "body": "AI로 공인을 사칭한 광고는 AI임을 밝혀도 금지된다고 Google이 밝혔다.",
+          "mini_headline": "AI 공인 광고 금지",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/mrc-ai-measurement-standards-q1-2027-draft-7-rulebooks-standard-weights-case-paper-template.jpg",
-                "cap": "MRC의 AI 기준 초안은 Q1 2027에 나오지만 감사인은 이미 7개 규정집과 9개 원칙을 적용한다"
+                "src": "https://images.seroundtable.com/google-ads-logo-mirror-wCJesbMh.jpg",
+                "cap": "Google Ads 로고 미러"
               },
               {
                 "t": "p",
-                "x": "Media Rating Council은 2026년 11월 10일, 미디어 측정에 쓰이는 인공지능 기준 초안의 첫 단계를 2027년 첫 분기에 공개 의견 수렴에 부치고 두 번째 단계는 mid-2027까지 잇겠다고 밝혔다. 2026년 7월 8일 지침이 “2026년 내내 그리고 2027년 초”에 마무리될 것으로 내다봤던 일정보다 늦어졌다."
+                "x": "Google Ads가 unacceptable Business Practices 정책을 손봐, AI로 공인을 사칭하면 AI로 생성하거나 편집했다고 밝혀도 허용하지 않는다는 점을 분명히 했다. AI 사용 자체는 괜찮고 쓸 때 그 사실을 밝히면 되지만, 이 경우만은 예외다."
               },
               {
                 "t": "p",
-                "x": "그때까지는 13쪽짜리 그 지침이 기준 노릇을 한다. 지침은 기존 MRC 기준과 가이드라인 일곱 가지를 AI 원칙 아홉 가지에 대응시켜 부록 58개 항목으로 정리했다. 모델 오류율 공개부터 경매용 피처 중요도, 모델 카드까지 감사인이 이미 적용하는 요건이다."
+                "x": "Google이 덧붙인 메모는 이렇다. \"참고: AI로 공인을 사칭하는 광고는 AI로 생성하거나 편집했다고 밝히더라도 허용되지 않습니다.\""
               },
               {
                 "t": "p",
-                "x": "새 규정이 다룰 분야는 모델 거버넌스, 무효 트래픽, 브랜드 안전성, “LLM 내 구조화·대화형 광고의 기본 측정(base measurement of structured and conversational ads in LLM)”, 시뮬레이션·합성 오디언스, 경매 투명성이다. MRC는 회색 지대도 짚었다. 에이전트가 페이지를 불러온 것을 사람이 광고를 본 것으로 칠 수 있느냐는 “에이전트 유효성(agentic validity)” 문제, 제로 클릭(zero-click) 답변, 퍼블리셔 트래픽을 무효로 분류되게 만들 수 있는 AI 크롤러가 그렇다."
+                "x": "추가된 문장을 빨간색으로 표시한 스크린샷이다."
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-doc-change-hAyqlNeM.png",
+                "cap": "Google 문서 변경 사항"
+              },
+              {
+                "t": "p",
+                "x": "Google의 Unacceptable Business Practices 정책은 AI로 공인을 사칭하는 광고를 금지한다. 광고에 해당 콘텐츠를 AI로 생성하거나 편집했다고 밝혀 두어도 마찬가지다."
+              },
+              {
+                "t": "p",
+                "x": "Google은 이렇게 썼다. \"Google은 Public-figure impersonation(공인 사칭)에 관한 Unacceptable Business Practices 정책을 업데이트해, AI로 공인을 사칭하는 광고는 AI로 생성하거나 편집했다고 밝히더라도 허용되지 않는다는 점을 명확히 했습니다. 이번 설명은 광고주의 정책 이해를 돕기 위한 것이며 정책 집행 방식을 바꾸지 않습니다.\""
+              },
+              {
+                "t": "p",
+                "x": "그러니 이런 엄청난 광고는 이제 그만 내보내야 한다."
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/ai-ad-atmEYoSV.jpg",
+                "cap": "AI 광고"
               }
             ]
           }
         },
         "ja": {
-          "headline": "MRC、初のAI測定基準\nQ1 2027に草案公表",
-          "body": "MRCは初のAI広告測定基準草案をQ1 2027に、次段階をmid-2027までに示す。",
-          "mini_headline": "MRC、AI広告基準の草案へ",
+          "headline": "Google Ads\nAIで公人なりすまし禁止",
+          "body": "AIで公人になりすます広告は、AI使用を明示しても認めないとGoogleが明確にした。",
+          "mini_headline": "AIで公人を装う広告は禁止",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/mrc-ai-measurement-standards-q1-2027-draft-7-rulebooks-standard-weights-case-paper-template.jpg",
-                "cap": "MRCのAI基準草案はQ1 2027に出るが、監査人はすでに7つの規則集と9つの原則を適用している"
+                "src": "https://images.seroundtable.com/google-ads-logo-mirror-wCJesbMh.jpg",
+                "cap": "Google Adsのロゴ（ミラー）"
               },
               {
                 "t": "p",
-                "x": "Media Rating Councilは2026年11月10日、メディア測定における人工知能を扱う基準草案の第一段階を2027年第一四半期にパブリックコメントに付し、第二段階をmid-2027までに続ける計画だと明らかにした。「2026年を通じて2027年初めまで」の完了を見込んでいた2026年7月8日のガイダンスより遅れる。"
+                "x": "Google Adsは、unacceptable Business Practicesポリシーにおいて、AIを使った公人へのなりすましは、AIで生成または編集したことを開示していても認められないと明確にした。AIを使うこと自体は構わないが、このケースは別であり、AIを使う場合は開示すべきだ。"
               },
               {
                 "t": "p",
-                "x": "それまでは、その13ページのガイダンスが拠り所となる。既存のMRC基準とガイドライン七つを九つのAI原則に対応させ、58の付録項目にまとめたもので、モデル誤差率の開示からオークション向けの特徴量重要度やモデルカードまで、監査人がすでに適用している要件である。"
+                "x": "Googleは次の注記を加えた。「注：AIを使って公人になりすます広告は、AIで生成または編集したことを開示していても認められない。」"
               },
               {
                 "t": "p",
-                "x": "新ルールは、モデルガバナンス、無効トラフィック、ブランドセーフティ、「LLMにおける構造化広告と対話型広告の基本測定（base measurement of structured and conversational ads in LLM）」、シミュレーション・合成オーディエンス、オークションの透明性を対象とする。MRCは「エージェント的妥当性（agentic validity）」――エージェントがページを読み込んだことを人が広告を見たとみなせるのか――、ゼロクリック（zero-click）回答、パブリッシャーのトラフィックを無効と分類させかねないAIクローラーといったグレーゾーンを指摘している。"
+                "x": "追加された部分を赤で強調したスクリーンショットは以下のとおりだ。"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-doc-change-hAyqlNeM.png",
+                "cap": "Googleドキュメントの変更"
+              },
+              {
+                "t": "p",
+                "x": "GoogleのUnacceptable Business Practicesポリシーは、AIを使って公人になりすます広告を禁じている。このルールは、広告がそのコンテンツをAIで生成または編集したと開示している場合にも適用される。"
+              },
+              {
+                "t": "p",
+                "x": "Googleは次のように記した。「Googleは、Public-figure impersonation（公人へのなりすまし）に関するUnacceptable Business Practicesポリシーを更新し、AIを使って公人になりすます広告は、AIで生成または編集したことを開示していても認められないことを明確にした。この明確化は広告主がポリシーを理解する助けとなることを目的としており、ポリシーの施行を変えるものではない。」"
+              },
+              {
+                "t": "p",
+                "x": "だから、このとんでもない広告はもうやめるべきだ。"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/ai-ad-atmEYoSV.jpg",
+                "cap": "AI広告"
               }
             ]
           }
         },
         "zh": {
-          "headline": "MRC首个AI衡量标准\nQ1 2027推出草案",
-          "body": "MRC将于Q1 2027发布首份AI广告衡量标准草案，第二阶段定于mid-2027前。",
-          "mini_headline": "MRC起草AI广告标准",
+          "headline": "Google Ads禁止\n用AI冒充公众人物",
+          "body": "Google明确表示，用AI冒充公众人物的广告即使披露使用了AI也不被允许。",
+          "mini_headline": "禁止AI冒充公众人物广告",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/mrc-ai-measurement-standards-q1-2027-draft-7-rulebooks-standard-weights-case-paper-template.jpg",
-                "cap": "MRC的AI标准草案将于Q1 2027出炉，但审计方已在执行7套规则和9项原则"
+                "src": "https://images.seroundtable.com/google-ads-logo-mirror-wCJesbMh.jpg",
+                "cap": "Google Ads标志镜像"
               },
               {
                 "t": "p",
-                "x": "Media Rating Council于2026年11月10日表示，其规范媒体测量中人工智能应用的标准草案第一阶段计划在2027年第一季度公开征求意见，第二阶段将在mid-2027前跟进。这晚于其2026年7月8日指引中的预期，当时预计在“2026年全年及2027年初”完成。"
+                "x": "Google Ads在其unacceptable Business Practices政策中明确，使用AI冒充公众人物的行为不被允许，即使已披露内容由AI生成或编辑。没错，你可以使用AI，但这种情况不行；而且使用AI时应当予以披露。"
               },
               {
                 "t": "p",
-                "x": "在此之前，那份13页的指引仍是依据：它将七项现有MRC标准和指南对应到九项AI原则，形成58个附录条目——这些是审计方已经在执行的要求，从披露模型误差率，到拍卖中的特征重要性和模型卡。"
+                "x": "Google添加了这条说明：“注意：使用AI冒充公众人物的广告不被允许，即使已披露其由AI生成或编辑。”"
               },
               {
                 "t": "p",
-                "x": "新规则将涵盖模型治理、无效流量、品牌安全、“LLM中结构化与对话式广告的基础测量（base measurement of structured and conversational ads in LLM）”、模拟与合成受众以及拍卖透明度。MRC指出了若干灰色地带，例如“智能体有效性（agentic validity）”——智能体加载了页面是否意味着有人看到了广告——零点击（zero-click）答案，以及可能导致发布商流量被判定为无效的AI爬虫。"
+                "x": "以下是新增内容的截图，已用红色标出："
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-doc-change-hAyqlNeM.png",
+                "cap": "Google文档变更"
+              },
+              {
+                "t": "p",
+                "x": "Google的Unacceptable Business Practices政策禁止使用AI冒充公众人物的广告。即使广告披露了内容由AI生成或编辑，这一规则同样适用。"
+              },
+              {
+                "t": "p",
+                "x": "Google写道：“Google更新了其Unacceptable Business Practices政策中关于Public-figure impersonation（冒充公众人物）的规定，明确使用AI冒充公众人物的广告不被允许，即使已披露其由AI生成或编辑。此次澄清旨在帮助广告主理解该政策，并不改变政策的执行。”"
+              },
+              {
+                "t": "p",
+                "x": "所以，别再用这种夸张的广告了："
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/ai-ad-atmEYoSV.jpg",
+                "cap": "AI广告"
               }
             ]
           }
         },
         "es": {
-          "headline": "El MRC fija para Q1 2027\nsu borrador de medición de AI",
-          "body": "El MRC publicará en Q1 2027 el primer borrador de sus normas de AI para medir anuncios, con otra fase hacia mid-2027.",
-          "mini_headline": "El MRC redacta normas de AI",
+          "headline": "Google Ads prohíbe suplantar\ncon AI a figuras públicas",
+          "body": "Google aclaró que no se permiten anuncios que usen AI para suplantar a figuras públicas, aunque declaren el uso de AI.",
+          "mini_headline": "Sin anuncios de AI con figuras públicas",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/mrc-ai-measurement-standards-q1-2027-draft-7-rulebooks-standard-weights-case-paper-template.jpg",
-                "cap": "El borrador de normas de AI del MRC llega en Q1 2027, pero los auditores ya aplican 7 reglamentos y 9 principios"
+                "src": "https://images.seroundtable.com/google-ads-logo-mirror-wCJesbMh.jpg",
+                "cap": "Logo de Google Ads en espejo"
               },
               {
                 "t": "p",
-                "x": "El Media Rating Council informó el 10 de noviembre de 2026 que la primera fase de su borrador de normas sobre el uso de la inteligencia artificial en la medición de medios se someterá a comentarios públicos en el primer trimestre de 2027, y que una segunda fase llegará hacia mid-2027. Es más tarde de lo que preveía su guía del 8 de julio de 2026, que esperaba concluir “a lo largo de 2026 y a principios de 2027”."
+                "x": "Google Ads aclaró en su política de unacceptable Business Practices que no se permite suplantar a figuras públicas con AI, aunque se declare que el contenido se generó o editó con AI. Sí, se puede usar AI, pero no en este caso, y cuando se usa AI hay que declararlo."
               },
               {
                 "t": "p",
-                "x": "Hasta entonces, esa guía de 13 páginas vincula siete normas y directrices vigentes del MRC con nueve principios de AI en 58 entradas de anexo: requisitos que los auditores ya aplican, desde la divulgación de las tasas de error de los modelos hasta la importancia de las variables y las fichas de modelo en las subastas."
+                "x": "Google añadió esta nota: \"Nota: No se permiten los anuncios que suplantan a figuras públicas con AI, aunque declaren que se generaron o editaron con AI\"."
               },
               {
                 "t": "p",
-                "x": "Las nuevas reglas abarcarán la gobernanza de modelos, el tráfico inválido, la seguridad de marca, la “medición base de anuncios estructurados y conversacionales en LLM”, las audiencias simuladas y sintéticas y la transparencia de las subastas. El MRC señala zonas grises como la “validez agéntica” (agentic validity) —si que un agente cargue una página significa que una persona vio el anuncio—, las respuestas zero-click y los rastreadores de AI que pueden hacer que el tráfico de los editores se clasifique como inválido."
+                "x": "Esta es una captura de pantalla de lo que se añadió, resaltado en rojo:"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-doc-change-hAyqlNeM.png",
+                "cap": "Cambio en el documento de Google"
+              },
+              {
+                "t": "p",
+                "x": "La política de Unacceptable Business Practices de Google prohíbe los anuncios que usan AI para suplantar a figuras públicas. La norma se aplica aunque el anuncio declare que el contenido se generó o editó con AI."
+              },
+              {
+                "t": "p",
+                "x": "Google escribió: \"Google actualizó su política de Unacceptable Business Practices sobre Public-figure impersonation para aclarar que no se permiten los anuncios que suplantan a figuras públicas con AI, aunque declaren que se generaron o editaron con AI. Esta aclaración busca ayudar a los anunciantes a entender la política y no cambia su aplicación\"."
+              },
+              {
+                "t": "p",
+                "x": "Así que dejen de usar este anuncio descomunal:"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/ai-ad-atmEYoSV.jpg",
+                "cap": "Anuncio de AI"
               }
             ]
           }
@@ -497,109 +629,197 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "MRC 첫 AI 측정기준\nQ1 2027 초안 공개",
-          "body": "MRC가 AI 측정 기준 초안을 Q1 2027에, 후속을 mid-2027에 낸다.",
-          "mini_headline": "MRC, AI 광고 기준 초안",
+          "headline": "Google Ads\nAI 공인 사칭 금지",
+          "body": "AI로 공인을 사칭한 광고는 AI임을 밝혀도 금지된다고 Google이 밝혔다.",
+          "mini_headline": "AI 공인 광고 금지",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/mrc-ai-measurement-standards-q1-2027-draft-7-rulebooks-standard-weights-case-paper-template.jpg",
-                "cap": "MRC의 AI 기준 초안은 Q1 2027에 나오지만, 감사인은 이미 7개 규정집과 9개 원칙을 적용하고 있다"
+                "src": "https://images.seroundtable.com/google-ads-logo-mirror-wCJesbMh.jpg",
+                "cap": "Google Ads 로고 미러"
               },
               {
                 "t": "p",
-                "x": "Media Rating Council은 2026년 11월 10일, 미디어 측정에서 인공지능을 다루는 기준 초안의 첫 단계를 2027년 첫 분기에 공개 의견 수렴에 부치고, 두 번째 단계를 mid-2027까지 이어가겠다고 밝혔다. “2026년 내내 그리고 2027년 초”에 마무리될 것으로 내다봤던 2026년 7월 8일 지침보다 늦어진 일정이다."
+                "x": "Google Ads는 unacceptable Business Practices 정책에서 AI로 공인을 사칭하는 행위는 AI로 생성하거나 편집했다고 밝히더라도 허용되지 않는다고 명확히 했다. AI를 써도 되지만 이 경우는 예외이고, AI를 쓸 때는 그 사실을 밝혀야 한다."
               },
               {
                 "t": "p",
-                "x": "그때까지는 13쪽 분량의 그 지침이 기준이 된다. 지침은 기존 MRC 기준과 가이드라인 일곱 가지를 아홉 가지 AI 원칙에 대응시켜 58개 부록 항목으로 정리했다. 모델 오류율 공개부터 경매용 피처 중요도와 모델 카드까지, 감사인이 이미 적용하는 요건이다."
+                "x": "Google은 다음 메모를 추가했다. \"참고: AI로 공인을 사칭하는 광고는 AI로 생성하거나 편집했다고 밝히더라도 허용되지 않습니다.\""
               },
               {
                 "t": "p",
-                "x": "새 규정은 모델 거버넌스, 무효 트래픽, 브랜드 안전성, “LLM 내 구조화·대화형 광고의 기본 측정(base measurement of structured and conversational ads in LLM)”, 시뮬레이션·합성 오디언스, 경매 투명성을 다룬다. MRC는 “에이전트 유효성(agentic validity)” — 에이전트가 페이지를 불러온 것을 사람이 광고를 본 것으로 볼 수 있는가 — 과 제로 클릭(zero-click) 답변, 퍼블리셔 트래픽을 무효로 분류되게 만들 수 있는 AI 크롤러 같은 회색 지대를 짚었다."
+                "x": "추가된 내용을 빨간색으로 표시한 스크린샷은 다음과 같다."
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-doc-change-hAyqlNeM.png",
+                "cap": "Google 문서 변경 사항"
+              },
+              {
+                "t": "p",
+                "x": "Google의 Unacceptable Business Practices 정책은 AI로 공인을 사칭하는 광고를 금지한다. 이 규칙은 광고가 해당 콘텐츠를 AI로 생성하거나 편집했다고 밝힌 경우에도 적용된다."
+              },
+              {
+                "t": "p",
+                "x": "Google은 이렇게 썼다. \"Google은 Public-figure impersonation(공인 사칭)에 관한 Unacceptable Business Practices 정책을 업데이트해, AI로 공인을 사칭하는 광고는 AI로 생성하거나 편집했다고 밝히더라도 허용되지 않는다는 점을 명확히 했습니다. 이번 설명은 광고주의 정책 이해를 돕기 위한 것이며 정책 집행 방식을 바꾸지 않습니다.\""
+              },
+              {
+                "t": "p",
+                "x": "그러니 이런 엄청난 광고는 이제 그만 써야 한다."
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/ai-ad-atmEYoSV.jpg",
+                "cap": "AI 광고"
               }
             ]
           }
         },
         "ja": {
-          "headline": "MRC、初のAI測定基準\nQ1 2027に草案公表",
-          "body": "MRCは初のAI広告測定基準草案をQ1 2027に、次段階をmid-2027までに示す。",
-          "mini_headline": "MRC、AI広告基準の草案へ",
+          "headline": "Google Ads\nAIで公人なりすまし禁止",
+          "body": "AIで公人になりすます広告は、AI使用を明示しても認めないとGoogleが明確にした。",
+          "mini_headline": "AIで公人を装う広告は禁止",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/mrc-ai-measurement-standards-q1-2027-draft-7-rulebooks-standard-weights-case-paper-template.jpg",
-                "cap": "MRCのAI基準草案はQ1 2027に出るが、監査人はすでに7つの規則集と9つの原則を適用している"
+                "src": "https://images.seroundtable.com/google-ads-logo-mirror-wCJesbMh.jpg",
+                "cap": "Google Adsのロゴ（ミラー）"
               },
               {
                 "t": "p",
-                "x": "Media Rating Councilは2026年11月10日、メディア測定における人工知能を扱う基準草案の第一段階を2027年第一四半期にパブリックコメントに付し、第二段階をmid-2027までに続ける計画だと明らかにした。「2026年を通じて2027年初めまで」の完了を見込んでいた2026年7月8日のガイダンスより遅れる。"
+                "x": "Google Adsは、unacceptable Business Practicesポリシーにおいて、AIを使った公人へのなりすましは、AIで生成または編集したことを開示していても認められないと明確にした。AIを使うこと自体は構わないが、このケースは別であり、AIを使う場合は開示すべきだ。"
               },
               {
                 "t": "p",
-                "x": "それまでは、その13ページのガイダンスが拠り所となる。既存のMRC基準とガイドライン七つを九つのAI原則に対応させ、58の付録項目にまとめたもので、モデル誤差率の開示からオークション向けの特徴量重要度やモデルカードまで、監査人がすでに適用している要件である。"
+                "x": "Googleは次の注記を加えた。「注：AIを使って公人になりすます広告は、AIで生成または編集したことを開示していても認められない。」"
               },
               {
                 "t": "p",
-                "x": "新ルールは、モデルガバナンス、無効トラフィック、ブランドセーフティ、「LLMにおける構造化広告と対話型広告の基本測定（base measurement of structured and conversational ads in LLM）」、シミュレーション・合成オーディエンス、オークションの透明性を対象とする。MRCは「エージェント的妥当性（agentic validity）」――エージェントがページを読み込んだことを人が広告を見たとみなせるのか――、ゼロクリック（zero-click）回答、パブリッシャーのトラフィックを無効と分類させかねないAIクローラーといったグレーゾーンを指摘している。"
+                "x": "追加された部分を赤で強調したスクリーンショットは以下のとおりだ。"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-doc-change-hAyqlNeM.png",
+                "cap": "Googleドキュメントの変更"
+              },
+              {
+                "t": "p",
+                "x": "GoogleのUnacceptable Business Practicesポリシーは、AIを使って公人になりすます広告を禁じている。このルールは、広告がそのコンテンツをAIで生成または編集したと開示している場合にも適用される。"
+              },
+              {
+                "t": "p",
+                "x": "Googleは次のように記した。「Googleは、Public-figure impersonation（公人へのなりすまし）に関するUnacceptable Business Practicesポリシーを更新し、AIを使って公人になりすます広告は、AIで生成または編集したことを開示していても認められないことを明確にした。この明確化は広告主がポリシーを理解する助けとなることを目的としており、ポリシーの施行を変えるものではない。」"
+              },
+              {
+                "t": "p",
+                "x": "だから、このとんでもない広告はもうやめるべきだ。"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/ai-ad-atmEYoSV.jpg",
+                "cap": "AI広告"
               }
             ]
           }
         },
         "zh": {
-          "headline": "MRC首个AI衡量标准\nQ1 2027推出草案",
-          "body": "MRC将于Q1 2027发布首份AI广告衡量标准草案，第二阶段定于mid-2027前。",
-          "mini_headline": "MRC起草AI广告标准",
+          "headline": "Google Ads禁止\n用AI冒充公众人物",
+          "body": "Google明确表示，用AI冒充公众人物的广告即使披露使用了AI也不被允许。",
+          "mini_headline": "禁止AI冒充公众人物广告",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/mrc-ai-measurement-standards-q1-2027-draft-7-rulebooks-standard-weights-case-paper-template.jpg",
-                "cap": "MRC的AI标准草案将于Q1 2027出炉，但审计方已在执行7套规则和9项原则"
+                "src": "https://images.seroundtable.com/google-ads-logo-mirror-wCJesbMh.jpg",
+                "cap": "Google Ads标志镜像"
               },
               {
                 "t": "p",
-                "x": "Media Rating Council于2026年11月10日表示，其规范媒体测量中人工智能应用的标准草案第一阶段计划在2027年第一季度公开征求意见，第二阶段将在mid-2027前跟进。这晚于其2026年7月8日指引中的预期，当时预计在“2026年全年及2027年初”完成。"
+                "x": "Google Ads在其unacceptable Business Practices政策中明确，使用AI冒充公众人物的行为不被允许，即使已披露内容由AI生成或编辑。没错，你可以使用AI，但这种情况不行；而且使用AI时应当予以披露。"
               },
               {
                 "t": "p",
-                "x": "在此之前，那份13页的指引仍是依据：它将七项现有MRC标准和指南对应到九项AI原则，形成58个附录条目——这些是审计方已经在执行的要求，从披露模型误差率，到拍卖中的特征重要性和模型卡。"
+                "x": "Google添加了这条说明：“注意：使用AI冒充公众人物的广告不被允许，即使已披露其由AI生成或编辑。”"
               },
               {
                 "t": "p",
-                "x": "新规则将涵盖模型治理、无效流量、品牌安全、“LLM中结构化与对话式广告的基础测量（base measurement of structured and conversational ads in LLM）”、模拟与合成受众以及拍卖透明度。MRC指出了若干灰色地带，例如“智能体有效性（agentic validity）”——智能体加载了页面是否意味着有人看到了广告——零点击（zero-click）答案，以及可能导致发布商流量被判定为无效的AI爬虫。"
+                "x": "以下是新增内容的截图，已用红色标出："
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-doc-change-hAyqlNeM.png",
+                "cap": "Google文档变更"
+              },
+              {
+                "t": "p",
+                "x": "Google的Unacceptable Business Practices政策禁止使用AI冒充公众人物的广告。即使广告披露了内容由AI生成或编辑，这一规则同样适用。"
+              },
+              {
+                "t": "p",
+                "x": "Google写道：“Google更新了其Unacceptable Business Practices政策中关于Public-figure impersonation（冒充公众人物）的规定，明确使用AI冒充公众人物的广告不被允许，即使已披露其由AI生成或编辑。此次澄清旨在帮助广告主理解该政策，并不改变政策的执行。”"
+              },
+              {
+                "t": "p",
+                "x": "所以，别再用这种夸张的广告了："
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/ai-ad-atmEYoSV.jpg",
+                "cap": "AI广告"
               }
             ]
           }
         },
         "es": {
-          "headline": "El MRC fija para Q1 2027\nsu borrador de medición de AI",
-          "body": "El MRC publicará en Q1 2027 el primer borrador de sus normas de AI para medir anuncios, con otra fase hacia mid-2027.",
-          "mini_headline": "El MRC redacta normas de AI",
+          "headline": "Google Ads prohíbe suplantar\ncon AI a figuras públicas",
+          "body": "Google aclaró que no se permiten anuncios que usen AI para suplantar a figuras públicas, aunque declaren el uso de AI.",
+          "mini_headline": "Sin anuncios de AI con figuras públicas",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/mrc-ai-measurement-standards-q1-2027-draft-7-rulebooks-standard-weights-case-paper-template.jpg",
-                "cap": "El borrador de normas de AI del MRC llega en Q1 2027, pero los auditores ya aplican 7 reglamentos y 9 principios"
+                "src": "https://images.seroundtable.com/google-ads-logo-mirror-wCJesbMh.jpg",
+                "cap": "Logo de Google Ads en espejo"
               },
               {
                 "t": "p",
-                "x": "El Media Rating Council informó el 10 de noviembre de 2026 que la primera fase de su borrador de normas sobre el uso de la inteligencia artificial en la medición de medios se someterá a comentarios públicos en el primer trimestre de 2027, y que una segunda fase llegará hacia mid-2027. Es más tarde de lo que preveía su guía del 8 de julio de 2026, que esperaba concluir “a lo largo de 2026 y a principios de 2027”."
+                "x": "Google Ads aclaró en su política de unacceptable Business Practices que no se permite suplantar a figuras públicas con AI, aunque se declare que el contenido se generó o editó con AI. Sí, se puede usar AI, pero no en este caso, y cuando se usa AI hay que declararlo."
               },
               {
                 "t": "p",
-                "x": "Hasta entonces, esa guía de 13 páginas vincula siete normas y directrices vigentes del MRC con nueve principios de AI en 58 entradas de anexo: requisitos que los auditores ya aplican, desde la divulgación de las tasas de error de los modelos hasta la importancia de las variables y las fichas de modelo en las subastas."
+                "x": "Google añadió esta nota: \"Nota: No se permiten los anuncios que suplantan a figuras públicas con AI, aunque declaren que se generaron o editaron con AI\"."
               },
               {
                 "t": "p",
-                "x": "Las nuevas reglas abarcarán la gobernanza de modelos, el tráfico inválido, la seguridad de marca, la “medición base de anuncios estructurados y conversacionales en LLM”, las audiencias simuladas y sintéticas y la transparencia de las subastas. El MRC señala zonas grises como la “validez agéntica” (agentic validity) —si que un agente cargue una página significa que una persona vio el anuncio—, las respuestas zero-click y los rastreadores de AI que pueden hacer que el tráfico de los editores se clasifique como inválido."
+                "x": "Esta es una captura de pantalla de lo que se añadió, resaltado en rojo:"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-doc-change-hAyqlNeM.png",
+                "cap": "Cambio en el documento de Google"
+              },
+              {
+                "t": "p",
+                "x": "La política de Unacceptable Business Practices de Google prohíbe los anuncios que usan AI para suplantar a figuras públicas. La norma se aplica aunque el anuncio declare que el contenido se generó o editó con AI."
+              },
+              {
+                "t": "p",
+                "x": "Google escribió: \"Google actualizó su política de Unacceptable Business Practices sobre Public-figure impersonation para aclarar que no se permiten los anuncios que suplantan a figuras públicas con AI, aunque declaren que se generaron o editaron con AI. Esta aclaración busca ayudar a los anunciantes a entender la política y no cambia su aplicación\"."
+              },
+              {
+                "t": "p",
+                "x": "Así que dejen de usar este anuncio descomunal:"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/ai-ad-atmEYoSV.jpg",
+                "cap": "Anuncio de AI"
               }
             ]
           }
@@ -607,15 +827,15 @@
       }
     },
     {
-      "id": "reddit-qloo-targeting",
+      "id": "eu-ai-act-deepfake-ad-labels",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Reddit, Qloo로\n예측 광고 타기팅 강화",
-      "body": "Reddit이 Qloo로 관심사 상관관계를 읽어 광고를 더 정밀하게 겨눈다.",
-      "mini_headline": "Reddit, Qloo 타기팅 도입",
+      "headline": "EU 딥페이크 라벨\nnon-EU 광고주에도",
+      "body": "non-EU 광고주도 AI 제품 사진에 라벨을 달아야 하며 벌금은 최대 3%다.",
+      "mini_headline": "광고 속 EU AI 라벨",
       "tool": "Marketing",
-      "source": "AdExchanger",
-      "url": "https://www.adexchanger.com/marketers/reddit-taps-qloo-to-strengthen-its-predictive-targeting/",
+      "source": "PPC Land",
+      "url": "https://ppc.land/non-eu-advertisers-face-3-eu-fines-for-unlabelled-ai-deep-fake-ads/",
       "accent": "#7928ca",
       "motif": "frame",
       "full": {
@@ -623,155 +843,155 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.adexchanger.com/wp-content/uploads/2026/11/shutterstock_2735591353-1024x746.jpg",
-            "cap": ""
+            "src": "https://ppc.land/content/images/size/w2000/2026/11/eu-ai-act-deep-fake-label-3-percent-fines-carousel-projector-flattered-kettle-across-sea.jpg",
+            "cap": "Non-EU 광고 제작사가 실물을 미화한 AI 제품 사진에 라벨을 달지 않으면 매출액의 3%를 벌금으로 낸다"
           },
           {
             "t": "p",
-            "x": "Reddit은 화요일 예측 추론 기업 Qloo(“클루”로 발음)와 손잡았다고 발표했다. Qloo가 10년 넘게 쌓은 독점 데이터로 더 관련성 높은 광고를 내보내겠다는 것이다. Qloo의 카탈로그는 식당이나 음악가 같은 관심사, 곧 “엔티티(entities)” 사이의 상관관계를 추적한다. 근거는 TasteDive 리뷰, Wikidata 메타데이터, 라이선스를 받은 외부(third-party) 데이터에서 뽑은 공통 속성이다."
+            "x": "AI Act 제50조 투명성 의무를 다룬 유럽연합 집행위원회(European Commission) 가이드라인이 문서번호 C/2026/6005로 유럽연합 관보에 실렸다. 가이드라인은 EU 밖에 세운 기업이라도 EU 역내에 걸 광고용으로 AI 시스템을 써 유명인 딥페이크를 만들면 AI Act가 적용되는 배포자(deployer)가 된다고 설명한다."
           },
           {
             "t": "p",
-            "x": "Reddit의 엔지니어링 시니어 디렉터 Virgilio Pigliucci는 언뜻 봐서는 드러나지 않는 공통 속성을 찾으려고 Qloo와 손잡았다고 말했다. 에스프레소 머신을 사려는 사람은 그 머신을 올려둘 테이블도 원하는 경우가 많다. 그러니 Reddit이 커피메이커 스레드에 높은 책상 광고를 띄울 수도 있다."
+            "x": "AI-made 유명인 보증 광고, 제품을 써 보는 합성 인플루언서, 실제 제품을 왜곡한 제품 이미지는 모두 딥페이크여서 눈에 보이는 라벨을 달아야 한다. AI 활용 방식을 통제하지 않고 대행사에 의뢰만 하는 기업은 배포자가 아니다. 광고 문구와 제품 설명은 건강·소비자 안전·지속가능성 주장을 담지 않으면 텍스트 규정에서 빠진다."
           },
           {
             "t": "p",
-            "x": "예전에는 신규 광고주의 캠페인을 최적화하려면 며칠에서 몇 주치 참여 데이터가 필요했다. 이제 Reddit은 Qloo의 “신호를 기준으로 최적화”할 수 있다. 모델이 사용자의 검색어나 브라우징 기록, 서브레딧(subreddit)을 몰라도 상관관계를 끌어내니 광고주는 “곧바로” 결과를 본다."
+            "x": "배포자는 \"제공자가 콘텐츠에 삽입한 기계 판독형 표시에 기댈 수 없다.\" 제50조를 어기면 EUR 15,000,000과 전 세계 연간 총매출액의 3% 가운데 큰 금액까지 벌금이 매겨진다. 2026년 8월 2일 전에 출시된 생성형 시스템은 2026년 12월 2일까지 표시 의무를 갖추면 된다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Reddit taps Qloo to sharpen\nits predictive ad targeting",
-          "body": "Reddit is using predictive inference firm Qloo to model correlated interests and target ads more precisely.",
-          "mini_headline": "Reddit adds Qloo targeting",
+          "headline": "EU deep fake labels reach\nnon-EU advertisers",
+          "body": "Synthetic influencers and AI product shots that misstate items need labels, with fines up to 3% for non-EU advertisers.",
+          "mini_headline": "EU AI labels for ads",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2026/11/shutterstock_2735591353-1024x746.jpg",
-                "cap": ""
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/eu-ai-act-deep-fake-label-3-percent-fines-carousel-projector-flattered-kettle-across-sea.jpg",
+                "cap": "Non-EU ad makers face 3% turnover fines if AI product shots flattering the real item go unlabelled"
               },
               {
                 "t": "p",
-                "x": "Reddit announced a partnership with predictive inference company Qloo (pronounced “clue”) on Tuesday, giving it access to over 10 years of Qloo’s proprietary data to serve more relevant ads. Qloo’s catalogue tracks correlations between interests, or “entities,” like restaurants and musical artists, based on shared attributes drawn from TasteDive reviews, Wikidata metadata and licensed third-party data."
+                "x": "The European Commission's guidelines on the transparency obligations in Article 50 of the AI Act were published in the Official Journal of the European Union under the reference C/2026/6005. A company established outside the EU that uses an AI system to generate a deep fake of a celebrity for an advertisement displayed in the Union is, according to the guidelines, a deployer within the scope of the AI Act."
               },
               {
                 "t": "p",
-                "x": "Finding shared attributes that aren’t obvious at first glance is why Reddit partnered with Qloo, said Virgilio Pigliucci, Reddit’s senior director of engineering. People shopping for an espresso machine often also want a table for it, so Reddit might serve an ad for a tall desk on a coffeemaker thread."
+                "x": "AI-made celebrity endorsements, synthetic influencers testing products and product images that misrepresent the real item all count as deep fakes that need a visible label. A company that merely commissions an agency, without control over how it uses AI, is not a deployer. Ad copy and product descriptions stay outside the text rule unless they make health, consumer safety or sustainability claims."
               },
               {
                 "t": "p",
-                "x": "Optimizing a new advertiser’s campaign used to take days or weeks of engagement data. Now Reddit can “optimize against the signals” from Qloo, and the model draws correlations without knowing a user’s search query, browsing history or subreddit, so advertisers see results “right away.”"
+                "x": "Deployers \"cannot rely on the machine-readable marking embedded in the content by the provider.\" Fines for breaching Article 50 reach EUR 15,000,000 or 3% of total worldwide annual turnover, whichever is higher. Generative systems placed on the market before August 2, 2026 have until December 2, 2026 to meet the marking duty."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Reddit, Qloo로\n예측 광고 타기팅 강화",
-          "body": "Reddit이 Qloo로 관심사 상관관계를 읽어 광고를 더 정밀하게 겨눈다.",
-          "mini_headline": "Reddit, Qloo 타기팅 도입",
+          "headline": "EU 딥페이크 라벨\nnon-EU 광고주에도",
+          "body": "non-EU 광고주도 AI 제품 사진에 라벨을 달아야 하며 벌금은 최대 3%다.",
+          "mini_headline": "광고 속 EU AI 라벨",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2026/11/shutterstock_2735591353-1024x746.jpg",
-                "cap": ""
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/eu-ai-act-deep-fake-label-3-percent-fines-carousel-projector-flattered-kettle-across-sea.jpg",
+                "cap": "Non-EU 광고 제작사가 실물을 미화한 AI 제품 사진에 라벨을 달지 않으면 매출액의 3%를 벌금으로 낸다"
               },
               {
                 "t": "p",
-                "x": "Reddit은 화요일 예측 추론 기업 Qloo(“클루”로 발음)와 손잡았다고 발표했다. Qloo가 10년 넘게 쌓은 독점 데이터로 더 관련성 높은 광고를 내보내겠다는 것이다. Qloo의 카탈로그는 식당이나 음악가 같은 관심사, 곧 “엔티티(entities)” 사이의 상관관계를 추적한다. 근거는 TasteDive 리뷰, Wikidata 메타데이터, 라이선스를 받은 외부(third-party) 데이터에서 뽑은 공통 속성이다."
+                "x": "AI Act 제50조 투명성 의무를 다룬 유럽연합 집행위원회(European Commission) 가이드라인이 문서번호 C/2026/6005로 유럽연합 관보에 실렸다. 가이드라인은 EU 밖에 세운 기업이라도 EU 역내에 걸 광고용으로 AI 시스템을 써 유명인 딥페이크를 만들면 AI Act가 적용되는 배포자(deployer)가 된다고 설명한다."
               },
               {
                 "t": "p",
-                "x": "Reddit의 엔지니어링 시니어 디렉터 Virgilio Pigliucci는 언뜻 봐서는 드러나지 않는 공통 속성을 찾으려고 Qloo와 손잡았다고 말했다. 에스프레소 머신을 사려는 사람은 그 머신을 올려둘 테이블도 원하는 경우가 많다. 그러니 Reddit이 커피메이커 스레드에 높은 책상 광고를 띄울 수도 있다."
+                "x": "AI-made 유명인 보증 광고, 제품을 써 보는 합성 인플루언서, 실제 제품을 왜곡한 제품 이미지는 모두 딥페이크여서 눈에 보이는 라벨을 달아야 한다. AI 활용 방식을 통제하지 않고 대행사에 의뢰만 하는 기업은 배포자가 아니다. 광고 문구와 제품 설명은 건강·소비자 안전·지속가능성 주장을 담지 않으면 텍스트 규정에서 빠진다."
               },
               {
                 "t": "p",
-                "x": "예전에는 신규 광고주의 캠페인을 최적화하려면 며칠에서 몇 주치 참여 데이터가 필요했다. 이제 Reddit은 Qloo의 “신호를 기준으로 최적화”할 수 있다. 모델이 사용자의 검색어나 브라우징 기록, 서브레딧(subreddit)을 몰라도 상관관계를 끌어내니 광고주는 “곧바로” 결과를 본다."
+                "x": "배포자는 \"제공자가 콘텐츠에 삽입한 기계 판독형 표시에 기댈 수 없다.\" 제50조를 어기면 EUR 15,000,000과 전 세계 연간 총매출액의 3% 가운데 큰 금액까지 벌금이 매겨진다. 2026년 8월 2일 전에 출시된 생성형 시스템은 2026년 12월 2일까지 표시 의무를 갖추면 된다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Reddit、Qlooと提携\n予測型広告配信を強化",
-          "body": "Redditは予測推論企業Qlooを使い関心の相関をモデル化し、広告をより精密に配信する。",
-          "mini_headline": "Reddit、Qlooでターゲティング",
+          "headline": "EUのディープフェイク表示\nnon-EU広告主にも",
+          "body": "合成インフルエンサーやAI製品写真に表示が必要で、non-EU広告主も罰金は最大3%だ。",
+          "mini_headline": "広告にEUのAI表示義務",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2026/11/shutterstock_2735591353-1024x746.jpg",
-                "cap": ""
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/eu-ai-act-deep-fake-label-3-percent-fines-carousel-projector-flattered-kettle-across-sea.jpg",
+                "cap": "Non-EUの広告制作者も、実物をよく見せるAI製品写真に表示を付けなければ売上高の3%の罰金を科される"
               },
               {
                 "t": "p",
-                "x": "Redditは火曜日、予測推論企業Qloo（発音は「クルー」）との提携を発表した。これによりQlooが持つ10年以上の独自データを利用でき、より関連性の高い広告を配信できるようになる。Qlooのカタログは、TasteDiveのレビュー、Wikidataのメタデータ、ライセンス取得済みのサードパーティーデータから引き出した共通属性をもとに、レストランやミュージシャンといった関心、つまり「エンティティ」同士の相関を追跡している。"
+                "x": "欧州委員会によるAI Act第50条の透明性義務に関するガイドラインが、C/2026/6005の番号で欧州連合官報に掲載された。ガイドラインによると、EU域外で設立された企業が、EU域内で表示される広告のためにAIシステムで著名人のディープフェイクを生成する場合、AI Actの適用対象となる導入者（deployer）にあたる。"
               },
               {
                 "t": "p",
-                "x": "一見しただけでは分からない共通属性を見つけることこそ、RedditがQlooと組んだ理由だと、Redditのエンジニアリング担当シニアディレクター、Virgilio Pigliucci氏は語った。エスプレッソマシンを探す人はそれを置くテーブルも欲しがることが多いため、Redditはコーヒーメーカーのスレッドに背の高いデスクの広告を出すこともありうる。"
+                "x": "AI-madeの著名人による推奨、製品を試す合成インフルエンサー、実物と異なる製品画像は、いずれも目に見える表示が必要なディープフェイクに数えられる。AIの使い方を管理せず代理店に依頼するだけの企業は導入者ではない。広告コピーと製品説明は、健康、消費者の安全、持続可能性に関する主張をしない限り、テキストに関する規定の対象外となる。"
               },
               {
                 "t": "p",
-                "x": "以前は新規広告主のキャンペーンを最適化するのに、数日から数週間分のエンゲージメントデータが必要だった。今ではRedditはQlooの「シグナルに基づいて最適化」でき、モデルはユーザーの検索クエリや閲覧履歴、サブレディット（subreddit）を知らなくても相関を導き出すため、広告主は「すぐに」成果を確認できる。"
+                "x": "導入者は「提供者がコンテンツに埋め込んだ機械可読なマーキングに頼ることはできない」。第50条違反の罰金は、EUR 15,000,000または全世界の年間総売上高の3%のうち高いほうに達する。2026年8月2日より前に市場に出た生成システムは、2026年12月2日までにマーキング義務を満たせばよい。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Reddit携手Qloo\n强化预测式广告定向",
-          "body": "Reddit借助预测推理公司Qloo建模关联兴趣，让广告投放更精准。",
-          "mini_headline": "Reddit引入Qloo定向",
+          "headline": "EU深度伪造标识规定\n覆盖non-EU广告主",
+          "body": "合成网红与失实的AI产品图须加标识，non-EU广告主最高罚款3%。",
+          "mini_headline": "广告须加EU AI标识",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2026/11/shutterstock_2735591353-1024x746.jpg",
-                "cap": ""
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/eu-ai-act-deep-fake-label-3-percent-fines-carousel-projector-flattered-kettle-across-sea.jpg",
+                "cap": "若美化实物的AI产品图未加标识，Non-EU广告制作方将面临营业额3%的罚款"
               },
               {
                 "t": "p",
-                "x": "Reddit周二宣布与预测推理公司Qloo（读作“clue”）建立合作，从而可以使用Qloo超过10年的专有数据，投放更相关的广告。Qloo的目录基于从TasteDive评论、Wikidata元数据和获授权的第三方数据中提取的共同属性，追踪餐厅、音乐人等兴趣（即“实体”）之间的关联。"
+                "x": "欧盟委员会关于AI Act第50条透明度义务的指南已在《欧盟官方公报》上发布，编号为C/2026/6005。根据该指南，一家在EU以外设立的公司，若使用AI系统为在欧盟境内展示的广告生成名人深度伪造内容，即属于AI Act适用范围内的部署者。"
               },
               {
                 "t": "p",
-                "x": "Reddit工程高级总监Virgilio Pigliucci表示，找到那些乍看之下并不明显的共同属性，正是Reddit与Qloo合作的原因。购买意式咖啡机的人往往也想要一张放咖啡机的桌子，因此Reddit可能会在咖啡机相关帖子中投放高桌的广告。"
+                "x": "AI-made的名人代言、试用产品的合成网红以及与实物不符的产品图片，都属于需要可见标识的深度伪造。仅委托代理机构、并不掌控其如何使用AI的公司，不算部署者。广告文案和产品描述只要不涉及健康、消费者安全或可持续性方面的声明，就不受文本规则约束。"
               },
               {
                 "t": "p",
-                "x": "过去，优化新广告主的广告活动需要积累几天甚至几周的互动数据。现在Reddit可以“依据Qloo的信号进行优化”，而且模型无需知道用户的搜索词、浏览记录或所在的subreddit就能推断关联，因此广告主能够“立刻”看到效果。"
+                "x": "部署者“不能依赖提供者嵌入内容中的机器可读标记”。违反第50条的罚款最高可达EUR 15,000,000或全球年营业总额的3%，以较高者为准。2026年8月2日之前投放市场的生成式系统，须在2026年12月2日前履行标记义务。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Reddit usa Qloo para afinar su\nsegmentación predictiva",
-          "body": "Reddit usa a Qloo, firma de inferencia predictiva, para modelar intereses afines y segmentar mejor sus anuncios.",
-          "mini_headline": "Reddit suma la segmentación de Qloo",
+          "headline": "La EU exige etiquetar deep fakes\ntambién a anunciantes non-EU",
+          "body": "Influencers sintéticos y fotos de AI engañosas deben etiquetarse, con multas de hasta 3% para firmas non-EU.",
+          "mini_headline": "Etiquetas de AI de la EU en anuncios",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2026/11/shutterstock_2735591353-1024x746.jpg",
-                "cap": ""
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/eu-ai-act-deep-fake-label-3-percent-fines-carousel-projector-flattered-kettle-across-sea.jpg",
+                "cap": "Los creadores de anuncios Non-EU se exponen a multas del 3% de la facturación si no etiquetan las fotos de producto hechas con AI que embellecen el artículo real"
               },
               {
                 "t": "p",
-                "x": "Reddit anunció el martes una alianza con la empresa de inferencia predictiva Qloo (que se pronuncia “clue”), que le da acceso a más de 10 años de datos propios de Qloo para mostrar anuncios más relevantes. El catálogo de Qloo registra correlaciones entre intereses, o “entidades”, como restaurantes y artistas musicales, a partir de atributos compartidos extraídos de reseñas de TasteDive, metadatos de Wikidata y datos de terceros con licencia."
+                "x": "Las directrices de la Comisión Europea sobre las obligaciones de transparencia del artículo 50 de la AI Act se publicaron en el Diario Oficial de la Unión Europea con la referencia C/2026/6005. Según las directrices, una empresa establecida fuera de la EU que usa un sistema de AI para generar un deep fake de una celebridad para un anuncio que se muestra en la Unión es un responsable del despliegue (deployer) dentro del ámbito de la AI Act."
               },
               {
                 "t": "p",
-                "x": "Encontrar atributos compartidos que no resultan evidentes a primera vista es la razón por la que Reddit se asoció con Qloo, explicó Virgilio Pigliucci, director sénior de ingeniería de Reddit. Quien busca una cafetera espresso a menudo también quiere una mesa para ella, así que Reddit podría mostrar un anuncio de un escritorio alto en un hilo sobre cafeteras."
+                "x": "Los respaldos de celebridades AI-made, los influencers sintéticos que prueban productos y las imágenes de producto que tergiversan el artículo real cuentan como deep fakes que necesitan una etiqueta visible. Una empresa que solo encarga el trabajo a una agencia, sin control sobre cómo usa la AI, no es un responsable del despliegue. Los textos publicitarios y las descripciones de producto quedan fuera de la norma sobre texto salvo que hagan afirmaciones sobre salud, seguridad del consumidor o sostenibilidad."
               },
               {
                 "t": "p",
-                "x": "Optimizar la campaña de un anunciante nuevo solía requerir días o semanas de datos de interacción. Ahora Reddit puede “optimizar en función de las señales” de Qloo, y el modelo establece correlaciones sin conocer la búsqueda, el historial de navegación ni el subreddit del usuario, por lo que los anunciantes ven resultados “de inmediato”."
+                "x": "Los responsables del despliegue \"no pueden confiar en la marca legible por máquina que el proveedor incrusta en el contenido\". Las multas por incumplir el artículo 50 alcanzan EUR 15,000,000 o el 3% de la facturación anual mundial total, lo que sea mayor. Los sistemas generativos comercializados antes del 2 de agosto de 2026 tienen hasta el 2 de diciembre de 2026 para cumplir la obligación de marcado."
               }
             ]
           }
@@ -779,109 +999,109 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Reddit, Qloo로\n예측 광고 타기팅 강화",
-          "body": "Reddit이 Qloo로 관심사 상관관계를 읽어 광고를 더 정밀하게 겨눈다.",
-          "mini_headline": "Reddit, Qloo 타기팅 도입",
+          "headline": "EU 딥페이크 라벨\nnon-EU 광고주에도",
+          "body": "non-EU 광고주도 AI 제품 사진에 라벨을 달아야 하며 벌금은 최대 3%다.",
+          "mini_headline": "광고 속 EU AI 라벨",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2026/11/shutterstock_2735591353-1024x746.jpg",
-                "cap": ""
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/eu-ai-act-deep-fake-label-3-percent-fines-carousel-projector-flattered-kettle-across-sea.jpg",
+                "cap": "Non-EU 광고 제작사가 실물을 미화한 AI 제품 사진에 라벨을 달지 않으면 매출액의 3% 벌금을 물게 된다"
               },
               {
                 "t": "p",
-                "x": "Reddit은 화요일 예측 추론 기업 Qloo(“클루”로 발음)와의 제휴를 발표했다. 이로써 Qloo가 보유한 10년 넘는 독점 데이터를 활용해 더 관련성 높은 광고를 내보낼 수 있게 됐다. Qloo의 카탈로그는 TasteDive 리뷰, Wikidata 메타데이터, 라이선스를 받은 외부(third-party) 데이터에서 뽑은 공통 속성을 바탕으로 식당이나 음악가 같은 관심사, 즉 “엔티티(entities)” 사이의 상관관계를 추적한다."
+                "x": "AI Act 제50조의 투명성 의무에 관한 유럽연합 집행위원회(European Commission) 가이드라인이 C/2026/6005라는 문서번호로 유럽연합 관보에 게재됐다. 가이드라인에 따르면 EU 밖에 설립된 기업이 EU 역내에 게시되는 광고를 위해 AI 시스템으로 유명인 딥페이크를 만들면 AI Act 적용 범위 안의 배포자(deployer)에 해당한다."
               },
               {
                 "t": "p",
-                "x": "언뜻 보아서는 드러나지 않는 공통 속성을 찾는 것이 Reddit이 Qloo와 손잡은 이유라고 Reddit의 엔지니어링 시니어 디렉터 Virgilio Pigliucci는 말했다. 에스프레소 머신을 사려는 사람은 그 머신을 올려둘 테이블도 원하는 경우가 많아서, Reddit은 커피메이커 스레드에 높은 책상 광고를 띄울 수도 있다."
+                "x": "AI-made 유명인 보증 광고, 제품을 써 보는 합성 인플루언서, 실제 제품을 왜곡한 제품 이미지는 모두 눈에 보이는 라벨이 필요한 딥페이크로 본다. AI 활용 방식을 통제하지 않고 대행사에 의뢰만 하는 기업은 배포자가 아니다. 광고 문구와 제품 설명은 건강, 소비자 안전, 지속가능성에 관한 주장을 담지 않는 한 텍스트 규정의 적용을 받지 않는다."
               },
               {
                 "t": "p",
-                "x": "예전에는 신규 광고주의 캠페인을 최적화하려면 며칠에서 몇 주에 걸친 참여 데이터가 필요했다. 이제 Reddit은 Qloo의 “신호를 기준으로 최적화”할 수 있고, 모델이 사용자의 검색어나 브라우징 기록, 서브레딧(subreddit)을 몰라도 상관관계를 끌어내기 때문에 광고주는 “곧바로” 결과를 본다."
+                "x": "배포자는 \"제공자가 콘텐츠에 삽입한 기계 판독형 표시에 기댈 수 없다.\" 제50조를 위반하면 벌금은 EUR 15,000,000 또는 전 세계 연간 총매출액의 3% 중 더 높은 금액에 이른다. 2026년 8월 2일 이전에 시장에 출시된 생성형 시스템은 2026년 12월 2일까지 표시 의무를 충족하면 된다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Reddit、Qlooと提携\n予測型広告配信を強化",
-          "body": "Redditは予測推論企業Qlooを使い関心の相関をモデル化し、広告をより精密に配信する。",
-          "mini_headline": "Reddit、Qlooでターゲティング",
+          "headline": "EUのディープフェイク表示\nnon-EU広告主にも",
+          "body": "合成インフルエンサーやAI製品写真に表示が必要で、non-EU広告主も罰金は最大3%だ。",
+          "mini_headline": "広告にEUのAI表示義務",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2026/11/shutterstock_2735591353-1024x746.jpg",
-                "cap": ""
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/eu-ai-act-deep-fake-label-3-percent-fines-carousel-projector-flattered-kettle-across-sea.jpg",
+                "cap": "Non-EUの広告制作者も、実物をよく見せるAI製品写真に表示を付けなければ売上高の3%の罰金を科される"
               },
               {
                 "t": "p",
-                "x": "Redditは火曜日、予測推論企業Qloo（発音は「クルー」）との提携を発表した。これによりQlooが持つ10年以上の独自データを利用でき、より関連性の高い広告を配信できるようになる。Qlooのカタログは、TasteDiveのレビュー、Wikidataのメタデータ、ライセンス取得済みのサードパーティーデータから引き出した共通属性をもとに、レストランやミュージシャンといった関心、つまり「エンティティ」同士の相関を追跡している。"
+                "x": "欧州委員会によるAI Act第50条の透明性義務に関するガイドラインが、C/2026/6005の番号で欧州連合官報に掲載された。ガイドラインによると、EU域外で設立された企業が、EU域内で表示される広告のためにAIシステムで著名人のディープフェイクを生成する場合、AI Actの適用対象となる導入者（deployer）にあたる。"
               },
               {
                 "t": "p",
-                "x": "一見しただけでは分からない共通属性を見つけることこそ、RedditがQlooと組んだ理由だと、Redditのエンジニアリング担当シニアディレクター、Virgilio Pigliucci氏は語った。エスプレッソマシンを探す人はそれを置くテーブルも欲しがることが多いため、Redditはコーヒーメーカーのスレッドに背の高いデスクの広告を出すこともありうる。"
+                "x": "AI-madeの著名人による推奨、製品を試す合成インフルエンサー、実物と異なる製品画像は、いずれも目に見える表示が必要なディープフェイクに数えられる。AIの使い方を管理せず代理店に依頼するだけの企業は導入者ではない。広告コピーと製品説明は、健康、消費者の安全、持続可能性に関する主張をしない限り、テキストに関する規定の対象外となる。"
               },
               {
                 "t": "p",
-                "x": "以前は新規広告主のキャンペーンを最適化するのに、数日から数週間分のエンゲージメントデータが必要だった。今ではRedditはQlooの「シグナルに基づいて最適化」でき、モデルはユーザーの検索クエリや閲覧履歴、サブレディット（subreddit）を知らなくても相関を導き出すため、広告主は「すぐに」成果を確認できる。"
+                "x": "導入者は「提供者がコンテンツに埋め込んだ機械可読なマーキングに頼ることはできない」。第50条違反の罰金は、EUR 15,000,000または全世界の年間総売上高の3%のうち高いほうに達する。2026年8月2日より前に市場に出た生成システムは、2026年12月2日までにマーキング義務を満たせばよい。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Reddit携手Qloo\n强化预测式广告定向",
-          "body": "Reddit借助预测推理公司Qloo建模关联兴趣，让广告投放更精准。",
-          "mini_headline": "Reddit引入Qloo定向",
+          "headline": "EU深度伪造标识规定\n覆盖non-EU广告主",
+          "body": "合成网红与失实的AI产品图须加标识，non-EU广告主最高罚款3%。",
+          "mini_headline": "广告须加EU AI标识",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2026/11/shutterstock_2735591353-1024x746.jpg",
-                "cap": ""
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/eu-ai-act-deep-fake-label-3-percent-fines-carousel-projector-flattered-kettle-across-sea.jpg",
+                "cap": "若美化实物的AI产品图未加标识，Non-EU广告制作方将面临营业额3%的罚款"
               },
               {
                 "t": "p",
-                "x": "Reddit周二宣布与预测推理公司Qloo（读作“clue”）建立合作，从而可以使用Qloo超过10年的专有数据，投放更相关的广告。Qloo的目录基于从TasteDive评论、Wikidata元数据和获授权的第三方数据中提取的共同属性，追踪餐厅、音乐人等兴趣（即“实体”）之间的关联。"
+                "x": "欧盟委员会关于AI Act第50条透明度义务的指南已在《欧盟官方公报》上发布，编号为C/2026/6005。根据该指南，一家在EU以外设立的公司，若使用AI系统为在欧盟境内展示的广告生成名人深度伪造内容，即属于AI Act适用范围内的部署者。"
               },
               {
                 "t": "p",
-                "x": "Reddit工程高级总监Virgilio Pigliucci表示，找到那些乍看之下并不明显的共同属性，正是Reddit与Qloo合作的原因。购买意式咖啡机的人往往也想要一张放咖啡机的桌子，因此Reddit可能会在咖啡机相关帖子中投放高桌的广告。"
+                "x": "AI-made的名人代言、试用产品的合成网红以及与实物不符的产品图片，都属于需要可见标识的深度伪造。仅委托代理机构、并不掌控其如何使用AI的公司，不算部署者。广告文案和产品描述只要不涉及健康、消费者安全或可持续性方面的声明，就不受文本规则约束。"
               },
               {
                 "t": "p",
-                "x": "过去，优化新广告主的广告活动需要积累几天甚至几周的互动数据。现在Reddit可以“依据Qloo的信号进行优化”，而且模型无需知道用户的搜索词、浏览记录或所在的subreddit就能推断关联，因此广告主能够“立刻”看到效果。"
+                "x": "部署者“不能依赖提供者嵌入内容中的机器可读标记”。违反第50条的罚款最高可达EUR 15,000,000或全球年营业总额的3%，以较高者为准。2026年8月2日之前投放市场的生成式系统，须在2026年12月2日前履行标记义务。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Reddit usa Qloo para afinar su\nsegmentación predictiva",
-          "body": "Reddit usa a Qloo, firma de inferencia predictiva, para modelar intereses afines y segmentar mejor sus anuncios.",
-          "mini_headline": "Reddit suma la segmentación de Qloo",
+          "headline": "La EU exige etiquetar deep fakes\ntambién a anunciantes non-EU",
+          "body": "Influencers sintéticos y fotos de AI engañosas deben etiquetarse, con multas de hasta 3% para firmas non-EU.",
+          "mini_headline": "Etiquetas de AI de la EU en anuncios",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2026/11/shutterstock_2735591353-1024x746.jpg",
-                "cap": ""
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/eu-ai-act-deep-fake-label-3-percent-fines-carousel-projector-flattered-kettle-across-sea.jpg",
+                "cap": "Los creadores de anuncios Non-EU se exponen a multas del 3% de la facturación si no etiquetan las fotos de producto hechas con AI que embellecen el artículo real"
               },
               {
                 "t": "p",
-                "x": "Reddit anunció el martes una alianza con la empresa de inferencia predictiva Qloo (que se pronuncia “clue”), que le da acceso a más de 10 años de datos propios de Qloo para mostrar anuncios más relevantes. El catálogo de Qloo registra correlaciones entre intereses, o “entidades”, como restaurantes y artistas musicales, a partir de atributos compartidos extraídos de reseñas de TasteDive, metadatos de Wikidata y datos de terceros con licencia."
+                "x": "Las directrices de la Comisión Europea sobre las obligaciones de transparencia del artículo 50 de la AI Act se publicaron en el Diario Oficial de la Unión Europea con la referencia C/2026/6005. Según las directrices, una empresa establecida fuera de la EU que usa un sistema de AI para generar un deep fake de una celebridad para un anuncio que se muestra en la Unión es un responsable del despliegue (deployer) dentro del ámbito de la AI Act."
               },
               {
                 "t": "p",
-                "x": "Encontrar atributos compartidos que no resultan evidentes a primera vista es la razón por la que Reddit se asoció con Qloo, explicó Virgilio Pigliucci, director sénior de ingeniería de Reddit. Quien busca una cafetera espresso a menudo también quiere una mesa para ella, así que Reddit podría mostrar un anuncio de un escritorio alto en un hilo sobre cafeteras."
+                "x": "Los respaldos de celebridades AI-made, los influencers sintéticos que prueban productos y las imágenes de producto que tergiversan el artículo real cuentan como deep fakes que necesitan una etiqueta visible. Una empresa que solo encarga el trabajo a una agencia, sin control sobre cómo usa la AI, no es un responsable del despliegue. Los textos publicitarios y las descripciones de producto quedan fuera de la norma sobre texto salvo que hagan afirmaciones sobre salud, seguridad del consumidor o sostenibilidad."
               },
               {
                 "t": "p",
-                "x": "Optimizar la campaña de un anunciante nuevo solía requerir días o semanas de datos de interacción. Ahora Reddit puede “optimizar en función de las señales” de Qloo, y el modelo establece correlaciones sin conocer la búsqueda, el historial de navegación ni el subreddit del usuario, por lo que los anunciantes ven resultados “de inmediato”."
+                "x": "Los responsables del despliegue \"no pueden confiar en la marca legible por máquina que el proveedor incrusta en el contenido\". Las multas por incumplir el artículo 50 alcanzan EUR 15,000,000 o el 3% de la facturación anual mundial total, lo que sea mayor. Los sistemas generativos comercializados antes del 2 de agosto de 2026 tienen hasta el 2 de diciembre de 2026 para cumplir la obligación de marcado."
               }
             ]
           }
@@ -889,401 +1109,321 @@
       }
     },
     {
-      "id": "daangn-chatgpt-ads-api",
-      "source_lang": "ko",
+      "id": "nectar-creator-agent",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "당근, AI로\n광고 운영 자동화",
-      "body": "당근이 챗GPT 등 AI로 광고 성과를 묻고 API로 광고를 등록·수정하게 했다.",
-      "mini_headline": "당근, 챗GPT 광고 연동",
+      "headline": "Nectar AI 에이전트\n크리에이터 섭외 맡는다",
+      "body": "Nectar의 Creator Agent는 크리에이터 발굴부터 성과 추적까지 맡는다.",
+      "mini_headline": "Nectar의 크리에이터 에이전트",
       "tool": "Marketing",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026110957441",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
       "accent": "#2ec5c5",
       "motif": "frame",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://img.hankyung.com/photo/202611/AA.46366592.1.jpg",
-            "cap": ""
+            "src": "https://techcrunch.com/wp-content/uploads/2023/10/misbahfarah-together.jpg?w=1024",
+            "cap": "Nectar AI 공동 창업자 Misbah Uraizee와 Farah Uraizee"
           },
           {
             "t": "p",
-            "x": "지역생활 플랫폼 당근이 인공지능(AI)을 활용한 광고 운영 자동화에 나섰다. 챗GPT·클로드 등 외부 AI 서비스에서 광고 성과를 분석할 수 있는 기능을 선보인 데 이어 광고 등록과 수정까지 가능하도록 응용프로그램인터페이스(API)를 개방했다."
+            "x": "AI-powered 마케팅 운영체제 Nectar가 인플루언서 마케팅의 수작업을 크게 덜어 줄 새 AI 에이전트를 내놓는다. 목요일 공개된 “Creator Agent”는 크리에이터를 찾아 콘텐츠와 브랜드 파트너십을 확인하고, 맞춤 메시지를 보내 협업을 조율한 뒤 캠페인 성과까지 지켜본다."
           },
           {
             "t": "p",
-            "x": "9일 업계에 따르면 당근은 지난 9월 광고주를 대상으로 출시한 ‘광고 모델 컨텍스트 프로토콜(MCP)’을 고도화하고 있다. MCP는 AI 모델과 에이전트가 외부 시스템과 연결돼 데이터를 조회하거나 업무를 수행할 수 있도록 돕는 기술이다."
+            "x": "Nectar에 따르면 Creator Agent는 크리에이터 프로필 3억 개 이상을 뒤져 잠재 파트너를 찾는다. 이제 막 주목받기 시작한 소규모 크리에이터도 대상이다. 영상을 분석해 크리에이터가 무엇을 올리는지 파악하고, 특정 키워드만 찾는 대신 맥락을 보고 콘텐츠를 검토해 브랜드 안전성을 따진다."
           },
           {
             "t": "p",
-            "x": "당근 광고 MCP를 이용하면 광고주가 평소 사용하는 AI에 당근 광고 계정을 연결해 자연어로 광고 현황과 성과를 확인할 수 있다. “지난 7일간 광고 성과를 요약해줘”라고 질문하면, AI가 광고 계정의 데이터를 불러와 정리하는 식이다. 광고 계정과 잔액, 집행 중인 광고 현황, 기간별 성과 등을 조회하고 비교할 수 있다."
+            "x": "에이전트는 브랜드 어조로 메시지를 써서 보내고 맞춤 랜딩 페이지도 만든다. 계약, 제품 협찬, 배송 정보 관리도 거든다. CEO Misbah Uraizee는 TechCrunch에 “브랜드는 어떤 형식으로든 어조 가이드라인을 공유하면 되고, 나머지는 Nectar가 그간의 이력에서 파악한다”고 말했다."
           },
           {
             "t": "p",
-            "x": "당근은 지난달 광고 오픈API 베타 서비스도 공개했다. 외부 시스템에서 당근 광고 기능을 직접 호출할 수 있도록 한 것이다. 자체 광고 관리 도구나 사내 대시보드에서 캠페인·광고그룹·광고 소재를 조회하고 등록하거나 수정할 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "이 같은 변화는 당근 주요 광고주가 광고 운영 경험이 적은 소상공인이 많아서다. 평소 쓰던 AI에 질문하는 것만으로 광고 성과를 끌어올리도록 지원하면, 당근에 더 많은 광고를 내걸 것이라는 계산이 깔렸다."
-          },
-          {
-            "t": "p",
-            "x": "카카오도 다음달 광고주의 광고 집행과 운영을 지원하는 AI 에이전트 ‘AI 크루’의 비공개 베타 테스트를 시작한다. AI 크루는 광고주가 대화형 인터페이스에 사업 목표를 입력하면 AI가 적합한 광고 상품과 운영 전략을 제안하는 서비스다."
+            "x": "Creator Agent는 오늘부터 전 세계에서 쓸 수 있고 Instagram 크리에이터와 TikTokers를 지원한다. 회사는 자사 Model Context Protocol(MCP)로도 제공해 Claude, ChatGPT, Gemini, Copilot 같은 AI 어시스턴트 안에서 쓰게 할 계획이다."
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "당근, AI로\n광고 운영 자동화",
-          "body": "당근이 챗GPT 등 AI로 광고 성과를 묻고 API로 광고를 등록·수정하게 했다.",
-          "mini_headline": "당근, 챗GPT 광고 연동",
+        "en": {
+          "headline": "Nectar's AI agent runs\ncreator outreach for brands",
+          "body": "Nectar's Creator Agent finds and vets creators, sends personalized outreach and tracks how campaigns perform.",
+          "mini_headline": "Nectar's creator agent",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.hankyung.com/photo/202611/AA.46366592.1.jpg",
-                "cap": ""
+                "src": "https://techcrunch.com/wp-content/uploads/2023/10/misbahfarah-together.jpg?w=1024",
+                "cap": "Nectar AI co-founders Misbah Uraizee and Farah Uraizee"
               },
               {
                 "t": "p",
-                "x": "지역생활 플랫폼 당근이 인공지능(AI)을 활용한 광고 운영 자동화에 나섰다. 챗GPT·클로드 등 외부 AI 서비스에서 광고 성과를 분석할 수 있는 기능을 선보인 데 이어 광고 등록과 수정까지 가능하도록 응용프로그램인터페이스(API)를 개방했다."
+                "x": "Nectar, an AI-powered operating system for marketing, is launching a new AI agent designed to take a lot of the manual work out of influencer marketing. Announced Thursday, its new “Creator Agent” can search for creators, check their content and brand partnerships, send personalized messages, coordinate collaborations, and monitor how campaigns perform."
               },
               {
                 "t": "p",
-                "x": "9일 업계에 따르면 당근은 지난 9월 광고주를 대상으로 출시한 ‘광고 모델 컨텍스트 프로토콜(MCP)’을 고도화하고 있다. MCP는 AI 모델과 에이전트가 외부 시스템과 연결돼 데이터를 조회하거나 업무를 수행할 수 있도록 돕는 기술이다."
+                "x": "Nectar says its Creator Agent searches more than 300 million creator profiles to find potential partners, including smaller creators who are gaining traction. It analyzes videos to understand what creators post about and checks brand safety by reviewing content in context rather than simply searching for specific keywords."
               },
               {
                 "t": "p",
-                "x": "당근 광고 MCP를 이용하면 광고주가 평소 사용하는 AI에 당근 광고 계정을 연결해 자연어로 광고 현황과 성과를 확인할 수 있다. “지난 7일간 광고 성과를 요약해줘”라고 질문하면, AI가 광고 계정의 데이터를 불러와 정리하는 식이다. 광고 계정과 잔액, 집행 중인 광고 현황, 기간별 성과 등을 조회하고 비교할 수 있다."
+                "x": "The agent can draft and send messages in a brand’s voice, create custom landing pages, and help manage contracts, product gifting, and shipping details. “Brands can share voice guidelines in any format, and Nectar picks up the rest from their history,” CEO Misbah Uraizee tells TechCrunch."
               },
               {
                 "t": "p",
-                "x": "당근은 지난달 광고 오픈API 베타 서비스도 공개했다. 외부 시스템에서 당근 광고 기능을 직접 호출할 수 있도록 한 것이다. 자체 광고 관리 도구나 사내 대시보드에서 캠페인·광고그룹·광고 소재를 조회하고 등록하거나 수정할 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "이 같은 변화는 당근 주요 광고주가 광고 운영 경험이 적은 소상공인이 많아서다. 평소 쓰던 AI에 질문하는 것만으로 광고 성과를 끌어올리도록 지원하면, 당근에 더 많은 광고를 내걸 것이라는 계산이 깔렸다."
-              },
-              {
-                "t": "p",
-                "x": "카카오도 다음달 광고주의 광고 집행과 운영을 지원하는 AI 에이전트 ‘AI 크루’의 비공개 베타 테스트를 시작한다. AI 크루는 광고주가 대화형 인터페이스에 사업 목표를 입력하면 AI가 적합한 광고 상품과 운영 전략을 제안하는 서비스다."
+                "x": "Creator Agent is available today globally and covers Instagram creators and TikTokers. The company plans to make it available through its Model Context Protocol (MCP), for use through AI assistants such as Claude, ChatGPT, Gemini, and Copilot."
               }
             ]
           }
         },
-        "en": {
-          "headline": "Daangn turns to AI to automate\nits ad operations",
-          "body": "Daangn now lets advertisers check ad results through AI such as ChatGPT and register or edit ads via an API.",
-          "mini_headline": "Daangn links ads to ChatGPT",
+        "ko": {
+          "headline": "Nectar AI 에이전트\n크리에이터 섭외 맡는다",
+          "body": "Nectar의 Creator Agent는 크리에이터 발굴부터 성과 추적까지 맡는다.",
+          "mini_headline": "Nectar의 크리에이터 에이전트",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.hankyung.com/photo/202611/AA.46366592.1.jpg",
-                "cap": ""
+                "src": "https://techcrunch.com/wp-content/uploads/2023/10/misbahfarah-together.jpg?w=1024",
+                "cap": "Nectar AI 공동 창업자 Misbah Uraizee와 Farah Uraizee"
               },
               {
                 "t": "p",
-                "x": "Local life platform Daangn has begun automating ad operations with artificial intelligence (AI). After introducing a feature that lets advertisers analyze ad performance from outside AI services such as ChatGPT and Claude, it has opened an application programming interface (API) that also lets them register and edit ads."
+                "x": "AI-powered 마케팅 운영체제 Nectar가 인플루언서 마케팅의 수작업을 크게 덜어 줄 새 AI 에이전트를 내놓는다. 목요일 공개된 “Creator Agent”는 크리에이터를 찾아 콘텐츠와 브랜드 파트너십을 확인하고, 맞춤 메시지를 보내 협업을 조율한 뒤 캠페인 성과까지 지켜본다."
               },
               {
                 "t": "p",
-                "x": "According to the industry on the 9th, Daangn is upgrading the ‘Ad Model Context Protocol (MCP)’ it launched for advertisers in September. MCP is a technology that helps AI models and agents connect to external systems to look up data or carry out tasks."
+                "x": "Nectar에 따르면 Creator Agent는 크리에이터 프로필 3억 개 이상을 뒤져 잠재 파트너를 찾는다. 이제 막 주목받기 시작한 소규모 크리에이터도 대상이다. 영상을 분석해 크리에이터가 무엇을 올리는지 파악하고, 특정 키워드만 찾는 대신 맥락을 보고 콘텐츠를 검토해 브랜드 안전성을 따진다."
               },
               {
                 "t": "p",
-                "x": "With Daangn’s ad MCP, advertisers can connect their Daangn ad account to the AI they normally use and check ad status and performance in natural language. Ask “Summarize my ad performance for the last 7 days,” and the AI pulls the data from the ad account and organizes it. Advertisers can look up and compare ad accounts and balances, running ads and performance by period."
+                "x": "에이전트는 브랜드 어조로 메시지를 써서 보내고 맞춤 랜딩 페이지도 만든다. 계약, 제품 협찬, 배송 정보 관리도 거든다. CEO Misbah Uraizee는 TechCrunch에 “브랜드는 어떤 형식으로든 어조 가이드라인을 공유하면 되고, 나머지는 Nectar가 그간의 이력에서 파악한다”고 말했다."
               },
               {
                 "t": "p",
-                "x": "Last month Daangn also released a beta of its ad Open API, which lets external systems call Daangn’s ad functions directly. From their own ad management tools or internal dashboards, advertisers can look up, register or edit campaigns, ad groups and ad creatives."
-              },
-              {
-                "t": "p",
-                "x": "The change comes because many of Daangn’s main advertisers are small business owners with little experience running ads. The calculation is that if they can lift ad performance simply by asking the AI they already use, they will place more ads on Daangn."
-              },
-              {
-                "t": "p",
-                "x": "Kakao will also start a closed beta test next month of ‘AI Crew,’ an AI agent that supports advertisers in buying and running ads. With AI Crew, advertisers enter their business goals into a conversational interface and the AI suggests suitable ad products and operating strategies."
+                "x": "Creator Agent는 오늘부터 전 세계에서 쓸 수 있고 Instagram 크리에이터와 TikTokers를 지원한다. 회사는 자사 Model Context Protocol(MCP)로도 제공해 Claude, ChatGPT, Gemini, Copilot 같은 AI 어시스턴트 안에서 쓰게 할 계획이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Daangn、AIで\n広告運用を自動化",
-          "body": "DaangnはChatGPTなどAIで広告成果を照会し、APIで登録・修正も可能にした。",
-          "mini_headline": "Daangn、ChatGPTと広告連携",
+          "headline": "NectarのAIが\nクリエイター起用を代行",
+          "body": "NectarのCreator Agentは、クリエイターの発掘から成果の追跡まで担う。",
+          "mini_headline": "NectarのCreator Agent",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.hankyung.com/photo/202611/AA.46366592.1.jpg",
-                "cap": ""
+                "src": "https://techcrunch.com/wp-content/uploads/2023/10/misbahfarah-together.jpg?w=1024",
+                "cap": "Nectar AIの共同創業者Misbah UraizeeとFarah Uraizee"
               },
               {
                 "t": "p",
-                "x": "地域生活プラットフォームのDaangnが、人工知能（AI）を活用した広告運用の自動化に乗り出した。ChatGPTやClaudeなど外部のAIサービスで広告成果を分析できる機能を打ち出したのに続き、広告の登録や修正までできるようアプリケーション・プログラミング・インターフェース（API）を開放した。"
+                "x": "AI-poweredのマーケティング向けオペレーティングシステムを手がけるNectarは、インフルエンサーマーケティングの手作業の多くをなくすための新しいAIエージェントを投入する。木曜日に発表された新しい「Creator Agent」は、クリエイターの検索、コンテンツやブランドとの提携状況の確認、個別メッセージの送信、コラボレーションの調整、キャンペーン成果の監視をこなす。"
               },
               {
                 "t": "p",
-                "x": "9日の業界関係者によると、Daangnは9月に広告主向けに公開した「広告モデル・コンテキスト・プロトコル（MCP）」の高度化を進めている。MCPは、AIモデルやエージェントが外部システムとつながり、データを照会したり業務を実行したりできるようにする技術である。"
+                "x": "Nectarによると、Creator Agentは3億件を超えるクリエイターのプロフィールを検索して提携候補を探し、注目を集めつつある小規模クリエイターも対象に含める。動画を分析してクリエイターが何について投稿しているかを把握し、特定のキーワードを検索するだけでなく文脈の中でコンテンツを確認してブランドセーフティをチェックする。"
               },
               {
                 "t": "p",
-                "x": "Daangnの広告MCPを使えば、広告主は普段使っているAIにDaangnの広告アカウントを連携し、自然言語で広告の状況や成果を確認できる。「直近7日間の広告成果を要約して」と尋ねると、AIが広告アカウントのデータを呼び出して整理する仕組みだ。広告アカウントと残高、配信中の広告の状況、期間別の成果などを照会し、比較できる。"
+                "x": "エージェントはブランドのトーンでメッセージを作成・送信し、専用のランディングページを作り、契約や製品提供、配送情報の管理も支援する。CEOのMisbah UraizeeはTechCrunchに「ブランドはどんな形式でもトーンのガイドラインを共有すればよく、残りはNectarが過去の履歴から読み取る」と語った。"
               },
               {
                 "t": "p",
-                "x": "Daangnは先月、広告オープンAPIのベータ版も公開した。外部システムからDaangnの広告機能を直接呼び出せるようにしたものだ。自社の広告管理ツールや社内ダッシュボードから、キャンペーン・広告グループ・広告素材を照会し、登録や修正ができる。"
-              },
-              {
-                "t": "p",
-                "x": "こうした動きの背景には、Daangnの主要広告主に広告運用の経験が浅い小規模事業者が多いことがある。普段使うAIに質問するだけで広告成果を高められるよう支援すれば、Daangnにより多くの広告を出すだろうという計算だ。"
-              },
-              {
-                "t": "p",
-                "x": "Kakaoも来月、広告主の広告出稿と運用を支援するAIエージェント「AIクルー」のクローズドベータテストを始める。AIクルーは、広告主が対話型インターフェースに事業目標を入力すると、AIが適した広告商品と運用戦略を提案するサービスである。"
+                "x": "Creator Agentは本日から世界で利用でき、InstagramのクリエイターとTikTokersに対応する。同社はModel Context Protocol（MCP）を通じて提供し、Claude、ChatGPT、Gemini、CopilotといったAIアシスタントから使えるようにする計画だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Daangn借AI\n实现广告运营自动化",
-          "body": "Daangn让广告主借ChatGPT等AI查询广告效果，并通过API登记和修改广告。",
-          "mini_headline": "Daangn广告接入ChatGPT",
+          "headline": "Nectar推出AI代理\n替品牌对接创作者",
+          "body": "Nectar的Creator Agent可寻找审核创作者、个性化联络并追踪效果。",
+          "mini_headline": "Nectar的创作者代理",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.hankyung.com/photo/202611/AA.46366592.1.jpg",
-                "cap": ""
+                "src": "https://techcrunch.com/wp-content/uploads/2023/10/misbahfarah-together.jpg?w=1024",
+                "cap": "Nectar AI联合创始人Misbah Uraizee与Farah Uraizee"
               },
               {
                 "t": "p",
-                "x": "本地生活平台Daangn开始利用人工智能（AI）实现广告运营自动化。继推出可在ChatGPT、Claude等外部AI服务中分析广告效果的功能之后，它又开放了应用程序接口（API），让广告主还能登记和修改广告。"
+                "x": "AI-powered营销操作系统Nectar将推出一款新的AI代理，旨在省去网红营销中的大量手工工作。其周四发布的新“Creator Agent”可以搜索创作者、核查其内容与品牌合作、发送个性化消息、协调合作并监测营销活动表现。"
               },
               {
                 "t": "p",
-                "x": "据业界9日消息，Daangn正在升级今年9月面向广告主推出的“广告模型上下文协议（MCP）”。MCP是一种帮助AI模型和智能体连接外部系统、查询数据或执行任务的技术。"
+                "x": "Nectar表示，Creator Agent会在超过3亿个创作者档案中搜索潜在合作伙伴，其中包括正在走红的小型创作者。它会分析视频以了解创作者发布的内容主题，并通过结合语境审查内容、而非仅搜索特定关键词，来检查品牌安全。"
               },
               {
                 "t": "p",
-                "x": "借助Daangn广告MCP，广告主可以把Daangn广告账户接入平时使用的AI，用自然语言查看广告状态和效果。例如提问“帮我总结过去7天的广告效果”，AI就会调取广告账户的数据并加以整理。广告主可以查询并比较广告账户与余额、正在投放的广告情况以及各时段的效果等。"
+                "x": "该代理能以品牌的口吻起草并发送消息、创建定制落地页，并协助管理合同、产品赠送和物流细节。CEO Misbah Uraizee对TechCrunch表示：“品牌可以用任何格式分享语调指南，其余的Nectar会从它们的历史记录中学习。”"
               },
               {
                 "t": "p",
-                "x": "Daangn上月还公开了广告开放API测试版服务，让外部系统可以直接调用Daangn的广告功能。广告主可以在自有广告管理工具或内部仪表盘中查询、登记或修改广告活动、广告组和广告素材。"
-              },
-              {
-                "t": "p",
-                "x": "这一变化源于Daangn的主要广告主中有很多是缺乏广告运营经验的小商户。其算盘是：只要帮助他们通过向常用的AI提问就能提升广告效果，他们就会在Daangn投放更多广告。"
-              },
-              {
-                "t": "p",
-                "x": "Kakao也将于下月启动AI智能体“AI Crew”的封闭测试，该智能体用于支持广告主的广告投放与运营。AI Crew是一项服务：广告主在对话式界面中输入业务目标后，AI会推荐合适的广告产品和运营策略。"
+                "x": "Creator Agent今天起在全球上线，覆盖Instagram创作者和TikTokers。公司计划通过其Model Context Protocol（MCP）提供该功能，供Claude、ChatGPT、Gemini和Copilot等AI助手使用。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Daangn automatiza con AI\nla gestión de sus anuncios",
-          "body": "Daangn permite consultar resultados de anuncios con AI como ChatGPT y registrar o modificar anuncios con una API.",
-          "mini_headline": "Daangn conecta sus anuncios con ChatGPT",
+          "headline": "El agente de AI de Nectar\ngestiona creadores para marcas",
+          "body": "Creator Agent, de Nectar, encuentra y evalúa creadores, envía mensajes personalizados y mide los resultados.",
+          "mini_headline": "El agente de creadores de Nectar",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.hankyung.com/photo/202611/AA.46366592.1.jpg",
-                "cap": ""
+                "src": "https://techcrunch.com/wp-content/uploads/2023/10/misbahfarah-together.jpg?w=1024",
+                "cap": "Misbah Uraizee y Farah Uraizee, cofundadores de Nectar AI"
               },
               {
                 "t": "p",
-                "x": "La plataforma de vida local Daangn ha empezado a automatizar la gestión de anuncios con inteligencia artificial (AI). Tras presentar una función que permite analizar el rendimiento publicitario desde servicios de AI externos como ChatGPT y Claude, abrió una interfaz de programación de aplicaciones (API) que también permite registrar y modificar anuncios."
+                "x": "Nectar, un sistema operativo AI-powered para marketing, lanza un nuevo agente de AI pensado para eliminar buena parte del trabajo manual del marketing de influencers. Anunciado el jueves, su nuevo “Creator Agent” puede buscar creadores, revisar su contenido y sus colaboraciones con marcas, enviar mensajes personalizados, coordinar colaboraciones y supervisar el rendimiento de las campañas."
               },
               {
                 "t": "p",
-                "x": "Según fuentes del sector citadas el día 9, Daangn está mejorando el ‘Protocolo de Contexto de Modelo (MCP) para anuncios’ que lanzó para anunciantes en septiembre. MCP es una tecnología que ayuda a los modelos y agentes de AI a conectarse con sistemas externos para consultar datos o realizar tareas."
+                "x": "Nectar afirma que Creator Agent busca en más de 300 millones de perfiles de creadores para encontrar posibles socios, incluidos creadores más pequeños que están ganando tracción. Analiza videos para entender sobre qué publican los creadores y comprueba la seguridad de marca revisando el contenido en contexto, en lugar de limitarse a buscar palabras clave concretas."
               },
               {
                 "t": "p",
-                "x": "Con el MCP de anuncios de Daangn, el anunciante puede conectar su cuenta publicitaria de Daangn a la AI que usa habitualmente y revisar en lenguaje natural el estado y el rendimiento de sus anuncios. Si pregunta “Resume el rendimiento de mis anuncios de los últimos 7 días”, la AI extrae y ordena los datos de la cuenta. Se pueden consultar y comparar la cuenta y el saldo, los anuncios activos y el rendimiento por periodo."
+                "x": "El agente puede redactar y enviar mensajes con la voz de la marca, crear páginas de destino personalizadas y ayudar a gestionar contratos, regalos de productos y detalles de envío. “Las marcas pueden compartir sus pautas de voz en cualquier formato, y Nectar deduce el resto a partir de su historial”, dijo a TechCrunch Misbah Uraizee, CEO de la empresa."
               },
               {
                 "t": "p",
-                "x": "Daangn también lanzó el mes pasado una versión beta de su Open API de anuncios, que permite a sistemas externos llamar directamente a las funciones publicitarias de Daangn. Desde herramientas propias de gestión publicitaria o paneles internos se pueden consultar, registrar o modificar campañas, grupos de anuncios y creatividades."
-              },
-              {
-                "t": "p",
-                "x": "El cambio responde a que muchos de los principales anunciantes de Daangn son pequeños comerciantes con poca experiencia en la gestión de anuncios. El cálculo es que, si se les ayuda a mejorar el rendimiento con solo preguntar a la AI que ya usan, publicarán más anuncios en Daangn."
-              },
-              {
-                "t": "p",
-                "x": "Kakao también iniciará el mes próximo una beta cerrada de ‘AI Crew’, un agente de AI que ayuda a los anunciantes a contratar y gestionar sus anuncios. AI Crew es un servicio en el que el anunciante introduce sus objetivos de negocio en una interfaz conversacional y la AI le propone productos publicitarios y estrategias de gestión adecuados."
+                "x": "Creator Agent ya está disponible en todo el mundo y abarca a creadores de Instagram y TikTokers. La empresa prevé ofrecerlo a través de su Model Context Protocol (MCP) para que pueda usarse desde asistentes de AI como Claude, ChatGPT, Gemini y Copilot."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "Daangn turns to AI to automate\nits ad operations",
-          "body": "Daangn now lets advertisers check ad results through AI such as ChatGPT and register or edit ads via an API.",
-          "mini_headline": "Daangn links ads to ChatGPT",
+        "ko": {
+          "headline": "Nectar AI 에이전트\n크리에이터 섭외 맡는다",
+          "body": "Nectar의 Creator Agent는 크리에이터 발굴부터 성과 추적까지 한다.",
+          "mini_headline": "Nectar의 크리에이터 에이전트",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.hankyung.com/photo/202611/AA.46366592.1.jpg",
-                "cap": ""
+                "src": "https://techcrunch.com/wp-content/uploads/2023/10/misbahfarah-together.jpg?w=1024",
+                "cap": "Nectar AI 공동 창업자 Misbah Uraizee와 Farah Uraizee"
               },
               {
                 "t": "p",
-                "x": "Local life platform Daangn has begun automating ad operations with artificial intelligence (AI). After introducing a feature that lets advertisers analyze ad performance from outside AI services such as ChatGPT and Claude, it has opened an application programming interface (API) that also lets them register and edit ads."
+                "x": "AI-powered 마케팅 운영체제 Nectar가 인플루언서 마케팅의 수작업을 크게 덜어 줄 새 AI 에이전트를 내놓는다. 목요일 발표된 새 “Creator Agent”는 크리에이터를 검색하고, 그들의 콘텐츠와 브랜드 파트너십을 확인하고, 맞춤 메시지를 보내고, 협업을 조율하며, 캠페인 성과를 모니터링한다."
               },
               {
                 "t": "p",
-                "x": "According to the industry on the 9th, Daangn is upgrading the ‘Ad Model Context Protocol (MCP)’ it launched for advertisers in September. MCP is a technology that helps AI models and agents connect to external systems to look up data or carry out tasks."
+                "x": "Nectar에 따르면 Creator Agent는 3억 개가 넘는 크리에이터 프로필을 검색해 잠재 파트너를 찾으며, 여기에는 주목받기 시작한 소규모 크리에이터도 포함된다. 영상을 분석해 크리에이터가 무엇을 주제로 게시하는지 파악하고, 특정 키워드만 검색하는 대신 맥락 속에서 콘텐츠를 검토해 브랜드 안전성을 점검한다."
               },
               {
                 "t": "p",
-                "x": "With Daangn’s ad MCP, advertisers can connect their Daangn ad account to the AI they normally use and check ad status and performance in natural language. Ask “Summarize my ad performance for the last 7 days,” and the AI pulls the data from the ad account and organizes it. Advertisers can look up and compare ad accounts and balances, running ads and performance by period."
+                "x": "에이전트는 브랜드의 어조로 메시지를 작성해 보내고, 맞춤 랜딩 페이지를 만들며, 계약과 제품 협찬, 배송 정보 관리를 돕는다. CEO Misbah Uraizee는 TechCrunch에 “브랜드는 어떤 형식으로든 어조 가이드라인을 공유하면 되고, 나머지는 Nectar가 그간의 이력에서 파악한다”고 말했다."
               },
               {
                 "t": "p",
-                "x": "Last month Daangn also released a beta of its ad Open API, which lets external systems call Daangn’s ad functions directly. From their own ad management tools or internal dashboards, advertisers can look up, register or edit campaigns, ad groups and ad creatives."
-              },
-              {
-                "t": "p",
-                "x": "The change comes because many of Daangn’s main advertisers are small business owners with little experience running ads. The calculation is that if they can lift ad performance simply by asking the AI they already use, they will place more ads on Daangn."
-              },
-              {
-                "t": "p",
-                "x": "Kakao will also start a closed beta test next month of ‘AI Crew,’ an AI agent that supports advertisers in buying and running ads. With AI Crew, advertisers enter their business goals into a conversational interface and the AI suggests suitable ad products and operating strategies."
+                "x": "Creator Agent는 오늘부터 전 세계에서 쓸 수 있으며 Instagram 크리에이터와 TikTokers를 지원한다. 회사는 이를 자사 Model Context Protocol(MCP)을 통해 제공해 Claude, ChatGPT, Gemini, Copilot 같은 AI 어시스턴트에서 쓸 수 있게 할 계획이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Daangn、AIで\n広告運用を自動化",
-          "body": "DaangnはChatGPTなどAIで広告成果を照会し、APIで登録・修正も可能にした。",
-          "mini_headline": "Daangn、ChatGPTと広告連携",
+          "headline": "NectarのAIが\nクリエイター起用を代行",
+          "body": "NectarのCreator Agentは、クリエイターの発掘から成果の追跡まで担う。",
+          "mini_headline": "NectarのCreator Agent",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.hankyung.com/photo/202611/AA.46366592.1.jpg",
-                "cap": ""
+                "src": "https://techcrunch.com/wp-content/uploads/2023/10/misbahfarah-together.jpg?w=1024",
+                "cap": "Nectar AIの共同創業者Misbah UraizeeとFarah Uraizee"
               },
               {
                 "t": "p",
-                "x": "地域生活プラットフォームのDaangnが、人工知能（AI）を活用した広告運用の自動化に乗り出した。ChatGPTやClaudeなど外部のAIサービスで広告成果を分析できる機能を打ち出したのに続き、広告の登録や修正までできるようアプリケーション・プログラミング・インターフェース（API）を開放した。"
+                "x": "AI-poweredのマーケティング向けオペレーティングシステムを手がけるNectarは、インフルエンサーマーケティングの手作業の多くをなくすための新しいAIエージェントを投入する。木曜日に発表された新しい「Creator Agent」は、クリエイターの検索、コンテンツやブランドとの提携状況の確認、個別メッセージの送信、コラボレーションの調整、キャンペーン成果の監視をこなす。"
               },
               {
                 "t": "p",
-                "x": "9日の業界関係者によると、Daangnは9月に広告主向けに公開した「広告モデル・コンテキスト・プロトコル（MCP）」の高度化を進めている。MCPは、AIモデルやエージェントが外部システムとつながり、データを照会したり業務を実行したりできるようにする技術である。"
+                "x": "Nectarによると、Creator Agentは3億件を超えるクリエイターのプロフィールを検索して提携候補を探し、注目を集めつつある小規模クリエイターも対象に含める。動画を分析してクリエイターが何について投稿しているかを把握し、特定のキーワードを検索するだけでなく文脈の中でコンテンツを確認してブランドセーフティをチェックする。"
               },
               {
                 "t": "p",
-                "x": "Daangnの広告MCPを使えば、広告主は普段使っているAIにDaangnの広告アカウントを連携し、自然言語で広告の状況や成果を確認できる。「直近7日間の広告成果を要約して」と尋ねると、AIが広告アカウントのデータを呼び出して整理する仕組みだ。広告アカウントと残高、配信中の広告の状況、期間別の成果などを照会し、比較できる。"
+                "x": "エージェントはブランドのトーンでメッセージを作成・送信し、専用のランディングページを作り、契約や製品提供、配送情報の管理も支援する。CEOのMisbah UraizeeはTechCrunchに「ブランドはどんな形式でもトーンのガイドラインを共有すればよく、残りはNectarが過去の履歴から読み取る」と語った。"
               },
               {
                 "t": "p",
-                "x": "Daangnは先月、広告オープンAPIのベータ版も公開した。外部システムからDaangnの広告機能を直接呼び出せるようにしたものだ。自社の広告管理ツールや社内ダッシュボードから、キャンペーン・広告グループ・広告素材を照会し、登録や修正ができる。"
-              },
-              {
-                "t": "p",
-                "x": "こうした動きの背景には、Daangnの主要広告主に広告運用の経験が浅い小規模事業者が多いことがある。普段使うAIに質問するだけで広告成果を高められるよう支援すれば、Daangnにより多くの広告を出すだろうという計算だ。"
-              },
-              {
-                "t": "p",
-                "x": "Kakaoも来月、広告主の広告出稿と運用を支援するAIエージェント「AIクルー」のクローズドベータテストを始める。AIクルーは、広告主が対話型インターフェースに事業目標を入力すると、AIが適した広告商品と運用戦略を提案するサービスである。"
+                "x": "Creator Agentは本日から世界で利用でき、InstagramのクリエイターとTikTokersに対応する。同社はModel Context Protocol（MCP）を通じて提供し、Claude、ChatGPT、Gemini、CopilotといったAIアシスタントから使えるようにする計画だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Daangn借AI\n实现广告运营自动化",
-          "body": "Daangn让广告主借ChatGPT等AI查询广告效果，并通过API登记和修改广告。",
-          "mini_headline": "Daangn广告接入ChatGPT",
+          "headline": "Nectar推出AI代理\n替品牌对接创作者",
+          "body": "Nectar的Creator Agent可寻找审核创作者、个性化联络并追踪效果。",
+          "mini_headline": "Nectar的创作者代理",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.hankyung.com/photo/202611/AA.46366592.1.jpg",
-                "cap": ""
+                "src": "https://techcrunch.com/wp-content/uploads/2023/10/misbahfarah-together.jpg?w=1024",
+                "cap": "Nectar AI联合创始人Misbah Uraizee与Farah Uraizee"
               },
               {
                 "t": "p",
-                "x": "本地生活平台Daangn开始利用人工智能（AI）实现广告运营自动化。继推出可在ChatGPT、Claude等外部AI服务中分析广告效果的功能之后，它又开放了应用程序接口（API），让广告主还能登记和修改广告。"
+                "x": "AI-powered营销操作系统Nectar将推出一款新的AI代理，旨在省去网红营销中的大量手工工作。其周四发布的新“Creator Agent”可以搜索创作者、核查其内容与品牌合作、发送个性化消息、协调合作并监测营销活动表现。"
               },
               {
                 "t": "p",
-                "x": "据业界9日消息，Daangn正在升级今年9月面向广告主推出的“广告模型上下文协议（MCP）”。MCP是一种帮助AI模型和智能体连接外部系统、查询数据或执行任务的技术。"
+                "x": "Nectar表示，Creator Agent会在超过3亿个创作者档案中搜索潜在合作伙伴，其中包括正在走红的小型创作者。它会分析视频以了解创作者发布的内容主题，并通过结合语境审查内容、而非仅搜索特定关键词，来检查品牌安全。"
               },
               {
                 "t": "p",
-                "x": "借助Daangn广告MCP，广告主可以把Daangn广告账户接入平时使用的AI，用自然语言查看广告状态和效果。例如提问“帮我总结过去7天的广告效果”，AI就会调取广告账户的数据并加以整理。广告主可以查询并比较广告账户与余额、正在投放的广告情况以及各时段的效果等。"
+                "x": "该代理能以品牌的口吻起草并发送消息、创建定制落地页，并协助管理合同、产品赠送和物流细节。CEO Misbah Uraizee对TechCrunch表示：“品牌可以用任何格式分享语调指南，其余的Nectar会从它们的历史记录中学习。”"
               },
               {
                 "t": "p",
-                "x": "Daangn上月还公开了广告开放API测试版服务，让外部系统可以直接调用Daangn的广告功能。广告主可以在自有广告管理工具或内部仪表盘中查询、登记或修改广告活动、广告组和广告素材。"
-              },
-              {
-                "t": "p",
-                "x": "这一变化源于Daangn的主要广告主中有很多是缺乏广告运营经验的小商户。其算盘是：只要帮助他们通过向常用的AI提问就能提升广告效果，他们就会在Daangn投放更多广告。"
-              },
-              {
-                "t": "p",
-                "x": "Kakao也将于下月启动AI智能体“AI Crew”的封闭测试，该智能体用于支持广告主的广告投放与运营。AI Crew是一项服务：广告主在对话式界面中输入业务目标后，AI会推荐合适的广告产品和运营策略。"
+                "x": "Creator Agent今天起在全球上线，覆盖Instagram创作者和TikTokers。公司计划通过其Model Context Protocol（MCP）提供该功能，供Claude、ChatGPT、Gemini和Copilot等AI助手使用。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Daangn automatiza con AI\nla gestión de sus anuncios",
-          "body": "Daangn permite consultar resultados de anuncios con AI como ChatGPT y registrar o modificar anuncios con una API.",
-          "mini_headline": "Daangn conecta sus anuncios con ChatGPT",
+          "headline": "El agente de AI de Nectar\ngestiona creadores para marcas",
+          "body": "Creator Agent, de Nectar, encuentra y evalúa creadores, envía mensajes personalizados y mide los resultados.",
+          "mini_headline": "El agente de creadores de Nectar",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.hankyung.com/photo/202611/AA.46366592.1.jpg",
-                "cap": ""
+                "src": "https://techcrunch.com/wp-content/uploads/2023/10/misbahfarah-together.jpg?w=1024",
+                "cap": "Misbah Uraizee y Farah Uraizee, cofundadores de Nectar AI"
               },
               {
                 "t": "p",
-                "x": "La plataforma de vida local Daangn ha empezado a automatizar la gestión de anuncios con inteligencia artificial (AI). Tras presentar una función que permite analizar el rendimiento publicitario desde servicios de AI externos como ChatGPT y Claude, abrió una interfaz de programación de aplicaciones (API) que también permite registrar y modificar anuncios."
+                "x": "Nectar, un sistema operativo AI-powered para marketing, lanza un nuevo agente de AI pensado para eliminar buena parte del trabajo manual del marketing de influencers. Anunciado el jueves, su nuevo “Creator Agent” puede buscar creadores, revisar su contenido y sus colaboraciones con marcas, enviar mensajes personalizados, coordinar colaboraciones y supervisar el rendimiento de las campañas."
               },
               {
                 "t": "p",
-                "x": "Según fuentes del sector citadas el día 9, Daangn está mejorando el ‘Protocolo de Contexto de Modelo (MCP) para anuncios’ que lanzó para anunciantes en septiembre. MCP es una tecnología que ayuda a los modelos y agentes de AI a conectarse con sistemas externos para consultar datos o realizar tareas."
+                "x": "Nectar afirma que Creator Agent busca en más de 300 millones de perfiles de creadores para encontrar posibles socios, incluidos creadores más pequeños que están ganando tracción. Analiza videos para entender sobre qué publican los creadores y comprueba la seguridad de marca revisando el contenido en contexto, en lugar de limitarse a buscar palabras clave concretas."
               },
               {
                 "t": "p",
-                "x": "Con el MCP de anuncios de Daangn, el anunciante puede conectar su cuenta publicitaria de Daangn a la AI que usa habitualmente y revisar en lenguaje natural el estado y el rendimiento de sus anuncios. Si pregunta “Resume el rendimiento de mis anuncios de los últimos 7 días”, la AI extrae y ordena los datos de la cuenta. Se pueden consultar y comparar la cuenta y el saldo, los anuncios activos y el rendimiento por periodo."
+                "x": "El agente puede redactar y enviar mensajes con la voz de la marca, crear páginas de destino personalizadas y ayudar a gestionar contratos, regalos de productos y detalles de envío. “Las marcas pueden compartir sus pautas de voz en cualquier formato, y Nectar deduce el resto a partir de su historial”, dijo a TechCrunch Misbah Uraizee, CEO de la empresa."
               },
               {
                 "t": "p",
-                "x": "Daangn también lanzó el mes pasado una versión beta de su Open API de anuncios, que permite a sistemas externos llamar directamente a las funciones publicitarias de Daangn. Desde herramientas propias de gestión publicitaria o paneles internos se pueden consultar, registrar o modificar campañas, grupos de anuncios y creatividades."
-              },
-              {
-                "t": "p",
-                "x": "El cambio responde a que muchos de los principales anunciantes de Daangn son pequeños comerciantes con poca experiencia en la gestión de anuncios. El cálculo es que, si se les ayuda a mejorar el rendimiento con solo preguntar a la AI que ya usan, publicarán más anuncios en Daangn."
-              },
-              {
-                "t": "p",
-                "x": "Kakao también iniciará el mes próximo una beta cerrada de ‘AI Crew’, un agente de AI que ayuda a los anunciantes a contratar y gestionar sus anuncios. AI Crew es un servicio en el que el anunciante introduce sus objetivos de negocio en una interfaz conversacional y la AI le propone productos publicitarios y estrategias de gestión adecuados."
+                "x": "Creator Agent ya está disponible en todo el mundo y abarca a creadores de Instagram y TikTokers. La empresa prevé ofrecerlo a través de su Model Context Protocol (MCP) para que pueda usarse desde asistentes de AI como Claude, ChatGPT, Gemini y Copilot."
               }
             ]
           }
@@ -1291,195 +1431,165 @@
       }
     },
     {
-      "id": "united-ai-agent-ban",
+      "id": "podqi-chatbot-fake-retail-sites",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "United, 개인 AI\n에이전트 항공권 예약 차단",
-      "body": "United는 개인정보와 규제 우려를 들어 개인 AI 비서의 예약을 막는다.",
-      "mini_headline": "United, AI 에이전트 예약 차단",
+      "headline": "AI 챗봇, 쇼핑객을\n가짜 쇼핑몰로 안내",
+      "body": "Podqi가 151개 브랜드를 조사해 보니 AI 챗봇이 사칭 사이트로 안내했다.",
+      "mini_headline": "챗봇이 쇼핑객을 가짜 몰로",
       "tool": "Marketing",
       "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-fake-websites",
       "accent": "#eb367f",
       "motif": "frame",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23176430/1237621702.jpg?quality=90&strip=all&crop=0.014236902050115%2C0%2C99.9715261959%2C100&w=2400",
-            "cap": ""
+            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
           },
           {
             "t": "p",
-            "x": "United가 개인정보 보호와 규제 우려를 이유로 개인 AI 비서의 자사 항공권 예약을 막겠다고 밝혔다."
+            "x": "AI 챗봇에게 제품을 묻거나 구매처를 찾는 쇼핑객이 사칭 사이트 같은 위험한 웹사이트로 흘러갈 수 있다는 연구가 새로 나왔다. IP 보호 기업 Podqi는 ChatGPT, Gemini, Perplexity에 151개 브랜드를 두고 “[brand]는 온라인 어디에서 찾을 수 있나요?” 같은 쇼핑 질문을 던졌다."
           },
           {
             "t": "p",
-            "x": "The Wall Street Journal에 따르면 회사는 AI 에이전트로 항공편을 예약하려는 사람을 아직 많이 보지 못했다. Doordash 같은 다른 기업이 본 흐름과 같다. 그래도 United는 에이전트가 고객 정보를 노출하거나 고객이 원하지 않은 구매를 할까 우려한다. 항공사가 고객과 공유해야 하는 정보를 정한 연방 규정 — 예컨대 가방에 폭발물이 없다고 고객이 확인하게 하는 절차 — 을 에이전트가 비켜갈 수도 있다고 본다."
+            "x": "답변 6,795개를 살펴보니 세 AI 엔진 모두 위험한 사이트를 인용해 쇼핑객에게 내밀었다. 위험한 사이트란 실제 소매업체를 사칭하거나 모조품을 파는 가짜 웹사이트, 다시 등록된 옛 브랜드 도메인, 운영이 끊긴 사이트를 말한다. Gemini는 답변의 4퍼센트, ChatGPT는 8퍼센트에서 위험한 사이트를 보여 줬다. Perplexity는 15퍼센트로 가장 나빴다. 특히 소규모 브랜드가 취약해 보인다."
           },
           {
             "t": "p",
-            "x": "에이전트는 여전히 사용자에게 United 항공편을 보여줄 수 있지만 사용자 대신 실제 거래를 마무리하지는 못한다. 이번 결정을 비롯한 비슷한 조치는 Meta의 Muse, OpenAI의 Dots 같은 새 개인 AI 비서의 쓸모를 좁힐 수 있다. Journal에 따르면 United CEO Scott Kirby는 화요일 한 행사에서 “솔직히 말해 또 하나의 중개자를 만들고 싶지 않다”고 말했다."
-          },
-          {
-            "t": "p",
-            "x": "업종을 가리지 않고 기업들은 자사 사이트에서 AI 에이전트의 거래를 허용할지 고심하고 있다. 승인받지 않은 에이전트의 접근을 막는 곳도 United만이 아니다. eBay는 에이전트의 사이트 탐색을 막은 것으로 보이며 여러 대형 은행도 에이전트에 제한을 두었다. United는 상황이 바뀌면 결정을 재검토할 수 있다는 여지를 남겼다. “외부(third-party) AI 에이전트가 발전하면서 그것이 가져올 기회를 보고 있습니다. 하지만 동시에 에이전트가 United 계정이나 예약과 직접 상호작용하도록 허용하는 것은 민감한 행위를 수반할 수 있어, 먼저 여행객을 위한 보호 장치를 확실히 마련하고자 합니다.”"
+            "x": "한 대화에서 Perplexity는 엉뚱한 페이지를 Stüssy의 공식 웹사이트로 지목하며 “정품 보장 상품을 찾기에 가장 좋은 출발점”이라고 했다. Podqi CEO이자 공동 창업자인 Trevor West는 “개인 정보나 신용카드 정보를 입력하기 전에 그 출처를 확인하는 것이 언제나 최선”이라고 말했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "United bars personal AI agents\nfrom booking its flights",
-          "body": "United won't let personal AI assistants book its flights, citing privacy and regulatory concerns about agents.",
-          "mini_headline": "United bans booking agents",
+          "headline": "AI chatbots steer shoppers\nto fake retail sites",
+          "body": "A Podqi study of 151 brands found ChatGPT, Gemini and Perplexity steering shoppers to impostor retail sites.",
+          "mini_headline": "Chatbots send shoppers to fakes",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23176430/1237621702.jpg?quality=90&strip=all&crop=0.014236902050115%2C0%2C99.9715261959%2C100&w=2400",
-                "cap": ""
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
               },
               {
                 "t": "p",
-                "x": "United says it won’t let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns."
+                "x": "Shoppers using AI chatbots to research products or find places to buy items could be directed to imposters and other risky websites, a new study found. IP protection firm Podqi prompted ChatGPT, Gemini, and Perplexity with shopping-related questions involving 151 brands, such as “Where can I find [brand] online?”"
               },
               {
                 "t": "p",
-                "x": "The company says it hasn’t yet seen many people try to use AI agents to book their flights, The Wall Street Journal reports, in line with observations from other businesses like Doordash. But United is concerned that agents could expose customers’ information or make purchases they didn’t intend, and potentially skirt federal rules about the kind of information airlines need to share with customers — like having them attest that their bags don’t have explosives."
+                "x": "Over the course of 6,795 answers, all three AI engines cited and showed shoppers risky sites, defined as fake websites impersonating real retailers or selling knockoffs, reregistered old brand domains, or dead sites. Gemini showed risky sites in 4 percent of answers, ChatGPT in 8 percent, and Perplexity performed the worst at 15 percent. Smaller brands appear especially at risk."
               },
               {
                 "t": "p",
-                "x": "While agents can still show users United flights, they won’t be able to actually complete the transaction on their behalf. The decision, and others like it, could limit the potential usefulness of newer personal AI assistants like Meta’s Muse and OpenAI’s Dots. “To be honest, I don’t want to create another middleman,” United CEO Scott Kirby said at an event on Tuesday, according to the Journal."
-              },
-              {
-                "t": "p",
-                "x": "Across sectors, businesses are grappling with whether to let AI agents transact on their sites, and United is not alone in blocking access for unauthorized agents. eBay appeared to block agents from browsing the site, and several major banks have also placed restrictions on them. United suggests it could reconsider its decision based on future advancements. “As third-party AI agents advance, we see the opportunities they present. However, at the same time, allowing them to interact directly with a United account or booking could involve sensitive actions, and we want to make sure we have established protections for travelers first.”"
+                "x": "In one conversation, Perplexity named the wrong page as Stüssy’s official website and called it “the best starting point for guaranteed authentic items.” “It is always best to verify the source of that before entering personal information or credit card information,” says Podqi CEO and cofounder Trevor West."
               }
             ]
           }
         },
         "ko": {
-          "headline": "United, 개인 AI\n에이전트 항공권 예약 차단",
-          "body": "United는 개인정보와 규제 우려를 들어 개인 AI 비서의 예약을 막는다.",
-          "mini_headline": "United, AI 에이전트 예약 차단",
+          "headline": "AI 챗봇, 쇼핑객을\n가짜 쇼핑몰로 안내",
+          "body": "Podqi가 151개 브랜드를 조사해 보니 AI 챗봇이 사칭 사이트로 안내했다.",
+          "mini_headline": "챗봇이 쇼핑객을 가짜 몰로",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23176430/1237621702.jpg?quality=90&strip=all&crop=0.014236902050115%2C0%2C99.9715261959%2C100&w=2400",
-                "cap": ""
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
               },
               {
                 "t": "p",
-                "x": "United가 개인정보 보호와 규제 우려를 이유로 개인 AI 비서의 자사 항공권 예약을 막겠다고 밝혔다."
+                "x": "AI 챗봇에게 제품을 묻거나 구매처를 찾는 쇼핑객이 사칭 사이트 같은 위험한 웹사이트로 흘러갈 수 있다는 연구가 새로 나왔다. IP 보호 기업 Podqi는 ChatGPT, Gemini, Perplexity에 151개 브랜드를 두고 “[brand]는 온라인 어디에서 찾을 수 있나요?” 같은 쇼핑 질문을 던졌다."
               },
               {
                 "t": "p",
-                "x": "The Wall Street Journal에 따르면 회사는 AI 에이전트로 항공편을 예약하려는 사람을 아직 많이 보지 못했다. Doordash 같은 다른 기업이 본 흐름과 같다. 그래도 United는 에이전트가 고객 정보를 노출하거나 고객이 원하지 않은 구매를 할까 우려한다. 항공사가 고객과 공유해야 하는 정보를 정한 연방 규정 — 예컨대 가방에 폭발물이 없다고 고객이 확인하게 하는 절차 — 을 에이전트가 비켜갈 수도 있다고 본다."
+                "x": "답변 6,795개를 살펴보니 세 AI 엔진 모두 위험한 사이트를 인용해 쇼핑객에게 내밀었다. 위험한 사이트란 실제 소매업체를 사칭하거나 모조품을 파는 가짜 웹사이트, 다시 등록된 옛 브랜드 도메인, 운영이 끊긴 사이트를 말한다. Gemini는 답변의 4퍼센트, ChatGPT는 8퍼센트에서 위험한 사이트를 보여 줬다. Perplexity는 15퍼센트로 가장 나빴다. 특히 소규모 브랜드가 취약해 보인다."
               },
               {
                 "t": "p",
-                "x": "에이전트는 여전히 사용자에게 United 항공편을 보여줄 수 있지만 사용자 대신 실제 거래를 마무리하지는 못한다. 이번 결정을 비롯한 비슷한 조치는 Meta의 Muse, OpenAI의 Dots 같은 새 개인 AI 비서의 쓸모를 좁힐 수 있다. Journal에 따르면 United CEO Scott Kirby는 화요일 한 행사에서 “솔직히 말해 또 하나의 중개자를 만들고 싶지 않다”고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "업종을 가리지 않고 기업들은 자사 사이트에서 AI 에이전트의 거래를 허용할지 고심하고 있다. 승인받지 않은 에이전트의 접근을 막는 곳도 United만이 아니다. eBay는 에이전트의 사이트 탐색을 막은 것으로 보이며 여러 대형 은행도 에이전트에 제한을 두었다. United는 상황이 바뀌면 결정을 재검토할 수 있다는 여지를 남겼다. “외부(third-party) AI 에이전트가 발전하면서 그것이 가져올 기회를 보고 있습니다. 하지만 동시에 에이전트가 United 계정이나 예약과 직접 상호작용하도록 허용하는 것은 민감한 행위를 수반할 수 있어, 먼저 여행객을 위한 보호 장치를 확실히 마련하고자 합니다.”"
+                "x": "한 대화에서 Perplexity는 엉뚱한 페이지를 Stüssy의 공식 웹사이트로 지목하며 “정품 보장 상품을 찾기에 가장 좋은 출발점”이라고 했다. Podqi CEO이자 공동 창업자인 Trevor West는 “개인 정보나 신용카드 정보를 입력하기 전에 그 출처를 확인하는 것이 언제나 최선”이라고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "United、個人AIの\n航空券予約を認めず",
-          "body": "Unitedはプライバシーと規制上の懸念から、個人AIアシスタントによる予約を認めない。",
-          "mini_headline": "United、AIエージェント予約を禁止",
+          "headline": "AIチャットボットが\n買い物客を偽サイトへ",
+          "body": "Podqiが151ブランドを調べ、AIチャットボットが偽サイトへ誘導する実態を示した。",
+          "mini_headline": "チャットボットが偽サイトへ誘導",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23176430/1237621702.jpg?quality=90&strip=all&crop=0.014236902050115%2C0%2C99.9715261959%2C100&w=2400",
-                "cap": ""
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
               },
               {
                 "t": "p",
-                "x": "Unitedは、プライバシーと規制上の懸念を理由に、個人向けAIアシスタントによる同社航空券の予約を認めないと表明した。"
+                "x": "AIチャットボットで商品を調べたり購入先を探したりする買い物客が、なりすましサイトなどの危険なウェブサイトに誘導されるおそれがあることが、新たな調査で分かった。IP保護企業のPodqiは、ChatGPT、Gemini、Perplexityに対し、「[brand]はオンラインのどこで見つけられますか？」といった151ブランドに関する買い物関連の質問を投げかけた。"
               },
               {
                 "t": "p",
-                "x": "The Wall Street Journalによると、同社はAIエージェントで航空便を予約しようとする人をまだあまり見ていないという。これはDoordashなど他企業の観察とも一致する。しかしUnitedは、エージェントが顧客情報を漏らしたり、顧客の意図しない購入をしたりするおそれがあるうえ、航空会社が顧客と共有すべき情報に関する連邦規則――たとえば手荷物に爆発物が入っていないことを顧客に申告させる手続き――をすり抜けかねないと懸念している。"
+                "x": "計6,795件の回答の中で、三つのAIエンジンはいずれも危険なサイトを引用し、買い物客に示した。危険なサイトとは、実在の小売業者になりすましたり模倣品を売ったりする偽サイト、再登録された古いブランドドメイン、閉鎖されたサイトを指す。Geminiが危険なサイトを示したのは回答の4パーセント、ChatGPTは8パーセントで、Perplexityは15パーセントと最も悪かった。特に小規模ブランドがリスクにさらされているようだ。"
               },
               {
                 "t": "p",
-                "x": "エージェントは引き続きUnitedの便をユーザーに表示できるが、ユーザーに代わって実際に取引を完了することはできない。今回の決定や同様の判断は、MetaのMuseやOpenAIのDotsといった新しい個人向けAIアシスタントの有用性を制限する可能性がある。Journalによれば、UnitedのCEO、Scott Kirby氏は火曜日のイベントで「正直に言えば、新たな仲介者をつくりたくない」と語った。"
-              },
-              {
-                "t": "p",
-                "x": "業種を問わず、企業は自社サイトでAIエージェントに取引をさせるかどうかに頭を悩ませており、無許可のエージェントのアクセスを遮断しているのはUnitedだけではない。eBayはエージェントによるサイト閲覧をブロックしたとみられ、複数の大手銀行も制限を設けている。Unitedは今後の進展次第で決定を見直す可能性も示唆した。「サードパーティーのAIエージェントが進化するにつれ、そこにある機会も見えている。しかし同時に、エージェントがUnitedのアカウントや予約と直接やり取りすることを認めれば、機微な操作を伴う可能性があり、まず旅行者のための保護策を確実に整えたい」"
+                "x": "ある会話では、Perplexityが誤ったページをStüssyの公式サイトだと示し、「確実に正規品を買うのに最適な出発点」と呼んだ。PodqiのCEOで共同創業者のTrevor Westは「個人情報やクレジットカード情報を入力する前に、その出所を確かめるのが常に最善だ」と話す。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "United禁止个人AI\n代理预订其航班",
-          "body": "United以隐私和监管顾虑为由，不允许个人AI助理预订其航班。",
-          "mini_headline": "United禁止AI代理订票",
+          "headline": "AI聊天机器人\n把购物者引向假网店",
+          "body": "Podqi测试151个品牌发现，ChatGPT等AI会把购物者引向冒牌网站。",
+          "mini_headline": "聊天机器人把购物者引向假网站",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23176430/1237621702.jpg?quality=90&strip=all&crop=0.014236902050115%2C0%2C99.9715261959%2C100&w=2400",
-                "cap": ""
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
               },
               {
                 "t": "p",
-                "x": "United表示，出于隐私和监管方面的顾虑，不会允许个人AI助理在该航空公司预订机票。"
+                "x": "一项新研究发现，使用AI聊天机器人研究商品或寻找购买渠道的购物者，可能会被引向冒牌网站及其他高风险网站。知识产权（IP）保护公司Podqi向ChatGPT、Gemini和Perplexity提出了涉及151个品牌的购物相关问题，例如“在网上哪里能找到[brand]？”"
               },
               {
                 "t": "p",
-                "x": "据The Wall Street Journal报道，该公司表示目前还没看到很多人尝试用AI代理预订航班，这与Doordash等其他企业的观察一致。但United担心，代理可能泄露客户信息或做出客户并非本意的购买，还可能绕开联邦规定——这些规定涉及航空公司必须与客户共享的信息，例如让客户确认行李中没有爆炸物。"
+                "x": "在总计6,795条回答中，三个AI引擎都引用并向购物者展示了高风险网站，即冒充真实零售商或售卖仿冒品的假网站、被重新注册的旧品牌域名，或已失效的网站。Gemini在百分之四的回答中展示了高风险网站，ChatGPT为百分之八，Perplexity表现最差，达百分之十五。小品牌似乎尤其容易受害。"
               },
               {
                 "t": "p",
-                "x": "代理仍可向用户展示United的航班，但无法代表用户真正完成交易。这一决定以及类似决定，可能会限制Meta的Muse、OpenAI的Dots等新一代个人AI助理的潜在用处。据Journal报道，United首席执行官Scott Kirby周二在一场活动上说：“说实话，我不想再制造一个中间商。”"
-              },
-              {
-                "t": "p",
-                "x": "各行各业的企业都在纠结是否允许AI代理在其网站上进行交易，而United并不是唯一屏蔽未经授权代理的公司。eBay似乎已阻止代理浏览其网站，多家大型银行也对代理设置了限制。United暗示，可能会根据未来的技术进展重新考虑这一决定：“随着第三方AI代理不断进步，我们看到了它们带来的机遇。但与此同时，允许它们直接与United账户或预订交互可能涉及敏感操作，我们希望先为旅客建立好保护措施。”"
+                "x": "在一次对话中，Perplexity把一个错误页面当作Stüssy的官方网站，并称其为“保证正品的最佳起点”。Podqi CEO兼联合创始人Trevor West说：“在输入个人信息或信用卡信息之前，最好始终先核实来源。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "United veta a los agentes de AI\npersonales para reservar vuelos",
-          "body": "United no permitirá que asistentes personales de AI reserven sus vuelos por motivos de privacidad y regulación.",
-          "mini_headline": "United veta agentes de reserva",
+          "headline": "Chatbots de AI desvían a\ncompradores a tiendas falsas",
+          "body": "Un estudio de Podqi con 151 marcas halló que ChatGPT, Gemini y Perplexity dirigen a compradores a tiendas impostoras.",
+          "mini_headline": "Los chatbots envían a compradores a falsificaciones",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23176430/1237621702.jpg?quality=90&strip=all&crop=0.014236902050115%2C0%2C99.9715261959%2C100&w=2400",
-                "cap": ""
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
               },
               {
                 "t": "p",
-                "x": "United afirma que no permitirá que los asistentes personales de AI reserven billetes en la aerolínea, por motivos tanto de privacidad como regulatorios."
+                "x": "Los compradores que usan chatbots de AI para investigar productos o encontrar dónde comprarlos podrían acabar en sitios impostores y otras webs de riesgo, según un nuevo estudio. La firma de protección de IP Podqi planteó a ChatGPT, Gemini y Perplexity preguntas de compra sobre 151 marcas, como “¿Dónde puedo encontrar [brand] en línea?”"
               },
               {
                 "t": "p",
-                "x": "La compañía dice que aún no ha visto a mucha gente intentar usar agentes de AI para reservar vuelos, según informa The Wall Street Journal, en línea con lo observado por otras empresas como Doordash. Pero a United le preocupa que los agentes puedan exponer información de los clientes o hacer compras que estos no pretendían, y que puedan eludir normas federales sobre la información que las aerolíneas deben compartir con los clientes, como pedirles que declaren que su equipaje no contiene explosivos."
+                "x": "A lo largo de 6,795 respuestas, los tres motores de AI citaron y mostraron a los compradores sitios de riesgo, definidos como webs falsas que suplantan a minoristas reales o venden imitaciones, dominios antiguos de marcas registrados de nuevo o sitios inactivos. Gemini mostró sitios de riesgo en el 4 por ciento de las respuestas, ChatGPT en el 8 por ciento y Perplexity fue el peor, con un 15 por ciento. Las marcas más pequeñas parecen especialmente expuestas."
               },
               {
                 "t": "p",
-                "x": "Aunque los agentes podrán seguir mostrando vuelos de United a los usuarios, no podrán completar la transacción en su nombre. Esta decisión, y otras similares, podría limitar la utilidad potencial de los nuevos asistentes personales de AI, como Muse de Meta y Dots de OpenAI. “Para ser sincero, no quiero crear otro intermediario”, dijo el CEO de United, Scott Kirby, en un evento el martes, según el Journal."
-              },
-              {
-                "t": "p",
-                "x": "En todos los sectores, las empresas debaten si permitir que los agentes de AI realicen transacciones en sus sitios, y United no es la única que bloquea el acceso a agentes no autorizados. eBay pareció impedir que los agentes navegaran por su sitio, y varios grandes bancos también les han impuesto restricciones. United sugiere que podría reconsiderar su decisión según los avances futuros. “A medida que avanzan los agentes de AI de terceros, vemos las oportunidades que ofrecen. Sin embargo, al mismo tiempo, permitirles interactuar directamente con una cuenta o una reserva de United podría implicar acciones delicadas, y queremos asegurarnos primero de haber establecido protecciones para los viajeros.”"
+                "x": "En una conversación, Perplexity señaló una página equivocada como el sitio oficial de Stüssy y la llamó “el mejor punto de partida para artículos auténticos garantizados”. “Siempre es mejor verificar el origen antes de introducir información personal o datos de la tarjeta de crédito”, dice Trevor West, CEO y cofundador de Podqi."
               }
             ]
           }
@@ -1487,125 +1597,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "United, 개인 AI\n에이전트 항공권 예약 차단",
-          "body": "United는 개인정보와 규제 우려를 들어 개인 AI 비서의 예약을 막는다.",
-          "mini_headline": "United, AI 에이전트 예약 차단",
+          "headline": "AI 챗봇, 쇼핑객을\n가짜 쇼핑몰로 안내",
+          "body": "Podqi가 151개 브랜드를 조사한 결과 AI 챗봇이 사칭 사이트로 안내했다.",
+          "mini_headline": "챗봇이 쇼핑객을 가짜 몰로",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23176430/1237621702.jpg?quality=90&strip=all&crop=0.014236902050115%2C0%2C99.9715261959%2C100&w=2400",
-                "cap": ""
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
               },
               {
                 "t": "p",
-                "x": "United는 개인정보 보호와 규제 우려를 이유로 개인 AI 비서가 자사 항공권을 예약하지 못하게 하겠다고 밝혔다."
+                "x": "AI 챗봇으로 제품을 알아보거나 구매처를 찾는 쇼핑객이 사칭 사이트를 비롯한 위험한 웹사이트로 안내될 수 있다는 새 연구 결과가 나왔다. IP 보호 기업 Podqi는 ChatGPT, Gemini, Perplexity에 “[brand]는 온라인 어디에서 찾을 수 있나요?” 같은 151개 브랜드에 관한 쇼핑 질문을 던졌다."
               },
               {
                 "t": "p",
-                "x": "The Wall Street Journal에 따르면 회사는 아직 AI 에이전트로 항공편을 예약하려는 사람을 많이 보지 못했다고 했다. Doordash 같은 다른 기업이 관찰한 것과 같은 흐름이다. 하지만 United는 에이전트가 고객 정보를 노출하거나 고객이 의도하지 않은 구매를 할 수 있고, 항공사가 고객과 공유해야 하는 정보에 관한 연방 규정 — 예컨대 가방에 폭발물이 없다고 고객이 확인하게 하는 절차 — 을 비켜갈 수도 있다고 우려한다."
+                "x": "모두 6,795개의 답변에서 세 AI 엔진 모두 위험한 사이트를 인용해 쇼핑객에게 보여 줬다. 위험한 사이트란 실제 소매업체를 사칭하거나 모조품을 파는 가짜 웹사이트, 다시 등록된 옛 브랜드 도메인, 운영이 끊긴 사이트를 말한다. Gemini는 답변의 4퍼센트, ChatGPT는 8퍼센트에서 위험한 사이트를 보여 줬고, Perplexity는 15퍼센트로 가장 나빴다. 특히 소규모 브랜드가 위험해 보인다."
               },
               {
                 "t": "p",
-                "x": "에이전트는 여전히 사용자에게 United 항공편을 보여줄 수 있지만, 사용자를 대신해 실제 거래를 마칠 수는 없다. 이번 결정과 이와 비슷한 다른 결정은 Meta의 Muse, OpenAI의 Dots 같은 새로운 개인 AI 비서의 쓸모를 제한할 수 있다. Journal에 따르면 United CEO Scott Kirby는 화요일 한 행사에서 “솔직히 말해 또 하나의 중개자를 만들고 싶지 않다”고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "업종을 가리지 않고 기업들은 자사 사이트에서 AI 에이전트의 거래를 허용할지 고심하고 있으며, 승인받지 않은 에이전트의 접근을 막는 곳은 United만이 아니다. eBay는 에이전트의 사이트 탐색을 막은 것으로 보이며, 여러 대형 은행도 에이전트에 제한을 두었다. United는 앞으로의 발전에 따라 결정을 재검토할 수 있다고 시사했다. “외부(third-party) AI 에이전트가 발전하면서 그것이 가져올 기회를 보고 있습니다. 하지만 동시에 에이전트가 United 계정이나 예약과 직접 상호작용하도록 허용하는 것은 민감한 행위를 수반할 수 있어, 먼저 여행객을 위한 보호 장치를 확실히 마련하고자 합니다.”"
+                "x": "한 대화에서 Perplexity는 엉뚱한 페이지를 Stüssy의 공식 웹사이트로 지목하며 “정품 보장 상품을 찾기에 가장 좋은 출발점”이라고 했다. Podqi CEO이자 공동 창업자인 Trevor West는 “개인 정보나 신용카드 정보를 입력하기 전에 그 출처를 확인하는 것이 언제나 최선”이라고 말한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "United、個人AIの\n航空券予約を認めず",
-          "body": "Unitedはプライバシーと規制上の懸念から、個人AIアシスタントによる予約を認めない。",
-          "mini_headline": "United、AIエージェント予約を禁止",
+          "headline": "AIチャットボットが\n買い物客を偽サイトへ",
+          "body": "Podqiが151ブランドを調べ、AIチャットボットが偽サイトへ誘導する実態を示した。",
+          "mini_headline": "チャットボットが偽サイトへ誘導",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23176430/1237621702.jpg?quality=90&strip=all&crop=0.014236902050115%2C0%2C99.9715261959%2C100&w=2400",
-                "cap": ""
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
               },
               {
                 "t": "p",
-                "x": "Unitedは、プライバシーと規制上の懸念を理由に、個人向けAIアシスタントによる同社航空券の予約を認めないと表明した。"
+                "x": "AIチャットボットで商品を調べたり購入先を探したりする買い物客が、なりすましサイトなどの危険なウェブサイトに誘導されるおそれがあることが、新たな調査で分かった。IP保護企業のPodqiは、ChatGPT、Gemini、Perplexityに対し、「[brand]はオンラインのどこで見つけられますか？」といった151ブランドに関する買い物関連の質問を投げかけた。"
               },
               {
                 "t": "p",
-                "x": "The Wall Street Journalによると、同社はAIエージェントで航空便を予約しようとする人をまだあまり見ていないという。これはDoordashなど他企業の観察とも一致する。しかしUnitedは、エージェントが顧客情報を漏らしたり、顧客の意図しない購入をしたりするおそれがあるうえ、航空会社が顧客と共有すべき情報に関する連邦規則――たとえば手荷物に爆発物が入っていないことを顧客に申告させる手続き――をすり抜けかねないと懸念している。"
+                "x": "計6,795件の回答の中で、三つのAIエンジンはいずれも危険なサイトを引用し、買い物客に示した。危険なサイトとは、実在の小売業者になりすましたり模倣品を売ったりする偽サイト、再登録された古いブランドドメイン、閉鎖されたサイトを指す。Geminiが危険なサイトを示したのは回答の4パーセント、ChatGPTは8パーセントで、Perplexityは15パーセントと最も悪かった。特に小規模ブランドがリスクにさらされているようだ。"
               },
               {
                 "t": "p",
-                "x": "エージェントは引き続きUnitedの便をユーザーに表示できるが、ユーザーに代わって実際に取引を完了することはできない。今回の決定や同様の判断は、MetaのMuseやOpenAIのDotsといった新しい個人向けAIアシスタントの有用性を制限する可能性がある。Journalによれば、UnitedのCEO、Scott Kirby氏は火曜日のイベントで「正直に言えば、新たな仲介者をつくりたくない」と語った。"
-              },
-              {
-                "t": "p",
-                "x": "業種を問わず、企業は自社サイトでAIエージェントに取引をさせるかどうかに頭を悩ませており、無許可のエージェントのアクセスを遮断しているのはUnitedだけではない。eBayはエージェントによるサイト閲覧をブロックしたとみられ、複数の大手銀行も制限を設けている。Unitedは今後の進展次第で決定を見直す可能性も示唆した。「サードパーティーのAIエージェントが進化するにつれ、そこにある機会も見えている。しかし同時に、エージェントがUnitedのアカウントや予約と直接やり取りすることを認めれば、機微な操作を伴う可能性があり、まず旅行者のための保護策を確実に整えたい」"
+                "x": "ある会話では、Perplexityが誤ったページをStüssyの公式サイトだと示し、「確実に正規品を買うのに最適な出発点」と呼んだ。PodqiのCEOで共同創業者のTrevor Westは「個人情報やクレジットカード情報を入力する前に、その出所を確かめるのが常に最善だ」と話す。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "United禁止个人AI\n代理预订其航班",
-          "body": "United以隐私和监管顾虑为由，不允许个人AI助理预订其航班。",
-          "mini_headline": "United禁止AI代理订票",
+          "headline": "AI聊天机器人\n把购物者引向假网店",
+          "body": "Podqi测试151个品牌发现，ChatGPT等AI会把购物者引向冒牌网站。",
+          "mini_headline": "聊天机器人把购物者引向假网站",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23176430/1237621702.jpg?quality=90&strip=all&crop=0.014236902050115%2C0%2C99.9715261959%2C100&w=2400",
-                "cap": ""
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
               },
               {
                 "t": "p",
-                "x": "United表示，出于隐私和监管方面的顾虑，不会允许个人AI助理在该航空公司预订机票。"
+                "x": "一项新研究发现，使用AI聊天机器人研究商品或寻找购买渠道的购物者，可能会被引向冒牌网站及其他高风险网站。知识产权（IP）保护公司Podqi向ChatGPT、Gemini和Perplexity提出了涉及151个品牌的购物相关问题，例如“在网上哪里能找到[brand]？”"
               },
               {
                 "t": "p",
-                "x": "据The Wall Street Journal报道，该公司表示目前还没看到很多人尝试用AI代理预订航班，这与Doordash等其他企业的观察一致。但United担心，代理可能泄露客户信息或做出客户并非本意的购买，还可能绕开联邦规定——这些规定涉及航空公司必须与客户共享的信息，例如让客户确认行李中没有爆炸物。"
+                "x": "在总计6,795条回答中，三个AI引擎都引用并向购物者展示了高风险网站，即冒充真实零售商或售卖仿冒品的假网站、被重新注册的旧品牌域名，或已失效的网站。Gemini在百分之四的回答中展示了高风险网站，ChatGPT为百分之八，Perplexity表现最差，达百分之十五。小品牌似乎尤其容易受害。"
               },
               {
                 "t": "p",
-                "x": "代理仍可向用户展示United的航班，但无法代表用户真正完成交易。这一决定以及类似决定，可能会限制Meta的Muse、OpenAI的Dots等新一代个人AI助理的潜在用处。据Journal报道，United首席执行官Scott Kirby周二在一场活动上说：“说实话，我不想再制造一个中间商。”"
-              },
-              {
-                "t": "p",
-                "x": "各行各业的企业都在纠结是否允许AI代理在其网站上进行交易，而United并不是唯一屏蔽未经授权代理的公司。eBay似乎已阻止代理浏览其网站，多家大型银行也对代理设置了限制。United暗示，可能会根据未来的技术进展重新考虑这一决定：“随着第三方AI代理不断进步，我们看到了它们带来的机遇。但与此同时，允许它们直接与United账户或预订交互可能涉及敏感操作，我们希望先为旅客建立好保护措施。”"
+                "x": "在一次对话中，Perplexity把一个错误页面当作Stüssy的官方网站，并称其为“保证正品的最佳起点”。Podqi CEO兼联合创始人Trevor West说：“在输入个人信息或信用卡信息之前，最好始终先核实来源。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "United veta a los agentes de AI\npersonales para reservar vuelos",
-          "body": "United no permitirá que asistentes personales de AI reserven sus vuelos por motivos de privacidad y regulación.",
-          "mini_headline": "United veta agentes de reserva",
+          "headline": "Chatbots de AI desvían a\ncompradores a tiendas falsas",
+          "body": "Un estudio de Podqi con 151 marcas halló que ChatGPT, Gemini y Perplexity dirigen a compradores a tiendas impostoras.",
+          "mini_headline": "Los chatbots envían a compradores a falsificaciones",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23176430/1237621702.jpg?quality=90&strip=all&crop=0.014236902050115%2C0%2C99.9715261959%2C100&w=2400",
-                "cap": ""
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
               },
               {
                 "t": "p",
-                "x": "United afirma que no permitirá que los asistentes personales de AI reserven billetes en la aerolínea, por motivos tanto de privacidad como regulatorios."
+                "x": "Los compradores que usan chatbots de AI para investigar productos o encontrar dónde comprarlos podrían acabar en sitios impostores y otras webs de riesgo, según un nuevo estudio. La firma de protección de IP Podqi planteó a ChatGPT, Gemini y Perplexity preguntas de compra sobre 151 marcas, como “¿Dónde puedo encontrar [brand] en línea?”"
               },
               {
                 "t": "p",
-                "x": "La compañía dice que aún no ha visto a mucha gente intentar usar agentes de AI para reservar vuelos, según informa The Wall Street Journal, en línea con lo observado por otras empresas como Doordash. Pero a United le preocupa que los agentes puedan exponer información de los clientes o hacer compras que estos no pretendían, y que puedan eludir normas federales sobre la información que las aerolíneas deben compartir con los clientes, como pedirles que declaren que su equipaje no contiene explosivos."
+                "x": "A lo largo de 6,795 respuestas, los tres motores de AI citaron y mostraron a los compradores sitios de riesgo, definidos como webs falsas que suplantan a minoristas reales o venden imitaciones, dominios antiguos de marcas registrados de nuevo o sitios inactivos. Gemini mostró sitios de riesgo en el 4 por ciento de las respuestas, ChatGPT en el 8 por ciento y Perplexity fue el peor, con un 15 por ciento. Las marcas más pequeñas parecen especialmente expuestas."
               },
               {
                 "t": "p",
-                "x": "Aunque los agentes podrán seguir mostrando vuelos de United a los usuarios, no podrán completar la transacción en su nombre. Esta decisión, y otras similares, podría limitar la utilidad potencial de los nuevos asistentes personales de AI, como Muse de Meta y Dots de OpenAI. “Para ser sincero, no quiero crear otro intermediario”, dijo el CEO de United, Scott Kirby, en un evento el martes, según el Journal."
-              },
-              {
-                "t": "p",
-                "x": "En todos los sectores, las empresas debaten si permitir que los agentes de AI realicen transacciones en sus sitios, y United no es la única que bloquea el acceso a agentes no autorizados. eBay pareció impedir que los agentes navegaran por su sitio, y varios grandes bancos también les han impuesto restricciones. United sugiere que podría reconsiderar su decisión según los avances futuros. “A medida que avanzan los agentes de AI de terceros, vemos las oportunidades que ofrecen. Sin embargo, al mismo tiempo, permitirles interactuar directamente con una cuenta o una reserva de United podría implicar acciones delicadas, y queremos asegurarnos primero de haber establecido protecciones para los viajeros.”"
+                "x": "En una conversación, Perplexity señaló una página equivocada como el sitio oficial de Stüssy y la llamó “el mejor punto de partida para artículos auténticos garantizados”. “Siempre es mejor verificar el origen antes de introducir información personal o datos de la tarjeta de crédito”, dice Trevor West, CEO y cofundador de Podqi."
               }
             ]
           }

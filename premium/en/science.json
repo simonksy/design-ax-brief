@@ -11105,6 +11105,143 @@
           "x": "“Using AI agents to translate live code into valid Lean theorems is a major breakthrough,” said Signal CTO Ehren Kret. DeepMind is open-sourcing its formal verification artifacts."
         }
       ]
+    },
+    "science/wharton-chatgpt-ideation-study": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/using-ai-for-creative.jpg",
+          "cap": "Share of stories in each genre when participants wrote without AI and when they wrote with ChatGPT under three collaboration designs. Credit: Kartik Hosanagar and Daehwan Ahn, from data in Hosanagar & Ahn, PNAS Nexus (2026)."
+        },
+        {
+          "t": "p",
+          "x": "An experimental study of various ways of working with AI on a creative task finds that preserving human involvement in early creative decisions can help organizations balance efficiency, quality and satisfaction."
+        },
+        {
+          "t": "p",
+          "x": "Kartik Hosanagar and Daehwan Ahn asked 285 students in an elective course on emerging technologies to write a 1,000-word story. The next class period, the same students used ChatGPT 3.5 to write a story, using one of three approaches. The findings are published in the journal PNAS Nexus."
+        },
+        {
+          "t": "p",
+          "x": "In the \"Human Confirmation\" condition, AI did all the work—coming up with ideas, outlining, drafting and editing—and the humans merely approved the outputs. In the \"Human Creativity\" condition, humans generated ideas, selected a story concept and outlined the story, and then AI drafted and edited the story. In the \"Copilot\" condition, participants could use AI support at any stage of the creative process."
+        },
+        {
+          "t": "p",
+          "x": "The stories were written 36.2% more quickly with AI help. When read by human readers, stories written with the Human Confirmation approach were rated as lower quality than human-only stories, but both Human Creativity and Copilot stories were rated as higher quality than human-only stories. The Human Creativity and Copilot groups also reported higher levels of satisfaction."
+        },
+        {
+          "t": "p",
+          "x": "Participants noted the AI stories lacked emotional depth, originality and nuance. According to the authors, collaboration design affects trade-offs among productivity, creative diversity and human satisfaction in AI-assisted work."
+        }
+      ]
+    },
+    "science/harvard-ai-peer-review-blind": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.psypost.org/wp-content/uploads/2026/04/artificial-intelligence4.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "A working paper by Harvard's Gary King and Steven Worthington reports that in blind comparisons judged by an AI model and by former journal editors, AI-written peer reviews of unpublished papers won the large majority of matchups and contained about a third the rate of incorrect claims. The paper has not yet been peer reviewed."
+        },
+        {
+          "t": "p",
+          "x": "The human benchmark came from rapidPeer, a Harvard pre-submission service that pays outside experts well: 124 manuscripts and 134 human reviews collected between 2019 and 2026. For each manuscript, Anthropic's Claude Opus 4.8 wrote a review; OpenAI's GPT-5.5 served as a separate AI judge, and three former editors of leading journals judged 10 randomly selected pairs."
+        },
+        {
+          "t": "p",
+          "x": "The AI judge preferred the AI review in 100% of decided pairs (132 out of 132), and the blinded former editors preferred it in 87% of their judgments (26 out of 30). Web-enabled AI reviews contained zero fabricated sources, and 5.5% of their claims were judged incorrect, versus 15.9% in the human reviews."
+        },
+        {
+          "t": "p",
+          "x": "Outside experts cautioned that the study measured the quality of constructive feedback, not whether AI can judge which papers merit publication, and the authors warn that widespread reliance on AI could make scientific literature more uniform."
+        }
+      ]
+    },
+    "science/mit-climate-emulator-unrealistic": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://news.mit.edu/sites/default/files/images/202611/MIT-Climate-Emulation-01.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "MIT researchers have developed a technique that streamlines the production of fast, trustworthy, and adaptable artificial intelligence models for climate prediction. These climate emulators can rapidly simulate the effects of human activities onto a future climate, and run in a matter of seconds."
+        },
+        {
+          "t": "p",
+          "x": "The training technique boosts the performance and adaptability of a climate emulator while using only a fraction of the data typically required. An emulator trained with a much smaller amount of carefully selected synthetic data accurately predicts outcomes of scenarios it did not see during training, while traditional emulators failed to adapt to new situations. The research appears in the Proceedings of the National Academy of Sciences."
+        },
+        {
+          "t": "p",
+          "x": "Emulators are usually trained on six to eight realistic future scenarios, each run through a full-scale earth system model. The MIT algorithm instead generates optimized synthetic scenarios, so a user would only need to run that model once. \"Our algorithm might generate some weird scenarios which look nothing like a realistic future, but we don't care so much if the training scenarios are realistic,\" says Womack, the paper's lead author."
+        },
+        {
+          "t": "p",
+          "x": "The resulting emissions data contain rapid variations rather than smooth trajectories. An emulator trained this way can capture the effects of local pollutant control policies; the traditional emulators they evaluated failed this test."
+        }
+      ]
+    },
+    "science/qctrl-quantware-coldstart": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/11/image-71.png",
+          "cap": "Gate fidelities from a full autonomous bring-up of a QuantWare Contralto-D21."
+        },
+        {
+          "t": "p",
+          "x": "Quantum infrastructure software provider Q-CTRL has released hardware benchmarking data demonstrating fully autonomous, cold-start bring-up and gate calibration on QuantWare D-Line superconducting processors using its Boulder Opal control platform. Validated on a 21-qubit QuantWare Contralto-D21 device, the physics-informed AI state machine tuned five-qubit feedline blocks from an uncalibrated state to operational gate fidelities in under three hours without manual specialist intervention."
+        },
+        {
+          "t": "p",
+          "x": "Benchmarks: cold-start bring-up time <3 hours per 5-qubit feedline; single-qubit gate fidelity 99.95% median (SX gates); two-qubit gate fidelity >98% peak / 96% device median (CZ gates). Upcoming roadmap: QuantWare A-Line & runtime recalibration, adding tunable-coupler support, task parallelization, and continuous drift tracking in late 2026."
+        },
+        {
+          "t": "p",
+          "x": "Scaling superconducting quantum computers presents a severe operational bottleneck because dozens of interdependent control parameters must be iteratively tuned and stabilized against environmental drift. Conventional scripted calibration routines frequently fail when hardware frequencies drift outside narrow scan windows, requiring experimental physicists to intervene manually."
+        },
+        {
+          "t": "p",
+          "x": "Boulder Opal encodes architecture-specific characterization and calibration routines into an automated state machine capable of detecting out-of-range anomalies, filtering false-positive resonances, and recovering underperforming qubits autonomously."
+        }
+      ]
+    },
+    "science/alphagenome2-celltype-variants": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://lh3.googleusercontent.com/VPOhADdGu1T7kK_gWBiGzyVawQbKCjpL3-B0L0wxpYCyr8cHxviYmo9Hghy4f1laeIo2YKwuz8E07TR9HWWk2b0EONi0uvju-8TDLHX6YWHG4dXe3w=w1200-h630-n-nu-rw"
+        },
+        {
+          "t": "p",
+          "x": "Today, we are announcing AlphaGenome 2, our next-generation model that predicts how DNA sequences and their variations impact specific human cell types, giving scientists a powerful new tool to uncover the cellular drivers of disease."
+        },
+        {
+          "t": "p",
+          "x": "AlphaGenome 2 identifies nearly twice as many variants that change gene expression in cells, compared to our previous state-of-the-art model. It is available today for non-commercial research via the AlphaGenome API, and in private preview for commercial research."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/EUdRzfXXT2oOcMoR/ag1_vs_ag2_expr_cond_gdm_light_no_outline.gif",
+          "cap": "Comparing how AlphaGenome 1 and 2 treat cell types."
+        },
+        {
+          "t": "p",
+          "x": "Instead of predicting in parallel, AlphaGenome 2 is a conditional model that predicts DNA effects for one condition - defined as a tissue, cell type or state - at a time. It was trained on bulk and single-cell data from human and mouse samples, including over 107 million individual cell profiles."
+        },
+        {
+          "t": "p",
+          "x": "On the TenK10K dataset of 28 primary immune cell types, it identified nearly twice as many causal variants (30% vs. 16%) and directional gene effects (43% vs. 23%). It also reproduced computationally a finding that a variant drives IBD by overactivating the ETS2 gene in gut macrophages."
+        },
+        {
+          "t": "p",
+          "x": "Scientists can upload a single-cell RNA-seq snapshot from just a few dozen cells to predict variant effects for new cell states without retraining. AlphaGenome and AlphaGenome 2 are intended for research use only."
+        }
+      ]
     }
   }
 }

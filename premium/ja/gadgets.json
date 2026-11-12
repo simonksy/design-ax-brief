@@ -11421,6 +11421,154 @@
           "x": "Pixel 11シリーズではCall Screenが強化された。Geminiが知らない発信者に連絡の理由を、より会話に近い形で尋ね、画面にはリアルタイムの文字起こしが表示される。HiLightはGoogle Messagesに対応し、端末を伏せて置いているときにお気に入りの連絡先からメッセージが届くと光って知らせる。Pixel Tagは11月11日に登場する。"
         }
       ]
+    },
+    "gadgets/windows-photos-adobe-genai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Adobe-Max.jpg",
+          "cap": "Windows標準の写真編集アプリに、まもなくAdobe-poweredの機能が加わる"
+        },
+        {
+          "t": "p",
+          "x": "AdobeとMicrosoftは提携を広げ、Windows 11に新たなAI-poweredの編集機能を導入するとともに、Arm-based PCsでのCreative Cloudの性能を高める。両社はこの協業をAdobe Max 2026で発表した。"
+        },
+        {
+          "t": "p",
+          "x": "Adobeの生成AIツールがWindows 11標準のPhotosアプリに搭載される。画像を元の枠の外まで拡張したり、画像の一部を失わずに写真を回転したり、不要なオブジェクトを消して生じた隙間を自動で埋めたりできる。テキストによる編集にも対応し、PhotosビューアーからAdobe Expressを直接呼び出して、写真を招待状やソーシャルメディア投稿などのデザインに仕上げられる。"
+        },
+        {
+          "t": "p",
+          "x": "これらの機能は2026年12月から、まずWindows Insidersに提供される。両社とも一般提供の時期は明らかにしておらず、一部のAI機能に有料サブスクリプションが必要かどうかも説明していない。"
+        },
+        {
+          "t": "p",
+          "x": "AdobeはまたPhotoshop、Premiere、After Effects、Substance 3D Painter（beta）を、Nvidia RTX Spark搭載のMicrosoft Surface Laptop UltraをはじめとするWindows on Arm機器向けに最適化した。Photoshopではオンデバイスの生成AI処理が速くなったが、一部の機能やサードパーティ製プラグインは依然としてWindows on Armに対応していない。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/_processed_/8/b/csm_Adobe-X-Microsoft-Windows-11-features_86f7cbac0b.gif",
+          "cap": "Adobe X MicrosoftのWindows 11向け機能"
+        }
+      ]
+    },
+    "gadgets/msi-edgemesa-n-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-005US-AI-Supercomputer-Desktop-Cover.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "MSIのEdgeMesa N AI+は、NVIDIAのRTX Spark N1Xスーパーチップを、最大128GBの統合メモリとともに小型デスクトップに収めた。US向けの二つの構成はプロセッサーとグラフィックスのハードウェアが共通で、購入時の主な選択肢はメモリとストレージになる。"
+        },
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-005US-AI-Supercomputer-Desktop-5.png"
+        },
+        {
+          "t": "p",
+          "x": "RTX Spark N1Xは6,144-core Blackwell RTX GPUと20-core NVIDIA Grace CPUを組み合わせ、最大1 petaFLOPのFP4 AI性能をうたう。MSIが繰り返し想定用途に挙げるのは、常駐型のAIエージェントだ。"
+        },
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-006US-AI-Supercomputer-Desktop-1.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "どちらのバージョンも256-bitインターフェースのLPDDR5X-9600を採用する。X-006USは64GBと1TB SSD、X-005USは128GBと4TBを搭載する。統合メモリではCPUとGPUが同じメモリプールを読むため、モデルの重みと作業データが一か所にとどまる。"
+        },
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-005US-AI-Supercomputer-Desktop-4-1.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "本体は幅5.98インチ、奥行き5.79インチ、高さ2.09インチで、ベイパーチャンバー冷却と240W電源アダプターを備える。20Gbps USB Type-Cポート四つ、10G LAN、Wi-Fi 7を備え、最大四台のディスプレイに対応する。プロセッサーはArmなので、使うツールチェーンが対応している必要がある。X-006USの価格は$4,699だ。"
+        }
+      ]
+    },
+    "gadgets/anker-soundcore-typeless": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Anker-Soundcore-Work-Typeless.jpg",
+          "cap": "Typeless"
+        },
+        {
+          "t": "p",
+          "x": "AI-poweredの音声入力・テキスト処理アプリTypelessは、Ankerとの正式な提携を発表し、AI音声入力アプリをウェアラブルマイクSoundcore Workに提供する。AnkerはCES 2026でこの製品を発表しており、発売からすでにかなりたつ。今回の統合により、ユーザーはウェアラブルを使ってメール、メッセージ、AIプロンプト、さらには長い文書まで口述入力できる。"
+        },
+        {
+          "t": "p",
+          "x": "Soundcore Workの売りは、襟に付けて自然に、ささやき声でも話せることだ。Soundcore Workはもともと、Ankerの専用アプリで文字起こしと要約を提供するAI-poweredの会議レコーダーとして登場した。コインほどの大きさでデュアルマイクを備え、服にクリップで留めたり首から下げたりできる。"
+        },
+        {
+          "t": "p",
+          "x": "会話を録音して後から文字起こしを見直す代わりに、書きたい内容をアプリに直接口述できる。Typelessが話し言葉を読みやすい文章に変え、ウェアラブルが音声の取り込みを担う。"
+        },
+        {
+          "t": "p",
+          "x": "この統合はWindows、macOS、iOS、Androidで動作する。既存のSoundcore Workユーザーは、Typelessとペアリングする前にSoundcoreアプリでマイクのファームウェアを更新する必要がある。デスクトップではウェアラブルをダブルタップして口述入力を開始・停止することもできる。Ankerによるとバッテリーは最大八時間、充電ケース併用で32時間まで延びる。Soundcore Workはすでに$159で販売されている。"
+        }
+      ]
+    },
+    "gadgets/homeview-siri-fix-update": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.macrumors.com/t/PcvtzDz-CC6xLnTkUzpoizZN5MQ=/2000x/article-new/2026/10/homeview-wall-mount.jpg"
+        },
+        {
+          "t": "p",
+          "x": "テックジャーナリストのJoanna Sternは、本日配信したニュースレターNew Thingsの無料版に掲載したHomeViewレビューで、デバイスにカメラがあるにもかかわらず、Siri AIに「あなたを見るカメラがありません」と言われたことがあると述べた。Appleは、この問題を修正するソフトウェアアップデートを12月に配信する予定だとSternに認めた。"
+        },
+        {
+          "t": "p",
+          "x": "HomeViewがSternを認識していたにもかかわらず、Siri AIはガレージのドアを開けることも玄関の鍵を開けることも拒んだ。Appleは来月のソフトウェアアップデートでこの機能が使えるようになると彼女に伝えた。それまでは、HomeViewでHomeアプリを開き、画面上のコントロールをタップすればドアロックやガレージドアを解錠できる。"
+        },
+        {
+          "t": "video",
+          "yt": "yVTcVtLn2o4"
+        },
+        {
+          "t": "p",
+          "x": "「現在、HomeViewに認識されたユーザーは、ドアロックやガレージドアを含むセキュリティアクセサリーをHomeViewの画面から直接解錠できます」とAppleの広報担当者はSternに語った。「来月のソフトウェアアップデートで、これがSiri AIにも広がり、認識されたユーザーがセキュリティアクセサリーを管理する方法が増えます」"
+        },
+        {
+          "t": "p",
+          "x": "HomeViewは今週金曜日に発売され、米国（U.S.）での価格は$299からだ。私たちも実機に触れた感想をまとめたハンズオンレビュー動画を公開している。"
+        }
+      ]
+    },
+    "gadgets/gemini-carplay-app": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/google-brings-the-gemini-app-to-apple-carplay/l-intro-1794426857.jpg",
+          "cap": "GoogleがGeminiアプリをApple CarPlayに投入"
+        },
+        {
+          "t": "p",
+          "x": "チャットボットをできるだけ多くの画面、スピーカー、体験から逃れられない存在にしようとする取り組みの一環として、GoogleはGeminiアプリをApple CarPlayに投入した。本日から、Gemini Liveが対応するすべての言語で利用できる。"
+        },
+        {
+          "t": "p",
+          "x": "GoogleはこれまでGoogle Mapsアプリを通じてCarPlayでこのAIアシスタントを使えるようにしていた。今後はディスプレイ上のGeminiアイコンをタップするだけで利用できる。Googleによると、車内でGeminiとの会話を中断したところから再開することも、チャットボットと新しい会話を始めることもできる。"
+        },
+        {
+          "t": "p",
+          "x": "同社は、通勤中の会議準備やメールの確認、Daily Briefの聴取、周辺で訪れる価値のある場所の提案などにGeminiを使えるとしている。会話はGeminiのiPhoneアプリと同期され、チャット履歴に残る。"
+        },
+        {
+          "t": "p",
+          "x": "CarPlayでアシスタントを使うには、iPhoneのGeminiアプリを最新版にし、マイクの権限をオンにしておく必要がある。また、iPhoneでGemini Liveを少なくとも一度使っておく必要もある。"
+        },
+        {
+          "t": "p",
+          "x": "GoogleがGeminiアプリをCarPlayに投入したのは、Android AutoのチャットボットでPersonal Assistance(他のGoogleアプリの情報にアクセスし、よりパーソナライズされた回答を返す機能)を有効にして間もなくのことだ。同社はGoogle built-in搭載車のGeminiにもPersonal Intelligenceを導入する。"
+        }
+      ]
     }
   }
 }

@@ -1,7 +1,31 @@
-{"date":"2026-11-12","section":"medicine","media":[
-{"id":"lancet-pharma-ad-llm","type":"image","src":"pipeline/media/lancet-pharma-ad-llm.jpg"},
-{"id":"mdcalc-crosscover-launch","type":"image","src":"pipeline/media/mdcalc-crosscover-launch.jpg"},
-{"id":"nejm-ai-aura-ana-triage","type":"image","src":"pipeline/media/nejm-ai-aura-ana-triage.jpg"},
-{"id":"uw-rsna-ai-triage-realworld","type":"svg"},
-{"id":"synsight-synthetic-rdt","type":"image","src":"pipeline/media/synsight-synthetic-rdt.png"}
-]}
+{
+  "date": "2026-11-13",
+  "section": "medicine",
+  "media": [
+    {
+      "id": "doximity-cds-survey-63pct",
+      "type": "image",
+      "src": "pipeline/media/doximity-cds-survey-63pct.jpg"
+    },
+    {
+      "id": "medicare-wiser-ai-priorauth-docs",
+      "type": "image",
+      "src": "pipeline/media/medicare-wiser-ai-priorauth-docs.jpg"
+    },
+    {
+      "id": "fda-cms-states-healthai-oversight",
+      "type": "image",
+      "src": "pipeline/media/fda-cms-states-healthai-oversight.jpg"
+    },
+    {
+      "id": "jama-ai-interventional-trials-ctgov",
+      "type": "image",
+      "src": "pipeline/media/jama-ai-interventional-trials-ctgov.jpg"
+    },
+    {
+      "id": "npj-cancer-persistent-fever-ml",
+      "type": "image",
+      "src": "pipeline/media/npj-cancer-persistent-fever-ml.jpg"
+    }
+  ]
+}

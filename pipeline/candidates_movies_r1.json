@@ -1,34 +1,110 @@
 {
-  "section": "movies",
-  "now_iso": "2026-11-09T22:02:53Z",
-  "window_hours": 336,
-  "items": [
-    {
-      "title": "AI Could Make Films Costlier Than the 35mm Era, Korean Pioneers Warn",
-      "url": "https://variety.com/2026/film/markets-festivals/ai-films-costlier-35mm-era-korean-pioneers-warn-1236942217/",
-      "source": "Variety",
-      "category": "movies",
-      "published_iso": "2026-11-08T00:27:50+00:00",
-      "excerpt": "At TCCF in Taipei, Studio Meta-K CEO Kim Kwang-jib said the token bill alone for a 100-minute AI feature can top KRW500 million ($366,000) with top commercial tools, and that every revision is a paid re-render, so piecemeal client notes can multiply costs tenfold. He and MBC C&I's Lee Sang-wook, whose AI feature 'Raphael' heads to Korean cinemas, also covered hybrid shoots and new crew roles.",
-      "og_image": "https://variety.com/wp-content/uploads/2026/11/Korea-AI-panel-TCCF.jpg?w=1000&h=563&crop=1"
-    },
-    {
-      "title": "Two 'Ramayana' Cuts Are in Theaters — but Your Best Bet for the Indian Epic Is Clear",
-      "url": "https://www.indiewire.com/features/commentary/ramayana-movie-english-cut-vs-hindi-1235225811/",
-      "source": "IndieWire",
-      "category": "movies",
-      "published_iso": "2026-11-05T21:30:00+00:00",
-      "excerpt": "The English cut of DNEG/Prime Focus's 'Ramayana' uses an in-house AI lip-sync tool called 'Brahma AI' that maps newly captured English mouth performances, recorded by real actors (sometimes the original cast), onto the original faces. IndieWire's critic says the visual dub makes the English performances stilted and recommends the Hindi version.",
-      "og_image": "https://www.indiewire.com/wp-content/uploads/2026/11/Screen-Shot-2026-11-05-at-1.03.35-PM.png?w=650"
-    },
-    {
-      "title": "View Conference Was Inspiring: The AI Sales Pitches Were Exhausting (And Occasionally Bullshit)",
-      "url": "https://www.cartoonbrew.com/events/view-conference-ai-sales-pitches-268698.html",
-      "source": "Cartoon Brew",
-      "category": "movies",
-      "published_iso": "2026-10-29T16:56:00+00:00",
-      "excerpt": "Cartoon Brew pushes back on the generative-AI pitches at Turin's View Conference: NVIDIA's Richard Kerris and Jeff Kember and Runway's Cristobal Valenzuela, including the session 'Every Pixel Will Be Generated'. It notes that directors Januel Mercado and McKenna Harris said they don't use gen AI, which undercuts the claim that everyone already does.",
-      "og_image": "https://www.cartoonbrew.com/wp-content/uploads/2026/10/View-Conference.jpg"
-    }
-  ]
+ "section": "movies",
+ "now_iso": "2026-11-12T22:03:17Z",
+ "window_hours": 336,
+ "recovery_pass": 1,
+ "expansion_keywords": [
+  "KBS 문무 AI 전투신",
+  "AI 인물 교체 (시그널2)",
+  "Netflix no-AI vendor policy (Blue Spirit)",
+  "Zhao Liying AI face-swap short drama lawsuit",
+  "NRTA AI drama labels",
+  "AI hybrid documentary",
+  "AI VFX media art (Dexter)",
+  "Seedance 2.5 Flash",
+  "AI screenwriting education",
+  "生成AI 映画 (金子修介)"
+ ],
+ "items": [
+  {
+   "title": "KBS 3년만의 대하사극 '문무'…AI 전투신 '고거전' 뛰어넘을까",
+   "url": "https://sports.khan.co.kr/article/202611122200006",
+   "source": "스포츠경향",
+   "published_iso": "2026-11-12T22:00:00+09:00",
+   "excerpt": "KBS's 30bn-won historical epic 'Munmu' (premieres Nov. 14) built its three big battles — Jupilsan, Maesoseong, Gibeolpo — with generative AI video; CP Lee Ho says AI tools improved so fast over the 18-month production that they kept swapping in newer models, using AI even more for the tidal-flat Gibeolpo battle.",
+   "og_image": "https://images.khan.co.kr/article/2026/11/12/l_2026111302000044400039133.jpg",
+   "category": "movies"
+  },
+  {
+   "title": "'소년범' 조진웅 불쾌감, 왜 시청자 몫?..최악의 '시그널', 기어코 보낸 tvN",
+   "url": "https://www.starnewskorea.com/star/2026/11/09/2026110811585056910",
+   "source": "스타뉴스",
+   "published_iso": "2026-11-09T06:00:00+09:00",
+   "excerpt": "tvN says it tested AI-based actor replacement and video-tech fixes to remove disgraced actor Cho Jin-woong from 'Signal 2' before deciding to air the series with him anyway — a real-world test case of AI face replacement failing to meet broadcast quality.",
+   "og_image": "https://image.starnewskorea.com/21/2026/11/2026110811585056910_1.jpg",
+   "category": "movies"
+  },
+  {
+   "title": "Blue Eye Samurai Studio Says Netflix Won't Allow It to Use AI: 'We're Not Allowed'",
+   "url": "https://in.ign.com/blue-eye-samurai/276813/blue-eye-samurai-studio-says-netflix-wont-allow-it-to-use-ai-were-not-allowed",
+   "source": "IGN India",
+   "published_iso": "2026-11-12T10:00:00+00:00",
+   "excerpt": "Blue Spirit CCO Charles Beirnaert told TCCF Taipei the French studio is barred from using AI on its Netflix projects including Blue Eye Samurai; it has asked Netflix at what stage AI might be allowed and the answer has consistently been no.",
+   "og_image": "https://sm.ign.com/t/ign_in/news/n/netflix-co/netflix-confirms-blue-eye-samurai-will-end-with-third-and-fi_w1st.1200.jpg",
+   "category": "movies"
+  },
+  {
+   "title": "Chinese actress Zhao Liying's lawsuit spotlights AI misuse as experts urge stronger oversight",
+   "url": "https://www.globaltimes.cn/page/202611/1374182.shtml",
+   "source": "Global Times",
+   "published_iso": "2026-11-12T22:45:00+08:00",
+   "excerpt": "Zhao Liying has sued the operator of ByteDance's Hongguo Short Drama platform and Douyin over AI face-swapped use of her likeness in short dramas (reported claim 810,000 yuan), the highest-profile star case yet against AI-generated micro-drama production.",
+   "og_image": "https://www.globaltimes.cn/Portals/0/attachment/2026/2026-11-12/085e211b-5d72-44f7-ae9e-b0b47769c971.jpeg",
+   "category": "movies"
+  },
+  {
+   "title": "Labels required for AI-made dramas",
+   "url": "https://www.chinadaily.com.cn/a/202611/11/WS6af3bb72e4b03ebf8519bac6.html",
+   "source": "China Daily",
+   "published_iso": "2026-11-11T08:48:49+08:00",
+   "excerpt": "China's NRTA issued rules bringing AI-generated short dramas under unified national oversight for the first time, alongside live-action short dramas, including mandatory AI-content labelling. (Check vs. earlier NRTA crackdown coverage 11-05..11-10 — only new if these are the formal rules.)",
+   "og_image": "http://img2.chinadaily.com.cn/images/202611/11/6af425f9e4b03ebf74636b1a.png",
+   "category": "movies"
+  },
+  {
+   "title": "Lei Lei's Hybrid Doc 'Vertigo Garden,' About a Botanist's AI-Replicated Memories, Lands at Asian Shadows Ahead of IDFA Bow",
+   "url": "https://variety.com/2026/film/news/lei-lei-hybrid-doc-vertigo-garden-asian-shadows-idfa-1236945987/",
+   "source": "Variety",
+   "published_iso": "2026-11-12T11:07:25+00:00",
+   "excerpt": "Animator Lei Lei's hybrid doc reconstructs a preserved botanist's memories with AI; he describes training AI to generate footage of the same location again and again and cutting the results into a flickering effect likened to Rose Lowder. Asian Shadows takes sales ahead of IDFA.",
+   "og_image": "https://variety.com/wp-content/uploads/2026/11/Vertigo-Garden.jpg?w=1000&h=563&crop=1",
+   "category": "movies"
+  },
+  {
+   "title": "덱스터, AI VFX로 미디어아트 확장…'플래시백 계림' 전시",
+   "url": "https://zdnet.co.kr/view/?no=20261112133150",
+   "source": "지디넷코리아",
+   "published_iso": "2026-11-12T13:40:01+09:00",
+   "excerpt": "Korean VFX house Dexter Studios used its AI-based VFX pipeline to re-composite subsidiary Flashbackground's immersive media-art piece 'Flashback Gyerim' for a large exhibition space at AI Content Festival 2026.",
+   "og_image": "https://image.zdnet.co.kr/2026/11/12/1766270f78eb3f78e26f3b66b2676292.jpg",
+   "category": "movies"
+  },
+  {
+   "title": "ByteDance Releases Seedance 2.5 Flash, a Faster Video Model Priced About 34% Below Seedance 2.5",
+   "url": "https://pandaily.com/bytedance-seedance-2-5-flash-faster-lower-cost-video-model-volcano-ark-api",
+   "source": "Pandaily",
+   "published_iso": "2026-11-12T08:39:30+00:00",
+   "excerpt": "Volcano Engine's Seedance 2.5 Flash generates video twice as fast as Seedance 2.5 at about 0.99 yuan/sec at 720p (~34% cheaper); API access opens on Volcano Ark Nov. 15. (Published time from outlet RSS pubDate; page has no meta date.)",
+   "og_image": "https://cms-image.pandaily.com/1/seedance_96adab67c5.png",
+   "category": "movies"
+  },
+  {
+   "title": "Hollywood warned young screenwriters about AI. Now it may be their ticket in",
+   "url": "https://www.yahoo.com/entertainment/movies/articles/hollywood-warned-young-screenwriters-ai-110000462.html",
+   "source": "Los Angeles Times (via Yahoo)",
+   "published_iso": "2026-11-11T11:00:00Z",
+   "excerpt": "LA film-school educators are teaching emerging screenwriters to use generative AI to develop loglines, pitches and visual pitch materials — a shift from strike-era hostility as AI spreads through screenwriting platforms.",
+   "og_image": "https://s.yimg.com/lo/mysterio/api/0fa6a33d933420906a5c682624f5d8aec388caf33b4db641a2bbc01ba02b740f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fla_times_articles_853%2F99966ef363af2d1429f3e4e74692759c.jpg",
+   "category": "movies"
+  },
+  {
+   "title": "「生成AI」は映像業界をどう変えるか？ 金子修介監督らが語るAIと映画の関係性",
+   "url": "https://cyzo.jp/culture/post_420632/",
+   "source": "日刊サイゾー",
+   "published_iso": "2026-11-11T12:00:46+09:00",
+   "excerpt": "Gamera/Death Note director Shusuke Kaneko's new film '2126年、海の星をさがして' (opens Nov. 13) used generative AI from Smoothie Studio for its in-film game world and Shanghai/Busan pitch scenes to fit budget and schedule; he is now developing an actor-free, fully gen-AI tokusatsu project for streaming.",
+   "og_image": "https://cyzo.jp/wp-content/uploads/2026/11/20261109-cyzoonline-news-aimovie-pic08.jpg",
+   "category": "movies"
+  }
+ ]
 }

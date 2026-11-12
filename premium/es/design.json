@@ -11601,6 +11601,153 @@
           "x": "Para empresas, CX Enterprise Coworker llega a GenStudio. Adobe también profundizó sus alianzas con Google y Microsoft, sobre la base de sus conectores con Anthropic y OpenAI."
         }
       ]
+    },
+    "design/google-flow-artist-tools": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Nov_Cohort_Hero_4.width-1300.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Google lanza cinco nuevas herramientas en Google Flow, su estudio creativo de AI, todas creadas por creativos, para ayudar a dar forma a las historias desde el concepto hasta el montaje final."
+        },
+        {
+          "t": "p",
+          "x": "1. Character Poster, del artista y cineasta James Gerde, convierte conceptos sencillos de historias en piezas visuales pulidas y bien diseñadas, y ayuda a los creadores a mantener un estilo propio en sus historias para redes sociales."
+        },
+        {
+          "t": "video",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/01_Charater_Poster_-_10.6.26_-_1.mp4"
+        },
+        {
+          "t": "p",
+          "x": "2. Character Arc, del cineasta Anurag Tiwari, permite visualizar a un mismo personaje en distintas edades y etapas de la vida sin perder su aspecto esencial. Lo está usando en su documental “Children of the Sun”."
+        },
+        {
+          "t": "p",
+          "x": "3. Pixel Machine, también de Anurag Tiwari, convierte imágenes en estilos bitmap, ASCII, CRT, pixel art y glitch para títulos, transiciones y visuales de videoclips."
+        },
+        {
+          "t": "p",
+          "x": "4. Lucid Glass, del artista y director creativo Ezra Paulekas, recrea cómo la luz atraviesa el vidrio y genera prismas, halos, refracciones y destellos ópticos: una \"lente imposible\"."
+        },
+        {
+          "t": "p",
+          "x": "5. Pocket Studio, del cineasta Ryan McCoy, convierte grabaciones cotidianas del teléfono en planos más pulidos: a partir de una sola toma genera varios ángulos de cámara y mejora la calidad visual, sin alterar la interpretación original del actor."
+        }
+      ]
+    },
+    "design/kt-kds2-design-system": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.inthenews.co.kr/data/photos/20261146/art_17944633067103_566c36.jpg",
+          "cap": "Empleados de KT usan ‘KDS 2.0’ y el ‘agente de generación de mensajes’ basado en AI. Foto｜KT"
+        },
+        {
+          "t": "p",
+          "x": "KT (consejero delegado: Park Yun-young) anunció el día 12 que ha creado ‘KDS (KT UX Design System) 2.0’, un sistema de diseño UX con funciones de AI reforzadas, y que ha incorporado un agente de AI que ayuda a redactar y revisar los mensajes informativos para clientes."
+        },
+        {
+          "t": "p",
+          "x": "En la versión 2.0, la guía de diseño que antes consultaban las personas también puede leerla y usarla directamente la AI. KT creó el ‘KDS Harness’, que permite a la AI componer pantallas según los criterios de diseño y revisar el resultado, lo que reduce el trabajo de diseño repetitivo y la carga de correcciones."
+        },
+        {
+          "t": "p",
+          "x": "KT aplicó KDS a My KT, KT.com, Direct Shop y otros servicios, y lo usó en su plataforma de modelos de AI ‘Token Factory’, entre otras, para llevar en paralelo la planificación, el diseño y el desarrollo y automatizar las tareas repetitivas de programación y documentación. Al procesar en total 424 requisitos funcionales, 25 componentes y unas 110만 líneas de código, completó en 2 meses y 40 días un trabajo que con el método anterior habría llevado unos 8 meses, y acortó el desarrollo en más de 5 meses."
+        },
+        {
+          "t": "p",
+          "x": "KT revisó su guía de redacción UX: cambió ‘prepago’ por ‘pagar por adelantado’ y ‘tarifa por consumo’ por ‘cobrar según lo usado’, y el 30 de octubre puso en marcha internamente un ‘agente de generación de mensajes’ basado en AI. El tiempo para redactar y revisar un mensaje bajó de 30 a 60 minutos a unos 5 minutos; la producción de imágenes, de 4 horas a 15 minutos, y las traducciones que llevaban dos días o más, a 30 segundos. El día 20 de este mes presentará también un ‘agente de lenguaje del cliente’."
+        },
+        {
+          "t": "p",
+          "x": "Won Man-ho, director de la División de Plataforma AX de KT (vicepresidente), dijo: “Con KDS 2.0 estamos mejorando la coherencia del diseño y llevando también a AX la comunicación con los clientes, para mejorar a la vez la productividad y la experiencia del cliente”."
+        }
+      ]
+    },
+    "design/rhino9-mcneel-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/11/RhinoAI.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Mientras McNeel lanza discretamente Rhino 9 (publicado el 28 de octubre), Campbell Yule informa desde Rhino World 2026 sobre cómo la empresa adopta la AI sin renunciar a su modelo de negocio: los precios y el coste de actualización no cambian, y una licencia de Rhino 9 también permite usar Rhino 6, 7 y 8. “No ha cambiado nada, lo ha cambiado todo”, dijo el fundador y CEO, Bob McNeel."
+        },
+        {
+          "t": "p",
+          "x": "McNeel usa la AI internamente como herramienta de desarrollo y pruebas. Tras la llegada de Claude Opus, Steve Baer esperaba un aumento de productividad del 20%; lo que obtuvieron se acercó a tres veces más. Él y Andy Le Bihan pasaron de 3.3 pull requests fusionadas por día laborable a 9.5. Los cambios se siguen revisando antes de fusionarlos."
+        },
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/11/RhinoAI-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "RhinoAI, creado por Callum Sykes con Claude Code, es un plug-in de código abierto que conecta agentes de AI con Rhino mediante un servidor MCP. Dentro de Rhino, un panel localiza agentes como Claude o Codex; fuera, cada usuario aporta su propio modelo y agente."
+        },
+        {
+          "t": "p",
+          "x": "En las pruebas, un agente construyó un exprimidor de cítricos a partir de un dibujo en tres vistas y lo convirtió en un modelo paramétrico de Grasshopper 2. Las pruebas arquitectónicas fueron más desiguales: un modelo de estadio falló hasta que el agente recibió más imágenes. Rhino.Compute ahora también funciona en Linux."
+        }
+      ]
+    },
+    "design/smashing-ai-feature-audit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://files.smashing.media/articles/should-you-add-au-audit-product-teams/should-you-add-ai-audit-product-teams.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Una función de AI puede ahorrar tiempo a los usuarios en una tarea, solo para que lo gasten revisando los resultados. Victor Yocco propone una auditoría práctica para ayudar a los equipos de producto a decidir dónde se justifica la AI y qué necesitan los usuarios para verificar sus resultados."
+        },
+        {
+          "t": "p",
+          "x": "Una función de AI se justifica cuando lo que aporta supera lo que le cuesta al usuario ajustarla: el punto de equilibrio. Lo que aporta se traduce en esfuerzo eliminado, errores detectados que la persona habría pasado por alto y coherencia entre quienes hacen el mismo trabajo."
+        },
+        {
+          "t": "img",
+          "src": "https://files.smashing.media/articles/should-you-add-au-audit-product-teams/ai-adoption-adjustment-effort.jpg",
+          "cap": "Figura 1: Valor neto de añadir AI."
+        },
+        {
+          "t": "p",
+          "x": "Cuatro preguntas: ¿Reduce esto el esfuerzo total que la tarea le supone a este usuario? ¿Supera la forma en que el usuario hace hoy la tarea? ¿Puede el usuario detectar los errores? Tras un año de uso, ¿sigue pudiendo el usuario darse cuenta de cuándo se equivoca la AI? Cada una da lugar a una condición de diseño, como mostrar la procedencia e incluir avisos de verificación, o a un mecanismo que mantenga en uso la habilidad de verificar."
+        },
+        {
+          "t": "p",
+          "x": "La auditoría puede hacerse en 60 minutos, con alguien que haga ese trabajo, antes de que la próxima función de AI llegue a la hoja de ruta."
+        }
+      ]
+    },
+    "design/seedream55-stable-edit": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Bytedance Seed presenta Seedream 5.5, un nuevo modelo de generación de imágenes pensado para flujos de producción profesional. Según Bytedance, una de las mejoras es la edición estable en varias rondas, hasta 100, que conserva a nivel de píxel las zonas de la imagen sin cambios y no altera el color. El nuevo modelo Flux también destacó aquí recientemente."
+        },
+        {
+          "t": "video",
+          "src": "https://the-decoder.de/wp-content/uploads/2026/11/seedream55.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Seedream 5.5 también genera imágenes RGBA nativas con fondo transparente, de modo que los elementos generados sirven directamente como recursos de diseño sin recortes manuales. Bytedance afirma que el modelo representa con más realismo la luz, los materiales y las texturas de la piel, y reproduce con más precisión el texto pequeño y denso."
+        },
+        {
+          "t": "img",
+          "src": "https://the-decoder.com/wp-content/uploads/2026/11/seedance_examples_font.png",
+          "cap": "Texto pequeño y denso, muy preciso. | Imagen: Bytedance"
+        },
+        {
+          "t": "p",
+          "x": "Bytedance asegura que Seedream 5.5 supera a modelos como GPT Image 2.5 Sunburst en estructura de texto y realismo. El modelo se está desplegando de forma gradual en Jimeng, Doubao, Doubao Work y Volcengine Ark. Está prevista una versión Pro."
+        }
+      ]
     }
   }
 }

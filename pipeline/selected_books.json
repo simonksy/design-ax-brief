@@ -1,148 +1,103 @@
 {
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "section": "books",
   "picks": [
     {
-      "url": "https://www.bbc.co.uk/news/articles/cmglr260z7eko",
-      "source": "BBC News",
+      "title": "University Presses Sign Charter Promising Integrity, Vigilance Over AI",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101763-university-presses-sign-charter-promising-integrity-vigilance-over-ai.html",
+      "source": "Publishers Weekly",
       "tool": "Books",
       "accent": "#f5a623",
       "motif": "swatch",
-      "rationale": "Caine Prize closes its AI-authorship review: no evidence the winning story was AI-generated, winner confirmed. This is the official outcome of the 10-13 accusation story.",
-      "published_iso": "2026-11-11T20:00:54Z",
-      "og_image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d560/live/9c22bcf0-ddfe-11f1-8445-15eb55286f71.jpg",
-      "excerpt": "The Caine Prize's review found no evidence that Simbarashe Kundizeza's winning story 'The Blue Fighter' was AI-generated and confirmed him as 2026 winner; he had denied the allegation made in a US magazine."
+      "rationale": "New concrete event: 100+ scholarly publishers from 26 countries sign a six-point charter committing to responsible AI. Separate from the 11-04 Meridian licensing story.",
+      "published_iso": "2026-11-12T00:00:00-05:00",
+      "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132825-2.JPG",
+      "excerpt": "More than 100 scholarly publishers from 26 countries, including 27 from the U.S., signed a six-point charter committing to quality, transparency and 'responsible approaches to artificial intelligence.'"
     },
     {
-      "url": "https://www.voiceoverherald.com/unions-openai-fair-use-brief-voice-actors-nava-survey/",
-      "source": "Voice Over Herald",
+      "title": "Pathfinder publisher disputes claims of AI art in its latest book, Feybound",
+      "url": "https://www.wargamer.com/pathfinder/feybound-ai-art",
+      "source": "Wargamer",
       "tool": "Books",
       "accent": "#0070f3",
       "motif": "swatch",
-      "rationale": "New court filing: SAG-AFTRA, AFM and WGA seek to file a brief in the OpenAI copyright case, putting audiobook narrators' lost work (NAVA survey) on the record.",
-      "published_iso": "2026-11-01T14:05:00+00:00",
-      "og_image": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/hero-2.jpg",
-      "excerpt": "SAG-AFTRA, AFM and the WGA asked to file a brief in the OpenAI copyright case, citing a NAVA survey of voice actors (including audiobook narrators) losing work to synthetic voices."
+      "rationale": "Fresh (11-12) AI-art dispute over a published sourcebook. Paizo bans AI art and rejects the fan claims. Shows how illustration provenance is now policed in print publishing.",
+      "published_iso": "2026-11-12T17:17:56Z",
+      "og_image": "https://www.wargamer.com/wp-content/sites/wargamer/2026/11/pathfinder-feybound-ai-airt.jpg",
+      "excerpt": "Paizo, which bans AI art in its TTRPG books, rejects fan claims that AI-generated illustrations slipped into its new Pathfinder sourcebook Feybound."
     },
     {
-      "url": "https://www.xda-developers.com/claude-apps-kindle-jailbreak/",
-      "source": "XDA Developers",
+      "title": "[스타트업-ing] \"AI가 초벌 번역, 사람이 완성\"…하이브마인드, '오로라 번역 서포터즈' 출범",
+      "url": "https://it.donga.com/109886/",
+      "source": "IT동아",
       "tool": "Books",
       "accent": "#7928ca",
       "motif": "swatch",
-      "rationale": "Hands-on: a reader used Claude to build custom apps for a jailbroken 7th-gen Kindle. This is a different project from the 11-08 offline-LLM Kindle hack.",
-      "published_iso": "2026-11-11T07:15:09Z",
-      "og_image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/11/claude-kindle-featured.jpeg?w=1600&h=900&fit=crop",
-      "excerpt": "A hobbyist used Anthropic's Claude to build custom apps for a jailbroken 7th-gen Kindle, turning the e-reader into a device that does far more than display books."
+      "rationale": "New launch of a hybrid workflow: generative AI does the first-pass translation and human translators finish it. A concrete production model for content translation.",
+      "published_iso": "2026-11-10T18:05:21+09:00",
+      "og_image": "https://it.donga.com/media/__sized__/images/2026/11/10/a92622a13a004953-thumbnail-960x540-70.jpg",
+      "excerpt": "콘텐츠 번역사 하이브마인드가 생성형 AI 초벌 번역을 사람이 다듬는 '오로라 번역 서포터즈'를 출범했다. 맥락·정서가 중요한 콘텐츠 번역 품질이 목표다."
     },
     {
-      "url": "https://biz.heraldcorp.com/article/10932222",
-      "source": "헤럴드경제",
+      "title": "Libraries, Publishers, and the Users We Both Serve",
+      "url": "https://scholarlykitchen.sspnet.org/2026/11/10/ai-and-the-users-we-serve/",
+      "source": "The Scholarly Kitchen",
       "tool": "Books",
       "accent": "#2ec5c5",
       "motif": "swatch",
-      "rationale": "A concrete new deal: five K-webtoon IPs licensed for Chinese AI short-drama production, with release set for November. It shows a new AI adaptation route for comics IP.",
-      "published_iso": "2026-11-10T14:17:23+09:00",
-      "og_image": "https://wimg.heraldcorp.com/news/cms/2026/11/10/news-p.v1.20261110.002e6a566b2744a899c811698375eee4_P2.png",
-      "excerpt": "자주스토리가 한국 웹툰 원작 IP 5종을 활용한 중국 AI 숏드라마 제작 계약을 완료하고 11월 공개를 준비한다."
+      "rationale": "Practical argument that libraries and publishers should study how users actually work with AI research tools. Fresh (11-10) and not covered by earlier Scholarly Kitchen cards.",
+      "published_iso": "2026-11-10T10:30:34+00:00",
+      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/DP-20201-001-scaled.jpg",
+      "excerpt": "Libraries and publishers can claim agency in the AI age by again studying in depth how their users actually work with AI research tools."
     },
     {
-      "url": "https://www.koreajoongangdaily.com/lifestyle/a-human-touch-why-the-audiobook-industry-still-seeks-voice-actors-over-ai/12955839",
-      "source": "Korea JoongAng Daily",
+      "title": "Copyright Infringement Lawsuit Against OpenAI Draws More than 50 (Very Illuminating) Amicus Briefs",
+      "url": "https://publishingperspectives.com/2026/11/copyright-infringement-lawsuit-against-openai-draws-more-than-50-very-illuminating-amicus-briefs/",
+      "source": "Publishing Perspectives",
       "tool": "Books",
       "accent": "#eb367f",
       "motif": "swatch",
-      "rationale": "How Korean audiobook producers actually split the work: AI narration fills the commercially unviable backlist, while flagship titles still go to human actors.",
-      "published_iso": "2026-11-09T22:00:00Z",
-      "og_image": "https://image.koreajoongangdaily.com/12955845.jpg?imageId=12955845&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-      "excerpt": "Korean audiobook producers mainly use AI narration to fill gaps — audio versions of books otherwise commercially unviable — while flagship titles still go to human voice actors."
+      "rationale": "The orchestrator assigned this to books only. It maps all 50+ amicus filings in In re OpenAI, most of them never carded (only the publishers' and unions' briefs ran before).",
+      "published_iso": "2026-11-03T13:26:59+00:00",
+      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/11/Screen-Shot-2026-11-02-at-10.58.57-PM.png",
+      "excerpt": "More than 50 amicus briefs filed in In re OpenAI map the fault lines of the most closely watched AI copyright case."
     }
   ],
   "items": [
-    {
-      "url": "https://www.bbc.co.uk/news/articles/cmglr260z7eko",
-      "source": "BBC News",
-      "tool": "Books",
-      "accent": "#f5a623",
-      "motif": "swatch",
-      "rationale": "Caine Prize closes its AI-authorship review: no evidence the winning story was AI-generated, winner confirmed. This is the official outcome of the 10-13 accusation story.",
-      "published_iso": "2026-11-11T20:00:54Z",
-      "og_image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d560/live/9c22bcf0-ddfe-11f1-8445-15eb55286f71.jpg",
-      "excerpt": "The Caine Prize's review found no evidence that Simbarashe Kundizeza's winning story 'The Blue Fighter' was AI-generated and confirmed him as 2026 winner; he had denied the allegation made in a US magazine."
-    },
-    {
-      "url": "https://www.voiceoverherald.com/unions-openai-fair-use-brief-voice-actors-nava-survey/",
-      "source": "Voice Over Herald",
-      "tool": "Books",
-      "accent": "#0070f3",
-      "motif": "swatch",
-      "rationale": "New court filing: SAG-AFTRA, AFM and WGA seek to file a brief in the OpenAI copyright case, putting audiobook narrators' lost work (NAVA survey) on the record.",
-      "published_iso": "2026-11-01T14:05:00+00:00",
-      "og_image": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/hero-2.jpg",
-      "excerpt": "SAG-AFTRA, AFM and the WGA asked to file a brief in the OpenAI copyright case, citing a NAVA survey of voice actors (including audiobook narrators) losing work to synthetic voices."
-    },
-    {
-      "url": "https://www.xda-developers.com/claude-apps-kindle-jailbreak/",
-      "source": "XDA Developers",
-      "tool": "Books",
-      "accent": "#7928ca",
-      "motif": "swatch",
-      "rationale": "Hands-on: a reader used Claude to build custom apps for a jailbroken 7th-gen Kindle. This is a different project from the 11-08 offline-LLM Kindle hack.",
-      "published_iso": "2026-11-11T07:15:09Z",
-      "og_image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/11/claude-kindle-featured.jpeg?w=1600&h=900&fit=crop",
-      "excerpt": "A hobbyist used Anthropic's Claude to build custom apps for a jailbroken 7th-gen Kindle, turning the e-reader into a device that does far more than display books."
-    },
-    {
-      "url": "https://biz.heraldcorp.com/article/10932222",
-      "source": "헤럴드경제",
-      "tool": "Books",
-      "accent": "#2ec5c5",
-      "motif": "swatch",
-      "rationale": "A concrete new deal: five K-webtoon IPs licensed for Chinese AI short-drama production, with release set for November. It shows a new AI adaptation route for comics IP.",
-      "published_iso": "2026-11-10T14:17:23+09:00",
-      "og_image": "https://wimg.heraldcorp.com/news/cms/2026/11/10/news-p.v1.20261110.002e6a566b2744a899c811698375eee4_P2.png",
-      "excerpt": "자주스토리가 한국 웹툰 원작 IP 5종을 활용한 중국 AI 숏드라마 제작 계약을 완료하고 11월 공개를 준비한다."
-    },
-    {
-      "url": "https://www.koreajoongangdaily.com/lifestyle/a-human-touch-why-the-audiobook-industry-still-seeks-voice-actors-over-ai/12955839",
-      "source": "Korea JoongAng Daily",
-      "tool": "Books",
-      "accent": "#eb367f",
-      "motif": "swatch",
-      "rationale": "How Korean audiobook producers actually split the work: AI narration fills the commercially unviable backlist, while flagship titles still go to human actors.",
-      "published_iso": "2026-11-09T22:00:00Z",
-      "og_image": "https://image.koreajoongangdaily.com/12955845.jpg?imageId=12955845&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-      "excerpt": "Korean audiobook producers mainly use AI narration to fill gaps — audio versions of books otherwise commercially unviable — while flagship titles still go to human voice actors."
-    }
+    {"url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101763-university-presses-sign-charter-promising-integrity-vigilance-over-ai.html", "source": "Publishers Weekly", "tool": "Books", "accent": "#f5a623", "motif": "swatch", "rationale": "100+ scholarly publishers sign a six-point responsible-AI charter (new event).", "published_iso": "2026-11-12T00:00:00-05:00", "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132825-2.JPG", "excerpt": "More than 100 scholarly publishers from 26 countries, including 27 from the U.S., signed a six-point charter committing to quality, transparency and 'responsible approaches to artificial intelligence.'"},
+    {"url": "https://www.wargamer.com/pathfinder/feybound-ai-art", "source": "Wargamer", "tool": "Books", "accent": "#0070f3", "motif": "swatch", "rationale": "Paizo disputes fan claims of AI art in its new Feybound book.", "published_iso": "2026-11-12T17:17:56Z", "og_image": "https://www.wargamer.com/wp-content/sites/wargamer/2026/11/pathfinder-feybound-ai-airt.jpg", "excerpt": "Paizo, which bans AI art in its TTRPG books, rejects fan claims that AI-generated illustrations slipped into its new Pathfinder sourcebook Feybound."},
+    {"url": "https://it.donga.com/109886/", "source": "IT동아", "tool": "Books", "accent": "#7928ca", "motif": "swatch", "rationale": "Hivemind launches an AI-first-draft, human-finish translation program.", "published_iso": "2026-11-10T18:05:21+09:00", "og_image": "https://it.donga.com/media/__sized__/images/2026/11/10/a92622a13a004953-thumbnail-960x540-70.jpg", "excerpt": "콘텐츠 번역사 하이브마인드가 생성형 AI 초벌 번역을 사람이 다듬는 '오로라 번역 서포터즈'를 출범했다. 맥락·정서가 중요한 콘텐츠 번역 품질이 목표다."},
+    {"url": "https://scholarlykitchen.sspnet.org/2026/11/10/ai-and-the-users-we-serve/", "source": "The Scholarly Kitchen", "tool": "Books", "accent": "#2ec5c5", "motif": "swatch", "rationale": "Libraries and publishers urged to study real user behaviour with AI research tools.", "published_iso": "2026-11-10T10:30:34+00:00", "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/DP-20201-001-scaled.jpg", "excerpt": "Libraries and publishers can claim agency in the AI age by again studying in depth how their users actually work with AI research tools."},
+    {"url": "https://publishingperspectives.com/2026/11/copyright-infringement-lawsuit-against-openai-draws-more-than-50-very-illuminating-amicus-briefs/", "source": "Publishing Perspectives", "tool": "Books", "accent": "#eb367f", "motif": "swatch", "rationale": "Map of 50+ amicus filings in In re OpenAI (books-only assignment).", "published_iso": "2026-11-03T13:26:59+00:00", "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/11/Screen-Shot-2026-11-02-at-10.58.57-PM.png", "excerpt": "More than 50 amicus briefs filed in In re OpenAI map the fault lines of the most closely watched AI copyright case."}
   ],
   "dedup": {
     "checks": {
-      "https://www.bbc.co.uk/news/articles/cmglr260z7eko": {
+      "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101763-university-presses-sign-charter-promising-integrity-vigilance-over-ai.html": {
+        "verdict": "new",
+        "nearest": "https://www.publishersweekly.com/pw/by-topic/industry-news/licensing/article/101673-cambridge-johns-hopkins-and-princeton-university-presses-back-ai-gateway-meridian.html",
+        "new_action": ""
+      },
+      "https://www.wargamer.com/pathfinder/feybound-ai-art": {
+        "verdict": "new",
+        "nearest": "",
+        "new_action": ""
+      },
+      "https://it.donga.com/109886/": {
+        "verdict": "new",
+        "nearest": "https://www.nippon.com/en/japan-data/h02913/",
+        "new_action": ""
+      },
+      "https://scholarlykitchen.sspnet.org/2026/11/10/ai-and-the-users-we-serve/": {
+        "verdict": "new",
+        "nearest": "https://scholarlykitchen.sspnet.org/2026/10/22/guest-post-all-this-ai-signal-and-noise-what-deserves-action-now/",
+        "new_action": ""
+      },
+      "https://publishingperspectives.com/2026/11/copyright-infringement-lawsuit-against-openai-draws-more-than-50-very-illuminating-amicus-briefs/": {
         "verdict": "follow-up",
-        "nearest": "https://www.thebookseller.com/news/caine-prize-initiates-human-centred-process-after-zimbabwean-winner-accused-of-ai-use",
-        "new_action": "Caine Prize announced the outcome of its review: no evidence of AI generation, and Kundizeza is confirmed as the 2026 winner"
-      },
-      "https://www.voiceoverherald.com/unions-openai-fair-use-brief-voice-actors-nava-survey/": {
-        "verdict": "new",
         "nearest": "https://www.thebookseller.com/news/publishers-urge-us-court-to-reject-openais-fair-use-defence-in-copyright-case",
-        "new_action": ""
-      },
-      "https://www.xda-developers.com/claude-apps-kindle-jailbreak/": {
-        "verdict": "new",
-        "nearest": "https://www.xda-developers.com/someone-got-an-offline-llm-running-on-a-2015-kindle-paperwhite-even-if-its-quite-slow/",
-        "new_action": ""
-      },
-      "https://biz.heraldcorp.com/article/10932222": {
-        "verdict": "new",
-        "nearest": "https://www.news1.kr/it-science/internet-platform/6320039",
-        "new_action": ""
-      },
-      "https://www.koreajoongangdaily.com/lifestyle/a-human-touch-why-the-audiobook-industry-still-seeks-voice-actors-over-ai/12955839": {
-        "verdict": "new",
-        "nearest": "https://www.provideocoalition.com/audiobooks-with-multiple-voices-for-dialog-using-human-actors-or-cloned-with-elevenlabs/",
-        "new_action": ""
+        "new_action": "The full set of 50+ amicus briefs filed in In re OpenAI. Most were never carded; only the publishers' brief (10-30) and the unions' brief (11-12, voiceoverherald) ran before."
       }
     },
-    "note": "Dropped as same-story/commentary on published events: Publishing Perspectives France roundup (Goncourt 11-05 + Prix Pascal 10-21); The Hindu Prix Pascal opinion (10-21); Tomorrow's Publisher illustrator brief (follows the 10-30 AOI survey); Jane Friedman AI-detection essay (covered by the NPR 11-03 and Wired 11-10 items); 시사IN AI 학습 기획 (running book-buying/training story 10-15..11-08); 노컷 웹툰 쇼츠·AI 기획 (nocut 10-27 webtoon feature); 디지털데일리 웹툰엔터 AI 스토리챗 metric (an earnings-call number on the byUs/Bias chat already carded 10-26, plus ddaily character-chat 11-11). Passed over as weaker (commentary or low novelty): three Scholarly Kitchen essays, Book Riot monthly roundup, JoongAng opinion column, 오마이뉴스 illustrator feature, fnnews 제주, 구리시 자서전, Broken Frontier stamp rally (no og_image). Cross-section check: none of the picks are in today's gadgets or movies pools. published_urls.json (170k tokens) could not be exact-grepped with Read only, so the VOH unions brief and the XDA Kindle item should get a grep pass for music/politics/gadgets before roll."
+    "note": "Dropped: (1) PW Spines $64M raise, which is funding framing (AI-business noise). (2) Publishing Perspectives 'France autumn of discontent', which is commentary on the already-carded Jaenada/Goncourt admission (11-05) and the Orelien case (CBC 10-22, Bookseller 09-24); no new event. (3) ddaily Naver Webtoon storychat 28.4M chats and (4) newscj Naver earnings-call AI translation: one cluster of earnings-call metrics and plans on byUs, whose launch already ran 10-26 (ai.watch.impress LINE Manga byUs); no new release. (5) Scholarly Kitchen 'From AI Adoption to AI Practice': second Scholarly Kitchen item, ranked below the 11-10 piece; held back for outlet diversity. Cross-section: read the books and games blocks of published_urls.json (none of the 5 URLs present; Wargamer/Paizo is not in games). Other sections were not exhaustively grepped (no grep tool), so the orchestrator should run an exact-URL grep before roll."
   }
 }

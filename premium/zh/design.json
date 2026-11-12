@@ -11505,6 +11505,153 @@
           "x": "面向企业，CX Enterprise Coworker登陆GenStudio。Adobe还在与Anthropic和OpenAI的连接器基础上，深化了与Google和Microsoft的合作。"
         }
       ]
+    },
+    "design/google-flow-artist-tools": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Nov_Cohort_Hero_4.width-1300.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Google在其AI创作工作室Google Flow中推出五款新工具，全部由创作者打造，帮助塑造从构思到最终剪辑的故事。"
+        },
+        {
+          "t": "p",
+          "x": "1. Character Poster由艺术家兼电影人James Gerde打造，可将简单的故事构想变成精致、设计精美的视觉作品，并帮助创作者在社交平台的故事中保持标志性风格。"
+        },
+        {
+          "t": "video",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/01_Charater_Poster_-_10.6.26_-_1.mp4"
+        },
+        {
+          "t": "p",
+          "x": "2. Character Arc由电影人Anurag Tiwari打造，能让讲故事的人在不丢失核心外貌的前提下，呈现同一角色在不同年龄和人生阶段的样子。他正将其用于自己的纪录片《Children of the Sun》。"
+        },
+        {
+          "t": "p",
+          "x": "3. Pixel Machine同样出自Anurag Tiwari之手，可将图像转换为位图、ASCII、CRT、像素画和故障风格，用于片名设计、转场和音乐视频画面。"
+        },
+        {
+          "t": "p",
+          "x": "4. Lucid Glass由艺术家兼创意总监Ezra Paulekas打造，重现光线穿过玻璃的效果，生成棱镜、光晕、折射和光学辉光，堪称“不可能的镜头”。"
+        },
+        {
+          "t": "p",
+          "x": "5. Pocket Studio由电影人Ryan McCoy打造，可把日常手机拍摄的素材变成更精致的镜头：从单条镜头生成多个机位角度并提升画质，同时完整保留演员的原始表演。"
+        }
+      ]
+    },
+    "design/kt-kds2-design-system": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.inthenews.co.kr/data/photos/20261146/art_17944633067103_566c36.jpg",
+          "cap": "KT员工使用“KDS 2.0”和基于AI的“消息生成智能体”。图片｜KT"
+        },
+        {
+          "t": "p",
+          "x": "KT（代表理事Park Yun-young）12日表示，已构建强化AI应用功能的UX设计系统“KDS（KT UX Design System）2.0”，并引入了辅助撰写和审核客户通知消息的AI智能体。"
+        },
+        {
+          "t": "p",
+          "x": "2.0版本让AI也能直接读取并使用原本供人参考的设计指南。KT构建了“KDS Harness”，让AI按照设计标准组织界面并检查结果，减轻了重复设计工作和修改负担。"
+        },
+        {
+          "t": "p",
+          "x": "KT将KDS应用于My KT、KT.com、Direct Shop等服务，并用于AI模型平台“Token Factory”等，使策划、设计、开发并行推进，并将重复的编码和文档工作自动化。在处理共424项功能需求、25个组件和约110万行代码的过程中，原本按传统方式需约8个月的工作仅用2个月40天完成，开发周期缩短5个月以上。"
+        },
+        {
+          "t": "p",
+          "x": "KT修订了UX写作指南，将“预缴”改为“提前缴费”，将“按量计费”改为“用多少付多少”，并于10月30日在公司内部上线基于AI的“消息生成智能体”。消息撰写与审核时间从原来的30~60分钟缩短至约5分钟，图片制作从4小时缩短至15分钟，原本需要两天以上的翻译工作缩短至30秒。本月20日还将推出“客户语言智能体”。"
+        },
+        {
+          "t": "p",
+          "x": "KT AX平台本部长（常务）Won Man-ho表示：“通过KDS 2.0提升设计一致性，同时把客户沟通业务也转向AX，正在同步改善工作效率和客户体验。”"
+        }
+      ]
+    },
+    "design/rhino9-mcneel-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/11/RhinoAI.jpg"
+        },
+        {
+          "t": "p",
+          "x": "McNeel悄然推出Rhino 9（10月28日发布）之际，Campbell Yule在Rhino World 2026现场报道了这家公司如何在保留商业模式的同时拥抱AI：价格和升级费用不变，Rhino 9许可证也可运行Rhino 6、7和8。创始人兼CEO Bob McNeel说：“什么都没变，一切都变了。”"
+        },
+        {
+          "t": "p",
+          "x": "McNeel在内部把AI用作开发和测试工具。Claude Opus问世后，Steve Baer预计生产率会提升20%，实际结果接近三倍。他和Andy Le Bihan每个工作日合并的拉取请求从3.3个增至9.5个。代码变更在合并前仍需审查。"
+        },
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/11/RhinoAI-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "RhinoAI由Callum Sykes借助Claude Code开发，是一款通过MCP服务器把AI智能体连接到Rhino的开源插件。在Rhino内部，面板可以找到Claude或Codex等智能体；在外部，用户可以自带模型和智能体。"
+        },
+        {
+          "t": "p",
+          "x": "测试中，一个智能体根据三视图做出了柑橘榨汁机，并把它转换为参数化的Grasshopper 2 模型。建筑方面的测试结果参差不齐：体育场模型直到智能体获得更多图像后才成功。Rhino.Compute现在也能在Linux上运行。"
+        }
+      ]
+    },
+    "design/smashing-ai-feature-audit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://files.smashing.media/articles/should-you-add-au-audit-product-teams/should-you-add-ai-audit-product-teams.jpg"
+        },
+        {
+          "t": "p",
+          "x": "AI功能可能为用户节省了完成任务的时间，结果用户又把这些时间花在检查结果上。Victor Yocco提出一套实用的审视方法，帮助产品团队判断AI在哪里值得加入，以及用户需要什么来核验它的输出。"
+        },
+        {
+          "t": "p",
+          "x": "当AI功能带来的回报超过用户为调整它所付出的成本，也就是越过盈亏平衡线时，它才值得存在。回报体现为省下的工夫、发现本会被人遗漏的错误，以及做同样工作的人之间的一致性。"
+        },
+        {
+          "t": "img",
+          "src": "https://files.smashing.media/articles/should-you-add-au-audit-product-teams/ai-adoption-adjustment-effort.jpg",
+          "cap": "图 1：加入AI的净价值。"
+        },
+        {
+          "t": "p",
+          "x": "四个问题是：它能否减少这位用户完成任务的总工作量？它是否胜过用户现在的做法？用户能否发现错误？使用一年之后，用户还能否察觉AI何时出错？每个问题都会引出一项设计条件，例如来源显示和核验提示，或是让核验能力持续得到运用的机制。"
+        },
+        {
+          "t": "p",
+          "x": "在下一个AI功能进入路线图之前，可以和实际做这项工作的人一起，用60分钟完成这次审视。"
+        }
+      ]
+    },
+    "design/seedream55-stable-edit": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Bytedance Seed推出新一代图像生成模型Seedream 5.5，面向专业制作工作流。据Bytedance介绍，改进之一是最多100轮的稳定多轮编辑，未改动的图像区域在像素层面得到保留，也不会出现偏色。新的Flux模型近期也在这方面表现突出。"
+        },
+        {
+          "t": "video",
+          "src": "https://the-decoder.de/wp-content/uploads/2026/11/seedream55.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Seedream 5.5还能生成带透明背景的原生RGBA图像，生成的元素无需手动抠图即可直接用作设计素材。Bytedance表示，该模型对光线、材质和皮肤纹理的呈现更真实，对密集小字的还原也更准确。"
+        },
+        {
+          "t": "img",
+          "src": "https://the-decoder.com/wp-content/uploads/2026/11/seedance_examples_font.png",
+          "cap": "非常准确、密集的小字。| 图片：Bytedance"
+        },
+        {
+          "t": "p",
+          "x": "Bytedance称，Seedream 5.5在文字结构和真实感方面领先GPT Image 2.5 Sunburst等模型。该模型正通过Jimeng、Doubao、Doubao Work和Volcengine Ark逐步上线。Pro版本也在规划中。"
+        }
+      ]
     }
   }
 }

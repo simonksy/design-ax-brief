@@ -4406,6 +4406,140 @@
           "x": "Sonata InsightsのDebra Aho Williamsonは、OpenAIが自らインサイトを共有することで「サードパーティ企業の力の一部が奪われる」と指摘した。Business Hubとエージェントは当面無料で、Shomairは、企業が「表示される頻度に影響を与えるべきではない」と述べた。"
         }
       ]
+    },
+    "marketing/google-ads-ai-public-figure-ban": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-ads-logo-mirror-wCJesbMh.jpg",
+          "cap": "Google Adsのロゴ（ミラー）"
+        },
+        {
+          "t": "p",
+          "x": "Google Adsは、unacceptable Business Practicesポリシーにおいて、AIを使った公人へのなりすましは、AIで生成または編集したことを開示していても認められないと明確にした。AIを使うこと自体は構わないが、このケースは別であり、AIを使う場合は開示すべきだ。"
+        },
+        {
+          "t": "p",
+          "x": "Googleは次の注記を加えた。「注：AIを使って公人になりすます広告は、AIで生成または編集したことを開示していても認められない。」"
+        },
+        {
+          "t": "p",
+          "x": "追加された部分を赤で強調したスクリーンショットは以下のとおりだ。"
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-doc-change-hAyqlNeM.png",
+          "cap": "Googleドキュメントの変更"
+        },
+        {
+          "t": "p",
+          "x": "GoogleのUnacceptable Business Practicesポリシーは、AIを使って公人になりすます広告を禁じている。このルールは、広告がそのコンテンツをAIで生成または編集したと開示している場合にも適用される。"
+        },
+        {
+          "t": "p",
+          "x": "Googleは次のように記した。「Googleは、Public-figure impersonation（公人へのなりすまし）に関するUnacceptable Business Practicesポリシーを更新し、AIを使って公人になりすます広告は、AIで生成または編集したことを開示していても認められないことを明確にした。この明確化は広告主がポリシーを理解する助けとなることを目的としており、ポリシーの施行を変えるものではない。」"
+        },
+        {
+          "t": "p",
+          "x": "だから、このとんでもない広告はもうやめるべきだ。"
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/ai-ad-atmEYoSV.jpg",
+          "cap": "AI広告"
+        }
+      ]
+    },
+    "marketing/eu-ai-act-deepfake-ad-labels": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/size/w2000/2026/11/eu-ai-act-deep-fake-label-3-percent-fines-carousel-projector-flattered-kettle-across-sea.jpg",
+          "cap": "Non-EUの広告制作者も、実物をよく見せるAI製品写真に表示を付けなければ売上高の3%の罰金を科される"
+        },
+        {
+          "t": "p",
+          "x": "欧州委員会によるAI Act第50条の透明性義務に関するガイドラインが、C/2026/6005の番号で欧州連合官報に掲載された。ガイドラインによると、EU域外で設立された企業が、EU域内で表示される広告のためにAIシステムで著名人のディープフェイクを生成する場合、AI Actの適用対象となる導入者（deployer）にあたる。"
+        },
+        {
+          "t": "p",
+          "x": "AI-madeの著名人による推奨、製品を試す合成インフルエンサー、実物と異なる製品画像は、いずれも目に見える表示が必要なディープフェイクに数えられる。AIの使い方を管理せず代理店に依頼するだけの企業は導入者ではない。広告コピーと製品説明は、健康、消費者の安全、持続可能性に関する主張をしない限り、テキストに関する規定の対象外となる。"
+        },
+        {
+          "t": "p",
+          "x": "導入者は「提供者がコンテンツに埋め込んだ機械可読なマーキングに頼ることはできない」。第50条違反の罰金は、EUR 15,000,000または全世界の年間総売上高の3%のうち高いほうに達する。2026年8月2日より前に市場に出た生成システムは、2026年12月2日までにマーキング義務を満たせばよい。"
+        }
+      ]
+    },
+    "marketing/nectar-creator-agent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2023/10/misbahfarah-together.jpg?w=1024",
+          "cap": "Nectar AIの共同創業者Misbah UraizeeとFarah Uraizee"
+        },
+        {
+          "t": "p",
+          "x": "AI-poweredのマーケティング向けオペレーティングシステムを手がけるNectarは、インフルエンサーマーケティングの手作業の多くをなくすための新しいAIエージェントを投入する。木曜日に発表された新しい「Creator Agent」は、クリエイターの検索、コンテンツやブランドとの提携状況の確認、個別メッセージの送信、コラボレーションの調整、キャンペーン成果の監視をこなす。"
+        },
+        {
+          "t": "p",
+          "x": "Nectarによると、Creator Agentは3億件を超えるクリエイターのプロフィールを検索して提携候補を探し、注目を集めつつある小規模クリエイターも対象に含める。動画を分析してクリエイターが何について投稿しているかを把握し、特定のキーワードを検索するだけでなく文脈の中でコンテンツを確認してブランドセーフティをチェックする。"
+        },
+        {
+          "t": "p",
+          "x": "エージェントはブランドのトーンでメッセージを作成・送信し、専用のランディングページを作り、契約や製品提供、配送情報の管理も支援する。CEOのMisbah UraizeeはTechCrunchに「ブランドはどんな形式でもトーンのガイドラインを共有すればよく、残りはNectarが過去の履歴から読み取る」と語った。"
+        },
+        {
+          "t": "p",
+          "x": "Creator Agentは本日から世界で利用でき、InstagramのクリエイターとTikTokersに対応する。同社はModel Context Protocol（MCP）を通じて提供し、Claude、ChatGPT、Gemini、CopilotといったAIアシスタントから使えるようにする計画だ。"
+        }
+      ]
+    },
+    "marketing/podqi-chatbot-fake-retail-sites": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "AIチャットボットで商品を調べたり購入先を探したりする買い物客が、なりすましサイトなどの危険なウェブサイトに誘導されるおそれがあることが、新たな調査で分かった。IP保護企業のPodqiは、ChatGPT、Gemini、Perplexityに対し、「[brand]はオンラインのどこで見つけられますか？」といった151ブランドに関する買い物関連の質問を投げかけた。"
+        },
+        {
+          "t": "p",
+          "x": "計6,795件の回答の中で、三つのAIエンジンはいずれも危険なサイトを引用し、買い物客に示した。危険なサイトとは、実在の小売業者になりすましたり模倣品を売ったりする偽サイト、再登録された古いブランドドメイン、閉鎖されたサイトを指す。Geminiが危険なサイトを示したのは回答の4パーセント、ChatGPTは8パーセントで、Perplexityは15パーセントと最も悪かった。特に小規模ブランドがリスクにさらされているようだ。"
+        },
+        {
+          "t": "p",
+          "x": "ある会話では、Perplexityが誤ったページをStüssyの公式サイトだと示し、「確実に正規品を買うのに最適な出発点」と呼んだ。PodqiのCEOで共同創業者のTrevor Westは「個人情報やクレジットカード情報を入力する前に、その出所を確かめるのが常に最善だ」と話す。"
+        }
+      ]
+    },
+    "marketing/appsflyer-apple-ads-agent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/size/w2000/2026/11/appsflyer-apple-ads-share-of-voice-agent-bids-after-approval-vu-meter-arm-volume-knob-pull-cord.jpg",
+          "cap": "つまみを回す：AppsFlyer初の実行型エージェントが承認後にApple Adsの入札額を動かす"
+        },
+        {
+          "t": "p",
+          "x": "AppsFlyerは本日、マーケターの承認を得てキーワード入札額を変更するApple Adsエージェントをクローズドベータとして投入した。助言にとどまらず実際に操作する、同社ラインアップ初のエージェントである。Apple Ads Share of Voice Agentはキーワードと地域ごとにシェア・オブ・ボイス（share of voice）を推定し、広告主が「目標から外れている（off target）」場合に入札額の変更を提案し、AppsFlyerから直接Apple Adsで実行する。利用はカスタマーサクセスマネージャー経由となる。"
+        },
+        {
+          "t": "p",
+          "x": "発表では、シェア・オブ・ボイスの推定方法、入札をどのApple側インターフェースで送るのか（Campaign Management APIは2027年1月26日に提供終了となる）、承認をどう担保するのかは示されていない。AppleのMaximize Conversionsキャンペーンはそもそもキーワード入札を認めていない。"
+        },
+        {
+          "t": "p",
+          "x": "AppsFlyerはCreate an Agentも公開した。平易な言葉で業務フローを説明するとカスタムエージェントを構築し、分析、根本原因分析、推奨事項を定期的にSlackやメールへ届ける。新たに加わった四つのMCP機能は、Protect360の不正データ、クリエイティブ単位の成果、OneLinkの作成（承認後のみ）、パートナー連携設定を「あらゆるMCPクライアント（any MCP client）」に開放する。"
+        },
+        {
+          "t": "p",
+          "x": "「マーケティングチームは手作業のキャンペーン運用から、エージェントによる実行へと移りつつある」と、AppsFlyerのVP ProductであるInna Weiner氏は述べた。価格、顧客の成果、一般提供の時期は明らかにされていない。"
+        }
+      ]
     }
   }
 }

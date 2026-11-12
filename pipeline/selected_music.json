@@ -1,158 +1,96 @@
 {
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "section": "music",
-  "picks": [
+  "items": [
     {
-      "url": "https://decrypt.co/383070/new-ai-music-model-already-better-than-suno-ace-review",
-      "title": "This New AI Music Model Is Already Better Than Suno—We Put ACE to the Test",
-      "source": "Decrypt",
+      "url": "https://musictech.com/news/gear/sonura-flow/",
+      "source": "MusicTech",
+      "title": "This new plugin lets you generate loops and one-shots from text prompts (Sonura Flow)",
       "tool": "Music",
       "accent": "#ff2d55",
       "motif": "sphere",
-      "rationale": "New model release: ACE Studio's ACE Music v1 tops the Artificial Analysis blind vocal-music leaderboard over Suno v6, with hands-on test results creators can act on.",
-      "published_iso": "2026-11-11T20:16:02Z",
-      "og_image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/AI-music-decrypt-style-03-gID_7.jpg",
-      "excerpt": "ACE Studio's ACE Music v1 took first place on Artificial Analysis' blind vocal-music leaderboard (1,160 Elo vs Suno v6's 1,144); Decrypt's tests found stronger melodies, more natural vocals and cleaner endings, though Suno handled niche genres better."
+      "rationale": "Free in-DAW text-to-sample plugin (drums/bass/melody/pads/vocals); a new product, not the Waves ILLUGEN release, and producers can install it today.",
+      "published_iso": "2026-11-12T17:26:53+00:00",
+      "og_image": "https://musictech.com/wp-content/uploads/2026/11/Sonura-Flow-hero@2000x1500-1068x801.jpg",
+      "excerpt": "Sonura Flow is a free plugin that generates loops, vocals, one-shots and effects from text prompts inside the DAW, with category selection for drums, bass, melody, pads or vocals."
     },
     {
-      "url": "https://arxiv.org/abs/2611.13834",
-      "title": "MusicFlux: Flexible Conditioning for Text-Guided Music Generation and Editing",
-      "source": "arXiv",
+      "url": "https://stability.ai/guides/whats-new-in-stable-audio-november-2026-release-notes",
+      "source": "Stability AI",
+      "title": "What's new in Stable Audio: November 2026 release notes",
       "tool": "Music",
       "accent": "#0070f3",
       "motif": "sphere",
-      "rationale": "New research release: MusicFlux turns a pretrained flow-matching text-to-audio model into a text-guided music editor (inpainting, event insertion, restoration), with two conditioning modes that trade edit quality against compute.",
-      "published_iso": "2026-11-10T10:00:03Z",
+      "rationale": "Primary-source release notes: Stable Audio gains a project workspace, Generate and Sampler apps and multitrack Sessions updates, which changes how the tool gets used.",
+      "published_iso": "2026-11-04T14:58:48+00:00",
       "og_image": null,
-      "excerpt": "MusicFlux is a text-guided music editor built on a pretrained flow-matching text-to-audio model, with two conditioning approaches that trade editing quality against compute for inpainting, event insertion and restoration."
+      "excerpt": "Stable Audio adds a project workspace, a Generate app for full tracks and sound effects, a Sampler app for short sample packs, and updates to the beta multitrack Sessions editor."
     },
     {
-      "url": "https://musically.com/2026/11/11/idols-labelcamp-and-startup-mypart-explore-ai-connections/",
-      "title": "Idol’s Labelcamp and startup MyPart explore AI connections",
-      "source": "Music Ally",
-      "tool": "Music",
-      "accent": "#7928ca",
-      "motif": "sphere",
-      "rationale": "New product: Labelcamp's AI Connector lets labels and distributors run supply-chain ops and catalogue analytics from Claude or ChatGPT, agentic AI reaching music distribution back-office.",
-      "published_iso": "2026-11-11T13:30:00+00:00",
-      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/08/news-stories-images-4x3-2026-08-26T131412.133.png?fit=2000%2C1500&ssl=1",
-      "excerpt": "Idol's distribution-management platform Labelcamp launched an AI Connector letting labels and distributors run supply-chain operations and catalogue analytics from Claude or ChatGPT; startup MyPart also added agentic AI connections."
-    },
-    {
-      "url": "https://culturecustodian.com/distributed-cloned-ai-music-fake-nigerian-artist/",
-      "title": "We Distributed Cloned AI Music From a Fake Nigerian Artist",
-      "source": "The Culture Custodian",
-      "tool": "Music",
-      "accent": "#2ec5c5",
-      "motif": "sphere",
-      "rationale": "Original investigation: an outlet openly submitted a voice-cloned AI track from a fake artist and documented which distributors let it through, new evidence on distribution safeguards.",
-      "published_iso": "2026-11-11T13:00:41+00:00",
-      "og_image": "https://culturecustodian.com/wp-content/uploads/2026/11/WEB-How-We-Distributed-Cloned-AI-Music-From-a-Fake-Nigerian-Artist-1024x1024.jpg",
-      "excerpt": "Investigation: the outlet built a fake Nigerian artist with a cloned voice and an AI-generated song, told distribution platforms exactly what it had done, and tracked which ones still distributed it."
-    },
-    {
-      "url": "https://www.digitalmusicnews.com/2026/11/11/nvidia-suno-umg-subpoena-quash-motion/",
-      "title": "Nvidia Moves to Quash Burdensome UMG v. Suno Subpoena",
-      "source": "Digital Music News",
+      "url": "https://elevenlabs.io/blog/impact-nyc-summit",
+      "source": "ElevenLabs",
+      "title": "ElevenLabs brings free voice restoration to veterans, songwriters, and more patients",
       "tool": "Music",
       "accent": "#f5a623",
       "motif": "sphere",
-      "rationale": "New court filing in the UMG v. Suno training-data case: Nvidia's motion to quash a deposition subpoena after producing 6,300+ documents pulls the chipmaker into the discovery fight.",
-      "published_iso": "2026-11-11T18:54:27+00:00",
-      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/Nvidia-Office.jpg",
-      "excerpt": "Nvidia moved to quash a 'burdensome' deposition subpoena in UMG v. Suno, saying it has already produced more than 6,300 documents."
+      "rationale": "New program announced at the NYC Summit: free ElevenMusic access for artists who have lost their voice. This is separate from the SoundCloud, DDEX and SFX v3 stories already published.",
+      "published_iso": "2026-11-12T12:00:00.000Z",
+      "og_image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/hzu606cgpup-2304662705.webp",
+      "excerpt": "At its NYC Summit ElevenLabs launched free ElevenMusic access for artists who have lost their voice, partnered with Wounded Warrior Project and added NYU Langone to its 1 Million Voices programme."
+    },
+    {
+      "url": "https://musically.com/2026/11/12/ringos-charlie-is-a-sync-licensing-ai-assistant-within-whatsapp/",
+      "source": "Music Ally",
+      "title": "Ringo's Charlie is a sync-licensing AI assistant within WhatsApp",
+      "tool": "Music",
+      "accent": "#7928ca",
+      "motif": "sphere",
+      "rationale": "New product: an AI agent that handles sync-licensing requests inside WhatsApp. It is a concrete AI licensing workflow for rights holders and supervisors.",
+      "published_iso": "2026-11-12T13:30:00+00:00",
+      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-26.png?fit=2000%2C1500&ssl=1",
+      "excerpt": "Dutch sync-tech startup Ringo has unveiled Charlie, an AI assistant inside WhatsApp that handles sync-licensing requests on top of its AI-powered licensing platform launched in 2025."
+    },
+    {
+      "url": "https://www.complex.com/music/a/markelibert/knxwledge-streaming-app-albums-removed-distributors",
+      "source": "Complex",
+      "title": "Knxwledge launches streaming service after distributors remove his music without explanation",
+      "tool": "Music",
+      "accent": "#2ec5c5",
+      "motif": "sphere",
+      "rationale": "A Grammy-winning producer's pre-AI catalogue was caught up in distributors' AI-slop takedowns, and he answered by launching his own streaming app. It is a new event that shows what the AI-content crackdown costs human artists.",
+      "published_iso": "2026-11-12T00:30:52.726Z",
+      "og_image": "https://images.complex.com/complex/image/upload/c_crop,h_1910,w_2939,x_0,y_0/g_auto:aoi_1176_764_588_382,ar_1.91,c_fill,q_auto,w_1200/sanity-new/ehkmatoir85wnox3ljc2",
+      "excerpt": "Grammy-winning producer Knxwledge launched his own streaming app after distributors pulled records he released years before public AI music tools existed, collateral of the AI-slop takedown wave."
     }
   ],
   "dedup": {
     "checks": {
-      "https://decrypt.co/383070/new-ai-music-model-already-better-than-suno-ace-review": {
+      "https://musictech.com/news/gear/sonura-flow/": {
+        "verdict": "new",
+        "nearest": "https://sonicstate.com/news/2026/11/09/waves-releases-illugen-25-/",
+        "new_action": ""
+      },
+      "https://stability.ai/guides/whats-new-in-stable-audio-november-2026-release-notes": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
       },
-      "https://arxiv.org/abs/2611.13834": {
+      "https://elevenlabs.io/blog/impact-nyc-summit": {
         "verdict": "new",
-        "nearest": "https://arxiv.org/abs/2610.26684",
+        "nearest": "https://techcrunch.com/2026/11/05/elevenlabs-now-lets-users-publish-ai-generated-music-directly-on-soundcloud/",
         "new_action": ""
       },
-      "https://musically.com/2026/11/11/idols-labelcamp-and-startup-mypart-explore-ai-connections/": {
-        "verdict": "new",
-        "nearest": "https://musically.com/2026/11/06/mashup-edus-ai-agent-nia-is-designed-to-run-the-business-side-of-indie-acts-careers/",
-        "new_action": ""
-      },
-      "https://culturecustodian.com/distributed-cloned-ai-music-fake-nigerian-artist/": {
+      "https://musically.com/2026/11/12/ringos-charlie-is-a-sync-licensing-ai-assistant-within-whatsapp/": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
       },
-      "https://www.digitalmusicnews.com/2026/11/11/nvidia-suno-umg-subpoena-quash-motion/": {
-        "verdict": "follow-up",
-        "nearest": "https://www.digitalmusicnews.com/2026/10/26/cc-gong-suno-tweet-deposition/",
-        "new_action": "Nvidia filed a motion to quash a deposition subpoena in UMG v. Suno (new third-party filing, 2026-11-11)."
+      "https://www.complex.com/music/a/markelibert/knxwledge-streaming-app-albums-removed-distributors": {
+        "verdict": "new",
+        "nearest": "https://www.digitalmusicnews.com/2026/11/04/ai-detector-false-positives/",
+        "new_action": ""
       }
     },
-    "note": "REPLACEMENT round: dropped Gearnews 'DJ.Studio 5.0' (https://www.gearnews.com/dj-studio/) after enrichment found no AI content in the 5.0 release (the AI Harmonize/15x text belongs to an older 3.0 section of the page); replaced in its slot with arXiv MusicFlux (distinct paper from MuLaCover 10-25, its history_match 'related' at 0.157; URL absent from published_urls.json music and science sections). Other replacement options rejected: Influur Pulse 2.0 and MK AI Advertising Awards (marketing-flavoured), Carmine Appice interview and 동아 레몬사운드 (interview/commentary), 메이크어스 (corporate plan), 뉴튠 WIPO talk (talk, no release), ISINA (promo). Earlier drops stand: RA 'Just 4 Kicks' (likely-repeat of Music Ally Just 4 Noise, 10-21); 이슈인사이트 Melon AI labeling (running story, analysis only); 미디어피아 platform AI policy roundup (recap); DMN 'UMG v. Suno discovery dispute' (same outlet + case as Nvidia pick)."
-  },
-  "items": [
-    {
-      "url": "https://decrypt.co/383070/new-ai-music-model-already-better-than-suno-ace-review",
-      "title": "This New AI Music Model Is Already Better Than Suno—We Put ACE to the Test",
-      "source": "Decrypt",
-      "tool": "Music",
-      "accent": "#ff2d55",
-      "motif": "sphere",
-      "rationale": "New model release: ACE Studio's ACE Music v1 tops the Artificial Analysis blind vocal-music leaderboard over Suno v6, with hands-on test results creators can act on.",
-      "published_iso": "2026-11-11T20:16:02Z",
-      "og_image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/AI-music-decrypt-style-03-gID_7.jpg",
-      "excerpt": "ACE Studio's ACE Music v1 took first place on Artificial Analysis' blind vocal-music leaderboard (1,160 Elo vs Suno v6's 1,144); Decrypt's tests found stronger melodies, more natural vocals and cleaner endings, though Suno handled niche genres better."
-    },
-    {
-      "url": "https://arxiv.org/abs/2611.13834",
-      "title": "MusicFlux: Flexible Conditioning for Text-Guided Music Generation and Editing",
-      "source": "arXiv",
-      "tool": "Music",
-      "accent": "#0070f3",
-      "motif": "sphere",
-      "rationale": "New research release: MusicFlux turns a pretrained flow-matching text-to-audio model into a text-guided music editor (inpainting, event insertion, restoration), with two conditioning modes that trade edit quality against compute.",
-      "published_iso": "2026-11-10T10:00:03Z",
-      "og_image": null,
-      "excerpt": "MusicFlux is a text-guided music editor built on a pretrained flow-matching text-to-audio model, with two conditioning approaches that trade editing quality against compute for inpainting, event insertion and restoration."
-    },
-    {
-      "url": "https://musically.com/2026/11/11/idols-labelcamp-and-startup-mypart-explore-ai-connections/",
-      "title": "Idol’s Labelcamp and startup MyPart explore AI connections",
-      "source": "Music Ally",
-      "tool": "Music",
-      "accent": "#7928ca",
-      "motif": "sphere",
-      "rationale": "New product: Labelcamp's AI Connector lets labels and distributors run supply-chain ops and catalogue analytics from Claude or ChatGPT, agentic AI reaching music distribution back-office.",
-      "published_iso": "2026-11-11T13:30:00+00:00",
-      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/08/news-stories-images-4x3-2026-08-26T131412.133.png?fit=2000%2C1500&ssl=1",
-      "excerpt": "Idol's distribution-management platform Labelcamp launched an AI Connector letting labels and distributors run supply-chain operations and catalogue analytics from Claude or ChatGPT; startup MyPart also added agentic AI connections."
-    },
-    {
-      "url": "https://culturecustodian.com/distributed-cloned-ai-music-fake-nigerian-artist/",
-      "title": "We Distributed Cloned AI Music From a Fake Nigerian Artist",
-      "source": "The Culture Custodian",
-      "tool": "Music",
-      "accent": "#2ec5c5",
-      "motif": "sphere",
-      "rationale": "Original investigation: an outlet openly submitted a voice-cloned AI track from a fake artist and documented which distributors let it through, new evidence on distribution safeguards.",
-      "published_iso": "2026-11-11T13:00:41+00:00",
-      "og_image": "https://culturecustodian.com/wp-content/uploads/2026/11/WEB-How-We-Distributed-Cloned-AI-Music-From-a-Fake-Nigerian-Artist-1024x1024.jpg",
-      "excerpt": "Investigation: the outlet built a fake Nigerian artist with a cloned voice and an AI-generated song, told distribution platforms exactly what it had done, and tracked which ones still distributed it."
-    },
-    {
-      "url": "https://www.digitalmusicnews.com/2026/11/11/nvidia-suno-umg-subpoena-quash-motion/",
-      "title": "Nvidia Moves to Quash Burdensome UMG v. Suno Subpoena",
-      "source": "Digital Music News",
-      "tool": "Music",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "rationale": "New court filing in the UMG v. Suno training-data case: Nvidia's motion to quash a deposition subpoena after producing 6,300+ documents pulls the chipmaker into the discovery fight.",
-      "published_iso": "2026-11-11T18:54:27+00:00",
-      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/Nvidia-Office.jpg",
-      "excerpt": "Nvidia moved to quash a 'burdensome' deposition subpoena in UMG v. Suno, saying it has already produced more than 6,300 documents."
-    }
-  ]
+    "note": "Dropped as duplicates or follow-ups: Akai MPC SDK vibe-coding (MusicRadar), the shipping step of the Akai open-source MPC story published 10-29 (theverge); Tracktion Waveform Free 14.1 Mix Analysis, the same 14.1 release published 10-28 (gearnews Waveform Pro 14.1); Guardian Albanese opinion, commentary on the Australia TDM story published 11-09; Blackstar ID:X NAM A2, running NAM A2 hardware adoption already covered 11-08 (Heritage i73 Pro) and only weakly AI. Reservoir v. Suno/Anthropic amendment was already removed by story_dedup. Skipped on merit: PaRa Music (label strategy, thin), GameSoundCon recap, Maono mic (AI incidental), Nick Cave opinion, Influur Pulse (influencer marketing, closer to marketing), Carmine Appice interview, Seoul copyright forum (event preview), Grimes AI film (film-first story), Samsung Securities AI K-pop (off-list, marketing stunt), RadioMatic (would be a second Music Ally business story; runner-up). Cross-section exact-grep of published_urls.json was not possible in this agent (Read-only tools), so the orchestrator should confirm before roll that the 5 pick URLs are absent from published_urls.json."
+  }
 }

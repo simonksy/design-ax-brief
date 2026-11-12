@@ -1,150 +1,178 @@
 {
-  "section": "games",
-  "now_iso": "2026-11-11T22:00:41Z",
-  "window_hours": 336,
-  "items": [
-    {
-      "title": "The Witcher 3 Devs Explain Using AI To Help With Geralt's Polish Voice In Songs Of The Past",
-      "url": "https://kotaku.com/the-witcher-3-devs-explain-using-ai-to-help-with-geralts-polish-voice-in-songs-of-the-past-this-is-one-of-those-ways-where-you-can-use-ai-ethically-2000756004",
-      "source": "Kotaku",
-      "category": "games",
-      "published_iso": "2026-11-11T22:00:04+00:00",
-      "excerpt": "CD Projekt Red says the Polish voice of Geralt in the Songs of the Past expansion was tuned with AI, with the actor's consent, after he suffered a stroke between the original game and the new expansion.",
-      "og_image": "https://kotaku.com/app/uploads/2026/11/geralt.jpg",
-      "note": "Same story also at gamesradar (cd-projekt-red-worked-with-an-ai-company...) and destructoid; IGN/VGC also covered."
-    },
-    {
-      "title": "Creators Built Playable Worlds, VR Games & Digital Pets for Tripothon",
-      "url": "https://80.lv/articles/creators-developed-playable-worlds-vr-games-digital-pets-for-tripo-ai-s-first-3d-world-hackathon",
-      "source": "80 Level",
-      "category": "games",
-      "published_iso": "2026-11-11T19:42:00+00:00",
-      "excerpt": "More than 2,000 teams from 78 countries took part in Tripo AI's first 3D-world hackathon (Tripothon S1), building playable worlds, VR games and digital pets with Tripo's generative 3D tools.",
-      "og_image": "https://cdn.80.lv/api/upload/meta/50892/images/6aebc2cf9eae0/contain_1200x630.jpg"
-    },
-    {
-      "title": "Microsoft Auto SR Exits Preview On ROG XBOX Ally X, New Performance Mode Raises FPS Limit To 120",
-      "url": "https://wccftech.com/microsoft-auto-sr-exits-preview-on-rog-xbox-ally-x-new-performance-mode-raises-fps-limit-to-120/",
-      "source": "Wccftech",
-      "category": "games",
-      "published_iso": "2026-11-11T13:37:48+00:00",
-      "excerpt": "Microsoft's AI upscaler Auto SR leaves preview on the ROG Xbox Ally X, adding handheld support, 1080p upscaling and a 120 FPS Performance Mode.",
-      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-27.jpg"
-    },
-    {
-      "title": "Is nothing sacred: Shrek 2 Remastered pummeled on Steam over Epic Games account requirement and suspected \"AI textures\"",
-      "url": "https://www.gamesradar.com/games/co-op/is-nothing-sacred-shrek-2-remastered-pummeled-on-steam-over-epic-games-account-requirement-and-suspected-ai-textures/",
-      "source": "GamesRadar+",
-      "category": "games",
-      "published_iso": "2026-11-11T15:51:09Z",
-      "excerpt": "Steam players are review-bombing Shrek 2 Remastered over a mandatory Epic account and textures they suspect were AI-upscaled or generated.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/BExZoS8SarNNjtMSybKkGA-1920-80.jpg"
-    },
-    {
-      "title": "\"Claude models are starting to refuse work on Pokemon fan projects,\" says vibe coder spending \"up to $2,000\" a month on Pokemon fan game",
-      "url": "https://www.gamesradar.com/games/pokemon/claude-models-are-starting-to-refuse-work-on-pokemon-fan-projects-says-vibe-coder-spending-up-to-usd2-000-a-month-on-pokemon-fan-game/",
-      "source": "GamesRadar+",
-      "category": "games",
-      "published_iso": "2026-11-11T17:36:11Z",
-      "excerpt": "The developer behind fan game Pokemon Arena 2D says Anthropic's Claude has begun refusing Pokemon fan-project work under its anti-clone policy, though the project will continue.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/RD5bLqAh4yZn67iiKb2Dg4-1920-80.jpg",
-      "note": "Follow-up to Anthropic game-clone block (published 11-02 via gamedeveloper); vibe-coding deprioritized."
-    },
-    {
-      "title": "Days before GTA 6, crime game for \"thousands of players\" blows up on Steam despite 50% positive reviews and gen AI use",
-      "url": "https://www.gamesradar.com/games/simulation/days-before-gta-6-crime-game-for-thousands-of-players-blows-up-on-steam-despite-50-percent-positive-reviews-and-gen-ai-use/",
-      "source": "GamesRadar+",
-      "category": "games",
-      "published_iso": "2026-11-09T17:25:22Z",
-      "excerpt": "A multiplayer crime sim that discloses generative AI use is surging on Steam ahead of GTA 6 despite mixed reviews.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/LcPshbrXJhCsaYnd93zreL-1920-80.jpg"
-    },
-    {
-      "title": "One Elder Scrolls fan is reviving and upgrading (with AI) a lost spin-off for the Nokia N-Gage and porting it to PC",
-      "url": "https://www.pcgamer.com/games/the-elder-scrolls/one-elder-scrolls-fan-is-reviving-and-upgrading-a-lost-spin-off-for-the-nokia-n-gage-and-porting-it-to-pc/",
-      "source": "PC Gamer",
-      "category": "games",
-      "published_iso": "2026-11-11T00:00:19Z",
-      "excerpt": "A fan is reviving The Elder Scrolls Travels: Shadowkey from the Nokia N-Gage, using AI to upgrade it and port it to PC.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/nag2arKf76CYq2aNFJVzpd-1920-80.jpg",
-      "note": "AI role in body not verified in depth (Future plc body extraction failed) - enrichment should confirm."
-    },
-    {
-      "title": "This mod to get DLSS 5 running on AMD RX 9000-series GPUs promises better performance than others",
-      "url": "https://www.pcgamer.com/hardware/graphics-cards/amdlss5-gets-nvidias-neural-rendering-running-on-amd-graphics-cards-and-claims-64-percent-better-performance-than-other-mods/",
-      "source": "PC Gamer",
-      "category": "games",
-      "published_iso": "2026-11-10T16:53:20Z",
-      "excerpt": "The AMDLSS5 mod gets Nvidia's DLSS 5 neural rendering running on Radeon RX 9000 cards and claims 64% better performance than other mods.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/B3ULyP68EiAPD55fRNR8S7-2560-80.jpg"
-    },
-    {
-      "title": "'Hogwarts Legacy' Gets a Magical NVIDIA DLSS 5 Upgrade on GeForce NOW",
-      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-hogwarts-legacy-dlss-5/",
-      "source": "NVIDIA Blog",
-      "category": "games",
-      "published_iso": "2026-11-05T14:00:34+00:00",
-      "excerpt": "Hogwarts Legacy adds DLSS 5 neural rendering on GeForce NOW, alongside 24 games coming to the service in November.",
-      "og_image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/gfn-thursday-11-5-blog-1920x1080-no-copy.jpg"
-    },
-    {
-      "title": "Following site-wide discussion on AI use, Nexus Mods add a \"daily limit\" to the spots in the new mods tab one person can hog",
-      "url": "https://www.rockpapershotgun.com/following-site-wide-discussion-on-ai-use-nexus-mods-add-a-daily-limit-to-the-spots-in-the-new-mods-tab-one-person-can-hog-via-multiple-rapid-fire-uploads",
-      "source": "Rock Paper Shotgun",
-      "category": "games",
-      "published_iso": "2026-11-10T11:17:50+00:00",
-      "excerpt": "After its AI-disclosure debate, Nexus Mods is trialling a daily cap on how many new-mods-tab slots one uploader can occupy with rapid-fire uploads.",
-      "og_image": "https://assetsio.gnwcdn.com/skyrim-ikea-mod-02.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "note": "Nexus Mods AI disclosure published 11-05; this is a follow-up platform policy action."
-    },
-    {
-      "title": "Nexon Wins Best Paper Award at ICTAI 2026",
-      "url": "https://www.invenglobal.com/articles/28324/nexon-wins-best-paper-award-at-ictai-2026",
-      "source": "Inven Global",
-      "category": "games",
-      "published_iso": "2026-11-09T01:18:47+00:00",
-      "excerpt": "Nexon researchers analysed about 19.37 million Steam reviews to find when players accept in-game AI, and built a pre-launch diagnostic for checking AI features before release.",
-      "og_image": "https://static.invenglobal.com/upload/image/2026/11/09/i1794187207575008.jpeg",
-      "note": "invenglobal.com is the English arm of inven.co.kr (allowed)."
-    },
-    {
-      "title": "최석원 컴투스플랫폼 대표 \"'하이브 액실'로 글로벌 공략⋯백엔드 연동 AI로 처리\"",
-      "url": "https://www.inews24.com/view/2023215",
-      "source": "아이뉴스24",
-      "category": "games",
-      "published_iso": "2026-11-09T09:00:00+09:00",
-      "excerpt": "컴투스플랫폼은 게임 백엔드 플랫폼 '하이브 액실'을 AI가 이해할 수 있는 형태로 구현해 AI 에이전트가 백엔드 연동을 사람 개입 없이 처리하도록 했으며, 2027년 초 언리얼·고도·HTML5 지원을 확대한다.",
-      "og_image": "https://image.inews24.com/v1/1172ca4df059ce.jpg"
-    },
-    {
-      "title": "크래프톤, 3분기 누적 매출 3조6330억 원… 자체 AI 모델 성능도 공개",
-      "url": "http://www.economytalk.kr/news/articleView.html?idxno=425223",
-      "source": "이코노미톡뉴스",
-      "category": "games",
-      "published_iso": "2026-11-10T17:36:25+09:00",
-      "excerpt": "크래프톤이 3분기 실적 발표에서 자체 LLM '라온' 모델의 성능을 공개하고 게임 밖 시장까지 수익화하겠다고 밝혔다.",
-      "og_image": "https://cdn.economytalk.kr/news/photo/202611/425223_234024_586.png",
-      "note": "Earnings-call item; qualifies only if Raon model is treated as concrete AI product."
-    },
-    {
-      "title": "英語だけのゲームが遊びやすく。Unity製の作品を自動でリアルタイムに日本語化してくれるAI活用ツールが登場",
-      "url": "http://www.gamespark.jp/article/2026/11/11/174753.html",
-      "source": "Game*Spark",
-      "category": "games",
-      "published_iso": "2026-11-11T18:00:03+09:00",
-      "excerpt": "PLaMo 3 Translate를 쓰는 로컬 실행 도구로, 거의 모든 Unity 게임의 화면 텍스트를 실시간으로 일본어 번역해 표시한다. A free local tool uses PLaMo 3 Translate to translate almost any Unity game into Japanese in real time.",
-      "og_image": "https://www.gamespark.jp/imgs/ogp_f/1218039.jpg",
-      "note": "Uses PLaMo 3 Translate - PLaMo gamer tools were covered 11-10; AI localization cap reached. Likely same-story."
-    },
-    {
-      "title": "심의에 AI 기술을? 한국게임법과정책학회 학술대회 연다",
-      "url": "https://www.gamemeca.com/view.php?gid=1783353",
-      "source": "게임메카",
-      "category": "games",
-      "published_iso": "2026-11-11T20:15:37+09:00",
-      "excerpt": "한국게임법과정책학회가 11월 20일 지스타 기간 부산 벡스코에서 AI 기술의 게임 등급분류 적용 등 게임 산업 법적 리스크를 다루는 학술대회를 연다.",
-      "og_image": "https://cdn.gamemeca.com/gmdata/0001/783/353/gm939726_261111-risell-qq2.webp",
-      "note": "Event preview - weak; keep query string intact."
-    }
-  ]
+ "section": "games",
+ "now_iso": "2026-11-12T22:03:17Z",
+ "window_hours": 336,
+ "items": [
+  {
+   "title": "Chinese Tech Giant Tencent Launches AI Companions For Gamers",
+   "url": "https://80.lv/articles/tencent-launches-ai-gaming-companions-that-watch-you-play-offer-advice/",
+   "source": "80 Level",
+   "category": "games",
+   "published_iso": "2026-11-12T14:27:00+00:00",
+   "excerpt": "Meet the four anime girls who, hopefully, won't spy on you.",
+   "og_image": "https://cdn.80.lv/api/upload/meta/50999/images/6af5cceb475db/contain_1200x630.jpg"
+  },
+  {
+   "title": "Ludo releases free, open-source toolbox that lets AI coding agents prepare game assets for engines | Games Industry Network | Türkiye, Europe, MENA & Asia",
+   "url": "https://mobidictum.com/ludo-free-open-source-toolbox-ai-coding-agents/",
+   "source": "Mobidictum",
+   "category": "games",
+   "published_iso": "2026-11-12T10:54:06+03:00",
+   "excerpt": "Ludo.ai, the developer’s companion for creating production-ready game assets, announced the Ludo Toolbox, a set of 32 free command-line tools that give coding",
+   "og_image": "https://mobidictum.com/wp-content/uploads/2026/03/ludo_ai_logo.png"
+  },
+  {
+   "title": "GDC State of the Game Industry report: 40% of developers are using generative AI for work",
+   "url": "https://www.gamesindustry.biz/gdc-state-of-the-game-industry-report-40-of-developers-are-using-generative-ai-for-work",
+   "source": "GamesIndustry.biz",
+   "category": "games",
+   "published_iso": "2026-11-12T17:00:00+00:00",
+   "excerpt": "Survey project lead Beth Elderkin lays bare the mood of the industry, the job market, and how people are making games",
+   "og_image": "https://assetsio.gnwcdn.com/state-of-the-game-industry-2026_SaCPvuv.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+  },
+  {
+   "title": "Developers say they mostly use genAI it for 'brainstorming'",
+   "url": "https://www.gamedeveloper.com/production/genai-using-developers-say-they-mostly-use-it-for-research-and-brainstorming-",
+   "source": "Game Developer",
+   "category": "games",
+   "published_iso": "2026-11-12T18:15:00.000Z",
+   "excerpt": "A new State of the Industry report from GDC Festival of Gaming illuminates how game developers are using generative AI.",
+   "og_image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt8f913239a8843c17/6af4d305b6c48b2ac7f3e1b5/brainstormfeatured.jpg?disable=upscale&width=1200&height=630&fit=crop"
+  },
+  {
+   "title": "Not Too Many Developers Are Working on PS6 and Xbox Project Helix Games Yet, According to a New Developer Survey",
+   "url": "https://www.ign.com/articles/ai-usage-up-ps6-and-xbox-helix-development-still-low-in-newest-gdc-dev-survey",
+   "source": "IGN",
+   "category": "games",
+   "published_iso": "2026-11-12T19:37:48.798Z",
+   "excerpt": "GDC Festival of Gaming organizers released the data from their 15th annual game developer survey, the State of the Game Industry report. Over 2600 game developers anonymously responded, and the results show increased generative AI usage, not too many developers working on PlayStation 6 or Xbox Project Helix next-gen projects as of yet, an increase in the number of developers in a union, and more.",
+   "og_image": "https://assets-prd.ignimgs.com/2026/11/03/untitled-design-1793738170553.png?width=1280&format=jpg&auto=webp&quality=80"
+  },
+  {
+   "title": "Apex Neural Rendering Challenges NVIDIA DLSS With Up To 2.4X Faster Frame Generation, 62% Lower VRAM Usage, And Broad GPU Support",
+   "url": "https://wccftech.com/apex-neural-rendering-challenges-nvidia-dlss-with-up-to-2-4x-faster-frame-generation-62-lower-vram-usage-and-broad-gpu-support/",
+   "source": "Wccftech",
+   "category": "games",
+   "published_iso": "2026-11-12T12:19:00+00:00",
+   "excerpt": "Apex Neural Rendering rivals NVIDIA DLSS with up to 2.4X faster frame generation, 62% lower VRAM usage, and beta support for older GPUs.",
+   "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-30.jpg"
+  },
+  {
+   "title": "対話型AI「Claude」が『ポケモン』関連の作業を拒否するようになったとの報告。“ゲーム模倣NG”に加え、「アセット」「ロゴ」の使用も拒む",
+   "url": "https://automaton-media.com/articles/newsjp/20261112-478893/",
+   "source": "AUTOMATON",
+   "category": "games",
+   "published_iso": "2026-11-12T08:03:12+00:00",
+   "excerpt": "対話型AI「Claude」について、『ポケモン』シリーズ関連の生成を拒否するようになったとの報告が寄せられている。",
+   "og_image": "https://automaton-media.com/wp-content/uploads/2026/11/20261112-478893-header.jpg"
+  },
+  {
+   "title": "Vibecoded Pokémon Fan Project Developer Is Outraged At AI Clampdowns On IP Infringement After Spending Thousands Per Month",
+   "url": "https://kotaku.com/pokemon-arena-2d-fan-project-vibe-coded-claude-ai-big-kid-nation-2000756082",
+   "source": "Kotaku",
+   "category": "games",
+   "published_iso": "2026-11-12T11:00:24+00:00",
+   "excerpt": "They insist the game will still release, but lament it’s harder to get Claude to make the game for them",
+   "og_image": "https://kotaku.com/app/uploads/2026/11/Pokemon-Officer-Jenny-1200x675.jpg"
+  },
+  {
+   "title": "「Steam審査が終わらない」多数のゲームで発売延期続出。待っている間にAIクローン発生、Steam上の露出機会も減少リスク",
+   "url": "https://automaton-media.com/articles/newsjp/steams-20261112-478874/",
+   "source": "AUTOMATON",
+   "category": "games",
+   "published_iso": "2026-11-12T06:41:30+00:00",
+   "excerpt": "Steamで提出されるゲームの本数自体が大幅に増加していることにくわえ、提出されたゲームの再審査が頻発しているためだという。",
+   "og_image": "https://automaton-media.com/wp-content/uploads/2026/11/steams-20261112-478874-header.jpg"
+  },
+  {
+   "title": "As low-effort AI slop continues to flood Steam, yet more developers announce game delays caused by Valve's growing approval backlog",
+   "url": "https://www.eurogamer.net/steam-game-submission-review-backlog-ai-slop-approval-delays",
+   "source": "Eurogamer",
+   "category": "games",
+   "published_iso": "2026-11-12T16:06:20+00:00",
+   "excerpt": "Steam's growing game review backlog is becoming more of a problem for indie developers, who keep having to push back release dates.",
+   "og_image": "https://assetsio.gnwcdn.com/australia-did-it-keyart-1.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+  },
+  {
+   "title": "[강연] 이젠 에디터 밖으로 나아간다, 유니티의 AI 생태계 접근법 세 가지",
+   "url": "https://www.inven.co.kr/webzine/news/?news=323319",
+   "source": "Inven",
+   "category": "games",
+   "published_iso": "2026-11-12T20:39:36+09:00",
+   "excerpt": "“우리가 생각하는 느낌의 게임을 만들려면 결국 게임 엔진이 중간에 들어갈 수밖에 없습니다. 에이전트가 게임 엔진을 얼마나 잘 이해하고 다루느냐가 게임의 퀄리티를 좌우합니다” ‘아키에이지’ 리드 게임플레이 프로그래머를 비롯해 엔씨소프트, 오토데스크, 네오위즈 등을 거친 박종태 유니티 코리아 스태프 파트너 엔지니어는 AI 시대에 맞춘 유니티 엔진의 그래픽스 진",
+   "og_image": "https://static.inven.co.kr/column/2026/11/12/news/i1521902819.jpg"
+  },
+  {
+   "title": "[강연] 송재경 \"AI 시대, 중요한 것은 좋아하는 것을 밀고 나아가는 마음가짐\"",
+   "url": "https://www.inven.co.kr/webzine/news/?news=323322",
+   "source": "Inven",
+   "category": "games",
+   "published_iso": "2026-11-12T21:24:56+09:00",
+   "excerpt": "‘바람의 나라’, ‘리니지’, ‘아키에이지’를 탄생시킨 한국 온라인 게임의 살아있는 역사, 송재경 전 엑스엘게임즈 대표(현 넥써쓰 고문)가 지난 7월, AI와 함께 깃허브에 1인 개발 MMORPG '오픈 MMO'를 공개하며 1인 개발자로 돌아왔다. AI 에이전트와 인간 플레이어가 같은 프로토콜로 접속, 서버조차 둘을 구분하지 못하는 구조에 코드를 AI에 맡",
+   "og_image": "https://static.inven.co.kr/column/2026/11/12/news/i1679973038.jpg"
+  },
+  {
+   "title": "[강연] 원재호 앵커노드 대표 \"AI 시대, 작은 팀이 게임계 판을 바꿔나갈 것\"",
+   "url": "https://www.inven.co.kr/webzine/news/?news=323308",
+   "source": "Inven",
+   "category": "games",
+   "published_iso": "2026-11-12T19:56:23+09:00",
+   "excerpt": "“AI를 비용 절감 도구로 볼 게 아니라, 10억 원으로 100억 원짜리 게임을 만들어 글로벌 시장에 도전하는 기회로 봐야 합니다” 넥슨과 네오위즈 등에서 26년간 게임 개발 현장을 누벼온 원재호 앵커노드 대표는 AI 시대를 맞은 게임 산업의 변화를 ‘공급자 단의 혁명’이자 영상 업계의 ‘유튜브 모먼트’에 비유했다. 과거 기술의 발전과 플랫폼 전환기마다 대",
+   "og_image": "https://static.inven.co.kr/column/2026/11/12/news/i1043938282.jpg"
+  },
+  {
+   "title": "[지스타 26] AI 3D 기술 선보인다, 메쉬 B2B관 참가",
+   "url": "https://www.gamemeca.com/view.php?gid=1783400",
+   "source": "GameMeca",
+   "category": "games",
+   "published_iso": "2026-11-12T17:46:54+09:00",
+   "excerpt": "글로벌 AI 3D 생성 플랫폼 메쉬가 오는 11월 19일부터 21일까지 부산 벡스코 제2전시장에서 개최되는 ‘지스타 2026’ B2B관에 참가한다. 메쉬는 H305 부스에서 최신 AI 기반 3D 생성 모델을 선보이며, 국내 게임 및 콘텐츠 기업과의 접점을 확대하고 실제 제작 파이...",
+   "og_image": "https://cdn.gamemeca.com/gmdata/0001/783/400/gm874655_Untitled-1.webp"
+  },
+  {
+   "title": "[기자수첩] AI 게임 도둑질 대응할 정부 지원 필요하다",
+   "url": "https://www.gamemeca.com/view.php?gid=1783425",
+   "source": "GameMeca",
+   "category": "games",
+   "published_iso": "2026-11-12T17:39:35+09:00",
+   "excerpt": "AI로 가공된 인디 게임의 해외 도용 피해가 급증하고 있으나 개인 개발자가 대응하기는 매우 어렵다. 현행 지원 제도는 이름 변경이나 AI 변형을 걸러내기 어렵고 절차가 복잡해 실효성이 부족하다. 정부가 한국저작권보호원과 한국콘텐츠진흥원을 중심으로 전담 대응 조직을 마련해 지원해야 한다",
+   "og_image": "https://cdn.gamemeca.com/gmdata/0001/783/425/gm122784_15.webp"
+  },
+  {
+   "title": "AI-native game development: Making games that can only be made with AI | GamesBeat Next 2026",
+   "url": "https://gamesbeat.com/ai-native-game-development-making-games-that-can-only-be-made-with-ai-gamesbeat-next-2026/",
+   "source": "GamesBeat",
+   "category": "games",
+   "published_iso": "2026-11-12T15:47:04+00:00",
+   "excerpt": "AI-native game development could unlock new kinds of games, with intelligent characters, dynamic worlds and gameplay built around AI.",
+   "og_image": "https://gamesbeat.com/wp-content/uploads/2026/11/AI-1.jpg"
+  },
+  {
+   "title": "최석원 컴투스플랫폼 대표 \"'하이브 액실'로 글로벌 공략⋯백엔드 연동 AI로 처리\"",
+   "url": "https://www.inews24.com/view/2023215",
+   "source": "iNews24",
+   "category": "games",
+   "published_iso": "2026-11-09T09:00:00+09:00",
+   "excerpt": "출시 초기 해외 가입자 비중 40%…AI 활용해 게임 개발·운영 부담 완화\r\n2027년 초 언리얼·고도·HTML5 지원 확대…글로벌 고객층 확보 추진 “하이브 액실은 AI가 이해할 수 있는 형태로 구현돼 있습니다. AI에게 시키면 사람의 개입 없이 거의 모든 일을 처리합니다. 기존에 있던 작업들이 없어졌다고 할 수 있을 정도입니다.”최석원 컴투스플랫폼 대표는 지난 5일 컴 [아이뉴스24 곽민구 기자] “하이브 액실은 AI가 이해할 수 있는 형태로 구현돼 있습니다. AI에게 시키면 사람의 개입 없이 거의 모든 일을 처리합니다. 기존에 있던 작업들이 없어졌다고 할 수 있을 정도입니다.”",
+   "og_image": "https://image.inews24.com/v1/1172ca4df059ce.jpg"
+  },
+  {
+   "title": "How to organize a video game project with AI: 10 tips",
+   "url": "https://unity.com/blog/how-to-organize-a-game-project-with-ai",
+   "source": "Unity",
+   "category": "games",
+   "published_iso": "2026-11-10T00:00:00+00:00",
+   "excerpt": "How to organize a video game project with AI: 10 beginner tips on design briefs, naming, checkpoints, prompt logs, and playtesting – no coding needed.",
+   "og_image": "https://cdn.sanity.io/images/fuvbjjlp/production/2330bde656908d3aad3b4b3181a276993cc9fd61-1200x675.png"
+  },
+  {
+   "title": "에픽게임즈, 12월 4일 판교서 ‘MCP 개발법' 강연",
+   "url": "https://www.gamey.kr/news/articleView.html?idxno=3019639",
+   "source": "Gamey",
+   "category": "games",
+   "published_iso": "2026-11-11T12:00:26+09:00",
+   "excerpt": "언리얼 엔진 개발 과정에 AI 에이전트를 붙여 쓰는 방법을 현업 개발자와 나누는 자리가 판교에 마련된다. 에픽게임즈가 12월 4일 여는 '언리얼 데브 데이 판교'는 언리얼 엔진 6의 개발 방향, 그리고 MCP(모델 컨텍스트 프로토콜)를 활용한 에이전틱 개발 워크플로를 주요 주제로 잡았다.에픽게임즈 코리아는 12월 4일 오후 1시부터 5시 30분까지 경기 성남시 경기창조경제혁신센터 B1 국제회의장에서 '언리얼 데브 데이 판교'를 진행한다. 게임 개발자뿐 아니라 언리얼 엔진을 쓰는 비게임 분야 현업 개발자도 참가할 수 있다. 행사는 오",
+   "og_image": "https://cdn.gamey.kr/news/thumbnail/202611/3019639_173889_638_v150.jpg"
+  }
+ ]
 }

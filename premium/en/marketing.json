@@ -4406,6 +4406,140 @@
           "x": "Sonata Insights' Debra Aho Williamson said OpenAI sharing insights itself “will take some of the power away from the third-party companies.” Business Hub and agents are free for now, and Shomair said a business “should not have an impact on how frequently it appears.”"
         }
       ]
+    },
+    "marketing/google-ads-ai-public-figure-ban": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-ads-logo-mirror-wCJesbMh.jpg",
+          "cap": "Google Ads Logo Mirror"
+        },
+        {
+          "t": "p",
+          "x": "Google Ads clarified in its unacceptable Business Practices policy that impersonating public figures using AI isn’t allowed, even if they disclose that they were generated or edited using AI. Yes, you can use AI but not in this case and when you use AI, you should disclose it."
+        },
+        {
+          "t": "p",
+          "x": "Google added this note: \"Note: Ads that impersonate public figures using AI aren’t allowed, even if they disclose that they were generated or edited using AI.\""
+        },
+        {
+          "t": "p",
+          "x": "Here is a screenshot of what was added, highlighted in red:"
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-doc-change-hAyqlNeM.png",
+          "cap": "Google Doc Change"
+        },
+        {
+          "t": "p",
+          "x": "Google's Unacceptable Business Practices policy prohibits ads that use AI to impersonate public figures. This rule applies even if the ad discloses that the content was generated or edited using AI."
+        },
+        {
+          "t": "p",
+          "x": "Google wrote: \"Google updated its Unacceptable Business Practices policy on Public-figure impersonation to clarify that ads that impersonate public figures using AI are not allowed, even if they disclose that they were generated or edited using AI. This clarification is meant to help advertisers understand the policy and does not change the enforcement of the policy.\""
+        },
+        {
+          "t": "p",
+          "x": "So stop using this whale of an ad:"
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/ai-ad-atmEYoSV.jpg",
+          "cap": "Ai Ad"
+        }
+      ]
+    },
+    "marketing/eu-ai-act-deepfake-ad-labels": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/size/w2000/2026/11/eu-ai-act-deep-fake-label-3-percent-fines-carousel-projector-flattered-kettle-across-sea.jpg",
+          "cap": "Non-EU ad makers face 3% turnover fines if AI product shots flattering the real item go unlabelled"
+        },
+        {
+          "t": "p",
+          "x": "The European Commission's guidelines on the transparency obligations in Article 50 of the AI Act were published in the Official Journal of the European Union under the reference C/2026/6005. A company established outside the EU that uses an AI system to generate a deep fake of a celebrity for an advertisement displayed in the Union is, according to the guidelines, a deployer within the scope of the AI Act."
+        },
+        {
+          "t": "p",
+          "x": "AI-made celebrity endorsements, synthetic influencers testing products and product images that misrepresent the real item all count as deep fakes that need a visible label. A company that merely commissions an agency, without control over how it uses AI, is not a deployer. Ad copy and product descriptions stay outside the text rule unless they make health, consumer safety or sustainability claims."
+        },
+        {
+          "t": "p",
+          "x": "Deployers \"cannot rely on the machine-readable marking embedded in the content by the provider.\" Fines for breaching Article 50 reach EUR 15,000,000 or 3% of total worldwide annual turnover, whichever is higher. Generative systems placed on the market before August 2, 2026 have until December 2, 2026 to meet the marking duty."
+        }
+      ]
+    },
+    "marketing/nectar-creator-agent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2023/10/misbahfarah-together.jpg?w=1024",
+          "cap": "Nectar AI co-founders Misbah Uraizee and Farah Uraizee"
+        },
+        {
+          "t": "p",
+          "x": "Nectar, an AI-powered operating system for marketing, is launching a new AI agent designed to take a lot of the manual work out of influencer marketing. Announced Thursday, its new “Creator Agent” can search for creators, check their content and brand partnerships, send personalized messages, coordinate collaborations, and monitor how campaigns perform."
+        },
+        {
+          "t": "p",
+          "x": "Nectar says its Creator Agent searches more than 300 million creator profiles to find potential partners, including smaller creators who are gaining traction. It analyzes videos to understand what creators post about and checks brand safety by reviewing content in context rather than simply searching for specific keywords."
+        },
+        {
+          "t": "p",
+          "x": "The agent can draft and send messages in a brand’s voice, create custom landing pages, and help manage contracts, product gifting, and shipping details. “Brands can share voice guidelines in any format, and Nectar picks up the rest from their history,” CEO Misbah Uraizee tells TechCrunch."
+        },
+        {
+          "t": "p",
+          "x": "Creator Agent is available today globally and covers Instagram creators and TikTokers. The company plans to make it available through its Model Context Protocol (MCP), for use through AI assistants such as Claude, ChatGPT, Gemini, and Copilot."
+        }
+      ]
+    },
+    "marketing/podqi-chatbot-fake-retail-sites": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "Shoppers using AI chatbots to research products or find places to buy items could be directed to imposters and other risky websites, a new study found. IP protection firm Podqi prompted ChatGPT, Gemini, and Perplexity with shopping-related questions involving 151 brands, such as “Where can I find [brand] online?”"
+        },
+        {
+          "t": "p",
+          "x": "Over the course of 6,795 answers, all three AI engines cited and showed shoppers risky sites, defined as fake websites impersonating real retailers or selling knockoffs, reregistered old brand domains, or dead sites. Gemini showed risky sites in 4 percent of answers, ChatGPT in 8 percent, and Perplexity performed the worst at 15 percent. Smaller brands appear especially at risk."
+        },
+        {
+          "t": "p",
+          "x": "In one conversation, Perplexity named the wrong page as Stüssy’s official website and called it “the best starting point for guaranteed authentic items.” “It is always best to verify the source of that before entering personal information or credit card information,” says Podqi CEO and cofounder Trevor West."
+        }
+      ]
+    },
+    "marketing/appsflyer-apple-ads-agent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/size/w2000/2026/11/appsflyer-apple-ads-share-of-voice-agent-bids-after-approval-vu-meter-arm-volume-knob-pull-cord.jpg",
+          "cap": "The grader turns the knob: AppsFlyer’s first acting agent moves Apple Ads bids after approval"
+        },
+        {
+          "t": "p",
+          "x": "AppsFlyer today put an Apple Ads agent into closed beta that changes keyword bids once a marketer approves them, the first agent in the company's line-up that acts rather than only advises. The Apple Ads Share of Voice Agent estimates share of voice for each keyword and geography, recommends a bid change when an advertiser is \"off target,\" and executes it in Apple Ads directly from AppsFlyer; access runs through customer success managers."
+        },
+        {
+          "t": "p",
+          "x": "The release does not say how share of voice is estimated, which Apple interface carries the bids — the Campaign Management API will be sunset on January 26, 2027 — or how approval is enforced. Apple's Maximize Conversions campaigns do not allow keyword bids at all."
+        },
+        {
+          "t": "p",
+          "x": "AppsFlyer also launched Create an Agent, which builds a custom agent from a plain-language workflow description and delivers analysis, root cause analysis and recommendations to Slack or email on a schedule. Four MCP additions expose Protect360 fraud data, creative-level results, OneLink creation (only after approval) and partner integration settings to \"any MCP client.\""
+        },
+        {
+          "t": "p",
+          "x": "\"Marketing teams are moving from manual campaign orchestration to agentic execution,\" said Inna Weiner, VP Product at AppsFlyer. No pricing, customer results or general availability date were given."
+        }
+      ]
     }
   }
 }
