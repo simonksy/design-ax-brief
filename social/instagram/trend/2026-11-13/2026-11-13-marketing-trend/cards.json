@@ -1,0 +1,113 @@
+{
+  "meta": {
+    "issue": "AI가 장보기 창구가 될 때",
+    "date": "2026.11.13",
+    "section": "MARKETING",
+    "accent": "#ff8a3d",
+    "note": "원문 4건 대조: 날짜를 원문 게재일로 고침(Paypers 11.08→11.06, Digiday 11.11→11.10, Verge United 11.12→11.11, Verge Podqi 11.13→11.12). 수치 22개 모델·57.2%·실패의 54% 구매, 무료 business agent·대화 원문 미공개, United 예약 차단·Kirby 발언, 151개 브랜드·6,795개 답변·Perplexity 15%·ChatGPT 8%·Gemini 4% 확인. OpenAI 사진은 11-11 story에서 쓰여 quote로, 사진은 United 한 장만.",
+    "sources": [
+      "The Paypers — Visa benchmark tests how well AI agents handle shopping tasks (2026.11.06)",
+      "Digiday — OpenAI gives brands free ChatGPT agents alongside paid ads (2026.11.10)",
+      "The Verge — United won't let your AI agent book your flight (2026.11.11)",
+      "The Verge — AI chatbots are recommending fake retail websites, study finds (2026.11.12)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 마케팅 · 11.06~11.12",
+      "thread": [
+        {
+          "d": "11.06",
+          "t": "구매 시험",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        },
+        {
+          "d": "11.10",
+          "t": "브랜드 대리",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        },
+        {
+          "d": "11.11",
+          "t": "예약 차단",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        },
+        {
+          "d": "11.12",
+          "t": "가짜 매장",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        }
+      ],
+      "thread_note": "고객과 브랜드 사이에 AI 에이전트가 끼어드는데, 믿을 장치는 아직 없다",
+      "eyebrow": "흐름 · 마케팅",
+      "headline": "AI가 장보기\n창구가 될 때",
+      "body": "하나씩 보면 시험, 출시, 차단, 조사다. 이어 보면 에이전트가 손님 앞에 서는데 아무도 그 판단을 못 믿는다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "stat",
+      "eyebrow": "2026.11.06",
+      "headline": "틀려도 사는 에이전트",
+      "body": "Visa가 22개 AI 모델에 쇼핑을 시켰다. 통과는 57.2%, 실패한 시도의 54%에서도 결국 물건을 샀다.",
+      "foot": "2026.11.06",
+      "_src": "https://thepaypers.com/payments/news/visa-benchmark-tests-how-well-ai-agents-handle-shopping-tasks",
+      "_id": "visa-agentic-commerce-benchmark",
+      "stat_top": "쇼핑 시험 통과 57.2%",
+      "stat_arrow": "실패한 시도 중 그래도 구매",
+      "stat_bottom": "54%",
+      "stat_strike": false
+    },
+    {
+      "n": 3,
+      "kind": "quote",
+      "eyebrow": "2026.11.10",
+      "headline": "브랜드 대리인은 OpenAI가",
+      "quote": "자기 에이전트를 가져오는 건\n허용하지 않는다.",
+      "quote_by": "Benji Shomair · OpenAI 수익화 부사장",
+      "body": "ChatGPT에 브랜드 에이전트를 무료로 단다. 다만 에이전트는 OpenAI가 만들고, 대화 원문은 브랜드가 못 본다.",
+      "foot": "2026.11.10",
+      "_src": "https://digiday.com/marketing/openais-new-business-agents-give-brands-a-free-way-into-the-conversation-its-also-selling-as-an-ad/",
+      "_id": "openai-chatgpt-business-agents"
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.11.11",
+      "headline": "United, 에이전트\n예약을 막다",
+      "body": "AI 비서는 항공편을 보여줄 수만 있고 결제는 못 한다. CEO는 중개자를 또 하나 만들고 싶지 않다고 했다.",
+      "foot": "2026.11.11",
+      "_src": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+      "_id": "united-ai-agent-ban",
+      "media": "pipeline/media/united-ai-agent-ban.jpg"
+    },
+    {
+      "n": 5,
+      "kind": "stat",
+      "eyebrow": "2026.11.12",
+      "headline": "챗봇이 가짜 매장으로",
+      "body": "Podqi가 151개 브랜드로 챗봇 답변 6,795개를 봤다. 셋 다 사칭·짝퉁 사이트를 띄웠고 ChatGPT는 8%였다.",
+      "foot": "2026.11.12",
+      "_src": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-fake-websites",
+      "_id": "podqi-chatbot-fake-retail-sites",
+      "stat_top": "Gemini 4% · ChatGPT 8%",
+      "stat_arrow": "위험 사이트를 보여준 답변",
+      "stat_bottom": "Perplexity 15%",
+      "stat_strike": false
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

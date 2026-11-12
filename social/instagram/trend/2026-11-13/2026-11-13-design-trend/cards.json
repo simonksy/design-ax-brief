@@ -1,0 +1,109 @@
+{
+  "meta": {
+    "issue": "디자인 시스템, AI가 읽는다",
+    "date": "2026.11.13",
+    "section": "DESIGN",
+    "accent": "#0070f3",
+    "note": "원문 4건 대조: 날짜를 원문 게재일로 고침(Replica 10.29→10.28 GitHub Changelog, UXC 11.12→11.10 RSS pubDate GMT, Config India 11.12→11.11 PT 업로드, KT 11.13→11.12 인더뉴스). UXC 사진은 stat(Storybook MCP 토큰 27%·세 배 가까이)으로 바꿔 사진은 KT 한 장만. KT 수치 8개월→2개월 40일 확인.",
+    "sources": [
+      "GitHub Changelog — Introducing Replica, an open-source AI prototyping tool (2026.10.28)",
+      "UX Collective — AI Prototyping inside your design system. A hands-on guide for design & product teams (2026.11.10)",
+      "Figma (YouTube) — Config India 2026: What changed when designers started shipping code (2026.11.11)",
+      "인더뉴스 — KT, 앱 디자인부터 고객 안내 문구까지 AI 적용…‘KDS 2.0’ 구축 (2026.11.12)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 디자인 · 10.28~11.12",
+      "thread": [
+        {
+          "d": "10.28",
+          "t": "GitHub",
+          "c": "#0070f3",
+          "s": "DESIGN"
+        },
+        {
+          "d": "11.10",
+          "t": "매니페스트",
+          "c": "#0070f3",
+          "s": "DESIGN"
+        },
+        {
+          "d": "11.11",
+          "t": "코드 배포",
+          "c": "#0070f3",
+          "s": "DESIGN"
+        },
+        {
+          "d": "11.12",
+          "t": "KT 하네스",
+          "c": "#0070f3",
+          "s": "DESIGN"
+        }
+      ],
+      "thread_note": "디자인 시스템이 사람용 가이드에서 AI가 따르는 규칙으로 바뀐다",
+      "eyebrow": "흐름 · 디자인",
+      "headline": "디자인 시스템,\nAI가 읽는다",
+      "body": "한 건씩 보면 도구 소식이다. 그런데 GitHub부터 KT까지 AI를 팀의 실제 컴포넌트와 규칙 안에 묶는다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.10.28",
+      "headline": "Replica는\n팀 부품에서 출발",
+      "body": "GitHub이 오픈소스로 낸 Replica는 팀이 가진 컴포넌트·패턴·문서에서 출발해 자연어로 시제품을 만든다.",
+      "foot": "2026.10.28",
+      "_src": "https://github.blog/changelog/2026-10-28-introducing-replica-an-open-source-ai-prototyping-tool/",
+      "_id": "replica",
+      "video": "pipeline/media/replica.mp4"
+    },
+    {
+      "n": 3,
+      "kind": "stat",
+      "eyebrow": "2026.11.10",
+      "headline": "짐작 말고\n먼저 묻게",
+      "body": "AI 빌더는 디자인 시스템을 읽고도 제 컴포넌트를 따로 만든다. 처방은 컴포넌트 매니페스트와 MCP 연결이다.",
+      "foot": "2026.11.10",
+      "_src": "https://uxdesign.cc/ai-prototyping-inside-your-design-system-a-hands-on-guide-for-design-product-teams-44825904c08d",
+      "_id": "uxc-design-system-ai-prototyping",
+      "stat_top": "Storybook MCP 자체 테스트",
+      "stat_arrow": "작업은 세 배 가까이 빨리",
+      "stat_bottom": "토큰 27% 덜",
+      "stat_strike": false
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.11.11",
+      "headline": "디자이너가\n코드를 낸다",
+      "body": "Freshworks는 디자인 시스템을 AI 도구에 연결하고, 디자이너가 프로덕션 코드에 기여하도록 워크플로를 바꿨다.",
+      "foot": "2026.11.11",
+      "_src": "https://www.youtube.com/watch?v=3EbdkzGwL7c",
+      "_id": "config-india-freshworks-code",
+      "video": "pipeline/media/config-india-freshworks-code.mp4"
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.11.12",
+      "headline": "KT, AI가 읽는\n디자인 시스템",
+      "body": "KDS 2.0은 사람용 가이드를 AI도 읽게 했다. 하네스로 화면을 짜고 점검해 8개월 작업을 2개월 40일에 끝냈다.",
+      "foot": "2026.11.12",
+      "_src": "https://www.inthenews.co.kr/news/article.html?no=94443",
+      "_id": "kt-kds2-design-system",
+      "media": "pipeline/media/kt-kds2-design-system.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

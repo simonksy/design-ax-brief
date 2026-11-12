@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "issue": "쓸까 말까에서 누구 허락으로",
+    "date": "2026.11.13",
+    "section": "MOVIES",
+    "accent": "#7928ca",
+    "note": "원문 대조: TheWrap·THR 2건은 curl로 본문 확인, Bloody Disgusting은 Cloudflare 차단이라 11-10 enrichment 발췌·후보 published_iso로 대조. 날짜를 원문 게재일로 고침(놀런 11.09→11.07 PT, ROTLD 11.10→11.09, Storm Dogs 11.11→11.10, SAG-AFTRA 11.13→11.12). 수치 16만·10~15%, 10월 31일 공개, 두 살 아이·어른 배우 실사 확인. 사진은 ROTLD 한 장만 두고 놀런은 quote, SAG-AFTRA는 stat로.",
+    "sources": [
+      "TheWrap — Christopher Nolan Previews DGA's Next Phase of AI Protections: 'It's Down to the Studios' (2026.11.07)",
+      "Bloody Disgusting — Original 'Return of the Living Dead' Stars Slam AI-Generated Sequel (2026.11.09)",
+      "The Hollywood Reporter — Tilly Norwood Creator's Next Film Is an AI Talking Dog Movie (2026.11.10)",
+      "The Hollywood Reporter — Around 10-15 Percent of SAG-AFTRA Membership Wants AI Blocked (2026.11.12)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 영화 · 11.07~11.12",
+      "thread": [
+        {
+          "d": "11.07",
+          "t": "학습 금지",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "11.09",
+          "t": "무단 출연",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "11.10",
+          "t": "AI 출연진",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "11.12",
+          "t": "동의·보상",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        }
+      ],
+      "thread_note": "AI 영화의 쟁점이 '쓸까 말까'에서 '누구의 허락으로'로 옮겨 간다",
+      "eyebrow": "흐름 · 영화",
+      "headline": "쓸까 말까에서\n누구 허락으로",
+      "body": "한 건씩 보면 서로 다른 다툼이다. 그런데 한 주 사이 감독·배우·노조가 꺼낸 말은 모두 허락과 동의였다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "quote",
+      "eyebrow": "2026.11.07",
+      "headline": "내 영화로\n학습하지 마라",
+      "body": "DGA 회장 놀런. 'The Odyssey' 크레딧엔 처음으로 AI 학습 금지 문구가 들어갔다. 저작권을 지킬 몫은 스튜디오라 했다.",
+      "foot": "2026.11.07",
+      "_src": "https://www.thewrap.com/creative-content/movies/christopher-nolan-previews-dgas-next-phase-of-ai-protections-its-down-to-the-studios/",
+      "_id": "nolan-dga-ai-studios",
+      "quote": "길드 감독 대부분은\n자기 영화의\n저작권자가 아닙니다",
+      "quote_by": "Christopher Nolan · DGA 회장, Hollywood Insiders 팟캐스트"
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.11.09",
+      "headline": "찍지도 않은\n속편에 출연",
+      "body": "DragonFLIX의 AI 속편에 원년 배우 Quigley·Randolph가 촬영 없이 나왔다. \"우리가 계약한 건 이게 아니다.\"",
+      "foot": "2026.11.09",
+      "_src": "https://bloody-disgusting.com/movie/3975227/return-of-the-living-dead-aftermath-backlash-ai-linnea-quigley/",
+      "_id": "rotld-aftermath-ai-sequel",
+      "media": "pipeline/media/rotld-aftermath-ai-sequel.jpg"
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.11.10",
+      "headline": "아이와 개는\nAI로 찍는다",
+      "body": "'라이온 킹' 공동 감독 Minkoff의 Storm Dogs. 두 살 아이와 개들은 AI로 만들고, 어른 배우만 실사로 찍는다.",
+      "foot": "2026.11.10",
+      "_src": "https://www.hollywoodreporter.com/movies/movie-news/tilly-norwood-ai-dog-movie-minkoff-watch-trailer-1236751596/",
+      "_id": "stormdogs-minkoff-trailer",
+      "video": "pipeline/media/stormdogs-minkoff-trailer.mp4"
+    },
+    {
+      "n": 5,
+      "kind": "stat",
+      "eyebrow": "2026.11.12",
+      "headline": "막자는 회원은\n열에 하나 남짓",
+      "body": "SAG-AFTRA 16만 회원 중 AI를 아예 막자는 쪽은 10~15%로 본다. 노조가 내건 건 동의·통제·보상이다.",
+      "foot": "2026.11.12",
+      "_src": "https://www.hollywoodreporter.com/business/business-news/sag-aftra-duncan-crabtree-ireland-web-summit-ai-dan-neely-1236753936/",
+      "_id": "sagaftra-websummit-ai-block",
+      "stat_top": "AI 전면 차단을 원하는 회원",
+      "stat_arrow": "16만 명 중 Crabtree-Ireland 추정",
+      "stat_bottom": "10~15%",
+      "stat_strike": false
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

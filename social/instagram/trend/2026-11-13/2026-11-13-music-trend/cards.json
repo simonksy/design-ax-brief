@@ -1,0 +1,111 @@
+{
+  "meta": {
+    "issue": "AI 음악의 관문, 거꾸로 걸러내다",
+    "date": "2026.11.13",
+    "section": "MUSIC",
+    "accent": "#eb367f",
+    "note": "원문 4건 대조: 날짜를 원문 게재일로 고침(Engadget 11.09→11.08, Music Ally 11.11→11.10, Culture Custodian 11.12→11.11, Complex 11.13→11.12). Glazier 발언(DistroKid·TuneCore 지목)은 Music Ally 인용문, DistroKid 'AI persona' 답변 뒤 통과·CD Baby 9.29 업로드 10일 뒤 10.8 승인·Freecords 차단, Knxwledge 'AI 이전 음반' 삭제와 iOS 앱 출시 확인. 사진은 Knxwledge 1장만, 나머지는 quote·stat.",
+    "sources": [
+      "Engadget — AI music can be difficult to detect, but there are some telltale signs (2026.11.08)",
+      "Music Ally — AI-music labelling 'can't be just the platforms' says RIAA boss (2026.11.10)",
+      "The Culture Custodian — We built a fake Nigerian artist from scratch, then told the distribution platforms exactly what we'd done (2026.11.11)",
+      "Complex — Knxwledge Launches Streaming Service After Distributors Remove His Music Without Explanation (2026.11.12)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 음악 · 11.08~11.12",
+      "thread": [
+        {
+          "d": "11.08",
+          "t": "귀로 판별",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        },
+        {
+          "d": "11.10",
+          "t": "유통사 지목",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        },
+        {
+          "d": "11.11",
+          "t": "가짜 통과",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        },
+        {
+          "d": "11.12",
+          "t": "진짜 삭제",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        }
+      ],
+      "thread_note": "AI 음악을 거를 관문으로 유통사가 지목됐지만, 그 관문은 가짜를 들이고 진짜를 내린다",
+      "eyebrow": "흐름 · 음악",
+      "headline": "AI 음악의 관문,\n거꾸로 걸러내다",
+      "body": "한 건씩 보면 판별 요령, 업계 발언, 실험 기사다. 이어 보면 유통사가 가짜는 통과시키고 진짜는 내린 닷새다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "quote",
+      "eyebrow": "2026.11.08",
+      "headline": "일단은 듣는 사람이\n가려내라",
+      "body": "Engadget은 단조로운 보컬, 은유 없는 가사, 흔적 없는 아티스트를 징후로 꼽았다. 다만 진짜를 AI로 오판한 예도 있다.",
+      "foot": "2026.11.08",
+      "_src": "https://www.engadget.com/2308062/ai-music-difficult-to-detect-telltale-signs/",
+      "_id": "music-engadget-ai-ear-signs",
+      "quote": "AI 보컬은 대개\n곡 내내 단조롭고\n억양이 거의 변하지 않는다",
+      "quote_by": "Engadget · AI 음악 판별법"
+    },
+    {
+      "n": 3,
+      "kind": "quote",
+      "eyebrow": "2026.11.10",
+      "headline": "RIAA, 관문은\n유통사라고 지목",
+      "body": "RIAA CEO Glazier는 완전 생성 AI 음악은 음반사가 아닌 DIY 쪽에서 나온다며 표시 책임을 유통사에 돌렸다.",
+      "foot": "2026.11.10",
+      "_src": "https://musically.com/2026/11/10/ai-music-labelling-cant-be-just-the-platforms-says-riaa-boss/",
+      "_id": "riaa-ai-labelling-glazier",
+      "quote": "관문은 DistroKid,\nTuneCore다.\n유통사들이 동참해야 한다",
+      "quote_by": "Mitch Glazier · RIAA CEO, The Verge Decoder"
+    },
+    {
+      "n": 4,
+      "kind": "stat",
+      "eyebrow": "2026.11.11",
+      "headline": "AI라고 밝혀도\n그대로 통과",
+      "body": "한 매체가 복제 목소리로 가짜 가수를 만들었다. DistroKid는 AI 페르소나라는 답에도 처리했고, CD Baby는 승인했다.",
+      "foot": "2026.11.11",
+      "_src": "https://culturecustodian.com/distributed-cloned-ai-music-fake-nigerian-artist/",
+      "_id": "culturecustodian-cloned-artist",
+      "stat_top": "\"AI 페르소나입니다\"",
+      "stat_arrow": "DistroKid의 답",
+      "stat_bottom": "배포 진행",
+      "stat_strike": false
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.11.12",
+      "headline": "AI 이전 음반이\n내려가다",
+      "body": "Knxwledge는 AI 공개 몇 년 전 낸 음반들이 설명 없이 삭제되자, 직접 리마스터한 전 카탈로그를 iOS 앱으로 냈다.",
+      "foot": "2026.11.12",
+      "_src": "https://www.complex.com/music/a/markelibert/knxwledge-streaming-app-albums-removed-distributors",
+      "_id": "knxwledge-streaming-app-takedowns",
+      "media": "pipeline/media/knxwledge-streaming-app-takedowns.png"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

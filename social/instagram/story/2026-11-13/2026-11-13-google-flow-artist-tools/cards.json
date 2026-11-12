@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "issue": "Google Flow에 작가와 만든 도구 다섯 개",
+    "date": "2026.11.13",
+    "section": "DESIGN",
+    "accent": "#0070f3",
+    "note": "자동 초안. 썸네일은 초안이라 겹친다 — 올리기로 정하면 원문을 받아 숫자를 확인하고 글을 다시 쓰면서 stat·quote 로 장을 세운다.",
+    "sources": [
+      "https://blog.google/innovation-and-ai/models-and-research/google-labs/new-google-flow-tools/"
+    ]
+  },
+  "cards": [
+    {
+      "kind": "cover",
+      "eyebrow": "AI × 디자인 · 2026.11.13",
+      "headline": "Google Flow에 작가와 만든 도구…",
+      "body": "Google이 AI 창작 스튜디오 Google Flow에 새 도구 다섯 개를 공개한다. 모두 크리에이터가 직접 만든 것으로, 구상부터…",
+      "foot": "밀어서 보기 →",
+      "video": "pipeline/media/google-flow-artist-tools.mp4",
+      "dur": 4,
+      "n": 1
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "무슨 일인가",
+      "headline": "Google Flow에 작가와 만든 도구…",
+      "body": "1. 아티스트이자 영화감독인 James Gerde가 만든 Character Poster는 간단한 스토리 콘셉트를 완성도 높고 아름답게…",
+      "foot": "2026.11.13",
+      "video": "pipeline/media/google-flow-artist-tools.mp4",
+      "n": 2
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "어떻게 되는가",
+      "headline": "Google Flow에 작가와 만든 도구…",
+      "body": "2. 영화감독 Anurag Tiwari가 만든 Character Arc는 한 캐릭터의 핵심 외형을 지키면서 여러 나이와 인생 단계를…",
+      "foot": "2026.11.13",
+      "video": "pipeline/media/google-flow-artist-tools.mp4",
+      "n": 3
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "짚을 대목",
+      "headline": "Google Flow에 작가와 만든 도구…",
+      "body": "3. 역시 Anurag Tiwari가 만든 Pixel Machine은 이미지를 비트맵, ASCII, CRT, 픽셀 아트, 글리치…",
+      "foot": "2026.11.13",
+      "video": "pipeline/media/google-flow-artist-tools.mp4",
+      "n": 4
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "그래서 지금",
+      "headline": "Google Flow에 작가와 만든 도구…",
+      "body": "4. 아티스트이자 크리에이티브 디렉터 Ezra Paulekas가 만든 Lucid Glass는 빛이 유리를 통과하는 모습을 재현해…",
+      "foot": "2026.11.13",
+      "video": "pipeline/media/google-flow-artist-tools.mp4",
+      "n": 5
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}
