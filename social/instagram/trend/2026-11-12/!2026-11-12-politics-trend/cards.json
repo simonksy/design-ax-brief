@@ -1,0 +1,113 @@
+{
+  "meta": {
+    "issue": "AI 사고, 알릴 곳을 만든다",
+    "date": "2026.11.12",
+    "section": "POLITICS",
+    "accent": "#9aa8c7",
+    "note": "원문·1차 자료 대조(11-12 재확인): 게재일 Guardian 11.10, Decoder 11.10(선언 채택 11.09), 미 재무부 연설문 11.10(미 동부, 보도자료 11.11 01:15 UTC), POLITICO 11.11. 미중 카드는 연합뉴스(로이터 인용)의 '직통 채널 구축 합의' 대신 재무부 원문 'we are establishing a direct channel…'에 맞춰 '만드는 중'으로 고치고, 출처를 재무부 연설문으로 바꿈. 채널이 이미 있다거나 중국이 합의했다는 표현은 쓰지 않음(원문은 미국 측 발언). 호주는 총리실 보도자료(11.10)로 6개 의무·'신속한 사고 통보 의무'·규제기관은 '제안' 단계임을 확인, 버크 장관 인용은 Guardian 기자회견 발언. 파리 선언은 8개국·AI 기업 4곳·중대 사고 정보 공유·셧다운 장치·기한·제재 없음을 Decoder로 확인(엘리제 원문 페이지는 찾지 못함). 핀·에 서한 문구는 POLITICO 인용. 미디어: 연합 사진(AP 통신 사진)은 쓰지 않고 quote로 바꿈. Decoder 이미지는 생성 이미지라 stat, POLITICO 사진은 Getty라 quote. 모든 주장은 발언 주체를 밝힘.",
+    "sources": [
+      "The Guardian — Australia to introduce mandatory reporting after OpenAI hack to combat artificial intelligence ‘going rogue’ (2026.11.10)",
+      "Prime Minister of Australia — New Australian AI safety and security protections (2026.11.10)",
+      "The Decoder — Eight countries and top AI labs agree to shutdown mechanisms in new Paris declaration (2026.11.10)",
+      "U.S. Department of the Treasury — Remarks from Secretary of the Treasury Scott Bessent at the National Committee on U.S.-China Relations Gala (2026.11.10)",
+      "POLITICO Europe — EU needs a system to respond to AI incidents, Finland and Estonia say (2026.11.11)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 정책 · 11.10~11.11",
+      "thread": [
+        {
+          "d": "11.10",
+          "t": "호주 의무",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        },
+        {
+          "d": "11.10",
+          "t": "파리 선언",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        },
+        {
+          "d": "11.10",
+          "t": "미중 채널",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        },
+        {
+          "d": "11.11",
+          "t": "EU 요구",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        }
+      ],
+      "thread_note": "AI 사고가 나면 누구에게 알리나, 그 통로를 나라마다 만들기 시작했다",
+      "eyebrow": "흐름 · 정책",
+      "headline": "AI 사고,\n알릴 곳을 만든다",
+      "body": "한 건씩 보면 각국 사정이다. 이틀 새 호주, 파리 선언, 미국, EU가 같은 걸 물었다. 사고가 나면 누구에게 알리나.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "quote",
+      "eyebrow": "2026.11.10",
+      "headline": "호주, AI 사고\n보고를 의무로",
+      "body": "OpenAI 에이전트의 Medicare 포털 침해 뒤, 앨버니지 정부가 신속한 사고 통보 의무와 AI 안전 규제기관 신설 방침을 밝혔다.",
+      "foot": "2026.11.10",
+      "_src": "https://www.theguardian.com/technology/2026/nov/10/australia-manadatory-reporting-openai-medicare-hack",
+      "_id": "australia-ai-incident-law",
+      "quote": "AI가 통제를 벗어날 때\n보고가 즉시\n이뤄지게 한다",
+      "quote_by": "토니 버크 · 호주 내무장관"
+    },
+    {
+      "n": 3,
+      "kind": "stat",
+      "eyebrow": "2026.11.10",
+      "headline": "8개국, 사고 정보\n나누기로",
+      "body": "파리 선언에 8개국과 AI 기업 4곳이 서명했다. 중대 사고 정보 공유와 셧다운 장치를 약속했지만 기한·제재는 없다.",
+      "foot": "2026.11.10",
+      "_src": "https://the-decoder.com/eight-countries-and-top-ai-labs-agree-to-shutdown-mechanisms-in-new-paris-declaration/",
+      "_id": "paris-call-ai-shutdown",
+      "stat_top": "서명 8개국·AI 기업 4곳",
+      "stat_arrow": "사고 정보 공유·셧다운 장치",
+      "stat_bottom": "기한·제재 없음",
+      "stat_strike": false
+    },
+    {
+      "n": 4,
+      "kind": "quote",
+      "eyebrow": "2026.11.10",
+      "headline": "미국, 中과 사고 채널 추진",
+      "body": "베선트 미 재무장관 연설. 중국과 초지능 대화를 시작했고, 중대 사고를 서로 바로 알릴 직접 채널을 만드는 중이라고 했다.",
+      "foot": "2026.11.10",
+      "_src": "https://home.treasury.gov/news/press-releases/sb0688/",
+      "_id": "bessent-uschina-ai-hotline",
+      "quote": "어느 쪽이든 중대 사고를\n즉시 알릴 수 있도록\n직접 채널을 만들고 있다",
+      "quote_by": "스콧 베선트 · 미 재무장관"
+    },
+    {
+      "n": 5,
+      "kind": "quote",
+      "eyebrow": "2026.11.11",
+      "headline": "EU 정상회의 앞,\n사고 대응 요구",
+      "body": "핀란드·에스토니아는 금요일 첫 AI 주제 유럽이사회를 앞둔 서한에서 EU 차원의 중대 AI 사고 대응 체계를 촉구했다.",
+      "foot": "2026.11.11",
+      "_src": "https://www.politico.eu/article/eu-needs-a-system-to-respond-to-ai-incidents-finland-and-estonia-say/",
+      "_id": "finland-estonia-ai-incidents",
+      "quote": "중대한 AI 사고에\n대응할\nEU 차원의 장치를",
+      "quote_by": "핀란드·에스토니아 서한 · POLITICO 인용"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

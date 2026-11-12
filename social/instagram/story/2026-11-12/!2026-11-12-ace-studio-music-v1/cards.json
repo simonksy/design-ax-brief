@@ -1,0 +1,80 @@
+{
+  "meta": {
+    "issue": "ACE Music v1, 보컬 블라인드 순위서 Suno 제쳐",
+    "date": "2026.11.11",
+    "section": "MUSIC",
+    "accent": "#eb367f",
+    "note": "Decrypt 리뷰(Jose Antonio Lanz, 2026.11.11 게재) 원문 대조. '보컬 1위'는 Decrypt 판정이 아니라 Artificial Analysis의 AA-Music-Vocal v1.1 리더보드(같은 프롬프트로 만든 곡을 모델명 없이 듣고 고르는 블라인드 선호 투표 → Elo) 결과로 귀속. 2026.11.12 리더보드 직접 확인: ACE Music v1 1160 ±21(95% 1139~1181, 표본 2,119, 순위 범위 1~2) vs Suno v6 1144 ±18(1126~1162, 표본 3,063). 기악 리더보드는 Suno v6 1148로 1위이고 ACE Music v1은 올라 있지 않음. ACE Music 공식 페이지(acemusic.ai/acemusic-v1)도 1위를 'AA-Music-Vocal v1.1, 보컬 음악 블라인드 선호이며 장르·기능별 순위가 아님'이라 적음. 'Suno보다 낫다'·끝맺음·데스메탈 평가는 Decrypt 자체 시험(Decrypt 스스로 '통제된 벤치마크 아님')으로만 표기. v1.1 Preview 인용·ABC 악보 선계획, v1 Flash 2026년 말 오픈소스 계획, 플래그십 비공개·공개 API 없음(Decrypt)은 ACE 공식 페이지로 확인. 무료 플랜 상업 이용권 없음은 acemusic.ai/pricing 확인. 정정: 초안 날짜 11.12 → 기사 게재일 11.11. 초안 썸네일(pipeline/media/ace-studio-music-v1.jpg)은 Decrypt 자체 일러스트라 쓰지 않고 전 장 stat·quote(외부 미디어 없음).",
+    "sources": [
+      "Decrypt — This New AI Music Model Is Already Better Than Suno—We Put ACE to the Test (2026.11.11)",
+      "Artificial Analysis — AA-Music-Vocal v1.1 Leaderboard (2026.11.12 확인)",
+      "ACE Music — ACE Music v1: #1 on AA's Vocal Music Leaderboard (2026.11.12 확인)"
+    ]
+  },
+  "cards": [
+    {
+      "kind": "stat",
+      "stat_top": "Suno v6 1,144",
+      "stat_arrow": "보컬 블라인드 청취 Elo",
+      "stat_bottom": "ACE 1,160",
+      "stat_strike": false,
+      "eyebrow": "AI × 음악 · 2026.11.11",
+      "headline": "보컬 1위, Suno 넘은 ACE",
+      "body": "Artificial Analysis 보컬 음악 순위에서 ACE Studio의 ACE Music v1이 Suno v6를 16점 차로 앞섰다.",
+      "foot": "밀어서 보기 →",
+      "n": 1
+    },
+    {
+      "kind": "stat",
+      "stat_top": "ACE 1,139~1,181",
+      "stat_arrow": "95% 신뢰구간이 겹친다",
+      "stat_bottom": "Suno 1,126~1,162",
+      "stat_strike": false,
+      "eyebrow": "얼마나 앞섰나",
+      "headline": "격차 16점, 박빙",
+      "body": "같은 프롬프트로 만든 두 곡을 모델 이름 없이 듣고 고르는 방식이다. 1위라도 Suno와 통계상 박빙이다.",
+      "foot": "2026.11.11",
+      "n": 2
+    },
+    {
+      "kind": "stat",
+      "stat_top": "보컬 1위 ACE",
+      "stat_arrow": "가사 없는 기악 순위로 가면",
+      "stat_bottom": "1위 Suno v6",
+      "stat_strike": false,
+      "eyebrow": "어디서 1위인가",
+      "headline": "기악은 여전히 Suno",
+      "body": "ACE도 이 1위는 보컬 음악 블라인드 선호 결과일 뿐, 장르나 기능별 순위는 아니라고 밝혔다.",
+      "foot": "2026.11.11",
+      "n": 3
+    },
+    {
+      "kind": "quote",
+      "quote": "보컬은 대체로 더 자연스러웠고,\n곡의 끝맺음도 더 깔끔했다.",
+      "quote_by": "Decrypt · 직접 써 본 리뷰",
+      "eyebrow": "직접 써 보니",
+      "headline": "끝맺음이 깔끔했다",
+      "body": "멜로딕 데스메탈을 시키자 맑은 여성 보컬을 냈다. 낯선 장르에선 Suno가 나았다는 게 Decrypt 평가다.",
+      "foot": "2026.11.11",
+      "n": 4
+    },
+    {
+      "kind": "quote",
+      "quote": "생성할 때마다 새로운 연주라,\n악보가 같아도 소리는 달라질 수 있다.",
+      "quote_by": "ACE Music · v1.1 Preview 소개",
+      "eyebrow": "그래서 볼 대목",
+      "headline": "순위보다 작곡 도구",
+      "body": "v1.1 Preview는 악보부터 짜고 소리를 낸다. 본 모델은 비공개, 경량판 Flash는 연말 공개 예정이다.",
+      "foot": "2026.11.11",
+      "n": 5
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}
