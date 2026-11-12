@@ -1,0 +1,113 @@
+{
+  "meta": {
+    "issue": "로컬 AI, 개조에서 제품으로",
+    "date": "2026.11.12",
+    "section": "GADGETS",
+    "accent": "#ff5a4d",
+    "note": "원문 4건 대조(Tom's Hardware·WIRED·9to5Mac·Notebookcheck): 게재일 11.08/11.10/11.10/11.10 확인. 2.8T Kimi K3·PMem 200·40코어 3세대 Xeon·1-bit 0.85토큰/s·12W 송풍기 2대, Kora Linux 커널·64GB RAM·2027 출시·Qualcomm Snapdragon 제휴·x86-64 지원·De Girolami 인용, Harbor는 Aaron Perris 유출(Claris 비공개 프리뷰)·오픈 웨이트·Thunderbolt 5 메모리 묶기, Aero 20코어 Grace·Blackwell·128GB·1리터·11.10 출시 확인. 고침: 4장 제목이 Apple 발표처럼 읽혀 '유출'로 귀속, 3장 'Snapdragon PC부터 나온다'는 원문이 Qualcomm 제휴+x86-64 지원이라 빼고 '2027년 출시'만 남김, 3장 본문 주어를 McMaster로 명시(인용은 De Girolami). 사진은 5장(Gigabyte 공식 이미지)만, 2·4장 stat, 3장 quote.",
+    "sources": [
+      "Tom's Hardware — Homelabber uses second-gen Optane memory sticks to run a 2.8-trillion-parameter AI model on CPU alone (2026.11.08)",
+      "WIRED — Kora, a new Linux-based desktop operating system, is built for AI nerds (2026.11.10)",
+      "9to5Mac — Apple has new Mac app coming to make running local AI models easy (2026.11.10)",
+      "Notebookcheck — Gigabyte takes on Mac Studio with a tiny AI PC powered by Nvidia RTX Spark (2026.11.10)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 가젯 · 11.08~11.10",
+      "thread": [
+        {
+          "d": "11.08",
+          "t": "Optane 개조",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        },
+        {
+          "d": "11.10",
+          "t": "AI OS",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        },
+        {
+          "d": "11.10",
+          "t": "Mac 앱 유출",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        },
+        {
+          "d": "11.10",
+          "t": "1L PC",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        }
+      ],
+      "thread_note": "집에서 하던 로컬 AI 개조가 OS·앱·완제품으로 올라오고 있다",
+      "eyebrow": "흐름 · 가젯",
+      "headline": "로컬 AI,\n개조에서 제품으로",
+      "body": "따로 보면 홈랩 개조, 신생 OS, 앱 유출, 새 PC다. 이어 보면 집에서 하던 로컬 AI가 제품으로 올라온 사흘이다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "stat",
+      "eyebrow": "2026.11.08",
+      "headline": "2.8T 모델을\n중고 Optane에",
+      "body": "Reddit의 한 홈랩 빌더가 단종된 Optane PMem 200과 40코어 Xeon으로 Kimi K3를 돌렸다. 열 탓에 송풍기 두 대를 달았다.",
+      "foot": "2026.11.08",
+      "_src": "https://www.tomshardware.com/tech-industry/artificial-intelligence/homelabber-uses-second-gen-optane-memory-sticks-to-run-a-2-8-trillion-parameter-ai-model-on-cpu-alone-warns-that-optanes-extreme-heat-can-burn-out-nearby-memory-dram-used-blower-fans-to-prevent-melting-ram",
+      "_id": "kimi-k3-optane-homelab",
+      "stat_top": "GPU 없이 CPU만",
+      "stat_arrow": "Kimi K3 · 1-bit",
+      "stat_bottom": "초당 0.85토큰",
+      "stat_strike": false
+    },
+    {
+      "n": 3,
+      "kind": "quote",
+      "eyebrow": "2026.11.10",
+      "headline": "AI를 위한\n데스크톱 OS",
+      "body": "Cyanogen 공동창업자 McMaster의 Linux 기반 OS. RAM 64GB 이상 데스크톱을 겨냥해 2027년 나온다.",
+      "foot": "2026.11.10",
+      "_src": "https://www.wired.com/story/kora-new-linux-based-desktop-operating-system-is-built-for-ai-nerds/",
+      "_id": "kora-linux-ai-desktop-os",
+      "quote": "모든 맥락,\n모든 기억이\n내 기기에 있다",
+      "quote_by": "Franck De Girolami · Kora 공동창업자"
+    },
+    {
+      "n": 4,
+      "kind": "stat",
+      "eyebrow": "2026.11.10",
+      "headline": "유출 앱, Mac을 서버로",
+      "body": "유출자 Aaron Perris가 찾은 앱 Harbor. 오픈 웨이트 모델을 Mac에서 돌리고 Thunderbolt 5로 여러 대 메모리를 묶는다.",
+      "foot": "2026.11.10",
+      "_src": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+      "_id": "apple-mac-local-ai-app",
+      "stat_top": "Mac 한 대의 메모리",
+      "stat_arrow": "Thunderbolt 5로 연결",
+      "stat_bottom": "여러 대를 한 풀로",
+      "stat_strike": false
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.11.10",
+      "headline": "로컬 AI를 담은\n1리터 PC",
+      "body": "Gigabyte AI Top Aero는 Grace CPU·Blackwell GPU에 최대 128GB를 1리터에 담았다. 개조 없이 사는 로컬 AI.",
+      "foot": "2026.11.10",
+      "_src": "https://www.notebookcheck.net/Gigabyte-takes-on-Mac-Studio-with-a-tiny-AI-PC-powered-by-Nvidia-RTX-Spark.1447215.0.html",
+      "_id": "gigabyte-aitop-aero-spark",
+      "media": "pipeline/media/gigabyte-aitop-aero-spark.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

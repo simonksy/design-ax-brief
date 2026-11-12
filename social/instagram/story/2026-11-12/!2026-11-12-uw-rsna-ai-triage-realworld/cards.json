@@ -1,0 +1,80 @@
+{
+  "meta": {
+    "issue": "AI 트리아지 11종, 실제 병원 성과는 제각각",
+    "date": "2026.11.11",
+    "section": "MEDICINE",
+    "accent": "#00897b",
+    "note": "AuntMinnie RSNA 2026 AI 프리뷰 원문(Erik L. Ridley, datePublished 2026-11-11T12:00Z = 11.11 21:00 KST)을 Playwright로 받아 전문 대조. 학술지 논문이 아니라 RSNA 2026에서 발표 예정인 초록(12월 3일 목 9:30~10:30, R3-SSIN07-1, Room E450B, 발표자 Domenico Mastrodicasa MD, University of Washington)으로 적었다. 측정 지표는 민감도·PPV가 아니라 판독 보고 소요 시간 중앙값(도입 전후 비교)이며 원문에 민감도·PPV 수치는 없다. 숫자: 알고리즘 11개·병원 3곳, 2023년 9월~2025년 8월 단계 도입, 영상 검사 742,000건 이상, 기관내 튜브 위치 이상 약 76%·늑골 골절 53%·뇌혈관 폐색 29% 단축, 폐색전증·두개내 출혈 개선 없음(연구진 해석: 추적·입원 검사 비중). 원문은 다섯 항목만 밝혀 나머지 알고리즘은 언급하지 않았다. 인용은 저자들 문장 축약 번역. 정정: 초안 날짜 11.12 → 기사 게시일 11.11. 기사에 고유 이미지 없음(og:image 없음) — 전 장 stat·quote, 외부 미디어 없음.",
+    "sources": [
+      "AuntMinnie — AI triage algorithms yield varied results in real-world use (2026.11.11)"
+    ]
+  },
+  "cards": [
+    {
+      "kind": "stat",
+      "stat_top": "AI 11종",
+      "stat_arrow": "세 병원 · 영상 검사 74만 건+",
+      "stat_bottom": "성과는 제각각",
+      "stat_strike": false,
+      "eyebrow": "AI × 의료 · 2026.11.11",
+      "headline": "AI 트리아지 성적표",
+      "body": "워싱턴대 연구진이 중요 소견을 먼저 띄우는 AI 11종을 세 병원에 들인 결과를 RSNA에서 발표한다.",
+      "foot": "밀어서 보기 →",
+      "n": 1
+    },
+    {
+      "kind": "stat",
+      "stat_top": "도입 전",
+      "stat_arrow": "판독 보고까지 걸린 시간(중앙값)",
+      "stat_bottom": "도입 후",
+      "stat_strike": false,
+      "eyebrow": "무엇을 쟀나",
+      "headline": "정확도 말고 속도",
+      "body": "2023년 9월부터 2025년 8월까지 차례로 들였다. AI가 거친 검사는 742,000건이 넘는다.",
+      "foot": "2026.11.11",
+      "n": 2
+    },
+    {
+      "kind": "stat",
+      "stat_top": "−76%",
+      "stat_arrow": "기관내 튜브 위치 이상 → 늑골 골절",
+      "stat_bottom": "−53%",
+      "stat_strike": false,
+      "eyebrow": "어디서 빨라졌나",
+      "headline": "튜브 이상 76% 단축",
+      "body": "보고 시간이 가장 크게 준 곳은 튜브 위치 이상(약 76%)이었다. 늑골 골절 53%, 뇌혈관 폐색은 29% 줄었다.",
+      "foot": "2026.11.11",
+      "n": 3
+    },
+    {
+      "kind": "stat",
+      "stat_top": "폐색전증 · 뇌출혈",
+      "stat_arrow": "AI를 들인 뒤에도",
+      "stat_bottom": "개선 없음",
+      "stat_strike": false,
+      "eyebrow": "어디선 그대로",
+      "headline": "폐색전증·뇌출혈 그대로",
+      "body": "폐색전증과 두개내 출혈은 빨라지지 않았다. 소견을 이미 아는 추적·입원 검사가 많았던 탓으로 연구진은 본다.",
+      "foot": "2026.11.11",
+      "n": 4
+    },
+    {
+      "kind": "quote",
+      "quote": "성능이 분야마다 달랐다.\n이점을 얻으려면 표적 배치와\n꾸준한 최적화가 필요하다.",
+      "quote_by": "Mastrodicasa 연구팀 · RSNA 2026 초록",
+      "eyebrow": "그래서 지금",
+      "headline": "어디에 쓸지가 먼저",
+      "body": "AI를 병원 전체에 깔기만 해선 안 된다는 얘기다. 발표는 12월 3일, 논문이 아닌 학회 초록이다.",
+      "foot": "2026.11.11",
+      "n": 5
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}
