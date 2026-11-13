@@ -1,723 +1,245 @@
 {
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "section": "music",
   "cards": [
     {
-      "id": "sonura-flow-text-loops",
+      "id": "suno-bridge-ableton",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Sonura Flow\n텍스트로 DAW 루프 생성",
-      "body": "무료 플러그인 Sonura Flow는 DAW에서 텍스트로 루프와 보컬을 만든다.",
-      "mini_headline": "텍스트로 루프 만드는 무료 플러그인",
+      "headline": "Suno Bridge가\nLive 12 안에서 작곡",
+      "body": "Suno 베타 Mac 앱이 Ableton Live 12와 연동해 파트를 만든다.",
+      "mini_headline": "Suno Bridge, Ableton 진출",
       "tool": "Music",
-      "source": "MusicTech",
-      "url": "https://musictech.com/news/gear/sonura-flow/",
+      "source": "Suno",
+      "url": "https://suno.com/blog/introducing-bridge",
       "accent": "#ff2d55",
-      "motif": "sphere",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://musictech.com/wp-content/uploads/2026/11/Sonura-Flow-hero@2000x1500-1068x801.jpg"
-          },
-          {
-            "t": "p",
-            "x": "Sonura Flow는 새로 나온 무료 플러그인으로, 프로듀서는 DAW를 떠나지 않고 간단한 텍스트 프롬프트만으로 루프와 원샷 등 새 사운드를 만들 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "원하는 사운드를 설명하고 드럼·베이스·멜로디·패드·보컬 중 카테고리를 고르면 루프와 보컬, 원샷, 효과음이 나온다."
-          },
-          {
-            "t": "p",
-            "x": "루프 길이도 정할 수 있다. 플러그인이 변형을 여러 개 내놓으면 마음에 드는 것을 골라 트랙 타임라인에 바로 끌어다 놓으면 된다."
-          },
-          {
-            "t": "p",
-            "x": "무료 플랜으로는 하루에 루프 10개, 원샷·효과음 20개, 완성 트랙을 최대 네 곡까지 만들 수 있다. 기간 제한도 결제 카드 등록도 없다. 유료 플랜은 생성 한도가 더 높다."
-          },
-          {
-            "t": "video",
-            "yt": "hTa_ysLlG9M"
-          },
-          {
-            "t": "p",
-            "x": "무료 플랜으로 만든 사운드는 모두 CC0 라이선스로 퍼블릭 도메인에 공개된다. 프로듀서는 출처 표기나 라이선스 제약 없이 자기 발매작에 쓸 수 있다. AI로 만든(AI-generated) 오디오의 권리를 둘러싼 흔한 걱정을 덜어 주는 대목이다."
-          },
-          {
-            "t": "p",
-            "x": "Sonura Flow를 설치하면 드럼 머신 Sonura Kit도 함께 깔린다. Sonura Kit는 같은 텍스트 프롬프트 방식으로 킷과 패턴을 만든다. 한 번 설치로 사운드 생성기와 비트 제작 도구를 모두 갖추는 셈이다."
-          },
-          {
-            "t": "p",
-            "x": "지원 환경은 Apple Silicon과 Intel Macs의 macOS 12 이상, 64-bit Windows 10과 11이다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Sonura Flow turns text prompts\ninto loops inside the DAW",
-          "body": "Sonura Flow is a free plugin that generates loops, vocals, one-shots and effects from text prompts inside the DAW.",
-          "mini_headline": "Free text-to-loop plugin",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://musictech.com/wp-content/uploads/2026/11/Sonura-Flow-hero@2000x1500-1068x801.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Sonura Flow is a free new plugin that lets producers generate new sounds – loops, one-shots and more – from simple text prompts without even leaving their DAW."
-              },
-              {
-                "t": "p",
-                "x": "Users can generate loops, vocals, one-shots and effects by entering a description of the sound they want and selecting a category such as drums, bass, melody, pads or vocals."
-              },
-              {
-                "t": "p",
-                "x": "They can also set the desired loop length, with the plugin generating multiple variations to choose from before dragging the preferred sound directly into the track’s timeline."
-              },
-              {
-                "t": "p",
-                "x": "The free plan allows users to generate 10 loops, 20 one-shots and effects, as well as up to four full tracks per day. It has no time limit and requires no payment card, while a paid plan offers a higher generation limit."
-              },
-              {
-                "t": "video",
-                "yt": "hTa_ysLlG9M"
-              },
-              {
-                "t": "p",
-                "x": "All sounds made on the free plan are released into the public domain under a CC0 licence, allowing producers to use them in their own releases without attribution or licensing restrictions, which addresses a common concern about the rights to AI-generated audio."
-              },
-              {
-                "t": "p",
-                "x": "Sonura Flow installs with Sonura Kit, a drum machine that builds kits and patterns using the same text-prompt approach. Producers get a sound generator and a beat-building tool from one installation."
-              },
-              {
-                "t": "p",
-                "x": "Sonura Flow supports macOS 12 or later on both Apple Silicon and Intel Macs and 64-bit Windows 10 and 11."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Sonura Flow\n텍스트로 DAW 루프 생성",
-          "body": "무료 플러그인 Sonura Flow는 DAW에서 텍스트로 루프와 보컬을 만든다.",
-          "mini_headline": "텍스트로 루프 만드는 무료 플러그인",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://musictech.com/wp-content/uploads/2026/11/Sonura-Flow-hero@2000x1500-1068x801.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Sonura Flow는 새로 나온 무료 플러그인으로, 프로듀서는 DAW를 떠나지 않고 간단한 텍스트 프롬프트만으로 루프와 원샷 등 새 사운드를 만들 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "원하는 사운드를 설명하고 드럼·베이스·멜로디·패드·보컬 중 카테고리를 고르면 루프와 보컬, 원샷, 효과음이 나온다."
-              },
-              {
-                "t": "p",
-                "x": "루프 길이도 정할 수 있다. 플러그인이 변형을 여러 개 내놓으면 마음에 드는 것을 골라 트랙 타임라인에 바로 끌어다 놓으면 된다."
-              },
-              {
-                "t": "p",
-                "x": "무료 플랜으로는 하루에 루프 10개, 원샷·효과음 20개, 완성 트랙을 최대 네 곡까지 만들 수 있다. 기간 제한도 결제 카드 등록도 없다. 유료 플랜은 생성 한도가 더 높다."
-              },
-              {
-                "t": "video",
-                "yt": "hTa_ysLlG9M"
-              },
-              {
-                "t": "p",
-                "x": "무료 플랜으로 만든 사운드는 모두 CC0 라이선스로 퍼블릭 도메인에 공개된다. 프로듀서는 출처 표기나 라이선스 제약 없이 자기 발매작에 쓸 수 있다. AI로 만든(AI-generated) 오디오의 권리를 둘러싼 흔한 걱정을 덜어 주는 대목이다."
-              },
-              {
-                "t": "p",
-                "x": "Sonura Flow를 설치하면 드럼 머신 Sonura Kit도 함께 깔린다. Sonura Kit는 같은 텍스트 프롬프트 방식으로 킷과 패턴을 만든다. 한 번 설치로 사운드 생성기와 비트 제작 도구를 모두 갖추는 셈이다."
-              },
-              {
-                "t": "p",
-                "x": "지원 환경은 Apple Silicon과 Intel Macs의 macOS 12 이상, 64-bit Windows 10과 11이다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Sonura Flow\nテキストでDAW内ループ生成",
-          "body": "無料プラグインSonura Flowは、DAW内でテキストからループやボーカルを生成する。",
-          "mini_headline": "テキストからループを作る無料プラグイン",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://musictech.com/wp-content/uploads/2026/11/Sonura-Flow-hero@2000x1500-1068x801.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Sonura Flowは、プロデューサーがDAWを離れることなく、シンプルなテキストプロンプトからループやワンショットなど新しいサウンドを生成できる新しい無料プラグインだ。"
-              },
-              {
-                "t": "p",
-                "x": "ユーザーは欲しいサウンドの説明を入力し、ドラム、ベース、メロディ、パッド、ボーカルといったカテゴリーを選ぶだけで、ループ、ボーカル、ワンショット、エフェクトを生成できる。"
-              },
-              {
-                "t": "p",
-                "x": "ループの長さも指定できる。プラグインが複数のバリエーションを生成するので、気に入ったサウンドを選んでトラックのタイムラインに直接ドラッグすればよい。"
-              },
-              {
-                "t": "p",
-                "x": "無料プランでは一日あたりループ10本、ワンショットとエフェクト20個、フルトラック最大四曲まで生成できる。期限はなく支払い用カードも不要で、有料プランではより多くの生成が可能だ。"
-              },
-              {
-                "t": "video",
-                "yt": "hTa_ysLlG9M"
-              },
-              {
-                "t": "p",
-                "x": "無料プランで作られたサウンドはすべてCC0ライセンスのもとパブリックドメインとして公開され、プロデューサーはクレジット表記やライセンス上の制約なしに自身のリリースで使える。AI生成（AI-generated）オーディオの権利をめぐるよくある懸念に応える形だ。"
-              },
-              {
-                "t": "p",
-                "x": "Sonura Flowは、同じテキストプロンプト方式でキットとパターンを作るドラムマシンSonura Kitと一緒にインストールされる。一度のインストールでサウンド生成ツールとビート制作ツールが手に入る。"
-              },
-              {
-                "t": "p",
-                "x": "Sonura Flowは、Apple SiliconおよびIntel Macs上のmacOS 12以降と、64-bit Windows 10および11に対応する。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Sonura Flow\n在DAW内用文字生成循环",
-          "body": "Sonura Flow是免费插件，可在DAW内用文字提示生成循环、人声、单次采样和音效。",
-          "mini_headline": "用文字生成循环的免费插件",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://musictech.com/wp-content/uploads/2026/11/Sonura-Flow-hero@2000x1500-1068x801.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Sonura Flow是一款全新的免费插件，制作人无需离开DAW，就能通过简单的文字提示生成循环、单次采样等新声音。"
-              },
-              {
-                "t": "p",
-                "x": "用户只需输入对所需声音的描述，并选择鼓、贝斯、旋律、铺底或人声等类别，即可生成循环、人声、单次采样和音效。"
-              },
-              {
-                "t": "p",
-                "x": "用户还可以设定所需的循环长度，插件会生成多个变体供挑选，再将选中的声音直接拖进音轨时间线。"
-              },
-              {
-                "t": "p",
-                "x": "免费方案每天可生成10段循环、20个单次采样和音效，以及最多四首完整曲目。该方案没有时间限制，也无需支付卡；付费方案则提供更高的生成额度。"
-              },
-              {
-                "t": "video",
-                "yt": "hTa_ysLlG9M"
-              },
-              {
-                "t": "p",
-                "x": "免费方案下制作的所有声音均以CC0许可证发布到公有领域，制作人可在自己的发行作品中使用，无需署名，也不受许可限制，这回应了外界对AI生成（AI-generated）音频权利的常见担忧。"
-              },
-              {
-                "t": "p",
-                "x": "Sonura Flow会与鼓机Sonura Kit一同安装，后者同样通过文字提示来构建套件和节奏型。制作人一次安装就能同时获得声音生成器和节拍制作工具。"
-              },
-              {
-                "t": "p",
-                "x": "Sonura Flow支持Apple Silicon和Intel Macs上的macOS 12及以上版本，以及64-bit Windows 10和11。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Sonura Flow convierte texto\nen loops dentro del DAW",
-          "body": "Sonura Flow es un plugin gratuito que genera loops, voces, one-shots y efectos a partir de texto dentro del DAW.",
-          "mini_headline": "Plugin gratuito de texto a loop",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://musictech.com/wp-content/uploads/2026/11/Sonura-Flow-hero@2000x1500-1068x801.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Sonura Flow es un nuevo plugin gratuito que permite a los productores generar sonidos nuevos –loops, one-shots y más– a partir de simples indicaciones de texto, sin salir siquiera de su DAW."
-              },
-              {
-                "t": "p",
-                "x": "Los usuarios pueden generar loops, voces, one-shots y efectos escribiendo una descripción del sonido que buscan y eligiendo una categoría como batería, bajo, melodía, pads o voces."
-              },
-              {
-                "t": "p",
-                "x": "También pueden fijar la duración del loop; el plugin genera varias variaciones para elegir antes de arrastrar el sonido preferido directamente a la línea de tiempo de la pista."
-              },
-              {
-                "t": "p",
-                "x": "El plan gratuito permite generar 10 loops, 20 one-shots y efectos, y hasta cuatro temas completos al día. No tiene límite de tiempo ni requiere tarjeta de pago, mientras que un plan de pago ofrece un límite de generación mayor."
-              },
-              {
-                "t": "video",
-                "yt": "hTa_ysLlG9M"
-              },
-              {
-                "t": "p",
-                "x": "Todos los sonidos creados con el plan gratuito pasan al dominio público bajo una licencia CC0, lo que permite a los productores usarlos en sus propios lanzamientos sin atribución ni restricciones de licencia, algo que responde a una preocupación habitual sobre los derechos del audio generado con AI (AI-generated)."
-              },
-              {
-                "t": "p",
-                "x": "Sonura Flow se instala junto con Sonura Kit, una caja de ritmos que crea kits y patrones con el mismo enfoque de indicaciones de texto. Los productores obtienen un generador de sonidos y una herramienta para crear beats en una sola instalación."
-              },
-              {
-                "t": "p",
-                "x": "Sonura Flow es compatible con macOS 12 o posterior en Macs con Apple Silicon e Intel, y con Windows 10 y 11 de 64-bit."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Sonura Flow\n텍스트로 DAW 루프 생성",
-          "body": "무료 플러그인 Sonura Flow는 DAW에서 텍스트로 루프와 보컬을 만든다.",
-          "mini_headline": "텍스트로 루프 만드는 무료 플러그인",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://musictech.com/wp-content/uploads/2026/11/Sonura-Flow-hero@2000x1500-1068x801.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Sonura Flow는 프로듀서가 DAW를 떠나지 않고도 간단한 텍스트 프롬프트로 루프, 원샷 등 새로운 사운드를 만들 수 있게 해 주는 새 무료 플러그인이다."
-              },
-              {
-                "t": "p",
-                "x": "사용자가 원하는 사운드를 설명하고 드럼, 베이스, 멜로디, 패드, 보컬 같은 카테고리를 고르면 루프, 보컬, 원샷, 효과음을 생성할 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "원하는 루프 길이도 정할 수 있다. 플러그인이 여러 변형을 만들어 주면 마음에 드는 사운드를 골라 트랙 타임라인에 바로 끌어다 놓으면 된다."
-              },
-              {
-                "t": "p",
-                "x": "무료 플랜에서는 하루에 루프 10개, 원샷과 효과음 20개, 완성 트랙 최대 네 곡을 만들 수 있다. 기간 제한이 없고 결제 카드도 필요 없으며, 유료 플랜은 더 높은 생성 한도를 제공한다."
-              },
-              {
-                "t": "video",
-                "yt": "hTa_ysLlG9M"
-              },
-              {
-                "t": "p",
-                "x": "무료 플랜으로 만든 모든 사운드는 CC0 라이선스에 따라 퍼블릭 도메인으로 공개된다. 프로듀서는 출처 표기나 라이선스 제약 없이 자신의 발매작에 쓸 수 있어, AI로 만든(AI-generated) 오디오의 권리를 둘러싼 흔한 우려를 덜어 준다."
-              },
-              {
-                "t": "p",
-                "x": "Sonura Flow는 같은 텍스트 프롬프트 방식으로 킷과 패턴을 만드는 드럼 머신 Sonura Kit와 함께 설치된다. 한 번 설치로 사운드 생성기와 비트 제작 도구를 모두 얻는 셈이다."
-              },
-              {
-                "t": "p",
-                "x": "Sonura Flow는 Apple Silicon과 Intel Macs의 macOS 12 이상, 그리고 64-bit Windows 10과 11을 지원한다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Sonura Flow\nテキストでDAW内ループ生成",
-          "body": "無料プラグインSonura Flowは、DAW内でテキストからループやボーカルを生成する。",
-          "mini_headline": "テキストからループを作る無料プラグイン",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://musictech.com/wp-content/uploads/2026/11/Sonura-Flow-hero@2000x1500-1068x801.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Sonura Flowは、プロデューサーがDAWを離れることなく、シンプルなテキストプロンプトからループやワンショットなど新しいサウンドを生成できる新しい無料プラグインだ。"
-              },
-              {
-                "t": "p",
-                "x": "ユーザーは欲しいサウンドの説明を入力し、ドラム、ベース、メロディ、パッド、ボーカルといったカテゴリーを選ぶだけで、ループ、ボーカル、ワンショット、エフェクトを生成できる。"
-              },
-              {
-                "t": "p",
-                "x": "ループの長さも指定できる。プラグインが複数のバリエーションを生成するので、気に入ったサウンドを選んでトラックのタイムラインに直接ドラッグすればよい。"
-              },
-              {
-                "t": "p",
-                "x": "無料プランでは一日あたりループ10本、ワンショットとエフェクト20個、フルトラック最大四曲まで生成できる。期限はなく支払い用カードも不要で、有料プランではより多くの生成が可能だ。"
-              },
-              {
-                "t": "video",
-                "yt": "hTa_ysLlG9M"
-              },
-              {
-                "t": "p",
-                "x": "無料プランで作られたサウンドはすべてCC0ライセンスのもとパブリックドメインとして公開され、プロデューサーはクレジット表記やライセンス上の制約なしに自身のリリースで使える。AI生成（AI-generated）オーディオの権利をめぐるよくある懸念に応える形だ。"
-              },
-              {
-                "t": "p",
-                "x": "Sonura Flowは、同じテキストプロンプト方式でキットとパターンを作るドラムマシンSonura Kitと一緒にインストールされる。一度のインストールでサウンド生成ツールとビート制作ツールが手に入る。"
-              },
-              {
-                "t": "p",
-                "x": "Sonura Flowは、Apple SiliconおよびIntel Macs上のmacOS 12以降と、64-bit Windows 10および11に対応する。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Sonura Flow\n在DAW内用文字生成循环",
-          "body": "Sonura Flow是免费插件，可在DAW内用文字提示生成循环、人声、单次采样和音效。",
-          "mini_headline": "用文字生成循环的免费插件",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://musictech.com/wp-content/uploads/2026/11/Sonura-Flow-hero@2000x1500-1068x801.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Sonura Flow是一款全新的免费插件，制作人无需离开DAW，就能通过简单的文字提示生成循环、单次采样等新声音。"
-              },
-              {
-                "t": "p",
-                "x": "用户只需输入对所需声音的描述，并选择鼓、贝斯、旋律、铺底或人声等类别，即可生成循环、人声、单次采样和音效。"
-              },
-              {
-                "t": "p",
-                "x": "用户还可以设定所需的循环长度，插件会生成多个变体供挑选，再将选中的声音直接拖进音轨时间线。"
-              },
-              {
-                "t": "p",
-                "x": "免费方案每天可生成10段循环、20个单次采样和音效，以及最多四首完整曲目。该方案没有时间限制，也无需支付卡；付费方案则提供更高的生成额度。"
-              },
-              {
-                "t": "video",
-                "yt": "hTa_ysLlG9M"
-              },
-              {
-                "t": "p",
-                "x": "免费方案下制作的所有声音均以CC0许可证发布到公有领域，制作人可在自己的发行作品中使用，无需署名，也不受许可限制，这回应了外界对AI生成（AI-generated）音频权利的常见担忧。"
-              },
-              {
-                "t": "p",
-                "x": "Sonura Flow会与鼓机Sonura Kit一同安装，后者同样通过文字提示来构建套件和节奏型。制作人一次安装就能同时获得声音生成器和节拍制作工具。"
-              },
-              {
-                "t": "p",
-                "x": "Sonura Flow支持Apple Silicon和Intel Macs上的macOS 12及以上版本，以及64-bit Windows 10和11。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Sonura Flow convierte texto\nen loops dentro del DAW",
-          "body": "Sonura Flow es un plugin gratuito que genera loops, voces, one-shots y efectos a partir de texto dentro del DAW.",
-          "mini_headline": "Plugin gratuito de texto a loop",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://musictech.com/wp-content/uploads/2026/11/Sonura-Flow-hero@2000x1500-1068x801.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Sonura Flow es un nuevo plugin gratuito que permite a los productores generar sonidos nuevos –loops, one-shots y más– a partir de simples indicaciones de texto, sin salir siquiera de su DAW."
-              },
-              {
-                "t": "p",
-                "x": "Los usuarios pueden generar loops, voces, one-shots y efectos escribiendo una descripción del sonido que buscan y eligiendo una categoría como batería, bajo, melodía, pads o voces."
-              },
-              {
-                "t": "p",
-                "x": "También pueden fijar la duración del loop; el plugin genera varias variaciones para elegir antes de arrastrar el sonido preferido directamente a la línea de tiempo de la pista."
-              },
-              {
-                "t": "p",
-                "x": "El plan gratuito permite generar 10 loops, 20 one-shots y efectos, y hasta cuatro temas completos al día. No tiene límite de tiempo ni requiere tarjeta de pago, mientras que un plan de pago ofrece un límite de generación mayor."
-              },
-              {
-                "t": "video",
-                "yt": "hTa_ysLlG9M"
-              },
-              {
-                "t": "p",
-                "x": "Todos los sonidos creados con el plan gratuito pasan al dominio público bajo una licencia CC0, lo que permite a los productores usarlos en sus propios lanzamientos sin atribución ni restricciones de licencia, algo que responde a una preocupación habitual sobre los derechos del audio generado con AI (AI-generated)."
-              },
-              {
-                "t": "p",
-                "x": "Sonura Flow se instala junto con Sonura Kit, una caja de ritmos que crea kits y patrones con el mismo enfoque de indicaciones de texto. Los productores obtienen un generador de sonidos y una herramienta para crear beats en una sola instalación."
-              },
-              {
-                "t": "p",
-                "x": "Sonura Flow es compatible con macOS 12 o posterior en Macs con Apple Silicon e Intel, y con Windows 10 y 11 de 64-bit."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "stable-audio-nov-workspace",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Stable Audio에\n작업공간·새 앱 추가",
-      "body": "Stable Audio에 작업공간과 Generate·Sampler 앱이 생겼다.",
-      "mini_headline": "Stable Audio 새 앱",
-      "tool": "Music",
-      "source": "Stability AI",
-      "url": "https://stability.ai/guides/whats-new-in-stable-audio-november-2026-release-notes",
-      "accent": "#0070f3",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://images.squarespace-cdn.com/content/v1/6213c340453c3f502425776e/2cc42a62-5083-4c7f-a86a-77f92b11a3d7/Stable_Audio_Release_Notes_Blog_Thumbnail_16x9.png"
+            "src": "https://cdn.sanity.io/images/cl7b1q1i/production/82b39b7eda6ba746df9166d864ce48cddb76843f-1920x1080.jpg?w=1600&h=900&fit=crop&auto=format",
+            "cap": "Suno Bridge"
           },
           {
             "t": "p",
-            "x": "Stable Audio에 앱과 프로젝트, 사운드를 한곳에 모은 새 작업공간이 생겼다. 로그인하면 Home이 먼저 뜨고, Library에서는 Stable Audio 여러 앱에서 만든 결과물을 모두 둘러보고 정리한다."
-          },
-          {
-            "t": "img",
-            "src": "https://images.squarespace-cdn.com/content/v1/6213c340453c3f502425776e/8480d97a-11fe-4346-b14f-13140df9b932/generate-01-overview.png",
-            "cap": "Generate"
+            "x": "오늘 새 독립형 앱 Suno Bridge를 선보인다. Suno의 힘과 영감을 음악 제작 소프트웨어 안으로 들여오는 앱이다. 이제 처음으로 Suno 작업 흐름을 손에 익은 VSTs, 플러그인, DAW와 함께 쓸 수 있다."
           },
           {
             "t": "p",
-            "x": "음악과 효과음 제작은 새 Generate 앱에서 시작한다. 프롬프트를 텍스트로 넣어도 되고, 장르·스타일·악기를 뜻하는 “paints”를 믹서에 여러 개 더해 시각적으로 묘사해도 된다. Lens에서는 트리밍, 페이드 추가, 구간 교체, 테이크 연장을 할 수 있다. 편집할 때마다 새 버전이 생긴다."
-          },
-          {
-            "t": "img",
-            "src": "https://images.squarespace-cdn.com/content/v1/6213c340453c3f502425776e/5fc8930d-54b7-4592-b497-a23ffe634e50/sampler-02-pack.png",
-            "cap": "Sampler"
+            "x": "Suno Bridge는 우선 베타로 나오고 Mac용 Ableton Live 12와 호환된다. 운영체제와 DAW 플랫폼은 앞으로 더 늘릴 계획이다."
           },
           {
             "t": "p",
-            "x": "Sampler는 짧은 샘플과 루프, 드럼 킷 세트를 만든다. “techno risers” 같은 프롬프트에서 출발해 변형을 최대 여덟 가지까지 뽑거나, 원샷 샘플 여덟 개짜리 드럼 킷 한 벌을 만든다. 스텝 시퀀서에서는 16-step 그리드로 악기 최대 여덟 개를 최대 32마디 패턴까지 프로그래밍한다."
+            "x": "Bridge는 Ableton Live 옆에서 함께 돌아가므로 두 앱을 모두 열어 둬야 한다. Bridge에 프롬프트를 넣으면 Ableton 세션의 템포, 키, 스타일, 화성, 그루브에 맞춘 새 악기 연주와 보컬이 만들어져 타임라인에 곧바로 올라간다. 동기화하려면 세션 파일을 Suno에 올려야 하고 프롬프트가 적용되는 구간은 Arrangement View의 루프 시작/끝 마커로 정한다."
+          },
+          {
+            "t": "video",
+            "yt": "w0jgwmAObd0"
           },
           {
             "t": "p",
-            "x": "Labs는 실험 단계의 베타 앱을 모은 새 공간이다. 베타 멀티트랙 앱 Sessions도 이곳으로 옮겨 왔다. Full mix 모드나 편집 가능한 여덟 트랙 덱을 쓸 수 있다. 모든 기능은 상업적으로 안전한 모델이 돌리고, 결과물 소유권은 사용자에게 있다."
+            "x": "Bridge는 내 음악에 맞춘 고유한 사운드가 끝없이 들어 있는 라이브러리나 다름없다. 묵혀 둔 세션을 완성곡으로 끌어올리고 창작의 벽도 넘을 수 있다. 그러면서도 플러그인과 오디오 라우팅, Live에서 익힌 모든 것은 그대로 지킨다."
+          },
+          {
+            "t": "p",
+            "x": "Suno Bridge(베타)는 모든 Premier 구독에 들어 있다. 지금은 Mac의 Ableton Live 12에서 작동한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Stable Audio adds a workspace\nand Generate and Sampler apps",
-          "body": "Stable Audio adds a project workspace, a Generate app for full tracks and a Sampler app for sample packs.",
-          "mini_headline": "Stable Audio gets new apps",
+          "headline": "Suno Bridge writes parts\ninside Ableton Live 12",
+          "body": "Suno's beta Mac app syncs with Ableton Live 12 and drops parts that follow tempo, key and chords onto the timeline.",
+          "mini_headline": "Suno Bridge enters Ableton",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.squarespace-cdn.com/content/v1/6213c340453c3f502425776e/2cc42a62-5083-4c7f-a86a-77f92b11a3d7/Stable_Audio_Release_Notes_Blog_Thumbnail_16x9.png"
+                "src": "https://cdn.sanity.io/images/cl7b1q1i/production/82b39b7eda6ba746df9166d864ce48cddb76843f-1920x1080.jpg?w=1600&h=900&fit=crop&auto=format",
+                "cap": "Suno Bridge"
               },
               {
                 "t": "p",
-                "x": "Stable Audio has a new workspace that brings your apps, projects, and sounds together in one place. Home is where you land when you sign in; Library is where you browse and organize everything you've made across Stable Audio's apps."
-              },
-              {
-                "t": "img",
-                "src": "https://images.squarespace-cdn.com/content/v1/6213c340453c3f502425776e/8480d97a-11fe-4346-b14f-13140df9b932/generate-01-overview.png",
-                "cap": "Generate"
+                "x": "Today, we are introducing Suno Bridge, a new standalone app that brings the power and inspiration of Suno into your music production software. For the first time you can combine your Suno workflow with the VSTs, plugins and DAW you already know."
               },
               {
                 "t": "p",
-                "x": "The new Generate app is where you can start making music and sound effects. Prompt with text, or describe it visually by adding different \"paints\" to a mixer representing genres, styles, and instruments. Use the Lens to trim, add fades, replace a section, or extend a take; each edit creates a new version."
-              },
-              {
-                "t": "img",
-                "src": "https://images.squarespace-cdn.com/content/v1/6213c340453c3f502425776e/5fc8930d-54b7-4592-b497-a23ffe634e50/sampler-02-pack.png",
-                "cap": "Sampler"
+                "x": "Initially launching in beta, Suno Bridge will be compatible with Ableton Live 12 running on a Mac. We plan to expand to more operating systems and DAW platforms in the future."
               },
               {
                 "t": "p",
-                "x": "Sampler makes sets of short samples, loops, or drum kits. Start with a prompt like \"techno risers\" and generate up to eight variations, or a full drum kit with eight one-shot samples. Its step sequencer programs up to eight instruments on a 16-step grid, in patterns up to 32 bars."
+                "x": "Bridge runs alongside Ableton Live, and both apps need to be open. Prompts entered in Bridge create brand new instrumentation and vocals that fit the tempo, key, style, harmonic content and groove of your Ableton session, dropped straight onto your timeline. Syncing involves uploading your session files to Suno; the loop start/end markers in Arrangement View set the prompting window."
+              },
+              {
+                "t": "video",
+                "yt": "w0jgwmAObd0"
               },
               {
                 "t": "p",
-                "x": "Labs is a new place for experimental beta apps. Sessions, the multitrack app in beta, now lives there and offers a Full mix mode or an editable eight-track deck. Everything is powered by commercially safe models, and you own your outputs."
+                "x": "Think of Bridge like an endless library of unique sounds designed to fit your music: turn old sessions into finished songs, get past creative roadblocks, and keep your plugins, audio routing and everything you've mastered in Live."
+              },
+              {
+                "t": "p",
+                "x": "Suno Bridge (beta) is included with all Premier subscriptions. It currently works with Ableton Live 12 on a Mac."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Stable Audio에\n작업공간·새 앱 추가",
-          "body": "Stable Audio에 작업공간과 Generate·Sampler 앱이 생겼다.",
-          "mini_headline": "Stable Audio 새 앱",
+          "headline": "Suno Bridge가\nLive 12 안에서 작곡",
+          "body": "Suno 베타 Mac 앱이 Ableton Live 12와 연동해 파트를 만든다.",
+          "mini_headline": "Suno Bridge, Ableton 진출",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.squarespace-cdn.com/content/v1/6213c340453c3f502425776e/2cc42a62-5083-4c7f-a86a-77f92b11a3d7/Stable_Audio_Release_Notes_Blog_Thumbnail_16x9.png"
+                "src": "https://cdn.sanity.io/images/cl7b1q1i/production/82b39b7eda6ba746df9166d864ce48cddb76843f-1920x1080.jpg?w=1600&h=900&fit=crop&auto=format",
+                "cap": "Suno Bridge"
               },
               {
                 "t": "p",
-                "x": "Stable Audio에 앱과 프로젝트, 사운드를 한곳에 모은 새 작업공간이 생겼다. 로그인하면 Home이 먼저 뜨고, Library에서는 Stable Audio 여러 앱에서 만든 결과물을 모두 둘러보고 정리한다."
-              },
-              {
-                "t": "img",
-                "src": "https://images.squarespace-cdn.com/content/v1/6213c340453c3f502425776e/8480d97a-11fe-4346-b14f-13140df9b932/generate-01-overview.png",
-                "cap": "Generate"
+                "x": "오늘 새 독립형 앱 Suno Bridge를 선보인다. Suno의 힘과 영감을 음악 제작 소프트웨어 안으로 들여오는 앱이다. 이제 처음으로 Suno 작업 흐름을 손에 익은 VSTs, 플러그인, DAW와 함께 쓸 수 있다."
               },
               {
                 "t": "p",
-                "x": "음악과 효과음 제작은 새 Generate 앱에서 시작한다. 프롬프트를 텍스트로 넣어도 되고, 장르·스타일·악기를 뜻하는 “paints”를 믹서에 여러 개 더해 시각적으로 묘사해도 된다. Lens에서는 트리밍, 페이드 추가, 구간 교체, 테이크 연장을 할 수 있다. 편집할 때마다 새 버전이 생긴다."
-              },
-              {
-                "t": "img",
-                "src": "https://images.squarespace-cdn.com/content/v1/6213c340453c3f502425776e/5fc8930d-54b7-4592-b497-a23ffe634e50/sampler-02-pack.png",
-                "cap": "Sampler"
+                "x": "Suno Bridge는 우선 베타로 나오고 Mac용 Ableton Live 12와 호환된다. 운영체제와 DAW 플랫폼은 앞으로 더 늘릴 계획이다."
               },
               {
                 "t": "p",
-                "x": "Sampler는 짧은 샘플과 루프, 드럼 킷 세트를 만든다. “techno risers” 같은 프롬프트에서 출발해 변형을 최대 여덟 가지까지 뽑거나, 원샷 샘플 여덟 개짜리 드럼 킷 한 벌을 만든다. 스텝 시퀀서에서는 16-step 그리드로 악기 최대 여덟 개를 최대 32마디 패턴까지 프로그래밍한다."
+                "x": "Bridge는 Ableton Live 옆에서 함께 돌아가므로 두 앱을 모두 열어 둬야 한다. Bridge에 프롬프트를 넣으면 Ableton 세션의 템포, 키, 스타일, 화성, 그루브에 맞춘 새 악기 연주와 보컬이 만들어져 타임라인에 곧바로 올라간다. 동기화하려면 세션 파일을 Suno에 올려야 하고 프롬프트가 적용되는 구간은 Arrangement View의 루프 시작/끝 마커로 정한다."
+              },
+              {
+                "t": "video",
+                "yt": "w0jgwmAObd0"
               },
               {
                 "t": "p",
-                "x": "Labs는 실험 단계의 베타 앱을 모은 새 공간이다. 베타 멀티트랙 앱 Sessions도 이곳으로 옮겨 왔다. Full mix 모드나 편집 가능한 여덟 트랙 덱을 쓸 수 있다. 모든 기능은 상업적으로 안전한 모델이 돌리고, 결과물 소유권은 사용자에게 있다."
+                "x": "Bridge는 내 음악에 맞춘 고유한 사운드가 끝없이 들어 있는 라이브러리나 다름없다. 묵혀 둔 세션을 완성곡으로 끌어올리고 창작의 벽도 넘을 수 있다. 그러면서도 플러그인과 오디오 라우팅, Live에서 익힌 모든 것은 그대로 지킨다."
+              },
+              {
+                "t": "p",
+                "x": "Suno Bridge(베타)는 모든 Premier 구독에 들어 있다. 지금은 Mac의 Ableton Live 12에서 작동한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Stable Audioに\nワークスペースと新アプリ",
-          "body": "Stable Audioが作業空間とGenerate・Samplerアプリを追加した。",
-          "mini_headline": "Stable Audioに新アプリ",
+          "headline": "Suno Bridge、\nLive 12でパート生成",
+          "body": "SunoのMac用ベータ版がAbleton Live 12 と連携し、パートを生成する。",
+          "mini_headline": "Suno Bridge、Abletonに参入",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.squarespace-cdn.com/content/v1/6213c340453c3f502425776e/2cc42a62-5083-4c7f-a86a-77f92b11a3d7/Stable_Audio_Release_Notes_Blog_Thumbnail_16x9.png"
+                "src": "https://cdn.sanity.io/images/cl7b1q1i/production/82b39b7eda6ba746df9166d864ce48cddb76843f-1920x1080.jpg?w=1600&h=900&fit=crop&auto=format",
+                "cap": "Suno Bridge"
               },
               {
                 "t": "p",
-                "x": "Stable Audioに、アプリ、プロジェクト、サウンドを一か所にまとめる新しいワークスペースが加わった。サインインすると最初に表示されるのがHome、Stable Audioの各アプリで作ったものすべてを閲覧・整理できるのがLibraryだ。"
-              },
-              {
-                "t": "img",
-                "src": "https://images.squarespace-cdn.com/content/v1/6213c340453c3f502425776e/8480d97a-11fe-4346-b14f-13140df9b932/generate-01-overview.png",
-                "cap": "Generate"
+                "x": "本日、新たなスタンドアロンアプリSuno Bridgeを発表する。Sunoの力とひらめきを音楽制作ソフトウェアの中に持ち込むアプリだ。初めて、Sunoのワークフローを使い慣れたVSTs、プラグイン、DAWと組み合わせられる。"
               },
               {
                 "t": "p",
-                "x": "新しいGenerateアプリでは、音楽や効果音の制作を始められる。テキストでプロンプトを入力するか、ジャンル、スタイル、楽器を表すミキサーにさまざまな「paints」を加えて視覚的に表現することもできる。Lensを使えば、トリミング、フェードの追加、セクションの差し替え、テイクの延長が可能で、編集のたびに新しいバージョンが作られる。"
-              },
-              {
-                "t": "img",
-                "src": "https://images.squarespace-cdn.com/content/v1/6213c340453c3f502425776e/5fc8930d-54b7-4592-b497-a23ffe634e50/sampler-02-pack.png",
-                "cap": "Sampler"
+                "x": "Suno Bridgeはまずベータ版として提供され、Mac上で動作するAbleton Live 12に対応する。今後はより多くのOSとDAWプラットフォームに広げる予定だ。"
               },
               {
                 "t": "p",
-                "x": "Samplerは短いサンプル、ループ、ドラムキットのセットを作る。「techno risers」のようなプロンプトから最大八つのバリエーションを生成したり、八つのワンショットサンプルからなるドラムキット一式を生成したりできる。ステップシーケンサーでは、16-stepのグリッド上で最大八つの楽器を、最大32小節のパターンでプログラムできる。"
+                "x": "BridgeはAbleton Liveと並行して動作し、両方のアプリを開いておく必要がある。Bridgeに入力したプロンプトは、Abletonセッションのテンポ、キー、スタイル、和声、グルーヴに合う新しい楽器パートとボーカルを生成し、タイムラインに直接配置する。同期にはセッションファイルをSunoにアップロードする必要があり、Arrangement Viewのループ開始/終了マーカーがプロンプトの対象範囲を決める。"
+              },
+              {
+                "t": "video",
+                "yt": "w0jgwmAObd0"
               },
               {
                 "t": "p",
-                "x": "Labsは実験的なベータアプリのための新しい場所だ。ベータ版のマルチトラックアプリSessionsは現在ここに移り、Full mixモードか、編集可能な八トラックのデッキを使える。すべて商用利用に安全なモデルで動いており、生成物はユーザーが所有する。"
+                "x": "Bridgeは、自分の音楽に合わせて設計された独自のサウンドが尽きることなく揃うライブラリのようなものだ。古いセッションを完成曲に仕上げ、創作の行き詰まりを乗り越え、プラグインやオーディオルーティング、Liveで身につけたすべてをそのまま生かせる。"
+              },
+              {
+                "t": "p",
+                "x": "Suno Bridge(ベータ版)はすべてのPremierサブスクリプションに含まれる。現在はMac版Ableton Live 12で動作する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Stable Audio新增\n工作区与新应用",
-          "body": "Stable Audio新增项目工作区以及Generate与Sampler应用。",
-          "mini_headline": "Stable Audio推出新应用",
+          "headline": "Suno Bridge\n在Live 12中写声部",
+          "body": "Suno的Mac测试版应用与Ableton Live 12 同步，将声部直接放上时间线。",
+          "mini_headline": "Suno Bridge 进驻 Ableton",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.squarespace-cdn.com/content/v1/6213c340453c3f502425776e/2cc42a62-5083-4c7f-a86a-77f92b11a3d7/Stable_Audio_Release_Notes_Blog_Thumbnail_16x9.png"
+                "src": "https://cdn.sanity.io/images/cl7b1q1i/production/82b39b7eda6ba746df9166d864ce48cddb76843f-1920x1080.jpg?w=1600&h=900&fit=crop&auto=format",
+                "cap": "Suno Bridge"
               },
               {
                 "t": "p",
-                "x": "Stable Audio推出了新的工作区，把应用、项目和声音集中到一处。登录后首先进入Home；在Library中可以浏览和整理在Stable Audio各个应用中创作的全部内容。"
-              },
-              {
-                "t": "img",
-                "src": "https://images.squarespace-cdn.com/content/v1/6213c340453c3f502425776e/8480d97a-11fe-4346-b14f-13140df9b932/generate-01-overview.png",
-                "cap": "Generate"
+                "x": "今天，我们推出全新独立应用Suno Bridge，把Suno的能力与灵感带进你的音乐制作软件。你第一次可以把Suno工作流程与早已熟悉的VSTs、插件和DAW结合使用。"
               },
               {
                 "t": "p",
-                "x": "新的Generate应用是开始制作音乐和音效的地方。可以用文字输入提示，也可以在代表流派、风格和乐器的混音器中加入不同的“paints”，以可视化方式进行描述。使用Lens可以修剪、添加淡入淡出、替换片段或延长一段录音；每次编辑都会生成一个新版本。"
-              },
-              {
-                "t": "img",
-                "src": "https://images.squarespace-cdn.com/content/v1/6213c340453c3f502425776e/5fc8930d-54b7-4592-b497-a23ffe634e50/sampler-02-pack.png",
-                "cap": "Sampler"
+                "x": "Suno Bridge首先以测试版推出，兼容在Mac上运行的Ableton Live 12。我们计划未来扩展到更多操作系统和DAW平台。"
               },
               {
                 "t": "p",
-                "x": "Sampler用于制作成套的短采样、循环或鼓组。从“techno risers”这样的提示开始，最多可生成八个变体，或生成一套包含八个单次采样的完整鼓组。其步进音序器可在16-step网格上为最多八种乐器编程，模式长度最多32小节。"
+                "x": "Bridge与Ableton Live并行运行，两个应用都需要保持打开。在Bridge中输入的提示词会生成全新的器乐和人声，契合Ableton工程的速度、调性、风格、和声内容与律动，并直接放到时间线上。同步时需要把工程文件上传到Suno；Arrangement View中的循环起点/终点标记决定提示词作用的区间。"
+              },
+              {
+                "t": "video",
+                "yt": "w0jgwmAObd0"
               },
               {
                 "t": "p",
-                "x": "Labs是面向实验性测试版应用的新空间。处于测试阶段的多轨应用Sessions现已移至此处，提供Full mix模式或可编辑的八轨音轨台。所有功能均由商业上安全的模型驱动，生成内容归用户所有。"
+                "x": "可以把Bridge看作一座为你的音乐量身打造、取之不尽的独特音色库：把旧工程变成完整歌曲，突破创作瓶颈，同时保留你的插件、音频路由以及在Live中掌握的一切。"
+              },
+              {
+                "t": "p",
+                "x": "Suno Bridge（测试版）包含在所有Premier订阅中。目前适用于Mac上的Ableton Live 12。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Stable Audio estrena espacio\ny apps Generate y Sampler",
-          "body": "Stable Audio añade un espacio de proyectos, la app Generate para temas completos y Sampler para packs de muestras.",
-          "mini_headline": "Nuevas apps en Stable Audio",
+          "headline": "Suno Bridge crea partes\ndentro de Ableton Live 12",
+          "body": "La app beta de Suno para Mac se sincroniza con Ableton Live 12 y crea partes que siguen tempo, tonalidad y acordes.",
+          "mini_headline": "Suno Bridge llega a Ableton",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.squarespace-cdn.com/content/v1/6213c340453c3f502425776e/2cc42a62-5083-4c7f-a86a-77f92b11a3d7/Stable_Audio_Release_Notes_Blog_Thumbnail_16x9.png"
+                "src": "https://cdn.sanity.io/images/cl7b1q1i/production/82b39b7eda6ba746df9166d864ce48cddb76843f-1920x1080.jpg?w=1600&h=900&fit=crop&auto=format",
+                "cap": "Suno Bridge"
               },
               {
                 "t": "p",
-                "x": "Stable Audio tiene un nuevo espacio de trabajo que reúne tus apps, proyectos y sonidos en un solo lugar. Home es donde llegas al iniciar sesión; Library es donde exploras y organizas todo lo que has creado en las apps de Stable Audio."
-              },
-              {
-                "t": "img",
-                "src": "https://images.squarespace-cdn.com/content/v1/6213c340453c3f502425776e/8480d97a-11fe-4346-b14f-13140df9b932/generate-01-overview.png",
-                "cap": "Generate"
+                "x": "Hoy presentamos Suno Bridge, una nueva aplicación independiente que lleva la potencia y la inspiración de Suno a tu software de producción musical. Por primera vez puedes combinar tu flujo de trabajo en Suno con los VSTs, plugins y el DAW que ya conoces."
               },
               {
                 "t": "p",
-                "x": "La nueva app Generate es el punto de partida para crear música y efectos de sonido. Puedes dar indicaciones con texto o describir el sonido de forma visual añadiendo distintas “paints” a un mezclador que representa géneros, estilos e instrumentos. Con Lens puedes recortar, añadir fundidos, sustituir una sección o alargar una toma; cada edición crea una nueva versión."
-              },
-              {
-                "t": "img",
-                "src": "https://images.squarespace-cdn.com/content/v1/6213c340453c3f502425776e/5fc8930d-54b7-4592-b497-a23ffe634e50/sampler-02-pack.png",
-                "cap": "Sampler"
+                "x": "Suno Bridge se lanza inicialmente en beta y será compatible con Ableton Live 12 en Mac. Tenemos previsto ampliarlo a más sistemas operativos y plataformas DAW en el futuro."
               },
               {
                 "t": "p",
-                "x": "Sampler crea conjuntos de samples cortos, loops o kits de batería. Se parte de una indicación como “techno risers” y se generan hasta ocho variaciones, o un kit de batería completo con ocho samples one-shot. Su secuenciador por pasos programa hasta ocho instrumentos en una cuadrícula 16-step, en patrones de hasta 32 compases."
+                "x": "Bridge funciona junto a Ableton Live y ambas aplicaciones deben estar abiertas. Los prompts introducidos en Bridge crean instrumentación y voces completamente nuevas que se ajustan al tempo, la tonalidad, el estilo, el contenido armónico y el groove de tu sesión de Ableton, y se colocan directamente en la línea de tiempo. La sincronización implica subir los archivos de la sesión a Suno; los marcadores de inicio/fin del loop en Arrangement View definen la ventana del prompt."
+              },
+              {
+                "t": "video",
+                "yt": "w0jgwmAObd0"
               },
               {
                 "t": "p",
-                "x": "Labs es un nuevo espacio para apps experimentales en beta. Sessions, la app multipista en beta, se encuentra ahora allí y ofrece un modo Full mix o una mesa editable de ocho pistas. Todo funciona con modelos comercialmente seguros, y los resultados son tuyos."
+                "x": "Piensa en Bridge como una biblioteca infinita de sonidos únicos diseñados para encajar con tu música: convierte sesiones antiguas en canciones terminadas, supera bloqueos creativos y conserva tus plugins, tu enrutamiento de audio y todo lo que dominas en Live."
+              },
+              {
+                "t": "p",
+                "x": "Suno Bridge (beta) está incluido en todas las suscripciones Premier. Por ahora funciona con Ableton Live 12 en Mac."
               }
             ]
           }
@@ -725,161 +247,157 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Stable Audio,\n작업공간과 새 앱 추가",
-          "body": "Stable Audio가 작업공간과 Generate·Sampler 앱을 추가했다.",
-          "mini_headline": "Stable Audio 새 앱",
+          "headline": "Suno Bridge가\nLive 12 안에서 작곡",
+          "body": "Suno 베타 Mac 앱이 Ableton Live 12와 연동해 파트를 만든다.",
+          "mini_headline": "Suno Bridge, Ableton 진출",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.squarespace-cdn.com/content/v1/6213c340453c3f502425776e/2cc42a62-5083-4c7f-a86a-77f92b11a3d7/Stable_Audio_Release_Notes_Blog_Thumbnail_16x9.png"
+                "src": "https://cdn.sanity.io/images/cl7b1q1i/production/82b39b7eda6ba746df9166d864ce48cddb76843f-1920x1080.jpg?w=1600&h=900&fit=crop&auto=format",
+                "cap": "Suno Bridge"
               },
               {
                 "t": "p",
-                "x": "Stable Audio에 앱과 프로젝트, 사운드를 한곳에 모은 새 작업공간이 생겼다. 로그인하면 Home이 먼저 나오고, Library에서는 Stable Audio의 여러 앱에서 만든 모든 것을 둘러보고 정리할 수 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://images.squarespace-cdn.com/content/v1/6213c340453c3f502425776e/8480d97a-11fe-4346-b14f-13140df9b932/generate-01-overview.png",
-                "cap": "Generate"
+                "x": "오늘 새 독립형 앱 Suno Bridge를 소개한다. Suno의 힘과 영감을 음악 제작 소프트웨어 안으로 가져오는 앱이다. 처음으로 Suno 작업 흐름을 이미 익숙한 VSTs, 플러그인, DAW와 함께 쓸 수 있다."
               },
               {
                 "t": "p",
-                "x": "새 Generate 앱에서 음악과 효과음 제작을 시작할 수 있다. 텍스트로 프롬프트를 넣거나, 장르·스타일·악기를 나타내는 믹서에 여러 “paints”를 더해 시각적으로 묘사할 수도 있다. Lens로 트리밍, 페이드 추가, 구간 교체, 테이크 연장을 할 수 있고, 편집할 때마다 새 버전이 만들어진다."
-              },
-              {
-                "t": "img",
-                "src": "https://images.squarespace-cdn.com/content/v1/6213c340453c3f502425776e/5fc8930d-54b7-4592-b497-a23ffe634e50/sampler-02-pack.png",
-                "cap": "Sampler"
+                "x": "Suno Bridge는 먼저 베타로 나오며, Mac에서 실행되는 Ableton Live 12와 호환된다. 앞으로 더 많은 운영체제와 DAW 플랫폼으로 넓힐 계획이다."
               },
               {
                 "t": "p",
-                "x": "Sampler는 짧은 샘플, 루프, 드럼 킷 세트를 만든다. “techno risers” 같은 프롬프트로 시작해 최대 여덟 가지 변형을 만들거나, 원샷 샘플 여덟 개로 된 드럼 킷 한 벌을 만들 수 있다. 스텝 시퀀서로는 16-step 그리드에서 최대 여덟 개 악기를 최대 32마디 패턴으로 프로그래밍할 수 있다."
+                "x": "Bridge는 Ableton Live와 나란히 실행되며, 두 앱을 모두 열어 두어야 한다. Bridge에 입력한 프롬프트는 Ableton 세션의 템포, 키, 스타일, 화성, 그루브에 맞는 새 악기 연주와 보컬을 만들어 타임라인에 곧바로 올린다. 동기화하려면 세션 파일을 Suno에 업로드해야 하며, Arrangement View의 루프 시작/끝 마커가 프롬프트 적용 구간을 정한다."
+              },
+              {
+                "t": "video",
+                "yt": "w0jgwmAObd0"
               },
               {
                 "t": "p",
-                "x": "Labs는 실험적인 베타 앱을 위한 새 공간이다. 베타 중인 멀티트랙 앱 Sessions가 이제 이곳으로 옮겨 왔으며, Full mix 모드나 편집 가능한 여덟 트랙 덱을 제공한다. 모든 기능은 상업적으로 안전한 모델로 구동되며, 결과물의 소유권은 사용자에게 있다."
+                "x": "Bridge는 내 음악에 맞춰 설계된 고유한 사운드를 끝없이 담은 라이브러리와 같다. 오래된 세션을 완성곡으로 바꾸고, 창작의 벽을 넘고, 플러그인과 오디오 라우팅, Live에서 익힌 모든 것을 그대로 지킬 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "Suno Bridge(베타)는 모든 Premier 구독에 포함된다. 현재는 Mac의 Ableton Live 12에서 작동한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Stable Audioに\nワークスペースと新アプリ",
-          "body": "Stable Audioが作業空間とGenerate・Samplerアプリを追加した。",
-          "mini_headline": "Stable Audioに新アプリ",
+          "headline": "Suno Bridge、\nLive 12でパート生成",
+          "body": "SunoのMac用ベータ版がAbleton Live 12 と連携し、パートを生成する。",
+          "mini_headline": "Suno Bridge、Abletonに参入",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.squarespace-cdn.com/content/v1/6213c340453c3f502425776e/2cc42a62-5083-4c7f-a86a-77f92b11a3d7/Stable_Audio_Release_Notes_Blog_Thumbnail_16x9.png"
+                "src": "https://cdn.sanity.io/images/cl7b1q1i/production/82b39b7eda6ba746df9166d864ce48cddb76843f-1920x1080.jpg?w=1600&h=900&fit=crop&auto=format",
+                "cap": "Suno Bridge"
               },
               {
                 "t": "p",
-                "x": "Stable Audioに、アプリ、プロジェクト、サウンドを一か所にまとめる新しいワークスペースが加わった。サインインすると最初に表示されるのがHome、Stable Audioの各アプリで作ったものすべてを閲覧・整理できるのがLibraryだ。"
-              },
-              {
-                "t": "img",
-                "src": "https://images.squarespace-cdn.com/content/v1/6213c340453c3f502425776e/8480d97a-11fe-4346-b14f-13140df9b932/generate-01-overview.png",
-                "cap": "Generate"
+                "x": "本日、新たなスタンドアロンアプリSuno Bridgeを発表する。Sunoの力とひらめきを音楽制作ソフトウェアの中に持ち込むアプリだ。初めて、Sunoのワークフローを使い慣れたVSTs、プラグイン、DAWと組み合わせられる。"
               },
               {
                 "t": "p",
-                "x": "新しいGenerateアプリでは、音楽や効果音の制作を始められる。テキストでプロンプトを入力するか、ジャンル、スタイル、楽器を表すミキサーにさまざまな「paints」を加えて視覚的に表現することもできる。Lensを使えば、トリミング、フェードの追加、セクションの差し替え、テイクの延長が可能で、編集のたびに新しいバージョンが作られる。"
-              },
-              {
-                "t": "img",
-                "src": "https://images.squarespace-cdn.com/content/v1/6213c340453c3f502425776e/5fc8930d-54b7-4592-b497-a23ffe634e50/sampler-02-pack.png",
-                "cap": "Sampler"
+                "x": "Suno Bridgeはまずベータ版として提供され、Mac上で動作するAbleton Live 12に対応する。今後はより多くのOSとDAWプラットフォームに広げる予定だ。"
               },
               {
                 "t": "p",
-                "x": "Samplerは短いサンプル、ループ、ドラムキットのセットを作る。「techno risers」のようなプロンプトから最大八つのバリエーションを生成したり、八つのワンショットサンプルからなるドラムキット一式を生成したりできる。ステップシーケンサーでは、16-stepのグリッド上で最大八つの楽器を、最大32小節のパターンでプログラムできる。"
+                "x": "BridgeはAbleton Liveと並行して動作し、両方のアプリを開いておく必要がある。Bridgeに入力したプロンプトは、Abletonセッションのテンポ、キー、スタイル、和声、グルーヴに合う新しい楽器パートとボーカルを生成し、タイムラインに直接配置する。同期にはセッションファイルをSunoにアップロードする必要があり、Arrangement Viewのループ開始/終了マーカーがプロンプトの対象範囲を決める。"
+              },
+              {
+                "t": "video",
+                "yt": "w0jgwmAObd0"
               },
               {
                 "t": "p",
-                "x": "Labsは実験的なベータアプリのための新しい場所だ。ベータ版のマルチトラックアプリSessionsは現在ここに移り、Full mixモードか、編集可能な八トラックのデッキを使える。すべて商用利用に安全なモデルで動いており、生成物はユーザーが所有する。"
+                "x": "Bridgeは、自分の音楽に合わせて設計された独自のサウンドが尽きることなく揃うライブラリのようなものだ。古いセッションを完成曲に仕上げ、創作の行き詰まりを乗り越え、プラグインやオーディオルーティング、Liveで身につけたすべてをそのまま生かせる。"
+              },
+              {
+                "t": "p",
+                "x": "Suno Bridge(ベータ版)はすべてのPremierサブスクリプションに含まれる。現在はMac版Ableton Live 12で動作する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Stable Audio新增\n工作区与新应用",
-          "body": "Stable Audio新增项目工作区以及Generate与Sampler应用。",
-          "mini_headline": "Stable Audio推出新应用",
+          "headline": "Suno Bridge\n在Live 12中写声部",
+          "body": "Suno的Mac测试版应用与Ableton Live 12 同步，将声部直接放上时间线。",
+          "mini_headline": "Suno Bridge 进驻 Ableton",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.squarespace-cdn.com/content/v1/6213c340453c3f502425776e/2cc42a62-5083-4c7f-a86a-77f92b11a3d7/Stable_Audio_Release_Notes_Blog_Thumbnail_16x9.png"
+                "src": "https://cdn.sanity.io/images/cl7b1q1i/production/82b39b7eda6ba746df9166d864ce48cddb76843f-1920x1080.jpg?w=1600&h=900&fit=crop&auto=format",
+                "cap": "Suno Bridge"
               },
               {
                 "t": "p",
-                "x": "Stable Audio推出了新的工作区，把应用、项目和声音集中到一处。登录后首先进入Home；在Library中可以浏览和整理在Stable Audio各个应用中创作的全部内容。"
-              },
-              {
-                "t": "img",
-                "src": "https://images.squarespace-cdn.com/content/v1/6213c340453c3f502425776e/8480d97a-11fe-4346-b14f-13140df9b932/generate-01-overview.png",
-                "cap": "Generate"
+                "x": "今天，我们推出全新独立应用Suno Bridge，把Suno的能力与灵感带进你的音乐制作软件。你第一次可以把Suno工作流程与早已熟悉的VSTs、插件和DAW结合使用。"
               },
               {
                 "t": "p",
-                "x": "新的Generate应用是开始制作音乐和音效的地方。可以用文字输入提示，也可以在代表流派、风格和乐器的混音器中加入不同的“paints”，以可视化方式进行描述。使用Lens可以修剪、添加淡入淡出、替换片段或延长一段录音；每次编辑都会生成一个新版本。"
-              },
-              {
-                "t": "img",
-                "src": "https://images.squarespace-cdn.com/content/v1/6213c340453c3f502425776e/5fc8930d-54b7-4592-b497-a23ffe634e50/sampler-02-pack.png",
-                "cap": "Sampler"
+                "x": "Suno Bridge首先以测试版推出，兼容在Mac上运行的Ableton Live 12。我们计划未来扩展到更多操作系统和DAW平台。"
               },
               {
                 "t": "p",
-                "x": "Sampler用于制作成套的短采样、循环或鼓组。从“techno risers”这样的提示开始，最多可生成八个变体，或生成一套包含八个单次采样的完整鼓组。其步进音序器可在16-step网格上为最多八种乐器编程，模式长度最多32小节。"
+                "x": "Bridge与Ableton Live并行运行，两个应用都需要保持打开。在Bridge中输入的提示词会生成全新的器乐和人声，契合Ableton工程的速度、调性、风格、和声内容与律动，并直接放到时间线上。同步时需要把工程文件上传到Suno；Arrangement View中的循环起点/终点标记决定提示词作用的区间。"
+              },
+              {
+                "t": "video",
+                "yt": "w0jgwmAObd0"
               },
               {
                 "t": "p",
-                "x": "Labs是面向实验性测试版应用的新空间。处于测试阶段的多轨应用Sessions现已移至此处，提供Full mix模式或可编辑的八轨音轨台。所有功能均由商业上安全的模型驱动，生成内容归用户所有。"
+                "x": "可以把Bridge看作一座为你的音乐量身打造、取之不尽的独特音色库：把旧工程变成完整歌曲，突破创作瓶颈，同时保留你的插件、音频路由以及在Live中掌握的一切。"
+              },
+              {
+                "t": "p",
+                "x": "Suno Bridge（测试版）包含在所有Premier订阅中。目前适用于Mac上的Ableton Live 12。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Stable Audio estrena espacio\ny apps Generate y Sampler",
-          "body": "Stable Audio añade un espacio de proyectos, la app Generate para temas completos y Sampler para packs de muestras.",
-          "mini_headline": "Nuevas apps en Stable Audio",
+          "headline": "Suno Bridge crea partes\ndentro de Ableton Live 12",
+          "body": "La app beta de Suno para Mac se sincroniza con Ableton Live 12 y crea partes que siguen tempo, tonalidad y acordes.",
+          "mini_headline": "Suno Bridge llega a Ableton",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.squarespace-cdn.com/content/v1/6213c340453c3f502425776e/2cc42a62-5083-4c7f-a86a-77f92b11a3d7/Stable_Audio_Release_Notes_Blog_Thumbnail_16x9.png"
+                "src": "https://cdn.sanity.io/images/cl7b1q1i/production/82b39b7eda6ba746df9166d864ce48cddb76843f-1920x1080.jpg?w=1600&h=900&fit=crop&auto=format",
+                "cap": "Suno Bridge"
               },
               {
                 "t": "p",
-                "x": "Stable Audio tiene un nuevo espacio de trabajo que reúne tus apps, proyectos y sonidos en un solo lugar. Home es donde llegas al iniciar sesión; Library es donde exploras y organizas todo lo que has creado en las apps de Stable Audio."
-              },
-              {
-                "t": "img",
-                "src": "https://images.squarespace-cdn.com/content/v1/6213c340453c3f502425776e/8480d97a-11fe-4346-b14f-13140df9b932/generate-01-overview.png",
-                "cap": "Generate"
+                "x": "Hoy presentamos Suno Bridge, una nueva aplicación independiente que lleva la potencia y la inspiración de Suno a tu software de producción musical. Por primera vez puedes combinar tu flujo de trabajo en Suno con los VSTs, plugins y el DAW que ya conoces."
               },
               {
                 "t": "p",
-                "x": "La nueva app Generate es el punto de partida para crear música y efectos de sonido. Puedes dar indicaciones con texto o describir el sonido de forma visual añadiendo distintas “paints” a un mezclador que representa géneros, estilos e instrumentos. Con Lens puedes recortar, añadir fundidos, sustituir una sección o alargar una toma; cada edición crea una nueva versión."
-              },
-              {
-                "t": "img",
-                "src": "https://images.squarespace-cdn.com/content/v1/6213c340453c3f502425776e/5fc8930d-54b7-4592-b497-a23ffe634e50/sampler-02-pack.png",
-                "cap": "Sampler"
+                "x": "Suno Bridge se lanza inicialmente en beta y será compatible con Ableton Live 12 en Mac. Tenemos previsto ampliarlo a más sistemas operativos y plataformas DAW en el futuro."
               },
               {
                 "t": "p",
-                "x": "Sampler crea conjuntos de samples cortos, loops o kits de batería. Se parte de una indicación como “techno risers” y se generan hasta ocho variaciones, o un kit de batería completo con ocho samples one-shot. Su secuenciador por pasos programa hasta ocho instrumentos en una cuadrícula 16-step, en patrones de hasta 32 compases."
+                "x": "Bridge funciona junto a Ableton Live y ambas aplicaciones deben estar abiertas. Los prompts introducidos en Bridge crean instrumentación y voces completamente nuevas que se ajustan al tempo, la tonalidad, el estilo, el contenido armónico y el groove de tu sesión de Ableton, y se colocan directamente en la línea de tiempo. La sincronización implica subir los archivos de la sesión a Suno; los marcadores de inicio/fin del loop en Arrangement View definen la ventana del prompt."
+              },
+              {
+                "t": "video",
+                "yt": "w0jgwmAObd0"
               },
               {
                 "t": "p",
-                "x": "Labs es un nuevo espacio para apps experimentales en beta. Sessions, la app multipista en beta, se encuentra ahora allí y ofrece un modo Full mix o una mesa editable de ocho pistas. Todo funciona con modelos comercialmente seguros, y los resultados son tuyos."
+                "x": "Piensa en Bridge como una biblioteca infinita de sonidos únicos diseñados para encajar con tu música: convierte sesiones antiguas en canciones terminadas, supera bloqueos creativos y conserva tus plugins, tu enrutamiento de audio y todo lo que dominas en Live."
+              },
+              {
+                "t": "p",
+                "x": "Suno Bridge (beta) está incluido en todas las suscripciones Premier. Por ahora funciona con Ableton Live 12 en Mac."
               }
             ]
           }
@@ -887,15 +405,457 @@
       }
     },
     {
-      "id": "elevenlabs-voice-restoration-music",
+      "id": "vocaloid7-editor-release",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "ElevenLabs 음악\n목소리 잃은 이에 무료로",
-      "body": "ElevenLabs, NYC서 목소리 잃은 이에 ElevenMusic 무료로 연다.",
-      "mini_headline": "목소리 잃은 이에 무료 ElevenMusic",
+      "headline": "VOCALOID7 출시\nCubase 연동 강화",
+      "body": "$129짜리 VOCALOID7이 VOCALOID:AI와 Cubase 연동을 갖췄다.",
+      "mini_headline": "VOCALOID7, $129에 출시",
       "tool": "Music",
-      "source": "ElevenLabs",
-      "url": "https://elevenlabs.io/blog/impact-nyc-summit",
+      "source": "월간 믹싱",
+      "url": "https://mixing.co.kr/en/44521",
+      "accent": "#0070f3",
+      "motif": "sphere",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://mmagimg.speedgabia.com/2026/11/img-1794535790699-7b915c66ecbc114b.webp",
+            "cap": "이미지: Yamaha"
+          },
+          {
+            "t": "p",
+            "x": "Yamaha가 음성 합성 소프트웨어 VOCALOID7 Editor를 출시했다."
+          },
+          {
+            "t": "p",
+            "x": "VOCALOID7 Editor는 2022년 10월 VOCALOID6이 나온 지 네 해 만의 신작이다. macOS와 Windows에서 독립형 애플리케이션으로도, VST3·AU·ARA2 형식으로도 돌아가며 가격은 $129다."
+          },
+          {
+            "t": "p",
+            "x": "두 번째 세대 VOCALOID:AI를 얹어 보컬이 한층 자연스럽고 표현력도 풍부해졌다. 같은 보이스뱅크 안에서 음색 특성을 바꾸는 Voice Type 기능으로 곡에 어울리는 표현을 고를 수도 있다. 단, Voice Type은 VOCALOID7 전용 보이스뱅크에서만 작동한다."
+          },
+          {
+            "t": "video",
+            "yt": "GJ92CbivkEY"
+          },
+          {
+            "t": "p",
+            "x": "Cubase 연동도 더 긴밀해졌다. 노트와 가사는 Cubase Key Editor에서 바로 입력한다. Expression, Attack 같은 노브는 Cubase 전용 컨트롤로 다룬다. Cubase AI 버전과 기본 보이스뱅크 asa가 함께 들어 있다."
+          },
+          {
+            "t": "p",
+            "x": "VOCALOID3부터 VOCALOID6까지 나온 보이스뱅크는 모두 VOCALOID7 Editor에서 그대로 쓴다. VOCALOID3–6이나 VOCALOID Editor for Cubase 시리즈 사용자용 업그레이드 버전은 정가 $69인데 12월 20일까지는 $39에 판다. 31일 체험판도 있다."
+          },
+          {
+            "t": "p",
+            "x": "보이스뱅크가 있는 사용자는 기능을 줄인 VOCALOID7 Editor Lite를 무료로 쓸 수 있다. Lite는 독립형 모드에서만 작동한다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Yamaha ships VOCALOID7\nwith deeper Cubase ties",
+          "body": "VOCALOID7 Editor costs $129 and runs second-generation VOCALOID:AI, with lyric entry directly in Cubase's Key Editor.",
+          "mini_headline": "VOCALOID7 ships at $129",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://mmagimg.speedgabia.com/2026/11/img-1794535790699-7b915c66ecbc114b.webp",
+                "cap": "Image: Yamaha"
+              },
+              {
+                "t": "p",
+                "x": "Yamaha has released VOCALOID7 Editor, its voice synthesis software."
+              },
+              {
+                "t": "p",
+                "x": "VOCALOID7 Editor arrives four years after VOCALOID6, which was released in October 2022. It runs on macOS and Windows as a standalone application and in VST3, AU, and ARA2 formats, and it costs $129."
+              },
+              {
+                "t": "p",
+                "x": "It applies the second-generation VOCALOID:AI to deliver more natural and expressive vocals. It also has a Voice Type feature that changes vocal characteristics within the same voicebank, so users can choose an expression that suits the song. Voice Type, however, works only with voicebanks made exclusively for VOCALOID7."
+              },
+              {
+                "t": "video",
+                "yt": "GJ92CbivkEY"
+              },
+              {
+                "t": "p",
+                "x": "Integration with Cubase has also been strengthened. Notes and lyrics can be entered directly in the Cubase Key Editor. Knobs such as Expression and Attack are controlled with dedicated controls in Cubase. A Cubase AI version is included, and the default voicebank, asa, comes bundled."
+              },
+              {
+                "t": "p",
+                "x": "All voicebanks from VOCALOID3 through VOCALOID6 remain usable in VOCALOID7 Editor. The upgrade version, for users of VOCALOID3–6 or the VOCALOID Editor for Cubase series, is regularly $69 and on sale for $39 until December 20. A 31-day trial is also available."
+              },
+              {
+                "t": "p",
+                "x": "Users who own a voicebank can use VOCALOID7 Editor Lite, a feature-limited version, for free, and Lite works only in standalone mode."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "VOCALOID7 출시\nCubase 연동 강화",
+          "body": "$129짜리 VOCALOID7이 VOCALOID:AI와 Cubase 연동을 갖췄다.",
+          "mini_headline": "VOCALOID7, $129에 출시",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://mmagimg.speedgabia.com/2026/11/img-1794535790699-7b915c66ecbc114b.webp",
+                "cap": "이미지: Yamaha"
+              },
+              {
+                "t": "p",
+                "x": "Yamaha가 음성 합성 소프트웨어 VOCALOID7 Editor를 출시했다."
+              },
+              {
+                "t": "p",
+                "x": "VOCALOID7 Editor는 2022년 10월 VOCALOID6이 나온 지 네 해 만의 신작이다. macOS와 Windows에서 독립형 애플리케이션으로도, VST3·AU·ARA2 형식으로도 돌아가며 가격은 $129다."
+              },
+              {
+                "t": "p",
+                "x": "두 번째 세대 VOCALOID:AI를 얹어 보컬이 한층 자연스럽고 표현력도 풍부해졌다. 같은 보이스뱅크 안에서 음색 특성을 바꾸는 Voice Type 기능으로 곡에 어울리는 표현을 고를 수도 있다. 단, Voice Type은 VOCALOID7 전용 보이스뱅크에서만 작동한다."
+              },
+              {
+                "t": "video",
+                "yt": "GJ92CbivkEY"
+              },
+              {
+                "t": "p",
+                "x": "Cubase 연동도 더 긴밀해졌다. 노트와 가사는 Cubase Key Editor에서 바로 입력한다. Expression, Attack 같은 노브는 Cubase 전용 컨트롤로 다룬다. Cubase AI 버전과 기본 보이스뱅크 asa가 함께 들어 있다."
+              },
+              {
+                "t": "p",
+                "x": "VOCALOID3부터 VOCALOID6까지 나온 보이스뱅크는 모두 VOCALOID7 Editor에서 그대로 쓴다. VOCALOID3–6이나 VOCALOID Editor for Cubase 시리즈 사용자용 업그레이드 버전은 정가 $69인데 12월 20일까지는 $39에 판다. 31일 체험판도 있다."
+              },
+              {
+                "t": "p",
+                "x": "보이스뱅크가 있는 사용자는 기능을 줄인 VOCALOID7 Editor Lite를 무료로 쓸 수 있다. Lite는 독립형 모드에서만 작동한다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "VOCALOID7発売\nCubase連携を強化",
+          "body": "VOCALOID7は$129で、第二世代VOCALOID:AIとCubase連携を備える。",
+          "mini_headline": "VOCALOID7、$129で発売",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://mmagimg.speedgabia.com/2026/11/img-1794535790699-7b915c66ecbc114b.webp",
+                "cap": "画像: Yamaha"
+              },
+              {
+                "t": "p",
+                "x": "Yamahaが歌声合成ソフトウェアVOCALOID7 Editorをリリースした。"
+              },
+              {
+                "t": "p",
+                "x": "VOCALOID7 Editorは、2022年10月に発売されたVOCALOID6から四年ぶりの新版となる。macOSとWindowsでスタンドアロンアプリケーションとして、またVST3、AU、ARA2形式で動作し、価格は$129だ。"
+              },
+              {
+                "t": "p",
+                "x": "第二世代のVOCALOID:AIを採用し、より自然で表現力豊かな歌声を実現する。同じボイスバンクのまま声の特性を変えるVoice Type機能も備え、曲に合った表現を選べる。ただしVoice TypeはVOCALOID7専用に作られたボイスバンクでのみ機能する。"
+              },
+              {
+                "t": "video",
+                "yt": "GJ92CbivkEY"
+              },
+              {
+                "t": "p",
+                "x": "Cubaseとの連携も強化された。ノートと歌詞をCubaseのKey Editorで直接入力できる。ExpressionやAttackなどのノブはCubaseの専用コントロールで操作する。Cubase AI版が付属し、標準ボイスバンクasaも同梱される。"
+              },
+              {
+                "t": "p",
+                "x": "VOCALOID3からVOCALOID6までのすべてのボイスバンクを、VOCALOID7 Editorで引き続き使える。VOCALOID3–6やVOCALOID Editor for Cubaseシリーズのユーザー向けアップグレード版は通常$69で、12月20日まで$39で販売される。31日間の体験版も用意されている。"
+              },
+              {
+                "t": "p",
+                "x": "ボイスバンクを持つユーザーは機能限定版のVOCALOID7 Editor Liteを無料で使え、Liteはスタンドアロンモードでのみ動作する。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "VOCALOID7发布\n深化Cubase联动",
+          "body": "VOCALOID7售价$129，搭载第二代VOCALOID:AI并深化Cubase联动。",
+          "mini_headline": "VOCALOID7 以 $129 发售",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://mmagimg.speedgabia.com/2026/11/img-1794535790699-7b915c66ecbc114b.webp",
+                "cap": "图片：Yamaha"
+              },
+              {
+                "t": "p",
+                "x": "Yamaha发布了歌声合成软件VOCALOID7 Editor。"
+              },
+              {
+                "t": "p",
+                "x": "VOCALOID7 Editor距2022年10月发布的VOCALOID6已有四年。它可在macOS和Windows上作为独立应用运行，也支持VST3、AU和ARA2格式，售价$129。"
+              },
+              {
+                "t": "p",
+                "x": "它采用第二代VOCALOID:AI，带来更自然、更具表现力的歌声。新增的Voice Type功能可在同一声库内改变声音特性，让用户选择适合歌曲的表现。不过，Voice Type仅适用于VOCALOID7专用声库。"
+              },
+              {
+                "t": "video",
+                "yt": "GJ92CbivkEY"
+              },
+              {
+                "t": "p",
+                "x": "与Cubase的整合也得到加强。音符和歌词可直接在Cubase的Key Editor中输入。Expression、Attack等旋钮通过Cubase中的专用控件操作。软件附带Cubase AI版本，并捆绑默认声库asa。"
+              },
+              {
+                "t": "p",
+                "x": "从VOCALOID3到VOCALOID6的所有声库都可继续在VOCALOID7 Editor中使用。面向VOCALOID3–6或VOCALOID Editor for Cubase系列用户的升级版原价$69，12月20日前特价$39。另提供31天试用版。"
+              },
+              {
+                "t": "p",
+                "x": "拥有声库的用户可免费使用功能受限的VOCALOID7 Editor Lite，Lite仅支持独立模式。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Yamaha lanza VOCALOID7\ncon más integración en Cubase",
+          "body": "VOCALOID7 Editor cuesta $129, usa VOCALOID:AI de segunda generación y admite letras en el Key Editor de Cubase.",
+          "mini_headline": "VOCALOID7 sale a $129",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://mmagimg.speedgabia.com/2026/11/img-1794535790699-7b915c66ecbc114b.webp",
+                "cap": "Imagen: Yamaha"
+              },
+              {
+                "t": "p",
+                "x": "Yamaha ha lanzado VOCALOID7 Editor, su software de síntesis de voz."
+              },
+              {
+                "t": "p",
+                "x": "VOCALOID7 Editor llega cuatro años después de VOCALOID6, lanzado en octubre de 2022. Funciona en macOS y Windows como aplicación independiente y en formatos VST3, AU y ARA2, y cuesta $129."
+              },
+              {
+                "t": "p",
+                "x": "Aplica la segunda generación de VOCALOID:AI para ofrecer voces más naturales y expresivas. También incluye la función Voice Type, que cambia las características vocales dentro de un mismo banco de voz para que el usuario elija la expresión que mejor encaje con la canción. Sin embargo, Voice Type solo funciona con bancos de voz creados exclusivamente para VOCALOID7."
+              },
+              {
+                "t": "video",
+                "yt": "GJ92CbivkEY"
+              },
+              {
+                "t": "p",
+                "x": "También se ha reforzado la integración con Cubase. Las notas y las letras pueden introducirse directamente en el Key Editor de Cubase. Perillas como Expression y Attack se manejan con controles dedicados en Cubase. Incluye una versión de Cubase AI y viene con el banco de voz predeterminado asa."
+              },
+              {
+                "t": "p",
+                "x": "Todos los bancos de voz desde VOCALOID3 hasta VOCALOID6 siguen siendo utilizables en VOCALOID7 Editor. La versión de actualización, para usuarios de VOCALOID3–6 o de la serie VOCALOID Editor for Cubase, cuesta normalmente $69 y está rebajada a $39 hasta el 20 de diciembre. También hay una prueba de 31 días."
+              },
+              {
+                "t": "p",
+                "x": "Quienes tengan un banco de voz pueden usar gratis VOCALOID7 Editor Lite, una versión con funciones limitadas, y Lite solo funciona en modo independiente."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "VOCALOID7 출시\nCubase 연동 강화",
+          "body": "VOCALOID7은 $129, VOCALOID:AI와 Cubase 연동을 갖췄다.",
+          "mini_headline": "VOCALOID7, $129에 출시",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://mmagimg.speedgabia.com/2026/11/img-1794535790699-7b915c66ecbc114b.webp",
+                "cap": "이미지: Yamaha"
+              },
+              {
+                "t": "p",
+                "x": "Yamaha가 음성 합성 소프트웨어 VOCALOID7 Editor를 출시했다."
+              },
+              {
+                "t": "p",
+                "x": "VOCALOID7 Editor는 2022년 10월 나온 VOCALOID6 이후 네 해 만의 신작이다. macOS와 Windows에서 독립형 애플리케이션으로, 또 VST3, AU, ARA2 형식으로 실행되며 가격은 $129다."
+              },
+              {
+                "t": "p",
+                "x": "두 번째 세대 VOCALOID:AI를 적용해 더 자연스럽고 표현력 있는 보컬을 낸다. 같은 보이스뱅크 안에서 음색 특성을 바꾸는 Voice Type 기능도 있어 곡에 맞는 표현을 고를 수 있다. 다만 Voice Type은 VOCALOID7 전용으로 만든 보이스뱅크에서만 작동한다."
+              },
+              {
+                "t": "video",
+                "yt": "GJ92CbivkEY"
+              },
+              {
+                "t": "p",
+                "x": "Cubase와의 연동도 강화했다. 노트와 가사를 Cubase Key Editor에서 바로 입력할 수 있다. Expression, Attack 같은 노브는 Cubase의 전용 컨트롤로 조작한다. Cubase AI 버전이 포함되며, 기본 보이스뱅크 asa도 함께 제공된다."
+              },
+              {
+                "t": "p",
+                "x": "VOCALOID3부터 VOCALOID6까지의 모든 보이스뱅크를 VOCALOID7 Editor에서 그대로 쓸 수 있다. VOCALOID3–6 또는 VOCALOID Editor for Cubase 시리즈 사용자용 업그레이드 버전은 정가 $69이며, 12월 20일까지 $39에 할인 판매한다. 31일 체험판도 제공한다."
+              },
+              {
+                "t": "p",
+                "x": "보이스뱅크를 보유한 사용자는 기능을 제한한 VOCALOID7 Editor Lite를 무료로 쓸 수 있으며, Lite는 독립형 모드에서만 작동한다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "VOCALOID7発売\nCubase連携を強化",
+          "body": "VOCALOID7は$129で、第二世代VOCALOID:AIとCubase連携を備える。",
+          "mini_headline": "VOCALOID7、$129で発売",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://mmagimg.speedgabia.com/2026/11/img-1794535790699-7b915c66ecbc114b.webp",
+                "cap": "画像: Yamaha"
+              },
+              {
+                "t": "p",
+                "x": "Yamahaが歌声合成ソフトウェアVOCALOID7 Editorをリリースした。"
+              },
+              {
+                "t": "p",
+                "x": "VOCALOID7 Editorは、2022年10月に発売されたVOCALOID6から四年ぶりの新版となる。macOSとWindowsでスタンドアロンアプリケーションとして、またVST3、AU、ARA2形式で動作し、価格は$129だ。"
+              },
+              {
+                "t": "p",
+                "x": "第二世代のVOCALOID:AIを採用し、より自然で表現力豊かな歌声を実現する。同じボイスバンクのまま声の特性を変えるVoice Type機能も備え、曲に合った表現を選べる。ただしVoice TypeはVOCALOID7専用に作られたボイスバンクでのみ機能する。"
+              },
+              {
+                "t": "video",
+                "yt": "GJ92CbivkEY"
+              },
+              {
+                "t": "p",
+                "x": "Cubaseとの連携も強化された。ノートと歌詞をCubaseのKey Editorで直接入力できる。ExpressionやAttackなどのノブはCubaseの専用コントロールで操作する。Cubase AI版が付属し、標準ボイスバンクasaも同梱される。"
+              },
+              {
+                "t": "p",
+                "x": "VOCALOID3からVOCALOID6までのすべてのボイスバンクを、VOCALOID7 Editorで引き続き使える。VOCALOID3–6やVOCALOID Editor for Cubaseシリーズのユーザー向けアップグレード版は通常$69で、12月20日まで$39で販売される。31日間の体験版も用意されている。"
+              },
+              {
+                "t": "p",
+                "x": "ボイスバンクを持つユーザーは機能限定版のVOCALOID7 Editor Liteを無料で使え、Liteはスタンドアロンモードでのみ動作する。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "VOCALOID7发布\n深化Cubase联动",
+          "body": "VOCALOID7售价$129，搭载第二代VOCALOID:AI并深化Cubase联动。",
+          "mini_headline": "VOCALOID7 以 $129 发售",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://mmagimg.speedgabia.com/2026/11/img-1794535790699-7b915c66ecbc114b.webp",
+                "cap": "图片：Yamaha"
+              },
+              {
+                "t": "p",
+                "x": "Yamaha发布了歌声合成软件VOCALOID7 Editor。"
+              },
+              {
+                "t": "p",
+                "x": "VOCALOID7 Editor距2022年10月发布的VOCALOID6已有四年。它可在macOS和Windows上作为独立应用运行，也支持VST3、AU和ARA2格式，售价$129。"
+              },
+              {
+                "t": "p",
+                "x": "它采用第二代VOCALOID:AI，带来更自然、更具表现力的歌声。新增的Voice Type功能可在同一声库内改变声音特性，让用户选择适合歌曲的表现。不过，Voice Type仅适用于VOCALOID7专用声库。"
+              },
+              {
+                "t": "video",
+                "yt": "GJ92CbivkEY"
+              },
+              {
+                "t": "p",
+                "x": "与Cubase的整合也得到加强。音符和歌词可直接在Cubase的Key Editor中输入。Expression、Attack等旋钮通过Cubase中的专用控件操作。软件附带Cubase AI版本，并捆绑默认声库asa。"
+              },
+              {
+                "t": "p",
+                "x": "从VOCALOID3到VOCALOID6的所有声库都可继续在VOCALOID7 Editor中使用。面向VOCALOID3–6或VOCALOID Editor for Cubase系列用户的升级版原价$69，12月20日前特价$39。另提供31天试用版。"
+              },
+              {
+                "t": "p",
+                "x": "拥有声库的用户可免费使用功能受限的VOCALOID7 Editor Lite，Lite仅支持独立模式。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Yamaha lanza VOCALOID7\ncon más integración en Cubase",
+          "body": "VOCALOID7 Editor cuesta $129, usa VOCALOID:AI de segunda generación y admite letras en el Key Editor de Cubase.",
+          "mini_headline": "VOCALOID7 sale a $129",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://mmagimg.speedgabia.com/2026/11/img-1794535790699-7b915c66ecbc114b.webp",
+                "cap": "Imagen: Yamaha"
+              },
+              {
+                "t": "p",
+                "x": "Yamaha ha lanzado VOCALOID7 Editor, su software de síntesis de voz."
+              },
+              {
+                "t": "p",
+                "x": "VOCALOID7 Editor llega cuatro años después de VOCALOID6, lanzado en octubre de 2022. Funciona en macOS y Windows como aplicación independiente y en formatos VST3, AU y ARA2, y cuesta $129."
+              },
+              {
+                "t": "p",
+                "x": "Aplica la segunda generación de VOCALOID:AI para ofrecer voces más naturales y expresivas. También incluye la función Voice Type, que cambia las características vocales dentro de un mismo banco de voz para que el usuario elija la expresión que mejor encaje con la canción. Sin embargo, Voice Type solo funciona con bancos de voz creados exclusivamente para VOCALOID7."
+              },
+              {
+                "t": "video",
+                "yt": "GJ92CbivkEY"
+              },
+              {
+                "t": "p",
+                "x": "También se ha reforzado la integración con Cubase. Las notas y las letras pueden introducirse directamente en el Key Editor de Cubase. Perillas como Expression y Attack se manejan con controles dedicados en Cubase. Incluye una versión de Cubase AI y viene con el banco de voz predeterminado asa."
+              },
+              {
+                "t": "p",
+                "x": "Todos los bancos de voz desde VOCALOID3 hasta VOCALOID6 siguen siendo utilizables en VOCALOID7 Editor. La versión de actualización, para usuarios de VOCALOID3–6 o de la serie VOCALOID Editor for Cubase, cuesta normalmente $69 y está rebajada a $39 hasta el 20 de diciembre. También hay una prueba de 31 días."
+              },
+              {
+                "t": "p",
+                "x": "Quienes tengan un banco de voz pueden usar gratis VOCALOID7 Editor Lite, una versión con funciones limitadas, y Lite solo funciona en modo independiente."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "mumuru-melon-ai-number1",
+      "source_lang": "ko",
+      "eyebrow": "AI NEWS",
+      "headline": "AI 활용곡 사상 첫\n멜론 톱 100 1위",
+      "body": "머무르의 AI 활용곡이 리센느 등 K팝 스타를 제치고 멜론 1위에 올랐다.",
+      "mini_headline": "AI 활용곡 첫 멜론 1위",
+      "tool": "Music",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261113157000005",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
@@ -903,295 +863,395 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://eleven-public-cdn.elevenlabs.io/payloadcms/hzu606cgpup-2304662705.webp"
+            "src": "https://img2.yna.co.kr/etc/inner/KR/2026/11/13/AKR20261113157000005_01_i_P4.jpg",
+            "cap": "머무르 '꿈꾸던 어른이 되었나요?' [멜론 제공. 재판매 및 DB 금지]"
           },
           {
             "t": "p",
-            "x": "뉴욕의 교육자 Greg Kellner는 2019년 뇌암으로 노래하는 목소리를 잃었다. 그는 옛 녹음을 토대로 ElevenMusic에서 그 목소리를 되살렸다. 뇌성마비 탓에 말하는 목소리가 한 번도 없었던 Abdi Omar는 ElevenLabs Voice Designer로 자기 목소리를 직접 디자인했고, 지금은 ElevenMusic으로 래퍼 활동을 한다."
+            "x": "작곡과 가창에 인공지능(AI)을 활용한 노래가 K팝 사상 처음으로 국내 대표 음원 플랫폼 멜론의 '톱 100' 차트에서 1위를 기록했다."
           },
           {
             "t": "p",
-            "x": "두 사람은 11월 11일 ElevenLabs New York Summit에서 ElevenMusic으로 되찾은 노래 목소리로 신곡을 공연했다. 이제 목소리를 영구히 잃은 사람은 ElevenMusic을 무료로 쓸 수 있다. 이 지원은 Songwriters of North America(SONA)와 함께 시작했고, 자격 확인은 SONA가 맡는다."
+            "x": "13일 가요계에 따르면 머무르의 '꿈꾸던 어른이 되었나요?'는 이날 오후 5시 기준 멜론 '톱 100' 차트에서 리센느의 신곡 '위드'(With)를 제치고 정상을 밟았다. 6월 발매 이후 약 5개월 만의 기록이다. 청취자 연령대는 30대가 36%로 가장 많았고, 40대 30%, 20대 19%, 50대 11% 순이었다."
+          },
+          {
+            "t": "img",
+            "src": "https://img6.yna.co.kr/etc/inner/KR/2026/11/13/AKR20261113157000005_05_i_P4.jpg",
+            "cap": "멜론 13일 오후 5시 '톱 100' 차트 [멜론 캡처. 재판매 및 DB 금지]"
           },
           {
             "t": "p",
-            "x": "“목소리 복원은 언제나 기본적인 필요를 채우는 일 이상이었습니다. 우리를 인간답게 만드는 모든 방식으로 진정으로 들리는 것에 관한 일입니다.” ElevenLabs 임팩트 총괄(Head of Impact) Gabi Leibowitz가 한 말이다."
+            "x": "이 곡의 보컬은 사람이 아닌 생성형 음악 AI인 수노(SUNO)로 구현됐다. 머무르는 \"본 앨범의 보컬은 수노 AI 기술을 통해 생성됐다\"며 \"기획·작사 및 전체 프로듀싱 디렉션은 아티스트 머무르가 직접 진행했다\"고 설명했다. 그러면서 \"제게 AI는 현대적인 악기이자, 제 상상을 함께 현실로 옮겨주는 파트너\"라고 소개했다."
           },
           {
             "t": "p",
-            "x": "ElevenLabs는 Wounded Warrior Project를 Impact Program 파트너로 발표했고, NYU Langone Health는 1 Million Voices에 합류했다. 1 Million Voices는 ElevenLabs가 약속한 $1B 규모 현물 지원이다. 지금까지 11,000명 넘는 사람이 이 지원으로 다시 자기 목소리로 말하게 됐다."
+            "x": "AI 활용곡이 리센느(2위), A2O 라이트(3위), 아일릿(5위) 등 K팝 스타를 따돌리고 1위를 차지한 것이다."
+          },
+          {
+            "t": "p",
+            "x": "정민재 대중음악평론가는 \"대중음악 분야에서도 AI의 파도는 예견됐던 일\"이라며 \"뮤지션과 작곡가 입장에선 AI 활용곡의 차트 1위가 달갑지 않겠지만, 인간 창작자로서 더욱 수준 높은 음악을 만들어내는 일에 힘을 쏟을 수밖에 없을 것\"이라고 말했다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "ElevenLabs offers free music\nto artists who lost their voice",
-          "body": "At its NYC Summit, ElevenLabs opened free ElevenMusic access to artists who have lost their voice.",
-          "mini_headline": "Free ElevenMusic for lost voices",
+        "ko": {
+          "headline": "AI 활용곡 사상 첫\n멜론 톱 100 1위",
+          "body": "머무르의 AI 활용곡이 리센느 등 K팝 스타를 제치고 멜론 1위에 올랐다.",
+          "mini_headline": "AI 활용곡 첫 멜론 1위",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://eleven-public-cdn.elevenlabs.io/payloadcms/hzu606cgpup-2304662705.webp"
+                "src": "https://img2.yna.co.kr/etc/inner/KR/2026/11/13/AKR20261113157000005_01_i_P4.jpg",
+                "cap": "머무르 '꿈꾸던 어른이 되었나요?' [멜론 제공. 재판매 및 DB 금지]"
               },
               {
                 "t": "p",
-                "x": "Greg Kellner, a New York educator whose singing voice was taken by brain cancer in 2019, recreated it through ElevenMusic from old recordings. Abdi Omar, who never had a spoken voice because of cerebral palsy, designed his own with ElevenLabs Voice Designer and now uses ElevenMusic as a rap artist."
+                "x": "작곡과 가창에 인공지능(AI)을 활용한 노래가 K팝 사상 처음으로 국내 대표 음원 플랫폼 멜론의 '톱 100' 차트에서 1위를 기록했다."
               },
               {
                 "t": "p",
-                "x": "On November 11 at the ElevenLabs New York Summit, both performed new songs with their ElevenMusic singing voices. People living with permanent voice loss can now get free access to ElevenMusic, launched with Songwriters of North America (SONA), which will verify eligibility."
+                "x": "13일 가요계에 따르면 머무르의 '꿈꾸던 어른이 되었나요?'는 이날 오후 5시 기준 멜론 '톱 100' 차트에서 리센느의 신곡 '위드'(With)를 제치고 정상을 밟았다. 6월 발매 이후 약 5개월 만의 기록이다. 청취자 연령대는 30대가 36%로 가장 많았고, 40대 30%, 20대 19%, 50대 11% 순이었다."
+              },
+              {
+                "t": "img",
+                "src": "https://img6.yna.co.kr/etc/inner/KR/2026/11/13/AKR20261113157000005_05_i_P4.jpg",
+                "cap": "멜론 13일 오후 5시 '톱 100' 차트 [멜론 캡처. 재판매 및 DB 금지]"
               },
               {
                 "t": "p",
-                "x": "“Voice restoration has always been about more than getting basic needs met. It’s about being truly heard, in all the ways that make us human,” said Gabi Leibowitz, Head of Impact at ElevenLabs."
+                "x": "이 곡의 보컬은 사람이 아닌 생성형 음악 AI인 수노(SUNO)로 구현됐다. 머무르는 \"본 앨범의 보컬은 수노 AI 기술을 통해 생성됐다\"며 \"기획·작사 및 전체 프로듀싱 디렉션은 아티스트 머무르가 직접 진행했다\"고 설명했다. 그러면서 \"제게 AI는 현대적인 악기이자, 제 상상을 함께 현실로 옮겨주는 파트너\"라고 소개했다."
               },
               {
                 "t": "p",
-                "x": "Wounded Warrior Project was announced as an Impact Program partner, and NYU Langone Health joined 1 Million Voices — ElevenLabs’ $1 billion in-kind commitment, which has helped more than 11,000 people speak again in their own voice."
+                "x": "AI 활용곡이 리센느(2위), A2O 라이트(3위), 아일릿(5위) 등 K팝 스타를 따돌리고 1위를 차지한 것이다."
+              },
+              {
+                "t": "p",
+                "x": "정민재 대중음악평론가는 \"대중음악 분야에서도 AI의 파도는 예견됐던 일\"이라며 \"뮤지션과 작곡가 입장에선 AI 활용곡의 차트 1위가 달갑지 않겠지만, 인간 창작자로서 더욱 수준 높은 음악을 만들어내는 일에 힘을 쏟을 수밖에 없을 것\"이라고 말했다."
+              }
+            ]
+          }
+        },
+        "en": {
+          "headline": "First AI-assisted song\nhits No. 1 on Melon Top 100",
+          "body": "Mumuru's AI-assisted song beat K-pop stars including RESCENE to reach No. 1 on Melon.",
+          "mini_headline": "First AI-assisted No. 1 on Melon",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://img2.yna.co.kr/etc/inner/KR/2026/11/13/AKR20261113157000005_01_i_P4.jpg",
+                "cap": "Mumuru, 'Have You Become the Adult You Dreamed Of?' [Courtesy of Melon. No resale or DB use]"
+              },
+              {
+                "t": "p",
+                "x": "A song that used artificial intelligence (AI) for its composition and vocals has reached No. 1 on the 'Top 100' chart of Melon, Korea's leading music streaming platform, for the first time in K-pop history."
+              },
+              {
+                "t": "p",
+                "x": "According to the music industry on the 13th, Mumuru's 'Have You Become the Adult You Dreamed Of?' took the top spot on Melon's 'Top 100' chart as of 5 p.m. that day, overtaking RESCENE's new song 'With'. It came about 5 months after its June release. By listener age, people in their 30s made up the largest share at 36%, followed by those in their 40s at 30%, their 20s at 19% and their 50s at 11%."
+              },
+              {
+                "t": "img",
+                "src": "https://img6.yna.co.kr/etc/inner/KR/2026/11/13/AKR20261113157000005_05_i_P4.jpg",
+                "cap": "Melon 'Top 100' chart at 5 p.m. on the 13th [Melon capture. No resale or DB use]"
+              },
+              {
+                "t": "p",
+                "x": "The song's vocals were produced not by a person but by Suno (SUNO), a generative music AI. Mumuru explained, \"The vocals on this album were generated with Suno AI technology,\" adding, \"The planning, lyrics and overall production direction were handled by the artist Mumuru directly.\" Mumuru also described it this way: \"To me, AI is a modern instrument and a partner that helps turn my imagination into reality.\""
+              },
+              {
+                "t": "p",
+                "x": "The AI-assisted song finished ahead of K-pop stars such as RESCENE (No. 2), A2O Light (No. 3) and ILLIT (No. 5) to take No. 1."
+              },
+              {
+                "t": "p",
+                "x": "Pop music critic Jung Min-jae said, \"The wave of AI was expected in popular music too,\" adding, \"Musicians and composers may not welcome an AI-assisted song reaching No. 1 on the chart, but as human creators they will have no choice but to put their energy into making music of even higher quality.\""
               }
             ]
           }
         },
         "ja": {
-          "headline": "ElevenLabsが\n声を失った音楽家に無料開放",
-          "body": "ElevenLabsはNYCで声を失った人にElevenMusicを無料開放した。",
-          "mini_headline": "声を失った人にElevenMusicを無料で",
+          "headline": "AI活用曲が史上初\nメロン トップ100 1位",
+          "body": "MumuruのAI活用曲がRESCENEらK-POPスターを抑え、メロンで1位に立った。",
+          "mini_headline": "AI活用曲、初のメロン1位",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://eleven-public-cdn.elevenlabs.io/payloadcms/hzu606cgpup-2304662705.webp"
+                "src": "https://img2.yna.co.kr/etc/inner/KR/2026/11/13/AKR20261113157000005_01_i_P4.jpg",
+                "cap": "Mumuru「夢見ていた大人になれましたか?」[メロン提供。再販売およびDB化禁止]"
               },
               {
                 "t": "p",
-                "x": "ニューヨークの教育者Greg Kellnerは2019年に脳がんで歌声を失ったが、昔の録音をもとにElevenMusicでその声を再現した。脳性まひのために話す声を一度も持ったことのないAbdi Omarは、ElevenLabs Voice Designerで自分の声をデザインし、現在はElevenMusicを使ってラップアーティストとして活動している。"
+                "x": "作曲と歌唱に人工知能(AI)を活用した曲が、K-POP史上初めて韓国を代表する音楽配信プラットフォーム、メロンの「トップ100」チャートで1位を記録した。"
               },
               {
                 "t": "p",
-                "x": "11月11日のElevenLabs New York Summitで、二人はElevenMusicの歌声で新曲を披露した。永久に声を失った人々は、今後ElevenMusicを無料で利用できる。この取り組みはSongwriters of North America（SONA）と共に始まり、SONAが利用資格を確認する。"
+                "x": "13日の音楽業界によると、Mumuruの「夢見ていた大人になれましたか?」はこの日午後5時時点のメロン「トップ100」チャートで、RESCENEの新曲「With」を抑えて首位に立った。6月のリリースから約5か月での記録だ。リスナーの年齢層は30代が36%で最も多く、40代30%、20代19%、50代11%と続いた。"
+              },
+              {
+                "t": "img",
+                "src": "https://img6.yna.co.kr/etc/inner/KR/2026/11/13/AKR20261113157000005_05_i_P4.jpg",
+                "cap": "メロン 13日午後5時の「トップ100」チャート [メロンのキャプチャ。再販売およびDB化禁止]"
               },
               {
                 "t": "p",
-                "x": "「声の回復は、常に基本的なニーズを満たす以上の意味を持ってきました。私たちを人間たらしめるあらゆる形で、本当に耳を傾けてもらうことなのです」と、ElevenLabsのHead of ImpactであるGabi Leibowitzは語った。"
+                "x": "この曲のボーカルは人間ではなく、生成音楽AIのSuno(SUNO)によるものだ。Mumuruは「本アルバムのボーカルはSuno AIの技術で生成した」とし、「企画・作詞および全体のプロデュースディレクションはアーティストMumuru自身が手がけた」と説明した。さらに「私にとってAIは現代的な楽器であり、私の想像を共に現実へ移してくれるパートナーだ」と語った。"
               },
               {
                 "t": "p",
-                "x": "Wounded Warrior ProjectがImpact Programのパートナーとして発表され、NYU Langone Healthが1 Million Voicesに加わった。1 Million VoicesはElevenLabsによる$1B 規模の現物支援で、これまでに11,000人以上が自分の声で再び話せるよう支えてきた。"
+                "x": "AI活用曲が、RESCENE(2位)、A2O Light(3位)、ILLIT(5位)などK-POPスターを抑えて1位を獲得したことになる。"
+              },
+              {
+                "t": "p",
+                "x": "大衆音楽評論家のチョン・ミンジェ氏は「大衆音楽の分野でもAIの波は予見されていたことだ」とし、「ミュージシャンや作曲家の立場ではAI活用曲のチャート1位は歓迎しにくいだろうが、人間の創作者として、より質の高い音楽を生み出すことに力を注ぐしかないだろう」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "ElevenLabs向\n失声艺术家免费开放音乐",
-          "body": "ElevenLabs在NYC Summit上向失声艺术家免费开放ElevenMusic。",
-          "mini_headline": "为失声者免费开放ElevenMusic",
+          "headline": "AI歌曲史上首获Melon\nTop 100 第1名",
+          "body": "머무르的AI辅助歌曲力压RESCENE等K-pop明星，登上Melon第1名。",
+          "mini_headline": "AI歌曲首登Melon第1名",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://eleven-public-cdn.elevenlabs.io/payloadcms/hzu606cgpup-2304662705.webp"
+                "src": "https://img2.yna.co.kr/etc/inner/KR/2026/11/13/AKR20261113157000005_01_i_P4.jpg",
+                "cap": "머무르《꿈꾸던 어른이 되었나요?》[Melon提供。禁止转售及收录DB]"
               },
               {
                 "t": "p",
-                "x": "纽约教育工作者Greg Kellner的歌声在2019年因脑癌而失去，他借助旧录音，通过ElevenMusic重现了自己的歌声。Abdi Omar因脑瘫从未拥有过说话的声音，他用ElevenLabs Voice Designer设计了自己的声音，如今以说唱艺人的身份使用ElevenMusic。"
+                "x": "一首在作曲和演唱中运用人工智能（AI）的歌曲，在K-pop史上首次登上韩国代表性音源平台Melon的“Top 100”榜单第1名。"
               },
               {
                 "t": "p",
-                "x": "11月11日，在ElevenLabs New York Summit上，两人用各自的ElevenMusic歌声演唱了新歌。永久失声的人现在可以免费使用ElevenMusic；该项目与Songwriters of North America（SONA）合作推出，并由SONA审核资格。"
+                "x": "据歌谣界13日消息，머무르的《꿈꾸던 어른이 되었나요?》当天下午5点在Melon“Top 100”榜单上超越RESCENE的新歌《With》登顶。这是该曲6月发行后约5个月取得的成绩。听众年龄层中30多岁最多，占36%，其次为40多岁（30%）、20多岁（19%）和50多岁（11%）。"
+              },
+              {
+                "t": "img",
+                "src": "https://img6.yna.co.kr/etc/inner/KR/2026/11/13/AKR20261113157000005_05_i_P4.jpg",
+                "cap": "Melon 13日下午5点“Top 100”榜单 [Melon截图。禁止转售及收录DB]"
               },
               {
                 "t": "p",
-                "x": "“声音修复从来不只是满足基本需求，更是要在一切让我们成为人的方面，真正被听见。”ElevenLabs影响力负责人（Head of Impact）Gabi Leibowitz说。"
+                "x": "这首歌的人声并非真人，而是由生成式音乐AI Suno（SUNO）实现。머무르说明：“本专辑的人声是通过Suno AI技术生成的”，“策划、作词及整体制作方向由艺人머무르亲自完成”。并介绍说：“对我来说，AI是一种现代乐器，也是与我一起把想象变为现实的伙伴。”"
               },
               {
                 "t": "p",
-                "x": "Wounded Warrior Project被宣布成为Impact Program合作伙伴，NYU Langone Health则加入了1 Million Voices。这是ElevenLabs价值$1B 的实物捐助承诺，已帮助超过11,000人重新用自己的声音说话。"
+                "x": "这首AI辅助歌曲力压RESCENE（第2名）、A2O LIGHT（第3名）、ILLIT（第5名）等K-pop明星，夺得第1名。"
+              },
+              {
+                "t": "p",
+                "x": "大众音乐评论家정민재表示：“AI浪潮在大众音乐领域同样是意料之中的事”，“对音乐人和作曲家而言，AI辅助歌曲登上榜单第1名或许并不令人欣喜，但作为人类创作者，只能更加致力于创作出更高水准的音乐。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "ElevenLabs ofrece música gratis\na artistas que perdieron la voz",
-          "body": "En su NYC Summit, ElevenLabs abrió el acceso gratuito a ElevenMusic para artistas que han perdido la voz.",
-          "mini_headline": "ElevenMusic gratis para quien perdió la voz",
+          "headline": "Un tema con AI, por primera vez\nn.º 1 en el Top 100 de Melon",
+          "body": "Un tema de 머무르 creado con AI superó a estrellas del K-pop como RESCENE y alcanzó el n.º 1 en Melon.",
+          "mini_headline": "Primer tema con AI n.º 1 en Melon",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://eleven-public-cdn.elevenlabs.io/payloadcms/hzu606cgpup-2304662705.webp"
+                "src": "https://img2.yna.co.kr/etc/inner/KR/2026/11/13/AKR20261113157000005_01_i_P4.jpg",
+                "cap": "'꿈꾸던 어른이 되었나요?' de 머무르 [Cortesía de Melon. Prohibida la reventa y su inclusión en DB]"
               },
               {
                 "t": "p",
-                "x": "Greg Kellner, un educador de Nueva York que perdió su voz para cantar por un cáncer cerebral en 2019, la recreó con ElevenMusic a partir de grabaciones antiguas. Abdi Omar, que nunca tuvo voz hablada debido a una parálisis cerebral, diseñó la suya con ElevenLabs Voice Designer y ahora usa ElevenMusic como artista de rap."
+                "x": "Una canción que utilizó inteligencia artificial (AI) en la composición y el canto alcanzó, por primera vez en la historia del K-pop, el n.º 1 de la lista 'Top 100' de Melon, la principal plataforma de música en streaming del país."
               },
               {
                 "t": "p",
-                "x": "El 11 de noviembre, en el ElevenLabs New York Summit, ambos interpretaron canciones nuevas con sus voces cantadas de ElevenMusic. Las personas con pérdida permanente de la voz ya pueden acceder gratis a ElevenMusic, en una iniciativa lanzada con Songwriters of North America (SONA), que verificará la elegibilidad."
+                "x": "Según la industria musical, el día 13 '꿈꾸던 어른이 되었나요?' de 머무르 llegó a lo más alto de la lista 'Top 100' de Melon a las 5 de la tarde, por delante de 'With', el nuevo sencillo de RESCENE. Lo logró unos 5 meses después de su lanzamiento en junio. Por edades, predominó la franja de los 30 años, con un 36%, seguida de la de los 40 (30%), la de los 20 (19%) y la de los 50 (11%)."
               },
-              {
-                "t": "p",
-                "x": "“La restauración de la voz siempre ha ido más allá de cubrir necesidades básicas. Se trata de ser escuchado de verdad, en todas las formas que nos hacen humanos”, dijo Gabi Leibowitz, Head of Impact de ElevenLabs."
-              },
-              {
-                "t": "p",
-                "x": "Wounded Warrior Project fue anunciado como socio del Impact Program, y NYU Langone Health se sumó a 1 Million Voices, el compromiso en especie de $1B de ElevenLabs, que ha ayudado a más de 11,000 personas a volver a hablar con su propia voz."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "ElevenLabs 음악\n목소리 잃은 이에 무료로",
-          "body": "ElevenLabs, NYC서 목소리 잃은 이에 ElevenMusic 무료로 연다.",
-          "mini_headline": "목소리 잃은 이에 무료 ElevenMusic",
-          "full": {
-            "mode": "summary",
-            "blocks": [
               {
                 "t": "img",
-                "src": "https://eleven-public-cdn.elevenlabs.io/payloadcms/hzu606cgpup-2304662705.webp"
+                "src": "https://img6.yna.co.kr/etc/inner/KR/2026/11/13/AKR20261113157000005_05_i_P4.jpg",
+                "cap": "Lista 'Top 100' de Melon a las 5 de la tarde del día 13 [Captura de Melon. Prohibida la reventa y su inclusión en DB]"
               },
               {
                 "t": "p",
-                "x": "뉴욕의 교육자 Greg Kellner는 2019년 뇌암으로 노래하는 목소리를 잃었다. 그는 옛 녹음을 토대로 ElevenMusic에서 그 목소리를 되살렸다. 뇌성마비 탓에 말하는 목소리가 한 번도 없었던 Abdi Omar는 ElevenLabs Voice Designer로 자기 목소리를 직접 디자인했고, 지금은 ElevenMusic으로 래퍼 활동을 한다."
+                "x": "La voz de la canción no es humana: se generó con Suno (SUNO), una AI de música generativa. 머무르 explicó que \"la voz de este álbum se generó mediante la tecnología Suno AI\" y que \"la planificación, la letra y la dirección general de la producción las llevó a cabo personalmente el artista 머무르\". Añadió: \"Para mí, la AI es un instrumento moderno y un compañero que me ayuda a hacer realidad lo que imagino\"."
               },
               {
                 "t": "p",
-                "x": "두 사람은 11월 11일 ElevenLabs New York Summit에서 ElevenMusic으로 되찾은 노래 목소리로 신곡을 공연했다. 이제 목소리를 영구히 잃은 사람은 ElevenMusic을 무료로 쓸 수 있다. 이 지원은 Songwriters of North America(SONA)와 함께 시작했고, 자격 확인은 SONA가 맡는다."
+                "x": "Así, una canción hecha con AI dejó atrás a estrellas del K-pop como RESCENE (2.º), A2O LIGHT (3.º) e ILLIT (5.º) para hacerse con el n.º 1."
               },
               {
                 "t": "p",
-                "x": "“목소리 복원은 언제나 기본적인 필요를 채우는 일 이상이었습니다. 우리를 인간답게 만드는 모든 방식으로 진정으로 들리는 것에 관한 일입니다.” ElevenLabs 임팩트 총괄(Head of Impact) Gabi Leibowitz가 한 말이다."
-              },
-              {
-                "t": "p",
-                "x": "ElevenLabs는 Wounded Warrior Project를 Impact Program 파트너로 발표했고, NYU Langone Health는 1 Million Voices에 합류했다. 1 Million Voices는 ElevenLabs가 약속한 $1B 규모 현물 지원이다. 지금까지 11,000명 넘는 사람이 이 지원으로 다시 자기 목소리로 말하게 됐다."
+                "x": "El crítico de música popular 정민재 señaló que \"la ola de la AI también era previsible en la música popular\" y que \"a músicos y compositores no les agradará que una canción hecha con AI llegue al n.º 1 de la lista, pero como creadores humanos no tendrán más remedio que esforzarse en crear música de mayor nivel\"."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ja": {
-          "headline": "ElevenLabsが\n声を失った音楽家に無料開放",
-          "body": "ElevenLabsはNYCで声を失った人にElevenMusicを無料開放した。",
-          "mini_headline": "声を失った人にElevenMusicを無料で",
+        "en": {
+          "headline": "First AI-assisted song\nhits No. 1 on Melon Top 100",
+          "body": "Mumuru's AI-assisted song beat K-pop stars including RESCENE to reach No. 1 on Melon.",
+          "mini_headline": "First AI-assisted No. 1 on Melon",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://eleven-public-cdn.elevenlabs.io/payloadcms/hzu606cgpup-2304662705.webp"
+                "src": "https://img2.yna.co.kr/etc/inner/KR/2026/11/13/AKR20261113157000005_01_i_P4.jpg",
+                "cap": "Mumuru, 'Have You Become the Adult You Dreamed Of?' [Courtesy of Melon. No resale or DB use]"
               },
               {
                 "t": "p",
-                "x": "ニューヨークの教育者Greg Kellnerは2019年に脳がんで歌声を失ったが、昔の録音をもとにElevenMusicでその声を再現した。脳性まひのために話す声を一度も持ったことのないAbdi Omarは、ElevenLabs Voice Designerで自分の声をデザインし、現在はElevenMusicを使ってラップアーティストとして活動している。"
+                "x": "A song that used artificial intelligence (AI) for its composition and vocals has reached No. 1 on the 'Top 100' chart of Melon, Korea's leading music streaming platform, for the first time in K-pop history."
               },
               {
                 "t": "p",
-                "x": "11月11日のElevenLabs New York Summitで、二人はElevenMusicの歌声で新曲を披露した。永久に声を失った人々は、今後ElevenMusicを無料で利用できる。この取り組みはSongwriters of North America（SONA）と共に始まり、SONAが利用資格を確認する。"
+                "x": "According to the music industry on the 13th, Mumuru's 'Have You Become the Adult You Dreamed Of?' took the top spot on Melon's 'Top 100' chart as of 5 p.m. that day, overtaking RESCENE's new song 'With'. It came about 5 months after its June release. By listener age, people in their 30s made up the largest share at 36%, followed by those in their 40s at 30%, their 20s at 19% and their 50s at 11%."
+              },
+              {
+                "t": "img",
+                "src": "https://img6.yna.co.kr/etc/inner/KR/2026/11/13/AKR20261113157000005_05_i_P4.jpg",
+                "cap": "Melon 'Top 100' chart at 5 p.m. on the 13th [Melon capture. No resale or DB use]"
               },
               {
                 "t": "p",
-                "x": "「声の回復は、常に基本的なニーズを満たす以上の意味を持ってきました。私たちを人間たらしめるあらゆる形で、本当に耳を傾けてもらうことなのです」と、ElevenLabsのHead of ImpactであるGabi Leibowitzは語った。"
+                "x": "The song's vocals were produced not by a person but by Suno (SUNO), a generative music AI. Mumuru explained, \"The vocals on this album were generated with Suno AI technology,\" adding, \"The planning, lyrics and overall production direction were handled by the artist Mumuru directly.\" Mumuru also described it this way: \"To me, AI is a modern instrument and a partner that helps turn my imagination into reality.\""
               },
               {
                 "t": "p",
-                "x": "Wounded Warrior ProjectがImpact Programのパートナーとして発表され、NYU Langone Healthが1 Million Voicesに加わった。1 Million VoicesはElevenLabsによる$1B 規模の現物支援で、これまでに11,000人以上が自分の声で再び話せるよう支えてきた。"
+                "x": "The AI-assisted song finished ahead of K-pop stars such as RESCENE (No. 2), A2O Light (No. 3) and ILLIT (No. 5) to take No. 1."
+              },
+              {
+                "t": "p",
+                "x": "Pop music critic Jung Min-jae said, \"The wave of AI was expected in popular music too,\" adding, \"Musicians and composers may not welcome an AI-assisted song reaching No. 1 on the chart, but as human creators they will have no choice but to put their energy into making music of even higher quality.\""
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AI活用曲が史上初\nメロン トップ100 1位",
+          "body": "MumuruのAI活用曲がRESCENEらK-POPスターを抑え、メロンで1位に立った。",
+          "mini_headline": "AI活用曲、初のメロン1位",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://img2.yna.co.kr/etc/inner/KR/2026/11/13/AKR20261113157000005_01_i_P4.jpg",
+                "cap": "Mumuru「夢見ていた大人になれましたか?」[メロン提供。再販売およびDB化禁止]"
+              },
+              {
+                "t": "p",
+                "x": "作曲と歌唱に人工知能(AI)を活用した曲が、K-POP史上初めて韓国を代表する音楽配信プラットフォーム、メロンの「トップ100」チャートで1位を記録した。"
+              },
+              {
+                "t": "p",
+                "x": "13日の音楽業界によると、Mumuruの「夢見ていた大人になれましたか?」はこの日午後5時時点のメロン「トップ100」チャートで、RESCENEの新曲「With」を抑えて首位に立った。6月のリリースから約5か月での記録だ。リスナーの年齢層は30代が36%で最も多く、40代30%、20代19%、50代11%と続いた。"
+              },
+              {
+                "t": "img",
+                "src": "https://img6.yna.co.kr/etc/inner/KR/2026/11/13/AKR20261113157000005_05_i_P4.jpg",
+                "cap": "メロン 13日午後5時の「トップ100」チャート [メロンのキャプチャ。再販売およびDB化禁止]"
+              },
+              {
+                "t": "p",
+                "x": "この曲のボーカルは人間ではなく、生成音楽AIのSuno(SUNO)によるものだ。Mumuruは「本アルバムのボーカルはSuno AIの技術で生成した」とし、「企画・作詞および全体のプロデュースディレクションはアーティストMumuru自身が手がけた」と説明した。さらに「私にとってAIは現代的な楽器であり、私の想像を共に現実へ移してくれるパートナーだ」と語った。"
+              },
+              {
+                "t": "p",
+                "x": "AI活用曲が、RESCENE(2位)、A2O Light(3位)、ILLIT(5位)などK-POPスターを抑えて1位を獲得したことになる。"
+              },
+              {
+                "t": "p",
+                "x": "大衆音楽評論家のチョン・ミンジェ氏は「大衆音楽の分野でもAIの波は予見されていたことだ」とし、「ミュージシャンや作曲家の立場ではAI活用曲のチャート1位は歓迎しにくいだろうが、人間の創作者として、より質の高い音楽を生み出すことに力を注ぐしかないだろう」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "ElevenLabs向\n失声艺术家免费开放音乐",
-          "body": "ElevenLabs在NYC Summit上向失声艺术家免费开放ElevenMusic。",
-          "mini_headline": "为失声者免费开放ElevenMusic",
+          "headline": "AI歌曲史上首获Melon\nTop 100 第1名",
+          "body": "머무르的AI辅助歌曲力压RESCENE等K-pop明星，登上Melon第1名。",
+          "mini_headline": "AI歌曲首登Melon第1名",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://eleven-public-cdn.elevenlabs.io/payloadcms/hzu606cgpup-2304662705.webp"
+                "src": "https://img2.yna.co.kr/etc/inner/KR/2026/11/13/AKR20261113157000005_01_i_P4.jpg",
+                "cap": "머무르《꿈꾸던 어른이 되었나요?》[Melon提供。禁止转售及收录DB]"
               },
               {
                 "t": "p",
-                "x": "纽约教育工作者Greg Kellner的歌声在2019年因脑癌而失去，他借助旧录音，通过ElevenMusic重现了自己的歌声。Abdi Omar因脑瘫从未拥有过说话的声音，他用ElevenLabs Voice Designer设计了自己的声音，如今以说唱艺人的身份使用ElevenMusic。"
+                "x": "一首在作曲和演唱中运用人工智能（AI）的歌曲，在K-pop史上首次登上韩国代表性音源平台Melon的“Top 100”榜单第1名。"
               },
               {
                 "t": "p",
-                "x": "11月11日，在ElevenLabs New York Summit上，两人用各自的ElevenMusic歌声演唱了新歌。永久失声的人现在可以免费使用ElevenMusic；该项目与Songwriters of North America（SONA）合作推出，并由SONA审核资格。"
+                "x": "据歌谣界13日消息，머무르的《꿈꾸던 어른이 되었나요?》当天下午5点在Melon“Top 100”榜单上超越RESCENE的新歌《With》登顶。这是该曲6月发行后约5个月取得的成绩。听众年龄层中30多岁最多，占36%，其次为40多岁（30%）、20多岁（19%）和50多岁（11%）。"
+              },
+              {
+                "t": "img",
+                "src": "https://img6.yna.co.kr/etc/inner/KR/2026/11/13/AKR20261113157000005_05_i_P4.jpg",
+                "cap": "Melon 13日下午5点“Top 100”榜单 [Melon截图。禁止转售及收录DB]"
               },
               {
                 "t": "p",
-                "x": "“声音修复从来不只是满足基本需求，更是要在一切让我们成为人的方面，真正被听见。”ElevenLabs影响力负责人（Head of Impact）Gabi Leibowitz说。"
+                "x": "这首歌的人声并非真人，而是由生成式音乐AI Suno（SUNO）实现。머무르说明：“本专辑的人声是通过Suno AI技术生成的”，“策划、作词及整体制作方向由艺人머무르亲自完成”。并介绍说：“对我来说，AI是一种现代乐器，也是与我一起把想象变为现实的伙伴。”"
               },
               {
                 "t": "p",
-                "x": "Wounded Warrior Project被宣布成为Impact Program合作伙伴，NYU Langone Health则加入了1 Million Voices。这是ElevenLabs价值$1B 的实物捐助承诺，已帮助超过11,000人重新用自己的声音说话。"
+                "x": "这首AI辅助歌曲力压RESCENE（第2名）、A2O LIGHT（第3名）、ILLIT（第5名）等K-pop明星，夺得第1名。"
+              },
+              {
+                "t": "p",
+                "x": "大众音乐评论家정민재表示：“AI浪潮在大众音乐领域同样是意料之中的事”，“对音乐人和作曲家而言，AI辅助歌曲登上榜单第1名或许并不令人欣喜，但作为人类创作者，只能更加致力于创作出更高水准的音乐。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "ElevenLabs ofrece música gratis\na artistas que perdieron la voz",
-          "body": "En su NYC Summit, ElevenLabs abrió el acceso gratuito a ElevenMusic para artistas que han perdido la voz.",
-          "mini_headline": "ElevenMusic gratis para quien perdió la voz",
+          "headline": "Un tema con AI, por primera vez\nn.º 1 en el Top 100 de Melon",
+          "body": "Un tema de 머무르 creado con AI superó a estrellas del K-pop como RESCENE y alcanzó el n.º 1 en Melon.",
+          "mini_headline": "Primer tema con AI n.º 1 en Melon",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://eleven-public-cdn.elevenlabs.io/payloadcms/hzu606cgpup-2304662705.webp"
+                "src": "https://img2.yna.co.kr/etc/inner/KR/2026/11/13/AKR20261113157000005_01_i_P4.jpg",
+                "cap": "'꿈꾸던 어른이 되었나요?' de 머무르 [Cortesía de Melon. Prohibida la reventa y su inclusión en DB]"
               },
               {
                 "t": "p",
-                "x": "Greg Kellner, un educador de Nueva York que perdió su voz para cantar por un cáncer cerebral en 2019, la recreó con ElevenMusic a partir de grabaciones antiguas. Abdi Omar, que nunca tuvo voz hablada debido a una parálisis cerebral, diseñó la suya con ElevenLabs Voice Designer y ahora usa ElevenMusic como artista de rap."
+                "x": "Una canción que utilizó inteligencia artificial (AI) en la composición y el canto alcanzó, por primera vez en la historia del K-pop, el n.º 1 de la lista 'Top 100' de Melon, la principal plataforma de música en streaming del país."
               },
               {
                 "t": "p",
-                "x": "El 11 de noviembre, en el ElevenLabs New York Summit, ambos interpretaron canciones nuevas con sus voces cantadas de ElevenMusic. Las personas con pérdida permanente de la voz ya pueden acceder gratis a ElevenMusic, en una iniciativa lanzada con Songwriters of North America (SONA), que verificará la elegibilidad."
+                "x": "Según la industria musical, el día 13 '꿈꾸던 어른이 되었나요?' de 머무르 llegó a lo más alto de la lista 'Top 100' de Melon a las 5 de la tarde, por delante de 'With', el nuevo sencillo de RESCENE. Lo logró unos 5 meses después de su lanzamiento en junio. Por edades, predominó la franja de los 30 años, con un 36%, seguida de la de los 40 (30%), la de los 20 (19%) y la de los 50 (11%)."
               },
-              {
-                "t": "p",
-                "x": "“La restauración de la voz siempre ha ido más allá de cubrir necesidades básicas. Se trata de ser escuchado de verdad, en todas las formas que nos hacen humanos”, dijo Gabi Leibowitz, Head of Impact de ElevenLabs."
-              },
-              {
-                "t": "p",
-                "x": "Wounded Warrior Project fue anunciado como socio del Impact Program, y NYU Langone Health se sumó a 1 Million Voices, el compromiso en especie de $1B de ElevenLabs, que ha ayudado a más de 11,000 personas a volver a hablar con su propia voz."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "ElevenLabs 음악\n목소리 잃은 이에 무료로",
-          "body": "ElevenLabs는 NYC서 목소리 잃은 이에 ElevenMusic 무료화했다.",
-          "mini_headline": "목소리 잃은 이에 무료 ElevenMusic",
-          "full": {
-            "mode": "summary",
-            "blocks": [
               {
                 "t": "img",
-                "src": "https://eleven-public-cdn.elevenlabs.io/payloadcms/hzu606cgpup-2304662705.webp"
+                "src": "https://img6.yna.co.kr/etc/inner/KR/2026/11/13/AKR20261113157000005_05_i_P4.jpg",
+                "cap": "Lista 'Top 100' de Melon a las 5 de la tarde del día 13 [Captura de Melon. Prohibida la reventa y su inclusión en DB]"
               },
               {
                 "t": "p",
-                "x": "뉴욕의 교육자 Greg Kellner는 2019년 뇌암으로 노래하는 목소리를 잃었지만, 옛 녹음을 바탕으로 ElevenMusic을 통해 그 목소리를 되살렸다. 뇌성마비로 말하는 목소리를 가져 본 적이 없는 Abdi Omar는 ElevenLabs Voice Designer로 자신의 목소리를 직접 디자인했고, 지금은 ElevenMusic으로 래퍼 활동을 한다."
+                "x": "La voz de la canción no es humana: se generó con Suno (SUNO), una AI de música generativa. 머무르 explicó que \"la voz de este álbum se generó mediante la tecnología Suno AI\" y que \"la planificación, la letra y la dirección general de la producción las llevó a cabo personalmente el artista 머무르\". Añadió: \"Para mí, la AI es un instrumento moderno y un compañero que me ayuda a hacer realidad lo que imagino\"."
               },
               {
                 "t": "p",
-                "x": "11월 11일 ElevenLabs New York Summit에서 두 사람은 ElevenMusic으로 되찾은 노래 목소리로 신곡을 공연했다. 이제 영구적으로 목소리를 잃은 사람은 ElevenMusic을 무료로 쓸 수 있다. 이 지원은 Songwriters of North America(SONA)와 함께 시작했으며, 자격 확인은 SONA가 맡는다."
+                "x": "Así, una canción hecha con AI dejó atrás a estrellas del K-pop como RESCENE (2.º), A2O LIGHT (3.º) e ILLIT (5.º) para hacerse con el n.º 1."
               },
               {
                 "t": "p",
-                "x": "“목소리 복원은 언제나 기본적인 필요를 채우는 일 이상이었습니다. 우리를 인간답게 만드는 모든 방식으로 진정으로 들리는 것에 관한 일입니다.” ElevenLabs 임팩트 총괄(Head of Impact) Gabi Leibowitz의 말이다."
-              },
-              {
-                "t": "p",
-                "x": "Wounded Warrior Project가 Impact Program 파트너로 발표됐고, NYU Langone Health는 1 Million Voices에 합류했다. 1 Million Voices는 ElevenLabs가 약속한 $1B 규모의 현물 지원으로, 지금까지 11,000명 넘는 사람이 자기 목소리로 다시 말하도록 도왔다."
+                "x": "El crítico de música popular 정민재 señaló que \"la ola de la AI también era previsible en la música popular\" y que \"a músicos y compositores no les agradará que una canción hecha con AI llegue al n.º 1 de la lista, pero como creadores humanos no tendrán más remedio que esforzarse en crear música de mayor nivel\"."
               }
             ]
           }
@@ -1199,15 +1259,15 @@
       }
     },
     {
-      "id": "ringo-charlie-whatsapp-sync",
+      "id": "bpi-getty-offshore-training",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Ringo의 Charlie\nWhatsApp 싱크 응대",
-      "body": "Ringo가 WhatsApp서 싱크 문의용 AI 비서 Charlie를 공개했다.",
-      "mini_headline": "WhatsApp AI로 싱크 라이선스",
+      "headline": "BPI, 해외 AI 학습\n저작권 우회 경고",
+      "body": "BPI가 UK 항소심에서 Getty 편에 서서 AI 역외 학습을 경고했다.",
+      "mini_headline": "BPI, 역외 AI 학습에 경고",
       "tool": "Music",
-      "source": "Music Ally",
-      "url": "https://musically.com/2026/11/12/ringos-charlie-is-a-sync-licensing-ai-assistant-within-whatsapp/",
+      "source": "CMU",
+      "url": "https://completemusicupdate.com/getty-v-stability-ruling-could-allow-ai-companies-to-offshore-training-to-circumvent-uk-copyright-law-says-bpi/",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
@@ -1215,125 +1275,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-26.png?fit=2000%2C1500&ssl=1"
+            "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/2026/11/Getty-v-Stablity---1-.png",
+            "cap": "Getty v Stability"
           },
           {
             "t": "p",
-            "x": "우리는 네덜란드 싱크 테크 스타트업 Ringo를 2023년 첫 투자 유치 때부터, 2025년 AI 기반(AI-powered) 라이선싱 플랫폼 출시까지 지켜봐 왔다. 이번에 Ringo가 내놓은 최신 기능은 AI 비서 Charlie다."
+            "x": "AI 기업의 저작권 의무를 다투는 영국의 대형 소송인 Getty Images와 Stability AI의 재판이 이번 주 다시 열렸다. 음반업계 단체 BPI는 이 시각 미디어 기업 편에 서서 소송에 참가했다."
           },
           {
             "t": "p",
-            "x": "그녀는(그렇다, Ringo 발표문에 대명사가 그렇게 적혀 있다) WhatsApp 안에서만 돌아가도록 설계됐다. 고객 문의를 받아 두면 Ringo 팀이 이어받아 처리한다."
+            "x": "항소법원(Court Of Appeal)에 올라 있는 이 사건의 쟁점은 US에서 라이선스 없는 콘텐츠로 학습한 AI 모델을 UK에서 제공하면 UK 법상 저작권 침해가 되느냐다. 지난해 런던 고등법원(High Court)이 침해가 아니라고 판결하자 Getty가 항소했다."
+          },
+          {
+            "t": "p",
+            "x": "BPI는 이 법 해석이 바로잡히지 않으면 AI 기업이 UK 저작권 규정을 피하려고 모델을 \"역외\"에서 학습시키고도 UK 시장에서 상업화할 길이 열린다고 본다. 그러면 음악과 창작 산업 전반에 \"중대한 결과\"가 닥칠 수 있다는 것이다."
+          },
+          {
+            "t": "p",
+            "x": "BPI는 앞으로의 소송이 같은 논리로 판가름 나지 않을 수도 있다고 강조했다. 그 예로 GEMA가 독일에서 Open AI와 Suno를 상대로 낸 소송을 들었다. 이 사건에서 법원은 '암기(memorisation)' 때문에 AI 모델 안에 저작물 사본이 담겨 있다고 봤다. Getty 항소심 판결은 올해 말이나 2027년 초에 나올 것으로 보인다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Ringo's Charlie fields sync\nlicensing queries in WhatsApp",
-          "body": "Dutch startup Ringo has unveiled Charlie, an AI assistant that fields sync-licensing queries inside WhatsApp.",
-          "mini_headline": "Sync licensing via WhatsApp AI",
+          "headline": "BPI warns of offshore\nAI training loophole",
+          "body": "Backing Getty at the UK Court of Appeal, the BPI warned AI firms could train offshore to sidestep UK copyright.",
+          "mini_headline": "BPI flags offshore AI training",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-26.png?fit=2000%2C1500&ssl=1"
+                "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/2026/11/Getty-v-Stablity---1-.png",
+                "cap": "Getty v Stability"
               },
               {
                 "t": "p",
-                "x": "We’ve followed the progress of Dutch sync-tech startup Ringo since its first funding round in 2023 and the launch of its AI-powered licensing platform in 2025. Now it has unveiled its latest feature: an AI assistant called Charlie."
+                "x": "The big British legal battle exploring the copyright obligations of AI companies, involving Getty Images and Stability AI, was back in court this week, with record industry trade group BPI intervening in support of the visual media company."
               },
               {
                 "t": "p",
-                "x": "She (yes, the pronoun is specified in Ringo’s announcement) is designed to live entirely within WhatsApp, fielding questions from clients that can then be dealt with by Ringo’s team."
+                "x": "The case, now in the Court Of Appeal, centres on whether making an AI model available in the UK that was trained on unlicensed content in the US constitutes copyright infringement under UK law. Last year the High Court in London ruled that it does not, a ruling Getty is now appealing."
+              },
+              {
+                "t": "p",
+                "x": "According to the BPI, that interpretation of the law – if left unchallenged – suggests AI companies can train their models \"offshore\" to avoid UK copyright rules and then still commercialise their models within the UK market, which could have \"significant consequences\" for the music and wider creative industries."
+              },
+              {
+                "t": "p",
+                "x": "The BPI also stressed that future claims might not swing on the same arguments, citing GEMA's German litigation against Open AI and Suno, where courts ruled the AI models did contain copies of works because of 'memorisation'. A ruling on the Getty appeal is expected towards the end of this year or in early 2027."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Ringo의 Charlie\nWhatsApp 싱크 응대",
-          "body": "Ringo가 WhatsApp서 싱크 문의용 AI 비서 Charlie를 공개했다.",
-          "mini_headline": "WhatsApp AI로 싱크 라이선스",
+          "headline": "BPI, 해외 AI 학습\n저작권 우회 경고",
+          "body": "BPI가 UK 항소심에서 Getty 편에 서서 AI 역외 학습을 경고했다.",
+          "mini_headline": "BPI, 역외 AI 학습에 경고",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-26.png?fit=2000%2C1500&ssl=1"
+                "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/2026/11/Getty-v-Stablity---1-.png",
+                "cap": "Getty v Stability"
               },
               {
                 "t": "p",
-                "x": "우리는 네덜란드 싱크 테크 스타트업 Ringo를 2023년 첫 투자 유치 때부터, 2025년 AI 기반(AI-powered) 라이선싱 플랫폼 출시까지 지켜봐 왔다. 이번에 Ringo가 내놓은 최신 기능은 AI 비서 Charlie다."
+                "x": "AI 기업의 저작권 의무를 다투는 영국의 대형 소송인 Getty Images와 Stability AI의 재판이 이번 주 다시 열렸다. 음반업계 단체 BPI는 이 시각 미디어 기업 편에 서서 소송에 참가했다."
               },
               {
                 "t": "p",
-                "x": "그녀는(그렇다, Ringo 발표문에 대명사가 그렇게 적혀 있다) WhatsApp 안에서만 돌아가도록 설계됐다. 고객 문의를 받아 두면 Ringo 팀이 이어받아 처리한다."
+                "x": "항소법원(Court Of Appeal)에 올라 있는 이 사건의 쟁점은 US에서 라이선스 없는 콘텐츠로 학습한 AI 모델을 UK에서 제공하면 UK 법상 저작권 침해가 되느냐다. 지난해 런던 고등법원(High Court)이 침해가 아니라고 판결하자 Getty가 항소했다."
+              },
+              {
+                "t": "p",
+                "x": "BPI는 이 법 해석이 바로잡히지 않으면 AI 기업이 UK 저작권 규정을 피하려고 모델을 \"역외\"에서 학습시키고도 UK 시장에서 상업화할 길이 열린다고 본다. 그러면 음악과 창작 산업 전반에 \"중대한 결과\"가 닥칠 수 있다는 것이다."
+              },
+              {
+                "t": "p",
+                "x": "BPI는 앞으로의 소송이 같은 논리로 판가름 나지 않을 수도 있다고 강조했다. 그 예로 GEMA가 독일에서 Open AI와 Suno를 상대로 낸 소송을 들었다. 이 사건에서 법원은 '암기(memorisation)' 때문에 AI 모델 안에 저작물 사본이 담겨 있다고 봤다. Getty 항소심 판결은 올해 말이나 2027년 초에 나올 것으로 보인다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "RingoのCharlie\nWhatsAppでシンク相談",
-          "body": "RingoがWhatsAppでシンク許諾の問い合わせに応じるAI Charlieを発表した。",
-          "mini_headline": "WhatsAppのAIでシンク許諾",
+          "headline": "BPI、海外でのAI学習\n著作権回避に警鐘",
+          "body": "BPIはUK控訴院でGettyを支持し、AI企業の国外学習による著作権回避を警告した。",
+          "mini_headline": "BPI、国外でのAI学習に警鐘",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-26.png?fit=2000%2C1500&ssl=1"
+                "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/2026/11/Getty-v-Stablity---1-.png",
+                "cap": "Getty v Stability"
               },
               {
                 "t": "p",
-                "x": "私たちはオランダのシンク技術スタートアップRingoを、2023年の最初の資金調達、2025年のAI-poweredライセンシングプラットフォームの立ち上げから追ってきた。そのRingoが最新機能として、AIアシスタントCharlieを発表した。"
+                "x": "AI企業の著作権上の義務を問う英国の大型訴訟、Getty ImagesとStability AIの裁判が今週再び法廷で審理され、レコード業界団体BPIがこのビジュアルメディア企業を支持する形で参加した。"
               },
               {
                 "t": "p",
-                "x": "彼女（そう、Ringoの発表では代名詞が指定されている）はWhatsApp内だけで動くよう設計されており、顧客からの質問を受け付け、それをRingoのチームが引き継いで対応できる。"
+                "x": "現在控訴院(Court Of Appeal)で争われているこの訴訟の焦点は、US内で無許諾のコンテンツを使って学習させたAIモデルをUK内で提供することが、UK法上の著作権侵害にあたるかどうかだ。昨年、ロンドンの高等法院(High Court)は侵害にあたらないと判断し、Gettyはこの判決を不服として控訴している。"
+              },
+              {
+                "t": "p",
+                "x": "BPIによれば、この法解釈が覆されなければ、AI企業はUKの著作権ルールを避けるためにモデルを「国外」で学習させ、それでもUK市場で商業化できることになり、音楽をはじめとするクリエイティブ産業全体に「重大な影響」を及ぼしかねない。"
+              },
+              {
+                "t": "p",
+                "x": "BPIはまた、今後の訴訟が同じ論点で決まるとは限らないと強調し、GEMAがドイツでOpen AIとSunoを相手取った訴訟を挙げた。この訴訟で裁判所は、「memorisation(記憶)」によってAIモデルに著作物の複製が含まれていると判断した。Gettyの控訴審判決は今年末か2027年初めに出る見通しだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Ringo的Charlie\nWhatsApp处理授权咨询",
-          "body": "荷兰初创公司Ringo推出AI助手Charlie，在WhatsApp内解答同步授权咨询。",
-          "mini_headline": "WhatsApp内的同步授权AI",
+          "headline": "BPI警告离岸AI训练\n或成版权漏洞",
+          "body": "BPI在UK上诉法院支持Getty，警告AI公司或借离岸训练规避UK版权。",
+          "mini_headline": "BPI 警示离岸 AI 训练",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-26.png?fit=2000%2C1500&ssl=1"
+                "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/2026/11/Getty-v-Stablity---1-.png",
+                "cap": "Getty v Stability"
               },
               {
                 "t": "p",
-                "x": "自2023年首轮融资、2025年推出AI-powered授权平台以来，我们一直关注荷兰同步技术初创公司Ringo的进展。如今，它发布了最新功能：一款名为Charlie的AI助手。"
+                "x": "探讨AI公司版权义务的英国重大诉讼——Getty Images诉Stability AI案本周再度开庭，唱片行业组织BPI介入，支持这家视觉媒体公司。"
               },
               {
                 "t": "p",
-                "x": "她（没错，Ringo的公告特意指定了这个代词）被设计为完全在WhatsApp内运行，负责接收客户提问，之后可交由Ringo团队处理。"
+                "x": "此案目前在上诉法院（Court Of Appeal）审理，核心问题是：在US使用未经授权内容训练的AI模型在UK提供，是否构成UK法律下的版权侵权。伦敦高等法院（High Court）去年裁定不构成侵权，Getty正对此提起上诉。"
+              },
+              {
+                "t": "p",
+                "x": "BPI认为，这一法律解释若不受挑战，意味着AI公司可以在“离岸”训练模型以规避UK版权规则，再在UK市场将模型商业化，这可能对音乐及更广泛的创意产业造成“重大后果”。"
+              },
+              {
+                "t": "p",
+                "x": "BPI还强调，未来的诉讼未必取决于同样的论点，并援引GEMA在德国起诉Open AI和Suno的案件：法院裁定，由于“记忆”（memorisation），这些AI模型确实包含作品的副本。Getty上诉案的裁决预计将在今年年底或2027年初作出。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Charlie, de Ringo, atiende\nconsultas de sync en WhatsApp",
-          "body": "La startup neerlandesa Ringo presentó Charlie, un asistente AI que atiende consultas de licencias sync en WhatsApp.",
-          "mini_headline": "Licencias sync con AI en WhatsApp",
+          "headline": "La BPI alerta del vacío legal\nde entrenar AI en el extranjero",
+          "body": "La BPI apoyó a Getty y advirtió que las firmas de AI podrían entrenar fuera de UK para eludir su copyright.",
+          "mini_headline": "La BPI alerta sobre el entrenamiento AI offshore",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-26.png?fit=2000%2C1500&ssl=1"
+                "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/2026/11/Getty-v-Stablity---1-.png",
+                "cap": "Getty v Stability"
               },
               {
                 "t": "p",
-                "x": "Seguimos la evolución de Ringo, startup neerlandesa de tecnología sync, desde su primera ronda de financiación en 2023 y el lanzamiento de su plataforma de licencias AI-powered en 2025. Ahora ha presentado su función más reciente: una asistente AI llamada Charlie."
+                "x": "La gran batalla legal británica sobre las obligaciones de copyright de las empresas de AI, entre Getty Images y Stability AI, volvió esta semana a los tribunales, con la intervención de la BPI, la asociación de la industria discográfica, en apoyo de la empresa de medios visuales."
               },
               {
                 "t": "p",
-                "x": "Ella (sí, el pronombre está especificado en el anuncio de Ringo) está diseñada para funcionar íntegramente dentro de WhatsApp y atender preguntas de clientes que luego puede gestionar el equipo de Ringo."
+                "x": "El caso, ahora en el Court Of Appeal (tribunal de apelación), gira en torno a si poner a disposición en UK un modelo de AI entrenado en US con contenido sin licencia constituye una infracción de copyright según la ley de UK. El año pasado, la High Court de Londres dictaminó que no, una sentencia que Getty está recurriendo."
+              },
+              {
+                "t": "p",
+                "x": "Según la BPI, esa interpretación de la ley, si no se impugna, sugiere que las empresas de AI pueden entrenar sus modelos \"offshore\" para evitar las normas de copyright de UK y aun así comercializarlos en el mercado de UK, lo que podría tener \"consecuencias significativas\" para la música y para el conjunto de las industrias creativas."
+              },
+              {
+                "t": "p",
+                "x": "La BPI también subrayó que futuras demandas podrían no depender de los mismos argumentos, y citó los litigios de GEMA en Alemania contra Open AI y Suno, en los que los tribunales dictaminaron que los modelos de AI sí contenían copias de obras debido a la 'memorisation' (memorización). Se espera una sentencia sobre la apelación de Getty hacia finales de este año o a principios de 2027."
               }
             ]
           }
@@ -1341,89 +1455,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Ringo의 Charlie\nWhatsApp 싱크 응대",
-          "body": "Ringo가 WhatsApp서 싱크 문의용 AI 비서 Charlie를 공개했다.",
-          "mini_headline": "WhatsApp AI로 싱크 라이선스",
+          "headline": "BPI, 해외 AI 학습\n저작권 우회 경고",
+          "body": "BPI는 UK 항소심서 Getty를 지지하며 AI 역외 학습을 경고했다.",
+          "mini_headline": "BPI, 역외 AI 학습에 경고",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-26.png?fit=2000%2C1500&ssl=1"
+                "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/2026/11/Getty-v-Stablity---1-.png",
+                "cap": "Getty v Stability"
               },
               {
                 "t": "p",
-                "x": "우리는 네덜란드 싱크 테크 스타트업 Ringo를 2023년 첫 투자 유치와 2025년 AI 기반(AI-powered) 라이선싱 플랫폼 출시 때부터 지켜봐 왔다. 이번에 Ringo가 최신 기능으로 AI 비서 Charlie를 공개했다."
+                "x": "AI 기업의 저작권 의무를 다투는 영국의 대형 소송, Getty Images와 Stability AI의 재판이 이번 주 다시 법정에 올랐다. 음반업계 단체 BPI는 이 시각 미디어 기업을 지지하며 소송에 참가했다."
               },
               {
                 "t": "p",
-                "x": "그녀는(그렇다, Ringo의 발표문에 대명사가 명시돼 있다) 전적으로 WhatsApp 안에서 작동하도록 설계됐으며, 고객 문의를 받아 Ringo 팀이 이어서 처리할 수 있게 한다."
+                "x": "현재 항소법원(Court Of Appeal)에서 다뤄지는 이 사건의 쟁점은, US에서 라이선스 없는 콘텐츠로 학습한 AI 모델을 UK에서 제공하는 것이 UK 법상 저작권 침해인지 여부다. 지난해 런던 고등법원(High Court)은 침해가 아니라고 판결했고, Getty는 이에 항소했다."
+              },
+              {
+                "t": "p",
+                "x": "BPI에 따르면 이 법 해석이 바로잡히지 않으면 AI 기업이 UK 저작권 규정을 피하려고 모델을 \"역외\"에서 학습시킨 뒤에도 UK 시장에서 상업화할 수 있다는 뜻이 되며, 이는 음악과 창작 산업 전반에 \"중대한 결과\"를 낳을 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "BPI는 앞으로의 소송이 같은 논리로 판가름 나지 않을 수 있다고도 강조하며, GEMA가 독일에서 Open AI와 Suno를 상대로 낸 소송을 예로 들었다. 이 소송에서 법원은 '암기(memorisation)' 때문에 AI 모델에 저작물의 사본이 담겨 있다고 판단했다. Getty 항소심 판결은 올해 말이나 2027년 초에 나올 전망이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "RingoのCharlie\nWhatsAppでシンク相談",
-          "body": "RingoがWhatsAppでシンク許諾の問い合わせに応じるAI Charlieを発表した。",
-          "mini_headline": "WhatsAppのAIでシンク許諾",
+          "headline": "BPI、海外でのAI学習\n著作権回避に警鐘",
+          "body": "BPIはUK控訴院でGettyを支持し、AI企業の国外学習による著作権回避を警告した。",
+          "mini_headline": "BPI、国外でのAI学習に警鐘",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-26.png?fit=2000%2C1500&ssl=1"
+                "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/2026/11/Getty-v-Stablity---1-.png",
+                "cap": "Getty v Stability"
               },
               {
                 "t": "p",
-                "x": "私たちはオランダのシンク技術スタートアップRingoを、2023年の最初の資金調達、2025年のAI-poweredライセンシングプラットフォームの立ち上げから追ってきた。そのRingoが最新機能として、AIアシスタントCharlieを発表した。"
+                "x": "AI企業の著作権上の義務を問う英国の大型訴訟、Getty ImagesとStability AIの裁判が今週再び法廷で審理され、レコード業界団体BPIがこのビジュアルメディア企業を支持する形で参加した。"
               },
               {
                 "t": "p",
-                "x": "彼女（そう、Ringoの発表では代名詞が指定されている）はWhatsApp内だけで動くよう設計されており、顧客からの質問を受け付け、それをRingoのチームが引き継いで対応できる。"
+                "x": "現在控訴院(Court Of Appeal)で争われているこの訴訟の焦点は、US内で無許諾のコンテンツを使って学習させたAIモデルをUK内で提供することが、UK法上の著作権侵害にあたるかどうかだ。昨年、ロンドンの高等法院(High Court)は侵害にあたらないと判断し、Gettyはこの判決を不服として控訴している。"
+              },
+              {
+                "t": "p",
+                "x": "BPIによれば、この法解釈が覆されなければ、AI企業はUKの著作権ルールを避けるためにモデルを「国外」で学習させ、それでもUK市場で商業化できることになり、音楽をはじめとするクリエイティブ産業全体に「重大な影響」を及ぼしかねない。"
+              },
+              {
+                "t": "p",
+                "x": "BPIはまた、今後の訴訟が同じ論点で決まるとは限らないと強調し、GEMAがドイツでOpen AIとSunoを相手取った訴訟を挙げた。この訴訟で裁判所は、「memorisation(記憶)」によってAIモデルに著作物の複製が含まれていると判断した。Gettyの控訴審判決は今年末か2027年初めに出る見通しだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Ringo的Charlie\nWhatsApp处理授权咨询",
-          "body": "荷兰初创公司Ringo推出AI助手Charlie，在WhatsApp内解答同步授权咨询。",
-          "mini_headline": "WhatsApp内的同步授权AI",
+          "headline": "BPI警告离岸AI训练\n或成版权漏洞",
+          "body": "BPI在UK上诉法院支持Getty，警告AI公司或借离岸训练规避UK版权。",
+          "mini_headline": "BPI 警示离岸 AI 训练",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-26.png?fit=2000%2C1500&ssl=1"
+                "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/2026/11/Getty-v-Stablity---1-.png",
+                "cap": "Getty v Stability"
               },
               {
                 "t": "p",
-                "x": "自2023年首轮融资、2025年推出AI-powered授权平台以来，我们一直关注荷兰同步技术初创公司Ringo的进展。如今，它发布了最新功能：一款名为Charlie的AI助手。"
+                "x": "探讨AI公司版权义务的英国重大诉讼——Getty Images诉Stability AI案本周再度开庭，唱片行业组织BPI介入，支持这家视觉媒体公司。"
               },
               {
                 "t": "p",
-                "x": "她（没错，Ringo的公告特意指定了这个代词）被设计为完全在WhatsApp内运行，负责接收客户提问，之后可交由Ringo团队处理。"
+                "x": "此案目前在上诉法院（Court Of Appeal）审理，核心问题是：在US使用未经授权内容训练的AI模型在UK提供，是否构成UK法律下的版权侵权。伦敦高等法院（High Court）去年裁定不构成侵权，Getty正对此提起上诉。"
+              },
+              {
+                "t": "p",
+                "x": "BPI认为，这一法律解释若不受挑战，意味着AI公司可以在“离岸”训练模型以规避UK版权规则，再在UK市场将模型商业化，这可能对音乐及更广泛的创意产业造成“重大后果”。"
+              },
+              {
+                "t": "p",
+                "x": "BPI还强调，未来的诉讼未必取决于同样的论点，并援引GEMA在德国起诉Open AI和Suno的案件：法院裁定，由于“记忆”（memorisation），这些AI模型确实包含作品的副本。Getty上诉案的裁决预计将在今年年底或2027年初作出。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Charlie, de Ringo, atiende\nconsultas de sync en WhatsApp",
-          "body": "La startup neerlandesa Ringo presentó Charlie, un asistente AI que atiende consultas de licencias sync en WhatsApp.",
-          "mini_headline": "Licencias sync con AI en WhatsApp",
+          "headline": "La BPI alerta del vacío legal\nde entrenar AI en el extranjero",
+          "body": "La BPI apoyó a Getty y advirtió que las firmas de AI podrían entrenar fuera de UK para eludir su copyright.",
+          "mini_headline": "La BPI alerta sobre el entrenamiento AI offshore",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-26.png?fit=2000%2C1500&ssl=1"
+                "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/2026/11/Getty-v-Stablity---1-.png",
+                "cap": "Getty v Stability"
               },
               {
                 "t": "p",
-                "x": "Seguimos la evolución de Ringo, startup neerlandesa de tecnología sync, desde su primera ronda de financiación en 2023 y el lanzamiento de su plataforma de licencias AI-powered en 2025. Ahora ha presentado su función más reciente: una asistente AI llamada Charlie."
+                "x": "La gran batalla legal británica sobre las obligaciones de copyright de las empresas de AI, entre Getty Images y Stability AI, volvió esta semana a los tribunales, con la intervención de la BPI, la asociación de la industria discográfica, en apoyo de la empresa de medios visuales."
               },
               {
                 "t": "p",
-                "x": "Ella (sí, el pronombre está especificado en el anuncio de Ringo) está diseñada para funcionar íntegramente dentro de WhatsApp y atender preguntas de clientes que luego puede gestionar el equipo de Ringo."
+                "x": "El caso, ahora en el Court Of Appeal (tribunal de apelación), gira en torno a si poner a disposición en UK un modelo de AI entrenado en US con contenido sin licencia constituye una infracción de copyright según la ley de UK. El año pasado, la High Court de Londres dictaminó que no, una sentencia que Getty está recurriendo."
+              },
+              {
+                "t": "p",
+                "x": "Según la BPI, esa interpretación de la ley, si no se impugna, sugiere que las empresas de AI pueden entrenar sus modelos \"offshore\" para evitar las normas de copyright de UK y aun así comercializarlos en el mercado de UK, lo que podría tener \"consecuencias significativas\" para la música y para el conjunto de las industrias creativas."
+              },
+              {
+                "t": "p",
+                "x": "La BPI también subrayó que futuras demandas podrían no depender de los mismos argumentos, y citó los litigios de GEMA en Alemania contra Open AI y Suno, en los que los tribunales dictaminaron que los modelos de AI sí contenían copias de obras debido a la 'memorisation' (memorización). Se espera una sentencia sobre la apelación de Getty hacia finales de este año o a principios de 2027."
               }
             ]
           }
@@ -1431,15 +1581,15 @@
       }
     },
     {
-      "id": "knxwledge-streaming-app-takedowns",
+      "id": "radiomatic-venue-ai-music",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Knxwledge, 배급사\n삭제 뒤 자체 앱 출시",
-      "body": "Knxwledge는 AI 이전 음반이 배급사에서 내려가자 스트리밍 앱을 냈다.",
-      "mini_headline": "Knxwledge의 자체 스트리밍 앱",
+      "headline": "RadioMatic,\n매장에 AI 음악 공급",
+      "body": "RadioMatic이 카페·바에 AI-generated 배경음악을 공급한다.",
+      "mini_headline": "RadioMatic, 매장용 AI 음악",
       "tool": "Music",
-      "source": "Complex",
-      "url": "https://www.complex.com/music/a/markelibert/knxwledge-streaming-app-albums-removed-distributors",
+      "source": "Music Ally",
+      "url": "https://musically.com/2026/11/12/radiomatic-aims-to-make-ai-music-a-soundtrack-for-businesses/",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
@@ -1447,173 +1597,131 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://images.complex.com/complex/image/upload/c_crop,h_1910,w_2939,x_0,y_0/g_auto:aoi_1176_764_588_382,ar_1.91,c_fill,q_auto,w_1200/sanity-new/ehkmatoir85wnox3ljc2"
+            "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-25.png?fit=2000%2C1500&ssl=1",
+            "cap": "Radiomatic 홈페이지 데모 화면"
           },
           {
             "t": "p",
-            "x": "그래미 수상(Grammy-winning) 프로듀서 Knxwledge가 화요일(Nov. 10) X에 iOS용 자체 스트리밍 앱을 냈다고 알렸다. 몇 달째 그의 작품이 스트리밍 플랫폼에서 사라지자 내놓은 앱이다. 팬들은 여기서 그의 전체 카탈로그와 앞으로 나올 작품을 들을 수 있다."
+            "x": "요즘 카페나 바 같은 매장에서 AI-generated 음악을 튼다는 이야기가 심심치 않게 들린다. 아예 이런 음악을 전문으로 공급하는 스타트업까지 나왔다."
           },
           {
             "t": "p",
-            "x": "그의 말로는 내려간 작품 가운데 일부는 인공지능 음악 생성 도구가 널리 쓰이기 몇 년 전에 나왔다."
-          },
-          {
-            "t": "p",
-            "x": "그의 설명은 이렇다. \"OVER THE PAST FEW MONTHS DISTRIBUTORS HAVE TAKEN DOWN RECORDS IV'E MADE AND RELEASED YEARS BEFORE AI WAS EVEN AVAILABLE TO THE PUBLIC,\"(지난 몇 달 동안 배급사들이 AI가 대중에게 공개되기도 몇 년 전에 내가 만들어 발매한 음반들을 내렸다) \"ALL THOSE RECORDS CLEARLY HAVE RELEASE DATES, APPARENTLY THE PEOPLE REVIEWING THEM DON'T CARE OR HAVE THE TIME TO DIFFERENTIATE.\"(그 음반들에는 모두 발매일이 분명히 적혀 있는데, 심사하는 사람들은 신경 쓰지 않거나 구별할 시간이 없는 모양이다)"
-          },
-          {
-            "t": "p",
-            "x": "앱에는 그가 직접 리마스터했다는 전체 카탈로그가 실렸다. Android 버전은 나중에 나온다. 그는 팬들에게 업데이트 소식은 Discord 서버에서 확인하라고 안내했다."
+            "x": "RadioMatic은 네덜란드 music-tech 기업 SmartLabel이 만든 서비스다. AI-generated 음악으로 채운 라디오형 채널을 매장에 내보내면서 홍보 멘트와 징글, 지역 뉴스까지 곁들인다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Knxwledge starts his own app\nafter distributor takedowns",
-          "body": "Knxwledge launched a streaming app after distributors pulled records released before public AI music tools existed.",
-          "mini_headline": "Knxwledge's own streaming app",
+          "headline": "RadioMatic pitches AI music\nas venue soundtracks",
+          "body": "Startup RadioMatic is launching to supply AI-generated background music to cafes, bars and other businesses.",
+          "mini_headline": "RadioMatic: AI music for venues",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.complex.com/complex/image/upload/c_crop,h_1910,w_2939,x_0,y_0/g_auto:aoi_1176_764_588_382,ar_1.91,c_fill,q_auto,w_1200/sanity-new/ehkmatoir85wnox3ljc2"
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-25.png?fit=2000%2C1500&ssl=1",
+                "cap": "Radiomatic screenshot of homepage demo"
               },
               {
                 "t": "p",
-                "x": "On Tuesday (Nov. 10), the Grammy-winning producer Knxwledge announced on X that he launched his own streaming app for iOS, giving fans access to his entire catalog and future releases, after months of his projects disappearing from streaming platforms."
+                "x": "We've been hearing plenty of anecdotal evidence of businesses – cafes, bars and more – playing AI-generated music in recent times. Now there's a startup launching specifically to provide that."
               },
               {
                 "t": "p",
-                "x": "According to the producer, some of the removed projects were released years before artificial intelligence music-generation tools became widely available."
-              },
-              {
-                "t": "p",
-                "x": "\"OVER THE PAST FEW MONTHS DISTRIBUTORS HAVE TAKEN DOWN RECORDS IV'E MADE AND RELEASED YEARS BEFORE AI WAS EVEN AVAILABLE TO THE PUBLIC,\" he explained. \"ALL THOSE RECORDS CLEARLY HAVE RELEASE DATES, APPARENTLY THE PEOPLE REVIEWING THEM DON'T CARE OR HAVE THE TIME TO DIFFERENTIATE.\""
-              },
-              {
-                "t": "p",
-                "x": "The app features his complete catalog, which he says he personally remastered. An Android version is expected later, and he is directing fans to his Discord server for updates."
+                "x": "RadioMatic is the work of Dutch music-tech firm SmartLabel, and provides radio-style stations for businesses populated by AI-generated music – as well as promos, jingles and even local news."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Knxwledge, 배급사\n삭제 뒤 자체 앱 출시",
-          "body": "Knxwledge는 AI 이전 음반이 배급사에서 내려가자 스트리밍 앱을 냈다.",
-          "mini_headline": "Knxwledge의 자체 스트리밍 앱",
+          "headline": "RadioMatic,\n매장에 AI 음악 공급",
+          "body": "RadioMatic이 카페·바에 AI-generated 배경음악을 공급한다.",
+          "mini_headline": "RadioMatic, 매장용 AI 음악",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.complex.com/complex/image/upload/c_crop,h_1910,w_2939,x_0,y_0/g_auto:aoi_1176_764_588_382,ar_1.91,c_fill,q_auto,w_1200/sanity-new/ehkmatoir85wnox3ljc2"
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-25.png?fit=2000%2C1500&ssl=1",
+                "cap": "Radiomatic 홈페이지 데모 화면"
               },
               {
                 "t": "p",
-                "x": "그래미 수상(Grammy-winning) 프로듀서 Knxwledge가 화요일(Nov. 10) X에 iOS용 자체 스트리밍 앱을 냈다고 알렸다. 몇 달째 그의 작품이 스트리밍 플랫폼에서 사라지자 내놓은 앱이다. 팬들은 여기서 그의 전체 카탈로그와 앞으로 나올 작품을 들을 수 있다."
+                "x": "요즘 카페나 바 같은 매장에서 AI-generated 음악을 튼다는 이야기가 심심치 않게 들린다. 아예 이런 음악을 전문으로 공급하는 스타트업까지 나왔다."
               },
               {
                 "t": "p",
-                "x": "그의 말로는 내려간 작품 가운데 일부는 인공지능 음악 생성 도구가 널리 쓰이기 몇 년 전에 나왔다."
-              },
-              {
-                "t": "p",
-                "x": "그의 설명은 이렇다. \"OVER THE PAST FEW MONTHS DISTRIBUTORS HAVE TAKEN DOWN RECORDS IV'E MADE AND RELEASED YEARS BEFORE AI WAS EVEN AVAILABLE TO THE PUBLIC,\"(지난 몇 달 동안 배급사들이 AI가 대중에게 공개되기도 몇 년 전에 내가 만들어 발매한 음반들을 내렸다) \"ALL THOSE RECORDS CLEARLY HAVE RELEASE DATES, APPARENTLY THE PEOPLE REVIEWING THEM DON'T CARE OR HAVE THE TIME TO DIFFERENTIATE.\"(그 음반들에는 모두 발매일이 분명히 적혀 있는데, 심사하는 사람들은 신경 쓰지 않거나 구별할 시간이 없는 모양이다)"
-              },
-              {
-                "t": "p",
-                "x": "앱에는 그가 직접 리마스터했다는 전체 카탈로그가 실렸다. Android 버전은 나중에 나온다. 그는 팬들에게 업데이트 소식은 Discord 서버에서 확인하라고 안내했다."
+                "x": "RadioMatic은 네덜란드 music-tech 기업 SmartLabel이 만든 서비스다. AI-generated 음악으로 채운 라디오형 채널을 매장에 내보내면서 홍보 멘트와 징글, 지역 뉴스까지 곁들인다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Knxwledgeが\n配信削除受け独自アプリ",
-          "body": "KnxwledgeはAI普及前の作品を配信業者に消され、自前の配信アプリを始めた。",
-          "mini_headline": "Knxwledgeの自前配信アプリ",
+          "headline": "RadioMatic、\n店舗向けAI音楽を提案",
+          "body": "RadioMaticがカフェやバーなどにAI-generatedの背景音楽を供給する。",
+          "mini_headline": "RadioMatic、店舗にAI音楽",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.complex.com/complex/image/upload/c_crop,h_1910,w_2939,x_0,y_0/g_auto:aoi_1176_764_588_382,ar_1.91,c_fill,q_auto,w_1200/sanity-new/ehkmatoir85wnox3ljc2"
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-25.png?fit=2000%2C1500&ssl=1",
+                "cap": "Radiomaticのホームページのデモ画面"
               },
               {
                 "t": "p",
-                "x": "グラミー賞受賞（Grammy-winning）プロデューサーのKnxwledgeは火曜日（Nov. 10）、X上で、ファンが全カタログと今後のリリースを聴ける自身のiOS向けストリーミングアプリを公開したと発表した。数か月にわたり、彼の作品がストリーミングプラットフォームから消えていた末の判断だ。"
+                "x": "カフェやバーなどの店舗がAI-generatedの音楽を流しているという話を、最近よく耳にするようになった。そしていま、それを専門に提供するスタートアップが登場した。"
               },
               {
                 "t": "p",
-                "x": "本人によれば、削除された作品の一部は、人工知能による音楽生成ツールが広く使えるようになる何年も前にリリースされたものだという。"
-              },
-              {
-                "t": "p",
-                "x": "彼はこう説明した。\"OVER THE PAST FEW MONTHS DISTRIBUTORS HAVE TAKEN DOWN RECORDS IV'E MADE AND RELEASED YEARS BEFORE AI WAS EVEN AVAILABLE TO THE PUBLIC,\"（ここ数か月、ディストリビューターは、AIが一般に使えるようになる何年も前に僕が作ってリリースしたレコードを削除してきた） \"ALL THOSE RECORDS CLEARLY HAVE RELEASE DATES, APPARENTLY THE PEOPLE REVIEWING THEM DON'T CARE OR HAVE THE TIME TO DIFFERENTIATE.\"（どのレコードにもはっきりリリース日がある。どうやら審査する人たちは気にしていないか、見分ける時間がないらしい）"
-              },
-              {
-                "t": "p",
-                "x": "アプリには、本人が自らリマスターしたという全カタログが収録されている。Android版は後日登場する予定で、最新情報は彼のDiscordサーバーで確認するようファンに呼びかけている。"
+                "x": "RadioMaticはオランダのmusic-tech企業SmartLabelが手がけるサービスで、AI-generatedの音楽で構成したラジオ風のステーションを店舗に提供する。プロモーションやジングル、さらには地域ニュースも流す。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Knxwledge遭下架后\n推出自有流媒体应用",
-          "body": "因发行商下架其在AI音乐工具普及前发布的作品，Knxwledge推出了自己的流媒体应用。",
-          "mini_headline": "Knxwledge自建流媒体应用",
+          "headline": "RadioMatic推出\n为门店提供AI音乐",
+          "body": "初创公司RadioMatic为咖啡馆、酒吧等商家提供AI-generated背景音乐。",
+          "mini_headline": "RadioMatic：门店AI音乐",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.complex.com/complex/image/upload/c_crop,h_1910,w_2939,x_0,y_0/g_auto:aoi_1176_764_588_382,ar_1.91,c_fill,q_auto,w_1200/sanity-new/ehkmatoir85wnox3ljc2"
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-25.png?fit=2000%2C1500&ssl=1",
+                "cap": "Radiomatic主页演示截图"
               },
               {
                 "t": "p",
-                "x": "周二（Nov. 10），格莱美获奖（Grammy-winning）制作人Knxwledge在X上宣布推出自己的iOS流媒体应用，让粉丝可以收听他的全部作品目录和未来新作。此前数月，他的作品不断从流媒体平台上消失。"
+                "x": "近来，咖啡馆、酒吧等商家播放AI-generated音乐的传闻屡见不鲜。如今，一家专门提供此类服务的初创公司正式上线。"
               },
               {
                 "t": "p",
-                "x": "据这位制作人说，被下架的部分作品发行时间比人工智能音乐生成工具普及还要早好几年。"
-              },
-              {
-                "t": "p",
-                "x": "他解释道：\"OVER THE PAST FEW MONTHS DISTRIBUTORS HAVE TAKEN DOWN RECORDS IV'E MADE AND RELEASED YEARS BEFORE AI WAS EVEN AVAILABLE TO THE PUBLIC,\"（过去几个月，发行商下架了我在AI向公众开放之前好几年就制作并发行的唱片） \"ALL THOSE RECORDS CLEARLY HAVE RELEASE DATES, APPARENTLY THE PEOPLE REVIEWING THEM DON'T CARE OR HAVE THE TIME TO DIFFERENTIATE.\"（这些唱片都清楚标着发行日期，显然审核的人根本不在乎，或者没时间去分辨。）"
-              },
-              {
-                "t": "p",
-                "x": "该应用收录了他的完整作品目录，他说这些都由他亲自重新做了母带处理。Android版本预计稍后推出，他引导粉丝前往他的Discord服务器获取最新消息。"
+                "x": "RadioMatic出自荷兰music-tech公司SmartLabel，为商家提供由AI-generated音乐组成的电台式频道，还附带促销内容、广告歌乃至本地新闻。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Knxwledge lanza su propia app\ntras retiradas de distribuidoras",
-          "body": "Knxwledge lanzó una app de streaming tras la retirada de discos anteriores a las herramientas públicas de música AI.",
-          "mini_headline": "La app de streaming de Knxwledge",
+          "headline": "RadioMatic ofrece música AI\ncomo banda sonora de locales",
+          "body": "La startup RadioMatic se lanza para ofrecer música de fondo AI-generated a cafés, bares y otros negocios.",
+          "mini_headline": "RadioMatic: música AI para locales",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.complex.com/complex/image/upload/c_crop,h_1910,w_2939,x_0,y_0/g_auto:aoi_1176_764_588_382,ar_1.91,c_fill,q_auto,w_1200/sanity-new/ehkmatoir85wnox3ljc2"
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-25.png?fit=2000%2C1500&ssl=1",
+                "cap": "Captura de la demo de la página de inicio de Radiomatic"
               },
               {
                 "t": "p",
-                "x": "El martes (Nov. 10), el productor Knxwledge, ganador de un Grammy (Grammy-winning), anunció en X que lanzó su propia app de streaming para iOS, que da a los fans acceso a todo su catálogo y a sus futuros lanzamientos, tras meses en los que sus proyectos fueron desapareciendo de las plataformas de streaming."
+                "x": "Últimamente hemos oído muchos testimonios de negocios, como cafés, bares y otros, que reproducen música AI-generated. Ahora llega una startup creada específicamente para ofrecer ese servicio."
               },
               {
                 "t": "p",
-                "x": "Según el productor, algunos de los proyectos retirados se publicaron años antes de que las herramientas de generación musical con inteligencia artificial estuvieran ampliamente disponibles."
-              },
-              {
-                "t": "p",
-                "x": "Así lo explicó: \"OVER THE PAST FEW MONTHS DISTRIBUTORS HAVE TAKEN DOWN RECORDS IV'E MADE AND RELEASED YEARS BEFORE AI WAS EVEN AVAILABLE TO THE PUBLIC,\" (en los últimos meses, las distribuidoras han retirado discos que hice y publiqué años antes de que la AI estuviera siquiera al alcance del público). \"ALL THOSE RECORDS CLEARLY HAVE RELEASE DATES, APPARENTLY THE PEOPLE REVIEWING THEM DON'T CARE OR HAVE THE TIME TO DIFFERENTIATE.\" (Todos esos discos tienen fechas de lanzamiento claras; al parecer, a quienes los revisan no les importa o no tienen tiempo para diferenciarlos)."
-              },
-              {
-                "t": "p",
-                "x": "La app incluye su catálogo completo, que según él remasterizó personalmente. Se espera una versión para Android más adelante, y por ahora remite a los fans a su servidor de Discord para recibir novedades."
+                "x": "RadioMatic es obra de la empresa neerlandesa de music-tech SmartLabel y ofrece a los negocios emisoras de estilo radiofónico con música AI-generated, además de promociones, jingles e incluso noticias locales."
               }
             ]
           }
@@ -1621,121 +1729,93 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Knxwledge, 배급사\n삭제 뒤 자체 앱 출시",
-          "body": "Knxwledge는 AI 이전 음반이 배급사에서 내려가자 스트리밍 앱을 냈다.",
-          "mini_headline": "Knxwledge의 자체 스트리밍 앱",
+          "headline": "RadioMatic,\n매장에 AI 음악 공급",
+          "body": "RadioMatic이 카페·바에 AI-generated 배경음악을 공급한다.",
+          "mini_headline": "RadioMatic, 매장용 AI 음악",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.complex.com/complex/image/upload/c_crop,h_1910,w_2939,x_0,y_0/g_auto:aoi_1176_764_588_382,ar_1.91,c_fill,q_auto,w_1200/sanity-new/ehkmatoir85wnox3ljc2"
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-25.png?fit=2000%2C1500&ssl=1",
+                "cap": "Radiomatic 홈페이지 데모 화면"
               },
               {
                 "t": "p",
-                "x": "그래미 수상(Grammy-winning) 프로듀서 Knxwledge는 화요일(Nov. 10) X에서 iOS용 자체 스트리밍 앱을 출시했다고 밝혔다. 몇 달째 그의 작품이 스트리밍 플랫폼에서 사라진 끝에 내놓은 앱으로, 팬들은 그의 전체 카탈로그와 앞으로 낼 작품을 들을 수 있다."
+                "x": "최근 카페와 바 등 매장에서 AI-generated 음악을 튼다는 이야기가 심심치 않게 들려왔다. 이제 이를 전문으로 공급하는 스타트업이 나왔다."
               },
               {
                 "t": "p",
-                "x": "그에 따르면 삭제된 작품 중 일부는 인공지능 음악 생성 도구가 널리 쓰이기 몇 년 전에 발매됐다."
-              },
-              {
-                "t": "p",
-                "x": "그는 이렇게 설명했다. \"OVER THE PAST FEW MONTHS DISTRIBUTORS HAVE TAKEN DOWN RECORDS IV'E MADE AND RELEASED YEARS BEFORE AI WAS EVEN AVAILABLE TO THE PUBLIC,\"(지난 몇 달 동안 배급사들이 AI가 대중에게 공개되기도 몇 년 전에 내가 만들어 발매한 음반들을 내렸다) \"ALL THOSE RECORDS CLEARLY HAVE RELEASE DATES, APPARENTLY THE PEOPLE REVIEWING THEM DON'T CARE OR HAVE THE TIME TO DIFFERENTIATE.\"(그 음반들에는 모두 발매일이 분명히 적혀 있는데, 심사하는 사람들은 신경 쓰지 않거나 구별할 시간이 없는 모양이다)"
-              },
-              {
-                "t": "p",
-                "x": "앱에는 그가 직접 리마스터했다는 전체 카탈로그가 담겼다. Android 버전은 추후 나올 예정이며, 그는 팬들에게 업데이트 소식은 Discord 서버에서 확인하라고 안내하고 있다."
+                "x": "RadioMatic은 네덜란드 music-tech 기업 SmartLabel이 만든 서비스로, AI-generated 음악으로 채운 라디오형 채널을 매장에 제공한다. 홍보 멘트와 징글, 지역 뉴스까지 곁들인다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Knxwledgeが\n配信削除受け独自アプリ",
-          "body": "KnxwledgeはAI普及前の作品を配信業者に消され、自前の配信アプリを始めた。",
-          "mini_headline": "Knxwledgeの自前配信アプリ",
+          "headline": "RadioMatic、\n店舗向けAI音楽を提案",
+          "body": "RadioMaticがカフェやバーなどにAI-generatedの背景音楽を供給する。",
+          "mini_headline": "RadioMatic、店舗にAI音楽",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.complex.com/complex/image/upload/c_crop,h_1910,w_2939,x_0,y_0/g_auto:aoi_1176_764_588_382,ar_1.91,c_fill,q_auto,w_1200/sanity-new/ehkmatoir85wnox3ljc2"
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-25.png?fit=2000%2C1500&ssl=1",
+                "cap": "Radiomaticのホームページのデモ画面"
               },
               {
                 "t": "p",
-                "x": "グラミー賞受賞（Grammy-winning）プロデューサーのKnxwledgeは火曜日（Nov. 10）、X上で、ファンが全カタログと今後のリリースを聴ける自身のiOS向けストリーミングアプリを公開したと発表した。数か月にわたり、彼の作品がストリーミングプラットフォームから消えていた末の判断だ。"
+                "x": "カフェやバーなどの店舗がAI-generatedの音楽を流しているという話を、最近よく耳にするようになった。そしていま、それを専門に提供するスタートアップが登場した。"
               },
               {
                 "t": "p",
-                "x": "本人によれば、削除された作品の一部は、人工知能による音楽生成ツールが広く使えるようになる何年も前にリリースされたものだという。"
-              },
-              {
-                "t": "p",
-                "x": "彼はこう説明した。\"OVER THE PAST FEW MONTHS DISTRIBUTORS HAVE TAKEN DOWN RECORDS IV'E MADE AND RELEASED YEARS BEFORE AI WAS EVEN AVAILABLE TO THE PUBLIC,\"（ここ数か月、ディストリビューターは、AIが一般に使えるようになる何年も前に僕が作ってリリースしたレコードを削除してきた） \"ALL THOSE RECORDS CLEARLY HAVE RELEASE DATES, APPARENTLY THE PEOPLE REVIEWING THEM DON'T CARE OR HAVE THE TIME TO DIFFERENTIATE.\"（どのレコードにもはっきりリリース日がある。どうやら審査する人たちは気にしていないか、見分ける時間がないらしい）"
-              },
-              {
-                "t": "p",
-                "x": "アプリには、本人が自らリマスターしたという全カタログが収録されている。Android版は後日登場する予定で、最新情報は彼のDiscordサーバーで確認するようファンに呼びかけている。"
+                "x": "RadioMaticはオランダのmusic-tech企業SmartLabelが手がけるサービスで、AI-generatedの音楽で構成したラジオ風のステーションを店舗に提供する。プロモーションやジングル、さらには地域ニュースも流す。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Knxwledge遭下架后\n推出自有流媒体应用",
-          "body": "因发行商下架其在AI音乐工具普及前发布的作品，Knxwledge推出了自己的流媒体应用。",
-          "mini_headline": "Knxwledge自建流媒体应用",
+          "headline": "RadioMatic推出\n为门店提供AI音乐",
+          "body": "初创公司RadioMatic为咖啡馆、酒吧等商家提供AI-generated背景音乐。",
+          "mini_headline": "RadioMatic：门店AI音乐",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.complex.com/complex/image/upload/c_crop,h_1910,w_2939,x_0,y_0/g_auto:aoi_1176_764_588_382,ar_1.91,c_fill,q_auto,w_1200/sanity-new/ehkmatoir85wnox3ljc2"
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-25.png?fit=2000%2C1500&ssl=1",
+                "cap": "Radiomatic主页演示截图"
               },
               {
                 "t": "p",
-                "x": "周二（Nov. 10），格莱美获奖（Grammy-winning）制作人Knxwledge在X上宣布推出自己的iOS流媒体应用，让粉丝可以收听他的全部作品目录和未来新作。此前数月，他的作品不断从流媒体平台上消失。"
+                "x": "近来，咖啡馆、酒吧等商家播放AI-generated音乐的传闻屡见不鲜。如今，一家专门提供此类服务的初创公司正式上线。"
               },
               {
                 "t": "p",
-                "x": "据这位制作人说，被下架的部分作品发行时间比人工智能音乐生成工具普及还要早好几年。"
-              },
-              {
-                "t": "p",
-                "x": "他解释道：\"OVER THE PAST FEW MONTHS DISTRIBUTORS HAVE TAKEN DOWN RECORDS IV'E MADE AND RELEASED YEARS BEFORE AI WAS EVEN AVAILABLE TO THE PUBLIC,\"（过去几个月，发行商下架了我在AI向公众开放之前好几年就制作并发行的唱片） \"ALL THOSE RECORDS CLEARLY HAVE RELEASE DATES, APPARENTLY THE PEOPLE REVIEWING THEM DON'T CARE OR HAVE THE TIME TO DIFFERENTIATE.\"（这些唱片都清楚标着发行日期，显然审核的人根本不在乎，或者没时间去分辨。）"
-              },
-              {
-                "t": "p",
-                "x": "该应用收录了他的完整作品目录，他说这些都由他亲自重新做了母带处理。Android版本预计稍后推出，他引导粉丝前往他的Discord服务器获取最新消息。"
+                "x": "RadioMatic出自荷兰music-tech公司SmartLabel，为商家提供由AI-generated音乐组成的电台式频道，还附带促销内容、广告歌乃至本地新闻。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Knxwledge lanza su propia app\ntras retiradas de distribuidoras",
-          "body": "Knxwledge lanzó una app de streaming tras la retirada de discos anteriores a las herramientas públicas de música AI.",
-          "mini_headline": "La app de streaming de Knxwledge",
+          "headline": "RadioMatic ofrece música AI\ncomo banda sonora de locales",
+          "body": "La startup RadioMatic se lanza para ofrecer música de fondo AI-generated a cafés, bares y otros negocios.",
+          "mini_headline": "RadioMatic: música AI para locales",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.complex.com/complex/image/upload/c_crop,h_1910,w_2939,x_0,y_0/g_auto:aoi_1176_764_588_382,ar_1.91,c_fill,q_auto,w_1200/sanity-new/ehkmatoir85wnox3ljc2"
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-25.png?fit=2000%2C1500&ssl=1",
+                "cap": "Captura de la demo de la página de inicio de Radiomatic"
               },
               {
                 "t": "p",
-                "x": "El martes (Nov. 10), el productor Knxwledge, ganador de un Grammy (Grammy-winning), anunció en X que lanzó su propia app de streaming para iOS, que da a los fans acceso a todo su catálogo y a sus futuros lanzamientos, tras meses en los que sus proyectos fueron desapareciendo de las plataformas de streaming."
+                "x": "Últimamente hemos oído muchos testimonios de negocios, como cafés, bares y otros, que reproducen música AI-generated. Ahora llega una startup creada específicamente para ofrecer ese servicio."
               },
               {
                 "t": "p",
-                "x": "Según el productor, algunos de los proyectos retirados se publicaron años antes de que las herramientas de generación musical con inteligencia artificial estuvieran ampliamente disponibles."
-              },
-              {
-                "t": "p",
-                "x": "Así lo explicó: \"OVER THE PAST FEW MONTHS DISTRIBUTORS HAVE TAKEN DOWN RECORDS IV'E MADE AND RELEASED YEARS BEFORE AI WAS EVEN AVAILABLE TO THE PUBLIC,\" (en los últimos meses, las distribuidoras han retirado discos que hice y publiqué años antes de que la AI estuviera siquiera al alcance del público). \"ALL THOSE RECORDS CLEARLY HAVE RELEASE DATES, APPARENTLY THE PEOPLE REVIEWING THEM DON'T CARE OR HAVE THE TIME TO DIFFERENTIATE.\" (Todos esos discos tienen fechas de lanzamiento claras; al parecer, a quienes los revisan no les importa o no tienen tiempo para diferenciarlos)."
-              },
-              {
-                "t": "p",
-                "x": "La app incluye su catálogo completo, que según él remasterizó personalmente. Se espera una versión para Android más adelante, y por ahora remite a los fans a su servidor de Discord para recibir novedades."
+                "x": "RadioMatic es obra de la empresa neerlandesa de music-tech SmartLabel y ofrece a los negocios emisoras de estilo radiofónico con música AI-generated, además de promociones, jingles e incluso noticias locales."
               }
             ]
           }

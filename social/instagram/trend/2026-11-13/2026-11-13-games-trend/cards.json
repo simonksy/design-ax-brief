@@ -1,0 +1,111 @@
+{
+  "meta": {
+    "issue": "AI를 썼나, 선을 긋다",
+    "date": "2026.11.13",
+    "section": "GAMES",
+    "accent": "#2ec5c5",
+    "note": "원문 4건 대조: 날짜를 원문 게재일로 고침(Jackbox 11.10→11.08, Big Walk 11.11→11.10, STEM 챌린지 11.11→11.10, GDC 11.13→11.12). 사진은 Big Walk 한 장만 두고 나머지는 quote·stat로. Bilder 발언, IGF 심사위원 성명·0.1% 미만·URP 10줄, ACER 'final chapter'·12년, GDC 40%(+4%p)·55% 부정적·AAA 27%/인디 9% 확인.",
+    "sources": [
+      "PC Gamer — Jackbox Games isn't interested in AI development: 'All that is done by people, and we have no intention of changing that' (2026.11.08)",
+      "GamesIndustry.biz — House House clarifies use of AI tools in Big Walk's \"final stage of development\" (2026.11.10)",
+      "PC Gamer — Educational game dev program cancelled because students were submitting games made entirely with AI (2026.11.10)",
+      "GamesIndustry.biz — GDC State of the Game Industry report: 40% of developers are using generative AI for work (2026.11.12)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 게임 · 11.08~11.12",
+      "thread": [
+        {
+          "d": "11.08",
+          "t": "선언",
+          "c": "#2ec5c5",
+          "s": "GAMES"
+        },
+        {
+          "d": "11.10",
+          "t": "심사",
+          "c": "#2ec5c5",
+          "s": "GAMES"
+        },
+        {
+          "d": "11.10",
+          "t": "폐지",
+          "c": "#2ec5c5",
+          "s": "GAMES"
+        },
+        {
+          "d": "11.12",
+          "t": "조사",
+          "c": "#2ec5c5",
+          "s": "GAMES"
+        }
+      ],
+      "thread_note": "AI를 썼느냐가 게임을 평가하는 선이 되고 있다",
+      "eyebrow": "흐름 · 게임",
+      "headline": "AI를 썼나,\n선을 긋다",
+      "body": "한 건씩 보면 한 회사의 입장이다. 그런데 닷새 사이 선언, 심사 거부, 대회 폐지가 잇따랐다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "quote",
+      "eyebrow": "2026.11.08",
+      "headline": "Jackbox, 사람이 만든다",
+      "body": "CEO Mike Bilder는 도구·리서치용 AI는 강력하다면서도 생성 에셋으로 사람을 대체할 생각은 없다고 했다.",
+      "foot": "2026.11.08",
+      "_src": "https://www.pcgamer.com/gaming-industry/game-development/jackbox-games-isnt-interested-in-ai-development-all-that-is-done-by-people-and-we-have-no-intention-of-changing-that/",
+      "_id": "jackbox-human-made-pledge",
+      "quote": "코미디, 글, 그림은\n모두 사람이 만들고\n바꿀 생각이 없다",
+      "quote_by": "Mike Bilder · Jackbox Games CEO"
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.11.10",
+      "headline": "IGF 심사위원, AI 게임 거부",
+      "body": "심사위원들이 생성형 AI를 쓴 게임엔 표를 주지 않겠다고 했다. Big Walk 개발사는 코드 0.1% 미만에 썼다고 밝혔다.",
+      "foot": "2026.11.10",
+      "_src": "https://www.gamesindustry.biz/house-house-clarifies-use-of-ai-tools-in-big-walks-final-stage-of-development",
+      "_id": "househouse-bigwalk-igf-ai",
+      "media": "pipeline/media/househouse-bigwalk-igf-ai.jpg"
+    },
+    {
+      "n": 4,
+      "kind": "quote",
+      "eyebrow": "2026.11.10",
+      "headline": "학생 대회, 12년 만에 끝",
+      "body": "호주 STEM 비디오게임 챌린지가 올해로 끝난다. 학생이 직접 만든 부분을 가리기 어려워졌다는 이유다.",
+      "foot": "2026.11.10",
+      "_src": "https://www.pcgamer.com/software/ai/educational-game-dev-program-cancelled-because-students-were-submitting-games-made-entirely-with-ai/",
+      "_id": "games-edu-program-ai-cancel",
+      "quote": "학생이 스스로 만든 것을\n판단하기가\n더 어려워졌다",
+      "quote_by": "ACER · 호주교육연구원"
+    },
+    {
+      "n": 5,
+      "kind": "stat",
+      "eyebrow": "2026.11.12",
+      "headline": "그래도 쓰는 사람은 늘었다",
+      "body": "GDC 조사에서 생성형 AI를 쓰는 개발자는 40%로 4%p 늘었다. AI가 게임에 해롭다는 답도 55%였다.",
+      "foot": "2026.11.12",
+      "_src": "https://www.gamesindustry.biz/gdc-state-of-the-game-industry-report-40-of-developers-are-using-generative-ai-for-work",
+      "_id": "gdc-state-industry-2026-genai",
+      "stat_top": "생성형 AI 쓰는 개발자",
+      "stat_arrow": "직전 조사보다 4%p 늘어",
+      "stat_bottom": "40%",
+      "stat_strike": false
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "section": "movies",
   "cards": [
     {
-      "id": "firefly-build-story-assemble",
+      "id": "shortical-inevitable-avni",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Adobe Firefly,\n아이디어에서 클립까지",
-      "body": "Firefly 베타 공간 두 개가 아이디어를 장면과 숏을 거쳐 클립으로 만든다.",
-      "mini_headline": "Firefly, 아이디어에서 클립까지",
+      "headline": "Inevitable 공개,\nAki Avni AI 분신",
+      "body": "Aki Avni가 동의한 AI 분신이 주연한 Inevitable이 공개됐다.",
+      "mini_headline": "Inevitable, AI 분신 주연으로 공개",
       "tool": "Movies",
-      "source": "RedShark News",
-      "url": "https://www.redsharknews.com/adobe-firefly-build-story-assemble-short-video",
+      "source": "TheWrap",
+      "url": "https://www.thewrap.com/creative-content/tv-shows/shorticals-ai-generated-microseries-inevitable-premieres-aki-avni-ai-actor/",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
@@ -19,221 +19,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.redsharknews.com/hubfs/adobe%20firefly%20video%20editor.jpg"
+            "src": "https://www.thewrap.com/wp-content/uploads/2026/05/894de741-4605-4349-b5ca-c6cb0b7442b6.jpg",
+            "cap": "\"Inevitable\" 속 AI로 만든(AI-generated) Aki Avni (Credit: Shortical)"
           },
           {
             "t": "p",
-            "x": "Adobe가 MAX 2026에서 Firefly에 베타 작업 공간 두 개를 더했다. 둘을 함께 쓰면 아이디어 단계부터 짧은 영상 완성까지 한 흐름으로 다룬다. Firefly 메뉴 Video 항목 아래의 Build a story는 프롬프트를 짜임새 있는 시각적 스토리로 바꾸고, Assemble short video는 클립을 늘어놓는 단순한 단일 트랙 작업 공간이다."
-          },
-          {
-            "t": "video",
-            "src": "https://images-tv.adobe.com/mpcv3/14067/3507880/202d88d5-1a16-4a96-82e9-e2705e0a963b/f0f56478-3475-461d-a2e2-30359e9a5ca7_1793918460.854x480at800_h264.mp4"
+            "x": "Shortical의 “Inevitable”은 전편을 AI로 만든(AI-generated) 마이크로드라마 시리즈다. AI가 창작을 위협한다는 엔터테인먼트 업계의 두려움을 정면으로 건드린다. 이 심리 스릴러의 주인공은 이스라엘 배우 Aki Avni의 AI 버전이다. 얼굴과 초상을 AI 스튜디오에 판 배우가 자기 AI 버전이 저지르지도 않은 살인 미수 사건에 휘말렸다는 걸 알게 되는 이야기다."
           },
           {
             "t": "p",
-            "x": "Firefly AI Assistant에 아이디어를 설명하면 어시스턴트가 목표 길이를 묻고 캐릭터·장소·사물·크리에이티브 방향 같은 세부 사항도 원하면 받는다. 그다음 룩과 사운드 방식, 장면·숏 수, 등장할 캐릭터·장소·사물을 제안하고 이를 요소로 저장해 숏끼리 일관성을 지킨다. 숏마다 비트 설명을 쓰고 첫 프레임도 만든다. 숏은 장면별로 묶인 카드로 뜬다. 클립은 카드마다 따로, 또는 Generate all로 한꺼번에 생성해 내려받거나 Timeline (beta)에서 열 수 있다. 다만 프레임을 생성한 뒤에는 해상도와 화면비를 바꿀 수 없다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.redsharknews.com/hs-fs/hubfs/adobe%20firefly%20video%20editor%20quick%20actions.jpg?width=1920&height=1080&name=adobe%20firefly%20video%20editor%20quick%20actions.jpg"
+            "x": "Avni는 세로형으로 만든 이 작품 제작에 깊이 관여해 제작진과 함께 자기 디지털 분신을 직접 빚었다. 그는 “제대로 발을 들여놓고 무엇이 내게 예스이고 무엇이 노인지 정확히 안다면, 이 상황에서 이길 수 있다”고 말했다."
           },
           {
             "t": "p",
-            "x": "Assemble short video는 생성하거나 가져온 클립을 단일 트랙에서 다루는 가벼운 작업 공간이다. 클립을 자르고 나누고 순서를 바꾸는 것은 물론 볼륨 조절, 컷 감지, 화면비 변경까지 된다. 고른 클립은 텍스트 프롬프트로 다시 생성할 수 있는데, 이때 드는 생성 크레딧이 비용 표시로 함께 뜬다. 다시 만든 버전은 테이크로 쌓여 서로 비교할 수 있다."
+            "x": "연출과 기획을 맡은 Ofir Lobel에게는 첫 AI 생성(AI-generated) 프로젝트이자 첫 세로형 시리즈다. Lobel은 “‘Inevitable’은 자기 초상에 대한 통제권을 잃는 이야기를 담은 마이크로드라마 시리즈이고, 우리는 배우이자 주연에게 그 통제권을 쥐여 주는 방식으로 이 작품을 만들었다”며 “엔터테인먼트의 미래는 AI냐 배우냐가 아니라, 배우와 함께하는 AI”라고 말했다."
           },
           {
             "t": "p",
-            "x": "두 도구 모두 베타이며 Creative Cloud for Teams나 Enterprise 사용자는 쓸 수 없다. Build a story는 데스크톱 Chrome과 Edge에서만 돌아간다. 클립도 직접 올릴 수 없고 Adobe 클라우드 스토리지의 생성 기록에서만 불러온다."
+            "x": "“Inevitable”은 11월 13일 Shortical App에서 24편을 먼저 선보였다. 모두 50편 분량이며 새 에피소드는 매주 올라온다. 각본은 Sharon Ben Tovim, 제작은 Shortical이 맡았다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Adobe Firefly adds a path\nfrom story idea to clip",
-          "body": "Two beta Firefly workspaces take an idea through planned scenes and shots to a finished clip.",
-          "mini_headline": "Firefly goes idea to clip",
+          "headline": "Shortical premieres Inevitable\nwith Aki Avni's AI double",
+          "body": "Shortical's fully AI-generated microdrama Inevitable premieres with a consented AI double of actor Aki Avni.",
+          "mini_headline": "Inevitable premieres\nwith an AI double",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.redsharknews.com/hubfs/adobe%20firefly%20video%20editor.jpg"
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/05/894de741-4605-4349-b5ca-c6cb0b7442b6.jpg",
+                "cap": "AI-generated Aki Avni in \"Inevitable\" (Credit: Shortical)"
               },
               {
                 "t": "p",
-                "x": "Adobe has added two beta workspaces to Firefly at MAX 2026 that between them cover the journey from idea to short video. Build a story, found under Video in the Firefly menu, turns a prompt into a structured visual story. Assemble short video then offers a simplified, single-track workspace for arranging the clips."
-              },
-              {
-                "t": "video",
-                "src": "https://images-tv.adobe.com/mpcv3/14067/3507880/202d88d5-1a16-4a96-82e9-e2705e0a963b/f0f56478-3475-461d-a2e2-30359e9a5ca7_1793918460.854x480at800_h264.mp4"
+                "x": "Shortical’s “Inevitable” places the entertainment industry’s fears about AI’s threats to their creativity centerstage in this fully AI-generated microdrama series. The psychological thriller stars an AI version of Israeli actor Aki Avni: after the actor sells his face and likeness to an AI studio, he realizes that the AI version of himself is implicated in an attempted murder he didn’t commit."
               },
               {
                 "t": "p",
-                "x": "Users describe an idea to the Firefly AI Assistant, which asks for a target duration and optional details on characters, locations, objects, and creative direction. It then proposes a look, a sound approach, the number of scenes and shots, and the characters, locations, and objects involved, saving them as elements to keep them consistent across shots, writing a beat description for each shot and generating a first frame. Shots appear as cards grouped by scene; clips can be generated card by card or with Generate all, then downloaded or opened in Timeline (beta). Resolution and aspect ratio can’t be changed once frames are generated."
-              },
-              {
-                "t": "img",
-                "src": "https://www.redsharknews.com/hs-fs/hubfs/adobe%20firefly%20video%20editor%20quick%20actions.jpg?width=1920&height=1080&name=adobe%20firefly%20video%20editor%20quick%20actions.jpg"
+                "x": "Avni was heavily involved in the production for this vertical and helped create his own digital double, working alongside the filmmakers. “If you really put your step in and know exactly what is a yes for you and what is a no for you, you can win the situation,” he said."
               },
               {
                 "t": "p",
-                "x": "Assemble short video is a lightweight workspace for generated or imported clips on a single track. Users can trim, split, and rearrange clips, adjust volume, detect cuts, and change the aspect ratio. Selected clips can be regenerated from a text prompt, with a cost indicator showing the generative credits required; regenerated versions appear as takes to compare."
+                "x": "It is director and creator Ofir Lobel’s first AI-generated project and first vertical series. “‘Inevitable’ is a microdrama series about losing control of your likeness, and we made it by giving our actor, our main lead, the control of it,” Lobel said. “The future of entertainment isn’t AI or actors; it’s AI with actors.”"
               },
               {
                 "t": "p",
-                "x": "Both tools are in beta and not available to Creative Cloud for Teams or Enterprise users. Build a story works only in Chrome and Edge on desktop and takes clips only from Adobe cloud storage’s generation history, not direct uploads."
+                "x": "“Inevitable” premiered Nov. 13 on the Shortical App with 24 episodes; new episodes of the 50-episode microdrama drop weekly. It is written by Sharon Ben Tovim and produced by Shortical."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Adobe Firefly,\n아이디어에서 클립까지",
-          "body": "Firefly 베타 공간 두 개가 아이디어를 장면과 숏을 거쳐 클립으로 만든다.",
-          "mini_headline": "Firefly, 아이디어에서 클립까지",
+          "headline": "Inevitable 공개,\nAki Avni AI 분신",
+          "body": "Aki Avni가 동의한 AI 분신이 주연한 Inevitable이 공개됐다.",
+          "mini_headline": "Inevitable, AI 분신 주연으로 공개",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.redsharknews.com/hubfs/adobe%20firefly%20video%20editor.jpg"
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/05/894de741-4605-4349-b5ca-c6cb0b7442b6.jpg",
+                "cap": "\"Inevitable\" 속 AI로 만든(AI-generated) Aki Avni (Credit: Shortical)"
               },
               {
                 "t": "p",
-                "x": "Adobe가 MAX 2026에서 Firefly에 베타 작업 공간 두 개를 더했다. 둘을 함께 쓰면 아이디어 단계부터 짧은 영상 완성까지 한 흐름으로 다룬다. Firefly 메뉴 Video 항목 아래의 Build a story는 프롬프트를 짜임새 있는 시각적 스토리로 바꾸고, Assemble short video는 클립을 늘어놓는 단순한 단일 트랙 작업 공간이다."
-              },
-              {
-                "t": "video",
-                "src": "https://images-tv.adobe.com/mpcv3/14067/3507880/202d88d5-1a16-4a96-82e9-e2705e0a963b/f0f56478-3475-461d-a2e2-30359e9a5ca7_1793918460.854x480at800_h264.mp4"
+                "x": "Shortical의 “Inevitable”은 전편을 AI로 만든(AI-generated) 마이크로드라마 시리즈다. AI가 창작을 위협한다는 엔터테인먼트 업계의 두려움을 정면으로 건드린다. 이 심리 스릴러의 주인공은 이스라엘 배우 Aki Avni의 AI 버전이다. 얼굴과 초상을 AI 스튜디오에 판 배우가 자기 AI 버전이 저지르지도 않은 살인 미수 사건에 휘말렸다는 걸 알게 되는 이야기다."
               },
               {
                 "t": "p",
-                "x": "Firefly AI Assistant에 아이디어를 설명하면 어시스턴트가 목표 길이를 묻고 캐릭터·장소·사물·크리에이티브 방향 같은 세부 사항도 원하면 받는다. 그다음 룩과 사운드 방식, 장면·숏 수, 등장할 캐릭터·장소·사물을 제안하고 이를 요소로 저장해 숏끼리 일관성을 지킨다. 숏마다 비트 설명을 쓰고 첫 프레임도 만든다. 숏은 장면별로 묶인 카드로 뜬다. 클립은 카드마다 따로, 또는 Generate all로 한꺼번에 생성해 내려받거나 Timeline (beta)에서 열 수 있다. 다만 프레임을 생성한 뒤에는 해상도와 화면비를 바꿀 수 없다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.redsharknews.com/hs-fs/hubfs/adobe%20firefly%20video%20editor%20quick%20actions.jpg?width=1920&height=1080&name=adobe%20firefly%20video%20editor%20quick%20actions.jpg"
+                "x": "Avni는 세로형으로 만든 이 작품 제작에 깊이 관여해 제작진과 함께 자기 디지털 분신을 직접 빚었다. 그는 “제대로 발을 들여놓고 무엇이 내게 예스이고 무엇이 노인지 정확히 안다면, 이 상황에서 이길 수 있다”고 말했다."
               },
               {
                 "t": "p",
-                "x": "Assemble short video는 생성하거나 가져온 클립을 단일 트랙에서 다루는 가벼운 작업 공간이다. 클립을 자르고 나누고 순서를 바꾸는 것은 물론 볼륨 조절, 컷 감지, 화면비 변경까지 된다. 고른 클립은 텍스트 프롬프트로 다시 생성할 수 있는데, 이때 드는 생성 크레딧이 비용 표시로 함께 뜬다. 다시 만든 버전은 테이크로 쌓여 서로 비교할 수 있다."
+                "x": "연출과 기획을 맡은 Ofir Lobel에게는 첫 AI 생성(AI-generated) 프로젝트이자 첫 세로형 시리즈다. Lobel은 “‘Inevitable’은 자기 초상에 대한 통제권을 잃는 이야기를 담은 마이크로드라마 시리즈이고, 우리는 배우이자 주연에게 그 통제권을 쥐여 주는 방식으로 이 작품을 만들었다”며 “엔터테인먼트의 미래는 AI냐 배우냐가 아니라, 배우와 함께하는 AI”라고 말했다."
               },
               {
                 "t": "p",
-                "x": "두 도구 모두 베타이며 Creative Cloud for Teams나 Enterprise 사용자는 쓸 수 없다. Build a story는 데스크톱 Chrome과 Edge에서만 돌아간다. 클립도 직접 올릴 수 없고 Adobe 클라우드 스토리지의 생성 기록에서만 불러온다."
+                "x": "“Inevitable”은 11월 13일 Shortical App에서 24편을 먼저 선보였다. 모두 50편 분량이며 새 에피소드는 매주 올라온다. 각본은 Sharon Ben Tovim, 제작은 Shortical이 맡았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Adobe Firefly\n構想からクリップへ",
-          "body": "Fireflyの二つのベータ版作業空間が、構想をシーンとショットを経てクリップに仕上げる。",
-          "mini_headline": "Firefly、構想からクリップへ",
+          "headline": "Inevitable配信開始\nAki AvniのAI分身",
+          "body": "Aki Avni公認のAI分身が主演するInevitableが配信を始めた。",
+          "mini_headline": "Inevitable、AI分身主演で配信開始",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.redsharknews.com/hubfs/adobe%20firefly%20video%20editor.jpg"
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/05/894de741-4605-4349-b5ca-c6cb0b7442b6.jpg",
+                "cap": "「Inevitable」に登場するAI生成（AI-generated）のAki Avni（Credit: Shortical）"
               },
               {
                 "t": "p",
-                "x": "AdobeはMAX 2026で、Fireflyに二つのベータ版ワークスペースを追加した。両者を合わせると、アイデアから短尺動画までの道のりをカバーする。FireflyメニューのVideoの下にあるBuild a storyは、プロンプトを構造化されたビジュアルストーリーに変える。続くAssemble short videoは、クリップを並べるための簡素なシングルトラックのワークスペースを提供する。"
-              },
-              {
-                "t": "video",
-                "src": "https://images-tv.adobe.com/mpcv3/14067/3507880/202d88d5-1a16-4a96-82e9-e2705e0a963b/f0f56478-3475-461d-a2e2-30359e9a5ca7_1793918460.854x480at800_h264.mp4"
+                "x": "Shorticalの「Inevitable」は、全編をAIで生成した（AI-generated）マイクロドラマシリーズで、AIが創造性を脅かすというエンタメ業界の懸念を真正面から描く。この心理スリラーの主役は、イスラエルの俳優Aki AvniのAI版だ。顔と肖像をAIスタジオに売った俳優は、自分のAI版が、身に覚えのない殺人未遂事件に関わっていると知る。"
               },
               {
                 "t": "p",
-                "x": "ユーザーがFirefly AI Assistantにアイデアを伝えると、アシスタントは目標の尺と、キャラクター、ロケーション、オブジェクト、クリエイティブの方向性に関する任意の詳細を尋ねる。続いてルック、サウンドの方針、シーンとショットの数、登場するキャラクター、ロケーション、オブジェクトを提案し、それらを要素として保存してショット間の一貫性を保つ。各ショットのビート説明を書き、最初のフレームも生成する。ショットはシーンごとにまとめられたカードとして表示され、クリップはカードごと、またはGenerate allで生成し、ダウンロードするかTimeline (beta)で開ける。フレーム生成後は解像度とアスペクト比を変更できない。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.redsharknews.com/hs-fs/hubfs/adobe%20firefly%20video%20editor%20quick%20actions.jpg?width=1920&height=1080&name=adobe%20firefly%20video%20editor%20quick%20actions.jpg"
+                "x": "Avniはこの縦型作品の制作に深く関わり、制作陣とともに自らのデジタル分身づくりに携わった。「本気で一歩を踏み出し、自分にとって何がイエスで何がノーなのかを正確に分かっていれば、この状況に勝てる」と彼は語った。"
               },
               {
                 "t": "p",
-                "x": "Assemble short videoは、生成または読み込んだクリップを単一トラックで扱う軽量なワークスペースだ。クリップのトリム、分割、並べ替えに加え、音量調整、カット検出、アスペクト比の変更ができる。選択したクリップはテキストプロンプトで再生成でき、必要な生成クレジットを示すコスト表示が出る。再生成したバージョンは比較用のテイクとして表示される。"
+                "x": "監督兼クリエイターのOfir Lobelにとって、初のAI生成（AI-generated）プロジェクトであり、初の縦型シリーズでもある。Lobelは「『Inevitable』は自分の肖像のコントロールを失うことを描いたマイクロドラマシリーズで、私たちは俳優、つまり主演にそのコントロールを委ねることで本作を作った」と語り、「エンタメの未来はAIか俳優かではない。俳優とともにあるAIだ」と述べた。"
               },
               {
                 "t": "p",
-                "x": "両ツールともベータ版で、Creative Cloud for TeamsやEnterpriseのユーザーは利用できない。Build a storyはデスクトップのChromeとEdgeでのみ動作し、クリップは直接アップロードではなく、Adobeクラウドストレージの生成履歴からのみ取り込める。"
+                "x": "「Inevitable」は11月13日、Shortical Appで24話が公開された。全50話のマイクロドラマで、新エピソードは毎週配信される。脚本はSharon Ben Tovim、制作はShorticalが手がける。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Adobe Firefly\n从故事构想到片段",
-          "body": "Firefly两个测试版工作区可将构想经由场景与镜头规划变成完整片段。",
-          "mini_headline": "Firefly：从构想到片段",
+          "headline": "Inevitable首播\nAki Avni的AI分身",
+          "body": "Shortical微短剧Inevitable首播，由Aki Avni授权的AI分身出演。",
+          "mini_headline": "Inevitable首播，AI分身出演",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.redsharknews.com/hubfs/adobe%20firefly%20video%20editor.jpg"
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/05/894de741-4605-4349-b5ca-c6cb0b7442b6.jpg",
+                "cap": "《Inevitable》中由AI生成（AI-generated）的Aki Avni（Credit: Shortical）"
               },
               {
                 "t": "p",
-                "x": "Adobe在MAX 2026上为Firefly新增两个测试版工作区，两者合起来覆盖从构想到短视频的全过程。位于Firefly菜单Video下的Build a story可将提示词转化为结构化的视觉故事；Assemble short video则提供一个简化的单轨工作区，用于排列片段。"
-              },
-              {
-                "t": "video",
-                "src": "https://images-tv.adobe.com/mpcv3/14067/3507880/202d88d5-1a16-4a96-82e9-e2705e0a963b/f0f56478-3475-461d-a2e2-30359e9a5ca7_1793918460.854x480at800_h264.mp4"
+                "x": "Shortical推出的《Inevitable》是一部完全由AI生成（AI-generated）的微短剧系列，把娱乐业对AI威胁创造力的担忧推到了台前。这部心理惊悚剧由以色列演员Aki Avni的AI版本主演：这位演员把自己的面孔和肖像卖给一家AI工作室后，发现自己的AI版本卷入了一起他并未犯下的谋杀未遂案。"
               },
               {
                 "t": "p",
-                "x": "用户向Firefly AI Assistant描述构想后，助手会询问目标时长，以及角色、地点、物件和创意方向等可选细节。随后它会提出画面风格、声音思路、场景与镜头数量，以及涉及的角色、地点和物件，并将其保存为元素，以保持各镜头之间的一致性；它还会为每个镜头撰写节拍描述并生成首帧。镜头以卡片形式按场景分组显示；片段可逐张卡片生成，也可用Generate all一次生成，之后可下载或在Timeline (beta)中打开。帧生成后，分辨率和画面比例便无法更改。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.redsharknews.com/hs-fs/hubfs/adobe%20firefly%20video%20editor%20quick%20actions.jpg?width=1920&height=1080&name=adobe%20firefly%20video%20editor%20quick%20actions.jpg"
+                "x": "Avni深度参与了这部竖屏剧的制作，与主创团队一起打造了自己的数字分身。他说：“如果你真的迈出这一步，并清楚知道哪些是你愿意的、哪些是你不愿意的，你就能赢下这场局面。”"
               },
               {
                 "t": "p",
-                "x": "Assemble short video是一个轻量工作区，可在单一轨道上处理生成或导入的片段。用户可以修剪、分割和重新排列片段，调整音量，检测剪辑点，并更改画面比例。选中的片段可通过文本提示重新生成，界面会显示所需生成积分的费用提示；重新生成的版本会作为可供比较的镜次出现。"
+                "x": "这是导演兼主创Ofir Lobel的首个AI生成（AI-generated）项目，也是他的首部竖屏剧集。Lobel说：“《Inevitable》是一部关于失去肖像控制权的微短剧，而我们的做法是把这份控制权交给我们的演员、我们的主角。”他还表示：“娱乐业的未来不是AI或演员二选一，而是AI与演员同行。”"
               },
               {
                 "t": "p",
-                "x": "两款工具均处于测试阶段，Creative Cloud for Teams和Enterprise用户无法使用。Build a story仅支持桌面端的Chrome和Edge，且只能从Adobe云存储的生成历史中调取片段，不支持直接上传。"
+                "x": "《Inevitable》于11月13日在Shortical App上线，首发24集；这部共50集的微短剧每周更新。编剧为Sharon Ben Tovim，由Shortical制作。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Adobe Firefly añade un camino\nde la idea de historia al clip",
-          "body": "Dos espacios de trabajo beta de Firefly llevan una idea por escenas y planos hasta un clip terminado.",
-          "mini_headline": "Firefly, de la idea al clip",
+          "headline": "Shortical estrena Inevitable\ncon un doble de IA de Aki Avni",
+          "body": "Shortical estrena Inevitable, microserie hecha por completo con IA, con un doble de IA autorizado por Aki Avni.",
+          "mini_headline": "Inevitable se estrena con un doble de IA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.redsharknews.com/hubfs/adobe%20firefly%20video%20editor.jpg"
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/05/894de741-4605-4349-b5ca-c6cb0b7442b6.jpg",
+                "cap": "Aki Avni generado con IA (AI-generated) en \"Inevitable\" (Credit: Shortical)"
               },
               {
                 "t": "p",
-                "x": "Adobe ha añadido a Firefly en MAX 2026 dos espacios de trabajo beta que, entre ambos, cubren el recorrido desde la idea hasta el video corto. Build a story, ubicado en Video dentro del menú de Firefly, convierte un prompt en una historia visual estructurada. Assemble short video ofrece después un espacio de trabajo simplificado, de una sola pista, para ordenar los clips."
-              },
-              {
-                "t": "video",
-                "src": "https://images-tv.adobe.com/mpcv3/14067/3507880/202d88d5-1a16-4a96-82e9-e2705e0a963b/f0f56478-3475-461d-a2e2-30359e9a5ca7_1793918460.854x480at800_h264.mp4"
+                "x": "“Inevitable”, de Shortical, lleva al centro de la escena los temores de la industria del entretenimiento ante las amenazas de la IA a su creatividad, en esta serie de microdrama generada íntegramente con IA (AI-generated). El thriller psicológico está protagonizado por una versión de IA del actor israelí Aki Avni: después de vender su rostro y su imagen a un estudio de IA, el actor descubre que su versión de IA está implicada en un intento de asesinato que él no cometió."
               },
               {
                 "t": "p",
-                "x": "Los usuarios describen una idea al Firefly AI Assistant, que pide una duración objetivo y detalles opcionales sobre personajes, ubicaciones, objetos y dirección creativa. Luego propone un estilo visual, un enfoque sonoro, el número de escenas y planos, y los personajes, ubicaciones y objetos involucrados, y los guarda como elementos para mantenerlos coherentes entre planos; además escribe una descripción de acción para cada plano y genera un primer fotograma. Los planos aparecen como tarjetas agrupadas por escena; los clips se pueden generar tarjeta por tarjeta o con Generate all, y luego descargarse o abrirse en Timeline (beta). La resolución y la relación de aspecto no se pueden cambiar una vez generados los fotogramas."
-              },
-              {
-                "t": "img",
-                "src": "https://www.redsharknews.com/hs-fs/hubfs/adobe%20firefly%20video%20editor%20quick%20actions.jpg?width=1920&height=1080&name=adobe%20firefly%20video%20editor%20quick%20actions.jpg"
+                "x": "Avni participó de lleno en la producción de esta serie vertical y ayudó a crear su propio doble digital junto a los cineastas. “Si de verdad te involucras y sabes exactamente qué es un sí para ti y qué es un no, puedes ganar en esta situación”, dijo."
               },
               {
                 "t": "p",
-                "x": "Assemble short video es un espacio de trabajo ligero para clips generados o importados en una sola pista. Los usuarios pueden recortar, dividir y reordenar clips, ajustar el volumen, detectar cortes y cambiar la relación de aspecto. Los clips seleccionados se pueden regenerar a partir de un prompt de texto, con un indicador de costo que muestra los créditos generativos necesarios; las versiones regeneradas aparecen como tomas para comparar."
+                "x": "Es el primer proyecto generado con IA (AI-generated) y la primera serie vertical del director y creador Ofir Lobel. “‘Inevitable’ es una serie de microdrama sobre perder el control de tu propia imagen, y la hicimos dándole ese control a nuestro actor, a nuestro protagonista”, dijo Lobel. “El futuro del entretenimiento no es IA o actores; es IA con actores”."
               },
               {
                 "t": "p",
-                "x": "Ambas herramientas están en beta y no están disponibles para usuarios de Creative Cloud for Teams ni de Enterprise. Build a story solo funciona en Chrome y Edge de escritorio y solo toma clips del historial de generación del almacenamiento en la nube de Adobe, no de cargas directas."
+                "x": "“Inevitable” se estrenó el 13 de noviembre en la Shortical App con 24 episodios; los nuevos episodios de este microdrama de 50 episodios se publican cada semana. Está escrita por Sharon Ben Tovim y producida por Shortical."
               }
             ]
           }
@@ -241,153 +199,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Adobe Firefly,\n아이디어에서 클립까지",
-          "body": "Firefly 베타 공간 두 개가 아이디어를 장면과 숏을 거쳐 클립으로 만든다.",
-          "mini_headline": "Firefly, 아이디어에서 클립까지",
+          "headline": "Inevitable 공개,\nAki Avni AI 분신",
+          "body": "Aki Avni가 동의한 AI 분신이 주연한 Inevitable이 공개됐다.",
+          "mini_headline": "Inevitable, AI 분신 주연으로 공개",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.redsharknews.com/hubfs/adobe%20firefly%20video%20editor.jpg"
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/05/894de741-4605-4349-b5ca-c6cb0b7442b6.jpg",
+                "cap": "\"Inevitable\" 속 AI 생성(AI-generated) Aki Avni (Credit: Shortical)"
               },
               {
                 "t": "p",
-                "x": "Adobe가 MAX 2026에서 Firefly에 베타 작업 공간 두 개를 추가했다. 두 공간을 합치면 아이디어에서 짧은 영상까지의 과정을 모두 다룬다. Firefly 메뉴의 Video 항목 아래에 있는 Build a story는 프롬프트를 구조화된 시각적 스토리로 바꾼다. 이어 Assemble short video는 클립을 배열하는 단순한 단일 트랙 작업 공간을 제공한다."
-              },
-              {
-                "t": "video",
-                "src": "https://images-tv.adobe.com/mpcv3/14067/3507880/202d88d5-1a16-4a96-82e9-e2705e0a963b/f0f56478-3475-461d-a2e2-30359e9a5ca7_1793918460.854x480at800_h264.mp4"
+                "x": "Shortical의 “Inevitable”은 전편을 AI로 생성한(AI-generated) 마이크로드라마 시리즈로, AI가 창작을 위협한다는 엔터테인먼트 업계의 두려움을 정면으로 다룬다. 이 심리 스릴러의 주인공은 이스라엘 배우 Aki Avni의 AI 버전이다. 자신의 얼굴과 초상을 AI 스튜디오에 판 배우는, 자기 AI 버전이 저지르지도 않은 살인 미수 사건에 연루됐다는 사실을 알게 된다."
               },
               {
                 "t": "p",
-                "x": "사용자가 Firefly AI Assistant에 아이디어를 설명하면, 어시스턴트는 목표 길이와 함께 캐릭터·장소·사물·크리에이티브 방향에 관한 선택적 세부 사항을 묻는다. 이어 룩과 사운드 방식, 장면과 숏의 수, 등장하는 캐릭터·장소·사물을 제안하고, 이를 요소로 저장해 숏 사이의 일관성을 유지한다. 숏마다 비트 설명을 쓰고 첫 프레임도 생성한다. 숏은 장면별로 묶인 카드로 나타나며, 클립은 카드별로 또는 Generate all로 생성한 뒤 내려받거나 Timeline (beta)에서 열 수 있다. 프레임을 생성한 뒤에는 해상도와 화면비를 바꿀 수 없다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.redsharknews.com/hs-fs/hubfs/adobe%20firefly%20video%20editor%20quick%20actions.jpg?width=1920&height=1080&name=adobe%20firefly%20video%20editor%20quick%20actions.jpg"
+                "x": "Avni는 이 세로형 작품 제작에 깊이 참여해 제작진과 함께 자신의 디지털 분신을 만들었다. 그는 “제대로 발을 들여놓고 무엇이 내게 예스이고 무엇이 노인지 정확히 안다면, 이 상황에서 이길 수 있다”고 말했다."
               },
               {
                 "t": "p",
-                "x": "Assemble short video는 생성하거나 가져온 클립을 단일 트랙에서 다루는 가벼운 작업 공간이다. 사용자는 클립을 자르고 나누고 재배열할 수 있으며, 볼륨 조절, 컷 감지, 화면비 변경도 가능하다. 선택한 클립은 텍스트 프롬프트로 다시 생성할 수 있고, 필요한 생성 크레딧을 보여 주는 비용 표시가 함께 뜬다. 다시 생성한 버전은 비교할 수 있는 테이크로 나타난다."
+                "x": "연출과 기획을 맡은 Ofir Lobel에게는 첫 AI 생성(AI-generated) 프로젝트이자 첫 세로형 시리즈다. Lobel은 “‘Inevitable’은 자기 초상에 대한 통제권을 잃는 이야기를 담은 마이크로드라마 시리즈이고, 우리는 배우이자 주연에게 그 통제권을 쥐여 주는 방식으로 이 작품을 만들었다”며 “엔터테인먼트의 미래는 AI냐 배우냐가 아니라, 배우와 함께하는 AI”라고 말했다."
               },
               {
                 "t": "p",
-                "x": "두 도구 모두 베타 단계이며 Creative Cloud for Teams나 Enterprise 사용자는 쓸 수 없다. Build a story는 데스크톱의 Chrome과 Edge에서만 작동하고, 클립은 직접 업로드가 아닌 Adobe 클라우드 스토리지의 생성 기록에서만 가져온다."
+                "x": "“Inevitable”은 11월 13일 Shortical App에서 24편으로 첫선을 보였고, 총 50편 분량인 이 마이크로드라마의 새 에피소드는 매주 공개된다. 각본은 Sharon Ben Tovim이 쓰고 제작은 Shortical이 맡았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Adobe Firefly\n構想からクリップへ",
-          "body": "Fireflyの二つのベータ版作業空間が、構想をシーンとショットを経てクリップに仕上げる。",
-          "mini_headline": "Firefly、構想からクリップへ",
+          "headline": "Inevitable配信開始\nAki AvniのAI分身",
+          "body": "Aki Avni公認のAI分身が主演するInevitableが配信を始めた。",
+          "mini_headline": "Inevitable、AI分身主演で配信開始",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.redsharknews.com/hubfs/adobe%20firefly%20video%20editor.jpg"
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/05/894de741-4605-4349-b5ca-c6cb0b7442b6.jpg",
+                "cap": "「Inevitable」に登場するAI生成（AI-generated）のAki Avni（Credit: Shortical）"
               },
               {
                 "t": "p",
-                "x": "AdobeはMAX 2026で、Fireflyに二つのベータ版ワークスペースを追加した。両者を合わせると、アイデアから短尺動画までの道のりをカバーする。FireflyメニューのVideoの下にあるBuild a storyは、プロンプトを構造化されたビジュアルストーリーに変える。続くAssemble short videoは、クリップを並べるための簡素なシングルトラックのワークスペースを提供する。"
-              },
-              {
-                "t": "video",
-                "src": "https://images-tv.adobe.com/mpcv3/14067/3507880/202d88d5-1a16-4a96-82e9-e2705e0a963b/f0f56478-3475-461d-a2e2-30359e9a5ca7_1793918460.854x480at800_h264.mp4"
+                "x": "Shorticalの「Inevitable」は、全編をAIで生成した（AI-generated）マイクロドラマシリーズで、AIが創造性を脅かすというエンタメ業界の懸念を真正面から描く。この心理スリラーの主役は、イスラエルの俳優Aki AvniのAI版だ。顔と肖像をAIスタジオに売った俳優は、自分のAI版が、身に覚えのない殺人未遂事件に関わっていると知る。"
               },
               {
                 "t": "p",
-                "x": "ユーザーがFirefly AI Assistantにアイデアを伝えると、アシスタントは目標の尺と、キャラクター、ロケーション、オブジェクト、クリエイティブの方向性に関する任意の詳細を尋ねる。続いてルック、サウンドの方針、シーンとショットの数、登場するキャラクター、ロケーション、オブジェクトを提案し、それらを要素として保存してショット間の一貫性を保つ。各ショットのビート説明を書き、最初のフレームも生成する。ショットはシーンごとにまとめられたカードとして表示され、クリップはカードごと、またはGenerate allで生成し、ダウンロードするかTimeline (beta)で開ける。フレーム生成後は解像度とアスペクト比を変更できない。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.redsharknews.com/hs-fs/hubfs/adobe%20firefly%20video%20editor%20quick%20actions.jpg?width=1920&height=1080&name=adobe%20firefly%20video%20editor%20quick%20actions.jpg"
+                "x": "Avniはこの縦型作品の制作に深く関わり、制作陣とともに自らのデジタル分身づくりに携わった。「本気で一歩を踏み出し、自分にとって何がイエスで何がノーなのかを正確に分かっていれば、この状況に勝てる」と彼は語った。"
               },
               {
                 "t": "p",
-                "x": "Assemble short videoは、生成または読み込んだクリップを単一トラックで扱う軽量なワークスペースだ。クリップのトリム、分割、並べ替えに加え、音量調整、カット検出、アスペクト比の変更ができる。選択したクリップはテキストプロンプトで再生成でき、必要な生成クレジットを示すコスト表示が出る。再生成したバージョンは比較用のテイクとして表示される。"
+                "x": "監督兼クリエイターのOfir Lobelにとって、初のAI生成（AI-generated）プロジェクトであり、初の縦型シリーズでもある。Lobelは「『Inevitable』は自分の肖像のコントロールを失うことを描いたマイクロドラマシリーズで、私たちは俳優、つまり主演にそのコントロールを委ねることで本作を作った」と語り、「エンタメの未来はAIか俳優かではない。俳優とともにあるAIだ」と述べた。"
               },
               {
                 "t": "p",
-                "x": "両ツールともベータ版で、Creative Cloud for TeamsやEnterpriseのユーザーは利用できない。Build a storyはデスクトップのChromeとEdgeでのみ動作し、クリップは直接アップロードではなく、Adobeクラウドストレージの生成履歴からのみ取り込める。"
+                "x": "「Inevitable」は11月13日、Shortical Appで24話が公開された。全50話のマイクロドラマで、新エピソードは毎週配信される。脚本はSharon Ben Tovim、制作はShorticalが手がける。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Adobe Firefly\n从故事构想到片段",
-          "body": "Firefly两个测试版工作区可将构想经由场景与镜头规划变成完整片段。",
-          "mini_headline": "Firefly：从构想到片段",
+          "headline": "Inevitable首播\nAki Avni的AI分身",
+          "body": "Shortical微短剧Inevitable首播，由Aki Avni授权的AI分身出演。",
+          "mini_headline": "Inevitable首播，AI分身出演",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.redsharknews.com/hubfs/adobe%20firefly%20video%20editor.jpg"
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/05/894de741-4605-4349-b5ca-c6cb0b7442b6.jpg",
+                "cap": "《Inevitable》中由AI生成（AI-generated）的Aki Avni（Credit: Shortical）"
               },
               {
                 "t": "p",
-                "x": "Adobe在MAX 2026上为Firefly新增两个测试版工作区，两者合起来覆盖从构想到短视频的全过程。位于Firefly菜单Video下的Build a story可将提示词转化为结构化的视觉故事；Assemble short video则提供一个简化的单轨工作区，用于排列片段。"
-              },
-              {
-                "t": "video",
-                "src": "https://images-tv.adobe.com/mpcv3/14067/3507880/202d88d5-1a16-4a96-82e9-e2705e0a963b/f0f56478-3475-461d-a2e2-30359e9a5ca7_1793918460.854x480at800_h264.mp4"
+                "x": "Shortical推出的《Inevitable》是一部完全由AI生成（AI-generated）的微短剧系列，把娱乐业对AI威胁创造力的担忧推到了台前。这部心理惊悚剧由以色列演员Aki Avni的AI版本主演：这位演员把自己的面孔和肖像卖给一家AI工作室后，发现自己的AI版本卷入了一起他并未犯下的谋杀未遂案。"
               },
               {
                 "t": "p",
-                "x": "用户向Firefly AI Assistant描述构想后，助手会询问目标时长，以及角色、地点、物件和创意方向等可选细节。随后它会提出画面风格、声音思路、场景与镜头数量，以及涉及的角色、地点和物件，并将其保存为元素，以保持各镜头之间的一致性；它还会为每个镜头撰写节拍描述并生成首帧。镜头以卡片形式按场景分组显示；片段可逐张卡片生成，也可用Generate all一次生成，之后可下载或在Timeline (beta)中打开。帧生成后，分辨率和画面比例便无法更改。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.redsharknews.com/hs-fs/hubfs/adobe%20firefly%20video%20editor%20quick%20actions.jpg?width=1920&height=1080&name=adobe%20firefly%20video%20editor%20quick%20actions.jpg"
+                "x": "Avni深度参与了这部竖屏剧的制作，与主创团队一起打造了自己的数字分身。他说：“如果你真的迈出这一步，并清楚知道哪些是你愿意的、哪些是你不愿意的，你就能赢下这场局面。”"
               },
               {
                 "t": "p",
-                "x": "Assemble short video是一个轻量工作区，可在单一轨道上处理生成或导入的片段。用户可以修剪、分割和重新排列片段，调整音量，检测剪辑点，并更改画面比例。选中的片段可通过文本提示重新生成，界面会显示所需生成积分的费用提示；重新生成的版本会作为可供比较的镜次出现。"
+                "x": "这是导演兼主创Ofir Lobel的首个AI生成（AI-generated）项目，也是他的首部竖屏剧集。Lobel说：“《Inevitable》是一部关于失去肖像控制权的微短剧，而我们的做法是把这份控制权交给我们的演员、我们的主角。”他还表示：“娱乐业的未来不是AI或演员二选一，而是AI与演员同行。”"
               },
               {
                 "t": "p",
-                "x": "两款工具均处于测试阶段，Creative Cloud for Teams和Enterprise用户无法使用。Build a story仅支持桌面端的Chrome和Edge，且只能从Adobe云存储的生成历史中调取片段，不支持直接上传。"
+                "x": "《Inevitable》于11月13日在Shortical App上线，首发24集；这部共50集的微短剧每周更新。编剧为Sharon Ben Tovim，由Shortical制作。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Adobe Firefly añade un camino\nde la idea de historia al clip",
-          "body": "Dos espacios de trabajo beta de Firefly llevan una idea por escenas y planos hasta un clip terminado.",
-          "mini_headline": "Firefly, de la idea al clip",
+          "headline": "Shortical estrena Inevitable\ncon un doble de IA de Aki Avni",
+          "body": "Shortical estrena Inevitable, microserie hecha por completo con IA, con un doble de IA autorizado por Aki Avni.",
+          "mini_headline": "Inevitable se estrena con un doble de IA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.redsharknews.com/hubfs/adobe%20firefly%20video%20editor.jpg"
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/05/894de741-4605-4349-b5ca-c6cb0b7442b6.jpg",
+                "cap": "Aki Avni generado con IA (AI-generated) en \"Inevitable\" (Credit: Shortical)"
               },
               {
                 "t": "p",
-                "x": "Adobe ha añadido a Firefly en MAX 2026 dos espacios de trabajo beta que, entre ambos, cubren el recorrido desde la idea hasta el video corto. Build a story, ubicado en Video dentro del menú de Firefly, convierte un prompt en una historia visual estructurada. Assemble short video ofrece después un espacio de trabajo simplificado, de una sola pista, para ordenar los clips."
-              },
-              {
-                "t": "video",
-                "src": "https://images-tv.adobe.com/mpcv3/14067/3507880/202d88d5-1a16-4a96-82e9-e2705e0a963b/f0f56478-3475-461d-a2e2-30359e9a5ca7_1793918460.854x480at800_h264.mp4"
+                "x": "“Inevitable”, de Shortical, lleva al centro de la escena los temores de la industria del entretenimiento ante las amenazas de la IA a su creatividad, en esta serie de microdrama generada íntegramente con IA (AI-generated). El thriller psicológico está protagonizado por una versión de IA del actor israelí Aki Avni: después de vender su rostro y su imagen a un estudio de IA, el actor descubre que su versión de IA está implicada en un intento de asesinato que él no cometió."
               },
               {
                 "t": "p",
-                "x": "Los usuarios describen una idea al Firefly AI Assistant, que pide una duración objetivo y detalles opcionales sobre personajes, ubicaciones, objetos y dirección creativa. Luego propone un estilo visual, un enfoque sonoro, el número de escenas y planos, y los personajes, ubicaciones y objetos involucrados, y los guarda como elementos para mantenerlos coherentes entre planos; además escribe una descripción de acción para cada plano y genera un primer fotograma. Los planos aparecen como tarjetas agrupadas por escena; los clips se pueden generar tarjeta por tarjeta o con Generate all, y luego descargarse o abrirse en Timeline (beta). La resolución y la relación de aspecto no se pueden cambiar una vez generados los fotogramas."
-              },
-              {
-                "t": "img",
-                "src": "https://www.redsharknews.com/hs-fs/hubfs/adobe%20firefly%20video%20editor%20quick%20actions.jpg?width=1920&height=1080&name=adobe%20firefly%20video%20editor%20quick%20actions.jpg"
+                "x": "Avni participó de lleno en la producción de esta serie vertical y ayudó a crear su propio doble digital junto a los cineastas. “Si de verdad te involucras y sabes exactamente qué es un sí para ti y qué es un no, puedes ganar en esta situación”, dijo."
               },
               {
                 "t": "p",
-                "x": "Assemble short video es un espacio de trabajo ligero para clips generados o importados en una sola pista. Los usuarios pueden recortar, dividir y reordenar clips, ajustar el volumen, detectar cortes y cambiar la relación de aspecto. Los clips seleccionados se pueden regenerar a partir de un prompt de texto, con un indicador de costo que muestra los créditos generativos necesarios; las versiones regeneradas aparecen como tomas para comparar."
+                "x": "Es el primer proyecto generado con IA (AI-generated) y la primera serie vertical del director y creador Ofir Lobel. “‘Inevitable’ es una serie de microdrama sobre perder el control de tu propia imagen, y la hicimos dándole ese control a nuestro actor, a nuestro protagonista”, dijo Lobel. “El futuro del entretenimiento no es IA o actores; es IA con actores”."
               },
               {
                 "t": "p",
-                "x": "Ambas herramientas están en beta y no están disponibles para usuarios de Creative Cloud for Teams ni de Enterprise. Build a story solo funciona en Chrome y Edge de escritorio y solo toma clips del historial de generación del almacenamiento en la nube de Adobe, no de cargas directas."
+                "x": "“Inevitable” se estrenó el 13 de noviembre en la Shortical App con 24 episodios; los nuevos episodios de este microdrama de 50 episodios se publican cada semana. Está escrita por Sharon Ben Tovim y producida por Shortical."
               }
             ]
           }
@@ -395,15 +325,15 @@
       }
     },
     {
-      "id": "distinkt-ai-talent-agency",
+      "id": "screenburn-writers-room",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "소속사 없는 연기자의\nAI-powered 대행사",
-      "body": "LA·London에서 AI-powered 대행사 Distinkt가 출범했다.",
-      "mini_headline": "Distinkt의 AI 인재 에이전시",
+      "headline": "Screenburn AI,\n마이크로드라마 시즌 집필",
+      "body": "The Writers Room은 생성형 AI로 80편짜리 시즌 초안을 쓴다.",
+      "mini_headline": "AI가 마이크로드라마 시즌을 쓴다",
       "tool": "Movies",
-      "source": "Variety",
-      "url": "https://variety.com/2026/film/news/distinkt-talent-agency-ai-actors-clients-1236946168/",
+      "source": "Broadcast",
+      "url": "https://www.broadcastnow.co.uk/production-and-post/screenburn-group-launches-ai-tool-to-write-full-microdrama-seasons/5222355.article",
       "accent": "#f5a623",
       "motif": "frame",
       "full": {
@@ -411,295 +341,295 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://variety.com/wp-content/uploads/2026/11/Unknown_a9cd6c.jpeg?w=1000&h=667&crop=1"
+            "src": "https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/1/5/6/1492156_screenshot20261112at14.50.31_498419.jpg"
           },
           {
             "t": "p",
-            "x": "Distinkt는 전 세계에서 소속사 없이 활동하는 수많은 창작자와 클라이언트를 겨냥한 인재 회사로, Los Angeles와 London에서 문을 열었다. AI 워크플로와 인간 에이전트를 함께 써서 배우, 감독, 프로듀서, 편집자, 사진작가, 디지털 크리에이티브를 주요 시장의 기회와 이어 준다. 출범 당시 클라이언트는 43개국 약 2,000명이다."
+            "x": "대본형 엔터테인먼트 전문 기업 Screenburn Group이 생성형 AI(genAI)로 마이크로드라마 시리즈를 통째로 쓰는 AI 소프트웨어 The Writers Room을 내놨다. 작가가 이야기 구상을 넘기면 한 시즌 80편을 몇 시간 만에 모두 써 낸다. 각본으로 약 29,000단어 분량이다."
           },
           {
             "t": "p",
-            "x": "Distinkt는 California-licensed 회사로, Robert Herman과 Chris Gibbin, UTA 커뮤니케이션 책임자 출신 Chris Day가 함께 세웠다. CEO Herman은 “에이전시 업무의 조정과 행정 상당 부분을 기술이 처리하도록 Distinkt를 만들었다. 덕분에 에이전트는 판단, 평가, 협상에 집중할 수 있다”고 말했다."
+            "x": "작가가 넣는 건 제목과 한 줄 요약, 등장인물, 인물에 관한 몇 가지 질문의 답이다. The Writers Room은 100,000편이 넘는 세로형 시리즈 데이터에서 뽑아낸 규칙, 곧 시즌을 어떻게 열고 꺾고 맺을지에 관한 규칙에 맞춰 대본을 쓴다."
           },
           {
             "t": "p",
-            "x": "클라이언트는 누구나 자체 플랫폼에서 일거리를 분석하는 “AI 팀원” 네 명과, 법률 준수·계약 분석 등을 맡는 AI “전문가” 패널을 지원받는다. 최종 결정과 계약 중개는 전부 인간 에이전트 몫이다. 인재 클라이언트는 돈을 내지 않으며 전속 계약도 맺지 않는다. 회사가 노리는 시장은 에이전트가 없는 것으로 추산되는 SAG-AFTRA 회원 약 70% 같은 미개척층이다."
+            "x": "다음은 Retention Engine 차례다. 첫 화를 어떻게 여는지, 각 화를 어떻게 끝맺는지, 시청자에게 새 정보를 얼마나 자주 주는지, 긴장이 어떻게 쌓이는지를 따져 모든 에피소드를 100점 만점으로 채점한다. 80점 이상이면 Screenburn Certified 마크가 붙는다. 이 방식으로 쓴 시즌 20개 이상이 지금 팔리고 있고 최고 점수는 97점이다."
           },
           {
             "t": "p",
-            "x": "Herman은 “기술로 에이전트를 대체하려는 것이 아니라 에이전트에게 초능력을 주려는 것”이라고 말했다."
+            "x": "The Writers Room 이용료는 12개월 계약 기준 월 US$1,350이고 매달 한 시즌이 포함된다. 창업자이자 CEO인 Dr Charles Kriel은 “누구도 두어 시간 만에 이 쇼를 쓸 수는 없었다”며 “작가는 오후 한나절에 이야기를 구상하고, 누군가 제작에 한 푼이라도 쓰기 전에 점수까지 매겨진 시즌 전체를 손에 쥔다”고 말했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Distinkt, an AI-powered agency\nfor unrepresented performers",
-          "body": "Entertainment veterans launched Distinkt in LA and London, an AI-powered agency for unrepresented talent worldwide.",
-          "mini_headline": "Distinkt: an AI talent agency",
+          "headline": "Screenburn's AI drafts\nfull microdrama seasons",
+          "body": "Screenburn's The Writers Room uses generative AI to draft 80-episode vertical-drama seasons from a writer's concept.",
+          "mini_headline": "AI drafts\nmicrodrama seasons",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/Unknown_a9cd6c.jpeg?w=1000&h=667&crop=1"
+                "src": "https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/1/5/6/1492156_screenshot20261112at14.50.31_498419.jpg"
               },
               {
                 "t": "p",
-                "x": "Distinkt, a talent firm built for a large population of unrepresented creators and clients around the world, has launched out of Los Angeles and London. The agency will use AI workflows and human agents to connect actors, directors, producers, editors, photographers and digital creatives with opportunities in key markets. Distinkt is up and running with nearly 2,000 clients in 43 countries."
+                "x": "Scripted entertainment specialist Screenburn Group has launched AI software The Writers Room, which uses genAI to write full series of microdramas. It takes a writer’s plan for a story and writes all 80 episodes of a microdrama season in a few hours — around 29,000 words of screenplay."
               },
               {
                 "t": "p",
-                "x": "The California-licensed company is founded by Robert Herman, Chris Gibbin and former UTA communications head Chris Day. “We built Distinkt so that a significant part of the coordination and administration of agency work is managed by technology. That frees our agents to focus on judgment, evaluation and negotiation,” said CEO Herman."
+                "x": "The writer provides the title, a one-line summary, the characters, and answers to a set of questions about them. The Writers Room writes to a set of rules for how a season opens, turns and ends, drawn from data about more than 100,000 vertical series."
               },
               {
                 "t": "p",
-                "x": "Every Distinkt client receives four “AI teammates” on a proprietary platform to analyze work opportunities, as well as a panel of AI “specialists” in areas like legal compliance and contract analysis. Human agents make all final decisions and broker deals. Distinkt is free of charge for talent clients and will not ask them to be represented exclusively; it is going after untapped pools like the some 70% of SAG-AFTRA members it estimates do not have agents."
+                "x": "A Retention Engine then scores every episode out of 100 on how episode one opens, how each episode ends, how often each episode tells the viewer something new, and how tension builds; 80 or above earns the Screenburn Certified mark. More than 20 seasons written this way are on sale now; the highest score is 97."
               },
               {
                 "t": "p",
-                "x": "“We’re using technology to give agents superpowers, not to replace them,” said Herman."
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Distinkt, una agencia AI-powered\npara artistas sin representación",
-          "body": "Veteranos del entretenimiento lanzaron en LA y London Distinkt, una agencia AI-powered para talento sin representación.",
-          "mini_headline": "Distinkt: agencia de talento con AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/Unknown_a9cd6c.jpeg?w=1000&h=667&crop=1"
-              },
-              {
-                "t": "p",
-                "x": "Distinkt, una firma de talento creada para la gran población de creadores y clientes sin representación de todo el mundo, se ha lanzado desde Los Angeles y London. La agencia usará flujos de trabajo de AI y agentes humanos para conectar a actores, directores, productores, editores, fotógrafos y creativos digitales con oportunidades en mercados clave. Distinkt ya está en funcionamiento con casi 2,000 clientes en 43 países."
-              },
-              {
-                "t": "p",
-                "x": "La empresa, California-licensed (con licencia en California), fue fundada por Robert Herman, Chris Gibbin y el exjefe de comunicaciones de UTA Chris Day. “Construimos Distinkt para que una parte importante de la coordinación y la administración del trabajo de agencia la gestione la tecnología. Eso permite a nuestros agentes concentrarse en el criterio, la evaluación y la negociación”, dijo el CEO Herman."
-              },
-              {
-                "t": "p",
-                "x": "Cada cliente de Distinkt recibe cuatro “compañeros de equipo AI” en una plataforma propia para analizar oportunidades de trabajo, además de un panel de “especialistas” AI en áreas como cumplimiento legal y análisis de contratos. Los agentes humanos toman todas las decisiones finales y cierran los acuerdos. Distinkt es gratuita para los clientes de talento y no les pedirá representación exclusiva; apunta a grupos sin explotar, como el 70% aproximado de los miembros de SAG-AFTRA que, según sus estimaciones, no tienen agente."
-              },
-              {
-                "t": "p",
-                "x": "“Usamos la tecnología para dar superpoderes a los agentes, no para reemplazarlos”, dijo Herman."
+                "x": "The Writers Room costs US$1,350 a month on a 12-month contract, including one season a month. “Nobody could write the show in a couple hours,” said founder and CEO Dr Charles Kriel. “A writer plans a story in an afternoon and has their full season, scored, before anyone spends a dollar making it.”"
               }
             ]
           }
         },
         "ko": {
-          "headline": "소속사 없는 연기자의\nAI-powered 대행사",
-          "body": "LA·London에서 AI-powered 대행사 Distinkt가 출범했다.",
-          "mini_headline": "Distinkt의 AI 인재 에이전시",
+          "headline": "Screenburn AI,\n마이크로드라마 시즌 집필",
+          "body": "The Writers Room은 생성형 AI로 80편짜리 시즌 초안을 쓴다.",
+          "mini_headline": "AI가 마이크로드라마 시즌을 쓴다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/Unknown_a9cd6c.jpeg?w=1000&h=667&crop=1"
+                "src": "https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/1/5/6/1492156_screenshot20261112at14.50.31_498419.jpg"
               },
               {
                 "t": "p",
-                "x": "Distinkt는 전 세계에서 소속사 없이 활동하는 수많은 창작자와 클라이언트를 겨냥한 인재 회사로, Los Angeles와 London에서 문을 열었다. AI 워크플로와 인간 에이전트를 함께 써서 배우, 감독, 프로듀서, 편집자, 사진작가, 디지털 크리에이티브를 주요 시장의 기회와 이어 준다. 출범 당시 클라이언트는 43개국 약 2,000명이다."
+                "x": "대본형 엔터테인먼트 전문 기업 Screenburn Group이 생성형 AI(genAI)로 마이크로드라마 시리즈를 통째로 쓰는 AI 소프트웨어 The Writers Room을 내놨다. 작가가 이야기 구상을 넘기면 한 시즌 80편을 몇 시간 만에 모두 써 낸다. 각본으로 약 29,000단어 분량이다."
               },
               {
                 "t": "p",
-                "x": "Distinkt는 California-licensed 회사로, Robert Herman과 Chris Gibbin, UTA 커뮤니케이션 책임자 출신 Chris Day가 함께 세웠다. CEO Herman은 “에이전시 업무의 조정과 행정 상당 부분을 기술이 처리하도록 Distinkt를 만들었다. 덕분에 에이전트는 판단, 평가, 협상에 집중할 수 있다”고 말했다."
+                "x": "작가가 넣는 건 제목과 한 줄 요약, 등장인물, 인물에 관한 몇 가지 질문의 답이다. The Writers Room은 100,000편이 넘는 세로형 시리즈 데이터에서 뽑아낸 규칙, 곧 시즌을 어떻게 열고 꺾고 맺을지에 관한 규칙에 맞춰 대본을 쓴다."
               },
               {
                 "t": "p",
-                "x": "클라이언트는 누구나 자체 플랫폼에서 일거리를 분석하는 “AI 팀원” 네 명과, 법률 준수·계약 분석 등을 맡는 AI “전문가” 패널을 지원받는다. 최종 결정과 계약 중개는 전부 인간 에이전트 몫이다. 인재 클라이언트는 돈을 내지 않으며 전속 계약도 맺지 않는다. 회사가 노리는 시장은 에이전트가 없는 것으로 추산되는 SAG-AFTRA 회원 약 70% 같은 미개척층이다."
+                "x": "다음은 Retention Engine 차례다. 첫 화를 어떻게 여는지, 각 화를 어떻게 끝맺는지, 시청자에게 새 정보를 얼마나 자주 주는지, 긴장이 어떻게 쌓이는지를 따져 모든 에피소드를 100점 만점으로 채점한다. 80점 이상이면 Screenburn Certified 마크가 붙는다. 이 방식으로 쓴 시즌 20개 이상이 지금 팔리고 있고 최고 점수는 97점이다."
               },
               {
                 "t": "p",
-                "x": "Herman은 “기술로 에이전트를 대체하려는 것이 아니라 에이전트에게 초능력을 주려는 것”이라고 말했다."
+                "x": "The Writers Room 이용료는 12개월 계약 기준 월 US$1,350이고 매달 한 시즌이 포함된다. 창업자이자 CEO인 Dr Charles Kriel은 “누구도 두어 시간 만에 이 쇼를 쓸 수는 없었다”며 “작가는 오후 한나절에 이야기를 구상하고, 누군가 제작에 한 푼이라도 쓰기 전에 점수까지 매겨진 시즌 전체를 손에 쥔다”고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "無所属俳優へDistinkt\nAI-powered事務所",
-          "body": "LAとLondonで無所属向けAI-powered事務所Distinktが始動した。",
-          "mini_headline": "Distinkt:AIタレント事務所",
+          "headline": "ScreenburnのAI\nマイクロドラマを丸ごと執筆",
+          "body": "The Writers Roomは生成AIで、全80話の縦型ドラマのシーズンを書く。",
+          "mini_headline": "AIがマイクロドラマのシーズンを執筆",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/Unknown_a9cd6c.jpeg?w=1000&h=667&crop=1"
+                "src": "https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/1/5/6/1492156_screenshot20261112at14.50.31_498419.jpg"
               },
               {
                 "t": "p",
-                "x": "世界中で所属先を持たない多くのクリエイターやクライアントのためのタレント企業Distinktが、Los AngelesとLondonを拠点に始動した。同社はAIワークフローと人間のエージェントを組み合わせ、俳優、監督、プロデューサー、編集者、写真家、デジタルクリエイターを主要市場の機会につなぐ。Distinktは43カ国、約2,000人のクライアントを抱えて稼働している。"
+                "x": "脚本型エンタメを専門とするScreenburn Groupが、生成AI（genAI）でマイクロドラマのシリーズ全体を書くAIソフトウェア「The Writers Room」を発表した。作家の物語プランを受け取り、マイクロドラマのシーズン全80話を数時間で書き上げる。脚本にして約29,000語に相当する。"
               },
               {
                 "t": "p",
-                "x": "California-licensedの同社は、Robert Herman、Chris Gibbin、そしてUTAの元広報責任者Chris Dayが設立した。CEOのHermanは「エージェント業務の調整や事務の大部分をテクノロジーが担うようにDistinktを作った。それによってエージェントは判断、評価、交渉に集中できる」と語った。"
+                "x": "作家はタイトル、一行のあらすじ、登場人物、そして人物に関する一連の質問への回答を入力する。The Writers Roomは、100,000本を超える縦型シリーズのデータから導いた、シーズンの始まり方、展開、終わり方に関するルールに沿って執筆する。"
               },
               {
                 "t": "p",
-                "x": "Distinktのクライアントは全員、独自プラットフォーム上で仕事の機会を分析する四人の「AIチームメイト」と、法令順守や契約分析などの分野を担うAI「スペシャリスト」の一団を利用できる。最終判断と契約の仲介はすべて人間のエージェントが行う。Distinktはタレントのクライアントには無料で、専属契約も求めない。同社が狙うのは、エージェントを持たないと推計するSAG-AFTRA会員の約70%といった未開拓層だ。"
+                "x": "続いてRetention Engineが、第一話の始まり方、各話の終わり方、各話が視聴者に新しい情報をどれだけ頻繁に伝えるか、緊張感の高まり方を基準に、全エピソードを100点満点で採点する。80点以上ならScreenburn Certifiedマークが付く。この方法で書かれた20以上のシーズンがすでに販売されており、最高点は97点だ。"
               },
               {
                 "t": "p",
-                "x": "Hermanは「テクノロジーはエージェントを置き換えるためではなく、エージェントに超能力を与えるために使っている」と述べた。"
+                "x": "The Writers Roomの料金は12か月契約で月額US$1,350で、毎月一シーズン分が含まれる。創業者でCEOのDr Charles Krielは「数時間で番組を書ける人など誰もいなかった」と語り、「作家は午後のうちに物語を構想し、誰かが制作に一ドルも使う前に、採点済みのシーズン全体を手にする」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI-powered经纪公司\nDistinkt助无经纪艺人",
-          "body": "娱乐老将在LA和London推出服务无经纪艺人的AI-powered机构Distinkt。",
-          "mini_headline": "Distinkt：AI人才经纪公司",
+          "headline": "Screenburn的AI\n可起草整季微短剧",
+          "body": "The Writers Room用生成式AI依据编剧构想起草80集竖屏剧整季。",
+          "mini_headline": "AI起草整季微短剧",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/Unknown_a9cd6c.jpeg?w=1000&h=667&crop=1"
+                "src": "https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/1/5/6/1492156_screenshot20261112at14.50.31_498419.jpg"
               },
               {
                 "t": "p",
-                "x": "面向全球大量没有经纪代理的创作者和客户的人才公司Distinkt在Los Angeles和London成立。该机构将结合AI工作流程与人类经纪人，把演员、导演、制片人、剪辑师、摄影师和数字创意人士与主要市场的机会连接起来。Distinkt已在43个国家拥有近2,000名客户并投入运营。"
+                "x": "剧本类娱乐专业公司Screenburn Group推出AI软件The Writers Room，可借助生成式AI（genAI）写出完整的微短剧系列。它根据编剧的故事规划，在几小时内写完一季微短剧的全部80集，剧本约29,000词。"
               },
               {
                 "t": "p",
-                "x": "这家California-licensed公司由Robert Herman、Chris Gibbin以及UTA前传播主管Chris Day创立。CEO Herman表示：“我们打造Distinkt，是为了让经纪工作中相当一部分的协调和行政事务由技术来处理。这样我们的经纪人就能专注于判断、评估和谈判。”"
+                "x": "编剧需提供剧名、一句话梗概、角色设定，并回答一组关于角色的问题。The Writers Room依据从100,000多部竖屏剧数据中提炼的规则写作，这些规则规定一季如何开篇、转折与收尾。"
               },
               {
                 "t": "p",
-                "x": "每位Distinkt客户都会在自有平台上获得四名用于分析工作机会的“AI队友”，以及一组负责法律合规、合同分析等领域的AI“专家”。所有最终决定和交易撮合均由人类经纪人完成。Distinkt对人才客户免费，也不要求独家代理；它瞄准的是尚未开发的群体，例如其估计约70%没有经纪人的SAG-AFTRA会员。"
+                "x": "随后，Retention Engine会按第一集如何开场、每集如何收尾、每集向观众提供新信息的频率以及张力如何累积，为每一集打分，满分100分；达到80分及以上即可获得Screenburn Certified标志。目前已有20多季以这种方式写成的剧集在售，最高分为97分。"
               },
               {
                 "t": "p",
-                "x": "Herman说：“我们用技术给经纪人超能力，而不是取代他们。”"
+                "x": "The Writers Room需签12个月合约，月费US$1,350，每月含一季。创始人兼CEO Dr Charles Kriel表示：“没人能在几个小时内写完一部剧。”他说：“编剧花一个下午构思故事，在任何人为制作花一美元之前，就能拿到已打分的整季剧本。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "La IA de Screenburn redacta\ntemporadas de microdrama",
+          "body": "The Writers Room, de Screenburn, usa IA generativa para redactar temporadas de drama vertical de 80 episodios.",
+          "mini_headline": "La IA redacta temporadas de microdrama",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/1/5/6/1492156_screenshot20261112at14.50.31_498419.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Screenburn Group, especialista en entretenimiento guionizado, ha lanzado The Writers Room, un software de IA que usa IA generativa (genAI) para escribir series completas de microdramas. A partir del plan de un guionista para una historia, escribe en pocas horas los 80 episodios de una temporada de microdrama: unas 29,000 palabras de guion."
+              },
+              {
+                "t": "p",
+                "x": "El guionista aporta el título, un resumen de una línea, los personajes y las respuestas a una serie de preguntas sobre ellos. The Writers Room escribe siguiendo un conjunto de reglas sobre cómo arranca, gira y termina una temporada, extraídas de datos de más de 100,000 series verticales."
+              },
+              {
+                "t": "p",
+                "x": "Después, un Retention Engine puntúa cada episodio sobre 100 según cómo arranca el primer episodio, cómo termina cada episodio, con qué frecuencia cada episodio le cuenta algo nuevo al espectador y cómo crece la tensión; con 80 o más se obtiene el sello Screenburn Certified. Ya están a la venta más de 20 temporadas escritas de esta forma; la puntuación más alta es 97."
+              },
+              {
+                "t": "p",
+                "x": "The Writers Room cuesta US$1,350 al mes con un contrato de 12 meses, que incluye una temporada al mes. “Nadie podía escribir la serie en un par de horas”, dijo el fundador y CEO, Dr Charles Kriel. “Un guionista planifica una historia en una tarde y tiene su temporada completa, puntuada, antes de que nadie gaste un dólar en producirla”."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "es": {
-          "headline": "Distinkt, una agencia AI-powered\npara artistas sin representación",
-          "body": "Veteranos del entretenimiento lanzaron en LA y London Distinkt, una agencia AI-powered para talento sin representación.",
-          "mini_headline": "Distinkt: agencia de talento con AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/Unknown_a9cd6c.jpeg?w=1000&h=667&crop=1"
-              },
-              {
-                "t": "p",
-                "x": "Distinkt, una firma de talento creada para la gran población de creadores y clientes sin representación de todo el mundo, se ha lanzado desde Los Angeles y London. La agencia usará flujos de trabajo de AI y agentes humanos para conectar a actores, directores, productores, editores, fotógrafos y creativos digitales con oportunidades en mercados clave. Distinkt ya está en funcionamiento con casi 2,000 clientes en 43 países."
-              },
-              {
-                "t": "p",
-                "x": "La empresa, California-licensed (con licencia en California), fue fundada por Robert Herman, Chris Gibbin y el exjefe de comunicaciones de UTA Chris Day. “Construimos Distinkt para que una parte importante de la coordinación y la administración del trabajo de agencia la gestione la tecnología. Eso permite a nuestros agentes concentrarse en el criterio, la evaluación y la negociación”, dijo el CEO Herman."
-              },
-              {
-                "t": "p",
-                "x": "Cada cliente de Distinkt recibe cuatro “compañeros de equipo AI” en una plataforma propia para analizar oportunidades de trabajo, además de un panel de “especialistas” AI en áreas como cumplimiento legal y análisis de contratos. Los agentes humanos toman todas las decisiones finales y cierran los acuerdos. Distinkt es gratuita para los clientes de talento y no les pedirá representación exclusiva; apunta a grupos sin explotar, como el 70% aproximado de los miembros de SAG-AFTRA que, según sus estimaciones, no tienen agente."
-              },
-              {
-                "t": "p",
-                "x": "“Usamos la tecnología para dar superpoderes a los agentes, no para reemplazarlos”, dijo Herman."
-              }
-            ]
-          }
-        },
         "ko": {
-          "headline": "무소속용 Distinkt\nAI-powered 대행사",
-          "body": "LA·London에서 AI-powered 대행사 Distinkt가 출범했다.",
-          "mini_headline": "Distinkt: AI 인재 에이전시",
+          "headline": "Screenburn AI,\n마이크로드라마 시즌 집필",
+          "body": "The Writers Room은 생성형 AI로 80편짜리 시즌 초안을 쓴다.",
+          "mini_headline": "AI가 마이크로드라마 시즌을 쓴다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/Unknown_a9cd6c.jpeg?w=1000&h=667&crop=1"
+                "src": "https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/1/5/6/1492156_screenshot20261112at14.50.31_498419.jpg"
               },
               {
                 "t": "p",
-                "x": "전 세계에서 소속사 없이 활동하는 수많은 창작자와 클라이언트를 위한 인재 회사 Distinkt가 Los Angeles와 London에서 출범했다. 이 에이전시는 AI 워크플로와 인간 에이전트를 함께 활용해 배우, 감독, 프로듀서, 편집자, 사진작가, 디지털 크리에이티브를 주요 시장의 기회와 연결한다. Distinkt는 43개국 약 2,000명의 클라이언트와 함께 운영을 시작했다."
+                "x": "대본형 엔터테인먼트 전문 기업 Screenburn Group이 생성형 AI(genAI)로 마이크로드라마 시리즈 전체를 쓰는 AI 소프트웨어 The Writers Room을 출시했다. 작가의 이야기 구상을 받아 마이크로드라마 한 시즌 80편 전부를 몇 시간 만에 쓴다. 각본 분량으로 약 29,000단어다."
               },
               {
                 "t": "p",
-                "x": "California-licensed 회사인 Distinkt는 Robert Herman, Chris Gibbin, 그리고 UTA 커뮤니케이션 책임자 출신 Chris Day가 세웠다. CEO Herman은 “에이전시 업무의 조정과 행정 상당 부분을 기술이 처리하도록 Distinkt를 만들었다. 덕분에 에이전트는 판단, 평가, 협상에 집중할 수 있다”고 말했다."
+                "x": "작가는 제목, 한 줄 요약, 등장인물, 그리고 인물에 관한 일련의 질문에 대한 답을 제공한다. The Writers Room은 100,000편이 넘는 세로형 시리즈 데이터에서 도출한, 시즌의 시작과 전환과 결말에 관한 규칙에 맞춰 대본을 쓴다."
               },
               {
                 "t": "p",
-                "x": "Distinkt의 모든 클라이언트는 자체 플랫폼에서 일거리를 분석하는 네 명의 “AI 팀원”과, 법률 준수와 계약 분석 같은 분야의 AI “전문가” 패널을 제공받는다. 최종 결정과 계약 중개는 모두 인간 에이전트가 맡는다. Distinkt는 인재 클라이언트에게 무료이며 전속 계약도 요구하지 않는다. 회사는 에이전트가 없는 것으로 추산되는 SAG-AFTRA 회원 약 70% 같은 미개척층을 노린다."
+                "x": "이어 Retention Engine이 첫 화의 시작 방식, 각 화의 마무리, 각 화가 시청자에게 새 정보를 얼마나 자주 주는지, 긴장이 어떻게 쌓이는지를 기준으로 모든 에피소드를 100점 만점으로 채점한다. 80점 이상이면 Screenburn Certified 마크를 받는다. 이렇게 쓴 시즌 20개 이상이 현재 판매 중이며, 최고 점수는 97점이다."
               },
               {
                 "t": "p",
-                "x": "Herman은 “기술로 에이전트를 대체하려는 것이 아니라 에이전트에게 초능력을 주려는 것”이라고 말했다."
+                "x": "The Writers Room 이용료는 12개월 계약 기준 월 US$1,350이며, 한 달에 한 시즌이 포함된다. 창업자이자 CEO인 Dr Charles Kriel은 “누구도 두어 시간 만에 이 쇼를 쓸 수는 없었다”며 “작가는 오후 한나절에 이야기를 구상하고, 누군가 제작에 한 푼이라도 쓰기 전에 점수까지 매겨진 시즌 전체를 손에 쥔다”고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "無所属俳優へDistinkt\nAI-powered事務所",
-          "body": "LAとLondonで無所属向けAI-powered事務所Distinktが始動した。",
-          "mini_headline": "Distinkt:AIタレント事務所",
+          "headline": "ScreenburnのAI\nマイクロドラマを丸ごと執筆",
+          "body": "The Writers Roomは生成AIで、全80話の縦型ドラマのシーズンを書く。",
+          "mini_headline": "AIがマイクロドラマのシーズンを執筆",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/Unknown_a9cd6c.jpeg?w=1000&h=667&crop=1"
+                "src": "https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/1/5/6/1492156_screenshot20261112at14.50.31_498419.jpg"
               },
               {
                 "t": "p",
-                "x": "世界中で所属先を持たない多くのクリエイターやクライアントのためのタレント企業Distinktが、Los AngelesとLondonを拠点に始動した。同社はAIワークフローと人間のエージェントを組み合わせ、俳優、監督、プロデューサー、編集者、写真家、デジタルクリエイターを主要市場の機会につなぐ。Distinktは43カ国、約2,000人のクライアントを抱えて稼働している。"
+                "x": "脚本型エンタメを専門とするScreenburn Groupが、生成AI（genAI）でマイクロドラマのシリーズ全体を書くAIソフトウェア「The Writers Room」を発表した。作家の物語プランを受け取り、マイクロドラマのシーズン全80話を数時間で書き上げる。脚本にして約29,000語に相当する。"
               },
               {
                 "t": "p",
-                "x": "California-licensedの同社は、Robert Herman、Chris Gibbin、そしてUTAの元広報責任者Chris Dayが設立した。CEOのHermanは「エージェント業務の調整や事務の大部分をテクノロジーが担うようにDistinktを作った。それによってエージェントは判断、評価、交渉に集中できる」と語った。"
+                "x": "作家はタイトル、一行のあらすじ、登場人物、そして人物に関する一連の質問への回答を入力する。The Writers Roomは、100,000本を超える縦型シリーズのデータから導いた、シーズンの始まり方、展開、終わり方に関するルールに沿って執筆する。"
               },
               {
                 "t": "p",
-                "x": "Distinktのクライアントは全員、独自プラットフォーム上で仕事の機会を分析する四人の「AIチームメイト」と、法令順守や契約分析などの分野を担うAI「スペシャリスト」の一団を利用できる。最終判断と契約の仲介はすべて人間のエージェントが行う。Distinktはタレントのクライアントには無料で、専属契約も求めない。同社が狙うのは、エージェントを持たないと推計するSAG-AFTRA会員の約70%といった未開拓層だ。"
+                "x": "続いてRetention Engineが、第一話の始まり方、各話の終わり方、各話が視聴者に新しい情報をどれだけ頻繁に伝えるか、緊張感の高まり方を基準に、全エピソードを100点満点で採点する。80点以上ならScreenburn Certifiedマークが付く。この方法で書かれた20以上のシーズンがすでに販売されており、最高点は97点だ。"
               },
               {
                 "t": "p",
-                "x": "Hermanは「テクノロジーはエージェントを置き換えるためではなく、エージェントに超能力を与えるために使っている」と述べた。"
+                "x": "The Writers Roomの料金は12か月契約で月額US$1,350で、毎月一シーズン分が含まれる。創業者でCEOのDr Charles Krielは「数時間で番組を書ける人など誰もいなかった」と語り、「作家は午後のうちに物語を構想し、誰かが制作に一ドルも使う前に、採点済みのシーズン全体を手にする」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI-powered经纪公司\nDistinkt助无经纪艺人",
-          "body": "娱乐老将在LA和London推出服务无经纪艺人的AI-powered机构Distinkt。",
-          "mini_headline": "Distinkt：AI人才经纪公司",
+          "headline": "Screenburn的AI\n可起草整季微短剧",
+          "body": "The Writers Room用生成式AI依据编剧构想起草80集竖屏剧整季。",
+          "mini_headline": "AI起草整季微短剧",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/Unknown_a9cd6c.jpeg?w=1000&h=667&crop=1"
+                "src": "https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/1/5/6/1492156_screenshot20261112at14.50.31_498419.jpg"
               },
               {
                 "t": "p",
-                "x": "面向全球大量没有经纪代理的创作者和客户的人才公司Distinkt在Los Angeles和London成立。该机构将结合AI工作流程与人类经纪人，把演员、导演、制片人、剪辑师、摄影师和数字创意人士与主要市场的机会连接起来。Distinkt已在43个国家拥有近2,000名客户并投入运营。"
+                "x": "剧本类娱乐专业公司Screenburn Group推出AI软件The Writers Room，可借助生成式AI（genAI）写出完整的微短剧系列。它根据编剧的故事规划，在几小时内写完一季微短剧的全部80集，剧本约29,000词。"
               },
               {
                 "t": "p",
-                "x": "这家California-licensed公司由Robert Herman、Chris Gibbin以及UTA前传播主管Chris Day创立。CEO Herman表示：“我们打造Distinkt，是为了让经纪工作中相当一部分的协调和行政事务由技术来处理。这样我们的经纪人就能专注于判断、评估和谈判。”"
+                "x": "编剧需提供剧名、一句话梗概、角色设定，并回答一组关于角色的问题。The Writers Room依据从100,000多部竖屏剧数据中提炼的规则写作，这些规则规定一季如何开篇、转折与收尾。"
               },
               {
                 "t": "p",
-                "x": "每位Distinkt客户都会在自有平台上获得四名用于分析工作机会的“AI队友”，以及一组负责法律合规、合同分析等领域的AI“专家”。所有最终决定和交易撮合均由人类经纪人完成。Distinkt对人才客户免费，也不要求独家代理；它瞄准的是尚未开发的群体，例如其估计约70%没有经纪人的SAG-AFTRA会员。"
+                "x": "随后，Retention Engine会按第一集如何开场、每集如何收尾、每集向观众提供新信息的频率以及张力如何累积，为每一集打分，满分100分；达到80分及以上即可获得Screenburn Certified标志。目前已有20多季以这种方式写成的剧集在售，最高分为97分。"
               },
               {
                 "t": "p",
-                "x": "Herman说：“我们用技术给经纪人超能力，而不是取代他们。”"
+                "x": "The Writers Room需签12个月合约，月费US$1,350，每月含一季。创始人兼CEO Dr Charles Kriel表示：“没人能在几个小时内写完一部剧。”他说：“编剧花一个下午构思故事，在任何人为制作花一美元之前，就能拿到已打分的整季剧本。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "La IA de Screenburn redacta\ntemporadas de microdrama",
+          "body": "The Writers Room, de Screenburn, usa IA generativa para redactar temporadas de drama vertical de 80 episodios.",
+          "mini_headline": "La IA redacta temporadas de microdrama",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/1/5/6/1492156_screenshot20261112at14.50.31_498419.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Screenburn Group, especialista en entretenimiento guionizado, ha lanzado The Writers Room, un software de IA que usa IA generativa (genAI) para escribir series completas de microdramas. A partir del plan de un guionista para una historia, escribe en pocas horas los 80 episodios de una temporada de microdrama: unas 29,000 palabras de guion."
+              },
+              {
+                "t": "p",
+                "x": "El guionista aporta el título, un resumen de una línea, los personajes y las respuestas a una serie de preguntas sobre ellos. The Writers Room escribe siguiendo un conjunto de reglas sobre cómo arranca, gira y termina una temporada, extraídas de datos de más de 100,000 series verticales."
+              },
+              {
+                "t": "p",
+                "x": "Después, un Retention Engine puntúa cada episodio sobre 100 según cómo arranca el primer episodio, cómo termina cada episodio, con qué frecuencia cada episodio le cuenta algo nuevo al espectador y cómo crece la tensión; con 80 o más se obtiene el sello Screenburn Certified. Ya están a la venta más de 20 temporadas escritas de esta forma; la puntuación más alta es 97."
+              },
+              {
+                "t": "p",
+                "x": "The Writers Room cuesta US$1,350 al mes con un contrato de 12 meses, que incluye una temporada al mes. “Nadie podía escribir la serie en un par de horas”, dijo el fundador y CEO, Dr Charles Kriel. “Un guionista planifica una historia en una tarde y tiene su temporada completa, puntuada, antes de que nadie gaste un dólar en producirla”."
               }
             ]
           }
@@ -707,15 +637,15 @@
       }
     },
     {
-      "id": "sagaftra-websummit-ai-block",
+      "id": "zhao-liying-hongguo-lawsuit",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "SAG-AFTRA 회원의\n10-15%는 AI 차단파",
-      "body": "Crabtree-Ireland는 금지 대신 복제물 동의·보상을 원한다고 했다.",
-      "mini_headline": "SAG-AFTRA의 AI 반대 소수파",
+      "headline": "Zhao Liying,\nHongguo 초상권 소송",
+      "body": "Zhao Liying이 Hongguo 운영사와 Douyin에 초상권 소송을 냈다.",
+      "mini_headline": "Zhao Liying, 초상권 소송 제기",
       "tool": "Movies",
-      "source": "The Hollywood Reporter",
-      "url": "https://www.hollywoodreporter.com/business/business-news/sag-aftra-duncan-crabtree-ireland-web-summit-ai-dan-neely-1236753936/",
+      "source": "Global Times",
+      "url": "https://www.globaltimes.cn/page/202611/1374182.shtml",
       "accent": "#7928ca",
       "motif": "frame",
       "full": {
@@ -723,173 +653,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/FotoJet-2026-11-12T165017.613.jpg?w=1920&h=1080&crop=1"
+            "src": "https://www.globaltimes.cn/Portals/0/attachment/2026/2026-11-12/085e211b-5d72-44f7-ae9e-b0b47769c971.jpeg",
+            "cap": "중국 배우 Zhao Liying Photo: VCG"
           },
           {
             "t": "p",
-            "x": "SAG-AFTRA 전국 사무총장 겸 CEO Duncan Crabtree-Ireland가 Lisbon의 Web Summit에서 Vermillio 공동 창업자 겸 CEO Dan Neely와 함께 연기자의 권리, AI와의 공존, NO FAKES Act를 이야기했다. Vermillio는 AI 라이선싱·보호 플랫폼이다."
+            "x": "중국 배우 Zhao Liying이 인기 숏드라마 플랫폼 Hongguo Short Drama의 운영사와 모회사 Douyin을 상대로 자기 초상을 무단으로 썼다며 소송을 냈다고 전해졌다. 유명인 얼굴과 목소리를 동의 없이 가져다 쓴 AI 생성(AI-generated) 콘텐츠가 이번 일로 다시 도마에 올랐다."
           },
           {
             "t": "p",
-            "x": "그는 “누구도 그것을 멈출 수 없고 막을 수 없다는 사실을 이해하고 받아들이는 분위기가 형성됐다. 우리 회원 중 일부는 우리가 그것을 막아 주기를 바란다. 매일 그들의 이야기를 듣는데, 우리가 막지 않는다며 화를 낸다”고 말했다. SAG-AFTRA 회원 160,000명 가운데 AI가 완전히 막히길 바라는 사람이 얼마나 되느냐는 질문에는 “추정하자면 10퍼센트, 어쩌면 15퍼센트 정도”라고 답했다."
+            "x": "Beijing(베이징)의 Mentougou District People's Court(먼터우거우구 인민법원)에 배정된 이 사건에서 원고는 Zhao, 피고는 Beijing Douyin Information Service Co Ltd, Beijing Bimo Liuxiang Technology, 성이 Shi인 개인이다. Weibo 사용자들이 올린 Hongguo의 AI 생성(AI-generated) 숏드라마 클립에는 Zhao를 닮은 얼굴의 인물이 나오고 목소리도 Zhao와 비슷한 AI 음성이다."
           },
           {
             "t": "p",
-            "x": "Crabtree-Ireland는 엔터테인먼트 분야 AI의 기본 원칙 세 가지로 동의, 통제, 보상을 들었다. “일부 회원은 보조 수단으로 AI 도구를 정말 쓰고 싶어 하지만, 창작 행위 자체를 사랑하기 때문에 AI에 대체되기를 원하는 사람은 아무도 없다.”"
+            "x": "Yi Yangqianxi, Yang Zi, Xiao Zhan, Deng Wei, Cheng Yi 등 다른 배우들도 비슷한 분쟁에 휘말렸다. Li Yunkai 변호사는 AI 이미지가 똑같은 복제물이어야만 침해가 되는 건 아니라며 관건은 대중이 그 인물을 알아보느냐라고 짚었다."
           },
           {
             "t": "p",
-            "x": "Neely는 Vermillio가 무단 사용을 잡아낼 수 있고 가드레일 제품도 내놓고 있다고 말했다. Crabtree-Ireland는 SAG-AFTRA의 기준은 그보다 낮다며 이렇게 말했다. “당신의 목소리로 인식될 것이라면, 분명히 당신처럼 들리거나 당신처럼 보인다면 … 그것은 복제물이다.”"
+            "x": "국가광파전시총국(National Radio and Television Administration)은 11월 1일부터 12월 말까지 두 달 동안 '얼굴 도용'과 '목소리 도용'을 겨냥하고 AI 생성(AI-generated) 숏드라마 제작을 규제하는 캠페인에 들어갔다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Some 10-15% of SAG-AFTRA\nmembers want AI blocked",
-          "body": "Duncan Crabtree-Ireland told Web Summit the union seeks consent and compensation for digital replicas, not a ban.",
-          "mini_headline": "SAG-AFTRA's anti-AI minority",
+          "headline": "Zhao Liying sues Hongguo\nover use of her likeness",
+          "body": "Zhao Liying has sued short-drama app Hongguo's operator and Douyin over alleged unauthorized use of her likeness.",
+          "mini_headline": "Zhao Liying sues\nover her likeness",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/FotoJet-2026-11-12T165017.613.jpg?w=1920&h=1080&crop=1"
+                "src": "https://www.globaltimes.cn/Portals/0/attachment/2026/2026-11-12/085e211b-5d72-44f7-ae9e-b0b47769c971.jpeg",
+                "cap": "Chinese actress Zhao Liying Photo: VCG"
               },
               {
                 "t": "p",
-                "x": "SAG-AFTRA national executive director and CEO Duncan Crabtree-Ireland was joined at Lisbon’s Web Summit by Dan Neely, co-founder and CEO of AI licensing and protection platform Vermillio, to discuss performers’ rights, coexisting with AI and the NO FAKES Act."
+                "x": "Chinese actress Zhao Liying has reportedly sued the operator of popular short-drama platform Hongguo Short Drama and its parent company Douyin over the alleged unauthorized use of her likeness, bringing renewed attention to AI-generated content using celebrities' faces and voices without their consent."
               },
               {
                 "t": "p",
-                "x": "“There’s been an understanding and an acceptance of the fact that no one can stop it, no one can block it. Some of our members would like us to block it. I hear from them every day, and they’re angry that we aren’t,” he said. Asked what percentage of SAG-AFTRA’s 160,000-strong membership would like AI completely obstructed, he replied: “If I were estimating, I’d say something like 10 percent, maybe 15 percent.”"
+                "x": "The case, scheduled at the Mentougou District People's Court in Beijing, lists Zhao as plaintiff and Beijing Douyin Information Service Co Ltd, Beijing Bimo Liuxiang Technology and an individual surnamed Shi as defendants. Weibo users have posted clips from AI-generated short dramas on Hongguo featuring characters whose faces resemble Zhao, and AI voices that sound similar to hers."
               },
               {
                 "t": "p",
-                "x": "Crabtree-Ireland pointed to three basic principles for AI in entertainment — consent, control and compensation. “Some of our members really want to work with AI tools for augmentation, but none of them want to be replaced by AI because they love the act of creation.”"
+                "x": "Actors including Yi Yangqianxi, Yang Zi, Xiao Zhan, Deng Wei and Cheng Yi have also been embroiled in similar disputes. Lawyer Li Yunkai said AI images need not be exact replicas to infringe; the key question is whether the public can identify the person."
               },
               {
                 "t": "p",
-                "x": "Neely said Vermillio can detect unauthorized uses and offers a guardrails product. Crabtree-Ireland said SAG-AFTRA has a lower bar: “If it is going to be perceived as your voice, if it clearly sounds like you or if it looks like you … then that is a replica.”"
+                "x": "The National Radio and Television Administration has launched a two-month campaign, from November 1 to the end of December, targeting \"face theft\" and \"voice theft\" and regulating AI-generated short-drama production."
               }
             ]
           }
         },
         "ko": {
-          "headline": "SAG-AFTRA 회원의\n10-15%는 AI 차단파",
-          "body": "Crabtree-Ireland는 금지 대신 복제물 동의·보상을 원한다고 했다.",
-          "mini_headline": "SAG-AFTRA의 AI 반대 소수파",
+          "headline": "Zhao Liying,\nHongguo 초상권 소송",
+          "body": "Zhao Liying이 Hongguo 운영사와 Douyin에 초상권 소송을 냈다.",
+          "mini_headline": "Zhao Liying, 초상권 소송 제기",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/FotoJet-2026-11-12T165017.613.jpg?w=1920&h=1080&crop=1"
+                "src": "https://www.globaltimes.cn/Portals/0/attachment/2026/2026-11-12/085e211b-5d72-44f7-ae9e-b0b47769c971.jpeg",
+                "cap": "중국 배우 Zhao Liying Photo: VCG"
               },
               {
                 "t": "p",
-                "x": "SAG-AFTRA 전국 사무총장 겸 CEO Duncan Crabtree-Ireland가 Lisbon의 Web Summit에서 Vermillio 공동 창업자 겸 CEO Dan Neely와 함께 연기자의 권리, AI와의 공존, NO FAKES Act를 이야기했다. Vermillio는 AI 라이선싱·보호 플랫폼이다."
+                "x": "중국 배우 Zhao Liying이 인기 숏드라마 플랫폼 Hongguo Short Drama의 운영사와 모회사 Douyin을 상대로 자기 초상을 무단으로 썼다며 소송을 냈다고 전해졌다. 유명인 얼굴과 목소리를 동의 없이 가져다 쓴 AI 생성(AI-generated) 콘텐츠가 이번 일로 다시 도마에 올랐다."
               },
               {
                 "t": "p",
-                "x": "그는 “누구도 그것을 멈출 수 없고 막을 수 없다는 사실을 이해하고 받아들이는 분위기가 형성됐다. 우리 회원 중 일부는 우리가 그것을 막아 주기를 바란다. 매일 그들의 이야기를 듣는데, 우리가 막지 않는다며 화를 낸다”고 말했다. SAG-AFTRA 회원 160,000명 가운데 AI가 완전히 막히길 바라는 사람이 얼마나 되느냐는 질문에는 “추정하자면 10퍼센트, 어쩌면 15퍼센트 정도”라고 답했다."
+                "x": "Beijing(베이징)의 Mentougou District People's Court(먼터우거우구 인민법원)에 배정된 이 사건에서 원고는 Zhao, 피고는 Beijing Douyin Information Service Co Ltd, Beijing Bimo Liuxiang Technology, 성이 Shi인 개인이다. Weibo 사용자들이 올린 Hongguo의 AI 생성(AI-generated) 숏드라마 클립에는 Zhao를 닮은 얼굴의 인물이 나오고 목소리도 Zhao와 비슷한 AI 음성이다."
               },
               {
                 "t": "p",
-                "x": "Crabtree-Ireland는 엔터테인먼트 분야 AI의 기본 원칙 세 가지로 동의, 통제, 보상을 들었다. “일부 회원은 보조 수단으로 AI 도구를 정말 쓰고 싶어 하지만, 창작 행위 자체를 사랑하기 때문에 AI에 대체되기를 원하는 사람은 아무도 없다.”"
+                "x": "Yi Yangqianxi, Yang Zi, Xiao Zhan, Deng Wei, Cheng Yi 등 다른 배우들도 비슷한 분쟁에 휘말렸다. Li Yunkai 변호사는 AI 이미지가 똑같은 복제물이어야만 침해가 되는 건 아니라며 관건은 대중이 그 인물을 알아보느냐라고 짚었다."
               },
               {
                 "t": "p",
-                "x": "Neely는 Vermillio가 무단 사용을 잡아낼 수 있고 가드레일 제품도 내놓고 있다고 말했다. Crabtree-Ireland는 SAG-AFTRA의 기준은 그보다 낮다며 이렇게 말했다. “당신의 목소리로 인식될 것이라면, 분명히 당신처럼 들리거나 당신처럼 보인다면 … 그것은 복제물이다.”"
+                "x": "국가광파전시총국(National Radio and Television Administration)은 11월 1일부터 12월 말까지 두 달 동안 '얼굴 도용'과 '목소리 도용'을 겨냥하고 AI 생성(AI-generated) 숏드라마 제작을 규제하는 캠페인에 들어갔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "SAG-AFTRA会員の\n10-15%がAI阻止を望む",
-          "body": "Crabtree-Irelandは、組合が求めるのは禁止でなく同意と報酬だと述べた。",
-          "mini_headline": "SAG-AFTRAの反AI少数派",
+          "headline": "Zhao Liyingが提訴\nHongguoの肖像使用で",
+          "body": "Zhao Liyingが肖像の無断使用でHongguo運営会社とDouyinを提訴した。",
+          "mini_headline": "Zhao Liying、肖像めぐり提訴",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/FotoJet-2026-11-12T165017.613.jpg?w=1920&h=1080&crop=1"
+                "src": "https://www.globaltimes.cn/Portals/0/attachment/2026/2026-11-12/085e211b-5d72-44f7-ae9e-b0b47769c971.jpeg",
+                "cap": "中国の女優Zhao Liying Photo: VCG"
               },
               {
                 "t": "p",
-                "x": "SAG-AFTRAの全国事務局長兼CEOであるDuncan Crabtree-Irelandは、LisbonのWeb Summitで、AIのライセンス管理・保護プラットフォームVermillioの共同創業者兼CEOであるDan Neelyとともに、演者の権利、AIとの共存、NO FAKES Actについて議論した。"
+                "x": "中国の女優Zhao Liyingが、人気ショートドラマ配信プラットフォームHongguo Short Dramaの運営会社と親会社のDouyinを相手取り、肖像を無断で使用されたとして提訴したと報じられた。著名人の顔や声を本人の同意なく使うAI生成（AI-generated）コンテンツに、改めて注目が集まっている。"
               },
               {
                 "t": "p",
-                "x": "「誰にも止められない、誰にも阻止できないという事実への理解と受け入れが広がっている。会員の中には私たちに阻止してほしいと考える人もいる。毎日その声を聞いているし、私たちがそうしないことに彼らは怒っている」と彼は語った。160,000人を擁するSAG-AFTRA会員のうち、AIの完全な阻止を望む割合を問われると、「推定するなら10パーセント、もしかすると15パーセントくらいだろう」と答えた。"
+                "x": "北京（Beijing）のMentougou District People's Court（門頭溝区人民法院）で審理予定のこの訴訟では、Zhaoが原告、Beijing Douyin Information Service Co Ltd、Beijing Bimo Liuxiang Technology、そしてShi姓の個人が被告となっている。Weiboのユーザーは、Hongguoで配信されたAI生成（AI-generated）ショートドラマのクリップを投稿しており、そこにはZhaoに似た顔の登場人物や、彼女に似たAI音声が見られる。"
               },
               {
                 "t": "p",
-                "x": "Crabtree-Irelandは、エンターテインメントにおけるAIの三つの基本原則として、同意、管理、報酬を挙げた。「会員の中には補助としてAIツールを本当に使いたい人もいるが、創作という行為を愛しているからこそ、AIに取って代わられたい人は誰もいない」"
+                "x": "Yi Yangqianxi、Yang Zi、Xiao Zhan、Deng Wei、Cheng Yiといった俳優も同様の争いに巻き込まれてきた。Li Yunkai弁護士は、AI画像が権利侵害となるのに完全な複製である必要はなく、重要なのは一般の人がその人物だと識別できるかどうかだと述べた。"
               },
               {
                 "t": "p",
-                "x": "Neelyは、Vermillioが無断使用を検出でき、ガードレール製品も提供していると述べた。Crabtree-Irelandによれば、SAG-AFTRAの基準はより低い。「あなたの声だと受け取られるなら、明らかにあなたのように聞こえたり、あなたのように見えたりするなら……それは複製だ」"
+                "x": "国家ラジオテレビ総局（National Radio and Television Administration）は、11月1日から12月末までの二か月間、「顔泥棒」と「声泥棒」を標的とし、AI生成（AI-generated）ショートドラマの制作を規制するキャンペーンを開始した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "SAG-AFTRA会员中\n10-15%希望封禁AI",
-          "body": "Crabtree-Ireland称，工会要的不是禁令，而是数字复制品的同意与补偿。",
-          "mini_headline": "SAG-AFTRA中的反AI少数派",
+          "headline": "Zhao Liying起诉\nHongguo擅用其肖像",
+          "body": "赵丽颖（Zhao Liying）以肖像遭擅用为由起诉Hongguo运营方及Douyin。",
+          "mini_headline": "Zhao Liying就肖像权提起诉讼",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/FotoJet-2026-11-12T165017.613.jpg?w=1920&h=1080&crop=1"
+                "src": "https://www.globaltimes.cn/Portals/0/attachment/2026/2026-11-12/085e211b-5d72-44f7-ae9e-b0b47769c971.jpeg",
+                "cap": "中国女演员赵丽颖（Zhao Liying）Photo: VCG"
               },
               {
                 "t": "p",
-                "x": "SAG-AFTRA全国执行董事兼CEO Duncan Crabtree-Ireland在Lisbon的Web Summit上，与AI授权与保护平台Vermillio的联合创始人兼CEO Dan Neely一同探讨了演员权益、与AI共存以及NO FAKES Act。"
+                "x": "据报道，中国女演员赵丽颖（Zhao Liying）起诉热门短剧平台红果短剧（Hongguo Short Drama）的运营方及其母公司抖音（Douyin），指其未经授权使用她的肖像。此事再度引发外界对未经同意使用名人面孔和声音的AI生成（AI-generated）内容的关注。"
               },
               {
                 "t": "p",
-                "x": "他说：“大家已经理解并接受了这样一个事实：没人能阻止它，没人能挡住它。我们的一些会员希望我们挡住它。我每天都听到他们的声音，他们对我们没有这么做感到愤怒。”被问及SAG-AFTRA 160,000名会员中有多大比例希望彻底阻止AI时，他答道：“如果让我估计，我会说大约百分之十，也许百分之十五。”"
+                "x": "该案定于北京（Beijing）门头沟区人民法院（Mentougou District People's Court）审理，原告为Zhao，被告为Beijing Douyin Information Service Co Ltd、Beijing Bimo Liuxiang Technology以及一名Shi姓个人。微博（Weibo）用户已发布Hongguo上AI生成（AI-generated）短剧的片段，其中角色面孔与Zhao相似，AI配音也与她的声音相近。"
               },
               {
                 "t": "p",
-                "x": "Crabtree-Ireland提出了娱乐业AI的三项基本原则——同意、控制和补偿。“我们的一些会员确实希望借助AI工具来增强创作，但没有人想被AI取代，因为他们热爱创作这件事本身。”"
+                "x": "易烊千玺（Yi Yangqianxi）、杨紫（Yang Zi）、肖战（Xiao Zhan）、邓为（Deng Wei）、成毅（Cheng Yi）等演员也曾卷入类似纠纷。律师Li Yunkai表示，AI图像不必是完全复制也可能构成侵权，关键在于公众能否认出此人。"
               },
               {
                 "t": "p",
-                "x": "Neely表示，Vermillio能够检测未经授权的使用，并提供护栏产品。Crabtree-Ireland则说，SAG-AFTRA的标准更低：“如果它会被认为是你的声音，如果它听起来明显像你，或者看起来像你……那就是复制品。”"
+                "x": "国家广播电视总局（National Radio and Television Administration）已启动为期两个月的专项行动，时间为11月1日至12月底，针对“盗脸”和“盗声”问题，并规范AI生成（AI-generated）短剧的制作。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un 10-15% de los socios de\nSAG-AFTRA quiere bloquear la AI",
-          "body": "Crabtree-Ireland dijo en Web Summit que el sindicato pide consentimiento y compensación por réplicas, no vetarlas.",
-          "mini_headline": "La minoría anti-AI de SAG-AFTRA",
+          "headline": "Zhao Liying demanda a Hongguo\npor el uso de su imagen",
+          "body": "Zhao Liying demandó al operador de la app Hongguo y a Douyin por el presunto uso no autorizado de su imagen.",
+          "mini_headline": "Zhao Liying demanda por el uso de su imagen",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/FotoJet-2026-11-12T165017.613.jpg?w=1920&h=1080&crop=1"
+                "src": "https://www.globaltimes.cn/Portals/0/attachment/2026/2026-11-12/085e211b-5d72-44f7-ae9e-b0b47769c971.jpeg",
+                "cap": "La actriz china Zhao Liying Photo: VCG"
               },
               {
                 "t": "p",
-                "x": "El director ejecutivo nacional y CEO de SAG-AFTRA, Duncan Crabtree-Ireland, coincidió en la Web Summit de Lisboa (Lisbon) con Dan Neely, cofundador y CEO de Vermillio, plataforma de licencias y protección de AI, para hablar de los derechos de los intérpretes, la convivencia con la AI y la NO FAKES Act."
+                "x": "La actriz china Zhao Liying ha demandado, según informes, al operador de la popular plataforma de microdramas Hongguo Short Drama y a su empresa matriz, Douyin, por el presunto uso no autorizado de su imagen, lo que vuelve a poner el foco en el contenido generado con IA (AI-generated) que usa rostros y voces de famosos sin su consentimiento."
               },
               {
                 "t": "p",
-                "x": "“Se ha entendido y aceptado el hecho de que nadie puede detenerlo, nadie puede bloquearlo. Algunos de nuestros miembros querrían que lo bloqueáramos. Los escucho todos los días, y están enojados porque no lo hacemos”, dijo. Al preguntarle qué porcentaje de los 160,000 miembros de SAG-AFTRA querría que la AI se obstaculizara por completo, respondió: “Si tuviera que estimarlo, diría algo así como un 10 por ciento, quizá un 15 por ciento”."
+                "x": "El caso, programado en el Mentougou District People's Court de Beijing, figura con Zhao como demandante y con Beijing Douyin Information Service Co Ltd, Beijing Bimo Liuxiang Technology y una persona de apellido Shi como demandados. Usuarios de Weibo han publicado fragmentos de microdramas generados con IA (AI-generated) en Hongguo con personajes cuyos rostros se parecen a Zhao y voces de IA que suenan similares a la suya."
               },
               {
                 "t": "p",
-                "x": "Crabtree-Ireland señaló tres principios básicos para la AI en el entretenimiento: consentimiento, control y compensación. “Algunos de nuestros miembros realmente quieren trabajar con herramientas de AI como apoyo, pero ninguno quiere ser reemplazado por la AI porque aman el acto de crear”."
+                "x": "Actores como Yi Yangqianxi, Yang Zi, Xiao Zhan, Deng Wei y Cheng Yi también se han visto envueltos en disputas similares. El abogado Li Yunkai afirmó que las imágenes de IA no necesitan ser réplicas exactas para infringir derechos; la cuestión clave es si el público puede identificar a la persona."
               },
               {
                 "t": "p",
-                "x": "Neely dijo que Vermillio puede detectar usos no autorizados y ofrece un producto de salvaguardas. Crabtree-Ireland dijo que SAG-AFTRA pone el listón más bajo: “Si va a percibirse como tu voz, si claramente suena como tú o si se parece a ti … entonces eso es una réplica”."
+                "x": "La National Radio and Television Administration ha lanzado una campaña de dos meses, del 1 de noviembre a finales de diciembre, contra el \"robo de rostros\" y el \"robo de voces\", y para regular la producción de microdramas generados con IA (AI-generated)."
               }
             ]
           }
@@ -897,121 +833,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "SAG-AFTRA 회원의\n10-15%는 AI 차단파",
-          "body": "Crabtree-Ireland는 금지 대신 복제물 동의·보상을 원한다고 했다.",
-          "mini_headline": "SAG-AFTRA의 AI 반대 소수파",
+          "headline": "Zhao Liying,\nHongguo 초상권 소송",
+          "body": "Zhao Liying이 Hongguo 운영사와 Douyin에 초상권 소송을 냈다.",
+          "mini_headline": "Zhao Liying, 초상권 소송 제기",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/FotoJet-2026-11-12T165017.613.jpg?w=1920&h=1080&crop=1"
+                "src": "https://www.globaltimes.cn/Portals/0/attachment/2026/2026-11-12/085e211b-5d72-44f7-ae9e-b0b47769c971.jpeg",
+                "cap": "중국 배우 Zhao Liying Photo: VCG"
               },
               {
                 "t": "p",
-                "x": "SAG-AFTRA 전국 사무총장 겸 CEO Duncan Crabtree-Ireland가 Lisbon의 Web Summit에서 AI 라이선싱·보호 플랫폼 Vermillio의 공동 창업자 겸 CEO Dan Neely와 함께 연기자의 권리, AI와의 공존, NO FAKES Act를 논의했다."
+                "x": "중국 배우 Zhao Liying이 인기 숏드라마 플랫폼 Hongguo Short Drama의 운영사와 모회사 Douyin을 상대로 자신의 초상을 무단으로 사용했다며 소송을 낸 것으로 전해졌다. 이번 소송으로 유명인의 얼굴과 목소리를 동의 없이 쓴 AI 생성(AI-generated) 콘텐츠에 다시 관심이 쏠리고 있다."
               },
               {
                 "t": "p",
-                "x": "그는 “누구도 그것을 멈출 수 없고 막을 수 없다는 사실을 이해하고 받아들이는 분위기가 형성됐다. 우리 회원 중 일부는 우리가 그것을 막아 주기를 바란다. 매일 그들의 이야기를 듣는데, 우리가 막지 않는다며 화를 낸다”고 말했다. 160,000명 규모의 SAG-AFTRA 회원 가운데 AI가 완전히 차단되기를 바라는 비율을 묻자 그는 “추정하자면 10퍼센트, 어쩌면 15퍼센트 정도”라고 답했다."
+                "x": "Beijing(베이징)의 Mentougou District People's Court(먼터우거우구 인민법원)에 배정된 이 사건에서 원고는 Zhao, 피고는 Beijing Douyin Information Service Co Ltd, Beijing Bimo Liuxiang Technology, 그리고 Shi라는 성을 가진 개인이다. Weibo 사용자들은 Hongguo에 올라온 AI 생성(AI-generated) 숏드라마 클립을 게시했는데, 여기에는 Zhao와 얼굴이 닮은 인물과 그녀와 비슷한 AI 목소리가 등장한다."
               },
               {
                 "t": "p",
-                "x": "Crabtree-Ireland는 엔터테인먼트 분야 AI의 세 가지 기본 원칙으로 동의, 통제, 보상을 꼽았다. “일부 회원은 보조 수단으로 AI 도구를 정말 쓰고 싶어 하지만, 창작 행위 자체를 사랑하기 때문에 AI에 대체되기를 원하는 사람은 아무도 없다.”"
+                "x": "Yi Yangqianxi, Yang Zi, Xiao Zhan, Deng Wei, Cheng Yi 등 다른 배우들도 비슷한 분쟁에 휘말린 바 있다. Li Yunkai 변호사는 AI 이미지가 침해에 해당하려고 반드시 똑같은 복제물일 필요는 없으며, 핵심은 대중이 그 인물을 알아볼 수 있느냐라고 말했다."
               },
               {
                 "t": "p",
-                "x": "Neely는 Vermillio가 무단 사용을 탐지할 수 있으며 가드레일 제품도 제공한다고 말했다. Crabtree-Ireland는 SAG-AFTRA의 기준이 더 낮다며 이렇게 말했다. “당신의 목소리로 인식될 것이라면, 분명히 당신처럼 들리거나 당신처럼 보인다면 … 그것은 복제물이다.”"
+                "x": "국가광파전시총국(National Radio and Television Administration)은 11월 1일부터 12월 말까지 두 달간 '얼굴 도용'과 '목소리 도용'을 겨냥하고 AI 생성(AI-generated) 숏드라마 제작을 규제하는 캠페인을 시작했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "SAG-AFTRA会員の\n10-15%がAI阻止を望む",
-          "body": "Crabtree-Irelandは、組合が求めるのは禁止でなく同意と報酬だと述べた。",
-          "mini_headline": "SAG-AFTRAの反AI少数派",
+          "headline": "Zhao Liyingが提訴\nHongguoの肖像使用で",
+          "body": "Zhao Liyingが肖像の無断使用でHongguo運営会社とDouyinを提訴した。",
+          "mini_headline": "Zhao Liying、肖像めぐり提訴",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/FotoJet-2026-11-12T165017.613.jpg?w=1920&h=1080&crop=1"
+                "src": "https://www.globaltimes.cn/Portals/0/attachment/2026/2026-11-12/085e211b-5d72-44f7-ae9e-b0b47769c971.jpeg",
+                "cap": "中国の女優Zhao Liying Photo: VCG"
               },
               {
                 "t": "p",
-                "x": "SAG-AFTRAの全国事務局長兼CEOであるDuncan Crabtree-Irelandは、LisbonのWeb Summitで、AIのライセンス管理・保護プラットフォームVermillioの共同創業者兼CEOであるDan Neelyとともに、演者の権利、AIとの共存、NO FAKES Actについて議論した。"
+                "x": "中国の女優Zhao Liyingが、人気ショートドラマ配信プラットフォームHongguo Short Dramaの運営会社と親会社のDouyinを相手取り、肖像を無断で使用されたとして提訴したと報じられた。著名人の顔や声を本人の同意なく使うAI生成（AI-generated）コンテンツに、改めて注目が集まっている。"
               },
               {
                 "t": "p",
-                "x": "「誰にも止められない、誰にも阻止できないという事実への理解と受け入れが広がっている。会員の中には私たちに阻止してほしいと考える人もいる。毎日その声を聞いているし、私たちがそうしないことに彼らは怒っている」と彼は語った。160,000人を擁するSAG-AFTRA会員のうち、AIの完全な阻止を望む割合を問われると、「推定するなら10パーセント、もしかすると15パーセントくらいだろう」と答えた。"
+                "x": "北京（Beijing）のMentougou District People's Court（門頭溝区人民法院）で審理予定のこの訴訟では、Zhaoが原告、Beijing Douyin Information Service Co Ltd、Beijing Bimo Liuxiang Technology、そしてShi姓の個人が被告となっている。Weiboのユーザーは、Hongguoで配信されたAI生成（AI-generated）ショートドラマのクリップを投稿しており、そこにはZhaoに似た顔の登場人物や、彼女に似たAI音声が見られる。"
               },
               {
                 "t": "p",
-                "x": "Crabtree-Irelandは、エンターテインメントにおけるAIの三つの基本原則として、同意、管理、報酬を挙げた。「会員の中には補助としてAIツールを本当に使いたい人もいるが、創作という行為を愛しているからこそ、AIに取って代わられたい人は誰もいない」"
+                "x": "Yi Yangqianxi、Yang Zi、Xiao Zhan、Deng Wei、Cheng Yiといった俳優も同様の争いに巻き込まれてきた。Li Yunkai弁護士は、AI画像が権利侵害となるのに完全な複製である必要はなく、重要なのは一般の人がその人物だと識別できるかどうかだと述べた。"
               },
               {
                 "t": "p",
-                "x": "Neelyは、Vermillioが無断使用を検出でき、ガードレール製品も提供していると述べた。Crabtree-Irelandによれば、SAG-AFTRAの基準はより低い。「あなたの声だと受け取られるなら、明らかにあなたのように聞こえたり、あなたのように見えたりするなら……それは複製だ」"
+                "x": "国家ラジオテレビ総局（National Radio and Television Administration）は、11月1日から12月末までの二か月間、「顔泥棒」と「声泥棒」を標的とし、AI生成（AI-generated）ショートドラマの制作を規制するキャンペーンを開始した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "SAG-AFTRA会员中\n10-15%希望封禁AI",
-          "body": "Crabtree-Ireland称，工会要的不是禁令，而是数字复制品的同意与补偿。",
-          "mini_headline": "SAG-AFTRA中的反AI少数派",
+          "headline": "Zhao Liying起诉\nHongguo擅用其肖像",
+          "body": "赵丽颖（Zhao Liying）以肖像遭擅用为由起诉Hongguo运营方及Douyin。",
+          "mini_headline": "Zhao Liying就肖像权提起诉讼",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/FotoJet-2026-11-12T165017.613.jpg?w=1920&h=1080&crop=1"
+                "src": "https://www.globaltimes.cn/Portals/0/attachment/2026/2026-11-12/085e211b-5d72-44f7-ae9e-b0b47769c971.jpeg",
+                "cap": "中国女演员赵丽颖（Zhao Liying）Photo: VCG"
               },
               {
                 "t": "p",
-                "x": "SAG-AFTRA全国执行董事兼CEO Duncan Crabtree-Ireland在Lisbon的Web Summit上，与AI授权与保护平台Vermillio的联合创始人兼CEO Dan Neely一同探讨了演员权益、与AI共存以及NO FAKES Act。"
+                "x": "据报道，中国女演员赵丽颖（Zhao Liying）起诉热门短剧平台红果短剧（Hongguo Short Drama）的运营方及其母公司抖音（Douyin），指其未经授权使用她的肖像。此事再度引发外界对未经同意使用名人面孔和声音的AI生成（AI-generated）内容的关注。"
               },
               {
                 "t": "p",
-                "x": "他说：“大家已经理解并接受了这样一个事实：没人能阻止它，没人能挡住它。我们的一些会员希望我们挡住它。我每天都听到他们的声音，他们对我们没有这么做感到愤怒。”被问及SAG-AFTRA 160,000名会员中有多大比例希望彻底阻止AI时，他答道：“如果让我估计，我会说大约百分之十，也许百分之十五。”"
+                "x": "该案定于北京（Beijing）门头沟区人民法院（Mentougou District People's Court）审理，原告为Zhao，被告为Beijing Douyin Information Service Co Ltd、Beijing Bimo Liuxiang Technology以及一名Shi姓个人。微博（Weibo）用户已发布Hongguo上AI生成（AI-generated）短剧的片段，其中角色面孔与Zhao相似，AI配音也与她的声音相近。"
               },
               {
                 "t": "p",
-                "x": "Crabtree-Ireland提出了娱乐业AI的三项基本原则——同意、控制和补偿。“我们的一些会员确实希望借助AI工具来增强创作，但没有人想被AI取代，因为他们热爱创作这件事本身。”"
+                "x": "易烊千玺（Yi Yangqianxi）、杨紫（Yang Zi）、肖战（Xiao Zhan）、邓为（Deng Wei）、成毅（Cheng Yi）等演员也曾卷入类似纠纷。律师Li Yunkai表示，AI图像不必是完全复制也可能构成侵权，关键在于公众能否认出此人。"
               },
               {
                 "t": "p",
-                "x": "Neely表示，Vermillio能够检测未经授权的使用，并提供护栏产品。Crabtree-Ireland则说，SAG-AFTRA的标准更低：“如果它会被认为是你的声音，如果它听起来明显像你，或者看起来像你……那就是复制品。”"
+                "x": "国家广播电视总局（National Radio and Television Administration）已启动为期两个月的专项行动，时间为11月1日至12月底，针对“盗脸”和“盗声”问题，并规范AI生成（AI-generated）短剧的制作。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un 10-15% de los socios de\nSAG-AFTRA quiere bloquear la AI",
-          "body": "Crabtree-Ireland dijo en Web Summit que el sindicato pide consentimiento y compensación por réplicas, no vetarlas.",
-          "mini_headline": "La minoría anti-AI de SAG-AFTRA",
+          "headline": "Zhao Liying demanda a Hongguo\npor el uso de su imagen",
+          "body": "Zhao Liying demandó al operador de la app Hongguo y a Douyin por el presunto uso no autorizado de su imagen.",
+          "mini_headline": "Zhao Liying demanda por el uso de su imagen",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/FotoJet-2026-11-12T165017.613.jpg?w=1920&h=1080&crop=1"
+                "src": "https://www.globaltimes.cn/Portals/0/attachment/2026/2026-11-12/085e211b-5d72-44f7-ae9e-b0b47769c971.jpeg",
+                "cap": "La actriz china Zhao Liying Photo: VCG"
               },
               {
                 "t": "p",
-                "x": "El director ejecutivo nacional y CEO de SAG-AFTRA, Duncan Crabtree-Ireland, coincidió en la Web Summit de Lisboa (Lisbon) con Dan Neely, cofundador y CEO de Vermillio, plataforma de licencias y protección de AI, para hablar de los derechos de los intérpretes, la convivencia con la AI y la NO FAKES Act."
+                "x": "La actriz china Zhao Liying ha demandado, según informes, al operador de la popular plataforma de microdramas Hongguo Short Drama y a su empresa matriz, Douyin, por el presunto uso no autorizado de su imagen, lo que vuelve a poner el foco en el contenido generado con IA (AI-generated) que usa rostros y voces de famosos sin su consentimiento."
               },
               {
                 "t": "p",
-                "x": "“Se ha entendido y aceptado el hecho de que nadie puede detenerlo, nadie puede bloquearlo. Algunos de nuestros miembros querrían que lo bloqueáramos. Los escucho todos los días, y están enojados porque no lo hacemos”, dijo. Al preguntarle qué porcentaje de los 160,000 miembros de SAG-AFTRA querría que la AI se obstaculizara por completo, respondió: “Si tuviera que estimarlo, diría algo así como un 10 por ciento, quizá un 15 por ciento”."
+                "x": "El caso, programado en el Mentougou District People's Court de Beijing, figura con Zhao como demandante y con Beijing Douyin Information Service Co Ltd, Beijing Bimo Liuxiang Technology y una persona de apellido Shi como demandados. Usuarios de Weibo han publicado fragmentos de microdramas generados con IA (AI-generated) en Hongguo con personajes cuyos rostros se parecen a Zhao y voces de IA que suenan similares a la suya."
               },
               {
                 "t": "p",
-                "x": "Crabtree-Ireland señaló tres principios básicos para la AI en el entretenimiento: consentimiento, control y compensación. “Algunos de nuestros miembros realmente quieren trabajar con herramientas de AI como apoyo, pero ninguno quiere ser reemplazado por la AI porque aman el acto de crear”."
+                "x": "Actores como Yi Yangqianxi, Yang Zi, Xiao Zhan, Deng Wei y Cheng Yi también se han visto envueltos en disputas similares. El abogado Li Yunkai afirmó que las imágenes de IA no necesitan ser réplicas exactas para infringir derechos; la cuestión clave es si el público puede identificar a la persona."
               },
               {
                 "t": "p",
-                "x": "Neely dijo que Vermillio puede detectar usos no autorizados y ofrece un producto de salvaguardas. Crabtree-Ireland dijo que SAG-AFTRA pone el listón más bajo: “Si va a percibirse como tu voz, si claramente suena como tú o si se parece a ti … entonces eso es una réplica”."
+                "x": "La National Radio and Television Administration ha lanzado una campaña de dos meses, del 1 de noviembre a finales de diciembre, contra el \"robo de rostros\" y el \"robo de voces\", y para regular la producción de microdramas generados con IA (AI-generated)."
               }
             ]
           }
@@ -1019,351 +959,321 @@
       }
     },
     {
-      "id": "saranagati-hombale-ai-teaser",
+      "id": "manchester-animation-ai-policy",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "ISKCON 창립자 생애\nAI-driven 영화로",
-      "body": "Hombale 후원작은 AI 모션 캡처로 사람 동작을 디지털 캐릭터에 입힌다.",
-      "mini_headline": "Hombale의 AI 전기영화 티저",
+      "headline": "Manchester 영화제\n생성형 AI 정책 도입",
+      "body": "Manchester 영화제가 2026 수상작과 생성형 AI 출품 정책을 발표했다.",
+      "mini_headline": "Manchester 영화제, AI 규정 마련",
       "tool": "Movies",
-      "source": "Outlook India",
-      "url": "https://www.outlookindia.com/art-entertainment/saranagati-teaser-hombale-films-backs-ai-driven-film-on-iskcon-founders-life",
+      "source": "Animation Magazine",
+      "url": "https://www.animationmagazine.net/2026/11/manchester-animation-festival-announces-2026-winners-new-ai-policy/",
       "accent": "#2ec5c5",
       "motif": "frame",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://cf-images.assettype.com/outlookindia/2026-11-10/ruz1wzp6/Screenshot-2026-11-10-at-19.44.12.png?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100"
+            "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/Manchester-Animation-Festival-2026-winners.png",
+            "cap": "Manchester Animation Festival 2026 최고상은 'In Waves'(위), 'When the Sea Was Calm'(왼쪽), 'A Little Death'에 돌아갔다."
           },
           {
             "t": "p",
-            "x": "ISKCON 창립자 Swami Prabhupada의 생애를 그린 장편 Saranagati의 티저가 화요일 공개됐다. Hombale Films가 후원하는 이 작품은 인공지능 생성 영상에 사람의 창작을 더한 하이브리드 AI 영화로 소개됐다. 영화는 1965년 Prabhupada의 US 여정을 따라가며 그가 서구에 Hare Krishna 운동을 알리는 데 어떤 역할을 했는지 그린다."
+            "x": "영국(U.K.)에서 Oscar와 BAFTA 출품 자격을 주는 유일한 애니메이션 영화제 Manchester Animation Festival(MAF)이 2026 Film Competition, Industry Excellence Awards, MAFter Dark 프로그램 수상작을 발표했다."
           },
           {
             "t": "p",
-            "x": "티저에는 디지털로 만든 영상과 캐릭터가 나온다. 제작진은 이를 Artificial Intelligence Motion Capture 사례로 설명하는데, 사람의 움직임을 디지털 캐릭터로 옮기는 기법이다. 영상은 AI-generated처럼 보이지만 제작진은 전통적인 창작 과정이 맡은 몫을 강조했다."
-          },
-          {
-            "t": "video",
-            "yt": "aHyEqQkF4Po"
+            "x": "MAF는 2027년부터 생성형 AI로 만든 영화를 더는 출품받지 않겠다고도 밝혔다. 애니메이션 업계에 획을 긋는 결정이다. 새 정책에는 인간의 창의성을 기리고 애니메이션의 중심에 있는 예술적 기량을 지키겠다는 영화제의 의지가 담겼다."
           },
           {
             "t": "p",
-            "x": "티저의 YouTube 설명에 따르면 “음악, 사운드 디자인, 사운드 프로덕션을 포함한 오디오 전체”가 “인간의 창의성과 예술적 진정성으로 전통적이고 유기적으로 만들어졌다.”"
+            "x": "영화제 디렉터 Steve Henderson은 “MAF 2027 출품 접수를 시작하면서, 애니메이션을 놀랍고도 인간적인 예술 형식으로 만드는 창작자들 곁에 서고 싶었다”며 “새로운 Gen AI 정책은 아티스트를 최우선에 둔다”고 말했다."
           },
           {
             "t": "p",
-            "x": "연출은 1970년대에 Swami Prabhupada의 제자가 된 Gaura Shakti Dasa가 맡는다. VK와 Rudra Vruksh도 연출진에 이름을 올렸고 제작은 Rajesh Singh와 Lohith Rao가 한다. Hombale Films는 그동안 Kantara, Mahavatar Narsimha 등 화제작을 여럿 후원했다."
+            "x": "Feature Film Award는 Phuong Mai Nguyen 감독의 In Waves, Short Film Award는 Mamuka Tkeshelashvili 감독의 When the Sea Was Calm(Georgia), Best British Short Award는 Leto Meade와 Jonathan Rockefeller 감독의 A Little Death가 받았다. 11월 8-12일 열린 영화제에는 12,000명 가까운 관객이 몰렸다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Hombale backs AI-driven film\non ISKCON founder's life",
-          "body": "Hombale's hybrid AI feature uses AI motion capture to turn human movements into digital characters.",
-          "mini_headline": "Hombale's AI biopic teaser",
+          "headline": "Manchester Animation Festival\nsets a generative AI policy",
+          "body": "Manchester Animation Festival named its 2026 winners and introduced a policy governing generative AI in submissions.",
+          "mini_headline": "Manchester festival\nsets AI rules",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cf-images.assettype.com/outlookindia/2026-11-10/ruz1wzp6/Screenshot-2026-11-10-at-19.44.12.png?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100"
+                "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/Manchester-Animation-Festival-2026-winners.png",
+                "cap": "Top prizes at Manchester Animation Festival 2026 went to 'In Waves' (top), 'When the Sea Was Calm' (left) and 'A Little Death'."
               },
               {
                 "t": "p",
-                "x": "The teaser of Saranagati, a feature film based on the life of ISKCON founder Swami Prabhupada, was released on Tuesday. Backed by Hombale Films, the project is being presented as a hybrid AI film, combining artificial intelligence-generated visuals with human creative contributions. The film follows Prabhupada's journey to the US in 1965 and traces how he helped popularise the Hare Krishna movement in the West."
+                "x": "Manchester Animation Festival (MAF), the U.K.’s only Oscar and BAFTA‑qualifying animation festival, has revealed the winners of its 2026 Film Competition, Industry Excellence Awards and MAFter Dark program."
               },
               {
                 "t": "p",
-                "x": "The teaser features digitally created visuals and characters, with the makers describing the production as an example of Artificial Intelligence Motion Capture. Through this technique, human movements are converted into digital characters. While the visuals appear to be AI-generated, the makers have emphasised the role of traditional creative processes in the film."
-              },
-              {
-                "t": "video",
-                "yt": "aHyEqQkF4Po"
+                "x": "In a landmark move for the animation sector, MAF has also announced that films created using generative AI will no longer be accepted for submission from 2027 onwards. The new policy reflects the Festival’s commitment to celebrating human creativity and safeguarding the artistic skills that sit at the heart of animation."
               },
               {
                 "t": "p",
-                "x": "According to the teaser's YouTube description, the “entire audiography, including music, sound design, and sound production” has been “crafted traditionally and organically, with human creativity and artistic authenticity.”"
+                "x": "“As we open our call for entries for MAF 2027 we wanted to stand by the creatives that make animation the incredible, human artform that it is,” said Festival Director Steve Henderson. “Our new Gen AI policy puts artists first.”"
               },
               {
                 "t": "p",
-                "x": "Saranagati is directed by Gaura Shakti Dasa, who became a disciple of Swami Prabhupada in the 1970s. VK and Rudra Vruksh are also part of the direction team, while Rajesh Singh and Lohith Rao are producing the film. Hombale Films has backed several notable projects, including Kantara and Mahavatar Narsimha."
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Hombale apoya un filme AI-driven\nsobre el fundador de ISKCON",
-          "body": "El filme híbrido de Hombale usa captura de movimiento AI para convertir movimientos humanos en personajes digitales.",
-          "mini_headline": "El biopic AI de Hombale",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cf-images.assettype.com/outlookindia/2026-11-10/ruz1wzp6/Screenshot-2026-11-10-at-19.44.12.png?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100"
-              },
-              {
-                "t": "p",
-                "x": "El teaser de Saranagati, un largometraje basado en la vida del fundador de ISKCON, Swami Prabhupada, se publicó el martes. Respaldado por Hombale Films, el proyecto se presenta como una película híbrida de AI que combina imágenes generadas por inteligencia artificial con aportes creativos humanos. La película sigue el viaje de Prabhupada a Estados Unidos (US) en 1965 y muestra cómo ayudó a popularizar el movimiento Hare Krishna en Occidente."
-              },
-              {
-                "t": "p",
-                "x": "El teaser muestra imágenes y personajes creados digitalmente, y sus responsables describen la producción como un ejemplo de Artificial Intelligence Motion Capture. Con esta técnica, los movimientos humanos se convierten en personajes digitales. Aunque las imágenes parecen AI-generated (generadas por AI), los creadores han subrayado el papel de los procesos creativos tradicionales en la película."
-              },
-              {
-                "t": "video",
-                "yt": "aHyEqQkF4Po"
-              },
-              {
-                "t": "p",
-                "x": "Según la descripción del teaser en YouTube, “toda la audiografía, incluida la música, el diseño de sonido y la producción de sonido” ha sido “elaborada de forma tradicional y orgánica, con creatividad humana y autenticidad artística”."
-              },
-              {
-                "t": "p",
-                "x": "Saranagati está dirigida por Gaura Shakti Dasa, quien se convirtió en discípulo de Swami Prabhupada en los 1970s. VK y Rudra Vruksh también forman parte del equipo de dirección, mientras que Rajesh Singh y Lohith Rao producen la película. Hombale Films ha respaldado varios proyectos destacados, como Kantara y Mahavatar Narsimha."
+                "x": "The Feature Film Award went to In Waves, directed by Phuong Mai Nguyen; the Short Film Award to When the Sea Was Calm (Georgia), directed by Mamuka Tkeshelashvili; and the Best British Short Award to A Little Death, directed by Leto Meade and Jonathan Rockefeller. The festival ran November 8-12 with almost 12,000 admissions."
               }
             ]
           }
         },
         "ko": {
-          "headline": "ISKCON 창립자 생애\nAI-driven 영화로",
-          "body": "Hombale 후원작은 AI 모션 캡처로 사람 동작을 디지털 캐릭터에 입힌다.",
-          "mini_headline": "Hombale의 AI 전기영화 티저",
+          "headline": "Manchester 영화제\n생성형 AI 정책 도입",
+          "body": "Manchester 영화제가 2026 수상작과 생성형 AI 출품 정책을 발표했다.",
+          "mini_headline": "Manchester 영화제, AI 규정 마련",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cf-images.assettype.com/outlookindia/2026-11-10/ruz1wzp6/Screenshot-2026-11-10-at-19.44.12.png?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100"
+                "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/Manchester-Animation-Festival-2026-winners.png",
+                "cap": "Manchester Animation Festival 2026 최고상은 'In Waves'(위), 'When the Sea Was Calm'(왼쪽), 'A Little Death'에 돌아갔다."
               },
               {
                 "t": "p",
-                "x": "ISKCON 창립자 Swami Prabhupada의 생애를 그린 장편 Saranagati의 티저가 화요일 공개됐다. Hombale Films가 후원하는 이 작품은 인공지능 생성 영상에 사람의 창작을 더한 하이브리드 AI 영화로 소개됐다. 영화는 1965년 Prabhupada의 US 여정을 따라가며 그가 서구에 Hare Krishna 운동을 알리는 데 어떤 역할을 했는지 그린다."
+                "x": "영국(U.K.)에서 Oscar와 BAFTA 출품 자격을 주는 유일한 애니메이션 영화제 Manchester Animation Festival(MAF)이 2026 Film Competition, Industry Excellence Awards, MAFter Dark 프로그램 수상작을 발표했다."
               },
               {
                 "t": "p",
-                "x": "티저에는 디지털로 만든 영상과 캐릭터가 나온다. 제작진은 이를 Artificial Intelligence Motion Capture 사례로 설명하는데, 사람의 움직임을 디지털 캐릭터로 옮기는 기법이다. 영상은 AI-generated처럼 보이지만 제작진은 전통적인 창작 과정이 맡은 몫을 강조했다."
-              },
-              {
-                "t": "video",
-                "yt": "aHyEqQkF4Po"
+                "x": "MAF는 2027년부터 생성형 AI로 만든 영화를 더는 출품받지 않겠다고도 밝혔다. 애니메이션 업계에 획을 긋는 결정이다. 새 정책에는 인간의 창의성을 기리고 애니메이션의 중심에 있는 예술적 기량을 지키겠다는 영화제의 의지가 담겼다."
               },
               {
                 "t": "p",
-                "x": "티저의 YouTube 설명에 따르면 “음악, 사운드 디자인, 사운드 프로덕션을 포함한 오디오 전체”가 “인간의 창의성과 예술적 진정성으로 전통적이고 유기적으로 만들어졌다.”"
+                "x": "영화제 디렉터 Steve Henderson은 “MAF 2027 출품 접수를 시작하면서, 애니메이션을 놀랍고도 인간적인 예술 형식으로 만드는 창작자들 곁에 서고 싶었다”며 “새로운 Gen AI 정책은 아티스트를 최우선에 둔다”고 말했다."
               },
               {
                 "t": "p",
-                "x": "연출은 1970년대에 Swami Prabhupada의 제자가 된 Gaura Shakti Dasa가 맡는다. VK와 Rudra Vruksh도 연출진에 이름을 올렸고 제작은 Rajesh Singh와 Lohith Rao가 한다. Hombale Films는 그동안 Kantara, Mahavatar Narsimha 등 화제작을 여럿 후원했다."
+                "x": "Feature Film Award는 Phuong Mai Nguyen 감독의 In Waves, Short Film Award는 Mamuka Tkeshelashvili 감독의 When the Sea Was Calm(Georgia), Best British Short Award는 Leto Meade와 Jonathan Rockefeller 감독의 A Little Death가 받았다. 11월 8-12일 열린 영화제에는 12,000명 가까운 관객이 몰렸다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Hombale、ISKCON\n創設者AI-driven映画",
-          "body": "HombaleのAI映画はAIモーションキャプチャで人の動きをデジタルキャラ化する。",
-          "mini_headline": "HombaleのAI伝記映画ティザー",
+          "headline": "Manchester映画祭\n生成AIの方針を導入",
+          "body": "Manchester映画祭が2026年の受賞作と、生成AIの応募方針を発表した。",
+          "mini_headline": "Manchester映画祭、AI規定を導入",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cf-images.assettype.com/outlookindia/2026-11-10/ruz1wzp6/Screenshot-2026-11-10-at-19.44.12.png?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100"
+                "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/Manchester-Animation-Festival-2026-winners.png",
+                "cap": "Manchester Animation Festival 2026の最高賞は『In Waves』（上）、『When the Sea Was Calm』（左）、『A Little Death』が受賞した。"
               },
               {
                 "t": "p",
-                "x": "ISKCON創設者Swami Prabhupadaの生涯を描く長編映画Saranagatiのティザーが火曜日に公開された。Hombale Filmsが支援する本作は、人工知能で生成した映像と人間の創作を組み合わせたハイブリッドAI映画として打ち出されている。映画は1965年のPrabhupadaのUSへの旅をたどり、彼が西洋でHare Krishna運動の普及にどう貢献したかを描く。"
+                "x": "英国（U.K.）で唯一、OscarとBAFTAの選考資格を持つアニメーション映画祭Manchester Animation Festival（MAF）が、2026年のFilm Competition、Industry Excellence Awards、MAFter Darkプログラムの受賞作を発表した。"
               },
               {
                 "t": "p",
-                "x": "ティザーにはデジタルで作られた映像とキャラクターが登場し、制作陣はこの制作をArtificial Intelligence Motion Captureの一例だと説明する。この技法では人の動きがデジタルキャラクターに変換される。映像はAI-generatedに見えるが、制作陣は本作における伝統的な創作プロセスの役割を強調している。"
-              },
-              {
-                "t": "video",
-                "yt": "aHyEqQkF4Po"
+                "x": "MAFはアニメーション業界にとって画期的な一歩として、2027年以降、生成AIを使って制作された作品の応募を受け付けないことも発表した。新方針は、人間の創造性を称え、アニメーションの核にある芸術的技能を守るという映画祭の姿勢を反映している。"
               },
               {
                 "t": "p",
-                "x": "ティザーのYouTube説明文によると、「音楽、サウンドデザイン、サウンドプロダクションを含むオーディオ全体」は「人間の創造性と芸術的な真正性をもって、伝統的かつ有機的に作り上げられた」。"
+                "x": "映画祭ディレクターのSteve Hendersonは「MAF 2027の作品募集を始めるにあたり、アニメーションを素晴らしく人間的な芸術形式たらしめているクリエイターたちの側に立ちたかった」と述べ、「新しいGen AIポリシーはアーティストを第一に考えるものだ」と語った。"
               },
               {
                 "t": "p",
-                "x": "Saranagatiを監督するのは、1970年代にSwami Prabhupadaの弟子となったGaura Shakti Dasaだ。VKとRudra Vrukshも演出チームに加わり、Rajesh SinghとLohith Raoがプロデュースする。Hombale FilmsはKantaraやMahavatar Narsimhaなど、注目作を数多く支援してきた。"
+                "x": "Feature Film AwardはPhuong Mai Nguyen監督の『In Waves』、Short Film AwardはMamuka Tkeshelashvili監督の『When the Sea Was Calm』（Georgia）、Best British Short AwardはLeto MeadeとJonathan Rockefeller監督の『A Little Death』が受賞した。映画祭は11月8-12日に開催され、来場者数は12,000人近くに上った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Hombale推ISKCON\n创始人AI-driven电影",
-          "body": "Hombale的混合AI电影用AI动作捕捉将人的动作转为数字角色。",
-          "mini_headline": "Hombale的AI传记片预告",
+          "headline": "Manchester动画节\n出台生成式AI政策",
+          "body": "Manchester动画节公布2026年获奖名单，并推出生成式AI投稿政策。",
+          "mini_headline": "Manchester动画节出台AI规则",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cf-images.assettype.com/outlookindia/2026-11-10/ruz1wzp6/Screenshot-2026-11-10-at-19.44.12.png?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100"
+                "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/Manchester-Animation-Festival-2026-winners.png",
+                "cap": "Manchester Animation Festival 2026的最高奖项授予《In Waves》（上）、《When the Sea Was Calm》（左）和《A Little Death》。"
               },
               {
                 "t": "p",
-                "x": "讲述ISKCON创始人Swami Prabhupada生平的长片Saranagati于周二发布预告。该项目由Hombale Films支持，被定位为一部混合AI电影，将人工智能生成的画面与人类的创作投入相结合。影片追随Prabhupada在1965年前往US的旅程，讲述他如何帮助Hare Krishna运动在西方普及。"
+                "x": "Manchester Animation Festival（MAF）是英国（U.K.）唯一一个具备Oscar和BAFTA资格认证的动画节，现已公布2026年Film Competition、Industry Excellence Awards和MAFter Dark单元的获奖名单。"
               },
               {
                 "t": "p",
-                "x": "预告中出现了数字制作的画面和角色，主创将这次制作描述为Artificial Intelligence Motion Capture的一个范例。借助这项技术，人的动作被转化为数字角色。虽然画面看起来是AI-generated，但主创强调了传统创作流程在片中的作用。"
-              },
-              {
-                "t": "video",
-                "yt": "aHyEqQkF4Po"
+                "x": "MAF还宣布了一项对动画业具有里程碑意义的决定：自2027年起，不再接受使用生成式AI制作的影片投稿。新政策体现了该动画节颂扬人类创造力、守护动画核心艺术技能的承诺。"
               },
               {
                 "t": "p",
-                "x": "根据预告的YouTube说明，“包括音乐、声音设计和声音制作在内的全部音频”都是“以人类的创造力和艺术真诚，用传统而有机的方式打造的”。"
+                "x": "动画节总监Steve Henderson表示：“在我们开启MAF 2027征片之际，我们希望与创作者站在一起，正是他们让动画成为如此了不起的、属于人类的艺术形式。”他说：“我们新的Gen AI政策把艺术家放在首位。”"
               },
               {
                 "t": "p",
-                "x": "Saranagati由Gaura Shakti Dasa执导，他在1970年代成为Swami Prabhupada的弟子。VK和Rudra Vruksh也加入导演团队，Rajesh Singh和Lohith Rao担任制片。Hombale Films曾支持过多部知名作品，包括Kantara和Mahavatar Narsimha。"
+                "x": "Feature Film Award由Phuong Mai Nguyen执导的《In Waves》获得；Short Film Award由Mamuka Tkeshelashvili执导的《When the Sea Was Calm》（Georgia）获得；Best British Short Award由Leto Meade和Jonathan Rockefeller执导的《A Little Death》获得。本届动画节于11月8-12日举行，观影人次近12,000。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Manchester Animation Festival\nfija normas sobre IA generativa",
+          "body": "El Manchester Animation Festival anunció sus ganadores de 2026 y fijó normas sobre IA generativa en las candidaturas.",
+          "mini_headline": "El festival de Manchester fija normas sobre IA",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/Manchester-Animation-Festival-2026-winners.png",
+                "cap": "Los premios principales del Manchester Animation Festival 2026 fueron para 'In Waves' (arriba), 'When the Sea Was Calm' (izquierda) y 'A Little Death'."
+              },
+              {
+                "t": "p",
+                "x": "El Manchester Animation Festival (MAF), el único festival de animación del U.K. que da acceso a la clasificación para los Oscar y los BAFTA, ha dado a conocer los ganadores de su Film Competition, los Industry Excellence Awards y el programa MAFter Dark de 2026."
+              },
+              {
+                "t": "p",
+                "x": "En una decisión histórica para el sector de la animación, MAF también anunció que a partir de 2027 ya no aceptará películas creadas con IA generativa. La nueva política refleja el compromiso del festival con celebrar la creatividad humana y proteger las habilidades artísticas que están en el corazón de la animación."
+              },
+              {
+                "t": "p",
+                "x": "“Al abrir la convocatoria para MAF 2027, quisimos apoyar a los creadores que hacen de la animación la increíble forma de arte humana que es”, dijo el director del festival, Steve Henderson. “Nuestra nueva política de Gen AI pone a los artistas en primer lugar”."
+              },
+              {
+                "t": "p",
+                "x": "El Feature Film Award fue para In Waves, dirigida por Phuong Mai Nguyen; el Short Film Award, para When the Sea Was Calm (Georgia), dirigida por Mamuka Tkeshelashvili; y el Best British Short Award, para A Little Death, dirigida por Leto Meade y Jonathan Rockefeller. El festival se celebró del 8 al 12 de noviembre con casi 12,000 asistentes."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "es": {
-          "headline": "Hombale apoya un filme AI-driven\nsobre el fundador de ISKCON",
-          "body": "El filme híbrido de Hombale usa captura de movimiento AI para convertir movimientos humanos en personajes digitales.",
-          "mini_headline": "El biopic AI de Hombale",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cf-images.assettype.com/outlookindia/2026-11-10/ruz1wzp6/Screenshot-2026-11-10-at-19.44.12.png?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100"
-              },
-              {
-                "t": "p",
-                "x": "El teaser de Saranagati, un largometraje basado en la vida del fundador de ISKCON, Swami Prabhupada, se publicó el martes. Respaldado por Hombale Films, el proyecto se presenta como una película híbrida de AI que combina imágenes generadas por inteligencia artificial con aportes creativos humanos. La película sigue el viaje de Prabhupada a Estados Unidos (US) en 1965 y muestra cómo ayudó a popularizar el movimiento Hare Krishna en Occidente."
-              },
-              {
-                "t": "p",
-                "x": "El teaser muestra imágenes y personajes creados digitalmente, y sus responsables describen la producción como un ejemplo de Artificial Intelligence Motion Capture. Con esta técnica, los movimientos humanos se convierten en personajes digitales. Aunque las imágenes parecen AI-generated (generadas por AI), los creadores han subrayado el papel de los procesos creativos tradicionales en la película."
-              },
-              {
-                "t": "video",
-                "yt": "aHyEqQkF4Po"
-              },
-              {
-                "t": "p",
-                "x": "Según la descripción del teaser en YouTube, “toda la audiografía, incluida la música, el diseño de sonido y la producción de sonido” ha sido “elaborada de forma tradicional y orgánica, con creatividad humana y autenticidad artística”."
-              },
-              {
-                "t": "p",
-                "x": "Saranagati está dirigida por Gaura Shakti Dasa, quien se convirtió en discípulo de Swami Prabhupada en los 1970s. VK y Rudra Vruksh también forman parte del equipo de dirección, mientras que Rajesh Singh y Lohith Rao producen la película. Hombale Films ha respaldado varios proyectos destacados, como Kantara y Mahavatar Narsimha."
-              }
-            ]
-          }
-        },
         "ko": {
-          "headline": "Hombale·ISKCON\n창립자 AI-driven작",
-          "body": "Hombale의 AI 영화는 AI 모션 캡처로 사람 동작을 디지털 캐릭터화한다.",
-          "mini_headline": "Hombale의 AI 전기영화 티저",
+          "headline": "Manchester 영화제\n생성형 AI 정책 도입",
+          "body": "Manchester 영화제가 2026 수상작과 생성형 AI 출품 정책을 발표했다.",
+          "mini_headline": "Manchester 영화제, AI 규정 마련",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cf-images.assettype.com/outlookindia/2026-11-10/ruz1wzp6/Screenshot-2026-11-10-at-19.44.12.png?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100"
+                "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/Manchester-Animation-Festival-2026-winners.png",
+                "cap": "Manchester Animation Festival 2026 최고상은 'In Waves'(위), 'When the Sea Was Calm'(왼쪽), 'A Little Death'에 돌아갔다."
               },
               {
                 "t": "p",
-                "x": "ISKCON 창립자 Swami Prabhupada의 생애를 다룬 장편 영화 Saranagati의 티저가 화요일 공개됐다. Hombale Films가 후원하는 이 작품은 인공지능 생성 영상과 인간의 창작 기여를 결합한 하이브리드 AI 영화로 소개된다. 영화는 1965년 Prabhupada의 US 여정을 따라가며, 그가 서구에 Hare Krishna 운동을 알리는 데 어떻게 기여했는지 그린다."
+                "x": "영국(U.K.)에서 유일하게 Oscar와 BAFTA 출품 자격을 주는 애니메이션 영화제인 Manchester Animation Festival(MAF)이 2026 Film Competition, Industry Excellence Awards, MAFter Dark 프로그램 수상작을 발표했다."
               },
               {
                 "t": "p",
-                "x": "티저에는 디지털로 만든 영상과 캐릭터가 등장하며, 제작진은 이 작업을 Artificial Intelligence Motion Capture의 사례로 설명한다. 이 기법은 사람의 움직임을 디지털 캐릭터로 바꾼다. 영상은 AI-generated로 보이지만, 제작진은 영화에서 전통적인 창작 과정이 맡은 역할을 강조했다."
-              },
-              {
-                "t": "video",
-                "yt": "aHyEqQkF4Po"
+                "x": "MAF는 애니메이션 업계에 획을 긋는 결정으로, 2027년부터 생성형 AI로 만든 영화는 더 이상 출품받지 않겠다고도 밝혔다. 새 정책은 인간의 창의성을 기리고 애니메이션의 핵심에 있는 예술적 기술을 지키겠다는 영화제의 의지를 반영한다."
               },
               {
                 "t": "p",
-                "x": "티저의 YouTube 설명에 따르면 “음악, 사운드 디자인, 사운드 프로덕션을 포함한 오디오 전체”가 “인간의 창의성과 예술적 진정성으로 전통적이고 유기적으로 만들어졌다.”"
+                "x": "영화제 디렉터 Steve Henderson은 “MAF 2027 출품 접수를 시작하면서, 애니메이션을 놀랍고도 인간적인 예술 형식으로 만드는 창작자들 곁에 서고 싶었다”며 “새로운 Gen AI 정책은 아티스트를 최우선에 둔다”고 말했다."
               },
               {
                 "t": "p",
-                "x": "Saranagati는 1970년대에 Swami Prabhupada의 제자가 된 Gaura Shakti Dasa가 연출한다. VK와 Rudra Vruksh도 연출진에 참여하고, Rajesh Singh와 Lohith Rao가 제작을 맡는다. Hombale Films는 Kantara와 Mahavatar Narsimha 등 여러 주목받은 작품을 후원해 왔다."
+                "x": "Feature Film Award는 Phuong Mai Nguyen 감독의 In Waves, Short Film Award는 Mamuka Tkeshelashvili 감독의 When the Sea Was Calm(Georgia), Best British Short Award는 Leto Meade와 Jonathan Rockefeller 감독의 A Little Death가 받았다. 영화제는 11월 8-12일 열렸고, 12,000명에 가까운 관객이 찾았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Hombale、ISKCON\n創設者AI-driven映画",
-          "body": "HombaleのAI映画はAIモーションキャプチャで人の動きをデジタルキャラ化する。",
-          "mini_headline": "HombaleのAI伝記映画ティザー",
+          "headline": "Manchester映画祭\n生成AIの方針を導入",
+          "body": "Manchester映画祭が2026年の受賞作と、生成AIの応募方針を発表した。",
+          "mini_headline": "Manchester映画祭、AI規定を導入",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cf-images.assettype.com/outlookindia/2026-11-10/ruz1wzp6/Screenshot-2026-11-10-at-19.44.12.png?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100"
+                "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/Manchester-Animation-Festival-2026-winners.png",
+                "cap": "Manchester Animation Festival 2026の最高賞は『In Waves』（上）、『When the Sea Was Calm』（左）、『A Little Death』が受賞した。"
               },
               {
                 "t": "p",
-                "x": "ISKCON創設者Swami Prabhupadaの生涯を描く長編映画Saranagatiのティザーが火曜日に公開された。Hombale Filmsが支援する本作は、人工知能で生成した映像と人間の創作を組み合わせたハイブリッドAI映画として打ち出されている。映画は1965年のPrabhupadaのUSへの旅をたどり、彼が西洋でHare Krishna運動の普及にどう貢献したかを描く。"
+                "x": "英国（U.K.）で唯一、OscarとBAFTAの選考資格を持つアニメーション映画祭Manchester Animation Festival（MAF）が、2026年のFilm Competition、Industry Excellence Awards、MAFter Darkプログラムの受賞作を発表した。"
               },
               {
                 "t": "p",
-                "x": "ティザーにはデジタルで作られた映像とキャラクターが登場し、制作陣はこの制作をArtificial Intelligence Motion Captureの一例だと説明する。この技法では人の動きがデジタルキャラクターに変換される。映像はAI-generatedに見えるが、制作陣は本作における伝統的な創作プロセスの役割を強調している。"
-              },
-              {
-                "t": "video",
-                "yt": "aHyEqQkF4Po"
+                "x": "MAFはアニメーション業界にとって画期的な一歩として、2027年以降、生成AIを使って制作された作品の応募を受け付けないことも発表した。新方針は、人間の創造性を称え、アニメーションの核にある芸術的技能を守るという映画祭の姿勢を反映している。"
               },
               {
                 "t": "p",
-                "x": "ティザーのYouTube説明文によると、「音楽、サウンドデザイン、サウンドプロダクションを含むオーディオ全体」は「人間の創造性と芸術的な真正性をもって、伝統的かつ有機的に作り上げられた」。"
+                "x": "映画祭ディレクターのSteve Hendersonは「MAF 2027の作品募集を始めるにあたり、アニメーションを素晴らしく人間的な芸術形式たらしめているクリエイターたちの側に立ちたかった」と述べ、「新しいGen AIポリシーはアーティストを第一に考えるものだ」と語った。"
               },
               {
                 "t": "p",
-                "x": "Saranagatiを監督するのは、1970年代にSwami Prabhupadaの弟子となったGaura Shakti Dasaだ。VKとRudra Vrukshも演出チームに加わり、Rajesh SinghとLohith Raoがプロデュースする。Hombale FilmsはKantaraやMahavatar Narsimhaなど、注目作を数多く支援してきた。"
+                "x": "Feature Film AwardはPhuong Mai Nguyen監督の『In Waves』、Short Film AwardはMamuka Tkeshelashvili監督の『When the Sea Was Calm』（Georgia）、Best British Short AwardはLeto MeadeとJonathan Rockefeller監督の『A Little Death』が受賞した。映画祭は11月8-12日に開催され、来場者数は12,000人近くに上った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Hombale推ISKCON\n创始人AI-driven电影",
-          "body": "Hombale的混合AI电影用AI动作捕捉将人的动作转为数字角色。",
-          "mini_headline": "Hombale的AI传记片预告",
+          "headline": "Manchester动画节\n出台生成式AI政策",
+          "body": "Manchester动画节公布2026年获奖名单，并推出生成式AI投稿政策。",
+          "mini_headline": "Manchester动画节出台AI规则",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cf-images.assettype.com/outlookindia/2026-11-10/ruz1wzp6/Screenshot-2026-11-10-at-19.44.12.png?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100"
+                "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/Manchester-Animation-Festival-2026-winners.png",
+                "cap": "Manchester Animation Festival 2026的最高奖项授予《In Waves》（上）、《When the Sea Was Calm》（左）和《A Little Death》。"
               },
               {
                 "t": "p",
-                "x": "讲述ISKCON创始人Swami Prabhupada生平的长片Saranagati于周二发布预告。该项目由Hombale Films支持，被定位为一部混合AI电影，将人工智能生成的画面与人类的创作投入相结合。影片追随Prabhupada在1965年前往US的旅程，讲述他如何帮助Hare Krishna运动在西方普及。"
+                "x": "Manchester Animation Festival（MAF）是英国（U.K.）唯一一个具备Oscar和BAFTA资格认证的动画节，现已公布2026年Film Competition、Industry Excellence Awards和MAFter Dark单元的获奖名单。"
               },
               {
                 "t": "p",
-                "x": "预告中出现了数字制作的画面和角色，主创将这次制作描述为Artificial Intelligence Motion Capture的一个范例。借助这项技术，人的动作被转化为数字角色。虽然画面看起来是AI-generated，但主创强调了传统创作流程在片中的作用。"
-              },
-              {
-                "t": "video",
-                "yt": "aHyEqQkF4Po"
+                "x": "MAF还宣布了一项对动画业具有里程碑意义的决定：自2027年起，不再接受使用生成式AI制作的影片投稿。新政策体现了该动画节颂扬人类创造力、守护动画核心艺术技能的承诺。"
               },
               {
                 "t": "p",
-                "x": "根据预告的YouTube说明，“包括音乐、声音设计和声音制作在内的全部音频”都是“以人类的创造力和艺术真诚，用传统而有机的方式打造的”。"
+                "x": "动画节总监Steve Henderson表示：“在我们开启MAF 2027征片之际，我们希望与创作者站在一起，正是他们让动画成为如此了不起的、属于人类的艺术形式。”他说：“我们新的Gen AI政策把艺术家放在首位。”"
               },
               {
                 "t": "p",
-                "x": "Saranagati由Gaura Shakti Dasa执导，他在1970年代成为Swami Prabhupada的弟子。VK和Rudra Vruksh也加入导演团队，Rajesh Singh和Lohith Rao担任制片。Hombale Films曾支持过多部知名作品，包括Kantara和Mahavatar Narsimha。"
+                "x": "Feature Film Award由Phuong Mai Nguyen执导的《In Waves》获得；Short Film Award由Mamuka Tkeshelashvili执导的《When the Sea Was Calm》（Georgia）获得；Best British Short Award由Leto Meade和Jonathan Rockefeller执导的《A Little Death》获得。本届动画节于11月8-12日举行，观影人次近12,000。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Manchester Animation Festival\nfija normas sobre IA generativa",
+          "body": "El Manchester Animation Festival anunció sus ganadores de 2026 y fijó normas sobre IA generativa en las candidaturas.",
+          "mini_headline": "El festival de Manchester fija normas sobre IA",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/Manchester-Animation-Festival-2026-winners.png",
+                "cap": "Los premios principales del Manchester Animation Festival 2026 fueron para 'In Waves' (arriba), 'When the Sea Was Calm' (izquierda) y 'A Little Death'."
+              },
+              {
+                "t": "p",
+                "x": "El Manchester Animation Festival (MAF), el único festival de animación del U.K. que da acceso a la clasificación para los Oscar y los BAFTA, ha dado a conocer los ganadores de su Film Competition, los Industry Excellence Awards y el programa MAFter Dark de 2026."
+              },
+              {
+                "t": "p",
+                "x": "En una decisión histórica para el sector de la animación, MAF también anunció que a partir de 2027 ya no aceptará películas creadas con IA generativa. La nueva política refleja el compromiso del festival con celebrar la creatividad humana y proteger las habilidades artísticas que están en el corazón de la animación."
+              },
+              {
+                "t": "p",
+                "x": "“Al abrir la convocatoria para MAF 2027, quisimos apoyar a los creadores que hacen de la animación la increíble forma de arte humana que es”, dijo el director del festival, Steve Henderson. “Nuestra nueva política de Gen AI pone a los artistas en primer lugar”."
+              },
+              {
+                "t": "p",
+                "x": "El Feature Film Award fue para In Waves, dirigida por Phuong Mai Nguyen; el Short Film Award, para When the Sea Was Calm (Georgia), dirigida por Mamuka Tkeshelashvili; y el Best British Short Award, para A Little Death, dirigida por Leto Meade y Jonathan Rockefeller. El festival se celebró del 8 al 12 de noviembre con casi 12,000 asistentes."
               }
             ]
           }
@@ -1371,15 +1281,15 @@
       }
     },
     {
-      "id": "kbs-munmu-ai-battles",
-      "source_lang": "ko",
+      "id": "seedance-25-flash-bytedance",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "KBS 대하사극 '문무'\n세 전투신 AI로 구현",
-      "body": "1년 반 제작 동안 AI가 계속 발전해 제작진은 새 기술이 나올 때마다 적용했다.",
-      "mini_headline": "'문무' AI 전투신",
+      "headline": "ByteDance가 AI\n영상 비용 낮춘 Flash",
+      "body": "ByteDance Seedance 2.5 Flash 720p 초당 0.99위안이다.",
+      "mini_headline": "Seedance 2.5 Flash, 더 빠르게",
       "tool": "Movies",
-      "source": "스포츠경향",
-      "url": "https://sports.khan.co.kr/article/202611122200006",
+      "source": "Pandaily",
+      "url": "https://pandaily.com/bytedance-seedance-2-5-flash-faster-lower-cost-video-model-volcano-ark-api",
       "accent": "#eb367f",
       "motif": "frame",
       "full": {
@@ -1387,395 +1297,305 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://images.khan.co.kr/article/2026/11/12/l_2026111302000044400039133.jpg",
-            "cap": "KBS 2TV 새 대하드라마 ‘문무’의 배우 장혁, 이현욱, 김강우(왼쪽부터)가 12일 제작발표회에서 포즈를 취하고 있다. 연합뉴스"
+            "src": "https://cms-image.pandaily.com/1/seedance_96adab67c5.png",
+            "cap": "AI-generated 개념 일러스트로, 발표된 제품이나 장소, 행사를 찍은 사진이 아니다."
           },
           {
             "t": "p",
-            "x": "3년 만에 돌아온 KBS 대하사극 ‘문무’가 인공지능(AI) 기술을 활용한 대규모 전쟁 장면과 배우들의 열연을 앞세워 안방극장을 찾는다. 12일 서울 구로구 신도림에서 제작발표회가 열렸다."
+            "x": "ByteDance의 클라우드 부문 Volcano Engine이 11월 12일 Seedance 2.5 Flash를 공개했다. Seedance 2.5 영상 생성 모델의 경량판이다. 회사는 Seedance 2.5보다 두 배 빠르게, 더 낮은 가격으로 영상을 생성한다고 밝혔다."
           },
           {
             "t": "p",
-            "x": "‘문무’는 신라 문무왕 김법민을 중심으로 삼국통일과 당나라에 맞서 자주권을 지켜낸 나당전쟁의 역사를 그린 작품이다. KBS가 ‘고려 거란 전쟁’ 이후 3년 만에 선보이는 대하사극으로, 이현욱이 문무왕을, 장혁이 연개소문을, 김강우가 김춘추를 연기한다."
-          },
-          {
-            "t": "img",
-            "src": "https://images.khan.co.kr/article/2026/11/12/l_2026111302000044400039132.jpg",
-            "cap": "(왼쪽부터) 김도현, 장혁, 최예빈, 이현욱, 김강우, 정웅인, 백성현. 연합뉴스"
+            "x": "720p text-to-video와 image-to-video 기준으로 Volcano Engine이 제시한 가격은 생성 영상 초당 약 0.99위안이며, Seedance 2.5보다 34%가량 낮다. flash 모델은 최대 30초 길이의 클립을 만들고, 이미지 최대 10장과 영상 클립 다섯 개, 오디오 클립 다섯 개를 참조로 받으며, 480p 또는 720p로 출력한다."
           },
           {
             "t": "p",
-            "x": "특히 이번 작품은 주필산 전투부터 매소성 전투, 기벌포 전투까지 각 전투의 특성에 맞춰 AI 기술을 적용했다. 이호 CP는 “기획부터 촬영까지 약 1년 반 동안 AI 기술이 계속 발전했다”며 “새로운 기술이 나올 때마다 활용할 수 있는 부분을 찾아 적용했다”고 밝혔다. 이어 “위험한 장면이나 기존 촬영 방식으로 구현하기 어려운 부분에 기술을 활용했다”고 설명했다."
+            "x": "1080p와 4K 제작에는 여전히 플래그십 Seedance 2.5가 쓰이고, flash 모델은 high-frequency 창작과 대량 콘텐츠 제작을 겨냥한다. 품질에 관한 주장은 회사 측 설명이며, 벤치마크 결과는 공개되지 않았다."
           },
           {
             "t": "p",
-            "x": "현재 제작 중인 기벌포 전투에 대해서는 “갯벌과 바다를 배경으로 하는 전투인 만큼 AI 영상 기술이 잘 어울릴 것이라고 생각했다”며 “그사이 기술이 더 발전해 이전보다 AI를 더욱 많이 활용하고 있다”고 덧붙였다."
-          },
-          {
-            "t": "p",
-            "x": "‘고려 거란 전쟁’이 역사 왜곡 논란에 휩싸였던 만큼 이번 작품은 사료와 전문가 자문을 바탕으로 제작했다. ‘문무’는 오는 14일 오후 9시 20분 KBS 2TV에서 첫 방송된다."
+            "x": "Seedance 2.5 Flash는 Jimeng과 LibTV, Updream, Creao AI, TapNow 등 third-party 도구에 순차 적용되고 있다. API 접근은 11월 15일 Volcano Ark에서 열릴 예정이다."
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "KBS 대하사극 '문무'\n세 전투신 AI로 구현",
-          "body": "1년 반 제작 동안 AI가 계속 발전해 제작진은 새 기술이 나올 때마다 적용했다.",
-          "mini_headline": "'문무' AI 전투신",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://images.khan.co.kr/article/2026/11/12/l_2026111302000044400039133.jpg",
-                "cap": "KBS 2TV 새 대하드라마 ‘문무’의 배우 장혁, 이현욱, 김강우(왼쪽부터)가 12일 제작발표회에서 포즈를 취하고 있다. 연합뉴스"
-              },
-              {
-                "t": "p",
-                "x": "3년 만에 돌아온 KBS 대하사극 ‘문무’가 인공지능(AI) 기술을 활용한 대규모 전쟁 장면과 배우들의 열연을 앞세워 안방극장을 찾는다. 12일 서울 구로구 신도림에서 제작발표회가 열렸다."
-              },
-              {
-                "t": "p",
-                "x": "‘문무’는 신라 문무왕 김법민을 중심으로 삼국통일과 당나라에 맞서 자주권을 지켜낸 나당전쟁의 역사를 그린 작품이다. KBS가 ‘고려 거란 전쟁’ 이후 3년 만에 선보이는 대하사극으로, 이현욱이 문무왕을, 장혁이 연개소문을, 김강우가 김춘추를 연기한다."
-              },
-              {
-                "t": "img",
-                "src": "https://images.khan.co.kr/article/2026/11/12/l_2026111302000044400039132.jpg",
-                "cap": "(왼쪽부터) 김도현, 장혁, 최예빈, 이현욱, 김강우, 정웅인, 백성현. 연합뉴스"
-              },
-              {
-                "t": "p",
-                "x": "특히 이번 작품은 주필산 전투부터 매소성 전투, 기벌포 전투까지 각 전투의 특성에 맞춰 AI 기술을 적용했다. 이호 CP는 “기획부터 촬영까지 약 1년 반 동안 AI 기술이 계속 발전했다”며 “새로운 기술이 나올 때마다 활용할 수 있는 부분을 찾아 적용했다”고 밝혔다. 이어 “위험한 장면이나 기존 촬영 방식으로 구현하기 어려운 부분에 기술을 활용했다”고 설명했다."
-              },
-              {
-                "t": "p",
-                "x": "현재 제작 중인 기벌포 전투에 대해서는 “갯벌과 바다를 배경으로 하는 전투인 만큼 AI 영상 기술이 잘 어울릴 것이라고 생각했다”며 “그사이 기술이 더 발전해 이전보다 AI를 더욱 많이 활용하고 있다”고 덧붙였다."
-              },
-              {
-                "t": "p",
-                "x": "‘고려 거란 전쟁’이 역사 왜곡 논란에 휩싸였던 만큼 이번 작품은 사료와 전문가 자문을 바탕으로 제작했다. ‘문무’는 오는 14일 오후 9시 20분 KBS 2TV에서 첫 방송된다."
-              }
-            ]
-          }
-        },
         "en": {
-          "headline": "KBS epic 'Munmu' uses AI\nfor three battle scenes",
-          "body": "Over 1 and a half years of production, AI kept improving, and the team applied each new tool as it arrived.",
-          "mini_headline": "AI battle scenes in 'Munmu'",
+          "headline": "ByteDance cuts AI video\ncost with a Flash model",
+          "body": "ByteDance's Seedance 2.5 Flash generates video twice as fast as Seedance 2.5 at about 0.99 yuan per second at 720p.",
+          "mini_headline": "Seedance 2.5 Flash\nruns faster",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.khan.co.kr/article/2026/11/12/l_2026111302000044400039133.jpg",
-                "cap": "Actors Jang Hyuk, Lee Hyun-wook and Kim Kang-woo (from left) of ‘Munmu’, the new historical drama on KBS 2TV, pose at a press conference on the 12th. Yonhap News"
+                "src": "https://cms-image.pandaily.com/1/seedance_96adab67c5.png",
+                "cap": "AI-generated conceptual illustration, not a photograph of the announced product, site or event."
               },
               {
                 "t": "p",
-                "x": "The KBS historical epic ‘Munmu’, returning after 3 years, comes to TV screens led by large-scale battle scenes made with artificial intelligence (AI) technology and strong performances from its cast. A press conference was held on the 12th in Sindorim, Guro-gu, Seoul."
+                "x": "ByteDance's cloud unit Volcano Engine released Seedance 2.5 Flash on November 12, a lighter version of its Seedance 2.5 video generation model. The company says it generates video twice as fast as Seedance 2.5 at a lower price."
               },
               {
                 "t": "p",
-                "x": "‘Munmu’ centers on King Munmu of Silla, Kim Beop-min, and depicts the unification of the Three Kingdoms and the Silla-Tang War, in which Silla defended its sovereignty against Tang. It is the first historical epic KBS has presented in 3 years since ‘Korea-Khitan War’, with Lee Hyun-wook playing King Munmu, Jang Hyuk playing Yeon Gaesomun and Kim Kang-woo playing Kim Chun-chu."
-              },
-              {
-                "t": "img",
-                "src": "https://images.khan.co.kr/article/2026/11/12/l_2026111302000044400039132.jpg",
-                "cap": "(From left) Kim Do-hyun, Jang Hyuk, Choi Ye-bin, Lee Hyun-wook, Kim Kang-woo, Jung Woong-in, Baek Sung-hyun. Yonhap News"
+                "x": "For text-to-video and image-to-video at 720p, Volcano Engine puts the price at about 0.99 yuan per second of generated video, roughly 34% below Seedance 2.5. The flash model generates clips of up to 30 seconds, takes up to 10 images, five video clips and five audio clips as references, and outputs 480p or 720p."
               },
               {
                 "t": "p",
-                "x": "In particular, the series applied AI technology tailored to the character of each battle, from the Battle of Jupilsan to the Battle of Maeso Fortress and the Battle of Gibeolpo. “AI technology kept advancing over the roughly 1 and a half years from planning to filming,” said CP Lee Ho. “Whenever a new technology came out, we looked for the parts where we could use it and applied it.” He added, “We used the technology for dangerous scenes or parts that were hard to achieve with conventional filming methods.”"
+                "x": "The flagship Seedance 2.5 remains the choice for 1080p and 4K production; the flash model is pitched at high-frequency creation and batch content production. Quality claims come from the company, which published no benchmark results."
               },
               {
                 "t": "p",
-                "x": "Of the Battle of Gibeolpo, now in production, he said, “Since it is a battle set against mudflats and the sea, we thought AI video technology would suit it well,” adding, “In the meantime the technology has advanced further, so we are using AI even more than before.”"
-              },
-              {
-                "t": "p",
-                "x": "Because ‘Korea-Khitan War’ was caught up in controversy over historical distortion, this series was made on the basis of historical records and expert advice. ‘Munmu’ premieres on KBS 2TV on the 14th at 9:20 p.m."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "KBS大河時代劇『文武』\n三つの戦闘シーンをAIで",
-          "body": "1年半の制作中もAIは進化を続け、制作陣は新技術が出るたびに取り入れた。",
-          "mini_headline": "『文武』のAI戦闘シーン",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://images.khan.co.kr/article/2026/11/12/l_2026111302000044400039133.jpg",
-                "cap": "KBS 2TVの新大河ドラマ『文武』に出演する俳優チャン・ヒョク、イ・ヒョヌク、キム・ガンウ(左から)が、12日の制作発表会でポーズを取っている。聯合ニュース"
-              },
-              {
-                "t": "p",
-                "x": "3年ぶりに戻ってきたKBSの大河時代劇『文武』が、人工知能(AI)技術を活用した大規模な戦闘シーンと俳優陣の熱演を武器にお茶の間に登場する。12日、ソウル九老区新道林で制作発表会が開かれた。"
-              },
-              {
-                "t": "p",
-                "x": "『文武』は、新羅の文武王・金法敏を中心に、三国統一と、唐に立ち向かって自主権を守り抜いた羅唐戦争の歴史を描く作品だ。KBSが『高麗契丹戦争』以来3年ぶりに送り出す大河時代劇で、イ・ヒョヌクが文武王を、チャン・ヒョクが淵蓋蘇文を、キム・ガンウが金春秋を演じる。"
-              },
-              {
-                "t": "img",
-                "src": "https://images.khan.co.kr/article/2026/11/12/l_2026111302000044400039132.jpg",
-                "cap": "(左から)キム・ドヒョン、チャン・ヒョク、チェ・イェビン、イ・ヒョヌク、キム・ガンウ、チョン・ウンイン、ペク・ソンヒョン。聯合ニュース"
-              },
-              {
-                "t": "p",
-                "x": "特に本作は、駐蹕山の戦いから買肖城の戦い、伎伐浦の戦いまで、それぞれの戦闘の特性に合わせてAI技術を適用した。イ・ホCPは「企画から撮影までの約1年半の間、AI技術は進化し続けた」とし、「新しい技術が出るたびに活用できる部分を探して取り入れた」と明かした。さらに「危険な場面や、従来の撮影方式では表現が難しい部分に技術を使った」と説明した。"
-              },
-              {
-                "t": "p",
-                "x": "現在制作中の伎伐浦の戦いについては、「干潟と海を舞台にした戦いなので、AI映像技術がよく合うと考えた」とし、「その間に技術がさらに進化し、以前よりもAIをより多く活用している」と付け加えた。"
-              },
-              {
-                "t": "p",
-                "x": "『高麗契丹戦争』が歴史歪曲をめぐる論争に巻き込まれただけに、本作は史料と専門家の助言をもとに制作された。『文武』は14日午後9時20分からKBS 2TVで放送が始まる。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "KBS大河剧《文武》\n用AI打造三场战役",
-          "body": "在1年半的制作期间AI持续进步，剧组每逢新技术问世便加以应用。",
-          "mini_headline": "《文武》的AI战争场面",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://images.khan.co.kr/article/2026/11/12/l_2026111302000044400039133.jpg",
-                "cap": "KBS 2TV新大河剧《文武》的演员张赫、李玹旭、金康宇（从左至右）12日在制作发布会上摆姿势。韩联社"
-              },
-              {
-                "t": "p",
-                "x": "时隔3年回归的KBS大河历史剧《文武》，将以运用人工智能（AI）技术打造的大规模战争场面和演员们的精彩表演登上荧屏。12日，制作发布会在首尔九老区新道林举行。"
-              },
-              {
-                "t": "p",
-                "x": "《文武》以新罗文武王金法敏为中心，讲述三国统一以及对抗唐朝、守护自主权的罗唐战争的历史。这是KBS继《高丽契丹战争》之后时隔3年推出的大河历史剧，李玹旭饰演文武王，张赫饰演渊盖苏文，金康宇饰演金春秋。"
-              },
-              {
-                "t": "img",
-                "src": "https://images.khan.co.kr/article/2026/11/12/l_2026111302000044400039132.jpg",
-                "cap": "（从左至右）金度贤、张赫、崔艺彬、李玹旭、金康宇、郑雄仁、白成贤。韩联社"
-              },
-              {
-                "t": "p",
-                "x": "尤其是，本剧从驻跸山之战到买肖城之战、伎伐浦之战，根据每场战役的特点运用了AI技术。CP李浩表示：“从策划到拍摄的约1年半时间里，AI技术一直在发展。”他还说：“每当有新技术出现，我们就寻找可以利用的部分加以应用。”他接着解释：“我们把技术用在危险场面，或用传统拍摄方式难以实现的部分。”"
-              },
-              {
-                "t": "p",
-                "x": "对于目前正在制作的伎伐浦之战，他补充说：“这是以滩涂和大海为背景的战役，所以我们认为AI影像技术会很合适。”“这期间技术又有了进步，我们比以前更多地使用AI。”"
-              },
-              {
-                "t": "p",
-                "x": "由于《高丽契丹战争》曾陷入歪曲历史的争议，本剧以史料和专家咨询为基础制作。《文武》将于14日晚9点20分在KBS 2TV首播。"
+                "x": "Seedance 2.5 Flash is rolling out on Jimeng and third-party tools including LibTV, Updream, Creao AI and TapNow. API access is scheduled to open on Volcano Ark on November 15."
               }
             ]
           }
         },
         "es": {
-          "headline": "La epopeya de KBS ‘Munmu’\nrecrea tres batallas con AI",
-          "body": "Durante 1 año y medio de producción, la AI siguió avanzando y el equipo aplicó cada nueva técnica que surgía.",
-          "mini_headline": "Las batallas con AI de ‘Munmu’",
+          "headline": "ByteDance abarata el video AI\ncon un modelo Flash",
+          "body": "Seedance 2.5 Flash, de ByteDance, duplica la velocidad de Seedance 2.5 a unos 0.99 yuanes por segundo en 720p.",
+          "mini_headline": "Seedance 2.5 Flash, más rápido",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.khan.co.kr/article/2026/11/12/l_2026111302000044400039133.jpg",
-                "cap": "Los actores Jang Hyuk, Lee Hyun-wook y Kim Kang-woo (de izquierda a derecha), de la nueva serie histórica de KBS 2TV ‘Munmu’, posan en la presentación del día 12. Yonhap News"
+                "src": "https://cms-image.pandaily.com/1/seedance_96adab67c5.png",
+                "cap": "Ilustración conceptual generada con IA (AI-generated); no es una fotografía del producto, lugar o evento anunciado."
               },
               {
                 "t": "p",
-                "x": "La serie histórica de KBS ‘Munmu’, que regresa tras 3 años, llega a la televisión con grandes escenas de guerra creadas con tecnología de inteligencia artificial (AI) y sólidas actuaciones de su reparto. La presentación se celebró el día 12 en Sindorim, en el distrito de Guro-gu, Seúl."
+                "x": "Volcano Engine, la unidad de nube de ByteDance, lanzó el 12 de noviembre Seedance 2.5 Flash, una versión más ligera de su modelo de generación de video Seedance 2.5. La empresa afirma que genera video el doble de rápido que Seedance 2.5 y a un precio menor."
               },
               {
                 "t": "p",
-                "x": "‘Munmu’ se centra en el rey Munmu de Silla, Kim Beop-min, y narra la unificación de los Tres Reinos y la guerra Silla-Tang, en la que se defendió la soberanía frente a la dinastía Tang. Es la serie histórica que KBS estrena 3 años después de ‘Korea-Khitan War’, con Lee Hyun-wook como el rey Munmu, Jang Hyuk como Yeon Gaesomun y Kim Kang-woo como Kim Chun-chu."
+                "x": "Para texto a video e imagen a video en 720p, Volcano Engine fija el precio en unos 0.99 yuanes por segundo de video generado, alrededor de un 34% menos que Seedance 2.5. El modelo flash genera clips de hasta 30 segundos, admite como referencia hasta 10 imágenes, cinco clips de video y cinco clips de audio, y produce salidas en 480p o 720p."
               },
+              {
+                "t": "p",
+                "x": "El modelo insignia Seedance 2.5 sigue siendo la opción para producciones en 1080p y 4K; el modelo flash está orientado a la creación de alta frecuencia y a la producción de contenido por lotes. Las afirmaciones sobre calidad provienen de la empresa, que no publicó resultados de benchmarks."
+              },
+              {
+                "t": "p",
+                "x": "Seedance 2.5 Flash se está desplegando en Jimeng y en herramientas de terceros como LibTV, Updream, Creao AI y TapNow. Está previsto que el acceso por API se abra en Volcano Ark el 15 de noviembre."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "ByteDance가 AI\n영상 비용 낮춘 Flash",
+          "body": "ByteDance Seedance 2.5 Flash 720p 초당 0.99위안이다.",
+          "mini_headline": "Seedance 2.5 Flash, 더 빠르게",
+          "full": {
+            "mode": "summary",
+            "blocks": [
               {
                 "t": "img",
-                "src": "https://images.khan.co.kr/article/2026/11/12/l_2026111302000044400039132.jpg",
-                "cap": "(De izquierda a derecha) Kim Do-hyun, Jang Hyuk, Choi Ye-bin, Lee Hyun-wook, Kim Kang-woo, Jung Woong-in y Baek Sung-hyun. Yonhap News"
+                "src": "https://cms-image.pandaily.com/1/seedance_96adab67c5.png",
+                "cap": "AI-generated 개념 일러스트로, 발표된 제품이나 장소, 행사를 찍은 사진이 아니다."
               },
               {
                 "t": "p",
-                "x": "En particular, la serie aplicó tecnología de AI adaptada a las características de cada batalla, desde la de Jupilsan hasta las de la fortaleza de Maeso y Gibeolpo. El CP Lee Ho explicó que “la tecnología de AI siguió avanzando durante cerca de 1 año y medio, desde la planificación hasta el rodaje” y que “cada vez que salía una nueva tecnología, buscábamos qué partes podíamos aprovechar y la aplicábamos”. Añadió: “Usamos la tecnología en escenas peligrosas o en partes difíciles de lograr con los métodos de rodaje convencionales”."
+                "x": "ByteDance의 클라우드 부문 Volcano Engine이 11월 12일 Seedance 2.5 Flash를 공개했다. Seedance 2.5 영상 생성 모델의 경량판이다. 회사는 Seedance 2.5보다 두 배 빠르게, 더 낮은 가격으로 영상을 생성한다고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "Sobre la batalla de Gibeolpo, aún en producción, añadió: “Como es una batalla ambientada en marismas y en el mar, pensamos que la tecnología de video con AI encajaría bien”, y “mientras tanto la tecnología avanzó aún más, así que usamos la AI más que antes”."
+                "x": "720p text-to-video와 image-to-video 기준으로 Volcano Engine이 제시한 가격은 생성 영상 초당 약 0.99위안이며, Seedance 2.5보다 34%가량 낮다. flash 모델은 최대 30초 길이의 클립을 만들고, 이미지 최대 10장과 영상 클립 다섯 개, 오디오 클립 다섯 개를 참조로 받으며, 480p 또는 720p로 출력한다."
               },
               {
                 "t": "p",
-                "x": "Dado que ‘Korea-Khitan War’ se vio envuelta en una polémica por distorsión histórica, esta serie se elaboró a partir de fuentes históricas y del asesoramiento de expertos. ‘Munmu’ se estrena el día 14 a las 9:20 p. m. en KBS 2TV."
+                "x": "1080p와 4K 제작에는 여전히 플래그십 Seedance 2.5가 쓰이고, flash 모델은 high-frequency 창작과 대량 콘텐츠 제작을 겨냥한다. 품질에 관한 주장은 회사 측 설명이며, 벤치마크 결과는 공개되지 않았다."
+              },
+              {
+                "t": "p",
+                "x": "Seedance 2.5 Flash는 Jimeng과 LibTV, Updream, Creao AI, TapNow 등 third-party 도구에 순차 적용되고 있다. API 접근은 11월 15일 Volcano Ark에서 열릴 예정이다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "ByteDanceがAI\n動画を安くするFlash",
+          "body": "ByteDanceのSeedance 2.5 Flashは倍速で720p毎秒約0.99元だ。",
+          "mini_headline": "Seedance 2.5 Flashは高速",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cms-image.pandaily.com/1/seedance_96adab67c5.png",
+                "cap": "AI-generatedのイメージイラストであり、発表された製品や施設、イベントを撮影した写真ではない。"
+              },
+              {
+                "t": "p",
+                "x": "ByteDanceのクラウド部門Volcano Engineは11月12日、動画生成モデルSeedance 2.5の軽量版となるSeedance 2.5 Flashを公開した。同社によると、Seedance 2.5の倍の速さで、より低い価格で動画を生成できる。"
+              },
+              {
+                "t": "p",
+                "x": "720pのtext-to-videoとimage-to-videoについて、Volcano Engineは生成動画の毎秒約0.99元という価格を示しており、Seedance 2.5より約34%安い。flashモデルは最長30秒のクリップを生成し、参照素材として画像を最大10枚、動画クリップ五本、音声クリップ五本まで受け付け、480pまたは720pで出力する。"
+              },
+              {
+                "t": "p",
+                "x": "1080pや4K の制作には引き続きフラッグシップのSeedance 2.5が想定され、flashモデルはhigh-frequencyな制作やコンテンツの大量制作向けと位置づけられている。品質に関する主張は同社によるもので、ベンチマーク結果は公表されていない。"
+              },
+              {
+                "t": "p",
+                "x": "Seedance 2.5 Flashは、JimengのほかLibTV、Updream、Creao AI、TapNowなどのthird-partyツールで順次提供されている。APIは11月15日にVolcano Arkで公開される予定だ。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "ByteDance降低AI\n视频成本的Flash模型",
+          "body": "ByteDance的Seedance 2.5 Flash速度翻倍，720p每秒约0.99元。",
+          "mini_headline": "Seedance 2.5 Flash更快",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cms-image.pandaily.com/1/seedance_96adab67c5.png",
+                "cap": "AI-generated概念插图，并非所发布产品、场所或活动的实拍照片。"
+              },
+              {
+                "t": "p",
+                "x": "ByteDance旗下云服务部门Volcano Engine于11月12日发布Seedance 2.5 Flash，这是其视频生成模型Seedance 2.5的轻量版本。公司表示，其视频生成速度是Seedance 2.5的两倍，价格也更低。"
+              },
+              {
+                "t": "p",
+                "x": "在720p的text-to-video和image-to-video场景下，Volcano Engine给出的价格约为每秒生成视频0.99元，比Seedance 2.5低约34%。flash模型可生成最长30秒的片段，最多接受10张图片、五段视频片段和五段音频片段作为参考，输出480p或720p。"
+              },
+              {
+                "t": "p",
+                "x": "旗舰版Seedance 2.5仍是1080p和4K 制作的选择；flash模型则面向high-frequency创作和批量内容生产。质量方面的说法来自公司本身，公司未公布任何基准测试结果。"
+              },
+              {
+                "t": "p",
+                "x": "Seedance 2.5 Flash正陆续登陆Jimeng以及LibTV、Updream、Creao AI和TapNow等third-party工具。API接入计划于11月15日在Volcano Ark开放。"
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "KBS epic 'Munmu' uses AI\nfor three battle scenes",
-          "body": "Over 1 and a half years of production, AI kept improving, and the team applied each new tool as it arrived.",
-          "mini_headline": "AI battle scenes in 'Munmu'",
+        "es": {
+          "headline": "Seedance 2.5 Flash de ByteDance\nabarata y acelera el video",
+          "body": "Seedance 2.5 Flash, de ByteDance, duplica la velocidad de Seedance 2.5 a unos 0.99 yuanes por segundo en 720p.",
+          "mini_headline": "Seedance 2.5 Flash, más rápido",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.khan.co.kr/article/2026/11/12/l_2026111302000044400039133.jpg",
-                "cap": "Actors Jang Hyuk, Lee Hyun-wook and Kim Kang-woo (from left) of ‘Munmu’, the new historical drama on KBS 2TV, pose at a press conference on the 12th. Yonhap News"
+                "src": "https://cms-image.pandaily.com/1/seedance_96adab67c5.png",
+                "cap": "Ilustración conceptual generada con IA (AI-generated); no es una fotografía del producto, lugar o evento anunciado."
               },
               {
                 "t": "p",
-                "x": "The KBS historical epic ‘Munmu’, returning after 3 years, comes to TV screens led by large-scale battle scenes made with artificial intelligence (AI) technology and strong performances from its cast. A press conference was held on the 12th in Sindorim, Guro-gu, Seoul."
+                "x": "Volcano Engine, la unidad de nube de ByteDance, lanzó el 12 de noviembre Seedance 2.5 Flash, una versión más ligera de su modelo de generación de video Seedance 2.5. La empresa afirma que genera video el doble de rápido que Seedance 2.5 y a un precio menor."
               },
               {
                 "t": "p",
-                "x": "‘Munmu’ centers on King Munmu of Silla, Kim Beop-min, and depicts the unification of the Three Kingdoms and the Silla-Tang War, in which Silla defended its sovereignty against Tang. It is the first historical epic KBS has presented in 3 years since ‘Korea-Khitan War’, with Lee Hyun-wook playing King Munmu, Jang Hyuk playing Yeon Gaesomun and Kim Kang-woo playing Kim Chun-chu."
+                "x": "Para texto a video e imagen a video en 720p, Volcano Engine fija el precio en unos 0.99 yuanes por segundo de video generado, alrededor de un 34% menos que Seedance 2.5. El modelo flash genera clips de hasta 30 segundos, admite como referencia hasta 10 imágenes, cinco clips de video y cinco clips de audio, y produce salidas en 480p o 720p."
               },
+              {
+                "t": "p",
+                "x": "El modelo insignia Seedance 2.5 sigue siendo la opción para producciones en 1080p y 4K; el modelo flash está orientado a la creación de alta frecuencia y a la producción de contenido por lotes. Las afirmaciones sobre calidad provienen de la empresa, que no publicó resultados de benchmarks."
+              },
+              {
+                "t": "p",
+                "x": "Seedance 2.5 Flash se está desplegando en Jimeng y en herramientas de terceros como LibTV, Updream, Creao AI y TapNow. Está previsto que el acceso por API se abra en Volcano Ark el 15 de noviembre."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "ByteDance가 AI\n영상 비용 낮춘 Flash",
+          "body": "ByteDance Seedance 2.5 Flash 720p 초당 0.99위안이다.",
+          "mini_headline": "Seedance 2.5 Flash, 더 빠르게",
+          "full": {
+            "mode": "summary",
+            "blocks": [
               {
                 "t": "img",
-                "src": "https://images.khan.co.kr/article/2026/11/12/l_2026111302000044400039132.jpg",
-                "cap": "(From left) Kim Do-hyun, Jang Hyuk, Choi Ye-bin, Lee Hyun-wook, Kim Kang-woo, Jung Woong-in, Baek Sung-hyun. Yonhap News"
+                "src": "https://cms-image.pandaily.com/1/seedance_96adab67c5.png",
+                "cap": "AI-generated 개념 일러스트로, 발표된 제품이나 장소, 행사를 찍은 사진이 아니다."
               },
               {
                 "t": "p",
-                "x": "In particular, the series applied AI technology tailored to the character of each battle, from the Battle of Jupilsan to the Battle of Maeso Fortress and the Battle of Gibeolpo. “AI technology kept advancing over the roughly 1 and a half years from planning to filming,” said CP Lee Ho. “Whenever a new technology came out, we looked for the parts where we could use it and applied it.” He added, “We used the technology for dangerous scenes or parts that were hard to achieve with conventional filming methods.”"
+                "x": "ByteDance의 클라우드 부문 Volcano Engine이 11월 12일 Seedance 2.5 Flash를 공개했다. Seedance 2.5 영상 생성 모델의 경량판이다. 회사는 Seedance 2.5보다 두 배 빠르게, 더 낮은 가격으로 영상을 생성한다고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "Of the Battle of Gibeolpo, now in production, he said, “Since it is a battle set against mudflats and the sea, we thought AI video technology would suit it well,” adding, “In the meantime the technology has advanced further, so we are using AI even more than before.”"
+                "x": "720p text-to-video와 image-to-video 기준으로 Volcano Engine이 제시한 가격은 생성 영상 초당 약 0.99위안이며, Seedance 2.5보다 34%가량 낮다. flash 모델은 최대 30초 길이의 클립을 만들고, 이미지 최대 10장과 영상 클립 다섯 개, 오디오 클립 다섯 개를 참조로 받으며, 480p 또는 720p로 출력한다."
               },
               {
                 "t": "p",
-                "x": "Because ‘Korea-Khitan War’ was caught up in controversy over historical distortion, this series was made on the basis of historical records and expert advice. ‘Munmu’ premieres on KBS 2TV on the 14th at 9:20 p.m."
+                "x": "1080p와 4K 제작에는 여전히 플래그십 Seedance 2.5가 쓰이고, flash 모델은 high-frequency 창작과 대량 콘텐츠 제작을 겨냥한다. 품질에 관한 주장은 회사 측 설명이며, 벤치마크 결과는 공개되지 않았다."
+              },
+              {
+                "t": "p",
+                "x": "Seedance 2.5 Flash는 Jimeng과 LibTV, Updream, Creao AI, TapNow 등 third-party 도구에 순차 적용되고 있다. API 접근은 11월 15일 Volcano Ark에서 열릴 예정이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "KBS大河時代劇『文武』\n三つの戦闘シーンをAIで",
-          "body": "1年半の制作中もAIは進化を続け、制作陣は新技術が出るたびに取り入れた。",
-          "mini_headline": "『文武』のAI戦闘シーン",
+          "headline": "ByteDanceがAI\n動画を安くするFlash",
+          "body": "ByteDanceのSeedance 2.5 Flashは倍速で720p毎秒約0.99元だ。",
+          "mini_headline": "Seedance 2.5 Flashは高速",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.khan.co.kr/article/2026/11/12/l_2026111302000044400039133.jpg",
-                "cap": "KBS 2TVの新大河ドラマ『文武』に出演する俳優チャン・ヒョク、イ・ヒョヌク、キム・ガンウ(左から)が、12日の制作発表会でポーズを取っている。聯合ニュース"
+                "src": "https://cms-image.pandaily.com/1/seedance_96adab67c5.png",
+                "cap": "AI-generatedのイメージイラストであり、発表された製品や施設、イベントを撮影した写真ではない。"
               },
               {
                 "t": "p",
-                "x": "3年ぶりに戻ってきたKBSの大河時代劇『文武』が、人工知能(AI)技術を活用した大規模な戦闘シーンと俳優陣の熱演を武器にお茶の間に登場する。12日、ソウル九老区新道林で制作発表会が開かれた。"
+                "x": "ByteDanceのクラウド部門Volcano Engineは11月12日、動画生成モデルSeedance 2.5の軽量版となるSeedance 2.5 Flashを公開した。同社によると、Seedance 2.5の倍の速さで、より低い価格で動画を生成できる。"
               },
               {
                 "t": "p",
-                "x": "『文武』は、新羅の文武王・金法敏を中心に、三国統一と、唐に立ち向かって自主権を守り抜いた羅唐戦争の歴史を描く作品だ。KBSが『高麗契丹戦争』以来3年ぶりに送り出す大河時代劇で、イ・ヒョヌクが文武王を、チャン・ヒョクが淵蓋蘇文を、キム・ガンウが金春秋を演じる。"
-              },
-              {
-                "t": "img",
-                "src": "https://images.khan.co.kr/article/2026/11/12/l_2026111302000044400039132.jpg",
-                "cap": "(左から)キム・ドヒョン、チャン・ヒョク、チェ・イェビン、イ・ヒョヌク、キム・ガンウ、チョン・ウンイン、ペク・ソンヒョン。聯合ニュース"
+                "x": "720pのtext-to-videoとimage-to-videoについて、Volcano Engineは生成動画の毎秒約0.99元という価格を示しており、Seedance 2.5より約34%安い。flashモデルは最長30秒のクリップを生成し、参照素材として画像を最大10枚、動画クリップ五本、音声クリップ五本まで受け付け、480pまたは720pで出力する。"
               },
               {
                 "t": "p",
-                "x": "特に本作は、駐蹕山の戦いから買肖城の戦い、伎伐浦の戦いまで、それぞれの戦闘の特性に合わせてAI技術を適用した。イ・ホCPは「企画から撮影までの約1年半の間、AI技術は進化し続けた」とし、「新しい技術が出るたびに活用できる部分を探して取り入れた」と明かした。さらに「危険な場面や、従来の撮影方式では表現が難しい部分に技術を使った」と説明した。"
+                "x": "1080pや4K の制作には引き続きフラッグシップのSeedance 2.5が想定され、flashモデルはhigh-frequencyな制作やコンテンツの大量制作向けと位置づけられている。品質に関する主張は同社によるもので、ベンチマーク結果は公表されていない。"
               },
               {
                 "t": "p",
-                "x": "現在制作中の伎伐浦の戦いについては、「干潟と海を舞台にした戦いなので、AI映像技術がよく合うと考えた」とし、「その間に技術がさらに進化し、以前よりもAIをより多く活用している」と付け加えた。"
-              },
-              {
-                "t": "p",
-                "x": "『高麗契丹戦争』が歴史歪曲をめぐる論争に巻き込まれただけに、本作は史料と専門家の助言をもとに制作された。『文武』は14日午後9時20分からKBS 2TVで放送が始まる。"
+                "x": "Seedance 2.5 Flashは、JimengのほかLibTV、Updream、Creao AI、TapNowなどのthird-partyツールで順次提供されている。APIは11月15日にVolcano Arkで公開される予定だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "KBS大河剧《文武》\n用AI打造三场战役",
-          "body": "在1年半的制作期间AI持续进步，剧组每逢新技术问世便加以应用。",
-          "mini_headline": "《文武》的AI战争场面",
+          "headline": "ByteDance降低AI\n视频成本的Flash模型",
+          "body": "ByteDance的Seedance 2.5 Flash速度翻倍，720p每秒约0.99元。",
+          "mini_headline": "Seedance 2.5 Flash更快",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.khan.co.kr/article/2026/11/12/l_2026111302000044400039133.jpg",
-                "cap": "KBS 2TV新大河剧《文武》的演员张赫、李玹旭、金康宇（从左至右）12日在制作发布会上摆姿势。韩联社"
+                "src": "https://cms-image.pandaily.com/1/seedance_96adab67c5.png",
+                "cap": "AI-generated概念插图，并非所发布产品、场所或活动的实拍照片。"
               },
               {
                 "t": "p",
-                "x": "时隔3年回归的KBS大河历史剧《文武》，将以运用人工智能（AI）技术打造的大规模战争场面和演员们的精彩表演登上荧屏。12日，制作发布会在首尔九老区新道林举行。"
+                "x": "ByteDance旗下云服务部门Volcano Engine于11月12日发布Seedance 2.5 Flash，这是其视频生成模型Seedance 2.5的轻量版本。公司表示，其视频生成速度是Seedance 2.5的两倍，价格也更低。"
               },
               {
                 "t": "p",
-                "x": "《文武》以新罗文武王金法敏为中心，讲述三国统一以及对抗唐朝、守护自主权的罗唐战争的历史。这是KBS继《高丽契丹战争》之后时隔3年推出的大河历史剧，李玹旭饰演文武王，张赫饰演渊盖苏文，金康宇饰演金春秋。"
-              },
-              {
-                "t": "img",
-                "src": "https://images.khan.co.kr/article/2026/11/12/l_2026111302000044400039132.jpg",
-                "cap": "（从左至右）金度贤、张赫、崔艺彬、李玹旭、金康宇、郑雄仁、白成贤。韩联社"
+                "x": "在720p的text-to-video和image-to-video场景下，Volcano Engine给出的价格约为每秒生成视频0.99元，比Seedance 2.5低约34%。flash模型可生成最长30秒的片段，最多接受10张图片、五段视频片段和五段音频片段作为参考，输出480p或720p。"
               },
               {
                 "t": "p",
-                "x": "尤其是，本剧从驻跸山之战到买肖城之战、伎伐浦之战，根据每场战役的特点运用了AI技术。CP李浩表示：“从策划到拍摄的约1年半时间里，AI技术一直在发展。”他还说：“每当有新技术出现，我们就寻找可以利用的部分加以应用。”他接着解释：“我们把技术用在危险场面，或用传统拍摄方式难以实现的部分。”"
+                "x": "旗舰版Seedance 2.5仍是1080p和4K 制作的选择；flash模型则面向high-frequency创作和批量内容生产。质量方面的说法来自公司本身，公司未公布任何基准测试结果。"
               },
               {
                 "t": "p",
-                "x": "对于目前正在制作的伎伐浦之战，他补充说：“这是以滩涂和大海为背景的战役，所以我们认为AI影像技术会很合适。”“这期间技术又有了进步，我们比以前更多地使用AI。”"
-              },
-              {
-                "t": "p",
-                "x": "由于《高丽契丹战争》曾陷入歪曲历史的争议，本剧以史料和专家咨询为基础制作。《文武》将于14日晚9点20分在KBS 2TV首播。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "La epopeya de KBS ‘Munmu’\nrecrea tres batallas con AI",
-          "body": "Durante 1 año y medio de producción, la AI siguió avanzando y el equipo aplicó cada nueva técnica que surgía.",
-          "mini_headline": "Las batallas con AI de ‘Munmu’",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://images.khan.co.kr/article/2026/11/12/l_2026111302000044400039133.jpg",
-                "cap": "Los actores Jang Hyuk, Lee Hyun-wook y Kim Kang-woo (de izquierda a derecha), de la nueva serie histórica de KBS 2TV ‘Munmu’, posan en la presentación del día 12. Yonhap News"
-              },
-              {
-                "t": "p",
-                "x": "La serie histórica de KBS ‘Munmu’, que regresa tras 3 años, llega a la televisión con grandes escenas de guerra creadas con tecnología de inteligencia artificial (AI) y sólidas actuaciones de su reparto. La presentación se celebró el día 12 en Sindorim, en el distrito de Guro-gu, Seúl."
-              },
-              {
-                "t": "p",
-                "x": "‘Munmu’ se centra en el rey Munmu de Silla, Kim Beop-min, y narra la unificación de los Tres Reinos y la guerra Silla-Tang, en la que se defendió la soberanía frente a la dinastía Tang. Es la serie histórica que KBS estrena 3 años después de ‘Korea-Khitan War’, con Lee Hyun-wook como el rey Munmu, Jang Hyuk como Yeon Gaesomun y Kim Kang-woo como Kim Chun-chu."
-              },
-              {
-                "t": "img",
-                "src": "https://images.khan.co.kr/article/2026/11/12/l_2026111302000044400039132.jpg",
-                "cap": "(De izquierda a derecha) Kim Do-hyun, Jang Hyuk, Choi Ye-bin, Lee Hyun-wook, Kim Kang-woo, Jung Woong-in y Baek Sung-hyun. Yonhap News"
-              },
-              {
-                "t": "p",
-                "x": "En particular, la serie aplicó tecnología de AI adaptada a las características de cada batalla, desde la de Jupilsan hasta las de la fortaleza de Maeso y Gibeolpo. El CP Lee Ho explicó que “la tecnología de AI siguió avanzando durante cerca de 1 año y medio, desde la planificación hasta el rodaje” y que “cada vez que salía una nueva tecnología, buscábamos qué partes podíamos aprovechar y la aplicábamos”. Añadió: “Usamos la tecnología en escenas peligrosas o en partes difíciles de lograr con los métodos de rodaje convencionales”."
-              },
-              {
-                "t": "p",
-                "x": "Sobre la batalla de Gibeolpo, aún en producción, añadió: “Como es una batalla ambientada en marismas y en el mar, pensamos que la tecnología de video con AI encajaría bien”, y “mientras tanto la tecnología avanzó aún más, así que usamos la AI más que antes”."
-              },
-              {
-                "t": "p",
-                "x": "Dado que ‘Korea-Khitan War’ se vio envuelta en una polémica por distorsión histórica, esta serie se elaboró a partir de fuentes históricas y del asesoramiento de expertos. ‘Munmu’ se estrena el día 14 a las 9:20 p. m. en KBS 2TV."
+                "x": "Seedance 2.5 Flash正陆续登陆Jimeng以及LibTV、Updream、Creao AI和TapNow等third-party工具。API接入计划于11月15日在Volcano Ark开放。"
               }
             ]
           }

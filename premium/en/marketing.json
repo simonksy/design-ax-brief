@@ -4540,6 +4540,133 @@
           "x": "\"Marketing teams are moving from manual campaign orchestration to agentic execution,\" said Inna Weiner, VP Product at AppsFlyer. No pricing, customer results or general availability date were given."
         }
       ]
+    },
+    "marketing/iab-ai-attribution-blueprint": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.iab.com/wp-content/uploads/2026/11/the-ai-era-attribution-blueprint-2-1024x312.png"
+        },
+        {
+          "t": "p",
+          "x": "On November 12, 2026, the Interactive Advertising Bureau (IAB) released the AI-Era Attribution Blueprint, a new framework that gives the industry a shared way to classify AI’s role in a conversion and evaluate which parties can claim credit for it. Ad buyers name comparing AI-driven and traditional customer journeys as their top measurement challenge (45%), and 44% rely on branded search and direct traffic as proxies for AI influence they can’t track, according to IAB’s 2026 Outlook Study: September Update."
+        },
+        {
+          "t": "p",
+          "x": "“AI-influenced sales are sometimes reported as search or direct traffic, which can send the next marketing investment to the wrong channel,” said Caroline Giegerich, VP, AI, IAB."
+        },
+        {
+          "t": "p",
+          "x": "The Blueprint asks who or what created the intent, made the decision and completed the purchase, then classifies each conversion as Human-Owned, AI-Assisted or AI-Executed. That pathway determines which parties are eligible for a decision claim or a contributory claim, if any, and what evidence each claim requires. A claim is not credit; it is the right to be evaluated for credit."
+        },
+        {
+          "t": "p",
+          "x": "Much of the evidence needed is either not captured or sits inside AI platforms. IAB calls on brands to estimate the share of conversions in each pathway, AI platforms to disclose whether recommendations are paid or organic and label AI-originated traffic consistently, agencies to apply a single claim-and-evidence standard, and publishers to identify the contributory claims their content creates."
+        }
+      ]
+    },
+    "marketing/schibsted-nodals-ad-algorithms": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.adexchanger.com/wp-content/uploads/2024/10/revenue-sharing-publishers-sundar-pichai-mark-zuckerberg-comic-1024x941.png"
+        },
+        {
+          "t": "p",
+          "x": "Schibsted is working with Nodals AI, a London-based company that creates custom ad optimization algorithms for publishers in Europe and the US, to help court brands who’ve been wooed by Meta’s own optimization tools, Christer Ljones, director of ad data capabilities at Schibsted Marketing Services, told AdExchanger."
+        },
+        {
+          "t": "p",
+          "x": "The walled gardens have won advertisers over with AI-powered campaign optimization features like Meta’s Advantage+, and it’s been hard for open-web publishers to keep up. “Advertisers have been trained by Meta to just care about ‘I put money in and I see how much money comes out,’” said Nodals Founder and CEO Aly Nurmohamed."
+        },
+        {
+          "t": "p",
+          "x": "Nodals feeds the publisher’s first-party data — logged-in data, scroll depth, how often readers click on content or ads — into its models to predict who is likely to click and buy for a particular advertiser. Schibsted first tested the tech last summer and is building a new line of direct-sold native ad formats with AI optimization built in, priced on a cost-per-click basis rather than CPM."
+        },
+        {
+          "t": "p",
+          "x": "“Let’s take 10% of whatever you spend on Meta, and you can probably keep most of your conversions and get more [from us],” Ljones said. “We’re in an early phase, but we’re seeing the right results.”"
+        }
+      ]
+    },
+    "marketing/buzzvil-prism-ad-engine": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.byline.network/wp-content/uploads/2026/11/buzzvil_20261113.jpg",
+          "cap": "Buzzvil launches ‘Prism,’ an AI engine that automatically creates ad creatives for each user (Source=Buzzvil)"
+        },
+        {
+          "t": "p",
+          "x": "Buzzvil has unveiled an artificial intelligence (AI) ad engine that shows different ads depending on each user's interests and stage of purchase. Its distinguishing feature is that, even within the same ad campaign for the same brand, it varies product recommendations, ad messages and ways of participating for each user. Buzzvil said on the 13th that it has launched ‘Prism,’ a hyper-personalized interactive ad engine, and will apply it to interested advertisers starting this month."
+        },
+        {
+          "t": "p",
+          "x": "Its core technology is ‘Composer,’ an AI content creation system developed in-house. Composer analyzes the products a user is interested in and their context to find a suitable ad message, then uses a large language model (LLM) to generate participatory ad creatives such as conversational recommendations or concern diagnoses."
+        },
+        {
+          "t": "p",
+          "x": "If advertisers provide brand images and product information, they can create more than 1000 personalized creatives in a single campaign without a separate production process. Generated creatives go out only if they meet the standards after screening for banned words, fact-checking and an AI quality review. Prism also analyzes user responses to increase exposure of high-performing combinations."
+        },
+        {
+          "t": "p",
+          "x": "In an interactive ad campaign Buzzvil ran with a beauty brand, creatives using product reviews had a post-click purchase conversion rate 3 times higher than existing catalog-style creatives. The add-to-cart conversion rate was 7 times higher, and the median time from ad click to purchase was 57% shorter."
+        },
+        {
+          "t": "p",
+          "x": "Buzzvil CEO Lee Kwan-woo said, “We will turn advertising from a one-way message into an experience exchanged with each and every user.”"
+        }
+      ]
+    },
+    "marketing/ppcland-agent-traffic-meta-openai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/11/human-security-agentic-traffic-october-2026-meta-openai-89-percent-muse-59-percent-two-storefronts-stream.jpg",
+          "cap": "Meta and OpenAI sent 89% of AI agent requests in October, with Muse alone at 59%, HUMAN finds"
+        },
+        {
+          "t": "p",
+          "x": "According to the October 2026 edition of HUMAN Security's State of Agentic Traffic benchmark, published on November 9, 2026, Meta and OpenAI accounted for 89% of agent requests during the month on the sites HUMAN protects, with Meta's Muse alone responsible for 59%. Total agentic traffic in October was 2.6 times its September level and roughly eight times its August level."
+        },
+        {
+          "t": "p",
+          "x": "Meta launched Muse on September 8, 2026 as a US-only personal agent. OpenAI holds second place with three products in the top ten — ChatGPT Agent (15.9%), Codex Browser (8.8%) and the Codex Chrome extension (5.2%) — together about 30%. Anthropic's Claude Chrome extension halved from 7% to 3.5%."
+        },
+        {
+          "t": "p",
+          "x": "Perplexity's Comet led agentic traffic with a 41% share in August; that fell to 3.6% in October. “Standalone consumer agentic browsers are fading, as consumers move to agents built into platforms they already use,” the report says."
+        },
+        {
+          "t": "p",
+          "x": "Agents still mostly research: 85% of requests went to product and search pages and 1.9% reached checkout and payment, though checkout volume grew 117% month over month, according to HUMAN. “Agents still browse far more than they buy,” the report says, “yet the number of agent requests reaching checkout is rising fast.” HUMAN's November edition will show how agents behaved over Black Friday and Cyber Monday."
+        }
+      ]
+    },
+    "marketing/google-ads-editor-aimax-default": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/size/w2000/2026/11/google-ads-editor-2-14-ai-max-default-new-search-campaigns-prepunched-punch-cards-inspector.jpg",
+          "cap": "Google Ads Editor 2.14 starts every new Search campaign with AI Max and Final URL expansion on"
+        },
+        {
+          "t": "p",
+          "x": "Google has released version 2.14 of Google Ads Editor, its free desktop application for bulk campaign work. According to the release notes, \"AI Max, text asset automation, and Final URL expansion are now activated by default when creating new Search campaigns.\" The notes carry no publication date; Search Engine Roundtable reported the release on November 12, 2026, and counted 10 new features."
+        },
+        {
+          "t": "p",
+          "x": "AI Max combines search term matching, text customization, which writes headlines and descriptions from landing pages, existing ads and keywords, and Final URL expansion, which can send a user to a different page on the same domain. Final URL expansion is not available without text customization, and when it is enabled, pinned headlines are not respected."
+        },
+        {
+          "t": "p",
+          "x": "When Google migrated older broad match and automatically created assets campaigns into AI Max in September 2026, it left Final URL expansion off for both groups. In Editor 2.14, a new Search campaign starts with it on."
+        },
+        {
+          "t": "p",
+          "x": "The release also lets Editor edit account-level new customer acquisition and retention settings, adds channel prioritization and budget caps, and removes the option to turn off local inventory ads in Shopping campaigns."
+        }
+      ]
     }
   }
 }

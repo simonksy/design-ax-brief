@@ -1,27 +1,18 @@
 {
   "section": "design",
-  "now_iso": "2026-11-12T22:03:17Z",
+  "now_iso": "2026-11-13T22:03:00Z",
   "window_hours": 72,
   "items": [
-    {
-      "category": "render",
-      "title": "5 new Google Flow Tools designed by visual artists",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/new-google-flow-tools/",
-      "source": "Google (The Keyword)",
-      "published_iso": "2026-11-12T00:00:00Z",
-      "excerpt": "Google added five creative tools to Flow, its AI filmmaking studio, built with visual artists: they keep characters consistent across decades, generate stylized art, simulate complex lighting and turn phone videos into polished shots.",
-      "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Nov_Cohort_Hero_4.width-1300.jpg"
-    },
     {
       "category": "figma",
       "title": "How 3D Transforms and Figma's Agent Brought a Launch Video to Life",
       "url": "https://www.figma.com/blog/how-3d-transforms-and-figmas-agent-brought-a-launch-video-to-life/",
       "source": "Figma Blog",
       "published_iso": "2026-11-12T14:00:00Z",
-      "excerpt": "Figma's Brand Studio team made a launch video on the canvas, combining the new native 3D transforms with tools built by Figma's agent, plus shaders and motion.",
+      "excerpt": "Figma's Brand Studio team combined the new 3D transform effect (x/y/z rotation, open beta), agent-built tools, shaders and motion to make a launch video on the canvas; designs ship to code via Figma MCP.",
       "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/53964310f42e5cb65e0c17606f8ec8aa96448a7e-960x540.png?w=1200&q=70&fit=max&auto=format",
       "history_match": {
-        "score": 0.34,
+        "score": 0.322,
         "date": "2026-10-28",
         "url": "https://www.youtube.com/watch?v=BS-N-AM5ql4",
         "title": "Explore Shaders and Motion with the Figma agent | Figma on Figma",
@@ -30,107 +21,39 @@
     },
     {
       "category": "figma",
-      "title": "Framer Updates: Image and Shader Generation",
-      "url": "https://www.framer.com/updates/image-shader-generation",
-      "source": "Framer",
-      "published_iso": "2026-11-12T00:00:00Z",
-      "excerpt": "The Framer Agent can now generate or edit images, textures and illustrations and create or tweak shaders such as halftone, bokeh or CRT. It can also feed a generated image into an image shader.",
-      "og_image": "https://framerusercontent.com/images/188hlNOfbDRG4rHCkWqDpBILpg.png?width=1600&height=900",
+      "title": "A2UI 1.0: Build delightful, fast, reliable, agentic experiences",
+      "url": "https://developers.googleblog.com/a2ui-10-build-delightful-fast-reliable-agentic-experiences/",
+      "source": "Google Developers Blog",
+      "published_iso": "2026-11-11T00:00:00Z",
+      "excerpt": "Google ships A2UI 1.0, its generative-UI protocol that lets agents answer with interactive interface components instead of walls of text — moving agent interactions out of the 'terminal era'.",
+      "og_image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Gemini_Generated_Image_iu9r44iu9r.2e16d0ba.fill-1200x600.jpg",
       "history_match": {
-        "score": 0.22,
+        "score": 0.368,
         "date": "2026-10-28",
-        "url": "https://www.youtube.com/watch?v=BS-N-AM5ql4",
-        "title": "Explore Shaders and Motion with the Figma agent | Figma on Figma",
-        "band": "related"
-      },
-      "cluster": "c2"
-    },
-    {
-      "category": "social",
-      "title": "Introducing image and shader generation in Framer",
-      "url": "https://www.youtube.com/watch?v=G9O1Ex3EXno",
-      "source": "Framer (YouTube)",
-      "published_iso": "2026-11-12T16:02:42Z",
-      "excerpt": "Framer's official demo of its Agent generating custom images, textures, illustrations and shaders (halftone, bokeh blur, CRT) directly on the site canvas.",
-      "og_image": "https://i.ytimg.com/vi/G9O1Ex3EXno/maxresdefault.jpg",
-      "history_match": {
-        "score": 0.251,
-        "date": "2026-10-28",
-        "url": "https://www.youtube.com/watch?v=BS-N-AM5ql4",
-        "title": "Explore Shaders and Motion with the Figma agent | Figma on Figma",
-        "band": "related"
-      },
-      "cluster": "c2"
-    },
-    {
-      "category": "social",
-      "title": "When Video Becomes an Interface | inside view",
-      "url": "https://www.youtube.com/watch?v=1XV_2WrnZH0",
-      "source": "Runway (YouTube)",
-      "published_iso": "2026-11-10T16:13:03Z",
-      "excerpt": "An inside look at Runway Labs, where designers prototype what real-time video models make possible, with video itself acting as the interface.",
-      "og_image": "https://i.ytimg.com/vi/1XV_2WrnZH0/maxresdefault.jpg"
-    },
-    {
-      "category": "social",
-      "title": "Claude +MCP Framer Hero section",
-      "url": "https://www.youtube.com/shorts/hP_Ss-fJy2I",
-      "source": "Jesse Showalter (YouTube)",
-      "published_iso": "2026-11-12T14:00:23Z",
-      "excerpt": "Designer Jesse Showalter connects Claude to Framer through MCP and builds a scroll-controlled video hero section, walking through the workflow step by step.",
-      "og_image": "https://i.ytimg.com/vi/hP_Ss-fJy2I/maxresdefault.jpg"
-    },
-    {
-      "category": "cad",
-      "title": "Rhino World 2026: McNeel lets AI in",
-      "url": "https://aecmag.com/cad/rhino-world-2026-mcneel-lets-ai-in/",
-      "source": "AEC Magazine",
-      "published_iso": "2026-11-12T09:55:20Z",
-      "excerpt": "With Rhino 9 out, AEC Magazine reports from Rhino World 2026 on how McNeel is bringing AI into Rhino and speeding up development without changing its perpetual-licence business model.",
-      "og_image": "https://aecmag.com/wp-content/uploads/2026/11/RhinoAI.jpg"
-    },
-    {
-      "category": "cad",
-      "title": "BCN3D's Aurora 3D Printer Generates Parts using AI Parametric Design",
-      "url": "https://3dprintingindustry.com/news/bcn3ds-aurora-3d-printer-generates-parts-using-ai-parametric-design-technical-specifications-and-pricing-256521/",
-      "source": "3D Printing Industry",
-      "published_iso": "2026-11-12T11:44:58Z",
-      "excerpt": "BCN3D's Aurora is an industrial IDEX FFF printer with built-in AI parametric design. It's billed as a '3 in 1' system combining AI 3D modeling, smart slicing and 2D-to-3D AI design, so users can produce parts without doing any 3D design themselves.",
-      "og_image": "https://3dprintingindustry.com/wp-content/uploads/2026/11/aurora_vista-frontal-ligeramente_5jYi7l0Kxe-1024x1024.png",
-      "history_match": {
-        "score": 0.399,
-        "date": "2026-11-08",
-        "url": "https://all3dp.com/4/this-ai-3d-printer-can-now-design-your-parts-too-i-have-questions/",
-        "title": "This AI 3D Printer Can Now Design Your Parts, Too. I Have Questions.",
+        "url": "https://developers.googleblog.com/fast-reliable-a2ui/",
+        "title": "Fast, reliable A2UI, with swappable inference formats",
         "band": "related"
       }
     },
     {
-      "category": "cad",
-      "title": "Creality's new mBox is an AI-enabled 3D printer for kids",
-      "url": "https://www.voxelmatters.com/crealitys-new-mbox-is-an-ai-enabled-3d-printer-for-kids/",
-      "source": "VoxelMatters",
-      "published_iso": "2026-11-10T16:00:53Z",
-      "excerpt": "Creality's $329 mBox is a compact, kid-safe 3D printer for ages 6-16. It works with the CubeMe and SnapForm AI tools, which turn photos or drawings into printable 3D models, and uses built-in AI detection to monitor prints.",
-      "og_image": "https://www.voxelmatters.com/wp-content/uploads/2026/11/creality-mbox-3.jpeg",
-      "history_match": {
-        "score": 0.163,
-        "date": "2026-11-08",
-        "url": "https://all3dp.com/4/this-ai-3d-printer-can-now-design-your-parts-too-i-have-questions/",
-        "title": "This AI 3D Printer Can Now Design Your Parts, Too. I Have Questions.",
-        "band": "related"
-      }
+      "category": "render",
+      "title": "Meet your new AI Agent, plus personal cloud storage, enterprise SSO and easier variations in KeyShot Studio 2026.3",
+      "url": "https://www.keyshot.com/blog/keyshot-introduces-single-sign-on-ai-agent-and-more/",
+      "source": "KeyShot",
+      "published_iso": "2026-11-12T15:47:19+00:00",
+      "excerpt": "KeyShot Studio 2026.3 puts an AI Agent directly inside the product-rendering app, alongside personal cloud storage, easier part variations, studio groups and enterprise SSO/MFA.",
+      "og_image": "https://www.keyshot.com/wp-content/uploads/2026/11/KS_2026-3_NEW-HEADER.jpg"
     },
     {
-      "category": "workflow",
+      "category": "render",
       "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
       "url": "https://huggingface.co/blog/3d-lora-finetuning",
-      "source": "Hugging Face Blog",
-      "published_iso": "2026-11-12T00:00:00Z",
-      "excerpt": "Hugging Face shows how to LoRA-fine-tune the TRELLIS.2 image-to-3D pipeline on one object category (Google Scanned Objects), covering which structure, geometry and material components to train and which to freeze.",
+      "source": "Hugging Face",
+      "published_iso": "2026-11-12T00:00:00.770Z",
+      "excerpt": "Hugging Face publishes scripts and containers to LoRA-fine-tune TRELLIS.2, a popular image-to-3D model, on your own 3D assets — covering geometry and material generation, HF Jobs and local Docker runs.",
       "og_image": "https://huggingface.co/blog/assets/3d-lora-finetuning/thumbnail.gif",
       "history_match": {
-        "score": 0.178,
+        "score": 0.153,
         "date": "2026-10-30",
         "url": "https://www.figma.com/blog/training-a-figma-fluent-editing-model/",
         "title": "How we're training a Figma-fluent editing model",
@@ -138,51 +61,58 @@
       }
     },
     {
-      "category": "workflow",
-      "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
-      "url": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/",
-      "source": "TechCrunch",
-      "published_iso": "2026-11-12T17:00:00Z",
-      "excerpt": "Phota Labs isn't another manual photo editor: it uses AI to automate the edit itself, so anyone can turn everyday snapshots into professional-looking photos.",
-      "og_image": "https://techcrunch.com/wp-content/uploads/2026/11/04_Holiday_Lights_before_after.jpg?resize=1200,867"
+      "category": "cad",
+      "title": "SimScale launches Engineering AI Blueprint",
+      "url": "https://www.engineering.com/simscale-launches-engineering-ai-blueprint/",
+      "source": "Engineering.com",
+      "published_iso": "2026-11-13T08:39:51+00:00",
+      "excerpt": "SimScale's Engineering AI Blueprint bundles NVIDIA tools and a framework for moving simulation-driven engineering AI from pilots to broader deployment.",
+      "og_image": "https://www.engineering.com/wp-content/uploads/2026/11/V-model-graphic.jpg"
+    },
+    {
+      "category": "cad",
+      "title": "New AI 'copilot' helps engineers design better structures",
+      "url": "https://news.mit.edu/2026/new-ai-copilot-helps-engineers-design-better-structures-1113",
+      "source": "MIT News",
+      "published_iso": "2026-11-13T05:00:00Z",
+      "excerpt": "MIT researchers built a generative-design copilot that pauses mid-generation to ask the human designer for feedback on regions of a structure, yielding more manufacturable parts with higher buckling loads. (Off-list: on-list CAD outlets had no fresh comparable item.)",
+      "og_image": "https://news.mit.edu/sites/default/files/images/202611/MIT-ai-design-01-press.jpg"
     },
     {
       "category": "tokens",
-      "title": "Should You Actually Add AI To That? A Four-Question Audit For Product Teams",
-      "url": "https://smashingmagazine.com/2026/11/should-you-add-ai-audit-product-teams/",
-      "source": "Smashing Magazine",
-      "published_iso": "2026-11-12T10:00:00Z",
-      "excerpt": "An AI feature can save users time on a task, then cost them that time checking its output. Smashing offers a four-question audit for deciding where AI earns its place in a product and what users need to trust it.",
-      "og_image": "https://files.smashing.media/articles/should-you-add-au-audit-product-teams/should-you-add-ai-audit-product-teams.jpg"
+      "title": "AI is the new old design material",
+      "url": "https://uxdesign.cc/ai-is-the-new-old-design-material-0e7f83540c9a",
+      "source": "UX Collective",
+      "published_iso": "2026-11-13T02:33:09Z",
+      "excerpt": "Makers have always learned their medium by working with it, from grinding pigments to HTML; the piece argues models are the next design material and must be learned by building with them.",
+      "og_image": "https://cdn-images-1.medium.com/max/1024/1*JuPAwnD1n1gK7HhzzrR1Yw.png",
+      "history_match": {
+        "score": 0.178,
+        "date": "2026-10-21",
+        "url": "https://uxdesign.cc/anthropic-october-2026-study-human-attention-is-the-new-old-bottleneck-d7bc4642668a",
+        "title": "Human attention is the new old bottleneck. We have to design for it even more.",
+        "band": "related"
+      }
     },
     {
       "category": "tokens",
-      "title": "KT, 앱 디자인부터 고객 안내 문구까지 AI 적용…'KDS 2.0' 구축",
-      "url": "https://www.inthenews.co.kr/news/article.html?no=94443",
-      "source": "인더뉴스 (InTheNews)",
-      "published_iso": "2026-11-12T15:04:24+09:00",
-      "excerpt": "KT built KDS 2.0, a UX design system that AI can read directly. Its 'KDS Harness' lets AI lay out screens to the system's rules and check the results, cutting about 8 months of work (424 requirements, 25 components) to 2 months 40 days. KT also launched an AI message-writing agent that cuts drafting and review from 30-60 minutes to about 5.",
-      "og_image": "https://www.inthenews.co.kr/data/photos/20261146/art_17944633067103_566c36.jpg"
-    },
-    {
-      "category": "tokens",
-      "title": "Every click has a price now. Who designs how that 'feels'?",
+      "title": "Every click has a price now. Who designs how that \"feels\"?",
       "url": "https://uxdesign.cc/every-click-has-a-price-now-who-designs-how-that-feels-e3f00b6cabb8",
       "source": "UX Collective",
       "published_iso": "2026-11-11T22:15:19Z",
-      "excerpt": "As AI products move from all-you-can-eat plans to credit- and token-based pricing, every action has a cost. UX designers now have to design how that metering feels to users.",
+      "excerpt": "As the all-you-can-eat AI era ends and usage-metered credits arrive, UX designers must shape how per-action AI costs feel to users.",
       "og_image": "https://cdn-images-1.medium.com/max/1024/1*9uqAutsVFqEDaAeZlf7T9w.png"
     },
     {
-      "category": "figma",
+      "category": "tokens",
       "title": "Why are we cloning Photoshop?",
       "url": "https://uxdesign.cc/why-are-we-cloning-photoshop-52e6e165eef7",
       "source": "UX Collective",
       "published_iso": "2026-11-11T22:20:42Z",
-      "excerpt": "AI has made professional tools cheap to rebuild, as the AI-built open-source Photoshop clone PhotoCraft shows. The author argues designers are missing a bigger opportunity than cloning legacy interfaces.",
+      "excerpt": "AI makes it easy to recreate professional creative tools; the author argues the bigger opportunity is new tool paradigms rather than vibe-coded Photoshop clones.",
       "og_image": "https://cdn-images-1.medium.com/max/1024/1*Xh48AEBSG8maSKJqeuFfvQ.png",
       "history_match": {
-        "score": 0.164,
+        "score": 0.183,
         "date": "2026-11-02",
         "url": "https://the-decoder.com/adobe-is-testing-how-well-ai-agents-can-use-editing-tools-like-a-photoshop-professional-would/",
         "title": "Adobe is testing how well AI agents can use editing tools like a Photoshop professional would",
@@ -190,31 +120,72 @@
       }
     },
     {
-      "category": "workflow",
-      "title": "The AI mind tax that afflicts those who use AI best",
-      "url": "https://uxdesign.cc/the-ai-mind-tax-that-afflicts-those-who-use-ai-best-3eb67ff167d0",
-      "source": "UX Collective",
-      "published_iso": "2026-11-12T11:14:40Z",
-      "excerpt": "For the heaviest AI users, managing a dozen unconnected AI tools has become a second job, and an exhausting one. The piece looks at how creative workers keep their judgment sharp.",
-      "og_image": "https://cdn-images-1.medium.com/max/1024/1*mpKLeeSQBl3g1GK2Hb3P3w.jpeg"
+      "category": "vr",
+      "title": "Designing for privacy on intelligent eyewear",
+      "url": "https://blog.google/innovation-and-ai/technology/safety-security/intelligent-eyewear-privacy-protections/",
+      "source": "Google",
+      "published_iso": "2026-11-12T14:00:00Z",
+      "excerpt": "Google details the privacy-by-design protections built into its Gemini-powered intelligent eyewear (Android XR glasses). Note: the eyewear lineup itself already ran in gadgets — this is the design/privacy angle only.",
+      "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Banner_bnCZOSz.width-1300.png"
     },
     {
-      "category": "vr",
-      "title": "Android XR Glasses from Warby Parker & Gentle Monster Coming Dec. 10th, Pre-orders Now Live",
-      "url": "https://roadtovr.com/android-xr-warby-parker-gentle-monster-release-date-price/",
-      "source": "Road to VR",
-      "published_iso": "2026-11-12T13:59:00Z",
-      "excerpt": "Gentle Monster and Warby Parker will ship their first Android XR smart glasses, built with Samsung and Google and running Gemini, on December 10. Pre-orders are open now.",
-      "og_image": "https://roadtovr.com/wp-content/uploads/2026/11/android-xr-glasses.jpg"
+      "category": "workflow",
+      "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
+      "source": "Google",
+      "published_iso": "2026-11-11T16:00:00Z",
+      "excerpt": "Google Labs' Tabletop lets groups describe a custom collaborative app — itineraries, polls, brackets — and an AI canvas builds it as a shared multiplayer space; waitlist open.",
+      "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/labs_tabletop_blog_image_2784x1566.max-1440x810.jpg"
+    },
+    {
+      "category": "workflow",
+      "title": "Introducing Gemini 4 Hydrogen",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+      "source": "Google DeepMind",
+      "published_iso": "2026-11-12T18:00:50Z",
+      "excerpt": "Google DeepMind's Gemini 4 Hydrogen is a fast 'daily driver' for agentic workflows and everyday coding, built to pair with Carbon and Argon in multi-model workflows via a new orchestration layer.",
+      "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-hydrogen__key-art__lockup__16-9.width-1300.jpg"
+    },
+    {
+      "category": "social",
+      "title": "Config India 2026: Designing for intelligent work: inside Microsoft Copilot's new chapter",
+      "url": "https://www.youtube.com/watch?v=cMi4W1OeR7s",
+      "source": "Figma (YouTube)",
+      "published_iso": "2026-11-12T14:46:22-08:00",
+      "excerpt": "Drawing on two years designing Microsoft Copilot for Windows and macOS, the talk covers why performance became a design decision, how chat, work, code and agents converged into one product, and the design system behind it.",
+      "og_image": "https://i.ytimg.com/vi/cMi4W1OeR7s/maxresdefault.jpg",
+      "history_match": {
+        "score": 0.195,
+        "date": "2026-11-12",
+        "url": "https://www.youtube.com/watch?v=3EbdkzGwL7c",
+        "title": "Config India 2026: What changed when designers started shipping code",
+        "band": "related"
+      }
+    },
+    {
+      "category": "social",
+      "title": "Config India 2026: Better together: from handoff to handshake",
+      "url": "https://www.youtube.com/watch?v=boZ85l-ShJM",
+      "source": "Figma (YouTube)",
+      "published_iso": "2026-11-13T10:19:33-08:00",
+      "excerpt": "With AI putting prototyping in PMs' and engineers' hands, Atlassian shows how one team reworked the design-to-build path so the intent agreed on day one survives scattered AI-generated prototypes.",
+      "og_image": "https://i.ytimg.com/vi/boZ85l-ShJM/maxresdefault.jpg",
+      "history_match": {
+        "score": 0.179,
+        "date": "2026-11-12",
+        "url": "https://www.youtube.com/watch?v=3EbdkzGwL7c",
+        "title": "Config India 2026: What changed when designers started shipping code",
+        "band": "related"
+      }
     },
     {
       "category": "render",
-      "title": "Unreal Engine 5.9 divides game devs with an AI-heavy update",
-      "url": "https://www.creativebloq.com/news/unreal-engine-5-9-divides-game-devs-with-an-ai-heavy-update",
-      "source": "Creative Bloq",
-      "published_iso": "2026-11-10T15:00:00Z",
-      "excerpt": "Epic's Unreal Engine 5.9 preview leans heavily on AI agents ('Invite your agents'), which has split game developers and 3D artists.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/G8ruCeku9ULXiWuMLjkVNB-1920-80.jpg"
+      "title": "Adobe's AI experiments let you walk around in photos and interview your characters",
+      "url": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
+      "source": "The Verge",
+      "published_iso": "2026-11-11T14:00:00+00:00",
+      "excerpt": "The Verge rounds up Adobe MAX 2026 Sneaks — experimental AI tools including stepping inside a still photo as a navigable 3D space and 'interviewing' generated characters. Note: Adobe MAX umbrella ran 11-11; this is the Sneaks-only angle.",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Adobe-Project-Screen-Test.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
     },
     {
       "category": "render",
@@ -222,87 +193,22 @@
       "url": "https://www.creativebloq.com/features/so-what-are-the-best-ai-video-generators-and-how-do-they-compare-on-price",
       "source": "Creative Bloq",
       "published_iso": "2026-11-11T20:00:00Z",
-      "excerpt": "Creative Bloq compares the leading AI video generators on capability and price to help creatives choose a tool.",
-      "og_image": null
-    },
-    {
-      "category": "figma",
-      "title": "Lovable vs Figma Make: Who Keeps the Code?",
-      "url": "https://dev.to/batmanofweb/lovable-vs-figma-make-who-keeps-the-code-10ia",
-      "source": "DEV Community",
-      "published_iso": "2026-11-11T00:07:58Z",
-      "excerpt": "A November 2026 comparison of Lovable and Figma Make: seats and AI credits, figma.site publishing, a key-value backend versus Postgres, and Figma Make's one-way GitHub push.",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fidir3z0g5ynmy86prq0f.png"
-    },
-    {
-      "category": "render",
-      "title": "Google's Gemini 4 Hydrogen outscores the bigger Argon just four weeks after its launch",
-      "url": "https://the-decoder.com/googles-gemini-4-hydrogen-outscores-the-bigger-argon-just-four-weeks-after-its-launch/",
-      "source": "The Decoder",
-      "published_iso": "2026-11-12T19:58:43Z",
-      "excerpt": "Gemini 4 Hydrogen replaces Google's Flash series and nearly matches Claude Sonnet 5.5 on the Artificial Analysis index for less money. It's now available in Google AI Studio and on Vercel's AI Gateway for agentic coding and app building.",
-      "og_image": "https://the-decoder.com/wp-content/uploads/2026/10/gemini_logo-2.png",
-      "history_match": {
-        "score": 0.164,
-        "date": "2026-11-10",
-        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-google-maps-platform-ai-studio/",
-        "title": "Developers can now build with Google Maps Platform in AI Studio",
-        "band": "related"
-      }
-    },
-    {
-      "category": "workflow",
-      "title": "More game developers are starting to use generative AI",
-      "url": "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs",
-      "source": "The Verge",
-      "published_iso": "2026-11-12T17:00:00Z",
-      "excerpt": "The GDC Festival of Gaming's annual survey shows generative-AI use rising among game developers, highest at free-to-play (58%) and mobile-only studios (70%), even as many indie developers push back against the technology.",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/55145037587_ac59503045_k.jpg?quality=90&strip=all&crop=0%2C10.723395278369%2C100%2C78.553209443262&w=1200"
+      "excerpt": "Creative Bloq compares the top five AI video generators for creatives on the hidden costs behind their pricing — credits, resolution tiers and usable output per dollar.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/SATszKasT2s5mVyDk4ACK4-1920-80.jpg"
     }
   ],
   "dedup": {
     "dropped": 0,
-    "kept": 22,
+    "kept": 16,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
     "dropped": [],
-    "review": 8,
-    "same_story_pairs": [
-      [
-        "https://www.framer.com/updates/image-shader-generation",
-        "https://www.youtube.com/watch?v=G9O1Ex3EXno",
-        0.679
-      ]
-    ]
+    "review": 7,
+    "same_story_pairs": []
   },
   "history_digest": [
-    {
-      "date": "2026-10-14",
-      "title": "All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark",
-      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/"
-    },
-    {
-      "date": "2026-10-14",
-      "title": "Nvidia launches USD BRep geometry kernel for solid modelling",
-      "url": "https://develop3d.com/cad/nvidia-launches-usd-brep-geometry-kernel-for-solid-modelling/"
-    },
-    {
-      "date": "2026-10-14",
-      "title": "Higgsfield takes AI video from 1 minute to over 10",
-      "url": "https://openai.com/index/higgsfield-longer-videos-voice"
-    },
-    {
-      "date": "2026-10-14",
-      "title": "Now AI isn't just faking art, it's faking artists' signatures as well",
-      "url": "https://www.creativebloq.com/news/now-ai-isnt-just-faking-art-its-faking-artists-signatures-as-well"
-    },
-    {
-      "date": "2026-10-14",
-      "title": "Google will let you distribute vibe-coded Android apps with just a Google account",
-      "url": "https://www.engadget.com/2282824/google-lets-anyone-upload-android-apps-to-play-store-via-ai-studio/"
-    },
     {
       "date": "2026-10-15",
       "title": "Spectral Labs builds 'Turing Test for AI CAD'",
@@ -972,6 +878,31 @@
       "date": "2026-11-12",
       "title": "Config India 2026: What changed when designers started shipping code",
       "url": "https://www.youtube.com/watch?v=3EbdkzGwL7c"
+    },
+    {
+      "date": "2026-11-13",
+      "title": "Rhino World 2026: McNeel lets AI in",
+      "url": "https://aecmag.com/cad/rhino-world-2026-mcneel-lets-ai-in/"
+    },
+    {
+      "date": "2026-11-13",
+      "title": "5 new Google Flow Tools designed by visual artists",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/new-google-flow-tools/"
+    },
+    {
+      "date": "2026-11-13",
+      "title": "Should You Actually Add AI To That? A Four-Question Audit For Product Teams",
+      "url": "https://smashingmagazine.com/2026/11/should-you-add-ai-audit-product-teams/"
+    },
+    {
+      "date": "2026-11-13",
+      "title": "Framer Updates: Image and Shader Generation",
+      "url": "https://www.framer.com/updates/image-shader-generation"
+    },
+    {
+      "date": "2026-11-13",
+      "title": "KT, 앱 디자인부터 고객 안내 문구까지 AI 적용…'KDS 2.0' 구축",
+      "url": "https://www.inthenews.co.kr/news/article.html?no=94443"
     }
   ]
 }

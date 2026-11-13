@@ -11748,6 +11748,141 @@
           "x": "Bytedance asegura que Seedream 5.5 supera a modelos como GPT Image 2.5 Sunburst en estructura de texto y realismo. El modelo se está desplegando de forma gradual en Jimeng, Doubao, Doubao Work y Volcengine Ark. Está prevista una versión Pro."
         }
       ]
+    },
+    "design/keyshot-studio-20263-agent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.keyshot.com/wp-content/uploads/2026/11/KS_2026-3_NEW-HEADER.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Menos configuración, más renderizado: ese es el lema de KeyShot Studio 2026.3. Esta versión integra un AI Agent dentro de Studio, ofrece a cada usuario almacenamiento personal en la nube y facilita mucho crear y organizar variaciones de producto."
+        },
+        {
+          "t": "video",
+          "yt": "SD55TezMaKQ"
+        },
+        {
+          "t": "p",
+          "x": "El nuevo AI Agent está integrado en KeyShot Studio. Basta con describir en lenguaje sencillo el aspecto que se busca para que ajuste materiales, iluminación, cámaras y entornos. El Agent puede usar la mayoría de las herramientas de Studio, de modo que se encarga de la configuración mientras el usuario se centra en el diseño. El AI Agent funciona en la nube y consume créditos de KeyShot."
+        },
+        {
+          "t": "p",
+          "x": "Con Personal Cloud Storage, cada usuario de KeyShot obtiene su propio espacio en la nube, y los revisores sin KeyShot pueden ver escenas compartidas en KeyShot Explorer (ahora en beta). KeyShot Studio Enterprise añade SSO personalizado y MFA obligatorio. Part Variations hace que las variaciones geométricas sean tan sencillas como las de material, y Studio Groups organiza los estudios en carpetas. La versión también actualiza los importadores de CAD y los plugins."
+        }
+      ]
+    },
+    "design/google-a2ui-v1-stable": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Hoy, la interacción de los usuarios con los agentes está donde estaba la informática en la era de la terminal: son capaces, pero responden casi todo con texto. Google lanza A2UI 1.0, la primera versión estable de su protocolo abierto para UI generativa. Permite que los agentes de AI respondan con pantallas interactivas, como un formulario para confirmar o un gráfico."
+        },
+        {
+          "t": "video",
+          "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/original_videos/A2UI_1.0_sick_day_three_ways_2.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Con A2UI, el agente describe qué mostrar y cada app dibuja la UI con sus propios componentes nativos. Los agentes usan su sistema de diseño y nada más. Los desarrolladores ya pueden usarlo con SDKs de renderizado de código abierto para web, Android e iOS, y SDKs de agente para Python, TypeScript y Dart. La versión 1.0 añade llamadas a funciones bidireccionales, además de compatibilidad con accesibilidad y extensiones."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/06_atlassian_jira.original.png",
+          "cap": "Un agente pide al equipo un seguimiento dentro de una tarea de Jira."
+        },
+        {
+          "t": "p",
+          "x": "Empresas como Atlassian, Alation, Bloomberg y ByteDance ya están desarrollando con él. Atlassian llevará A2UI a Jira, y el feed de Alation se muestra en Claude mediante A2UI."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/07_alation.original.png",
+          "cap": "El mismo feed de Alation mostrado en Claude (izquierda) y en la Data Products App de Alation (derecha)."
+        },
+        {
+          "t": "p",
+          "x": "Dentro de Google, Gemini Notebook usa tarjetas A2UI para preparar presentaciones de diapositivas, y Gemini muestra respuestas A2UI de los propios agentes de las organizaciones. La compatibilidad de Jetpack Compose con la 1.0 llegará pronto."
+        }
+      ]
+    },
+    "design/hf-trellis2-lora-guide": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/3d-lora-finetuning/sole_orbit_base_vs_lora.gif"
+        },
+        {
+          "t": "p",
+          "x": "Hugging Face ofrece scripts y contenedores de fine-tuning para hacer LoRA-fine-tune de TRELLIS.2, un popular modelo 3D de tipo image-to-3D, con tus propios assets 3D, que pueden ejecutarse tanto en local como en Hugging Face Jobs."
+        },
+        {
+          "t": "p",
+          "x": "Un modelo de propósito general (general-purpose) puede equivocarse en detalles importantes para una aplicación concreta. El equipo usó un subconjunto de Google Scanned Objects con 188 objetos de calzado: el modelo preentrenado solía generar zapatos de aspecto correcto, pero con suelas incorrectas."
+        },
+        {
+          "t": "img",
+          "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/3d-lora-finetuning/pipeline_lr.png",
+          "cap": "Pipeline de TRELLIS.2"
+        },
+        {
+          "t": "p",
+          "x": "Los adaptadores LoRA se añaden solo al sparse-structure flow DiT y al shape flow DiT, que controlan la forma y la geometría del objeto; el texture flow DiT queda congelado. La configuración entrena en total unos 9.3 millones de parámetros de adaptador."
+        },
+        {
+          "t": "img",
+          "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/3d-lora-finetuning/heldout_meshes.png"
+        },
+        {
+          "t": "p",
+          "x": "En nueve objetos held-out, el modelo base obtiene un F-score medio de 0.276, frente a 0.803 del modelo con los adaptadores de calzado. La Chamfer distance baja de 0.174 a 0.033 y la normal consistency sube de 0.530 a 0.804."
+        }
+      ]
+    },
+    "design/google-labs-tabletop-canvas": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "8upa4JZir3I"
+        },
+        {
+          "t": "p",
+          "x": "Ya sea para planificar un viaje familiar, organizar una liga recreativa o preparar una comida compartida, coordinarse en grupo es más fácil cuando todos pueden colaborar, construir y decidir juntos en un solo lugar."
+        },
+        {
+          "t": "p",
+          "x": "Hoy presentamos Tabletop, un nuevo experimento de Google Labs creado para la colaboración en tiempo real."
+        },
+        {
+          "t": "p",
+          "x": "Solo hay que añadir enlaces, archivos e ideas y luego escribir un prompt a @tabletop —o elegir una plantilla inicial— para generar itinerarios de viaje interactivos personalizados, encuestas para la cena, calculadoras de gastos compartidos y cuadros de torneos. Cuando el espacio esté listo, basta con compartir el enlace de invitación en el chat del grupo para que todos entren y lo usen a la vez, como en un Google Doc."
+        },
+        {
+          "t": "p",
+          "x": "Tabletop se está desplegando en U.S. (18+) mediante lista de espera. Tome asiento y regístrese en labs.google/tabletop."
+        }
+      ]
+    },
+    "design/framer-agent-shaders": {
+      "blocks": [
+        {
+          "t": "video",
+          "src": "https://framerusercontent.com/assets/Iw5LhjPbn3iGV8Pg34gm34pSKmQ.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Framer presenta la generación de imágenes y los shaders generados. Puedes pedir al Agent una imagen, textura o ilustración personalizada que encaje con tu sitio. También puedes soltar una imagen en el chat o seleccionar una en el lienzo y pedir al Agent que cambie el sujeto, elimine el fondo o le dé otro estilo."
+        },
+        {
+          "t": "p",
+          "x": "Los shaders funcionan igual. Pide al Agent un shader, como halftone, desenfoque bokeh, CRT o efecto de lápiz, o describe un efecto concreto que hayas visto en internet, como “difuminar una imagen al arrastrar el puntero”. También puede ajustar un shader de Framer que ya esté en el lienzo."
+        },
+        {
+          "t": "p",
+          "x": "La generación de imágenes y la de shaders también funcionan juntas. El Agent puede generar una imagen y usarla como entrada de un shader de imagen, por ejemplo uno que la convierte en un dibujo a pluma con una mancha de tinta al mover el ratón."
+        }
+      ]
     }
   }
 }

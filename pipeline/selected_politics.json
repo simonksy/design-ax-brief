@@ -1,96 +1,101 @@
 {
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "section": "politics",
   "items": [
     {
+      "title": "Doctors want liability shield from AI mistakes",
+      "url": "https://www.axios.com/2026/11/13/doctors-ai-mistakes-liability-shield",
+      "source": "Axios",
+      "published_iso": "2026-11-13T10:30:08Z",
+      "og_image": "https://images.axios.com/UGhAq1_gsT5ZluDlIyxxjbXh0YQ=/0x0:1920x1080/1920x1080/2026/11/12/1794506966317.jpeg",
+      "excerpt": "The American Medical Association adopted policy calling for federal and state legislation shielding physicians from liability when AI products injure patients despite intended use, and for laws requiring AI vendors to carry liability insurance and disclose performance data.",
+      "category": "politics",
       "tool": "Politics",
       "accent": "#3b6bff",
       "motif": "cube",
-      "title": "Advocacy groups sue AI giants to freeze new models, warning of 'catastrophic' risks",
-      "url": "https://apnews.com/article/artificial-intelligence-ai-lawsuit-cyberattacks-anthropic-openai-03ece37b96979fe834f60976648504ba",
-      "source": "AP News",
-      "published_iso": "2026-11-12T15:00:30Z",
-      "og_image": "https://dims.apnews.com/dims4/default/4e44ba9/2147483647/strip/true/crop/4662x3108+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F30%2F0e%2Fef26d3feddcef8b768b205a106a9%2F4fd0f97a72934b7eb0c5305851250919",
-      "excerpt": "A coalition of online safety and consumer advocacy groups has sued five leading AI companies in a California state court, asking it to halt further development of advanced AI systems they say pose 'imminent and catastrophic risks'.",
-      "rationale": "New court filing seeking to halt frontier-model development at five labs; a liability case that could directly constrain AI builders. Policy/litigation axis."
+      "rationale": "Policy/liability axis: AMA formally adopted a legislative ask that would shift AI-injury liability onto vendors (insurance + performance disclosure) — concrete new position, assigned to politics only."
     },
     {
+      "title": "Court allows news publishers' copyright lawsuit against OpenAI to go ahead",
+      "url": "https://www.thestar.com/business/court-allows-news-publishers-copyright-lawsuit-against-openai-to-go-ahead/article_5e78ecd0-e974-554c-a739-662e0f68b658.html",
+      "source": "Toronto Star (The Canadian Press)",
+      "published_iso": "2026-11-13T16:18:56-05:00",
+      "og_image": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/51/f51e80ab-0b99-5f6b-8c7b-437afbea9a48/6af77f04d5d17.image.jpg",
+      "excerpt": "The Ontario Court of Appeal dismissed OpenAI's appeal of a jurisdiction ruling, letting Canadian news publishers' copyright suit over ChatGPT training proceed in Ontario rather than a U.S. court.",
+      "category": "politics",
       "tool": "Politics",
       "accent": "#0070f3",
       "motif": "cube",
-      "title": "United Kingdom-Norway Joint Statement of intent on Artificial Intelligence",
-      "url": "https://www.gov.uk/government/news/united-kingdom-norway-joint-statement-of-intent-on-artificial-intelligence",
-      "source": "GOV.UK",
-      "published_iso": "2026-11-12T16:16:04+00:00",
-      "og_image": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
-      "excerpt": "Primary document: the UK and Norway sign a joint statement of intent to deepen AI cooperation, covering compute, defence, AI security and international governance.",
-      "rationale": "Primary government release of a new bilateral AI pact covering compute, defence and AI security. Sovereign-AI/geopolitics axis."
+      "rationale": "Copyright litigation axis: an appellate ruling (11-13) keeps a training-data copyright suit in Canadian courts; off-list outlet accepted as CP wire of a primary ruling — note the Star is a plaintiff, writer should attribute neutrally."
     },
     {
+      "title": "Indonesia's new copyright bill would force Google and Meta to pay to aggregate news",
+      "url": "https://www.niemanlab.org/2026/11/indonesias-new-copyright-bill-would-force-google-and-meta-to-pay-to-aggregate-news/",
+      "source": "Nieman Lab",
+      "published_iso": "2026-11-12T16:52:25-05:00",
+      "og_image": "https://www.niemanlab.org/images/Indonesian-Parliament-building.jpg",
+      "excerpt": "Meta, TikTok and Google testified in Indonesia's parliament against a copyright bill that would make platforms pay publishers for previews, including in AI search products, and when journalism is used to train AI models — which would make Indonesia the first Southeast Asian country to fold AI into copyright law.",
+      "category": "politics",
       "tool": "Politics",
       "accent": "#7928ca",
       "motif": "cube",
-      "title": "\"미, 중국 AI 칩 '동남아 우회로' 차단 추진\" — 싱가포르·말레이시아 등 7개국 수출허가 대상",
-      "url": "https://www.yna.co.kr/view/AKR20261112121900009",
-      "source": "연합뉴스",
-      "published_iso": "2026-11-12T14:45:28+09:00",
-      "og_image": "https://img0.yna.co.kr/photo/etc/af/2026/11/10/PAF20261110169301009_P4.jpg",
-      "excerpt": "The Information 보도에 따르면 미 상무부 BIS가 중국 기업의 제3국 데이터센터 경유 원격 AI 칩 사용을 막기 위해 싱가포르·말레이시아·태국·인도네시아·브라질·노르웨이·남아공 7개국에 블랙웰급 이상 칩 수출허가 의무를 적용하는 규정을 마무리 중이며, 이르면 이달 발표될 수 있다. (보도 기반, 규정 미공표)",
-      "rationale": "A new export-control rule (license requirement for 7 countries) being finalized by BIS; distinct from the Nvidia/Huang running story. Attribute to The Information; rule not yet published. Chip-export axis."
+      "rationale": "Bill axis: a pending national copyright bill that would require payment for AI training and AI-search previews — first in Southeast Asia; new jurisdiction, not covered before."
     },
     {
+      "title": "말레이, 앨리스 황 근무 메가스피드 자회사 AI반도체 유출 조사",
+      "url": "https://www.yna.co.kr/view/AKR20261113115800104",
+      "source": "연합뉴스",
+      "published_iso": "2026-11-13T15:17:04+09:00",
+      "og_image": "https://img5.yna.co.kr/photo/etc/af/2026/11/12/PAF20261112269501009_P4.jpg",
+      "excerpt": "말레이시아 투자통상산업부가 메가스피드 인터내셔널의 자회사 스피드매트릭스가 첨단 AI 반도체를 다른 국가로 유출했는지 공식 조사에 착수했다고 밝혔다.",
+      "category": "politics",
       "tool": "Politics",
       "accent": "#2ec5c5",
       "motif": "cube",
-      "title": "EU watchdog probes Commission's AI pick over conflict of interest concerns",
-      "url": "https://www.politico.eu/article/eu-watchdog-commission-ai-pick-conflict-of-interest-concerns/",
-      "source": "POLITICO Europe",
-      "published_iso": "2026-11-10T16:02:55+00:00",
-      "og_image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/11/10/GettyImages-1246946570-scaled.jpg",
-      "excerpt": "The European Ombudsman opened an inquiry and will inspect Commission documents over the appointment of Jim Hagemann Snabe as EU AI envoy.",
-      "rationale": "Formal Ombudsman inquiry into the EU's AI envoy appointment: a new official action on who steers EU AI policy. Governance axis."
+      "rationale": "Geopolitics axis: the only Nvidia/Megaspeed saga item carrying a new official action — Malaysia's trade ministry opened a formal investigation; the saga is limited to this one card today."
     },
     {
+      "title": "Whitehall to increase face-to-face job interviews after surge in AI applications",
+      "url": "https://www.politico.eu/article/whitehall-increase-in-person-job-interviews-after-ai-applications/",
+      "source": "POLITICO Europe",
+      "published_iso": "2026-11-13T15:00:00+00:00",
+      "og_image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/11/13/iStock-2249077406-scaled.jpg",
+      "excerpt": "In the most extreme cases, civil service leaders suspect that entire applications — including interviewees on a video calls — were generated by AI.",
+      "category": "politics",
       "tool": "Politics",
-      "accent": "#eb367f",
+      "accent": "#ff5a4d",
       "motif": "cube",
-      "title": "Police investigate 219 cases involving election deepfakes, misinformation",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/12/2003867622",
-      "source": "Taipei Times",
-      "published_iso": "2026-11-12T00:00:00+08:00",
-      "og_image": "https://img.taipeitimes.com/images/2026/11/12/6af52f97d911a.jpg",
-      "excerpt": "Taiwan's Criminal Investigation Bureau has investigated 219 election-related misinformation and deepfake cases ahead of the November vote, referring 176 people in 134 cases to prosecutors.",
-      "rationale": "Concrete law-enforcement action on election deepfakes (176 people referred to prosecutors) ahead of Taiwan's vote. Elections axis; off-list exception, no on-list outlet carried it."
+      "rationale": "Policy axis (government rules on AI use): the UK civil service is changing its recruitment process — more in-person interviews — in direct response to AI-generated applications; delete AI and there is no story. Writer should attribute the 'entire applications generated by AI' suspicion to civil service leaders, not assert it."
     }
   ],
   "dedup": {
     "checks": {
-      "https://apnews.com/article/artificial-intelligence-ai-lawsuit-cyberattacks-anthropic-openai-03ece37b96979fe834f60976648504ba": {
+      "https://www.axios.com/2026/11/13/doctors-ai-mistakes-liability-shield": {
         "verdict": "new",
-        "nearest": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+        "nearest": "",
         "new_action": ""
       },
-      "https://www.gov.uk/government/news/united-kingdom-norway-joint-statement-of-intent-on-artificial-intelligence": {
+      "https://www.thestar.com/business/court-allows-news-publishers-copyright-lawsuit-against-openai-to-go-ahead/article_5e78ecd0-e974-554c-a739-662e0f68b658.html": {
         "verdict": "new",
-        "nearest": "https://www.rapporteur.com/news/norway-suspends-electricity-grid-access-for-new-data-centres/",
+        "nearest": "https://www1.folha.uol.com.br/internacional/en/business/2026/11/court-bars-meta-from-using-news-articles-to-train-ai-in-brazil.shtml",
         "new_action": ""
       },
-      "https://www.yna.co.kr/view/AKR20261112121900009": {
+      "https://www.niemanlab.org/2026/11/indonesias-new-copyright-bill-would-force-google-and-meta-to-pay-to-aggregate-news/": {
         "verdict": "new",
-        "nearest": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+        "nearest": "",
         "new_action": ""
       },
-      "https://www.politico.eu/article/eu-watchdog-commission-ai-pick-conflict-of-interest-concerns/": {
-        "verdict": "new",
-        "nearest": "https://www.politico.eu/article/eu-countries-still-cant-get-it-together-on-ai/",
-        "new_action": ""
+      "https://www.yna.co.kr/view/AKR20261113115800104": {
+        "verdict": "follow-up",
+        "nearest": "https://www.yna.co.kr/view/AKR20261112121900009",
+        "new_action": "Malaysia's Ministry of Investment, Trade and Industry opened a formal investigation into Megaspeed subsidiary Speedmatrix over diversion of advanced AI chips (new government investigation, distinct from the US SE-Asia licensing move of 11-13 and the 11-07 congressional summons)."
       },
-      "https://www.taipeitimes.com/News/taiwan/archives/2026/11/12/2003867622": {
+      "https://www.politico.eu/article/whitehall-increase-in-person-job-interviews-after-ai-applications/": {
         "verdict": "new",
-        "nearest": "https://www.policeconduct.gov.uk/news/iopc-investigating-officers-use-ai-criminal-investigations",
+        "nearest": "https://www.politico.eu/article/roberta-metsola-tells-meps-not-to-rely-on-ai-when-drafting-laws/",
         "new_action": ""
       }
     },
-    "note": "Dropped as follow-ups on running stories with no new official action: MIT TR Nvidia chip-tracking (extra reporting on Chip Security Act / Huang story, 11-07), Axios Lutnick/Trump and Axios Bessent/Lutnick scoops (cluster c2; sourced reporting on the Nvidia-China story, 11-08), WIRED Huang resignation (exec move on the same running story), POLITICO EU Virkkunen 'trusted partners' (comment on the Nvidia crisis), Poynter $187M AI ads (post-election analysis continuing the 10-19 Gizmodo $137M story), Verge data-center critics (follow-up to the 11-05 ballot-measure story), Guardian NHS/Palantir claim deletion (running Palantir-NHS story, 11-10). Excluded by brief: Tech Policy Press amicus roundup (assigned to books). Not picked on score: Verge Yahoo/ILC licensing (industry licensing, weak politics axis), Rapporteur France defence AI centre and Adobe style-mimicry (page Cloudflare-gated), IAPP Greece (member analysis), Guardian OfS coursework, Guardian public-sector unions, Ars Gemini schools protests, Yonhap Korea-UN disarmament meeting, TechLabari Kenya bill (off-list). Outlets: 5 distinct, 1 each. Cross-section check against published_urls.json was not exhaustive (no grep tool in this agent); none of the picks are expected in other sections."
+    "note": "Nvidia/Huang/Megaspeed saga capped at 1 card (Malaysia probe). Dropped: BBC Huang summons (likely-repeat of 11-07 Ars summons); Taipei Times 'Congress eyes curbs' (same cluster c0, Speaker remarks, no bill/decision); Axios Bessent-Lutnick (statements, no decision); Register Blackwell claims (private researcher's allegation, no official action); MIT TR chip tracking and Rest of World Huang exit (analysis/extra reporting); Yonhap Korea govt emergency check (reaction meeting reaffirming supply, no new decision); POLITICO 'Huang fall exposes EU' and Tech Policy Press US-China dialogue (commentary). Dublin summit: SWAPPED OUT post-enrichment — POLITICO piece is mostly about the EU Ukraine-talks deal and fails the delete-AI-from-headline test (no adopted AI text); Taipei Times copy is the same story, also excluded. Replacement: POLITICO Whitehall in-person interviews (UK civil service recruitment change driven by AI-generated applications; no prior coverage in 30-day history — nearest is Metsola/MEPs AI drafting guidance 11-05, a different institution and action). Korean PM-office smart-glasses exam statement dropped as running story (published 11-08, 11-10). Commentary/analysis dropped: Guardian public workers, Ars Gemini schools calls, CSET kill switches, TPP autonomous killing op-ed. Cross-section: AMA liability assigned to politics per brief; published_urls.json too large to read fully in this agent (no grep tool) — orchestrator should exact-grep the 5 URLs before roll."
   }
 }

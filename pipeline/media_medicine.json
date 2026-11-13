@@ -1,31 +1,7 @@
-{
-  "date": "2026-11-13",
-  "section": "medicine",
-  "media": [
-    {
-      "id": "doximity-cds-survey-63pct",
-      "type": "image",
-      "src": "pipeline/media/doximity-cds-survey-63pct.jpg"
-    },
-    {
-      "id": "medicare-wiser-ai-priorauth-docs",
-      "type": "image",
-      "src": "pipeline/media/medicare-wiser-ai-priorauth-docs.jpg"
-    },
-    {
-      "id": "fda-cms-states-healthai-oversight",
-      "type": "image",
-      "src": "pipeline/media/fda-cms-states-healthai-oversight.jpg"
-    },
-    {
-      "id": "jama-ai-interventional-trials-ctgov",
-      "type": "image",
-      "src": "pipeline/media/jama-ai-interventional-trials-ctgov.jpg"
-    },
-    {
-      "id": "npj-cancer-persistent-fever-ml",
-      "type": "image",
-      "src": "pipeline/media/npj-cancer-persistent-fever-ml.jpg"
-    }
-  ]
-}
+{"date":"2026-11-14","section":"medicine","media":[
+ {"id":"bracco-uptunity-aneurysm","type":"image","src":"pipeline/media/bracco-uptunity-aneurysm.jpg"},
+ {"id":"npj-ai-malfunction-oversight","type":"image","src":"pipeline/media/npj-ai-malfunction-oversight.png"},
+ {"id":"samsung-heidi-ambient-scribe","type":"image","src":"pipeline/media/samsung-heidi-ambient-scribe.jpg"},
+ {"id":"gangwon-public-ai-highway","type":"image","src":"pipeline/media/gangwon-public-ai-highway.jpg"},
+ {"id":"dyania-nvidia-onprem","type":"image","src":"pipeline/media/dyania-nvidia-onprem.jpg"}
+]}

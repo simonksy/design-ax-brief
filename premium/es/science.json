@@ -10992,6 +10992,124 @@
           "x": "Los científicos pueden cargar una instantánea de RNA-seq de célula única de apenas unas decenas de células para predecir efectos de variantes en nuevos estados celulares sin reentrenar el modelo. AlphaGenome y AlphaGenome 2 están destinados únicamente a la investigación."
         }
       ]
+    },
+    "science/deepmind-pardig-satweave": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://lh3.googleusercontent.com/EyHOPdy1RZC6ksZ50GThErLowPjtqkzgITH_CSP2Rh4UbsF4muddzfQ0id_Qro5VhuMNYIg9Sxk8ukt7gFVRbLsC4m47HUj07fAAGbhHm1se-h4N=w1440-h810-n-nu",
+          "cap": "Ilustración abstracta en 3D de un globo terráqueo segmentado por capas de paneles transparentes que muestran distintos conjuntos de datos meteorológicos y climáticos."
+        },
+        {
+          "t": "p",
+          "x": "Google DeepMind publica dos conjuntos de datos fundamentales, SatWeave y PARDIG, para apoyar el desarrollo de aplicaciones meteorológicas, hidrológicas y climáticas. Ambos son clave en los avances de su modelo WeatherNext 3, presentado recientemente, y se ponen a disposición tanto sus archivos históricos como sus flujos en directo."
+        },
+        {
+          "t": "p",
+          "x": "SatWeave es un mosaico global de imágenes de satélites geoestacionarios que combina observaciones de GOES-East y GOES-West, Meteosat y Himawari en 17 canales visibles, de vapor de agua e infrarrojos. Se actualiza cada hora, lo que permite a WeatherNext 3 generar nuevas predicciones globales, a diferencia de los modelos inicializados con datos de análisis que se renuevan cada seis horas; la publicación incluye un archivo histórico de más de una década."
+        },
+        {
+          "t": "video",
+          "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/1JDTJ5D1fR_MbDBa/PARDIG_and_SatWeave__figure-3__mosaic_9620_nm_images.webm"
+        },
+        {
+          "t": "p",
+          "x": "PARDIG (Precipitation AI Reanalysis: Densely Inferred GPM) se entrena con observaciones dispersas del radar espacial del GPM Core Observatory de la NASA y produce datos globales de precipitación con una resolución de 15 minutos y unos 10 kilómetros, con una latencia de unas cinco horas. Mejora en más de un 30% la capacidad de detección horaria de precipitación frente al IMERG-Final de la NASA en precipitaciones de ligeras a moderadas. Los archivos abarcan de 1999 a 2026 y están disponibles en abierto en Google Cloud Storage y en Google Earth Engine."
+        }
+      ]
+    },
+    "science/codex-collider-amplitudes": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://physicsworld.com/wp-content/uploads/2026/11/13-11-26-particle-collision-cern-635x358.jpg",
+          "cap": "Los grandes modelos de lenguaje podrían ofrecer una nueva forma de crear algoritmos para analizar colisiones de partículas de alta energía, como esta registrada con el detector CMS en 2012. (Cortesía: © CERN)"
+        },
+        {
+          "t": "p",
+          "x": "Yi Gu y Sven Krippendorf, de la University of Cambridge, presentan una prueba de concepto, en una prepublicación de arXiv aún no revisada por pares, de que los LLMs pueden usarse como herramienta de búsqueda de nuevos algoritmos para amplitudes de dispersión a nivel árbol. Codex, de OpenAI, propone un programa candidato, un programa de prueba lo evalúa en corrección y eficiencia, y el LLM propone un nuevo candidato: una búsqueda que evoluciona por sí misma."
+        },
+        {
+          "t": "p",
+          "x": "Se probaron tres objetivos: escalado, estructura y complejidad. Cada uno produjo un campeón más rápido que el código semilla. La optimización del escalado encontró un formalismo cuyos costes crecen linealmente con el número de partículas, 805 veces más rápido que la semilla; la prueba de complejidad redujo el número de operaciones en un factor de 48. Ninguna de estas técnicas era nueva."
+        },
+        {
+          "t": "p",
+          "x": "En comparación con Sherpa y MadGraph, el campeón de complejidad, un prototipo independiente en Python, fue más lento que ambos para seis partículas externas. El objetivo era comprobar si una búsqueda AI-driven podía mejorar un algoritmo inicial, no superar a los generadores compilados ya establecidos, y los algoritmos no cubren todo el modelo estándar. Krippendorf afirma que el método funciona cuando una tarea dispone de una comprobación numérica rápida."
+        }
+      ]
+    },
+    "science/tohoku-mlp-copilot-aluminum": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-agents-advance-atom.jpg",
+          "cap": "MLP Copilot conecta el desarrollo de modelos, la validación y la revisión experta. Los agentes de IA organizan el trabajo y las pruebas, mientras los investigadores toman las decisiones científicas y sobre el uso de los modelos. Crédito: PNAS (2026)"
+        },
+        {
+          "t": "p",
+          "x": "Un agente de IA llamado MLP Copilot, desarrollado en la Universidad de Tohoku, conecta herramientas computacionales y evidencia científica bajo supervisión humana para construir modelos de cómo interactúan los átomos. Aprende energías y fuerzas atómicas a partir de cálculos cuánticos, lo que hace viables simulaciones más grandes. El estudio se publicó en PNAS el 15 de octubre de 2026."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-agents-advance-atom-1.jpg",
+          "cap": "Las simulaciones a 1,500 K y 2,000 K muestran cómo los cambios en la capa de óxido afectan al transporte y la oxidación del aluminio. Crédito: PNAS (2026)"
+        },
+        {
+          "t": "p",
+          "x": "Para demostrarlo, el equipo investigó la oxidación de nanopartículas de aluminio. A lo largo de unas 80 iteraciones de aprendizaje activo reunió 88,833 configuraciones atómicas. A temperaturas moderadas, vías temporales a escala nanométrica permitían que la oxidación continuara mientras limitaban el transporte: un \"modo de respiración\". A temperaturas más altas, la ruptura de la capa expuso el núcleo de aluminio al oxígeno y aceleró la oxidación."
+        },
+        {
+          "t": "p",
+          "x": "Los agentes de IA organizaron el conocimiento del proyecto, recuperaron evidencias y apoyaron la planificación de la validación; los investigadores decidieron qué modelos aceptar y cómo interpretar los resultados. El artículo se titula Multi-AI agent framework reveals the \"oxide gatekeeper\" in aluminum nanoparticle oxidation."
+        }
+      ]
+    },
+    "science/concept2brain-eeg-sim": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.psypost.org/wp-content/uploads/2026/06/brainimg-2.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "Unos científicos han desarrollado una herramienta de IA llamada Concept2Brain que predice cómo responden las ondas cerebrales humanas a fotografías o textos escritos. En un estudio publicado en Nature Communications, la plataforma de acceso abierto genera registros sintéticos de EEG que se asemejan a la actividad cerebral real, lo que podría permitir a los investigadores simular experimentos de ondas cerebrales antes de reclutar voluntarios."
+        },
+        {
+          "t": "p",
+          "x": "Se entrenó con el EEG de 88 voluntarios universitarios que veían 360 fotografías. Un autocodificador variacional condicional comprime cada registro de 129 canales en 256 números, y un traductor construido en torno a CLIP, de OpenAI, traslada imágenes o textos a ese resumen. Con fotografías reservadas, las ondas sintéticas coincidieron estrechamente con los registros reales entre unos 100 y 700 milisegundos, y el modelo reprodujo la respuesta facial de 170 ms sin etiquetas de rostros."
+        },
+        {
+          "t": "p",
+          "x": "El autor principal, Alejandro Santos-Mayo, advierte de que los datos sintéticos no pueden sustituir a los datos empíricos recogidos de participantes humanos; las predicciones a partir de texto están menos validadas y la concordancia fue más débil en conjuntos de datos externos."
+        }
+      ]
+    },
+    "science/science-m87-ml-reanalysis": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-fuzy-organge-glowing.jpg",
+          "cap": "Esta imagen del Event Horizon Telescope muestra el agujero negro en el centro de Messier 87, una galaxia masiva del cercano cúmulo de galaxias de Virgo. Crédito: Event Horizon Telescope Collaboration et al. 2019."
+        },
+        {
+          "t": "p",
+          "x": "Un equipo de cuatro personas de CSIRO, la agencia científica nacional de Australia, ha desarrollado una nueva y potente técnica de imagen que validó la histórica imagen de 2019 del Event Horizon Telescope (EHT) del agujero negro en el centro de la galaxia M87. El método, publicado en Nature, reduce los efectos de los errores de calibración y de las decisiones subjetivas en el procesamiento de imágenes."
+        },
+        {
+          "t": "p",
+          "x": "“Nuestro pequeño equipo australiano desarrolló técnicas avanzadas de aprendizaje automático e inteligencia artificial para captar información sobre la estructura del agujero negro y filtrar la interferencia atmosférica”, afirmó el autor principal, el Dr. Samuel Lai. “Cuando la aplicamos al conjunto de datos original del Event Horizon Telescope, encontramos un agujero negro casi idéntico en tamaño y forma a la histórica imagen del EHT. Lo importante es que nuestro modelo no tenía idea de cómo era un agujero negro cuando lo aplicamos a los datos de M87”."
+        },
+        {
+          "t": "p",
+          "x": "El líder del proyecto, el Dr. Nithyanandan Thyagarajan, dijo: “Nuestra técnica combina tripletes en lugar de los pares estándar de datos de telescopio para eliminar esos errores”. Los hallazgos refuerzan la confianza en que el anillo es un rasgo astrofísico real y no un artefacto de la reconstrucción de la imagen."
+        },
+        {
+          "t": "p",
+          "x": "El director de la EHT Collaboration, el Dr. Laurent Loinard, dijo que GenDIReCT, “un método elegante y completamente independiente, recupera la estructura de anillo de M87* a lo largo de varios años, en excelente concordancia con los resultados publicados por la EHT Collaboration”. Thyagarajan señaló que la técnica también podría mejorar las imágenes médicas y la cartografía de terremotos."
+        }
+      ]
     }
   }
 }

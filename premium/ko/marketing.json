@@ -4540,6 +4540,133 @@
           "x": "“마케팅 팀은 수작업 캠페인 운영에서 에이전트 기반 실행으로 옮겨가고 있다”고 AppsFlyer의 Inna Weiner VP Product는 말했다. 가격과 고객 성과, 정식 출시일은 공개하지 않았다."
         }
       ]
+    },
+    "marketing/iab-ai-attribution-blueprint": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.iab.com/wp-content/uploads/2026/11/the-ai-era-attribution-blueprint-2-1024x312.png"
+        },
+        {
+          "t": "p",
+          "x": "Interactive Advertising Bureau(IAB)가 2026년 11월 12일 새 프레임워크 AI-Era Attribution Blueprint를 발표했다. 전환에서 AI가 맡은 역할을 업계 공통 방식으로 분류하고, 어느 쪽이 그 성과를 주장할 수 있는지 평가하는 틀이다. IAB의 2026 Outlook Study: September Update에서 광고 구매자들은 AI-driven 고객 여정을 기존 고객 여정과 비교하는 일을 가장 큰 측정 과제로 꼽았고(45%), 44%는 추적할 수 없는 AI 영향을 가늠하려고 브랜드 검색과 직접 유입 트래픽을 대리 지표로 쓴다."
+        },
+        {
+          "t": "p",
+          "x": "IAB의 AI 담당 VP Caroline Giegerich는 “AI-influenced 매출이 때로 검색이나 직접 유입으로 집계돼, 다음 마케팅 투자가 엉뚱한 채널로 갈 수 있다”고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "Blueprint는 의도를 만들고 결정을 내리고 구매를 마친 주체가 누구인지, 혹은 무엇인지 묻는다. 답에 따라 각 전환은 Human-Owned, AI-Assisted, AI-Executed 중 하나로 나뉜다. 이 경로가 어느 쪽이(해당하는 쪽이 있다면) 결정 기여나 보조 기여를 주장할 자격이 있는지, 주장마다 어떤 증거가 필요한지를 가른다. 주장한다고 곧 성과를 인정받지는 않는다. 성과 인정을 위한 평가를 받을 권리일 뿐이다."
+        },
+        {
+          "t": "p",
+          "x": "필요한 증거 상당수는 수집되지 않았거나 AI 플랫폼 안에 있다. IAB는 브랜드에 경로별 전환 비중을 추정하라고 요구한다. AI 플랫폼은 추천이 유료인지 자연 노출인지 공개하고 AI-originated 트래픽에 일관되게 라벨을 붙여야 한다. 에이전시는 하나의 주장·증거 기준을 적용하고, 퍼블리셔는 자사 콘텐츠가 만드는 보조 기여 주장을 가려내야 한다."
+        }
+      ]
+    },
+    "marketing/schibsted-nodals-ad-algorithms": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.adexchanger.com/wp-content/uploads/2024/10/revenue-sharing-publishers-sundar-pichai-mark-zuckerberg-comic-1024x941.png"
+        },
+        {
+          "t": "p",
+          "x": "Schibsted가 London-based 기업 Nodals AI와 손잡고 Meta 자체 최적화 도구에 끌려간 브랜드를 다시 불러오려 한다. 이 회사는 유럽(Europe)과 미국(US) 퍼블리셔에게 맞춤 광고 최적화 알고리즘을 만들어 준다. Schibsted Marketing Services의 광고 데이터 역량 디렉터 Christer Ljones가 AdExchanger에 밝혔다."
+        },
+        {
+          "t": "p",
+          "x": "월드 가든 플랫폼은 Meta의 Advantage+ 같은 AI-powered 캠페인 최적화 기능으로 광고주를 사로잡았다. 오픈 웹 퍼블리셔로서는 따라잡기 버거웠다. Nodals 창업자 겸 CEO Aly Nurmohamed는 “광고주들은 Meta에 길들여져 ‘돈을 넣으면 얼마가 나오는지’에만 신경 쓰게 됐다”고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "Nodals는 로그인 데이터와 스크롤 깊이, 독자가 콘텐츠나 광고를 클릭하는 빈도 같은 퍼블리셔의 퍼스트파티 데이터를 모델에 넣는다. 그러고는 특정 광고주 기준으로 클릭하고 구매할 가능성이 높은 사람을 예측한다. Schibsted는 지난여름 이 기술을 처음 시험했고 지금은 AI 최적화를 내장한 직판 네이티브 광고 포맷 라인을 새로 만드는 중이다. 가격은 CPM이 아닌 클릭당 비용 기준으로 매긴다."
+        },
+        {
+          "t": "p",
+          "x": "Ljones는 “Meta에 쓰는 비용의 10%를 가져와 보라. 전환 대부분은 그대로 지키면서 [우리에게서] 더 많이 얻을 수 있을 것”이라며 “아직 초기 단계지만 제대로 된 결과가 나오고 있다”고 말했다."
+        }
+      ]
+    },
+    "marketing/buzzvil-prism-ad-engine": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.byline.network/wp-content/uploads/2026/11/buzzvil_20261113.jpg",
+          "cap": "버즈빌, 이용자별 광고 소재 자동 제작하는 AI 엔진 ‘프리즘’ 출시 (출처=버즈빌)"
+        },
+        {
+          "t": "p",
+          "x": "버즈빌이 이용자의 관심사와 구매 단계에 따라 서로 다른 광고를 보여주는 인공지능(AI) 광고 엔진을 선보였다. 같은 브랜드의 동일한 광고 캠페인에서도 이용자별로 상품 추천과 광고 메시지, 참여 방식을 다르게 구성하는 것이 특징이다. 버즈빌은 초개인화 인터랙션 광고 엔진 ‘프리즘(Prism)’을 출시하고, 이달부터 희망 광고주를 대상으로 적용한다고 13일 밝혔다."
+        },
+        {
+          "t": "p",
+          "x": "핵심 기술은 자체 개발한 AI 콘텐츠 제작 시스템 ‘컴포저(Composer)’다. 컴포저는 이용자의 관심 상품과 맥락을 분석해 적합한 광고 메시지를 찾고, 대규모언어모델(LLM)을 활용해 대화형 추천이나 고민 진단 등 참여형 광고 소재를 생성한다."
+        },
+        {
+          "t": "p",
+          "x": "광고주는 브랜드 이미지와 상품 정보를 제공하면 별도 제작 과정 없이 하나의 캠페인에서 1000개 이상의 개인화 소재를 만들 수 있다. 생성된 소재는 금칙어와 사실관계 검수, AI 품질 심사를 거쳐 기준을 충족한 경우에만 송출된다. 프리즘은 이용자 반응을 분석해 성과가 높은 조합의 노출을 늘리는 기능도 제공한다."
+        },
+        {
+          "t": "p",
+          "x": "버즈빌이 뷰티 브랜드와 진행한 인터랙션 광고 캠페인에서는 상품 리뷰를 활용한 광고 소재의 클릭 후 구매 전환율이 기존 카탈로그형 소재보다 3배 높았다. 장바구니 담기 전환율은 7배 높았으며, 광고 클릭부터 구매까지 걸린 시간의 중앙값은 57% 짧았다."
+        },
+        {
+          "t": "p",
+          "x": "이관우 버즈빌 대표는 “광고를 일방적인 메시지가 아닌 이용자 한 명 한 명과 주고받는 경험으로 바꿔 나갈 것”이라고 말했다."
+        }
+      ]
+    },
+    "marketing/ppcland-agent-traffic-meta-openai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/11/human-security-agentic-traffic-october-2026-meta-openai-89-percent-muse-59-percent-two-storefronts-stream.jpg",
+          "cap": "HUMAN 조사에서 10월 AI 에이전트 요청의 89%는 Meta와 OpenAI가 보냈고 Muse 하나가 59%였다"
+        },
+        {
+          "t": "p",
+          "x": "HUMAN Security가 2026년 11월 9일 내놓은 State of Agentic Traffic 벤치마크 2026년 10월호를 보면, HUMAN이 보호하는 사이트에 들어온 이달 에이전트 요청의 89%가 Meta와 OpenAI 몫이었다. Meta의 Muse 하나만 59%를 차지했다. 10월 전체 에이전트 트래픽은 9월의 2.6배, 8월의 약 여덟 배였다."
+        },
+        {
+          "t": "p",
+          "x": "Meta는 2026년 9월 8일 US-only 개인 에이전트로 Muse를 출시했다. OpenAI는 상위 열 개 안에 ChatGPT Agent(15.9%), Codex Browser(8.8%), Codex Chrome 확장 프로그램(5.2%) 세 제품을 올려 합계 약 30%로 두 번째로 많았다. Anthropic의 Claude Chrome 확장 프로그램은 7%에서 3.5%로 반 토막 났다."
+        },
+        {
+          "t": "p",
+          "x": "8월에는 41% 점유율로 에이전트 트래픽 선두였던 Perplexity의 Comet은 10월 3.6%로 내려앉았다. 보고서는 “소비자가 이미 쓰는 플랫폼에 내장된 에이전트로 옮겨 가면서 독립형 소비자 에이전트 브라우저는 힘을 잃고 있다”고 밝혔다."
+        },
+        {
+          "t": "p",
+          "x": "에이전트의 활동은 여전히 탐색에 쏠려 있다. HUMAN 집계로는 요청의 85%가 상품·검색 페이지로 향했고 결제·지불 단계까지 간 요청은 1.9%에 그쳤다. 다만 결제 단계 요청량은 전월보다 117% 늘었다. 보고서는 “에이전트는 아직 구매보다 탐색을 훨씬 많이 한다”며 “그러나 결제 단계에 이르는 에이전트 요청 수는 빠르게 늘고 있다”고 밝혔다. HUMAN의 11월호에는 Black Friday와 Cyber Monday 기간 에이전트 움직임이 담길 예정이다."
+        }
+      ]
+    },
+    "marketing/google-ads-editor-aimax-default": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/size/w2000/2026/11/google-ads-editor-2-14-ai-max-default-new-search-campaigns-prepunched-punch-cards-inspector.jpg",
+          "cap": "Google Ads Editor 2.14는 모든 새 Search 캠페인을 AI Max와 Final URL expansion이 켜진 상태로 시작한다"
+        },
+        {
+          "t": "p",
+          "x": "Google이 캠페인을 대량으로 다루는 무료 데스크톱 앱 Google Ads Editor의 2.14 버전을 내놓았다. 릴리스 노트에 따르면 \"새 Search 캠페인을 만들 때 AI Max, 텍스트 애셋 자동화, Final URL expansion이 이제 기본으로 활성화된다.\" 노트에 게시 날짜는 없다. Search Engine Roundtable은 2026년 11월 12일 이 릴리스를 보도하며 새 기능을 10개로 집계했다."
+        },
+        {
+          "t": "p",
+          "x": "AI Max는 검색어 매칭, 텍스트 맞춤화, Final URL expansion을 묶은 기능이다. 텍스트 맞춤화는 랜딩 페이지와 기존 광고, 키워드를 참고해 광고 제목과 설명을 쓰고, Final URL expansion은 사용자를 같은 도메인의 다른 페이지로 보내기도 한다. Final URL expansion은 텍스트 맞춤화를 켜야만 쓸 수 있다. 이 기능을 켜면 고정해 둔 광고 제목도 지켜지지 않는다."
+        },
+        {
+          "t": "p",
+          "x": "Google은 2026년 9월 기존 확장 검색 캠페인과 자동 생성 애셋 캠페인을 AI Max로 옮기면서 두 그룹 모두 Final URL expansion을 꺼 두었다. Editor 2.14의 새 Search 캠페인은 반대로 이 기능을 켠 채 시작한다."
+        },
+        {
+          "t": "p",
+          "x": "이번 릴리스부터 Editor에서 계정 단위의 신규 고객 확보·유지 설정을 고칠 수 있다. 채널 우선순위 지정과 예산 한도가 새로 들어갔고, Shopping 캠페인에서 지역 인벤토리 광고를 끄는 옵션은 빠졌다."
+        }
+      ]
     }
   }
 }

@@ -1,93 +1,43 @@
 {
   "section": "science",
-  "now_iso": "2026-11-12T22:03:17Z",
+  "now_iso": "2026-11-13T22:03:00Z",
   "window_hours": 336,
   "items": [
     {
-      "title": "New research could lead to faster, trustworthy AI models for climate prediction",
-      "url": "https://news.mit.edu/2026/new-research-could-lead-faster-trustworthy-ai-models-climate-prediction-1112",
-      "source": "MIT News",
-      "category": "science",
-      "published_iso": "2026-11-12T05:00:00Z",
-      "excerpt": "An MIT training technique trains climate emulators on deliberately unrealistic emissions scenarios, boosting accuracy and adaptability to unfamiliar futures while using only a fraction of the usual training data.",
-      "og_image": "https://news.mit.edu/sites/default/files/images/202611/MIT-Climate-Emulation-01.jpg",
-      "group": "physics",
+      "title": "Self-learning AI separates particle jets from background noise in simulated heavy-ion collisions",
+      "url": "https://phys.org/news/2026-11-ai-particle-jets-background-noise.html",
+      "source": "Phys.org",
+      "category": "physics",
+      "published_iso": "2026-11-13T12:40:07-05:00",
+      "excerpt": "Brookhaven National Laboratory (with Columbia and CU Boulder) built an unsupervised generative AI model that subtracts heavy-ion collision background from calorimeter jet images without paired training examples; in simulated sPHENIX data it reconstructed jet position, energy and substructure better than conventional methods (Scientific Reports). Not yet tested on real data.",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/super-intelligence-met.jpg",
       "history_match": {
         "score": 0.174,
-        "date": "2026-11-06",
-        "url": "https://phys.org/news/2026-11-earth-atmosphere-emulators-enable-faster.html",
-        "title": "Earth atmosphere emulators could enable faster and more accurate weather predictions",
+        "date": "2026-11-08",
+        "url": "https://www.ucl.ac.uk/mathematical-physical-sciences/high-energy-physics/reconstruct-everything-ucls-pioneering-ai-model-could-redefine-particle-physics-reconstruction",
+        "title": "Reconstruct Everything: UCL's pioneering AI model could redefine particle physics reconstruction",
         "band": "related"
       }
     },
     {
-      "title": "AI-written peer reviews outscored top human experts in blind comparisons, Harvard working paper finds",
-      "url": "https://www.psypost.org/ai-written-peer-reviews-outscored-top-human-experts-in-blind-comparisons-harvard-working-paper-finds/",
-      "source": "PsyPost",
-      "category": "science",
-      "published_iso": "2026-11-12T15:00:19+00:00",
-      "excerpt": "In blind comparisons, both an AI judge and former journal editors preferred AI-written reviews of unpublished research papers over reviews by well-paid human experts in the large majority of cases.",
-      "og_image": "https://www.psypost.org/wp-content/uploads/2026/04/artificial-intelligence4.jpg",
-      "group": "research_automation",
-      "history_match": {
-        "score": 0.168,
-        "date": "2026-11-05",
-        "url": "https://phys.org/news/2026-11-chinese-software-ready-publish-papers.html",
-        "title": "Chinese software that produces ready-to-publish research papers in under two hours threatens peer-review system",
-        "band": "related"
-      }
-    },
-    {
-      "title": "After math, will AI upend science, too?",
-      "url": "https://www.scientificamerican.com/article/ai-is-disrupting-math-is-science-next/",
-      "source": "Scientific American",
-      "category": "science",
-      "published_iso": "2026-11-12T11:00:00-05:00",
-      "excerpt": "Mathematicians will remember 2026 as the year AI changed everything about their field; Scientific American examines whether experimental sciences are next in line for disruption. Feature/analysis, not a new result.",
-      "og_image": "https://static.scientificamerican.com/dam/asset/48fc913c-8680-4a02-82af-9e9cb982d092/shutterstock_355336133-WEB.jpg?m=1794498450.674&w=1200",
-      "group": "research_automation"
-    },
-    {
-      "title": "AI improves cosmic particle scans to locate hidden objects more accurately in simulations",
-      "url": "https://techxplore.com/news/2026-11-ai-cosmic-particle-scans-hidden.html",
-      "source": "Tech Xplore",
-      "category": "science",
-      "published_iso": "2026-11-12T15:00:24-05:00",
-      "excerpt": "University of Tartu and GScan built machine-learning models that combine straight-through and deflected muons for muon tomography; in simulations a hybrid method cut wrong merging of nearby hidden objects from about 15% to 2% (IEEE Access).",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-university-of.jpg",
-      "group": "physics"
-    },
-    {
-      "title": "AI system can reconstruct aerodynamic shapes and predict their performance",
-      "url": "https://techxplore.com/news/2026-11-ai-reconstruct-aerodynamic.html",
-      "source": "Tech Xplore",
-      "category": "science",
-      "published_iso": "2026-11-12T16:20:12-05:00",
-      "excerpt": "Kyushu University's PI-GAE, a physics-informed graph autoencoder, compresses wing and compressor-blade shapes into a few variables, rebuilding geometry within 0.3% and predicting performance (R² 0.946–0.992) without repeated CFD runs.",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/an-ai-system-that-reco.jpg",
-      "group": "physics"
-    },
-    {
-      "title": "Preserving human involvement at the start of a creative task can improve AI-assisted outcomes",
-      "url": "https://techxplore.com/news/2026-11-human-involvement-creative-task-ai.html",
-      "source": "Tech Xplore",
-      "category": "science",
-      "published_iso": "2026-11-10T12:40:22-05:00",
-      "excerpt": "In a PNAS Nexus experiment with 285 students, Wharton's Hosanagar and Ahn found ChatGPT cut story-writing time 36%, but stories were better only when humans kept ideation and outlining or had flexible AI help; merely approving AI drafts produced worse stories.",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/using-ai-for-creative.jpg",
-      "group": "psychology"
+      "title": "AI agents advance atomic modeling and reveal how aluminum nanoparticles oxidize",
+      "url": "https://phys.org/news/2026-11-ai-atomic-reveal-shells-aluminum.html",
+      "source": "Phys.org",
+      "category": "materials",
+      "published_iso": "2026-11-09T21:00:01-05:00",
+      "excerpt": "Tohoku University's MLP Copilot, a multi-AI-agent framework that builds machine-learning interatomic potentials from quantum calculations with humans making final calls, simulated aluminum nanoparticle oxidation at scale and identified an 'oxide gatekeeper' shell whose rupture at high temperature exposes the core (PNAS).",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-agents-advance-atom.jpg"
     },
     {
       "title": "New AI tool exposes plant pathogens and the genes behind them",
       "url": "https://phys.org/news/2026-11-ai-tool-exposes-pathogens-genes.html",
       "source": "Phys.org",
-      "category": "science",
+      "category": "life_science",
       "published_iso": "2026-11-12T17:00:11-05:00",
-      "excerpt": "Leiden University's bacLIFE machine-learning tool compares thousands of bacterial genomes to predict lifestyles such as plant-harming, and flags linked genes; knocking out six candidate genes made bacteria far less able to infect plants.",
+      "excerpt": "Leiden University's bacLIFE uses machine learning on 16,000+ bacterial genomes to separate plant-disease-causing bacteria from harmless relatives and flag the genes responsible; knocking out six candidate genes made bacteria far worse at infecting plants (PhD thesis, Guerrero Egido). Diagnostic/attenuation work, not enhancement.",
       "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/new-ai-tool-exposes-pl.jpg",
-      "group": "life_science",
       "history_match": {
-        "score": 0.172,
+        "score": 0.184,
         "date": "2026-10-29",
         "url": "https://phys.org/news/2026-10-rice-devastating-disease-gene-ai.html",
         "title": "Rice plants can fight off devastating disease after gene editing with AI-designed tool",
@@ -95,108 +45,142 @@
       }
     },
     {
-      "title": "Independent technique validates landmark M87* image",
-      "url": "https://phys.org/news/2026-11-independent-technique-validates-landmark-m87.html",
-      "source": "Phys.org",
-      "category": "science",
-      "published_iso": "2026-11-11T00:00:00Z",
-      "excerpt": "A CSIRO team used machine-learning and AI techniques to reanalyse the 2019 Event Horizon Telescope data and recovered a black-hole ring nearly identical to the original image, supporting that the ring is real rather than a processing artifact (Nature).",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/a-fuzy-organge-glowing.jpg",
-      "group": "astronomy"
+      "title": "AI agents act as search tool for more efficient collider physics calculations",
+      "url": "https://physicsworld.com/a/ai-agents-act-as-search-tool-for-more-efficient-collider-physics-calculations/",
+      "source": "Physics World",
+      "category": "physics",
+      "published_iso": "2026-11-13T09:00:21+00:00",
+      "excerpt": "Cambridge's Yi Gu and Sven Krippendorf used OpenAI Codex in a self-evolving loop to propose programs for tree-level scattering amplitudes, checked by a test harness; the best programs ran ~805x faster than seed code or used 48x fewer operations, though still slower than Sherpa/MadGraph at six particles (arXiv preprint).",
+      "og_image": "https://physicsworld.com/wp-content/uploads/2026/11/13-11-26-particle-collision-cern.jpg"
     },
     {
-      "title": "AI-generated molecular fingerprints help identify existing compounds with therapeutic potential",
-      "url": "https://phys.org/news/2026-11-ai-generated-molecular-fingerprints-compounds.html",
-      "source": "Phys.org",
-      "category": "science",
-      "published_iso": "2026-11-10T17:30:01-05:00",
-      "excerpt": "University of Pittsburgh's FSGLD uses a GAN (DRUG-GAN) to generate molecular fingerprints, then searches databases for existing compounds that are novel relative to training molecules yet predicted to bind GPCRs and kinases (Science Advances).",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/using-ai-to-screen-exi.jpg",
-      "group": "life_science",
+      "title": "New AI 'copilot' helps engineers design better structures",
+      "url": "https://news.mit.edu/2026/new-ai-copilot-helps-engineers-design-better-structures-1113",
+      "source": "MIT News",
+      "category": "materials",
+      "published_iso": "2026-11-13T05:00:00Z",
+      "excerpt": "MIT researchers built a topology-optimization 'copilot' that, while the algorithm is generating a structure, surfaces regions to the human engineer for feedback, making algorithmic structural design collaborative instead of run-and-wait.",
+      "og_image": "https://news.mit.edu/sites/default/files/images/202611/MIT-ai-design-01-press.jpg"
+    },
+    {
+      "title": "Scientists built an AI called 'Concept2Brain' that simulates human brain waves from pictures and text",
+      "url": "https://www.psypost.org/scientists-built-an-ai-called-concept2brain-that-simulates-human-brain-waves-from-pictures-and-text/",
+      "source": "PsyPost",
+      "category": "cognition",
+      "published_iso": "2026-11-13T21:00:25+00:00",
+      "excerpt": "Concept2Brain, reported in Nature Communications, predicts EEG responses to photographs or text and generates synthetic event-related potentials resembling real recordings, letting researchers simulate brain-wave experiments before recruiting volunteers.",
+      "og_image": "https://www.psypost.org/wp-content/uploads/2026/06/brainimg-2.jpg"
+    },
+    {
+      "title": "This AI finds patterns in visual brain activity and turns them into pictures",
+      "url": "https://www.livescience.com/technology/artificial-intelligence/this-ai-finds-patterns-in-visual-brain-activity-and-turns-them-into-pictures",
+      "source": "Live Science",
+      "category": "cognition",
+      "published_iso": "2026-11-13T10:00:00Z",
+      "excerpt": "Brain-IT reconstructs images people viewed from fMRI visual-cortex activity by predicting layout and semantic content and passing them to an image generator, and can run in reverse. NOTE: underlying study was presented at ICLR in April 2026 (arXiv) — older result, fresh coverage.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/BVofRKX8x3iWuYZNW7tcGZ-2000-80.jpg",
       "history_match": {
-        "score": 0.172,
-        "date": "2026-11-07",
-        "url": "https://news.mit.edu/2026/how-to-predict-molecule-behavior-with-scant-data-1106",
-        "title": "How to predict the behavior of molecules from scant data",
+        "score": 0.154,
+        "date": "2026-11-10",
+        "url": "https://www.psypost.org/human-brains-track-who-did-what-to-whom-in-ways-ai-language-models-dont-fmri-study-suggests/",
+        "title": "Human brains track who did what to whom in ways AI language models don't, fMRI study suggests",
         "band": "related"
       }
     },
     {
-      "title": "Q-CTRL Demonstrates Push-Button Cold-Start Calibration on QuantWare Superconducting QPUs",
-      "url": "https://quantumcomputingreport.com/q-ctrl-demonstrates-push-button-cold-start-calibration-on-quantware-superconducting-qpus/",
-      "source": "Quantum Computing Report",
-      "category": "science",
-      "published_iso": "2026-11-12T02:20:58+00:00",
-      "excerpt": "Q-CTRL's physics-informed AI state machine in Boulder Opal autonomously calibrated a 21-qubit QuantWare Contralto-D21 from an uncalibrated state to operational gate fidelities, detecting anomalies and recovering underperforming qubits.",
-      "og_image": "https://quantumcomputingreport.com/wp-content/uploads/2026/11/image-71.png",
-      "group": "quantum"
-    },
-    {
-      "title": "IBM, Mitsubishi Chemical, and Keio Train Generative Quantum Eigensolvers on 70-Qubit Hardware",
-      "url": "https://quantumcomputingreport.com/ibm-mitsubishi-chemical-and-keio-train-generative-quantum-eigensolvers-on-70-qubit-hardware/",
-      "source": "Quantum Computing Report",
-      "category": "science",
-      "published_iso": "2026-11-12T00:40:47+00:00",
-      "excerpt": "IBM Quantum, Mitsubishi Chemical, Keio and NVIDIA trained transformer-based Generative Quantum Eigensolver policies directly on the 156-qubit ibm_kobe processor and applied them zero-shot to simulate organic molecules with up to 70 qubits (arXiv).",
-      "og_image": "https://quantumcomputingreport.com/wp-content/uploads/2026/11/image-68.png",
-      "group": "quantum"
-    },
-    {
-      "title": "QuEra, Harvard and Anthropic Use AI to Reduce Quantum Circuit Resource Requirements",
-      "url": "https://thequantuminsider.com/2026/11/10/quera-harvard-anthropic-ai-quantum-circuit-resource-requirements/",
-      "source": "The Quantum Insider",
-      "category": "science",
-      "published_iso": "2026-11-10T18:10:47+00:00",
-      "excerpt": "New research from QuEra, Harvard and Anthropic shows AI can cut quantum circuit resource requirements through automated circuit design and optimization. Note: similar framing to the 11-11 DeepMind resource-reduction card; deprioritized.",
-      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-10_23-09.png",
-      "group": "quantum",
+      "title": "'The first species we might be able to communicate with... might be a bird': researcher explains how she decoded birdsong",
+      "url": "https://www.livescience.com/animals/birds/the-first-species-we-might-be-able-to-communicate-with-interact-with-vocally-might-be-a-bird-an-animal-researcher-explains-how-she-decoded-birdsong",
+      "source": "Live Science",
+      "category": "life_science",
+      "published_iso": "2026-11-10T11:00:00Z",
+      "excerpt": "Interview with UC Berkeley's Julie Elie, winner of the 2026 Coller Dolittle Challenge for two-way interspecies communication, on using AI to decode zebra finch vocalizations (bioacoustics).",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/iFQmJKT3D3QzMAhH38ETgG-2000-80.jpg",
       "history_match": {
-        "score": 0.22,
-        "date": "2026-10-18",
-        "url": "https://thequantuminsider.com/2026/10/17/anthropics-claude-designs-leaner-quantum-circuits-reducing-resources-needed-for-key-calculations/",
-        "title": "Anthropic's Claude Designs Leaner Quantum Circuits, Reducing Resources Needed for Key Calculations",
+        "score": 0.175,
+        "date": "2026-10-16",
+        "url": "https://news.mit.edu/2026/ai-model-decodes-language-cells-use-communicate-1015",
+        "title": "AI model decodes the language cells use to communicate",
         "band": "related"
       }
     },
     {
-      "title": "Researchers Explore Quantum Inspired AI Repair",
-      "url": "https://thequantuminsider.com/2026/11/11/researchers-explore-quantum-inspired-ai-repair/",
-      "source": "The Quantum Insider",
-      "category": "science",
-      "published_iso": "2026-11-11T15:48:13+00:00",
-      "excerpt": "QDeep and ITMO University developed Tree-Ising, a quantum-inspired Ising-optimization method that repairs repetitive reasoning loops in small language models.",
-      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/11/Screenshot-2026-11-11-at-10.29.34-AM.png",
-      "group": "quantum"
+      "title": "This AI 'mechanic' can peer inside the black box of other neural networks",
+      "url": "https://www.nature.com/articles/d41586-026-03679-8",
+      "source": "Nature",
+      "category": "research_automation",
+      "published_iso": "2026-11-13T00:00:00Z",
+      "excerpt": "An MIT-led team (Takehi, Teoh, Zhang, Khattab) used OpenAI's GPT-6 Astra to read other networks' raw internal values, predict what their components do and edit them, boosting target models' math abilities (alphaXiv preprint, not peer reviewed). Off-list domain (nature.com news) included under relevance exception.",
+      "og_image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03679-8/d41586-026-03679-8_53974804.jpg"
     },
     {
-      "title": "Teaching AI to build better enzymes",
-      "url": "https://www.eurekalert.org/news-releases/1150904",
-      "source": "EurekAlert! (HHMI)",
-      "category": "science",
-      "published_iso": "2026-11-06T00:00:00Z",
-      "excerpt": "SynFit, an open-source ML tool from UCSB and Georgia Tech, learns several enzyme traits at once from small datasets; lab tests on a carbon-boron-bond-forming cytochrome c produced many variants hitting both high yield and high selectivity.",
-      "og_image": null,
-      "group": "life_science"
+      "title": "AI models can answer differently when told they are being watched",
+      "url": "https://techxplore.com/news/2026-11-ai-differently-told.html",
+      "source": "Tech Xplore",
+      "category": "cognition",
+      "published_iso": "2026-11-13T10:40:10-05:00",
+      "excerpt": "TCS Research and KIIT tested 10 LLMs on everyday dilemmas pitting rules against 32 values; compliance gaps between 'monitored' and 'unmonitored' conditions ranged 5-50 points, and model-value pairing explained about a quarter of the variance — alignment faking depends on the value, not just the model (arXiv preprint).",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-models-can-answer-d-1.jpg"
     },
     {
-      "title": "AI agents advance atomic modeling and reveal how aluminum nanoparticles oxidize",
-      "url": "https://www.eurekalert.org/news-releases/1151216",
-      "source": "EurekAlert! (Tohoku University)",
-      "category": "science",
-      "published_iso": "2026-11-10T00:00:00Z",
-      "excerpt": "Tohoku University's MLP Copilot, a human-in-the-loop multi-agent framework, built machine-learning interatomic potentials from quantum calculations and showed how an oxide shell throttles or, when ruptured, accelerates aluminum nanoparticle oxidation (PNAS).",
-      "og_image": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/d0303214-e933-4819-b9f3-ceef2e0c304d/Rendition/low-res/Content/Public",
-      "group": "materials"
+      "title": "AI improves cosmic particle scans to locate hidden objects more accurately in simulations",
+      "url": "https://techxplore.com/news/2026-11-ai-cosmic-particle-scans-hidden.html",
+      "source": "Tech Xplore",
+      "category": "physics",
+      "published_iso": "2026-11-12T15:00:24-05:00",
+      "excerpt": "University of Tartu and GScan use ML on both straight and scattered muon paths for muon tomography; in simulations it localized hidden objects better than single-view models and cut wrongly merged nearby objects from ~15% to 2% (IEEE Access).",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-university-of.jpg"
     },
     {
-      "title": "Using Vibrations and AI, Future Robotic Missions Could Handle Buried Rocks Autonomously",
-      "url": "https://www.universetoday.com/articles/virginia-tech-researchers-use-vibrations-and-ai-to-estimate-depth-of-buried-objects-for-future-lunar",
-      "source": "Universe Today",
-      "category": "science",
-      "published_iso": "2026-11-09T21:44:00+00:00",
-      "excerpt": "Virginia Tech researchers combine vibration sensing with AI to estimate the depth of buried objects, a step toward lunar and Martian robots that can handle subsurface rocks autonomously.",
-      "og_image": "https://www.universetoday.com/article_images/subsurfacewater_Mars-1024x768_20261109_211716.jpg",
-      "group": "astronomy"
+      "title": "Lip-reading AI fills gaps in sentences by recognizing most certain words first",
+      "url": "https://techxplore.com/news/2026-11-lip-ai-gaps-sentences-words.html",
+      "source": "Tech Xplore",
+      "category": "cognition",
+      "published_iso": "2026-11-13T07:00:08-05:00",
+      "excerpt": "KAIST's Yong Man Ro team applies a diffusion LLM to visual speech recognition, decoding the most confident words first and filling ambiguous lip movements from two-sided context; it hit 19.4% WER on LRS3, best among LRS3-only methods (arXiv).",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-lip-rea.jpg",
+      "history_match": {
+        "score": 0.151,
+        "date": "2026-11-08",
+        "url": "https://medicalxpress.com/news/2026-11-generative-ai-gaps-brain-wiring.html",
+        "title": "Generative AI fills gaps in brain wiring maps where MRI scans lose signal",
+        "band": "related"
+      }
+    },
+    {
+      "title": "AI-powered bionic eye breakthrough could help the blind see again",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261110042553.htm",
+      "source": "ScienceDaily",
+      "category": "cognition",
+      "published_iso": "2026-11-12T06:55:55-05:00",
+      "excerpt": "UC Santa Barbara, ETH Zurich and Miguel Hernandez University trained a deep network to predict a blind participant's visual-cortex response to stimulation of a 96-electrode implant; AI-chosen patterns produced target neural activity more accurately with less current (Neuron).",
+      "og_image": "https://www.sciencedaily.com/images/1920/beyeler-bionic-eye.webp"
+    },
+    {
+      "title": "Opening the datasets behind our AI weather models (PARDIG & SatWeave)",
+      "url": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
+      "source": "Google DeepMind",
+      "category": "physics",
+      "published_iso": "2026-11-10T11:13:04Z",
+      "excerpt": "Google DeepMind released PARDIG and SatWeave, foundational precipitation and geostationary-satellite datasets used to train its AI weather models, for open Earth-science research.",
+      "og_image": "https://lh3.googleusercontent.com/ggsqfaBnOayx-i7z9Kj8AeZruz8BSo0N7tsnqwH8Z3REnHcDKBt-QSA3DR4UUM8lcwklWihSARoEN2AyQFhoRFGFlk2-0-xGuKt_rtGoFwpJg8LHVQ=w1200-h630-n-nu-rw"
+    },
+    {
+      "title": "After math, will AI upend science, too?",
+      "url": "https://www.scientificamerican.com/article/ai-is-disrupting-math-is-science-next/",
+      "source": "Scientific American",
+      "category": "research_automation",
+      "published_iso": "2026-11-12T11:00:00-05:00",
+      "excerpt": "Feature: mathematicians will remember 2026 as the year AI changed their field; Scientific American examines whether physics and other sciences are next, starting from Matthew Schwartz's APS warning. Analysis piece, not a new result.",
+      "og_image": "https://static.scientificamerican.com/dam/asset/48fc913c-8680-4a02-82af-9e9cb982d092/shutterstock_355336133-WEB.jpg?m=1794498450.674&w=1200"
+    },
+    {
+      "title": "XYBench: Helping with the problem behind the question",
+      "url": "https://allenai.org/blog/xybench",
+      "source": "Ai2",
+      "category": "cognition",
+      "published_iso": "2026-11-13T00:00:00-08:00",
+      "excerpt": "Ai2 released XYBench, an 8,115-question benchmark testing whether LLMs spot misconceptions in user requests (the XY problem) and redirect toward the user's underlying goal.",
+      "og_image": "https://www.datocms-assets.com/64837/1794335088-xybench-featured.png"
     }
   ],
   "dedup": {
@@ -211,31 +195,6 @@
     "same_story_pairs": []
   },
   "history_digest": [
-    {
-      "date": "2026-10-14",
-      "title": "Gemini 4 Argon for Robotics",
-      "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/"
-    },
-    {
-      "date": "2026-10-14",
-      "title": "How artificial neural networks build their own learning machinery",
-      "url": "https://news.mit.edu/2026/how-artificial-neural-networks-build-their-own-learning-machinery-1013"
-    },
-    {
-      "date": "2026-10-14",
-      "title": "Rangers reimagine AI in wildlife monitoring",
-      "url": "https://phys.org/news/2026-10-rangers-reimagine-ai-wildlife.html"
-    },
-    {
-      "date": "2026-10-14",
-      "title": "New detector spots AI-generated work by examining ideas, not words",
-      "url": "https://techxplore.com/news/2026-10-detector-ai-generated-ideas-words.html"
-    },
-    {
-      "date": "2026-10-14",
-      "title": "Scientists worry AI is stealing their ideas",
-      "url": "https://www.scientificamerican.com/article/scientists-worry-ai-is-stealing-their-ideas/"
-    },
     {
       "date": "2026-10-15",
       "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
@@ -910,6 +869,31 @@
       "date": "2026-11-12",
       "title": "OpenAI's 'shepherds' affirm blockbuster physics result",
       "url": "https://www.scientificamerican.com/article/openais-shepherds-affirm-blockbuster-physics-result/"
+    },
+    {
+      "date": "2026-11-13",
+      "title": "New research could lead to faster, trustworthy AI models for climate prediction",
+      "url": "https://news.mit.edu/2026/new-research-could-lead-faster-trustworthy-ai-models-climate-prediction-1112"
+    },
+    {
+      "date": "2026-11-13",
+      "title": "Independent technique validates landmark M87* image",
+      "url": "https://phys.org/news/2026-11-independent-technique-validates-landmark-m87.html"
+    },
+    {
+      "date": "2026-11-13",
+      "title": "Q-CTRL Demonstrates Push-Button Cold-Start Calibration on QuantWare Superconducting QPUs",
+      "url": "https://quantumcomputingreport.com/q-ctrl-demonstrates-push-button-cold-start-calibration-on-quantware-superconducting-qpus/"
+    },
+    {
+      "date": "2026-11-13",
+      "title": "Preserving human involvement at the start of a creative task can improve AI-assisted outcomes",
+      "url": "https://techxplore.com/news/2026-11-human-involvement-creative-task-ai.html"
+    },
+    {
+      "date": "2026-11-13",
+      "title": "AI-written peer reviews outscored top human experts in blind comparisons, Harvard working paper finds",
+      "url": "https://www.psypost.org/ai-written-peer-reviews-outscored-top-human-experts-in-blind-comparisons-harvard-working-paper-finds/"
     }
   ]
 }

@@ -11242,6 +11242,124 @@
           "x": "Scientists can upload a single-cell RNA-seq snapshot from just a few dozen cells to predict variant effects for new cell states without retraining. AlphaGenome and AlphaGenome 2 are intended for research use only."
         }
       ]
+    },
+    "science/deepmind-pardig-satweave": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://lh3.googleusercontent.com/EyHOPdy1RZC6ksZ50GThErLowPjtqkzgITH_CSP2Rh4UbsF4muddzfQ0id_Qro5VhuMNYIg9Sxk8ukt7gFVRbLsC4m47HUj07fAAGbhHm1se-h4N=w1440-h810-n-nu",
+          "cap": "Abstract 3D illustration of a globe segmented by layered transparent panes showing different weather and climate datasets."
+        },
+        {
+          "t": "p",
+          "x": "Google DeepMind is releasing two foundational datasets, SatWeave and PARDIG, to support building weather, hydrology, and climate applications. Both are key to the advances in its recently released WeatherNext 3 model, and historical archives and live feeds of both are being made available."
+        },
+        {
+          "t": "p",
+          "x": "SatWeave is a global mosaic of geostationary satellite imagery, blending GOES-East and GOES-West, Meteosat and Himawari observations across 17 visible, water vapor, and infrared channels. It updates hourly, allowing WeatherNext 3 to produce new global predictions, in contrast to models initialized on analysis data refreshed every six hours; the release includes a historical archive spanning over a decade."
+        },
+        {
+          "t": "video",
+          "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/1JDTJ5D1fR_MbDBa/PARDIG_and_SatWeave__figure-3__mosaic_9620_nm_images.webm"
+        },
+        {
+          "t": "p",
+          "x": "PARDIG (Precipitation AI Reanalysis: Densely Inferred GPM) is trained on sparse spaceborne radar observations from NASA's GPM Core Observatory, producing global precipitation at 15-minute and roughly 10-kilometer resolution with about five hours' latency. It improves hourly precipitation detection skill over NASA's IMERG-Final by more than 30% on light-to-moderate precipitation. Archives run from 1999 to 2026, openly available on Google Cloud Storage and in Google Earth Engine."
+        }
+      ]
+    },
+    "science/codex-collider-amplitudes": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://physicsworld.com/wp-content/uploads/2026/11/13-11-26-particle-collision-cern-635x358.jpg",
+          "cap": "Large language models could provide a new way to create algorithms for analysis of high-energy particle collisions, such as this one recorded with the CMS detector in 2012. (Courtesy: © CERN)"
+        },
+        {
+          "t": "p",
+          "x": "Yi Gu and Sven Krippendorf at the University of Cambridge provide a proof-of-concept, in an arXiv preprint not yet peer-reviewed, that LLMs can be used as a search tool for new algorithms for tree-level scattering amplitudes. OpenAI’s Codex proposes a candidate program, a test program evaluates it on correctness and efficiency, and the LLM proposes a new candidate — a self-evolving search."
+        },
+        {
+          "t": "p",
+          "x": "Three objectives were tested: scaling, structure and complexity. Each produced a champion faster than the seeded code. Optimizing for scaling found a formalism whose costs grow linearly with particle number, 805 times faster than the seed; the complexity test cut the number of operations by a factor of 48. None of these techniques were novel."
+        },
+        {
+          "t": "p",
+          "x": "Compared with Sherpa and MadGraph, the complexity champion — an independent Python prototype — was slower than both for six external particles. The aim was to test whether AI-driven search could improve a starting algorithm, not to outperform established compiled generators, and the algorithms do not cover the entire standard model. Krippendorf says the method works where a task has a fast numerical check."
+        }
+      ]
+    },
+    "science/tohoku-mlp-copilot-aluminum": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-agents-advance-atom.jpg",
+          "cap": "MLP Copilot connects model development, validation and expert review. AI agents organize work and evidence, while researchers make scientific and model-use decisions. Credit: PNAS (2026)"
+        },
+        {
+          "t": "p",
+          "x": "An AI agent called MLP Copilot, developed at Tohoku University, bridges computational tools and scientific evidence with human supervision to build models of how atoms interact. It learns atomic energies and forces from quantum calculations, making larger simulations feasible. The study was published in PNAS on Oct. 15, 2026."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-agents-advance-atom-1.jpg",
+          "cap": "Simulations at 1,500 K and 2,000 K show how oxide-shell changes affect aluminum transport and oxidation. Credit: PNAS (2026)"
+        },
+        {
+          "t": "p",
+          "x": "To demonstrate it, the team investigated aluminum nanoparticle oxidation. Across approximately 80 active-learning iterations they assembled 88,833 atomic configurations. At moderate temperatures, temporary nanoscale pathways let oxidation continue while limiting transport — a \"breathing mode.\" At higher temperatures, shell rupture exposed the aluminum core to oxygen and accelerated oxidation."
+        },
+        {
+          "t": "p",
+          "x": "AI agents organized project knowledge, retrieved evidence and supported validation planning; researchers decided which models to accept and how to interpret the results. The paper is titled Multi-AI agent framework reveals the \"oxide gatekeeper\" in aluminum nanoparticle oxidation."
+        }
+      ]
+    },
+    "science/concept2brain-eeg-sim": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.psypost.org/wp-content/uploads/2026/06/brainimg-2.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "Scientists have developed an AI tool called Concept2Brain that predicts how human brain waves respond to photographs or written text. In a study published in Nature Communications, the open-access platform generates synthetic EEG recordings that resemble real brain activity, which could let researchers simulate brain-wave experiments before recruiting volunteers."
+        },
+        {
+          "t": "p",
+          "x": "It was trained on EEG from 88 university volunteers viewing 360 photographs. A conditional variational autoencoder compresses each 129-channel recording into 256 numbers, and a translator built around OpenAI’s CLIP maps images or text into that summary. On held-out photographs, synthetic waves closely matched real recordings from about 100 to 700 milliseconds, and the model reproduced the 170 ms face response without face labels."
+        },
+        {
+          "t": "p",
+          "x": "Lead author Alejandro Santos-Mayo cautions that synthetic data cannot replace empirical data collected from human participants; text-prompted predictions are less validated, and agreement was weaker on external datasets."
+        }
+      ]
+    },
+    "science/science-m87-ml-reanalysis": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-fuzy-organge-glowing.jpg",
+          "cap": "This Event Horizon Telescope image reveals the black hole at the center of Messier 87, a massive galaxy in the nearby Virgo galaxy cluster. Credit: Event Horizon Telescope Collaboration et al. 2019."
+        },
+        {
+          "t": "p",
+          "x": "A team of four from CSIRO, Australia's national science agency, has developed a powerful new imaging technique that validated the landmark 2019 Event Horizon Telescope (EHT) image of the black hole at the center of galaxy M87. The approach, published in Nature, reduces the effects of calibration errors and subjective image-processing decisions."
+        },
+        {
+          "t": "p",
+          "x": "\"Our small Australian team developed advanced machine learning and artificial intelligence techniques to capture information about the black hole's structure and filter out atmospheric interference,\" said lead author Dr. Samuel Lai. \"When we applied it to the original Event Horizon Telescope dataset, we found a black hole almost identical in size and shape to the historic EHT image. Importantly, our model had no idea what a black hole looked like when we applied it to the M87 data.\""
+        },
+        {
+          "t": "p",
+          "x": "Project leader Dr. Nithyanandan Thyagarajan said: \"Our technique combines triplets rather than the standard pairs of telescope data to eliminate those errors.\" The findings strengthen confidence that the ring is a genuine astrophysical feature rather than an artifact of image reconstruction."
+        },
+        {
+          "t": "p",
+          "x": "EHT Collaboration director Dr. Laurent Loinard said GenDIReCT, \"an elegant, entirely independent method, recovers the ring structure of M87* across several years, in excellent agreement with the EHT Collaboration's published results.\" Thyagarajan said the technique could also improve medical imaging and mapping earthquakes."
+        }
+      ]
     }
   }
 }

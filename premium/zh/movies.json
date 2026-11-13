@@ -10270,6 +10270,137 @@
           "x": "支持 4K 输出和 10-bit 色彩。帧数与源素材完全一致，画面比例始终不变。SwitchX 3.0 已在 Beeble 云端应用中上线：可作为画布中的节点使用，也可在独立的 SwitchX 页面使用。"
         }
       ]
+    },
+    "movies/screenburn-writers-room": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/1/5/6/1492156_screenshot20261112at14.50.31_498419.jpg"
+        },
+        {
+          "t": "p",
+          "x": "剧本类娱乐专业公司Screenburn Group推出AI软件The Writers Room，可借助生成式AI（genAI）写出完整的微短剧系列。它根据编剧的故事规划，在几小时内写完一季微短剧的全部80集，剧本约29,000词。"
+        },
+        {
+          "t": "p",
+          "x": "编剧需提供剧名、一句话梗概、角色设定，并回答一组关于角色的问题。The Writers Room依据从100,000多部竖屏剧数据中提炼的规则写作，这些规则规定一季如何开篇、转折与收尾。"
+        },
+        {
+          "t": "p",
+          "x": "随后，Retention Engine会按第一集如何开场、每集如何收尾、每集向观众提供新信息的频率以及张力如何累积，为每一集打分，满分100分；达到80分及以上即可获得Screenburn Certified标志。目前已有20多季以这种方式写成的剧集在售，最高分为97分。"
+        },
+        {
+          "t": "p",
+          "x": "The Writers Room需签12个月合约，月费US$1,350，每月含一季。创始人兼CEO Dr Charles Kriel表示：“没人能在几个小时内写完一部剧。”他说：“编剧花一个下午构思故事，在任何人为制作花一美元之前，就能拿到已打分的整季剧本。”"
+        }
+      ]
+    },
+    "movies/zhao-liying-hongguo-lawsuit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.globaltimes.cn/Portals/0/attachment/2026/2026-11-12/085e211b-5d72-44f7-ae9e-b0b47769c971.jpeg",
+          "cap": "中国女演员赵丽颖（Zhao Liying）Photo: VCG"
+        },
+        {
+          "t": "p",
+          "x": "据报道，中国女演员赵丽颖（Zhao Liying）起诉热门短剧平台红果短剧（Hongguo Short Drama）的运营方及其母公司抖音（Douyin），指其未经授权使用她的肖像。此事再度引发外界对未经同意使用名人面孔和声音的AI生成（AI-generated）内容的关注。"
+        },
+        {
+          "t": "p",
+          "x": "该案定于北京（Beijing）门头沟区人民法院（Mentougou District People's Court）审理，原告为Zhao，被告为Beijing Douyin Information Service Co Ltd、Beijing Bimo Liuxiang Technology以及一名Shi姓个人。微博（Weibo）用户已发布Hongguo上AI生成（AI-generated）短剧的片段，其中角色面孔与Zhao相似，AI配音也与她的声音相近。"
+        },
+        {
+          "t": "p",
+          "x": "易烊千玺（Yi Yangqianxi）、杨紫（Yang Zi）、肖战（Xiao Zhan）、邓为（Deng Wei）、成毅（Cheng Yi）等演员也曾卷入类似纠纷。律师Li Yunkai表示，AI图像不必是完全复制也可能构成侵权，关键在于公众能否认出此人。"
+        },
+        {
+          "t": "p",
+          "x": "国家广播电视总局（National Radio and Television Administration）已启动为期两个月的专项行动，时间为11月1日至12月底，针对“盗脸”和“盗声”问题，并规范AI生成（AI-generated）短剧的制作。"
+        }
+      ]
+    },
+    "movies/manchester-animation-ai-policy": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/Manchester-Animation-Festival-2026-winners.png",
+          "cap": "Manchester Animation Festival 2026的最高奖项授予《In Waves》（上）、《When the Sea Was Calm》（左）和《A Little Death》。"
+        },
+        {
+          "t": "p",
+          "x": "Manchester Animation Festival（MAF）是英国（U.K.）唯一一个具备Oscar和BAFTA资格认证的动画节，现已公布2026年Film Competition、Industry Excellence Awards和MAFter Dark单元的获奖名单。"
+        },
+        {
+          "t": "p",
+          "x": "MAF还宣布了一项对动画业具有里程碑意义的决定：自2027年起，不再接受使用生成式AI制作的影片投稿。新政策体现了该动画节颂扬人类创造力、守护动画核心艺术技能的承诺。"
+        },
+        {
+          "t": "p",
+          "x": "动画节总监Steve Henderson表示：“在我们开启MAF 2027征片之际，我们希望与创作者站在一起，正是他们让动画成为如此了不起的、属于人类的艺术形式。”他说：“我们新的Gen AI政策把艺术家放在首位。”"
+        },
+        {
+          "t": "p",
+          "x": "Feature Film Award由Phuong Mai Nguyen执导的《In Waves》获得；Short Film Award由Mamuka Tkeshelashvili执导的《When the Sea Was Calm》（Georgia）获得；Best British Short Award由Leto Meade和Jonathan Rockefeller执导的《A Little Death》获得。本届动画节于11月8-12日举行，观影人次近12,000。"
+        }
+      ]
+    },
+    "movies/seedance-25-flash-bytedance": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cms-image.pandaily.com/1/seedance_96adab67c5.png",
+          "cap": "AI-generated概念插图，并非所发布产品、场所或活动的实拍照片。"
+        },
+        {
+          "t": "p",
+          "x": "ByteDance旗下云服务部门Volcano Engine于11月12日发布Seedance 2.5 Flash，这是其视频生成模型Seedance 2.5的轻量版本。公司表示，其视频生成速度是Seedance 2.5的两倍，价格也更低。"
+        },
+        {
+          "t": "p",
+          "x": "在720p的text-to-video和image-to-video场景下，Volcano Engine给出的价格约为每秒生成视频0.99元，比Seedance 2.5低约34%。flash模型可生成最长30秒的片段，最多接受10张图片、五段视频片段和五段音频片段作为参考，输出480p或720p。"
+        },
+        {
+          "t": "p",
+          "x": "旗舰版Seedance 2.5仍是1080p和4K 制作的选择；flash模型则面向high-frequency创作和批量内容生产。质量方面的说法来自公司本身，公司未公布任何基准测试结果。"
+        },
+        {
+          "t": "p",
+          "x": "Seedance 2.5 Flash正陆续登陆Jimeng以及LibTV、Updream、Creao AI和TapNow等third-party工具。API接入计划于11月15日在Volcano Ark开放。"
+        }
+      ]
+    },
+    "movies/firefly-build-story-assemble": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.redsharknews.com/hubfs/adobe%20firefly%20video%20editor.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Adobe在MAX 2026上为Firefly新增两个测试版工作区，两者合起来覆盖从构想到短视频的全过程。位于Firefly菜单Video下的Build a story可将提示词转化为结构化的视觉故事；Assemble short video则提供一个简化的单轨工作区，用于排列片段。"
+        },
+        {
+          "t": "video",
+          "src": "https://images-tv.adobe.com/mpcv3/14067/3507880/202d88d5-1a16-4a96-82e9-e2705e0a963b/f0f56478-3475-461d-a2e2-30359e9a5ca7_1793918460.854x480at800_h264.mp4"
+        },
+        {
+          "t": "p",
+          "x": "用户向Firefly AI Assistant描述构想后，助手会询问目标时长，以及角色、地点、物件和创意方向等可选细节。随后它会提出画面风格、声音思路、场景与镜头数量，以及涉及的角色、地点和物件，并将其保存为元素，以保持各镜头之间的一致性；它还会为每个镜头撰写节拍描述并生成首帧。镜头以卡片形式按场景分组显示；片段可逐张卡片生成，也可用Generate all一次生成，之后可下载或在Timeline (beta)中打开。帧生成后，分辨率和画面比例便无法更改。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.redsharknews.com/hs-fs/hubfs/adobe%20firefly%20video%20editor%20quick%20actions.jpg?width=1920&height=1080&name=adobe%20firefly%20video%20editor%20quick%20actions.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Assemble short video是一个轻量工作区，可在单一轨道上处理生成或导入的片段。用户可以修剪、分割和重新排列片段，调整音量，检测剪辑点，并更改画面比例。选中的片段可通过文本提示重新生成，界面会显示所需生成积分的费用提示；重新生成的版本会作为可供比较的镜次出现。"
+        },
+        {
+          "t": "p",
+          "x": "两款工具均处于测试阶段，Creative Cloud for Teams和Enterprise用户无法使用。Build a story仅支持桌面端的Chrome和Edge，且只能从Adobe云存储的生成历史中调取片段，不支持直接上传。"
+        }
+      ]
     }
   }
 }

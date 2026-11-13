@@ -1,197 +1,143 @@
 {
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "section": "medicine",
   "cards": [
     {
-      "id": "doximity-cds-survey-63pct",
+      "id": "bracco-uptunity-aneurysm",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI, 이제 의사의\n일상 도구가 됐다",
-      "body": "Doximity 조사, U.S. 의사 3,300+명의 63%가 진료에 AI를 쓴다.",
-      "mini_headline": "의사의 일상이 된 AI",
+      "headline": "FDA, Bracco AI\n뇌동맥류 탐지 허가",
+      "body": "Uptunity Aneurysm은 CTA로 3 mm 넘는 뇌동맥류를 찾고 추적한다.",
+      "mini_headline": "FDA, 동맥류 AI 허가",
       "tool": "Medicine",
-      "source": "Healthcare Dive",
-      "url": "https://www.healthcaredive.com/news/despite-concerns-ai-becomes-daily-fixture-in-physician-workflows/874541/",
+      "source": "AuntMinnie",
+      "url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/news/16425547/bracco-diagnostics-inc-bracco-avicennaai-get-fda-clearance-for-brain-aneurysm-ai-software",
       "accent": "#00897b",
       "motif": "sphere",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://imgproxy.divecdn.com/AM_NT-IV2s-WIQ0l-DhVMyXuf_4ShsdQj2epak14Zmo/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzYzMDY4MzEwLmpwZw==.webp",
-            "cap": "Getty Images"
+            "t": "p",
+            "x": "Bracco와 Avicenna.AI의 AI 소프트웨어 Uptunity Aneurysm이 U.S. 식품의약국(FDA)의 510(k) 허가를 받았다. 뇌 CT 혈관조영(CTA) 영상에서 뇌동맥류를 탐지하고 평가하는 제품이다."
           },
           {
             "t": "p",
-            "x": "Doximity가 목요일 공개한 설문을 보면 의사들은 AI를 행정 업무뿐 아니라 의학 문헌 검색 같은 일상적인 임상 의사결정 지원에도 쓰기 시작했다. 절반 이상이 AI를 매일 쓴다고 답했고 또 다른 삼분의 일은 일주일에 한 번 이상 쓴다고 했다."
+            "x": "이 소프트웨어는 동시 판독 보조 도구로 쓰인다. 두부 CTA에서 3 mm보다 큰 낭상 뇌동맥류 의심 병변을 찾아 유무와 위치, 크기를 알려 준다. 이미 알려진 동맥류는 추적 관찰 기능이 정량 측정값을 내고 검사 간 비교로 시간에 따른 변화를 짚는다."
           },
           {
             "t": "p",
-            "x": "Doximity가 자사 U.S. 의사 3,300명 이상을 조사해 보니 임상 의사결정 지원에 AI를 쓰는 비율이 2025년 37%에서 63%로 두 배 가까이 뛰었다. 방대한 의학 문헌을 훑을 때 AI를 쓰는 의사도 지난해 조사의 절반 남짓에서 70%로 늘었다."
-          },
-          {
-            "t": "p",
-            "x": "의사 다수(81%)는 AI를 쓰다가 갱신된 가이드라인, 다른 진단 가능성, 치료 옵션처럼 몰랐던 것을 새로 알게 됐다고 답했다. 65%는 AI 도구 덕분에 임상 역량과 지식이 늘었다고 했다."
-          },
-          {
-            "t": "p",
-            "x": "하지만 61%는 수련의가 AI에 지나치게 기대다 스스로 임상 역량을 기르지 못할까 걱정했다. 절반 가까이는 AI 과의존을 우려했고 의사 네 명 중 세 명은 지난 한 해 AI를 업무에 쓰다 사실 오류를 한 번 이상 겪었다. AI 결과물을 고치거나 다시 확인하는 품이 한 해 전보다 줄었다는 응답도 사분의 일을 넘었다."
+            "x": "Uptunity Aneurysm은 Bracco가 Avicenna.AI와 함께 개발한 판독용 AI 소프트웨어 포트폴리오 Uptunity의 첫 제품이다. U.S. 내 홍보와 상업 유통은 Avicenna.AI가 맡는다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI becomes a daily fixture\nin physician workflows",
-          "body": "A Doximity survey of 3,300+ U.S. physicians finds AI use for clinical decision support nearly doubled to 63%.",
-          "mini_headline": "AI now daily for doctors",
+          "headline": "FDA clears Bracco AI for\nbrain aneurysm detection",
+          "body": "Uptunity Aneurysm flags suspected brain aneurysms over 3 mm on head CTA and tracks known ones across exams.",
+          "mini_headline": "FDA clears aneurysm AI",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/AM_NT-IV2s-WIQ0l-DhVMyXuf_4ShsdQj2epak14Zmo/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzYzMDY4MzEwLmpwZw==.webp",
-                "cap": "Getty Images"
+                "t": "p",
+                "x": "Bracco and Avicenna.AI have received U.S. Food and Drug Administration (FDA) 510(k) clearance for Uptunity Aneurysm, AI software that detects and assesses brain aneurysms on cerebral CT angiography (CTA) images."
               },
               {
                 "t": "p",
-                "x": "Physicians’ AI use is moving beyond administrative tasks to more everyday clinical decision support, like searching through medical literature, according to a survey published Thursday by Doximity. More than half of physicians said they use AI daily and another third use it at least once a week."
+                "x": "The software, intended as a concurrent reading aid, identifies suspected saccular brain aneurysms larger than 3 mm on head CTA and provides information on their presence, location, and size. For known aneurysms, its follow-up functionality provides quantitative measurements and comparisons between exams to assess changes over time."
               },
               {
                 "t": "p",
-                "x": "The Doximity survey of more than 3,300 of the firm’s U.S. doctors shows that the share of physicians using AI for clinical decision support nearly doubled to 63%, up from 37% in 2025. Also, more physicians — 70% from just over half in last year’s survey — are using AI to comb through troves of medical literature."
-              },
-              {
-                "t": "p",
-                "x": "A majority (81%) of physicians said that using AI has taught them something they previously didn’t know, including updated guidelines, alternative diagnoses or treatment options. Another 65% said that AI tools have helped with developing their clinical skills and knowledge."
-              },
-              {
-                "t": "p",
-                "x": "But 61% worry that trainees will rely on AI too much and not develop their own set of clinical skills. Nearly half were concerned about overreliance on AI, and three in four physicians said they encountered a factual inaccuracy at least once in the past year while using AI for work. Over a quarter said the effort they put into correcting or double-checking AI output has decreased compared with a year ago."
+                "x": "Uptunity Aneurysm is the first product in Bracco’s new Uptunity portfolio of interpretive AI software, developed through the company’s partnership with Avicenna.AI. Avicenna.AI will lead promotion and commercial distribution in the U.S."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI, 이제 의사의\n일상 도구가 됐다",
-          "body": "Doximity 조사, U.S. 의사 3,300+명의 63%가 진료에 AI를 쓴다.",
-          "mini_headline": "의사의 일상이 된 AI",
+          "headline": "FDA, Bracco AI\n뇌동맥류 탐지 허가",
+          "body": "Uptunity Aneurysm은 CTA로 3 mm 넘는 뇌동맥류를 찾고 추적한다.",
+          "mini_headline": "FDA, 동맥류 AI 허가",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/AM_NT-IV2s-WIQ0l-DhVMyXuf_4ShsdQj2epak14Zmo/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzYzMDY4MzEwLmpwZw==.webp",
-                "cap": "Getty Images"
+                "t": "p",
+                "x": "Bracco와 Avicenna.AI의 AI 소프트웨어 Uptunity Aneurysm이 U.S. 식품의약국(FDA)의 510(k) 허가를 받았다. 뇌 CT 혈관조영(CTA) 영상에서 뇌동맥류를 탐지하고 평가하는 제품이다."
               },
               {
                 "t": "p",
-                "x": "Doximity가 목요일 공개한 설문을 보면 의사들은 AI를 행정 업무뿐 아니라 의학 문헌 검색 같은 일상적인 임상 의사결정 지원에도 쓰기 시작했다. 절반 이상이 AI를 매일 쓴다고 답했고 또 다른 삼분의 일은 일주일에 한 번 이상 쓴다고 했다."
+                "x": "이 소프트웨어는 동시 판독 보조 도구로 쓰인다. 두부 CTA에서 3 mm보다 큰 낭상 뇌동맥류 의심 병변을 찾아 유무와 위치, 크기를 알려 준다. 이미 알려진 동맥류는 추적 관찰 기능이 정량 측정값을 내고 검사 간 비교로 시간에 따른 변화를 짚는다."
               },
               {
                 "t": "p",
-                "x": "Doximity가 자사 U.S. 의사 3,300명 이상을 조사해 보니 임상 의사결정 지원에 AI를 쓰는 비율이 2025년 37%에서 63%로 두 배 가까이 뛰었다. 방대한 의학 문헌을 훑을 때 AI를 쓰는 의사도 지난해 조사의 절반 남짓에서 70%로 늘었다."
-              },
-              {
-                "t": "p",
-                "x": "의사 다수(81%)는 AI를 쓰다가 갱신된 가이드라인, 다른 진단 가능성, 치료 옵션처럼 몰랐던 것을 새로 알게 됐다고 답했다. 65%는 AI 도구 덕분에 임상 역량과 지식이 늘었다고 했다."
-              },
-              {
-                "t": "p",
-                "x": "하지만 61%는 수련의가 AI에 지나치게 기대다 스스로 임상 역량을 기르지 못할까 걱정했다. 절반 가까이는 AI 과의존을 우려했고 의사 네 명 중 세 명은 지난 한 해 AI를 업무에 쓰다 사실 오류를 한 번 이상 겪었다. AI 결과물을 고치거나 다시 확인하는 품이 한 해 전보다 줄었다는 응답도 사분의 일을 넘었다."
+                "x": "Uptunity Aneurysm은 Bracco가 Avicenna.AI와 함께 개발한 판독용 AI 소프트웨어 포트폴리오 Uptunity의 첫 제품이다. U.S. 내 홍보와 상업 유통은 Avicenna.AI가 맡는다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIが医師の\n日常業務に定着",
-          "body": "Doximityの調査で、U.S.の医師3,300人超のうち63%が臨床判断にAIを使う。",
-          "mini_headline": "医師の日常になったAI",
+          "headline": "FDA、Bracco製\n脳動脈瘤検出AIを承認",
+          "body": "Uptunity Aneurysmは頭部CTAで3 mm超の脳動脈瘤を検出し追跡する。",
+          "mini_headline": "FDA、動脈瘤AIを承認",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/AM_NT-IV2s-WIQ0l-DhVMyXuf_4ShsdQj2epak14Zmo/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzYzMDY4MzEwLmpwZw==.webp",
-                "cap": "Getty Images"
+                "t": "p",
+                "x": "BraccoとAvicenna.AIは、脳CT血管造影(CTA)画像で脳動脈瘤を検出・評価するAIソフトウェアUptunity Aneurysmについて、U.S.食品医薬品局(FDA)の510(k)クリアランスを取得した。"
               },
               {
                 "t": "p",
-                "x": "Doximityが木曜日に公表した調査によると、医師のAI利用は事務作業を超え、医学文献の検索といった日常的な臨床意思決定支援へと広がっている。医師の半数以上がAIを毎日使い、さらに三分の一が少なくとも週に一度使っていると答えた。"
+                "x": "同ソフトウェアは同時読影の補助を目的とし、頭部CTAで3 mmを超える嚢状脳動脈瘤の疑いを特定して、その有無、位置、大きさの情報を示す。既知の動脈瘤については、フォローアップ機能が定量的な計測値と検査間の比較を提供し、経時的な変化の評価を支える。"
               },
               {
                 "t": "p",
-                "x": "同社のU.S.の医師3,300人以上を対象としたDoximityの調査では、臨床意思決定支援にAIを使う医師の割合が2025年の37%から63%へとほぼ倍増した。また、膨大な医学文献の精査にAIを使う医師も、昨年の調査の半数強から70%に増えた。"
-              },
-              {
-                "t": "p",
-                "x": "医師の大多数（81%）は、AIを使うことで更新されたガイドラインや別の診断、治療の選択肢など、以前は知らなかったことを学んだと答えた。さらに65%は、AIツールが臨床スキルと知識の向上に役立ったと答えた。"
-              },
-              {
-                "t": "p",
-                "x": "一方で61%は、研修医がAIに頼りすぎて自らの臨床スキルを身につけられないことを懸念している。半数近くがAIへの過度な依存を不安視し、医師の四人に三人は過去一年間に仕事でAIを使う中で事実誤認に少なくとも一度遭遇したと答えた。四分の一以上は、AIの出力を修正・再確認する手間が一年前より減ったと答えた。"
+                "x": "Uptunity Aneurysmは、BraccoがAvicenna.AIとの提携を通じて開発した読影用AIソフトウェアの新ポートフォリオUptunityの最初の製品である。U.S.での販促と商業流通はAvicenna.AIが主導する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI成为医生\n日常工作标配",
-          "body": "Doximity调查3,300多名U.S.医生，AI辅助临床决策比例几乎翻倍至63%。",
-          "mini_headline": "AI成医生日常工具",
+          "headline": "FDA批准Bracco AI\n用于脑动脉瘤检测",
+          "body": "Uptunity Aneurysm在头部CTA上标记超过3 mm的疑似脑动脉瘤并追踪。",
+          "mini_headline": "FDA批准动脉瘤AI",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/AM_NT-IV2s-WIQ0l-DhVMyXuf_4ShsdQj2epak14Zmo/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzYzMDY4MzEwLmpwZw==.webp",
-                "cap": "Getty Images"
+                "t": "p",
+                "x": "Bracco与Avicenna.AI的AI软件Uptunity Aneurysm获得U.S.食品药品监督管理局(FDA)510(k)许可，该软件可在脑部CT血管造影(CTA)图像上检测和评估脑动脉瘤。"
               },
               {
                 "t": "p",
-                "x": "据Doximity周四发布的一项调查，医生对AI的使用正从行政事务延伸到更日常的临床决策支持，例如检索医学文献。超过一半的医生表示每天使用AI，另有三分之一至少每周使用一次。"
+                "x": "该软件定位为同步阅片辅助工具，可在头部CTA上识别大于3 mm的疑似囊状脑动脉瘤，并提供其有无、位置和大小信息。对于已知动脉瘤，其随访功能可提供定量测量和不同检查之间的比较，以评估随时间发生的变化。"
               },
               {
                 "t": "p",
-                "x": "这项Doximity调查覆盖该公司3,300多名U.S.医生，结果显示，用AI进行临床决策支持的医生比例几乎翻倍，从2025年的37%升至63%。此外，用AI梳理海量医学文献的医生也从去年调查中的略超一半增至70%。"
-              },
-              {
-                "t": "p",
-                "x": "大多数医生（81%）表示，使用AI让他们学到了以前不知道的东西，包括更新后的指南、其他诊断或治疗方案。另有65%表示，AI工具帮助他们提升了临床技能和知识。"
-              },
-              {
-                "t": "p",
-                "x": "但61%的医生担心受训医生会过度依赖AI，无法培养自己的临床技能。近一半的医生担心对AI过度依赖，四分之三的医生表示，过去一年在工作中使用AI时至少遇到过一次事实错误。超过四分之一的医生表示，与一年前相比，他们在纠正或复核AI输出上投入的精力有所减少。"
+                "x": "Uptunity Aneurysm是Bracco全新解读型AI软件组合Uptunity的首款产品，由该公司与Avicenna.AI合作开发。Avicenna.AI将在U.S.主导推广和商业分销。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La AI se vuelve rutina diaria\nen el trabajo de los médicos",
-          "body": "Según Doximity, entre más de 3,300 médicos de U.S., el uso de AI para decisiones clínicas casi se duplicó al 63%.",
-          "mini_headline": "La AI ya es diaria para los médicos",
+          "headline": "La FDA autoriza la AI de Bracco\npara detectar aneurismas",
+          "body": "Uptunity Aneurysm señala posibles aneurismas cerebrales de más de 3 mm en CTA de cabeza y sigue los conocidos.",
+          "mini_headline": "La FDA autoriza una AI para aneurismas",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/AM_NT-IV2s-WIQ0l-DhVMyXuf_4ShsdQj2epak14Zmo/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzYzMDY4MzEwLmpwZw==.webp",
-                "cap": "Getty Images"
+                "t": "p",
+                "x": "Bracco y Avicenna.AI han obtenido la autorización 510(k) de la U.S. Food and Drug Administration (FDA) para Uptunity Aneurysm, un software de AI que detecta y evalúa aneurismas cerebrales en imágenes de angiografía por CT cerebral (CTA)."
               },
               {
                 "t": "p",
-                "x": "El uso de AI por parte de los médicos va más allá de las tareas administrativas y se extiende a un apoyo más cotidiano a las decisiones clínicas, como la búsqueda en la literatura médica, según una encuesta publicada el jueves por Doximity. Más de la mitad de los médicos dijo que usa AI a diario y otro tercio la usa al menos una vez por semana."
+                "x": "El software, concebido como ayuda para la lectura concurrente, identifica posibles aneurismas cerebrales saculares de más de 3 mm en la CTA de cabeza y ofrece información sobre su presencia, ubicación y tamaño. Para los aneurismas ya conocidos, su función de seguimiento proporciona mediciones cuantitativas y comparaciones entre estudios para evaluar los cambios a lo largo del tiempo."
               },
               {
                 "t": "p",
-                "x": "La encuesta de Doximity a más de 3,300 de sus médicos en U.S. muestra que la proporción de médicos que usan AI como apoyo a las decisiones clínicas casi se duplicó hasta el 63%, frente al 37% en 2025. Además, más médicos —el 70%, frente a algo más de la mitad en la encuesta del año pasado— usan AI para revisar grandes volúmenes de literatura médica."
-              },
-              {
-                "t": "p",
-                "x": "Una mayoría (81%) de los médicos dijo que usar AI les ha enseñado algo que antes no sabían, como guías actualizadas, diagnósticos alternativos u opciones de tratamiento. Otro 65% afirmó que las herramientas de AI les han ayudado a desarrollar sus habilidades y conocimientos clínicos."
-              },
-              {
-                "t": "p",
-                "x": "Pero el 61% teme que los residentes dependan demasiado de la AI y no desarrollen sus propias habilidades clínicas. Casi la mitad expresó preocupación por la dependencia excesiva de la AI, y tres de cada cuatro médicos dijeron haber encontrado al menos una inexactitud factual en el último año al usar AI en el trabajo. Más de una cuarta parte dijo que el esfuerzo que dedican a corregir o verificar los resultados de la AI ha disminuido respecto de hace un año."
+                "x": "Uptunity Aneurysm es el primer producto de la nueva cartera Uptunity de software de AI interpretativa de Bracco, desarrollada mediante la alianza de la compañía con Avicenna.AI. Avicenna.AI liderará la promoción y la distribución comercial en Estados Unidos (U.S.)."
               }
             ]
           }
@@ -199,125 +145,89 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI, 이제 의사의\n일상 도구가 되다",
-          "body": "Doximity 조사, U.S. 의사 3,300+명의 63%가 진료에 AI를 쓴다.",
-          "mini_headline": "의사의 일상이 된 AI",
+          "headline": "FDA, Bracco AI\n뇌동맥류 탐지 허가",
+          "body": "Uptunity Aneurysm은 CTA로 3 mm 넘는 뇌동맥류를 찾고 추적한다.",
+          "mini_headline": "FDA, 동맥류 AI 허가",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/AM_NT-IV2s-WIQ0l-DhVMyXuf_4ShsdQj2epak14Zmo/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzYzMDY4MzEwLmpwZw==.webp",
-                "cap": "Getty Images"
+                "t": "p",
+                "x": "Bracco와 Avicenna.AI가 뇌 CT 혈관조영(CTA) 영상에서 뇌동맥류를 탐지하고 평가하는 AI 소프트웨어 Uptunity Aneurysm에 대해 U.S. 식품의약국(FDA)의 510(k) 허가를 받았다."
               },
               {
                 "t": "p",
-                "x": "Doximity가 목요일 공개한 설문에 따르면, 의사들의 AI 활용은 행정 업무를 넘어 의학 문헌 검색 같은 일상적인 임상 의사결정 지원으로 넓어지고 있다. 의사의 절반 이상이 AI를 매일 쓴다고 답했고, 또 다른 삼분의 일은 일주일에 한 번 이상 쓴다고 답했다."
+                "x": "동시 판독 보조 도구로 쓰이는 이 소프트웨어는 두부 CTA에서 3 mm보다 큰 낭상 뇌동맥류 의심 병변을 찾아내고, 그 유무와 위치, 크기 정보를 제공한다. 이미 알려진 동맥류에 대해서는 추적 관찰 기능이 정량 측정값과 검사 간 비교를 제공해 시간에 따른 변화를 평가하도록 돕는다."
               },
               {
                 "t": "p",
-                "x": "Doximity가 자사의 U.S. 의사 3,300명 이상을 조사한 결과, 임상 의사결정 지원에 AI를 쓰는 의사 비율은 2025년 37%에서 63%로 두 배 가까이 늘었다. 방대한 의학 문헌을 훑는 데 AI를 쓰는 의사도 지난해 조사의 절반 남짓에서 70%로 많아졌다."
-              },
-              {
-                "t": "p",
-                "x": "의사 다수(81%)는 AI를 쓰면서 갱신된 가이드라인, 다른 진단 가능성, 치료 옵션 등 이전에 몰랐던 것을 배웠다고 답했다. 또 65%는 AI 도구가 임상 역량과 지식을 키우는 데 도움이 됐다고 했다."
-              },
-              {
-                "t": "p",
-                "x": "그러나 61%는 수련의가 AI에 지나치게 기대 스스로 임상 역량을 기르지 못할까 우려했다. 절반 가까이는 AI 과의존을 걱정했고, 의사 네 명 중 세 명은 지난 한 해 업무에 AI를 쓰다 사실 오류를 한 번 이상 겪었다고 답했다. 사분의 일 이상은 AI 결과물을 고치거나 다시 확인하는 데 들이는 노력이 한 해 전보다 줄었다고 했다."
+                "x": "Uptunity Aneurysm은 Bracco가 Avicenna.AI와의 협력으로 개발한 판독용 AI 소프트웨어 포트폴리오 Uptunity의 첫 제품이다. U.S. 내 홍보와 상업 유통은 Avicenna.AI가 이끈다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIが医師の\n日常業務に定着",
-          "body": "Doximityの調査で、U.S.の医師3,300人超のうち63%が臨床判断にAIを使う。",
-          "mini_headline": "医師の日常になったAI",
+          "headline": "FDA、Bracco製\n脳動脈瘤検出AIを承認",
+          "body": "Uptunity Aneurysmは頭部CTAで3 mm超の脳動脈瘤を検出し追跡する。",
+          "mini_headline": "FDA、動脈瘤AIを承認",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/AM_NT-IV2s-WIQ0l-DhVMyXuf_4ShsdQj2epak14Zmo/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzYzMDY4MzEwLmpwZw==.webp",
-                "cap": "Getty Images"
+                "t": "p",
+                "x": "BraccoとAvicenna.AIは、脳CT血管造影(CTA)画像で脳動脈瘤を検出・評価するAIソフトウェアUptunity Aneurysmについて、U.S.食品医薬品局(FDA)の510(k)クリアランスを取得した。"
               },
               {
                 "t": "p",
-                "x": "Doximityが木曜日に公表した調査によると、医師のAI利用は事務作業を超え、医学文献の検索といった日常的な臨床意思決定支援へと広がっている。医師の半数以上がAIを毎日使い、さらに三分の一が少なくとも週に一度使っていると答えた。"
+                "x": "同ソフトウェアは同時読影の補助を目的とし、頭部CTAで3 mmを超える嚢状脳動脈瘤の疑いを特定して、その有無、位置、大きさの情報を示す。既知の動脈瘤については、フォローアップ機能が定量的な計測値と検査間の比較を提供し、経時的な変化の評価を支える。"
               },
               {
                 "t": "p",
-                "x": "同社のU.S.の医師3,300人以上を対象としたDoximityの調査では、臨床意思決定支援にAIを使う医師の割合が2025年の37%から63%へとほぼ倍増した。また、膨大な医学文献の精査にAIを使う医師も、昨年の調査の半数強から70%に増えた。"
-              },
-              {
-                "t": "p",
-                "x": "医師の大多数（81%）は、AIを使うことで更新されたガイドラインや別の診断、治療の選択肢など、以前は知らなかったことを学んだと答えた。さらに65%は、AIツールが臨床スキルと知識の向上に役立ったと答えた。"
-              },
-              {
-                "t": "p",
-                "x": "一方で61%は、研修医がAIに頼りすぎて自らの臨床スキルを身につけられないことを懸念している。半数近くがAIへの過度な依存を不安視し、医師の四人に三人は過去一年間に仕事でAIを使う中で事実誤認に少なくとも一度遭遇したと答えた。四分の一以上は、AIの出力を修正・再確認する手間が一年前より減ったと答えた。"
+                "x": "Uptunity Aneurysmは、BraccoがAvicenna.AIとの提携を通じて開発した読影用AIソフトウェアの新ポートフォリオUptunityの最初の製品である。U.S.での販促と商業流通はAvicenna.AIが主導する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI成为医生\n日常工作标配",
-          "body": "Doximity调查3,300多名U.S.医生，AI辅助临床决策比例几乎翻倍至63%。",
-          "mini_headline": "AI成医生日常工具",
+          "headline": "FDA批准Bracco AI\n用于脑动脉瘤检测",
+          "body": "Uptunity Aneurysm在头部CTA上标记超过3 mm的疑似脑动脉瘤并追踪。",
+          "mini_headline": "FDA批准动脉瘤AI",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/AM_NT-IV2s-WIQ0l-DhVMyXuf_4ShsdQj2epak14Zmo/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzYzMDY4MzEwLmpwZw==.webp",
-                "cap": "Getty Images"
+                "t": "p",
+                "x": "Bracco与Avicenna.AI的AI软件Uptunity Aneurysm获得U.S.食品药品监督管理局(FDA)510(k)许可，该软件可在脑部CT血管造影(CTA)图像上检测和评估脑动脉瘤。"
               },
               {
                 "t": "p",
-                "x": "据Doximity周四发布的一项调查，医生对AI的使用正从行政事务延伸到更日常的临床决策支持，例如检索医学文献。超过一半的医生表示每天使用AI，另有三分之一至少每周使用一次。"
+                "x": "该软件定位为同步阅片辅助工具，可在头部CTA上识别大于3 mm的疑似囊状脑动脉瘤，并提供其有无、位置和大小信息。对于已知动脉瘤，其随访功能可提供定量测量和不同检查之间的比较，以评估随时间发生的变化。"
               },
               {
                 "t": "p",
-                "x": "这项Doximity调查覆盖该公司3,300多名U.S.医生，结果显示，用AI进行临床决策支持的医生比例几乎翻倍，从2025年的37%升至63%。此外，用AI梳理海量医学文献的医生也从去年调查中的略超一半增至70%。"
-              },
-              {
-                "t": "p",
-                "x": "大多数医生（81%）表示，使用AI让他们学到了以前不知道的东西，包括更新后的指南、其他诊断或治疗方案。另有65%表示，AI工具帮助他们提升了临床技能和知识。"
-              },
-              {
-                "t": "p",
-                "x": "但61%的医生担心受训医生会过度依赖AI，无法培养自己的临床技能。近一半的医生担心对AI过度依赖，四分之三的医生表示，过去一年在工作中使用AI时至少遇到过一次事实错误。超过四分之一的医生表示，与一年前相比，他们在纠正或复核AI输出上投入的精力有所减少。"
+                "x": "Uptunity Aneurysm是Bracco全新解读型AI软件组合Uptunity的首款产品，由该公司与Avicenna.AI合作开发。Avicenna.AI将在U.S.主导推广和商业分销。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La AI se vuelve rutina diaria\nen el trabajo de los médicos",
-          "body": "Según Doximity, entre más de 3,300 médicos de U.S., el uso de AI para decisiones clínicas casi se duplicó al 63%.",
-          "mini_headline": "La AI ya es diaria para los médicos",
+          "headline": "La FDA autoriza la AI de Bracco\npara detectar aneurismas",
+          "body": "Uptunity Aneurysm señala posibles aneurismas cerebrales de más de 3 mm en CTA de cabeza y sigue los conocidos.",
+          "mini_headline": "La FDA autoriza una AI para aneurismas",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/AM_NT-IV2s-WIQ0l-DhVMyXuf_4ShsdQj2epak14Zmo/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzYzMDY4MzEwLmpwZw==.webp",
-                "cap": "Getty Images"
+                "t": "p",
+                "x": "Bracco y Avicenna.AI han obtenido la autorización 510(k) de la U.S. Food and Drug Administration (FDA) para Uptunity Aneurysm, un software de AI que detecta y evalúa aneurismas cerebrales en imágenes de angiografía por CT cerebral (CTA)."
               },
               {
                 "t": "p",
-                "x": "El uso de AI por parte de los médicos va más allá de las tareas administrativas y se extiende a un apoyo más cotidiano a las decisiones clínicas, como la búsqueda en la literatura médica, según una encuesta publicada el jueves por Doximity. Más de la mitad de los médicos dijo que usa AI a diario y otro tercio la usa al menos una vez por semana."
+                "x": "El software, concebido como ayuda para la lectura concurrente, identifica posibles aneurismas cerebrales saculares de más de 3 mm en la CTA de cabeza y ofrece información sobre su presencia, ubicación y tamaño. Para los aneurismas ya conocidos, su función de seguimiento proporciona mediciones cuantitativas y comparaciones entre estudios para evaluar los cambios a lo largo del tiempo."
               },
               {
                 "t": "p",
-                "x": "La encuesta de Doximity a más de 3,300 de sus médicos en U.S. muestra que la proporción de médicos que usan AI como apoyo a las decisiones clínicas casi se duplicó hasta el 63%, frente al 37% en 2025. Además, más médicos —el 70%, frente a algo más de la mitad en la encuesta del año pasado— usan AI para revisar grandes volúmenes de literatura médica."
-              },
-              {
-                "t": "p",
-                "x": "Una mayoría (81%) de los médicos dijo que usar AI les ha enseñado algo que antes no sabían, como guías actualizadas, diagnósticos alternativos u opciones de tratamiento. Otro 65% afirmó que las herramientas de AI les han ayudado a desarrollar sus habilidades y conocimientos clínicos."
-              },
-              {
-                "t": "p",
-                "x": "Pero el 61% teme que los residentes dependan demasiado de la AI y no desarrollen sus propias habilidades clínicas. Casi la mitad expresó preocupación por la dependencia excesiva de la AI, y tres de cada cuatro médicos dijeron haber encontrado al menos una inexactitud factual en el último año al usar AI en el trabajo. Más de una cuarta parte dijo que el esfuerzo que dedican a corregir o verificar los resultados de la AI ha disminuido respecto de hace un año."
+                "x": "Uptunity Aneurysm es el primer producto de la nueva cartera Uptunity de software de AI interpretativa de Bracco, desarrollada mediante la alianza de la compañía con Avicenna.AI. Avicenna.AI liderará la promoción y la distribución comercial en Estados Unidos (U.S.)."
               }
             ]
           }
@@ -325,241 +235,1125 @@
       }
     },
     {
-      "id": "medicare-wiser-ai-priorauth-docs",
+      "id": "npj-ai-malfunction-oversight",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "새 문서, Medicare\nAI 사전승인 시범에 의문",
-      "body": "새 문서가 Medicare의 AI 사전승인 시범사업 WISeR에 의문을 키웠다.",
-      "mini_headline": "Medicare AI 사전승인에 의문",
+      "headline": "오작동하는 AI,\n의사도 잡기 어렵다",
+      "body": "의사 48명 무작위 연구에서 심장 청진 AI의 신뢰도가 떨어지자 진단도 나빠졌다.",
+      "mini_headline": "AI 오작동 놓치는 의사",
       "tool": "Medicine",
-      "source": "STAT",
-      "url": "https://www.statnews.com/2026/11/12/new-documents-raise-more-questions-about-medicares-ai-prior-authorization-experiment/",
-      "accent": "#0070f3",
+      "source": "npj Digital Medicine",
+      "url": "https://www.nature.com/articles/s41746-026-03410-x",
+      "accent": "#3b6bff",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "의사가 AI 시스템을 감독하며 오작동을 잡아내야 하는 일이 늘고 있다. 연구진은 갈수록 심하게 오작동하는 심장 청진 AI로 무작위 대조 연구를 진행해 의사 48명을 조사했다. 의사가 먼저 스스로 분류하도록 인지적으로 강제해도, 사람의 성능이 AI 신뢰도보다 높아도 진단 성능은 AI 신뢰도를 따라 떨어졌다. 의사의 자신감은 AI를 향한 신뢰보다 더 빨리 꺾였다."
+          },
+          {
+            "t": "p",
+            "x": "연구진은 의사 마흔여덟 명을 AI-First 또는 AI-Second 조건에 무작위로 나누고 녹음된 심음 40개를 정상과 비정상으로 분류하게 했다. 시스템 신뢰도는 오작동을 흉내 내려고 네 개 블록에 걸쳐 단계적으로 낮췄다(90%, 60%, 50%, 0%)."
+          },
+          {
+            "t": "img",
+            "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03410-x/MediaObjects/41746_2026_3410_Fig1_HTML.png",
+            "cap": "Fig. 1: 연구 결과."
+          },
+          {
+            "t": "p",
+            "x": "AI 보조(AI-assisted) 진단 성능은 81.45%에서 58.33%로 떨어졌다. 시스템 신뢰도가 낮을 때는 인간과 AI를 합친(human-AI) 성능이 도움 없이 판단한 사람의 기준선보다 낮았다. 신뢰도 하락을 알아챘다고 답한 참가자는 12.5%뿐이었다."
+          },
+          {
+            "t": "p",
+            "x": "저자들은 감독이 제대로 이뤄지려면 불확실성 지표나 설명 제공 같은 시스템·조직 차원의 조치가 필요할 수 있고, 책임도 AI 배포자·공급자와 나눠야 한다고 본다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Doctors struggle to catch\na malfunctioning AI",
+          "body": "In a randomized study of 48 physicians, diagnostic performance fell as a cardiac auscultation AI grew less reliable.",
+          "mini_headline": "Doctors miss failing AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Increasingly, physicians must oversee AI systems to detect system malfunctions. We studied 48 physicians in a randomized controlled study using an increasingly malfunctioning AI for cardiac auscultation. Diagnostic performance declined alongside AI reliability, even when physicians were cognitively forced to make an initial classification, and when human performance exceeded AI reliability. Physicians’ confidence declined faster than their trust in AI."
+              },
+              {
+                "t": "p",
+                "x": "Forty-eight physicians were randomly assigned to an AI-First or AI-Second condition and classified 40 recorded heart sounds as normal or abnormal. To simulate malfunction, system reliability declined stepwise across four blocks (90%, 60%, 50%, 0%)."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03410-x/MediaObjects/41746_2026_3410_Fig1_HTML.png",
+                "cap": "Fig. 1: Study results."
+              },
+              {
+                "t": "p",
+                "x": "AI-assisted diagnostic performance declined from 81.45% to 58.33%. Under low system reliability, combined human-AI performance fell below the unassisted human baseline, and only 12.5% of participants reported noticing declining system reliability."
+              },
+              {
+                "t": "p",
+                "x": "The authors say effective oversight may require action at the system and organizational levels, such as uncertainty indicators or explanations, with accountability shared with AI deployers and providers."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "오작동하는 AI,\n의사도 잡기 어렵다",
+          "body": "의사 48명 무작위 연구에서 심장 청진 AI의 신뢰도가 떨어지자 진단도 나빠졌다.",
+          "mini_headline": "AI 오작동 놓치는 의사",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "의사가 AI 시스템을 감독하며 오작동을 잡아내야 하는 일이 늘고 있다. 연구진은 갈수록 심하게 오작동하는 심장 청진 AI로 무작위 대조 연구를 진행해 의사 48명을 조사했다. 의사가 먼저 스스로 분류하도록 인지적으로 강제해도, 사람의 성능이 AI 신뢰도보다 높아도 진단 성능은 AI 신뢰도를 따라 떨어졌다. 의사의 자신감은 AI를 향한 신뢰보다 더 빨리 꺾였다."
+              },
+              {
+                "t": "p",
+                "x": "연구진은 의사 마흔여덟 명을 AI-First 또는 AI-Second 조건에 무작위로 나누고 녹음된 심음 40개를 정상과 비정상으로 분류하게 했다. 시스템 신뢰도는 오작동을 흉내 내려고 네 개 블록에 걸쳐 단계적으로 낮췄다(90%, 60%, 50%, 0%)."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03410-x/MediaObjects/41746_2026_3410_Fig1_HTML.png",
+                "cap": "Fig. 1: 연구 결과."
+              },
+              {
+                "t": "p",
+                "x": "AI 보조(AI-assisted) 진단 성능은 81.45%에서 58.33%로 떨어졌다. 시스템 신뢰도가 낮을 때는 인간과 AI를 합친(human-AI) 성능이 도움 없이 판단한 사람의 기준선보다 낮았다. 신뢰도 하락을 알아챘다고 답한 참가자는 12.5%뿐이었다."
+              },
+              {
+                "t": "p",
+                "x": "저자들은 감독이 제대로 이뤄지려면 불확실성 지표나 설명 제공 같은 시스템·조직 차원의 조치가 필요할 수 있고, 책임도 AI 배포자·공급자와 나눠야 한다고 본다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "誤作動するAIを\n医師は見抜きにくい",
+          "body": "医師48人の無作為化研究で、心音聴診AIの信頼性が下がると診断成績も低下した。",
+          "mini_headline": "誤作動AIを見逃す医師",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "医師には、システムの誤作動を見つけるためにAIシステムを監督する役割がますます求められている。研究チームは、次第に誤作動が増える心臓聴診AIを用いた無作為化比較試験で医師48人を調べた。医師に最初の分類を認知的に強制した場合や、人間の成績がAIの信頼性を上回った場合でも、診断成績はAIの信頼性とともに低下した。医師の自信は、AIへの信頼よりも速く低下した。"
+              },
+              {
+                "t": "p",
+                "x": "四十八人の医師をAI-First条件またはAI-Second条件に無作為に割り付け、録音された心音40件を正常か異常かに分類させた。誤作動を模擬するため、システムの信頼性は四つのブロックにわたって段階的に引き下げた(90%、60%、50%、0%)。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03410-x/MediaObjects/41746_2026_3410_Fig1_HTML.png",
+                "cap": "Fig. 1: 研究結果。"
+              },
+              {
+                "t": "p",
+                "x": "AI支援(AI-assisted)による診断成績は81.45%から58.33%に低下した。システムの信頼性が低い条件では、人間とAIを組み合わせた(human-AI)成績が支援なしの人間のベースラインを下回り、システムの信頼性低下に気づいたと答えた参加者は12.5%にとどまった。"
+              },
+              {
+                "t": "p",
+                "x": "著者らは、効果的な監督には不確実性の指標や説明といったシステムや組織レベルでの対策が必要となる可能性があり、責任はAIの導入者や提供者と分担すべきだとしている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "AI出故障时\n医生难以察觉",
+          "body": "一项纳入48名医生的随机研究显示，心脏听诊AI越不可靠，诊断表现越差。",
+          "mini_headline": "医生难察AI故障",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "医生越来越需要监督AI系统，以发现系统故障。我们在一项随机对照研究中，让48名医生使用一个故障逐步加重的心脏听诊AI。即使强制医生先在认知上作出初步分类，或人类表现优于AI可靠性时，诊断表现仍随AI可靠性一同下降。医生自信心下降的速度快于他们对AI信任的下降。"
+              },
+              {
+                "t": "p",
+                "x": "四十八名医生被随机分配到AI-First或AI-Second组，对40段录制的心音进行正常或异常分类。为模拟故障，系统可靠性在四个区块中逐级下降（90%、60%、50%、0%）。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03410-x/MediaObjects/41746_2026_3410_Fig1_HTML.png",
+                "cap": "Fig. 1：研究结果。"
+              },
+              {
+                "t": "p",
+                "x": "AI辅助（AI-assisted）诊断表现从81.45%降至58.33%。在系统可靠性较低时，人与AI联合（human-AI）的表现低于无辅助的人类基线，仅12.5%的参与者表示注意到系统可靠性下降。"
+              },
+              {
+                "t": "p",
+                "x": "作者表示，有效监督可能需要系统和组织层面的措施，例如不确定性指标或解释，并由AI部署方和提供方共同承担责任。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "A los médicos les cuesta\ndetectar una AI que falla",
+          "body": "En un ensayo aleatorizado con 48 médicos, el diagnóstico empeoró al perder fiabilidad una AI de auscultación cardíaca.",
+          "mini_headline": "Médicos que no detectan la AI fallida",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Cada vez más, los médicos deben supervisar sistemas de AI para detectar fallos. Estudiamos a 48 médicos en un ensayo controlado aleatorizado con una AI de auscultación cardíaca que fallaba de forma creciente. El rendimiento diagnóstico disminuyó junto con la fiabilidad de la AI, incluso cuando se obligó cognitivamente a los médicos a hacer una clasificación inicial y cuando el rendimiento humano superaba la fiabilidad de la AI. La confianza de los médicos en sí mismos disminuyó más rápido que su confianza en la AI."
+              },
+              {
+                "t": "p",
+                "x": "Cuarenta y ocho médicos fueron asignados al azar a una condición AI-First o AI-Second y clasificaron 40 sonidos cardíacos grabados como normales o anormales. Para simular un fallo, la fiabilidad del sistema disminuyó de forma escalonada a lo largo de cuatro bloques (90%, 60%, 50%, 0%)."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03410-x/MediaObjects/41746_2026_3410_Fig1_HTML.png",
+                "cap": "Fig. 1: Resultados del estudio."
+              },
+              {
+                "t": "p",
+                "x": "El rendimiento diagnóstico asistido por AI (AI-assisted) bajó del 81.45% al 58.33%. Con baja fiabilidad del sistema, el rendimiento combinado humano-AI (human-AI) cayó por debajo de la línea base humana sin asistencia, y solo el 12.5% de los participantes dijo haber notado la caída de fiabilidad del sistema."
+              },
+              {
+                "t": "p",
+                "x": "Los autores señalan que una supervisión eficaz puede requerir medidas a nivel del sistema y de la organización, como indicadores de incertidumbre o explicaciones, con una responsabilidad compartida con quienes despliegan y proveen la AI."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "오작동하는 AI,\n의사도 잡기 어렵다",
+          "body": "의사 48명 무작위 연구에서 심장 청진 AI의 신뢰도가 떨어지자 진단도 나빠졌다.",
+          "mini_headline": "AI 오작동 놓치는 의사",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "의사가 시스템 오작동을 잡아내기 위해 AI 시스템을 감독해야 하는 일이 늘고 있다. 연구진은 점점 더 심하게 오작동하는 심장 청진 AI를 활용한 무작위 대조 연구에서 의사 48명을 조사했다. 의사가 먼저 스스로 분류하도록 인지적으로 강제했을 때에도, 사람의 성능이 AI 신뢰도를 웃돌았을 때에도 진단 성능은 AI 신뢰도와 함께 떨어졌다. 의사의 자신감은 AI에 대한 신뢰보다 더 빠르게 낮아졌다."
+              },
+              {
+                "t": "p",
+                "x": "의사 마흔여덟 명을 AI-First 또는 AI-Second 조건에 무작위로 배정하고, 녹음된 심음 40개를 정상 또는 비정상으로 분류하게 했다. 오작동을 모사하기 위해 시스템 신뢰도는 네 개 블록에 걸쳐 단계적으로 낮췄다(90%, 60%, 50%, 0%)."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03410-x/MediaObjects/41746_2026_3410_Fig1_HTML.png",
+                "cap": "Fig. 1: 연구 결과."
+              },
+              {
+                "t": "p",
+                "x": "AI 보조(AI-assisted) 진단 성능은 81.45%에서 58.33%로 떨어졌다. 시스템 신뢰도가 낮을 때 인간과 AI의 결합(human-AI) 성능은 도움 없이 판단한 사람의 기준선 아래로 내려갔고, 시스템 신뢰도 하락을 알아챘다고 답한 참가자는 12.5%에 그쳤다."
+              },
+              {
+                "t": "p",
+                "x": "저자들은 효과적인 감독을 위해 불확실성 지표나 설명 제공처럼 시스템과 조직 차원의 조치가 필요할 수 있으며, 책임을 AI 배포자 및 공급자와 나눠야 한다고 말한다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "誤作動するAIを\n医師は見抜きにくい",
+          "body": "医師48人の無作為化研究で、心音聴診AIの信頼性が下がると診断成績も低下した。",
+          "mini_headline": "誤作動AIを見逃す医師",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "医師には、システムの誤作動を見つけるためにAIシステムを監督する役割がますます求められている。研究チームは、次第に誤作動が増える心臓聴診AIを用いた無作為化比較試験で医師48人を調べた。医師に最初の分類を認知的に強制した場合や、人間の成績がAIの信頼性を上回った場合でも、診断成績はAIの信頼性とともに低下した。医師の自信は、AIへの信頼よりも速く低下した。"
+              },
+              {
+                "t": "p",
+                "x": "四十八人の医師をAI-First条件またはAI-Second条件に無作為に割り付け、録音された心音40件を正常か異常かに分類させた。誤作動を模擬するため、システムの信頼性は四つのブロックにわたって段階的に引き下げた(90%、60%、50%、0%)。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03410-x/MediaObjects/41746_2026_3410_Fig1_HTML.png",
+                "cap": "Fig. 1: 研究結果。"
+              },
+              {
+                "t": "p",
+                "x": "AI支援(AI-assisted)による診断成績は81.45%から58.33%に低下した。システムの信頼性が低い条件では、人間とAIを組み合わせた(human-AI)成績が支援なしの人間のベースラインを下回り、システムの信頼性低下に気づいたと答えた参加者は12.5%にとどまった。"
+              },
+              {
+                "t": "p",
+                "x": "著者らは、効果的な監督には不確実性の指標や説明といったシステムや組織レベルでの対策が必要となる可能性があり、責任はAIの導入者や提供者と分担すべきだとしている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "AI出故障时\n医生难以察觉",
+          "body": "一项纳入48名医生的随机研究显示，心脏听诊AI越不可靠，诊断表现越差。",
+          "mini_headline": "医生难察AI故障",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "医生越来越需要监督AI系统，以发现系统故障。我们在一项随机对照研究中，让48名医生使用一个故障逐步加重的心脏听诊AI。即使强制医生先在认知上作出初步分类，或人类表现优于AI可靠性时，诊断表现仍随AI可靠性一同下降。医生自信心下降的速度快于他们对AI信任的下降。"
+              },
+              {
+                "t": "p",
+                "x": "四十八名医生被随机分配到AI-First或AI-Second组，对40段录制的心音进行正常或异常分类。为模拟故障，系统可靠性在四个区块中逐级下降（90%、60%、50%、0%）。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03410-x/MediaObjects/41746_2026_3410_Fig1_HTML.png",
+                "cap": "Fig. 1：研究结果。"
+              },
+              {
+                "t": "p",
+                "x": "AI辅助（AI-assisted）诊断表现从81.45%降至58.33%。在系统可靠性较低时，人与AI联合（human-AI）的表现低于无辅助的人类基线，仅12.5%的参与者表示注意到系统可靠性下降。"
+              },
+              {
+                "t": "p",
+                "x": "作者表示，有效监督可能需要系统和组织层面的措施，例如不确定性指标或解释，并由AI部署方和提供方共同承担责任。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "A los médicos les cuesta\ndetectar una AI que falla",
+          "body": "En un ensayo aleatorizado con 48 médicos, el diagnóstico empeoró al perder fiabilidad una AI de auscultación cardíaca.",
+          "mini_headline": "Médicos que no detectan la AI fallida",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Cada vez más, los médicos deben supervisar sistemas de AI para detectar fallos. Estudiamos a 48 médicos en un ensayo controlado aleatorizado con una AI de auscultación cardíaca que fallaba de forma creciente. El rendimiento diagnóstico disminuyó junto con la fiabilidad de la AI, incluso cuando se obligó cognitivamente a los médicos a hacer una clasificación inicial y cuando el rendimiento humano superaba la fiabilidad de la AI. La confianza de los médicos en sí mismos disminuyó más rápido que su confianza en la AI."
+              },
+              {
+                "t": "p",
+                "x": "Cuarenta y ocho médicos fueron asignados al azar a una condición AI-First o AI-Second y clasificaron 40 sonidos cardíacos grabados como normales o anormales. Para simular un fallo, la fiabilidad del sistema disminuyó de forma escalonada a lo largo de cuatro bloques (90%, 60%, 50%, 0%)."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03410-x/MediaObjects/41746_2026_3410_Fig1_HTML.png",
+                "cap": "Fig. 1: Resultados del estudio."
+              },
+              {
+                "t": "p",
+                "x": "El rendimiento diagnóstico asistido por AI (AI-assisted) bajó del 81.45% al 58.33%. Con baja fiabilidad del sistema, el rendimiento combinado humano-AI (human-AI) cayó por debajo de la línea base humana sin asistencia, y solo el 12.5% de los participantes dijo haber notado la caída de fiabilidad del sistema."
+              },
+              {
+                "t": "p",
+                "x": "Los autores señalan que una supervisión eficaz puede requerir medidas a nivel del sistema y de la organización, como indicadores de incertidumbre o explicaciones, con una responsabilidad compartida con quienes despliegan y proveen la AI."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "samsung-heidi-ambient-scribe",
+      "source_lang": "ko",
+      "eyebrow": "AI NEWS",
+      "headline": "삼성서울병원\n하이디 음성기록 AI",
+      "body": "삼성서울병원이 하이디와 MOU를 맺고 다윈에 AI 진료 기록 도입을 추진한다.",
+      "mini_headline": "삼성서울병원, 하이디 협력",
+      "tool": "Medicine",
+      "source": "청년의사",
+      "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044540",
+      "accent": "#eb367f",
+      "motif": "sphere",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044540_3048515_5215.jpg",
+            "cap": "삼성서울병원이 글로벌 헬스케어 인공지능(AI) 기업 하이디(Heidi)와 업무협약을 체결했다(사진제공: 삼성서울병원)."
+          },
+          {
+            "t": "p",
+            "x": "삼성서울병원이 글로벌 헬스케어 인공지능(AI) 기업 하이디(Heidi)와 손잡고 진료 과정에서 발생하는 음성을 텍스트로 변환하는 AI 기술 도입을 추진한다."
+          },
+          {
+            "t": "p",
+            "x": "삼성서울병원은 지난 12일 하이디와 의료 AI 서비스 분야 협력을 위한 업무협약을 체결했다고 13일 밝혔다. 이번 협약은 하이디의 첫 국내 진출 사례다."
+          },
+          {
+            "t": "p",
+            "x": "협약에 따라 양측은 삼성서울병원의 자체 의료정보시스템인 '다윈(DARWIN)'에 음성·텍스트 변환 기술을 적용하는 방안을 중심으로 협력한다. 하이디가 개발 중인 의료 AI 에이전트를 기반으로 원격의료와 진료 예약 등 다양한 분야에서도 협력할 계획이다."
+          },
+          {
+            "t": "p",
+            "x": "지난 2019년 설립된 하이디는 의료진의 진료 업무를 지원하는 AI 기술을 개발하는 기업이다. 현재 190개국에서 110개 언어로 매주 300만건 이상의 진료를 지원하고 있다. 주요 서비스는 진료 과정에서 발생하는 음성을 텍스트로 변환하는 기술이다. 이 밖에도 진료과별 맞춤형 서식 생성, 실시간 AI 질의응답을 통한 임상 의사결정 지원 등 의료현장에서 활용할 수 있는 서비스를 제공하고 있다."
+          },
+          {
+            "t": "p",
+            "x": "하이디 토마스 켈리(Thomas Kelly) CEO는 \"삼성서울병원은 하이디가 한국에 진출하는 첫 사례로 핵심 협력사로서 협업을 추진해 나갈 예정\"이라며 \"국내 병원들이 본사 기술을 바탕으로 환자를 향한 따뜻한 가치는 지키면서 의료 역량은 한층 강화할 수 있기를 기대한다\"고 말했다."
+          },
+          {
+            "t": "p",
+            "x": "삼성서울병원 박승우 원장은 \"하이디와 이번 협력으로 환자 친화적인 AI 의료 환경 구축에 더욱 속도를 낼 수 있을 것으로 기대한다\"며 \"미래의료를 구현해 스마트병원의 내일을 만들어가는 중요한 도약을 이뤄내는 계기가 될 것\"이라고 했다."
+          },
+          {
+            "t": "p",
+            "x": "한편, 삼성서울병원은 미국 시사주간지 뉴스위크가 발표한 '세계 최고 스마트 병원(World's Best Smart Hospitals)' 평가에서 세계 4위, 국내 1위에 올랐다."
+          },
+          {
+            "t": "p",
+            "x": "미국 보건의료정보관리시스템협회(HIMSS)의 의료기관 정보화 수준 평가에서도 의료 IT 인프라(INFRAM), 전자의무기록 시스템(EMRAM), 디지털 영상 진료(DIAM), 의료 데이터 분석(AMAM) 등 4개 분야에서 최고 등급인 7단계를 획득했다. 특히 INFRAM과 DIAM 분야에서는 각각 2022년과 2023년 세계 최초로 7단계 인증을 받았다."
+          }
+        ]
+      },
+      "text": {
+        "ko": {
+          "headline": "삼성서울병원\n하이디 음성기록 AI",
+          "body": "삼성서울병원이 하이디와 MOU를 맺고 다윈에 AI 진료 기록 도입을 추진한다.",
+          "mini_headline": "삼성서울병원, 하이디 협력",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044540_3048515_5215.jpg",
+                "cap": "삼성서울병원이 글로벌 헬스케어 인공지능(AI) 기업 하이디(Heidi)와 업무협약을 체결했다(사진제공: 삼성서울병원)."
+              },
+              {
+                "t": "p",
+                "x": "삼성서울병원이 글로벌 헬스케어 인공지능(AI) 기업 하이디(Heidi)와 손잡고 진료 과정에서 발생하는 음성을 텍스트로 변환하는 AI 기술 도입을 추진한다."
+              },
+              {
+                "t": "p",
+                "x": "삼성서울병원은 지난 12일 하이디와 의료 AI 서비스 분야 협력을 위한 업무협약을 체결했다고 13일 밝혔다. 이번 협약은 하이디의 첫 국내 진출 사례다."
+              },
+              {
+                "t": "p",
+                "x": "협약에 따라 양측은 삼성서울병원의 자체 의료정보시스템인 '다윈(DARWIN)'에 음성·텍스트 변환 기술을 적용하는 방안을 중심으로 협력한다. 하이디가 개발 중인 의료 AI 에이전트를 기반으로 원격의료와 진료 예약 등 다양한 분야에서도 협력할 계획이다."
+              },
+              {
+                "t": "p",
+                "x": "지난 2019년 설립된 하이디는 의료진의 진료 업무를 지원하는 AI 기술을 개발하는 기업이다. 현재 190개국에서 110개 언어로 매주 300만건 이상의 진료를 지원하고 있다. 주요 서비스는 진료 과정에서 발생하는 음성을 텍스트로 변환하는 기술이다. 이 밖에도 진료과별 맞춤형 서식 생성, 실시간 AI 질의응답을 통한 임상 의사결정 지원 등 의료현장에서 활용할 수 있는 서비스를 제공하고 있다."
+              },
+              {
+                "t": "p",
+                "x": "하이디 토마스 켈리(Thomas Kelly) CEO는 \"삼성서울병원은 하이디가 한국에 진출하는 첫 사례로 핵심 협력사로서 협업을 추진해 나갈 예정\"이라며 \"국내 병원들이 본사 기술을 바탕으로 환자를 향한 따뜻한 가치는 지키면서 의료 역량은 한층 강화할 수 있기를 기대한다\"고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "삼성서울병원 박승우 원장은 \"하이디와 이번 협력으로 환자 친화적인 AI 의료 환경 구축에 더욱 속도를 낼 수 있을 것으로 기대한다\"며 \"미래의료를 구현해 스마트병원의 내일을 만들어가는 중요한 도약을 이뤄내는 계기가 될 것\"이라고 했다."
+              },
+              {
+                "t": "p",
+                "x": "한편, 삼성서울병원은 미국 시사주간지 뉴스위크가 발표한 '세계 최고 스마트 병원(World's Best Smart Hospitals)' 평가에서 세계 4위, 국내 1위에 올랐다."
+              },
+              {
+                "t": "p",
+                "x": "미국 보건의료정보관리시스템협회(HIMSS)의 의료기관 정보화 수준 평가에서도 의료 IT 인프라(INFRAM), 전자의무기록 시스템(EMRAM), 디지털 영상 진료(DIAM), 의료 데이터 분석(AMAM) 등 4개 분야에서 최고 등급인 7단계를 획득했다. 특히 INFRAM과 DIAM 분야에서는 각각 2022년과 2023년 세계 최초로 7단계 인증을 받았다."
+              }
+            ]
+          }
+        },
+        "en": {
+          "headline": "Samsung Medical Center, Heidi\npartner on AI voice records",
+          "body": "Samsung Medical Center signed an MOU with Heidi and plans to bring AI clinical documentation to DARWIN.",
+          "mini_headline": "Samsung Medical Center partners with Heidi",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044540_3048515_5215.jpg",
+                "cap": "Samsung Medical Center has signed a business agreement with Heidi, a global healthcare artificial intelligence (AI) company (photo: Samsung Medical Center)."
+              },
+              {
+                "t": "p",
+                "x": "Samsung Medical Center is teaming up with Heidi, a global healthcare artificial intelligence (AI) company, to introduce AI technology that converts speech generated during patient consultations into text."
+              },
+              {
+                "t": "p",
+                "x": "Samsung Medical Center said on the 13th that it signed a business agreement with Heidi on the 12th to cooperate on medical AI services. The agreement is Heidi's first entry into Korea."
+              },
+              {
+                "t": "p",
+                "x": "Under the agreement, the two sides will focus on applying speech-to-text technology to DARWIN, the hospital's own medical information system. They also plan to cooperate in areas such as telemedicine and appointment booking, building on the medical AI agent Heidi is developing."
+              },
+              {
+                "t": "p",
+                "x": "Founded in 2019, Heidi develops AI technology that supports clinicians in their care work. It currently supports more than 3 million (300만건) consultations a week in 110 languages across 190 countries. Its main service is technology that converts speech generated during consultations into text. It also offers services for clinical settings, such as generating templates tailored to each specialty and supporting clinical decisions through real-time AI question answering."
+              },
+              {
+                "t": "p",
+                "x": "Heidi CEO Thomas Kelly said, \"Samsung Medical Center is Heidi's first case of entering Korea, and we plan to pursue collaboration with it as a key partner,\" adding, \"We hope Korean hospitals, building on our technology, can further strengthen their medical capabilities while keeping their warm values toward patients.\""
+              },
+              {
+                "t": "p",
+                "x": "Samsung Medical Center President Park Seung-woo said, \"We expect this cooperation with Heidi to further speed up building a patient-friendly AI medical environment,\" adding, \"It will be an occasion for an important leap toward realizing future medicine and shaping the tomorrow of smart hospitals.\""
+              },
+              {
+                "t": "p",
+                "x": "Meanwhile, Samsung Medical Center ranked 4th in the world and 1st in Korea in the 'World's Best Smart Hospitals' ranking published by the U.S. weekly news magazine Newsweek."
+              },
+              {
+                "t": "p",
+                "x": "In the healthcare IT maturity assessments of the U.S. Healthcare Information and Management Systems Society (HIMSS), it also achieved Stage 7, the highest level, in 4 areas: healthcare IT infrastructure (INFRAM), electronic medical record systems (EMRAM), digital imaging (DIAM) and healthcare data analytics (AMAM). In particular, it was the first in the world to receive Stage 7 certification in INFRAM and DIAM, in 2022 and 2023 respectively."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "サムスンソウル病院\nHeidiの音声記録AI",
+          "body": "サムスンソウル病院がHeidiとMOUを結び、DARWINへのAI診療記録導入を進める。",
+          "mini_headline": "サムスンソウル病院、Heidiと協力",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044540_3048515_5215.jpg",
+                "cap": "サムスンソウル病院がグローバルヘルスケア人工知能(AI)企業のHeidiと業務協約を締結した(写真提供:サムスンソウル病院)。"
+              },
+              {
+                "t": "p",
+                "x": "サムスンソウル病院がグローバルヘルスケア人工知能(AI)企業のHeidiと手を組み、診療の過程で生じる音声をテキストに変換するAI技術の導入を進める。"
+              },
+              {
+                "t": "p",
+                "x": "サムスンソウル病院は13日、12日にHeidiと医療AIサービス分野での協力に向けた業務協約を締結したと明らかにした。今回の協約はHeidiにとって韓国進出の最初の事例となる。"
+              },
+              {
+                "t": "p",
+                "x": "協約に基づき、両者はサムスンソウル病院独自の医療情報システム「DARWIN」に音声・テキスト変換技術を適用する方策を中心に協力する。Heidiが開発中の医療AIエージェントを基盤に、遠隔医療や診療予約など様々な分野でも協力する計画だ。"
+              },
+              {
+                "t": "p",
+                "x": "2019年に設立されたHeidiは、医療スタッフの診療業務を支援するAI技術を開発する企業だ。現在、190カ国で110言語により、毎週300万件以上の診療を支援している。主力サービスは診療の過程で生じる音声をテキストに変換する技術である。このほか、診療科別にカスタマイズした書式の作成や、リアルタイムのAI質疑応答による臨床意思決定支援など、医療現場で活用できるサービスを提供している。"
+              },
+              {
+                "t": "p",
+                "x": "HeidiのThomas Kelly CEOは「サムスンソウル病院はHeidiが韓国に進出する最初の事例であり、中核パートナーとして協業を進めていく予定だ」と述べ、「韓国の病院が当社の技術を基に、患者に向けた温かな価値を守りつつ、医療の力を一層高められることを期待する」と語った。"
+              },
+              {
+                "t": "p",
+                "x": "サムスンソウル病院のパク・スンウ院長は「Heidiとの今回の協力により、患者に優しいAI医療環境の構築を一層加速できると期待している」とし、「未来医療を実現し、スマート病院の明日をつくる重要な飛躍の契機になるだろう」と述べた。"
+              },
+              {
+                "t": "p",
+                "x": "なお、サムスンソウル病院は米国の週刊誌Newsweekが発表した「世界最高のスマート病院(World's Best Smart Hospitals)」評価で世界4位、韓国1位となった。"
+              },
+              {
+                "t": "p",
+                "x": "米国医療情報管理システム協会(HIMSS)による医療機関の情報化水準評価でも、医療ITインフラ(INFRAM)、電子カルテシステム(EMRAM)、デジタル画像診療(DIAM)、医療データ分析(AMAM)の4分野で最高等級のステージ7を取得した。特にINFRAMとDIAMでは、それぞれ2022年と2023年に世界で初めてステージ7の認証を受けた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "三星首尔医院\nHeidi语音记录AI",
+          "body": "三星首尔医院与Heidi签署MOU，推进在DARWIN中引入AI病历记录。",
+          "mini_headline": "三星首尔医院携手Heidi",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044540_3048515_5215.jpg",
+                "cap": "三星首尔医院与全球医疗人工智能(AI)企业Heidi签署合作协议（图片来源：三星首尔医院）。"
+              },
+              {
+                "t": "p",
+                "x": "三星首尔医院携手全球医疗人工智能(AI)企业Heidi，推进引入可将诊疗过程中产生的语音转换为文本的AI技术。"
+              },
+              {
+                "t": "p",
+                "x": "三星首尔医院13日表示，已于12日与Heidi签署医疗AI服务领域合作协议。这是Heidi首次进入韩国。"
+              },
+              {
+                "t": "p",
+                "x": "根据协议，双方将以在三星首尔医院自有医疗信息系统“DARWIN”中应用语音转文本技术为核心展开合作，并计划以Heidi正在开发的医疗AI智能体为基础，在远程医疗和诊疗预约等多个领域开展合作。"
+              },
+              {
+                "t": "p",
+                "x": "Heidi成立于2019年，是一家开发支持医护人员诊疗工作的AI技术企业，目前在190个国家以110种语言每周支持300万次以上诊疗。其主要服务是将诊疗过程中产生的语音转换为文本的技术。此外，还提供按科室定制的表单生成、通过实时AI问答支持临床决策等可在医疗现场使用的服务。"
+              },
+              {
+                "t": "p",
+                "x": "Heidi CEO Thomas Kelly表示：“三星首尔医院是Heidi进入韩国的首个案例，我们将把它作为核心合作伙伴推进协作。”他还说：“期待韩国医院以我们的技术为基础，在守护对患者的温暖价值的同时，进一步增强医疗能力。”"
+              },
+              {
+                "t": "p",
+                "x": "三星首尔医院院长Park Seung-woo表示：“期待通过此次与Heidi的合作，进一步加快构建对患者友好的AI医疗环境。”他还表示：“这将成为实现未来医疗、打造智慧医院明天的重要飞跃契机。”"
+              },
+              {
+                "t": "p",
+                "x": "此外，三星首尔医院在美国新闻周刊Newsweek发布的“世界最佳智慧医院(World's Best Smart Hospitals)”评选中位列全球第4、韩国第1。"
+              },
+              {
+                "t": "p",
+                "x": "在美国医疗信息与管理系统协会(HIMSS)的医疗机构信息化水平评估中，该院还在医疗IT基础设施(INFRAM)、电子病历系统(EMRAM)、数字影像诊疗(DIAM)、医疗数据分析(AMAM)4个领域获得最高等级第7级。其中，在INFRAM和DIAM领域分别于2022年和2023年在全球率先获得第7级认证。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Samsung Medical Center y Heidi\nAI para registros por voz",
+          "body": "Samsung Medical Center firmó un MOU con Heidi y busca incorporar a DARWIN la documentación clínica con AI.",
+          "mini_headline": "Samsung Medical Center se alía con Heidi",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044540_3048515_5215.jpg",
+                "cap": "Samsung Medical Center firmó un acuerdo de colaboración con Heidi, empresa global de inteligencia artificial (AI) para la salud (foto: Samsung Medical Center)."
+              },
+              {
+                "t": "p",
+                "x": "Samsung Medical Center se une a Heidi, empresa global de inteligencia artificial (AI) para la salud, para impulsar la adopción de una tecnología de AI que convierte en texto la voz generada durante las consultas médicas."
+              },
+              {
+                "t": "p",
+                "x": "Samsung Medical Center informó el día 13 que el día 12 firmó con Heidi un acuerdo de colaboración en servicios de AI médica. Es la primera entrada de Heidi en Corea."
+              },
+              {
+                "t": "p",
+                "x": "En virtud del acuerdo, ambas partes cooperarán principalmente en la aplicación de tecnología de conversión de voz a texto en DARWIN, el sistema de información médica propio del hospital. También prevén colaborar en ámbitos como la telemedicina y la reserva de citas, a partir del agente de AI médica que Heidi está desarrollando."
+              },
+              {
+                "t": "p",
+                "x": "Fundada en 2019, Heidi desarrolla tecnología de AI para apoyar la labor asistencial de los profesionales sanitarios. Actualmente respalda más de 3 millones (300만건) de consultas por semana en 110 idiomas y 190 países. Su servicio principal es la tecnología que convierte en texto la voz generada durante las consultas. Además, ofrece servicios para la práctica clínica, como la creación de plantillas adaptadas a cada especialidad y el apoyo a la toma de decisiones clínicas mediante preguntas y respuestas con AI en tiempo real."
+              },
+              {
+                "t": "p",
+                "x": "Thomas Kelly, CEO de Heidi, afirmó: \"Samsung Medical Center es el primer caso de entrada de Heidi en Corea y prevemos impulsar la colaboración con él como socio clave\". Y añadió: \"Esperamos que los hospitales coreanos, a partir de nuestra tecnología, refuercen aún más sus capacidades médicas sin perder el cálido valor de la atención al paciente\"."
+              },
+              {
+                "t": "p",
+                "x": "El director de Samsung Medical Center, Park Seung-woo, señaló: \"Esperamos que esta colaboración con Heidi acelere aún más la creación de un entorno médico con AI centrado en el paciente\", y agregó: \"Será la ocasión para dar un salto importante hacia la medicina del futuro y construir el mañana del hospital inteligente\"."
+              },
+              {
+                "t": "p",
+                "x": "Por otra parte, Samsung Medical Center ocupó el 4.º puesto mundial y el 1.º en Corea en la clasificación 'World's Best Smart Hospitals' (los mejores hospitales inteligentes del mundo) publicada por el semanario estadounidense Newsweek."
+              },
+              {
+                "t": "p",
+                "x": "En la evaluación del nivel de digitalización de instituciones médicas de la Healthcare Information and Management Systems Society (HIMSS) de Estados Unidos, también obtuvo la etapa 7, el nivel más alto, en 4 áreas: infraestructura de IT médica (INFRAM), sistema de historia clínica electrónica (EMRAM), atención con imagen digital (DIAM) y análisis de datos médicos (AMAM). En particular, en INFRAM y DIAM fue el primero del mundo en obtener la certificación de etapa 7, en 2022 y 2023 respectivamente."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "en": {
+          "headline": "Samsung Medical Center, Heidi\npartner on AI voice records",
+          "body": "Samsung Medical Center signed an MOU with Heidi and plans to bring AI clinical documentation to DARWIN.",
+          "mini_headline": "Samsung Medical Center partners with Heidi",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044540_3048515_5215.jpg",
+                "cap": "Samsung Medical Center has signed a business agreement with Heidi, a global healthcare artificial intelligence (AI) company (photo: Samsung Medical Center)."
+              },
+              {
+                "t": "p",
+                "x": "Samsung Medical Center is teaming up with Heidi, a global healthcare artificial intelligence (AI) company, to introduce AI technology that converts speech generated during patient consultations into text."
+              },
+              {
+                "t": "p",
+                "x": "Samsung Medical Center said on the 13th that it signed a business agreement with Heidi on the 12th to cooperate on medical AI services. The agreement is Heidi's first entry into Korea."
+              },
+              {
+                "t": "p",
+                "x": "Under the agreement, the two sides will focus on applying speech-to-text technology to DARWIN, the hospital's own medical information system. They also plan to cooperate in areas such as telemedicine and appointment booking, building on the medical AI agent Heidi is developing."
+              },
+              {
+                "t": "p",
+                "x": "Founded in 2019, Heidi develops AI technology that supports clinicians in their care work. It currently supports more than 3 million (300만건) consultations a week in 110 languages across 190 countries. Its main service is technology that converts speech generated during consultations into text. It also offers services for clinical settings, such as generating templates tailored to each specialty and supporting clinical decisions through real-time AI question answering."
+              },
+              {
+                "t": "p",
+                "x": "Heidi CEO Thomas Kelly said, \"Samsung Medical Center is Heidi's first case of entering Korea, and we plan to pursue collaboration with it as a key partner,\" adding, \"We hope Korean hospitals, building on our technology, can further strengthen their medical capabilities while keeping their warm values toward patients.\""
+              },
+              {
+                "t": "p",
+                "x": "Samsung Medical Center President Park Seung-woo said, \"We expect this cooperation with Heidi to further speed up building a patient-friendly AI medical environment,\" adding, \"It will be an occasion for an important leap toward realizing future medicine and shaping the tomorrow of smart hospitals.\""
+              },
+              {
+                "t": "p",
+                "x": "Meanwhile, Samsung Medical Center ranked 4th in the world and 1st in Korea in the 'World's Best Smart Hospitals' ranking published by the U.S. weekly news magazine Newsweek."
+              },
+              {
+                "t": "p",
+                "x": "In the healthcare IT maturity assessments of the U.S. Healthcare Information and Management Systems Society (HIMSS), it also achieved Stage 7, the highest level, in 4 areas: healthcare IT infrastructure (INFRAM), electronic medical record systems (EMRAM), digital imaging (DIAM) and healthcare data analytics (AMAM). In particular, it was the first in the world to receive Stage 7 certification in INFRAM and DIAM, in 2022 and 2023 respectively."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "サムスンソウル病院\nHeidiの音声記録AI",
+          "body": "サムスンソウル病院がHeidiとMOUを結び、DARWINへのAI診療記録導入を進める。",
+          "mini_headline": "サムスンソウル病院、Heidiと協力",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044540_3048515_5215.jpg",
+                "cap": "サムスンソウル病院がグローバルヘルスケア人工知能(AI)企業のHeidiと業務協約を締結した(写真提供:サムスンソウル病院)。"
+              },
+              {
+                "t": "p",
+                "x": "サムスンソウル病院がグローバルヘルスケア人工知能(AI)企業のHeidiと手を組み、診療の過程で生じる音声をテキストに変換するAI技術の導入を進める。"
+              },
+              {
+                "t": "p",
+                "x": "サムスンソウル病院は13日、12日にHeidiと医療AIサービス分野での協力に向けた業務協約を締結したと明らかにした。今回の協約はHeidiにとって韓国進出の最初の事例となる。"
+              },
+              {
+                "t": "p",
+                "x": "協約に基づき、両者はサムスンソウル病院独自の医療情報システム「DARWIN」に音声・テキスト変換技術を適用する方策を中心に協力する。Heidiが開発中の医療AIエージェントを基盤に、遠隔医療や診療予約など様々な分野でも協力する計画だ。"
+              },
+              {
+                "t": "p",
+                "x": "2019年に設立されたHeidiは、医療スタッフの診療業務を支援するAI技術を開発する企業だ。現在、190カ国で110言語により、毎週300万件以上の診療を支援している。主力サービスは診療の過程で生じる音声をテキストに変換する技術である。このほか、診療科別にカスタマイズした書式の作成や、リアルタイムのAI質疑応答による臨床意思決定支援など、医療現場で活用できるサービスを提供している。"
+              },
+              {
+                "t": "p",
+                "x": "HeidiのThomas Kelly CEOは「サムスンソウル病院はHeidiが韓国に進出する最初の事例であり、中核パートナーとして協業を進めていく予定だ」と述べ、「韓国の病院が当社の技術を基に、患者に向けた温かな価値を守りつつ、医療の力を一層高められることを期待する」と語った。"
+              },
+              {
+                "t": "p",
+                "x": "サムスンソウル病院のパク・スンウ院長は「Heidiとの今回の協力により、患者に優しいAI医療環境の構築を一層加速できると期待している」とし、「未来医療を実現し、スマート病院の明日をつくる重要な飛躍の契機になるだろう」と述べた。"
+              },
+              {
+                "t": "p",
+                "x": "なお、サムスンソウル病院は米国の週刊誌Newsweekが発表した「世界最高のスマート病院(World's Best Smart Hospitals)」評価で世界4位、韓国1位となった。"
+              },
+              {
+                "t": "p",
+                "x": "米国医療情報管理システム協会(HIMSS)による医療機関の情報化水準評価でも、医療ITインフラ(INFRAM)、電子カルテシステム(EMRAM)、デジタル画像診療(DIAM)、医療データ分析(AMAM)の4分野で最高等級のステージ7を取得した。特にINFRAMとDIAMでは、それぞれ2022年と2023年に世界で初めてステージ7の認証を受けた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "三星首尔医院\nHeidi语音记录AI",
+          "body": "三星首尔医院与Heidi签署MOU，推进在DARWIN中引入AI病历记录。",
+          "mini_headline": "三星首尔医院携手Heidi",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044540_3048515_5215.jpg",
+                "cap": "三星首尔医院与全球医疗人工智能(AI)企业Heidi签署合作协议（图片来源：三星首尔医院）。"
+              },
+              {
+                "t": "p",
+                "x": "三星首尔医院携手全球医疗人工智能(AI)企业Heidi，推进引入可将诊疗过程中产生的语音转换为文本的AI技术。"
+              },
+              {
+                "t": "p",
+                "x": "三星首尔医院13日表示，已于12日与Heidi签署医疗AI服务领域合作协议。这是Heidi首次进入韩国。"
+              },
+              {
+                "t": "p",
+                "x": "根据协议，双方将以在三星首尔医院自有医疗信息系统“DARWIN”中应用语音转文本技术为核心展开合作，并计划以Heidi正在开发的医疗AI智能体为基础，在远程医疗和诊疗预约等多个领域开展合作。"
+              },
+              {
+                "t": "p",
+                "x": "Heidi成立于2019年，是一家开发支持医护人员诊疗工作的AI技术企业，目前在190个国家以110种语言每周支持300万次以上诊疗。其主要服务是将诊疗过程中产生的语音转换为文本的技术。此外，还提供按科室定制的表单生成、通过实时AI问答支持临床决策等可在医疗现场使用的服务。"
+              },
+              {
+                "t": "p",
+                "x": "Heidi CEO Thomas Kelly表示：“三星首尔医院是Heidi进入韩国的首个案例，我们将把它作为核心合作伙伴推进协作。”他还说：“期待韩国医院以我们的技术为基础，在守护对患者的温暖价值的同时，进一步增强医疗能力。”"
+              },
+              {
+                "t": "p",
+                "x": "三星首尔医院院长Park Seung-woo表示：“期待通过此次与Heidi的合作，进一步加快构建对患者友好的AI医疗环境。”他还表示：“这将成为实现未来医疗、打造智慧医院明天的重要飞跃契机。”"
+              },
+              {
+                "t": "p",
+                "x": "此外，三星首尔医院在美国新闻周刊Newsweek发布的“世界最佳智慧医院(World's Best Smart Hospitals)”评选中位列全球第4、韩国第1。"
+              },
+              {
+                "t": "p",
+                "x": "在美国医疗信息与管理系统协会(HIMSS)的医疗机构信息化水平评估中，该院还在医疗IT基础设施(INFRAM)、电子病历系统(EMRAM)、数字影像诊疗(DIAM)、医疗数据分析(AMAM)4个领域获得最高等级第7级。其中，在INFRAM和DIAM领域分别于2022年和2023年在全球率先获得第7级认证。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Samsung Medical Center y Heidi\nAI para registros por voz",
+          "body": "Samsung Medical Center firmó un MOU con Heidi y busca incorporar a DARWIN la documentación clínica con AI.",
+          "mini_headline": "Samsung Medical Center se alía con Heidi",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044540_3048515_5215.jpg",
+                "cap": "Samsung Medical Center firmó un acuerdo de colaboración con Heidi, empresa global de inteligencia artificial (AI) para la salud (foto: Samsung Medical Center)."
+              },
+              {
+                "t": "p",
+                "x": "Samsung Medical Center se une a Heidi, empresa global de inteligencia artificial (AI) para la salud, para impulsar la adopción de una tecnología de AI que convierte en texto la voz generada durante las consultas médicas."
+              },
+              {
+                "t": "p",
+                "x": "Samsung Medical Center informó el día 13 que el día 12 firmó con Heidi un acuerdo de colaboración en servicios de AI médica. Es la primera entrada de Heidi en Corea."
+              },
+              {
+                "t": "p",
+                "x": "En virtud del acuerdo, ambas partes cooperarán principalmente en la aplicación de tecnología de conversión de voz a texto en DARWIN, el sistema de información médica propio del hospital. También prevén colaborar en ámbitos como la telemedicina y la reserva de citas, a partir del agente de AI médica que Heidi está desarrollando."
+              },
+              {
+                "t": "p",
+                "x": "Fundada en 2019, Heidi desarrolla tecnología de AI para apoyar la labor asistencial de los profesionales sanitarios. Actualmente respalda más de 3 millones (300만건) de consultas por semana en 110 idiomas y 190 países. Su servicio principal es la tecnología que convierte en texto la voz generada durante las consultas. Además, ofrece servicios para la práctica clínica, como la creación de plantillas adaptadas a cada especialidad y el apoyo a la toma de decisiones clínicas mediante preguntas y respuestas con AI en tiempo real."
+              },
+              {
+                "t": "p",
+                "x": "Thomas Kelly, CEO de Heidi, afirmó: \"Samsung Medical Center es el primer caso de entrada de Heidi en Corea y prevemos impulsar la colaboración con él como socio clave\". Y añadió: \"Esperamos que los hospitales coreanos, a partir de nuestra tecnología, refuercen aún más sus capacidades médicas sin perder el cálido valor de la atención al paciente\"."
+              },
+              {
+                "t": "p",
+                "x": "El director de Samsung Medical Center, Park Seung-woo, señaló: \"Esperamos que esta colaboración con Heidi acelere aún más la creación de un entorno médico con AI centrado en el paciente\", y agregó: \"Será la ocasión para dar un salto importante hacia la medicina del futuro y construir el mañana del hospital inteligente\"."
+              },
+              {
+                "t": "p",
+                "x": "Por otra parte, Samsung Medical Center ocupó el 4.º puesto mundial y el 1.º en Corea en la clasificación 'World's Best Smart Hospitals' (los mejores hospitales inteligentes del mundo) publicada por el semanario estadounidense Newsweek."
+              },
+              {
+                "t": "p",
+                "x": "En la evaluación del nivel de digitalización de instituciones médicas de la Healthcare Information and Management Systems Society (HIMSS) de Estados Unidos, también obtuvo la etapa 7, el nivel más alto, en 4 áreas: infraestructura de IT médica (INFRAM), sistema de historia clínica electrónica (EMRAM), atención con imagen digital (DIAM) y análisis de datos médicos (AMAM). En particular, en INFRAM y DIAM fue el primero del mundo en obtener la certificación de etapa 7, en 2022 y 2023 respectivamente."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "gangwon-public-ai-highway",
+      "source_lang": "ko",
+      "eyebrow": "AI NEWS",
+      "headline": "강원 공공병원에\n의료 AI 고속도로",
+      "body": "복지부가 강원대병원과 영월의료원을 잇는 공공의료 AI 고속도로를 시범 개통했다.",
+      "mini_headline": "공공의료 AI 고속도로 개통",
+      "tool": "Medicine",
+      "source": "청년의사",
+      "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044493",
+      "accent": "#f5a623",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.statnews.com/wp-content/uploads/2026/05/AP26023803702193-1024x576.jpg",
-            "cap": "Emilie Megnien/AP"
+            "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044493_3048461_5010.jpg",
+            "cap": "보건복지부는 11일 강원대병원과 영월의료원을 실시간으로 연결하는 ‘공공의료 AI 고속도로’ 시범 개통식을 개최했다(사진 제공 : 복지부)."
           },
           {
             "t": "p",
-            "x": "새로 나온 문서가 Medicare의 AI 사전승인 실험을 향한 의문을 키우고 있다. 이번 STAT Health Tech는 Oura의 AI 승부수, 임상 AI 챗봇에 필요한 '럼블 스트립(rumble strip)', Medicare AI 사전승인 실험을 둘러싼 의문을 짚는다."
+            "x": "강원 지역 공공병원들이 인공지능(AI)을 활용해 환자 전원부터 수술, 퇴원과 지역 회송까지 연계하는 의료체계를 구축한다. 정부는 강원대병원과 영월의료원을 시작으로 오는 2029년까지 전국 72개 공공병원에 의료 AI를 확대 적용할 계획이다."
           },
           {
             "t": "p",
-            "x": "뉴스레터 전문은 STAT+ 구독자만 볼 수 있다."
+            "x": "정부는 서울대병원 등 선도 의료기관이 검증한 의료 AI 모델을 초고속 전용망과 국가 그래픽처리장치(GPU) 컴퓨팅 자원, 표준 연계 플랫폼을 통해 지역 공공병원에 제공하는 체계를 구축했다."
+          },
+          {
+            "t": "p",
+            "x": "개통식에서는 전자의무기록(EMR)과 연동되는 AI 에이전트 3종이 시연됐다. ‘전원 의뢰·회송서 요약·생성 AI’는 10분 이상 걸리던 전원의뢰서 초안 작성을 1분 이내로 줄일 수 있을 것으로 기대된다. ‘마취 전 상태평가지 생성 AI’와 ‘퇴원기록지 요약·생성 AI’도 초안을 만들며, 최종 진료 판단과 문서 수정, 전자서명은 담당 의사가 직접 수행한다."
+          },
+          {
+            "t": "p",
+            "x": "정부는 8개 의료기관에서 시범 실증을 진행하고 2027년 4월부터 본사업에 착수해 참여 병원을 최대 35개로 늘린다. 정은경 장관은 “정부는 2026년을 보건의료 AX의 원년으로 삼겠다”고 말했다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "New documents question\nMedicare's AI prior-auth test",
-          "body": "Newly surfaced documents raise more questions about WISeR, Medicare's pilot using AI vendors for prior authorization.",
-          "mini_headline": "Medicare AI prior-auth questioned",
+        "ko": {
+          "headline": "강원 공공병원에\n의료 AI 고속도로",
+          "body": "복지부가 강원대병원과 영월의료원을 잇는 공공의료 AI 고속도로를 시범 개통했다.",
+          "mini_headline": "공공의료 AI 고속도로 개통",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/05/AP26023803702193-1024x576.jpg",
-                "cap": "Emilie Megnien/AP"
+                "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044493_3048461_5010.jpg",
+                "cap": "보건복지부는 11일 강원대병원과 영월의료원을 실시간으로 연결하는 ‘공공의료 AI 고속도로’ 시범 개통식을 개최했다(사진 제공 : 복지부)."
               },
               {
                 "t": "p",
-                "x": "New documents raise more questions about Medicare’s AI prior-authorization experiment. In this edition of STAT Health Tech: Oura's big bet on AI, a 'rumble strip' for clinical AI chatbots, and questions around Medicare’s AI prior-authorization experiment."
+                "x": "강원 지역 공공병원들이 인공지능(AI)을 활용해 환자 전원부터 수술, 퇴원과 지역 회송까지 연계하는 의료체계를 구축한다. 정부는 강원대병원과 영월의료원을 시작으로 오는 2029년까지 전국 72개 공공병원에 의료 AI를 확대 적용할 계획이다."
               },
               {
                 "t": "p",
-                "x": "The full newsletter is available to STAT+ subscribers."
+                "x": "정부는 서울대병원 등 선도 의료기관이 검증한 의료 AI 모델을 초고속 전용망과 국가 그래픽처리장치(GPU) 컴퓨팅 자원, 표준 연계 플랫폼을 통해 지역 공공병원에 제공하는 체계를 구축했다."
+              },
+              {
+                "t": "p",
+                "x": "개통식에서는 전자의무기록(EMR)과 연동되는 AI 에이전트 3종이 시연됐다. ‘전원 의뢰·회송서 요약·생성 AI’는 10분 이상 걸리던 전원의뢰서 초안 작성을 1분 이내로 줄일 수 있을 것으로 기대된다. ‘마취 전 상태평가지 생성 AI’와 ‘퇴원기록지 요약·생성 AI’도 초안을 만들며, 최종 진료 판단과 문서 수정, 전자서명은 담당 의사가 직접 수행한다."
+              },
+              {
+                "t": "p",
+                "x": "정부는 8개 의료기관에서 시범 실증을 진행하고 2027년 4월부터 본사업에 착수해 참여 병원을 최대 35개로 늘린다. 정은경 장관은 “정부는 2026년을 보건의료 AX의 원년으로 삼겠다”고 말했다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "새 문서, Medicare\nAI 사전승인 시범에 의문",
-          "body": "새 문서가 Medicare의 AI 사전승인 시범사업 WISeR에 의문을 키웠다.",
-          "mini_headline": "Medicare AI 사전승인에 의문",
+        "en": {
+          "headline": "A medical AI highway for\nGangwon's public hospitals",
+          "body": "A pilot public healthcare AI highway now links Kangwon National University Hospital and Yeongwol Medical Center.",
+          "mini_headline": "Public healthcare AI highway opens",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/05/AP26023803702193-1024x576.jpg",
-                "cap": "Emilie Megnien/AP"
+                "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044493_3048461_5010.jpg",
+                "cap": "The Ministry of Health and Welfare held a pilot opening ceremony on the 11th for the 'public healthcare AI highway', which connects Kangwon National University Hospital and Yeongwol Medical Center in real time (photo: Ministry of Health and Welfare)."
               },
               {
                 "t": "p",
-                "x": "새로 나온 문서가 Medicare의 AI 사전승인 실험을 향한 의문을 키우고 있다. 이번 STAT Health Tech는 Oura의 AI 승부수, 임상 AI 챗봇에 필요한 '럼블 스트립(rumble strip)', Medicare AI 사전승인 실험을 둘러싼 의문을 짚는다."
+                "x": "Public hospitals in Gangwon are building a care system that uses artificial intelligence (AI) to link everything from patient transfers to surgery, discharge and referral back to the community. Starting with Kangwon National University Hospital and Yeongwol Medical Center, the government plans to extend medical AI to 72 public hospitals nationwide by 2029."
               },
               {
                 "t": "p",
-                "x": "뉴스레터 전문은 STAT+ 구독자만 볼 수 있다."
+                "x": "The government has built a system that delivers medical AI models validated by leading institutions such as Seoul National University Hospital to regional public hospitals through a dedicated high-speed network, national graphics processing unit (GPU) computing resources and a standard integration platform."
+              },
+              {
+                "t": "p",
+                "x": "At the opening ceremony, 3 AI agents linked to electronic medical records (EMR) were demonstrated. The 'transfer referral and return letter summary and generation AI' is expected to cut the drafting of a transfer referral, which used to take more than 10 minutes, to under 1 minute. The 'pre-anesthesia assessment generation AI' and the 'discharge record summary and generation AI' also produce drafts, while the attending physician makes the final clinical judgment, edits the documents and signs them electronically."
+              },
+              {
+                "t": "p",
+                "x": "The government will run pilot validation at 8 medical institutions and launch the main project in April 2027, expanding participation to up to 35 hospitals. Minister Jeong Eun-kyeong said, “The government will make 2026 the first year of healthcare AX.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "新文書がMedicareの\nAI事前承認試験に疑問",
-          "body": "新たな文書で、AI業者を使うMedicareの事前承認試験WISeRに疑問が深まった。",
-          "mini_headline": "Medicare AI事前承認に疑問",
+          "headline": "江原の公立病院に\n医療AI高速道路",
+          "body": "保健福祉部が江原大学病院と寧越医療院を結ぶ公共医療AI高速道路を試験開通した。",
+          "mini_headline": "公共医療AI高速道路が開通",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/05/AP26023803702193-1024x576.jpg",
-                "cap": "Emilie Megnien/AP"
+                "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044493_3048461_5010.jpg",
+                "cap": "保健福祉部は11日、江原大学病院と寧越医療院をリアルタイムで結ぶ「公共医療AI高速道路」の試験開通式を開いた(写真提供:保健福祉部)。"
               },
               {
                 "t": "p",
-                "x": "新たな文書により、MedicareのAI事前承認実験をめぐる疑問がさらに深まっている。今回のSTAT Health Techでは、OuraのAIへの大きな賭け、臨床AIチャットボットのための「ランブルストリップ（rumble strip）」、そしてMedicareのAI事前承認実験をめぐる疑問を取り上げる。"
+                "x": "江原地域の公立病院が人工知能(AI)を活用し、患者の転院から手術、退院、地域への回送までをつなぐ医療体制を構築する。政府は江原大学病院と寧越医療院を皮切りに、2029年までに全国72の公立病院へ医療AIを拡大適用する計画だ。"
               },
               {
                 "t": "p",
-                "x": "ニュースレターの全文はSTAT+購読者向けに公開されている。"
+                "x": "政府は、ソウル大学病院など先導的な医療機関が検証した医療AIモデルを、超高速専用網と国家のグラフィックス処理装置(GPU)計算資源、標準連携プラットフォームを通じて地域の公立病院に提供する体制を整えた。"
+              },
+              {
+                "t": "p",
+                "x": "開通式では、電子カルテ(EMR)と連動するAIエージェント3種が披露された。「転院依頼・回送書の要約・生成AI」は、10分以上かかっていた転院依頼書の草案作成を1分以内に短縮できると期待される。「麻酔前状態評価票の生成AI」と「退院記録の要約・生成AI」も草案を作成し、最終的な診療判断や文書修正、電子署名は担当医が自ら行う。"
+              },
+              {
+                "t": "p",
+                "x": "政府は8つの医療機関で試験実証を行い、2027年4月から本事業に着手して参加病院を最大35に増やす。鄭銀敬長官は「政府は2026年を保健医療AXの元年とする」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Medicare AI预授权\n试点遭新文件质疑",
-          "body": "新曝光的文件令Medicare借助AI供应商开展预先授权的试点WISeR再受质疑。",
-          "mini_headline": "Medicare AI预授权受质疑",
+          "headline": "江原公立医院\n接入医疗AI高速路",
+          "body": "保健福祉部试点开通连接江原大学医院与宁越医疗院的公共医疗AI高速公路。",
+          "mini_headline": "公共医疗AI高速公路开通",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/05/AP26023803702193-1024x576.jpg",
-                "cap": "Emilie Megnien/AP"
+                "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044493_3048461_5010.jpg",
+                "cap": "保健福祉部11日举行了实时连接江原大学医院与宁越医疗院的“公共医疗AI高速公路”试点开通仪式（图片来源：保健福祉部）。"
               },
               {
                 "t": "p",
-                "x": "新文件让Medicare的AI预先授权实验面临更多质疑。本期STAT Health Tech内容：Oura在AI上的大赌注、为临床AI聊天机器人设置的“减速带”（rumble strip），以及围绕Medicare AI预先授权实验的疑问。"
+                "x": "江原地区公立医院将利用人工智能(AI)构建医疗体系，把患者转诊、手术、出院和回转地方等环节串联起来。政府计划以江原大学医院和宁越医疗院为起点，到2029年将医疗AI推广至全国72家公立医院。"
               },
               {
                 "t": "p",
-                "x": "完整版通讯仅向STAT+订阅用户开放。"
+                "x": "政府已建立相关体系，通过超高速专网、国家图形处理器(GPU)算力资源和标准对接平台，将首尔大学医院等领先医疗机构验证过的医疗AI模型提供给地方公立医院。"
+              },
+              {
+                "t": "p",
+                "x": "开通仪式上演示了3款与电子病历(EMR)联动的AI智能体。“转诊申请·回转书摘要生成AI”有望将过去需要10分钟以上的转诊申请书草稿撰写缩短至1分钟以内。“麻醉前状态评估表生成AI”和“出院记录摘要生成AI”也会生成草稿，最终诊疗判断、文书修改和电子签名则由主治医生亲自完成。"
+              },
+              {
+                "t": "p",
+                "x": "政府将在8家医疗机构开展试点验证，并从2027年4月起启动正式项目，将参与医院最多扩大至35家。郑银敬部长表示：“政府将把2026年定为保健医疗AX元年。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Nuevos documentos cuestionan\nla prueba de AI de Medicare",
-          "body": "Nuevos documentos suman dudas sobre WISeR, el piloto de Medicare que usa proveedores de AI para autorizaciones previas.",
-          "mini_headline": "Dudas sobre la AI de Medicare",
+          "headline": "Autopista de AI médica llega\na hospitales públicos de Gangwon",
+          "body": "Una autopista piloto de AI médica conecta el Hospital Universitario de Kangwon con el Centro Médico de Yeongwol.",
+          "mini_headline": "Abre la autopista de AI de salud pública",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/05/AP26023803702193-1024x576.jpg",
-                "cap": "Emilie Megnien/AP"
+                "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044493_3048461_5010.jpg",
+                "cap": "El Ministerio de Salud y Bienestar celebró el día 11 la ceremonia de apertura piloto de la 'autopista de AI para la salud pública', que conecta en tiempo real el Hospital Universitario Nacional de Kangwon y el Centro Médico de Yeongwol (foto: Ministerio de Salud y Bienestar)."
               },
               {
                 "t": "p",
-                "x": "Nuevos documentos plantean más dudas sobre el experimento de autorización previa con AI de Medicare. En esta edición de STAT Health Tech: la gran apuesta de Oura por la AI, una 'rumble strip' para los chatbots clínicos de AI y las dudas sobre el experimento de autorización previa con AI de Medicare."
+                "x": "Los hospitales públicos de la región de Gangwon construyen un sistema de atención que usa inteligencia artificial (AI) para enlazar desde el traslado de pacientes hasta la cirugía, el alta y la derivación de vuelta a la comunidad. Empezando por el Hospital Universitario Nacional de Kangwon y el Centro Médico de Yeongwol, el Gobierno prevé extender la AI médica a 72 hospitales públicos de todo el país para 2029."
               },
               {
                 "t": "p",
-                "x": "El boletín completo está disponible para los suscriptores de STAT+."
+                "x": "El Gobierno ha creado un sistema que ofrece a los hospitales públicos regionales modelos de AI médica validados por instituciones de referencia como el Hospital Universitario Nacional de Seúl, a través de una red dedicada de alta velocidad, recursos nacionales de computación con unidades de procesamiento gráfico (GPU) y una plataforma de integración estándar."
+              },
+              {
+                "t": "p",
+                "x": "En la ceremonia se mostraron 3 agentes de AI vinculados a la historia clínica electrónica (EMR). Se espera que la 'AI de resumen y generación de solicitudes de traslado y cartas de retorno' reduzca a menos de 1 minuto la redacción del borrador de una solicitud de traslado, que antes llevaba más de 10 minutos. La 'AI de generación de la evaluación preanestésica' y la 'AI de resumen y generación del informe de alta' también elaboran borradores, mientras que el juicio clínico final, la corrección de los documentos y la firma electrónica corren a cargo del médico responsable."
+              },
+              {
+                "t": "p",
+                "x": "El Gobierno realizará pruebas piloto en 8 instituciones médicas y pondrá en marcha el proyecto principal en abril de 2027, ampliando la participación hasta un máximo de 35 hospitales. La ministra Jeong Eun-kyeong afirmó: “El Gobierno hará de 2026 el primer año de la AX en salud”."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "새 문서, Medicare\nAI 사전승인 시범에 의문",
-          "body": "새 문서로 Medicare의 AI 사전승인 시범사업 WISeR에 의문이 커졌다.",
-          "mini_headline": "Medicare AI 사전승인에 의문",
+        "en": {
+          "headline": "A medical AI highway for\nGangwon's public hospitals",
+          "body": "A pilot public healthcare AI highway now links Kangwon National University Hospital and Yeongwol Medical Center.",
+          "mini_headline": "Public healthcare AI highway opens",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/05/AP26023803702193-1024x576.jpg",
-                "cap": "Emilie Megnien/AP"
+                "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044493_3048461_5010.jpg",
+                "cap": "The Ministry of Health and Welfare held a pilot opening ceremony on the 11th for the 'public healthcare AI highway', which connects Kangwon National University Hospital and Yeongwol Medical Center in real time (photo: Ministry of Health and Welfare)."
               },
               {
                 "t": "p",
-                "x": "새 문서가 Medicare의 AI 사전승인 실험을 둘러싼 의문을 키우고 있다. 이번 STAT Health Tech에서는 Oura의 AI 승부수, 임상 AI 챗봇을 위한 '럼블 스트립(rumble strip)', Medicare의 AI 사전승인 실험을 둘러싼 의문을 다룬다."
+                "x": "Public hospitals in Gangwon are building a care system that uses artificial intelligence (AI) to link everything from patient transfers to surgery, discharge and referral back to the community. Starting with Kangwon National University Hospital and Yeongwol Medical Center, the government plans to extend medical AI to 72 public hospitals nationwide by 2029."
               },
               {
                 "t": "p",
-                "x": "STAT+ 구독자는 뉴스레터 전문을 볼 수 있다."
+                "x": "The government has built a system that delivers medical AI models validated by leading institutions such as Seoul National University Hospital to regional public hospitals through a dedicated high-speed network, national graphics processing unit (GPU) computing resources and a standard integration platform."
+              },
+              {
+                "t": "p",
+                "x": "At the opening ceremony, 3 AI agents linked to electronic medical records (EMR) were demonstrated. The 'transfer referral and return letter summary and generation AI' is expected to cut the drafting of a transfer referral, which used to take more than 10 minutes, to under 1 minute. The 'pre-anesthesia assessment generation AI' and the 'discharge record summary and generation AI' also produce drafts, while the attending physician makes the final clinical judgment, edits the documents and signs them electronically."
+              },
+              {
+                "t": "p",
+                "x": "The government will run pilot validation at 8 medical institutions and launch the main project in April 2027, expanding participation to up to 35 hospitals. Minister Jeong Eun-kyeong said, “The government will make 2026 the first year of healthcare AX.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "新文書がMedicareの\nAI事前承認試験に疑問",
-          "body": "新たな文書で、AI業者を使うMedicareの事前承認試験WISeRに疑問が深まった。",
-          "mini_headline": "Medicare AI事前承認に疑問",
+          "headline": "江原の公立病院に\n医療AI高速道路",
+          "body": "保健福祉部が江原大学病院と寧越医療院を結ぶ公共医療AI高速道路を試験開通した。",
+          "mini_headline": "公共医療AI高速道路が開通",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/05/AP26023803702193-1024x576.jpg",
-                "cap": "Emilie Megnien/AP"
+                "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044493_3048461_5010.jpg",
+                "cap": "保健福祉部は11日、江原大学病院と寧越医療院をリアルタイムで結ぶ「公共医療AI高速道路」の試験開通式を開いた(写真提供:保健福祉部)。"
               },
               {
                 "t": "p",
-                "x": "新たな文書により、MedicareのAI事前承認実験をめぐる疑問がさらに深まっている。今回のSTAT Health Techでは、OuraのAIへの大きな賭け、臨床AIチャットボットのための「ランブルストリップ（rumble strip）」、そしてMedicareのAI事前承認実験をめぐる疑問を取り上げる。"
+                "x": "江原地域の公立病院が人工知能(AI)を活用し、患者の転院から手術、退院、地域への回送までをつなぐ医療体制を構築する。政府は江原大学病院と寧越医療院を皮切りに、2029年までに全国72の公立病院へ医療AIを拡大適用する計画だ。"
               },
               {
                 "t": "p",
-                "x": "ニュースレターの全文はSTAT+購読者向けに公開されている。"
+                "x": "政府は、ソウル大学病院など先導的な医療機関が検証した医療AIモデルを、超高速専用網と国家のグラフィックス処理装置(GPU)計算資源、標準連携プラットフォームを通じて地域の公立病院に提供する体制を整えた。"
+              },
+              {
+                "t": "p",
+                "x": "開通式では、電子カルテ(EMR)と連動するAIエージェント3種が披露された。「転院依頼・回送書の要約・生成AI」は、10分以上かかっていた転院依頼書の草案作成を1分以内に短縮できると期待される。「麻酔前状態評価票の生成AI」と「退院記録の要約・生成AI」も草案を作成し、最終的な診療判断や文書修正、電子署名は担当医が自ら行う。"
+              },
+              {
+                "t": "p",
+                "x": "政府は8つの医療機関で試験実証を行い、2027年4月から本事業に着手して参加病院を最大35に増やす。鄭銀敬長官は「政府は2026年を保健医療AXの元年とする」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Medicare AI预授权\n试点遭新文件质疑",
-          "body": "新曝光的文件令Medicare借助AI供应商开展预先授权的试点WISeR再受质疑。",
-          "mini_headline": "Medicare AI预授权受质疑",
+          "headline": "江原公立医院\n接入医疗AI高速路",
+          "body": "保健福祉部试点开通连接江原大学医院与宁越医疗院的公共医疗AI高速公路。",
+          "mini_headline": "公共医疗AI高速公路开通",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/05/AP26023803702193-1024x576.jpg",
-                "cap": "Emilie Megnien/AP"
+                "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044493_3048461_5010.jpg",
+                "cap": "保健福祉部11日举行了实时连接江原大学医院与宁越医疗院的“公共医疗AI高速公路”试点开通仪式（图片来源：保健福祉部）。"
               },
               {
                 "t": "p",
-                "x": "新文件让Medicare的AI预先授权实验面临更多质疑。本期STAT Health Tech内容：Oura在AI上的大赌注、为临床AI聊天机器人设置的“减速带”（rumble strip），以及围绕Medicare AI预先授权实验的疑问。"
+                "x": "江原地区公立医院将利用人工智能(AI)构建医疗体系，把患者转诊、手术、出院和回转地方等环节串联起来。政府计划以江原大学医院和宁越医疗院为起点，到2029年将医疗AI推广至全国72家公立医院。"
               },
               {
                 "t": "p",
-                "x": "完整版通讯仅向STAT+订阅用户开放。"
+                "x": "政府已建立相关体系，通过超高速专网、国家图形处理器(GPU)算力资源和标准对接平台，将首尔大学医院等领先医疗机构验证过的医疗AI模型提供给地方公立医院。"
+              },
+              {
+                "t": "p",
+                "x": "开通仪式上演示了3款与电子病历(EMR)联动的AI智能体。“转诊申请·回转书摘要生成AI”有望将过去需要10分钟以上的转诊申请书草稿撰写缩短至1分钟以内。“麻醉前状态评估表生成AI”和“出院记录摘要生成AI”也会生成草稿，最终诊疗判断、文书修改和电子签名则由主治医生亲自完成。"
+              },
+              {
+                "t": "p",
+                "x": "政府将在8家医疗机构开展试点验证，并从2027年4月起启动正式项目，将参与医院最多扩大至35家。郑银敬部长表示：“政府将把2026年定为保健医疗AX元年。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Nuevos documentos cuestionan\nla prueba de AI de Medicare",
-          "body": "Nuevos documentos suman dudas sobre WISeR, el piloto de Medicare que usa proveedores de AI para autorizaciones previas.",
-          "mini_headline": "Dudas sobre la AI de Medicare",
+          "headline": "Autopista de AI médica llega\na hospitales públicos de Gangwon",
+          "body": "Una autopista piloto de AI médica conecta el Hospital Universitario de Kangwon con el Centro Médico de Yeongwol.",
+          "mini_headline": "Abre la autopista de AI de salud pública",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/05/AP26023803702193-1024x576.jpg",
-                "cap": "Emilie Megnien/AP"
+                "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044493_3048461_5010.jpg",
+                "cap": "El Ministerio de Salud y Bienestar celebró el día 11 la ceremonia de apertura piloto de la 'autopista de AI para la salud pública', que conecta en tiempo real el Hospital Universitario Nacional de Kangwon y el Centro Médico de Yeongwol (foto: Ministerio de Salud y Bienestar)."
               },
               {
                 "t": "p",
-                "x": "Nuevos documentos plantean más dudas sobre el experimento de autorización previa con AI de Medicare. En esta edición de STAT Health Tech: la gran apuesta de Oura por la AI, una 'rumble strip' para los chatbots clínicos de AI y las dudas sobre el experimento de autorización previa con AI de Medicare."
+                "x": "Los hospitales públicos de la región de Gangwon construyen un sistema de atención que usa inteligencia artificial (AI) para enlazar desde el traslado de pacientes hasta la cirugía, el alta y la derivación de vuelta a la comunidad. Empezando por el Hospital Universitario Nacional de Kangwon y el Centro Médico de Yeongwol, el Gobierno prevé extender la AI médica a 72 hospitales públicos de todo el país para 2029."
               },
               {
                 "t": "p",
-                "x": "El boletín completo está disponible para los suscriptores de STAT+."
+                "x": "El Gobierno ha creado un sistema que ofrece a los hospitales públicos regionales modelos de AI médica validados por instituciones de referencia como el Hospital Universitario Nacional de Seúl, a través de una red dedicada de alta velocidad, recursos nacionales de computación con unidades de procesamiento gráfico (GPU) y una plataforma de integración estándar."
+              },
+              {
+                "t": "p",
+                "x": "En la ceremonia se mostraron 3 agentes de AI vinculados a la historia clínica electrónica (EMR). Se espera que la 'AI de resumen y generación de solicitudes de traslado y cartas de retorno' reduzca a menos de 1 minuto la redacción del borrador de una solicitud de traslado, que antes llevaba más de 10 minutos. La 'AI de generación de la evaluación preanestésica' y la 'AI de resumen y generación del informe de alta' también elaboran borradores, mientras que el juicio clínico final, la corrección de los documentos y la firma electrónica corren a cargo del médico responsable."
+              },
+              {
+                "t": "p",
+                "x": "El Gobierno realizará pruebas piloto en 8 instituciones médicas y pondrá en marcha el proyecto principal en abril de 2027, ampliando la participación hasta un máximo de 35 hospitales. La ministra Jeong Eun-kyeong afirmó: “El Gobierno hará de 2026 el primer año de la AX en salud”."
               }
             ]
           }
@@ -567,15 +1361,15 @@
       }
     },
     {
-      "id": "fda-cms-states-healthai-oversight",
+      "id": "dyania-nvidia-onprem",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "FDA·CMS, 보건 AI\n감독에 주와 손잡나",
-      "body": "STAT Health Tech: FDA·CMS가 주와 손잡고 AI를 규제하려 한다.",
-      "mini_headline": "FDA·CMS, 주와 AI 협력",
+      "headline": "Dyania·Nvidia\n차트 AI 병원망 안으로",
+      "body": "Dyania Health는 Synapsis AI를 병원 내 Nvidia로 돌린다.",
+      "mini_headline": "차트 AI, 병원 안에 머문다",
       "tool": "Medicine",
-      "source": "STAT",
-      "url": "https://www.statnews.com/2026/11/03/fda-cms-collaborate-with-states-on-ai-heath-tech/",
+      "source": "Fierce Healthcare",
+      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/dyania-health-nvidia-cleveland-clinic",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
@@ -583,131 +1377,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.statnews.com/wp-content/uploads/2025/07/AdobeStock_971648927_Editorial_Use_Only-1024x576.jpeg",
-            "cap": "Adobe"
+            "src": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-2152554500.jpg?VersionId=sRgXjDC.XT_Qk5G3gPh_gJLsyMr_r5v6"
           },
           {
             "t": "p",
-            "x": "FDA와 CMS가 보건 AI 문제로 주와 손잡으려 한다. 이번 STAT Health Tech 뉴스레터는 AI 규제에서 주와 협력하려는 연방 당국자들, AI 책임 문제에서 의사를 보호하는 문제 등을 다룬다."
+            "x": "Dyania Health가 Nvidia와 손잡고 임상 추론 플랫폼 Synapsis AI를 병원 IT 시스템 안에서 돌린다. 환자 데이터를 병원 네트워크 밖으로 보내지 않고도 대규모 분석이 가능하다."
           },
           {
             "t": "p",
-            "x": "뉴스레터 전문은 STAT+ 구독자만 볼 수 있다."
+            "x": "Synapsis AI는 임상 기록과 영상·수술 보고서, 검사 결과까지 환자의 의무기록 전체를 읽고 차트 속 근거를 짚어 가며 임상 질문에 답한다. Dyania는 의료 사례 주석 작업에 의사 시간 25,000시간 이상을 들였다고 밝혔다."
+          },
+          {
+            "t": "p",
+            "x": "Dyania는 모델 학습에 Nvidia NeMo 프레임워크를 쓴다. 의료기관 안에서 Synapsis AI는 병원 자체 가속 컴퓨팅 인프라 위의 Nvidia TensorRT와 TensorRT-LLM으로 구동되고, 추론도 병원 사설 네트워크 안에서 끝난다."
+          },
+          {
+            "t": "p",
+            "x": "Cleveland Clinic은 Nvidia 인프라에서 돌아가는 Synapsis AI로 대동맥판막 치환술 환자 7,812명의 기록을 최대 16년 치까지 분석했다. AI는 환자 한 명당 88개 질문에 답했고, 연구진은 이 데이터셋으로 삼 년, 오 년, 10년 시점의 판막 열화와 재시술 위험을 예측하는 모델을 만들었다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "FDA and CMS look to states\non health AI oversight",
-          "body": "FDA and CMS officials want to work with states on regulating health AI, according to STAT's Health Tech newsletter.",
-          "mini_headline": "FDA, CMS eye states on AI",
+          "headline": "Dyania, Nvidia keep chart AI\ninside hospital networks",
+          "body": "Dyania Health will run its Synapsis reasoning AI on hospital-owned Nvidia systems, keeping patient data in-house.",
+          "mini_headline": "Chart AI stays in-house",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2025/07/AdobeStock_971648927_Editorial_Use_Only-1024x576.jpeg",
-                "cap": "Adobe"
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-2152554500.jpg?VersionId=sRgXjDC.XT_Qk5G3gPh_gJLsyMr_r5v6"
               },
               {
                 "t": "p",
-                "x": "FDA, CMS look to collaborate with states on health AI. In this edition of STAT's Health Tech newsletter: Federal officials look to work with states on regulating AI, protecting doctors from AI liability, and more."
+                "x": "Dyania Health is partnering with Nvidia to run its Synapsis AI clinical reasoning platform inside hospitals’ IT systems, enabling large-scale analysis without patient data leaving their networks."
               },
               {
                 "t": "p",
-                "x": "The full newsletter is available to STAT+ subscribers."
+                "x": "Synapsis AI reads a patient's full medical record, including clinical notes, imaging and operative reports and labs, and answers clinical questions while pointing back to supporting evidence in the chart. Dyania says it has invested more than 25,000 physician hours annotating medical cases."
+              },
+              {
+                "t": "p",
+                "x": "Dyania trains its models with the Nvidia NeMo framework; inside the health system, Synapsis AI runs on Nvidia TensorRT and TensorRT-LLM on the hospital's own accelerated computing infrastructure, so inference stays inside the hospital's private network."
+              },
+              {
+                "t": "p",
+                "x": "Cleveland Clinic used Synapsis AI, running on Nvidia infrastructure, to analyze up to 16 years of records from 7,812 aortic valve replacement patients. The AI answered 88 questions per patient, and researchers used the dataset to build a predictive model of valve deterioration and repeat-procedure risk at three, five and 10 years."
               }
             ]
           }
         },
         "ko": {
-          "headline": "FDA·CMS, 보건 AI\n감독에 주와 손잡나",
-          "body": "STAT Health Tech: FDA·CMS가 주와 손잡고 AI를 규제하려 한다.",
-          "mini_headline": "FDA·CMS, 주와 AI 협력",
+          "headline": "Dyania·Nvidia\n차트 AI 병원망 안으로",
+          "body": "Dyania Health는 Synapsis AI를 병원 내 Nvidia로 돌린다.",
+          "mini_headline": "차트 AI, 병원 안에 머문다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2025/07/AdobeStock_971648927_Editorial_Use_Only-1024x576.jpeg",
-                "cap": "Adobe"
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-2152554500.jpg?VersionId=sRgXjDC.XT_Qk5G3gPh_gJLsyMr_r5v6"
               },
               {
                 "t": "p",
-                "x": "FDA와 CMS가 보건 AI 문제로 주와 손잡으려 한다. 이번 STAT Health Tech 뉴스레터는 AI 규제에서 주와 협력하려는 연방 당국자들, AI 책임 문제에서 의사를 보호하는 문제 등을 다룬다."
+                "x": "Dyania Health가 Nvidia와 손잡고 임상 추론 플랫폼 Synapsis AI를 병원 IT 시스템 안에서 돌린다. 환자 데이터를 병원 네트워크 밖으로 보내지 않고도 대규모 분석이 가능하다."
               },
               {
                 "t": "p",
-                "x": "뉴스레터 전문은 STAT+ 구독자만 볼 수 있다."
+                "x": "Synapsis AI는 임상 기록과 영상·수술 보고서, 검사 결과까지 환자의 의무기록 전체를 읽고 차트 속 근거를 짚어 가며 임상 질문에 답한다. Dyania는 의료 사례 주석 작업에 의사 시간 25,000시간 이상을 들였다고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "Dyania는 모델 학습에 Nvidia NeMo 프레임워크를 쓴다. 의료기관 안에서 Synapsis AI는 병원 자체 가속 컴퓨팅 인프라 위의 Nvidia TensorRT와 TensorRT-LLM으로 구동되고, 추론도 병원 사설 네트워크 안에서 끝난다."
+              },
+              {
+                "t": "p",
+                "x": "Cleveland Clinic은 Nvidia 인프라에서 돌아가는 Synapsis AI로 대동맥판막 치환술 환자 7,812명의 기록을 최대 16년 치까지 분석했다. AI는 환자 한 명당 88개 질문에 답했고, 연구진은 이 데이터셋으로 삼 년, 오 년, 10년 시점의 판막 열화와 재시술 위험을 예측하는 모델을 만들었다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "FDAとCMS、医療AI\n監督で州と連携へ",
-          "body": "STAT Health Techによると、FDAとCMSは医療AI規制で州と連携を図る。",
-          "mini_headline": "FDA・CMS、AIで州と連携",
+          "headline": "Dyania・Nvidia\nカルテAIを院内網に",
+          "body": "Dyania HealthはSynapsis AIを院内のNvidiaで動かす。",
+          "mini_headline": "カルテAIは院内で完結",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2025/07/AdobeStock_971648927_Editorial_Use_Only-1024x576.jpeg",
-                "cap": "Adobe"
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-2152554500.jpg?VersionId=sRgXjDC.XT_Qk5G3gPh_gJLsyMr_r5v6"
               },
               {
                 "t": "p",
-                "x": "FDAとCMSが医療AIをめぐり州との連携を模索している。今回のSTAT Health Techニュースレターでは、AI規制で州との協力を目指す連邦当局者、AIをめぐる法的責任から医師を守る取り組みなどを取り上げる。"
+                "x": "Dyania HealthはNvidiaと提携し、臨床推論プラットフォームSynapsis AIを病院のITシステム内で稼働させる。患者データを病院のネットワーク外に出すことなく、大規模な分析が可能になる。"
               },
               {
                 "t": "p",
-                "x": "ニュースレターの全文はSTAT+購読者向けに公開されている。"
+                "x": "Synapsis AIは、臨床記録や画像・手術報告書、検査結果を含む患者の全診療記録を読み込み、カルテ内の裏付けとなる根拠を示しながら臨床上の質問に答える。Dyaniaによると、医療症例のアノテーションに医師の時間を25,000時間以上投じてきたという。"
+              },
+              {
+                "t": "p",
+                "x": "DyaniaはNvidia NeMoフレームワークでモデルを学習させる。医療機関内では、Synapsis AIは病院自身のアクセラレーテッドコンピューティング基盤上でNvidia TensorRTとTensorRT-LLMにより動作するため、推論は病院のプライベートネットワーク内にとどまる。"
+              },
+              {
+                "t": "p",
+                "x": "Cleveland Clinicは、Nvidiaのインフラ上で動くSynapsis AIを使い、大動脈弁置換術を受けた患者7,812人の最長16年分の記録を分析した。AIは患者一人あたり88の質問に答え、研究者はこのデータセットを用いて、三年、五年、10年時点の弁の劣化と再手術リスクを予測するモデルを構築した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "FDA和CMS寻求与各州\n共同监管医疗AI",
-          "body": "据STAT Health Tech通讯，FDA和CMS官员希望与各州合作监管医疗AI。",
-          "mini_headline": "FDA、CMS携手各州管AI",
+          "headline": "Dyania与Nvidia\n让病历AI留在院内",
+          "body": "Dyania Health在医院自有Nvidia系统上运行Synapsis推理AI。",
+          "mini_headline": "病历AI留在院内",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2025/07/AdobeStock_971648927_Editorial_Use_Only-1024x576.jpeg",
-                "cap": "Adobe"
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-2152554500.jpg?VersionId=sRgXjDC.XT_Qk5G3gPh_gJLsyMr_r5v6"
               },
               {
                 "t": "p",
-                "x": "FDA与CMS寻求与各州在医疗AI方面合作。本期STAT Health Tech通讯内容：联邦官员寻求与各州合作监管AI、保护医生免于AI相关责任等。"
+                "x": "Dyania Health与Nvidia合作，在医院IT系统内部运行其临床推理平台Synapsis AI，使大规模分析无需让患者数据离开医院网络。"
               },
               {
                 "t": "p",
-                "x": "完整版通讯仅向STAT+订阅用户开放。"
+                "x": "Synapsis AI会读取患者完整的病历，包括临床记录、影像与手术报告以及化验结果，并在回答临床问题时指向病历中的支持证据。Dyania表示，已投入超过25,000个医生工时标注医疗病例。"
+              },
+              {
+                "t": "p",
+                "x": "Dyania使用Nvidia NeMo框架训练模型；在医疗机构内部，Synapsis AI在医院自有的加速计算基础设施上通过Nvidia TensorRT和TensorRT-LLM运行，因此推理始终留在医院的私有网络内。"
+              },
+              {
+                "t": "p",
+                "x": "Cleveland Clinic使用运行在Nvidia基础设施上的Synapsis AI，分析了7,812名主动脉瓣置换患者最长16年的记录。该AI为每位患者回答了88个问题，研究人员利用该数据集构建了预测三年、五年和10年时瓣膜退化及再次手术风险的模型。"
               }
             ]
           }
         },
         "es": {
-          "headline": "FDA y CMS miran a los estados\npara supervisar la AI sanitaria",
-          "body": "Funcionarios de la FDA y CMS quieren colaborar con los estados para regular la AI sanitaria, según STAT Health Tech.",
-          "mini_headline": "FDA y CMS miran a los estados por la AI",
+          "headline": "Dyania y Nvidia mantienen la AI\nclínica dentro del hospital",
+          "body": "Dyania Health ejecutará su AI de razonamiento Synapsis en sistemas Nvidia del hospital, sin sacar datos de pacientes.",
+          "mini_headline": "La AI clínica se queda en el hospital",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2025/07/AdobeStock_971648927_Editorial_Use_Only-1024x576.jpeg",
-                "cap": "Adobe"
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-2152554500.jpg?VersionId=sRgXjDC.XT_Qk5G3gPh_gJLsyMr_r5v6"
               },
               {
                 "t": "p",
-                "x": "La FDA y los CMS buscan colaborar con los estados en materia de AI sanitaria. En esta edición del boletín Health Tech de STAT: funcionarios federales buscan trabajar con los estados en la regulación de la AI, la protección de los médicos frente a la responsabilidad por AI, y más."
+                "x": "Dyania Health se asocia con Nvidia para ejecutar su plataforma de razonamiento clínico Synapsis AI dentro de los sistemas de IT de los hospitales, lo que permite análisis a gran escala sin que los datos de los pacientes salgan de sus redes."
               },
               {
                 "t": "p",
-                "x": "El boletín completo está disponible para los suscriptores de STAT+."
+                "x": "Synapsis AI lee la historia clínica completa del paciente, incluidas notas clínicas, informes de imagen y quirúrgicos y análisis de laboratorio, y responde preguntas clínicas señalando la evidencia que las respalda en el historial. Dyania afirma haber invertido más de 25,000 horas de médicos en anotar casos clínicos."
+              },
+              {
+                "t": "p",
+                "x": "Dyania entrena sus modelos con el framework Nvidia NeMo; dentro del sistema de salud, Synapsis AI funciona con Nvidia TensorRT y TensorRT-LLM sobre la propia infraestructura de computación acelerada del hospital, de modo que la inferencia permanece dentro de la red privada del hospital."
+              },
+              {
+                "t": "p",
+                "x": "Cleveland Clinic utilizó Synapsis AI, ejecutada sobre infraestructura de Nvidia, para analizar hasta 16 años de historiales de 7,812 pacientes con reemplazo de válvula aórtica. La AI respondió 88 preguntas por paciente, y los investigadores usaron el conjunto de datos para crear un modelo predictivo del deterioro valvular y del riesgo de repetir el procedimiento a tres, cinco y 10 años."
               }
             ]
           }
@@ -715,747 +1551,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "FDA·CMS, 보건 AI\n감독에 주와 협력 모색",
-          "body": "STAT Health Tech: FDA·CMS가 주와 AI 규제 협력을 원한다.",
-          "mini_headline": "FDA·CMS, 주와 AI 협력",
+          "headline": "Dyania·Nvidia\n차트 AI 병원망 안으로",
+          "body": "Dyania Health는 Synapsis AI를 병원 내 Nvidia로 돌린다.",
+          "mini_headline": "차트 AI, 병원 안에 머문다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2025/07/AdobeStock_971648927_Editorial_Use_Only-1024x576.jpeg",
-                "cap": "Adobe"
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-2152554500.jpg?VersionId=sRgXjDC.XT_Qk5G3gPh_gJLsyMr_r5v6"
               },
               {
                 "t": "p",
-                "x": "FDA와 CMS가 보건 AI를 두고 주와 협력하려 한다. 이번 STAT Health Tech 뉴스레터에서는 AI 규제를 위해 주와 손잡으려는 연방 당국자들, AI 책임에서 의사를 보호하는 문제 등을 다룬다."
+                "x": "Dyania Health가 Nvidia와 손잡고 자사 임상 추론 플랫폼 Synapsis AI를 병원 IT 시스템 안에서 구동한다. 환자 데이터를 병원 네트워크 밖으로 내보내지 않고도 대규모 분석을 할 수 있다."
               },
               {
                 "t": "p",
-                "x": "STAT+ 구독자는 뉴스레터 전문을 볼 수 있다."
+                "x": "Synapsis AI는 임상 기록, 영상·수술 보고서, 검사 결과를 포함한 환자의 전체 의무기록을 읽고, 차트 속 근거를 짚어 가며 임상 질문에 답한다. Dyania는 의료 사례 주석 작업에 의사 시간 25,000시간 이상을 들였다고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "Dyania는 Nvidia NeMo 프레임워크로 모델을 학습시킨다. 의료기관 내부에서 Synapsis AI는 병원 자체 가속 컴퓨팅 인프라 위의 Nvidia TensorRT와 TensorRT-LLM에서 돌아가므로, 추론이 병원 사설 네트워크 안에서 이뤄진다."
+              },
+              {
+                "t": "p",
+                "x": "Cleveland Clinic은 Nvidia 인프라에서 구동되는 Synapsis AI로 대동맥판막 치환술 환자 7,812명의 최대 16년 치 기록을 분석했다. AI는 환자 한 명당 88개 질문에 답했고, 연구진은 이 데이터셋으로 삼 년, 오 년, 10년 시점의 판막 열화와 재시술 위험을 예측하는 모델을 만들었다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "FDAとCMS、医療AI\n監督で州と連携へ",
-          "body": "STAT Health Techによると、FDAとCMSは医療AI規制で州と連携を図る。",
-          "mini_headline": "FDA・CMS、AIで州と連携",
+          "headline": "Dyania・Nvidia\nカルテAIを院内網に",
+          "body": "Dyania HealthはSynapsis AIを院内のNvidiaで動かす。",
+          "mini_headline": "カルテAIは院内で完結",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2025/07/AdobeStock_971648927_Editorial_Use_Only-1024x576.jpeg",
-                "cap": "Adobe"
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-2152554500.jpg?VersionId=sRgXjDC.XT_Qk5G3gPh_gJLsyMr_r5v6"
               },
               {
                 "t": "p",
-                "x": "FDAとCMSが医療AIをめぐり州との連携を模索している。今回のSTAT Health Techニュースレターでは、AI規制で州との協力を目指す連邦当局者、AIをめぐる法的責任から医師を守る取り組みなどを取り上げる。"
+                "x": "Dyania HealthはNvidiaと提携し、臨床推論プラットフォームSynapsis AIを病院のITシステム内で稼働させる。患者データを病院のネットワーク外に出すことなく、大規模な分析が可能になる。"
               },
               {
                 "t": "p",
-                "x": "ニュースレターの全文はSTAT+購読者向けに公開されている。"
+                "x": "Synapsis AIは、臨床記録や画像・手術報告書、検査結果を含む患者の全診療記録を読み込み、カルテ内の裏付けとなる根拠を示しながら臨床上の質問に答える。Dyaniaによると、医療症例のアノテーションに医師の時間を25,000時間以上投じてきたという。"
+              },
+              {
+                "t": "p",
+                "x": "DyaniaはNvidia NeMoフレームワークでモデルを学習させる。医療機関内では、Synapsis AIは病院自身のアクセラレーテッドコンピューティング基盤上でNvidia TensorRTとTensorRT-LLMにより動作するため、推論は病院のプライベートネットワーク内にとどまる。"
+              },
+              {
+                "t": "p",
+                "x": "Cleveland Clinicは、Nvidiaのインフラ上で動くSynapsis AIを使い、大動脈弁置換術を受けた患者7,812人の最長16年分の記録を分析した。AIは患者一人あたり88の質問に答え、研究者はこのデータセットを用いて、三年、五年、10年時点の弁の劣化と再手術リスクを予測するモデルを構築した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "FDA和CMS寻求与各州\n共同监管医疗AI",
-          "body": "据STAT Health Tech通讯，FDA和CMS官员希望与各州合作监管医疗AI。",
-          "mini_headline": "FDA、CMS携手各州管AI",
+          "headline": "Dyania与Nvidia\n让病历AI留在院内",
+          "body": "Dyania Health在医院自有Nvidia系统上运行Synapsis推理AI。",
+          "mini_headline": "病历AI留在院内",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2025/07/AdobeStock_971648927_Editorial_Use_Only-1024x576.jpeg",
-                "cap": "Adobe"
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-2152554500.jpg?VersionId=sRgXjDC.XT_Qk5G3gPh_gJLsyMr_r5v6"
               },
               {
                 "t": "p",
-                "x": "FDA与CMS寻求与各州在医疗AI方面合作。本期STAT Health Tech通讯内容：联邦官员寻求与各州合作监管AI、保护医生免于AI相关责任等。"
+                "x": "Dyania Health与Nvidia合作，在医院IT系统内部运行其临床推理平台Synapsis AI，使大规模分析无需让患者数据离开医院网络。"
               },
               {
                 "t": "p",
-                "x": "完整版通讯仅向STAT+订阅用户开放。"
+                "x": "Synapsis AI会读取患者完整的病历，包括临床记录、影像与手术报告以及化验结果，并在回答临床问题时指向病历中的支持证据。Dyania表示，已投入超过25,000个医生工时标注医疗病例。"
+              },
+              {
+                "t": "p",
+                "x": "Dyania使用Nvidia NeMo框架训练模型；在医疗机构内部，Synapsis AI在医院自有的加速计算基础设施上通过Nvidia TensorRT和TensorRT-LLM运行，因此推理始终留在医院的私有网络内。"
+              },
+              {
+                "t": "p",
+                "x": "Cleveland Clinic使用运行在Nvidia基础设施上的Synapsis AI，分析了7,812名主动脉瓣置换患者最长16年的记录。该AI为每位患者回答了88个问题，研究人员利用该数据集构建了预测三年、五年和10年时瓣膜退化及再次手术风险的模型。"
               }
             ]
           }
         },
         "es": {
-          "headline": "FDA y CMS miran a los estados\npara supervisar la AI sanitaria",
-          "body": "Funcionarios de la FDA y CMS quieren colaborar con los estados para regular la AI sanitaria, según STAT Health Tech.",
-          "mini_headline": "FDA y CMS miran a los estados por la AI",
+          "headline": "Dyania y Nvidia mantienen la AI\nclínica dentro del hospital",
+          "body": "Dyania Health ejecutará su AI de razonamiento Synapsis en sistemas Nvidia del hospital, sin sacar datos de pacientes.",
+          "mini_headline": "La AI clínica se queda en el hospital",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2025/07/AdobeStock_971648927_Editorial_Use_Only-1024x576.jpeg",
-                "cap": "Adobe"
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-2152554500.jpg?VersionId=sRgXjDC.XT_Qk5G3gPh_gJLsyMr_r5v6"
               },
               {
                 "t": "p",
-                "x": "La FDA y los CMS buscan colaborar con los estados en materia de AI sanitaria. En esta edición del boletín Health Tech de STAT: funcionarios federales buscan trabajar con los estados en la regulación de la AI, la protección de los médicos frente a la responsabilidad por AI, y más."
+                "x": "Dyania Health se asocia con Nvidia para ejecutar su plataforma de razonamiento clínico Synapsis AI dentro de los sistemas de IT de los hospitales, lo que permite análisis a gran escala sin que los datos de los pacientes salgan de sus redes."
               },
               {
                 "t": "p",
-                "x": "El boletín completo está disponible para los suscriptores de STAT+."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "jama-ai-interventional-trials-ctgov",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "중재 임상시험 속\nAI 활용 지도",
-      "body": "2022년 이후 ClinicalTrials.gov 시험 속 AI 활용을 분석했다.",
-      "mini_headline": "임상시험 속 AI 지도",
-      "tool": "Medicine",
-      "source": "JAMA Network Open",
-      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/10.1001/jamanetworkopen.2026.42797",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "이 횡단 연구는 2022년부터 진행된 임상시험에서 인공지능(AI)이 어떻게 쓰였는지 살폈다. 분석 대상은 ClinicalTrials.gov에 등록되고 2022년 첫 달 이후 시작된 중재 시험이었고, 연구진은 AI 활용이 어떻게 계획되고 기술되는지 정리했다."
-          },
-          {
-            "t": "p",
-            "x": "검색된 기록 8559건 가운데 최종 코호트에 든 중재 시험은 1212건이었다. 대규모 언어 모델을 포함한 생성형 AI를 쓰겠다는 계획은 2022년 시작 시험에서는 한 건도 없었지만 2025년 시작 시험에서는 491건 중 100건(20.4%)으로 크게 늘었다. 환자 추적 관찰이나 건강 교육 등에 AI 에이전트를 쓰려는 시험도 여덟 건 있었다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/df47/13749202/7f04ceea0423/jamanetwopen-e2642797-g001.webp",
-            "cap": "포함된 시험의 특성을 보여 주는 막대그래프"
-          },
-          {
-            "t": "p",
-            "x": "임상 질환으로는 암(20.0%), 신경·정신 건강(19.6%), 심혈관·대사 질환(18.6%)이 가장 흔했다. AI는 질병 위험이나 치료 선택을 가늠하는 선별·예측 모델링에 가장 많이 쓰였다(39.8%). 국가별로는 미국이 303건(25.0%), 중국이 149건(12.3%)이었다."
-          },
-          {
-            "t": "p",
-            "x": "ClinicalTrials.gov에는 AI 관련 구조화 항목도, 보고 요건도 없어 방법론 세부 정보가 빠진 경우가 많았다. 연구진은 AI 보고 표준에 맞춘 구조화 등록 항목을 두면 투명성이 높아질 것이라고 밝혔다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Mapping AI use in registered\ninterventional trials",
-          "body": "A cross-sectional study maps how AI is used in interventional trials registered on ClinicalTrials.gov since 2022.",
-          "mini_headline": "AI in clinical trials, mapped",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "This cross-sectional study examines the use of artificial intelligence (AI) in clinical trials conducted starting in 2022. Researchers analyzed interventional trials registered on ClinicalTrials.gov, with start dates from January 2022 onward, to characterize how AI use is planned and described."
-              },
-              {
-                "t": "p",
-                "x": "Of 8559 records returned by the search, the final cohort comprised 1212 interventional trials. Planned generative AI use, including large language models, rose sharply, from no trials starting in 2022 to 100 of 491 (20.4%) of those starting in 2025. Eight trials planned for use of AI agents for patient follow-up or health education delivery, among other purposes."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/df47/13749202/7f04ceea0423/jamanetwopen-e2642797-g001.webp",
-                "cap": "Bar Graphs of Characteristics of Included Trials"
-              },
-              {
-                "t": "p",
-                "x": "The most common clinical conditions were cancer (20.0%), neurological and mental health (19.6%), and cardiovascular and metabolic disease (18.6%). AI was most often used for screening and predictive modeling of disease risk or treatment selection (39.8%). The United States accounted for 303 trials (25.0%) and China for 149 (12.3%)."
-              },
-              {
-                "t": "p",
-                "x": "Because ClinicalTrials.gov has no structured AI fields or reporting requirements, method details were often absent; the authors say structured registry fields aligned with AI reporting standards would improve transparency."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "중재 임상시험 속\nAI 활용 지도",
-          "body": "2022년 이후 ClinicalTrials.gov 시험 속 AI 활용을 분석했다.",
-          "mini_headline": "임상시험 속 AI 지도",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "이 횡단 연구는 2022년부터 진행된 임상시험에서 인공지능(AI)이 어떻게 쓰였는지 살폈다. 분석 대상은 ClinicalTrials.gov에 등록되고 2022년 첫 달 이후 시작된 중재 시험이었고, 연구진은 AI 활용이 어떻게 계획되고 기술되는지 정리했다."
-              },
-              {
-                "t": "p",
-                "x": "검색된 기록 8559건 가운데 최종 코호트에 든 중재 시험은 1212건이었다. 대규모 언어 모델을 포함한 생성형 AI를 쓰겠다는 계획은 2022년 시작 시험에서는 한 건도 없었지만 2025년 시작 시험에서는 491건 중 100건(20.4%)으로 크게 늘었다. 환자 추적 관찰이나 건강 교육 등에 AI 에이전트를 쓰려는 시험도 여덟 건 있었다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/df47/13749202/7f04ceea0423/jamanetwopen-e2642797-g001.webp",
-                "cap": "포함된 시험의 특성을 보여 주는 막대그래프"
-              },
-              {
-                "t": "p",
-                "x": "임상 질환으로는 암(20.0%), 신경·정신 건강(19.6%), 심혈관·대사 질환(18.6%)이 가장 흔했다. AI는 질병 위험이나 치료 선택을 가늠하는 선별·예측 모델링에 가장 많이 쓰였다(39.8%). 국가별로는 미국이 303건(25.0%), 중국이 149건(12.3%)이었다."
-              },
-              {
-                "t": "p",
-                "x": "ClinicalTrials.gov에는 AI 관련 구조화 항목도, 보고 요건도 없어 방법론 세부 정보가 빠진 경우가 많았다. 연구진은 AI 보고 표준에 맞춘 구조화 등록 항목을 두면 투명성이 높아질 것이라고 밝혔다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "登録介入試験における\nAI活用を可視化",
-          "body": "2022年以降ClinicalTrials.gov登録の介入試験でのAI活用を分析した。",
-          "mini_headline": "臨床試験のAI活用を可視化",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "この横断研究は、2022年以降に実施された臨床試験における人工知能（AI）の利用を調べたものだ。研究者らは、開始日が2022年一月以降でClinicalTrials.govに登録された介入試験を分析し、AIの利用がどのように計画・記述されているかを明らかにした。"
-              },
-              {
-                "t": "p",
-                "x": "検索で得られた8559件の記録のうち、最終コホートは1212件の介入試験で構成された。大規模言語モデルを含む生成AIの利用計画は急増し、2022年開始の試験では皆無だったが、2025年開始の試験では491件中100件（20.4%）に達した。八件の試験は、患者のフォローアップや健康教育の提供などにAIエージェントを使う計画だった。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/df47/13749202/7f04ceea0423/jamanetwopen-e2642797-g001.webp",
-                "cap": "対象試験の特性を示す棒グラフ"
-              },
-              {
-                "t": "p",
-                "x": "最も多い臨床領域はがん（20.0%）、神経・メンタルヘルス（19.6%）、心血管・代謝疾患（18.6%）だった。AIの用途で最も多かったのは、疾患リスクや治療選択のためのスクリーニングと予測モデリング（39.8%）である。国別ではアメリカが303件（25.0%）、中国が149件（12.3%）を占めた。"
-              },
-              {
-                "t": "p",
-                "x": "ClinicalTrials.govにはAIに関する構造化項目や報告要件がないため、手法の詳細が欠けていることが多かった。著者らは、AI報告基準に沿った構造化登録項目を設ければ透明性が高まるとしている。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "绘制注册干预性试验\n中的AI应用图景",
-          "body": "横断面研究梳理2022年以来ClinicalTrials.gov干预试验的AI应用。",
-          "mini_headline": "临床试验中的AI图谱",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "这项横断面研究考察了2022年起开展的临床试验中人工智能（AI）的使用情况。研究人员分析了在ClinicalTrials.gov登记、开始日期在2022年一月及以后的干预性试验，以描述AI的使用是如何规划和表述的。"
-              },
-              {
-                "t": "p",
-                "x": "在检索返回的8559条记录中，最终队列包括1212项干预性试验。计划使用生成式AI（包括大语言模型）的试验急剧增加，2022年开始的试验中一项也没有，而2025年开始的试验中491项里有100项（20.4%）。八项试验计划使用AI智能体进行患者随访或提供健康教育等。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/df47/13749202/7f04ceea0423/jamanetwopen-e2642797-g001.webp",
-                "cap": "纳入试验特征的柱状图"
-              },
-              {
-                "t": "p",
-                "x": "最常见的临床病症为癌症（20.0%）、神经与精神健康（19.6%）以及心血管与代谢疾病（18.6%）。AI最常用于疾病风险或治疗选择的筛查和预测建模（39.8%）。美国有303项试验（25.0%），中国有149项（12.3%）。"
-              },
-              {
-                "t": "p",
-                "x": "由于ClinicalTrials.gov没有结构化的AI字段或报告要求，方法细节常常缺失；作者认为，与AI报告标准相一致的结构化注册字段将提高透明度。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Mapa del uso de AI en ensayos\nde intervención registrados",
-          "body": "Un estudio transversal analiza el uso de AI en ensayos de intervención registrados en ClinicalTrials.gov desde 2022.",
-          "mini_headline": "La AI en los ensayos clínicos",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Este estudio transversal examina el uso de la inteligencia artificial (AI) en ensayos clínicos iniciados a partir de 2022. Los investigadores analizaron ensayos de intervención registrados en ClinicalTrials.gov con fechas de inicio desde enero de 2022 para caracterizar cómo se planifica y describe el uso de AI."
-              },
-              {
-                "t": "p",
-                "x": "De los 8559 registros que arrojó la búsqueda, la cohorte final incluyó 1212 ensayos de intervención. El uso previsto de AI generativa, incluidos los grandes modelos de lenguaje, aumentó de forma marcada: de ningún ensayo iniciado en 2022 a 100 de 491 (20.4%) de los iniciados en 2025. Ocho ensayos preveían usar agentes de AI para el seguimiento de pacientes o la educación sanitaria, entre otros fines."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/df47/13749202/7f04ceea0423/jamanetwopen-e2642797-g001.webp",
-                "cap": "Gráficos de barras de las características de los ensayos incluidos"
-              },
-              {
-                "t": "p",
-                "x": "Las condiciones clínicas más frecuentes fueron el cáncer (20.0%), la salud neurológica y mental (19.6%) y las enfermedades cardiovasculares y metabólicas (18.6%). La AI se usó sobre todo para el cribado y el modelado predictivo del riesgo de enfermedad o la selección de tratamientos (39.8%). Estados Unidos aportó 303 ensayos (25.0%) y China, 149 (12.3%)."
-              },
-              {
-                "t": "p",
-                "x": "Como ClinicalTrials.gov no tiene campos estructurados sobre AI ni requisitos de notificación, a menudo faltaban detalles de los métodos; los autores afirman que unos campos de registro estructurados y alineados con los estándares de notificación de AI mejorarían la transparencia."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "중재 임상시험의\nAI 활용을 그리다",
-          "body": "2022년 이후 ClinicalTrials.gov 시험의 AI 활용을 분석했다.",
-          "mini_headline": "임상시험 속 AI 지도",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "이 횡단 연구는 2022년부터 진행된 임상시험에서 인공지능(AI)이 어떻게 쓰였는지 살폈다. 연구진은 ClinicalTrials.gov에 등록되고 시작일이 2022년 첫 달 이후인 중재 시험을 분석해, AI 활용이 어떻게 계획되고 기술되는지 정리했다."
-              },
-              {
-                "t": "p",
-                "x": "검색된 기록 8559건 가운데 최종 코호트는 중재 시험 1212건으로 구성됐다. 대규모 언어 모델을 포함한 생성형 AI 활용 계획은 2022년 시작 시험에서는 한 건도 없었으나 2025년 시작 시험에서는 491건 중 100건(20.4%)으로 크게 늘었다. 여덟 건의 시험은 환자 추적 관찰이나 건강 교육 제공 등에 AI 에이전트를 쓸 계획이었다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/df47/13749202/7f04ceea0423/jamanetwopen-e2642797-g001.webp",
-                "cap": "포함된 시험의 특성을 보여 주는 막대그래프"
-              },
-              {
-                "t": "p",
-                "x": "가장 흔한 임상 질환은 암(20.0%), 신경·정신 건강(19.6%), 심혈관·대사 질환(18.6%)이었다. AI는 질병 위험이나 치료 선택을 위한 선별·예측 모델링에 가장 많이 쓰였다(39.8%). 미국이 303건(25.0%), 중국이 149건(12.3%)을 차지했다."
-              },
-              {
-                "t": "p",
-                "x": "ClinicalTrials.gov에는 AI 관련 구조화 항목이나 보고 요건이 없어 방법론 세부 정보가 빠진 경우가 많았다. 연구진은 AI 보고 표준에 맞춘 구조화된 등록 항목이 투명성을 높일 것이라고 밝혔다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "登録介入試験における\nAI活用を可視化",
-          "body": "2022年以降ClinicalTrials.gov登録の介入試験でのAI活用を分析した。",
-          "mini_headline": "臨床試験のAI活用を可視化",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "この横断研究は、2022年以降に実施された臨床試験における人工知能（AI）の利用を調べたものだ。研究者らは、開始日が2022年一月以降でClinicalTrials.govに登録された介入試験を分析し、AIの利用がどのように計画・記述されているかを明らかにした。"
-              },
-              {
-                "t": "p",
-                "x": "検索で得られた8559件の記録のうち、最終コホートは1212件の介入試験で構成された。大規模言語モデルを含む生成AIの利用計画は急増し、2022年開始の試験では皆無だったが、2025年開始の試験では491件中100件（20.4%）に達した。八件の試験は、患者のフォローアップや健康教育の提供などにAIエージェントを使う計画だった。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/df47/13749202/7f04ceea0423/jamanetwopen-e2642797-g001.webp",
-                "cap": "対象試験の特性を示す棒グラフ"
-              },
-              {
-                "t": "p",
-                "x": "最も多い臨床領域はがん（20.0%）、神経・メンタルヘルス（19.6%）、心血管・代謝疾患（18.6%）だった。AIの用途で最も多かったのは、疾患リスクや治療選択のためのスクリーニングと予測モデリング（39.8%）である。国別ではアメリカが303件（25.0%）、中国が149件（12.3%）を占めた。"
-              },
-              {
-                "t": "p",
-                "x": "ClinicalTrials.govにはAIに関する構造化項目や報告要件がないため、手法の詳細が欠けていることが多かった。著者らは、AI報告基準に沿った構造化登録項目を設ければ透明性が高まるとしている。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "绘制注册干预性试验\n中的AI应用图景",
-          "body": "横断面研究梳理2022年以来ClinicalTrials.gov干预试验的AI应用。",
-          "mini_headline": "临床试验中的AI图谱",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "这项横断面研究考察了2022年起开展的临床试验中人工智能（AI）的使用情况。研究人员分析了在ClinicalTrials.gov登记、开始日期在2022年一月及以后的干预性试验，以描述AI的使用是如何规划和表述的。"
-              },
-              {
-                "t": "p",
-                "x": "在检索返回的8559条记录中，最终队列包括1212项干预性试验。计划使用生成式AI（包括大语言模型）的试验急剧增加，2022年开始的试验中一项也没有，而2025年开始的试验中491项里有100项（20.4%）。八项试验计划使用AI智能体进行患者随访或提供健康教育等。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/df47/13749202/7f04ceea0423/jamanetwopen-e2642797-g001.webp",
-                "cap": "纳入试验特征的柱状图"
-              },
-              {
-                "t": "p",
-                "x": "最常见的临床病症为癌症（20.0%）、神经与精神健康（19.6%）以及心血管与代谢疾病（18.6%）。AI最常用于疾病风险或治疗选择的筛查和预测建模（39.8%）。美国有303项试验（25.0%），中国有149项（12.3%）。"
-              },
-              {
-                "t": "p",
-                "x": "由于ClinicalTrials.gov没有结构化的AI字段或报告要求，方法细节常常缺失；作者认为，与AI报告标准相一致的结构化注册字段将提高透明度。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Mapa del uso de AI en ensayos\nde intervención registrados",
-          "body": "Un estudio transversal analiza el uso de AI en ensayos de intervención registrados en ClinicalTrials.gov desde 2022.",
-          "mini_headline": "La AI en los ensayos clínicos",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Este estudio transversal examina el uso de la inteligencia artificial (AI) en ensayos clínicos iniciados a partir de 2022. Los investigadores analizaron ensayos de intervención registrados en ClinicalTrials.gov con fechas de inicio desde enero de 2022 para caracterizar cómo se planifica y describe el uso de AI."
-              },
-              {
-                "t": "p",
-                "x": "De los 8559 registros que arrojó la búsqueda, la cohorte final incluyó 1212 ensayos de intervención. El uso previsto de AI generativa, incluidos los grandes modelos de lenguaje, aumentó de forma marcada: de ningún ensayo iniciado en 2022 a 100 de 491 (20.4%) de los iniciados en 2025. Ocho ensayos preveían usar agentes de AI para el seguimiento de pacientes o la educación sanitaria, entre otros fines."
+                "x": "Synapsis AI lee la historia clínica completa del paciente, incluidas notas clínicas, informes de imagen y quirúrgicos y análisis de laboratorio, y responde preguntas clínicas señalando la evidencia que las respalda en el historial. Dyania afirma haber invertido más de 25,000 horas de médicos en anotar casos clínicos."
               },
               {
-                "t": "img",
-                "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/df47/13749202/7f04ceea0423/jamanetwopen-e2642797-g001.webp",
-                "cap": "Gráficos de barras de las características de los ensayos incluidos"
-              },
-              {
-                "t": "p",
-                "x": "Las condiciones clínicas más frecuentes fueron el cáncer (20.0%), la salud neurológica y mental (19.6%) y las enfermedades cardiovasculares y metabólicas (18.6%). La AI se usó sobre todo para el cribado y el modelado predictivo del riesgo de enfermedad o la selección de tratamientos (39.8%). Estados Unidos aportó 303 ensayos (25.0%) y China, 149 (12.3%)."
-              },
-              {
-                "t": "p",
-                "x": "Como ClinicalTrials.gov no tiene campos estructurados sobre AI ni requisitos de notificación, a menudo faltaban detalles de los métodos; los autores afirman que unos campos de registro estructurados y alineados con los estándares de notificación de AI mejorarían la transparencia."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "npj-cancer-persistent-fever-ml",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "ML로 암 환자의\n지속 발열 예측",
-      "body": "검증된 EHR 모델이 IV 항생제 48–72시간째 암 환자의 지속 발열을 내다본다.",
-      "mini_headline": "ML, 암 환자 발열 예측",
-      "tool": "Medicine",
-      "source": "npj Digital Medicine",
-      "url": "https://www.nature.com/articles/s41746-026-03449-w",
-      "accent": "#eb367f",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "입원한 암 환자는 정맥 항생제를 맞기 시작한 뒤에도 열이 이어지는 일이 흔한데, 그러면 추가 영상 검사와 항균제 강화로 이어지곤 한다. 연구진은 두 대학병원의 전자건강기록으로 항생제 투여 48–72시간 뒤 지속 발열을 예측하는 머신러닝 모델을 만들고 외부 검증까지 마쳤다."
-          },
-          {
-            "t": "img",
-            "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03449-w/MediaObjects/41746_2026_3449_Fig1_HTML.png",
-            "cap": "Fig. 1: UME 및 BWH 데이터셋의 코호트 추출 단계를 보여 주는 흐름도."
-          },
-          {
-            "t": "p",
-            "x": "최종 코호트는 University Medicine Essen(UME) 입원 987건과 Brigham and Women’s Hospital(BWH) 입원 7409건이었다. 가장 성능이 좋은 모델의 AUROC는 내부 검증 0.82(95% CI 0.79–0.84), 외부 검증 0.78(95% CI 0.77–0.79)이었다. 핵심 예측 인자는 체온 관련 변수였다."
-          },
-          {
-            "t": "img",
-            "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03449-w/MediaObjects/41746_2026_3449_Fig2_HTML.png",
-            "cap": "Fig. 2: 내부(UME) 및 외부(BWH) 검증 코호트에서 본 예측 모델의 판별력, 임상적 유용성, 보정."
-          },
-          {
-            "t": "p",
-            "x": "항생제 강화와 흉부 CT 촬영의 약 사분의 일은 발열이 지속되지 않으리라고 정확히 예측된 환자에게 이뤄졌다. 임상에서는 단독 배제 판단에 쓰지 말고 보조 수단으로만 써야 하며, 전향적 연구가 필요하다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Predicting persistent fever\nin cancer patients with ML",
-          "body": "Externally validated EHR models predict which cancer patients stay febrile 48–72 hours into IV antibiotics.",
-          "mini_headline": "ML predicts cancer fever",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Persistent fever after initiating intravenous antibiotics is common in hospitalized patients with cancer and often leads to additional imaging and antimicrobial escalation. The researchers developed and externally validated machine learning models to predict persistent fever 48–72 h after antibiotic initiation using electronic health records from two academic hospitals."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03449-w/MediaObjects/41746_2026_3449_Fig1_HTML.png",
-                "cap": "Fig. 1: Flow diagram illustrating the cohort extraction steps for the UME and BWH datasets."
-              },
-              {
-                "t": "p",
-                "x": "Final cohorts comprised 987 hospital stays at University Medicine Essen (UME) and 7409 hospital stays at Brigham and Women’s Hospital (BWH). The best-performing model achieved an AUROC of 0.82 (95% CI 0.79–0.84) internally and 0.78 (95% CI 0.77–0.79) externally. Temperature-related variables were the dominant predictors."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03449-w/MediaObjects/41746_2026_3449_Fig2_HTML.png",
-                "cap": "Fig. 2: Discrimination, clinical utility, and calibration of prediction models in the internal (UME) and external (BWH) validation cohorts."
-              },
-              {
-                "t": "p",
-                "x": "Approximately one quarter of antibiotic escalations and chest CT scans occurred in patients correctly predicted not to remain febrile. Clinical use should be limited to an adjunctive role rather than standalone rule-out decision-making, and prospective studies are required."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "ML로 암 환자의\n지속 발열 예측",
-          "body": "검증된 EHR 모델이 IV 항생제 48–72시간째 암 환자의 지속 발열을 내다본다.",
-          "mini_headline": "ML, 암 환자 발열 예측",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "입원한 암 환자는 정맥 항생제를 맞기 시작한 뒤에도 열이 이어지는 일이 흔한데, 그러면 추가 영상 검사와 항균제 강화로 이어지곤 한다. 연구진은 두 대학병원의 전자건강기록으로 항생제 투여 48–72시간 뒤 지속 발열을 예측하는 머신러닝 모델을 만들고 외부 검증까지 마쳤다."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03449-w/MediaObjects/41746_2026_3449_Fig1_HTML.png",
-                "cap": "Fig. 1: UME 및 BWH 데이터셋의 코호트 추출 단계를 보여 주는 흐름도."
-              },
-              {
-                "t": "p",
-                "x": "최종 코호트는 University Medicine Essen(UME) 입원 987건과 Brigham and Women’s Hospital(BWH) 입원 7409건이었다. 가장 성능이 좋은 모델의 AUROC는 내부 검증 0.82(95% CI 0.79–0.84), 외부 검증 0.78(95% CI 0.77–0.79)이었다. 핵심 예측 인자는 체온 관련 변수였다."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03449-w/MediaObjects/41746_2026_3449_Fig2_HTML.png",
-                "cap": "Fig. 2: 내부(UME) 및 외부(BWH) 검증 코호트에서 본 예측 모델의 판별력, 임상적 유용성, 보정."
-              },
-              {
-                "t": "p",
-                "x": "항생제 강화와 흉부 CT 촬영의 약 사분의 일은 발열이 지속되지 않으리라고 정확히 예측된 환자에게 이뤄졌다. 임상에서는 단독 배제 판단에 쓰지 말고 보조 수단으로만 써야 하며, 전향적 연구가 필요하다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "MLでがん患者の\n持続発熱を予測",
-          "body": "外部検証したEHRモデルがIV抗菌薬開始48–72時間後も発熱が続くがん患者を予測する。",
-          "mini_headline": "MLでがん患者の発熱予測",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "入院中のがん患者では、静脈内抗菌薬の投与開始後も発熱が続くことが多く、追加の画像検査や抗菌薬の強化につながりやすい。研究チームは二つの大学病院の電子健康記録を用い、抗菌薬開始から48–72時間後の持続発熱を予測する機械学習モデルを開発し、外部検証を行った。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03449-w/MediaObjects/41746_2026_3449_Fig1_HTML.png",
-                "cap": "Fig. 1: UMEおよびBWHデータセットのコホート抽出手順を示すフロー図。"
-              },
-              {
-                "t": "p",
-                "x": "最終コホートは、University Medicine Essen（UME）の入院987件と、Brigham and Women’s Hospital（BWH）の入院7409件で構成された。最も性能の高いモデルのAUROCは、内部検証で0.82（95% CI 0.79–0.84）、外部検証で0.78（95% CI 0.77–0.79）だった。体温関連の変数が主要な予測因子だった。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03449-w/MediaObjects/41746_2026_3449_Fig2_HTML.png",
-                "cap": "Fig. 2: 内部（UME）および外部（BWH）検証コホートにおける予測モデルの識別能、臨床的有用性、較正。"
-              },
-              {
-                "t": "p",
-                "x": "抗菌薬の強化と胸部CT検査のおよそ四分の一は、発熱が続かないと正しく予測された患者で行われていた。臨床での利用は単独の除外判断ではなく補助的な役割にとどめるべきであり、前向き研究が必要である。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "用ML预测癌症\n患者持续发热",
-          "body": "经外部验证的EHR模型可预测哪些癌症患者在IV抗生素治疗48–72小时后仍发热。",
-          "mini_headline": "ML预测癌症患者发热",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "住院癌症患者在开始静脉抗生素治疗后持续发热很常见，常导致额外的影像检查和抗菌药物升级。研究人员利用两家学术医院的电子健康记录，开发并外部验证了预测抗生素开始后48–72小时持续发热的机器学习模型。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03449-w/MediaObjects/41746_2026_3449_Fig1_HTML.png",
-                "cap": "Fig. 1: UME与BWH数据集队列提取步骤流程图。"
-              },
-              {
-                "t": "p",
-                "x": "最终队列包括University Medicine Essen（UME）的987次住院和Brigham and Women’s Hospital（BWH）的7409次住院。表现最佳的模型内部AUROC为0.82（95% CI 0.79–0.84），外部为0.78（95% CI 0.77–0.79）。体温相关变量是最主要的预测因子。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03449-w/MediaObjects/41746_2026_3449_Fig2_HTML.png",
-                "cap": "Fig. 2: 预测模型在内部（UME）和外部（BWH）验证队列中的区分度、临床效用与校准。"
-              },
-              {
-                "t": "p",
-                "x": "约四分之一的抗菌药物升级和胸部CT检查发生在被正确预测不会持续发热的患者身上。临床应用应仅限于辅助角色，而非单独用于排除决策，且仍需前瞻性研究。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Predecir la fiebre persistente\nen pacientes con cáncer con ML",
-          "body": "Modelos de EHR, validados externamente, predicen la fiebre persistente en cáncer a 48–72 horas de antibióticos IV.",
-          "mini_headline": "ML predice la fiebre en cáncer",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
                 "t": "p",
-                "x": "La fiebre persistente tras iniciar antibióticos intravenosos es frecuente en pacientes hospitalizados con cáncer y a menudo conlleva más pruebas de imagen y una escalada antimicrobiana. Los investigadores desarrollaron y validaron externamente modelos de aprendizaje automático para predecir la fiebre persistente 48–72 h después del inicio de los antibióticos, a partir de historias clínicas electrónicas de dos hospitales universitarios."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03449-w/MediaObjects/41746_2026_3449_Fig1_HTML.png",
-                "cap": "Fig. 1: Diagrama de flujo que ilustra los pasos de extracción de cohortes de los conjuntos de datos de UME y BWH."
-              },
-              {
-                "t": "p",
-                "x": "Las cohortes finales incluyeron 987 estancias hospitalarias en University Medicine Essen (UME) y 7409 en Brigham and Women’s Hospital (BWH). El modelo con mejor rendimiento alcanzó un AUROC de 0.82 (95% CI 0.79–0.84) en la validación interna y de 0.78 (95% CI 0.77–0.79) en la externa. Las variables relacionadas con la temperatura fueron los predictores dominantes."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03449-w/MediaObjects/41746_2026_3449_Fig2_HTML.png",
-                "cap": "Fig. 2: Discriminación, utilidad clínica y calibración de los modelos de predicción en las cohortes de validación interna (UME) y externa (BWH)."
-              },
-              {
-                "t": "p",
-                "x": "Aproximadamente una cuarta parte de las escaladas antibióticas y de las CT de tórax se produjeron en pacientes en quienes se predijo correctamente que no seguirían con fiebre. El uso clínico debería limitarse a un papel complementario y no a decisiones de descarte independientes, y se necesitan estudios prospectivos."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "ML로 암 환자의\n지속 발열 예측",
-          "body": "검증된 EHR 모델이 IV 항생제 48–72시간째 암 환자 지속 발열을 예측한다.",
-          "mini_headline": "ML, 암 환자 발열 예측",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "입원한 암 환자는 정맥 항생제 투여를 시작한 뒤에도 발열이 이어지는 일이 흔하며, 이는 추가 영상 검사와 항균제 강화로 이어지곤 한다. 연구진은 두 대학병원의 전자건강기록을 바탕으로 항생제 투여 48–72시간 뒤의 지속 발열을 예측하는 머신러닝 모델을 개발하고 외부 검증했다."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03449-w/MediaObjects/41746_2026_3449_Fig1_HTML.png",
-                "cap": "Fig. 1: UME 및 BWH 데이터셋의 코호트 추출 단계를 보여 주는 흐름도."
-              },
-              {
-                "t": "p",
-                "x": "최종 코호트는 University Medicine Essen(UME)의 입원 987건과 Brigham and Women’s Hospital(BWH)의 입원 7409건이었다. 성능이 가장 좋은 모델의 AUROC는 내부 검증에서 0.82(95% CI 0.79–0.84), 외부 검증에서 0.78(95% CI 0.77–0.79)이었다. 체온 관련 변수가 핵심 예측 인자였다."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03449-w/MediaObjects/41746_2026_3449_Fig2_HTML.png",
-                "cap": "Fig. 2: 내부(UME) 및 외부(BWH) 검증 코호트에서 본 예측 모델의 판별력, 임상적 유용성, 보정."
-              },
-              {
-                "t": "p",
-                "x": "항생제 강화와 흉부 CT 촬영의 약 사분의 일은 발열이 지속되지 않으리라고 정확히 예측된 환자에게서 이뤄졌다. 임상에서는 단독 배제 판단이 아닌 보조 역할로 쓰임을 제한해야 하며, 전향적 연구가 필요하다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "MLでがん患者の\n持続発熱を予測",
-          "body": "外部検証したEHRモデルがIV抗菌薬開始48–72時間後も発熱が続くがん患者を予測する。",
-          "mini_headline": "MLでがん患者の発熱予測",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "入院中のがん患者では、静脈内抗菌薬の投与開始後も発熱が続くことが多く、追加の画像検査や抗菌薬の強化につながりやすい。研究チームは二つの大学病院の電子健康記録を用い、抗菌薬開始から48–72時間後の持続発熱を予測する機械学習モデルを開発し、外部検証を行った。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03449-w/MediaObjects/41746_2026_3449_Fig1_HTML.png",
-                "cap": "Fig. 1: UMEおよびBWHデータセットのコホート抽出手順を示すフロー図。"
-              },
-              {
-                "t": "p",
-                "x": "最終コホートは、University Medicine Essen（UME）の入院987件と、Brigham and Women’s Hospital（BWH）の入院7409件で構成された。最も性能の高いモデルのAUROCは、内部検証で0.82（95% CI 0.79–0.84）、外部検証で0.78（95% CI 0.77–0.79）だった。体温関連の変数が主要な予測因子だった。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03449-w/MediaObjects/41746_2026_3449_Fig2_HTML.png",
-                "cap": "Fig. 2: 内部（UME）および外部（BWH）検証コホートにおける予測モデルの識別能、臨床的有用性、較正。"
-              },
-              {
-                "t": "p",
-                "x": "抗菌薬の強化と胸部CT検査のおよそ四分の一は、発熱が続かないと正しく予測された患者で行われていた。臨床での利用は単独の除外判断ではなく補助的な役割にとどめるべきであり、前向き研究が必要である。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "用ML预测癌症\n患者持续发热",
-          "body": "经外部验证的EHR模型可预测哪些癌症患者在IV抗生素治疗48–72小时后仍发热。",
-          "mini_headline": "ML预测癌症患者发热",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "住院癌症患者在开始静脉抗生素治疗后持续发热很常见，常导致额外的影像检查和抗菌药物升级。研究人员利用两家学术医院的电子健康记录，开发并外部验证了预测抗生素开始后48–72小时持续发热的机器学习模型。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03449-w/MediaObjects/41746_2026_3449_Fig1_HTML.png",
-                "cap": "Fig. 1: UME与BWH数据集队列提取步骤流程图。"
-              },
-              {
-                "t": "p",
-                "x": "最终队列包括University Medicine Essen（UME）的987次住院和Brigham and Women’s Hospital（BWH）的7409次住院。表现最佳的模型内部AUROC为0.82（95% CI 0.79–0.84），外部为0.78（95% CI 0.77–0.79）。体温相关变量是最主要的预测因子。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03449-w/MediaObjects/41746_2026_3449_Fig2_HTML.png",
-                "cap": "Fig. 2: 预测模型在内部（UME）和外部（BWH）验证队列中的区分度、临床效用与校准。"
-              },
-              {
-                "t": "p",
-                "x": "约四分之一的抗菌药物升级和胸部CT检查发生在被正确预测不会持续发热的患者身上。临床应用应仅限于辅助角色，而非单独用于排除决策，且仍需前瞻性研究。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Predecir la fiebre persistente\nen pacientes con cáncer con ML",
-          "body": "Modelos de EHR, validados externamente, predicen la fiebre persistente en cáncer a 48–72 horas de antibióticos IV.",
-          "mini_headline": "ML predice la fiebre en cáncer",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "La fiebre persistente tras iniciar antibióticos intravenosos es frecuente en pacientes hospitalizados con cáncer y a menudo conlleva más pruebas de imagen y una escalada antimicrobiana. Los investigadores desarrollaron y validaron externamente modelos de aprendizaje automático para predecir la fiebre persistente 48–72 h después del inicio de los antibióticos, a partir de historias clínicas electrónicas de dos hospitales universitarios."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03449-w/MediaObjects/41746_2026_3449_Fig1_HTML.png",
-                "cap": "Fig. 1: Diagrama de flujo que ilustra los pasos de extracción de cohortes de los conjuntos de datos de UME y BWH."
-              },
-              {
-                "t": "p",
-                "x": "Las cohortes finales incluyeron 987 estancias hospitalarias en University Medicine Essen (UME) y 7409 en Brigham and Women’s Hospital (BWH). El modelo con mejor rendimiento alcanzó un AUROC de 0.82 (95% CI 0.79–0.84) en la validación interna y de 0.78 (95% CI 0.77–0.79) en la externa. Las variables relacionadas con la temperatura fueron los predictores dominantes."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03449-w/MediaObjects/41746_2026_3449_Fig2_HTML.png",
-                "cap": "Fig. 2: Discriminación, utilidad clínica y calibración de los modelos de predicción en las cohortes de validación interna (UME) y externa (BWH)."
+                "x": "Dyania entrena sus modelos con el framework Nvidia NeMo; dentro del sistema de salud, Synapsis AI funciona con Nvidia TensorRT y TensorRT-LLM sobre la propia infraestructura de computación acelerada del hospital, de modo que la inferencia permanece dentro de la red privada del hospital."
               },
               {
                 "t": "p",
-                "x": "Aproximadamente una cuarta parte de las escaladas antibióticas y de las CT de tórax se produjeron en pacientes en quienes se predijo correctamente que no seguirían con fiebre. El uso clínico debería limitarse a un papel complementario y no a decisiones de descarte independientes, y se necesitan estudios prospectivos."
+                "x": "Cleveland Clinic utilizó Synapsis AI, ejecutada sobre infraestructura de Nvidia, para analizar hasta 16 años de historiales de 7,812 pacientes con reemplazo de válvula aórtica. La AI respondió 88 preguntas por paciente, y los investigadores usaron el conjunto de datos para crear un modelo predictivo del deterioro valvular y del riesgo de repetir el procedimiento a tres, cinco y 10 años."
               }
             ]
           }

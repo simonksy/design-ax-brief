@@ -1,7 +1,33 @@
-{"date":"2026-11-13","section":"games","media":[
-{"id":"gdc-state-industry-2026-genai","type":"image","src":"pipeline/media/gdc-state-industry-2026-genai.jpg"},
-{"id":"tencent-ai-gaming-companions","type":"image","src":"pipeline/media/tencent-ai-gaming-companions.jpg"},
-{"id":"apex-neural-rendering-framegen","type":"video","src":"pipeline/media/apex-neural-rendering-framegen.mp4","poster":"pipeline/media/apex-neural-rendering-framegen.jpg"},
-{"id":"ludo-toolbox-coding-agents","type":"video","src":"pipeline/media/ludo-toolbox-coding-agents.mp4","poster":"pipeline/media/ludo-toolbox-coding-agents.jpg"},
-{"id":"gamesbeat-next-ai-native-games","type":"image","src":"pipeline/media/gamesbeat-next-ai-native-games.jpg"}
-]}
+{
+  "date": "2026-11-14",
+  "section": "games",
+  "media": [
+    {
+      "id": "pearlabyss-ai-pipeline",
+      "type": "video",
+      "src": "pipeline/media/pearlabyss-ai-pipeline.mp4",
+      "poster": "pipeline/media/pearlabyss-ai-pipeline.jpg"
+    },
+    {
+      "id": "sony-qssr-ps5-rollout",
+      "type": "image",
+      "src": "pipeline/media/sony-qssr-ps5-rollout.jpg"
+    },
+    {
+      "id": "games-ai-clone-ip-defense",
+      "type": "image",
+      "src": "pipeline/media/games-ai-clone-ip-defense.jpg"
+    },
+    {
+      "id": "xbox-sharma-genai-memo",
+      "type": "image",
+      "src": "pipeline/media/xbox-sharma-genai-memo.jpg"
+    },
+    {
+      "id": "shadowkey-ngage-ai-revival",
+      "type": "video",
+      "src": "pipeline/media/shadowkey-ngage-ai-revival.mp4",
+      "poster": "pipeline/media/shadowkey-ngage-ai-revival.jpg"
+    }
+  ]
+}

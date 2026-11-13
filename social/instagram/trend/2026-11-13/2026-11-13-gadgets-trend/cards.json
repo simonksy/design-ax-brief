@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "issue": "AI 안경에 가격표가 붙다",
+    "date": "2026.11.13",
+    "section": "GADGETS",
+    "accent": "#ff5a4d",
+    "note": "원문 4건 대조: 날짜를 원문 게재일로 고침(Road to VR 10.29→10.28, Android Authority 11.06→11.05, TechRadar 11.08→11.07, Samsung 뉴스룸 11.13→11.12 KST). 수치 $1,100·11월 중순 첫 출하(미·캐·일·한), 예약 11월 12일·가격 미공개·화면 없는 음성 중심, £1,999·폰 연결 없이·자막 번역, 41g·12월 10일 미·한·$395·$449~489 확인. XREAL 사진은 10-29 story에 쓰여 stat로, 사진은 Samsung 마지막 장 한 번만.",
+    "sources": [
+      "Road to VR — Android XR's First AR Glasses 'XREAL Aura' Launch Today, Starting at $1,100 for Limited Time (2026.10.28)",
+      "Android Authority — Samsung Android XR smart glasses pre-orders open November 12 (2026.11.05)",
+      "TechRadar — I went hands on with the new Snap Specs — and found out why they could soon be a useful workplace tool (2026.11.07)",
+      "Samsung Newsroom — Samsung Announces December Release for Intelligent Eyewear, Bringing a Smarter Way To See the World (2026.11.12)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 가젯 · 10.28~11.12",
+      "thread": [
+        {
+          "d": "10.28",
+          "t": "XREAL",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        },
+        {
+          "d": "11.5",
+          "t": "예약일",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        },
+        {
+          "d": "11.7",
+          "t": "Snap",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        },
+        {
+          "d": "11.12",
+          "t": "$395",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        }
+      ],
+      "thread_note": "AI 안경이 시연을 끝내고 가격표를 달고 매장으로 간다",
+      "eyebrow": "흐름 · 가젯",
+      "headline": "AI 안경에\n가격표가 붙다",
+      "body": "한 건씩은 출시 소식이다. 이어 보면 보름 새 값과 출시일이 차례로 붙었고, 값은 $395까지 내려왔다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "stat",
+      "eyebrow": "2026.10.28",
+      "headline": "첫 Android XR 안경",
+      "body": "XREAL Aura가 한정 기간 $1,100부터 팔린다. 첫 물량은 11월 중순 미국·캐나다·일본·한국에 간다.",
+      "foot": "2026.10.28",
+      "_src": "https://roadtovr.com/google-ar-glasses-xreal-aura-release-date-price/",
+      "_id": "gadgets-xreal-aura-launch",
+      "stat_top": "6월부터 받은 예약",
+      "stat_arrow": "Android XR 첫 AR 안경",
+      "stat_bottom": "$1,100부터",
+      "stat_strike": false
+    },
+    {
+      "n": 3,
+      "kind": "stat",
+      "eyebrow": "2026.11.05",
+      "headline": "날짜 먼저, 값은 나중",
+      "body": "Samsung Android XR 안경 예약이 11월 12일 열린다. 화면 없는 음성 중심 모델이고 값은 아직 없었다.",
+      "foot": "2026.11.05",
+      "_src": "https://www.androidauthority.com/samsung-smart-glasses-pre-orders-3732159/",
+      "_id": "samsung-xr-glasses-preorder",
+      "stat_top": "가격은 미공개",
+      "stat_arrow": "예약 문이 먼저 열린 날",
+      "stat_bottom": "11월 12일",
+      "stat_strike": false
+    },
+    {
+      "n": 4,
+      "kind": "stat",
+      "eyebrow": "2026.11.07",
+      "headline": "폰 없이 도는 Snap Specs",
+      "body": "6세대 Snap Specs는 폰에 묶이지 않는다. 상대의 말을 자막처럼 번역해 띄우고, 영국 값은 £1,999다.",
+      "foot": "2026.11.07",
+      "_src": "https://www.techradar.com/pro/i-went-hands-on-with-the-new-snap-specs-and-found-out-why-they-could-soon-be-a-useful-workplace-tool",
+      "_id": "snap-specs-gen6-handson",
+      "stat_top": "폰 연결 없이 단독",
+      "stat_arrow": "자막 번역 담은 6세대",
+      "stat_bottom": "£1,999",
+      "stat_strike": false
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.11.12",
+      "headline": "Samsung 안경, $395부터",
+      "body": "Gemini를 넣은 41g 안경이 12월 10일 미국에 나온다. 한국엔 Gentle Monster형이 간다.",
+      "foot": "2026.11.12",
+      "_src": "https://news.samsung.com/global/samsung-announces-december-release-for-intelligent-eyewear-bringing-a-smarter-way-to-see-the-world",
+      "_id": "samsung-eyewear-dec-launch",
+      "media": "pipeline/media/samsung-eyewear-dec-launch.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

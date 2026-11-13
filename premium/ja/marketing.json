@@ -4540,6 +4540,133 @@
           "x": "「マーケティングチームは手作業のキャンペーン運用から、エージェントによる実行へと移りつつある」と、AppsFlyerのVP ProductであるInna Weiner氏は述べた。価格、顧客の成果、一般提供の時期は明らかにされていない。"
         }
       ]
+    },
+    "marketing/iab-ai-attribution-blueprint": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.iab.com/wp-content/uploads/2026/11/the-ai-era-attribution-blueprint-2-1024x312.png"
+        },
+        {
+          "t": "p",
+          "x": "Interactive Advertising Bureau（IAB）は2026年11月12日、コンバージョンにおけるAIの役割を業界共通の方法で分類し、どの当事者がその成果を主張できるかを評価する新たなフレームワーク「AI-Era Attribution Blueprint」を公表した。IABの「2026 Outlook Study: September Update」によると、広告バイヤーはAI-drivenなカスタマージャーニーと従来型の比較を最大の測定課題に挙げ（45%）、44%は追跡できないAIの影響の代替指標としてブランド検索や直接流入に頼っている。"
+        },
+        {
+          "t": "p",
+          "x": "「AI-influencedな売上は検索や直接流入として計上されることがあり、次のマーケティング投資が誤ったチャネルに向かいかねない」と、IABのAI担当VP、Caroline Giegerich氏は述べた。"
+        },
+        {
+          "t": "p",
+          "x": "Blueprintは、誰が、あるいは何が意図を生み、意思決定をし、購入を完了したかを問い、各コンバージョンをHuman-Owned、AI-Assisted、AI-Executedのいずれかに分類する。この経路によって、どの当事者が（該当する場合）決定クレームまたは貢献クレームの対象となるか、また各クレームにどんな証拠が必要かが決まる。クレームは成果の認定そのものではなく、認定に向けた評価を受ける権利である。"
+        },
+        {
+          "t": "p",
+          "x": "必要な証拠の多くは取得されていないか、AIプラットフォームの内部にある。IABはブランドに各経路のコンバージョン比率の推計を、AIプラットフォームにレコメンドが有料かオーガニックかの開示とAI-originatedトラフィックへの一貫したラベル付けを、エージェンシーに単一のクレーム・証拠基準の適用を、パブリッシャーに自社コンテンツが生む貢献クレームの特定を求めている。"
+        }
+      ]
+    },
+    "marketing/schibsted-nodals-ad-algorithms": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.adexchanger.com/wp-content/uploads/2024/10/revenue-sharing-publishers-sundar-pichai-mark-zuckerberg-comic-1024x941.png"
+        },
+        {
+          "t": "p",
+          "x": "Schibstedは、欧州（Europe）と米国（US）のパブリッシャー向けに独自の広告最適化アルゴリズムを開発するLondon-basedの企業Nodals AIと組み、Meta独自の最適化ツールに引き寄せられたブランドの呼び戻しを図っている。Schibsted Marketing Servicesで広告データ機能のディレクターを務めるChrister Ljones氏がAdExchangerに語った。"
+        },
+        {
+          "t": "p",
+          "x": "ウォールドガーデンはMetaのAdvantage+のようなAI-poweredのキャンペーン最適化機能で広告主を取り込み、オープンウェブのパブリッシャーは追いつくのに苦労してきた。Nodalsの創業者兼CEO、Aly Nurmohamed氏は「広告主はMetaによって『お金を入れたら、いくら出てくるか』だけを気にするよう仕込まれてきた」と語る。"
+        },
+        {
+          "t": "p",
+          "x": "Nodalsは、ログインデータやスクロール深度、読者がコンテンツや広告をクリックする頻度といったパブリッシャーのファーストパーティデータをモデルに取り込み、特定の広告主にとってクリックや購入をしそうな人を予測する。Schibstedは昨夏この技術を初めてテストし、AI最適化を組み込んだ直販ネイティブ広告フォーマットの新ラインを構築中で、価格はCPMではなくクリック単価で設定する。"
+        },
+        {
+          "t": "p",
+          "x": "「Metaに費やしている額の10%をこちらに回してみてほしい。コンバージョンの大半は維持でき、[我々から]さらに多くを得られるはずだ」とLjones氏は話す。「まだ初期段階だが、正しい成果が出ている」"
+        }
+      ]
+    },
+    "marketing/buzzvil-prism-ad-engine": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.byline.network/wp-content/uploads/2026/11/buzzvil_20261113.jpg",
+          "cap": "Buzzvil、利用者ごとの広告素材を自動制作するAIエンジン「Prism」を発売（出典=Buzzvil）"
+        },
+        {
+          "t": "p",
+          "x": "Buzzvilが、利用者の関心や購買段階に応じて異なる広告を表示する人工知能（AI）広告エンジンを披露した。同じブランドの同一広告キャンペーンでも、利用者ごとに商品レコメンド、広告メッセージ、参加方法を変えて構成するのが特徴だ。Buzzvilは13日、超パーソナライズ型インタラクション広告エンジン「Prism」を発売し、今月から希望する広告主を対象に適用すると明らかにした。"
+        },
+        {
+          "t": "p",
+          "x": "中核技術は自社開発のAIコンテンツ制作システム「Composer」だ。Composerは利用者の関心商品と文脈を分析して適切な広告メッセージを見つけ、大規模言語モデル（LLM）を活用して対話型レコメンドや悩み診断などの参加型広告素材を生成する。"
+        },
+        {
+          "t": "p",
+          "x": "広告主はブランド画像と商品情報を提供すれば、別途の制作工程なしに一つのキャンペーンで1000個以上のパーソナライズ素材を作れる。生成された素材は禁止語と事実関係の検収、AI品質審査を経て、基準を満たした場合にのみ配信される。Prismは利用者の反応を分析し、成果の高い組み合わせの露出を増やす機能も備える。"
+        },
+        {
+          "t": "p",
+          "x": "Buzzvilがビューティーブランドと実施したインタラクション広告キャンペーンでは、商品レビューを活用した広告素材のクリック後購入転換率が、従来のカタログ型素材より3倍高かった。カート追加の転換率は7倍高く、広告クリックから購入までにかかった時間の中央値は57%短かった。"
+        },
+        {
+          "t": "p",
+          "x": "BuzzvilのLee Kwan-woo代表は「広告を一方的なメッセージではなく、利用者一人ひとりとやり取りする体験に変えていく」と述べた。"
+        }
+      ]
+    },
+    "marketing/ppcland-agent-traffic-meta-openai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/11/human-security-agentic-traffic-october-2026-meta-openai-89-percent-muse-59-percent-two-storefronts-stream.jpg",
+          "cap": "HUMANの調査では、10月のAIエージェント要求の89%をMetaとOpenAIが送り、Muse単独で59%を占めた"
+        },
+        {
+          "t": "p",
+          "x": "2026年11月9日に公表されたHUMAN SecurityのベンチマークState of Agentic Trafficの2026年10月版によると、HUMANが保護するサイトで同月のエージェント要求の89%をMetaとOpenAIが占め、MetaのMuseだけで59%に達した。10月のエージェント流入の総量は9月の2.6倍、8月の約八倍だった。"
+        },
+        {
+          "t": "p",
+          "x": "Metaは2026年9月8日、US-onlyのパーソナルエージェントとしてMuseを投入した。OpenAIは上位十位以内に三つの製品——ChatGPT Agent（15.9%）、Codex Browser（8.8%）、Codex Chrome拡張機能（5.2%）——を送り込み、計約30%で二番手につける。AnthropicのClaude Chrome拡張機能は7%から3.5%へ半減した。"
+        },
+        {
+          "t": "p",
+          "x": "PerplexityのCometは8月に41%のシェアでエージェント流入の首位だったが、10月には3.6%に落ち込んだ。レポートは「消費者がすでに使っているプラットフォームに組み込まれたエージェントへ移行するなか、単体の消費者向けエージェントブラウザは勢いを失っている」と指摘する。"
+        },
+        {
+          "t": "p",
+          "x": "エージェントはなお主に下調べをしている。HUMANによると、要求の85%は商品ページと検索ページに向かい、チェックアウトと決済に到達したのは1.9%だったが、チェックアウトの量は前月比117%増えた。レポートは「エージェントは買うよりもはるかに多く閲覧している」としつつ、「チェックアウトに到達するエージェント要求の数は急速に増えている」と述べる。HUMANの11月版では、Black FridayとCyber Mondayにエージェントがどう動いたかが示される予定だ。"
+        }
+      ]
+    },
+    "marketing/google-ads-editor-aimax-default": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/size/w2000/2026/11/google-ads-editor-2-14-ai-max-default-new-search-campaigns-prepunched-punch-cards-inspector.jpg",
+          "cap": "Google Ads Editor 2.14では、新規SearchキャンペーンがすべてAI MaxとFinal URL expansionをオンにした状態で始まる"
+        },
+        {
+          "t": "p",
+          "x": "GoogleはGoogle Ads Editorのバージョン2.14をリリースした。キャンペーンを一括で扱うための無料デスクトップアプリケーションだ。リリースノートによると「新規Searchキャンペーンの作成時に、AI Max、テキストアセットの自動化、Final URL expansionが既定で有効になる」。ノートに公開日の記載はない。Search Engine Roundtableは2026年11月12日にこのリリースを報じ、新機能を10件と数えた。"
+        },
+        {
+          "t": "p",
+          "x": "AI Maxは、検索語句のマッチング、テキストのカスタマイズ、Final URL expansionを組み合わせたものだ。テキストのカスタマイズはランディングページや既存の広告、キーワードから広告見出しと説明文を作成し、Final URL expansionはユーザーを同じドメイン内の別ページへ送ることがある。Final URL expansionはテキストのカスタマイズなしでは使えず、有効にすると固定した広告見出しは守られない。"
+        },
+        {
+          "t": "p",
+          "x": "Googleは2026年9月、旧来の部分一致キャンペーンと自動作成アセットのキャンペーンをAI Maxへ移行した際、両グループともFinal URL expansionをオフのままにした。Editor 2.14では、新規Searchキャンペーンがこの機能をオンにした状態で始まる。"
+        },
+        {
+          "t": "p",
+          "x": "今回のリリースでは、Editorでアカウント単位の新規顧客の獲得と維持の設定を編集できるようになり、チャネルの優先順位付けと予算上限が加わったほか、Shoppingキャンペーンでローカル在庫広告をオフにするオプションが削除された。"
+        }
+      ]
     }
   }
 }

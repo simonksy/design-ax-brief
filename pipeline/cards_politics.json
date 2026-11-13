@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "section": "politics",
   "cards": [
     {
-      "id": "advocacy-suit-halt-ai-labs",
+      "id": "politics-ama-ai-liability",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "시민단체, AI 기업\n다섯 곳에 개발 중단 소송",
-      "body": "안전·소비자 단체가 캘리포니아 법원에 AI 기업 다섯 곳의 개발 중단을 청구했다.",
-      "mini_headline": "AI 신모델 개발 중단 소송",
+      "headline": "AI-caused 피해에\n의사들 면책 요구",
+      "body": "AMA가 AI 피해 때 의사 면책과 AI 업체 배상보험 의무화를 요구했다.",
+      "mini_headline": "AMA, AI 책임 면제 요구",
       "tool": "Politics",
-      "source": "AP News",
-      "url": "https://apnews.com/article/artificial-intelligence-ai-lawsuit-cyberattacks-anthropic-openai-03ece37b96979fe834f60976648504ba",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/11/13/doctors-ai-mistakes-liability-shield",
       "accent": "#3b6bff",
       "motif": "cube",
       "full": {
@@ -19,197 +19,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://dims.apnews.com/dims4/default/4e44ba9/2147483647/strip/true/crop/4662x3108+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F30%2F0e%2Fef26d3feddcef8b768b205a106a9%2F4fd0f97a72934b7eb0c5305851250919"
+            "src": "https://images.axios.com/UGhAq1_gsT5ZluDlIyxxjbXh0YQ=/0x0:1920x1080/1920x1080/2026/11/12/1794506966317.jpeg"
           },
           {
             "t": "p",
-            "x": "NEW YORK (AP) — 온라인 안전·소비자 권익 단체 연합이 목요일 세계 선도 인공지능 기업 다섯 곳을 상대로 추가 개발을 멈춰 달라는 소송을 냈다. 거대 기술 기업들이 자사 기술의 “파국적” 피해를 막지 못한다는 주장이다."
+            "x": "병원과 진료소에 인공지능(AI)이 빠르게 들어오자 미국 최대 의사 단체가 로비에 나섰다. AI 때문에 환자가 피해를 볼 때를 대비해 새 법적 보호 장치를 마련하라는 요구다."
           },
           {
             "t": "p",
-            "x": "원고들은 샌프란시스코 고등법원에 낸 소장에서 Anthropic, Google, Meta, OpenAI, SpaceXSI가 새 AI 모델을 개발하거나 배포하지 못하게 해 달라고 판사에게 요청했다. AI 시스템이 사이버 공격 같은 유해 행위를 일으킨 기록과, 기업들이 스스로 기술의 위험을 인정한 발언이 근거다."
+            "x": "미국의사협회(American Medical Association)는 이번 주 연방·주 차원의 입법을 요구했다. 의사가 정해진 방식대로 도구를 썼는데도 AI 제품이 환자에게 해를 끼쳤다면 의사에게 책임을 묻지 말라는 내용이다. 협회는 AI 기업이 적정한 배상책임보험에 들고 제품의 한계와 성능 데이터를 공개하도록 하는 새 법도 추진한다."
           },
           {
             "t": "p",
-            "x": "Irreplaceable Education Fund, Public Citizen, Heat Initiative, Alliance for Secure AI는 소장에 “어떤 산업도 안전하지 않은 제품, 하물며 우리 모두를 죽일 수도 있는 제품의 개발을 불가피한 일로 여기도록 허용되지 않는다”고 적었다."
+            "x": "AMA 정책은 특정 AI 제품을 반드시 쓰게 한 상황에서 해로운 오류가 나면 병원, 의료 시스템, 보험사, 헬스테크 업체가 책임져야 한다고 못 박았다. 환자가 피해를 봤을 때 의사에게 의료과실 소송을 걸 게 아니라 AI 제조사와 공급업체, 경우에 따라서는 AI 시스템 사용을 의무화한 의료 시스템이 책임을 지라는 게 AMA의 주장이다."
           },
           {
             "t": "p",
-            "x": "원고는 모두 비영리단체다. 이들은 기업들이 공중보건을 위협하고 컴퓨터 시스템 같은 재산의 사용을 방해해 캘리포니아 불공정경쟁법을 어겼다고 주장한다. 도널드 트럼프 대통령은 그동안 기업들에 안전 문제를 스스로 관리하라고 독려하면서도 추가 안전장치에는 열린 태도를 보였다. 의회는 아직 이 기술을 규제하는 데까지 나아가지 않았다."
-          },
-          {
-            "t": "p",
-            "x": "소송 대상 기업들은 목요일 논평 요청에 바로 답하지 않았다."
+            "x": "UC Davis 교수 마틴 힐버트(Martin Hilbert)는 Axios에 \"사안마다 책임 주체가 다르며, 최종 사용자에게만 책임을 물을 수는 없다\"고 말했다. FDA는 AI-enabled 의료기기를 규제할 새 체계가 필요한지 검토 중이며 AdvaMed는 지금 방식을 유지하라고 당국에 촉구하고 있다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Advocacy groups sue five AI\nlabs to halt new AI models",
-          "body": "Online safety and consumer groups asked a California court to stop five AI firms from developing new AI models.",
-          "mini_headline": "Groups sue to halt new AI models",
+          "headline": "Doctors seek a liability shield\nfor AI-caused patient harm",
+          "body": "The AMA urged laws to shield doctors when AI harms patients and to make AI vendors carry liability insurance.",
+          "mini_headline": "AMA seeks AI liability shield",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://dims.apnews.com/dims4/default/4e44ba9/2147483647/strip/true/crop/4662x3108+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F30%2F0e%2Fef26d3feddcef8b768b205a106a9%2F4fd0f97a72934b7eb0c5305851250919"
+                "src": "https://images.axios.com/UGhAq1_gsT5ZluDlIyxxjbXh0YQ=/0x0:1920x1080/1920x1080/2026/11/12/1794506966317.jpeg"
               },
               {
                 "t": "p",
-                "x": "NEW YORK (AP) — A coalition of online safety and consumer advocacy groups on Thursday sued five of the world’s leading artificial intelligence companies to halt further development, alleging the tech giants can’t prevent their own creations from causing “catastrophic” harm."
+                "x": "The rapid deployment of artificial intelligence in hospitals and clinics is leading the nation's biggest physicians group to lobby for new legal protections if AI harms patients."
               },
               {
                 "t": "p",
-                "x": "The lawsuit in San Francisco Superior Court asks a judge to stop Anthropic, Google, Meta, OpenAI and SpaceXSI from developing or deploying new AI models, pointing to documented examples of cyberattacks and other harmful actions by AI systems and the companies’ own acknowledgments of the technology’s risks."
+                "x": "The American Medical Association this week called for federal and state legislation to protect physicians from liability when AI products injure patients, despite physicians using the tools as intended. The group also is pressing for new laws mandating that AI companies carry adequate liability insurance and disclose product limitations and performance data."
               },
               {
                 "t": "p",
-                "x": "“No other industry is allowed to treat its own development of unsafe products — much less ones that could kill us all — as inevitable,” reads the complaint from the Irreplaceable Education Fund, Public Citizen, Heat Initiative and the Alliance for Secure AI."
+                "x": "Hospitals, health systems, insurers and health tech vendors should be responsible if the required use of specific AI products results in harmful errors, the AMA policy states. In cases where a patient is harmed, responsibility should fall on AI manufacturers and vendors — and possibly on health systems that require the AI systems' use — instead of through a medical malpractice claim against the physician, the AMA argues."
               },
               {
                 "t": "p",
-                "x": "The plaintiffs, all nonprofits, allege that the companies have violated a California unfair competition law by endangering public health and interfering with the use of property such as computer systems. President Donald Trump has so far encouraged the companies to police themselves on safety, though he has expressed openness to more guardrails, and Congress has stopped short of regulating the technology."
-              },
-              {
-                "t": "p",
-                "x": "The companies named in Thursday’s lawsuit didn’t immediately respond to requests for comment."
+                "x": "\"Different parties are responsible for different cases, and you can't just hold the end user responsible,\" UC Davis professor Martin Hilbert told Axios. The FDA is weighing whether a new framework is needed for regulating AI-enabled medical devices, while AdvaMed is urging the agency to continue using its current approaches."
               }
             ]
           }
         },
         "ko": {
-          "headline": "시민단체, AI 기업\n다섯 곳에 개발 중단 소송",
-          "body": "안전·소비자 단체가 캘리포니아 법원에 AI 기업 다섯 곳의 개발 중단을 청구했다.",
-          "mini_headline": "AI 신모델 개발 중단 소송",
+          "headline": "AI-caused 피해에\n의사들 면책 요구",
+          "body": "AMA가 AI 피해 때 의사 면책과 AI 업체 배상보험 의무화를 요구했다.",
+          "mini_headline": "AMA, AI 책임 면제 요구",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://dims.apnews.com/dims4/default/4e44ba9/2147483647/strip/true/crop/4662x3108+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F30%2F0e%2Fef26d3feddcef8b768b205a106a9%2F4fd0f97a72934b7eb0c5305851250919"
+                "src": "https://images.axios.com/UGhAq1_gsT5ZluDlIyxxjbXh0YQ=/0x0:1920x1080/1920x1080/2026/11/12/1794506966317.jpeg"
               },
               {
                 "t": "p",
-                "x": "NEW YORK (AP) — 온라인 안전·소비자 권익 단체 연합이 목요일 세계 선도 인공지능 기업 다섯 곳을 상대로 추가 개발을 멈춰 달라는 소송을 냈다. 거대 기술 기업들이 자사 기술의 “파국적” 피해를 막지 못한다는 주장이다."
+                "x": "병원과 진료소에 인공지능(AI)이 빠르게 들어오자 미국 최대 의사 단체가 로비에 나섰다. AI 때문에 환자가 피해를 볼 때를 대비해 새 법적 보호 장치를 마련하라는 요구다."
               },
               {
                 "t": "p",
-                "x": "원고들은 샌프란시스코 고등법원에 낸 소장에서 Anthropic, Google, Meta, OpenAI, SpaceXSI가 새 AI 모델을 개발하거나 배포하지 못하게 해 달라고 판사에게 요청했다. AI 시스템이 사이버 공격 같은 유해 행위를 일으킨 기록과, 기업들이 스스로 기술의 위험을 인정한 발언이 근거다."
+                "x": "미국의사협회(American Medical Association)는 이번 주 연방·주 차원의 입법을 요구했다. 의사가 정해진 방식대로 도구를 썼는데도 AI 제품이 환자에게 해를 끼쳤다면 의사에게 책임을 묻지 말라는 내용이다. 협회는 AI 기업이 적정한 배상책임보험에 들고 제품의 한계와 성능 데이터를 공개하도록 하는 새 법도 추진한다."
               },
               {
                 "t": "p",
-                "x": "Irreplaceable Education Fund, Public Citizen, Heat Initiative, Alliance for Secure AI는 소장에 “어떤 산업도 안전하지 않은 제품, 하물며 우리 모두를 죽일 수도 있는 제품의 개발을 불가피한 일로 여기도록 허용되지 않는다”고 적었다."
+                "x": "AMA 정책은 특정 AI 제품을 반드시 쓰게 한 상황에서 해로운 오류가 나면 병원, 의료 시스템, 보험사, 헬스테크 업체가 책임져야 한다고 못 박았다. 환자가 피해를 봤을 때 의사에게 의료과실 소송을 걸 게 아니라 AI 제조사와 공급업체, 경우에 따라서는 AI 시스템 사용을 의무화한 의료 시스템이 책임을 지라는 게 AMA의 주장이다."
               },
               {
                 "t": "p",
-                "x": "원고는 모두 비영리단체다. 이들은 기업들이 공중보건을 위협하고 컴퓨터 시스템 같은 재산의 사용을 방해해 캘리포니아 불공정경쟁법을 어겼다고 주장한다. 도널드 트럼프 대통령은 그동안 기업들에 안전 문제를 스스로 관리하라고 독려하면서도 추가 안전장치에는 열린 태도를 보였다. 의회는 아직 이 기술을 규제하는 데까지 나아가지 않았다."
-              },
-              {
-                "t": "p",
-                "x": "소송 대상 기업들은 목요일 논평 요청에 바로 답하지 않았다."
+                "x": "UC Davis 교수 마틴 힐버트(Martin Hilbert)는 Axios에 \"사안마다 책임 주체가 다르며, 최종 사용자에게만 책임을 물을 수는 없다\"고 말했다. FDA는 AI-enabled 의료기기를 규제할 새 체계가 필요한지 검토 중이며 AdvaMed는 지금 방식을 유지하라고 당국에 촉구하고 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "市民団体がAI五社を提訴\n新モデル開発の差し止め求め",
-          "body": "安全・消費者団体が、AI企業五社の新モデル開発停止をカリフォルニア州の裁判所に求めた。",
-          "mini_headline": "AI新モデル差し止め訴訟",
+          "headline": "AI-caused 被害で\n医師が免責を要求",
+          "body": "AMAは、AIによる患者被害で医師を守り、AI企業に賠償保険を義務付ける法整備を求めた。",
+          "mini_headline": "AMA、AI責任の免除を要求",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://dims.apnews.com/dims4/default/4e44ba9/2147483647/strip/true/crop/4662x3108+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F30%2F0e%2Fef26d3feddcef8b768b205a106a9%2F4fd0f97a72934b7eb0c5305851250919"
+                "src": "https://images.axios.com/UGhAq1_gsT5ZluDlIyxxjbXh0YQ=/0x0:1920x1080/1920x1080/2026/11/12/1794506966317.jpeg"
               },
               {
                 "t": "p",
-                "x": "NEW YORK（AP）— オンライン安全と消費者権利を擁護する団体の連合が木曜日、世界有数の人工知能企業五社を相手取り、さらなる開発の停止を求める訴訟を起こした。巨大テック企業は自らが生み出したものが「壊滅的」な害をもたらすのを防げないと主張している。"
+                "x": "病院や診療所で人工知能(AI)の導入が急速に進むなか、米国最大の医師団体が、AIが患者に害を及ぼした場合に備えた新たな法的保護を求めてロビー活動に乗り出した。"
               },
               {
                 "t": "p",
-                "x": "サンフランシスコ上級裁判所に起こされた訴訟は、Anthropic、Google、Meta、OpenAI、SpaceXSIによる新たなAIモデルの開発・展開を差し止めるよう裁判官に求めている。AIシステムによるサイバー攻撃などの有害行為の記録された事例と、技術のリスクを企業自身が認めてきたことを根拠に挙げた。"
+                "x": "米国医師会(American Medical Association)は今週、医師が想定どおりにツールを使っていたにもかかわらずAI製品が患者に損害を与えた場合に、医師を賠償責任から守る連邦法と州法の制定を求めた。同会はまた、AI企業に十分な賠償責任保険への加入と、製品の限界や性能データの開示を義務付ける新法も求めている。"
               },
               {
                 "t": "p",
-                "x": "「安全でない製品、ましてや私たち全員を死に至らしめうる製品の開発を、避けられないものとして扱うことが許される産業はほかにない」と、Irreplaceable Education Fund、Public Citizen、Heat Initiative、Alliance for Secure AIによる訴状は述べる。"
+                "x": "AMAの方針は、特定のAI製品の使用が義務付けられ、その結果として有害な誤りが生じた場合には、病院、医療システム、保険会社、ヘルステック企業が責任を負うべきだとしている。AMAは、患者が被害を受けた場合、医師に対する医療過誤訴訟ではなく、AIの製造元や販売企業、さらに場合によってはAIシステムの使用を義務付けた医療システムが責任を負うべきだと主張する。"
               },
               {
                 "t": "p",
-                "x": "原告はいずれも非営利団体で、各社が公衆衛生を脅かし、コンピューターシステムなどの財産の使用を妨げることで、カリフォルニア州の不正競争法に違反したと主張している。ドナルド・トランプ大統領はこれまで安全面で企業の自主規制を促してきたが、追加の安全策には前向きな姿勢も示しており、議会は技術の規制には踏み込んでいない。"
-              },
-              {
-                "t": "p",
-                "x": "木曜日の訴訟で名指しされた企業は、コメントの要請にすぐには応じなかった。"
+                "x": "UC Davisのマーティン・ヒルバート(Martin Hilbert)教授はAxiosに対し、「ケースごとに責任を負う当事者は異なり、エンドユーザーだけに責任を負わせることはできない」と語った。FDAはAI-enabled医療機器の規制に新たな枠組みが必要かを検討しており、AdvaMedは同局に現行の手法を継続するよう求めている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "倡导团体起诉五家AI公司\n要求叫停新AI模型开发",
-          "body": "在线安全与消费者团体请求加州法院禁止五家AI公司开发新AI模型。",
-          "mini_headline": "团体起诉要求叫停新AI模型",
+          "headline": "AI-caused 患者伤害\n医生寻求免责保护",
+          "body": "AMA呼吁立法，在AI伤害患者时保护医生，并要求AI供应商购买责任保险。",
+          "mini_headline": "AMA寻求AI责任豁免",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://dims.apnews.com/dims4/default/4e44ba9/2147483647/strip/true/crop/4662x3108+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F30%2F0e%2Fef26d3feddcef8b768b205a106a9%2F4fd0f97a72934b7eb0c5305851250919"
+                "src": "https://images.axios.com/UGhAq1_gsT5ZluDlIyxxjbXh0YQ=/0x0:1920x1080/1920x1080/2026/11/12/1794506966317.jpeg"
               },
               {
                 "t": "p",
-                "x": "NEW YORK（AP）——一个由在线安全与消费者权益倡导团体组成的联盟周四起诉全球五家领先的人工智能公司，要求停止进一步开发，指称这些科技巨头无法阻止自己的产物造成“灾难性”危害。"
+                "x": "人工智能在医院和诊所中迅速部署，促使美国最大的医生团体展开游说，争取在AI伤害患者时获得新的法律保护。"
               },
               {
                 "t": "p",
-                "x": "这起在旧金山高等法院提起的诉讼请求法官禁止Anthropic、Google、Meta、OpenAI和SpaceXSI开发或部署新的AI模型，理由是AI系统发动网络攻击等有害行为的有据可查的案例，以及这些公司自己对该技术风险的承认。"
+                "x": "美国医学会（American Medical Association）本周呼吁联邦和州层面立法，在医生按预期方式使用工具、AI产品却仍伤害患者时，保护医生免于承担责任。该组织还在推动新法，要求AI公司投保足够的责任保险，并披露产品局限和性能数据。"
               },
               {
                 "t": "p",
-                "x": "“没有任何其他行业被允许把开发不安全产品——更不用说可能让我们所有人丧命的产品——视为不可避免，”Irreplaceable Education Fund、Public Citizen、Heat Initiative和Alliance for Secure AI的起诉书写道。"
+                "x": "AMA政策指出，如果强制使用特定AI产品导致有害错误，医院、医疗系统、保险公司和医疗科技供应商应当承担责任。AMA认为，在患者受到伤害的情况下，责任应由AI制造商和供应商承担，也可能由要求使用这些AI系统的医疗系统承担，而不是通过针对医生的医疗事故索赔来追究。"
               },
               {
                 "t": "p",
-                "x": "原告均为非营利组织，指控这些公司危害公共健康、妨碍计算机系统等财产的使用，违反了加州不正当竞争法。唐纳德·特朗普总统迄今一直鼓励这些公司在安全问题上自我监管，但也表示愿意考虑更多防护措施；国会则尚未对该技术进行监管。"
-              },
-              {
-                "t": "p",
-                "x": "周四诉讼中被点名的公司没有立即回应置评请求。"
+                "x": "UC Davis教授Martin Hilbert对Axios表示：“不同情况由不同方负责，不能只追究最终用户的责任。”FDA正在评估是否需要新的框架来监管AI-enabled医疗器械，而AdvaMed则敦促该机构继续沿用现行做法。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Demandan a cinco firmas de AI\npara frenar sus nuevos modelos",
-          "body": "Grupos de seguridad y consumidores pidieron a un tribunal de California frenar nuevos modelos de cinco firmas de AI.",
-          "mini_headline": "Demanda para frenar nuevos modelos de AI",
+          "headline": "Médicos piden un escudo legal\npor daños AI-caused a pacientes",
+          "body": "La AMA pidió leyes que protejan a los médicos si la AI daña a pacientes y que los proveedores de AI tengan seguro.",
+          "mini_headline": "La AMA pide un escudo de responsabilidad por AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://dims.apnews.com/dims4/default/4e44ba9/2147483647/strip/true/crop/4662x3108+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F30%2F0e%2Fef26d3feddcef8b768b205a106a9%2F4fd0f97a72934b7eb0c5305851250919"
+                "src": "https://images.axios.com/UGhAq1_gsT5ZluDlIyxxjbXh0YQ=/0x0:1920x1080/1920x1080/2026/11/12/1794506966317.jpeg"
               },
               {
                 "t": "p",
-                "x": "NEW YORK (AP) — Una coalición de grupos de seguridad en línea y de defensa del consumidor demandó el jueves a cinco de las principales empresas de inteligencia artificial del mundo para detener su desarrollo, alegando que los gigantes tecnológicos no pueden impedir que sus propias creaciones causen daños “catastróficos”."
+                "x": "El rápido despliegue de la inteligencia artificial en hospitales y clínicas está llevando al mayor grupo de médicos del país a presionar por nuevas protecciones legales en caso de que la AI cause daños a los pacientes."
               },
               {
                 "t": "p",
-                "x": "La demanda, presentada ante el Tribunal Superior de San Francisco, pide a un juez que impida a Anthropic, Google, Meta, OpenAI y SpaceXSI desarrollar o desplegar nuevos modelos de AI, y cita ejemplos documentados de ciberataques y otras acciones dañinas de sistemas de AI, así como el reconocimiento de las propias empresas de los riesgos de la tecnología."
+                "x": "La American Medical Association pidió esta semana legislación federal y estatal que proteja a los médicos de responsabilidad cuando los productos de AI lesionen a pacientes, pese a que los médicos usen las herramientas según lo previsto. El grupo también impulsa nuevas leyes que obliguen a las empresas de AI a contar con un seguro de responsabilidad adecuado y a divulgar las limitaciones de sus productos y sus datos de rendimiento."
               },
               {
                 "t": "p",
-                "x": "“A ninguna otra industria se le permite tratar como inevitable el desarrollo de productos inseguros, y mucho menos de productos que podrían matarnos a todos”, dice la demanda del Irreplaceable Education Fund, Public Citizen, Heat Initiative y la Alliance for Secure AI."
+                "x": "Hospitales, sistemas de salud, aseguradoras y proveedores de tecnología sanitaria deberían ser responsables si el uso obligatorio de productos específicos de AI provoca errores dañinos, establece la política de la AMA. Cuando un paciente sufra daños, la responsabilidad debería recaer en los fabricantes y proveedores de AI —y posiblemente en los sistemas de salud que exigen el uso de esos sistemas de AI— en lugar de tramitarse mediante una demanda por negligencia médica contra el médico, sostiene la AMA."
               },
               {
                 "t": "p",
-                "x": "Los demandantes, todas organizaciones sin fines de lucro, alegan que las empresas violaron una ley de competencia desleal de California al poner en peligro la salud pública e interferir en el uso de bienes como los sistemas informáticos. El presidente Donald Trump ha alentado hasta ahora a las empresas a autorregularse en materia de seguridad, aunque se ha mostrado abierto a más salvaguardas, y el Congreso no ha llegado a regular la tecnología."
-              },
-              {
-                "t": "p",
-                "x": "Las empresas nombradas en la demanda del jueves no respondieron de inmediato a las solicitudes de comentarios."
+                "x": "\"Distintas partes son responsables en distintos casos, y no se puede responsabilizar solo al usuario final\", dijo a Axios Martin Hilbert, profesor de UC Davis. La FDA evalúa si hace falta un nuevo marco para regular los dispositivos médicos AI-enabled, mientras AdvaMed insta a la agencia a seguir aplicando sus enfoques actuales."
               }
             ]
           }
@@ -217,137 +193,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "시민단체, AI 기업\n다섯 곳에 개발 중단 소송",
-          "body": "안전·소비자 단체가 캘리포니아 법원에 AI 기업 다섯 곳의 개발 중단을 청구했다.",
-          "mini_headline": "AI 신모델 개발 중단 소송",
+          "headline": "AI-caused 피해에\n의사들 면책 요구",
+          "body": "AMA는 AI 피해 시 의사 면책과 AI 업체 배상보험 의무화를 촉구했다.",
+          "mini_headline": "AMA, AI 책임 면제 요구",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://dims.apnews.com/dims4/default/4e44ba9/2147483647/strip/true/crop/4662x3108+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F30%2F0e%2Fef26d3feddcef8b768b205a106a9%2F4fd0f97a72934b7eb0c5305851250919"
+                "src": "https://images.axios.com/UGhAq1_gsT5ZluDlIyxxjbXh0YQ=/0x0:1920x1080/1920x1080/2026/11/12/1794506966317.jpeg"
               },
               {
                 "t": "p",
-                "x": "NEW YORK (AP) — 온라인 안전·소비자 권익 단체 연합이 목요일 세계 선도 인공지능 기업 다섯 곳을 상대로 추가 개발을 멈춰 달라는 소송을 냈다. 이들 거대 기술 기업이 자신들이 만든 기술이 “파국적” 피해를 일으키는 것을 막지 못한다는 주장이다."
+                "x": "병원과 진료소에 인공지능(AI)이 빠르게 도입되면서, 미국 최대 의사 단체가 AI로 환자가 피해를 볼 경우에 대비한 새로운 법적 보호 장치를 요구하는 로비에 나섰다."
               },
               {
                 "t": "p",
-                "x": "샌프란시스코 고등법원에 낸 소장은 Anthropic, Google, Meta, OpenAI, SpaceXSI가 새 AI 모델을 개발하거나 배포하지 못하도록 막아 달라고 판사에게 요청한다. 원고들은 AI 시스템이 일으킨 사이버 공격 등 유해 행위의 기록된 사례와, 기술의 위험을 인정한 기업들 자신의 발언을 근거로 들었다."
+                "x": "미국의사협회(American Medical Association)는 이번 주, 의사가 의도된 방식대로 도구를 썼는데도 AI 제품이 환자에게 해를 끼친 경우 의사를 책임에서 보호하는 연방·주 차원의 입법을 요구했다. 협회는 또 AI 기업이 적정한 배상책임보험에 가입하고 제품의 한계와 성능 데이터를 공개하도록 의무화하는 새 법도 추진하고 있다."
               },
               {
                 "t": "p",
-                "x": "“어떤 산업도 안전하지 않은 제품, 하물며 우리 모두를 죽일 수도 있는 제품의 개발을 불가피한 일로 여기도록 허용되지 않는다”고 Irreplaceable Education Fund, Public Citizen, Heat Initiative, Alliance for Secure AI가 낸 소장은 적었다."
+                "x": "AMA 정책은 특정 AI 제품 사용이 의무화된 상황에서 해로운 오류가 생기면 병원, 의료 시스템, 보험사, 헬스테크 업체가 책임을 져야 한다고 명시한다. AMA는 환자가 피해를 본 경우 의사를 상대로 한 의료과실 소송이 아니라 AI 제조사와 공급업체, 그리고 경우에 따라 AI 시스템 사용을 의무화한 의료 시스템이 책임을 져야 한다고 주장한다."
               },
               {
                 "t": "p",
-                "x": "원고는 모두 비영리단체로, 이들 기업이 공중보건을 위협하고 컴퓨터 시스템 같은 재산의 사용을 방해해 캘리포니아 불공정경쟁법을 어겼다고 주장한다. 도널드 트럼프 대통령은 지금까지 기업들이 안전 문제를 스스로 관리하도록 독려해 왔지만 추가 안전장치에는 열린 태도를 보였고, 의회는 이 기술을 규제하는 데까지는 나아가지 않았다."
-              },
-              {
-                "t": "p",
-                "x": "목요일 소송에 이름이 오른 기업들은 논평 요청에 즉시 답하지 않았다."
+                "x": "UC Davis 교수 마틴 힐버트(Martin Hilbert)는 Axios에 \"사안마다 책임 주체가 다르며, 최종 사용자에게만 책임을 물을 수는 없다\"고 말했다. FDA는 AI-enabled 의료기기 규제에 새로운 체계가 필요한지 검토하고 있으며, AdvaMed는 당국이 현행 방식을 유지해야 한다고 촉구하고 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "市民団体がAI五社を提訴\n新モデル開発の差し止め求め",
-          "body": "安全・消費者団体が、AI企業五社の新モデル開発停止をカリフォルニア州の裁判所に求めた。",
-          "mini_headline": "AI新モデル差し止め訴訟",
+          "headline": "AI-caused 被害で\n医師が免責を要求",
+          "body": "AMAは、AIによる患者被害で医師を守り、AI企業に賠償保険を義務付ける法整備を求めた。",
+          "mini_headline": "AMA、AI責任の免除を要求",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://dims.apnews.com/dims4/default/4e44ba9/2147483647/strip/true/crop/4662x3108+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F30%2F0e%2Fef26d3feddcef8b768b205a106a9%2F4fd0f97a72934b7eb0c5305851250919"
+                "src": "https://images.axios.com/UGhAq1_gsT5ZluDlIyxxjbXh0YQ=/0x0:1920x1080/1920x1080/2026/11/12/1794506966317.jpeg"
               },
               {
                 "t": "p",
-                "x": "NEW YORK（AP）— オンライン安全と消費者権利を擁護する団体の連合が木曜日、世界有数の人工知能企業五社を相手取り、さらなる開発の停止を求める訴訟を起こした。巨大テック企業は自らが生み出したものが「壊滅的」な害をもたらすのを防げないと主張している。"
+                "x": "病院や診療所で人工知能(AI)の導入が急速に進むなか、米国最大の医師団体が、AIが患者に害を及ぼした場合に備えた新たな法的保護を求めてロビー活動に乗り出した。"
               },
               {
                 "t": "p",
-                "x": "サンフランシスコ上級裁判所に起こされた訴訟は、Anthropic、Google、Meta、OpenAI、SpaceXSIによる新たなAIモデルの開発・展開を差し止めるよう裁判官に求めている。AIシステムによるサイバー攻撃などの有害行為の記録された事例と、技術のリスクを企業自身が認めてきたことを根拠に挙げた。"
+                "x": "米国医師会(American Medical Association)は今週、医師が想定どおりにツールを使っていたにもかかわらずAI製品が患者に損害を与えた場合に、医師を賠償責任から守る連邦法と州法の制定を求めた。同会はまた、AI企業に十分な賠償責任保険への加入と、製品の限界や性能データの開示を義務付ける新法も求めている。"
               },
               {
                 "t": "p",
-                "x": "「安全でない製品、ましてや私たち全員を死に至らしめうる製品の開発を、避けられないものとして扱うことが許される産業はほかにない」と、Irreplaceable Education Fund、Public Citizen、Heat Initiative、Alliance for Secure AIによる訴状は述べる。"
+                "x": "AMAの方針は、特定のAI製品の使用が義務付けられ、その結果として有害な誤りが生じた場合には、病院、医療システム、保険会社、ヘルステック企業が責任を負うべきだとしている。AMAは、患者が被害を受けた場合、医師に対する医療過誤訴訟ではなく、AIの製造元や販売企業、さらに場合によってはAIシステムの使用を義務付けた医療システムが責任を負うべきだと主張する。"
               },
               {
                 "t": "p",
-                "x": "原告はいずれも非営利団体で、各社が公衆衛生を脅かし、コンピューターシステムなどの財産の使用を妨げることで、カリフォルニア州の不正競争法に違反したと主張している。ドナルド・トランプ大統領はこれまで安全面で企業の自主規制を促してきたが、追加の安全策には前向きな姿勢も示しており、議会は技術の規制には踏み込んでいない。"
-              },
-              {
-                "t": "p",
-                "x": "木曜日の訴訟で名指しされた企業は、コメントの要請にすぐには応じなかった。"
+                "x": "UC Davisのマーティン・ヒルバート(Martin Hilbert)教授はAxiosに対し、「ケースごとに責任を負う当事者は異なり、エンドユーザーだけに責任を負わせることはできない」と語った。FDAはAI-enabled医療機器の規制に新たな枠組みが必要かを検討しており、AdvaMedは同局に現行の手法を継続するよう求めている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "倡导团体起诉五家AI公司\n要求叫停新AI模型开发",
-          "body": "在线安全与消费者团体请求加州法院禁止五家AI公司开发新AI模型。",
-          "mini_headline": "团体起诉要求叫停新AI模型",
+          "headline": "AI-caused 患者伤害\n医生寻求免责保护",
+          "body": "AMA呼吁立法，在AI伤害患者时保护医生，并要求AI供应商购买责任保险。",
+          "mini_headline": "AMA寻求AI责任豁免",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://dims.apnews.com/dims4/default/4e44ba9/2147483647/strip/true/crop/4662x3108+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F30%2F0e%2Fef26d3feddcef8b768b205a106a9%2F4fd0f97a72934b7eb0c5305851250919"
+                "src": "https://images.axios.com/UGhAq1_gsT5ZluDlIyxxjbXh0YQ=/0x0:1920x1080/1920x1080/2026/11/12/1794506966317.jpeg"
               },
               {
                 "t": "p",
-                "x": "NEW YORK（AP）——一个由在线安全与消费者权益倡导团体组成的联盟周四起诉全球五家领先的人工智能公司，要求停止进一步开发，指称这些科技巨头无法阻止自己的产物造成“灾难性”危害。"
+                "x": "人工智能在医院和诊所中迅速部署，促使美国最大的医生团体展开游说，争取在AI伤害患者时获得新的法律保护。"
               },
               {
                 "t": "p",
-                "x": "这起在旧金山高等法院提起的诉讼请求法官禁止Anthropic、Google、Meta、OpenAI和SpaceXSI开发或部署新的AI模型，理由是AI系统发动网络攻击等有害行为的有据可查的案例，以及这些公司自己对该技术风险的承认。"
+                "x": "美国医学会（American Medical Association）本周呼吁联邦和州层面立法，在医生按预期方式使用工具、AI产品却仍伤害患者时，保护医生免于承担责任。该组织还在推动新法，要求AI公司投保足够的责任保险，并披露产品局限和性能数据。"
               },
               {
                 "t": "p",
-                "x": "“没有任何其他行业被允许把开发不安全产品——更不用说可能让我们所有人丧命的产品——视为不可避免，”Irreplaceable Education Fund、Public Citizen、Heat Initiative和Alliance for Secure AI的起诉书写道。"
+                "x": "AMA政策指出，如果强制使用特定AI产品导致有害错误，医院、医疗系统、保险公司和医疗科技供应商应当承担责任。AMA认为，在患者受到伤害的情况下，责任应由AI制造商和供应商承担，也可能由要求使用这些AI系统的医疗系统承担，而不是通过针对医生的医疗事故索赔来追究。"
               },
               {
                 "t": "p",
-                "x": "原告均为非营利组织，指控这些公司危害公共健康、妨碍计算机系统等财产的使用，违反了加州不正当竞争法。唐纳德·特朗普总统迄今一直鼓励这些公司在安全问题上自我监管，但也表示愿意考虑更多防护措施；国会则尚未对该技术进行监管。"
-              },
-              {
-                "t": "p",
-                "x": "周四诉讼中被点名的公司没有立即回应置评请求。"
+                "x": "UC Davis教授Martin Hilbert对Axios表示：“不同情况由不同方负责，不能只追究最终用户的责任。”FDA正在评估是否需要新的框架来监管AI-enabled医疗器械，而AdvaMed则敦促该机构继续沿用现行做法。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Demandan a cinco firmas de AI\npara frenar sus nuevos modelos",
-          "body": "Grupos de seguridad y consumidores pidieron a un tribunal de California frenar nuevos modelos de cinco firmas de AI.",
-          "mini_headline": "Demanda para frenar nuevos modelos de AI",
+          "headline": "Médicos piden un escudo legal\npor daños AI-caused a pacientes",
+          "body": "La AMA pidió leyes que protejan a los médicos si la AI daña a pacientes y que los proveedores de AI tengan seguro.",
+          "mini_headline": "La AMA pide un escudo de responsabilidad por AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://dims.apnews.com/dims4/default/4e44ba9/2147483647/strip/true/crop/4662x3108+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F30%2F0e%2Fef26d3feddcef8b768b205a106a9%2F4fd0f97a72934b7eb0c5305851250919"
+                "src": "https://images.axios.com/UGhAq1_gsT5ZluDlIyxxjbXh0YQ=/0x0:1920x1080/1920x1080/2026/11/12/1794506966317.jpeg"
               },
               {
                 "t": "p",
-                "x": "NEW YORK (AP) — Una coalición de grupos de seguridad en línea y de defensa del consumidor demandó el jueves a cinco de las principales empresas de inteligencia artificial del mundo para detener su desarrollo, alegando que los gigantes tecnológicos no pueden impedir que sus propias creaciones causen daños “catastróficos”."
+                "x": "El rápido despliegue de la inteligencia artificial en hospitales y clínicas está llevando al mayor grupo de médicos del país a presionar por nuevas protecciones legales en caso de que la AI cause daños a los pacientes."
               },
               {
                 "t": "p",
-                "x": "La demanda, presentada ante el Tribunal Superior de San Francisco, pide a un juez que impida a Anthropic, Google, Meta, OpenAI y SpaceXSI desarrollar o desplegar nuevos modelos de AI, y cita ejemplos documentados de ciberataques y otras acciones dañinas de sistemas de AI, así como el reconocimiento de las propias empresas de los riesgos de la tecnología."
+                "x": "La American Medical Association pidió esta semana legislación federal y estatal que proteja a los médicos de responsabilidad cuando los productos de AI lesionen a pacientes, pese a que los médicos usen las herramientas según lo previsto. El grupo también impulsa nuevas leyes que obliguen a las empresas de AI a contar con un seguro de responsabilidad adecuado y a divulgar las limitaciones de sus productos y sus datos de rendimiento."
               },
               {
                 "t": "p",
-                "x": "“A ninguna otra industria se le permite tratar como inevitable el desarrollo de productos inseguros, y mucho menos de productos que podrían matarnos a todos”, dice la demanda del Irreplaceable Education Fund, Public Citizen, Heat Initiative y la Alliance for Secure AI."
+                "x": "Hospitales, sistemas de salud, aseguradoras y proveedores de tecnología sanitaria deberían ser responsables si el uso obligatorio de productos específicos de AI provoca errores dañinos, establece la política de la AMA. Cuando un paciente sufra daños, la responsabilidad debería recaer en los fabricantes y proveedores de AI —y posiblemente en los sistemas de salud que exigen el uso de esos sistemas de AI— en lugar de tramitarse mediante una demanda por negligencia médica contra el médico, sostiene la AMA."
               },
               {
                 "t": "p",
-                "x": "Los demandantes, todas organizaciones sin fines de lucro, alegan que las empresas violaron una ley de competencia desleal de California al poner en peligro la salud pública e interferir en el uso de bienes como los sistemas informáticos. El presidente Donald Trump ha alentado hasta ahora a las empresas a autorregularse en materia de seguridad, aunque se ha mostrado abierto a más salvaguardas, y el Congreso no ha llegado a regular la tecnología."
-              },
-              {
-                "t": "p",
-                "x": "Las empresas nombradas en la demanda del jueves no respondieron de inmediato a las solicitudes de comentarios."
+                "x": "\"Distintas partes son responsables en distintos casos, y no se puede responsabilizar solo al usuario final\", dijo a Axios Martin Hilbert, profesor de UC Davis. La FDA evalúa si hace falta un nuevo marco para regular los dispositivos médicos AI-enabled, mientras AdvaMed insta a la agencia a seguir aplicando sus enfoques actuales."
               }
             ]
           }
@@ -355,165 +315,267 @@
       }
     },
     {
-      "id": "uk-norway-ai-intent-statement",
+      "id": "politics-openai-ontario-appeal",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "UK·노르웨이, AI 협력\n공동 의향성명 서명",
-      "body": "UK와 노르웨이가 컴퓨팅·국방·보안·거버넌스 분야 AI 협력 의향서에 서명했다.",
-      "mini_headline": "UK–노르웨이 AI 협약",
+      "headline": "캐나다 언론사의\nOpenAI 소송 진행",
+      "body": "캐나다 항소법원이 OpenAI 항소를 기각해 ChatGPT 저작권 소송이 계속된다.",
+      "mini_headline": "OpenAI 저작권 소송, 캐나다서 진행",
       "tool": "Politics",
-      "source": "GOV.UK",
-      "url": "https://www.gov.uk/government/news/united-kingdom-norway-joint-statement-of-intent-on-artificial-intelligence",
+      "source": "Toronto Star (The Canadian Press)",
+      "url": "https://www.thestar.com/business/court-allows-news-publishers-copyright-lawsuit-against-openai-to-go-ahead/article_5e78ecd0-e974-554c-a739-662e0f68b658.html",
       "accent": "#0070f3",
       "motif": "cube",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
-            "t": "p",
-            "x": "카니시카 나라얀(Kanishka Narayan) 영국 인공지능 담당 장관과 토르게이르 미카엘센(Torgeir Micaelsen) 노르웨이 디지털화·공공거버넌스 장관이 11월 12일 Atlantic Futures Forum(AFF)을 계기로 오슬로(Oslo)에서 만나 AI 공동 의향성명에 서명했다."
+            "t": "img",
+            "src": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/51/f51e80ab-0b99-5f6b-8c7b-437afbea9a48/6af77f04d5d17.image.jpg",
+            "cap": "Sept. 29, 2026(화) 샌프란시스코에서 열린 OpenAI DevDay 2026 콘퍼런스에 참석자들이 모여 있다. (AP Photo/Jeff Chiu)"
           },
           {
             "t": "p",
-            "x": "두 장관은 노르웨이-영국 전략적 동반자 관계(Norwegian-UK Strategic Partnership)를 바탕으로 인공지능을 새 양자 협력 분야로 정하고 협력을 강화하겠다고 밝혔다. 함께 협력을 모색할 분야는 다음과 같다."
+            "x": "OTTAWA - 온타리오주 항소법원(Ontario Court of Appeal)이 OpenAI의 항소를 기각했다. 캐나다 언론사들이 이 회사를 상대로 낸 저작권 소송은 온타리오주에서 그대로 진행된다."
           },
           {
             "t": "p",
-            "x": "반도체·새로운 AI 하드웨어를 아우르는 컴퓨팅 인프라와 하드웨어 통합, AI 기반(AI-enabled) 국방 역량을 위한 영국 Taskforce RAID와 노르웨이 국방 데이터·AI 센터의 협력 강화, UK AISI와 AI Norway의 AI 보안·테스트·평가 모범 사례 공유, 더 상호보완적이고 상호운용 가능한 국제 AI 거버넌스, AI 연구·혁신 정책, AI와 양자 기술·생명공학·로봇공학의 융합이다."
+            "x": "The Canadian Press, Torstar, The Globe and Mail, Postmedia, CBC/Radio-Canada 등이 함께한 캐나다 언론사 연합이 한 해 전 이 소송을 냈다."
           },
           {
             "t": "p",
-            "x": "실무 조율은 영국 기업·혁신·과학·통상부와 노르웨이 디지털화·공공거버넌스부가 맡는다. 성명은 참여자의 의향을 담은 문서로, 국제법이나 국내법상 권리·의무를 만들지 않는다."
+            "x": "언론사들은 OpenAI가 자신들의 뉴스 콘텐츠를 ChatGPT 학습에 써 저작권을 침해했으며 허락도 보상도 없이 그 콘텐츠로 이익을 얻는다고 주장한다."
+          },
+          {
+            "t": "p",
+            "x": "ChatGPT 개발사 OpenAI는 관할권에 이의를 제기하며 U.S. 법정에서 다룰 사건이라고 맞섰다. 그러나 온타리오주 고등법원(Ontario Superior Court of Justice)은 이 사건을 심리할 관할권이 자신에게 있다고 봤다."
+          },
+          {
+            "t": "p",
+            "x": "OpenAI가 이 결정에 불복해 항소했지만 법원은 오늘 이를 기각했다."
+          },
+          {
+            "t": "p",
+            "x": "저작권이 있는 콘텐츠를 생성형 AI 시스템 학습에 쓰는 관행을 다룬 사건은 캐나다에서 이번이 처음이다."
+          },
+          {
+            "t": "p",
+            "x": "이 기사는 The Canadian Press가 Nov. 13, 2026에 처음 보도했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "UK and Norway sign joint\nstatement on AI cooperation",
-          "body": "The UK and Norway signed a statement of intent to deepen AI cooperation on compute, defence, security and governance.",
-          "mini_headline": "UK–Norway AI pact",
+          "headline": "Canadian news publishers' suit\nagainst OpenAI can proceed",
+          "body": "An Ontario appeals court dismissed OpenAI's appeal, letting publishers' ChatGPT copyright suit proceed in Canada.",
+          "mini_headline": "OpenAI copyright suit stays in Canada",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "Kanishka Narayan, UK Minister for Artificial Intelligence, and Torgeir Micaelsen, Norwegian Minister for Digitalisation and Public Governance, met on the margins of the Atlantic Futures Forum (AFF) on 12th November and signed a joint statement of intent on AI in Oslo."
+                "t": "img",
+                "src": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/51/f51e80ab-0b99-5f6b-8c7b-437afbea9a48/6af77f04d5d17.image.jpg",
+                "cap": "Attendees gather at the OpenAI DevDay 2026 conference, Tuesday, Sept. 29, 2026, in San Francisco. (AP Photo/Jeff Chiu)"
               },
               {
                 "t": "p",
-                "x": "The ministers expressed their intention to strengthen cooperation on artificial intelligence as a new area of bilateral cooperation building on the Norwegian-UK Strategic Partnership. They committed to explore collaboration in areas including:"
+                "x": "OTTAWA - The Ontario Court of Appeal is allowing a copyright lawsuit filed by Canadian news publishers against OpenAI to proceed in that province after dismissing an appeal by the company."
               },
               {
                 "t": "p",
-                "x": "Compute infrastructure and hardware integration, including semiconductors and novel AI hardware; closer cooperation between the UK’s Taskforce RAID and Norway’s Defence Centre for Data and AI on AI-enabled defence capabilities; sharing best practices on AI security, testing and evaluation between UK AISI and AI Norway; more complementary and interoperable international AI governance; AI research and innovation policy; and the convergence of AI with quantum technologies, biotechnology and robotics."
+                "x": "A coalition of Canadian news outlets which includes The Canadian Press, Torstar, The Globe and Mail, Postmedia and CBC/Radio-Canada launched the lawsuit a year ago."
               },
               {
                 "t": "p",
-                "x": "The UK Department for Business, Innovation, Science and Trade and the Norwegian Ministry of Digitalisation and Public Governance will coordinate the work. The Statement expresses the intentions of the Participants and does not create rights or obligations under international or domestic law."
+                "x": "They argue that OpenAI is using their news content to train ChatGPT, breaching copyright and profiting from the use of that content without permission or compensation."
+              },
+              {
+                "t": "p",
+                "x": "OpenAI, the company behind ChatGPT, put forward a jurisdictional challenge and argued the case should be heard in a U.S. courtroom instead, but the Ontario Superior Court of Justice concluded the court does have jurisdiction to hear the case."
+              },
+              {
+                "t": "p",
+                "x": "OpenAI appealed the decision and the court dismissed that appeal today."
+              },
+              {
+                "t": "p",
+                "x": "The lawsuit is the first Canadian case to address the practice of using copyrighted content to train generative AI systems."
+              },
+              {
+                "t": "p",
+                "x": "This report by The Canadian Press was first published Nov. 13, 2026."
               }
             ]
           }
         },
         "ko": {
-          "headline": "UK·노르웨이, AI 협력\n공동 의향성명 서명",
-          "body": "UK와 노르웨이가 컴퓨팅·국방·보안·거버넌스 분야 AI 협력 의향서에 서명했다.",
-          "mini_headline": "UK–노르웨이 AI 협약",
+          "headline": "캐나다 언론사의\nOpenAI 소송 진행",
+          "body": "캐나다 항소법원이 OpenAI 항소를 기각해 ChatGPT 저작권 소송이 계속된다.",
+          "mini_headline": "OpenAI 저작권 소송, 캐나다서 진행",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "카니시카 나라얀(Kanishka Narayan) 영국 인공지능 담당 장관과 토르게이르 미카엘센(Torgeir Micaelsen) 노르웨이 디지털화·공공거버넌스 장관이 11월 12일 Atlantic Futures Forum(AFF)을 계기로 오슬로(Oslo)에서 만나 AI 공동 의향성명에 서명했다."
+                "t": "img",
+                "src": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/51/f51e80ab-0b99-5f6b-8c7b-437afbea9a48/6af77f04d5d17.image.jpg",
+                "cap": "Sept. 29, 2026(화) 샌프란시스코에서 열린 OpenAI DevDay 2026 콘퍼런스에 참석자들이 모여 있다. (AP Photo/Jeff Chiu)"
               },
               {
                 "t": "p",
-                "x": "두 장관은 노르웨이-영국 전략적 동반자 관계(Norwegian-UK Strategic Partnership)를 바탕으로 인공지능을 새 양자 협력 분야로 정하고 협력을 강화하겠다고 밝혔다. 함께 협력을 모색할 분야는 다음과 같다."
+                "x": "OTTAWA - 온타리오주 항소법원(Ontario Court of Appeal)이 OpenAI의 항소를 기각했다. 캐나다 언론사들이 이 회사를 상대로 낸 저작권 소송은 온타리오주에서 그대로 진행된다."
               },
               {
                 "t": "p",
-                "x": "반도체·새로운 AI 하드웨어를 아우르는 컴퓨팅 인프라와 하드웨어 통합, AI 기반(AI-enabled) 국방 역량을 위한 영국 Taskforce RAID와 노르웨이 국방 데이터·AI 센터의 협력 강화, UK AISI와 AI Norway의 AI 보안·테스트·평가 모범 사례 공유, 더 상호보완적이고 상호운용 가능한 국제 AI 거버넌스, AI 연구·혁신 정책, AI와 양자 기술·생명공학·로봇공학의 융합이다."
+                "x": "The Canadian Press, Torstar, The Globe and Mail, Postmedia, CBC/Radio-Canada 등이 함께한 캐나다 언론사 연합이 한 해 전 이 소송을 냈다."
               },
               {
                 "t": "p",
-                "x": "실무 조율은 영국 기업·혁신·과학·통상부와 노르웨이 디지털화·공공거버넌스부가 맡는다. 성명은 참여자의 의향을 담은 문서로, 국제법이나 국내법상 권리·의무를 만들지 않는다."
+                "x": "언론사들은 OpenAI가 자신들의 뉴스 콘텐츠를 ChatGPT 학습에 써 저작권을 침해했으며 허락도 보상도 없이 그 콘텐츠로 이익을 얻는다고 주장한다."
+              },
+              {
+                "t": "p",
+                "x": "ChatGPT 개발사 OpenAI는 관할권에 이의를 제기하며 U.S. 법정에서 다룰 사건이라고 맞섰다. 그러나 온타리오주 고등법원(Ontario Superior Court of Justice)은 이 사건을 심리할 관할권이 자신에게 있다고 봤다."
+              },
+              {
+                "t": "p",
+                "x": "OpenAI가 이 결정에 불복해 항소했지만 법원은 오늘 이를 기각했다."
+              },
+              {
+                "t": "p",
+                "x": "저작권이 있는 콘텐츠를 생성형 AI 시스템 학습에 쓰는 관행을 다룬 사건은 캐나다에서 이번이 처음이다."
+              },
+              {
+                "t": "p",
+                "x": "이 기사는 The Canadian Press가 Nov. 13, 2026에 처음 보도했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "UKとノルウェー\nAI協力で共同声明に署名",
-          "body": "UKとノルウェーは計算・防衛・安全保障・統治でのAI協力深化を表明する文書に署名した。",
-          "mini_headline": "UK・ノルウェーAI協定",
+          "headline": "カナダ報道機関の\nOpenAI提訴が続行",
+          "body": "オンタリオ州控訴裁がOpenAIの控訴を棄却し、ChatGPT著作権訴訟がカナダで続く。",
+          "mini_headline": "OpenAI著作権訴訟、カナダで継続",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "英国のカニシカ・ナラヤン（Kanishka Narayan）人工知能担当相と、ノルウェーのトルゲイル・ミカエルセン（Torgeir Micaelsen）デジタル化・公共ガバナンス相は11月12日、Atlantic Futures Forum（AFF）の場で会談し、オスロ（Oslo）でAIに関する共同意図表明に署名した。"
+                "t": "img",
+                "src": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/51/f51e80ab-0b99-5f6b-8c7b-437afbea9a48/6af77f04d5d17.image.jpg",
+                "cap": "Sept. 29, 2026(火)、サンフランシスコで開かれたOpenAI DevDay 2026カンファレンスに集まった参加者たち。(AP Photo/Jeff Chiu)"
               },
               {
                 "t": "p",
-                "x": "両大臣は、ノルウェー・英国戦略的パートナーシップ（Norwegian-UK Strategic Partnership）を基盤に、人工知能を二国間協力の新たな分野として協力を強化する意向を表明した。両者は次のような分野での協力を検討することを約束した。"
+                "x": "OTTAWA - オンタリオ州控訴裁判所(Ontario Court of Appeal)はOpenAIの控訴を棄却し、カナダの報道機関が同社を相手取って起こした著作権訴訟を同州で進めることを認めた。"
               },
               {
                 "t": "p",
-                "x": "半導体や新しいAIハードウェアを含む計算インフラとハードウェアの統合、AIを活用した（AI-enabled）防衛能力に関する英国のTaskforce RAIDとノルウェー国防データ・AIセンターの連携強化、UK AISIとAI Norwayの間でのAIセキュリティ・試験・評価のベストプラクティス共有、より補完的で相互運用可能な国際AIガバナンス、AI研究・イノベーション政策、そしてAIと量子技術、バイオテクノロジー、ロボティクスの融合である。"
+                "x": "The Canadian Press、Torstar、The Globe and Mail、Postmedia、CBC/Radio-Canadaなどからなるカナダの報道機関の連合が、一年前にこの訴訟を起こした。"
               },
               {
                 "t": "p",
-                "x": "英国ビジネス・イノベーション・科学・貿易省とノルウェー・デジタル化・公共ガバナンス省が作業を調整する。本声明は参加者の意図を示すものであり、国際法または国内法上の権利・義務を生じさせるものではない。"
+                "x": "原告側は、OpenAIが自社のニュースコンテンツをChatGPTの学習に使って著作権を侵害し、許可も対価もなくそのコンテンツから利益を得ていると主張している。"
+              },
+              {
+                "t": "p",
+                "x": "ChatGPTを手がけるOpenAIは管轄権に異議を唱え、本件はU.S.の法廷で審理されるべきだと主張したが、オンタリオ州上級裁判所(Ontario Superior Court of Justice)は同裁判所に本件の審理管轄権があると結論づけた。"
+              },
+              {
+                "t": "p",
+                "x": "OpenAIはこの判断を不服として控訴したが、裁判所は本日その控訴を棄却した。"
+              },
+              {
+                "t": "p",
+                "x": "本訴訟は、著作権で保護されたコンテンツを生成AIシステムの学習に使う慣行を扱うカナダ初の事例である。"
+              },
+              {
+                "t": "p",
+                "x": "この記事はThe Canadian PressがNov. 13, 2026に最初に配信した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "UK与挪威签署\nAI合作联合声明",
-          "body": "UK与挪威签署意向声明，将深化在算力、国防、安全和治理领域的AI合作。",
-          "mini_headline": "UK–挪威AI协议",
+          "headline": "加拿大新闻机构\n诉OpenAI案可继续",
+          "body": "安大略上诉法院驳回OpenAI上诉，出版商的ChatGPT版权诉讼得以在加拿大继续。",
+          "mini_headline": "OpenAI版权诉讼留在加拿大审理",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "英国人工智能大臣卡尼什卡·纳拉扬（Kanishka Narayan）与挪威数字化和公共治理大臣托尔盖尔·米凯尔森（Torgeir Micaelsen）于11月12日在Atlantic Futures Forum（AFF）期间会面，并在奥斯陆（Oslo）签署了一份关于AI的联合意向声明。"
+                "t": "img",
+                "src": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/51/f51e80ab-0b99-5f6b-8c7b-437afbea9a48/6af77f04d5d17.image.jpg",
+                "cap": "Sept. 29, 2026（星期二），与会者聚集在旧金山举行的OpenAI DevDay 2026大会现场。(AP Photo/Jeff Chiu)"
               },
               {
                 "t": "p",
-                "x": "两位大臣表示，有意在挪威-英国战略伙伴关系（Norwegian-UK Strategic Partnership）的基础上，将人工智能作为双边合作的新领域加强合作。双方承诺探索在以下领域开展合作："
+                "x": "OTTAWA - 安大略省上诉法院（Ontario Court of Appeal）驳回了OpenAI的上诉，允许加拿大新闻出版商针对该公司提起的版权诉讼在该省继续审理。"
               },
               {
                 "t": "p",
-                "x": "算力基础设施与硬件整合，包括半导体和新型AI硬件；在AI赋能（AI-enabled）国防能力方面加强英国Taskforce RAID与挪威国防数据与AI中心的合作；UK AISI与AI Norway之间分享AI安全、测试与评估的最佳实践；更具互补性和互操作性的国际AI治理；AI研究与创新政策；以及AI与量子技术、生物技术和机器人技术的融合。"
+                "x": "由The Canadian Press、Torstar、The Globe and Mail、Postmedia和CBC/Radio-Canada等组成的加拿大新闻机构联盟于一年前提起了这起诉讼。"
               },
               {
                 "t": "p",
-                "x": "英国商业、创新、科学和贸易部与挪威数字化和公共治理部将协调相关工作。该声明表达的是参与方的意向，不产生国际法或国内法下的权利或义务。"
+                "x": "他们认为，OpenAI利用其新闻内容训练ChatGPT，侵犯了版权，并在未经许可、未支付报酬的情况下借这些内容获利。"
+              },
+              {
+                "t": "p",
+                "x": "ChatGPT的开发商OpenAI提出管辖权异议，主张此案应改由U.S.法庭审理，但安大略省高等法院（Ontario Superior Court of Justice）认定其对此案拥有管辖权。"
+              },
+              {
+                "t": "p",
+                "x": "OpenAI对该裁决提出上诉，法院今天驳回了这一上诉。"
+              },
+              {
+                "t": "p",
+                "x": "这是加拿大首起涉及使用受版权保护内容训练生成式AI系统这一做法的案件。"
+              },
+              {
+                "t": "p",
+                "x": "本报道由The Canadian Press于Nov. 13, 2026首发。"
               }
             ]
           }
         },
         "es": {
-          "headline": "UK y Noruega firman declaración\nconjunta de cooperación en AI",
-          "body": "UK y Noruega firmaron una declaración para reforzar la cooperación en AI en cómputo, defensa, seguridad y gobernanza.",
-          "mini_headline": "Pacto de AI UK–Noruega",
+          "headline": "Sigue la demanda de medios\ncanadienses contra OpenAI",
+          "body": "La corte de apelación de Ontario rechazó el recurso de OpenAI y la demanda de medios por ChatGPT seguirá en Canadá.",
+          "mini_headline": "La demanda contra OpenAI sigue en Canadá",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "Kanishka Narayan, ministro de Inteligencia Artificial del Reino Unido, y Torgeir Micaelsen, ministro noruego de Digitalización y Gobernanza Pública, se reunieron al margen del Atlantic Futures Forum (AFF) el 12 de noviembre y firmaron en Oslo una declaración conjunta de intenciones sobre AI."
+                "t": "img",
+                "src": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/51/f51e80ab-0b99-5f6b-8c7b-437afbea9a48/6af77f04d5d17.image.jpg",
+                "cap": "Asistentes reunidos en la conferencia OpenAI DevDay 2026, el martes Sept. 29, 2026, en San Francisco. (AP Photo/Jeff Chiu)"
               },
               {
                 "t": "p",
-                "x": "Los ministros expresaron su intención de reforzar la cooperación en inteligencia artificial como un nuevo ámbito de cooperación bilateral, sobre la base de la Asociación Estratégica Noruega-Reino Unido (Norwegian-UK Strategic Partnership). Se comprometieron a explorar la colaboración en áreas como:"
+                "x": "OTTAWA - El Tribunal de Apelación de Ontario (Ontario Court of Appeal) permite que una demanda por derechos de autor presentada por medios de noticias canadienses contra OpenAI siga adelante en esa provincia, tras rechazar una apelación de la empresa."
               },
               {
                 "t": "p",
-                "x": "La infraestructura de cómputo y la integración de hardware, incluidos semiconductores y nuevo hardware de AI; una cooperación más estrecha entre la Taskforce RAID del Reino Unido y el Centro de Defensa para Datos e AI de Noruega en capacidades de defensa basadas en AI (AI-enabled); el intercambio de buenas prácticas en seguridad, pruebas y evaluación de AI entre UK AISI y AI Norway; una gobernanza internacional de la AI más complementaria e interoperable; la política de investigación e innovación en AI; y la convergencia de la AI con las tecnologías cuánticas, la biotecnología y la robótica."
+                "x": "Una coalición de medios canadienses que incluye a The Canadian Press, Torstar, The Globe and Mail, Postmedia y CBC/Radio-Canada presentó la demanda hace un año."
               },
               {
                 "t": "p",
-                "x": "El Departamento de Empresa, Innovación, Ciencia y Comercio del Reino Unido y el Ministerio noruego de Digitalización y Gobernanza Pública coordinarán el trabajo. La Declaración expresa las intenciones de los Participantes y no crea derechos ni obligaciones en virtud del derecho internacional o nacional."
+                "x": "Sostienen que OpenAI usa sus contenidos informativos para entrenar a ChatGPT, lo que vulnera los derechos de autor, y que se beneficia de ese contenido sin permiso ni compensación."
+              },
+              {
+                "t": "p",
+                "x": "OpenAI, la empresa detrás de ChatGPT, planteó una impugnación de jurisdicción y argumentó que el caso debía verse en un tribunal de EE. UU. (U.S.), pero el Tribunal Superior de Justicia de Ontario (Ontario Superior Court of Justice) concluyó que sí tiene jurisdicción para conocer del caso."
+              },
+              {
+                "t": "p",
+                "x": "OpenAI apeló la decisión y el tribunal desestimó esa apelación hoy."
+              },
+              {
+                "t": "p",
+                "x": "La demanda es el primer caso en Canadá que aborda la práctica de usar contenido protegido por derechos de autor para entrenar sistemas de AI generativa."
+              },
+              {
+                "t": "p",
+                "x": "Este informe de The Canadian Press se publicó por primera vez el Nov. 13, 2026."
               }
             ]
           }
@@ -521,105 +583,173 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "UK·노르웨이, AI 협력\n공동 의향성명 서명",
-          "body": "UK와 노르웨이가 컴퓨팅·국방·보안·거버넌스 분야 AI 협력 의향서에 서명했다.",
-          "mini_headline": "UK–노르웨이 AI 협약",
+          "headline": "캐나다 언론사의\nOpenAI 소송 진행",
+          "body": "캐나다 항소법원이 OpenAI 항소를 기각해 ChatGPT 저작권 소송이 이어진다.",
+          "mini_headline": "OpenAI 저작권 소송, 캐나다서 진행",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "카니시카 나라얀(Kanishka Narayan) 영국 인공지능 담당 장관과 토르게이르 미카엘센(Torgeir Micaelsen) 노르웨이 디지털화·공공거버넌스 장관이 11월 12일 Atlantic Futures Forum(AFF)을 계기로 만나 오슬로(Oslo)에서 AI에 관한 공동 의향성명에 서명했다."
+                "t": "img",
+                "src": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/51/f51e80ab-0b99-5f6b-8c7b-437afbea9a48/6af77f04d5d17.image.jpg",
+                "cap": "Sept. 29, 2026(화) 샌프란시스코에서 열린 OpenAI DevDay 2026 콘퍼런스에 참석자들이 모여 있다. (AP Photo/Jeff Chiu)"
               },
               {
                 "t": "p",
-                "x": "두 장관은 노르웨이-영국 전략적 동반자 관계(Norwegian-UK Strategic Partnership)를 토대로 인공지능을 새로운 양자 협력 분야로 삼아 협력을 강화하겠다는 뜻을 밝혔다. 이들은 다음과 같은 분야에서 협력을 모색하기로 했다."
+                "x": "OTTAWA - 온타리오주 항소법원(Ontario Court of Appeal)이 OpenAI의 항소를 기각하고, 캐나다 언론사들이 이 회사를 상대로 낸 저작권 소송을 온타리오주에서 진행하도록 허용했다."
               },
               {
                 "t": "p",
-                "x": "반도체와 새로운 AI 하드웨어를 포함한 컴퓨팅 인프라와 하드웨어 통합, AI 기반(AI-enabled) 국방 역량을 위한 영국 Taskforce RAID와 노르웨이 국방 데이터·AI 센터 간 협력 강화, UK AISI와 AI Norway 간 AI 보안·테스트·평가 모범 사례 공유, 더 상호보완적이고 상호운용 가능한 국제 AI 거버넌스, AI 연구·혁신 정책, 그리고 AI와 양자 기술·생명공학·로봇공학의 융합이다."
+                "x": "The Canadian Press, Torstar, The Globe and Mail, Postmedia, CBC/Radio-Canada 등이 참여한 캐나다 언론사 연합은 한 해 전 이 소송을 제기했다."
               },
               {
                 "t": "p",
-                "x": "영국 기업·혁신·과학·통상부와 노르웨이 디지털화·공공거버넌스부가 이 작업을 조율한다. 이 성명은 참여자의 의향을 밝힌 것으로, 국제법이나 국내법상 권리나 의무를 만들지 않는다."
+                "x": "이들은 OpenAI가 자사 뉴스 콘텐츠를 ChatGPT 학습에 사용해 저작권을 침해했고, 허락이나 보상 없이 그 콘텐츠로 이익을 얻고 있다고 주장한다."
+              },
+              {
+                "t": "p",
+                "x": "ChatGPT 개발사 OpenAI는 관할권 이의를 제기하며 이 사건을 U.S. 법정에서 다뤄야 한다고 주장했지만, 온타리오주 고등법원(Ontario Superior Court of Justice)은 이 사건을 심리할 관할권이 있다고 판단했다."
+              },
+              {
+                "t": "p",
+                "x": "OpenAI는 이 결정에 항소했고, 법원은 오늘 그 항소를 기각했다."
+              },
+              {
+                "t": "p",
+                "x": "이번 소송은 저작권 있는 콘텐츠를 생성형 AI 시스템 학습에 사용하는 관행을 다루는 캐나다 최초의 사건이다."
+              },
+              {
+                "t": "p",
+                "x": "이 기사는 The Canadian Press가 Nov. 13, 2026에 처음 보도했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "UKとノルウェー\nAI協力で共同声明に署名",
-          "body": "UKとノルウェーは計算・防衛・安全保障・統治でのAI協力深化を表明する文書に署名した。",
-          "mini_headline": "UK・ノルウェーAI協定",
+          "headline": "カナダ報道機関の\nOpenAI提訴が続行",
+          "body": "オンタリオ州控訴裁がOpenAIの控訴を棄却し、ChatGPT著作権訴訟がカナダで続く。",
+          "mini_headline": "OpenAI著作権訴訟、カナダで継続",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "英国のカニシカ・ナラヤン（Kanishka Narayan）人工知能担当相と、ノルウェーのトルゲイル・ミカエルセン（Torgeir Micaelsen）デジタル化・公共ガバナンス相は11月12日、Atlantic Futures Forum（AFF）の場で会談し、オスロ（Oslo）でAIに関する共同意図表明に署名した。"
+                "t": "img",
+                "src": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/51/f51e80ab-0b99-5f6b-8c7b-437afbea9a48/6af77f04d5d17.image.jpg",
+                "cap": "Sept. 29, 2026(火)、サンフランシスコで開かれたOpenAI DevDay 2026カンファレンスに集まった参加者たち。(AP Photo/Jeff Chiu)"
               },
               {
                 "t": "p",
-                "x": "両大臣は、ノルウェー・英国戦略的パートナーシップ（Norwegian-UK Strategic Partnership）を基盤に、人工知能を二国間協力の新たな分野として協力を強化する意向を表明した。両者は次のような分野での協力を検討することを約束した。"
+                "x": "OTTAWA - オンタリオ州控訴裁判所(Ontario Court of Appeal)はOpenAIの控訴を棄却し、カナダの報道機関が同社を相手取って起こした著作権訴訟を同州で進めることを認めた。"
               },
               {
                 "t": "p",
-                "x": "半導体や新しいAIハードウェアを含む計算インフラとハードウェアの統合、AIを活用した（AI-enabled）防衛能力に関する英国のTaskforce RAIDとノルウェー国防データ・AIセンターの連携強化、UK AISIとAI Norwayの間でのAIセキュリティ・試験・評価のベストプラクティス共有、より補完的で相互運用可能な国際AIガバナンス、AI研究・イノベーション政策、そしてAIと量子技術、バイオテクノロジー、ロボティクスの融合である。"
+                "x": "The Canadian Press、Torstar、The Globe and Mail、Postmedia、CBC/Radio-Canadaなどからなるカナダの報道機関の連合が、一年前にこの訴訟を起こした。"
               },
               {
                 "t": "p",
-                "x": "英国ビジネス・イノベーション・科学・貿易省とノルウェー・デジタル化・公共ガバナンス省が作業を調整する。本声明は参加者の意図を示すものであり、国際法または国内法上の権利・義務を生じさせるものではない。"
+                "x": "原告側は、OpenAIが自社のニュースコンテンツをChatGPTの学習に使って著作権を侵害し、許可も対価もなくそのコンテンツから利益を得ていると主張している。"
+              },
+              {
+                "t": "p",
+                "x": "ChatGPTを手がけるOpenAIは管轄権に異議を唱え、本件はU.S.の法廷で審理されるべきだと主張したが、オンタリオ州上級裁判所(Ontario Superior Court of Justice)は同裁判所に本件の審理管轄権があると結論づけた。"
+              },
+              {
+                "t": "p",
+                "x": "OpenAIはこの判断を不服として控訴したが、裁判所は本日その控訴を棄却した。"
+              },
+              {
+                "t": "p",
+                "x": "本訴訟は、著作権で保護されたコンテンツを生成AIシステムの学習に使う慣行を扱うカナダ初の事例である。"
+              },
+              {
+                "t": "p",
+                "x": "この記事はThe Canadian PressがNov. 13, 2026に最初に配信した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "UK与挪威签署\nAI合作联合声明",
-          "body": "UK与挪威签署意向声明，将深化在算力、国防、安全和治理领域的AI合作。",
-          "mini_headline": "UK–挪威AI协议",
+          "headline": "加拿大新闻机构\n诉OpenAI案可继续",
+          "body": "安大略上诉法院驳回OpenAI上诉，出版商的ChatGPT版权诉讼得以在加拿大继续。",
+          "mini_headline": "OpenAI版权诉讼留在加拿大审理",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "英国人工智能大臣卡尼什卡·纳拉扬（Kanishka Narayan）与挪威数字化和公共治理大臣托尔盖尔·米凯尔森（Torgeir Micaelsen）于11月12日在Atlantic Futures Forum（AFF）期间会面，并在奥斯陆（Oslo）签署了一份关于AI的联合意向声明。"
+                "t": "img",
+                "src": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/51/f51e80ab-0b99-5f6b-8c7b-437afbea9a48/6af77f04d5d17.image.jpg",
+                "cap": "Sept. 29, 2026（星期二），与会者聚集在旧金山举行的OpenAI DevDay 2026大会现场。(AP Photo/Jeff Chiu)"
               },
               {
                 "t": "p",
-                "x": "两位大臣表示，有意在挪威-英国战略伙伴关系（Norwegian-UK Strategic Partnership）的基础上，将人工智能作为双边合作的新领域加强合作。双方承诺探索在以下领域开展合作："
+                "x": "OTTAWA - 安大略省上诉法院（Ontario Court of Appeal）驳回了OpenAI的上诉，允许加拿大新闻出版商针对该公司提起的版权诉讼在该省继续审理。"
               },
               {
                 "t": "p",
-                "x": "算力基础设施与硬件整合，包括半导体和新型AI硬件；在AI赋能（AI-enabled）国防能力方面加强英国Taskforce RAID与挪威国防数据与AI中心的合作；UK AISI与AI Norway之间分享AI安全、测试与评估的最佳实践；更具互补性和互操作性的国际AI治理；AI研究与创新政策；以及AI与量子技术、生物技术和机器人技术的融合。"
+                "x": "由The Canadian Press、Torstar、The Globe and Mail、Postmedia和CBC/Radio-Canada等组成的加拿大新闻机构联盟于一年前提起了这起诉讼。"
               },
               {
                 "t": "p",
-                "x": "英国商业、创新、科学和贸易部与挪威数字化和公共治理部将协调相关工作。该声明表达的是参与方的意向，不产生国际法或国内法下的权利或义务。"
+                "x": "他们认为，OpenAI利用其新闻内容训练ChatGPT，侵犯了版权，并在未经许可、未支付报酬的情况下借这些内容获利。"
+              },
+              {
+                "t": "p",
+                "x": "ChatGPT的开发商OpenAI提出管辖权异议，主张此案应改由U.S.法庭审理，但安大略省高等法院（Ontario Superior Court of Justice）认定其对此案拥有管辖权。"
+              },
+              {
+                "t": "p",
+                "x": "OpenAI对该裁决提出上诉，法院今天驳回了这一上诉。"
+              },
+              {
+                "t": "p",
+                "x": "这是加拿大首起涉及使用受版权保护内容训练生成式AI系统这一做法的案件。"
+              },
+              {
+                "t": "p",
+                "x": "本报道由The Canadian Press于Nov. 13, 2026首发。"
               }
             ]
           }
         },
         "es": {
-          "headline": "UK y Noruega firman declaración\nconjunta de cooperación en AI",
-          "body": "UK y Noruega firmaron una declaración para reforzar la cooperación en AI en cómputo, defensa, seguridad y gobernanza.",
-          "mini_headline": "Pacto de AI UK–Noruega",
+          "headline": "Sigue la demanda de medios\ncanadienses contra OpenAI",
+          "body": "La corte de apelación de Ontario rechazó el recurso de OpenAI y la demanda de medios por ChatGPT seguirá en Canadá.",
+          "mini_headline": "La demanda contra OpenAI sigue en Canadá",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "Kanishka Narayan, ministro de Inteligencia Artificial del Reino Unido, y Torgeir Micaelsen, ministro noruego de Digitalización y Gobernanza Pública, se reunieron al margen del Atlantic Futures Forum (AFF) el 12 de noviembre y firmaron en Oslo una declaración conjunta de intenciones sobre AI."
+                "t": "img",
+                "src": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/51/f51e80ab-0b99-5f6b-8c7b-437afbea9a48/6af77f04d5d17.image.jpg",
+                "cap": "Asistentes reunidos en la conferencia OpenAI DevDay 2026, el martes Sept. 29, 2026, en San Francisco. (AP Photo/Jeff Chiu)"
               },
               {
                 "t": "p",
-                "x": "Los ministros expresaron su intención de reforzar la cooperación en inteligencia artificial como un nuevo ámbito de cooperación bilateral, sobre la base de la Asociación Estratégica Noruega-Reino Unido (Norwegian-UK Strategic Partnership). Se comprometieron a explorar la colaboración en áreas como:"
+                "x": "OTTAWA - El Tribunal de Apelación de Ontario (Ontario Court of Appeal) permite que una demanda por derechos de autor presentada por medios de noticias canadienses contra OpenAI siga adelante en esa provincia, tras rechazar una apelación de la empresa."
               },
               {
                 "t": "p",
-                "x": "La infraestructura de cómputo y la integración de hardware, incluidos semiconductores y nuevo hardware de AI; una cooperación más estrecha entre la Taskforce RAID del Reino Unido y el Centro de Defensa para Datos e AI de Noruega en capacidades de defensa basadas en AI (AI-enabled); el intercambio de buenas prácticas en seguridad, pruebas y evaluación de AI entre UK AISI y AI Norway; una gobernanza internacional de la AI más complementaria e interoperable; la política de investigación e innovación en AI; y la convergencia de la AI con las tecnologías cuánticas, la biotecnología y la robótica."
+                "x": "Una coalición de medios canadienses que incluye a The Canadian Press, Torstar, The Globe and Mail, Postmedia y CBC/Radio-Canada presentó la demanda hace un año."
               },
               {
                 "t": "p",
-                "x": "El Departamento de Empresa, Innovación, Ciencia y Comercio del Reino Unido y el Ministerio noruego de Digitalización y Gobernanza Pública coordinarán el trabajo. La Declaración expresa las intenciones de los Participantes y no crea derechos ni obligaciones en virtud del derecho internacional o nacional."
+                "x": "Sostienen que OpenAI usa sus contenidos informativos para entrenar a ChatGPT, lo que vulnera los derechos de autor, y que se beneficia de ese contenido sin permiso ni compensación."
+              },
+              {
+                "t": "p",
+                "x": "OpenAI, la empresa detrás de ChatGPT, planteó una impugnación de jurisdicción y argumentó que el caso debía verse en un tribunal de EE. UU. (U.S.), pero el Tribunal Superior de Justicia de Ontario (Ontario Superior Court of Justice) concluyó que sí tiene jurisdicción para conocer del caso."
+              },
+              {
+                "t": "p",
+                "x": "OpenAI apeló la decisión y el tribunal desestimó esa apelación hoy."
+              },
+              {
+                "t": "p",
+                "x": "La demanda es el primer caso en Canadá que aborda la práctica de usar contenido protegido por derechos de autor para entrenar sistemas de AI generativa."
+              },
+              {
+                "t": "p",
+                "x": "Este informe de The Canadian Press se publicó por primera vez el Nov. 13, 2026."
               }
             ]
           }
@@ -627,15 +757,15 @@
       }
     },
     {
-      "id": "bis-ai-chip-sea-license-rule",
-      "source_lang": "ko",
+      "id": "politics-indonesia-copyright-bill",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "미, 중국 AI 칩\n동남아 우회로 차단 추진",
-      "body": "미 상무부가 7개국 대상 AI 칩 수출허가 규정을 마무리 중이라는 보도가 나왔다.",
-      "mini_headline": "미, AI 칩 우회로 차단 추진",
+      "headline": "인도네시아, 플랫폼에\nAI 뉴스 대가 부과",
+      "body": "인도네시아 법안대로면 플랫폼은 미리보기·AI 검색·학습 대가를 언론사에 내야 한다.",
+      "mini_headline": "인도네시아, AI 뉴스 대가 추진",
       "tool": "Politics",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261112121900009",
+      "source": "Nieman Lab",
+      "url": "https://www.niemanlab.org/2026/11/indonesias-new-copyright-bill-would-force-google-and-meta-to-pay-to-aggregate-news/",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
@@ -643,345 +773,335 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://img0.yna.co.kr/photo/etc/af/2026/11/10/PAF20261110169301009_P4.jpg",
-            "cap": "싱가포르 메가스피드 사무실 [AFP=연합뉴스]"
+            "src": "https://www.niemanlab.org/images/Indonesian-Parliament-building.jpg"
           },
           {
             "t": "p",
-            "x": "미국 상무부가 중국 인공지능(AI) 기업들이 제3국 데이터센터를 통해 첨단 AI 칩을 원격으로 쓰는 것을 막기 위한 새 규제 방안을 마무리하는 단계라고 IT 매체 디인포메이션이 11일(현지시간) 보도했다."
+            "x": "Meta, TikTok, Google이 수요일 인도네시아 의회에 나와 새 저작권 법안에 반대 증언을 했다. Reuters 최근 보도에 따르면 이 법안은 디지털 플랫폼이 인도네시아 언론사 콘텐츠를 모아 보여주거나 미리보기로 띄울 때 언론사에 대가를 내도록 한다."
           },
           {
             "t": "p",
-            "x": "매체는 소식통 2명을 인용해 상무부 산업안보국(BIS)이 기존 반도체 수출 통제 규정에 싱가포르, 말레이시아, 태국, 인도네시아, 브라질, 노르웨이, 남아프리카공화국 등 7개국을 추가 적용하려 하고 있다고 전했다. 새 규정은 이르면 이달 발표될 수 있다고 소식통들은 전했다."
+            "x": "법안은 애그리게이션과 재게재를 따로 구분하지 않는다. 테크 플랫폼은 AI 검색 서비스를 비롯한 자사 제품에 뉴스 링크 미리보기나 기사 일부만 노출해도 대가를 내야 한다. 언론사 저널리즘이 AI 모델 학습에 쓰여도 플랫폼이 보상해야 한다."
           },
           {
             "t": "p",
-            "x": "이들 국가는 앞으로 엔비디아 블랙웰급 이상 칩을 들여오려면 수출 허가를 받아야 하며, 칩을 받는 주체와 용도를 상무부에 알리고 지속적인 감시를 받게 된다. 다만 이들 국가에 있는 미국 기업 운영 데이터센터는 중국, 러시아 등 무기 금수국의 원격 접속을 제한하는 조건으로 허가를 면제받는 대신 해당국 고객 여부와 컴퓨팅 규모 등을 보고해야 한다."
+            "x": "보상금은 국영 관리 기관이 받아 언론사에 나눠 준다. 따르지 않는 플랫폼은 현지 사업 허가를 잃는 등 제재를 받을 수 있다."
           },
           {
             "t": "p",
-            "x": "이 같은 '원격 접속'은 중국 기업들이 주로 동남아 데이터센터를 통해 수출이 금지된 미국 첨단 칩으로 AI 모델을 훈련할 수 있게 해 대(對)중국 강경파들의 핵심 규제 요구 사항이었다. 디인포메이션은 엔비디아가 로비를 통해 반대해온 정책이 추진되는 것은 미 정가에서 엔비디아의 영향력이 약해지고 있음을 반영하는 것일 수 있다고 짚었다."
+            "x": "법안이 통과되면 인도네시아는 AI를 저작권법에 공식으로 넣은 동남아시아 첫 나라가 된다."
           },
           {
             "t": "p",
-            "x": "상무부는 또 바이든 정부 시절의 'AI 확산 규칙'도 공식 폐기할 계획이다. 미 의회에서도 AI 반도체 수출 통제를 강화하는 3개 법안을 국방수권법(NDAA)에 포함하는 방안이 추진되고 있다."
+            "x": "Reuters에 따르면 Google 관계자는 법안 때문에 뉴스 접근이 제한될 것이라고 주장했다. Meta 인도네시아 공공정책 책임자 베르니 무스타파(Berni Moestafa)는 법안이 통과되면 “언론사가 독자 트래픽은 물론 잠재적인 광고·구독 수익까지 잃을 수 있다”고 증언했다."
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "미, 중국 AI 칩\n동남아 우회로 차단 추진",
-          "body": "미 상무부가 7개국 대상 AI 칩 수출허가 규정을 마무리 중이라는 보도가 나왔다.",
-          "mini_headline": "미, AI 칩 우회로 차단 추진",
+        "en": {
+          "headline": "Indonesia bill would make\nplatforms pay for AI news use",
+          "body": "Indonesia's bill would make platforms pay publishers for previews, AI search and training, a first for Southeast Asia.",
+          "mini_headline": "Indonesia eyes AI news payments",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img0.yna.co.kr/photo/etc/af/2026/11/10/PAF20261110169301009_P4.jpg",
-                "cap": "싱가포르 메가스피드 사무실 [AFP=연합뉴스]"
+                "src": "https://www.niemanlab.org/images/Indonesian-Parliament-building.jpg"
               },
               {
                 "t": "p",
-                "x": "미국 상무부가 중국 인공지능(AI) 기업들이 제3국 데이터센터를 통해 첨단 AI 칩을 원격으로 쓰는 것을 막기 위한 새 규제 방안을 마무리하는 단계라고 IT 매체 디인포메이션이 11일(현지시간) 보도했다."
+                "x": "On Wednesday, Meta, TikTok, and Google testified in the Indonesian parliament in opposition to a new copyright bill. The proposed law would require digital platforms to pay news publishers in Indonesia for aggregating and previewing their content, according to a new report from Reuters."
               },
               {
                 "t": "p",
-                "x": "매체는 소식통 2명을 인용해 상무부 산업안보국(BIS)이 기존 반도체 수출 통제 규정에 싱가포르, 말레이시아, 태국, 인도네시아, 브라질, 노르웨이, 남아프리카공화국 등 7개국을 추가 적용하려 하고 있다고 전했다. 새 규정은 이르면 이달 발표될 수 있다고 소식통들은 전했다."
+                "x": "The bill does not distinguish between aggregation and republication. Tech platforms would have to pay even when they surface news link previews or story snippets in their products, including AI search products. The law would also force platforms to compensate publishers when their journalism is used to train AI models."
               },
               {
                 "t": "p",
-                "x": "이들 국가는 앞으로 엔비디아 블랙웰급 이상 칩을 들여오려면 수출 허가를 받아야 하며, 칩을 받는 주체와 용도를 상무부에 알리고 지속적인 감시를 받게 된다. 다만 이들 국가에 있는 미국 기업 운영 데이터센터는 중국, 러시아 등 무기 금수국의 원격 접속을 제한하는 조건으로 허가를 면제받는 대신 해당국 고객 여부와 컴퓨팅 규모 등을 보고해야 한다."
+                "x": "Any compensation would be paid through a state-run management organization, which would then distribute the funds to publishers. Platforms that don’t comply could face sanctions, including the loss of their local business permits."
               },
               {
                 "t": "p",
-                "x": "이 같은 '원격 접속'은 중국 기업들이 주로 동남아 데이터센터를 통해 수출이 금지된 미국 첨단 칩으로 AI 모델을 훈련할 수 있게 해 대(對)중국 강경파들의 핵심 규제 요구 사항이었다. 디인포메이션은 엔비디아가 로비를 통해 반대해온 정책이 추진되는 것은 미 정가에서 엔비디아의 영향력이 약해지고 있음을 반영하는 것일 수 있다고 짚었다."
+                "x": "If the bill does pass, Indonesia would become the first country in Southeast Asia to formally fold AI into its copyright law."
               },
               {
                 "t": "p",
-                "x": "상무부는 또 바이든 정부 시절의 'AI 확산 규칙'도 공식 폐기할 계획이다. 미 의회에서도 AI 반도체 수출 통제를 강화하는 3개 법안을 국방수권법(NDAA)에 포함하는 방안이 추진되고 있다."
+                "x": "A Google official argued that the bill would limit access to news, according to Reuters. Berni Moestafa, Meta’s head of public policy in Indonesia, testified that if the bill is passed “publishers could lose readership traffic as well as potential advertising and subscription revenue.”"
               }
             ]
           }
         },
-        "en": {
-          "headline": "U.S. moves to block China's\nAI chip route via Southeast Asia",
-          "body": "The U.S. Commerce Department is reportedly finalizing AI chip export license rules for 7 countries.",
-          "mini_headline": "U.S. moves to close AI chip workaround",
+        "ko": {
+          "headline": "인도네시아, 플랫폼에\nAI 뉴스 대가 부과",
+          "body": "인도네시아 법안대로면 플랫폼은 미리보기·AI 검색·학습 대가를 언론사에 내야 한다.",
+          "mini_headline": "인도네시아, AI 뉴스 대가 추진",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img0.yna.co.kr/photo/etc/af/2026/11/10/PAF20261110169301009_P4.jpg",
-                "cap": "Megaspeed's office in Singapore [AFP=Yonhap News]"
+                "src": "https://www.niemanlab.org/images/Indonesian-Parliament-building.jpg"
               },
               {
                 "t": "p",
-                "x": "The U.S. Commerce Department is in the final stages of a new regulatory plan to stop Chinese artificial intelligence (AI) companies from remotely using advanced AI chips through data centers in third countries, IT outlet The Information reported on the 11th (local time)."
+                "x": "Meta, TikTok, Google이 수요일 인도네시아 의회에 나와 새 저작권 법안에 반대 증언을 했다. Reuters 최근 보도에 따르면 이 법안은 디지털 플랫폼이 인도네시아 언론사 콘텐츠를 모아 보여주거나 미리보기로 띄울 때 언론사에 대가를 내도록 한다."
               },
               {
                 "t": "p",
-                "x": "Citing 2 sources, the outlet said the department's Bureau of Industry and Security (BIS) is seeking to extend existing semiconductor export control rules to 7 countries, including Singapore, Malaysia, Thailand, Indonesia, Brazil, Norway and South Africa. The sources said the new rules could be announced as early as this month."
+                "x": "법안은 애그리게이션과 재게재를 따로 구분하지 않는다. 테크 플랫폼은 AI 검색 서비스를 비롯한 자사 제품에 뉴스 링크 미리보기나 기사 일부만 노출해도 대가를 내야 한다. 언론사 저널리즘이 AI 모델 학습에 쓰여도 플랫폼이 보상해야 한다."
               },
               {
                 "t": "p",
-                "x": "These countries would need export licenses to bring in Nvidia Blackwell-class or more advanced chips, would have to tell the Commerce Department who receives the chips and for what purpose, and would be subject to ongoing monitoring. Data centers run by U.S. companies in these countries, however, would be exempt from licensing on condition that they restrict remote access from arms-embargoed countries such as China and Russia, but would instead have to report matters such as whether they serve local customers and the scale of their computing."
+                "x": "보상금은 국영 관리 기관이 받아 언론사에 나눠 준다. 따르지 않는 플랫폼은 현지 사업 허가를 잃는 등 제재를 받을 수 있다."
               },
               {
                 "t": "p",
-                "x": "Such 'remote access' had been a key regulatory demand of China hawks, since it lets Chinese companies train AI models on advanced U.S. chips barred from export, mainly through Southeast Asian data centers. The Information noted that moving ahead with a policy Nvidia had lobbied against may reflect Nvidia's waning influence in U.S. politics."
+                "x": "법안이 통과되면 인도네시아는 AI를 저작권법에 공식으로 넣은 동남아시아 첫 나라가 된다."
               },
               {
                 "t": "p",
-                "x": "The Commerce Department also plans to formally scrap the Biden administration's 'AI Diffusion Rule.' In Congress, a push is under way to include 3 bills tightening AI semiconductor export controls in the National Defense Authorization Act (NDAA)."
+                "x": "Reuters에 따르면 Google 관계자는 법안 때문에 뉴스 접근이 제한될 것이라고 주장했다. Meta 인도네시아 공공정책 책임자 베르니 무스타파(Berni Moestafa)는 법안이 통과되면 “언론사가 독자 트래픽은 물론 잠재적인 광고·구독 수익까지 잃을 수 있다”고 증언했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "米、中国のAIチップ\n東南アジア迂回路の遮断へ",
-          "body": "米商務省が7カ国を対象とするAIチップの輸出許可規則を最終調整中だと報じられた。",
-          "mini_headline": "米、AIチップ迂回路の遮断へ",
+          "headline": "インドネシア法案、\nAIの記事利用に対価",
+          "body": "インドネシア法案は、プレビューやAI検索、学習の記事利用料をプラットフォームに課す。",
+          "mini_headline": "インドネシア、AIニュース対価を検討",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img0.yna.co.kr/photo/etc/af/2026/11/10/PAF20261110169301009_P4.jpg",
-                "cap": "シンガポールのメガスピード事務所 [AFP=聯合ニュース]"
+                "src": "https://www.niemanlab.org/images/Indonesian-Parliament-building.jpg"
               },
               {
                 "t": "p",
-                "x": "米商務省が、中国の人工知能（AI）企業が第三国のデータセンターを通じて先端AIチップを遠隔で利用するのを防ぐ新たな規制案の最終調整段階にあると、IT専門メディアのジ・インフォメーションが11日（現地時間）報じた。"
+                "x": "Meta、TikTok、Googleは水曜日、インドネシア議会で新たな著作権法案に反対する証言を行った。Reutersの最新報道によると、同法案はデジタルプラットフォームに対し、インドネシアの報道機関のコンテンツを集約・プレビュー表示する際に対価を支払うよう義務付ける。"
               },
               {
                 "t": "p",
-                "x": "同メディアは関係者2人の話として、商務省産業安全保障局（BIS）が既存の半導体輸出規制をシンガポール、マレーシア、タイ、インドネシア、ブラジル、ノルウェー、南アフリカの7カ国に追加適用しようとしていると伝えた。新規則は早ければ今月中にも発表される可能性があるという。"
+                "x": "法案は集約と再掲載を区別していない。テック企業は、AI検索製品を含む自社製品でニュースリンクのプレビューや記事の抜粋を表示するだけでも支払いを求められる。報道機関のジャーナリズムがAIモデルの学習に使われた場合にも、プラットフォームに補償を義務付ける。"
               },
               {
                 "t": "p",
-                "x": "これらの国は今後、エヌビディアのブラックウェル級以上のチップを輸入するには輸出許可が必要となり、チップの受け取り主体と用途を商務省に報告し、継続的な監視を受けることになる。ただし、これらの国にある米国企業運営のデータセンターは、中国やロシアなど武器禁輸国からの遠隔アクセスを制限することを条件に許可を免除される代わりに、現地顧客の有無やコンピューティング規模などを報告しなければならない。"
+                "x": "補償金は国営の管理団体を通じて支払われ、同団体が報道機関に資金を分配する。従わないプラットフォームは、現地の事業許可の喪失を含む制裁を受ける可能性がある。"
               },
               {
                 "t": "p",
-                "x": "こうした「遠隔アクセス」は、中国企業が主に東南アジアのデータセンターを通じて、輸出が禁じられた米国の先端チップでAIモデルを訓練することを可能にしており、対中強硬派の主要な規制要求となっていた。ジ・インフォメーションは、エヌビディアがロビー活動で反対してきた政策が進められていることは、米政界でのエヌビディアの影響力の低下を反映している可能性があると指摘した。"
+                "x": "法案が成立すれば、インドネシアはAIを著作権法に正式に組み込む東南アジア初の国となる。"
               },
               {
                 "t": "p",
-                "x": "商務省はまた、バイデン政権時代の「AI拡散規則」も正式に廃止する計画だ。米議会でも、AI半導体の輸出規制を強化する3つの法案を国防権限法（NDAA）に盛り込む案が進められている。"
+                "x": "Reutersによると、Googleの担当者は法案がニュースへのアクセスを制限すると主張した。Metaのインドネシア公共政策責任者ベルニ・ムスタファ(Berni Moestafa)は、法案が成立すれば「報道機関は読者のトラフィックに加え、見込まれる広告収入や購読収入も失いかねない」と証言した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "美拟堵住中国AI芯片\n经东南亚的迂回通道",
-          "body": "据报道，美国商务部正在敲定针对7个国家的AI芯片出口许可规定。",
-          "mini_headline": "美拟封堵AI芯片迂回通道",
+          "headline": "印尼法案拟要求平台\n为AI使用新闻付费",
+          "body": "印尼法案要求平台为预览、AI搜索和训练向出版商付费，在东南亚尚属首次。",
+          "mini_headline": "印尼拟向平台收取AI新闻费用",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img0.yna.co.kr/photo/etc/af/2026/11/10/PAF20261110169301009_P4.jpg",
-                "cap": "新加坡Megaspeed办公室 [AFP=韩联社]"
+                "src": "https://www.niemanlab.org/images/Indonesian-Parliament-building.jpg"
               },
               {
                 "t": "p",
-                "x": "据IT媒体The Information于11日（当地时间）报道，美国商务部正在敲定一项新的监管方案，以阻止中国人工智能（AI）企业通过第三国数据中心远程使用先进AI芯片。"
+                "x": "周三，Meta、TikTok和Google在印尼议会作证，反对一项新的版权法案。据Reuters最新报道，该法案将要求数字平台在聚合和预览印尼新闻出版商的内容时向其付费。"
               },
               {
                 "t": "p",
-                "x": "该媒体援引2名知情人士的话称，商务部工业与安全局（BIS）正寻求将现有半导体出口管制规定扩大适用于新加坡、马来西亚、泰国、印度尼西亚、巴西、挪威和南非等7个国家。知情人士称，新规最早可能于本月公布。"
+                "x": "该法案不区分聚合与转载。即便科技平台只是在其产品（包括AI搜索产品）中展示新闻链接预览或报道片段，也必须付费。该法还将强制平台在出版商的新闻作品被用于训练AI模型时给予补偿。"
               },
               {
                 "t": "p",
-                "x": "今后这些国家若要进口英伟达Blackwell级及以上芯片，须获得出口许可，并须向商务部告知芯片接收方和用途，接受持续监控。不过，位于这些国家、由美国企业运营的数据中心，若限制中国、俄罗斯等武器禁运国家的远程访问，即可免于许可，但须报告是否有当地客户以及算力规模等信息。"
+                "x": "所有补偿款将通过一家国营管理机构支付，再由该机构分配给出版商。不遵守规定的平台可能面临制裁，包括失去当地营业许可。"
               },
               {
                 "t": "p",
-                "x": "这种“远程访问”使中国企业主要能够通过东南亚数据中心，利用被禁止出口的美国先进芯片训练AI模型，因此一直是对华强硬派的核心监管诉求。The Information指出，英伟达曾通过游说反对的政策得以推进，可能反映出英伟达在美国政界的影响力正在减弱。"
+                "x": "如果法案获得通过，印尼将成为东南亚首个正式将AI纳入版权法的国家。"
               },
               {
                 "t": "p",
-                "x": "商务部还计划正式废除拜登政府时期的“AI扩散规则”。美国国会也在推动将3项加强AI半导体出口管制的法案纳入《国防授权法》（NDAA）。"
+                "x": "据Reuters报道，一名Google官员称该法案将限制新闻获取。Meta印尼公共政策负责人Berni Moestafa作证说，如果法案通过，“出版商可能失去读者流量，以及潜在的广告和订阅收入。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "EE. UU. busca cortar la ruta\nasiática de chips de AI a China",
-          "body": "Según la prensa, el Departamento de Comercio de EE. UU. ultima reglas de exportación de chips de AI para 7 países.",
-          "mini_headline": "EE. UU. busca cerrar la vía de chips de AI",
+          "headline": "Indonesia quiere que plataformas\npaguen por usar noticias en AI",
+          "body": "Indonesia cobraría a plataformas por vistas previas, búsqueda con AI y entrenamiento, algo inédito en Asia del Sureste.",
+          "mini_headline": "Indonesia estudia cobros por noticias en AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img0.yna.co.kr/photo/etc/af/2026/11/10/PAF20261110169301009_P4.jpg",
-                "cap": "Oficina de Megaspeed en Singapur [AFP=Yonhap]"
+                "src": "https://www.niemanlab.org/images/Indonesian-Parliament-building.jpg"
               },
               {
                 "t": "p",
-                "x": "El Departamento de Comercio de EE. UU. se encuentra en la fase final de un nuevo plan regulatorio para impedir que empresas chinas de inteligencia artificial (AI) usen de forma remota chips de AI avanzados a través de centros de datos en terceros países, informó el medio de IT The Information el día 11 (hora local)."
+                "x": "El miércoles, Meta, TikTok y Google testificaron en el parlamento de Indonesia en contra de un nuevo proyecto de ley de derechos de autor. La ley propuesta obligaría a las plataformas digitales a pagar a los medios de noticias de Indonesia por agregar y mostrar vistas previas de sus contenidos, según un nuevo informe de Reuters."
               },
               {
                 "t": "p",
-                "x": "Citando a 2 fuentes, el medio indicó que la Oficina de Industria y Seguridad (BIS) del departamento busca aplicar las normas vigentes de control de exportaciones de semiconductores a 7 países más, entre ellos Singapur, Malasia, Tailandia, Indonesia, Brasil, Noruega y Sudáfrica. Según las fuentes, las nuevas normas podrían anunciarse este mismo mes."
+                "x": "El proyecto no distingue entre agregación y republicación. Las plataformas tecnológicas tendrían que pagar incluso cuando muestren vistas previas de enlaces de noticias o fragmentos de artículos en sus productos, incluidos los productos de búsqueda con AI. La ley también obligaría a las plataformas a compensar a los medios cuando su periodismo se use para entrenar modelos de AI."
               },
               {
                 "t": "p",
-                "x": "En adelante, estos países necesitarán una licencia de exportación para importar chips de clase Blackwell de Nvidia o superiores, deberán informar al Departamento de Comercio de quién recibe los chips y para qué, y estarán sujetos a supervisión continua. No obstante, los centros de datos operados por empresas estadounidenses en esos países quedarán exentos de la licencia a condición de restringir el acceso remoto desde países bajo embargo de armas como China y Rusia, aunque deberán informar, entre otros datos, si atienden a clientes locales y la escala de su capacidad de cómputo."
+                "x": "Las compensaciones se pagarían a través de una organización de gestión estatal, que luego distribuiría los fondos entre los medios. Las plataformas que no cumplan podrían enfrentar sanciones, incluida la pérdida de sus permisos comerciales locales."
               },
               {
                 "t": "p",
-                "x": "Este 'acceso remoto' era una de las principales exigencias regulatorias de los partidarios de la línea dura con China, ya que permitía a empresas chinas entrenar modelos de AI con chips avanzados estadounidenses cuya exportación está prohibida, principalmente a través de centros de datos del Sudeste Asiático. The Information señaló que el avance de una política contra la que Nvidia ha hecho lobby podría reflejar la pérdida de influencia de Nvidia en la política estadounidense."
+                "x": "Si el proyecto se aprueba, Indonesia se convertiría en el primer país del Sudeste Asiático en incorporar formalmente la AI a su ley de derechos de autor."
               },
               {
                 "t": "p",
-                "x": "El Departamento de Comercio también planea derogar formalmente la 'regla de difusión de la AI' de la era Biden. En el Congreso se impulsa además incluir 3 proyectos de ley que endurecen el control de exportaciones de semiconductores de AI en la Ley de Autorización de Defensa Nacional (NDAA)."
+                "x": "Un funcionario de Google sostuvo que el proyecto limitaría el acceso a las noticias, según Reuters. Berni Moestafa, jefe de políticas públicas de Meta en Indonesia, testificó que, si se aprueba el proyecto, “los medios podrían perder tráfico de lectores, así como posibles ingresos por publicidad y suscripciones”."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "U.S. moves to block China's\nAI chip route via Southeast Asia",
-          "body": "The U.S. Commerce Department is reportedly finalizing AI chip export license rules for 7 countries.",
-          "mini_headline": "U.S. moves to close AI chip workaround",
+        "ko": {
+          "headline": "인도네시아, 플랫폼에\nAI 뉴스 대가 부과",
+          "body": "인도네시아 법안은 플랫폼이 미리보기·AI 검색·학습 대가를 언론사에 내게 한다.",
+          "mini_headline": "인도네시아, AI 뉴스 대가 추진",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img0.yna.co.kr/photo/etc/af/2026/11/10/PAF20261110169301009_P4.jpg",
-                "cap": "Megaspeed's office in Singapore [AFP=Yonhap News]"
+                "src": "https://www.niemanlab.org/images/Indonesian-Parliament-building.jpg"
               },
               {
                 "t": "p",
-                "x": "The U.S. Commerce Department is in the final stages of a new regulatory plan to stop Chinese artificial intelligence (AI) companies from remotely using advanced AI chips through data centers in third countries, IT outlet The Information reported on the 11th (local time)."
+                "x": "Meta, TikTok, Google은 수요일 인도네시아 의회에 출석해 새 저작권 법안에 반대하는 증언을 했다. Reuters의 최근 보도에 따르면, 이 법안은 디지털 플랫폼이 인도네시아 언론사의 콘텐츠를 모아 보여주거나 미리보기로 노출할 때 언론사에 대가를 지급하도록 의무화한다."
               },
               {
                 "t": "p",
-                "x": "Citing 2 sources, the outlet said the department's Bureau of Industry and Security (BIS) is seeking to extend existing semiconductor export control rules to 7 countries, including Singapore, Malaysia, Thailand, Indonesia, Brazil, Norway and South Africa. The sources said the new rules could be announced as early as this month."
+                "x": "법안은 애그리게이션과 재게재를 구분하지 않는다. 테크 플랫폼은 AI 검색 서비스를 포함한 자사 제품에 뉴스 링크 미리보기나 기사 일부를 노출하기만 해도 대가를 내야 한다. 또 언론사의 저널리즘이 AI 모델 학습에 쓰일 때도 플랫폼이 보상하도록 강제한다."
               },
               {
                 "t": "p",
-                "x": "These countries would need export licenses to bring in Nvidia Blackwell-class or more advanced chips, would have to tell the Commerce Department who receives the chips and for what purpose, and would be subject to ongoing monitoring. Data centers run by U.S. companies in these countries, however, would be exempt from licensing on condition that they restrict remote access from arms-embargoed countries such as China and Russia, but would instead have to report matters such as whether they serve local customers and the scale of their computing."
+                "x": "보상금은 국영 관리 기관을 거쳐 지급되고, 이 기관이 언론사에 자금을 배분한다. 이를 따르지 않는 플랫폼은 현지 사업 허가 상실을 포함한 제재를 받을 수 있다."
               },
               {
                 "t": "p",
-                "x": "Such 'remote access' had been a key regulatory demand of China hawks, since it lets Chinese companies train AI models on advanced U.S. chips barred from export, mainly through Southeast Asian data centers. The Information noted that moving ahead with a policy Nvidia had lobbied against may reflect Nvidia's waning influence in U.S. politics."
+                "x": "법안이 통과되면 인도네시아는 AI를 저작권법에 공식 편입한 동남아시아 첫 국가가 된다."
               },
               {
                 "t": "p",
-                "x": "The Commerce Department also plans to formally scrap the Biden administration's 'AI Diffusion Rule.' In Congress, a push is under way to include 3 bills tightening AI semiconductor export controls in the National Defense Authorization Act (NDAA)."
+                "x": "Reuters에 따르면 Google 관계자는 법안이 뉴스 접근을 제한할 것이라고 주장했다. Meta 인도네시아 공공정책 책임자 베르니 무스타파(Berni Moestafa)는 법안이 통과되면 “언론사가 독자 트래픽은 물론 잠재적인 광고·구독 수익까지 잃을 수 있다”고 증언했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "米、中国のAIチップ\n東南アジア迂回路の遮断へ",
-          "body": "米商務省が7カ国を対象とするAIチップの輸出許可規則を最終調整中だと報じられた。",
-          "mini_headline": "米、AIチップ迂回路の遮断へ",
+          "headline": "インドネシア法案、\nAIの記事利用に対価",
+          "body": "インドネシア法案は、プレビューやAI検索、学習の記事利用料をプラットフォームに課す。",
+          "mini_headline": "インドネシア、AIニュース対価を検討",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img0.yna.co.kr/photo/etc/af/2026/11/10/PAF20261110169301009_P4.jpg",
-                "cap": "シンガポールのメガスピード事務所 [AFP=聯合ニュース]"
+                "src": "https://www.niemanlab.org/images/Indonesian-Parliament-building.jpg"
               },
               {
                 "t": "p",
-                "x": "米商務省が、中国の人工知能（AI）企業が第三国のデータセンターを通じて先端AIチップを遠隔で利用するのを防ぐ新たな規制案の最終調整段階にあると、IT専門メディアのジ・インフォメーションが11日（現地時間）報じた。"
+                "x": "Meta、TikTok、Googleは水曜日、インドネシア議会で新たな著作権法案に反対する証言を行った。Reutersの最新報道によると、同法案はデジタルプラットフォームに対し、インドネシアの報道機関のコンテンツを集約・プレビュー表示する際に対価を支払うよう義務付ける。"
               },
               {
                 "t": "p",
-                "x": "同メディアは関係者2人の話として、商務省産業安全保障局（BIS）が既存の半導体輸出規制をシンガポール、マレーシア、タイ、インドネシア、ブラジル、ノルウェー、南アフリカの7カ国に追加適用しようとしていると伝えた。新規則は早ければ今月中にも発表される可能性があるという。"
+                "x": "法案は集約と再掲載を区別していない。テック企業は、AI検索製品を含む自社製品でニュースリンクのプレビューや記事の抜粋を表示するだけでも支払いを求められる。報道機関のジャーナリズムがAIモデルの学習に使われた場合にも、プラットフォームに補償を義務付ける。"
               },
               {
                 "t": "p",
-                "x": "これらの国は今後、エヌビディアのブラックウェル級以上のチップを輸入するには輸出許可が必要となり、チップの受け取り主体と用途を商務省に報告し、継続的な監視を受けることになる。ただし、これらの国にある米国企業運営のデータセンターは、中国やロシアなど武器禁輸国からの遠隔アクセスを制限することを条件に許可を免除される代わりに、現地顧客の有無やコンピューティング規模などを報告しなければならない。"
+                "x": "補償金は国営の管理団体を通じて支払われ、同団体が報道機関に資金を分配する。従わないプラットフォームは、現地の事業許可の喪失を含む制裁を受ける可能性がある。"
               },
               {
                 "t": "p",
-                "x": "こうした「遠隔アクセス」は、中国企業が主に東南アジアのデータセンターを通じて、輸出が禁じられた米国の先端チップでAIモデルを訓練することを可能にしており、対中強硬派の主要な規制要求となっていた。ジ・インフォメーションは、エヌビディアがロビー活動で反対してきた政策が進められていることは、米政界でのエヌビディアの影響力の低下を反映している可能性があると指摘した。"
+                "x": "法案が成立すれば、インドネシアはAIを著作権法に正式に組み込む東南アジア初の国となる。"
               },
               {
                 "t": "p",
-                "x": "商務省はまた、バイデン政権時代の「AI拡散規則」も正式に廃止する計画だ。米議会でも、AI半導体の輸出規制を強化する3つの法案を国防権限法（NDAA）に盛り込む案が進められている。"
+                "x": "Reutersによると、Googleの担当者は法案がニュースへのアクセスを制限すると主張した。Metaのインドネシア公共政策責任者ベルニ・ムスタファ(Berni Moestafa)は、法案が成立すれば「報道機関は読者のトラフィックに加え、見込まれる広告収入や購読収入も失いかねない」と証言した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "美拟堵住中国AI芯片\n经东南亚的迂回通道",
-          "body": "据报道，美国商务部正在敲定针对7个国家的AI芯片出口许可规定。",
-          "mini_headline": "美拟封堵AI芯片迂回通道",
+          "headline": "印尼法案拟要求平台\n为AI使用新闻付费",
+          "body": "印尼法案要求平台为预览、AI搜索和训练向出版商付费，在东南亚尚属首次。",
+          "mini_headline": "印尼拟向平台收取AI新闻费用",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img0.yna.co.kr/photo/etc/af/2026/11/10/PAF20261110169301009_P4.jpg",
-                "cap": "新加坡Megaspeed办公室 [AFP=韩联社]"
+                "src": "https://www.niemanlab.org/images/Indonesian-Parliament-building.jpg"
               },
               {
                 "t": "p",
-                "x": "据IT媒体The Information于11日（当地时间）报道，美国商务部正在敲定一项新的监管方案，以阻止中国人工智能（AI）企业通过第三国数据中心远程使用先进AI芯片。"
+                "x": "周三，Meta、TikTok和Google在印尼议会作证，反对一项新的版权法案。据Reuters最新报道，该法案将要求数字平台在聚合和预览印尼新闻出版商的内容时向其付费。"
               },
               {
                 "t": "p",
-                "x": "该媒体援引2名知情人士的话称，商务部工业与安全局（BIS）正寻求将现有半导体出口管制规定扩大适用于新加坡、马来西亚、泰国、印度尼西亚、巴西、挪威和南非等7个国家。知情人士称，新规最早可能于本月公布。"
+                "x": "该法案不区分聚合与转载。即便科技平台只是在其产品（包括AI搜索产品）中展示新闻链接预览或报道片段，也必须付费。该法还将强制平台在出版商的新闻作品被用于训练AI模型时给予补偿。"
               },
               {
                 "t": "p",
-                "x": "今后这些国家若要进口英伟达Blackwell级及以上芯片，须获得出口许可，并须向商务部告知芯片接收方和用途，接受持续监控。不过，位于这些国家、由美国企业运营的数据中心，若限制中国、俄罗斯等武器禁运国家的远程访问，即可免于许可，但须报告是否有当地客户以及算力规模等信息。"
+                "x": "所有补偿款将通过一家国营管理机构支付，再由该机构分配给出版商。不遵守规定的平台可能面临制裁，包括失去当地营业许可。"
               },
               {
                 "t": "p",
-                "x": "这种“远程访问”使中国企业主要能够通过东南亚数据中心，利用被禁止出口的美国先进芯片训练AI模型，因此一直是对华强硬派的核心监管诉求。The Information指出，英伟达曾通过游说反对的政策得以推进，可能反映出英伟达在美国政界的影响力正在减弱。"
+                "x": "如果法案获得通过，印尼将成为东南亚首个正式将AI纳入版权法的国家。"
               },
               {
                 "t": "p",
-                "x": "商务部还计划正式废除拜登政府时期的“AI扩散规则”。美国国会也在推动将3项加强AI半导体出口管制的法案纳入《国防授权法》（NDAA）。"
+                "x": "据Reuters报道，一名Google官员称该法案将限制新闻获取。Meta印尼公共政策负责人Berni Moestafa作证说，如果法案通过，“出版商可能失去读者流量，以及潜在的广告和订阅收入。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "EE. UU. busca cortar la ruta\nasiática de chips de AI a China",
-          "body": "Según la prensa, el Departamento de Comercio de EE. UU. ultima reglas de exportación de chips de AI para 7 países.",
-          "mini_headline": "EE. UU. busca cerrar la vía de chips de AI",
+          "headline": "Indonesia quiere que plataformas\npaguen por usar noticias en AI",
+          "body": "Indonesia cobraría a plataformas por vistas previas, búsqueda con AI y entrenamiento, algo inédito en Asia del Sureste.",
+          "mini_headline": "Indonesia estudia cobros por noticias en AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img0.yna.co.kr/photo/etc/af/2026/11/10/PAF20261110169301009_P4.jpg",
-                "cap": "Oficina de Megaspeed en Singapur [AFP=Yonhap]"
+                "src": "https://www.niemanlab.org/images/Indonesian-Parliament-building.jpg"
               },
               {
                 "t": "p",
-                "x": "El Departamento de Comercio de EE. UU. se encuentra en la fase final de un nuevo plan regulatorio para impedir que empresas chinas de inteligencia artificial (AI) usen de forma remota chips de AI avanzados a través de centros de datos en terceros países, informó el medio de IT The Information el día 11 (hora local)."
+                "x": "El miércoles, Meta, TikTok y Google testificaron en el parlamento de Indonesia en contra de un nuevo proyecto de ley de derechos de autor. La ley propuesta obligaría a las plataformas digitales a pagar a los medios de noticias de Indonesia por agregar y mostrar vistas previas de sus contenidos, según un nuevo informe de Reuters."
               },
               {
                 "t": "p",
-                "x": "Citando a 2 fuentes, el medio indicó que la Oficina de Industria y Seguridad (BIS) del departamento busca aplicar las normas vigentes de control de exportaciones de semiconductores a 7 países más, entre ellos Singapur, Malasia, Tailandia, Indonesia, Brasil, Noruega y Sudáfrica. Según las fuentes, las nuevas normas podrían anunciarse este mismo mes."
+                "x": "El proyecto no distingue entre agregación y republicación. Las plataformas tecnológicas tendrían que pagar incluso cuando muestren vistas previas de enlaces de noticias o fragmentos de artículos en sus productos, incluidos los productos de búsqueda con AI. La ley también obligaría a las plataformas a compensar a los medios cuando su periodismo se use para entrenar modelos de AI."
               },
               {
                 "t": "p",
-                "x": "En adelante, estos países necesitarán una licencia de exportación para importar chips de clase Blackwell de Nvidia o superiores, deberán informar al Departamento de Comercio de quién recibe los chips y para qué, y estarán sujetos a supervisión continua. No obstante, los centros de datos operados por empresas estadounidenses en esos países quedarán exentos de la licencia a condición de restringir el acceso remoto desde países bajo embargo de armas como China y Rusia, aunque deberán informar, entre otros datos, si atienden a clientes locales y la escala de su capacidad de cómputo."
+                "x": "Las compensaciones se pagarían a través de una organización de gestión estatal, que luego distribuiría los fondos entre los medios. Las plataformas que no cumplan podrían enfrentar sanciones, incluida la pérdida de sus permisos comerciales locales."
               },
               {
                 "t": "p",
-                "x": "Este 'acceso remoto' era una de las principales exigencias regulatorias de los partidarios de la línea dura con China, ya que permitía a empresas chinas entrenar modelos de AI con chips avanzados estadounidenses cuya exportación está prohibida, principalmente a través de centros de datos del Sudeste Asiático. The Information señaló que el avance de una política contra la que Nvidia ha hecho lobby podría reflejar la pérdida de influencia de Nvidia en la política estadounidense."
+                "x": "Si el proyecto se aprueba, Indonesia se convertiría en el primer país del Sudeste Asiático en incorporar formalmente la AI a su ley de derechos de autor."
               },
               {
                 "t": "p",
-                "x": "El Departamento de Comercio también planea derogar formalmente la 'regla de difusión de la AI' de la era Biden. En el Congreso se impulsa además incluir 3 proyectos de ley que endurecen el control de exportaciones de semiconductores de AI en la Ley de Autorización de Defensa Nacional (NDAA)."
+                "x": "Un funcionario de Google sostuvo que el proyecto limitaría el acceso a las noticias, según Reuters. Berni Moestafa, jefe de políticas públicas de Meta en Indonesia, testificó que, si se aprueba el proyecto, “los medios podrían perder tráfico de lectores, así como posibles ingresos por publicidad y suscripciones”."
               }
             ]
           }
@@ -989,15 +1109,15 @@
       }
     },
     {
-      "id": "eu-ombudsman-snabe-ai-envoy",
-      "source_lang": "en",
+      "id": "politics-malaysia-megaspeed-probe",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "EU 옴부즈만, 집행위\nAI 특사 선임 조사",
-      "body": "유럽 옴부즈만이 스나베의 EU AI 특사 임명을 두고 이해충돌 조사에 나섰다.",
-      "mini_headline": "EU, AI 특사 선임 조사",
+      "headline": "말레이시아, AI 반도체\n유출 의혹 공식 조사",
+      "body": "말레이시아 정부가 메가스피드 자회사의 AI 반도체 유출 여부 조사에 착수했다.",
+      "mini_headline": "말레이, AI칩 유출 조사",
       "tool": "Politics",
-      "source": "POLITICO Europe",
-      "url": "https://www.politico.eu/article/eu-watchdog-commission-ai-pick-conflict-of-interest-concerns/",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261113115800104",
       "accent": "#2ec5c5",
       "motif": "cube",
       "full": {
@@ -1005,335 +1125,305 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/11/10/GettyImages-1246946570-scaled.jpg"
+            "src": "https://img5.yna.co.kr/photo/etc/af/2026/11/12/PAF20261112269501009_P4.jpg",
+            "cap": "젠슨 황과 중국 스파이 의혹받는 앨리스 황 [AFP=연합뉴스 자료사진]"
           },
           {
             "t": "p",
-            "x": "EU 감시기구가 유럽연합 집행위원회의 AI 특사 임명을 조사하고 있다. 집행위가 Siemens 회장을 우르줄라 폰데어라이엔 집행위원장의 AI 특사로 임명하면서 실제 또는 잠재적 이해충돌을 “식별하고 평가하고 해결”했는지 들여다본다."
+            "x": "말레이시아 투자통상산업부는 13일(현지시간) 첨단 AI 반도체가 다른 국가로 유출됐을 가능성을 놓고 '메가스피드 인터내셔널'의 자회사인 '스피드매트릭스'를 조사하고 있다고 밝혔다(AFP·블룸버그 통신 등)."
           },
           {
             "t": "p",
-            "x": "Transparency International과 Corporate Europe Observatory 등 NGOs 연합은 6월 짐 하게만 스나베 선임 건으로 유럽 옴부즈만에 진정을 냈다. 그가 Siemens에서 여전히 맡은 역할이 “특사의 독립성과 공정성을 훼손할 수 있다”는 경고였다."
+            "x": "싱가포르에 본사를 둔 데이터센터 기업 메가스피드는 2022년 말부터 시행된 미국의 첨단 AI 반도체 수출 제한 조치 이후 엔비디아의 반도체를 중국으로 불법 반출한 의혹을 받고 있으며, 2024년 설립한 자회사 스피드매트릭스를 통해 최소 46억달러(약 6조2천억원) 상당의 엔비디아 AI 장비를 수입했다. 중국 스파이로 의심받는 앨리스 황이 과거 이 회사 임원으로 근무했다."
           },
           {
             "t": "p",
-            "x": "테레사 안지뉴 옴부즈만은 “이 진정에 대해 조사를 개시하기로 결정했다”고 썼다. 감시기구가 집행위 문서를 검토하고, 경우에 따라 “관련 집행위 직원들”도 만나야 할 수 있다고 덧붙였다."
+            "x": "투자통상산업부는 스피드매트릭스가 허가 없이도 AI 반도체를 국내로 반입할 수는 있다면서도 \"(지난해 7월부터) 말레이시아를 경유해 고성능 미국산 AI 반도체를 수출·재수출·환적·중계할 경우 반드시 먼저 허가받아야 한다\"고 밝혔다."
           },
           {
             "t": "p",
-            "x": "Siemens는 EU 기계 규정이 적용되는 제품을 EU 대표 AI 법의 적용 대상에서 빼자고 주장한 주요 기업 가운데 하나였다. 스나베는 2027년 3월 말까지 보수 없이 이 자리를 맡는다."
-          },
-          {
-            "t": "p",
-            "x": "발라주 우이바리 유럽연합 집행위원회 대변인은 조사에 “협력하겠다”고 밝혔다. EU 집행위가 “임명 전에 철저한 평가”를 거쳤고 “이해충돌이 없도록 조치를 취했다”는 설명도 덧붙였다."
+            "x": "투자통상산업부는 \"관세청과 협력해 국내로 반입된 반도체 가운데 다른 국가로 재수출된 경우가 있는지와 재수출이 법에 따라 이뤄졌는지 파악하고 있다\"며, 싱가포르와 미국 당국과도 긴밀히 협력하고 \"필요한 경우 통제를 강화하기 위한 추가 조치도 검토하고 있다\"고 덧붙였다. 메가스피드는 지난해부터 반도체 서버 수출 경로 허위 신고 의혹으로 싱가포르 당국의 조사도 받고 있다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "EU Ombudsman probes choice\nof Commission's AI envoy",
-          "body": "The European Ombudsman opened a conflict-of-interest inquiry into Jim Hagemann Snabe's appointment as EU AI envoy.",
-          "mini_headline": "EU probes AI envoy pick",
+        "ko": {
+          "headline": "말레이시아, AI 반도체\n유출 의혹 공식 조사",
+          "body": "말레이시아 정부가 메가스피드 자회사의 AI 반도체 유출 여부 조사에 착수했다.",
+          "mini_headline": "말레이, AI칩 유출 조사",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/11/10/GettyImages-1246946570-scaled.jpg"
+                "src": "https://img5.yna.co.kr/photo/etc/af/2026/11/12/PAF20261112269501009_P4.jpg",
+                "cap": "젠슨 황과 중국 스파이 의혹받는 앨리스 황 [AFP=연합뉴스 자료사진]"
               },
               {
                 "t": "p",
-                "x": "The EU’s watchdog is investigating whether the European Commission managed to “identify, assess and address” actual or potential conflicts of interest when it appointed the chairman of Siemens as Ursula von der Leyen’s AI envoy."
+                "x": "말레이시아 투자통상산업부는 13일(현지시간) 첨단 AI 반도체가 다른 국가로 유출됐을 가능성을 놓고 '메가스피드 인터내셔널'의 자회사인 '스피드매트릭스'를 조사하고 있다고 밝혔다(AFP·블룸버그 통신 등)."
               },
               {
                 "t": "p",
-                "x": "A group of NGOs, including Transparency International and Corporate Europe Observatory, complained in June to the European Ombudsman about the choice of Jim Hagemann Snabe, warning that his ongoing role at Siemens “may compromise the envoy’s independence and impartiality.”"
+                "x": "싱가포르에 본사를 둔 데이터센터 기업 메가스피드는 2022년 말부터 시행된 미국의 첨단 AI 반도체 수출 제한 조치 이후 엔비디아의 반도체를 중국으로 불법 반출한 의혹을 받고 있으며, 2024년 설립한 자회사 스피드매트릭스를 통해 최소 46억달러(약 6조2천억원) 상당의 엔비디아 AI 장비를 수입했다. 중국 스파이로 의심받는 앨리스 황이 과거 이 회사 임원으로 근무했다."
               },
               {
                 "t": "p",
-                "x": "“I have decided to open an inquiry into this complaint,” Ombudsman Teresa Anjinho wrote, adding that it was necessary for the watchdog to inspect Commission documents, and possibly meet with “relevant Commission staff members.”"
+                "x": "투자통상산업부는 스피드매트릭스가 허가 없이도 AI 반도체를 국내로 반입할 수는 있다면서도 \"(지난해 7월부터) 말레이시아를 경유해 고성능 미국산 AI 반도체를 수출·재수출·환적·중계할 경우 반드시 먼저 허가받아야 한다\"고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "Siemens was one of the main proponents of exempting products covered by the EU’s machinery rules from the bloc’s flagship AI law. Snabe will serve in the unpaid role until the end of March 2027."
-              },
-              {
-                "t": "p",
-                "x": "The European Commission “will collaborate” with the probe, spokesperson Balazs Ujvari said, adding that the EU executive carried out a “thorough assessment prior to the appointment” and that “measures have been taken to ensure no conflict of interest.”"
+                "x": "투자통상산업부는 \"관세청과 협력해 국내로 반입된 반도체 가운데 다른 국가로 재수출된 경우가 있는지와 재수출이 법에 따라 이뤄졌는지 파악하고 있다\"며, 싱가포르와 미국 당국과도 긴밀히 협력하고 \"필요한 경우 통제를 강화하기 위한 추가 조치도 검토하고 있다\"고 덧붙였다. 메가스피드는 지난해부터 반도체 서버 수출 경로 허위 신고 의혹으로 싱가포르 당국의 조사도 받고 있다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "EU 옴부즈만, 집행위\nAI 특사 선임 조사",
-          "body": "유럽 옴부즈만이 스나베의 EU AI 특사 임명을 두고 이해충돌 조사에 나섰다.",
-          "mini_headline": "EU, AI 특사 선임 조사",
+        "en": {
+          "headline": "Malaysia formally probes\nsuspected AI chip diversion",
+          "body": "Malaysia's government has begun investigating whether a Megaspeed subsidiary diverted AI chips.",
+          "mini_headline": "Malaysia probes AI chip diversion",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/11/10/GettyImages-1246946570-scaled.jpg"
+                "src": "https://img5.yna.co.kr/photo/etc/af/2026/11/12/PAF20261112269501009_P4.jpg",
+                "cap": "Jensen Huang and Alice Huang, who is suspected of being a Chinese spy [AFP=Yonhap file photo]"
               },
               {
                 "t": "p",
-                "x": "EU 감시기구가 유럽연합 집행위원회의 AI 특사 임명을 조사하고 있다. 집행위가 Siemens 회장을 우르줄라 폰데어라이엔 집행위원장의 AI 특사로 임명하면서 실제 또는 잠재적 이해충돌을 “식별하고 평가하고 해결”했는지 들여다본다."
+                "x": "Malaysia's Ministry of Investment, Trade and Industry said on the 13th (local time) that it is investigating Speedmatrix, a subsidiary of Megaspeed International, over the possibility that advanced AI chips were diverted to other countries (AFP, Bloomberg and others)."
               },
               {
                 "t": "p",
-                "x": "Transparency International과 Corporate Europe Observatory 등 NGOs 연합은 6월 짐 하게만 스나베 선임 건으로 유럽 옴부즈만에 진정을 냈다. 그가 Siemens에서 여전히 맡은 역할이 “특사의 독립성과 공정성을 훼손할 수 있다”는 경고였다."
+                "x": "Megaspeed, a Singapore-headquartered data center company, is suspected of illegally shipping Nvidia chips to China after American restrictions on advanced AI chip exports took effect in late 2022, and it imported at least $4.6 billion (about 6조2천억원) worth of Nvidia AI equipment through Speedmatrix, a subsidiary it set up in 2024. Alice Huang, who is suspected of being a Chinese spy, previously worked as an executive at the company."
               },
               {
                 "t": "p",
-                "x": "테레사 안지뉴 옴부즈만은 “이 진정에 대해 조사를 개시하기로 결정했다”고 썼다. 감시기구가 집행위 문서를 검토하고, 경우에 따라 “관련 집행위 직원들”도 만나야 할 수 있다고 덧붙였다."
+                "x": "The ministry said Speedmatrix may bring AI chips into the country without a permit, but that \"(since July last year) exporting, re-exporting, transshipping or transiting high-performance American-made AI chips through Malaysia requires prior authorization.\""
               },
               {
                 "t": "p",
-                "x": "Siemens는 EU 기계 규정이 적용되는 제품을 EU 대표 AI 법의 적용 대상에서 빼자고 주장한 주요 기업 가운데 하나였다. 스나베는 2027년 3월 말까지 보수 없이 이 자리를 맡는다."
-              },
-              {
-                "t": "p",
-                "x": "발라주 우이바리 유럽연합 집행위원회 대변인은 조사에 “협력하겠다”고 밝혔다. EU 집행위가 “임명 전에 철저한 평가”를 거쳤고 “이해충돌이 없도록 조치를 취했다”는 설명도 덧붙였다."
+                "x": "The ministry said it is \"working with the customs department to determine whether any of the chips brought into the country were re-exported to other countries and whether such re-exports were carried out in accordance with the law,\" adding that it is working closely with Singaporean and American authorities and is \"also considering additional measures to tighten controls if necessary.\" Megaspeed has also been under investigation by Singaporean authorities since last year over suspected false declarations of export routes for chip servers."
               }
             ]
           }
         },
         "ja": {
-          "headline": "EU行政監察官、欧州委の\nAI特使人選を調査",
-          "body": "欧州オンブズマンが、スナーベ氏のEU AI特使任命をめぐり利益相反の調査を始めた。",
-          "mini_headline": "EU、AI特使人選を調査",
+          "headline": "マレーシア、AI半導体\n流出疑惑を正式調査",
+          "body": "マレーシア政府がメガスピード子会社によるAI半導体流出の有無について調査に着手した。",
+          "mini_headline": "マレーシア、AIチップ流出を調査",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/11/10/GettyImages-1246946570-scaled.jpg"
+                "src": "https://img5.yna.co.kr/photo/etc/af/2026/11/12/PAF20261112269501009_P4.jpg",
+                "cap": "ジェンスン・フアン氏と、中国のスパイ疑惑が持たれているアリス・ホアン氏 [AFP=聯合ニュース資料写真]"
               },
               {
                 "t": "p",
-                "x": "EUの監視機関は、欧州委員会がSiemensの会長をウルズラ・フォンデアライエン委員長のAI特使に任命した際、実際の、あるいは潜在的な利益相反を「特定し、評価し、対処」できたかどうかを調査している。"
+                "x": "マレーシア投資貿易産業省は13日(現地時間)、先端AI半導体が他国に流出した可能性をめぐり、「メガスピード・インターナショナル」の子会社「スピードマトリックス」を調査していると明らかにした(AFP・ブルームバーグ通信など)。"
               },
               {
                 "t": "p",
-                "x": "Transparency InternationalやCorporate Europe ObservatoryなどのNGOs連合は6月、ジム・ハーゲマン・スナーベ氏の起用について欧州オンブズマンに苦情を申し立て、同氏がSiemensで役職を続けていることは「特使の独立性と公平性を損なうおそれがある」と警告した。"
+                "x": "シンガポールに本社を置くデータセンター企業メガスピードは、2022年末から施行された米国の先端AI半導体輸出規制措置以降、エヌビディアの半導体を中国へ不正に持ち出した疑いが持たれており、2024年に設立した子会社スピードマトリックスを通じて少なくとも46億ドル(約6조2천억원)相当のエヌビディアのAI機器を輸入した。中国のスパイと疑われているアリス・ホアン氏が、過去に同社の役員を務めていた。"
               },
               {
                 "t": "p",
-                "x": "「この苦情について調査を開始することを決定した」とテレサ・アンジーニョ・オンブズマンは記し、監視機関が欧州委の文書を精査し、場合によっては「関係する欧州委職員」と面会する必要があると付け加えた。"
+                "x": "投資貿易産業省は、スピードマトリックスが許可なしにAI半導体を国内に持ち込むことは可能だとしつつも、「(昨年7月から)マレーシアを経由して高性能の米国製AI半導体を輸出・再輸出・積み替え・中継する場合は、必ず事前に許可を得なければならない」と述べた。"
               },
               {
                 "t": "p",
-                "x": "Siemensは、EUの機械規則の対象となる製品を、EUの旗艦的なAI法の適用から除外するよう求めた主要企業の一つだった。スナーベ氏は2027年3月末まで無報酬でこの役職を務める。"
-              },
-              {
-                "t": "p",
-                "x": "欧州委員会は調査に「協力する」と、バラージュ・ウイヴァーリ報道官は述べた。EUの執行機関である欧州委は「任命前に徹底的な評価」を行い、「利益相反が生じないよう措置を講じた」としている。"
+                "x": "同省は「税関当局と協力し、国内に持ち込まれた半導体のうち他国へ再輸出されたものがあるか、再輸出が法に従って行われたかを把握している」としたうえで、シンガポールや米国の当局とも緊密に連携し、「必要な場合は管理を強化するための追加措置も検討している」と付け加えた。メガスピードは昨年から、半導体サーバーの輸出経路を虚偽申告した疑いでシンガポール当局の調査も受けている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "EU监察员调查欧委会\nAI特使人选",
-          "body": "欧洲监察员已就斯纳贝出任EU AI特使一事启动利益冲突调查。",
-          "mini_headline": "EU调查AI特使人选",
+          "headline": "马来西亚正式调查\nAI芯片外流嫌疑",
+          "body": "马来西亚政府已着手调查Megaspeed子公司是否外流了AI芯片。",
+          "mini_headline": "马来西亚调查AI芯片外流",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/11/10/GettyImages-1246946570-scaled.jpg"
+                "src": "https://img5.yna.co.kr/photo/etc/af/2026/11/12/PAF20261112269501009_P4.jpg",
+                "cap": "黄仁勋与被怀疑是中国间谍的Alice Huang [AFP=韩联社资料图片]"
               },
               {
                 "t": "p",
-                "x": "EU监督机构正在调查欧盟委员会在任命Siemens董事长担任乌尔苏拉·冯德莱恩的AI特使时，是否成功“识别、评估并处理”了实际或潜在的利益冲突。"
+                "x": "马来西亚投资贸易和工业部13日（当地时间）表示，正就先进AI芯片可能流向其他国家一事，调查Megaspeed International旗下子公司Speedmatrix（据AFP、彭博社等报道）。"
               },
               {
                 "t": "p",
-                "x": "包括Transparency International和Corporate Europe Observatory在内的一批NGOs于6月就吉姆·哈格曼·斯纳贝的人选向欧洲监察员投诉，警告称他在Siemens的持续任职“可能损害特使的独立性和公正性”。"
+                "x": "总部位于新加坡的数据中心企业Megaspeed被怀疑在美国自2022年底实施先进AI芯片出口限制措施后，将英伟达芯片非法运往中国，并通过2024年成立的子公司Speedmatrix进口了至少46亿美元（约6조2천억원）的英伟达AI设备。被怀疑是中国间谍的Alice Huang曾在该公司担任高管。"
               },
               {
                 "t": "p",
-                "x": "“我已决定就这一投诉展开调查，”监察员特雷莎·安吉尼奥写道，并称监督机构有必要查阅委员会文件，并可能与“委员会相关工作人员”会面。"
+                "x": "投资贸易和工业部表示，Speedmatrix即使未经许可也可以将AI芯片运入国内，但“（自去年7月起）经由马来西亚出口、再出口、转运或中转高性能美国产AI芯片，必须事先获得许可”。"
               },
               {
                 "t": "p",
-                "x": "Siemens曾是主张将受EU机械规则约束的产品排除在欧盟旗舰AI法之外的主要支持者之一。斯纳贝将无偿担任该职至2027年3月底。"
-              },
-              {
-                "t": "p",
-                "x": "欧盟委员会发言人巴拉日·乌伊瓦里表示，委员会将“配合”调查，并称EU执行机构“在任命前进行了全面评估”，且“已采取措施确保不存在利益冲突”。"
+                "x": "该部表示，“正与海关合作，掌握运入国内的芯片中是否有被再出口至其他国家的情况，以及再出口是否依法进行”，并补充称，正与新加坡和美国当局密切合作，“必要时也在考虑采取加强管控的追加措施”。Megaspeed自去年起还因涉嫌虚报芯片服务器出口路线而接受新加坡当局调查。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Ombudsman de la EU investiga\nla elección del enviado de AI",
-          "body": "El Ombudsman europeo abrió una investigación por conflicto de intereses sobre Snabe, enviado de AI de la EU.",
-          "mini_headline": "La EU investiga la elección del enviado de AI",
+          "headline": "Malasia investiga formalmente\nla posible fuga de chips de AI",
+          "body": "El Gobierno de Malasia comenzó a investigar si una filial de Megaspeed desvió chips de AI a otros países.",
+          "mini_headline": "Malasia investiga fuga de chips de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/11/10/GettyImages-1246946570-scaled.jpg"
+                "src": "https://img5.yna.co.kr/photo/etc/af/2026/11/12/PAF20261112269501009_P4.jpg",
+                "cap": "Jensen Huang y Alice Huang, sospechosa de espionaje para China [AFP=foto de archivo de Yonhap]"
               },
               {
                 "t": "p",
-                "x": "El organismo de control de la EU investiga si la Comisión Europea logró “identificar, evaluar y abordar” conflictos de intereses reales o potenciales cuando nombró al presidente de Siemens enviado de AI de Ursula von der Leyen."
+                "x": "El Ministerio de Inversión, Comercio e Industria de Malasia informó el día 13 (hora local) que investiga a Speedmatrix, filial de Megaspeed International, por la posibilidad de que chips avanzados de AI se hayan desviado a otros países (AFP, Bloomberg y otros)."
               },
               {
                 "t": "p",
-                "x": "Un grupo de NGOs, entre ellas Transparency International y Corporate Europe Observatory, presentó en junio una queja ante el Defensor del Pueblo Europeo por la elección de Jim Hagemann Snabe, advirtiendo que su papel continuado en Siemens “puede comprometer la independencia e imparcialidad del enviado”."
+                "x": "Megaspeed, empresa de centros de datos con sede en Singapur, es sospechosa de sacar ilegalmente chips de Nvidia hacia China tras las restricciones estadounidenses a la exportación de chips avanzados de AI vigentes desde finales de 2022, y a través de su filial Speedmatrix, creada en 2024, importó equipos de AI de Nvidia por al menos 4600 millones de dólares (unos 6조2천억원). Alice Huang, sospechosa de ser espía china, trabajó anteriormente como directiva de la empresa."
               },
               {
                 "t": "p",
-                "x": "“He decidido abrir una investigación sobre esta queja”, escribió la Defensora del Pueblo, Teresa Anjinho, y añadió que era necesario que el organismo inspeccionara documentos de la Comisión y, posiblemente, se reuniera con “miembros relevantes del personal de la Comisión”."
+                "x": "El ministerio señaló que Speedmatrix puede introducir chips de AI en el país sin permiso, pero que \"(desde julio del año pasado) exportar, reexportar, transbordar o hacer tránsito de chips de AI estadounidenses de alto rendimiento a través de Malasia requiere obligatoriamente una autorización previa\"."
               },
               {
                 "t": "p",
-                "x": "Siemens fue uno de los principales defensores de eximir los productos cubiertos por las normas de maquinaria de la EU de la emblemática ley de AI del bloque. Snabe ocupará el cargo no remunerado hasta finales de marzo de 2027."
-              },
-              {
-                "t": "p",
-                "x": "La Comisión Europea “colaborará” con la investigación, dijo el portavoz Balazs Ujvari, quien añadió que el Ejecutivo de la EU realizó una “evaluación exhaustiva antes del nombramiento” y que “se han tomado medidas para garantizar que no haya conflicto de intereses”."
+                "x": "El ministerio indicó que \"en cooperación con la aduana, está verificando si alguno de los chips ingresados al país fue reexportado a otros países y si esa reexportación se hizo conforme a la ley\", y añadió que coopera estrechamente con las autoridades de Singapur y de Estados Unidos y que \"también estudia medidas adicionales para reforzar los controles si es necesario\". Megaspeed también es investigada desde el año pasado por las autoridades de Singapur por presuntamente declarar en falso las rutas de exportación de servidores con chips."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "EU 옴부즈만, 집행위\nAI 특사 선임 조사",
-          "body": "유럽 옴부즈만이 스나베의 EU AI 특사 임명을 두고 이해충돌 조사에 나섰다.",
-          "mini_headline": "EU, AI 특사 선임 조사",
+        "en": {
+          "headline": "Malaysia formally probes\nsuspected AI chip diversion",
+          "body": "Malaysia's government has begun investigating whether a Megaspeed subsidiary diverted AI chips.",
+          "mini_headline": "Malaysia probes AI chip diversion",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/11/10/GettyImages-1246946570-scaled.jpg"
+                "src": "https://img5.yna.co.kr/photo/etc/af/2026/11/12/PAF20261112269501009_P4.jpg",
+                "cap": "Jensen Huang and Alice Huang, who is suspected of being a Chinese spy [AFP=Yonhap file photo]"
               },
               {
                 "t": "p",
-                "x": "EU 감시기구가 유럽연합 집행위원회가 Siemens 회장을 우르줄라 폰데어라이엔 집행위원장의 AI 특사로 임명하면서 실제 또는 잠재적 이해충돌을 “식별하고 평가하고 해결”했는지 조사하고 있다."
+                "x": "Malaysia's Ministry of Investment, Trade and Industry said on the 13th (local time) that it is investigating Speedmatrix, a subsidiary of Megaspeed International, over the possibility that advanced AI chips were diverted to other countries (AFP, Bloomberg and others)."
               },
               {
                 "t": "p",
-                "x": "Transparency International과 Corporate Europe Observatory 등 NGOs 연합은 6월 유럽 옴부즈만에 짐 하게만 스나베 선임에 대한 진정을 내며, 그가 Siemens에서 계속 맡고 있는 역할이 “특사의 독립성과 공정성을 훼손할 수 있다”고 경고했다."
+                "x": "Megaspeed, a Singapore-headquartered data center company, is suspected of illegally shipping Nvidia chips to China after American restrictions on advanced AI chip exports took effect in late 2022, and it imported at least $4.6 billion (about 6조2천억원) worth of Nvidia AI equipment through Speedmatrix, a subsidiary it set up in 2024. Alice Huang, who is suspected of being a Chinese spy, previously worked as an executive at the company."
               },
               {
                 "t": "p",
-                "x": "“이 진정에 대해 조사를 개시하기로 결정했다”고 테레사 안지뉴 옴부즈만은 썼다. 그는 감시기구가 집행위 문서를 검토하고, 경우에 따라 “관련 집행위 직원들”을 만날 필요가 있다고 덧붙였다."
+                "x": "The ministry said Speedmatrix may bring AI chips into the country without a permit, but that \"(since July last year) exporting, re-exporting, transshipping or transiting high-performance American-made AI chips through Malaysia requires prior authorization.\""
               },
               {
                 "t": "p",
-                "x": "Siemens는 EU 기계 규정이 적용되는 제품을 EU의 대표 AI 법에서 면제하자고 주장한 주요 기업 중 하나였다. 스나베는 2027년 3월 말까지 무보수로 이 직을 맡는다."
-              },
-              {
-                "t": "p",
-                "x": "유럽연합 집행위원회는 조사에 “협력하겠다”고 발라주 우이바리 대변인이 밝혔다. 그는 EU 집행위가 “임명 전에 철저한 평가”를 거쳤으며 “이해충돌이 없도록 조치를 취했다”고 덧붙였다."
+                "x": "The ministry said it is \"working with the customs department to determine whether any of the chips brought into the country were re-exported to other countries and whether such re-exports were carried out in accordance with the law,\" adding that it is working closely with Singaporean and American authorities and is \"also considering additional measures to tighten controls if necessary.\" Megaspeed has also been under investigation by Singaporean authorities since last year over suspected false declarations of export routes for chip servers."
               }
             ]
           }
         },
         "ja": {
-          "headline": "EU行政監察官、欧州委の\nAI特使人選を調査",
-          "body": "欧州オンブズマンが、スナーベ氏のEU AI特使任命をめぐり利益相反の調査を始めた。",
-          "mini_headline": "EU、AI特使人選を調査",
+          "headline": "マレーシア、AI半導体\n流出疑惑を正式調査",
+          "body": "マレーシア政府がメガスピード子会社によるAI半導体流出の有無について調査に着手した。",
+          "mini_headline": "マレーシア、AIチップ流出を調査",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/11/10/GettyImages-1246946570-scaled.jpg"
+                "src": "https://img5.yna.co.kr/photo/etc/af/2026/11/12/PAF20261112269501009_P4.jpg",
+                "cap": "ジェンスン・フアン氏と、中国のスパイ疑惑が持たれているアリス・ホアン氏 [AFP=聯合ニュース資料写真]"
               },
               {
                 "t": "p",
-                "x": "EUの監視機関は、欧州委員会がSiemensの会長をウルズラ・フォンデアライエン委員長のAI特使に任命した際、実際の、あるいは潜在的な利益相反を「特定し、評価し、対処」できたかどうかを調査している。"
+                "x": "マレーシア投資貿易産業省は13日(現地時間)、先端AI半導体が他国に流出した可能性をめぐり、「メガスピード・インターナショナル」の子会社「スピードマトリックス」を調査していると明らかにした(AFP・ブルームバーグ通信など)。"
               },
               {
                 "t": "p",
-                "x": "Transparency InternationalやCorporate Europe ObservatoryなどのNGOs連合は6月、ジム・ハーゲマン・スナーベ氏の起用について欧州オンブズマンに苦情を申し立て、同氏がSiemensで役職を続けていることは「特使の独立性と公平性を損なうおそれがある」と警告した。"
+                "x": "シンガポールに本社を置くデータセンター企業メガスピードは、2022年末から施行された米国の先端AI半導体輸出規制措置以降、エヌビディアの半導体を中国へ不正に持ち出した疑いが持たれており、2024年に設立した子会社スピードマトリックスを通じて少なくとも46億ドル(約6조2천억원)相当のエヌビディアのAI機器を輸入した。中国のスパイと疑われているアリス・ホアン氏が、過去に同社の役員を務めていた。"
               },
               {
                 "t": "p",
-                "x": "「この苦情について調査を開始することを決定した」とテレサ・アンジーニョ・オンブズマンは記し、監視機関が欧州委の文書を精査し、場合によっては「関係する欧州委職員」と面会する必要があると付け加えた。"
+                "x": "投資貿易産業省は、スピードマトリックスが許可なしにAI半導体を国内に持ち込むことは可能だとしつつも、「(昨年7月から)マレーシアを経由して高性能の米国製AI半導体を輸出・再輸出・積み替え・中継する場合は、必ず事前に許可を得なければならない」と述べた。"
               },
               {
                 "t": "p",
-                "x": "Siemensは、EUの機械規則の対象となる製品を、EUの旗艦的なAI法の適用から除外するよう求めた主要企業の一つだった。スナーベ氏は2027年3月末まで無報酬でこの役職を務める。"
-              },
-              {
-                "t": "p",
-                "x": "欧州委員会は調査に「協力する」と、バラージュ・ウイヴァーリ報道官は述べた。EUの執行機関である欧州委は「任命前に徹底的な評価」を行い、「利益相反が生じないよう措置を講じた」としている。"
+                "x": "同省は「税関当局と協力し、国内に持ち込まれた半導体のうち他国へ再輸出されたものがあるか、再輸出が法に従って行われたかを把握している」としたうえで、シンガポールや米国の当局とも緊密に連携し、「必要な場合は管理を強化するための追加措置も検討している」と付け加えた。メガスピードは昨年から、半導体サーバーの輸出経路を虚偽申告した疑いでシンガポール当局の調査も受けている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "EU监察员调查欧委会\nAI特使人选",
-          "body": "欧洲监察员已就斯纳贝出任EU AI特使一事启动利益冲突调查。",
-          "mini_headline": "EU调查AI特使人选",
+          "headline": "马来西亚正式调查\nAI芯片外流嫌疑",
+          "body": "马来西亚政府已着手调查Megaspeed子公司是否外流了AI芯片。",
+          "mini_headline": "马来西亚调查AI芯片外流",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/11/10/GettyImages-1246946570-scaled.jpg"
+                "src": "https://img5.yna.co.kr/photo/etc/af/2026/11/12/PAF20261112269501009_P4.jpg",
+                "cap": "黄仁勋与被怀疑是中国间谍的Alice Huang [AFP=韩联社资料图片]"
               },
               {
                 "t": "p",
-                "x": "EU监督机构正在调查欧盟委员会在任命Siemens董事长担任乌尔苏拉·冯德莱恩的AI特使时，是否成功“识别、评估并处理”了实际或潜在的利益冲突。"
+                "x": "马来西亚投资贸易和工业部13日（当地时间）表示，正就先进AI芯片可能流向其他国家一事，调查Megaspeed International旗下子公司Speedmatrix（据AFP、彭博社等报道）。"
               },
               {
                 "t": "p",
-                "x": "包括Transparency International和Corporate Europe Observatory在内的一批NGOs于6月就吉姆·哈格曼·斯纳贝的人选向欧洲监察员投诉，警告称他在Siemens的持续任职“可能损害特使的独立性和公正性”。"
+                "x": "总部位于新加坡的数据中心企业Megaspeed被怀疑在美国自2022年底实施先进AI芯片出口限制措施后，将英伟达芯片非法运往中国，并通过2024年成立的子公司Speedmatrix进口了至少46亿美元（约6조2천억원）的英伟达AI设备。被怀疑是中国间谍的Alice Huang曾在该公司担任高管。"
               },
               {
                 "t": "p",
-                "x": "“我已决定就这一投诉展开调查，”监察员特雷莎·安吉尼奥写道，并称监督机构有必要查阅委员会文件，并可能与“委员会相关工作人员”会面。"
+                "x": "投资贸易和工业部表示，Speedmatrix即使未经许可也可以将AI芯片运入国内，但“（自去年7月起）经由马来西亚出口、再出口、转运或中转高性能美国产AI芯片，必须事先获得许可”。"
               },
               {
                 "t": "p",
-                "x": "Siemens曾是主张将受EU机械规则约束的产品排除在欧盟旗舰AI法之外的主要支持者之一。斯纳贝将无偿担任该职至2027年3月底。"
-              },
-              {
-                "t": "p",
-                "x": "欧盟委员会发言人巴拉日·乌伊瓦里表示，委员会将“配合”调查，并称EU执行机构“在任命前进行了全面评估”，且“已采取措施确保不存在利益冲突”。"
+                "x": "该部表示，“正与海关合作，掌握运入国内的芯片中是否有被再出口至其他国家的情况，以及再出口是否依法进行”，并补充称，正与新加坡和美国当局密切合作，“必要时也在考虑采取加强管控的追加措施”。Megaspeed自去年起还因涉嫌虚报芯片服务器出口路线而接受新加坡当局调查。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Ombudsman de la EU investiga\nla elección del enviado de AI",
-          "body": "El Ombudsman europeo abrió una investigación por conflicto de intereses sobre Snabe, enviado de AI de la EU.",
-          "mini_headline": "La EU investiga la elección del enviado de AI",
+          "headline": "Malasia investiga formalmente\nla posible fuga de chips de AI",
+          "body": "El Gobierno de Malasia comenzó a investigar si una filial de Megaspeed desvió chips de AI a otros países.",
+          "mini_headline": "Malasia investiga fuga de chips de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/11/10/GettyImages-1246946570-scaled.jpg"
+                "src": "https://img5.yna.co.kr/photo/etc/af/2026/11/12/PAF20261112269501009_P4.jpg",
+                "cap": "Jensen Huang y Alice Huang, sospechosa de espionaje para China [AFP=foto de archivo de Yonhap]"
               },
               {
                 "t": "p",
-                "x": "El organismo de control de la EU investiga si la Comisión Europea logró “identificar, evaluar y abordar” conflictos de intereses reales o potenciales cuando nombró al presidente de Siemens enviado de AI de Ursula von der Leyen."
+                "x": "El Ministerio de Inversión, Comercio e Industria de Malasia informó el día 13 (hora local) que investiga a Speedmatrix, filial de Megaspeed International, por la posibilidad de que chips avanzados de AI se hayan desviado a otros países (AFP, Bloomberg y otros)."
               },
               {
                 "t": "p",
-                "x": "Un grupo de NGOs, entre ellas Transparency International y Corporate Europe Observatory, presentó en junio una queja ante el Defensor del Pueblo Europeo por la elección de Jim Hagemann Snabe, advirtiendo que su papel continuado en Siemens “puede comprometer la independencia e imparcialidad del enviado”."
+                "x": "Megaspeed, empresa de centros de datos con sede en Singapur, es sospechosa de sacar ilegalmente chips de Nvidia hacia China tras las restricciones estadounidenses a la exportación de chips avanzados de AI vigentes desde finales de 2022, y a través de su filial Speedmatrix, creada en 2024, importó equipos de AI de Nvidia por al menos 4600 millones de dólares (unos 6조2천억원). Alice Huang, sospechosa de ser espía china, trabajó anteriormente como directiva de la empresa."
               },
               {
                 "t": "p",
-                "x": "“He decidido abrir una investigación sobre esta queja”, escribió la Defensora del Pueblo, Teresa Anjinho, y añadió que era necesario que el organismo inspeccionara documentos de la Comisión y, posiblemente, se reuniera con “miembros relevantes del personal de la Comisión”."
+                "x": "El ministerio señaló que Speedmatrix puede introducir chips de AI en el país sin permiso, pero que \"(desde julio del año pasado) exportar, reexportar, transbordar o hacer tránsito de chips de AI estadounidenses de alto rendimiento a través de Malasia requiere obligatoriamente una autorización previa\"."
               },
               {
                 "t": "p",
-                "x": "Siemens fue uno de los principales defensores de eximir los productos cubiertos por las normas de maquinaria de la EU de la emblemática ley de AI del bloque. Snabe ocupará el cargo no remunerado hasta finales de marzo de 2027."
-              },
-              {
-                "t": "p",
-                "x": "La Comisión Europea “colaborará” con la investigación, dijo el portavoz Balazs Ujvari, quien añadió que el Ejecutivo de la EU realizó una “evaluación exhaustiva antes del nombramiento” y que “se han tomado medidas para garantizar que no haya conflicto de intereses”."
+                "x": "El ministerio indicó que \"en cooperación con la aduana, está verificando si alguno de los chips ingresados al país fue reexportado a otros países y si esa reexportación se hizo conforme a la ley\", y añadió que coopera estrechamente con las autoridades de Singapur y de Estados Unidos y que \"también estudia medidas adicionales para reforzar los controles si es necesario\". Megaspeed también es investigada desde el año pasado por las autoridades de Singapur por presuntamente declarar en falso las rutas de exportación de servidores con chips."
               }
             ]
           }
@@ -1341,213 +1431,219 @@
       }
     },
     {
-      "id": "taiwan-cib-election-deepfakes",
+      "id": "politics-whitehall-ai-applications",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "대만 경찰, 선거 허위정보\n219건 수사",
-      "body": "대만 경찰이 선거 딥페이크 등 134건, 176명을 송치했다고 CIB가 밝혔다.",
-      "mini_headline": "대만, 선거 딥페이크 수사",
+      "headline": "AI 지원서 급증에\nWhitehall 대면면접",
+      "body": "AI-generated 지원서가 의심되자 Whitehall이 대면 면접을 늘린다.",
+      "mini_headline": "Whitehall, 대면 면접 확대",
       "tool": "Politics",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/12/2003867622",
-      "accent": "#eb367f",
+      "source": "POLITICO Europe",
+      "url": "https://www.politico.eu/article/whitehall-increase-in-person-job-interviews-after-ai-applications/",
+      "accent": "#ff5a4d",
       "motif": "cube",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://img.taipeitimes.com/images/2026/11/12/6af52f97d911a.jpg"
+            "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/13/iStock-2249077406-scaled.jpg",
+            "cap": "한 U.K. 정부 관계자는 채용 담당자들이 직무별 지원서 수가 급증했지만 … 적격 후보자 수에는 변화가 없었다고 밝혔다. | iStock"
           },
           {
             "t": "p",
-            "x": "경찰이 전국에서 선거 관련 허위정보와 딥페이크 영상 사건 219건을 수사해 134건, 176명을 검찰에 넘겨 추가 수사를 받게 했다고 형사경찰국(CIB)이 어제 밝혔다."
+            "x": "LONDON — U.K. 공무원 조직이 AI로 만든 지원서가 쏟아지자 대면 면접을 늘리고 서면 자기소개서 비중은 줄일 계획이다."
           },
           {
             "t": "p",
-            "x": "형사경찰국은 인공지능(AI) 생성 콘텐츠가 빠르게 발전하면서 허위정보도 텍스트·이미지를 넘어 매우 사실적인 딥페이크 영상과 음성으로 진화했다고 설명했다. 후보자의 목소리와 외모를 흉내 내 발언이나 사건을 조작할 수 있다는 것이다."
+            "x": "한 U.K. 정부 관계자에 따르면 채용 담당자들은 직무마다 지원서가 크게 늘었는데도 적격 후보자 수는 전체적으로 그대로였다고 했다. 앤토니아 로미오(Antonia Romeo) 내각장관은 일부 지원자가 AI로 밋밋한 자기소개서를 쓴다고 본다."
           },
           {
             "t": "p",
-            "x": "경찰은 AI 기반(AI-based) 딥페이크 탐지와 디지털 포렌식, 온라인 정보 분석으로 불법 의심 콘텐츠를 빠르게 가려내고 증거를 모아 출처를 추적하는 등 기술 수사 역량을 끌어올렸다고 밝혔다."
+            "x": "가장 극단적인 사례에서는 지원서 전체는 물론 화상 면접까지 봇이 만든 것으로 보였다고 이 관계자는 덧붙였다. 공무원들이 후보자가 실제 사람이 아니라고 의심해 화상 면접을 일찍 끝낸 일도 적어도 한 번 있었다."
           },
           {
             "t": "p",
-            "x": "후보자는 자기 목소리나 모습을 사칭한 딥페이크로 의심되는 콘텐츠를 발견하면 CIB에 감식을 신청할 수 있다. 딥페이크로 확인되면 디지털발전부의 선거 AI 딥페이크 신고 플랫폼에 요청을 내면 되고, 온라인 플랫폼은 이틀 안에 해당 콘텐츠의 접근 제한·삭제·게시 중단 조치를 해야 한다."
+            "x": "공무원 조직은 자기소개서에서 벗어날 계획이다. 지도부는 대표 채용 프로그램에 대면 면접 의무화를 되살리는 방안을 검토하고 있다. 새 선발 체계는 2027년 4월부터 시행될 예정이다."
           },
           {
             "t": "p",
-            "x": "형사경찰국에 따르면 후보자 관련 딥페이크 영상이나 기타 콘텐츠를 퍼뜨리거나 방송한 사람은 최고 칠 년의 징역형을 받을 수 있다."
+            "x": "로미오(Romeo)는 AI가 Whitehall의 일하는 방식을 “근본적으로 다시 쓸” 것이라고 했다. FDA 노조의 데이브 펜먼(Dave Penman)은 “이런 정당한 우려가 있다고 해서 시스템 전체가 망가졌다거나 지원자 모두가 속이고 있다는 뜻은 아니다”라고 말했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Taiwan police probe 219 cases\nof election misinformation",
-          "body": "Taiwan police referred 176 people in 134 election deepfake and misinformation cases to prosecutors, the CIB said.",
-          "mini_headline": "Taiwan probes election deepfakes",
+          "headline": "Whitehall plans in-person\ninterviews over AI applications",
+          "body": "Civil service leaders suspect some applications were wholly AI-generated, so Whitehall plans more in-person interviews.",
+          "mini_headline": "Whitehall plans in-person interviews",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.taipeitimes.com/images/2026/11/12/6af52f97d911a.jpg"
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/13/iStock-2249077406-scaled.jpg",
+                "cap": "Recruiting managers have seen a sharp rise in the number of applications for each role ... but no change to the number of viable candidates, noted one U.K. government official. | iStock"
               },
               {
                 "t": "p",
-                "x": "Police have investigated 219 cases nationwide involving election-related misinformation and deepfake videos, referring 176 people in 134 cases to prosecutors for further investigation, the Criminal Investigation Bureau (CIB) said yesterday."
+                "x": "LONDON — The U.K. civil service plans to hold more in-person job interviews and diminish the role of written candidate statements in an attempt to combat a surge in applications created by AI."
               },
               {
                 "t": "p",
-                "x": "With the rapid development of content generated using artificial intelligence (AI), misinformation has evolved from text and images to highly realistic deepfake videos and audio, the bureau said. Such content can imitate candidates' voices and appearances to fabricate statements or events."
+                "x": "Recruiting managers have seen a sharp rise in applications for each role without any change to the overall number of viable candidates, said a U.K. government official. Cabinet Secretary Antonia Romeo believes some applicants are using AI to generate bland personal statements."
               },
               {
                 "t": "p",
-                "x": "Police have improved their technological investigative capabilities by using AI-based deepfake detection, digital forensics and online intelligence analysis to quickly verify suspected illegal content, collect evidence and trace its origins, it said."
+                "x": "In the most extreme cases, entire applications — even virtual interviews — appeared to have been generated by bots, the official added. In at least one case, civil servants terminated a video interview early, suspecting the candidate was not a real person."
               },
               {
                 "t": "p",
-                "x": "Candidates who discover deepfake content they suspect impersonates their voice or likeness can apply to the CIB for forensic authentication. Once confirmed, a request can be submitted through the Ministry of Digital Affairs' election AI deepfake reporting platform, and online platforms are required to restrict access to, remove or take down the content within two days."
+                "x": "The civil service plans to move away from personal statements, and for flagship recruitment schemes leaders are looking at reintroducing compulsory face-to-face interviews. A new selection framework is due from April 2027."
               },
               {
                 "t": "p",
-                "x": "Anyone who disseminates or broadcasts deepfake videos or other content involving candidates faces a maximum prison sentence of seven years, the bureau said."
+                "x": "Romeo said AI would “radically rewrite” the way Whitehall works. Dave Penman of the FDA union said: “These legitimate concerns don’t mean that the whole system is broken and everyone applying for jobs is faking it.”"
               }
             ]
           }
         },
         "ko": {
-          "headline": "대만 경찰, 선거 허위정보\n219건 수사",
-          "body": "대만 경찰이 선거 딥페이크 등 134건, 176명을 송치했다고 CIB가 밝혔다.",
-          "mini_headline": "대만, 선거 딥페이크 수사",
+          "headline": "AI 지원서 급증에\nWhitehall 대면면접",
+          "body": "AI-generated 지원서가 의심되자 Whitehall이 대면 면접을 늘린다.",
+          "mini_headline": "Whitehall, 대면 면접 확대",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.taipeitimes.com/images/2026/11/12/6af52f97d911a.jpg"
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/13/iStock-2249077406-scaled.jpg",
+                "cap": "한 U.K. 정부 관계자는 채용 담당자들이 직무별 지원서 수가 급증했지만 … 적격 후보자 수에는 변화가 없었다고 밝혔다. | iStock"
               },
               {
                 "t": "p",
-                "x": "경찰이 전국에서 선거 관련 허위정보와 딥페이크 영상 사건 219건을 수사해 134건, 176명을 검찰에 넘겨 추가 수사를 받게 했다고 형사경찰국(CIB)이 어제 밝혔다."
+                "x": "LONDON — U.K. 공무원 조직이 AI로 만든 지원서가 쏟아지자 대면 면접을 늘리고 서면 자기소개서 비중은 줄일 계획이다."
               },
               {
                 "t": "p",
-                "x": "형사경찰국은 인공지능(AI) 생성 콘텐츠가 빠르게 발전하면서 허위정보도 텍스트·이미지를 넘어 매우 사실적인 딥페이크 영상과 음성으로 진화했다고 설명했다. 후보자의 목소리와 외모를 흉내 내 발언이나 사건을 조작할 수 있다는 것이다."
+                "x": "한 U.K. 정부 관계자에 따르면 채용 담당자들은 직무마다 지원서가 크게 늘었는데도 적격 후보자 수는 전체적으로 그대로였다고 했다. 앤토니아 로미오(Antonia Romeo) 내각장관은 일부 지원자가 AI로 밋밋한 자기소개서를 쓴다고 본다."
               },
               {
                 "t": "p",
-                "x": "경찰은 AI 기반(AI-based) 딥페이크 탐지와 디지털 포렌식, 온라인 정보 분석으로 불법 의심 콘텐츠를 빠르게 가려내고 증거를 모아 출처를 추적하는 등 기술 수사 역량을 끌어올렸다고 밝혔다."
+                "x": "가장 극단적인 사례에서는 지원서 전체는 물론 화상 면접까지 봇이 만든 것으로 보였다고 이 관계자는 덧붙였다. 공무원들이 후보자가 실제 사람이 아니라고 의심해 화상 면접을 일찍 끝낸 일도 적어도 한 번 있었다."
               },
               {
                 "t": "p",
-                "x": "후보자는 자기 목소리나 모습을 사칭한 딥페이크로 의심되는 콘텐츠를 발견하면 CIB에 감식을 신청할 수 있다. 딥페이크로 확인되면 디지털발전부의 선거 AI 딥페이크 신고 플랫폼에 요청을 내면 되고, 온라인 플랫폼은 이틀 안에 해당 콘텐츠의 접근 제한·삭제·게시 중단 조치를 해야 한다."
+                "x": "공무원 조직은 자기소개서에서 벗어날 계획이다. 지도부는 대표 채용 프로그램에 대면 면접 의무화를 되살리는 방안을 검토하고 있다. 새 선발 체계는 2027년 4월부터 시행될 예정이다."
               },
               {
                 "t": "p",
-                "x": "형사경찰국에 따르면 후보자 관련 딥페이크 영상이나 기타 콘텐츠를 퍼뜨리거나 방송한 사람은 최고 칠 년의 징역형을 받을 수 있다."
+                "x": "로미오(Romeo)는 AI가 Whitehall의 일하는 방식을 “근본적으로 다시 쓸” 것이라고 했다. FDA 노조의 데이브 펜먼(Dave Penman)은 “이런 정당한 우려가 있다고 해서 시스템 전체가 망가졌다거나 지원자 모두가 속이고 있다는 뜻은 아니다”라고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "台湾警察、選挙の偽情報\n219件を捜査",
-          "body": "台湾警察が選挙のディープフェイクなど134件で176人を送検したとCIBが発表した。",
-          "mini_headline": "台湾、選挙ディープフェイクを捜査",
+          "headline": "AI応募急増を受け\nWhitehallが対面面接",
+          "body": "AI-generatedの応募を疑い、Whitehallは対面面接を増やす。",
+          "mini_headline": "Whitehall、対面面接を拡大",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.taipeitimes.com/images/2026/11/12/6af52f97d911a.jpg"
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/13/iStock-2249077406-scaled.jpg",
+                "cap": "採用担当者のもとでは各ポストへの応募数が急増しているが…有力な候補者の数は変わっていないと、あるU.K.政府関係者は指摘した。| iStock"
               },
               {
                 "t": "p",
-                "x": "警察は全国で選挙関連の偽情報やディープフェイク動画に関わる219件を捜査し、134件で176人を追加捜査のため検察に送致したと、刑事警察局（CIB）が昨日明らかにした。"
+                "x": "LONDON — U.K.の公務員組織は、AIで作られた応募の急増に対抗するため、対面での採用面接を増やし、書面による志望動機書の役割を縮小する計画だ。"
               },
               {
                 "t": "p",
-                "x": "人工知能（AI）で生成されたコンテンツの急速な発展により、偽情報は文字や画像から極めて精巧なディープフェイク動画・音声へと進化したと同局は述べた。こうしたコンテンツは候補者の声や容姿をまねて、発言や出来事を捏造することができる。"
+                "x": "あるU.K.政府関係者によると、採用担当者のもとでは各ポストへの応募が急増しているものの、有力な候補者の総数は変わっていない。アントニア・ロメオ(Antonia Romeo)内閣官房長は、一部の応募者がAIを使って無難な志望動機書を作成しているとみている。"
               },
               {
                 "t": "p",
-                "x": "警察はAIベース（AI-based）のディープフェイク検出、デジタル・フォレンジック、オンライン情報分析を活用し、違法の疑いがあるコンテンツを迅速に検証し、証拠を収集し、出所を追跡するなど、技術的な捜査能力を高めたという。"
+                "x": "同関係者はさらに、最も極端なケースでは、応募書類全体どころかオンライン面接までもがボットによって作られたように見えたと付け加えた。少なくとも一件では、候補者が実在の人物ではないと疑った公務員がビデオ面接を途中で打ち切った。"
               },
               {
                 "t": "p",
-                "x": "自分の声や容姿をなりすましたと疑われるディープフェイクを見つけた候補者は、CIBに鑑識を申請できる。確認されれば、デジタル発展部の選挙AIディープフェイク通報プラットフォームを通じて要請を提出でき、オンラインプラットフォームは二日以内に当該コンテンツへのアクセス制限、削除または取り下げを行わなければならない。"
+                "x": "公務員組織は志望動機書から距離を置く方針で、主要な採用制度については対面面接の義務化を再導入することを幹部らが検討している。新たな選考の枠組みは2027年4月から導入される予定だ。"
               },
               {
                 "t": "p",
-                "x": "候補者に関わるディープフェイク動画などのコンテンツを拡散・放送した者は、最高で懲役七年に処される可能性があると同局は述べた。"
+                "x": "ロメオ(Romeo)氏は、AIがWhitehallの働き方を「根本的に書き換える」と述べた。FDA労組のデイブ・ペンマン(Dave Penman)氏は「こうした正当な懸念があるからといって、制度全体が壊れていて、求職者全員がごまかしているということにはならない」と語った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "台湾警方调查219起\n选举虚假信息案",
-          "body": "台湾CIB称，警方已将134起选举深度伪造及虚假信息案中的176人移送检方。",
-          "mini_headline": "台湾调查选举深度伪造",
+          "headline": "AI求职申请泛滥\nWhitehall增当面面试",
+          "body": "公务员高层怀疑部分申请完全为AI-generated，Whitehall拟增加当面面试。",
+          "mini_headline": "Whitehall拟增加当面面试",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.taipeitimes.com/images/2026/11/12/6af52f97d911a.jpg"
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/13/iStock-2249077406-scaled.jpg",
+                "cap": "一位U.K.政府官员指出，招聘经理发现每个职位的申请数量急剧增加……但合格候选人的数量没有变化。| iStock"
               },
               {
                 "t": "p",
-                "x": "刑事警察局（CIB）昨日表示，警方已在全国调查219起涉及选举相关虚假信息和深度伪造视频的案件，并将其中134起案件的176人移送检方进一步侦查。"
+                "x": "LONDON — U.K.公务员系统计划增加当面求职面试，并弱化书面个人陈述的作用，以应对AI生成申请的激增。"
               },
               {
                 "t": "p",
-                "x": "该局表示，随着人工智能（AI）生成内容的快速发展，虚假信息已从文字和图片演变为高度逼真的深度伪造视频和音频。此类内容可模仿候选人的声音和外貌，捏造言论或事件。"
+                "x": "一位U.K.政府官员表示，招聘经理发现每个职位的申请量急剧上升，但合格候选人的总数没有任何变化。内阁秘书Antonia Romeo认为，一些申请人正在用AI生成平淡的个人陈述。"
               },
               {
                 "t": "p",
-                "x": "该局称，警方运用基于AI（AI-based）的深度伪造检测、数字鉴识和网络情报分析，提升了技术侦查能力，以便迅速核实涉嫌违法内容、收集证据并追溯来源。"
+                "x": "这位官员补充说，在最极端的情况下，整份申请乃至线上面试似乎都由机器人生成。至少有一次，公务员因怀疑候选人不是真人而提前终止了视频面试。"
               },
               {
                 "t": "p",
-                "x": "候选人若发现疑似冒用其声音或肖像的深度伪造内容，可向CIB申请鉴识。经确认后，可通过数字发展部的选举AI深度伪造通报平台提交请求，网络平台须在两天内限制访问、移除或下架相关内容。"
+                "x": "公务员系统计划不再依赖个人陈述，对于旗舰招聘项目，高层正考虑重新引入强制性的当面面试。新的选拔框架定于2027年4月起实施。"
               },
               {
                 "t": "p",
-                "x": "该局表示，散布或播放涉及候选人的深度伪造视频或其他内容者，最高可处七年有期徒刑。"
+                "x": "Romeo表示，AI将“彻底改写”Whitehall的工作方式。FDA工会的Dave Penman说：“这些合理的担忧并不意味着整个体系已经崩坏，也不意味着每个求职者都在造假。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "La policía de Taiwán investiga\n219 casos de desinformación",
-          "body": "La policía de Taiwán remitió a 176 personas en 134 casos de deepfakes electorales a la fiscalía, según la CIB.",
-          "mini_headline": "Taiwán investiga deepfakes electorales",
+          "headline": "Whitehall prevé más entrevistas\npresenciales ante el uso de AI",
+          "body": "Se sospecha que algunas solicitudes eran por completo AI-generated, y Whitehall prevé más entrevistas presenciales.",
+          "mini_headline": "Whitehall prevé entrevistas presenciales",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.taipeitimes.com/images/2026/11/12/6af52f97d911a.jpg"
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/13/iStock-2249077406-scaled.jpg",
+                "cap": "Los responsables de selección han visto un fuerte aumento en el número de solicitudes por puesto... pero ningún cambio en el número de candidatos viables, señaló un funcionario del Gobierno de U.K. | iStock"
               },
               {
                 "t": "p",
-                "x": "La policía ha investigado 219 casos en todo el país relacionados con desinformación electoral y videos deepfake, y ha remitido a 176 personas en 134 casos a la fiscalía para una investigación más a fondo, informó ayer la Oficina de Investigación Criminal (CIB)."
+                "x": "LONDON — La administración pública de U.K. prevé celebrar más entrevistas de trabajo presenciales y reducir el peso de las declaraciones escritas de los candidatos para frenar el aumento de solicitudes creadas con AI."
               },
               {
                 "t": "p",
-                "x": "Con el rápido desarrollo de los contenidos generados con inteligencia artificial (AI), la desinformación ha pasado del texto y las imágenes a videos y audios deepfake muy realistas, señaló la oficina. Estos contenidos pueden imitar la voz y la apariencia de los candidatos para fabricar declaraciones o hechos."
+                "x": "Los responsables de selección han visto un fuerte aumento de solicitudes por puesto sin ningún cambio en el número total de candidatos viables, dijo un funcionario del Gobierno de U.K. La secretaria del Gabinete, Antonia Romeo, cree que algunos aspirantes usan AI para generar declaraciones personales anodinas."
               },
               {
                 "t": "p",
-                "x": "La policía ha mejorado su capacidad de investigación tecnológica mediante la detección de deepfakes basada en AI (AI-based), la informática forense y el análisis de inteligencia en línea para verificar con rapidez contenidos presuntamente ilegales, reunir pruebas y rastrear su origen, indicó."
+                "x": "En los casos más extremos, solicitudes completas —incluso entrevistas virtuales— parecían haber sido generadas por bots, añadió el funcionario. En al menos un caso, los funcionarios pusieron fin antes de tiempo a una entrevista por video al sospechar que el candidato no era una persona real."
               },
               {
                 "t": "p",
-                "x": "Los candidatos que descubran contenido deepfake que sospechen que suplanta su voz o su imagen pueden solicitar a la CIB una autenticación forense. Una vez confirmada, se puede presentar una solicitud a través de la plataforma de denuncias de deepfakes electorales con AI del Ministerio de Asuntos Digitales, y las plataformas en línea deben restringir el acceso, eliminar o retirar el contenido en un plazo de dos días."
+                "x": "La administración pública planea dejar atrás las declaraciones personales, y para los programas de selección emblemáticos sus responsables estudian reintroducir entrevistas presenciales obligatorias. Un nuevo marco de selección está previsto a partir de abril de 2027."
               },
               {
                 "t": "p",
-                "x": "Quien difunda o transmita videos deepfake u otros contenidos relacionados con candidatos se expone a una pena máxima de siete años de prisión, señaló la oficina."
+                "x": "Romeo dijo que la AI “reescribirá radicalmente” la forma de trabajar de Whitehall. Dave Penman, del sindicato FDA, afirmó: “Estas preocupaciones legítimas no significan que todo el sistema esté roto ni que todos los que solicitan empleo estén fingiendo”."
               }
             ]
           }
@@ -1555,137 +1651,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "대만 경찰, 선거 허위정보\n219건 수사",
-          "body": "대만 경찰이 선거 딥페이크 등 134건, 176명을 송치했다고 CIB가 밝혔다.",
-          "mini_headline": "대만, 선거 딥페이크 수사",
+          "headline": "AI 지원서 급증에\nWhitehall 대면면접",
+          "body": "AI-generated 지원서 의심에 Whitehall이 대면 면접을 늘린다.",
+          "mini_headline": "Whitehall, 대면 면접 확대",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.taipeitimes.com/images/2026/11/12/6af52f97d911a.jpg"
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/13/iStock-2249077406-scaled.jpg",
+                "cap": "한 U.K. 정부 관계자는 채용 담당자들이 직무별 지원서 수가 급증했지만 … 적격 후보자 수에는 변화가 없었다고 밝혔다. | iStock"
               },
               {
                 "t": "p",
-                "x": "경찰이 전국에서 선거 관련 허위정보와 딥페이크 영상 사건 219건을 수사해 134건, 176명을 검찰에 넘겨 추가 수사를 받게 했다고 형사경찰국(CIB)이 어제 밝혔다."
+                "x": "LONDON — U.K. 공무원 조직이 AI로 만든 지원서 급증에 대응하기 위해 대면 면접을 늘리고 서면 자기소개서의 비중을 줄일 계획이다."
               },
               {
                 "t": "p",
-                "x": "인공지능(AI)으로 만든 콘텐츠가 빠르게 발전하면서 허위정보도 텍스트와 이미지에서 매우 사실적인 딥페이크 영상과 음성으로 진화했다고 형사경찰국은 설명했다. 이런 콘텐츠는 후보자의 목소리와 외모를 흉내 내 발언이나 사건을 조작할 수 있다."
+                "x": "한 U.K. 정부 관계자는 채용 담당자들이 직무별 지원서가 급증했지만 적격 후보자 전체 수에는 변화가 없었다고 말했다. 앤토니아 로미오(Antonia Romeo) 내각장관은 일부 지원자가 AI로 밋밋한 자기소개서를 만들고 있다고 본다."
               },
               {
                 "t": "p",
-                "x": "경찰은 AI 기반(AI-based) 딥페이크 탐지, 디지털 포렌식, 온라인 정보 분석을 활용해 불법 의심 콘텐츠를 신속히 확인하고 증거를 수집하며 출처를 추적하는 등 기술 수사 역량을 높였다고 밝혔다."
+                "x": "이 관계자는 가장 극단적인 경우 지원서 전체, 심지어 화상 면접까지 봇이 만든 것으로 보였다고 덧붙였다. 적어도 한 번은 공무원들이 후보자가 실제 사람이 아니라고 의심해 화상 면접을 일찍 중단했다."
               },
               {
                 "t": "p",
-                "x": "자신의 목소리나 모습을 사칭한 것으로 의심되는 딥페이크 콘텐츠를 발견한 후보자는 CIB에 감식을 신청할 수 있다. 확인되면 디지털발전부의 선거 AI 딥페이크 신고 플랫폼을 통해 요청을 낼 수 있고, 온라인 플랫폼은 이틀 안에 해당 콘텐츠의 접근을 제한하거나 삭제 또는 내려야 한다."
+                "x": "공무원 조직은 자기소개서에서 벗어날 계획이며, 대표 채용 프로그램에는 대면 면접 의무화를 다시 도입하는 방안을 지도부가 검토하고 있다. 새 선발 체계는 2027년 4월부터 시행될 예정이다."
               },
               {
                 "t": "p",
-                "x": "후보자와 관련된 딥페이크 영상이나 기타 콘텐츠를 유포하거나 방송하는 사람은 최고 칠 년의 징역형을 받을 수 있다고 형사경찰국은 밝혔다."
+                "x": "로미오(Romeo)는 AI가 Whitehall의 일하는 방식을 “근본적으로 다시 쓸” 것이라고 말했다. FDA 노조의 데이브 펜먼(Dave Penman)은 “이런 정당한 우려가 있다고 해서 시스템 전체가 망가졌다거나 지원자 모두가 속이고 있다는 뜻은 아니다”라고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "台湾警察、選挙の偽情報\n219件を捜査",
-          "body": "台湾警察が選挙のディープフェイクなど134件で176人を送検したとCIBが発表した。",
-          "mini_headline": "台湾、選挙ディープフェイクを捜査",
+          "headline": "AI応募急増を受け\nWhitehallが対面面接",
+          "body": "AI-generatedの応募を疑い、Whitehallは対面面接を増やす。",
+          "mini_headline": "Whitehall、対面面接を拡大",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.taipeitimes.com/images/2026/11/12/6af52f97d911a.jpg"
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/13/iStock-2249077406-scaled.jpg",
+                "cap": "採用担当者のもとでは各ポストへの応募数が急増しているが…有力な候補者の数は変わっていないと、あるU.K.政府関係者は指摘した。| iStock"
               },
               {
                 "t": "p",
-                "x": "警察は全国で選挙関連の偽情報やディープフェイク動画に関わる219件を捜査し、134件で176人を追加捜査のため検察に送致したと、刑事警察局（CIB）が昨日明らかにした。"
+                "x": "LONDON — U.K.の公務員組織は、AIで作られた応募の急増に対抗するため、対面での採用面接を増やし、書面による志望動機書の役割を縮小する計画だ。"
               },
               {
                 "t": "p",
-                "x": "人工知能（AI）で生成されたコンテンツの急速な発展により、偽情報は文字や画像から極めて精巧なディープフェイク動画・音声へと進化したと同局は述べた。こうしたコンテンツは候補者の声や容姿をまねて、発言や出来事を捏造することができる。"
+                "x": "あるU.K.政府関係者によると、採用担当者のもとでは各ポストへの応募が急増しているものの、有力な候補者の総数は変わっていない。アントニア・ロメオ(Antonia Romeo)内閣官房長は、一部の応募者がAIを使って無難な志望動機書を作成しているとみている。"
               },
               {
                 "t": "p",
-                "x": "警察はAIベース（AI-based）のディープフェイク検出、デジタル・フォレンジック、オンライン情報分析を活用し、違法の疑いがあるコンテンツを迅速に検証し、証拠を収集し、出所を追跡するなど、技術的な捜査能力を高めたという。"
+                "x": "同関係者はさらに、最も極端なケースでは、応募書類全体どころかオンライン面接までもがボットによって作られたように見えたと付け加えた。少なくとも一件では、候補者が実在の人物ではないと疑った公務員がビデオ面接を途中で打ち切った。"
               },
               {
                 "t": "p",
-                "x": "自分の声や容姿をなりすましたと疑われるディープフェイクを見つけた候補者は、CIBに鑑識を申請できる。確認されれば、デジタル発展部の選挙AIディープフェイク通報プラットフォームを通じて要請を提出でき、オンラインプラットフォームは二日以内に当該コンテンツへのアクセス制限、削除または取り下げを行わなければならない。"
+                "x": "公務員組織は志望動機書から距離を置く方針で、主要な採用制度については対面面接の義務化を再導入することを幹部らが検討している。新たな選考の枠組みは2027年4月から導入される予定だ。"
               },
               {
                 "t": "p",
-                "x": "候補者に関わるディープフェイク動画などのコンテンツを拡散・放送した者は、最高で懲役七年に処される可能性があると同局は述べた。"
+                "x": "ロメオ(Romeo)氏は、AIがWhitehallの働き方を「根本的に書き換える」と述べた。FDA労組のデイブ・ペンマン(Dave Penman)氏は「こうした正当な懸念があるからといって、制度全体が壊れていて、求職者全員がごまかしているということにはならない」と語った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "台湾警方调查219起\n选举虚假信息案",
-          "body": "台湾CIB称，警方已将134起选举深度伪造及虚假信息案中的176人移送检方。",
-          "mini_headline": "台湾调查选举深度伪造",
+          "headline": "AI求职申请泛滥\nWhitehall增当面面试",
+          "body": "公务员高层怀疑部分申请完全为AI-generated，Whitehall拟增加当面面试。",
+          "mini_headline": "Whitehall拟增加当面面试",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.taipeitimes.com/images/2026/11/12/6af52f97d911a.jpg"
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/13/iStock-2249077406-scaled.jpg",
+                "cap": "一位U.K.政府官员指出，招聘经理发现每个职位的申请数量急剧增加……但合格候选人的数量没有变化。| iStock"
               },
               {
                 "t": "p",
-                "x": "刑事警察局（CIB）昨日表示，警方已在全国调查219起涉及选举相关虚假信息和深度伪造视频的案件，并将其中134起案件的176人移送检方进一步侦查。"
+                "x": "LONDON — U.K.公务员系统计划增加当面求职面试，并弱化书面个人陈述的作用，以应对AI生成申请的激增。"
               },
               {
                 "t": "p",
-                "x": "该局表示，随着人工智能（AI）生成内容的快速发展，虚假信息已从文字和图片演变为高度逼真的深度伪造视频和音频。此类内容可模仿候选人的声音和外貌，捏造言论或事件。"
+                "x": "一位U.K.政府官员表示，招聘经理发现每个职位的申请量急剧上升，但合格候选人的总数没有任何变化。内阁秘书Antonia Romeo认为，一些申请人正在用AI生成平淡的个人陈述。"
               },
               {
                 "t": "p",
-                "x": "该局称，警方运用基于AI（AI-based）的深度伪造检测、数字鉴识和网络情报分析，提升了技术侦查能力，以便迅速核实涉嫌违法内容、收集证据并追溯来源。"
+                "x": "这位官员补充说，在最极端的情况下，整份申请乃至线上面试似乎都由机器人生成。至少有一次，公务员因怀疑候选人不是真人而提前终止了视频面试。"
               },
               {
                 "t": "p",
-                "x": "候选人若发现疑似冒用其声音或肖像的深度伪造内容，可向CIB申请鉴识。经确认后，可通过数字发展部的选举AI深度伪造通报平台提交请求，网络平台须在两天内限制访问、移除或下架相关内容。"
+                "x": "公务员系统计划不再依赖个人陈述，对于旗舰招聘项目，高层正考虑重新引入强制性的当面面试。新的选拔框架定于2027年4月起实施。"
               },
               {
                 "t": "p",
-                "x": "该局表示，散布或播放涉及候选人的深度伪造视频或其他内容者，最高可处七年有期徒刑。"
+                "x": "Romeo表示，AI将“彻底改写”Whitehall的工作方式。FDA工会的Dave Penman说：“这些合理的担忧并不意味着整个体系已经崩坏，也不意味着每个求职者都在造假。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "La policía de Taiwán investiga\n219 casos de desinformación",
-          "body": "La policía de Taiwán remitió a 176 personas en 134 casos de deepfakes electorales a la fiscalía, según la CIB.",
-          "mini_headline": "Taiwán investiga deepfakes electorales",
+          "headline": "Whitehall prevé más entrevistas\npresenciales ante el uso de AI",
+          "body": "Se sospecha que algunas solicitudes eran por completo AI-generated, y Whitehall prevé más entrevistas presenciales.",
+          "mini_headline": "Whitehall prevé entrevistas presenciales",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.taipeitimes.com/images/2026/11/12/6af52f97d911a.jpg"
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/13/iStock-2249077406-scaled.jpg",
+                "cap": "Los responsables de selección han visto un fuerte aumento en el número de solicitudes por puesto... pero ningún cambio en el número de candidatos viables, señaló un funcionario del Gobierno de U.K. | iStock"
               },
               {
                 "t": "p",
-                "x": "La policía ha investigado 219 casos en todo el país relacionados con desinformación electoral y videos deepfake, y ha remitido a 176 personas en 134 casos a la fiscalía para una investigación más a fondo, informó ayer la Oficina de Investigación Criminal (CIB)."
+                "x": "LONDON — La administración pública de U.K. prevé celebrar más entrevistas de trabajo presenciales y reducir el peso de las declaraciones escritas de los candidatos para frenar el aumento de solicitudes creadas con AI."
               },
               {
                 "t": "p",
-                "x": "Con el rápido desarrollo de los contenidos generados con inteligencia artificial (AI), la desinformación ha pasado del texto y las imágenes a videos y audios deepfake muy realistas, señaló la oficina. Estos contenidos pueden imitar la voz y la apariencia de los candidatos para fabricar declaraciones o hechos."
+                "x": "Los responsables de selección han visto un fuerte aumento de solicitudes por puesto sin ningún cambio en el número total de candidatos viables, dijo un funcionario del Gobierno de U.K. La secretaria del Gabinete, Antonia Romeo, cree que algunos aspirantes usan AI para generar declaraciones personales anodinas."
               },
               {
                 "t": "p",
-                "x": "La policía ha mejorado su capacidad de investigación tecnológica mediante la detección de deepfakes basada en AI (AI-based), la informática forense y el análisis de inteligencia en línea para verificar con rapidez contenidos presuntamente ilegales, reunir pruebas y rastrear su origen, indicó."
+                "x": "En los casos más extremos, solicitudes completas —incluso entrevistas virtuales— parecían haber sido generadas por bots, añadió el funcionario. En al menos un caso, los funcionarios pusieron fin antes de tiempo a una entrevista por video al sospechar que el candidato no era una persona real."
               },
               {
                 "t": "p",
-                "x": "Los candidatos que descubran contenido deepfake que sospechen que suplanta su voz o su imagen pueden solicitar a la CIB una autenticación forense. Una vez confirmada, se puede presentar una solicitud a través de la plataforma de denuncias de deepfakes electorales con AI del Ministerio de Asuntos Digitales, y las plataformas en línea deben restringir el acceso, eliminar o retirar el contenido en un plazo de dos días."
+                "x": "La administración pública planea dejar atrás las declaraciones personales, y para los programas de selección emblemáticos sus responsables estudian reintroducir entrevistas presenciales obligatorias. Un nuevo marco de selección está previsto a partir de abril de 2027."
               },
               {
                 "t": "p",
-                "x": "Quien difunda o transmita videos deepfake u otros contenidos relacionados con candidatos se expone a una pena máxima de siete años de prisión, señaló la oficina."
+                "x": "Romeo dijo que la AI “reescribirá radicalmente” la forma de trabajar de Whitehall. Dave Penman, del sindicato FDA, afirmó: “Estas preocupaciones legítimas no significan que todo el sistema esté roto ni que todos los que solicitan empleo estén fingiendo”."
               }
             ]
           }

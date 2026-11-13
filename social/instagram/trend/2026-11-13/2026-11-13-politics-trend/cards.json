@@ -1,0 +1,113 @@
+{
+  "meta": {
+    "issue": "중국행 AI 칩, 길목을 죈다",
+    "date": "2026.11.13",
+    "section": "POLITICS",
+    "accent": "#9aa8c7",
+    "note": "원문 4건 대조: Tom's Hardware(Bloomberg 인용) 10.17 대외무역법·최대 징역 5년·벌금 약 $92,500, CNA(Reuters) 10.28 KLIA 자유무역지대 10.15 서버 30대·허위 신고·4,950만 링깃(US$12.11M), The Verge(NYT 인용) 11.07 New Matrix 빈 사무실·H200·소유주의 블랙리스트 사모펀드 연관, 연합뉴스(디인포메이션 인용) 11.12 BIS 7개국·블랙웰급 이상 허가제 '마무리 단계' 보도. BIS 안은 확정이 아니라 보도된 추진안으로 썼고, 젠슨 황 개인 의혹 대목은 넣지 않음. 사진은 대만 한 장(광장 풍경), 연합 사진(Megaspeed 사무실)은 쓰지 않음. 나머지는 stat·quote. 11-08 칩 회차와 두 건이 겹치지만 이번은 제3국 경유로 축을 옮김.",
+    "sources": [
+      "Tom's Hardware (Bloomberg) — Taiwan targets illicit AI server exports to China with five-year prison terms (2026.10.17)",
+      "CNA — AI chips worth US$12.1 million seized at Malaysia airport, customs authority says (2026.10.28)",
+      "The Verge — The US let Nvidia sell chips to an empty office in China (2026.11.07)",
+      "연합뉴스 — 미, 중국 AI 칩 '동남아 우회로' 차단 추진 (2026.11.12)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 정책 · 10.20~11.13",
+      "thread": [
+        {
+          "d": "10.20",
+          "t": "대만 처벌",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        },
+        {
+          "d": "10.29",
+          "t": "공항 압수",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        },
+        {
+          "d": "11.08",
+          "t": "빈 사무실",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        },
+        {
+          "d": "11.13",
+          "t": "7개국 허가",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        }
+      ],
+      "thread_note": "중국행 AI 칩이 거쳐 가는 길목마다 처벌·단속·허가 규제가 붙고 있다",
+      "eyebrow": "흐름 · 정책",
+      "headline": "중국행 AI 칩,\n길목을 죈다",
+      "body": "대만 처벌법, 말레이시아 압수, 미국 허가 논란. 따로 보면 별건이지만 모두 칩이 중국에 닿는 길목의 이야기다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.10.20",
+      "headline": "대만, AI 서버\n밀수에 징역형",
+      "body": "Bloomberg에 따르면 대만은 통제 시행 뒤 AI 서버 밀수를 대외무역법으로 처벌한다. 최대 징역 5년, 벌금 약 $92,500.",
+      "foot": "2026.10.20",
+      "_src": "https://www.tomshardware.com/tech-industry/semiconductors/taiwan-targets-illicit-ai-server-exports-to-china-with-five-year-prison-terms-strict-new-controls-follow-us-tariff-deal-and-super-micro-raid",
+      "_id": "politics-taiwan-server-exports",
+      "media": "pipeline/media/politics-taiwan-server-exports.jpg"
+    },
+    {
+      "n": 3,
+      "kind": "stat",
+      "eyebrow": "2026.10.29",
+      "headline": "공항에서 걸린\nAI 서버 30대",
+      "body": "말레이시아 세관은 10월 15일 공항 자유무역지대에서 AI 칩 서버 30대를 찾았다고 밝혔다. 전자부품으로 허위 신고됐다.",
+      "foot": "2026.10.29",
+      "_src": "https://www.channelnewsasia.com/asia/malaysia-airport-customs-seize-advanced-ai-chips-smuggling-6498976",
+      "_id": "malaysia-ai-chips",
+      "stat_top": "말레이시아 세관 압수",
+      "stat_arrow": "AI 칩 든 서버 30대",
+      "stat_bottom": "US$12.11M",
+      "stat_strike": false
+    },
+    {
+      "n": 4,
+      "kind": "quote",
+      "eyebrow": "2026.11.08",
+      "headline": "허가 명단 속\n빈 사무실",
+      "body": "The Verge(NYT 인용)에 따르면 H200 승인 업체 New Matrix 사무실은 텅 비었다. 소유주는 블랙리스트 기업과 얽혔다.",
+      "foot": "2026.11.08",
+      "_src": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+      "_id": "nvidia-china-empty-office-licenses",
+      "quote": "천장에 전선이\n늘어진 텅 빈\n회색 껍데기",
+      "quote_by": "New York Times 묘사 · The Verge 인용"
+    },
+    {
+      "n": 5,
+      "kind": "stat",
+      "eyebrow": "2026.11.13",
+      "headline": "동남아 길목에\n허가제 추진",
+      "body": "연합뉴스가 전한 디인포메이션 보도로는 미 상무부가 제3국 데이터센터를 통한 중국의 원격 이용을 막는 안을 다듬고 있다.",
+      "foot": "2026.11.13",
+      "_src": "https://www.yna.co.kr/view/AKR20261112121900009",
+      "_id": "bis-ai-chip-sea-license-rule",
+      "stat_top": "싱가포르·말레이시아 등 7개국",
+      "stat_arrow": "블랙웰급 이상 칩 들여오려면",
+      "stat_bottom": "미 상무부 수출 허가",
+      "stat_strike": false
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

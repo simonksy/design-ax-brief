@@ -11378,6 +11378,127 @@
           "x": "CDPR said it wasn’t planning to use the algorithm to alter Rozenek’s voice in the future, and the actor confirmed he has not listened to his AI doppelganger."
         }
       ]
+    },
+    "games/sony-qssr-ps5-rollout": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/ARC-Raiders-QSSR-HD-1920x1080.jpeg",
+          "cap": "Quick Spectral Super Resolution (QSSR) is coming soon to six PS5 games, including Spider-Man 2, CONTROL Resonant, ARC Raiders, The Finals, No Man's Sky, and Hell Let Loose: Vietnam."
+        },
+        {
+          "t": "p",
+          "x": "Sony announced today that six PlayStation 5 games have added or are about to add support for Quick Spectral Super Resolution (QSSR), the lightweight AI upscaler derived from PS5 Pro's PSSR and originally released in October. The games are Marvel's Spider-Man 2, CONTROL Resonant, The Finals, ARC Raiders, No Man's Sky, and Hell Let Loose: Vietnam."
+        },
+        {
+          "t": "p",
+          "x": "Insomniac's Mike Fitzgerald said QSSR is in Marvel's Spider-Man 2 \"in an update that's live now!\" after great results in Marvel's Wolverine."
+        },
+        {
+          "t": "video",
+          "yt": "JYEQkLnlV7o"
+        },
+        {
+          "t": "p",
+          "x": "Remedy's Erik Jansson said QSSR gives Control Resonant \"a much more stable and detailed image\" in an update coming in December. Embark Studios says QSSR is coming to ARC Raiders and The Finals soon, Hello Games' Sean Murray says to look for it in No Man's Sky \"in the next few weeks,\" and Expression Games is adding it to Hell Let Loose: Vietnam through an upcoming update."
+        }
+      ]
+    },
+    "games/games-ai-clone-ip-defense": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/pexels-icon0-1214270.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "cap": "Image credit: iconO com on Pexels"
+        },
+        {
+          "t": "p",
+          "x": "Generative AI usage in video game development has increased significantly in recent months; Steam Next Fest featured over 8,000 demos in October 2026, many created partly or entirely with generative AI tools. AI is also facilitating a new wave of rapidly assembled, unauthorised clones, mods, and ports, and some developers report cancelling public demos for fear of being cloned. Pryor Cashman's lawyers offer practical steps under US law:"
+        },
+        {
+          "t": "p",
+          "x": "#1 Ensure confidentiality: require NDAs that prohibit sharing, recording, or inputting game media into any LLM or chatbot, plus watermarking and limited-time access. #2 Understand your contractors' and collaborators' use of AI and set a policy. #3 Register copyrights with the US Copyright Office before release; timely registration can unlock statutory damages of up to $150,000 for willful infringement. #4 Register trademarks with the USPTO on an intent-to-use basis, a process currently taking around 10 months. #5 Build a brand and secure domains and social handles. #6 Enforce your rights with monitoring, takedowns, and, if needed, a preliminary injunction - moving swiftly is essential."
+        },
+        {
+          "t": "p",
+          "x": "The practical objective is to have chain-of-title documentation, registrations, and enforcement procedures ready before the first public reveal."
+        }
+      ]
+    },
+    "games/xbox-sharma-genai-memo": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/asha-sharma-xbox-showcase-2026.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "cap": "Image credit: Eurogamer"
+        },
+        {
+          "t": "p",
+          "x": "Xbox leader Asha Sharma has alluded to harnessing the power of generative AI when making games, in a memo titled 25 years of Xbox. Sharma lamented that \"too many ideas never become games\" and that \"too many games fall short of what their creators imagined\". \"For decades, this has been the unavoidable tradeoff of ambition,\" she wrote. \"We must change this.\""
+        },
+        {
+          "t": "video",
+          "yt": "zCY0C8tTddM"
+        },
+        {
+          "t": "p",
+          "x": "\"A single person will soon be able to wield capabilities that once required entire nations. A small team will be able to build worlds that today demand hundreds of developers and hundreds of millions of dollars. And our largest studios will be able to pursue ambitions as far beyond today's games as Microsoft Flight Simulator 2024 is from its first entry in 1982.\""
+        },
+        {
+          "t": "p",
+          "x": "There is no explicit mention of generative AI, but the language is suggestive, and the memo follows last month's announcement of an Xbox Labs initiative. Sharma, whose Microsoft background is in AI, earlier said she has \"no tolerance for bad AI\". Eurogamer has asked Microsoft for clarification."
+        }
+      ]
+    },
+    "games/shadowkey-ngage-ai-revival": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/nag2arKf76CYq2aNFJVzpd-1920-80.jpg",
+          "cap": "(Image credit: Bethesda)"
+        },
+        {
+          "t": "p",
+          "x": "The Elder Scrolls Travels: Shadowkey came out on Nokia's N-Gage handheld, discontinued in 2005. Dan Whelan's Shadowkey Reforged project will let us play it in widescreen with controller support and upscaled graphics, in classic or modern mode. Modern mode also adds features from later mainline Elder Scrolls games like stamina-based sprinting, stealth, and ragdoll physics."
+        },
+        {
+          "t": "video",
+          "yt": "Ax-MqhRaP7w"
+        },
+        {
+          "t": "p",
+          "x": "Whelan says in the FAQ: \"I used AI to assist with coding and building the engine, and with debugging. I used AI image generation combined with Photoshop and some manual sprite editing to create most of the modern, higher resolution artwork.\""
+        },
+        {
+          "t": "p",
+          "x": "Whelan plans to release Shadowkey Reforged on November 11 for Windows, Mac, and Android, though you'll need the original game's files from your Nokia N-Gage. It can also borrow Morrowind's music and sound effects."
+        }
+      ]
+    },
+    "games/gdc-state-industry-2026-genai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/state-of-the-game-industry-2026_SaCPvuv.png?width=1200&quality=85&format=jpg&auto=webp",
+          "cap": "GDC State of the Game Industry 2026"
+        },
+        {
+          "t": "p",
+          "x": "40% of developers are using generative AI in their work, according to the latest State of the Game Industry report from the Game Developers Conference (GDC). That's an increase of 4% on the previous report, but survey project lead Beth Elderkin notes that this is a smaller increase than last time."
+        },
+        {
+          "t": "p",
+          "x": "57% of developers using the tech employ it for text generation, research, early prototyping, coding, and presentations. Generative AI is most popular with business operations and services, mobile-only studios, and free-to-play developers. 27% of AAA workers feel encouraged or pressured to use generative AI; 9% of indie developers say the same."
+        },
+        {
+          "t": "p",
+          "x": "55% of respondents said that AI is having a negative impact on games, a 1% increase year-on-year. \"I think it's more that people just know the technology now, and it's an actuality instead of a theoretical issue, so they know how they want to use it or whether they want to use it at all,\" Elderkin says."
+        },
+        {
+          "t": "p",
+          "x": "Beyond AI, 33% of respondents have been laid off in the last 24 months. PC remains dominant at 81%, Unreal and Unity came in at 35% and 28%, and 86% of developers say they have worked over 40 hours in a week. Elderkin says that this year she is seeing \"a lot of resilience and hope in the future.\""
+        }
+      ]
     }
   }
 }

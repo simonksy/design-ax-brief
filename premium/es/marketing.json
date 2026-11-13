@@ -4540,6 +4540,133 @@
           "x": "“Los equipos de marketing están pasando de la orquestación manual de campañas a la ejecución mediante agentes”, dijo Inna Weiner, VP Product de AppsFlyer. No se dieron precios, resultados de clientes ni fecha de disponibilidad general."
         }
       ]
+    },
+    "marketing/iab-ai-attribution-blueprint": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.iab.com/wp-content/uploads/2026/11/the-ai-era-attribution-blueprint-2-1024x312.png"
+        },
+        {
+          "t": "p",
+          "x": "El 12 de noviembre de 2026, el Interactive Advertising Bureau (IAB) publicó el AI-Era Attribution Blueprint, un nuevo marco que ofrece al sector una forma común de clasificar el papel de la IA en una conversión y de evaluar qué partes pueden reclamar el mérito. Según el 2026 Outlook Study: September Update de IAB, los compradores de publicidad señalan como su principal reto de medición comparar los recorridos de cliente AI-driven con los tradicionales (45%), y el 44% recurre a la búsqueda de marca y al tráfico directo como indicadores indirectos de una influencia de la IA que no puede rastrear."
+        },
+        {
+          "t": "p",
+          "x": "“Las ventas AI-influenced a veces se registran como búsqueda o tráfico directo, lo que puede llevar la siguiente inversión de marketing al canal equivocado”, dijo Caroline Giegerich, VP de AI en IAB."
+        },
+        {
+          "t": "p",
+          "x": "El Blueprint pregunta quién o qué creó la intención, tomó la decisión y completó la compra, y luego clasifica cada conversión como Human-Owned, AI-Assisted o AI-Executed. Esa ruta determina qué partes, si las hay, pueden optar a una reclamación de decisión o a una reclamación contributiva, y qué pruebas exige cada reclamación. Una reclamación no es mérito: es el derecho a ser evaluado para obtenerlo."
+        },
+        {
+          "t": "p",
+          "x": "Gran parte de las pruebas necesarias no se recopila o está dentro de las plataformas de IA. IAB pide a las marcas que estimen la proporción de conversiones en cada ruta; a las plataformas de IA, que revelen si las recomendaciones son pagadas u orgánicas y etiqueten de forma coherente el tráfico AI-originated; a las agencias, que apliquen un único estándar de reclamación y prueba, y a los editores, que identifiquen las reclamaciones contributivas que genera su contenido."
+        }
+      ]
+    },
+    "marketing/schibsted-nodals-ad-algorithms": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.adexchanger.com/wp-content/uploads/2024/10/revenue-sharing-publishers-sundar-pichai-mark-zuckerberg-comic-1024x941.png"
+        },
+        {
+          "t": "p",
+          "x": "Schibsted trabaja con Nodals AI, una empresa London-based que crea algoritmos de optimización publicitaria a medida para editores de Europa y Estados Unidos (US), para atraer a las marcas seducidas por las herramientas de optimización propias de Meta, según dijo a AdExchanger Christer Ljones, director de capacidades de datos publicitarios de Schibsted Marketing Services."
+        },
+        {
+          "t": "p",
+          "x": "Los jardines amurallados han conquistado a los anunciantes con funciones de optimización de campañas AI-powered como Advantage+ de Meta, y a los editores de la web abierta les ha costado seguir el ritmo. “Meta ha acostumbrado a los anunciantes a que solo les importe ‘pongo dinero y veo cuánto dinero sale’”, dijo Aly Nurmohamed, fundador y CEO de Nodals."
+        },
+        {
+          "t": "p",
+          "x": "Nodals introduce en sus modelos los datos propios del editor —datos de sesión iniciada, profundidad de desplazamiento, frecuencia con que los lectores hacen clic en contenidos o anuncios— para predecir quién tiene probabilidad de hacer clic y comprar para un anunciante concreto. Schibsted probó la tecnología por primera vez el verano pasado y está creando una nueva línea de formatos nativos de venta directa con optimización por IA integrada, con precio por clic en lugar de CPM."
+        },
+        {
+          "t": "p",
+          "x": "“Tomemos el 10% de lo que inviertes en Meta: probablemente puedas mantener la mayoría de tus conversiones y obtener más [de nosotros]”, dijo Ljones. “Estamos en una fase inicial, pero estamos viendo los resultados correctos”."
+        }
+      ]
+    },
+    "marketing/buzzvil-prism-ad-engine": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.byline.network/wp-content/uploads/2026/11/buzzvil_20261113.jpg",
+          "cap": "Buzzvil lanza ‘Prism’, un motor de AI que crea automáticamente creatividades publicitarias para cada usuario (Fuente=Buzzvil)"
+        },
+        {
+          "t": "p",
+          "x": "Buzzvil presentó un motor publicitario de inteligencia artificial (AI) que muestra anuncios distintos según los intereses y la etapa de compra de cada usuario. Su rasgo distintivo es que, incluso dentro de una misma campaña de la misma marca, configura de forma diferente para cada usuario las recomendaciones de producto, los mensajes publicitarios y las formas de participación. Buzzvil anunció el día 13 que lanzó ‘Prism’, un motor de anuncios interactivos hiperpersonalizados, y que a partir de este mes lo aplicará a los anunciantes interesados."
+        },
+        {
+          "t": "p",
+          "x": "Su tecnología central es ‘Composer’, un sistema de creación de contenido con AI desarrollado internamente. Composer analiza los productos de interés y el contexto del usuario para encontrar el mensaje publicitario adecuado y, mediante un modelo de lenguaje grande (LLM), genera creatividades participativas como recomendaciones conversacionales o diagnósticos de inquietudes."
+        },
+        {
+          "t": "p",
+          "x": "Si el anunciante aporta imágenes de marca e información de producto, puede crear más de 1000 creatividades personalizadas en una sola campaña sin un proceso de producción aparte. Las creatividades generadas solo se emiten si cumplen los criterios tras una revisión de palabras prohibidas y de hechos, y una evaluación de calidad con AI. Prism también analiza la respuesta de los usuarios para aumentar la exposición de las combinaciones de mayor rendimiento."
+        },
+        {
+          "t": "p",
+          "x": "En una campaña de anuncios interactivos que Buzzvil realizó con una marca de belleza, las creatividades basadas en reseñas de producto lograron una tasa de conversión de compra tras el clic 3 veces mayor que las creatividades de catálogo existentes. La tasa de conversión de añadir al carrito fue 7 veces mayor, y la mediana del tiempo entre el clic en el anuncio y la compra fue un 57% más corta."
+        },
+        {
+          "t": "p",
+          "x": "El CEO de Buzzvil, Lee Kwan-woo, afirmó: “Convertiremos la publicidad, de un mensaje unidireccional, en una experiencia de intercambio con cada uno de los usuarios”."
+        }
+      ]
+    },
+    "marketing/ppcland-agent-traffic-meta-openai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/11/human-security-agentic-traffic-october-2026-meta-openai-89-percent-muse-59-percent-two-storefronts-stream.jpg",
+          "cap": "Meta y OpenAI enviaron el 89% de las solicitudes de agentes de AI en octubre, y solo Muse el 59%, según HUMAN"
+        },
+        {
+          "t": "p",
+          "x": "Según la edición de octubre de 2026 del informe State of Agentic Traffic de HUMAN Security, publicado el 9 de noviembre de 2026, Meta y OpenAI representaron el 89% de las solicitudes de agentes del mes en los sitios que protege HUMAN, y solo Muse, de Meta, fue responsable del 59%. El tráfico total de agentes en octubre fue 2.6 veces el de septiembre y unas ocho veces el de agosto."
+        },
+        {
+          "t": "p",
+          "x": "Meta lanzó Muse el 8 de septiembre de 2026 como agente personal US-only. OpenAI ocupa el segundo puesto con tres productos entre los diez primeros —ChatGPT Agent (15.9%), Codex Browser (8.8%) y la extensión Codex Chrome (5.2%)—, que suman cerca del 30%. La extensión Claude Chrome de Anthropic se redujo a la mitad, del 7% al 3.5%."
+        },
+        {
+          "t": "p",
+          "x": "Comet, de Perplexity, lideraba el tráfico de agentes con una cuota del 41% en agosto; en octubre cayó al 3.6%. “Los navegadores agénticos independientes para consumidores están perdiendo fuerza, a medida que los consumidores pasan a agentes integrados en plataformas que ya usan”, señala el informe."
+        },
+        {
+          "t": "p",
+          "x": "Los agentes siguen dedicándose sobre todo a investigar: el 85% de las solicitudes fue a páginas de producto y de búsqueda y el 1.9% llegó a la finalización de compra y el pago, aunque el volumen de finalización de compra creció un 117% mes a mes, según HUMAN. “Los agentes todavía navegan mucho más de lo que compran”, dice el informe, “pero el número de solicitudes de agentes que llegan a la finalización de compra crece rápidamente”. La edición de noviembre de HUMAN mostrará cómo se comportaron los agentes durante el Black Friday y el Cyber Monday."
+        }
+      ]
+    },
+    "marketing/google-ads-editor-aimax-default": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/size/w2000/2026/11/google-ads-editor-2-14-ai-max-default-new-search-campaigns-prepunched-punch-cards-inspector.jpg",
+          "cap": "Google Ads Editor 2.14 inicia cada nueva campaña de Search con AI Max y Final URL expansion activados"
+        },
+        {
+          "t": "p",
+          "x": "Google ha lanzado la versión 2.14 de Google Ads Editor, su aplicación de escritorio gratuita para gestionar campañas de forma masiva. Según las notas de la versión, \"AI Max, la automatización de recursos de texto y Final URL expansion ahora se activan de forma predeterminada al crear nuevas campañas de Search\". Las notas no tienen fecha de publicación; Search Engine Roundtable informó del lanzamiento el 12 de noviembre de 2026 y contó 10 funciones nuevas."
+        },
+        {
+          "t": "p",
+          "x": "AI Max combina la concordancia de términos de búsqueda, la personalización de texto, que redacta títulos y descripciones a partir de páginas de destino, anuncios existentes y palabras clave, y Final URL expansion, que puede enviar al usuario a otra página del mismo dominio. Final URL expansion no está disponible sin la personalización de texto y, cuando está activada, no se respetan los títulos fijados."
+        },
+        {
+          "t": "p",
+          "x": "Cuando Google migró a AI Max, en septiembre de 2026, las antiguas campañas de concordancia amplia y de recursos creados automáticamente, dejó Final URL expansion desactivada en ambos grupos. En Editor 2.14, una nueva campaña de Search empieza con esa función activada."
+        },
+        {
+          "t": "p",
+          "x": "La versión también permite editar en Editor la configuración de adquisición y retención de nuevos clientes a nivel de cuenta, añade la priorización de canales y los límites de presupuesto, y elimina la opción de desactivar los anuncios de inventario local en las campañas de Shopping."
+        }
+      ]
     }
   }
 }

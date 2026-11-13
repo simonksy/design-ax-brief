@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "issue": "AI가 아낀 시간, 현장에선 갈린다",
+    "date": "2026.11.13",
+    "section": "MEDICINE",
+    "accent": "#00897b",
+    "note": "원문 대조: AHA 보도자료 직접 수신(11.09, 1,200건·8.5→4.6분·약 46%), Lancet·NEJM AI·AuntMinnie는 Cloudflare 차단이라 수집 당시 원문 발췌(enrich full)로 확인(27,382명·2–3초 vs 13분 안팎, 2385명·43일 vs 138일, 742,000건·11개·76%·PE 무개선). 날짜는 카드 날짜 대신 원문 게재일(11.02/11.06/11.09/11.11)로 쓰고 그 순서로 배열. Lancet 사진은 11-08 story에서 써서 stat, NEJM 그림은 논문 도표라 stat, UW는 사진 없어 stat; 사진은 AHA 한 장만.",
+    "sources": [
+      "The Lancet Digital Health — Performance of AI versus clinician left-ventricular segmentation of cardiac MRI for mortality prediction (2026.11.02)",
+      "NEJM AI — Randomized Evaluation of an Autoimmune Disease Prediction Model — AURA (2026.11.06)",
+      "American Heart Association Newsroom — AI-interpreted echocardiograms comparable to human reports, cardiologists' time cut by about 50% (2026.11.09)",
+      "AuntMinnie — AI triage algorithms yield varied results in real-world use (2026.11.11)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 의료 · 11.02~11.11",
+      "thread": [
+        {
+          "d": "11.02",
+          "t": "MRI 판독",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        },
+        {
+          "d": "11.06",
+          "t": "의뢰 분류",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        },
+        {
+          "d": "11.09",
+          "t": "심초음파",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        },
+        {
+          "d": "11.11",
+          "t": "트리아지",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        }
+      ],
+      "thread_note": "AI가 아낀 판독 시간, 병원 전체에 들이자 검사마다 갈렸다",
+      "eyebrow": "흐름 · 의료",
+      "headline": "AI가 아낀 시간,\n현장에선 갈린다",
+      "body": "한 건씩 보면 'AI가 빠르다'다. 과거 자료에서 무작위 시험, 병원 도입으로 갈수록 효과가 검사마다 달라진다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "stat",
+      "eyebrow": "2026.11.02",
+      "headline": "MRI 한 건,\n13분에서 3초로",
+      "body": "심장 MRI 27,382명분을 AI가 한 명당 2–3초에 읽었다. 사망 예측도 근소하게 앞섰다. 다만 과거 자료 분석이다.",
+      "foot": "2026.11.02",
+      "_src": "https://www.thelancet.com/journals/landig/article/PIIS2589-7500(26)00065-8/fulltext",
+      "_id": "lancet-cmr-ai-ejection-fraction",
+      "stat_top": "전문의 13분 안팎",
+      "stat_arrow": "AI가 환자 한 명 분석",
+      "stat_bottom": "2–3초",
+      "stat_strike": false
+    },
+    {
+      "n": 3,
+      "kind": "stat",
+      "eyebrow": "2026.11.06",
+      "headline": "무작위 시험에서\n진단이 당겨졌다",
+      "body": "ANA 양성자 2385명을 무작위로 나눴다. AURA가 고위험자 진료를 서두르게 하자 진단까지 중앙값이 43일로 줄었다.",
+      "foot": "2026.11.06",
+      "_src": "https://ai.nejm.org/doi/full/10.1056/AIoa2600112",
+      "_id": "nejm-ai-aura-ana-triage",
+      "stat_top": "대조군 138일",
+      "stat_arrow": "자가면역질환 진단까지 중앙값",
+      "stat_bottom": "43일",
+      "stat_strike": false
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.11.09",
+      "headline": "심초음파 판독,\n8.5분이 4.6분으로",
+      "body": "심초음파 1,200건 무작위 시험. AI 초안은 사람 초안만큼 정확했고 의사 판독 시간은 약 46% 줄었다.",
+      "foot": "2026.11.09",
+      "_src": "https://newsroom.heart.org/news/ai-interpreted-echocardiograms-comparable-to-human-reports-cardiologists-time-cut-by-about-50",
+      "_id": "aha-echo-ai-reading-time",
+      "media": "pipeline/media/aha-echo-ai-reading-time.jpg"
+    },
+    {
+      "n": 5,
+      "kind": "stat",
+      "eyebrow": "2026.11.11",
+      "headline": "병원 전체에 깔자\n효과가 갈렸다",
+      "body": "UW가 검사 742,000건 넘게 AI 트리아지 11개를 돌렸다. 튜브 위치 이상은 76% 빨라졌고 폐색전증은 그대로였다.",
+      "foot": "2026.11.11",
+      "_src": "https://www.auntminnie.com/resources/conference/rsna/2026/artificial-intelligence-preview/article/16425184/ai-triage-algorithms-yield-varied-results-in-realworld-use",
+      "_id": "uw-rsna-ai-triage-realworld",
+      "stat_top": "튜브 위치 이상 76% 단축",
+      "stat_arrow": "같은 도입, 폐색전증 보고는",
+      "stat_bottom": "개선 없음",
+      "stat_strike": false
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

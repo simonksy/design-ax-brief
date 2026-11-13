@@ -1,96 +1,96 @@
 {
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "section": "science",
   "items": [
     {
       "tool": "Science",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "title": "Independent technique validates landmark M87* image",
-      "url": "https://phys.org/news/2026-11-independent-technique-validates-landmark-m87.html",
-      "source": "Phys.org",
-      "published_iso": "2026-11-11T00:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/a-fuzy-organge-glowing.jpg",
-      "excerpt": "A CSIRO team used machine-learning and AI techniques to reanalyse the 2019 Event Horizon Telescope data and recovered a black-hole ring nearly identical to the original image, supporting that the ring is real rather than a processing artifact (Nature).",
-      "rationale": "Nature-published ML reanalysis independently confirms the first black-hole image — high-credibility, broadly resonant astronomy result."
+      "title": "This AI 'mechanic' can peer inside the black box of other neural networks",
+      "url": "https://www.nature.com/articles/d41586-026-03679-8",
+      "source": "Nature",
+      "published_iso": "2026-11-13T00:00:00Z",
+      "og_image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03679-8/d41586-026-03679-8_53974804.jpg",
+      "excerpt": "An MIT-led team (Takehi, Teoh, Zhang, Khattab) used OpenAI's GPT-6 Astra to read other networks' raw internal values, predict what their components do and edit them, boosting target models' math abilities (alphaXiv preprint, not peer reviewed). Off-list domain (nature.com news) included under relevance exception.",
+      "rationale": "Fresh Nature news on AI-driven interpretability that not only explains but edits other models — novel research-method result from a top-credibility outlet."
     },
     {
       "tool": "Science",
       "accent": "#0070f3",
       "motif": "sphere",
-      "title": "Preserving human involvement at the start of a creative task can improve AI-assisted outcomes",
-      "url": "https://techxplore.com/news/2026-11-human-involvement-creative-task-ai.html",
-      "source": "Tech Xplore",
-      "published_iso": "2026-11-10T12:40:22-05:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/using-ai-for-creative.jpg",
-      "excerpt": "In a PNAS Nexus experiment with 285 students, Wharton's Hosanagar and Ahn found ChatGPT cut story-writing time 36%, but stories were better only when humans kept ideation and outlining or had flexible AI help; merely approving AI drafts produced worse stories.",
-      "rationale": "Most actionable item in the pool: controlled PNAS Nexus evidence that keeping ideation/outlining human yields better AI-assisted creative work."
+      "title": "Opening the datasets behind our AI weather models (PARDIG & SatWeave)",
+      "url": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
+      "source": "Google DeepMind",
+      "published_iso": "2026-11-10T11:13:04Z",
+      "og_image": "https://lh3.googleusercontent.com/ggsqfaBnOayx-i7z9Kj8AeZruz8BSo0N7tsnqwH8Z3REnHcDKBt-QSA3DR4UUM8lcwklWihSARoEN2AyQFhoRFGFlk2-0-xGuKt_rtGoFwpJg8LHVQ=w1200-h630-n-nu-rw",
+      "excerpt": "Google DeepMind released PARDIG and SatWeave, foundational precipitation and geostationary-satellite datasets used to train its AI weather models, for open Earth-science research.",
+      "rationale": "Primary-source open release of training datasets researchers can use immediately — the most actionable item in the pool."
     },
     {
       "tool": "Science",
       "accent": "#7928ca",
       "motif": "sphere",
-      "title": "AI-written peer reviews outscored top human experts in blind comparisons, Harvard working paper finds",
-      "url": "https://www.psypost.org/ai-written-peer-reviews-outscored-top-human-experts-in-blind-comparisons-harvard-working-paper-finds/",
-      "source": "PsyPost",
-      "published_iso": "2026-11-12T15:00:19+00:00",
-      "og_image": "https://www.psypost.org/wp-content/uploads/2026/04/artificial-intelligence4.jpg",
-      "excerpt": "In blind comparisons, both an AI judge and former journal editors preferred AI-written reviews of unpublished research papers over reviews by well-paid human experts in the large majority of cases.",
-      "rationale": "New blind-comparison study on AI peer review quality — fresh, provocative research-method story distinct from the 11-05 paper-generator item."
+      "title": "AI agents act as search tool for more efficient collider physics calculations",
+      "url": "https://physicsworld.com/a/ai-agents-act-as-search-tool-for-more-efficient-collider-physics-calculations/",
+      "source": "Physics World",
+      "published_iso": "2026-11-13T09:00:21+00:00",
+      "og_image": "https://physicsworld.com/wp-content/uploads/2026/11/13-11-26-particle-collision-cern.jpg",
+      "excerpt": "Cambridge's Yi Gu and Sven Krippendorf used OpenAI Codex in a self-evolving loop to propose programs for tree-level scattering amplitudes, checked by a test harness; the best programs ran ~805x faster than seed code or used 48x fewer operations, though still slower than Sherpa/MadGraph at six particles (arXiv preprint).",
+      "rationale": "Concrete, quantified case of coding agents doing physics program search, with honest limits versus established tools."
     },
     {
       "tool": "Science",
       "accent": "#f5a623",
       "motif": "sphere",
-      "title": "New research could lead to faster, trustworthy AI models for climate prediction",
-      "url": "https://news.mit.edu/2026/new-research-could-lead-faster-trustworthy-ai-models-climate-prediction-1112",
-      "source": "MIT News",
-      "published_iso": "2026-11-12T05:00:00Z",
-      "og_image": "https://news.mit.edu/sites/default/files/images/202611/MIT-Climate-Emulation-01.jpg",
-      "excerpt": "An MIT training technique trains climate emulators on deliberately unrealistic emissions scenarios, boosting accuracy and adaptability to unfamiliar futures while using only a fraction of the usual training data.",
-      "rationale": "Counter-intuitive MIT training method (unrealistic scenarios → better emulators with less data); a different study from the 11-06 atmosphere-emulator card."
+      "title": "AI agents advance atomic modeling and reveal how aluminum nanoparticles oxidize",
+      "url": "https://phys.org/news/2026-11-ai-atomic-reveal-shells-aluminum.html",
+      "source": "Phys.org",
+      "published_iso": "2026-11-09T21:00:01-05:00",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-agents-advance-atom.jpg",
+      "excerpt": "Tohoku University's MLP Copilot, a multi-AI-agent framework that builds machine-learning interatomic potentials from quantum calculations with humans making final calls, simulated aluminum nanoparticle oxidation at scale and identified an 'oxide gatekeeper' shell whose rupture at high temperature exposes the core (PNAS).",
+      "rationale": "Peer-reviewed (PNAS) materials result where human-in-the-loop AI agents produce both a reusable workflow and a new physical insight."
     },
     {
       "tool": "Science",
       "accent": "#eb367f",
       "motif": "sphere",
-      "title": "Q-CTRL Demonstrates Push-Button Cold-Start Calibration on QuantWare Superconducting QPUs",
-      "url": "https://quantumcomputingreport.com/q-ctrl-demonstrates-push-button-cold-start-calibration-on-quantware-superconducting-qpus/",
-      "source": "Quantum Computing Report",
-      "published_iso": "2026-11-12T02:20:58+00:00",
-      "og_image": "https://quantumcomputingreport.com/wp-content/uploads/2026/11/image-71.png",
-      "excerpt": "Q-CTRL's physics-informed AI state machine in Boulder Opal autonomously calibrated a 21-qubit QuantWare Contralto-D21 from an uncalibrated state to operational gate fidelities, detecting anomalies and recovering underperforming qubits.",
-      "rationale": "Concrete autonomous-calibration demo on real hardware; quantum slot, distinct from published decoder/circuit-reduction stories."
+      "title": "Scientists built an AI called 'Concept2Brain' that simulates human brain waves from pictures and text",
+      "url": "https://www.psypost.org/scientists-built-an-ai-called-concept2brain-that-simulates-human-brain-waves-from-pictures-and-text/",
+      "source": "PsyPost",
+      "published_iso": "2026-11-13T21:00:25+00:00",
+      "og_image": "https://www.psypost.org/wp-content/uploads/2026/06/brainimg-2.jpg",
+      "excerpt": "Concept2Brain, reported in Nature Communications, predicts EEG responses to photographs or text and generates synthetic event-related potentials resembling real recordings, letting researchers simulate brain-wave experiments before recruiting volunteers.",
+      "rationale": "Cognitive-science pick that rounds out the spread: a Nature Communications model letting researchers pilot EEG experiments in silico."
     }
   ],
   "dedup": {
     "checks": {
-      "https://phys.org/news/2026-11-independent-technique-validates-landmark-m87.html": {
+      "https://www.nature.com/articles/d41586-026-03679-8": {
         "verdict": "new",
-        "nearest": "",
+        "nearest": "https://www.quantamagazine.org/new-research-tests-whether-ai-models-know-their-own-thoughts-20261104/",
         "new_action": ""
       },
-      "https://techxplore.com/news/2026-11-human-involvement-creative-task-ai.html": {
-        "verdict": "new",
-        "nearest": "https://techxplore.com/news/2026-10-ai-quickly-generate-ideas-people.html",
-        "new_action": ""
-      },
-      "https://www.psypost.org/ai-written-peer-reviews-outscored-top-human-experts-in-blind-comparisons-harvard-working-paper-finds/": {
-        "verdict": "new",
-        "nearest": "https://phys.org/news/2026-11-chinese-software-ready-publish-papers.html",
-        "new_action": ""
-      },
-      "https://news.mit.edu/2026/new-research-could-lead-faster-trustworthy-ai-models-climate-prediction-1112": {
+      "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/": {
         "verdict": "new",
         "nearest": "https://phys.org/news/2026-11-earth-atmosphere-emulators-enable-faster.html",
         "new_action": ""
       },
-      "https://quantumcomputingreport.com/q-ctrl-demonstrates-push-button-cold-start-calibration-on-quantware-superconducting-qpus/": {
+      "https://physicsworld.com/a/ai-agents-act-as-search-tool-for-more-efficient-collider-physics-calculations/": {
         "verdict": "new",
-        "nearest": "https://thequantuminsider.com/2026/10/15/riverlane-nvidia-ai-quantum-decoder-calibration/",
+        "nearest": "https://physicsworld.com/a/using-ai-agents-to-run-quantum-simulations/",
+        "new_action": ""
+      },
+      "https://phys.org/news/2026-11-ai-atomic-reveal-shells-aluminum.html": {
+        "verdict": "new",
+        "nearest": "https://news.mit.edu/2026/single-ai-model-simulates-many-substances-behavior-1109",
+        "new_action": ""
+      },
+      "https://www.psypost.org/scientists-built-an-ai-called-concept2brain-that-simulates-human-brain-waves-from-pictures-and-text/": {
+        "verdict": "new",
+        "nearest": "https://www.psypost.org/human-brains-track-who-did-what-to-whom-in-ways-ai-language-models-dont-fmri-study-suggests/",
         "new_action": ""
       }
     },
-    "note": "Dropped as duplicates: QuEra/Harvard/Anthropic quantum-circuit resource reduction (same running story as 10-18 Anthropic Claude leaner circuits and 11-11 Google resource-reduction card). Skipped (not dups): SynFit enzymes (possible overlap with 11-02 enzyme-design card, and no og_image); bacLIFE plant-pathogen genes (pathogen-gene topic, biosecurity-classifier risk per run memory); SciAm 'After math' (analysis feature, no new result); FSGLD, muon tomography, PI-GAE aerodynamics, IBM GQE, Tree-Ising, MLP Copilot, Universe Today buried rocks (lower score / outlet-category spread). Cross-section published_urls.json exact-grep not performed by curator (Read-only tools) — orchestrator should confirm the 5 URLs are absent from other sections."
+    "note": "No candidate duplicated a published science story; all 5 picks are distinct studies/releases vs the 30-day history_digest (history_match on the jets, bacLIFE, Brain-IT, birdsong and lip-reading items were only 'related' bands, different studies). Excluded: MIT 'AI copilot for structures' (cross-section assignment -> design only); Live Science Brain-IT (underlying result is the April 2026 ICLR paper, stale); Leiden bacLIFE plant-pathogen virulence-gene tool (biosecurity caution per standing rule - avoided rather than reworded); SciAm 'After math, will AI upend science' (analysis/feature, no new result); Live Science birdsong (interview). Left out on score/diversity, not dedup: Phys.org heavy-ion jets, Tech Xplore alignment-faking / muon tomography / lip-reading, ScienceDaily bionic eye (borders medicine), Ai2 XYBench. Outlets: Nature, DeepMind, Physics World, Phys.org, PsyPost (1 each). Cross-section: published_urls.json is too large to read whole and no grep tool was available, so the cross-section URL check was not run. These 5 URLs are science-specific research items, and none is named in the 11-14 cross-section assignments."
   }
 }

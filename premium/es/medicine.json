@@ -4187,6 +4187,146 @@
           "x": "La influencia de la publicidad a menudo no se revelaba. Saber si estos cambios en las respuestas podrían afectar a la prescripción o a las decisiones de los pacientes requiere un estudio directo."
         }
       ]
+    },
+    "medicine/npj-ai-malfunction-oversight": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Cada vez más, los médicos deben supervisar sistemas de AI para detectar fallos. Estudiamos a 48 médicos en un ensayo controlado aleatorizado con una AI de auscultación cardíaca que fallaba de forma creciente. El rendimiento diagnóstico disminuyó junto con la fiabilidad de la AI, incluso cuando se obligó cognitivamente a los médicos a hacer una clasificación inicial y cuando el rendimiento humano superaba la fiabilidad de la AI. La confianza de los médicos en sí mismos disminuyó más rápido que su confianza en la AI."
+        },
+        {
+          "t": "p",
+          "x": "Cuarenta y ocho médicos fueron asignados al azar a una condición AI-First o AI-Second y clasificaron 40 sonidos cardíacos grabados como normales o anormales. Para simular un fallo, la fiabilidad del sistema disminuyó de forma escalonada a lo largo de cuatro bloques (90%, 60%, 50%, 0%)."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03410-x/MediaObjects/41746_2026_3410_Fig1_HTML.png",
+          "cap": "Fig. 1: Resultados del estudio."
+        },
+        {
+          "t": "p",
+          "x": "El rendimiento diagnóstico asistido por AI (AI-assisted) bajó del 81.45% al 58.33%. Con baja fiabilidad del sistema, el rendimiento combinado humano-AI (human-AI) cayó por debajo de la línea base humana sin asistencia, y solo el 12.5% de los participantes dijo haber notado la caída de fiabilidad del sistema."
+        },
+        {
+          "t": "p",
+          "x": "Los autores señalan que una supervisión eficaz puede requerir medidas a nivel del sistema y de la organización, como indicadores de incertidumbre o explicaciones, con una responsabilidad compartida con quienes despliegan y proveen la AI."
+        }
+      ]
+    },
+    "medicine/samsung-heidi-ambient-scribe": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044540_3048515_5215.jpg",
+          "cap": "Samsung Medical Center firmó un acuerdo de colaboración con Heidi, empresa global de inteligencia artificial (AI) para la salud (foto: Samsung Medical Center)."
+        },
+        {
+          "t": "p",
+          "x": "Samsung Medical Center se une a Heidi, empresa global de inteligencia artificial (AI) para la salud, para impulsar la adopción de una tecnología de AI que convierte en texto la voz generada durante las consultas médicas."
+        },
+        {
+          "t": "p",
+          "x": "Samsung Medical Center informó el día 13 que el día 12 firmó con Heidi un acuerdo de colaboración en servicios de AI médica. Es la primera entrada de Heidi en Corea."
+        },
+        {
+          "t": "p",
+          "x": "En virtud del acuerdo, ambas partes cooperarán principalmente en la aplicación de tecnología de conversión de voz a texto en DARWIN, el sistema de información médica propio del hospital. También prevén colaborar en ámbitos como la telemedicina y la reserva de citas, a partir del agente de AI médica que Heidi está desarrollando."
+        },
+        {
+          "t": "p",
+          "x": "Fundada en 2019, Heidi desarrolla tecnología de AI para apoyar la labor asistencial de los profesionales sanitarios. Actualmente respalda más de 3 millones (300만건) de consultas por semana en 110 idiomas y 190 países. Su servicio principal es la tecnología que convierte en texto la voz generada durante las consultas. Además, ofrece servicios para la práctica clínica, como la creación de plantillas adaptadas a cada especialidad y el apoyo a la toma de decisiones clínicas mediante preguntas y respuestas con AI en tiempo real."
+        },
+        {
+          "t": "p",
+          "x": "Thomas Kelly, CEO de Heidi, afirmó: \"Samsung Medical Center es el primer caso de entrada de Heidi en Corea y prevemos impulsar la colaboración con él como socio clave\". Y añadió: \"Esperamos que los hospitales coreanos, a partir de nuestra tecnología, refuercen aún más sus capacidades médicas sin perder el cálido valor de la atención al paciente\"."
+        },
+        {
+          "t": "p",
+          "x": "El director de Samsung Medical Center, Park Seung-woo, señaló: \"Esperamos que esta colaboración con Heidi acelere aún más la creación de un entorno médico con AI centrado en el paciente\", y agregó: \"Será la ocasión para dar un salto importante hacia la medicina del futuro y construir el mañana del hospital inteligente\"."
+        },
+        {
+          "t": "p",
+          "x": "Por otra parte, Samsung Medical Center ocupó el 4.º puesto mundial y el 1.º en Corea en la clasificación 'World's Best Smart Hospitals' (los mejores hospitales inteligentes del mundo) publicada por el semanario estadounidense Newsweek."
+        },
+        {
+          "t": "p",
+          "x": "En la evaluación del nivel de digitalización de instituciones médicas de la Healthcare Information and Management Systems Society (HIMSS) de Estados Unidos, también obtuvo la etapa 7, el nivel más alto, en 4 áreas: infraestructura de IT médica (INFRAM), sistema de historia clínica electrónica (EMRAM), atención con imagen digital (DIAM) y análisis de datos médicos (AMAM). En particular, en INFRAM y DIAM fue el primero del mundo en obtener la certificación de etapa 7, en 2022 y 2023 respectivamente."
+        }
+      ]
+    },
+    "medicine/gangwon-public-ai-highway": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044493_3048461_5010.jpg",
+          "cap": "El Ministerio de Salud y Bienestar celebró el día 11 la ceremonia de apertura piloto de la 'autopista de AI para la salud pública', que conecta en tiempo real el Hospital Universitario Nacional de Kangwon y el Centro Médico de Yeongwol (foto: Ministerio de Salud y Bienestar)."
+        },
+        {
+          "t": "p",
+          "x": "Los hospitales públicos de la región de Gangwon construyen un sistema de atención que usa inteligencia artificial (AI) para enlazar desde el traslado de pacientes hasta la cirugía, el alta y la derivación de vuelta a la comunidad. Empezando por el Hospital Universitario Nacional de Kangwon y el Centro Médico de Yeongwol, el Gobierno prevé extender la AI médica a 72 hospitales públicos de todo el país para 2029."
+        },
+        {
+          "t": "p",
+          "x": "El Gobierno ha creado un sistema que ofrece a los hospitales públicos regionales modelos de AI médica validados por instituciones de referencia como el Hospital Universitario Nacional de Seúl, a través de una red dedicada de alta velocidad, recursos nacionales de computación con unidades de procesamiento gráfico (GPU) y una plataforma de integración estándar."
+        },
+        {
+          "t": "p",
+          "x": "En la ceremonia se mostraron 3 agentes de AI vinculados a la historia clínica electrónica (EMR). Se espera que la 'AI de resumen y generación de solicitudes de traslado y cartas de retorno' reduzca a menos de 1 minuto la redacción del borrador de una solicitud de traslado, que antes llevaba más de 10 minutos. La 'AI de generación de la evaluación preanestésica' y la 'AI de resumen y generación del informe de alta' también elaboran borradores, mientras que el juicio clínico final, la corrección de los documentos y la firma electrónica corren a cargo del médico responsable."
+        },
+        {
+          "t": "p",
+          "x": "El Gobierno realizará pruebas piloto en 8 instituciones médicas y pondrá en marcha el proyecto principal en abril de 2027, ampliando la participación hasta un máximo de 35 hospitales. La ministra Jeong Eun-kyeong afirmó: “El Gobierno hará de 2026 el primer año de la AX en salud”."
+        }
+      ]
+    },
+    "medicine/dyania-nvidia-onprem": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-2152554500.jpg?VersionId=sRgXjDC.XT_Qk5G3gPh_gJLsyMr_r5v6"
+        },
+        {
+          "t": "p",
+          "x": "Dyania Health se asocia con Nvidia para ejecutar su plataforma de razonamiento clínico Synapsis AI dentro de los sistemas de IT de los hospitales, lo que permite análisis a gran escala sin que los datos de los pacientes salgan de sus redes."
+        },
+        {
+          "t": "p",
+          "x": "Synapsis AI lee la historia clínica completa del paciente, incluidas notas clínicas, informes de imagen y quirúrgicos y análisis de laboratorio, y responde preguntas clínicas señalando la evidencia que las respalda en el historial. Dyania afirma haber invertido más de 25,000 horas de médicos en anotar casos clínicos."
+        },
+        {
+          "t": "p",
+          "x": "Dyania entrena sus modelos con el framework Nvidia NeMo; dentro del sistema de salud, Synapsis AI funciona con Nvidia TensorRT y TensorRT-LLM sobre la propia infraestructura de computación acelerada del hospital, de modo que la inferencia permanece dentro de la red privada del hospital."
+        },
+        {
+          "t": "p",
+          "x": "Cleveland Clinic utilizó Synapsis AI, ejecutada sobre infraestructura de Nvidia, para analizar hasta 16 años de historiales de 7,812 pacientes con reemplazo de válvula aórtica. La AI respondió 88 preguntas por paciente, y los investigadores usaron el conjunto de datos para crear un modelo predictivo del deterioro valvular y del riesgo de repetir el procedimiento a tres, cinco y 10 años."
+        }
+      ]
+    },
+    "medicine/doximity-cds-survey-63pct": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/AM_NT-IV2s-WIQ0l-DhVMyXuf_4ShsdQj2epak14Zmo/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzYzMDY4MzEwLmpwZw==.webp",
+          "cap": "Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "El uso de AI por parte de los médicos va más allá de las tareas administrativas y se extiende a un apoyo más cotidiano a las decisiones clínicas, como la búsqueda en la literatura médica, según una encuesta publicada el jueves por Doximity. Más de la mitad de los médicos dijo que usa AI a diario y otro tercio la usa al menos una vez por semana."
+        },
+        {
+          "t": "p",
+          "x": "La encuesta de Doximity a más de 3,300 de sus médicos en U.S. muestra que la proporción de médicos que usan AI como apoyo a las decisiones clínicas casi se duplicó hasta el 63%, frente al 37% en 2025. Además, más médicos —el 70%, frente a algo más de la mitad en la encuesta del año pasado— usan AI para revisar grandes volúmenes de literatura médica."
+        },
+        {
+          "t": "p",
+          "x": "Una mayoría (81%) de los médicos dijo que usar AI les ha enseñado algo que antes no sabían, como guías actualizadas, diagnósticos alternativos u opciones de tratamiento. Otro 65% afirmó que las herramientas de AI les han ayudado a desarrollar sus habilidades y conocimientos clínicos."
+        },
+        {
+          "t": "p",
+          "x": "Pero el 61% teme que los residentes dependan demasiado de la AI y no desarrollen sus propias habilidades clínicas. Casi la mitad expresó preocupación por la dependencia excesiva de la AI, y tres de cada cuatro médicos dijeron haber encontrado al menos una inexactitud factual en el último año al usar AI en el trabajo. Más de una cuarta parte dijo que el esfuerzo que dedican a corregir o verificar los resultados de la AI ha disminuido respecto de hace un año."
+        }
+      ]
     }
   }
 }

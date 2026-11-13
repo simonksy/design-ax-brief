@@ -145434,6 +145434,1854 @@
    "date": "2026-11-13",
    "section": "science",
    "has_full": true
+  },
+  {
+   "id": "books-catholic-ai-slop",
+   "headline": "Amazon 종교 서가에\nAI Slop 범람",
+   "body": "최근 한 해 Amazon 종교서 63%가 AI-written이라는 연구가 나왔다.",
+   "tool": "Books",
+   "source": "National Catholic Register",
+   "url": "https://www.ncregister.com/news/the-catholic-ai-slop-problem",
+   "accent": "#eb367f",
+   "motif": "swatch",
+   "image": "pipeline/media/books-catholic-ai-slop.png",
+   "source_lang": "en",
+   "text": {
+    "en": {
+     "headline": "AI Slop Floods Amazon's\nReligious Bookshelves",
+     "body": "A study estimates 63% of religious books on Amazon in the past year are likely AI-written, Catholic titles included."
+    },
+    "ko": {
+     "headline": "Amazon 종교 서가에\nAI Slop 범람",
+     "body": "최근 한 해 Amazon 종교서 63%가 AI-written이라는 연구가 나왔다."
+    },
+    "ja": {
+     "headline": "Amazonの宗教書棚\nAI Slopが氾濫",
+     "body": "ある研究は、過去一年にAmazonで出た宗教書の63%がAI-writtenと推計した。"
+    },
+    "zh": {
+     "headline": "Amazon宗教书架\n遭AI Slop淹没",
+     "body": "一项研究估计，过去一年Amazon上63%的宗教书可能是AI-written。"
+    },
+    "es": {
+     "headline": "AI Slop inunda los estantes\nreligiosos de Amazon",
+     "body": "Un estudio estima que el 63% de los libros religiosos del último año en Amazon serían AI-written, católicos incluidos."
+    }
+   },
+   "date": "2026-11-14",
+   "section": "books",
+   "has_full": true
+  },
+  {
+   "id": "books-daejeon-ai-anthology",
+   "headline": "AI 번역 대전문학집에\n교정수당 600만원",
+   "body": "발간사에 AI 번역을 밝힌 대전문학 영어 번역집에 교정수당 600만원이 지급됐다.",
+   "tool": "Books",
+   "source": "더퍼블릭",
+   "url": "https://www.thepublic.kr/news/articleView.html?idxno=326466",
+   "accent": "#2ec5c5",
+   "motif": "swatch",
+   "image": "pipeline/media/books-daejeon-ai-anthology.jpg",
+   "source_lang": "ko",
+   "text": {
+    "ko": {
+     "headline": "AI 번역 대전문학집에\n교정수당 600만원",
+     "body": "발간사에 AI 번역을 밝힌 대전문학 영어 번역집에 교정수당 600만원이 지급됐다."
+    },
+    "en": {
+     "headline": "AI-Translated Daejeon Anthology\nPaid 600만원 for Proofreading",
+     "body": "Proofreading fees of 600만원 were paid for an English Daejeon literature anthology whose preface cited AI translation."
+    },
+    "ja": {
+     "headline": "AI翻訳の大田文学集に\n校正手当600만원",
+     "body": "序文でAI翻訳を明かした大田文学の英訳集に、校正手当600만원が支払われた。"
+    },
+    "zh": {
+     "headline": "AI翻译大田文学集\n校对津贴600만원",
+     "body": "序言注明AI翻译的大田文学英译集，却支付了600만원校对津贴。"
+    },
+    "es": {
+     "headline": "Antología traducida con AI:\n600만원 en pagos de corrección",
+     "body": "Se pagaron 600만원 en corrección para una antología en inglés de Daejeon cuyo prólogo admite traducción con AI."
+    }
+   },
+   "date": "2026-11-14",
+   "section": "books",
+   "has_full": true
+  },
+  {
+   "id": "books-kyobo-picks-agent",
+   "headline": "교보문고, 대화형\nAI 책 추천 오픈",
+   "body": "교보문고가 대화로 취향을 묻고 책을 골라주는 'Picks 에이전트'를 열었다.",
+   "tool": "Books",
+   "source": "독서신문",
+   "url": "https://www.readersnews.com/news/articleView.html?idxno=200863",
+   "accent": "#f5a623",
+   "motif": "swatch",
+   "source_lang": "ko",
+   "text": {
+    "ko": {
+     "headline": "교보문고, 대화형\nAI 책 추천 오픈",
+     "body": "교보문고가 대화로 취향을 묻고 책을 골라주는 'Picks 에이전트'를 열었다."
+    },
+    "en": {
+     "headline": "Kyobo Book Centre Opens\nConversational AI Book Picks",
+     "body": "Kyobo Book Centre opened 'Picks Agent', which asks readers about their tastes in conversation and chooses books."
+    },
+    "ja": {
+     "headline": "教保文庫、対話型\nAI書籍推薦を開始",
+     "body": "教保文庫が、会話で好みを尋ねて本を選ぶ「Picks エージェント」を公開した。"
+    },
+    "zh": {
+     "headline": "教保文库推出\n对话式AI荐书服务",
+     "body": "教保文库推出“Picks 智能体”，通过对话了解读者喜好并为其选书。"
+    },
+    "es": {
+     "headline": "Kyobo Book Centre lanza\nrecomendación de libros con AI",
+     "body": "Kyobo Book Centre abrió 'Picks Agent', que pregunta por los gustos del lector en una conversación y elige libros."
+    }
+   },
+   "date": "2026-11-14",
+   "section": "books",
+   "has_full": true
+  },
+  {
+   "id": "books-manga-localizer-mt",
+   "headline": "출판사, AI로 만화\n현지화 인력 건너뛴다",
+   "body": "일본 출판사가 기계번역으로 돌아서자 ANN이 만화 현지화 인력의 생계를 짚었다.",
+   "tool": "Books",
+   "source": "Anime News Network",
+   "url": "https://www.animenewsnetwork.com/feature/2026-11-13/manga-backbone-is-breaking/.242228",
+   "accent": "#0070f3",
+   "motif": "swatch",
+   "image": "pipeline/media/books-manga-localizer-mt.jpg",
+   "source_lang": "en",
+   "text": {
+    "en": {
+     "headline": "Publishers Bypass Manga\nLocalizers With AI",
+     "body": "ANN asks whether manga localizers can still make a living as Japanese publishers turn to machine translation."
+    },
+    "ko": {
+     "headline": "출판사, AI로 만화\n현지화 인력 건너뛴다",
+     "body": "일본 출판사가 기계번역으로 돌아서자 ANN이 만화 현지화 인력의 생계를 짚었다."
+    },
+    "ja": {
+     "headline": "出版社がAIで漫画\nローカライズ担当を回避",
+     "body": "日本の出版社が機械翻訳に傾くなか、ANNは漫画ローカライザーの生計を問う。"
+    },
+    "zh": {
+     "headline": "出版商借AI绕过\n漫画本地化译者",
+     "body": "日本出版商转向机器翻译之际，ANN追问漫画本地化译者能否维持生计。"
+    },
+    "es": {
+     "headline": "Las editoriales relegan con AI\na los localizadores de manga",
+     "body": "ANN pregunta si los localizadores de manga sobreviven ahora que editoriales japonesas usan traducción automática."
+    }
+   },
+   "date": "2026-11-14",
+   "section": "books",
+   "has_full": true
+  },
+  {
+   "id": "books-millie-persona-chatbot-end",
+   "headline": "밀리의서재, AI\n페르소나 챗봇 종료",
+   "body": "밀리의서재가 이용률 저조로 AI 페르소나 챗봇을 12월 31일 종료한다.",
+   "tool": "Books",
+   "source": "뉴스웨이",
+   "url": "https://www.newsway.co.kr/news/view?ud=2026111316121759956",
+   "accent": "#7928ca",
+   "motif": "swatch",
+   "image": "pipeline/media/books-millie-persona-chatbot-end.png",
+   "source_lang": "ko",
+   "text": {
+    "ko": {
+     "headline": "밀리의서재, AI\n페르소나 챗봇 종료",
+     "body": "밀리의서재가 이용률 저조로 AI 페르소나 챗봇을 12월 31일 종료한다."
+    },
+    "en": {
+     "headline": "Millie's Library Ends Its\nAI Persona Chatbots",
+     "body": "Millie's Library will shut down its AI persona chatbots on December 31 due to low usage."
+    },
+    "ja": {
+     "headline": "ミリの書斎、AI\nペルソナチャットボット終了",
+     "body": "ミリの書斎が利用低迷を受け、AIペルソナチャットボットを12月31日に終了する。"
+    },
+    "zh": {
+     "headline": "米利书房关停AI\n人格聊天机器人",
+     "body": "米利书房因使用率低迷，将于12月31日关停AI人格聊天机器人。"
+    },
+    "es": {
+     "headline": "Millie's Library cierra sus\nchatbots de persona con AI",
+     "body": "Millie's Library cerrará sus chatbots de persona con AI el 31 de diciembre por su bajo nivel de uso."
+    }
+   },
+   "date": "2026-11-14",
+   "section": "books",
+   "has_full": true
+  },
+  {
+   "id": "google-a2ui-v1-stable",
+   "headline": "Google, 에이전트용\nA2UI 1.0 공개",
+   "body": "Google A2UI 1.0으로 에이전트가 텍스트 대신 화면 요소로 답한다.",
+   "tool": "Figma",
+   "source": "Google Developers Blog",
+   "url": "https://developers.googleblog.com/a2ui-10-build-delightful-fast-reliable-agentic-experiences/",
+   "accent": "#0070f3",
+   "motif": "frame",
+   "image": "pipeline/media/google-a2ui-v1-stable.jpg",
+   "source_lang": "en",
+   "text": {
+    "en": {
+     "headline": "Google ships A2UI 1.0 for\nagent-built interfaces",
+     "body": "Google's A2UI 1.0 protocol lets agents answer with interactive interface components instead of walls of text."
+    },
+    "ko": {
+     "headline": "Google, 에이전트용\nA2UI 1.0 공개",
+     "body": "Google A2UI 1.0으로 에이전트가 텍스트 대신 화면 요소로 답한다."
+    },
+    "ja": {
+     "headline": "Google、A2UI\n1.0 正式版を公開",
+     "body": "GoogleのA2UI 1.0で、エージェントは文章でなく対話型UIで答える。"
+    },
+    "zh": {
+     "headline": "Google发布智能体\n界面协议A2UI 1.0",
+     "body": "Google的A2UI 1.0 协议让智能体用交互式界面组件而非大段文字作答。"
+    },
+    "es": {
+     "headline": "Google lanza A2UI 1.0 para\ninterfaces creadas por agentes",
+     "body": "El protocolo A2UI 1.0 de Google permite a los agentes responder con componentes interactivos en vez de texto."
+    }
+   },
+   "date": "2026-11-14",
+   "section": "design",
+   "has_full": true
+  },
+  {
+   "id": "google-labs-tabletop-canvas",
+   "headline": "Google Labs의\nTabletop 공유 앱",
+   "body": "Google Labs Tabletop은 일정·투표 설명을 공유 공간으로 만든다.",
+   "tool": "AI Workflow",
+   "source": "Google",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
+   "accent": "#ff5a4d",
+   "motif": "frame",
+   "image": "pipeline/media/google-labs-tabletop-canvas.jpg",
+   "source_lang": "en",
+   "text": {
+    "en": {
+     "headline": "Google Labs Tabletop builds\nshared apps from a prompt",
+     "body": "Google Labs' Tabletop turns a group's description of an itinerary, poll or bracket into a shared multiplayer space."
+    },
+    "ko": {
+     "headline": "Google Labs의\nTabletop 공유 앱",
+     "body": "Google Labs Tabletop은 일정·투표 설명을 공유 공간으로 만든다."
+    },
+    "ja": {
+     "headline": "Google Labsの\nTabletop、共有アプリ",
+     "body": "Google LabsのTabletopは旅程や投票の説明を共有空間に変える。"
+    },
+    "zh": {
+     "headline": "Google Labs推出\nTabletop共享应用",
+     "body": "Google Labs的Tabletop把群组描述的行程、投票或赛程表变成共享空间。"
+    },
+    "es": {
+     "headline": "Google Labs Tabletop crea\napps compartidas con un prompt",
+     "body": "Tabletop, de Google Labs, convierte la descripción de un itinerario, encuesta o cuadro en un espacio compartido."
+    }
+   },
+   "date": "2026-11-14",
+   "section": "design",
+   "has_full": true
+  },
+  {
+   "id": "hf-trellis2-lora-guide",
+   "headline": "Hugging Face의\nTRELLIS.2 튜닝법",
+   "body": "Hugging Face가 TRELLIS.2 LoRA-fine-tune 도구를 냈다.",
+   "tool": "KeyShot",
+   "source": "Hugging Face",
+   "url": "https://huggingface.co/blog/3d-lora-finetuning",
+   "accent": "#eb367f",
+   "motif": "sphere",
+   "image": "pipeline/media/hf-trellis2-lora-guide.png",
+   "source_lang": "en",
+   "text": {
+    "en": {
+     "headline": "Hugging Face shows how to\nfine-tune TRELLIS.2 for 3D",
+     "body": "Hugging Face released scripts and containers to LoRA-fine-tune the TRELLIS.2 image-to-3D model on your own assets."
+    },
+    "ko": {
+     "headline": "Hugging Face의\nTRELLIS.2 튜닝법",
+     "body": "Hugging Face가 TRELLIS.2 LoRA-fine-tune 도구를 냈다."
+    },
+    "ja": {
+     "headline": "Hugging Faceが\n3D TRELLIS.2調整",
+     "body": "Hugging FaceがTRELLIS.2のLoRA-fine-tune法を示した。"
+    },
+    "zh": {
+     "headline": "Hugging Face示范\n3D TRELLIS.2微调",
+     "body": "Hugging Face发布TRELLIS.2的LoRA-fine-tune脚本与容器。"
+    },
+    "es": {
+     "headline": "Hugging Face explica cómo\najustar TRELLIS.2 para 3D",
+     "body": "Hugging Face lanzó scripts y contenedores para el LoRA-fine-tune de TRELLIS.2, modelo image-to-3D, con assets propios."
+    }
+   },
+   "date": "2026-11-14",
+   "section": "design",
+   "has_full": true
+  },
+  {
+   "id": "keyshot-studio-20263-agent",
+   "headline": "KeyShot 2026.3\n앱 안에 AI Agent",
+   "body": "KeyShot Studio 2026.3에 AI Agent와 SSO가 들어갔다.",
+   "tool": "KeyShot",
+   "source": "KeyShot",
+   "url": "https://www.keyshot.com/blog/keyshot-introduces-single-sign-on-ai-agent-and-more/",
+   "accent": "#f5a623",
+   "motif": "sphere",
+   "image": "pipeline/media/keyshot-studio-20263-agent.jpg",
+   "source_lang": "en",
+   "text": {
+    "en": {
+     "headline": "KeyShot Studio 2026.3 adds\nan AI Agent inside the app",
+     "body": "KeyShot Studio 2026.3 builds an AI Agent into the renderer, alongside personal cloud storage and enterprise SSO."
+    },
+    "ko": {
+     "headline": "KeyShot 2026.3\n앱 안에 AI Agent",
+     "body": "KeyShot Studio 2026.3에 AI Agent와 SSO가 들어갔다."
+    },
+    "ja": {
+     "headline": "KeyShot 2026.3\nアプリ内にAI Agent",
+     "body": "KeyShot Studio 2026.3 はAI AgentとSSOを搭載した。"
+    },
+    "zh": {
+     "headline": "KeyShot 2026.3\n应用内置AI Agent",
+     "body": "KeyShot Studio 2026.3 在渲染器中内置AI Agent，并新增SSO。"
+    },
+    "es": {
+     "headline": "KeyShot Studio 2026.3 integra\nun AI Agent dentro de la app",
+     "body": "KeyShot Studio 2026.3 integra un AI Agent, almacenamiento personal en la nube y SSO empresarial."
+    }
+   },
+   "date": "2026-11-14",
+   "section": "design",
+   "has_full": true
+  },
+  {
+   "id": "mit-structure-copilot",
+   "headline": "MIT 코파일럿\n생성 도중 설계자에 묻다",
+   "body": "MIT 코파일럿은 생성 도중 설계자 피드백을 받아 좌굴 하중을 높인다.",
+   "tool": "Text-to-CAD",
+   "source": "MIT News",
+   "url": "https://news.mit.edu/2026/new-ai-copilot-helps-engineers-design-better-structures-1113",
+   "accent": "#7928ca",
+   "motif": "cube",
+   "image": "pipeline/media/mit-structure-copilot.jpg",
+   "source_lang": "en",
+   "text": {
+    "en": {
+     "headline": "MIT copilot asks designers\nfor feedback mid-generation",
+     "body": "An MIT copilot pauses mid-generation to ask designers for feedback, yielding parts with higher buckling loads."
+    },
+    "ko": {
+     "headline": "MIT 코파일럿\n생성 도중 설계자에 묻다",
+     "body": "MIT 코파일럿은 생성 도중 설계자 피드백을 받아 좌굴 하중을 높인다."
+    },
+    "ja": {
+     "headline": "MITのコパイロット、\n生成途中で設計者に問う",
+     "body": "MITのコパイロットは生成途中で設計者に意見を求め、座屈荷重の高い部品を生む。"
+    },
+    "zh": {
+     "headline": "MIT设计副驾驶\n生成途中征求反馈",
+     "body": "MIT的设计副驾驶在生成途中暂停征求设计师反馈，造出屈曲载荷更高的部件。"
+    },
+    "es": {
+     "headline": "Copiloto del MIT pide opinión\na diseñadores mientras genera",
+     "body": "Un copiloto del MIT pausa la generación para consultar a los diseñadores y logra piezas con mayor carga de pandeo."
+    }
+   },
+   "date": "2026-11-14",
+   "section": "design",
+   "has_full": true
+  },
+  {
+   "id": "gadgets-apple-glasses-supplier",
+   "headline": "Apple AI 안경\n공급사 설명회서 등장",
+   "body": "Quick Intelligent Equipment가 Apple 안경 참여를 밝혔다.",
+   "tool": "Gadgets",
+   "source": "MacRumors",
+   "url": "https://www.macrumors.com/2026/11/11/apple-smart-glasses-mentioned-by-suppliers/",
+   "accent": "#2ec5c5",
+   "motif": "headset",
+   "image": "pipeline/media/gadgets-apple-glasses-supplier.jpg",
+   "source_lang": "en",
+   "text": {
+    "en": {
+     "headline": "Apple AI glasses surface\nin a supplier briefing",
+     "body": "Chinese supplier Quick Intelligent Equipment said in an earnings briefing it has been involved in Apple's AI glasses."
+    },
+    "ko": {
+     "headline": "Apple AI 안경\n공급사 설명회서 등장",
+     "body": "Quick Intelligent Equipment가 Apple 안경 참여를 밝혔다."
+    },
+    "ja": {
+     "headline": "AppleのAIグラス\n供給元の説明会で浮上",
+     "body": "Quick Intelligent EquipmentがAppleのAIグラスに関与した。"
+    },
+    "zh": {
+     "headline": "Apple AI眼镜\n现身供应商说明会",
+     "body": "Quick Intelligent Equipment在财报会上称参与Apple的AI眼镜。"
+    },
+    "es": {
+     "headline": "Las gafas con AI de Apple surgen\nen la reunión de un proveedor",
+     "body": "El proveedor chino Quick Intelligent Equipment dijo haber participado en las gafas con AI de Apple."
+    }
+   },
+   "date": "2026-11-14",
+   "section": "gadgets",
+   "has_full": true
+  },
+  {
+   "id": "gadgets-christian-linux-ai-phone",
+   "headline": "AI로 성경 공부하는\n$449 Linux 폰",
+   "body": "Jesus Dash 창립자가 2027년 초 $449 PineCone 폰을 준비한다.",
+   "tool": "Gadgets",
+   "source": "Notebookcheck",
+   "url": "https://www.notebookcheck.net/Christian-Linux-project-plans-449-phone-with-AI-powered-Bible-study.1445691.0.html",
+   "accent": "#0070f3",
+   "motif": "headset",
+   "image": "pipeline/media/gadgets-christian-linux-ai-phone.jpg",
+   "source_lang": "en",
+   "text": {
+    "en": {
+     "headline": "A $449 Linux phone built\naround AI Bible study",
+     "body": "Christian project Jesus Dash blends Linux and AI, and its founder plans a $449 PineCone phone for early 2027."
+    },
+    "ko": {
+     "headline": "AI로 성경 공부하는\n$449 Linux 폰",
+     "body": "Jesus Dash 창립자가 2027년 초 $449 PineCone 폰을 준비한다."
+    },
+    "ja": {
+     "headline": "AI聖書学習のための\n$449のLinuxスマホ",
+     "body": "Jesus Dashの創設者は2027年初めに$449のPineConeスマホを計画する。"
+    },
+    "zh": {
+     "headline": "围绕AI研读圣经的\n$449 Linux手机",
+     "body": "基督教项目Jesus Dash的创始人计划2027年初推出$449的PineCone手机。"
+    },
+    "es": {
+     "headline": "Un teléfono Linux de $449\npara estudiar la Biblia con AI",
+     "body": "El proyecto cristiano Jesus Dash une Linux y AI; su fundador prevé un móvil PineCone de $449 para inicios de 2027."
+    }
+   },
+   "date": "2026-11-14",
+   "section": "gadgets",
+   "has_full": true
+  },
+  {
+   "id": "gadgets-galaxy-ai-premium-499",
+   "headline": "유료 Galaxy AI\nPremium 시험 중",
+   "body": "Samsung이 월 $4.99 Galaxy AI Premium을 시험 중이라 한다.",
+   "tool": "Gadgets",
+   "source": "Digital Trends",
+   "url": "https://www.digitaltrends.com/phones/samsungs-free-galaxy-ai-ride-might-be-ending-get-ready-to-pay-5-for-it/",
+   "accent": "#f5a623",
+   "motif": "headset",
+   "image": "pipeline/media/gadgets-galaxy-ai-premium-499.jpg",
+   "source_lang": "en",
+   "text": {
+    "en": {
+     "headline": "Samsung tests a paid\nGalaxy AI Premium tier",
+     "body": "Samsung is reportedly testing a $4.99 monthly Galaxy AI Premium plan whose usage limits could reshape free features."
+    },
+    "ko": {
+     "headline": "유료 Galaxy AI\nPremium 시험 중",
+     "body": "Samsung이 월 $4.99 Galaxy AI Premium을 시험 중이라 한다."
+    },
+    "ja": {
+     "headline": "有料Galaxy AI\nPremiumを試験中",
+     "body": "Samsungが月額$4.99のGalaxy AI Premiumを試験中と報じられた。"
+    },
+    "zh": {
+     "headline": "付费版Galaxy AI\nPremium测试中",
+     "body": "据报道，Samsung正在测试每月$4.99的Galaxy AI Premium方案。"
+    },
+    "es": {
+     "headline": "Samsung prueba un nivel de pago\nGalaxy AI Premium",
+     "body": "Samsung estaría probando un plan Galaxy AI Premium de $4.99 al mes que podría limitar las funciones gratuitas."
+    }
+   },
+   "date": "2026-11-14",
+   "section": "gadgets",
+   "has_full": true
+  },
+  {
+   "id": "gadgets-gemini-task-automation-galaxy",
+   "headline": "Gemini 작업 자동화\n114개 앱과 연동된다",
+   "body": "Gemini 자동화가 곧 Android 17 Galaxy 114개 앱을 지원한다.",
+   "tool": "Gadgets",
+   "source": "SamMobile",
+   "url": "https://www.sammobile.com/news/geminis-ai-task-automation-will-work-with-dozens-of-apps-on-galaxy-phones/",
+   "accent": "#ff5a4d",
+   "motif": "headset",
+   "image": "pipeline/media/gadgets-gemini-task-automation-galaxy.jpg",
+   "source_lang": "en",
+   "text": {
+    "en": {
+     "headline": "Gemini task automation\nwill work with 114 apps",
+     "body": "Gemini Task Automation will soon work with 114 apps on select Galaxy phones and tablets running Android 17 or newer."
+    },
+    "ja": {
+     "headline": "Gemini作業自動化\n114のアプリに対応へ",
+     "body": "Geminiの自動化機能が近くAndroid 17のGalaxyで114アプリに対応する。"
+    },
+    "zh": {
+     "headline": "Gemini任务自动化\n将支持114款应用",
+     "body": "Gemini任务自动化即将在Android 17的部分Galaxy设备上支持114款应用。"
+    },
+    "es": {
+     "headline": "La automatización de Gemini\nllegará a 114 apps",
+     "body": "Gemini Task Automation pronto funcionará con 114 apps en algunos móviles y tabletas Galaxy con Android 17 o posterior."
+    },
+    "ko": {
+     "headline": "Gemini 작업 자동화\n114개 앱과 연동된다",
+     "body": "Gemini 자동화가 곧 Android 17 Galaxy 114개 앱을 지원한다."
+    }
+   },
+   "date": "2026-11-14",
+   "section": "gadgets",
+   "has_full": true
+  },
+  {
+   "id": "gadgets-meta-muse-wearos",
+   "headline": "Meta의 Muse AI\nWear OS에 상륙",
+   "body": "Meta Muse AI가 Charm보다 앞서 Android Wear OS에 왔다.",
+   "tool": "Gadgets",
+   "source": "Android Authority",
+   "url": "https://www.androidauthority.com/meta-muse-ai-wear-os-3733785/",
+   "accent": "#7928ca",
+   "motif": "headset",
+   "image": "pipeline/media/gadgets-meta-muse-wearos.jpg",
+   "source_lang": "en",
+   "text": {
+    "en": {
+     "headline": "Meta's Muse AI agent\narrives on Wear OS",
+     "body": "Meta's Muse AI agent now runs on Wear OS watches, reaching Android wrists before Meta's own Charm wearable."
+    },
+    "ko": {
+     "headline": "Meta의 Muse AI\nWear OS에 상륙",
+     "body": "Meta Muse AI가 Charm보다 앞서 Android Wear OS에 왔다."
+    },
+    "ja": {
+     "headline": "MetaのMuse AIが\nWear OSに登場",
+     "body": "MetaのMuse AIが自社Charmより先にAndroidのWear OS時計で動く。"
+    },
+    "zh": {
+     "headline": "Meta的Muse AI\n登陆Wear OS",
+     "body": "Meta的Muse AI智能体先于自家Charm登陆Android的Wear OS手表。"
+    },
+    "es": {
+     "headline": "El agente Muse AI de Meta\nllega a Wear OS",
+     "body": "El agente Muse AI de Meta ya funciona en relojes Wear OS y llega a muñecas Android antes que el Charm de Meta."
+    }
+   },
+   "date": "2026-11-14",
+   "section": "gadgets",
+   "has_full": true
+  },
+  {
+   "id": "games-ai-clone-ip-defense",
+   "headline": "AI 게임 복제 대응법\n변호사들이 정리했다",
+   "body": "Pryor Cashman 변호사들이 AI 복제작에 맞설 미국법 실무 지침을 냈다.",
+   "tool": "Games",
+   "source": "GamesIndustry.biz",
+   "url": "https://www.gamesindustry.biz/how-to-protect-your-ip-against-the-army-of-ai-clones",
+   "accent": "#2ec5c5",
+   "motif": "cube",
+   "image": "pipeline/media/games-ai-clone-ip-defense.jpg",
+   "source_lang": "en",
+   "text": {
+    "en": {
+     "headline": "Lawyers map defenses\nagainst AI game clones",
+     "body": "Pryor Cashman lawyers give developers practical US-law steps to protect games against generative AI clones."
+    },
+    "ko": {
+     "headline": "AI 게임 복제 대응법\n변호사들이 정리했다",
+     "body": "Pryor Cashman 변호사들이 AI 복제작에 맞설 미국법 실무 지침을 냈다."
+    },
+    "ja": {
+     "headline": "AIゲーム複製への\n防御策を弁護士が整理",
+     "body": "Pryor Cashmanの弁護士が、AIによるゲーム複製を防ぐ米国法の実務策を示した。"
+    },
+    "zh": {
+     "headline": "律师支招\n防范AI游戏克隆",
+     "body": "Pryor Cashman律师为开发者提供美国法下防范生成式AI克隆游戏的实用步骤。"
+    },
+    "es": {
+     "headline": "Abogados trazan defensas\ncontra clones de juegos con IA",
+     "body": "Abogados de Pryor Cashman dan pasos prácticos bajo la ley de EE. UU. para proteger juegos de clones con IA generativa."
+    }
+   },
+   "date": "2026-11-14",
+   "section": "games",
+   "has_full": true
+  },
+  {
+   "id": "pearlabyss-ai-pipeline",
+   "headline": "Pearl Abyss,\n전 개발 과정에 AI",
+   "body": "Pearl Abyss가 개발 전반에 AI를 들이며 DokeV는 2028년을 노린다.",
+   "tool": "Games",
+   "source": "Eurogamer",
+   "url": "https://www.eurogamer.net/crimson-desert-ai-pipeline-dokev-2028",
+   "accent": "#7928ca",
+   "motif": "cube",
+   "image": "pipeline/media/pearlabyss-ai-pipeline.jpg",
+   "source_lang": "en",
+   "text": {
+    "en": {
+     "headline": "Pearl Abyss brings AI\nto its entire pipeline",
+     "body": "Pearl Abyss is integrating AI across its whole development pipeline, with DokeV now targeted for 2028."
+    },
+    "ko": {
+     "headline": "Pearl Abyss,\n전 개발 과정에 AI",
+     "body": "Pearl Abyss가 개발 전반에 AI를 들이며 DokeV는 2028년을 노린다."
+    },
+    "ja": {
+     "headline": "Pearl Abyss、\n全開発工程にAI",
+     "body": "Pearl Abyssが開発工程全体にAIを導入し、DokeVは2028年を目指す。"
+    },
+    "zh": {
+     "headline": "Pearl Abyss\n全开发流程引入AI",
+     "body": "Pearl Abyss正将AI融入整个开发流程，DokeV目标定于2028年推出。"
+    },
+    "es": {
+     "headline": "Pearl Abyss lleva la IA\na todo su proceso de desarrollo",
+     "body": "Pearl Abyss integra la IA en todo su proceso de desarrollo y ahora prevé lanzar DokeV en 2028."
+    }
+   },
+   "date": "2026-11-14",
+   "section": "games",
+   "has_full": true
+  },
+  {
+   "id": "shadowkey-ngage-ai-revival",
+   "headline": "팬이 AI로 되살린\nN-Gage판 엘더스크롤",
+   "body": "한 팬이 AI 도구로 엘더스크롤 Shadowkey를 복원·개선해 PC로 옮긴다.",
+   "tool": "Games",
+   "source": "PC Gamer",
+   "url": "https://www.pcgamer.com/games/the-elder-scrolls/one-elder-scrolls-fan-is-reviving-and-upgrading-a-lost-spin-off-for-the-nokia-n-gage-and-porting-it-to-pc/",
+   "accent": "#f5a623",
+   "motif": "cube",
+   "image": "pipeline/media/shadowkey-ngage-ai-revival.jpg",
+   "source_lang": "en",
+   "text": {
+    "en": {
+     "headline": "Fan revives lost N-Gage\nElder Scrolls with AI",
+     "body": "A fan is using AI tools to restore and upgrade The Elder Scrolls Travels: Shadowkey and port it to PC."
+    },
+    "ko": {
+     "headline": "팬이 AI로 되살린\nN-Gage판 엘더스크롤",
+     "body": "한 팬이 AI 도구로 엘더스크롤 Shadowkey를 복원·개선해 PC로 옮긴다."
+    },
+    "ja": {
+     "headline": "幻のエルダースクロールズ\nN-Gage版をAIで復活",
+     "body": "あるファンがAIツールで『Shadowkey』を復元・強化し、PCへ移植している。"
+    },
+    "zh": {
+     "headline": "粉丝用AI复活\n失落的N-Gage上古卷轴",
+     "body": "一名粉丝正用AI工具修复并升级《Shadowkey》，并将其移植到PC。"
+    },
+    "es": {
+     "headline": "Un fan revive un Elder Scrolls\nperdido de N-Gage con IA",
+     "body": "Un fan usa herramientas de IA para restaurar y mejorar The Elder Scrolls Travels: Shadowkey y llevarlo a PC."
+    }
+   },
+   "date": "2026-11-14",
+   "section": "games",
+   "has_full": true
+  },
+  {
+   "id": "sony-qssr-ps5-rollout",
+   "headline": "Sony의 QSSR\nPS5 게임 6종 탑재",
+   "body": "PSSR에서 나온 경량 AI 업스케일러 QSSR이 PS5 게임 6종에 들어간다.",
+   "tool": "Games",
+   "source": "Wccftech",
+   "url": "https://wccftech.com/quick-spectral-super-resolution-six-ps5-games/",
+   "accent": "#0070f3",
+   "motif": "cube",
+   "image": "pipeline/media/sony-qssr-ps5-rollout.jpg",
+   "source_lang": "en",
+   "text": {
+    "en": {
+     "headline": "Sony's QSSR upscaler\nheads to six PS5 games",
+     "body": "Sony's QSSR, a lightweight AI upscaler derived from PS5 Pro's PSSR, is coming to six PS5 games."
+    },
+    "ko": {
+     "headline": "Sony의 QSSR\nPS5 게임 6종 탑재",
+     "body": "PSSR에서 나온 경량 AI 업스케일러 QSSR이 PS5 게임 6종에 들어간다."
+    },
+    "ja": {
+     "headline": "SonyのAI超解像QSSR\nPS5の6タイトルへ",
+     "body": "PSSR由来の軽量AIアップスケーラーQSSRがPS5の6タイトルに登場する。"
+    },
+    "zh": {
+     "headline": "Sony QSSR超分辨率\n登陆六款PS5游戏",
+     "body": "Sony基于PS5 Pro PSSR打造的轻量AI超分技术QSSR将登陆六款PS5游戏。"
+    },
+    "es": {
+     "headline": "El reescalador QSSR de Sony\nllega a seis juegos de PS5",
+     "body": "QSSR, el reescalador ligero con IA de Sony derivado del PSSR de PS5 Pro, llegará a seis juegos de PS5."
+    }
+   },
+   "date": "2026-11-14",
+   "section": "games",
+   "has_full": true
+  },
+  {
+   "id": "xbox-sharma-genai-memo",
+   "headline": "Xbox CEO 메모,\ngen-AI 제작 시사",
+   "body": "Xbox CEO가 기념 메모에서 작은 팀이 수백 명 몫의 세계를 만든다고 썼다.",
+   "tool": "Games",
+   "source": "Eurogamer",
+   "url": "https://www.eurogamer.net/microsoft-xbox-gen-ai-asha-sharma-memo",
+   "accent": "#eb367f",
+   "motif": "cube",
+   "image": "pipeline/media/xbox-sharma-genai-memo.jpg",
+   "source_lang": "en",
+   "text": {
+    "en": {
+     "headline": "Xbox CEO memo hints\nat gen-AI game making",
+     "body": "Xbox CEO Asha Sharma's anniversary memo says a small team will build worlds that today demand hundreds of developers."
+    },
+    "ko": {
+     "headline": "Xbox CEO 메모,\ngen-AI 제작 시사",
+     "body": "Xbox CEO가 기념 메모에서 작은 팀이 수백 명 몫의 세계를 만든다고 썼다."
+    },
+    "ja": {
+     "headline": "Xbox CEOのメモ\ngen-AIゲーム制作を示唆",
+     "body": "Xbox CEOの記念メモは、今は数百人を要する世界を小さなチームが作れると記した。"
+    },
+    "zh": {
+     "headline": "Xbox CEO备忘录\n暗示gen-AI做游戏",
+     "body": "Xbox CEO Sharma在周年备忘录中称，小团队将能打造如今需数百名开发者的世界。"
+    },
+    "es": {
+     "headline": "Un memorando del CEO de Xbox\napunta al desarrollo con gen-AI",
+     "body": "Asha Sharma, CEO de Xbox, escribe que un equipo pequeño creará mundos que hoy exigen cientos de desarrolladores."
+    }
+   },
+   "date": "2026-11-14",
+   "section": "games",
+   "has_full": true
+  },
+  {
+   "id": "buzzvil-prism-ad-engine",
+   "headline": "버즈빌, 이용자마다\n다른 광고 만드는 AI",
+   "body": "버즈빌 '프리즘'은 한 캠페인 안에서도 이용자별로 다른 광고를 자동 제작한다.",
+   "tool": "Marketing",
+   "source": "바이라인네트워크",
+   "url": "https://byline.network/2026/11/13_buzzvil/",
+   "accent": "#2ec5c5",
+   "motif": "frame",
+   "image": "pipeline/media/buzzvil-prism-ad-engine.jpg",
+   "source_lang": "ko",
+   "text": {
+    "ko": {
+     "headline": "버즈빌, 이용자마다\n다른 광고 만드는 AI",
+     "body": "버즈빌 '프리즘'은 한 캠페인 안에서도 이용자별로 다른 광고를 자동 제작한다."
+    },
+    "en": {
+     "headline": "Buzzvil's AI builds a different\nad for every user",
+     "body": "Buzzvil's Prism automatically creates different ads for each user, even within a single campaign."
+    },
+    "ja": {
+     "headline": "Buzzvil、利用者ごとに\n違う広告を作るAI",
+     "body": "BuzzvilのPrismは、一つのキャンペーン内でも利用者別に異なる広告を自動制作する。"
+    },
+    "zh": {
+     "headline": "Buzzvil用AI\n为每位用户定制广告",
+     "body": "Buzzvil的Prism即使在同一广告活动中，也能为每位用户自动制作不同广告。"
+    },
+    "es": {
+     "headline": "La IA de Buzzvil crea un anuncio\ndistinto para cada usuario",
+     "body": "Prism, de Buzzvil, crea automáticamente anuncios distintos para cada usuario, incluso dentro de una misma campaña."
+    }
+   },
+   "date": "2026-11-14",
+   "section": "marketing",
+   "has_full": true
+  },
+  {
+   "id": "chatgpt-wallet-dots-checkout",
+   "headline": "ChatGPT Wallet\nDots가 대신 산다",
+   "body": "US Pro 이용자부터 Dots 에이전트가 매번 확인받고 대신 결제한다.",
+   "tool": "Marketing",
+   "source": "The Verge",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+   "accent": "#ff8a3d",
+   "motif": "frame",
+   "image": "pipeline/media/chatgpt-wallet-dots-checkout.jpg",
+   "source_lang": "en",
+   "text": {
+    "en": {
+     "headline": "ChatGPT Wallet lets Dots\nagents buy on your behalf",
+     "body": "OpenAI's ChatGPT Wallet lets Dots agents make purchases with a check-in before each one, starting with US Pro users."
+    },
+    "ko": {
+     "headline": "ChatGPT Wallet\nDots가 대신 산다",
+     "body": "US Pro 이용자부터 Dots 에이전트가 매번 확인받고 대신 결제한다."
+    },
+    "ja": {
+     "headline": "ChatGPT Wallet\nDotsが代わりに購入",
+     "body": "US Pro利用者から、Dotsエージェントが毎回確認を経て代理購入する。"
+    },
+    "zh": {
+     "headline": "ChatGPT Wallet\nDots智能体代你购物",
+     "body": "US Pro用户率先使用，Dots智能体每次购买前都会先征得确认。"
+    },
+    "es": {
+     "headline": "ChatGPT Wallet permite a Dots\ncomprar en nombre del usuario",
+     "body": "ChatGPT Wallet deja que los agentes Dots compren tras confirmar cada pedido, primero para usuarios Pro en US."
+    }
+   },
+   "date": "2026-11-14",
+   "section": "marketing",
+   "has_full": true
+  },
+  {
+   "id": "iab-ai-attribution-blueprint",
+   "headline": "IAB, 구매 속 AI의\n기여를 따질 기준",
+   "body": "IAB 새 청사진은 AI가 구매에 관여한 몫을 재는 공통 기준을 담았다.",
+   "tool": "Marketing",
+   "source": "IAB",
+   "url": "https://www.iab.com/news/iab-releases-ai-era-attribution-blueprint/",
+   "accent": "#0070f3",
+   "motif": "frame",
+   "image": "pipeline/media/iab-ai-attribution-blueprint.png",
+   "source_lang": "en",
+   "text": {
+    "en": {
+     "headline": "IAB maps how to credit AI\nin the path to purchase",
+     "body": "IAB's new blueprint sets a shared way to measure AI's role when an assistant influences or completes a purchase."
+    },
+    "ko": {
+     "headline": "IAB, 구매 속 AI의\n기여를 따질 기준",
+     "body": "IAB 새 청사진은 AI가 구매에 관여한 몫을 재는 공통 기준을 담았다."
+    },
+    "ja": {
+     "headline": "IAB、購買でのAI\n貢献の測り方を示す",
+     "body": "IABの新指針は、AIが購入を左右・完結させた際の役割を測る共通の方法を定める。"
+    },
+    "zh": {
+     "headline": "IAB为购买路径中\nAI贡献定出归因规则",
+     "body": "IAB新蓝图为AI助手影响或完成购买时的作用，提供了一套共同的衡量方法。"
+    },
+    "es": {
+     "headline": "IAB define cómo atribuir a la IA\nsu papel en la ruta de compra",
+     "body": "El nuevo marco de IAB unifica cómo medir el papel de la IA cuando un asistente influye en una compra o la completa."
+    }
+   },
+   "date": "2026-11-14",
+   "section": "marketing",
+   "has_full": true
+  },
+  {
+   "id": "ppcland-agent-traffic-meta-openai",
+   "headline": "Meta·OpenAI가\nAI 에이전트 트래픽 장악",
+   "body": "Muse가 59%, Comet이 3.6%였고 요청 85%는 상품·검색 페이지였다.",
+   "tool": "Marketing",
+   "source": "PPC Land",
+   "url": "https://ppc.land/ai-agent-traffic-is-now-a-two-company-town-meta-and-openai/",
+   "accent": "#eb367f",
+   "motif": "frame",
+   "image": "pipeline/media/ppcland-agent-traffic-meta-openai.jpg",
+   "source_lang": "en",
+   "text": {
+    "en": {
+     "headline": "Meta and OpenAI now drive\nmost AI agent traffic",
+     "body": "Muse sent 59% of October's AI agent requests and Comet only 3.6%, with 85% landing on product and search pages."
+    },
+    "ko": {
+     "headline": "Meta·OpenAI가\nAI 에이전트 트래픽 장악",
+     "body": "Muse가 59%, Comet이 3.6%였고 요청 85%는 상품·검색 페이지였다."
+    },
+    "ja": {
+     "headline": "MetaとOpenAIが\nAIエージェント流入を席巻",
+     "body": "Museが要求の59%、Cometは3.6%を占め、85%は商品・検索ページ向けだ。"
+    },
+    "zh": {
+     "headline": "Meta和OpenAI\n主导多数AI智能体流量",
+     "body": "Muse占AI智能体请求的59%，Comet仅3.6%，85%的请求流向商品和搜索页面。"
+    },
+    "es": {
+     "headline": "Meta y OpenAI ya concentran\nel grueso del tráfico de agentes",
+     "body": "Muse envió el 59% de las peticiones de agentes de IA y Comet solo el 3.6%; el 85% fue a páginas de producto y búsqueda."
+    }
+   },
+   "date": "2026-11-14",
+   "section": "marketing",
+   "has_full": true
+  },
+  {
+   "id": "schibsted-nodals-ad-algorithms",
+   "headline": "Schibsted, 맞춤형\nAI로 Meta 예산 탈환",
+   "body": "Schibsted가 Nodals AI 맞춤 알고리즘으로 Meta 광고주를 되찾는다.",
+   "tool": "Marketing",
+   "source": "AdExchanger",
+   "url": "https://www.adexchanger.com/publishers/custom-ad-algorithms-are-helping-schibsted-media-win-budgets-back-from-meta/",
+   "accent": "#7928ca",
+   "motif": "frame",
+   "image": "pipeline/media/schibsted-nodals-ad-algorithms.jpg",
+   "source_lang": "en",
+   "text": {
+    "en": {
+     "headline": "Schibsted wins budgets back\nfrom Meta with custom AI",
+     "body": "Schibsted is building custom ad optimization algorithms with Nodals AI to win back brands drawn to Meta's own tools."
+    },
+    "ko": {
+     "headline": "Schibsted, 맞춤형\nAI로 Meta 예산 탈환",
+     "body": "Schibsted가 Nodals AI 맞춤 알고리즘으로 Meta 광고주를 되찾는다."
+    },
+    "ja": {
+     "headline": "独自AIのSchibsted\nMetaから予算を奪還",
+     "body": "SchibstedはNodals AIの独自アルゴリズムでMetaからブランドを奪還する。"
+    },
+    "zh": {
+     "headline": "Schibsted靠定制AI\n从Meta手中夺回预算",
+     "body": "Schibsted携手Nodals AI开发广告优化算法，夺回被Meta工具吸引的品牌。"
+    },
+    "es": {
+     "headline": "Schibsted recupera presupuesto\nde Meta con IA a medida",
+     "body": "Schibsted desarrolla con Nodals AI algoritmos de optimización publicitaria para recuperar marcas atraídas por Meta."
+    }
+   },
+   "date": "2026-11-14",
+   "section": "marketing",
+   "has_full": true
+  },
+  {
+   "id": "bracco-uptunity-aneurysm",
+   "headline": "FDA, Bracco AI\n뇌동맥류 탐지 허가",
+   "body": "Uptunity Aneurysm은 CTA로 3 mm 넘는 뇌동맥류를 찾고 추적한다.",
+   "tool": "Medicine",
+   "source": "AuntMinnie",
+   "url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/news/16425547/bracco-diagnostics-inc-bracco-avicennaai-get-fda-clearance-for-brain-aneurysm-ai-software",
+   "accent": "#00897b",
+   "motif": "sphere",
+   "image": "pipeline/media/bracco-uptunity-aneurysm.jpg",
+   "source_lang": "en",
+   "text": {
+    "en": {
+     "headline": "FDA clears Bracco AI for\nbrain aneurysm detection",
+     "body": "Uptunity Aneurysm flags suspected brain aneurysms over 3 mm on head CTA and tracks known ones across exams."
+    },
+    "ko": {
+     "headline": "FDA, Bracco AI\n뇌동맥류 탐지 허가",
+     "body": "Uptunity Aneurysm은 CTA로 3 mm 넘는 뇌동맥류를 찾고 추적한다."
+    },
+    "ja": {
+     "headline": "FDA、Bracco製\n脳動脈瘤検出AIを承認",
+     "body": "Uptunity Aneurysmは頭部CTAで3 mm超の脳動脈瘤を検出し追跡する。"
+    },
+    "zh": {
+     "headline": "FDA批准Bracco AI\n用于脑动脉瘤检测",
+     "body": "Uptunity Aneurysm在头部CTA上标记超过3 mm的疑似脑动脉瘤并追踪。"
+    },
+    "es": {
+     "headline": "La FDA autoriza la AI de Bracco\npara detectar aneurismas",
+     "body": "Uptunity Aneurysm señala posibles aneurismas cerebrales de más de 3 mm en CTA de cabeza y sigue los conocidos."
+    }
+   },
+   "date": "2026-11-14",
+   "section": "medicine",
+   "has_full": true
+  },
+  {
+   "id": "dyania-nvidia-onprem",
+   "headline": "Dyania·Nvidia\n차트 AI 병원망 안으로",
+   "body": "Dyania Health는 Synapsis AI를 병원 내 Nvidia로 돌린다.",
+   "tool": "Medicine",
+   "source": "Fierce Healthcare",
+   "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/dyania-health-nvidia-cleveland-clinic",
+   "accent": "#7928ca",
+   "motif": "sphere",
+   "image": "pipeline/media/dyania-nvidia-onprem.jpg",
+   "source_lang": "en",
+   "text": {
+    "en": {
+     "headline": "Dyania, Nvidia keep chart AI\ninside hospital networks",
+     "body": "Dyania Health will run its Synapsis reasoning AI on hospital-owned Nvidia systems, keeping patient data in-house."
+    },
+    "ko": {
+     "headline": "Dyania·Nvidia\n차트 AI 병원망 안으로",
+     "body": "Dyania Health는 Synapsis AI를 병원 내 Nvidia로 돌린다."
+    },
+    "ja": {
+     "headline": "Dyania・Nvidia\nカルテAIを院内網に",
+     "body": "Dyania HealthはSynapsis AIを院内のNvidiaで動かす。"
+    },
+    "zh": {
+     "headline": "Dyania与Nvidia\n让病历AI留在院内",
+     "body": "Dyania Health在医院自有Nvidia系统上运行Synapsis推理AI。"
+    },
+    "es": {
+     "headline": "Dyania y Nvidia mantienen la AI\nclínica dentro del hospital",
+     "body": "Dyania Health ejecutará su AI de razonamiento Synapsis en sistemas Nvidia del hospital, sin sacar datos de pacientes."
+    }
+   },
+   "date": "2026-11-14",
+   "section": "medicine",
+   "has_full": true
+  },
+  {
+   "id": "gangwon-public-ai-highway",
+   "headline": "강원 공공병원에\n의료 AI 고속도로",
+   "body": "복지부가 강원대병원과 영월의료원을 잇는 공공의료 AI 고속도로를 시범 개통했다.",
+   "tool": "Medicine",
+   "source": "청년의사",
+   "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044493",
+   "accent": "#f5a623",
+   "motif": "sphere",
+   "image": "pipeline/media/gangwon-public-ai-highway.jpg",
+   "source_lang": "ko",
+   "text": {
+    "ko": {
+     "headline": "강원 공공병원에\n의료 AI 고속도로",
+     "body": "복지부가 강원대병원과 영월의료원을 잇는 공공의료 AI 고속도로를 시범 개통했다."
+    },
+    "en": {
+     "headline": "A medical AI highway for\nGangwon's public hospitals",
+     "body": "A pilot public healthcare AI highway now links Kangwon National University Hospital and Yeongwol Medical Center."
+    },
+    "ja": {
+     "headline": "江原の公立病院に\n医療AI高速道路",
+     "body": "保健福祉部が江原大学病院と寧越医療院を結ぶ公共医療AI高速道路を試験開通した。"
+    },
+    "zh": {
+     "headline": "江原公立医院\n接入医疗AI高速路",
+     "body": "保健福祉部试点开通连接江原大学医院与宁越医疗院的公共医疗AI高速公路。"
+    },
+    "es": {
+     "headline": "Autopista de AI médica llega\na hospitales públicos de Gangwon",
+     "body": "Una autopista piloto de AI médica conecta el Hospital Universitario de Kangwon con el Centro Médico de Yeongwol."
+    }
+   },
+   "date": "2026-11-14",
+   "section": "medicine",
+   "has_full": true
+  },
+  {
+   "id": "npj-ai-malfunction-oversight",
+   "headline": "오작동하는 AI,\n의사도 잡기 어렵다",
+   "body": "의사 48명 무작위 연구에서 심장 청진 AI의 신뢰도가 떨어지자 진단도 나빠졌다.",
+   "tool": "Medicine",
+   "source": "npj Digital Medicine",
+   "url": "https://www.nature.com/articles/s41746-026-03410-x",
+   "accent": "#3b6bff",
+   "motif": "sphere",
+   "image": "pipeline/media/npj-ai-malfunction-oversight.png",
+   "source_lang": "en",
+   "text": {
+    "en": {
+     "headline": "Doctors struggle to catch\na malfunctioning AI",
+     "body": "In a randomized study of 48 physicians, diagnostic performance fell as a cardiac auscultation AI grew less reliable."
+    },
+    "ko": {
+     "headline": "오작동하는 AI,\n의사도 잡기 어렵다",
+     "body": "의사 48명 무작위 연구에서 심장 청진 AI의 신뢰도가 떨어지자 진단도 나빠졌다."
+    },
+    "ja": {
+     "headline": "誤作動するAIを\n医師は見抜きにくい",
+     "body": "医師48人の無作為化研究で、心音聴診AIの信頼性が下がると診断成績も低下した。"
+    },
+    "zh": {
+     "headline": "AI出故障时\n医生难以察觉",
+     "body": "一项纳入48名医生的随机研究显示，心脏听诊AI越不可靠，诊断表现越差。"
+    },
+    "es": {
+     "headline": "A los médicos les cuesta\ndetectar una AI que falla",
+     "body": "En un ensayo aleatorizado con 48 médicos, el diagnóstico empeoró al perder fiabilidad una AI de auscultación cardíaca."
+    }
+   },
+   "date": "2026-11-14",
+   "section": "medicine",
+   "has_full": true
+  },
+  {
+   "id": "samsung-heidi-ambient-scribe",
+   "headline": "삼성서울병원\n하이디 음성기록 AI",
+   "body": "삼성서울병원이 하이디와 MOU를 맺고 다윈에 AI 진료 기록 도입을 추진한다.",
+   "tool": "Medicine",
+   "source": "청년의사",
+   "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044540",
+   "accent": "#eb367f",
+   "motif": "sphere",
+   "image": "pipeline/media/samsung-heidi-ambient-scribe.jpg",
+   "source_lang": "ko",
+   "text": {
+    "ko": {
+     "headline": "삼성서울병원\n하이디 음성기록 AI",
+     "body": "삼성서울병원이 하이디와 MOU를 맺고 다윈에 AI 진료 기록 도입을 추진한다."
+    },
+    "en": {
+     "headline": "Samsung Medical Center, Heidi\npartner on AI voice records",
+     "body": "Samsung Medical Center signed an MOU with Heidi and plans to bring AI clinical documentation to DARWIN."
+    },
+    "ja": {
+     "headline": "サムスンソウル病院\nHeidiの音声記録AI",
+     "body": "サムスンソウル病院がHeidiとMOUを結び、DARWINへのAI診療記録導入を進める。"
+    },
+    "zh": {
+     "headline": "三星首尔医院\nHeidi语音记录AI",
+     "body": "三星首尔医院与Heidi签署MOU，推进在DARWIN中引入AI病历记录。"
+    },
+    "es": {
+     "headline": "Samsung Medical Center y Heidi\nAI para registros por voz",
+     "body": "Samsung Medical Center firmó un MOU con Heidi y busca incorporar a DARWIN la documentación clínica con AI."
+    }
+   },
+   "date": "2026-11-14",
+   "section": "medicine",
+   "has_full": true
+  },
+  {
+   "id": "manchester-animation-ai-policy",
+   "headline": "Manchester 영화제\n생성형 AI 정책 도입",
+   "body": "Manchester 영화제가 2026 수상작과 생성형 AI 출품 정책을 발표했다.",
+   "tool": "Movies",
+   "source": "Animation Magazine",
+   "url": "https://www.animationmagazine.net/2026/11/manchester-animation-festival-announces-2026-winners-new-ai-policy/",
+   "accent": "#2ec5c5",
+   "motif": "frame",
+   "image": "pipeline/media/manchester-animation-ai-policy.jpg",
+   "source_lang": "en",
+   "text": {
+    "en": {
+     "headline": "Manchester Animation Festival\nsets a generative AI policy",
+     "body": "Manchester Animation Festival named its 2026 winners and introduced a policy governing generative AI in submissions."
+    },
+    "ko": {
+     "headline": "Manchester 영화제\n생성형 AI 정책 도입",
+     "body": "Manchester 영화제가 2026 수상작과 생성형 AI 출품 정책을 발표했다."
+    },
+    "ja": {
+     "headline": "Manchester映画祭\n生成AIの方針を導入",
+     "body": "Manchester映画祭が2026年の受賞作と、生成AIの応募方針を発表した。"
+    },
+    "zh": {
+     "headline": "Manchester动画节\n出台生成式AI政策",
+     "body": "Manchester动画节公布2026年获奖名单，并推出生成式AI投稿政策。"
+    },
+    "es": {
+     "headline": "Manchester Animation Festival\nfija normas sobre IA generativa",
+     "body": "El Manchester Animation Festival anunció sus ganadores de 2026 y fijó normas sobre IA generativa en las candidaturas."
+    }
+   },
+   "date": "2026-11-14",
+   "section": "movies",
+   "has_full": true
+  },
+  {
+   "id": "screenburn-writers-room",
+   "headline": "Screenburn AI,\n마이크로드라마 시즌 집필",
+   "body": "The Writers Room은 생성형 AI로 80편짜리 시즌 초안을 쓴다.",
+   "tool": "Movies",
+   "source": "Broadcast",
+   "url": "https://www.broadcastnow.co.uk/production-and-post/screenburn-group-launches-ai-tool-to-write-full-microdrama-seasons/5222355.article",
+   "accent": "#f5a623",
+   "motif": "frame",
+   "image": "pipeline/media/screenburn-writers-room.jpg",
+   "source_lang": "en",
+   "text": {
+    "en": {
+     "headline": "Screenburn's AI drafts\nfull microdrama seasons",
+     "body": "Screenburn's The Writers Room uses generative AI to draft 80-episode vertical-drama seasons from a writer's concept."
+    },
+    "ko": {
+     "headline": "Screenburn AI,\n마이크로드라마 시즌 집필",
+     "body": "The Writers Room은 생성형 AI로 80편짜리 시즌 초안을 쓴다."
+    },
+    "ja": {
+     "headline": "ScreenburnのAI\nマイクロドラマを丸ごと執筆",
+     "body": "The Writers Roomは生成AIで、全80話の縦型ドラマのシーズンを書く。"
+    },
+    "zh": {
+     "headline": "Screenburn的AI\n可起草整季微短剧",
+     "body": "The Writers Room用生成式AI依据编剧构想起草80集竖屏剧整季。"
+    },
+    "es": {
+     "headline": "La IA de Screenburn redacta\ntemporadas de microdrama",
+     "body": "The Writers Room, de Screenburn, usa IA generativa para redactar temporadas de drama vertical de 80 episodios."
+    }
+   },
+   "date": "2026-11-14",
+   "section": "movies",
+   "has_full": true
+  },
+  {
+   "id": "seedance-25-flash-bytedance",
+   "headline": "ByteDance가 AI\n영상 비용 낮춘 Flash",
+   "body": "ByteDance Seedance 2.5 Flash 720p 초당 0.99위안이다.",
+   "tool": "Movies",
+   "source": "Pandaily",
+   "url": "https://pandaily.com/bytedance-seedance-2-5-flash-faster-lower-cost-video-model-volcano-ark-api",
+   "accent": "#eb367f",
+   "motif": "frame",
+   "image": "pipeline/media/seedance-25-flash-bytedance.png",
+   "source_lang": "en",
+   "text": {
+    "en": {
+     "headline": "ByteDance cuts AI video\ncost with a Flash model",
+     "body": "ByteDance's Seedance 2.5 Flash generates video twice as fast as Seedance 2.5 at about 0.99 yuan per second at 720p."
+    },
+    "es": {
+     "headline": "ByteDance abarata el video AI\ncon un modelo Flash",
+     "body": "Seedance 2.5 Flash, de ByteDance, duplica la velocidad de Seedance 2.5 a unos 0.99 yuanes por segundo en 720p."
+    },
+    "ko": {
+     "headline": "ByteDance가 AI\n영상 비용 낮춘 Flash",
+     "body": "ByteDance Seedance 2.5 Flash 720p 초당 0.99위안이다."
+    },
+    "ja": {
+     "headline": "ByteDanceがAI\n動画を安くするFlash",
+     "body": "ByteDanceのSeedance 2.5 Flashは倍速で720p毎秒約0.99元だ。"
+    },
+    "zh": {
+     "headline": "ByteDance降低AI\n视频成本的Flash模型",
+     "body": "ByteDance的Seedance 2.5 Flash速度翻倍，720p每秒约0.99元。"
+    }
+   },
+   "date": "2026-11-14",
+   "section": "movies",
+   "has_full": true
+  },
+  {
+   "id": "shortical-inevitable-avni",
+   "headline": "Inevitable 공개,\nAki Avni AI 분신",
+   "body": "Aki Avni가 동의한 AI 분신이 주연한 Inevitable이 공개됐다.",
+   "tool": "Movies",
+   "source": "TheWrap",
+   "url": "https://www.thewrap.com/creative-content/tv-shows/shorticals-ai-generated-microseries-inevitable-premieres-aki-avni-ai-actor/",
+   "accent": "#0070f3",
+   "motif": "frame",
+   "image": "pipeline/media/shortical-inevitable-avni.jpg",
+   "source_lang": "en",
+   "text": {
+    "en": {
+     "headline": "Shortical premieres Inevitable\nwith Aki Avni's AI double",
+     "body": "Shortical's fully AI-generated microdrama Inevitable premieres with a consented AI double of actor Aki Avni."
+    },
+    "ko": {
+     "headline": "Inevitable 공개,\nAki Avni AI 분신",
+     "body": "Aki Avni가 동의한 AI 분신이 주연한 Inevitable이 공개됐다."
+    },
+    "ja": {
+     "headline": "Inevitable配信開始\nAki AvniのAI分身",
+     "body": "Aki Avni公認のAI分身が主演するInevitableが配信を始めた。"
+    },
+    "zh": {
+     "headline": "Inevitable首播\nAki Avni的AI分身",
+     "body": "Shortical微短剧Inevitable首播，由Aki Avni授权的AI分身出演。"
+    },
+    "es": {
+     "headline": "Shortical estrena Inevitable\ncon un doble de IA de Aki Avni",
+     "body": "Shortical estrena Inevitable, microserie hecha por completo con IA, con un doble de IA autorizado por Aki Avni."
+    }
+   },
+   "date": "2026-11-14",
+   "section": "movies",
+   "has_full": true
+  },
+  {
+   "id": "zhao-liying-hongguo-lawsuit",
+   "headline": "Zhao Liying,\nHongguo 초상권 소송",
+   "body": "Zhao Liying이 Hongguo 운영사와 Douyin에 초상권 소송을 냈다.",
+   "tool": "Movies",
+   "source": "Global Times",
+   "url": "https://www.globaltimes.cn/page/202611/1374182.shtml",
+   "accent": "#7928ca",
+   "motif": "frame",
+   "image": "pipeline/media/zhao-liying-hongguo-lawsuit.jpg",
+   "source_lang": "en",
+   "text": {
+    "en": {
+     "headline": "Zhao Liying sues Hongguo\nover use of her likeness",
+     "body": "Zhao Liying has sued short-drama app Hongguo's operator and Douyin over alleged unauthorized use of her likeness."
+    },
+    "ko": {
+     "headline": "Zhao Liying,\nHongguo 초상권 소송",
+     "body": "Zhao Liying이 Hongguo 운영사와 Douyin에 초상권 소송을 냈다."
+    },
+    "ja": {
+     "headline": "Zhao Liyingが提訴\nHongguoの肖像使用で",
+     "body": "Zhao Liyingが肖像の無断使用でHongguo運営会社とDouyinを提訴した。"
+    },
+    "zh": {
+     "headline": "Zhao Liying起诉\nHongguo擅用其肖像",
+     "body": "赵丽颖（Zhao Liying）以肖像遭擅用为由起诉Hongguo运营方及Douyin。"
+    },
+    "es": {
+     "headline": "Zhao Liying demanda a Hongguo\npor el uso de su imagen",
+     "body": "Zhao Liying demandó al operador de la app Hongguo y a Douyin por el presunto uso no autorizado de su imagen."
+    }
+   },
+   "date": "2026-11-14",
+   "section": "movies",
+   "has_full": true
+  },
+  {
+   "id": "bpi-getty-offshore-training",
+   "headline": "BPI, 해외 AI 학습\n저작권 우회 경고",
+   "body": "BPI가 UK 항소심에서 Getty 편에 서서 AI 역외 학습을 경고했다.",
+   "tool": "Music",
+   "source": "CMU",
+   "url": "https://completemusicupdate.com/getty-v-stability-ruling-could-allow-ai-companies-to-offshore-training-to-circumvent-uk-copyright-law-says-bpi/",
+   "accent": "#7928ca",
+   "motif": "sphere",
+   "image": "pipeline/media/bpi-getty-offshore-training.jpg",
+   "source_lang": "en",
+   "text": {
+    "en": {
+     "headline": "BPI warns of offshore\nAI training loophole",
+     "body": "Backing Getty at the UK Court of Appeal, the BPI warned AI firms could train offshore to sidestep UK copyright."
+    },
+    "ko": {
+     "headline": "BPI, 해외 AI 학습\n저작권 우회 경고",
+     "body": "BPI가 UK 항소심에서 Getty 편에 서서 AI 역외 학습을 경고했다."
+    },
+    "ja": {
+     "headline": "BPI、海外でのAI学習\n著作権回避に警鐘",
+     "body": "BPIはUK控訴院でGettyを支持し、AI企業の国外学習による著作権回避を警告した。"
+    },
+    "zh": {
+     "headline": "BPI警告离岸AI训练\n或成版权漏洞",
+     "body": "BPI在UK上诉法院支持Getty，警告AI公司或借离岸训练规避UK版权。"
+    },
+    "es": {
+     "headline": "La BPI alerta del vacío legal\nde entrenar AI en el extranjero",
+     "body": "La BPI apoyó a Getty y advirtió que las firmas de AI podrían entrenar fuera de UK para eludir su copyright."
+    }
+   },
+   "date": "2026-11-14",
+   "section": "music",
+   "has_full": true
+  },
+  {
+   "id": "mumuru-melon-ai-number1",
+   "headline": "AI 활용곡 사상 첫\n멜론 톱 100 1위",
+   "body": "머무르의 AI 활용곡이 리센느 등 K팝 스타를 제치고 멜론 1위에 올랐다.",
+   "tool": "Music",
+   "source": "연합뉴스",
+   "url": "https://www.yna.co.kr/view/AKR20261113157000005",
+   "accent": "#f5a623",
+   "motif": "sphere",
+   "source_lang": "ko",
+   "text": {
+    "ko": {
+     "headline": "AI 활용곡 사상 첫\n멜론 톱 100 1위",
+     "body": "머무르의 AI 활용곡이 리센느 등 K팝 스타를 제치고 멜론 1위에 올랐다."
+    },
+    "en": {
+     "headline": "First AI-assisted song\nhits No. 1 on Melon Top 100",
+     "body": "Mumuru's AI-assisted song beat K-pop stars including RESCENE to reach No. 1 on Melon."
+    },
+    "ja": {
+     "headline": "AI活用曲が史上初\nメロン トップ100 1位",
+     "body": "MumuruのAI活用曲がRESCENEらK-POPスターを抑え、メロンで1位に立った。"
+    },
+    "zh": {
+     "headline": "AI歌曲史上首获Melon\nTop 100 第1名",
+     "body": "머무르的AI辅助歌曲力压RESCENE等K-pop明星，登上Melon第1名。"
+    },
+    "es": {
+     "headline": "Un tema con AI, por primera vez\nn.º 1 en el Top 100 de Melon",
+     "body": "Un tema de 머무르 creado con AI superó a estrellas del K-pop como RESCENE y alcanzó el n.º 1 en Melon."
+    }
+   },
+   "date": "2026-11-14",
+   "section": "music",
+   "has_full": true
+  },
+  {
+   "id": "radiomatic-venue-ai-music",
+   "headline": "RadioMatic,\n매장에 AI 음악 공급",
+   "body": "RadioMatic이 카페·바에 AI-generated 배경음악을 공급한다.",
+   "tool": "Music",
+   "source": "Music Ally",
+   "url": "https://musically.com/2026/11/12/radiomatic-aims-to-make-ai-music-a-soundtrack-for-businesses/",
+   "accent": "#2ec5c5",
+   "motif": "sphere",
+   "image": "pipeline/media/radiomatic-venue-ai-music.jpg",
+   "source_lang": "en",
+   "text": {
+    "en": {
+     "headline": "RadioMatic pitches AI music\nas venue soundtracks",
+     "body": "Startup RadioMatic is launching to supply AI-generated background music to cafes, bars and other businesses."
+    },
+    "ko": {
+     "headline": "RadioMatic,\n매장에 AI 음악 공급",
+     "body": "RadioMatic이 카페·바에 AI-generated 배경음악을 공급한다."
+    },
+    "ja": {
+     "headline": "RadioMatic、\n店舗向けAI音楽を提案",
+     "body": "RadioMaticがカフェやバーなどにAI-generatedの背景音楽を供給する。"
+    },
+    "zh": {
+     "headline": "RadioMatic推出\n为门店提供AI音乐",
+     "body": "初创公司RadioMatic为咖啡馆、酒吧等商家提供AI-generated背景音乐。"
+    },
+    "es": {
+     "headline": "RadioMatic ofrece música AI\ncomo banda sonora de locales",
+     "body": "La startup RadioMatic se lanza para ofrecer música de fondo AI-generated a cafés, bares y otros negocios."
+    }
+   },
+   "date": "2026-11-14",
+   "section": "music",
+   "has_full": true
+  },
+  {
+   "id": "suno-bridge-ableton",
+   "headline": "Suno Bridge가\nLive 12 안에서 작곡",
+   "body": "Suno 베타 Mac 앱이 Ableton Live 12와 연동해 파트를 만든다.",
+   "tool": "Music",
+   "source": "Suno",
+   "url": "https://suno.com/blog/introducing-bridge",
+   "accent": "#ff2d55",
+   "motif": "sphere",
+   "image": "pipeline/media/suno-bridge-ableton.jpg",
+   "source_lang": "en",
+   "text": {
+    "en": {
+     "headline": "Suno Bridge writes parts\ninside Ableton Live 12",
+     "body": "Suno's beta Mac app syncs with Ableton Live 12 and drops parts that follow tempo, key and chords onto the timeline."
+    },
+    "ko": {
+     "headline": "Suno Bridge가\nLive 12 안에서 작곡",
+     "body": "Suno 베타 Mac 앱이 Ableton Live 12와 연동해 파트를 만든다."
+    },
+    "ja": {
+     "headline": "Suno Bridge、\nLive 12でパート生成",
+     "body": "SunoのMac用ベータ版がAbleton Live 12 と連携し、パートを生成する。"
+    },
+    "zh": {
+     "headline": "Suno Bridge\n在Live 12中写声部",
+     "body": "Suno的Mac测试版应用与Ableton Live 12 同步，将声部直接放上时间线。"
+    },
+    "es": {
+     "headline": "Suno Bridge crea partes\ndentro de Ableton Live 12",
+     "body": "La app beta de Suno para Mac se sincroniza con Ableton Live 12 y crea partes que siguen tempo, tonalidad y acordes."
+    }
+   },
+   "date": "2026-11-14",
+   "section": "music",
+   "has_full": true
+  },
+  {
+   "id": "vocaloid7-editor-release",
+   "headline": "VOCALOID7 출시\nCubase 연동 강화",
+   "body": "$129짜리 VOCALOID7이 VOCALOID:AI와 Cubase 연동을 갖췄다.",
+   "tool": "Music",
+   "source": "월간 믹싱",
+   "url": "https://mixing.co.kr/en/44521",
+   "accent": "#0070f3",
+   "motif": "sphere",
+   "image": "pipeline/media/vocaloid7-editor-release.jpg",
+   "source_lang": "en",
+   "text": {
+    "en": {
+     "headline": "Yamaha ships VOCALOID7\nwith deeper Cubase ties",
+     "body": "VOCALOID7 Editor costs $129 and runs second-generation VOCALOID:AI, with lyric entry directly in Cubase's Key Editor."
+    },
+    "ko": {
+     "headline": "VOCALOID7 출시\nCubase 연동 강화",
+     "body": "$129짜리 VOCALOID7이 VOCALOID:AI와 Cubase 연동을 갖췄다."
+    },
+    "ja": {
+     "headline": "VOCALOID7発売\nCubase連携を強化",
+     "body": "VOCALOID7は$129で、第二世代VOCALOID:AIとCubase連携を備える。"
+    },
+    "zh": {
+     "headline": "VOCALOID7发布\n深化Cubase联动",
+     "body": "VOCALOID7售价$129，搭载第二代VOCALOID:AI并深化Cubase联动。"
+    },
+    "es": {
+     "headline": "Yamaha lanza VOCALOID7\ncon más integración en Cubase",
+     "body": "VOCALOID7 Editor cuesta $129, usa VOCALOID:AI de segunda generación y admite letras en el Key Editor de Cubase."
+    }
+   },
+   "date": "2026-11-14",
+   "section": "music",
+   "has_full": true
+  },
+  {
+   "id": "politics-ama-ai-liability",
+   "headline": "AI-caused 피해에\n의사들 면책 요구",
+   "body": "AMA가 AI 피해 때 의사 면책과 AI 업체 배상보험 의무화를 요구했다.",
+   "tool": "Politics",
+   "source": "Axios",
+   "url": "https://www.axios.com/2026/11/13/doctors-ai-mistakes-liability-shield",
+   "accent": "#3b6bff",
+   "motif": "cube",
+   "image": "pipeline/media/politics-ama-ai-liability.jpg",
+   "source_lang": "en",
+   "text": {
+    "en": {
+     "headline": "Doctors seek a liability shield\nfor AI-caused patient harm",
+     "body": "The AMA urged laws to shield doctors when AI harms patients and to make AI vendors carry liability insurance."
+    },
+    "ko": {
+     "headline": "AI-caused 피해에\n의사들 면책 요구",
+     "body": "AMA가 AI 피해 때 의사 면책과 AI 업체 배상보험 의무화를 요구했다."
+    },
+    "ja": {
+     "headline": "AI-caused 被害で\n医師が免責を要求",
+     "body": "AMAは、AIによる患者被害で医師を守り、AI企業に賠償保険を義務付ける法整備を求めた。"
+    },
+    "zh": {
+     "headline": "AI-caused 患者伤害\n医生寻求免责保护",
+     "body": "AMA呼吁立法，在AI伤害患者时保护医生，并要求AI供应商购买责任保险。"
+    },
+    "es": {
+     "headline": "Médicos piden un escudo legal\npor daños AI-caused a pacientes",
+     "body": "La AMA pidió leyes que protejan a los médicos si la AI daña a pacientes y que los proveedores de AI tengan seguro."
+    }
+   },
+   "date": "2026-11-14",
+   "section": "politics",
+   "has_full": true
+  },
+  {
+   "id": "politics-indonesia-copyright-bill",
+   "headline": "인도네시아, 플랫폼에\nAI 뉴스 대가 부과",
+   "body": "인도네시아 법안대로면 플랫폼은 미리보기·AI 검색·학습 대가를 언론사에 내야 한다.",
+   "tool": "Politics",
+   "source": "Nieman Lab",
+   "url": "https://www.niemanlab.org/2026/11/indonesias-new-copyright-bill-would-force-google-and-meta-to-pay-to-aggregate-news/",
+   "accent": "#7928ca",
+   "motif": "cube",
+   "image": "pipeline/media/politics-indonesia-copyright-bill.jpg",
+   "source_lang": "en",
+   "text": {
+    "en": {
+     "headline": "Indonesia bill would make\nplatforms pay for AI news use",
+     "body": "Indonesia's bill would make platforms pay publishers for previews, AI search and training, a first for Southeast Asia."
+    },
+    "ko": {
+     "headline": "인도네시아, 플랫폼에\nAI 뉴스 대가 부과",
+     "body": "인도네시아 법안대로면 플랫폼은 미리보기·AI 검색·학습 대가를 언론사에 내야 한다."
+    },
+    "ja": {
+     "headline": "インドネシア法案、\nAIの記事利用に対価",
+     "body": "インドネシア法案は、プレビューやAI検索、学習の記事利用料をプラットフォームに課す。"
+    },
+    "zh": {
+     "headline": "印尼法案拟要求平台\n为AI使用新闻付费",
+     "body": "印尼法案要求平台为预览、AI搜索和训练向出版商付费，在东南亚尚属首次。"
+    },
+    "es": {
+     "headline": "Indonesia quiere que plataformas\npaguen por usar noticias en AI",
+     "body": "Indonesia cobraría a plataformas por vistas previas, búsqueda con AI y entrenamiento, algo inédito en Asia del Sureste."
+    }
+   },
+   "date": "2026-11-14",
+   "section": "politics",
+   "has_full": true
+  },
+  {
+   "id": "politics-malaysia-megaspeed-probe",
+   "headline": "말레이시아, AI 반도체\n유출 의혹 공식 조사",
+   "body": "말레이시아 정부가 메가스피드 자회사의 AI 반도체 유출 여부 조사에 착수했다.",
+   "tool": "Politics",
+   "source": "연합뉴스",
+   "url": "https://www.yna.co.kr/view/AKR20261113115800104",
+   "accent": "#2ec5c5",
+   "motif": "cube",
+   "image": "pipeline/media/politics-malaysia-megaspeed-probe.jpg",
+   "source_lang": "ko",
+   "text": {
+    "ko": {
+     "headline": "말레이시아, AI 반도체\n유출 의혹 공식 조사",
+     "body": "말레이시아 정부가 메가스피드 자회사의 AI 반도체 유출 여부 조사에 착수했다."
+    },
+    "en": {
+     "headline": "Malaysia formally probes\nsuspected AI chip diversion",
+     "body": "Malaysia's government has begun investigating whether a Megaspeed subsidiary diverted AI chips."
+    },
+    "ja": {
+     "headline": "マレーシア、AI半導体\n流出疑惑を正式調査",
+     "body": "マレーシア政府がメガスピード子会社によるAI半導体流出の有無について調査に着手した。"
+    },
+    "zh": {
+     "headline": "马来西亚正式调查\nAI芯片外流嫌疑",
+     "body": "马来西亚政府已着手调查Megaspeed子公司是否外流了AI芯片。"
+    },
+    "es": {
+     "headline": "Malasia investiga formalmente\nla posible fuga de chips de AI",
+     "body": "El Gobierno de Malasia comenzó a investigar si una filial de Megaspeed desvió chips de AI a otros países."
+    }
+   },
+   "date": "2026-11-14",
+   "section": "politics",
+   "has_full": true
+  },
+  {
+   "id": "politics-openai-ontario-appeal",
+   "headline": "캐나다 언론사의\nOpenAI 소송 진행",
+   "body": "캐나다 항소법원이 OpenAI 항소를 기각해 ChatGPT 저작권 소송이 계속된다.",
+   "tool": "Politics",
+   "source": "Toronto Star (The Canadian Press)",
+   "url": "https://www.thestar.com/business/court-allows-news-publishers-copyright-lawsuit-against-openai-to-go-ahead/article_5e78ecd0-e974-554c-a739-662e0f68b658.html",
+   "accent": "#0070f3",
+   "motif": "cube",
+   "image": "pipeline/media/politics-openai-ontario-appeal.jpg",
+   "source_lang": "en",
+   "text": {
+    "en": {
+     "headline": "Canadian news publishers' suit\nagainst OpenAI can proceed",
+     "body": "An Ontario appeals court dismissed OpenAI's appeal, letting publishers' ChatGPT copyright suit proceed in Canada."
+    },
+    "ko": {
+     "headline": "캐나다 언론사의\nOpenAI 소송 진행",
+     "body": "캐나다 항소법원이 OpenAI 항소를 기각해 ChatGPT 저작권 소송이 계속된다."
+    },
+    "ja": {
+     "headline": "カナダ報道機関の\nOpenAI提訴が続行",
+     "body": "オンタリオ州控訴裁がOpenAIの控訴を棄却し、ChatGPT著作権訴訟がカナダで続く。"
+    },
+    "zh": {
+     "headline": "加拿大新闻机构\n诉OpenAI案可继续",
+     "body": "安大略上诉法院驳回OpenAI上诉，出版商的ChatGPT版权诉讼得以在加拿大继续。"
+    },
+    "es": {
+     "headline": "Sigue la demanda de medios\ncanadienses contra OpenAI",
+     "body": "La corte de apelación de Ontario rechazó el recurso de OpenAI y la demanda de medios por ChatGPT seguirá en Canadá."
+    }
+   },
+   "date": "2026-11-14",
+   "section": "politics",
+   "has_full": true
+  },
+  {
+   "id": "politics-whitehall-ai-applications",
+   "headline": "AI 지원서 급증에\nWhitehall 대면면접",
+   "body": "AI-generated 지원서가 의심되자 Whitehall이 대면 면접을 늘린다.",
+   "tool": "Politics",
+   "source": "POLITICO Europe",
+   "url": "https://www.politico.eu/article/whitehall-increase-in-person-job-interviews-after-ai-applications/",
+   "accent": "#ff5a4d",
+   "motif": "cube",
+   "image": "pipeline/media/politics-whitehall-ai-applications.jpg",
+   "source_lang": "en",
+   "text": {
+    "en": {
+     "headline": "Whitehall plans in-person\ninterviews over AI applications",
+     "body": "Civil service leaders suspect some applications were wholly AI-generated, so Whitehall plans more in-person interviews."
+    },
+    "ko": {
+     "headline": "AI 지원서 급증에\nWhitehall 대면면접",
+     "body": "AI-generated 지원서가 의심되자 Whitehall이 대면 면접을 늘린다."
+    },
+    "ja": {
+     "headline": "AI応募急増を受け\nWhitehallが対面面接",
+     "body": "AI-generatedの応募を疑い、Whitehallは対面面接を増やす。"
+    },
+    "zh": {
+     "headline": "AI求职申请泛滥\nWhitehall增当面面试",
+     "body": "公务员高层怀疑部分申请完全为AI-generated，Whitehall拟增加当面面试。"
+    },
+    "es": {
+     "headline": "Whitehall prevé más entrevistas\npresenciales ante el uso de AI",
+     "body": "Se sospecha que algunas solicitudes eran por completo AI-generated, y Whitehall prevé más entrevistas presenciales."
+    }
+   },
+   "date": "2026-11-14",
+   "section": "politics",
+   "has_full": true
+  },
+  {
+   "id": "codex-collider-amplitudes",
+   "headline": "코딩 에이전트, 더 빠른\n충돌기 물리 코드 탐색",
+   "body": "Codex-driven 탐색으로 시드보다 약 805배 빠른 진폭 코드를 얻었다.",
+   "tool": "Science",
+   "source": "Physics World",
+   "url": "https://physicsworld.com/a/ai-agents-act-as-search-tool-for-more-efficient-collider-physics-calculations/",
+   "accent": "#7928ca",
+   "motif": "sphere",
+   "image": "pipeline/media/codex-collider-amplitudes.jpg",
+   "source_lang": "en",
+   "text": {
+    "en": {
+     "headline": "Coding agents search for faster\ncollider physics code",
+     "body": "Codex-driven program search yielded amplitude code about 805 times faster than its seed in a Cambridge proof of concept."
+    },
+    "ko": {
+     "headline": "코딩 에이전트, 더 빠른\n충돌기 물리 코드 탐색",
+     "body": "Codex-driven 탐색으로 시드보다 약 805배 빠른 진폭 코드를 얻었다."
+    },
+    "ja": {
+     "headline": "コーディングエージェントが\n加速器物理の高速コード探索",
+     "body": "ケンブリッジでCodex-drivenの探索が初期版より約805倍速い振幅コードを生んだ。"
+    },
+    "zh": {
+     "headline": "编程智能体搜寻更快的\n对撞机物理代码",
+     "body": "剑桥概念验证中，Codex-driven程序搜索得到比初始代码快约805倍的振幅代码。"
+    },
+    "es": {
+     "headline": "Agentes buscan código más rápido\npara física de colisionadores",
+     "body": "Una búsqueda Codex-driven dio código de amplitudes unas 805 veces más rápido que su semilla en una prueba de Cambridge."
+    }
+   },
+   "date": "2026-11-14",
+   "section": "science",
+   "has_full": true
+  },
+  {
+   "id": "concept2brain-eeg-sim",
+   "headline": "Concept2Brain이\n이미지·글로 뇌파 모사",
+   "body": "Concept2Brain은 사진·글의 EEG 반응을 예측해 모집 전 실험을 돕는다.",
+   "tool": "Science",
+   "source": "PsyPost",
+   "url": "https://www.psypost.org/scientists-built-an-ai-called-concept2brain-that-simulates-human-brain-waves-from-pictures-and-text/",
+   "accent": "#eb367f",
+   "motif": "sphere",
+   "image": "pipeline/media/concept2brain-eeg-sim.jpg",
+   "source_lang": "en",
+   "text": {
+    "en": {
+     "headline": "Concept2Brain simulates brain\nwaves from images and text",
+     "body": "Concept2Brain predicts EEG responses to photos or text so researchers can simulate experiments before recruiting."
+    },
+    "ko": {
+     "headline": "Concept2Brain이\n이미지·글로 뇌파 모사",
+     "body": "Concept2Brain은 사진·글의 EEG 반응을 예측해 모집 전 실험을 돕는다."
+    },
+    "ja": {
+     "headline": "Concept2Brain、\n画像と文から脳波を再現",
+     "body": "Concept2Brainは写真や文へのEEG反応を予測し、募集前に実験を試せる。"
+    },
+    "zh": {
+     "headline": "Concept2Brain：\n用图像和文字模拟脑电波",
+     "body": "Concept2Brain可预测人对照片或文字的EEG反应，让研究者在招募前模拟实验。"
+    },
+    "es": {
+     "headline": "Concept2Brain simula ondas\ncerebrales con imágenes y texto",
+     "body": "Concept2Brain predice respuestas de EEG a fotos o textos para simular experimentos antes de reclutar voluntarios."
+    }
+   },
+   "date": "2026-11-14",
+   "section": "science",
+   "has_full": true
+  },
+  {
+   "id": "deepmind-pardig-satweave",
+   "headline": "DeepMind가 AI\n기상모델 데이터 공개",
+   "body": "Google DeepMind가 기상모델용 PARDIG·SatWeave를 공개했다.",
+   "tool": "Science",
+   "source": "Google DeepMind",
+   "url": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
+   "accent": "#0070f3",
+   "motif": "sphere",
+   "image": "pipeline/media/deepmind-pardig-satweave.jpg",
+   "source_lang": "en",
+   "text": {
+    "en": {
+     "headline": "DeepMind opens the data behind\nits AI weather models",
+     "body": "Google DeepMind released PARDIG and SatWeave, precipitation and satellite datasets used to train its weather models."
+    },
+    "ko": {
+     "headline": "DeepMind가 AI\n기상모델 데이터 공개",
+     "body": "Google DeepMind가 기상모델용 PARDIG·SatWeave를 공개했다."
+    },
+    "ja": {
+     "headline": "DeepMind、AI気象\nモデルの学習データ公開",
+     "body": "Google DeepMindが気象モデル用のPARDIGとSatWeaveを公開した。"
+    },
+    "zh": {
+     "headline": "DeepMind公开其AI\n天气模型背后的数据",
+     "body": "Google DeepMind发布训练天气模型所用的PARDIG和SatWeave数据集。"
+    },
+    "es": {
+     "headline": "DeepMind abre los datos de sus\nmodelos meteorológicos de IA",
+     "body": "Google DeepMind abrió PARDIG y SatWeave, datos de precipitación y satélite usados para entrenar sus modelos del tiempo."
+    }
+   },
+   "date": "2026-11-14",
+   "section": "science",
+   "has_full": true
+  },
+  {
+   "id": "nature-ai-mechanic-astra",
+   "headline": "AI 정비공이 다른\n신경망을 읽고 고친다",
+   "body": "MIT-led 팀이 GPT-6 Astra로 다른 모델 내부값을 읽고 고쳤다.",
+   "tool": "Science",
+   "source": "Nature",
+   "url": "https://www.nature.com/articles/d41586-026-03679-8",
+   "accent": "#2ec5c5",
+   "motif": "sphere",
+   "image": "pipeline/media/nature-ai-mechanic-astra.jpg",
+   "source_lang": "en",
+   "text": {
+    "en": {
+     "headline": "AI mechanic reads and edits\nother neural networks",
+     "body": "An MIT-led team used GPT-6 Astra to read other models' internal values, predict their parts' roles and edit them."
+    },
+    "ko": {
+     "headline": "AI 정비공이 다른\n신경망을 읽고 고친다",
+     "body": "MIT-led 팀이 GPT-6 Astra로 다른 모델 내부값을 읽고 고쳤다."
+    },
+    "ja": {
+     "headline": "AI整備士が他の神経網を\n読み解いて改修する",
+     "body": "MIT-ledのチームがGPT-6 Astraで他モデルの内部値から役割を予測し編集した。"
+    },
+    "zh": {
+     "headline": "AI当起“机修工”\n读改其他神经网络",
+     "body": "MIT-led团队用GPT-6 Astra读取其他模型内部数值，预测各部件功能并加以修改。"
+    },
+    "es": {
+     "headline": "Un mecánico de IA lee y edita\notras redes neuronales",
+     "body": "Un equipo MIT-led usó GPT-6 Astra para leer valores internos de otros modelos, prever el rol de sus partes y editarlos."
+    }
+   },
+   "date": "2026-11-14",
+   "section": "science",
+   "has_full": true
+  },
+  {
+   "id": "tohoku-mlp-copilot-aluminum",
+   "headline": "AI 에이전트가 밝힌\n알루미늄 나노입자 산화",
+   "body": "MLP Copilot 에이전트가 원자간 퍼텐셜로 고온 산화막 파열을 밝혔다.",
+   "tool": "Science",
+   "source": "Phys.org",
+   "url": "https://phys.org/news/2026-11-ai-atomic-reveal-shells-aluminum.html",
+   "accent": "#f5a623",
+   "motif": "sphere",
+   "image": "pipeline/media/tohoku-mlp-copilot-aluminum.jpg",
+   "source_lang": "en",
+   "text": {
+    "en": {
+     "headline": "AI agents reveal how aluminum\nnanoparticles oxidize",
+     "body": "Tohoku's MLP Copilot agents built interatomic potentials that exposed an oxide shell rupturing at high temperature."
+    },
+    "ja": {
+     "headline": "AIエージェントが\nアルミナノ粒子の酸化を解明",
+     "body": "東北大のMLP Copilotが原子間ポテンシャルを作り、高温で酸化殻が破れる様子を示した。"
+    },
+    "zh": {
+     "headline": "AI智能体揭示\n铝纳米颗粒如何氧化",
+     "body": "东北大学的MLP Copilot智能体构建原子间势，揭示氧化壳在高温下破裂。"
+    },
+    "es": {
+     "headline": "Agentes de IA revelan cómo\nse oxida el nanoaluminio",
+     "body": "MLP Copilot, de Tohoku, creó potenciales interatómicos que revelan la rotura de la capa de óxido a alta temperatura."
+    },
+    "ko": {
+     "headline": "AI 에이전트가 밝힌\n알루미늄 나노입자 산화",
+     "body": "MLP Copilot 에이전트가 원자간 퍼텐셜로 고온 산화막 파열을 밝혔다."
+    }
+   },
+   "date": "2026-11-14",
+   "section": "science",
+   "has_full": true
   }
  ]
 }

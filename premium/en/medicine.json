@@ -4187,6 +4187,146 @@
           "x": "The influence of advertising was often undisclosed. Whether these output shifts could affect prescribing or patient decisions requires direct study."
         }
       ]
+    },
+    "medicine/npj-ai-malfunction-oversight": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Increasingly, physicians must oversee AI systems to detect system malfunctions. We studied 48 physicians in a randomized controlled study using an increasingly malfunctioning AI for cardiac auscultation. Diagnostic performance declined alongside AI reliability, even when physicians were cognitively forced to make an initial classification, and when human performance exceeded AI reliability. Physicians’ confidence declined faster than their trust in AI."
+        },
+        {
+          "t": "p",
+          "x": "Forty-eight physicians were randomly assigned to an AI-First or AI-Second condition and classified 40 recorded heart sounds as normal or abnormal. To simulate malfunction, system reliability declined stepwise across four blocks (90%, 60%, 50%, 0%)."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03410-x/MediaObjects/41746_2026_3410_Fig1_HTML.png",
+          "cap": "Fig. 1: Study results."
+        },
+        {
+          "t": "p",
+          "x": "AI-assisted diagnostic performance declined from 81.45% to 58.33%. Under low system reliability, combined human-AI performance fell below the unassisted human baseline, and only 12.5% of participants reported noticing declining system reliability."
+        },
+        {
+          "t": "p",
+          "x": "The authors say effective oversight may require action at the system and organizational levels, such as uncertainty indicators or explanations, with accountability shared with AI deployers and providers."
+        }
+      ]
+    },
+    "medicine/samsung-heidi-ambient-scribe": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044540_3048515_5215.jpg",
+          "cap": "Samsung Medical Center has signed a business agreement with Heidi, a global healthcare artificial intelligence (AI) company (photo: Samsung Medical Center)."
+        },
+        {
+          "t": "p",
+          "x": "Samsung Medical Center is teaming up with Heidi, a global healthcare artificial intelligence (AI) company, to introduce AI technology that converts speech generated during patient consultations into text."
+        },
+        {
+          "t": "p",
+          "x": "Samsung Medical Center said on the 13th that it signed a business agreement with Heidi on the 12th to cooperate on medical AI services. The agreement is Heidi's first entry into Korea."
+        },
+        {
+          "t": "p",
+          "x": "Under the agreement, the two sides will focus on applying speech-to-text technology to DARWIN, the hospital's own medical information system. They also plan to cooperate in areas such as telemedicine and appointment booking, building on the medical AI agent Heidi is developing."
+        },
+        {
+          "t": "p",
+          "x": "Founded in 2019, Heidi develops AI technology that supports clinicians in their care work. It currently supports more than 3 million (300만건) consultations a week in 110 languages across 190 countries. Its main service is technology that converts speech generated during consultations into text. It also offers services for clinical settings, such as generating templates tailored to each specialty and supporting clinical decisions through real-time AI question answering."
+        },
+        {
+          "t": "p",
+          "x": "Heidi CEO Thomas Kelly said, \"Samsung Medical Center is Heidi's first case of entering Korea, and we plan to pursue collaboration with it as a key partner,\" adding, \"We hope Korean hospitals, building on our technology, can further strengthen their medical capabilities while keeping their warm values toward patients.\""
+        },
+        {
+          "t": "p",
+          "x": "Samsung Medical Center President Park Seung-woo said, \"We expect this cooperation with Heidi to further speed up building a patient-friendly AI medical environment,\" adding, \"It will be an occasion for an important leap toward realizing future medicine and shaping the tomorrow of smart hospitals.\""
+        },
+        {
+          "t": "p",
+          "x": "Meanwhile, Samsung Medical Center ranked 4th in the world and 1st in Korea in the 'World's Best Smart Hospitals' ranking published by the U.S. weekly news magazine Newsweek."
+        },
+        {
+          "t": "p",
+          "x": "In the healthcare IT maturity assessments of the U.S. Healthcare Information and Management Systems Society (HIMSS), it also achieved Stage 7, the highest level, in 4 areas: healthcare IT infrastructure (INFRAM), electronic medical record systems (EMRAM), digital imaging (DIAM) and healthcare data analytics (AMAM). In particular, it was the first in the world to receive Stage 7 certification in INFRAM and DIAM, in 2022 and 2023 respectively."
+        }
+      ]
+    },
+    "medicine/gangwon-public-ai-highway": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044493_3048461_5010.jpg",
+          "cap": "The Ministry of Health and Welfare held a pilot opening ceremony on the 11th for the 'public healthcare AI highway', which connects Kangwon National University Hospital and Yeongwol Medical Center in real time (photo: Ministry of Health and Welfare)."
+        },
+        {
+          "t": "p",
+          "x": "Public hospitals in Gangwon are building a care system that uses artificial intelligence (AI) to link everything from patient transfers to surgery, discharge and referral back to the community. Starting with Kangwon National University Hospital and Yeongwol Medical Center, the government plans to extend medical AI to 72 public hospitals nationwide by 2029."
+        },
+        {
+          "t": "p",
+          "x": "The government has built a system that delivers medical AI models validated by leading institutions such as Seoul National University Hospital to regional public hospitals through a dedicated high-speed network, national graphics processing unit (GPU) computing resources and a standard integration platform."
+        },
+        {
+          "t": "p",
+          "x": "At the opening ceremony, 3 AI agents linked to electronic medical records (EMR) were demonstrated. The 'transfer referral and return letter summary and generation AI' is expected to cut the drafting of a transfer referral, which used to take more than 10 minutes, to under 1 minute. The 'pre-anesthesia assessment generation AI' and the 'discharge record summary and generation AI' also produce drafts, while the attending physician makes the final clinical judgment, edits the documents and signs them electronically."
+        },
+        {
+          "t": "p",
+          "x": "The government will run pilot validation at 8 medical institutions and launch the main project in April 2027, expanding participation to up to 35 hospitals. Minister Jeong Eun-kyeong said, “The government will make 2026 the first year of healthcare AX.”"
+        }
+      ]
+    },
+    "medicine/dyania-nvidia-onprem": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-2152554500.jpg?VersionId=sRgXjDC.XT_Qk5G3gPh_gJLsyMr_r5v6"
+        },
+        {
+          "t": "p",
+          "x": "Dyania Health is partnering with Nvidia to run its Synapsis AI clinical reasoning platform inside hospitals’ IT systems, enabling large-scale analysis without patient data leaving their networks."
+        },
+        {
+          "t": "p",
+          "x": "Synapsis AI reads a patient's full medical record, including clinical notes, imaging and operative reports and labs, and answers clinical questions while pointing back to supporting evidence in the chart. Dyania says it has invested more than 25,000 physician hours annotating medical cases."
+        },
+        {
+          "t": "p",
+          "x": "Dyania trains its models with the Nvidia NeMo framework; inside the health system, Synapsis AI runs on Nvidia TensorRT and TensorRT-LLM on the hospital's own accelerated computing infrastructure, so inference stays inside the hospital's private network."
+        },
+        {
+          "t": "p",
+          "x": "Cleveland Clinic used Synapsis AI, running on Nvidia infrastructure, to analyze up to 16 years of records from 7,812 aortic valve replacement patients. The AI answered 88 questions per patient, and researchers used the dataset to build a predictive model of valve deterioration and repeat-procedure risk at three, five and 10 years."
+        }
+      ]
+    },
+    "medicine/doximity-cds-survey-63pct": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/AM_NT-IV2s-WIQ0l-DhVMyXuf_4ShsdQj2epak14Zmo/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzYzMDY4MzEwLmpwZw==.webp",
+          "cap": "Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Physicians’ AI use is moving beyond administrative tasks to more everyday clinical decision support, like searching through medical literature, according to a survey published Thursday by Doximity. More than half of physicians said they use AI daily and another third use it at least once a week."
+        },
+        {
+          "t": "p",
+          "x": "The Doximity survey of more than 3,300 of the firm’s U.S. doctors shows that the share of physicians using AI for clinical decision support nearly doubled to 63%, up from 37% in 2025. Also, more physicians — 70% from just over half in last year’s survey — are using AI to comb through troves of medical literature."
+        },
+        {
+          "t": "p",
+          "x": "A majority (81%) of physicians said that using AI has taught them something they previously didn’t know, including updated guidelines, alternative diagnoses or treatment options. Another 65% said that AI tools have helped with developing their clinical skills and knowledge."
+        },
+        {
+          "t": "p",
+          "x": "But 61% worry that trainees will rely on AI too much and not develop their own set of clinical skills. Nearly half were concerned about overreliance on AI, and three in four physicians said they encountered a factual inaccuracy at least once in the past year while using AI for work. Over a quarter said the effort they put into correcting or double-checking AI output has decreased compared with a year ago."
+        }
+      ]
     }
   }
 }

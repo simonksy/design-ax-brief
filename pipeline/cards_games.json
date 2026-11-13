@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "section": "games",
   "cards": [
     {
-      "id": "gdc-state-industry-2026-genai",
+      "id": "pearlabyss-ai-pipeline",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "GDC 조사, 개발자\n40%가 생성형 AI 쓴다",
-      "body": "GDC 게임 업계 현황 보고서에서 개발자 40%가 생성형 AI를 쓴다고 답했다.",
-      "mini_headline": "GDC 개발자 40%\n생성형 AI 쓴다",
+      "headline": "Pearl Abyss,\n전 개발 과정에 AI",
+      "body": "Pearl Abyss가 개발 전반에 AI를 들이며 DokeV는 2028년을 노린다.",
+      "mini_headline": "Pearl Abyss, 스튜디오 전반에 AI 도입",
       "tool": "Games",
-      "source": "GamesIndustry.biz",
-      "url": "https://www.gamesindustry.biz/gdc-state-of-the-game-industry-report-40-of-developers-are-using-generative-ai-for-work",
+      "source": "Eurogamer",
+      "url": "https://www.eurogamer.net/crimson-desert-ai-pipeline-dokev-2028",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
@@ -19,179 +19,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://assetsio.gnwcdn.com/state-of-the-game-industry-2026_SaCPvuv.png?width=1200&quality=85&format=jpg&auto=webp",
-            "cap": "GDC State of the Game Industry 2026 보고서"
+            "src": "https://assetsio.gnwcdn.com/crimson-deser-kliff.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "cap": "이미지 출처: Pearl Abyss"
           },
           {
             "t": "p",
-            "x": "Game Developers Conference(GDC)의 최신 State of the Game Industry 보고서를 보면 개발자 40%가 업무에 생성형 AI를 쓴다. 직전 보고서보다 4% 늘었으나 조사 프로젝트 책임자 Beth Elderkin은 증가 폭이 지난번보다 작다고 짚었다."
+            "x": "Crimson Desert와 DokeV의 개발사 Pearl Abyss가 생성형 AI를 작업 흐름 깊숙이 들인다. 한국 스튜디오인 이 회사는 최근 분기 실적 서한(Earnings Letter)에서 예전엔 \"게임 시스템을 수작업으로 구현한 뒤에야 검증했다\"고 했다. 이제는 \"실제 구현에 앞서 다양한 디자인 콘셉트를 빠르게 검증하기 위해\" AI를 쓰고, 그 덕에 \"개발 리소스를 더 효율적으로 배분하고 전반적인 제작 속도를 높일 수 있다\"는 설명이다."
+          },
+          {
+            "t": "video",
+            "yt": "Ifjrgq3_tWg"
           },
           {
             "t": "p",
-            "x": "이 기술을 쓰는 개발자 57%는 텍스트 생성, 리서치, 초기 프로토타이핑, 코딩, 프레젠테이션에 활용한다. 생성형 AI가 가장 많이 쓰이는 곳은 비즈니스 운영·서비스 부문, 모바일 전용 스튜디오, 부분 유료(free-to-play) 개발사다. AAA 업계 종사자 27%는 생성형 AI를 쓰라는 권유나 압박을 느낀다고 했고, 인디 개발자 쪽은 9%였다."
+            "x": "개발사는 \"다만 AI는 어디까지나 콘셉트 검증과 파이프라인 생산성을 돕는 도구일 뿐이며, 핵심 게임플레이 경험과 실제 콘텐츠 제작은 전적으로 개발팀이 이끈다\"고 선을 그었다. AI가 맡는 일은 \"반복 작업 자동화, 콘텐츠 제작 지원, 테스트 최적화\"이고 회사는 \"전체 개발 파이프라인으로 적용을 넓히고 있다\"고 했다."
           },
           {
             "t": "p",
-            "x": "응답자 55%는 AI가 게임에 나쁜 영향을 준다고 답했다. 전년보다 1% 늘었다. Elderkin은 \"이제 사람들이 이 기술을 알게 됐고, 이론상의 문제가 아니라 현실이 됐기 때문이라고 본다. 그래서 어떻게 쓰고 싶은지, 아예 쓸지 말지를 스스로 안다\"고 말했다."
-          },
-          {
-            "t": "p",
-            "x": "AI 말고도 응답자 33%가 최근 24개월 사이 해고를 겪었다. PC는 81%로 여전히 우위를 지켰고, Unreal은 35%, Unity는 28%였다. 개발자 86%는 한 주에 40시간 넘게 일한 적이 있다고 답했다. Elderkin은 올해 \"미래에 대한 많은 회복력과 희망\"을 본다고 했다."
+            "x": "Crimson Desert가 나왔을 때 플레이어들이 AI 생성(AI-generated) \"2D 비주얼 소품\"을 찾아냈고 Pearl Abyss는 곧바로 패치로 걷어냈다. 서한을 보면 크리처 수집 게임 DokeV는 \"2028년 하반기 출시를 목표로\" 하고, Crimson Desert는 \"내년 상반기\" Nintendo Switch 2로 나온다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "GDC survey: 40% of developers\nuse generative AI at work",
-          "body": "GDC's State of the Game Industry report finds 40% of developers using generative AI for their work.",
-          "mini_headline": "GDC: 40% of devs\nuse generative AI",
+          "headline": "Pearl Abyss brings AI\nto its entire pipeline",
+          "body": "Pearl Abyss is integrating AI across its whole development pipeline, with DokeV now targeted for 2028.",
+          "mini_headline": "Pearl Abyss adopts AI studio-wide",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/state-of-the-game-industry-2026_SaCPvuv.png?width=1200&quality=85&format=jpg&auto=webp",
-                "cap": "GDC State of the Game Industry 2026"
+                "src": "https://assetsio.gnwcdn.com/crimson-deser-kliff.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "Image credit: Pearl Abyss"
               },
               {
                 "t": "p",
-                "x": "40% of developers are using generative AI in their work, according to the latest State of the Game Industry report from the Game Developers Conference (GDC). That's an increase of 4% on the previous report, but survey project lead Beth Elderkin notes that this is a smaller increase than last time."
+                "x": "Crimson Desert and DokeV developer Pearl Abyss is planning to further integrate generative AI into its workflow. In its latest quarterly Earnings Letter, the South Korean studio said it had previously \"validated game systems only after implementing them manually.\" Now it uses AI \"to rapidly validate diverse design concepts prior to actual implementation,\" which it says \"enables a more efficient allocation of development resources and enhances overall production speed.\""
+              },
+              {
+                "t": "video",
+                "yt": "Ifjrgq3_tWg"
               },
               {
                 "t": "p",
-                "x": "57% of developers using the tech employ it for text generation, research, early prototyping, coding, and presentations. Generative AI is most popular with business operations and services, mobile-only studios, and free-to-play developers. 27% of AAA workers feel encouraged or pressured to use generative AI; 9% of indie developers say the same."
+                "x": "\"However, AI serves strictly as a tool to support concept validation and pipeline productivity, while the core gameplay experience and actual content creation remain fully driven by our development team,\" the developer said. AI is used for \"the automation of repetitive tasks, content creation support, and test optimization,\" and \"we are expanding its implementation throughout our entire development pipeline.\""
               },
               {
                 "t": "p",
-                "x": "55% of respondents said that AI is having a negative impact on games, a 1% increase year-on-year. \"I think it's more that people just know the technology now, and it's an actuality instead of a theoretical issue, so they know how they want to use it or whether they want to use it at all,\" Elderkin says."
-              },
-              {
-                "t": "p",
-                "x": "Beyond AI, 33% of respondents have been laid off in the last 24 months. PC remains dominant at 81%, Unreal and Unity came in at 35% and 28%, and 86% of developers say they have worked over 40 hours in a week. Elderkin says that this year she is seeing \"a lot of resilience and hope in the future.\""
+                "x": "When Crimson Desert launched, players spotted AI-generated \"2D visual props\" that Pearl Abyss quickly patched out. The letter also says creature-collector DokeV is \"targeting a launch in the second half of 2028\", and Crimson Desert is coming to Nintendo Switch 2 \"in the first half of next year.\""
               }
             ]
           }
         },
         "ko": {
-          "headline": "GDC 조사, 개발자\n40%가 생성형 AI 쓴다",
-          "body": "GDC 게임 업계 현황 보고서에서 개발자 40%가 생성형 AI를 쓴다고 답했다.",
-          "mini_headline": "GDC 개발자 40%\n생성형 AI 쓴다",
+          "headline": "Pearl Abyss,\n전 개발 과정에 AI",
+          "body": "Pearl Abyss가 개발 전반에 AI를 들이며 DokeV는 2028년을 노린다.",
+          "mini_headline": "Pearl Abyss, 스튜디오 전반에 AI 도입",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/state-of-the-game-industry-2026_SaCPvuv.png?width=1200&quality=85&format=jpg&auto=webp",
-                "cap": "GDC State of the Game Industry 2026 보고서"
+                "src": "https://assetsio.gnwcdn.com/crimson-deser-kliff.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "이미지 출처: Pearl Abyss"
               },
               {
                 "t": "p",
-                "x": "Game Developers Conference(GDC)의 최신 State of the Game Industry 보고서를 보면 개발자 40%가 업무에 생성형 AI를 쓴다. 직전 보고서보다 4% 늘었으나 조사 프로젝트 책임자 Beth Elderkin은 증가 폭이 지난번보다 작다고 짚었다."
+                "x": "Crimson Desert와 DokeV의 개발사 Pearl Abyss가 생성형 AI를 작업 흐름 깊숙이 들인다. 한국 스튜디오인 이 회사는 최근 분기 실적 서한(Earnings Letter)에서 예전엔 \"게임 시스템을 수작업으로 구현한 뒤에야 검증했다\"고 했다. 이제는 \"실제 구현에 앞서 다양한 디자인 콘셉트를 빠르게 검증하기 위해\" AI를 쓰고, 그 덕에 \"개발 리소스를 더 효율적으로 배분하고 전반적인 제작 속도를 높일 수 있다\"는 설명이다."
+              },
+              {
+                "t": "video",
+                "yt": "Ifjrgq3_tWg"
               },
               {
                 "t": "p",
-                "x": "이 기술을 쓰는 개발자 57%는 텍스트 생성, 리서치, 초기 프로토타이핑, 코딩, 프레젠테이션에 활용한다. 생성형 AI가 가장 많이 쓰이는 곳은 비즈니스 운영·서비스 부문, 모바일 전용 스튜디오, 부분 유료(free-to-play) 개발사다. AAA 업계 종사자 27%는 생성형 AI를 쓰라는 권유나 압박을 느낀다고 했고, 인디 개발자 쪽은 9%였다."
+                "x": "개발사는 \"다만 AI는 어디까지나 콘셉트 검증과 파이프라인 생산성을 돕는 도구일 뿐이며, 핵심 게임플레이 경험과 실제 콘텐츠 제작은 전적으로 개발팀이 이끈다\"고 선을 그었다. AI가 맡는 일은 \"반복 작업 자동화, 콘텐츠 제작 지원, 테스트 최적화\"이고 회사는 \"전체 개발 파이프라인으로 적용을 넓히고 있다\"고 했다."
               },
               {
                 "t": "p",
-                "x": "응답자 55%는 AI가 게임에 나쁜 영향을 준다고 답했다. 전년보다 1% 늘었다. Elderkin은 \"이제 사람들이 이 기술을 알게 됐고, 이론상의 문제가 아니라 현실이 됐기 때문이라고 본다. 그래서 어떻게 쓰고 싶은지, 아예 쓸지 말지를 스스로 안다\"고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "AI 말고도 응답자 33%가 최근 24개월 사이 해고를 겪었다. PC는 81%로 여전히 우위를 지켰고, Unreal은 35%, Unity는 28%였다. 개발자 86%는 한 주에 40시간 넘게 일한 적이 있다고 답했다. Elderkin은 올해 \"미래에 대한 많은 회복력과 희망\"을 본다고 했다."
+                "x": "Crimson Desert가 나왔을 때 플레이어들이 AI 생성(AI-generated) \"2D 비주얼 소품\"을 찾아냈고 Pearl Abyss는 곧바로 패치로 걷어냈다. 서한을 보면 크리처 수집 게임 DokeV는 \"2028년 하반기 출시를 목표로\" 하고, Crimson Desert는 \"내년 상반기\" Nintendo Switch 2로 나온다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "GDC調査：開発者の\n40%が生成AIを活用",
-          "body": "GDCのゲーム業界現状調査で、開発者の40%が業務に生成AIを使っていると分かった。",
-          "mini_headline": "GDC：開発者の40%が\n生成AIを活用",
+          "headline": "Pearl Abyss、\n全開発工程にAI",
+          "body": "Pearl Abyssが開発工程全体にAIを導入し、DokeVは2028年を目指す。",
+          "mini_headline": "Pearl Abyss、スタジオ全体でAI導入",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/state-of-the-game-industry-2026_SaCPvuv.png?width=1200&quality=85&format=jpg&auto=webp",
-                "cap": "GDC State of the Game Industry 2026"
+                "src": "https://assetsio.gnwcdn.com/crimson-deser-kliff.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "画像提供：Pearl Abyss"
               },
               {
                 "t": "p",
-                "x": "Game Developers Conference（GDC）の最新「State of the Game Industry」レポートによると、開発者の40%が仕事に生成AIを使っている。前回から4%の増加だが、調査プロジェクトリーダーのBeth Elderkinは、伸びは前回より小さいと指摘する。"
+                "x": "『Crimson Desert』と『DokeV』を手がけるPearl Abyssは、生成AIをワークフローにさらに統合する計画だ。この韓国のスタジオは最新の四半期決算書簡（Earnings Letter）で、以前は「ゲームシステムを手作業で実装してからでないと検証できなかった」と述べた。現在は「実際の実装に先立って多様なデザインコンセプトを素早く検証する」ためにAIを使っており、それにより「開発リソースをより効率的に配分でき、全体の制作スピードも高まる」という。"
+              },
+              {
+                "t": "video",
+                "yt": "Ifjrgq3_tWg"
               },
               {
                 "t": "p",
-                "x": "この技術を使う開発者の57%は、テキスト生成、リサーチ、初期のプロトタイピング、コーディング、プレゼンテーションに用いている。生成AIの利用が最も多いのは、ビジネス運営・サービス部門、モバイル専業スタジオ、基本プレイ無料（free-to-play）の開発者だ。AAAの従事者の27%が生成AIの利用を促されている、あるいは圧力を感じていると答え、インディー開発者では9%が同様に答えた。"
+                "x": "「ただし、AIはあくまでコンセプト検証とパイプラインの生産性を支えるツールであり、中核となるゲームプレイ体験と実際のコンテンツ制作は完全に開発チームが担っている」と同社は述べた。AIは「反復作業の自動化、コンテンツ制作の支援、テストの最適化」に使われており、「開発パイプライン全体に導入を広げている」という。"
               },
               {
                 "t": "p",
-                "x": "回答者の55%がAIはゲームに悪影響を与えていると答え、前年から1%増えた。Elderkinは「人々がこの技術を知るようになり、理論上の問題ではなく現実になったということだと思う。だから、どう使いたいのか、そもそも使いたいのかが分かっている」と話す。"
-              },
-              {
-                "t": "p",
-                "x": "AI以外では、回答者の33%が過去24か月に解雇を経験している。PCは81%で依然として主流で、UnrealとUnityはそれぞれ35%と28%、開発者の86%が1週間に40時間を超えて働いたことがあると答えた。Elderkinは今年、「将来への多くの回復力と希望」を感じているという。"
+                "x": "『Crimson Desert』の発売時、プレイヤーはAI生成（AI-generated）の「2Dビジュアル小道具」を見つけ、Pearl Abyssはすぐにパッチで取り除いた。書簡によると、クリーチャー収集ゲーム『DokeV』は「2028年下半期の発売を目指して」おり、『Crimson Desert』は「来年上半期に」Nintendo Switch 2向けに登場する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "GDC调查：40%的开发者\n在工作中使用生成式AI",
-          "body": "GDC《游戏行业现状》报告显示，40%的开发者在工作中使用生成式AI。",
-          "mini_headline": "GDC：40%开发者\n使用生成式AI",
+          "headline": "Pearl Abyss\n全开发流程引入AI",
+          "body": "Pearl Abyss正将AI融入整个开发流程，DokeV目标定于2028年推出。",
+          "mini_headline": "Pearl Abyss全公司采用AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/state-of-the-game-industry-2026_SaCPvuv.png?width=1200&quality=85&format=jpg&auto=webp",
-                "cap": "GDC State of the Game Industry 2026"
+                "src": "https://assetsio.gnwcdn.com/crimson-deser-kliff.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "图片来源：Pearl Abyss"
               },
               {
                 "t": "p",
-                "x": "据游戏开发者大会（GDC）最新发布的《State of the Game Industry》报告，40%的开发者正在工作中使用生成式AI。这比上一份报告增加了4%，但调查项目负责人Beth Elderkin指出，这次的增幅小于上一次。"
+                "x": "《Crimson Desert》和《DokeV》的开发商Pearl Abyss计划将生成式AI进一步融入工作流程。这家韩国工作室在最新一季的财报信（Earnings Letter）中表示，过去它“只有在手动实现之后才能验证游戏系统”。如今它使用AI“在实际实现之前快速验证多种设计概念”，并称这“能够更高效地分配开发资源，并提升整体制作速度”。"
+              },
+              {
+                "t": "video",
+                "yt": "Ifjrgq3_tWg"
               },
               {
                 "t": "p",
-                "x": "使用该技术的开发者中，57%将其用于文本生成、资料研究、早期原型设计、编程和演示文稿。生成式AI在商业运营与服务、纯移动端工作室以及免费游戏（free-to-play）开发者中最受欢迎。27%的AAA从业者感到被鼓励或被迫使用生成式AI；独立开发者中这一比例为9%。"
+                "x": "“不过，AI严格来说只是辅助概念验证和管线生产力的工具，核心游戏体验和实际内容创作仍完全由我们的开发团队主导，”该开发商表示。AI被用于“重复性任务的自动化、内容创作支持以及测试优化”，并且“我们正在将其应用扩展到整个开发管线”。"
               },
               {
                 "t": "p",
-                "x": "55%的受访者表示AI正在对游戏产生负面影响，同比上升1%。Elderkin说：“我认为更多是因为人们现在已经了解这项技术，它已成为现实而非理论问题，所以他们知道自己想如何使用它，或者是否想用它。”"
-              },
-              {
-                "t": "p",
-                "x": "除AI之外，33%的受访者在过去24个月内遭遇裁员。PC仍以81%占据主导，Unreal和Unity分别为35%和28%，86%的开发者表示曾一周工作超过40小时。Elderkin表示，今年她看到了“很多韧性和对未来的希望”。"
+                "x": "《Crimson Desert》上线时，玩家发现了AI生成（AI-generated）的“2D视觉道具”，Pearl Abyss随即通过补丁将其移除。财报信还称，生物收集游戏《DokeV》“目标于2028年下半年发售”，而《Crimson Desert》将于“明年上半年”登陆Nintendo Switch 2。"
               }
             ]
           }
         },
         "es": {
-          "headline": "GDC: 40% de desarrolladores\nusa IA generativa en su trabajo",
-          "body": "El informe State of the Game Industry de GDC indica que el 40% de los desarrolladores usa IA generativa en su trabajo.",
-          "mini_headline": "GDC: el 40% de devs\nusa IA generativa",
+          "headline": "Pearl Abyss lleva la IA\na todo su proceso de desarrollo",
+          "body": "Pearl Abyss integra la IA en todo su proceso de desarrollo y ahora prevé lanzar DokeV en 2028.",
+          "mini_headline": "Pearl Abyss adopta la IA en todo el estudio",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/state-of-the-game-industry-2026_SaCPvuv.png?width=1200&quality=85&format=jpg&auto=webp",
-                "cap": "GDC State of the Game Industry 2026"
+                "src": "https://assetsio.gnwcdn.com/crimson-deser-kliff.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "Crédito de la imagen: Pearl Abyss"
               },
               {
                 "t": "p",
-                "x": "El 40% de los desarrolladores usa IA generativa en su trabajo, según el último informe State of the Game Industry de la Game Developers Conference (GDC). Es un aumento del 4% respecto al informe anterior, aunque la responsable del proyecto de la encuesta, Beth Elderkin, señala que el incremento es menor que la vez pasada."
+                "x": "Pearl Abyss, desarrolladora de Crimson Desert y DokeV, planea integrar aún más la IA generativa en su flujo de trabajo. En su más reciente carta trimestral de resultados (Earnings Letter), el estudio surcoreano explicó que antes \"validaba los sistemas de juego solo después de implementarlos manualmente\". Ahora usa la IA \"para validar rápidamente diversos conceptos de diseño antes de la implementación real\", lo que, según afirma, \"permite una asignación más eficiente de los recursos de desarrollo y mejora la velocidad general de producción\"."
+              },
+              {
+                "t": "video",
+                "yt": "Ifjrgq3_tWg"
               },
               {
                 "t": "p",
-                "x": "El 57% de los desarrolladores que usan esta tecnología la emplean para generar texto, investigar, crear prototipos tempranos, programar y preparar presentaciones. La IA generativa es más popular en operaciones y servicios de negocio, en estudios exclusivamente móviles y entre desarrolladores free-to-play. El 27% de los trabajadores de AAA se siente animado o presionado a usar IA generativa; el 9% de los desarrolladores independientes dice lo mismo."
+                "x": "\"Sin embargo, la IA sirve estrictamente como herramienta de apoyo a la validación de conceptos y a la productividad del pipeline, mientras que la experiencia de juego central y la creación real de contenido siguen estando totalmente a cargo de nuestro equipo de desarrollo\", afirmó la desarrolladora. La IA se utiliza para \"la automatización de tareas repetitivas, el apoyo a la creación de contenido y la optimización de pruebas\", y \"estamos ampliando su implementación a todo nuestro pipeline de desarrollo\"."
               },
               {
                 "t": "p",
-                "x": "El 55% de los encuestados afirmó que la IA tiene un impacto negativo en los videojuegos, un 1% más que el año anterior. \"Creo que se debe más a que la gente ya conoce la tecnología, y es una realidad en lugar de un problema teórico, así que sabe cómo quiere usarla o si quiere usarla en absoluto\", dice Elderkin."
-              },
-              {
-                "t": "p",
-                "x": "Más allá de la IA, el 33% de los encuestados ha sido despedido en los últimos 24 meses. El PC sigue dominando con un 81%, Unreal y Unity alcanzan el 35% y el 28%, y el 86% de los desarrolladores dice haber trabajado más de 40 horas en una semana. Elderkin afirma que este año ve \"mucha resiliencia y esperanza en el futuro\"."
+                "x": "Cuando se lanzó Crimson Desert, los jugadores detectaron \"elementos visuales 2D\" generados con IA (AI-generated) que Pearl Abyss retiró rápidamente con un parche. La carta también indica que DokeV, un juego de colección de criaturas, tiene como \"objetivo un lanzamiento en la segunda mitad de 2028\", y que Crimson Desert llegará a Nintendo Switch 2 \"en la primera mitad del próximo año\"."
               }
             ]
           }
@@ -199,125 +199,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "GDC 조사: 개발자의\n40%가 생성형 AI 활용",
-          "body": "GDC 게임 업계 현황 보고서에 따르면 개발자의 40%가 생성형 AI를 쓴다.",
-          "mini_headline": "GDC: 개발자 40%\n생성형 AI 활용",
+          "headline": "Pearl Abyss,\n전 개발 과정에 AI",
+          "body": "Pearl Abyss가 개발 전반에 AI를 들이고 DokeV는 2028년 목표다.",
+          "mini_headline": "Pearl Abyss, 스튜디오 전반에 AI 도입",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/state-of-the-game-industry-2026_SaCPvuv.png?width=1200&quality=85&format=jpg&auto=webp",
-                "cap": "GDC State of the Game Industry 2026 보고서"
+                "src": "https://assetsio.gnwcdn.com/crimson-deser-kliff.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "이미지 출처: Pearl Abyss"
               },
               {
                 "t": "p",
-                "x": "Game Developers Conference(GDC)의 최신 State of the Game Industry 보고서에 따르면 개발자의 40%가 업무에 생성형 AI를 쓰고 있다. 직전 보고서보다 4% 늘었지만, 조사 프로젝트 책임자 Beth Elderkin은 증가 폭이 지난번보다 작다고 짚었다."
+                "x": "Crimson Desert와 DokeV를 개발한 Pearl Abyss가 생성형 AI를 작업 흐름에 더 깊이 통합할 계획이다. 이 한국 스튜디오는 최근 분기 실적 서한(Earnings Letter)에서 예전에는 \"게임 시스템을 수작업으로 구현한 뒤에야 검증했다\"고 밝혔다. 지금은 \"실제 구현에 앞서 다양한 디자인 콘셉트를 빠르게 검증하기 위해\" AI를 쓰며, 이를 통해 \"개발 리소스를 더 효율적으로 배분하고 전반적인 제작 속도를 높일 수 있다\"고 설명했다."
+              },
+              {
+                "t": "video",
+                "yt": "Ifjrgq3_tWg"
               },
               {
                 "t": "p",
-                "x": "이 기술을 쓰는 개발자의 57%는 텍스트 생성, 리서치, 초기 프로토타이핑, 코딩, 프레젠테이션에 활용한다. 생성형 AI는 비즈니스 운영·서비스 부문, 모바일 전용 스튜디오, 부분 유료(free-to-play) 개발사에서 가장 많이 쓰인다. AAA 업계 종사자의 27%는 생성형 AI 사용을 권유받거나 압박받는다고 느끼며, 인디 개발자는 9%가 같은 답을 했다."
+                "x": "개발사는 \"다만 AI는 어디까지나 콘셉트 검증과 파이프라인 생산성을 돕는 도구일 뿐이며, 핵심 게임플레이 경험과 실제 콘텐츠 제작은 전적으로 개발팀이 이끈다\"고 말했다. AI는 \"반복 작업 자동화, 콘텐츠 제작 지원, 테스트 최적화\"에 쓰이며, 회사는 \"전체 개발 파이프라인으로 적용을 넓히고 있다\"고 했다."
               },
               {
                 "t": "p",
-                "x": "응답자의 55%는 AI가 게임에 부정적인 영향을 미치고 있다고 답했고, 이는 전년보다 1% 늘어난 수치다. Elderkin은 \"이제 사람들이 이 기술을 알게 됐고, 이론상의 문제가 아니라 현실이 됐기 때문이라고 본다. 그래서 어떻게 쓰고 싶은지, 아예 쓸지 말지를 스스로 안다\"고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "AI 외에도 응답자의 33%는 최근 24개월 사이 해고를 겪었다. PC는 81%로 여전히 우위를 지켰고, Unreal과 Unity는 각각 35%와 28%였으며, 개발자의 86%는 한 주에 40시간 넘게 일한 적이 있다고 답했다. Elderkin은 올해 \"미래에 대한 많은 회복력과 희망\"을 보고 있다고 말했다."
+                "x": "Crimson Desert 출시 당시 플레이어들은 AI 생성(AI-generated) \"2D 비주얼 소품\"을 찾아냈고, Pearl Abyss는 이를 곧바로 패치로 걷어냈다. 서한에 따르면 크리처 수집 게임 DokeV는 \"2028년 하반기 출시를 목표로\" 하며, Crimson Desert는 \"내년 상반기\" Nintendo Switch 2로 나온다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "GDC調査：開発者の\n40%が生成AIを活用",
-          "body": "GDCのゲーム業界現状調査で、開発者の40%が業務に生成AIを使っていると分かった。",
-          "mini_headline": "GDC：開発者の40%が\n生成AIを活用",
+          "headline": "Pearl Abyss、\n全開発工程にAI",
+          "body": "Pearl Abyssが開発工程全体にAIを導入し、DokeVは2028年を目指す。",
+          "mini_headline": "Pearl Abyss、スタジオ全体でAI導入",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/state-of-the-game-industry-2026_SaCPvuv.png?width=1200&quality=85&format=jpg&auto=webp",
-                "cap": "GDC State of the Game Industry 2026"
+                "src": "https://assetsio.gnwcdn.com/crimson-deser-kliff.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "画像提供：Pearl Abyss"
               },
               {
                 "t": "p",
-                "x": "Game Developers Conference（GDC）の最新「State of the Game Industry」レポートによると、開発者の40%が仕事に生成AIを使っている。前回から4%の増加だが、調査プロジェクトリーダーのBeth Elderkinは、伸びは前回より小さいと指摘する。"
+                "x": "『Crimson Desert』と『DokeV』を手がけるPearl Abyssは、生成AIをワークフローにさらに統合する計画だ。この韓国のスタジオは最新の四半期決算書簡（Earnings Letter）で、以前は「ゲームシステムを手作業で実装してからでないと検証できなかった」と述べた。現在は「実際の実装に先立って多様なデザインコンセプトを素早く検証する」ためにAIを使っており、それにより「開発リソースをより効率的に配分でき、全体の制作スピードも高まる」という。"
+              },
+              {
+                "t": "video",
+                "yt": "Ifjrgq3_tWg"
               },
               {
                 "t": "p",
-                "x": "この技術を使う開発者の57%は、テキスト生成、リサーチ、初期のプロトタイピング、コーディング、プレゼンテーションに用いている。生成AIの利用が最も多いのは、ビジネス運営・サービス部門、モバイル専業スタジオ、基本プレイ無料（free-to-play）の開発者だ。AAAの従事者の27%が生成AIの利用を促されている、あるいは圧力を感じていると答え、インディー開発者では9%が同様に答えた。"
+                "x": "「ただし、AIはあくまでコンセプト検証とパイプラインの生産性を支えるツールであり、中核となるゲームプレイ体験と実際のコンテンツ制作は完全に開発チームが担っている」と同社は述べた。AIは「反復作業の自動化、コンテンツ制作の支援、テストの最適化」に使われており、「開発パイプライン全体に導入を広げている」という。"
               },
               {
                 "t": "p",
-                "x": "回答者の55%がAIはゲームに悪影響を与えていると答え、前年から1%増えた。Elderkinは「人々がこの技術を知るようになり、理論上の問題ではなく現実になったということだと思う。だから、どう使いたいのか、そもそも使いたいのかが分かっている」と話す。"
-              },
-              {
-                "t": "p",
-                "x": "AI以外では、回答者の33%が過去24か月に解雇を経験している。PCは81%で依然として主流で、UnrealとUnityはそれぞれ35%と28%、開発者の86%が1週間に40時間を超えて働いたことがあると答えた。Elderkinは今年、「将来への多くの回復力と希望」を感じているという。"
+                "x": "『Crimson Desert』の発売時、プレイヤーはAI生成（AI-generated）の「2Dビジュアル小道具」を見つけ、Pearl Abyssはすぐにパッチで取り除いた。書簡によると、クリーチャー収集ゲーム『DokeV』は「2028年下半期の発売を目指して」おり、『Crimson Desert』は「来年上半期に」Nintendo Switch 2向けに登場する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "GDC调查：40%的开发者\n在工作中使用生成式AI",
-          "body": "GDC《游戏行业现状》报告显示，40%的开发者在工作中使用生成式AI。",
-          "mini_headline": "GDC：40%开发者\n使用生成式AI",
+          "headline": "Pearl Abyss\n全开发流程引入AI",
+          "body": "Pearl Abyss正将AI融入整个开发流程，DokeV目标定于2028年推出。",
+          "mini_headline": "Pearl Abyss全公司采用AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/state-of-the-game-industry-2026_SaCPvuv.png?width=1200&quality=85&format=jpg&auto=webp",
-                "cap": "GDC State of the Game Industry 2026"
+                "src": "https://assetsio.gnwcdn.com/crimson-deser-kliff.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "图片来源：Pearl Abyss"
               },
               {
                 "t": "p",
-                "x": "据游戏开发者大会（GDC）最新发布的《State of the Game Industry》报告，40%的开发者正在工作中使用生成式AI。这比上一份报告增加了4%，但调查项目负责人Beth Elderkin指出，这次的增幅小于上一次。"
+                "x": "《Crimson Desert》和《DokeV》的开发商Pearl Abyss计划将生成式AI进一步融入工作流程。这家韩国工作室在最新一季的财报信（Earnings Letter）中表示，过去它“只有在手动实现之后才能验证游戏系统”。如今它使用AI“在实际实现之前快速验证多种设计概念”，并称这“能够更高效地分配开发资源，并提升整体制作速度”。"
+              },
+              {
+                "t": "video",
+                "yt": "Ifjrgq3_tWg"
               },
               {
                 "t": "p",
-                "x": "使用该技术的开发者中，57%将其用于文本生成、资料研究、早期原型设计、编程和演示文稿。生成式AI在商业运营与服务、纯移动端工作室以及免费游戏（free-to-play）开发者中最受欢迎。27%的AAA从业者感到被鼓励或被迫使用生成式AI；独立开发者中这一比例为9%。"
+                "x": "“不过，AI严格来说只是辅助概念验证和管线生产力的工具，核心游戏体验和实际内容创作仍完全由我们的开发团队主导，”该开发商表示。AI被用于“重复性任务的自动化、内容创作支持以及测试优化”，并且“我们正在将其应用扩展到整个开发管线”。"
               },
               {
                 "t": "p",
-                "x": "55%的受访者表示AI正在对游戏产生负面影响，同比上升1%。Elderkin说：“我认为更多是因为人们现在已经了解这项技术，它已成为现实而非理论问题，所以他们知道自己想如何使用它，或者是否想用它。”"
-              },
-              {
-                "t": "p",
-                "x": "除AI之外，33%的受访者在过去24个月内遭遇裁员。PC仍以81%占据主导，Unreal和Unity分别为35%和28%，86%的开发者表示曾一周工作超过40小时。Elderkin表示，今年她看到了“很多韧性和对未来的希望”。"
+                "x": "《Crimson Desert》上线时，玩家发现了AI生成（AI-generated）的“2D视觉道具”，Pearl Abyss随即通过补丁将其移除。财报信还称，生物收集游戏《DokeV》“目标于2028年下半年发售”，而《Crimson Desert》将于“明年上半年”登陆Nintendo Switch 2。"
               }
             ]
           }
         },
         "es": {
-          "headline": "GDC: 40% de desarrolladores\nusa IA generativa en su trabajo",
-          "body": "El informe State of the Game Industry de GDC indica que el 40% de los desarrolladores usa IA generativa en su trabajo.",
-          "mini_headline": "GDC: el 40% de devs\nusa IA generativa",
+          "headline": "Pearl Abyss lleva la IA\na todo su proceso de desarrollo",
+          "body": "Pearl Abyss integra la IA en todo su proceso de desarrollo y ahora prevé lanzar DokeV en 2028.",
+          "mini_headline": "Pearl Abyss adopta la IA en todo el estudio",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/state-of-the-game-industry-2026_SaCPvuv.png?width=1200&quality=85&format=jpg&auto=webp",
-                "cap": "GDC State of the Game Industry 2026"
+                "src": "https://assetsio.gnwcdn.com/crimson-deser-kliff.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "Crédito de la imagen: Pearl Abyss"
               },
               {
                 "t": "p",
-                "x": "El 40% de los desarrolladores usa IA generativa en su trabajo, según el último informe State of the Game Industry de la Game Developers Conference (GDC). Es un aumento del 4% respecto al informe anterior, aunque la responsable del proyecto de la encuesta, Beth Elderkin, señala que el incremento es menor que la vez pasada."
+                "x": "Pearl Abyss, desarrolladora de Crimson Desert y DokeV, planea integrar aún más la IA generativa en su flujo de trabajo. En su más reciente carta trimestral de resultados (Earnings Letter), el estudio surcoreano explicó que antes \"validaba los sistemas de juego solo después de implementarlos manualmente\". Ahora usa la IA \"para validar rápidamente diversos conceptos de diseño antes de la implementación real\", lo que, según afirma, \"permite una asignación más eficiente de los recursos de desarrollo y mejora la velocidad general de producción\"."
+              },
+              {
+                "t": "video",
+                "yt": "Ifjrgq3_tWg"
               },
               {
                 "t": "p",
-                "x": "El 57% de los desarrolladores que usan esta tecnología la emplean para generar texto, investigar, crear prototipos tempranos, programar y preparar presentaciones. La IA generativa es más popular en operaciones y servicios de negocio, en estudios exclusivamente móviles y entre desarrolladores free-to-play. El 27% de los trabajadores de AAA se siente animado o presionado a usar IA generativa; el 9% de los desarrolladores independientes dice lo mismo."
+                "x": "\"Sin embargo, la IA sirve estrictamente como herramienta de apoyo a la validación de conceptos y a la productividad del pipeline, mientras que la experiencia de juego central y la creación real de contenido siguen estando totalmente a cargo de nuestro equipo de desarrollo\", afirmó la desarrolladora. La IA se utiliza para \"la automatización de tareas repetitivas, el apoyo a la creación de contenido y la optimización de pruebas\", y \"estamos ampliando su implementación a todo nuestro pipeline de desarrollo\"."
               },
               {
                 "t": "p",
-                "x": "El 55% de los encuestados afirmó que la IA tiene un impacto negativo en los videojuegos, un 1% más que el año anterior. \"Creo que se debe más a que la gente ya conoce la tecnología, y es una realidad en lugar de un problema teórico, así que sabe cómo quiere usarla o si quiere usarla en absoluto\", dice Elderkin."
-              },
-              {
-                "t": "p",
-                "x": "Más allá de la IA, el 33% de los encuestados ha sido despedido en los últimos 24 meses. El PC sigue dominando con un 81%, Unreal y Unity alcanzan el 35% y el 28%, y el 86% de los desarrolladores dice haber trabajado más de 40 horas en una semana. Elderkin afirma que este año ve \"mucha resiliencia y esperanza en el futuro\"."
+                "x": "Cuando se lanzó Crimson Desert, los jugadores detectaron \"elementos visuales 2D\" generados con IA (AI-generated) que Pearl Abyss retiró rápidamente con un parche. La carta también indica que DokeV, un juego de colección de criaturas, tiene como \"objetivo un lanzamiento en la segunda mitad de 2028\", y que Crimson Desert llegará a Nintendo Switch 2 \"en la primera mitad del próximo año\"."
               }
             ]
           }
@@ -325,669 +325,195 @@
       }
     },
     {
-      "id": "tencent-ai-gaming-companions",
+      "id": "sony-qssr-ps5-rollout",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Tencent가 내놓은\n플레이 보는 AI 동반자",
-      "body": "Tencent가 게임 플레이를 보며 조언하는 애니풍 AI 동반자 넷을 내놨다.",
-      "mini_headline": "Tencent의\nAI 게임 동반자",
-      "tool": "Games",
-      "source": "80 Level",
-      "url": "https://80.lv/articles/tencent-launches-ai-gaming-companions-that-watch-you-play-offer-advice/",
-      "accent": "#0070f3",
-      "motif": "cube",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://cdn.80.lv/api/upload/content/b9/images/6af5c6c9f3f7f/widen_1840x0.jpg"
-          },
-          {
-            "t": "p",
-            "x": "솔직히 타이밍은 좀 우습지만 개념 자체는 새롭지 않다. 중국 빅테크 Tencent보다 먼저 Razer가 AVA를 선보였다. AVA에서는 작은 홀로그램 AI 동반자 여럿 가운데 하나를 고르는데, 업무든 게임이든 일상에 녹아들도록 설계됐다."
-          },
-          {
-            "t": "p",
-            "x": "Tencent의 새 데스크톱 앱 Eciyuan은 게이머가 대상이다. AI 동반자 네 명이 게임 플레이를 지켜보며 해볼 만한 행동을 제안하고, 원하면 언제든 대화도 나눌 수 있다. 네 소녀는 저마다 성격과 배경, 관심사, 목소리 샘플이 있다. 이를테면 Shen Lubai는 Valorant, League of Legends, Counter-Strike 같은 게임을 즐기는 24세 e스포츠 해설가 지망생이다. Xia Xia는 저널리즘·커뮤니케이션 전공 학생이고 Guiyu는 요리사로 보이며, Bella는 서핑에 푹 빠져 있다."
-          },
-          {
-            "t": "p",
-            "x": "Eciyuan 동반자와는 모바일에서도 대화를 이어갈 수 있는 듯하다. 작은 캐릭터로 데스크톱에 띄워 두거나 의상에 맞춘 배경화면을 설정하는 기능도 있어 보인다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.80.lv/api/upload/content/75/images/6af5c4663e8b4/widen_1840x0.jpg"
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.80.lv/api/upload/content/11/images/6af5c46aeedbb/widen_1840x0.jpg"
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.80.lv/api/upload/content/12/images/6af5c4724c758/widen_1840x0.jpg"
-          },
-          {
-            "t": "p",
-            "x": "Eciyuan과 AI 동반자 정보는 아직 아주 적고, 글로벌 출시 소식도 없다. 이 소녀들이 실제 경기에서 쓸 만한 조언을 해 줄지는 두고 볼 일이다. 베타는 현재 중국에서만 쓸 수 있다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Tencent launches AI gaming\ncompanions that watch you play",
-          "body": "Tencent has launched four anime-style AI companions that watch gamers play and offer them advice.",
-          "mini_headline": "Tencent's AI\ngaming companions",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/b9/images/6af5c6c9f3f7f/widen_1840x0.jpg"
-              },
-              {
-                "t": "p",
-                "x": "The timing of this news is honestly quite comical, though the concept itself is nothing new. Before the Chinese tech giant Tencent, Razer had already introduced AVA, which lets users choose from several tiny holographic AI companions designed to become part of their everyday lives, whether for work or gaming."
-              },
-              {
-                "t": "p",
-                "x": "Eciyuan, Tencent's new desktop app, is aimed at gamers and features four AI companions that watch your gameplay and suggest possible actions, and you can also chat with them whenever you feel like it. Each of the four girls has her own personality, background, personality, interests, and voice samples. For example, Shen Lubai is a 24-year-old aspiring esports commentator who enjoys games like Valorant, League of Legends, and Counter-Strike. Xia Xia is a Journalism and Communications student, while Guiyu seems to be a cook, and Bella is really into surfing."
-              },
-              {
-                "t": "p",
-                "x": "Apparently, you can continue chatting with your Eciyuan companions on mobile and can even have them hang out on your desktop as little characters or set wallpapers that match their outfits."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/75/images/6af5c4663e8b4/widen_1840x0.jpg"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/11/images/6af5c46aeedbb/widen_1840x0.jpg"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/12/images/6af5c4724c758/widen_1840x0.jpg"
-              },
-              {
-                "t": "p",
-                "x": "There's still very little information available about Eciyuan and its AI companions, and there's no word on a global release just yet. We'll have to see if the girls can actually offer useful advice during real matches. For now, the beta is only available in China."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Tencent가 내놓은\n플레이 보는 AI 동반자",
-          "body": "Tencent가 게임 플레이를 보며 조언하는 애니풍 AI 동반자 넷을 내놨다.",
-          "mini_headline": "Tencent의\nAI 게임 동반자",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/b9/images/6af5c6c9f3f7f/widen_1840x0.jpg"
-              },
-              {
-                "t": "p",
-                "x": "솔직히 타이밍은 좀 우습지만 개념 자체는 새롭지 않다. 중국 빅테크 Tencent보다 먼저 Razer가 AVA를 선보였다. AVA에서는 작은 홀로그램 AI 동반자 여럿 가운데 하나를 고르는데, 업무든 게임이든 일상에 녹아들도록 설계됐다."
-              },
-              {
-                "t": "p",
-                "x": "Tencent의 새 데스크톱 앱 Eciyuan은 게이머가 대상이다. AI 동반자 네 명이 게임 플레이를 지켜보며 해볼 만한 행동을 제안하고, 원하면 언제든 대화도 나눌 수 있다. 네 소녀는 저마다 성격과 배경, 관심사, 목소리 샘플이 있다. 이를테면 Shen Lubai는 Valorant, League of Legends, Counter-Strike 같은 게임을 즐기는 24세 e스포츠 해설가 지망생이다. Xia Xia는 저널리즘·커뮤니케이션 전공 학생이고 Guiyu는 요리사로 보이며, Bella는 서핑에 푹 빠져 있다."
-              },
-              {
-                "t": "p",
-                "x": "Eciyuan 동반자와는 모바일에서도 대화를 이어갈 수 있는 듯하다. 작은 캐릭터로 데스크톱에 띄워 두거나 의상에 맞춘 배경화면을 설정하는 기능도 있어 보인다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/75/images/6af5c4663e8b4/widen_1840x0.jpg"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/11/images/6af5c46aeedbb/widen_1840x0.jpg"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/12/images/6af5c4724c758/widen_1840x0.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Eciyuan과 AI 동반자 정보는 아직 아주 적고, 글로벌 출시 소식도 없다. 이 소녀들이 실제 경기에서 쓸 만한 조언을 해 줄지는 두고 볼 일이다. 베타는 현재 중국에서만 쓸 수 있다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Tencent、ゲームを\n見守るAI相棒を投入",
-          "body": "Tencentが、ゲーマーのプレイを見て助言するアニメ風AIコンパニオン4人を投入した。",
-          "mini_headline": "TencentのAI\nゲーム相棒",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/b9/images/6af5c6c9f3f7f/widen_1840x0.jpg"
-              },
-              {
-                "t": "p",
-                "x": "正直なところ、このニュースのタイミングはかなり滑稽だが、コンセプト自体は目新しいものではない。中国のテック大手Tencentより先に、RazerがすでにAVAを発表している。AVAでは、仕事でもゲームでも日常の一部になるよう設計された、小さなホログラムのAIコンパニオン数体から好きなものを選べる。"
-              },
-              {
-                "t": "p",
-                "x": "Tencentの新しいデスクトップアプリEciyuanはゲーマー向けで、プレイを見守って取れる行動を提案する4人のAIコンパニオンを備え、好きなときに会話もできる。4人の少女はそれぞれ独自の性格、経歴、趣味、ボイスサンプルを持つ。たとえばShen Lubaiは、Valorant、League of Legends、Counter-Strikeなどを好む24歳のeスポーツ実況者志望だ。Xia Xiaはジャーナリズム・コミュニケーション専攻の学生、Guiyuは料理人らしく、Bellaはサーフィンに夢中だ。"
-              },
-              {
-                "t": "p",
-                "x": "Eciyuanのコンパニオンとはモバイルでも会話を続けられ、小さなキャラクターとしてデスクトップに置いたり、衣装に合わせた壁紙を設定したりもできるようだ。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/75/images/6af5c4663e8b4/widen_1840x0.jpg"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/11/images/6af5c46aeedbb/widen_1840x0.jpg"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/12/images/6af5c4724c758/widen_1840x0.jpg"
-              },
-              {
-                "t": "p",
-                "x": "EciyuanとそのAIコンパニオンに関する情報はまだごく少なく、グローバル展開についての発表もまだない。実際の試合で彼女たちが本当に役立つ助言をくれるかは、今後を見守る必要がある。現時点でベータ版は中国でのみ提供されている。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Tencent推出AI伴侣\n可旁观你玩游戏",
-          "body": "Tencent推出四位动漫风AI伴侣，可观看玩家游戏并给出建议。",
-          "mini_headline": "Tencent的\nAI游戏伴侣",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/b9/images/6af5c6c9f3f7f/widen_1840x0.jpg"
-              },
-              {
-                "t": "p",
-                "x": "说实话，这条新闻的时机相当滑稽，不过这个概念本身并不新鲜。在中国科技巨头Tencent之前，Razer就已推出AVA，用户可以从几个小巧的全息AI伴侣中挑选，它们旨在融入日常生活，无论是工作还是游戏。"
-              },
-              {
-                "t": "p",
-                "x": "Eciyuan是Tencent面向玩家的新款桌面应用，内置四位AI伴侣，它们会观看你的游戏过程并建议可行的操作，你也可以随时和她们聊天。四个女孩各有自己的性格、背景、兴趣和语音样本。例如，Shen Lubai是一位24岁、立志成为电竞解说的女孩，喜欢Valorant、League of Legends和Counter-Strike等游戏。Xia Xia是新闻与传播专业的学生，Guiyu似乎是一名厨师，Bella则热衷冲浪。"
-              },
-              {
-                "t": "p",
-                "x": "据悉，你还可以在手机上继续与Eciyuan伴侣聊天，甚至让她们以小角色的形式待在桌面上，或设置与她们服装相配的壁纸。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/75/images/6af5c4663e8b4/widen_1840x0.jpg"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/11/images/6af5c46aeedbb/widen_1840x0.jpg"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/12/images/6af5c4724c758/widen_1840x0.jpg"
-              },
-              {
-                "t": "p",
-                "x": "关于Eciyuan及其AI伴侣的信息仍然很少，目前也没有全球发布的消息。这些女孩能否在真实对局中给出有用的建议，还有待观察。目前，测试版仅在中国提供。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Tencent lanza compañeros de IA\nque observan cómo juegas",
-          "body": "Tencent ha lanzado cuatro compañeros de IA de estilo anime que observan a los jugadores y les dan consejos.",
-          "mini_headline": "Los compañeros de IA\nde Tencent",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/b9/images/6af5c6c9f3f7f/widen_1840x0.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Sinceramente, el momento de esta noticia resulta bastante cómico, aunque el concepto en sí no es nuevo. Antes que el gigante tecnológico chino Tencent, Razer ya había presentado AVA, que permite elegir entre varios pequeños compañeros holográficos de IA diseñados para formar parte de la vida diaria, ya sea para trabajar o para jugar."
-              },
-              {
-                "t": "p",
-                "x": "Eciyuan, la nueva aplicación de escritorio de Tencent, está dirigida a jugadores e incluye cuatro compañeros de IA que observan tus partidas y sugieren posibles acciones; además, puedes conversar con ellos cuando quieras. Cada una de las cuatro chicas tiene su propia personalidad, historia, intereses y muestras de voz. Por ejemplo, Shen Lubai es una aspirante a comentarista de esports de 24 años a la que le gustan juegos como Valorant, League of Legends y Counter-Strike. Xia Xia estudia Periodismo y Comunicación, Guiyu parece ser cocinera y a Bella le encanta el surf."
-              },
-              {
-                "t": "p",
-                "x": "Al parecer, se puede seguir conversando con los compañeros de Eciyuan en el móvil e incluso hacer que aparezcan en el escritorio como pequeños personajes o poner fondos de pantalla que combinan con su ropa."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/75/images/6af5c4663e8b4/widen_1840x0.jpg"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/11/images/6af5c46aeedbb/widen_1840x0.jpg"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/12/images/6af5c4724c758/widen_1840x0.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Todavía hay muy poca información sobre Eciyuan y sus compañeros de IA, y aún no se ha anunciado un lanzamiento global. Habrá que ver si las chicas pueden dar consejos útiles en partidas reales. Por ahora, la beta solo está disponible en China."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Tencent가 내놓은\n플레이 보는 AI 동반자",
-          "body": "Tencent가 게임 플레이를 보며 조언하는 애니풍 AI 동반자 넷을 출시했다.",
-          "mini_headline": "Tencent의\nAI 게임 동반자",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/b9/images/6af5c6c9f3f7f/widen_1840x0.jpg"
-              },
-              {
-                "t": "p",
-                "x": "솔직히 이 소식의 타이밍은 꽤 우습지만, 개념 자체는 새롭지 않다. 중국 빅테크 Tencent보다 앞서 Razer가 이미 AVA를 선보였다. AVA는 업무든 게임이든 일상의 일부가 되도록 설계한 작은 홀로그램 AI 동반자 여럿 가운데 하나를 고를 수 있게 한다."
-              },
-              {
-                "t": "p",
-                "x": "Tencent의 새 데스크톱 앱 Eciyuan은 게이머를 겨냥했다. 게임 플레이를 지켜보며 할 만한 행동을 제안하는 AI 동반자 네 명이 들어 있고, 원할 때 언제든 대화도 나눌 수 있다. 네 소녀는 저마다 성격, 배경, 관심사, 목소리 샘플을 갖췄다. 예를 들어 Shen Lubai는 Valorant, League of Legends, Counter-Strike 같은 게임을 즐기는 24세 e스포츠 해설가 지망생이다. Xia Xia는 저널리즘·커뮤니케이션 전공 학생이고, Guiyu는 요리사로 보이며, Bella는 서핑에 푹 빠져 있다."
-              },
-              {
-                "t": "p",
-                "x": "Eciyuan 동반자와는 모바일에서도 대화를 이어갈 수 있고, 작은 캐릭터로 데스크톱에 머물게 하거나 의상에 맞춘 배경화면을 설정할 수도 있는 것으로 보인다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/75/images/6af5c4663e8b4/widen_1840x0.jpg"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/11/images/6af5c46aeedbb/widen_1840x0.jpg"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/12/images/6af5c4724c758/widen_1840x0.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Eciyuan과 AI 동반자에 관한 정보는 아직 매우 적고, 글로벌 출시 소식도 아직 없다. 이 소녀들이 실제 경기에서 쓸 만한 조언을 해 줄지는 지켜봐야 한다. 현재 베타는 중국에서만 이용할 수 있다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Tencent、ゲームを\n見守るAI相棒を投入",
-          "body": "Tencentが、ゲーマーのプレイを見て助言するアニメ風AIコンパニオン4人を投入した。",
-          "mini_headline": "TencentのAI\nゲーム相棒",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/b9/images/6af5c6c9f3f7f/widen_1840x0.jpg"
-              },
-              {
-                "t": "p",
-                "x": "正直なところ、このニュースのタイミングはかなり滑稽だが、コンセプト自体は目新しいものではない。中国のテック大手Tencentより先に、RazerがすでにAVAを発表している。AVAでは、仕事でもゲームでも日常の一部になるよう設計された、小さなホログラムのAIコンパニオン数体から好きなものを選べる。"
-              },
-              {
-                "t": "p",
-                "x": "Tencentの新しいデスクトップアプリEciyuanはゲーマー向けで、プレイを見守って取れる行動を提案する4人のAIコンパニオンを備え、好きなときに会話もできる。4人の少女はそれぞれ独自の性格、経歴、趣味、ボイスサンプルを持つ。たとえばShen Lubaiは、Valorant、League of Legends、Counter-Strikeなどを好む24歳のeスポーツ実況者志望だ。Xia Xiaはジャーナリズム・コミュニケーション専攻の学生、Guiyuは料理人らしく、Bellaはサーフィンに夢中だ。"
-              },
-              {
-                "t": "p",
-                "x": "Eciyuanのコンパニオンとはモバイルでも会話を続けられ、小さなキャラクターとしてデスクトップに置いたり、衣装に合わせた壁紙を設定したりもできるようだ。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/75/images/6af5c4663e8b4/widen_1840x0.jpg"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/11/images/6af5c46aeedbb/widen_1840x0.jpg"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/12/images/6af5c4724c758/widen_1840x0.jpg"
-              },
-              {
-                "t": "p",
-                "x": "EciyuanとそのAIコンパニオンに関する情報はまだごく少なく、グローバル展開についての発表もまだない。実際の試合で彼女たちが本当に役立つ助言をくれるかは、今後を見守る必要がある。現時点でベータ版は中国でのみ提供されている。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Tencent推出AI伴侣\n可旁观你玩游戏",
-          "body": "Tencent推出四位动漫风AI伴侣，可观看玩家游戏并给出建议。",
-          "mini_headline": "Tencent的\nAI游戏伴侣",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/b9/images/6af5c6c9f3f7f/widen_1840x0.jpg"
-              },
-              {
-                "t": "p",
-                "x": "说实话，这条新闻的时机相当滑稽，不过这个概念本身并不新鲜。在中国科技巨头Tencent之前，Razer就已推出AVA，用户可以从几个小巧的全息AI伴侣中挑选，它们旨在融入日常生活，无论是工作还是游戏。"
-              },
-              {
-                "t": "p",
-                "x": "Eciyuan是Tencent面向玩家的新款桌面应用，内置四位AI伴侣，它们会观看你的游戏过程并建议可行的操作，你也可以随时和她们聊天。四个女孩各有自己的性格、背景、兴趣和语音样本。例如，Shen Lubai是一位24岁、立志成为电竞解说的女孩，喜欢Valorant、League of Legends和Counter-Strike等游戏。Xia Xia是新闻与传播专业的学生，Guiyu似乎是一名厨师，Bella则热衷冲浪。"
-              },
-              {
-                "t": "p",
-                "x": "据悉，你还可以在手机上继续与Eciyuan伴侣聊天，甚至让她们以小角色的形式待在桌面上，或设置与她们服装相配的壁纸。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/75/images/6af5c4663e8b4/widen_1840x0.jpg"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/11/images/6af5c46aeedbb/widen_1840x0.jpg"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/12/images/6af5c4724c758/widen_1840x0.jpg"
-              },
-              {
-                "t": "p",
-                "x": "关于Eciyuan及其AI伴侣的信息仍然很少，目前也没有全球发布的消息。这些女孩能否在真实对局中给出有用的建议，还有待观察。目前，测试版仅在中国提供。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Tencent lanza compañeros de IA\nque observan cómo juegas",
-          "body": "Tencent ha lanzado cuatro compañeros de IA de estilo anime que observan a los jugadores y les dan consejos.",
-          "mini_headline": "Los compañeros de IA\nde Tencent",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/b9/images/6af5c6c9f3f7f/widen_1840x0.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Sinceramente, el momento de esta noticia resulta bastante cómico, aunque el concepto en sí no es nuevo. Antes que el gigante tecnológico chino Tencent, Razer ya había presentado AVA, que permite elegir entre varios pequeños compañeros holográficos de IA diseñados para formar parte de la vida diaria, ya sea para trabajar o para jugar."
-              },
-              {
-                "t": "p",
-                "x": "Eciyuan, la nueva aplicación de escritorio de Tencent, está dirigida a jugadores e incluye cuatro compañeros de IA que observan tus partidas y sugieren posibles acciones; además, puedes conversar con ellos cuando quieras. Cada una de las cuatro chicas tiene su propia personalidad, historia, intereses y muestras de voz. Por ejemplo, Shen Lubai es una aspirante a comentarista de esports de 24 años a la que le gustan juegos como Valorant, League of Legends y Counter-Strike. Xia Xia estudia Periodismo y Comunicación, Guiyu parece ser cocinera y a Bella le encanta el surf."
-              },
-              {
-                "t": "p",
-                "x": "Al parecer, se puede seguir conversando con los compañeros de Eciyuan en el móvil e incluso hacer que aparezcan en el escritorio como pequeños personajes o poner fondos de pantalla que combinan con su ropa."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/75/images/6af5c4663e8b4/widen_1840x0.jpg"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/11/images/6af5c46aeedbb/widen_1840x0.jpg"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/12/images/6af5c4724c758/widen_1840x0.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Todavía hay muy poca información sobre Eciyuan y sus compañeros de IA, y aún no se ha anunciado un lanzamiento global. Habrá que ver si las chicas pueden dar consejos útiles en partidas reales. Por ahora, la beta solo está disponible en China."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "apex-neural-rendering-framegen",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Apex 뉴럴 렌더링,\nDLSS 프레임 생성 겨냥",
-      "body": "ANR 베타는 최대 2.4x 빠르고 VRAM을 62% 덜 쓰며 옛 GPUs도 된다.",
-      "mini_headline": "Apex,\nDLSS에 도전",
+      "headline": "Sony의 QSSR\nPS5 게임 6종 탑재",
+      "body": "PSSR에서 나온 경량 AI 업스케일러 QSSR이 PS5 게임 6종에 들어간다.",
+      "mini_headline": "QSSR, PS5 게임 6종에 적용",
       "tool": "Games",
       "source": "Wccftech",
-      "url": "https://wccftech.com/apex-neural-rendering-challenges-nvidia-dlss-with-up-to-2-4x-faster-frame-generation-62-lower-vram-usage-and-broad-gpu-support/",
-      "accent": "#f5a623",
+      "url": "https://wccftech.com/quick-spectral-super-resolution-six-ps5-games/",
+      "accent": "#0070f3",
       "motif": "cube",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-30.jpg"
+            "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/ARC-Raiders-QSSR-HD-1920x1080.jpeg",
+            "cap": "Quick Spectral Super Resolution(QSSR)이 곧 Spider-Man 2, CONTROL Resonant, ARC Raiders, The Finals, No Man's Sky, Hell Let Loose: Vietnam 등 PS5 게임 6종에 들어간다."
           },
           {
             "t": "p",
-            "x": "Apex Compute가 크로스플랫폼 뉴럴 렌더링 제품군 Apex Neural Rendering(ANR)을 공개했다. 회사는 NVIDIA 기술보다 프레임 생성이 최대 2.4X 빠르고 화질이 더 좋으며 GPU 메모리도 훨씬 덜 쓴다고 주장한다. ANR은 Frame Generation(FG), Super Resolution(SR), Ray Reconstruction(RR)으로 이뤄지며, 지금은 Frame Generation이 베타로 나와 있다."
+            "x": "Sony가 오늘 발표한 바에 따르면 PlayStation 5 게임 6종이 Quick Spectral Super Resolution(QSSR) 지원을 이미 넣었거나 곧 넣는다. QSSR은 PS5 Pro의 PSSR에서 갈라져 나온 경량 AI 업스케일러로 10월에 처음 공개됐다. 대상은 Marvel's Spider-Man 2, CONTROL Resonant, The Finals, ARC Raiders, No Man's Sky, Hell Let Loose: Vietnam이다."
           },
           {
             "t": "p",
-            "x": "NVIDIA GeForce GTX 16 및 RTX 20/30/40/50 Series, AMD Radeon RX 5000/6000/7000/9000 Series와 Steam Deck, Intel Arc A-Series와 B-Series에서 돌아간다. 운영체제는 Windows 10/11, Linux, SteamOS를 지원하고, macOS 26용 Metal 테스트 키트도 있다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/ANR-Bench-Numbers.jpg"
-          },
-          {
-            "t": "p",
-            "x": "Apex Compute 내부 벤치마크를 보면 3840×2160 해상도의 GeForce RTX 5090에서 ANR FG는 2X 모드 기준 생성 프레임 하나에 1.01밀리초가 걸려 NVIDIA DLSS Frame Generation의 1.26 ms보다 짧다. 4K 기준 GPU 메모리 사용량은 214 MB로 NVIDIA의 562 MB보다 약 62% 적다. 다만 공개된 RTX 5090 측정치만 보면 처리 시간 개선 폭이 광고한 2.4X에 못 미쳐 보인다. 이 수치도 실제 게임 FPS가 아니라 프레임을 만드는 비용이다."
+            "x": "Insomniac의 Mike Fitzgerald에 따르면 Marvel's Wolverine에서 좋은 결과를 본 뒤 QSSR을 Marvel's Spider-Man 2에도 \"지금 배포된 업데이트로\" 넣었다."
           },
           {
             "t": "video",
-            "yt": "xhzNx3seocQ"
+            "yt": "JYEQkLnlV7o"
           },
           {
             "t": "p",
-            "x": "Apex 자체 화질 측정에서는 ANR이 NVIDIA DLSS FG보다 낫게 나왔지만 독립 검증은 여전히 필요하다. 베타는 GitHub의 OptiScaler로 설치하고, 프레임 생성 구현은 아직 오픈소스가 아니다. 호환성 문제와 시각적 아티팩트도 감안해야 한다."
+            "x": "Remedy의 Erik Jansson은 12월에 나올 업데이트에서 QSSR이 Control Resonant에 \"훨씬 안정적이고 디테일한 이미지\"를 보여 준다고 했다. Embark Studios도 ARC Raiders와 The Finals에 QSSR이 곧 들어간다고 밝혔다. Hello Games의 Sean Murray는 No Man's Sky에서 \"앞으로 몇 주 안에\" 만날 수 있다고 했고 Expression Games는 이후 업데이트로 Hell Let Loose: Vietnam에 QSSR을 넣는다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Apex Neural Rendering takes\non DLSS frame generation",
-          "body": "Apex Neural Rendering claims up to 2.4x faster frame generation and 62% less VRAM, plus beta support for older GPUs.",
-          "mini_headline": "Apex takes\non DLSS",
+          "headline": "Sony's QSSR upscaler\nheads to six PS5 games",
+          "body": "Sony's QSSR, a lightweight AI upscaler derived from PS5 Pro's PSSR, is coming to six PS5 games.",
+          "mini_headline": "QSSR comes to six PS5 games",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-30.jpg"
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/ARC-Raiders-QSSR-HD-1920x1080.jpeg",
+                "cap": "Quick Spectral Super Resolution (QSSR) is coming soon to six PS5 games, including Spider-Man 2, CONTROL Resonant, ARC Raiders, The Finals, No Man's Sky, and Hell Let Loose: Vietnam."
               },
               {
                 "t": "p",
-                "x": "Apex Compute has introduced Apex Neural Rendering (ANR), a cross-platform neural rendering suite that reportedly delivers up to 2.4X faster frame generation, superior image quality, and substantially lower GPU memory consumption than NVIDIA's technology. ANR consists of Frame Generation (FG), Super Resolution (SR), and Ray Reconstruction (RR); Frame Generation is currently available in beta."
+                "x": "Sony announced today that six PlayStation 5 games have added or are about to add support for Quick Spectral Super Resolution (QSSR), the lightweight AI upscaler derived from PS5 Pro's PSSR and originally released in October. The games are Marvel's Spider-Man 2, CONTROL Resonant, The Finals, ARC Raiders, No Man's Sky, and Hell Let Loose: Vietnam."
               },
               {
                 "t": "p",
-                "x": "Compatibility spans NVIDIA GeForce GTX 16 and RTX 20/30/40/50 Series, AMD Radeon RX 5000/6000/7000/9000 Series and Steam Deck, and Intel Arc A-Series and B-Series, on Windows 10/11, Linux and SteamOS, plus a Metal test kit for macOS 26."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/ANR-Bench-Numbers.jpg"
-              },
-              {
-                "t": "p",
-                "x": "According to Apex Compute's internal benchmarks, on a GeForce RTX 5090 at 3840×2160, ANR FG requires 1.01 milliseconds per generated frame in 2X mode, compared to 1.26 ms for NVIDIA DLSS Frame Generation. GPU memory use is 214 MB versus NVIDIA's 562 MB at 4K, a reduction of approximately 62%. Its published RTX 5090 measurements suggest more modest processing-time improvements than the advertised 2.4X, and these concern the cost of generating frames rather than actual gaming FPS."
+                "x": "Insomniac's Mike Fitzgerald said QSSR is in Marvel's Spider-Man 2 \"in an update that's live now!\" after great results in Marvel's Wolverine."
               },
               {
                 "t": "video",
-                "yt": "xhzNx3seocQ"
+                "yt": "JYEQkLnlV7o"
               },
               {
                 "t": "p",
-                "x": "Apex's internal quality measurements favor ANR over NVIDIA DLSS FG, although independent testing is still necessary. The beta installs via OptiScaler from GitHub; the frame generation implementation is not yet open-source, and compatibility issues and visual artifacts should be expected."
+                "x": "Remedy's Erik Jansson said QSSR gives Control Resonant \"a much more stable and detailed image\" in an update coming in December. Embark Studios says QSSR is coming to ARC Raiders and The Finals soon, Hello Games' Sean Murray says to look for it in No Man's Sky \"in the next few weeks,\" and Expression Games is adding it to Hell Let Loose: Vietnam through an upcoming update."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Apex 뉴럴 렌더링,\nDLSS 프레임 생성 겨냥",
-          "body": "ANR 베타는 최대 2.4x 빠르고 VRAM을 62% 덜 쓰며 옛 GPUs도 된다.",
-          "mini_headline": "Apex,\nDLSS에 도전",
+          "headline": "Sony의 QSSR\nPS5 게임 6종 탑재",
+          "body": "PSSR에서 나온 경량 AI 업스케일러 QSSR이 PS5 게임 6종에 들어간다.",
+          "mini_headline": "QSSR, PS5 게임 6종에 적용",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-30.jpg"
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/ARC-Raiders-QSSR-HD-1920x1080.jpeg",
+                "cap": "Quick Spectral Super Resolution(QSSR)이 곧 Spider-Man 2, CONTROL Resonant, ARC Raiders, The Finals, No Man's Sky, Hell Let Loose: Vietnam 등 PS5 게임 6종에 들어간다."
               },
               {
                 "t": "p",
-                "x": "Apex Compute가 크로스플랫폼 뉴럴 렌더링 제품군 Apex Neural Rendering(ANR)을 공개했다. 회사는 NVIDIA 기술보다 프레임 생성이 최대 2.4X 빠르고 화질이 더 좋으며 GPU 메모리도 훨씬 덜 쓴다고 주장한다. ANR은 Frame Generation(FG), Super Resolution(SR), Ray Reconstruction(RR)으로 이뤄지며, 지금은 Frame Generation이 베타로 나와 있다."
+                "x": "Sony가 오늘 발표한 바에 따르면 PlayStation 5 게임 6종이 Quick Spectral Super Resolution(QSSR) 지원을 이미 넣었거나 곧 넣는다. QSSR은 PS5 Pro의 PSSR에서 갈라져 나온 경량 AI 업스케일러로 10월에 처음 공개됐다. 대상은 Marvel's Spider-Man 2, CONTROL Resonant, The Finals, ARC Raiders, No Man's Sky, Hell Let Loose: Vietnam이다."
               },
               {
                 "t": "p",
-                "x": "NVIDIA GeForce GTX 16 및 RTX 20/30/40/50 Series, AMD Radeon RX 5000/6000/7000/9000 Series와 Steam Deck, Intel Arc A-Series와 B-Series에서 돌아간다. 운영체제는 Windows 10/11, Linux, SteamOS를 지원하고, macOS 26용 Metal 테스트 키트도 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/ANR-Bench-Numbers.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Apex Compute 내부 벤치마크를 보면 3840×2160 해상도의 GeForce RTX 5090에서 ANR FG는 2X 모드 기준 생성 프레임 하나에 1.01밀리초가 걸려 NVIDIA DLSS Frame Generation의 1.26 ms보다 짧다. 4K 기준 GPU 메모리 사용량은 214 MB로 NVIDIA의 562 MB보다 약 62% 적다. 다만 공개된 RTX 5090 측정치만 보면 처리 시간 개선 폭이 광고한 2.4X에 못 미쳐 보인다. 이 수치도 실제 게임 FPS가 아니라 프레임을 만드는 비용이다."
+                "x": "Insomniac의 Mike Fitzgerald에 따르면 Marvel's Wolverine에서 좋은 결과를 본 뒤 QSSR을 Marvel's Spider-Man 2에도 \"지금 배포된 업데이트로\" 넣었다."
               },
               {
                 "t": "video",
-                "yt": "xhzNx3seocQ"
+                "yt": "JYEQkLnlV7o"
               },
               {
                 "t": "p",
-                "x": "Apex 자체 화질 측정에서는 ANR이 NVIDIA DLSS FG보다 낫게 나왔지만 독립 검증은 여전히 필요하다. 베타는 GitHub의 OptiScaler로 설치하고, 프레임 생성 구현은 아직 오픈소스가 아니다. 호환성 문제와 시각적 아티팩트도 감안해야 한다."
+                "x": "Remedy의 Erik Jansson은 12월에 나올 업데이트에서 QSSR이 Control Resonant에 \"훨씬 안정적이고 디테일한 이미지\"를 보여 준다고 했다. Embark Studios도 ARC Raiders와 The Finals에 QSSR이 곧 들어간다고 밝혔다. Hello Games의 Sean Murray는 No Man's Sky에서 \"앞으로 몇 주 안에\" 만날 수 있다고 했고 Expression Games는 이후 업데이트로 Hell Let Loose: Vietnam에 QSSR을 넣는다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Apexのニューラル描画が\nDLSSフレーム生成に挑む",
-          "body": "ANRは最大2.4x速いフレーム生成とVRAM 62%減、旧GPUsのベータ対応をうたう。",
-          "mini_headline": "Apex、\nDLSSに挑む",
+          "headline": "SonyのAI超解像QSSR\nPS5の6タイトルへ",
+          "body": "PSSR由来の軽量AIアップスケーラーQSSRがPS5の6タイトルに登場する。",
+          "mini_headline": "QSSRがPS5の6タイトルに",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-30.jpg"
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/ARC-Raiders-QSSR-HD-1920x1080.jpeg",
+                "cap": "Quick Spectral Super Resolution（QSSR）は、Spider-Man 2、CONTROL Resonant、ARC Raiders、The Finals、No Man's Sky、Hell Let Loose: VietnamなどPS5の6タイトルに近日対応する。"
               },
               {
                 "t": "p",
-                "x": "Apex Computeが、クロスプラットフォームのニューラルレンダリングスイートApex Neural Rendering（ANR）を発表した。NVIDIAの技術と比べ、フレーム生成が最大2.4X高速で、画質も優れ、GPUメモリ消費も大幅に少ないという。ANRはFrame Generation（FG）、Super Resolution（SR）、Ray Reconstruction（RR）で構成され、現在はFrame Generationがベータ版として提供されている。"
+                "x": "Sonyは本日、PlayStation 5の6タイトルがQuick Spectral Super Resolution（QSSR）に対応した、またはまもなく対応すると発表した。QSSRはPS5 ProのPSSRから派生した軽量AIアップスケーラーで、10月に初めてリリースされた。対象はMarvel's Spider-Man 2、CONTROL Resonant、The Finals、ARC Raiders、No Man's Sky、Hell Let Loose: Vietnamだ。"
               },
               {
                 "t": "p",
-                "x": "対応環境はNVIDIA GeForce GTX 16およびRTX 20/30/40/50 Series、AMD Radeon RX 5000/6000/7000/9000 SeriesとSteam Deck、Intel Arc A-SeriesとB-Seriesで、Windows 10/11、Linux、SteamOSに対応し、macOS 26向けのMetalテストキットもある。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/ANR-Bench-Numbers.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Apex Computeの社内ベンチマークによると、3840×2160のGeForce RTX 5090で、ANR FGは2Xモードで生成フレーム1枚あたり1.01ミリ秒を要し、NVIDIA DLSS Frame Generationは1.26 msだった。GPUメモリ使用量は4K 解像度で214 MBと、NVIDIAの562 MBより約62%少ない。ただし公開されたRTX 5090の測定値では、処理時間の改善は宣伝された2.4Xほど大きくないとみられ、これらは実際のゲームのFPSではなくフレーム生成のコストに関する数値である。"
+                "x": "InsomniacのMike Fitzgeraldは、Marvel's Wolverineで良好な結果が得られたことを受け、QSSRが「現在配信中のアップデートで」Marvel's Spider-Man 2に導入されたと述べた。"
               },
               {
                 "t": "video",
-                "yt": "xhzNx3seocQ"
+                "yt": "JYEQkLnlV7o"
               },
               {
                 "t": "p",
-                "x": "Apexの社内画質測定ではANRがNVIDIA DLSS FGを上回ったが、独立した検証はまだ必要だ。ベータ版はGitHubからOptiScaler経由でインストールする。フレーム生成の実装はまだオープンソースではなく、互換性の問題や視覚的なアーティファクトも想定しておく必要がある。"
+                "x": "RemedyのErik Janssonは、12月配信予定のアップデートでQSSRによりControl Resonantが「はるかに安定した精細な映像」になると語った。Embark StudiosはQSSRがまもなくARC RaidersとThe Finalsに導入されるとし、Hello GamesのSean Murrayは「今後数週間のうちに」No Man's Skyで見られると述べた。Expression Gamesも今後のアップデートでHell Let Loose: Vietnamに追加する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Apex神经渲染技术\n挑战DLSS帧生成",
-          "body": "Apex号称帧生成最高快2.4x、VRAM少用62%，并以测试版支持旧款GPUs。",
-          "mini_headline": "Apex\n挑战DLSS",
+          "headline": "Sony QSSR超分辨率\n登陆六款PS5游戏",
+          "body": "Sony基于PS5 Pro PSSR打造的轻量AI超分技术QSSR将登陆六款PS5游戏。",
+          "mini_headline": "QSSR登陆六款PS5游戏",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-30.jpg"
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/ARC-Raiders-QSSR-HD-1920x1080.jpeg",
+                "cap": "Quick Spectral Super Resolution（QSSR）即将登陆六款PS5游戏，包括Spider-Man 2、CONTROL Resonant、ARC Raiders、The Finals、No Man's Sky和Hell Let Loose: Vietnam。"
               },
               {
                 "t": "p",
-                "x": "Apex Compute推出了跨平台神经渲染套件Apex Neural Rendering（ANR）。据称与NVIDIA的技术相比，其帧生成速度最高快2.4X，画质更好，GPU显存占用也显著更低。ANR由Frame Generation（FG）、Super Resolution（SR）和Ray Reconstruction（RR）组成，目前Frame Generation已推出测试版。"
+                "x": "Sony今天宣布，六款PlayStation 5游戏已经或即将支持Quick Spectral Super Resolution（QSSR）。这是一款衍生自PS5 Pro的PSSR的轻量AI超分辨率技术，最初于10月发布。这些游戏是Marvel's Spider-Man 2、CONTROL Resonant、The Finals、ARC Raiders、No Man's Sky和Hell Let Loose: Vietnam。"
               },
               {
                 "t": "p",
-                "x": "兼容范围涵盖NVIDIA GeForce GTX 16及RTX 20/30/40/50 Series、AMD Radeon RX 5000/6000/7000/9000 Series和Steam Deck，以及Intel Arc A-Series和B-Series，支持Windows 10/11、Linux和SteamOS，另有面向macOS 26的Metal测试套件。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/ANR-Bench-Numbers.jpg"
-              },
-              {
-                "t": "p",
-                "x": "根据Apex Compute的内部基准测试，在3840×2160分辨率下的GeForce RTX 5090上，ANR FG在2X模式下每生成一帧需要1.01毫秒，而NVIDIA DLSS Frame Generation为1.26 ms。在4K 分辨率下，GPU显存占用为214 MB，而NVIDIA为562 MB，减少约62%。不过，其公布的RTX 5090测量数据显示，处理时间的改善幅度不及宣传的2.4X，而且这些数据针对的是生成帧的开销，而非实际游戏FPS。"
+                "x": "Insomniac的Mike Fitzgerald表示，在Marvel's Wolverine中取得出色效果后，QSSR已通过“现已上线的更新”加入Marvel's Spider-Man 2。"
               },
               {
                 "t": "video",
-                "yt": "xhzNx3seocQ"
+                "yt": "JYEQkLnlV7o"
               },
               {
                 "t": "p",
-                "x": "Apex的内部画质测量结果显示ANR优于NVIDIA DLSS FG，但仍需独立测试验证。测试版通过GitHub上的OptiScaler安装；帧生成实现尚未开源，用户应预料到兼容性问题和画面瑕疵。"
+                "x": "Remedy的Erik Jansson表示，在12月推出的更新中，QSSR将为Control Resonant带来“稳定得多、细节更丰富的画面”。Embark Studios称QSSR即将登陆ARC Raiders和The Finals；Hello Games的Sean Murray表示，玩家可在“未来几周内”于No Man's Sky中看到它；Expression Games也将通过即将推出的更新为Hell Let Loose: Vietnam加入该技术。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Apex Neural Rendering desafía\na DLSS en generación de frames",
-          "body": "Apex promete generar frames hasta 2.4x más rápido y usar un 62% menos de VRAM, con soporte beta para GPUs antiguas.",
-          "mini_headline": "Apex desafía\na DLSS",
+          "headline": "El reescalador QSSR de Sony\nllega a seis juegos de PS5",
+          "body": "QSSR, el reescalador ligero con IA de Sony derivado del PSSR de PS5 Pro, llegará a seis juegos de PS5.",
+          "mini_headline": "QSSR llega a seis juegos de PS5",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-30.jpg"
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/ARC-Raiders-QSSR-HD-1920x1080.jpeg",
+                "cap": "Quick Spectral Super Resolution (QSSR) llegará pronto a seis juegos de PS5, entre ellos Spider-Man 2, CONTROL Resonant, ARC Raiders, The Finals, No Man's Sky y Hell Let Loose: Vietnam."
               },
               {
                 "t": "p",
-                "x": "Apex Compute ha presentado Apex Neural Rendering (ANR), una suite multiplataforma de renderizado neuronal que, según se informa, ofrece una generación de frames hasta 2.4X más rápida, mejor calidad de imagen y un consumo de memoria de GPU considerablemente menor que la tecnología de NVIDIA. ANR consta de Frame Generation (FG), Super Resolution (SR) y Ray Reconstruction (RR); Frame Generation está disponible actualmente en beta."
+                "x": "Sony anunció hoy que seis juegos de PlayStation 5 han añadido o están a punto de añadir compatibilidad con Quick Spectral Super Resolution (QSSR), el reescalador ligero con IA derivado del PSSR de PS5 Pro y lanzado originalmente en octubre. Los juegos son Marvel's Spider-Man 2, CONTROL Resonant, The Finals, ARC Raiders, No Man's Sky y Hell Let Loose: Vietnam."
               },
               {
                 "t": "p",
-                "x": "La compatibilidad abarca las NVIDIA GeForce GTX 16 y RTX 20/30/40/50 Series, las AMD Radeon RX 5000/6000/7000/9000 Series y Steam Deck, y las Intel Arc A-Series y B-Series, en Windows 10/11, Linux y SteamOS, además de un kit de pruebas de Metal para macOS 26."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/ANR-Bench-Numbers.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Según las pruebas internas de Apex Compute, en una GeForce RTX 5090 a 3840×2160, ANR FG necesita 1.01 milisegundos por frame generado en modo 2X, frente a 1.26 ms de NVIDIA DLSS Frame Generation. El uso de memoria de GPU es de 214 MB frente a los 562 MB de NVIDIA en 4K, una reducción de aproximadamente el 62%. Las mediciones publicadas en la RTX 5090 apuntan a mejoras de tiempo de procesamiento más modestas que el 2.4X anunciado, y se refieren al coste de generar frames, no a los FPS reales en juegos."
+                "x": "Mike Fitzgerald, de Insomniac, afirmó que QSSR ya está en Marvel's Spider-Man 2 \"en una actualización que ya está disponible\", tras los excelentes resultados obtenidos en Marvel's Wolverine."
               },
               {
                 "t": "video",
-                "yt": "xhzNx3seocQ"
+                "yt": "JYEQkLnlV7o"
               },
               {
                 "t": "p",
-                "x": "Las mediciones internas de calidad de Apex favorecen a ANR frente a NVIDIA DLSS FG, aunque todavía hacen falta pruebas independientes. La beta se instala mediante OptiScaler desde GitHub; la implementación de generación de frames aún no es de código abierto, y cabe esperar problemas de compatibilidad y artefactos visuales."
+                "x": "Erik Jansson, de Remedy, dijo que QSSR ofrece a Control Resonant \"una imagen mucho más estable y detallada\" en una actualización que llegará en diciembre. Embark Studios indica que QSSR llegará pronto a ARC Raiders y The Finals; Sean Murray, de Hello Games, dice que estará en No Man's Sky \"en las próximas semanas\", y Expression Games lo añadirá a Hell Let Loose: Vietnam mediante una próxima actualización."
               }
             ]
           }
@@ -995,153 +521,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Apex 뉴럴 렌더링,\nDLSS 프레임 생성 겨냥",
-          "body": "ANR 베타는 최대 2.4x 빠르고 VRAM 62% 절감, 옛 GPUs도 지원한다.",
-          "mini_headline": "Apex,\nDLSS에 도전",
+          "headline": "Sony의 QSSR\nPS5 게임 6종 탑재",
+          "body": "PSSR 기반 경량 AI 업스케일러 QSSR이 PS5 게임 6종에 들어간다.",
+          "mini_headline": "QSSR, PS5 게임 6종에 적용",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-30.jpg"
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/ARC-Raiders-QSSR-HD-1920x1080.jpeg",
+                "cap": "Quick Spectral Super Resolution(QSSR)이 곧 Spider-Man 2, CONTROL Resonant, ARC Raiders, The Finals, No Man's Sky, Hell Let Loose: Vietnam 등 PS5 게임 6종에 적용된다."
               },
               {
                 "t": "p",
-                "x": "Apex Compute가 크로스플랫폼 뉴럴 렌더링 제품군 Apex Neural Rendering(ANR)을 공개했다. NVIDIA 기술보다 프레임 생성이 최대 2.4X 빠르고, 화질이 더 뛰어나며, GPU 메모리 사용량도 크게 적다고 한다. ANR은 Frame Generation(FG), Super Resolution(SR), Ray Reconstruction(RR)으로 구성되며, 현재 Frame Generation이 베타로 제공된다."
+                "x": "Sony는 오늘 PlayStation 5 게임 6종이 Quick Spectral Super Resolution(QSSR) 지원을 추가했거나 곧 추가한다고 발표했다. QSSR은 PS5 Pro의 PSSR에서 파생된 경량 AI 업스케일러로, 10월에 처음 공개됐다. 대상 게임은 Marvel's Spider-Man 2, CONTROL Resonant, The Finals, ARC Raiders, No Man's Sky, Hell Let Loose: Vietnam이다."
               },
               {
                 "t": "p",
-                "x": "호환 대상은 NVIDIA GeForce GTX 16 및 RTX 20/30/40/50 Series, AMD Radeon RX 5000/6000/7000/9000 Series와 Steam Deck, Intel Arc A-Series와 B-Series이며, Windows 10/11, Linux, SteamOS를 지원하고 macOS 26용 Metal 테스트 키트도 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/ANR-Bench-Numbers.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Apex Compute의 내부 벤치마크에 따르면 3840×2160 해상도의 GeForce RTX 5090에서 ANR FG는 2X 모드 기준 생성 프레임당 1.01밀리초가 걸려, NVIDIA DLSS Frame Generation의 1.26 ms보다 짧다. GPU 메모리 사용량은 4K 기준 214 MB로 NVIDIA의 562 MB보다 약 62% 적다. 다만 공개된 RTX 5090 측정치는 광고한 2.4X보다 처리 시간 개선 폭이 작아 보이며, 이는 실제 게임 FPS가 아니라 프레임을 생성하는 비용에 관한 수치다."
+                "x": "Insomniac의 Mike Fitzgerald는 Marvel's Wolverine에서 좋은 결과를 얻은 뒤 QSSR이 Marvel's Spider-Man 2에 \"지금 배포된 업데이트로\" 들어갔다고 밝혔다."
               },
               {
                 "t": "video",
-                "yt": "xhzNx3seocQ"
+                "yt": "JYEQkLnlV7o"
               },
               {
                 "t": "p",
-                "x": "Apex의 내부 화질 측정에서는 ANR이 NVIDIA DLSS FG보다 낫다고 나왔지만, 독립적인 검증이 여전히 필요하다. 베타는 GitHub의 OptiScaler를 통해 설치하며, 프레임 생성 구현은 아직 오픈소스가 아니다. 호환성 문제와 시각적 아티팩트도 감안해야 한다."
+                "x": "Remedy의 Erik Jansson은 12월 배포 예정인 업데이트에서 QSSR이 Control Resonant에 \"훨씬 안정적이고 디테일한 이미지\"를 제공한다고 말했다. Embark Studios는 QSSR이 곧 ARC Raiders와 The Finals에 들어간다고 밝혔고, Hello Games의 Sean Murray는 No Man's Sky에서 \"앞으로 몇 주 안에\" 만나볼 수 있다고 했다. Expression Games는 향후 업데이트로 Hell Let Loose: Vietnam에 QSSR을 추가한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Apexのニューラル描画が\nDLSSフレーム生成に挑む",
-          "body": "ANRは最大2.4x速いフレーム生成とVRAM 62%減、旧GPUsのベータ対応をうたう。",
-          "mini_headline": "Apex、\nDLSSに挑む",
+          "headline": "SonyのAI超解像QSSR\nPS5の6タイトルへ",
+          "body": "PSSR由来の軽量AIアップスケーラーQSSRがPS5の6タイトルに登場する。",
+          "mini_headline": "QSSRがPS5の6タイトルに",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-30.jpg"
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/ARC-Raiders-QSSR-HD-1920x1080.jpeg",
+                "cap": "Quick Spectral Super Resolution（QSSR）は、Spider-Man 2、CONTROL Resonant、ARC Raiders、The Finals、No Man's Sky、Hell Let Loose: VietnamなどPS5の6タイトルに近日対応する。"
               },
               {
                 "t": "p",
-                "x": "Apex Computeが、クロスプラットフォームのニューラルレンダリングスイートApex Neural Rendering（ANR）を発表した。NVIDIAの技術と比べ、フレーム生成が最大2.4X高速で、画質も優れ、GPUメモリ消費も大幅に少ないという。ANRはFrame Generation（FG）、Super Resolution（SR）、Ray Reconstruction（RR）で構成され、現在はFrame Generationがベータ版として提供されている。"
+                "x": "Sonyは本日、PlayStation 5の6タイトルがQuick Spectral Super Resolution（QSSR）に対応した、またはまもなく対応すると発表した。QSSRはPS5 ProのPSSRから派生した軽量AIアップスケーラーで、10月に初めてリリースされた。対象はMarvel's Spider-Man 2、CONTROL Resonant、The Finals、ARC Raiders、No Man's Sky、Hell Let Loose: Vietnamだ。"
               },
               {
                 "t": "p",
-                "x": "対応環境はNVIDIA GeForce GTX 16およびRTX 20/30/40/50 Series、AMD Radeon RX 5000/6000/7000/9000 SeriesとSteam Deck、Intel Arc A-SeriesとB-Seriesで、Windows 10/11、Linux、SteamOSに対応し、macOS 26向けのMetalテストキットもある。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/ANR-Bench-Numbers.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Apex Computeの社内ベンチマークによると、3840×2160のGeForce RTX 5090で、ANR FGは2Xモードで生成フレーム1枚あたり1.01ミリ秒を要し、NVIDIA DLSS Frame Generationは1.26 msだった。GPUメモリ使用量は4K 解像度で214 MBと、NVIDIAの562 MBより約62%少ない。ただし公開されたRTX 5090の測定値では、処理時間の改善は宣伝された2.4Xほど大きくないとみられ、これらは実際のゲームのFPSではなくフレーム生成のコストに関する数値である。"
+                "x": "InsomniacのMike Fitzgeraldは、Marvel's Wolverineで良好な結果が得られたことを受け、QSSRが「現在配信中のアップデートで」Marvel's Spider-Man 2に導入されたと述べた。"
               },
               {
                 "t": "video",
-                "yt": "xhzNx3seocQ"
+                "yt": "JYEQkLnlV7o"
               },
               {
                 "t": "p",
-                "x": "Apexの社内画質測定ではANRがNVIDIA DLSS FGを上回ったが、独立した検証はまだ必要だ。ベータ版はGitHubからOptiScaler経由でインストールする。フレーム生成の実装はまだオープンソースではなく、互換性の問題や視覚的なアーティファクトも想定しておく必要がある。"
+                "x": "RemedyのErik Janssonは、12月配信予定のアップデートでQSSRによりControl Resonantが「はるかに安定した精細な映像」になると語った。Embark StudiosはQSSRがまもなくARC RaidersとThe Finalsに導入されるとし、Hello GamesのSean Murrayは「今後数週間のうちに」No Man's Skyで見られると述べた。Expression Gamesも今後のアップデートでHell Let Loose: Vietnamに追加する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Apex神经渲染技术\n挑战DLSS帧生成",
-          "body": "Apex号称帧生成最高快2.4x、VRAM少用62%，并以测试版支持旧款GPUs。",
-          "mini_headline": "Apex\n挑战DLSS",
+          "headline": "Sony QSSR超分辨率\n登陆六款PS5游戏",
+          "body": "Sony基于PS5 Pro PSSR打造的轻量AI超分技术QSSR将登陆六款PS5游戏。",
+          "mini_headline": "QSSR登陆六款PS5游戏",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-30.jpg"
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/ARC-Raiders-QSSR-HD-1920x1080.jpeg",
+                "cap": "Quick Spectral Super Resolution（QSSR）即将登陆六款PS5游戏，包括Spider-Man 2、CONTROL Resonant、ARC Raiders、The Finals、No Man's Sky和Hell Let Loose: Vietnam。"
               },
               {
                 "t": "p",
-                "x": "Apex Compute推出了跨平台神经渲染套件Apex Neural Rendering（ANR）。据称与NVIDIA的技术相比，其帧生成速度最高快2.4X，画质更好，GPU显存占用也显著更低。ANR由Frame Generation（FG）、Super Resolution（SR）和Ray Reconstruction（RR）组成，目前Frame Generation已推出测试版。"
+                "x": "Sony今天宣布，六款PlayStation 5游戏已经或即将支持Quick Spectral Super Resolution（QSSR）。这是一款衍生自PS5 Pro的PSSR的轻量AI超分辨率技术，最初于10月发布。这些游戏是Marvel's Spider-Man 2、CONTROL Resonant、The Finals、ARC Raiders、No Man's Sky和Hell Let Loose: Vietnam。"
               },
               {
                 "t": "p",
-                "x": "兼容范围涵盖NVIDIA GeForce GTX 16及RTX 20/30/40/50 Series、AMD Radeon RX 5000/6000/7000/9000 Series和Steam Deck，以及Intel Arc A-Series和B-Series，支持Windows 10/11、Linux和SteamOS，另有面向macOS 26的Metal测试套件。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/ANR-Bench-Numbers.jpg"
-              },
-              {
-                "t": "p",
-                "x": "根据Apex Compute的内部基准测试，在3840×2160分辨率下的GeForce RTX 5090上，ANR FG在2X模式下每生成一帧需要1.01毫秒，而NVIDIA DLSS Frame Generation为1.26 ms。在4K 分辨率下，GPU显存占用为214 MB，而NVIDIA为562 MB，减少约62%。不过，其公布的RTX 5090测量数据显示，处理时间的改善幅度不及宣传的2.4X，而且这些数据针对的是生成帧的开销，而非实际游戏FPS。"
+                "x": "Insomniac的Mike Fitzgerald表示，在Marvel's Wolverine中取得出色效果后，QSSR已通过“现已上线的更新”加入Marvel's Spider-Man 2。"
               },
               {
                 "t": "video",
-                "yt": "xhzNx3seocQ"
+                "yt": "JYEQkLnlV7o"
               },
               {
                 "t": "p",
-                "x": "Apex的内部画质测量结果显示ANR优于NVIDIA DLSS FG，但仍需独立测试验证。测试版通过GitHub上的OptiScaler安装；帧生成实现尚未开源，用户应预料到兼容性问题和画面瑕疵。"
+                "x": "Remedy的Erik Jansson表示，在12月推出的更新中，QSSR将为Control Resonant带来“稳定得多、细节更丰富的画面”。Embark Studios称QSSR即将登陆ARC Raiders和The Finals；Hello Games的Sean Murray表示，玩家可在“未来几周内”于No Man's Sky中看到它；Expression Games也将通过即将推出的更新为Hell Let Loose: Vietnam加入该技术。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Apex Neural Rendering desafía\na DLSS en generación de frames",
-          "body": "Apex promete generar frames hasta 2.4x más rápido y usar un 62% menos de VRAM, con soporte beta para GPUs antiguas.",
-          "mini_headline": "Apex desafía\na DLSS",
+          "headline": "El reescalador QSSR de Sony\nllega a seis juegos de PS5",
+          "body": "QSSR, el reescalador ligero con IA de Sony derivado del PSSR de PS5 Pro, llegará a seis juegos de PS5.",
+          "mini_headline": "QSSR llega a seis juegos de PS5",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-30.jpg"
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/ARC-Raiders-QSSR-HD-1920x1080.jpeg",
+                "cap": "Quick Spectral Super Resolution (QSSR) llegará pronto a seis juegos de PS5, entre ellos Spider-Man 2, CONTROL Resonant, ARC Raiders, The Finals, No Man's Sky y Hell Let Loose: Vietnam."
               },
               {
                 "t": "p",
-                "x": "Apex Compute ha presentado Apex Neural Rendering (ANR), una suite multiplataforma de renderizado neuronal que, según se informa, ofrece una generación de frames hasta 2.4X más rápida, mejor calidad de imagen y un consumo de memoria de GPU considerablemente menor que la tecnología de NVIDIA. ANR consta de Frame Generation (FG), Super Resolution (SR) y Ray Reconstruction (RR); Frame Generation está disponible actualmente en beta."
+                "x": "Sony anunció hoy que seis juegos de PlayStation 5 han añadido o están a punto de añadir compatibilidad con Quick Spectral Super Resolution (QSSR), el reescalador ligero con IA derivado del PSSR de PS5 Pro y lanzado originalmente en octubre. Los juegos son Marvel's Spider-Man 2, CONTROL Resonant, The Finals, ARC Raiders, No Man's Sky y Hell Let Loose: Vietnam."
               },
               {
                 "t": "p",
-                "x": "La compatibilidad abarca las NVIDIA GeForce GTX 16 y RTX 20/30/40/50 Series, las AMD Radeon RX 5000/6000/7000/9000 Series y Steam Deck, y las Intel Arc A-Series y B-Series, en Windows 10/11, Linux y SteamOS, además de un kit de pruebas de Metal para macOS 26."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/ANR-Bench-Numbers.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Según las pruebas internas de Apex Compute, en una GeForce RTX 5090 a 3840×2160, ANR FG necesita 1.01 milisegundos por frame generado en modo 2X, frente a 1.26 ms de NVIDIA DLSS Frame Generation. El uso de memoria de GPU es de 214 MB frente a los 562 MB de NVIDIA en 4K, una reducción de aproximadamente el 62%. Las mediciones publicadas en la RTX 5090 apuntan a mejoras de tiempo de procesamiento más modestas que el 2.4X anunciado, y se refieren al coste de generar frames, no a los FPS reales en juegos."
+                "x": "Mike Fitzgerald, de Insomniac, afirmó que QSSR ya está en Marvel's Spider-Man 2 \"en una actualización que ya está disponible\", tras los excelentes resultados obtenidos en Marvel's Wolverine."
               },
               {
                 "t": "video",
-                "yt": "xhzNx3seocQ"
+                "yt": "JYEQkLnlV7o"
               },
               {
                 "t": "p",
-                "x": "Las mediciones internas de calidad de Apex favorecen a ANR frente a NVIDIA DLSS FG, aunque todavía hacen falta pruebas independientes. La beta se instala mediante OptiScaler desde GitHub; la implementación de generación de frames aún no es de código abierto, y cabe esperar problemas de compatibilidad y artefactos visuales."
+                "x": "Erik Jansson, de Remedy, dijo que QSSR ofrece a Control Resonant \"una imagen mucho más estable y detallada\" en una actualización que llegará en diciembre. Embark Studios indica que QSSR llegará pronto a ARC Raiders y The Finals; Sean Murray, de Hello Games, dice que estará en No Man's Sky \"en las próximas semanas\", y Expression Games lo añadirá a Hell Let Loose: Vietnam mediante una próxima actualización."
               }
             ]
           }
@@ -1149,15 +647,15 @@
       }
     },
     {
-      "id": "ludo-toolbox-coding-agents",
+      "id": "games-ai-clone-ip-defense",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI 코딩 에이전트용\nLudo 무료 툴박스 공개",
-      "body": "오픈소스 Ludo Toolbox는 코딩 에이전트용 무료 게임 에셋 도구 32개다.",
-      "mini_headline": "Ludo의 무료\n에이전트 툴박스",
+      "headline": "AI 게임 복제 대응법\n변호사들이 정리했다",
+      "body": "Pryor Cashman 변호사들이 AI 복제작에 맞설 미국법 실무 지침을 냈다.",
+      "mini_headline": "AI 복제로부터 게임 지키기",
       "tool": "Games",
-      "source": "Mobidictum",
-      "url": "https://mobidictum.com/ludo-free-open-source-toolbox-ai-coding-agents/",
+      "source": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/how-to-protect-your-ip-against-the-army-of-ai-clones",
       "accent": "#2ec5c5",
       "motif": "cube",
       "full": {
@@ -1165,197 +663,155 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://mobidictum.com/wp-content/uploads/2026/03/ludo_ai_logo.png"
+            "src": "https://assetsio.gnwcdn.com/pexels-icon0-1214270.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "cap": "이미지 출처: iconO com on Pexels"
           },
           {
             "t": "p",
-            "x": "Ludo.ai가 Ludo Toolbox를 발표했다. 무료 명령줄 도구 32개 묶음으로, Claude Code, Codex, Cursor, GitHub Copilot, Gemini CLI 같은 코딩 에이전트가 게임에 스프라이트·이미지·사운드·3D 모델을 넣을 때 필요한 수치와 엔진 파일을 내준다. 오픈소스(MIT) Ludo CLI에 들어 있어 완전히 오프라인으로 돌아가고, 계정도 API 키도 크레딧도 필요 없다."
+            "x": "최근 몇 달 새 비디오 게임 개발에 생성형 AI를 쓰는 일이 부쩍 늘었다. 2026년 10월 Steam Next Fest에 올라온 데모는 8,000개가 넘었고 그중 상당수가 생성형 AI 도구로 일부 또는 전부 만들어졌다. 급조한 무단 복제작·모드·이식판도 AI 덕에 새로 쏟아진다. 복제가 걱정돼 공개 데모를 취소했다는 개발자도 나왔다. Pryor Cashman 변호사들이 내놓은 미국법(US-law) 실무 단계는 다음과 같다."
           },
           {
             "t": "p",
-            "x": "툴박스는 앵커 포인트, 콜라이더, pixels-per-meter를 에이전트가 짐작하던 자리에 정확한 수치를 넣는다. 결과는 JSON으로 돌려주고 엔진 고유 파일도 직접 쓴다. Unity에서 발에 피벗을 둔 키 1.8미터 기사를 설정해 달라고 하면 에이전트는 도구 세 개를 연달아 쓰고, Godot, Phaser, Box2D에서도 같은 수치가 나온다."
+            "x": "#1 기밀 유지: 게임 자료의 공유·녹화, LLM이나 챗봇 입력을 막는 NDAs(비밀유지계약)를 요구하고 워터마크와 기간 한정 접근을 함께 건다. #2 외주 인력과 협업자가 AI를 어떻게 쓰는지 파악해 정책을 세운다. #3 출시 전 미국 저작권청(US Copyright Office)에 저작권을 등록한다. 제때 등록해 두면 고의 침해에 최대 $150,000의 법정 손해배상을 청구할 수 있다. #4 USPTO에 사용 의사(intent-to-use) 기준으로 상표를 출원한다. 지금은 약 10개월이 걸린다. #5 브랜드를 쌓고 도메인과 소셜 계정을 확보한다. #6 모니터링과 게시 중단 요청, 필요하면 예비적 금지명령으로 권리를 행사한다. 무엇보다 빨리 움직여야 한다."
           },
           {
             "t": "p",
-            "x": "Ludo.ai의 Co-Founder 겸 CTO인 Jorge Gomes는 \"코딩 에이전트는 게임 코드에는 매우 능숙하지만, 아트는 여전히 눈대중으로 처리한다. 툴박스는 그 대신 수치를 건넨다\"고 말했다."
-          },
-          {
-            "t": "video",
-            "yt": "4LIIbfU19pc"
-          },
-          {
-            "t": "p",
-            "x": "툴박스는 Ludo로 만든 에셋이든 아니든 다 쓸 수 있다. Ludo CLI 0.2.0 이상에서 바로 이용할 수 있고 Node.js 20 이상이 필요하다."
+            "x": "실무 목표는 하나다. 첫 공개 전에 권리 귀속(chain-of-title) 문서와 등록, 권리 행사 절차를 갖춰 두는 것이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Ludo releases free toolbox\nfor AI coding agents",
-          "body": "The open-source Ludo Toolbox gives coding agents 32 free command-line tools to prepare game assets for engines.",
-          "mini_headline": "Ludo's free\nagent toolbox",
+          "headline": "Lawyers map defenses\nagainst AI game clones",
+          "body": "Pryor Cashman lawyers give developers practical US-law steps to protect games against generative AI clones.",
+          "mini_headline": "Shielding games from AI clones",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://mobidictum.com/wp-content/uploads/2026/03/ludo_ai_logo.png"
+                "src": "https://assetsio.gnwcdn.com/pexels-icon0-1214270.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "Image credit: iconO com on Pexels"
               },
               {
                 "t": "p",
-                "x": "Ludo.ai announced the Ludo Toolbox, a set of 32 free command-line tools that give coding agents such as Claude Code, Codex, Cursor, GitHub Copilot, and Gemini CLI the measurements and engine files they need to add sprites, images, sounds, and 3D models to a game. It ships inside the open-source (MIT) Ludo CLI and runs entirely offline, with no account, API key, or credits required."
+                "x": "Generative AI usage in video game development has increased significantly in recent months; Steam Next Fest featured over 8,000 demos in October 2026, many created partly or entirely with generative AI tools. AI is also facilitating a new wave of rapidly assembled, unauthorised clones, mods, and ports, and some developers report cancelling public demos for fear of being cloned. Pryor Cashman's lawyers offer practical steps under US law:"
               },
               {
                 "t": "p",
-                "x": "The toolbox replaces agents' guesses about anchor points, colliders and pixels-per-meter with exact numbers, returning JSON and writing the engine's own files. Asked to set up a knight in Unity with the pivot on its feet and a 1.8-meter height, the agent chains three tools; the same numbers come out for Godot, Phaser, and Box2D."
+                "x": "#1 Ensure confidentiality: require NDAs that prohibit sharing, recording, or inputting game media into any LLM or chatbot, plus watermarking and limited-time access. #2 Understand your contractors' and collaborators' use of AI and set a policy. #3 Register copyrights with the US Copyright Office before release; timely registration can unlock statutory damages of up to $150,000 for willful infringement. #4 Register trademarks with the USPTO on an intent-to-use basis, a process currently taking around 10 months. #5 Build a brand and secure domains and social handles. #6 Enforce your rights with monitoring, takedowns, and, if needed, a preliminary injunction - moving swiftly is essential."
               },
               {
                 "t": "p",
-                "x": "\"Coding agents are very good at game code, but they still eyeball the art. The toolbox gives them the numbers instead,\" said Jorge Gomes, Co-Founder and CTO of Ludo.ai."
-              },
-              {
-                "t": "video",
-                "yt": "4LIIbfU19pc"
-              },
-              {
-                "t": "p",
-                "x": "The toolbox works on any asset, whether made with Ludo or not. It is available now in Ludo CLI 0.2.0 and later, which requires Node.js 20 or newer."
+                "x": "The practical objective is to have chain-of-title documentation, registrations, and enforcement procedures ready before the first public reveal."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI 코딩 에이전트용\nLudo 무료 툴박스 공개",
-          "body": "오픈소스 Ludo Toolbox는 코딩 에이전트용 무료 게임 에셋 도구 32개다.",
-          "mini_headline": "Ludo의 무료\n에이전트 툴박스",
+          "headline": "AI 게임 복제 대응법\n변호사들이 정리했다",
+          "body": "Pryor Cashman 변호사들이 AI 복제작에 맞설 미국법 실무 지침을 냈다.",
+          "mini_headline": "AI 복제로부터 게임 지키기",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://mobidictum.com/wp-content/uploads/2026/03/ludo_ai_logo.png"
+                "src": "https://assetsio.gnwcdn.com/pexels-icon0-1214270.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "이미지 출처: iconO com on Pexels"
               },
               {
                 "t": "p",
-                "x": "Ludo.ai가 Ludo Toolbox를 발표했다. 무료 명령줄 도구 32개 묶음으로, Claude Code, Codex, Cursor, GitHub Copilot, Gemini CLI 같은 코딩 에이전트가 게임에 스프라이트·이미지·사운드·3D 모델을 넣을 때 필요한 수치와 엔진 파일을 내준다. 오픈소스(MIT) Ludo CLI에 들어 있어 완전히 오프라인으로 돌아가고, 계정도 API 키도 크레딧도 필요 없다."
+                "x": "최근 몇 달 새 비디오 게임 개발에 생성형 AI를 쓰는 일이 부쩍 늘었다. 2026년 10월 Steam Next Fest에 올라온 데모는 8,000개가 넘었고 그중 상당수가 생성형 AI 도구로 일부 또는 전부 만들어졌다. 급조한 무단 복제작·모드·이식판도 AI 덕에 새로 쏟아진다. 복제가 걱정돼 공개 데모를 취소했다는 개발자도 나왔다. Pryor Cashman 변호사들이 내놓은 미국법(US-law) 실무 단계는 다음과 같다."
               },
               {
                 "t": "p",
-                "x": "툴박스는 앵커 포인트, 콜라이더, pixels-per-meter를 에이전트가 짐작하던 자리에 정확한 수치를 넣는다. 결과는 JSON으로 돌려주고 엔진 고유 파일도 직접 쓴다. Unity에서 발에 피벗을 둔 키 1.8미터 기사를 설정해 달라고 하면 에이전트는 도구 세 개를 연달아 쓰고, Godot, Phaser, Box2D에서도 같은 수치가 나온다."
+                "x": "#1 기밀 유지: 게임 자료의 공유·녹화, LLM이나 챗봇 입력을 막는 NDAs(비밀유지계약)를 요구하고 워터마크와 기간 한정 접근을 함께 건다. #2 외주 인력과 협업자가 AI를 어떻게 쓰는지 파악해 정책을 세운다. #3 출시 전 미국 저작권청(US Copyright Office)에 저작권을 등록한다. 제때 등록해 두면 고의 침해에 최대 $150,000의 법정 손해배상을 청구할 수 있다. #4 USPTO에 사용 의사(intent-to-use) 기준으로 상표를 출원한다. 지금은 약 10개월이 걸린다. #5 브랜드를 쌓고 도메인과 소셜 계정을 확보한다. #6 모니터링과 게시 중단 요청, 필요하면 예비적 금지명령으로 권리를 행사한다. 무엇보다 빨리 움직여야 한다."
               },
               {
                 "t": "p",
-                "x": "Ludo.ai의 Co-Founder 겸 CTO인 Jorge Gomes는 \"코딩 에이전트는 게임 코드에는 매우 능숙하지만, 아트는 여전히 눈대중으로 처리한다. 툴박스는 그 대신 수치를 건넨다\"고 말했다."
-              },
-              {
-                "t": "video",
-                "yt": "4LIIbfU19pc"
-              },
-              {
-                "t": "p",
-                "x": "툴박스는 Ludo로 만든 에셋이든 아니든 다 쓸 수 있다. Ludo CLI 0.2.0 이상에서 바로 이용할 수 있고 Node.js 20 이상이 필요하다."
+                "x": "실무 목표는 하나다. 첫 공개 전에 권리 귀속(chain-of-title) 문서와 등록, 권리 행사 절차를 갖춰 두는 것이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Ludo、AIコーディング\nエージェント向け無料ツール群",
-          "body": "Ludo Toolboxはオープンソースで、エージェントに無料のツール32種を提供する。",
-          "mini_headline": "Ludoの無料\nエージェント用ツール",
+          "headline": "AIゲーム複製への\n防御策を弁護士が整理",
+          "body": "Pryor Cashmanの弁護士が、AIによるゲーム複製を防ぐ米国法の実務策を示した。",
+          "mini_headline": "AIクローンからゲームを守る",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://mobidictum.com/wp-content/uploads/2026/03/ludo_ai_logo.png"
+                "src": "https://assetsio.gnwcdn.com/pexels-icon0-1214270.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "画像提供：iconO com on Pexels"
               },
               {
                 "t": "p",
-                "x": "Ludo.aiはLudo Toolboxを発表した。Claude Code、Codex、Cursor、GitHub Copilot、Gemini CLIなどのコーディングエージェントが、ゲームにスプライト、画像、サウンド、3Dモデルを追加するのに必要な寸法とエンジン用ファイルを提供する、32種の無料コマンドラインツールだ。オープンソース（MIT）のLudo CLIに同梱され、完全にオフラインで動作し、アカウント、APIキー、クレジットは不要である。"
+                "x": "ここ数カ月、ビデオゲーム開発における生成AIの利用は大きく増えている。2026年10月のSteam Next Festには8,000本を超えるデモが並び、その多くが一部または全部を生成AIツールで作られていた。AIは素早く組み立てられた無許可のクローン、Mod、移植版の新たな波も後押ししており、クローンを恐れて公開デモを取りやめたと明かす開発者もいる。Pryor Cashmanの弁護士は、米国法（US-law）に基づく実務的な手順を次のように示す。"
               },
               {
                 "t": "p",
-                "x": "このツールボックスは、アンカーポイントやコライダー、pixels-per-meterに関するエージェントの推測を正確な数値に置き換え、JSONを返してエンジン独自のファイルを書き出す。Unityで足元にピボットを置いた身長1.8メートルの騎士を設定するよう指示すると、エージェントは3つのツールを連続して使い、Godot、Phaser、Box2Dでも同じ数値が得られる。"
+                "x": "#1 機密を守る：ゲーム素材の共有、録画、LLMやチャットボットへの入力を禁じるNDAs（秘密保持契約）を求め、透かしと期間限定のアクセスも組み合わせる。#2 外注先や協力者のAI利用を把握し、方針を定める。#3 リリース前に米国著作権局（US Copyright Office）へ著作権を登録する。適時に登録すれば、故意の侵害に対して最大$150,000の法定損害賠償を請求できる可能性がある。#4 USPTOに使用意思（intent-to-use）ベースで商標を出願する。現在この手続きには約10カ月かかる。#5 ブランドを築き、ドメインとSNSアカウントを確保する。#6 監視、削除要請、必要に応じて仮差止命令で権利を行使する。迅速な行動が欠かせない。"
               },
               {
                 "t": "p",
-                "x": "Ludo.aiのCo-Founder兼CTOであるJorge Gomesは「コーディングエージェントはゲームのコードは非常に得意だが、アートはいまだに目分量で扱っている。ツールボックスは代わりに数値を渡す」と述べた。"
-              },
-              {
-                "t": "video",
-                "yt": "4LIIbfU19pc"
-              },
-              {
-                "t": "p",
-                "x": "ツールボックスは、Ludoで作ったかどうかに関係なく、あらゆるアセットに使える。Ludo CLI 0.2.0以降ですでに利用でき、Node.js 20以降が必要だ。"
+                "x": "実務上の目標は、最初の公開前に権利の連鎖（chain-of-title）を示す書類、各種登録、権利行使の手順を整えておくことだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Ludo为AI编程智能体\n推出免费工具箱",
-          "body": "开源Ludo Toolbox为编程智能体提供32个免费命令行工具，用于为引擎准备游戏素材。",
-          "mini_headline": "Ludo的免费\n智能体工具箱",
+          "headline": "律师支招\n防范AI游戏克隆",
+          "body": "Pryor Cashman律师为开发者提供美国法下防范生成式AI克隆游戏的实用步骤。",
+          "mini_headline": "保护游戏免遭AI克隆",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://mobidictum.com/wp-content/uploads/2026/03/ludo_ai_logo.png"
+                "src": "https://assetsio.gnwcdn.com/pexels-icon0-1214270.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "图片来源：iconO com on Pexels"
               },
               {
                 "t": "p",
-                "x": "Ludo.ai发布了Ludo Toolbox。这是一套包含32个免费命令行工具的工具集，可为Claude Code、Codex、Cursor、GitHub Copilot和Gemini CLI等编程智能体提供向游戏添加精灵、图像、声音和3D模型所需的尺寸数据和引擎文件。它内置于开源（MIT）的Ludo CLI中，完全离线运行，无需账号、API密钥或积分。"
+                "x": "近几个月来，生成式AI在电子游戏开发中的使用大幅增加；2026年10月的Steam Next Fest展出了逾8,000款试玩版，其中许多部分或完全借助生成式AI工具制作。AI还助长了一波快速拼凑的未授权克隆、模组和移植版，一些开发者表示因担心被克隆而取消了公开试玩。Pryor Cashman的律师依据美国法律（US-law）给出了以下实用步骤："
               },
               {
                 "t": "p",
-                "x": "该工具箱用精确数值取代智能体对锚点、碰撞体和pixels-per-meter的猜测，返回JSON并直接写出引擎自身的文件。若要求在Unity中设置一个枢轴位于脚部、身高1.8米的骑士，智能体会串联使用三个工具；在Godot、Phaser和Box2D中得出的数值也相同。"
+                "x": "#1 确保保密：要求签署NDAs（保密协议），禁止分享、录制游戏素材或将其输入任何LLM或聊天机器人，并辅以水印和限时访问。#2 了解承包商和合作者对AI的使用情况，并制定相关政策。#3 在发行前向美国版权局（US Copyright Office）登记版权；及时登记可使故意侵权的法定赔偿最高达$150,000。#4 以意向使用（intent-to-use）为基础向USPTO申请注册商标，该流程目前约需10个月。#5 打造品牌，并抢注域名和社交媒体账号。#6 通过监测、下架通知以及必要时申请初步禁令来维护权利——迅速行动至关重要。"
               },
               {
                 "t": "p",
-                "x": "Ludo.ai的Co-Founder兼CTO Jorge Gomes表示：“编程智能体非常擅长写游戏代码，但处理美术时仍靠目测。工具箱则直接给它们数值。”"
-              },
-              {
-                "t": "video",
-                "yt": "4LIIbfU19pc"
-              },
-              {
-                "t": "p",
-                "x": "该工具箱适用于任何素材，无论是否由Ludo制作。它现已在Ludo CLI 0.2.0及更高版本中提供，需要Node.js 20或更新版本。"
+                "x": "务实的目标是在首次公开亮相之前，备妥权利链（chain-of-title）文件、各项登记以及维权程序。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Ludo lanza herramientas gratis\npara agentes de código de IA",
-          "body": "Ludo Toolbox, de código abierto, da a los agentes de código 32 herramientas gratuitas para preparar recursos de juego.",
-          "mini_headline": "Herramientas gratis\nde Ludo para agentes",
+          "headline": "Abogados trazan defensas\ncontra clones de juegos con IA",
+          "body": "Abogados de Pryor Cashman dan pasos prácticos bajo la ley de EE. UU. para proteger juegos de clones con IA generativa.",
+          "mini_headline": "Cómo proteger los juegos de los clones de IA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://mobidictum.com/wp-content/uploads/2026/03/ludo_ai_logo.png"
+                "src": "https://assetsio.gnwcdn.com/pexels-icon0-1214270.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "Crédito de la imagen: iconO com en Pexels"
               },
               {
                 "t": "p",
-                "x": "Ludo.ai anunció Ludo Toolbox, un conjunto de 32 herramientas gratuitas de línea de comandos que proporcionan a agentes de programación como Claude Code, Codex, Cursor, GitHub Copilot y Gemini CLI las medidas y los archivos de motor que necesitan para añadir sprites, imágenes, sonidos y modelos 3D a un juego. Se distribuye dentro de Ludo CLI, de código abierto (MIT), y funciona completamente sin conexión, sin necesidad de cuenta, clave de API ni créditos."
+                "x": "El uso de IA generativa en el desarrollo de videojuegos ha aumentado considerablemente en los últimos meses; Steam Next Fest presentó más de 8.000 demos en octubre de 2026, muchas creadas total o parcialmente con herramientas de IA generativa. La IA también está facilitando una nueva oleada de clones, mods y ports no autorizados y montados a toda prisa, y algunos desarrolladores afirman haber cancelado demos públicas por miedo a ser clonados. Los abogados de Pryor Cashman proponen pasos prácticos conforme a la legislación estadounidense (US-law):"
               },
               {
                 "t": "p",
-                "x": "La caja de herramientas sustituye las conjeturas de los agentes sobre puntos de anclaje, colisionadores y pixels-per-meter por cifras exactas, devuelve JSON y escribe los archivos propios del motor. Si se le pide configurar un caballero en Unity con el pivote en los pies y una altura de 1.8 metros, el agente encadena tres herramientas; en Godot, Phaser y Box2D se obtienen las mismas cifras."
+                "x": "#1 Garantizar la confidencialidad: exigir NDAs que prohíban compartir, grabar o introducir material del juego en cualquier LLM o chatbot, además de marcas de agua y acceso por tiempo limitado. #2 Conocer el uso que contratistas y colaboradores hacen de la IA y fijar una política. #3 Registrar los derechos de autor en la US Copyright Office antes del lanzamiento; un registro a tiempo puede permitir indemnizaciones legales de hasta $150,000 por infracción dolosa. #4 Registrar las marcas en la USPTO con base en la intención de uso (intent-to-use), un proceso que actualmente tarda unos 10 meses. #5 Construir una marca y asegurar dominios y nombres de usuario en redes sociales. #6 Hacer valer los derechos con vigilancia, solicitudes de retirada y, si es necesario, una medida cautelar; actuar con rapidez es esencial."
               },
               {
                 "t": "p",
-                "x": "\"Los agentes de programación son muy buenos con el código de juegos, pero todavía calculan el arte a ojo. La caja de herramientas les da las cifras\", afirmó Jorge Gomes, Co-Founder y CTO de Ludo.ai."
-              },
-              {
-                "t": "video",
-                "yt": "4LIIbfU19pc"
-              },
-              {
-                "t": "p",
-                "x": "La caja de herramientas funciona con cualquier recurso, se haya creado con Ludo o no. Ya está disponible en Ludo CLI 0.2.0 y versiones posteriores, que requieren Node.js 20 o superior."
+                "x": "El objetivo práctico es tener lista, antes de la primera presentación pública, la documentación de la cadena de titularidad (chain-of-title), los registros y los procedimientos de defensa de derechos."
               }
             ]
           }
@@ -1363,137 +819,109 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI 코딩 에이전트용\nLudo 무료 툴박스 공개",
-          "body": "오픈소스 Ludo Toolbox는 코딩 에이전트용 무료 게임 에셋 도구 32개다.",
-          "mini_headline": "Ludo의 무료\n에이전트 툴박스",
+          "headline": "AI 게임 복제 대응법\n변호사들이 정리했다",
+          "body": "Pryor Cashman 변호사들이 AI 복제작 대응 미국법 실무 지침을 냈다.",
+          "mini_headline": "AI 복제로부터 게임 지키기",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://mobidictum.com/wp-content/uploads/2026/03/ludo_ai_logo.png"
+                "src": "https://assetsio.gnwcdn.com/pexels-icon0-1214270.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "이미지 출처: iconO com on Pexels"
               },
               {
                 "t": "p",
-                "x": "Ludo.ai가 Ludo Toolbox를 발표했다. Claude Code, Codex, Cursor, GitHub Copilot, Gemini CLI 같은 코딩 에이전트가 게임에 스프라이트, 이미지, 사운드, 3D 모델을 넣을 때 필요한 수치와 엔진 파일을 제공하는 무료 명령줄 도구 32개 모음이다. 오픈소스(MIT) Ludo CLI에 포함돼 완전히 오프라인으로 작동하며, 계정이나 API 키, 크레딧이 필요 없다."
+                "x": "최근 몇 달 사이 비디오 게임 개발에서 생성형 AI 활용이 크게 늘었다. 2026년 10월 Steam Next Fest에는 8,000개가 넘는 데모가 올라왔고, 그중 상당수가 생성형 AI 도구로 일부 또는 전부 만들어졌다. AI는 빠르게 조립된 무단 복제작·모드·이식판의 새 물결도 부추기고 있으며, 일부 개발자는 복제를 우려해 공개 데모를 취소했다고 밝혔다. Pryor Cashman 변호사들은 미국법(US-law)에 따른 실무 단계를 다음과 같이 제시한다."
               },
               {
                 "t": "p",
-                "x": "이 툴박스는 앵커 포인트, 콜라이더, pixels-per-meter에 대한 에이전트의 추측을 정확한 수치로 대체하고, JSON을 반환하며 엔진 고유의 파일을 직접 작성한다. Unity에서 발에 피벗을 두고 키가 1.8미터인 기사를 설정해 달라고 하면 에이전트는 도구 세 개를 연달아 쓰며, Godot, Phaser, Box2D에서도 같은 수치가 나온다."
+                "x": "#1 기밀 유지: 게임 자료를 공유·녹화하거나 LLM이나 챗봇에 입력하는 것을 금지하는 NDAs(비밀유지계약)를 요구하고, 워터마크와 기간 한정 접근을 함께 적용한다. #2 외주 인력과 협업자의 AI 활용 방식을 파악하고 정책을 세운다. #3 출시 전 미국 저작권청(US Copyright Office)에 저작권을 등록한다. 적시에 등록하면 고의 침해에 대해 최대 $150,000의 법정 손해배상을 청구할 수 있다. #4 USPTO에 사용 의사(intent-to-use) 기준으로 상표를 출원한다. 현재 이 절차에는 약 10개월이 걸린다. #5 브랜드를 구축하고 도메인과 소셜 계정을 확보한다. #6 모니터링, 게시 중단 요청, 필요하면 예비적 금지명령으로 권리를 행사한다. 신속한 대응이 핵심이다."
               },
               {
                 "t": "p",
-                "x": "Ludo.ai의 Co-Founder 겸 CTO인 Jorge Gomes는 \"코딩 에이전트는 게임 코드에는 매우 능숙하지만, 아트는 여전히 눈대중으로 처리한다. 툴박스는 그 대신 수치를 건넨다\"고 말했다."
-              },
-              {
-                "t": "video",
-                "yt": "4LIIbfU19pc"
-              },
-              {
-                "t": "p",
-                "x": "툴박스는 Ludo로 만들었든 아니든 어떤 에셋에도 쓸 수 있다. 지금 Ludo CLI 0.2.0 이상에서 이용할 수 있으며, Node.js 20 이상이 필요하다."
+                "x": "실무적 목표는 첫 공개 전에 권리 귀속(chain-of-title) 문서, 등록, 권리 행사 절차를 갖춰 두는 것이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Ludo、AIコーディング\nエージェント向け無料ツール群",
-          "body": "Ludo Toolboxはオープンソースで、エージェントに無料のツール32種を提供する。",
-          "mini_headline": "Ludoの無料\nエージェント用ツール",
+          "headline": "AIゲーム複製への\n防御策を弁護士が整理",
+          "body": "Pryor Cashmanの弁護士が、AIによるゲーム複製を防ぐ米国法の実務策を示した。",
+          "mini_headline": "AIクローンからゲームを守る",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://mobidictum.com/wp-content/uploads/2026/03/ludo_ai_logo.png"
+                "src": "https://assetsio.gnwcdn.com/pexels-icon0-1214270.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "画像提供：iconO com on Pexels"
               },
               {
                 "t": "p",
-                "x": "Ludo.aiはLudo Toolboxを発表した。Claude Code、Codex、Cursor、GitHub Copilot、Gemini CLIなどのコーディングエージェントが、ゲームにスプライト、画像、サウンド、3Dモデルを追加するのに必要な寸法とエンジン用ファイルを提供する、32種の無料コマンドラインツールだ。オープンソース（MIT）のLudo CLIに同梱され、完全にオフラインで動作し、アカウント、APIキー、クレジットは不要である。"
+                "x": "ここ数カ月、ビデオゲーム開発における生成AIの利用は大きく増えている。2026年10月のSteam Next Festには8,000本を超えるデモが並び、その多くが一部または全部を生成AIツールで作られていた。AIは素早く組み立てられた無許可のクローン、Mod、移植版の新たな波も後押ししており、クローンを恐れて公開デモを取りやめたと明かす開発者もいる。Pryor Cashmanの弁護士は、米国法（US-law）に基づく実務的な手順を次のように示す。"
               },
               {
                 "t": "p",
-                "x": "このツールボックスは、アンカーポイントやコライダー、pixels-per-meterに関するエージェントの推測を正確な数値に置き換え、JSONを返してエンジン独自のファイルを書き出す。Unityで足元にピボットを置いた身長1.8メートルの騎士を設定するよう指示すると、エージェントは3つのツールを連続して使い、Godot、Phaser、Box2Dでも同じ数値が得られる。"
+                "x": "#1 機密を守る：ゲーム素材の共有、録画、LLMやチャットボットへの入力を禁じるNDAs（秘密保持契約）を求め、透かしと期間限定のアクセスも組み合わせる。#2 外注先や協力者のAI利用を把握し、方針を定める。#3 リリース前に米国著作権局（US Copyright Office）へ著作権を登録する。適時に登録すれば、故意の侵害に対して最大$150,000の法定損害賠償を請求できる可能性がある。#4 USPTOに使用意思（intent-to-use）ベースで商標を出願する。現在この手続きには約10カ月かかる。#5 ブランドを築き、ドメインとSNSアカウントを確保する。#6 監視、削除要請、必要に応じて仮差止命令で権利を行使する。迅速な行動が欠かせない。"
               },
               {
                 "t": "p",
-                "x": "Ludo.aiのCo-Founder兼CTOであるJorge Gomesは「コーディングエージェントはゲームのコードは非常に得意だが、アートはいまだに目分量で扱っている。ツールボックスは代わりに数値を渡す」と述べた。"
-              },
-              {
-                "t": "video",
-                "yt": "4LIIbfU19pc"
-              },
-              {
-                "t": "p",
-                "x": "ツールボックスは、Ludoで作ったかどうかに関係なく、あらゆるアセットに使える。Ludo CLI 0.2.0以降ですでに利用でき、Node.js 20以降が必要だ。"
+                "x": "実務上の目標は、最初の公開前に権利の連鎖（chain-of-title）を示す書類、各種登録、権利行使の手順を整えておくことだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Ludo为AI编程智能体\n推出免费工具箱",
-          "body": "开源Ludo Toolbox为编程智能体提供32个免费命令行工具，用于为引擎准备游戏素材。",
-          "mini_headline": "Ludo的免费\n智能体工具箱",
+          "headline": "律师支招\n防范AI游戏克隆",
+          "body": "Pryor Cashman律师为开发者提供美国法下防范生成式AI克隆游戏的实用步骤。",
+          "mini_headline": "保护游戏免遭AI克隆",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://mobidictum.com/wp-content/uploads/2026/03/ludo_ai_logo.png"
+                "src": "https://assetsio.gnwcdn.com/pexels-icon0-1214270.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "图片来源：iconO com on Pexels"
               },
               {
                 "t": "p",
-                "x": "Ludo.ai发布了Ludo Toolbox。这是一套包含32个免费命令行工具的工具集，可为Claude Code、Codex、Cursor、GitHub Copilot和Gemini CLI等编程智能体提供向游戏添加精灵、图像、声音和3D模型所需的尺寸数据和引擎文件。它内置于开源（MIT）的Ludo CLI中，完全离线运行，无需账号、API密钥或积分。"
+                "x": "近几个月来，生成式AI在电子游戏开发中的使用大幅增加；2026年10月的Steam Next Fest展出了逾8,000款试玩版，其中许多部分或完全借助生成式AI工具制作。AI还助长了一波快速拼凑的未授权克隆、模组和移植版，一些开发者表示因担心被克隆而取消了公开试玩。Pryor Cashman的律师依据美国法律（US-law）给出了以下实用步骤："
               },
               {
                 "t": "p",
-                "x": "该工具箱用精确数值取代智能体对锚点、碰撞体和pixels-per-meter的猜测，返回JSON并直接写出引擎自身的文件。若要求在Unity中设置一个枢轴位于脚部、身高1.8米的骑士，智能体会串联使用三个工具；在Godot、Phaser和Box2D中得出的数值也相同。"
+                "x": "#1 确保保密：要求签署NDAs（保密协议），禁止分享、录制游戏素材或将其输入任何LLM或聊天机器人，并辅以水印和限时访问。#2 了解承包商和合作者对AI的使用情况，并制定相关政策。#3 在发行前向美国版权局（US Copyright Office）登记版权；及时登记可使故意侵权的法定赔偿最高达$150,000。#4 以意向使用（intent-to-use）为基础向USPTO申请注册商标，该流程目前约需10个月。#5 打造品牌，并抢注域名和社交媒体账号。#6 通过监测、下架通知以及必要时申请初步禁令来维护权利——迅速行动至关重要。"
               },
               {
                 "t": "p",
-                "x": "Ludo.ai的Co-Founder兼CTO Jorge Gomes表示：“编程智能体非常擅长写游戏代码，但处理美术时仍靠目测。工具箱则直接给它们数值。”"
-              },
-              {
-                "t": "video",
-                "yt": "4LIIbfU19pc"
-              },
-              {
-                "t": "p",
-                "x": "该工具箱适用于任何素材，无论是否由Ludo制作。它现已在Ludo CLI 0.2.0及更高版本中提供，需要Node.js 20或更新版本。"
+                "x": "务实的目标是在首次公开亮相之前，备妥权利链（chain-of-title）文件、各项登记以及维权程序。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Ludo lanza herramientas gratis\npara agentes de código de IA",
-          "body": "Ludo Toolbox, de código abierto, da a los agentes de código 32 herramientas gratuitas para preparar recursos de juego.",
-          "mini_headline": "Herramientas gratis\nde Ludo para agentes",
+          "headline": "Abogados trazan defensas\ncontra clones de juegos con IA",
+          "body": "Abogados de Pryor Cashman dan pasos prácticos bajo la ley de EE. UU. para proteger juegos de clones con IA generativa.",
+          "mini_headline": "Cómo proteger los juegos de los clones de IA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://mobidictum.com/wp-content/uploads/2026/03/ludo_ai_logo.png"
+                "src": "https://assetsio.gnwcdn.com/pexels-icon0-1214270.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "Crédito de la imagen: iconO com en Pexels"
               },
               {
                 "t": "p",
-                "x": "Ludo.ai anunció Ludo Toolbox, un conjunto de 32 herramientas gratuitas de línea de comandos que proporcionan a agentes de programación como Claude Code, Codex, Cursor, GitHub Copilot y Gemini CLI las medidas y los archivos de motor que necesitan para añadir sprites, imágenes, sonidos y modelos 3D a un juego. Se distribuye dentro de Ludo CLI, de código abierto (MIT), y funciona completamente sin conexión, sin necesidad de cuenta, clave de API ni créditos."
+                "x": "El uso de IA generativa en el desarrollo de videojuegos ha aumentado considerablemente en los últimos meses; Steam Next Fest presentó más de 8.000 demos en octubre de 2026, muchas creadas total o parcialmente con herramientas de IA generativa. La IA también está facilitando una nueva oleada de clones, mods y ports no autorizados y montados a toda prisa, y algunos desarrolladores afirman haber cancelado demos públicas por miedo a ser clonados. Los abogados de Pryor Cashman proponen pasos prácticos conforme a la legislación estadounidense (US-law):"
               },
               {
                 "t": "p",
-                "x": "La caja de herramientas sustituye las conjeturas de los agentes sobre puntos de anclaje, colisionadores y pixels-per-meter por cifras exactas, devuelve JSON y escribe los archivos propios del motor. Si se le pide configurar un caballero en Unity con el pivote en los pies y una altura de 1.8 metros, el agente encadena tres herramientas; en Godot, Phaser y Box2D se obtienen las mismas cifras."
+                "x": "#1 Garantizar la confidencialidad: exigir NDAs que prohíban compartir, grabar o introducir material del juego en cualquier LLM o chatbot, además de marcas de agua y acceso por tiempo limitado. #2 Conocer el uso que contratistas y colaboradores hacen de la IA y fijar una política. #3 Registrar los derechos de autor en la US Copyright Office antes del lanzamiento; un registro a tiempo puede permitir indemnizaciones legales de hasta $150,000 por infracción dolosa. #4 Registrar las marcas en la USPTO con base en la intención de uso (intent-to-use), un proceso que actualmente tarda unos 10 meses. #5 Construir una marca y asegurar dominios y nombres de usuario en redes sociales. #6 Hacer valer los derechos con vigilancia, solicitudes de retirada y, si es necesario, una medida cautelar; actuar con rapidez es esencial."
               },
               {
                 "t": "p",
-                "x": "\"Los agentes de programación son muy buenos con el código de juegos, pero todavía calculan el arte a ojo. La caja de herramientas les da las cifras\", afirmó Jorge Gomes, Co-Founder y CTO de Ludo.ai."
-              },
-              {
-                "t": "video",
-                "yt": "4LIIbfU19pc"
-              },
-              {
-                "t": "p",
-                "x": "La caja de herramientas funciona con cualquier recurso, se haya creado con Ludo o no. Ya está disponible en Ludo CLI 0.2.0 y versiones posteriores, que requieren Node.js 20 o superior."
+                "x": "El objetivo práctico es tener lista, antes de la primera presentación pública, la documentación de la cadena de titularidad (chain-of-title), los registros y los procedimientos de defensa de derechos."
               }
             ]
           }
@@ -1501,15 +929,15 @@
       }
     },
     {
-      "id": "gamesbeat-next-ai-native-games",
+      "id": "xbox-sharma-genai-memo",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI로만 만들 수 있는\n게임을 만든다",
-      "body": "GamesBeat Next 패널이 AI-native 개발로 열릴 게임을 짚었다.",
-      "mini_headline": "AI만이\n만들 수 있는 게임",
+      "headline": "Xbox CEO 메모,\ngen-AI 제작 시사",
+      "body": "Xbox CEO가 기념 메모에서 작은 팀이 수백 명 몫의 세계를 만든다고 썼다.",
+      "mini_headline": "Xbox CEO 메모, 생성형 AI 시사",
       "tool": "Games",
-      "source": "GamesBeat",
-      "url": "https://gamesbeat.com/ai-native-game-development-making-games-that-can-only-be-made-with-ai-gamesbeat-next-2026/",
+      "source": "Eurogamer",
+      "url": "https://www.eurogamer.net/microsoft-xbox-gen-ai-asha-sharma-memo",
       "accent": "#eb367f",
       "motif": "cube",
       "full": {
@@ -1517,173 +945,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://gamesbeat.com/wp-content/uploads/2026/11/AI-1.jpg"
+            "src": "https://assetsio.gnwcdn.com/asha-sharma-xbox-showcase-2026.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "cap": "이미지 출처: Eurogamer"
           },
           {
             "t": "p",
-            "x": "게임에서 AI가 줄 가장 큰 기회는 AI 없이는 불가능했을 완전히 새로운 게임을 만드는 일일지 모른다. Jamil Moledina가 진행하고 Brian Tanner(Artificial Agency), Piero Molino(Studio Atelico), Jon Snoddy(Operative Games)가 참여한 GamesBeat Next 2026 패널은 이 주제를 중심에 뒀다."
+            "x": "Xbox 수장 Asha Sharma가 '25 years of Xbox'라는 메모에서 게임 제작에 생성형 AI를 끌어들이겠다는 뜻을 내비쳤다. Sharma는 \"너무 많은 아이디어가 끝내 게임이 되지 못하고\", \"너무 많은 게임이 제작자가 상상한 수준에 미치지 못한다\"고 아쉬워했다. \"수십 년 동안 이는 야망의 피할 수 없는 대가였다\"며 \"우리는 이것을 바꿔야 한다\"고도 썼다."
+          },
+          {
+            "t": "video",
+            "yt": "zCY0C8tTddM"
           },
           {
             "t": "p",
-            "x": "Molino는 초기 생성형 에이전트 실험을 두고 \"AI는 많이 필요하지만 진짜 게임은 아니다\"라고 평했다. \"긴장감도, 도전도 없었기\" 때문이다. Operative Games에서는 대화가 핵심 메커닉이다. Snoddy는 \"게임 메커닉이 곧 스토리다. 게임 메커닉이 곧 대화다\"라고 말했다."
+            "x": "\"머지않아 한 사람이 한때 국가 전체가 필요했던 역량을 다룰 수 있게 된다. 작은 팀이 오늘날 수백 명의 개발자와 수억 달러가 드는 세계를 만들 수 있게 된다. 그리고 우리의 가장 큰 스튜디오들은 Microsoft Flight Simulator 2024가 1982년의 첫 작품에서 멀어진 만큼 오늘의 게임을 훨씬 넘어서는 야망을 추구할 수 있게 된다.\""
           },
           {
             "t": "p",
-            "x": "패널은 런타임 경제성도 다뤘다. Tanner는 품질과 속도, 비용 사이의 균형을 설명했고, Molino는 \"내가 게임 디자이너인데 게임 안에서 호출 한 번에 일정 비용이 든다는 걸 안다면, 그것이 내가 할 수 있는 디자인에 영향을 준다\"고 말했다."
-          },
-          {
-            "t": "p",
-            "x": "연사들은 자율 캐릭터가 이끄는 시스템 중심 샌드박스형 게임에 잠재력이 있다고 봤다. AI-native 개발은 기술 과제이면서 그만큼 디자인 과제이기도 하다는 설명이다."
+            "x": "생성형 AI를 콕 집어 말하진 않았지만 표현 곳곳에 그 뜻이 짙게 배어 있다. 메모는 지난달 Xbox Labs 이니셔티브 발표에 뒤이어 나왔다. Microsoft에서 AI 경력을 쌓은 Sharma는 앞서 \"나쁜 AI는 용납하지 않는다\"고 말했다. Eurogamer는 Microsoft에 해명을 요청했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Making games that can\nonly be made with AI",
-          "body": "GamesBeat Next explored how AI-native development could unlock games with intelligent characters and dynamic worlds.",
-          "mini_headline": "Games only\nAI can make",
+          "headline": "Xbox CEO memo hints\nat gen-AI game making",
+          "body": "Xbox CEO Asha Sharma's anniversary memo says a small team will build worlds that today demand hundreds of developers.",
+          "mini_headline": "Xbox CEO memo signals gen-AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/11/AI-1.jpg"
+                "src": "https://assetsio.gnwcdn.com/asha-sharma-xbox-showcase-2026.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "Image credit: Eurogamer"
               },
               {
                 "t": "p",
-                "x": "AI's biggest opportunity in games may be creating entirely new kinds of games that would not be possible without it. That was the central theme of a GamesBeat Next 2026 panel with Brian Tanner (Artificial Agency), Piero Molino (Studio Atelico) and Jon Snoddy (Operative Games), moderated by Jamil Moledina."
+                "x": "Xbox leader Asha Sharma has alluded to harnessing the power of generative AI when making games, in a memo titled 25 years of Xbox. Sharma lamented that \"too many ideas never become games\" and that \"too many games fall short of what their creators imagined\". \"For decades, this has been the unavoidable tradeoff of ambition,\" she wrote. \"We must change this.\""
+              },
+              {
+                "t": "video",
+                "yt": "zCY0C8tTddM"
               },
               {
                 "t": "p",
-                "x": "Molino noted that early generative agent experiments \"need a lot of AI, but they are not really games\" because there was \"no bite, no challenge.\" At Operative Games, conversation is the core mechanic: \"The game mechanic is the story. The game mechanic is the conversation,\" Snoddy said."
+                "x": "\"A single person will soon be able to wield capabilities that once required entire nations. A small team will be able to build worlds that today demand hundreds of developers and hundreds of millions of dollars. And our largest studios will be able to pursue ambitions as far beyond today's games as Microsoft Flight Simulator 2024 is from its first entry in 1982.\""
               },
               {
                 "t": "p",
-                "x": "The panel also explored runtime economics: Tanner described balancing quality, speed and cost, while Molino said, \"If I'm a game designer, and I know that making a call within the game costs me a certain amount, that influences the design that I can make.\""
-              },
-              {
-                "t": "p",
-                "x": "The speakers saw potential for systemic, sandbox-style games driven by autonomous characters, and described AI-native development as a design challenge as much as a technical one."
+                "x": "There is no explicit mention of generative AI, but the language is suggestive, and the memo follows last month's announcement of an Xbox Labs initiative. Sharma, whose Microsoft background is in AI, earlier said she has \"no tolerance for bad AI\". Eurogamer has asked Microsoft for clarification."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI로만 만들 수 있는\n게임을 만든다",
-          "body": "GamesBeat Next 패널이 AI-native 개발로 열릴 게임을 짚었다.",
-          "mini_headline": "AI만이\n만들 수 있는 게임",
+          "headline": "Xbox CEO 메모,\ngen-AI 제작 시사",
+          "body": "Xbox CEO가 기념 메모에서 작은 팀이 수백 명 몫의 세계를 만든다고 썼다.",
+          "mini_headline": "Xbox CEO 메모, 생성형 AI 시사",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/11/AI-1.jpg"
+                "src": "https://assetsio.gnwcdn.com/asha-sharma-xbox-showcase-2026.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "이미지 출처: Eurogamer"
               },
               {
                 "t": "p",
-                "x": "게임에서 AI가 줄 가장 큰 기회는 AI 없이는 불가능했을 완전히 새로운 게임을 만드는 일일지 모른다. Jamil Moledina가 진행하고 Brian Tanner(Artificial Agency), Piero Molino(Studio Atelico), Jon Snoddy(Operative Games)가 참여한 GamesBeat Next 2026 패널은 이 주제를 중심에 뒀다."
+                "x": "Xbox 수장 Asha Sharma가 '25 years of Xbox'라는 메모에서 게임 제작에 생성형 AI를 끌어들이겠다는 뜻을 내비쳤다. Sharma는 \"너무 많은 아이디어가 끝내 게임이 되지 못하고\", \"너무 많은 게임이 제작자가 상상한 수준에 미치지 못한다\"고 아쉬워했다. \"수십 년 동안 이는 야망의 피할 수 없는 대가였다\"며 \"우리는 이것을 바꿔야 한다\"고도 썼다."
+              },
+              {
+                "t": "video",
+                "yt": "zCY0C8tTddM"
               },
               {
                 "t": "p",
-                "x": "Molino는 초기 생성형 에이전트 실험을 두고 \"AI는 많이 필요하지만 진짜 게임은 아니다\"라고 평했다. \"긴장감도, 도전도 없었기\" 때문이다. Operative Games에서는 대화가 핵심 메커닉이다. Snoddy는 \"게임 메커닉이 곧 스토리다. 게임 메커닉이 곧 대화다\"라고 말했다."
+                "x": "\"머지않아 한 사람이 한때 국가 전체가 필요했던 역량을 다룰 수 있게 된다. 작은 팀이 오늘날 수백 명의 개발자와 수억 달러가 드는 세계를 만들 수 있게 된다. 그리고 우리의 가장 큰 스튜디오들은 Microsoft Flight Simulator 2024가 1982년의 첫 작품에서 멀어진 만큼 오늘의 게임을 훨씬 넘어서는 야망을 추구할 수 있게 된다.\""
               },
               {
                 "t": "p",
-                "x": "패널은 런타임 경제성도 다뤘다. Tanner는 품질과 속도, 비용 사이의 균형을 설명했고, Molino는 \"내가 게임 디자이너인데 게임 안에서 호출 한 번에 일정 비용이 든다는 걸 안다면, 그것이 내가 할 수 있는 디자인에 영향을 준다\"고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "연사들은 자율 캐릭터가 이끄는 시스템 중심 샌드박스형 게임에 잠재력이 있다고 봤다. AI-native 개발은 기술 과제이면서 그만큼 디자인 과제이기도 하다는 설명이다."
+                "x": "생성형 AI를 콕 집어 말하진 않았지만 표현 곳곳에 그 뜻이 짙게 배어 있다. 메모는 지난달 Xbox Labs 이니셔티브 발표에 뒤이어 나왔다. Microsoft에서 AI 경력을 쌓은 Sharma는 앞서 \"나쁜 AI는 용납하지 않는다\"고 말했다. Eurogamer는 Microsoft에 해명을 요청했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIでしか作れない\nゲームをつくる",
-          "body": "GamesBeat Nextで、AI-native開発が可能にするゲームの姿が議論された。",
-          "mini_headline": "AIにしか\n作れないゲーム",
+          "headline": "Xbox CEOのメモ\ngen-AIゲーム制作を示唆",
+          "body": "Xbox CEOの記念メモは、今は数百人を要する世界を小さなチームが作れると記した。",
+          "mini_headline": "Xbox CEOのメモ、生成AIを示唆",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/11/AI-1.jpg"
+                "src": "https://assetsio.gnwcdn.com/asha-sharma-xbox-showcase-2026.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "画像提供：Eurogamer"
               },
               {
                 "t": "p",
-                "x": "ゲームにおけるAIの最大の機会は、AIなしでは不可能だったまったく新しい種類のゲームを生み出すことかもしれない。これが、Jamil Moledinaが司会を務め、Brian Tanner（Artificial Agency）、Piero Molino（Studio Atelico）、Jon Snoddy（Operative Games）が登壇したGamesBeat Next 2026のパネルの中心テーマだった。"
+                "x": "Xboxを率いるAsha Sharmaは、「25 years of Xbox」と題したメモで、ゲーム制作に生成AIの力を活用することをほのめかした。Sharmaは「あまりに多くのアイデアがゲームにならない」こと、「あまりに多くのゲームが作り手の思い描いた姿に届かない」ことを嘆いた。「何十年もの間、これは野心にとって避けられない代償だった」と彼女は書き、「私たちはこれを変えなければならない」と続けた。"
+              },
+              {
+                "t": "video",
+                "yt": "zCY0C8tTddM"
               },
               {
                 "t": "p",
-                "x": "Molinoは、初期の生成エージェントの実験は「AIを大量に必要とするが、本当のゲームではない」と指摘した。「手応えも挑戦もない」からだという。Operative Gamesでは会話が中核のメカニクスだ。「ゲームのメカニクスはストーリーだ。ゲームのメカニクスは会話だ」とSnoddyは語った。"
+                "x": "「まもなく一人の人間が、かつては国家全体を必要とした能力を扱えるようになる。小さなチームが、今なら数百人の開発者と数億ドルを要する世界を築けるようになる。そして私たちの最大のスタジオは、Microsoft Flight Simulator 2024が1982年の第1作からかけ離れているのと同じくらい、今日のゲームをはるかに超えた野心を追求できるようになる」"
               },
               {
                 "t": "p",
-                "x": "パネルではランタイムの経済性も話題となった。Tannerは品質、速度、コストのバランスについて説明し、Molinoは「私がゲームデザイナーで、ゲーム内で呼び出しを行うたびに一定のコストがかかると分かっていれば、それが私にできるデザインに影響する」と述べた。"
-              },
-              {
-                "t": "p",
-                "x": "登壇者たちは、自律的なキャラクターが動かすシステミックなサンドボックス型ゲームに可能性を見いだし、AI-native開発は技術的な課題であると同時にデザインの課題でもあると述べた。"
+                "x": "生成AIへの明確な言及はないが、言葉選びは示唆的であり、このメモは先月のXbox Labs構想の発表に続くものだ。MicrosoftでAI分野のキャリアを積んだSharmaは、以前「悪いAIは一切容認しない」と語っていた。EurogamerはMicrosoftに説明を求めている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "打造只有AI\n才能做出的游戏",
-          "body": "GamesBeat Next探讨AI-native开发如何带来有智能角色和动态世界的游戏。",
-          "mini_headline": "只有AI\n能做的游戏",
+          "headline": "Xbox CEO备忘录\n暗示gen-AI做游戏",
+          "body": "Xbox CEO Sharma在周年备忘录中称，小团队将能打造如今需数百名开发者的世界。",
+          "mini_headline": "Xbox CEO备忘录暗示生成式AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/11/AI-1.jpg"
+                "src": "https://assetsio.gnwcdn.com/asha-sharma-xbox-showcase-2026.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "图片来源：Eurogamer"
               },
               {
                 "t": "p",
-                "x": "AI在游戏领域最大的机会，或许是创造出没有它就无法实现的全新游戏类型。这是GamesBeat Next 2026一场小组讨论的核心主题，讨论由Jamil Moledina主持，嘉宾包括Brian Tanner（Artificial Agency）、Piero Molino（Studio Atelico）和Jon Snoddy（Operative Games）。"
+                "x": "Xbox负责人Asha Sharma在一份题为《25 years of Xbox》的备忘录中，暗示将在游戏制作中利用生成式AI的力量。Sharma感叹“太多创意从未成为游戏”，“太多游戏未能达到创作者的设想”。她写道：“几十年来，这一直是雄心无法回避的代价。”“我们必须改变这一点。”"
+              },
+              {
+                "t": "video",
+                "yt": "zCY0C8tTddM"
               },
               {
                 "t": "p",
-                "x": "Molino指出，早期的生成式智能体实验“需要大量AI，但并不算真正的游戏”，因为“没有咬劲，没有挑战”。在Operative Games，对话是核心机制。Snoddy说：“游戏机制就是故事。游戏机制就是对话。”"
+                "x": "“很快，一个人就能掌握曾经需要举国之力才具备的能力。一支小团队将能打造如今需要数百名开发者和数亿美元才能建成的世界。而我们最大的工作室将能追求远超当今游戏的雄心，其差距就如同Microsoft Flight Simulator 2024与其1982年的初代作品之间的距离。”"
               },
               {
                 "t": "p",
-                "x": "小组还探讨了运行时的经济性：Tanner谈到要在质量、速度和成本之间取得平衡，Molino则说：“如果我是一名游戏设计师，并且知道在游戏中每调用一次都要花费一定成本，这就会影响我能做出的设计。”"
-              },
-              {
-                "t": "p",
-                "x": "嘉宾们认为由自主角色驱动的系统化沙盒类游戏颇具潜力，并表示AI-native开发既是技术挑战，也同样是设计挑战。"
+                "x": "备忘录并未明确提及生成式AI，但措辞颇具暗示意味，且它紧随上月Xbox Labs计划的公布。拥有Microsoft AI背景的Sharma此前曾表示，她对“糟糕的AI零容忍”。Eurogamer已请Microsoft作出澄清。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Crear juegos que solo pueden\nhacerse con IA",
-          "body": "GamesBeat Next analizó cómo el desarrollo AI-native permitiría juegos con personajes inteligentes y mundos dinámicos.",
-          "mini_headline": "Juegos que solo\nla IA puede crear",
+          "headline": "Un memorando del CEO de Xbox\napunta al desarrollo con gen-AI",
+          "body": "Asha Sharma, CEO de Xbox, escribe que un equipo pequeño creará mundos que hoy exigen cientos de desarrolladores.",
+          "mini_headline": "Un memorando del CEO de Xbox apunta a la IA generativa",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/11/AI-1.jpg"
+                "src": "https://assetsio.gnwcdn.com/asha-sharma-xbox-showcase-2026.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "Crédito de la imagen: Eurogamer"
               },
               {
                 "t": "p",
-                "x": "La mayor oportunidad de la IA en los videojuegos podría ser crear tipos de juegos completamente nuevos que no serían posibles sin ella. Ese fue el tema central de un panel de GamesBeat Next 2026 con Brian Tanner (Artificial Agency), Piero Molino (Studio Atelico) y Jon Snoddy (Operative Games), moderado por Jamil Moledina."
+                "x": "La responsable de Xbox, Asha Sharma, ha insinuado el uso de la IA generativa para crear juegos en un memorando titulado 25 years of Xbox. Sharma lamentó que \"demasiadas ideas nunca se convierten en juegos\" y que \"demasiados juegos se quedan cortos frente a lo que sus creadores imaginaron\". \"Durante décadas, este ha sido el precio inevitable de la ambición\", escribió. \"Debemos cambiar esto\"."
+              },
+              {
+                "t": "video",
+                "yt": "zCY0C8tTddM"
               },
               {
                 "t": "p",
-                "x": "Molino señaló que los primeros experimentos con agentes generativos \"necesitan mucha IA, pero en realidad no son juegos\" porque \"no había mordiente ni desafío\". En Operative Games, la conversación es la mecánica central: \"La mecánica del juego es la historia. La mecánica del juego es la conversación\", dijo Snoddy."
+                "x": "\"Pronto, una sola persona podrá manejar capacidades que antes requerían naciones enteras. Un equipo pequeño podrá construir mundos que hoy exigen cientos de desarrolladores y cientos de millones de dólares. Y nuestros estudios más grandes podrán perseguir ambiciones tan alejadas de los juegos actuales como lo está Microsoft Flight Simulator 2024 de su primera entrega en 1982\"."
               },
               {
                 "t": "p",
-                "x": "El panel también abordó la economía en tiempo de ejecución: Tanner describió cómo equilibrar calidad, velocidad y coste, mientras que Molino dijo: \"Si soy diseñador de juegos y sé que hacer una llamada dentro del juego me cuesta cierta cantidad, eso influye en el diseño que puedo hacer\"."
-              },
-              {
-                "t": "p",
-                "x": "Los ponentes vieron potencial en juegos sistémicos de tipo sandbox impulsados por personajes autónomos, y describieron el desarrollo AI-native como un reto tanto de diseño como técnico."
+                "x": "No hay una mención explícita a la IA generativa, pero el lenguaje es sugerente, y el memorando llega tras el anuncio, el mes pasado, de la iniciativa Xbox Labs. Sharma, cuya trayectoria en Microsoft está ligada a la IA, ya había dicho que tiene \"tolerancia cero con la mala IA\". Eurogamer ha pedido aclaraciones a Microsoft."
               }
             ]
           }
@@ -1691,121 +1125,447 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI로만 만들 수 있는\n게임을 만든다",
-          "body": "GamesBeat Next는 AI-native 개발이 여는 게임 가능성을 짚었다.",
-          "mini_headline": "AI만이\n만들 수 있는 게임",
+          "headline": "Xbox CEO 메모,\ngen-AI 제작 시사",
+          "body": "Xbox CEO의 기념 메모는 작은 팀이 수백 명 몫의 세계를 만든다고 했다.",
+          "mini_headline": "Xbox CEO 메모, 생성형 AI 시사",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/11/AI-1.jpg"
+                "src": "https://assetsio.gnwcdn.com/asha-sharma-xbox-showcase-2026.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "이미지 출처: Eurogamer"
               },
               {
                 "t": "p",
-                "x": "게임에서 AI의 가장 큰 기회는 AI 없이는 불가능했을 완전히 새로운 종류의 게임을 만드는 데 있을지 모른다. Jamil Moledina가 진행하고 Brian Tanner(Artificial Agency), Piero Molino(Studio Atelico), Jon Snoddy(Operative Games)가 참여한 GamesBeat Next 2026 패널의 핵심 주제였다."
+                "x": "Xbox를 이끄는 Asha Sharma가 '25 years of Xbox'라는 제목의 메모에서 게임 제작에 생성형 AI의 힘을 활용하겠다는 뜻을 내비쳤다. Sharma는 \"너무 많은 아이디어가 끝내 게임이 되지 못하고\", \"너무 많은 게임이 제작자가 상상한 수준에 미치지 못한다\"고 아쉬워했다. 그는 \"수십 년 동안 이는 야망의 피할 수 없는 대가였다\"며 \"우리는 이것을 바꿔야 한다\"고 썼다."
+              },
+              {
+                "t": "video",
+                "yt": "zCY0C8tTddM"
               },
               {
                 "t": "p",
-                "x": "Molino는 초기 생성형 에이전트 실험이 \"AI는 많이 필요하지만 진짜 게임은 아니다\"라며, \"긴장감도, 도전도 없었기\" 때문이라고 짚었다. Operative Games에서는 대화가 핵심 메커닉이다. Snoddy는 \"게임 메커닉이 곧 스토리다. 게임 메커닉이 곧 대화다\"라고 말했다."
+                "x": "\"머지않아 한 사람이 한때 국가 전체가 필요했던 역량을 다룰 수 있게 된다. 작은 팀이 오늘날 수백 명의 개발자와 수억 달러가 드는 세계를 만들 수 있게 된다. 그리고 우리의 가장 큰 스튜디오들은 Microsoft Flight Simulator 2024가 1982년의 첫 작품에서 멀어진 만큼 오늘의 게임을 훨씬 넘어서는 야망을 추구할 수 있게 된다.\""
               },
               {
                 "t": "p",
-                "x": "패널은 런타임 경제성도 다뤘다. Tanner는 품질, 속도, 비용 사이의 균형을 설명했고, Molino는 \"내가 게임 디자이너인데 게임 안에서 호출 한 번에 일정 비용이 든다는 걸 안다면, 그것이 내가 할 수 있는 디자인에 영향을 준다\"고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "연사들은 자율적인 캐릭터가 이끄는 시스템 중심의 샌드박스형 게임에 잠재력이 있다고 보았고, AI-native 개발은 기술 과제인 만큼 디자인 과제이기도 하다고 설명했다."
+                "x": "생성형 AI를 명시적으로 언급하지는 않았지만 표현은 이를 짙게 암시하며, 이 메모는 지난달 Xbox Labs 이니셔티브 발표에 이어 나왔다. Microsoft에서 AI 분야 경력을 쌓은 Sharma는 앞서 \"나쁜 AI는 용납하지 않는다\"고 말한 바 있다. Eurogamer는 Microsoft에 해명을 요청했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIでしか作れない\nゲームをつくる",
-          "body": "GamesBeat Nextで、AI-native開発が可能にするゲームの姿が議論された。",
-          "mini_headline": "AIにしか\n作れないゲーム",
+          "headline": "Xbox CEOのメモ\ngen-AIゲーム制作を示唆",
+          "body": "Xbox CEOの記念メモは、今は数百人を要する世界を小さなチームが作れると記した。",
+          "mini_headline": "Xbox CEOのメモ、生成AIを示唆",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/11/AI-1.jpg"
+                "src": "https://assetsio.gnwcdn.com/asha-sharma-xbox-showcase-2026.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "画像提供：Eurogamer"
               },
               {
                 "t": "p",
-                "x": "ゲームにおけるAIの最大の機会は、AIなしでは不可能だったまったく新しい種類のゲームを生み出すことかもしれない。これが、Jamil Moledinaが司会を務め、Brian Tanner（Artificial Agency）、Piero Molino（Studio Atelico）、Jon Snoddy（Operative Games）が登壇したGamesBeat Next 2026のパネルの中心テーマだった。"
+                "x": "Xboxを率いるAsha Sharmaは、「25 years of Xbox」と題したメモで、ゲーム制作に生成AIの力を活用することをほのめかした。Sharmaは「あまりに多くのアイデアがゲームにならない」こと、「あまりに多くのゲームが作り手の思い描いた姿に届かない」ことを嘆いた。「何十年もの間、これは野心にとって避けられない代償だった」と彼女は書き、「私たちはこれを変えなければならない」と続けた。"
+              },
+              {
+                "t": "video",
+                "yt": "zCY0C8tTddM"
               },
               {
                 "t": "p",
-                "x": "Molinoは、初期の生成エージェントの実験は「AIを大量に必要とするが、本当のゲームではない」と指摘した。「手応えも挑戦もない」からだという。Operative Gamesでは会話が中核のメカニクスだ。「ゲームのメカニクスはストーリーだ。ゲームのメカニクスは会話だ」とSnoddyは語った。"
+                "x": "「まもなく一人の人間が、かつては国家全体を必要とした能力を扱えるようになる。小さなチームが、今なら数百人の開発者と数億ドルを要する世界を築けるようになる。そして私たちの最大のスタジオは、Microsoft Flight Simulator 2024が1982年の第1作からかけ離れているのと同じくらい、今日のゲームをはるかに超えた野心を追求できるようになる」"
               },
               {
                 "t": "p",
-                "x": "パネルではランタイムの経済性も話題となった。Tannerは品質、速度、コストのバランスについて説明し、Molinoは「私がゲームデザイナーで、ゲーム内で呼び出しを行うたびに一定のコストがかかると分かっていれば、それが私にできるデザインに影響する」と述べた。"
-              },
-              {
-                "t": "p",
-                "x": "登壇者たちは、自律的なキャラクターが動かすシステミックなサンドボックス型ゲームに可能性を見いだし、AI-native開発は技術的な課題であると同時にデザインの課題でもあると述べた。"
+                "x": "生成AIへの明確な言及はないが、言葉選びは示唆的であり、このメモは先月のXbox Labs構想の発表に続くものだ。MicrosoftでAI分野のキャリアを積んだSharmaは、以前「悪いAIは一切容認しない」と語っていた。EurogamerはMicrosoftに説明を求めている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "打造只有AI\n才能做出的游戏",
-          "body": "GamesBeat Next探讨AI-native开发如何带来有智能角色和动态世界的游戏。",
-          "mini_headline": "只有AI\n能做的游戏",
+          "headline": "Xbox CEO备忘录\n暗示gen-AI做游戏",
+          "body": "Xbox CEO Sharma在周年备忘录中称，小团队将能打造如今需数百名开发者的世界。",
+          "mini_headline": "Xbox CEO备忘录暗示生成式AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/11/AI-1.jpg"
+                "src": "https://assetsio.gnwcdn.com/asha-sharma-xbox-showcase-2026.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "图片来源：Eurogamer"
               },
               {
                 "t": "p",
-                "x": "AI在游戏领域最大的机会，或许是创造出没有它就无法实现的全新游戏类型。这是GamesBeat Next 2026一场小组讨论的核心主题，讨论由Jamil Moledina主持，嘉宾包括Brian Tanner（Artificial Agency）、Piero Molino（Studio Atelico）和Jon Snoddy（Operative Games）。"
+                "x": "Xbox负责人Asha Sharma在一份题为《25 years of Xbox》的备忘录中，暗示将在游戏制作中利用生成式AI的力量。Sharma感叹“太多创意从未成为游戏”，“太多游戏未能达到创作者的设想”。她写道：“几十年来，这一直是雄心无法回避的代价。”“我们必须改变这一点。”"
+              },
+              {
+                "t": "video",
+                "yt": "zCY0C8tTddM"
               },
               {
                 "t": "p",
-                "x": "Molino指出，早期的生成式智能体实验“需要大量AI，但并不算真正的游戏”，因为“没有咬劲，没有挑战”。在Operative Games，对话是核心机制。Snoddy说：“游戏机制就是故事。游戏机制就是对话。”"
+                "x": "“很快，一个人就能掌握曾经需要举国之力才具备的能力。一支小团队将能打造如今需要数百名开发者和数亿美元才能建成的世界。而我们最大的工作室将能追求远超当今游戏的雄心，其差距就如同Microsoft Flight Simulator 2024与其1982年的初代作品之间的距离。”"
               },
               {
                 "t": "p",
-                "x": "小组还探讨了运行时的经济性：Tanner谈到要在质量、速度和成本之间取得平衡，Molino则说：“如果我是一名游戏设计师，并且知道在游戏中每调用一次都要花费一定成本，这就会影响我能做出的设计。”"
-              },
-              {
-                "t": "p",
-                "x": "嘉宾们认为由自主角色驱动的系统化沙盒类游戏颇具潜力，并表示AI-native开发既是技术挑战，也同样是设计挑战。"
+                "x": "备忘录并未明确提及生成式AI，但措辞颇具暗示意味，且它紧随上月Xbox Labs计划的公布。拥有Microsoft AI背景的Sharma此前曾表示，她对“糟糕的AI零容忍”。Eurogamer已请Microsoft作出澄清。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Crear juegos que solo pueden\nhacerse con IA",
-          "body": "GamesBeat Next analizó cómo el desarrollo AI-native permitiría juegos con personajes inteligentes y mundos dinámicos.",
-          "mini_headline": "Juegos que solo\nla IA puede crear",
+          "headline": "Un memorando del CEO de Xbox\napunta al desarrollo con gen-AI",
+          "body": "Asha Sharma, CEO de Xbox, escribe que un equipo pequeño creará mundos que hoy exigen cientos de desarrolladores.",
+          "mini_headline": "Un memorando del CEO de Xbox apunta a la IA generativa",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/11/AI-1.jpg"
+                "src": "https://assetsio.gnwcdn.com/asha-sharma-xbox-showcase-2026.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "Crédito de la imagen: Eurogamer"
               },
               {
                 "t": "p",
-                "x": "La mayor oportunidad de la IA en los videojuegos podría ser crear tipos de juegos completamente nuevos que no serían posibles sin ella. Ese fue el tema central de un panel de GamesBeat Next 2026 con Brian Tanner (Artificial Agency), Piero Molino (Studio Atelico) y Jon Snoddy (Operative Games), moderado por Jamil Moledina."
+                "x": "La responsable de Xbox, Asha Sharma, ha insinuado el uso de la IA generativa para crear juegos en un memorando titulado 25 years of Xbox. Sharma lamentó que \"demasiadas ideas nunca se convierten en juegos\" y que \"demasiados juegos se quedan cortos frente a lo que sus creadores imaginaron\". \"Durante décadas, este ha sido el precio inevitable de la ambición\", escribió. \"Debemos cambiar esto\"."
+              },
+              {
+                "t": "video",
+                "yt": "zCY0C8tTddM"
               },
               {
                 "t": "p",
-                "x": "Molino señaló que los primeros experimentos con agentes generativos \"necesitan mucha IA, pero en realidad no son juegos\" porque \"no había mordiente ni desafío\". En Operative Games, la conversación es la mecánica central: \"La mecánica del juego es la historia. La mecánica del juego es la conversación\", dijo Snoddy."
+                "x": "\"Pronto, una sola persona podrá manejar capacidades que antes requerían naciones enteras. Un equipo pequeño podrá construir mundos que hoy exigen cientos de desarrolladores y cientos de millones de dólares. Y nuestros estudios más grandes podrán perseguir ambiciones tan alejadas de los juegos actuales como lo está Microsoft Flight Simulator 2024 de su primera entrega en 1982\"."
               },
               {
                 "t": "p",
-                "x": "El panel también abordó la economía en tiempo de ejecución: Tanner describió cómo equilibrar calidad, velocidad y coste, mientras que Molino dijo: \"Si soy diseñador de juegos y sé que hacer una llamada dentro del juego me cuesta cierta cantidad, eso influye en el diseño que puedo hacer\"."
+                "x": "No hay una mención explícita a la IA generativa, pero el lenguaje es sugerente, y el memorando llega tras el anuncio, el mes pasado, de la iniciativa Xbox Labs. Sharma, cuya trayectoria en Microsoft está ligada a la IA, ya había dicho que tiene \"tolerancia cero con la mala IA\". Eurogamer ha pedido aclaraciones a Microsoft."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "shadowkey-ngage-ai-revival",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "팬이 AI로 되살린\nN-Gage판 엘더스크롤",
+      "body": "한 팬이 AI 도구로 엘더스크롤 Shadowkey를 복원·개선해 PC로 옮긴다.",
+      "mini_headline": "Shadowkey, AI로 PC판 부활",
+      "tool": "Games",
+      "source": "PC Gamer",
+      "url": "https://www.pcgamer.com/games/the-elder-scrolls/one-elder-scrolls-fan-is-reviving-and-upgrading-a-lost-spin-off-for-the-nokia-n-gage-and-porting-it-to-pc/",
+      "accent": "#f5a623",
+      "motif": "cube",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://cdn.mos.cms.futurecdn.net/nag2arKf76CYq2aNFJVzpd-1920-80.jpg",
+            "cap": "(이미지 출처: Bethesda)"
+          },
+          {
+            "t": "p",
+            "x": "The Elder Scrolls Travels: Shadowkey는 2005년에 단종된 Nokia 휴대용 기기 N-Gage용 게임이다. Dan Whelan의 Shadowkey Reforged 프로젝트로는 와이드스크린과 컨트롤러 지원, 업스케일 그래픽을 갖춘 채 클래식 모드나 모던 모드로 이 게임을 즐긴다. 모던 모드에는 스태미나 기반 달리기, 은신, 래그돌 물리처럼 이후 메인 Elder Scrolls 시리즈에 나온 기능도 들어갔다."
+          },
+          {
+            "t": "video",
+            "yt": "Ax-MqhRaP7w"
+          },
+          {
+            "t": "p",
+            "x": "Whelan은 FAQ에서 이렇게 설명한다. \"코딩과 엔진 구축, 디버깅에 AI의 도움을 받았다. 현대적인 고해상도 아트워크 대부분은 AI 이미지 생성에 Photoshop과 일부 수작업 스프라이트 편집을 결합해 만들었다.\""
+          },
+          {
+            "t": "p",
+            "x": "Whelan은 Shadowkey Reforged를 11월 11일 Windows, Mac, Android용으로 내놓을 계획이다. 단, 플레이하려면 자기 Nokia N-Gage에 든 원작 게임 파일이 있어야 한다. Morrowind의 음악과 효과음도 가져다 쓸 수 있다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Fan revives lost N-Gage\nElder Scrolls with AI",
+          "body": "A fan is using AI tools to restore and upgrade The Elder Scrolls Travels: Shadowkey and port it to PC.",
+          "mini_headline": "Shadowkey revived for PC with AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/nag2arKf76CYq2aNFJVzpd-1920-80.jpg",
+                "cap": "(Image credit: Bethesda)"
               },
               {
                 "t": "p",
-                "x": "Los ponentes vieron potencial en juegos sistémicos de tipo sandbox impulsados por personajes autónomos, y describieron el desarrollo AI-native como un reto tanto de diseño como técnico."
+                "x": "The Elder Scrolls Travels: Shadowkey came out on Nokia's N-Gage handheld, discontinued in 2005. Dan Whelan's Shadowkey Reforged project will let us play it in widescreen with controller support and upscaled graphics, in classic or modern mode. Modern mode also adds features from later mainline Elder Scrolls games like stamina-based sprinting, stealth, and ragdoll physics."
+              },
+              {
+                "t": "video",
+                "yt": "Ax-MqhRaP7w"
+              },
+              {
+                "t": "p",
+                "x": "Whelan says in the FAQ: \"I used AI to assist with coding and building the engine, and with debugging. I used AI image generation combined with Photoshop and some manual sprite editing to create most of the modern, higher resolution artwork.\""
+              },
+              {
+                "t": "p",
+                "x": "Whelan plans to release Shadowkey Reforged on November 11 for Windows, Mac, and Android, though you'll need the original game's files from your Nokia N-Gage. It can also borrow Morrowind's music and sound effects."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "팬이 AI로 되살린\nN-Gage판 엘더스크롤",
+          "body": "한 팬이 AI 도구로 엘더스크롤 Shadowkey를 복원·개선해 PC로 옮긴다.",
+          "mini_headline": "Shadowkey, AI로 PC판 부활",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/nag2arKf76CYq2aNFJVzpd-1920-80.jpg",
+                "cap": "(이미지 출처: Bethesda)"
+              },
+              {
+                "t": "p",
+                "x": "The Elder Scrolls Travels: Shadowkey는 2005년에 단종된 Nokia 휴대용 기기 N-Gage용 게임이다. Dan Whelan의 Shadowkey Reforged 프로젝트로는 와이드스크린과 컨트롤러 지원, 업스케일 그래픽을 갖춘 채 클래식 모드나 모던 모드로 이 게임을 즐긴다. 모던 모드에는 스태미나 기반 달리기, 은신, 래그돌 물리처럼 이후 메인 Elder Scrolls 시리즈에 나온 기능도 들어갔다."
+              },
+              {
+                "t": "video",
+                "yt": "Ax-MqhRaP7w"
+              },
+              {
+                "t": "p",
+                "x": "Whelan은 FAQ에서 이렇게 설명한다. \"코딩과 엔진 구축, 디버깅에 AI의 도움을 받았다. 현대적인 고해상도 아트워크 대부분은 AI 이미지 생성에 Photoshop과 일부 수작업 스프라이트 편집을 결합해 만들었다.\""
+              },
+              {
+                "t": "p",
+                "x": "Whelan은 Shadowkey Reforged를 11월 11일 Windows, Mac, Android용으로 내놓을 계획이다. 단, 플레이하려면 자기 Nokia N-Gage에 든 원작 게임 파일이 있어야 한다. Morrowind의 음악과 효과음도 가져다 쓸 수 있다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "幻のエルダースクロールズ\nN-Gage版をAIで復活",
+          "body": "あるファンがAIツールで『Shadowkey』を復元・強化し、PCへ移植している。",
+          "mini_headline": "Shadowkey、AIでPC版として復活",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/nag2arKf76CYq2aNFJVzpd-1920-80.jpg",
+                "cap": "（画像提供：Bethesda）"
+              },
+              {
+                "t": "p",
+                "x": "『The Elder Scrolls Travels: Shadowkey』は、2005年に生産終了となったNokiaの携帯ゲーム機N-Gage向けに発売された作品だ。Dan WhelanのプロジェクトShadowkey Reforgedでは、ワイドスクリーン、コントローラー対応、アップスケールされたグラフィックで、クラシックモードかモダンモードを選んで遊べる。モダンモードには、スタミナ制のダッシュ、ステルス、ラグドール物理など、後のメインシリーズElder Scrolls作品の要素も加わる。"
+              },
+              {
+                "t": "video",
+                "yt": "Ax-MqhRaP7w"
+              },
+              {
+                "t": "p",
+                "x": "WhelanはFAQでこう述べている。「コーディングとエンジン構築、デバッグにAIの助けを借りた。現代的な高解像度アートワークの大半は、AI画像生成とPhotoshop、そして一部手作業のスプライト編集を組み合わせて作った」"
+              },
+              {
+                "t": "p",
+                "x": "WhelanはShadowkey Reforgedを11月11日にWindows、Mac、Android向けに公開する予定だ。ただし、手持ちのNokia N-Gageから取り出した元のゲームファイルが必要になる。Morrowindの音楽や効果音を流用することもできる。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "粉丝用AI复活\n失落的N-Gage上古卷轴",
+          "body": "一名粉丝正用AI工具修复并升级《Shadowkey》，并将其移植到PC。",
+          "mini_headline": "Shadowkey借AI复活登陆PC",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/nag2arKf76CYq2aNFJVzpd-1920-80.jpg",
+                "cap": "（图片来源：Bethesda）"
+              },
+              {
+                "t": "p",
+                "x": "《The Elder Scrolls Travels: Shadowkey》最初发行于Nokia的N-Gage掌机，该机已于2005年停产。Dan Whelan的Shadowkey Reforged项目将让玩家以宽屏、手柄支持和升频画面来游玩这款游戏，并可选择经典或现代模式。现代模式还加入了后来Elder Scrolls正统作品中的功能，如基于耐力的冲刺、潜行和布娃娃物理。"
+              },
+              {
+                "t": "video",
+                "yt": "Ax-MqhRaP7w"
+              },
+              {
+                "t": "p",
+                "x": "Whelan在FAQ中写道：“我用AI辅助编写代码、构建引擎以及调试。大部分现代高分辨率美术资源，是我将AI图像生成与Photoshop及部分手工精灵图编辑结合起来制作的。”"
+              },
+              {
+                "t": "p",
+                "x": "Whelan计划于11月11日在Windows、Mac和Android上发布Shadowkey Reforged，不过你需要从自己的Nokia N-Gage中取得原版游戏文件。它还可以借用Morrowind的音乐和音效。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Un fan revive un Elder Scrolls\nperdido de N-Gage con IA",
+          "body": "Un fan usa herramientas de IA para restaurar y mejorar The Elder Scrolls Travels: Shadowkey y llevarlo a PC.",
+          "mini_headline": "Shadowkey revive en PC gracias a la IA",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/nag2arKf76CYq2aNFJVzpd-1920-80.jpg",
+                "cap": "(Crédito de la imagen: Bethesda)"
+              },
+              {
+                "t": "p",
+                "x": "The Elder Scrolls Travels: Shadowkey salió en la consola portátil N-Gage de Nokia, descatalogada en 2005. El proyecto Shadowkey Reforged de Dan Whelan permitirá jugarlo en pantalla panorámica, con compatibilidad con mando y gráficos reescalados, en modo clásico o moderno. El modo moderno añade además funciones de entregas principales posteriores de Elder Scrolls, como el sprint basado en resistencia, el sigilo y la física ragdoll."
+              },
+              {
+                "t": "video",
+                "yt": "Ax-MqhRaP7w"
+              },
+              {
+                "t": "p",
+                "x": "Whelan explica en las FAQ: \"Usé IA para ayudarme a programar, construir el motor y depurar. Usé generación de imágenes con IA combinada con Photoshop y algo de edición manual de sprites para crear la mayor parte del arte moderno de mayor resolución\"."
+              },
+              {
+                "t": "p",
+                "x": "Whelan planea lanzar Shadowkey Reforged el 11 de noviembre para Windows, Mac y Android, aunque se necesitarán los archivos del juego original de tu Nokia N-Gage. También puede tomar prestados la música y los efectos de sonido de Morrowind."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "팬이 AI로 되살린\nN-Gage판 엘더스크롤",
+          "body": "한 팬이 AI 도구로 엘더스크롤 Shadowkey를 복원·개선해 PC로 옮긴다.",
+          "mini_headline": "Shadowkey, AI로 PC판 부활",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/nag2arKf76CYq2aNFJVzpd-1920-80.jpg",
+                "cap": "(이미지 출처: Bethesda)"
+              },
+              {
+                "t": "p",
+                "x": "The Elder Scrolls Travels: Shadowkey는 2005년에 단종된 Nokia의 휴대용 기기 N-Gage로 나온 게임이다. Dan Whelan의 Shadowkey Reforged 프로젝트를 이용하면 와이드스크린, 컨트롤러 지원, 업스케일된 그래픽으로 클래식 모드나 모던 모드에서 이 게임을 즐길 수 있다. 모던 모드는 스태미나 기반 달리기, 은신, 래그돌 물리 등 이후 메인 Elder Scrolls 시리즈의 기능도 더한다."
+              },
+              {
+                "t": "video",
+                "yt": "Ax-MqhRaP7w"
+              },
+              {
+                "t": "p",
+                "x": "Whelan은 FAQ에서 이렇게 말한다. \"코딩과 엔진 구축, 디버깅에 AI의 도움을 받았다. 현대적인 고해상도 아트워크 대부분은 AI 이미지 생성에 Photoshop과 일부 수작업 스프라이트 편집을 결합해 만들었다.\""
+              },
+              {
+                "t": "p",
+                "x": "Whelan은 Shadowkey Reforged를 11월 11일 Windows, Mac, Android용으로 출시할 계획이다. 다만 본인의 Nokia N-Gage에 있는 원작 게임 파일이 필요하다. Morrowind의 음악과 효과음을 가져다 쓸 수도 있다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "幻のエルダースクロールズ\nN-Gage版をAIで復活",
+          "body": "あるファンがAIツールで『Shadowkey』を復元・強化し、PCへ移植している。",
+          "mini_headline": "Shadowkey、AIでPC版として復活",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/nag2arKf76CYq2aNFJVzpd-1920-80.jpg",
+                "cap": "（画像提供：Bethesda）"
+              },
+              {
+                "t": "p",
+                "x": "『The Elder Scrolls Travels: Shadowkey』は、2005年に生産終了となったNokiaの携帯ゲーム機N-Gage向けに発売された作品だ。Dan WhelanのプロジェクトShadowkey Reforgedでは、ワイドスクリーン、コントローラー対応、アップスケールされたグラフィックで、クラシックモードかモダンモードを選んで遊べる。モダンモードには、スタミナ制のダッシュ、ステルス、ラグドール物理など、後のメインシリーズElder Scrolls作品の要素も加わる。"
+              },
+              {
+                "t": "video",
+                "yt": "Ax-MqhRaP7w"
+              },
+              {
+                "t": "p",
+                "x": "WhelanはFAQでこう述べている。「コーディングとエンジン構築、デバッグにAIの助けを借りた。現代的な高解像度アートワークの大半は、AI画像生成とPhotoshop、そして一部手作業のスプライト編集を組み合わせて作った」"
+              },
+              {
+                "t": "p",
+                "x": "WhelanはShadowkey Reforgedを11月11日にWindows、Mac、Android向けに公開する予定だ。ただし、手持ちのNokia N-Gageから取り出した元のゲームファイルが必要になる。Morrowindの音楽や効果音を流用することもできる。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "粉丝用AI复活\n失落的N-Gage上古卷轴",
+          "body": "一名粉丝正用AI工具修复并升级《Shadowkey》，并将其移植到PC。",
+          "mini_headline": "Shadowkey借AI复活登陆PC",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/nag2arKf76CYq2aNFJVzpd-1920-80.jpg",
+                "cap": "（图片来源：Bethesda）"
+              },
+              {
+                "t": "p",
+                "x": "《The Elder Scrolls Travels: Shadowkey》最初发行于Nokia的N-Gage掌机，该机已于2005年停产。Dan Whelan的Shadowkey Reforged项目将让玩家以宽屏、手柄支持和升频画面来游玩这款游戏，并可选择经典或现代模式。现代模式还加入了后来Elder Scrolls正统作品中的功能，如基于耐力的冲刺、潜行和布娃娃物理。"
+              },
+              {
+                "t": "video",
+                "yt": "Ax-MqhRaP7w"
+              },
+              {
+                "t": "p",
+                "x": "Whelan在FAQ中写道：“我用AI辅助编写代码、构建引擎以及调试。大部分现代高分辨率美术资源，是我将AI图像生成与Photoshop及部分手工精灵图编辑结合起来制作的。”"
+              },
+              {
+                "t": "p",
+                "x": "Whelan计划于11月11日在Windows、Mac和Android上发布Shadowkey Reforged，不过你需要从自己的Nokia N-Gage中取得原版游戏文件。它还可以借用Morrowind的音乐和音效。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Un fan revive un Elder Scrolls\nperdido de N-Gage con IA",
+          "body": "Un fan usa herramientas de IA para restaurar y mejorar The Elder Scrolls Travels: Shadowkey y llevarlo a PC.",
+          "mini_headline": "Shadowkey revive en PC gracias a la IA",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/nag2arKf76CYq2aNFJVzpd-1920-80.jpg",
+                "cap": "(Crédito de la imagen: Bethesda)"
+              },
+              {
+                "t": "p",
+                "x": "The Elder Scrolls Travels: Shadowkey salió en la consola portátil N-Gage de Nokia, descatalogada en 2005. El proyecto Shadowkey Reforged de Dan Whelan permitirá jugarlo en pantalla panorámica, con compatibilidad con mando y gráficos reescalados, en modo clásico o moderno. El modo moderno añade además funciones de entregas principales posteriores de Elder Scrolls, como el sprint basado en resistencia, el sigilo y la física ragdoll."
+              },
+              {
+                "t": "video",
+                "yt": "Ax-MqhRaP7w"
+              },
+              {
+                "t": "p",
+                "x": "Whelan explica en las FAQ: \"Usé IA para ayudarme a programar, construir el motor y depurar. Usé generación de imágenes con IA combinada con Photoshop y algo de edición manual de sprites para crear la mayor parte del arte moderno de mayor resolución\"."
+              },
+              {
+                "t": "p",
+                "x": "Whelan planea lanzar Shadowkey Reforged el 11 de noviembre para Windows, Mac y Android, aunque se necesitarán los archivos del juego original de tu Nokia N-Gage. También puede tomar prestados la música y los efectos de sonido de Morrowind."
               }
             ]
           }

@@ -6011,6 +6011,153 @@
           "x": "However, he said, \"The interests of the two countries are not always aligned, and likewise our approaches to every challenge cannot always be the same,\" highlighting differences in how the two countries view and approach AI development."
         }
       ]
+    },
+    "politics/politics-openai-ontario-appeal": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/51/f51e80ab-0b99-5f6b-8c7b-437afbea9a48/6af77f04d5d17.image.jpg",
+          "cap": "Attendees gather at the OpenAI DevDay 2026 conference, Tuesday, Sept. 29, 2026, in San Francisco. (AP Photo/Jeff Chiu)"
+        },
+        {
+          "t": "p",
+          "x": "OTTAWA - The Ontario Court of Appeal is allowing a copyright lawsuit filed by Canadian news publishers against OpenAI to proceed in that province after dismissing an appeal by the company."
+        },
+        {
+          "t": "p",
+          "x": "A coalition of Canadian news outlets which includes The Canadian Press, Torstar, The Globe and Mail, Postmedia and CBC/Radio-Canada launched the lawsuit a year ago."
+        },
+        {
+          "t": "p",
+          "x": "They argue that OpenAI is using their news content to train ChatGPT, breaching copyright and profiting from the use of that content without permission or compensation."
+        },
+        {
+          "t": "p",
+          "x": "OpenAI, the company behind ChatGPT, put forward a jurisdictional challenge and argued the case should be heard in a U.S. courtroom instead, but the Ontario Superior Court of Justice concluded the court does have jurisdiction to hear the case."
+        },
+        {
+          "t": "p",
+          "x": "OpenAI appealed the decision and the court dismissed that appeal today."
+        },
+        {
+          "t": "p",
+          "x": "The lawsuit is the first Canadian case to address the practice of using copyrighted content to train generative AI systems."
+        },
+        {
+          "t": "p",
+          "x": "This report by The Canadian Press was first published Nov. 13, 2026."
+        }
+      ]
+    },
+    "politics/politics-indonesia-copyright-bill": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.niemanlab.org/images/Indonesian-Parliament-building.jpg"
+        },
+        {
+          "t": "p",
+          "x": "On Wednesday, Meta, TikTok, and Google testified in the Indonesian parliament in opposition to a new copyright bill. The proposed law would require digital platforms to pay news publishers in Indonesia for aggregating and previewing their content, according to a new report from Reuters."
+        },
+        {
+          "t": "p",
+          "x": "The bill does not distinguish between aggregation and republication. Tech platforms would have to pay even when they surface news link previews or story snippets in their products, including AI search products. The law would also force platforms to compensate publishers when their journalism is used to train AI models."
+        },
+        {
+          "t": "p",
+          "x": "Any compensation would be paid through a state-run management organization, which would then distribute the funds to publishers. Platforms that don’t comply could face sanctions, including the loss of their local business permits."
+        },
+        {
+          "t": "p",
+          "x": "If the bill does pass, Indonesia would become the first country in Southeast Asia to formally fold AI into its copyright law."
+        },
+        {
+          "t": "p",
+          "x": "A Google official argued that the bill would limit access to news, according to Reuters. Berni Moestafa, Meta’s head of public policy in Indonesia, testified that if the bill is passed “publishers could lose readership traffic as well as potential advertising and subscription revenue.”"
+        }
+      ]
+    },
+    "politics/politics-malaysia-megaspeed-probe": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img5.yna.co.kr/photo/etc/af/2026/11/12/PAF20261112269501009_P4.jpg",
+          "cap": "Jensen Huang and Alice Huang, who is suspected of being a Chinese spy [AFP=Yonhap file photo]"
+        },
+        {
+          "t": "p",
+          "x": "Malaysia's Ministry of Investment, Trade and Industry said on the 13th (local time) that it is investigating Speedmatrix, a subsidiary of Megaspeed International, over the possibility that advanced AI chips were diverted to other countries (AFP, Bloomberg and others)."
+        },
+        {
+          "t": "p",
+          "x": "Megaspeed, a Singapore-headquartered data center company, is suspected of illegally shipping Nvidia chips to China after American restrictions on advanced AI chip exports took effect in late 2022, and it imported at least $4.6 billion (about 6조2천억원) worth of Nvidia AI equipment through Speedmatrix, a subsidiary it set up in 2024. Alice Huang, who is suspected of being a Chinese spy, previously worked as an executive at the company."
+        },
+        {
+          "t": "p",
+          "x": "The ministry said Speedmatrix may bring AI chips into the country without a permit, but that \"(since July last year) exporting, re-exporting, transshipping or transiting high-performance American-made AI chips through Malaysia requires prior authorization.\""
+        },
+        {
+          "t": "p",
+          "x": "The ministry said it is \"working with the customs department to determine whether any of the chips brought into the country were re-exported to other countries and whether such re-exports were carried out in accordance with the law,\" adding that it is working closely with Singaporean and American authorities and is \"also considering additional measures to tighten controls if necessary.\" Megaspeed has also been under investigation by Singaporean authorities since last year over suspected false declarations of export routes for chip servers."
+        }
+      ]
+    },
+    "politics/politics-whitehall-ai-applications": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/13/iStock-2249077406-scaled.jpg",
+          "cap": "Recruiting managers have seen a sharp rise in the number of applications for each role ... but no change to the number of viable candidates, noted one U.K. government official. | iStock"
+        },
+        {
+          "t": "p",
+          "x": "LONDON — The U.K. civil service plans to hold more in-person job interviews and diminish the role of written candidate statements in an attempt to combat a surge in applications created by AI."
+        },
+        {
+          "t": "p",
+          "x": "Recruiting managers have seen a sharp rise in applications for each role without any change to the overall number of viable candidates, said a U.K. government official. Cabinet Secretary Antonia Romeo believes some applicants are using AI to generate bland personal statements."
+        },
+        {
+          "t": "p",
+          "x": "In the most extreme cases, entire applications — even virtual interviews — appeared to have been generated by bots, the official added. In at least one case, civil servants terminated a video interview early, suspecting the candidate was not a real person."
+        },
+        {
+          "t": "p",
+          "x": "The civil service plans to move away from personal statements, and for flagship recruitment schemes leaders are looking at reintroducing compulsory face-to-face interviews. A new selection framework is due from April 2027."
+        },
+        {
+          "t": "p",
+          "x": "Romeo said AI would “radically rewrite” the way Whitehall works. Dave Penman of the FDA union said: “These legitimate concerns don’t mean that the whole system is broken and everyone applying for jobs is faking it.”"
+        }
+      ]
+    },
+    "politics/advocacy-suit-halt-ai-labs": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://dims.apnews.com/dims4/default/4e44ba9/2147483647/strip/true/crop/4662x3108+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F30%2F0e%2Fef26d3feddcef8b768b205a106a9%2F4fd0f97a72934b7eb0c5305851250919"
+        },
+        {
+          "t": "p",
+          "x": "NEW YORK (AP) — A coalition of online safety and consumer advocacy groups on Thursday sued five of the world’s leading artificial intelligence companies to halt further development, alleging the tech giants can’t prevent their own creations from causing “catastrophic” harm."
+        },
+        {
+          "t": "p",
+          "x": "The lawsuit in San Francisco Superior Court asks a judge to stop Anthropic, Google, Meta, OpenAI and SpaceXSI from developing or deploying new AI models, pointing to documented examples of cyberattacks and other harmful actions by AI systems and the companies’ own acknowledgments of the technology’s risks."
+        },
+        {
+          "t": "p",
+          "x": "“No other industry is allowed to treat its own development of unsafe products — much less ones that could kill us all — as inevitable,” reads the complaint from the Irreplaceable Education Fund, Public Citizen, Heat Initiative and the Alliance for Secure AI."
+        },
+        {
+          "t": "p",
+          "x": "The plaintiffs, all nonprofits, allege that the companies have violated a California unfair competition law by endangering public health and interfering with the use of property such as computer systems. President Donald Trump has so far encouraged the companies to police themselves on safety, though he has expressed openness to more guardrails, and Congress has stopped short of regulating the technology."
+        },
+        {
+          "t": "p",
+          "x": "The companies named in Thursday’s lawsuit didn’t immediately respond to requests for comment."
+        }
+      ]
     }
   }
 }

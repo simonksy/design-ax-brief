@@ -15939,6 +15939,137 @@
           "x": "4K 출력과 10-bit 컬러를 지원한다. 프레임 수는 원본과 정확히 같고 화면비도 그대로다. SwitchX 3.0은 Beeble 클라우드 앱의 캔버스 노드로 쓰거나 별도 SwitchX 페이지에서 쓰면 된다."
         }
       ]
+    },
+    "movies/screenburn-writers-room": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/1/5/6/1492156_screenshot20261112at14.50.31_498419.jpg"
+        },
+        {
+          "t": "p",
+          "x": "대본형 엔터테인먼트 전문 기업 Screenburn Group이 생성형 AI(genAI)로 마이크로드라마 시리즈를 통째로 쓰는 AI 소프트웨어 The Writers Room을 내놨다. 작가가 이야기 구상을 넘기면 한 시즌 80편을 몇 시간 만에 모두 써 낸다. 각본으로 약 29,000단어 분량이다."
+        },
+        {
+          "t": "p",
+          "x": "작가가 넣는 건 제목과 한 줄 요약, 등장인물, 인물에 관한 몇 가지 질문의 답이다. The Writers Room은 100,000편이 넘는 세로형 시리즈 데이터에서 뽑아낸 규칙, 곧 시즌을 어떻게 열고 꺾고 맺을지에 관한 규칙에 맞춰 대본을 쓴다."
+        },
+        {
+          "t": "p",
+          "x": "다음은 Retention Engine 차례다. 첫 화를 어떻게 여는지, 각 화를 어떻게 끝맺는지, 시청자에게 새 정보를 얼마나 자주 주는지, 긴장이 어떻게 쌓이는지를 따져 모든 에피소드를 100점 만점으로 채점한다. 80점 이상이면 Screenburn Certified 마크가 붙는다. 이 방식으로 쓴 시즌 20개 이상이 지금 팔리고 있고 최고 점수는 97점이다."
+        },
+        {
+          "t": "p",
+          "x": "The Writers Room 이용료는 12개월 계약 기준 월 US$1,350이고 매달 한 시즌이 포함된다. 창업자이자 CEO인 Dr Charles Kriel은 “누구도 두어 시간 만에 이 쇼를 쓸 수는 없었다”며 “작가는 오후 한나절에 이야기를 구상하고, 누군가 제작에 한 푼이라도 쓰기 전에 점수까지 매겨진 시즌 전체를 손에 쥔다”고 말했다."
+        }
+      ]
+    },
+    "movies/zhao-liying-hongguo-lawsuit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.globaltimes.cn/Portals/0/attachment/2026/2026-11-12/085e211b-5d72-44f7-ae9e-b0b47769c971.jpeg",
+          "cap": "중국 배우 Zhao Liying Photo: VCG"
+        },
+        {
+          "t": "p",
+          "x": "중국 배우 Zhao Liying이 인기 숏드라마 플랫폼 Hongguo Short Drama의 운영사와 모회사 Douyin을 상대로 자기 초상을 무단으로 썼다며 소송을 냈다고 전해졌다. 유명인 얼굴과 목소리를 동의 없이 가져다 쓴 AI 생성(AI-generated) 콘텐츠가 이번 일로 다시 도마에 올랐다."
+        },
+        {
+          "t": "p",
+          "x": "Beijing(베이징)의 Mentougou District People's Court(먼터우거우구 인민법원)에 배정된 이 사건에서 원고는 Zhao, 피고는 Beijing Douyin Information Service Co Ltd, Beijing Bimo Liuxiang Technology, 성이 Shi인 개인이다. Weibo 사용자들이 올린 Hongguo의 AI 생성(AI-generated) 숏드라마 클립에는 Zhao를 닮은 얼굴의 인물이 나오고 목소리도 Zhao와 비슷한 AI 음성이다."
+        },
+        {
+          "t": "p",
+          "x": "Yi Yangqianxi, Yang Zi, Xiao Zhan, Deng Wei, Cheng Yi 등 다른 배우들도 비슷한 분쟁에 휘말렸다. Li Yunkai 변호사는 AI 이미지가 똑같은 복제물이어야만 침해가 되는 건 아니라며 관건은 대중이 그 인물을 알아보느냐라고 짚었다."
+        },
+        {
+          "t": "p",
+          "x": "국가광파전시총국(National Radio and Television Administration)은 11월 1일부터 12월 말까지 두 달 동안 '얼굴 도용'과 '목소리 도용'을 겨냥하고 AI 생성(AI-generated) 숏드라마 제작을 규제하는 캠페인에 들어갔다."
+        }
+      ]
+    },
+    "movies/manchester-animation-ai-policy": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/Manchester-Animation-Festival-2026-winners.png",
+          "cap": "Manchester Animation Festival 2026 최고상은 'In Waves'(위), 'When the Sea Was Calm'(왼쪽), 'A Little Death'에 돌아갔다."
+        },
+        {
+          "t": "p",
+          "x": "영국(U.K.)에서 Oscar와 BAFTA 출품 자격을 주는 유일한 애니메이션 영화제 Manchester Animation Festival(MAF)이 2026 Film Competition, Industry Excellence Awards, MAFter Dark 프로그램 수상작을 발표했다."
+        },
+        {
+          "t": "p",
+          "x": "MAF는 2027년부터 생성형 AI로 만든 영화를 더는 출품받지 않겠다고도 밝혔다. 애니메이션 업계에 획을 긋는 결정이다. 새 정책에는 인간의 창의성을 기리고 애니메이션의 중심에 있는 예술적 기량을 지키겠다는 영화제의 의지가 담겼다."
+        },
+        {
+          "t": "p",
+          "x": "영화제 디렉터 Steve Henderson은 “MAF 2027 출품 접수를 시작하면서, 애니메이션을 놀랍고도 인간적인 예술 형식으로 만드는 창작자들 곁에 서고 싶었다”며 “새로운 Gen AI 정책은 아티스트를 최우선에 둔다”고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "Feature Film Award는 Phuong Mai Nguyen 감독의 In Waves, Short Film Award는 Mamuka Tkeshelashvili 감독의 When the Sea Was Calm(Georgia), Best British Short Award는 Leto Meade와 Jonathan Rockefeller 감독의 A Little Death가 받았다. 11월 8-12일 열린 영화제에는 12,000명 가까운 관객이 몰렸다."
+        }
+      ]
+    },
+    "movies/seedance-25-flash-bytedance": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cms-image.pandaily.com/1/seedance_96adab67c5.png",
+          "cap": "AI-generated 개념 일러스트로, 발표된 제품이나 장소, 행사를 찍은 사진이 아니다."
+        },
+        {
+          "t": "p",
+          "x": "ByteDance의 클라우드 부문 Volcano Engine이 11월 12일 Seedance 2.5 Flash를 공개했다. Seedance 2.5 영상 생성 모델의 경량판이다. 회사는 Seedance 2.5보다 두 배 빠르게, 더 낮은 가격으로 영상을 생성한다고 밝혔다."
+        },
+        {
+          "t": "p",
+          "x": "720p text-to-video와 image-to-video 기준으로 Volcano Engine이 제시한 가격은 생성 영상 초당 약 0.99위안이며, Seedance 2.5보다 34%가량 낮다. flash 모델은 최대 30초 길이의 클립을 만들고, 이미지 최대 10장과 영상 클립 다섯 개, 오디오 클립 다섯 개를 참조로 받으며, 480p 또는 720p로 출력한다."
+        },
+        {
+          "t": "p",
+          "x": "1080p와 4K 제작에는 여전히 플래그십 Seedance 2.5가 쓰이고, flash 모델은 high-frequency 창작과 대량 콘텐츠 제작을 겨냥한다. 품질에 관한 주장은 회사 측 설명이며, 벤치마크 결과는 공개되지 않았다."
+        },
+        {
+          "t": "p",
+          "x": "Seedance 2.5 Flash는 Jimeng과 LibTV, Updream, Creao AI, TapNow 등 third-party 도구에 순차 적용되고 있다. API 접근은 11월 15일 Volcano Ark에서 열릴 예정이다."
+        }
+      ]
+    },
+    "movies/firefly-build-story-assemble": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.redsharknews.com/hubfs/adobe%20firefly%20video%20editor.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Adobe가 MAX 2026에서 Firefly에 베타 작업 공간 두 개를 더했다. 둘을 함께 쓰면 아이디어 단계부터 짧은 영상 완성까지 한 흐름으로 다룬다. Firefly 메뉴 Video 항목 아래의 Build a story는 프롬프트를 짜임새 있는 시각적 스토리로 바꾸고, Assemble short video는 클립을 늘어놓는 단순한 단일 트랙 작업 공간이다."
+        },
+        {
+          "t": "video",
+          "src": "https://images-tv.adobe.com/mpcv3/14067/3507880/202d88d5-1a16-4a96-82e9-e2705e0a963b/f0f56478-3475-461d-a2e2-30359e9a5ca7_1793918460.854x480at800_h264.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Firefly AI Assistant에 아이디어를 설명하면 어시스턴트가 목표 길이를 묻고 캐릭터·장소·사물·크리에이티브 방향 같은 세부 사항도 원하면 받는다. 그다음 룩과 사운드 방식, 장면·숏 수, 등장할 캐릭터·장소·사물을 제안하고 이를 요소로 저장해 숏끼리 일관성을 지킨다. 숏마다 비트 설명을 쓰고 첫 프레임도 만든다. 숏은 장면별로 묶인 카드로 뜬다. 클립은 카드마다 따로, 또는 Generate all로 한꺼번에 생성해 내려받거나 Timeline (beta)에서 열 수 있다. 다만 프레임을 생성한 뒤에는 해상도와 화면비를 바꿀 수 없다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.redsharknews.com/hs-fs/hubfs/adobe%20firefly%20video%20editor%20quick%20actions.jpg?width=1920&height=1080&name=adobe%20firefly%20video%20editor%20quick%20actions.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Assemble short video는 생성하거나 가져온 클립을 단일 트랙에서 다루는 가벼운 작업 공간이다. 클립을 자르고 나누고 순서를 바꾸는 것은 물론 볼륨 조절, 컷 감지, 화면비 변경까지 된다. 고른 클립은 텍스트 프롬프트로 다시 생성할 수 있는데, 이때 드는 생성 크레딧이 비용 표시로 함께 뜬다. 다시 만든 버전은 테이크로 쌓여 서로 비교할 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "두 도구 모두 베타이며 Creative Cloud for Teams나 Enterprise 사용자는 쓸 수 없다. Build a story는 데스크톱 Chrome과 Edge에서만 돌아간다. 클립도 직접 올릴 수 없고 Adobe 클라우드 스토리지의 생성 기록에서만 불러온다."
+        }
+      ]
     }
   }
 }

@@ -10010,6 +10010,159 @@
           "x": "旗舰模型仍为闭源，也没有公开API。ACE Studio与StepFun已经发布了开放的ACE-Step 1.5，开发者表示：“我们计划在2026年底开源ACE Music v1 Flash。”"
         }
       ]
+    },
+    "music/vocaloid7-editor-release": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://mmagimg.speedgabia.com/2026/11/img-1794535790699-7b915c66ecbc114b.webp",
+          "cap": "图片：Yamaha"
+        },
+        {
+          "t": "p",
+          "x": "Yamaha发布了歌声合成软件VOCALOID7 Editor。"
+        },
+        {
+          "t": "p",
+          "x": "VOCALOID7 Editor距2022年10月发布的VOCALOID6已有四年。它可在macOS和Windows上作为独立应用运行，也支持VST3、AU和ARA2格式，售价$129。"
+        },
+        {
+          "t": "p",
+          "x": "它采用第二代VOCALOID:AI，带来更自然、更具表现力的歌声。新增的Voice Type功能可在同一声库内改变声音特性，让用户选择适合歌曲的表现。不过，Voice Type仅适用于VOCALOID7专用声库。"
+        },
+        {
+          "t": "video",
+          "yt": "GJ92CbivkEY"
+        },
+        {
+          "t": "p",
+          "x": "与Cubase的整合也得到加强。音符和歌词可直接在Cubase的Key Editor中输入。Expression、Attack等旋钮通过Cubase中的专用控件操作。软件附带Cubase AI版本，并捆绑默认声库asa。"
+        },
+        {
+          "t": "p",
+          "x": "从VOCALOID3到VOCALOID6的所有声库都可继续在VOCALOID7 Editor中使用。面向VOCALOID3–6或VOCALOID Editor for Cubase系列用户的升级版原价$69，12月20日前特价$39。另提供31天试用版。"
+        },
+        {
+          "t": "p",
+          "x": "拥有声库的用户可免费使用功能受限的VOCALOID7 Editor Lite，Lite仅支持独立模式。"
+        }
+      ]
+    },
+    "music/mumuru-melon-ai-number1": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img2.yna.co.kr/etc/inner/KR/2026/11/13/AKR20261113157000005_01_i_P4.jpg",
+          "cap": "머무르《꿈꾸던 어른이 되었나요?》[Melon提供。禁止转售及收录DB]"
+        },
+        {
+          "t": "p",
+          "x": "一首在作曲和演唱中运用人工智能（AI）的歌曲，在K-pop史上首次登上韩国代表性音源平台Melon的“Top 100”榜单第1名。"
+        },
+        {
+          "t": "p",
+          "x": "据歌谣界13日消息，머무르的《꿈꾸던 어른이 되었나요?》当天下午5点在Melon“Top 100”榜单上超越RESCENE的新歌《With》登顶。这是该曲6月发行后约5个月取得的成绩。听众年龄层中30多岁最多，占36%，其次为40多岁（30%）、20多岁（19%）和50多岁（11%）。"
+        },
+        {
+          "t": "img",
+          "src": "https://img6.yna.co.kr/etc/inner/KR/2026/11/13/AKR20261113157000005_05_i_P4.jpg",
+          "cap": "Melon 13日下午5点“Top 100”榜单 [Melon截图。禁止转售及收录DB]"
+        },
+        {
+          "t": "p",
+          "x": "这首歌的人声并非真人，而是由生成式音乐AI Suno（SUNO）实现。머무르说明：“本专辑的人声是通过Suno AI技术生成的”，“策划、作词及整体制作方向由艺人머무르亲自完成”。并介绍说：“对我来说，AI是一种现代乐器，也是与我一起把想象变为现实的伙伴。”"
+        },
+        {
+          "t": "p",
+          "x": "这首AI辅助歌曲力压RESCENE（第2名）、A2O LIGHT（第3名）、ILLIT（第5名）等K-pop明星，夺得第1名。"
+        },
+        {
+          "t": "p",
+          "x": "大众音乐评论家정민재表示：“AI浪潮在大众音乐领域同样是意料之中的事”，“对音乐人和作曲家而言，AI辅助歌曲登上榜单第1名或许并不令人欣喜，但作为人类创作者，只能更加致力于创作出更高水准的音乐。”"
+        }
+      ]
+    },
+    "music/bpi-getty-offshore-training": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/2026/11/Getty-v-Stablity---1-.png",
+          "cap": "Getty v Stability"
+        },
+        {
+          "t": "p",
+          "x": "探讨AI公司版权义务的英国重大诉讼——Getty Images诉Stability AI案本周再度开庭，唱片行业组织BPI介入，支持这家视觉媒体公司。"
+        },
+        {
+          "t": "p",
+          "x": "此案目前在上诉法院（Court Of Appeal）审理，核心问题是：在US使用未经授权内容训练的AI模型在UK提供，是否构成UK法律下的版权侵权。伦敦高等法院（High Court）去年裁定不构成侵权，Getty正对此提起上诉。"
+        },
+        {
+          "t": "p",
+          "x": "BPI认为，这一法律解释若不受挑战，意味着AI公司可以在“离岸”训练模型以规避UK版权规则，再在UK市场将模型商业化，这可能对音乐及更广泛的创意产业造成“重大后果”。"
+        },
+        {
+          "t": "p",
+          "x": "BPI还强调，未来的诉讼未必取决于同样的论点，并援引GEMA在德国起诉Open AI和Suno的案件：法院裁定，由于“记忆”（memorisation），这些AI模型确实包含作品的副本。Getty上诉案的裁决预计将在今年年底或2027年初作出。"
+        }
+      ]
+    },
+    "music/radiomatic-venue-ai-music": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-25.png?fit=2000%2C1500&ssl=1",
+          "cap": "Radiomatic主页演示截图"
+        },
+        {
+          "t": "p",
+          "x": "近来，咖啡馆、酒吧等商家播放AI-generated音乐的传闻屡见不鲜。如今，一家专门提供此类服务的初创公司正式上线。"
+        },
+        {
+          "t": "p",
+          "x": "RadioMatic出自荷兰music-tech公司SmartLabel，为商家提供由AI-generated音乐组成的电台式频道，还附带促销内容、广告歌乃至本地新闻。"
+        }
+      ]
+    },
+    "music/sonura-flow-text-loops": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://musictech.com/wp-content/uploads/2026/11/Sonura-Flow-hero@2000x1500-1068x801.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Sonura Flow是一款全新的免费插件，制作人无需离开DAW，就能通过简单的文字提示生成循环、单次采样等新声音。"
+        },
+        {
+          "t": "p",
+          "x": "用户只需输入对所需声音的描述，并选择鼓、贝斯、旋律、铺底或人声等类别，即可生成循环、人声、单次采样和音效。"
+        },
+        {
+          "t": "p",
+          "x": "用户还可以设定所需的循环长度，插件会生成多个变体供挑选，再将选中的声音直接拖进音轨时间线。"
+        },
+        {
+          "t": "p",
+          "x": "免费方案每天可生成10段循环、20个单次采样和音效，以及最多四首完整曲目。该方案没有时间限制，也无需支付卡；付费方案则提供更高的生成额度。"
+        },
+        {
+          "t": "video",
+          "yt": "hTa_ysLlG9M"
+        },
+        {
+          "t": "p",
+          "x": "免费方案下制作的所有声音均以CC0许可证发布到公有领域，制作人可在自己的发行作品中使用，无需署名，也不受许可限制，这回应了外界对AI生成（AI-generated）音频权利的常见担忧。"
+        },
+        {
+          "t": "p",
+          "x": "Sonura Flow会与鼓机Sonura Kit一同安装，后者同样通过文字提示来构建套件和节奏型。制作人一次安装就能同时获得声音生成器和节拍制作工具。"
+        },
+        {
+          "t": "p",
+          "x": "Sonura Flow支持Apple Silicon和Intel Macs上的macOS 12及以上版本，以及64-bit Windows 10和11。"
+        }
+      ]
     }
   }
 }

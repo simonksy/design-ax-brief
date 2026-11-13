@@ -10852,6 +10852,127 @@
           "x": "CDPR表示未来不打算用该算法改变Rozenek的声音，Rozenek本人也确认他没有听过自己的AI分身。"
         }
       ]
+    },
+    "games/sony-qssr-ps5-rollout": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/ARC-Raiders-QSSR-HD-1920x1080.jpeg",
+          "cap": "Quick Spectral Super Resolution（QSSR）即将登陆六款PS5游戏，包括Spider-Man 2、CONTROL Resonant、ARC Raiders、The Finals、No Man's Sky和Hell Let Loose: Vietnam。"
+        },
+        {
+          "t": "p",
+          "x": "Sony今天宣布，六款PlayStation 5游戏已经或即将支持Quick Spectral Super Resolution（QSSR）。这是一款衍生自PS5 Pro的PSSR的轻量AI超分辨率技术，最初于10月发布。这些游戏是Marvel's Spider-Man 2、CONTROL Resonant、The Finals、ARC Raiders、No Man's Sky和Hell Let Loose: Vietnam。"
+        },
+        {
+          "t": "p",
+          "x": "Insomniac的Mike Fitzgerald表示，在Marvel's Wolverine中取得出色效果后，QSSR已通过“现已上线的更新”加入Marvel's Spider-Man 2。"
+        },
+        {
+          "t": "video",
+          "yt": "JYEQkLnlV7o"
+        },
+        {
+          "t": "p",
+          "x": "Remedy的Erik Jansson表示，在12月推出的更新中，QSSR将为Control Resonant带来“稳定得多、细节更丰富的画面”。Embark Studios称QSSR即将登陆ARC Raiders和The Finals；Hello Games的Sean Murray表示，玩家可在“未来几周内”于No Man's Sky中看到它；Expression Games也将通过即将推出的更新为Hell Let Loose: Vietnam加入该技术。"
+        }
+      ]
+    },
+    "games/games-ai-clone-ip-defense": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/pexels-icon0-1214270.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "cap": "图片来源：iconO com on Pexels"
+        },
+        {
+          "t": "p",
+          "x": "近几个月来，生成式AI在电子游戏开发中的使用大幅增加；2026年10月的Steam Next Fest展出了逾8,000款试玩版，其中许多部分或完全借助生成式AI工具制作。AI还助长了一波快速拼凑的未授权克隆、模组和移植版，一些开发者表示因担心被克隆而取消了公开试玩。Pryor Cashman的律师依据美国法律（US-law）给出了以下实用步骤："
+        },
+        {
+          "t": "p",
+          "x": "#1 确保保密：要求签署NDAs（保密协议），禁止分享、录制游戏素材或将其输入任何LLM或聊天机器人，并辅以水印和限时访问。#2 了解承包商和合作者对AI的使用情况，并制定相关政策。#3 在发行前向美国版权局（US Copyright Office）登记版权；及时登记可使故意侵权的法定赔偿最高达$150,000。#4 以意向使用（intent-to-use）为基础向USPTO申请注册商标，该流程目前约需10个月。#5 打造品牌，并抢注域名和社交媒体账号。#6 通过监测、下架通知以及必要时申请初步禁令来维护权利——迅速行动至关重要。"
+        },
+        {
+          "t": "p",
+          "x": "务实的目标是在首次公开亮相之前，备妥权利链（chain-of-title）文件、各项登记以及维权程序。"
+        }
+      ]
+    },
+    "games/xbox-sharma-genai-memo": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/asha-sharma-xbox-showcase-2026.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "cap": "图片来源：Eurogamer"
+        },
+        {
+          "t": "p",
+          "x": "Xbox负责人Asha Sharma在一份题为《25 years of Xbox》的备忘录中，暗示将在游戏制作中利用生成式AI的力量。Sharma感叹“太多创意从未成为游戏”，“太多游戏未能达到创作者的设想”。她写道：“几十年来，这一直是雄心无法回避的代价。”“我们必须改变这一点。”"
+        },
+        {
+          "t": "video",
+          "yt": "zCY0C8tTddM"
+        },
+        {
+          "t": "p",
+          "x": "“很快，一个人就能掌握曾经需要举国之力才具备的能力。一支小团队将能打造如今需要数百名开发者和数亿美元才能建成的世界。而我们最大的工作室将能追求远超当今游戏的雄心，其差距就如同Microsoft Flight Simulator 2024与其1982年的初代作品之间的距离。”"
+        },
+        {
+          "t": "p",
+          "x": "备忘录并未明确提及生成式AI，但措辞颇具暗示意味，且它紧随上月Xbox Labs计划的公布。拥有Microsoft AI背景的Sharma此前曾表示，她对“糟糕的AI零容忍”。Eurogamer已请Microsoft作出澄清。"
+        }
+      ]
+    },
+    "games/shadowkey-ngage-ai-revival": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/nag2arKf76CYq2aNFJVzpd-1920-80.jpg",
+          "cap": "（图片来源：Bethesda）"
+        },
+        {
+          "t": "p",
+          "x": "《The Elder Scrolls Travels: Shadowkey》最初发行于Nokia的N-Gage掌机，该机已于2005年停产。Dan Whelan的Shadowkey Reforged项目将让玩家以宽屏、手柄支持和升频画面来游玩这款游戏，并可选择经典或现代模式。现代模式还加入了后来Elder Scrolls正统作品中的功能，如基于耐力的冲刺、潜行和布娃娃物理。"
+        },
+        {
+          "t": "video",
+          "yt": "Ax-MqhRaP7w"
+        },
+        {
+          "t": "p",
+          "x": "Whelan在FAQ中写道：“我用AI辅助编写代码、构建引擎以及调试。大部分现代高分辨率美术资源，是我将AI图像生成与Photoshop及部分手工精灵图编辑结合起来制作的。”"
+        },
+        {
+          "t": "p",
+          "x": "Whelan计划于11月11日在Windows、Mac和Android上发布Shadowkey Reforged，不过你需要从自己的Nokia N-Gage中取得原版游戏文件。它还可以借用Morrowind的音乐和音效。"
+        }
+      ]
+    },
+    "games/gdc-state-industry-2026-genai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/state-of-the-game-industry-2026_SaCPvuv.png?width=1200&quality=85&format=jpg&auto=webp",
+          "cap": "GDC State of the Game Industry 2026"
+        },
+        {
+          "t": "p",
+          "x": "据游戏开发者大会（GDC）最新发布的《State of the Game Industry》报告，40%的开发者正在工作中使用生成式AI。这比上一份报告增加了4%，但调查项目负责人Beth Elderkin指出，这次的增幅小于上一次。"
+        },
+        {
+          "t": "p",
+          "x": "使用该技术的开发者中，57%将其用于文本生成、资料研究、早期原型设计、编程和演示文稿。生成式AI在商业运营与服务、纯移动端工作室以及免费游戏（free-to-play）开发者中最受欢迎。27%的AAA从业者感到被鼓励或被迫使用生成式AI；独立开发者中这一比例为9%。"
+        },
+        {
+          "t": "p",
+          "x": "55%的受访者表示AI正在对游戏产生负面影响，同比上升1%。Elderkin说：“我认为更多是因为人们现在已经了解这项技术，它已成为现实而非理论问题，所以他们知道自己想如何使用它，或者是否想用它。”"
+        },
+        {
+          "t": "p",
+          "x": "除AI之外，33%的受访者在过去24个月内遭遇裁员。PC仍以81%占据主导，Unreal和Unity分别为35%和28%，86%的开发者表示曾一周工作超过40小时。Elderkin表示，今年她看到了“很多韧性和对未来的希望”。"
+        }
+      ]
     }
   }
 }
