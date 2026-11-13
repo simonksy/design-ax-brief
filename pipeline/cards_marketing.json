@@ -1,627 +1,221 @@
 {
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "section": "marketing",
   "cards": [
     {
-      "id": "google-ads-editor-aimax-default",
+      "id": "chatgpt-wallet-dots-checkout",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Editor 2.14\nAI Max 기본 적용",
-      "body": "Editor 2.14의 새 Search 캠페인은 AI Max가 기본으로 켜진다.",
-      "mini_headline": "Editor 2.14, AI Max 기본값",
+      "headline": "ChatGPT Wallet\nDots가 대신 산다",
+      "body": "US Pro 이용자부터 Dots 에이전트가 매번 확인받고 대신 결제한다.",
+      "mini_headline": "ChatGPT Wallet, 에이전트 결제",
       "tool": "Marketing",
-      "source": "PPC Land",
-      "url": "https://ppc.land/google-ads-editor-2-14-turns-on-ai-max-by-default-for-new-search-campaigns/",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
       "accent": "#ff8a3d",
-      "motif": "frame",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://ppc.land/content/images/size/w2000/2026/11/google-ads-editor-2-14-ai-max-default-new-search-campaigns-prepunched-punch-cards-inspector.jpg",
-            "cap": "Google Ads Editor 2.14는 모든 새 Search 캠페인을 AI Max와 Final URL expansion이 켜진 상태로 시작한다"
-          },
-          {
-            "t": "p",
-            "x": "Google이 캠페인을 대량으로 다루는 무료 데스크톱 앱 Google Ads Editor의 2.14 버전을 내놓았다. 릴리스 노트에 따르면 \"새 Search 캠페인을 만들 때 AI Max, 텍스트 애셋 자동화, Final URL expansion이 이제 기본으로 활성화된다.\" 노트에 게시 날짜는 없다. Search Engine Roundtable은 2026년 11월 12일 이 릴리스를 보도하며 새 기능을 10개로 집계했다."
-          },
-          {
-            "t": "p",
-            "x": "AI Max는 검색어 매칭, 텍스트 맞춤화, Final URL expansion을 묶은 기능이다. 텍스트 맞춤화는 랜딩 페이지와 기존 광고, 키워드를 참고해 광고 제목과 설명을 쓰고, Final URL expansion은 사용자를 같은 도메인의 다른 페이지로 보내기도 한다. Final URL expansion은 텍스트 맞춤화를 켜야만 쓸 수 있다. 이 기능을 켜면 고정해 둔 광고 제목도 지켜지지 않는다."
-          },
-          {
-            "t": "p",
-            "x": "Google은 2026년 9월 기존 확장 검색 캠페인과 자동 생성 애셋 캠페인을 AI Max로 옮기면서 두 그룹 모두 Final URL expansion을 꺼 두었다. Editor 2.14의 새 Search 캠페인은 반대로 이 기능을 켠 채 시작한다."
-          },
-          {
-            "t": "p",
-            "x": "이번 릴리스부터 Editor에서 계정 단위의 신규 고객 확보·유지 설정을 고칠 수 있다. 채널 우선순위 지정과 예산 한도가 새로 들어갔고, Shopping 캠페인에서 지역 인벤토리 광고를 끄는 옵션은 빠졌다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Google Ads Editor 2.14 turns\nAI Max on by default",
-          "body": "New Search campaigns built in Editor 2.14 now start with AI Max, text automation and Final URL expansion switched on.",
-          "mini_headline": "Editor 2.14 defaults to AI Max",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/google-ads-editor-2-14-ai-max-default-new-search-campaigns-prepunched-punch-cards-inspector.jpg",
-                "cap": "Google Ads Editor 2.14 starts every new Search campaign with AI Max and Final URL expansion on"
-              },
-              {
-                "t": "p",
-                "x": "Google has released version 2.14 of Google Ads Editor, its free desktop application for bulk campaign work. According to the release notes, \"AI Max, text asset automation, and Final URL expansion are now activated by default when creating new Search campaigns.\" The notes carry no publication date; Search Engine Roundtable reported the release on November 12, 2026, and counted 10 new features."
-              },
-              {
-                "t": "p",
-                "x": "AI Max combines search term matching, text customization, which writes headlines and descriptions from landing pages, existing ads and keywords, and Final URL expansion, which can send a user to a different page on the same domain. Final URL expansion is not available without text customization, and when it is enabled, pinned headlines are not respected."
-              },
-              {
-                "t": "p",
-                "x": "When Google migrated older broad match and automatically created assets campaigns into AI Max in September 2026, it left Final URL expansion off for both groups. In Editor 2.14, a new Search campaign starts with it on."
-              },
-              {
-                "t": "p",
-                "x": "The release also lets Editor edit account-level new customer acquisition and retention settings, adds channel prioritization and budget caps, and removes the option to turn off local inventory ads in Shopping campaigns."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Editor 2.14\nAI Max 기본 적용",
-          "body": "Editor 2.14의 새 Search 캠페인은 AI Max가 기본으로 켜진다.",
-          "mini_headline": "Editor 2.14, AI Max 기본값",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/google-ads-editor-2-14-ai-max-default-new-search-campaigns-prepunched-punch-cards-inspector.jpg",
-                "cap": "Google Ads Editor 2.14는 모든 새 Search 캠페인을 AI Max와 Final URL expansion이 켜진 상태로 시작한다"
-              },
-              {
-                "t": "p",
-                "x": "Google이 캠페인을 대량으로 다루는 무료 데스크톱 앱 Google Ads Editor의 2.14 버전을 내놓았다. 릴리스 노트에 따르면 \"새 Search 캠페인을 만들 때 AI Max, 텍스트 애셋 자동화, Final URL expansion이 이제 기본으로 활성화된다.\" 노트에 게시 날짜는 없다. Search Engine Roundtable은 2026년 11월 12일 이 릴리스를 보도하며 새 기능을 10개로 집계했다."
-              },
-              {
-                "t": "p",
-                "x": "AI Max는 검색어 매칭, 텍스트 맞춤화, Final URL expansion을 묶은 기능이다. 텍스트 맞춤화는 랜딩 페이지와 기존 광고, 키워드를 참고해 광고 제목과 설명을 쓰고, Final URL expansion은 사용자를 같은 도메인의 다른 페이지로 보내기도 한다. Final URL expansion은 텍스트 맞춤화를 켜야만 쓸 수 있다. 이 기능을 켜면 고정해 둔 광고 제목도 지켜지지 않는다."
-              },
-              {
-                "t": "p",
-                "x": "Google은 2026년 9월 기존 확장 검색 캠페인과 자동 생성 애셋 캠페인을 AI Max로 옮기면서 두 그룹 모두 Final URL expansion을 꺼 두었다. Editor 2.14의 새 Search 캠페인은 반대로 이 기능을 켠 채 시작한다."
-              },
-              {
-                "t": "p",
-                "x": "이번 릴리스부터 Editor에서 계정 단위의 신규 고객 확보·유지 설정을 고칠 수 있다. 채널 우선순위 지정과 예산 한도가 새로 들어갔고, Shopping 캠페인에서 지역 인벤토리 광고를 끄는 옵션은 빠졌다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Editor 2.14\nAI Maxが既定に",
-          "body": "Editor 2.14の新規Searchキャンペーンは、AI Maxが既定でオンだ。",
-          "mini_headline": "Editor 2.14、AI Maxを既定に",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/google-ads-editor-2-14-ai-max-default-new-search-campaigns-prepunched-punch-cards-inspector.jpg",
-                "cap": "Google Ads Editor 2.14では、新規SearchキャンペーンがすべてAI MaxとFinal URL expansionをオンにした状態で始まる"
-              },
-              {
-                "t": "p",
-                "x": "GoogleはGoogle Ads Editorのバージョン2.14をリリースした。キャンペーンを一括で扱うための無料デスクトップアプリケーションだ。リリースノートによると「新規Searchキャンペーンの作成時に、AI Max、テキストアセットの自動化、Final URL expansionが既定で有効になる」。ノートに公開日の記載はない。Search Engine Roundtableは2026年11月12日にこのリリースを報じ、新機能を10件と数えた。"
-              },
-              {
-                "t": "p",
-                "x": "AI Maxは、検索語句のマッチング、テキストのカスタマイズ、Final URL expansionを組み合わせたものだ。テキストのカスタマイズはランディングページや既存の広告、キーワードから広告見出しと説明文を作成し、Final URL expansionはユーザーを同じドメイン内の別ページへ送ることがある。Final URL expansionはテキストのカスタマイズなしでは使えず、有効にすると固定した広告見出しは守られない。"
-              },
-              {
-                "t": "p",
-                "x": "Googleは2026年9月、旧来の部分一致キャンペーンと自動作成アセットのキャンペーンをAI Maxへ移行した際、両グループともFinal URL expansionをオフのままにした。Editor 2.14では、新規Searchキャンペーンがこの機能をオンにした状態で始まる。"
-              },
-              {
-                "t": "p",
-                "x": "今回のリリースでは、Editorでアカウント単位の新規顧客の獲得と維持の設定を編集できるようになり、チャネルの優先順位付けと予算上限が加わったほか、Shoppingキャンペーンでローカル在庫広告をオフにするオプションが削除された。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Editor 2.14\n默认开启AI Max",
-          "body": "在Editor 2.14中新建的Search广告系列，默认开启AI Max与文本自动化。",
-          "mini_headline": "Editor 2.14默认启用AI Max",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/google-ads-editor-2-14-ai-max-default-new-search-campaigns-prepunched-punch-cards-inspector.jpg",
-                "cap": "Google Ads Editor 2.14让每个新建的Search广告系列都开启AI Max和Final URL expansion"
-              },
-              {
-                "t": "p",
-                "x": "Google发布了Google Ads Editor 2.14版，这是一款用于批量处理广告系列的免费桌面应用。据版本说明，“新建Search广告系列时，AI Max、文本素材自动化和Final URL expansion现已默认启用。”说明未注明发布日期；Search Engine Roundtable于2026年11月12日报道了这一版本，并统计出10项新功能。"
-              },
-              {
-                "t": "p",
-                "x": "AI Max整合了搜索字词匹配、文本自定义和Final URL expansion。文本自定义会根据着陆页、现有广告和关键字撰写标题与描述，Final URL expansion则可能把用户引向同一域名下的其他页面。没有文本自定义就无法使用Final URL expansion，而启用后，固定的标题不会被遵守。"
-              },
-              {
-                "t": "p",
-                "x": "2026年9月，Google将旧的广泛匹配广告系列和自动生成素材广告系列迁移到AI Max时，两组都关闭了Final URL expansion。在Editor 2.14中，新建的Search广告系列则默认开启该功能。"
-              },
-              {
-                "t": "p",
-                "x": "此次版本还让Editor可以编辑账号级的新客户获取与留存设置，新增了渠道优先级和预算上限，并移除了在Shopping广告系列中关闭本地商品目录广告的选项。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Google Ads Editor 2.14 activa\nAI Max por defecto",
-          "body": "Las nuevas campañas de Search en Editor 2.14 arrancan con AI Max, automatización de texto y Final URL expansion.",
-          "mini_headline": "Editor 2.14 activa AI Max por defecto",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/google-ads-editor-2-14-ai-max-default-new-search-campaigns-prepunched-punch-cards-inspector.jpg",
-                "cap": "Google Ads Editor 2.14 inicia cada nueva campaña de Search con AI Max y Final URL expansion activados"
-              },
-              {
-                "t": "p",
-                "x": "Google ha lanzado la versión 2.14 de Google Ads Editor, su aplicación de escritorio gratuita para gestionar campañas de forma masiva. Según las notas de la versión, \"AI Max, la automatización de recursos de texto y Final URL expansion ahora se activan de forma predeterminada al crear nuevas campañas de Search\". Las notas no tienen fecha de publicación; Search Engine Roundtable informó del lanzamiento el 12 de noviembre de 2026 y contó 10 funciones nuevas."
-              },
-              {
-                "t": "p",
-                "x": "AI Max combina la concordancia de términos de búsqueda, la personalización de texto, que redacta títulos y descripciones a partir de páginas de destino, anuncios existentes y palabras clave, y Final URL expansion, que puede enviar al usuario a otra página del mismo dominio. Final URL expansion no está disponible sin la personalización de texto y, cuando está activada, no se respetan los títulos fijados."
-              },
-              {
-                "t": "p",
-                "x": "Cuando Google migró a AI Max, en septiembre de 2026, las antiguas campañas de concordancia amplia y de recursos creados automáticamente, dejó Final URL expansion desactivada en ambos grupos. En Editor 2.14, una nueva campaña de Search empieza con esa función activada."
-              },
-              {
-                "t": "p",
-                "x": "La versión también permite editar en Editor la configuración de adquisición y retención de nuevos clientes a nivel de cuenta, añade la priorización de canales y los límites de presupuesto, y elimina la opción de desactivar los anuncios de inventario local en las campañas de Shopping."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Editor 2.14\nAI Max 기본 적용",
-          "body": "Editor 2.14의 새 Search 캠페인은 AI Max가 기본으로 켜진다.",
-          "mini_headline": "Editor 2.14, AI Max 기본값",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/google-ads-editor-2-14-ai-max-default-new-search-campaigns-prepunched-punch-cards-inspector.jpg",
-                "cap": "Google Ads Editor 2.14는 모든 새 Search 캠페인을 AI Max와 Final URL expansion이 켜진 상태로 시작한다"
-              },
-              {
-                "t": "p",
-                "x": "Google이 대량 캠페인 작업용 무료 데스크톱 애플리케이션 Google Ads Editor의 2.14 버전을 내놓았다. 릴리스 노트에 따르면 \"새 Search 캠페인을 만들 때 AI Max, 텍스트 애셋 자동화, Final URL expansion이 이제 기본으로 활성화된다.\" 노트에는 게시 날짜가 없다. Search Engine Roundtable은 2026년 11월 12일 이 릴리스를 보도하며 새 기능을 10개로 집계했다."
-              },
-              {
-                "t": "p",
-                "x": "AI Max는 검색어 매칭, 텍스트 맞춤화, Final URL expansion을 묶은 기능이다. 텍스트 맞춤화는 랜딩 페이지와 기존 광고, 키워드를 바탕으로 광고 제목과 설명을 작성하고, Final URL expansion은 사용자를 같은 도메인의 다른 페이지로 보낼 수 있다. Final URL expansion은 텍스트 맞춤화 없이는 쓸 수 없으며, 이 기능을 켜면 고정해 둔 광고 제목이 지켜지지 않는다."
-              },
-              {
-                "t": "p",
-                "x": "Google은 2026년 9월 기존 확장 검색 캠페인과 자동 생성 애셋 캠페인을 AI Max로 옮기면서 두 그룹 모두 Final URL expansion을 꺼 두었다. Editor 2.14에서는 새 Search 캠페인이 이 기능을 켠 채 시작한다."
-              },
-              {
-                "t": "p",
-                "x": "이번 릴리스로 Editor에서 계정 수준의 신규 고객 확보 및 유지 설정을 편집할 수 있게 됐고, 채널 우선순위 지정과 예산 한도가 추가됐으며, Shopping 캠페인에서 지역 인벤토리 광고를 끄는 옵션은 사라졌다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Editor 2.14\nAI Maxが既定に",
-          "body": "Editor 2.14の新規Searchキャンペーンは、AI Maxが既定でオンだ。",
-          "mini_headline": "Editor 2.14、AI Maxを既定に",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/google-ads-editor-2-14-ai-max-default-new-search-campaigns-prepunched-punch-cards-inspector.jpg",
-                "cap": "Google Ads Editor 2.14では、新規SearchキャンペーンがすべてAI MaxとFinal URL expansionをオンにした状態で始まる"
-              },
-              {
-                "t": "p",
-                "x": "GoogleはGoogle Ads Editorのバージョン2.14をリリースした。キャンペーンを一括で扱うための無料デスクトップアプリケーションだ。リリースノートによると「新規Searchキャンペーンの作成時に、AI Max、テキストアセットの自動化、Final URL expansionが既定で有効になる」。ノートに公開日の記載はない。Search Engine Roundtableは2026年11月12日にこのリリースを報じ、新機能を10件と数えた。"
-              },
-              {
-                "t": "p",
-                "x": "AI Maxは、検索語句のマッチング、テキストのカスタマイズ、Final URL expansionを組み合わせたものだ。テキストのカスタマイズはランディングページや既存の広告、キーワードから広告見出しと説明文を作成し、Final URL expansionはユーザーを同じドメイン内の別ページへ送ることがある。Final URL expansionはテキストのカスタマイズなしでは使えず、有効にすると固定した広告見出しは守られない。"
-              },
-              {
-                "t": "p",
-                "x": "Googleは2026年9月、旧来の部分一致キャンペーンと自動作成アセットのキャンペーンをAI Maxへ移行した際、両グループともFinal URL expansionをオフのままにした。Editor 2.14では、新規Searchキャンペーンがこの機能をオンにした状態で始まる。"
-              },
-              {
-                "t": "p",
-                "x": "今回のリリースでは、Editorでアカウント単位の新規顧客の獲得と維持の設定を編集できるようになり、チャネルの優先順位付けと予算上限が加わったほか、Shoppingキャンペーンでローカル在庫広告をオフにするオプションが削除された。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Editor 2.14\n默认开启AI Max",
-          "body": "在Editor 2.14中新建的Search广告系列，默认开启AI Max与文本自动化。",
-          "mini_headline": "Editor 2.14默认启用AI Max",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/google-ads-editor-2-14-ai-max-default-new-search-campaigns-prepunched-punch-cards-inspector.jpg",
-                "cap": "Google Ads Editor 2.14让每个新建的Search广告系列都开启AI Max和Final URL expansion"
-              },
-              {
-                "t": "p",
-                "x": "Google发布了Google Ads Editor 2.14版，这是一款用于批量处理广告系列的免费桌面应用。据版本说明，“新建Search广告系列时，AI Max、文本素材自动化和Final URL expansion现已默认启用。”说明未注明发布日期；Search Engine Roundtable于2026年11月12日报道了这一版本，并统计出10项新功能。"
-              },
-              {
-                "t": "p",
-                "x": "AI Max整合了搜索字词匹配、文本自定义和Final URL expansion。文本自定义会根据着陆页、现有广告和关键字撰写标题与描述，Final URL expansion则可能把用户引向同一域名下的其他页面。没有文本自定义就无法使用Final URL expansion，而启用后，固定的标题不会被遵守。"
-              },
-              {
-                "t": "p",
-                "x": "2026年9月，Google将旧的广泛匹配广告系列和自动生成素材广告系列迁移到AI Max时，两组都关闭了Final URL expansion。在Editor 2.14中，新建的Search广告系列则默认开启该功能。"
-              },
-              {
-                "t": "p",
-                "x": "此次版本还让Editor可以编辑账号级的新客户获取与留存设置，新增了渠道优先级和预算上限，并移除了在Shopping广告系列中关闭本地商品目录广告的选项。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Google Ads Editor 2.14 activa\nAI Max por defecto",
-          "body": "Las nuevas campañas de Search en Editor 2.14 arrancan con AI Max, automatización de texto y Final URL expansion.",
-          "mini_headline": "Editor 2.14 activa AI Max por defecto",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/google-ads-editor-2-14-ai-max-default-new-search-campaigns-prepunched-punch-cards-inspector.jpg",
-                "cap": "Google Ads Editor 2.14 inicia cada nueva campaña de Search con AI Max y Final URL expansion activados"
-              },
-              {
-                "t": "p",
-                "x": "Google ha lanzado la versión 2.14 de Google Ads Editor, su aplicación de escritorio gratuita para gestionar campañas de forma masiva. Según las notas de la versión, \"AI Max, la automatización de recursos de texto y Final URL expansion ahora se activan de forma predeterminada al crear nuevas campañas de Search\". Las notas no tienen fecha de publicación; Search Engine Roundtable informó del lanzamiento el 12 de noviembre de 2026 y contó 10 funciones nuevas."
-              },
-              {
-                "t": "p",
-                "x": "AI Max combina la concordancia de términos de búsqueda, la personalización de texto, que redacta títulos y descripciones a partir de páginas de destino, anuncios existentes y palabras clave, y Final URL expansion, que puede enviar al usuario a otra página del mismo dominio. Final URL expansion no está disponible sin la personalización de texto y, cuando está activada, no se respetan los títulos fijados."
-              },
-              {
-                "t": "p",
-                "x": "Cuando Google migró a AI Max, en septiembre de 2026, las antiguas campañas de concordancia amplia y de recursos creados automáticamente, dejó Final URL expansion desactivada en ambos grupos. En Editor 2.14, una nueva campaña de Search empieza con esa función activada."
-              },
-              {
-                "t": "p",
-                "x": "La versión también permite editar en Editor la configuración de adquisición y retención de nuevos clientes a nivel de cuenta, añade la priorización de canales y los límites de presupuesto, y elimina la opción de desactivar los anuncios de inventario local en las campañas de Shopping."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "google-ads-ai-public-figure-ban",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Google Ads\nAI 공인 사칭 금지",
-      "body": "AI로 공인을 사칭한 광고는 AI임을 밝혀도 금지된다고 Google이 밝혔다.",
-      "mini_headline": "AI 공인 광고 금지",
-      "tool": "Marketing",
-      "source": "Search Engine Roundtable",
-      "url": "https://www.seroundtable.com/google-ads-disallows-impersonate-public-figures-ai-42512.html",
-      "accent": "#0070f3",
       "motif": "frame",
       "full": {
         "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://images.seroundtable.com/google-ads-logo-mirror-wCJesbMh.jpg",
-            "cap": "Google Ads 로고 미러"
+            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
           },
           {
             "t": "p",
-            "x": "Google Ads가 unacceptable Business Practices 정책을 손봐, AI로 공인을 사칭하면 AI로 생성하거나 편집했다고 밝혀도 허용하지 않는다는 점을 분명히 했다. AI 사용 자체는 괜찮고 쓸 때 그 사실을 밝히면 되지만, 이 경우만은 예외다."
+            "x": "OpenAI가 올해 초 Dots AI 에이전트 플랫폼에 이어 에이전트용 지갑을 내놓는다. ChatGPT Wallet은 오늘부터 미국(US)에 사는 18세 이상 ChatGPT Pro 구독자 가운데 US 청구지 주소와 “자격 요건을 갖춘 US-issued American Express, Chase, Mastercard, Visa 카드”를 쓰는 이용자에게 차례로 열린다."
           },
           {
             "t": "p",
-            "x": "Google이 덧붙인 메모는 이렇다. \"참고: AI로 공인을 사칭하는 광고는 AI로 생성하거나 편집했다고 밝히더라도 허용되지 않습니다.\""
-          },
-          {
-            "t": "p",
-            "x": "추가된 문장을 빨간색으로 표시한 스크린샷이다."
+            "x": "지갑에 카드를 넣어 두면 Dots 에이전트가 프롬프트대로 그 카드로 물건을 사는데, 결제 전에는 매번 이용자 확인을 거친다. OpenAI 지원 페이지를 보면 ChatGPT Wallet으로 하는 모든 구매는 Face ID나 지문 스캔 같은 생체 인증 보안 확인을 거쳐야 한다."
           },
           {
             "t": "img",
-            "src": "https://images.seroundtable.com/google-doc-change-hAyqlNeM.png",
-            "cap": "Google 문서 변경 사항"
+            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/openai-chatgpt-wallet-approval-pop-up.jpeg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "cap": "ChatGPT Wallet의 모든 구매는 이용자가 승인해야 한다."
           },
           {
             "t": "p",
-            "x": "Google의 Unacceptable Business Practices 정책은 AI로 공인을 사칭하는 광고를 금지한다. 광고에 해당 콘텐츠를 AI로 생성하거나 편집했다고 밝혀 두어도 마찬가지다."
+            "x": "OpenAI 설명으로는 이용자가 AI 에이전트의 구매 내역을 검토하고 승인하면 탭 결제나 Apple Pay, Google Wallet처럼 신용카드 정보가 결제 토큰으로 바뀐다. 실제 카드 정보는 Dots 에이전트에도, 구매처 업체에도 넘어가지 않는다. OpenAI는 궁극적으로 “이용자가 지출 한도, 구매 카테고리, 기간 같은 명확한 조건을 정해 구매를 에이전트에게 전적으로 맡기고, 그 구매를 미리 승인할 수 있을 것”으로 기대한다고 밝혔다."
           },
           {
             "t": "p",
-            "x": "Google은 이렇게 썼다. \"Google은 Public-figure impersonation(공인 사칭)에 관한 Unacceptable Business Practices 정책을 업데이트해, AI로 공인을 사칭하는 광고는 AI로 생성하거나 편집했다고 밝히더라도 허용되지 않는다는 점을 명확히 했습니다. 이번 설명은 광고주의 정책 이해를 돕기 위한 것이며 정책 집행 방식을 바꾸지 않습니다.\""
-          },
-          {
-            "t": "p",
-            "x": "그러니 이런 엄청난 광고는 이제 그만 내보내야 한다."
-          },
-          {
-            "t": "img",
-            "src": "https://images.seroundtable.com/ai-ad-atmEYoSV.jpg",
-            "cap": "AI 광고"
+            "x": "ChatGPT Wallet이 어디서나 통하지는 않을 수 있다. 일부 소매업체가 AI 에이전트 이용을 제한하거나 아예 막고 있어서다. Amazon도 올해 초 Meta의 Muse 에이전트를 차단했다. OpenAI는 에이전트가 ChatGPT Wallet을 쓰려면 “웹사이트는 에이전트가 의도치 않게 차단되지 않도록 해야 하고, 결제·리스크 시스템은 에이전트가 한 정당한 구매를 알아봐야 한다”고 했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Google Ads bars AI impersonation\nof public figures",
-          "body": "Ads that use AI to impersonate public figures are not allowed even when they disclose the AI, Google clarified.",
-          "mini_headline": "No AI public-figure ads",
+          "headline": "ChatGPT Wallet lets Dots\nagents buy on your behalf",
+          "body": "OpenAI's ChatGPT Wallet lets Dots agents make purchases with a check-in before each one, starting with US Pro users.",
+          "mini_headline": "ChatGPT Wallet lets agents buy",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-logo-mirror-wCJesbMh.jpg",
-                "cap": "Google Ads Logo Mirror"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
               },
               {
                 "t": "p",
-                "x": "Google Ads clarified in its unacceptable Business Practices policy that impersonating public figures using AI isn’t allowed, even if they disclose that they were generated or edited using AI. Yes, you can use AI but not in this case and when you use AI, you should disclose it."
+                "x": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and “eligible US-issued American Express, Chase, Mastercard and Visa cards.”"
               },
               {
                 "t": "p",
-                "x": "Google added this note: \"Note: Ads that impersonate public figures using AI aren’t allowed, even if they disclose that they were generated or edited using AI.\""
-              },
-              {
-                "t": "p",
-                "x": "Here is a screenshot of what was added, highlighted in red:"
+                "x": "After adding a card to the wallet, your Dots agents can use it to buy things in response to your prompts, but they’ll check in with you each time before checking out. OpenAI’s support page says every purchase with ChatGPT Wallet requires a security check with biometric verification like Face ID or a fingerprint scan."
               },
               {
                 "t": "img",
-                "src": "https://images.seroundtable.com/google-doc-change-hAyqlNeM.png",
-                "cap": "Google Doc Change"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/openai-chatgpt-wallet-approval-pop-up.jpeg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+                "cap": "Users have to approve every purchase from ChatGPT Wallet."
               },
               {
                 "t": "p",
-                "x": "Google's Unacceptable Business Practices policy prohibits ads that use AI to impersonate public figures. This rule applies even if the ad discloses that the content was generated or edited using AI."
+                "x": "After you review the AI agent’s purchase and sign off on it, OpenAI says that, similar to using tap to pay, Apple Pay, or Google Wallet, it substitutes your credit card details with a payment token, so your actual card info isn’t shared with your Dots agent or the business you’re buying from. Eventually, OpenAI says it expects “users to be able to delegate purchases entirely to their agent by setting clear parameters—such as spending limits, purchase categories, or time periods—and pre-approve those purchases.”"
               },
               {
                 "t": "p",
-                "x": "Google wrote: \"Google updated its Unacceptable Business Practices policy on Public-figure impersonation to clarify that ads that impersonate public figures using AI are not allowed, even if they disclose that they were generated or edited using AI. This clarification is meant to help advertisers understand the policy and does not change the enforcement of the policy.\""
-              },
-              {
-                "t": "p",
-                "x": "So stop using this whale of an ad:"
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/ai-ad-atmEYoSV.jpg",
-                "cap": "Ai Ad"
+                "x": "ChatGPT Wallet might not work everywhere. Some retailers have restrictions on AI agents or block them altogether. Earlier this year, Amazon blocked Meta’s Muse agents. OpenAI says that in order for agents to use ChatGPT Wallet, “websites need to ensure agents are not inadvertently blocked, and payment and risk systems need to recognize legitimate purchases made by agents.”"
               }
             ]
           }
         },
         "ko": {
-          "headline": "Google Ads\nAI 공인 사칭 금지",
-          "body": "AI로 공인을 사칭한 광고는 AI임을 밝혀도 금지된다고 Google이 밝혔다.",
-          "mini_headline": "AI 공인 광고 금지",
+          "headline": "ChatGPT Wallet\nDots가 대신 산다",
+          "body": "US Pro 이용자부터 Dots 에이전트가 매번 확인받고 대신 결제한다.",
+          "mini_headline": "ChatGPT Wallet, 에이전트 결제",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-logo-mirror-wCJesbMh.jpg",
-                "cap": "Google Ads 로고 미러"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
               },
               {
                 "t": "p",
-                "x": "Google Ads가 unacceptable Business Practices 정책을 손봐, AI로 공인을 사칭하면 AI로 생성하거나 편집했다고 밝혀도 허용하지 않는다는 점을 분명히 했다. AI 사용 자체는 괜찮고 쓸 때 그 사실을 밝히면 되지만, 이 경우만은 예외다."
+                "x": "OpenAI가 올해 초 Dots AI 에이전트 플랫폼에 이어 에이전트용 지갑을 내놓는다. ChatGPT Wallet은 오늘부터 미국(US)에 사는 18세 이상 ChatGPT Pro 구독자 가운데 US 청구지 주소와 “자격 요건을 갖춘 US-issued American Express, Chase, Mastercard, Visa 카드”를 쓰는 이용자에게 차례로 열린다."
               },
               {
                 "t": "p",
-                "x": "Google이 덧붙인 메모는 이렇다. \"참고: AI로 공인을 사칭하는 광고는 AI로 생성하거나 편집했다고 밝히더라도 허용되지 않습니다.\""
-              },
-              {
-                "t": "p",
-                "x": "추가된 문장을 빨간색으로 표시한 스크린샷이다."
+                "x": "지갑에 카드를 넣어 두면 Dots 에이전트가 프롬프트대로 그 카드로 물건을 사는데, 결제 전에는 매번 이용자 확인을 거친다. OpenAI 지원 페이지를 보면 ChatGPT Wallet으로 하는 모든 구매는 Face ID나 지문 스캔 같은 생체 인증 보안 확인을 거쳐야 한다."
               },
               {
                 "t": "img",
-                "src": "https://images.seroundtable.com/google-doc-change-hAyqlNeM.png",
-                "cap": "Google 문서 변경 사항"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/openai-chatgpt-wallet-approval-pop-up.jpeg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+                "cap": "ChatGPT Wallet의 모든 구매는 이용자가 승인해야 한다."
               },
               {
                 "t": "p",
-                "x": "Google의 Unacceptable Business Practices 정책은 AI로 공인을 사칭하는 광고를 금지한다. 광고에 해당 콘텐츠를 AI로 생성하거나 편집했다고 밝혀 두어도 마찬가지다."
+                "x": "OpenAI 설명으로는 이용자가 AI 에이전트의 구매 내역을 검토하고 승인하면 탭 결제나 Apple Pay, Google Wallet처럼 신용카드 정보가 결제 토큰으로 바뀐다. 실제 카드 정보는 Dots 에이전트에도, 구매처 업체에도 넘어가지 않는다. OpenAI는 궁극적으로 “이용자가 지출 한도, 구매 카테고리, 기간 같은 명확한 조건을 정해 구매를 에이전트에게 전적으로 맡기고, 그 구매를 미리 승인할 수 있을 것”으로 기대한다고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "Google은 이렇게 썼다. \"Google은 Public-figure impersonation(공인 사칭)에 관한 Unacceptable Business Practices 정책을 업데이트해, AI로 공인을 사칭하는 광고는 AI로 생성하거나 편집했다고 밝히더라도 허용되지 않는다는 점을 명확히 했습니다. 이번 설명은 광고주의 정책 이해를 돕기 위한 것이며 정책 집행 방식을 바꾸지 않습니다.\""
-              },
-              {
-                "t": "p",
-                "x": "그러니 이런 엄청난 광고는 이제 그만 내보내야 한다."
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/ai-ad-atmEYoSV.jpg",
-                "cap": "AI 광고"
+                "x": "ChatGPT Wallet이 어디서나 통하지는 않을 수 있다. 일부 소매업체가 AI 에이전트 이용을 제한하거나 아예 막고 있어서다. Amazon도 올해 초 Meta의 Muse 에이전트를 차단했다. OpenAI는 에이전트가 ChatGPT Wallet을 쓰려면 “웹사이트는 에이전트가 의도치 않게 차단되지 않도록 해야 하고, 결제·리스크 시스템은 에이전트가 한 정당한 구매를 알아봐야 한다”고 했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Google Ads\nAIで公人なりすまし禁止",
-          "body": "AIで公人になりすます広告は、AI使用を明示しても認めないとGoogleが明確にした。",
-          "mini_headline": "AIで公人を装う広告は禁止",
+          "headline": "ChatGPT Wallet\nDotsが代わりに購入",
+          "body": "US Pro利用者から、Dotsエージェントが毎回確認を経て代理購入する。",
+          "mini_headline": "ChatGPT Wallet、エージェントが購入",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-logo-mirror-wCJesbMh.jpg",
-                "cap": "Google Adsのロゴ（ミラー）"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
               },
               {
                 "t": "p",
-                "x": "Google Adsは、unacceptable Business Practicesポリシーにおいて、AIを使った公人へのなりすましは、AIで生成または編集したことを開示していても認められないと明確にした。AIを使うこと自体は構わないが、このケースは別であり、AIを使う場合は開示すべきだ。"
+                "x": "OpenAIは今年初めにDots AIエージェントプラットフォームを立ち上げたのに続き、エージェント向けのウォレットを投入する。ChatGPT Walletは本日から、米国（US）の18歳以上のChatGPT Pro加入者のうち、USの請求先住所と「対象となるUS-issuedのAmerican Express、Chase、Mastercard、Visaカード」を使う利用者に順次提供される。"
               },
               {
                 "t": "p",
-                "x": "Googleは次の注記を加えた。「注：AIを使って公人になりすます広告は、AIで生成または編集したことを開示していても認められない。」"
-              },
-              {
-                "t": "p",
-                "x": "追加された部分を赤で強調したスクリーンショットは以下のとおりだ。"
+                "x": "ウォレットにカードを追加すると、Dotsエージェントはプロンプトに応じてそのカードで買い物ができるが、決済の前には毎回ユーザーに確認する。OpenAIのサポートページによると、ChatGPT Walletでの購入にはすべて、Face IDや指紋スキャンなどの生体認証によるセキュリティチェックが必要だ。"
               },
               {
                 "t": "img",
-                "src": "https://images.seroundtable.com/google-doc-change-hAyqlNeM.png",
-                "cap": "Googleドキュメントの変更"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/openai-chatgpt-wallet-approval-pop-up.jpeg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+                "cap": "ChatGPT Walletでの購入は、すべてユーザーの承認が必要だ。"
               },
               {
                 "t": "p",
-                "x": "GoogleのUnacceptable Business Practicesポリシーは、AIを使って公人になりすます広告を禁じている。このルールは、広告がそのコンテンツをAIで生成または編集したと開示している場合にも適用される。"
+                "x": "OpenAIによると、ユーザーがAIエージェントの購入内容を確認して承認すると、タッチ決済やApple Pay、Google Walletと同様に、クレジットカード情報を決済トークンに置き換える。そのため実際のカード情報はDotsエージェントにも購入先の事業者にも共有されない。OpenAIは最終的に「ユーザーが利用上限、購入カテゴリー、期間といった明確な条件を設定して購入を完全にエージェントへ任せ、その購入を事前承認できるようになる」と見込んでいる。"
               },
               {
                 "t": "p",
-                "x": "Googleは次のように記した。「Googleは、Public-figure impersonation（公人へのなりすまし）に関するUnacceptable Business Practicesポリシーを更新し、AIを使って公人になりすます広告は、AIで生成または編集したことを開示していても認められないことを明確にした。この明確化は広告主がポリシーを理解する助けとなることを目的としており、ポリシーの施行を変えるものではない。」"
-              },
-              {
-                "t": "p",
-                "x": "だから、このとんでもない広告はもうやめるべきだ。"
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/ai-ad-atmEYoSV.jpg",
-                "cap": "AI広告"
+                "x": "ChatGPT Walletはどこでも使えるとは限らない。AIエージェントの利用を制限したり、全面的にブロックしたりする小売業者もある。今年初めには、AmazonがMetaのMuseエージェントをブロックした。OpenAIは、エージェントがChatGPT Walletを使うには「ウェブサイトはエージェントが意図せずブロックされないようにし、決済・リスクシステムはエージェントによる正当な購入を認識する必要がある」としている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Google Ads禁止\n用AI冒充公众人物",
-          "body": "Google明确表示，用AI冒充公众人物的广告即使披露使用了AI也不被允许。",
-          "mini_headline": "禁止AI冒充公众人物广告",
+          "headline": "ChatGPT Wallet\nDots智能体代你购物",
+          "body": "US Pro用户率先使用，Dots智能体每次购买前都会先征得确认。",
+          "mini_headline": "ChatGPT Wallet让智能体购物",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-logo-mirror-wCJesbMh.jpg",
-                "cap": "Google Ads标志镜像"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
               },
               {
                 "t": "p",
-                "x": "Google Ads在其unacceptable Business Practices政策中明确，使用AI冒充公众人物的行为不被允许，即使已披露内容由AI生成或编辑。没错，你可以使用AI，但这种情况不行；而且使用AI时应当予以披露。"
+                "x": "OpenAI今年早些时候推出Dots AI智能体平台后，又为这些智能体推出钱包。ChatGPT Wallet自今天起，面向美国（US）年满18岁、使用US账单地址及“符合条件的US-issued American Express、Chase、Mastercard和Visa卡”的ChatGPT Pro订阅用户逐步开放。"
               },
               {
                 "t": "p",
-                "x": "Google添加了这条说明：“注意：使用AI冒充公众人物的广告不被允许，即使已披露其由AI生成或编辑。”"
-              },
-              {
-                "t": "p",
-                "x": "以下是新增内容的截图，已用红色标出："
+                "x": "将卡片添加到钱包后，Dots智能体即可根据你的提示用它购物，但每次结账前都会先向你确认。OpenAI支持页面称，通过ChatGPT Wallet进行的每笔购买都需要通过Face ID或指纹扫描等生物识别验证完成安全检查。"
               },
               {
                 "t": "img",
-                "src": "https://images.seroundtable.com/google-doc-change-hAyqlNeM.png",
-                "cap": "Google文档变更"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/openai-chatgpt-wallet-approval-pop-up.jpeg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+                "cap": "ChatGPT Wallet的每笔购买都须经用户批准。"
               },
               {
                 "t": "p",
-                "x": "Google的Unacceptable Business Practices政策禁止使用AI冒充公众人物的广告。即使广告披露了内容由AI生成或编辑，这一规则同样适用。"
+                "x": "OpenAI表示，在你审核并批准AI智能体的购买后，它会像拍卡支付、Apple Pay或Google Wallet一样，用支付令牌替代你的信用卡信息，因此你的真实卡片信息不会分享给Dots智能体或你购买的商家。OpenAI称，最终它预计“用户能够通过设定支出上限、购买类别或时间段等明确参数，将购买完全委托给智能体，并预先批准这些购买”。"
               },
               {
                 "t": "p",
-                "x": "Google写道：“Google更新了其Unacceptable Business Practices政策中关于Public-figure impersonation（冒充公众人物）的规定，明确使用AI冒充公众人物的广告不被允许，即使已披露其由AI生成或编辑。此次澄清旨在帮助广告主理解该政策，并不改变政策的执行。”"
-              },
-              {
-                "t": "p",
-                "x": "所以，别再用这种夸张的广告了："
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/ai-ad-atmEYoSV.jpg",
-                "cap": "AI广告"
+                "x": "ChatGPT Wallet未必在所有地方都能使用。一些零售商限制甚至完全屏蔽AI智能体。今年早些时候，Amazon屏蔽了Meta的Muse智能体。OpenAI表示，要让智能体使用ChatGPT Wallet，“网站需要确保智能体不会被误拦，支付和风控系统也需要识别智能体发起的合法购买”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Google Ads prohíbe suplantar\ncon AI a figuras públicas",
-          "body": "Google aclaró que no se permiten anuncios que usen AI para suplantar a figuras públicas, aunque declaren el uso de AI.",
-          "mini_headline": "Sin anuncios de AI con figuras públicas",
+          "headline": "ChatGPT Wallet permite a Dots\ncomprar en nombre del usuario",
+          "body": "ChatGPT Wallet deja que los agentes Dots compren tras confirmar cada pedido, primero para usuarios Pro en US.",
+          "mini_headline": "ChatGPT Wallet deja comprar a los agentes",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-logo-mirror-wCJesbMh.jpg",
-                "cap": "Logo de Google Ads en espejo"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
               },
               {
                 "t": "p",
-                "x": "Google Ads aclaró en su política de unacceptable Business Practices que no se permite suplantar a figuras públicas con AI, aunque se declare que el contenido se generó o editó con AI. Sí, se puede usar AI, pero no en este caso, y cuando se usa AI hay que declararlo."
+                "x": "Tras lanzar a principios de este año su plataforma de agentes Dots AI, OpenAI lanza ahora una billetera para esos agentes. ChatGPT Wallet empieza a desplegarse hoy para suscriptores de ChatGPT Pro en Estados Unidos (US) de 18 años o más que usen una dirección de facturación de US y “tarjetas American Express, Chase, Mastercard y Visa US-issued que cumplan los requisitos”."
               },
               {
                 "t": "p",
-                "x": "Google añadió esta nota: \"Nota: No se permiten los anuncios que suplantan a figuras públicas con AI, aunque declaren que se generaron o editaron con AI\"."
-              },
-              {
-                "t": "p",
-                "x": "Esta es una captura de pantalla de lo que se añadió, resaltado en rojo:"
+                "x": "Después de añadir una tarjeta a la billetera, los agentes Dots pueden usarla para comprar según las instrucciones del usuario, pero le consultarán cada vez antes de pagar. La página de soporte de OpenAI indica que toda compra con ChatGPT Wallet requiere una verificación de seguridad con autenticación biométrica, como Face ID o un escaneo de huella dactilar."
               },
               {
                 "t": "img",
-                "src": "https://images.seroundtable.com/google-doc-change-hAyqlNeM.png",
-                "cap": "Cambio en el documento de Google"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/openai-chatgpt-wallet-approval-pop-up.jpeg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+                "cap": "Los usuarios deben aprobar cada compra de ChatGPT Wallet."
               },
               {
                 "t": "p",
-                "x": "La política de Unacceptable Business Practices de Google prohíbe los anuncios que usan AI para suplantar a figuras públicas. La norma se aplica aunque el anuncio declare que el contenido se generó o editó con AI."
+                "x": "Una vez que el usuario revisa y aprueba la compra del agente de IA, OpenAI explica que, de forma similar al pago sin contacto, Apple Pay o Google Wallet, sustituye los datos de la tarjeta de crédito por un token de pago, de modo que la información real de la tarjeta no se comparte con el agente Dots ni con el comercio. Con el tiempo, OpenAI dice que espera que “los usuarios puedan delegar por completo las compras en su agente fijando parámetros claros —como límites de gasto, categorías de compra o periodos de tiempo— y aprobar esas compras por adelantado”."
               },
               {
                 "t": "p",
-                "x": "Google escribió: \"Google actualizó su política de Unacceptable Business Practices sobre Public-figure impersonation para aclarar que no se permiten los anuncios que suplantan a figuras públicas con AI, aunque declaren que se generaron o editaron con AI. Esta aclaración busca ayudar a los anunciantes a entender la política y no cambia su aplicación\"."
-              },
-              {
-                "t": "p",
-                "x": "Así que dejen de usar este anuncio descomunal:"
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/ai-ad-atmEYoSV.jpg",
-                "cap": "Anuncio de AI"
+                "x": "Es posible que ChatGPT Wallet no funcione en todas partes. Algunos minoristas restringen a los agentes de IA o los bloquean por completo. A principios de este año, Amazon bloqueó los agentes Muse de Meta. OpenAI afirma que, para que los agentes puedan usar ChatGPT Wallet, “los sitios web deben asegurarse de no bloquear a los agentes sin querer, y los sistemas de pago y de riesgo deben reconocer las compras legítimas realizadas por agentes”."
               }
             ]
           }
@@ -629,197 +223,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Google Ads\nAI 공인 사칭 금지",
-          "body": "AI로 공인을 사칭한 광고는 AI임을 밝혀도 금지된다고 Google이 밝혔다.",
-          "mini_headline": "AI 공인 광고 금지",
+          "headline": "ChatGPT Wallet\nDots가 대신 구매한다",
+          "body": "US Pro 이용자부터 Dots 에이전트가 매번 확인 후 대신 결제한다.",
+          "mini_headline": "ChatGPT Wallet, 에이전트 결제",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-logo-mirror-wCJesbMh.jpg",
-                "cap": "Google Ads 로고 미러"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
               },
               {
                 "t": "p",
-                "x": "Google Ads는 unacceptable Business Practices 정책에서 AI로 공인을 사칭하는 행위는 AI로 생성하거나 편집했다고 밝히더라도 허용되지 않는다고 명확히 했다. AI를 써도 되지만 이 경우는 예외이고, AI를 쓸 때는 그 사실을 밝혀야 한다."
+                "x": "OpenAI는 올해 초 Dots AI 에이전트 플랫폼을 출시한 데 이어 에이전트용 지갑을 내놓는다. ChatGPT Wallet은 오늘부터 미국(US)에 사는 18세 이상 ChatGPT Pro 구독자 가운데 US 청구지 주소와 “자격 요건을 갖춘 US-issued American Express, Chase, Mastercard, Visa 카드”를 쓰는 이용자에게 순차 제공된다."
               },
               {
                 "t": "p",
-                "x": "Google은 다음 메모를 추가했다. \"참고: AI로 공인을 사칭하는 광고는 AI로 생성하거나 편집했다고 밝히더라도 허용되지 않습니다.\""
-              },
-              {
-                "t": "p",
-                "x": "추가된 내용을 빨간색으로 표시한 스크린샷은 다음과 같다."
+                "x": "지갑에 카드를 추가하면 Dots 에이전트가 프롬프트에 따라 그 카드로 물건을 살 수 있지만, 결제 전에는 매번 이용자에게 확인을 거친다. OpenAI 지원 페이지에 따르면 ChatGPT Wallet을 통한 모든 구매에는 Face ID나 지문 스캔 같은 생체 인증 보안 확인이 필요하다."
               },
               {
                 "t": "img",
-                "src": "https://images.seroundtable.com/google-doc-change-hAyqlNeM.png",
-                "cap": "Google 문서 변경 사항"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/openai-chatgpt-wallet-approval-pop-up.jpeg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+                "cap": "ChatGPT Wallet의 모든 구매는 이용자가 승인해야 한다."
               },
               {
                 "t": "p",
-                "x": "Google의 Unacceptable Business Practices 정책은 AI로 공인을 사칭하는 광고를 금지한다. 이 규칙은 광고가 해당 콘텐츠를 AI로 생성하거나 편집했다고 밝힌 경우에도 적용된다."
+                "x": "OpenAI는 이용자가 AI 에이전트의 구매 내역을 검토하고 승인하면 탭 결제나 Apple Pay, Google Wallet처럼 신용카드 정보를 결제 토큰으로 대체한다고 설명한다. 그래서 실제 카드 정보는 Dots 에이전트나 구매처 업체와 공유되지 않는다. OpenAI는 궁극적으로 “이용자가 지출 한도, 구매 카테고리, 기간 같은 명확한 조건을 정해 구매를 에이전트에게 전적으로 맡기고, 그 구매를 미리 승인할 수 있을 것”으로 기대한다고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "Google은 이렇게 썼다. \"Google은 Public-figure impersonation(공인 사칭)에 관한 Unacceptable Business Practices 정책을 업데이트해, AI로 공인을 사칭하는 광고는 AI로 생성하거나 편집했다고 밝히더라도 허용되지 않는다는 점을 명확히 했습니다. 이번 설명은 광고주의 정책 이해를 돕기 위한 것이며 정책 집행 방식을 바꾸지 않습니다.\""
-              },
-              {
-                "t": "p",
-                "x": "그러니 이런 엄청난 광고는 이제 그만 써야 한다."
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/ai-ad-atmEYoSV.jpg",
-                "cap": "AI 광고"
+                "x": "ChatGPT Wallet이 모든 곳에서 작동하지는 않을 수 있다. 일부 소매업체는 AI 에이전트 이용을 제한하거나 아예 차단한다. 올해 초 Amazon은 Meta의 Muse 에이전트를 차단했다. OpenAI는 에이전트가 ChatGPT Wallet을 쓰려면 “웹사이트는 에이전트가 의도치 않게 차단되지 않도록 해야 하고, 결제·리스크 시스템은 에이전트가 한 정당한 구매를 알아봐야 한다”고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Google Ads\nAIで公人なりすまし禁止",
-          "body": "AIで公人になりすます広告は、AI使用を明示しても認めないとGoogleが明確にした。",
-          "mini_headline": "AIで公人を装う広告は禁止",
+          "headline": "ChatGPT Wallet\nDotsが代わりに購入",
+          "body": "US Pro利用者から、Dotsエージェントが毎回確認を経て代理購入する。",
+          "mini_headline": "ChatGPT Wallet、エージェントが購入",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-logo-mirror-wCJesbMh.jpg",
-                "cap": "Google Adsのロゴ（ミラー）"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
               },
               {
                 "t": "p",
-                "x": "Google Adsは、unacceptable Business Practicesポリシーにおいて、AIを使った公人へのなりすましは、AIで生成または編集したことを開示していても認められないと明確にした。AIを使うこと自体は構わないが、このケースは別であり、AIを使う場合は開示すべきだ。"
+                "x": "OpenAIは今年初めにDots AIエージェントプラットフォームを立ち上げたのに続き、エージェント向けのウォレットを投入する。ChatGPT Walletは本日から、米国（US）の18歳以上のChatGPT Pro加入者のうち、USの請求先住所と「対象となるUS-issuedのAmerican Express、Chase、Mastercard、Visaカード」を使う利用者に順次提供される。"
               },
               {
                 "t": "p",
-                "x": "Googleは次の注記を加えた。「注：AIを使って公人になりすます広告は、AIで生成または編集したことを開示していても認められない。」"
-              },
-              {
-                "t": "p",
-                "x": "追加された部分を赤で強調したスクリーンショットは以下のとおりだ。"
+                "x": "ウォレットにカードを追加すると、Dotsエージェントはプロンプトに応じてそのカードで買い物ができるが、決済の前には毎回ユーザーに確認する。OpenAIのサポートページによると、ChatGPT Walletでの購入にはすべて、Face IDや指紋スキャンなどの生体認証によるセキュリティチェックが必要だ。"
               },
               {
                 "t": "img",
-                "src": "https://images.seroundtable.com/google-doc-change-hAyqlNeM.png",
-                "cap": "Googleドキュメントの変更"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/openai-chatgpt-wallet-approval-pop-up.jpeg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+                "cap": "ChatGPT Walletでの購入は、すべてユーザーの承認が必要だ。"
               },
               {
                 "t": "p",
-                "x": "GoogleのUnacceptable Business Practicesポリシーは、AIを使って公人になりすます広告を禁じている。このルールは、広告がそのコンテンツをAIで生成または編集したと開示している場合にも適用される。"
+                "x": "OpenAIによると、ユーザーがAIエージェントの購入内容を確認して承認すると、タッチ決済やApple Pay、Google Walletと同様に、クレジットカード情報を決済トークンに置き換える。そのため実際のカード情報はDotsエージェントにも購入先の事業者にも共有されない。OpenAIは最終的に「ユーザーが利用上限、購入カテゴリー、期間といった明確な条件を設定して購入を完全にエージェントへ任せ、その購入を事前承認できるようになる」と見込んでいる。"
               },
               {
                 "t": "p",
-                "x": "Googleは次のように記した。「Googleは、Public-figure impersonation（公人へのなりすまし）に関するUnacceptable Business Practicesポリシーを更新し、AIを使って公人になりすます広告は、AIで生成または編集したことを開示していても認められないことを明確にした。この明確化は広告主がポリシーを理解する助けとなることを目的としており、ポリシーの施行を変えるものではない。」"
-              },
-              {
-                "t": "p",
-                "x": "だから、このとんでもない広告はもうやめるべきだ。"
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/ai-ad-atmEYoSV.jpg",
-                "cap": "AI広告"
+                "x": "ChatGPT Walletはどこでも使えるとは限らない。AIエージェントの利用を制限したり、全面的にブロックしたりする小売業者もある。今年初めには、AmazonがMetaのMuseエージェントをブロックした。OpenAIは、エージェントがChatGPT Walletを使うには「ウェブサイトはエージェントが意図せずブロックされないようにし、決済・リスクシステムはエージェントによる正当な購入を認識する必要がある」としている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Google Ads禁止\n用AI冒充公众人物",
-          "body": "Google明确表示，用AI冒充公众人物的广告即使披露使用了AI也不被允许。",
-          "mini_headline": "禁止AI冒充公众人物广告",
+          "headline": "ChatGPT Wallet\nDots智能体代你购物",
+          "body": "US Pro用户率先使用，Dots智能体每次购买前都会先征得确认。",
+          "mini_headline": "ChatGPT Wallet让智能体购物",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-logo-mirror-wCJesbMh.jpg",
-                "cap": "Google Ads标志镜像"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
               },
               {
                 "t": "p",
-                "x": "Google Ads在其unacceptable Business Practices政策中明确，使用AI冒充公众人物的行为不被允许，即使已披露内容由AI生成或编辑。没错，你可以使用AI，但这种情况不行；而且使用AI时应当予以披露。"
+                "x": "OpenAI今年早些时候推出Dots AI智能体平台后，又为这些智能体推出钱包。ChatGPT Wallet自今天起，面向美国（US）年满18岁、使用US账单地址及“符合条件的US-issued American Express、Chase、Mastercard和Visa卡”的ChatGPT Pro订阅用户逐步开放。"
               },
               {
                 "t": "p",
-                "x": "Google添加了这条说明：“注意：使用AI冒充公众人物的广告不被允许，即使已披露其由AI生成或编辑。”"
-              },
-              {
-                "t": "p",
-                "x": "以下是新增内容的截图，已用红色标出："
+                "x": "将卡片添加到钱包后，Dots智能体即可根据你的提示用它购物，但每次结账前都会先向你确认。OpenAI支持页面称，通过ChatGPT Wallet进行的每笔购买都需要通过Face ID或指纹扫描等生物识别验证完成安全检查。"
               },
               {
                 "t": "img",
-                "src": "https://images.seroundtable.com/google-doc-change-hAyqlNeM.png",
-                "cap": "Google文档变更"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/openai-chatgpt-wallet-approval-pop-up.jpeg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+                "cap": "ChatGPT Wallet的每笔购买都须经用户批准。"
               },
               {
                 "t": "p",
-                "x": "Google的Unacceptable Business Practices政策禁止使用AI冒充公众人物的广告。即使广告披露了内容由AI生成或编辑，这一规则同样适用。"
+                "x": "OpenAI表示，在你审核并批准AI智能体的购买后，它会像拍卡支付、Apple Pay或Google Wallet一样，用支付令牌替代你的信用卡信息，因此你的真实卡片信息不会分享给Dots智能体或你购买的商家。OpenAI称，最终它预计“用户能够通过设定支出上限、购买类别或时间段等明确参数，将购买完全委托给智能体，并预先批准这些购买”。"
               },
               {
                 "t": "p",
-                "x": "Google写道：“Google更新了其Unacceptable Business Practices政策中关于Public-figure impersonation（冒充公众人物）的规定，明确使用AI冒充公众人物的广告不被允许，即使已披露其由AI生成或编辑。此次澄清旨在帮助广告主理解该政策，并不改变政策的执行。”"
-              },
-              {
-                "t": "p",
-                "x": "所以，别再用这种夸张的广告了："
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/ai-ad-atmEYoSV.jpg",
-                "cap": "AI广告"
+                "x": "ChatGPT Wallet未必在所有地方都能使用。一些零售商限制甚至完全屏蔽AI智能体。今年早些时候，Amazon屏蔽了Meta的Muse智能体。OpenAI表示，要让智能体使用ChatGPT Wallet，“网站需要确保智能体不会被误拦，支付和风控系统也需要识别智能体发起的合法购买”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Google Ads prohíbe suplantar\ncon AI a figuras públicas",
-          "body": "Google aclaró que no se permiten anuncios que usen AI para suplantar a figuras públicas, aunque declaren el uso de AI.",
-          "mini_headline": "Sin anuncios de AI con figuras públicas",
+          "headline": "ChatGPT Wallet permite a Dots\ncomprar en nombre del usuario",
+          "body": "ChatGPT Wallet deja que los agentes Dots compren tras confirmar cada pedido, primero para usuarios Pro en US.",
+          "mini_headline": "ChatGPT Wallet deja comprar a los agentes",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-logo-mirror-wCJesbMh.jpg",
-                "cap": "Logo de Google Ads en espejo"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
               },
               {
                 "t": "p",
-                "x": "Google Ads aclaró en su política de unacceptable Business Practices que no se permite suplantar a figuras públicas con AI, aunque se declare que el contenido se generó o editó con AI. Sí, se puede usar AI, pero no en este caso, y cuando se usa AI hay que declararlo."
+                "x": "Tras lanzar a principios de este año su plataforma de agentes Dots AI, OpenAI lanza ahora una billetera para esos agentes. ChatGPT Wallet empieza a desplegarse hoy para suscriptores de ChatGPT Pro en Estados Unidos (US) de 18 años o más que usen una dirección de facturación de US y “tarjetas American Express, Chase, Mastercard y Visa US-issued que cumplan los requisitos”."
               },
               {
                 "t": "p",
-                "x": "Google añadió esta nota: \"Nota: No se permiten los anuncios que suplantan a figuras públicas con AI, aunque declaren que se generaron o editaron con AI\"."
-              },
-              {
-                "t": "p",
-                "x": "Esta es una captura de pantalla de lo que se añadió, resaltado en rojo:"
+                "x": "Después de añadir una tarjeta a la billetera, los agentes Dots pueden usarla para comprar según las instrucciones del usuario, pero le consultarán cada vez antes de pagar. La página de soporte de OpenAI indica que toda compra con ChatGPT Wallet requiere una verificación de seguridad con autenticación biométrica, como Face ID o un escaneo de huella dactilar."
               },
               {
                 "t": "img",
-                "src": "https://images.seroundtable.com/google-doc-change-hAyqlNeM.png",
-                "cap": "Cambio en el documento de Google"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/openai-chatgpt-wallet-approval-pop-up.jpeg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+                "cap": "Los usuarios deben aprobar cada compra de ChatGPT Wallet."
               },
               {
                 "t": "p",
-                "x": "La política de Unacceptable Business Practices de Google prohíbe los anuncios que usan AI para suplantar a figuras públicas. La norma se aplica aunque el anuncio declare que el contenido se generó o editó con AI."
+                "x": "Una vez que el usuario revisa y aprueba la compra del agente de IA, OpenAI explica que, de forma similar al pago sin contacto, Apple Pay o Google Wallet, sustituye los datos de la tarjeta de crédito por un token de pago, de modo que la información real de la tarjeta no se comparte con el agente Dots ni con el comercio. Con el tiempo, OpenAI dice que espera que “los usuarios puedan delegar por completo las compras en su agente fijando parámetros claros —como límites de gasto, categorías de compra o periodos de tiempo— y aprobar esas compras por adelantado”."
               },
               {
                 "t": "p",
-                "x": "Google escribió: \"Google actualizó su política de Unacceptable Business Practices sobre Public-figure impersonation para aclarar que no se permiten los anuncios que suplantan a figuras públicas con AI, aunque declaren que se generaron o editaron con AI. Esta aclaración busca ayudar a los anunciantes a entender la política y no cambia su aplicación\"."
-              },
-              {
-                "t": "p",
-                "x": "Así que dejen de usar este anuncio descomunal:"
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/ai-ad-atmEYoSV.jpg",
-                "cap": "Anuncio de AI"
+                "x": "Es posible que ChatGPT Wallet no funcione en todas partes. Algunos minoristas restringen a los agentes de IA o los bloquean por completo. A principios de este año, Amazon bloqueó los agentes Muse de Meta. OpenAI afirma que, para que los agentes puedan usar ChatGPT Wallet, “los sitios web deben asegurarse de no bloquear a los agentes sin querer, y los sistemas de pago y de riesgo deben reconocer las compras legítimas realizadas por agentes”."
               }
             ]
           }
@@ -827,15 +365,327 @@
       }
     },
     {
-      "id": "eu-ai-act-deepfake-ad-labels",
+      "id": "iab-ai-attribution-blueprint",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "EU 딥페이크 라벨\nnon-EU 광고주에도",
-      "body": "non-EU 광고주도 AI 제품 사진에 라벨을 달아야 하며 벌금은 최대 3%다.",
-      "mini_headline": "광고 속 EU AI 라벨",
+      "headline": "IAB, 구매 속 AI의\n기여를 따질 기준",
+      "body": "IAB 새 청사진은 AI가 구매에 관여한 몫을 재는 공통 기준을 담았다.",
+      "mini_headline": "IAB, AI 기여 측정 기준",
       "tool": "Marketing",
-      "source": "PPC Land",
-      "url": "https://ppc.land/non-eu-advertisers-face-3-eu-fines-for-unlabelled-ai-deep-fake-ads/",
+      "source": "IAB",
+      "url": "https://www.iab.com/news/iab-releases-ai-era-attribution-blueprint/",
+      "accent": "#0070f3",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://www.iab.com/wp-content/uploads/2026/11/the-ai-era-attribution-blueprint-2-1024x312.png"
+          },
+          {
+            "t": "p",
+            "x": "Interactive Advertising Bureau(IAB)가 2026년 11월 12일 새 프레임워크 AI-Era Attribution Blueprint를 발표했다. 전환에서 AI가 맡은 역할을 업계 공통 방식으로 분류하고, 어느 쪽이 그 성과를 주장할 수 있는지 평가하는 틀이다. IAB의 2026 Outlook Study: September Update에서 광고 구매자들은 AI-driven 고객 여정을 기존 고객 여정과 비교하는 일을 가장 큰 측정 과제로 꼽았고(45%), 44%는 추적할 수 없는 AI 영향을 가늠하려고 브랜드 검색과 직접 유입 트래픽을 대리 지표로 쓴다."
+          },
+          {
+            "t": "p",
+            "x": "IAB의 AI 담당 VP Caroline Giegerich는 “AI-influenced 매출이 때로 검색이나 직접 유입으로 집계돼, 다음 마케팅 투자가 엉뚱한 채널로 갈 수 있다”고 말했다."
+          },
+          {
+            "t": "p",
+            "x": "Blueprint는 의도를 만들고 결정을 내리고 구매를 마친 주체가 누구인지, 혹은 무엇인지 묻는다. 답에 따라 각 전환은 Human-Owned, AI-Assisted, AI-Executed 중 하나로 나뉜다. 이 경로가 어느 쪽이(해당하는 쪽이 있다면) 결정 기여나 보조 기여를 주장할 자격이 있는지, 주장마다 어떤 증거가 필요한지를 가른다. 주장한다고 곧 성과를 인정받지는 않는다. 성과 인정을 위한 평가를 받을 권리일 뿐이다."
+          },
+          {
+            "t": "p",
+            "x": "필요한 증거 상당수는 수집되지 않았거나 AI 플랫폼 안에 있다. IAB는 브랜드에 경로별 전환 비중을 추정하라고 요구한다. AI 플랫폼은 추천이 유료인지 자연 노출인지 공개하고 AI-originated 트래픽에 일관되게 라벨을 붙여야 한다. 에이전시는 하나의 주장·증거 기준을 적용하고, 퍼블리셔는 자사 콘텐츠가 만드는 보조 기여 주장을 가려내야 한다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "IAB maps how to credit AI\nin the path to purchase",
+          "body": "IAB's new blueprint sets a shared way to measure AI's role when an assistant influences or completes a purchase.",
+          "mini_headline": "IAB sets AI attribution rules",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.iab.com/wp-content/uploads/2026/11/the-ai-era-attribution-blueprint-2-1024x312.png"
+              },
+              {
+                "t": "p",
+                "x": "On November 12, 2026, the Interactive Advertising Bureau (IAB) released the AI-Era Attribution Blueprint, a new framework that gives the industry a shared way to classify AI’s role in a conversion and evaluate which parties can claim credit for it. Ad buyers name comparing AI-driven and traditional customer journeys as their top measurement challenge (45%), and 44% rely on branded search and direct traffic as proxies for AI influence they can’t track, according to IAB’s 2026 Outlook Study: September Update."
+              },
+              {
+                "t": "p",
+                "x": "“AI-influenced sales are sometimes reported as search or direct traffic, which can send the next marketing investment to the wrong channel,” said Caroline Giegerich, VP, AI, IAB."
+              },
+              {
+                "t": "p",
+                "x": "The Blueprint asks who or what created the intent, made the decision and completed the purchase, then classifies each conversion as Human-Owned, AI-Assisted or AI-Executed. That pathway determines which parties are eligible for a decision claim or a contributory claim, if any, and what evidence each claim requires. A claim is not credit; it is the right to be evaluated for credit."
+              },
+              {
+                "t": "p",
+                "x": "Much of the evidence needed is either not captured or sits inside AI platforms. IAB calls on brands to estimate the share of conversions in each pathway, AI platforms to disclose whether recommendations are paid or organic and label AI-originated traffic consistently, agencies to apply a single claim-and-evidence standard, and publishers to identify the contributory claims their content creates."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "IAB, 구매 속 AI의\n기여를 따질 기준",
+          "body": "IAB 새 청사진은 AI가 구매에 관여한 몫을 재는 공통 기준을 담았다.",
+          "mini_headline": "IAB, AI 기여 측정 기준",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.iab.com/wp-content/uploads/2026/11/the-ai-era-attribution-blueprint-2-1024x312.png"
+              },
+              {
+                "t": "p",
+                "x": "Interactive Advertising Bureau(IAB)가 2026년 11월 12일 새 프레임워크 AI-Era Attribution Blueprint를 발표했다. 전환에서 AI가 맡은 역할을 업계 공통 방식으로 분류하고, 어느 쪽이 그 성과를 주장할 수 있는지 평가하는 틀이다. IAB의 2026 Outlook Study: September Update에서 광고 구매자들은 AI-driven 고객 여정을 기존 고객 여정과 비교하는 일을 가장 큰 측정 과제로 꼽았고(45%), 44%는 추적할 수 없는 AI 영향을 가늠하려고 브랜드 검색과 직접 유입 트래픽을 대리 지표로 쓴다."
+              },
+              {
+                "t": "p",
+                "x": "IAB의 AI 담당 VP Caroline Giegerich는 “AI-influenced 매출이 때로 검색이나 직접 유입으로 집계돼, 다음 마케팅 투자가 엉뚱한 채널로 갈 수 있다”고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "Blueprint는 의도를 만들고 결정을 내리고 구매를 마친 주체가 누구인지, 혹은 무엇인지 묻는다. 답에 따라 각 전환은 Human-Owned, AI-Assisted, AI-Executed 중 하나로 나뉜다. 이 경로가 어느 쪽이(해당하는 쪽이 있다면) 결정 기여나 보조 기여를 주장할 자격이 있는지, 주장마다 어떤 증거가 필요한지를 가른다. 주장한다고 곧 성과를 인정받지는 않는다. 성과 인정을 위한 평가를 받을 권리일 뿐이다."
+              },
+              {
+                "t": "p",
+                "x": "필요한 증거 상당수는 수집되지 않았거나 AI 플랫폼 안에 있다. IAB는 브랜드에 경로별 전환 비중을 추정하라고 요구한다. AI 플랫폼은 추천이 유료인지 자연 노출인지 공개하고 AI-originated 트래픽에 일관되게 라벨을 붙여야 한다. 에이전시는 하나의 주장·증거 기준을 적용하고, 퍼블리셔는 자사 콘텐츠가 만드는 보조 기여 주장을 가려내야 한다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "IAB、購買でのAI\n貢献の測り方を示す",
+          "body": "IABの新指針は、AIが購入を左右・完結させた際の役割を測る共通の方法を定める。",
+          "mini_headline": "IAB、AI貢献の測定ルール",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.iab.com/wp-content/uploads/2026/11/the-ai-era-attribution-blueprint-2-1024x312.png"
+              },
+              {
+                "t": "p",
+                "x": "Interactive Advertising Bureau（IAB）は2026年11月12日、コンバージョンにおけるAIの役割を業界共通の方法で分類し、どの当事者がその成果を主張できるかを評価する新たなフレームワーク「AI-Era Attribution Blueprint」を公表した。IABの「2026 Outlook Study: September Update」によると、広告バイヤーはAI-drivenなカスタマージャーニーと従来型の比較を最大の測定課題に挙げ（45%）、44%は追跡できないAIの影響の代替指標としてブランド検索や直接流入に頼っている。"
+              },
+              {
+                "t": "p",
+                "x": "「AI-influencedな売上は検索や直接流入として計上されることがあり、次のマーケティング投資が誤ったチャネルに向かいかねない」と、IABのAI担当VP、Caroline Giegerich氏は述べた。"
+              },
+              {
+                "t": "p",
+                "x": "Blueprintは、誰が、あるいは何が意図を生み、意思決定をし、購入を完了したかを問い、各コンバージョンをHuman-Owned、AI-Assisted、AI-Executedのいずれかに分類する。この経路によって、どの当事者が（該当する場合）決定クレームまたは貢献クレームの対象となるか、また各クレームにどんな証拠が必要かが決まる。クレームは成果の認定そのものではなく、認定に向けた評価を受ける権利である。"
+              },
+              {
+                "t": "p",
+                "x": "必要な証拠の多くは取得されていないか、AIプラットフォームの内部にある。IABはブランドに各経路のコンバージョン比率の推計を、AIプラットフォームにレコメンドが有料かオーガニックかの開示とAI-originatedトラフィックへの一貫したラベル付けを、エージェンシーに単一のクレーム・証拠基準の適用を、パブリッシャーに自社コンテンツが生む貢献クレームの特定を求めている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "IAB为购买路径中\nAI贡献定出归因规则",
+          "body": "IAB新蓝图为AI助手影响或完成购买时的作用，提供了一套共同的衡量方法。",
+          "mini_headline": "IAB制定AI归因规则",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.iab.com/wp-content/uploads/2026/11/the-ai-era-attribution-blueprint-2-1024x312.png"
+              },
+              {
+                "t": "p",
+                "x": "2026年11月12日，Interactive Advertising Bureau（IAB）发布新框架AI-Era Attribution Blueprint，为行业提供一套统一方法，用以界定AI在转化中的作用，并评估哪些参与方可以为此主张功劳。根据IAB的2026 Outlook Study: September Update，广告买家将比较AI-driven客户旅程与传统客户旅程列为首要衡量难题（45%），另有44%依靠品牌搜索和直接流量，作为无法追踪的AI影响的替代指标。"
+              },
+              {
+                "t": "p",
+                "x": "IAB AI副总裁（VP）Caroline Giegerich表示：“AI-influenced销售有时会被计为搜索或直接流量，这可能让下一笔营销投资流向错误的渠道。”"
+              },
+              {
+                "t": "p",
+                "x": "该Blueprint会追问：是谁或什么产生了意图、做出了决定并完成了购买，然后将每次转化归为Human-Owned、AI-Assisted或AI-Executed。这一路径决定哪些参与方（如有）有资格提出决策主张或贡献主张，以及每项主张需要哪些证据。主张并不等于功劳，而是获得功劳评估的资格。"
+              },
+              {
+                "t": "p",
+                "x": "所需证据大多未被采集，或存在于AI平台内部。IAB呼吁品牌估算各路径的转化占比；AI平台披露推荐是付费还是自然结果，并对AI-originated流量进行一致标注；代理商采用统一的主张与证据标准；发布商识别其内容所产生的贡献主张。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "IAB define cómo atribuir a la IA\nsu papel en la ruta de compra",
+          "body": "El nuevo marco de IAB unifica cómo medir el papel de la IA cuando un asistente influye en una compra o la completa.",
+          "mini_headline": "IAB fija reglas de atribución para la IA",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.iab.com/wp-content/uploads/2026/11/the-ai-era-attribution-blueprint-2-1024x312.png"
+              },
+              {
+                "t": "p",
+                "x": "El 12 de noviembre de 2026, el Interactive Advertising Bureau (IAB) publicó el AI-Era Attribution Blueprint, un nuevo marco que ofrece al sector una forma común de clasificar el papel de la IA en una conversión y de evaluar qué partes pueden reclamar el mérito. Según el 2026 Outlook Study: September Update de IAB, los compradores de publicidad señalan como su principal reto de medición comparar los recorridos de cliente AI-driven con los tradicionales (45%), y el 44% recurre a la búsqueda de marca y al tráfico directo como indicadores indirectos de una influencia de la IA que no puede rastrear."
+              },
+              {
+                "t": "p",
+                "x": "“Las ventas AI-influenced a veces se registran como búsqueda o tráfico directo, lo que puede llevar la siguiente inversión de marketing al canal equivocado”, dijo Caroline Giegerich, VP de AI en IAB."
+              },
+              {
+                "t": "p",
+                "x": "El Blueprint pregunta quién o qué creó la intención, tomó la decisión y completó la compra, y luego clasifica cada conversión como Human-Owned, AI-Assisted o AI-Executed. Esa ruta determina qué partes, si las hay, pueden optar a una reclamación de decisión o a una reclamación contributiva, y qué pruebas exige cada reclamación. Una reclamación no es mérito: es el derecho a ser evaluado para obtenerlo."
+              },
+              {
+                "t": "p",
+                "x": "Gran parte de las pruebas necesarias no se recopila o está dentro de las plataformas de IA. IAB pide a las marcas que estimen la proporción de conversiones en cada ruta; a las plataformas de IA, que revelen si las recomendaciones son pagadas u orgánicas y etiqueten de forma coherente el tráfico AI-originated; a las agencias, que apliquen un único estándar de reclamación y prueba, y a los editores, que identifiquen las reclamaciones contributivas que genera su contenido."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "IAB, 구매 속 AI\n기여 인정 기준 제시",
+          "body": "IAB 새 청사진은 AI가 구매에 관여할 때 그 역할을 재는 공통 기준을 정한다.",
+          "mini_headline": "IAB, AI 기여 측정 기준",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.iab.com/wp-content/uploads/2026/11/the-ai-era-attribution-blueprint-2-1024x312.png"
+              },
+              {
+                "t": "p",
+                "x": "Interactive Advertising Bureau(IAB)는 2026년 11월 12일, 전환에서 AI가 한 역할을 업계 공통 방식으로 분류하고 어느 쪽이 그 성과를 주장할 수 있는지 평가하는 새 프레임워크 AI-Era Attribution Blueprint를 발표했다. IAB의 2026 Outlook Study: September Update에 따르면 광고 구매자들은 AI-driven 고객 여정과 기존 고객 여정의 비교를 가장 큰 측정 과제로 꼽았고(45%), 44%는 추적할 수 없는 AI 영향을 가늠하는 대리 지표로 브랜드 검색과 직접 유입 트래픽에 기대고 있다."
+              },
+              {
+                "t": "p",
+                "x": "IAB의 AI 담당 VP Caroline Giegerich는 “AI-influenced 매출이 때로 검색이나 직접 유입으로 집계돼, 다음 마케팅 투자가 엉뚱한 채널로 갈 수 있다”고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "Blueprint는 누가 또는 무엇이 의도를 만들고, 결정을 내리고, 구매를 마쳤는지 묻고, 각 전환을 Human-Owned, AI-Assisted, AI-Executed 중 하나로 분류한다. 이 경로에 따라 어느 쪽이(해당하는 쪽이 있다면) 결정 기여 주장이나 보조 기여 주장을 할 자격이 있는지, 각 주장에 어떤 증거가 필요한지가 정해진다. 주장은 곧 성과 인정이 아니라, 성과 인정을 위한 평가를 받을 권리다."
+              },
+              {
+                "t": "p",
+                "x": "필요한 증거의 상당 부분은 수집되지 않거나 AI 플랫폼 안에 있다. IAB는 브랜드에는 경로별 전환 비중을 추정하라고, AI 플랫폼에는 추천이 유료인지 자연 노출인지 공개하고 AI-originated 트래픽에 일관되게 라벨을 붙이라고, 에이전시에는 하나의 주장·증거 기준을 적용하라고, 퍼블리셔에는 자사 콘텐츠가 만드는 보조 기여 주장을 식별하라고 요구한다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "IAB、購買でのAI\n貢献の測り方を示す",
+          "body": "IABの新指針は、AIが購入を左右・完結させた際の役割を測る共通の方法を定める。",
+          "mini_headline": "IAB、AI貢献の測定ルール",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.iab.com/wp-content/uploads/2026/11/the-ai-era-attribution-blueprint-2-1024x312.png"
+              },
+              {
+                "t": "p",
+                "x": "Interactive Advertising Bureau（IAB）は2026年11月12日、コンバージョンにおけるAIの役割を業界共通の方法で分類し、どの当事者がその成果を主張できるかを評価する新たなフレームワーク「AI-Era Attribution Blueprint」を公表した。IABの「2026 Outlook Study: September Update」によると、広告バイヤーはAI-drivenなカスタマージャーニーと従来型の比較を最大の測定課題に挙げ（45%）、44%は追跡できないAIの影響の代替指標としてブランド検索や直接流入に頼っている。"
+              },
+              {
+                "t": "p",
+                "x": "「AI-influencedな売上は検索や直接流入として計上されることがあり、次のマーケティング投資が誤ったチャネルに向かいかねない」と、IABのAI担当VP、Caroline Giegerich氏は述べた。"
+              },
+              {
+                "t": "p",
+                "x": "Blueprintは、誰が、あるいは何が意図を生み、意思決定をし、購入を完了したかを問い、各コンバージョンをHuman-Owned、AI-Assisted、AI-Executedのいずれかに分類する。この経路によって、どの当事者が（該当する場合）決定クレームまたは貢献クレームの対象となるか、また各クレームにどんな証拠が必要かが決まる。クレームは成果の認定そのものではなく、認定に向けた評価を受ける権利である。"
+              },
+              {
+                "t": "p",
+                "x": "必要な証拠の多くは取得されていないか、AIプラットフォームの内部にある。IABはブランドに各経路のコンバージョン比率の推計を、AIプラットフォームにレコメンドが有料かオーガニックかの開示とAI-originatedトラフィックへの一貫したラベル付けを、エージェンシーに単一のクレーム・証拠基準の適用を、パブリッシャーに自社コンテンツが生む貢献クレームの特定を求めている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "IAB为购买路径中\nAI贡献定出归因规则",
+          "body": "IAB新蓝图为AI助手影响或完成购买时的作用，提供了一套共同的衡量方法。",
+          "mini_headline": "IAB制定AI归因规则",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.iab.com/wp-content/uploads/2026/11/the-ai-era-attribution-blueprint-2-1024x312.png"
+              },
+              {
+                "t": "p",
+                "x": "2026年11月12日，Interactive Advertising Bureau（IAB）发布新框架AI-Era Attribution Blueprint，为行业提供一套统一方法，用以界定AI在转化中的作用，并评估哪些参与方可以为此主张功劳。根据IAB的2026 Outlook Study: September Update，广告买家将比较AI-driven客户旅程与传统客户旅程列为首要衡量难题（45%），另有44%依靠品牌搜索和直接流量，作为无法追踪的AI影响的替代指标。"
+              },
+              {
+                "t": "p",
+                "x": "IAB AI副总裁（VP）Caroline Giegerich表示：“AI-influenced销售有时会被计为搜索或直接流量，这可能让下一笔营销投资流向错误的渠道。”"
+              },
+              {
+                "t": "p",
+                "x": "该Blueprint会追问：是谁或什么产生了意图、做出了决定并完成了购买，然后将每次转化归为Human-Owned、AI-Assisted或AI-Executed。这一路径决定哪些参与方（如有）有资格提出决策主张或贡献主张，以及每项主张需要哪些证据。主张并不等于功劳，而是获得功劳评估的资格。"
+              },
+              {
+                "t": "p",
+                "x": "所需证据大多未被采集，或存在于AI平台内部。IAB呼吁品牌估算各路径的转化占比；AI平台披露推荐是付费还是自然结果，并对AI-originated流量进行一致标注；代理商采用统一的主张与证据标准；发布商识别其内容所产生的贡献主张。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "IAB define cómo atribuir a la IA\nsu papel en la ruta de compra",
+          "body": "El nuevo marco de IAB unifica cómo medir el papel de la IA cuando un asistente influye en una compra o la completa.",
+          "mini_headline": "IAB fija reglas de atribución para la IA",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.iab.com/wp-content/uploads/2026/11/the-ai-era-attribution-blueprint-2-1024x312.png"
+              },
+              {
+                "t": "p",
+                "x": "El 12 de noviembre de 2026, el Interactive Advertising Bureau (IAB) publicó el AI-Era Attribution Blueprint, un nuevo marco que ofrece al sector una forma común de clasificar el papel de la IA en una conversión y de evaluar qué partes pueden reclamar el mérito. Según el 2026 Outlook Study: September Update de IAB, los compradores de publicidad señalan como su principal reto de medición comparar los recorridos de cliente AI-driven con los tradicionales (45%), y el 44% recurre a la búsqueda de marca y al tráfico directo como indicadores indirectos de una influencia de la IA que no puede rastrear."
+              },
+              {
+                "t": "p",
+                "x": "“Las ventas AI-influenced a veces se registran como búsqueda o tráfico directo, lo que puede llevar la siguiente inversión de marketing al canal equivocado”, dijo Caroline Giegerich, VP de AI en IAB."
+              },
+              {
+                "t": "p",
+                "x": "El Blueprint pregunta quién o qué creó la intención, tomó la decisión y completó la compra, y luego clasifica cada conversión como Human-Owned, AI-Assisted o AI-Executed. Esa ruta determina qué partes, si las hay, pueden optar a una reclamación de decisión o a una reclamación contributiva, y qué pruebas exige cada reclamación. Una reclamación no es mérito: es el derecho a ser evaluado para obtenerlo."
+              },
+              {
+                "t": "p",
+                "x": "Gran parte de las pruebas necesarias no se recopila o está dentro de las plataformas de IA. IAB pide a las marcas que estimen la proporción de conversiones en cada ruta; a las plataformas de IA, que revelen si las recomendaciones son pagadas u orgánicas y etiqueten de forma coherente el tráfico AI-originated; a las agencias, que apliquen un único estándar de reclamación y prueba, y a los editores, que identifiquen las reclamaciones contributivas que genera su contenido."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "schibsted-nodals-ad-algorithms",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Schibsted, 맞춤형\nAI로 Meta 예산 탈환",
+      "body": "Schibsted가 Nodals AI 맞춤 알고리즘으로 Meta 광고주를 되찾는다.",
+      "mini_headline": "Schibsted, AI로 Meta에 맞서다",
+      "tool": "Marketing",
+      "source": "AdExchanger",
+      "url": "https://www.adexchanger.com/publishers/custom-ad-algorithms-are-helping-schibsted-media-win-budgets-back-from-meta/",
       "accent": "#7928ca",
       "motif": "frame",
       "full": {
@@ -843,155 +693,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://ppc.land/content/images/size/w2000/2026/11/eu-ai-act-deep-fake-label-3-percent-fines-carousel-projector-flattered-kettle-across-sea.jpg",
-            "cap": "Non-EU 광고 제작사가 실물을 미화한 AI 제품 사진에 라벨을 달지 않으면 매출액의 3%를 벌금으로 낸다"
+            "src": "https://www.adexchanger.com/wp-content/uploads/2024/10/revenue-sharing-publishers-sundar-pichai-mark-zuckerberg-comic-1024x941.png"
           },
           {
             "t": "p",
-            "x": "AI Act 제50조 투명성 의무를 다룬 유럽연합 집행위원회(European Commission) 가이드라인이 문서번호 C/2026/6005로 유럽연합 관보에 실렸다. 가이드라인은 EU 밖에 세운 기업이라도 EU 역내에 걸 광고용으로 AI 시스템을 써 유명인 딥페이크를 만들면 AI Act가 적용되는 배포자(deployer)가 된다고 설명한다."
+            "x": "Schibsted가 London-based 기업 Nodals AI와 손잡고 Meta 자체 최적화 도구에 끌려간 브랜드를 다시 불러오려 한다. 이 회사는 유럽(Europe)과 미국(US) 퍼블리셔에게 맞춤 광고 최적화 알고리즘을 만들어 준다. Schibsted Marketing Services의 광고 데이터 역량 디렉터 Christer Ljones가 AdExchanger에 밝혔다."
           },
           {
             "t": "p",
-            "x": "AI-made 유명인 보증 광고, 제품을 써 보는 합성 인플루언서, 실제 제품을 왜곡한 제품 이미지는 모두 딥페이크여서 눈에 보이는 라벨을 달아야 한다. AI 활용 방식을 통제하지 않고 대행사에 의뢰만 하는 기업은 배포자가 아니다. 광고 문구와 제품 설명은 건강·소비자 안전·지속가능성 주장을 담지 않으면 텍스트 규정에서 빠진다."
+            "x": "월드 가든 플랫폼은 Meta의 Advantage+ 같은 AI-powered 캠페인 최적화 기능으로 광고주를 사로잡았다. 오픈 웹 퍼블리셔로서는 따라잡기 버거웠다. Nodals 창업자 겸 CEO Aly Nurmohamed는 “광고주들은 Meta에 길들여져 ‘돈을 넣으면 얼마가 나오는지’에만 신경 쓰게 됐다”고 말했다."
           },
           {
             "t": "p",
-            "x": "배포자는 \"제공자가 콘텐츠에 삽입한 기계 판독형 표시에 기댈 수 없다.\" 제50조를 어기면 EUR 15,000,000과 전 세계 연간 총매출액의 3% 가운데 큰 금액까지 벌금이 매겨진다. 2026년 8월 2일 전에 출시된 생성형 시스템은 2026년 12월 2일까지 표시 의무를 갖추면 된다."
+            "x": "Nodals는 로그인 데이터와 스크롤 깊이, 독자가 콘텐츠나 광고를 클릭하는 빈도 같은 퍼블리셔의 퍼스트파티 데이터를 모델에 넣는다. 그러고는 특정 광고주 기준으로 클릭하고 구매할 가능성이 높은 사람을 예측한다. Schibsted는 지난여름 이 기술을 처음 시험했고 지금은 AI 최적화를 내장한 직판 네이티브 광고 포맷 라인을 새로 만드는 중이다. 가격은 CPM이 아닌 클릭당 비용 기준으로 매긴다."
+          },
+          {
+            "t": "p",
+            "x": "Ljones는 “Meta에 쓰는 비용의 10%를 가져와 보라. 전환 대부분은 그대로 지키면서 [우리에게서] 더 많이 얻을 수 있을 것”이라며 “아직 초기 단계지만 제대로 된 결과가 나오고 있다”고 말했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "EU deep fake labels reach\nnon-EU advertisers",
-          "body": "Synthetic influencers and AI product shots that misstate items need labels, with fines up to 3% for non-EU advertisers.",
-          "mini_headline": "EU AI labels for ads",
+          "headline": "Schibsted wins budgets back\nfrom Meta with custom AI",
+          "body": "Schibsted is building custom ad optimization algorithms with Nodals AI to win back brands drawn to Meta's own tools.",
+          "mini_headline": "Schibsted's AI takes on Meta",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/eu-ai-act-deep-fake-label-3-percent-fines-carousel-projector-flattered-kettle-across-sea.jpg",
-                "cap": "Non-EU ad makers face 3% turnover fines if AI product shots flattering the real item go unlabelled"
+                "src": "https://www.adexchanger.com/wp-content/uploads/2024/10/revenue-sharing-publishers-sundar-pichai-mark-zuckerberg-comic-1024x941.png"
               },
               {
                 "t": "p",
-                "x": "The European Commission's guidelines on the transparency obligations in Article 50 of the AI Act were published in the Official Journal of the European Union under the reference C/2026/6005. A company established outside the EU that uses an AI system to generate a deep fake of a celebrity for an advertisement displayed in the Union is, according to the guidelines, a deployer within the scope of the AI Act."
+                "x": "Schibsted is working with Nodals AI, a London-based company that creates custom ad optimization algorithms for publishers in Europe and the US, to help court brands who’ve been wooed by Meta’s own optimization tools, Christer Ljones, director of ad data capabilities at Schibsted Marketing Services, told AdExchanger."
               },
               {
                 "t": "p",
-                "x": "AI-made celebrity endorsements, synthetic influencers testing products and product images that misrepresent the real item all count as deep fakes that need a visible label. A company that merely commissions an agency, without control over how it uses AI, is not a deployer. Ad copy and product descriptions stay outside the text rule unless they make health, consumer safety or sustainability claims."
+                "x": "The walled gardens have won advertisers over with AI-powered campaign optimization features like Meta’s Advantage+, and it’s been hard for open-web publishers to keep up. “Advertisers have been trained by Meta to just care about ‘I put money in and I see how much money comes out,’” said Nodals Founder and CEO Aly Nurmohamed."
               },
               {
                 "t": "p",
-                "x": "Deployers \"cannot rely on the machine-readable marking embedded in the content by the provider.\" Fines for breaching Article 50 reach EUR 15,000,000 or 3% of total worldwide annual turnover, whichever is higher. Generative systems placed on the market before August 2, 2026 have until December 2, 2026 to meet the marking duty."
+                "x": "Nodals feeds the publisher’s first-party data — logged-in data, scroll depth, how often readers click on content or ads — into its models to predict who is likely to click and buy for a particular advertiser. Schibsted first tested the tech last summer and is building a new line of direct-sold native ad formats with AI optimization built in, priced on a cost-per-click basis rather than CPM."
+              },
+              {
+                "t": "p",
+                "x": "“Let’s take 10% of whatever you spend on Meta, and you can probably keep most of your conversions and get more [from us],” Ljones said. “We’re in an early phase, but we’re seeing the right results.”"
               }
             ]
           }
         },
         "ko": {
-          "headline": "EU 딥페이크 라벨\nnon-EU 광고주에도",
-          "body": "non-EU 광고주도 AI 제품 사진에 라벨을 달아야 하며 벌금은 최대 3%다.",
-          "mini_headline": "광고 속 EU AI 라벨",
+          "headline": "Schibsted, 맞춤형\nAI로 Meta 예산 탈환",
+          "body": "Schibsted가 Nodals AI 맞춤 알고리즘으로 Meta 광고주를 되찾는다.",
+          "mini_headline": "Schibsted, AI로 Meta에 맞서다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/eu-ai-act-deep-fake-label-3-percent-fines-carousel-projector-flattered-kettle-across-sea.jpg",
-                "cap": "Non-EU 광고 제작사가 실물을 미화한 AI 제품 사진에 라벨을 달지 않으면 매출액의 3%를 벌금으로 낸다"
+                "src": "https://www.adexchanger.com/wp-content/uploads/2024/10/revenue-sharing-publishers-sundar-pichai-mark-zuckerberg-comic-1024x941.png"
               },
               {
                 "t": "p",
-                "x": "AI Act 제50조 투명성 의무를 다룬 유럽연합 집행위원회(European Commission) 가이드라인이 문서번호 C/2026/6005로 유럽연합 관보에 실렸다. 가이드라인은 EU 밖에 세운 기업이라도 EU 역내에 걸 광고용으로 AI 시스템을 써 유명인 딥페이크를 만들면 AI Act가 적용되는 배포자(deployer)가 된다고 설명한다."
+                "x": "Schibsted가 London-based 기업 Nodals AI와 손잡고 Meta 자체 최적화 도구에 끌려간 브랜드를 다시 불러오려 한다. 이 회사는 유럽(Europe)과 미국(US) 퍼블리셔에게 맞춤 광고 최적화 알고리즘을 만들어 준다. Schibsted Marketing Services의 광고 데이터 역량 디렉터 Christer Ljones가 AdExchanger에 밝혔다."
               },
               {
                 "t": "p",
-                "x": "AI-made 유명인 보증 광고, 제품을 써 보는 합성 인플루언서, 실제 제품을 왜곡한 제품 이미지는 모두 딥페이크여서 눈에 보이는 라벨을 달아야 한다. AI 활용 방식을 통제하지 않고 대행사에 의뢰만 하는 기업은 배포자가 아니다. 광고 문구와 제품 설명은 건강·소비자 안전·지속가능성 주장을 담지 않으면 텍스트 규정에서 빠진다."
+                "x": "월드 가든 플랫폼은 Meta의 Advantage+ 같은 AI-powered 캠페인 최적화 기능으로 광고주를 사로잡았다. 오픈 웹 퍼블리셔로서는 따라잡기 버거웠다. Nodals 창업자 겸 CEO Aly Nurmohamed는 “광고주들은 Meta에 길들여져 ‘돈을 넣으면 얼마가 나오는지’에만 신경 쓰게 됐다”고 말했다."
               },
               {
                 "t": "p",
-                "x": "배포자는 \"제공자가 콘텐츠에 삽입한 기계 판독형 표시에 기댈 수 없다.\" 제50조를 어기면 EUR 15,000,000과 전 세계 연간 총매출액의 3% 가운데 큰 금액까지 벌금이 매겨진다. 2026년 8월 2일 전에 출시된 생성형 시스템은 2026년 12월 2일까지 표시 의무를 갖추면 된다."
+                "x": "Nodals는 로그인 데이터와 스크롤 깊이, 독자가 콘텐츠나 광고를 클릭하는 빈도 같은 퍼블리셔의 퍼스트파티 데이터를 모델에 넣는다. 그러고는 특정 광고주 기준으로 클릭하고 구매할 가능성이 높은 사람을 예측한다. Schibsted는 지난여름 이 기술을 처음 시험했고 지금은 AI 최적화를 내장한 직판 네이티브 광고 포맷 라인을 새로 만드는 중이다. 가격은 CPM이 아닌 클릭당 비용 기준으로 매긴다."
+              },
+              {
+                "t": "p",
+                "x": "Ljones는 “Meta에 쓰는 비용의 10%를 가져와 보라. 전환 대부분은 그대로 지키면서 [우리에게서] 더 많이 얻을 수 있을 것”이라며 “아직 초기 단계지만 제대로 된 결과가 나오고 있다”고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "EUのディープフェイク表示\nnon-EU広告主にも",
-          "body": "合成インフルエンサーやAI製品写真に表示が必要で、non-EU広告主も罰金は最大3%だ。",
-          "mini_headline": "広告にEUのAI表示義務",
+          "headline": "独自AIのSchibsted\nMetaから予算を奪還",
+          "body": "SchibstedはNodals AIの独自アルゴリズムでMetaからブランドを奪還する。",
+          "mini_headline": "Schibsted、AIでMetaに挑む",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/eu-ai-act-deep-fake-label-3-percent-fines-carousel-projector-flattered-kettle-across-sea.jpg",
-                "cap": "Non-EUの広告制作者も、実物をよく見せるAI製品写真に表示を付けなければ売上高の3%の罰金を科される"
+                "src": "https://www.adexchanger.com/wp-content/uploads/2024/10/revenue-sharing-publishers-sundar-pichai-mark-zuckerberg-comic-1024x941.png"
               },
               {
                 "t": "p",
-                "x": "欧州委員会によるAI Act第50条の透明性義務に関するガイドラインが、C/2026/6005の番号で欧州連合官報に掲載された。ガイドラインによると、EU域外で設立された企業が、EU域内で表示される広告のためにAIシステムで著名人のディープフェイクを生成する場合、AI Actの適用対象となる導入者（deployer）にあたる。"
+                "x": "Schibstedは、欧州（Europe）と米国（US）のパブリッシャー向けに独自の広告最適化アルゴリズムを開発するLondon-basedの企業Nodals AIと組み、Meta独自の最適化ツールに引き寄せられたブランドの呼び戻しを図っている。Schibsted Marketing Servicesで広告データ機能のディレクターを務めるChrister Ljones氏がAdExchangerに語った。"
               },
               {
                 "t": "p",
-                "x": "AI-madeの著名人による推奨、製品を試す合成インフルエンサー、実物と異なる製品画像は、いずれも目に見える表示が必要なディープフェイクに数えられる。AIの使い方を管理せず代理店に依頼するだけの企業は導入者ではない。広告コピーと製品説明は、健康、消費者の安全、持続可能性に関する主張をしない限り、テキストに関する規定の対象外となる。"
+                "x": "ウォールドガーデンはMetaのAdvantage+のようなAI-poweredのキャンペーン最適化機能で広告主を取り込み、オープンウェブのパブリッシャーは追いつくのに苦労してきた。Nodalsの創業者兼CEO、Aly Nurmohamed氏は「広告主はMetaによって『お金を入れたら、いくら出てくるか』だけを気にするよう仕込まれてきた」と語る。"
               },
               {
                 "t": "p",
-                "x": "導入者は「提供者がコンテンツに埋め込んだ機械可読なマーキングに頼ることはできない」。第50条違反の罰金は、EUR 15,000,000または全世界の年間総売上高の3%のうち高いほうに達する。2026年8月2日より前に市場に出た生成システムは、2026年12月2日までにマーキング義務を満たせばよい。"
+                "x": "Nodalsは、ログインデータやスクロール深度、読者がコンテンツや広告をクリックする頻度といったパブリッシャーのファーストパーティデータをモデルに取り込み、特定の広告主にとってクリックや購入をしそうな人を予測する。Schibstedは昨夏この技術を初めてテストし、AI最適化を組み込んだ直販ネイティブ広告フォーマットの新ラインを構築中で、価格はCPMではなくクリック単価で設定する。"
+              },
+              {
+                "t": "p",
+                "x": "「Metaに費やしている額の10%をこちらに回してみてほしい。コンバージョンの大半は維持でき、[我々から]さらに多くを得られるはずだ」とLjones氏は話す。「まだ初期段階だが、正しい成果が出ている」"
               }
             ]
           }
         },
         "zh": {
-          "headline": "EU深度伪造标识规定\n覆盖non-EU广告主",
-          "body": "合成网红与失实的AI产品图须加标识，non-EU广告主最高罚款3%。",
-          "mini_headline": "广告须加EU AI标识",
+          "headline": "Schibsted靠定制AI\n从Meta手中夺回预算",
+          "body": "Schibsted携手Nodals AI开发广告优化算法，夺回被Meta工具吸引的品牌。",
+          "mini_headline": "Schibsted用AI挑战Meta",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/eu-ai-act-deep-fake-label-3-percent-fines-carousel-projector-flattered-kettle-across-sea.jpg",
-                "cap": "若美化实物的AI产品图未加标识，Non-EU广告制作方将面临营业额3%的罚款"
+                "src": "https://www.adexchanger.com/wp-content/uploads/2024/10/revenue-sharing-publishers-sundar-pichai-mark-zuckerberg-comic-1024x941.png"
               },
               {
                 "t": "p",
-                "x": "欧盟委员会关于AI Act第50条透明度义务的指南已在《欧盟官方公报》上发布，编号为C/2026/6005。根据该指南，一家在EU以外设立的公司，若使用AI系统为在欧盟境内展示的广告生成名人深度伪造内容，即属于AI Act适用范围内的部署者。"
+                "x": "Schibsted Marketing Services广告数据能力总监Christer Ljones对AdExchanger表示，Schibsted正与London-based公司Nodals AI合作，以争取那些被Meta自家优化工具吸引的品牌。Nodals AI为欧洲（Europe）和美国（US）的发布商打造定制广告优化算法。"
               },
               {
                 "t": "p",
-                "x": "AI-made的名人代言、试用产品的合成网红以及与实物不符的产品图片，都属于需要可见标识的深度伪造。仅委托代理机构、并不掌控其如何使用AI的公司，不算部署者。广告文案和产品描述只要不涉及健康、消费者安全或可持续性方面的声明，就不受文本规则约束。"
+                "x": "围墙花园凭借Meta的Advantage+等AI-powered广告活动优化功能赢得了广告主，开放网络发布商一直难以跟上。Nodals创始人兼CEO Aly Nurmohamed表示：“广告主已被Meta训练得只关心‘我投进去多少钱，能看到多少钱回来’。”"
               },
               {
                 "t": "p",
-                "x": "部署者“不能依赖提供者嵌入内容中的机器可读标记”。违反第50条的罚款最高可达EUR 15,000,000或全球年营业总额的3%，以较高者为准。2026年8月2日之前投放市场的生成式系统，须在2026年12月2日前履行标记义务。"
+                "x": "Nodals将发布商的第一方数据——登录数据、滚动深度、读者点击内容或广告的频率——输入模型，预测哪些人可能为特定广告主点击并购买。Schibsted去年夏天首次测试这项技术，目前正在打造一条内置AI优化的直销原生广告新产品线，按每次点击成本而非CPM计价。"
+              },
+              {
+                "t": "p",
+                "x": "Ljones说：“把你在Meta上花费的10%拿出来，你大概能保住大部分转化，还能[从我们这里]得到更多。”“我们还处于早期阶段，但已看到正确的结果。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "La EU exige etiquetar deep fakes\ntambién a anunciantes non-EU",
-          "body": "Influencers sintéticos y fotos de AI engañosas deben etiquetarse, con multas de hasta 3% para firmas non-EU.",
-          "mini_headline": "Etiquetas de AI de la EU en anuncios",
+          "headline": "Schibsted recupera presupuesto\nde Meta con IA a medida",
+          "body": "Schibsted desarrolla con Nodals AI algoritmos de optimización publicitaria para recuperar marcas atraídas por Meta.",
+          "mini_headline": "La IA de Schibsted se mide con Meta",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/eu-ai-act-deep-fake-label-3-percent-fines-carousel-projector-flattered-kettle-across-sea.jpg",
-                "cap": "Los creadores de anuncios Non-EU se exponen a multas del 3% de la facturación si no etiquetan las fotos de producto hechas con AI que embellecen el artículo real"
+                "src": "https://www.adexchanger.com/wp-content/uploads/2024/10/revenue-sharing-publishers-sundar-pichai-mark-zuckerberg-comic-1024x941.png"
               },
               {
                 "t": "p",
-                "x": "Las directrices de la Comisión Europea sobre las obligaciones de transparencia del artículo 50 de la AI Act se publicaron en el Diario Oficial de la Unión Europea con la referencia C/2026/6005. Según las directrices, una empresa establecida fuera de la EU que usa un sistema de AI para generar un deep fake de una celebridad para un anuncio que se muestra en la Unión es un responsable del despliegue (deployer) dentro del ámbito de la AI Act."
+                "x": "Schibsted trabaja con Nodals AI, una empresa London-based que crea algoritmos de optimización publicitaria a medida para editores de Europa y Estados Unidos (US), para atraer a las marcas seducidas por las herramientas de optimización propias de Meta, según dijo a AdExchanger Christer Ljones, director de capacidades de datos publicitarios de Schibsted Marketing Services."
               },
               {
                 "t": "p",
-                "x": "Los respaldos de celebridades AI-made, los influencers sintéticos que prueban productos y las imágenes de producto que tergiversan el artículo real cuentan como deep fakes que necesitan una etiqueta visible. Una empresa que solo encarga el trabajo a una agencia, sin control sobre cómo usa la AI, no es un responsable del despliegue. Los textos publicitarios y las descripciones de producto quedan fuera de la norma sobre texto salvo que hagan afirmaciones sobre salud, seguridad del consumidor o sostenibilidad."
+                "x": "Los jardines amurallados han conquistado a los anunciantes con funciones de optimización de campañas AI-powered como Advantage+ de Meta, y a los editores de la web abierta les ha costado seguir el ritmo. “Meta ha acostumbrado a los anunciantes a que solo les importe ‘pongo dinero y veo cuánto dinero sale’”, dijo Aly Nurmohamed, fundador y CEO de Nodals."
               },
               {
                 "t": "p",
-                "x": "Los responsables del despliegue \"no pueden confiar en la marca legible por máquina que el proveedor incrusta en el contenido\". Las multas por incumplir el artículo 50 alcanzan EUR 15,000,000 o el 3% de la facturación anual mundial total, lo que sea mayor. Los sistemas generativos comercializados antes del 2 de agosto de 2026 tienen hasta el 2 de diciembre de 2026 para cumplir la obligación de marcado."
+                "x": "Nodals introduce en sus modelos los datos propios del editor —datos de sesión iniciada, profundidad de desplazamiento, frecuencia con que los lectores hacen clic en contenidos o anuncios— para predecir quién tiene probabilidad de hacer clic y comprar para un anunciante concreto. Schibsted probó la tecnología por primera vez el verano pasado y está creando una nueva línea de formatos nativos de venta directa con optimización por IA integrada, con precio por clic en lugar de CPM."
+              },
+              {
+                "t": "p",
+                "x": "“Tomemos el 10% de lo que inviertes en Meta: probablemente puedas mantener la mayoría de tus conversiones y obtener más [de nosotros]”, dijo Ljones. “Estamos en una fase inicial, pero estamos viendo los resultados correctos”."
               }
             ]
           }
@@ -999,109 +867,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "EU 딥페이크 라벨\nnon-EU 광고주에도",
-          "body": "non-EU 광고주도 AI 제품 사진에 라벨을 달아야 하며 벌금은 최대 3%다.",
-          "mini_headline": "광고 속 EU AI 라벨",
+          "headline": "Schibsted, 맞춤형\nAI로 Meta 예산 탈환",
+          "body": "Schibsted가 Nodals AI 맞춤 알고리즘으로 Meta 광고주를 되찾는다.",
+          "mini_headline": "Schibsted, AI로 Meta에 맞서다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/eu-ai-act-deep-fake-label-3-percent-fines-carousel-projector-flattered-kettle-across-sea.jpg",
-                "cap": "Non-EU 광고 제작사가 실물을 미화한 AI 제품 사진에 라벨을 달지 않으면 매출액의 3% 벌금을 물게 된다"
+                "src": "https://www.adexchanger.com/wp-content/uploads/2024/10/revenue-sharing-publishers-sundar-pichai-mark-zuckerberg-comic-1024x941.png"
               },
               {
                 "t": "p",
-                "x": "AI Act 제50조의 투명성 의무에 관한 유럽연합 집행위원회(European Commission) 가이드라인이 C/2026/6005라는 문서번호로 유럽연합 관보에 게재됐다. 가이드라인에 따르면 EU 밖에 설립된 기업이 EU 역내에 게시되는 광고를 위해 AI 시스템으로 유명인 딥페이크를 만들면 AI Act 적용 범위 안의 배포자(deployer)에 해당한다."
+                "x": "Schibsted는 유럽(Europe)과 미국(US)의 퍼블리셔를 위해 맞춤 광고 최적화 알고리즘을 만드는 London-based 기업 Nodals AI와 손잡고, Meta 자체 최적화 도구에 끌린 브랜드를 다시 불러오려 한다. Schibsted Marketing Services의 광고 데이터 역량 디렉터 Christer Ljones가 AdExchanger에 밝힌 내용이다."
               },
               {
                 "t": "p",
-                "x": "AI-made 유명인 보증 광고, 제품을 써 보는 합성 인플루언서, 실제 제품을 왜곡한 제품 이미지는 모두 눈에 보이는 라벨이 필요한 딥페이크로 본다. AI 활용 방식을 통제하지 않고 대행사에 의뢰만 하는 기업은 배포자가 아니다. 광고 문구와 제품 설명은 건강, 소비자 안전, 지속가능성에 관한 주장을 담지 않는 한 텍스트 규정의 적용을 받지 않는다."
+                "x": "월드 가든 플랫폼들은 Meta의 Advantage+ 같은 AI-powered 캠페인 최적화 기능으로 광고주를 사로잡았고, 오픈 웹 퍼블리셔는 이를 따라잡기 어려웠다. Nodals 창업자 겸 CEO Aly Nurmohamed는 “광고주들은 Meta에 길들여져 ‘돈을 넣으면 얼마가 나오는지’에만 신경 쓰게 됐다”고 말했다."
               },
               {
                 "t": "p",
-                "x": "배포자는 \"제공자가 콘텐츠에 삽입한 기계 판독형 표시에 기댈 수 없다.\" 제50조를 위반하면 벌금은 EUR 15,000,000 또는 전 세계 연간 총매출액의 3% 중 더 높은 금액에 이른다. 2026년 8월 2일 이전에 시장에 출시된 생성형 시스템은 2026년 12월 2일까지 표시 의무를 충족하면 된다."
+                "x": "Nodals는 퍼블리셔의 퍼스트파티 데이터, 즉 로그인 데이터와 스크롤 깊이, 독자가 콘텐츠나 광고를 클릭하는 빈도를 모델에 넣어 특정 광고주를 위해 클릭하고 구매할 가능성이 높은 사람을 예측한다. Schibsted는 지난여름 이 기술을 처음 시험했고, AI 최적화를 내장한 직판 네이티브 광고 포맷 라인을 새로 만들고 있다. 가격은 CPM이 아닌 클릭당 비용 기준으로 매긴다."
+              },
+              {
+                "t": "p",
+                "x": "Ljones는 “Meta에 쓰는 비용의 10%를 가져와 보라. 전환 대부분은 그대로 지키면서 [우리에게서] 더 많이 얻을 수 있을 것”이라며 “아직 초기 단계지만 제대로 된 결과가 나오고 있다”고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "EUのディープフェイク表示\nnon-EU広告主にも",
-          "body": "合成インフルエンサーやAI製品写真に表示が必要で、non-EU広告主も罰金は最大3%だ。",
-          "mini_headline": "広告にEUのAI表示義務",
+          "headline": "独自AIのSchibsted\nMetaから予算を奪還",
+          "body": "SchibstedはNodals AIの独自アルゴリズムでMetaからブランドを奪還する。",
+          "mini_headline": "Schibsted、AIでMetaに挑む",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/eu-ai-act-deep-fake-label-3-percent-fines-carousel-projector-flattered-kettle-across-sea.jpg",
-                "cap": "Non-EUの広告制作者も、実物をよく見せるAI製品写真に表示を付けなければ売上高の3%の罰金を科される"
+                "src": "https://www.adexchanger.com/wp-content/uploads/2024/10/revenue-sharing-publishers-sundar-pichai-mark-zuckerberg-comic-1024x941.png"
               },
               {
                 "t": "p",
-                "x": "欧州委員会によるAI Act第50条の透明性義務に関するガイドラインが、C/2026/6005の番号で欧州連合官報に掲載された。ガイドラインによると、EU域外で設立された企業が、EU域内で表示される広告のためにAIシステムで著名人のディープフェイクを生成する場合、AI Actの適用対象となる導入者（deployer）にあたる。"
+                "x": "Schibstedは、欧州（Europe）と米国（US）のパブリッシャー向けに独自の広告最適化アルゴリズムを開発するLondon-basedの企業Nodals AIと組み、Meta独自の最適化ツールに引き寄せられたブランドの呼び戻しを図っている。Schibsted Marketing Servicesで広告データ機能のディレクターを務めるChrister Ljones氏がAdExchangerに語った。"
               },
               {
                 "t": "p",
-                "x": "AI-madeの著名人による推奨、製品を試す合成インフルエンサー、実物と異なる製品画像は、いずれも目に見える表示が必要なディープフェイクに数えられる。AIの使い方を管理せず代理店に依頼するだけの企業は導入者ではない。広告コピーと製品説明は、健康、消費者の安全、持続可能性に関する主張をしない限り、テキストに関する規定の対象外となる。"
+                "x": "ウォールドガーデンはMetaのAdvantage+のようなAI-poweredのキャンペーン最適化機能で広告主を取り込み、オープンウェブのパブリッシャーは追いつくのに苦労してきた。Nodalsの創業者兼CEO、Aly Nurmohamed氏は「広告主はMetaによって『お金を入れたら、いくら出てくるか』だけを気にするよう仕込まれてきた」と語る。"
               },
               {
                 "t": "p",
-                "x": "導入者は「提供者がコンテンツに埋め込んだ機械可読なマーキングに頼ることはできない」。第50条違反の罰金は、EUR 15,000,000または全世界の年間総売上高の3%のうち高いほうに達する。2026年8月2日より前に市場に出た生成システムは、2026年12月2日までにマーキング義務を満たせばよい。"
+                "x": "Nodalsは、ログインデータやスクロール深度、読者がコンテンツや広告をクリックする頻度といったパブリッシャーのファーストパーティデータをモデルに取り込み、特定の広告主にとってクリックや購入をしそうな人を予測する。Schibstedは昨夏この技術を初めてテストし、AI最適化を組み込んだ直販ネイティブ広告フォーマットの新ラインを構築中で、価格はCPMではなくクリック単価で設定する。"
+              },
+              {
+                "t": "p",
+                "x": "「Metaに費やしている額の10%をこちらに回してみてほしい。コンバージョンの大半は維持でき、[我々から]さらに多くを得られるはずだ」とLjones氏は話す。「まだ初期段階だが、正しい成果が出ている」"
               }
             ]
           }
         },
         "zh": {
-          "headline": "EU深度伪造标识规定\n覆盖non-EU广告主",
-          "body": "合成网红与失实的AI产品图须加标识，non-EU广告主最高罚款3%。",
-          "mini_headline": "广告须加EU AI标识",
+          "headline": "Schibsted靠定制AI\n从Meta手中夺回预算",
+          "body": "Schibsted携手Nodals AI开发广告优化算法，夺回被Meta工具吸引的品牌。",
+          "mini_headline": "Schibsted用AI挑战Meta",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/eu-ai-act-deep-fake-label-3-percent-fines-carousel-projector-flattered-kettle-across-sea.jpg",
-                "cap": "若美化实物的AI产品图未加标识，Non-EU广告制作方将面临营业额3%的罚款"
+                "src": "https://www.adexchanger.com/wp-content/uploads/2024/10/revenue-sharing-publishers-sundar-pichai-mark-zuckerberg-comic-1024x941.png"
               },
               {
                 "t": "p",
-                "x": "欧盟委员会关于AI Act第50条透明度义务的指南已在《欧盟官方公报》上发布，编号为C/2026/6005。根据该指南，一家在EU以外设立的公司，若使用AI系统为在欧盟境内展示的广告生成名人深度伪造内容，即属于AI Act适用范围内的部署者。"
+                "x": "Schibsted Marketing Services广告数据能力总监Christer Ljones对AdExchanger表示，Schibsted正与London-based公司Nodals AI合作，以争取那些被Meta自家优化工具吸引的品牌。Nodals AI为欧洲（Europe）和美国（US）的发布商打造定制广告优化算法。"
               },
               {
                 "t": "p",
-                "x": "AI-made的名人代言、试用产品的合成网红以及与实物不符的产品图片，都属于需要可见标识的深度伪造。仅委托代理机构、并不掌控其如何使用AI的公司，不算部署者。广告文案和产品描述只要不涉及健康、消费者安全或可持续性方面的声明，就不受文本规则约束。"
+                "x": "围墙花园凭借Meta的Advantage+等AI-powered广告活动优化功能赢得了广告主，开放网络发布商一直难以跟上。Nodals创始人兼CEO Aly Nurmohamed表示：“广告主已被Meta训练得只关心‘我投进去多少钱，能看到多少钱回来’。”"
               },
               {
                 "t": "p",
-                "x": "部署者“不能依赖提供者嵌入内容中的机器可读标记”。违反第50条的罚款最高可达EUR 15,000,000或全球年营业总额的3%，以较高者为准。2026年8月2日之前投放市场的生成式系统，须在2026年12月2日前履行标记义务。"
+                "x": "Nodals将发布商的第一方数据——登录数据、滚动深度、读者点击内容或广告的频率——输入模型，预测哪些人可能为特定广告主点击并购买。Schibsted去年夏天首次测试这项技术，目前正在打造一条内置AI优化的直销原生广告新产品线，按每次点击成本而非CPM计价。"
+              },
+              {
+                "t": "p",
+                "x": "Ljones说：“把你在Meta上花费的10%拿出来，你大概能保住大部分转化，还能[从我们这里]得到更多。”“我们还处于早期阶段，但已看到正确的结果。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "La EU exige etiquetar deep fakes\ntambién a anunciantes non-EU",
-          "body": "Influencers sintéticos y fotos de AI engañosas deben etiquetarse, con multas de hasta 3% para firmas non-EU.",
-          "mini_headline": "Etiquetas de AI de la EU en anuncios",
+          "headline": "Schibsted recupera presupuesto\nde Meta con IA a medida",
+          "body": "Schibsted desarrolla con Nodals AI algoritmos de optimización publicitaria para recuperar marcas atraídas por Meta.",
+          "mini_headline": "La IA de Schibsted se mide con Meta",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/eu-ai-act-deep-fake-label-3-percent-fines-carousel-projector-flattered-kettle-across-sea.jpg",
-                "cap": "Los creadores de anuncios Non-EU se exponen a multas del 3% de la facturación si no etiquetan las fotos de producto hechas con AI que embellecen el artículo real"
+                "src": "https://www.adexchanger.com/wp-content/uploads/2024/10/revenue-sharing-publishers-sundar-pichai-mark-zuckerberg-comic-1024x941.png"
               },
               {
                 "t": "p",
-                "x": "Las directrices de la Comisión Europea sobre las obligaciones de transparencia del artículo 50 de la AI Act se publicaron en el Diario Oficial de la Unión Europea con la referencia C/2026/6005. Según las directrices, una empresa establecida fuera de la EU que usa un sistema de AI para generar un deep fake de una celebridad para un anuncio que se muestra en la Unión es un responsable del despliegue (deployer) dentro del ámbito de la AI Act."
+                "x": "Schibsted trabaja con Nodals AI, una empresa London-based que crea algoritmos de optimización publicitaria a medida para editores de Europa y Estados Unidos (US), para atraer a las marcas seducidas por las herramientas de optimización propias de Meta, según dijo a AdExchanger Christer Ljones, director de capacidades de datos publicitarios de Schibsted Marketing Services."
               },
               {
                 "t": "p",
-                "x": "Los respaldos de celebridades AI-made, los influencers sintéticos que prueban productos y las imágenes de producto que tergiversan el artículo real cuentan como deep fakes que necesitan una etiqueta visible. Una empresa que solo encarga el trabajo a una agencia, sin control sobre cómo usa la AI, no es un responsable del despliegue. Los textos publicitarios y las descripciones de producto quedan fuera de la norma sobre texto salvo que hagan afirmaciones sobre salud, seguridad del consumidor o sostenibilidad."
+                "x": "Los jardines amurallados han conquistado a los anunciantes con funciones de optimización de campañas AI-powered como Advantage+ de Meta, y a los editores de la web abierta les ha costado seguir el ritmo. “Meta ha acostumbrado a los anunciantes a que solo les importe ‘pongo dinero y veo cuánto dinero sale’”, dijo Aly Nurmohamed, fundador y CEO de Nodals."
               },
               {
                 "t": "p",
-                "x": "Los responsables del despliegue \"no pueden confiar en la marca legible por máquina que el proveedor incrusta en el contenido\". Las multas por incumplir el artículo 50 alcanzan EUR 15,000,000 o el 3% de la facturación anual mundial total, lo que sea mayor. Los sistemas generativos comercializados antes del 2 de agosto de 2026 tienen hasta el 2 de diciembre de 2026 para cumplir la obligación de marcado."
+                "x": "Nodals introduce en sus modelos los datos propios del editor —datos de sesión iniciada, profundidad de desplazamiento, frecuencia con que los lectores hacen clic en contenidos o anuncios— para predecir quién tiene probabilidad de hacer clic y comprar para un anunciante concreto. Schibsted probó la tecnología por primera vez el verano pasado y está creando una nueva línea de formatos nativos de venta directa con optimización por IA integrada, con precio por clic en lugar de CPM."
+              },
+              {
+                "t": "p",
+                "x": "“Tomemos el 10% de lo que inviertes en Meta: probablemente puedas mantener la mayoría de tus conversiones y obtener más [de nosotros]”, dijo Ljones. “Estamos en una fase inicial, pero estamos viendo los resultados correctos”."
               }
             ]
           }
@@ -1109,15 +989,15 @@
       }
     },
     {
-      "id": "nectar-creator-agent",
-      "source_lang": "en",
+      "id": "buzzvil-prism-ad-engine",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "Nectar AI 에이전트\n크리에이터 섭외 맡는다",
-      "body": "Nectar의 Creator Agent는 크리에이터 발굴부터 성과 추적까지 맡는다.",
-      "mini_headline": "Nectar의 크리에이터 에이전트",
+      "headline": "버즈빌, 이용자마다\n다른 광고 만드는 AI",
+      "body": "버즈빌 '프리즘'은 한 캠페인 안에서도 이용자별로 다른 광고를 자동 제작한다.",
+      "mini_headline": "버즈빌 초개인화 AI 광고",
       "tool": "Marketing",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+      "source": "바이라인네트워크",
+      "url": "https://byline.network/2026/11/13_buzzvil/",
       "accent": "#2ec5c5",
       "motif": "frame",
       "full": {
@@ -1125,305 +1005,345 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://techcrunch.com/wp-content/uploads/2023/10/misbahfarah-together.jpg?w=1024",
-            "cap": "Nectar AI 공동 창업자 Misbah Uraizee와 Farah Uraizee"
+            "src": "https://cdn.byline.network/wp-content/uploads/2026/11/buzzvil_20261113.jpg",
+            "cap": "버즈빌, 이용자별 광고 소재 자동 제작하는 AI 엔진 ‘프리즘’ 출시 (출처=버즈빌)"
           },
           {
             "t": "p",
-            "x": "AI-powered 마케팅 운영체제 Nectar가 인플루언서 마케팅의 수작업을 크게 덜어 줄 새 AI 에이전트를 내놓는다. 목요일 공개된 “Creator Agent”는 크리에이터를 찾아 콘텐츠와 브랜드 파트너십을 확인하고, 맞춤 메시지를 보내 협업을 조율한 뒤 캠페인 성과까지 지켜본다."
+            "x": "버즈빌이 이용자의 관심사와 구매 단계에 따라 서로 다른 광고를 보여주는 인공지능(AI) 광고 엔진을 선보였다. 같은 브랜드의 동일한 광고 캠페인에서도 이용자별로 상품 추천과 광고 메시지, 참여 방식을 다르게 구성하는 것이 특징이다. 버즈빌은 초개인화 인터랙션 광고 엔진 ‘프리즘(Prism)’을 출시하고, 이달부터 희망 광고주를 대상으로 적용한다고 13일 밝혔다."
           },
           {
             "t": "p",
-            "x": "Nectar에 따르면 Creator Agent는 크리에이터 프로필 3억 개 이상을 뒤져 잠재 파트너를 찾는다. 이제 막 주목받기 시작한 소규모 크리에이터도 대상이다. 영상을 분석해 크리에이터가 무엇을 올리는지 파악하고, 특정 키워드만 찾는 대신 맥락을 보고 콘텐츠를 검토해 브랜드 안전성을 따진다."
+            "x": "핵심 기술은 자체 개발한 AI 콘텐츠 제작 시스템 ‘컴포저(Composer)’다. 컴포저는 이용자의 관심 상품과 맥락을 분석해 적합한 광고 메시지를 찾고, 대규모언어모델(LLM)을 활용해 대화형 추천이나 고민 진단 등 참여형 광고 소재를 생성한다."
           },
           {
             "t": "p",
-            "x": "에이전트는 브랜드 어조로 메시지를 써서 보내고 맞춤 랜딩 페이지도 만든다. 계약, 제품 협찬, 배송 정보 관리도 거든다. CEO Misbah Uraizee는 TechCrunch에 “브랜드는 어떤 형식으로든 어조 가이드라인을 공유하면 되고, 나머지는 Nectar가 그간의 이력에서 파악한다”고 말했다."
+            "x": "광고주는 브랜드 이미지와 상품 정보를 제공하면 별도 제작 과정 없이 하나의 캠페인에서 1000개 이상의 개인화 소재를 만들 수 있다. 생성된 소재는 금칙어와 사실관계 검수, AI 품질 심사를 거쳐 기준을 충족한 경우에만 송출된다. 프리즘은 이용자 반응을 분석해 성과가 높은 조합의 노출을 늘리는 기능도 제공한다."
           },
           {
             "t": "p",
-            "x": "Creator Agent는 오늘부터 전 세계에서 쓸 수 있고 Instagram 크리에이터와 TikTokers를 지원한다. 회사는 자사 Model Context Protocol(MCP)로도 제공해 Claude, ChatGPT, Gemini, Copilot 같은 AI 어시스턴트 안에서 쓰게 할 계획이다."
+            "x": "버즈빌이 뷰티 브랜드와 진행한 인터랙션 광고 캠페인에서는 상품 리뷰를 활용한 광고 소재의 클릭 후 구매 전환율이 기존 카탈로그형 소재보다 3배 높았다. 장바구니 담기 전환율은 7배 높았으며, 광고 클릭부터 구매까지 걸린 시간의 중앙값은 57% 짧았다."
+          },
+          {
+            "t": "p",
+            "x": "이관우 버즈빌 대표는 “광고를 일방적인 메시지가 아닌 이용자 한 명 한 명과 주고받는 경험으로 바꿔 나갈 것”이라고 말했다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "Nectar's AI agent runs\ncreator outreach for brands",
-          "body": "Nectar's Creator Agent finds and vets creators, sends personalized outreach and tracks how campaigns perform.",
-          "mini_headline": "Nectar's creator agent",
+        "ko": {
+          "headline": "버즈빌, 이용자마다\n다른 광고 만드는 AI",
+          "body": "버즈빌 '프리즘'은 한 캠페인 안에서도 이용자별로 다른 광고를 자동 제작한다.",
+          "mini_headline": "버즈빌 초개인화 AI 광고",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2023/10/misbahfarah-together.jpg?w=1024",
-                "cap": "Nectar AI co-founders Misbah Uraizee and Farah Uraizee"
+                "src": "https://cdn.byline.network/wp-content/uploads/2026/11/buzzvil_20261113.jpg",
+                "cap": "버즈빌, 이용자별 광고 소재 자동 제작하는 AI 엔진 ‘프리즘’ 출시 (출처=버즈빌)"
               },
               {
                 "t": "p",
-                "x": "Nectar, an AI-powered operating system for marketing, is launching a new AI agent designed to take a lot of the manual work out of influencer marketing. Announced Thursday, its new “Creator Agent” can search for creators, check their content and brand partnerships, send personalized messages, coordinate collaborations, and monitor how campaigns perform."
+                "x": "버즈빌이 이용자의 관심사와 구매 단계에 따라 서로 다른 광고를 보여주는 인공지능(AI) 광고 엔진을 선보였다. 같은 브랜드의 동일한 광고 캠페인에서도 이용자별로 상품 추천과 광고 메시지, 참여 방식을 다르게 구성하는 것이 특징이다. 버즈빌은 초개인화 인터랙션 광고 엔진 ‘프리즘(Prism)’을 출시하고, 이달부터 희망 광고주를 대상으로 적용한다고 13일 밝혔다."
               },
               {
                 "t": "p",
-                "x": "Nectar says its Creator Agent searches more than 300 million creator profiles to find potential partners, including smaller creators who are gaining traction. It analyzes videos to understand what creators post about and checks brand safety by reviewing content in context rather than simply searching for specific keywords."
+                "x": "핵심 기술은 자체 개발한 AI 콘텐츠 제작 시스템 ‘컴포저(Composer)’다. 컴포저는 이용자의 관심 상품과 맥락을 분석해 적합한 광고 메시지를 찾고, 대규모언어모델(LLM)을 활용해 대화형 추천이나 고민 진단 등 참여형 광고 소재를 생성한다."
               },
               {
                 "t": "p",
-                "x": "The agent can draft and send messages in a brand’s voice, create custom landing pages, and help manage contracts, product gifting, and shipping details. “Brands can share voice guidelines in any format, and Nectar picks up the rest from their history,” CEO Misbah Uraizee tells TechCrunch."
+                "x": "광고주는 브랜드 이미지와 상품 정보를 제공하면 별도 제작 과정 없이 하나의 캠페인에서 1000개 이상의 개인화 소재를 만들 수 있다. 생성된 소재는 금칙어와 사실관계 검수, AI 품질 심사를 거쳐 기준을 충족한 경우에만 송출된다. 프리즘은 이용자 반응을 분석해 성과가 높은 조합의 노출을 늘리는 기능도 제공한다."
               },
               {
                 "t": "p",
-                "x": "Creator Agent is available today globally and covers Instagram creators and TikTokers. The company plans to make it available through its Model Context Protocol (MCP), for use through AI assistants such as Claude, ChatGPT, Gemini, and Copilot."
+                "x": "버즈빌이 뷰티 브랜드와 진행한 인터랙션 광고 캠페인에서는 상품 리뷰를 활용한 광고 소재의 클릭 후 구매 전환율이 기존 카탈로그형 소재보다 3배 높았다. 장바구니 담기 전환율은 7배 높았으며, 광고 클릭부터 구매까지 걸린 시간의 중앙값은 57% 짧았다."
+              },
+              {
+                "t": "p",
+                "x": "이관우 버즈빌 대표는 “광고를 일방적인 메시지가 아닌 이용자 한 명 한 명과 주고받는 경험으로 바꿔 나갈 것”이라고 말했다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "Nectar AI 에이전트\n크리에이터 섭외 맡는다",
-          "body": "Nectar의 Creator Agent는 크리에이터 발굴부터 성과 추적까지 맡는다.",
-          "mini_headline": "Nectar의 크리에이터 에이전트",
+        "en": {
+          "headline": "Buzzvil's AI builds a different\nad for every user",
+          "body": "Buzzvil's Prism automatically creates different ads for each user, even within a single campaign.",
+          "mini_headline": "Buzzvil's hyper-personalized AI ads",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2023/10/misbahfarah-together.jpg?w=1024",
-                "cap": "Nectar AI 공동 창업자 Misbah Uraizee와 Farah Uraizee"
+                "src": "https://cdn.byline.network/wp-content/uploads/2026/11/buzzvil_20261113.jpg",
+                "cap": "Buzzvil launches ‘Prism,’ an AI engine that automatically creates ad creatives for each user (Source=Buzzvil)"
               },
               {
                 "t": "p",
-                "x": "AI-powered 마케팅 운영체제 Nectar가 인플루언서 마케팅의 수작업을 크게 덜어 줄 새 AI 에이전트를 내놓는다. 목요일 공개된 “Creator Agent”는 크리에이터를 찾아 콘텐츠와 브랜드 파트너십을 확인하고, 맞춤 메시지를 보내 협업을 조율한 뒤 캠페인 성과까지 지켜본다."
+                "x": "Buzzvil has unveiled an artificial intelligence (AI) ad engine that shows different ads depending on each user's interests and stage of purchase. Its distinguishing feature is that, even within the same ad campaign for the same brand, it varies product recommendations, ad messages and ways of participating for each user. Buzzvil said on the 13th that it has launched ‘Prism,’ a hyper-personalized interactive ad engine, and will apply it to interested advertisers starting this month."
               },
               {
                 "t": "p",
-                "x": "Nectar에 따르면 Creator Agent는 크리에이터 프로필 3억 개 이상을 뒤져 잠재 파트너를 찾는다. 이제 막 주목받기 시작한 소규모 크리에이터도 대상이다. 영상을 분석해 크리에이터가 무엇을 올리는지 파악하고, 특정 키워드만 찾는 대신 맥락을 보고 콘텐츠를 검토해 브랜드 안전성을 따진다."
+                "x": "Its core technology is ‘Composer,’ an AI content creation system developed in-house. Composer analyzes the products a user is interested in and their context to find a suitable ad message, then uses a large language model (LLM) to generate participatory ad creatives such as conversational recommendations or concern diagnoses."
               },
               {
                 "t": "p",
-                "x": "에이전트는 브랜드 어조로 메시지를 써서 보내고 맞춤 랜딩 페이지도 만든다. 계약, 제품 협찬, 배송 정보 관리도 거든다. CEO Misbah Uraizee는 TechCrunch에 “브랜드는 어떤 형식으로든 어조 가이드라인을 공유하면 되고, 나머지는 Nectar가 그간의 이력에서 파악한다”고 말했다."
+                "x": "If advertisers provide brand images and product information, they can create more than 1000 personalized creatives in a single campaign without a separate production process. Generated creatives go out only if they meet the standards after screening for banned words, fact-checking and an AI quality review. Prism also analyzes user responses to increase exposure of high-performing combinations."
               },
               {
                 "t": "p",
-                "x": "Creator Agent는 오늘부터 전 세계에서 쓸 수 있고 Instagram 크리에이터와 TikTokers를 지원한다. 회사는 자사 Model Context Protocol(MCP)로도 제공해 Claude, ChatGPT, Gemini, Copilot 같은 AI 어시스턴트 안에서 쓰게 할 계획이다."
+                "x": "In an interactive ad campaign Buzzvil ran with a beauty brand, creatives using product reviews had a post-click purchase conversion rate 3 times higher than existing catalog-style creatives. The add-to-cart conversion rate was 7 times higher, and the median time from ad click to purchase was 57% shorter."
+              },
+              {
+                "t": "p",
+                "x": "Buzzvil CEO Lee Kwan-woo said, “We will turn advertising from a one-way message into an experience exchanged with each and every user.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "NectarのAIが\nクリエイター起用を代行",
-          "body": "NectarのCreator Agentは、クリエイターの発掘から成果の追跡まで担う。",
-          "mini_headline": "NectarのCreator Agent",
+          "headline": "Buzzvil、利用者ごとに\n違う広告を作るAI",
+          "body": "BuzzvilのPrismは、一つのキャンペーン内でも利用者別に異なる広告を自動制作する。",
+          "mini_headline": "Buzzvilの超パーソナライズAI広告",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2023/10/misbahfarah-together.jpg?w=1024",
-                "cap": "Nectar AIの共同創業者Misbah UraizeeとFarah Uraizee"
+                "src": "https://cdn.byline.network/wp-content/uploads/2026/11/buzzvil_20261113.jpg",
+                "cap": "Buzzvil、利用者ごとの広告素材を自動制作するAIエンジン「Prism」を発売（出典=Buzzvil）"
               },
               {
                 "t": "p",
-                "x": "AI-poweredのマーケティング向けオペレーティングシステムを手がけるNectarは、インフルエンサーマーケティングの手作業の多くをなくすための新しいAIエージェントを投入する。木曜日に発表された新しい「Creator Agent」は、クリエイターの検索、コンテンツやブランドとの提携状況の確認、個別メッセージの送信、コラボレーションの調整、キャンペーン成果の監視をこなす。"
+                "x": "Buzzvilが、利用者の関心や購買段階に応じて異なる広告を表示する人工知能（AI）広告エンジンを披露した。同じブランドの同一広告キャンペーンでも、利用者ごとに商品レコメンド、広告メッセージ、参加方法を変えて構成するのが特徴だ。Buzzvilは13日、超パーソナライズ型インタラクション広告エンジン「Prism」を発売し、今月から希望する広告主を対象に適用すると明らかにした。"
               },
               {
                 "t": "p",
-                "x": "Nectarによると、Creator Agentは3億件を超えるクリエイターのプロフィールを検索して提携候補を探し、注目を集めつつある小規模クリエイターも対象に含める。動画を分析してクリエイターが何について投稿しているかを把握し、特定のキーワードを検索するだけでなく文脈の中でコンテンツを確認してブランドセーフティをチェックする。"
+                "x": "中核技術は自社開発のAIコンテンツ制作システム「Composer」だ。Composerは利用者の関心商品と文脈を分析して適切な広告メッセージを見つけ、大規模言語モデル（LLM）を活用して対話型レコメンドや悩み診断などの参加型広告素材を生成する。"
               },
               {
                 "t": "p",
-                "x": "エージェントはブランドのトーンでメッセージを作成・送信し、専用のランディングページを作り、契約や製品提供、配送情報の管理も支援する。CEOのMisbah UraizeeはTechCrunchに「ブランドはどんな形式でもトーンのガイドラインを共有すればよく、残りはNectarが過去の履歴から読み取る」と語った。"
+                "x": "広告主はブランド画像と商品情報を提供すれば、別途の制作工程なしに一つのキャンペーンで1000個以上のパーソナライズ素材を作れる。生成された素材は禁止語と事実関係の検収、AI品質審査を経て、基準を満たした場合にのみ配信される。Prismは利用者の反応を分析し、成果の高い組み合わせの露出を増やす機能も備える。"
               },
               {
                 "t": "p",
-                "x": "Creator Agentは本日から世界で利用でき、InstagramのクリエイターとTikTokersに対応する。同社はModel Context Protocol（MCP）を通じて提供し、Claude、ChatGPT、Gemini、CopilotといったAIアシスタントから使えるようにする計画だ。"
+                "x": "Buzzvilがビューティーブランドと実施したインタラクション広告キャンペーンでは、商品レビューを活用した広告素材のクリック後購入転換率が、従来のカタログ型素材より3倍高かった。カート追加の転換率は7倍高く、広告クリックから購入までにかかった時間の中央値は57%短かった。"
+              },
+              {
+                "t": "p",
+                "x": "BuzzvilのLee Kwan-woo代表は「広告を一方的なメッセージではなく、利用者一人ひとりとやり取りする体験に変えていく」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Nectar推出AI代理\n替品牌对接创作者",
-          "body": "Nectar的Creator Agent可寻找审核创作者、个性化联络并追踪效果。",
-          "mini_headline": "Nectar的创作者代理",
+          "headline": "Buzzvil用AI\n为每位用户定制广告",
+          "body": "Buzzvil的Prism即使在同一广告活动中，也能为每位用户自动制作不同广告。",
+          "mini_headline": "Buzzvil超个性化AI广告",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2023/10/misbahfarah-together.jpg?w=1024",
-                "cap": "Nectar AI联合创始人Misbah Uraizee与Farah Uraizee"
+                "src": "https://cdn.byline.network/wp-content/uploads/2026/11/buzzvil_20261113.jpg",
+                "cap": "Buzzvil推出可为每位用户自动制作广告素材的AI引擎“Prism”（来源=Buzzvil）"
               },
               {
                 "t": "p",
-                "x": "AI-powered营销操作系统Nectar将推出一款新的AI代理，旨在省去网红营销中的大量手工工作。其周四发布的新“Creator Agent”可以搜索创作者、核查其内容与品牌合作、发送个性化消息、协调合作并监测营销活动表现。"
+                "x": "Buzzvil推出一款人工智能（AI）广告引擎，可根据用户的兴趣和购买阶段展示不同广告。其特点是，即使在同一品牌的同一广告活动中，也能为每位用户分别配置商品推荐、广告信息和参与方式。Buzzvil于13日宣布推出超个性化互动广告引擎“Prism”，并从本月起面向有意向的广告主提供。"
               },
               {
                 "t": "p",
-                "x": "Nectar表示，Creator Agent会在超过3亿个创作者档案中搜索潜在合作伙伴，其中包括正在走红的小型创作者。它会分析视频以了解创作者发布的内容主题，并通过结合语境审查内容、而非仅搜索特定关键词，来检查品牌安全。"
+                "x": "其核心技术是自主研发的AI内容制作系统“Composer”。Composer分析用户感兴趣的商品和情境，找出合适的广告信息，并利用大语言模型（LLM）生成对话式推荐、烦恼诊断等参与型广告素材。"
               },
               {
                 "t": "p",
-                "x": "该代理能以品牌的口吻起草并发送消息、创建定制落地页，并协助管理合同、产品赠送和物流细节。CEO Misbah Uraizee对TechCrunch表示：“品牌可以用任何格式分享语调指南，其余的Nectar会从它们的历史记录中学习。”"
+                "x": "广告主只需提供品牌图片和商品信息，无需另行制作，就能在一个广告活动中生成1000个以上的个性化素材。生成的素材须经过违禁词与事实核查、AI质量审核，达到标准后才会投放。Prism还会分析用户反应，增加高效组合的曝光。"
               },
               {
                 "t": "p",
-                "x": "Creator Agent今天起在全球上线，覆盖Instagram创作者和TikTokers。公司计划通过其Model Context Protocol（MCP）提供该功能，供Claude、ChatGPT、Gemini和Copilot等AI助手使用。"
+                "x": "在Buzzvil与美妆品牌开展的互动广告活动中，使用商品评论的广告素材点击后购买转化率比原有目录式素材高3倍，加购转化率高7倍，从点击广告到购买所用时间的中位数缩短57%。"
+              },
+              {
+                "t": "p",
+                "x": "Buzzvil代表Lee Kwan-woo表示：“我们将把广告从单向信息，转变为与每一位用户互动交流的体验。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "El agente de AI de Nectar\ngestiona creadores para marcas",
-          "body": "Creator Agent, de Nectar, encuentra y evalúa creadores, envía mensajes personalizados y mide los resultados.",
-          "mini_headline": "El agente de creadores de Nectar",
+          "headline": "La IA de Buzzvil crea un anuncio\ndistinto para cada usuario",
+          "body": "Prism, de Buzzvil, crea automáticamente anuncios distintos para cada usuario, incluso dentro de una misma campaña.",
+          "mini_headline": "Anuncios de IA hiperpersonalizados de Buzzvil",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2023/10/misbahfarah-together.jpg?w=1024",
-                "cap": "Misbah Uraizee y Farah Uraizee, cofundadores de Nectar AI"
+                "src": "https://cdn.byline.network/wp-content/uploads/2026/11/buzzvil_20261113.jpg",
+                "cap": "Buzzvil lanza ‘Prism’, un motor de AI que crea automáticamente creatividades publicitarias para cada usuario (Fuente=Buzzvil)"
               },
               {
                 "t": "p",
-                "x": "Nectar, un sistema operativo AI-powered para marketing, lanza un nuevo agente de AI pensado para eliminar buena parte del trabajo manual del marketing de influencers. Anunciado el jueves, su nuevo “Creator Agent” puede buscar creadores, revisar su contenido y sus colaboraciones con marcas, enviar mensajes personalizados, coordinar colaboraciones y supervisar el rendimiento de las campañas."
+                "x": "Buzzvil presentó un motor publicitario de inteligencia artificial (AI) que muestra anuncios distintos según los intereses y la etapa de compra de cada usuario. Su rasgo distintivo es que, incluso dentro de una misma campaña de la misma marca, configura de forma diferente para cada usuario las recomendaciones de producto, los mensajes publicitarios y las formas de participación. Buzzvil anunció el día 13 que lanzó ‘Prism’, un motor de anuncios interactivos hiperpersonalizados, y que a partir de este mes lo aplicará a los anunciantes interesados."
               },
               {
                 "t": "p",
-                "x": "Nectar afirma que Creator Agent busca en más de 300 millones de perfiles de creadores para encontrar posibles socios, incluidos creadores más pequeños que están ganando tracción. Analiza videos para entender sobre qué publican los creadores y comprueba la seguridad de marca revisando el contenido en contexto, en lugar de limitarse a buscar palabras clave concretas."
+                "x": "Su tecnología central es ‘Composer’, un sistema de creación de contenido con AI desarrollado internamente. Composer analiza los productos de interés y el contexto del usuario para encontrar el mensaje publicitario adecuado y, mediante un modelo de lenguaje grande (LLM), genera creatividades participativas como recomendaciones conversacionales o diagnósticos de inquietudes."
               },
               {
                 "t": "p",
-                "x": "El agente puede redactar y enviar mensajes con la voz de la marca, crear páginas de destino personalizadas y ayudar a gestionar contratos, regalos de productos y detalles de envío. “Las marcas pueden compartir sus pautas de voz en cualquier formato, y Nectar deduce el resto a partir de su historial”, dijo a TechCrunch Misbah Uraizee, CEO de la empresa."
+                "x": "Si el anunciante aporta imágenes de marca e información de producto, puede crear más de 1000 creatividades personalizadas en una sola campaña sin un proceso de producción aparte. Las creatividades generadas solo se emiten si cumplen los criterios tras una revisión de palabras prohibidas y de hechos, y una evaluación de calidad con AI. Prism también analiza la respuesta de los usuarios para aumentar la exposición de las combinaciones de mayor rendimiento."
               },
               {
                 "t": "p",
-                "x": "Creator Agent ya está disponible en todo el mundo y abarca a creadores de Instagram y TikTokers. La empresa prevé ofrecerlo a través de su Model Context Protocol (MCP) para que pueda usarse desde asistentes de AI como Claude, ChatGPT, Gemini y Copilot."
+                "x": "En una campaña de anuncios interactivos que Buzzvil realizó con una marca de belleza, las creatividades basadas en reseñas de producto lograron una tasa de conversión de compra tras el clic 3 veces mayor que las creatividades de catálogo existentes. La tasa de conversión de añadir al carrito fue 7 veces mayor, y la mediana del tiempo entre el clic en el anuncio y la compra fue un 57% más corta."
+              },
+              {
+                "t": "p",
+                "x": "El CEO de Buzzvil, Lee Kwan-woo, afirmó: “Convertiremos la publicidad, de un mensaje unidireccional, en una experiencia de intercambio con cada uno de los usuarios”."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "Nectar AI 에이전트\n크리에이터 섭외 맡는다",
-          "body": "Nectar의 Creator Agent는 크리에이터 발굴부터 성과 추적까지 한다.",
-          "mini_headline": "Nectar의 크리에이터 에이전트",
+        "en": {
+          "headline": "Buzzvil's AI builds a different\nad for every user",
+          "body": "Buzzvil's Prism automatically creates different ads for each user, even within a single campaign.",
+          "mini_headline": "Buzzvil's hyper-personalized AI ads",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2023/10/misbahfarah-together.jpg?w=1024",
-                "cap": "Nectar AI 공동 창업자 Misbah Uraizee와 Farah Uraizee"
+                "src": "https://cdn.byline.network/wp-content/uploads/2026/11/buzzvil_20261113.jpg",
+                "cap": "Buzzvil launches ‘Prism,’ an AI engine that automatically creates ad creatives for each user (Source=Buzzvil)"
               },
               {
                 "t": "p",
-                "x": "AI-powered 마케팅 운영체제 Nectar가 인플루언서 마케팅의 수작업을 크게 덜어 줄 새 AI 에이전트를 내놓는다. 목요일 발표된 새 “Creator Agent”는 크리에이터를 검색하고, 그들의 콘텐츠와 브랜드 파트너십을 확인하고, 맞춤 메시지를 보내고, 협업을 조율하며, 캠페인 성과를 모니터링한다."
+                "x": "Buzzvil has unveiled an artificial intelligence (AI) ad engine that shows different ads depending on each user's interests and stage of purchase. Its distinguishing feature is that, even within the same ad campaign for the same brand, it varies product recommendations, ad messages and ways of participating for each user. Buzzvil said on the 13th that it has launched ‘Prism,’ a hyper-personalized interactive ad engine, and will apply it to interested advertisers starting this month."
               },
               {
                 "t": "p",
-                "x": "Nectar에 따르면 Creator Agent는 3억 개가 넘는 크리에이터 프로필을 검색해 잠재 파트너를 찾으며, 여기에는 주목받기 시작한 소규모 크리에이터도 포함된다. 영상을 분석해 크리에이터가 무엇을 주제로 게시하는지 파악하고, 특정 키워드만 검색하는 대신 맥락 속에서 콘텐츠를 검토해 브랜드 안전성을 점검한다."
+                "x": "Its core technology is ‘Composer,’ an AI content creation system developed in-house. Composer analyzes the products a user is interested in and their context to find a suitable ad message, then uses a large language model (LLM) to generate participatory ad creatives such as conversational recommendations or concern diagnoses."
               },
               {
                 "t": "p",
-                "x": "에이전트는 브랜드의 어조로 메시지를 작성해 보내고, 맞춤 랜딩 페이지를 만들며, 계약과 제품 협찬, 배송 정보 관리를 돕는다. CEO Misbah Uraizee는 TechCrunch에 “브랜드는 어떤 형식으로든 어조 가이드라인을 공유하면 되고, 나머지는 Nectar가 그간의 이력에서 파악한다”고 말했다."
+                "x": "If advertisers provide brand images and product information, they can create more than 1000 personalized creatives in a single campaign without a separate production process. Generated creatives go out only if they meet the standards after screening for banned words, fact-checking and an AI quality review. Prism also analyzes user responses to increase exposure of high-performing combinations."
               },
               {
                 "t": "p",
-                "x": "Creator Agent는 오늘부터 전 세계에서 쓸 수 있으며 Instagram 크리에이터와 TikTokers를 지원한다. 회사는 이를 자사 Model Context Protocol(MCP)을 통해 제공해 Claude, ChatGPT, Gemini, Copilot 같은 AI 어시스턴트에서 쓸 수 있게 할 계획이다."
+                "x": "In an interactive ad campaign Buzzvil ran with a beauty brand, creatives using product reviews had a post-click purchase conversion rate 3 times higher than existing catalog-style creatives. The add-to-cart conversion rate was 7 times higher, and the median time from ad click to purchase was 57% shorter."
+              },
+              {
+                "t": "p",
+                "x": "Buzzvil CEO Lee Kwan-woo said, “We will turn advertising from a one-way message into an experience exchanged with each and every user.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "NectarのAIが\nクリエイター起用を代行",
-          "body": "NectarのCreator Agentは、クリエイターの発掘から成果の追跡まで担う。",
-          "mini_headline": "NectarのCreator Agent",
+          "headline": "Buzzvil、利用者ごとに\n違う広告を作るAI",
+          "body": "BuzzvilのPrismは、一つのキャンペーン内でも利用者別に異なる広告を自動制作する。",
+          "mini_headline": "Buzzvilの超パーソナライズAI広告",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2023/10/misbahfarah-together.jpg?w=1024",
-                "cap": "Nectar AIの共同創業者Misbah UraizeeとFarah Uraizee"
+                "src": "https://cdn.byline.network/wp-content/uploads/2026/11/buzzvil_20261113.jpg",
+                "cap": "Buzzvil、利用者ごとの広告素材を自動制作するAIエンジン「Prism」を発売（出典=Buzzvil）"
               },
               {
                 "t": "p",
-                "x": "AI-poweredのマーケティング向けオペレーティングシステムを手がけるNectarは、インフルエンサーマーケティングの手作業の多くをなくすための新しいAIエージェントを投入する。木曜日に発表された新しい「Creator Agent」は、クリエイターの検索、コンテンツやブランドとの提携状況の確認、個別メッセージの送信、コラボレーションの調整、キャンペーン成果の監視をこなす。"
+                "x": "Buzzvilが、利用者の関心や購買段階に応じて異なる広告を表示する人工知能（AI）広告エンジンを披露した。同じブランドの同一広告キャンペーンでも、利用者ごとに商品レコメンド、広告メッセージ、参加方法を変えて構成するのが特徴だ。Buzzvilは13日、超パーソナライズ型インタラクション広告エンジン「Prism」を発売し、今月から希望する広告主を対象に適用すると明らかにした。"
               },
               {
                 "t": "p",
-                "x": "Nectarによると、Creator Agentは3億件を超えるクリエイターのプロフィールを検索して提携候補を探し、注目を集めつつある小規模クリエイターも対象に含める。動画を分析してクリエイターが何について投稿しているかを把握し、特定のキーワードを検索するだけでなく文脈の中でコンテンツを確認してブランドセーフティをチェックする。"
+                "x": "中核技術は自社開発のAIコンテンツ制作システム「Composer」だ。Composerは利用者の関心商品と文脈を分析して適切な広告メッセージを見つけ、大規模言語モデル（LLM）を活用して対話型レコメンドや悩み診断などの参加型広告素材を生成する。"
               },
               {
                 "t": "p",
-                "x": "エージェントはブランドのトーンでメッセージを作成・送信し、専用のランディングページを作り、契約や製品提供、配送情報の管理も支援する。CEOのMisbah UraizeeはTechCrunchに「ブランドはどんな形式でもトーンのガイドラインを共有すればよく、残りはNectarが過去の履歴から読み取る」と語った。"
+                "x": "広告主はブランド画像と商品情報を提供すれば、別途の制作工程なしに一つのキャンペーンで1000個以上のパーソナライズ素材を作れる。生成された素材は禁止語と事実関係の検収、AI品質審査を経て、基準を満たした場合にのみ配信される。Prismは利用者の反応を分析し、成果の高い組み合わせの露出を増やす機能も備える。"
               },
               {
                 "t": "p",
-                "x": "Creator Agentは本日から世界で利用でき、InstagramのクリエイターとTikTokersに対応する。同社はModel Context Protocol（MCP）を通じて提供し、Claude、ChatGPT、Gemini、CopilotといったAIアシスタントから使えるようにする計画だ。"
+                "x": "Buzzvilがビューティーブランドと実施したインタラクション広告キャンペーンでは、商品レビューを活用した広告素材のクリック後購入転換率が、従来のカタログ型素材より3倍高かった。カート追加の転換率は7倍高く、広告クリックから購入までにかかった時間の中央値は57%短かった。"
+              },
+              {
+                "t": "p",
+                "x": "BuzzvilのLee Kwan-woo代表は「広告を一方的なメッセージではなく、利用者一人ひとりとやり取りする体験に変えていく」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Nectar推出AI代理\n替品牌对接创作者",
-          "body": "Nectar的Creator Agent可寻找审核创作者、个性化联络并追踪效果。",
-          "mini_headline": "Nectar的创作者代理",
+          "headline": "Buzzvil用AI\n为每位用户定制广告",
+          "body": "Buzzvil的Prism即使在同一广告活动中，也能为每位用户自动制作不同广告。",
+          "mini_headline": "Buzzvil超个性化AI广告",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2023/10/misbahfarah-together.jpg?w=1024",
-                "cap": "Nectar AI联合创始人Misbah Uraizee与Farah Uraizee"
+                "src": "https://cdn.byline.network/wp-content/uploads/2026/11/buzzvil_20261113.jpg",
+                "cap": "Buzzvil推出可为每位用户自动制作广告素材的AI引擎“Prism”（来源=Buzzvil）"
               },
               {
                 "t": "p",
-                "x": "AI-powered营销操作系统Nectar将推出一款新的AI代理，旨在省去网红营销中的大量手工工作。其周四发布的新“Creator Agent”可以搜索创作者、核查其内容与品牌合作、发送个性化消息、协调合作并监测营销活动表现。"
+                "x": "Buzzvil推出一款人工智能（AI）广告引擎，可根据用户的兴趣和购买阶段展示不同广告。其特点是，即使在同一品牌的同一广告活动中，也能为每位用户分别配置商品推荐、广告信息和参与方式。Buzzvil于13日宣布推出超个性化互动广告引擎“Prism”，并从本月起面向有意向的广告主提供。"
               },
               {
                 "t": "p",
-                "x": "Nectar表示，Creator Agent会在超过3亿个创作者档案中搜索潜在合作伙伴，其中包括正在走红的小型创作者。它会分析视频以了解创作者发布的内容主题，并通过结合语境审查内容、而非仅搜索特定关键词，来检查品牌安全。"
+                "x": "其核心技术是自主研发的AI内容制作系统“Composer”。Composer分析用户感兴趣的商品和情境，找出合适的广告信息，并利用大语言模型（LLM）生成对话式推荐、烦恼诊断等参与型广告素材。"
               },
               {
                 "t": "p",
-                "x": "该代理能以品牌的口吻起草并发送消息、创建定制落地页，并协助管理合同、产品赠送和物流细节。CEO Misbah Uraizee对TechCrunch表示：“品牌可以用任何格式分享语调指南，其余的Nectar会从它们的历史记录中学习。”"
+                "x": "广告主只需提供品牌图片和商品信息，无需另行制作，就能在一个广告活动中生成1000个以上的个性化素材。生成的素材须经过违禁词与事实核查、AI质量审核，达到标准后才会投放。Prism还会分析用户反应，增加高效组合的曝光。"
               },
               {
                 "t": "p",
-                "x": "Creator Agent今天起在全球上线，覆盖Instagram创作者和TikTokers。公司计划通过其Model Context Protocol（MCP）提供该功能，供Claude、ChatGPT、Gemini和Copilot等AI助手使用。"
+                "x": "在Buzzvil与美妆品牌开展的互动广告活动中，使用商品评论的广告素材点击后购买转化率比原有目录式素材高3倍，加购转化率高7倍，从点击广告到购买所用时间的中位数缩短57%。"
+              },
+              {
+                "t": "p",
+                "x": "Buzzvil代表Lee Kwan-woo表示：“我们将把广告从单向信息，转变为与每一位用户互动交流的体验。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "El agente de AI de Nectar\ngestiona creadores para marcas",
-          "body": "Creator Agent, de Nectar, encuentra y evalúa creadores, envía mensajes personalizados y mide los resultados.",
-          "mini_headline": "El agente de creadores de Nectar",
+          "headline": "La IA de Buzzvil crea un anuncio\ndistinto para cada usuario",
+          "body": "Prism, de Buzzvil, crea automáticamente anuncios distintos para cada usuario, incluso dentro de una misma campaña.",
+          "mini_headline": "Anuncios de IA hiperpersonalizados de Buzzvil",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2023/10/misbahfarah-together.jpg?w=1024",
-                "cap": "Misbah Uraizee y Farah Uraizee, cofundadores de Nectar AI"
+                "src": "https://cdn.byline.network/wp-content/uploads/2026/11/buzzvil_20261113.jpg",
+                "cap": "Buzzvil lanza ‘Prism’, un motor de AI que crea automáticamente creatividades publicitarias para cada usuario (Fuente=Buzzvil)"
               },
               {
                 "t": "p",
-                "x": "Nectar, un sistema operativo AI-powered para marketing, lanza un nuevo agente de AI pensado para eliminar buena parte del trabajo manual del marketing de influencers. Anunciado el jueves, su nuevo “Creator Agent” puede buscar creadores, revisar su contenido y sus colaboraciones con marcas, enviar mensajes personalizados, coordinar colaboraciones y supervisar el rendimiento de las campañas."
+                "x": "Buzzvil presentó un motor publicitario de inteligencia artificial (AI) que muestra anuncios distintos según los intereses y la etapa de compra de cada usuario. Su rasgo distintivo es que, incluso dentro de una misma campaña de la misma marca, configura de forma diferente para cada usuario las recomendaciones de producto, los mensajes publicitarios y las formas de participación. Buzzvil anunció el día 13 que lanzó ‘Prism’, un motor de anuncios interactivos hiperpersonalizados, y que a partir de este mes lo aplicará a los anunciantes interesados."
               },
               {
                 "t": "p",
-                "x": "Nectar afirma que Creator Agent busca en más de 300 millones de perfiles de creadores para encontrar posibles socios, incluidos creadores más pequeños que están ganando tracción. Analiza videos para entender sobre qué publican los creadores y comprueba la seguridad de marca revisando el contenido en contexto, en lugar de limitarse a buscar palabras clave concretas."
+                "x": "Su tecnología central es ‘Composer’, un sistema de creación de contenido con AI desarrollado internamente. Composer analiza los productos de interés y el contexto del usuario para encontrar el mensaje publicitario adecuado y, mediante un modelo de lenguaje grande (LLM), genera creatividades participativas como recomendaciones conversacionales o diagnósticos de inquietudes."
               },
               {
                 "t": "p",
-                "x": "El agente puede redactar y enviar mensajes con la voz de la marca, crear páginas de destino personalizadas y ayudar a gestionar contratos, regalos de productos y detalles de envío. “Las marcas pueden compartir sus pautas de voz en cualquier formato, y Nectar deduce el resto a partir de su historial”, dijo a TechCrunch Misbah Uraizee, CEO de la empresa."
+                "x": "Si el anunciante aporta imágenes de marca e información de producto, puede crear más de 1000 creatividades personalizadas en una sola campaña sin un proceso de producción aparte. Las creatividades generadas solo se emiten si cumplen los criterios tras una revisión de palabras prohibidas y de hechos, y una evaluación de calidad con AI. Prism también analiza la respuesta de los usuarios para aumentar la exposición de las combinaciones de mayor rendimiento."
               },
               {
                 "t": "p",
-                "x": "Creator Agent ya está disponible en todo el mundo y abarca a creadores de Instagram y TikTokers. La empresa prevé ofrecerlo a través de su Model Context Protocol (MCP) para que pueda usarse desde asistentes de AI como Claude, ChatGPT, Gemini y Copilot."
+                "x": "En una campaña de anuncios interactivos que Buzzvil realizó con una marca de belleza, las creatividades basadas en reseñas de producto lograron una tasa de conversión de compra tras el clic 3 veces mayor que las creatividades de catálogo existentes. La tasa de conversión de añadir al carrito fue 7 veces mayor, y la mediana del tiempo entre el clic en el anuncio y la compra fue un 57% más corta."
+              },
+              {
+                "t": "p",
+                "x": "El CEO de Buzzvil, Lee Kwan-woo, afirmó: “Convertiremos la publicidad, de un mensaje unidireccional, en una experiencia de intercambio con cada uno de los usuarios”."
               }
             ]
           }
@@ -1431,15 +1351,15 @@
       }
     },
     {
-      "id": "podqi-chatbot-fake-retail-sites",
+      "id": "ppcland-agent-traffic-meta-openai",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI 챗봇, 쇼핑객을\n가짜 쇼핑몰로 안내",
-      "body": "Podqi가 151개 브랜드를 조사해 보니 AI 챗봇이 사칭 사이트로 안내했다.",
-      "mini_headline": "챗봇이 쇼핑객을 가짜 몰로",
+      "headline": "Meta·OpenAI가\nAI 에이전트 트래픽 장악",
+      "body": "Muse가 59%, Comet이 3.6%였고 요청 85%는 상품·검색 페이지였다.",
+      "mini_headline": "AI 에이전트 트래픽, 두 회사가 장악",
       "tool": "Marketing",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-fake-websites",
+      "source": "PPC Land",
+      "url": "https://ppc.land/ai-agent-traffic-is-now-a-two-company-town-meta-and-openai/",
       "accent": "#eb367f",
       "motif": "frame",
       "full": {
@@ -1447,149 +1367,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+            "src": "https://ppc.land/content/images/2026/11/human-security-agentic-traffic-october-2026-meta-openai-89-percent-muse-59-percent-two-storefronts-stream.jpg",
+            "cap": "HUMAN 조사에서 10월 AI 에이전트 요청의 89%는 Meta와 OpenAI가 보냈고 Muse 하나가 59%였다"
           },
           {
             "t": "p",
-            "x": "AI 챗봇에게 제품을 묻거나 구매처를 찾는 쇼핑객이 사칭 사이트 같은 위험한 웹사이트로 흘러갈 수 있다는 연구가 새로 나왔다. IP 보호 기업 Podqi는 ChatGPT, Gemini, Perplexity에 151개 브랜드를 두고 “[brand]는 온라인 어디에서 찾을 수 있나요?” 같은 쇼핑 질문을 던졌다."
+            "x": "HUMAN Security가 2026년 11월 9일 내놓은 State of Agentic Traffic 벤치마크 2026년 10월호를 보면, HUMAN이 보호하는 사이트에 들어온 이달 에이전트 요청의 89%가 Meta와 OpenAI 몫이었다. Meta의 Muse 하나만 59%를 차지했다. 10월 전체 에이전트 트래픽은 9월의 2.6배, 8월의 약 여덟 배였다."
           },
           {
             "t": "p",
-            "x": "답변 6,795개를 살펴보니 세 AI 엔진 모두 위험한 사이트를 인용해 쇼핑객에게 내밀었다. 위험한 사이트란 실제 소매업체를 사칭하거나 모조품을 파는 가짜 웹사이트, 다시 등록된 옛 브랜드 도메인, 운영이 끊긴 사이트를 말한다. Gemini는 답변의 4퍼센트, ChatGPT는 8퍼센트에서 위험한 사이트를 보여 줬다. Perplexity는 15퍼센트로 가장 나빴다. 특히 소규모 브랜드가 취약해 보인다."
+            "x": "Meta는 2026년 9월 8일 US-only 개인 에이전트로 Muse를 출시했다. OpenAI는 상위 열 개 안에 ChatGPT Agent(15.9%), Codex Browser(8.8%), Codex Chrome 확장 프로그램(5.2%) 세 제품을 올려 합계 약 30%로 두 번째로 많았다. Anthropic의 Claude Chrome 확장 프로그램은 7%에서 3.5%로 반 토막 났다."
           },
           {
             "t": "p",
-            "x": "한 대화에서 Perplexity는 엉뚱한 페이지를 Stüssy의 공식 웹사이트로 지목하며 “정품 보장 상품을 찾기에 가장 좋은 출발점”이라고 했다. Podqi CEO이자 공동 창업자인 Trevor West는 “개인 정보나 신용카드 정보를 입력하기 전에 그 출처를 확인하는 것이 언제나 최선”이라고 말했다."
+            "x": "8월에는 41% 점유율로 에이전트 트래픽 선두였던 Perplexity의 Comet은 10월 3.6%로 내려앉았다. 보고서는 “소비자가 이미 쓰는 플랫폼에 내장된 에이전트로 옮겨 가면서 독립형 소비자 에이전트 브라우저는 힘을 잃고 있다”고 밝혔다."
+          },
+          {
+            "t": "p",
+            "x": "에이전트의 활동은 여전히 탐색에 쏠려 있다. HUMAN 집계로는 요청의 85%가 상품·검색 페이지로 향했고 결제·지불 단계까지 간 요청은 1.9%에 그쳤다. 다만 결제 단계 요청량은 전월보다 117% 늘었다. 보고서는 “에이전트는 아직 구매보다 탐색을 훨씬 많이 한다”며 “그러나 결제 단계에 이르는 에이전트 요청 수는 빠르게 늘고 있다”고 밝혔다. HUMAN의 11월호에는 Black Friday와 Cyber Monday 기간 에이전트 움직임이 담길 예정이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI chatbots steer shoppers\nto fake retail sites",
-          "body": "A Podqi study of 151 brands found ChatGPT, Gemini and Perplexity steering shoppers to impostor retail sites.",
-          "mini_headline": "Chatbots send shoppers to fakes",
+          "headline": "Meta and OpenAI now drive\nmost AI agent traffic",
+          "body": "Muse sent 59% of October's AI agent requests and Comet only 3.6%, with 85% landing on product and search pages.",
+          "mini_headline": "Two firms own AI agent traffic",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://ppc.land/content/images/2026/11/human-security-agentic-traffic-october-2026-meta-openai-89-percent-muse-59-percent-two-storefronts-stream.jpg",
+                "cap": "Meta and OpenAI sent 89% of AI agent requests in October, with Muse alone at 59%, HUMAN finds"
               },
               {
                 "t": "p",
-                "x": "Shoppers using AI chatbots to research products or find places to buy items could be directed to imposters and other risky websites, a new study found. IP protection firm Podqi prompted ChatGPT, Gemini, and Perplexity with shopping-related questions involving 151 brands, such as “Where can I find [brand] online?”"
+                "x": "According to the October 2026 edition of HUMAN Security's State of Agentic Traffic benchmark, published on November 9, 2026, Meta and OpenAI accounted for 89% of agent requests during the month on the sites HUMAN protects, with Meta's Muse alone responsible for 59%. Total agentic traffic in October was 2.6 times its September level and roughly eight times its August level."
               },
               {
                 "t": "p",
-                "x": "Over the course of 6,795 answers, all three AI engines cited and showed shoppers risky sites, defined as fake websites impersonating real retailers or selling knockoffs, reregistered old brand domains, or dead sites. Gemini showed risky sites in 4 percent of answers, ChatGPT in 8 percent, and Perplexity performed the worst at 15 percent. Smaller brands appear especially at risk."
+                "x": "Meta launched Muse on September 8, 2026 as a US-only personal agent. OpenAI holds second place with three products in the top ten — ChatGPT Agent (15.9%), Codex Browser (8.8%) and the Codex Chrome extension (5.2%) — together about 30%. Anthropic's Claude Chrome extension halved from 7% to 3.5%."
               },
               {
                 "t": "p",
-                "x": "In one conversation, Perplexity named the wrong page as Stüssy’s official website and called it “the best starting point for guaranteed authentic items.” “It is always best to verify the source of that before entering personal information or credit card information,” says Podqi CEO and cofounder Trevor West."
+                "x": "Perplexity's Comet led agentic traffic with a 41% share in August; that fell to 3.6% in October. “Standalone consumer agentic browsers are fading, as consumers move to agents built into platforms they already use,” the report says."
+              },
+              {
+                "t": "p",
+                "x": "Agents still mostly research: 85% of requests went to product and search pages and 1.9% reached checkout and payment, though checkout volume grew 117% month over month, according to HUMAN. “Agents still browse far more than they buy,” the report says, “yet the number of agent requests reaching checkout is rising fast.” HUMAN's November edition will show how agents behaved over Black Friday and Cyber Monday."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI 챗봇, 쇼핑객을\n가짜 쇼핑몰로 안내",
-          "body": "Podqi가 151개 브랜드를 조사해 보니 AI 챗봇이 사칭 사이트로 안내했다.",
-          "mini_headline": "챗봇이 쇼핑객을 가짜 몰로",
+          "headline": "Meta·OpenAI가\nAI 에이전트 트래픽 장악",
+          "body": "Muse가 59%, Comet이 3.6%였고 요청 85%는 상품·검색 페이지였다.",
+          "mini_headline": "AI 에이전트 트래픽, 두 회사가 장악",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://ppc.land/content/images/2026/11/human-security-agentic-traffic-october-2026-meta-openai-89-percent-muse-59-percent-two-storefronts-stream.jpg",
+                "cap": "HUMAN 조사에서 10월 AI 에이전트 요청의 89%는 Meta와 OpenAI가 보냈고 Muse 하나가 59%였다"
               },
               {
                 "t": "p",
-                "x": "AI 챗봇에게 제품을 묻거나 구매처를 찾는 쇼핑객이 사칭 사이트 같은 위험한 웹사이트로 흘러갈 수 있다는 연구가 새로 나왔다. IP 보호 기업 Podqi는 ChatGPT, Gemini, Perplexity에 151개 브랜드를 두고 “[brand]는 온라인 어디에서 찾을 수 있나요?” 같은 쇼핑 질문을 던졌다."
+                "x": "HUMAN Security가 2026년 11월 9일 내놓은 State of Agentic Traffic 벤치마크 2026년 10월호를 보면, HUMAN이 보호하는 사이트에 들어온 이달 에이전트 요청의 89%가 Meta와 OpenAI 몫이었다. Meta의 Muse 하나만 59%를 차지했다. 10월 전체 에이전트 트래픽은 9월의 2.6배, 8월의 약 여덟 배였다."
               },
               {
                 "t": "p",
-                "x": "답변 6,795개를 살펴보니 세 AI 엔진 모두 위험한 사이트를 인용해 쇼핑객에게 내밀었다. 위험한 사이트란 실제 소매업체를 사칭하거나 모조품을 파는 가짜 웹사이트, 다시 등록된 옛 브랜드 도메인, 운영이 끊긴 사이트를 말한다. Gemini는 답변의 4퍼센트, ChatGPT는 8퍼센트에서 위험한 사이트를 보여 줬다. Perplexity는 15퍼센트로 가장 나빴다. 특히 소규모 브랜드가 취약해 보인다."
+                "x": "Meta는 2026년 9월 8일 US-only 개인 에이전트로 Muse를 출시했다. OpenAI는 상위 열 개 안에 ChatGPT Agent(15.9%), Codex Browser(8.8%), Codex Chrome 확장 프로그램(5.2%) 세 제품을 올려 합계 약 30%로 두 번째로 많았다. Anthropic의 Claude Chrome 확장 프로그램은 7%에서 3.5%로 반 토막 났다."
               },
               {
                 "t": "p",
-                "x": "한 대화에서 Perplexity는 엉뚱한 페이지를 Stüssy의 공식 웹사이트로 지목하며 “정품 보장 상품을 찾기에 가장 좋은 출발점”이라고 했다. Podqi CEO이자 공동 창업자인 Trevor West는 “개인 정보나 신용카드 정보를 입력하기 전에 그 출처를 확인하는 것이 언제나 최선”이라고 말했다."
+                "x": "8월에는 41% 점유율로 에이전트 트래픽 선두였던 Perplexity의 Comet은 10월 3.6%로 내려앉았다. 보고서는 “소비자가 이미 쓰는 플랫폼에 내장된 에이전트로 옮겨 가면서 독립형 소비자 에이전트 브라우저는 힘을 잃고 있다”고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "에이전트의 활동은 여전히 탐색에 쏠려 있다. HUMAN 집계로는 요청의 85%가 상품·검색 페이지로 향했고 결제·지불 단계까지 간 요청은 1.9%에 그쳤다. 다만 결제 단계 요청량은 전월보다 117% 늘었다. 보고서는 “에이전트는 아직 구매보다 탐색을 훨씬 많이 한다”며 “그러나 결제 단계에 이르는 에이전트 요청 수는 빠르게 늘고 있다”고 밝혔다. HUMAN의 11월호에는 Black Friday와 Cyber Monday 기간 에이전트 움직임이 담길 예정이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIチャットボットが\n買い物客を偽サイトへ",
-          "body": "Podqiが151ブランドを調べ、AIチャットボットが偽サイトへ誘導する実態を示した。",
-          "mini_headline": "チャットボットが偽サイトへ誘導",
+          "headline": "MetaとOpenAIが\nAIエージェント流入を席巻",
+          "body": "Museが要求の59%、Cometは3.6%を占め、85%は商品・検索ページ向けだ。",
+          "mini_headline": "AIエージェント流入は二社が独占",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://ppc.land/content/images/2026/11/human-security-agentic-traffic-october-2026-meta-openai-89-percent-muse-59-percent-two-storefronts-stream.jpg",
+                "cap": "HUMANの調査では、10月のAIエージェント要求の89%をMetaとOpenAIが送り、Muse単独で59%を占めた"
               },
               {
                 "t": "p",
-                "x": "AIチャットボットで商品を調べたり購入先を探したりする買い物客が、なりすましサイトなどの危険なウェブサイトに誘導されるおそれがあることが、新たな調査で分かった。IP保護企業のPodqiは、ChatGPT、Gemini、Perplexityに対し、「[brand]はオンラインのどこで見つけられますか？」といった151ブランドに関する買い物関連の質問を投げかけた。"
+                "x": "2026年11月9日に公表されたHUMAN SecurityのベンチマークState of Agentic Trafficの2026年10月版によると、HUMANが保護するサイトで同月のエージェント要求の89%をMetaとOpenAIが占め、MetaのMuseだけで59%に達した。10月のエージェント流入の総量は9月の2.6倍、8月の約八倍だった。"
               },
               {
                 "t": "p",
-                "x": "計6,795件の回答の中で、三つのAIエンジンはいずれも危険なサイトを引用し、買い物客に示した。危険なサイトとは、実在の小売業者になりすましたり模倣品を売ったりする偽サイト、再登録された古いブランドドメイン、閉鎖されたサイトを指す。Geminiが危険なサイトを示したのは回答の4パーセント、ChatGPTは8パーセントで、Perplexityは15パーセントと最も悪かった。特に小規模ブランドがリスクにさらされているようだ。"
+                "x": "Metaは2026年9月8日、US-onlyのパーソナルエージェントとしてMuseを投入した。OpenAIは上位十位以内に三つの製品——ChatGPT Agent（15.9%）、Codex Browser（8.8%）、Codex Chrome拡張機能（5.2%）——を送り込み、計約30%で二番手につける。AnthropicのClaude Chrome拡張機能は7%から3.5%へ半減した。"
               },
               {
                 "t": "p",
-                "x": "ある会話では、Perplexityが誤ったページをStüssyの公式サイトだと示し、「確実に正規品を買うのに最適な出発点」と呼んだ。PodqiのCEOで共同創業者のTrevor Westは「個人情報やクレジットカード情報を入力する前に、その出所を確かめるのが常に最善だ」と話す。"
+                "x": "PerplexityのCometは8月に41%のシェアでエージェント流入の首位だったが、10月には3.6%に落ち込んだ。レポートは「消費者がすでに使っているプラットフォームに組み込まれたエージェントへ移行するなか、単体の消費者向けエージェントブラウザは勢いを失っている」と指摘する。"
+              },
+              {
+                "t": "p",
+                "x": "エージェントはなお主に下調べをしている。HUMANによると、要求の85%は商品ページと検索ページに向かい、チェックアウトと決済に到達したのは1.9%だったが、チェックアウトの量は前月比117%増えた。レポートは「エージェントは買うよりもはるかに多く閲覧している」としつつ、「チェックアウトに到達するエージェント要求の数は急速に増えている」と述べる。HUMANの11月版では、Black FridayとCyber Mondayにエージェントがどう動いたかが示される予定だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI聊天机器人\n把购物者引向假网店",
-          "body": "Podqi测试151个品牌发现，ChatGPT等AI会把购物者引向冒牌网站。",
-          "mini_headline": "聊天机器人把购物者引向假网站",
+          "headline": "Meta和OpenAI\n主导多数AI智能体流量",
+          "body": "Muse占AI智能体请求的59%，Comet仅3.6%，85%的请求流向商品和搜索页面。",
+          "mini_headline": "AI智能体流量由两家公司主导",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://ppc.land/content/images/2026/11/human-security-agentic-traffic-october-2026-meta-openai-89-percent-muse-59-percent-two-storefronts-stream.jpg",
+                "cap": "HUMAN发现，10月AI智能体请求中89%来自Meta和OpenAI，仅Muse就占59%"
               },
               {
                 "t": "p",
-                "x": "一项新研究发现，使用AI聊天机器人研究商品或寻找购买渠道的购物者，可能会被引向冒牌网站及其他高风险网站。知识产权（IP）保护公司Podqi向ChatGPT、Gemini和Perplexity提出了涉及151个品牌的购物相关问题，例如“在网上哪里能找到[brand]？”"
+                "x": "根据HUMAN Security于2026年11月9日发布的State of Agentic Traffic基准报告2026年10月版，在HUMAN保护的网站上，Meta和OpenAI占当月智能体请求的89%，其中仅Meta的Muse就占59%。10月智能体流量总量是9月的2.6倍，约为8月的八倍。"
               },
               {
                 "t": "p",
-                "x": "在总计6,795条回答中，三个AI引擎都引用并向购物者展示了高风险网站，即冒充真实零售商或售卖仿冒品的假网站、被重新注册的旧品牌域名，或已失效的网站。Gemini在百分之四的回答中展示了高风险网站，ChatGPT为百分之八，Perplexity表现最差，达百分之十五。小品牌似乎尤其容易受害。"
+                "x": "Meta于2026年9月8日推出Muse，作为US-only的个人智能体。OpenAI以三款跻身前十的产品位居第二——ChatGPT Agent（15.9%）、Codex Browser（8.8%）和Codex Chrome扩展（5.2%）——合计约30%。Anthropic的Claude Chrome扩展从7%减半至3.5%。"
               },
               {
                 "t": "p",
-                "x": "在一次对话中，Perplexity把一个错误页面当作Stüssy的官方网站，并称其为“保证正品的最佳起点”。Podqi CEO兼联合创始人Trevor West说：“在输入个人信息或信用卡信息之前，最好始终先核实来源。”"
+                "x": "Perplexity的Comet在8月以41%的份额领跑智能体流量，10月则跌至3.6%。报告称：“随着消费者转向其已在使用的平台内置的智能体，独立的消费级智能体浏览器正在式微。”"
+              },
+              {
+                "t": "p",
+                "x": "智能体仍以调研为主：HUMAN称，85%的请求流向商品和搜索页面，1.9%到达结账和支付环节，不过结账量环比增长117%。报告称：“智能体浏览远多于购买，但到达结账环节的智能体请求数量正在快速上升。”HUMAN的11月版将展示智能体在Black Friday和Cyber Monday期间的表现。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Chatbots de AI desvían a\ncompradores a tiendas falsas",
-          "body": "Un estudio de Podqi con 151 marcas halló que ChatGPT, Gemini y Perplexity dirigen a compradores a tiendas impostoras.",
-          "mini_headline": "Los chatbots envían a compradores a falsificaciones",
+          "headline": "Meta y OpenAI ya concentran\nel grueso del tráfico de agentes",
+          "body": "Muse envió el 59% de las peticiones de agentes de IA y Comet solo el 3.6%; el 85% fue a páginas de producto y búsqueda.",
+          "mini_headline": "Dos empresas dominan el tráfico de agentes de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://ppc.land/content/images/2026/11/human-security-agentic-traffic-october-2026-meta-openai-89-percent-muse-59-percent-two-storefronts-stream.jpg",
+                "cap": "Meta y OpenAI enviaron el 89% de las solicitudes de agentes de AI en octubre, y solo Muse el 59%, según HUMAN"
               },
               {
                 "t": "p",
-                "x": "Los compradores que usan chatbots de AI para investigar productos o encontrar dónde comprarlos podrían acabar en sitios impostores y otras webs de riesgo, según un nuevo estudio. La firma de protección de IP Podqi planteó a ChatGPT, Gemini y Perplexity preguntas de compra sobre 151 marcas, como “¿Dónde puedo encontrar [brand] en línea?”"
+                "x": "Según la edición de octubre de 2026 del informe State of Agentic Traffic de HUMAN Security, publicado el 9 de noviembre de 2026, Meta y OpenAI representaron el 89% de las solicitudes de agentes del mes en los sitios que protege HUMAN, y solo Muse, de Meta, fue responsable del 59%. El tráfico total de agentes en octubre fue 2.6 veces el de septiembre y unas ocho veces el de agosto."
               },
               {
                 "t": "p",
-                "x": "A lo largo de 6,795 respuestas, los tres motores de AI citaron y mostraron a los compradores sitios de riesgo, definidos como webs falsas que suplantan a minoristas reales o venden imitaciones, dominios antiguos de marcas registrados de nuevo o sitios inactivos. Gemini mostró sitios de riesgo en el 4 por ciento de las respuestas, ChatGPT en el 8 por ciento y Perplexity fue el peor, con un 15 por ciento. Las marcas más pequeñas parecen especialmente expuestas."
+                "x": "Meta lanzó Muse el 8 de septiembre de 2026 como agente personal US-only. OpenAI ocupa el segundo puesto con tres productos entre los diez primeros —ChatGPT Agent (15.9%), Codex Browser (8.8%) y la extensión Codex Chrome (5.2%)—, que suman cerca del 30%. La extensión Claude Chrome de Anthropic se redujo a la mitad, del 7% al 3.5%."
               },
               {
                 "t": "p",
-                "x": "En una conversación, Perplexity señaló una página equivocada como el sitio oficial de Stüssy y la llamó “el mejor punto de partida para artículos auténticos garantizados”. “Siempre es mejor verificar el origen antes de introducir información personal o datos de la tarjeta de crédito”, dice Trevor West, CEO y cofundador de Podqi."
+                "x": "Comet, de Perplexity, lideraba el tráfico de agentes con una cuota del 41% en agosto; en octubre cayó al 3.6%. “Los navegadores agénticos independientes para consumidores están perdiendo fuerza, a medida que los consumidores pasan a agentes integrados en plataformas que ya usan”, señala el informe."
+              },
+              {
+                "t": "p",
+                "x": "Los agentes siguen dedicándose sobre todo a investigar: el 85% de las solicitudes fue a páginas de producto y de búsqueda y el 1.9% llegó a la finalización de compra y el pago, aunque el volumen de finalización de compra creció un 117% mes a mes, según HUMAN. “Los agentes todavía navegan mucho más de lo que compran”, dice el informe, “pero el número de solicitudes de agentes que llegan a la finalización de compra crece rápidamente”. La edición de noviembre de HUMAN mostrará cómo se comportaron los agentes durante el Black Friday y el Cyber Monday."
               }
             ]
           }
@@ -1597,105 +1547,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI 챗봇, 쇼핑객을\n가짜 쇼핑몰로 안내",
-          "body": "Podqi가 151개 브랜드를 조사한 결과 AI 챗봇이 사칭 사이트로 안내했다.",
-          "mini_headline": "챗봇이 쇼핑객을 가짜 몰로",
+          "headline": "Meta·OpenAI가\nAI 에이전트 트래픽 장악",
+          "body": "Muse가 59%, Comet이 3.6%였고 요청 85%는 상품·검색 페이지였다.",
+          "mini_headline": "AI 에이전트 트래픽, 두 회사가 장악",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://ppc.land/content/images/2026/11/human-security-agentic-traffic-october-2026-meta-openai-89-percent-muse-59-percent-two-storefronts-stream.jpg",
+                "cap": "HUMAN 조사 결과, 10월 AI 에이전트 요청의 89%를 Meta와 OpenAI가 보냈고 Muse 하나가 59%였다"
               },
               {
                 "t": "p",
-                "x": "AI 챗봇으로 제품을 알아보거나 구매처를 찾는 쇼핑객이 사칭 사이트를 비롯한 위험한 웹사이트로 안내될 수 있다는 새 연구 결과가 나왔다. IP 보호 기업 Podqi는 ChatGPT, Gemini, Perplexity에 “[brand]는 온라인 어디에서 찾을 수 있나요?” 같은 151개 브랜드에 관한 쇼핑 질문을 던졌다."
+                "x": "2026년 11월 9일 발표된 HUMAN Security의 State of Agentic Traffic 벤치마크 2026년 10월호에 따르면, HUMAN이 보호하는 사이트에서 이달 에이전트 요청의 89%를 Meta와 OpenAI가 차지했고 Meta의 Muse 하나가 59%를 차지했다. 10월 전체 에이전트 트래픽은 9월의 2.6배, 8월의 약 여덟 배였다."
               },
               {
                 "t": "p",
-                "x": "모두 6,795개의 답변에서 세 AI 엔진 모두 위험한 사이트를 인용해 쇼핑객에게 보여 줬다. 위험한 사이트란 실제 소매업체를 사칭하거나 모조품을 파는 가짜 웹사이트, 다시 등록된 옛 브랜드 도메인, 운영이 끊긴 사이트를 말한다. Gemini는 답변의 4퍼센트, ChatGPT는 8퍼센트에서 위험한 사이트를 보여 줬고, Perplexity는 15퍼센트로 가장 나빴다. 특히 소규모 브랜드가 위험해 보인다."
+                "x": "Meta는 2026년 9월 8일 US-only 개인 에이전트로 Muse를 출시했다. OpenAI는 상위 열 개 안에 세 제품 — ChatGPT Agent(15.9%), Codex Browser(8.8%), Codex Chrome 확장 프로그램(5.2%) — 을 올려 합계 약 30%로 두 번째다. Anthropic의 Claude Chrome 확장 프로그램은 7%에서 3.5%로 반 토막 났다."
               },
               {
                 "t": "p",
-                "x": "한 대화에서 Perplexity는 엉뚱한 페이지를 Stüssy의 공식 웹사이트로 지목하며 “정품 보장 상품을 찾기에 가장 좋은 출발점”이라고 했다. Podqi CEO이자 공동 창업자인 Trevor West는 “개인 정보나 신용카드 정보를 입력하기 전에 그 출처를 확인하는 것이 언제나 최선”이라고 말한다."
+                "x": "Perplexity의 Comet은 8월 41% 점유율로 에이전트 트래픽 선두였지만 10월에는 3.6%로 떨어졌다. 보고서는 “소비자가 이미 쓰는 플랫폼에 내장된 에이전트로 옮겨 가면서 독립형 소비자 에이전트 브라우저는 힘을 잃고 있다”고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "에이전트는 여전히 주로 탐색에 머문다. HUMAN에 따르면 요청의 85%가 상품·검색 페이지로 향했고 결제·지불 단계에 도달한 것은 1.9%였지만, 결제 단계 요청량은 전월 대비 117% 늘었다. 보고서는 “에이전트는 아직 구매보다 탐색을 훨씬 많이 한다”며 “그러나 결제 단계에 이르는 에이전트 요청 수는 빠르게 늘고 있다”고 밝혔다. HUMAN의 11월호는 Black Friday와 Cyber Monday 기간 에이전트의 움직임을 보여줄 예정이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIチャットボットが\n買い物客を偽サイトへ",
-          "body": "Podqiが151ブランドを調べ、AIチャットボットが偽サイトへ誘導する実態を示した。",
-          "mini_headline": "チャットボットが偽サイトへ誘導",
+          "headline": "MetaとOpenAIが\nAIエージェント流入を席巻",
+          "body": "Museが要求の59%、Cometは3.6%を占め、85%は商品・検索ページ向けだ。",
+          "mini_headline": "AIエージェント流入は二社が独占",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://ppc.land/content/images/2026/11/human-security-agentic-traffic-october-2026-meta-openai-89-percent-muse-59-percent-two-storefronts-stream.jpg",
+                "cap": "HUMANの調査では、10月のAIエージェント要求の89%をMetaとOpenAIが送り、Muse単独で59%を占めた"
               },
               {
                 "t": "p",
-                "x": "AIチャットボットで商品を調べたり購入先を探したりする買い物客が、なりすましサイトなどの危険なウェブサイトに誘導されるおそれがあることが、新たな調査で分かった。IP保護企業のPodqiは、ChatGPT、Gemini、Perplexityに対し、「[brand]はオンラインのどこで見つけられますか？」といった151ブランドに関する買い物関連の質問を投げかけた。"
+                "x": "2026年11月9日に公表されたHUMAN SecurityのベンチマークState of Agentic Trafficの2026年10月版によると、HUMANが保護するサイトで同月のエージェント要求の89%をMetaとOpenAIが占め、MetaのMuseだけで59%に達した。10月のエージェント流入の総量は9月の2.6倍、8月の約八倍だった。"
               },
               {
                 "t": "p",
-                "x": "計6,795件の回答の中で、三つのAIエンジンはいずれも危険なサイトを引用し、買い物客に示した。危険なサイトとは、実在の小売業者になりすましたり模倣品を売ったりする偽サイト、再登録された古いブランドドメイン、閉鎖されたサイトを指す。Geminiが危険なサイトを示したのは回答の4パーセント、ChatGPTは8パーセントで、Perplexityは15パーセントと最も悪かった。特に小規模ブランドがリスクにさらされているようだ。"
+                "x": "Metaは2026年9月8日、US-onlyのパーソナルエージェントとしてMuseを投入した。OpenAIは上位十位以内に三つの製品——ChatGPT Agent（15.9%）、Codex Browser（8.8%）、Codex Chrome拡張機能（5.2%）——を送り込み、計約30%で二番手につける。AnthropicのClaude Chrome拡張機能は7%から3.5%へ半減した。"
               },
               {
                 "t": "p",
-                "x": "ある会話では、Perplexityが誤ったページをStüssyの公式サイトだと示し、「確実に正規品を買うのに最適な出発点」と呼んだ。PodqiのCEOで共同創業者のTrevor Westは「個人情報やクレジットカード情報を入力する前に、その出所を確かめるのが常に最善だ」と話す。"
+                "x": "PerplexityのCometは8月に41%のシェアでエージェント流入の首位だったが、10月には3.6%に落ち込んだ。レポートは「消費者がすでに使っているプラットフォームに組み込まれたエージェントへ移行するなか、単体の消費者向けエージェントブラウザは勢いを失っている」と指摘する。"
+              },
+              {
+                "t": "p",
+                "x": "エージェントはなお主に下調べをしている。HUMANによると、要求の85%は商品ページと検索ページに向かい、チェックアウトと決済に到達したのは1.9%だったが、チェックアウトの量は前月比117%増えた。レポートは「エージェントは買うよりもはるかに多く閲覧している」としつつ、「チェックアウトに到達するエージェント要求の数は急速に増えている」と述べる。HUMANの11月版では、Black FridayとCyber Mondayにエージェントがどう動いたかが示される予定だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI聊天机器人\n把购物者引向假网店",
-          "body": "Podqi测试151个品牌发现，ChatGPT等AI会把购物者引向冒牌网站。",
-          "mini_headline": "聊天机器人把购物者引向假网站",
+          "headline": "Meta和OpenAI\n主导多数AI智能体流量",
+          "body": "Muse占AI智能体请求的59%，Comet仅3.6%，85%的请求流向商品和搜索页面。",
+          "mini_headline": "AI智能体流量由两家公司主导",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://ppc.land/content/images/2026/11/human-security-agentic-traffic-october-2026-meta-openai-89-percent-muse-59-percent-two-storefronts-stream.jpg",
+                "cap": "HUMAN发现，10月AI智能体请求中89%来自Meta和OpenAI，仅Muse就占59%"
               },
               {
                 "t": "p",
-                "x": "一项新研究发现，使用AI聊天机器人研究商品或寻找购买渠道的购物者，可能会被引向冒牌网站及其他高风险网站。知识产权（IP）保护公司Podqi向ChatGPT、Gemini和Perplexity提出了涉及151个品牌的购物相关问题，例如“在网上哪里能找到[brand]？”"
+                "x": "根据HUMAN Security于2026年11月9日发布的State of Agentic Traffic基准报告2026年10月版，在HUMAN保护的网站上，Meta和OpenAI占当月智能体请求的89%，其中仅Meta的Muse就占59%。10月智能体流量总量是9月的2.6倍，约为8月的八倍。"
               },
               {
                 "t": "p",
-                "x": "在总计6,795条回答中，三个AI引擎都引用并向购物者展示了高风险网站，即冒充真实零售商或售卖仿冒品的假网站、被重新注册的旧品牌域名，或已失效的网站。Gemini在百分之四的回答中展示了高风险网站，ChatGPT为百分之八，Perplexity表现最差，达百分之十五。小品牌似乎尤其容易受害。"
+                "x": "Meta于2026年9月8日推出Muse，作为US-only的个人智能体。OpenAI以三款跻身前十的产品位居第二——ChatGPT Agent（15.9%）、Codex Browser（8.8%）和Codex Chrome扩展（5.2%）——合计约30%。Anthropic的Claude Chrome扩展从7%减半至3.5%。"
               },
               {
                 "t": "p",
-                "x": "在一次对话中，Perplexity把一个错误页面当作Stüssy的官方网站，并称其为“保证正品的最佳起点”。Podqi CEO兼联合创始人Trevor West说：“在输入个人信息或信用卡信息之前，最好始终先核实来源。”"
+                "x": "Perplexity的Comet在8月以41%的份额领跑智能体流量，10月则跌至3.6%。报告称：“随着消费者转向其已在使用的平台内置的智能体，独立的消费级智能体浏览器正在式微。”"
+              },
+              {
+                "t": "p",
+                "x": "智能体仍以调研为主：HUMAN称，85%的请求流向商品和搜索页面，1.9%到达结账和支付环节，不过结账量环比增长117%。报告称：“智能体浏览远多于购买，但到达结账环节的智能体请求数量正在快速上升。”HUMAN的11月版将展示智能体在Black Friday和Cyber Monday期间的表现。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Chatbots de AI desvían a\ncompradores a tiendas falsas",
-          "body": "Un estudio de Podqi con 151 marcas halló que ChatGPT, Gemini y Perplexity dirigen a compradores a tiendas impostoras.",
-          "mini_headline": "Los chatbots envían a compradores a falsificaciones",
+          "headline": "Meta y OpenAI ya concentran\nel grueso del tráfico de agentes",
+          "body": "Muse envió el 59% de las peticiones de agentes de IA y Comet solo el 3.6%; el 85% fue a páginas de producto y búsqueda.",
+          "mini_headline": "Dos empresas dominan el tráfico de agentes de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://ppc.land/content/images/2026/11/human-security-agentic-traffic-october-2026-meta-openai-89-percent-muse-59-percent-two-storefronts-stream.jpg",
+                "cap": "Meta y OpenAI enviaron el 89% de las solicitudes de agentes de AI en octubre, y solo Muse el 59%, según HUMAN"
               },
               {
                 "t": "p",
-                "x": "Los compradores que usan chatbots de AI para investigar productos o encontrar dónde comprarlos podrían acabar en sitios impostores y otras webs de riesgo, según un nuevo estudio. La firma de protección de IP Podqi planteó a ChatGPT, Gemini y Perplexity preguntas de compra sobre 151 marcas, como “¿Dónde puedo encontrar [brand] en línea?”"
+                "x": "Según la edición de octubre de 2026 del informe State of Agentic Traffic de HUMAN Security, publicado el 9 de noviembre de 2026, Meta y OpenAI representaron el 89% de las solicitudes de agentes del mes en los sitios que protege HUMAN, y solo Muse, de Meta, fue responsable del 59%. El tráfico total de agentes en octubre fue 2.6 veces el de septiembre y unas ocho veces el de agosto."
               },
               {
                 "t": "p",
-                "x": "A lo largo de 6,795 respuestas, los tres motores de AI citaron y mostraron a los compradores sitios de riesgo, definidos como webs falsas que suplantan a minoristas reales o venden imitaciones, dominios antiguos de marcas registrados de nuevo o sitios inactivos. Gemini mostró sitios de riesgo en el 4 por ciento de las respuestas, ChatGPT en el 8 por ciento y Perplexity fue el peor, con un 15 por ciento. Las marcas más pequeñas parecen especialmente expuestas."
+                "x": "Meta lanzó Muse el 8 de septiembre de 2026 como agente personal US-only. OpenAI ocupa el segundo puesto con tres productos entre los diez primeros —ChatGPT Agent (15.9%), Codex Browser (8.8%) y la extensión Codex Chrome (5.2%)—, que suman cerca del 30%. La extensión Claude Chrome de Anthropic se redujo a la mitad, del 7% al 3.5%."
               },
               {
                 "t": "p",
-                "x": "En una conversación, Perplexity señaló una página equivocada como el sitio oficial de Stüssy y la llamó “el mejor punto de partida para artículos auténticos garantizados”. “Siempre es mejor verificar el origen antes de introducir información personal o datos de la tarjeta de crédito”, dice Trevor West, CEO y cofundador de Podqi."
+                "x": "Comet, de Perplexity, lideraba el tráfico de agentes con una cuota del 41% en agosto; en octubre cayó al 3.6%. “Los navegadores agénticos independientes para consumidores están perdiendo fuerza, a medida que los consumidores pasan a agentes integrados en plataformas que ya usan”, señala el informe."
+              },
+              {
+                "t": "p",
+                "x": "Los agentes siguen dedicándose sobre todo a investigar: el 85% de las solicitudes fue a páginas de producto y de búsqueda y el 1.9% llegó a la finalización de compra y el pago, aunque el volumen de finalización de compra creció un 117% mes a mes, según HUMAN. “Los agentes todavía navegan mucho más de lo que compran”, dice el informe, “pero el número de solicitudes de agentes que llegan a la finalización de compra crece rápidamente”. La edición de noviembre de HUMAN mostrará cómo se comportaron los agentes durante el Black Friday y el Cyber Monday."
               }
             ]
           }

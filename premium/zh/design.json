@@ -11652,6 +11652,141 @@
           "x": "Bytedance称，Seedream 5.5在文字结构和真实感方面领先GPT Image 2.5 Sunburst等模型。该模型正通过Jimeng、Doubao、Doubao Work和Volcengine Ark逐步上线。Pro版本也在规划中。"
         }
       ]
+    },
+    "design/keyshot-studio-20263-agent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.keyshot.com/wp-content/uploads/2026/11/KS_2026-3_NEW-HEADER.jpg"
+        },
+        {
+          "t": "p",
+          "x": "更少设置，更多渲染：这是KeyShot Studio 2026.3 的主题。此次发布将AI Agent直接放进Studio，为每位用户提供个人云存储，并让产品变体的创建和整理变得容易得多。"
+        },
+        {
+          "t": "video",
+          "yt": "SD55TezMaKQ"
+        },
+        {
+          "t": "p",
+          "x": "新的AI Agent直接内置于KeyShot Studio。用平实的语言说出你想要的效果，它就能替你调整材质、灯光、相机和环境。Agent可以使用Studio提供的大多数工具，因此你专注设计时，设置工作由它负责。AI Agent基于云端，消耗KeyShot点数。"
+        },
+        {
+          "t": "p",
+          "x": "借助Personal Cloud Storage，每位KeyShot用户都有自己的云空间，没有KeyShot的审阅者也能在KeyShot Explorer（目前为测试版）中查看共享场景。KeyShot Studio Enterprise新增自定义SSO和强制MFA。Part Variations让几何变体像材质变体一样简单，Studio Groups则把工作室整理进文件夹。此次发布还更新了CAD导入器和插件。"
+        }
+      ]
+    },
+    "design/google-a2ui-v1-stable": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "如今用户与智能体的交互，就像终端时代的计算机：能力很强，却几乎什么都用文字回答。Google正在发布A2UI 1.0，这是其生成式UI开放协议的首个稳定版本。它让AI智能体能用交互式界面作答，比如一个待确认的表单或一张图表。"
+        },
+        {
+          "t": "video",
+          "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/original_videos/A2UI_1.0_sick_day_three_ways_2.mp4"
+        },
+        {
+          "t": "p",
+          "x": "借助A2UI，智能体描述要显示的内容，各个应用再用自己的原生组件绘制UI。智能体只使用你的设计系统。开发者现在即可通过面向Web、Android和iOS的开源渲染器SDKs，以及面向Python、TypeScript和Dart的智能体SDKs使用它。1.0 版本新增了双向函数调用，并支持无障碍功能和扩展。"
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/06_atlassian_jira.original.png",
+          "cap": "智能体在Jira工作项中请团队跟进。"
+        },
+        {
+          "t": "p",
+          "x": "Atlassian、Alation、Bloomberg和ByteDance等公司已在用它进行开发。Atlassian正把A2UI引入Jira，Alation的信息流则通过A2UI在Claude中渲染。"
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/07_alation.original.png",
+          "cap": "同一个Alation信息流分别在Claude（左）和Alation的Data Products App（右）中的渲染效果。"
+        },
+        {
+          "t": "p",
+          "x": "在Google内部，Gemini Notebook用A2UI卡片来搭建幻灯片，Gemini则渲染来自各组织自有智能体的A2UI响应。对 1.0 的Jetpack Compose支持即将推出。"
+        }
+      ]
+    },
+    "design/hf-trellis2-lora-guide": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/3d-lora-finetuning/sole_orbit_base_vs_lora.gif"
+        },
+        {
+          "t": "p",
+          "x": "Hugging Face提供fine-tuning脚本和容器，可用自己的3D 资产对热门3D 模型、image-to-3D 模型TRELLIS.2进行LoRA-fine-tune，既能在本地运行，也能在Hugging Face Jobs上运行。"
+        },
+        {
+          "t": "p",
+          "x": "通用(general-purpose)模型可能在对特定应用很重要的细节上出错。团队使用了Google Scanned Objects中由188件鞋类物体组成的子集：预训练模型生成的鞋通常看起来没问题，但鞋底是错的。"
+        },
+        {
+          "t": "img",
+          "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/3d-lora-finetuning/pipeline_lr.png",
+          "cap": "TRELLIS.2流程"
+        },
+        {
+          "t": "p",
+          "x": "LoRA适配器只加在控制物体形状与几何结构的sparse-structure flow DiT和shape flow DiT上，texture flow DiT保持冻结。该配置共训练约9.3 million 个适配器参数。"
+        },
+        {
+          "t": "img",
+          "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/3d-lora-finetuning/heldout_meshes.png"
+        },
+        {
+          "t": "p",
+          "x": "在九个held-out物体上，基础模型的平均F-score为0.276，加上鞋类适配器的模型为0.803。Chamfer distance从0.174降至0.033，normal consistency从0.530升至0.804。"
+        }
+      ]
+    },
+    "design/google-labs-tabletop-canvas": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "8upa4JZir3I"
+        },
+        {
+          "t": "p",
+          "x": "无论是筹划家庭旅行、组织业余联赛，还是举办百家宴，只要每个人都能在同一个地方出力、搭建并共同决定，群体协调就会容易得多。"
+        },
+        {
+          "t": "p",
+          "x": "今天，我们推出Tabletop，这是一项专为实时协作打造的Google Labs新实验。"
+        },
+        {
+          "t": "p",
+          "x": "只需添加链接、文件和想法，然后向@tabletop输入提示——或选择一个入门模板——即可生成定制的交互式旅行行程、晚餐投票、费用分摊工具和锦标赛对阵表。空间准备好后，把邀请链接发到群聊里，大家就能像使用Google Doc一样同时加入使用。"
+        },
+        {
+          "t": "p",
+          "x": "Tabletop正通过候补名单在U.S.（18+）推出。搬把椅子坐下，前往labs.google/tabletop报名吧。"
+        }
+      ]
+    },
+    "design/framer-agent-shaders": {
+      "blocks": [
+        {
+          "t": "video",
+          "src": "https://framerusercontent.com/assets/Iw5LhjPbn3iGV8Pg34gm34pSKmQ.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Framer推出图像生成与生成式着色器。你可以让Agent生成契合网站的定制图像、纹理或插画；也可以把图像拖入聊天窗口，或在画布上选中一张图，再让Agent替换主体、移除背景或重新设定风格。"
+        },
+        {
+          "t": "p",
+          "x": "着色器的用法相同。可以向Agent索要半调、散景模糊、CRT、铅笔效果等着色器，也可以描述在网上看到的某种效果，比如“指针拖动时涂抹图像”。它还能调整画布上已有的Framer着色器。"
+        },
+        {
+          "t": "p",
+          "x": "图像生成与着色器生成也能配合使用。Agent可以先生成一张图像，再把它设为图像着色器的输入，例如把图像变成钢笔画，鼠标移动时出现墨迹晕染。"
+        }
+      ]
     }
   }
 }

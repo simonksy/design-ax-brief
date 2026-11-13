@@ -11427,6 +11427,124 @@
           "x": "科学者は数十個の細胞から得た単一細胞RNA-seqのスナップショットをアップロードするだけで、再訓練なしに新たな細胞状態での変異の効果を予測できる。AlphaGenomeとAlphaGenome 2は研究用途に限定される。"
         }
       ]
+    },
+    "science/deepmind-pardig-satweave": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://lh3.googleusercontent.com/EyHOPdy1RZC6ksZ50GThErLowPjtqkzgITH_CSP2Rh4UbsF4muddzfQ0id_Qro5VhuMNYIg9Sxk8ukt7gFVRbLsC4m47HUj07fAAGbhHm1se-h4N=w1440-h810-n-nu",
+          "cap": "異なる気象・気候データセットを示す透明な層で区切られた地球儀の抽象的な3Dイラスト。"
+        },
+        {
+          "t": "p",
+          "x": "Google DeepMindは、気象・水文・気候アプリケーションの構築を支援するため、二つの基盤データセットSatWeaveとPARDIGを公開する。いずれも最近発表したWeatherNext 3モデルの進歩の鍵であり、過去のアーカイブとライブフィードの両方が提供される。"
+        },
+        {
+          "t": "p",
+          "x": "SatWeaveは、GOES-EastとGOES-West、Meteosat、Himawariの観測を可視・水蒸気・赤外の17チャンネルにわたって統合した、静止衛星画像の全球モザイクだ。毎時更新されるため、六時間ごとに更新される解析データで初期化するモデルと異なり、WeatherNext 3は新たな全球予測を出せる。公開分には十年以上にわたる過去アーカイブが含まれる。"
+        },
+        {
+          "t": "video",
+          "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/1JDTJ5D1fR_MbDBa/PARDIG_and_SatWeave__figure-3__mosaic_9620_nm_images.webm"
+        },
+        {
+          "t": "p",
+          "x": "PARDIG(Precipitation AI Reanalysis: Densely Inferred GPM)は、NASAのGPM Core Observatoryによる宇宙からの疎なレーダー観測で学習し、約五時間の遅延で15分・約10キロメートル解像度の全球降水量を生成する。弱い降水から中程度の降水では、毎時の降水検出能力がNASAのIMERG-Finalを30%超上回る。アーカイブは1999年から2026年までをカバーし、Google Cloud StorageとGoogle Earth Engineで公開されている。"
+        }
+      ]
+    },
+    "science/codex-collider-amplitudes": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://physicsworld.com/wp-content/uploads/2026/11/13-11-26-particle-collision-cern-635x358.jpg",
+          "cap": "大規模言語モデルは、2012年にCMS検出器で記録されたこの衝突のような高エネルギー粒子衝突を解析するアルゴリズムを生み出す新たな手段になり得る。(Courtesy: © CERN)"
+        },
+        {
+          "t": "p",
+          "x": "ケンブリッジ大学のYi GuとSven Krippendorfは、まだ査読を経ていないarXivプレプリントで、LLMsをツリーレベル散乱振幅の新たなアルゴリズムを探す探索ツールとして使えることを概念実証した。OpenAIのCodexが候補プログラムを提案し、テストプログラムが正確さと効率を評価し、LLMが新たな候補を提案する。自己進化型の探索である。"
+        },
+        {
+          "t": "p",
+          "x": "スケーリング、構造、複雑さの三つの目的が試された。いずれもシードコードより速いチャンピオンを生んだ。スケーリングの最適化では、コストが粒子数に比例して増える形式が見つかり、シードより805倍速かった。複雑さの試験では演算回数を48倍減らした。これらの手法に新規性はなかった。"
+        },
+        {
+          "t": "p",
+          "x": "SherpaやMadGraphと比べると、独立したPythonプロトタイプである複雑さのチャンピオンは、外部粒子が六個の場合に両者より遅かった。狙いはAI-drivenの探索が出発点のアルゴリズムを改善できるかを試すことであり、確立したコンパイル型ジェネレーターを上回ることではなかった。またアルゴリズムは標準模型全体をカバーしていない。Krippendorfは、この手法は高速な数値チェックがある課題で機能すると話す。"
+        }
+      ]
+    },
+    "science/tohoku-mlp-copilot-aluminum": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-agents-advance-atom.jpg",
+          "cap": "MLP Copilotはモデル開発、検証、専門家レビューをつなぐ。AIエージェントが作業と根拠を整理し、科学的判断とモデル利用の決定は研究者が下す。Credit: PNAS (2026)"
+        },
+        {
+          "t": "p",
+          "x": "東北大学が開発したAIエージェントMLP Copilotは、人間の監督の下で計算ツールと科学的根拠を橋渡しし、原子間相互作用のモデルを構築する。量子計算から原子のエネルギーと力を学習し、より大規模なシミュレーションを可能にする。研究は2026年10月15日にPNASに掲載された。"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-agents-advance-atom-1.jpg",
+          "cap": "1,500 Kと2,000 Kのシミュレーションは、酸化殻の変化がアルミニウムの輸送と酸化にどう影響するかを示す。Credit: PNAS (2026)"
+        },
+        {
+          "t": "p",
+          "x": "実証として、チームはアルミニウムナノ粒子の酸化を調べた。約80回の能動学習の反復で88,833個の原子配置を集めた。中程度の温度では、一時的なナノスケールの経路が輸送を制限しつつ酸化を継続させる。いわば「呼吸モード」だ。より高温では殻が破れてアルミニウムの核が酸素にさらされ、酸化が加速した。"
+        },
+        {
+          "t": "p",
+          "x": "AIエージェントはプロジェクトの知識を整理し、根拠を検索し、検証計画を支援した。どのモデルを採用し結果をどう解釈するかは研究者が決めた。論文のタイトルはMulti-AI agent framework reveals the \"oxide gatekeeper\" in aluminum nanoparticle oxidationである。"
+        }
+      ]
+    },
+    "science/concept2brain-eeg-sim": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.psypost.org/wp-content/uploads/2026/06/brainimg-2.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "科学者らは、人の脳波が写真や文章にどう反応するかを予測するAIツールConcept2Brainを開発した。Nature Communicationsに掲載された研究によると、このオープンアクセスのプラットフォームは実際の脳活動に似た合成EEG記録を生成し、研究者がボランティアを募る前に脳波実験をシミュレーションできるようになる可能性がある。"
+        },
+        {
+          "t": "p",
+          "x": "モデルは、大学のボランティア88人が写真360枚を見た際のEEGで学習した。条件付き変分オートエンコーダーが129チャンネルの各記録を256個の数値に圧縮し、OpenAIのCLIPを中心に構築した変換器が画像やテキストをその要約に対応づける。学習に使っていない写真では、合成波形は約100〜700ミリ秒で実際の記録とよく一致し、モデルは顔のラベルなしで170 msの顔反応を再現した。"
+        },
+        {
+          "t": "p",
+          "x": "筆頭著者のAlejandro Santos-Mayoは、合成データは人間の参加者から集めた実測データに代わるものではないと注意を促す。テキストによる予測の検証はまだ不十分で、外部データセットでは一致度が低かった。"
+        }
+      ]
+    },
+    "science/science-m87-ml-reanalysis": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-fuzy-organge-glowing.jpg",
+          "cap": "このEvent Horizon Telescope(事象の地平線望遠鏡)の画像は、近傍のおとめ座(Virgo)銀河団にある巨大銀河Messier 87の中心のブラックホールを捉えている。クレジット: Event Horizon Telescope Collaboration et al. 2019."
+        },
+        {
+          "t": "p",
+          "x": "オーストラリアの国立科学機関CSIROの四人のチームが、銀河M87の中心にあるブラックホールを写した2019年の画期的なEvent Horizon Telescope(EHT)画像を検証する、強力な新しい画像化手法を開発した。Natureに掲載されたこの手法は、較正誤差と主観的な画像処理判断の影響を抑える。"
+        },
+        {
+          "t": "p",
+          "x": "筆頭著者のSamuel Lai博士は「私たちオーストラリアの小さなチームは、ブラックホールの構造に関する情報を捉え、大気の干渉を取り除く高度な機械学習と人工知能の手法を開発した」と語った。「元のEvent Horizon Telescopeのデータセットに適用すると、歴史的なEHT画像と大きさも形もほぼ同じブラックホールが現れた。重要なのは、M87のデータに適用した時点で、私たちのモデルはブラックホールがどう見えるかをまったく知らなかったことだ」"
+        },
+        {
+          "t": "p",
+          "x": "プロジェクトリーダーのNithyanandan Thyagarajan博士は「私たちの手法は、そうした誤差を除くため、標準的な望遠鏡データの二つ組ではなく三つ組を組み合わせる」と述べた。この成果は、リングが画像再構成による人工物ではなく、本物の天体物理学的構造であるという確信を強めるものだ。"
+        },
+        {
+          "t": "p",
+          "x": "EHT Collaborationの責任者Laurent Loinard博士は、GenDIReCTを「洗練された完全に独立した手法で、数年にわたるM87*のリング構造を復元し、EHT Collaborationの公表結果と非常によく一致している」と評した。Thyagarajanは、この手法が医療画像や地震のマッピングの改善にも役立ちうると述べた。"
+        }
+      ]
     }
   }
 }

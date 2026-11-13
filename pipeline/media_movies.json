@@ -1,7 +1,32 @@
-{"date":"2026-11-13","section":"movies","media":[
-{"id":"firefly-build-story-assemble","type":"video","src":"pipeline/media/firefly-build-story-assemble.mp4","poster":"pipeline/media/firefly-build-story-assemble.jpg"},
-{"id":"distinkt-ai-talent-agency","type":"image","src":"pipeline/media/distinkt-ai-talent-agency.jpg"},
-{"id":"sagaftra-websummit-ai-block","type":"image","src":"pipeline/media/sagaftra-websummit-ai-block.jpg"},
-{"id":"saranagati-hombale-ai-teaser","type":"video","src":"pipeline/media/saranagati-hombale-ai-teaser.mp4","poster":"pipeline/media/saranagati-hombale-ai-teaser.jpg"},
-{"id":"kbs-munmu-ai-battles","type":"image","src":"pipeline/media/kbs-munmu-ai-battles.jpg"}
-]}
+{
+  "date": "2026-11-14",
+  "section": "movies",
+  "media": [
+    {
+      "id": "shortical-inevitable-avni",
+      "type": "image",
+      "src": "pipeline/media/shortical-inevitable-avni.jpg"
+    },
+    {
+      "id": "screenburn-writers-room",
+      "type": "image",
+      "src": "pipeline/media/screenburn-writers-room.jpg"
+    },
+    {
+      "id": "zhao-liying-hongguo-lawsuit",
+      "type": "image",
+      "src": "pipeline/media/zhao-liying-hongguo-lawsuit.jpg"
+    },
+    {
+      "id": "manchester-animation-ai-policy",
+      "type": "video",
+      "src": "pipeline/media/manchester-animation-ai-policy.mp4",
+      "poster": "pipeline/media/manchester-animation-ai-policy.jpg"
+    },
+    {
+      "id": "seedance-25-flash-bytedance",
+      "type": "image",
+      "src": "pipeline/media/seedance-25-flash-bytedance.png"
+    }
+  ]
+}

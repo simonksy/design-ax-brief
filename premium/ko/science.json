@@ -15435,6 +15435,124 @@
           "x": "과학자들은 세포 수십 개에서 얻은 단일세포 RNA-seq 스냅샷만 올리면 재학습 없이 새 세포 상태의 변이 효과를 예측할 수 있다. AlphaGenome과 AlphaGenome 2는 연구용으로만 쓰도록 만들었다."
         }
       ]
+    },
+    "science/deepmind-pardig-satweave": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://lh3.googleusercontent.com/EyHOPdy1RZC6ksZ50GThErLowPjtqkzgITH_CSP2Rh4UbsF4muddzfQ0id_Qro5VhuMNYIg9Sxk8ukt7gFVRbLsC4m47HUj07fAAGbhHm1se-h4N=w1440-h810-n-nu",
+          "cap": "서로 다른 기상·기후 데이터셋을 투명한 층으로 겹쳐 표현한 지구본 추상 3D 일러스트."
+        },
+        {
+          "t": "p",
+          "x": "Google DeepMind가 기상·수문·기후 애플리케이션 개발을 돕는 기반 데이터셋 두 가지, SatWeave와 PARDIG를 공개한다. 둘 다 최근 공개된 WeatherNext 3 모델을 발전시키는 데 핵심 역할을 했고, 과거 아카이브와 실시간 피드를 함께 제공한다."
+        },
+        {
+          "t": "p",
+          "x": "SatWeave는 GOES-East와 GOES-West, Meteosat, Himawari의 관측을 가시광·수증기·적외선 17개 채널에 걸쳐 합친 정지궤도 위성 영상의 전 지구 모자이크다. 매시간 갱신되는 덕분에 WeatherNext 3는 여섯 시간마다 갱신되는 분석 데이터로 초기화하는 모델과 달리 새 전 지구 예측을 내놓을 수 있다. 공개분에는 십 년 넘는 과거 아카이브도 들어 있다."
+        },
+        {
+          "t": "video",
+          "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/1JDTJ5D1fR_MbDBa/PARDIG_and_SatWeave__figure-3__mosaic_9620_nm_images.webm"
+        },
+        {
+          "t": "p",
+          "x": "PARDIG(Precipitation AI Reanalysis: Densely Inferred GPM)는 NASA의 GPM Core Observatory가 우주에서 모은 희소한 레이더 관측으로 학습했다. 약 다섯 시간 지연으로 15분, 약 10킬로미터 해상도의 전 지구 강수 데이터를 만든다. 약한 강수에서 보통 강수까지 시간별 강수 탐지 능력은 NASA의 IMERG-Final보다 30% 넘게 좋아졌다. 아카이브는 1999년부터 2026년까지를 담았고, Google Cloud Storage와 Google Earth Engine에서 누구나 쓸 수 있다."
+        }
+      ]
+    },
+    "science/codex-collider-amplitudes": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://physicsworld.com/wp-content/uploads/2026/11/13-11-26-particle-collision-cern-635x358.jpg",
+          "cap": "2012년 CMS 검출기에 기록된 이 충돌처럼, 고에너지 입자 충돌을 분석하는 알고리즘을 만드는 데 대규모 언어 모델이 새 길이 될 수 있다. (Courtesy: © CERN)"
+        },
+        {
+          "t": "p",
+          "x": "케임브리지대학교의 Yi Gu와 Sven Krippendorf는 아직 동료 심사를 거치지 않은 arXiv 프리프린트에서 LLMs를 트리 수준 산란 진폭의 새 알고리즘을 찾는 탐색 도구로 쓸 수 있다는 개념 증명을 내놓았다. OpenAI의 Codex가 후보 프로그램을 내면 테스트 프로그램이 정확성과 효율을 따지고, LLM이 다시 새 후보를 낸다. 스스로 진화하는 탐색 구조다."
+        },
+        {
+          "t": "p",
+          "x": "연구진이 시험한 목표는 스케일링, 구조, 복잡도 세 가지다. 모든 목표에서 시드 코드보다 빠른 챔피언이 나왔다. 스케일링을 최적화하자 입자 수에 따라 비용이 선형으로 늘어나는 형식론이 나왔는데, 시드보다 805배 빨랐다. 복잡도 시험에서는 연산 횟수가 48배 줄었다. 다만 이 가운데 새로운 기법은 없었다."
+        },
+        {
+          "t": "p",
+          "x": "Sherpa, MadGraph와 견주면 독립형 Python 프로토타입인 복잡도 챔피언은 외부 입자가 여섯 개일 때 둘보다 느렸다. 애초 목표는 AI-driven 탐색이 출발 알고리즘을 개선할 수 있는지 확인하는 것이었다. 기존 컴파일형 생성기를 이기려던 것은 아니며, 알고리즘도 표준 모형 전체를 다루지는 않는다. Krippendorf는 빠른 수치 검증이 가능한 과제라면 이 방법이 통한다고 말한다."
+        }
+      ]
+    },
+    "science/tohoku-mlp-copilot-aluminum": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-agents-advance-atom.jpg",
+          "cap": "MLP Copilot은 모델 개발·검증·전문가 검토를 하나로 묶는다. AI 에이전트는 작업과 근거를 정리하고, 과학적 판단과 모델 사용 여부는 연구자가 정한다. 출처: PNAS (2026)"
+        },
+        {
+          "t": "p",
+          "x": "Tohoku University(도호쿠대)가 개발한 AI 에이전트 MLP Copilot은 사람의 감독 아래 계산 도구와 과학적 근거를 엮어 원자 간 상호작용 모델을 만든다. 양자 계산에서 얻은 원자의 에너지와 힘을 학습해 더 큰 규모의 시뮬레이션을 돌릴 수 있게 한다. 연구는 2026년 10월 15일(Oct. 15, 2026) PNAS에 실렸다."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-agents-advance-atom-1.jpg",
+          "cap": "1,500 K와 2,000 K 시뮬레이션에서 산화막(oxide-shell)의 변화가 알루미늄 이동과 산화에 미치는 영향이 드러난다. 출처: PNAS (2026)"
+        },
+        {
+          "t": "p",
+          "x": "연구팀은 시연 대상으로 알루미늄 나노입자의 산화를 골랐다. 능동 학습(active-learning)을 약 80회 반복해 원자 구성 88,833개를 모았다. 중간 온도에서는 잠깐 열리는 나노 규모 통로가 이동을 제한하면서도 산화가 계속되게 했다. 이른바 '호흡 모드(breathing mode)'다. 온도가 더 오르자 산화막이 깨지고 알루미늄 코어가 산소에 드러나 산화가 빨라졌다."
+        },
+        {
+          "t": "p",
+          "x": "AI 에이전트는 프로젝트 지식을 정리하고, 근거를 찾고, 검증 계획을 세우는 일을 거들었다. 어떤 모델을 쓸지, 결과를 어떻게 해석할지는 연구자가 정했다. 논문 제목은 Multi-AI agent framework reveals the \"oxide gatekeeper\" in aluminum nanoparticle oxidation이다."
+        }
+      ]
+    },
+    "science/concept2brain-eeg-sim": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.psypost.org/wp-content/uploads/2026/06/brainimg-2.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "과학자들이 사진이나 글을 본 사람의 뇌파 반응을 예측하는 AI 도구 Concept2Brain을 개발했다. Nature Communications에 실린 연구에 따르면 이 오픈 액세스 플랫폼은 실제 뇌 활동과 닮은 합성 EEG 기록을 만들어 낸다. 연구자가 자원자를 모집하기 전에 뇌파 실험을 미리 시뮬레이션해 볼 수 있을 전망이다."
+        },
+        {
+          "t": "p",
+          "x": "모델은 대학 자원자 88명이 사진 360장을 보는 동안 잰 EEG로 학습했다. 조건부 변분 오토인코더가 129채널 기록 하나하나를 숫자 256개로 압축하고, OpenAI의 CLIP을 중심으로 만든 변환기가 이미지나 텍스트를 이 요약으로 옮긴다. 학습에 쓰지 않은 사진에서도 합성 뇌파는 약 100~700밀리초 구간에서 실제 기록과 거의 일치했다. 얼굴 레이블이 없었는데도 170 ms 얼굴 반응까지 재현했다."
+        },
+        {
+          "t": "p",
+          "x": "제1저자 Alejandro Santos-Mayo는 합성 데이터가 사람 참가자에게서 얻은 실측 데이터를 대신할 수는 없다고 경고한다. 텍스트 프롬프트로 한 예측은 아직 검증이 덜 됐고, 외부 데이터셋에서는 일치도가 더 낮았다."
+        }
+      ]
+    },
+    "science/science-m87-ml-reanalysis": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-fuzy-organge-glowing.jpg",
+          "cap": "Event Horizon Telescope(사건지평선망원경)가 찍은 이 이미지는 인근 처녀자리(Virgo) 은하단의 거대 은하 Messier 87 중심에 있는 블랙홀이다. 출처: Event Horizon Telescope Collaboration et al. 2019."
+        },
+        {
+          "t": "p",
+          "x": "호주 국립과학기관 CSIRO의 네 명 연구팀이 은하 M87 중심 블랙홀을 담은 2019년 Event Horizon Telescope(EHT)의 기념비적 이미지를 검증할 강력한 새 영상 기법을 개발했다. Nature에 실린 이 방법은 보정 오차와 이미지 처리 과정의 주관적 판단이 결과에 끼치는 영향을 줄인다."
+        },
+        {
+          "t": "p",
+          "x": "제1저자 Samuel Lai 박사는 “우리 작은 호주 팀은 블랙홀 구조 정보를 포착하고 대기 간섭을 걸러내는 고급 머신러닝·인공지능 기법을 개발했다”고 말했다. “이를 원래의 Event Horizon Telescope 데이터셋에 적용하자 역사적인 EHT 이미지와 크기와 모양이 거의 같은 블랙홀이 나타났다. 중요한 점은, M87 데이터에 적용할 때 우리 모델이 블랙홀이 어떻게 생겼는지 전혀 몰랐다는 사실이다.”"
+        },
+        {
+          "t": "p",
+          "x": "프로젝트 책임자 Nithyanandan Thyagarajan 박사는 “우리 기법은 그런 오차를 없애기 위해 표준적인 망원경 데이터 쌍 대신 세 개씩 묶은 조합을 결합한다”고 말했다. 이번 결과로 고리가 이미지 재구성 과정에서 생긴 인공물이 아니라 실제 천체물리학적 구조라는 확신이 커졌다."
+        },
+        {
+          "t": "p",
+          "x": "EHT Collaboration 책임자 Laurent Loinard 박사는 GenDIReCT가 “우아하고 완전히 독립적인 방법으로, 여러 해에 걸친 M87*의 고리 구조를 복원하며 EHT Collaboration이 발표한 결과와 매우 잘 일치한다”고 평가했다. Thyagarajan은 이 기법을 의료 영상과 지진 지도 작성을 개선하는 데도 쓸 수 있다고 말했다."
+        }
+      ]
     }
   }
 }

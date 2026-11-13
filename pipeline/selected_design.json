@@ -1,101 +1,101 @@
 {
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "section": "design",
   "items": [
     {
-      "tool": "Figma",
-      "category": "figma",
-      "accent": "#0070f3",
-      "motif": "frame",
-      "title": "Framer Updates: Image and Shader Generation",
-      "url": "https://www.framer.com/updates/image-shader-generation",
-      "source": "Framer",
-      "published_iso": "2026-11-12T00:00:00Z",
-      "og_image": "https://framerusercontent.com/images/188hlNOfbDRG4rHCkWqDpBILpg.png?width=1600&height=900",
-      "excerpt": "The Framer Agent can now generate or edit images, textures and illustrations and create or tweak shaders such as halftone, bokeh or CRT. It can also feed a generated image into an image shader.",
-      "rationale": "Primary-source release: Framer's agent now generates images and shaders on the site canvas, so designers can make visual assets without leaving the site builder. Picked over the duplicate Framer YouTube demo (cluster c2)."
+      "tool": "Text-to-CAD",
+      "category": "cad",
+      "accent": "#7928ca",
+      "motif": "cube",
+      "title": "New AI 'copilot' helps engineers design better structures",
+      "url": "https://news.mit.edu/2026/new-ai-copilot-helps-engineers-design-better-structures-1113",
+      "source": "MIT News",
+      "published_iso": "2026-11-13T05:00:00Z",
+      "og_image": "https://news.mit.edu/sites/default/files/images/202611/MIT-ai-design-01-press.jpg",
+      "excerpt": "MIT researchers built a generative-design copilot that pauses mid-generation to ask the human designer for feedback on regions of a structure, yielding more manufacturable parts with higher buckling loads.",
+      "rationale": "A new human-in-the-loop generative-design method with measured gains (manufacturability, buckling load). The brief assigns this story to design only."
     },
     {
       "tool": "KeyShot",
       "category": "render",
       "accent": "#f5a623",
       "motif": "sphere",
-      "title": "5 new Google Flow Tools designed by visual artists",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/new-google-flow-tools/",
-      "source": "Google (The Keyword)",
-      "published_iso": "2026-11-12T00:00:00Z",
-      "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Nov_Cohort_Hero_4.width-1300.jpg",
-      "excerpt": "Google added five creative tools to Flow, its AI filmmaking studio, built with visual artists: they keep characters consistent across decades, generate stylized art, simulate complex lighting and turn phone videos into polished shots.",
-      "rationale": "New tools from the primary source covering character consistency, stylization, lighting simulation and phone-to-polished shots, all directly usable in visual production."
+      "title": "Meet your new AI Agent, plus personal cloud storage, enterprise SSO and easier variations in KeyShot Studio 2026.3",
+      "url": "https://www.keyshot.com/blog/keyshot-introduces-single-sign-on-ai-agent-and-more/",
+      "source": "KeyShot",
+      "published_iso": "2026-11-12T15:47:19+00:00",
+      "og_image": "https://www.keyshot.com/wp-content/uploads/2026/11/KS_2026-3_NEW-HEADER.jpg",
+      "excerpt": "KeyShot Studio 2026.3 puts an AI Agent directly inside the product-rendering app, alongside personal cloud storage, easier part variations, studio groups and enterprise SSO/MFA.",
+      "rationale": "Primary-source release that puts an AI agent inside a core product-rendering tool. Product and industrial designers can use it right away."
     },
     {
-      "tool": "Design Tokens",
-      "category": "tokens",
-      "accent": "#2ec5c5",
-      "motif": "swatch",
-      "title": "KT, 앱 디자인부터 고객 안내 문구까지 AI 적용…'KDS 2.0' 구축",
-      "url": "https://www.inthenews.co.kr/news/article.html?no=94443",
-      "source": "인더뉴스 (InTheNews)",
-      "published_iso": "2026-11-12T15:04:24+09:00",
-      "og_image": "https://www.inthenews.co.kr/data/photos/20261146/art_17944633067103_566c36.jpg",
-      "excerpt": "KT built KDS 2.0, a UX design system that AI can read directly. Its 'KDS Harness' lets AI lay out screens to the system's rules and check the results, cutting about 8 months of work (424 requirements, 25 components) to 2 months 40 days. KT also launched an AI message-writing agent that cuts drafting and review from 30-60 minutes to about 5.",
-      "rationale": "A concrete enterprise case of an AI-readable design system plus a harness that checks generated screens against it, with measured time savings that design-system teams can benchmark against."
+      "tool": "Figma",
+      "category": "figma",
+      "accent": "#0070f3",
+      "motif": "frame",
+      "title": "A2UI 1.0: Build delightful, fast, reliable, agentic experiences",
+      "url": "https://developers.googleblog.com/a2ui-10-build-delightful-fast-reliable-agentic-experiences/",
+      "source": "Google Developers Blog",
+      "published_iso": "2026-11-11T00:00:00Z",
+      "og_image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Gemini_Generated_Image_iu9r44iu9r.2e16d0ba.fill-1200x600.jpg",
+      "excerpt": "Google ships A2UI 1.0, its generative-UI protocol that lets agents answer with interactive interface components instead of walls of text, moving agent interactions out of the 'terminal era'.",
+      "rationale": "The 1.0 stable release of Google's generative-UI protocol, which defines how agents render interface components. This directly affects how designers spec agent UIs."
     },
     {
-      "tool": "Text-to-CAD",
-      "category": "cad",
-      "accent": "#7928ca",
-      "motif": "cube",
-      "title": "Rhino World 2026: McNeel lets AI in",
-      "url": "https://aecmag.com/cad/rhino-world-2026-mcneel-lets-ai-in/",
-      "source": "AEC Magazine",
-      "published_iso": "2026-11-12T09:55:20Z",
-      "og_image": "https://aecmag.com/wp-content/uploads/2026/11/RhinoAI.jpg",
-      "excerpt": "With Rhino 9 out, AEC Magazine reports from Rhino World 2026 on how McNeel is bringing AI into Rhino and speeding up development without changing its perpetual-licence business model.",
-      "rationale": "McNeel opening Rhino to AI is a direction change for a core tool used by product, industrial and architectural designers. Reported from the event by a specialist outlet."
-    },
-    {
-      "tool": "Design Tokens",
-      "category": "tokens",
+      "tool": "KeyShot",
+      "category": "render",
       "accent": "#eb367f",
-      "motif": "swatch",
-      "title": "Should You Actually Add AI To That? A Four-Question Audit For Product Teams",
-      "url": "https://smashingmagazine.com/2026/11/should-you-add-ai-audit-product-teams/",
-      "source": "Smashing Magazine",
-      "published_iso": "2026-11-12T10:00:00Z",
-      "og_image": "https://files.smashing.media/articles/should-you-add-au-audit-product-teams/should-you-add-ai-audit-product-teams.jpg",
-      "excerpt": "An AI feature can save users time on a task, then cost them that time checking its output. Smashing offers a four-question audit for deciding where AI earns its place in a product and what users need to trust it.",
-      "rationale": "A practical framework a product designer can use in tomorrow's roadmap review, from a whitelisted, reputable outlet. It uses a second tokens slot, so it gets a distinct palette accent."
+      "motif": "sphere",
+      "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+      "url": "https://huggingface.co/blog/3d-lora-finetuning",
+      "source": "Hugging Face",
+      "published_iso": "2026-11-12T00:00:00.770Z",
+      "og_image": "https://huggingface.co/blog/assets/3d-lora-finetuning/thumbnail.gif",
+      "excerpt": "Hugging Face publishes scripts and containers to LoRA-fine-tune TRELLIS.2, a popular image-to-3D model, on your own 3D assets, covering geometry and material generation, HF Jobs and local Docker runs.",
+      "rationale": "Newly released tooling that lets 3D and product teams train an image-to-3D model on their own asset style. This is the second render card, so it gets a distinct accent."
+    },
+    {
+      "tool": "AI Workflow",
+      "category": "workflow",
+      "accent": "#ff5a4d",
+      "motif": "frame",
+      "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
+      "source": "Google",
+      "published_iso": "2026-11-11T16:00:00Z",
+      "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/labs_tabletop_blog_image_2784x1566.max-1440x810.jpg",
+      "excerpt": "Google Labs' Tabletop lets groups describe a custom collaborative app (itineraries, polls, brackets) and an AI canvas builds it as a shared multiplayer space; waitlist open.",
+      "rationale": "A new Google Labs product where an AI canvas generates multiplayer collaborative mini-apps from a prompt. It is a new interaction pattern for prompt-to-app design."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.framer.com/updates/image-shader-generation": {
+      "https://news.mit.edu/2026/new-ai-copilot-helps-engineers-design-better-structures-1113": {
         "verdict": "new",
-        "nearest": "https://www.youtube.com/watch?v=BS-N-AM5ql4",
+        "nearest": "https://aecmag.com/automation/ais-next-bottleneck-is-the-engineers-desk/",
+        "new_action": "Not the same story. The 10-23 AEC Magazine card is an opinion/analysis piece about AI's bottleneck at the engineer's desk, with no specific release or research. This pick is MIT's 11-13 announcement of a new research result: a human-in-the-loop generative-design copilot with measured manufacturability and buckling-load gains. The 0.153 overlap is generic vocabulary (AI, engineers, design), not a shared event."
+      },
+      "https://www.keyshot.com/blog/keyshot-introduces-single-sign-on-ai-agent-and-more/": {
+        "verdict": "new",
+        "nearest": "https://aecmag.com/visualisation/chaos-brings-ai-deeper-into-v-ray-collection/",
         "new_action": ""
       },
-      "https://blog.google/innovation-and-ai/models-and-research/google-labs/new-google-flow-tools/": {
+      "https://developers.googleblog.com/a2ui-10-build-delightful-fast-reliable-agentic-experiences/": {
+        "verdict": "follow-up",
+        "nearest": "https://developers.googleblog.com/fast-reliable-a2ui/",
+        "new_action": "A2UI reaches its 1.0 stable release. The 10-28 card covered an earlier pre-1.0 update (swappable inference formats)."
+      },
+      "https://huggingface.co/blog/3d-lora-finetuning": {
         "verdict": "new",
-        "nearest": "",
+        "nearest": "https://www.figma.com/blog/training-a-figma-fluent-editing-model/",
         "new_action": ""
       },
-      "https://www.inthenews.co.kr/news/article.html?no=94443": {
+      "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/": {
         "verdict": "new",
-        "nearest": "",
-        "new_action": ""
-      },
-      "https://aecmag.com/cad/rhino-world-2026-mcneel-lets-ai-in/": {
-        "verdict": "new",
-        "nearest": "",
-        "new_action": ""
-      },
-      "https://smashingmagazine.com/2026/11/should-you-add-ai-audit-product-teams/": {
-        "verdict": "new",
-        "nearest": "https://smashingmagazine.com/2026/10/is-your-organization-messing-up-ai-adoption/",
+        "nearest": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
         "new_action": ""
       }
     },
-    "note": "Framer: different vendor and product from the 10-28 Figma-agent shaders video (history_match 'related'), so it is new. Dropped Framer YouTube G9O1Ex3EXno as the same story (cluster c2), keeping the primary blog. Dropped BCN3D Aurora (3dprintingindustry) as a likely repeat of the 11-08 all3dp 'This AI 3D Printer Can Now Design Your Parts' story about the same AI-design printer. Excluded per curator_brief cross-section assignments: Road to VR Android XR glasses (gadgets), Creative Bloq Unreal Engine 5.9 (already ran in games 11-11), The Verge GDC survey (games). Skipped on fit or quality: Gemini 4 Hydrogen (general model news), Creative Bloq AI video generator roundup (evergreen, no og_image), Figma 3D transforms launch video (case study that extends the 10-28 Figma agent shaders/motion story), plus the Runway and Jesse Showalter videos, UX Collective opinion pieces, the dev.to comparison, Creality mBox, the HF LoRA guide and Phota Labs, all ranked lower. Cross-section: Google Flow is not in the brief's assignment list; the orchestrator should confirm movies did not also pick it."
+    "note": "Excluded per curator_brief cross-section rules: Google intelligent-eyewear privacy (gadgets only) and The Verge Adobe MAX Sneaks (already ran in movies 11-13). Skipped on dedup or fit: Figma 3D transforms launch video (case study extending the 10-28 'Shaders and Motion with the Figma agent' story; the 11-13 curator also passed on it), UX Collective 'Every click has a price' (same topic as the 11-02 'How to design transparent AI cost controls'), the other two UX Collective opinion pieces (essays, low actionability), the Config India Copilot and Atlassian talks (same conference talk series as the 11-12 card, lower novelty), Gemini 4 Hydrogen (general model news, not design-specific), SimScale Blueprint (enterprise framework, low designer actionability), and the Creative Bloq AI video generator price roundup (evergreen). Diversity: 5 distinct domains (news.mit.edu, keyshot.com, developers.googleblog.com, huggingface.co, blog.google). Google, as a company, has 2 cards, within the cap. Categories: cad, render x2 (the second gets accent #eb367f), figma, workflow. Caveat: the curator had no grep tool, and published_urls.json (4.4k lines) was too large to scan in full, so the cross-section exact-URL check covers only the brief's assignment list. The orchestrator should exact-grep these 5 URLs plus 'A2UI', 'TRELLIS', 'KeyShot 2026.3' and 'Tabletop' across all sections before roll."
   }
 }

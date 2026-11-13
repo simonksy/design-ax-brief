@@ -12018,6 +12018,140 @@
           "x": "Google llevó la app de Gemini a CarPlay poco después de activar Personal Assistance (que puede acceder a datos de otras apps de Google para dar respuestas más personalizadas) en el chatbot de Android Auto. La compañía también está llevando Personal Intelligence a Gemini en los coches con Google built-in."
         }
       ]
+    },
+    "gadgets/gadgets-christian-linux-ai-phone": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Golden-Codex-Smartphone-Showcase.png",
+          "cap": "El smartphone PineCone muestra el Jesus New OS propuesto"
+        },
+        {
+          "t": "p",
+          "x": "Jesus Dash es un ambicioso proyecto tecnológico cristiano que combina Linux, asistencia AI-powered y recursos religiosos. Su fundador también desarrolla un smartphone de $449 llamado PineCone, previsto para principios de 2027. Algunas aplicaciones ya están disponibles."
+        },
+        {
+          "t": "p",
+          "x": "El fundador, Christian Cassarly, aclaró a Notebookcheck que las ediciones para Windows, macOS y Linux son aplicaciones que se ejecutan dentro de sistemas operativos existentes, no distribuciones arrancables. Según se informa, la plataforma del teléfono combina el kernel Popcorn (Linux-based), la capa de servicios Trinity Core y la interfaz Jesus New."
+        },
+        {
+          "t": "p",
+          "x": "La Temple Suite propuesta incluye espacios de oración y reflexión, meditación guiada, lectura de la Biblia y la biblioteca digital ChristBooks. Trinity AI ofrece asistencia conversacional, mientras que Living Jesus, Living God y Living Word ofrecen debates AI-assisted sobre textos bíblicos. Las funciones de AI conectadas dependen de proveedores externos."
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/_processed_/5/2/csm_pinecone-os-suite_e31ea77c4e.png",
+          "cap": "Temple Suite lleva recursos cristianos y Trinity AI a Jesus New OS"
+        },
+        {
+          "t": "p",
+          "x": "Cassarly pretende guardar los historiales de conversación de forma local y borrar a las 24 horas los mensajes temporales de los usuarios en el servidor, aunque reconoce que esto aún no está verificado. PineCone usa hardware de Pine64, con suscripciones desde $19.99 al mes; el sitio web indica el 1 de enero de 2027 como la fecha de disponibilidad estimada más temprana."
+        },
+        {
+          "t": "p",
+          "x": "Su rendimiento, su seguridad y su capacidad para ofrecer una experiencia completa de smartphone Linux aún requieren pruebas independientes."
+        }
+      ]
+    },
+    "gadgets/gadgets-galaxy-ai-premium-499": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2024/08/samsung-galaxy-ai-phone-2.jpg?resize=1200%2C720&ssl=1",
+          "cap": "Galaxy AI Andy Boxall / Digital Trends"
+        },
+        {
+          "t": "p",
+          "x": "Una nueva filtración indica que Samsung está desarrollando una suscripción premium de Galaxy AI, con funciones exclusivas, límites de uso más altos y una cuota mensual. Según un informe de SammyGuru, referencias halladas en una app de Samsung aún no publicada apuntan a una suscripción Galaxy AI Premium con un plan Max de gama superior. Al parecer, la app contiene cadenas de precios que sugieren una cuota de $4.99 al mes, o $47.99 al año."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/01/galaxy-s25-ultra-galaxy-ai.jpg?resize=3000%2C2000&ssl=1",
+          "cap": "Andy Boxall / Digital Trends"
+        },
+        {
+          "t": "p",
+          "x": "Herramientas existentes como Photo Assist, Browsing Assist, Now Brief, Creative Studio y Samsung Keyboard seguirían disponibles sin suscripción, pero su uso podría estar limitado. Cuando los usuarios agoten su cuota gratuita, quizá tengan que comprar créditos de AI adicionales o pasar a la suscripción Max, que según se informa ofrece cuatro veces más uso. Los clientes de pago también podrían desbloquear Gen Video, que convierte fotos en videos AI-generated, y Bixby Action, una herramienta para automatizar tareas entre apps."
+        },
+        {
+          "t": "p",
+          "x": "La app filtrada también menciona un requisito de versión de AI etiquetado como 20271, que según SammyGuru podría apuntar a la próxima serie Galaxy S27. Samsung no ha anunciado oficialmente Galaxy AI Premium, y los precios y funciones filtrados podrían cambiar antes del lanzamiento."
+        }
+      ]
+    },
+    "gadgets/gadgets-meta-muse-wearos": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/meta-muse-ai-voice-conversations-hero-image.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El agente Muse AI de Meta gana terreno de forma constante gracias a su aspecto simpático y atractivo y a un conjunto más amplio de ventajas para los usuarios gratuitos. La semana pasada, Meta añadió un modo de voz a Muse que permite interactuar con el agente de AI de forma similar a Gemini Live. Y ahora, Meta ofrece a los usuarios de relojes inteligentes otro motivo para quedarse."
+        },
+        {
+          "t": "p",
+          "x": "Hoy, más temprano, la cuenta oficial de Muse en X publicó una imagen desenfadada de su mascota con relojes inteligentes, en los que también se ve Muse en funcionamiento. El texto que acompaña la imagen confirma además que Muse ya puede “trabajar sin descanso” directamente desde la muñeca, lo que confirma la disponibilidad de la app en Wear OS y Apple Watch."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Screenshot-2026-11-11-at-3.59.50-PM.png"
+        },
+        {
+          "t": "p",
+          "x": "En la imagen se ve que los usuarios tienen tres modos de entrada: texto, dictado y chat de voz. Gadgets and Wearables señala que los usuarios de Apple Watch también obtienen una complicación de esfera personalizada para acceder rápidamente, aunque no pudimos confirmar lo mismo en Wear OS."
+        },
+        {
+          "t": "p",
+          "x": "Por supuesto, el agente no se ejecuta de forma nativa en el reloj Wear OS. El reloj actúa simplemente como un centro de control para tareas que se ejecutan en el teléfono. Los usuarios deberían poder aprobar tareas o ver novedades de una que ya está en curso. Es algo similar a cómo aparece la mascota en el próximo wearable de Meta, el Muse Charm. Meta no ha aclarado si los usuarios podrán hacer pagos directamente desde el reloj."
+        }
+      ]
+    },
+    "gadgets/gadgets-apple-glasses-supplier": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.macrumors.com/t/9uJqMj4VFJjMbPcQi5cTqaPUB18=/2500x/article-new/2021/01/Apple-Glasses-Triad-Feature.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Las rumoreadas gafas inteligentes de Apple y unos AirPods con cámaras podrían haber sido mencionados por el proveedor chino de equipos de fabricación Quick Intelligent Equipment, según un informe de Securities Times sobre la reunión de resultados trimestrales de la empresa. La compañía afirmó haber participado en \"los proyectos de gafas con AI de Apple y de nuevos auriculares inteligentes\", lo que podría impulsar la demanda de sus equipos de inspección por visión artificial."
+        },
+        {
+          "t": "p",
+          "x": "Según se informa, Apple apunta a finales de 2027 para lanzar sus primeras gafas inteligentes, que ayudarían a responder preguntas sobre el entorno de quien las lleva y a traducir idiomas. Apple también estaría desarrollando unos AirPods con cámaras, que llegarían junto al iPhone del 20.º aniversario."
+        }
+      ]
+    },
+    "gadgets/samsung-eyewear-dec-launch": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/11/12152225/Samsung-Mobile-Intelligent-Eyewear-Launch-Gentle-Monster-Warby-Parker_main1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Samsung Electronics anunció hoy el próximo lanzamiento de la gama completa de gafas inteligentes. Con salida prevista en Estados Unidos (U.S.) y Corea del Sur el 10 de diciembre y reservas abiertas desde hoy, la colección combina la experiencia de Samsung en ingeniería móvil con 30 diseños distintivos de Gentle Monster y Warby Parker. Desarrolladas en colaboración con Google y con Gemini integrado, las gafas ayudan a los usuarios a entender el mundo que los rodea, comunicarse en distintos idiomas y mantenerse conectados."
+        },
+        {
+          "t": "img",
+          "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/11/12152250/Samsung-Mobile-Intelligent-Eyewear-Launch-Gentle-Monster-Warby-Parker_main2.jpg",
+          "cap": "Los seis diseños de montura de Gentle Monster Intelligent Eyewear en varias combinaciones de color"
+        },
+        {
+          "t": "img",
+          "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/11/12152327/Samsung-Mobile-Intelligent-Eyewear-Launch-Gentle-Monster-Warby-Parker_main3.jpg",
+          "cap": "Los tres diseños de montura de Warby Parker Intelligent Eyewear en versiones graduadas y de sol"
+        },
+        {
+          "t": "p",
+          "x": "Con un peso de unos 41 gramos, las gafas permiten preguntar a Gemini sobre lo que se ve, resumir una pizarra en Samsung Notes, traducir menús y recibir indicaciones paso a paso de Google Maps. Una cámara 12MP HDR aporta contexto visual a Gemini, y la Snapdragon AR1 Gen 1 Platform ofrece hasta nueve horas de batería, o hasta 72 horas con el estuche de carga. Un sistema de computación dividida traslada parte del procesamiento al teléfono Galaxy conectado."
+        },
+        {
+          "t": "p",
+          "x": "Ambas colecciones saldrán a la venta en Estados Unidos (U.S.) a partir del 10 de diciembre de 2026, y Gentle Monster Intelligent Eyewear también estará disponible en Corea. En Estados Unidos (U.S.), Warby Parker Intelligent Eyewear costará desde $395, mientras que Gentle Monster Intelligent Eyewear oscilará entre $449 y $489, según el modelo."
+        }
+      ]
     }
   }
 }

@@ -1,31 +1,7 @@
-{
-  "date": "2026-11-13",
-  "section": "science",
-  "media": [
-    {
-      "id": "science-m87-ml-reanalysis",
-      "type": "image",
-      "src": "pipeline/media/science-m87-ml-reanalysis.jpg"
-    },
-    {
-      "id": "wharton-chatgpt-ideation-study",
-      "type": "image",
-      "src": "pipeline/media/wharton-chatgpt-ideation-study.jpg"
-    },
-    {
-      "id": "harvard-ai-peer-review-blind",
-      "type": "image",
-      "src": "pipeline/media/harvard-ai-peer-review-blind.jpg"
-    },
-    {
-      "id": "mit-climate-emulator-unrealistic",
-      "type": "image",
-      "src": "pipeline/media/mit-climate-emulator-unrealistic.jpg"
-    },
-    {
-      "id": "qctrl-quantware-coldstart",
-      "type": "image",
-      "src": "pipeline/media/qctrl-quantware-coldstart.png"
-    }
-  ]
-}
+{"date":"2026-11-14","section":"science","media":[
+{"id":"nature-ai-mechanic-astra","type":"image","src":"pipeline/media/nature-ai-mechanic-astra.jpg"},
+{"id":"deepmind-pardig-satweave","type":"video","src":"pipeline/media/deepmind-pardig-satweave.mp4","poster":"pipeline/media/deepmind-pardig-satweave.jpg"},
+{"id":"codex-collider-amplitudes","type":"image","src":"pipeline/media/codex-collider-amplitudes.jpg"},
+{"id":"tohoku-mlp-copilot-aluminum","type":"image","src":"pipeline/media/tohoku-mlp-copilot-aluminum.jpg"},
+{"id":"concept2brain-eeg-sim","type":"image","src":"pipeline/media/concept2brain-eeg-sim.jpg"}
+]}

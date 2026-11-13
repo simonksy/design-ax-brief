@@ -10248,6 +10248,159 @@
           "x": "El modelo insignia sigue siendo de código cerrado y no tiene una API pública. ACE Studio y StepFun ya publicaron el modelo abierto ACE-Step 1.5, y “planeamos liberar ACE Music v1 Flash como código abierto a finales de 2026”, afirman los desarrolladores."
         }
       ]
+    },
+    "music/vocaloid7-editor-release": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://mmagimg.speedgabia.com/2026/11/img-1794535790699-7b915c66ecbc114b.webp",
+          "cap": "Imagen: Yamaha"
+        },
+        {
+          "t": "p",
+          "x": "Yamaha ha lanzado VOCALOID7 Editor, su software de síntesis de voz."
+        },
+        {
+          "t": "p",
+          "x": "VOCALOID7 Editor llega cuatro años después de VOCALOID6, lanzado en octubre de 2022. Funciona en macOS y Windows como aplicación independiente y en formatos VST3, AU y ARA2, y cuesta $129."
+        },
+        {
+          "t": "p",
+          "x": "Aplica la segunda generación de VOCALOID:AI para ofrecer voces más naturales y expresivas. También incluye la función Voice Type, que cambia las características vocales dentro de un mismo banco de voz para que el usuario elija la expresión que mejor encaje con la canción. Sin embargo, Voice Type solo funciona con bancos de voz creados exclusivamente para VOCALOID7."
+        },
+        {
+          "t": "video",
+          "yt": "GJ92CbivkEY"
+        },
+        {
+          "t": "p",
+          "x": "También se ha reforzado la integración con Cubase. Las notas y las letras pueden introducirse directamente en el Key Editor de Cubase. Perillas como Expression y Attack se manejan con controles dedicados en Cubase. Incluye una versión de Cubase AI y viene con el banco de voz predeterminado asa."
+        },
+        {
+          "t": "p",
+          "x": "Todos los bancos de voz desde VOCALOID3 hasta VOCALOID6 siguen siendo utilizables en VOCALOID7 Editor. La versión de actualización, para usuarios de VOCALOID3–6 o de la serie VOCALOID Editor for Cubase, cuesta normalmente $69 y está rebajada a $39 hasta el 20 de diciembre. También hay una prueba de 31 días."
+        },
+        {
+          "t": "p",
+          "x": "Quienes tengan un banco de voz pueden usar gratis VOCALOID7 Editor Lite, una versión con funciones limitadas, y Lite solo funciona en modo independiente."
+        }
+      ]
+    },
+    "music/mumuru-melon-ai-number1": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img2.yna.co.kr/etc/inner/KR/2026/11/13/AKR20261113157000005_01_i_P4.jpg",
+          "cap": "'꿈꾸던 어른이 되었나요?' de 머무르 [Cortesía de Melon. Prohibida la reventa y su inclusión en DB]"
+        },
+        {
+          "t": "p",
+          "x": "Una canción que utilizó inteligencia artificial (AI) en la composición y el canto alcanzó, por primera vez en la historia del K-pop, el n.º 1 de la lista 'Top 100' de Melon, la principal plataforma de música en streaming del país."
+        },
+        {
+          "t": "p",
+          "x": "Según la industria musical, el día 13 '꿈꾸던 어른이 되었나요?' de 머무르 llegó a lo más alto de la lista 'Top 100' de Melon a las 5 de la tarde, por delante de 'With', el nuevo sencillo de RESCENE. Lo logró unos 5 meses después de su lanzamiento en junio. Por edades, predominó la franja de los 30 años, con un 36%, seguida de la de los 40 (30%), la de los 20 (19%) y la de los 50 (11%)."
+        },
+        {
+          "t": "img",
+          "src": "https://img6.yna.co.kr/etc/inner/KR/2026/11/13/AKR20261113157000005_05_i_P4.jpg",
+          "cap": "Lista 'Top 100' de Melon a las 5 de la tarde del día 13 [Captura de Melon. Prohibida la reventa y su inclusión en DB]"
+        },
+        {
+          "t": "p",
+          "x": "La voz de la canción no es humana: se generó con Suno (SUNO), una AI de música generativa. 머무르 explicó que \"la voz de este álbum se generó mediante la tecnología Suno AI\" y que \"la planificación, la letra y la dirección general de la producción las llevó a cabo personalmente el artista 머무르\". Añadió: \"Para mí, la AI es un instrumento moderno y un compañero que me ayuda a hacer realidad lo que imagino\"."
+        },
+        {
+          "t": "p",
+          "x": "Así, una canción hecha con AI dejó atrás a estrellas del K-pop como RESCENE (2.º), A2O LIGHT (3.º) e ILLIT (5.º) para hacerse con el n.º 1."
+        },
+        {
+          "t": "p",
+          "x": "El crítico de música popular 정민재 señaló que \"la ola de la AI también era previsible en la música popular\" y que \"a músicos y compositores no les agradará que una canción hecha con AI llegue al n.º 1 de la lista, pero como creadores humanos no tendrán más remedio que esforzarse en crear música de mayor nivel\"."
+        }
+      ]
+    },
+    "music/bpi-getty-offshore-training": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/2026/11/Getty-v-Stablity---1-.png",
+          "cap": "Getty v Stability"
+        },
+        {
+          "t": "p",
+          "x": "La gran batalla legal británica sobre las obligaciones de copyright de las empresas de AI, entre Getty Images y Stability AI, volvió esta semana a los tribunales, con la intervención de la BPI, la asociación de la industria discográfica, en apoyo de la empresa de medios visuales."
+        },
+        {
+          "t": "p",
+          "x": "El caso, ahora en el Court Of Appeal (tribunal de apelación), gira en torno a si poner a disposición en UK un modelo de AI entrenado en US con contenido sin licencia constituye una infracción de copyright según la ley de UK. El año pasado, la High Court de Londres dictaminó que no, una sentencia que Getty está recurriendo."
+        },
+        {
+          "t": "p",
+          "x": "Según la BPI, esa interpretación de la ley, si no se impugna, sugiere que las empresas de AI pueden entrenar sus modelos \"offshore\" para evitar las normas de copyright de UK y aun así comercializarlos en el mercado de UK, lo que podría tener \"consecuencias significativas\" para la música y para el conjunto de las industrias creativas."
+        },
+        {
+          "t": "p",
+          "x": "La BPI también subrayó que futuras demandas podrían no depender de los mismos argumentos, y citó los litigios de GEMA en Alemania contra Open AI y Suno, en los que los tribunales dictaminaron que los modelos de AI sí contenían copias de obras debido a la 'memorisation' (memorización). Se espera una sentencia sobre la apelación de Getty hacia finales de este año o a principios de 2027."
+        }
+      ]
+    },
+    "music/radiomatic-venue-ai-music": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-25.png?fit=2000%2C1500&ssl=1",
+          "cap": "Captura de la demo de la página de inicio de Radiomatic"
+        },
+        {
+          "t": "p",
+          "x": "Últimamente hemos oído muchos testimonios de negocios, como cafés, bares y otros, que reproducen música AI-generated. Ahora llega una startup creada específicamente para ofrecer ese servicio."
+        },
+        {
+          "t": "p",
+          "x": "RadioMatic es obra de la empresa neerlandesa de music-tech SmartLabel y ofrece a los negocios emisoras de estilo radiofónico con música AI-generated, además de promociones, jingles e incluso noticias locales."
+        }
+      ]
+    },
+    "music/sonura-flow-text-loops": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://musictech.com/wp-content/uploads/2026/11/Sonura-Flow-hero@2000x1500-1068x801.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Sonura Flow es un nuevo plugin gratuito que permite a los productores generar sonidos nuevos –loops, one-shots y más– a partir de simples indicaciones de texto, sin salir siquiera de su DAW."
+        },
+        {
+          "t": "p",
+          "x": "Los usuarios pueden generar loops, voces, one-shots y efectos escribiendo una descripción del sonido que buscan y eligiendo una categoría como batería, bajo, melodía, pads o voces."
+        },
+        {
+          "t": "p",
+          "x": "También pueden fijar la duración del loop; el plugin genera varias variaciones para elegir antes de arrastrar el sonido preferido directamente a la línea de tiempo de la pista."
+        },
+        {
+          "t": "p",
+          "x": "El plan gratuito permite generar 10 loops, 20 one-shots y efectos, y hasta cuatro temas completos al día. No tiene límite de tiempo ni requiere tarjeta de pago, mientras que un plan de pago ofrece un límite de generación mayor."
+        },
+        {
+          "t": "video",
+          "yt": "hTa_ysLlG9M"
+        },
+        {
+          "t": "p",
+          "x": "Todos los sonidos creados con el plan gratuito pasan al dominio público bajo una licencia CC0, lo que permite a los productores usarlos en sus propios lanzamientos sin atribución ni restricciones de licencia, algo que responde a una preocupación habitual sobre los derechos del audio generado con AI (AI-generated)."
+        },
+        {
+          "t": "p",
+          "x": "Sonura Flow se instala junto con Sonura Kit, una caja de ritmos que crea kits y patrones con el mismo enfoque de indicaciones de texto. Los productores obtienen un generador de sonidos y una herramienta para crear beats en una sola instalación."
+        },
+        {
+          "t": "p",
+          "x": "Sonura Flow es compatible con macOS 12 o posterior en Macs con Apple Silicon e Intel, y con Windows 10 y 11 de 64-bit."
+        }
+      ]
     }
   }
 }

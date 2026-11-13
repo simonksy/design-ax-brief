@@ -11080,6 +11080,137 @@
           "x": "4K output and 10-bit color. Frame count matches your source exactly, and aspect ratio never changes. SwitchX 3.0 is available in the Beeble cloud app: as a node in the canvas, or on the standalone SwitchX page."
         }
       ]
+    },
+    "movies/screenburn-writers-room": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/1/5/6/1492156_screenshot20261112at14.50.31_498419.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Scripted entertainment specialist Screenburn Group has launched AI software The Writers Room, which uses genAI to write full series of microdramas. It takes a writer’s plan for a story and writes all 80 episodes of a microdrama season in a few hours — around 29,000 words of screenplay."
+        },
+        {
+          "t": "p",
+          "x": "The writer provides the title, a one-line summary, the characters, and answers to a set of questions about them. The Writers Room writes to a set of rules for how a season opens, turns and ends, drawn from data about more than 100,000 vertical series."
+        },
+        {
+          "t": "p",
+          "x": "A Retention Engine then scores every episode out of 100 on how episode one opens, how each episode ends, how often each episode tells the viewer something new, and how tension builds; 80 or above earns the Screenburn Certified mark. More than 20 seasons written this way are on sale now; the highest score is 97."
+        },
+        {
+          "t": "p",
+          "x": "The Writers Room costs US$1,350 a month on a 12-month contract, including one season a month. “Nobody could write the show in a couple hours,” said founder and CEO Dr Charles Kriel. “A writer plans a story in an afternoon and has their full season, scored, before anyone spends a dollar making it.”"
+        }
+      ]
+    },
+    "movies/zhao-liying-hongguo-lawsuit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.globaltimes.cn/Portals/0/attachment/2026/2026-11-12/085e211b-5d72-44f7-ae9e-b0b47769c971.jpeg",
+          "cap": "Chinese actress Zhao Liying Photo: VCG"
+        },
+        {
+          "t": "p",
+          "x": "Chinese actress Zhao Liying has reportedly sued the operator of popular short-drama platform Hongguo Short Drama and its parent company Douyin over the alleged unauthorized use of her likeness, bringing renewed attention to AI-generated content using celebrities' faces and voices without their consent."
+        },
+        {
+          "t": "p",
+          "x": "The case, scheduled at the Mentougou District People's Court in Beijing, lists Zhao as plaintiff and Beijing Douyin Information Service Co Ltd, Beijing Bimo Liuxiang Technology and an individual surnamed Shi as defendants. Weibo users have posted clips from AI-generated short dramas on Hongguo featuring characters whose faces resemble Zhao, and AI voices that sound similar to hers."
+        },
+        {
+          "t": "p",
+          "x": "Actors including Yi Yangqianxi, Yang Zi, Xiao Zhan, Deng Wei and Cheng Yi have also been embroiled in similar disputes. Lawyer Li Yunkai said AI images need not be exact replicas to infringe; the key question is whether the public can identify the person."
+        },
+        {
+          "t": "p",
+          "x": "The National Radio and Television Administration has launched a two-month campaign, from November 1 to the end of December, targeting \"face theft\" and \"voice theft\" and regulating AI-generated short-drama production."
+        }
+      ]
+    },
+    "movies/manchester-animation-ai-policy": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/Manchester-Animation-Festival-2026-winners.png",
+          "cap": "Top prizes at Manchester Animation Festival 2026 went to 'In Waves' (top), 'When the Sea Was Calm' (left) and 'A Little Death'."
+        },
+        {
+          "t": "p",
+          "x": "Manchester Animation Festival (MAF), the U.K.’s only Oscar and BAFTA‑qualifying animation festival, has revealed the winners of its 2026 Film Competition, Industry Excellence Awards and MAFter Dark program."
+        },
+        {
+          "t": "p",
+          "x": "In a landmark move for the animation sector, MAF has also announced that films created using generative AI will no longer be accepted for submission from 2027 onwards. The new policy reflects the Festival’s commitment to celebrating human creativity and safeguarding the artistic skills that sit at the heart of animation."
+        },
+        {
+          "t": "p",
+          "x": "“As we open our call for entries for MAF 2027 we wanted to stand by the creatives that make animation the incredible, human artform that it is,” said Festival Director Steve Henderson. “Our new Gen AI policy puts artists first.”"
+        },
+        {
+          "t": "p",
+          "x": "The Feature Film Award went to In Waves, directed by Phuong Mai Nguyen; the Short Film Award to When the Sea Was Calm (Georgia), directed by Mamuka Tkeshelashvili; and the Best British Short Award to A Little Death, directed by Leto Meade and Jonathan Rockefeller. The festival ran November 8-12 with almost 12,000 admissions."
+        }
+      ]
+    },
+    "movies/seedance-25-flash-bytedance": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cms-image.pandaily.com/1/seedance_96adab67c5.png",
+          "cap": "AI-generated conceptual illustration, not a photograph of the announced product, site or event."
+        },
+        {
+          "t": "p",
+          "x": "ByteDance's cloud unit Volcano Engine released Seedance 2.5 Flash on November 12, a lighter version of its Seedance 2.5 video generation model. The company says it generates video twice as fast as Seedance 2.5 at a lower price."
+        },
+        {
+          "t": "p",
+          "x": "For text-to-video and image-to-video at 720p, Volcano Engine puts the price at about 0.99 yuan per second of generated video, roughly 34% below Seedance 2.5. The flash model generates clips of up to 30 seconds, takes up to 10 images, five video clips and five audio clips as references, and outputs 480p or 720p."
+        },
+        {
+          "t": "p",
+          "x": "The flagship Seedance 2.5 remains the choice for 1080p and 4K production; the flash model is pitched at high-frequency creation and batch content production. Quality claims come from the company, which published no benchmark results."
+        },
+        {
+          "t": "p",
+          "x": "Seedance 2.5 Flash is rolling out on Jimeng and third-party tools including LibTV, Updream, Creao AI and TapNow. API access is scheduled to open on Volcano Ark on November 15."
+        }
+      ]
+    },
+    "movies/firefly-build-story-assemble": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.redsharknews.com/hubfs/adobe%20firefly%20video%20editor.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Adobe has added two beta workspaces to Firefly at MAX 2026 that between them cover the journey from idea to short video. Build a story, found under Video in the Firefly menu, turns a prompt into a structured visual story. Assemble short video then offers a simplified, single-track workspace for arranging the clips."
+        },
+        {
+          "t": "video",
+          "src": "https://images-tv.adobe.com/mpcv3/14067/3507880/202d88d5-1a16-4a96-82e9-e2705e0a963b/f0f56478-3475-461d-a2e2-30359e9a5ca7_1793918460.854x480at800_h264.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Users describe an idea to the Firefly AI Assistant, which asks for a target duration and optional details on characters, locations, objects, and creative direction. It then proposes a look, a sound approach, the number of scenes and shots, and the characters, locations, and objects involved, saving them as elements to keep them consistent across shots, writing a beat description for each shot and generating a first frame. Shots appear as cards grouped by scene; clips can be generated card by card or with Generate all, then downloaded or opened in Timeline (beta). Resolution and aspect ratio can’t be changed once frames are generated."
+        },
+        {
+          "t": "img",
+          "src": "https://www.redsharknews.com/hs-fs/hubfs/adobe%20firefly%20video%20editor%20quick%20actions.jpg?width=1920&height=1080&name=adobe%20firefly%20video%20editor%20quick%20actions.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Assemble short video is a lightweight workspace for generated or imported clips on a single track. Users can trim, split, and rearrange clips, adjust volume, detect cuts, and change the aspect ratio. Selected clips can be regenerated from a text prompt, with a cost indicator showing the generative credits required; regenerated versions appear as takes to compare."
+        },
+        {
+          "t": "p",
+          "x": "Both tools are in beta and not available to Creative Cloud for Teams or Enterprise users. Build a story works only in Chrome and Edge on desktop and takes clips only from Adobe cloud storage’s generation history, not direct uploads."
+        }
+      ]
     }
   }
 }

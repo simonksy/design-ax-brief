@@ -12038,6 +12038,141 @@
           "x": "Bytedanceは、Seedream 5.5がテキスト構造とリアリズムでGPT Image 2.5 Sunburstなどのモデルを上回ると主張する。モデルはJimeng、Doubao、Doubao Work、Volcengine Arkで順次提供されている。Pro版も予定されている。"
         }
       ]
+    },
+    "design/keyshot-studio-20263-agent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.keyshot.com/wp-content/uploads/2026/11/KS_2026-3_NEW-HEADER.jpg"
+        },
+        {
+          "t": "p",
+          "x": "セットアップを減らし、レンダリングを増やす。それがKeyShot Studio 2026.3のテーマだ。今回のリリースはStudioの中にAI Agentを直接組み込み、全ユーザーに個人用クラウドストレージを提供し、製品バリエーションの作成と整理を格段に容易にする。"
+        },
+        {
+          "t": "video",
+          "yt": "SD55TezMaKQ"
+        },
+        {
+          "t": "p",
+          "x": "新しいAI AgentはKeyShot Studioの中に直接組み込まれている。求めるルックを普段の言葉で伝えれば、マテリアル、ライティング、カメラ、環境を代わりに調整する。AgentはStudioのツールの大半を使えるため、ユーザーがデザインに集中する間にセットアップを引き受ける。AI Agentはクラウドベースで、KeyShotクレジットを消費する。"
+        },
+        {
+          "t": "p",
+          "x": "Personal Cloud Storageにより、すべてのKeyShotユーザーが専用のクラウド領域を持ち、KeyShotを持たないレビュアーもKeyShot Explorer（現在ベータ版）で共有シーンを閲覧できる。KeyShot Studio EnterpriseにはカスタムSSOとMFAの強制が加わった。Part Variationsは形状のバリエーションをマテリアルと同じくらい簡単にし、Studio Groupsはスタジオをフォルダーで整理する。CADインポーターとプラグインも更新された。"
+        }
+      ]
+    },
+    "design/google-a2ui-v1-stable": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "現在のエージェントとのやり取りは、ターミナル時代のコンピューターと同じ段階にある。能力はあるが、ほぼすべてをテキストで返す。Googleは、生成UI向けオープンプロトコルの初の安定版となるA2UI 1.0をリリースする。これによりAIエージェントは、確認用フォームやチャートといったインタラクティブな画面で応答できる。"
+        },
+        {
+          "t": "video",
+          "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/original_videos/A2UI_1.0_sick_day_three_ways_2.mp4"
+        },
+        {
+          "t": "p",
+          "x": "A2UIでは、エージェントが何を表示するかを記述し、各アプリが独自のネイティブコンポーネントでUIを描画する。エージェントが使うのはユーザーのデザインシステムだけだ。開発者は、Web、Android、iOS向けのオープンソースのレンダラーSDKsと、Python、TypeScript、Dart向けのエージェントSDKsで今すぐ利用できる。バージョン1.0では双方向の関数呼び出しに加え、アクセシビリティと拡張機能のサポートが追加された。"
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/06_atlassian_jira.original.png",
+          "cap": "Jiraの作業項目内で、エージェントがチームにフォローアップを依頼する。"
+        },
+        {
+          "t": "p",
+          "x": "Atlassian、Alation、Bloomberg、ByteDanceなどの企業がすでにこれを使って開発を進めている。AtlassianはA2UIをJiraに導入し、AlationのフィードはA2UIを使ってClaude内で表示される。"
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/07_alation.original.png",
+          "cap": "Claude（左）とAlationのData Products App（右）で表示された同じAlationフィード。"
+        },
+        {
+          "t": "p",
+          "x": "Google社内では、Gemini NotebookがA2UIカードを使ってスライド資料を作成し、Geminiは各組織独自のエージェントからのA2UI応答を表示する。1.0向けのJetpack Composeサポートも近く提供される。"
+        }
+      ]
+    },
+    "design/hf-trellis2-lora-guide": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/3d-lora-finetuning/sole_orbit_base_vs_lora.gif"
+        },
+        {
+          "t": "p",
+          "x": "Hugging Faceは、人気の3D モデルでimage-to-3D モデルでもあるTRELLIS.2を自分の3D アセットでLoRA-fine-tuneするためのfine-tuning用スクリプトとコンテナを提供している。ローカルでもHugging Face Jobsでも実行できる。"
+        },
+        {
+          "t": "p",
+          "x": "汎用(general-purpose)モデルは、特定の用途で重要な細部を誤ることがある。チームはGoogle Scanned Objectsのうち履物188点からなるサブセットを使った。事前学習済みモデルはたいてい正しく見える靴を生成したが、靴底は誤っていた。"
+        },
+        {
+          "t": "img",
+          "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/3d-lora-finetuning/pipeline_lr.png",
+          "cap": "TRELLIS.2のパイプライン"
+        },
+        {
+          "t": "p",
+          "x": "LoRAアダプターは、物体の形状とジオメトリを制御するsparse-structure flow DiTとshape flow DiTにのみ追加し、texture flow DiTは凍結する。この構成で学習するアダプターのパラメータは合計で約9.3 million 個である。"
+        },
+        {
+          "t": "img",
+          "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/3d-lora-finetuning/heldout_meshes.png"
+        },
+        {
+          "t": "p",
+          "x": "九つのheld-out物体で、ベースモデルの平均F-scoreは0.276、履物アダプターを加えたモデルは0.803だった。Chamfer distanceは0.174から0.033に下がり、normal consistencyは0.530から0.804に上がった。"
+        }
+      ]
+    },
+    "design/google-labs-tabletop-canvas": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "8upa4JZir3I"
+        },
+        {
+          "t": "p",
+          "x": "家族旅行の計画でも、レクリエーションリーグの運営でも、持ち寄りパーティーの主催でも、全員が一つの場所で手を貸し、作り、一緒に決められれば、グループでの調整は楽になる。"
+        },
+        {
+          "t": "p",
+          "x": "本日、リアルタイムのコラボレーション向けに作られたGoogle Labsの新しい実験、Tabletopを紹介する。"
+        },
+        {
+          "t": "p",
+          "x": "リンクやファイル、アイデアを追加して@tabletopにプロンプトを送るか、スターターテンプレートを選ぶだけで、カスタムのインタラクティブな旅程表、夕食の投票、費用の割り勘ツール、トーナメント表を生成できる。スペースの準備ができたら、招待リンクをグループチャットに貼れば、Google Docのように全員が同時に参加して使える。"
+        },
+        {
+          "t": "p",
+          "x": "Tabletopは順番待ちリストを通じてU.S.（18+）で提供が始まっている。椅子を引き寄せて、labs.google/tabletopで登録しよう。"
+        }
+      ]
+    },
+    "design/framer-agent-shaders": {
+      "blocks": [
+        {
+          "t": "video",
+          "src": "https://framerusercontent.com/assets/Iw5LhjPbn3iGV8Pg34gm34pSKmQ.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Framerに画像生成とシェーダー生成が加わった。サイトに合わせたカスタム画像やテクスチャ、イラストをAgentに頼めばよい。チャットに画像をドロップするか、キャンバス上の画像を選択し、被写体の差し替えや背景の削除、スタイルの変更をAgentに指示することもできる。"
+        },
+        {
+          "t": "p",
+          "x": "シェーダーも同じ仕組みだ。ハーフトーン、ボケブラー、CRT、鉛筆効果といったシェーダーをAgentに頼むか、「ポインターのドラッグで画像をにじませる」のように、オンラインで見かけた特定の効果を説明すればよい。キャンバス上にある既存のFramerシェーダーを調整することもできる。"
+        },
+        {
+          "t": "p",
+          "x": "画像生成とシェーダー生成は組み合わせても使える。Agentは画像を生成し、それを画像シェーダーの入力に設定できる。たとえば、マウスを動かすとインクがにじむペン画に変えるシェーダーである。"
+        }
+      ]
     }
   }
 }

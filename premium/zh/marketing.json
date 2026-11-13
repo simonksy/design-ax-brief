@@ -4540,6 +4540,133 @@
           "x": "AppsFlyer的VP Product Inna Weiner表示：“营销团队正从手动编排广告活动转向由智能体执行。”公司未公布定价、客户成效或正式上线日期。"
         }
       ]
+    },
+    "marketing/iab-ai-attribution-blueprint": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.iab.com/wp-content/uploads/2026/11/the-ai-era-attribution-blueprint-2-1024x312.png"
+        },
+        {
+          "t": "p",
+          "x": "2026年11月12日，Interactive Advertising Bureau（IAB）发布新框架AI-Era Attribution Blueprint，为行业提供一套统一方法，用以界定AI在转化中的作用，并评估哪些参与方可以为此主张功劳。根据IAB的2026 Outlook Study: September Update，广告买家将比较AI-driven客户旅程与传统客户旅程列为首要衡量难题（45%），另有44%依靠品牌搜索和直接流量，作为无法追踪的AI影响的替代指标。"
+        },
+        {
+          "t": "p",
+          "x": "IAB AI副总裁（VP）Caroline Giegerich表示：“AI-influenced销售有时会被计为搜索或直接流量，这可能让下一笔营销投资流向错误的渠道。”"
+        },
+        {
+          "t": "p",
+          "x": "该Blueprint会追问：是谁或什么产生了意图、做出了决定并完成了购买，然后将每次转化归为Human-Owned、AI-Assisted或AI-Executed。这一路径决定哪些参与方（如有）有资格提出决策主张或贡献主张，以及每项主张需要哪些证据。主张并不等于功劳，而是获得功劳评估的资格。"
+        },
+        {
+          "t": "p",
+          "x": "所需证据大多未被采集，或存在于AI平台内部。IAB呼吁品牌估算各路径的转化占比；AI平台披露推荐是付费还是自然结果，并对AI-originated流量进行一致标注；代理商采用统一的主张与证据标准；发布商识别其内容所产生的贡献主张。"
+        }
+      ]
+    },
+    "marketing/schibsted-nodals-ad-algorithms": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.adexchanger.com/wp-content/uploads/2024/10/revenue-sharing-publishers-sundar-pichai-mark-zuckerberg-comic-1024x941.png"
+        },
+        {
+          "t": "p",
+          "x": "Schibsted Marketing Services广告数据能力总监Christer Ljones对AdExchanger表示，Schibsted正与London-based公司Nodals AI合作，以争取那些被Meta自家优化工具吸引的品牌。Nodals AI为欧洲（Europe）和美国（US）的发布商打造定制广告优化算法。"
+        },
+        {
+          "t": "p",
+          "x": "围墙花园凭借Meta的Advantage+等AI-powered广告活动优化功能赢得了广告主，开放网络发布商一直难以跟上。Nodals创始人兼CEO Aly Nurmohamed表示：“广告主已被Meta训练得只关心‘我投进去多少钱，能看到多少钱回来’。”"
+        },
+        {
+          "t": "p",
+          "x": "Nodals将发布商的第一方数据——登录数据、滚动深度、读者点击内容或广告的频率——输入模型，预测哪些人可能为特定广告主点击并购买。Schibsted去年夏天首次测试这项技术，目前正在打造一条内置AI优化的直销原生广告新产品线，按每次点击成本而非CPM计价。"
+        },
+        {
+          "t": "p",
+          "x": "Ljones说：“把你在Meta上花费的10%拿出来，你大概能保住大部分转化，还能[从我们这里]得到更多。”“我们还处于早期阶段，但已看到正确的结果。”"
+        }
+      ]
+    },
+    "marketing/buzzvil-prism-ad-engine": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.byline.network/wp-content/uploads/2026/11/buzzvil_20261113.jpg",
+          "cap": "Buzzvil推出可为每位用户自动制作广告素材的AI引擎“Prism”（来源=Buzzvil）"
+        },
+        {
+          "t": "p",
+          "x": "Buzzvil推出一款人工智能（AI）广告引擎，可根据用户的兴趣和购买阶段展示不同广告。其特点是，即使在同一品牌的同一广告活动中，也能为每位用户分别配置商品推荐、广告信息和参与方式。Buzzvil于13日宣布推出超个性化互动广告引擎“Prism”，并从本月起面向有意向的广告主提供。"
+        },
+        {
+          "t": "p",
+          "x": "其核心技术是自主研发的AI内容制作系统“Composer”。Composer分析用户感兴趣的商品和情境，找出合适的广告信息，并利用大语言模型（LLM）生成对话式推荐、烦恼诊断等参与型广告素材。"
+        },
+        {
+          "t": "p",
+          "x": "广告主只需提供品牌图片和商品信息，无需另行制作，就能在一个广告活动中生成1000个以上的个性化素材。生成的素材须经过违禁词与事实核查、AI质量审核，达到标准后才会投放。Prism还会分析用户反应，增加高效组合的曝光。"
+        },
+        {
+          "t": "p",
+          "x": "在Buzzvil与美妆品牌开展的互动广告活动中，使用商品评论的广告素材点击后购买转化率比原有目录式素材高3倍，加购转化率高7倍，从点击广告到购买所用时间的中位数缩短57%。"
+        },
+        {
+          "t": "p",
+          "x": "Buzzvil代表Lee Kwan-woo表示：“我们将把广告从单向信息，转变为与每一位用户互动交流的体验。”"
+        }
+      ]
+    },
+    "marketing/ppcland-agent-traffic-meta-openai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/11/human-security-agentic-traffic-october-2026-meta-openai-89-percent-muse-59-percent-two-storefronts-stream.jpg",
+          "cap": "HUMAN发现，10月AI智能体请求中89%来自Meta和OpenAI，仅Muse就占59%"
+        },
+        {
+          "t": "p",
+          "x": "根据HUMAN Security于2026年11月9日发布的State of Agentic Traffic基准报告2026年10月版，在HUMAN保护的网站上，Meta和OpenAI占当月智能体请求的89%，其中仅Meta的Muse就占59%。10月智能体流量总量是9月的2.6倍，约为8月的八倍。"
+        },
+        {
+          "t": "p",
+          "x": "Meta于2026年9月8日推出Muse，作为US-only的个人智能体。OpenAI以三款跻身前十的产品位居第二——ChatGPT Agent（15.9%）、Codex Browser（8.8%）和Codex Chrome扩展（5.2%）——合计约30%。Anthropic的Claude Chrome扩展从7%减半至3.5%。"
+        },
+        {
+          "t": "p",
+          "x": "Perplexity的Comet在8月以41%的份额领跑智能体流量，10月则跌至3.6%。报告称：“随着消费者转向其已在使用的平台内置的智能体，独立的消费级智能体浏览器正在式微。”"
+        },
+        {
+          "t": "p",
+          "x": "智能体仍以调研为主：HUMAN称，85%的请求流向商品和搜索页面，1.9%到达结账和支付环节，不过结账量环比增长117%。报告称：“智能体浏览远多于购买，但到达结账环节的智能体请求数量正在快速上升。”HUMAN的11月版将展示智能体在Black Friday和Cyber Monday期间的表现。"
+        }
+      ]
+    },
+    "marketing/google-ads-editor-aimax-default": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/size/w2000/2026/11/google-ads-editor-2-14-ai-max-default-new-search-campaigns-prepunched-punch-cards-inspector.jpg",
+          "cap": "Google Ads Editor 2.14让每个新建的Search广告系列都开启AI Max和Final URL expansion"
+        },
+        {
+          "t": "p",
+          "x": "Google发布了Google Ads Editor 2.14版，这是一款用于批量处理广告系列的免费桌面应用。据版本说明，“新建Search广告系列时，AI Max、文本素材自动化和Final URL expansion现已默认启用。”说明未注明发布日期；Search Engine Roundtable于2026年11月12日报道了这一版本，并统计出10项新功能。"
+        },
+        {
+          "t": "p",
+          "x": "AI Max整合了搜索字词匹配、文本自定义和Final URL expansion。文本自定义会根据着陆页、现有广告和关键字撰写标题与描述，Final URL expansion则可能把用户引向同一域名下的其他页面。没有文本自定义就无法使用Final URL expansion，而启用后，固定的标题不会被遵守。"
+        },
+        {
+          "t": "p",
+          "x": "2026年9月，Google将旧的广泛匹配广告系列和自动生成素材广告系列迁移到AI Max时，两组都关闭了Final URL expansion。在Editor 2.14中，新建的Search广告系列则默认开启该功能。"
+        },
+        {
+          "t": "p",
+          "x": "此次版本还让Editor可以编辑账号级的新客户获取与留存设置，新增了渠道优先级和预算上限，并移除了在Shopping广告系列中关闭本地商品目录广告的选项。"
+        }
+      ]
     }
   }
 }

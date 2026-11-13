@@ -1,7 +1,31 @@
-{"date":"2026-11-13","section":"politics","media":[
-{"id":"advocacy-suit-halt-ai-labs","type":"image","src":"pipeline/media/advocacy-suit-halt-ai-labs.jpg"},
-{"id":"uk-norway-ai-intent-statement","type":"image","src":"pipeline/media/uk-norway-ai-intent-statement.png"},
-{"id":"bis-ai-chip-sea-license-rule","type":"image","src":"pipeline/media/bis-ai-chip-sea-license-rule.jpg"},
-{"id":"eu-ombudsman-snabe-ai-envoy","type":"image","src":"pipeline/media/eu-ombudsman-snabe-ai-envoy.jpg"},
-{"id":"taiwan-cib-election-deepfakes","type":"image","src":"pipeline/media/taiwan-cib-election-deepfakes.jpg"}
-]}
+{
+ "date": "2026-11-14",
+ "section": "politics",
+ "media": [
+  {
+   "id": "politics-ama-ai-liability",
+   "type": "image",
+   "src": "pipeline/media/politics-ama-ai-liability.jpg"
+  },
+  {
+   "id": "politics-openai-ontario-appeal",
+   "type": "image",
+   "src": "pipeline/media/politics-openai-ontario-appeal.jpg"
+  },
+  {
+   "id": "politics-indonesia-copyright-bill",
+   "type": "image",
+   "src": "pipeline/media/politics-indonesia-copyright-bill.jpg"
+  },
+  {
+   "id": "politics-malaysia-megaspeed-probe",
+   "type": "image",
+   "src": "pipeline/media/politics-malaysia-megaspeed-probe.jpg"
+  },
+  {
+   "id": "politics-whitehall-ai-applications",
+   "type": "image",
+   "src": "pipeline/media/politics-whitehall-ai-applications.jpg"
+  }
+ ]
+}

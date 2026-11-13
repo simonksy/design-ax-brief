@@ -11911,6 +11911,141 @@
           "x": "Bytedance claims Seedream 5.5 leads models like GPT Image 2.5 Sunburst in text structure and realism. The model is gradually rolling out via Jimeng, Doubao, Doubao Work, and Volcengine Ark. A Pro version is planned."
         }
       ]
+    },
+    "design/keyshot-studio-20263-agent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.keyshot.com/wp-content/uploads/2026/11/KS_2026-3_NEW-HEADER.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Less setup, more rendering: that's the theme of KeyShot Studio 2026.3. This release puts an AI Agent right inside Studio, gives every user personal cloud storage, and makes it far easier to build and organize product variations."
+        },
+        {
+          "t": "video",
+          "yt": "SD55TezMaKQ"
+        },
+        {
+          "t": "p",
+          "x": "The new AI Agent lives right inside KeyShot Studio. Tell it in plain language what look you're after, and it can adjust materials, lighting, cameras and environments for you. The Agent can use most of the tools Studio offers, so it handles the setup while you focus on the design. The AI Agent is cloud-based and uses KeyShot credits."
+        },
+        {
+          "t": "p",
+          "x": "With Personal Cloud Storage, every KeyShot user gets their own cloud space, and reviewers without KeyShot can view shared scenes in KeyShot Explorer (now in beta). KeyShot Studio Enterprise adds custom SSO and enforced MFA. Part Variations make geometric variations as easy as material ones, and Studio Groups organize studios into folders. The release also updates CAD importers and plugins."
+        }
+      ]
+    },
+    "design/google-a2ui-v1-stable": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "User interactions with agents today are where computers were in the terminal era: capable, and answering almost everything in text. Google is releasing A2UI 1.0, the first stable version of its open protocol for generative UI. It lets AI agents answer with interactive screens, such as a form to confirm or a chart."
+        },
+        {
+          "t": "video",
+          "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/original_videos/A2UI_1.0_sick_day_three_ways_2.mp4"
+        },
+        {
+          "t": "p",
+          "x": "With A2UI, the agent describes what to show, and every app draws the UI with its own native components. Agents use your design system and nothing else. Developers can use it now with open-source renderer SDKs for the web, Android, and iOS and agent SDKs for Python, TypeScript, and Dart. Version 1.0 adds bidirectional function calls, plus support for accessibility and extensions."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/06_atlassian_jira.original.png",
+          "cap": "An agent asks the team for a follow-up inside a Jira work item."
+        },
+        {
+          "t": "p",
+          "x": "Companies such as Atlassian, Alation, Bloomberg, and ByteDance are already building with it. Atlassian is bringing A2UI to Jira, and the Alation feed renders in Claude using A2UI."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/07_alation.original.png",
+          "cap": "The same Alation feed rendered in Claude (left) and in Alation's Data Products App (right)."
+        },
+        {
+          "t": "p",
+          "x": "Inside Google, Gemini Notebook uses A2UI cards to set up slide decks, and Gemini renders A2UI responses from organizations' own agents. Jetpack Compose support for 1.0 is coming soon."
+        }
+      ]
+    },
+    "design/hf-trellis2-lora-guide": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/3d-lora-finetuning/sole_orbit_base_vs_lora.gif"
+        },
+        {
+          "t": "p",
+          "x": "Hugging Face provides fine-tuning scripts and containers to fine-tune TRELLIS.2, a popular 3D model, on your 3D assets, that can run both locally and on Hugging Face Jobs."
+        },
+        {
+          "t": "p",
+          "x": "A general-purpose model can make errors in details that are important for a specific application. The team used a subset of Google Scanned Objects with 188 footwear objects: the pretrained model usually produced shoes that looked correct, but the soles were incorrect."
+        },
+        {
+          "t": "img",
+          "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/3d-lora-finetuning/pipeline_lr.png",
+          "cap": "TRELLIS.2 pipeline"
+        },
+        {
+          "t": "p",
+          "x": "LoRA adapters are added only to the sparse-structure flow DiT and the shape flow DiT, which control the object's shape and geometry; the texture flow DiT is frozen. The configuration trains approximately 9.3 million adapter parameters in total."
+        },
+        {
+          "t": "img",
+          "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/3d-lora-finetuning/heldout_meshes.png"
+        },
+        {
+          "t": "p",
+          "x": "On nine held-out objects, the base model has a mean F-score of 0.276, compared with 0.803 for the model with the footwear adapters. Chamfer distance falls from 0.174 to 0.033, and normal consistency rises from 0.530 to 0.804."
+        }
+      ]
+    },
+    "design/google-labs-tabletop-canvas": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "8upa4JZir3I"
+        },
+        {
+          "t": "p",
+          "x": "Whether you’re planning a family trip, running a rec league or hosting a potluck, coordinating as a group is easier when everyone can pitch in, build and decide together in one place."
+        },
+        {
+          "t": "p",
+          "x": "Today, we’re introducing Tabletop, a new Google Labs experiment built for real-time collaboration."
+        },
+        {
+          "t": "p",
+          "x": "Just add in your links, files, and ideas, then prompt @tabletop — or pick a starter template — to generate custom interactive trip itineraries, dinner polls, expense splitters, and tournament brackets. Once your space is ready, drop the invite link in your group chat to let everyone jump in and use it at the same time, like in a Google Doc."
+        },
+        {
+          "t": "p",
+          "x": "Tabletop is rolling out in the U.S. (18+) via waitlist. Pull up a chair and sign up at labs.google/tabletop."
+        }
+      ]
+    },
+    "design/framer-agent-shaders": {
+      "blocks": [
+        {
+          "t": "video",
+          "src": "https://framerusercontent.com/assets/Iw5LhjPbn3iGV8Pg34gm34pSKmQ.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Introducing image generation and generated shaders in Framer. Ask the Agent for a custom image, texture, or illustration that fits your site. You can also drop an image into the chat or select one on the canvas, then ask the Agent to swap the subject, remove the background, or restyle it."
+        },
+        {
+          "t": "p",
+          "x": "Shaders work the same way. Ask the Agent for a shader, like a halftone, bokeh blur, CRT, pencil effect, or describe a specific effect you saw online, like “smudge an image on pointer drag.” It can also tweak a Framer shader that’s already on your canvas."
+        },
+        {
+          "t": "p",
+          "x": "Image and Shader generation work together too. The Agent can generate an image and set it as the input of an image shader, for example one that turns it into a pen drawing with an ink smudge on mouse move."
+        }
+      ]
     }
   }
 }

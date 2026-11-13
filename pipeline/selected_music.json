@@ -1,96 +1,101 @@
 {
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "section": "music",
   "items": [
     {
-      "url": "https://musictech.com/news/gear/sonura-flow/",
-      "source": "MusicTech",
-      "title": "This new plugin lets you generate loops and one-shots from text prompts (Sonura Flow)",
       "tool": "Music",
       "accent": "#ff2d55",
       "motif": "sphere",
-      "rationale": "Free in-DAW text-to-sample plugin (drums/bass/melody/pads/vocals); a new product, not the Waves ILLUGEN release, and producers can install it today.",
-      "published_iso": "2026-11-12T17:26:53+00:00",
-      "og_image": "https://musictech.com/wp-content/uploads/2026/11/Sonura-Flow-hero@2000x1500-1068x801.jpg",
-      "excerpt": "Sonura Flow is a free plugin that generates loops, vocals, one-shots and effects from text prompts inside the DAW, with category selection for drums, bass, melody, pads or vocals."
+      "category": "music",
+      "title": "Suno Bridge: Your DAW, Suno-powered",
+      "url": "https://suno.com/blog/introducing-bridge",
+      "source": "Suno",
+      "published_iso": "2026-11-13T14:00:00Z",
+      "og_image": "https://cdn.sanity.io/images/cl7b1q1i/production/82b39b7eda6ba746df9166d864ce48cddb76843f-1920x1080.jpg?rect=0,36,1920,1008&w=1200&h=630&fit=crop&auto=format",
+      "excerpt": "Suno launched Bridge, a standalone Mac app in beta that syncs with Ableton Live 12 and generates new instrument and vocal parts that follow the session's tempo, key, chords and groove, dropping them straight onto the timeline within the loop markers.",
+      "rationale": "Primary-source launch that puts Suno generation inside an Ableton session (tempo/key/chord-aware parts on the timeline) — directly changes a producer's workflow tomorrow."
     },
     {
-      "url": "https://stability.ai/guides/whats-new-in-stable-audio-november-2026-release-notes",
-      "source": "Stability AI",
-      "title": "What's new in Stable Audio: November 2026 release notes",
       "tool": "Music",
       "accent": "#0070f3",
       "motif": "sphere",
-      "rationale": "Primary-source release notes: Stable Audio gains a project workspace, Generate and Sampler apps and multitrack Sessions updates, which changes how the tool gets used.",
-      "published_iso": "2026-11-04T14:58:48+00:00",
-      "og_image": null,
-      "excerpt": "Stable Audio adds a project workspace, a Generate app for full tracks and sound effects, a Sampler app for short sample packs, and updates to the beta multitrack Sessions editor."
+      "category": "music",
+      "title": "Yamaha Releases VOCALOID7 Voice Synthesis Software, With Stronger Cubase Integration",
+      "url": "https://mixing.co.kr/en/44521",
+      "source": "월간 믹싱",
+      "published_iso": "2026-11-13T11:35:45+09:00",
+      "og_image": "https://mmagimg.speedgabia.com/2026/11/img-1794535790699-7b915c66ecbc114b.webp",
+      "excerpt": "Yamaha released VOCALOID7 Editor ($129; standalone, VST3/AU/ARA2), running second-generation VOCALOID:AI for more natural vocals, adding a Voice Type control and lyric entry directly in Cubase's Key Editor.",
+      "rationale": "The October announcement is now a shipping product with price, formats and Cubase Key Editor lyric entry — an actionable release, not a rehash."
     },
     {
-      "url": "https://elevenlabs.io/blog/impact-nyc-summit",
-      "source": "ElevenLabs",
-      "title": "ElevenLabs brings free voice restoration to veterans, songwriters, and more patients",
       "tool": "Music",
       "accent": "#f5a623",
       "motif": "sphere",
-      "rationale": "New program announced at the NYC Summit: free ElevenMusic access for artists who have lost their voice. This is separate from the SoundCloud, DDEX and SFX v3 stories already published.",
-      "published_iso": "2026-11-12T12:00:00.000Z",
-      "og_image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/hzu606cgpup-2304662705.webp",
-      "excerpt": "At its NYC Summit ElevenLabs launched free ElevenMusic access for artists who have lost their voice, partnered with Wounded Warrior Project and added NYU Langone to its 1 Million Voices programme."
+      "category": "music",
+      "title": "머무르 '꿈꾸던…', AI 활용곡 사상 첫 멜론 '톱 100' 1위",
+      "url": "https://www.yna.co.kr/view/AKR20261113157000005",
+      "source": "연합뉴스",
+      "published_iso": "2026-11-13T17:32:53+09:00",
+      "og_image": "https://img2.yna.co.kr/etc/inner/KR/2026/11/13/AKR20261113157000005_01_i_P4.jpg",
+      "excerpt": "작곡과 가창에 AI를 활용한 머무르의 '꿈꾸던 어른이 되었나요?'가 K팝 사상 처음으로 멜론 '톱 100' 1위에 올라 리센느 등 아이돌 신곡을 제쳤다.",
+      "rationale": "Chart milestone: first AI-assisted song ever to reach #1 on Melon Top 100, beating idol releases — a new concrete event beyond the October 'it's a hit' coverage."
     },
     {
-      "url": "https://musically.com/2026/11/12/ringos-charlie-is-a-sync-licensing-ai-assistant-within-whatsapp/",
-      "source": "Music Ally",
-      "title": "Ringo's Charlie is a sync-licensing AI assistant within WhatsApp",
       "tool": "Music",
       "accent": "#7928ca",
       "motif": "sphere",
-      "rationale": "New product: an AI agent that handles sync-licensing requests inside WhatsApp. It is a concrete AI licensing workflow for rights holders and supervisors.",
-      "published_iso": "2026-11-12T13:30:00+00:00",
-      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-26.png?fit=2000%2C1500&ssl=1",
-      "excerpt": "Dutch sync-tech startup Ringo has unveiled Charlie, an AI assistant inside WhatsApp that handles sync-licensing requests on top of its AI-powered licensing platform launched in 2025."
+      "category": "music",
+      "title": "Getty v Stability ruling could allow AI companies to 'offshore' training to circumvent UK copyright law, says BPI",
+      "url": "https://completemusicupdate.com/getty-v-stability-ruling-could-allow-ai-companies-to-offshore-training-to-circumvent-uk-copyright-law-says-bpi/",
+      "source": "CMU",
+      "published_iso": "2026-11-13T15:44:28Z",
+      "og_image": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/2026/11/Getty-v-Stablity---1-.png",
+      "excerpt": "With Getty v Stability AI back in the UK Court of Appeal this week, the BPI intervened in support of Getty, warning that the ruling could let AI firms train models offshore to sidestep UK copyright, with significant consequences for music.",
+      "rationale": "New legal action: the BPI's intervention in the Court of Appeal frames the offshore-training loophole that would decide whether UK music copyright reaches AI training."
     },
     {
-      "url": "https://www.complex.com/music/a/markelibert/knxwledge-streaming-app-albums-removed-distributors",
-      "source": "Complex",
-      "title": "Knxwledge launches streaming service after distributors remove his music without explanation",
       "tool": "Music",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "rationale": "A Grammy-winning producer's pre-AI catalogue was caught up in distributors' AI-slop takedowns, and he answered by launching his own streaming app. It is a new event that shows what the AI-content crackdown costs human artists.",
-      "published_iso": "2026-11-12T00:30:52.726Z",
-      "og_image": "https://images.complex.com/complex/image/upload/c_crop,h_1910,w_2939,x_0,y_0/g_auto:aoi_1176_764_588_382,ar_1.91,c_fill,q_auto,w_1200/sanity-new/ehkmatoir85wnox3ljc2",
-      "excerpt": "Grammy-winning producer Knxwledge launched his own streaming app after distributors pulled records he released years before public AI music tools existed, collateral of the AI-slop takedown wave."
+      "category": "music",
+      "title": "RadioMatic aims to make AI-music a soundtrack for businesses",
+      "url": "https://musically.com/2026/11/12/radiomatic-aims-to-make-ai-music-a-soundtrack-for-businesses/",
+      "source": "Music Ally",
+      "published_iso": "2026-11-12T13:30:00+00:00",
+      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-25.png?fit=2000%2C1500&ssl=1",
+      "excerpt": "Startup RadioMatic is launching specifically to supply AI-generated background music to cafes, bars and other businesses, formalising a trend of venues playing AI music.",
+      "rationale": "New service launch that formalises AI music as venue background audio — a direct substitute for licensed in-store music, relevant to how rights and royalties flow."
     }
   ],
   "dedup": {
     "checks": {
-      "https://musictech.com/news/gear/sonura-flow/": {
+      "https://suno.com/blog/introducing-bridge": {
         "verdict": "new",
-        "nearest": "https://sonicstate.com/news/2026/11/09/waves-releases-illugen-25-/",
+        "nearest": "https://suno.com/blog/studio-chat-assistant",
         "new_action": ""
       },
-      "https://stability.ai/guides/whats-new-in-stable-audio-november-2026-release-notes": {
+      "https://mixing.co.kr/en/44521": {
+        "verdict": "follow-up",
+        "nearest": "https://essential-japan.com/news/vocaloid7-officially-announced-just-6-months-after-hatsune-mikus-v6-debut/",
+        "new_action": "VOCALOID7 Editor actually released (10-17 card was the announcement): on sale at $129 as standalone/VST3/AU/ARA2 with VOCALOID:AI gen-2, Voice Type control and lyric entry in Cubase's Key Editor."
+      },
+      "https://www.yna.co.kr/view/AKR20261113157000005": {
+        "verdict": "follow-up",
+        "nearest": "https://musically.com/2026/10/15/suno-made-track-the-adult-i-dreamed-of-is-a-hit-in-south-korea/",
+        "new_action": "Same song reached #1 on the Melon Top 100 on 11-13 — the first AI-assisted track ever to top the chart (10-18 card only reported it as a hit)."
+      },
+      "https://completemusicupdate.com/getty-v-stability-ruling-could-allow-ai-companies-to-offshore-training-to-circumvent-uk-copyright-law-says-bpi/": {
+        "verdict": "new",
+        "nearest": "https://completemusicupdate.com/music-industry-intervenes-in-open-ais-big-legal-battle-with-newspapers-and-authors/",
+        "new_action": ""
+      },
+      "https://musically.com/2026/11/12/radiomatic-aims-to-make-ai-music-a-soundtrack-for-businesses/": {
         "verdict": "new",
         "nearest": "",
-        "new_action": ""
-      },
-      "https://elevenlabs.io/blog/impact-nyc-summit": {
-        "verdict": "new",
-        "nearest": "https://techcrunch.com/2026/11/05/elevenlabs-now-lets-users-publish-ai-generated-music-directly-on-soundcloud/",
-        "new_action": ""
-      },
-      "https://musically.com/2026/11/12/ringos-charlie-is-a-sync-licensing-ai-assistant-within-whatsapp/": {
-        "verdict": "new",
-        "nearest": "",
-        "new_action": ""
-      },
-      "https://www.complex.com/music/a/markelibert/knxwledge-streaming-app-albums-removed-distributors": {
-        "verdict": "new",
-        "nearest": "https://www.digitalmusicnews.com/2026/11/04/ai-detector-false-positives/",
         "new_action": ""
       }
     },
-    "note": "Dropped as duplicates or follow-ups: Akai MPC SDK vibe-coding (MusicRadar), the shipping step of the Akai open-source MPC story published 10-29 (theverge); Tracktion Waveform Free 14.1 Mix Analysis, the same 14.1 release published 10-28 (gearnews Waveform Pro 14.1); Guardian Albanese opinion, commentary on the Australia TDM story published 11-09; Blackstar ID:X NAM A2, running NAM A2 hardware adoption already covered 11-08 (Heritage i73 Pro) and only weakly AI. Reservoir v. Suno/Anthropic amendment was already removed by story_dedup. Skipped on merit: PaRa Music (label strategy, thin), GameSoundCon recap, Maono mic (AI incidental), Nick Cave opinion, Influur Pulse (influencer marketing, closer to marketing), Carmine Appice interview, Seoul copyright forum (event preview), Grimes AI film (film-first story), Samsung Securities AI K-pop (off-list, marketing stunt), RadioMatic (would be a second Music Ally business story; runner-up). Cross-section exact-grep of published_urls.json was not possible in this agent (Read-only tools), so the orchestrator should confirm before roll that the 5 pick URLs are absent from published_urls.json."
+    "note": "Dropped: Akai MPC 3.10.1 plugin SDK (MusicRadar) — likely-repeat of the 10-29 Verge 'Akai is embracing vibe-coded mods' story, no clearly distinct release. Suno CEO streaming-fraud remarks (Music Ally) — interview/commentary, no new action. Blackstar ID:X NAM support — marginal AI, NAM-update running story (Heritage i73 11-08). Gavin Adcock vs River Cain — reaction piece. Cerati video — AI use unconfirmed. PaRa Music — label business claim. Lower-ranked but fresh, not picked: RFE/RL Russian pro-war AI songs, RASES app, MusicRWKV arXiv, Mintify V-coloring. Cross-section check: none of the 5 URLs appear in published_urls.json (music/politics sections scanned; Getty v Stability not run in politics)."
   }
 }

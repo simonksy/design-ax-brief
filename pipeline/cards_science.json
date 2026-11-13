@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "section": "science",
   "cards": [
     {
-      "id": "science-m87-ml-reanalysis",
+      "id": "nature-ai-mechanic-astra",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "머신러닝이 다시 확인한\nM87* 블랙홀 고리",
-      "body": "CSIRO 팀이 AI로 사건지평선망원경 원자료를 재분석해 거의 같은 고리를 얻었다.",
-      "mini_headline": "AI가 뒷받침한 M87* 이미지",
+      "headline": "AI 정비공이 다른\n신경망을 읽고 고친다",
+      "body": "MIT-led 팀이 GPT-6 Astra로 다른 모델 내부값을 읽고 고쳤다.",
+      "mini_headline": "AI 정비공, 다른 신경망 수정",
       "tool": "Science",
-      "source": "Phys.org",
-      "url": "https://phys.org/news/2026-11-independent-technique-validates-landmark-m87.html",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03679-8",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
@@ -19,179 +19,155 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-fuzy-organge-glowing.jpg",
-            "cap": "Event Horizon Telescope(사건지평선망원경)가 찍은 이 이미지는 인근 처녀자리(Virgo) 은하단의 거대 은하 Messier 87 중심에 있는 블랙홀이다. 출처: Event Horizon Telescope Collaboration et al. 2019."
+            "src": "https://media.nature.com/lw767/magazine-assets/d41586-026-03679-8/d41586-026-03679-8_53974808.jpg",
+            "cap": "일부 AI 모델은 정비공처럼 일한다. 직접 설계하지 않았고 완전히 이해하지도 못하는 다른 모델의 문제를 고친다. Credit: Mint Images/Getty"
           },
           {
             "t": "p",
-            "x": "호주 국립과학기관 CSIRO의 네 명 연구팀이 은하 M87 중심 블랙홀을 담은 2019년 Event Horizon Telescope(EHT)의 기념비적 이미지를 검증할 강력한 새 영상 기법을 개발했다. Nature에 실린 이 방법은 보정 오차와 이미지 처리 과정의 주관적 판단이 결과에 끼치는 영향을 줄인다."
+            "x": "연구진이 인공지능 모델로 다른 AI 네트워크의 내부를 읽고 손보는 데 성공했다. AI의 ‘블랙박스’를 들여다볼 새 방법이다. 매사추세츠공과대학(MIT) 연구팀은 GPT-6 Astra라는 AI 모델이 다른 모델 일부의 원시 내부값을 해석해 시스템 각 부분이 맡은 일을 예측해 낸다는 사실을 보였다. 모델을 고쳐 성능을 끌어올리기도 했는데, 수학 능력 향상이 한 예다. 연구진은 11월 2일 프리프린트로 결과를 내놓았다."
           },
           {
             "t": "p",
-            "x": "제1저자 Samuel Lai 박사는 “우리 작은 호주 팀은 블랙홀 구조 정보를 포착하고 대기 간섭을 걸러내는 고급 머신러닝·인공지능 기법을 개발했다”고 말했다. “이를 원래의 Event Horizon Telescope 데이터셋에 적용하자 역사적인 EHT 이미지와 크기와 모양이 거의 같은 블랙홀이 나타났다. 중요한 점은, M87 데이터에 적용할 때 우리 모델이 블랙홀이 어떻게 생겼는지 전혀 몰랐다는 사실이다.”"
+            "x": "공동 저자 Rikiya Takehi는 프런티어 AI 모델이 신경망을 읽고 추론하고 바꿀 수 있는 파일처럼 다루는 능력에서 “초기 불꽃을 보이고 있다”고 말한다. 그렇다고 OpenAI가 개발한 Astra가 특정 AI 네트워크의 작동 원리를 설명하거나 이해한다는 뜻은 아니다. 다만 범용 모델이 직접 설계하지도, 완전히 이해하지도 못한 엔진을 고치는 정비공처럼 네트워크를 쓸모 있게 손볼 수 있다는 점을 시사한다."
           },
           {
             "t": "p",
-            "x": "프로젝트 책임자 Nithyanandan Thyagarajan 박사는 “우리 기법은 그런 오차를 없애기 위해 표준적인 망원경 데이터 쌍 대신 세 개씩 묶은 조합을 결합한다”고 말했다. 이번 결과로 고리가 이미지 재구성 과정에서 생긴 인공물이 아니라 실제 천체물리학적 구조라는 확신이 커졌다."
-          },
-          {
-            "t": "p",
-            "x": "EHT Collaboration 책임자 Laurent Loinard 박사는 GenDIReCT가 “우아하고 완전히 독립적인 방법으로, 여러 해에 걸친 M87*의 고리 구조를 복원하며 EHT Collaboration이 발표한 결과와 매우 잘 일치한다”고 평가했다. Thyagarajan은 이 기법을 의료 영상과 지진 지도 작성을 개선하는 데도 쓸 수 있다고 말했다."
+            "x": "옥스퍼드대학교의 Fazl Barez는 이번 프리프린트가 일부 ‘해석 가능성’ 기법을 자동화할 수 있음을 보여 준다고 평가했다. 다만 이것이 더 안전한 AI로 이어지리라는 기대는 “대체로 검증되지 않았다”고 짚었다. 하버드대학교의 Marinka Zitnik은 이런 재프로그래밍이 실제 환경에서 시험하기 전에 모델 오류를 잡아내는 데 도움이 될 수 있다고 본다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Machine learning re-confirms\nthe M87* black hole ring",
-          "body": "A CSIRO team's AI reanalysis of the original Event Horizon Telescope data recovered a nearly identical black-hole ring.",
-          "mini_headline": "AI backs the M87* image",
+          "headline": "AI mechanic reads and edits\nother neural networks",
+          "body": "An MIT-led team used GPT-6 Astra to read other models' internal values, predict their parts' roles and edit them.",
+          "mini_headline": "AI mechanic edits other networks",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-fuzy-organge-glowing.jpg",
-                "cap": "This Event Horizon Telescope image reveals the black hole at the center of Messier 87, a massive galaxy in the nearby Virgo galaxy cluster. Credit: Event Horizon Telescope Collaboration et al. 2019."
+                "src": "https://media.nature.com/lw767/magazine-assets/d41586-026-03679-8/d41586-026-03679-8_53974808.jpg",
+                "cap": "Some AI models behave like mechanics — fixing issues in other models that they neither designed nor fully understand. Credit: Mint Images/Getty"
               },
               {
                 "t": "p",
-                "x": "A team of four from CSIRO, Australia's national science agency, has developed a powerful new imaging technique that validated the landmark 2019 Event Horizon Telescope (EHT) image of the black hole at the center of galaxy M87. The approach, published in Nature, reduces the effects of calibration errors and subjective image-processing decisions."
+                "x": "Researchers have used an artificial-intelligence model to read and tinker with the internal workings of another AI network — offering a new way to peek into the ‘black box’ of AI. A team at the Massachusetts Institute of Technology (MIT) has demonstrated how an AI model called GPT-6 Astra can interpret the raw internal values of some other models well enough to predict what different parts of the systems do. It can then edit the models to make improvements — including boosting their mathematical abilities. The authors reported their findings in a preprint on 2 November."
               },
               {
                 "t": "p",
-                "x": "\"Our small Australian team developed advanced machine learning and artificial intelligence techniques to capture information about the black hole's structure and filter out atmospheric interference,\" said lead author Dr. Samuel Lai. \"When we applied it to the original Event Horizon Telescope dataset, we found a black hole almost identical in size and shape to the historic EHT image. Importantly, our model had no idea what a black hole looked like when we applied it to the M87 data.\""
+                "x": "Frontier AI models are “showing early sparks” of an ability to treat neural networks like files that they can read, reason about and change, says co-author Rikiya Takehi. The results do not mean that Astra, developed by OpenAI, can explain or understand how a given AI network works, but suggest general-purpose models might modify a network in useful ways, like a mechanic fixing an engine they neither designed nor fully understand."
               },
               {
                 "t": "p",
-                "x": "Project leader Dr. Nithyanandan Thyagarajan said: \"Our technique combines triplets rather than the standard pairs of telescope data to eliminate those errors.\" The findings strengthen confidence that the ring is a genuine astrophysical feature rather than an artifact of image reconstruction."
-              },
-              {
-                "t": "p",
-                "x": "EHT Collaboration director Dr. Laurent Loinard said GenDIReCT, \"an elegant, entirely independent method, recovers the ring structure of M87* across several years, in excellent agreement with the EHT Collaboration's published results.\" Thyagarajan said the technique could also improve medical imaging and mapping earthquakes."
+                "x": "Fazl Barez of the University of Oxford says the preprint shows some ‘interpretability’ methods can be automated, though the hope that this yields safer AI is “largely untested”. Harvard’s Marinka Zitnik says such reprogramming could help spot errors in a model ahead of real-world testing."
               }
             ]
           }
         },
         "ko": {
-          "headline": "머신러닝이 다시 확인한\nM87* 블랙홀 고리",
-          "body": "CSIRO 팀이 AI로 사건지평선망원경 원자료를 재분석해 거의 같은 고리를 얻었다.",
-          "mini_headline": "AI가 뒷받침한 M87* 이미지",
+          "headline": "AI 정비공이 다른\n신경망을 읽고 고친다",
+          "body": "MIT-led 팀이 GPT-6 Astra로 다른 모델 내부값을 읽고 고쳤다.",
+          "mini_headline": "AI 정비공, 다른 신경망 수정",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-fuzy-organge-glowing.jpg",
-                "cap": "Event Horizon Telescope(사건지평선망원경)가 찍은 이 이미지는 인근 처녀자리(Virgo) 은하단의 거대 은하 Messier 87 중심에 있는 블랙홀이다. 출처: Event Horizon Telescope Collaboration et al. 2019."
+                "src": "https://media.nature.com/lw767/magazine-assets/d41586-026-03679-8/d41586-026-03679-8_53974808.jpg",
+                "cap": "일부 AI 모델은 정비공처럼 일한다. 직접 설계하지 않았고 완전히 이해하지도 못하는 다른 모델의 문제를 고친다. Credit: Mint Images/Getty"
               },
               {
                 "t": "p",
-                "x": "호주 국립과학기관 CSIRO의 네 명 연구팀이 은하 M87 중심 블랙홀을 담은 2019년 Event Horizon Telescope(EHT)의 기념비적 이미지를 검증할 강력한 새 영상 기법을 개발했다. Nature에 실린 이 방법은 보정 오차와 이미지 처리 과정의 주관적 판단이 결과에 끼치는 영향을 줄인다."
+                "x": "연구진이 인공지능 모델로 다른 AI 네트워크의 내부를 읽고 손보는 데 성공했다. AI의 ‘블랙박스’를 들여다볼 새 방법이다. 매사추세츠공과대학(MIT) 연구팀은 GPT-6 Astra라는 AI 모델이 다른 모델 일부의 원시 내부값을 해석해 시스템 각 부분이 맡은 일을 예측해 낸다는 사실을 보였다. 모델을 고쳐 성능을 끌어올리기도 했는데, 수학 능력 향상이 한 예다. 연구진은 11월 2일 프리프린트로 결과를 내놓았다."
               },
               {
                 "t": "p",
-                "x": "제1저자 Samuel Lai 박사는 “우리 작은 호주 팀은 블랙홀 구조 정보를 포착하고 대기 간섭을 걸러내는 고급 머신러닝·인공지능 기법을 개발했다”고 말했다. “이를 원래의 Event Horizon Telescope 데이터셋에 적용하자 역사적인 EHT 이미지와 크기와 모양이 거의 같은 블랙홀이 나타났다. 중요한 점은, M87 데이터에 적용할 때 우리 모델이 블랙홀이 어떻게 생겼는지 전혀 몰랐다는 사실이다.”"
+                "x": "공동 저자 Rikiya Takehi는 프런티어 AI 모델이 신경망을 읽고 추론하고 바꿀 수 있는 파일처럼 다루는 능력에서 “초기 불꽃을 보이고 있다”고 말한다. 그렇다고 OpenAI가 개발한 Astra가 특정 AI 네트워크의 작동 원리를 설명하거나 이해한다는 뜻은 아니다. 다만 범용 모델이 직접 설계하지도, 완전히 이해하지도 못한 엔진을 고치는 정비공처럼 네트워크를 쓸모 있게 손볼 수 있다는 점을 시사한다."
               },
               {
                 "t": "p",
-                "x": "프로젝트 책임자 Nithyanandan Thyagarajan 박사는 “우리 기법은 그런 오차를 없애기 위해 표준적인 망원경 데이터 쌍 대신 세 개씩 묶은 조합을 결합한다”고 말했다. 이번 결과로 고리가 이미지 재구성 과정에서 생긴 인공물이 아니라 실제 천체물리학적 구조라는 확신이 커졌다."
-              },
-              {
-                "t": "p",
-                "x": "EHT Collaboration 책임자 Laurent Loinard 박사는 GenDIReCT가 “우아하고 완전히 독립적인 방법으로, 여러 해에 걸친 M87*의 고리 구조를 복원하며 EHT Collaboration이 발표한 결과와 매우 잘 일치한다”고 평가했다. Thyagarajan은 이 기법을 의료 영상과 지진 지도 작성을 개선하는 데도 쓸 수 있다고 말했다."
+                "x": "옥스퍼드대학교의 Fazl Barez는 이번 프리프린트가 일부 ‘해석 가능성’ 기법을 자동화할 수 있음을 보여 준다고 평가했다. 다만 이것이 더 안전한 AI로 이어지리라는 기대는 “대체로 검증되지 않았다”고 짚었다. 하버드대학교의 Marinka Zitnik은 이런 재프로그래밍이 실제 환경에서 시험하기 전에 모델 오류를 잡아내는 데 도움이 될 수 있다고 본다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "機械学習が再確認した\nM87* ブラックホールの輪",
-          "body": "CSIROのチームがAIで事象の地平線望遠鏡の元データを再解析し、ほぼ同じリングを得た。",
-          "mini_headline": "AIがM87*画像を裏付け",
+          "headline": "AI整備士が他の神経網を\n読み解いて改修する",
+          "body": "MIT-ledのチームがGPT-6 Astraで他モデルの内部値から役割を予測し編集した。",
+          "mini_headline": "AI整備士が他のネットワークを編集",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-fuzy-organge-glowing.jpg",
-                "cap": "このEvent Horizon Telescope(事象の地平線望遠鏡)の画像は、近傍のおとめ座(Virgo)銀河団にある巨大銀河Messier 87の中心のブラックホールを捉えている。クレジット: Event Horizon Telescope Collaboration et al. 2019."
+                "src": "https://media.nature.com/lw767/magazine-assets/d41586-026-03679-8/d41586-026-03679-8_53974808.jpg",
+                "cap": "一部のAIモデルは整備士のように振る舞い、自ら設計しておらず完全には理解してもいない他のモデルの不具合を直す。Credit: Mint Images/Getty"
               },
               {
                 "t": "p",
-                "x": "オーストラリアの国立科学機関CSIROの四人のチームが、銀河M87の中心にあるブラックホールを写した2019年の画期的なEvent Horizon Telescope(EHT)画像を検証する、強力な新しい画像化手法を開発した。Natureに掲載されたこの手法は、較正誤差と主観的な画像処理判断の影響を抑える。"
+                "x": "研究者らはAIモデルを使って別のAIネットワークの内部構造を読み取り、手を加えることに成功した。AIの「ブラックボックス」をのぞく新たな手法となる。マサチューセッツ工科大学(MIT)のチームは、GPT-6 AstraというAIモデルが他の一部モデルの生の内部値を解釈し、システムの各部分の働きを予測できることを示した。さらにモデルを編集して性能を高めることもでき、数学能力の向上もその一つだ。著者らは11月2日にプレプリントで成果を報告した。"
               },
               {
                 "t": "p",
-                "x": "筆頭著者のSamuel Lai博士は「私たちオーストラリアの小さなチームは、ブラックホールの構造に関する情報を捉え、大気の干渉を取り除く高度な機械学習と人工知能の手法を開発した」と語った。「元のEvent Horizon Telescopeのデータセットに適用すると、歴史的なEHT画像と大きさも形もほぼ同じブラックホールが現れた。重要なのは、M87のデータに適用した時点で、私たちのモデルはブラックホールがどう見えるかをまったく知らなかったことだ」"
+                "x": "共著者のRikiya Takehiは、フロンティアAIモデルはニューラルネットワークを読み、推論し、変更できるファイルのように扱う能力について「初期の兆しを見せている」と語る。今回の結果は、OpenAIが開発したAstraが特定のAIネットワークの仕組みを説明・理解できることを意味しない。ただし汎用モデルが、自ら設計しておらず完全には理解してもいないエンジンを直す整備士のように、ネットワークを有用な形で修正できる可能性を示している。"
               },
               {
                 "t": "p",
-                "x": "プロジェクトリーダーのNithyanandan Thyagarajan博士は「私たちの手法は、そうした誤差を除くため、標準的な望遠鏡データの二つ組ではなく三つ組を組み合わせる」と述べた。この成果は、リングが画像再構成による人工物ではなく、本物の天体物理学的構造であるという確信を強めるものだ。"
-              },
-              {
-                "t": "p",
-                "x": "EHT Collaborationの責任者Laurent Loinard博士は、GenDIReCTを「洗練された完全に独立した手法で、数年にわたるM87*のリング構造を復元し、EHT Collaborationの公表結果と非常によく一致している」と評した。Thyagarajanは、この手法が医療画像や地震のマッピングの改善にも役立ちうると述べた。"
+                "x": "オックスフォード大学のFazl Barezは、このプレプリントは一部の「解釈可能性」手法を自動化できることを示すが、それがより安全なAIにつながるという期待は「ほぼ検証されていない」と言う。ハーバード大学のMarinka Zitnikは、こうした再プログラミングが実環境での試験前にモデルの誤りを見つける助けになり得ると述べる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "机器学习再次证实\nM87* 黑洞光环",
-          "body": "CSIRO团队用AI重新分析事件视界望远镜原始数据，得到几乎相同的黑洞光环。",
-          "mini_headline": "AI佐证M87*图像",
+          "headline": "AI当起“机修工”\n读改其他神经网络",
+          "body": "MIT-led团队用GPT-6 Astra读取其他模型内部数值，预测各部件功能并加以修改。",
+          "mini_headline": "AI机修工修改其他网络",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-fuzy-organge-glowing.jpg",
-                "cap": "这张Event Horizon Telescope（事件视界望远镜）图像显示了Messier 87中心的黑洞，Messier 87是邻近的室女座（Virgo）星系团中的一个大质量星系。图片来源：Event Horizon Telescope Collaboration et al. 2019."
+                "src": "https://media.nature.com/lw767/magazine-assets/d41586-026-03679-8/d41586-026-03679-8_53974808.jpg",
+                "cap": "一些AI模型像机修工一样，修复其他模型中的问题，而这些模型既非它们设计，它们也并未完全理解。Credit: Mint Images/Getty"
               },
               {
                 "t": "p",
-                "x": "澳大利亚国家科学机构CSIRO的一支四人团队开发出一种强大的新成像技术，验证了2019年Event Horizon Telescope（EHT）拍摄的星系M87中心黑洞这一里程碑式图像。该方法发表于Nature，可减少校准误差和主观图像处理决策带来的影响。"
+                "x": "研究人员利用一个人工智能模型读取并调整另一个AI网络的内部运作，为窥探AI“黑箱”提供了新途径。麻省理工学院（MIT）团队展示了名为GPT-6 Astra的AI模型能够解读其他一些模型的原始内部数值，足以预测系统各部分的功能。它随后还能编辑这些模型加以改进，包括提升其数学能力。作者于11月2日以预印本形式报告了这些发现。"
               },
               {
                 "t": "p",
-                "x": "第一作者Samuel Lai博士表示：“我们这支澳大利亚小团队开发了先进的机器学习和人工智能技术，用来捕捉黑洞结构信息并滤除大气干扰。”他说：“把它应用到最初的Event Horizon Telescope数据集时，我们得到的黑洞在大小和形状上与历史性的EHT图像几乎完全相同。重要的是，在处理M87数据时，我们的模型完全不知道黑洞长什么样。”"
+                "x": "合著者Rikiya Takehi表示，前沿AI模型正“显露初步火花”，能够把神经网络当作可读取、推理和修改的文件来处理。研究结果并不意味着OpenAI开发的Astra能够解释或理解某个AI网络如何运作，但表明通用模型或许能以有用的方式修改网络，就像机修工修理一台既非自己设计、也未完全理解的引擎。"
               },
               {
                 "t": "p",
-                "x": "项目负责人Nithyanandan Thyagarajan博士说：“我们的技术组合的是望远镜数据的三元组，而不是标准的二元组，从而消除这些误差。”这些发现进一步证明，光环是真实的天体物理特征，而非图像重建产生的假象。"
-              },
-              {
-                "t": "p",
-                "x": "EHT Collaboration负责人Laurent Loinard博士称，GenDIReCT“是一种优雅且完全独立的方法，复原了M87*多年来的光环结构，与EHT Collaboration已发表的结果高度一致”。Thyagarajan表示，这项技术还可用于改进医学成像和地震测绘。"
+                "x": "牛津大学的Fazl Barez表示，该预印本表明部分“可解释性”方法可以自动化，但借此实现更安全AI的希望“基本未经检验”。哈佛大学的Marinka Zitnik表示，这类重新编程有助于在实际测试之前发现模型中的错误。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El aprendizaje automático\nreconfirma el anillo de M87*",
-          "body": "Un equipo de CSIRO reanalizó con AI los datos originales del Event Horizon Telescope y halló un anillo casi idéntico.",
-          "mini_headline": "La AI respalda la imagen de M87*",
+          "headline": "Un mecánico de IA lee y edita\notras redes neuronales",
+          "body": "Un equipo MIT-led usó GPT-6 Astra para leer valores internos de otros modelos, prever el rol de sus partes y editarlos.",
+          "mini_headline": "Un mecánico de IA edita otras redes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-fuzy-organge-glowing.jpg",
-                "cap": "Esta imagen del Event Horizon Telescope muestra el agujero negro en el centro de Messier 87, una galaxia masiva del cercano cúmulo de galaxias de Virgo. Crédito: Event Horizon Telescope Collaboration et al. 2019."
+                "src": "https://media.nature.com/lw767/magazine-assets/d41586-026-03679-8/d41586-026-03679-8_53974808.jpg",
+                "cap": "Algunos modelos de IA se comportan como mecánicos: corrigen fallos en otros modelos que no diseñaron ni comprenden del todo. Crédito: Mint Images/Getty"
               },
               {
                 "t": "p",
-                "x": "Un equipo de cuatro personas de CSIRO, la agencia científica nacional de Australia, ha desarrollado una nueva y potente técnica de imagen que validó la histórica imagen de 2019 del Event Horizon Telescope (EHT) del agujero negro en el centro de la galaxia M87. El método, publicado en Nature, reduce los efectos de los errores de calibración y de las decisiones subjetivas en el procesamiento de imágenes."
+                "x": "Un equipo de investigación ha utilizado un modelo de inteligencia artificial para leer y modificar el funcionamiento interno de otra red de IA, lo que ofrece una nueva forma de asomarse a la ‘caja negra’ de la IA. Un equipo MIT-led del Massachusetts Institute of Technology (MIT) ha demostrado que un modelo de IA llamado GPT-6 Astra puede interpretar los valores internos en bruto de algunos otros modelos lo bastante bien como para predecir qué hacen las distintas partes de los sistemas. Después puede editar los modelos para mejorarlos, por ejemplo aumentando sus capacidades matemáticas. Los autores publicaron sus resultados en una prepublicación el 2 de noviembre."
               },
               {
                 "t": "p",
-                "x": "“Nuestro pequeño equipo australiano desarrolló técnicas avanzadas de aprendizaje automático e inteligencia artificial para captar información sobre la estructura del agujero negro y filtrar la interferencia atmosférica”, afirmó el autor principal, el Dr. Samuel Lai. “Cuando la aplicamos al conjunto de datos original del Event Horizon Telescope, encontramos un agujero negro casi idéntico en tamaño y forma a la histórica imagen del EHT. Lo importante es que nuestro modelo no tenía idea de cómo era un agujero negro cuando lo aplicamos a los datos de M87”."
+                "x": "Los modelos de IA de frontera “muestran los primeros destellos” de una capacidad para tratar las redes neuronales como archivos que pueden leer, analizar y cambiar, afirma el coautor Rikiya Takehi. Los resultados no significan que Astra, desarrollado por OpenAI, pueda explicar o entender cómo funciona una red de IA concreta, pero sugieren que los modelos de propósito general podrían modificar una red de formas útiles, como un mecánico que repara un motor que no diseñó ni comprende del todo."
               },
               {
                 "t": "p",
-                "x": "El líder del proyecto, el Dr. Nithyanandan Thyagarajan, dijo: “Nuestra técnica combina tripletes en lugar de los pares estándar de datos de telescopio para eliminar esos errores”. Los hallazgos refuerzan la confianza en que el anillo es un rasgo astrofísico real y no un artefacto de la reconstrucción de la imagen."
-              },
-              {
-                "t": "p",
-                "x": "El director de la EHT Collaboration, el Dr. Laurent Loinard, dijo que GenDIReCT, “un método elegante y completamente independiente, recupera la estructura de anillo de M87* a lo largo de varios años, en excelente concordancia con los resultados publicados por la EHT Collaboration”. Thyagarajan señaló que la técnica también podría mejorar las imágenes médicas y la cartografía de terremotos."
+                "x": "Fazl Barez, de la University of Oxford, afirma que la prepublicación muestra que algunos métodos de ‘interpretabilidad’ pueden automatizarse, aunque la esperanza de que esto conduzca a una IA más segura está “en gran medida sin comprobar”. Marinka Zitnik, de Harvard, señala que esta reprogramación podría ayudar a detectar errores en un modelo antes de las pruebas en el mundo real."
               }
             ]
           }
@@ -199,125 +175,109 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "머신러닝이 다시 확인한\nM87* 블랙홀 고리",
-          "body": "CSIRO 팀이 AI로 사건지평선망원경 원자료를 재분석해 거의 같은 고리를 얻었다.",
-          "mini_headline": "AI가 뒷받침한 M87* 이미지",
+          "headline": "AI 정비공이 다른\n신경망을 읽고 고친다",
+          "body": "MIT-led 팀이 GPT-6 Astra로 타 모델 내부값을 읽고 고쳤다.",
+          "mini_headline": "AI 정비공, 다른 신경망 수정",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-fuzy-organge-glowing.jpg",
-                "cap": "이 Event Horizon Telescope(사건지평선망원경) 이미지는 인근 처녀자리(Virgo) 은하단에 속한 거대 은하 Messier 87 중심의 블랙홀을 보여준다. 출처: Event Horizon Telescope Collaboration et al. 2019."
+                "src": "https://media.nature.com/lw767/magazine-assets/d41586-026-03679-8/d41586-026-03679-8_53974808.jpg",
+                "cap": "일부 AI 모델은 정비공처럼 움직인다. 직접 설계하지도, 완전히 이해하지도 못한 다른 모델의 문제를 고친다. Credit: Mint Images/Getty"
               },
               {
                 "t": "p",
-                "x": "호주 국립과학기관 CSIRO의 네 명 연구팀이 은하 M87 중심 블랙홀을 담은 2019년 Event Horizon Telescope(EHT)의 기념비적 이미지를 검증하는 강력한 새 영상 기법을 개발했다. Nature에 실린 이 방법은 보정 오차와 주관적인 이미지 처리 판단의 영향을 줄인다."
+                "x": "연구진이 인공지능 모델로 다른 AI 네트워크의 내부 작동을 읽고 손보는 데 성공했다. AI의 ‘블랙박스’를 들여다볼 새로운 방법이다. 매사추세츠공과대학(MIT) 연구팀은 GPT-6 Astra라는 AI 모델이 일부 다른 모델의 원시 내부값을 해석해 시스템의 각 부분이 무슨 일을 하는지 예측할 수 있음을 보였다. 이어 모델을 편집해 성능을 높일 수도 있었는데, 수학 능력 향상도 그중 하나다. 연구진은 11월 2일 프리프린트로 결과를 발표했다."
               },
               {
                 "t": "p",
-                "x": "제1저자 Samuel Lai 박사는 “우리 작은 호주 팀은 블랙홀 구조 정보를 포착하고 대기 간섭을 걸러내는 고급 머신러닝·인공지능 기법을 개발했다”고 말했다. “이를 원래의 Event Horizon Telescope 데이터셋에 적용하자 역사적인 EHT 이미지와 크기와 모양이 거의 같은 블랙홀이 나타났다. 중요한 점은, M87 데이터에 적용할 때 우리 모델이 블랙홀이 어떻게 생겼는지 전혀 몰랐다는 사실이다.”"
+                "x": "공동 저자 Rikiya Takehi는 프런티어 AI 모델이 신경망을 읽고, 추론하고, 바꿀 수 있는 파일처럼 다루는 능력의 “초기 불꽃을 보이고 있다”고 말한다. 이번 결과가 OpenAI가 개발한 Astra가 특정 AI 네트워크의 작동 원리를 설명하거나 이해한다는 뜻은 아니다. 다만 범용 모델이 직접 설계하지도, 완전히 이해하지도 못한 엔진을 고치는 정비공처럼 네트워크를 유용하게 수정할 수 있음을 시사한다."
               },
               {
                 "t": "p",
-                "x": "프로젝트 책임자 Nithyanandan Thyagarajan 박사는 “우리 기법은 그런 오차를 없애기 위해 표준적인 망원경 데이터 쌍 대신 세 개씩 묶은 조합을 결합한다”고 말했다. 이번 결과는 고리가 이미지 재구성의 인공물이 아니라 실제 천체물리학적 구조라는 확신을 키운다."
-              },
-              {
-                "t": "p",
-                "x": "EHT Collaboration 책임자 Laurent Loinard 박사는 GenDIReCT가 “우아하고 완전히 독립적인 방법으로, 여러 해에 걸친 M87*의 고리 구조를 복원하며 EHT Collaboration이 발표한 결과와 매우 잘 일치한다”고 평가했다. Thyagarajan은 이 기법이 의료 영상과 지진 지도 작성의 개선에도 쓰일 수 있다고 말했다."
+                "x": "옥스퍼드대학교의 Fazl Barez는 이번 프리프린트가 일부 ‘해석 가능성’ 기법을 자동화할 수 있음을 보여 준다면서도, 이것이 더 안전한 AI로 이어지리라는 기대는 “대체로 검증되지 않았다”고 말한다. 하버드대학교의 Marinka Zitnik은 이런 재프로그래밍이 실제 환경 시험에 앞서 모델의 오류를 찾아내는 데 도움이 될 수 있다고 말한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "機械学習が再確認した\nM87* ブラックホールの輪",
-          "body": "CSIROのチームがAIで事象の地平線望遠鏡の元データを再解析し、ほぼ同じリングを得た。",
-          "mini_headline": "AIがM87*画像を裏付け",
+          "headline": "AI整備士が他の神経網を\n読み解いて改修する",
+          "body": "MIT-ledのチームがGPT-6 Astraで他モデルの内部値から役割を予測し編集した。",
+          "mini_headline": "AI整備士が他のネットワークを編集",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-fuzy-organge-glowing.jpg",
-                "cap": "このEvent Horizon Telescope(事象の地平線望遠鏡)の画像は、近傍のおとめ座(Virgo)銀河団にある巨大銀河Messier 87の中心のブラックホールを捉えている。クレジット: Event Horizon Telescope Collaboration et al. 2019."
+                "src": "https://media.nature.com/lw767/magazine-assets/d41586-026-03679-8/d41586-026-03679-8_53974808.jpg",
+                "cap": "一部のAIモデルは整備士のように振る舞い、自ら設計しておらず完全には理解してもいない他のモデルの不具合を直す。Credit: Mint Images/Getty"
               },
               {
                 "t": "p",
-                "x": "オーストラリアの国立科学機関CSIROの四人のチームが、銀河M87の中心にあるブラックホールを写した2019年の画期的なEvent Horizon Telescope(EHT)画像を検証する、強力な新しい画像化手法を開発した。Natureに掲載されたこの手法は、較正誤差と主観的な画像処理判断の影響を抑える。"
+                "x": "研究者らはAIモデルを使って別のAIネットワークの内部構造を読み取り、手を加えることに成功した。AIの「ブラックボックス」をのぞく新たな手法となる。マサチューセッツ工科大学(MIT)のチームは、GPT-6 AstraというAIモデルが他の一部モデルの生の内部値を解釈し、システムの各部分の働きを予測できることを示した。さらにモデルを編集して性能を高めることもでき、数学能力の向上もその一つだ。著者らは11月2日にプレプリントで成果を報告した。"
               },
               {
                 "t": "p",
-                "x": "筆頭著者のSamuel Lai博士は「私たちオーストラリアの小さなチームは、ブラックホールの構造に関する情報を捉え、大気の干渉を取り除く高度な機械学習と人工知能の手法を開発した」と語った。「元のEvent Horizon Telescopeのデータセットに適用すると、歴史的なEHT画像と大きさも形もほぼ同じブラックホールが現れた。重要なのは、M87のデータに適用した時点で、私たちのモデルはブラックホールがどう見えるかをまったく知らなかったことだ」"
+                "x": "共著者のRikiya Takehiは、フロンティアAIモデルはニューラルネットワークを読み、推論し、変更できるファイルのように扱う能力について「初期の兆しを見せている」と語る。今回の結果は、OpenAIが開発したAstraが特定のAIネットワークの仕組みを説明・理解できることを意味しない。ただし汎用モデルが、自ら設計しておらず完全には理解してもいないエンジンを直す整備士のように、ネットワークを有用な形で修正できる可能性を示している。"
               },
               {
                 "t": "p",
-                "x": "プロジェクトリーダーのNithyanandan Thyagarajan博士は「私たちの手法は、そうした誤差を除くため、標準的な望遠鏡データの二つ組ではなく三つ組を組み合わせる」と述べた。この成果は、リングが画像再構成による人工物ではなく、本物の天体物理学的構造であるという確信を強めるものだ。"
-              },
-              {
-                "t": "p",
-                "x": "EHT Collaborationの責任者Laurent Loinard博士は、GenDIReCTを「洗練された完全に独立した手法で、数年にわたるM87*のリング構造を復元し、EHT Collaborationの公表結果と非常によく一致している」と評した。Thyagarajanは、この手法が医療画像や地震のマッピングの改善にも役立ちうると述べた。"
+                "x": "オックスフォード大学のFazl Barezは、このプレプリントは一部の「解釈可能性」手法を自動化できることを示すが、それがより安全なAIにつながるという期待は「ほぼ検証されていない」と言う。ハーバード大学のMarinka Zitnikは、こうした再プログラミングが実環境での試験前にモデルの誤りを見つける助けになり得ると述べる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "机器学习再次证实\nM87* 黑洞光环",
-          "body": "CSIRO团队用AI重新分析事件视界望远镜原始数据，得到几乎相同的黑洞光环。",
-          "mini_headline": "AI佐证M87*图像",
+          "headline": "AI当起“机修工”\n读改其他神经网络",
+          "body": "MIT-led团队用GPT-6 Astra读取其他模型内部数值，预测各部件功能并加以修改。",
+          "mini_headline": "AI机修工修改其他网络",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-fuzy-organge-glowing.jpg",
-                "cap": "这张Event Horizon Telescope（事件视界望远镜）图像显示了Messier 87中心的黑洞，Messier 87是邻近的室女座（Virgo）星系团中的一个大质量星系。图片来源：Event Horizon Telescope Collaboration et al. 2019."
+                "src": "https://media.nature.com/lw767/magazine-assets/d41586-026-03679-8/d41586-026-03679-8_53974808.jpg",
+                "cap": "一些AI模型像机修工一样，修复其他模型中的问题，而这些模型既非它们设计，它们也并未完全理解。Credit: Mint Images/Getty"
               },
               {
                 "t": "p",
-                "x": "澳大利亚国家科学机构CSIRO的一支四人团队开发出一种强大的新成像技术，验证了2019年Event Horizon Telescope（EHT）拍摄的星系M87中心黑洞这一里程碑式图像。该方法发表于Nature，可减少校准误差和主观图像处理决策带来的影响。"
+                "x": "研究人员利用一个人工智能模型读取并调整另一个AI网络的内部运作，为窥探AI“黑箱”提供了新途径。麻省理工学院（MIT）团队展示了名为GPT-6 Astra的AI模型能够解读其他一些模型的原始内部数值，足以预测系统各部分的功能。它随后还能编辑这些模型加以改进，包括提升其数学能力。作者于11月2日以预印本形式报告了这些发现。"
               },
               {
                 "t": "p",
-                "x": "第一作者Samuel Lai博士表示：“我们这支澳大利亚小团队开发了先进的机器学习和人工智能技术，用来捕捉黑洞结构信息并滤除大气干扰。”他说：“把它应用到最初的Event Horizon Telescope数据集时，我们得到的黑洞在大小和形状上与历史性的EHT图像几乎完全相同。重要的是，在处理M87数据时，我们的模型完全不知道黑洞长什么样。”"
+                "x": "合著者Rikiya Takehi表示，前沿AI模型正“显露初步火花”，能够把神经网络当作可读取、推理和修改的文件来处理。研究结果并不意味着OpenAI开发的Astra能够解释或理解某个AI网络如何运作，但表明通用模型或许能以有用的方式修改网络，就像机修工修理一台既非自己设计、也未完全理解的引擎。"
               },
               {
                 "t": "p",
-                "x": "项目负责人Nithyanandan Thyagarajan博士说：“我们的技术组合的是望远镜数据的三元组，而不是标准的二元组，从而消除这些误差。”这些发现进一步证明，光环是真实的天体物理特征，而非图像重建产生的假象。"
-              },
-              {
-                "t": "p",
-                "x": "EHT Collaboration负责人Laurent Loinard博士称，GenDIReCT“是一种优雅且完全独立的方法，复原了M87*多年来的光环结构，与EHT Collaboration已发表的结果高度一致”。Thyagarajan表示，这项技术还可用于改进医学成像和地震测绘。"
+                "x": "牛津大学的Fazl Barez表示，该预印本表明部分“可解释性”方法可以自动化，但借此实现更安全AI的希望“基本未经检验”。哈佛大学的Marinka Zitnik表示，这类重新编程有助于在实际测试之前发现模型中的错误。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El aprendizaje automático\nreconfirma el anillo de M87*",
-          "body": "Un equipo de CSIRO reanalizó con AI los datos originales del Event Horizon Telescope y halló un anillo casi idéntico.",
-          "mini_headline": "La AI respalda la imagen de M87*",
+          "headline": "Un mecánico de IA lee y edita\notras redes neuronales",
+          "body": "Un equipo MIT-led usó GPT-6 Astra para leer valores internos de otros modelos, prever el rol de sus partes y editarlos.",
+          "mini_headline": "Un mecánico de IA edita otras redes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-fuzy-organge-glowing.jpg",
-                "cap": "Esta imagen del Event Horizon Telescope muestra el agujero negro en el centro de Messier 87, una galaxia masiva del cercano cúmulo de galaxias de Virgo. Crédito: Event Horizon Telescope Collaboration et al. 2019."
+                "src": "https://media.nature.com/lw767/magazine-assets/d41586-026-03679-8/d41586-026-03679-8_53974808.jpg",
+                "cap": "Algunos modelos de IA se comportan como mecánicos: corrigen fallos en otros modelos que no diseñaron ni comprenden del todo. Crédito: Mint Images/Getty"
               },
               {
                 "t": "p",
-                "x": "Un equipo de cuatro personas de CSIRO, la agencia científica nacional de Australia, ha desarrollado una nueva y potente técnica de imagen que validó la histórica imagen de 2019 del Event Horizon Telescope (EHT) del agujero negro en el centro de la galaxia M87. El método, publicado en Nature, reduce los efectos de los errores de calibración y de las decisiones subjetivas en el procesamiento de imágenes."
+                "x": "Un equipo de investigación ha utilizado un modelo de inteligencia artificial para leer y modificar el funcionamiento interno de otra red de IA, lo que ofrece una nueva forma de asomarse a la ‘caja negra’ de la IA. Un equipo MIT-led del Massachusetts Institute of Technology (MIT) ha demostrado que un modelo de IA llamado GPT-6 Astra puede interpretar los valores internos en bruto de algunos otros modelos lo bastante bien como para predecir qué hacen las distintas partes de los sistemas. Después puede editar los modelos para mejorarlos, por ejemplo aumentando sus capacidades matemáticas. Los autores publicaron sus resultados en una prepublicación el 2 de noviembre."
               },
               {
                 "t": "p",
-                "x": "“Nuestro pequeño equipo australiano desarrolló técnicas avanzadas de aprendizaje automático e inteligencia artificial para captar información sobre la estructura del agujero negro y filtrar la interferencia atmosférica”, afirmó el autor principal, el Dr. Samuel Lai. “Cuando la aplicamos al conjunto de datos original del Event Horizon Telescope, encontramos un agujero negro casi idéntico en tamaño y forma a la histórica imagen del EHT. Lo importante es que nuestro modelo no tenía idea de cómo era un agujero negro cuando lo aplicamos a los datos de M87”."
+                "x": "Los modelos de IA de frontera “muestran los primeros destellos” de una capacidad para tratar las redes neuronales como archivos que pueden leer, analizar y cambiar, afirma el coautor Rikiya Takehi. Los resultados no significan que Astra, desarrollado por OpenAI, pueda explicar o entender cómo funciona una red de IA concreta, pero sugieren que los modelos de propósito general podrían modificar una red de formas útiles, como un mecánico que repara un motor que no diseñó ni comprende del todo."
               },
               {
                 "t": "p",
-                "x": "El líder del proyecto, el Dr. Nithyanandan Thyagarajan, dijo: “Nuestra técnica combina tripletes en lugar de los pares estándar de datos de telescopio para eliminar esos errores”. Los hallazgos refuerzan la confianza en que el anillo es un rasgo astrofísico real y no un artefacto de la reconstrucción de la imagen."
-              },
-              {
-                "t": "p",
-                "x": "El director de la EHT Collaboration, el Dr. Laurent Loinard, dijo que GenDIReCT, “un método elegante y completamente independiente, recupera la estructura de anillo de M87* a lo largo de varios años, en excelente concordancia con los resultados publicados por la EHT Collaboration”. Thyagarajan señaló que la técnica también podría mejorar las imágenes médicas y la cartografía de terremotos."
+                "x": "Fazl Barez, de la University of Oxford, afirma que la prepublicación muestra que algunos métodos de ‘interpretabilidad’ pueden automatizarse, aunque la esperanza de que esto conduzca a una IA más segura está “en gran medida sin comprobar”. Marinka Zitnik, de Harvard, señala que esta reprogramación podría ayudar a detectar errores en un modelo antes de las pruebas en el mundo real."
               }
             ]
           }
@@ -325,15 +285,15 @@
       }
     },
     {
-      "id": "wharton-chatgpt-ideation-study",
+      "id": "deepmind-pardig-satweave",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI는 빨리 쓰지만\n시작은 사람이 해야",
-      "body": "ChatGPT로 285명의 집필이 36% 빨라졌지만 구상은 사람이 할 때 나았다.",
-      "mini_headline": "사람이 먼저, AI는 그다음",
+      "headline": "DeepMind가 AI\n기상모델 데이터 공개",
+      "body": "Google DeepMind가 기상모델용 PARDIG·SatWeave를 공개했다.",
+      "mini_headline": "DeepMind, 기상 데이터셋 공개",
       "tool": "Science",
-      "source": "Tech Xplore",
-      "url": "https://techxplore.com/news/2026-11-human-involvement-creative-task-ai.html",
+      "source": "Google DeepMind",
+      "url": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
@@ -341,203 +301,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/using-ai-for-creative.jpg",
-            "cap": "AI 없이 쓴 이야기와 세 가지 협업 설계로 ChatGPT와 함께 쓴 이야기의 장르별 비율. 출처: Kartik Hosanagar, Daehwan Ahn, Hosanagar & Ahn, PNAS Nexus (2026) 데이터 기반."
+            "src": "https://lh3.googleusercontent.com/EyHOPdy1RZC6ksZ50GThErLowPjtqkzgITH_CSP2Rh4UbsF4muddzfQ0id_Qro5VhuMNYIg9Sxk8ukt7gFVRbLsC4m47HUj07fAAGbhHm1se-h4N=w1440-h810-n-nu",
+            "cap": "서로 다른 기상·기후 데이터셋을 투명한 층으로 겹쳐 표현한 지구본 추상 3D 일러스트."
           },
           {
             "t": "p",
-            "x": "창작 과제에서 AI와 협업하는 여러 방식을 비교한 실험 연구 결과, 초기 창작 결정에 사람이 계속 관여하면 조직이 효율과 품질, 만족도 사이에서 균형을 잡기 쉬워진다."
+            "x": "Google DeepMind가 기상·수문·기후 애플리케이션 개발을 돕는 기반 데이터셋 두 가지, SatWeave와 PARDIG를 공개한다. 둘 다 최근 공개된 WeatherNext 3 모델을 발전시키는 데 핵심 역할을 했고, 과거 아카이브와 실시간 피드를 함께 제공한다."
           },
           {
             "t": "p",
-            "x": "Kartik Hosanagar와 Daehwan Ahn은 신기술 선택 과목 수강생 285명에게 1,000단어 분량의 이야기를 쓰게 했다. 다음 수업에서는 같은 학생들이 세 가지 방식 중 하나로 ChatGPT 3.5를 써서 이야기를 썼다. 연구 결과는 학술지 PNAS Nexus에 실렸다."
+            "x": "SatWeave는 GOES-East와 GOES-West, Meteosat, Himawari의 관측을 가시광·수증기·적외선 17개 채널에 걸쳐 합친 정지궤도 위성 영상의 전 지구 모자이크다. 매시간 갱신되는 덕분에 WeatherNext 3는 여섯 시간마다 갱신되는 분석 데이터로 초기화하는 모델과 달리 새 전 지구 예측을 내놓을 수 있다. 공개분에는 십 년 넘는 과거 아카이브도 들어 있다."
+          },
+          {
+            "t": "video",
+            "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/1JDTJ5D1fR_MbDBa/PARDIG_and_SatWeave__figure-3__mosaic_9620_nm_images.webm"
           },
           {
             "t": "p",
-            "x": "“Human Confirmation” 조건에서는 아이디어 구상부터 개요 작성, 초안 집필, 편집까지 모든 작업을 AI가 맡았고 사람은 결과물을 승인만 했다. “Human Creativity” 조건에서는 사람이 아이디어를 내고 이야기 콘셉트를 고른 뒤 개요를 짰고, 초안과 편집은 AI가 했다. “Copilot” 조건의 참가자는 창작 과정 어느 단계에서든 AI의 도움을 받을 수 있었다."
-          },
-          {
-            "t": "p",
-            "x": "AI의 도움을 받으면 이야기를 쓰는 속도가 36.2% 빨라졌다. 사람 독자들은 Human Confirmation 방식 이야기의 품질을 사람만 쓴 이야기보다 낮게 봤지만, Human Creativity와 Copilot 이야기는 둘 다 사람만 쓴 이야기보다 품질이 높다고 평가했다. 만족도 역시 Human Creativity와 Copilot 그룹이 더 높았다."
-          },
-          {
-            "t": "p",
-            "x": "참가자들은 AI가 쓴 이야기에 감정의 깊이와 독창성, 미묘함이 모자란다고 지적했다. 저자들은 협업을 어떻게 설계하느냐에 따라 AI 보조(AI-assisted) 작업에서 생산성과 창작 다양성, 사람의 만족도 사이의 상충 관계가 달라진다고 밝혔다."
+            "x": "PARDIG(Precipitation AI Reanalysis: Densely Inferred GPM)는 NASA의 GPM Core Observatory가 우주에서 모은 희소한 레이더 관측으로 학습했다. 약 다섯 시간 지연으로 15분, 약 10킬로미터 해상도의 전 지구 강수 데이터를 만든다. 약한 강수에서 보통 강수까지 시간별 강수 탐지 능력은 NASA의 IMERG-Final보다 30% 넘게 좋아졌다. 아카이브는 1999년부터 2026년까지를 담았고, Google Cloud Storage와 Google Earth Engine에서 누구나 쓸 수 있다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI writes faster, but humans\nshould start the story",
-          "body": "ChatGPT cut story-writing time 36% for 285 students, but stories were better when humans kept ideation and outlining.",
-          "mini_headline": "Humans first, then AI",
+          "headline": "DeepMind opens the data behind\nits AI weather models",
+          "body": "Google DeepMind released PARDIG and SatWeave, precipitation and satellite datasets used to train its weather models.",
+          "mini_headline": "DeepMind opens weather datasets",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/using-ai-for-creative.jpg",
-                "cap": "Share of stories in each genre when participants wrote without AI and when they wrote with ChatGPT under three collaboration designs. Credit: Kartik Hosanagar and Daehwan Ahn, from data in Hosanagar & Ahn, PNAS Nexus (2026)."
+                "src": "https://lh3.googleusercontent.com/EyHOPdy1RZC6ksZ50GThErLowPjtqkzgITH_CSP2Rh4UbsF4muddzfQ0id_Qro5VhuMNYIg9Sxk8ukt7gFVRbLsC4m47HUj07fAAGbhHm1se-h4N=w1440-h810-n-nu",
+                "cap": "Abstract 3D illustration of a globe segmented by layered transparent panes showing different weather and climate datasets."
               },
               {
                 "t": "p",
-                "x": "An experimental study of various ways of working with AI on a creative task finds that preserving human involvement in early creative decisions can help organizations balance efficiency, quality and satisfaction."
+                "x": "Google DeepMind is releasing two foundational datasets, SatWeave and PARDIG, to support building weather, hydrology, and climate applications. Both are key to the advances in its recently released WeatherNext 3 model, and historical archives and live feeds of both are being made available."
               },
               {
                 "t": "p",
-                "x": "Kartik Hosanagar and Daehwan Ahn asked 285 students in an elective course on emerging technologies to write a 1,000-word story. The next class period, the same students used ChatGPT 3.5 to write a story, using one of three approaches. The findings are published in the journal PNAS Nexus."
+                "x": "SatWeave is a global mosaic of geostationary satellite imagery, blending GOES-East and GOES-West, Meteosat and Himawari observations across 17 visible, water vapor, and infrared channels. It updates hourly, allowing WeatherNext 3 to produce new global predictions, in contrast to models initialized on analysis data refreshed every six hours; the release includes a historical archive spanning over a decade."
+              },
+              {
+                "t": "video",
+                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/1JDTJ5D1fR_MbDBa/PARDIG_and_SatWeave__figure-3__mosaic_9620_nm_images.webm"
               },
               {
                 "t": "p",
-                "x": "In the \"Human Confirmation\" condition, AI did all the work—coming up with ideas, outlining, drafting and editing—and the humans merely approved the outputs. In the \"Human Creativity\" condition, humans generated ideas, selected a story concept and outlined the story, and then AI drafted and edited the story. In the \"Copilot\" condition, participants could use AI support at any stage of the creative process."
-              },
-              {
-                "t": "p",
-                "x": "The stories were written 36.2% more quickly with AI help. When read by human readers, stories written with the Human Confirmation approach were rated as lower quality than human-only stories, but both Human Creativity and Copilot stories were rated as higher quality than human-only stories. The Human Creativity and Copilot groups also reported higher levels of satisfaction."
-              },
-              {
-                "t": "p",
-                "x": "Participants noted the AI stories lacked emotional depth, originality and nuance. According to the authors, collaboration design affects trade-offs among productivity, creative diversity and human satisfaction in AI-assisted work."
+                "x": "PARDIG (Precipitation AI Reanalysis: Densely Inferred GPM) is trained on sparse spaceborne radar observations from NASA's GPM Core Observatory, producing global precipitation at 15-minute and roughly 10-kilometer resolution with about five hours' latency. It improves hourly precipitation detection skill over NASA's IMERG-Final by more than 30% on light-to-moderate precipitation. Archives run from 1999 to 2026, openly available on Google Cloud Storage and in Google Earth Engine."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI는 빨리 쓰지만\n시작은 사람이 해야",
-          "body": "ChatGPT로 285명의 집필이 36% 빨라졌지만 구상은 사람이 할 때 나았다.",
-          "mini_headline": "사람이 먼저, AI는 그다음",
+          "headline": "DeepMind가 AI\n기상모델 데이터 공개",
+          "body": "Google DeepMind가 기상모델용 PARDIG·SatWeave를 공개했다.",
+          "mini_headline": "DeepMind, 기상 데이터셋 공개",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/using-ai-for-creative.jpg",
-                "cap": "AI 없이 쓴 이야기와 세 가지 협업 설계로 ChatGPT와 함께 쓴 이야기의 장르별 비율. 출처: Kartik Hosanagar, Daehwan Ahn, Hosanagar & Ahn, PNAS Nexus (2026) 데이터 기반."
+                "src": "https://lh3.googleusercontent.com/EyHOPdy1RZC6ksZ50GThErLowPjtqkzgITH_CSP2Rh4UbsF4muddzfQ0id_Qro5VhuMNYIg9Sxk8ukt7gFVRbLsC4m47HUj07fAAGbhHm1se-h4N=w1440-h810-n-nu",
+                "cap": "서로 다른 기상·기후 데이터셋을 투명한 층으로 겹쳐 표현한 지구본 추상 3D 일러스트."
               },
               {
                 "t": "p",
-                "x": "창작 과제에서 AI와 협업하는 여러 방식을 비교한 실험 연구 결과, 초기 창작 결정에 사람이 계속 관여하면 조직이 효율과 품질, 만족도 사이에서 균형을 잡기 쉬워진다."
+                "x": "Google DeepMind가 기상·수문·기후 애플리케이션 개발을 돕는 기반 데이터셋 두 가지, SatWeave와 PARDIG를 공개한다. 둘 다 최근 공개된 WeatherNext 3 모델을 발전시키는 데 핵심 역할을 했고, 과거 아카이브와 실시간 피드를 함께 제공한다."
               },
               {
                 "t": "p",
-                "x": "Kartik Hosanagar와 Daehwan Ahn은 신기술 선택 과목 수강생 285명에게 1,000단어 분량의 이야기를 쓰게 했다. 다음 수업에서는 같은 학생들이 세 가지 방식 중 하나로 ChatGPT 3.5를 써서 이야기를 썼다. 연구 결과는 학술지 PNAS Nexus에 실렸다."
+                "x": "SatWeave는 GOES-East와 GOES-West, Meteosat, Himawari의 관측을 가시광·수증기·적외선 17개 채널에 걸쳐 합친 정지궤도 위성 영상의 전 지구 모자이크다. 매시간 갱신되는 덕분에 WeatherNext 3는 여섯 시간마다 갱신되는 분석 데이터로 초기화하는 모델과 달리 새 전 지구 예측을 내놓을 수 있다. 공개분에는 십 년 넘는 과거 아카이브도 들어 있다."
+              },
+              {
+                "t": "video",
+                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/1JDTJ5D1fR_MbDBa/PARDIG_and_SatWeave__figure-3__mosaic_9620_nm_images.webm"
               },
               {
                 "t": "p",
-                "x": "“Human Confirmation” 조건에서는 아이디어 구상부터 개요 작성, 초안 집필, 편집까지 모든 작업을 AI가 맡았고 사람은 결과물을 승인만 했다. “Human Creativity” 조건에서는 사람이 아이디어를 내고 이야기 콘셉트를 고른 뒤 개요를 짰고, 초안과 편집은 AI가 했다. “Copilot” 조건의 참가자는 창작 과정 어느 단계에서든 AI의 도움을 받을 수 있었다."
-              },
-              {
-                "t": "p",
-                "x": "AI의 도움을 받으면 이야기를 쓰는 속도가 36.2% 빨라졌다. 사람 독자들은 Human Confirmation 방식 이야기의 품질을 사람만 쓴 이야기보다 낮게 봤지만, Human Creativity와 Copilot 이야기는 둘 다 사람만 쓴 이야기보다 품질이 높다고 평가했다. 만족도 역시 Human Creativity와 Copilot 그룹이 더 높았다."
-              },
-              {
-                "t": "p",
-                "x": "참가자들은 AI가 쓴 이야기에 감정의 깊이와 독창성, 미묘함이 모자란다고 지적했다. 저자들은 협업을 어떻게 설계하느냐에 따라 AI 보조(AI-assisted) 작업에서 생산성과 창작 다양성, 사람의 만족도 사이의 상충 관계가 달라진다고 밝혔다."
+                "x": "PARDIG(Precipitation AI Reanalysis: Densely Inferred GPM)는 NASA의 GPM Core Observatory가 우주에서 모은 희소한 레이더 관측으로 학습했다. 약 다섯 시간 지연으로 15분, 약 10킬로미터 해상도의 전 지구 강수 데이터를 만든다. 약한 강수에서 보통 강수까지 시간별 강수 탐지 능력은 NASA의 IMERG-Final보다 30% 넘게 좋아졌다. 아카이브는 1999년부터 2026년까지를 담았고, Google Cloud Storage와 Google Earth Engine에서 누구나 쓸 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIは速く書くが\n物語の起点は人間に",
-          "body": "ChatGPTで285人の執筆時間は36%減ったが、構想と骨子を人が担うと質が上がった。",
-          "mini_headline": "まず人間、次にAI",
+          "headline": "DeepMind、AI気象\nモデルの学習データ公開",
+          "body": "Google DeepMindが気象モデル用のPARDIGとSatWeaveを公開した。",
+          "mini_headline": "DeepMind、気象データセット公開",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/using-ai-for-creative.jpg",
-                "cap": "参加者がAIなしで書いた場合と、三種類の協働設計でChatGPTと書いた場合の、ジャンル別の物語の割合。クレジット: Kartik Hosanagar、Daehwan Ahn。Hosanagar & Ahn, PNAS Nexus (2026)のデータに基づく。"
+                "src": "https://lh3.googleusercontent.com/EyHOPdy1RZC6ksZ50GThErLowPjtqkzgITH_CSP2Rh4UbsF4muddzfQ0id_Qro5VhuMNYIg9Sxk8ukt7gFVRbLsC4m47HUj07fAAGbhHm1se-h4N=w1440-h810-n-nu",
+                "cap": "異なる気象・気候データセットを示す透明な層で区切られた地球儀の抽象的な3Dイラスト。"
               },
               {
                 "t": "p",
-                "x": "創作課題でAIと協働するさまざまな方法を比較した実験研究によると、初期の創作判断に人間の関与を残すことで、組織は効率、品質、満足度のバランスを取りやすくなる。"
+                "x": "Google DeepMindは、気象・水文・気候アプリケーションの構築を支援するため、二つの基盤データセットSatWeaveとPARDIGを公開する。いずれも最近発表したWeatherNext 3モデルの進歩の鍵であり、過去のアーカイブとライブフィードの両方が提供される。"
               },
               {
                 "t": "p",
-                "x": "Kartik HosanagarとDaehwan Ahnは、新興技術に関する選択科目の学生285人に1,000語の物語を書かせた。次の授業では、同じ学生が三つの方式のいずれかでChatGPT 3.5を使って物語を書いた。研究結果は学術誌PNAS Nexusに掲載された。"
+                "x": "SatWeaveは、GOES-EastとGOES-West、Meteosat、Himawariの観測を可視・水蒸気・赤外の17チャンネルにわたって統合した、静止衛星画像の全球モザイクだ。毎時更新されるため、六時間ごとに更新される解析データで初期化するモデルと異なり、WeatherNext 3は新たな全球予測を出せる。公開分には十年以上にわたる過去アーカイブが含まれる。"
+              },
+              {
+                "t": "video",
+                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/1JDTJ5D1fR_MbDBa/PARDIG_and_SatWeave__figure-3__mosaic_9620_nm_images.webm"
               },
               {
                 "t": "p",
-                "x": "「Human Confirmation」条件では、AIがアイデア出し、構成、下書き、編集のすべてを行い、人間は出力を承認するだけだった。「Human Creativity」条件では、人間がアイデアを出し、物語のコンセプトを選び、構成を作った後、AIが下書きと編集を担った。「Copilot」条件では、参加者は創作プロセスのどの段階でもAIの支援を受けられた。"
-              },
-              {
-                "t": "p",
-                "x": "AIの助けを借りると、物語は36.2%速く書き上がった。人間の読者が読むと、Human Confirmation方式の物語は人間だけで書いた物語より質が低いと評価されたが、Human CreativityとCopilotの物語はいずれも人間だけの物語より質が高いと評価された。Human CreativityとCopilotのグループは満足度も高かった。"
-              },
-              {
-                "t": "p",
-                "x": "参加者は、AIの物語には感情の深み、独創性、ニュアンスが欠けていると指摘した。著者らによれば、協働の設計は、AI支援(AI-assisted)の作業における生産性、創作の多様性、人間の満足度のトレードオフに影響する。"
+                "x": "PARDIG(Precipitation AI Reanalysis: Densely Inferred GPM)は、NASAのGPM Core Observatoryによる宇宙からの疎なレーダー観測で学習し、約五時間の遅延で15分・約10キロメートル解像度の全球降水量を生成する。弱い降水から中程度の降水では、毎時の降水検出能力がNASAのIMERG-Finalを30%超上回る。アーカイブは1999年から2026年までをカバーし、Google Cloud StorageとGoogle Earth Engineで公開されている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI写得更快\n但故事应由人开头",
-          "body": "ChatGPT让285名学生写作时间缩短36%，但由人构思和拟大纲时故事更好。",
-          "mini_headline": "先人后AI",
+          "headline": "DeepMind公开其AI\n天气模型背后的数据",
+          "body": "Google DeepMind发布训练天气模型所用的PARDIG和SatWeave数据集。",
+          "mini_headline": "DeepMind公开天气数据集",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/using-ai-for-creative.jpg",
-                "cap": "参与者在不使用AI写作，以及在三种协作设计下与ChatGPT一起写作时，各类型故事所占比例。图片来源：Kartik Hosanagar和Daehwan Ahn，数据来自Hosanagar & Ahn, PNAS Nexus (2026)。"
+                "src": "https://lh3.googleusercontent.com/EyHOPdy1RZC6ksZ50GThErLowPjtqkzgITH_CSP2Rh4UbsF4muddzfQ0id_Qro5VhuMNYIg9Sxk8ukt7gFVRbLsC4m47HUj07fAAGbhHm1se-h4N=w1440-h810-n-nu",
+                "cap": "抽象3D插图：一个地球仪被层层透明面板分割，展示不同的天气与气候数据集。"
               },
               {
                 "t": "p",
-                "x": "一项比较在创意任务中与AI协作的多种方式的实验研究发现，在早期创意决策中保留人的参与，有助于组织在效率、质量和满意度之间取得平衡。"
+                "x": "Google DeepMind正在发布两个基础数据集SatWeave和PARDIG，以支持天气、水文和气候应用的构建。二者都是其近期发布的WeatherNext 3模型取得进展的关键，两者的历史档案和实时数据流均已开放。"
               },
               {
                 "t": "p",
-                "x": "Kartik Hosanagar和Daehwan Ahn请一门新兴技术选修课上的285名学生写一篇1,000词的故事。下一节课上，同一批学生采用三种方式之一，借助ChatGPT 3.5写故事。研究结果发表在期刊PNAS Nexus上。"
+                "x": "SatWeave是由静止卫星图像拼接而成的全球镶嵌图，融合了GOES-East和GOES-West、Meteosat与Himawari在17个可见光、水汽和红外通道上的观测。它每小时更新一次，使WeatherNext 3能够生成新的全球预报，而以每六小时刷新的分析数据初始化的模型则做不到这一点；此次发布还包括跨越十余年的历史档案。"
+              },
+              {
+                "t": "video",
+                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/1JDTJ5D1fR_MbDBa/PARDIG_and_SatWeave__figure-3__mosaic_9620_nm_images.webm"
               },
               {
                 "t": "p",
-                "x": "在“Human Confirmation”条件下，AI包揽全部工作——构思、列大纲、起草和编辑——人只负责批准输出。在“Human Creativity”条件下，由人提出想法、选定故事概念并列出大纲，再由AI起草和编辑。在“Copilot”条件下，参与者可以在创作过程的任何阶段使用AI辅助。"
-              },
-              {
-                "t": "p",
-                "x": "在AI帮助下，故事的写作速度快了36.2%。由人类读者阅读后，采用Human Confirmation方式写成的故事被评为质量低于纯人工故事，而Human Creativity和Copilot的故事都被评为质量高于纯人工故事。Human Creativity和Copilot两组的满意度也更高。"
-              },
-              {
-                "t": "p",
-                "x": "参与者指出，AI写的故事缺乏情感深度、原创性和细腻之处。作者认为，协作设计会影响AI辅助（AI-assisted）工作中生产力、创意多样性和人的满意度之间的取舍。"
+                "x": "PARDIG（Precipitation AI Reanalysis: Densely Inferred GPM）以NASA的GPM Core Observatory获取的稀疏星载雷达观测进行训练，能以约五小时的延迟生成15分钟、约10公里分辨率的全球降水数据。在小到中等降水上，其逐小时降水探测能力比NASA的IMERG-Final提高了30%以上。档案覆盖1999年至2026年，可在Google Cloud Storage和Google Earth Engine上公开获取。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La AI escribe más rápido,\npero el inicio debe ser humano",
-          "body": "ChatGPT acortó un 36% la escritura de 285 estudiantes, pero los relatos mejoraron si los humanos idearon y esbozaron.",
-          "mini_headline": "Primero los humanos, luego la AI",
+          "headline": "DeepMind abre los datos de sus\nmodelos meteorológicos de IA",
+          "body": "Google DeepMind abrió PARDIG y SatWeave, datos de precipitación y satélite usados para entrenar sus modelos del tiempo.",
+          "mini_headline": "DeepMind abre sus datos meteorológicos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/using-ai-for-creative.jpg",
-                "cap": "Proporción de relatos de cada género cuando los participantes escribieron sin AI y cuando escribieron con ChatGPT bajo tres diseños de colaboración. Crédito: Kartik Hosanagar y Daehwan Ahn, a partir de datos de Hosanagar & Ahn, PNAS Nexus (2026)."
+                "src": "https://lh3.googleusercontent.com/EyHOPdy1RZC6ksZ50GThErLowPjtqkzgITH_CSP2Rh4UbsF4muddzfQ0id_Qro5VhuMNYIg9Sxk8ukt7gFVRbLsC4m47HUj07fAAGbhHm1se-h4N=w1440-h810-n-nu",
+                "cap": "Ilustración abstracta en 3D de un globo terráqueo segmentado por capas de paneles transparentes que muestran distintos conjuntos de datos meteorológicos y climáticos."
               },
               {
                 "t": "p",
-                "x": "Un estudio experimental sobre distintas formas de trabajar con AI en una tarea creativa concluye que preservar la participación humana en las primeras decisiones creativas puede ayudar a las organizaciones a equilibrar eficiencia, calidad y satisfacción."
+                "x": "Google DeepMind publica dos conjuntos de datos fundamentales, SatWeave y PARDIG, para apoyar el desarrollo de aplicaciones meteorológicas, hidrológicas y climáticas. Ambos son clave en los avances de su modelo WeatherNext 3, presentado recientemente, y se ponen a disposición tanto sus archivos históricos como sus flujos en directo."
               },
               {
                 "t": "p",
-                "x": "Kartik Hosanagar y Daehwan Ahn pidieron a 285 estudiantes de una asignatura optativa sobre tecnologías emergentes que escribieran un relato de 1,000 palabras. En la siguiente clase, los mismos estudiantes usaron ChatGPT 3.5 para escribir un relato con uno de tres enfoques. Los resultados se publicaron en la revista PNAS Nexus."
+                "x": "SatWeave es un mosaico global de imágenes de satélites geoestacionarios que combina observaciones de GOES-East y GOES-West, Meteosat y Himawari en 17 canales visibles, de vapor de agua e infrarrojos. Se actualiza cada hora, lo que permite a WeatherNext 3 generar nuevas predicciones globales, a diferencia de los modelos inicializados con datos de análisis que se renuevan cada seis horas; la publicación incluye un archivo histórico de más de una década."
+              },
+              {
+                "t": "video",
+                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/1JDTJ5D1fR_MbDBa/PARDIG_and_SatWeave__figure-3__mosaic_9620_nm_images.webm"
               },
               {
                 "t": "p",
-                "x": "En la condición “Human Confirmation”, la AI hizo todo el trabajo —generar ideas, esbozar, redactar y editar— y los humanos solo aprobaron los resultados. En la condición “Human Creativity”, los humanos generaron ideas, eligieron un concepto y esbozaron el relato, y después la AI lo redactó y editó. En la condición “Copilot”, los participantes podían usar el apoyo de la AI en cualquier etapa del proceso creativo."
-              },
-              {
-                "t": "p",
-                "x": "Con ayuda de la AI, los relatos se escribieron un 36.2% más rápido. Al ser leídos por lectores humanos, los relatos escritos con el enfoque Human Confirmation se calificaron con menor calidad que los escritos solo por humanos, pero tanto los de Human Creativity como los de Copilot se calificaron con mayor calidad que los solo humanos. Los grupos Human Creativity y Copilot también declararon mayores niveles de satisfacción."
-              },
-              {
-                "t": "p",
-                "x": "Los participantes señalaron que los relatos de la AI carecían de profundidad emocional, originalidad y matices. Según los autores, el diseño de la colaboración influye en los equilibrios entre productividad, diversidad creativa y satisfacción humana en el trabajo AI-assisted."
+                "x": "PARDIG (Precipitation AI Reanalysis: Densely Inferred GPM) se entrena con observaciones dispersas del radar espacial del GPM Core Observatory de la NASA y produce datos globales de precipitación con una resolución de 15 minutos y unos 10 kilómetros, con una latencia de unas cinco horas. Mejora en más de un 30% la capacidad de detección horaria de precipitación frente al IMERG-Final de la NASA en precipitaciones de ligeras a moderadas. Los archivos abarcan de 1999 a 2026 y están disponibles en abierto en Google Cloud Storage y en Google Earth Engine."
               }
             ]
           }
@@ -545,141 +481,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI는 빨리 쓰지만\n시작은 사람이 해야",
-          "body": "ChatGPT는 285명의 집필을 36% 단축했지만 구상을 사람이 맡을 때 나았다.",
-          "mini_headline": "사람이 먼저, AI는 그다음",
+          "headline": "DeepMind가 AI\n기상모델 데이터 공개",
+          "body": "Google DeepMind가 기상모델용 PARDIG·SatWeave를 공개했다.",
+          "mini_headline": "DeepMind, 기상 데이터셋 공개",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/using-ai-for-creative.jpg",
-                "cap": "참가자들이 AI 없이 쓴 경우와 세 가지 협업 설계로 ChatGPT와 함께 쓴 경우의 장르별 이야기 비율. 출처: Kartik Hosanagar, Daehwan Ahn, Hosanagar & Ahn, PNAS Nexus (2026) 데이터 기반."
+                "src": "https://lh3.googleusercontent.com/EyHOPdy1RZC6ksZ50GThErLowPjtqkzgITH_CSP2Rh4UbsF4muddzfQ0id_Qro5VhuMNYIg9Sxk8ukt7gFVRbLsC4m47HUj07fAAGbhHm1se-h4N=w1440-h810-n-nu",
+                "cap": "서로 다른 기상·기후 데이터셋을 보여 주는 투명한 층으로 나뉜 지구본의 추상적 3D 일러스트."
               },
               {
                 "t": "p",
-                "x": "창작 과제에서 AI와 일하는 여러 방식을 비교한 실험 연구에 따르면, 초기 창작 결정에 사람의 참여를 유지하면 조직이 효율과 품질, 만족도 사이의 균형을 잡는 데 도움이 된다."
+                "x": "Google DeepMind가 기상·수문·기후 애플리케이션 구축을 돕기 위해 두 가지 기반 데이터셋 SatWeave와 PARDIG를 공개한다. 두 데이터셋은 최근 공개한 WeatherNext 3 모델의 발전에 핵심 역할을 했으며, 과거 아카이브와 실시간 피드가 함께 제공된다."
               },
               {
                 "t": "p",
-                "x": "Kartik Hosanagar와 Daehwan Ahn은 신기술 선택 과목을 듣는 학생 285명에게 1,000단어 분량의 이야기를 쓰게 했다. 다음 수업 시간에는 같은 학생들이 세 가지 방식 중 하나로 ChatGPT 3.5를 써서 이야기를 썼다. 연구 결과는 학술지 PNAS Nexus에 실렸다."
+                "x": "SatWeave는 GOES-East와 GOES-West, Meteosat, Himawari의 관측을 가시광·수증기·적외선 17개 채널에 걸쳐 결합한 정지궤도 위성 영상의 전 지구 모자이크다. 매시간 갱신되므로, 여섯 시간마다 갱신되는 분석 데이터로 초기화하는 모델과 달리 WeatherNext 3가 새로운 전 지구 예측을 내놓을 수 있다. 공개분에는 십 년이 넘는 과거 아카이브가 포함된다."
+              },
+              {
+                "t": "video",
+                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/1JDTJ5D1fR_MbDBa/PARDIG_and_SatWeave__figure-3__mosaic_9620_nm_images.webm"
               },
               {
                 "t": "p",
-                "x": "“Human Confirmation” 조건에서는 AI가 아이디어 구상, 개요 작성, 초안 집필, 편집까지 모든 작업을 맡았고 사람은 결과물을 승인하기만 했다. “Human Creativity” 조건에서는 사람이 아이디어를 내고 이야기 콘셉트를 고른 뒤 개요를 짰고, 이후 AI가 초안을 쓰고 편집했다. “Copilot” 조건에서는 참가자가 창작 과정의 어느 단계에서든 AI의 도움을 받을 수 있었다."
-              },
-              {
-                "t": "p",
-                "x": "AI의 도움을 받으면 이야기를 36.2% 더 빨리 썼다. 사람 독자가 읽었을 때 Human Confirmation 방식의 이야기는 사람만 쓴 이야기보다 품질이 낮다는 평가를 받았지만, Human Creativity와 Copilot 이야기는 모두 사람만 쓴 이야기보다 품질이 높다는 평가를 받았다. Human Creativity와 Copilot 그룹은 만족도도 더 높았다."
-              },
-              {
-                "t": "p",
-                "x": "참가자들은 AI가 쓴 이야기에 감정적 깊이와 독창성, 미묘함이 부족하다고 지적했다. 저자들은 협업 설계가 AI 보조(AI-assisted) 작업에서 생산성과 창작 다양성, 사람의 만족도 사이의 상충 관계에 영향을 준다고 밝혔다."
+                "x": "PARDIG(Precipitation AI Reanalysis: Densely Inferred GPM)는 NASA의 GPM Core Observatory가 우주에서 수집한 희소한 레이더 관측으로 학습했으며, 약 다섯 시간의 지연으로 15분, 약 10킬로미터 해상도의 전 지구 강수 데이터를 생성한다. 약한 강수부터 보통 강수까지에서 시간별 강수 탐지 능력이 NASA의 IMERG-Final보다 30% 넘게 향상됐다. 아카이브는 1999년부터 2026년까지이며, Google Cloud Storage와 Google Earth Engine에서 공개적으로 이용할 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIは速く書くが\n物語の起点は人間に",
-          "body": "ChatGPTで285人の執筆時間は36%減ったが、構想と骨子を人が担うと質が上がった。",
-          "mini_headline": "まず人間、次にAI",
+          "headline": "DeepMind、AI気象\nモデルの学習データ公開",
+          "body": "Google DeepMindが気象モデル用のPARDIGとSatWeaveを公開した。",
+          "mini_headline": "DeepMind、気象データセット公開",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/using-ai-for-creative.jpg",
-                "cap": "参加者がAIなしで書いた場合と、三種類の協働設計でChatGPTと書いた場合の、ジャンル別の物語の割合。クレジット: Kartik Hosanagar、Daehwan Ahn。Hosanagar & Ahn, PNAS Nexus (2026)のデータに基づく。"
+                "src": "https://lh3.googleusercontent.com/EyHOPdy1RZC6ksZ50GThErLowPjtqkzgITH_CSP2Rh4UbsF4muddzfQ0id_Qro5VhuMNYIg9Sxk8ukt7gFVRbLsC4m47HUj07fAAGbhHm1se-h4N=w1440-h810-n-nu",
+                "cap": "異なる気象・気候データセットを示す透明な層で区切られた地球儀の抽象的な3Dイラスト。"
               },
               {
                 "t": "p",
-                "x": "創作課題でAIと協働するさまざまな方法を比較した実験研究によると、初期の創作判断に人間の関与を残すことで、組織は効率、品質、満足度のバランスを取りやすくなる。"
+                "x": "Google DeepMindは、気象・水文・気候アプリケーションの構築を支援するため、二つの基盤データセットSatWeaveとPARDIGを公開する。いずれも最近発表したWeatherNext 3モデルの進歩の鍵であり、過去のアーカイブとライブフィードの両方が提供される。"
               },
               {
                 "t": "p",
-                "x": "Kartik HosanagarとDaehwan Ahnは、新興技術に関する選択科目の学生285人に1,000語の物語を書かせた。次の授業では、同じ学生が三つの方式のいずれかでChatGPT 3.5を使って物語を書いた。研究結果は学術誌PNAS Nexusに掲載された。"
+                "x": "SatWeaveは、GOES-EastとGOES-West、Meteosat、Himawariの観測を可視・水蒸気・赤外の17チャンネルにわたって統合した、静止衛星画像の全球モザイクだ。毎時更新されるため、六時間ごとに更新される解析データで初期化するモデルと異なり、WeatherNext 3は新たな全球予測を出せる。公開分には十年以上にわたる過去アーカイブが含まれる。"
+              },
+              {
+                "t": "video",
+                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/1JDTJ5D1fR_MbDBa/PARDIG_and_SatWeave__figure-3__mosaic_9620_nm_images.webm"
               },
               {
                 "t": "p",
-                "x": "「Human Confirmation」条件では、AIがアイデア出し、構成、下書き、編集のすべてを行い、人間は出力を承認するだけだった。「Human Creativity」条件では、人間がアイデアを出し、物語のコンセプトを選び、構成を作った後、AIが下書きと編集を担った。「Copilot」条件では、参加者は創作プロセスのどの段階でもAIの支援を受けられた。"
-              },
-              {
-                "t": "p",
-                "x": "AIの助けを借りると、物語は36.2%速く書き上がった。人間の読者が読むと、Human Confirmation方式の物語は人間だけで書いた物語より質が低いと評価されたが、Human CreativityとCopilotの物語はいずれも人間だけの物語より質が高いと評価された。Human CreativityとCopilotのグループは満足度も高かった。"
-              },
-              {
-                "t": "p",
-                "x": "参加者は、AIの物語には感情の深み、独創性、ニュアンスが欠けていると指摘した。著者らによれば、協働の設計は、AI支援(AI-assisted)の作業における生産性、創作の多様性、人間の満足度のトレードオフに影響する。"
+                "x": "PARDIG(Precipitation AI Reanalysis: Densely Inferred GPM)は、NASAのGPM Core Observatoryによる宇宙からの疎なレーダー観測で学習し、約五時間の遅延で15分・約10キロメートル解像度の全球降水量を生成する。弱い降水から中程度の降水では、毎時の降水検出能力がNASAのIMERG-Finalを30%超上回る。アーカイブは1999年から2026年までをカバーし、Google Cloud StorageとGoogle Earth Engineで公開されている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI写得更快\n但故事应由人开头",
-          "body": "ChatGPT让285名学生写作时间缩短36%，但由人构思和拟大纲时故事更好。",
-          "mini_headline": "先人后AI",
+          "headline": "DeepMind公开其AI\n天气模型背后的数据",
+          "body": "Google DeepMind发布训练天气模型所用的PARDIG和SatWeave数据集。",
+          "mini_headline": "DeepMind公开天气数据集",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/using-ai-for-creative.jpg",
-                "cap": "参与者在不使用AI写作，以及在三种协作设计下与ChatGPT一起写作时，各类型故事所占比例。图片来源：Kartik Hosanagar和Daehwan Ahn，数据来自Hosanagar & Ahn, PNAS Nexus (2026)。"
+                "src": "https://lh3.googleusercontent.com/EyHOPdy1RZC6ksZ50GThErLowPjtqkzgITH_CSP2Rh4UbsF4muddzfQ0id_Qro5VhuMNYIg9Sxk8ukt7gFVRbLsC4m47HUj07fAAGbhHm1se-h4N=w1440-h810-n-nu",
+                "cap": "抽象3D插图：一个地球仪被层层透明面板分割，展示不同的天气与气候数据集。"
               },
               {
                 "t": "p",
-                "x": "一项比较在创意任务中与AI协作的多种方式的实验研究发现，在早期创意决策中保留人的参与，有助于组织在效率、质量和满意度之间取得平衡。"
+                "x": "Google DeepMind正在发布两个基础数据集SatWeave和PARDIG，以支持天气、水文和气候应用的构建。二者都是其近期发布的WeatherNext 3模型取得进展的关键，两者的历史档案和实时数据流均已开放。"
               },
               {
                 "t": "p",
-                "x": "Kartik Hosanagar和Daehwan Ahn请一门新兴技术选修课上的285名学生写一篇1,000词的故事。下一节课上，同一批学生采用三种方式之一，借助ChatGPT 3.5写故事。研究结果发表在期刊PNAS Nexus上。"
+                "x": "SatWeave是由静止卫星图像拼接而成的全球镶嵌图，融合了GOES-East和GOES-West、Meteosat与Himawari在17个可见光、水汽和红外通道上的观测。它每小时更新一次，使WeatherNext 3能够生成新的全球预报，而以每六小时刷新的分析数据初始化的模型则做不到这一点；此次发布还包括跨越十余年的历史档案。"
+              },
+              {
+                "t": "video",
+                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/1JDTJ5D1fR_MbDBa/PARDIG_and_SatWeave__figure-3__mosaic_9620_nm_images.webm"
               },
               {
                 "t": "p",
-                "x": "在“Human Confirmation”条件下，AI包揽全部工作——构思、列大纲、起草和编辑——人只负责批准输出。在“Human Creativity”条件下，由人提出想法、选定故事概念并列出大纲，再由AI起草和编辑。在“Copilot”条件下，参与者可以在创作过程的任何阶段使用AI辅助。"
-              },
-              {
-                "t": "p",
-                "x": "在AI帮助下，故事的写作速度快了36.2%。由人类读者阅读后，采用Human Confirmation方式写成的故事被评为质量低于纯人工故事，而Human Creativity和Copilot的故事都被评为质量高于纯人工故事。Human Creativity和Copilot两组的满意度也更高。"
-              },
-              {
-                "t": "p",
-                "x": "参与者指出，AI写的故事缺乏情感深度、原创性和细腻之处。作者认为，协作设计会影响AI辅助（AI-assisted）工作中生产力、创意多样性和人的满意度之间的取舍。"
+                "x": "PARDIG（Precipitation AI Reanalysis: Densely Inferred GPM）以NASA的GPM Core Observatory获取的稀疏星载雷达观测进行训练，能以约五小时的延迟生成15分钟、约10公里分辨率的全球降水数据。在小到中等降水上，其逐小时降水探测能力比NASA的IMERG-Final提高了30%以上。档案覆盖1999年至2026年，可在Google Cloud Storage和Google Earth Engine上公开获取。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La AI escribe más rápido,\npero el inicio debe ser humano",
-          "body": "ChatGPT acortó un 36% la escritura de 285 estudiantes, pero los relatos mejoraron si los humanos idearon y esbozaron.",
-          "mini_headline": "Primero los humanos, luego la AI",
+          "headline": "DeepMind abre los datos de sus\nmodelos meteorológicos de IA",
+          "body": "Google DeepMind abrió PARDIG y SatWeave, datos de precipitación y satélite usados para entrenar sus modelos del tiempo.",
+          "mini_headline": "DeepMind abre sus datos meteorológicos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/using-ai-for-creative.jpg",
-                "cap": "Proporción de relatos de cada género cuando los participantes escribieron sin AI y cuando escribieron con ChatGPT bajo tres diseños de colaboración. Crédito: Kartik Hosanagar y Daehwan Ahn, a partir de datos de Hosanagar & Ahn, PNAS Nexus (2026)."
+                "src": "https://lh3.googleusercontent.com/EyHOPdy1RZC6ksZ50GThErLowPjtqkzgITH_CSP2Rh4UbsF4muddzfQ0id_Qro5VhuMNYIg9Sxk8ukt7gFVRbLsC4m47HUj07fAAGbhHm1se-h4N=w1440-h810-n-nu",
+                "cap": "Ilustración abstracta en 3D de un globo terráqueo segmentado por capas de paneles transparentes que muestran distintos conjuntos de datos meteorológicos y climáticos."
               },
               {
                 "t": "p",
-                "x": "Un estudio experimental sobre distintas formas de trabajar con AI en una tarea creativa concluye que preservar la participación humana en las primeras decisiones creativas puede ayudar a las organizaciones a equilibrar eficiencia, calidad y satisfacción."
+                "x": "Google DeepMind publica dos conjuntos de datos fundamentales, SatWeave y PARDIG, para apoyar el desarrollo de aplicaciones meteorológicas, hidrológicas y climáticas. Ambos son clave en los avances de su modelo WeatherNext 3, presentado recientemente, y se ponen a disposición tanto sus archivos históricos como sus flujos en directo."
               },
               {
                 "t": "p",
-                "x": "Kartik Hosanagar y Daehwan Ahn pidieron a 285 estudiantes de una asignatura optativa sobre tecnologías emergentes que escribieran un relato de 1,000 palabras. En la siguiente clase, los mismos estudiantes usaron ChatGPT 3.5 para escribir un relato con uno de tres enfoques. Los resultados se publicaron en la revista PNAS Nexus."
+                "x": "SatWeave es un mosaico global de imágenes de satélites geoestacionarios que combina observaciones de GOES-East y GOES-West, Meteosat y Himawari en 17 canales visibles, de vapor de agua e infrarrojos. Se actualiza cada hora, lo que permite a WeatherNext 3 generar nuevas predicciones globales, a diferencia de los modelos inicializados con datos de análisis que se renuevan cada seis horas; la publicación incluye un archivo histórico de más de una década."
+              },
+              {
+                "t": "video",
+                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/1JDTJ5D1fR_MbDBa/PARDIG_and_SatWeave__figure-3__mosaic_9620_nm_images.webm"
               },
               {
                 "t": "p",
-                "x": "En la condición “Human Confirmation”, la AI hizo todo el trabajo —generar ideas, esbozar, redactar y editar— y los humanos solo aprobaron los resultados. En la condición “Human Creativity”, los humanos generaron ideas, eligieron un concepto y esbozaron el relato, y después la AI lo redactó y editó. En la condición “Copilot”, los participantes podían usar el apoyo de la AI en cualquier etapa del proceso creativo."
-              },
-              {
-                "t": "p",
-                "x": "Con ayuda de la AI, los relatos se escribieron un 36.2% más rápido. Al ser leídos por lectores humanos, los relatos escritos con el enfoque Human Confirmation se calificaron con menor calidad que los escritos solo por humanos, pero tanto los de Human Creativity como los de Copilot se calificaron con mayor calidad que los solo humanos. Los grupos Human Creativity y Copilot también declararon mayores niveles de satisfacción."
-              },
-              {
-                "t": "p",
-                "x": "Los participantes señalaron que los relatos de la AI carecían de profundidad emocional, originalidad y matices. Según los autores, el diseño de la colaboración influye en los equilibrios entre productividad, diversidad creativa y satisfacción humana en el trabajo AI-assisted."
+                "x": "PARDIG (Precipitation AI Reanalysis: Densely Inferred GPM) se entrena con observaciones dispersas del radar espacial del GPM Core Observatory de la NASA y produce datos globales de precipitación con una resolución de 15 minutos y unos 10 kilómetros, con una latencia de unas cinco horas. Mejora en más de un 30% la capacidad de detección horaria de precipitación frente al IMERG-Final de la NASA en precipitaciones de ligeras a moderadas. Los archivos abarcan de 1999 a 2026 y están disponibles en abierto en Google Cloud Storage y en Google Earth Engine."
               }
             ]
           }
@@ -687,15 +607,15 @@
       }
     },
     {
-      "id": "harvard-ai-peer-review-blind",
+      "id": "codex-collider-amplitudes",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI 동료평가, 블라인드\n테스트서 전문가 앞서",
-      "body": "블라인드 평가서 전직 편집자와 AI 심판은 대개 AI-written 리뷰를 골랐다.",
-      "mini_headline": "블라인드 테스트에서 이긴 AI 동료평가",
+      "headline": "코딩 에이전트, 더 빠른\n충돌기 물리 코드 탐색",
+      "body": "Codex-driven 탐색으로 시드보다 약 805배 빠른 진폭 코드를 얻었다.",
+      "mini_headline": "에이전트로 충돌기 코드 가속",
       "tool": "Science",
-      "source": "PsyPost",
-      "url": "https://www.psypost.org/ai-written-peer-reviews-outscored-top-human-experts-in-blind-comparisons-harvard-working-paper-finds/",
+      "source": "Physics World",
+      "url": "https://physicsworld.com/a/ai-agents-act-as-search-tool-for-more-efficient-collider-physics-calculations/",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
@@ -703,179 +623,155 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.psypost.org/wp-content/uploads/2026/04/artificial-intelligence4.jpg",
-            "cap": ""
+            "src": "https://physicsworld.com/wp-content/uploads/2026/11/13-11-26-particle-collision-cern-635x358.jpg",
+            "cap": "2012년 CMS 검출기에 기록된 이 충돌처럼, 고에너지 입자 충돌을 분석하는 알고리즘을 만드는 데 대규모 언어 모델이 새 길이 될 수 있다. (Courtesy: © CERN)"
           },
           {
             "t": "p",
-            "x": "Harvard의 Gary King과 Steven Worthington이 쓴 워킹페이퍼에 따르면, AI 모델과 전직 학술지 편집자가 판정한 블라인드 비교에서 AI가 쓴(AI-written) 미발표 논문 동료평가가 대부분의 대결을 이겼다. 잘못된 주장의 비율도 약 삼분의 일 수준이었다. 이 논문은 아직 동료평가를 거치지 않았다."
+            "x": "케임브리지대학교의 Yi Gu와 Sven Krippendorf는 아직 동료 심사를 거치지 않은 arXiv 프리프린트에서 LLMs를 트리 수준 산란 진폭의 새 알고리즘을 찾는 탐색 도구로 쓸 수 있다는 개념 증명을 내놓았다. OpenAI의 Codex가 후보 프로그램을 내면 테스트 프로그램이 정확성과 효율을 따지고, LLM이 다시 새 후보를 낸다. 스스로 진화하는 탐색 구조다."
           },
           {
             "t": "p",
-            "x": "사람 쪽 기준은 외부 전문가에게 넉넉한 보수를 주는 Harvard의 투고 전 검토 서비스 rapidPeer에서 가져왔다. 2019년부터 2026년까지 모인 원고 124편과 사람 리뷰 134건이다. 원고마다 Anthropic의 Claude Opus 4.8이 리뷰를 쓰고 OpenAI의 GPT-5.5가 별도 AI 심판을 맡았다. 주요 학술지 전직 편집자 세 명은 무작위로 고른 10쌍을 판정했다."
+            "x": "연구진이 시험한 목표는 스케일링, 구조, 복잡도 세 가지다. 모든 목표에서 시드 코드보다 빠른 챔피언이 나왔다. 스케일링을 최적화하자 입자 수에 따라 비용이 선형으로 늘어나는 형식론이 나왔는데, 시드보다 805배 빨랐다. 복잡도 시험에서는 연산 횟수가 48배 줄었다. 다만 이 가운데 새로운 기법은 없었다."
           },
           {
             "t": "p",
-            "x": "AI 심판은 판정이 난 쌍의 100%(132쌍 중 132쌍)에서 AI 리뷰를 택했고, 블라인드 상태의 전직 편집자들도 판정의 87%(30건 중 26건)에서 AI 리뷰를 골랐다. 웹 검색이 가능한(Web-enabled) AI 리뷰에서는 조작된 출처가 하나도 나오지 않았고, 틀린 것으로 판정된 주장은 5.5%였다. 사람 리뷰는 15.9%였다."
-          },
-          {
-            "t": "p",
-            "x": "외부 전문가들은 이 연구가 잰 것은 건설적 피드백의 품질이지, 어떤 논문이 게재될 만한지 AI가 판단할 수 있는지가 아니라고 짚었다. 저자들 역시 AI에 폭넓게 기대면 과학 문헌이 더 획일적으로 바뀔 수 있다고 경고한다."
+            "x": "Sherpa, MadGraph와 견주면 독립형 Python 프로토타입인 복잡도 챔피언은 외부 입자가 여섯 개일 때 둘보다 느렸다. 애초 목표는 AI-driven 탐색이 출발 알고리즘을 개선할 수 있는지 확인하는 것이었다. 기존 컴파일형 생성기를 이기려던 것은 아니며, 알고리즘도 표준 모형 전체를 다루지는 않는다. Krippendorf는 빠른 수치 검증이 가능한 과제라면 이 방법이 통한다고 말한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI peer reviews beat human\nexperts in blind tests",
-          "body": "In blind tests, former journal editors and an AI judge mostly preferred AI-written reviews to human experts' work.",
-          "mini_headline": "AI peer reviews win blind tests",
+          "headline": "Coding agents search for faster\ncollider physics code",
+          "body": "Codex-driven program search yielded amplitude code about 805 times faster than its seed in a Cambridge proof of concept.",
+          "mini_headline": "Agents speed up collider code",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.psypost.org/wp-content/uploads/2026/04/artificial-intelligence4.jpg",
-                "cap": ""
+                "src": "https://physicsworld.com/wp-content/uploads/2026/11/13-11-26-particle-collision-cern-635x358.jpg",
+                "cap": "Large language models could provide a new way to create algorithms for analysis of high-energy particle collisions, such as this one recorded with the CMS detector in 2012. (Courtesy: © CERN)"
               },
               {
                 "t": "p",
-                "x": "A working paper by Harvard's Gary King and Steven Worthington reports that in blind comparisons judged by an AI model and by former journal editors, AI-written peer reviews of unpublished papers won the large majority of matchups and contained about a third the rate of incorrect claims. The paper has not yet been peer reviewed."
+                "x": "Yi Gu and Sven Krippendorf at the University of Cambridge provide a proof-of-concept, in an arXiv preprint not yet peer-reviewed, that LLMs can be used as a search tool for new algorithms for tree-level scattering amplitudes. OpenAI’s Codex proposes a candidate program, a test program evaluates it on correctness and efficiency, and the LLM proposes a new candidate — a self-evolving search."
               },
               {
                 "t": "p",
-                "x": "The human benchmark came from rapidPeer, a Harvard pre-submission service that pays outside experts well: 124 manuscripts and 134 human reviews collected between 2019 and 2026. For each manuscript, Anthropic's Claude Opus 4.8 wrote a review; OpenAI's GPT-5.5 served as a separate AI judge, and three former editors of leading journals judged 10 randomly selected pairs."
+                "x": "Three objectives were tested: scaling, structure and complexity. Each produced a champion faster than the seeded code. Optimizing for scaling found a formalism whose costs grow linearly with particle number, 805 times faster than the seed; the complexity test cut the number of operations by a factor of 48. None of these techniques were novel."
               },
               {
                 "t": "p",
-                "x": "The AI judge preferred the AI review in 100% of decided pairs (132 out of 132), and the blinded former editors preferred it in 87% of their judgments (26 out of 30). Web-enabled AI reviews contained zero fabricated sources, and 5.5% of their claims were judged incorrect, versus 15.9% in the human reviews."
-              },
-              {
-                "t": "p",
-                "x": "Outside experts cautioned that the study measured the quality of constructive feedback, not whether AI can judge which papers merit publication, and the authors warn that widespread reliance on AI could make scientific literature more uniform."
+                "x": "Compared with Sherpa and MadGraph, the complexity champion — an independent Python prototype — was slower than both for six external particles. The aim was to test whether AI-driven search could improve a starting algorithm, not to outperform established compiled generators, and the algorithms do not cover the entire standard model. Krippendorf says the method works where a task has a fast numerical check."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI 동료평가, 블라인드\n테스트서 전문가 앞서",
-          "body": "블라인드 평가서 전직 편집자와 AI 심판은 대개 AI-written 리뷰를 골랐다.",
-          "mini_headline": "블라인드 테스트에서 이긴 AI 동료평가",
+          "headline": "코딩 에이전트, 더 빠른\n충돌기 물리 코드 탐색",
+          "body": "Codex-driven 탐색으로 시드보다 약 805배 빠른 진폭 코드를 얻었다.",
+          "mini_headline": "에이전트로 충돌기 코드 가속",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.psypost.org/wp-content/uploads/2026/04/artificial-intelligence4.jpg",
-                "cap": ""
+                "src": "https://physicsworld.com/wp-content/uploads/2026/11/13-11-26-particle-collision-cern-635x358.jpg",
+                "cap": "2012년 CMS 검출기에 기록된 이 충돌처럼, 고에너지 입자 충돌을 분석하는 알고리즘을 만드는 데 대규모 언어 모델이 새 길이 될 수 있다. (Courtesy: © CERN)"
               },
               {
                 "t": "p",
-                "x": "Harvard의 Gary King과 Steven Worthington이 쓴 워킹페이퍼에 따르면, AI 모델과 전직 학술지 편집자가 판정한 블라인드 비교에서 AI가 쓴(AI-written) 미발표 논문 동료평가가 대부분의 대결을 이겼다. 잘못된 주장의 비율도 약 삼분의 일 수준이었다. 이 논문은 아직 동료평가를 거치지 않았다."
+                "x": "케임브리지대학교의 Yi Gu와 Sven Krippendorf는 아직 동료 심사를 거치지 않은 arXiv 프리프린트에서 LLMs를 트리 수준 산란 진폭의 새 알고리즘을 찾는 탐색 도구로 쓸 수 있다는 개념 증명을 내놓았다. OpenAI의 Codex가 후보 프로그램을 내면 테스트 프로그램이 정확성과 효율을 따지고, LLM이 다시 새 후보를 낸다. 스스로 진화하는 탐색 구조다."
               },
               {
                 "t": "p",
-                "x": "사람 쪽 기준은 외부 전문가에게 넉넉한 보수를 주는 Harvard의 투고 전 검토 서비스 rapidPeer에서 가져왔다. 2019년부터 2026년까지 모인 원고 124편과 사람 리뷰 134건이다. 원고마다 Anthropic의 Claude Opus 4.8이 리뷰를 쓰고 OpenAI의 GPT-5.5가 별도 AI 심판을 맡았다. 주요 학술지 전직 편집자 세 명은 무작위로 고른 10쌍을 판정했다."
+                "x": "연구진이 시험한 목표는 스케일링, 구조, 복잡도 세 가지다. 모든 목표에서 시드 코드보다 빠른 챔피언이 나왔다. 스케일링을 최적화하자 입자 수에 따라 비용이 선형으로 늘어나는 형식론이 나왔는데, 시드보다 805배 빨랐다. 복잡도 시험에서는 연산 횟수가 48배 줄었다. 다만 이 가운데 새로운 기법은 없었다."
               },
               {
                 "t": "p",
-                "x": "AI 심판은 판정이 난 쌍의 100%(132쌍 중 132쌍)에서 AI 리뷰를 택했고, 블라인드 상태의 전직 편집자들도 판정의 87%(30건 중 26건)에서 AI 리뷰를 골랐다. 웹 검색이 가능한(Web-enabled) AI 리뷰에서는 조작된 출처가 하나도 나오지 않았고, 틀린 것으로 판정된 주장은 5.5%였다. 사람 리뷰는 15.9%였다."
-              },
-              {
-                "t": "p",
-                "x": "외부 전문가들은 이 연구가 잰 것은 건설적 피드백의 품질이지, 어떤 논문이 게재될 만한지 AI가 판단할 수 있는지가 아니라고 짚었다. 저자들 역시 AI에 폭넓게 기대면 과학 문헌이 더 획일적으로 바뀔 수 있다고 경고한다."
+                "x": "Sherpa, MadGraph와 견주면 독립형 Python 프로토타입인 복잡도 챔피언은 외부 입자가 여섯 개일 때 둘보다 느렸다. 애초 목표는 AI-driven 탐색이 출발 알고리즘을 개선할 수 있는지 확인하는 것이었다. 기존 컴파일형 생성기를 이기려던 것은 아니며, 알고리즘도 표준 모형 전체를 다루지는 않는다. Krippendorf는 빠른 수치 검증이 가능한 과제라면 이 방법이 통한다고 말한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI査読、ブラインド\n評価で専門家に勝る",
-          "body": "ブラインド評価で元編集者とAI審査役は専門家よりAI-writtenの査読を多く選んだ。",
-          "mini_headline": "AI査読、ブラインド評価で勝利",
+          "headline": "コーディングエージェントが\n加速器物理の高速コード探索",
+          "body": "ケンブリッジでCodex-drivenの探索が初期版より約805倍速い振幅コードを生んだ。",
+          "mini_headline": "エージェントが加速器コードを高速化",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.psypost.org/wp-content/uploads/2026/04/artificial-intelligence4.jpg",
-                "cap": ""
+                "src": "https://physicsworld.com/wp-content/uploads/2026/11/13-11-26-particle-collision-cern-635x358.jpg",
+                "cap": "大規模言語モデルは、2012年にCMS検出器で記録されたこの衝突のような高エネルギー粒子衝突を解析するアルゴリズムを生み出す新たな手段になり得る。(Courtesy: © CERN)"
               },
               {
                 "t": "p",
-                "x": "HarvardのGary KingとSteven Worthingtonによるワーキングペーパーは、AIモデルと元学術誌編集者が判定したブラインド比較で、未発表論文に対するAIが書いた(AI-written)査読が対戦の大半で勝ち、誤った主張の割合は約三分の一だったと報告している。この論文はまだ査読を経ていない。"
+                "x": "ケンブリッジ大学のYi GuとSven Krippendorfは、まだ査読を経ていないarXivプレプリントで、LLMsをツリーレベル散乱振幅の新たなアルゴリズムを探す探索ツールとして使えることを概念実証した。OpenAIのCodexが候補プログラムを提案し、テストプログラムが正確さと効率を評価し、LLMが新たな候補を提案する。自己進化型の探索である。"
               },
               {
                 "t": "p",
-                "x": "人間側の基準は、外部専門家に高い報酬を支払うHarvardの投稿前サービスrapidPeerから取った。2019年から2026年に集めた原稿124本と人間の査読134件である。各原稿についてAnthropicのClaude Opus 4.8が査読を書き、OpenAIのGPT-5.5が別のAI審査役を務め、主要学術誌の元編集者三人が無作為に選んだ10組を判定した。"
+                "x": "スケーリング、構造、複雑さの三つの目的が試された。いずれもシードコードより速いチャンピオンを生んだ。スケーリングの最適化では、コストが粒子数に比例して増える形式が見つかり、シードより805倍速かった。複雑さの試験では演算回数を48倍減らした。これらの手法に新規性はなかった。"
               },
               {
                 "t": "p",
-                "x": "AI審査役は判定がついた組の100%(132組中132組)でAIの査読を選び、ブラインド状態の元編集者は判定の87%(30件中26件)でAIの査読を選んだ。ウェブ検索を使える(Web-enabled)AI査読には捏造された出典がゼロで、主張の5.5%が誤りと判定された。人間の査読では15.9%だった。"
-              },
-              {
-                "t": "p",
-                "x": "外部の専門家は、この研究が測ったのは建設的なフィードバックの質であり、どの論文が掲載に値するかをAIが判断できるかではないと注意を促した。著者らも、AIへの広範な依存が科学文献をより画一的にしかねないと警告している。"
+                "x": "SherpaやMadGraphと比べると、独立したPythonプロトタイプである複雑さのチャンピオンは、外部粒子が六個の場合に両者より遅かった。狙いはAI-drivenの探索が出発点のアルゴリズムを改善できるかを試すことであり、確立したコンパイル型ジェネレーターを上回ることではなかった。またアルゴリズムは標準模型全体をカバーしていない。Krippendorfは、この手法は高速な数値チェックがある課題で機能すると話す。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI同行评审在盲测中\n胜过人类专家",
-          "body": "在盲测中，前期刊编辑和AI评审大多更青睐AI-written 评审，而非人类专家之作。",
-          "mini_headline": "AI同行评审赢得盲测",
+          "headline": "编程智能体搜寻更快的\n对撞机物理代码",
+          "body": "剑桥概念验证中，Codex-driven程序搜索得到比初始代码快约805倍的振幅代码。",
+          "mini_headline": "智能体加速对撞机代码",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.psypost.org/wp-content/uploads/2026/04/artificial-intelligence4.jpg",
-                "cap": ""
+                "src": "https://physicsworld.com/wp-content/uploads/2026/11/13-11-26-particle-collision-cern-635x358.jpg",
+                "cap": "大语言模型可能为分析高能粒子碰撞提供一种创建算法的新途径，例如2012年CMS探测器记录下的这次碰撞。(Courtesy: © CERN)"
               },
               {
                 "t": "p",
-                "x": "Harvard的Gary King和Steven Worthington在一篇工作论文中报告，在由AI模型和前期刊编辑评判的盲测比较中，针对未发表论文的AI撰写（AI-written）同行评审赢下了绝大多数对决，错误论断的比例约为人类评审的三分之一。该论文尚未经过同行评审。"
+                "x": "剑桥大学的Yi Gu和Sven Krippendorf在一篇尚未经同行评审的arXiv预印本中提供了概念验证，表明LLMs可用作搜索工具，寻找树图级散射振幅的新算法。OpenAI的Codex提出候选程序，测试程序评估其正确性和效率，再由LLM提出新的候选程序——这是一种自我演化的搜索。"
               },
               {
                 "t": "p",
-                "x": "人类基准来自rapidPeer——Harvard一项向外部专家支付丰厚报酬的投稿前服务：2019年至2026年间收集的124份稿件和134份人类评审。每份稿件由Anthropic的Claude Opus 4.8撰写评审；OpenAI的GPT-5.5担任独立的AI评委，三位顶级期刊前编辑评判了随机抽取的10组。"
+                "x": "研究测试了三个目标：扩展性、结构和复杂度。每个目标都产生了比初始代码更快的最优方案。针对扩展性的优化找到了一种成本随粒子数线性增长的形式体系，比初始代码快805倍；复杂度测试则使运算次数减少了48倍。这些技术都不新颖。"
               },
               {
                 "t": "p",
-                "x": "AI评委在已判定的组中100%（132组中的132组）偏好AI评审，处于盲测状态的前编辑在87%的判断中（30次中的26次）偏好AI评审。可联网（Web-enabled）的AI评审中虚构来源为零，5.5%的论断被判为错误，而人类评审为15.9%。"
-              },
-              {
-                "t": "p",
-                "x": "外部专家提醒，这项研究衡量的是建设性反馈的质量，而不是AI能否判断哪些论文值得发表；作者也警告，对AI的广泛依赖可能让科学文献变得更加同质化。"
+                "x": "与Sherpa和MadGraph相比，复杂度最优方案——一个独立的Python原型——在六个外部粒子的情形下比两者都慢。研究目的是检验AI-driven搜索能否改进起始算法，而非超越成熟的编译型生成器，而且这些算法并未覆盖整个标准模型。Krippendorf表示，该方法适用于具备快速数值检验的任务。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Revisiones por pares de AI ganan\na expertos en pruebas ciegas",
-          "body": "En pruebas ciegas, exeditores de revistas y un juez de AI prefirieron sobre todo revisiones AI-written a las humanas.",
-          "mini_headline": "Las revisiones de AI ganan a ciegas",
+          "headline": "Agentes buscan código más rápido\npara física de colisionadores",
+          "body": "Una búsqueda Codex-driven dio código de amplitudes unas 805 veces más rápido que su semilla en una prueba de Cambridge.",
+          "mini_headline": "Agentes aceleran el código de colisionadores",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.psypost.org/wp-content/uploads/2026/04/artificial-intelligence4.jpg",
-                "cap": ""
+                "src": "https://physicsworld.com/wp-content/uploads/2026/11/13-11-26-particle-collision-cern-635x358.jpg",
+                "cap": "Los grandes modelos de lenguaje podrían ofrecer una nueva forma de crear algoritmos para analizar colisiones de partículas de alta energía, como esta registrada con el detector CMS en 2012. (Cortesía: © CERN)"
               },
               {
                 "t": "p",
-                "x": "Un documento de trabajo de Gary King y Steven Worthington, de Harvard, informa que en comparaciones ciegas evaluadas por un modelo de AI y por exeditores de revistas, las revisiones por pares AI-written de artículos inéditos ganaron la gran mayoría de los enfrentamientos y contenían alrededor de una tercera parte de la tasa de afirmaciones incorrectas. El artículo aún no ha pasado por revisión por pares."
+                "x": "Yi Gu y Sven Krippendorf, de la University of Cambridge, presentan una prueba de concepto, en una prepublicación de arXiv aún no revisada por pares, de que los LLMs pueden usarse como herramienta de búsqueda de nuevos algoritmos para amplitudes de dispersión a nivel árbol. Codex, de OpenAI, propone un programa candidato, un programa de prueba lo evalúa en corrección y eficiencia, y el LLM propone un nuevo candidato: una búsqueda que evoluciona por sí misma."
               },
               {
                 "t": "p",
-                "x": "La referencia humana provino de rapidPeer, un servicio de Harvard previo al envío que paga bien a expertos externos: 124 manuscritos y 134 revisiones humanas recopiladas entre 2019 y 2026. Para cada manuscrito, Claude Opus 4.8 de Anthropic escribió una revisión; GPT-5.5 de OpenAI actuó como juez de AI independiente, y tres exeditores de revistas destacadas evaluaron 10 pares elegidos al azar."
+                "x": "Se probaron tres objetivos: escalado, estructura y complejidad. Cada uno produjo un campeón más rápido que el código semilla. La optimización del escalado encontró un formalismo cuyos costes crecen linealmente con el número de partículas, 805 veces más rápido que la semilla; la prueba de complejidad redujo el número de operaciones en un factor de 48. Ninguna de estas técnicas era nueva."
               },
               {
                 "t": "p",
-                "x": "El juez de AI prefirió la revisión de AI en el 100% de los pares decididos (132 de 132), y los exeditores, sin conocer la autoría, la prefirieron en el 87% de sus juicios (26 de 30). Las revisiones de AI Web-enabled contenían cero fuentes inventadas, y el 5.5% de sus afirmaciones se consideró incorrecto, frente al 15.9% en las revisiones humanas."
-              },
-              {
-                "t": "p",
-                "x": "Expertos externos advirtieron que el estudio midió la calidad de la retroalimentación constructiva, no si la AI puede juzgar qué artículos merecen publicarse, y los autores alertan de que una dependencia generalizada de la AI podría volver más uniforme la literatura científica."
+                "x": "En comparación con Sherpa y MadGraph, el campeón de complejidad, un prototipo independiente en Python, fue más lento que ambos para seis partículas externas. El objetivo era comprobar si una búsqueda AI-driven podía mejorar un algoritmo inicial, no superar a los generadores compilados ya establecidos, y los algoritmos no cubren todo el modelo estándar. Krippendorf afirma que el método funciona cuando una tarea dispone de una comprobación numérica rápida."
               }
             ]
           }
@@ -883,125 +779,109 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI 동료평가, 블라인드\n테스트서 전문가 앞서",
-          "body": "블라인드 평가서 전직 편집자와 AI 심판은 대개 AI-written 리뷰를 택했다.",
-          "mini_headline": "블라인드 테스트에서 이긴 AI 동료평가",
+          "headline": "코딩 에이전트, 더 빠른\n충돌기 물리 코드 탐색",
+          "body": "Codex-driven 탐색으로 시드보다 약 805배 빠른 진폭 코드를 얻었다.",
+          "mini_headline": "에이전트로 충돌기 코드 가속",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.psypost.org/wp-content/uploads/2026/04/artificial-intelligence4.jpg",
-                "cap": ""
+                "src": "https://physicsworld.com/wp-content/uploads/2026/11/13-11-26-particle-collision-cern-635x358.jpg",
+                "cap": "대규모 언어 모델은 2012년 CMS 검출기로 기록된 이 충돌처럼 고에너지 입자 충돌을 분석하는 알고리즘을 만드는 새로운 방법이 될 수 있다. (Courtesy: © CERN)"
               },
               {
                 "t": "p",
-                "x": "Harvard의 Gary King과 Steven Worthington이 쓴 워킹페이퍼에 따르면, AI 모델과 전직 학술지 편집자가 판정한 블라인드 비교에서 미발표 논문에 대한 AI가 작성한(AI-written) 동료평가가 대부분의 대결에서 이겼고, 잘못된 주장의 비율은 약 삼분의 일 수준이었다. 이 논문은 아직 동료평가를 거치지 않았다."
+                "x": "케임브리지대학교의 Yi Gu와 Sven Krippendorf는 아직 동료 심사를 거치지 않은 arXiv 프리프린트에서, LLMs를 트리 수준 산란 진폭의 새 알고리즘을 찾는 탐색 도구로 쓸 수 있다는 개념 증명을 내놓았다. OpenAI의 Codex가 후보 프로그램을 제안하면 테스트 프로그램이 정확성과 효율을 평가하고, LLM이 다시 새 후보를 제안한다. 스스로 진화하는 탐색이다."
               },
               {
                 "t": "p",
-                "x": "사람 쪽 기준은 외부 전문가에게 넉넉한 보수를 주는 Harvard의 투고 전 검토 서비스 rapidPeer에서 나왔다. 2019년부터 2026년까지 모은 원고 124편과 사람 리뷰 134건이다. 원고마다 Anthropic의 Claude Opus 4.8이 리뷰를 썼고, OpenAI의 GPT-5.5가 별도의 AI 심판을 맡았으며, 주요 학술지 전직 편집자 세 명이 무작위로 고른 10쌍을 판정했다."
+                "x": "연구진은 스케일링, 구조, 복잡도라는 세 가지 목표를 시험했다. 모든 목표에서 시드 코드보다 빠른 챔피언이 나왔다. 스케일링을 최적화하자 입자 수에 따라 비용이 선형으로 늘어나는 형식론을 찾았고, 이는 시드보다 805배 빨랐다. 복잡도 시험에서는 연산 횟수를 48배 줄였다. 이 가운데 새로운 기법은 없었다."
               },
               {
                 "t": "p",
-                "x": "AI 심판은 판정이 난 쌍의 100%(132쌍 중 132쌍)에서 AI 리뷰를 선호했고, 블라인드 상태의 전직 편집자들은 판정의 87%(30건 중 26건)에서 AI 리뷰를 골랐다. 웹 검색이 가능한(Web-enabled) AI 리뷰에는 조작된 출처가 전혀 없었고 주장의 5.5%가 틀린 것으로 판정됐다. 사람 리뷰는 15.9%였다."
-              },
-              {
-                "t": "p",
-                "x": "외부 전문가들은 이 연구가 측정한 것이 건설적 피드백의 품질이지, 어떤 논문이 게재될 만한지를 AI가 판단할 수 있는지가 아니라고 지적했다. 저자들도 AI에 대한 광범위한 의존이 과학 문헌을 더 획일적으로 만들 수 있다고 경고한다."
+                "x": "Sherpa, MadGraph와 비교하면 독립적인 Python 프로토타입인 복잡도 챔피언은 외부 입자가 여섯 개일 때 둘보다 느렸다. 목표는 AI-driven 탐색이 출발 알고리즘을 개선할 수 있는지 시험하는 것이었지 기존 컴파일형 생성기를 능가하는 것이 아니었으며, 알고리즘은 표준 모형 전체를 다루지 않는다. Krippendorf는 이 방법이 빠른 수치 검증이 가능한 과제에서 통한다고 말한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI査読、ブラインド\n評価で専門家に勝る",
-          "body": "ブラインド評価で元編集者とAI審査役は専門家よりAI-writtenの査読を多く選んだ。",
-          "mini_headline": "AI査読、ブラインド評価で勝利",
+          "headline": "コーディングエージェントが\n加速器物理の高速コード探索",
+          "body": "ケンブリッジでCodex-drivenの探索が初期版より約805倍速い振幅コードを生んだ。",
+          "mini_headline": "エージェントが加速器コードを高速化",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.psypost.org/wp-content/uploads/2026/04/artificial-intelligence4.jpg",
-                "cap": ""
+                "src": "https://physicsworld.com/wp-content/uploads/2026/11/13-11-26-particle-collision-cern-635x358.jpg",
+                "cap": "大規模言語モデルは、2012年にCMS検出器で記録されたこの衝突のような高エネルギー粒子衝突を解析するアルゴリズムを生み出す新たな手段になり得る。(Courtesy: © CERN)"
               },
               {
                 "t": "p",
-                "x": "HarvardのGary KingとSteven Worthingtonによるワーキングペーパーは、AIモデルと元学術誌編集者が判定したブラインド比較で、未発表論文に対するAIが書いた(AI-written)査読が対戦の大半で勝ち、誤った主張の割合は約三分の一だったと報告している。この論文はまだ査読を経ていない。"
+                "x": "ケンブリッジ大学のYi GuとSven Krippendorfは、まだ査読を経ていないarXivプレプリントで、LLMsをツリーレベル散乱振幅の新たなアルゴリズムを探す探索ツールとして使えることを概念実証した。OpenAIのCodexが候補プログラムを提案し、テストプログラムが正確さと効率を評価し、LLMが新たな候補を提案する。自己進化型の探索である。"
               },
               {
                 "t": "p",
-                "x": "人間側の基準は、外部専門家に高い報酬を支払うHarvardの投稿前サービスrapidPeerから取った。2019年から2026年に集めた原稿124本と人間の査読134件である。各原稿についてAnthropicのClaude Opus 4.8が査読を書き、OpenAIのGPT-5.5が別のAI審査役を務め、主要学術誌の元編集者三人が無作為に選んだ10組を判定した。"
+                "x": "スケーリング、構造、複雑さの三つの目的が試された。いずれもシードコードより速いチャンピオンを生んだ。スケーリングの最適化では、コストが粒子数に比例して増える形式が見つかり、シードより805倍速かった。複雑さの試験では演算回数を48倍減らした。これらの手法に新規性はなかった。"
               },
               {
                 "t": "p",
-                "x": "AI審査役は判定がついた組の100%(132組中132組)でAIの査読を選び、ブラインド状態の元編集者は判定の87%(30件中26件)でAIの査読を選んだ。ウェブ検索を使える(Web-enabled)AI査読には捏造された出典がゼロで、主張の5.5%が誤りと判定された。人間の査読では15.9%だった。"
-              },
-              {
-                "t": "p",
-                "x": "外部の専門家は、この研究が測ったのは建設的なフィードバックの質であり、どの論文が掲載に値するかをAIが判断できるかではないと注意を促した。著者らも、AIへの広範な依存が科学文献をより画一的にしかねないと警告している。"
+                "x": "SherpaやMadGraphと比べると、独立したPythonプロトタイプである複雑さのチャンピオンは、外部粒子が六個の場合に両者より遅かった。狙いはAI-drivenの探索が出発点のアルゴリズムを改善できるかを試すことであり、確立したコンパイル型ジェネレーターを上回ることではなかった。またアルゴリズムは標準模型全体をカバーしていない。Krippendorfは、この手法は高速な数値チェックがある課題で機能すると話す。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI同行评审在盲测中\n胜过人类专家",
-          "body": "在盲测中，前期刊编辑和AI评审大多更青睐AI-written 评审，而非人类专家之作。",
-          "mini_headline": "AI同行评审赢得盲测",
+          "headline": "编程智能体搜寻更快的\n对撞机物理代码",
+          "body": "剑桥概念验证中，Codex-driven程序搜索得到比初始代码快约805倍的振幅代码。",
+          "mini_headline": "智能体加速对撞机代码",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.psypost.org/wp-content/uploads/2026/04/artificial-intelligence4.jpg",
-                "cap": ""
+                "src": "https://physicsworld.com/wp-content/uploads/2026/11/13-11-26-particle-collision-cern-635x358.jpg",
+                "cap": "大语言模型可能为分析高能粒子碰撞提供一种创建算法的新途径，例如2012年CMS探测器记录下的这次碰撞。(Courtesy: © CERN)"
               },
               {
                 "t": "p",
-                "x": "Harvard的Gary King和Steven Worthington在一篇工作论文中报告，在由AI模型和前期刊编辑评判的盲测比较中，针对未发表论文的AI撰写（AI-written）同行评审赢下了绝大多数对决，错误论断的比例约为人类评审的三分之一。该论文尚未经过同行评审。"
+                "x": "剑桥大学的Yi Gu和Sven Krippendorf在一篇尚未经同行评审的arXiv预印本中提供了概念验证，表明LLMs可用作搜索工具，寻找树图级散射振幅的新算法。OpenAI的Codex提出候选程序，测试程序评估其正确性和效率，再由LLM提出新的候选程序——这是一种自我演化的搜索。"
               },
               {
                 "t": "p",
-                "x": "人类基准来自rapidPeer——Harvard一项向外部专家支付丰厚报酬的投稿前服务：2019年至2026年间收集的124份稿件和134份人类评审。每份稿件由Anthropic的Claude Opus 4.8撰写评审；OpenAI的GPT-5.5担任独立的AI评委，三位顶级期刊前编辑评判了随机抽取的10组。"
+                "x": "研究测试了三个目标：扩展性、结构和复杂度。每个目标都产生了比初始代码更快的最优方案。针对扩展性的优化找到了一种成本随粒子数线性增长的形式体系，比初始代码快805倍；复杂度测试则使运算次数减少了48倍。这些技术都不新颖。"
               },
               {
                 "t": "p",
-                "x": "AI评委在已判定的组中100%（132组中的132组）偏好AI评审，处于盲测状态的前编辑在87%的判断中（30次中的26次）偏好AI评审。可联网（Web-enabled）的AI评审中虚构来源为零，5.5%的论断被判为错误，而人类评审为15.9%。"
-              },
-              {
-                "t": "p",
-                "x": "外部专家提醒，这项研究衡量的是建设性反馈的质量，而不是AI能否判断哪些论文值得发表；作者也警告，对AI的广泛依赖可能让科学文献变得更加同质化。"
+                "x": "与Sherpa和MadGraph相比，复杂度最优方案——一个独立的Python原型——在六个外部粒子的情形下比两者都慢。研究目的是检验AI-driven搜索能否改进起始算法，而非超越成熟的编译型生成器，而且这些算法并未覆盖整个标准模型。Krippendorf表示，该方法适用于具备快速数值检验的任务。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Revisiones por pares de AI ganan\na expertos en pruebas ciegas",
-          "body": "En pruebas ciegas, exeditores de revistas y un juez de AI prefirieron sobre todo revisiones AI-written a las humanas.",
-          "mini_headline": "Las revisiones de AI ganan a ciegas",
+          "headline": "Agentes buscan código más rápido\npara física de colisionadores",
+          "body": "Una búsqueda Codex-driven dio código de amplitudes unas 805 veces más rápido que su semilla en una prueba de Cambridge.",
+          "mini_headline": "Agentes aceleran el código de colisionadores",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.psypost.org/wp-content/uploads/2026/04/artificial-intelligence4.jpg",
-                "cap": ""
+                "src": "https://physicsworld.com/wp-content/uploads/2026/11/13-11-26-particle-collision-cern-635x358.jpg",
+                "cap": "Los grandes modelos de lenguaje podrían ofrecer una nueva forma de crear algoritmos para analizar colisiones de partículas de alta energía, como esta registrada con el detector CMS en 2012. (Cortesía: © CERN)"
               },
               {
                 "t": "p",
-                "x": "Un documento de trabajo de Gary King y Steven Worthington, de Harvard, informa que en comparaciones ciegas evaluadas por un modelo de AI y por exeditores de revistas, las revisiones por pares AI-written de artículos inéditos ganaron la gran mayoría de los enfrentamientos y contenían alrededor de una tercera parte de la tasa de afirmaciones incorrectas. El artículo aún no ha pasado por revisión por pares."
+                "x": "Yi Gu y Sven Krippendorf, de la University of Cambridge, presentan una prueba de concepto, en una prepublicación de arXiv aún no revisada por pares, de que los LLMs pueden usarse como herramienta de búsqueda de nuevos algoritmos para amplitudes de dispersión a nivel árbol. Codex, de OpenAI, propone un programa candidato, un programa de prueba lo evalúa en corrección y eficiencia, y el LLM propone un nuevo candidato: una búsqueda que evoluciona por sí misma."
               },
               {
                 "t": "p",
-                "x": "La referencia humana provino de rapidPeer, un servicio de Harvard previo al envío que paga bien a expertos externos: 124 manuscritos y 134 revisiones humanas recopiladas entre 2019 y 2026. Para cada manuscrito, Claude Opus 4.8 de Anthropic escribió una revisión; GPT-5.5 de OpenAI actuó como juez de AI independiente, y tres exeditores de revistas destacadas evaluaron 10 pares elegidos al azar."
+                "x": "Se probaron tres objetivos: escalado, estructura y complejidad. Cada uno produjo un campeón más rápido que el código semilla. La optimización del escalado encontró un formalismo cuyos costes crecen linealmente con el número de partículas, 805 veces más rápido que la semilla; la prueba de complejidad redujo el número de operaciones en un factor de 48. Ninguna de estas técnicas era nueva."
               },
               {
                 "t": "p",
-                "x": "El juez de AI prefirió la revisión de AI en el 100% de los pares decididos (132 de 132), y los exeditores, sin conocer la autoría, la prefirieron en el 87% de sus juicios (26 de 30). Las revisiones de AI Web-enabled contenían cero fuentes inventadas, y el 5.5% de sus afirmaciones se consideró incorrecto, frente al 15.9% en las revisiones humanas."
-              },
-              {
-                "t": "p",
-                "x": "Expertos externos advirtieron que el estudio midió la calidad de la retroalimentación constructiva, no si la AI puede juzgar qué artículos merecen publicarse, y los autores alertan de que una dependencia generalizada de la AI podría volver más uniforme la literatura científica."
+                "x": "En comparación con Sherpa y MadGraph, el campeón de complejidad, un prototipo independiente en Python, fue más lento que ambos para seis partículas externas. El objetivo era comprobar si una búsqueda AI-driven podía mejorar un algoritmo inicial, no superar a los generadores compilados ya establecidos, y los algoritmos no cubren todo el modelo estándar. Krippendorf afirma que el método funciona cuando una tarea dispone de una comprobación numérica rápida."
               }
             ]
           }
@@ -1009,15 +889,15 @@
       }
     },
     {
-      "id": "mit-climate-emulator-unrealistic",
+      "id": "tohoku-mlp-copilot-aluminum",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "비현실적 시나리오로\n더 나은 기후 에뮬레이터",
-      "body": "MIT 기법은 비현실적 배출 시나리오로 기후 에뮬레이터를 적은 데이터로 훈련한다.",
-      "mini_headline": "엉뚱한 시나리오, 더 나은 기후 AI",
+      "headline": "AI 에이전트가 밝힌\n알루미늄 나노입자 산화",
+      "body": "MLP Copilot 에이전트가 원자간 퍼텐셜로 고온 산화막 파열을 밝혔다.",
+      "mini_headline": "AI 에이전트로 알루미늄 산화 모델링",
       "tool": "Science",
-      "source": "MIT News",
-      "url": "https://news.mit.edu/2026/new-research-could-lead-faster-trustworthy-ai-models-climate-prediction-1112",
+      "source": "Phys.org",
+      "url": "https://phys.org/news/2026-11-ai-atomic-reveal-shells-aluminum.html",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
@@ -1025,305 +905,315 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://news.mit.edu/sites/default/files/images/202611/MIT-Climate-Emulation-01.jpg",
-            "cap": ""
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-agents-advance-atom.jpg",
+            "cap": "MLP Copilot은 모델 개발·검증·전문가 검토를 하나로 묶는다. AI 에이전트는 작업과 근거를 정리하고, 과학적 판단과 모델 사용 여부는 연구자가 정한다. 출처: PNAS (2026)"
           },
           {
             "t": "p",
-            "x": "MIT 연구진이 빠르고 믿을 만하며 적응력도 갖춘 기후 예측용 인공지능 모델을 더 쉽게 만드는 기법을 개발했다. 기후 에뮬레이터라 불리는 이 모델은 인간 활동이 미래 기후에 미치는 영향을 빠르게 시뮬레이션하는데, 한 번 실행에 몇 초면 된다."
+            "x": "Tohoku University(도호쿠대)가 개발한 AI 에이전트 MLP Copilot은 사람의 감독 아래 계산 도구와 과학적 근거를 엮어 원자 간 상호작용 모델을 만든다. 양자 계산에서 얻은 원자의 에너지와 힘을 학습해 더 큰 규모의 시뮬레이션을 돌릴 수 있게 한다. 연구는 2026년 10월 15일(Oct. 15, 2026) PNAS에 실렸다."
+          },
+          {
+            "t": "img",
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-agents-advance-atom-1.jpg",
+            "cap": "1,500 K와 2,000 K 시뮬레이션에서 산화막(oxide-shell)의 변화가 알루미늄 이동과 산화에 미치는 영향이 드러난다. 출처: PNAS (2026)"
           },
           {
             "t": "p",
-            "x": "이 훈련 기법을 쓰면 보통 필요한 데이터의 일부만으로도 기후 에뮬레이터의 성능과 적응력이 올라간다. 신중하게 고른 훨씬 적은 양의 합성 데이터로 훈련한 에뮬레이터는 훈련 때 보지 못한 시나리오의 결과까지 정확히 맞혔다. 기존 에뮬레이터는 새로운 상황에 적응하지 못했다. 연구는 Proceedings of the National Academy of Sciences에 실렸다."
+            "x": "연구팀은 시연 대상으로 알루미늄 나노입자의 산화를 골랐다. 능동 학습(active-learning)을 약 80회 반복해 원자 구성 88,833개를 모았다. 중간 온도에서는 잠깐 열리는 나노 규모 통로가 이동을 제한하면서도 산화가 계속되게 했다. 이른바 '호흡 모드(breathing mode)'다. 온도가 더 오르자 산화막이 깨지고 알루미늄 코어가 산소에 드러나 산화가 빨라졌다."
           },
           {
             "t": "p",
-            "x": "에뮬레이터는 보통 현실적인 미래 시나리오 여섯에서 여덟 개로 훈련하는데, 시나리오마다 대규모 지구 시스템 모델을 돌려야 한다. MIT 알고리즘은 최적화된 합성 시나리오를 대신 만들어내므로 사용자는 그 모델을 한 번만 돌리면 된다. 논문 제1저자 Womack은 “우리 알고리즘은 현실적인 미래와 전혀 닮지 않은 이상한 시나리오를 만들 수도 있지만, 훈련 시나리오가 현실적인지는 크게 신경 쓰지 않는다”고 말한다."
-          },
-          {
-            "t": "p",
-            "x": "이렇게 만든 배출 데이터에는 매끄러운 궤적 대신 급격한 변동이 담긴다. 이 방식으로 훈련한 에뮬레이터는 지역 오염물질 규제 정책의 효과를 잡아냈지만, 연구진이 평가한 기존 에뮬레이터는 이 시험을 통과하지 못했다."
+            "x": "AI 에이전트는 프로젝트 지식을 정리하고, 근거를 찾고, 검증 계획을 세우는 일을 거들었다. 어떤 모델을 쓸지, 결과를 어떻게 해석할지는 연구자가 정했다. 논문 제목은 Multi-AI agent framework reveals the \"oxide gatekeeper\" in aluminum nanoparticle oxidation이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Unrealistic scenarios train\nbetter climate emulators",
-          "body": "An MIT method trains climate emulators on unrealistic emissions scenarios, improving accuracy with far less data.",
-          "mini_headline": "Odd scenarios, better climate AI",
+          "headline": "AI agents reveal how aluminum\nnanoparticles oxidize",
+          "body": "Tohoku's MLP Copilot agents built interatomic potentials that exposed an oxide shell rupturing at high temperature.",
+          "mini_headline": "AI agents model aluminum oxidation",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202611/MIT-Climate-Emulation-01.jpg",
-                "cap": ""
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-agents-advance-atom.jpg",
+                "cap": "MLP Copilot connects model development, validation and expert review. AI agents organize work and evidence, while researchers make scientific and model-use decisions. Credit: PNAS (2026)"
               },
               {
                 "t": "p",
-                "x": "MIT researchers have developed a technique that streamlines the production of fast, trustworthy, and adaptable artificial intelligence models for climate prediction. These climate emulators can rapidly simulate the effects of human activities onto a future climate, and run in a matter of seconds."
+                "x": "An AI agent called MLP Copilot, developed at Tohoku University, bridges computational tools and scientific evidence with human supervision to build models of how atoms interact. It learns atomic energies and forces from quantum calculations, making larger simulations feasible. The study was published in PNAS on Oct. 15, 2026."
               },
-              {
-                "t": "p",
-                "x": "The training technique boosts the performance and adaptability of a climate emulator while using only a fraction of the data typically required. An emulator trained with a much smaller amount of carefully selected synthetic data accurately predicts outcomes of scenarios it did not see during training, while traditional emulators failed to adapt to new situations. The research appears in the Proceedings of the National Academy of Sciences."
-              },
-              {
-                "t": "p",
-                "x": "Emulators are usually trained on six to eight realistic future scenarios, each run through a full-scale earth system model. The MIT algorithm instead generates optimized synthetic scenarios, so a user would only need to run that model once. \"Our algorithm might generate some weird scenarios which look nothing like a realistic future, but we don't care so much if the training scenarios are realistic,\" says Womack, the paper's lead author."
-              },
-              {
-                "t": "p",
-                "x": "The resulting emissions data contain rapid variations rather than smooth trajectories. An emulator trained this way can capture the effects of local pollutant control policies; the traditional emulators they evaluated failed this test."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "비현실적 시나리오로\n더 나은 기후 에뮬레이터",
-          "body": "MIT 기법은 비현실적 배출 시나리오로 기후 에뮬레이터를 적은 데이터로 훈련한다.",
-          "mini_headline": "엉뚱한 시나리오, 더 나은 기후 AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
               {
                 "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202611/MIT-Climate-Emulation-01.jpg",
-                "cap": ""
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-agents-advance-atom-1.jpg",
+                "cap": "Simulations at 1,500 K and 2,000 K show how oxide-shell changes affect aluminum transport and oxidation. Credit: PNAS (2026)"
               },
               {
                 "t": "p",
-                "x": "MIT 연구진이 빠르고 믿을 만하며 적응력도 갖춘 기후 예측용 인공지능 모델을 더 쉽게 만드는 기법을 개발했다. 기후 에뮬레이터라 불리는 이 모델은 인간 활동이 미래 기후에 미치는 영향을 빠르게 시뮬레이션하는데, 한 번 실행에 몇 초면 된다."
+                "x": "To demonstrate it, the team investigated aluminum nanoparticle oxidation. Across approximately 80 active-learning iterations they assembled 88,833 atomic configurations. At moderate temperatures, temporary nanoscale pathways let oxidation continue while limiting transport — a \"breathing mode.\" At higher temperatures, shell rupture exposed the aluminum core to oxygen and accelerated oxidation."
               },
               {
                 "t": "p",
-                "x": "이 훈련 기법을 쓰면 보통 필요한 데이터의 일부만으로도 기후 에뮬레이터의 성능과 적응력이 올라간다. 신중하게 고른 훨씬 적은 양의 합성 데이터로 훈련한 에뮬레이터는 훈련 때 보지 못한 시나리오의 결과까지 정확히 맞혔다. 기존 에뮬레이터는 새로운 상황에 적응하지 못했다. 연구는 Proceedings of the National Academy of Sciences에 실렸다."
-              },
-              {
-                "t": "p",
-                "x": "에뮬레이터는 보통 현실적인 미래 시나리오 여섯에서 여덟 개로 훈련하는데, 시나리오마다 대규모 지구 시스템 모델을 돌려야 한다. MIT 알고리즘은 최적화된 합성 시나리오를 대신 만들어내므로 사용자는 그 모델을 한 번만 돌리면 된다. 논문 제1저자 Womack은 “우리 알고리즘은 현실적인 미래와 전혀 닮지 않은 이상한 시나리오를 만들 수도 있지만, 훈련 시나리오가 현실적인지는 크게 신경 쓰지 않는다”고 말한다."
-              },
-              {
-                "t": "p",
-                "x": "이렇게 만든 배출 데이터에는 매끄러운 궤적 대신 급격한 변동이 담긴다. 이 방식으로 훈련한 에뮬레이터는 지역 오염물질 규제 정책의 효과를 잡아냈지만, 연구진이 평가한 기존 에뮬레이터는 이 시험을 통과하지 못했다."
+                "x": "AI agents organized project knowledge, retrieved evidence and supported validation planning; researchers decided which models to accept and how to interpret the results. The paper is titled Multi-AI agent framework reveals the \"oxide gatekeeper\" in aluminum nanoparticle oxidation."
               }
             ]
           }
         },
         "ja": {
-          "headline": "非現実的シナリオが\n優れた気候エミュレータを生む",
-          "body": "MITの手法は非現実的な排出シナリオで気候エミュレータを鍛え、少ないデータで精度を高める。",
-          "mini_headline": "奇妙なシナリオで気候AIが向上",
+          "headline": "AIエージェントが\nアルミナノ粒子の酸化を解明",
+          "body": "東北大のMLP Copilotが原子間ポテンシャルを作り、高温で酸化殻が破れる様子を示した。",
+          "mini_headline": "AIエージェントがアルミ酸化をモデル化",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202611/MIT-Climate-Emulation-01.jpg",
-                "cap": ""
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-agents-advance-atom.jpg",
+                "cap": "MLP Copilotはモデル開発、検証、専門家レビューをつなぐ。AIエージェントが作業と根拠を整理し、科学的判断とモデル利用の決定は研究者が下す。Credit: PNAS (2026)"
               },
               {
                 "t": "p",
-                "x": "MITの研究者は、高速で信頼でき、適応性の高い気候予測用の人工知能モデルを効率よく作る手法を開発した。こうした気候エミュレータは、人間活動が将来の気候に与える影響を素早くシミュレーションでき、数秒で実行できる。"
+                "x": "東北大学が開発したAIエージェントMLP Copilotは、人間の監督の下で計算ツールと科学的根拠を橋渡しし、原子間相互作用のモデルを構築する。量子計算から原子のエネルギーと力を学習し、より大規模なシミュレーションを可能にする。研究は2026年10月15日にPNASに掲載された。"
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-agents-advance-atom-1.jpg",
+                "cap": "1,500 Kと2,000 Kのシミュレーションは、酸化殻の変化がアルミニウムの輸送と酸化にどう影響するかを示す。Credit: PNAS (2026)"
               },
               {
                 "t": "p",
-                "x": "この訓練手法は、通常必要なデータのごく一部しか使わずに、気候エミュレータの性能と適応性を高める。慎重に選んだはるかに少量の合成データで訓練したエミュレータは、訓練中に見ていないシナリオの結果も正確に予測したが、従来のエミュレータは新しい状況に適応できなかった。研究はProceedings of the National Academy of Sciencesに掲載された。"
+                "x": "実証として、チームはアルミニウムナノ粒子の酸化を調べた。約80回の能動学習の反復で88,833個の原子配置を集めた。中程度の温度では、一時的なナノスケールの経路が輸送を制限しつつ酸化を継続させる。いわば「呼吸モード」だ。より高温では殻が破れてアルミニウムの核が酸素にさらされ、酸化が加速した。"
               },
               {
                 "t": "p",
-                "x": "エミュレータは通常、六〜八個の現実的な将来シナリオで訓練され、それぞれを本格的な地球システムモデルで計算する必要がある。MITのアルゴリズムは代わりに最適化された合成シナリオを生成するため、利用者はそのモデルを一度動かすだけで済む。論文の筆頭著者Womackは「私たちのアルゴリズムは、現実的な未来とは似ても似つかない奇妙なシナリオを生成するかもしれないが、訓練シナリオが現実的かどうかはあまり気にしていない」と話す。"
-              },
-              {
-                "t": "p",
-                "x": "こうして得られた排出データは、滑らかな軌跡ではなく急激な変動を含む。この方法で訓練したエミュレータは地域の汚染物質規制政策の効果を捉えることができ、研究チームが評価した従来のエミュレータはこの試験に失敗した。"
+                "x": "AIエージェントはプロジェクトの知識を整理し、根拠を検索し、検証計画を支援した。どのモデルを採用し結果をどう解釈するかは研究者が決めた。論文のタイトルはMulti-AI agent framework reveals the \"oxide gatekeeper\" in aluminum nanoparticle oxidationである。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "不现实的情景\n训练出更好的气候模拟器",
-          "body": "MIT的方法用不现实的排放情景训练气候模拟器，以少得多的数据提升了准确度。",
-          "mini_headline": "怪异情景，更好的气候AI",
+          "headline": "AI智能体揭示\n铝纳米颗粒如何氧化",
+          "body": "东北大学的MLP Copilot智能体构建原子间势，揭示氧化壳在高温下破裂。",
+          "mini_headline": "AI智能体模拟铝氧化",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202611/MIT-Climate-Emulation-01.jpg",
-                "cap": ""
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-agents-advance-atom.jpg",
+                "cap": "MLP Copilot将模型开发、验证和专家评审连接起来。AI智能体负责整理工作和证据，研究人员则做出科学判断和模型使用决策。Credit: PNAS (2026)"
               },
               {
                 "t": "p",
-                "x": "MIT研究人员开发出一种技术，可简化快速、可信且适应性强的气候预测人工智能模型的生产。这类气候模拟器能迅速模拟人类活动对未来气候的影响，几秒钟即可运行完毕。"
+                "x": "东北大学开发的AI智能体MLP Copilot在人类监督下连接计算工具与科学证据，构建原子间相互作用模型。它从量子计算中学习原子能量和受力，使更大规模的模拟成为可能。该研究于2026年10月15日发表在PNAS上。"
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-agents-advance-atom-1.jpg",
+                "cap": "1,500 K和2,000 K下的模拟显示了氧化壳的变化如何影响铝的输运和氧化。Credit: PNAS (2026)"
               },
               {
                 "t": "p",
-                "x": "这种训练技术只需通常所需数据的一小部分，就能提升气候模拟器的性能和适应性。用数量少得多、经过精心挑选的合成数据训练出的模拟器，能准确预测训练中未见过的情景结果，而传统模拟器无法适应新情况。该研究发表于Proceedings of the National Academy of Sciences。"
+                "x": "为进行演示，团队研究了铝纳米颗粒的氧化。经过约80轮主动学习迭代，他们收集了88,833个原子构型。在中等温度下，临时的纳米级通道在限制输运的同时让氧化得以继续——即“呼吸模式”。在更高温度下，氧化壳破裂使铝核暴露于氧气中，氧化随之加速。"
               },
               {
                 "t": "p",
-                "x": "模拟器通常用六到八个现实的未来情景训练，每个情景都要用完整规模的地球系统模型运行一遍。MIT的算法则生成经过优化的合成情景，因此用户只需运行该模型一次。论文第一作者Womack说：“我们的算法可能会生成一些完全不像现实未来的怪异情景，但我们并不太在意训练情景是否现实。”"
-              },
-              {
-                "t": "p",
-                "x": "由此得到的排放数据包含剧烈变化，而非平滑的轨迹。以这种方式训练的模拟器能够捕捉地方污染物控制政策的效果；研究人员评估的传统模拟器都未能通过这项测试。"
+                "x": "AI智能体负责整理项目知识、检索证据并协助制定验证计划；接受哪些模型、如何解读结果则由研究人员决定。论文题为Multi-AI agent framework reveals the \"oxide gatekeeper\" in aluminum nanoparticle oxidation。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Escenarios irreales entrenan\nmejores emuladores climáticos",
-          "body": "El MIT entrena emuladores climáticos con escenarios de emisiones irreales y gana precisión con muchos menos datos.",
-          "mini_headline": "Escenarios raros, mejor AI climática",
+          "headline": "Agentes de IA revelan cómo\nse oxida el nanoaluminio",
+          "body": "MLP Copilot, de Tohoku, creó potenciales interatómicos que revelan la rotura de la capa de óxido a alta temperatura.",
+          "mini_headline": "Agentes de IA modelan la oxidación del aluminio",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202611/MIT-Climate-Emulation-01.jpg",
-                "cap": ""
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-agents-advance-atom.jpg",
+                "cap": "MLP Copilot conecta el desarrollo de modelos, la validación y la revisión experta. Los agentes de IA organizan el trabajo y las pruebas, mientras los investigadores toman las decisiones científicas y sobre el uso de los modelos. Crédito: PNAS (2026)"
               },
               {
                 "t": "p",
-                "x": "Investigadores del MIT han desarrollado una técnica que agiliza la producción de modelos de inteligencia artificial rápidos, fiables y adaptables para la predicción climática. Estos emuladores climáticos pueden simular con rapidez los efectos de las actividades humanas sobre el clima futuro y se ejecutan en cuestión de segundos."
+                "x": "Un agente de IA llamado MLP Copilot, desarrollado en la Universidad de Tohoku, conecta herramientas computacionales y evidencia científica bajo supervisión humana para construir modelos de cómo interactúan los átomos. Aprende energías y fuerzas atómicas a partir de cálculos cuánticos, lo que hace viables simulaciones más grandes. El estudio se publicó en PNAS el 15 de octubre de 2026."
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-agents-advance-atom-1.jpg",
+                "cap": "Las simulaciones a 1,500 K y 2,000 K muestran cómo los cambios en la capa de óxido afectan al transporte y la oxidación del aluminio. Crédito: PNAS (2026)"
               },
               {
                 "t": "p",
-                "x": "La técnica de entrenamiento mejora el rendimiento y la adaptabilidad de un emulador climático usando solo una fracción de los datos que suelen requerirse. Un emulador entrenado con una cantidad mucho menor de datos sintéticos cuidadosamente seleccionados predice con precisión los resultados de escenarios que no vio durante el entrenamiento, mientras que los emuladores tradicionales no lograron adaptarse a situaciones nuevas. La investigación aparece en Proceedings of the National Academy of Sciences."
+                "x": "Para demostrarlo, el equipo investigó la oxidación de nanopartículas de aluminio. A lo largo de unas 80 iteraciones de aprendizaje activo reunió 88,833 configuraciones atómicas. A temperaturas moderadas, vías temporales a escala nanométrica permitían que la oxidación continuara mientras limitaban el transporte: un \"modo de respiración\". A temperaturas más altas, la ruptura de la capa expuso el núcleo de aluminio al oxígeno y aceleró la oxidación."
               },
               {
                 "t": "p",
-                "x": "Los emuladores suelen entrenarse con entre seis y ocho escenarios futuros realistas, cada uno ejecutado en un modelo del sistema terrestre a escala completa. El algoritmo del MIT, en cambio, genera escenarios sintéticos optimizados, de modo que un usuario solo tendría que ejecutar ese modelo una vez. “Nuestro algoritmo puede generar escenarios extraños que no se parecen en nada a un futuro realista, pero no nos importa demasiado que los escenarios de entrenamiento sean realistas”, afirma Womack, autor principal del artículo."
+                "x": "Los agentes de IA organizaron el conocimiento del proyecto, recuperaron evidencias y apoyaron la planificación de la validación; los investigadores decidieron qué modelos aceptar y cómo interpretar los resultados. El artículo se titula Multi-AI agent framework reveals the \"oxide gatekeeper\" in aluminum nanoparticle oxidation."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "AI 에이전트가 밝힌\n알루미늄 나노입자 산화",
+          "body": "MLP Copilot 에이전트가 원자간 퍼텐셜로 고온 산화막 파열을 밝혔다.",
+          "mini_headline": "AI 에이전트로 알루미늄 산화 모델링",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-agents-advance-atom.jpg",
+                "cap": "MLP Copilot은 모델 개발·검증·전문가 검토를 하나로 묶는다. AI 에이전트는 작업과 근거를 정리하고, 과학적 판단과 모델 사용 여부는 연구자가 정한다. 출처: PNAS (2026)"
               },
               {
                 "t": "p",
-                "x": "Los datos de emisiones resultantes contienen variaciones rápidas en lugar de trayectorias suaves. Un emulador entrenado de esta manera puede captar los efectos de las políticas locales de control de contaminantes; los emuladores tradicionales que evaluaron no superaron esta prueba."
+                "x": "Tohoku University(도호쿠대)가 개발한 AI 에이전트 MLP Copilot은 사람의 감독 아래 계산 도구와 과학적 근거를 엮어 원자 간 상호작용 모델을 만든다. 양자 계산에서 얻은 원자의 에너지와 힘을 학습해 더 큰 규모의 시뮬레이션을 돌릴 수 있게 한다. 연구는 2026년 10월 15일(Oct. 15, 2026) PNAS에 실렸다."
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-agents-advance-atom-1.jpg",
+                "cap": "1,500 K와 2,000 K 시뮬레이션에서 산화막(oxide-shell)의 변화가 알루미늄 이동과 산화에 미치는 영향이 드러난다. 출처: PNAS (2026)"
+              },
+              {
+                "t": "p",
+                "x": "연구팀은 시연 대상으로 알루미늄 나노입자의 산화를 골랐다. 능동 학습(active-learning)을 약 80회 반복해 원자 구성 88,833개를 모았다. 중간 온도에서는 잠깐 열리는 나노 규모 통로가 이동을 제한하면서도 산화가 계속되게 했다. 이른바 '호흡 모드(breathing mode)'다. 온도가 더 오르자 산화막이 깨지고 알루미늄 코어가 산소에 드러나 산화가 빨라졌다."
+              },
+              {
+                "t": "p",
+                "x": "AI 에이전트는 프로젝트 지식을 정리하고, 근거를 찾고, 검증 계획을 세우는 일을 거들었다. 어떤 모델을 쓸지, 결과를 어떻게 해석할지는 연구자가 정했다. 논문 제목은 Multi-AI agent framework reveals the \"oxide gatekeeper\" in aluminum nanoparticle oxidation이다."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "비현실적 시나리오로\n더 나은 기후 에뮬레이터",
-          "body": "MIT 기법은 비현실적 배출 시나리오로 기후 에뮬레이터를 적은 데이터로 훈련한다.",
-          "mini_headline": "엉뚱한 시나리오, 더 나은 기후 AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202611/MIT-Climate-Emulation-01.jpg",
-                "cap": ""
-              },
-              {
-                "t": "p",
-                "x": "MIT 연구진이 빠르고 신뢰할 수 있으며 적응력 있는 기후 예측용 인공지능 모델을 더 쉽게 만드는 기법을 개발했다. 이런 기후 에뮬레이터는 인간 활동이 미래 기후에 미치는 영향을 빠르게 시뮬레이션하며, 몇 초 만에 실행된다."
-              },
-              {
-                "t": "p",
-                "x": "이 훈련 기법은 보통 필요한 데이터의 일부만 쓰면서 기후 에뮬레이터의 성능과 적응력을 끌어올린다. 신중하게 고른 훨씬 적은 양의 합성 데이터로 훈련한 에뮬레이터는 훈련 중 보지 못한 시나리오의 결과도 정확히 예측했지만, 기존 에뮬레이터는 새로운 상황에 적응하지 못했다. 연구는 Proceedings of the National Academy of Sciences에 실렸다."
-              },
-              {
-                "t": "p",
-                "x": "에뮬레이터는 보통 여섯에서 여덟 개의 현실적인 미래 시나리오로 훈련하며, 시나리오마다 대규모 지구 시스템 모델을 돌려야 한다. MIT 알고리즘은 대신 최적화된 합성 시나리오를 만들어내므로, 사용자는 그 모델을 한 번만 돌리면 된다. 논문 제1저자 Womack은 “우리 알고리즘은 현실적인 미래와 전혀 닮지 않은 이상한 시나리오를 만들 수도 있지만, 훈련 시나리오가 현실적인지는 크게 신경 쓰지 않는다”고 말한다."
-              },
-              {
-                "t": "p",
-                "x": "이렇게 만든 배출 데이터는 매끄러운 궤적이 아니라 급격한 변동을 담고 있다. 이 방식으로 훈련한 에뮬레이터는 지역 오염물질 규제 정책의 효과를 포착할 수 있었고, 연구진이 평가한 기존 에뮬레이터는 이 시험을 통과하지 못했다."
-              }
-            ]
-          }
-        },
         "ja": {
-          "headline": "非現実的シナリオが\n優れた気候エミュレータを生む",
-          "body": "MITの手法は非現実的な排出シナリオで気候エミュレータを鍛え、少ないデータで精度を高める。",
-          "mini_headline": "奇妙なシナリオで気候AIが向上",
+          "headline": "AIエージェントが\nアルミナノ粒子の酸化を解明",
+          "body": "東北大のMLP Copilotが原子間ポテンシャルを作り、高温で酸化殻が破れる様子を示した。",
+          "mini_headline": "AIエージェントがアルミ酸化をモデル化",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202611/MIT-Climate-Emulation-01.jpg",
-                "cap": ""
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-agents-advance-atom.jpg",
+                "cap": "MLP Copilotはモデル開発、検証、専門家レビューをつなぐ。AIエージェントが作業と根拠を整理し、科学的判断とモデル利用の決定は研究者が下す。Credit: PNAS (2026)"
               },
               {
                 "t": "p",
-                "x": "MITの研究者は、高速で信頼でき、適応性の高い気候予測用の人工知能モデルを効率よく作る手法を開発した。こうした気候エミュレータは、人間活動が将来の気候に与える影響を素早くシミュレーションでき、数秒で実行できる。"
+                "x": "東北大学が開発したAIエージェントMLP Copilotは、人間の監督の下で計算ツールと科学的根拠を橋渡しし、原子間相互作用のモデルを構築する。量子計算から原子のエネルギーと力を学習し、より大規模なシミュレーションを可能にする。研究は2026年10月15日にPNASに掲載された。"
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-agents-advance-atom-1.jpg",
+                "cap": "1,500 Kと2,000 Kのシミュレーションは、酸化殻の変化がアルミニウムの輸送と酸化にどう影響するかを示す。Credit: PNAS (2026)"
               },
               {
                 "t": "p",
-                "x": "この訓練手法は、通常必要なデータのごく一部しか使わずに、気候エミュレータの性能と適応性を高める。慎重に選んだはるかに少量の合成データで訓練したエミュレータは、訓練中に見ていないシナリオの結果も正確に予測したが、従来のエミュレータは新しい状況に適応できなかった。研究はProceedings of the National Academy of Sciencesに掲載された。"
+                "x": "実証として、チームはアルミニウムナノ粒子の酸化を調べた。約80回の能動学習の反復で88,833個の原子配置を集めた。中程度の温度では、一時的なナノスケールの経路が輸送を制限しつつ酸化を継続させる。いわば「呼吸モード」だ。より高温では殻が破れてアルミニウムの核が酸素にさらされ、酸化が加速した。"
               },
               {
                 "t": "p",
-                "x": "エミュレータは通常、六〜八個の現実的な将来シナリオで訓練され、それぞれを本格的な地球システムモデルで計算する必要がある。MITのアルゴリズムは代わりに最適化された合成シナリオを生成するため、利用者はそのモデルを一度動かすだけで済む。論文の筆頭著者Womackは「私たちのアルゴリズムは、現実的な未来とは似ても似つかない奇妙なシナリオを生成するかもしれないが、訓練シナリオが現実的かどうかはあまり気にしていない」と話す。"
-              },
-              {
-                "t": "p",
-                "x": "こうして得られた排出データは、滑らかな軌跡ではなく急激な変動を含む。この方法で訓練したエミュレータは地域の汚染物質規制政策の効果を捉えることができ、研究チームが評価した従来のエミュレータはこの試験に失敗した。"
+                "x": "AIエージェントはプロジェクトの知識を整理し、根拠を検索し、検証計画を支援した。どのモデルを採用し結果をどう解釈するかは研究者が決めた。論文のタイトルはMulti-AI agent framework reveals the \"oxide gatekeeper\" in aluminum nanoparticle oxidationである。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "不现实的情景\n训练出更好的气候模拟器",
-          "body": "MIT的方法用不现实的排放情景训练气候模拟器，以少得多的数据提升了准确度。",
-          "mini_headline": "怪异情景，更好的气候AI",
+          "headline": "AI智能体揭示\n铝纳米颗粒如何氧化",
+          "body": "东北大学的MLP Copilot智能体构建原子间势，揭示氧化壳在高温下破裂。",
+          "mini_headline": "AI智能体模拟铝氧化",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202611/MIT-Climate-Emulation-01.jpg",
-                "cap": ""
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-agents-advance-atom.jpg",
+                "cap": "MLP Copilot将模型开发、验证和专家评审连接起来。AI智能体负责整理工作和证据，研究人员则做出科学判断和模型使用决策。Credit: PNAS (2026)"
               },
               {
                 "t": "p",
-                "x": "MIT研究人员开发出一种技术，可简化快速、可信且适应性强的气候预测人工智能模型的生产。这类气候模拟器能迅速模拟人类活动对未来气候的影响，几秒钟即可运行完毕。"
+                "x": "东北大学开发的AI智能体MLP Copilot在人类监督下连接计算工具与科学证据，构建原子间相互作用模型。它从量子计算中学习原子能量和受力，使更大规模的模拟成为可能。该研究于2026年10月15日发表在PNAS上。"
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-agents-advance-atom-1.jpg",
+                "cap": "1,500 K和2,000 K下的模拟显示了氧化壳的变化如何影响铝的输运和氧化。Credit: PNAS (2026)"
               },
               {
                 "t": "p",
-                "x": "这种训练技术只需通常所需数据的一小部分，就能提升气候模拟器的性能和适应性。用数量少得多、经过精心挑选的合成数据训练出的模拟器，能准确预测训练中未见过的情景结果，而传统模拟器无法适应新情况。该研究发表于Proceedings of the National Academy of Sciences。"
+                "x": "为进行演示，团队研究了铝纳米颗粒的氧化。经过约80轮主动学习迭代，他们收集了88,833个原子构型。在中等温度下，临时的纳米级通道在限制输运的同时让氧化得以继续——即“呼吸模式”。在更高温度下，氧化壳破裂使铝核暴露于氧气中，氧化随之加速。"
               },
               {
                 "t": "p",
-                "x": "模拟器通常用六到八个现实的未来情景训练，每个情景都要用完整规模的地球系统模型运行一遍。MIT的算法则生成经过优化的合成情景，因此用户只需运行该模型一次。论文第一作者Womack说：“我们的算法可能会生成一些完全不像现实未来的怪异情景，但我们并不太在意训练情景是否现实。”"
-              },
-              {
-                "t": "p",
-                "x": "由此得到的排放数据包含剧烈变化，而非平滑的轨迹。以这种方式训练的模拟器能够捕捉地方污染物控制政策的效果；研究人员评估的传统模拟器都未能通过这项测试。"
+                "x": "AI智能体负责整理项目知识、检索证据并协助制定验证计划；接受哪些模型、如何解读结果则由研究人员决定。论文题为Multi-AI agent framework reveals the \"oxide gatekeeper\" in aluminum nanoparticle oxidation。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Escenarios irreales entrenan\nmejores emuladores climáticos",
-          "body": "El MIT entrena emuladores climáticos con escenarios de emisiones irreales y gana precisión con muchos menos datos.",
-          "mini_headline": "Escenarios raros, mejor AI climática",
+          "headline": "Agentes de IA revelan cómo\nse oxida el nanoaluminio",
+          "body": "MLP Copilot, de Tohoku, creó potenciales interatómicos que revelan la rotura de la capa de óxido a alta temperatura.",
+          "mini_headline": "Agentes de IA modelan la oxidación del aluminio",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202611/MIT-Climate-Emulation-01.jpg",
-                "cap": ""
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-agents-advance-atom.jpg",
+                "cap": "MLP Copilot conecta el desarrollo de modelos, la validación y la revisión experta. Los agentes de IA organizan el trabajo y las pruebas, mientras los investigadores toman las decisiones científicas y sobre el uso de los modelos. Crédito: PNAS (2026)"
               },
               {
                 "t": "p",
-                "x": "Investigadores del MIT han desarrollado una técnica que agiliza la producción de modelos de inteligencia artificial rápidos, fiables y adaptables para la predicción climática. Estos emuladores climáticos pueden simular con rapidez los efectos de las actividades humanas sobre el clima futuro y se ejecutan en cuestión de segundos."
+                "x": "Un agente de IA llamado MLP Copilot, desarrollado en la Universidad de Tohoku, conecta herramientas computacionales y evidencia científica bajo supervisión humana para construir modelos de cómo interactúan los átomos. Aprende energías y fuerzas atómicas a partir de cálculos cuánticos, lo que hace viables simulaciones más grandes. El estudio se publicó en PNAS el 15 de octubre de 2026."
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-agents-advance-atom-1.jpg",
+                "cap": "Las simulaciones a 1,500 K y 2,000 K muestran cómo los cambios en la capa de óxido afectan al transporte y la oxidación del aluminio. Crédito: PNAS (2026)"
               },
               {
                 "t": "p",
-                "x": "La técnica de entrenamiento mejora el rendimiento y la adaptabilidad de un emulador climático usando solo una fracción de los datos que suelen requerirse. Un emulador entrenado con una cantidad mucho menor de datos sintéticos cuidadosamente seleccionados predice con precisión los resultados de escenarios que no vio durante el entrenamiento, mientras que los emuladores tradicionales no lograron adaptarse a situaciones nuevas. La investigación aparece en Proceedings of the National Academy of Sciences."
+                "x": "Para demostrarlo, el equipo investigó la oxidación de nanopartículas de aluminio. A lo largo de unas 80 iteraciones de aprendizaje activo reunió 88,833 configuraciones atómicas. A temperaturas moderadas, vías temporales a escala nanométrica permitían que la oxidación continuara mientras limitaban el transporte: un \"modo de respiración\". A temperaturas más altas, la ruptura de la capa expuso el núcleo de aluminio al oxígeno y aceleró la oxidación."
               },
               {
                 "t": "p",
-                "x": "Los emuladores suelen entrenarse con entre seis y ocho escenarios futuros realistas, cada uno ejecutado en un modelo del sistema terrestre a escala completa. El algoritmo del MIT, en cambio, genera escenarios sintéticos optimizados, de modo que un usuario solo tendría que ejecutar ese modelo una vez. “Nuestro algoritmo puede generar escenarios extraños que no se parecen en nada a un futuro realista, pero no nos importa demasiado que los escenarios de entrenamiento sean realistas”, afirma Womack, autor principal del artículo."
+                "x": "Los agentes de IA organizaron el conocimiento del proyecto, recuperaron evidencias y apoyaron la planificación de la validación; los investigadores decidieron qué modelos aceptar y cómo interpretar los resultados. El artículo se titula Multi-AI agent framework reveals the \"oxide gatekeeper\" in aluminum nanoparticle oxidation."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "AI 에이전트가 밝힌\n알루미늄 나노입자 산화",
+          "body": "MLP Copilot 에이전트가 원자간 퍼텐셜로 고온 산화막 파열을 밝혔다.",
+          "mini_headline": "AI 에이전트로 알루미늄 산화 모델링",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-agents-advance-atom.jpg",
+                "cap": "MLP Copilot은 모델 개발, 검증, 전문가 검토를 하나로 잇는다. AI 에이전트가 작업과 근거를 정리하고, 과학적 판단과 모델 사용 결정은 연구자가 내린다. 출처: PNAS (2026)"
               },
               {
                 "t": "p",
-                "x": "Los datos de emisiones resultantes contienen variaciones rápidas en lugar de trayectorias suaves. Un emulador entrenado de esta manera puede captar los efectos de las políticas locales de control de contaminantes; los emuladores tradicionales que evaluaron no superaron esta prueba."
+                "x": "Tohoku University(도호쿠대)가 개발한 AI 에이전트 MLP Copilot은 사람의 감독 아래 계산 도구와 과학적 근거를 연결해 원자 간 상호작용 모델을 만든다. 양자 계산에서 원자의 에너지와 힘을 학습해 더 큰 규모의 시뮬레이션을 가능하게 한다. 연구는 2026년 10월 15일(Oct. 15, 2026) PNAS에 실렸다."
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-agents-advance-atom-1.jpg",
+                "cap": "1,500 K와 2,000 K 시뮬레이션은 산화막(oxide-shell) 변화가 알루미늄의 이동과 산화에 어떤 영향을 주는지 보여준다. 출처: PNAS (2026)"
+              },
+              {
+                "t": "p",
+                "x": "연구팀은 이를 시연하려고 알루미늄 나노입자의 산화를 조사했다. 약 80회의 능동 학습(active-learning) 반복으로 원자 구성 88,833개를 모았다. 중간 온도에서는 일시적인 나노 규모 통로가 이동을 제한하면서도 산화를 이어가게 했다. 이른바 '호흡 모드(breathing mode)'다. 더 높은 온도에서는 산화막이 깨지면서 알루미늄 코어가 산소에 노출돼 산화가 빨라졌다."
+              },
+              {
+                "t": "p",
+                "x": "AI 에이전트는 프로젝트 지식을 정리하고 근거를 찾고 검증 계획을 도왔다. 어떤 모델을 채택하고 결과를 어떻게 해석할지는 연구자가 정했다. 논문 제목은 Multi-AI agent framework reveals the \"oxide gatekeeper\" in aluminum nanoparticle oxidation이다."
               }
             ]
           }
@@ -1331,15 +1221,15 @@
       }
     },
     {
-      "id": "qctrl-quantware-coldstart",
+      "id": "concept2brain-eeg-sim",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Q-CTRL AI가 해낸\n21큐비트 칩 콜드 스타트",
-      "body": "Q-CTRL AI가 21큐비트 QuantWare QPU를 처음부터 스스로 보정했다.",
-      "mini_headline": "AI가 맡은 양자 칩 콜드 스타트",
+      "headline": "Concept2Brain이\n이미지·글로 뇌파 모사",
+      "body": "Concept2Brain은 사진·글의 EEG 반응을 예측해 모집 전 실험을 돕는다.",
+      "mini_headline": "AI로 뇌파 시뮬레이션",
       "tool": "Science",
-      "source": "Quantum Computing Report",
-      "url": "https://quantumcomputingreport.com/q-ctrl-demonstrates-push-button-cold-start-calibration-on-quantware-superconducting-qpus/",
+      "source": "PsyPost",
+      "url": "https://www.psypost.org/scientists-built-an-ai-called-concept2brain-that-simulates-human-brain-waves-from-pictures-and-text/",
       "accent": "#eb367f",
       "motif": "sphere",
       "full": {
@@ -1347,179 +1237,155 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/11/image-71.png",
-            "cap": "QuantWare Contralto-D21을 완전 자율로 가동했을 때의 게이트 충실도."
+            "src": "https://www.psypost.org/wp-content/uploads/2026/06/brainimg-2.jpg",
+            "cap": ""
           },
           {
             "t": "p",
-            "x": "양자 인프라 소프트웨어 기업 Q-CTRL이 자사 Boulder Opal 제어 플랫폼으로 QuantWare D-Line 초전도 프로세서를 콜드 스타트 상태에서 완전 자율로 가동하고 게이트를 보정한 하드웨어 벤치마크 데이터를 공개했다. 21큐비트 QuantWare Contralto-D21 장치에서 검증해 보니, 물리 기반 AI 상태 머신은 전문가의 수동 개입 없이 다섯 큐비트 피드라인 블록을 세 시간 안에 미보정 상태에서 실제 운용 가능한 게이트 충실도까지 끌어올렸다."
+            "x": "과학자들이 사진이나 글을 본 사람의 뇌파 반응을 예측하는 AI 도구 Concept2Brain을 개발했다. Nature Communications에 실린 연구에 따르면 이 오픈 액세스 플랫폼은 실제 뇌 활동과 닮은 합성 EEG 기록을 만들어 낸다. 연구자가 자원자를 모집하기 전에 뇌파 실험을 미리 시뮬레이션해 볼 수 있을 전망이다."
           },
           {
             "t": "p",
-            "x": "벤치마크: 콜드 스타트 가동 시간은 5큐비트 피드라인당 <3시간, 단일 큐비트 게이트 충실도 중앙값 99.95%(SX 게이트), 두 큐비트 게이트 충실도 최고 >98% / 장치 중앙값 96%(CZ 게이트). 향후 로드맵: 2026년 말 QuantWare A-Line 지원과 런타임 재보정, 가변 커플러 지원 추가, 작업 병렬화, 지속적인 드리프트 추적."
+            "x": "모델은 대학 자원자 88명이 사진 360장을 보는 동안 잰 EEG로 학습했다. 조건부 변분 오토인코더가 129채널 기록 하나하나를 숫자 256개로 압축하고, OpenAI의 CLIP을 중심으로 만든 변환기가 이미지나 텍스트를 이 요약으로 옮긴다. 학습에 쓰지 않은 사진에서도 합성 뇌파는 약 100~700밀리초 구간에서 실제 기록과 거의 일치했다. 얼굴 레이블이 없었는데도 170 ms 얼굴 반응까지 재현했다."
           },
           {
             "t": "p",
-            "x": "초전도 양자 컴퓨터의 규모를 키울 때는 운영상 병목이 심각하다. 서로 얽힌 제어 변수 수십 개를 거듭 조정하고 환경 드리프트에 맞서 안정화해야 하기 때문이다. 기존 스크립트 기반 보정 루틴은 하드웨어 주파수가 좁은 스캔 범위를 벗어나면 자주 실패했고, 그때마다 실험 물리학자가 직접 손을 대야 했다."
-          },
-          {
-            "t": "p",
-            "x": "Boulder Opal은 아키텍처별 특성 분석과 보정 루틴을 자동화된 상태 머신에 담았다. 이 상태 머신은 범위를 벗어난 이상을 감지하고 거짓 양성 공진을 걸러내며, 성능이 떨어진 큐비트를 스스로 복구한다."
+            "x": "제1저자 Alejandro Santos-Mayo는 합성 데이터가 사람 참가자에게서 얻은 실측 데이터를 대신할 수는 없다고 경고한다. 텍스트 프롬프트로 한 예측은 아직 검증이 덜 됐고, 외부 데이터셋에서는 일치도가 더 낮았다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Q-CTRL AI tunes a 21-qubit\nchip from a cold start",
-          "body": "Q-CTRL's AI autonomously took a 21-qubit QuantWare QPU from an uncalibrated state to working gate fidelities.",
-          "mini_headline": "AI cold-starts a quantum chip",
+          "headline": "Concept2Brain simulates brain\nwaves from images and text",
+          "body": "Concept2Brain predicts EEG responses to photos or text so researchers can simulate experiments before recruiting.",
+          "mini_headline": "AI simulates brain waves",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/11/image-71.png",
-                "cap": "Gate fidelities from a full autonomous bring-up of a QuantWare Contralto-D21."
+                "src": "https://www.psypost.org/wp-content/uploads/2026/06/brainimg-2.jpg",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "Quantum infrastructure software provider Q-CTRL has released hardware benchmarking data demonstrating fully autonomous, cold-start bring-up and gate calibration on QuantWare D-Line superconducting processors using its Boulder Opal control platform. Validated on a 21-qubit QuantWare Contralto-D21 device, the physics-informed AI state machine tuned five-qubit feedline blocks from an uncalibrated state to operational gate fidelities in under three hours without manual specialist intervention."
+                "x": "Scientists have developed an AI tool called Concept2Brain that predicts how human brain waves respond to photographs or written text. In a study published in Nature Communications, the open-access platform generates synthetic EEG recordings that resemble real brain activity, which could let researchers simulate brain-wave experiments before recruiting volunteers."
               },
               {
                 "t": "p",
-                "x": "Benchmarks: cold-start bring-up time <3 hours per 5-qubit feedline; single-qubit gate fidelity 99.95% median (SX gates); two-qubit gate fidelity >98% peak / 96% device median (CZ gates). Upcoming roadmap: QuantWare A-Line & runtime recalibration, adding tunable-coupler support, task parallelization, and continuous drift tracking in late 2026."
+                "x": "It was trained on EEG from 88 university volunteers viewing 360 photographs. A conditional variational autoencoder compresses each 129-channel recording into 256 numbers, and a translator built around OpenAI’s CLIP maps images or text into that summary. On held-out photographs, synthetic waves closely matched real recordings from about 100 to 700 milliseconds, and the model reproduced the 170 ms face response without face labels."
               },
               {
                 "t": "p",
-                "x": "Scaling superconducting quantum computers presents a severe operational bottleneck because dozens of interdependent control parameters must be iteratively tuned and stabilized against environmental drift. Conventional scripted calibration routines frequently fail when hardware frequencies drift outside narrow scan windows, requiring experimental physicists to intervene manually."
-              },
-              {
-                "t": "p",
-                "x": "Boulder Opal encodes architecture-specific characterization and calibration routines into an automated state machine capable of detecting out-of-range anomalies, filtering false-positive resonances, and recovering underperforming qubits autonomously."
+                "x": "Lead author Alejandro Santos-Mayo cautions that synthetic data cannot replace empirical data collected from human participants; text-prompted predictions are less validated, and agreement was weaker on external datasets."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Q-CTRL AI가 해낸\n21큐비트 칩 콜드 스타트",
-          "body": "Q-CTRL AI가 21큐비트 QuantWare QPU를 처음부터 스스로 보정했다.",
-          "mini_headline": "AI가 맡은 양자 칩 콜드 스타트",
+          "headline": "Concept2Brain이\n이미지·글로 뇌파 모사",
+          "body": "Concept2Brain은 사진·글의 EEG 반응을 예측해 모집 전 실험을 돕는다.",
+          "mini_headline": "AI로 뇌파 시뮬레이션",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/11/image-71.png",
-                "cap": "QuantWare Contralto-D21을 완전 자율로 가동했을 때의 게이트 충실도."
+                "src": "https://www.psypost.org/wp-content/uploads/2026/06/brainimg-2.jpg",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "양자 인프라 소프트웨어 기업 Q-CTRL이 자사 Boulder Opal 제어 플랫폼으로 QuantWare D-Line 초전도 프로세서를 콜드 스타트 상태에서 완전 자율로 가동하고 게이트를 보정한 하드웨어 벤치마크 데이터를 공개했다. 21큐비트 QuantWare Contralto-D21 장치에서 검증해 보니, 물리 기반 AI 상태 머신은 전문가의 수동 개입 없이 다섯 큐비트 피드라인 블록을 세 시간 안에 미보정 상태에서 실제 운용 가능한 게이트 충실도까지 끌어올렸다."
+                "x": "과학자들이 사진이나 글을 본 사람의 뇌파 반응을 예측하는 AI 도구 Concept2Brain을 개발했다. Nature Communications에 실린 연구에 따르면 이 오픈 액세스 플랫폼은 실제 뇌 활동과 닮은 합성 EEG 기록을 만들어 낸다. 연구자가 자원자를 모집하기 전에 뇌파 실험을 미리 시뮬레이션해 볼 수 있을 전망이다."
               },
               {
                 "t": "p",
-                "x": "벤치마크: 콜드 스타트 가동 시간은 5큐비트 피드라인당 <3시간, 단일 큐비트 게이트 충실도 중앙값 99.95%(SX 게이트), 두 큐비트 게이트 충실도 최고 >98% / 장치 중앙값 96%(CZ 게이트). 향후 로드맵: 2026년 말 QuantWare A-Line 지원과 런타임 재보정, 가변 커플러 지원 추가, 작업 병렬화, 지속적인 드리프트 추적."
+                "x": "모델은 대학 자원자 88명이 사진 360장을 보는 동안 잰 EEG로 학습했다. 조건부 변분 오토인코더가 129채널 기록 하나하나를 숫자 256개로 압축하고, OpenAI의 CLIP을 중심으로 만든 변환기가 이미지나 텍스트를 이 요약으로 옮긴다. 학습에 쓰지 않은 사진에서도 합성 뇌파는 약 100~700밀리초 구간에서 실제 기록과 거의 일치했다. 얼굴 레이블이 없었는데도 170 ms 얼굴 반응까지 재현했다."
               },
               {
                 "t": "p",
-                "x": "초전도 양자 컴퓨터의 규모를 키울 때는 운영상 병목이 심각하다. 서로 얽힌 제어 변수 수십 개를 거듭 조정하고 환경 드리프트에 맞서 안정화해야 하기 때문이다. 기존 스크립트 기반 보정 루틴은 하드웨어 주파수가 좁은 스캔 범위를 벗어나면 자주 실패했고, 그때마다 실험 물리학자가 직접 손을 대야 했다."
-              },
-              {
-                "t": "p",
-                "x": "Boulder Opal은 아키텍처별 특성 분석과 보정 루틴을 자동화된 상태 머신에 담았다. 이 상태 머신은 범위를 벗어난 이상을 감지하고 거짓 양성 공진을 걸러내며, 성능이 떨어진 큐비트를 스스로 복구한다."
+                "x": "제1저자 Alejandro Santos-Mayo는 합성 데이터가 사람 참가자에게서 얻은 실측 데이터를 대신할 수는 없다고 경고한다. 텍스트 프롬프트로 한 예측은 아직 검증이 덜 됐고, 외부 데이터셋에서는 일치도가 더 낮았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Q-CTRLのAIが未調整の\n21量子ビットチップを調整",
-          "body": "Q-CTRLのAIが21量子ビットのQuantWare QPUを未較正から自律的に調整した。",
-          "mini_headline": "AIが量子チップをコールドスタート",
+          "headline": "Concept2Brain、\n画像と文から脳波を再現",
+          "body": "Concept2Brainは写真や文へのEEG反応を予測し、募集前に実験を試せる。",
+          "mini_headline": "AIが脳波をシミュレーション",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/11/image-71.png",
-                "cap": "QuantWare Contralto-D21を完全自律で立ち上げた際のゲート忠実度。"
+                "src": "https://www.psypost.org/wp-content/uploads/2026/06/brainimg-2.jpg",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "量子インフラソフトウェア企業のQ-CTRLは、自社の制御プラットフォームBoulder Opalを使い、QuantWare D-Line超伝導プロセッサでコールドスタートからの完全自律的な立ち上げとゲート較正を実証したハードウェアのベンチマークデータを公開した。21量子ビットのQuantWare Contralto-D21で検証したところ、物理情報を組み込んだAIステートマシンは、専門家の手作業なしに、五量子ビットのフィードラインブロックを未較正状態から実用的なゲート忠実度まで三時間未満で調整した。"
+                "x": "科学者らは、人の脳波が写真や文章にどう反応するかを予測するAIツールConcept2Brainを開発した。Nature Communicationsに掲載された研究によると、このオープンアクセスのプラットフォームは実際の脳活動に似た合成EEG記録を生成し、研究者がボランティアを募る前に脳波実験をシミュレーションできるようになる可能性がある。"
               },
               {
                 "t": "p",
-                "x": "ベンチマーク: コールドスタートの立ち上げ時間は5量子ビットのフィードラインあたり<3時間、単一量子ビットゲート忠実度の中央値99.95%(SXゲート)、二量子ビットゲート忠実度のピーク>98% / デバイス中央値96%(CZゲート)。今後のロードマップ: 2026年後半にQuantWare A-Lineとランタイム再較正、チューナブルカプラー対応の追加、タスクの並列化、継続的なドリフト追跡。"
+                "x": "モデルは、大学のボランティア88人が写真360枚を見た際のEEGで学習した。条件付き変分オートエンコーダーが129チャンネルの各記録を256個の数値に圧縮し、OpenAIのCLIPを中心に構築した変換器が画像やテキストをその要約に対応づける。学習に使っていない写真では、合成波形は約100〜700ミリ秒で実際の記録とよく一致し、モデルは顔のラベルなしで170 msの顔反応を再現した。"
               },
               {
                 "t": "p",
-                "x": "超伝導量子コンピュータの規模拡大には深刻な運用上のボトルネックがある。互いに依存する数十の制御パラメータを繰り返し調整し、環境ドリフトに対して安定させなければならないためだ。従来のスクリプト型較正ルーチンは、ハードウェアの周波数が狭いスキャン範囲から外れるとしばしば失敗し、実験物理学者が手作業で介入する必要があった。"
-              },
-              {
-                "t": "p",
-                "x": "Boulder Opalは、アーキテクチャ固有の特性評価と較正ルーチンを自動化されたステートマシンに組み込み、範囲外の異常の検出、偽陽性の共振の除去、性能の低い量子ビットの自律的な回復を可能にする。"
+                "x": "筆頭著者のAlejandro Santos-Mayoは、合成データは人間の参加者から集めた実測データに代わるものではないと注意を促す。テキストによる予測の検証はまだ不十分で、外部データセットでは一致度が低かった。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Q-CTRL AI从冷启动\n调校21量子比特芯片",
-          "body": "Q-CTRL的AI自主把21量子比特QuantWare QPU从未校准状态调至可用门保真度。",
-          "mini_headline": "AI冷启动量子芯片",
+          "headline": "Concept2Brain：\n用图像和文字模拟脑电波",
+          "body": "Concept2Brain可预测人对照片或文字的EEG反应，让研究者在招募前模拟实验。",
+          "mini_headline": "AI模拟脑电波",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/11/image-71.png",
-                "cap": "QuantWare Contralto-D21完全自主启动后的门保真度。"
+                "src": "https://www.psypost.org/wp-content/uploads/2026/06/brainimg-2.jpg",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "量子基础设施软件供应商Q-CTRL发布硬件基准数据，展示其利用Boulder Opal控制平台，在QuantWare D-Line超导处理器上实现完全自主的冷启动调试和门校准。在一台21量子比特的QuantWare Contralto-D21设备上验证时，这一融入物理知识的AI状态机在没有专家人工干预的情况下，不到三小时便将五量子比特馈线模块从未校准状态调至可运行的门保真度。"
+                "x": "科学家开发出一款名为Concept2Brain的AI工具，可预测人类脑电波对照片或书面文字的反应。据发表在Nature Communications上的研究，这一开放获取平台能生成与真实脑活动相似的合成EEG记录，或可让研究人员在招募志愿者之前模拟脑电波实验。"
               },
               {
                 "t": "p",
-                "x": "基准：每条5量子比特馈线的冷启动调试时间<3小时；单量子比特门保真度中位数99.95%（SX门）；双量子比特门保真度峰值>98% / 设备中位数96%（CZ门）。后续路线图：2026年末推出QuantWare A-Line支持与运行时重新校准，新增可调耦合器支持、任务并行化和持续漂移跟踪。"
+                "x": "该模型以88名大学志愿者观看360张照片时的EEG数据训练而成。条件变分自编码器将每段129通道记录压缩为256个数字，围绕OpenAI的CLIP构建的转换器则把图像或文本映射到这一摘要中。在未参与训练的照片上，合成脑电波在约100至700毫秒间与真实记录高度吻合，模型还在没有人脸标签的情况下重现了170 ms的人脸反应。"
               },
               {
                 "t": "p",
-                "x": "扩展超导量子计算机面临严重的运营瓶颈，因为数十个相互依赖的控制参数必须反复调校，并针对环境漂移保持稳定。当硬件频率漂出狭窄的扫描窗口时，传统的脚本化校准流程经常失败，需要实验物理学家手动介入。"
-              },
-              {
-                "t": "p",
-                "x": "Boulder Opal将特定架构的表征与校准流程编码进一个自动化状态机，能够检测超出范围的异常、过滤假阳性共振，并自主恢复表现不佳的量子比特。"
+                "x": "第一作者Alejandro Santos-Mayo提醒，合成数据无法取代从人类参与者身上收集的实证数据；基于文本提示的预测验证较少，在外部数据集上的吻合度也较弱。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La AI de Q-CTRL ajusta un chip\nde 21 cúbits en arranque en frío",
-          "body": "La AI de Q-CTRL llevó autónomamente una QPU QuantWare de 21 cúbits sin calibrar a fidelidades de puerta operativas.",
-          "mini_headline": "La AI arranca en frío un chip cuántico",
+          "headline": "Concept2Brain simula ondas\ncerebrales con imágenes y texto",
+          "body": "Concept2Brain predice respuestas de EEG a fotos o textos para simular experimentos antes de reclutar voluntarios.",
+          "mini_headline": "La IA simula ondas cerebrales",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/11/image-71.png",
-                "cap": "Fidelidades de puerta tras una puesta en marcha totalmente autónoma de un QuantWare Contralto-D21."
+                "src": "https://www.psypost.org/wp-content/uploads/2026/06/brainimg-2.jpg",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "El proveedor de software de infraestructura cuántica Q-CTRL ha publicado datos de evaluación de hardware que demuestran la puesta en marcha desde arranque en frío y la calibración de puertas totalmente autónomas en procesadores superconductores QuantWare D-Line mediante su plataforma de control Boulder Opal. Validada en un dispositivo QuantWare Contralto-D21 de 21 cúbits, la máquina de estados de AI basada en la física ajustó bloques de línea de alimentación de cinco cúbits desde un estado sin calibrar hasta fidelidades de puerta operativas en menos de tres horas, sin intervención manual de especialistas."
+                "x": "Unos científicos han desarrollado una herramienta de IA llamada Concept2Brain que predice cómo responden las ondas cerebrales humanas a fotografías o textos escritos. En un estudio publicado en Nature Communications, la plataforma de acceso abierto genera registros sintéticos de EEG que se asemejan a la actividad cerebral real, lo que podría permitir a los investigadores simular experimentos de ondas cerebrales antes de reclutar voluntarios."
               },
               {
                 "t": "p",
-                "x": "Resultados: tiempo de puesta en marcha en frío <3 horas por línea de alimentación de 5 cúbits; fidelidad de puerta de un cúbit 99.95% de mediana (puertas SX); fidelidad de puerta de dos cúbits >98% en el pico / 96% de mediana del dispositivo (puertas CZ). Hoja de ruta: QuantWare A-Line y recalibración en tiempo de ejecución, soporte para acopladores sintonizables, paralelización de tareas y seguimiento continuo de la deriva a finales de 2026."
+                "x": "Se entrenó con el EEG de 88 voluntarios universitarios que veían 360 fotografías. Un autocodificador variacional condicional comprime cada registro de 129 canales en 256 números, y un traductor construido en torno a CLIP, de OpenAI, traslada imágenes o textos a ese resumen. Con fotografías reservadas, las ondas sintéticas coincidieron estrechamente con los registros reales entre unos 100 y 700 milisegundos, y el modelo reprodujo la respuesta facial de 170 ms sin etiquetas de rostros."
               },
               {
                 "t": "p",
-                "x": "Escalar los ordenadores cuánticos superconductores supone un grave cuello de botella operativo, porque decenas de parámetros de control interdependientes deben ajustarse de forma iterativa y estabilizarse frente a la deriva ambiental. Las rutinas de calibración convencionales basadas en scripts fallan con frecuencia cuando las frecuencias del hardware se desvían fuera de estrechas ventanas de barrido, lo que obliga a los físicos experimentales a intervenir manualmente."
-              },
-              {
-                "t": "p",
-                "x": "Boulder Opal codifica rutinas de caracterización y calibración específicas de cada arquitectura en una máquina de estados automatizada capaz de detectar anomalías fuera de rango, filtrar resonancias falsas positivas y recuperar de forma autónoma los cúbits de bajo rendimiento."
+                "x": "El autor principal, Alejandro Santos-Mayo, advierte de que los datos sintéticos no pueden sustituir a los datos empíricos recogidos de participantes humanos; las predicciones a partir de texto están menos validadas y la concordancia fue más débil en conjuntos de datos externos."
               }
             ]
           }
@@ -1527,125 +1393,109 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Q-CTRL AI가 해낸\n21큐비트 칩 콜드 스타트",
-          "body": "Q-CTRL AI가 21큐비트 QuantWare QPU를 처음부터 자율 보정했다.",
-          "mini_headline": "AI, 양자 칩을 콜드 스타트하다",
+          "headline": "Concept2Brain이\n이미지·글로 뇌파 모사",
+          "body": "Concept2Brain은 사진·글의 EEG 반응을 예측해 모집 전 실험을 돕는다.",
+          "mini_headline": "AI로 뇌파 시뮬레이션",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/11/image-71.png",
-                "cap": "QuantWare Contralto-D21을 완전 자율 방식으로 가동했을 때의 게이트 충실도."
+                "src": "https://www.psypost.org/wp-content/uploads/2026/06/brainimg-2.jpg",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "양자 인프라 소프트웨어 기업 Q-CTRL이 자사 Boulder Opal 제어 플랫폼으로 QuantWare D-Line 초전도 프로세서를 콜드 스타트 상태에서 완전 자율로 가동하고 게이트를 보정한 하드웨어 벤치마크 데이터를 공개했다. 21큐비트 QuantWare Contralto-D21 장치에서 검증한 결과, 물리 기반 AI 상태 머신은 전문가의 수동 개입 없이 다섯 큐비트 피드라인 블록을 미보정 상태에서 실제 운용 가능한 게이트 충실도까지 세 시간 안에 조정했다."
+                "x": "과학자들이 사람의 뇌파가 사진이나 글에 어떻게 반응하는지 예측하는 AI 도구 Concept2Brain을 개발했다. Nature Communications에 실린 연구에 따르면, 이 오픈 액세스 플랫폼은 실제 뇌 활동과 닮은 합성 EEG 기록을 생성한다. 이를 이용하면 연구자가 자원자를 모집하기 전에 뇌파 실험을 시뮬레이션해 볼 수 있을 것으로 보인다."
               },
               {
                 "t": "p",
-                "x": "벤치마크: 콜드 스타트 가동 시간은 5큐비트 피드라인당 <3시간, 단일 큐비트 게이트 충실도 중앙값 99.95%(SX 게이트), 두 큐비트 게이트 충실도 최고 >98% / 장치 중앙값 96%(CZ 게이트). 향후 로드맵: 2026년 말 QuantWare A-Line 지원과 런타임 재보정, 가변 커플러 지원 추가, 작업 병렬화, 지속적인 드리프트 추적."
+                "x": "모델은 대학 자원자 88명이 사진 360장을 보는 동안 측정한 EEG로 학습했다. 조건부 변분 오토인코더가 129채널 기록 하나하나를 숫자 256개로 압축하고, OpenAI의 CLIP을 중심으로 만든 변환기가 이미지나 텍스트를 그 요약으로 옮긴다. 학습에 쓰지 않은 사진에서 합성 뇌파는 약 100~700밀리초 구간에서 실제 기록과 거의 일치했고, 모델은 얼굴 레이블 없이도 170 ms 얼굴 반응을 재현했다."
               },
               {
                 "t": "p",
-                "x": "초전도 양자 컴퓨터를 키우는 데는 심각한 운영상 병목이 있다. 서로 얽힌 수십 개의 제어 변수를 반복해서 조정하고 환경 드리프트에 맞서 안정화해야 하기 때문이다. 기존의 스크립트 기반 보정 루틴은 하드웨어 주파수가 좁은 스캔 범위를 벗어나면 자주 실패해, 실험 물리학자가 직접 개입해야 했다."
-              },
-              {
-                "t": "p",
-                "x": "Boulder Opal은 아키텍처별 특성 분석과 보정 루틴을 자동화된 상태 머신에 담았다. 이 상태 머신은 범위를 벗어난 이상을 감지하고, 거짓 양성 공진을 걸러내며, 성능이 떨어지는 큐비트를 자율적으로 복구한다."
+                "x": "제1저자 Alejandro Santos-Mayo는 합성 데이터가 사람 참가자에게서 수집한 실측 데이터를 대체할 수 없다고 경고한다. 텍스트 프롬프트 기반 예측은 검증이 덜 됐고, 외부 데이터셋에서는 일치도가 더 낮았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Q-CTRLのAIが未調整の\n21量子ビットチップを調整",
-          "body": "Q-CTRLのAIが21量子ビットのQuantWare QPUを未較正から自律的に調整した。",
-          "mini_headline": "AIが量子チップをコールドスタート",
+          "headline": "Concept2Brain、\n画像と文から脳波を再現",
+          "body": "Concept2Brainは写真や文へのEEG反応を予測し、募集前に実験を試せる。",
+          "mini_headline": "AIが脳波をシミュレーション",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/11/image-71.png",
-                "cap": "QuantWare Contralto-D21を完全自律で立ち上げた際のゲート忠実度。"
+                "src": "https://www.psypost.org/wp-content/uploads/2026/06/brainimg-2.jpg",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "量子インフラソフトウェア企業のQ-CTRLは、自社の制御プラットフォームBoulder Opalを使い、QuantWare D-Line超伝導プロセッサでコールドスタートからの完全自律的な立ち上げとゲート較正を実証したハードウェアのベンチマークデータを公開した。21量子ビットのQuantWare Contralto-D21で検証したところ、物理情報を組み込んだAIステートマシンは、専門家の手作業なしに、五量子ビットのフィードラインブロックを未較正状態から実用的なゲート忠実度まで三時間未満で調整した。"
+                "x": "科学者らは、人の脳波が写真や文章にどう反応するかを予測するAIツールConcept2Brainを開発した。Nature Communicationsに掲載された研究によると、このオープンアクセスのプラットフォームは実際の脳活動に似た合成EEG記録を生成し、研究者がボランティアを募る前に脳波実験をシミュレーションできるようになる可能性がある。"
               },
               {
                 "t": "p",
-                "x": "ベンチマーク: コールドスタートの立ち上げ時間は5量子ビットのフィードラインあたり<3時間、単一量子ビットゲート忠実度の中央値99.95%(SXゲート)、二量子ビットゲート忠実度のピーク>98% / デバイス中央値96%(CZゲート)。今後のロードマップ: 2026年後半にQuantWare A-Lineとランタイム再較正、チューナブルカプラー対応の追加、タスクの並列化、継続的なドリフト追跡。"
+                "x": "モデルは、大学のボランティア88人が写真360枚を見た際のEEGで学習した。条件付き変分オートエンコーダーが129チャンネルの各記録を256個の数値に圧縮し、OpenAIのCLIPを中心に構築した変換器が画像やテキストをその要約に対応づける。学習に使っていない写真では、合成波形は約100〜700ミリ秒で実際の記録とよく一致し、モデルは顔のラベルなしで170 msの顔反応を再現した。"
               },
               {
                 "t": "p",
-                "x": "超伝導量子コンピュータの規模拡大には深刻な運用上のボトルネックがある。互いに依存する数十の制御パラメータを繰り返し調整し、環境ドリフトに対して安定させなければならないためだ。従来のスクリプト型較正ルーチンは、ハードウェアの周波数が狭いスキャン範囲から外れるとしばしば失敗し、実験物理学者が手作業で介入する必要があった。"
-              },
-              {
-                "t": "p",
-                "x": "Boulder Opalは、アーキテクチャ固有の特性評価と較正ルーチンを自動化されたステートマシンに組み込み、範囲外の異常の検出、偽陽性の共振の除去、性能の低い量子ビットの自律的な回復を可能にする。"
+                "x": "筆頭著者のAlejandro Santos-Mayoは、合成データは人間の参加者から集めた実測データに代わるものではないと注意を促す。テキストによる予測の検証はまだ不十分で、外部データセットでは一致度が低かった。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Q-CTRL AI从冷启动\n调校21量子比特芯片",
-          "body": "Q-CTRL的AI自主把21量子比特QuantWare QPU从未校准状态调至可用门保真度。",
-          "mini_headline": "AI冷启动量子芯片",
+          "headline": "Concept2Brain：\n用图像和文字模拟脑电波",
+          "body": "Concept2Brain可预测人对照片或文字的EEG反应，让研究者在招募前模拟实验。",
+          "mini_headline": "AI模拟脑电波",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/11/image-71.png",
-                "cap": "QuantWare Contralto-D21完全自主启动后的门保真度。"
+                "src": "https://www.psypost.org/wp-content/uploads/2026/06/brainimg-2.jpg",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "量子基础设施软件供应商Q-CTRL发布硬件基准数据，展示其利用Boulder Opal控制平台，在QuantWare D-Line超导处理器上实现完全自主的冷启动调试和门校准。在一台21量子比特的QuantWare Contralto-D21设备上验证时，这一融入物理知识的AI状态机在没有专家人工干预的情况下，不到三小时便将五量子比特馈线模块从未校准状态调至可运行的门保真度。"
+                "x": "科学家开发出一款名为Concept2Brain的AI工具，可预测人类脑电波对照片或书面文字的反应。据发表在Nature Communications上的研究，这一开放获取平台能生成与真实脑活动相似的合成EEG记录，或可让研究人员在招募志愿者之前模拟脑电波实验。"
               },
               {
                 "t": "p",
-                "x": "基准：每条5量子比特馈线的冷启动调试时间<3小时；单量子比特门保真度中位数99.95%（SX门）；双量子比特门保真度峰值>98% / 设备中位数96%（CZ门）。后续路线图：2026年末推出QuantWare A-Line支持与运行时重新校准，新增可调耦合器支持、任务并行化和持续漂移跟踪。"
+                "x": "该模型以88名大学志愿者观看360张照片时的EEG数据训练而成。条件变分自编码器将每段129通道记录压缩为256个数字，围绕OpenAI的CLIP构建的转换器则把图像或文本映射到这一摘要中。在未参与训练的照片上，合成脑电波在约100至700毫秒间与真实记录高度吻合，模型还在没有人脸标签的情况下重现了170 ms的人脸反应。"
               },
               {
                 "t": "p",
-                "x": "扩展超导量子计算机面临严重的运营瓶颈，因为数十个相互依赖的控制参数必须反复调校，并针对环境漂移保持稳定。当硬件频率漂出狭窄的扫描窗口时，传统的脚本化校准流程经常失败，需要实验物理学家手动介入。"
-              },
-              {
-                "t": "p",
-                "x": "Boulder Opal将特定架构的表征与校准流程编码进一个自动化状态机，能够检测超出范围的异常、过滤假阳性共振，并自主恢复表现不佳的量子比特。"
+                "x": "第一作者Alejandro Santos-Mayo提醒，合成数据无法取代从人类参与者身上收集的实证数据；基于文本提示的预测验证较少，在外部数据集上的吻合度也较弱。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La AI de Q-CTRL ajusta un chip\nde 21 cúbits en arranque en frío",
-          "body": "La AI de Q-CTRL llevó autónomamente una QPU QuantWare de 21 cúbits sin calibrar a fidelidades de puerta operativas.",
-          "mini_headline": "La AI arranca en frío un chip cuántico",
+          "headline": "Concept2Brain simula ondas\ncerebrales con imágenes y texto",
+          "body": "Concept2Brain predice respuestas de EEG a fotos o textos para simular experimentos antes de reclutar voluntarios.",
+          "mini_headline": "La IA simula ondas cerebrales",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/11/image-71.png",
-                "cap": "Fidelidades de puerta tras una puesta en marcha totalmente autónoma de un QuantWare Contralto-D21."
+                "src": "https://www.psypost.org/wp-content/uploads/2026/06/brainimg-2.jpg",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "El proveedor de software de infraestructura cuántica Q-CTRL ha publicado datos de evaluación de hardware que demuestran la puesta en marcha desde arranque en frío y la calibración de puertas totalmente autónomas en procesadores superconductores QuantWare D-Line mediante su plataforma de control Boulder Opal. Validada en un dispositivo QuantWare Contralto-D21 de 21 cúbits, la máquina de estados de AI basada en la física ajustó bloques de línea de alimentación de cinco cúbits desde un estado sin calibrar hasta fidelidades de puerta operativas en menos de tres horas, sin intervención manual de especialistas."
+                "x": "Unos científicos han desarrollado una herramienta de IA llamada Concept2Brain que predice cómo responden las ondas cerebrales humanas a fotografías o textos escritos. En un estudio publicado en Nature Communications, la plataforma de acceso abierto genera registros sintéticos de EEG que se asemejan a la actividad cerebral real, lo que podría permitir a los investigadores simular experimentos de ondas cerebrales antes de reclutar voluntarios."
               },
               {
                 "t": "p",
-                "x": "Resultados: tiempo de puesta en marcha en frío <3 horas por línea de alimentación de 5 cúbits; fidelidad de puerta de un cúbit 99.95% de mediana (puertas SX); fidelidad de puerta de dos cúbits >98% en el pico / 96% de mediana del dispositivo (puertas CZ). Hoja de ruta: QuantWare A-Line y recalibración en tiempo de ejecución, soporte para acopladores sintonizables, paralelización de tareas y seguimiento continuo de la deriva a finales de 2026."
+                "x": "Se entrenó con el EEG de 88 voluntarios universitarios que veían 360 fotografías. Un autocodificador variacional condicional comprime cada registro de 129 canales en 256 números, y un traductor construido en torno a CLIP, de OpenAI, traslada imágenes o textos a ese resumen. Con fotografías reservadas, las ondas sintéticas coincidieron estrechamente con los registros reales entre unos 100 y 700 milisegundos, y el modelo reprodujo la respuesta facial de 170 ms sin etiquetas de rostros."
               },
               {
                 "t": "p",
-                "x": "Escalar los ordenadores cuánticos superconductores supone un grave cuello de botella operativo, porque decenas de parámetros de control interdependientes deben ajustarse de forma iterativa y estabilizarse frente a la deriva ambiental. Las rutinas de calibración convencionales basadas en scripts fallan con frecuencia cuando las frecuencias del hardware se desvían fuera de estrechas ventanas de barrido, lo que obliga a los físicos experimentales a intervenir manualmente."
-              },
-              {
-                "t": "p",
-                "x": "Boulder Opal codifica rutinas de caracterización y calibración específicas de cada arquitectura en una máquina de estados automatizada capaz de detectar anomalías fuera de rango, filtrar resonancias falsas positivas y recuperar de forma autónoma los cúbits de bajo rendimiento."
+                "x": "El autor principal, Alejandro Santos-Mayo, advierte de que los datos sintéticos no pueden sustituir a los datos empíricos recogidos de participantes humanos; las predicciones a partir de texto están menos validadas y la concordancia fue más débil en conjuntos de datos externos."
               }
             ]
           }

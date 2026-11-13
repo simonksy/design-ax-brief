@@ -11006,6 +11006,127 @@
           "x": "CDPRは今後このアルゴリズムでRozenekの声を変える予定はないとし、Rozenek本人も自身のAI分身を聴いていないと認めた。"
         }
       ]
+    },
+    "games/sony-qssr-ps5-rollout": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/ARC-Raiders-QSSR-HD-1920x1080.jpeg",
+          "cap": "Quick Spectral Super Resolution（QSSR）は、Spider-Man 2、CONTROL Resonant、ARC Raiders、The Finals、No Man's Sky、Hell Let Loose: VietnamなどPS5の6タイトルに近日対応する。"
+        },
+        {
+          "t": "p",
+          "x": "Sonyは本日、PlayStation 5の6タイトルがQuick Spectral Super Resolution（QSSR）に対応した、またはまもなく対応すると発表した。QSSRはPS5 ProのPSSRから派生した軽量AIアップスケーラーで、10月に初めてリリースされた。対象はMarvel's Spider-Man 2、CONTROL Resonant、The Finals、ARC Raiders、No Man's Sky、Hell Let Loose: Vietnamだ。"
+        },
+        {
+          "t": "p",
+          "x": "InsomniacのMike Fitzgeraldは、Marvel's Wolverineで良好な結果が得られたことを受け、QSSRが「現在配信中のアップデートで」Marvel's Spider-Man 2に導入されたと述べた。"
+        },
+        {
+          "t": "video",
+          "yt": "JYEQkLnlV7o"
+        },
+        {
+          "t": "p",
+          "x": "RemedyのErik Janssonは、12月配信予定のアップデートでQSSRによりControl Resonantが「はるかに安定した精細な映像」になると語った。Embark StudiosはQSSRがまもなくARC RaidersとThe Finalsに導入されるとし、Hello GamesのSean Murrayは「今後数週間のうちに」No Man's Skyで見られると述べた。Expression Gamesも今後のアップデートでHell Let Loose: Vietnamに追加する。"
+        }
+      ]
+    },
+    "games/games-ai-clone-ip-defense": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/pexels-icon0-1214270.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "cap": "画像提供：iconO com on Pexels"
+        },
+        {
+          "t": "p",
+          "x": "ここ数カ月、ビデオゲーム開発における生成AIの利用は大きく増えている。2026年10月のSteam Next Festには8,000本を超えるデモが並び、その多くが一部または全部を生成AIツールで作られていた。AIは素早く組み立てられた無許可のクローン、Mod、移植版の新たな波も後押ししており、クローンを恐れて公開デモを取りやめたと明かす開発者もいる。Pryor Cashmanの弁護士は、米国法（US-law）に基づく実務的な手順を次のように示す。"
+        },
+        {
+          "t": "p",
+          "x": "#1 機密を守る：ゲーム素材の共有、録画、LLMやチャットボットへの入力を禁じるNDAs（秘密保持契約）を求め、透かしと期間限定のアクセスも組み合わせる。#2 外注先や協力者のAI利用を把握し、方針を定める。#3 リリース前に米国著作権局（US Copyright Office）へ著作権を登録する。適時に登録すれば、故意の侵害に対して最大$150,000の法定損害賠償を請求できる可能性がある。#4 USPTOに使用意思（intent-to-use）ベースで商標を出願する。現在この手続きには約10カ月かかる。#5 ブランドを築き、ドメインとSNSアカウントを確保する。#6 監視、削除要請、必要に応じて仮差止命令で権利を行使する。迅速な行動が欠かせない。"
+        },
+        {
+          "t": "p",
+          "x": "実務上の目標は、最初の公開前に権利の連鎖（chain-of-title）を示す書類、各種登録、権利行使の手順を整えておくことだ。"
+        }
+      ]
+    },
+    "games/xbox-sharma-genai-memo": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/asha-sharma-xbox-showcase-2026.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "cap": "画像提供：Eurogamer"
+        },
+        {
+          "t": "p",
+          "x": "Xboxを率いるAsha Sharmaは、「25 years of Xbox」と題したメモで、ゲーム制作に生成AIの力を活用することをほのめかした。Sharmaは「あまりに多くのアイデアがゲームにならない」こと、「あまりに多くのゲームが作り手の思い描いた姿に届かない」ことを嘆いた。「何十年もの間、これは野心にとって避けられない代償だった」と彼女は書き、「私たちはこれを変えなければならない」と続けた。"
+        },
+        {
+          "t": "video",
+          "yt": "zCY0C8tTddM"
+        },
+        {
+          "t": "p",
+          "x": "「まもなく一人の人間が、かつては国家全体を必要とした能力を扱えるようになる。小さなチームが、今なら数百人の開発者と数億ドルを要する世界を築けるようになる。そして私たちの最大のスタジオは、Microsoft Flight Simulator 2024が1982年の第1作からかけ離れているのと同じくらい、今日のゲームをはるかに超えた野心を追求できるようになる」"
+        },
+        {
+          "t": "p",
+          "x": "生成AIへの明確な言及はないが、言葉選びは示唆的であり、このメモは先月のXbox Labs構想の発表に続くものだ。MicrosoftでAI分野のキャリアを積んだSharmaは、以前「悪いAIは一切容認しない」と語っていた。EurogamerはMicrosoftに説明を求めている。"
+        }
+      ]
+    },
+    "games/shadowkey-ngage-ai-revival": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/nag2arKf76CYq2aNFJVzpd-1920-80.jpg",
+          "cap": "（画像提供：Bethesda）"
+        },
+        {
+          "t": "p",
+          "x": "『The Elder Scrolls Travels: Shadowkey』は、2005年に生産終了となったNokiaの携帯ゲーム機N-Gage向けに発売された作品だ。Dan WhelanのプロジェクトShadowkey Reforgedでは、ワイドスクリーン、コントローラー対応、アップスケールされたグラフィックで、クラシックモードかモダンモードを選んで遊べる。モダンモードには、スタミナ制のダッシュ、ステルス、ラグドール物理など、後のメインシリーズElder Scrolls作品の要素も加わる。"
+        },
+        {
+          "t": "video",
+          "yt": "Ax-MqhRaP7w"
+        },
+        {
+          "t": "p",
+          "x": "WhelanはFAQでこう述べている。「コーディングとエンジン構築、デバッグにAIの助けを借りた。現代的な高解像度アートワークの大半は、AI画像生成とPhotoshop、そして一部手作業のスプライト編集を組み合わせて作った」"
+        },
+        {
+          "t": "p",
+          "x": "WhelanはShadowkey Reforgedを11月11日にWindows、Mac、Android向けに公開する予定だ。ただし、手持ちのNokia N-Gageから取り出した元のゲームファイルが必要になる。Morrowindの音楽や効果音を流用することもできる。"
+        }
+      ]
+    },
+    "games/gdc-state-industry-2026-genai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/state-of-the-game-industry-2026_SaCPvuv.png?width=1200&quality=85&format=jpg&auto=webp",
+          "cap": "GDC State of the Game Industry 2026"
+        },
+        {
+          "t": "p",
+          "x": "Game Developers Conference（GDC）の最新「State of the Game Industry」レポートによると、開発者の40%が仕事に生成AIを使っている。前回から4%の増加だが、調査プロジェクトリーダーのBeth Elderkinは、伸びは前回より小さいと指摘する。"
+        },
+        {
+          "t": "p",
+          "x": "この技術を使う開発者の57%は、テキスト生成、リサーチ、初期のプロトタイピング、コーディング、プレゼンテーションに用いている。生成AIの利用が最も多いのは、ビジネス運営・サービス部門、モバイル専業スタジオ、基本プレイ無料（free-to-play）の開発者だ。AAAの従事者の27%が生成AIの利用を促されている、あるいは圧力を感じていると答え、インディー開発者では9%が同様に答えた。"
+        },
+        {
+          "t": "p",
+          "x": "回答者の55%がAIはゲームに悪影響を与えていると答え、前年から1%増えた。Elderkinは「人々がこの技術を知るようになり、理論上の問題ではなく現実になったということだと思う。だから、どう使いたいのか、そもそも使いたいのかが分かっている」と話す。"
+        },
+        {
+          "t": "p",
+          "x": "AI以外では、回答者の33%が過去24か月に解雇を経験している。PCは81%で依然として主流で、UnrealとUnityはそれぞれ35%と28%、開発者の86%が1週間に40時間を超えて働いたことがあると答えた。Elderkinは今年、「将来への多くの回復力と希望」を感じているという。"
+        }
+      ]
     }
   }
 }

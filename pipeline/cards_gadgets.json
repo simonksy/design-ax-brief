@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "section": "gadgets",
   "cards": [
     {
-      "id": "samsung-eyewear-dec-launch",
+      "id": "gadgets-gemini-task-automation-galaxy",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Samsung 스마트 안경\n12월 출시 확정",
-      "body": "Samsung·Gentle Monster 안경이 12월 10일 US·한국에 나온다.",
-      "mini_headline": "Samsung 안경 12월 10일 출시",
+      "headline": "Gemini 작업 자동화\n114개 앱과 연동된다",
+      "body": "Gemini 자동화가 곧 Android 17 Galaxy 114개 앱을 지원한다.",
+      "mini_headline": "Gemini 자동화, 114개 앱 지원",
       "tool": "Gadgets",
-      "source": "Samsung Global Newsroom",
-      "url": "https://news.samsung.com/global/samsung-announces-december-release-for-intelligent-eyewear-bringing-a-smarter-way-to-see-the-world",
+      "source": "SamMobile",
+      "url": "https://www.sammobile.com/news/geminis-ai-task-automation-will-work-with-dozens-of-apps-on-galaxy-phones/",
       "accent": "#ff5a4d",
       "motif": "headset",
       "full": {
@@ -19,355 +19,345 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/11/12152225/Samsung-Mobile-Intelligent-Eyewear-Launch-Gentle-Monster-Warby-Parker_main1.jpg"
+            "src": "https://www.sammobile.com/wp-content/uploads/2026/07/Galaxy-Z-Fold-8-Ultra-Gemini-1200x675.jpg",
+            "cap": "Galaxy Z Fold 8 Ultra에서 실행한 Gemini"
           },
           {
             "t": "p",
-            "x": "Samsung Electronics가 오늘 스마트 안경 전 라인업의 출시 계획을 내놨다. 미국(U.S.)과 한국에서 12월 10일 나오고, 사전 주문은 오늘부터 받는다. Samsung의 모바일 엔지니어링 역량에 Gentle Monster와 Warby Parker의 독특한 디자인 30종을 입혔다. Google과 함께 개발했고 Gemini가 들어 있어, 주변 세상을 파악하고 언어의 벽을 넘어 소통하며 늘 연결된 채로 지내도록 돕는다."
-          },
-          {
-            "t": "img",
-            "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/11/12152250/Samsung-Mobile-Intelligent-Eyewear-Launch-Gentle-Monster-Warby-Parker_main2.jpg",
-            "cap": "다양한 색상으로 나온 Gentle Monster Intelligent Eyewear의 여섯 가지 프레임 디자인"
-          },
-          {
-            "t": "img",
-            "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/11/12152327/Samsung-Mobile-Intelligent-Eyewear-Launch-Gentle-Monster-Warby-Parker_main3.jpg",
-            "cap": "안경과 선글라스 버전으로 나온 Warby Parker Intelligent Eyewear의 세 가지 프레임 디자인"
+            "x": "Gemini는 성능 개선과 새 기능, 업그레이드된 모델을 앞세워 달마다 진화하고 있다. Google은 올해 초 Galaxy S26 시리즈 출시 행사에서 Android용 Gemini의 Task Automation 기능을 처음 공개했다. 이 기능이 곧 일부 Galaxy 휴대폰과 태블릿에서 수십 개 앱과 연동된다."
           },
           {
             "t": "p",
-            "x": "무게는 약 41그램이다. 눈앞에 보이는 것을 Gemini에게 묻고, 화이트보드 내용을 요약해 Samsung Notes에 담고, 메뉴를 번역하고, Google Maps의 턴바이턴 길 안내를 받는다. Gemini가 보는 시각 정보는 12MP HDR 카메라가 담당한다. Snapdragon AR1 Gen 1 Platform 덕분에 배터리는 최대 아홉 시간, 충전 케이스를 더하면 최대 72시간 간다. 처리 일부는 분할 컴퓨팅 방식으로 연결된 Galaxy 폰이 맡는다."
+            "x": "Gemini Task Automation 확대 배포를 앞두고 Android Authority가 Android 휴대폰과 태블릿에서 이 기능을 쓸 수 있는 앱 목록을 찾아냈다. 목록은 Australia, Canada, Europe, Global, India, Japan, South Korea, UK and Ireland, US 등 지역별로 나뉜다. Global 항목에는 Airbnb, Booking.com, eBay, Expedia, Microsoft Word, Excel, Outlook, Teams, Slack, Uber, Uber Eats가, South Korea 항목에는 11st, Catchtable, Gmarket, Kakao T, Korean Air, Naver Calendar, Yanolja가 올라 있다."
           },
           {
             "t": "p",
-            "x": "두 컬렉션 모두 2026년 12월 10일부터 미국(U.S.)에서 팔리고, Gentle Monster Intelligent Eyewear는 한국에서도 나온다. 미국(U.S.) 가격은 Warby Parker Intelligent Eyewear가 $395부터, Gentle Monster Intelligent Eyewear가 모델에 따라 $449에서 $489 사이다."
+            "x": "이 기능은 2026년에 출시돼 Android 17(One UI 9.0 이상)을 돌리는 Galaxy S, Galaxy Tab S(FE 모델 제외), Galaxy Z 시리즈 기기에서만 작동한다. 대상 기기는 Galaxy S26, S26+, S26 Ultra, S26 FE, Galaxy Tab S12+, Tab S12 Ultra, Galaxy Z Flip 8, Z Fold 8, Z Fold 8 Ultra다."
+          },
+          {
+            "t": "p",
+            "x": "이 기능으로 음식과 식료품 주문, 차량 호출, 상품 쇼핑, 공연 티켓과 항공권 예매, 식당이나 호텔 예약, 문서 작성과 편집, 메시지 전송 등 훨씬 많은 일을 처리한다. Google Play Store에서 내려받은 앱에서만 작동하는 듯하고, 출시는 단계적으로 이뤄질 가능성이 크다."
+          },
+          {
+            "t": "video",
+            "yt": "6FbSIAKJ1rg"
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Samsung sets December release\nfor its Intelligent Eyewear",
-          "body": "Samsung's Intelligent Eyewear ships December 10 in the US, with its Gentle Monster frames also launching in Korea.",
-          "mini_headline": "Samsung glasses ship Dec 10",
+          "headline": "Gemini task automation\nwill work with 114 apps",
+          "body": "Gemini Task Automation will soon work with 114 apps on select Galaxy phones and tablets running Android 17 or newer.",
+          "mini_headline": "Gemini automation for 114 apps",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/11/12152225/Samsung-Mobile-Intelligent-Eyewear-Launch-Gentle-Monster-Warby-Parker_main1.jpg"
+                "src": "https://www.sammobile.com/wp-content/uploads/2026/07/Galaxy-Z-Fold-8-Ultra-Gemini-1200x675.jpg",
+                "cap": "Gemini on Galaxy Z Fold 8 Ultra"
               },
               {
                 "t": "p",
-                "x": "Samsung Electronics today announced the upcoming launch of the full lineup of intelligent eyewear. Set for release in the U.S. and South Korea on Dec. 10 with pre-orders beginning today, the collection combines Samsung’s mobile engineering expertise with 30 distinctive designs from Gentle Monster and Warby Parker. Developed in collaboration with Google and with Gemini built in, the intelligent eyewear helps users understand the world around them, communicate across languages and stay connected."
-              },
-              {
-                "t": "img",
-                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/11/12152250/Samsung-Mobile-Intelligent-Eyewear-Launch-Gentle-Monster-Warby-Parker_main2.jpg",
-                "cap": "The six frame designs of Gentle Monster Intelligent Eyewear with various colorways"
-              },
-              {
-                "t": "img",
-                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/11/12152327/Samsung-Mobile-Intelligent-Eyewear-Launch-Gentle-Monster-Warby-Parker_main3.jpg",
-                "cap": "The three frame designs of Warby Parker Intelligent Eyewear in optical and sun versions"
+                "x": "Gemini is evolving every month with improved performance, new features, and upgraded models. Earlier this year, during the launch of the Galaxy S26 series, Google first showcased Gemini's Task Automation feature on Android. Soon, that feature will work with dozens of apps on select Galaxy phones and tablets."
               },
               {
                 "t": "p",
-                "x": "Weighing around 41 grams, the eyewear lets users ask Gemini about what they see, summarize a whiteboard into Samsung Notes, translate menus and get turn-by-turn directions from Google Maps. A 12MP HDR camera provides visual context for Gemini, and the Snapdragon AR1 Gen 1 Platform delivers up to nine hours of battery life, or up to 72 hours with the charging case. A split-computing system offloads part of the processing to the connected Galaxy phone."
+                "x": "Ahead of Gemini Task Automation's wider rollout, Android Authority discovered a list of apps that will be compatible with the feature on Android phones and tablets, grouped by region: Australia, Canada, Europe, Global, India, Japan, South Korea, UK and Ireland, and the US. Global entries include Airbnb, Booking.com, eBay, Expedia, Microsoft Word, Excel, Outlook and Teams, Slack, Uber and Uber Eats; South Korea's include 11st, Catchtable, Gmarket, Kakao T, Korean Air, Naver Calendar and Yanolja."
               },
               {
                 "t": "p",
-                "x": "Both collections will launch in the U.S. beginning Dec. 10, 2026, while Gentle Monster Intelligent Eyewear will also be available in Korea. In the U.S., Warby Parker Intelligent Eyewear will start at $395, while Gentle Monster Intelligent Eyewear will range from $449 to $489, depending on the model."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Samsung 스마트 안경\n12월 출시 확정",
-          "body": "Samsung·Gentle Monster 안경이 12월 10일 US·한국에 나온다.",
-          "mini_headline": "Samsung 안경 12월 10일 출시",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/11/12152225/Samsung-Mobile-Intelligent-Eyewear-Launch-Gentle-Monster-Warby-Parker_main1.jpg"
+                "x": "This feature will only work on Galaxy S, Galaxy Tab S (excluding FE models), and Galaxy Z series devices launched in 2026 and running Android 17 (One UI 9.0 or newer): Galaxy S26, S26+, S26 Ultra, S26 FE, Galaxy Tab S12+, Tab S12 Ultra, Galaxy Z Flip 8, Z Fold 8 and Z Fold 8 Ultra."
               },
               {
                 "t": "p",
-                "x": "Samsung Electronics가 오늘 스마트 안경 전 라인업의 출시 계획을 내놨다. 미국(U.S.)과 한국에서 12월 10일 나오고, 사전 주문은 오늘부터 받는다. Samsung의 모바일 엔지니어링 역량에 Gentle Monster와 Warby Parker의 독특한 디자인 30종을 입혔다. Google과 함께 개발했고 Gemini가 들어 있어, 주변 세상을 파악하고 언어의 벽을 넘어 소통하며 늘 연결된 채로 지내도록 돕는다."
+                "x": "Using this feature, you can order food and groceries, hail a ride, shop for products, book event tickets and flights, make restaurant reservations or hotel bookings, create or edit documents, send messages, and much more. Apparently, it will only work with apps downloaded from the Google Play Store, and launch will likely happen in a phased manner."
               },
               {
-                "t": "img",
-                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/11/12152250/Samsung-Mobile-Intelligent-Eyewear-Launch-Gentle-Monster-Warby-Parker_main2.jpg",
-                "cap": "다양한 색상으로 나온 Gentle Monster Intelligent Eyewear의 여섯 가지 프레임 디자인"
-              },
-              {
-                "t": "img",
-                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/11/12152327/Samsung-Mobile-Intelligent-Eyewear-Launch-Gentle-Monster-Warby-Parker_main3.jpg",
-                "cap": "안경과 선글라스 버전으로 나온 Warby Parker Intelligent Eyewear의 세 가지 프레임 디자인"
-              },
-              {
-                "t": "p",
-                "x": "무게는 약 41그램이다. 눈앞에 보이는 것을 Gemini에게 묻고, 화이트보드 내용을 요약해 Samsung Notes에 담고, 메뉴를 번역하고, Google Maps의 턴바이턴 길 안내를 받는다. Gemini가 보는 시각 정보는 12MP HDR 카메라가 담당한다. Snapdragon AR1 Gen 1 Platform 덕분에 배터리는 최대 아홉 시간, 충전 케이스를 더하면 최대 72시간 간다. 처리 일부는 분할 컴퓨팅 방식으로 연결된 Galaxy 폰이 맡는다."
-              },
-              {
-                "t": "p",
-                "x": "두 컬렉션 모두 2026년 12월 10일부터 미국(U.S.)에서 팔리고, Gentle Monster Intelligent Eyewear는 한국에서도 나온다. 미국(U.S.) 가격은 Warby Parker Intelligent Eyewear가 $395부터, Gentle Monster Intelligent Eyewear가 모델에 따라 $449에서 $489 사이다."
+                "t": "video",
+                "yt": "6FbSIAKJ1rg"
               }
             ]
           }
         },
         "ja": {
-          "headline": "Samsung AIグラス\n12月発売が決定",
-          "body": "Samsung・Gentle Monsterのグラスは12月10日、USと韓国で発売だ。",
-          "mini_headline": "Samsungグラス、12月10日発売",
+          "headline": "Gemini作業自動化\n114のアプリに対応へ",
+          "body": "Geminiの自動化機能が近くAndroid 17のGalaxyで114アプリに対応する。",
+          "mini_headline": "Gemini自動化が114アプリに対応",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/11/12152225/Samsung-Mobile-Intelligent-Eyewear-Launch-Gentle-Monster-Warby-Parker_main1.jpg"
+                "src": "https://www.sammobile.com/wp-content/uploads/2026/07/Galaxy-Z-Fold-8-Ultra-Gemini-1200x675.jpg",
+                "cap": "Galaxy Z Fold 8 UltraのGemini"
               },
               {
                 "t": "p",
-                "x": "Samsung Electronicsは本日、インテリジェントアイウェアのフルラインアップを発売すると発表した。米国（U.S.）と韓国で12月10日に発売され、予約受付は本日始まる。このコレクションは、Samsungのモバイル技術とGentle MonsterおよびWarby Parkerによる30種類の個性的なデザインを組み合わせたものだ。Googleと共同開発し、Geminiを内蔵したこのアイウェアは、周囲の世界の理解、言語を超えたコミュニケーション、つながりの維持を助ける。"
-              },
-              {
-                "t": "img",
-                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/11/12152250/Samsung-Mobile-Intelligent-Eyewear-Launch-Gentle-Monster-Warby-Parker_main2.jpg",
-                "cap": "さまざまなカラーで展開するGentle Monster Intelligent Eyewearの六種類のフレームデザイン"
-              },
-              {
-                "t": "img",
-                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/11/12152327/Samsung-Mobile-Intelligent-Eyewear-Launch-Gentle-Monster-Warby-Parker_main3.jpg",
-                "cap": "度付きとサングラスの両バージョンがあるWarby Parker Intelligent Eyewearの三種類のフレームデザイン"
+                "x": "Geminiは性能向上、新機能、モデルの刷新によって毎月進化している。今年初めのGalaxy S26シリーズ発表時に、GoogleはAndroidでGeminiのTask Automation機能を初めて披露した。この機能は近く、一部のGalaxyスマートフォンとタブレットで数十のアプリに対応する。"
               },
               {
                 "t": "p",
-                "x": "重さ約41グラムのこのアイウェアでは、見ているものについてGeminiに尋ねる、ホワイトボードの内容を要約してSamsung Notesに残す、メニューを翻訳する、Google Mapsでターンバイターンの道案内を受けるといったことができる。12MP HDRカメラがGeminiに視覚情報を与え、Snapdragon AR1 Gen 1 Platformにより最大九時間、充電ケース併用で最大72時間のバッテリー駆動を実現する。分散処理の仕組みにより、処理の一部は接続したGalaxyスマートフォンが担う。"
+                "x": "Gemini Task Automationの本格展開を前に、Android AuthorityはAndroidスマートフォンとタブレットでこの機能に対応するアプリの一覧を見つけた。一覧はオーストラリア、カナダ、欧州、グローバル、インド、日本、韓国、UK・アイルランド、USの地域別に分かれている。グローバルにはAirbnb、Booking.com、eBay、Expedia、Microsoft Word、Excel、Outlook、Teams、Slack、Uber、Uber Eatsが、韓国には11st、Catchtable、Gmarket、Kakao T、Korean Air、Naver Calendar、Yanoljaが含まれる。"
               },
               {
                 "t": "p",
-                "x": "両コレクションは2026年12月10日から米国（U.S.）で発売され、Gentle Monster Intelligent Eyewearは韓国でも販売される。米国（U.S.）での価格は、Warby Parker Intelligent Eyewearが$395から、Gentle Monster Intelligent Eyewearがモデルにより$449から$489となる。"
+                "x": "この機能が動作するのは、2026年に発売されAndroid 17(One UI 9.0以降)を搭載したGalaxy S、Galaxy Tab S(FEモデルを除く)、Galaxy Zシリーズのみだ。対象はGalaxy S26、S26+、S26 Ultra、S26 FE、Galaxy Tab S12+、Tab S12 Ultra、Galaxy Z Flip 8、Z Fold 8、Z Fold 8 Ultraである。"
+              },
+              {
+                "t": "p",
+                "x": "この機能を使えば、料理や食料品の注文、配車、商品の購入、イベントチケットや航空券の予約、レストランやホテルの予約、文書の作成・編集、メッセージ送信などができる。Google Play Storeからダウンロードしたアプリでのみ動作するとみられ、提供は段階的に進む可能性が高い。"
+              },
+              {
+                "t": "video",
+                "yt": "6FbSIAKJ1rg"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Samsung智能眼镜\n定档12月发售",
-          "body": "Samsung智能眼镜12月10日在US发售，Gentle Monster款也在韩国上市。",
-          "mini_headline": "Samsung眼镜12月10日发售",
+          "headline": "Gemini任务自动化\n将支持114款应用",
+          "body": "Gemini任务自动化即将在Android 17的部分Galaxy设备上支持114款应用。",
+          "mini_headline": "Gemini自动化支持114款应用",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/11/12152225/Samsung-Mobile-Intelligent-Eyewear-Launch-Gentle-Monster-Warby-Parker_main1.jpg"
+                "src": "https://www.sammobile.com/wp-content/uploads/2026/07/Galaxy-Z-Fold-8-Ultra-Gemini-1200x675.jpg",
+                "cap": "Galaxy Z Fold 8 Ultra上的Gemini"
               },
               {
                 "t": "p",
-                "x": "Samsung Electronics今天宣布即将推出完整的智能眼镜产品线。该系列将于12月10日在美国（U.S.）和韩国发售，预订从今天开始。这一系列结合了Samsung的移动工程专长，以及来自Gentle Monster和Warby Parker的30款独特设计。这款智能眼镜与Google合作开发并内置Gemini，帮助用户理解周围的世界、跨语言交流并保持联系。"
-              },
-              {
-                "t": "img",
-                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/11/12152250/Samsung-Mobile-Intelligent-Eyewear-Launch-Gentle-Monster-Warby-Parker_main2.jpg",
-                "cap": "Gentle Monster Intelligent Eyewear的六款镜框设计，提供多种配色"
-              },
-              {
-                "t": "img",
-                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/11/12152327/Samsung-Mobile-Intelligent-Eyewear-Launch-Gentle-Monster-Warby-Parker_main3.jpg",
-                "cap": "Warby Parker Intelligent Eyewear的三款镜框设计，分光学镜和太阳镜版本"
+                "x": "Gemini每个月都在进化，性能不断提升，新功能和升级模型陆续推出。今年早些时候，Google在Galaxy S26系列发布时首次在Android上展示了Gemini的Task Automation功能。很快，该功能将在部分Galaxy手机和平板上支持数十款应用。"
               },
               {
                 "t": "p",
-                "x": "这款眼镜重约41克，用户可以就眼前所见向Gemini提问、把白板内容总结到Samsung Notes、翻译菜单，并通过Google Maps获得逐向导航。12MP HDR摄像头为Gemini提供视觉信息，Snapdragon AR1 Gen 1 Platform带来最长九小时的续航，配合充电盒最长可达72小时。分离式计算系统会把部分处理工作交给已连接的Galaxy手机。"
+                "x": "在Gemini Task Automation更大范围推出之前，Android Authority发现了一份将在Android手机和平板上兼容该功能的应用清单，按地区划分：澳大利亚、加拿大、欧洲、全球、印度、日本、韩国、UK和爱尔兰，以及US。全球类别包括Airbnb、Booking.com、eBay、Expedia、Microsoft Word、Excel、Outlook和Teams、Slack、Uber和Uber Eats；韩国类别包括11st、Catchtable、Gmarket、Kakao T、Korean Air、Naver Calendar和Yanolja。"
               },
               {
                 "t": "p",
-                "x": "两个系列将于2026年12月10日起在美国（U.S.）发售，Gentle Monster Intelligent Eyewear也将在韩国上市。在美国（U.S.），Warby Parker Intelligent Eyewear起价$395，Gentle Monster Intelligent Eyewear则视型号定价$449至$489。"
+                "x": "该功能仅适用于2026年发布并运行Android 17（One UI 9.0或更新版本）的Galaxy S、Galaxy Tab S（FE型号除外）和Galaxy Z系列设备：Galaxy S26、S26+、S26 Ultra、S26 FE、Galaxy Tab S12+、Tab S12 Ultra、Galaxy Z Flip 8、Z Fold 8和Z Fold 8 Ultra。"
+              },
+              {
+                "t": "p",
+                "x": "借助该功能，用户可以点餐和订购生鲜、叫车、购物、预订活动门票和机票、预订餐厅或酒店、创建或编辑文档、发送消息等。据悉，它只适用于从Google Play Store下载的应用，并且很可能分阶段推出。"
+              },
+              {
+                "t": "video",
+                "yt": "6FbSIAKJ1rg"
               }
             ]
           }
         },
         "es": {
-          "headline": "Samsung fija para diciembre\nsus Intelligent Eyewear",
-          "body": "Las Intelligent Eyewear de Samsung salen en US el 10 de diciembre, y las Gentle Monster también llegan a Corea.",
-          "mini_headline": "Las gafas de Samsung salen el 10 de diciembre",
+          "headline": "La automatización de Gemini\nllegará a 114 apps",
+          "body": "Gemini Task Automation pronto funcionará con 114 apps en algunos móviles y tabletas Galaxy con Android 17 o posterior.",
+          "mini_headline": "Automatización de Gemini para 114 apps",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/11/12152225/Samsung-Mobile-Intelligent-Eyewear-Launch-Gentle-Monster-Warby-Parker_main1.jpg"
+                "src": "https://www.sammobile.com/wp-content/uploads/2026/07/Galaxy-Z-Fold-8-Ultra-Gemini-1200x675.jpg",
+                "cap": "Gemini en el Galaxy Z Fold 8 Ultra"
               },
               {
                 "t": "p",
-                "x": "Samsung Electronics anunció hoy el próximo lanzamiento de la gama completa de gafas inteligentes. Con salida prevista en Estados Unidos (U.S.) y Corea del Sur el 10 de diciembre y reservas abiertas desde hoy, la colección combina la experiencia de Samsung en ingeniería móvil con 30 diseños distintivos de Gentle Monster y Warby Parker. Desarrolladas en colaboración con Google y con Gemini integrado, las gafas ayudan a los usuarios a entender el mundo que los rodea, comunicarse en distintos idiomas y mantenerse conectados."
+                "x": "Gemini evoluciona cada mes con mejor rendimiento, nuevas funciones y modelos actualizados. A principios de este año, durante el lanzamiento de la serie Galaxy S26, Google mostró por primera vez la función Task Automation de Gemini en Android. Pronto, esa función funcionará con docenas de apps en algunos teléfonos y tabletas Galaxy."
               },
+              {
+                "t": "p",
+                "x": "Antes del despliegue más amplio de Gemini Task Automation, Android Authority descubrió una lista de apps que serán compatibles con la función en teléfonos y tabletas Android, agrupadas por región: Australia, Canadá, Europa, Global, India, Japón, Corea del Sur, Reino Unido (UK) e Irlanda, y Estados Unidos (US). Entre las globales están Airbnb, Booking.com, eBay, Expedia, Microsoft Word, Excel, Outlook y Teams, Slack, Uber y Uber Eats; entre las de Corea del Sur, 11st, Catchtable, Gmarket, Kakao T, Korean Air, Naver Calendar y Yanolja."
+              },
+              {
+                "t": "p",
+                "x": "La función solo estará disponible en dispositivos Galaxy S, Galaxy Tab S (excepto los modelos FE) y Galaxy Z lanzados en 2026 con Android 17 (One UI 9.0 o posterior): Galaxy S26, S26+, S26 Ultra, S26 FE, Galaxy Tab S12+, Tab S12 Ultra, Galaxy Z Flip 8, Z Fold 8 y Z Fold 8 Ultra."
+              },
+              {
+                "t": "p",
+                "x": "Con esta función se puede pedir comida y compras del supermercado, solicitar un viaje, comprar productos, reservar entradas para eventos y vuelos, hacer reservas en restaurantes u hoteles, crear o editar documentos, enviar mensajes y mucho más. Al parecer, solo funcionará con apps descargadas de Google Play Store, y el lanzamiento probablemente será por fases."
+              },
+              {
+                "t": "video",
+                "yt": "6FbSIAKJ1rg"
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Gemini 작업 자동화\n114개 앱과 연동된다",
+          "body": "Gemini 자동화가 곧 Android 17 Galaxy 114개 앱을 지원한다.",
+          "mini_headline": "Gemini 자동화, 114개 앱 지원",
+          "full": {
+            "mode": "summary",
+            "blocks": [
               {
                 "t": "img",
-                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/11/12152250/Samsung-Mobile-Intelligent-Eyewear-Launch-Gentle-Monster-Warby-Parker_main2.jpg",
-                "cap": "Los seis diseños de montura de Gentle Monster Intelligent Eyewear en varias combinaciones de color"
-              },
-              {
-                "t": "img",
-                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/11/12152327/Samsung-Mobile-Intelligent-Eyewear-Launch-Gentle-Monster-Warby-Parker_main3.jpg",
-                "cap": "Los tres diseños de montura de Warby Parker Intelligent Eyewear en versiones graduadas y de sol"
+                "src": "https://www.sammobile.com/wp-content/uploads/2026/07/Galaxy-Z-Fold-8-Ultra-Gemini-1200x675.jpg",
+                "cap": "Galaxy Z Fold 8 Ultra에서 실행한 Gemini"
               },
               {
                 "t": "p",
-                "x": "Con un peso de unos 41 gramos, las gafas permiten preguntar a Gemini sobre lo que se ve, resumir una pizarra en Samsung Notes, traducir menús y recibir indicaciones paso a paso de Google Maps. Una cámara 12MP HDR aporta contexto visual a Gemini, y la Snapdragon AR1 Gen 1 Platform ofrece hasta nueve horas de batería, o hasta 72 horas con el estuche de carga. Un sistema de computación dividida traslada parte del procesamiento al teléfono Galaxy conectado."
+                "x": "Gemini는 성능 개선과 새 기능, 업그레이드된 모델을 앞세워 달마다 진화하고 있다. Google은 올해 초 Galaxy S26 시리즈 출시 행사에서 Android용 Gemini의 Task Automation 기능을 처음 공개했다. 이 기능이 곧 일부 Galaxy 휴대폰과 태블릿에서 수십 개 앱과 연동된다."
               },
               {
                 "t": "p",
-                "x": "Ambas colecciones saldrán a la venta en Estados Unidos (U.S.) a partir del 10 de diciembre de 2026, y Gentle Monster Intelligent Eyewear también estará disponible en Corea. En Estados Unidos (U.S.), Warby Parker Intelligent Eyewear costará desde $395, mientras que Gentle Monster Intelligent Eyewear oscilará entre $449 y $489, según el modelo."
+                "x": "Gemini Task Automation 확대 배포를 앞두고 Android Authority가 Android 휴대폰과 태블릿에서 이 기능을 쓸 수 있는 앱 목록을 찾아냈다. 목록은 Australia, Canada, Europe, Global, India, Japan, South Korea, UK and Ireland, US 등 지역별로 나뉜다. Global 항목에는 Airbnb, Booking.com, eBay, Expedia, Microsoft Word, Excel, Outlook, Teams, Slack, Uber, Uber Eats가, South Korea 항목에는 11st, Catchtable, Gmarket, Kakao T, Korean Air, Naver Calendar, Yanolja가 올라 있다."
+              },
+              {
+                "t": "p",
+                "x": "이 기능은 2026년에 출시돼 Android 17(One UI 9.0 이상)을 돌리는 Galaxy S, Galaxy Tab S(FE 모델 제외), Galaxy Z 시리즈 기기에서만 작동한다. 대상 기기는 Galaxy S26, S26+, S26 Ultra, S26 FE, Galaxy Tab S12+, Tab S12 Ultra, Galaxy Z Flip 8, Z Fold 8, Z Fold 8 Ultra다."
+              },
+              {
+                "t": "p",
+                "x": "이 기능으로 음식과 식료품 주문, 차량 호출, 상품 쇼핑, 공연 티켓과 항공권 예매, 식당이나 호텔 예약, 문서 작성과 편집, 메시지 전송 등 훨씬 많은 일을 처리한다. Google Play Store에서 내려받은 앱에서만 작동하는 듯하고, 출시는 단계적으로 이뤄질 가능성이 크다."
+              },
+              {
+                "t": "video",
+                "yt": "6FbSIAKJ1rg"
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "Samsung 스마트 안경\n12월 출시 확정",
-          "body": "Samsung·Gentle Monster 안경이 12월 10일 US·한국에 나온다.",
-          "mini_headline": "Samsung 안경 12월 10일 출시",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/11/12152225/Samsung-Mobile-Intelligent-Eyewear-Launch-Gentle-Monster-Warby-Parker_main1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Samsung Electronics는 오늘 스마트 안경 전 라인업의 출시 계획을 발표했다. 미국(U.S.)과 한국에서 12월 10일 출시되며 사전 주문은 오늘부터 받는다. 이 컬렉션은 Samsung의 모바일 엔지니어링 역량에 Gentle Monster와 Warby Parker의 독특한 디자인 30종을 더했다. Google과 협업해 개발하고 Gemini를 내장한 이 안경은 사용자가 주변 세상을 이해하고, 언어의 벽을 넘어 소통하며, 연결된 상태를 유지하도록 돕는다."
-              },
-              {
-                "t": "img",
-                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/11/12152250/Samsung-Mobile-Intelligent-Eyewear-Launch-Gentle-Monster-Warby-Parker_main2.jpg",
-                "cap": "다양한 색상으로 나온 Gentle Monster Intelligent Eyewear의 여섯 가지 프레임 디자인"
-              },
-              {
-                "t": "img",
-                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/11/12152327/Samsung-Mobile-Intelligent-Eyewear-Launch-Gentle-Monster-Warby-Parker_main3.jpg",
-                "cap": "안경과 선글라스 버전으로 나온 Warby Parker Intelligent Eyewear의 세 가지 프레임 디자인"
-              },
-              {
-                "t": "p",
-                "x": "무게가 약 41그램인 이 안경으로 사용자는 눈앞에 보이는 것을 Gemini에게 묻고, 화이트보드 내용을 요약해 Samsung Notes에 담고, 메뉴를 번역하고, Google Maps의 턴바이턴 길 안내를 받을 수 있다. 12MP HDR 카메라가 Gemini에 시각 정보를 제공하고, Snapdragon AR1 Gen 1 Platform은 최대 아홉 시간, 충전 케이스와 함께 쓰면 최대 72시간의 배터리 사용 시간을 낸다. 분할 컴퓨팅 시스템이 처리의 일부를 연결된 Galaxy 폰에 넘긴다."
-              },
-              {
-                "t": "p",
-                "x": "두 컬렉션은 2026년 12월 10일부터 미국(U.S.)에서 출시되며, Gentle Monster Intelligent Eyewear는 한국에서도 판매된다. 미국(U.S.)에서 Warby Parker Intelligent Eyewear는 $395부터, Gentle Monster Intelligent Eyewear는 모델에 따라 $449에서 $489 사이다."
-              }
-            ]
-          }
-        },
         "ja": {
-          "headline": "Samsung AIグラス\n12月発売が決定",
-          "body": "Samsung・Gentle Monsterのグラスは12月10日、USと韓国で発売だ。",
-          "mini_headline": "Samsungグラス、12月10日発売",
+          "headline": "Gemini作業自動化\n114のアプリに対応へ",
+          "body": "Geminiの自動化機能が近くAndroid 17のGalaxyで114アプリに対応する。",
+          "mini_headline": "Gemini自動化が114アプリに対応",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/11/12152225/Samsung-Mobile-Intelligent-Eyewear-Launch-Gentle-Monster-Warby-Parker_main1.jpg"
+                "src": "https://www.sammobile.com/wp-content/uploads/2026/07/Galaxy-Z-Fold-8-Ultra-Gemini-1200x675.jpg",
+                "cap": "Galaxy Z Fold 8 UltraのGemini"
               },
               {
                 "t": "p",
-                "x": "Samsung Electronicsは本日、インテリジェントアイウェアのフルラインアップを発売すると発表した。米国（U.S.）と韓国で12月10日に発売され、予約受付は本日始まる。このコレクションは、Samsungのモバイル技術とGentle MonsterおよびWarby Parkerによる30種類の個性的なデザインを組み合わせたものだ。Googleと共同開発し、Geminiを内蔵したこのアイウェアは、周囲の世界の理解、言語を超えたコミュニケーション、つながりの維持を助ける。"
-              },
-              {
-                "t": "img",
-                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/11/12152250/Samsung-Mobile-Intelligent-Eyewear-Launch-Gentle-Monster-Warby-Parker_main2.jpg",
-                "cap": "さまざまなカラーで展開するGentle Monster Intelligent Eyewearの六種類のフレームデザイン"
-              },
-              {
-                "t": "img",
-                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/11/12152327/Samsung-Mobile-Intelligent-Eyewear-Launch-Gentle-Monster-Warby-Parker_main3.jpg",
-                "cap": "度付きとサングラスの両バージョンがあるWarby Parker Intelligent Eyewearの三種類のフレームデザイン"
+                "x": "Geminiは性能向上、新機能、モデルの刷新によって毎月進化している。今年初めのGalaxy S26シリーズ発表時に、GoogleはAndroidでGeminiのTask Automation機能を初めて披露した。この機能は近く、一部のGalaxyスマートフォンとタブレットで数十のアプリに対応する。"
               },
               {
                 "t": "p",
-                "x": "重さ約41グラムのこのアイウェアでは、見ているものについてGeminiに尋ねる、ホワイトボードの内容を要約してSamsung Notesに残す、メニューを翻訳する、Google Mapsでターンバイターンの道案内を受けるといったことができる。12MP HDRカメラがGeminiに視覚情報を与え、Snapdragon AR1 Gen 1 Platformにより最大九時間、充電ケース併用で最大72時間のバッテリー駆動を実現する。分散処理の仕組みにより、処理の一部は接続したGalaxyスマートフォンが担う。"
+                "x": "Gemini Task Automationの本格展開を前に、Android AuthorityはAndroidスマートフォンとタブレットでこの機能に対応するアプリの一覧を見つけた。一覧はオーストラリア、カナダ、欧州、グローバル、インド、日本、韓国、UK・アイルランド、USの地域別に分かれている。グローバルにはAirbnb、Booking.com、eBay、Expedia、Microsoft Word、Excel、Outlook、Teams、Slack、Uber、Uber Eatsが、韓国には11st、Catchtable、Gmarket、Kakao T、Korean Air、Naver Calendar、Yanoljaが含まれる。"
               },
               {
                 "t": "p",
-                "x": "両コレクションは2026年12月10日から米国（U.S.）で発売され、Gentle Monster Intelligent Eyewearは韓国でも販売される。米国（U.S.）での価格は、Warby Parker Intelligent Eyewearが$395から、Gentle Monster Intelligent Eyewearがモデルにより$449から$489となる。"
+                "x": "この機能が動作するのは、2026年に発売されAndroid 17(One UI 9.0以降)を搭載したGalaxy S、Galaxy Tab S(FEモデルを除く)、Galaxy Zシリーズのみだ。対象はGalaxy S26、S26+、S26 Ultra、S26 FE、Galaxy Tab S12+、Tab S12 Ultra、Galaxy Z Flip 8、Z Fold 8、Z Fold 8 Ultraである。"
+              },
+              {
+                "t": "p",
+                "x": "この機能を使えば、料理や食料品の注文、配車、商品の購入、イベントチケットや航空券の予約、レストランやホテルの予約、文書の作成・編集、メッセージ送信などができる。Google Play Storeからダウンロードしたアプリでのみ動作するとみられ、提供は段階的に進む可能性が高い。"
+              },
+              {
+                "t": "video",
+                "yt": "6FbSIAKJ1rg"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Samsung智能眼镜\n定档12月发售",
-          "body": "Samsung智能眼镜12月10日在US发售，Gentle Monster款也在韩国上市。",
-          "mini_headline": "Samsung眼镜12月10日发售",
+          "headline": "Gemini任务自动化\n将支持114款应用",
+          "body": "Gemini任务自动化即将在Android 17的部分Galaxy设备上支持114款应用。",
+          "mini_headline": "Gemini自动化支持114款应用",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/11/12152225/Samsung-Mobile-Intelligent-Eyewear-Launch-Gentle-Monster-Warby-Parker_main1.jpg"
+                "src": "https://www.sammobile.com/wp-content/uploads/2026/07/Galaxy-Z-Fold-8-Ultra-Gemini-1200x675.jpg",
+                "cap": "Galaxy Z Fold 8 Ultra上的Gemini"
               },
               {
                 "t": "p",
-                "x": "Samsung Electronics今天宣布即将推出完整的智能眼镜产品线。该系列将于12月10日在美国（U.S.）和韩国发售，预订从今天开始。这一系列结合了Samsung的移动工程专长，以及来自Gentle Monster和Warby Parker的30款独特设计。这款智能眼镜与Google合作开发并内置Gemini，帮助用户理解周围的世界、跨语言交流并保持联系。"
-              },
-              {
-                "t": "img",
-                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/11/12152250/Samsung-Mobile-Intelligent-Eyewear-Launch-Gentle-Monster-Warby-Parker_main2.jpg",
-                "cap": "Gentle Monster Intelligent Eyewear的六款镜框设计，提供多种配色"
-              },
-              {
-                "t": "img",
-                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/11/12152327/Samsung-Mobile-Intelligent-Eyewear-Launch-Gentle-Monster-Warby-Parker_main3.jpg",
-                "cap": "Warby Parker Intelligent Eyewear的三款镜框设计，分光学镜和太阳镜版本"
+                "x": "Gemini每个月都在进化，性能不断提升，新功能和升级模型陆续推出。今年早些时候，Google在Galaxy S26系列发布时首次在Android上展示了Gemini的Task Automation功能。很快，该功能将在部分Galaxy手机和平板上支持数十款应用。"
               },
               {
                 "t": "p",
-                "x": "这款眼镜重约41克，用户可以就眼前所见向Gemini提问、把白板内容总结到Samsung Notes、翻译菜单，并通过Google Maps获得逐向导航。12MP HDR摄像头为Gemini提供视觉信息，Snapdragon AR1 Gen 1 Platform带来最长九小时的续航，配合充电盒最长可达72小时。分离式计算系统会把部分处理工作交给已连接的Galaxy手机。"
+                "x": "在Gemini Task Automation更大范围推出之前，Android Authority发现了一份将在Android手机和平板上兼容该功能的应用清单，按地区划分：澳大利亚、加拿大、欧洲、全球、印度、日本、韩国、UK和爱尔兰，以及US。全球类别包括Airbnb、Booking.com、eBay、Expedia、Microsoft Word、Excel、Outlook和Teams、Slack、Uber和Uber Eats；韩国类别包括11st、Catchtable、Gmarket、Kakao T、Korean Air、Naver Calendar和Yanolja。"
               },
               {
                 "t": "p",
-                "x": "两个系列将于2026年12月10日起在美国（U.S.）发售，Gentle Monster Intelligent Eyewear也将在韩国上市。在美国（U.S.），Warby Parker Intelligent Eyewear起价$395，Gentle Monster Intelligent Eyewear则视型号定价$449至$489。"
+                "x": "该功能仅适用于2026年发布并运行Android 17（One UI 9.0或更新版本）的Galaxy S、Galaxy Tab S（FE型号除外）和Galaxy Z系列设备：Galaxy S26、S26+、S26 Ultra、S26 FE、Galaxy Tab S12+、Tab S12 Ultra、Galaxy Z Flip 8、Z Fold 8和Z Fold 8 Ultra。"
+              },
+              {
+                "t": "p",
+                "x": "借助该功能，用户可以点餐和订购生鲜、叫车、购物、预订活动门票和机票、预订餐厅或酒店、创建或编辑文档、发送消息等。据悉，它只适用于从Google Play Store下载的应用，并且很可能分阶段推出。"
+              },
+              {
+                "t": "video",
+                "yt": "6FbSIAKJ1rg"
               }
             ]
           }
         },
         "es": {
-          "headline": "Samsung fija para diciembre\nsus Intelligent Eyewear",
-          "body": "Las Intelligent Eyewear de Samsung salen en US el 10 de diciembre, y las Gentle Monster también llegan a Corea.",
-          "mini_headline": "Las gafas de Samsung salen el 10 de diciembre",
+          "headline": "La automatización de Gemini\nllegará a 114 apps",
+          "body": "Gemini Task Automation pronto funcionará con 114 apps en algunos móviles y tabletas Galaxy con Android 17 o posterior.",
+          "mini_headline": "Automatización de Gemini para 114 apps",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/11/12152225/Samsung-Mobile-Intelligent-Eyewear-Launch-Gentle-Monster-Warby-Parker_main1.jpg"
+                "src": "https://www.sammobile.com/wp-content/uploads/2026/07/Galaxy-Z-Fold-8-Ultra-Gemini-1200x675.jpg",
+                "cap": "Gemini en el Galaxy Z Fold 8 Ultra"
               },
               {
                 "t": "p",
-                "x": "Samsung Electronics anunció hoy el próximo lanzamiento de la gama completa de gafas inteligentes. Con salida prevista en Estados Unidos (U.S.) y Corea del Sur el 10 de diciembre y reservas abiertas desde hoy, la colección combina la experiencia de Samsung en ingeniería móvil con 30 diseños distintivos de Gentle Monster y Warby Parker. Desarrolladas en colaboración con Google y con Gemini integrado, las gafas ayudan a los usuarios a entender el mundo que los rodea, comunicarse en distintos idiomas y mantenerse conectados."
+                "x": "Gemini evoluciona cada mes con mejor rendimiento, nuevas funciones y modelos actualizados. A principios de este año, durante el lanzamiento de la serie Galaxy S26, Google mostró por primera vez la función Task Automation de Gemini en Android. Pronto, esa función funcionará con docenas de apps en algunos teléfonos y tabletas Galaxy."
               },
+              {
+                "t": "p",
+                "x": "Antes del despliegue más amplio de Gemini Task Automation, Android Authority descubrió una lista de apps que serán compatibles con la función en teléfonos y tabletas Android, agrupadas por región: Australia, Canadá, Europa, Global, India, Japón, Corea del Sur, Reino Unido (UK) e Irlanda, y Estados Unidos (US). Entre las globales están Airbnb, Booking.com, eBay, Expedia, Microsoft Word, Excel, Outlook y Teams, Slack, Uber y Uber Eats; entre las de Corea del Sur, 11st, Catchtable, Gmarket, Kakao T, Korean Air, Naver Calendar y Yanolja."
+              },
+              {
+                "t": "p",
+                "x": "La función solo estará disponible en dispositivos Galaxy S, Galaxy Tab S (excepto los modelos FE) y Galaxy Z lanzados en 2026 con Android 17 (One UI 9.0 o posterior): Galaxy S26, S26+, S26 Ultra, S26 FE, Galaxy Tab S12+, Tab S12 Ultra, Galaxy Z Flip 8, Z Fold 8 y Z Fold 8 Ultra."
+              },
+              {
+                "t": "p",
+                "x": "Con esta función se puede pedir comida y compras del supermercado, solicitar un viaje, comprar productos, reservar entradas para eventos y vuelos, hacer reservas en restaurantes u hoteles, crear o editar documentos, enviar mensajes y mucho más. Al parecer, solo funcionará con apps descargadas de Google Play Store, y el lanzamiento probablemente será por fases."
+              },
+              {
+                "t": "video",
+                "yt": "6FbSIAKJ1rg"
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Gemini 작업 자동화\n114개 앱과 연동된다",
+          "body": "곧 Gemini 자동화가 Android 17 Galaxy 114개 앱을 지원한다.",
+          "mini_headline": "Gemini 자동화, 114개 앱 지원",
+          "full": {
+            "mode": "summary",
+            "blocks": [
               {
                 "t": "img",
-                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/11/12152250/Samsung-Mobile-Intelligent-Eyewear-Launch-Gentle-Monster-Warby-Parker_main2.jpg",
-                "cap": "Los seis diseños de montura de Gentle Monster Intelligent Eyewear en varias combinaciones de color"
-              },
-              {
-                "t": "img",
-                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/11/12152327/Samsung-Mobile-Intelligent-Eyewear-Launch-Gentle-Monster-Warby-Parker_main3.jpg",
-                "cap": "Los tres diseños de montura de Warby Parker Intelligent Eyewear en versiones graduadas y de sol"
+                "src": "https://www.sammobile.com/wp-content/uploads/2026/07/Galaxy-Z-Fold-8-Ultra-Gemini-1200x675.jpg",
+                "cap": "Galaxy Z Fold 8 Ultra에서 실행한 Gemini"
               },
               {
                 "t": "p",
-                "x": "Con un peso de unos 41 gramos, las gafas permiten preguntar a Gemini sobre lo que se ve, resumir una pizarra en Samsung Notes, traducir menús y recibir indicaciones paso a paso de Google Maps. Una cámara 12MP HDR aporta contexto visual a Gemini, y la Snapdragon AR1 Gen 1 Platform ofrece hasta nueve horas de batería, o hasta 72 horas con el estuche de carga. Un sistema de computación dividida traslada parte del procesamiento al teléfono Galaxy conectado."
+                "x": "Gemini는 성능 개선과 새 기능, 업그레이드된 모델로 매달 진화하고 있다. 올해 초 Galaxy S26 시리즈 출시 행사에서 Google은 Android용 Gemini의 Task Automation 기능을 처음 선보였다. 이 기능은 곧 일부 Galaxy 휴대폰과 태블릿에서 수십 개 앱과 함께 작동하게 된다."
               },
               {
                 "t": "p",
-                "x": "Ambas colecciones saldrán a la venta en Estados Unidos (U.S.) a partir del 10 de diciembre de 2026, y Gentle Monster Intelligent Eyewear también estará disponible en Corea. En Estados Unidos (U.S.), Warby Parker Intelligent Eyewear costará desde $395, mientras que Gentle Monster Intelligent Eyewear oscilará entre $449 y $489, según el modelo."
+                "x": "Gemini Task Automation의 확대 배포를 앞두고 Android Authority는 Android 휴대폰과 태블릿에서 이 기능과 호환될 앱 목록을 찾아냈다. 목록은 Australia, Canada, Europe, Global, India, Japan, South Korea, UK and Ireland, US 등 지역별로 나뉜다. Global 항목에는 Airbnb, Booking.com, eBay, Expedia, Microsoft Word, Excel, Outlook, Teams, Slack, Uber, Uber Eats가 있고, South Korea 항목에는 11st, Catchtable, Gmarket, Kakao T, Korean Air, Naver Calendar, Yanolja가 들어 있다."
+              },
+              {
+                "t": "p",
+                "x": "이 기능은 2026년에 출시되어 Android 17(One UI 9.0 이상)을 실행하는 Galaxy S, Galaxy Tab S(FE 모델 제외), Galaxy Z 시리즈 기기에서만 작동한다. 해당 기기는 Galaxy S26, S26+, S26 Ultra, S26 FE, Galaxy Tab S12+, Tab S12 Ultra, Galaxy Z Flip 8, Z Fold 8, Z Fold 8 Ultra다."
+              },
+              {
+                "t": "p",
+                "x": "이 기능으로 음식과 식료품 주문, 차량 호출, 상품 쇼핑, 공연 티켓과 항공권 예매, 식당이나 호텔 예약, 문서 작성과 편집, 메시지 전송 등 훨씬 많은 일을 할 수 있다. Google Play Store에서 내려받은 앱에서만 작동하는 것으로 보이며, 출시는 단계적으로 이뤄질 가능성이 크다."
+              },
+              {
+                "t": "video",
+                "yt": "6FbSIAKJ1rg"
               }
             ]
           }
@@ -375,15 +365,15 @@
       }
     },
     {
-      "id": "windows-photos-adobe-genai",
+      "id": "gadgets-christian-linux-ai-phone",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Windows 11에\nAdobe 생성형 AI",
-      "body": "Adobe 생성형 편집과 Express가 Windows 11 Photos에 온다.",
-      "mini_headline": "Windows Photos에 Adobe AI",
+      "headline": "AI로 성경 공부하는\n$449 Linux 폰",
+      "body": "Jesus Dash 창립자가 2027년 초 $449 PineCone 폰을 준비한다.",
+      "mini_headline": "$449 AI 성경 폰",
       "tool": "Gadgets",
       "source": "Notebookcheck",
-      "url": "https://www.notebookcheck.net/Windows-11-Photos-is-getting-Adobe-s-generative-AI-tools-in-December.1447789.0.html",
+      "url": "https://www.notebookcheck.net/Christian-Linux-project-plans-449-phone-with-AI-powered-Bible-study.1445691.0.html",
       "accent": "#0070f3",
       "motif": "headset",
       "full": {
@@ -391,209 +381,233 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Adobe-Max.jpg",
-            "cap": "Windows 기본 사진 편집기에 곧 Adobe-powered 기능이 들어온다"
+            "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Golden-Codex-Smartphone-Showcase.png",
+            "cap": "구상 단계의 Jesus New OS를 띄운 PineCone 스마트폰"
           },
           {
             "t": "p",
-            "x": "Adobe와 Microsoft가 파트너십을 넓혀 Windows 11에 AI-powered 편집 기능을 새로 들이고, Arm-based PCs에서 Creative Cloud 성능도 끌어올린다. 발표 무대는 Adobe Max 2026이었다."
+            "x": "Jesus Dash는 Linux, AI-powered 지원 기능, 종교 자료를 한데 묶은 야심 찬 기독교 기술 프로젝트다. 창립자는 PineCone이라는 $449 스마트폰도 2027년 초 출시를 목표로 개발 중이다. 일부 애플리케이션은 이미 나와 있다."
           },
           {
             "t": "p",
-            "x": "Windows 11 기본 Photos 앱에 Adobe의 생성형 AI 도구가 들어간다. 이미지를 원래 경계 바깥으로 넓히고, 일부가 잘리지 않게 사진을 회전하고, 원치 않는 물체를 지운 빈자리를 자동으로 채운다. 텍스트 기반 편집도 되고, Photos 뷰어에서 Adobe Express를 바로 열어 사진을 초대장이나 소셜 미디어 게시물 같은 디자인으로 바꿀 수도 있다."
+            "x": "창립자 Christian Cassarly는 Notebookcheck에 Windows, macOS, Linux 버전이 부팅 가능한 배포판이 아니라 기존 운영체제 안에서 돌아가는 애플리케이션이라고 밝혔다. 폰 플랫폼은 Linux-based Popcorn 커널에 Trinity Core 서비스 계층과 Jesus New 인터페이스를 얹은 구조로 알려졌다."
           },
           {
             "t": "p",
-            "x": "Windows Insiders가 2026년 12월부터 먼저 써 볼 수 있다. 그 뒤 출시 일정은 두 회사 모두 밝히지 않았고, 일부 AI 기능에 유료 구독이 필요한지도 설명하지 않았다."
-          },
-          {
-            "t": "p",
-            "x": "Adobe는 Photoshop, Premiere, After Effects, Substance 3D Painter(beta)도 Windows on Arm 기기에 맞게 다듬었다. Nvidia RTX Spark를 탑재한 Microsoft의 Surface Laptop Ultra가 대표적이다. Photoshop은 온디바이스 생성형 AI 처리가 빨라졌지만, 일부 기능과 서드파티 플러그인은 아직 Windows on Arm과 호환되지 않는다."
+            "x": "구상 중인 Temple Suite에는 기도와 묵상 공간, 안내 명상, 성경 읽기, ChristBooks 디지털 도서관이 들어간다. Trinity AI는 대화로 도움을 주고, Living Jesus, Living God, Living Word에서는 성경 본문을 두고 AI-assisted 토론을 할 수 있다. 연결형 AI 기능은 외부 업체에 기댄다."
           },
           {
             "t": "img",
-            "src": "https://www.notebookcheck.net/fileadmin/_processed_/8/b/csm_Adobe-X-Microsoft-Windows-11-features_86f7cbac0b.gif",
-            "cap": "Adobe X Microsoft Windows 11 기능"
+            "src": "https://www.notebookcheck.net/fileadmin/_processed_/5/2/csm_pinecone-os-suite_e31ea77c4e.png",
+            "cap": "Temple Suite는 기독교 자료와 Trinity AI를 Jesus New OS에 담는다"
+          },
+          {
+            "t": "p",
+            "x": "Cassarly는 대화 기록을 기기에 보관하고 서버에 임시로 남는 사용자 메시지는 24시간 뒤 지울 계획이라면서도 아직 검증되지 않았다고 인정했다. PineCone은 Pine64 하드웨어를 쓰고 구독료는 월 $19.99부터다. 웹사이트에 적힌 가장 이른 예상 출시일은 2027년 1월 1일이다."
+          },
+          {
+            "t": "p",
+            "x": "성능과 보안, 완전한 Linux 스마트폰 경험을 갖출지는 아직 독립적인 검증을 거쳐야 한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Windows 11 Photos gets\nAdobe generative AI tools",
-          "body": "Adobe's generative editing and Express integration come to Windows 11 Photos, previewing for Insiders in December.",
-          "mini_headline": "Adobe AI comes to Windows Photos",
+          "headline": "A $449 Linux phone built\naround AI Bible study",
+          "body": "Christian project Jesus Dash blends Linux and AI, and its founder plans a $449 PineCone phone for early 2027.",
+          "mini_headline": "A $449 AI Bible phone",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Adobe-Max.jpg",
-                "cap": "Windows' native photo editor will get some Adobe-powered features soon"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Golden-Codex-Smartphone-Showcase.png",
+                "cap": "PineCone smartphone showcases the proposed Jesus New OS"
               },
               {
                 "t": "p",
-                "x": "Adobe and Microsoft are expanding their partnership to bring new AI-powered editing capabilities to Windows 11 and also improve Creative Cloud performance on Arm-based PCs. The companies announced the collaboration at Adobe Max 2026."
+                "x": "Jesus Dash is an ambitious Christian technology project combining Linux, AI-powered assistance, and religious resources. Its founder is also developing a $449 smartphone called PineCone, targeting early 2027. Some applications are already available."
               },
               {
                 "t": "p",
-                "x": "Adobe's generative AI tools are coming to the native Windows 11 Photos app. Users will be able to expand images beyond their original borders, rotate photographs without losing portions of the image, and remove unwanted objects while automatically filling the resulting gaps. The integration will also support text-based editing, and Adobe Express will be accessible directly from the Photos viewer to turn pictures into invitations, social media posts and other designs."
+                "x": "Founder Christian Cassarly clarified to Notebookcheck that the Windows, macOS, and Linux editions are applications running inside existing operating systems, rather than bootable distributions. The phone platform reportedly combines the Linux-based Popcorn kernel, Trinity Core service layer, and Jesus New interface."
               },
               {
                 "t": "p",
-                "x": "These features will initially be available to Windows Insiders starting in December 2026. Neither company has specified a wider release date or clarified whether certain AI features will require a paid subscription."
-              },
-              {
-                "t": "p",
-                "x": "Adobe has also optimised Photoshop, Premiere, After Effects and Substance 3D Painter (beta) for Windows on Arm devices, including Microsoft's Surface Laptop Ultra powered by Nvidia RTX Spark. Photoshop benefits from faster on-device generative AI processing, though some features and third-party plugins remain incompatible with Windows on Arm."
+                "x": "The proposed Temple Suite includes prayer and reflection spaces, guided meditation, Bible reading, and the ChristBooks digital library. Trinity AI provides conversational assistance, while Living Jesus, Living God, and Living Word offer AI-assisted discussions of biblical texts. Connected AI features rely on external providers."
               },
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/8/b/csm_Adobe-X-Microsoft-Windows-11-features_86f7cbac0b.gif",
-                "cap": "Adobe X Microsoft Windows 11 features"
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/5/2/csm_pinecone-os-suite_e31ea77c4e.png",
+                "cap": "Temple Suite brings Christian resources and Trinity AI to Jesus New OS"
+              },
+              {
+                "t": "p",
+                "x": "Cassarly intends to keep conversation histories locally and delete temporary server-side user messages after 24 hours, but acknowledges this is not yet verified. PineCone uses Pine64 hardware, with subscriptions from $19.99 monthly; the website lists January 1, 2027 as the earliest estimated availability."
+              },
+              {
+                "t": "p",
+                "x": "Its performance, security, and ability to deliver a complete Linux smartphone experience still require independent testing."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Windows 11에\nAdobe 생성형 AI",
-          "body": "Adobe 생성형 편집과 Express가 Windows 11 Photos에 온다.",
-          "mini_headline": "Windows Photos에 Adobe AI",
+          "headline": "AI로 성경 공부하는\n$449 Linux 폰",
+          "body": "Jesus Dash 창립자가 2027년 초 $449 PineCone 폰을 준비한다.",
+          "mini_headline": "$449 AI 성경 폰",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Adobe-Max.jpg",
-                "cap": "Windows 기본 사진 편집기에 곧 Adobe-powered 기능이 들어온다"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Golden-Codex-Smartphone-Showcase.png",
+                "cap": "구상 단계의 Jesus New OS를 띄운 PineCone 스마트폰"
               },
               {
                 "t": "p",
-                "x": "Adobe와 Microsoft가 파트너십을 넓혀 Windows 11에 AI-powered 편집 기능을 새로 들이고, Arm-based PCs에서 Creative Cloud 성능도 끌어올린다. 발표 무대는 Adobe Max 2026이었다."
+                "x": "Jesus Dash는 Linux, AI-powered 지원 기능, 종교 자료를 한데 묶은 야심 찬 기독교 기술 프로젝트다. 창립자는 PineCone이라는 $449 스마트폰도 2027년 초 출시를 목표로 개발 중이다. 일부 애플리케이션은 이미 나와 있다."
               },
               {
                 "t": "p",
-                "x": "Windows 11 기본 Photos 앱에 Adobe의 생성형 AI 도구가 들어간다. 이미지를 원래 경계 바깥으로 넓히고, 일부가 잘리지 않게 사진을 회전하고, 원치 않는 물체를 지운 빈자리를 자동으로 채운다. 텍스트 기반 편집도 되고, Photos 뷰어에서 Adobe Express를 바로 열어 사진을 초대장이나 소셜 미디어 게시물 같은 디자인으로 바꿀 수도 있다."
+                "x": "창립자 Christian Cassarly는 Notebookcheck에 Windows, macOS, Linux 버전이 부팅 가능한 배포판이 아니라 기존 운영체제 안에서 돌아가는 애플리케이션이라고 밝혔다. 폰 플랫폼은 Linux-based Popcorn 커널에 Trinity Core 서비스 계층과 Jesus New 인터페이스를 얹은 구조로 알려졌다."
               },
               {
                 "t": "p",
-                "x": "Windows Insiders가 2026년 12월부터 먼저 써 볼 수 있다. 그 뒤 출시 일정은 두 회사 모두 밝히지 않았고, 일부 AI 기능에 유료 구독이 필요한지도 설명하지 않았다."
-              },
-              {
-                "t": "p",
-                "x": "Adobe는 Photoshop, Premiere, After Effects, Substance 3D Painter(beta)도 Windows on Arm 기기에 맞게 다듬었다. Nvidia RTX Spark를 탑재한 Microsoft의 Surface Laptop Ultra가 대표적이다. Photoshop은 온디바이스 생성형 AI 처리가 빨라졌지만, 일부 기능과 서드파티 플러그인은 아직 Windows on Arm과 호환되지 않는다."
+                "x": "구상 중인 Temple Suite에는 기도와 묵상 공간, 안내 명상, 성경 읽기, ChristBooks 디지털 도서관이 들어간다. Trinity AI는 대화로 도움을 주고, Living Jesus, Living God, Living Word에서는 성경 본문을 두고 AI-assisted 토론을 할 수 있다. 연결형 AI 기능은 외부 업체에 기댄다."
               },
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/8/b/csm_Adobe-X-Microsoft-Windows-11-features_86f7cbac0b.gif",
-                "cap": "Adobe X Microsoft Windows 11 기능"
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/5/2/csm_pinecone-os-suite_e31ea77c4e.png",
+                "cap": "Temple Suite는 기독교 자료와 Trinity AI를 Jesus New OS에 담는다"
+              },
+              {
+                "t": "p",
+                "x": "Cassarly는 대화 기록을 기기에 보관하고 서버에 임시로 남는 사용자 메시지는 24시간 뒤 지울 계획이라면서도 아직 검증되지 않았다고 인정했다. PineCone은 Pine64 하드웨어를 쓰고 구독료는 월 $19.99부터다. 웹사이트에 적힌 가장 이른 예상 출시일은 2027년 1월 1일이다."
+              },
+              {
+                "t": "p",
+                "x": "성능과 보안, 완전한 Linux 스마트폰 경험을 갖출지는 아직 독립적인 검증을 거쳐야 한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Windows 11の\nフォトにAdobe生成AI",
-          "body": "Adobeの生成編集とExpressがWindows 11 Photosに来る。",
-          "mini_headline": "Windows PhotosにAdobe AI",
+          "headline": "AI聖書学習のための\n$449のLinuxスマホ",
+          "body": "Jesus Dashの創設者は2027年初めに$449のPineConeスマホを計画する。",
+          "mini_headline": "$449のAI聖書スマホ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Adobe-Max.jpg",
-                "cap": "Windows標準の写真編集アプリに、まもなくAdobe-poweredの機能が加わる"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Golden-Codex-Smartphone-Showcase.png",
+                "cap": "構想中のJesus New OSを示すPineConeスマートフォン"
               },
               {
                 "t": "p",
-                "x": "AdobeとMicrosoftは提携を広げ、Windows 11に新たなAI-poweredの編集機能を導入するとともに、Arm-based PCsでのCreative Cloudの性能を高める。両社はこの協業をAdobe Max 2026で発表した。"
+                "x": "Jesus Dashは、Linux、AI-poweredなアシスタント機能、宗教的リソースを組み合わせた野心的なキリスト教系テクノロジープロジェクトだ。創設者はPineConeという$449のスマートフォンも開発しており、2027年初めを目標としている。一部のアプリケーションはすでに利用できる。"
               },
               {
                 "t": "p",
-                "x": "Adobeの生成AIツールがWindows 11標準のPhotosアプリに搭載される。画像を元の枠の外まで拡張したり、画像の一部を失わずに写真を回転したり、不要なオブジェクトを消して生じた隙間を自動で埋めたりできる。テキストによる編集にも対応し、PhotosビューアーからAdobe Expressを直接呼び出して、写真を招待状やソーシャルメディア投稿などのデザインに仕上げられる。"
+                "x": "創設者のChristian CassarlyはNotebookcheckに対し、Windows版、macOS版、Linux版は起動可能なディストリビューションではなく、既存のOS上で動くアプリケーションだと説明した。スマートフォン向けプラットフォームは、Linux-basedのPopcornカーネル、Trinity Coreサービス層、Jesus Newインターフェースを組み合わせたものだという。"
               },
               {
                 "t": "p",
-                "x": "これらの機能は2026年12月から、まずWindows Insidersに提供される。両社とも一般提供の時期は明らかにしておらず、一部のAI機能に有料サブスクリプションが必要かどうかも説明していない。"
-              },
-              {
-                "t": "p",
-                "x": "AdobeはまたPhotoshop、Premiere、After Effects、Substance 3D Painter（beta）を、Nvidia RTX Spark搭載のMicrosoft Surface Laptop UltraをはじめとするWindows on Arm機器向けに最適化した。Photoshopではオンデバイスの生成AI処理が速くなったが、一部の機能やサードパーティ製プラグインは依然としてWindows on Armに対応していない。"
+                "x": "構想中のTemple Suiteには、祈りと黙想のスペース、ガイド付き瞑想、聖書の通読、ChristBooksデジタルライブラリが含まれる。Trinity AIは対話型のアシスタントを提供し、Living Jesus、Living God、Living Wordは聖書本文についてAI-assistedの議論を提供する。接続型のAI機能は外部プロバイダーに依存する。"
               },
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/8/b/csm_Adobe-X-Microsoft-Windows-11-features_86f7cbac0b.gif",
-                "cap": "Adobe X MicrosoftのWindows 11向け機能"
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/5/2/csm_pinecone-os-suite_e31ea77c4e.png",
+                "cap": "Temple Suiteはキリスト教のリソースとTrinity AIをJesus New OSにもたらす"
+              },
+              {
+                "t": "p",
+                "x": "Cassarlyは会話履歴を端末内に保存し、サーバー側の一時的なユーザーメッセージを24時間後に削除する方針だが、まだ検証されていないと認めている。PineConeはPine64のハードウェアを採用し、サブスクリプションは月額$19.99からだ。ウェブサイトには、最も早い発売見込み日として2027年1月1日が記載されている。"
+              },
+              {
+                "t": "p",
+                "x": "性能、セキュリティ、そして完全なLinuxスマートフォン体験を実現できるかどうかは、なお独立した検証が必要だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Windows 11照片应用\n迎来Adobe生成式AI",
-          "body": "Adobe生成式编辑与Express将登陆Windows 11 Photos。",
-          "mini_headline": "Adobe AI登陆Windows Photos",
+          "headline": "围绕AI研读圣经的\n$449 Linux手机",
+          "body": "基督教项目Jesus Dash的创始人计划2027年初推出$449的PineCone手机。",
+          "mini_headline": "$449的AI圣经手机",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Adobe-Max.jpg",
-                "cap": "Windows自带的照片编辑器即将获得一些Adobe-powered功能"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Golden-Codex-Smartphone-Showcase.png",
+                "cap": "PineCone智能手机展示拟议中的Jesus New OS"
               },
               {
                 "t": "p",
-                "x": "Adobe与Microsoft正在扩大合作，为Windows 11带来新的AI-powered编辑功能，同时提升Creative Cloud在Arm-based PCs上的性能。两家公司在Adobe Max 2026上宣布了这项合作。"
+                "x": "Jesus Dash是一个雄心勃勃的基督教科技项目，结合了Linux、AI-powered助手功能和宗教资源。其创始人还在开发一款名为PineCone的$449智能手机，目标是2027年初推出。部分应用程序现已可用。"
               },
               {
                 "t": "p",
-                "x": "Adobe的生成式AI工具将进入Windows 11自带的Photos应用。用户可以把图像扩展到原始边界之外，旋转照片而不丢失画面内容，并移除不需要的物体，同时自动填补留下的空缺。这项集成还支持基于文字的编辑，用户可直接在Photos查看器中打开Adobe Express，把照片做成邀请函、社交媒体帖子等设计。"
+                "x": "创始人Christian Cassarly向Notebookcheck澄清，Windows、macOS和Linux版本是运行在现有操作系统中的应用程序，而非可启动的发行版。据称，该手机平台结合了Linux-based的Popcorn内核、Trinity Core服务层和Jesus New界面。"
               },
               {
                 "t": "p",
-                "x": "这些功能将从2026年12月起率先向Windows Insiders开放。两家公司均未公布更大范围的上线日期，也未说明部分AI功能是否需要付费订阅。"
-              },
-              {
-                "t": "p",
-                "x": "Adobe还针对Windows on Arm设备优化了Photoshop、Premiere、After Effects和Substance 3D Painter（beta），其中包括搭载Nvidia RTX Spark的Microsoft Surface Laptop Ultra。Photoshop的端侧生成式AI处理速度更快，但部分功能和第三方插件仍不兼容Windows on Arm。"
+                "x": "拟议中的Temple Suite包括祈祷与反思空间、引导冥想、圣经阅读以及ChristBooks数字图书馆。Trinity AI提供对话式协助，Living Jesus、Living God和Living Word则提供关于圣经文本的AI-assisted讨论。联网AI功能依赖外部提供商。"
               },
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/8/b/csm_Adobe-X-Microsoft-Windows-11-features_86f7cbac0b.gif",
-                "cap": "Adobe X Microsoft Windows 11功能"
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/5/2/csm_pinecone-os-suite_e31ea77c4e.png",
+                "cap": "Temple Suite为Jesus New OS带来基督教资源和Trinity AI"
+              },
+              {
+                "t": "p",
+                "x": "Cassarly打算将对话记录保存在本地，并在24小时后删除服务器端的临时用户消息，但承认这一点尚未经过验证。PineCone采用Pine64硬件，订阅费每月$19.99起；网站将2027年1月1日列为最早的预计上市时间。"
+              },
+              {
+                "t": "p",
+                "x": "其性能、安全性以及能否提供完整的Linux智能手机体验，仍有待独立测试。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Windows 11 Photos incorpora\nla AI generativa de Adobe",
-          "body": "La edición generativa de Adobe y Express llegan a Windows 11 Photos, con una vista previa para Insiders en diciembre.",
-          "mini_headline": "La AI de Adobe llega a Windows Photos",
+          "headline": "Un teléfono Linux de $449\npara estudiar la Biblia con AI",
+          "body": "El proyecto cristiano Jesus Dash une Linux y AI; su fundador prevé un móvil PineCone de $449 para inicios de 2027.",
+          "mini_headline": "Un teléfono bíblico con AI de $449",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Adobe-Max.jpg",
-                "cap": "El editor de fotos nativo de Windows recibirá pronto funciones Adobe-powered"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Golden-Codex-Smartphone-Showcase.png",
+                "cap": "El smartphone PineCone muestra el Jesus New OS propuesto"
               },
               {
                 "t": "p",
-                "x": "Adobe y Microsoft amplían su alianza para llevar nuevas funciones de edición AI-powered a Windows 11 y mejorar el rendimiento de Creative Cloud en Arm-based PCs. Las empresas anunciaron la colaboración en Adobe Max 2026."
+                "x": "Jesus Dash es un ambicioso proyecto tecnológico cristiano que combina Linux, asistencia AI-powered y recursos religiosos. Su fundador también desarrolla un smartphone de $449 llamado PineCone, previsto para principios de 2027. Algunas aplicaciones ya están disponibles."
               },
               {
                 "t": "p",
-                "x": "Las herramientas de AI generativa de Adobe llegan a la app nativa Photos de Windows 11. Los usuarios podrán ampliar imágenes más allá de sus bordes originales, girar fotografías sin perder partes de la imagen y eliminar objetos no deseados mientras los huecos resultantes se rellenan automáticamente. La integración también admitirá la edición mediante texto, y Adobe Express estará accesible directamente desde el visor de Photos para convertir imágenes en invitaciones, publicaciones para redes sociales y otros diseños."
+                "x": "El fundador, Christian Cassarly, aclaró a Notebookcheck que las ediciones para Windows, macOS y Linux son aplicaciones que se ejecutan dentro de sistemas operativos existentes, no distribuciones arrancables. Según se informa, la plataforma del teléfono combina el kernel Popcorn (Linux-based), la capa de servicios Trinity Core y la interfaz Jesus New."
               },
               {
                 "t": "p",
-                "x": "Estas funciones estarán disponibles primero para los Windows Insiders a partir de diciembre de 2026. Ninguna de las dos empresas ha precisado una fecha de lanzamiento más amplia ni ha aclarado si ciertas funciones de AI requerirán una suscripción de pago."
-              },
-              {
-                "t": "p",
-                "x": "Adobe también ha optimizado Photoshop, Premiere, After Effects y Substance 3D Painter (beta) para dispositivos Windows on Arm, incluido el Surface Laptop Ultra de Microsoft con Nvidia RTX Spark. Photoshop se beneficia de un procesamiento de AI generativa en el dispositivo más rápido, aunque algunas funciones y plugins de terceros siguen sin ser compatibles con Windows on Arm."
+                "x": "La Temple Suite propuesta incluye espacios de oración y reflexión, meditación guiada, lectura de la Biblia y la biblioteca digital ChristBooks. Trinity AI ofrece asistencia conversacional, mientras que Living Jesus, Living God y Living Word ofrecen debates AI-assisted sobre textos bíblicos. Las funciones de AI conectadas dependen de proveedores externos."
               },
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/8/b/csm_Adobe-X-Microsoft-Windows-11-features_86f7cbac0b.gif",
-                "cap": "Funciones de Adobe X Microsoft para Windows 11"
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/5/2/csm_pinecone-os-suite_e31ea77c4e.png",
+                "cap": "Temple Suite lleva recursos cristianos y Trinity AI a Jesus New OS"
+              },
+              {
+                "t": "p",
+                "x": "Cassarly pretende guardar los historiales de conversación de forma local y borrar a las 24 horas los mensajes temporales de los usuarios en el servidor, aunque reconoce que esto aún no está verificado. PineCone usa hardware de Pine64, con suscripciones desde $19.99 al mes; el sitio web indica el 1 de enero de 2027 como la fecha de disponibilidad estimada más temprana."
+              },
+              {
+                "t": "p",
+                "x": "Su rendimiento, su seguridad y su capacidad para ofrecer una experiencia completa de smartphone Linux aún requieren pruebas independientes."
               }
             ]
           }
@@ -601,145 +615,161 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Windows 11에\nAdobe 생성형 AI",
-          "body": "Adobe 생성형 편집과 Express가 Windows 11 Photos에 온다.",
-          "mini_headline": "Windows Photos에 Adobe AI",
+          "headline": "AI 성경 공부를 위한\n$449 Linux 폰",
+          "body": "Jesus Dash 창립자는 2027년 초 $449 PineCone 폰을 계획한다.",
+          "mini_headline": "$449 AI 성경 폰",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Adobe-Max.jpg",
-                "cap": "Windows 기본 사진 편집기에 곧 Adobe-powered 기능이 들어온다"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Golden-Codex-Smartphone-Showcase.png",
+                "cap": "구상 중인 Jesus New OS를 보여 주는 PineCone 스마트폰"
               },
               {
                 "t": "p",
-                "x": "Adobe와 Microsoft가 파트너십을 넓혀 Windows 11에 새로운 AI-powered 편집 기능을 들여오고, Arm-based PCs에서 Creative Cloud 성능도 끌어올린다. 두 회사는 Adobe Max 2026에서 이 협업을 발표했다."
+                "x": "Jesus Dash는 Linux, AI-powered 지원 기능, 종교 자료를 결합한 야심 찬 기독교 기술 프로젝트다. 창립자는 2027년 초를 목표로 PineCone이라는 $449 스마트폰도 개발하고 있다. 일부 애플리케이션은 이미 이용할 수 있다."
               },
               {
                 "t": "p",
-                "x": "Adobe의 생성형 AI 도구가 Windows 11 기본 Photos 앱에 들어온다. 사용자는 이미지를 원래 경계 너머로 확장하고, 이미지 일부를 잃지 않고 사진을 회전하고, 원치 않는 물체를 지우면서 생긴 빈자리를 자동으로 채울 수 있다. 텍스트 기반 편집도 지원하며, Photos 뷰어에서 바로 Adobe Express를 열어 사진을 초대장, 소셜 미디어 게시물 등 다양한 디자인으로 바꿀 수 있다."
+                "x": "창립자 Christian Cassarly는 Notebookcheck에 Windows, macOS, Linux 버전이 부팅 가능한 배포판이 아니라 기존 운영체제 안에서 실행되는 애플리케이션이라고 밝혔다. 폰 플랫폼은 Linux-based Popcorn 커널과 Trinity Core 서비스 계층, Jesus New 인터페이스를 결합한 것으로 알려졌다."
               },
               {
                 "t": "p",
-                "x": "이 기능은 2026년 12월부터 Windows Insiders에게 먼저 제공된다. 두 회사 모두 더 넓은 출시 일정을 밝히지 않았고, 일부 AI 기능에 유료 구독이 필요한지도 설명하지 않았다."
-              },
-              {
-                "t": "p",
-                "x": "Adobe는 Nvidia RTX Spark를 탑재한 Microsoft의 Surface Laptop Ultra를 비롯한 Windows on Arm 기기에 맞춰 Photoshop, Premiere, After Effects, Substance 3D Painter(beta)도 최적화했다. Photoshop은 온디바이스 생성형 AI 처리가 빨라졌지만, 일부 기능과 서드파티 플러그인은 여전히 Windows on Arm과 호환되지 않는다."
+                "x": "구상 중인 Temple Suite에는 기도와 묵상 공간, 안내 명상, 성경 읽기, ChristBooks 디지털 도서관이 들어간다. Trinity AI는 대화형 지원을 제공하고, Living Jesus, Living God, Living Word는 성경 본문을 두고 AI-assisted 토론을 제공한다. 연결형 AI 기능은 외부 제공업체에 의존한다."
               },
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/8/b/csm_Adobe-X-Microsoft-Windows-11-features_86f7cbac0b.gif",
-                "cap": "Adobe X Microsoft Windows 11 기능"
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/5/2/csm_pinecone-os-suite_e31ea77c4e.png",
+                "cap": "Temple Suite는 기독교 자료와 Trinity AI를 Jesus New OS에 담는다"
+              },
+              {
+                "t": "p",
+                "x": "Cassarly는 대화 기록을 기기에 보관하고 서버에 임시로 남는 사용자 메시지는 24시간 뒤 삭제할 계획이지만, 아직 검증되지 않았다고 인정했다. PineCone은 Pine64 하드웨어를 쓰며 구독료는 월 $19.99부터다. 웹사이트는 가장 이른 예상 출시일을 2027년 1월 1일로 적어 두었다."
+              },
+              {
+                "t": "p",
+                "x": "성능과 보안, 완전한 Linux 스마트폰 경험을 제공할 수 있는지는 아직 독립적인 검증이 필요하다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Windows 11の\nフォトにAdobe生成AI",
-          "body": "Adobeの生成編集とExpressがWindows 11 Photosに来る。",
-          "mini_headline": "Windows PhotosにAdobe AI",
+          "headline": "AI聖書学習のための\n$449のLinuxスマホ",
+          "body": "Jesus Dashの創設者は2027年初めに$449のPineConeスマホを計画する。",
+          "mini_headline": "$449のAI聖書スマホ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Adobe-Max.jpg",
-                "cap": "Windows標準の写真編集アプリに、まもなくAdobe-poweredの機能が加わる"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Golden-Codex-Smartphone-Showcase.png",
+                "cap": "構想中のJesus New OSを示すPineConeスマートフォン"
               },
               {
                 "t": "p",
-                "x": "AdobeとMicrosoftは提携を広げ、Windows 11に新たなAI-poweredの編集機能を導入するとともに、Arm-based PCsでのCreative Cloudの性能を高める。両社はこの協業をAdobe Max 2026で発表した。"
+                "x": "Jesus Dashは、Linux、AI-poweredなアシスタント機能、宗教的リソースを組み合わせた野心的なキリスト教系テクノロジープロジェクトだ。創設者はPineConeという$449のスマートフォンも開発しており、2027年初めを目標としている。一部のアプリケーションはすでに利用できる。"
               },
               {
                 "t": "p",
-                "x": "Adobeの生成AIツールがWindows 11標準のPhotosアプリに搭載される。画像を元の枠の外まで拡張したり、画像の一部を失わずに写真を回転したり、不要なオブジェクトを消して生じた隙間を自動で埋めたりできる。テキストによる編集にも対応し、PhotosビューアーからAdobe Expressを直接呼び出して、写真を招待状やソーシャルメディア投稿などのデザインに仕上げられる。"
+                "x": "創設者のChristian CassarlyはNotebookcheckに対し、Windows版、macOS版、Linux版は起動可能なディストリビューションではなく、既存のOS上で動くアプリケーションだと説明した。スマートフォン向けプラットフォームは、Linux-basedのPopcornカーネル、Trinity Coreサービス層、Jesus Newインターフェースを組み合わせたものだという。"
               },
               {
                 "t": "p",
-                "x": "これらの機能は2026年12月から、まずWindows Insidersに提供される。両社とも一般提供の時期は明らかにしておらず、一部のAI機能に有料サブスクリプションが必要かどうかも説明していない。"
-              },
-              {
-                "t": "p",
-                "x": "AdobeはまたPhotoshop、Premiere、After Effects、Substance 3D Painter（beta）を、Nvidia RTX Spark搭載のMicrosoft Surface Laptop UltraをはじめとするWindows on Arm機器向けに最適化した。Photoshopではオンデバイスの生成AI処理が速くなったが、一部の機能やサードパーティ製プラグインは依然としてWindows on Armに対応していない。"
+                "x": "構想中のTemple Suiteには、祈りと黙想のスペース、ガイド付き瞑想、聖書の通読、ChristBooksデジタルライブラリが含まれる。Trinity AIは対話型のアシスタントを提供し、Living Jesus、Living God、Living Wordは聖書本文についてAI-assistedの議論を提供する。接続型のAI機能は外部プロバイダーに依存する。"
               },
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/8/b/csm_Adobe-X-Microsoft-Windows-11-features_86f7cbac0b.gif",
-                "cap": "Adobe X MicrosoftのWindows 11向け機能"
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/5/2/csm_pinecone-os-suite_e31ea77c4e.png",
+                "cap": "Temple Suiteはキリスト教のリソースとTrinity AIをJesus New OSにもたらす"
+              },
+              {
+                "t": "p",
+                "x": "Cassarlyは会話履歴を端末内に保存し、サーバー側の一時的なユーザーメッセージを24時間後に削除する方針だが、まだ検証されていないと認めている。PineConeはPine64のハードウェアを採用し、サブスクリプションは月額$19.99からだ。ウェブサイトには、最も早い発売見込み日として2027年1月1日が記載されている。"
+              },
+              {
+                "t": "p",
+                "x": "性能、セキュリティ、そして完全なLinuxスマートフォン体験を実現できるかどうかは、なお独立した検証が必要だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Windows 11照片应用\n迎来Adobe生成式AI",
-          "body": "Adobe生成式编辑与Express将登陆Windows 11 Photos。",
-          "mini_headline": "Adobe AI登陆Windows Photos",
+          "headline": "围绕AI研读圣经的\n$449 Linux手机",
+          "body": "基督教项目Jesus Dash的创始人计划2027年初推出$449的PineCone手机。",
+          "mini_headline": "$449的AI圣经手机",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Adobe-Max.jpg",
-                "cap": "Windows自带的照片编辑器即将获得一些Adobe-powered功能"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Golden-Codex-Smartphone-Showcase.png",
+                "cap": "PineCone智能手机展示拟议中的Jesus New OS"
               },
               {
                 "t": "p",
-                "x": "Adobe与Microsoft正在扩大合作，为Windows 11带来新的AI-powered编辑功能，同时提升Creative Cloud在Arm-based PCs上的性能。两家公司在Adobe Max 2026上宣布了这项合作。"
+                "x": "Jesus Dash是一个雄心勃勃的基督教科技项目，结合了Linux、AI-powered助手功能和宗教资源。其创始人还在开发一款名为PineCone的$449智能手机，目标是2027年初推出。部分应用程序现已可用。"
               },
               {
                 "t": "p",
-                "x": "Adobe的生成式AI工具将进入Windows 11自带的Photos应用。用户可以把图像扩展到原始边界之外，旋转照片而不丢失画面内容，并移除不需要的物体，同时自动填补留下的空缺。这项集成还支持基于文字的编辑，用户可直接在Photos查看器中打开Adobe Express，把照片做成邀请函、社交媒体帖子等设计。"
+                "x": "创始人Christian Cassarly向Notebookcheck澄清，Windows、macOS和Linux版本是运行在现有操作系统中的应用程序，而非可启动的发行版。据称，该手机平台结合了Linux-based的Popcorn内核、Trinity Core服务层和Jesus New界面。"
               },
               {
                 "t": "p",
-                "x": "这些功能将从2026年12月起率先向Windows Insiders开放。两家公司均未公布更大范围的上线日期，也未说明部分AI功能是否需要付费订阅。"
-              },
-              {
-                "t": "p",
-                "x": "Adobe还针对Windows on Arm设备优化了Photoshop、Premiere、After Effects和Substance 3D Painter（beta），其中包括搭载Nvidia RTX Spark的Microsoft Surface Laptop Ultra。Photoshop的端侧生成式AI处理速度更快，但部分功能和第三方插件仍不兼容Windows on Arm。"
+                "x": "拟议中的Temple Suite包括祈祷与反思空间、引导冥想、圣经阅读以及ChristBooks数字图书馆。Trinity AI提供对话式协助，Living Jesus、Living God和Living Word则提供关于圣经文本的AI-assisted讨论。联网AI功能依赖外部提供商。"
               },
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/8/b/csm_Adobe-X-Microsoft-Windows-11-features_86f7cbac0b.gif",
-                "cap": "Adobe X Microsoft Windows 11功能"
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/5/2/csm_pinecone-os-suite_e31ea77c4e.png",
+                "cap": "Temple Suite为Jesus New OS带来基督教资源和Trinity AI"
+              },
+              {
+                "t": "p",
+                "x": "Cassarly打算将对话记录保存在本地，并在24小时后删除服务器端的临时用户消息，但承认这一点尚未经过验证。PineCone采用Pine64硬件，订阅费每月$19.99起；网站将2027年1月1日列为最早的预计上市时间。"
+              },
+              {
+                "t": "p",
+                "x": "其性能、安全性以及能否提供完整的Linux智能手机体验，仍有待独立测试。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Windows 11 Photos incorpora\nla AI generativa de Adobe",
-          "body": "La edición generativa de Adobe y Express llegan a Windows 11 Photos, con una vista previa para Insiders en diciembre.",
-          "mini_headline": "La AI de Adobe llega a Windows Photos",
+          "headline": "Un teléfono Linux de $449\npara estudiar la Biblia con AI",
+          "body": "El proyecto cristiano Jesus Dash une Linux y AI; su fundador prevé un móvil PineCone de $449 para inicios de 2027.",
+          "mini_headline": "Un teléfono bíblico con AI de $449",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Adobe-Max.jpg",
-                "cap": "El editor de fotos nativo de Windows recibirá pronto funciones Adobe-powered"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Golden-Codex-Smartphone-Showcase.png",
+                "cap": "El smartphone PineCone muestra el Jesus New OS propuesto"
               },
               {
                 "t": "p",
-                "x": "Adobe y Microsoft amplían su alianza para llevar nuevas funciones de edición AI-powered a Windows 11 y mejorar el rendimiento de Creative Cloud en Arm-based PCs. Las empresas anunciaron la colaboración en Adobe Max 2026."
+                "x": "Jesus Dash es un ambicioso proyecto tecnológico cristiano que combina Linux, asistencia AI-powered y recursos religiosos. Su fundador también desarrolla un smartphone de $449 llamado PineCone, previsto para principios de 2027. Algunas aplicaciones ya están disponibles."
               },
               {
                 "t": "p",
-                "x": "Las herramientas de AI generativa de Adobe llegan a la app nativa Photos de Windows 11. Los usuarios podrán ampliar imágenes más allá de sus bordes originales, girar fotografías sin perder partes de la imagen y eliminar objetos no deseados mientras los huecos resultantes se rellenan automáticamente. La integración también admitirá la edición mediante texto, y Adobe Express estará accesible directamente desde el visor de Photos para convertir imágenes en invitaciones, publicaciones para redes sociales y otros diseños."
+                "x": "El fundador, Christian Cassarly, aclaró a Notebookcheck que las ediciones para Windows, macOS y Linux son aplicaciones que se ejecutan dentro de sistemas operativos existentes, no distribuciones arrancables. Según se informa, la plataforma del teléfono combina el kernel Popcorn (Linux-based), la capa de servicios Trinity Core y la interfaz Jesus New."
               },
               {
                 "t": "p",
-                "x": "Estas funciones estarán disponibles primero para los Windows Insiders a partir de diciembre de 2026. Ninguna de las dos empresas ha precisado una fecha de lanzamiento más amplia ni ha aclarado si ciertas funciones de AI requerirán una suscripción de pago."
-              },
-              {
-                "t": "p",
-                "x": "Adobe también ha optimizado Photoshop, Premiere, After Effects y Substance 3D Painter (beta) para dispositivos Windows on Arm, incluido el Surface Laptop Ultra de Microsoft con Nvidia RTX Spark. Photoshop se beneficia de un procesamiento de AI generativa en el dispositivo más rápido, aunque algunas funciones y plugins de terceros siguen sin ser compatibles con Windows on Arm."
+                "x": "La Temple Suite propuesta incluye espacios de oración y reflexión, meditación guiada, lectura de la Biblia y la biblioteca digital ChristBooks. Trinity AI ofrece asistencia conversacional, mientras que Living Jesus, Living God y Living Word ofrecen debates AI-assisted sobre textos bíblicos. Las funciones de AI conectadas dependen de proveedores externos."
               },
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/8/b/csm_Adobe-X-Microsoft-Windows-11-features_86f7cbac0b.gif",
-                "cap": "Funciones de Adobe X Microsoft para Windows 11"
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/5/2/csm_pinecone-os-suite_e31ea77c4e.png",
+                "cap": "Temple Suite lleva recursos cristianos y Trinity AI a Jesus New OS"
+              },
+              {
+                "t": "p",
+                "x": "Cassarly pretende guardar los historiales de conversación de forma local y borrar a las 24 horas los mensajes temporales de los usuarios en el servidor, aunque reconoce que esto aún no está verificado. PineCone usa hardware de Pine64, con suscripciones desde $19.99 al mes; el sitio web indica el 1 de enero de 2027 como la fecha de disponibilidad estimada más temprana."
+              },
+              {
+                "t": "p",
+                "x": "Su rendimiento, su seguridad y su capacidad para ofrecer una experiencia completa de smartphone Linux aún requieren pruebas independientes."
               }
             ]
           }
@@ -747,627 +777,201 @@
       }
     },
     {
-      "id": "msi-edgemesa-n-ai",
+      "id": "gadgets-galaxy-ai-premium-499",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "MSI 소형 AI 데스크톱\n통합메모리 최대 128GB",
-      "body": "MSI EdgeMesa N AI+는 최대 128GB 메모리의 로컬 AI 개발용이다.",
-      "mini_headline": "MSI 128GB 로컬 AI 데스크톱",
-      "tool": "Gadgets",
-      "source": "The Gadgeteer",
-      "url": "https://the-gadgeteer.com/2026/11/11/msi-edgemesa-n-ai-desktop/",
-      "accent": "#7928ca",
-      "motif": "headset",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-005US-AI-Supercomputer-Desktop-Cover.jpeg"
-          },
-          {
-            "t": "p",
-            "x": "MSI의 EdgeMesa N AI+는 NVIDIA의 RTX Spark N1X 슈퍼칩과 최대 128GB 통합 메모리를 작은 데스크톱에 넣었다. US에서 파는 두 구성은 프로세서와 그래픽 하드웨어가 같아서, 사실상 메모리와 저장 용량만 고르면 된다."
-          },
-          {
-            "t": "img",
-            "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-005US-AI-Supercomputer-Desktop-5.png"
-          },
-          {
-            "t": "p",
-            "x": "RTX Spark N1X는 6,144-core Blackwell RTX GPU와 20-core NVIDIA Grace CPU를 묶었고, FP4 AI 성능은 최대 1 petaFLOP이다. MSI가 거듭 강조하는 용도는 늘 켜 두는 AI 에이전트다."
-          },
-          {
-            "t": "img",
-            "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-006US-AI-Supercomputer-Desktop-1.jpeg"
-          },
-          {
-            "t": "p",
-            "x": "두 버전 모두 256-bit 인터페이스의 LPDDR5X-9600을 쓴다. X-006US는 64GB와 1TB SSD를, X-005US는 128GB와 4TB를 실었다. 통합 메모리라 CPU와 GPU가 같은 메모리 풀을 읽고, 모델 가중치와 작업 데이터도 한곳에 머문다."
-          },
-          {
-            "t": "img",
-            "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-005US-AI-Supercomputer-Desktop-4-1.jpeg"
-          },
-          {
-            "t": "p",
-            "x": "본체는 너비 5.98인치, 깊이 5.79인치, 높이 2.09인치다. 냉각은 베이퍼 챔버가 맡고 전원 어댑터는 240W다. 20Gbps USB Type-C 포트 네 개와 10G LAN, Wi-Fi 7을 갖췄고 디스플레이는 최대 네 대까지 물린다. 프로세서가 Arm이라 쓰는 툴체인이 이를 지원해야 한다. X-006US 가격은 $4,699다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "MSI's compact AI desktop packs\nup to 128GB of unified memory",
-          "body": "MSI's EdgeMesa N AI+ pairs up to 128GB of unified memory with Nvidia Blackwell graphics for local AI development.",
-          "mini_headline": "MSI's 128GB local AI desktop",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-005US-AI-Supercomputer-Desktop-Cover.jpeg"
-              },
-              {
-                "t": "p",
-                "x": "MSI’s EdgeMesa N AI+ puts NVIDIA’s RTX Spark N1X superchip into a compact desktop with up to 128GB of unified memory. Its two US configurations share the same processor and graphics hardware, leaving memory and storage as the main buying decisions."
-              },
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-005US-AI-Supercomputer-Desktop-5.png"
-              },
-              {
-                "t": "p",
-                "x": "The RTX Spark N1X pairs a 6,144-core Blackwell RTX GPU with a 20-core NVIDIA Grace CPU, rated at up to 1 petaFLOP of FP4 AI performance. Persistent AI agents are the workload MSI keeps pointing at."
-              },
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-006US-AI-Supercomputer-Desktop-1.jpeg"
-              },
-              {
-                "t": "p",
-                "x": "Both versions use LPDDR5X-9600 across a 256-bit interface: the X-006US carries 64GB and a 1TB SSD, the X-005US 128GB and 4TB. Unified memory means the CPU and GPU read the same pool, so model weights and working data stay in one place."
-              },
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-005US-AI-Supercomputer-Desktop-4-1.jpeg"
-              },
-              {
-                "t": "p",
-                "x": "The machine measures 5.98 inches wide, 5.79 inches deep and 2.09 inches tall, with vapor-chamber cooling and a 240W power adapter. It offers four 20Gbps USB Type-C ports, 10G LAN, Wi-Fi 7 and up to four displays. The processor is Arm, so your toolchain has to support it. The X-006US costs $4,699."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "MSI 소형 AI 데스크톱\n통합메모리 최대 128GB",
-          "body": "MSI EdgeMesa N AI+는 최대 128GB 메모리의 로컬 AI 개발용이다.",
-          "mini_headline": "MSI 128GB 로컬 AI 데스크톱",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-005US-AI-Supercomputer-Desktop-Cover.jpeg"
-              },
-              {
-                "t": "p",
-                "x": "MSI의 EdgeMesa N AI+는 NVIDIA의 RTX Spark N1X 슈퍼칩과 최대 128GB 통합 메모리를 작은 데스크톱에 넣었다. US에서 파는 두 구성은 프로세서와 그래픽 하드웨어가 같아서, 사실상 메모리와 저장 용량만 고르면 된다."
-              },
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-005US-AI-Supercomputer-Desktop-5.png"
-              },
-              {
-                "t": "p",
-                "x": "RTX Spark N1X는 6,144-core Blackwell RTX GPU와 20-core NVIDIA Grace CPU를 묶었고, FP4 AI 성능은 최대 1 petaFLOP이다. MSI가 거듭 강조하는 용도는 늘 켜 두는 AI 에이전트다."
-              },
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-006US-AI-Supercomputer-Desktop-1.jpeg"
-              },
-              {
-                "t": "p",
-                "x": "두 버전 모두 256-bit 인터페이스의 LPDDR5X-9600을 쓴다. X-006US는 64GB와 1TB SSD를, X-005US는 128GB와 4TB를 실었다. 통합 메모리라 CPU와 GPU가 같은 메모리 풀을 읽고, 모델 가중치와 작업 데이터도 한곳에 머문다."
-              },
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-005US-AI-Supercomputer-Desktop-4-1.jpeg"
-              },
-              {
-                "t": "p",
-                "x": "본체는 너비 5.98인치, 깊이 5.79인치, 높이 2.09인치다. 냉각은 베이퍼 챔버가 맡고 전원 어댑터는 240W다. 20Gbps USB Type-C 포트 네 개와 10G LAN, Wi-Fi 7을 갖췄고 디스플레이는 최대 네 대까지 물린다. 프로세서가 Arm이라 쓰는 툴체인이 이를 지원해야 한다. X-006US 가격은 $4,699다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "MSIの小型AIデスクトップ\n統合メモリ最大128GB",
-          "body": "MSI EdgeMesa N AI+は最大128GBの統合メモリでローカルAI開発向けだ。",
-          "mini_headline": "MSIの128GBローカルAIデスクトップ",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-005US-AI-Supercomputer-Desktop-Cover.jpeg"
-              },
-              {
-                "t": "p",
-                "x": "MSIのEdgeMesa N AI+は、NVIDIAのRTX Spark N1Xスーパーチップを、最大128GBの統合メモリとともに小型デスクトップに収めた。US向けの二つの構成はプロセッサーとグラフィックスのハードウェアが共通で、購入時の主な選択肢はメモリとストレージになる。"
-              },
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-005US-AI-Supercomputer-Desktop-5.png"
-              },
-              {
-                "t": "p",
-                "x": "RTX Spark N1Xは6,144-core Blackwell RTX GPUと20-core NVIDIA Grace CPUを組み合わせ、最大1 petaFLOPのFP4 AI性能をうたう。MSIが繰り返し想定用途に挙げるのは、常駐型のAIエージェントだ。"
-              },
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-006US-AI-Supercomputer-Desktop-1.jpeg"
-              },
-              {
-                "t": "p",
-                "x": "どちらのバージョンも256-bitインターフェースのLPDDR5X-9600を採用する。X-006USは64GBと1TB SSD、X-005USは128GBと4TBを搭載する。統合メモリではCPUとGPUが同じメモリプールを読むため、モデルの重みと作業データが一か所にとどまる。"
-              },
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-005US-AI-Supercomputer-Desktop-4-1.jpeg"
-              },
-              {
-                "t": "p",
-                "x": "本体は幅5.98インチ、奥行き5.79インチ、高さ2.09インチで、ベイパーチャンバー冷却と240W電源アダプターを備える。20Gbps USB Type-Cポート四つ、10G LAN、Wi-Fi 7を備え、最大四台のディスプレイに対応する。プロセッサーはArmなので、使うツールチェーンが対応している必要がある。X-006USの価格は$4,699だ。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "MSI小型AI台式机\n最高128GB统一内存",
-          "body": "MSI EdgeMesa N AI+配备最高128GB统一内存，面向本地AI开发。",
-          "mini_headline": "MSI 128GB本地AI台式机",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-005US-AI-Supercomputer-Desktop-Cover.jpeg"
-              },
-              {
-                "t": "p",
-                "x": "MSI的EdgeMesa N AI+把NVIDIA的RTX Spark N1X超级芯片装进一台小型台式机，并配备最高128GB统一内存。它在US推出的两种配置采用相同的处理器和图形硬件，购买时主要只需在内存和存储上做选择。"
-              },
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-005US-AI-Supercomputer-Desktop-5.png"
-              },
-              {
-                "t": "p",
-                "x": "RTX Spark N1X将6,144-core Blackwell RTX GPU与20-core NVIDIA Grace CPU结合，FP4 AI性能最高可达1 petaFLOP。MSI反复强调的工作负载是常驻运行的AI智能体。"
-              },
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-006US-AI-Supercomputer-Desktop-1.jpeg"
-              },
-              {
-                "t": "p",
-                "x": "两个版本都采用256-bit接口的LPDDR5X-9600：X-006US配备64GB和1TB SSD，X-005US配备128GB和4TB。统一内存意味着CPU和GPU读取同一个内存池，因此模型权重和工作数据都留在一处。"
-              },
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-005US-AI-Supercomputer-Desktop-4-1.jpeg"
-              },
-              {
-                "t": "p",
-                "x": "整机宽5.98英寸、深5.79英寸、高2.09英寸，采用均热板散热和240W电源适配器。它提供四个20Gbps USB Type-C接口、10G LAN和Wi-Fi 7，最多支持四台显示器。处理器为Arm架构，因此你的工具链必须支持它。X-006US售价$4,699。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "El PC compacto de AI de MSI trae\nhasta 128GB de memoria unificada",
-          "body": "El EdgeMesa N AI+ de MSI combina hasta 128GB de memoria unificada con gráficos Nvidia Blackwell para AI local.",
-          "mini_headline": "El PC de AI local de MSI con 128GB",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-005US-AI-Supercomputer-Desktop-Cover.jpeg"
-              },
-              {
-                "t": "p",
-                "x": "El EdgeMesa N AI+ de MSI integra el superchip RTX Spark N1X de NVIDIA en un escritorio compacto con hasta 128GB de memoria unificada. Sus dos configuraciones para US comparten el mismo procesador y el mismo hardware gráfico, por lo que la memoria y el almacenamiento son las principales decisiones de compra."
-              },
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-005US-AI-Supercomputer-Desktop-5.png"
-              },
-              {
-                "t": "p",
-                "x": "El RTX Spark N1X combina una Blackwell RTX GPU de 6,144-core con una NVIDIA Grace CPU de 20-core, con un rendimiento de hasta 1 petaFLOP en FP4 AI. Los agentes de AI persistentes son la carga de trabajo que MSI no deja de señalar."
-              },
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-006US-AI-Supercomputer-Desktop-1.jpeg"
-              },
-              {
-                "t": "p",
-                "x": "Ambas versiones usan LPDDR5X-9600 con una interfaz de 256-bit: el X-006US lleva 64GB y un SSD de 1TB, y el X-005US, 128GB y 4TB. Con la memoria unificada, la CPU y la GPU leen el mismo bloque de memoria, de modo que los pesos del modelo y los datos de trabajo permanecen en un solo lugar."
-              },
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-005US-AI-Supercomputer-Desktop-4-1.jpeg"
-              },
-              {
-                "t": "p",
-                "x": "El equipo mide 5.98 pulgadas de ancho, 5.79 pulgadas de fondo y 2.09 pulgadas de alto, con refrigeración por cámara de vapor y un adaptador de corriente de 240W. Ofrece cuatro puertos USB Type-C de 20Gbps, 10G LAN, Wi-Fi 7 y soporte para hasta cuatro pantallas. El procesador es Arm, así que tu cadena de herramientas debe ser compatible. El X-006US cuesta $4,699."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "MSI 소형 AI 데스크톱\n통합메모리 최대 128GB",
-          "body": "MSI EdgeMesa N AI+는 최대 128GB 메모리의 로컬 AI 개발용이다.",
-          "mini_headline": "MSI 128GB 로컬 AI 데스크톱",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-005US-AI-Supercomputer-Desktop-Cover.jpeg"
-              },
-              {
-                "t": "p",
-                "x": "MSI의 EdgeMesa N AI+는 NVIDIA의 RTX Spark N1X 슈퍼칩과 최대 128GB 통합 메모리를 소형 데스크톱에 담았다. US에서 판매되는 두 가지 구성은 프로세서와 그래픽 하드웨어가 같아, 구매할 때 고를 것은 주로 메모리와 저장 용량이다."
-              },
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-005US-AI-Supercomputer-Desktop-5.png"
-              },
-              {
-                "t": "p",
-                "x": "RTX Spark N1X는 6,144-core Blackwell RTX GPU와 20-core NVIDIA Grace CPU를 결합했고, FP4 AI 성능은 최대 1 petaFLOP이다. MSI가 거듭 내세우는 작업은 상시 구동되는 AI 에이전트다."
-              },
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-006US-AI-Supercomputer-Desktop-1.jpeg"
-              },
-              {
-                "t": "p",
-                "x": "두 버전 모두 256-bit 인터페이스의 LPDDR5X-9600을 쓴다. X-006US는 64GB와 1TB SSD를, X-005US는 128GB와 4TB를 탑재했다. 통합 메모리 구조에서는 CPU와 GPU가 같은 메모리 풀을 읽기 때문에 모델 가중치와 작업 데이터가 한곳에 머문다."
-              },
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-005US-AI-Supercomputer-Desktop-4-1.jpeg"
-              },
-              {
-                "t": "p",
-                "x": "본체 크기는 너비 5.98인치, 깊이 5.79인치, 높이 2.09인치이며, 베이퍼 챔버 냉각과 240W 전원 어댑터를 갖췄다. 20Gbps USB Type-C 포트 네 개와 10G LAN, Wi-Fi 7을 제공하고 디스플레이는 최대 네 대까지 연결된다. 프로세서가 Arm이라 사용하는 툴체인이 이를 지원해야 한다. X-006US의 가격은 $4,699다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "MSIの小型AIデスクトップ\n統合メモリ最大128GB",
-          "body": "MSI EdgeMesa N AI+は最大128GBの統合メモリでローカルAI開発向けだ。",
-          "mini_headline": "MSIの128GBローカルAIデスクトップ",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-005US-AI-Supercomputer-Desktop-Cover.jpeg"
-              },
-              {
-                "t": "p",
-                "x": "MSIのEdgeMesa N AI+は、NVIDIAのRTX Spark N1Xスーパーチップを、最大128GBの統合メモリとともに小型デスクトップに収めた。US向けの二つの構成はプロセッサーとグラフィックスのハードウェアが共通で、購入時の主な選択肢はメモリとストレージになる。"
-              },
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-005US-AI-Supercomputer-Desktop-5.png"
-              },
-              {
-                "t": "p",
-                "x": "RTX Spark N1Xは6,144-core Blackwell RTX GPUと20-core NVIDIA Grace CPUを組み合わせ、最大1 petaFLOPのFP4 AI性能をうたう。MSIが繰り返し想定用途に挙げるのは、常駐型のAIエージェントだ。"
-              },
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-006US-AI-Supercomputer-Desktop-1.jpeg"
-              },
-              {
-                "t": "p",
-                "x": "どちらのバージョンも256-bitインターフェースのLPDDR5X-9600を採用する。X-006USは64GBと1TB SSD、X-005USは128GBと4TBを搭載する。統合メモリではCPUとGPUが同じメモリプールを読むため、モデルの重みと作業データが一か所にとどまる。"
-              },
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-005US-AI-Supercomputer-Desktop-4-1.jpeg"
-              },
-              {
-                "t": "p",
-                "x": "本体は幅5.98インチ、奥行き5.79インチ、高さ2.09インチで、ベイパーチャンバー冷却と240W電源アダプターを備える。20Gbps USB Type-Cポート四つ、10G LAN、Wi-Fi 7を備え、最大四台のディスプレイに対応する。プロセッサーはArmなので、使うツールチェーンが対応している必要がある。X-006USの価格は$4,699だ。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "MSI小型AI台式机\n最高128GB统一内存",
-          "body": "MSI EdgeMesa N AI+配备最高128GB统一内存，面向本地AI开发。",
-          "mini_headline": "MSI 128GB本地AI台式机",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-005US-AI-Supercomputer-Desktop-Cover.jpeg"
-              },
-              {
-                "t": "p",
-                "x": "MSI的EdgeMesa N AI+把NVIDIA的RTX Spark N1X超级芯片装进一台小型台式机，并配备最高128GB统一内存。它在US推出的两种配置采用相同的处理器和图形硬件，购买时主要只需在内存和存储上做选择。"
-              },
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-005US-AI-Supercomputer-Desktop-5.png"
-              },
-              {
-                "t": "p",
-                "x": "RTX Spark N1X将6,144-core Blackwell RTX GPU与20-core NVIDIA Grace CPU结合，FP4 AI性能最高可达1 petaFLOP。MSI反复强调的工作负载是常驻运行的AI智能体。"
-              },
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-006US-AI-Supercomputer-Desktop-1.jpeg"
-              },
-              {
-                "t": "p",
-                "x": "两个版本都采用256-bit接口的LPDDR5X-9600：X-006US配备64GB和1TB SSD，X-005US配备128GB和4TB。统一内存意味着CPU和GPU读取同一个内存池，因此模型权重和工作数据都留在一处。"
-              },
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-005US-AI-Supercomputer-Desktop-4-1.jpeg"
-              },
-              {
-                "t": "p",
-                "x": "整机宽5.98英寸、深5.79英寸、高2.09英寸，采用均热板散热和240W电源适配器。它提供四个20Gbps USB Type-C接口、10G LAN和Wi-Fi 7，最多支持四台显示器。处理器为Arm架构，因此你的工具链必须支持它。X-006US售价$4,699。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "El PC compacto de AI de MSI trae\nhasta 128GB de memoria unificada",
-          "body": "El EdgeMesa N AI+ de MSI combina hasta 128GB de memoria unificada con gráficos Nvidia Blackwell para AI local.",
-          "mini_headline": "El PC de AI local de MSI con 128GB",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-005US-AI-Supercomputer-Desktop-Cover.jpeg"
-              },
-              {
-                "t": "p",
-                "x": "El EdgeMesa N AI+ de MSI integra el superchip RTX Spark N1X de NVIDIA en un escritorio compacto con hasta 128GB de memoria unificada. Sus dos configuraciones para US comparten el mismo procesador y el mismo hardware gráfico, por lo que la memoria y el almacenamiento son las principales decisiones de compra."
-              },
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-005US-AI-Supercomputer-Desktop-5.png"
-              },
-              {
-                "t": "p",
-                "x": "El RTX Spark N1X combina una Blackwell RTX GPU de 6,144-core con una NVIDIA Grace CPU de 20-core, con un rendimiento de hasta 1 petaFLOP en FP4 AI. Los agentes de AI persistentes son la carga de trabajo que MSI no deja de señalar."
-              },
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-006US-AI-Supercomputer-Desktop-1.jpeg"
-              },
-              {
-                "t": "p",
-                "x": "Ambas versiones usan LPDDR5X-9600 con una interfaz de 256-bit: el X-006US lleva 64GB y un SSD de 1TB, y el X-005US, 128GB y 4TB. Con la memoria unificada, la CPU y la GPU leen el mismo bloque de memoria, de modo que los pesos del modelo y los datos de trabajo permanecen en un solo lugar."
-              },
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/MSI-EdgeMesa-N-AI-X-005US-AI-Supercomputer-Desktop-4-1.jpeg"
-              },
-              {
-                "t": "p",
-                "x": "El equipo mide 5.98 pulgadas de ancho, 5.79 pulgadas de fondo y 2.09 pulgadas de alto, con refrigeración por cámara de vapor y un adaptador de corriente de 240W. Ofrece cuatro puertos USB Type-C de 20Gbps, 10G LAN, Wi-Fi 7 y soporte para hasta cuatro pantallas. El procesador es Arm, así que tu cadena de herramientas debe ser compatible. El X-006US cuesta $4,699."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "anker-soundcore-typeless",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Anker AI 녹음기에\nTypeless 받아쓰기",
-      "body": "Typeless가 Anker Soundcore Work에 AI 받아쓰기를 더한다.",
-      "mini_headline": "Anker 녹음기에 받아쓰기 추가",
+      "headline": "유료 Galaxy AI\nPremium 시험 중",
+      "body": "Samsung이 월 $4.99 Galaxy AI Premium을 시험 중이라 한다.",
+      "mini_headline": "Galaxy AI Premium $4.99",
       "tool": "Gadgets",
       "source": "Digital Trends",
-      "url": "https://www.digitaltrends.com/computing/anker-soundcore-work-typeless-ai-dictation/",
-      "accent": "#2ec5c5",
+      "url": "https://www.digitaltrends.com/phones/samsungs-free-galaxy-ai-ride-might-be-ending-get-ready-to-pay-5-for-it/",
+      "accent": "#f5a623",
       "motif": "headset",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Anker-Soundcore-Work-Typeless.jpg",
-            "cap": "Typeless"
+            "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2024/08/samsung-galaxy-ai-phone-2.jpg?resize=1200%2C720&ssl=1",
+            "cap": "Galaxy AI Andy Boxall / Digital Trends"
           },
           {
             "t": "p",
-            "x": "AI-powered 음성 받아쓰기·텍스트 처리 앱 Typeless가 Anker와 공식 파트너십을 맺고 웨어러블 마이크 Soundcore Work에 AI 음성 받아쓰기 앱을 제공한다고 발표했다. Anker가 CES 2026에서 선보인 이 제품은 판매된 지도 꽤 됐다. 이제 웨어러블로 이메일, 메시지, AI 프롬프트에 긴 문서까지 받아쓸 수 있다."
+            "x": "새로 유출된 정보를 보면 Samsung은 전용 기능과 더 높은 사용 한도, 월 요금을 갖춘 프리미엄 Galaxy AI 구독을 개발하고 있다. SammyGuru 보도에 따르면 출시되지 않은 Samsung 앱에서 발견된 문구가 상위 Max 요금제를 포함한 Galaxy AI Premium 구독을 가리킨다. 앱 안에는 월 $4.99, 연 $47.99 요금을 시사하는 가격 문자열도 있었다고 한다."
+          },
+          {
+            "t": "img",
+            "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/01/galaxy-s25-ultra-galaxy-ai.jpg?resize=3000%2C2000&ssl=1",
+            "cap": "Andy Boxall / Digital Trends"
           },
           {
             "t": "p",
-            "x": "Soundcore Work는 옷깃에 달고 속삭이듯 자연스럽게 말해도 된다는 게 장점이다. 처음에는 Anker 전용 앱으로 전사와 요약을 해 주는 AI-powered 회의 녹음기로 나왔다. 동전만 한 크기에 듀얼 마이크를 넣었고, 옷에 클립으로 끼우거나 목에 걸 수 있다."
+            "x": "Photo Assist, Browsing Assist, Now Brief, Creative Studio, Samsung Keyboard 같은 기존 도구는 구독 없이도 계속 쓸 수 있지만 사용량은 제한될 수 있다. 무료 사용량이 바닥나면 AI 크레딧을 더 사거나, 사용 한도가 네 배로 알려진 Max 구독으로 올려야 할 수도 있다. 유료 이용자에게는 사진을 AI-generated 영상으로 바꾸는 Gen Video와 앱을 넘나들며 작업을 자동화하는 Bixby Action도 열릴 전망이다."
           },
           {
             "t": "p",
-            "x": "대화를 녹음하고 전사본을 훑어볼 필요 없이, 쓰고 싶은 내용을 앱에 바로 받아쓰게 하면 된다. 말을 읽기 쉬운 글로 다듬는 건 Typeless, 소리를 담는 건 웨어러블 몫이다."
-          },
-          {
-            "t": "p",
-            "x": "이 통합 기능은 Windows, macOS, iOS, Android에서 돌아간다. 기존 Soundcore Work 사용자는 Typeless에 연결하기 전에 Soundcore 앱에서 마이크 펌웨어부터 업데이트해야 한다. 데스크톱에서는 웨어러블을 두 번 탭해 받아쓰기를 켜고 끌 수도 있다. Anker에 따르면 배터리는 최대 여덟 시간, 충전 케이스를 쓰면 32시간까지 간다. Soundcore Work는 이미 $159에 팔리고 있다."
+            "x": "유출된 앱에는 20271이라는 AI 버전 요구 사항도 보인다. SammyGuru는 이 숫자가 곧 나올 Galaxy S27 시리즈를 가리킬 수 있다고 본다. Samsung은 Galaxy AI Premium을 공식 발표하지 않았고, 유출된 가격과 기능은 출시 전에 바뀔 수 있다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Anker's tiny AI recorder gets\nTypeless voice dictation",
-          "body": "Typeless is bringing its AI voice dictation app to Anker's Soundcore Work, the wearable mic introduced at CES 2026.",
-          "mini_headline": "Anker recorder adds dictation",
+          "headline": "Samsung tests a paid\nGalaxy AI Premium tier",
+          "body": "Samsung is reportedly testing a $4.99 monthly Galaxy AI Premium plan whose usage limits could reshape free features.",
+          "mini_headline": "Galaxy AI Premium at $4.99",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Anker-Soundcore-Work-Typeless.jpg",
-                "cap": "Typeless"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2024/08/samsung-galaxy-ai-phone-2.jpg?resize=1200%2C720&ssl=1",
+                "cap": "Galaxy AI Andy Boxall / Digital Trends"
               },
               {
                 "t": "p",
-                "x": "Typeless, the AI-powered voice dictation and text-processing app, has just announced an official partnership with Anker to bring its AI voice dictation app to the Soundcore Work wearable microphone. Anker introduced it at CES 2026, and it has been on sale for quite some time. The latest integration lets users dictate emails, messages, AI prompts, and even lengthy documents using the wearable."
+                "x": "A new leak suggests Samsung is developing a premium Galaxy AI subscription, complete with exclusive features, higher usage limits, and a monthly fee. According to a report from SammyGuru, references discovered in an unreleased Samsung app point to a Galaxy AI Premium subscription with a higher-end Max plan. The app reportedly contains pricing strings suggesting a monthly fee of $4.99, or $47.99 annually."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/01/galaxy-s25-ultra-galaxy-ai.jpg?resize=3000%2C2000&ssl=1",
+                "cap": "Andy Boxall / Digital Trends"
               },
               {
                 "t": "p",
-                "x": "The argument for Soundcore Work is that you can wear it on your collar and speak naturally, even in a whisper. Soundcore Work was originally introduced as an AI-powered meeting recorder, offering transcription and summaries through Anker’s companion app. The coin-sized device comes with dual microphones and can be clipped onto clothing or worn around the neck."
+                "x": "Existing tools such as Photo Assist, Browsing Assist, Now Brief, Creative Studio, and Samsung Keyboard would remain accessible without a subscription, but their usage could be limited. Once users exhaust their free allowance, they might have to purchase additional AI credits or upgrade to the Max subscription, which reportedly offers four times the usage allowance. Paying customers could also unlock Gen Video, which turns photos into AI-generated videos, and Bixby Action, a tool for automating tasks across apps."
               },
               {
                 "t": "p",
-                "x": "Instead of recording a conversation and going through the transcript afterward, users can dictate what they want to write directly into the app. Typeless handles turning spoken words into readable text, while the wearable takes care of capturing the audio."
-              },
-              {
-                "t": "p",
-                "x": "The integration works on Windows, macOS, iOS, and Android. Existing Soundcore Work owners will need to update the microphone’s firmware through the Soundcore app before pairing it with Typeless. Desktop users can also start or stop dictation by double-tapping the wearable. Anker claims up to eight hours of battery life, extending to 32 hours with the charging case. Soundcore Work is already available for $159."
+                "x": "The leaked app also references an AI version requirement labeled 20271, which SammyGuru believes could point to the upcoming Galaxy S27 series. Samsung hasn't officially announced Galaxy AI Premium, and the leaked prices and features could change before launch."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Anker AI 녹음기에\nTypeless 받아쓰기",
-          "body": "Typeless가 Anker Soundcore Work에 AI 받아쓰기를 더한다.",
-          "mini_headline": "Anker 녹음기에 받아쓰기 추가",
+          "headline": "유료 Galaxy AI\nPremium 시험 중",
+          "body": "Samsung이 월 $4.99 Galaxy AI Premium을 시험 중이라 한다.",
+          "mini_headline": "Galaxy AI Premium $4.99",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Anker-Soundcore-Work-Typeless.jpg",
-                "cap": "Typeless"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2024/08/samsung-galaxy-ai-phone-2.jpg?resize=1200%2C720&ssl=1",
+                "cap": "Galaxy AI Andy Boxall / Digital Trends"
               },
               {
                 "t": "p",
-                "x": "AI-powered 음성 받아쓰기·텍스트 처리 앱 Typeless가 Anker와 공식 파트너십을 맺고 웨어러블 마이크 Soundcore Work에 AI 음성 받아쓰기 앱을 제공한다고 발표했다. Anker가 CES 2026에서 선보인 이 제품은 판매된 지도 꽤 됐다. 이제 웨어러블로 이메일, 메시지, AI 프롬프트에 긴 문서까지 받아쓸 수 있다."
+                "x": "새로 유출된 정보를 보면 Samsung은 전용 기능과 더 높은 사용 한도, 월 요금을 갖춘 프리미엄 Galaxy AI 구독을 개발하고 있다. SammyGuru 보도에 따르면 출시되지 않은 Samsung 앱에서 발견된 문구가 상위 Max 요금제를 포함한 Galaxy AI Premium 구독을 가리킨다. 앱 안에는 월 $4.99, 연 $47.99 요금을 시사하는 가격 문자열도 있었다고 한다."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/01/galaxy-s25-ultra-galaxy-ai.jpg?resize=3000%2C2000&ssl=1",
+                "cap": "Andy Boxall / Digital Trends"
               },
               {
                 "t": "p",
-                "x": "Soundcore Work는 옷깃에 달고 속삭이듯 자연스럽게 말해도 된다는 게 장점이다. 처음에는 Anker 전용 앱으로 전사와 요약을 해 주는 AI-powered 회의 녹음기로 나왔다. 동전만 한 크기에 듀얼 마이크를 넣었고, 옷에 클립으로 끼우거나 목에 걸 수 있다."
+                "x": "Photo Assist, Browsing Assist, Now Brief, Creative Studio, Samsung Keyboard 같은 기존 도구는 구독 없이도 계속 쓸 수 있지만 사용량은 제한될 수 있다. 무료 사용량이 바닥나면 AI 크레딧을 더 사거나, 사용 한도가 네 배로 알려진 Max 구독으로 올려야 할 수도 있다. 유료 이용자에게는 사진을 AI-generated 영상으로 바꾸는 Gen Video와 앱을 넘나들며 작업을 자동화하는 Bixby Action도 열릴 전망이다."
               },
               {
                 "t": "p",
-                "x": "대화를 녹음하고 전사본을 훑어볼 필요 없이, 쓰고 싶은 내용을 앱에 바로 받아쓰게 하면 된다. 말을 읽기 쉬운 글로 다듬는 건 Typeless, 소리를 담는 건 웨어러블 몫이다."
-              },
-              {
-                "t": "p",
-                "x": "이 통합 기능은 Windows, macOS, iOS, Android에서 돌아간다. 기존 Soundcore Work 사용자는 Typeless에 연결하기 전에 Soundcore 앱에서 마이크 펌웨어부터 업데이트해야 한다. 데스크톱에서는 웨어러블을 두 번 탭해 받아쓰기를 켜고 끌 수도 있다. Anker에 따르면 배터리는 최대 여덟 시간, 충전 케이스를 쓰면 32시간까지 간다. Soundcore Work는 이미 $159에 팔리고 있다."
+                "x": "유출된 앱에는 20271이라는 AI 버전 요구 사항도 보인다. SammyGuru는 이 숫자가 곧 나올 Galaxy S27 시리즈를 가리킬 수 있다고 본다. Samsung은 Galaxy AI Premium을 공식 발표하지 않았고, 유출된 가격과 기능은 출시 전에 바뀔 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AnkerのAI録音機に\nTypeless音声入力",
-          "body": "TypelessがAI音声入力アプリをAnkerのSoundcore Workに提供する。",
-          "mini_headline": "Anker録音機が音声入力に対応",
+          "headline": "有料Galaxy AI\nPremiumを試験中",
+          "body": "Samsungが月額$4.99のGalaxy AI Premiumを試験中と報じられた。",
+          "mini_headline": "Galaxy AI Premiumは$4.99",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Anker-Soundcore-Work-Typeless.jpg",
-                "cap": "Typeless"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2024/08/samsung-galaxy-ai-phone-2.jpg?resize=1200%2C720&ssl=1",
+                "cap": "Galaxy AI Andy Boxall / Digital Trends"
               },
               {
                 "t": "p",
-                "x": "AI-poweredの音声入力・テキスト処理アプリTypelessは、Ankerとの正式な提携を発表し、AI音声入力アプリをウェアラブルマイクSoundcore Workに提供する。AnkerはCES 2026でこの製品を発表しており、発売からすでにかなりたつ。今回の統合により、ユーザーはウェアラブルを使ってメール、メッセージ、AIプロンプト、さらには長い文書まで口述入力できる。"
+                "x": "新たなリークによると、Samsungは専用機能、より高い利用上限、月額料金を備えたプレミアムなGalaxy AIサブスクリプションを開発している。SammyGuruの報道では、未公開のSamsungアプリで見つかった記述が、上位のMaxプランを含むGalaxy AI Premiumサブスクリプションを示しているという。アプリには月額$4.99、年額$47.99を示唆する価格の文字列が含まれているとされる。"
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/01/galaxy-s25-ultra-galaxy-ai.jpg?resize=3000%2C2000&ssl=1",
+                "cap": "Andy Boxall / Digital Trends"
               },
               {
                 "t": "p",
-                "x": "Soundcore Workの売りは、襟に付けて自然に、ささやき声でも話せることだ。Soundcore Workはもともと、Ankerの専用アプリで文字起こしと要約を提供するAI-poweredの会議レコーダーとして登場した。コインほどの大きさでデュアルマイクを備え、服にクリップで留めたり首から下げたりできる。"
+                "x": "Photo Assist、Browsing Assist、Now Brief、Creative Studio、Samsung Keyboardといった既存ツールはサブスクリプションなしでも使えるが、利用量が制限される可能性がある。無料枠を使い切ると、追加のAIクレジットを購入するか、利用枠が四倍とされるMaxサブスクリプションへのアップグレードが必要になるかもしれない。有料ユーザーは、写真をAI-generatedの動画に変えるGen Videoや、アプリをまたいでタスクを自動化するBixby Actionも利用できるようになる可能性がある。"
               },
               {
                 "t": "p",
-                "x": "会話を録音して後から文字起こしを見直す代わりに、書きたい内容をアプリに直接口述できる。Typelessが話し言葉を読みやすい文章に変え、ウェアラブルが音声の取り込みを担う。"
-              },
-              {
-                "t": "p",
-                "x": "この統合はWindows、macOS、iOS、Androidで動作する。既存のSoundcore Workユーザーは、Typelessとペアリングする前にSoundcoreアプリでマイクのファームウェアを更新する必要がある。デスクトップではウェアラブルをダブルタップして口述入力を開始・停止することもできる。Ankerによるとバッテリーは最大八時間、充電ケース併用で32時間まで延びる。Soundcore Workはすでに$159で販売されている。"
+                "x": "流出したアプリには20271というAIバージョン要件も記されており、SammyGuruはこれが今後のGalaxy S27シリーズを指す可能性があるとみている。SamsungはGalaxy AI Premiumを正式に発表しておらず、流出した価格や機能は発売前に変わる可能性がある。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Anker小型AI录音器\n接入Typeless语音输入",
-          "body": "Typeless将AI语音听写应用带到Anker的Soundcore Work上。",
-          "mini_headline": "Anker录音器新增听写",
+          "headline": "付费版Galaxy AI\nPremium测试中",
+          "body": "据报道，Samsung正在测试每月$4.99的Galaxy AI Premium方案。",
+          "mini_headline": "Galaxy AI Premium定价$4.99",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Anker-Soundcore-Work-Typeless.jpg",
-                "cap": "Typeless"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2024/08/samsung-galaxy-ai-phone-2.jpg?resize=1200%2C720&ssl=1",
+                "cap": "Galaxy AI Andy Boxall / Digital Trends"
               },
               {
                 "t": "p",
-                "x": "AI-powered语音听写与文本处理应用Typeless宣布与Anker达成正式合作，将其AI语音听写应用带到可穿戴麦克风Soundcore Work上。Anker在CES 2026上推出了这款产品，它已经开售了相当长一段时间。最新的集成让用户可以借助这款可穿戴设备听写邮件、消息、AI提示词，甚至长篇文档。"
+                "x": "一则新的爆料显示，Samsung正在开发一项高级Galaxy AI订阅服务，包含独家功能、更高的使用上限并按月收费。据SammyGuru报道，在一款未发布的Samsung应用中发现的线索指向Galaxy AI Premium订阅，以及更高端的Max方案。据称，该应用包含的价格字符串显示月费为$4.99，年费为$47.99。"
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/01/galaxy-s25-ultra-galaxy-ai.jpg?resize=3000%2C2000&ssl=1",
+                "cap": "Andy Boxall / Digital Trends"
               },
               {
                 "t": "p",
-                "x": "Soundcore Work的卖点在于可以别在衣领上自然说话，即使轻声细语也行。Soundcore Work最初是作为AI-powered会议录音器推出的，通过Anker的配套应用提供转写和摘要。这款硬币大小的设备配有双麦克风，可以夹在衣服上或挂在脖子上。"
+                "x": "Photo Assist、Browsing Assist、Now Brief、Creative Studio和Samsung Keyboard等现有工具无需订阅仍可使用，但用量可能受限。用户用完免费额度后，可能需要购买额外的AI点数，或升级到据称提供四倍用量的Max订阅。付费用户还可能解锁Gen Video和Bixby Action，前者可将照片转换为AI-generated视频，后者可跨应用自动执行任务。"
               },
               {
                 "t": "p",
-                "x": "用户不必先录下对话再翻看转写稿，而是可以把想写的内容直接口述到应用中。Typeless负责把口语转成通顺的文字，可穿戴设备则负责采集声音。"
-              },
-              {
-                "t": "p",
-                "x": "这项集成支持Windows、macOS、iOS和Android。现有Soundcore Work用户需要先通过Soundcore应用更新麦克风固件，再与Typeless配对。桌面用户还可以双击这款可穿戴设备来开始或停止听写。Anker称其续航最长八小时，配合充电盒可延长至32小时。Soundcore Work现已上市，售价$159。"
+                "x": "泄露的应用还提到了一个标为20271的AI版本要求，SammyGuru认为这可能指向即将推出的Galaxy S27系列。Samsung尚未正式发布Galaxy AI Premium，泄露的价格和功能在发布前可能发生变化。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La grabadora AI de Anker suma\nel dictado por voz de Typeless",
-          "body": "Typeless lleva su app de dictado por voz con AI al Soundcore Work de Anker, el micrófono que se presentó en CES 2026.",
-          "mini_headline": "La grabadora de Anker suma dictado",
+          "headline": "Samsung prueba un nivel de pago\nGalaxy AI Premium",
+          "body": "Samsung estaría probando un plan Galaxy AI Premium de $4.99 al mes que podría limitar las funciones gratuitas.",
+          "mini_headline": "Galaxy AI Premium por $4.99",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Anker-Soundcore-Work-Typeless.jpg",
-                "cap": "Typeless"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2024/08/samsung-galaxy-ai-phone-2.jpg?resize=1200%2C720&ssl=1",
+                "cap": "Galaxy AI Andy Boxall / Digital Trends"
               },
               {
                 "t": "p",
-                "x": "Typeless, la app AI-powered de dictado por voz y procesamiento de texto, acaba de anunciar una alianza oficial con Anker para llevar su app de dictado por voz con AI al micrófono portátil Soundcore Work. Anker lo presentó en CES 2026 y lleva bastante tiempo a la venta. La nueva integración permite dictar correos, mensajes, prompts de AI e incluso documentos extensos con el dispositivo."
+                "x": "Una nueva filtración indica que Samsung está desarrollando una suscripción premium de Galaxy AI, con funciones exclusivas, límites de uso más altos y una cuota mensual. Según un informe de SammyGuru, referencias halladas en una app de Samsung aún no publicada apuntan a una suscripción Galaxy AI Premium con un plan Max de gama superior. Al parecer, la app contiene cadenas de precios que sugieren una cuota de $4.99 al mes, o $47.99 al año."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/01/galaxy-s25-ultra-galaxy-ai.jpg?resize=3000%2C2000&ssl=1",
+                "cap": "Andy Boxall / Digital Trends"
               },
               {
                 "t": "p",
-                "x": "El argumento a favor de Soundcore Work es que se puede llevar en el cuello de la camisa y hablar con naturalidad, incluso en susurros. Soundcore Work se presentó originalmente como una grabadora de reuniones AI-powered, con transcripciones y resúmenes a través de la app complementaria de Anker. El dispositivo, del tamaño de una moneda, tiene micrófonos duales y puede sujetarse a la ropa o llevarse colgado del cuello."
+                "x": "Herramientas existentes como Photo Assist, Browsing Assist, Now Brief, Creative Studio y Samsung Keyboard seguirían disponibles sin suscripción, pero su uso podría estar limitado. Cuando los usuarios agoten su cuota gratuita, quizá tengan que comprar créditos de AI adicionales o pasar a la suscripción Max, que según se informa ofrece cuatro veces más uso. Los clientes de pago también podrían desbloquear Gen Video, que convierte fotos en videos AI-generated, y Bixby Action, una herramienta para automatizar tareas entre apps."
               },
               {
                 "t": "p",
-                "x": "En lugar de grabar una conversación y revisar la transcripción después, los usuarios pueden dictar directamente en la app lo que quieren escribir. Typeless se encarga de convertir las palabras habladas en texto legible, mientras el dispositivo portátil capta el audio."
-              },
-              {
-                "t": "p",
-                "x": "La integración funciona en Windows, macOS, iOS y Android. Quienes ya tengan un Soundcore Work deberán actualizar el firmware del micrófono desde la app Soundcore antes de emparejarlo con Typeless. En el escritorio, también se puede iniciar o detener el dictado con un doble toque en el dispositivo. Anker asegura hasta ocho horas de batería, que se amplían a 32 horas con el estuche de carga. Soundcore Work ya está disponible por $159."
+                "x": "La app filtrada también menciona un requisito de versión de AI etiquetado como 20271, que según SammyGuru podría apuntar a la próxima serie Galaxy S27. Samsung no ha anunciado oficialmente Galaxy AI Premium, y los precios y funciones filtrados podrían cambiar antes del lanzamiento."
               }
             ]
           }
@@ -1375,125 +979,129 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Anker AI 녹음기에\nTypeless 받아쓰기",
-          "body": "Typeless가 Anker Soundcore Work에 AI 받아쓰기를 더한다.",
-          "mini_headline": "Anker 녹음기에 받아쓰기 추가",
+          "headline": "유료 Galaxy AI\nPremium 시험 중",
+          "body": "Samsung이 월 $4.99 Galaxy AI Premium을 시험한다는 보도다.",
+          "mini_headline": "Galaxy AI Premium $4.99",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Anker-Soundcore-Work-Typeless.jpg",
-                "cap": "Typeless"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2024/08/samsung-galaxy-ai-phone-2.jpg?resize=1200%2C720&ssl=1",
+                "cap": "Galaxy AI Andy Boxall / Digital Trends"
               },
               {
                 "t": "p",
-                "x": "AI-powered 음성 받아쓰기·텍스트 처리 앱 Typeless가 Anker와 공식 파트너십을 맺고, 웨어러블 마이크 Soundcore Work에 AI 음성 받아쓰기 앱을 제공한다고 발표했다. Anker는 이 제품을 CES 2026에서 선보였고, 판매를 시작한 지도 꽤 됐다. 이번 통합으로 사용자는 웨어러블로 이메일, 메시지, AI 프롬프트는 물론 긴 문서까지 받아쓸 수 있다."
+                "x": "새로 유출된 정보에 따르면 Samsung은 전용 기능과 더 높은 사용 한도, 월 요금을 갖춘 프리미엄 Galaxy AI 구독을 개발하고 있다. SammyGuru 보도에 따르면 출시되지 않은 Samsung 앱에서 발견된 문구는 상위 Max 요금제를 포함한 Galaxy AI Premium 구독을 가리킨다. 이 앱에는 월 $4.99, 연 $47.99의 요금을 시사하는 가격 문자열이 들어 있는 것으로 전해졌다."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/01/galaxy-s25-ultra-galaxy-ai.jpg?resize=3000%2C2000&ssl=1",
+                "cap": "Andy Boxall / Digital Trends"
               },
               {
                 "t": "p",
-                "x": "Soundcore Work의 장점은 옷깃에 달고 자연스럽게, 속삭이듯 말해도 된다는 점이다. Soundcore Work는 원래 Anker의 전용 앱으로 전사와 요약을 제공하는 AI-powered 회의 녹음기로 나왔다. 동전만 한 크기에 듀얼 마이크를 갖췄고, 옷에 클립으로 달거나 목에 걸 수 있다."
+                "x": "Photo Assist, Browsing Assist, Now Brief, Creative Studio, Samsung Keyboard 같은 기존 도구는 구독 없이도 계속 쓸 수 있지만 사용량이 제한될 수 있다. 무료 사용량을 다 쓰면 AI 크레딧을 추가로 사거나, 사용 한도가 네 배인 것으로 알려진 Max 구독으로 올려야 할 수 있다. 유료 이용자는 사진을 AI-generated 영상으로 바꾸는 Gen Video와 앱을 넘나들며 작업을 자동화하는 Bixby Action도 쓸 수 있게 될 전망이다."
               },
               {
                 "t": "p",
-                "x": "대화를 녹음한 뒤 전사본을 훑어보는 대신, 쓰고 싶은 내용을 앱에 바로 받아쓰게 할 수 있다. Typeless는 말을 읽기 쉬운 글로 바꾸고, 웨어러블은 소리를 담는 역할을 맡는다."
-              },
-              {
-                "t": "p",
-                "x": "이 통합 기능은 Windows, macOS, iOS, Android에서 작동한다. 기존 Soundcore Work 사용자는 Typeless와 연결하기 전에 Soundcore 앱에서 마이크 펌웨어를 업데이트해야 한다. 데스크톱 사용자는 웨어러블을 두 번 탭해 받아쓰기를 시작하거나 멈출 수도 있다. Anker는 배터리가 최대 여덟 시간, 충전 케이스를 쓰면 32시간까지 간다고 밝혔다. Soundcore Work는 이미 $159에 판매되고 있다."
+                "x": "유출된 앱에는 20271이라는 AI 버전 요구 사항도 나오는데, SammyGuru는 이것이 곧 나올 Galaxy S27 시리즈를 가리킬 수 있다고 본다. Samsung은 Galaxy AI Premium을 공식 발표하지 않았으며, 유출된 가격과 기능은 출시 전에 바뀔 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AnkerのAI録音機に\nTypeless音声入力",
-          "body": "TypelessがAI音声入力アプリをAnkerのSoundcore Workに提供する。",
-          "mini_headline": "Anker録音機が音声入力に対応",
+          "headline": "有料Galaxy AI\nPremiumを試験中",
+          "body": "Samsungが月額$4.99のGalaxy AI Premiumを試験中と報じられた。",
+          "mini_headline": "Galaxy AI Premiumは$4.99",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Anker-Soundcore-Work-Typeless.jpg",
-                "cap": "Typeless"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2024/08/samsung-galaxy-ai-phone-2.jpg?resize=1200%2C720&ssl=1",
+                "cap": "Galaxy AI Andy Boxall / Digital Trends"
               },
               {
                 "t": "p",
-                "x": "AI-poweredの音声入力・テキスト処理アプリTypelessは、Ankerとの正式な提携を発表し、AI音声入力アプリをウェアラブルマイクSoundcore Workに提供する。AnkerはCES 2026でこの製品を発表しており、発売からすでにかなりたつ。今回の統合により、ユーザーはウェアラブルを使ってメール、メッセージ、AIプロンプト、さらには長い文書まで口述入力できる。"
+                "x": "新たなリークによると、Samsungは専用機能、より高い利用上限、月額料金を備えたプレミアムなGalaxy AIサブスクリプションを開発している。SammyGuruの報道では、未公開のSamsungアプリで見つかった記述が、上位のMaxプランを含むGalaxy AI Premiumサブスクリプションを示しているという。アプリには月額$4.99、年額$47.99を示唆する価格の文字列が含まれているとされる。"
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/01/galaxy-s25-ultra-galaxy-ai.jpg?resize=3000%2C2000&ssl=1",
+                "cap": "Andy Boxall / Digital Trends"
               },
               {
                 "t": "p",
-                "x": "Soundcore Workの売りは、襟に付けて自然に、ささやき声でも話せることだ。Soundcore Workはもともと、Ankerの専用アプリで文字起こしと要約を提供するAI-poweredの会議レコーダーとして登場した。コインほどの大きさでデュアルマイクを備え、服にクリップで留めたり首から下げたりできる。"
+                "x": "Photo Assist、Browsing Assist、Now Brief、Creative Studio、Samsung Keyboardといった既存ツールはサブスクリプションなしでも使えるが、利用量が制限される可能性がある。無料枠を使い切ると、追加のAIクレジットを購入するか、利用枠が四倍とされるMaxサブスクリプションへのアップグレードが必要になるかもしれない。有料ユーザーは、写真をAI-generatedの動画に変えるGen Videoや、アプリをまたいでタスクを自動化するBixby Actionも利用できるようになる可能性がある。"
               },
               {
                 "t": "p",
-                "x": "会話を録音して後から文字起こしを見直す代わりに、書きたい内容をアプリに直接口述できる。Typelessが話し言葉を読みやすい文章に変え、ウェアラブルが音声の取り込みを担う。"
-              },
-              {
-                "t": "p",
-                "x": "この統合はWindows、macOS、iOS、Androidで動作する。既存のSoundcore Workユーザーは、Typelessとペアリングする前にSoundcoreアプリでマイクのファームウェアを更新する必要がある。デスクトップではウェアラブルをダブルタップして口述入力を開始・停止することもできる。Ankerによるとバッテリーは最大八時間、充電ケース併用で32時間まで延びる。Soundcore Workはすでに$159で販売されている。"
+                "x": "流出したアプリには20271というAIバージョン要件も記されており、SammyGuruはこれが今後のGalaxy S27シリーズを指す可能性があるとみている。SamsungはGalaxy AI Premiumを正式に発表しておらず、流出した価格や機能は発売前に変わる可能性がある。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Anker小型AI录音器\n接入Typeless语音输入",
-          "body": "Typeless将AI语音听写应用带到Anker的Soundcore Work上。",
-          "mini_headline": "Anker录音器新增听写",
+          "headline": "付费版Galaxy AI\nPremium测试中",
+          "body": "据报道，Samsung正在测试每月$4.99的Galaxy AI Premium方案。",
+          "mini_headline": "Galaxy AI Premium定价$4.99",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Anker-Soundcore-Work-Typeless.jpg",
-                "cap": "Typeless"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2024/08/samsung-galaxy-ai-phone-2.jpg?resize=1200%2C720&ssl=1",
+                "cap": "Galaxy AI Andy Boxall / Digital Trends"
               },
               {
                 "t": "p",
-                "x": "AI-powered语音听写与文本处理应用Typeless宣布与Anker达成正式合作，将其AI语音听写应用带到可穿戴麦克风Soundcore Work上。Anker在CES 2026上推出了这款产品，它已经开售了相当长一段时间。最新的集成让用户可以借助这款可穿戴设备听写邮件、消息、AI提示词，甚至长篇文档。"
+                "x": "一则新的爆料显示，Samsung正在开发一项高级Galaxy AI订阅服务，包含独家功能、更高的使用上限并按月收费。据SammyGuru报道，在一款未发布的Samsung应用中发现的线索指向Galaxy AI Premium订阅，以及更高端的Max方案。据称，该应用包含的价格字符串显示月费为$4.99，年费为$47.99。"
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/01/galaxy-s25-ultra-galaxy-ai.jpg?resize=3000%2C2000&ssl=1",
+                "cap": "Andy Boxall / Digital Trends"
               },
               {
                 "t": "p",
-                "x": "Soundcore Work的卖点在于可以别在衣领上自然说话，即使轻声细语也行。Soundcore Work最初是作为AI-powered会议录音器推出的，通过Anker的配套应用提供转写和摘要。这款硬币大小的设备配有双麦克风，可以夹在衣服上或挂在脖子上。"
+                "x": "Photo Assist、Browsing Assist、Now Brief、Creative Studio和Samsung Keyboard等现有工具无需订阅仍可使用，但用量可能受限。用户用完免费额度后，可能需要购买额外的AI点数，或升级到据称提供四倍用量的Max订阅。付费用户还可能解锁Gen Video和Bixby Action，前者可将照片转换为AI-generated视频，后者可跨应用自动执行任务。"
               },
               {
                 "t": "p",
-                "x": "用户不必先录下对话再翻看转写稿，而是可以把想写的内容直接口述到应用中。Typeless负责把口语转成通顺的文字，可穿戴设备则负责采集声音。"
-              },
-              {
-                "t": "p",
-                "x": "这项集成支持Windows、macOS、iOS和Android。现有Soundcore Work用户需要先通过Soundcore应用更新麦克风固件，再与Typeless配对。桌面用户还可以双击这款可穿戴设备来开始或停止听写。Anker称其续航最长八小时，配合充电盒可延长至32小时。Soundcore Work现已上市，售价$159。"
+                "x": "泄露的应用还提到了一个标为20271的AI版本要求，SammyGuru认为这可能指向即将推出的Galaxy S27系列。Samsung尚未正式发布Galaxy AI Premium，泄露的价格和功能在发布前可能发生变化。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La grabadora AI de Anker suma\nel dictado por voz de Typeless",
-          "body": "Typeless lleva su app de dictado por voz con AI al Soundcore Work de Anker, el micrófono que se presentó en CES 2026.",
-          "mini_headline": "La grabadora de Anker suma dictado",
+          "headline": "Samsung prueba un nivel de pago\nGalaxy AI Premium",
+          "body": "Samsung estaría probando un plan Galaxy AI Premium de $4.99 al mes que podría limitar las funciones gratuitas.",
+          "mini_headline": "Galaxy AI Premium por $4.99",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Anker-Soundcore-Work-Typeless.jpg",
-                "cap": "Typeless"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2024/08/samsung-galaxy-ai-phone-2.jpg?resize=1200%2C720&ssl=1",
+                "cap": "Galaxy AI Andy Boxall / Digital Trends"
               },
               {
                 "t": "p",
-                "x": "Typeless, la app AI-powered de dictado por voz y procesamiento de texto, acaba de anunciar una alianza oficial con Anker para llevar su app de dictado por voz con AI al micrófono portátil Soundcore Work. Anker lo presentó en CES 2026 y lleva bastante tiempo a la venta. La nueva integración permite dictar correos, mensajes, prompts de AI e incluso documentos extensos con el dispositivo."
+                "x": "Una nueva filtración indica que Samsung está desarrollando una suscripción premium de Galaxy AI, con funciones exclusivas, límites de uso más altos y una cuota mensual. Según un informe de SammyGuru, referencias halladas en una app de Samsung aún no publicada apuntan a una suscripción Galaxy AI Premium con un plan Max de gama superior. Al parecer, la app contiene cadenas de precios que sugieren una cuota de $4.99 al mes, o $47.99 al año."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/01/galaxy-s25-ultra-galaxy-ai.jpg?resize=3000%2C2000&ssl=1",
+                "cap": "Andy Boxall / Digital Trends"
               },
               {
                 "t": "p",
-                "x": "El argumento a favor de Soundcore Work es que se puede llevar en el cuello de la camisa y hablar con naturalidad, incluso en susurros. Soundcore Work se presentó originalmente como una grabadora de reuniones AI-powered, con transcripciones y resúmenes a través de la app complementaria de Anker. El dispositivo, del tamaño de una moneda, tiene micrófonos duales y puede sujetarse a la ropa o llevarse colgado del cuello."
+                "x": "Herramientas existentes como Photo Assist, Browsing Assist, Now Brief, Creative Studio y Samsung Keyboard seguirían disponibles sin suscripción, pero su uso podría estar limitado. Cuando los usuarios agoten su cuota gratuita, quizá tengan que comprar créditos de AI adicionales o pasar a la suscripción Max, que según se informa ofrece cuatro veces más uso. Los clientes de pago también podrían desbloquear Gen Video, que convierte fotos en videos AI-generated, y Bixby Action, una herramienta para automatizar tareas entre apps."
               },
               {
                 "t": "p",
-                "x": "En lugar de grabar una conversación y revisar la transcripción después, los usuarios pueden dictar directamente en la app lo que quieren escribir. Typeless se encarga de convertir las palabras habladas en texto legible, mientras el dispositivo portátil capta el audio."
-              },
-              {
-                "t": "p",
-                "x": "La integración funciona en Windows, macOS, iOS y Android. Quienes ya tengan un Soundcore Work deberán actualizar el firmware del micrófono desde la app Soundcore antes de emparejarlo con Typeless. En el escritorio, también se puede iniciar o detener el dictado con un doble toque en el dispositivo. Anker asegura hasta ocho horas de batería, que se amplían a 32 horas con el estuche de carga. Soundcore Work ya está disponible por $159."
+                "x": "La app filtrada también menciona un requisito de versión de AI etiquetado como 20271, que según SammyGuru podría apuntar a la próxima serie Galaxy S27. Samsung no ha anunciado oficialmente Galaxy AI Premium, y los precios y funciones filtrados podrían cambiar antes del lanzamiento."
               }
             ]
           }
@@ -1501,213 +1109,213 @@
       }
     },
     {
-      "id": "homeview-siri-fix-update",
+      "id": "gadgets-meta-muse-wearos",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "HomeView Siri\nApple이 12월 손본다",
-      "body": "Apple은 12월 업데이트로 HomeView Siri AI 오류를 고친다.",
-      "mini_headline": "HomeView Siri 12월 수정",
+      "headline": "Meta의 Muse AI\nWear OS에 상륙",
+      "body": "Meta Muse AI가 Charm보다 앞서 Android Wear OS에 왔다.",
+      "mini_headline": "Muse, Wear OS 상륙",
       "tool": "Gadgets",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/11/12/apple-plans-homeview-update-with-siri-fix/",
-      "accent": "#eb367f",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/meta-muse-ai-wear-os-3733785/",
+      "accent": "#7928ca",
       "motif": "headset",
       "full": {
         "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://images.macrumors.com/t/PcvtzDz-CC6xLnTkUzpoizZN5MQ=/2000x/article-new/2026/10/homeview-wall-mount.jpg"
+            "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/meta-muse-ai-voice-conversations-hero-image.jpg"
           },
           {
             "t": "p",
-            "x": "테크 저널리스트 Joanna Stern이 오늘 New Things 뉴스레터 무료판에 HomeView 리뷰를 실었다. 기기에 카메라가 달려 있는데도 Siri AI가 \"당신을 볼 카메라가 없어요\"라고 답한 일이 있었다고 한다. Apple은 이를 고친 소프트웨어 업데이트를 12월에 낼 계획이라고 Stern에게 확인했다."
+            "x": "Meta의 Muse AI 에이전트는 귀엽고 매력적인 비주얼과 무료 이용자에게도 넉넉한 혜택 덕에 꾸준히 관심을 끌고 있다. Meta는 지난주 Muse에 음성 모드를 넣어 Gemini Live처럼 AI 에이전트와 말로 대화할 수 있게 했다. 이번에는 스마트워치 이용자에게도 계속 머물 이유를 하나 더 내놓았다."
           },
           {
             "t": "p",
-            "x": "HomeView가 Stern을 알아본 상태에서도 Siri AI는 차고 문 열기와 현관문 잠금 해제를 거부했다. Apple은 다음 달 소프트웨어 업데이트부터 이 기능을 쓸 수 있다고 그에게 밝혔다. 그때까지는 HomeView에서 Home 앱을 열고 화면의 컨트롤을 눌러 도어록과 차고 문을 열면 된다."
+            "x": "X의 공식 Muse 계정은 오늘 앞서 마스코트가 스마트워치를 찬 재치 있는 이미지를 올렸는데, 그 시계에서도 Muse가 돌아가고 있다. 함께 올린 문구에서도 Muse가 이제 손목에서 바로 “쉬지 않고 일할 수 있다”고 밝혀 Wear OS와 Apple Watch에서 앱을 쓸 수 있다는 점을 뒷받침한다."
           },
           {
-            "t": "video",
-            "yt": "yVTcVtLn2o4"
-          },
-          {
-            "t": "p",
-            "x": "\"현재 HomeView가 인식한 사용자는 도어록과 차고 문을 포함한 보안 액세서리를 HomeView 화면에서 바로 잠금 해제할 수 있습니다\"라고 Apple 대변인은 Stern에게 말했다. \"다음 달 소프트웨어 업데이트로 이 기능이 Siri AI까지 확장돼, 인식된 사용자가 보안 액세서리를 관리할 방법이 더 늘어납니다.\""
+            "t": "img",
+            "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Screenshot-2026-11-11-at-3.59.50-PM.png"
           },
           {
             "t": "p",
-            "x": "HomeView는 이번 주 금요일 나오고, 미국(U.S.) 가격은 $299부터다. 우리도 직접 써 본 소감을 핸즈온 리뷰 영상으로 공개했다."
+            "x": "이미지상으로는 텍스트, 받아쓰기, 음성 대화 세 가지 입력 방식이 지원된다. Gadgets and Wearables에 따르면 Apple Watch 이용자는 빠르게 실행할 수 있는 전용 워치페이스 컴플리케이션도 받는다. Wear OS도 마찬가지인지는 확인하지 못했다."
+          },
+          {
+            "t": "p",
+            "x": "물론 에이전트가 Wear OS 스마트워치에서 직접 돌아가지는 않는다. 스마트워치는 휴대폰에서 실행되는 작업을 제어하는 허브 역할만 한다. 이용자는 작업을 승인하거나 이미 진행 중인 작업의 현황을 볼 수 있을 것이다. Meta가 곧 내놓을 웨어러블 Muse Charm에 마스코트가 나타나는 방식과 비슷하다. 스마트워치에서 바로 결제할 수 있는지는 Meta가 밝히지 않았다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Apple plans December fix\nfor HomeView's Siri flaws",
-          "body": "Apple told Joanna Stern a December HomeView update will fix Siri AI claiming it had no camera to see her.",
-          "mini_headline": "HomeView Siri fix due December",
+          "headline": "Meta's Muse AI agent\narrives on Wear OS",
+          "body": "Meta's Muse AI agent now runs on Wear OS watches, reaching Android wrists before Meta's own Charm wearable.",
+          "mini_headline": "Muse lands on Wear OS",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.macrumors.com/t/PcvtzDz-CC6xLnTkUzpoizZN5MQ=/2000x/article-new/2026/10/homeview-wall-mount.jpg"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/meta-muse-ai-voice-conversations-hero-image.jpg"
               },
               {
                 "t": "p",
-                "x": "In her HomeView review shared in a free edition of her New Things newsletter today, tech journalist Joanna Stern said Siri AI once told her \"I don't have a camera to see you,\" even though the device has a camera. Apple confirmed to Stern that it plans to release a software update in December with a fix for this issue."
+                "x": "Meta's Muse AI agent is steadily gaining traction for its cute, attractive visuals and a broader set of benefits for free users. Last week, Meta added a voice mode to Muse, letting you interact with the AI agent in a fashion similar to Gemini Live. And now, Meta is offering another reason for smartwatch users to stick."
               },
               {
                 "t": "p",
-                "x": "Siri AI also refused to open Stern's garage door or unlock her front door, even though the HomeView recognized her. Apple told her that the software update coming next month will enable this functionality. In the meantime, you can unlock door locks and garage doors by opening the Home app on the HomeView and tapping on-screen controls."
+                "x": "Earlier today, the official Muse account on X posted a cheeky image of its mascot wearing smartwatches, which can also be seen running Muse. The caption accompanying the media also confirms that Muse can now “work around the clock” directly from your wrist, further confirming the app's availability on Wear OS and Apple Watch."
               },
               {
-                "t": "video",
-                "yt": "yVTcVtLn2o4"
-              },
-              {
-                "t": "p",
-                "x": "\"Today users recognized by HomeView can unlock security accessories, including door locks and garage doors, directly on their HomeView screen,\" an Apple spokesperson told Stern. \"With a software update next month, this will extend to Siri AI, giving users more ways to manage security accessories once they've been recognized.\""
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Screenshot-2026-11-11-at-3.59.50-PM.png"
               },
               {
                 "t": "p",
-                "x": "HomeView launches this Friday, with U.S. pricing starting at $299. We also shared our own hands-on review video with our own impressions."
+                "x": "From the image, we can see that users have three input modes: text, dictation, and voice chat. Gadgets and Wearables notes that Apple Watch users also get a custom watch face complication to access it quickly, but we couldn't confirm the same for Wear OS."
+              },
+              {
+                "t": "p",
+                "x": "Of course, the agent does not run natively on your Wear OS smartwatch. Instead, the smartwatch simply acts like a control hub for tasks run on your phone. Users should be able to approve tasks or view an update on one that's already running. This is similar to how the mascot appears on Meta's upcoming wearable: the Muse Charm. Meta hasn't clarified whether users will be able to make payments directly through the smartwatch."
               }
             ]
           }
         },
         "ko": {
-          "headline": "HomeView Siri\nApple이 12월 손본다",
-          "body": "Apple은 12월 업데이트로 HomeView Siri AI 오류를 고친다.",
-          "mini_headline": "HomeView Siri 12월 수정",
+          "headline": "Meta의 Muse AI\nWear OS에 상륙",
+          "body": "Meta Muse AI가 Charm보다 앞서 Android Wear OS에 왔다.",
+          "mini_headline": "Muse, Wear OS 상륙",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.macrumors.com/t/PcvtzDz-CC6xLnTkUzpoizZN5MQ=/2000x/article-new/2026/10/homeview-wall-mount.jpg"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/meta-muse-ai-voice-conversations-hero-image.jpg"
               },
               {
                 "t": "p",
-                "x": "테크 저널리스트 Joanna Stern이 오늘 New Things 뉴스레터 무료판에 HomeView 리뷰를 실었다. 기기에 카메라가 달려 있는데도 Siri AI가 \"당신을 볼 카메라가 없어요\"라고 답한 일이 있었다고 한다. Apple은 이를 고친 소프트웨어 업데이트를 12월에 낼 계획이라고 Stern에게 확인했다."
+                "x": "Meta의 Muse AI 에이전트는 귀엽고 매력적인 비주얼과 무료 이용자에게도 넉넉한 혜택 덕에 꾸준히 관심을 끌고 있다. Meta는 지난주 Muse에 음성 모드를 넣어 Gemini Live처럼 AI 에이전트와 말로 대화할 수 있게 했다. 이번에는 스마트워치 이용자에게도 계속 머물 이유를 하나 더 내놓았다."
               },
               {
                 "t": "p",
-                "x": "HomeView가 Stern을 알아본 상태에서도 Siri AI는 차고 문 열기와 현관문 잠금 해제를 거부했다. Apple은 다음 달 소프트웨어 업데이트부터 이 기능을 쓸 수 있다고 그에게 밝혔다. 그때까지는 HomeView에서 Home 앱을 열고 화면의 컨트롤을 눌러 도어록과 차고 문을 열면 된다."
+                "x": "X의 공식 Muse 계정은 오늘 앞서 마스코트가 스마트워치를 찬 재치 있는 이미지를 올렸는데, 그 시계에서도 Muse가 돌아가고 있다. 함께 올린 문구에서도 Muse가 이제 손목에서 바로 “쉬지 않고 일할 수 있다”고 밝혀 Wear OS와 Apple Watch에서 앱을 쓸 수 있다는 점을 뒷받침한다."
               },
               {
-                "t": "video",
-                "yt": "yVTcVtLn2o4"
-              },
-              {
-                "t": "p",
-                "x": "\"현재 HomeView가 인식한 사용자는 도어록과 차고 문을 포함한 보안 액세서리를 HomeView 화면에서 바로 잠금 해제할 수 있습니다\"라고 Apple 대변인은 Stern에게 말했다. \"다음 달 소프트웨어 업데이트로 이 기능이 Siri AI까지 확장돼, 인식된 사용자가 보안 액세서리를 관리할 방법이 더 늘어납니다.\""
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Screenshot-2026-11-11-at-3.59.50-PM.png"
               },
               {
                 "t": "p",
-                "x": "HomeView는 이번 주 금요일 나오고, 미국(U.S.) 가격은 $299부터다. 우리도 직접 써 본 소감을 핸즈온 리뷰 영상으로 공개했다."
+                "x": "이미지상으로는 텍스트, 받아쓰기, 음성 대화 세 가지 입력 방식이 지원된다. Gadgets and Wearables에 따르면 Apple Watch 이용자는 빠르게 실행할 수 있는 전용 워치페이스 컴플리케이션도 받는다. Wear OS도 마찬가지인지는 확인하지 못했다."
+              },
+              {
+                "t": "p",
+                "x": "물론 에이전트가 Wear OS 스마트워치에서 직접 돌아가지는 않는다. 스마트워치는 휴대폰에서 실행되는 작업을 제어하는 허브 역할만 한다. 이용자는 작업을 승인하거나 이미 진행 중인 작업의 현황을 볼 수 있을 것이다. Meta가 곧 내놓을 웨어러블 Muse Charm에 마스코트가 나타나는 방식과 비슷하다. 스마트워치에서 바로 결제할 수 있는지는 Meta가 밝히지 않았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "HomeViewのSiri\nAppleが12月に修正",
-          "body": "Appleは12月のHomeView更新でSiri AIのカメラ誤答を直すとした。",
-          "mini_headline": "HomeViewのSiri、12月に修正",
+          "headline": "MetaのMuse AIが\nWear OSに登場",
+          "body": "MetaのMuse AIが自社Charmより先にAndroidのWear OS時計で動く。",
+          "mini_headline": "MuseがWear OSに登場",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.macrumors.com/t/PcvtzDz-CC6xLnTkUzpoizZN5MQ=/2000x/article-new/2026/10/homeview-wall-mount.jpg"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/meta-muse-ai-voice-conversations-hero-image.jpg"
               },
               {
                 "t": "p",
-                "x": "テックジャーナリストのJoanna Sternは、本日配信したニュースレターNew Thingsの無料版に掲載したHomeViewレビューで、デバイスにカメラがあるにもかかわらず、Siri AIに「あなたを見るカメラがありません」と言われたことがあると述べた。Appleは、この問題を修正するソフトウェアアップデートを12月に配信する予定だとSternに認めた。"
+                "x": "MetaのMuse AIエージェントは、かわいらしく魅力的なビジュアルと、無料ユーザー向けの幅広い特典によって着実に支持を広げている。先週、MetaはMuseに音声モードを追加し、Gemini Liveに近い形でAIエージェントと対話できるようにした。そして今回、Metaはスマートウォッチのユーザーにも使い続ける理由をもう一つ用意した。"
               },
               {
                 "t": "p",
-                "x": "HomeViewがSternを認識していたにもかかわらず、Siri AIはガレージのドアを開けることも玄関の鍵を開けることも拒んだ。Appleは来月のソフトウェアアップデートでこの機能が使えるようになると彼女に伝えた。それまでは、HomeViewでHomeアプリを開き、画面上のコントロールをタップすればドアロックやガレージドアを解錠できる。"
+                "x": "本日早く、X上のMuse公式アカウントは、マスコットがスマートウォッチを着けた遊び心のある画像を投稿した。ウォッチ上ではMuseが動いている様子も見える。添えられたキャプションでも、Museが手首から直接「休みなく働ける」ようになったと明言しており、Wear OSとApple Watchでアプリが使えることを裏付けている。"
               },
               {
-                "t": "video",
-                "yt": "yVTcVtLn2o4"
-              },
-              {
-                "t": "p",
-                "x": "「現在、HomeViewに認識されたユーザーは、ドアロックやガレージドアを含むセキュリティアクセサリーをHomeViewの画面から直接解錠できます」とAppleの広報担当者はSternに語った。「来月のソフトウェアアップデートで、これがSiri AIにも広がり、認識されたユーザーがセキュリティアクセサリーを管理する方法が増えます」"
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Screenshot-2026-11-11-at-3.59.50-PM.png"
               },
               {
                 "t": "p",
-                "x": "HomeViewは今週金曜日に発売され、米国（U.S.）での価格は$299からだ。私たちも実機に触れた感想をまとめたハンズオンレビュー動画を公開している。"
+                "x": "画像からは、テキスト、音声入力、ボイスチャットの三つの入力モードがあることがわかる。Gadgets and Wearablesによると、Apple Watchのユーザーは素早く呼び出せる専用の文字盤コンプリケーションも利用できるが、Wear OSで同じかどうかは確認できなかった。"
+              },
+              {
+                "t": "p",
+                "x": "もちろん、エージェントがWear OSスマートウォッチ上でネイティブに動くわけではない。スマートウォッチは、スマートフォンで実行されるタスクのコントロールハブとして機能するだけだ。ユーザーはタスクを承認したり、実行中のタスクの最新状況を確認したりできるはずだ。これは、Metaが今後投入するウェアラブル、Muse Charmにマスコットが表示される仕組みと似ている。Metaは、スマートウォッチから直接支払いができるかどうかを明らかにしていない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "HomeView Siri\nApple计划12月修复",
-          "body": "Apple称12月HomeView更新将修复Siri AI误称无摄像头的问题。",
-          "mini_headline": "HomeView Siri 12月修复",
+          "headline": "Meta的Muse AI\n登陆Wear OS",
+          "body": "Meta的Muse AI智能体先于自家Charm登陆Android的Wear OS手表。",
+          "mini_headline": "Muse登陆Wear OS",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.macrumors.com/t/PcvtzDz-CC6xLnTkUzpoizZN5MQ=/2000x/article-new/2026/10/homeview-wall-mount.jpg"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/meta-muse-ai-voice-conversations-hero-image.jpg"
               },
               {
                 "t": "p",
-                "x": "科技记者Joanna Stern今天在其New Things通讯的免费版中发布了HomeView评测。她说，尽管设备带有摄像头，Siri AI却曾对她说“我没有可以看到你的摄像头”。Apple向Stern证实，计划在12月发布软件更新修复这一问题。"
+                "x": "Meta的Muse AI智能体凭借可爱迷人的视觉形象，以及面向免费用户的更多福利，正稳步积累人气。上周，Meta为Muse加入了语音模式，让用户能以类似Gemini Live的方式与这款AI智能体互动。如今，Meta又为智能手表用户提供了一个继续使用的理由。"
               },
               {
                 "t": "p",
-                "x": "尽管HomeView已经识别出Stern，Siri AI仍拒绝为她打开车库门或解锁前门。Apple告诉她，下个月推出的软件更新将启用这项功能。在此之前，用户可以在HomeView上打开Home应用，点按屏幕上的控件来解锁门锁和车库门。"
+                "x": "今天早些时候，Muse在X上的官方账号发布了一张俏皮的图片：吉祥物戴着智能手表，表上也运行着Muse。配图文字还确认，Muse现在可以直接在手腕上“全天候工作”，进一步证实该应用已登陆Wear OS和Apple Watch。"
               },
               {
-                "t": "video",
-                "yt": "yVTcVtLn2o4"
-              },
-              {
-                "t": "p",
-                "x": "“如今，被HomeView识别的用户可以直接在HomeView屏幕上解锁门锁和车库门等安全配件，”Apple发言人对Stern表示，“下个月的软件更新将把这一功能扩展到Siri AI，让用户在被识别后有更多方式管理安全配件。”"
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Screenshot-2026-11-11-at-3.59.50-PM.png"
               },
               {
                 "t": "p",
-                "x": "HomeView将于本周五发售，美国（U.S.）起售价为$299。我们也发布了自己的上手评测视频，分享了我们的印象。"
+                "x": "从图片可以看到，用户有三种输入方式：文字、听写和语音聊天。Gadgets and Wearables指出，Apple Watch用户还能获得一个可快速启动的自定义表盘复杂功能，但我们无法确认Wear OS是否同样如此。"
+              },
+              {
+                "t": "p",
+                "x": "当然，该智能体并不是在Wear OS智能手表上原生运行。智能手表只是充当手机上所运行任务的控制中心。用户应能批准任务，或查看正在运行任务的最新进展。这与吉祥物在Meta即将推出的可穿戴设备Muse Charm上的呈现方式类似。Meta尚未说明用户能否直接通过智能手表付款。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Apple corregirá en diciembre\nlos fallos de Siri en HomeView",
-          "body": "Apple dijo a Joanna Stern que una actualización de HomeView en diciembre corregirá el error de cámara de Siri AI.",
-          "mini_headline": "HomeView: arreglo de Siri en diciembre",
+          "headline": "El agente Muse AI de Meta\nllega a Wear OS",
+          "body": "El agente Muse AI de Meta ya funciona en relojes Wear OS y llega a muñecas Android antes que el Charm de Meta.",
+          "mini_headline": "Muse llega a Wear OS",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.macrumors.com/t/PcvtzDz-CC6xLnTkUzpoizZN5MQ=/2000x/article-new/2026/10/homeview-wall-mount.jpg"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/meta-muse-ai-voice-conversations-hero-image.jpg"
               },
               {
                 "t": "p",
-                "x": "En su reseña de HomeView, publicada hoy en una edición gratuita de su boletín New Things, la periodista tecnológica Joanna Stern contó que Siri AI le dijo una vez \"No tengo una cámara para verte\", aunque el dispositivo tiene cámara. Apple confirmó a Stern que planea lanzar en diciembre una actualización de software que corrija este problema."
+                "x": "El agente Muse AI de Meta gana terreno de forma constante gracias a su aspecto simpático y atractivo y a un conjunto más amplio de ventajas para los usuarios gratuitos. La semana pasada, Meta añadió un modo de voz a Muse que permite interactuar con el agente de AI de forma similar a Gemini Live. Y ahora, Meta ofrece a los usuarios de relojes inteligentes otro motivo para quedarse."
               },
               {
                 "t": "p",
-                "x": "Siri AI también se negó a abrir la puerta del garaje de Stern o a desbloquear su puerta principal, pese a que HomeView la había reconocido. Apple le dijo que la actualización de software del próximo mes habilitará esta función. Mientras tanto, se pueden desbloquear cerraduras y puertas de garaje abriendo la app Home en HomeView y tocando los controles en pantalla."
+                "x": "Hoy, más temprano, la cuenta oficial de Muse en X publicó una imagen desenfadada de su mascota con relojes inteligentes, en los que también se ve Muse en funcionamiento. El texto que acompaña la imagen confirma además que Muse ya puede “trabajar sin descanso” directamente desde la muñeca, lo que confirma la disponibilidad de la app en Wear OS y Apple Watch."
               },
               {
-                "t": "video",
-                "yt": "yVTcVtLn2o4"
-              },
-              {
-                "t": "p",
-                "x": "\"Hoy, los usuarios reconocidos por HomeView pueden desbloquear accesorios de seguridad, como cerraduras y puertas de garaje, directamente en la pantalla de HomeView\", dijo un portavoz de Apple a Stern. \"Con una actualización de software el próximo mes, esto se extenderá a Siri AI, lo que dará a los usuarios más formas de gestionar los accesorios de seguridad una vez que hayan sido reconocidos\"."
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Screenshot-2026-11-11-at-3.59.50-PM.png"
               },
               {
                 "t": "p",
-                "x": "HomeView sale a la venta este viernes, con un precio en Estados Unidos (U.S.) desde $299. También publicamos nuestro propio video de prueba con nuestras impresiones."
+                "x": "En la imagen se ve que los usuarios tienen tres modos de entrada: texto, dictado y chat de voz. Gadgets and Wearables señala que los usuarios de Apple Watch también obtienen una complicación de esfera personalizada para acceder rápidamente, aunque no pudimos confirmar lo mismo en Wear OS."
+              },
+              {
+                "t": "p",
+                "x": "Por supuesto, el agente no se ejecuta de forma nativa en el reloj Wear OS. El reloj actúa simplemente como un centro de control para tareas que se ejecutan en el teléfono. Los usuarios deberían poder aprobar tareas o ver novedades de una que ya está en curso. Es algo similar a cómo aparece la mascota en el próximo wearable de Meta, el Muse Charm. Meta no ha aclarado si los usuarios podrán hacer pagos directamente desde el reloj."
               }
             ]
           }
@@ -1715,137 +1323,369 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "HomeView Siri\nApple이 12월 손본다",
-          "body": "Apple은 12월 업데이트로 HomeView Siri AI 오류를 고친다.",
-          "mini_headline": "HomeView Siri 12월 수정",
+          "headline": "Meta의 Muse AI\nWear OS에 상륙",
+          "body": "Meta Muse AI가 Charm보다 먼저 Android Wear OS에 왔다.",
+          "mini_headline": "Muse, Wear OS 상륙",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.macrumors.com/t/PcvtzDz-CC6xLnTkUzpoizZN5MQ=/2000x/article-new/2026/10/homeview-wall-mount.jpg"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/meta-muse-ai-voice-conversations-hero-image.jpg"
               },
               {
                 "t": "p",
-                "x": "테크 저널리스트 Joanna Stern은 오늘 New Things 뉴스레터 무료판에 실은 HomeView 리뷰에서, 기기에 카메라가 있는데도 Siri AI가 \"당신을 볼 카메라가 없어요\"라고 답한 적이 있다고 전했다. Apple은 이 문제를 고친 소프트웨어 업데이트를 12월에 내놓을 계획이라고 Stern에게 확인했다."
+                "x": "Meta의 Muse AI 에이전트는 귀엽고 매력적인 비주얼과 무료 이용자에게 주는 폭넓은 혜택으로 꾸준히 관심을 모으고 있다. 지난주 Meta는 Muse에 음성 모드를 추가해 Gemini Live와 비슷한 방식으로 AI 에이전트와 대화할 수 있게 했다. 이제 Meta는 스마트워치 이용자에게도 계속 머물 이유를 하나 더 내놓았다."
               },
               {
                 "t": "p",
-                "x": "HomeView가 Stern을 알아봤는데도 Siri AI는 차고 문을 열거나 현관문 잠금을 푸는 것도 거부했다. Apple은 다음 달 나올 소프트웨어 업데이트로 이 기능을 쓸 수 있게 된다고 그에게 밝혔다. 그 전까지는 HomeView에서 Home 앱을 열고 화면의 컨트롤을 눌러 도어록과 차고 문을 열 수 있다."
+                "x": "오늘 앞서 X의 공식 Muse 계정은 마스코트가 스마트워치를 찬 재치 있는 이미지를 올렸는데, 시계에서도 Muse가 실행되고 있다. 함께 올라온 문구도 Muse가 이제 손목에서 바로 “쉬지 않고 일할 수 있다”고 확인해, Wear OS와 Apple Watch에서 앱을 쓸 수 있음을 뒷받침한다."
               },
               {
-                "t": "video",
-                "yt": "yVTcVtLn2o4"
-              },
-              {
-                "t": "p",
-                "x": "\"현재 HomeView가 인식한 사용자는 도어록과 차고 문을 포함한 보안 액세서리를 HomeView 화면에서 바로 잠금 해제할 수 있습니다\"라고 Apple 대변인은 Stern에게 말했다. \"다음 달 소프트웨어 업데이트로 이 기능이 Siri AI까지 확장돼, 인식된 사용자가 보안 액세서리를 관리할 방법이 더 늘어납니다.\""
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Screenshot-2026-11-11-at-3.59.50-PM.png"
               },
               {
                 "t": "p",
-                "x": "HomeView는 이번 주 금요일 출시되며, 미국(U.S.) 가격은 $299부터다. 우리도 직접 써본 소감을 담은 핸즈온 리뷰 영상을 공개했다."
+                "x": "이미지를 보면 이용자는 텍스트, 받아쓰기, 음성 대화의 세 가지 입력 방식을 쓸 수 있다. Gadgets and Wearables에 따르면 Apple Watch 이용자는 빠르게 실행할 수 있는 전용 워치페이스 컴플리케이션도 받지만, Wear OS에서도 그런지는 확인하지 못했다."
+              },
+              {
+                "t": "p",
+                "x": "물론 에이전트가 Wear OS 스마트워치에서 직접 구동되는 것은 아니다. 스마트워치는 휴대폰에서 실행되는 작업의 제어 허브 역할만 한다. 이용자는 작업을 승인하거나 이미 진행 중인 작업의 현황을 볼 수 있을 것이다. 이는 Meta가 곧 내놓을 웨어러블 Muse Charm에 마스코트가 나타나는 방식과 비슷하다. Meta는 스마트워치에서 바로 결제할 수 있는지는 밝히지 않았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "HomeViewのSiri\nAppleが12月に修正",
-          "body": "Appleは12月のHomeView更新でSiri AIのカメラ誤答を直すとした。",
-          "mini_headline": "HomeViewのSiri、12月に修正",
+          "headline": "MetaのMuse AIが\nWear OSに登場",
+          "body": "MetaのMuse AIが自社Charmより先にAndroidのWear OS時計で動く。",
+          "mini_headline": "MuseがWear OSに登場",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.macrumors.com/t/PcvtzDz-CC6xLnTkUzpoizZN5MQ=/2000x/article-new/2026/10/homeview-wall-mount.jpg"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/meta-muse-ai-voice-conversations-hero-image.jpg"
               },
               {
                 "t": "p",
-                "x": "テックジャーナリストのJoanna Sternは、本日配信したニュースレターNew Thingsの無料版に掲載したHomeViewレビューで、デバイスにカメラがあるにもかかわらず、Siri AIに「あなたを見るカメラがありません」と言われたことがあると述べた。Appleは、この問題を修正するソフトウェアアップデートを12月に配信する予定だとSternに認めた。"
+                "x": "MetaのMuse AIエージェントは、かわいらしく魅力的なビジュアルと、無料ユーザー向けの幅広い特典によって着実に支持を広げている。先週、MetaはMuseに音声モードを追加し、Gemini Liveに近い形でAIエージェントと対話できるようにした。そして今回、Metaはスマートウォッチのユーザーにも使い続ける理由をもう一つ用意した。"
               },
               {
                 "t": "p",
-                "x": "HomeViewがSternを認識していたにもかかわらず、Siri AIはガレージのドアを開けることも玄関の鍵を開けることも拒んだ。Appleは来月のソフトウェアアップデートでこの機能が使えるようになると彼女に伝えた。それまでは、HomeViewでHomeアプリを開き、画面上のコントロールをタップすればドアロックやガレージドアを解錠できる。"
+                "x": "本日早く、X上のMuse公式アカウントは、マスコットがスマートウォッチを着けた遊び心のある画像を投稿した。ウォッチ上ではMuseが動いている様子も見える。添えられたキャプションでも、Museが手首から直接「休みなく働ける」ようになったと明言しており、Wear OSとApple Watchでアプリが使えることを裏付けている。"
               },
               {
-                "t": "video",
-                "yt": "yVTcVtLn2o4"
-              },
-              {
-                "t": "p",
-                "x": "「現在、HomeViewに認識されたユーザーは、ドアロックやガレージドアを含むセキュリティアクセサリーをHomeViewの画面から直接解錠できます」とAppleの広報担当者はSternに語った。「来月のソフトウェアアップデートで、これがSiri AIにも広がり、認識されたユーザーがセキュリティアクセサリーを管理する方法が増えます」"
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Screenshot-2026-11-11-at-3.59.50-PM.png"
               },
               {
                 "t": "p",
-                "x": "HomeViewは今週金曜日に発売され、米国（U.S.）での価格は$299からだ。私たちも実機に触れた感想をまとめたハンズオンレビュー動画を公開している。"
+                "x": "画像からは、テキスト、音声入力、ボイスチャットの三つの入力モードがあることがわかる。Gadgets and Wearablesによると、Apple Watchのユーザーは素早く呼び出せる専用の文字盤コンプリケーションも利用できるが、Wear OSで同じかどうかは確認できなかった。"
+              },
+              {
+                "t": "p",
+                "x": "もちろん、エージェントがWear OSスマートウォッチ上でネイティブに動くわけではない。スマートウォッチは、スマートフォンで実行されるタスクのコントロールハブとして機能するだけだ。ユーザーはタスクを承認したり、実行中のタスクの最新状況を確認したりできるはずだ。これは、Metaが今後投入するウェアラブル、Muse Charmにマスコットが表示される仕組みと似ている。Metaは、スマートウォッチから直接支払いができるかどうかを明らかにしていない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "HomeView Siri\nApple计划12月修复",
-          "body": "Apple称12月HomeView更新将修复Siri AI误称无摄像头的问题。",
-          "mini_headline": "HomeView Siri 12月修复",
+          "headline": "Meta的Muse AI\n登陆Wear OS",
+          "body": "Meta的Muse AI智能体先于自家Charm登陆Android的Wear OS手表。",
+          "mini_headline": "Muse登陆Wear OS",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.macrumors.com/t/PcvtzDz-CC6xLnTkUzpoizZN5MQ=/2000x/article-new/2026/10/homeview-wall-mount.jpg"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/meta-muse-ai-voice-conversations-hero-image.jpg"
               },
               {
                 "t": "p",
-                "x": "科技记者Joanna Stern今天在其New Things通讯的免费版中发布了HomeView评测。她说，尽管设备带有摄像头，Siri AI却曾对她说“我没有可以看到你的摄像头”。Apple向Stern证实，计划在12月发布软件更新修复这一问题。"
+                "x": "Meta的Muse AI智能体凭借可爱迷人的视觉形象，以及面向免费用户的更多福利，正稳步积累人气。上周，Meta为Muse加入了语音模式，让用户能以类似Gemini Live的方式与这款AI智能体互动。如今，Meta又为智能手表用户提供了一个继续使用的理由。"
               },
               {
                 "t": "p",
-                "x": "尽管HomeView已经识别出Stern，Siri AI仍拒绝为她打开车库门或解锁前门。Apple告诉她，下个月推出的软件更新将启用这项功能。在此之前，用户可以在HomeView上打开Home应用，点按屏幕上的控件来解锁门锁和车库门。"
+                "x": "今天早些时候，Muse在X上的官方账号发布了一张俏皮的图片：吉祥物戴着智能手表，表上也运行着Muse。配图文字还确认，Muse现在可以直接在手腕上“全天候工作”，进一步证实该应用已登陆Wear OS和Apple Watch。"
               },
               {
-                "t": "video",
-                "yt": "yVTcVtLn2o4"
-              },
-              {
-                "t": "p",
-                "x": "“如今，被HomeView识别的用户可以直接在HomeView屏幕上解锁门锁和车库门等安全配件，”Apple发言人对Stern表示，“下个月的软件更新将把这一功能扩展到Siri AI，让用户在被识别后有更多方式管理安全配件。”"
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Screenshot-2026-11-11-at-3.59.50-PM.png"
               },
               {
                 "t": "p",
-                "x": "HomeView将于本周五发售，美国（U.S.）起售价为$299。我们也发布了自己的上手评测视频，分享了我们的印象。"
+                "x": "从图片可以看到，用户有三种输入方式：文字、听写和语音聊天。Gadgets and Wearables指出，Apple Watch用户还能获得一个可快速启动的自定义表盘复杂功能，但我们无法确认Wear OS是否同样如此。"
+              },
+              {
+                "t": "p",
+                "x": "当然，该智能体并不是在Wear OS智能手表上原生运行。智能手表只是充当手机上所运行任务的控制中心。用户应能批准任务，或查看正在运行任务的最新进展。这与吉祥物在Meta即将推出的可穿戴设备Muse Charm上的呈现方式类似。Meta尚未说明用户能否直接通过智能手表付款。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Apple corregirá en diciembre\nlos fallos de Siri en HomeView",
-          "body": "Apple dijo a Joanna Stern que una actualización de HomeView en diciembre corregirá el error de cámara de Siri AI.",
-          "mini_headline": "HomeView: arreglo de Siri en diciembre",
+          "headline": "El agente Muse AI de Meta\nllega a Wear OS",
+          "body": "El agente Muse AI de Meta ya funciona en relojes Wear OS y llega a muñecas Android antes que el Charm de Meta.",
+          "mini_headline": "Muse llega a Wear OS",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.macrumors.com/t/PcvtzDz-CC6xLnTkUzpoizZN5MQ=/2000x/article-new/2026/10/homeview-wall-mount.jpg"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/meta-muse-ai-voice-conversations-hero-image.jpg"
               },
               {
                 "t": "p",
-                "x": "En su reseña de HomeView, publicada hoy en una edición gratuita de su boletín New Things, la periodista tecnológica Joanna Stern contó que Siri AI le dijo una vez \"No tengo una cámara para verte\", aunque el dispositivo tiene cámara. Apple confirmó a Stern que planea lanzar en diciembre una actualización de software que corrija este problema."
+                "x": "El agente Muse AI de Meta gana terreno de forma constante gracias a su aspecto simpático y atractivo y a un conjunto más amplio de ventajas para los usuarios gratuitos. La semana pasada, Meta añadió un modo de voz a Muse que permite interactuar con el agente de AI de forma similar a Gemini Live. Y ahora, Meta ofrece a los usuarios de relojes inteligentes otro motivo para quedarse."
               },
               {
                 "t": "p",
-                "x": "Siri AI también se negó a abrir la puerta del garaje de Stern o a desbloquear su puerta principal, pese a que HomeView la había reconocido. Apple le dijo que la actualización de software del próximo mes habilitará esta función. Mientras tanto, se pueden desbloquear cerraduras y puertas de garaje abriendo la app Home en HomeView y tocando los controles en pantalla."
+                "x": "Hoy, más temprano, la cuenta oficial de Muse en X publicó una imagen desenfadada de su mascota con relojes inteligentes, en los que también se ve Muse en funcionamiento. El texto que acompaña la imagen confirma además que Muse ya puede “trabajar sin descanso” directamente desde la muñeca, lo que confirma la disponibilidad de la app en Wear OS y Apple Watch."
               },
               {
-                "t": "video",
-                "yt": "yVTcVtLn2o4"
-              },
-              {
-                "t": "p",
-                "x": "\"Hoy, los usuarios reconocidos por HomeView pueden desbloquear accesorios de seguridad, como cerraduras y puertas de garaje, directamente en la pantalla de HomeView\", dijo un portavoz de Apple a Stern. \"Con una actualización de software el próximo mes, esto se extenderá a Siri AI, lo que dará a los usuarios más formas de gestionar los accesorios de seguridad una vez que hayan sido reconocidos\"."
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Screenshot-2026-11-11-at-3.59.50-PM.png"
               },
               {
                 "t": "p",
-                "x": "HomeView sale a la venta este viernes, con un precio en Estados Unidos (U.S.) desde $299. También publicamos nuestro propio video de prueba con nuestras impresiones."
+                "x": "En la imagen se ve que los usuarios tienen tres modos de entrada: texto, dictado y chat de voz. Gadgets and Wearables señala que los usuarios de Apple Watch también obtienen una complicación de esfera personalizada para acceder rápidamente, aunque no pudimos confirmar lo mismo en Wear OS."
+              },
+              {
+                "t": "p",
+                "x": "Por supuesto, el agente no se ejecuta de forma nativa en el reloj Wear OS. El reloj actúa simplemente como un centro de control para tareas que se ejecutan en el teléfono. Los usuarios deberían poder aprobar tareas o ver novedades de una que ya está en curso. Es algo similar a cómo aparece la mascota en el próximo wearable de Meta, el Muse Charm. Meta no ha aclarado si los usuarios podrán hacer pagos directamente desde el reloj."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "gadgets-apple-glasses-supplier",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Apple AI 안경\n공급사 설명회서 등장",
+      "body": "Quick Intelligent Equipment가 Apple 안경 참여를 밝혔다.",
+      "mini_headline": "공급사 발언 속 Apple 안경",
+      "tool": "Gadgets",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/11/11/apple-smart-glasses-mentioned-by-suppliers/",
+      "accent": "#2ec5c5",
+      "motif": "headset",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://images.macrumors.com/t/9uJqMj4VFJjMbPcQi5cTqaPUB18=/2500x/article-new/2021/01/Apple-Glasses-Triad-Feature.jpg"
+          },
+          {
+            "t": "p",
+            "x": "Securities Times가 전한 분기 실적 설명회 내용을 보면 중국 제조 장비 공급업체 Quick Intelligent Equipment가 소문만 돌던 Apple 스마트 안경과 카메라 탑재 AirPods를 언급했을 가능성이 있다. 회사 측은 “Apple의 AI 안경과 새 스마트 이어폰 프로젝트”에 참여해 왔다고 주장했는데, 이 참여가 자사 머신 비전 검사 장비 수요를 끌어올릴 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "Apple은 첫 스마트 안경을 2027년 말에 내놓을 계획으로 알려졌다. 이 안경은 착용자 주변 환경을 묻는 질문에 답하고 언어 번역을 도울 것으로 예상된다. Apple은 카메라를 단 AirPods도 개발 중이며, 이 제품은 20주년 iPhone과 함께 나올 예정이라고 한다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Apple AI glasses surface\nin a supplier briefing",
+          "body": "Chinese supplier Quick Intelligent Equipment said in an earnings briefing it has been involved in Apple's AI glasses.",
+          "mini_headline": "Apple glasses in supplier talk",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.macrumors.com/t/9uJqMj4VFJjMbPcQi5cTqaPUB18=/2500x/article-new/2021/01/Apple-Glasses-Triad-Feature.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Apple's rumored smart glasses and AirPods with cameras may have been referenced by Chinese manufacturing equipment supplier Quick Intelligent Equipment, according to a Securities Times report on the company's quarterly earnings briefing. The company claimed it has been involved in \"Apple's AI glasses and new smart earphones projects,\" which could boost demand for its machine vision inspection equipment."
+              },
+              {
+                "t": "p",
+                "x": "Apple is reportedly targeting a late 2027 launch for its first smart glasses, expected to help answer questions about the wearer's surroundings and translate languages. Apple is also reportedly developing AirPods with cameras, set to arrive alongside the 20th-anniversary iPhone."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Apple AI 안경\n공급사 설명회서 등장",
+          "body": "Quick Intelligent Equipment가 Apple 안경 참여를 밝혔다.",
+          "mini_headline": "공급사 발언 속 Apple 안경",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.macrumors.com/t/9uJqMj4VFJjMbPcQi5cTqaPUB18=/2500x/article-new/2021/01/Apple-Glasses-Triad-Feature.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Securities Times가 전한 분기 실적 설명회 내용을 보면 중국 제조 장비 공급업체 Quick Intelligent Equipment가 소문만 돌던 Apple 스마트 안경과 카메라 탑재 AirPods를 언급했을 가능성이 있다. 회사 측은 “Apple의 AI 안경과 새 스마트 이어폰 프로젝트”에 참여해 왔다고 주장했는데, 이 참여가 자사 머신 비전 검사 장비 수요를 끌어올릴 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "Apple은 첫 스마트 안경을 2027년 말에 내놓을 계획으로 알려졌다. 이 안경은 착용자 주변 환경을 묻는 질문에 답하고 언어 번역을 도울 것으로 예상된다. Apple은 카메라를 단 AirPods도 개발 중이며, 이 제품은 20주년 iPhone과 함께 나올 예정이라고 한다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AppleのAIグラス\n供給元の説明会で浮上",
+          "body": "Quick Intelligent EquipmentがAppleのAIグラスに関与した。",
+          "mini_headline": "供給元が語るAppleのグラス",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.macrumors.com/t/9uJqMj4VFJjMbPcQi5cTqaPUB18=/2500x/article-new/2021/01/Apple-Glasses-Triad-Feature.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Securities Timesが報じた同社の四半期決算説明会の内容によると、中国の製造装置サプライヤーQuick Intelligent Equipmentが、うわさされるAppleのスマートグラスとカメラ付きAirPodsに言及した可能性がある。同社は「AppleのAIグラスと新しいスマートイヤホンのプロジェクト」に関わってきたと主張しており、これが同社のマシンビジョン検査装置の需要を押し上げる可能性がある。"
+              },
+              {
+                "t": "p",
+                "x": "Appleは初のスマートグラスを2027年後半に発売することを目指しているとされ、装着者の周囲に関する質問に答えたり、言語を翻訳したりするのに役立つと見込まれている。Appleはカメラ付きAirPodsも開発中と伝えられ、20周年記念のiPhoneと同時に登場する予定だ。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Apple AI眼镜\n现身供应商说明会",
+          "body": "Quick Intelligent Equipment在财报会上称参与Apple的AI眼镜。",
+          "mini_headline": "供应商提及Apple眼镜",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.macrumors.com/t/9uJqMj4VFJjMbPcQi5cTqaPUB18=/2500x/article-new/2021/01/Apple-Glasses-Triad-Feature.jpg"
+              },
+              {
+                "t": "p",
+                "x": "据Securities Times对中国制造设备供应商Quick Intelligent Equipment季度业绩说明会的报道，该公司可能提及了传闻中的Apple智能眼镜和带摄像头的AirPods。该公司称已参与“Apple的AI眼镜和新款智能耳机项目”，这可能会提振其机器视觉检测设备的需求。"
+              },
+              {
+                "t": "p",
+                "x": "据报道，Apple计划于2027年底推出首款智能眼镜，预计可帮助回答有关佩戴者周围环境的问题并翻译语言。另据报道，Apple还在开发带摄像头的AirPods，将与20周年iPhone一同推出。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Las gafas con AI de Apple surgen\nen la reunión de un proveedor",
+          "body": "El proveedor chino Quick Intelligent Equipment dijo haber participado en las gafas con AI de Apple.",
+          "mini_headline": "Las gafas de Apple, en boca de un proveedor",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.macrumors.com/t/9uJqMj4VFJjMbPcQi5cTqaPUB18=/2500x/article-new/2021/01/Apple-Glasses-Triad-Feature.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Las rumoreadas gafas inteligentes de Apple y unos AirPods con cámaras podrían haber sido mencionados por el proveedor chino de equipos de fabricación Quick Intelligent Equipment, según un informe de Securities Times sobre la reunión de resultados trimestrales de la empresa. La compañía afirmó haber participado en \"los proyectos de gafas con AI de Apple y de nuevos auriculares inteligentes\", lo que podría impulsar la demanda de sus equipos de inspección por visión artificial."
+              },
+              {
+                "t": "p",
+                "x": "Según se informa, Apple apunta a finales de 2027 para lanzar sus primeras gafas inteligentes, que ayudarían a responder preguntas sobre el entorno de quien las lleva y a traducir idiomas. Apple también estaría desarrollando unos AirPods con cámaras, que llegarían junto al iPhone del 20.º aniversario."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Apple AI 안경\n공급사 설명회서 등장",
+          "body": "Quick Intelligent Equipment가 Apple 안경 참여를 밝혔다.",
+          "mini_headline": "공급사 발언 속 Apple 안경",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.macrumors.com/t/9uJqMj4VFJjMbPcQi5cTqaPUB18=/2500x/article-new/2021/01/Apple-Glasses-Triad-Feature.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Securities Times가 전한 분기 실적 설명회 내용에 따르면, 중국 제조 장비 공급업체 Quick Intelligent Equipment가 소문으로 돌던 Apple 스마트 안경과 카메라 탑재 AirPods를 언급했을 가능성이 있다. 이 회사는 “Apple의 AI 안경과 새 스마트 이어폰 프로젝트”에 참여해 왔다고 주장했으며, 이는 자사 머신 비전 검사 장비 수요를 끌어올릴 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "Apple은 첫 스마트 안경을 2027년 말 출시 목표로 삼고 있는 것으로 알려졌으며, 이 안경은 착용자 주변 환경에 관한 질문에 답하고 언어를 번역하는 데 도움을 줄 것으로 예상된다. Apple은 카메라를 탑재한 AirPods도 개발 중이며, 20주년 iPhone과 함께 나올 예정인 것으로 전해졌다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AppleのAIグラス\n供給元の説明会で浮上",
+          "body": "Quick Intelligent EquipmentがAppleのAIグラスに関与した。",
+          "mini_headline": "供給元が語るAppleのグラス",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.macrumors.com/t/9uJqMj4VFJjMbPcQi5cTqaPUB18=/2500x/article-new/2021/01/Apple-Glasses-Triad-Feature.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Securities Timesが報じた同社の四半期決算説明会の内容によると、中国の製造装置サプライヤーQuick Intelligent Equipmentが、うわさされるAppleのスマートグラスとカメラ付きAirPodsに言及した可能性がある。同社は「AppleのAIグラスと新しいスマートイヤホンのプロジェクト」に関わってきたと主張しており、これが同社のマシンビジョン検査装置の需要を押し上げる可能性がある。"
+              },
+              {
+                "t": "p",
+                "x": "Appleは初のスマートグラスを2027年後半に発売することを目指しているとされ、装着者の周囲に関する質問に答えたり、言語を翻訳したりするのに役立つと見込まれている。Appleはカメラ付きAirPodsも開発中と伝えられ、20周年記念のiPhoneと同時に登場する予定だ。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Apple AI眼镜\n现身供应商说明会",
+          "body": "Quick Intelligent Equipment在财报会上称参与Apple的AI眼镜。",
+          "mini_headline": "供应商提及Apple眼镜",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.macrumors.com/t/9uJqMj4VFJjMbPcQi5cTqaPUB18=/2500x/article-new/2021/01/Apple-Glasses-Triad-Feature.jpg"
+              },
+              {
+                "t": "p",
+                "x": "据Securities Times对中国制造设备供应商Quick Intelligent Equipment季度业绩说明会的报道，该公司可能提及了传闻中的Apple智能眼镜和带摄像头的AirPods。该公司称已参与“Apple的AI眼镜和新款智能耳机项目”，这可能会提振其机器视觉检测设备的需求。"
+              },
+              {
+                "t": "p",
+                "x": "据报道，Apple计划于2027年底推出首款智能眼镜，预计可帮助回答有关佩戴者周围环境的问题并翻译语言。另据报道，Apple还在开发带摄像头的AirPods，将与20周年iPhone一同推出。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Las gafas con AI de Apple surgen\nen la reunión de un proveedor",
+          "body": "El proveedor chino Quick Intelligent Equipment dijo haber participado en las gafas con AI de Apple.",
+          "mini_headline": "Las gafas de Apple, en boca de un proveedor",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.macrumors.com/t/9uJqMj4VFJjMbPcQi5cTqaPUB18=/2500x/article-new/2021/01/Apple-Glasses-Triad-Feature.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Las rumoreadas gafas inteligentes de Apple y unos AirPods con cámaras podrían haber sido mencionados por el proveedor chino de equipos de fabricación Quick Intelligent Equipment, según un informe de Securities Times sobre la reunión de resultados trimestrales de la empresa. La compañía afirmó haber participado en \"los proyectos de gafas con AI de Apple y de nuevos auriculares inteligentes\", lo que podría impulsar la demanda de sus equipos de inspección por visión artificial."
+              },
+              {
+                "t": "p",
+                "x": "Según se informa, Apple apunta a finales de 2027 para lanzar sus primeras gafas inteligentes, que ayudarían a responder preguntas sobre el entorno de quien las lleva y a traducir idiomas. Apple también estaría desarrollando unos AirPods con cámaras, que llegarían junto al iPhone del 20.º aniversario."
               }
             ]
           }

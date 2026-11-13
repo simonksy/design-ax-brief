@@ -1,32 +1,32 @@
 {
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "section": "gadgets",
   "media": [
     {
-      "id": "samsung-eyewear-dec-launch",
-      "type": "image",
-      "src": "pipeline/media/samsung-eyewear-dec-launch.jpg"
-    },
-    {
-      "id": "windows-photos-adobe-genai",
-      "type": "image",
-      "src": "pipeline/media/windows-photos-adobe-genai.jpg"
-    },
-    {
-      "id": "msi-edgemesa-n-ai",
-      "type": "image",
-      "src": "pipeline/media/msi-edgemesa-n-ai.jpg"
-    },
-    {
-      "id": "anker-soundcore-typeless",
-      "type": "image",
-      "src": "pipeline/media/anker-soundcore-typeless.jpg"
-    },
-    {
-      "id": "homeview-siri-fix-update",
+      "id": "gadgets-gemini-task-automation-galaxy",
       "type": "video",
-      "src": "pipeline/media/homeview-siri-fix-update.mp4",
-      "poster": "pipeline/media/homeview-siri-fix-update.jpg"
+      "src": "pipeline/media/gadgets-gemini-task-automation-galaxy.mp4",
+      "poster": "pipeline/media/gadgets-gemini-task-automation-galaxy.jpg"
+    },
+    {
+      "id": "gadgets-christian-linux-ai-phone",
+      "type": "image",
+      "src": "pipeline/media/gadgets-christian-linux-ai-phone.jpg"
+    },
+    {
+      "id": "gadgets-galaxy-ai-premium-499",
+      "type": "image",
+      "src": "pipeline/media/gadgets-galaxy-ai-premium-499.jpg"
+    },
+    {
+      "id": "gadgets-meta-muse-wearos",
+      "type": "image",
+      "src": "pipeline/media/gadgets-meta-muse-wearos.jpg"
+    },
+    {
+      "id": "gadgets-apple-glasses-supplier",
+      "type": "image",
+      "src": "pipeline/media/gadgets-apple-glasses-supplier.jpg"
     }
   ]
 }

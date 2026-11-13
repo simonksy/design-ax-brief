@@ -1,1083 +1,17 @@
 {
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "section": "design",
   "cards": [
     {
-      "id": "framer-agent-shaders",
+      "id": "mit-structure-copilot",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Framer Agent가\n이미지·셰이더 만든다",
-      "body": "Framer 에이전트가 이미지 생성·편집에 하프톤·보케·CRT 셰이더까지 맡는다.",
-      "mini_headline": "Framer Agent, 셰이더 추가",
-      "tool": "Figma",
-      "source": "Framer",
-      "url": "https://www.framer.com/updates/image-shader-generation",
-      "accent": "#0070f3",
-      "motif": "frame",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "video",
-            "src": "https://framerusercontent.com/assets/Iw5LhjPbn3iGV8Pg34gm34pSKmQ.mp4"
-          },
-          {
-            "t": "p",
-            "x": "Framer에 이미지 생성과 셰이더 생성 기능이 들어왔다. 사이트에 맞는 이미지나 텍스처, 일러스트레이션이 필요하면 Agent에게 요청하면 된다. 채팅창에 이미지를 끌어다 놓거나 캔버스에서 이미지를 고른 뒤 피사체 교체, 배경 제거, 스타일 변경을 맡길 수도 있다."
-          },
-          {
-            "t": "p",
-            "x": "셰이더도 마찬가지다. 하프톤, 보케 블러, CRT, 연필 효과 같은 셰이더를 Agent에게 요청하거나, 온라인에서 본 효과를 “포인터를 드래그하면 이미지가 번지게” 하는 식으로 설명하면 된다. 캔버스에 이미 있는 Framer 셰이더도 손볼 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "두 기능을 함께 쓸 수도 있다. Agent가 만든 이미지를 이미지 셰이더의 입력으로 지정하는 식이다. 마우스를 움직이면 잉크가 번지는 펜 드로잉으로 바꿔 주는 셰이더가 그 예다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Framer Agent now makes\nimages and shaders",
-          "body": "Framer's agent can now generate or edit images and build shaders like halftone, bokeh or CRT.",
-          "mini_headline": "Framer Agent adds shaders",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "src": "https://framerusercontent.com/assets/Iw5LhjPbn3iGV8Pg34gm34pSKmQ.mp4"
-              },
-              {
-                "t": "p",
-                "x": "Introducing image generation and generated shaders in Framer. Ask the Agent for a custom image, texture, or illustration that fits your site. You can also drop an image into the chat or select one on the canvas, then ask the Agent to swap the subject, remove the background, or restyle it."
-              },
-              {
-                "t": "p",
-                "x": "Shaders work the same way. Ask the Agent for a shader, like a halftone, bokeh blur, CRT, pencil effect, or describe a specific effect you saw online, like “smudge an image on pointer drag.” It can also tweak a Framer shader that’s already on your canvas."
-              },
-              {
-                "t": "p",
-                "x": "Image and Shader generation work together too. The Agent can generate an image and set it as the input of an image shader, for example one that turns it into a pen drawing with an ink smudge on mouse move."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Framer Agent가\n이미지·셰이더 만든다",
-          "body": "Framer 에이전트가 이미지 생성·편집에 하프톤·보케·CRT 셰이더까지 맡는다.",
-          "mini_headline": "Framer Agent, 셰이더 추가",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "src": "https://framerusercontent.com/assets/Iw5LhjPbn3iGV8Pg34gm34pSKmQ.mp4"
-              },
-              {
-                "t": "p",
-                "x": "Framer에 이미지 생성과 셰이더 생성 기능이 들어왔다. 사이트에 맞는 이미지나 텍스처, 일러스트레이션이 필요하면 Agent에게 요청하면 된다. 채팅창에 이미지를 끌어다 놓거나 캔버스에서 이미지를 고른 뒤 피사체 교체, 배경 제거, 스타일 변경을 맡길 수도 있다."
-              },
-              {
-                "t": "p",
-                "x": "셰이더도 마찬가지다. 하프톤, 보케 블러, CRT, 연필 효과 같은 셰이더를 Agent에게 요청하거나, 온라인에서 본 효과를 “포인터를 드래그하면 이미지가 번지게” 하는 식으로 설명하면 된다. 캔버스에 이미 있는 Framer 셰이더도 손볼 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "두 기능을 함께 쓸 수도 있다. Agent가 만든 이미지를 이미지 셰이더의 입력으로 지정하는 식이다. 마우스를 움직이면 잉크가 번지는 펜 드로잉으로 바꿔 주는 셰이더가 그 예다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Framer Agentが\n画像とシェーダーを生成",
-          "body": "Framer Agentが画像を生成・編集し、ハーフトーン・ボケ・CRTシェーダーも作る。",
-          "mini_headline": "Framer Agentにシェーダー機能",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "src": "https://framerusercontent.com/assets/Iw5LhjPbn3iGV8Pg34gm34pSKmQ.mp4"
-              },
-              {
-                "t": "p",
-                "x": "Framerに画像生成とシェーダー生成が加わった。サイトに合わせたカスタム画像やテクスチャ、イラストをAgentに頼めばよい。チャットに画像をドロップするか、キャンバス上の画像を選択し、被写体の差し替えや背景の削除、スタイルの変更をAgentに指示することもできる。"
-              },
-              {
-                "t": "p",
-                "x": "シェーダーも同じ仕組みだ。ハーフトーン、ボケブラー、CRT、鉛筆効果といったシェーダーをAgentに頼むか、「ポインターのドラッグで画像をにじませる」のように、オンラインで見かけた特定の効果を説明すればよい。キャンバス上にある既存のFramerシェーダーを調整することもできる。"
-              },
-              {
-                "t": "p",
-                "x": "画像生成とシェーダー生成は組み合わせても使える。Agentは画像を生成し、それを画像シェーダーの入力に設定できる。たとえば、マウスを動かすとインクがにじむペン画に変えるシェーダーである。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Framer Agent\n现可生成图像和着色器",
-          "body": "Framer的智能体现可生成或编辑图像，并构建半调、散景或CRT等着色器。",
-          "mini_headline": "Framer Agent新增着色器",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "src": "https://framerusercontent.com/assets/Iw5LhjPbn3iGV8Pg34gm34pSKmQ.mp4"
-              },
-              {
-                "t": "p",
-                "x": "Framer推出图像生成与生成式着色器。你可以让Agent生成契合网站的定制图像、纹理或插画；也可以把图像拖入聊天窗口，或在画布上选中一张图，再让Agent替换主体、移除背景或重新设定风格。"
-              },
-              {
-                "t": "p",
-                "x": "着色器的用法相同。可以向Agent索要半调、散景模糊、CRT、铅笔效果等着色器，也可以描述在网上看到的某种效果，比如“指针拖动时涂抹图像”。它还能调整画布上已有的Framer着色器。"
-              },
-              {
-                "t": "p",
-                "x": "图像生成与着色器生成也能配合使用。Agent可以先生成一张图像，再把它设为图像着色器的输入，例如把图像变成钢笔画，鼠标移动时出现墨迹晕染。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Framer Agent ya genera\nimágenes y shaders",
-          "body": "El agente de Framer ya puede generar o editar imágenes y crear shaders como halftone, bokeh o CRT.",
-          "mini_headline": "Framer Agent suma shaders",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "src": "https://framerusercontent.com/assets/Iw5LhjPbn3iGV8Pg34gm34pSKmQ.mp4"
-              },
-              {
-                "t": "p",
-                "x": "Framer presenta la generación de imágenes y los shaders generados. Puedes pedir al Agent una imagen, textura o ilustración personalizada que encaje con tu sitio. También puedes soltar una imagen en el chat o seleccionar una en el lienzo y pedir al Agent que cambie el sujeto, elimine el fondo o le dé otro estilo."
-              },
-              {
-                "t": "p",
-                "x": "Los shaders funcionan igual. Pide al Agent un shader, como halftone, desenfoque bokeh, CRT o efecto de lápiz, o describe un efecto concreto que hayas visto en internet, como “difuminar una imagen al arrastrar el puntero”. También puede ajustar un shader de Framer que ya esté en el lienzo."
-              },
-              {
-                "t": "p",
-                "x": "La generación de imágenes y la de shaders también funcionan juntas. El Agent puede generar una imagen y usarla como entrada de un shader de imagen, por ejemplo uno que la convierte en un dibujo a pluma con una mancha de tinta al mover el ratón."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Framer Agent가\n이미지·셰이더 만든다",
-          "body": "Framer 에이전트가 이미지 생성·편집과 하프톤·보케·CRT 셰이더를 지원한다.",
-          "mini_headline": "Framer Agent, 셰이더 추가",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "src": "https://framerusercontent.com/assets/Iw5LhjPbn3iGV8Pg34gm34pSKmQ.mp4"
-              },
-              {
-                "t": "p",
-                "x": "Framer에 이미지 생성과 셰이더 생성 기능이 들어왔다. Agent에게 사이트에 맞는 맞춤 이미지나 텍스처, 일러스트레이션을 요청하면 된다. 채팅창에 이미지를 끌어다 놓거나 캔버스에서 이미지를 선택한 뒤 피사체 교체, 배경 제거, 스타일 변경을 요청할 수도 있다."
-              },
-              {
-                "t": "p",
-                "x": "셰이더도 같은 방식으로 작동한다. Agent에게 하프톤, 보케 블러, CRT, 연필 효과 같은 셰이더를 요청하거나, 온라인에서 본 특정 효과를 “포인터를 드래그하면 이미지가 번지게” 하는 식으로 설명하면 된다. 캔버스에 이미 있는 Framer 셰이더를 손볼 수도 있다."
-              },
-              {
-                "t": "p",
-                "x": "이미지 생성과 셰이더 생성은 함께 쓸 수도 있다. Agent가 이미지를 생성한 뒤 이를 이미지 셰이더의 입력으로 지정할 수 있다. 예를 들어 마우스를 움직이면 잉크가 번지는 펜 드로잉으로 바꿔 주는 셰이더다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Framer Agentが\n画像とシェーダーを生成",
-          "body": "Framer Agentが画像を生成・編集し、ハーフトーン・ボケ・CRTシェーダーも作る。",
-          "mini_headline": "Framer Agentにシェーダー機能",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "src": "https://framerusercontent.com/assets/Iw5LhjPbn3iGV8Pg34gm34pSKmQ.mp4"
-              },
-              {
-                "t": "p",
-                "x": "Framerに画像生成とシェーダー生成が加わった。サイトに合わせたカスタム画像やテクスチャ、イラストをAgentに頼めばよい。チャットに画像をドロップするか、キャンバス上の画像を選択し、被写体の差し替えや背景の削除、スタイルの変更をAgentに指示することもできる。"
-              },
-              {
-                "t": "p",
-                "x": "シェーダーも同じ仕組みだ。ハーフトーン、ボケブラー、CRT、鉛筆効果といったシェーダーをAgentに頼むか、「ポインターのドラッグで画像をにじませる」のように、オンラインで見かけた特定の効果を説明すればよい。キャンバス上にある既存のFramerシェーダーを調整することもできる。"
-              },
-              {
-                "t": "p",
-                "x": "画像生成とシェーダー生成は組み合わせても使える。Agentは画像を生成し、それを画像シェーダーの入力に設定できる。たとえば、マウスを動かすとインクがにじむペン画に変えるシェーダーである。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Framer Agent\n现可生成图像和着色器",
-          "body": "Framer的智能体现可生成或编辑图像，并构建半调、散景或CRT等着色器。",
-          "mini_headline": "Framer Agent新增着色器",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "src": "https://framerusercontent.com/assets/Iw5LhjPbn3iGV8Pg34gm34pSKmQ.mp4"
-              },
-              {
-                "t": "p",
-                "x": "Framer推出图像生成与生成式着色器。你可以让Agent生成契合网站的定制图像、纹理或插画；也可以把图像拖入聊天窗口，或在画布上选中一张图，再让Agent替换主体、移除背景或重新设定风格。"
-              },
-              {
-                "t": "p",
-                "x": "着色器的用法相同。可以向Agent索要半调、散景模糊、CRT、铅笔效果等着色器，也可以描述在网上看到的某种效果，比如“指针拖动时涂抹图像”。它还能调整画布上已有的Framer着色器。"
-              },
-              {
-                "t": "p",
-                "x": "图像生成与着色器生成也能配合使用。Agent可以先生成一张图像，再把它设为图像着色器的输入，例如把图像变成钢笔画，鼠标移动时出现墨迹晕染。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Framer Agent ya genera\nimágenes y shaders",
-          "body": "El agente de Framer ya puede generar o editar imágenes y crear shaders como halftone, bokeh o CRT.",
-          "mini_headline": "Framer Agent suma shaders",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "src": "https://framerusercontent.com/assets/Iw5LhjPbn3iGV8Pg34gm34pSKmQ.mp4"
-              },
-              {
-                "t": "p",
-                "x": "Framer presenta la generación de imágenes y los shaders generados. Puedes pedir al Agent una imagen, textura o ilustración personalizada que encaje con tu sitio. También puedes soltar una imagen en el chat o seleccionar una en el lienzo y pedir al Agent que cambie el sujeto, elimine el fondo o le dé otro estilo."
-              },
-              {
-                "t": "p",
-                "x": "Los shaders funcionan igual. Pide al Agent un shader, como halftone, desenfoque bokeh, CRT o efecto de lápiz, o describe un efecto concreto que hayas visto en internet, como “difuminar una imagen al arrastrar el puntero”. También puede ajustar un shader de Framer que ya esté en el lienzo."
-              },
-              {
-                "t": "p",
-                "x": "La generación de imágenes y la de shaders también funcionan juntas. El Agent puede generar una imagen y usarla como entrada de un shader de imagen, por ejemplo uno que la convierte en un dibujo a pluma con una mancha de tinta al mover el ratón."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "google-flow-artist-tools",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Google Flow에\n작가와 만든 도구 다섯 개",
-      "body": "Google AI 스튜디오 Flow에 작가들이 직접 만든 도구 다섯 개가 들어갔다.",
-      "mini_headline": "Flow, 작가 도구 다섯 개 추가",
-      "tool": "KeyShot",
-      "source": "Google (The Keyword)",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/new-google-flow-tools/",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Nov_Cohort_Hero_4.width-1300.jpg"
-          },
-          {
-            "t": "p",
-            "x": "Google이 AI 창작 스튜디오 Google Flow에 새 도구 다섯 개를 공개한다. 모두 크리에이터가 직접 만든 것으로, 구상부터 최종 편집까지 이야기를 빚는 과정을 거든다."
-          },
-          {
-            "t": "p",
-            "x": "1. 아티스트이자 영화감독인 James Gerde가 만든 Character Poster는 간단한 스토리 콘셉트를 완성도 높고 아름답게 디자인된 비주얼로 바꿔 준다. 소셜 스토리 전반에서 크리에이터 고유의 스타일도 지켜 준다."
-          },
-          {
-            "t": "video",
-            "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/01_Charater_Poster_-_10.6.26_-_1.mp4"
-          },
-          {
-            "t": "p",
-            "x": "2. 영화감독 Anurag Tiwari가 만든 Character Arc는 한 캐릭터의 핵심 외형을 지키면서 여러 나이와 인생 단계를 시각화한다. 그는 자기 다큐멘터리 “Children of the Sun”에 이 도구를 쓰고 있다."
-          },
-          {
-            "t": "p",
-            "x": "3. 역시 Anurag Tiwari가 만든 Pixel Machine은 이미지를 비트맵, ASCII, CRT, 픽셀 아트, 글리치 스타일로 바꾼다. 타이틀, 트랜지션, 뮤직비디오 비주얼에 쓰라고 만든 도구다."
-          },
-          {
-            "t": "p",
-            "x": "4. 아티스트이자 크리에이티브 디렉터 Ezra Paulekas가 만든 Lucid Glass는 빛이 유리를 통과하는 모습을 재현해 프리즘, 헤일로, 굴절, 광학 블룸을 만든다. 이른바 \"불가능한 렌즈\"다."
-          },
-          {
-            "t": "p",
-            "x": "5. 영화감독 Ryan McCoy가 만든 Pocket Studio는 평범한 휴대폰 영상을 더 완성도 높은 샷으로 바꾼다. 테이크 한 번으로 여러 카메라 앵글을 뽑고 화질도 끌어올리지만, 배우의 원래 연기는 건드리지 않는다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Google Flow adds five\ntools built with artists",
-          "body": "Google's AI creative studio Flow adds five artist-built tools, from consistent characters to lighting simulation.",
-          "mini_headline": "Flow adds five artist tools",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Nov_Cohort_Hero_4.width-1300.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Google is releasing five new tools in Google Flow, its AI creative studio — all built by creatives — to help shape stories from concept to final cut."
-              },
-              {
-                "t": "p",
-                "x": "1. Character Poster, by artist and filmmaker James Gerde, turns simple story concepts into polished, beautifully designed visuals and helps creators maintain a signature style across their social stories."
-              },
-              {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/01_Charater_Poster_-_10.6.26_-_1.mp4"
-              },
-              {
-                "t": "p",
-                "x": "2. Character Arc, by filmmaker Anurag Tiwari, lets storytellers visualize the same character across different ages and life stages without losing their core look. He is using it for his documentary “Children of the Sun.”"
-              },
-              {
-                "t": "p",
-                "x": "3. Pixel Machine, also by Anurag Tiwari, converts images into bitmap, ASCII, CRT, pixel art, and glitch styles for title treatments, transitions, and music video visuals."
-              },
-              {
-                "t": "p",
-                "x": "4. Lucid Glass, by artist and creative director Ezra Paulekas, recreates the way light passes through glass, generating prisms, halos, refractions, and optical blooms — an \"impossible lens.\""
-              },
-              {
-                "t": "p",
-                "x": "5. Pocket Studio, by filmmaker Ryan McCoy, turns everyday phone footage into more polished shots: from a single take it generates multiple camera angles and upgrades the visual fidelity, keeping the actor’s original performance intact."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Google Flow에\n작가와 만든 도구 다섯 개",
-          "body": "Google AI 스튜디오 Flow에 작가들이 직접 만든 도구 다섯 개가 들어갔다.",
-          "mini_headline": "Flow, 작가 도구 다섯 개 추가",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Nov_Cohort_Hero_4.width-1300.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Google이 AI 창작 스튜디오 Google Flow에 새 도구 다섯 개를 공개한다. 모두 크리에이터가 직접 만든 것으로, 구상부터 최종 편집까지 이야기를 빚는 과정을 거든다."
-              },
-              {
-                "t": "p",
-                "x": "1. 아티스트이자 영화감독인 James Gerde가 만든 Character Poster는 간단한 스토리 콘셉트를 완성도 높고 아름답게 디자인된 비주얼로 바꿔 준다. 소셜 스토리 전반에서 크리에이터 고유의 스타일도 지켜 준다."
-              },
-              {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/01_Charater_Poster_-_10.6.26_-_1.mp4"
-              },
-              {
-                "t": "p",
-                "x": "2. 영화감독 Anurag Tiwari가 만든 Character Arc는 한 캐릭터의 핵심 외형을 지키면서 여러 나이와 인생 단계를 시각화한다. 그는 자기 다큐멘터리 “Children of the Sun”에 이 도구를 쓰고 있다."
-              },
-              {
-                "t": "p",
-                "x": "3. 역시 Anurag Tiwari가 만든 Pixel Machine은 이미지를 비트맵, ASCII, CRT, 픽셀 아트, 글리치 스타일로 바꾼다. 타이틀, 트랜지션, 뮤직비디오 비주얼에 쓰라고 만든 도구다."
-              },
-              {
-                "t": "p",
-                "x": "4. 아티스트이자 크리에이티브 디렉터 Ezra Paulekas가 만든 Lucid Glass는 빛이 유리를 통과하는 모습을 재현해 프리즘, 헤일로, 굴절, 광학 블룸을 만든다. 이른바 \"불가능한 렌즈\"다."
-              },
-              {
-                "t": "p",
-                "x": "5. 영화감독 Ryan McCoy가 만든 Pocket Studio는 평범한 휴대폰 영상을 더 완성도 높은 샷으로 바꾼다. 테이크 한 번으로 여러 카메라 앵글을 뽑고 화질도 끌어올리지만, 배우의 원래 연기는 건드리지 않는다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Google Flowに\n作家と作った五つのツール",
-          "body": "GoogleのAI制作スタジオFlowに、アーティストが作った五つのツールが加わった。",
-          "mini_headline": "Flowに作家発のツール五つ",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Nov_Cohort_Hero_4.width-1300.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Googleは、AI制作スタジオのGoogle Flowに新しいツールを五つ公開する。いずれもクリエイターが手がけたもので、構想から最終編集まで物語づくりを支える。"
-              },
-              {
-                "t": "p",
-                "x": "1. アーティストで映像作家のJames GerdeによるCharacter Posterは、シンプルなストーリーのコンセプトを洗練された美しいビジュアルに仕上げ、ソーシャル上のストーリー全体で独自のスタイルを保てるようにする。"
-              },
-              {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/01_Charater_Poster_-_10.6.26_-_1.mp4"
-              },
-              {
-                "t": "p",
-                "x": "2. 映像作家Anurag TiwariによるCharacter Arcは、同じキャラクターの核となる外見を保ったまま、さまざまな年齢や人生の段階を視覚化できる。彼はドキュメンタリー「Children of the Sun」でこれを使っている。"
-              },
-              {
-                "t": "p",
-                "x": "3. 同じくAnurag TiwariによるPixel Machineは、画像をビットマップ、ASCII、CRT、ピクセルアート、グリッチのスタイルに変換し、タイトル、トランジション、ミュージックビデオの映像に使えるようにする。"
-              },
-              {
-                "t": "p",
-                "x": "4. アーティストでクリエイティブディレクターのEzra PaulekasによるLucid Glassは、光がガラスを通り抜ける様子を再現し、プリズムやハロー、屈折、光のブルームを生み出す。いわば「不可能なレンズ」だ。"
-              },
-              {
-                "t": "p",
-                "x": "5. 映像作家Ryan McCoyによるPocket Studioは、日常的なスマートフォン映像をより洗練されたショットに変える。単一のテイクから複数のカメラアングルを生成して画質を高めつつ、俳優の元の演技はそのまま保つ。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Google Flow\n上线五款艺术家共创工具",
-          "body": "Google的AI创作工作室Flow新增五款艺术家打造的工具，从角色一致到光照模拟。",
-          "mini_headline": "Flow新增五款艺术家工具",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Nov_Cohort_Hero_4.width-1300.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Google在其AI创作工作室Google Flow中推出五款新工具，全部由创作者打造，帮助塑造从构思到最终剪辑的故事。"
-              },
-              {
-                "t": "p",
-                "x": "1. Character Poster由艺术家兼电影人James Gerde打造，可将简单的故事构想变成精致、设计精美的视觉作品，并帮助创作者在社交平台的故事中保持标志性风格。"
-              },
-              {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/01_Charater_Poster_-_10.6.26_-_1.mp4"
-              },
-              {
-                "t": "p",
-                "x": "2. Character Arc由电影人Anurag Tiwari打造，能让讲故事的人在不丢失核心外貌的前提下，呈现同一角色在不同年龄和人生阶段的样子。他正将其用于自己的纪录片《Children of the Sun》。"
-              },
-              {
-                "t": "p",
-                "x": "3. Pixel Machine同样出自Anurag Tiwari之手，可将图像转换为位图、ASCII、CRT、像素画和故障风格，用于片名设计、转场和音乐视频画面。"
-              },
-              {
-                "t": "p",
-                "x": "4. Lucid Glass由艺术家兼创意总监Ezra Paulekas打造，重现光线穿过玻璃的效果，生成棱镜、光晕、折射和光学辉光，堪称“不可能的镜头”。"
-              },
-              {
-                "t": "p",
-                "x": "5. Pocket Studio由电影人Ryan McCoy打造，可把日常手机拍摄的素材变成更精致的镜头：从单条镜头生成多个机位角度并提升画质，同时完整保留演员的原始表演。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Google Flow suma cinco\nherramientas de artistas",
-          "body": "Google añade a Flow, su estudio creativo de AI, cinco herramientas creadas por artistas, de personajes a iluminación.",
-          "mini_headline": "Flow suma cinco herramientas de artistas",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Nov_Cohort_Hero_4.width-1300.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Google lanza cinco nuevas herramientas en Google Flow, su estudio creativo de AI, todas creadas por creativos, para ayudar a dar forma a las historias desde el concepto hasta el montaje final."
-              },
-              {
-                "t": "p",
-                "x": "1. Character Poster, del artista y cineasta James Gerde, convierte conceptos sencillos de historias en piezas visuales pulidas y bien diseñadas, y ayuda a los creadores a mantener un estilo propio en sus historias para redes sociales."
-              },
-              {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/01_Charater_Poster_-_10.6.26_-_1.mp4"
-              },
-              {
-                "t": "p",
-                "x": "2. Character Arc, del cineasta Anurag Tiwari, permite visualizar a un mismo personaje en distintas edades y etapas de la vida sin perder su aspecto esencial. Lo está usando en su documental “Children of the Sun”."
-              },
-              {
-                "t": "p",
-                "x": "3. Pixel Machine, también de Anurag Tiwari, convierte imágenes en estilos bitmap, ASCII, CRT, pixel art y glitch para títulos, transiciones y visuales de videoclips."
-              },
-              {
-                "t": "p",
-                "x": "4. Lucid Glass, del artista y director creativo Ezra Paulekas, recrea cómo la luz atraviesa el vidrio y genera prismas, halos, refracciones y destellos ópticos: una \"lente imposible\"."
-              },
-              {
-                "t": "p",
-                "x": "5. Pocket Studio, del cineasta Ryan McCoy, convierte grabaciones cotidianas del teléfono en planos más pulidos: a partir de una sola toma genera varios ángulos de cámara y mejora la calidad visual, sin alterar la interpretación original del actor."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Google Flow에\n작가와 만든 도구 다섯 개",
-          "body": "Google의 AI 스튜디오 Flow에 작가들이 만든 도구 다섯 개가 추가됐다.",
-          "mini_headline": "Flow, 작가 도구 다섯 개 추가",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Nov_Cohort_Hero_4.width-1300.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Google이 AI 창작 스튜디오 Google Flow에 새 도구 다섯 개를 공개한다. 모두 크리에이터가 직접 만든 도구로, 구상부터 최종 편집까지 이야기를 빚는 과정을 돕는다."
-              },
-              {
-                "t": "p",
-                "x": "1. 아티스트이자 영화감독인 James Gerde가 만든 Character Poster는 간단한 스토리 콘셉트를 완성도 높고 아름답게 디자인된 비주얼로 바꿔 주며, 크리에이터가 소셜 스토리 전반에서 고유한 스타일을 유지하도록 돕는다."
-              },
-              {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/01_Charater_Poster_-_10.6.26_-_1.mp4"
-              },
-              {
-                "t": "p",
-                "x": "2. 영화감독 Anurag Tiwari가 만든 Character Arc는 같은 캐릭터를 핵심 외형을 잃지 않은 채 여러 나이와 인생 단계에 걸쳐 시각화해 준다. 그는 자신의 다큐멘터리 “Children of the Sun”에 이 도구를 쓰고 있다."
-              },
-              {
-                "t": "p",
-                "x": "3. 역시 Anurag Tiwari가 만든 Pixel Machine은 이미지를 비트맵, ASCII, CRT, 픽셀 아트, 글리치 스타일로 변환해 타이틀, 트랜지션, 뮤직비디오 비주얼에 쓸 수 있게 한다."
-              },
-              {
-                "t": "p",
-                "x": "4. 아티스트이자 크리에이티브 디렉터인 Ezra Paulekas가 만든 Lucid Glass는 빛이 유리를 통과하는 방식을 재현해 프리즘, 헤일로, 굴절, 광학 블룸을 만들어 낸다. 이른바 \"불가능한 렌즈\"다."
-              },
-              {
-                "t": "p",
-                "x": "5. 영화감독 Ryan McCoy가 만든 Pocket Studio는 일상적인 휴대폰 영상을 더 완성도 높은 샷으로 바꾼다. 한 번의 테이크에서 여러 카메라 앵글을 생성하고 화질을 끌어올리면서도 배우의 원래 연기는 그대로 유지한다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Google Flowに\n作家と作った五つのツール",
-          "body": "GoogleのAI制作スタジオFlowに、アーティストが作った五つのツールが加わった。",
-          "mini_headline": "Flowに作家発のツール五つ",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Nov_Cohort_Hero_4.width-1300.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Googleは、AI制作スタジオのGoogle Flowに新しいツールを五つ公開する。いずれもクリエイターが手がけたもので、構想から最終編集まで物語づくりを支える。"
-              },
-              {
-                "t": "p",
-                "x": "1. アーティストで映像作家のJames GerdeによるCharacter Posterは、シンプルなストーリーのコンセプトを洗練された美しいビジュアルに仕上げ、ソーシャル上のストーリー全体で独自のスタイルを保てるようにする。"
-              },
-              {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/01_Charater_Poster_-_10.6.26_-_1.mp4"
-              },
-              {
-                "t": "p",
-                "x": "2. 映像作家Anurag TiwariによるCharacter Arcは、同じキャラクターの核となる外見を保ったまま、さまざまな年齢や人生の段階を視覚化できる。彼はドキュメンタリー「Children of the Sun」でこれを使っている。"
-              },
-              {
-                "t": "p",
-                "x": "3. 同じくAnurag TiwariによるPixel Machineは、画像をビットマップ、ASCII、CRT、ピクセルアート、グリッチのスタイルに変換し、タイトル、トランジション、ミュージックビデオの映像に使えるようにする。"
-              },
-              {
-                "t": "p",
-                "x": "4. アーティストでクリエイティブディレクターのEzra PaulekasによるLucid Glassは、光がガラスを通り抜ける様子を再現し、プリズムやハロー、屈折、光のブルームを生み出す。いわば「不可能なレンズ」だ。"
-              },
-              {
-                "t": "p",
-                "x": "5. 映像作家Ryan McCoyによるPocket Studioは、日常的なスマートフォン映像をより洗練されたショットに変える。単一のテイクから複数のカメラアングルを生成して画質を高めつつ、俳優の元の演技はそのまま保つ。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Google Flow\n上线五款艺术家共创工具",
-          "body": "Google的AI创作工作室Flow新增五款艺术家打造的工具，从角色一致到光照模拟。",
-          "mini_headline": "Flow新增五款艺术家工具",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Nov_Cohort_Hero_4.width-1300.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Google在其AI创作工作室Google Flow中推出五款新工具，全部由创作者打造，帮助塑造从构思到最终剪辑的故事。"
-              },
-              {
-                "t": "p",
-                "x": "1. Character Poster由艺术家兼电影人James Gerde打造，可将简单的故事构想变成精致、设计精美的视觉作品，并帮助创作者在社交平台的故事中保持标志性风格。"
-              },
-              {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/01_Charater_Poster_-_10.6.26_-_1.mp4"
-              },
-              {
-                "t": "p",
-                "x": "2. Character Arc由电影人Anurag Tiwari打造，能让讲故事的人在不丢失核心外貌的前提下，呈现同一角色在不同年龄和人生阶段的样子。他正将其用于自己的纪录片《Children of the Sun》。"
-              },
-              {
-                "t": "p",
-                "x": "3. Pixel Machine同样出自Anurag Tiwari之手，可将图像转换为位图、ASCII、CRT、像素画和故障风格，用于片名设计、转场和音乐视频画面。"
-              },
-              {
-                "t": "p",
-                "x": "4. Lucid Glass由艺术家兼创意总监Ezra Paulekas打造，重现光线穿过玻璃的效果，生成棱镜、光晕、折射和光学辉光，堪称“不可能的镜头”。"
-              },
-              {
-                "t": "p",
-                "x": "5. Pocket Studio由电影人Ryan McCoy打造，可把日常手机拍摄的素材变成更精致的镜头：从单条镜头生成多个机位角度并提升画质，同时完整保留演员的原始表演。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Google Flow suma cinco\nherramientas de artistas",
-          "body": "Google añade a Flow, su estudio creativo de AI, cinco herramientas creadas por artistas, de personajes a iluminación.",
-          "mini_headline": "Flow suma cinco herramientas de artistas",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Nov_Cohort_Hero_4.width-1300.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Google lanza cinco nuevas herramientas en Google Flow, su estudio creativo de AI, todas creadas por creativos, para ayudar a dar forma a las historias desde el concepto hasta el montaje final."
-              },
-              {
-                "t": "p",
-                "x": "1. Character Poster, del artista y cineasta James Gerde, convierte conceptos sencillos de historias en piezas visuales pulidas y bien diseñadas, y ayuda a los creadores a mantener un estilo propio en sus historias para redes sociales."
-              },
-              {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/01_Charater_Poster_-_10.6.26_-_1.mp4"
-              },
-              {
-                "t": "p",
-                "x": "2. Character Arc, del cineasta Anurag Tiwari, permite visualizar a un mismo personaje en distintas edades y etapas de la vida sin perder su aspecto esencial. Lo está usando en su documental “Children of the Sun”."
-              },
-              {
-                "t": "p",
-                "x": "3. Pixel Machine, también de Anurag Tiwari, convierte imágenes en estilos bitmap, ASCII, CRT, pixel art y glitch para títulos, transiciones y visuales de videoclips."
-              },
-              {
-                "t": "p",
-                "x": "4. Lucid Glass, del artista y director creativo Ezra Paulekas, recrea cómo la luz atraviesa el vidrio y genera prismas, halos, refracciones y destellos ópticos: una \"lente imposible\"."
-              },
-              {
-                "t": "p",
-                "x": "5. Pocket Studio, del cineasta Ryan McCoy, convierte grabaciones cotidianas del teléfono en planos más pulidos: a partir de una sola toma genera varios ángulos de cámara y mejora la calidad visual, sin alterar la interpretación original del actor."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "kt-kds2-design-system",
-      "source_lang": "ko",
-      "eyebrow": "AI NEWS",
-      "headline": "KT KDS 2.0,\nAI가 읽는 디자인 시스템",
-      "body": "KT는 AI가 규칙대로 화면을 짜고 검수해 8개월 작업을 2개월 40일로 줄였다.",
-      "mini_headline": "KT, AI용 디자인 시스템",
-      "tool": "Design Tokens",
-      "source": "인더뉴스 (InTheNews)",
-      "url": "https://www.inthenews.co.kr/news/article.html?no=94443",
-      "accent": "#2ec5c5",
-      "motif": "swatch",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://www.inthenews.co.kr/data/photos/20261146/art_17944633067103_566c36.jpg",
-            "cap": "KT 직원들이 ‘KDS 2.0’과 AI 기반 ‘메시지 생성 에이전트’를 활용하는 모습. 사진｜KT"
-          },
-          {
-            "t": "p",
-            "x": "KT(대표이사 박윤영)는 AI 활용 기능을 강화한 UX 디자인시스템 ‘KDS(KT UX Design System) 2.0’을 구축하고, 고객 안내 메시지의 작성과 검수를 지원하는 AI 에이전트를 도입했다고 12일 밝혔습니다."
-          },
-          {
-            "t": "p",
-            "x": "2.0 버전에서는 사람이 참고하던 디자인 가이드를 AI도 직접 읽고 활용할 수 있도록 했습니다. AI가 디자인 기준에 맞춰 화면을 구성하고 결과물을 점검할 수 있는 ‘KDS 하네스(Harness)’를 구축해 반복되는 디자인 작업과 수정 부담을 줄였습니다."
-          },
-          {
-            "t": "p",
-            "x": "KT는 KDS를 마이케이티·KT닷컴·다이렉트샵 등에 적용하고 AI 모델 플랫폼 ‘토큰팩토리’ 등에 활용, 기획·디자인·개발 과정을 병렬로 진행하고 반복적인 코딩과 문서화 작업을 자동화했습니다. 총 424건의 기능 요구사항과 25개 컴포넌트, 약 110만 줄의 코드를 처리하는 과정에서 기존 방식으로 약 8개월이 소요될 작업을 2개월 40일 만에 수행해 개발 기간을 5개월 이상 단축했습니다."
-          },
-          {
-            "t": "p",
-            "x": "KT는 UX 라이팅 가이드를 정비해 ‘선납’은 ‘미리 납부’로, ‘종량 과금’은 ‘사용한 만큼 요금 청구’로 바꿨고, 10월 30일 사내에 AI 기반 ‘메시지 생성 에이전트’를 오픈했습니다. 메시지 작성·검수 시간은 기존 30~60분에서 약 5분으로, 이미지 제작은 4시간에서 15분으로 줄었고, 이틀 이상 걸리던 번역 작업은 30초로 단축됐습니다. 이달 20일에는 ‘고객 언어 에이전트’도 선보일 예정입니다."
-          },
-          {
-            "t": "p",
-            "x": "원만호 KT AX플랫폼본부장(상무)은 “KDS 2.0으로 디자인의 일관성을 높이고, 고객 커뮤니케이션 업무도 AX로 전환해 업무 생산성과 고객 경험을 함께 개선하고 있다”고 말했습니다."
-          }
-        ]
-      },
-      "text": {
-        "ko": {
-          "headline": "KT KDS 2.0,\nAI가 읽는 디자인 시스템",
-          "body": "KT는 AI가 규칙대로 화면을 짜고 검수해 8개월 작업을 2개월 40일로 줄였다.",
-          "mini_headline": "KT, AI용 디자인 시스템",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.inthenews.co.kr/data/photos/20261146/art_17944633067103_566c36.jpg",
-                "cap": "KT 직원들이 ‘KDS 2.0’과 AI 기반 ‘메시지 생성 에이전트’를 활용하는 모습. 사진｜KT"
-              },
-              {
-                "t": "p",
-                "x": "KT(대표이사 박윤영)는 AI 활용 기능을 강화한 UX 디자인시스템 ‘KDS(KT UX Design System) 2.0’을 구축하고, 고객 안내 메시지의 작성과 검수를 지원하는 AI 에이전트를 도입했다고 12일 밝혔습니다."
-              },
-              {
-                "t": "p",
-                "x": "2.0 버전에서는 사람이 참고하던 디자인 가이드를 AI도 직접 읽고 활용할 수 있도록 했습니다. AI가 디자인 기준에 맞춰 화면을 구성하고 결과물을 점검할 수 있는 ‘KDS 하네스(Harness)’를 구축해 반복되는 디자인 작업과 수정 부담을 줄였습니다."
-              },
-              {
-                "t": "p",
-                "x": "KT는 KDS를 마이케이티·KT닷컴·다이렉트샵 등에 적용하고 AI 모델 플랫폼 ‘토큰팩토리’ 등에 활용, 기획·디자인·개발 과정을 병렬로 진행하고 반복적인 코딩과 문서화 작업을 자동화했습니다. 총 424건의 기능 요구사항과 25개 컴포넌트, 약 110만 줄의 코드를 처리하는 과정에서 기존 방식으로 약 8개월이 소요될 작업을 2개월 40일 만에 수행해 개발 기간을 5개월 이상 단축했습니다."
-              },
-              {
-                "t": "p",
-                "x": "KT는 UX 라이팅 가이드를 정비해 ‘선납’은 ‘미리 납부’로, ‘종량 과금’은 ‘사용한 만큼 요금 청구’로 바꿨고, 10월 30일 사내에 AI 기반 ‘메시지 생성 에이전트’를 오픈했습니다. 메시지 작성·검수 시간은 기존 30~60분에서 약 5분으로, 이미지 제작은 4시간에서 15분으로 줄었고, 이틀 이상 걸리던 번역 작업은 30초로 단축됐습니다. 이달 20일에는 ‘고객 언어 에이전트’도 선보일 예정입니다."
-              },
-              {
-                "t": "p",
-                "x": "원만호 KT AX플랫폼본부장(상무)은 “KDS 2.0으로 디자인의 일관성을 높이고, 고객 커뮤니케이션 업무도 AX로 전환해 업무 생산성과 고객 경험을 함께 개선하고 있다”고 말했습니다."
-              }
-            ]
-          }
-        },
-        "en": {
-          "headline": "KT KDS 2.0, a design\nsystem that AI reads",
-          "body": "KT lets AI build and check screens by its rules, cutting 8 months of work to 2 months and 40 days.",
-          "mini_headline": "KT, a design system for AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.inthenews.co.kr/data/photos/20261146/art_17944633067103_566c36.jpg",
-                "cap": "KT employees using ‘KDS 2.0’ and the AI-based ‘message generation agent’. Photo｜KT"
-              },
-              {
-                "t": "p",
-                "x": "KT (CEO Park Yun-young) said on the 12th that it has built ‘KDS (KT UX Design System) 2.0’, a UX design system with stronger AI capabilities, and introduced an AI agent that helps write and review customer notification messages."
-              },
-              {
-                "t": "p",
-                "x": "In version 2.0, the design guide that people used to consult can now be read and used directly by AI as well. KT built the ‘KDS Harness’, which lets AI compose screens to the design standards and check the results, reducing repetitive design work and the burden of revisions."
-              },
-              {
-                "t": "p",
-                "x": "KT applied KDS to My KT, KT.com, Direct Shop and other services and used it for its AI model platform ‘Token Factory’, running planning, design and development in parallel and automating repetitive coding and documentation. In handling a total of 424 functional requirements, 25 components and about 110만 lines of code, it finished in 2 months and 40 days work that would have taken about 8 months the conventional way, shortening development by more than 5 months."
-              },
-              {
-                "t": "p",
-                "x": "KT revised its UX writing guide, replacing ‘prepayment’ with ‘pay in advance’ and ‘metered billing’ with ‘billed for what you use’, and on October 30 opened an AI-based ‘message generation agent’ internally. Time to write and review a message fell from 30 to 60 minutes to about 5 minutes, image production from 4 hours to 15 minutes, and translation work that used to take two days or more to 30 seconds. A ‘customer language agent’ is also set to debut on the 20th of this month."
-              },
-              {
-                "t": "p",
-                "x": "Won Man-ho, head of KT's AX Platform Division (senior vice president), said, “With KDS 2.0 we are raising design consistency and shifting customer communication work to AX as well, improving both work productivity and customer experience.”"
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "KT KDS 2.0、\nAIが読むデザインシステム",
-          "body": "KTはAIが規則どおりに画面を組み点検し、8か月の作業を2か月40日に縮めた。",
-          "mini_headline": "KT、AI向けデザインシステム",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.inthenews.co.kr/data/photos/20261146/art_17944633067103_566c36.jpg",
-                "cap": "KT社員が「KDS 2.0」とAIベースの「メッセージ生成エージェント」を活用する様子。写真｜KT"
-              },
-              {
-                "t": "p",
-                "x": "KT（代表取締役パク・ユンヨン）は、AI活用機能を強化したUXデザインシステム「KDS（KT UX Design System）2.0」を構築し、顧客向け案内メッセージの作成と検収を支援するAIエージェントを導入したと12日明らかにした。"
-              },
-              {
-                "t": "p",
-                "x": "2.0では、人が参照していたデザインガイドをAIも直接読み取って活用できるようにした。AIがデザイン基準に沿って画面を構成し、成果物を点検できる「KDSハーネス（Harness）」を構築し、繰り返しのデザイン作業と修正の負担を減らした。"
-              },
-              {
-                "t": "p",
-                "x": "KTはKDSをマイKT・KTドットコム・ダイレクトショップなどに適用し、AIモデルプラットフォーム「トークンファクトリー」などにも活用して、企画・デザイン・開発を並行して進め、繰り返しのコーディングと文書化作業を自動化した。計424件の機能要件と25のコンポーネント、約110万行のコードを処理する過程で、従来の方法なら約8か月かかる作業を2か月40日で終え、開発期間を5か月以上短縮した。"
-              },
-              {
-                "t": "p",
-                "x": "KTはUXライティングガイドを見直し、「先納」を「事前納付」に、「従量課金」を「使った分だけ料金請求」に改め、10月30日に社内でAIベースの「メッセージ生成エージェント」を公開した。メッセージの作成・検収時間は従来の30〜60分から約5分に、画像制作は4時間から15分に短縮され、二日以上かかっていた翻訳作業は30秒になった。今月20日には「顧客言語エージェント」も披露する予定だ。"
-              },
-              {
-                "t": "p",
-                "x": "ウォン・マンホKT AXプラットフォーム本部長（常務）は「KDS 2.0でデザインの一貫性を高め、顧客コミュニケーション業務もAXに転換し、業務生産性と顧客体験をともに改善している」と述べた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "KT KDS 2.0：\nAI能读懂的设计系统",
-          "body": "KT让AI按规则搭建并检查界面，把8个月的工作缩短至2个月40天。",
-          "mini_headline": "KT推出面向AI的设计系统",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.inthenews.co.kr/data/photos/20261146/art_17944633067103_566c36.jpg",
-                "cap": "KT员工使用“KDS 2.0”和基于AI的“消息生成智能体”。图片｜KT"
-              },
-              {
-                "t": "p",
-                "x": "KT（代表理事Park Yun-young）12日表示，已构建强化AI应用功能的UX设计系统“KDS（KT UX Design System）2.0”，并引入了辅助撰写和审核客户通知消息的AI智能体。"
-              },
-              {
-                "t": "p",
-                "x": "2.0版本让AI也能直接读取并使用原本供人参考的设计指南。KT构建了“KDS Harness”，让AI按照设计标准组织界面并检查结果，减轻了重复设计工作和修改负担。"
-              },
-              {
-                "t": "p",
-                "x": "KT将KDS应用于My KT、KT.com、Direct Shop等服务，并用于AI模型平台“Token Factory”等，使策划、设计、开发并行推进，并将重复的编码和文档工作自动化。在处理共424项功能需求、25个组件和约110万行代码的过程中，原本按传统方式需约8个月的工作仅用2个月40天完成，开发周期缩短5个月以上。"
-              },
-              {
-                "t": "p",
-                "x": "KT修订了UX写作指南，将“预缴”改为“提前缴费”，将“按量计费”改为“用多少付多少”，并于10月30日在公司内部上线基于AI的“消息生成智能体”。消息撰写与审核时间从原来的30~60分钟缩短至约5分钟，图片制作从4小时缩短至15分钟，原本需要两天以上的翻译工作缩短至30秒。本月20日还将推出“客户语言智能体”。"
-              },
-              {
-                "t": "p",
-                "x": "KT AX平台本部长（常务）Won Man-ho表示：“通过KDS 2.0提升设计一致性，同时把客户沟通业务也转向AX，正在同步改善工作效率和客户体验。”"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "KT KDS 2.0, un sistema de\ndiseño que lee la AI",
-          "body": "KT hace que la AI arme y revise pantallas según sus reglas y reduce 8 meses de trabajo a 2 meses y 40 días.",
-          "mini_headline": "KT, sistema de diseño para AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.inthenews.co.kr/data/photos/20261146/art_17944633067103_566c36.jpg",
-                "cap": "Empleados de KT usan ‘KDS 2.0’ y el ‘agente de generación de mensajes’ basado en AI. Foto｜KT"
-              },
-              {
-                "t": "p",
-                "x": "KT (consejero delegado: Park Yun-young) anunció el día 12 que ha creado ‘KDS (KT UX Design System) 2.0’, un sistema de diseño UX con funciones de AI reforzadas, y que ha incorporado un agente de AI que ayuda a redactar y revisar los mensajes informativos para clientes."
-              },
-              {
-                "t": "p",
-                "x": "En la versión 2.0, la guía de diseño que antes consultaban las personas también puede leerla y usarla directamente la AI. KT creó el ‘KDS Harness’, que permite a la AI componer pantallas según los criterios de diseño y revisar el resultado, lo que reduce el trabajo de diseño repetitivo y la carga de correcciones."
-              },
-              {
-                "t": "p",
-                "x": "KT aplicó KDS a My KT, KT.com, Direct Shop y otros servicios, y lo usó en su plataforma de modelos de AI ‘Token Factory’, entre otras, para llevar en paralelo la planificación, el diseño y el desarrollo y automatizar las tareas repetitivas de programación y documentación. Al procesar en total 424 requisitos funcionales, 25 componentes y unas 110만 líneas de código, completó en 2 meses y 40 días un trabajo que con el método anterior habría llevado unos 8 meses, y acortó el desarrollo en más de 5 meses."
-              },
-              {
-                "t": "p",
-                "x": "KT revisó su guía de redacción UX: cambió ‘prepago’ por ‘pagar por adelantado’ y ‘tarifa por consumo’ por ‘cobrar según lo usado’, y el 30 de octubre puso en marcha internamente un ‘agente de generación de mensajes’ basado en AI. El tiempo para redactar y revisar un mensaje bajó de 30 a 60 minutos a unos 5 minutos; la producción de imágenes, de 4 horas a 15 minutos, y las traducciones que llevaban dos días o más, a 30 segundos. El día 20 de este mes presentará también un ‘agente de lenguaje del cliente’."
-              },
-              {
-                "t": "p",
-                "x": "Won Man-ho, director de la División de Plataforma AX de KT (vicepresidente), dijo: “Con KDS 2.0 estamos mejorando la coherencia del diseño y llevando también a AX la comunicación con los clientes, para mejorar a la vez la productividad y la experiencia del cliente”."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "en": {
-          "headline": "KT KDS 2.0, a design\nsystem that AI reads",
-          "body": "KT lets AI build and check screens by its rules, cutting 8 months of work to 2 months and 40 days.",
-          "mini_headline": "KT, a design system for AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.inthenews.co.kr/data/photos/20261146/art_17944633067103_566c36.jpg",
-                "cap": "KT employees using ‘KDS 2.0’ and the AI-based ‘message generation agent’. Photo｜KT"
-              },
-              {
-                "t": "p",
-                "x": "KT (CEO Park Yun-young) said on the 12th that it has built ‘KDS (KT UX Design System) 2.0’, a UX design system with stronger AI capabilities, and introduced an AI agent that helps write and review customer notification messages."
-              },
-              {
-                "t": "p",
-                "x": "In version 2.0, the design guide that people used to consult can now be read and used directly by AI as well. KT built the ‘KDS Harness’, which lets AI compose screens to the design standards and check the results, reducing repetitive design work and the burden of revisions."
-              },
-              {
-                "t": "p",
-                "x": "KT applied KDS to My KT, KT.com, Direct Shop and other services and used it for its AI model platform ‘Token Factory’, running planning, design and development in parallel and automating repetitive coding and documentation. In handling a total of 424 functional requirements, 25 components and about 110만 lines of code, it finished in 2 months and 40 days work that would have taken about 8 months the conventional way, shortening development by more than 5 months."
-              },
-              {
-                "t": "p",
-                "x": "KT revised its UX writing guide, replacing ‘prepayment’ with ‘pay in advance’ and ‘metered billing’ with ‘billed for what you use’, and on October 30 opened an AI-based ‘message generation agent’ internally. Time to write and review a message fell from 30 to 60 minutes to about 5 minutes, image production from 4 hours to 15 minutes, and translation work that used to take two days or more to 30 seconds. A ‘customer language agent’ is also set to debut on the 20th of this month."
-              },
-              {
-                "t": "p",
-                "x": "Won Man-ho, head of KT's AX Platform Division (senior vice president), said, “With KDS 2.0 we are raising design consistency and shifting customer communication work to AX as well, improving both work productivity and customer experience.”"
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "KT KDS 2.0、\nAIが読むデザインシステム",
-          "body": "KTはAIが規則どおりに画面を組み点検し、8か月の作業を2か月40日に縮めた。",
-          "mini_headline": "KT、AI向けデザインシステム",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.inthenews.co.kr/data/photos/20261146/art_17944633067103_566c36.jpg",
-                "cap": "KT社員が「KDS 2.0」とAIベースの「メッセージ生成エージェント」を活用する様子。写真｜KT"
-              },
-              {
-                "t": "p",
-                "x": "KT（代表取締役パク・ユンヨン）は、AI活用機能を強化したUXデザインシステム「KDS（KT UX Design System）2.0」を構築し、顧客向け案内メッセージの作成と検収を支援するAIエージェントを導入したと12日明らかにした。"
-              },
-              {
-                "t": "p",
-                "x": "2.0では、人が参照していたデザインガイドをAIも直接読み取って活用できるようにした。AIがデザイン基準に沿って画面を構成し、成果物を点検できる「KDSハーネス（Harness）」を構築し、繰り返しのデザイン作業と修正の負担を減らした。"
-              },
-              {
-                "t": "p",
-                "x": "KTはKDSをマイKT・KTドットコム・ダイレクトショップなどに適用し、AIモデルプラットフォーム「トークンファクトリー」などにも活用して、企画・デザイン・開発を並行して進め、繰り返しのコーディングと文書化作業を自動化した。計424件の機能要件と25のコンポーネント、約110万行のコードを処理する過程で、従来の方法なら約8か月かかる作業を2か月40日で終え、開発期間を5か月以上短縮した。"
-              },
-              {
-                "t": "p",
-                "x": "KTはUXライティングガイドを見直し、「先納」を「事前納付」に、「従量課金」を「使った分だけ料金請求」に改め、10月30日に社内でAIベースの「メッセージ生成エージェント」を公開した。メッセージの作成・検収時間は従来の30〜60分から約5分に、画像制作は4時間から15分に短縮され、二日以上かかっていた翻訳作業は30秒になった。今月20日には「顧客言語エージェント」も披露する予定だ。"
-              },
-              {
-                "t": "p",
-                "x": "ウォン・マンホKT AXプラットフォーム本部長（常務）は「KDS 2.0でデザインの一貫性を高め、顧客コミュニケーション業務もAXに転換し、業務生産性と顧客体験をともに改善している」と述べた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "KT KDS 2.0：\nAI能读懂的设计系统",
-          "body": "KT让AI按规则搭建并检查界面，把8个月的工作缩短至2个月40天。",
-          "mini_headline": "KT推出面向AI的设计系统",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.inthenews.co.kr/data/photos/20261146/art_17944633067103_566c36.jpg",
-                "cap": "KT员工使用“KDS 2.0”和基于AI的“消息生成智能体”。图片｜KT"
-              },
-              {
-                "t": "p",
-                "x": "KT（代表理事Park Yun-young）12日表示，已构建强化AI应用功能的UX设计系统“KDS（KT UX Design System）2.0”，并引入了辅助撰写和审核客户通知消息的AI智能体。"
-              },
-              {
-                "t": "p",
-                "x": "2.0版本让AI也能直接读取并使用原本供人参考的设计指南。KT构建了“KDS Harness”，让AI按照设计标准组织界面并检查结果，减轻了重复设计工作和修改负担。"
-              },
-              {
-                "t": "p",
-                "x": "KT将KDS应用于My KT、KT.com、Direct Shop等服务，并用于AI模型平台“Token Factory”等，使策划、设计、开发并行推进，并将重复的编码和文档工作自动化。在处理共424项功能需求、25个组件和约110万行代码的过程中，原本按传统方式需约8个月的工作仅用2个月40天完成，开发周期缩短5个月以上。"
-              },
-              {
-                "t": "p",
-                "x": "KT修订了UX写作指南，将“预缴”改为“提前缴费”，将“按量计费”改为“用多少付多少”，并于10月30日在公司内部上线基于AI的“消息生成智能体”。消息撰写与审核时间从原来的30~60分钟缩短至约5分钟，图片制作从4小时缩短至15分钟，原本需要两天以上的翻译工作缩短至30秒。本月20日还将推出“客户语言智能体”。"
-              },
-              {
-                "t": "p",
-                "x": "KT AX平台本部长（常务）Won Man-ho表示：“通过KDS 2.0提升设计一致性，同时把客户沟通业务也转向AX，正在同步改善工作效率和客户体验。”"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "KT KDS 2.0, un sistema de\ndiseño que lee la AI",
-          "body": "KT hace que la AI arme y revise pantallas según sus reglas y reduce 8 meses de trabajo a 2 meses y 40 días.",
-          "mini_headline": "KT, sistema de diseño para AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.inthenews.co.kr/data/photos/20261146/art_17944633067103_566c36.jpg",
-                "cap": "Empleados de KT usan ‘KDS 2.0’ y el ‘agente de generación de mensajes’ basado en AI. Foto｜KT"
-              },
-              {
-                "t": "p",
-                "x": "KT (consejero delegado: Park Yun-young) anunció el día 12 que ha creado ‘KDS (KT UX Design System) 2.0’, un sistema de diseño UX con funciones de AI reforzadas, y que ha incorporado un agente de AI que ayuda a redactar y revisar los mensajes informativos para clientes."
-              },
-              {
-                "t": "p",
-                "x": "En la versión 2.0, la guía de diseño que antes consultaban las personas también puede leerla y usarla directamente la AI. KT creó el ‘KDS Harness’, que permite a la AI componer pantallas según los criterios de diseño y revisar el resultado, lo que reduce el trabajo de diseño repetitivo y la carga de correcciones."
-              },
-              {
-                "t": "p",
-                "x": "KT aplicó KDS a My KT, KT.com, Direct Shop y otros servicios, y lo usó en su plataforma de modelos de AI ‘Token Factory’, entre otras, para llevar en paralelo la planificación, el diseño y el desarrollo y automatizar las tareas repetitivas de programación y documentación. Al procesar en total 424 requisitos funcionales, 25 componentes y unas 110만 líneas de código, completó en 2 meses y 40 días un trabajo que con el método anterior habría llevado unos 8 meses, y acortó el desarrollo en más de 5 meses."
-              },
-              {
-                "t": "p",
-                "x": "KT revisó su guía de redacción UX: cambió ‘prepago’ por ‘pagar por adelantado’ y ‘tarifa por consumo’ por ‘cobrar según lo usado’, y el 30 de octubre puso en marcha internamente un ‘agente de generación de mensajes’ basado en AI. El tiempo para redactar y revisar un mensaje bajó de 30 a 60 minutos a unos 5 minutos; la producción de imágenes, de 4 horas a 15 minutos, y las traducciones que llevaban dos días o más, a 30 segundos. El día 20 de este mes presentará también un ‘agente de lenguaje del cliente’."
-              },
-              {
-                "t": "p",
-                "x": "Won Man-ho, director de la División de Plataforma AX de KT (vicepresidente), dijo: “Con KDS 2.0 estamos mejorando la coherencia del diseño y llevando también a AX la comunicación con los clientes, para mejorar a la vez la productividad y la experiencia del cliente”."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "rhino9-mcneel-ai",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Rhino World에서\nMcNeel, AI 개방",
-      "body": "McNeel은 Rhino World 2026에서 사업 모델은 지키며 AI를 품었다.",
-      "mini_headline": "McNeel, Rhino에 AI 허용",
+      "headline": "MIT 코파일럿\n생성 도중 설계자에 묻다",
+      "body": "MIT 코파일럿은 생성 도중 설계자 피드백을 받아 좌굴 하중을 높인다.",
+      "mini_headline": "MIT 설계 코파일럿, 먼저 묻다",
       "tool": "Text-to-CAD",
-      "source": "AEC Magazine",
-      "url": "https://aecmag.com/cad/rhino-world-2026-mcneel-lets-ai-in/",
+      "source": "MIT News",
+      "url": "https://news.mit.edu/2026/new-ai-copilot-helps-engineers-design-better-structures-1113",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
@@ -1085,197 +19,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://aecmag.com/wp-content/uploads/2026/11/RhinoAI.jpg"
+            "src": "https://news.mit.edu/sites/default/files/images/202611/MIT-ai-design-01-press.jpg"
           },
           {
             "t": "p",
-            "x": "McNeel이 Rhino 9(10월 28일 출시)를 조용히 배포하는 사이, Campbell Yule이 Rhino World 2026 현장에서 이 회사가 사업 모델을 지키며 AI를 받아들이는 방식을 전한다. 가격과 업그레이드 비용은 그대로다. Rhino 9 라이선스로 Rhino 6, 7, 8도 실행할 수 있다. 창업자이자 CEO인 Bob McNeel은 “달라진 것은 없지만, 모든 것이 달라졌다”고 말했다."
+            "x": "최고 수준의 알고리즘 설계 기법도 계산과 시간이 많이 든다. 사용자는 설계가 끝나야 최종 결과를 볼 수 있고, 고치려면 처음부터 다시 시작해야 할 때가 많다. MIT 연구진은 AI 코파일럿처럼 움직이는 시스템으로 알고리즘 설계에 협업을 들이고 있다. 알고리즘이 구조를 만드는 동안 시스템이 특정 영역을 설계자에게 보여 주고 피드백을 받는다."
           },
           {
             "t": "p",
-            "x": "McNeel은 내부 개발과 테스트에 AI를 쓴다. Claude Opus가 나온 뒤 Steve Baer는 생산성이 20% 오르리라 봤지만, 실제로는 세 배 가까이 뛰었다. 그와 Andy Le Bihan이 근무일 하루에 병합한 풀 리퀘스트는 3.3건에서 9.5건으로 늘었다. 변경 사항은 지금도 병합 전에 검토를 거친다."
-          },
-          {
-            "t": "img",
-            "src": "https://aecmag.com/wp-content/uploads/2026/11/RhinoAI-1.jpg"
+            "x": "연구진은 오픈 액세스 학술지 Communications Engineering에 실은 논문에서 이 방식이 완전 알고리즘 방식보다 총 설계 시간은 15초만 늘리면서 제조하기 더 쉽고 좌굴 하중이 더 높은 구조를 만든다고 밝혔다. 시스템은 위상 최적화를 쓴다. 수천 개 설계에 사람이 줄 법한 피드백을 모은 합성 데이터셋으로 머신러닝을 학습시켜, 사람이 가장 손대고 싶어 할 영역을 빠르게 찾아낸다."
           },
           {
             "t": "p",
-            "x": "RhinoAI는 Callum Sykes가 Claude Code로 만든 오픈소스 플러그인으로, MCP 서버를 거쳐 AI 에이전트를 Rhino에 연결한다. Rhino 안에서는 패널이 Claude나 Codex 같은 에이전트를 찾아 주고, 밖에서는 사용자가 모델과 에이전트를 직접 가져오면 된다."
+            "x": "시연에서 사람이 개입하는 human-in-the-loop 방식은 총 설계 시간을 조금 늘리는 대신 제조 용이성과 선형 좌굴 하중을 39퍼센트 개선했다. 지금은 사용자가 지정된 영역 안의 구조를 두껍게 하거나 얇게 하는 것만 할 수 있다."
           },
           {
             "t": "p",
-            "x": "테스트에서 에이전트는 삼면도를 보고 시트러스 착즙기를 만든 뒤 파라메트릭 Grasshopper 2 모델로 바꿨다. 건축 테스트는 결과가 들쭉날쭉했다. 경기장 모델은 에이전트가 이미지를 더 받기 전까지 실패했다. Rhino.Compute는 이제 Linux에서도 돌아간다."
+            "x": "“설계자의 머릿속을 활용해, 설계가 진화하는 동안 그들의 도메인 지식을 불어넣게 하자는 것이다.” 책임 저자 Josephine Carstensen의 말이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "McNeel opens Rhino\nto AI at Rhino World",
-          "body": "At Rhino World 2026, McNeel showed how it is bringing AI into Rhino while keeping its business model unchanged.",
-          "mini_headline": "McNeel lets AI into Rhino",
+          "headline": "MIT copilot asks designers\nfor feedback mid-generation",
+          "body": "An MIT copilot pauses mid-generation to ask designers for feedback, yielding parts with higher buckling loads.",
+          "mini_headline": "MIT design copilot asks first",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/RhinoAI.jpg"
+                "src": "https://news.mit.edu/sites/default/files/images/202611/MIT-ai-design-01-press.jpg"
               },
               {
                 "t": "p",
-                "x": "As McNeel quietly rolls out Rhino 9 (released 28 October), Campbell Yule reports from Rhino World 2026 on how the company is embracing AI while retaining its business model: prices and upgrade costs are unchanged, and a Rhino 9 licence also runs Rhino 6, 7 and 8. “Nothing’s changed, everything has changed,” said founder and CEO Bob McNeel."
+                "x": "The best algorithmic design techniques still require lots of computation and time: users only see the final design after it’s complete, and often must start over to make changes. MIT researchers are making algorithmic designs more collaborative with a system that acts like an AI copilot. As the algorithm is generating the structure, it presents regions to the human designer for feedback."
               },
               {
                 "t": "p",
-                "x": "McNeel uses AI internally as a development and testing tool. After Claude Opus arrived, Steve Baer expected a 20% productivity gain; what they got was closer to three times. He and Andy Le Bihan went from 3.3 merged pull requests per working day to 9.5. Changes are still reviewed before merging."
-              },
-              {
-                "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/RhinoAI-1.jpg"
+                "x": "In an open-access Communications Engineering paper, the researchers showed it led to more easily manufacturable structures with higher buckling loads while adding only 15 seconds to the total design time compared to all-algorithmic approaches. The system, which uses topology optimization, relies on machine learning trained on a synthetic dataset of probable human feedback to thousands of designs to quickly identify the regions a human would most likely want to change."
               },
               {
                 "t": "p",
-                "x": "RhinoAI, built by Callum Sykes with Claude Code, is an open-source plug-in that connects AI agents to Rhino through an MCP server. Inside Rhino, a panel finds agents such as Claude or Codex; outside, you bring your own model and agent."
+                "x": "In demonstrations, the human-in-the-loop approach improved manufacturability and linear buckling load by 39 percent while only modestly increasing the total design time. For now, users can only make structures within identified regions thicker or thinner."
               },
               {
                 "t": "p",
-                "x": "In tests, an agent built a citrus juicer from a three-view drawing and turned it into a parametric Grasshopper 2 model. Architectural tests were more uneven: a stadium model failed until the agent got more images. Rhino.Compute now also runs on Linux."
+                "x": "“The idea is to tap into the brains of the designers and get them to infuse their domain knowledge as the design evolves,” says senior author Josephine Carstensen."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Rhino World에서\nMcNeel, AI 개방",
-          "body": "McNeel은 Rhino World 2026에서 사업 모델은 지키며 AI를 품었다.",
-          "mini_headline": "McNeel, Rhino에 AI 허용",
+          "headline": "MIT 코파일럿\n생성 도중 설계자에 묻다",
+          "body": "MIT 코파일럿은 생성 도중 설계자 피드백을 받아 좌굴 하중을 높인다.",
+          "mini_headline": "MIT 설계 코파일럿, 먼저 묻다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/RhinoAI.jpg"
+                "src": "https://news.mit.edu/sites/default/files/images/202611/MIT-ai-design-01-press.jpg"
               },
               {
                 "t": "p",
-                "x": "McNeel이 Rhino 9(10월 28일 출시)를 조용히 배포하는 사이, Campbell Yule이 Rhino World 2026 현장에서 이 회사가 사업 모델을 지키며 AI를 받아들이는 방식을 전한다. 가격과 업그레이드 비용은 그대로다. Rhino 9 라이선스로 Rhino 6, 7, 8도 실행할 수 있다. 창업자이자 CEO인 Bob McNeel은 “달라진 것은 없지만, 모든 것이 달라졌다”고 말했다."
+                "x": "최고 수준의 알고리즘 설계 기법도 계산과 시간이 많이 든다. 사용자는 설계가 끝나야 최종 결과를 볼 수 있고, 고치려면 처음부터 다시 시작해야 할 때가 많다. MIT 연구진은 AI 코파일럿처럼 움직이는 시스템으로 알고리즘 설계에 협업을 들이고 있다. 알고리즘이 구조를 만드는 동안 시스템이 특정 영역을 설계자에게 보여 주고 피드백을 받는다."
               },
               {
                 "t": "p",
-                "x": "McNeel은 내부 개발과 테스트에 AI를 쓴다. Claude Opus가 나온 뒤 Steve Baer는 생산성이 20% 오르리라 봤지만, 실제로는 세 배 가까이 뛰었다. 그와 Andy Le Bihan이 근무일 하루에 병합한 풀 리퀘스트는 3.3건에서 9.5건으로 늘었다. 변경 사항은 지금도 병합 전에 검토를 거친다."
-              },
-              {
-                "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/RhinoAI-1.jpg"
+                "x": "연구진은 오픈 액세스 학술지 Communications Engineering에 실은 논문에서 이 방식이 완전 알고리즘 방식보다 총 설계 시간은 15초만 늘리면서 제조하기 더 쉽고 좌굴 하중이 더 높은 구조를 만든다고 밝혔다. 시스템은 위상 최적화를 쓴다. 수천 개 설계에 사람이 줄 법한 피드백을 모은 합성 데이터셋으로 머신러닝을 학습시켜, 사람이 가장 손대고 싶어 할 영역을 빠르게 찾아낸다."
               },
               {
                 "t": "p",
-                "x": "RhinoAI는 Callum Sykes가 Claude Code로 만든 오픈소스 플러그인으로, MCP 서버를 거쳐 AI 에이전트를 Rhino에 연결한다. Rhino 안에서는 패널이 Claude나 Codex 같은 에이전트를 찾아 주고, 밖에서는 사용자가 모델과 에이전트를 직접 가져오면 된다."
+                "x": "시연에서 사람이 개입하는 human-in-the-loop 방식은 총 설계 시간을 조금 늘리는 대신 제조 용이성과 선형 좌굴 하중을 39퍼센트 개선했다. 지금은 사용자가 지정된 영역 안의 구조를 두껍게 하거나 얇게 하는 것만 할 수 있다."
               },
               {
                 "t": "p",
-                "x": "테스트에서 에이전트는 삼면도를 보고 시트러스 착즙기를 만든 뒤 파라메트릭 Grasshopper 2 모델로 바꿨다. 건축 테스트는 결과가 들쭉날쭉했다. 경기장 모델은 에이전트가 이미지를 더 받기 전까지 실패했다. Rhino.Compute는 이제 Linux에서도 돌아간다."
+                "x": "“설계자의 머릿속을 활용해, 설계가 진화하는 동안 그들의 도메인 지식을 불어넣게 하자는 것이다.” 책임 저자 Josephine Carstensen의 말이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Rhino Worldで\nMcNeelがAIを解禁",
-          "body": "McNeelはRhino World 2026で、事業モデルを保ったままAI導入を示した。",
-          "mini_headline": "McNeel、RhinoにAI導入",
+          "headline": "MITのコパイロット、\n生成途中で設計者に問う",
+          "body": "MITのコパイロットは生成途中で設計者に意見を求め、座屈荷重の高い部品を生む。",
+          "mini_headline": "MITの設計コパイロット、先に聞く",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/RhinoAI.jpg"
+                "src": "https://news.mit.edu/sites/default/files/images/202611/MIT-ai-design-01-press.jpg"
               },
               {
                 "t": "p",
-                "x": "McNeelがRhino 9（10月28日リリース）を静かに展開するなか、Campbell YuleがRhino World 2026から、同社が事業モデルを維持しつつAIを取り入れる様子を伝える。価格とアップグレード費用は据え置きで、Rhino 9のライセンスでRhino 6、7、8も動かせる。創業者でCEOのBob McNeelは「何も変わっていないが、すべてが変わった」と語った。"
+                "x": "最先端のアルゴリズム設計手法でも、依然として膨大な計算と時間を要する。ユーザーは設計が完了して初めて最終形を目にし、変更するには最初からやり直さなければならないことも多い。MITの研究者らは、AIコパイロットのように振る舞うシステムで、アルゴリズム設計をより協働的なものにしようとしている。アルゴリズムが構造を生成している間に、システムが領域を人間の設計者に提示してフィードバックを求める。"
               },
               {
                 "t": "p",
-                "x": "McNeelは社内でAIを開発・テストのツールとして使っている。Claude Opusの登場後、Steve Baerは生産性が20%上がると見込んでいたが、実際には三倍近くになった。彼とAndy Le Bihanがマージしたプルリクエストは、営業日あたり3.3件から9.5件に増えた。変更は今もマージ前にレビューされる。"
-              },
-              {
-                "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/RhinoAI-1.jpg"
+                "x": "研究者らはオープンアクセス誌Communications Engineeringの論文で、完全にアルゴリズムに任せる手法と比べて総設計時間の増加をわずか15秒に抑えつつ、製造しやすく座屈荷重の高い構造が得られることを示した。トポロジー最適化を用いるこのシステムは、数千の設計に対して人間が与えそうなフィードバックを集めた合成データセットで学習した機械学習により、人間が最も変更したがりそうな領域を素早く特定する。"
               },
               {
                 "t": "p",
-                "x": "Callum SykesがClaude Codeで作ったRhinoAIは、MCPサーバーを介してAIエージェントをRhinoにつなぐオープンソースのプラグインだ。Rhino内ではパネルがClaudeやCodexなどのエージェントを見つけ、外部では自前のモデルとエージェントを持ち込める。"
+                "x": "デモでは、人間が関与するhuman-in-the-loop方式が、総設計時間をわずかに増やすだけで、製造性と線形座屈荷重を39パーセント改善した。現時点でユーザーができるのは、特定された領域内の構造を厚くするか薄くすることだけだ。"
               },
               {
                 "t": "p",
-                "x": "テストでは、エージェントが三面図から柑橘用ジューサーを作り、パラメトリックなGrasshopper 2 モデルに変換した。建築分野のテストはばらつきが大きく、スタジアムのモデルはエージェントが画像を追加で受け取るまで失敗した。Rhino.ComputeはLinuxでも動くようになった。"
+                "x": "「設計者の頭脳を活用し、設計が進化するなかで彼らの領域知識を注ぎ込んでもらうという考えだ」と、責任著者のJosephine Carstensenは語る。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Rhino World上\nMcNeel向AI开放",
-          "body": "McNeel在Rhino World 2026上展示了不改商业模式而引入AI的做法。",
-          "mini_headline": "McNeel让AI进入Rhino",
+          "headline": "MIT设计副驾驶\n生成途中征求反馈",
+          "body": "MIT的设计副驾驶在生成途中暂停征求设计师反馈，造出屈曲载荷更高的部件。",
+          "mini_headline": "MIT设计副驾驶先问一句",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/RhinoAI.jpg"
+                "src": "https://news.mit.edu/sites/default/files/images/202611/MIT-ai-design-01-press.jpg"
               },
               {
                 "t": "p",
-                "x": "McNeel悄然推出Rhino 9（10月28日发布）之际，Campbell Yule在Rhino World 2026现场报道了这家公司如何在保留商业模式的同时拥抱AI：价格和升级费用不变，Rhino 9许可证也可运行Rhino 6、7和8。创始人兼CEO Bob McNeel说：“什么都没变，一切都变了。”"
+                "x": "最好的算法设计技术仍需要大量计算和时间：用户只能在设计完成后看到最终结果，而且想要修改时往往必须从头再来。MIT研究人员正借助一套类似AI副驾驶的系统，让算法设计更具协作性。在算法生成结构的过程中，系统会把部分区域呈现给人类设计师，征求反馈。"
               },
               {
                 "t": "p",
-                "x": "McNeel在内部把AI用作开发和测试工具。Claude Opus问世后，Steve Baer预计生产率会提升20%，实际结果接近三倍。他和Andy Le Bihan每个工作日合并的拉取请求从3.3个增至9.5个。代码变更在合并前仍需审查。"
-              },
-              {
-                "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/RhinoAI-1.jpg"
+                "x": "研究人员在发表于开放获取期刊Communications Engineering的论文中表明，与完全依靠算法的方法相比，这种方式只让总设计时间增加 15 秒，却能得到更易制造、屈曲载荷更高的结构。该系统采用拓扑优化，依靠在合成数据集上训练的机器学习——数据集包含人类对数千个设计可能给出的反馈——来快速识别人类最可能想修改的区域。"
               },
               {
                 "t": "p",
-                "x": "RhinoAI由Callum Sykes借助Claude Code开发，是一款通过MCP服务器把AI智能体连接到Rhino的开源插件。在Rhino内部，面板可以找到Claude或Codex等智能体；在外部，用户可以自带模型和智能体。"
+                "x": "在演示中，这种人在回路（human-in-the-loop）方法将可制造性和线性屈曲载荷提升了39%，而总设计时间仅略有增加。目前，用户只能把已识别区域内的结构加厚或减薄。"
               },
               {
                 "t": "p",
-                "x": "测试中，一个智能体根据三视图做出了柑橘榨汁机，并把它转换为参数化的Grasshopper 2 模型。建筑方面的测试结果参差不齐：体育场模型直到智能体获得更多图像后才成功。Rhino.Compute现在也能在Linux上运行。"
+                "x": "“我们的想法是借助设计师的大脑，让他们在设计演进过程中注入自己的领域知识，”资深作者Josephine Carstensen说。"
               }
             ]
           }
         },
         "es": {
-          "headline": "McNeel abre Rhino a la AI\nen Rhino World",
-          "body": "En Rhino World 2026, McNeel mostró cómo lleva la AI a Rhino sin cambiar su modelo de negocio.",
-          "mini_headline": "McNeel abre Rhino a la AI",
+          "headline": "Copiloto del MIT pide opinión\na diseñadores mientras genera",
+          "body": "Un copiloto del MIT pausa la generación para consultar a los diseñadores y logra piezas con mayor carga de pandeo.",
+          "mini_headline": "El copiloto de diseño del MIT pregunta primero",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/RhinoAI.jpg"
+                "src": "https://news.mit.edu/sites/default/files/images/202611/MIT-ai-design-01-press.jpg"
               },
               {
                 "t": "p",
-                "x": "Mientras McNeel lanza discretamente Rhino 9 (publicado el 28 de octubre), Campbell Yule informa desde Rhino World 2026 sobre cómo la empresa adopta la AI sin renunciar a su modelo de negocio: los precios y el coste de actualización no cambian, y una licencia de Rhino 9 también permite usar Rhino 6, 7 y 8. “No ha cambiado nada, lo ha cambiado todo”, dijo el fundador y CEO, Bob McNeel."
+                "x": "Las mejores técnicas de diseño algorítmico todavía exigen mucho cálculo y tiempo: los usuarios solo ven el diseño final cuando está terminado y, a menudo, deben empezar de nuevo para hacer cambios. Investigadores del MIT están haciendo que los diseños algorítmicos sean más colaborativos con un sistema que actúa como un copiloto de AI. Mientras el algoritmo genera la estructura, presenta regiones al diseñador humano para que opine."
               },
               {
                 "t": "p",
-                "x": "McNeel usa la AI internamente como herramienta de desarrollo y pruebas. Tras la llegada de Claude Opus, Steve Baer esperaba un aumento de productividad del 20%; lo que obtuvieron se acercó a tres veces más. Él y Andy Le Bihan pasaron de 3.3 pull requests fusionadas por día laborable a 9.5. Los cambios se siguen revisando antes de fusionarlos."
-              },
-              {
-                "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/RhinoAI-1.jpg"
+                "x": "En un artículo de acceso abierto en Communications Engineering, los investigadores mostraron que el sistema produjo estructuras más fáciles de fabricar y con mayores cargas de pandeo, y que solo añadió 15 segundos al tiempo total de diseño frente a los enfoques puramente algorítmicos. El sistema, que usa optimización topológica, se apoya en aprendizaje automático entrenado con un conjunto de datos sintético de probables comentarios humanos sobre miles de diseños para identificar con rapidez las regiones que una persona probablemente querría cambiar."
               },
               {
                 "t": "p",
-                "x": "RhinoAI, creado por Callum Sykes con Claude Code, es un plug-in de código abierto que conecta agentes de AI con Rhino mediante un servidor MCP. Dentro de Rhino, un panel localiza agentes como Claude o Codex; fuera, cada usuario aporta su propio modelo y agente."
+                "x": "En las demostraciones, el enfoque human-in-the-loop mejoró la fabricabilidad y la carga de pandeo lineal en un 39 por ciento, con un aumento apenas moderado del tiempo total de diseño. Por ahora, los usuarios solo pueden hacer más gruesas o más delgadas las estructuras dentro de las regiones identificadas."
               },
               {
                 "t": "p",
-                "x": "En las pruebas, un agente construyó un exprimidor de cítricos a partir de un dibujo en tres vistas y lo convirtió en un modelo paramétrico de Grasshopper 2. Las pruebas arquitectónicas fueron más desiguales: un modelo de estadio falló hasta que el agente recibió más imágenes. Rhino.Compute ahora también funciona en Linux."
+                "x": "“La idea es aprovechar el cerebro de los diseñadores y lograr que incorporen su conocimiento del dominio a medida que evoluciona el diseño”, afirma la autora principal, Josephine Carstensen."
               }
             ]
           }
@@ -1283,137 +193,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Rhino World에서\nMcNeel, AI 개방",
-          "body": "McNeel은 Rhino World 2026에서 사업 모델 그대로 AI를 품었다.",
-          "mini_headline": "McNeel, Rhino에 AI 허용",
+          "headline": "MIT 코파일럿,\n생성 중 설계자에 묻다",
+          "body": "MIT 코파일럿은 생성 중 설계자 피드백을 구해 좌굴 하중을 높인다.",
+          "mini_headline": "MIT 설계 코파일럿, 먼저 묻다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/RhinoAI.jpg"
+                "src": "https://news.mit.edu/sites/default/files/images/202611/MIT-ai-design-01-press.jpg"
               },
               {
                 "t": "p",
-                "x": "McNeel이 Rhino 9(10월 28일 출시)를 조용히 배포하는 가운데, Campbell Yule이 Rhino World 2026 현장에서 이 회사가 사업 모델을 유지하면서 AI를 받아들이는 방식을 전한다. 가격과 업그레이드 비용은 그대로이고, Rhino 9 라이선스로 Rhino 6, 7, 8도 실행할 수 있다. 창업자이자 CEO인 Bob McNeel은 “달라진 것은 없지만, 모든 것이 달라졌다”고 말했다."
+                "x": "최고 수준의 알고리즘 설계 기법도 여전히 많은 계산과 시간을 요구한다. 사용자는 설계가 끝난 뒤에야 최종 결과를 볼 수 있고, 수정하려면 처음부터 다시 시작해야 할 때가 많다. MIT 연구진은 AI 코파일럿처럼 작동하는 시스템으로 알고리즘 설계를 더 협업적으로 바꾸고 있다. 알고리즘이 구조를 생성하는 동안 시스템이 특정 영역을 인간 설계자에게 보여 주고 피드백을 받는다."
               },
               {
                 "t": "p",
-                "x": "McNeel은 내부에서 AI를 개발·테스트 도구로 쓴다. Claude Opus가 나온 뒤 Steve Baer는 생산성이 20% 오를 것으로 예상했지만, 실제로는 세 배 가까이 뛰었다. 그와 Andy Le Bihan이 근무일 하루에 병합한 풀 리퀘스트는 3.3건에서 9.5건으로 늘었다. 변경 사항은 지금도 병합 전에 검토를 거친다."
-              },
-              {
-                "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/RhinoAI-1.jpg"
+                "x": "연구진은 오픈 액세스 학술지 Communications Engineering에 실은 논문에서, 이 방식이 완전 알고리즘 방식보다 총 설계 시간을 15초만 늘리면서 제조하기 더 쉽고 좌굴 하중이 더 높은 구조를 만든다고 밝혔다. 위상 최적화를 쓰는 이 시스템은 수천 개 설계에 사람이 줄 법한 피드백을 모은 합성 데이터셋으로 학습한 머신러닝을 활용해, 사람이 가장 바꾸고 싶어 할 영역을 빠르게 찾아낸다."
               },
               {
                 "t": "p",
-                "x": "Callum Sykes가 Claude Code로 만든 RhinoAI는 MCP 서버를 통해 AI 에이전트를 Rhino에 연결하는 오픈소스 플러그인이다. Rhino 안에서는 패널이 Claude나 Codex 같은 에이전트를 찾아 주고, 밖에서는 사용자가 직접 모델과 에이전트를 가져오면 된다."
+                "x": "시연에서 사람이 개입하는 human-in-the-loop 방식은 총 설계 시간을 소폭만 늘리면서 제조 용이성과 선형 좌굴 하중을 39퍼센트 개선했다. 현재 사용자는 지정된 영역 안의 구조를 더 두껍게 하거나 더 얇게 하는 것만 할 수 있다."
               },
               {
                 "t": "p",
-                "x": "테스트에서 에이전트는 삼면도를 바탕으로 시트러스 착즙기를 만들고 이를 파라메트릭 Grasshopper 2 모델로 바꿨다. 건축 테스트 결과는 들쭉날쭉했다. 경기장 모델은 에이전트가 이미지를 더 받기 전까지 실패했다. Rhino.Compute는 이제 Linux에서도 돌아간다."
+                "x": "“설계자의 머릿속을 활용해, 설계가 진화하는 동안 그들의 도메인 지식을 불어넣게 하자는 것이다.” 책임 저자 Josephine Carstensen의 말이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Rhino Worldで\nMcNeelがAIを解禁",
-          "body": "McNeelはRhino World 2026で、事業モデルを保ったままAI導入を示した。",
-          "mini_headline": "McNeel、RhinoにAI導入",
+          "headline": "MITのコパイロット、\n生成途中で設計者に問う",
+          "body": "MITのコパイロットは生成途中で設計者に意見を求め、座屈荷重の高い部品を生む。",
+          "mini_headline": "MITの設計コパイロット、先に聞く",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/RhinoAI.jpg"
+                "src": "https://news.mit.edu/sites/default/files/images/202611/MIT-ai-design-01-press.jpg"
               },
               {
                 "t": "p",
-                "x": "McNeelがRhino 9（10月28日リリース）を静かに展開するなか、Campbell YuleがRhino World 2026から、同社が事業モデルを維持しつつAIを取り入れる様子を伝える。価格とアップグレード費用は据え置きで、Rhino 9のライセンスでRhino 6、7、8も動かせる。創業者でCEOのBob McNeelは「何も変わっていないが、すべてが変わった」と語った。"
+                "x": "最先端のアルゴリズム設計手法でも、依然として膨大な計算と時間を要する。ユーザーは設計が完了して初めて最終形を目にし、変更するには最初からやり直さなければならないことも多い。MITの研究者らは、AIコパイロットのように振る舞うシステムで、アルゴリズム設計をより協働的なものにしようとしている。アルゴリズムが構造を生成している間に、システムが領域を人間の設計者に提示してフィードバックを求める。"
               },
               {
                 "t": "p",
-                "x": "McNeelは社内でAIを開発・テストのツールとして使っている。Claude Opusの登場後、Steve Baerは生産性が20%上がると見込んでいたが、実際には三倍近くになった。彼とAndy Le Bihanがマージしたプルリクエストは、営業日あたり3.3件から9.5件に増えた。変更は今もマージ前にレビューされる。"
-              },
-              {
-                "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/RhinoAI-1.jpg"
+                "x": "研究者らはオープンアクセス誌Communications Engineeringの論文で、完全にアルゴリズムに任せる手法と比べて総設計時間の増加をわずか15秒に抑えつつ、製造しやすく座屈荷重の高い構造が得られることを示した。トポロジー最適化を用いるこのシステムは、数千の設計に対して人間が与えそうなフィードバックを集めた合成データセットで学習した機械学習により、人間が最も変更したがりそうな領域を素早く特定する。"
               },
               {
                 "t": "p",
-                "x": "Callum SykesがClaude Codeで作ったRhinoAIは、MCPサーバーを介してAIエージェントをRhinoにつなぐオープンソースのプラグインだ。Rhino内ではパネルがClaudeやCodexなどのエージェントを見つけ、外部では自前のモデルとエージェントを持ち込める。"
+                "x": "デモでは、人間が関与するhuman-in-the-loop方式が、総設計時間をわずかに増やすだけで、製造性と線形座屈荷重を39パーセント改善した。現時点でユーザーができるのは、特定された領域内の構造を厚くするか薄くすることだけだ。"
               },
               {
                 "t": "p",
-                "x": "テストでは、エージェントが三面図から柑橘用ジューサーを作り、パラメトリックなGrasshopper 2 モデルに変換した。建築分野のテストはばらつきが大きく、スタジアムのモデルはエージェントが画像を追加で受け取るまで失敗した。Rhino.ComputeはLinuxでも動くようになった。"
+                "x": "「設計者の頭脳を活用し、設計が進化するなかで彼らの領域知識を注ぎ込んでもらうという考えだ」と、責任著者のJosephine Carstensenは語る。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Rhino World上\nMcNeel向AI开放",
-          "body": "McNeel在Rhino World 2026上展示了不改商业模式而引入AI的做法。",
-          "mini_headline": "McNeel让AI进入Rhino",
+          "headline": "MIT设计副驾驶\n生成途中征求反馈",
+          "body": "MIT的设计副驾驶在生成途中暂停征求设计师反馈，造出屈曲载荷更高的部件。",
+          "mini_headline": "MIT设计副驾驶先问一句",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/RhinoAI.jpg"
+                "src": "https://news.mit.edu/sites/default/files/images/202611/MIT-ai-design-01-press.jpg"
               },
               {
                 "t": "p",
-                "x": "McNeel悄然推出Rhino 9（10月28日发布）之际，Campbell Yule在Rhino World 2026现场报道了这家公司如何在保留商业模式的同时拥抱AI：价格和升级费用不变，Rhino 9许可证也可运行Rhino 6、7和8。创始人兼CEO Bob McNeel说：“什么都没变，一切都变了。”"
+                "x": "最好的算法设计技术仍需要大量计算和时间：用户只能在设计完成后看到最终结果，而且想要修改时往往必须从头再来。MIT研究人员正借助一套类似AI副驾驶的系统，让算法设计更具协作性。在算法生成结构的过程中，系统会把部分区域呈现给人类设计师，征求反馈。"
               },
               {
                 "t": "p",
-                "x": "McNeel在内部把AI用作开发和测试工具。Claude Opus问世后，Steve Baer预计生产率会提升20%，实际结果接近三倍。他和Andy Le Bihan每个工作日合并的拉取请求从3.3个增至9.5个。代码变更在合并前仍需审查。"
-              },
-              {
-                "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/RhinoAI-1.jpg"
+                "x": "研究人员在发表于开放获取期刊Communications Engineering的论文中表明，与完全依靠算法的方法相比，这种方式只让总设计时间增加 15 秒，却能得到更易制造、屈曲载荷更高的结构。该系统采用拓扑优化，依靠在合成数据集上训练的机器学习——数据集包含人类对数千个设计可能给出的反馈——来快速识别人类最可能想修改的区域。"
               },
               {
                 "t": "p",
-                "x": "RhinoAI由Callum Sykes借助Claude Code开发，是一款通过MCP服务器把AI智能体连接到Rhino的开源插件。在Rhino内部，面板可以找到Claude或Codex等智能体；在外部，用户可以自带模型和智能体。"
+                "x": "在演示中，这种人在回路（human-in-the-loop）方法将可制造性和线性屈曲载荷提升了39%，而总设计时间仅略有增加。目前，用户只能把已识别区域内的结构加厚或减薄。"
               },
               {
                 "t": "p",
-                "x": "测试中，一个智能体根据三视图做出了柑橘榨汁机，并把它转换为参数化的Grasshopper 2 模型。建筑方面的测试结果参差不齐：体育场模型直到智能体获得更多图像后才成功。Rhino.Compute现在也能在Linux上运行。"
+                "x": "“我们的想法是借助设计师的大脑，让他们在设计演进过程中注入自己的领域知识，”资深作者Josephine Carstensen说。"
               }
             ]
           }
         },
         "es": {
-          "headline": "McNeel abre Rhino a la AI\nen Rhino World",
-          "body": "En Rhino World 2026, McNeel mostró cómo lleva la AI a Rhino sin cambiar su modelo de negocio.",
-          "mini_headline": "McNeel abre Rhino a la AI",
+          "headline": "Copiloto del MIT pide opinión\na diseñadores mientras genera",
+          "body": "Un copiloto del MIT pausa la generación para consultar a los diseñadores y logra piezas con mayor carga de pandeo.",
+          "mini_headline": "El copiloto de diseño del MIT pregunta primero",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/RhinoAI.jpg"
+                "src": "https://news.mit.edu/sites/default/files/images/202611/MIT-ai-design-01-press.jpg"
               },
               {
                 "t": "p",
-                "x": "Mientras McNeel lanza discretamente Rhino 9 (publicado el 28 de octubre), Campbell Yule informa desde Rhino World 2026 sobre cómo la empresa adopta la AI sin renunciar a su modelo de negocio: los precios y el coste de actualización no cambian, y una licencia de Rhino 9 también permite usar Rhino 6, 7 y 8. “No ha cambiado nada, lo ha cambiado todo”, dijo el fundador y CEO, Bob McNeel."
+                "x": "Las mejores técnicas de diseño algorítmico todavía exigen mucho cálculo y tiempo: los usuarios solo ven el diseño final cuando está terminado y, a menudo, deben empezar de nuevo para hacer cambios. Investigadores del MIT están haciendo que los diseños algorítmicos sean más colaborativos con un sistema que actúa como un copiloto de AI. Mientras el algoritmo genera la estructura, presenta regiones al diseñador humano para que opine."
               },
               {
                 "t": "p",
-                "x": "McNeel usa la AI internamente como herramienta de desarrollo y pruebas. Tras la llegada de Claude Opus, Steve Baer esperaba un aumento de productividad del 20%; lo que obtuvieron se acercó a tres veces más. Él y Andy Le Bihan pasaron de 3.3 pull requests fusionadas por día laborable a 9.5. Los cambios se siguen revisando antes de fusionarlos."
-              },
-              {
-                "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/RhinoAI-1.jpg"
+                "x": "En un artículo de acceso abierto en Communications Engineering, los investigadores mostraron que el sistema produjo estructuras más fáciles de fabricar y con mayores cargas de pandeo, y que solo añadió 15 segundos al tiempo total de diseño frente a los enfoques puramente algorítmicos. El sistema, que usa optimización topológica, se apoya en aprendizaje automático entrenado con un conjunto de datos sintético de probables comentarios humanos sobre miles de diseños para identificar con rapidez las regiones que una persona probablemente querría cambiar."
               },
               {
                 "t": "p",
-                "x": "RhinoAI, creado por Callum Sykes con Claude Code, es un plug-in de código abierto que conecta agentes de AI con Rhino mediante un servidor MCP. Dentro de Rhino, un panel localiza agentes como Claude o Codex; fuera, cada usuario aporta su propio modelo y agente."
+                "x": "En las demostraciones, el enfoque human-in-the-loop mejoró la fabricabilidad y la carga de pandeo lineal en un 39 por ciento, con un aumento apenas moderado del tiempo total de diseño. Por ahora, los usuarios solo pueden hacer más gruesas o más delgadas las estructuras dentro de las regiones identificadas."
               },
               {
                 "t": "p",
-                "x": "En las pruebas, un agente construyó un exprimidor de cítricos a partir de un dibujo en tres vistas y lo convirtió en un modelo paramétrico de Grasshopper 2. Las pruebas arquitectónicas fueron más desiguales: un modelo de estadio falló hasta que el agente recibió más imágenes. Rhino.Compute ahora también funciona en Linux."
+                "x": "“La idea es aprovechar el cerebro de los diseñadores y lograr que incorporen su conocimiento del dominio a medida que evoluciona el diseño”, afirma la autora principal, Josephine Carstensen."
               }
             ]
           }
@@ -1421,219 +315,189 @@
       }
     },
     {
-      "id": "smashing-ai-feature-audit",
+      "id": "keyshot-studio-20263-agent",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI를 넣어야 할까?\n네 가지 질문 점검법",
-      "body": "Smashing Magazine이 AI 기능의 쓸모를 가릴 질문 네 개를 내놨다.",
-      "mini_headline": "AI 기능 점검 질문 네 가지",
-      "tool": "Design Tokens",
-      "source": "Smashing Magazine",
-      "url": "https://smashingmagazine.com/2026/11/should-you-add-ai-audit-product-teams/",
-      "accent": "#eb367f",
-      "motif": "swatch",
+      "headline": "KeyShot 2026.3\n앱 안에 AI Agent",
+      "body": "KeyShot Studio 2026.3에 AI Agent와 SSO가 들어갔다.",
+      "mini_headline": "KeyShot에 AI Agent 탑재",
+      "tool": "KeyShot",
+      "source": "KeyShot",
+      "url": "https://www.keyshot.com/blog/keyshot-introduces-single-sign-on-ai-agent-and-more/",
+      "accent": "#f5a623",
+      "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://files.smashing.media/articles/should-you-add-au-audit-product-teams/should-you-add-ai-audit-product-teams.jpg"
+            "src": "https://www.keyshot.com/wp-content/uploads/2026/11/KS_2026-3_NEW-HEADER.jpg"
           },
           {
             "t": "p",
-            "x": "AI 기능은 사용자의 작업 시간을 아껴 주지만, 아낀 시간을 결과 확인에 다시 쓰게 만들기도 한다. Victor Yocco는 AI가 어디서 제 몫을 하는지, 사용자가 결과를 검증하려면 무엇이 필요한지 제품팀이 가려내도록 돕는 실용적인 점검법을 내놓는다."
+            "x": "설정은 줄이고 렌더링은 늘린다. KeyShot Studio 2026.3이 내건 주제다. 이번 릴리스는 Studio에 AI Agent를 바로 넣고, 모든 사용자에게 개인 클라우드 저장소를 주며, 제품 변형을 훨씬 쉽게 만들고 정리하게 했다."
+          },
+          {
+            "t": "video",
+            "yt": "SD55TezMaKQ"
           },
           {
             "t": "p",
-            "x": "AI 기능이 돌려주는 가치가 사용자가 조정에 들이는 비용보다 클 때, 다시 말해 손익분기선을 넘을 때 그 기능은 제 몫을 한다. 가치는 덜어 낸 수고, 사람이라면 놓쳤을 오류를 잡아내는 일, 같은 일을 하는 사람들 사이의 일관성으로 드러난다."
-          },
-          {
-            "t": "img",
-            "src": "https://files.smashing.media/articles/should-you-add-au-audit-product-teams/ai-adoption-adjustment-effort.jpg",
-            "cap": "그림 1: AI 추가의 순가치."
+            "x": "새 AI Agent는 KeyShot Studio 안에 바로 들어 있다. 원하는 룩을 평이한 말로 설명하면 재질, 조명, 카메라, 환경을 알아서 조정한다. Studio 도구 대부분을 Agent가 다룰 수 있어, 사용자는 디자인에 집중하고 설정은 맡기면 된다. AI Agent는 클라우드에서 돌며 KeyShot 크레딧을 쓴다."
           },
           {
             "t": "p",
-            "x": "네 가지 질문은 이렇다. 이 기능이 사용자가 작업에 들이는 전체 수고를 줄이는가? 지금 일하는 방식보다 나은가? 사용자가 오류를 잡아낼 수 있는가? 한 해 동안 쓴 뒤에도 AI가 틀렸을 때 알아챌 수 있는가? 질문마다 출처 표시나 검증 프롬프트 같은 설계 조건, 또는 검증 능력이 계속 쓰이도록 하는 장치가 따라붙는다."
-          },
-          {
-            "t": "p",
-            "x": "다음 AI 기능을 로드맵에 올리기 전에, 실제로 그 일을 하는 사람과 함께 60분이면 해 볼 수 있는 점검이다."
+            "x": "Personal Cloud Storage가 생기면서 모든 KeyShot 사용자가 자기만의 클라우드 공간을 갖게 됐다. KeyShot이 없는 검토자도 KeyShot Explorer(현재 베타)에서 공유된 장면을 볼 수 있다. KeyShot Studio Enterprise에는 맞춤 SSO와 MFA 강제 적용이 추가됐다. Part Variations는 형상 변형을 재질 변형만큼 쉽게 만들고, Studio Groups는 스튜디오를 폴더로 정리한다. CAD 임포터와 플러그인도 함께 업데이트됐다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Should you add AI?\nA four-question audit",
-          "body": "Smashing Magazine offers a four-question audit for deciding where an AI feature earns its place in a product.",
-          "mini_headline": "A four-question AI audit",
+          "headline": "KeyShot Studio 2026.3 adds\nan AI Agent inside the app",
+          "body": "KeyShot Studio 2026.3 builds an AI Agent into the renderer, alongside personal cloud storage and enterprise SSO.",
+          "mini_headline": "KeyShot gets an AI Agent",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://files.smashing.media/articles/should-you-add-au-audit-product-teams/should-you-add-ai-audit-product-teams.jpg"
+                "src": "https://www.keyshot.com/wp-content/uploads/2026/11/KS_2026-3_NEW-HEADER.jpg"
               },
               {
                 "t": "p",
-                "x": "An AI feature can save users time on a task, only for them to spend it checking the results. Victor Yocco offers a practical audit to help product teams decide where AI earns its place and what users need to verify its output."
+                "x": "Less setup, more rendering: that's the theme of KeyShot Studio 2026.3. This release puts an AI Agent right inside Studio, gives every user personal cloud storage, and makes it far easier to build and organize product variations."
+              },
+              {
+                "t": "video",
+                "yt": "SD55TezMaKQ"
               },
               {
                 "t": "p",
-                "x": "An AI feature earns its place when what it returns beats what it costs the user to adjust — the break-even line. Returns come as effort removed, errors caught that the person would have missed, and consistency across people doing the same work."
-              },
-              {
-                "t": "img",
-                "src": "https://files.smashing.media/articles/should-you-add-au-audit-product-teams/ai-adoption-adjustment-effort.jpg",
-                "cap": "Figure 1: Net value of an AI addition."
+                "x": "The new AI Agent lives right inside KeyShot Studio. Tell it in plain language what look you're after, and it can adjust materials, lighting, cameras and environments for you. The Agent can use most of the tools Studio offers, so it handles the setup while you focus on the design. The AI Agent is cloud-based and uses KeyShot credits."
               },
               {
                 "t": "p",
-                "x": "Four questions: Does this reduce the total effort the task takes for this user? Does this beat the way the user does the task now? Can the user catch the errors? After a year of using this, can the user still tell when the AI is wrong? Each produces a design condition, such as provenance display and verification prompts, or a mechanism that keeps verification skill in use."
-              },
-              {
-                "t": "p",
-                "x": "The audit can be run in 60 minutes, with someone who does the work, before the next AI feature reaches the roadmap."
+                "x": "With Personal Cloud Storage, every KeyShot user gets their own cloud space, and reviewers without KeyShot can view shared scenes in KeyShot Explorer (now in beta). KeyShot Studio Enterprise adds custom SSO and enforced MFA. Part Variations make geometric variations as easy as material ones, and Studio Groups organize studios into folders. The release also updates CAD importers and plugins."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI를 넣어야 할까?\n네 가지 질문 점검법",
-          "body": "Smashing Magazine이 AI 기능의 쓸모를 가릴 질문 네 개를 내놨다.",
-          "mini_headline": "AI 기능 점검 질문 네 가지",
+          "headline": "KeyShot 2026.3\n앱 안에 AI Agent",
+          "body": "KeyShot Studio 2026.3에 AI Agent와 SSO가 들어갔다.",
+          "mini_headline": "KeyShot에 AI Agent 탑재",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://files.smashing.media/articles/should-you-add-au-audit-product-teams/should-you-add-ai-audit-product-teams.jpg"
+                "src": "https://www.keyshot.com/wp-content/uploads/2026/11/KS_2026-3_NEW-HEADER.jpg"
               },
               {
                 "t": "p",
-                "x": "AI 기능은 사용자의 작업 시간을 아껴 주지만, 아낀 시간을 결과 확인에 다시 쓰게 만들기도 한다. Victor Yocco는 AI가 어디서 제 몫을 하는지, 사용자가 결과를 검증하려면 무엇이 필요한지 제품팀이 가려내도록 돕는 실용적인 점검법을 내놓는다."
+                "x": "설정은 줄이고 렌더링은 늘린다. KeyShot Studio 2026.3이 내건 주제다. 이번 릴리스는 Studio에 AI Agent를 바로 넣고, 모든 사용자에게 개인 클라우드 저장소를 주며, 제품 변형을 훨씬 쉽게 만들고 정리하게 했다."
+              },
+              {
+                "t": "video",
+                "yt": "SD55TezMaKQ"
               },
               {
                 "t": "p",
-                "x": "AI 기능이 돌려주는 가치가 사용자가 조정에 들이는 비용보다 클 때, 다시 말해 손익분기선을 넘을 때 그 기능은 제 몫을 한다. 가치는 덜어 낸 수고, 사람이라면 놓쳤을 오류를 잡아내는 일, 같은 일을 하는 사람들 사이의 일관성으로 드러난다."
-              },
-              {
-                "t": "img",
-                "src": "https://files.smashing.media/articles/should-you-add-au-audit-product-teams/ai-adoption-adjustment-effort.jpg",
-                "cap": "그림 1: AI 추가의 순가치."
+                "x": "새 AI Agent는 KeyShot Studio 안에 바로 들어 있다. 원하는 룩을 평이한 말로 설명하면 재질, 조명, 카메라, 환경을 알아서 조정한다. Studio 도구 대부분을 Agent가 다룰 수 있어, 사용자는 디자인에 집중하고 설정은 맡기면 된다. AI Agent는 클라우드에서 돌며 KeyShot 크레딧을 쓴다."
               },
               {
                 "t": "p",
-                "x": "네 가지 질문은 이렇다. 이 기능이 사용자가 작업에 들이는 전체 수고를 줄이는가? 지금 일하는 방식보다 나은가? 사용자가 오류를 잡아낼 수 있는가? 한 해 동안 쓴 뒤에도 AI가 틀렸을 때 알아챌 수 있는가? 질문마다 출처 표시나 검증 프롬프트 같은 설계 조건, 또는 검증 능력이 계속 쓰이도록 하는 장치가 따라붙는다."
-              },
-              {
-                "t": "p",
-                "x": "다음 AI 기능을 로드맵에 올리기 전에, 실제로 그 일을 하는 사람과 함께 60분이면 해 볼 수 있는 점검이다."
+                "x": "Personal Cloud Storage가 생기면서 모든 KeyShot 사용자가 자기만의 클라우드 공간을 갖게 됐다. KeyShot이 없는 검토자도 KeyShot Explorer(현재 베타)에서 공유된 장면을 볼 수 있다. KeyShot Studio Enterprise에는 맞춤 SSO와 MFA 강제 적용이 추가됐다. Part Variations는 형상 변형을 재질 변형만큼 쉽게 만들고, Studio Groups는 스튜디오를 폴더로 정리한다. CAD 임포터와 플러그인도 함께 업데이트됐다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIを加えるべきか？\n四つの問いで点検",
-          "body": "Smashing MagazineがAI機能の居場所を見極める四つの問いを示した。",
-          "mini_headline": "AI機能を点検する四つの問い",
+          "headline": "KeyShot 2026.3\nアプリ内にAI Agent",
+          "body": "KeyShot Studio 2026.3 はAI AgentとSSOを搭載した。",
+          "mini_headline": "KeyShotにAI Agent",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://files.smashing.media/articles/should-you-add-au-audit-product-teams/should-you-add-ai-audit-product-teams.jpg"
+                "src": "https://www.keyshot.com/wp-content/uploads/2026/11/KS_2026-3_NEW-HEADER.jpg"
               },
               {
                 "t": "p",
-                "x": "AI機能はユーザーの作業時間を節約しても、その時間が結果の確認に費やされてしまうことがある。Victor Yoccoは、AIがどこで役に立つのか、そしてユーザーが出力を検証するには何が必要かをプロダクトチームが判断するための実践的な点検法を示す。"
+                "x": "セットアップを減らし、レンダリングを増やす。それがKeyShot Studio 2026.3のテーマだ。今回のリリースはStudioの中にAI Agentを直接組み込み、全ユーザーに個人用クラウドストレージを提供し、製品バリエーションの作成と整理を格段に容易にする。"
+              },
+              {
+                "t": "video",
+                "yt": "SD55TezMaKQ"
               },
               {
                 "t": "p",
-                "x": "AI機能が役に立つのは、それがもたらす価値が、ユーザーが調整にかけるコストを上回るとき、つまり損益分岐線を超えるときだ。価値は、省かれた手間、人が見逃していたはずの誤りの検出、同じ仕事をする人々の間での一貫性として現れる。"
-              },
-              {
-                "t": "img",
-                "src": "https://files.smashing.media/articles/should-you-add-au-audit-product-teams/ai-adoption-adjustment-effort.jpg",
-                "cap": "図 1：AI追加による正味の価値。"
+                "x": "新しいAI AgentはKeyShot Studioの中に直接組み込まれている。求めるルックを普段の言葉で伝えれば、マテリアル、ライティング、カメラ、環境を代わりに調整する。AgentはStudioのツールの大半を使えるため、ユーザーがデザインに集中する間にセットアップを引き受ける。AI Agentはクラウドベースで、KeyShotクレジットを消費する。"
               },
               {
                 "t": "p",
-                "x": "四つの問いは次のとおりだ。このユーザーにとって作業全体の手間は減るか。ユーザーの今のやり方より優れているか。ユーザーは誤りに気づけるか。一年使った後も、ユーザーはAIが間違っているときにそれを見抜けるか。それぞれの問いから、出典の表示や検証を促すプロンプトといった設計条件、あるいは検証スキルを使い続けるための仕組みが導かれる。"
-              },
-              {
-                "t": "p",
-                "x": "この点検は、次のAI機能がロードマップに載る前に、実際にその仕事をする人と一緒に60分で実施できる。"
+                "x": "Personal Cloud Storageにより、すべてのKeyShotユーザーが専用のクラウド領域を持ち、KeyShotを持たないレビュアーもKeyShot Explorer（現在ベータ版）で共有シーンを閲覧できる。KeyShot Studio EnterpriseにはカスタムSSOとMFAの強制が加わった。Part Variationsは形状のバリエーションをマテリアルと同じくらい簡単にし、Studio Groupsはスタジオをフォルダーで整理する。CADインポーターとプラグインも更新された。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "该不该加AI？\n四个问题来检验",
-          "body": "Smashing Magazine提出四个问题，帮助判断AI功能在产品中是否值得存在。",
-          "mini_headline": "四个问题审视AI功能",
+          "headline": "KeyShot 2026.3\n应用内置AI Agent",
+          "body": "KeyShot Studio 2026.3 在渲染器中内置AI Agent，并新增SSO。",
+          "mini_headline": "KeyShot迎来AI Agent",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://files.smashing.media/articles/should-you-add-au-audit-product-teams/should-you-add-ai-audit-product-teams.jpg"
+                "src": "https://www.keyshot.com/wp-content/uploads/2026/11/KS_2026-3_NEW-HEADER.jpg"
               },
               {
                 "t": "p",
-                "x": "AI功能可能为用户节省了完成任务的时间，结果用户又把这些时间花在检查结果上。Victor Yocco提出一套实用的审视方法，帮助产品团队判断AI在哪里值得加入，以及用户需要什么来核验它的输出。"
+                "x": "更少设置，更多渲染：这是KeyShot Studio 2026.3 的主题。此次发布将AI Agent直接放进Studio，为每位用户提供个人云存储，并让产品变体的创建和整理变得容易得多。"
+              },
+              {
+                "t": "video",
+                "yt": "SD55TezMaKQ"
               },
               {
                 "t": "p",
-                "x": "当AI功能带来的回报超过用户为调整它所付出的成本，也就是越过盈亏平衡线时，它才值得存在。回报体现为省下的工夫、发现本会被人遗漏的错误，以及做同样工作的人之间的一致性。"
-              },
-              {
-                "t": "img",
-                "src": "https://files.smashing.media/articles/should-you-add-au-audit-product-teams/ai-adoption-adjustment-effort.jpg",
-                "cap": "图 1：加入AI的净价值。"
+                "x": "新的AI Agent直接内置于KeyShot Studio。用平实的语言说出你想要的效果，它就能替你调整材质、灯光、相机和环境。Agent可以使用Studio提供的大多数工具，因此你专注设计时，设置工作由它负责。AI Agent基于云端，消耗KeyShot点数。"
               },
               {
                 "t": "p",
-                "x": "四个问题是：它能否减少这位用户完成任务的总工作量？它是否胜过用户现在的做法？用户能否发现错误？使用一年之后，用户还能否察觉AI何时出错？每个问题都会引出一项设计条件，例如来源显示和核验提示，或是让核验能力持续得到运用的机制。"
-              },
-              {
-                "t": "p",
-                "x": "在下一个AI功能进入路线图之前，可以和实际做这项工作的人一起，用60分钟完成这次审视。"
+                "x": "借助Personal Cloud Storage，每位KeyShot用户都有自己的云空间，没有KeyShot的审阅者也能在KeyShot Explorer（目前为测试版）中查看共享场景。KeyShot Studio Enterprise新增自定义SSO和强制MFA。Part Variations让几何变体像材质变体一样简单，Studio Groups则把工作室整理进文件夹。此次发布还更新了CAD导入器和插件。"
               }
             ]
           }
         },
         "es": {
-          "headline": "¿Conviene añadir AI?\nAuditoría en cuatro preguntas",
-          "body": "Smashing Magazine propone una auditoría de cuatro preguntas para decidir dónde se justifica una función de AI.",
-          "mini_headline": "Auditoría de AI en cuatro preguntas",
+          "headline": "KeyShot Studio 2026.3 integra\nun AI Agent dentro de la app",
+          "body": "KeyShot Studio 2026.3 integra un AI Agent, almacenamiento personal en la nube y SSO empresarial.",
+          "mini_headline": "KeyShot incorpora un AI Agent",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://files.smashing.media/articles/should-you-add-au-audit-product-teams/should-you-add-ai-audit-product-teams.jpg"
+                "src": "https://www.keyshot.com/wp-content/uploads/2026/11/KS_2026-3_NEW-HEADER.jpg"
               },
               {
                 "t": "p",
-                "x": "Una función de AI puede ahorrar tiempo a los usuarios en una tarea, solo para que lo gasten revisando los resultados. Victor Yocco propone una auditoría práctica para ayudar a los equipos de producto a decidir dónde se justifica la AI y qué necesitan los usuarios para verificar sus resultados."
+                "x": "Menos configuración, más renderizado: ese es el lema de KeyShot Studio 2026.3. Esta versión integra un AI Agent dentro de Studio, ofrece a cada usuario almacenamiento personal en la nube y facilita mucho crear y organizar variaciones de producto."
+              },
+              {
+                "t": "video",
+                "yt": "SD55TezMaKQ"
               },
               {
                 "t": "p",
-                "x": "Una función de AI se justifica cuando lo que aporta supera lo que le cuesta al usuario ajustarla: el punto de equilibrio. Lo que aporta se traduce en esfuerzo eliminado, errores detectados que la persona habría pasado por alto y coherencia entre quienes hacen el mismo trabajo."
-              },
-              {
-                "t": "img",
-                "src": "https://files.smashing.media/articles/should-you-add-au-audit-product-teams/ai-adoption-adjustment-effort.jpg",
-                "cap": "Figura 1: Valor neto de añadir AI."
+                "x": "El nuevo AI Agent está integrado en KeyShot Studio. Basta con describir en lenguaje sencillo el aspecto que se busca para que ajuste materiales, iluminación, cámaras y entornos. El Agent puede usar la mayoría de las herramientas de Studio, de modo que se encarga de la configuración mientras el usuario se centra en el diseño. El AI Agent funciona en la nube y consume créditos de KeyShot."
               },
               {
                 "t": "p",
-                "x": "Cuatro preguntas: ¿Reduce esto el esfuerzo total que la tarea le supone a este usuario? ¿Supera la forma en que el usuario hace hoy la tarea? ¿Puede el usuario detectar los errores? Tras un año de uso, ¿sigue pudiendo el usuario darse cuenta de cuándo se equivoca la AI? Cada una da lugar a una condición de diseño, como mostrar la procedencia e incluir avisos de verificación, o a un mecanismo que mantenga en uso la habilidad de verificar."
-              },
-              {
-                "t": "p",
-                "x": "La auditoría puede hacerse en 60 minutos, con alguien que haga ese trabajo, antes de que la próxima función de AI llegue a la hoja de ruta."
+                "x": "Con Personal Cloud Storage, cada usuario de KeyShot obtiene su propio espacio en la nube, y los revisores sin KeyShot pueden ver escenas compartidas en KeyShot Explorer (ahora en beta). KeyShot Studio Enterprise añade SSO personalizado y MFA obligatorio. Part Variations hace que las variaciones geométricas sean tan sencillas como las de material, y Studio Groups organiza los estudios en carpetas. La versión también actualiza los importadores de CAD y los plugins."
               }
             ]
           }
@@ -1641,141 +505,1247 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI를 넣어야 할까?\n네 가지 질문 점검법",
-          "body": "Smashing Magazine이 AI 기능의 쓸모를 가리는 네 질문을 제시했다.",
-          "mini_headline": "AI 기능 점검 질문 네 가지",
+          "headline": "KeyShot 2026.3\n앱 안에 AI Agent",
+          "body": "KeyShot Studio 2026.3이 AI Agent와 SSO를 더했다.",
+          "mini_headline": "KeyShot에 AI Agent 탑재",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://files.smashing.media/articles/should-you-add-au-audit-product-teams/should-you-add-ai-audit-product-teams.jpg"
+                "src": "https://www.keyshot.com/wp-content/uploads/2026/11/KS_2026-3_NEW-HEADER.jpg"
               },
               {
                 "t": "p",
-                "x": "AI 기능은 사용자의 작업 시간을 아껴 주지만, 사용자는 그 시간을 결과 확인에 다시 쓰게 될 수 있다. Victor Yocco는 제품팀이 AI가 어디서 제 몫을 하는지, 사용자가 결과를 검증하려면 무엇이 필요한지 판단하도록 돕는 실용적인 점검법을 제시한다."
+                "x": "설정은 줄이고 렌더링은 늘린다. KeyShot Studio 2026.3의 주제다. 이번 릴리스는 Studio 안에 AI Agent를 바로 넣고, 모든 사용자에게 개인 클라우드 저장소를 주며, 제품 변형을 훨씬 쉽게 만들고 정리할 수 있게 한다."
+              },
+              {
+                "t": "video",
+                "yt": "SD55TezMaKQ"
               },
               {
                 "t": "p",
-                "x": "AI 기능은 그것이 돌려주는 가치가 사용자가 조정하는 데 드는 비용보다 클 때, 즉 손익분기선을 넘을 때 제 몫을 한다. 그 가치는 덜어낸 수고, 사람이 놓쳤을 오류를 잡아내는 것, 같은 일을 하는 사람들 사이의 일관성으로 나타난다."
-              },
-              {
-                "t": "img",
-                "src": "https://files.smashing.media/articles/should-you-add-au-audit-product-teams/ai-adoption-adjustment-effort.jpg",
-                "cap": "그림 1: AI 추가의 순가치."
+                "x": "새 AI Agent는 KeyShot Studio 안에 바로 자리한다. 원하는 룩을 평이한 말로 설명하면 재질, 조명, 카메라, 환경을 대신 조정한다. Agent는 Studio가 제공하는 도구 대부분을 쓸 수 있어, 사용자가 디자인에 집중하는 동안 설정을 맡는다. AI Agent는 클라우드 기반이며 KeyShot 크레딧을 쓴다."
               },
               {
                 "t": "p",
-                "x": "네 가지 질문은 이렇다. 이 기능은 이 사용자가 작업에 들이는 전체 수고를 줄이는가? 사용자가 지금 일하는 방식보다 나은가? 사용자가 오류를 잡아낼 수 있는가? 한 해 동안 쓴 뒤에도 사용자가 AI가 틀렸을 때 알아챌 수 있는가? 각 질문은 출처 표시와 검증 프롬프트 같은 설계 조건이나, 검증 능력이 계속 쓰이도록 하는 장치로 이어진다."
-              },
-              {
-                "t": "p",
-                "x": "이 점검은 다음 AI 기능이 로드맵에 오르기 전에, 실제로 그 일을 하는 사람과 함께 60분 만에 해 볼 수 있다."
+                "x": "Personal Cloud Storage로 모든 KeyShot 사용자는 자기만의 클라우드 공간을 얻고, KeyShot이 없는 검토자도 KeyShot Explorer(현재 베타)에서 공유된 장면을 볼 수 있다. KeyShot Studio Enterprise에는 맞춤 SSO와 MFA 강제 적용이 추가됐다. Part Variations는 형상 변형을 재질 변형만큼 쉽게 만들고, Studio Groups는 스튜디오를 폴더로 정리한다. 이번 릴리스는 CAD 임포터와 플러그인도 업데이트했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIを加えるべきか？\n四つの問いで点検",
-          "body": "Smashing MagazineがAI機能の居場所を見極める四つの問いを示した。",
-          "mini_headline": "AI機能を点検する四つの問い",
+          "headline": "KeyShot 2026.3\nアプリ内にAI Agent",
+          "body": "KeyShot Studio 2026.3 はAI AgentとSSOを搭載した。",
+          "mini_headline": "KeyShotにAI Agent",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://files.smashing.media/articles/should-you-add-au-audit-product-teams/should-you-add-ai-audit-product-teams.jpg"
+                "src": "https://www.keyshot.com/wp-content/uploads/2026/11/KS_2026-3_NEW-HEADER.jpg"
               },
               {
                 "t": "p",
-                "x": "AI機能はユーザーの作業時間を節約しても、その時間が結果の確認に費やされてしまうことがある。Victor Yoccoは、AIがどこで役に立つのか、そしてユーザーが出力を検証するには何が必要かをプロダクトチームが判断するための実践的な点検法を示す。"
+                "x": "セットアップを減らし、レンダリングを増やす。それがKeyShot Studio 2026.3のテーマだ。今回のリリースはStudioの中にAI Agentを直接組み込み、全ユーザーに個人用クラウドストレージを提供し、製品バリエーションの作成と整理を格段に容易にする。"
+              },
+              {
+                "t": "video",
+                "yt": "SD55TezMaKQ"
               },
               {
                 "t": "p",
-                "x": "AI機能が役に立つのは、それがもたらす価値が、ユーザーが調整にかけるコストを上回るとき、つまり損益分岐線を超えるときだ。価値は、省かれた手間、人が見逃していたはずの誤りの検出、同じ仕事をする人々の間での一貫性として現れる。"
-              },
-              {
-                "t": "img",
-                "src": "https://files.smashing.media/articles/should-you-add-au-audit-product-teams/ai-adoption-adjustment-effort.jpg",
-                "cap": "図 1：AI追加による正味の価値。"
+                "x": "新しいAI AgentはKeyShot Studioの中に直接組み込まれている。求めるルックを普段の言葉で伝えれば、マテリアル、ライティング、カメラ、環境を代わりに調整する。AgentはStudioのツールの大半を使えるため、ユーザーがデザインに集中する間にセットアップを引き受ける。AI Agentはクラウドベースで、KeyShotクレジットを消費する。"
               },
               {
                 "t": "p",
-                "x": "四つの問いは次のとおりだ。このユーザーにとって作業全体の手間は減るか。ユーザーの今のやり方より優れているか。ユーザーは誤りに気づけるか。一年使った後も、ユーザーはAIが間違っているときにそれを見抜けるか。それぞれの問いから、出典の表示や検証を促すプロンプトといった設計条件、あるいは検証スキルを使い続けるための仕組みが導かれる。"
-              },
-              {
-                "t": "p",
-                "x": "この点検は、次のAI機能がロードマップに載る前に、実際にその仕事をする人と一緒に60分で実施できる。"
+                "x": "Personal Cloud Storageにより、すべてのKeyShotユーザーが専用のクラウド領域を持ち、KeyShotを持たないレビュアーもKeyShot Explorer（現在ベータ版）で共有シーンを閲覧できる。KeyShot Studio EnterpriseにはカスタムSSOとMFAの強制が加わった。Part Variationsは形状のバリエーションをマテリアルと同じくらい簡単にし、Studio Groupsはスタジオをフォルダーで整理する。CADインポーターとプラグインも更新された。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "该不该加AI？\n四个问题来检验",
-          "body": "Smashing Magazine提出四个问题，帮助判断AI功能在产品中是否值得存在。",
-          "mini_headline": "四个问题审视AI功能",
+          "headline": "KeyShot 2026.3\n应用内置AI Agent",
+          "body": "KeyShot Studio 2026.3 在渲染器中内置AI Agent，并新增SSO。",
+          "mini_headline": "KeyShot迎来AI Agent",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://files.smashing.media/articles/should-you-add-au-audit-product-teams/should-you-add-ai-audit-product-teams.jpg"
+                "src": "https://www.keyshot.com/wp-content/uploads/2026/11/KS_2026-3_NEW-HEADER.jpg"
               },
               {
                 "t": "p",
-                "x": "AI功能可能为用户节省了完成任务的时间，结果用户又把这些时间花在检查结果上。Victor Yocco提出一套实用的审视方法，帮助产品团队判断AI在哪里值得加入，以及用户需要什么来核验它的输出。"
+                "x": "更少设置，更多渲染：这是KeyShot Studio 2026.3 的主题。此次发布将AI Agent直接放进Studio，为每位用户提供个人云存储，并让产品变体的创建和整理变得容易得多。"
+              },
+              {
+                "t": "video",
+                "yt": "SD55TezMaKQ"
               },
               {
                 "t": "p",
-                "x": "当AI功能带来的回报超过用户为调整它所付出的成本，也就是越过盈亏平衡线时，它才值得存在。回报体现为省下的工夫、发现本会被人遗漏的错误，以及做同样工作的人之间的一致性。"
-              },
-              {
-                "t": "img",
-                "src": "https://files.smashing.media/articles/should-you-add-au-audit-product-teams/ai-adoption-adjustment-effort.jpg",
-                "cap": "图 1：加入AI的净价值。"
+                "x": "新的AI Agent直接内置于KeyShot Studio。用平实的语言说出你想要的效果，它就能替你调整材质、灯光、相机和环境。Agent可以使用Studio提供的大多数工具，因此你专注设计时，设置工作由它负责。AI Agent基于云端，消耗KeyShot点数。"
               },
               {
                 "t": "p",
-                "x": "四个问题是：它能否减少这位用户完成任务的总工作量？它是否胜过用户现在的做法？用户能否发现错误？使用一年之后，用户还能否察觉AI何时出错？每个问题都会引出一项设计条件，例如来源显示和核验提示，或是让核验能力持续得到运用的机制。"
-              },
-              {
-                "t": "p",
-                "x": "在下一个AI功能进入路线图之前，可以和实际做这项工作的人一起，用60分钟完成这次审视。"
+                "x": "借助Personal Cloud Storage，每位KeyShot用户都有自己的云空间，没有KeyShot的审阅者也能在KeyShot Explorer（目前为测试版）中查看共享场景。KeyShot Studio Enterprise新增自定义SSO和强制MFA。Part Variations让几何变体像材质变体一样简单，Studio Groups则把工作室整理进文件夹。此次发布还更新了CAD导入器和插件。"
               }
             ]
           }
         },
         "es": {
-          "headline": "¿Conviene añadir AI?\nAuditoría en cuatro preguntas",
-          "body": "Smashing Magazine propone una auditoría de cuatro preguntas para decidir dónde se justifica una función de AI.",
-          "mini_headline": "Auditoría de AI en cuatro preguntas",
+          "headline": "KeyShot Studio 2026.3 integra\nun AI Agent dentro de la app",
+          "body": "KeyShot Studio 2026.3 integra un AI Agent, almacenamiento personal en la nube y SSO empresarial.",
+          "mini_headline": "KeyShot incorpora un AI Agent",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://files.smashing.media/articles/should-you-add-au-audit-product-teams/should-you-add-ai-audit-product-teams.jpg"
+                "src": "https://www.keyshot.com/wp-content/uploads/2026/11/KS_2026-3_NEW-HEADER.jpg"
               },
               {
                 "t": "p",
-                "x": "Una función de AI puede ahorrar tiempo a los usuarios en una tarea, solo para que lo gasten revisando los resultados. Victor Yocco propone una auditoría práctica para ayudar a los equipos de producto a decidir dónde se justifica la AI y qué necesitan los usuarios para verificar sus resultados."
+                "x": "Menos configuración, más renderizado: ese es el lema de KeyShot Studio 2026.3. Esta versión integra un AI Agent dentro de Studio, ofrece a cada usuario almacenamiento personal en la nube y facilita mucho crear y organizar variaciones de producto."
+              },
+              {
+                "t": "video",
+                "yt": "SD55TezMaKQ"
               },
               {
                 "t": "p",
-                "x": "Una función de AI se justifica cuando lo que aporta supera lo que le cuesta al usuario ajustarla: el punto de equilibrio. Lo que aporta se traduce en esfuerzo eliminado, errores detectados que la persona habría pasado por alto y coherencia entre quienes hacen el mismo trabajo."
+                "x": "El nuevo AI Agent está integrado en KeyShot Studio. Basta con describir en lenguaje sencillo el aspecto que se busca para que ajuste materiales, iluminación, cámaras y entornos. El Agent puede usar la mayoría de las herramientas de Studio, de modo que se encarga de la configuración mientras el usuario se centra en el diseño. El AI Agent funciona en la nube y consume créditos de KeyShot."
+              },
+              {
+                "t": "p",
+                "x": "Con Personal Cloud Storage, cada usuario de KeyShot obtiene su propio espacio en la nube, y los revisores sin KeyShot pueden ver escenas compartidas en KeyShot Explorer (ahora en beta). KeyShot Studio Enterprise añade SSO personalizado y MFA obligatorio. Part Variations hace que las variaciones geométricas sean tan sencillas como las de material, y Studio Groups organiza los estudios en carpetas. La versión también actualiza los importadores de CAD y los plugins."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "google-a2ui-v1-stable",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Google, 에이전트용\nA2UI 1.0 공개",
+      "body": "Google A2UI 1.0으로 에이전트가 텍스트 대신 화면 요소로 답한다.",
+      "mini_headline": "A2UI, 1.0 도달",
+      "tool": "Figma",
+      "source": "Google Developers Blog",
+      "url": "https://developers.googleblog.com/a2ui-10-build-delightful-fast-reliable-agentic-experiences/",
+      "accent": "#0070f3",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "지금 사용자가 에이전트를 쓰는 방식은 터미널 시대의 컴퓨터와 닮았다. 능력은 있는데 답은 거의 다 텍스트로 한다. Google은 생성형 UI용 오픈 프로토콜의 첫 안정 버전 A2UI 1.0을 공개했다. 이제 AI 에이전트는 확인용 양식이나 차트 같은 대화형 화면으로 답할 수 있다."
+          },
+          {
+            "t": "video",
+            "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/original_videos/A2UI_1.0_sick_day_three_ways_2.mp4"
+          },
+          {
+            "t": "p",
+            "x": "A2UI에서 에이전트는 무엇을 보여 줄지만 기술하고, UI는 각 앱이 자체 네이티브 컴포넌트로 그린다. 에이전트가 쓰는 건 사용자의 디자인 시스템뿐이다. 개발자는 웹, Android, iOS용 오픈소스 렌더러 SDKs와 Python, TypeScript, Dart용 에이전트 SDKs로 지금 바로 써 볼 수 있다. 버전 1.0에는 양방향 함수 호출과 함께 접근성·확장 지원이 더해졌다."
+          },
+          {
+            "t": "img",
+            "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/06_atlassian_jira.original.png",
+            "cap": "에이전트가 Jira 작업 항목 안에서 팀에 후속 조치를 요청한다."
+          },
+          {
+            "t": "p",
+            "x": "Atlassian, Alation, Bloomberg, ByteDance 등은 이미 이를 써서 개발하고 있다. Atlassian은 Jira에 A2UI를 도입하고, Alation 피드는 A2UI를 거쳐 Claude 안에서 렌더링된다."
+          },
+          {
+            "t": "img",
+            "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/07_alation.original.png",
+            "cap": "Claude(왼쪽)와 Alation의 Data Products App(오른쪽)에서 렌더링된 같은 Alation 피드."
+          },
+          {
+            "t": "p",
+            "x": "Google 안에서는 Gemini Notebook이 A2UI 카드로 슬라이드 덱을 짜고, Gemini는 조직이 직접 운영하는 에이전트의 A2UI 응답을 렌더링한다. 1.0용 Jetpack Compose 지원도 곧 나온다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Google ships A2UI 1.0 for\nagent-built interfaces",
+          "body": "Google's A2UI 1.0 protocol lets agents answer with interactive interface components instead of walls of text.",
+          "mini_headline": "A2UI hits 1.0",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "User interactions with agents today are where computers were in the terminal era: capable, and answering almost everything in text. Google is releasing A2UI 1.0, the first stable version of its open protocol for generative UI. It lets AI agents answer with interactive screens, such as a form to confirm or a chart."
+              },
+              {
+                "t": "video",
+                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/original_videos/A2UI_1.0_sick_day_three_ways_2.mp4"
+              },
+              {
+                "t": "p",
+                "x": "With A2UI, the agent describes what to show, and every app draws the UI with its own native components. Agents use your design system and nothing else. Developers can use it now with open-source renderer SDKs for the web, Android, and iOS and agent SDKs for Python, TypeScript, and Dart. Version 1.0 adds bidirectional function calls, plus support for accessibility and extensions."
               },
               {
                 "t": "img",
-                "src": "https://files.smashing.media/articles/should-you-add-au-audit-product-teams/ai-adoption-adjustment-effort.jpg",
-                "cap": "Figura 1: Valor neto de añadir AI."
+                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/06_atlassian_jira.original.png",
+                "cap": "An agent asks the team for a follow-up inside a Jira work item."
               },
               {
                 "t": "p",
-                "x": "Cuatro preguntas: ¿Reduce esto el esfuerzo total que la tarea le supone a este usuario? ¿Supera la forma en que el usuario hace hoy la tarea? ¿Puede el usuario detectar los errores? Tras un año de uso, ¿sigue pudiendo el usuario darse cuenta de cuándo se equivoca la AI? Cada una da lugar a una condición de diseño, como mostrar la procedencia e incluir avisos de verificación, o a un mecanismo que mantenga en uso la habilidad de verificar."
+                "x": "Companies such as Atlassian, Alation, Bloomberg, and ByteDance are already building with it. Atlassian is bringing A2UI to Jira, and the Alation feed renders in Claude using A2UI."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/07_alation.original.png",
+                "cap": "The same Alation feed rendered in Claude (left) and in Alation's Data Products App (right)."
               },
               {
                 "t": "p",
-                "x": "La auditoría puede hacerse en 60 minutos, con alguien que haga ese trabajo, antes de que la próxima función de AI llegue a la hoja de ruta."
+                "x": "Inside Google, Gemini Notebook uses A2UI cards to set up slide decks, and Gemini renders A2UI responses from organizations' own agents. Jetpack Compose support for 1.0 is coming soon."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Google, 에이전트용\nA2UI 1.0 공개",
+          "body": "Google A2UI 1.0으로 에이전트가 텍스트 대신 화면 요소로 답한다.",
+          "mini_headline": "A2UI, 1.0 도달",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "지금 사용자가 에이전트를 쓰는 방식은 터미널 시대의 컴퓨터와 닮았다. 능력은 있는데 답은 거의 다 텍스트로 한다. Google은 생성형 UI용 오픈 프로토콜의 첫 안정 버전 A2UI 1.0을 공개했다. 이제 AI 에이전트는 확인용 양식이나 차트 같은 대화형 화면으로 답할 수 있다."
+              },
+              {
+                "t": "video",
+                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/original_videos/A2UI_1.0_sick_day_three_ways_2.mp4"
+              },
+              {
+                "t": "p",
+                "x": "A2UI에서 에이전트는 무엇을 보여 줄지만 기술하고, UI는 각 앱이 자체 네이티브 컴포넌트로 그린다. 에이전트가 쓰는 건 사용자의 디자인 시스템뿐이다. 개발자는 웹, Android, iOS용 오픈소스 렌더러 SDKs와 Python, TypeScript, Dart용 에이전트 SDKs로 지금 바로 써 볼 수 있다. 버전 1.0에는 양방향 함수 호출과 함께 접근성·확장 지원이 더해졌다."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/06_atlassian_jira.original.png",
+                "cap": "에이전트가 Jira 작업 항목 안에서 팀에 후속 조치를 요청한다."
+              },
+              {
+                "t": "p",
+                "x": "Atlassian, Alation, Bloomberg, ByteDance 등은 이미 이를 써서 개발하고 있다. Atlassian은 Jira에 A2UI를 도입하고, Alation 피드는 A2UI를 거쳐 Claude 안에서 렌더링된다."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/07_alation.original.png",
+                "cap": "Claude(왼쪽)와 Alation의 Data Products App(오른쪽)에서 렌더링된 같은 Alation 피드."
+              },
+              {
+                "t": "p",
+                "x": "Google 안에서는 Gemini Notebook이 A2UI 카드로 슬라이드 덱을 짜고, Gemini는 조직이 직접 운영하는 에이전트의 A2UI 응답을 렌더링한다. 1.0용 Jetpack Compose 지원도 곧 나온다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Google、A2UI\n1.0 正式版を公開",
+          "body": "GoogleのA2UI 1.0で、エージェントは文章でなく対話型UIで答える。",
+          "mini_headline": "A2UIが1.0に",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "現在のエージェントとのやり取りは、ターミナル時代のコンピューターと同じ段階にある。能力はあるが、ほぼすべてをテキストで返す。Googleは、生成UI向けオープンプロトコルの初の安定版となるA2UI 1.0をリリースする。これによりAIエージェントは、確認用フォームやチャートといったインタラクティブな画面で応答できる。"
+              },
+              {
+                "t": "video",
+                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/original_videos/A2UI_1.0_sick_day_three_ways_2.mp4"
+              },
+              {
+                "t": "p",
+                "x": "A2UIでは、エージェントが何を表示するかを記述し、各アプリが独自のネイティブコンポーネントでUIを描画する。エージェントが使うのはユーザーのデザインシステムだけだ。開発者は、Web、Android、iOS向けのオープンソースのレンダラーSDKsと、Python、TypeScript、Dart向けのエージェントSDKsで今すぐ利用できる。バージョン1.0では双方向の関数呼び出しに加え、アクセシビリティと拡張機能のサポートが追加された。"
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/06_atlassian_jira.original.png",
+                "cap": "Jiraの作業項目内で、エージェントがチームにフォローアップを依頼する。"
+              },
+              {
+                "t": "p",
+                "x": "Atlassian、Alation、Bloomberg、ByteDanceなどの企業がすでにこれを使って開発を進めている。AtlassianはA2UIをJiraに導入し、AlationのフィードはA2UIを使ってClaude内で表示される。"
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/07_alation.original.png",
+                "cap": "Claude（左）とAlationのData Products App（右）で表示された同じAlationフィード。"
+              },
+              {
+                "t": "p",
+                "x": "Google社内では、Gemini NotebookがA2UIカードを使ってスライド資料を作成し、Geminiは各組織独自のエージェントからのA2UI応答を表示する。1.0向けのJetpack Composeサポートも近く提供される。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Google发布智能体\n界面协议A2UI 1.0",
+          "body": "Google的A2UI 1.0 协议让智能体用交互式界面组件而非大段文字作答。",
+          "mini_headline": "A2UI迈入1.0",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "如今用户与智能体的交互，就像终端时代的计算机：能力很强，却几乎什么都用文字回答。Google正在发布A2UI 1.0，这是其生成式UI开放协议的首个稳定版本。它让AI智能体能用交互式界面作答，比如一个待确认的表单或一张图表。"
+              },
+              {
+                "t": "video",
+                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/original_videos/A2UI_1.0_sick_day_three_ways_2.mp4"
+              },
+              {
+                "t": "p",
+                "x": "借助A2UI，智能体描述要显示的内容，各个应用再用自己的原生组件绘制UI。智能体只使用你的设计系统。开发者现在即可通过面向Web、Android和iOS的开源渲染器SDKs，以及面向Python、TypeScript和Dart的智能体SDKs使用它。1.0 版本新增了双向函数调用，并支持无障碍功能和扩展。"
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/06_atlassian_jira.original.png",
+                "cap": "智能体在Jira工作项中请团队跟进。"
+              },
+              {
+                "t": "p",
+                "x": "Atlassian、Alation、Bloomberg和ByteDance等公司已在用它进行开发。Atlassian正把A2UI引入Jira，Alation的信息流则通过A2UI在Claude中渲染。"
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/07_alation.original.png",
+                "cap": "同一个Alation信息流分别在Claude（左）和Alation的Data Products App（右）中的渲染效果。"
+              },
+              {
+                "t": "p",
+                "x": "在Google内部，Gemini Notebook用A2UI卡片来搭建幻灯片，Gemini则渲染来自各组织自有智能体的A2UI响应。对 1.0 的Jetpack Compose支持即将推出。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Google lanza A2UI 1.0 para\ninterfaces creadas por agentes",
+          "body": "El protocolo A2UI 1.0 de Google permite a los agentes responder con componentes interactivos en vez de texto.",
+          "mini_headline": "A2UI llega a la 1.0",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Hoy, la interacción de los usuarios con los agentes está donde estaba la informática en la era de la terminal: son capaces, pero responden casi todo con texto. Google lanza A2UI 1.0, la primera versión estable de su protocolo abierto para UI generativa. Permite que los agentes de AI respondan con pantallas interactivas, como un formulario para confirmar o un gráfico."
+              },
+              {
+                "t": "video",
+                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/original_videos/A2UI_1.0_sick_day_three_ways_2.mp4"
+              },
+              {
+                "t": "p",
+                "x": "Con A2UI, el agente describe qué mostrar y cada app dibuja la UI con sus propios componentes nativos. Los agentes usan su sistema de diseño y nada más. Los desarrolladores ya pueden usarlo con SDKs de renderizado de código abierto para web, Android e iOS, y SDKs de agente para Python, TypeScript y Dart. La versión 1.0 añade llamadas a funciones bidireccionales, además de compatibilidad con accesibilidad y extensiones."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/06_atlassian_jira.original.png",
+                "cap": "Un agente pide al equipo un seguimiento dentro de una tarea de Jira."
+              },
+              {
+                "t": "p",
+                "x": "Empresas como Atlassian, Alation, Bloomberg y ByteDance ya están desarrollando con él. Atlassian llevará A2UI a Jira, y el feed de Alation se muestra en Claude mediante A2UI."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/07_alation.original.png",
+                "cap": "El mismo feed de Alation mostrado en Claude (izquierda) y en la Data Products App de Alation (derecha)."
+              },
+              {
+                "t": "p",
+                "x": "Dentro de Google, Gemini Notebook usa tarjetas A2UI para preparar presentaciones de diapositivas, y Gemini muestra respuestas A2UI de los propios agentes de las organizaciones. La compatibilidad de Jetpack Compose con la 1.0 llegará pronto."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Google, 에이전트용\nA2UI 1.0 공개",
+          "body": "Google A2UI 1.0은 에이전트가 텍스트 대신 화면 요소로 답하게 한다.",
+          "mini_headline": "A2UI, 1.0 도달",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "오늘날 사용자가 에이전트와 상호작용하는 방식은 터미널 시대의 컴퓨터와 비슷하다. 능력은 있지만 거의 모든 답을 텍스트로 한다. Google은 생성형 UI를 위한 오픈 프로토콜의 첫 안정 버전인 A2UI 1.0을 공개한다. AI 에이전트는 이를 통해 확인용 양식이나 차트 같은 대화형 화면으로 답할 수 있다."
+              },
+              {
+                "t": "video",
+                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/original_videos/A2UI_1.0_sick_day_three_ways_2.mp4"
+              },
+              {
+                "t": "p",
+                "x": "A2UI에서는 에이전트가 무엇을 보여 줄지 기술하고, 각 앱은 자체 네이티브 컴포넌트로 UI를 그린다. 에이전트는 사용자의 디자인 시스템만 사용한다. 개발자는 지금 바로 웹, Android, iOS용 오픈소스 렌더러 SDKs와 Python, TypeScript, Dart용 에이전트 SDKs로 이를 쓸 수 있다. 버전 1.0은 양방향 함수 호출과 함께 접근성 및 확장 지원을 더했다."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/06_atlassian_jira.original.png",
+                "cap": "에이전트가 Jira 작업 항목 안에서 팀에 후속 조치를 요청한다."
+              },
+              {
+                "t": "p",
+                "x": "Atlassian, Alation, Bloomberg, ByteDance 같은 기업이 이미 이를 활용해 개발하고 있다. Atlassian은 A2UI를 Jira에 도입하고, Alation 피드는 A2UI로 Claude 안에서 렌더링된다."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/07_alation.original.png",
+                "cap": "Claude(왼쪽)와 Alation의 Data Products App(오른쪽)에서 렌더링된 같은 Alation 피드."
+              },
+              {
+                "t": "p",
+                "x": "Google 내부에서는 Gemini Notebook이 A2UI 카드로 슬라이드 덱을 구성하고, Gemini는 조직이 자체 운영하는 에이전트의 A2UI 응답을 렌더링한다. 1.0용 Jetpack Compose 지원도 곧 나온다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Google、A2UI\n1.0 正式版を公開",
+          "body": "GoogleのA2UI 1.0で、エージェントは文章でなく対話型UIで答える。",
+          "mini_headline": "A2UIが1.0に",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "現在のエージェントとのやり取りは、ターミナル時代のコンピューターと同じ段階にある。能力はあるが、ほぼすべてをテキストで返す。Googleは、生成UI向けオープンプロトコルの初の安定版となるA2UI 1.0をリリースする。これによりAIエージェントは、確認用フォームやチャートといったインタラクティブな画面で応答できる。"
+              },
+              {
+                "t": "video",
+                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/original_videos/A2UI_1.0_sick_day_three_ways_2.mp4"
+              },
+              {
+                "t": "p",
+                "x": "A2UIでは、エージェントが何を表示するかを記述し、各アプリが独自のネイティブコンポーネントでUIを描画する。エージェントが使うのはユーザーのデザインシステムだけだ。開発者は、Web、Android、iOS向けのオープンソースのレンダラーSDKsと、Python、TypeScript、Dart向けのエージェントSDKsで今すぐ利用できる。バージョン1.0では双方向の関数呼び出しに加え、アクセシビリティと拡張機能のサポートが追加された。"
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/06_atlassian_jira.original.png",
+                "cap": "Jiraの作業項目内で、エージェントがチームにフォローアップを依頼する。"
+              },
+              {
+                "t": "p",
+                "x": "Atlassian、Alation、Bloomberg、ByteDanceなどの企業がすでにこれを使って開発を進めている。AtlassianはA2UIをJiraに導入し、AlationのフィードはA2UIを使ってClaude内で表示される。"
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/07_alation.original.png",
+                "cap": "Claude（左）とAlationのData Products App（右）で表示された同じAlationフィード。"
+              },
+              {
+                "t": "p",
+                "x": "Google社内では、Gemini NotebookがA2UIカードを使ってスライド資料を作成し、Geminiは各組織独自のエージェントからのA2UI応答を表示する。1.0向けのJetpack Composeサポートも近く提供される。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Google发布智能体\n界面协议A2UI 1.0",
+          "body": "Google的A2UI 1.0 协议让智能体用交互式界面组件而非大段文字作答。",
+          "mini_headline": "A2UI迈入1.0",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "如今用户与智能体的交互，就像终端时代的计算机：能力很强，却几乎什么都用文字回答。Google正在发布A2UI 1.0，这是其生成式UI开放协议的首个稳定版本。它让AI智能体能用交互式界面作答，比如一个待确认的表单或一张图表。"
+              },
+              {
+                "t": "video",
+                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/original_videos/A2UI_1.0_sick_day_three_ways_2.mp4"
+              },
+              {
+                "t": "p",
+                "x": "借助A2UI，智能体描述要显示的内容，各个应用再用自己的原生组件绘制UI。智能体只使用你的设计系统。开发者现在即可通过面向Web、Android和iOS的开源渲染器SDKs，以及面向Python、TypeScript和Dart的智能体SDKs使用它。1.0 版本新增了双向函数调用，并支持无障碍功能和扩展。"
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/06_atlassian_jira.original.png",
+                "cap": "智能体在Jira工作项中请团队跟进。"
+              },
+              {
+                "t": "p",
+                "x": "Atlassian、Alation、Bloomberg和ByteDance等公司已在用它进行开发。Atlassian正把A2UI引入Jira，Alation的信息流则通过A2UI在Claude中渲染。"
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/07_alation.original.png",
+                "cap": "同一个Alation信息流分别在Claude（左）和Alation的Data Products App（右）中的渲染效果。"
+              },
+              {
+                "t": "p",
+                "x": "在Google内部，Gemini Notebook用A2UI卡片来搭建幻灯片，Gemini则渲染来自各组织自有智能体的A2UI响应。对 1.0 的Jetpack Compose支持即将推出。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Google lanza A2UI 1.0 para\ninterfaces creadas por agentes",
+          "body": "El protocolo A2UI 1.0 de Google permite a los agentes responder con componentes interactivos en vez de texto.",
+          "mini_headline": "A2UI llega a la 1.0",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Hoy, la interacción de los usuarios con los agentes está donde estaba la informática en la era de la terminal: son capaces, pero responden casi todo con texto. Google lanza A2UI 1.0, la primera versión estable de su protocolo abierto para UI generativa. Permite que los agentes de AI respondan con pantallas interactivas, como un formulario para confirmar o un gráfico."
+              },
+              {
+                "t": "video",
+                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/original_videos/A2UI_1.0_sick_day_three_ways_2.mp4"
+              },
+              {
+                "t": "p",
+                "x": "Con A2UI, el agente describe qué mostrar y cada app dibuja la UI con sus propios componentes nativos. Los agentes usan su sistema de diseño y nada más. Los desarrolladores ya pueden usarlo con SDKs de renderizado de código abierto para web, Android e iOS, y SDKs de agente para Python, TypeScript y Dart. La versión 1.0 añade llamadas a funciones bidireccionales, además de compatibilidad con accesibilidad y extensiones."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/06_atlassian_jira.original.png",
+                "cap": "Un agente pide al equipo un seguimiento dentro de una tarea de Jira."
+              },
+              {
+                "t": "p",
+                "x": "Empresas como Atlassian, Alation, Bloomberg y ByteDance ya están desarrollando con él. Atlassian llevará A2UI a Jira, y el feed de Alation se muestra en Claude mediante A2UI."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/07_alation.original.png",
+                "cap": "El mismo feed de Alation mostrado en Claude (izquierda) y en la Data Products App de Alation (derecha)."
+              },
+              {
+                "t": "p",
+                "x": "Dentro de Google, Gemini Notebook usa tarjetas A2UI para preparar presentaciones de diapositivas, y Gemini muestra respuestas A2UI de los propios agentes de las organizaciones. La compatibilidad de Jetpack Compose con la 1.0 llegará pronto."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "hf-trellis2-lora-guide",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Hugging Face의\nTRELLIS.2 튜닝법",
+      "body": "Hugging Face가 TRELLIS.2 LoRA-fine-tune 도구를 냈다.",
+      "mini_headline": "TRELLIS.2를 내 3D 에셋으로 튜닝",
+      "tool": "KeyShot",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/3d-lora-finetuning",
+      "accent": "#eb367f",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/3d-lora-finetuning/sole_orbit_base_vs_lora.gif"
+          },
+          {
+            "t": "p",
+            "x": "Hugging Face가 인기 3D 모델 TRELLIS.2(image-to-3D)를 자기 3D 에셋으로 LoRA-fine-tune하는 fine-tuning 스크립트와 컨테이너를 내놨다. 로컬에서도, Hugging Face Jobs에서도 돌릴 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "범용(general-purpose) 모델은 특정 용도에서 중요한 세부를 틀리기도 한다. 팀은 Google Scanned Objects 가운데 신발 188개짜리 일부를 썼다. 사전학습 모델은 대체로 그럴듯한 신발을 만들었지만 밑창이 틀렸다."
+          },
+          {
+            "t": "img",
+            "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/3d-lora-finetuning/pipeline_lr.png",
+            "cap": "TRELLIS.2 파이프라인"
+          },
+          {
+            "t": "p",
+            "x": "LoRA 어댑터는 물체의 형태와 기하 구조를 맡는 sparse-structure flow DiT와 shape flow DiT에만 붙이고, texture flow DiT는 고정한다. 이렇게 하면 학습할 어댑터 파라미터는 모두 약 9.3 million 개다."
+          },
+          {
+            "t": "img",
+            "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/3d-lora-finetuning/heldout_meshes.png"
+          },
+          {
+            "t": "p",
+            "x": "held-out 물체 아홉 개에서 평균 F-score는 기본 모델이 0.276, 신발 어댑터를 붙인 모델이 0.803이다. Chamfer distance는 0.174에서 0.033으로 줄었고 normal consistency는 0.530에서 0.804로 올랐다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Hugging Face shows how to\nfine-tune TRELLIS.2 for 3D",
+          "body": "Hugging Face released scripts and containers to LoRA-fine-tune the TRELLIS.2 image-to-3D model on your own assets.",
+          "mini_headline": "Fine-tune TRELLIS.2 on your 3D",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/3d-lora-finetuning/sole_orbit_base_vs_lora.gif"
+              },
+              {
+                "t": "p",
+                "x": "Hugging Face provides fine-tuning scripts and containers to fine-tune TRELLIS.2, a popular 3D model, on your 3D assets, that can run both locally and on Hugging Face Jobs."
+              },
+              {
+                "t": "p",
+                "x": "A general-purpose model can make errors in details that are important for a specific application. The team used a subset of Google Scanned Objects with 188 footwear objects: the pretrained model usually produced shoes that looked correct, but the soles were incorrect."
+              },
+              {
+                "t": "img",
+                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/3d-lora-finetuning/pipeline_lr.png",
+                "cap": "TRELLIS.2 pipeline"
+              },
+              {
+                "t": "p",
+                "x": "LoRA adapters are added only to the sparse-structure flow DiT and the shape flow DiT, which control the object's shape and geometry; the texture flow DiT is frozen. The configuration trains approximately 9.3 million adapter parameters in total."
+              },
+              {
+                "t": "img",
+                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/3d-lora-finetuning/heldout_meshes.png"
+              },
+              {
+                "t": "p",
+                "x": "On nine held-out objects, the base model has a mean F-score of 0.276, compared with 0.803 for the model with the footwear adapters. Chamfer distance falls from 0.174 to 0.033, and normal consistency rises from 0.530 to 0.804."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Hugging Face의\nTRELLIS.2 튜닝법",
+          "body": "Hugging Face가 TRELLIS.2 LoRA-fine-tune 도구를 냈다.",
+          "mini_headline": "TRELLIS.2를 내 3D 에셋으로 튜닝",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/3d-lora-finetuning/sole_orbit_base_vs_lora.gif"
+              },
+              {
+                "t": "p",
+                "x": "Hugging Face가 인기 3D 모델 TRELLIS.2(image-to-3D)를 자기 3D 에셋으로 LoRA-fine-tune하는 fine-tuning 스크립트와 컨테이너를 내놨다. 로컬에서도, Hugging Face Jobs에서도 돌릴 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "범용(general-purpose) 모델은 특정 용도에서 중요한 세부를 틀리기도 한다. 팀은 Google Scanned Objects 가운데 신발 188개짜리 일부를 썼다. 사전학습 모델은 대체로 그럴듯한 신발을 만들었지만 밑창이 틀렸다."
+              },
+              {
+                "t": "img",
+                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/3d-lora-finetuning/pipeline_lr.png",
+                "cap": "TRELLIS.2 파이프라인"
+              },
+              {
+                "t": "p",
+                "x": "LoRA 어댑터는 물체의 형태와 기하 구조를 맡는 sparse-structure flow DiT와 shape flow DiT에만 붙이고, texture flow DiT는 고정한다. 이렇게 하면 학습할 어댑터 파라미터는 모두 약 9.3 million 개다."
+              },
+              {
+                "t": "img",
+                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/3d-lora-finetuning/heldout_meshes.png"
+              },
+              {
+                "t": "p",
+                "x": "held-out 물체 아홉 개에서 평균 F-score는 기본 모델이 0.276, 신발 어댑터를 붙인 모델이 0.803이다. Chamfer distance는 0.174에서 0.033으로 줄었고 normal consistency는 0.530에서 0.804로 올랐다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Hugging Faceが\n3D TRELLIS.2調整",
+          "body": "Hugging FaceがTRELLIS.2のLoRA-fine-tune法を示した。",
+          "mini_headline": "TRELLIS.2を自分の3D 素材で調整",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/3d-lora-finetuning/sole_orbit_base_vs_lora.gif"
+              },
+              {
+                "t": "p",
+                "x": "Hugging Faceは、人気の3D モデルでimage-to-3D モデルでもあるTRELLIS.2を自分の3D アセットでLoRA-fine-tuneするためのfine-tuning用スクリプトとコンテナを提供している。ローカルでもHugging Face Jobsでも実行できる。"
+              },
+              {
+                "t": "p",
+                "x": "汎用(general-purpose)モデルは、特定の用途で重要な細部を誤ることがある。チームはGoogle Scanned Objectsのうち履物188点からなるサブセットを使った。事前学習済みモデルはたいてい正しく見える靴を生成したが、靴底は誤っていた。"
+              },
+              {
+                "t": "img",
+                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/3d-lora-finetuning/pipeline_lr.png",
+                "cap": "TRELLIS.2のパイプライン"
+              },
+              {
+                "t": "p",
+                "x": "LoRAアダプターは、物体の形状とジオメトリを制御するsparse-structure flow DiTとshape flow DiTにのみ追加し、texture flow DiTは凍結する。この構成で学習するアダプターのパラメータは合計で約9.3 million 個である。"
+              },
+              {
+                "t": "img",
+                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/3d-lora-finetuning/heldout_meshes.png"
+              },
+              {
+                "t": "p",
+                "x": "九つのheld-out物体で、ベースモデルの平均F-scoreは0.276、履物アダプターを加えたモデルは0.803だった。Chamfer distanceは0.174から0.033に下がり、normal consistencyは0.530から0.804に上がった。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Hugging Face示范\n3D TRELLIS.2微调",
+          "body": "Hugging Face发布TRELLIS.2的LoRA-fine-tune脚本与容器。",
+          "mini_headline": "用自己的3D 资产微调TRELLIS.2",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/3d-lora-finetuning/sole_orbit_base_vs_lora.gif"
+              },
+              {
+                "t": "p",
+                "x": "Hugging Face提供fine-tuning脚本和容器，可用自己的3D 资产对热门3D 模型、image-to-3D 模型TRELLIS.2进行LoRA-fine-tune，既能在本地运行，也能在Hugging Face Jobs上运行。"
+              },
+              {
+                "t": "p",
+                "x": "通用(general-purpose)模型可能在对特定应用很重要的细节上出错。团队使用了Google Scanned Objects中由188件鞋类物体组成的子集：预训练模型生成的鞋通常看起来没问题，但鞋底是错的。"
+              },
+              {
+                "t": "img",
+                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/3d-lora-finetuning/pipeline_lr.png",
+                "cap": "TRELLIS.2流程"
+              },
+              {
+                "t": "p",
+                "x": "LoRA适配器只加在控制物体形状与几何结构的sparse-structure flow DiT和shape flow DiT上，texture flow DiT保持冻结。该配置共训练约9.3 million 个适配器参数。"
+              },
+              {
+                "t": "img",
+                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/3d-lora-finetuning/heldout_meshes.png"
+              },
+              {
+                "t": "p",
+                "x": "在九个held-out物体上，基础模型的平均F-score为0.276，加上鞋类适配器的模型为0.803。Chamfer distance从0.174降至0.033，normal consistency从0.530升至0.804。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Hugging Face explica cómo\najustar TRELLIS.2 para 3D",
+          "body": "Hugging Face lanzó scripts y contenedores para el LoRA-fine-tune de TRELLIS.2, modelo image-to-3D, con assets propios.",
+          "mini_headline": "Ajusta TRELLIS.2 con tus modelos 3D",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/3d-lora-finetuning/sole_orbit_base_vs_lora.gif"
+              },
+              {
+                "t": "p",
+                "x": "Hugging Face ofrece scripts y contenedores de fine-tuning para hacer LoRA-fine-tune de TRELLIS.2, un popular modelo 3D de tipo image-to-3D, con tus propios assets 3D, que pueden ejecutarse tanto en local como en Hugging Face Jobs."
+              },
+              {
+                "t": "p",
+                "x": "Un modelo de propósito general (general-purpose) puede equivocarse en detalles importantes para una aplicación concreta. El equipo usó un subconjunto de Google Scanned Objects con 188 objetos de calzado: el modelo preentrenado solía generar zapatos de aspecto correcto, pero con suelas incorrectas."
+              },
+              {
+                "t": "img",
+                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/3d-lora-finetuning/pipeline_lr.png",
+                "cap": "Pipeline de TRELLIS.2"
+              },
+              {
+                "t": "p",
+                "x": "Los adaptadores LoRA se añaden solo al sparse-structure flow DiT y al shape flow DiT, que controlan la forma y la geometría del objeto; el texture flow DiT queda congelado. La configuración entrena en total unos 9.3 millones de parámetros de adaptador."
+              },
+              {
+                "t": "img",
+                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/3d-lora-finetuning/heldout_meshes.png"
+              },
+              {
+                "t": "p",
+                "x": "En nueve objetos held-out, el modelo base obtiene un F-score medio de 0.276, frente a 0.803 del modelo con los adaptadores de calzado. La Chamfer distance baja de 0.174 a 0.033 y la normal consistency sube de 0.530 a 0.804."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Hugging Face의\nTRELLIS.2 튜닝법",
+          "body": "Hugging Face가 TRELLIS.2 LoRA-fine-tune 도구를 냈다.",
+          "mini_headline": "TRELLIS.2를 내 3D 에셋으로 튜닝",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/3d-lora-finetuning/sole_orbit_base_vs_lora.gif"
+              },
+              {
+                "t": "p",
+                "x": "Hugging Face는 인기 3D 모델인 TRELLIS.2(image-to-3D)를 자신의 3D 에셋으로 LoRA-fine-tune할 수 있는 fine-tuning 스크립트와 컨테이너를 제공한다. 로컬과 Hugging Face Jobs 양쪽에서 모두 실행할 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "범용(general-purpose) 모델은 특정 용도에 중요한 세부에서 오류를 낼 수 있다. 팀은 Google Scanned Objects 가운데 신발 188개로 이뤄진 일부를 사용했다. 사전학습 모델은 대체로 그럴듯한 신발을 만들었지만 밑창은 틀렸다."
+              },
+              {
+                "t": "img",
+                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/3d-lora-finetuning/pipeline_lr.png",
+                "cap": "TRELLIS.2 파이프라인"
+              },
+              {
+                "t": "p",
+                "x": "LoRA 어댑터는 물체의 형태와 기하 구조를 제어하는 sparse-structure flow DiT와 shape flow DiT에만 붙이고, texture flow DiT는 고정한다. 이 구성에서 학습하는 어댑터 파라미터는 모두 약 9.3 million 개다."
+              },
+              {
+                "t": "img",
+                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/3d-lora-finetuning/heldout_meshes.png"
+              },
+              {
+                "t": "p",
+                "x": "held-out 물체 아홉 개에서 기본 모델의 평균 F-score는 0.276이고, 신발 어댑터를 붙인 모델은 0.803이다. Chamfer distance는 0.174에서 0.033으로 줄고, normal consistency는 0.530에서 0.804로 오른다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Hugging Faceが\n3D TRELLIS.2調整",
+          "body": "Hugging FaceがTRELLIS.2のLoRA-fine-tune法を示した。",
+          "mini_headline": "TRELLIS.2を自分の3D 素材で調整",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/3d-lora-finetuning/sole_orbit_base_vs_lora.gif"
+              },
+              {
+                "t": "p",
+                "x": "Hugging Faceは、人気の3D モデルでimage-to-3D モデルでもあるTRELLIS.2を自分の3D アセットでLoRA-fine-tuneするためのfine-tuning用スクリプトとコンテナを提供している。ローカルでもHugging Face Jobsでも実行できる。"
+              },
+              {
+                "t": "p",
+                "x": "汎用(general-purpose)モデルは、特定の用途で重要な細部を誤ることがある。チームはGoogle Scanned Objectsのうち履物188点からなるサブセットを使った。事前学習済みモデルはたいてい正しく見える靴を生成したが、靴底は誤っていた。"
+              },
+              {
+                "t": "img",
+                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/3d-lora-finetuning/pipeline_lr.png",
+                "cap": "TRELLIS.2のパイプライン"
+              },
+              {
+                "t": "p",
+                "x": "LoRAアダプターは、物体の形状とジオメトリを制御するsparse-structure flow DiTとshape flow DiTにのみ追加し、texture flow DiTは凍結する。この構成で学習するアダプターのパラメータは合計で約9.3 million 個である。"
+              },
+              {
+                "t": "img",
+                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/3d-lora-finetuning/heldout_meshes.png"
+              },
+              {
+                "t": "p",
+                "x": "九つのheld-out物体で、ベースモデルの平均F-scoreは0.276、履物アダプターを加えたモデルは0.803だった。Chamfer distanceは0.174から0.033に下がり、normal consistencyは0.530から0.804に上がった。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Hugging Face示范\n3D TRELLIS.2微调",
+          "body": "Hugging Face发布TRELLIS.2的LoRA-fine-tune脚本与容器。",
+          "mini_headline": "用自己的3D 资产微调TRELLIS.2",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/3d-lora-finetuning/sole_orbit_base_vs_lora.gif"
+              },
+              {
+                "t": "p",
+                "x": "Hugging Face提供fine-tuning脚本和容器，可用自己的3D 资产对热门3D 模型、image-to-3D 模型TRELLIS.2进行LoRA-fine-tune，既能在本地运行，也能在Hugging Face Jobs上运行。"
+              },
+              {
+                "t": "p",
+                "x": "通用(general-purpose)模型可能在对特定应用很重要的细节上出错。团队使用了Google Scanned Objects中由188件鞋类物体组成的子集：预训练模型生成的鞋通常看起来没问题，但鞋底是错的。"
+              },
+              {
+                "t": "img",
+                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/3d-lora-finetuning/pipeline_lr.png",
+                "cap": "TRELLIS.2流程"
+              },
+              {
+                "t": "p",
+                "x": "LoRA适配器只加在控制物体形状与几何结构的sparse-structure flow DiT和shape flow DiT上，texture flow DiT保持冻结。该配置共训练约9.3 million 个适配器参数。"
+              },
+              {
+                "t": "img",
+                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/3d-lora-finetuning/heldout_meshes.png"
+              },
+              {
+                "t": "p",
+                "x": "在九个held-out物体上，基础模型的平均F-score为0.276，加上鞋类适配器的模型为0.803。Chamfer distance从0.174降至0.033，normal consistency从0.530升至0.804。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Hugging Face explica cómo\najustar TRELLIS.2 para 3D",
+          "body": "Hugging Face lanzó scripts y contenedores para el LoRA-fine-tune de TRELLIS.2, modelo image-to-3D, con assets propios.",
+          "mini_headline": "Ajusta TRELLIS.2 con tus modelos 3D",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/3d-lora-finetuning/sole_orbit_base_vs_lora.gif"
+              },
+              {
+                "t": "p",
+                "x": "Hugging Face ofrece scripts y contenedores de fine-tuning para hacer LoRA-fine-tune de TRELLIS.2, un popular modelo 3D de tipo image-to-3D, con tus propios assets 3D, que pueden ejecutarse tanto en local como en Hugging Face Jobs."
+              },
+              {
+                "t": "p",
+                "x": "Un modelo de propósito general (general-purpose) puede equivocarse en detalles importantes para una aplicación concreta. El equipo usó un subconjunto de Google Scanned Objects con 188 objetos de calzado: el modelo preentrenado solía generar zapatos de aspecto correcto, pero con suelas incorrectas."
+              },
+              {
+                "t": "img",
+                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/3d-lora-finetuning/pipeline_lr.png",
+                "cap": "Pipeline de TRELLIS.2"
+              },
+              {
+                "t": "p",
+                "x": "Los adaptadores LoRA se añaden solo al sparse-structure flow DiT y al shape flow DiT, que controlan la forma y la geometría del objeto; el texture flow DiT queda congelado. La configuración entrena en total unos 9.3 millones de parámetros de adaptador."
+              },
+              {
+                "t": "img",
+                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/3d-lora-finetuning/heldout_meshes.png"
+              },
+              {
+                "t": "p",
+                "x": "En nueve objetos held-out, el modelo base obtiene un F-score medio de 0.276, frente a 0.803 del modelo con los adaptadores de calzado. La Chamfer distance baja de 0.174 a 0.033 y la normal consistency sube de 0.530 a 0.804."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "google-labs-tabletop-canvas",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Google Labs의\nTabletop 공유 앱",
+      "body": "Google Labs Tabletop은 일정·투표 설명을 공유 공간으로 만든다.",
+      "mini_headline": "그룹을 위한 앱 Tabletop",
+      "tool": "AI Workflow",
+      "source": "Google",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
+      "accent": "#ff5a4d",
+      "motif": "frame",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "video",
+            "yt": "8upa4JZir3I"
+          },
+          {
+            "t": "p",
+            "x": "가족 여행 계획이든 동호회 리그 운영이든 포틀럭 파티든, 모두가 한곳에서 거들고 만들고 정할 수 있으면 그룹 조율이 한결 쉬워진다."
+          },
+          {
+            "t": "p",
+            "x": "오늘 실시간 협업용으로 만든 Google Labs의 새 실험 Tabletop을 소개한다."
+          },
+          {
+            "t": "p",
+            "x": "링크와 파일, 아이디어를 넣고 @tabletop에 프롬프트를 쓰거나 시작 템플릿을 고르면 맞춤형 대화형 여행 일정표, 저녁 메뉴 투표, 비용 분담 계산기, 토너먼트 대진표가 만들어진다. 공간이 준비되면 그룹 채팅에 초대 링크를 올리면 된다. Google Doc처럼 모두가 들어와 동시에 쓸 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "Tabletop은 U.S.(18+)에서 대기자 명단 방식으로 출시되고 있다. labs.google/tabletop에서 신청해 자리를 잡으면 된다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Google Labs Tabletop builds\nshared apps from a prompt",
+          "body": "Google Labs' Tabletop turns a group's description of an itinerary, poll or bracket into a shared multiplayer space.",
+          "mini_headline": "Tabletop: apps for groups",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "8upa4JZir3I"
+              },
+              {
+                "t": "p",
+                "x": "Whether you’re planning a family trip, running a rec league or hosting a potluck, coordinating as a group is easier when everyone can pitch in, build and decide together in one place."
+              },
+              {
+                "t": "p",
+                "x": "Today, we’re introducing Tabletop, a new Google Labs experiment built for real-time collaboration."
+              },
+              {
+                "t": "p",
+                "x": "Just add in your links, files, and ideas, then prompt @tabletop — or pick a starter template — to generate custom interactive trip itineraries, dinner polls, expense splitters, and tournament brackets. Once your space is ready, drop the invite link in your group chat to let everyone jump in and use it at the same time, like in a Google Doc."
+              },
+              {
+                "t": "p",
+                "x": "Tabletop is rolling out in the U.S. (18+) via waitlist. Pull up a chair and sign up at labs.google/tabletop."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Google Labs의\nTabletop 공유 앱",
+          "body": "Google Labs Tabletop은 일정·투표 설명을 공유 공간으로 만든다.",
+          "mini_headline": "그룹을 위한 앱 Tabletop",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "8upa4JZir3I"
+              },
+              {
+                "t": "p",
+                "x": "가족 여행 계획이든 동호회 리그 운영이든 포틀럭 파티든, 모두가 한곳에서 거들고 만들고 정할 수 있으면 그룹 조율이 한결 쉬워진다."
+              },
+              {
+                "t": "p",
+                "x": "오늘 실시간 협업용으로 만든 Google Labs의 새 실험 Tabletop을 소개한다."
+              },
+              {
+                "t": "p",
+                "x": "링크와 파일, 아이디어를 넣고 @tabletop에 프롬프트를 쓰거나 시작 템플릿을 고르면 맞춤형 대화형 여행 일정표, 저녁 메뉴 투표, 비용 분담 계산기, 토너먼트 대진표가 만들어진다. 공간이 준비되면 그룹 채팅에 초대 링크를 올리면 된다. Google Doc처럼 모두가 들어와 동시에 쓸 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "Tabletop은 U.S.(18+)에서 대기자 명단 방식으로 출시되고 있다. labs.google/tabletop에서 신청해 자리를 잡으면 된다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Google Labsの\nTabletop、共有アプリ",
+          "body": "Google LabsのTabletopは旅程や投票の説明を共有空間に変える。",
+          "mini_headline": "Tabletop：グループのためのアプリ",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "8upa4JZir3I"
+              },
+              {
+                "t": "p",
+                "x": "家族旅行の計画でも、レクリエーションリーグの運営でも、持ち寄りパーティーの主催でも、全員が一つの場所で手を貸し、作り、一緒に決められれば、グループでの調整は楽になる。"
+              },
+              {
+                "t": "p",
+                "x": "本日、リアルタイムのコラボレーション向けに作られたGoogle Labsの新しい実験、Tabletopを紹介する。"
+              },
+              {
+                "t": "p",
+                "x": "リンクやファイル、アイデアを追加して@tabletopにプロンプトを送るか、スターターテンプレートを選ぶだけで、カスタムのインタラクティブな旅程表、夕食の投票、費用の割り勘ツール、トーナメント表を生成できる。スペースの準備ができたら、招待リンクをグループチャットに貼れば、Google Docのように全員が同時に参加して使える。"
+              },
+              {
+                "t": "p",
+                "x": "Tabletopは順番待ちリストを通じてU.S.（18+）で提供が始まっている。椅子を引き寄せて、labs.google/tabletopで登録しよう。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Google Labs推出\nTabletop共享应用",
+          "body": "Google Labs的Tabletop把群组描述的行程、投票或赛程表变成共享空间。",
+          "mini_headline": "Tabletop：为群组而生的应用",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "8upa4JZir3I"
+              },
+              {
+                "t": "p",
+                "x": "无论是筹划家庭旅行、组织业余联赛，还是举办百家宴，只要每个人都能在同一个地方出力、搭建并共同决定，群体协调就会容易得多。"
+              },
+              {
+                "t": "p",
+                "x": "今天，我们推出Tabletop，这是一项专为实时协作打造的Google Labs新实验。"
+              },
+              {
+                "t": "p",
+                "x": "只需添加链接、文件和想法，然后向@tabletop输入提示——或选择一个入门模板——即可生成定制的交互式旅行行程、晚餐投票、费用分摊工具和锦标赛对阵表。空间准备好后，把邀请链接发到群聊里，大家就能像使用Google Doc一样同时加入使用。"
+              },
+              {
+                "t": "p",
+                "x": "Tabletop正通过候补名单在U.S.（18+）推出。搬把椅子坐下，前往labs.google/tabletop报名吧。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Google Labs Tabletop crea\napps compartidas con un prompt",
+          "body": "Tabletop, de Google Labs, convierte la descripción de un itinerario, encuesta o cuadro en un espacio compartido.",
+          "mini_headline": "Tabletop: apps para grupos",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "8upa4JZir3I"
+              },
+              {
+                "t": "p",
+                "x": "Ya sea para planificar un viaje familiar, organizar una liga recreativa o preparar una comida compartida, coordinarse en grupo es más fácil cuando todos pueden colaborar, construir y decidir juntos en un solo lugar."
+              },
+              {
+                "t": "p",
+                "x": "Hoy presentamos Tabletop, un nuevo experimento de Google Labs creado para la colaboración en tiempo real."
+              },
+              {
+                "t": "p",
+                "x": "Solo hay que añadir enlaces, archivos e ideas y luego escribir un prompt a @tabletop —o elegir una plantilla inicial— para generar itinerarios de viaje interactivos personalizados, encuestas para la cena, calculadoras de gastos compartidos y cuadros de torneos. Cuando el espacio esté listo, basta con compartir el enlace de invitación en el chat del grupo para que todos entren y lo usen a la vez, como en un Google Doc."
+              },
+              {
+                "t": "p",
+                "x": "Tabletop se está desplegando en U.S. (18+) mediante lista de espera. Tome asiento y regístrese en labs.google/tabletop."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Google Labs의\nTabletop 공유 앱",
+          "body": "Google Labs Tabletop은 일정·투표 설명을 공유 공간으로 만든다.",
+          "mini_headline": "Tabletop: 그룹을 위한 앱",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "8upa4JZir3I"
+              },
+              {
+                "t": "p",
+                "x": "가족 여행을 계획하든, 동호회 리그를 운영하든, 포틀럭 파티를 열든, 모두가 한곳에서 함께 거들고 만들고 결정할 수 있으면 그룹 단위 조율이 쉬워진다."
+              },
+              {
+                "t": "p",
+                "x": "오늘 실시간 협업을 위해 만든 새로운 Google Labs 실험, Tabletop을 소개한다."
+              },
+              {
+                "t": "p",
+                "x": "링크와 파일, 아이디어를 넣고 @tabletop에 프롬프트를 입력하거나 시작 템플릿을 고르면, 맞춤형 대화형 여행 일정표, 저녁 메뉴 투표, 비용 분담 계산기, 토너먼트 대진표를 만들 수 있다. 공간이 준비되면 그룹 채팅에 초대 링크를 올려, Google Doc처럼 모두가 들어와 동시에 쓰게 하면 된다."
+              },
+              {
+                "t": "p",
+                "x": "Tabletop은 대기자 명단을 통해 U.S.(18+)에서 출시되고 있다. 자리를 잡고 labs.google/tabletop에서 신청하면 된다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Google Labsの\nTabletop、共有アプリ",
+          "body": "Google LabsのTabletopは旅程や投票の説明を共有空間に変える。",
+          "mini_headline": "Tabletop：グループのためのアプリ",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "8upa4JZir3I"
+              },
+              {
+                "t": "p",
+                "x": "家族旅行の計画でも、レクリエーションリーグの運営でも、持ち寄りパーティーの主催でも、全員が一つの場所で手を貸し、作り、一緒に決められれば、グループでの調整は楽になる。"
+              },
+              {
+                "t": "p",
+                "x": "本日、リアルタイムのコラボレーション向けに作られたGoogle Labsの新しい実験、Tabletopを紹介する。"
+              },
+              {
+                "t": "p",
+                "x": "リンクやファイル、アイデアを追加して@tabletopにプロンプトを送るか、スターターテンプレートを選ぶだけで、カスタムのインタラクティブな旅程表、夕食の投票、費用の割り勘ツール、トーナメント表を生成できる。スペースの準備ができたら、招待リンクをグループチャットに貼れば、Google Docのように全員が同時に参加して使える。"
+              },
+              {
+                "t": "p",
+                "x": "Tabletopは順番待ちリストを通じてU.S.（18+）で提供が始まっている。椅子を引き寄せて、labs.google/tabletopで登録しよう。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Google Labs推出\nTabletop共享应用",
+          "body": "Google Labs的Tabletop把群组描述的行程、投票或赛程表变成共享空间。",
+          "mini_headline": "Tabletop：为群组而生的应用",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "8upa4JZir3I"
+              },
+              {
+                "t": "p",
+                "x": "无论是筹划家庭旅行、组织业余联赛，还是举办百家宴，只要每个人都能在同一个地方出力、搭建并共同决定，群体协调就会容易得多。"
+              },
+              {
+                "t": "p",
+                "x": "今天，我们推出Tabletop，这是一项专为实时协作打造的Google Labs新实验。"
+              },
+              {
+                "t": "p",
+                "x": "只需添加链接、文件和想法，然后向@tabletop输入提示——或选择一个入门模板——即可生成定制的交互式旅行行程、晚餐投票、费用分摊工具和锦标赛对阵表。空间准备好后，把邀请链接发到群聊里，大家就能像使用Google Doc一样同时加入使用。"
+              },
+              {
+                "t": "p",
+                "x": "Tabletop正通过候补名单在U.S.（18+）推出。搬把椅子坐下，前往labs.google/tabletop报名吧。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Google Labs Tabletop crea\napps compartidas con un prompt",
+          "body": "Tabletop, de Google Labs, convierte la descripción de un itinerario, encuesta o cuadro en un espacio compartido.",
+          "mini_headline": "Tabletop: apps para grupos",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "8upa4JZir3I"
+              },
+              {
+                "t": "p",
+                "x": "Ya sea para planificar un viaje familiar, organizar una liga recreativa o preparar una comida compartida, coordinarse en grupo es más fácil cuando todos pueden colaborar, construir y decidir juntos en un solo lugar."
+              },
+              {
+                "t": "p",
+                "x": "Hoy presentamos Tabletop, un nuevo experimento de Google Labs creado para la colaboración en tiempo real."
+              },
+              {
+                "t": "p",
+                "x": "Solo hay que añadir enlaces, archivos e ideas y luego escribir un prompt a @tabletop —o elegir una plantilla inicial— para generar itinerarios de viaje interactivos personalizados, encuestas para la cena, calculadoras de gastos compartidos y cuadros de torneos. Cuando el espacio esté listo, basta con compartir el enlace de invitación en el chat del grupo para que todos entren y lo usen a la vez, como en un Google Doc."
+              },
+              {
+                "t": "p",
+                "x": "Tabletop se está desplegando en U.S. (18+) mediante lista de espera. Tome asiento y regístrese en labs.google/tabletop."
               }
             ]
           }

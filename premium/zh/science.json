@@ -10553,6 +10553,124 @@
           "x": "科学家只需上传来自几十个细胞的单细胞RNA-seq快照，即可在无需重新训练的情况下预测新细胞状态下的变异效应。AlphaGenome与AlphaGenome 2仅供研究使用。"
         }
       ]
+    },
+    "science/deepmind-pardig-satweave": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://lh3.googleusercontent.com/EyHOPdy1RZC6ksZ50GThErLowPjtqkzgITH_CSP2Rh4UbsF4muddzfQ0id_Qro5VhuMNYIg9Sxk8ukt7gFVRbLsC4m47HUj07fAAGbhHm1se-h4N=w1440-h810-n-nu",
+          "cap": "抽象3D插图：一个地球仪被层层透明面板分割，展示不同的天气与气候数据集。"
+        },
+        {
+          "t": "p",
+          "x": "Google DeepMind正在发布两个基础数据集SatWeave和PARDIG，以支持天气、水文和气候应用的构建。二者都是其近期发布的WeatherNext 3模型取得进展的关键，两者的历史档案和实时数据流均已开放。"
+        },
+        {
+          "t": "p",
+          "x": "SatWeave是由静止卫星图像拼接而成的全球镶嵌图，融合了GOES-East和GOES-West、Meteosat与Himawari在17个可见光、水汽和红外通道上的观测。它每小时更新一次，使WeatherNext 3能够生成新的全球预报，而以每六小时刷新的分析数据初始化的模型则做不到这一点；此次发布还包括跨越十余年的历史档案。"
+        },
+        {
+          "t": "video",
+          "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/1JDTJ5D1fR_MbDBa/PARDIG_and_SatWeave__figure-3__mosaic_9620_nm_images.webm"
+        },
+        {
+          "t": "p",
+          "x": "PARDIG（Precipitation AI Reanalysis: Densely Inferred GPM）以NASA的GPM Core Observatory获取的稀疏星载雷达观测进行训练，能以约五小时的延迟生成15分钟、约10公里分辨率的全球降水数据。在小到中等降水上，其逐小时降水探测能力比NASA的IMERG-Final提高了30%以上。档案覆盖1999年至2026年，可在Google Cloud Storage和Google Earth Engine上公开获取。"
+        }
+      ]
+    },
+    "science/codex-collider-amplitudes": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://physicsworld.com/wp-content/uploads/2026/11/13-11-26-particle-collision-cern-635x358.jpg",
+          "cap": "大语言模型可能为分析高能粒子碰撞提供一种创建算法的新途径，例如2012年CMS探测器记录下的这次碰撞。(Courtesy: © CERN)"
+        },
+        {
+          "t": "p",
+          "x": "剑桥大学的Yi Gu和Sven Krippendorf在一篇尚未经同行评审的arXiv预印本中提供了概念验证，表明LLMs可用作搜索工具，寻找树图级散射振幅的新算法。OpenAI的Codex提出候选程序，测试程序评估其正确性和效率，再由LLM提出新的候选程序——这是一种自我演化的搜索。"
+        },
+        {
+          "t": "p",
+          "x": "研究测试了三个目标：扩展性、结构和复杂度。每个目标都产生了比初始代码更快的最优方案。针对扩展性的优化找到了一种成本随粒子数线性增长的形式体系，比初始代码快805倍；复杂度测试则使运算次数减少了48倍。这些技术都不新颖。"
+        },
+        {
+          "t": "p",
+          "x": "与Sherpa和MadGraph相比，复杂度最优方案——一个独立的Python原型——在六个外部粒子的情形下比两者都慢。研究目的是检验AI-driven搜索能否改进起始算法，而非超越成熟的编译型生成器，而且这些算法并未覆盖整个标准模型。Krippendorf表示，该方法适用于具备快速数值检验的任务。"
+        }
+      ]
+    },
+    "science/tohoku-mlp-copilot-aluminum": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-agents-advance-atom.jpg",
+          "cap": "MLP Copilot将模型开发、验证和专家评审连接起来。AI智能体负责整理工作和证据，研究人员则做出科学判断和模型使用决策。Credit: PNAS (2026)"
+        },
+        {
+          "t": "p",
+          "x": "东北大学开发的AI智能体MLP Copilot在人类监督下连接计算工具与科学证据，构建原子间相互作用模型。它从量子计算中学习原子能量和受力，使更大规模的模拟成为可能。该研究于2026年10月15日发表在PNAS上。"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-agents-advance-atom-1.jpg",
+          "cap": "1,500 K和2,000 K下的模拟显示了氧化壳的变化如何影响铝的输运和氧化。Credit: PNAS (2026)"
+        },
+        {
+          "t": "p",
+          "x": "为进行演示，团队研究了铝纳米颗粒的氧化。经过约80轮主动学习迭代，他们收集了88,833个原子构型。在中等温度下，临时的纳米级通道在限制输运的同时让氧化得以继续——即“呼吸模式”。在更高温度下，氧化壳破裂使铝核暴露于氧气中，氧化随之加速。"
+        },
+        {
+          "t": "p",
+          "x": "AI智能体负责整理项目知识、检索证据并协助制定验证计划；接受哪些模型、如何解读结果则由研究人员决定。论文题为Multi-AI agent framework reveals the \"oxide gatekeeper\" in aluminum nanoparticle oxidation。"
+        }
+      ]
+    },
+    "science/concept2brain-eeg-sim": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.psypost.org/wp-content/uploads/2026/06/brainimg-2.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "科学家开发出一款名为Concept2Brain的AI工具，可预测人类脑电波对照片或书面文字的反应。据发表在Nature Communications上的研究，这一开放获取平台能生成与真实脑活动相似的合成EEG记录，或可让研究人员在招募志愿者之前模拟脑电波实验。"
+        },
+        {
+          "t": "p",
+          "x": "该模型以88名大学志愿者观看360张照片时的EEG数据训练而成。条件变分自编码器将每段129通道记录压缩为256个数字，围绕OpenAI的CLIP构建的转换器则把图像或文本映射到这一摘要中。在未参与训练的照片上，合成脑电波在约100至700毫秒间与真实记录高度吻合，模型还在没有人脸标签的情况下重现了170 ms的人脸反应。"
+        },
+        {
+          "t": "p",
+          "x": "第一作者Alejandro Santos-Mayo提醒，合成数据无法取代从人类参与者身上收集的实证数据；基于文本提示的预测验证较少，在外部数据集上的吻合度也较弱。"
+        }
+      ]
+    },
+    "science/science-m87-ml-reanalysis": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-fuzy-organge-glowing.jpg",
+          "cap": "这张Event Horizon Telescope（事件视界望远镜）图像显示了Messier 87中心的黑洞，Messier 87是邻近的室女座（Virgo）星系团中的一个大质量星系。图片来源：Event Horizon Telescope Collaboration et al. 2019."
+        },
+        {
+          "t": "p",
+          "x": "澳大利亚国家科学机构CSIRO的一支四人团队开发出一种强大的新成像技术，验证了2019年Event Horizon Telescope（EHT）拍摄的星系M87中心黑洞这一里程碑式图像。该方法发表于Nature，可减少校准误差和主观图像处理决策带来的影响。"
+        },
+        {
+          "t": "p",
+          "x": "第一作者Samuel Lai博士表示：“我们这支澳大利亚小团队开发了先进的机器学习和人工智能技术，用来捕捉黑洞结构信息并滤除大气干扰。”他说：“把它应用到最初的Event Horizon Telescope数据集时，我们得到的黑洞在大小和形状上与历史性的EHT图像几乎完全相同。重要的是，在处理M87数据时，我们的模型完全不知道黑洞长什么样。”"
+        },
+        {
+          "t": "p",
+          "x": "项目负责人Nithyanandan Thyagarajan博士说：“我们的技术组合的是望远镜数据的三元组，而不是标准的二元组，从而消除这些误差。”这些发现进一步证明，光环是真实的天体物理特征，而非图像重建产生的假象。"
+        },
+        {
+          "t": "p",
+          "x": "EHT Collaboration负责人Laurent Loinard博士称，GenDIReCT“是一种优雅且完全独立的方法，复原了M87*多年来的光环结构，与EHT Collaboration已发表的结果高度一致”。Thyagarajan表示，这项技术还可用于改进医学成像和地震测绘。"
+        }
+      ]
     }
   }
 }

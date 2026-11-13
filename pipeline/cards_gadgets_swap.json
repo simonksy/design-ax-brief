@@ -1,0 +1,27 @@
+{
+  "date": "2026-11-14",
+  "section": "gadgets",
+  "cards": [
+    {
+      "id": "gadgets-christian-linux-ai-phone",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "A $449 Linux phone built\naround AI Bible study",
+      "body": "Christian project Jesus Dash blends Linux and AI, and its founder plans a $449 PineCone phone for early 2027.",
+      "mini_headline": "A $449 AI Bible phone",
+      "tool": "Gadgets",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/Christian-Linux-project-plans-449-phone-with-AI-powered-Bible-study.1445691.0.html",
+      "accent": "#0070f3",
+      "motif": "headset",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {"t": "img", "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Golden-Codex-Smartphone-Showcase.png"},
+          {"t": "p", "x": "Can faith and artificial intelligence come together in a new operating system? Jesus Dash is an ambitious Christian technology project combining Linux, AI-powered assistance, and religious resources."},
+          {"t": "p", "x": "Its founder is also developing a $449 smartphone called PineCone, targeting early 2027."}
+        ]
+      }
+    }
+  ]
+}

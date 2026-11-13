@@ -1,102 +1,143 @@
 {
   "section": "games",
-  "now_iso": "2026-11-12T22:03:17Z",
+  "now_iso": "2026-11-13T22:03:00Z",
   "window_hours": 336,
   "items": [
     {
-      "title": "Chinese Tech Giant Tencent Launches AI Companions For Gamers",
-      "url": "https://80.lv/articles/tencent-launches-ai-gaming-companions-that-watch-you-play-offer-advice/",
-      "source": "80 Level",
+      "title": "Crimson Desert studio Pearl Abyss is implementing AI \"throughout our entire development pipeline\", expects DokeV in 2028",
+      "url": "https://www.eurogamer.net/crimson-desert-ai-pipeline-dokev-2028",
+      "source": "Eurogamer",
       "category": "games",
-      "published_iso": "2026-11-12T14:27:00+00:00",
-      "excerpt": "Meet the four anime girls who, hopefully, won't spy on you.",
-      "og_image": "https://cdn.80.lv/api/upload/meta/50999/images/6af5cceb475db/contain_1200x630.jpg"
+      "published_iso": "2026-11-13T18:29:00+00:00",
+      "excerpt": "Pearl Abyss says it is integrating AI across its whole development pipeline to raise productivity and quality, including on the creature-collecting action game DokeV, now targeted for 2028 - months after gen-AI assets were pulled from Crimson Desert.",
+      "og_image": "https://assetsio.gnwcdn.com/crimson-deser-kliff.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "cluster": "c0"
     },
     {
-      "title": "Ludo releases free, open-source toolbox that lets AI coding agents prepare game assets for engines | Games Industry Network | Türkiye, Europe, MENA & Asia",
-      "url": "https://mobidictum.com/ludo-free-open-source-toolbox-ai-coding-agents/",
-      "source": "Mobidictum",
+      "title": "Despite Crimson Desert's AI backlash, Pearl Abyss is now implementing the tech \"throughout our entire development pipeline\"",
+      "url": "https://www.gamesradar.com/games/open-world/despite-crimson-deserts-ai-backlash-pearl-abyss-is-now-implementing-the-tech-throughout-our-entire-development-pipeline-including-for-upcoming-pokemon-like-dokev/",
+      "source": "GamesRadar+",
       "category": "games",
-      "published_iso": "2026-11-12T10:54:06+03:00",
-      "excerpt": "Ludo.ai, the developer’s companion for creating production-ready game assets, announced the Ludo Toolbox, a set of 32 free command-line tools that give coding",
-      "og_image": "https://mobidictum.com/wp-content/uploads/2026/03/ludo_ai_logo.png",
-      "history_match": {
-        "score": 0.236,
-        "date": "2026-10-20",
-        "url": "https://gamesbeat.com/ludo-ai-brings-ai-game-asset-creation-into-the-developer-terminal-with-new-cli/",
-        "title": "Ludo.ai brings AI game asset creation into the developer terminal with new CLI",
-        "band": "related"
-      }
+      "published_iso": "2026-11-13T16:33:47Z",
+      "excerpt": "GamesRadar's take on Pearl Abyss's pipeline-wide AI adoption, noting gen-AI assets were removed from Crimson Desert in March after player backlash. (Same story as Eurogamer - alternate source.)",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/Diz9EunMknKCPcmYpyFJcC-1920-80.jpg",
+      "cluster": "c0"
     },
     {
-      "title": "GDC State of the Game Industry report: 40% of developers are using generative AI for work",
-      "url": "https://www.gamesindustry.biz/gdc-state-of-the-game-industry-report-40-of-developers-are-using-generative-ai-for-work",
-      "source": "GamesIndustry.biz",
+      "title": "『紅の砂漠』のPearl Abyss、AI活用を拡大へ―反復作業の自動化やテストの最適化",
+      "url": "http://www.gamespark.jp/article/2026/11/13/174827.html",
+      "source": "Game*Spark",
       "category": "games",
-      "published_iso": "2026-11-12T17:00:00+00:00",
-      "excerpt": "Survey project lead Beth Elderkin lays bare the mood of the industry, the job market, and how people are making games",
-      "og_image": "https://assetsio.gnwcdn.com/state-of-the-game-industry-2026_SaCPvuv.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "cluster": "c2"
+      "published_iso": "2026-11-13T13:45:02+09:00",
+      "excerpt": "Japanese coverage detailing Pearl Abyss's AI plan: automating repetitive production work and optimising testing, applied to DokeV, with a development-progress update promised within 2026. (Same story - alternate source with workflow detail.)",
+      "og_image": "https://www.gamespark.jp/imgs/ogp_f/1218992.jpg"
     },
     {
-      "title": "Developers say they mostly use genAI it for 'brainstorming'",
-      "url": "https://www.gamedeveloper.com/production/genai-using-developers-say-they-mostly-use-it-for-research-and-brainstorming-",
-      "source": "Game Developer",
-      "category": "games",
-      "published_iso": "2026-11-12T18:15:00.000Z",
-      "excerpt": "A new State of the Industry report from GDC Festival of Gaming illuminates how game developers are using generative AI.",
-      "og_image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt8f913239a8843c17/6af4d305b6c48b2ac7f3e1b5/brainstormfeatured.jpg?disable=upscale&width=1200&height=630&fit=crop",
-      "cluster": "c2"
-    },
-    {
-      "title": "Not Too Many Developers Are Working on PS6 and Xbox Project Helix Games Yet, According to a New Developer Survey",
-      "url": "https://www.ign.com/articles/ai-usage-up-ps6-and-xbox-helix-development-still-low-in-newest-gdc-dev-survey",
-      "source": "IGN",
-      "category": "games",
-      "published_iso": "2026-11-12T19:37:48.798Z",
-      "excerpt": "GDC Festival of Gaming organizers released the data from their 15th annual game developer survey, the State of the Game Industry report. Over 2600 game developers anonymously responded, and the results show increased generative AI usage, not too many developers working on PlayStation 6 or Xbox Project Helix next-gen projects as of yet, an increase in the number of developers in a union, and more.",
-      "og_image": "https://assets-prd.ignimgs.com/2026/11/03/untitled-design-1793738170553.png?width=1280&format=jpg&auto=webp&quality=80"
-    },
-    {
-      "title": "Apex Neural Rendering Challenges NVIDIA DLSS With Up To 2.4X Faster Frame Generation, 62% Lower VRAM Usage, And Broad GPU Support",
-      "url": "https://wccftech.com/apex-neural-rendering-challenges-nvidia-dlss-with-up-to-2-4x-faster-frame-generation-62-lower-vram-usage-and-broad-gpu-support/",
+      "title": "Quick Spectral Super Resolution comes soon to six PS5 games: Spider-Man 2, CONTROL Resonant, The Finals, ARC Raiders, No Man's Sky, and Helldivers",
+      "url": "https://wccftech.com/quick-spectral-super-resolution-six-ps5-games/",
       "source": "Wccftech",
       "category": "games",
-      "published_iso": "2026-11-12T12:19:00+00:00",
-      "excerpt": "Apex Neural Rendering rivals NVIDIA DLSS with up to 2.4X faster frame generation, 62% lower VRAM usage, and beta support for older GPUs.",
-      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-30.jpg",
-      "history_match": {
-        "score": 0.286,
-        "date": "2026-10-14",
-        "url": "https://wccftech.com/nvidia-dlss-5-runs-faster-reduces-vram-use-coming-to-hogwarts-legacy-where-winds-meet/",
-        "title": "NVIDIA DLSS 5 Runs 30% Faster Now, Reduces VRAM Use By 20% & Coming To Hogwarts Legacy & Where Winds Meet In November",
-        "band": "related"
-      }
+      "published_iso": "2026-11-13T15:00:00+00:00",
+      "excerpt": "Sony's QSSR, a lighter ML upscaler that brings part of the PS5 Pro's PSSR to the base PS5, is rolling out to six more games - a Sony-shipped AI rendering release rather than a mod.",
+      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/11/ARC-Raiders-QSSR-HD-1920x1080.jpeg",
+      "cluster": "c3"
     },
     {
-      "title": "対話型AI「Claude」が『ポケモン』関連の作業を拒否するようになったとの報告。“ゲーム模倣NG”に加え、「アセット」「ロゴ」の使用も拒む",
-      "url": "https://automaton-media.com/articles/newsjp/20261112-478893/",
-      "source": "AUTOMATON",
+      "title": "Sony's base PS5 AI upscaling tech is making that $900 PS5 Pro price look worse",
+      "url": "https://www.gamesradar.com/hardware/sonys-base-ps5-ai-upscaling-tech-is-making-that-usd900-ps5-pro-price-look-worse-as-marvels-spider-man-2-no-mans-sky-and-more-get-visual-updates/",
+      "source": "GamesRadar+",
       "category": "games",
-      "published_iso": "2026-11-12T08:03:12+00:00",
-      "excerpt": "対話型AI「Claude」について、『ポケモン』シリーズ関連の生成を拒否するようになったとの報告が寄せられている。",
-      "og_image": "https://automaton-media.com/wp-content/uploads/2026/11/20261112-478893-header.jpg"
+      "published_iso": "2026-11-13T16:48:34Z",
+      "excerpt": "Remedy's senior graphics programmer calls QSSR 'the same kind of leap on the PS5 that PSSR brought to PS5 Pro' as Spider-Man 2, No Man's Sky and others get AI-upscaled visual updates. (Same story as Wccftech.)",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/iTB8mFrbjaSQEVetjDyaGX-1920-80.jpg",
+      "history_match": {
+        "score": 0.151,
+        "date": "2026-10-15",
+        "url": "https://kotaku.com/total-war-shogun-2-complete-edition-gen-ai-art-sega-creative-assembly-2000745877",
+        "title": "Players Are Furious About Total War: Shogun 2's AI-Upscaled 'Enhanced' Edition",
+        "band": "related"
+      },
+      "cluster": "c3"
     },
     {
-      "title": "Vibecoded Pokémon Fan Project Developer Is Outraged At AI Clampdowns On IP Infringement After Spending Thousands Per Month",
-      "url": "https://kotaku.com/pokemon-arena-2d-fan-project-vibe-coded-claude-ai-big-kid-nation-2000756082",
+      "title": "Spider-Man 2 and more are going to look even better on base PS5",
+      "url": "https://kotaku.com/spider-man-2-and-a-bunch-of-other-great-games-are-about-to-look-even-better-on-base-ps5-2000756594",
       "source": "Kotaku",
       "category": "games",
-      "published_iso": "2026-11-12T11:00:24+00:00",
-      "excerpt": "They insist the game will still release, but lament it’s harder to get Claude to make the game for them",
-      "og_image": "https://kotaku.com/app/uploads/2026/11/Pokemon-Officer-Jenny-1200x675.jpg",
+      "published_iso": "2026-11-13T16:11:41+00:00",
+      "excerpt": "AI upscaling on base PS5 expands beyond Wolverine and Ghost of Yotei as QSSR support comes to a new batch of titles. (Same story - alternate source.)",
+      "og_image": "https://kotaku.com/app/uploads/2026/11/spider-man-2-1200x675.jpg",
+      "cluster": "c3"
+    },
+    {
+      "title": "PS5 QSSR comes to Control Resonant, Marvel's Spider-Man 2, ARC Raiders, and more",
+      "url": "https://www.gamingbolt.com/ps5-qssr-comes-to-control-resonant-marvels-spider-man-2-arc-raiders-and-more",
+      "source": "GamingBolt",
+      "category": "games",
+      "published_iso": "2026-11-13T00:00:00Z",
+      "excerpt": "QSSR, released last month, gives base PS5 owners some of the benefits of PS5 Pro-exclusive PSSR; the new title list was announced on 11-13. (Same story - alternate source.)",
+      "og_image": "https://gamingbolt.com/wp-content/uploads/2026/11/marvels-spider-man-2-qssr-scaled.jpg",
+      "cluster": "c3"
+    },
+    {
+      "title": "Epic Games CEO Tim Sweeney predicts AI revolution in gaming with 10X productivity and entirely new genres",
+      "url": "https://gamesbeat.com/epic-games-ceo-tim-sweeney-predicts-ai-revolution-in-gaming-with-10x-productivity-and-entirely-new-genres-if-devs-get-behind-it-exclusive/",
+      "source": "GamesBeat",
+      "category": "games",
+      "published_iso": "2026-11-13T14:30:00+00:00",
+      "excerpt": "In a GamesBeat exclusive, Sweeney says AI could deliver up to 10x productivity, revive experimentation and spawn new genres if developers embrace it - and outlines how Epic sees AI reshaping how games are built. (Commentary - check for concrete Epic tool/policy news in body.)",
+      "og_image": "https://gamesbeat.com/wp-content/uploads/2026/11/tim-sweeney.jpg",
       "history_match": {
-        "score": 0.191,
-        "date": "2026-10-25",
-        "url": "https://kotaku.com/of-course-pokemons-been-pulled-into-the-ai-decompilation-frenzy-2000748316",
-        "title": "Of Course Pokémon's Been Pulled Into The AI Decompilation Frenzy",
+        "score": 0.192,
+        "date": "2026-10-28",
+        "url": "https://www.gamedeveloper.com/programming/epic-is-updating-the-eula-to-allow-ai-training-on-outputs-from-unreal-engine-and-metahuman",
+        "title": "Epic Games is updating its EULA to allow AI training",
         "band": "related"
       }
+    },
+    {
+      "title": "How to protect your IP against the army of AI clones",
+      "url": "https://www.gamesindustry.biz/how-to-protect-your-ip-against-the-army-of-ai-clones",
+      "source": "GamesIndustry.biz",
+      "category": "games",
+      "published_iso": "2026-11-13T15:00:00+00:00",
+      "excerpt": "Pryor Cashman lawyers give practical steps for developers to protect their games under US law when generative AI tools are used to clone them.",
+      "og_image": "https://assetsio.gnwcdn.com/pexels-icon0-1214270.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+    },
+    {
+      "title": "\"It's a wild situation\" - An investor and publisher perspective on the rise of AI copycats, the discoverability crisis, and more",
+      "url": "https://www.gamesindustry.biz/its-a-wild-situation-an-investor-and-publisher-perspective-on-the-rise-of-ai-copycats-the-discoverability-crisis-and-more",
+      "source": "GamesIndustry.biz",
+      "category": "games",
+      "published_iso": "2026-11-13T12:04:00+00:00",
+      "excerpt": "A panel at the AI and Games Conference in London weighs the problems and opportunities AI brings, from AI-made copycat games to store discoverability.",
+      "og_image": "https://assetsio.gnwcdn.com/IMG_8131-(1).jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+    },
+    {
+      "title": "Steam's submission and approval backlog is forcing indie devs to delay game launches",
+      "url": "https://www.gamesindustry.biz/steams-submission-and-approval-backlog-is-forcing-indie-devs-to-delay-game-launches",
+      "source": "GamesIndustry.biz",
+      "category": "games",
+      "published_iso": "2026-11-13T12:00:00+00:00",
+      "excerpt": "Valve says it has spent 'the last several weeks' scaling its review process as a flood of submissions, widely tied to AI-made games, pushes indie launches back.",
+      "og_image": "https://assetsio.gnwcdn.com/adi_screenshotnew_05_pc.jpg.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "history_match": {
+        "score": 0.285,
+        "date": "2026-11-04",
+        "url": "https://www.rockpapershotgun.com/steams-review-queue-is-clogged-up-by-ai-slop-salacious-fire-emblem-ish-food-devils-gets-a-delay-because-its-devs-think-valve-is-inundated-with-genai-games",
+        "title": "\"Steam's review queue is clogged up by AI slop\": Food Devils gets a delay because its devs think Valve is inundated with genAI games",
+        "band": "related"
+      },
+      "cluster": "c10"
+    },
+    {
+      "title": "Why are games hiding their blatant AI usage if they think it's totally cool and fine and the future",
+      "url": "https://aftermath.site/ai-disclosure-policy-steam-pc-games/",
+      "source": "Aftermath",
+      "category": "games",
+      "published_iso": "2026-11-12T23:00:49.000Z",
+      "excerpt": "Aftermath examines how studios skirt Steam's AI disclosure rules and why games using generative AI keep leaving it off their store pages.",
+      "og_image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/11/photo-1694434943114-c8ea2049f781.jpeg"
     },
     {
       "title": "As low-effort AI slop continues to flood Steam, yet more developers announce game delays caused by Valve's growing approval backlog",
@@ -104,10 +145,27 @@
       "source": "Eurogamer",
       "category": "games",
       "published_iso": "2026-11-12T16:06:20+00:00",
-      "excerpt": "Steam's growing game review backlog is becoming more of a problem for indie developers, who keep having to push back release dates.",
+      "excerpt": "More indie developers are pushing back release dates as Steam's review queue grows amid a surge of low-effort AI-generated submissions.",
       "og_image": "https://assetsio.gnwcdn.com/australia-did-it-keyart-1.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "history_match": {
-        "score": 0.226,
+        "score": 0.27,
+        "date": "2026-11-04",
+        "url": "https://www.rockpapershotgun.com/steams-review-queue-is-clogged-up-by-ai-slop-salacious-fire-emblem-ish-food-devils-gets-a-delay-because-its-devs-think-valve-is-inundated-with-genai-games",
+        "title": "\"Steam's review queue is clogged up by AI slop\": Food Devils gets a delay because its devs think Valve is inundated with genAI games",
+        "band": "related"
+      },
+      "cluster": "c10"
+    },
+    {
+      "title": "「Steam審査が終わらない」多数のゲームで発売延期続出。待っている間にAIクローン発生",
+      "url": "https://automaton-media.com/articles/newsjp/steams-20261112-478874/",
+      "source": "AUTOMATON",
+      "category": "games",
+      "published_iso": "2026-11-12T06:41:30+00:00",
+      "excerpt": "Steam review delays caused by surging submissions and frequent re-reviews are forcing release delays - and AI clones of games can appear while developers wait. (Same story as Eurogamer/GI.biz - Japanese source.)",
+      "og_image": "https://automaton-media.com/wp-content/uploads/2026/11/steams-20261112-478874-header.jpg",
+      "history_match": {
+        "score": 0.251,
         "date": "2026-11-04",
         "url": "https://www.rockpapershotgun.com/steams-review-queue-is-clogged-up-by-ai-slop-salacious-fire-emblem-ish-food-devils-gets-a-delay-because-its-devs-think-valve-is-inundated-with-genai-games",
         "title": "\"Steam's review queue is clogged up by AI slop\": Food Devils gets a delay because its devs think Valve is inundated with genAI games",
@@ -115,87 +173,186 @@
       }
     },
     {
-      "title": "AI-native game development: Making games that can only be made with AI | GamesBeat Next 2026",
-      "url": "https://gamesbeat.com/ai-native-game-development-making-games-that-can-only-be-made-with-ai-gamesbeat-next-2026/",
-      "source": "GamesBeat",
+      "title": "対話型AI「Claude」が『ポケモン』関連の作業を拒否するようになったとの報告",
+      "url": "https://automaton-media.com/articles/newsjp/20261112-478893/",
+      "source": "AUTOMATON",
       "category": "games",
-      "published_iso": "2026-11-12T15:47:04+00:00",
-      "excerpt": "AI-native game development could unlock new kinds of games, with intelligent characters, dynamic worlds and gameplay built around AI.",
-      "og_image": "https://gamesbeat.com/wp-content/uploads/2026/11/AI-1.jpg"
+      "published_iso": "2026-11-12T08:03:12+00:00",
+      "excerpt": "Users report Claude now refuses Pokemon-related work - not only game imitation but also using the series' assets and logos - extending Anthropic's clone restrictions to fan projects.",
+      "og_image": "https://automaton-media.com/wp-content/uploads/2026/11/20261112-478893-header.jpg",
+      "history_match": {
+        "score": 0.198,
+        "date": "2026-11-02",
+        "url": "https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games",
+        "title": "Anthropic tells Claude to stop remaking video games",
+        "band": "related"
+      },
+      "cluster": "c14"
     },
     {
-      "title": "최석원 컴투스플랫폼 대표 \"'하이브 액실'로 글로벌 공략⋯백엔드 연동 AI로 처리\"",
+      "title": "\"Claude models are starting to refuse work on Pokemon fan projects,\" says vibe coder spending up to $2,000 a month",
+      "url": "https://www.gamesradar.com/games/pokemon/claude-models-are-starting-to-refuse-work-on-pokemon-fan-projects-says-vibe-coder-spending-up-to-usd2-000-a-month-on-pokemon-fan-game/",
+      "source": "GamesRadar+",
+      "category": "games",
+      "published_iso": "2026-11-11T17:36:11Z",
+      "excerpt": "The developer of Pokemon Arena 2D says Claude has begun refusing work on the fan game after Anthropic's crackdown, but the project will continue. (Same story as AUTOMATON.)",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/RD5bLqAh4yZn67iiKb2Dg4-1920-80.jpg",
+      "cluster": "c14"
+    },
+    {
+      "title": "Xbox boss seemingly champions gen-AI development as she celebrates 25 years of Xbox",
+      "url": "https://www.eurogamer.net/microsoft-xbox-gen-ai-asha-sharma-memo",
+      "source": "Eurogamer",
+      "category": "games",
+      "published_iso": "2026-11-12T17:32:20+00:00",
+      "excerpt": "Xbox CEO Asha Sharma's 25th-anniversary memo says a small team will soon build worlds that today take hundreds, read widely as an endorsement of generative AI in game making.",
+      "og_image": "https://assetsio.gnwcdn.com/asha-sharma-xbox-showcase-2026.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+    },
+    {
+      "title": "Xbox CEO looks to the future as Microsoft's console turns 25: 'A single person will soon be able to wield capabilities that once required entire nations'",
+      "url": "https://www.pcgamer.com/software/ai/xbox-ceo-looks-to-the-future-as-microsofts-console-turns-25-a-single-person-will-soon-be-able-to-wield-capabilities-that-once-required-entire-nations/",
+      "source": "PC Gamer",
+      "category": "games",
+      "published_iso": "2026-11-12T18:29:49Z",
+      "excerpt": "PC Gamer reads Sharma's anniversary message as an AI vision for Xbox development. (Same story as Eurogamer.)",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/HggwSWr5d5qdRucowUPLXB-1920-80.jpg"
+    },
+    {
+      "title": "Xbox CEO hints that the solution to an imploding video game industry is AI",
+      "url": "https://kotaku.com/xbox-ceo-hints-that-the-solution-to-an-imploding-video-game-industry-is-ai-2000756321",
+      "source": "Kotaku",
+      "category": "games",
+      "published_iso": "2026-11-12T20:15:01+00:00",
+      "excerpt": "Kotaku on the same Sharma memo, framing it against layoffs and industry contraction. (Same story - alternate source.)",
+      "og_image": "https://kotaku.com/app/uploads/2026/08/asha-sharma-xbox-1200x675.jpg",
+      "history_match": {
+        "score": 0.17,
+        "date": "2026-10-17",
+        "url": "https://kotaku.com/ai-vibe-coding-just-hit-the-video-game-industry-like-an-avalanche-2000746366",
+        "title": "Interview: The Video Game Industry's Vibe-Coded Future",
+        "band": "related"
+      }
+    },
+    {
+      "title": "One Elder Scrolls fan is reviving and upgrading (with AI) a lost spin-off for the Nokia N-Gage and porting it to PC",
+      "url": "https://www.pcgamer.com/games/the-elder-scrolls/one-elder-scrolls-fan-is-reviving-and-upgrading-a-lost-spin-off-for-the-nokia-n-gage-and-porting-it-to-pc/",
+      "source": "PC Gamer",
+      "category": "games",
+      "published_iso": "2026-11-11T00:00:19Z",
+      "excerpt": "A fan is using AI tools to restore and upgrade The Elder Scrolls Travels: Shadowkey, the N-Gage spin-off, and port it to PC.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/nag2arKf76CYq2aNFJVzpd-1920-80.jpg"
+    },
+    {
+      "title": "DLSS 5 now available in War Thunder",
+      "url": "https://www.nvidia.com/en-us/geforce/news/war-thunder-dlss-5-3d-guided-neural-rendering-out-now/",
+      "source": "NVIDIA",
+      "category": "games",
+      "published_iso": "2026-11-12T06:00:00-08:00",
+      "excerpt": "War Thunder ships official DLSS 5 with 3D-guided neural rendering on RTX 50 Series, letting developers tune AI-generated lighting and materials. (Upscaling cap - official NVIDIA integration.)",
+      "og_image": "https://www.nvidia.com/content/dam/en-zz/nvidiaweb/geforce/news/war-thunder-dlss-5-3d-guided-neural-rendering-out-now/war-thunder-dlss-5-3d-guided-neural-rendering-out-now-ogimage.jpg",
+      "history_match": {
+        "score": 0.321,
+        "date": "2026-11-04",
+        "url": "https://www.nvidia.com/en-us/geforce/news/war-thunder-dlss-5-3d-guided-neural-rendering-developer-interview/",
+        "title": "How Gaijin Tuned DLSS 5 for War Thunder",
+        "band": "related"
+      }
+    },
+    {
+      "title": "최석원 컴투스플랫폼 대표 \"'하이브 액실'로 글로벌 공략, 백엔드 연동 AI로 처리\"",
       "url": "https://www.inews24.com/view/2023215",
       "source": "iNews24",
       "category": "games",
       "published_iso": "2026-11-09T09:00:00+09:00",
-      "excerpt": "출시 초기 해외 가입자 비중 40%…AI 활용해 게임 개발·운영 부담 완화\r\n2027년 초 언리얼·고도·HTML5 지원 확대…글로벌 고객층 확보 추진 “하이브 액실은 AI가 이해할 수 있는 형태로 구현돼 있습니다. AI에게 시키면 사람의 개입 없이 거의 모든 일을 처리합니다. 기존에 있던 작업들이 없어졌다고 할 수 있을 정도입니다.”최석원 컴투스플랫폼 대표는 지난 5일 컴 [아이뉴스24 곽민구 기자] “하이브 액실은 AI가 이해할 수 있는 형태로 구현돼 있습니다. AI에게 시키면 사람의 개입 없이 거의 모든 일을 처리합니다. 기존에 있던 작업들이 없어졌다고 할 수 있을 정도입니다.”",
-      "og_image": "https://image.inews24.com/v1/1172ca4df059ce.jpg"
+      "excerpt": "Com2uS Platform says its game backend Hive Axel is built so AI agents can read it and wire up login, payments and other backend integration with almost no human intervention; Unreal, Godot and HTML5 support follows in early 2027.",
+      "og_image": "https://image.inews24.com/v1/1172ca4df059ce.jpg",
+      "history_match": {
+        "score": 0.164,
+        "date": "2026-10-27",
+        "url": "https://www.gamemeca.com/view.php?gid=1782378",
+        "title": "AI 환경 편의성 확장, 챗GPT용 '하이브 액실 플러그인' 공개",
+        "band": "related"
+      }
     },
     {
-      "title": "How to organize a video game project with AI: 10 tips",
-      "url": "https://unity.com/blog/how-to-organize-a-game-project-with-ai",
-      "source": "Unity",
+      "title": "Following site-wide discussion on AI use, Nexus Mods add a \"daily limit\" to spots in the new mods tab",
+      "url": "https://www.rockpapershotgun.com/following-site-wide-discussion-on-ai-use-nexus-mods-add-a-daily-limit-to-the-spots-in-the-new-mods-tab-one-person-can-hog-via-multiple-rapid-fire-uploads",
+      "source": "Rock Paper Shotgun",
       "category": "games",
-      "published_iso": "2026-11-10T00:00:00+00:00",
-      "excerpt": "How to organize a video game project with AI: 10 beginner tips on design briefs, naming, checkpoints, prompt logs, and playtesting – no coding needed.",
-      "og_image": "https://cdn.sanity.io/images/fuvbjjlp/production/2330bde656908d3aad3b4b3181a276993cc9fd61-1200x675.png"
+      "published_iso": "2026-11-10T11:17:50+00:00",
+      "excerpt": "After its AI-disclosure debate, Nexus Mods caps how many new-mods-tab spots one uploader can take with rapid-fire uploads in 24 hours. (Follow-up to the 11-05 Nexus AI disclosure story.)",
+      "og_image": "https://assetsio.gnwcdn.com/skyrim-ikea-mod-02.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "history_match": {
+        "score": 0.248,
+        "date": "2026-11-05",
+        "url": "https://www.ign.com/articles/nexus-mods-forces-mandatory-generative-ai-disclosures-and-filters",
+        "title": "'We Are Pro-Human Creativity' — Nexus Mods Forces Mandatory AI Disclosures and Filters, Explains Why It Won't Ban AI Mods",
+        "band": "related"
+      }
+    },
+    {
+      "title": "조카 그림, 클로드 페이블 5.2가 갓게임으로 제작",
+      "url": "http://www.gamey.kr/news/articleView.html?idxno=3019684",
+      "source": "GameY",
+      "category": "games",
+      "published_iso": "2026-11-12T17:22:41+09:00",
+      "excerpt": "Developer Lex Toumbourou handed his nephew's hand-drawn game design to Claude Fable 5.2 and got a 12-stage, 18-character four-player co-op beat-'em-up, 'Aiden's Revenge', playable in a browser overnight. (AI-coded game demo - deprioritized category.)",
+      "og_image": "https://cdn.gamey.kr/news/thumbnail/202611/3019684_174021_143_v150.jpg"
     }
   ],
   "dedup": {
-    "dropped": 6,
-    "kept": 13,
+    "dropped": 1,
+    "kept": 23,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
-    "dropped": [
-      {
-        "url": "https://automaton-media.com/articles/newsjp/steams-20261112-478874/",
-        "title": "「Steam審査が終わらない」多数のゲームで発売延期続出。待っている間にAIクローン発生、Steam上の露出機会も減少リスク",
-        "match": {
-          "score": 0.505,
-          "date": "2026-11-07",
-          "url": "http://www.gamespark.jp/article/2026/11/06/174568.html",
-          "title": "人気美女デッキ構築型ローグライク続編『NEOVERSE 2』11月14日Steam早期アクセスへ。6年越し新作だけどアートはAIフル活用、キャラの見た目ぜんぜん違う！？"
-        }
-      }
-    ],
-    "review": 4,
+    "dropped": [],
+    "review": 10,
     "same_story_pairs": [
       [
-        "https://www.gamesindustry.biz/gdc-state-of-the-game-industry-report-40-of-developers-are-using-generative-ai-for-work",
-        "https://www.gamedeveloper.com/production/genai-using-developers-say-they-mostly-use-it-for-research-and-brainstorming-",
-        0.321
+        "https://www.eurogamer.net/crimson-desert-ai-pipeline-dokev-2028",
+        "https://www.gamesradar.com/games/open-world/despite-crimson-deserts-ai-backlash-pearl-abyss-is-now-implementing-the-tech-throughout-our-entire-development-pipeline-including-for-upcoming-pokemon-like-dokev/",
+        0.612
+      ],
+      [
+        "https://wccftech.com/quick-spectral-super-resolution-six-ps5-games/",
+        "https://www.gamesradar.com/hardware/sonys-base-ps5-ai-upscaling-tech-is-making-that-usd900-ps5-pro-price-look-worse-as-marvels-spider-man-2-no-mans-sky-and-more-get-visual-updates/",
+        0.325
+      ],
+      [
+        "https://wccftech.com/quick-spectral-super-resolution-six-ps5-games/",
+        "https://www.gamingbolt.com/ps5-qssr-comes-to-control-resonant-marvels-spider-man-2-arc-raiders-and-more",
+        0.477
+      ],
+      [
+        "https://www.gamesradar.com/hardware/sonys-base-ps5-ai-upscaling-tech-is-making-that-usd900-ps5-pro-price-look-worse-as-marvels-spider-man-2-no-mans-sky-and-more-get-visual-updates/",
+        "https://kotaku.com/spider-man-2-and-a-bunch-of-other-great-games-are-about-to-look-even-better-on-base-ps5-2000756594",
+        0.4
+      ],
+      [
+        "https://www.gamesradar.com/hardware/sonys-base-ps5-ai-upscaling-tech-is-making-that-usd900-ps5-pro-price-look-worse-as-marvels-spider-man-2-no-mans-sky-and-more-get-visual-updates/",
+        "https://www.gamingbolt.com/ps5-qssr-comes-to-control-resonant-marvels-spider-man-2-arc-raiders-and-more",
+        0.339
+      ],
+      [
+        "https://kotaku.com/spider-man-2-and-a-bunch-of-other-great-games-are-about-to-look-even-better-on-base-ps5-2000756594",
+        "https://www.gamingbolt.com/ps5-qssr-comes-to-control-resonant-marvels-spider-man-2-arc-raiders-and-more",
+        0.395
+      ],
+      [
+        "https://www.gamesindustry.biz/steams-submission-and-approval-backlog-is-forcing-indie-devs-to-delay-game-launches",
+        "https://www.eurogamer.net/steam-game-submission-review-backlog-ai-slop-approval-delays",
+        0.421
+      ],
+      [
+        "https://automaton-media.com/articles/newsjp/20261112-478893/",
+        "https://www.gamesradar.com/games/pokemon/claude-models-are-starting-to-refuse-work-on-pokemon-fan-projects-says-vibe-coder-spending-up-to-usd2-000-a-month-on-pokemon-fan-game/",
+        0.359
       ]
     ]
   },
   "history_digest": [
-    {
-      "date": "2026-10-14",
-      "title": "VR Chat Community Dev Calls For Boycott Over 'Rampant Plague' Of AI",
-      "url": "https://kotaku.com/vr-chat-community-protests-an-influx-of-ai-slop-onto-platform-hurting-discoverability-2000742109"
-    },
-    {
-      "date": "2026-10-14",
-      "title": "NVIDIA DLSS 5 Runs 30% Faster Now, Reduces VRAM Use By 20% & Coming To Hogwarts Legacy & Where Winds Meet In November",
-      "url": "https://wccftech.com/nvidia-dlss-5-runs-faster-reduces-vram-use-coming-to-hogwarts-legacy-where-winds-meet/"
-    },
-    {
-      "date": "2026-10-14",
-      "title": "The happiest man in gaming hates generative AI",
-      "url": "https://www.gamesindustry.biz/the-happiest-man-in-gaming-hates-generative-ai"
-    },
-    {
-      "date": "2026-10-14",
-      "title": "Bloodborne PC port with full multiplayer can't get FromSoftware fans to vibe with vibe coding: \"I will just use the emulator made by humans\"",
-      "url": "https://www.gamesradar.com/games/action-rpg/bloodborne-pc-port-with-full-multiplayer-cant-get-fromsoftware-fans-to-vibe-with-vibe-coding-i-will-just-use-the-emulator-made-by-humans/"
-    },
-    {
-      "date": "2026-10-14",
-      "title": "Xbox is officially embracing the chaos of AI-powered game ports",
-      "url": "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration"
-    },
     {
       "date": "2026-10-15",
       "title": "Playgama launches a suite of tools that lets AI agents analyze, refine, and update games on their own",
@@ -855,6 +1012,31 @@
       "date": "2026-11-12",
       "title": "This mod to get DLSS 5 running on AMD RX 9000-series GPUs promises better performance than others",
       "url": "https://www.pcgamer.com/hardware/graphics-cards/amdlss5-gets-nvidias-neural-rendering-running-on-amd-graphics-cards-and-claims-64-percent-better-performance-than-other-mods/"
+    },
+    {
+      "date": "2026-11-13",
+      "title": "Chinese Tech Giant Tencent Launches AI Companions For Gamers",
+      "url": "https://80.lv/articles/tencent-launches-ai-gaming-companions-that-watch-you-play-offer-advice/"
+    },
+    {
+      "date": "2026-11-13",
+      "title": "AI-native game development: Making games that can only be made with AI | GamesBeat Next 2026",
+      "url": "https://gamesbeat.com/ai-native-game-development-making-games-that-can-only-be-made-with-ai-gamesbeat-next-2026/"
+    },
+    {
+      "date": "2026-11-13",
+      "title": "Ludo releases free, open-source toolbox that lets AI coding agents prepare game assets for engines",
+      "url": "https://mobidictum.com/ludo-free-open-source-toolbox-ai-coding-agents/"
+    },
+    {
+      "date": "2026-11-13",
+      "title": "Apex Neural Rendering Challenges NVIDIA DLSS With Up To 2.4X Faster Frame Generation, 62% Lower VRAM Usage, And Broad GPU Support",
+      "url": "https://wccftech.com/apex-neural-rendering-challenges-nvidia-dlss-with-up-to-2-4x-faster-frame-generation-62-lower-vram-usage-and-broad-gpu-support/"
+    },
+    {
+      "date": "2026-11-13",
+      "title": "GDC State of the Game Industry report: 40% of developers are using generative AI for work",
+      "url": "https://www.gamesindustry.biz/gdc-state-of-the-game-industry-report-40-of-developers-are-using-generative-ai-for-work"
     }
   ]
 }
