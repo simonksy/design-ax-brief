@@ -1,0 +1,113 @@
+{
+  "meta": {
+    "issue": "의료 AI, 환자 기록에 닿는 길",
+    "date": "2026.11.14",
+    "section": "MEDICINE",
+    "accent": "#00897b",
+    "note": "원문 4건 대조: 날짜를 원문 게재일로 고침(Fierce Gemini 11.10, STAT 11.11, 청년의사 11.12(개통식 11일), Fierce Dyania 11.13). 사진은 실제 개통식 사진(강원) 한 장만, Gemini는 Kurian 인용, MDCalc·Dyania는 stat. 수치 11월 10일 프리뷰·Epic 파트너, 10분→1분·8곳→35곳·2029년 72곳, 7,812명·16년·88개 질문 확인.",
+    "sources": [
+      "Fierce Healthcare — Google Cloud rolls out Gemini for healthcare (2026.11.10)",
+      "STAT — MDCalc launches a 'rumble strip' for doctors using generative AI tools (2026.11.11)",
+      "청년의사 — 강원 공공병원에 의료 AI 고속도로 시범 개통 (2026.11.12)",
+      "Fierce Healthcare — Dyania Health, Nvidia bring Synapsis AI inside hospital networks (2026.11.13)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 의료 · 11.10~11.13",
+      "thread": [
+        {
+          "d": "11.10",
+          "t": "클라우드",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        },
+        {
+          "d": "11.11",
+          "t": "걷어내기",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        },
+        {
+          "d": "11.12",
+          "t": "공공망",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        },
+        {
+          "d": "11.13",
+          "t": "병원 안",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        }
+      ],
+      "thread_note": "의료 AI의 승부처가 모델에서 환자 기록에 어떻게 닿느냐로 옮겨간다",
+      "eyebrow": "흐름 · 의료",
+      "headline": "의료 AI,\n환자 기록에 닿는 길",
+      "body": "한 건씩 보면 제품 출시다. 나란히 놓으면 클라우드·익명화·공공망·병원 내부, 기록에 닿는 길이 넷으로 갈린다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "quote",
+      "eyebrow": "2026.11.10",
+      "headline": "클라우드에서\nEHR까지 잇는다",
+      "body": "Google이 의료용 Gemini를 11월 10일 프리뷰로 냈다. EHR·청구 시스템에 연결하고 Epic, HCA가 함께한다.",
+      "foot": "2026.11.10",
+      "_src": "https://www.fiercehealthcare.com/ai-and-machine-learning/google-cloud-rolls-out-gemini-healthcare",
+      "_id": "google-gemini-healthcare-preview",
+      "quote": "정보가 부족한 게 아닙니다.\n규제 속에서 데이터를 행동으로\n옮기는 마찰이 문제입니다.",
+      "quote_by": "Thomas Kurian · Google Cloud CEO"
+    },
+    {
+      "n": 3,
+      "kind": "stat",
+      "eyebrow": "2026.11.11",
+      "headline": "질문에서\n정보를 걷어낸다",
+      "body": "MDCalc CrossCover는 질문에서 환자 정보를 지우고 챗봇 답의 정확성을 점검한다. 더 끌어오는 Epic 등과 반대다.",
+      "foot": "2026.11.11",
+      "_src": "https://www.statnews.com/2026/11/11/mdcalc-launches-crosscover-rumble-strip-for-clinical-ai-chatbots/",
+      "_id": "mdcalc-crosscover-launch",
+      "stat_top": "더 많은 환자 정보",
+      "stat_arrow": "CrossCover가 택한 길",
+      "stat_bottom": "질문에서 지운다",
+      "stat_strike": true
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.11.12",
+      "headline": "공공병원은\n국가망으로 잇는다",
+      "body": "EMR에 붙은 AI로 전원의뢰서 초안을 10분에서 1분 안으로 줄일 전망. 시범 8곳에서 2029년 공공병원 72곳으로.",
+      "foot": "2026.11.12",
+      "_src": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044493",
+      "_id": "gangwon-public-ai-highway",
+      "media": "pipeline/media/gangwon-public-ai-highway.jpg"
+    },
+    {
+      "n": 5,
+      "kind": "stat",
+      "eyebrow": "2026.11.13",
+      "headline": "기록은\n병원 밖으로 안 나간다",
+      "body": "Synapsis AI는 병원 자체 Nvidia에서 돈다. Cleveland Clinic은 이걸로 환자당 88개 질문에 답을 얻었다.",
+      "foot": "2026.11.13",
+      "_src": "https://www.fiercehealthcare.com/ai-and-machine-learning/dyania-health-nvidia-cleveland-clinic",
+      "_id": "dyania-nvidia-onprem",
+      "stat_top": "판막 치환 환자 7,812명",
+      "stat_arrow": "최대 16년 치 기록을 병원 안에서",
+      "stat_bottom": "88개 질문",
+      "stat_strike": false
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

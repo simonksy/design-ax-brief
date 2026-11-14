@@ -1,0 +1,112 @@
+{
+  "meta": {
+    "issue": "설계 도구, 에이전트를 들이다",
+    "date": "2026.11.14",
+    "section": "DESIGN",
+    "accent": "#0070f3",
+    "note": "원문 4건 대조: 날짜를 원문 게재일로 고침(Trimble 11.11→11.10, Siemens 11.12→11.11, Rhino 11.13→11.12, KeyShot 11.14→11.12). Trimble은 이미지가 없어 stat(누적 이용자 5,500만 명+), Rhino는 stat(하루 병합 PR 3.3→9.5건). Agent Studio·HyperLynx Agentic Toolkit(SerDes·DDR·SI·PI, 4분기 얼리 액세스)·KeyShot AI Agent(재질·조명·카메라·환경, 크레딧) 확인.",
+    "sources": [
+      "Engineering.com — Trimble expands AI capabilities across construction lifecycle (2026.11.10)",
+      "Engineering.com — Siemens adds agentic AI to HyperLynx verification workflows (2026.11.11)",
+      "AEC Magazine — Rhino World 2026: McNeel lets AI in (2026.11.12)",
+      "KeyShot — Meet your new AI Agent, plus personal cloud storage, enterprise SSO and easier variations in KeyShot Studio 2026.3 (2026.11.12)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 디자인 · 11.10~11.12",
+      "thread": [
+        {
+          "d": "11.10",
+          "t": "건설",
+          "c": "#0070f3",
+          "s": "DESIGN"
+        },
+        {
+          "d": "11.11",
+          "t": "회로 검증",
+          "c": "#0070f3",
+          "s": "DESIGN"
+        },
+        {
+          "d": "11.12",
+          "t": "모델링",
+          "c": "#0070f3",
+          "s": "DESIGN"
+        },
+        {
+          "d": "11.12",
+          "t": "렌더링",
+          "c": "#0070f3",
+          "s": "DESIGN"
+        }
+      ],
+      "thread_note": "설계·엔지니어링 소프트웨어가 에이전트를 앱 안으로 들인다",
+      "eyebrow": "흐름 · 디자인",
+      "headline": "설계 도구 안에\n에이전트가 산다",
+      "body": "한 건씩 보면 신기능 하나다. 건설·회로·3D 모델링·렌더링 도구가 사흘 사이 잇달아 에이전트를 안에 들였다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "stat",
+      "eyebrow": "2026.11.10",
+      "headline": "에이전트를\n고객이 만든다",
+      "body": "Trimble이 Agent Studio를 내놨다. 숙련자의 작업 절차와 노하우를 고객이 맞춤 AI 에이전트로 담는다.",
+      "foot": "2026.11.10",
+      "_src": "https://www.engineering.com/trimble-expands-ai-capabilities-across-construction-lifecycle/",
+      "_id": "trimble-construction-ai-agents",
+      "stat_top": "Trimble Connect 누적 이용자",
+      "stat_arrow": "그 위에 Agent Studio",
+      "stat_bottom": "5,500만 명+",
+      "stat_strike": false
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.11.11",
+      "headline": "회로 검증도\n말로 시킨다",
+      "body": "Siemens HyperLynx 에이전트 툴킷. 목표를 자연어로 주면 조율 에이전트가 SerDes·DDR 분석 에이전트를 부린다.",
+      "foot": "2026.11.11",
+      "_src": "https://www.engineering.com/siemens-adds-agentic-ai-to-hyperlynx-verification-workflows/",
+      "_id": "siemens-hyperlynx-agents",
+      "media": "pipeline/media/siemens-hyperlynx-agents.jpg"
+    },
+    {
+      "n": 4,
+      "kind": "stat",
+      "eyebrow": "2026.11.12",
+      "headline": "Rhino, 안에서\nAI를 열다",
+      "body": "McNeel은 모든 플랫폼에서 Rhino 안의 AI 접근을 원한다. 개발자 둘의 하루 병합 PR은 3.3건에서 9.5건이 됐다.",
+      "foot": "2026.11.12",
+      "_src": "https://aecmag.com/cad/rhino-world-2026-mcneel-lets-ai-in/",
+      "_id": "rhino9-mcneel-ai",
+      "stat_top": "하루 3.3건",
+      "stat_arrow": "8월~10월 중순, 병합 PR",
+      "stat_bottom": "9.5건",
+      "stat_strike": false
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.11.12",
+      "headline": "렌더 세팅은\n말로 맡긴다",
+      "body": "KeyShot Studio 2026.3 안의 AI Agent에 원하는 느낌을 말하면 재질·조명·카메라·환경을 맞춘다.",
+      "foot": "2026.11.12",
+      "_src": "https://www.keyshot.com/blog/keyshot-introduces-single-sign-on-ai-agent-and-more/",
+      "_id": "keyshot-studio-20263-agent",
+      "video": "pipeline/media/keyshot-studio-20263-agent.mp4"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

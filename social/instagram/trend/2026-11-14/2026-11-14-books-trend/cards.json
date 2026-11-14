@@ -1,0 +1,134 @@
+{
+  "meta": {
+    "issue": "번역은 AI가 먼저 한다",
+    "date": "2026.11.14",
+    "section": "BOOKS",
+    "accent": "#f5a623",
+    "note": "원문 5건 대조: 날짜를 원문 게재일로 고침(AUTOMATON 10.28→10.26, beSUCCESS 10.30→10.29, ANBA 11.08→11.03, IT동아 11.13→11.10, 더퍼블릭 11.14→11.13). 사진은 오로라 발대식 한 장만, 나머지는 stat/quote. 수치 확인: 재정제도심의회 22일·AI 번역, ToonFlow 한·일·영 3개 언어, KlooBR 24시간 내·94건 17개국, 지원 100명+ 중 30명, 교정수당 5명×30만원×4회=600만원·715쪽.",
+    "sources": [
+      "AUTOMATON WEST — Japan's Ministry of Finance proposes shared manga platform … The idea involves AI translation (2026.10.26)",
+      "beSUCCESS — 브레인벤쳐스, 웹툰 현지화 포토샵 플러그인 'ToonFlow' Adobe Exchange 등록 (2026.10.29)",
+      "ANBA — AI platform wins publishing award in Sharjah (2026.11.03)",
+      "IT동아 — AI가 초벌, 사람이 완성… 하이브마인드 '오로라 번역 서포터즈' 출범 (2026.11.10)",
+      "더퍼블릭 — AI로 번역했다는 대전문학 번역집, 교정수당 600만원 (2026.11.13)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "5건 · 책 · 10.26~11.13",
+      "thread": [
+        {
+          "d": "10.26",
+          "t": "만화 허브",
+          "c": "#f5a623",
+          "s": "BOOKS"
+        },
+        {
+          "d": "10.29",
+          "t": "식자 자동",
+          "c": "#f5a623",
+          "s": "BOOKS"
+        },
+        {
+          "d": "11.03",
+          "t": "24시간",
+          "c": "#f5a623",
+          "s": "BOOKS"
+        },
+        {
+          "d": "11.10",
+          "t": "후편집",
+          "c": "#f5a623",
+          "s": "BOOKS"
+        },
+        {
+          "d": "11.13",
+          "t": "교정수당",
+          "c": "#f5a623",
+          "s": "BOOKS"
+        }
+      ],
+      "thread_note": "번역은 AI가 먼저 하고, 사람은 고치는 자리로 옮겨 간다",
+      "eyebrow": "흐름 · 책",
+      "headline": "번역은\nAI가 먼저 한다",
+      "body": "한 건씩 보면 도구 하나, 사업 하나다. 이어 보면 사람 번역가의 자리가 초벌에서 교정으로 옮겨 간다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "stat",
+      "eyebrow": "2026.10.26",
+      "headline": "정부가 내건\nAI 번역 만화 허브",
+      "body": "일본 재무성이 여러 출판사 만화를 한곳에서 해외 독자에게 파는 공동 플랫폼을 제안했다. 다국어 번역은 AI로 한다는 구상이다.",
+      "foot": "2026.10.26",
+      "_src": "https://automaton-media.com/en/nongaming-news/japans-ministry-of-finance-proposes-shared-manga-platform-where-global-fans-can-access-multiple-publishers-in-one-place-the-idea-involves-ai-translation/",
+      "_id": "manga-platform",
+      "stat_top": "출판사별 해외 유통",
+      "stat_arrow": "재무성 제안",
+      "stat_bottom": "공동 허브 + AI 번역",
+      "stat_strike": false
+    },
+    {
+      "n": 3,
+      "kind": "stat",
+      "eyebrow": "2026.10.29",
+      "headline": "말풍선부터 식자까지\n한 번에",
+      "body": "브레인벤쳐스 ToonFlow가 Adobe Exchange에 올랐다. 말풍선 감지·OCR·기계번역·식자를 포토샵 안에서 잇는다.",
+      "foot": "2026.10.29",
+      "_src": "https://besuccess.com/?p=187516",
+      "_id": "books-toonflow-brainventures",
+      "stat_top": "감지·OCR·번역·식자",
+      "stat_arrow": "오토파일럿 한 번",
+      "stat_bottom": "한·일·영 3개 언어",
+      "stat_strike": false
+    },
+    {
+      "n": 4,
+      "kind": "stat",
+      "eyebrow": "2026.11.03",
+      "headline": "편집·번역·교정,\n하루면 끝",
+      "body": "AI로 책을 편집·교정·번역하는 브라질 KlooBR이 17개국 94곳이 겨룬 Sharjah 출판 기술상을 받았다.",
+      "foot": "2026.11.03",
+      "_src": "https://anba.com.br/en/ai-platform-wins-publishing-award-in-sharjah/",
+      "_id": "kloobr-sharjah-award",
+      "stat_top": "원고 업로드",
+      "stat_arrow": "편집·교정·번역",
+      "stat_bottom": "24시간 안에 책",
+      "stat_strike": false
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.11.10",
+      "headline": "AI가 초벌,\n사람이 다듬는다",
+      "body": "하이브마인드가 오로라 번역 서포터즈 30명을 뽑았다. AI 초벌 번역을 원문과 대조해 바로잡는 후편집이 주 업무다.",
+      "foot": "2026.11.10",
+      "_src": "https://it.donga.com/109886/",
+      "_id": "hivemind-aurora-translation",
+      "media": "pipeline/media/hivemind-aurora-translation.jpg"
+    },
+    {
+      "n": 6,
+      "kind": "quote",
+      "eyebrow": "2026.11.13",
+      "headline": "AI 번역집에\n교정수당 600만원",
+      "body": "발간사에 AI 번역을 밝힌 715쪽 대전문학 번역집에 교정수당 600만원이 나갔다. 시의회 감사에서 문제가 됐다.",
+      "foot": "2026.11.13",
+      "_src": "https://www.thepublic.kr/news/articleView.html?idxno=326466",
+      "_id": "books-daejeon-ai-anthology",
+      "quote": "번역을 실제로 한 것은\nAI냐, 사람이냐.",
+      "quote_by": "최대성 · 대전시의원"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 7
+    }
+  ]
+}

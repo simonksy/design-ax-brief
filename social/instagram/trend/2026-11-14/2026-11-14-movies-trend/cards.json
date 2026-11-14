@@ -1,0 +1,111 @@
+{
+  "meta": {
+    "issue": "배우의 AI 분신, 허락이 가른다",
+    "date": "2026.11.14",
+    "section": "MOVIES",
+    "accent": "#7928ca",
+    "note": "원문 4건 대조: 날짜를 원문 게재일로 고침(Bloody Disgusting 11.10→11.09, THR 11.13→11.12, Global Times 11.14→11.12, TheWrap 11.14→11.13). 사진은 Avni 1장만 두고 나머지는 quote·stat. 10월 31일 공개·Randolph 발언, 16만 명·10~15%·동의·통제·보상, Hongguo·Douyin 피고·성우 Ji Guanlin 발언, Avni 분신 제작 참여 확인.",
+    "sources": [
+      "Bloody Disgusting — Original 'Return of the Living Dead' Stars Slam AI-Generated Sequel (2026.11.09)",
+      "The Hollywood Reporter — Around 10-15 Percent of SAG-AFTRA Membership Wants AI Blocked, CEO Tells Web Summit (2026.11.12)",
+      "Global Times — Chinese actress Zhao Liying's lawsuit spotlights AI misuse as experts urge stronger oversight (2026.11.12)",
+      "TheWrap — Shortical's AI-Generated 'Inevitable' Premieres With Approved AI Double From Aki Avni (2026.11.13)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 영화 · 11.09~11.13",
+      "thread": [
+        {
+          "d": "11.09",
+          "t": "무단 출연",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "11.12",
+          "t": "노조 입장",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "11.12",
+          "t": "초상권",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "11.13",
+          "t": "동의 분신",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        }
+      ],
+      "thread_note": "배우 얼굴의 AI 복제, 쟁점은 금지가 아니라 동의다",
+      "eyebrow": "흐름 · 영화",
+      "headline": "배우의 AI 분신,\n허락이 가른다",
+      "body": "한 건씩 보면 소송이고 반발이다. 닷새 사이 네 건을 가른 기준은 하나, 배우 본인이 허락했느냐다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "quote",
+      "eyebrow": "2026.11.09",
+      "headline": "찍지도 않은\n속편에 나왔다",
+      "body": "10월 31일 공개된 'Return of the Living Dead: Aftermath'. 원년 배우 둘은 촬영 없이 AI 이미지로 나왔다.",
+      "foot": "2026.11.09",
+      "_src": "https://bloody-disgusting.com/movie/3975227/return-of-the-living-dead-aftermath-backlash-ai-linnea-quigley/",
+      "_id": "rotld-aftermath-ai-sequel",
+      "quote": "우리가 계약한 건\n이런 게 아니다",
+      "quote_by": "원년 배우 Beverly Randolph · Bloody Disgusting 인용"
+    },
+    {
+      "n": 3,
+      "kind": "stat",
+      "eyebrow": "2026.11.12",
+      "headline": "노조는 막지 않고\n동의를 묻는다",
+      "body": "SAG-AFTRA의 Crabtree-Ireland는 AI를 막을 수 없다며, 복제에는 동의·통제·보상이 있어야 한다고 했다.",
+      "foot": "2026.11.12",
+      "_src": "https://www.hollywoodreporter.com/business/business-news/sag-aftra-duncan-crabtree-ireland-web-summit-ai-dan-neely-1236753936/",
+      "_id": "sagaftra-websummit-ai-block",
+      "stat_top": "회원 16만 명",
+      "stat_arrow": "AI를 아예 막자는 쪽은",
+      "stat_bottom": "10~15%",
+      "stat_strike": false
+    },
+    {
+      "n": 4,
+      "kind": "quote",
+      "eyebrow": "2026.11.12",
+      "headline": "닮은 AI 얼굴에\n초상권 소송",
+      "body": "Zhao Liying이 숏드라마 앱 Hongguo 운영사와 Douyin을 고소했다. 그를 닮은 AI 얼굴·목소리 장면이 퍼졌다.",
+      "foot": "2026.11.12",
+      "_src": "https://www.globaltimes.cn/page/202611/1374182.shtml",
+      "_id": "zhao-liying-hongguo-lawsuit",
+      "quote": "나를 포함해\n많은 동료의 목소리가\n허락 없이 쓰였다",
+      "quote_by": "성우 Ji Guanlin · Global Times 인용"
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.11.13",
+      "headline": "허락한 분신이\n주연을 맡았다",
+      "body": "Aki Avni는 자기 AI 분신을 만드는 데 직접 참여했다. 그 분신이 주연한 마이크로드라마 'Inevitable'이 공개됐다.",
+      "foot": "2026.11.13",
+      "_src": "https://www.thewrap.com/creative-content/tv-shows/shorticals-ai-generated-microseries-inevitable-premieres-aki-avni-ai-actor/",
+      "_id": "shortical-inevitable-avni",
+      "media": "pipeline/media/shortical-inevitable-avni.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

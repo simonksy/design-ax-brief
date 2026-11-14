@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "issue": "VOCALOID7 출시 Cubase 연동 강화",
+    "date": "2026.11.14",
+    "section": "MUSIC",
+    "accent": "#eb367f",
+    "note": "자동 초안. 썸네일은 초안이라 겹친다 — 올리기로 정하면 원문을 받아 숫자를 확인하고 글을 다시 쓰면서 stat·quote 로 장을 세운다.",
+    "sources": [
+      "https://mixing.co.kr/en/44521"
+    ]
+  },
+  "cards": [
+    {
+      "kind": "cover",
+      "eyebrow": "AI × 음악 · 2026.11.14",
+      "headline": "VOCALOID7 출시 Cubase 연동…",
+      "body": "Yamaha가 음성 합성 소프트웨어 VOCALOID7 Editor를 출시했다.",
+      "foot": "밀어서 보기 →",
+      "video": "pipeline/media/vocaloid7-editor-release.mp4",
+      "dur": 4,
+      "n": 1
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "무슨 일인가",
+      "headline": "VOCALOID7 출시 Cubase 연동…",
+      "body": "VOCALOID7 Editor는 2022년 10월 VOCALOID6이 나온 지 네 해 만의 신작이다. macOS와 Windows에서…",
+      "foot": "2026.11.14",
+      "video": "pipeline/media/vocaloid7-editor-release.mp4",
+      "start": 4,
+      "dur": 4,
+      "n": 2
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "어떻게 되는가",
+      "headline": "VOCALOID7 출시 Cubase 연동…",
+      "body": "두 번째 세대 VOCALOID:AI를 얹어 보컬이 한층 자연스럽고 표현력도 풍부해졌다. 같은 보이스뱅크 안에서 음색 특성을 바꾸는…",
+      "foot": "2026.11.14",
+      "video": "pipeline/media/vocaloid7-editor-release.mp4",
+      "n": 3
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "짚을 대목",
+      "headline": "VOCALOID7 출시 Cubase 연동…",
+      "body": "Cubase 연동도 더 긴밀해졌다. 노트와 가사는 Cubase Key Editor에서 바로 입력한다. Expression…",
+      "foot": "2026.11.14",
+      "video": "pipeline/media/vocaloid7-editor-release.mp4",
+      "n": 4
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "그래서 지금",
+      "headline": "VOCALOID7 출시 Cubase 연동…",
+      "body": "VOCALOID3부터 VOCALOID6까지 나온 보이스뱅크는 모두 VOCALOID7 Editor에서 그대로 쓴다.…",
+      "foot": "2026.11.14",
+      "video": "pipeline/media/vocaloid7-editor-release.mp4",
+      "n": 5
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

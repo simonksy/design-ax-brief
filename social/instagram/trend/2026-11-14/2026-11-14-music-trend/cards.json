@@ -1,0 +1,112 @@
+{
+  "meta": {
+    "issue": "AI 생성기, 트랙 안으로",
+    "date": "2026.11.14",
+    "section": "MUSIC",
+    "accent": "#eb367f",
+    "note": "원문 4건 대조: 날짜를 원문 게재일로 고침(ILLUGEN 11.10→11.09, NeuSynth 11.11→11.10, Sonura 11.13→11.12, Suno 11.14→11.13). 60초·1~6개·변형 4세트, 루프 10·원샷 20·하루 곡 4·CC0, Cubase 16 템포·키·로케이터, Live 12·Mac·Premier 확인. NeuSynth 사진·Sonura 영상은 지난 story 회차가 써서 stat으로 바꿈.",
+    "sources": [
+      "Sonicstate — Waves Releases ILLUGEN 2.5 (2026.11.09)",
+      "Monthly Mixing — NeuTone Launches NeuSynth, an AI Stem Generator That Creates New Instrument Layers from 60 Seconds of Audio in Your DAW (2026.11.10)",
+      "MusicTech — This new plugin lets you generate loops and one-shots from text prompts (2026.11.12)",
+      "Suno — Suno Bridge: Your DAW, Suno-powered (2026.11.13)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 음악 · 11.09~11.13",
+      "thread": [
+        {
+          "d": "11.09",
+          "t": "ILLUGEN",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        },
+        {
+          "d": "11.10",
+          "t": "스템 생성",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        },
+        {
+          "d": "11.12",
+          "t": "무료 루프",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        },
+        {
+          "d": "11.13",
+          "t": "Suno",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        }
+      ],
+      "thread_note": "AI 음악 생성이 웹 창을 떠나 작업 중인 DAW 트랙 안으로 들어왔다",
+      "eyebrow": "흐름 · 음악",
+      "headline": "AI 생성기,\n트랙 안으로",
+      "body": "하나씩 보면 플러그인 출시 소식이다. 그런데 닷새 사이 넷이 연달아 생성기를 DAW 안에 들였고, 마지막은 Suno였다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.11.09",
+      "headline": "ILLUGEN, Cubase 안으로",
+      "body": "Waves ILLUGEN 2.5가 모든 DAW용 플러그인이 됐다. Cubase 16에선 곡의 템포·키·루프 길이를 따라 샘플을 만든다.",
+      "foot": "2026.11.09",
+      "_src": "https://sonicstate.com/news/2026/11/09/waves-releases-illugen-25-/",
+      "_id": "waves-illugen25-plugin",
+      "video": "pipeline/media/waves-illugen25-plugin.mp4"
+    },
+    {
+      "n": 3,
+      "kind": "stat",
+      "eyebrow": "2026.11.10",
+      "headline": "곡을 듣고 새 악기를",
+      "body": "NeuTone NeuSynth는 작업 중인 곡의 오디오를 최대 60초 받아 악기 1~6개의 새 스템을 만든다.",
+      "foot": "2026.11.10",
+      "_src": "https://mixing.co.kr/en/44340",
+      "_id": "neutone-neusynth-stems",
+      "stat_top": "입력 오디오 최대 60초",
+      "stat_arrow": "생성 한 번에, 악기별 WAV",
+      "stat_bottom": "변형 4세트",
+      "stat_strike": false
+    },
+    {
+      "n": 4,
+      "kind": "stat",
+      "eyebrow": "2026.11.12",
+      "headline": "텍스트 루프, 무료로",
+      "body": "Sonura Flow는 DAW 안에서 글로 루프·원샷을 만든다. 무료 플랜 결과물은 CC0로 풀려 출처 표기 없이 쓴다.",
+      "foot": "2026.11.12",
+      "_src": "https://musictech.com/news/gear/sonura-flow/",
+      "_id": "sonura-flow-text-loops",
+      "stat_top": "무료 플랜, 하루에",
+      "stat_arrow": "루프 · 원샷과 효과음",
+      "stat_bottom": "10개 · 20개",
+      "stat_strike": false
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.11.13",
+      "headline": "Suno도 DAW 안으로",
+      "body": "Suno Bridge 베타가 Mac의 Ableton Live 12와 붙는다. 세션의 키·그루브에 맞춘 파트를 타임라인에 바로 넣는다.",
+      "foot": "2026.11.13",
+      "_src": "https://suno.com/blog/introducing-bridge",
+      "_id": "suno-bridge-ableton",
+      "video": "pipeline/media/suno-bridge-ableton.mp4"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

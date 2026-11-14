@@ -1,0 +1,112 @@
+{
+  "meta": {
+    "issue": "AI가 짠 연구 코드, 검증이 가른다",
+    "date": "2026.11.14",
+    "section": "SCIENCE",
+    "accent": "#3aa655",
+    "note": "원문 4건 대조: 날짜를 원문 게재일로 고침(vibe-qc·AlphaProof Code·Google 양자 모두 11.10, Physics World 11.13). 수치 확인 — vibe-qc 약 10주·모든 제안 검토, Lean 600만 줄 넘게·4주·약 1% 사람 검토, 융합 시뮬 10.9배(약 11배)·광화학 8.08배, Codex 805배·연산 48분의 1·기준 없으면 사람 검증. 사진은 1·4번 카드만, 2·3번은 stat.",
+    "sources": [
+      "Phys.org (University of Bonn) — AI-developed program calculates probabilities of chemical reactions (2026.11.10)",
+      "Google DeepMind — Introducing AlphaProof Code (2026.11.10)",
+      "The Quantum Insider — Google Researchers Use AI And Mathematical Proofs to Cut Quantum Computing Requirements (2026.11.10)",
+      "Physics World — AI agents act as search tool for more efficient collider physics calculations (2026.11.13)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 과학 · 11.10~11.13",
+      "thread": [
+        {
+          "d": "11.10",
+          "t": "양자화학",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        },
+        {
+          "d": "11.10",
+          "t": "Signal",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        },
+        {
+          "d": "11.10",
+          "t": "양자 회로",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        },
+        {
+          "d": "11.13",
+          "t": "충돌기",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        }
+      ],
+      "thread_note": "AI가 연구 코드를 짜고, 통과 여부는 검증 장치가 정한다",
+      "eyebrow": "흐름 · 과학",
+      "headline": "AI가 짠 연구 코드\n검증이 가른다",
+      "body": "한 건씩 보면 각자 다른 성과다. 나란히 놓으면 코드는 에이전트가 쓰고 사람은 검증 장치를 만드는 쪽으로 옮겨 간다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.11.10",
+      "headline": "AI가 거의 다 짠\n양자화학 프로그램",
+      "body": "Bonn의 vibe-qc는 약 10주 만에 첫 버전이 나왔다. 개발자는 모든 제안을 검토하고 다른 프로그램과 맞춰 봤다.",
+      "foot": "2026.11.10",
+      "_src": "https://phys.org/news/2026-11-ai-probabilities-chemical.html",
+      "_id": "science-vibe-qc-bonn",
+      "media": "pipeline/media/science-vibe-qc-bonn.jpg"
+    },
+    {
+      "n": 3,
+      "kind": "stat",
+      "eyebrow": "2026.11.10",
+      "headline": "Signal 코드, 증명으로 검증",
+      "body": "에이전트가 Lean 증명 600만 줄 넘게 썼고 Lean이 자동으로 검사했다. 사람 검토로 넘긴 건 코드의 약 1%.",
+      "foot": "2026.11.10",
+      "_src": "https://deepmind.google/blog/introducing-alphaproof-code/",
+      "_id": "science-alphaproof-code-signal",
+      "stat_top": "전문가 팀이면 수년",
+      "stat_arrow": "AlphaProof Code로",
+      "stat_bottom": "4주",
+      "stat_strike": false
+    },
+    {
+      "n": 4,
+      "kind": "stat",
+      "eyebrow": "2026.11.10",
+      "headline": "증명을 통과한 양자 회로",
+      "body": "에이전트는 회로마다 정확성·비용 증명을 붙여야 했다. 핵융합 시뮬 비용 약 11배, 광화학은 8배 줄였다.",
+      "foot": "2026.11.10",
+      "_src": "https://thequantuminsider.com/2026/11/10/google-researchers-use-ai-and-mathematical-proofs-to-cut-quantum-computing-requirements/",
+      "_id": "science-google-quantum-lean-agents",
+      "stat_top": "핵융합 시뮬레이션 비용",
+      "stat_arrow": "Lean 증명 통과한 회로로",
+      "stat_bottom": "약 11배 ↓",
+      "stat_strike": false
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.11.13",
+      "headline": "충돌기 코드,\n805배 빨라지다",
+      "body": "Codex가 내놓은 진폭 코드는 정확성 테스트를 통과해야 남았다. 기준이 없는 계산은 아직 사람이 검증한다.",
+      "foot": "2026.11.13",
+      "_src": "https://physicsworld.com/a/ai-agents-act-as-search-tool-for-more-efficient-collider-physics-calculations/",
+      "_id": "codex-collider-amplitudes",
+      "media": "pipeline/media/codex-collider-amplitudes.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

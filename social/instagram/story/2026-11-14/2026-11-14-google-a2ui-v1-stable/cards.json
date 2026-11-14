@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "issue": "Google, 에이전트용 A2UI 1.0 공개",
+    "date": "2026.11.14",
+    "section": "DESIGN",
+    "accent": "#0070f3",
+    "note": "자동 초안. 썸네일은 초안이라 겹친다 — 올리기로 정하면 원문을 받아 숫자를 확인하고 글을 다시 쓰면서 stat·quote 로 장을 세운다.",
+    "sources": [
+      "https://developers.googleblog.com/a2ui-10-build-delightful-fast-reliable-agentic-experiences/"
+    ]
+  },
+  "cards": [
+    {
+      "kind": "cover",
+      "eyebrow": "AI × 디자인 · 2026.11.14",
+      "headline": "Google, 에이전트용 A2UI 1.0…",
+      "body": "지금 사용자가 에이전트를 쓰는 방식은 터미널 시대의 컴퓨터와 닮았다. 능력은 있는데 답은 거의 다 텍스트로 한다. Google은…",
+      "foot": "밀어서 보기 →",
+      "video": "pipeline/media/google-a2ui-v1-stable.mp4",
+      "dur": 4,
+      "n": 1
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "무슨 일인가",
+      "headline": "Google, 에이전트용 A2UI 1.0…",
+      "body": "A2UI에서 에이전트는 무엇을 보여 줄지만 기술하고, UI는 각 앱이 자체 네이티브 컴포넌트로 그린다. 에이전트가 쓰는 건 사용자의…",
+      "foot": "2026.11.14",
+      "video": "pipeline/media/google-a2ui-v1-stable.mp4",
+      "start": 4,
+      "dur": 4,
+      "n": 2
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "어떻게 되는가",
+      "headline": "Google, 에이전트용 A2UI 1.0…",
+      "body": "Atlassian, Alation, Bloomberg, ByteDance 등은 이미 이를 써서 개발하고 있다. Atlassian은…",
+      "foot": "2026.11.14",
+      "video": "pipeline/media/google-a2ui-v1-stable.mp4",
+      "n": 3
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "짚을 대목",
+      "headline": "Google, 에이전트용 A2UI 1.0…",
+      "body": "Google 안에서는 Gemini Notebook이 A2UI 카드로 슬라이드 덱을 짜고, Gemini는 조직이 직접 운영하는…",
+      "foot": "2026.11.14",
+      "video": "pipeline/media/google-a2ui-v1-stable.mp4",
+      "n": 4
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "그래서 지금",
+      "headline": "Google, 에이전트용 A2UI 1.0…",
+      "body": "Google A2UI 1.0으로 에이전트가 텍스트 대신 화면 요소로 답한다.",
+      "foot": "2026.11.14",
+      "video": "pipeline/media/google-a2ui-v1-stable.mp4",
+      "n": 5
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}
