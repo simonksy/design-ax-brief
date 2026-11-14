@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "issue": "AI로 남의 게임을 다시 짓다",
+    "date": "2026.11.15",
+    "section": "GAMES",
+    "accent": "#2ec5c5",
+    "note": "원문 4건 대조: eyebrow를 원문 게재일로(Automaton 11.09, Wccftech 11.10, PC Gamer 11.11, GI.biz 11.13). Reshi 11.7 X 게시·Gemini 4·iPhone Duo·삭제, 세 줄 프롬프트·약 85억 토큰·약 1만5천 달러(API 환산), Whelan의 AI 사용 FAQ, NDA·저작권 등록·고의침해 최대 15만 달러 확인. Gears 영상은 11-11 story에 쓰여 stat으로, 복제 지침 카드는 원문 인용 quote로.",
+    "sources": [
+      "AUTOMATON — 『ゼルダの伝説 時のオカリナ』リメイク版を「iPhone Duoに“勝手移植”」したGoogleのAI開発者、非難浴びて投稿削除 (2026.11.09)",
+      "Wccftech — Claude Fable 5.2 Builds Playable Gears of War: E-Day Clone From Three-Line Prompt, But Estimated Cost Reaches $15,000 (2026.11.10)",
+      "PC Gamer — One Elder Scrolls fan is reviving and upgrading (with AI) a lost spin-off for the Nokia N-Gage and porting it to PC (2026.11.11)",
+      "GamesIndustry.biz — How to protect your IP against the army of AI clones (2026.11.13)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 게임 · 11.09~11.13",
+      "thread": [
+        {
+          "d": "11.09",
+          "t": "젤다 이식",
+          "c": "#2ec5c5",
+          "s": "GAMES"
+        },
+        {
+          "d": "11.10",
+          "t": "기어스 복제",
+          "c": "#2ec5c5",
+          "s": "GAMES"
+        },
+        {
+          "d": "11.11",
+          "t": "팬 복원",
+          "c": "#2ec5c5",
+          "s": "GAMES"
+        },
+        {
+          "d": "11.13",
+          "t": "방어 지침",
+          "c": "#2ec5c5",
+          "s": "GAMES"
+        }
+      ],
+      "thread_note": "AI가 남의 게임을 며칠 만에 다시 짓자, 권리자 쪽 방어 지침이 뒤따른다",
+      "eyebrow": "흐름 · 게임",
+      "headline": "AI로 남의 게임을\n다시 짓다",
+      "body": "한 건씩 보면 화제의 데모다. 이식·복제·복원이 닷새 새 잇따르자 변호사들이 방어법을 내놨다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.11.09",
+      "headline": "Gemini로 젤다를\n무단 이식",
+      "body": "Google AI Studio 리드가 Gemini 4로 Switch 2판 젤다를 iPhone Duo에 돌렸다고 올렸다가 비난에 지웠다.",
+      "foot": "2026.11.09",
+      "_src": "https://automaton-media.com/articles/newsjp/20261109-478221/",
+      "_id": "automaton-ocarina-gemini-port",
+      "media": "pipeline/media/automaton-ocarina-gemini-port.jpg"
+    },
+    {
+      "n": 3,
+      "kind": "stat",
+      "eyebrow": "2026.11.10",
+      "headline": "세 줄 프롬프트로\nGears 한 판",
+      "body": "Claude Fable 5.2가 UE5로 Gears of War: E-Day 한 레벨을 본떴다. API로 치면 약 1만5천 달러어치다.",
+      "foot": "2026.11.10",
+      "_src": "https://wccftech.com/claude-fable-5-2-builds-playable-gears-of-war-e-day-clone-from-three-line-prompt-but-estimated-cost-reaches-15000/",
+      "_id": "claude-fable-gears-clone",
+      "stat_top": "프롬프트 세 줄",
+      "stat_arrow": "며칠간 쓴 토큰",
+      "stat_bottom": "약 85억 개",
+      "stat_strike": false
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.11.11",
+      "headline": "팬이 AI로 살린\n엘더스크롤",
+      "body": "팬 Dan Whelan이 N-Gage판 Shadowkey를 PC로 옮긴다. 코딩·디버깅에 AI를, 새 아트엔 AI 생성과 손질을 썼다.",
+      "foot": "2026.11.11",
+      "_src": "https://www.pcgamer.com/games/the-elder-scrolls/one-elder-scrolls-fan-is-reviving-and-upgrading-a-lost-spin-off-for-the-nokia-n-gage-and-porting-it-to-pc/",
+      "_id": "shadowkey-ngage-ai-revival",
+      "video": "pipeline/media/shadowkey-ngage-ai-revival.mp4"
+    },
+    {
+      "n": 5,
+      "kind": "quote",
+      "eyebrow": "2026.11.13",
+      "headline": "공개 전부터\n지켜야 한다",
+      "body": "데모·영상 공유엔 NDA를 걸고 공개 전 저작권을 등록하라고 권한다. 고의 침해엔 최대 15만 달러 법정손해배상이 걸린다.",
+      "foot": "2026.11.13",
+      "_src": "https://www.gamesindustry.biz/how-to-protect-your-ip-against-the-army-of-ai-clones",
+      "_id": "games-ai-clone-ip-defense",
+      "quote": "AI가 기존 게임의\n무단 복제·모드·이식\n새 물결을 부른다",
+      "quote_by": "Pryor Cashman 변호사들 · GamesIndustry.biz 기고"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}
