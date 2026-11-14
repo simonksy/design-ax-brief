@@ -4327,6 +4327,117 @@
           "x": "Pero el 61% teme que los residentes dependan demasiado de la AI y no desarrollen sus propias habilidades clínicas. Casi la mitad expresó preocupación por la dependencia excesiva de la AI, y tres de cada cuatro médicos dijeron haber encontrado al menos una inexactitud factual en el último año al usar AI en el trabajo. Más de una cuarta parte dijo que el esfuerzo que dedican a corregir o verificar los resultados de la AI ha disminuido respecto de hace un año."
         }
       ]
+    },
+    "medicine/nhs-rcr-ai-diagnostic-monitoring": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.publictechnology.net/wp-content/uploads/2024/11/hospital.jpg",
+          "cap": "Credit: Crown Copyright/Open Government Licence v3.0"
+        },
+        {
+          "t": "p",
+          "x": "El NHS ha dado a conocer los detalles de un proyecto de seis cifras con el que expertos buscarán determinar cómo vigilar el rendimiento y la seguridad de la inteligencia artificial que apoya los diagnósticos clínicos."
+        },
+        {
+          "t": "p",
+          "x": "El 26 de noviembre, NHS England prevé firmar un acuerdo de cinco meses con el Royal College of Radiologists (RCR). “El RCR [llevará] a cabo un proyecto exploratorio para determinar la monitorización nacional posterior al despliegue (post-deployment monitoring, PDM) de las herramientas de diagnóstico con AI en el NHS”, señala el anuncio de licitación, que identifica los requisitos de una PDM nacional en todo el ámbito diagnóstico y las posibles oportunidades de adquirir una solución/plataforma si fuera necesario."
+        },
+        {
+          "t": "p",
+          "x": "El proyecto abordará retos clave como la necesidad de vigilar de forma continua el rendimiento en condiciones reales, la detección de la deriva de los modelos y la evaluación de posibles desigualdades. El RCR también examinará los riesgos potenciales de sesgo u otros resultados injustos. El contrato está valorado en casi £230,000, VAT incluido."
+        },
+        {
+          "t": "p",
+          "x": "Las herramientas de diagnóstico con IA se usan cada vez más en el servicio de salud, sobre todo en el cribado del cáncer. Este verano, el Gobierno anunció que la IA ya ha agilizado el cribado de cáncer de pulmón de cuatro millones de personas."
+        }
+      ]
+    },
+    "medicine/amc-fh-kidney-cancer-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Asan Medical Center (AMC) informó el jueves que un equipo dirigido por los profesores Kim Nam-kug, del Departamento de Medicina de Convergencia, y Cho Yong-mee, del Departamento de Patología, desarrolló una herramienta de aprendizaje profundo para detectar el carcinoma de células renales con deficiencia de fumarato hidratasa (FHdRCC) y evaluó su uso por parte de 21 médicos."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.koreabiomed.com/news/photo/202611/33846_37014_5655.jpg",
+          "cap": "Los profesores Kim Nam-kug (izquierda) y Cho Yong-mee (Cortesía de AMC)"
+        },
+        {
+          "t": "p",
+          "x": "El FHdRCC representa menos del 0.4% de los cánceres de riñón, avanza con rapidez y al microscopio puede parecerse a otros cánceres renales. Desarrollada con 335 preparaciones de patología digital, la herramienta alcanzó un AUC de 0.954 en las pruebas internas y de 0.820 y 0.867 en dos evaluaciones externas."
+        },
+        {
+          "t": "p",
+          "x": "Los 21 médicos, entre ellos patólogos adjuntos y residentes de patología, revisaron 30 casos de diagnóstico difícil. Con ayuda de la IA, la precisión diagnóstica subió de forma significativa del 60.0% al 73.3%, y la concordancia entre patólogos pasó de 0.311 a 0.482, sin un aumento significativo del tiempo de lectura."
+        },
+        {
+          "t": "p",
+          "x": "Los médicos de un grupo receptivo, que aceptaba con facilidad las sugerencias de la herramienta, mejoraron más su precisión, pero aceptaron recomendaciones incorrectas el 80% de las veces, frente al 60% del grupo reacio. Las diferencias no se asociaron con la experiencia clínica ni con la subespecialidad. “Usar la IA con eficacia es una habilidad en sí misma”, dijo el profesor Kim. El estudio se publicó en npj Digital Medicine."
+        }
+      ]
+    },
+    "medicine/auntminnie-mammo-ai-recall": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "En esta presentación de RSNA 2026, el domingo 29 de noviembre, los investigadores compartirán resultados reales de un centro oncológico de nivel terciario que comparó la lectura de cribado con y sin AI."
+        },
+        {
+          "t": "p",
+          "x": "Este análisis prospectivo, dirigido por investigadores del Memorial Sloan Kettering Cancer Center de New York, incluyó todas las mamografías de cribado leídas por lotes en 2025 y 2026. Los estudios adquiridos en la primera mitad de cada mes los interpretó un radiólogo de mama con ayuda de IA (Transpara, ScreenPoint, version 1.7.4). Los de la segunda mitad de cada mes los leyó sin IA uno de los radiólogos del mismo grupo. El equipo comparó la tasa de rellamada, la tasa de detección de cáncer y el tiempo de interpretación, definido como el tiempo desde que se abre el informe hasta que se firma."
+        },
+        {
+          "t": "p",
+          "x": "De 37,485 estudios de cribado, 20,885 (56%) se leyeron sin IA y 16,600 (44%) con IA. Las tasas de rellamada aumentaron de forma significativa con IA, del 8.9% al 9.7% (odds ratio 1.11, p = 0.005). La tasa de detección de cáncer mostró una tendencia al alza, de 6.7 por cada 1,000 sin IA a 7.7 por cada 1,000 con IA (odds ratio 1.14), pero la diferencia no alcanzó significación estadística en el análisis univariante (p = 0.3). El tiempo medio de interpretación también tendió a subir ligeramente, de 4.2 minutos sin IA a 4.4 minutos con IA (p = 0.4)."
+        },
+        {
+          "t": "p",
+          "x": "Los autores concluyen que el uso de la IA se asoció con mayores tasas de rellamada en este entorno real. Señalaron que se necesitarán muestras más grandes para determinar si las tendencias al alza en la detección de cáncer y en el tiempo de lectura son estadísticamente significativas."
+        }
+      ]
+    },
+    "medicine/gallup-patient-ai-oversight": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/UnzN7Q0yFftdnT_LCfhN69ifT-LDXfXaS57AtdtgXhk/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjcyMDM5MjIwLmpwZw==.webp",
+          "cap": "Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Los pacientes se sienten cada vez más cómodos con que herramientas de inteligencia artificial tomen decisiones de diagnóstico o tratamiento, según una nueva encuesta de Gallup realizada en agosto a más de 5,000 adultos estadounidenses."
+        },
+        {
+          "t": "p",
+          "x": "Más de la mitad de los adultos de U.S. (EE. UU.) dijo que aceptaría que herramientas de AI tomaran decisiones clínicas sobre su atención, pero solo si su proveedor de salud puede revisar y anular esas decisiones. Su comodidad con la IA cae bruscamente si el proveedor no participa en absoluto en la toma de decisiones."
+        },
+        {
+          "t": "p",
+          "x": "Otra encuesta de Gallup a más de 1,000 médicos de atención primaria en ejercicio muestra una brecha de 20 puntos porcentuales entre la comodidad de los pacientes con que la IA tome decisiones de diagnóstico y tratamiento y la comodidad que los proveedores creen que tienen los pacientes; solo alrededor de un tercio de los proveedores dijo que los pacientes estarían de acuerdo. Según los autores del informe, los proveedores deberían preguntar a los pacientes sus preferencias sobre cómo se usa la IA en su atención."
+        },
+        {
+          "t": "p",
+          "x": "Casi la mitad de los adultos dijo que la revisión de un proveedor los hacía sentirse más cómodos con las decisiones dirigidas por IA (AI-led) en diagnóstico, tratamiento y revisión de imágenes, más que las protecciones de privacidad, los estudios de seguridad y eficacia o los menores costos de atención médica. Las protecciones sólidas de la privacidad fueron el siguiente factor más importante."
+        }
+      ]
+    },
+    "medicine/bracco-uptunity-aneurysm": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Bracco y Avicenna.AI han obtenido la autorización 510(k) de la U.S. Food and Drug Administration (FDA) para Uptunity Aneurysm, un software de AI que detecta y evalúa aneurismas cerebrales en imágenes de angiografía por CT cerebral (CTA)."
+        },
+        {
+          "t": "p",
+          "x": "El software, concebido como ayuda para la lectura concurrente, identifica posibles aneurismas cerebrales saculares de más de 3 mm en la CTA de cabeza y ofrece información sobre su presencia, ubicación y tamaño. Para los aneurismas ya conocidos, su función de seguimiento proporciona mediciones cuantitativas y comparaciones entre estudios para evaluar los cambios a lo largo del tiempo."
+        },
+        {
+          "t": "p",
+          "x": "Uptunity Aneurysm es el primer producto de la nueva cartera Uptunity de software de AI interpretativa de Bracco, desarrollada mediante la alianza de la compañía con Avicenna.AI. Avicenna.AI liderará la promoción y la distribución comercial en Estados Unidos (U.S.)."
+        }
+      ]
     }
   }
 }

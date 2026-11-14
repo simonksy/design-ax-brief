@@ -11211,6 +11211,123 @@
           "x": "Both tools are in beta and not available to Creative Cloud for Teams or Enterprise users. Build a story works only in Chrome and Edge on desktop and takes clips only from Adobe cloud storage’s generation history, not direct uploads."
         }
       ]
+    },
+    "movies/4by4-pixell-pro-macos": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/4hmeh8_202611120716.png",
+          "cap": "4BY4 brings AI video enhancement to Mac, DaVinci Resolve and Nuke"
+        },
+        {
+          "t": "p",
+          "x": "South Korea’s 4BY4 said it would officially unveil AI PIXELL PRO for macOS and AI PIXELL PLUGIN on November 18 at Inter BEE 2026 (November 18–20, Makuhari Messe, Chiba; Hall 6, booth 6110), targeting the stage of finishing generated and existing video to a usable delivery standard."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/lgidra_202611120715.png",
+          "cap": "AI PIXELL PRO macOS announcement. Image: 4BY4."
+        },
+        {
+          "t": "p",
+          "x": "AI PIXELL PRO upscales low-resolution video, reduces noise, improves sharpness and deinterlaces, including files made with external generative-AI services. The Mac version costs KRW 220,000 with a perpetual license, does not deduct credits per job, and processes on the user’s computer rather than a cloud server."
+        },
+        {
+          "t": "p",
+          "x": "AI PIXELL PLUGIN supports Blackmagic Design’s DaVinci Resolve and Foundry’s Nuke. 4BY4 will also present AI PIXELL LIVE for real-time HD-to-4K upscaling and AI PIXELL VOD for remastering. Heehwan Seo, head of the solution business division, said finishing generated video was becoming more important. Features and pricing are company statements, not independently benchmarked results."
+        }
+      ]
+    },
+    "movies/runway-labs-video-interface": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "1XV_2WrnZH0"
+        },
+        {
+          "t": "p",
+          "x": "Inside Runway Labs, where designers are prototyping what real-time video models make possible. This episode explores video as an operating system: selecting anything on a page to dive deeper with no prompting, videos you can resize where the model reinterprets what you see and a drawing app that animates your sketches in your own style as you draw. The point is to suspend disbelief, step into an idea and have it be a conversation."
+        },
+        {
+          "t": "p",
+          "x": "Chapters: 00:00 Intro · 00:42 Select anywhere to generate · 01:14 Video you can resize · 02:06 Drawing with real-time video · 02:42 Why making matters"
+        }
+      ]
+    },
+    "movies/mansa-ai-microdramas-black-stories": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6af65ba58bac4203b57b5ba0/191:100/w_1280,c_limit/Startup-Betting-on-AI-Microdramas-Culture.jpg"
+        },
+        {
+          "t": "p",
+          "x": "They Left Us to Die, a new microdrama from Mansa about a zombie virus in South Los Angeles, runs 30 episodes and is entirely AI-generated. After the trailer’s October 29 release, critics asked why a company founded by actors David Oyelowo and Nate Parker made a show with zero human roles; one Threads user called it “another AI sellout.”"
+        },
+        {
+          "t": "p",
+          "x": "Mansa says it uses AI as a chess piece rather than a replacement for human-centered content: testing audience appetite for Black stories before studios commit to live production. With microdramas, Parker says, “you get to test a piece of content… you get to monetize it… track data around engagement.”"
+        },
+        {
+          "t": "p",
+          "x": "Omdia found users spent 36 minutes a day on ReelShort versus 26 on Prime Video and 20 on Netflix, and predicts a $14 billion microdrama market in 2027. Black actors accounted for only 6.5 percent of movie leads in 2025, per the UCLA Hollywood Diversity report. Mansa has produced nine live-action microdramas and two fully AI-generated ones, and declined to share performance data."
+        },
+        {
+          "t": "p",
+          "x": "Syracuse’s J. Christopher Hamilton says Parker is “not reading the room,” yet calls AI microdramas “too compelling a business proposition” for the industry to ignore."
+        }
+      ]
+    },
+    "movies/animaj-ozzy-fox-disneyplus": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot-2026-11-11-at-9.53.14-AM.png?w=864",
+          "cap": "Ozzy Fox is on YouTube and Disney Jr., and it's heading to Disney Plus soon. Animaj/Disney"
+        },
+        {
+          "t": "p",
+          "x": "Animaj’s Ozzy Fox, its first combined project with Disney, debuted on YouTube and Disney Junior in July and is launching on Disney Plus soon. It’s drawn and animated by humans, but with an AI assist to speed things up."
+        },
+        {
+          "t": "p",
+          "x": "Animaj recently released FlipMove, a pipeline combining its AI models into a single tool for animators, and has created an agentic AI workflow, CEO Sixte de Vauplane said at the 2026 Disney Accelerator Demo Day. “We had one agent reading the notes, another one coordinating to see which kind of model we have to use,” he said. Animators have “full control at every frame.”"
+        },
+        {
+          "t": "img",
+          "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot-2026-11-11-at-12.04.29-PM.png?w=864",
+          "cap": "The FlipMove AI pipeline at work, helping transform an artist’s sketch into a 3D-modeled scene. Animaj/Screenshot by CNET"
+        },
+        {
+          "t": "p",
+          "x": "An animator sketches the main poses and AI fills in the in-between movements, which the animator tweaks. Animaj’s AI manifesto calls slop, not AI, the enemy, after Ozzy Fox was accused of being AI slop on release; it argues every hour saved should be poured back into human work."
+        }
+      ]
+    },
+    "movies/shortical-inevitable-avni": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.thewrap.com/wp-content/uploads/2026/05/894de741-4605-4349-b5ca-c6cb0b7442b6.jpg",
+          "cap": "AI-generated Aki Avni in \"Inevitable\" (Credit: Shortical)"
+        },
+        {
+          "t": "p",
+          "x": "Shortical’s “Inevitable” places the entertainment industry’s fears about AI’s threats to their creativity centerstage in this fully AI-generated microdrama series. The psychological thriller stars an AI version of Israeli actor Aki Avni: after the actor sells his face and likeness to an AI studio, he realizes that the AI version of himself is implicated in an attempted murder he didn’t commit."
+        },
+        {
+          "t": "p",
+          "x": "Avni was heavily involved in the production for this vertical and helped create his own digital double, working alongside the filmmakers. “If you really put your step in and know exactly what is a yes for you and what is a no for you, you can win the situation,” he said."
+        },
+        {
+          "t": "p",
+          "x": "It is director and creator Ofir Lobel’s first AI-generated project and first vertical series. “‘Inevitable’ is a microdrama series about losing control of your likeness, and we made it by giving our actor, our main lead, the control of it,” Lobel said. “The future of entertainment isn’t AI or actors; it’s AI with actors.”"
+        },
+        {
+          "t": "p",
+          "x": "“Inevitable” premiered Nov. 13 on the Shortical App with 24 episodes; new episodes of the 50-episode microdrama drop weekly. It is written by Sharon Ben Tovim and produced by Shortical."
+        }
+      ]
     }
   }
 }

@@ -4667,6 +4667,156 @@
           "x": "今回のリリースでは、Editorでアカウント単位の新規顧客の獲得と維持の設定を編集できるようになり、チャネルの優先順位付けと予算上限が加わったほか、Shoppingキャンペーンでローカル在庫広告をオフにするオプションが削除された。"
         }
       ]
+    },
+    "marketing/amazon-dva-plus-20-product-cap": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/size/w2000/2026/11/amazon-dva-plus-campaign-guide-20-product-cap-automated-steering-wheel-dashboard.jpg",
+          "cap": "Amazonは自動DVA+キャンペーンを20商品までに制限し、KPIを変更すると学習をリセットする"
+        },
+        {
+          "t": "p",
+          "x": "2026年11月13日に更新されたSupport Centerのガイド「Create a DVA+ campaign」は、Display, Video, and Audioキャンペーンを作成する三つの方法を説明している。自動化されたDVA+フロー、DVA+ advancedと呼ばれる単一フォームのワークスペース、そしてレガシーモードだ。Amazonは2026年9月29日、Amazon DSPの名称に代わるDVA+を導入した。"
+        },
+        {
+          "t": "p",
+          "x": "自動フローはキャンペーンあたり最大20商品を受け付け、アカウントの適格性に応じて七つの目標を用い、最適化を既定でオンにしたまま、ディスプレイ、オンライン動画、ストリーミングTVにわたって広告を配信する。ページには「DVA+は不足している広告フォーマットを生成するAIツールを提供する」とある。ターゲティングは自動で、地域ターゲティングはoff-Amazonの目標でのみ利用できる。"
+        },
+        {
+          "t": "p",
+          "x": "DVA+ advancedについて、ガイドは「開始後にKPIを変更できるが、キャンペーンのパフォーマンス学習がリセットされ、最適化に影響する可能性がある」と警告する。フリークエンシーキャップを設定しない場合は既定値が適用され、推奨広告グループはBrand+とPerformance+の戦術から作られる。"
+        },
+        {
+          "t": "p",
+          "x": "ガイドは、Launchをクリックするとキャンペーンが配信開始されるかどうかについて矛盾した説明をしており、商品バリエーションが20商品の上限にどう数えられるかも示していない。"
+        }
+      ]
+    },
+    "marketing/marketing-ai-audience-insights-risk": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/LTJRYpnpPQcEoQaFeo8Ixe1iH_zUGaGGD_6wnRWkUE4/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTkzNzY0OTQzLmpwZw==.webp",
+          "cap": "AIはコスト削減ツールとして期待されてきたが、調査対象者の27%は誤ったAI出力によって金銭的損失を被った。"
+        },
+        {
+          "t": "p",
+          "x": "GWIの調査によると、業界のシニア専門家の90%近くが毎日AIを使っているが、80%は不正確または誤解を招くAIの分析結果に頻繁に遭遇すると答えた。「Artificial Confidence: The AI Trust Gap」には、U.K.、U.S.、シンガポールのシニアのインサイト、エージェンシー、マーケティング専門家1,883人の回答が含まれる。"
+        },
+        {
+          "t": "p",
+          "x": "AIのインサイトを「ほとんどの場合」検証しているのは36%にとどまり、63%は後に古いと気づいたインサイトを誤って使ったことがある。76%はAIが時代遅れの思い込みを強めうると考え、70%近くはAIがターゲット層を正確に反映できない場面を見てきた。それでも81%は、オーディエンスのプロファイル作成やセグメンテーションにAIを使うことに自信を持っている。"
+        },
+        {
+          "t": "p",
+          "x": "シニアの意思決定者の半数以上が、後に誤りや誤解を招くものだと判明したAIのインサイトに基づいて重要な経営判断を下したことがある。マーケティングリーダーの82%が少なくとも一つの悪影響を経験しており、最も多いのは社内での手戻り(38%)、意思決定の遅れ(36%)、顧客からの苦情(34%)だった。21%はキャンペーンの成果が落ちた。"
+        },
+        {
+          "t": "p",
+          "x": "GWIのチーフインサイトオフィサー、Jason Manderは「企業は、新しい種類の技術であれば当然あるべき厳格な枠組みを整えていない」と語った。"
+        }
+      ]
+    },
+    "marketing/salesforce-ai-first-holiday-survey": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/824_1126_T08_The-AI-First-Holiday-Shoppers-Let-Agents-Do-the-Legwork-Not-the-Paying_a_v1_110926.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Salesforceの調査によると、年末の買い物客は調べ物や助言にAIエージェントを使っている。買い物客の20%近くが、店に向かう前にまずAIを頼ると答えた。ただし大半は、AIにBuy Nowをクリックさせる準備ができていない。"
+        },
+        {
+          "t": "p",
+          "x": "Salesforceの予測では、AIはCyber Weekの支出のうち$75.8B を生み出し、2025年から13%増える見込みだ。AIツールからのeコマースサイトへのトラフィックは前年比104%増えた。U.S.、U.K.、カナダ、オーストラリアの2,500人超の買い物客を対象とした調査では、74%がAIの推奨を信頼し、AIを使う買い物客の30%はこうしたツールで知らなかったブランドを頻繁に知ると答え、11%はAIアシスタントに反対されれば購入を見送るという。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/image_b49a8d.jpeg?w=1024",
+          "cap": "パーソナルエージェントに任せる主なショッピングタスク"
+        },
+        {
+          "t": "p",
+          "x": "買い物客はパーソナルエージェントを買い手ではなく助言者のように扱っており、決済まで任せる準備はまだ整っていない。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/image1.jpg?w=1024",
+          "cap": "パーソナルエージェントで購入する際の主な障壁"
+        },
+        {
+          "t": "p",
+          "x": "独自のショッピングエージェントを持つ小売業者は注文額が大きくなるが、買い物客はAIアシスタントが2-3回ミスをすると使うのをやめる。SalesforceのHead of Agentic Commerce Shopper Insights、Caila Schwartzは「AIに見つけてもらえ、人に信頼されるブランドになれ」と語った。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/image_0d40fe.jpeg?w=1024",
+          "cap": "買い物客は、AIアシスタントが2-3回ミスをすると使うのをやめる。"
+        }
+      ]
+    },
+    "marketing/pinterest-holiday-gift-assistant": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Pinterestは年末商戦に向けて、Pinterest Assistantチャットボット内のトレンドギフトガイド、商品比較ツール、ウィッシュリストなど新たなショッピング機能を追加した。"
+        },
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/haUn-5ilTQDnLIwRKhx8P3TUJdoPsoqnlE7lJw7nKNE/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waW50ZXJlc3RfaG9saWRheV9zZWFzb24yLnBuZw==.webp"
+        },
+        {
+          "t": "p",
+          "x": "Pinterest Assistantの新しいホリデー体験では、ギフトのアイデアや季節の飾り付けのアイデアなどを、全画面のトレンドコンテンツ概要として提供する。紹介される各商品は購入可能なPinにつながる。"
+        },
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/7G4sbb1B6GoM4vkVQlIun10enr8FB4CgX0_YyCKKWBI/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waW50ZXJlc3RfaG9saWRheV9zZWFzb24zLnBuZw==.webp"
+        },
+        {
+          "t": "p",
+          "x": "比較機能は、Pinterest Assistantのユーザーに、質問内容に基づく商品のカルーセルを、レビューや価格、在庫の情報とともに表示する。Compareはモバイルでは Pinterest Assistantとボードから、U.S.のデスクトップユーザーはClose-upボタンから利用できる。"
+        },
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/66qCuxq8De9tphQQ5L3JBrfJ8slaTXDUMLd8EFzL9z4/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waW50ZXJlc3RfaG9saWRheV9zZWFzb240LnBuZw==.webp"
+        },
+        {
+          "t": "p",
+          "x": "ウィッシュリストでは、買い物客が理想の商品のPinsをリスト化し、値下げや再入荷の通知を受け取れる。現在、U.S.とカナダでiOS限定のテストが行われている。Pinterestはさらに、過去のエンゲージメント履歴に基づいてトレンドのお得情報を個別にまとめたDeal Boardsも展開している。"
+        }
+      ]
+    },
+    "marketing/chatgpt-wallet-dots-checkout": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "OpenAIは今年初めにDots AIエージェントプラットフォームを立ち上げたのに続き、エージェント向けのウォレットを投入する。ChatGPT Walletは本日から、米国（US）の18歳以上のChatGPT Pro加入者のうち、USの請求先住所と「対象となるUS-issuedのAmerican Express、Chase、Mastercard、Visaカード」を使う利用者に順次提供される。"
+        },
+        {
+          "t": "p",
+          "x": "ウォレットにカードを追加すると、Dotsエージェントはプロンプトに応じてそのカードで買い物ができるが、決済の前には毎回ユーザーに確認する。OpenAIのサポートページによると、ChatGPT Walletでの購入にはすべて、Face IDや指紋スキャンなどの生体認証によるセキュリティチェックが必要だ。"
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/openai-chatgpt-wallet-approval-pop-up.jpeg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+          "cap": "ChatGPT Walletでの購入は、すべてユーザーの承認が必要だ。"
+        },
+        {
+          "t": "p",
+          "x": "OpenAIによると、ユーザーがAIエージェントの購入内容を確認して承認すると、タッチ決済やApple Pay、Google Walletと同様に、クレジットカード情報を決済トークンに置き換える。そのため実際のカード情報はDotsエージェントにも購入先の事業者にも共有されない。OpenAIは最終的に「ユーザーが利用上限、購入カテゴリー、期間といった明確な条件を設定して購入を完全にエージェントへ任せ、その購入を事前承認できるようになる」と見込んでいる。"
+        },
+        {
+          "t": "p",
+          "x": "ChatGPT Walletはどこでも使えるとは限らない。AIエージェントの利用を制限したり、全面的にブロックしたりする小売業者もある。今年初めには、AmazonがMetaのMuseエージェントをブロックした。OpenAIは、エージェントがChatGPT Walletを使うには「ウェブサイトはエージェントが意図せずブロックされないようにし、決済・リスクシステムはエージェントによる正当な購入を認識する必要がある」としている。"
+        }
+      ]
     }
   }
 }

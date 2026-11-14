@@ -10457,6 +10457,138 @@
           "x": "So far, signatories comprise 108 publishers in 26 countries. The Association of University Presses hosts the charter. Notably absent is Oxford University Press, the largest university press in the world."
         }
       ]
+    },
+    "books/books-tawhia-cla-prompts": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Aotearoa New Zealand copyright organisation Tāwhia Copyright Aotearoa, formerly known as Copyright Licensing New Zealand, has signed a bilateral agreement with the UK’s Copyright Licensing Agency under which licensed content can be used for AI prompts."
+        }
+      ]
+    },
+    "books/books-lukomski-voice-ruling": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/hero-86.jpg"
+        },
+        {
+          "t": "p",
+          "x": "A Warsaw court ruled on Friday that a company’s adverts using an AI copy of Jarosław Łukomski’s voice were a deepfake. It ordered the ads taken down, public apologies and damages for one of Poland’s best known film readers. The Warsaw Regional Court’s intellectual property division gave its ruling on Friday, 13 November, at the end of what Polish media are calling the country’s first trial over a voice cloned with AI. Łukomski sued JFC Polska, a company that makes home sewage treatment tanks, after hearing a voice like his in its adverts."
+        },
+        {
+          "t": "video",
+          "yt": "o-CzuhcoWsY"
+        },
+        {
+          "t": "p",
+          "x": "Judge Sylwia Wit vel Wilk ordered JFC Polska to remove the material and publish apologies, and to pay Łukomski 30,000 zlotys (about $7,500) with interest as compensation, more than 17,000 zlotys (about $4,260) for his losses, and the costs of the trial. The ruling isn’t final."
+        },
+        {
+          "t": "p",
+          "x": "What matters, the judge said, is whether listeners could believe the words really came from the person being imitated. In her ruling, the protected interest is the voice of every individual person, however well known they are or aren’t."
+        },
+        {
+          "t": "img",
+          "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/scrum.jpg",
+          "cap": "Łukomski, left, talks to reporters at the Warsaw court during the trial. Image: eKoszalin, on YouTube"
+        },
+        {
+          "t": "p",
+          "x": "A court-appointed expert found both voices “clearly (deceptively) similar.” The company’s graphic designer said he had used a Polish AI voice firm’s tools; o2.pl reports that the tool named in court was ElevenLabs."
+        },
+        {
+          "t": "img",
+          "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/booth-4.jpg",
+          "cap": "Łukomski at the microphone. Image: #AdiMoovi, on YouTube"
+        }
+      ]
+    },
+    "books/books-kakao-ryan-begins-anim": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.animenewsnetwork.com/thumbnails/max600x600/cms/news.8/222549/3246655_3305364_2723.jpg",
+          "cap": "Image via Kakao Entertainment's website © Kakao Entertianment"
+        },
+        {
+          "t": "p",
+          "x": "Kakao announced on November 10 that it has produced Ryan Begins, the first AI short animation starring its popular character Ryan, through a technology collaboration with OpenAI."
+        },
+        {
+          "t": "p",
+          "x": "Based on the the webtoon of the same name, the approximately seven-minute short combines human creative direction with generative AI tools in its planning and production."
+        },
+        {
+          "t": "p",
+          "x": "The production team includes director Jiwon Han, who directed Netflix's animated film Lost in Starlight, and AI supervisor Young-jun Kim. The team used ChatGPT's image generation feature to create initial images based on scene sketches and detailed prompts. Artists then manually refined and revised the images to achieve the intended visual quality."
+        },
+        {
+          "t": "video",
+          "yt": "REXgHT6Y_oo"
+        },
+        {
+          "t": "p",
+          "x": "According to the production team, they used approximately 1,500 prompts for a single scene to achieve the desired direction and emotional tone."
+        },
+        {
+          "t": "p",
+          "x": "Kakao held a special advance screening and a Q&A session on November 8 at Movieland in Seongsu-dong, Seoul. The event also featured an exhibition showcasing the animation's production process. Tickets for the Q&A session sold out within a day of going on sale."
+        },
+        {
+          "t": "p",
+          "x": "Han said the team focused on conveying Ryan's emotions without relying on dialogue or exaggerated facial expressions, allowing viewers to find their own interpretations of the story. Kim added that the team repeatedly revised AI-generated images whenever they did not match the intended emotional tone, emphasizing that the creators' decisions and hands-on work determined the final result."
+        }
+      ]
+    },
+    "books/books-laffont-madrigall-screening": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/11/Screen-Shot-2026-11-08-at-11.14.44-AM.png"
+        },
+        {
+          "t": "p",
+          "x": "As reported by ActuaLitté, French publisher Robert Laffont is taking a different approach to AI-generated manuscripts from rival Gallimard. Robert Laffont’s managing director, Frédéric Martin, opposes the use of AI detection software to screen submissions, arguing that the relationship between authors and publishers should be based on trust. Gallimard’s parent company, Madrigall, meanwhile, plans to introduce AI detection for submitted manuscripts in January 2027."
+        },
+        {
+          "t": "p",
+          "x": "Robert Laffont is also preparing to publish Les Touches fantômes, an AI-assisted novel by Sébastien Bailly, in February 2027. Bailly generated an initial draft largely with Claude before spending a year rewriting and refining the manuscript through some 30 versions."
+        }
+      ]
+    },
+    "books/books-kyobo-picks-agent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.readersnews.com/news/photo/202611/200863_91283_2625.jpg",
+          "cap": "[Photo=Kyobo Book Centre]"
+        },
+        {
+          "t": "p",
+          "x": "Kyobo Book Centre has opened ‘Picks Agent’, a conversational AI book recommendation service."
+        },
+        {
+          "t": "p",
+          "x": "‘Picks’ is a personalized service that recommends books based on individual tastes and interests. In March, the service was upgraded with a large language model (LLM)."
+        },
+        {
+          "t": "p",
+          "x": "The new ‘Picks Agent’ extends the recommendation method to conversation. It recommends books based not only on readers' tastes but also on topics and titles curated by Kyobo Book Centre's MD team, and it also suggests a reading order that takes the reading context into account."
+        },
+        {
+          "t": "p",
+          "x": "Readers' opinions were reflected in planning the service. In a survey of members conducted in January, 55% of respondents said the moment they hesitate most when choosing a book is when they cannot be sure it matches their taste. ‘Taste-based recommendations from analysis of reading data’ was chosen as the most preferred AI recommendation method."
+        },
+        {
+          "t": "p",
+          "x": "The service is available by logging in to the Kyobo Book Centre website and tapping the Picks Agent icon next to the search bar."
+        },
+        {
+          "t": "p",
+          "x": "On the launch event page, readers can see the questions authors put to ‘Picks Agent’, the recommended books and the reasons for each pick, and look at how questions are asked and how recommendations are made. A launch comment event is also being held."
+        }
+      ]
     }
   }
 }

@@ -11014,6 +11014,142 @@
           "x": "Sonura Flow supports macOS 12 or later on both Apple Silicon and Intel Macs and 64-bit Windows 10 and 11."
         }
       ]
+    },
+    "music/fifty-cent-huang-deepfake": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.billboard.com/wp-content/uploads/2026/10/2287163263-e1792696512839.jpg?w=1024",
+          "cap": "Curtis \"50 Cent\" Jackson"
+        },
+        {
+          "t": "p",
+          "x": "50 Cent learning how to make AI-generated videos is the equivalent of a social media nuclear weapon. 50 always keeps up with what’s making waves in the national news, and he took a swipe at the former Nvidia CEO Jensen Huang, who stepped down on Thursday (Nov. 12) after it was revealed he was having an extramarital affair with a Chinese spy."
+        },
+        {
+          "t": "p",
+          "x": "50 posted an altered A.I. deepfake of the “P.I.M.P.” music video, but had Huang replace Snoop Dogg’s role in the visual. “Jensen don’t sweat it come be head of AI at G-Unit film & television GLG GreenLightGang in full effect,” 50 captioned the post."
+        },
+        {
+          "t": "p",
+          "x": "A fan commented: “Huang the new member of Jen-Unit!”"
+        },
+        {
+          "t": "p",
+          "x": "“P.I.M.P.” arrived in 2003 and reached No. 3 on the Billboard Hot 100. The remix of the Mr. Porter-produced anthem featured Snoop alongside G-Unit’s Young Buck and Lloyd Banks."
+        },
+        {
+          "t": "p",
+          "x": "According to The New York Times, the A.I. tech giant had a pair of affairs that led to the scandal exploding this week. One entanglement was with a woman whom U.S. intelligence officials tabbed as a Chinese spy, Alice Huang (unrelated), while another affair was with a fellow executive of the company."
+        },
+        {
+          "t": "p",
+          "x": "50 didn’t stop there. He continued to troll Huang by posting another AI deepfake of the disgraced entrepreneur as Justin Bieber in Drake’s 2020 “Popstar” music video. “lol like this I don’t know why, but I like it,” he added in the caption."
+        },
+        {
+          "t": "p",
+          "x": "Huang admitted in a company-wide message before stepping down that he had been “unfaithful” to his wife, Lori Huang. The couple shares two children."
+        }
+      ]
+    },
+    "music/mintify-vcoloring-ai-songs": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.aipostkorea.com/news/photo/202611/13276_24022_5651.png",
+          "cap": "(Photo: MusicPlat)"
+        },
+        {
+          "t": "p",
+          "x": "Songs made with AI have moved beyond the music charts and onto phone screens. Mintify (operated by MusicPlat), an AI music distribution service, said it has launched on V Coloring and V Profile, the call-connection video services of the 3 telecom carriers, and that to mark the launch it will run a 'Popular Latest Songs by Mintify' event from 11/12 to 12/10."
+        },
+        {
+          "t": "p",
+          "x": "AI music has been rapidly gaining presence. AI creator Meomureu's 'Have I Become the Adult I Dreamed Of?' climbed as high as No. 2 on the Melon TOP100 last month. Mintify supplies songs to V Coloring and V Profile so that such AI music can be used not only on music sites but also in the moments when people make and receive calls."
+        },
+        {
+          "t": "p",
+          "x": "V Coloring and V Profile are services that show a video on the other party's screen until a call connects. Set to be seen by people calling you, it works as V Coloring; set to be seen by people you call, it works as V Profile. When a user sets a video containing Mintify AI music, the music and video they chose appear on the other party's screen."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.aipostkorea.com/news/photo/202611/13276_24023_571.jpg",
+          "cap": "(Photo: MusicPlat)"
+        },
+        {
+          "t": "p",
+          "x": "The event opens with 18 videos featuring AI tracks released through Mintify. Customers using V Coloring Unlimited or V Profile are entered automatically when they set an event video for at least 1 day. Prizes are a Galaxy Buds PRO for 1st place (1 winner), a Mintify release voucher worth 33,000 won for 2nd place (10 winners) and a JBOX 50% discount voucher for 3rd place (100 winners), and winners will be announced on 12/15. Mintify plans to keep supplying its released songs to V Coloring and V Profile after the event."
+        },
+        {
+          "t": "p",
+          "x": "With nothing more than an audio track, Mintify uses AI to automatically create cover art and the data needed for release, letting the music be sold on some 30 music services at home and abroad. It does not matter whether a song was made by AI or by a person, so both ordinary users and musicians can easily earn money from their own music."
+        }
+      ]
+    },
+    "music/musicgen-beat-tracking-adapter": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Existing studies have shown that music generative models can generate synchronized tracks that play alongside an input song. Can we extend this capability to develop a generative approach to beat tracking? To answer this question, we equip a pretrained MusicGen model with an audio-conditioning adapter to generate percussion tracks synchronized with the input music, from which we extract the beat positions. We train separate models with percussion targets of varying rhythmic complexity and compare them with two other generative models and conventional beat trackers. On GTZAN, our model achieves performance close to state-of-the-art beat trackers."
+        },
+        {
+          "t": "p",
+          "x": "Our model also demonstrates greater robustness: it shows the smallest drop in F-measure when drums are removed from the input at inference time. In certain genres, such as metal and disco, our model is also less likely to be misled by strong onsets or to miss beats with weak onsets. These results suggest that percussion generation has the potential to become a viable approach to beat tracking, and that its output is not merely a sequence of beat positions but an audible percussion track."
+        }
+      ]
+    },
+    "music/para-music-parameter-ar": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "In June, we wrote about the launch of “AI-powered” Indian label PaRa Music, which uses its in-house AI platform PaRaMeter to analyse “audience behaviour and demand patterns” to “guide investment and release decisions” related “to catalogue development, distribution and monetisation”."
+        },
+        {
+          "t": "p",
+          "x": "Six months on, the company has shared its first success story with Music Ally South Asia. They told us that when their team reviewed the Marathi-language segment, they found that “a large share of the artists and songs gaining traction” were those specialising in ‘gavthi’ music, a sub-genre from the rural areas of the state of Maharashtra."
+        },
+        {
+          "t": "p",
+          "x": "According to PaRaMeter’s “artist-level return-on-investment analysis”, gavthi songs were faring than Marathi pop tunes. The label then used the platform to find the most popular creative pairings in the sub-genre and identified composer RK King and vocalist Kiran Vartha as a combination with “an especially strong record”."
+        },
+        {
+          "t": "p",
+          "x": "They then released a series of tracks by King and Vartha, starting in July with ‘Pikel Karand’, which has tallied over 500k views on YouTube until date, and eventually signed both acts to exclusive deals. “PaRaMeter put gavthi firmly on our radar, and it won’t be the last,” says Pavan Sood, the co-founder of PaRa Music, which is building a catalogue spanning more than 20 languages. “India’s music is full of gems like this, and we now have the tools to find them.”"
+        }
+      ]
+    },
+    "music/suno-bridge-ableton": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/cl7b1q1i/production/82b39b7eda6ba746df9166d864ce48cddb76843f-1920x1080.jpg?w=1600&h=900&fit=crop&auto=format",
+          "cap": "Suno Bridge"
+        },
+        {
+          "t": "p",
+          "x": "Today, we are introducing Suno Bridge, a new standalone app that brings the power and inspiration of Suno into your music production software. For the first time you can combine your Suno workflow with the VSTs, plugins and DAW you already know."
+        },
+        {
+          "t": "p",
+          "x": "Initially launching in beta, Suno Bridge will be compatible with Ableton Live 12 running on a Mac. We plan to expand to more operating systems and DAW platforms in the future."
+        },
+        {
+          "t": "p",
+          "x": "Bridge runs alongside Ableton Live, and both apps need to be open. Prompts entered in Bridge create brand new instrumentation and vocals that fit the tempo, key, style, harmonic content and groove of your Ableton session, dropped straight onto your timeline. Syncing involves uploading your session files to Suno; the loop start/end markers in Arrangement View set the prompting window."
+        },
+        {
+          "t": "video",
+          "yt": "w0jgwmAObd0"
+        },
+        {
+          "t": "p",
+          "x": "Think of Bridge like an endless library of unique sounds designed to fit your music: turn old sessions into finished songs, get past creative roadblocks, and keep your plugins, audio routing and everything you've mastered in Live."
+        },
+        {
+          "t": "p",
+          "x": "Suno Bridge (beta) is included with all Premier subscriptions. It currently works with Ableton Live 12 on a Mac."
+        }
+      ]
     }
   }
 }

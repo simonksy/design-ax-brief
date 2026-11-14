@@ -4327,6 +4327,117 @@
           "x": "But 61% worry that trainees will rely on AI too much and not develop their own set of clinical skills. Nearly half were concerned about overreliance on AI, and three in four physicians said they encountered a factual inaccuracy at least once in the past year while using AI for work. Over a quarter said the effort they put into correcting or double-checking AI output has decreased compared with a year ago."
         }
       ]
+    },
+    "medicine/nhs-rcr-ai-diagnostic-monitoring": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.publictechnology.net/wp-content/uploads/2024/11/hospital.jpg",
+          "cap": "Credit: Crown Copyright/Open Government Licence v3.0"
+        },
+        {
+          "t": "p",
+          "x": "The NHS has revealed details of a six-figure project through which experts will seek to determine how to monitor the performance and safety of artificial intelligence used to support clinical diagnoses."
+        },
+        {
+          "t": "p",
+          "x": "On 26 November, NHS England intends to enter into a five-month agreement with the Royal College of Radiologists (RCR). “RCR [will] undertake a discovery project to determine national post-deployment monitoring (PDM) of AI diagnostic tools in the NHS,” the procurement notice says, identifying the requirements for national PDM across diagnostics and potential opportunities regarding the procurement of a solution/platform if required."
+        },
+        {
+          "t": "p",
+          "x": "The project will consider key challenges including the need for continuous monitoring of real-world performance, identification of model drift, and assessment of potential inequities. The RCR will also examine the potential risks of bias or other unfair outcomes. The contract is valued at almost £230,000, inclusive of VAT."
+        },
+        {
+          "t": "p",
+          "x": "AI diagnostic tools have become increasingly widely used in the health service, particularly in cancer screening. This summer, the government announced AI has already expedited lung cancer screening for four million people."
+        }
+      ]
+    },
+    "medicine/amc-fh-kidney-cancer-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Asan Medical Center (AMC) said Thursday that a team led by Professors Kim Nam-kug of the Department of Convergence Medicine and Cho Yong-mee of the Department of Pathology developed a deep learning tool to detect fumarate hydratase-deficient renal cell carcinoma (FHdRCC) and evaluated its use by 21 physicians."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.koreabiomed.com/news/photo/202611/33846_37014_5655.jpg",
+          "cap": "Professors Kim Nam-kug (left) and Cho Yong-mee (Courtesy of AMC)"
+        },
+        {
+          "t": "p",
+          "x": "FHdRCC accounts for less than 0.4 percent of kidney cancers, progresses rapidly and can resemble other kidney cancers under a microscope. Developed with 335 digital pathology slides, the tool reached an AUC of 0.954 in internal testing and 0.820 and 0.867 in two external evaluations."
+        },
+        {
+          "t": "p",
+          "x": "The 21 physicians, including attending pathologists and pathology residents, reviewed 30 diagnostically challenging cases. With AI assistance, diagnostic accuracy rose significantly from 60.0 percent to 73.3 percent, and agreement among pathologists rose from 0.311 to 0.482, with no significant increase in reading time."
+        },
+        {
+          "t": "p",
+          "x": "Physicians in a receptive group that readily accepted the tool's suggestions improved their accuracy more, but accepted incorrect recommendations 80 percent of the time, compared with 60 percent in the resistant group. The differences were not associated with clinical experience or subspecialty. “Using AI effectively is a skill in its own right,” Professor Kim said. The study was published in npj Digital Medicine."
+        }
+      ]
+    },
+    "medicine/auntminnie-mammo-ai-recall": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "In this RSNA 2026 presentation on Sunday, November 29, researchers will share real-world results from a tertiary care cancer center that compared screening interpretation with and without AI."
+        },
+        {
+          "t": "p",
+          "x": "This prospective analysis led by researchers from the Memorial Sloan Kettering Cancer Center in New York included all batch-screened mammograms from 2025 and 2026. Exams acquired during the first half of each month were interpreted by a breast radiologist using AI (Transpara, ScreenPoint, version 1.7.4). Exams from the second half of each month were read without AI by one of the same group of radiologists. The team compared recall rate, cancer detection rate, and interpretation time, defined as the time from opening to signing the report."
+        },
+        {
+          "t": "p",
+          "x": "Of 37,485 screening exams, 20,885 (56%) were read without AI and 16,600 (44%) with AI. Recall rates rose significantly with AI, from 8.9% to 9.7% (odds ratio 1.11, p = 0.005). Cancer detection rate trended upward, from 6.7 per 1,000 without AI to 7.7 per 1,000 with AI (odds ratio 1.14), but the difference did not achieve statistical significance on univariate analysis (p = 0.3). Mean interpretation time also trended up slightly, from 4.2 minutes without AI to 4.4 minutes with AI (p = 0.4)."
+        },
+        {
+          "t": "p",
+          "x": "The authors conclude that AI use was associated with increased recall rates in this real-world setting. They noted that larger sample sizes will be needed to determine whether the upward trends in cancer detection and reading time are statistically significant."
+        }
+      ]
+    },
+    "medicine/gallup-patient-ai-oversight": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/UnzN7Q0yFftdnT_LCfhN69ifT-LDXfXaS57AtdtgXhk/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjcyMDM5MjIwLmpwZw==.webp",
+          "cap": "Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Patients are getting more comfortable with artificial intelligence tools making diagnosis or treatment decisions, according to a new Gallup survey, which polled more than 5,000 American adults in August."
+        },
+        {
+          "t": "p",
+          "x": "Over half of U.S. adults said that they would be fine with AI tools making clinical decisions about their care, but only if their healthcare provider can review and override those decisions. Their comfort with AI drops sharply if a provider is not involved in the decision-making at all."
+        },
+        {
+          "t": "p",
+          "x": "A separate Gallup poll of over 1,000 practicing primary care physicians shows a 20-percentage-point gap between how comfortable patients are with AI making diagnostic and treatment decisions and how comfortable providers think patients are; only about a third of providers said patients would be on board. According to the report authors, providers should ask patients their preference about how AI is used in their care."
+        },
+        {
+          "t": "p",
+          "x": "Nearly half of adults said provider review made them more comfortable with AI-led decisions on diagnosis and treatment and imaging review, more so than privacy protections, safety and efficacy studies and lower healthcare costs. Strong privacy protections were the next most important factor."
+        }
+      ]
+    },
+    "medicine/bracco-uptunity-aneurysm": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Bracco and Avicenna.AI have received U.S. Food and Drug Administration (FDA) 510(k) clearance for Uptunity Aneurysm, AI software that detects and assesses brain aneurysms on cerebral CT angiography (CTA) images."
+        },
+        {
+          "t": "p",
+          "x": "The software, intended as a concurrent reading aid, identifies suspected saccular brain aneurysms larger than 3 mm on head CTA and provides information on their presence, location, and size. For known aneurysms, its follow-up functionality provides quantitative measurements and comparisons between exams to assess changes over time."
+        },
+        {
+          "t": "p",
+          "x": "Uptunity Aneurysm is the first product in Bracco’s new Uptunity portfolio of interpretive AI software, developed through the company’s partnership with Avicenna.AI. Avicenna.AI will lead promotion and commercial distribution in the U.S."
+        }
+      ]
     }
   }
 }

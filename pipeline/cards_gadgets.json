@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-14",
+  "date": "2026-11-15",
   "section": "gadgets",
   "cards": [
     {
-      "id": "gadgets-gemini-task-automation-galaxy",
+      "id": "gr00t2-human-video-robots",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Gemini 작업 자동화\n114개 앱과 연동된다",
-      "body": "Gemini 자동화가 곧 Android 17 Galaxy 114개 앱을 지원한다.",
-      "mini_headline": "Gemini 자동화, 114개 앱 지원",
+      "headline": "사람 영상을 로봇 기술로\n바꾸는 GR00T 2",
+      "body": "GR00T 2는 몇 초 뒤 영상을 예측해 사람 시연 기술을 로봇에 옮긴다.",
+      "mini_headline": "사람 영상으로 배우는 GR00T 2",
       "tool": "Gadgets",
-      "source": "SamMobile",
-      "url": "https://www.sammobile.com/news/geminis-ai-task-automation-will-work-with-dozens-of-apps-on-galaxy-phones/",
+      "source": "The Gadgeteer",
+      "url": "https://the-gadgeteer.com/2026/11/14/gr00t-2-learns-skills-from-human-video-and-runs-them-on-robots-that-never-practiced-them/",
       "accent": "#ff5a4d",
       "motif": "headset",
       "full": {
@@ -19,345 +19,415 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.sammobile.com/wp-content/uploads/2026/07/Galaxy-Z-Fold-8-Ultra-Gemini-1200x675.jpg",
-            "cap": "Galaxy Z Fold 8 Ultra에서 실행한 Gemini"
+            "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-hero2-1280x720.jpg"
           },
           {
             "t": "p",
-            "x": "Gemini는 성능 개선과 새 기능, 업그레이드된 모델을 앞세워 달마다 진화하고 있다. Google은 올해 초 Galaxy S26 시리즈 출시 행사에서 Android용 Gemini의 Task Automation 기능을 처음 공개했다. 이 기능이 곧 일부 Galaxy 휴대폰과 태블릿에서 수십 개 앱과 연동된다."
+            "x": "GR00T 2는 움직이기 전에 앞으로 몇 초간 벌어질 영상부터 예측한다. 이 모델을 쓰는 로봇은 사람의 시연을 보고 기술을 익힌 뒤, 그 작업을 한 번도 연습해 본 적 없는 다른 몸체로 옮긴다. 확산 트랜스포머 하나가 미래 영상과 액션 청크를 함께 만든다. NVIDIA는 이 모델을 자사 월드 모델 플랫폼 Cosmos 위에 올린 System One 계층이라고 설명한다."
+          },
+          {
+            "t": "img",
+            "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-rollout.jpg"
           },
           {
             "t": "p",
-            "x": "Gemini Task Automation 확대 배포를 앞두고 Android Authority가 Android 휴대폰과 태블릿에서 이 기능을 쓸 수 있는 앱 목록을 찾아냈다. 목록은 Australia, Canada, Europe, Global, India, Japan, South Korea, UK and Ireland, US 등 지역별로 나뉜다. Global 항목에는 Airbnb, Booking.com, eBay, Expedia, Microsoft Word, Excel, Outlook, Teams, Slack, Uber, Uber Eats가, South Korea 항목에는 11st, Catchtable, Gmarket, Kakao T, Korean Air, Naver Calendar, Yanolja가 올라 있다."
+            "x": "사전학습 데이터는 1인칭 사람 영상 402,730시간, 2,897개 작업을 담은 손잡이형 그리퍼 시연 10,184시간, 로봇 원격조작 23,500시간으로 이뤄졌다. NVIDIA가 X-Adapt라고 부르는 이 전이 방식에서는 대상 로봇이 작업 전에 직접 시연할 필요가 없다. 1인칭 영상 가운데 100,000시간 분량은 Human-1M-100K라는 이름으로 Hugging Face에 공개됐다."
+          },
+          {
+            "t": "img",
+            "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-xadapt.jpg"
           },
           {
             "t": "p",
-            "x": "이 기능은 2026년에 출시돼 Android 17(One UI 9.0 이상)을 돌리는 Galaxy S, Galaxy Tab S(FE 모델 제외), Galaxy Z 시리즈 기기에서만 작동한다. 대상 기기는 Galaxy S26, S26+, S26 Ultra, S26 FE, Galaxy Tab S12+, Tab S12 Ultra, Galaxy Z Flip 8, Z Fold 8, Z Fold 8 Ultra다."
+            "x": "대상 로봇이 한 번도 연습하지 않은 50개 작업에서 GR00T 2는 지시만 받고도 시도의 40%에 성공한다. 작업마다 시연을 한 번 보여 주면 평균 성공률이 71%로 오른다. 시연 다섯 번에 RTX 5090 한 장으로 30분짜리 미세조정을 한 차례 거치면 95%까지 올라간다. WAM API로 최첨단 추론 모델을 System Two 자리에 붙이자 시스템은 장난감 조립을 연달아 300회 하는 동안 292회를 끝까지 해냈다."
+          },
+          {
+            "t": "img",
+            "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-turbo.jpg"
           },
           {
             "t": "p",
-            "x": "이 기능으로 음식과 식료품 주문, 차량 호출, 상품 쇼핑, 공연 티켓과 항공권 예매, 식당이나 호텔 예약, 문서 작성과 편집, 메시지 전송 등 훨씬 많은 일을 처리한다. Google Play Store에서 내려받은 앱에서만 작동하는 듯하고, 출시는 단계적으로 이뤄질 가능성이 크다."
-          },
-          {
-            "t": "video",
-            "yt": "6FbSIAKJ1rg"
+            "x": "파라미터 이십억 개 규모인 GR00T 2 Turbo는 Jetson Thor를 얹은 Unitree G1 휴머노이드에서 온보드로 돌아가고 예측 한 번에 124밀리초가 걸린다. 풀사이즈 모델은 Nexuni, Foxconn, Siemens가 시험 중이다. 모델 가중치와 X-Adapt 레시피는 12월에 공개된다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Gemini task automation\nwill work with 114 apps",
-          "body": "Gemini Task Automation will soon work with 114 apps on select Galaxy phones and tablets running Android 17 or newer.",
-          "mini_headline": "Gemini automation for 114 apps",
+          "headline": "GR00T 2 turns human video\ninto robot skills",
+          "body": "GR00T 2 predicts a few seconds of video before it moves, letting robots reuse skills learned from human demos.",
+          "mini_headline": "GR00T 2 learns\nfrom human video",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.sammobile.com/wp-content/uploads/2026/07/Galaxy-Z-Fold-8-Ultra-Gemini-1200x675.jpg",
-                "cap": "Gemini on Galaxy Z Fold 8 Ultra"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-hero2-1280x720.jpg"
               },
               {
                 "t": "p",
-                "x": "Gemini is evolving every month with improved performance, new features, and upgraded models. Earlier this year, during the launch of the Galaxy S26 series, Google first showcased Gemini's Task Automation feature on Android. Soon, that feature will work with dozens of apps on select Galaxy phones and tablets."
+                "x": "GR00T 2 predicts the next few seconds of video before it moves. A robot running it learns skills from human demonstrations, then carries those skills to bodies that never practiced the task. One diffusion transformer generates the future video and the action chunk together; NVIDIA frames the model as its System One layer, built on Cosmos, its world-model platform."
               },
-              {
-                "t": "p",
-                "x": "Ahead of Gemini Task Automation's wider rollout, Android Authority discovered a list of apps that will be compatible with the feature on Android phones and tablets, grouped by region: Australia, Canada, Europe, Global, India, Japan, South Korea, UK and Ireland, and the US. Global entries include Airbnb, Booking.com, eBay, Expedia, Microsoft Word, Excel, Outlook and Teams, Slack, Uber and Uber Eats; South Korea's include 11st, Catchtable, Gmarket, Kakao T, Korean Air, Naver Calendar and Yanolja."
-              },
-              {
-                "t": "p",
-                "x": "This feature will only work on Galaxy S, Galaxy Tab S (excluding FE models), and Galaxy Z series devices launched in 2026 and running Android 17 (One UI 9.0 or newer): Galaxy S26, S26+, S26 Ultra, S26 FE, Galaxy Tab S12+, Tab S12 Ultra, Galaxy Z Flip 8, Z Fold 8 and Z Fold 8 Ultra."
-              },
-              {
-                "t": "p",
-                "x": "Using this feature, you can order food and groceries, hail a ride, shop for products, book event tickets and flights, make restaurant reservations or hotel bookings, create or edit documents, send messages, and much more. Apparently, it will only work with apps downloaded from the Google Play Store, and launch will likely happen in a phased manner."
-              },
-              {
-                "t": "video",
-                "yt": "6FbSIAKJ1rg"
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Gemini作業自動化\n114のアプリに対応へ",
-          "body": "Geminiの自動化機能が近くAndroid 17のGalaxyで114アプリに対応する。",
-          "mini_headline": "Gemini自動化が114アプリに対応",
-          "full": {
-            "mode": "summary",
-            "blocks": [
               {
                 "t": "img",
-                "src": "https://www.sammobile.com/wp-content/uploads/2026/07/Galaxy-Z-Fold-8-Ultra-Gemini-1200x675.jpg",
-                "cap": "Galaxy Z Fold 8 UltraのGemini"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-rollout.jpg"
               },
               {
                 "t": "p",
-                "x": "Geminiは性能向上、新機能、モデルの刷新によって毎月進化している。今年初めのGalaxy S26シリーズ発表時に、GoogleはAndroidでGeminiのTask Automation機能を初めて披露した。この機能は近く、一部のGalaxyスマートフォンとタブレットで数十のアプリに対応する。"
+                "x": "Pretraining mixed 402,730 hours of first-person human video, 10,184 hours of handheld gripper demonstrations across 2,897 tasks, and 23,500 hours of robot teleoperation. NVIDIA calls the transfer X-Adapt: the target robot never has to demonstrate the task itself before running it. 100,000 hours of the egocentric footage sit on Hugging Face as Human-1M-100K."
               },
-              {
-                "t": "p",
-                "x": "Gemini Task Automationの本格展開を前に、Android AuthorityはAndroidスマートフォンとタブレットでこの機能に対応するアプリの一覧を見つけた。一覧はオーストラリア、カナダ、欧州、グローバル、インド、日本、韓国、UK・アイルランド、USの地域別に分かれている。グローバルにはAirbnb、Booking.com、eBay、Expedia、Microsoft Word、Excel、Outlook、Teams、Slack、Uber、Uber Eatsが、韓国には11st、Catchtable、Gmarket、Kakao T、Korean Air、Naver Calendar、Yanoljaが含まれる。"
-              },
-              {
-                "t": "p",
-                "x": "この機能が動作するのは、2026年に発売されAndroid 17(One UI 9.0以降)を搭載したGalaxy S、Galaxy Tab S(FEモデルを除く)、Galaxy Zシリーズのみだ。対象はGalaxy S26、S26+、S26 Ultra、S26 FE、Galaxy Tab S12+、Tab S12 Ultra、Galaxy Z Flip 8、Z Fold 8、Z Fold 8 Ultraである。"
-              },
-              {
-                "t": "p",
-                "x": "この機能を使えば、料理や食料品の注文、配車、商品の購入、イベントチケットや航空券の予約、レストランやホテルの予約、文書の作成・編集、メッセージ送信などができる。Google Play Storeからダウンロードしたアプリでのみ動作するとみられ、提供は段階的に進む可能性が高い。"
-              },
-              {
-                "t": "video",
-                "yt": "6FbSIAKJ1rg"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Gemini任务自动化\n将支持114款应用",
-          "body": "Gemini任务自动化即将在Android 17的部分Galaxy设备上支持114款应用。",
-          "mini_headline": "Gemini自动化支持114款应用",
-          "full": {
-            "mode": "summary",
-            "blocks": [
               {
                 "t": "img",
-                "src": "https://www.sammobile.com/wp-content/uploads/2026/07/Galaxy-Z-Fold-8-Ultra-Gemini-1200x675.jpg",
-                "cap": "Galaxy Z Fold 8 Ultra上的Gemini"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-xadapt.jpg"
               },
               {
                 "t": "p",
-                "x": "Gemini每个月都在进化，性能不断提升，新功能和升级模型陆续推出。今年早些时候，Google在Galaxy S26系列发布时首次在Android上展示了Gemini的Task Automation功能。很快，该功能将在部分Galaxy手机和平板上支持数十款应用。"
+                "x": "On 50 tasks the target robot had never practiced, GR00T 2 succeeds in 40% of trials straight from the instruction. One demonstration per task lifts average success to 71%, and five demonstrations lift it to 95% after a single 30-minute fine-tune on one RTX 5090. Paired with a frontier reasoning model as System Two through the WAM API, the system finished 292 of 300 back-to-back toy assemblies."
               },
-              {
-                "t": "p",
-                "x": "在Gemini Task Automation更大范围推出之前，Android Authority发现了一份将在Android手机和平板上兼容该功能的应用清单，按地区划分：澳大利亚、加拿大、欧洲、全球、印度、日本、韩国、UK和爱尔兰，以及US。全球类别包括Airbnb、Booking.com、eBay、Expedia、Microsoft Word、Excel、Outlook和Teams、Slack、Uber和Uber Eats；韩国类别包括11st、Catchtable、Gmarket、Kakao T、Korean Air、Naver Calendar和Yanolja。"
-              },
-              {
-                "t": "p",
-                "x": "该功能仅适用于2026年发布并运行Android 17（One UI 9.0或更新版本）的Galaxy S、Galaxy Tab S（FE型号除外）和Galaxy Z系列设备：Galaxy S26、S26+、S26 Ultra、S26 FE、Galaxy Tab S12+、Tab S12 Ultra、Galaxy Z Flip 8、Z Fold 8和Z Fold 8 Ultra。"
-              },
-              {
-                "t": "p",
-                "x": "借助该功能，用户可以点餐和订购生鲜、叫车、购物、预订活动门票和机票、预订餐厅或酒店、创建或编辑文档、发送消息等。据悉，它只适用于从Google Play Store下载的应用，并且很可能分阶段推出。"
-              },
-              {
-                "t": "video",
-                "yt": "6FbSIAKJ1rg"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "La automatización de Gemini\nllegará a 114 apps",
-          "body": "Gemini Task Automation pronto funcionará con 114 apps en algunos móviles y tabletas Galaxy con Android 17 o posterior.",
-          "mini_headline": "Automatización de Gemini para 114 apps",
-          "full": {
-            "mode": "summary",
-            "blocks": [
               {
                 "t": "img",
-                "src": "https://www.sammobile.com/wp-content/uploads/2026/07/Galaxy-Z-Fold-8-Ultra-Gemini-1200x675.jpg",
-                "cap": "Gemini en el Galaxy Z Fold 8 Ultra"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-turbo.jpg"
               },
               {
                 "t": "p",
-                "x": "Gemini evoluciona cada mes con mejor rendimiento, nuevas funciones y modelos actualizados. A principios de este año, durante el lanzamiento de la serie Galaxy S26, Google mostró por primera vez la función Task Automation de Gemini en Android. Pronto, esa función funcionará con docenas de apps en algunos teléfonos y tabletas Galaxy."
-              },
-              {
-                "t": "p",
-                "x": "Antes del despliegue más amplio de Gemini Task Automation, Android Authority descubrió una lista de apps que serán compatibles con la función en teléfonos y tabletas Android, agrupadas por región: Australia, Canadá, Europa, Global, India, Japón, Corea del Sur, Reino Unido (UK) e Irlanda, y Estados Unidos (US). Entre las globales están Airbnb, Booking.com, eBay, Expedia, Microsoft Word, Excel, Outlook y Teams, Slack, Uber y Uber Eats; entre las de Corea del Sur, 11st, Catchtable, Gmarket, Kakao T, Korean Air, Naver Calendar y Yanolja."
-              },
-              {
-                "t": "p",
-                "x": "La función solo estará disponible en dispositivos Galaxy S, Galaxy Tab S (excepto los modelos FE) y Galaxy Z lanzados en 2026 con Android 17 (One UI 9.0 o posterior): Galaxy S26, S26+, S26 Ultra, S26 FE, Galaxy Tab S12+, Tab S12 Ultra, Galaxy Z Flip 8, Z Fold 8 y Z Fold 8 Ultra."
-              },
-              {
-                "t": "p",
-                "x": "Con esta función se puede pedir comida y compras del supermercado, solicitar un viaje, comprar productos, reservar entradas para eventos y vuelos, hacer reservas en restaurantes u hoteles, crear o editar documentos, enviar mensajes y mucho más. Al parecer, solo funcionará con apps descargadas de Google Play Store, y el lanzamiento probablemente será por fases."
-              },
-              {
-                "t": "video",
-                "yt": "6FbSIAKJ1rg"
+                "x": "GR00T 2 Turbo, a 2-billion-parameter version, runs onboard a Unitree G1 humanoid on Jetson Thor at 124 milliseconds per prediction. Nexuni, Foxconn and Siemens are testing the full-size model. The model weights and the X-Adapt recipes follow in December."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Gemini 작업 자동화\n114개 앱과 연동된다",
-          "body": "Gemini 자동화가 곧 Android 17 Galaxy 114개 앱을 지원한다.",
-          "mini_headline": "Gemini 자동화, 114개 앱 지원",
+          "headline": "사람 영상을 로봇 기술로\n바꾸는 GR00T 2",
+          "body": "GR00T 2는 몇 초 뒤 영상을 예측해 사람 시연 기술을 로봇에 옮긴다.",
+          "mini_headline": "사람 영상으로 배우는 GR00T 2",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.sammobile.com/wp-content/uploads/2026/07/Galaxy-Z-Fold-8-Ultra-Gemini-1200x675.jpg",
-                "cap": "Galaxy Z Fold 8 Ultra에서 실행한 Gemini"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-hero2-1280x720.jpg"
               },
               {
                 "t": "p",
-                "x": "Gemini는 성능 개선과 새 기능, 업그레이드된 모델을 앞세워 달마다 진화하고 있다. Google은 올해 초 Galaxy S26 시리즈 출시 행사에서 Android용 Gemini의 Task Automation 기능을 처음 공개했다. 이 기능이 곧 일부 Galaxy 휴대폰과 태블릿에서 수십 개 앱과 연동된다."
+                "x": "GR00T 2는 움직이기 전에 앞으로 몇 초간 벌어질 영상부터 예측한다. 이 모델을 쓰는 로봇은 사람의 시연을 보고 기술을 익힌 뒤, 그 작업을 한 번도 연습해 본 적 없는 다른 몸체로 옮긴다. 확산 트랜스포머 하나가 미래 영상과 액션 청크를 함께 만든다. NVIDIA는 이 모델을 자사 월드 모델 플랫폼 Cosmos 위에 올린 System One 계층이라고 설명한다."
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-rollout.jpg"
               },
               {
                 "t": "p",
-                "x": "Gemini Task Automation 확대 배포를 앞두고 Android Authority가 Android 휴대폰과 태블릿에서 이 기능을 쓸 수 있는 앱 목록을 찾아냈다. 목록은 Australia, Canada, Europe, Global, India, Japan, South Korea, UK and Ireland, US 등 지역별로 나뉜다. Global 항목에는 Airbnb, Booking.com, eBay, Expedia, Microsoft Word, Excel, Outlook, Teams, Slack, Uber, Uber Eats가, South Korea 항목에는 11st, Catchtable, Gmarket, Kakao T, Korean Air, Naver Calendar, Yanolja가 올라 있다."
+                "x": "사전학습 데이터는 1인칭 사람 영상 402,730시간, 2,897개 작업을 담은 손잡이형 그리퍼 시연 10,184시간, 로봇 원격조작 23,500시간으로 이뤄졌다. NVIDIA가 X-Adapt라고 부르는 이 전이 방식에서는 대상 로봇이 작업 전에 직접 시연할 필요가 없다. 1인칭 영상 가운데 100,000시간 분량은 Human-1M-100K라는 이름으로 Hugging Face에 공개됐다."
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-xadapt.jpg"
               },
               {
                 "t": "p",
-                "x": "이 기능은 2026년에 출시돼 Android 17(One UI 9.0 이상)을 돌리는 Galaxy S, Galaxy Tab S(FE 모델 제외), Galaxy Z 시리즈 기기에서만 작동한다. 대상 기기는 Galaxy S26, S26+, S26 Ultra, S26 FE, Galaxy Tab S12+, Tab S12 Ultra, Galaxy Z Flip 8, Z Fold 8, Z Fold 8 Ultra다."
+                "x": "대상 로봇이 한 번도 연습하지 않은 50개 작업에서 GR00T 2는 지시만 받고도 시도의 40%에 성공한다. 작업마다 시연을 한 번 보여 주면 평균 성공률이 71%로 오른다. 시연 다섯 번에 RTX 5090 한 장으로 30분짜리 미세조정을 한 차례 거치면 95%까지 올라간다. WAM API로 최첨단 추론 모델을 System Two 자리에 붙이자 시스템은 장난감 조립을 연달아 300회 하는 동안 292회를 끝까지 해냈다."
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-turbo.jpg"
               },
               {
                 "t": "p",
-                "x": "이 기능으로 음식과 식료품 주문, 차량 호출, 상품 쇼핑, 공연 티켓과 항공권 예매, 식당이나 호텔 예약, 문서 작성과 편집, 메시지 전송 등 훨씬 많은 일을 처리한다. Google Play Store에서 내려받은 앱에서만 작동하는 듯하고, 출시는 단계적으로 이뤄질 가능성이 크다."
+                "x": "파라미터 이십억 개 규모인 GR00T 2 Turbo는 Jetson Thor를 얹은 Unitree G1 휴머노이드에서 온보드로 돌아가고 예측 한 번에 124밀리초가 걸린다. 풀사이즈 모델은 Nexuni, Foxconn, Siemens가 시험 중이다. 모델 가중치와 X-Adapt 레시피는 12월에 공개된다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "人の動画をロボットの技能に\n変えるGR00T 2",
+          "body": "GR00T 2は動く前に数秒先の映像を予測し、人から学んだ技能をロボットに生かす。",
+          "mini_headline": "人の動画で学ぶGR00T 2",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-hero2-1280x720.jpg"
               },
               {
-                "t": "video",
-                "yt": "6FbSIAKJ1rg"
+                "t": "p",
+                "x": "GR00T 2は、動く前にこの先数秒間の映像を予測する。これを搭載したロボットは人の実演から技能を学び、その作業を一度も練習していない別の機体にも技能を移す。単一の拡散トランスフォーマーが未来の映像とアクションチャンクを同時に生成する。NVIDIAはこのモデルを、自社のワールドモデル基盤Cosmos上に構築したSystem One層と位置づける。"
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-rollout.jpg"
+              },
+              {
+                "t": "p",
+                "x": "事前学習には、一人称視点の人間の動画402,730時間、2,897タスクにわたるハンドヘルドグリッパーの実演10,184時間、ロボット遠隔操作23,500時間を組み合わせた。NVIDIAはこの転移をX-Adaptと呼ぶ。対象ロボットは、実行前にそのタスクを自ら実演する必要がない。一人称映像のうち100,000時間分は、Human-1M-100KとしてHugging Faceで公開されている。"
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-xadapt.jpg"
+              },
+              {
+                "t": "p",
+                "x": "対象ロボットが一度も練習していない50タスクで、GR00T 2は指示だけで試行の40%に成功する。タスクごとに1回実演すれば平均成功率は71%に、5回実演すればRTX 5090一枚での30分間のファインチューニング1回を経て95%に上がる。WAM APIを通じて最先端の推論モデルをSystem Twoとして組み合わせると、連続した玩具の組み立て300回のうち292回を完了した。"
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-turbo.jpg"
+              },
+              {
+                "t": "p",
+                "x": "二十億パラメータ版のGR00T 2 Turboは、Jetson Thorを積んだUnitree G1ヒューマノイド上で、予測1回あたり124ミリ秒で動作する。Nexuni、Foxconn、Siemensがフルサイズモデルを試験中だ。モデルの重みとX-Adaptのレシピは12月に公開される。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "GR00T 2把人类视频\n变成机器人技能",
+          "body": "GR00T 2在动作前先预测几秒视频，让机器人复用从人类示范中学到的技能。",
+          "mini_headline": "GR00T 2从人类视频中学习",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-hero2-1280x720.jpg"
+              },
+              {
+                "t": "p",
+                "x": "GR00T 2会在行动之前预测接下来几秒的视频。搭载它的机器人从人类示范中学习技能，再把这些技能迁移到从未练习过该任务的机体上。一个扩散Transformer同时生成未来视频和动作块；NVIDIA将该模型定位为其System One层，构建在其世界模型平台Cosmos之上。"
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-rollout.jpg"
+              },
+              {
+                "t": "p",
+                "x": "预训练混合了402,730小时的第一人称人类视频、覆盖2,897项任务的10,184小时手持夹爪示范，以及23,500小时的机器人遥操作数据。NVIDIA将这种迁移称为X-Adapt：目标机器人在执行任务前无需亲自示范。其中100,000小时的第一人称视频以Human-1M-100K之名发布在Hugging Face上。"
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-xadapt.jpg"
+              },
+              {
+                "t": "p",
+                "x": "在目标机器人从未练习过的50项任务上，GR00T 2仅凭指令即可在40%的尝试中成功。每项任务提供一次示范，平均成功率升至71%；提供五次示范，并在一块RTX 5090上进行一次30分钟微调后，成功率升至95%。通过WAM API与一款前沿推理模型（作为System Two）配合，该系统在300次连续玩具组装中完成了292次。"
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-turbo.jpg"
+              },
+              {
+                "t": "p",
+                "x": "GR00T 2 Turbo是二十亿参数版本，可在搭载Jetson Thor的Unitree G1人形机器人上本地运行，每次预测耗时124毫秒。Nexuni、Foxconn和Siemens正在测试完整版模型。模型权重和X-Adapt方案将于12月发布。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "GR00T 2 convierte video humano\nen habilidades para robots",
+          "body": "GR00T 2 predice unos segundos de video antes de moverse para que los robots reutilicen lo aprendido de humanos.",
+          "mini_headline": "GR00T 2 aprende de video humano",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-hero2-1280x720.jpg"
+              },
+              {
+                "t": "p",
+                "x": "GR00T 2 predice los siguientes segundos de video antes de moverse. Un robot que lo ejecuta aprende habilidades a partir de demostraciones humanas y luego las traslada a cuerpos que nunca practicaron la tarea. Un único transformador de difusión genera a la vez el video futuro y el bloque de acciones; NVIDIA presenta el modelo como su capa System One, construida sobre Cosmos, su plataforma de modelos del mundo."
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-rollout.jpg"
+              },
+              {
+                "t": "p",
+                "x": "El preentrenamiento combinó 402.730 horas de video humano en primera persona, 10.184 horas de demostraciones con pinzas de mano en 2.897 tareas y 23.500 horas de teleoperación de robots. NVIDIA llama X-Adapt a esta transferencia: el robot de destino nunca tiene que demostrar la tarea antes de ejecutarla. 100.000 horas de las grabaciones en primera persona están en Hugging Face como Human-1M-100K."
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-xadapt.jpg"
+              },
+              {
+                "t": "p",
+                "x": "En 50 tareas que el robot de destino nunca había practicado, GR00T 2 acierta en el 40% de los intentos directamente a partir de la instrucción. Una demostración por tarea eleva el éxito medio al 71%, y cinco demostraciones lo elevan al 95% tras un único ajuste fino de 30 minutos en una sola RTX 5090. Combinado con un modelo de razonamiento de frontera como System Two a través de la WAM API, el sistema completó 292 de 300 ensamblajes de juguetes consecutivos."
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-turbo.jpg"
+              },
+              {
+                "t": "p",
+                "x": "GR00T 2 Turbo, una versión de dos mil millones de parámetros, se ejecuta a bordo de un humanoide Unitree G1 con Jetson Thor a 124 milisegundos por predicción. Nexuni, Foxconn y Siemens están probando el modelo completo. Los pesos del modelo y las recetas de X-Adapt llegarán en diciembre."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ja": {
-          "headline": "Gemini作業自動化\n114のアプリに対応へ",
-          "body": "Geminiの自動化機能が近くAndroid 17のGalaxyで114アプリに対応する。",
-          "mini_headline": "Gemini自動化が114アプリに対応",
+        "ko": {
+          "headline": "사람 영상을 로봇 기술로\n바꾸는 GR00T 2",
+          "body": "GR00T 2는 몇 초 뒤 영상을 예측해 사람 시연 기술을 로봇에 옮긴다.",
+          "mini_headline": "사람 영상으로 배우는 GR00T 2",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.sammobile.com/wp-content/uploads/2026/07/Galaxy-Z-Fold-8-Ultra-Gemini-1200x675.jpg",
-                "cap": "Galaxy Z Fold 8 UltraのGemini"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-hero2-1280x720.jpg"
               },
               {
                 "t": "p",
-                "x": "Geminiは性能向上、新機能、モデルの刷新によって毎月進化している。今年初めのGalaxy S26シリーズ発表時に、GoogleはAndroidでGeminiのTask Automation機能を初めて披露した。この機能は近く、一部のGalaxyスマートフォンとタブレットで数十のアプリに対応する。"
+                "x": "GR00T 2는 움직이기 전에 앞으로 몇 초 동안의 영상을 먼저 예측한다. 이 모델을 쓰는 로봇은 사람의 시연에서 기술을 배우고, 그 기술을 해당 작업을 한 번도 연습하지 않은 다른 몸체로 옮긴다. 하나의 확산 트랜스포머가 미래 영상과 액션 청크를 함께 생성한다. NVIDIA는 이 모델을 자사 월드 모델 플랫폼 Cosmos 위에 구축한 System One 계층으로 규정한다."
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-rollout.jpg"
               },
               {
                 "t": "p",
-                "x": "Gemini Task Automationの本格展開を前に、Android AuthorityはAndroidスマートフォンとタブレットでこの機能に対応するアプリの一覧を見つけた。一覧はオーストラリア、カナダ、欧州、グローバル、インド、日本、韓国、UK・アイルランド、USの地域別に分かれている。グローバルにはAirbnb、Booking.com、eBay、Expedia、Microsoft Word、Excel、Outlook、Teams、Slack、Uber、Uber Eatsが、韓国には11st、Catchtable、Gmarket、Kakao T、Korean Air、Naver Calendar、Yanoljaが含まれる。"
+                "x": "사전학습에는 1인칭 사람 영상 402,730시간, 2,897개 작업에 걸친 손잡이형 그리퍼 시연 10,184시간, 로봇 원격조작 23,500시간이 섞였다. NVIDIA는 이 전이 방식을 X-Adapt라고 부른다. 대상 로봇이 작업을 실행하기 전에 직접 시연할 필요가 없다는 뜻이다. 1인칭 영상 중 100,000시간 분량은 Hugging Face에 Human-1M-100K라는 이름으로 공개돼 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-xadapt.jpg"
               },
               {
                 "t": "p",
-                "x": "この機能が動作するのは、2026年に発売されAndroid 17(One UI 9.0以降)を搭載したGalaxy S、Galaxy Tab S(FEモデルを除く)、Galaxy Zシリーズのみだ。対象はGalaxy S26、S26+、S26 Ultra、S26 FE、Galaxy Tab S12+、Tab S12 Ultra、Galaxy Z Flip 8、Z Fold 8、Z Fold 8 Ultraである。"
+                "x": "대상 로봇이 한 번도 연습하지 않은 50개 작업에서 GR00T 2는 지시만으로 시도의 40%를 성공한다. 작업당 시연 한 번이면 평균 성공률이 71%로 오르고, 시연 다섯 번이면 RTX 5090 한 장에서 30분짜리 미세조정을 한 차례 거친 뒤 95%까지 오른다. WAM API로 최첨단 추론 모델을 System Two로 붙이자, 시스템은 연달아 진행한 장난감 조립 300회 가운데 292회를 끝마쳤다."
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-turbo.jpg"
               },
               {
                 "t": "p",
-                "x": "この機能を使えば、料理や食料品の注文、配車、商品の購入、イベントチケットや航空券の予約、レストランやホテルの予約、文書の作成・編集、メッセージ送信などができる。Google Play Storeからダウンロードしたアプリでのみ動作するとみられ、提供は段階的に進む可能性が高い。"
+                "x": "이십억 개 파라미터 규모의 GR00T 2 Turbo는 Jetson Thor를 탑재한 Unitree G1 휴머노이드에서 온보드로 돌아가며, 예측 한 번에 124밀리초가 걸린다. Nexuni, Foxconn, Siemens가 풀사이즈 모델을 시험하고 있다. 모델 가중치와 X-Adapt 레시피는 12월에 공개된다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "人の動画をロボットの技能に\n変えるGR00T 2",
+          "body": "GR00T 2は動く前に数秒先の映像を予測し、人から学んだ技能をロボットに生かす。",
+          "mini_headline": "人の動画で学ぶGR00T 2",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-hero2-1280x720.jpg"
               },
               {
-                "t": "video",
-                "yt": "6FbSIAKJ1rg"
+                "t": "p",
+                "x": "GR00T 2は、動く前にこの先数秒間の映像を予測する。これを搭載したロボットは人の実演から技能を学び、その作業を一度も練習していない別の機体にも技能を移す。単一の拡散トランスフォーマーが未来の映像とアクションチャンクを同時に生成する。NVIDIAはこのモデルを、自社のワールドモデル基盤Cosmos上に構築したSystem One層と位置づける。"
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-rollout.jpg"
+              },
+              {
+                "t": "p",
+                "x": "事前学習には、一人称視点の人間の動画402,730時間、2,897タスクにわたるハンドヘルドグリッパーの実演10,184時間、ロボット遠隔操作23,500時間を組み合わせた。NVIDIAはこの転移をX-Adaptと呼ぶ。対象ロボットは、実行前にそのタスクを自ら実演する必要がない。一人称映像のうち100,000時間分は、Human-1M-100KとしてHugging Faceで公開されている。"
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-xadapt.jpg"
+              },
+              {
+                "t": "p",
+                "x": "対象ロボットが一度も練習していない50タスクで、GR00T 2は指示だけで試行の40%に成功する。タスクごとに1回実演すれば平均成功率は71%に、5回実演すればRTX 5090一枚での30分間のファインチューニング1回を経て95%に上がる。WAM APIを通じて最先端の推論モデルをSystem Twoとして組み合わせると、連続した玩具の組み立て300回のうち292回を完了した。"
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-turbo.jpg"
+              },
+              {
+                "t": "p",
+                "x": "二十億パラメータ版のGR00T 2 Turboは、Jetson Thorを積んだUnitree G1ヒューマノイド上で、予測1回あたり124ミリ秒で動作する。Nexuni、Foxconn、Siemensがフルサイズモデルを試験中だ。モデルの重みとX-Adaptのレシピは12月に公開される。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Gemini任务自动化\n将支持114款应用",
-          "body": "Gemini任务自动化即将在Android 17的部分Galaxy设备上支持114款应用。",
-          "mini_headline": "Gemini自动化支持114款应用",
+          "headline": "GR00T 2把人类视频\n变成机器人技能",
+          "body": "GR00T 2在动作前先预测几秒视频，让机器人复用从人类示范中学到的技能。",
+          "mini_headline": "GR00T 2从人类视频中学习",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.sammobile.com/wp-content/uploads/2026/07/Galaxy-Z-Fold-8-Ultra-Gemini-1200x675.jpg",
-                "cap": "Galaxy Z Fold 8 Ultra上的Gemini"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-hero2-1280x720.jpg"
               },
               {
                 "t": "p",
-                "x": "Gemini每个月都在进化，性能不断提升，新功能和升级模型陆续推出。今年早些时候，Google在Galaxy S26系列发布时首次在Android上展示了Gemini的Task Automation功能。很快，该功能将在部分Galaxy手机和平板上支持数十款应用。"
+                "x": "GR00T 2会在行动之前预测接下来几秒的视频。搭载它的机器人从人类示范中学习技能，再把这些技能迁移到从未练习过该任务的机体上。一个扩散Transformer同时生成未来视频和动作块；NVIDIA将该模型定位为其System One层，构建在其世界模型平台Cosmos之上。"
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-rollout.jpg"
               },
               {
                 "t": "p",
-                "x": "在Gemini Task Automation更大范围推出之前，Android Authority发现了一份将在Android手机和平板上兼容该功能的应用清单，按地区划分：澳大利亚、加拿大、欧洲、全球、印度、日本、韩国、UK和爱尔兰，以及US。全球类别包括Airbnb、Booking.com、eBay、Expedia、Microsoft Word、Excel、Outlook和Teams、Slack、Uber和Uber Eats；韩国类别包括11st、Catchtable、Gmarket、Kakao T、Korean Air、Naver Calendar和Yanolja。"
+                "x": "预训练混合了402,730小时的第一人称人类视频、覆盖2,897项任务的10,184小时手持夹爪示范，以及23,500小时的机器人遥操作数据。NVIDIA将这种迁移称为X-Adapt：目标机器人在执行任务前无需亲自示范。其中100,000小时的第一人称视频以Human-1M-100K之名发布在Hugging Face上。"
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-xadapt.jpg"
               },
               {
                 "t": "p",
-                "x": "该功能仅适用于2026年发布并运行Android 17（One UI 9.0或更新版本）的Galaxy S、Galaxy Tab S（FE型号除外）和Galaxy Z系列设备：Galaxy S26、S26+、S26 Ultra、S26 FE、Galaxy Tab S12+、Tab S12 Ultra、Galaxy Z Flip 8、Z Fold 8和Z Fold 8 Ultra。"
+                "x": "在目标机器人从未练习过的50项任务上，GR00T 2仅凭指令即可在40%的尝试中成功。每项任务提供一次示范，平均成功率升至71%；提供五次示范，并在一块RTX 5090上进行一次30分钟微调后，成功率升至95%。通过WAM API与一款前沿推理模型（作为System Two）配合，该系统在300次连续玩具组装中完成了292次。"
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-turbo.jpg"
               },
               {
                 "t": "p",
-                "x": "借助该功能，用户可以点餐和订购生鲜、叫车、购物、预订活动门票和机票、预订餐厅或酒店、创建或编辑文档、发送消息等。据悉，它只适用于从Google Play Store下载的应用，并且很可能分阶段推出。"
-              },
-              {
-                "t": "video",
-                "yt": "6FbSIAKJ1rg"
+                "x": "GR00T 2 Turbo是二十亿参数版本，可在搭载Jetson Thor的Unitree G1人形机器人上本地运行，每次预测耗时124毫秒。Nexuni、Foxconn和Siemens正在测试完整版模型。模型权重和X-Adapt方案将于12月发布。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La automatización de Gemini\nllegará a 114 apps",
-          "body": "Gemini Task Automation pronto funcionará con 114 apps en algunos móviles y tabletas Galaxy con Android 17 o posterior.",
-          "mini_headline": "Automatización de Gemini para 114 apps",
+          "headline": "GR00T 2 convierte video humano\nen habilidades para robots",
+          "body": "GR00T 2 predice unos segundos de video antes de moverse para que los robots reutilicen lo aprendido de humanos.",
+          "mini_headline": "GR00T 2 aprende de video humano",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.sammobile.com/wp-content/uploads/2026/07/Galaxy-Z-Fold-8-Ultra-Gemini-1200x675.jpg",
-                "cap": "Gemini en el Galaxy Z Fold 8 Ultra"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-hero2-1280x720.jpg"
               },
               {
                 "t": "p",
-                "x": "Gemini evoluciona cada mes con mejor rendimiento, nuevas funciones y modelos actualizados. A principios de este año, durante el lanzamiento de la serie Galaxy S26, Google mostró por primera vez la función Task Automation de Gemini en Android. Pronto, esa función funcionará con docenas de apps en algunos teléfonos y tabletas Galaxy."
+                "x": "GR00T 2 predice los siguientes segundos de video antes de moverse. Un robot que lo ejecuta aprende habilidades a partir de demostraciones humanas y luego las traslada a cuerpos que nunca practicaron la tarea. Un único transformador de difusión genera a la vez el video futuro y el bloque de acciones; NVIDIA presenta el modelo como su capa System One, construida sobre Cosmos, su plataforma de modelos del mundo."
               },
-              {
-                "t": "p",
-                "x": "Antes del despliegue más amplio de Gemini Task Automation, Android Authority descubrió una lista de apps que serán compatibles con la función en teléfonos y tabletas Android, agrupadas por región: Australia, Canadá, Europa, Global, India, Japón, Corea del Sur, Reino Unido (UK) e Irlanda, y Estados Unidos (US). Entre las globales están Airbnb, Booking.com, eBay, Expedia, Microsoft Word, Excel, Outlook y Teams, Slack, Uber y Uber Eats; entre las de Corea del Sur, 11st, Catchtable, Gmarket, Kakao T, Korean Air, Naver Calendar y Yanolja."
-              },
-              {
-                "t": "p",
-                "x": "La función solo estará disponible en dispositivos Galaxy S, Galaxy Tab S (excepto los modelos FE) y Galaxy Z lanzados en 2026 con Android 17 (One UI 9.0 o posterior): Galaxy S26, S26+, S26 Ultra, S26 FE, Galaxy Tab S12+, Tab S12 Ultra, Galaxy Z Flip 8, Z Fold 8 y Z Fold 8 Ultra."
-              },
-              {
-                "t": "p",
-                "x": "Con esta función se puede pedir comida y compras del supermercado, solicitar un viaje, comprar productos, reservar entradas para eventos y vuelos, hacer reservas en restaurantes u hoteles, crear o editar documentos, enviar mensajes y mucho más. Al parecer, solo funcionará con apps descargadas de Google Play Store, y el lanzamiento probablemente será por fases."
-              },
-              {
-                "t": "video",
-                "yt": "6FbSIAKJ1rg"
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Gemini 작업 자동화\n114개 앱과 연동된다",
-          "body": "곧 Gemini 자동화가 Android 17 Galaxy 114개 앱을 지원한다.",
-          "mini_headline": "Gemini 자동화, 114개 앱 지원",
-          "full": {
-            "mode": "summary",
-            "blocks": [
               {
                 "t": "img",
-                "src": "https://www.sammobile.com/wp-content/uploads/2026/07/Galaxy-Z-Fold-8-Ultra-Gemini-1200x675.jpg",
-                "cap": "Galaxy Z Fold 8 Ultra에서 실행한 Gemini"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-rollout.jpg"
               },
               {
                 "t": "p",
-                "x": "Gemini는 성능 개선과 새 기능, 업그레이드된 모델로 매달 진화하고 있다. 올해 초 Galaxy S26 시리즈 출시 행사에서 Google은 Android용 Gemini의 Task Automation 기능을 처음 선보였다. 이 기능은 곧 일부 Galaxy 휴대폰과 태블릿에서 수십 개 앱과 함께 작동하게 된다."
+                "x": "El preentrenamiento combinó 402.730 horas de video humano en primera persona, 10.184 horas de demostraciones con pinzas de mano en 2.897 tareas y 23.500 horas de teleoperación de robots. NVIDIA llama X-Adapt a esta transferencia: el robot de destino nunca tiene que demostrar la tarea antes de ejecutarla. 100.000 horas de las grabaciones en primera persona están en Hugging Face como Human-1M-100K."
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-xadapt.jpg"
               },
               {
                 "t": "p",
-                "x": "Gemini Task Automation의 확대 배포를 앞두고 Android Authority는 Android 휴대폰과 태블릿에서 이 기능과 호환될 앱 목록을 찾아냈다. 목록은 Australia, Canada, Europe, Global, India, Japan, South Korea, UK and Ireland, US 등 지역별로 나뉜다. Global 항목에는 Airbnb, Booking.com, eBay, Expedia, Microsoft Word, Excel, Outlook, Teams, Slack, Uber, Uber Eats가 있고, South Korea 항목에는 11st, Catchtable, Gmarket, Kakao T, Korean Air, Naver Calendar, Yanolja가 들어 있다."
+                "x": "En 50 tareas que el robot de destino nunca había practicado, GR00T 2 acierta en el 40% de los intentos directamente a partir de la instrucción. Una demostración por tarea eleva el éxito medio al 71%, y cinco demostraciones lo elevan al 95% tras un único ajuste fino de 30 minutos en una sola RTX 5090. Combinado con un modelo de razonamiento de frontera como System Two a través de la WAM API, el sistema completó 292 de 300 ensamblajes de juguetes consecutivos."
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-turbo.jpg"
               },
               {
                 "t": "p",
-                "x": "이 기능은 2026년에 출시되어 Android 17(One UI 9.0 이상)을 실행하는 Galaxy S, Galaxy Tab S(FE 모델 제외), Galaxy Z 시리즈 기기에서만 작동한다. 해당 기기는 Galaxy S26, S26+, S26 Ultra, S26 FE, Galaxy Tab S12+, Tab S12 Ultra, Galaxy Z Flip 8, Z Fold 8, Z Fold 8 Ultra다."
-              },
-              {
-                "t": "p",
-                "x": "이 기능으로 음식과 식료품 주문, 차량 호출, 상품 쇼핑, 공연 티켓과 항공권 예매, 식당이나 호텔 예약, 문서 작성과 편집, 메시지 전송 등 훨씬 많은 일을 할 수 있다. Google Play Store에서 내려받은 앱에서만 작동하는 것으로 보이며, 출시는 단계적으로 이뤄질 가능성이 크다."
-              },
-              {
-                "t": "video",
-                "yt": "6FbSIAKJ1rg"
+                "x": "GR00T 2 Turbo, una versión de dos mil millones de parámetros, se ejecuta a bordo de un humanoide Unitree G1 con Jetson Thor a 124 milisegundos por predicción. Nexuni, Foxconn y Siemens están probando el modelo completo. Los pesos del modelo y las recetas de X-Adapt llegarán en diciembre."
               }
             ]
           }
@@ -365,15 +435,15 @@
       }
     },
     {
-      "id": "gadgets-christian-linux-ai-phone",
+      "id": "perplexity-teammates-mac",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI로 성경 공부하는\n$449 Linux 폰",
-      "body": "Jesus Dash 창립자가 2027년 초 $449 PineCone 폰을 준비한다.",
-      "mini_headline": "$449 AI 성경 폰",
+      "headline": "Perplexity 팀원\nMac에서 알아서 일한다",
+      "body": "Max 구독자는 이제 Perplexity Mac 앱에서 작업을 에이전트에 맡긴다.",
+      "mini_headline": "Mac에 온 Perplexity 에이전트",
       "tool": "Gadgets",
-      "source": "Notebookcheck",
-      "url": "https://www.notebookcheck.net/Christian-Linux-project-plans-449-phone-with-AI-powered-Bible-study.1445691.0.html",
+      "source": "Digital Trends",
+      "url": "https://www.digitaltrends.com/computing/perplexity-teammates-bring-autonomous-ai-agents-to-the-mac-app/",
       "accent": "#0070f3",
       "motif": "headset",
       "full": {
@@ -381,233 +451,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Golden-Codex-Smartphone-Showcase.png",
-            "cap": "구상 단계의 Jesus New OS를 띄운 PineCone 스마트폰"
+            "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Perplexity-teammates-feature.jpg?resize=1200%2C720&ssl=1",
+            "cap": "Perplexity"
           },
           {
             "t": "p",
-            "x": "Jesus Dash는 Linux, AI-powered 지원 기능, 종교 자료를 한데 묶은 야심 찬 기독교 기술 프로젝트다. 창립자는 PineCone이라는 $449 스마트폰도 2027년 초 출시를 목표로 개발 중이다. 일부 애플리케이션은 이미 나와 있다."
+            "x": "Perplexity 팀메이트(teammates)는 사용자가 진행 중인 업무를 맡아 처리하는 AI 에이전트 팀이다. AI를 일일이 이끌고 붙잡아 줄 필요 없이 팀메이트 에이전트에게 작업을 배정하면 에이전트가 백그라운드에서 알아서 처리한다. 그로스 캠페인 운영, 들어오는 버그 리포트 분류, 지표 모니터링, 새 시장 조사 같은 일이다."
           },
           {
             "t": "p",
-            "x": "창립자 Christian Cassarly는 Notebookcheck에 Windows, macOS, Linux 버전이 부팅 가능한 배포판이 아니라 기존 운영체제 안에서 돌아가는 애플리케이션이라고 밝혔다. 폰 플랫폼은 Linux-based Popcorn 커널에 Trinity Core 서비스 계층과 Jesus New 인터페이스를 얹은 구조로 알려졌다."
+            "x": "에이전트는 작업을 계획하고 필요하면 에이전트를 더 붙인다. 일이 끝나 보고서가 준비되면 알려 준다. Perplexity는 지난주 웹에서 팀메이트를 출시했고 이번에 Mac 앱에도 넣었다."
           },
           {
             "t": "p",
-            "x": "구상 중인 Temple Suite에는 기도와 묵상 공간, 안내 명상, 성경 읽기, ChristBooks 디지털 도서관이 들어간다. Trinity AI는 대화로 도움을 주고, Living Jesus, Living God, Living Word에서는 성경 본문을 두고 AI-assisted 토론을 할 수 있다. 연결형 AI 기능은 외부 업체에 기댄다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.notebookcheck.net/fileadmin/_processed_/5/2/csm_pinecone-os-suite_e31ea77c4e.png",
-            "cap": "Temple Suite는 기독교 자료와 Trinity AI를 Jesus New OS에 담는다"
+            "x": "이런 에이전트를 내놓은 AI 기업이 Perplexity가 처음은 아니다. Meta Muse와 ChatGPT Dots가 비슷한 일을 하고 Grok Bot도 마찬가지다. 이 에이전트들은 저마다 클라우드 컴퓨팅 인스턴스에서 돌아가서 컴퓨터를 닫아도 일을 멈추지 않는다. 서로 소통하고 작업마다 전용 채널을 만들며 끊임없이 감독하지 않아도 된다."
           },
           {
             "t": "p",
-            "x": "Cassarly는 대화 기록을 기기에 보관하고 서버에 임시로 남는 사용자 메시지는 24시간 뒤 지울 계획이라면서도 아직 검증되지 않았다고 인정했다. PineCone은 Pine64 하드웨어를 쓰고 구독료는 월 $19.99부터다. 웹사이트에 적힌 가장 이른 예상 출시일은 2027년 1월 1일이다."
-          },
-          {
-            "t": "p",
-            "x": "성능과 보안, 완전한 Linux 스마트폰 경험을 갖출지는 아직 독립적인 검증을 거쳐야 한다."
+            "x": "이 기능은 월 200달러짜리 Perplexity Max 요금제 사용자만 쓸 수 있다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "A $449 Linux phone built\naround AI Bible study",
-          "body": "Christian project Jesus Dash blends Linux and AI, and its founder plans a $449 PineCone phone for early 2027.",
-          "mini_headline": "A $449 AI Bible phone",
+          "headline": "Perplexity Teammates bring\nbackground agents to Mac",
+          "body": "Perplexity's Mac app lets Max subscribers hand ongoing tasks to autonomous agents that work in the background.",
+          "mini_headline": "Perplexity agents\ncome to Mac",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Golden-Codex-Smartphone-Showcase.png",
-                "cap": "PineCone smartphone showcases the proposed Jesus New OS"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Perplexity-teammates-feature.jpg?resize=1200%2C720&ssl=1",
+                "cap": "Perplexity"
               },
               {
                 "t": "p",
-                "x": "Jesus Dash is an ambitious Christian technology project combining Linux, AI-powered assistance, and religious resources. Its founder is also developing a $449 smartphone called PineCone, targeting early 2027. Some applications are already available."
+                "x": "Perplexity teammates are a squad of AI agents whose job is to own your ongoing work. Instead of guiding and hand-holding AI, you can assign tasks to your teammate agents, and they will do the work in the background — whether you want to run a growth campaign, triage bug reports as they land, keep tabs on your metrics, or dig into a new market."
               },
               {
                 "t": "p",
-                "x": "Founder Christian Cassarly clarified to Notebookcheck that the Windows, macOS, and Linux editions are applications running inside existing operating systems, rather than bootable distributions. The phone platform reportedly combines the Linux-based Popcorn kernel, Trinity Core service layer, and Jesus New interface."
+                "x": "They will plan the tasks, add more agents if required, and notify you when the work is done and they are ready with the report. Perplexity launched teammates on the web last week, and it has finally made its way to the Mac app."
               },
               {
                 "t": "p",
-                "x": "The proposed Temple Suite includes prayer and reflection spaces, guided meditation, Bible reading, and the ChristBooks digital library. Trinity AI provides conversational assistance, while Living Jesus, Living God, and Living Word offer AI-assisted discussions of biblical texts. Connected AI features rely on external providers."
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/5/2/csm_pinecone-os-suite_e31ea77c4e.png",
-                "cap": "Temple Suite brings Christian resources and Trinity AI to Jesus New OS"
+                "x": "Perplexity is not the first AI company to launch such agents: Meta Muse and ChatGPT Dots do similar things, and Grok Bot is another example. These agents run their own instance of cloud computing and keep working even when you close your computer; they can communicate with each other, create dedicated channels for tasks, and don't require constant supervision."
               },
               {
                 "t": "p",
-                "x": "Cassarly intends to keep conversation histories locally and delete temporary server-side user messages after 24 hours, but acknowledges this is not yet verified. PineCone uses Pine64 hardware, with subscriptions from $19.99 monthly; the website lists January 1, 2027 as the earliest estimated availability."
-              },
-              {
-                "t": "p",
-                "x": "Its performance, security, and ability to deliver a complete Linux smartphone experience still require independent testing."
+                "x": "The feature is only available to users on Perplexity's Max plan, which costs $200/month."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI로 성경 공부하는\n$449 Linux 폰",
-          "body": "Jesus Dash 창립자가 2027년 초 $449 PineCone 폰을 준비한다.",
-          "mini_headline": "$449 AI 성경 폰",
+          "headline": "Perplexity 팀원\nMac에서 알아서 일한다",
+          "body": "Max 구독자는 이제 Perplexity Mac 앱에서 작업을 에이전트에 맡긴다.",
+          "mini_headline": "Mac에 온 Perplexity 에이전트",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Golden-Codex-Smartphone-Showcase.png",
-                "cap": "구상 단계의 Jesus New OS를 띄운 PineCone 스마트폰"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Perplexity-teammates-feature.jpg?resize=1200%2C720&ssl=1",
+                "cap": "Perplexity"
               },
               {
                 "t": "p",
-                "x": "Jesus Dash는 Linux, AI-powered 지원 기능, 종교 자료를 한데 묶은 야심 찬 기독교 기술 프로젝트다. 창립자는 PineCone이라는 $449 스마트폰도 2027년 초 출시를 목표로 개발 중이다. 일부 애플리케이션은 이미 나와 있다."
+                "x": "Perplexity 팀메이트(teammates)는 사용자가 진행 중인 업무를 맡아 처리하는 AI 에이전트 팀이다. AI를 일일이 이끌고 붙잡아 줄 필요 없이 팀메이트 에이전트에게 작업을 배정하면 에이전트가 백그라운드에서 알아서 처리한다. 그로스 캠페인 운영, 들어오는 버그 리포트 분류, 지표 모니터링, 새 시장 조사 같은 일이다."
               },
               {
                 "t": "p",
-                "x": "창립자 Christian Cassarly는 Notebookcheck에 Windows, macOS, Linux 버전이 부팅 가능한 배포판이 아니라 기존 운영체제 안에서 돌아가는 애플리케이션이라고 밝혔다. 폰 플랫폼은 Linux-based Popcorn 커널에 Trinity Core 서비스 계층과 Jesus New 인터페이스를 얹은 구조로 알려졌다."
+                "x": "에이전트는 작업을 계획하고 필요하면 에이전트를 더 붙인다. 일이 끝나 보고서가 준비되면 알려 준다. Perplexity는 지난주 웹에서 팀메이트를 출시했고 이번에 Mac 앱에도 넣었다."
               },
               {
                 "t": "p",
-                "x": "구상 중인 Temple Suite에는 기도와 묵상 공간, 안내 명상, 성경 읽기, ChristBooks 디지털 도서관이 들어간다. Trinity AI는 대화로 도움을 주고, Living Jesus, Living God, Living Word에서는 성경 본문을 두고 AI-assisted 토론을 할 수 있다. 연결형 AI 기능은 외부 업체에 기댄다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/5/2/csm_pinecone-os-suite_e31ea77c4e.png",
-                "cap": "Temple Suite는 기독교 자료와 Trinity AI를 Jesus New OS에 담는다"
+                "x": "이런 에이전트를 내놓은 AI 기업이 Perplexity가 처음은 아니다. Meta Muse와 ChatGPT Dots가 비슷한 일을 하고 Grok Bot도 마찬가지다. 이 에이전트들은 저마다 클라우드 컴퓨팅 인스턴스에서 돌아가서 컴퓨터를 닫아도 일을 멈추지 않는다. 서로 소통하고 작업마다 전용 채널을 만들며 끊임없이 감독하지 않아도 된다."
               },
               {
                 "t": "p",
-                "x": "Cassarly는 대화 기록을 기기에 보관하고 서버에 임시로 남는 사용자 메시지는 24시간 뒤 지울 계획이라면서도 아직 검증되지 않았다고 인정했다. PineCone은 Pine64 하드웨어를 쓰고 구독료는 월 $19.99부터다. 웹사이트에 적힌 가장 이른 예상 출시일은 2027년 1월 1일이다."
-              },
-              {
-                "t": "p",
-                "x": "성능과 보안, 완전한 Linux 스마트폰 경험을 갖출지는 아직 독립적인 검증을 거쳐야 한다."
+                "x": "이 기능은 월 200달러짜리 Perplexity Max 요금제 사용자만 쓸 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI聖書学習のための\n$449のLinuxスマホ",
-          "body": "Jesus Dashの創設者は2027年初めに$449のPineConeスマホを計画する。",
-          "mini_headline": "$449のAI聖書スマホ",
+          "headline": "Perplexityの\nチームメイト、Mac対応",
+          "body": "PerplexityのMacアプリでMax会員は作業を裏で動くエージェントに任せられる。",
+          "mini_headline": "Perplexityのエージェント、Macへ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Golden-Codex-Smartphone-Showcase.png",
-                "cap": "構想中のJesus New OSを示すPineConeスマートフォン"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Perplexity-teammates-feature.jpg?resize=1200%2C720&ssl=1",
+                "cap": "Perplexity"
               },
               {
                 "t": "p",
-                "x": "Jesus Dashは、Linux、AI-poweredなアシスタント機能、宗教的リソースを組み合わせた野心的なキリスト教系テクノロジープロジェクトだ。創設者はPineConeという$449のスマートフォンも開発しており、2027年初めを目標としている。一部のアプリケーションはすでに利用できる。"
+                "x": "Perplexityのチームメイト（teammates）は、継続中の仕事を引き受けるAIエージェントの一団だ。AIを逐一導いたり手取り足取り面倒を見たりする代わりに、チームメイトのエージェントにタスクを割り当てれば、バックグラウンドで作業してくれる。グロースキャンペーンの運用、届いたバグ報告の振り分け、指標の監視、新市場の調査などだ。"
               },
               {
                 "t": "p",
-                "x": "創設者のChristian CassarlyはNotebookcheckに対し、Windows版、macOS版、Linux版は起動可能なディストリビューションではなく、既存のOS上で動くアプリケーションだと説明した。スマートフォン向けプラットフォームは、Linux-basedのPopcornカーネル、Trinity Coreサービス層、Jesus Newインターフェースを組み合わせたものだという。"
+                "x": "エージェントはタスクを計画し、必要ならエージェントを追加し、作業が終わってレポートの準備ができると通知する。Perplexityは先週ウェブ版でチームメイトを公開し、ようやくMacアプリにも搭載した。"
               },
               {
                 "t": "p",
-                "x": "構想中のTemple Suiteには、祈りと黙想のスペース、ガイド付き瞑想、聖書の通読、ChristBooksデジタルライブラリが含まれる。Trinity AIは対話型のアシスタントを提供し、Living Jesus、Living God、Living Wordは聖書本文についてAI-assistedの議論を提供する。接続型のAI機能は外部プロバイダーに依存する。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/5/2/csm_pinecone-os-suite_e31ea77c4e.png",
-                "cap": "Temple Suiteはキリスト教のリソースとTrinity AIをJesus New OSにもたらす"
+                "x": "こうしたエージェントを出したAI企業はPerplexityが初めてではない。Meta MuseやChatGPT Dotsも同様の機能を持ち、Grok Botもその一例だ。これらのエージェントは独自のクラウドコンピューティングのインスタンスで動き、パソコンを閉じても作業を続ける。互いにやり取りし、タスクごとの専用チャンネルを作り、常時の監視も要らない。"
               },
               {
                 "t": "p",
-                "x": "Cassarlyは会話履歴を端末内に保存し、サーバー側の一時的なユーザーメッセージを24時間後に削除する方針だが、まだ検証されていないと認めている。PineConeはPine64のハードウェアを採用し、サブスクリプションは月額$19.99からだ。ウェブサイトには、最も早い発売見込み日として2027年1月1日が記載されている。"
-              },
-              {
-                "t": "p",
-                "x": "性能、セキュリティ、そして完全なLinuxスマートフォン体験を実現できるかどうかは、なお独立した検証が必要だ。"
+                "x": "この機能は月額200ドルのPerplexity Maxプランのユーザーだけが使える。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "围绕AI研读圣经的\n$449 Linux手机",
-          "body": "基督教项目Jesus Dash的创始人计划2027年初推出$449的PineCone手机。",
-          "mini_headline": "$449的AI圣经手机",
+          "headline": "Perplexity队友\n智能体登陆Mac",
+          "body": "Perplexity的Mac应用让Max订阅用户把持续任务交给后台自主运行的智能体。",
+          "mini_headline": "Perplexity智能体登陆Mac",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Golden-Codex-Smartphone-Showcase.png",
-                "cap": "PineCone智能手机展示拟议中的Jesus New OS"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Perplexity-teammates-feature.jpg?resize=1200%2C720&ssl=1",
+                "cap": "Perplexity"
               },
               {
                 "t": "p",
-                "x": "Jesus Dash是一个雄心勃勃的基督教科技项目，结合了Linux、AI-powered助手功能和宗教资源。其创始人还在开发一款名为PineCone的$449智能手机，目标是2027年初推出。部分应用程序现已可用。"
+                "x": "Perplexity队友（teammates）是一组AI智能体，任务是接手你正在进行的工作。你无需一步步引导、手把手带着AI，只需把任务分配给队友智能体，它们就会在后台完成工作——无论是运营增长活动、在bug报告到来时分类处理、盯着各项指标，还是研究一个新市场。"
               },
               {
                 "t": "p",
-                "x": "创始人Christian Cassarly向Notebookcheck澄清，Windows、macOS和Linux版本是运行在现有操作系统中的应用程序，而非可启动的发行版。据称，该手机平台结合了Linux-based的Popcorn内核、Trinity Core服务层和Jesus New界面。"
+                "x": "它们会规划任务，必要时增加更多智能体，并在工作完成、报告备好时通知你。Perplexity上周在网页端推出了队友功能，如今终于登陆Mac应用。"
               },
               {
                 "t": "p",
-                "x": "拟议中的Temple Suite包括祈祷与反思空间、引导冥想、圣经阅读以及ChristBooks数字图书馆。Trinity AI提供对话式协助，Living Jesus、Living God和Living Word则提供关于圣经文本的AI-assisted讨论。联网AI功能依赖外部提供商。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/5/2/csm_pinecone-os-suite_e31ea77c4e.png",
-                "cap": "Temple Suite为Jesus New OS带来基督教资源和Trinity AI"
+                "x": "Perplexity并不是第一家推出此类智能体的AI公司：Meta Muse和ChatGPT Dots也有类似功能，Grok Bot是另一个例子。这些智能体运行在各自的云计算实例上，即便你合上电脑也会继续工作；它们可以彼此沟通，为任务建立专用频道，也不需要持续监督。"
               },
               {
                 "t": "p",
-                "x": "Cassarly打算将对话记录保存在本地，并在24小时后删除服务器端的临时用户消息，但承认这一点尚未经过验证。PineCone采用Pine64硬件，订阅费每月$19.99起；网站将2027年1月1日列为最早的预计上市时间。"
-              },
-              {
-                "t": "p",
-                "x": "其性能、安全性以及能否提供完整的Linux智能手机体验，仍有待独立测试。"
+                "x": "该功能仅向Perplexity Max套餐用户开放，价格为每月200美元。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un teléfono Linux de $449\npara estudiar la Biblia con AI",
-          "body": "El proyecto cristiano Jesus Dash une Linux y AI; su fundador prevé un móvil PineCone de $449 para inicios de 2027.",
-          "mini_headline": "Un teléfono bíblico con AI de $449",
+          "headline": "Perplexity Teammates lleva\nagentes en segundo plano al Mac",
+          "body": "La app de Perplexity para Mac permite a los suscriptores de Max delegar tareas a agentes autónomos en segundo plano.",
+          "mini_headline": "Los agentes de Perplexity llegan al Mac",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Golden-Codex-Smartphone-Showcase.png",
-                "cap": "El smartphone PineCone muestra el Jesus New OS propuesto"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Perplexity-teammates-feature.jpg?resize=1200%2C720&ssl=1",
+                "cap": "Perplexity"
               },
               {
                 "t": "p",
-                "x": "Jesus Dash es un ambicioso proyecto tecnológico cristiano que combina Linux, asistencia AI-powered y recursos religiosos. Su fundador también desarrolla un smartphone de $449 llamado PineCone, previsto para principios de 2027. Algunas aplicaciones ya están disponibles."
+                "x": "Los teammates de Perplexity son un equipo de agentes de IA cuyo trabajo es hacerse cargo de tus tareas en curso. En lugar de guiar a la IA paso a paso, puedes asignar tareas a tus agentes compañeros y ellos harán el trabajo en segundo plano, ya sea gestionar una campaña de crecimiento, clasificar los informes de errores a medida que llegan, vigilar tus métricas o investigar un mercado nuevo."
               },
               {
                 "t": "p",
-                "x": "El fundador, Christian Cassarly, aclaró a Notebookcheck que las ediciones para Windows, macOS y Linux son aplicaciones que se ejecutan dentro de sistemas operativos existentes, no distribuciones arrancables. Según se informa, la plataforma del teléfono combina el kernel Popcorn (Linux-based), la capa de servicios Trinity Core y la interfaz Jesus New."
+                "x": "Planifican las tareas, añaden más agentes si hace falta y te avisan cuando el trabajo está hecho y el informe está listo. Perplexity lanzó teammates en la web la semana pasada y ahora por fin llega a la app para Mac."
               },
               {
                 "t": "p",
-                "x": "La Temple Suite propuesta incluye espacios de oración y reflexión, meditación guiada, lectura de la Biblia y la biblioteca digital ChristBooks. Trinity AI ofrece asistencia conversacional, mientras que Living Jesus, Living God y Living Word ofrecen debates AI-assisted sobre textos bíblicos. Las funciones de AI conectadas dependen de proveedores externos."
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/5/2/csm_pinecone-os-suite_e31ea77c4e.png",
-                "cap": "Temple Suite lleva recursos cristianos y Trinity AI a Jesus New OS"
+                "x": "Perplexity no es la primera empresa de IA en lanzar agentes de este tipo: Meta Muse y ChatGPT Dots hacen cosas similares, y Grok Bot es otro ejemplo. Estos agentes funcionan en su propia instancia de computación en la nube y siguen trabajando aunque cierres el equipo; pueden comunicarse entre sí, crear canales dedicados para las tareas y no requieren supervisión constante."
               },
               {
                 "t": "p",
-                "x": "Cassarly pretende guardar los historiales de conversación de forma local y borrar a las 24 horas los mensajes temporales de los usuarios en el servidor, aunque reconoce que esto aún no está verificado. PineCone usa hardware de Pine64, con suscripciones desde $19.99 al mes; el sitio web indica el 1 de enero de 2027 como la fecha de disponibilidad estimada más temprana."
-              },
-              {
-                "t": "p",
-                "x": "Su rendimiento, su seguridad y su capacidad para ofrecer una experiencia completa de smartphone Linux aún requieren pruebas independientes."
+                "x": "La función solo está disponible para los usuarios del plan Max de Perplexity, que cuesta $200 al mes."
               }
             ]
           }
@@ -615,161 +631,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI 성경 공부를 위한\n$449 Linux 폰",
-          "body": "Jesus Dash 창립자는 2027년 초 $449 PineCone 폰을 계획한다.",
-          "mini_headline": "$449 AI 성경 폰",
+          "headline": "Perplexity 팀원\nMac에서 알아서 일한다",
+          "body": "Perplexity Mac 앱에서 Max 구독자는 작업을 에이전트에 맡긴다.",
+          "mini_headline": "Mac에 온 Perplexity 에이전트",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Golden-Codex-Smartphone-Showcase.png",
-                "cap": "구상 중인 Jesus New OS를 보여 주는 PineCone 스마트폰"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Perplexity-teammates-feature.jpg?resize=1200%2C720&ssl=1",
+                "cap": "Perplexity"
               },
               {
                 "t": "p",
-                "x": "Jesus Dash는 Linux, AI-powered 지원 기능, 종교 자료를 결합한 야심 찬 기독교 기술 프로젝트다. 창립자는 2027년 초를 목표로 PineCone이라는 $449 스마트폰도 개발하고 있다. 일부 애플리케이션은 이미 이용할 수 있다."
+                "x": "Perplexity 팀메이트(teammates)는 사용자의 진행 중인 업무를 맡아 처리하는 AI 에이전트 팀이다. AI를 일일이 이끌고 붙잡아 줄 필요 없이 팀메이트 에이전트에게 작업을 배정하면, 에이전트가 백그라운드에서 일을 처리한다. 그로스 캠페인 운영, 들어오는 버그 리포트 분류, 지표 모니터링, 새 시장 조사 등이 그 예다."
               },
               {
                 "t": "p",
-                "x": "창립자 Christian Cassarly는 Notebookcheck에 Windows, macOS, Linux 버전이 부팅 가능한 배포판이 아니라 기존 운영체제 안에서 실행되는 애플리케이션이라고 밝혔다. 폰 플랫폼은 Linux-based Popcorn 커널과 Trinity Core 서비스 계층, Jesus New 인터페이스를 결합한 것으로 알려졌다."
+                "x": "에이전트는 작업을 계획하고, 필요하면 에이전트를 더 추가하며, 일이 끝나 보고서가 준비되면 알려 준다. Perplexity는 지난주 웹에서 팀메이트를 출시했고, 이번에 Mac 앱에도 들어왔다."
               },
               {
                 "t": "p",
-                "x": "구상 중인 Temple Suite에는 기도와 묵상 공간, 안내 명상, 성경 읽기, ChristBooks 디지털 도서관이 들어간다. Trinity AI는 대화형 지원을 제공하고, Living Jesus, Living God, Living Word는 성경 본문을 두고 AI-assisted 토론을 제공한다. 연결형 AI 기능은 외부 제공업체에 의존한다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/5/2/csm_pinecone-os-suite_e31ea77c4e.png",
-                "cap": "Temple Suite는 기독교 자료와 Trinity AI를 Jesus New OS에 담는다"
+                "x": "이런 에이전트를 내놓은 AI 기업이 Perplexity가 처음은 아니다. Meta Muse와 ChatGPT Dots가 비슷한 일을 하고, Grok Bot도 그런 사례다. 이 에이전트들은 각자 클라우드 컴퓨팅 인스턴스에서 돌아가 컴퓨터를 닫아도 계속 일한다. 서로 소통하고, 작업별 전용 채널을 만들며, 끊임없이 감독할 필요도 없다."
               },
               {
                 "t": "p",
-                "x": "Cassarly는 대화 기록을 기기에 보관하고 서버에 임시로 남는 사용자 메시지는 24시간 뒤 삭제할 계획이지만, 아직 검증되지 않았다고 인정했다. PineCone은 Pine64 하드웨어를 쓰며 구독료는 월 $19.99부터다. 웹사이트는 가장 이른 예상 출시일을 2027년 1월 1일로 적어 두었다."
-              },
-              {
-                "t": "p",
-                "x": "성능과 보안, 완전한 Linux 스마트폰 경험을 제공할 수 있는지는 아직 독립적인 검증이 필요하다."
+                "x": "이 기능은 월 200달러인 Perplexity Max 요금제 사용자만 쓸 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI聖書学習のための\n$449のLinuxスマホ",
-          "body": "Jesus Dashの創設者は2027年初めに$449のPineConeスマホを計画する。",
-          "mini_headline": "$449のAI聖書スマホ",
+          "headline": "Perplexityの\nチームメイト、Mac対応",
+          "body": "PerplexityのMacアプリでMax会員は作業を裏で動くエージェントに任せられる。",
+          "mini_headline": "Perplexityのエージェント、Macへ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Golden-Codex-Smartphone-Showcase.png",
-                "cap": "構想中のJesus New OSを示すPineConeスマートフォン"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Perplexity-teammates-feature.jpg?resize=1200%2C720&ssl=1",
+                "cap": "Perplexity"
               },
               {
                 "t": "p",
-                "x": "Jesus Dashは、Linux、AI-poweredなアシスタント機能、宗教的リソースを組み合わせた野心的なキリスト教系テクノロジープロジェクトだ。創設者はPineConeという$449のスマートフォンも開発しており、2027年初めを目標としている。一部のアプリケーションはすでに利用できる。"
+                "x": "Perplexityのチームメイト（teammates）は、継続中の仕事を引き受けるAIエージェントの一団だ。AIを逐一導いたり手取り足取り面倒を見たりする代わりに、チームメイトのエージェントにタスクを割り当てれば、バックグラウンドで作業してくれる。グロースキャンペーンの運用、届いたバグ報告の振り分け、指標の監視、新市場の調査などだ。"
               },
               {
                 "t": "p",
-                "x": "創設者のChristian CassarlyはNotebookcheckに対し、Windows版、macOS版、Linux版は起動可能なディストリビューションではなく、既存のOS上で動くアプリケーションだと説明した。スマートフォン向けプラットフォームは、Linux-basedのPopcornカーネル、Trinity Coreサービス層、Jesus Newインターフェースを組み合わせたものだという。"
+                "x": "エージェントはタスクを計画し、必要ならエージェントを追加し、作業が終わってレポートの準備ができると通知する。Perplexityは先週ウェブ版でチームメイトを公開し、ようやくMacアプリにも搭載した。"
               },
               {
                 "t": "p",
-                "x": "構想中のTemple Suiteには、祈りと黙想のスペース、ガイド付き瞑想、聖書の通読、ChristBooksデジタルライブラリが含まれる。Trinity AIは対話型のアシスタントを提供し、Living Jesus、Living God、Living Wordは聖書本文についてAI-assistedの議論を提供する。接続型のAI機能は外部プロバイダーに依存する。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/5/2/csm_pinecone-os-suite_e31ea77c4e.png",
-                "cap": "Temple Suiteはキリスト教のリソースとTrinity AIをJesus New OSにもたらす"
+                "x": "こうしたエージェントを出したAI企業はPerplexityが初めてではない。Meta MuseやChatGPT Dotsも同様の機能を持ち、Grok Botもその一例だ。これらのエージェントは独自のクラウドコンピューティングのインスタンスで動き、パソコンを閉じても作業を続ける。互いにやり取りし、タスクごとの専用チャンネルを作り、常時の監視も要らない。"
               },
               {
                 "t": "p",
-                "x": "Cassarlyは会話履歴を端末内に保存し、サーバー側の一時的なユーザーメッセージを24時間後に削除する方針だが、まだ検証されていないと認めている。PineConeはPine64のハードウェアを採用し、サブスクリプションは月額$19.99からだ。ウェブサイトには、最も早い発売見込み日として2027年1月1日が記載されている。"
-              },
-              {
-                "t": "p",
-                "x": "性能、セキュリティ、そして完全なLinuxスマートフォン体験を実現できるかどうかは、なお独立した検証が必要だ。"
+                "x": "この機能は月額200ドルのPerplexity Maxプランのユーザーだけが使える。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "围绕AI研读圣经的\n$449 Linux手机",
-          "body": "基督教项目Jesus Dash的创始人计划2027年初推出$449的PineCone手机。",
-          "mini_headline": "$449的AI圣经手机",
+          "headline": "Perplexity队友\n智能体登陆Mac",
+          "body": "Perplexity的Mac应用让Max订阅用户把持续任务交给后台自主运行的智能体。",
+          "mini_headline": "Perplexity智能体登陆Mac",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Golden-Codex-Smartphone-Showcase.png",
-                "cap": "PineCone智能手机展示拟议中的Jesus New OS"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Perplexity-teammates-feature.jpg?resize=1200%2C720&ssl=1",
+                "cap": "Perplexity"
               },
               {
                 "t": "p",
-                "x": "Jesus Dash是一个雄心勃勃的基督教科技项目，结合了Linux、AI-powered助手功能和宗教资源。其创始人还在开发一款名为PineCone的$449智能手机，目标是2027年初推出。部分应用程序现已可用。"
+                "x": "Perplexity队友（teammates）是一组AI智能体，任务是接手你正在进行的工作。你无需一步步引导、手把手带着AI，只需把任务分配给队友智能体，它们就会在后台完成工作——无论是运营增长活动、在bug报告到来时分类处理、盯着各项指标，还是研究一个新市场。"
               },
               {
                 "t": "p",
-                "x": "创始人Christian Cassarly向Notebookcheck澄清，Windows、macOS和Linux版本是运行在现有操作系统中的应用程序，而非可启动的发行版。据称，该手机平台结合了Linux-based的Popcorn内核、Trinity Core服务层和Jesus New界面。"
+                "x": "它们会规划任务，必要时增加更多智能体，并在工作完成、报告备好时通知你。Perplexity上周在网页端推出了队友功能，如今终于登陆Mac应用。"
               },
               {
                 "t": "p",
-                "x": "拟议中的Temple Suite包括祈祷与反思空间、引导冥想、圣经阅读以及ChristBooks数字图书馆。Trinity AI提供对话式协助，Living Jesus、Living God和Living Word则提供关于圣经文本的AI-assisted讨论。联网AI功能依赖外部提供商。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/5/2/csm_pinecone-os-suite_e31ea77c4e.png",
-                "cap": "Temple Suite为Jesus New OS带来基督教资源和Trinity AI"
+                "x": "Perplexity并不是第一家推出此类智能体的AI公司：Meta Muse和ChatGPT Dots也有类似功能，Grok Bot是另一个例子。这些智能体运行在各自的云计算实例上，即便你合上电脑也会继续工作；它们可以彼此沟通，为任务建立专用频道，也不需要持续监督。"
               },
               {
                 "t": "p",
-                "x": "Cassarly打算将对话记录保存在本地，并在24小时后删除服务器端的临时用户消息，但承认这一点尚未经过验证。PineCone采用Pine64硬件，订阅费每月$19.99起；网站将2027年1月1日列为最早的预计上市时间。"
-              },
-              {
-                "t": "p",
-                "x": "其性能、安全性以及能否提供完整的Linux智能手机体验，仍有待独立测试。"
+                "x": "该功能仅向Perplexity Max套餐用户开放，价格为每月200美元。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un teléfono Linux de $449\npara estudiar la Biblia con AI",
-          "body": "El proyecto cristiano Jesus Dash une Linux y AI; su fundador prevé un móvil PineCone de $449 para inicios de 2027.",
-          "mini_headline": "Un teléfono bíblico con AI de $449",
+          "headline": "Perplexity Teammates lleva\nagentes en segundo plano al Mac",
+          "body": "La app de Perplexity para Mac permite a los suscriptores de Max delegar tareas a agentes autónomos en segundo plano.",
+          "mini_headline": "Los agentes de Perplexity llegan al Mac",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Golden-Codex-Smartphone-Showcase.png",
-                "cap": "El smartphone PineCone muestra el Jesus New OS propuesto"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Perplexity-teammates-feature.jpg?resize=1200%2C720&ssl=1",
+                "cap": "Perplexity"
               },
               {
                 "t": "p",
-                "x": "Jesus Dash es un ambicioso proyecto tecnológico cristiano que combina Linux, asistencia AI-powered y recursos religiosos. Su fundador también desarrolla un smartphone de $449 llamado PineCone, previsto para principios de 2027. Algunas aplicaciones ya están disponibles."
+                "x": "Los teammates de Perplexity son un equipo de agentes de IA cuyo trabajo es hacerse cargo de tus tareas en curso. En lugar de guiar a la IA paso a paso, puedes asignar tareas a tus agentes compañeros y ellos harán el trabajo en segundo plano, ya sea gestionar una campaña de crecimiento, clasificar los informes de errores a medida que llegan, vigilar tus métricas o investigar un mercado nuevo."
               },
               {
                 "t": "p",
-                "x": "El fundador, Christian Cassarly, aclaró a Notebookcheck que las ediciones para Windows, macOS y Linux son aplicaciones que se ejecutan dentro de sistemas operativos existentes, no distribuciones arrancables. Según se informa, la plataforma del teléfono combina el kernel Popcorn (Linux-based), la capa de servicios Trinity Core y la interfaz Jesus New."
+                "x": "Planifican las tareas, añaden más agentes si hace falta y te avisan cuando el trabajo está hecho y el informe está listo. Perplexity lanzó teammates en la web la semana pasada y ahora por fin llega a la app para Mac."
               },
               {
                 "t": "p",
-                "x": "La Temple Suite propuesta incluye espacios de oración y reflexión, meditación guiada, lectura de la Biblia y la biblioteca digital ChristBooks. Trinity AI ofrece asistencia conversacional, mientras que Living Jesus, Living God y Living Word ofrecen debates AI-assisted sobre textos bíblicos. Las funciones de AI conectadas dependen de proveedores externos."
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/5/2/csm_pinecone-os-suite_e31ea77c4e.png",
-                "cap": "Temple Suite lleva recursos cristianos y Trinity AI a Jesus New OS"
+                "x": "Perplexity no es la primera empresa de IA en lanzar agentes de este tipo: Meta Muse y ChatGPT Dots hacen cosas similares, y Grok Bot es otro ejemplo. Estos agentes funcionan en su propia instancia de computación en la nube y siguen trabajando aunque cierres el equipo; pueden comunicarse entre sí, crear canales dedicados para las tareas y no requieren supervisión constante."
               },
               {
                 "t": "p",
-                "x": "Cassarly pretende guardar los historiales de conversación de forma local y borrar a las 24 horas los mensajes temporales de los usuarios en el servidor, aunque reconoce que esto aún no está verificado. PineCone usa hardware de Pine64, con suscripciones desde $19.99 al mes; el sitio web indica el 1 de enero de 2027 como la fecha de disponibilidad estimada más temprana."
-              },
-              {
-                "t": "p",
-                "x": "Su rendimiento, su seguridad y su capacidad para ofrecer una experiencia completa de smartphone Linux aún requieren pruebas independientes."
+                "x": "La función solo está disponible para los usuarios del plan Max de Perplexity, que cuesta $200 al mes."
               }
             ]
           }
@@ -777,15 +757,839 @@
       }
     },
     {
-      "id": "gadgets-galaxy-ai-premium-499",
+      "id": "jeep-cherokee-claude-ecu",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "유료 Galaxy AI\nPremium 시험 중",
-      "body": "Samsung이 월 $4.99 Galaxy AI Premium을 시험 중이라 한다.",
-      "mini_headline": "Galaxy AI Premium $4.99",
+      "headline": "Claude로 ECU 해킹\n1994 Jeep 검사통과",
+      "body": "Claude·Codex와 $15로 1994 Jeep ECU를 손봐 검사를 통과했다.",
+      "mini_headline": "Claude 덕에 1994 Jeep 검사 통과",
       "tool": "Gadgets",
-      "source": "Digital Trends",
-      "url": "https://www.digitaltrends.com/phones/samsungs-free-galaxy-ai-ride-might-be-ending-get-ready-to-pay-5-for-it/",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/1994-jeep-cherokee-owner-hacks-32-year-old-car-with-claude-ai-to-pass-california-smog-tests-enthusiast-reverse-engineered-the-ancient-ecu-for-diagnostics-and-control",
+      "accent": "#7928ca",
+      "motif": "headset",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "한 AI 애호가가 AI의 도움과 약간의 전자 배선 실력만으로 오래된 1994년식 Jeep Cherokee를 캘리포니아 배출가스(스모그) 검사에 통과시켰다. 32년 된 이 차의 엔진 컴퓨터는 원시적이었지만 Arduino Nano 보드로 노트북에 물리자 여러 설정이 읽혔고, 끝내 제어까지 가능해졌다."
+          },
+          {
+            "t": "video",
+            "yt": "WPj3aQ-xxpI"
+          },
+          {
+            "t": "p",
+            "x": "영상은 Muhammad Zulali의 Jeep이 배출가스 검사에서 잇달아 떨어진 뒤 엔진 배출 문제를 튜닝해 고치기까지의 과정을 담았다. 방향은 Claude가 잡았고 필요한 코드는 Codex가 전부 짰다. 이 Jeep은 특정 검사 속도에서 NOx를 너무 많이 내뿜었고, 재검사 비용은 한 번에 100달러 가까이 들었다. 해결에는 3달러짜리 마이크로컨트롤러가 쓰였고 부품값은 다 합쳐 15달러를 넘지 않았다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.mos.cms.futurecdn.net/uWPfVwnAzVfG87r5UBkxc5.jpg",
+            "cap": "(이미지 출처: Muhammad Zulali)"
+          },
+          {
+            "t": "p",
+            "x": "Claude는 이 엔진이 약 7,800보드의 Chrysler SCI 버스로 통신하는데 일반 시리얼 포트와는 전기적으로 반전돼 있다고 짚어 줬다. 반전은 Cherokee의 6핀 진단 플러그에 연결한 Arduino Nano가 처리했다. Claude는 이어 시속 25마일과 50마일로 달리는 동안 엔진 데이터와 고장 코드를 기록했다. ECU가 몇 달 차이로 재플래싱을 지원하지 못하는 구형이라 Codex가 근처 EEPROM에 맞춤 코드를 심어 실행했다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.mos.cms.futurecdn.net/MEhj2kjie9xAZfBevnC5jT.jpg",
+            "cap": "(이미지 출처: Muhammad Zulali)"
+          },
+          {
+            "t": "p",
+            "x": "Zulali는 “진단 작업은 대부분 Claude가, 메모리 작업은 거의 전부 Codex가 했다”며 “나는 배선과 운전만 했다”고 말했다. 프로젝트 xj-scanner는 GPLv3 라이선스로 GitHub에 공개됐다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "A 1994 Jeep passes smog\nafter a Claude-aided ECU hack",
+          "body": "With Claude, Codex and $15 of hardware, a 1994 Jeep Cherokee owner reverse-engineered the car's ECU to pass smog tests.",
+          "mini_headline": "Claude helps a 1994\nJeep pass smog",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "An AI enthusiast managed to get his old 1994 Jeep Cherokee to pass the California smog tests, all thanks to the help of AI and a little electronics wiring skill. This 32-year-old car had only a primitive engine computer, but after connecting it to a laptop via an Arduino Nano board, many settings could be read and eventually controlled."
+              },
+              {
+                "t": "video",
+                "yt": "WPj3aQ-xxpI"
+              },
+              {
+                "t": "p",
+                "x": "The video documents Muhammad Zulali's journey from the Jeep failing consecutive smog tests to tuning and fixing the engine emission issues. Claude provided guidance, and Codex wrote any required code. The Jeep was producing too much NOx at certain test speeds, and each retest cost nearly $100. The fix used a $3 microcontroller, for a total bill of materials of no more than $15."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/uWPfVwnAzVfG87r5UBkxc5.jpg",
+                "cap": "(Image credit: Muhammad Zulali)"
+              },
+              {
+                "t": "p",
+                "x": "Claude told him the engine communicated on a Chrysler SCI bus at ~7,800 baud, electrically inverted compared to a typical serial port; an Arduino Nano handled the inversion, wired to the Cherokee's 6-pin diagnostic plug. Claude then logged engine data and fault codes during drives at 25 mph and 50 mph. The ECU was a few months too old to be reflashable, so Codex injected and ran custom code inside a nearby EEPROM."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/MEhj2kjie9xAZfBevnC5jT.jpg",
+                "cap": "(Image credit: Muhammad Zulali)"
+              },
+              {
+                "t": "p",
+                "x": "“Claude did most of the diagnostic work and Codex did pretty much all of the memory work,” says Zulali. “I just did the wiring and the driving.” The project, xj-scanner, is on GitHub under GPLv3."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Claude로 ECU 해킹\n1994 Jeep 검사통과",
+          "body": "Claude·Codex와 $15로 1994 Jeep ECU를 손봐 검사를 통과했다.",
+          "mini_headline": "Claude 덕에 1994 Jeep 검사 통과",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "한 AI 애호가가 AI의 도움과 약간의 전자 배선 실력만으로 오래된 1994년식 Jeep Cherokee를 캘리포니아 배출가스(스모그) 검사에 통과시켰다. 32년 된 이 차의 엔진 컴퓨터는 원시적이었지만 Arduino Nano 보드로 노트북에 물리자 여러 설정이 읽혔고, 끝내 제어까지 가능해졌다."
+              },
+              {
+                "t": "video",
+                "yt": "WPj3aQ-xxpI"
+              },
+              {
+                "t": "p",
+                "x": "영상은 Muhammad Zulali의 Jeep이 배출가스 검사에서 잇달아 떨어진 뒤 엔진 배출 문제를 튜닝해 고치기까지의 과정을 담았다. 방향은 Claude가 잡았고 필요한 코드는 Codex가 전부 짰다. 이 Jeep은 특정 검사 속도에서 NOx를 너무 많이 내뿜었고, 재검사 비용은 한 번에 100달러 가까이 들었다. 해결에는 3달러짜리 마이크로컨트롤러가 쓰였고 부품값은 다 합쳐 15달러를 넘지 않았다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/uWPfVwnAzVfG87r5UBkxc5.jpg",
+                "cap": "(이미지 출처: Muhammad Zulali)"
+              },
+              {
+                "t": "p",
+                "x": "Claude는 이 엔진이 약 7,800보드의 Chrysler SCI 버스로 통신하는데 일반 시리얼 포트와는 전기적으로 반전돼 있다고 짚어 줬다. 반전은 Cherokee의 6핀 진단 플러그에 연결한 Arduino Nano가 처리했다. Claude는 이어 시속 25마일과 50마일로 달리는 동안 엔진 데이터와 고장 코드를 기록했다. ECU가 몇 달 차이로 재플래싱을 지원하지 못하는 구형이라 Codex가 근처 EEPROM에 맞춤 코드를 심어 실행했다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/MEhj2kjie9xAZfBevnC5jT.jpg",
+                "cap": "(이미지 출처: Muhammad Zulali)"
+              },
+              {
+                "t": "p",
+                "x": "Zulali는 “진단 작업은 대부분 Claude가, 메모리 작업은 거의 전부 Codex가 했다”며 “나는 배선과 운전만 했다”고 말했다. 프로젝트 xj-scanner는 GPLv3 라이선스로 GitHub에 공개됐다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "ClaudeでECU解析\n1994年Jeep排ガス合格",
+          "body": "ClaudeとCodex、$15の部品で1994年JeepのECUを解析し検査に合格した。",
+          "mini_headline": "Claudeで1994年Jeepが排ガス合格",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "あるAI愛好家が、AIの助けと少しの電子配線の技術だけで、1994年式の古いJeep Cherokeeをカリフォルニア州の排ガス（スモッグ）検査に合格させた。この32年落ちの車には原始的なエンジンコンピューターしかなかったが、Arduino Nanoボードを介してノートPCにつなぐと、多くの設定を読み取り、最終的には制御できるようになった。"
+              },
+              {
+                "t": "video",
+                "yt": "WPj3aQ-xxpI"
+              },
+              {
+                "t": "p",
+                "x": "動画は、Muhammad ZulaliのJeepが排ガス検査に続けて落ちたところから、エンジンの排出問題を調整・修正するまでの過程を記録している。Claudeが指針を示し、必要なコードはすべてCodexが書いた。このJeepは特定の試験速度でNOxを出しすぎており、再検査には毎回100ドル近くかかった。修理には3ドルのマイクロコントローラーを使い、部品代の合計は15ドル以下に収まった。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/uWPfVwnAzVfG87r5UBkxc5.jpg",
+                "cap": "（画像提供：Muhammad Zulali）"
+              },
+              {
+                "t": "p",
+                "x": "Claudeによれば、エンジンは約7,800ボーのChrysler SCIバスで通信しており、一般的なシリアルポートと比べて電気的に反転していた。この反転はCherokeeの6ピン診断プラグに配線したArduino Nanoが処理した。続いてClaudeは、時速25マイルと50マイルでの走行中にエンジンデータと故障コードを記録した。ECUは書き換えに対応するには数カ月古かったため、Codexが近くのEEPROMに独自コードを注入して実行させた。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/MEhj2kjie9xAZfBevnC5jT.jpg",
+                "cap": "（画像提供：Muhammad Zulali）"
+              },
+              {
+                "t": "p",
+                "x": "「診断作業の大半はClaudeが、メモリ関連の作業はほぼすべてCodexがやった」とZulaliは話す。「私は配線と運転をしただけだ」。プロジェクト「xj-scanner」はGPLv3でGitHubに公開されている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Claude助攻破解ECU\n1994年Jeep过尾气检测",
+          "body": "车主用Claude、Codex和15美元硬件破解1994年Jeep的ECU，通过尾气检测。",
+          "mini_headline": "Claude助1994年Jeep过尾气检测",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "一位AI爱好者借助AI和一点电子布线技术，让自己那辆老旧的1994年Jeep Cherokee通过了加州尾气（雾霾）检测。这辆车龄32年的车只有一台原始的发动机电脑，但通过Arduino Nano板连接到笔记本电脑后，许多设置都能读取，最终还能控制。"
+              },
+              {
+                "t": "video",
+                "yt": "WPj3aQ-xxpI"
+              },
+              {
+                "t": "p",
+                "x": "视频记录了Muhammad Zulali的Jeep从连续未通过尾气检测，到调校并解决发动机排放问题的全过程。Claude提供指导，Codex编写了所需的全部代码。这辆Jeep在某些测试车速下NOx排放过高，每次复检要花将近100美元。最终方案用了一块3美元的微控制器，物料总成本不超过15美元。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/uWPfVwnAzVfG87r5UBkxc5.jpg",
+                "cap": "（图片来源：Muhammad Zulali）"
+              },
+              {
+                "t": "p",
+                "x": "Claude告诉他，这台发动机通过约7,800波特的Chrysler SCI总线通信，与普通串口相比电平是反相的；反相由接在Cherokee 6针诊断插头上的Arduino Nano处理。随后Claude在时速25英里和50英里的行驶中记录了发动机数据和故障码。这台ECU早了几个月出厂，不支持重刷，于是Codex将自定义代码注入附近的一块EEPROM并在其中运行。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/MEhj2kjie9xAZfBevnC5jT.jpg",
+                "cap": "（图片来源：Muhammad Zulali）"
+              },
+              {
+                "t": "p",
+                "x": "“大部分诊断工作是Claude做的，内存相关的工作几乎全由Codex完成，”Zulali说，“我只负责接线和开车。”该项目名为xj-scanner，以GPLv3许可证发布在GitHub上。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Jeep de 1994 aprueba emisiones\ntras hackear su ECU con Claude",
+          "body": "Un dueño de un Jeep Cherokee de 1994 usó Claude, Codex y $15 de hardware para pasar la prueba de emisiones.",
+          "mini_headline": "Claude ayuda a un Jeep de 1994 a pasar emisiones",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Un aficionado a la IA logró que su viejo Jeep Cherokee de 1994 superara las pruebas de emisiones de California, gracias a la ayuda de la IA y a un poco de habilidad con el cableado electrónico. Este coche de 32 años solo tenía una computadora de motor primitiva, pero tras conectarla a un portátil mediante una placa Arduino Nano, pudo leer muchos ajustes y, al final, controlarlos."
+              },
+              {
+                "t": "video",
+                "yt": "WPj3aQ-xxpI"
+              },
+              {
+                "t": "p",
+                "x": "El video documenta el recorrido de Muhammad Zulali desde que el Jeep suspendió varias pruebas de emisiones seguidas hasta que ajustó y corrigió los problemas de emisiones del motor. Claude aportó la orientación y Codex escribió todo el código necesario. El Jeep emitía demasiado NOx a ciertas velocidades de prueba, y cada nueva inspección costaba casi $100. La solución usó un microcontrolador de $3, con un coste total de materiales de no más de $15."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/uWPfVwnAzVfG87r5UBkxc5.jpg",
+                "cap": "(Crédito de la imagen: Muhammad Zulali)"
+              },
+              {
+                "t": "p",
+                "x": "Claude le explicó que el motor se comunicaba por un bus Chrysler SCI a unos 7.800 baudios, con la señal eléctricamente invertida respecto a un puerto serie normal; una Arduino Nano, conectada al conector de diagnóstico de 6 pines del Cherokee, se encargó de la inversión. Después, Claude registró datos del motor y códigos de fallo durante trayectos a 25 mph y 50 mph. La ECU era unos meses demasiado antigua para poder reprogramarse, así que Codex inyectó y ejecutó código propio dentro de una EEPROM cercana."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/MEhj2kjie9xAZfBevnC5jT.jpg",
+                "cap": "(Crédito de la imagen: Muhammad Zulali)"
+              },
+              {
+                "t": "p",
+                "x": "«Claude hizo la mayor parte del trabajo de diagnóstico y Codex hizo prácticamente todo el trabajo de memoria», dice Zulali. «Yo solo hice el cableado y la conducción». El proyecto, xj-scanner, está en GitHub bajo GPLv3."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Claude로 ECU 해킹\n1994 Jeep 검사통과",
+          "body": "Claude·Codex와 $15로 1994 Jeep ECU를 손봐 검사를 통과했다.",
+          "mini_headline": "Claude 덕에 1994 Jeep 검사 통과",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "한 AI 애호가가 AI의 도움과 약간의 전자 배선 실력만으로 오래된 1994년식 Jeep Cherokee를 캘리포니아 배출가스(스모그) 검사에 통과시켰다. 32년 된 이 차에는 원시적인 엔진 컴퓨터만 있었지만, Arduino Nano 보드로 노트북에 연결하자 여러 설정을 읽을 수 있었고 결국 제어까지 할 수 있었다."
+              },
+              {
+                "t": "video",
+                "yt": "WPj3aQ-xxpI"
+              },
+              {
+                "t": "p",
+                "x": "영상은 Muhammad Zulali의 Jeep이 배출가스 검사에서 연이어 떨어진 뒤 엔진 배출 문제를 튜닝하고 고치기까지의 과정을 담았다. Claude가 방향을 잡아 주고, 필요한 코드는 Codex가 모두 작성했다. 이 Jeep은 특정 검사 속도에서 NOx를 너무 많이 배출했고, 재검사 비용은 한 번에 100달러 가까이 들었다. 해결책에는 3달러짜리 마이크로컨트롤러가 쓰였고, 부품 비용은 모두 합쳐 15달러를 넘지 않았다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/uWPfVwnAzVfG87r5UBkxc5.jpg",
+                "cap": "(이미지 출처: Muhammad Zulali)"
+              },
+              {
+                "t": "p",
+                "x": "Claude는 이 엔진이 약 7,800보드의 Chrysler SCI 버스로 통신하며, 일반 시리얼 포트와 비교해 전기적으로 반전돼 있다고 알려 줬다. 반전 처리는 Cherokee의 6핀 진단 플러그에 배선한 Arduino Nano가 맡았다. 이어 Claude는 시속 25마일과 50마일 주행 중 엔진 데이터와 고장 코드를 기록했다. ECU는 몇 달 차이로 재플래싱이 불가능한 구형이어서, Codex가 근처 EEPROM에 맞춤 코드를 주입해 실행했다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/MEhj2kjie9xAZfBevnC5jT.jpg",
+                "cap": "(이미지 출처: Muhammad Zulali)"
+              },
+              {
+                "t": "p",
+                "x": "Zulali는 “진단 작업은 대부분 Claude가, 메모리 작업은 거의 전부 Codex가 했다”며 “나는 배선과 운전만 했다”고 말했다. 프로젝트 xj-scanner는 GPLv3 라이선스로 GitHub에 공개돼 있다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "ClaudeでECU解析\n1994年Jeep排ガス合格",
+          "body": "ClaudeとCodex、$15の部品で1994年JeepのECUを解析し検査に合格した。",
+          "mini_headline": "Claudeで1994年Jeepが排ガス合格",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "あるAI愛好家が、AIの助けと少しの電子配線の技術だけで、1994年式の古いJeep Cherokeeをカリフォルニア州の排ガス（スモッグ）検査に合格させた。この32年落ちの車には原始的なエンジンコンピューターしかなかったが、Arduino Nanoボードを介してノートPCにつなぐと、多くの設定を読み取り、最終的には制御できるようになった。"
+              },
+              {
+                "t": "video",
+                "yt": "WPj3aQ-xxpI"
+              },
+              {
+                "t": "p",
+                "x": "動画は、Muhammad ZulaliのJeepが排ガス検査に続けて落ちたところから、エンジンの排出問題を調整・修正するまでの過程を記録している。Claudeが指針を示し、必要なコードはすべてCodexが書いた。このJeepは特定の試験速度でNOxを出しすぎており、再検査には毎回100ドル近くかかった。修理には3ドルのマイクロコントローラーを使い、部品代の合計は15ドル以下に収まった。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/uWPfVwnAzVfG87r5UBkxc5.jpg",
+                "cap": "（画像提供：Muhammad Zulali）"
+              },
+              {
+                "t": "p",
+                "x": "Claudeによれば、エンジンは約7,800ボーのChrysler SCIバスで通信しており、一般的なシリアルポートと比べて電気的に反転していた。この反転はCherokeeの6ピン診断プラグに配線したArduino Nanoが処理した。続いてClaudeは、時速25マイルと50マイルでの走行中にエンジンデータと故障コードを記録した。ECUは書き換えに対応するには数カ月古かったため、Codexが近くのEEPROMに独自コードを注入して実行させた。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/MEhj2kjie9xAZfBevnC5jT.jpg",
+                "cap": "（画像提供：Muhammad Zulali）"
+              },
+              {
+                "t": "p",
+                "x": "「診断作業の大半はClaudeが、メモリ関連の作業はほぼすべてCodexがやった」とZulaliは話す。「私は配線と運転をしただけだ」。プロジェクト「xj-scanner」はGPLv3でGitHubに公開されている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Claude助攻破解ECU\n1994年Jeep过尾气检测",
+          "body": "车主用Claude、Codex和15美元硬件破解1994年Jeep的ECU，通过尾气检测。",
+          "mini_headline": "Claude助1994年Jeep过尾气检测",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "一位AI爱好者借助AI和一点电子布线技术，让自己那辆老旧的1994年Jeep Cherokee通过了加州尾气（雾霾）检测。这辆车龄32年的车只有一台原始的发动机电脑，但通过Arduino Nano板连接到笔记本电脑后，许多设置都能读取，最终还能控制。"
+              },
+              {
+                "t": "video",
+                "yt": "WPj3aQ-xxpI"
+              },
+              {
+                "t": "p",
+                "x": "视频记录了Muhammad Zulali的Jeep从连续未通过尾气检测，到调校并解决发动机排放问题的全过程。Claude提供指导，Codex编写了所需的全部代码。这辆Jeep在某些测试车速下NOx排放过高，每次复检要花将近100美元。最终方案用了一块3美元的微控制器，物料总成本不超过15美元。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/uWPfVwnAzVfG87r5UBkxc5.jpg",
+                "cap": "（图片来源：Muhammad Zulali）"
+              },
+              {
+                "t": "p",
+                "x": "Claude告诉他，这台发动机通过约7,800波特的Chrysler SCI总线通信，与普通串口相比电平是反相的；反相由接在Cherokee 6针诊断插头上的Arduino Nano处理。随后Claude在时速25英里和50英里的行驶中记录了发动机数据和故障码。这台ECU早了几个月出厂，不支持重刷，于是Codex将自定义代码注入附近的一块EEPROM并在其中运行。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/MEhj2kjie9xAZfBevnC5jT.jpg",
+                "cap": "（图片来源：Muhammad Zulali）"
+              },
+              {
+                "t": "p",
+                "x": "“大部分诊断工作是Claude做的，内存相关的工作几乎全由Codex完成，”Zulali说，“我只负责接线和开车。”该项目名为xj-scanner，以GPLv3许可证发布在GitHub上。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Jeep de 1994 aprueba emisiones\ntras hackear su ECU con Claude",
+          "body": "Un dueño de un Jeep Cherokee de 1994 usó Claude, Codex y $15 de hardware para pasar la prueba de emisiones.",
+          "mini_headline": "Claude ayuda a un Jeep de 1994 a pasar emisiones",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Un aficionado a la IA logró que su viejo Jeep Cherokee de 1994 superara las pruebas de emisiones de California, gracias a la ayuda de la IA y a un poco de habilidad con el cableado electrónico. Este coche de 32 años solo tenía una computadora de motor primitiva, pero tras conectarla a un portátil mediante una placa Arduino Nano, pudo leer muchos ajustes y, al final, controlarlos."
+              },
+              {
+                "t": "video",
+                "yt": "WPj3aQ-xxpI"
+              },
+              {
+                "t": "p",
+                "x": "El video documenta el recorrido de Muhammad Zulali desde que el Jeep suspendió varias pruebas de emisiones seguidas hasta que ajustó y corrigió los problemas de emisiones del motor. Claude aportó la orientación y Codex escribió todo el código necesario. El Jeep emitía demasiado NOx a ciertas velocidades de prueba, y cada nueva inspección costaba casi $100. La solución usó un microcontrolador de $3, con un coste total de materiales de no más de $15."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/uWPfVwnAzVfG87r5UBkxc5.jpg",
+                "cap": "(Crédito de la imagen: Muhammad Zulali)"
+              },
+              {
+                "t": "p",
+                "x": "Claude le explicó que el motor se comunicaba por un bus Chrysler SCI a unos 7.800 baudios, con la señal eléctricamente invertida respecto a un puerto serie normal; una Arduino Nano, conectada al conector de diagnóstico de 6 pines del Cherokee, se encargó de la inversión. Después, Claude registró datos del motor y códigos de fallo durante trayectos a 25 mph y 50 mph. La ECU era unos meses demasiado antigua para poder reprogramarse, así que Codex inyectó y ejecutó código propio dentro de una EEPROM cercana."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/MEhj2kjie9xAZfBevnC5jT.jpg",
+                "cap": "(Crédito de la imagen: Muhammad Zulali)"
+              },
+              {
+                "t": "p",
+                "x": "«Claude hizo la mayor parte del trabajo de diagnóstico y Codex hizo prácticamente todo el trabajo de memoria», dice Zulali. «Yo solo hice el cableado y la conducción». El proyecto, xj-scanner, está en GitHub bajo GPLv3."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "ces2027-innovation-awards-korea",
+      "source_lang": "ko",
+      "eyebrow": "AI NEWS",
+      "headline": "CES 2027 최고혁신상\n61%는 한국 기업",
+      "body": "최고혁신상 61%는 한국 몫이지만 로봇·AI 칩 부문 최고상은 중·미가 가져갔다.",
+      "mini_headline": "CES 최고혁신상\n61% 한국",
+      "tool": "Gadgets",
+      "source": "전자신문 (etnews)",
+      "url": "https://www.etnews.com/20261110000251",
+      "accent": "#2ec5c5",
+      "motif": "headset",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://img.etnews.com/news/article/2026/11/10/news-p.v1.20261110.5fdedf20293c4a21af1be6aa3526c5f6_P1.jpg",
+            "cap": "CES 2027 최고 혁신상을 받은 세계 최초 투명·무선 TV 'LG 시그니처 올레드 T'"
+          },
+          {
+            "t": "p",
+            "x": "한국 기업이 'CES 2027' 최고혁신상 절반 이상을 휩쓸었다. 다만, 로봇과 인공지능(AI) 반도체 등 미래 산업 주도권이 걸린 분야 최고상은 중국과 미국이 가져갔다."
+          },
+          {
+            "t": "p",
+            "x": "미국소비자기술협회(CTA)는 9일(현지시간) CES 2027 혁신상 1차 수상작을 발표했다. 올해 출품작은 약 4000개로, 전년 대비 10% 늘어 역대 최대를 기록했다. AI·디지털헬스·로봇 등 3개 분야가 전체 출품작 25%를 차지했다. 1차 공개된 최고혁신상 38개를 국가별로 분류하면 한국이 24개(61%)로 가장 많았다. 미국 5개, 중국 4개가 뒤를 이었고 독일·스웨덴·캐나다·일본이 1개씩 받았다."
+          },
+          {
+            "t": "p",
+            "x": "삼성전자가 '갤럭시 Z 폴드8'과 '폴드8 울트라'로 모바일 부문 최고상 2개를 받았다. LG전자는 '시그니처 올레드 T6'로 CTA가 경매사 크리스티와 올해 신설한 아트테크 부문 최고상을 받았다. 슈올즈는 AI 신발 2종으로 접근성·장수와 패션테크 부문 정상에 올랐고, 에이아이비즈(AI) 등 스타트업·중소기업과 대학도 수상했다."
+          },
+          {
+            "t": "p",
+            "x": "출품이 74% 급증한 로봇 부문 최고상은 중국 휴머노이드 기업 갤봇 'ET1'에 돌아갔다. 미국은 5개에 그쳤지만 엔비디아가 '베라 CPU'와 'DLSS 5'로 컴퓨터 하드웨어·게이밍 부문을, 퀄컴은 XR 플랫폼으로 XR 부문 최고상을 받았다."
+          },
+          {
+            "t": "img",
+            "src": "https://img.etnews.com/news/article/2026/11/11/news-t.v1.20261111.298baa5937ea4e60934770e35f71167a_P1.png",
+            "cap": "한국·중국 ·미국 'CES 2027' 최고혁신상 수상 목록 (자료 : CTA)"
+          },
+          {
+            "t": "p",
+            "x": "전자업계 관계자는 “한국이 여러 부문에서 고르게 수상했다면 미국과 중국은 AI 반도체와 휴머노이드처럼 차세대 산업 핵심을 쥔 셈”이라고 말했다."
+          }
+        ]
+      },
+      "text": {
+        "ko": {
+          "headline": "CES 2027 최고혁신상\n61%는 한국 기업",
+          "body": "최고혁신상 61%는 한국 몫이지만 로봇·AI 칩 부문 최고상은 중·미가 가져갔다.",
+          "mini_headline": "CES 최고혁신상\n61% 한국",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://img.etnews.com/news/article/2026/11/10/news-p.v1.20261110.5fdedf20293c4a21af1be6aa3526c5f6_P1.jpg",
+                "cap": "CES 2027 최고 혁신상을 받은 세계 최초 투명·무선 TV 'LG 시그니처 올레드 T'"
+              },
+              {
+                "t": "p",
+                "x": "한국 기업이 'CES 2027' 최고혁신상 절반 이상을 휩쓸었다. 다만, 로봇과 인공지능(AI) 반도체 등 미래 산업 주도권이 걸린 분야 최고상은 중국과 미국이 가져갔다."
+              },
+              {
+                "t": "p",
+                "x": "미국소비자기술협회(CTA)는 9일(현지시간) CES 2027 혁신상 1차 수상작을 발표했다. 올해 출품작은 약 4000개로, 전년 대비 10% 늘어 역대 최대를 기록했다. AI·디지털헬스·로봇 등 3개 분야가 전체 출품작 25%를 차지했다. 1차 공개된 최고혁신상 38개를 국가별로 분류하면 한국이 24개(61%)로 가장 많았다. 미국 5개, 중국 4개가 뒤를 이었고 독일·스웨덴·캐나다·일본이 1개씩 받았다."
+              },
+              {
+                "t": "p",
+                "x": "삼성전자가 '갤럭시 Z 폴드8'과 '폴드8 울트라'로 모바일 부문 최고상 2개를 받았다. LG전자는 '시그니처 올레드 T6'로 CTA가 경매사 크리스티와 올해 신설한 아트테크 부문 최고상을 받았다. 슈올즈는 AI 신발 2종으로 접근성·장수와 패션테크 부문 정상에 올랐고, 에이아이비즈(AI) 등 스타트업·중소기업과 대학도 수상했다."
+              },
+              {
+                "t": "p",
+                "x": "출품이 74% 급증한 로봇 부문 최고상은 중국 휴머노이드 기업 갤봇 'ET1'에 돌아갔다. 미국은 5개에 그쳤지만 엔비디아가 '베라 CPU'와 'DLSS 5'로 컴퓨터 하드웨어·게이밍 부문을, 퀄컴은 XR 플랫폼으로 XR 부문 최고상을 받았다."
+              },
+              {
+                "t": "img",
+                "src": "https://img.etnews.com/news/article/2026/11/11/news-t.v1.20261111.298baa5937ea4e60934770e35f71167a_P1.png",
+                "cap": "한국·중국 ·미국 'CES 2027' 최고혁신상 수상 목록 (자료 : CTA)"
+              },
+              {
+                "t": "p",
+                "x": "전자업계 관계자는 “한국이 여러 부문에서 고르게 수상했다면 미국과 중국은 AI 반도체와 휴머노이드처럼 차세대 산업 핵심을 쥔 셈”이라고 말했다."
+              }
+            ]
+          }
+        },
+        "en": {
+          "headline": "Korean firms win 61% of\nCES 2027 Best of Innovation",
+          "body": "Korea took 61% of the top innovation honors, but China and the U.S. won the top robot and AI chip awards.",
+          "mini_headline": "Korea wins 61% of CES top honors",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://img.etnews.com/news/article/2026/11/10/news-p.v1.20261110.5fdedf20293c4a21af1be6aa3526c5f6_P1.jpg",
+                "cap": "The 'LG Signature OLED T', the world's first transparent wireless TV, which won a CES 2027 Best of Innovation award"
+              },
+              {
+                "t": "p",
+                "x": "Korean companies swept more than half of the 'CES 2027' Best of Innovation awards. However, China and the U.S. took the top awards in fields that will decide leadership in future industries, such as robots and artificial intelligence (AI) chips."
+              },
+              {
+                "t": "p",
+                "x": "The Consumer Technology Association (CTA) announced the first round of CES 2027 Innovation Award winners on the 9th (local time). This year's entries numbered about 4,000, up 10% from the previous year and a record high. Three fields, AI, digital health and robotics, accounted for 25% of all entries. Of the 38 Best of Innovation awards announced in the first round, Korea won the most, with 24 (61%). The U.S. followed with 5 and China with 4, while Germany, Sweden, Canada and Japan received one each."
+              },
+              {
+                "t": "p",
+                "x": "Samsung Electronics won two top awards in the mobile category with the 'Galaxy Z Fold8' and the 'Fold8 Ultra'. LG Electronics won, with the 'Signature OLED T6', the top award in the art tech category that the CTA created this year with auction house Christie's. Shuolz topped the accessibility & longevity and fashion tech categories with two AI shoes, and startups, small and mid-sized companies and universities such as AIBiz (AI) also won awards."
+              },
+              {
+                "t": "p",
+                "x": "The top award in robotics, where entries jumped 74%, went to the 'ET1' from Chinese humanoid company Galbot. The U.S. won only 5, but NVIDIA took the top awards in computer hardware and gaming with the 'Vera CPU' and 'DLSS 5', and Qualcomm won the top XR award with its XR platform."
+              },
+              {
+                "t": "img",
+                "src": "https://img.etnews.com/news/article/2026/11/11/news-t.v1.20261111.298baa5937ea4e60934770e35f71167a_P1.png",
+                "cap": "Korean, Chinese and U.S. winners of the 'CES 2027' Best of Innovation awards (Source: CTA)"
+              },
+              {
+                "t": "p",
+                "x": "An electronics industry official said, “If Korea won evenly across many categories, the U.S. and China have in effect seized the core of next-generation industries, such as AI chips and humanoids.”"
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "CES 2027最高革新賞\n61%は韓国企業",
+          "body": "最高革新賞の61%を韓国が占めたが、ロボットとAIチップの最高賞は中米が手にした。",
+          "mini_headline": "CES最高革新賞、61%が韓国",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://img.etnews.com/news/article/2026/11/10/news-p.v1.20261110.5fdedf20293c4a21af1be6aa3526c5f6_P1.jpg",
+                "cap": "CES 2027最高革新賞を受賞した世界初の透明・ワイヤレスTV「LG Signature OLED T」"
+              },
+              {
+                "t": "p",
+                "x": "韓国企業が「CES 2027」最高革新賞の半数以上を席巻した。ただし、ロボットや人工知能（AI）半導体など、未来産業の主導権がかかる分野の最高賞は中国と米国が手にした。"
+              },
+              {
+                "t": "p",
+                "x": "全米民生技術協会（CTA）は9日（現地時間）、CES 2027イノベーションアワードの第1次受賞作を発表した。今年の出品作は約4000件で、前年比10%増えて過去最多を記録した。AI・デジタルヘルス・ロボットの3分野が全出品作の25%を占めた。第1次で公開された最高革新賞38件を国別に分けると、韓国が24件（61%）で最も多かった。米国5件、中国4件が続き、ドイツ・スウェーデン・カナダ・日本が1件ずつ受賞した。"
+              },
+              {
+                "t": "p",
+                "x": "サムスン電子は「Galaxy Z Fold8」と「Fold8 Ultra」でモバイル部門の最高賞2件を受賞した。LG電子は「Signature OLED T6」で、CTAがオークションハウスのクリスティーズと今年新設したアートテック部門の最高賞を受けた。シュオルズはAIシューズ2種でアクセシビリティ・長寿部門とファッションテック部門の頂点に立ち、エーアイビズ（AI）などのスタートアップ・中小企業や大学も受賞した。"
+              },
+              {
+                "t": "p",
+                "x": "出品が74%急増したロボット部門の最高賞は、中国のヒューマノイド企業Galbotの「ET1」に渡った。米国は5件にとどまったが、NVIDIAが「Vera CPU」と「DLSS 5」でコンピューターハードウェア・ゲーミング部門を、QualcommがXRプラットフォームでXR部門の最高賞を受賞した。"
+              },
+              {
+                "t": "img",
+                "src": "https://img.etnews.com/news/article/2026/11/11/news-t.v1.20261111.298baa5937ea4e60934770e35f71167a_P1.png",
+                "cap": "韓国・中国・米国の「CES 2027」最高革新賞受賞リスト（資料：CTA）"
+              },
+              {
+                "t": "p",
+                "x": "電子業界の関係者は「韓国が多くの部門でまんべんなく受賞したとすれば、米国と中国はAI半導体やヒューマノイドのように次世代産業の核心を握ったといえる」と述べた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "CES 2027最高创新奖\n61%归韩国企业",
+          "body": "最高创新奖61%由韩国企业获得，但机器人与AI芯片类最高奖归中美。",
+          "mini_headline": "CES最高创新奖61%归韩国",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://img.etnews.com/news/article/2026/11/10/news-p.v1.20261110.5fdedf20293c4a21af1be6aa3526c5f6_P1.jpg",
+                "cap": "荣获CES 2027最高创新奖的全球首款透明无线电视“LG Signature OLED T”"
+              },
+              {
+                "t": "p",
+                "x": "韩国企业包揽了“CES 2027”最高创新奖的半数以上。不过，在机器人、人工智能（AI）半导体等关乎未来产业主导权的领域，最高奖被中国和美国收入囊中。"
+              },
+              {
+                "t": "p",
+                "x": "美国消费技术协会（CTA）于当地时间9日公布了CES 2027创新奖第一批获奖名单。今年参评作品约4000件，比上年增长10%，创历史新高。AI、数字健康、机器人三个领域占全部参评作品的25%。将第一批公布的38项最高创新奖按国家划分，韩国以24项（61%）居首，美国5项、中国4项紧随其后，德国、瑞典、加拿大、日本各获1项。"
+              },
+              {
+                "t": "p",
+                "x": "三星电子凭借“Galaxy Z Fold8”和“Fold8 Ultra”拿下移动设备类2项最高奖。LG电子凭借“Signature OLED T6”获得CTA今年与拍卖行佳士得新设的艺术科技类最高奖。Shuolz凭借2款AI鞋登上无障碍·长寿类和时尚科技类榜首，AIBiz（AI）等初创企业、中小企业和大学也获奖。"
+              },
+              {
+                "t": "p",
+                "x": "参评作品激增74%的机器人类最高奖由中国人形机器人企业Galbot的“ET1”摘得。美国虽然只获得5项，但NVIDIA凭借“Vera CPU”和“DLSS 5”拿下计算机硬件和游戏类最高奖，Qualcomm凭借XR平台获得XR类最高奖。"
+              },
+              {
+                "t": "img",
+                "src": "https://img.etnews.com/news/article/2026/11/11/news-t.v1.20261111.298baa5937ea4e60934770e35f71167a_P1.png",
+                "cap": "韩国、中国、美国“CES 2027”最高创新奖获奖名单（资料：CTA）"
+              },
+              {
+                "t": "p",
+                "x": "一位电子业界人士表示：“如果说韩国是在多个类别中均衡获奖，那么美国和中国则是握住了AI半导体和人形机器人等下一代产业的核心。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Corea gana el 61% de los\nmáximos premios de CES 2027",
+          "body": "Corea se llevó el 61% de los máximos premios a la innovación, pero China y EE. UU. ganaron en robots y chips de IA.",
+          "mini_headline": "Corea logra el 61% de los máximos premios de CES",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://img.etnews.com/news/article/2026/11/10/news-p.v1.20261110.5fdedf20293c4a21af1be6aa3526c5f6_P1.jpg",
+                "cap": "El 'LG Signature OLED T', primer televisor transparente e inalámbrico del mundo, ganador de un máximo premio a la innovación de CES 2027"
+              },
+              {
+                "t": "p",
+                "x": "Las empresas coreanas se llevaron más de la mitad de los máximos premios a la innovación de 'CES 2027'. Sin embargo, China y Estados Unidos se quedaron con los máximos galardones en los campos que definirán el liderazgo de las industrias del futuro, como los robots y los semiconductores de inteligencia artificial (IA)."
+              },
+              {
+                "t": "p",
+                "x": "La Asociación de Tecnología de Consumo (CTA) anunció el día 9 (hora local) la primera tanda de ganadores de los Premios a la Innovación de CES 2027. Este año se presentaron unas 4.000 candidaturas, un 10% más que el año anterior y un récord histórico. Tres áreas, IA, salud digital y robótica, sumaron el 25% del total. Al clasificar por país los 38 máximos premios anunciados en la primera tanda, Corea fue el que más obtuvo, con 24 (61%). Le siguieron Estados Unidos con 5 y China con 4, mientras que Alemania, Suecia, Canadá y Japón recibieron uno cada uno."
+              },
+              {
+                "t": "p",
+                "x": "Samsung Electronics obtuvo dos máximos premios en la categoría móvil con el 'Galaxy Z Fold8' y el 'Fold8 Ultra'. LG Electronics ganó, con el 'Signature OLED T6', el máximo premio de la categoría de arte y tecnología, creada este año por la CTA junto con la casa de subastas Christie's. Shuolz encabezó las categorías de accesibilidad y longevidad y de tecnología de la moda con dos zapatos con IA, y también fueron premiadas startups, pymes y universidades como AIBiz (AI)."
+              },
+              {
+                "t": "p",
+                "x": "El máximo premio de robótica, categoría en la que las candidaturas se dispararon un 74%, fue para el 'ET1' de la empresa china de humanoides Galbot. Estados Unidos se quedó en 5, pero NVIDIA ganó los máximos premios de hardware informático y videojuegos con la 'Vera CPU' y 'DLSS 5', y Qualcomm se llevó el de XR con su plataforma XR."
+              },
+              {
+                "t": "img",
+                "src": "https://img.etnews.com/news/article/2026/11/11/news-t.v1.20261111.298baa5937ea4e60934770e35f71167a_P1.png",
+                "cap": "Lista de ganadores de los máximos premios a la innovación de 'CES 2027' de Corea, China y Estados Unidos (Fuente: CTA)"
+              },
+              {
+                "t": "p",
+                "x": "Un responsable del sector electrónico afirmó: «Si Corea ganó de forma pareja en muchas categorías, Estados Unidos y China se hicieron con el núcleo de las industrias de próxima generación, como los semiconductores de IA y los humanoides»."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "en": {
+          "headline": "Korean firms win 61% of\nCES 2027 Best of Innovation",
+          "body": "Korea took 61% of the top innovation honors, but China and the U.S. won the top robot and AI chip awards.",
+          "mini_headline": "Korea wins 61% of CES top honors",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://img.etnews.com/news/article/2026/11/10/news-p.v1.20261110.5fdedf20293c4a21af1be6aa3526c5f6_P1.jpg",
+                "cap": "The 'LG Signature OLED T', the world's first transparent wireless TV, which won a CES 2027 Best of Innovation award"
+              },
+              {
+                "t": "p",
+                "x": "Korean companies swept more than half of the 'CES 2027' Best of Innovation awards. However, China and the U.S. took the top awards in fields that will decide leadership in future industries, such as robots and artificial intelligence (AI) chips."
+              },
+              {
+                "t": "p",
+                "x": "The Consumer Technology Association (CTA) announced the first round of CES 2027 Innovation Award winners on the 9th (local time). This year's entries numbered about 4,000, up 10% from the previous year and a record high. Three fields, AI, digital health and robotics, accounted for 25% of all entries. Of the 38 Best of Innovation awards announced in the first round, Korea won the most, with 24 (61%). The U.S. followed with 5 and China with 4, while Germany, Sweden, Canada and Japan received one each."
+              },
+              {
+                "t": "p",
+                "x": "Samsung Electronics won two top awards in the mobile category with the 'Galaxy Z Fold8' and the 'Fold8 Ultra'. LG Electronics won, with the 'Signature OLED T6', the top award in the art tech category that the CTA created this year with auction house Christie's. Shuolz topped the accessibility & longevity and fashion tech categories with two AI shoes, and startups, small and mid-sized companies and universities such as AIBiz (AI) also won awards."
+              },
+              {
+                "t": "p",
+                "x": "The top award in robotics, where entries jumped 74%, went to the 'ET1' from Chinese humanoid company Galbot. The U.S. won only 5, but NVIDIA took the top awards in computer hardware and gaming with the 'Vera CPU' and 'DLSS 5', and Qualcomm won the top XR award with its XR platform."
+              },
+              {
+                "t": "img",
+                "src": "https://img.etnews.com/news/article/2026/11/11/news-t.v1.20261111.298baa5937ea4e60934770e35f71167a_P1.png",
+                "cap": "Korean, Chinese and U.S. winners of the 'CES 2027' Best of Innovation awards (Source: CTA)"
+              },
+              {
+                "t": "p",
+                "x": "An electronics industry official said, “If Korea won evenly across many categories, the U.S. and China have in effect seized the core of next-generation industries, such as AI chips and humanoids.”"
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "CES 2027最高革新賞\n61%は韓国企業",
+          "body": "最高革新賞の61%を韓国が占めたが、ロボットとAIチップの最高賞は中米が手にした。",
+          "mini_headline": "CES最高革新賞、61%が韓国",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://img.etnews.com/news/article/2026/11/10/news-p.v1.20261110.5fdedf20293c4a21af1be6aa3526c5f6_P1.jpg",
+                "cap": "CES 2027最高革新賞を受賞した世界初の透明・ワイヤレスTV「LG Signature OLED T」"
+              },
+              {
+                "t": "p",
+                "x": "韓国企業が「CES 2027」最高革新賞の半数以上を席巻した。ただし、ロボットや人工知能（AI）半導体など、未来産業の主導権がかかる分野の最高賞は中国と米国が手にした。"
+              },
+              {
+                "t": "p",
+                "x": "全米民生技術協会（CTA）は9日（現地時間）、CES 2027イノベーションアワードの第1次受賞作を発表した。今年の出品作は約4000件で、前年比10%増えて過去最多を記録した。AI・デジタルヘルス・ロボットの3分野が全出品作の25%を占めた。第1次で公開された最高革新賞38件を国別に分けると、韓国が24件（61%）で最も多かった。米国5件、中国4件が続き、ドイツ・スウェーデン・カナダ・日本が1件ずつ受賞した。"
+              },
+              {
+                "t": "p",
+                "x": "サムスン電子は「Galaxy Z Fold8」と「Fold8 Ultra」でモバイル部門の最高賞2件を受賞した。LG電子は「Signature OLED T6」で、CTAがオークションハウスのクリスティーズと今年新設したアートテック部門の最高賞を受けた。シュオルズはAIシューズ2種でアクセシビリティ・長寿部門とファッションテック部門の頂点に立ち、エーアイビズ（AI）などのスタートアップ・中小企業や大学も受賞した。"
+              },
+              {
+                "t": "p",
+                "x": "出品が74%急増したロボット部門の最高賞は、中国のヒューマノイド企業Galbotの「ET1」に渡った。米国は5件にとどまったが、NVIDIAが「Vera CPU」と「DLSS 5」でコンピューターハードウェア・ゲーミング部門を、QualcommがXRプラットフォームでXR部門の最高賞を受賞した。"
+              },
+              {
+                "t": "img",
+                "src": "https://img.etnews.com/news/article/2026/11/11/news-t.v1.20261111.298baa5937ea4e60934770e35f71167a_P1.png",
+                "cap": "韓国・中国・米国の「CES 2027」最高革新賞受賞リスト（資料：CTA）"
+              },
+              {
+                "t": "p",
+                "x": "電子業界の関係者は「韓国が多くの部門でまんべんなく受賞したとすれば、米国と中国はAI半導体やヒューマノイドのように次世代産業の核心を握ったといえる」と述べた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "CES 2027最高创新奖\n61%归韩国企业",
+          "body": "最高创新奖61%由韩国企业获得，但机器人与AI芯片类最高奖归中美。",
+          "mini_headline": "CES最高创新奖61%归韩国",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://img.etnews.com/news/article/2026/11/10/news-p.v1.20261110.5fdedf20293c4a21af1be6aa3526c5f6_P1.jpg",
+                "cap": "荣获CES 2027最高创新奖的全球首款透明无线电视“LG Signature OLED T”"
+              },
+              {
+                "t": "p",
+                "x": "韩国企业包揽了“CES 2027”最高创新奖的半数以上。不过，在机器人、人工智能（AI）半导体等关乎未来产业主导权的领域，最高奖被中国和美国收入囊中。"
+              },
+              {
+                "t": "p",
+                "x": "美国消费技术协会（CTA）于当地时间9日公布了CES 2027创新奖第一批获奖名单。今年参评作品约4000件，比上年增长10%，创历史新高。AI、数字健康、机器人三个领域占全部参评作品的25%。将第一批公布的38项最高创新奖按国家划分，韩国以24项（61%）居首，美国5项、中国4项紧随其后，德国、瑞典、加拿大、日本各获1项。"
+              },
+              {
+                "t": "p",
+                "x": "三星电子凭借“Galaxy Z Fold8”和“Fold8 Ultra”拿下移动设备类2项最高奖。LG电子凭借“Signature OLED T6”获得CTA今年与拍卖行佳士得新设的艺术科技类最高奖。Shuolz凭借2款AI鞋登上无障碍·长寿类和时尚科技类榜首，AIBiz（AI）等初创企业、中小企业和大学也获奖。"
+              },
+              {
+                "t": "p",
+                "x": "参评作品激增74%的机器人类最高奖由中国人形机器人企业Galbot的“ET1”摘得。美国虽然只获得5项，但NVIDIA凭借“Vera CPU”和“DLSS 5”拿下计算机硬件和游戏类最高奖，Qualcomm凭借XR平台获得XR类最高奖。"
+              },
+              {
+                "t": "img",
+                "src": "https://img.etnews.com/news/article/2026/11/11/news-t.v1.20261111.298baa5937ea4e60934770e35f71167a_P1.png",
+                "cap": "韩国、中国、美国“CES 2027”最高创新奖获奖名单（资料：CTA）"
+              },
+              {
+                "t": "p",
+                "x": "一位电子业界人士表示：“如果说韩国是在多个类别中均衡获奖，那么美国和中国则是握住了AI半导体和人形机器人等下一代产业的核心。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Corea gana el 61% de los\nmáximos premios de CES 2027",
+          "body": "Corea se llevó el 61% de los máximos premios a la innovación, pero China y EE. UU. ganaron en robots y chips de IA.",
+          "mini_headline": "Corea logra el 61% de los máximos premios de CES",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://img.etnews.com/news/article/2026/11/10/news-p.v1.20261110.5fdedf20293c4a21af1be6aa3526c5f6_P1.jpg",
+                "cap": "El 'LG Signature OLED T', primer televisor transparente e inalámbrico del mundo, ganador de un máximo premio a la innovación de CES 2027"
+              },
+              {
+                "t": "p",
+                "x": "Las empresas coreanas se llevaron más de la mitad de los máximos premios a la innovación de 'CES 2027'. Sin embargo, China y Estados Unidos se quedaron con los máximos galardones en los campos que definirán el liderazgo de las industrias del futuro, como los robots y los semiconductores de inteligencia artificial (IA)."
+              },
+              {
+                "t": "p",
+                "x": "La Asociación de Tecnología de Consumo (CTA) anunció el día 9 (hora local) la primera tanda de ganadores de los Premios a la Innovación de CES 2027. Este año se presentaron unas 4.000 candidaturas, un 10% más que el año anterior y un récord histórico. Tres áreas, IA, salud digital y robótica, sumaron el 25% del total. Al clasificar por país los 38 máximos premios anunciados en la primera tanda, Corea fue el que más obtuvo, con 24 (61%). Le siguieron Estados Unidos con 5 y China con 4, mientras que Alemania, Suecia, Canadá y Japón recibieron uno cada uno."
+              },
+              {
+                "t": "p",
+                "x": "Samsung Electronics obtuvo dos máximos premios en la categoría móvil con el 'Galaxy Z Fold8' y el 'Fold8 Ultra'. LG Electronics ganó, con el 'Signature OLED T6', el máximo premio de la categoría de arte y tecnología, creada este año por la CTA junto con la casa de subastas Christie's. Shuolz encabezó las categorías de accesibilidad y longevidad y de tecnología de la moda con dos zapatos con IA, y también fueron premiadas startups, pymes y universidades como AIBiz (AI)."
+              },
+              {
+                "t": "p",
+                "x": "El máximo premio de robótica, categoría en la que las candidaturas se dispararon un 74%, fue para el 'ET1' de la empresa china de humanoides Galbot. Estados Unidos se quedó en 5, pero NVIDIA ganó los máximos premios de hardware informático y videojuegos con la 'Vera CPU' y 'DLSS 5', y Qualcomm se llevó el de XR con su plataforma XR."
+              },
+              {
+                "t": "img",
+                "src": "https://img.etnews.com/news/article/2026/11/11/news-t.v1.20261111.298baa5937ea4e60934770e35f71167a_P1.png",
+                "cap": "Lista de ganadores de los máximos premios a la innovación de 'CES 2027' de Corea, China y Estados Unidos (Fuente: CTA)"
+              },
+              {
+                "t": "p",
+                "x": "Un responsable del sector electrónico afirmó: «Si Corea ganó de forma pareja en muchas categorías, Estados Unidos y China se hicieron con el núcleo de las industrias de próxima generación, como los semiconductores de IA y los humanoides»."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "alexa-photo-frame-review",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Alexa 포토 프레임\nAI가 사진을 골라준다",
+      "body": "AI가 사진을 골라 주는 Alexa 액자는 Prime 회원에게 가장 잘 맞는다.",
+      "mini_headline": "AI로 사진 고르는 Alexa 액자",
+      "tool": "Gadgets",
+      "source": "Tom's Guide",
+      "url": "https://www.tomsguide.com/home/smart-home/amazon-alexa-photo-frame-review",
       "accent": "#f5a623",
       "motif": "headset",
       "full": {
@@ -793,185 +1597,239 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2024/08/samsung-galaxy-ai-phone-2.jpg?resize=1200%2C720&ssl=1",
-            "cap": "Galaxy AI Andy Boxall / Digital Trends"
+            "src": "https://cdn.mos.cms.futurecdn.net/Z4o6D9xUVqVPSaZ8NmqJX3.jpg",
+            "cap": "(이미지 출처: Future)"
           },
           {
             "t": "p",
-            "x": "새로 유출된 정보를 보면 Samsung은 전용 기능과 더 높은 사용 한도, 월 요금을 갖춘 프리미엄 Galaxy AI 구독을 개발하고 있다. SammyGuru 보도에 따르면 출시되지 않은 Samsung 앱에서 발견된 문구가 상위 Max 요금제를 포함한 Galaxy AI Premium 구독을 가리킨다. 앱 안에는 월 $4.99, 연 $47.99 요금을 시사하는 가격 문자열도 있었다고 한다."
+            "x": "Tom's Guide 평가: Amazon Alexa Photo Frame은 AI로 방대한 사진 컬렉션을 똑똑하게 골라 깔끔하게 보여 준다. 다만 Amazon Prime 구독자에게 가장 잘 맞는다."
+          },
+          {
+            "t": "p",
+            "x": "설정을 마치고 처음 뜬 사진 가운데 하나는 16년 전 세상을 떠난 리뷰어의 아버지가 다람쥐에게 먹이를 주는 흑백 사진이었다. 제대로 쓰려면 Alexa+(월 19달러)나 Amazon Prime 구독(연 149달러)이 필요하다."
           },
           {
             "t": "img",
-            "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/01/galaxy-s25-ultra-galaxy-ai.jpg?resize=3000%2C2000&ssl=1",
-            "cap": "Andy Boxall / Digital Trends"
+            "src": "https://cdn.mos.cms.futurecdn.net/S67kv6Bww23UK4MwXUdanF.jpg",
+            "cap": "(이미지 출처: Future)"
           },
           {
             "t": "p",
-            "x": "Photo Assist, Browsing Assist, Now Brief, Creative Studio, Samsung Keyboard 같은 기존 도구는 구독 없이도 계속 쓸 수 있지만 사용량은 제한될 수 있다. 무료 사용량이 바닥나면 AI 크레딧을 더 사거나, 사용 한도가 네 배로 알려진 Max 구독으로 올려야 할 수도 있다. 유료 이용자에게는 사진을 AI-generated 영상으로 바꾸는 Gen Video와 앱을 넘나들며 작업을 자동화하는 Bixby Action도 열릴 전망이다."
+            "x": "액자는 사진 라이브러리 전체를 훑은 뒤 계절, 테마, 사물, 이벤트별로 사진을 불러온다. 가로 모드로만 작동하지만 세로 사진은 나란히 붙여 보여 준다. Alexa에게 “고양이와 아이들 사진 보여 줘”라고 말하면 맞춤 슬라이드쇼도 띄운다. 엉뚱한 사진이 나왔을 때 “Alexa, 그건 내 딸이 아니야”라고 하자 컬렉션을 고쳤다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.mos.cms.futurecdn.net/2cTbvaaoUPYULcGiLFAkua.jpg",
+            "cap": "(이미지 출처: Future)"
           },
           {
             "t": "p",
-            "x": "유출된 앱에는 20271이라는 AI 버전 요구 사항도 보인다. SammyGuru는 이 숫자가 곧 나올 Galaxy S27 시리즈를 가리킬 수 있다고 본다. Samsung은 Galaxy AI Premium을 공식 발표하지 않았고, 유출된 가격과 기능은 출시 전에 바뀔 수 있다."
+            "x": "Alexa+ 스마트 스피커 역할도 하고 사진에 짧은 음성 메모를 붙일 수도 있다. 사양만 보면 229달러짜리 Aura Aspen, 179달러짜리 Lexar Pexar 같은 경쟁 제품보다 떨어지고 동영상도 재생하지 못한다. 그래도 Amazon이 Alexa+로 구현한 것만큼 모든 사진을 손쉽게 골라 주는 제품은 없다. 가격은 199.99달러다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Samsung tests a paid\nGalaxy AI Premium tier",
-          "body": "Samsung is reportedly testing a $4.99 monthly Galaxy AI Premium plan whose usage limits could reshape free features.",
-          "mini_headline": "Galaxy AI Premium at $4.99",
+          "headline": "Amazon's Alexa Photo Frame\nlets AI curate your photos",
+          "body": "Tom's Guide finds the Alexa Photo Frame uses AI to curate large photo libraries, and it suits Prime subscribers best.",
+          "mini_headline": "Alexa Photo Frame\ncurates with AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2024/08/samsung-galaxy-ai-phone-2.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Galaxy AI Andy Boxall / Digital Trends"
+                "src": "https://cdn.mos.cms.futurecdn.net/Z4o6D9xUVqVPSaZ8NmqJX3.jpg",
+                "cap": "(Image credit: Future)"
               },
               {
                 "t": "p",
-                "x": "A new leak suggests Samsung is developing a premium Galaxy AI subscription, complete with exclusive features, higher usage limits, and a monthly fee. According to a report from SammyGuru, references discovered in an unreleased Samsung app point to a Galaxy AI Premium subscription with a higher-end Max plan. The app reportedly contains pricing strings suggesting a monthly fee of $4.99, or $47.99 annually."
+                "x": "Tom's Guide verdict: The Amazon Alexa Photo Frame uses AI to smartly curate your huge collection of pictures, and present them in an orderly fashion. However, it's best for those who have an Amazon Prime subscription."
+              },
+              {
+                "t": "p",
+                "x": "After setup, one of the first images it displayed was a black-and-white picture of the reviewer's father, deceased for 16 years, feeding a squirrel. To get the most out of it, you need either an Alexa+ ($19/month) or an Amazon Prime subscription ($149/year)."
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/01/galaxy-s25-ultra-galaxy-ai.jpg?resize=3000%2C2000&ssl=1",
-                "cap": "Andy Boxall / Digital Trends"
+                "src": "https://cdn.mos.cms.futurecdn.net/S67kv6Bww23UK4MwXUdanF.jpg",
+                "cap": "(Image credit: Future)"
               },
               {
                 "t": "p",
-                "x": "Existing tools such as Photo Assist, Browsing Assist, Now Brief, Creative Studio, and Samsung Keyboard would remain accessible without a subscription, but their usage could be limited. Once users exhaust their free allowance, they might have to purchase additional AI credits or upgrade to the Max subscription, which reportedly offers four times the usage allowance. Paying customers could also unlock Gen Video, which turns photos into AI-generated videos, and Bixby Action, a tool for automating tasks across apps."
+                "x": "It combs through your entire library of images, then pulls them up based on criteria such as the time of year, themes, objects, and events. It works only in landscape mode, but pairs portrait photos side by side. You can also ask Alexa to “show me photos of cats and kids” for a curated slideshow; when wrong photos appeared, saying “Alexa, that's not my daughter” made it edit the collection."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/2cTbvaaoUPYULcGiLFAkua.jpg",
+                "cap": "(Image credit: Future)"
               },
               {
                 "t": "p",
-                "x": "The leaked app also references an AI version requirement labeled 20271, which SammyGuru believes could point to the upcoming Galaxy S27 series. Samsung hasn't officially announced Galaxy AI Premium, and the leaked prices and features could change before launch."
+                "x": "It doubles as an Alexa+ smart speaker and lets you attach short audio notes to pictures. Specs-wise it trails rivals such as the $229 Aura Aspen and $179 Lexar Pexar, and it can't play videos — but neither makes curating all your photos as effortless as Amazon does with Alexa+. It sells for $199.99."
               }
             ]
           }
         },
         "ko": {
-          "headline": "유료 Galaxy AI\nPremium 시험 중",
-          "body": "Samsung이 월 $4.99 Galaxy AI Premium을 시험 중이라 한다.",
-          "mini_headline": "Galaxy AI Premium $4.99",
+          "headline": "Alexa 포토 프레임\nAI가 사진을 골라준다",
+          "body": "AI가 사진을 골라 주는 Alexa 액자는 Prime 회원에게 가장 잘 맞는다.",
+          "mini_headline": "AI로 사진 고르는 Alexa 액자",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2024/08/samsung-galaxy-ai-phone-2.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Galaxy AI Andy Boxall / Digital Trends"
+                "src": "https://cdn.mos.cms.futurecdn.net/Z4o6D9xUVqVPSaZ8NmqJX3.jpg",
+                "cap": "(이미지 출처: Future)"
               },
               {
                 "t": "p",
-                "x": "새로 유출된 정보를 보면 Samsung은 전용 기능과 더 높은 사용 한도, 월 요금을 갖춘 프리미엄 Galaxy AI 구독을 개발하고 있다. SammyGuru 보도에 따르면 출시되지 않은 Samsung 앱에서 발견된 문구가 상위 Max 요금제를 포함한 Galaxy AI Premium 구독을 가리킨다. 앱 안에는 월 $4.99, 연 $47.99 요금을 시사하는 가격 문자열도 있었다고 한다."
+                "x": "Tom's Guide 평가: Amazon Alexa Photo Frame은 AI로 방대한 사진 컬렉션을 똑똑하게 골라 깔끔하게 보여 준다. 다만 Amazon Prime 구독자에게 가장 잘 맞는다."
+              },
+              {
+                "t": "p",
+                "x": "설정을 마치고 처음 뜬 사진 가운데 하나는 16년 전 세상을 떠난 리뷰어의 아버지가 다람쥐에게 먹이를 주는 흑백 사진이었다. 제대로 쓰려면 Alexa+(월 19달러)나 Amazon Prime 구독(연 149달러)이 필요하다."
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/01/galaxy-s25-ultra-galaxy-ai.jpg?resize=3000%2C2000&ssl=1",
-                "cap": "Andy Boxall / Digital Trends"
+                "src": "https://cdn.mos.cms.futurecdn.net/S67kv6Bww23UK4MwXUdanF.jpg",
+                "cap": "(이미지 출처: Future)"
               },
               {
                 "t": "p",
-                "x": "Photo Assist, Browsing Assist, Now Brief, Creative Studio, Samsung Keyboard 같은 기존 도구는 구독 없이도 계속 쓸 수 있지만 사용량은 제한될 수 있다. 무료 사용량이 바닥나면 AI 크레딧을 더 사거나, 사용 한도가 네 배로 알려진 Max 구독으로 올려야 할 수도 있다. 유료 이용자에게는 사진을 AI-generated 영상으로 바꾸는 Gen Video와 앱을 넘나들며 작업을 자동화하는 Bixby Action도 열릴 전망이다."
+                "x": "액자는 사진 라이브러리 전체를 훑은 뒤 계절, 테마, 사물, 이벤트별로 사진을 불러온다. 가로 모드로만 작동하지만 세로 사진은 나란히 붙여 보여 준다. Alexa에게 “고양이와 아이들 사진 보여 줘”라고 말하면 맞춤 슬라이드쇼도 띄운다. 엉뚱한 사진이 나왔을 때 “Alexa, 그건 내 딸이 아니야”라고 하자 컬렉션을 고쳤다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/2cTbvaaoUPYULcGiLFAkua.jpg",
+                "cap": "(이미지 출처: Future)"
               },
               {
                 "t": "p",
-                "x": "유출된 앱에는 20271이라는 AI 버전 요구 사항도 보인다. SammyGuru는 이 숫자가 곧 나올 Galaxy S27 시리즈를 가리킬 수 있다고 본다. Samsung은 Galaxy AI Premium을 공식 발표하지 않았고, 유출된 가격과 기능은 출시 전에 바뀔 수 있다."
+                "x": "Alexa+ 스마트 스피커 역할도 하고 사진에 짧은 음성 메모를 붙일 수도 있다. 사양만 보면 229달러짜리 Aura Aspen, 179달러짜리 Lexar Pexar 같은 경쟁 제품보다 떨어지고 동영상도 재생하지 못한다. 그래도 Amazon이 Alexa+로 구현한 것만큼 모든 사진을 손쉽게 골라 주는 제품은 없다. 가격은 199.99달러다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "有料Galaxy AI\nPremiumを試験中",
-          "body": "Samsungが月額$4.99のGalaxy AI Premiumを試験中と報じられた。",
-          "mini_headline": "Galaxy AI Premiumは$4.99",
+          "headline": "AmazonのAlexa\nフォトフレームはAIが厳選",
+          "body": "AIが写真を選ぶAlexaのフォトフレームは、Prime会員に最も向いている。",
+          "mini_headline": "AIが選ぶAlexaフォトフレーム",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2024/08/samsung-galaxy-ai-phone-2.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Galaxy AI Andy Boxall / Digital Trends"
+                "src": "https://cdn.mos.cms.futurecdn.net/Z4o6D9xUVqVPSaZ8NmqJX3.jpg",
+                "cap": "（画像提供：Future）"
               },
               {
                 "t": "p",
-                "x": "新たなリークによると、Samsungは専用機能、より高い利用上限、月額料金を備えたプレミアムなGalaxy AIサブスクリプションを開発している。SammyGuruの報道では、未公開のSamsungアプリで見つかった記述が、上位のMaxプランを含むGalaxy AI Premiumサブスクリプションを示しているという。アプリには月額$4.99、年額$47.99を示唆する価格の文字列が含まれているとされる。"
+                "x": "Tom's Guideの評価：Amazon Alexa Photo Frameは、AIで膨大な写真コレクションを賢く選別し、整然と表示する。ただし、Amazon Primeの会員に最も向いている。"
+              },
+              {
+                "t": "p",
+                "x": "セットアップ後、最初に表示された写真の一枚は、16年前に亡くなったレビュアーの父親がリスに餌をやる白黒写真だった。最大限に活用するには、Alexa+（月額19ドル）かAmazon Primeの会員（年額149ドル）が必要だ。"
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/01/galaxy-s25-ultra-galaxy-ai.jpg?resize=3000%2C2000&ssl=1",
-                "cap": "Andy Boxall / Digital Trends"
+                "src": "https://cdn.mos.cms.futurecdn.net/S67kv6Bww23UK4MwXUdanF.jpg",
+                "cap": "（画像提供：Future）"
               },
               {
                 "t": "p",
-                "x": "Photo Assist、Browsing Assist、Now Brief、Creative Studio、Samsung Keyboardといった既存ツールはサブスクリプションなしでも使えるが、利用量が制限される可能性がある。無料枠を使い切ると、追加のAIクレジットを購入するか、利用枠が四倍とされるMaxサブスクリプションへのアップグレードが必要になるかもしれない。有料ユーザーは、写真をAI-generatedの動画に変えるGen Videoや、アプリをまたいでタスクを自動化するBixby Actionも利用できるようになる可能性がある。"
+                "x": "写真ライブラリ全体をくまなく調べ、季節、テーマ、物、イベントといった基準で写真を呼び出す。横向きモードでしか動作しないが、縦向きの写真は横に並べて表示する。Alexaに「猫と子どもの写真を見せて」と頼めば、厳選されたスライドショーも見られる。違う写真が出たときに「Alexa、それは私の娘じゃない」と言うと、コレクションを修正した。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/2cTbvaaoUPYULcGiLFAkua.jpg",
+                "cap": "（画像提供：Future）"
               },
               {
                 "t": "p",
-                "x": "流出したアプリには20271というAIバージョン要件も記されており、SammyGuruはこれが今後のGalaxy S27シリーズを指す可能性があるとみている。SamsungはGalaxy AI Premiumを正式に発表しておらず、流出した価格や機能は発売前に変わる可能性がある。"
+                "x": "Alexa+対応のスマートスピーカーとしても使え、写真に短い音声メモを添えられる。スペック面では229ドルのAura Aspenや179ドルのLexar Pexarといった競合に劣り、動画も再生できない。だが、Alexa+を使ったAmazonほど、すべての写真の選別を手軽にしてくれる製品はない。価格は199.99ドルだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "付费版Galaxy AI\nPremium测试中",
-          "body": "据报道，Samsung正在测试每月$4.99的Galaxy AI Premium方案。",
-          "mini_headline": "Galaxy AI Premium定价$4.99",
+          "headline": "Amazon Alexa相框\n让AI替你挑照片",
+          "body": "Tom's Guide认为，Alexa相框能用AI整理海量照片，最适合Prime会员。",
+          "mini_headline": "AI挑照片的Alexa相框",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2024/08/samsung-galaxy-ai-phone-2.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Galaxy AI Andy Boxall / Digital Trends"
+                "src": "https://cdn.mos.cms.futurecdn.net/Z4o6D9xUVqVPSaZ8NmqJX3.jpg",
+                "cap": "（图片来源：Future）"
               },
               {
                 "t": "p",
-                "x": "一则新的爆料显示，Samsung正在开发一项高级Galaxy AI订阅服务，包含独家功能、更高的使用上限并按月收费。据SammyGuru报道，在一款未发布的Samsung应用中发现的线索指向Galaxy AI Premium订阅，以及更高端的Max方案。据称，该应用包含的价格字符串显示月费为$4.99，年费为$47.99。"
+                "x": "Tom's Guide评测结论：Amazon Alexa Photo Frame利用AI巧妙地整理你的海量照片，并有条理地呈现出来。不过，它最适合拥有Amazon Prime订阅的用户。"
+              },
+              {
+                "t": "p",
+                "x": "完成设置后，它最先显示的照片之一，是评测者已去世16年的父亲给松鼠喂食的黑白照片。要充分发挥它的作用，你需要订阅Alexa+（每月19美元）或Amazon Prime（每年149美元）。"
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/01/galaxy-s25-ultra-galaxy-ai.jpg?resize=3000%2C2000&ssl=1",
-                "cap": "Andy Boxall / Digital Trends"
+                "src": "https://cdn.mos.cms.futurecdn.net/S67kv6Bww23UK4MwXUdanF.jpg",
+                "cap": "（图片来源：Future）"
               },
               {
                 "t": "p",
-                "x": "Photo Assist、Browsing Assist、Now Brief、Creative Studio和Samsung Keyboard等现有工具无需订阅仍可使用，但用量可能受限。用户用完免费额度后，可能需要购买额外的AI点数，或升级到据称提供四倍用量的Max订阅。付费用户还可能解锁Gen Video和Bixby Action，前者可将照片转换为AI-generated视频，后者可跨应用自动执行任务。"
+                "x": "它会梳理你的整个照片库，再按一年中的时节、主题、物体和事件等标准调出照片。它只支持横屏模式，但会把竖拍照片并排显示。你还可以让Alexa“给我看猫和孩子的照片”，获得一段精选幻灯片；出现错误照片时，说一句“Alexa，那不是我女儿”，它就会修改照片集。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/2cTbvaaoUPYULcGiLFAkua.jpg",
+                "cap": "（图片来源：Future）"
               },
               {
                 "t": "p",
-                "x": "泄露的应用还提到了一个标为20271的AI版本要求，SammyGuru认为这可能指向即将推出的Galaxy S27系列。Samsung尚未正式发布Galaxy AI Premium，泄露的价格和功能在发布前可能发生变化。"
+                "x": "它还可以兼作Alexa+智能音箱，并能为照片附上简短的语音备注。在规格上，它不及229美元的Aura Aspen和179美元的Lexar Pexar等竞品，也无法播放视频——但没有哪款产品能像Amazon借助Alexa+那样，让整理全部照片变得如此轻松。售价为199.99美元。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Samsung prueba un nivel de pago\nGalaxy AI Premium",
-          "body": "Samsung estaría probando un plan Galaxy AI Premium de $4.99 al mes que podría limitar las funciones gratuitas.",
-          "mini_headline": "Galaxy AI Premium por $4.99",
+          "headline": "Amazon Alexa Photo Frame deja\nque la IA seleccione sus fotos",
+          "body": "Según Tom's Guide, el Alexa Photo Frame usa IA para curar grandes colecciones de fotos y encaja mejor con Prime.",
+          "mini_headline": "Alexa Photo Frame cura fotos con IA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2024/08/samsung-galaxy-ai-phone-2.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Galaxy AI Andy Boxall / Digital Trends"
+                "src": "https://cdn.mos.cms.futurecdn.net/Z4o6D9xUVqVPSaZ8NmqJX3.jpg",
+                "cap": "(Crédito de la imagen: Future)"
               },
               {
                 "t": "p",
-                "x": "Una nueva filtración indica que Samsung está desarrollando una suscripción premium de Galaxy AI, con funciones exclusivas, límites de uso más altos y una cuota mensual. Según un informe de SammyGuru, referencias halladas en una app de Samsung aún no publicada apuntan a una suscripción Galaxy AI Premium con un plan Max de gama superior. Al parecer, la app contiene cadenas de precios que sugieren una cuota de $4.99 al mes, o $47.99 al año."
+                "x": "Veredicto de Tom's Guide: el Amazon Alexa Photo Frame usa IA para seleccionar con inteligencia tu enorme colección de fotos y mostrarlas de forma ordenada. Sin embargo, es más adecuado para quienes tienen una suscripción a Amazon Prime."
+              },
+              {
+                "t": "p",
+                "x": "Tras la configuración, una de las primeras imágenes que mostró fue una foto en blanco y negro del padre del autor de la reseña, fallecido hace 16 años, dando de comer a una ardilla. Para aprovecharlo al máximo se necesita Alexa+ ($19 al mes) o una suscripción a Amazon Prime ($149 al año)."
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/01/galaxy-s25-ultra-galaxy-ai.jpg?resize=3000%2C2000&ssl=1",
-                "cap": "Andy Boxall / Digital Trends"
+                "src": "https://cdn.mos.cms.futurecdn.net/S67kv6Bww23UK4MwXUdanF.jpg",
+                "cap": "(Crédito de la imagen: Future)"
               },
               {
                 "t": "p",
-                "x": "Herramientas existentes como Photo Assist, Browsing Assist, Now Brief, Creative Studio y Samsung Keyboard seguirían disponibles sin suscripción, pero su uso podría estar limitado. Cuando los usuarios agoten su cuota gratuita, quizá tengan que comprar créditos de AI adicionales o pasar a la suscripción Max, que según se informa ofrece cuatro veces más uso. Los clientes de pago también podrían desbloquear Gen Video, que convierte fotos en videos AI-generated, y Bixby Action, una herramienta para automatizar tareas entre apps."
+                "x": "Revisa toda la biblioteca de imágenes y luego las muestra según criterios como la época del año, temas, objetos y eventos. Solo funciona en modo horizontal, pero coloca las fotos verticales una junto a otra. También se le puede pedir a Alexa «muéstrame fotos de gatos y niños» para obtener una presentación seleccionada; cuando aparecieron fotos equivocadas, decir «Alexa, esa no es mi hija» hizo que corrigiera la colección."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/2cTbvaaoUPYULcGiLFAkua.jpg",
+                "cap": "(Crédito de la imagen: Future)"
               },
               {
                 "t": "p",
-                "x": "La app filtrada también menciona un requisito de versión de AI etiquetado como 20271, que según SammyGuru podría apuntar a la próxima serie Galaxy S27. Samsung no ha anunciado oficialmente Galaxy AI Premium, y los precios y funciones filtrados podrían cambiar antes del lanzamiento."
+                "x": "También funciona como altavoz inteligente con Alexa+ y permite añadir notas de audio breves a las fotos. En especificaciones queda por detrás de rivales como el Aura Aspen de $229 y el Lexar Pexar de $179, y no reproduce videos, pero ninguno hace tan sencillo seleccionar todas tus fotos como Amazon con Alexa+. Se vende por $199,99."
               }
             ]
           }
@@ -979,713 +1837,165 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "유료 Galaxy AI\nPremium 시험 중",
-          "body": "Samsung이 월 $4.99 Galaxy AI Premium을 시험한다는 보도다.",
-          "mini_headline": "Galaxy AI Premium $4.99",
+          "headline": "Alexa 포토 프레임,\nAI가 사진을 골라준다",
+          "body": "AI로 사진을 골라 주는 Alexa 액자는 Prime 회원에게 가장 알맞다.",
+          "mini_headline": "AI로 사진 고르는 Alexa 액자",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2024/08/samsung-galaxy-ai-phone-2.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Galaxy AI Andy Boxall / Digital Trends"
+                "src": "https://cdn.mos.cms.futurecdn.net/Z4o6D9xUVqVPSaZ8NmqJX3.jpg",
+                "cap": "(이미지 출처: Future)"
               },
               {
                 "t": "p",
-                "x": "새로 유출된 정보에 따르면 Samsung은 전용 기능과 더 높은 사용 한도, 월 요금을 갖춘 프리미엄 Galaxy AI 구독을 개발하고 있다. SammyGuru 보도에 따르면 출시되지 않은 Samsung 앱에서 발견된 문구는 상위 Max 요금제를 포함한 Galaxy AI Premium 구독을 가리킨다. 이 앱에는 월 $4.99, 연 $47.99의 요금을 시사하는 가격 문자열이 들어 있는 것으로 전해졌다."
+                "x": "Tom's Guide 평가: Amazon Alexa Photo Frame은 AI로 방대한 사진 컬렉션을 똑똑하게 골라 정돈된 방식으로 보여 준다. 다만 Amazon Prime 구독자에게 가장 잘 맞는다."
+              },
+              {
+                "t": "p",
+                "x": "설정을 마친 뒤 처음 띄운 사진 가운데 하나는 16년 전 세상을 떠난 리뷰어의 아버지가 다람쥐에게 먹이를 주는 흑백 사진이었다. 제대로 활용하려면 Alexa+(월 19달러)나 Amazon Prime 구독(연 149달러)이 필요하다."
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/01/galaxy-s25-ultra-galaxy-ai.jpg?resize=3000%2C2000&ssl=1",
-                "cap": "Andy Boxall / Digital Trends"
+                "src": "https://cdn.mos.cms.futurecdn.net/S67kv6Bww23UK4MwXUdanF.jpg",
+                "cap": "(이미지 출처: Future)"
               },
               {
                 "t": "p",
-                "x": "Photo Assist, Browsing Assist, Now Brief, Creative Studio, Samsung Keyboard 같은 기존 도구는 구독 없이도 계속 쓸 수 있지만 사용량이 제한될 수 있다. 무료 사용량을 다 쓰면 AI 크레딧을 추가로 사거나, 사용 한도가 네 배인 것으로 알려진 Max 구독으로 올려야 할 수 있다. 유료 이용자는 사진을 AI-generated 영상으로 바꾸는 Gen Video와 앱을 넘나들며 작업을 자동화하는 Bixby Action도 쓸 수 있게 될 전망이다."
+                "x": "이 액자는 사진 라이브러리 전체를 훑은 뒤 계절, 테마, 사물, 이벤트 같은 기준에 따라 사진을 불러온다. 가로 모드로만 작동하지만 세로 사진은 나란히 붙여 보여 준다. Alexa에게 “고양이와 아이들 사진 보여 줘”라고 하면 큐레이션된 슬라이드쇼도 볼 수 있다. 엉뚱한 사진이 나왔을 때 “Alexa, 그건 내 딸이 아니야”라고 말하자 컬렉션을 수정했다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/2cTbvaaoUPYULcGiLFAkua.jpg",
+                "cap": "(이미지 출처: Future)"
               },
               {
                 "t": "p",
-                "x": "유출된 앱에는 20271이라는 AI 버전 요구 사항도 나오는데, SammyGuru는 이것이 곧 나올 Galaxy S27 시리즈를 가리킬 수 있다고 본다. Samsung은 Galaxy AI Premium을 공식 발표하지 않았으며, 유출된 가격과 기능은 출시 전에 바뀔 수 있다."
+                "x": "Alexa+ 스마트 스피커 역할도 하고, 사진에 짧은 음성 메모를 붙일 수도 있다. 사양 면에서는 229달러짜리 Aura Aspen, 179달러짜리 Lexar Pexar 같은 경쟁 제품에 뒤지고 동영상도 재생하지 못한다. 하지만 어느 쪽도 Amazon이 Alexa+로 구현한 것만큼 모든 사진을 손쉽게 골라 주지는 못한다. 가격은 199.99달러다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "有料Galaxy AI\nPremiumを試験中",
-          "body": "Samsungが月額$4.99のGalaxy AI Premiumを試験中と報じられた。",
-          "mini_headline": "Galaxy AI Premiumは$4.99",
+          "headline": "AmazonのAlexa\nフォトフレームはAIが厳選",
+          "body": "AIが写真を選ぶAlexaのフォトフレームは、Prime会員に最も向いている。",
+          "mini_headline": "AIが選ぶAlexaフォトフレーム",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2024/08/samsung-galaxy-ai-phone-2.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Galaxy AI Andy Boxall / Digital Trends"
+                "src": "https://cdn.mos.cms.futurecdn.net/Z4o6D9xUVqVPSaZ8NmqJX3.jpg",
+                "cap": "（画像提供：Future）"
               },
               {
                 "t": "p",
-                "x": "新たなリークによると、Samsungは専用機能、より高い利用上限、月額料金を備えたプレミアムなGalaxy AIサブスクリプションを開発している。SammyGuruの報道では、未公開のSamsungアプリで見つかった記述が、上位のMaxプランを含むGalaxy AI Premiumサブスクリプションを示しているという。アプリには月額$4.99、年額$47.99を示唆する価格の文字列が含まれているとされる。"
+                "x": "Tom's Guideの評価：Amazon Alexa Photo Frameは、AIで膨大な写真コレクションを賢く選別し、整然と表示する。ただし、Amazon Primeの会員に最も向いている。"
+              },
+              {
+                "t": "p",
+                "x": "セットアップ後、最初に表示された写真の一枚は、16年前に亡くなったレビュアーの父親がリスに餌をやる白黒写真だった。最大限に活用するには、Alexa+（月額19ドル）かAmazon Primeの会員（年額149ドル）が必要だ。"
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/01/galaxy-s25-ultra-galaxy-ai.jpg?resize=3000%2C2000&ssl=1",
-                "cap": "Andy Boxall / Digital Trends"
+                "src": "https://cdn.mos.cms.futurecdn.net/S67kv6Bww23UK4MwXUdanF.jpg",
+                "cap": "（画像提供：Future）"
               },
               {
                 "t": "p",
-                "x": "Photo Assist、Browsing Assist、Now Brief、Creative Studio、Samsung Keyboardといった既存ツールはサブスクリプションなしでも使えるが、利用量が制限される可能性がある。無料枠を使い切ると、追加のAIクレジットを購入するか、利用枠が四倍とされるMaxサブスクリプションへのアップグレードが必要になるかもしれない。有料ユーザーは、写真をAI-generatedの動画に変えるGen Videoや、アプリをまたいでタスクを自動化するBixby Actionも利用できるようになる可能性がある。"
+                "x": "写真ライブラリ全体をくまなく調べ、季節、テーマ、物、イベントといった基準で写真を呼び出す。横向きモードでしか動作しないが、縦向きの写真は横に並べて表示する。Alexaに「猫と子どもの写真を見せて」と頼めば、厳選されたスライドショーも見られる。違う写真が出たときに「Alexa、それは私の娘じゃない」と言うと、コレクションを修正した。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/2cTbvaaoUPYULcGiLFAkua.jpg",
+                "cap": "（画像提供：Future）"
               },
               {
                 "t": "p",
-                "x": "流出したアプリには20271というAIバージョン要件も記されており、SammyGuruはこれが今後のGalaxy S27シリーズを指す可能性があるとみている。SamsungはGalaxy AI Premiumを正式に発表しておらず、流出した価格や機能は発売前に変わる可能性がある。"
+                "x": "Alexa+対応のスマートスピーカーとしても使え、写真に短い音声メモを添えられる。スペック面では229ドルのAura Aspenや179ドルのLexar Pexarといった競合に劣り、動画も再生できない。だが、Alexa+を使ったAmazonほど、すべての写真の選別を手軽にしてくれる製品はない。価格は199.99ドルだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "付费版Galaxy AI\nPremium测试中",
-          "body": "据报道，Samsung正在测试每月$4.99的Galaxy AI Premium方案。",
-          "mini_headline": "Galaxy AI Premium定价$4.99",
+          "headline": "Amazon Alexa相框\n让AI替你挑照片",
+          "body": "Tom's Guide认为，Alexa相框能用AI整理海量照片，最适合Prime会员。",
+          "mini_headline": "AI挑照片的Alexa相框",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2024/08/samsung-galaxy-ai-phone-2.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Galaxy AI Andy Boxall / Digital Trends"
+                "src": "https://cdn.mos.cms.futurecdn.net/Z4o6D9xUVqVPSaZ8NmqJX3.jpg",
+                "cap": "（图片来源：Future）"
               },
               {
                 "t": "p",
-                "x": "一则新的爆料显示，Samsung正在开发一项高级Galaxy AI订阅服务，包含独家功能、更高的使用上限并按月收费。据SammyGuru报道，在一款未发布的Samsung应用中发现的线索指向Galaxy AI Premium订阅，以及更高端的Max方案。据称，该应用包含的价格字符串显示月费为$4.99，年费为$47.99。"
+                "x": "Tom's Guide评测结论：Amazon Alexa Photo Frame利用AI巧妙地整理你的海量照片，并有条理地呈现出来。不过，它最适合拥有Amazon Prime订阅的用户。"
+              },
+              {
+                "t": "p",
+                "x": "完成设置后，它最先显示的照片之一，是评测者已去世16年的父亲给松鼠喂食的黑白照片。要充分发挥它的作用，你需要订阅Alexa+（每月19美元）或Amazon Prime（每年149美元）。"
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/01/galaxy-s25-ultra-galaxy-ai.jpg?resize=3000%2C2000&ssl=1",
-                "cap": "Andy Boxall / Digital Trends"
+                "src": "https://cdn.mos.cms.futurecdn.net/S67kv6Bww23UK4MwXUdanF.jpg",
+                "cap": "（图片来源：Future）"
               },
               {
                 "t": "p",
-                "x": "Photo Assist、Browsing Assist、Now Brief、Creative Studio和Samsung Keyboard等现有工具无需订阅仍可使用，但用量可能受限。用户用完免费额度后，可能需要购买额外的AI点数，或升级到据称提供四倍用量的Max订阅。付费用户还可能解锁Gen Video和Bixby Action，前者可将照片转换为AI-generated视频，后者可跨应用自动执行任务。"
+                "x": "它会梳理你的整个照片库，再按一年中的时节、主题、物体和事件等标准调出照片。它只支持横屏模式，但会把竖拍照片并排显示。你还可以让Alexa“给我看猫和孩子的照片”，获得一段精选幻灯片；出现错误照片时，说一句“Alexa，那不是我女儿”，它就会修改照片集。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/2cTbvaaoUPYULcGiLFAkua.jpg",
+                "cap": "（图片来源：Future）"
               },
               {
                 "t": "p",
-                "x": "泄露的应用还提到了一个标为20271的AI版本要求，SammyGuru认为这可能指向即将推出的Galaxy S27系列。Samsung尚未正式发布Galaxy AI Premium，泄露的价格和功能在发布前可能发生变化。"
+                "x": "它还可以兼作Alexa+智能音箱，并能为照片附上简短的语音备注。在规格上，它不及229美元的Aura Aspen和179美元的Lexar Pexar等竞品，也无法播放视频——但没有哪款产品能像Amazon借助Alexa+那样，让整理全部照片变得如此轻松。售价为199.99美元。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Samsung prueba un nivel de pago\nGalaxy AI Premium",
-          "body": "Samsung estaría probando un plan Galaxy AI Premium de $4.99 al mes que podría limitar las funciones gratuitas.",
-          "mini_headline": "Galaxy AI Premium por $4.99",
+          "headline": "Amazon Alexa Photo Frame deja\nque la IA seleccione sus fotos",
+          "body": "Según Tom's Guide, el Alexa Photo Frame usa IA para curar grandes colecciones de fotos y encaja mejor con Prime.",
+          "mini_headline": "Alexa Photo Frame cura fotos con IA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2024/08/samsung-galaxy-ai-phone-2.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Galaxy AI Andy Boxall / Digital Trends"
+                "src": "https://cdn.mos.cms.futurecdn.net/Z4o6D9xUVqVPSaZ8NmqJX3.jpg",
+                "cap": "(Crédito de la imagen: Future)"
               },
               {
                 "t": "p",
-                "x": "Una nueva filtración indica que Samsung está desarrollando una suscripción premium de Galaxy AI, con funciones exclusivas, límites de uso más altos y una cuota mensual. Según un informe de SammyGuru, referencias halladas en una app de Samsung aún no publicada apuntan a una suscripción Galaxy AI Premium con un plan Max de gama superior. Al parecer, la app contiene cadenas de precios que sugieren una cuota de $4.99 al mes, o $47.99 al año."
+                "x": "Veredicto de Tom's Guide: el Amazon Alexa Photo Frame usa IA para seleccionar con inteligencia tu enorme colección de fotos y mostrarlas de forma ordenada. Sin embargo, es más adecuado para quienes tienen una suscripción a Amazon Prime."
+              },
+              {
+                "t": "p",
+                "x": "Tras la configuración, una de las primeras imágenes que mostró fue una foto en blanco y negro del padre del autor de la reseña, fallecido hace 16 años, dando de comer a una ardilla. Para aprovecharlo al máximo se necesita Alexa+ ($19 al mes) o una suscripción a Amazon Prime ($149 al año)."
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/01/galaxy-s25-ultra-galaxy-ai.jpg?resize=3000%2C2000&ssl=1",
-                "cap": "Andy Boxall / Digital Trends"
+                "src": "https://cdn.mos.cms.futurecdn.net/S67kv6Bww23UK4MwXUdanF.jpg",
+                "cap": "(Crédito de la imagen: Future)"
               },
               {
                 "t": "p",
-                "x": "Herramientas existentes como Photo Assist, Browsing Assist, Now Brief, Creative Studio y Samsung Keyboard seguirían disponibles sin suscripción, pero su uso podría estar limitado. Cuando los usuarios agoten su cuota gratuita, quizá tengan que comprar créditos de AI adicionales o pasar a la suscripción Max, que según se informa ofrece cuatro veces más uso. Los clientes de pago también podrían desbloquear Gen Video, que convierte fotos en videos AI-generated, y Bixby Action, una herramienta para automatizar tareas entre apps."
-              },
-              {
-                "t": "p",
-                "x": "La app filtrada también menciona un requisito de versión de AI etiquetado como 20271, que según SammyGuru podría apuntar a la próxima serie Galaxy S27. Samsung no ha anunciado oficialmente Galaxy AI Premium, y los precios y funciones filtrados podrían cambiar antes del lanzamiento."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "gadgets-meta-muse-wearos",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Meta의 Muse AI\nWear OS에 상륙",
-      "body": "Meta Muse AI가 Charm보다 앞서 Android Wear OS에 왔다.",
-      "mini_headline": "Muse, Wear OS 상륙",
-      "tool": "Gadgets",
-      "source": "Android Authority",
-      "url": "https://www.androidauthority.com/meta-muse-ai-wear-os-3733785/",
-      "accent": "#7928ca",
-      "motif": "headset",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/meta-muse-ai-voice-conversations-hero-image.jpg"
-          },
-          {
-            "t": "p",
-            "x": "Meta의 Muse AI 에이전트는 귀엽고 매력적인 비주얼과 무료 이용자에게도 넉넉한 혜택 덕에 꾸준히 관심을 끌고 있다. Meta는 지난주 Muse에 음성 모드를 넣어 Gemini Live처럼 AI 에이전트와 말로 대화할 수 있게 했다. 이번에는 스마트워치 이용자에게도 계속 머물 이유를 하나 더 내놓았다."
-          },
-          {
-            "t": "p",
-            "x": "X의 공식 Muse 계정은 오늘 앞서 마스코트가 스마트워치를 찬 재치 있는 이미지를 올렸는데, 그 시계에서도 Muse가 돌아가고 있다. 함께 올린 문구에서도 Muse가 이제 손목에서 바로 “쉬지 않고 일할 수 있다”고 밝혀 Wear OS와 Apple Watch에서 앱을 쓸 수 있다는 점을 뒷받침한다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Screenshot-2026-11-11-at-3.59.50-PM.png"
-          },
-          {
-            "t": "p",
-            "x": "이미지상으로는 텍스트, 받아쓰기, 음성 대화 세 가지 입력 방식이 지원된다. Gadgets and Wearables에 따르면 Apple Watch 이용자는 빠르게 실행할 수 있는 전용 워치페이스 컴플리케이션도 받는다. Wear OS도 마찬가지인지는 확인하지 못했다."
-          },
-          {
-            "t": "p",
-            "x": "물론 에이전트가 Wear OS 스마트워치에서 직접 돌아가지는 않는다. 스마트워치는 휴대폰에서 실행되는 작업을 제어하는 허브 역할만 한다. 이용자는 작업을 승인하거나 이미 진행 중인 작업의 현황을 볼 수 있을 것이다. Meta가 곧 내놓을 웨어러블 Muse Charm에 마스코트가 나타나는 방식과 비슷하다. 스마트워치에서 바로 결제할 수 있는지는 Meta가 밝히지 않았다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Meta's Muse AI agent\narrives on Wear OS",
-          "body": "Meta's Muse AI agent now runs on Wear OS watches, reaching Android wrists before Meta's own Charm wearable.",
-          "mini_headline": "Muse lands on Wear OS",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/meta-muse-ai-voice-conversations-hero-image.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Meta's Muse AI agent is steadily gaining traction for its cute, attractive visuals and a broader set of benefits for free users. Last week, Meta added a voice mode to Muse, letting you interact with the AI agent in a fashion similar to Gemini Live. And now, Meta is offering another reason for smartwatch users to stick."
-              },
-              {
-                "t": "p",
-                "x": "Earlier today, the official Muse account on X posted a cheeky image of its mascot wearing smartwatches, which can also be seen running Muse. The caption accompanying the media also confirms that Muse can now “work around the clock” directly from your wrist, further confirming the app's availability on Wear OS and Apple Watch."
+                "x": "Revisa toda la biblioteca de imágenes y luego las muestra según criterios como la época del año, temas, objetos y eventos. Solo funciona en modo horizontal, pero coloca las fotos verticales una junto a otra. También se le puede pedir a Alexa «muéstrame fotos de gatos y niños» para obtener una presentación seleccionada; cuando aparecieron fotos equivocadas, decir «Alexa, esa no es mi hija» hizo que corrigiera la colección."
               },
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Screenshot-2026-11-11-at-3.59.50-PM.png"
+                "src": "https://cdn.mos.cms.futurecdn.net/2cTbvaaoUPYULcGiLFAkua.jpg",
+                "cap": "(Crédito de la imagen: Future)"
               },
               {
                 "t": "p",
-                "x": "From the image, we can see that users have three input modes: text, dictation, and voice chat. Gadgets and Wearables notes that Apple Watch users also get a custom watch face complication to access it quickly, but we couldn't confirm the same for Wear OS."
-              },
-              {
-                "t": "p",
-                "x": "Of course, the agent does not run natively on your Wear OS smartwatch. Instead, the smartwatch simply acts like a control hub for tasks run on your phone. Users should be able to approve tasks or view an update on one that's already running. This is similar to how the mascot appears on Meta's upcoming wearable: the Muse Charm. Meta hasn't clarified whether users will be able to make payments directly through the smartwatch."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Meta의 Muse AI\nWear OS에 상륙",
-          "body": "Meta Muse AI가 Charm보다 앞서 Android Wear OS에 왔다.",
-          "mini_headline": "Muse, Wear OS 상륙",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/meta-muse-ai-voice-conversations-hero-image.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Meta의 Muse AI 에이전트는 귀엽고 매력적인 비주얼과 무료 이용자에게도 넉넉한 혜택 덕에 꾸준히 관심을 끌고 있다. Meta는 지난주 Muse에 음성 모드를 넣어 Gemini Live처럼 AI 에이전트와 말로 대화할 수 있게 했다. 이번에는 스마트워치 이용자에게도 계속 머물 이유를 하나 더 내놓았다."
-              },
-              {
-                "t": "p",
-                "x": "X의 공식 Muse 계정은 오늘 앞서 마스코트가 스마트워치를 찬 재치 있는 이미지를 올렸는데, 그 시계에서도 Muse가 돌아가고 있다. 함께 올린 문구에서도 Muse가 이제 손목에서 바로 “쉬지 않고 일할 수 있다”고 밝혀 Wear OS와 Apple Watch에서 앱을 쓸 수 있다는 점을 뒷받침한다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Screenshot-2026-11-11-at-3.59.50-PM.png"
-              },
-              {
-                "t": "p",
-                "x": "이미지상으로는 텍스트, 받아쓰기, 음성 대화 세 가지 입력 방식이 지원된다. Gadgets and Wearables에 따르면 Apple Watch 이용자는 빠르게 실행할 수 있는 전용 워치페이스 컴플리케이션도 받는다. Wear OS도 마찬가지인지는 확인하지 못했다."
-              },
-              {
-                "t": "p",
-                "x": "물론 에이전트가 Wear OS 스마트워치에서 직접 돌아가지는 않는다. 스마트워치는 휴대폰에서 실행되는 작업을 제어하는 허브 역할만 한다. 이용자는 작업을 승인하거나 이미 진행 중인 작업의 현황을 볼 수 있을 것이다. Meta가 곧 내놓을 웨어러블 Muse Charm에 마스코트가 나타나는 방식과 비슷하다. 스마트워치에서 바로 결제할 수 있는지는 Meta가 밝히지 않았다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "MetaのMuse AIが\nWear OSに登場",
-          "body": "MetaのMuse AIが自社Charmより先にAndroidのWear OS時計で動く。",
-          "mini_headline": "MuseがWear OSに登場",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/meta-muse-ai-voice-conversations-hero-image.jpg"
-              },
-              {
-                "t": "p",
-                "x": "MetaのMuse AIエージェントは、かわいらしく魅力的なビジュアルと、無料ユーザー向けの幅広い特典によって着実に支持を広げている。先週、MetaはMuseに音声モードを追加し、Gemini Liveに近い形でAIエージェントと対話できるようにした。そして今回、Metaはスマートウォッチのユーザーにも使い続ける理由をもう一つ用意した。"
-              },
-              {
-                "t": "p",
-                "x": "本日早く、X上のMuse公式アカウントは、マスコットがスマートウォッチを着けた遊び心のある画像を投稿した。ウォッチ上ではMuseが動いている様子も見える。添えられたキャプションでも、Museが手首から直接「休みなく働ける」ようになったと明言しており、Wear OSとApple Watchでアプリが使えることを裏付けている。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Screenshot-2026-11-11-at-3.59.50-PM.png"
-              },
-              {
-                "t": "p",
-                "x": "画像からは、テキスト、音声入力、ボイスチャットの三つの入力モードがあることがわかる。Gadgets and Wearablesによると、Apple Watchのユーザーは素早く呼び出せる専用の文字盤コンプリケーションも利用できるが、Wear OSで同じかどうかは確認できなかった。"
-              },
-              {
-                "t": "p",
-                "x": "もちろん、エージェントがWear OSスマートウォッチ上でネイティブに動くわけではない。スマートウォッチは、スマートフォンで実行されるタスクのコントロールハブとして機能するだけだ。ユーザーはタスクを承認したり、実行中のタスクの最新状況を確認したりできるはずだ。これは、Metaが今後投入するウェアラブル、Muse Charmにマスコットが表示される仕組みと似ている。Metaは、スマートウォッチから直接支払いができるかどうかを明らかにしていない。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Meta的Muse AI\n登陆Wear OS",
-          "body": "Meta的Muse AI智能体先于自家Charm登陆Android的Wear OS手表。",
-          "mini_headline": "Muse登陆Wear OS",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/meta-muse-ai-voice-conversations-hero-image.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Meta的Muse AI智能体凭借可爱迷人的视觉形象，以及面向免费用户的更多福利，正稳步积累人气。上周，Meta为Muse加入了语音模式，让用户能以类似Gemini Live的方式与这款AI智能体互动。如今，Meta又为智能手表用户提供了一个继续使用的理由。"
-              },
-              {
-                "t": "p",
-                "x": "今天早些时候，Muse在X上的官方账号发布了一张俏皮的图片：吉祥物戴着智能手表，表上也运行着Muse。配图文字还确认，Muse现在可以直接在手腕上“全天候工作”，进一步证实该应用已登陆Wear OS和Apple Watch。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Screenshot-2026-11-11-at-3.59.50-PM.png"
-              },
-              {
-                "t": "p",
-                "x": "从图片可以看到，用户有三种输入方式：文字、听写和语音聊天。Gadgets and Wearables指出，Apple Watch用户还能获得一个可快速启动的自定义表盘复杂功能，但我们无法确认Wear OS是否同样如此。"
-              },
-              {
-                "t": "p",
-                "x": "当然，该智能体并不是在Wear OS智能手表上原生运行。智能手表只是充当手机上所运行任务的控制中心。用户应能批准任务，或查看正在运行任务的最新进展。这与吉祥物在Meta即将推出的可穿戴设备Muse Charm上的呈现方式类似。Meta尚未说明用户能否直接通过智能手表付款。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "El agente Muse AI de Meta\nllega a Wear OS",
-          "body": "El agente Muse AI de Meta ya funciona en relojes Wear OS y llega a muñecas Android antes que el Charm de Meta.",
-          "mini_headline": "Muse llega a Wear OS",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/meta-muse-ai-voice-conversations-hero-image.jpg"
-              },
-              {
-                "t": "p",
-                "x": "El agente Muse AI de Meta gana terreno de forma constante gracias a su aspecto simpático y atractivo y a un conjunto más amplio de ventajas para los usuarios gratuitos. La semana pasada, Meta añadió un modo de voz a Muse que permite interactuar con el agente de AI de forma similar a Gemini Live. Y ahora, Meta ofrece a los usuarios de relojes inteligentes otro motivo para quedarse."
-              },
-              {
-                "t": "p",
-                "x": "Hoy, más temprano, la cuenta oficial de Muse en X publicó una imagen desenfadada de su mascota con relojes inteligentes, en los que también se ve Muse en funcionamiento. El texto que acompaña la imagen confirma además que Muse ya puede “trabajar sin descanso” directamente desde la muñeca, lo que confirma la disponibilidad de la app en Wear OS y Apple Watch."
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Screenshot-2026-11-11-at-3.59.50-PM.png"
-              },
-              {
-                "t": "p",
-                "x": "En la imagen se ve que los usuarios tienen tres modos de entrada: texto, dictado y chat de voz. Gadgets and Wearables señala que los usuarios de Apple Watch también obtienen una complicación de esfera personalizada para acceder rápidamente, aunque no pudimos confirmar lo mismo en Wear OS."
-              },
-              {
-                "t": "p",
-                "x": "Por supuesto, el agente no se ejecuta de forma nativa en el reloj Wear OS. El reloj actúa simplemente como un centro de control para tareas que se ejecutan en el teléfono. Los usuarios deberían poder aprobar tareas o ver novedades de una que ya está en curso. Es algo similar a cómo aparece la mascota en el próximo wearable de Meta, el Muse Charm. Meta no ha aclarado si los usuarios podrán hacer pagos directamente desde el reloj."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Meta의 Muse AI\nWear OS에 상륙",
-          "body": "Meta Muse AI가 Charm보다 먼저 Android Wear OS에 왔다.",
-          "mini_headline": "Muse, Wear OS 상륙",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/meta-muse-ai-voice-conversations-hero-image.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Meta의 Muse AI 에이전트는 귀엽고 매력적인 비주얼과 무료 이용자에게 주는 폭넓은 혜택으로 꾸준히 관심을 모으고 있다. 지난주 Meta는 Muse에 음성 모드를 추가해 Gemini Live와 비슷한 방식으로 AI 에이전트와 대화할 수 있게 했다. 이제 Meta는 스마트워치 이용자에게도 계속 머물 이유를 하나 더 내놓았다."
-              },
-              {
-                "t": "p",
-                "x": "오늘 앞서 X의 공식 Muse 계정은 마스코트가 스마트워치를 찬 재치 있는 이미지를 올렸는데, 시계에서도 Muse가 실행되고 있다. 함께 올라온 문구도 Muse가 이제 손목에서 바로 “쉬지 않고 일할 수 있다”고 확인해, Wear OS와 Apple Watch에서 앱을 쓸 수 있음을 뒷받침한다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Screenshot-2026-11-11-at-3.59.50-PM.png"
-              },
-              {
-                "t": "p",
-                "x": "이미지를 보면 이용자는 텍스트, 받아쓰기, 음성 대화의 세 가지 입력 방식을 쓸 수 있다. Gadgets and Wearables에 따르면 Apple Watch 이용자는 빠르게 실행할 수 있는 전용 워치페이스 컴플리케이션도 받지만, Wear OS에서도 그런지는 확인하지 못했다."
-              },
-              {
-                "t": "p",
-                "x": "물론 에이전트가 Wear OS 스마트워치에서 직접 구동되는 것은 아니다. 스마트워치는 휴대폰에서 실행되는 작업의 제어 허브 역할만 한다. 이용자는 작업을 승인하거나 이미 진행 중인 작업의 현황을 볼 수 있을 것이다. 이는 Meta가 곧 내놓을 웨어러블 Muse Charm에 마스코트가 나타나는 방식과 비슷하다. Meta는 스마트워치에서 바로 결제할 수 있는지는 밝히지 않았다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "MetaのMuse AIが\nWear OSに登場",
-          "body": "MetaのMuse AIが自社Charmより先にAndroidのWear OS時計で動く。",
-          "mini_headline": "MuseがWear OSに登場",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/meta-muse-ai-voice-conversations-hero-image.jpg"
-              },
-              {
-                "t": "p",
-                "x": "MetaのMuse AIエージェントは、かわいらしく魅力的なビジュアルと、無料ユーザー向けの幅広い特典によって着実に支持を広げている。先週、MetaはMuseに音声モードを追加し、Gemini Liveに近い形でAIエージェントと対話できるようにした。そして今回、Metaはスマートウォッチのユーザーにも使い続ける理由をもう一つ用意した。"
-              },
-              {
-                "t": "p",
-                "x": "本日早く、X上のMuse公式アカウントは、マスコットがスマートウォッチを着けた遊び心のある画像を投稿した。ウォッチ上ではMuseが動いている様子も見える。添えられたキャプションでも、Museが手首から直接「休みなく働ける」ようになったと明言しており、Wear OSとApple Watchでアプリが使えることを裏付けている。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Screenshot-2026-11-11-at-3.59.50-PM.png"
-              },
-              {
-                "t": "p",
-                "x": "画像からは、テキスト、音声入力、ボイスチャットの三つの入力モードがあることがわかる。Gadgets and Wearablesによると、Apple Watchのユーザーは素早く呼び出せる専用の文字盤コンプリケーションも利用できるが、Wear OSで同じかどうかは確認できなかった。"
-              },
-              {
-                "t": "p",
-                "x": "もちろん、エージェントがWear OSスマートウォッチ上でネイティブに動くわけではない。スマートウォッチは、スマートフォンで実行されるタスクのコントロールハブとして機能するだけだ。ユーザーはタスクを承認したり、実行中のタスクの最新状況を確認したりできるはずだ。これは、Metaが今後投入するウェアラブル、Muse Charmにマスコットが表示される仕組みと似ている。Metaは、スマートウォッチから直接支払いができるかどうかを明らかにしていない。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Meta的Muse AI\n登陆Wear OS",
-          "body": "Meta的Muse AI智能体先于自家Charm登陆Android的Wear OS手表。",
-          "mini_headline": "Muse登陆Wear OS",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/meta-muse-ai-voice-conversations-hero-image.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Meta的Muse AI智能体凭借可爱迷人的视觉形象，以及面向免费用户的更多福利，正稳步积累人气。上周，Meta为Muse加入了语音模式，让用户能以类似Gemini Live的方式与这款AI智能体互动。如今，Meta又为智能手表用户提供了一个继续使用的理由。"
-              },
-              {
-                "t": "p",
-                "x": "今天早些时候，Muse在X上的官方账号发布了一张俏皮的图片：吉祥物戴着智能手表，表上也运行着Muse。配图文字还确认，Muse现在可以直接在手腕上“全天候工作”，进一步证实该应用已登陆Wear OS和Apple Watch。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Screenshot-2026-11-11-at-3.59.50-PM.png"
-              },
-              {
-                "t": "p",
-                "x": "从图片可以看到，用户有三种输入方式：文字、听写和语音聊天。Gadgets and Wearables指出，Apple Watch用户还能获得一个可快速启动的自定义表盘复杂功能，但我们无法确认Wear OS是否同样如此。"
-              },
-              {
-                "t": "p",
-                "x": "当然，该智能体并不是在Wear OS智能手表上原生运行。智能手表只是充当手机上所运行任务的控制中心。用户应能批准任务，或查看正在运行任务的最新进展。这与吉祥物在Meta即将推出的可穿戴设备Muse Charm上的呈现方式类似。Meta尚未说明用户能否直接通过智能手表付款。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "El agente Muse AI de Meta\nllega a Wear OS",
-          "body": "El agente Muse AI de Meta ya funciona en relojes Wear OS y llega a muñecas Android antes que el Charm de Meta.",
-          "mini_headline": "Muse llega a Wear OS",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/meta-muse-ai-voice-conversations-hero-image.jpg"
-              },
-              {
-                "t": "p",
-                "x": "El agente Muse AI de Meta gana terreno de forma constante gracias a su aspecto simpático y atractivo y a un conjunto más amplio de ventajas para los usuarios gratuitos. La semana pasada, Meta añadió un modo de voz a Muse que permite interactuar con el agente de AI de forma similar a Gemini Live. Y ahora, Meta ofrece a los usuarios de relojes inteligentes otro motivo para quedarse."
-              },
-              {
-                "t": "p",
-                "x": "Hoy, más temprano, la cuenta oficial de Muse en X publicó una imagen desenfadada de su mascota con relojes inteligentes, en los que también se ve Muse en funcionamiento. El texto que acompaña la imagen confirma además que Muse ya puede “trabajar sin descanso” directamente desde la muñeca, lo que confirma la disponibilidad de la app en Wear OS y Apple Watch."
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Screenshot-2026-11-11-at-3.59.50-PM.png"
-              },
-              {
-                "t": "p",
-                "x": "En la imagen se ve que los usuarios tienen tres modos de entrada: texto, dictado y chat de voz. Gadgets and Wearables señala que los usuarios de Apple Watch también obtienen una complicación de esfera personalizada para acceder rápidamente, aunque no pudimos confirmar lo mismo en Wear OS."
-              },
-              {
-                "t": "p",
-                "x": "Por supuesto, el agente no se ejecuta de forma nativa en el reloj Wear OS. El reloj actúa simplemente como un centro de control para tareas que se ejecutan en el teléfono. Los usuarios deberían poder aprobar tareas o ver novedades de una que ya está en curso. Es algo similar a cómo aparece la mascota en el próximo wearable de Meta, el Muse Charm. Meta no ha aclarado si los usuarios podrán hacer pagos directamente desde el reloj."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "gadgets-apple-glasses-supplier",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Apple AI 안경\n공급사 설명회서 등장",
-      "body": "Quick Intelligent Equipment가 Apple 안경 참여를 밝혔다.",
-      "mini_headline": "공급사 발언 속 Apple 안경",
-      "tool": "Gadgets",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/11/11/apple-smart-glasses-mentioned-by-suppliers/",
-      "accent": "#2ec5c5",
-      "motif": "headset",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://images.macrumors.com/t/9uJqMj4VFJjMbPcQi5cTqaPUB18=/2500x/article-new/2021/01/Apple-Glasses-Triad-Feature.jpg"
-          },
-          {
-            "t": "p",
-            "x": "Securities Times가 전한 분기 실적 설명회 내용을 보면 중국 제조 장비 공급업체 Quick Intelligent Equipment가 소문만 돌던 Apple 스마트 안경과 카메라 탑재 AirPods를 언급했을 가능성이 있다. 회사 측은 “Apple의 AI 안경과 새 스마트 이어폰 프로젝트”에 참여해 왔다고 주장했는데, 이 참여가 자사 머신 비전 검사 장비 수요를 끌어올릴 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "Apple은 첫 스마트 안경을 2027년 말에 내놓을 계획으로 알려졌다. 이 안경은 착용자 주변 환경을 묻는 질문에 답하고 언어 번역을 도울 것으로 예상된다. Apple은 카메라를 단 AirPods도 개발 중이며, 이 제품은 20주년 iPhone과 함께 나올 예정이라고 한다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Apple AI glasses surface\nin a supplier briefing",
-          "body": "Chinese supplier Quick Intelligent Equipment said in an earnings briefing it has been involved in Apple's AI glasses.",
-          "mini_headline": "Apple glasses in supplier talk",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://images.macrumors.com/t/9uJqMj4VFJjMbPcQi5cTqaPUB18=/2500x/article-new/2021/01/Apple-Glasses-Triad-Feature.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Apple's rumored smart glasses and AirPods with cameras may have been referenced by Chinese manufacturing equipment supplier Quick Intelligent Equipment, according to a Securities Times report on the company's quarterly earnings briefing. The company claimed it has been involved in \"Apple's AI glasses and new smart earphones projects,\" which could boost demand for its machine vision inspection equipment."
-              },
-              {
-                "t": "p",
-                "x": "Apple is reportedly targeting a late 2027 launch for its first smart glasses, expected to help answer questions about the wearer's surroundings and translate languages. Apple is also reportedly developing AirPods with cameras, set to arrive alongside the 20th-anniversary iPhone."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Apple AI 안경\n공급사 설명회서 등장",
-          "body": "Quick Intelligent Equipment가 Apple 안경 참여를 밝혔다.",
-          "mini_headline": "공급사 발언 속 Apple 안경",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://images.macrumors.com/t/9uJqMj4VFJjMbPcQi5cTqaPUB18=/2500x/article-new/2021/01/Apple-Glasses-Triad-Feature.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Securities Times가 전한 분기 실적 설명회 내용을 보면 중국 제조 장비 공급업체 Quick Intelligent Equipment가 소문만 돌던 Apple 스마트 안경과 카메라 탑재 AirPods를 언급했을 가능성이 있다. 회사 측은 “Apple의 AI 안경과 새 스마트 이어폰 프로젝트”에 참여해 왔다고 주장했는데, 이 참여가 자사 머신 비전 검사 장비 수요를 끌어올릴 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "Apple은 첫 스마트 안경을 2027년 말에 내놓을 계획으로 알려졌다. 이 안경은 착용자 주변 환경을 묻는 질문에 답하고 언어 번역을 도울 것으로 예상된다. Apple은 카메라를 단 AirPods도 개발 중이며, 이 제품은 20주년 iPhone과 함께 나올 예정이라고 한다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AppleのAIグラス\n供給元の説明会で浮上",
-          "body": "Quick Intelligent EquipmentがAppleのAIグラスに関与した。",
-          "mini_headline": "供給元が語るAppleのグラス",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://images.macrumors.com/t/9uJqMj4VFJjMbPcQi5cTqaPUB18=/2500x/article-new/2021/01/Apple-Glasses-Triad-Feature.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Securities Timesが報じた同社の四半期決算説明会の内容によると、中国の製造装置サプライヤーQuick Intelligent Equipmentが、うわさされるAppleのスマートグラスとカメラ付きAirPodsに言及した可能性がある。同社は「AppleのAIグラスと新しいスマートイヤホンのプロジェクト」に関わってきたと主張しており、これが同社のマシンビジョン検査装置の需要を押し上げる可能性がある。"
-              },
-              {
-                "t": "p",
-                "x": "Appleは初のスマートグラスを2027年後半に発売することを目指しているとされ、装着者の周囲に関する質問に答えたり、言語を翻訳したりするのに役立つと見込まれている。Appleはカメラ付きAirPodsも開発中と伝えられ、20周年記念のiPhoneと同時に登場する予定だ。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Apple AI眼镜\n现身供应商说明会",
-          "body": "Quick Intelligent Equipment在财报会上称参与Apple的AI眼镜。",
-          "mini_headline": "供应商提及Apple眼镜",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://images.macrumors.com/t/9uJqMj4VFJjMbPcQi5cTqaPUB18=/2500x/article-new/2021/01/Apple-Glasses-Triad-Feature.jpg"
-              },
-              {
-                "t": "p",
-                "x": "据Securities Times对中国制造设备供应商Quick Intelligent Equipment季度业绩说明会的报道，该公司可能提及了传闻中的Apple智能眼镜和带摄像头的AirPods。该公司称已参与“Apple的AI眼镜和新款智能耳机项目”，这可能会提振其机器视觉检测设备的需求。"
-              },
-              {
-                "t": "p",
-                "x": "据报道，Apple计划于2027年底推出首款智能眼镜，预计可帮助回答有关佩戴者周围环境的问题并翻译语言。另据报道，Apple还在开发带摄像头的AirPods，将与20周年iPhone一同推出。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Las gafas con AI de Apple surgen\nen la reunión de un proveedor",
-          "body": "El proveedor chino Quick Intelligent Equipment dijo haber participado en las gafas con AI de Apple.",
-          "mini_headline": "Las gafas de Apple, en boca de un proveedor",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://images.macrumors.com/t/9uJqMj4VFJjMbPcQi5cTqaPUB18=/2500x/article-new/2021/01/Apple-Glasses-Triad-Feature.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Las rumoreadas gafas inteligentes de Apple y unos AirPods con cámaras podrían haber sido mencionados por el proveedor chino de equipos de fabricación Quick Intelligent Equipment, según un informe de Securities Times sobre la reunión de resultados trimestrales de la empresa. La compañía afirmó haber participado en \"los proyectos de gafas con AI de Apple y de nuevos auriculares inteligentes\", lo que podría impulsar la demanda de sus equipos de inspección por visión artificial."
-              },
-              {
-                "t": "p",
-                "x": "Según se informa, Apple apunta a finales de 2027 para lanzar sus primeras gafas inteligentes, que ayudarían a responder preguntas sobre el entorno de quien las lleva y a traducir idiomas. Apple también estaría desarrollando unos AirPods con cámaras, que llegarían junto al iPhone del 20.º aniversario."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Apple AI 안경\n공급사 설명회서 등장",
-          "body": "Quick Intelligent Equipment가 Apple 안경 참여를 밝혔다.",
-          "mini_headline": "공급사 발언 속 Apple 안경",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://images.macrumors.com/t/9uJqMj4VFJjMbPcQi5cTqaPUB18=/2500x/article-new/2021/01/Apple-Glasses-Triad-Feature.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Securities Times가 전한 분기 실적 설명회 내용에 따르면, 중국 제조 장비 공급업체 Quick Intelligent Equipment가 소문으로 돌던 Apple 스마트 안경과 카메라 탑재 AirPods를 언급했을 가능성이 있다. 이 회사는 “Apple의 AI 안경과 새 스마트 이어폰 프로젝트”에 참여해 왔다고 주장했으며, 이는 자사 머신 비전 검사 장비 수요를 끌어올릴 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "Apple은 첫 스마트 안경을 2027년 말 출시 목표로 삼고 있는 것으로 알려졌으며, 이 안경은 착용자 주변 환경에 관한 질문에 답하고 언어를 번역하는 데 도움을 줄 것으로 예상된다. Apple은 카메라를 탑재한 AirPods도 개발 중이며, 20주년 iPhone과 함께 나올 예정인 것으로 전해졌다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AppleのAIグラス\n供給元の説明会で浮上",
-          "body": "Quick Intelligent EquipmentがAppleのAIグラスに関与した。",
-          "mini_headline": "供給元が語るAppleのグラス",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://images.macrumors.com/t/9uJqMj4VFJjMbPcQi5cTqaPUB18=/2500x/article-new/2021/01/Apple-Glasses-Triad-Feature.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Securities Timesが報じた同社の四半期決算説明会の内容によると、中国の製造装置サプライヤーQuick Intelligent Equipmentが、うわさされるAppleのスマートグラスとカメラ付きAirPodsに言及した可能性がある。同社は「AppleのAIグラスと新しいスマートイヤホンのプロジェクト」に関わってきたと主張しており、これが同社のマシンビジョン検査装置の需要を押し上げる可能性がある。"
-              },
-              {
-                "t": "p",
-                "x": "Appleは初のスマートグラスを2027年後半に発売することを目指しているとされ、装着者の周囲に関する質問に答えたり、言語を翻訳したりするのに役立つと見込まれている。Appleはカメラ付きAirPodsも開発中と伝えられ、20周年記念のiPhoneと同時に登場する予定だ。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Apple AI眼镜\n现身供应商说明会",
-          "body": "Quick Intelligent Equipment在财报会上称参与Apple的AI眼镜。",
-          "mini_headline": "供应商提及Apple眼镜",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://images.macrumors.com/t/9uJqMj4VFJjMbPcQi5cTqaPUB18=/2500x/article-new/2021/01/Apple-Glasses-Triad-Feature.jpg"
-              },
-              {
-                "t": "p",
-                "x": "据Securities Times对中国制造设备供应商Quick Intelligent Equipment季度业绩说明会的报道，该公司可能提及了传闻中的Apple智能眼镜和带摄像头的AirPods。该公司称已参与“Apple的AI眼镜和新款智能耳机项目”，这可能会提振其机器视觉检测设备的需求。"
-              },
-              {
-                "t": "p",
-                "x": "据报道，Apple计划于2027年底推出首款智能眼镜，预计可帮助回答有关佩戴者周围环境的问题并翻译语言。另据报道，Apple还在开发带摄像头的AirPods，将与20周年iPhone一同推出。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Las gafas con AI de Apple surgen\nen la reunión de un proveedor",
-          "body": "El proveedor chino Quick Intelligent Equipment dijo haber participado en las gafas con AI de Apple.",
-          "mini_headline": "Las gafas de Apple, en boca de un proveedor",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://images.macrumors.com/t/9uJqMj4VFJjMbPcQi5cTqaPUB18=/2500x/article-new/2021/01/Apple-Glasses-Triad-Feature.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Las rumoreadas gafas inteligentes de Apple y unos AirPods con cámaras podrían haber sido mencionados por el proveedor chino de equipos de fabricación Quick Intelligent Equipment, según un informe de Securities Times sobre la reunión de resultados trimestrales de la empresa. La compañía afirmó haber participado en \"los proyectos de gafas con AI de Apple y de nuevos auriculares inteligentes\", lo que podría impulsar la demanda de sus equipos de inspección por visión artificial."
-              },
-              {
-                "t": "p",
-                "x": "Según se informa, Apple apunta a finales de 2027 para lanzar sus primeras gafas inteligentes, que ayudarían a responder preguntas sobre el entorno de quien las lleva y a traducir idiomas. Apple también estaría desarrollando unos AirPods con cámaras, que llegarían junto al iPhone del 20.º aniversario."
+                "x": "También funciona como altavoz inteligente con Alexa+ y permite añadir notas de audio breves a las fotos. En especificaciones queda por detrás de rivales como el Aura Aspen de $229 y el Lexar Pexar de $179, y no reproduce videos, pero ninguno hace tan sencillo seleccionar todas tus fotos como Amazon con Alexa+. Se vende por $199,99."
               }
             ]
           }

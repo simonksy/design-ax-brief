@@ -12046,6 +12046,128 @@
           "x": "Image and Shader generation work together too. The Agent can generate an image and set it as the input of an image shader, for example one that turns it into a pen drawing with an ink smudge on mouse move."
         }
       ]
+    },
+    "design/luma-board-organizer-agent": {
+      "blocks": [
+        {
+          "t": "video",
+          "src": "https://static.cdn-luma.com/files/sanity/a5ed43ea-ae90-4aa9-b706-43227ae7a2dd.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Big brand projects outgrow their boards, and finding assets starts to take longer than making the next one. The new Luma agent smart organization capability changes that. Ask the agent to organize a board, a frame or a selection, and it groups and labels the work by what belongs together, so your team keeps making on the board that holds the project."
+        },
+        {
+          "t": "p",
+          "x": "File names and dates say nothing about the work. The agent reads what is in each asset, what it was made from, and what sits around it. It can tell a reference photo from a generated variation, follow which versions came from which image, and connect assets to the brief. A board can now be grouped by product, concept, campaign, state of production, or channel."
+        },
+        {
+          "t": "p",
+          "x": "Bigger projects: it works through large boards section by section, up to 10,000 assets. Everyday cleanup: turn a busy board into named sections or group a selection or a frame and leave the rest of the board alone. Your preferences: give it a rule, like \"sort by background color, labeled to match\" or \"group by product and campaign concept.\" Offer, then accept: as new work lands, the agent can offer to group it. Nothing moves until you say yes. Reverse any organizing run without losing the edits you made after it."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/2ylxvaa2/production/3088cb2bf9319ba1fed2d4c0816f562b3b86487b-600x338.gif",
+          "cap": "Organization for boards up to 10,000 assets"
+        },
+        {
+          "t": "p",
+          "x": "The agent never rearranges your board on its own. It stays inside the area you chose, and when it finishes, the agent tells you what changed. Try it now: Open a board in Luma and ask the agent to \"organize this board.\" To tidy just part of it, select a frame or a few assets first and ask the agent to organize the selection."
+        }
+      ]
+    },
+    "design/claude-manufacturing-fusion-plugin": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://the-decoder.com/wp-content/uploads/2026/11/claude_for_manufactoring.png"
+        },
+        {
+          "t": "p",
+          "x": "Anthropic has released Claude for Manufacturing, a plugin giving the AI direct access to industrial software to automate factory workflows. The new solution connects via four universal interfaces to Autodesk Fusion, Oracle NetSuite, Microsoft 365, and Infor. Other systems can be integrated through file exports to Microsoft 365."
+        },
+        {
+          "t": "p",
+          "x": "With 17 specific skills, the AI drafts quotes from actual inventory, compares suppliers, generates quality reports and design variants, and analyzes sensor data and manuals during machine downtime. Via an added Infor plugin, Claude can also order from backup suppliers when deliveries are delayed and reschedule production—after human approval. All results are linked to original source documents for employee review before reaching customers or suppliers."
+        },
+        {
+          "t": "p",
+          "x": "The plugin is available to Team and Enterprise customers but doesn't control physical machines yet. For that, Anthropic is separately developing the Model Hardware Standard as a research preview, connecting AI agents to devices like robotic arms and microscopes via standardized drivers. This cuts setup time from weeks or months to hours or minutes but still requires human oversight due to the AI's limited grasp of physical processes."
+        }
+      ]
+    },
+    "design/nngroup-research-in-the-loop": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "As AI coding agents write more code, many teams now pick a direction, build, release, and watch what happens. But if a release can be shipped faster than users can be studied, research can't go away; it needs to change to keep pace with development at AI speed. NN/g calls that change research-in-the-loop."
+        },
+        {
+          "t": "p",
+          "x": "Research instrumentation is now as cheap to build as everything else: a coding agent can build intercept surveys, event logging and dashboards alongside the feature. Before the build, research helps shape what a release must capture; during the build, coding agents implement that capture; after the release, researchers study what happened, and what they learn feeds the next set of requirements."
+        },
+        {
+          "t": "img",
+          "src": "https://media.nngroup.com/media/editor/2026/11/13/research-in-the-loop.png",
+          "cap": "Research-in-the-Loop framework: research methods feed a repeating cycle of Specify, Build and Instrument, Release, and Evaluate and Learn."
+        },
+        {
+          "t": "p",
+          "x": "Teams can add a research section to the spec: what we expect, signs it worked, signs it caused problems, what to track, and when to talk to people. Instrumentation can make evaluation and investigation more efficient, but it cannot replace independent discovery, so qualitative research stays essential."
+        },
+        {
+          "t": "p",
+          "x": "“An agent can build a survey in minutes. The researcher is accountable for asking the right questions.”"
+        }
+      ]
+    },
+    "design/vercel-ui-sdk-behaviors": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Ffiles.catbox.moe%2Fnh6k1a.webp"
+        },
+        {
+          "t": "p",
+          "x": "Vercel Labs shipped UI SDK on November 12, 2026, built by shadcn, Apache-2.0, still beta. The repo went from nothing to 4,239 stars in nineteen days. It isn't a component library; it's the layer underneath one. Instead of handing you a Select, it hands you createPopup, createSelection and createTypeahead, and the agent wires them together."
+        },
+        {
+          "t": "p",
+          "x": "definePrimitive declares state, an api and slots, and createParts renders the same primitive in React, Vue, Svelte, Solid or Web Components. There are 50+ behaviors in the core package, grouped into ten categories. The README says: \"Don't worry, you don't need to learn how to write this. Your agents will.\""
+        },
+        {
+          "t": "p",
+          "x": "Every package ships llms.txt and core.md, plus a skill and a bridge: agent.snapshot() returns components, their state and their actions. In Vercel's one-task benchmark the bridge used 69% fewer tool calls and was 61% faster than browser tools, self-reported."
+        },
+        {
+          "t": "p",
+          "x": "The author's take: structured primitives beat freeform generation, but behaviors are also omittable, and open accessibility issues such as #534 show a primitive is only as good as the person checking it."
+        }
+      ]
+    },
+    "design/mit-structure-copilot": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://news.mit.edu/sites/default/files/images/202611/MIT-ai-design-01-press.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The best algorithmic design techniques still require lots of computation and time: users only see the final design after it’s complete, and often must start over to make changes. MIT researchers are making algorithmic designs more collaborative with a system that acts like an AI copilot. As the algorithm is generating the structure, it presents regions to the human designer for feedback."
+        },
+        {
+          "t": "p",
+          "x": "In an open-access Communications Engineering paper, the researchers showed it led to more easily manufacturable structures with higher buckling loads while adding only 15 seconds to the total design time compared to all-algorithmic approaches. The system, which uses topology optimization, relies on machine learning trained on a synthetic dataset of probable human feedback to thousands of designs to quickly identify the regions a human would most likely want to change."
+        },
+        {
+          "t": "p",
+          "x": "In demonstrations, the human-in-the-loop approach improved manufacturability and linear buckling load by 39 percent while only modestly increasing the total design time. For now, users can only make structures within identified regions thicker or thinner."
+        },
+        {
+          "t": "p",
+          "x": "“The idea is to tap into the brains of the designers and get them to infuse their domain knowledge as the design evolves,” says senior author Josephine Carstensen."
+        }
+      ]
     }
   }
 }

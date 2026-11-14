@@ -15553,6 +15553,127 @@
           "x": "EHT Collaboration 책임자 Laurent Loinard 박사는 GenDIReCT가 “우아하고 완전히 독립적인 방법으로, 여러 해에 걸친 M87*의 고리 구조를 복원하며 EHT Collaboration이 발표한 결과와 매우 잘 일치한다”고 평가했다. Thyagarajan은 이 기법을 의료 영상과 지진 지도 작성을 개선하는 데도 쓸 수 있다고 말했다."
         }
       ]
+    },
+    "science/slac-lcls-laser-surrogate": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.sciencedaily.com/images/1920/noncollinear-sum-frequency-generation.webp",
+          "cap": "비공선 합주파수 생성(SFG)을 표현한 그림. 두 적외선 펄스가 χ² 결정 안에서 섞여 출력 펄스 세 개를 만든다. 출처: Gregory Stewart, SLAC National Accelerator Laboratory"
+        },
+        {
+          "t": "p",
+          "x": "Stanford University, UCLA, SLAC National Accelerator Laboratory 연구진이 이차 비선형 광학(χ2 과정)의 기존 시뮬레이션을 훨씬 짧은 시간에 재현하는 딥러닝 모델을 개발했다. 레이저 펄스 형태가 달라져도 정확도는 높게 유지됐다. 연구 결과는 Advanced Photonics에 실렸다."
+        },
+        {
+          "t": "p",
+          "x": "SLAC의 LCLS-II는 적외선을 녹색광으로, 다시 UV 빛으로 바꾼다. UV 펄스가 음극에 닿으면 전자가 방출되고, 이 전자가 X-ray 펄스를 만든다. 기존 시뮬레이션은 split-step Fourier 방법을 쓰는데, 전체 레이저 시뮬레이션 처리 시간의 약 95퍼센트가 여기에 들어간다."
+        },
+        {
+          "t": "p",
+          "x": "연구팀은 LSTM 순환 신경망을 만들어 비공선 합주파수 생성에 시험했다. 서로 연결된 세 빛의 장이 결정 안에서 함께 변하는 과정이다. 신경망은 빛의 주파수 특성을 압축한 표현만으로 돌아간다."
+        },
+        {
+          "t": "p",
+          "x": "GPUs에서 배치로 돌리자 시뮬레이션 한 번의 평균 계산 시간이 몇 밀리초로 줄었다. 연구진은 모듈형 신경망이 디지털 트윈과 적응형 실시간 레이저 제어를 뒷받침하는 미래를 내다본다."
+        }
+      ]
+    },
+    "science/brookhaven-sphenix-jet-denoise": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/super-intelligence-met.jpg",
+          "cap": "중이온 충돌에서 제트가 생기고 검출되는 과정. 출처: Brookhaven National Laboratory"
+        },
+        {
+          "t": "p",
+          "x": "Brookhaven National Laboratory 연구진은 Columbia University, University of Colorado Boulder 연구진과 함께, 모의 중이온 충돌에서 입자 제트 신호를 배경과 갈라내는 생성형 AI 기법을 개발했다."
+        },
+        {
+          "t": "p",
+          "x": "Brookhaven 물리학자 Yeonju Go는 \"우리 AI 기법은 그 이미지를 두 부분으로 나누는 법을 배운다\"고 말했다. 이른바 \"비쌍·비지도\" 모델이라 신호와 배경을 짝지은 예시가 필요 없고, 모의 충돌 데이터와 이상적인 제트 시뮬레이션으로 학습한다. Brookhaven 컴퓨터 과학자 Dmitrii Torbunov는 \"비지도 학습 기법은 데이터에서 직접 유용한 개념과 패턴을 배울 수 있다\"고 설명했다."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/super-intelligence-met-1.jpg",
+          "cap": "프레임워크를 훈련한 뒤 제트 신호와 배경을 분리하는 데 쓰는 과정. 출처: Brookhaven National Laboratory"
+        },
+        {
+          "t": "p",
+          "x": "모의 sPHENIX 열량계 데이터로 시험해 보니 이 모델은 기존 배경 차감 방식보다 제트의 위치와 에너지, 내부 구조를 더 정확히 재구성했다. 큰 제트에서 특히 그랬다. Go는 \"이 모델을 꼭 실제 실험 데이터에 쓰고 싶다\"고 말했다. 연구 결과는 Scientific Reports에 실렸다."
+        }
+      ]
+    },
+    "science/qodex-quantum-reservoir-pde": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/11/image-85.png",
+          "cap": "QRN 구조."
+        },
+        {
+          "t": "p",
+          "x": "QodeX Quantum, University of South Carolina, Naval Surface Warfare Center Panama City Division, NVIDIA, RTX BBN 공동 연구팀이 IBM Quantum Heron r3(ibm_boston) 프로세서의 큐비트를 최대 52개 써서, 비정형 공학 메시 위의 비선형 편미분방정식(PDEs)을 기울기 없이 예측해 냈다. 자세한 내용은 arXiv 프리프린트에 나와 있다."
+        },
+        {
+          "t": "p",
+          "x": "저자들은 복잡한 경계 형상을 회로 구조와 떼어 내려고, 사전 학습된 그래프 신경망 오토인코더에 고정된 미훈련 양자 리저버를 결합했다. 리저버는 메모리 레지스터와 판독 레지스터로 나뉜다. 이 하이브리드 양자 리저버 네트워크(QRN)는 큐비트 결맞음 시간 중앙값보다 최대 24배 긴 회로를 돌렸다."
+        },
+        {
+          "t": "p",
+          "x": "하드웨어에서는 고전적 잠재 선형 기준 모델보다 예측 오차가 21%~41% 줄었다. 한 단계 NRMSE는 2D 원기둥 유동(26 큐비트)에서 33.2%, Gray-Scott 반응-확산(26 및 52 큐비트)에서 41.1% 낮아졌다. 10단계 롤아웃에서는 하드웨어 잡음이 정규화 역할을 하면서 NRMSE 0.257을 기록했다. 잡음 없는 CUDA-Q 시뮬레이션은 0.707이었다."
+        },
+        {
+          "t": "p",
+          "x": "코드는 GitHub에 오픈소스로 풀렸다. QodeX는 이번 연구로 자사 에이전트형 양자 워크플로 플랫폼 AlphaPsi의 모듈도 검증했다고 밝혔다."
+        }
+      ]
+    },
+    "science/princeton-baby-language-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://singularityhub.com/uploads/2026/11/baby-face.jpeg?auto=webp"
+        },
+        {
+          "t": "p",
+          "x": "Princeton University의 First 1,000 Days 프로젝트에서 나온 이 이색 연구는 여덟 가구에 카메라와 마이크를 달아, 아이들이 태어나서 약 세 살이 될 때까지 주변의 일상 소리를 담았다. 이어 연구진은 아이마다 AI 학습기를 하나씩 만들고, 그 아이가 시간에 따라 겪은 말소리 환경을 그대로 경험하게 했다."
+        },
+        {
+          "t": "p",
+          "x": "연구 저자 Uri Hasson은 \"학습 시스템을 만들고, 아이의 실제 경험을 주고, 그것이 아이처럼 발달하는지 묻는 것\"이라고 말했다. 가구마다 기기를 4~14대 두었고, 아이 한 명당 최대 6,600시간 분량의 오디오를 뽑아냈다."
+        },
+        {
+          "t": "p",
+          "x": "이 작은 모델은 오디오 인코더와 예측 디코더로 이뤄졌고, 백지상태에서 출발했다. Hadas Raviv는 노출만으로는 \"충분하지 않았다\"고 말했다. 답은 리플레이였다. 수면에서 착안해, 모의 하루가 끝날 때마다 최근 말소리 조각을 다시 훑게 했다."
+        },
+        {
+          "t": "p",
+          "x": "모델은 여덟 아이 모두에서 15개월 안에 음소 약 37개를 익혔고, 두 살이 되기 전에 단어를 알아보기 시작했다. 속도는 아이마다 크게 달랐다. 아기와 달리 이 AI는 소리만으로 배운다. Hasson은 \"지금 모델은 시작일 뿐\"이라고 말했다."
+        }
+      ]
+    },
+    "science/nature-ai-mechanic-astra": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.nature.com/lw767/magazine-assets/d41586-026-03679-8/d41586-026-03679-8_53974808.jpg",
+          "cap": "일부 AI 모델은 정비공처럼 일한다. 직접 설계하지 않았고 완전히 이해하지도 못하는 다른 모델의 문제를 고친다. Credit: Mint Images/Getty"
+        },
+        {
+          "t": "p",
+          "x": "연구진이 인공지능 모델로 다른 AI 네트워크의 내부를 읽고 손보는 데 성공했다. AI의 ‘블랙박스’를 들여다볼 새 방법이다. 매사추세츠공과대학(MIT) 연구팀은 GPT-6 Astra라는 AI 모델이 다른 모델 일부의 원시 내부값을 해석해 시스템 각 부분이 맡은 일을 예측해 낸다는 사실을 보였다. 모델을 고쳐 성능을 끌어올리기도 했는데, 수학 능력 향상이 한 예다. 연구진은 11월 2일 프리프린트로 결과를 내놓았다."
+        },
+        {
+          "t": "p",
+          "x": "공동 저자 Rikiya Takehi는 프런티어 AI 모델이 신경망을 읽고 추론하고 바꿀 수 있는 파일처럼 다루는 능력에서 “초기 불꽃을 보이고 있다”고 말한다. 그렇다고 OpenAI가 개발한 Astra가 특정 AI 네트워크의 작동 원리를 설명하거나 이해한다는 뜻은 아니다. 다만 범용 모델이 직접 설계하지도, 완전히 이해하지도 못한 엔진을 고치는 정비공처럼 네트워크를 쓸모 있게 손볼 수 있다는 점을 시사한다."
+        },
+        {
+          "t": "p",
+          "x": "옥스퍼드대학교의 Fazl Barez는 이번 프리프린트가 일부 ‘해석 가능성’ 기법을 자동화할 수 있음을 보여 준다고 평가했다. 다만 이것이 더 안전한 AI로 이어지리라는 기대는 “대체로 검증되지 않았다”고 짚었다. 하버드대학교의 Marinka Zitnik은 이런 재프로그래밍이 실제 환경에서 시험하기 전에 모델 오류를 잡아내는 데 도움이 될 수 있다고 본다."
+        }
+      ]
     }
   }
 }

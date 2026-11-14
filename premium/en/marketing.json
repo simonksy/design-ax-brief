@@ -4667,6 +4667,156 @@
           "x": "The release also lets Editor edit account-level new customer acquisition and retention settings, adds channel prioritization and budget caps, and removes the option to turn off local inventory ads in Shopping campaigns."
         }
       ]
+    },
+    "marketing/amazon-dva-plus-20-product-cap": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/size/w2000/2026/11/amazon-dva-plus-campaign-guide-20-product-cap-automated-steering-wheel-dashboard.jpg",
+          "cap": "Amazon caps automated DVA+ campaigns at 20 products and resets learning when a KPI changes"
+        },
+        {
+          "t": "p",
+          "x": "A Support Center guide titled “Create a DVA+ campaign,” updated on November 13, 2026, describes three ways to build a Display, Video, and Audio campaign: an automated DVA+ flow, a one-form workspace called DVA+ advanced, and a legacy mode. Amazon introduced DVA+, which replaced the Amazon DSP name, on September 29, 2026."
+        },
+        {
+          "t": "p",
+          "x": "The automated flow accepts up to 20 products per campaign, draws on seven objectives depending on account eligibility, and runs ads across display, online video and streaming TV with optimization switched on by default. “DVA+ provides AI tools to generate missing ad formats,” the page says. Targeting is automated; location targeting is only available with off-Amazon objectives."
+        },
+        {
+          "t": "p",
+          "x": "In DVA+ advanced, the guide warns: “You can change your KPI after launch, but this resets your campaign's performance learnings and may impact optimization.” If no frequency cap is set, a default is applied, and recommended ad groups come from Brand+ and Performance+ tactics."
+        },
+        {
+          "t": "p",
+          "x": "The guide gives conflicting instructions on whether clicking Launch puts a campaign live, and does not say how product variations count toward the 20-product cap."
+        }
+      ]
+    },
+    "marketing/marketing-ai-audience-insights-risk": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/LTJRYpnpPQcEoQaFeo8Ixe1iH_zUGaGGD_6wnRWkUE4/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTkzNzY0OTQzLmpwZw==.webp",
+          "cap": "While AI has been heralded as a cost-saving tool, 27% of those surveyed experienced financial loss because of incorrect AI outputs."
+        },
+        {
+          "t": "p",
+          "x": "Nearly 90% of senior industry professionals use AI daily, according to a GWI survey, but 80% say they frequently encounter inaccurate or misleading AI findings. “Artificial Confidence: The AI Trust Gap” includes responses from 1,883 senior insights, agency and marketing professionals in the U.K., U.S. and Singapore."
+        },
+        {
+          "t": "p",
+          "x": "Only 36% verify AI insights “most of the time,” and 63% have accidentally used insights they later realized were out of date. 76% think AI can reinforce outdated assumptions, and nearly 70% have seen it fail to accurately reflect their target audience — yet 81% feel confident using AI for audience profiles and segmentation."
+        },
+        {
+          "t": "p",
+          "x": "Over half of senior decision-makers have made a significant business decision based on AI insights that turned out to be incorrect or misleading. 82% of marketing leaders have felt at least one adverse outcome, most commonly internal rework (38%), delayed decision making (36%) and customer complaints (34%); 21% saw weaker campaign performance."
+        },
+        {
+          "t": "p",
+          "x": "“Companies haven't put the type of rigorous frameworks in place that you would expect with a new type of technology,” said Jason Mander, chief insight officer at GWI."
+        }
+      ]
+    },
+    "marketing/salesforce-ai-first-holiday-survey": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/824_1126_T08_The-AI-First-Holiday-Shoppers-Let-Agents-Do-the-Legwork-Not-the-Paying_a_v1_110926.jpg"
+        },
+        {
+          "t": "p",
+          "x": "A Salesforce survey shows that holiday shoppers are using AI agents for research and advice — almost 20% of shoppers now say that AI is their first stop on the way to the store — but most aren’t ready to let AI click Buy Now."
+        },
+        {
+          "t": "p",
+          "x": "Salesforce research projects AI will drive $75.8 billion in Cyber Week spending, up 13% from 2025, and traffic to ecommerce sites from AI tools is up 104% year over year. In the survey of more than 2,500 shoppers in the U.S., the U.K., Canada, and Australia, 74% trust AI’s recommendations, 30% of AI shoppers say these tools frequently introduce them to brands they didn’t know, and 11% would skip a purchase if an AI assistant advised against it."
+        },
+        {
+          "t": "img",
+          "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/image_b49a8d.jpeg?w=1024",
+          "cap": "Top shopping tasks for personal agents"
+        },
+        {
+          "t": "p",
+          "x": "Shoppers treat personal agents like advisors rather than buyers, and are not quite ready to let agents check out for them."
+        },
+        {
+          "t": "img",
+          "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/image1.jpg?w=1024",
+          "cap": "Top barriers to using a personal agent to make purchases"
+        },
+        {
+          "t": "p",
+          "x": "Retailers with their own shopper agents see bigger orders, but shoppers will abandon AI assistants after 2-3 mistakes. “Be the brand that AI can find and humans can trust,” said Caila Schwartz, Head of Agentic Commerce Shopper Insights at Salesforce."
+        },
+        {
+          "t": "img",
+          "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/image_0d40fe.jpeg?w=1024",
+          "cap": "Shoppers will abandon AI assistants after 2-3 mistakes."
+        }
+      ]
+    },
+    "marketing/pinterest-holiday-gift-assistant": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Pinterest has added some new shopping features for the holidays, including trending gift guides within its Pinterest Assistant chatbot, product comparison tools and wishlists."
+        },
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/haUn-5ilTQDnLIwRKhx8P3TUJdoPsoqnlE7lJw7nKNE/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waW50ZXJlc3RfaG9saWRheV9zZWFzb24yLnBuZw==.webp"
+        },
+        {
+          "t": "p",
+          "x": "The new holiday experience in Pinterest Assistant offers full-screen trending content overviews for gift inspiration, seasonal decorating ideas and more. Each highlighted product connects to a shoppable Pin."
+        },
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/7G4sbb1B6GoM4vkVQlIun10enr8FB4CgX0_YyCKKWBI/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waW50ZXJlc3RfaG9saWRheV9zZWFzb24zLnBuZw==.webp"
+        },
+        {
+          "t": "p",
+          "x": "A compare feature gives Pinterest Assistant users a carousel of products based on their queries, with reviews and information on price and availability. Compare is available through Pinterest Assistant and boards on mobile, and through the Close-up button for desktop users in the U.S."
+        },
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/66qCuxq8De9tphQQ5L3JBrfJ8slaTXDUMLd8EFzL9z4/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waW50ZXJlc3RfaG9saWRheV9zZWFzb240LnBuZw==.webp"
+        },
+        {
+          "t": "p",
+          "x": "Wishlists let shoppers list their ideal product Pins and get notified about price drops or restocks; they are in a limited iOS test across the U.S. and Canada. Pinterest is also rolling out Deal Boards, highlighting personalized lists of trending deals based on past engagement history."
+        }
+      ]
+    },
+    "marketing/chatgpt-wallet-dots-checkout": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and “eligible US-issued American Express, Chase, Mastercard and Visa cards.”"
+        },
+        {
+          "t": "p",
+          "x": "After adding a card to the wallet, your Dots agents can use it to buy things in response to your prompts, but they’ll check in with you each time before checking out. OpenAI’s support page says every purchase with ChatGPT Wallet requires a security check with biometric verification like Face ID or a fingerprint scan."
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/openai-chatgpt-wallet-approval-pop-up.jpeg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+          "cap": "Users have to approve every purchase from ChatGPT Wallet."
+        },
+        {
+          "t": "p",
+          "x": "After you review the AI agent’s purchase and sign off on it, OpenAI says that, similar to using tap to pay, Apple Pay, or Google Wallet, it substitutes your credit card details with a payment token, so your actual card info isn’t shared with your Dots agent or the business you’re buying from. Eventually, OpenAI says it expects “users to be able to delegate purchases entirely to their agent by setting clear parameters—such as spending limits, purchase categories, or time periods—and pre-approve those purchases.”"
+        },
+        {
+          "t": "p",
+          "x": "ChatGPT Wallet might not work everywhere. Some retailers have restrictions on AI agents or block them altogether. Earlier this year, Amazon blocked Meta’s Muse agents. OpenAI says that in order for agents to use ChatGPT Wallet, “websites need to ensure agents are not inadvertently blocked, and payment and risk systems need to recognize legitimate purchases made by agents.”"
+        }
+      ]
     }
   }
 }

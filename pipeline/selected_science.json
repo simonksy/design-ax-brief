@@ -1,96 +1,158 @@
 {
-  "date": "2026-11-14",
+  "date": "2026-11-15",
   "section": "science",
-  "items": [
+  "picks": [
     {
+      "url": "https://techxplore.com/news/2026-11-ai-differently-told.html",
+      "title": "AI models can answer differently when told they are being watched",
+      "source": "Tech Xplore",
       "tool": "Science",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "title": "This AI 'mechanic' can peer inside the black box of other neural networks",
-      "url": "https://www.nature.com/articles/d41586-026-03679-8",
-      "source": "Nature",
-      "published_iso": "2026-11-13T00:00:00Z",
-      "og_image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03679-8/d41586-026-03679-8_53974804.jpg",
-      "excerpt": "An MIT-led team (Takehi, Teoh, Zhang, Khattab) used OpenAI's GPT-6 Astra to read other networks' raw internal values, predict what their components do and edit them, boosting target models' math abilities (alphaXiv preprint, not peer reviewed). Off-list domain (nature.com news) included under relevance exception.",
-      "rationale": "Fresh Nature news on AI-driven interpretability that not only explains but edits other models — novel research-method result from a top-credibility outlet."
+      "rationale": "Measured alignment-faking study: 10 LLMs shift rule compliance 5-50 points under perceived monitoring — a concrete, new evaluation result for anyone relying on model behaviour.",
+      "published_iso": "2026-11-13T10:40:10-05:00",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-models-can-answer-d-1.jpg",
+      "excerpt": "TCS Research and KIIT tested 10 LLMs on dilemmas pitting a rule against 32 values under monitored vs unmonitored cues; rule compliance shifted 5-50 percentage points with perceived oversight, and the model-value pairing explained about a quarter of the gap (arXiv 'Alignment Faking Depends on the Value')."
     },
     {
+      "url": "https://www.sciencedaily.com/releases/2026/11/261111005913.htm",
+      "title": "AI supercharges laser physics with a stunning 250x speed boost",
+      "source": "ScienceDaily",
       "tool": "Science",
-      "accent": "#0070f3",
+      "accent": "#3b6bff",
       "motif": "sphere",
-      "title": "Opening the datasets behind our AI weather models (PARDIG & SatWeave)",
-      "url": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
-      "source": "Google DeepMind",
-      "published_iso": "2026-11-10T11:13:04Z",
-      "og_image": "https://lh3.googleusercontent.com/ggsqfaBnOayx-i7z9Kj8AeZruz8BSo0N7tsnqwH8Z3REnHcDKBt-QSA3DR4UUM8lcwklWihSARoEN2AyQFhoRFGFlk2-0-xGuKt_rtGoFwpJg8LHVQ=w1200-h630-n-nu-rw",
-      "excerpt": "Google DeepMind released PARDIG and SatWeave, foundational precipitation and geostationary-satellite datasets used to train its AI weather models, for open Earth-science research.",
-      "rationale": "Primary-source open release of training datasets researchers can use immediately — the most actionable item in the pool."
+      "rationale": "Stanford/UCLA/SLAC deep-learning surrogate reproduces nonlinear-optics simulations 250x faster for LCLS-II pulse shaping — clear quantified speedup in a real facility workflow (Advanced Photonics).",
+      "published_iso": "2026-11-13T18:41:08-05:00",
+      "og_image": null,
+      "excerpt": "Stanford, UCLA and SLAC built a deep-learning surrogate for second-order nonlinear optical (chi-2) frequency conversion used to shape LCLS-II drive-laser pulses, reproducing conventional simulations about 250x faster with high accuracy across pulse shapes (Advanced Photonics)."
     },
     {
+      "url": "https://phys.org/news/2026-11-ai-particle-jets-background-noise.html",
+      "title": "Self-learning AI separates particle jets from background noise in simulated heavy-ion collisions",
+      "source": "Phys.org",
       "tool": "Science",
       "accent": "#7928ca",
       "motif": "sphere",
-      "title": "AI agents act as search tool for more efficient collider physics calculations",
-      "url": "https://physicsworld.com/a/ai-agents-act-as-search-tool-for-more-efficient-collider-physics-calculations/",
-      "source": "Physics World",
-      "published_iso": "2026-11-13T09:00:21+00:00",
-      "og_image": "https://physicsworld.com/wp-content/uploads/2026/11/13-11-26-particle-collision-cern.jpg",
-      "excerpt": "Cambridge's Yi Gu and Sven Krippendorf used OpenAI Codex in a self-evolving loop to propose programs for tree-level scattering amplitudes, checked by a test harness; the best programs ran ~805x faster than seed code or used 48x fewer operations, though still slower than Sherpa/MadGraph at six particles (arXiv preprint).",
-      "rationale": "Concrete, quantified case of coding agents doing physics program search, with honest limits versus established tools."
+      "rationale": "Brookhaven-led unsupervised generative model subtracts heavy-ion underlying-event background without paired labels, beating conventional subtraction in sPHENIX simulations (Scientific Reports).",
+      "published_iso": "2026-11-13T12:40:07-05:00",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/super-intelligence-met.jpg",
+      "excerpt": "Brookhaven-led team's unsupervised generative model subtracts the huge underlying-event background from calorimeter jets in heavy-ion collisions without paired labels, beating conventional subtraction in sPHENIX simulations (Scientific Reports); real-data validation pending."
     },
     {
+      "url": "https://quantumcomputingreport.com/qodex-quantum-nvidia-rtx-bbn-and-u-s-navy-researchers-forecast-unstructured-pdes-on-52-qubit-ibm-hardware/",
+      "title": "QodeX Quantum, NVIDIA, RTX BBN and U.S. Navy researchers forecast unstructured PDEs on 52-qubit IBM hardware",
+      "source": "Quantum Computing Report",
       "tool": "Science",
       "accent": "#f5a623",
       "motif": "sphere",
-      "title": "AI agents advance atomic modeling and reveal how aluminum nanoparticles oxidize",
-      "url": "https://phys.org/news/2026-11-ai-atomic-reveal-shells-aluminum.html",
-      "source": "Phys.org",
-      "published_iso": "2026-11-09T21:00:01-05:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-agents-advance-atom.jpg",
-      "excerpt": "Tohoku University's MLP Copilot, a multi-AI-agent framework that builds machine-learning interatomic potentials from quantum calculations with humans making final calls, simulated aluminum nanoparticle oxidation at scale and identified an 'oxide gatekeeper' shell whose rupture at high temperature exposes the core (PNAS).",
-      "rationale": "Peer-reviewed (PNAS) materials result where human-in-the-loop AI agents produce both a reusable workflow and a new physical insight."
+      "rationale": "Quantum machine learning on real hardware: a GNN autoencoder plus untrained 52-qubit quantum reservoir forecasts engineering PDE flows gradient-free, sidestepping barren plateaus — the quantum lane for today.",
+      "published_iso": "2026-11-13T22:22:38Z",
+      "og_image": "https://quantumcomputingreport.com/wp-content/uploads/2026/11/image-85.png",
+      "excerpt": "A pretrained graph-neural-network autoencoder paired with a fixed, untrained quantum reservoir forecast nonlinear PDE flows on unstructured engineering meshes using up to 52 qubits of IBM hardware, gradient-free, sidestepping barren plateaus (QML on real hardware)."
     },
     {
+      "url": "https://singularityhub.com/2026/11/12/this-ai-learned-language-from-the-recordings-of-a-babys-first-1000-days/",
+      "title": "This AI Learned Language From the Recordings of a Baby's First 1,000 Days",
+      "source": "SingularityHub",
       "tool": "Science",
       "accent": "#eb367f",
       "motif": "sphere",
-      "title": "Scientists built an AI called 'Concept2Brain' that simulates human brain waves from pictures and text",
-      "url": "https://www.psypost.org/scientists-built-an-ai-called-concept2brain-that-simulates-human-brain-waves-from-pictures-and-text/",
-      "source": "PsyPost",
-      "published_iso": "2026-11-13T21:00:25+00:00",
-      "og_image": "https://www.psypost.org/wp-content/uploads/2026/06/brainimg-2.jpg",
-      "excerpt": "Concept2Brain, reported in Nature Communications, predicts EEG responses to photographs or text and generates synthetic event-related potentials resembling real recordings, letting researchers simulate brain-wave experiments before recruiting volunteers.",
-      "rationale": "Cognitive-science pick that rounds out the spread: a Nature Communications model letting researchers pilot EEG experiments in silico."
+      "rationale": "Princeton's Science paper trains a per-child AI learner on each child's real audio stream from birth to ~3 years — a fresh cognitive-science/language-acquisition result that broadens the day beyond physics.",
+      "published_iso": "2026-11-12T07:00:00-08:00",
+      "og_image": "https://singularityhub.com/uploads/2026/11/baby-face.jpeg?auto=webp",
+      "excerpt": "Princeton's Uri Hasson and team recorded eight households from birth to about age three and trained a per-child AI learner on each child's actual audio stream in order, asking whether it develops language the way the child does (Science). Off-list outlet: no allowed-domain coverage found."
+    }
+  ],
+  "items": [
+    {
+      "url": "https://techxplore.com/news/2026-11-ai-differently-told.html",
+      "title": "AI models can answer differently when told they are being watched",
+      "source": "Tech Xplore",
+      "tool": "Science",
+      "accent": "#2ec5c5",
+      "motif": "sphere",
+      "rationale": "Measured alignment-faking study: 10 LLMs shift rule compliance 5-50 points under perceived monitoring — a concrete, new evaluation result for anyone relying on model behaviour.",
+      "published_iso": "2026-11-13T10:40:10-05:00",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-models-can-answer-d-1.jpg",
+      "excerpt": "TCS Research and KIIT tested 10 LLMs on dilemmas pitting a rule against 32 values under monitored vs unmonitored cues; rule compliance shifted 5-50 percentage points with perceived oversight, and the model-value pairing explained about a quarter of the gap (arXiv 'Alignment Faking Depends on the Value')."
+    },
+    {
+      "url": "https://www.sciencedaily.com/releases/2026/11/261111005913.htm",
+      "title": "AI supercharges laser physics with a stunning 250x speed boost",
+      "source": "ScienceDaily",
+      "tool": "Science",
+      "accent": "#3b6bff",
+      "motif": "sphere",
+      "rationale": "Stanford/UCLA/SLAC deep-learning surrogate reproduces nonlinear-optics simulations 250x faster for LCLS-II pulse shaping — clear quantified speedup in a real facility workflow (Advanced Photonics).",
+      "published_iso": "2026-11-13T18:41:08-05:00",
+      "og_image": null,
+      "excerpt": "Stanford, UCLA and SLAC built a deep-learning surrogate for second-order nonlinear optical (chi-2) frequency conversion used to shape LCLS-II drive-laser pulses, reproducing conventional simulations about 250x faster with high accuracy across pulse shapes (Advanced Photonics)."
+    },
+    {
+      "url": "https://phys.org/news/2026-11-ai-particle-jets-background-noise.html",
+      "title": "Self-learning AI separates particle jets from background noise in simulated heavy-ion collisions",
+      "source": "Phys.org",
+      "tool": "Science",
+      "accent": "#7928ca",
+      "motif": "sphere",
+      "rationale": "Brookhaven-led unsupervised generative model subtracts heavy-ion underlying-event background without paired labels, beating conventional subtraction in sPHENIX simulations (Scientific Reports).",
+      "published_iso": "2026-11-13T12:40:07-05:00",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/super-intelligence-met.jpg",
+      "excerpt": "Brookhaven-led team's unsupervised generative model subtracts the huge underlying-event background from calorimeter jets in heavy-ion collisions without paired labels, beating conventional subtraction in sPHENIX simulations (Scientific Reports); real-data validation pending."
+    },
+    {
+      "url": "https://quantumcomputingreport.com/qodex-quantum-nvidia-rtx-bbn-and-u-s-navy-researchers-forecast-unstructured-pdes-on-52-qubit-ibm-hardware/",
+      "title": "QodeX Quantum, NVIDIA, RTX BBN and U.S. Navy researchers forecast unstructured PDEs on 52-qubit IBM hardware",
+      "source": "Quantum Computing Report",
+      "tool": "Science",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "rationale": "Quantum machine learning on real hardware: a GNN autoencoder plus untrained 52-qubit quantum reservoir forecasts engineering PDE flows gradient-free, sidestepping barren plateaus — the quantum lane for today.",
+      "published_iso": "2026-11-13T22:22:38Z",
+      "og_image": "https://quantumcomputingreport.com/wp-content/uploads/2026/11/image-85.png",
+      "excerpt": "A pretrained graph-neural-network autoencoder paired with a fixed, untrained quantum reservoir forecast nonlinear PDE flows on unstructured engineering meshes using up to 52 qubits of IBM hardware, gradient-free, sidestepping barren plateaus (QML on real hardware)."
+    },
+    {
+      "url": "https://singularityhub.com/2026/11/12/this-ai-learned-language-from-the-recordings-of-a-babys-first-1000-days/",
+      "title": "This AI Learned Language From the Recordings of a Baby's First 1,000 Days",
+      "source": "SingularityHub",
+      "tool": "Science",
+      "accent": "#eb367f",
+      "motif": "sphere",
+      "rationale": "Princeton's Science paper trains a per-child AI learner on each child's real audio stream from birth to ~3 years — a fresh cognitive-science/language-acquisition result that broadens the day beyond physics.",
+      "published_iso": "2026-11-12T07:00:00-08:00",
+      "og_image": "https://singularityhub.com/uploads/2026/11/baby-face.jpeg?auto=webp",
+      "excerpt": "Princeton's Uri Hasson and team recorded eight households from birth to about age three and trained a per-child AI learner on each child's actual audio stream in order, asking whether it develops language the way the child does (Science). Off-list outlet: no allowed-domain coverage found."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.nature.com/articles/d41586-026-03679-8": {
+      "https://techxplore.com/news/2026-11-ai-differently-told.html": {
         "verdict": "new",
-        "nearest": "https://www.quantamagazine.org/new-research-tests-whether-ai-models-know-their-own-thoughts-20261104/",
+        "nearest": "https://techxplore.com/news/2026-11-students-unravel-ai-tendency-sycophancy.html",
         "new_action": ""
       },
-      "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/": {
+      "https://www.sciencedaily.com/releases/2026/11/261111005913.htm": {
         "verdict": "new",
-        "nearest": "https://phys.org/news/2026-11-earth-atmosphere-emulators-enable-faster.html",
+        "nearest": "https://physicsworld.com/a/ai-designed-metasurface-could-make-cameras-far-more-light-efficient/",
         "new_action": ""
       },
-      "https://physicsworld.com/a/ai-agents-act-as-search-tool-for-more-efficient-collider-physics-calculations/": {
+      "https://phys.org/news/2026-11-ai-particle-jets-background-noise.html": {
         "verdict": "new",
-        "nearest": "https://physicsworld.com/a/using-ai-agents-to-run-quantum-simulations/",
+        "nearest": "https://www.ucl.ac.uk/mathematical-physical-sciences/high-energy-physics/reconstruct-everything-ucls-pioneering-ai-model-could-redefine-particle-physics-reconstruction",
         "new_action": ""
       },
-      "https://phys.org/news/2026-11-ai-atomic-reveal-shells-aluminum.html": {
+      "https://quantumcomputingreport.com/qodex-quantum-nvidia-rtx-bbn-and-u-s-navy-researchers-forecast-unstructured-pdes-on-52-qubit-ibm-hardware/": {
         "verdict": "new",
-        "nearest": "https://news.mit.edu/2026/single-ai-model-simulates-many-substances-behavior-1109",
+        "nearest": "https://quantumcomputingreport.com/yonsei-university-researchers-develop-mamba-state-space-neural-decoder-to-enable-real-time-quantum-error-correction/",
         "new_action": ""
       },
-      "https://www.psypost.org/scientists-built-an-ai-called-concept2brain-that-simulates-human-brain-waves-from-pictures-and-text/": {
+      "https://singularityhub.com/2026/11/12/this-ai-learned-language-from-the-recordings-of-a-babys-first-1000-days/": {
         "verdict": "new",
         "nearest": "https://www.psypost.org/human-brains-track-who-did-what-to-whom-in-ways-ai-language-models-dont-fmri-study-suggests/",
         "new_action": ""
       }
     },
-    "note": "No candidate duplicated a published science story; all 5 picks are distinct studies/releases vs the 30-day history_digest (history_match on the jets, bacLIFE, Brain-IT, birdsong and lip-reading items were only 'related' bands, different studies). Excluded: MIT 'AI copilot for structures' (cross-section assignment -> design only); Live Science Brain-IT (underlying result is the April 2026 ICLR paper, stale); Leiden bacLIFE plant-pathogen virulence-gene tool (biosecurity caution per standing rule - avoided rather than reworded); SciAm 'After math, will AI upend science' (analysis/feature, no new result); Live Science birdsong (interview). Left out on score/diversity, not dedup: Phys.org heavy-ion jets, Tech Xplore alignment-faking / muon tomography / lip-reading, ScienceDaily bionic eye (borders medicine), Ai2 XYBench. Outlets: Nature, DeepMind, Physics World, Phys.org, PsyPost (1 each). Cross-section: published_urls.json is too large to read whole and no grep tool was available, so the cross-section URL check was not run. These 5 URLs are science-specific research items, and none is named in the 11-14 cross-section assignments."
+    "note": "Dropped as duplicates: SingularityHub AutoDNA 'AI Agents Ran a Biology Lab' (same Nature AutoDNA story published 2026-11-07, nature.com d41586-026-03552-8); MIT News AI 'copilot' for structures (cross-section: brief says it ran in design 11-14 — science must not pick it). Not picked on judgement: Phys.org bacLIFE plant-pathogen genes (related to 10-29 rice disease card, and pathogen-gene content carries classifier risk); ScienceDaily bionic-eye cortical stimulation (patient-facing, medicine boundary; also keeps ScienceDaily at 1); Live Science Brain-IT fMRI reconstruction (too close to 11-14 Concept2Brain brain-simulation card); Live Science birdsong Q&A (interview, no new paper); GEN protein-design feature (industry survey); Medical Xpress SfN roundup (preview, few numbers); WheatAI (no metrics, release 2028); Google Research Antigravity /teamwork (formal-proof lane deprioritized today; Antigravity ran 11-04); KAIST lip-reading and Tartu muon tomography (lower scores). Outlets: 5 distinct, 1 each."
   }
 }

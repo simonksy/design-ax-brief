@@ -9990,6 +9990,138 @@
           "x": "目前签署方共有来自26个国家的108家出版社。宪章由Association of University Presses托管。值得注意的是，全球最大的大学出版社Oxford University Press并未加入。"
         }
       ]
+    },
+    "books/books-tawhia-cla-prompts": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "新西兰（Aotearoa New Zealand）版权组织Tāwhia Copyright Aotearoa（前身为Copyright Licensing New Zealand）已与英国（UK）的Copyright Licensing Agency签署双边协议，根据该协议，获得授权的内容可用于AI提示词。"
+        }
+      ]
+    },
+    "books/books-lukomski-voice-ruling": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/hero-86.jpg"
+        },
+        {
+          "t": "p",
+          "x": "华沙一家法院周五裁定，一家公司使用AI复制Jarosław Łukomski声音制作的广告属于深度伪造，并责令下架广告、公开道歉，向这位波兰最知名的电影旁白朗读者之一作出赔偿。华沙地区法院知识产权庭于11月13日周五作出判决，波兰媒体称这是该国首起涉及AI克隆声音的审判。Łukomski在生产家用污水处理罐的公司JFC Polska的广告中听到与自己相似的声音后，对其提起诉讼。"
+        },
+        {
+          "t": "video",
+          "yt": "o-CzuhcoWsY"
+        },
+        {
+          "t": "p",
+          "x": "法官Sylwia Wit vel Wilk责令JFC Polska删除相关素材并发布道歉，向Łukomski支付30,000兹罗提（约$7,500）及利息作为补偿，支付逾17,000兹罗提（约$4,260）作为其损失赔偿，并承担诉讼费用。该判决尚未生效。"
+        },
+        {
+          "t": "p",
+          "x": "法官表示，关键在于听众是否可能相信这些话确实出自被模仿者之口。根据她的判决，受保护的利益是每一个人的声音，无论其是否知名。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/scrum.jpg",
+          "cap": "审理期间，Łukomski（左）在华沙法院接受记者采访。图片：eKoszalin，来自YouTube"
+        },
+        {
+          "t": "p",
+          "x": "法院指定的专家认定两种声音“明显（足以乱真地）相似”。该公司的平面设计师表示，他使用了一家波兰AI语音公司的工具；据o2.pl报道，庭审中提到的工具是ElevenLabs。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/booth-4.jpg",
+          "cap": "Łukomski在麦克风前。图片：#AdiMoovi，来自YouTube"
+        }
+      ]
+    },
+    "books/books-kakao-ryan-begins-anim": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.animenewsnetwork.com/thumbnails/max600x600/cms/news.8/222549/3246655_3305364_2723.jpg",
+          "cap": "图片来自Kakao Entertainment官网 © Kakao Entertianment"
+        },
+        {
+          "t": "p",
+          "x": "Kakao于11月10日宣布，通过与OpenAI的技术合作，制作了由人气角色Ryan主演的首部AI动画短片《Ryan Begins》。"
+        },
+        {
+          "t": "p",
+          "x": "这部约七分钟的短片改编自同名网络漫画，在策划和制作中将人类的创意指导与生成式AI工具相结合。"
+        },
+        {
+          "t": "p",
+          "x": "制作团队包括曾执导Netflix动画电影《Lost in Starlight》的导演Jiwon Han，以及AI总监Young-jun Kim。团队利用ChatGPT的图像生成功能，根据场景草图和详细提示词生成初始图像，再由美术人员手工打磨和修改，以达到预期的视觉品质。"
+        },
+        {
+          "t": "video",
+          "yt": "REXgHT6Y_oo"
+        },
+        {
+          "t": "p",
+          "x": "据制作团队介绍，为实现理想的导演效果和情感基调，他们仅一个场景就使用了约1,500条提示词。"
+        },
+        {
+          "t": "p",
+          "x": "Kakao于11月8日在首尔圣水洞（Seongsu-dong）的Movieland举行了特别提前放映会和Q&A活动，现场还展出了这部动画的制作过程。Q&A活动门票开售不到一天即告售罄。"
+        },
+        {
+          "t": "p",
+          "x": "Han表示，团队专注于在不依赖对白或夸张面部表情的情况下传达Ryan的情感，让观众自行解读故事。Kim补充说，每当AI-generated图像与预期的情感基调不符，团队就会反复修改，并强调最终结果取决于创作者的判断和亲手完成的工作。"
+        }
+      ]
+    },
+    "books/books-laffont-madrigall-screening": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/11/Screen-Shot-2026-11-08-at-11.14.44-AM.png"
+        },
+        {
+          "t": "p",
+          "x": "据ActuaLitté报道，法国出版社Robert Laffont对AI-generated稿件采取了与竞争对手Gallimard不同的做法。Robert Laffont总经理Frédéric Martin反对使用AI检测软件筛查投稿，认为作者与出版社之间的关系应建立在信任之上。与此同时，Gallimard的母公司Madrigall计划于2027年1月起对投稿稿件引入AI检测。"
+        },
+        {
+          "t": "p",
+          "x": "Robert Laffont还准备于2027年2月出版Sébastien Bailly借助AI创作（AI-assisted）的小说《Les Touches fantômes》。Bailly先主要借助Claude生成初稿，随后花了一年时间，经过约30个版本改写和打磨书稿。"
+        }
+      ]
+    },
+    "books/books-kyobo-picks-agent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.readersnews.com/news/photo/202611/200863_91283_2625.jpg",
+          "cap": "[图片=教保文库]"
+        },
+        {
+          "t": "p",
+          "x": "教保文库推出对话式AI图书推荐服务“Picks 智能体”。"
+        },
+        {
+          "t": "p",
+          "x": "“Picks”是一项根据个人喜好和兴趣推荐图书的个性化服务。该服务曾于3月引入大语言模型（LLM），完成了升级。"
+        },
+        {
+          "t": "p",
+          "x": "此次新推出的“Picks 智能体”将推荐方式扩展为对话形式。它不仅根据读者喜好，还会依据教保文库MD策划的主题和图书进行推荐，并结合阅读脉络告知阅读顺序。"
+        },
+        {
+          "t": "p",
+          "x": "服务策划吸收了读者的意见。在1月面向会员开展的问卷调查中，55%的受访者表示，选书时最犹豫的时刻是无法确定一本书是否符合自己的喜好。最受欢迎的AI推荐方式是“分析阅读数据的个性化推荐”。"
+        },
+        {
+          "t": "p",
+          "x": "用户登录教保文库网站后，点击搜索栏旁的Picks 智能体图标即可使用该服务。"
+        },
+        {
+          "t": "p",
+          "x": "在上线纪念活动页面上，可以查看作家们向“Picks 智能体”提出的问题、推荐图书及推荐理由，并了解提问方式和推荐过程。上线纪念评论活动也同步进行。"
+        }
+      ]
     }
   }
 }

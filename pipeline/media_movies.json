@@ -1,32 +1,7 @@
-{
-  "date": "2026-11-14",
-  "section": "movies",
-  "media": [
-    {
-      "id": "shortical-inevitable-avni",
-      "type": "image",
-      "src": "pipeline/media/shortical-inevitable-avni.jpg"
-    },
-    {
-      "id": "screenburn-writers-room",
-      "type": "image",
-      "src": "pipeline/media/screenburn-writers-room.jpg"
-    },
-    {
-      "id": "zhao-liying-hongguo-lawsuit",
-      "type": "image",
-      "src": "pipeline/media/zhao-liying-hongguo-lawsuit.jpg"
-    },
-    {
-      "id": "manchester-animation-ai-policy",
-      "type": "video",
-      "src": "pipeline/media/manchester-animation-ai-policy.mp4",
-      "poster": "pipeline/media/manchester-animation-ai-policy.jpg"
-    },
-    {
-      "id": "seedance-25-flash-bytedance",
-      "type": "image",
-      "src": "pipeline/media/seedance-25-flash-bytedance.png"
-    }
-  ]
-}
+{"date":"2026-11-15","section":"movies","media":[
+ {"id":"movies-ace-editors-avid-survey","type":"image","src":"pipeline/media/movies-ace-editors-avid-survey.jpg"},
+ {"id":"4by4-pixell-pro-macos","type":"image","src":"pipeline/media/4by4-pixell-pro-macos.png"},
+ {"id":"runway-labs-video-interface","type":"video","src":"pipeline/media/runway-labs-video-interface.mp4","poster":"pipeline/media/runway-labs-video-interface.jpg"},
+ {"id":"mansa-ai-microdramas-black-stories","type":"image","src":"pipeline/media/mansa-ai-microdramas-black-stories.jpg"},
+ {"id":"animaj-ozzy-fox-disneyplus","type":"image","src":"pipeline/media/animaj-ozzy-fox-disneyplus.jpg"}
+]}

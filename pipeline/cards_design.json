@@ -1,641 +1,17 @@
 {
-  "date": "2026-11-14",
+  "date": "2026-11-15",
   "section": "design",
   "cards": [
     {
-      "id": "mit-structure-copilot",
+      "id": "figma-3d-transforms-launch",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "MIT 코파일럿\n생성 도중 설계자에 묻다",
-      "body": "MIT 코파일럿은 생성 도중 설계자 피드백을 받아 좌굴 하중을 높인다.",
-      "mini_headline": "MIT 설계 코파일럿, 먼저 묻다",
-      "tool": "Text-to-CAD",
-      "source": "MIT News",
-      "url": "https://news.mit.edu/2026/new-ai-copilot-helps-engineers-design-better-structures-1113",
-      "accent": "#7928ca",
-      "motif": "cube",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://news.mit.edu/sites/default/files/images/202611/MIT-ai-design-01-press.jpg"
-          },
-          {
-            "t": "p",
-            "x": "최고 수준의 알고리즘 설계 기법도 계산과 시간이 많이 든다. 사용자는 설계가 끝나야 최종 결과를 볼 수 있고, 고치려면 처음부터 다시 시작해야 할 때가 많다. MIT 연구진은 AI 코파일럿처럼 움직이는 시스템으로 알고리즘 설계에 협업을 들이고 있다. 알고리즘이 구조를 만드는 동안 시스템이 특정 영역을 설계자에게 보여 주고 피드백을 받는다."
-          },
-          {
-            "t": "p",
-            "x": "연구진은 오픈 액세스 학술지 Communications Engineering에 실은 논문에서 이 방식이 완전 알고리즘 방식보다 총 설계 시간은 15초만 늘리면서 제조하기 더 쉽고 좌굴 하중이 더 높은 구조를 만든다고 밝혔다. 시스템은 위상 최적화를 쓴다. 수천 개 설계에 사람이 줄 법한 피드백을 모은 합성 데이터셋으로 머신러닝을 학습시켜, 사람이 가장 손대고 싶어 할 영역을 빠르게 찾아낸다."
-          },
-          {
-            "t": "p",
-            "x": "시연에서 사람이 개입하는 human-in-the-loop 방식은 총 설계 시간을 조금 늘리는 대신 제조 용이성과 선형 좌굴 하중을 39퍼센트 개선했다. 지금은 사용자가 지정된 영역 안의 구조를 두껍게 하거나 얇게 하는 것만 할 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "“설계자의 머릿속을 활용해, 설계가 진화하는 동안 그들의 도메인 지식을 불어넣게 하자는 것이다.” 책임 저자 Josephine Carstensen의 말이다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "MIT copilot asks designers\nfor feedback mid-generation",
-          "body": "An MIT copilot pauses mid-generation to ask designers for feedback, yielding parts with higher buckling loads.",
-          "mini_headline": "MIT design copilot asks first",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202611/MIT-ai-design-01-press.jpg"
-              },
-              {
-                "t": "p",
-                "x": "The best algorithmic design techniques still require lots of computation and time: users only see the final design after it’s complete, and often must start over to make changes. MIT researchers are making algorithmic designs more collaborative with a system that acts like an AI copilot. As the algorithm is generating the structure, it presents regions to the human designer for feedback."
-              },
-              {
-                "t": "p",
-                "x": "In an open-access Communications Engineering paper, the researchers showed it led to more easily manufacturable structures with higher buckling loads while adding only 15 seconds to the total design time compared to all-algorithmic approaches. The system, which uses topology optimization, relies on machine learning trained on a synthetic dataset of probable human feedback to thousands of designs to quickly identify the regions a human would most likely want to change."
-              },
-              {
-                "t": "p",
-                "x": "In demonstrations, the human-in-the-loop approach improved manufacturability and linear buckling load by 39 percent while only modestly increasing the total design time. For now, users can only make structures within identified regions thicker or thinner."
-              },
-              {
-                "t": "p",
-                "x": "“The idea is to tap into the brains of the designers and get them to infuse their domain knowledge as the design evolves,” says senior author Josephine Carstensen."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "MIT 코파일럿\n생성 도중 설계자에 묻다",
-          "body": "MIT 코파일럿은 생성 도중 설계자 피드백을 받아 좌굴 하중을 높인다.",
-          "mini_headline": "MIT 설계 코파일럿, 먼저 묻다",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202611/MIT-ai-design-01-press.jpg"
-              },
-              {
-                "t": "p",
-                "x": "최고 수준의 알고리즘 설계 기법도 계산과 시간이 많이 든다. 사용자는 설계가 끝나야 최종 결과를 볼 수 있고, 고치려면 처음부터 다시 시작해야 할 때가 많다. MIT 연구진은 AI 코파일럿처럼 움직이는 시스템으로 알고리즘 설계에 협업을 들이고 있다. 알고리즘이 구조를 만드는 동안 시스템이 특정 영역을 설계자에게 보여 주고 피드백을 받는다."
-              },
-              {
-                "t": "p",
-                "x": "연구진은 오픈 액세스 학술지 Communications Engineering에 실은 논문에서 이 방식이 완전 알고리즘 방식보다 총 설계 시간은 15초만 늘리면서 제조하기 더 쉽고 좌굴 하중이 더 높은 구조를 만든다고 밝혔다. 시스템은 위상 최적화를 쓴다. 수천 개 설계에 사람이 줄 법한 피드백을 모은 합성 데이터셋으로 머신러닝을 학습시켜, 사람이 가장 손대고 싶어 할 영역을 빠르게 찾아낸다."
-              },
-              {
-                "t": "p",
-                "x": "시연에서 사람이 개입하는 human-in-the-loop 방식은 총 설계 시간을 조금 늘리는 대신 제조 용이성과 선형 좌굴 하중을 39퍼센트 개선했다. 지금은 사용자가 지정된 영역 안의 구조를 두껍게 하거나 얇게 하는 것만 할 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "“설계자의 머릿속을 활용해, 설계가 진화하는 동안 그들의 도메인 지식을 불어넣게 하자는 것이다.” 책임 저자 Josephine Carstensen의 말이다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "MITのコパイロット、\n生成途中で設計者に問う",
-          "body": "MITのコパイロットは生成途中で設計者に意見を求め、座屈荷重の高い部品を生む。",
-          "mini_headline": "MITの設計コパイロット、先に聞く",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202611/MIT-ai-design-01-press.jpg"
-              },
-              {
-                "t": "p",
-                "x": "最先端のアルゴリズム設計手法でも、依然として膨大な計算と時間を要する。ユーザーは設計が完了して初めて最終形を目にし、変更するには最初からやり直さなければならないことも多い。MITの研究者らは、AIコパイロットのように振る舞うシステムで、アルゴリズム設計をより協働的なものにしようとしている。アルゴリズムが構造を生成している間に、システムが領域を人間の設計者に提示してフィードバックを求める。"
-              },
-              {
-                "t": "p",
-                "x": "研究者らはオープンアクセス誌Communications Engineeringの論文で、完全にアルゴリズムに任せる手法と比べて総設計時間の増加をわずか15秒に抑えつつ、製造しやすく座屈荷重の高い構造が得られることを示した。トポロジー最適化を用いるこのシステムは、数千の設計に対して人間が与えそうなフィードバックを集めた合成データセットで学習した機械学習により、人間が最も変更したがりそうな領域を素早く特定する。"
-              },
-              {
-                "t": "p",
-                "x": "デモでは、人間が関与するhuman-in-the-loop方式が、総設計時間をわずかに増やすだけで、製造性と線形座屈荷重を39パーセント改善した。現時点でユーザーができるのは、特定された領域内の構造を厚くするか薄くすることだけだ。"
-              },
-              {
-                "t": "p",
-                "x": "「設計者の頭脳を活用し、設計が進化するなかで彼らの領域知識を注ぎ込んでもらうという考えだ」と、責任著者のJosephine Carstensenは語る。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "MIT设计副驾驶\n生成途中征求反馈",
-          "body": "MIT的设计副驾驶在生成途中暂停征求设计师反馈，造出屈曲载荷更高的部件。",
-          "mini_headline": "MIT设计副驾驶先问一句",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202611/MIT-ai-design-01-press.jpg"
-              },
-              {
-                "t": "p",
-                "x": "最好的算法设计技术仍需要大量计算和时间：用户只能在设计完成后看到最终结果，而且想要修改时往往必须从头再来。MIT研究人员正借助一套类似AI副驾驶的系统，让算法设计更具协作性。在算法生成结构的过程中，系统会把部分区域呈现给人类设计师，征求反馈。"
-              },
-              {
-                "t": "p",
-                "x": "研究人员在发表于开放获取期刊Communications Engineering的论文中表明，与完全依靠算法的方法相比，这种方式只让总设计时间增加 15 秒，却能得到更易制造、屈曲载荷更高的结构。该系统采用拓扑优化，依靠在合成数据集上训练的机器学习——数据集包含人类对数千个设计可能给出的反馈——来快速识别人类最可能想修改的区域。"
-              },
-              {
-                "t": "p",
-                "x": "在演示中，这种人在回路（human-in-the-loop）方法将可制造性和线性屈曲载荷提升了39%，而总设计时间仅略有增加。目前，用户只能把已识别区域内的结构加厚或减薄。"
-              },
-              {
-                "t": "p",
-                "x": "“我们的想法是借助设计师的大脑，让他们在设计演进过程中注入自己的领域知识，”资深作者Josephine Carstensen说。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Copiloto del MIT pide opinión\na diseñadores mientras genera",
-          "body": "Un copiloto del MIT pausa la generación para consultar a los diseñadores y logra piezas con mayor carga de pandeo.",
-          "mini_headline": "El copiloto de diseño del MIT pregunta primero",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202611/MIT-ai-design-01-press.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Las mejores técnicas de diseño algorítmico todavía exigen mucho cálculo y tiempo: los usuarios solo ven el diseño final cuando está terminado y, a menudo, deben empezar de nuevo para hacer cambios. Investigadores del MIT están haciendo que los diseños algorítmicos sean más colaborativos con un sistema que actúa como un copiloto de AI. Mientras el algoritmo genera la estructura, presenta regiones al diseñador humano para que opine."
-              },
-              {
-                "t": "p",
-                "x": "En un artículo de acceso abierto en Communications Engineering, los investigadores mostraron que el sistema produjo estructuras más fáciles de fabricar y con mayores cargas de pandeo, y que solo añadió 15 segundos al tiempo total de diseño frente a los enfoques puramente algorítmicos. El sistema, que usa optimización topológica, se apoya en aprendizaje automático entrenado con un conjunto de datos sintético de probables comentarios humanos sobre miles de diseños para identificar con rapidez las regiones que una persona probablemente querría cambiar."
-              },
-              {
-                "t": "p",
-                "x": "En las demostraciones, el enfoque human-in-the-loop mejoró la fabricabilidad y la carga de pandeo lineal en un 39 por ciento, con un aumento apenas moderado del tiempo total de diseño. Por ahora, los usuarios solo pueden hacer más gruesas o más delgadas las estructuras dentro de las regiones identificadas."
-              },
-              {
-                "t": "p",
-                "x": "“La idea es aprovechar el cerebro de los diseñadores y lograr que incorporen su conocimiento del dominio a medida que evoluciona el diseño”, afirma la autora principal, Josephine Carstensen."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "MIT 코파일럿,\n생성 중 설계자에 묻다",
-          "body": "MIT 코파일럿은 생성 중 설계자 피드백을 구해 좌굴 하중을 높인다.",
-          "mini_headline": "MIT 설계 코파일럿, 먼저 묻다",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202611/MIT-ai-design-01-press.jpg"
-              },
-              {
-                "t": "p",
-                "x": "최고 수준의 알고리즘 설계 기법도 여전히 많은 계산과 시간을 요구한다. 사용자는 설계가 끝난 뒤에야 최종 결과를 볼 수 있고, 수정하려면 처음부터 다시 시작해야 할 때가 많다. MIT 연구진은 AI 코파일럿처럼 작동하는 시스템으로 알고리즘 설계를 더 협업적으로 바꾸고 있다. 알고리즘이 구조를 생성하는 동안 시스템이 특정 영역을 인간 설계자에게 보여 주고 피드백을 받는다."
-              },
-              {
-                "t": "p",
-                "x": "연구진은 오픈 액세스 학술지 Communications Engineering에 실은 논문에서, 이 방식이 완전 알고리즘 방식보다 총 설계 시간을 15초만 늘리면서 제조하기 더 쉽고 좌굴 하중이 더 높은 구조를 만든다고 밝혔다. 위상 최적화를 쓰는 이 시스템은 수천 개 설계에 사람이 줄 법한 피드백을 모은 합성 데이터셋으로 학습한 머신러닝을 활용해, 사람이 가장 바꾸고 싶어 할 영역을 빠르게 찾아낸다."
-              },
-              {
-                "t": "p",
-                "x": "시연에서 사람이 개입하는 human-in-the-loop 방식은 총 설계 시간을 소폭만 늘리면서 제조 용이성과 선형 좌굴 하중을 39퍼센트 개선했다. 현재 사용자는 지정된 영역 안의 구조를 더 두껍게 하거나 더 얇게 하는 것만 할 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "“설계자의 머릿속을 활용해, 설계가 진화하는 동안 그들의 도메인 지식을 불어넣게 하자는 것이다.” 책임 저자 Josephine Carstensen의 말이다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "MITのコパイロット、\n生成途中で設計者に問う",
-          "body": "MITのコパイロットは生成途中で設計者に意見を求め、座屈荷重の高い部品を生む。",
-          "mini_headline": "MITの設計コパイロット、先に聞く",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202611/MIT-ai-design-01-press.jpg"
-              },
-              {
-                "t": "p",
-                "x": "最先端のアルゴリズム設計手法でも、依然として膨大な計算と時間を要する。ユーザーは設計が完了して初めて最終形を目にし、変更するには最初からやり直さなければならないことも多い。MITの研究者らは、AIコパイロットのように振る舞うシステムで、アルゴリズム設計をより協働的なものにしようとしている。アルゴリズムが構造を生成している間に、システムが領域を人間の設計者に提示してフィードバックを求める。"
-              },
-              {
-                "t": "p",
-                "x": "研究者らはオープンアクセス誌Communications Engineeringの論文で、完全にアルゴリズムに任せる手法と比べて総設計時間の増加をわずか15秒に抑えつつ、製造しやすく座屈荷重の高い構造が得られることを示した。トポロジー最適化を用いるこのシステムは、数千の設計に対して人間が与えそうなフィードバックを集めた合成データセットで学習した機械学習により、人間が最も変更したがりそうな領域を素早く特定する。"
-              },
-              {
-                "t": "p",
-                "x": "デモでは、人間が関与するhuman-in-the-loop方式が、総設計時間をわずかに増やすだけで、製造性と線形座屈荷重を39パーセント改善した。現時点でユーザーができるのは、特定された領域内の構造を厚くするか薄くすることだけだ。"
-              },
-              {
-                "t": "p",
-                "x": "「設計者の頭脳を活用し、設計が進化するなかで彼らの領域知識を注ぎ込んでもらうという考えだ」と、責任著者のJosephine Carstensenは語る。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "MIT设计副驾驶\n生成途中征求反馈",
-          "body": "MIT的设计副驾驶在生成途中暂停征求设计师反馈，造出屈曲载荷更高的部件。",
-          "mini_headline": "MIT设计副驾驶先问一句",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202611/MIT-ai-design-01-press.jpg"
-              },
-              {
-                "t": "p",
-                "x": "最好的算法设计技术仍需要大量计算和时间：用户只能在设计完成后看到最终结果，而且想要修改时往往必须从头再来。MIT研究人员正借助一套类似AI副驾驶的系统，让算法设计更具协作性。在算法生成结构的过程中，系统会把部分区域呈现给人类设计师，征求反馈。"
-              },
-              {
-                "t": "p",
-                "x": "研究人员在发表于开放获取期刊Communications Engineering的论文中表明，与完全依靠算法的方法相比，这种方式只让总设计时间增加 15 秒，却能得到更易制造、屈曲载荷更高的结构。该系统采用拓扑优化，依靠在合成数据集上训练的机器学习——数据集包含人类对数千个设计可能给出的反馈——来快速识别人类最可能想修改的区域。"
-              },
-              {
-                "t": "p",
-                "x": "在演示中，这种人在回路（human-in-the-loop）方法将可制造性和线性屈曲载荷提升了39%，而总设计时间仅略有增加。目前，用户只能把已识别区域内的结构加厚或减薄。"
-              },
-              {
-                "t": "p",
-                "x": "“我们的想法是借助设计师的大脑，让他们在设计演进过程中注入自己的领域知识，”资深作者Josephine Carstensen说。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Copiloto del MIT pide opinión\na diseñadores mientras genera",
-          "body": "Un copiloto del MIT pausa la generación para consultar a los diseñadores y logra piezas con mayor carga de pandeo.",
-          "mini_headline": "El copiloto de diseño del MIT pregunta primero",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202611/MIT-ai-design-01-press.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Las mejores técnicas de diseño algorítmico todavía exigen mucho cálculo y tiempo: los usuarios solo ven el diseño final cuando está terminado y, a menudo, deben empezar de nuevo para hacer cambios. Investigadores del MIT están haciendo que los diseños algorítmicos sean más colaborativos con un sistema que actúa como un copiloto de AI. Mientras el algoritmo genera la estructura, presenta regiones al diseñador humano para que opine."
-              },
-              {
-                "t": "p",
-                "x": "En un artículo de acceso abierto en Communications Engineering, los investigadores mostraron que el sistema produjo estructuras más fáciles de fabricar y con mayores cargas de pandeo, y que solo añadió 15 segundos al tiempo total de diseño frente a los enfoques puramente algorítmicos. El sistema, que usa optimización topológica, se apoya en aprendizaje automático entrenado con un conjunto de datos sintético de probables comentarios humanos sobre miles de diseños para identificar con rapidez las regiones que una persona probablemente querría cambiar."
-              },
-              {
-                "t": "p",
-                "x": "En las demostraciones, el enfoque human-in-the-loop mejoró la fabricabilidad y la carga de pandeo lineal en un 39 por ciento, con un aumento apenas moderado del tiempo total de diseño. Por ahora, los usuarios solo pueden hacer más gruesas o más delgadas las estructuras dentro de las regiones identificadas."
-              },
-              {
-                "t": "p",
-                "x": "“La idea es aprovechar el cerebro de los diseñadores y lograr que incorporen su conocimiento del dominio a medida que evoluciona el diseño”, afirma la autora principal, Josephine Carstensen."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "keyshot-studio-20263-agent",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "KeyShot 2026.3\n앱 안에 AI Agent",
-      "body": "KeyShot Studio 2026.3에 AI Agent와 SSO가 들어갔다.",
-      "mini_headline": "KeyShot에 AI Agent 탑재",
-      "tool": "KeyShot",
-      "source": "KeyShot",
-      "url": "https://www.keyshot.com/blog/keyshot-introduces-single-sign-on-ai-agent-and-more/",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://www.keyshot.com/wp-content/uploads/2026/11/KS_2026-3_NEW-HEADER.jpg"
-          },
-          {
-            "t": "p",
-            "x": "설정은 줄이고 렌더링은 늘린다. KeyShot Studio 2026.3이 내건 주제다. 이번 릴리스는 Studio에 AI Agent를 바로 넣고, 모든 사용자에게 개인 클라우드 저장소를 주며, 제품 변형을 훨씬 쉽게 만들고 정리하게 했다."
-          },
-          {
-            "t": "video",
-            "yt": "SD55TezMaKQ"
-          },
-          {
-            "t": "p",
-            "x": "새 AI Agent는 KeyShot Studio 안에 바로 들어 있다. 원하는 룩을 평이한 말로 설명하면 재질, 조명, 카메라, 환경을 알아서 조정한다. Studio 도구 대부분을 Agent가 다룰 수 있어, 사용자는 디자인에 집중하고 설정은 맡기면 된다. AI Agent는 클라우드에서 돌며 KeyShot 크레딧을 쓴다."
-          },
-          {
-            "t": "p",
-            "x": "Personal Cloud Storage가 생기면서 모든 KeyShot 사용자가 자기만의 클라우드 공간을 갖게 됐다. KeyShot이 없는 검토자도 KeyShot Explorer(현재 베타)에서 공유된 장면을 볼 수 있다. KeyShot Studio Enterprise에는 맞춤 SSO와 MFA 강제 적용이 추가됐다. Part Variations는 형상 변형을 재질 변형만큼 쉽게 만들고, Studio Groups는 스튜디오를 폴더로 정리한다. CAD 임포터와 플러그인도 함께 업데이트됐다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "KeyShot Studio 2026.3 adds\nan AI Agent inside the app",
-          "body": "KeyShot Studio 2026.3 builds an AI Agent into the renderer, alongside personal cloud storage and enterprise SSO.",
-          "mini_headline": "KeyShot gets an AI Agent",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.keyshot.com/wp-content/uploads/2026/11/KS_2026-3_NEW-HEADER.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Less setup, more rendering: that's the theme of KeyShot Studio 2026.3. This release puts an AI Agent right inside Studio, gives every user personal cloud storage, and makes it far easier to build and organize product variations."
-              },
-              {
-                "t": "video",
-                "yt": "SD55TezMaKQ"
-              },
-              {
-                "t": "p",
-                "x": "The new AI Agent lives right inside KeyShot Studio. Tell it in plain language what look you're after, and it can adjust materials, lighting, cameras and environments for you. The Agent can use most of the tools Studio offers, so it handles the setup while you focus on the design. The AI Agent is cloud-based and uses KeyShot credits."
-              },
-              {
-                "t": "p",
-                "x": "With Personal Cloud Storage, every KeyShot user gets their own cloud space, and reviewers without KeyShot can view shared scenes in KeyShot Explorer (now in beta). KeyShot Studio Enterprise adds custom SSO and enforced MFA. Part Variations make geometric variations as easy as material ones, and Studio Groups organize studios into folders. The release also updates CAD importers and plugins."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "KeyShot 2026.3\n앱 안에 AI Agent",
-          "body": "KeyShot Studio 2026.3에 AI Agent와 SSO가 들어갔다.",
-          "mini_headline": "KeyShot에 AI Agent 탑재",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.keyshot.com/wp-content/uploads/2026/11/KS_2026-3_NEW-HEADER.jpg"
-              },
-              {
-                "t": "p",
-                "x": "설정은 줄이고 렌더링은 늘린다. KeyShot Studio 2026.3이 내건 주제다. 이번 릴리스는 Studio에 AI Agent를 바로 넣고, 모든 사용자에게 개인 클라우드 저장소를 주며, 제품 변형을 훨씬 쉽게 만들고 정리하게 했다."
-              },
-              {
-                "t": "video",
-                "yt": "SD55TezMaKQ"
-              },
-              {
-                "t": "p",
-                "x": "새 AI Agent는 KeyShot Studio 안에 바로 들어 있다. 원하는 룩을 평이한 말로 설명하면 재질, 조명, 카메라, 환경을 알아서 조정한다. Studio 도구 대부분을 Agent가 다룰 수 있어, 사용자는 디자인에 집중하고 설정은 맡기면 된다. AI Agent는 클라우드에서 돌며 KeyShot 크레딧을 쓴다."
-              },
-              {
-                "t": "p",
-                "x": "Personal Cloud Storage가 생기면서 모든 KeyShot 사용자가 자기만의 클라우드 공간을 갖게 됐다. KeyShot이 없는 검토자도 KeyShot Explorer(현재 베타)에서 공유된 장면을 볼 수 있다. KeyShot Studio Enterprise에는 맞춤 SSO와 MFA 강제 적용이 추가됐다. Part Variations는 형상 변형을 재질 변형만큼 쉽게 만들고, Studio Groups는 스튜디오를 폴더로 정리한다. CAD 임포터와 플러그인도 함께 업데이트됐다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "KeyShot 2026.3\nアプリ内にAI Agent",
-          "body": "KeyShot Studio 2026.3 はAI AgentとSSOを搭載した。",
-          "mini_headline": "KeyShotにAI Agent",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.keyshot.com/wp-content/uploads/2026/11/KS_2026-3_NEW-HEADER.jpg"
-              },
-              {
-                "t": "p",
-                "x": "セットアップを減らし、レンダリングを増やす。それがKeyShot Studio 2026.3のテーマだ。今回のリリースはStudioの中にAI Agentを直接組み込み、全ユーザーに個人用クラウドストレージを提供し、製品バリエーションの作成と整理を格段に容易にする。"
-              },
-              {
-                "t": "video",
-                "yt": "SD55TezMaKQ"
-              },
-              {
-                "t": "p",
-                "x": "新しいAI AgentはKeyShot Studioの中に直接組み込まれている。求めるルックを普段の言葉で伝えれば、マテリアル、ライティング、カメラ、環境を代わりに調整する。AgentはStudioのツールの大半を使えるため、ユーザーがデザインに集中する間にセットアップを引き受ける。AI Agentはクラウドベースで、KeyShotクレジットを消費する。"
-              },
-              {
-                "t": "p",
-                "x": "Personal Cloud Storageにより、すべてのKeyShotユーザーが専用のクラウド領域を持ち、KeyShotを持たないレビュアーもKeyShot Explorer（現在ベータ版）で共有シーンを閲覧できる。KeyShot Studio EnterpriseにはカスタムSSOとMFAの強制が加わった。Part Variationsは形状のバリエーションをマテリアルと同じくらい簡単にし、Studio Groupsはスタジオをフォルダーで整理する。CADインポーターとプラグインも更新された。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "KeyShot 2026.3\n应用内置AI Agent",
-          "body": "KeyShot Studio 2026.3 在渲染器中内置AI Agent，并新增SSO。",
-          "mini_headline": "KeyShot迎来AI Agent",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.keyshot.com/wp-content/uploads/2026/11/KS_2026-3_NEW-HEADER.jpg"
-              },
-              {
-                "t": "p",
-                "x": "更少设置，更多渲染：这是KeyShot Studio 2026.3 的主题。此次发布将AI Agent直接放进Studio，为每位用户提供个人云存储，并让产品变体的创建和整理变得容易得多。"
-              },
-              {
-                "t": "video",
-                "yt": "SD55TezMaKQ"
-              },
-              {
-                "t": "p",
-                "x": "新的AI Agent直接内置于KeyShot Studio。用平实的语言说出你想要的效果，它就能替你调整材质、灯光、相机和环境。Agent可以使用Studio提供的大多数工具，因此你专注设计时，设置工作由它负责。AI Agent基于云端，消耗KeyShot点数。"
-              },
-              {
-                "t": "p",
-                "x": "借助Personal Cloud Storage，每位KeyShot用户都有自己的云空间，没有KeyShot的审阅者也能在KeyShot Explorer（目前为测试版）中查看共享场景。KeyShot Studio Enterprise新增自定义SSO和强制MFA。Part Variations让几何变体像材质变体一样简单，Studio Groups则把工作室整理进文件夹。此次发布还更新了CAD导入器和插件。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "KeyShot Studio 2026.3 integra\nun AI Agent dentro de la app",
-          "body": "KeyShot Studio 2026.3 integra un AI Agent, almacenamiento personal en la nube y SSO empresarial.",
-          "mini_headline": "KeyShot incorpora un AI Agent",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.keyshot.com/wp-content/uploads/2026/11/KS_2026-3_NEW-HEADER.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Menos configuración, más renderizado: ese es el lema de KeyShot Studio 2026.3. Esta versión integra un AI Agent dentro de Studio, ofrece a cada usuario almacenamiento personal en la nube y facilita mucho crear y organizar variaciones de producto."
-              },
-              {
-                "t": "video",
-                "yt": "SD55TezMaKQ"
-              },
-              {
-                "t": "p",
-                "x": "El nuevo AI Agent está integrado en KeyShot Studio. Basta con describir en lenguaje sencillo el aspecto que se busca para que ajuste materiales, iluminación, cámaras y entornos. El Agent puede usar la mayoría de las herramientas de Studio, de modo que se encarga de la configuración mientras el usuario se centra en el diseño. El AI Agent funciona en la nube y consume créditos de KeyShot."
-              },
-              {
-                "t": "p",
-                "x": "Con Personal Cloud Storage, cada usuario de KeyShot obtiene su propio espacio en la nube, y los revisores sin KeyShot pueden ver escenas compartidas en KeyShot Explorer (ahora en beta). KeyShot Studio Enterprise añade SSO personalizado y MFA obligatorio. Part Variations hace que las variaciones geométricas sean tan sencillas como las de material, y Studio Groups organiza los estudios en carpetas. La versión también actualiza los importadores de CAD y los plugins."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "KeyShot 2026.3\n앱 안에 AI Agent",
-          "body": "KeyShot Studio 2026.3이 AI Agent와 SSO를 더했다.",
-          "mini_headline": "KeyShot에 AI Agent 탑재",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.keyshot.com/wp-content/uploads/2026/11/KS_2026-3_NEW-HEADER.jpg"
-              },
-              {
-                "t": "p",
-                "x": "설정은 줄이고 렌더링은 늘린다. KeyShot Studio 2026.3의 주제다. 이번 릴리스는 Studio 안에 AI Agent를 바로 넣고, 모든 사용자에게 개인 클라우드 저장소를 주며, 제품 변형을 훨씬 쉽게 만들고 정리할 수 있게 한다."
-              },
-              {
-                "t": "video",
-                "yt": "SD55TezMaKQ"
-              },
-              {
-                "t": "p",
-                "x": "새 AI Agent는 KeyShot Studio 안에 바로 자리한다. 원하는 룩을 평이한 말로 설명하면 재질, 조명, 카메라, 환경을 대신 조정한다. Agent는 Studio가 제공하는 도구 대부분을 쓸 수 있어, 사용자가 디자인에 집중하는 동안 설정을 맡는다. AI Agent는 클라우드 기반이며 KeyShot 크레딧을 쓴다."
-              },
-              {
-                "t": "p",
-                "x": "Personal Cloud Storage로 모든 KeyShot 사용자는 자기만의 클라우드 공간을 얻고, KeyShot이 없는 검토자도 KeyShot Explorer(현재 베타)에서 공유된 장면을 볼 수 있다. KeyShot Studio Enterprise에는 맞춤 SSO와 MFA 강제 적용이 추가됐다. Part Variations는 형상 변형을 재질 변형만큼 쉽게 만들고, Studio Groups는 스튜디오를 폴더로 정리한다. 이번 릴리스는 CAD 임포터와 플러그인도 업데이트했다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "KeyShot 2026.3\nアプリ内にAI Agent",
-          "body": "KeyShot Studio 2026.3 はAI AgentとSSOを搭載した。",
-          "mini_headline": "KeyShotにAI Agent",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.keyshot.com/wp-content/uploads/2026/11/KS_2026-3_NEW-HEADER.jpg"
-              },
-              {
-                "t": "p",
-                "x": "セットアップを減らし、レンダリングを増やす。それがKeyShot Studio 2026.3のテーマだ。今回のリリースはStudioの中にAI Agentを直接組み込み、全ユーザーに個人用クラウドストレージを提供し、製品バリエーションの作成と整理を格段に容易にする。"
-              },
-              {
-                "t": "video",
-                "yt": "SD55TezMaKQ"
-              },
-              {
-                "t": "p",
-                "x": "新しいAI AgentはKeyShot Studioの中に直接組み込まれている。求めるルックを普段の言葉で伝えれば、マテリアル、ライティング、カメラ、環境を代わりに調整する。AgentはStudioのツールの大半を使えるため、ユーザーがデザインに集中する間にセットアップを引き受ける。AI Agentはクラウドベースで、KeyShotクレジットを消費する。"
-              },
-              {
-                "t": "p",
-                "x": "Personal Cloud Storageにより、すべてのKeyShotユーザーが専用のクラウド領域を持ち、KeyShotを持たないレビュアーもKeyShot Explorer（現在ベータ版）で共有シーンを閲覧できる。KeyShot Studio EnterpriseにはカスタムSSOとMFAの強制が加わった。Part Variationsは形状のバリエーションをマテリアルと同じくらい簡単にし、Studio Groupsはスタジオをフォルダーで整理する。CADインポーターとプラグインも更新された。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "KeyShot 2026.3\n应用内置AI Agent",
-          "body": "KeyShot Studio 2026.3 在渲染器中内置AI Agent，并新增SSO。",
-          "mini_headline": "KeyShot迎来AI Agent",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.keyshot.com/wp-content/uploads/2026/11/KS_2026-3_NEW-HEADER.jpg"
-              },
-              {
-                "t": "p",
-                "x": "更少设置，更多渲染：这是KeyShot Studio 2026.3 的主题。此次发布将AI Agent直接放进Studio，为每位用户提供个人云存储，并让产品变体的创建和整理变得容易得多。"
-              },
-              {
-                "t": "video",
-                "yt": "SD55TezMaKQ"
-              },
-              {
-                "t": "p",
-                "x": "新的AI Agent直接内置于KeyShot Studio。用平实的语言说出你想要的效果，它就能替你调整材质、灯光、相机和环境。Agent可以使用Studio提供的大多数工具，因此你专注设计时，设置工作由它负责。AI Agent基于云端，消耗KeyShot点数。"
-              },
-              {
-                "t": "p",
-                "x": "借助Personal Cloud Storage，每位KeyShot用户都有自己的云空间，没有KeyShot的审阅者也能在KeyShot Explorer（目前为测试版）中查看共享场景。KeyShot Studio Enterprise新增自定义SSO和强制MFA。Part Variations让几何变体像材质变体一样简单，Studio Groups则把工作室整理进文件夹。此次发布还更新了CAD导入器和插件。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "KeyShot Studio 2026.3 integra\nun AI Agent dentro de la app",
-          "body": "KeyShot Studio 2026.3 integra un AI Agent, almacenamiento personal en la nube y SSO empresarial.",
-          "mini_headline": "KeyShot incorpora un AI Agent",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.keyshot.com/wp-content/uploads/2026/11/KS_2026-3_NEW-HEADER.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Menos configuración, más renderizado: ese es el lema de KeyShot Studio 2026.3. Esta versión integra un AI Agent dentro de Studio, ofrece a cada usuario almacenamiento personal en la nube y facilita mucho crear y organizar variaciones de producto."
-              },
-              {
-                "t": "video",
-                "yt": "SD55TezMaKQ"
-              },
-              {
-                "t": "p",
-                "x": "El nuevo AI Agent está integrado en KeyShot Studio. Basta con describir en lenguaje sencillo el aspecto que se busca para que ajuste materiales, iluminación, cámaras y entornos. El Agent puede usar la mayoría de las herramientas de Studio, de modo que se encarga de la configuración mientras el usuario se centra en el diseño. El AI Agent funciona en la nube y consume créditos de KeyShot."
-              },
-              {
-                "t": "p",
-                "x": "Con Personal Cloud Storage, cada usuario de KeyShot obtiene su propio espacio en la nube, y los revisores sin KeyShot pueden ver escenas compartidas en KeyShot Explorer (ahora en beta). KeyShot Studio Enterprise añade SSO personalizado y MFA obligatorio. Part Variations hace que las variaciones geométricas sean tan sencillas como las de material, y Studio Groups organiza los estudios en carpetas. La versión también actualiza los importadores de CAD y los plugins."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "google-a2ui-v1-stable",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Google, 에이전트용\nA2UI 1.0 공개",
-      "body": "Google A2UI 1.0으로 에이전트가 텍스트 대신 화면 요소로 답한다.",
-      "mini_headline": "A2UI, 1.0 도달",
+      "headline": "Figma 3D 변환,\n에이전트와 만든 출시 영상",
+      "body": "Full 시트 오픈 베타로 나온 Figma 3D 변환은 레이어를 비파괴로 돌린다.",
+      "mini_headline": "Figma에 3D 변환 추가",
       "tool": "Figma",
-      "source": "Google Developers Blog",
-      "url": "https://developers.googleblog.com/a2ui-10-build-delightful-fast-reliable-agentic-experiences/",
+      "source": "Figma",
+      "url": "https://www.figma.com/blog/how-3d-transforms-and-figmas-agent-brought-a-launch-video-to-life/",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
@@ -643,233 +19,209 @@
         "blocks": [
           {
             "t": "p",
-            "x": "지금 사용자가 에이전트를 쓰는 방식은 터미널 시대의 컴퓨터와 닮았다. 능력은 있는데 답은 거의 다 텍스트로 한다. Google은 생성형 UI용 오픈 프로토콜의 첫 안정 버전 A2UI 1.0을 공개했다. 이제 AI 에이전트는 확인용 양식이나 차트 같은 대화형 화면으로 답할 수 있다."
-          },
-          {
-            "t": "video",
-            "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/original_videos/A2UI_1.0_sick_day_three_ways_2.mp4"
+            "x": "Figma는 올해 초 Figma Motion, Figma 에이전트로 만드는 생성형 플러그인과 셰이더, 3D 변환을 발표했다. 이 가운데 3D 변환이 오늘 오픈 베타로 열렸다. 텍스트, 이미지, 벡터, 프레임을 공간에서 기울이고 돌리고 배치하는 효과다. 부모 프레임에 원근을 주면 이들이 한 공간 안에 함께 놓인다. 비파괴 방식이라 원본 아트워크는 그 아래에서 계속 고칠 수 있다."
           },
           {
             "t": "p",
-            "x": "A2UI에서 에이전트는 무엇을 보여 줄지만 기술하고, UI는 각 앱이 자체 네이티브 컴포넌트로 그린다. 에이전트가 쓰는 건 사용자의 디자인 시스템뿐이다. 개발자는 웹, Android, iOS용 오픈소스 렌더러 SDKs와 Python, TypeScript, Dart용 에이전트 SDKs로 지금 바로 써 볼 수 있다. 버전 1.0에는 양방향 함수 호출과 함께 접근성·확장 지원이 더해졌다."
+            "x": "Figma Brand Studio 팀은 3D 변환 출시 영상을 바로 이 효과로 만들었다. 브랜드 디자이너 Deanna Gueli는 타이포그래피 배치를 잡고 나서 Figma 에이전트에게 이를 Z 축을 따라 일정 간격으로 반복해 달라고 했다. “주거니 받거니 하는 탱고 같았다. 에이전트는 계산을, 나는 창작을 맡았다”는 게 그의 말이다. 지오메트리도 에이전트와 함께 만들었다. 타입 애니메이션을 직사각형 튜브에 입힌 뒤 그 형태를 컴포넌트로 바꿨다."
           },
           {
             "t": "img",
-            "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/06_atlassian_jira.original.png",
-            "cap": "에이전트가 Jira 작업 항목 안에서 팀에 후속 조치를 요청한다."
+            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/02f264d3e112d6229cb18015b9fa6b7123a380c9-1920x1080.png?w=1200&q=75&fit=max&auto=format",
+            "cap": "Deanna는 지오메트리 위에 글자를 얹고 그 요소들을 공간에서 돌려 보는 방식을 탐색했다."
           },
           {
             "t": "p",
-            "x": "Atlassian, Alation, Bloomberg, ByteDance 등은 이미 이를 써서 개발하고 있다. Atlassian은 Jira에 A2UI를 도입하고, Alation 피드는 A2UI를 거쳐 Claude 안에서 렌더링된다."
+            "x": "브랜드 모션 디자이너 Ben Hill은 요소를 그리드, 나선, 링, 무작위 분산으로 늘어놓는 생성형 플러그인을 Figma 에이전트에게 맡겨 만들었다. 표면 질감과 빛이 훑고 지나가는 효과는 셰이더로 더했다."
           },
           {
             "t": "img",
-            "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/07_alation.original.png",
-            "cap": "Claude(왼쪽)와 Alation의 Data Products App(오른쪽)에서 렌더링된 같은 Alation 피드."
+            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/222f89045df6d65e95959134992974b5d8d51f31-3840x2160.png?rect=0,1,3840,2159&w=1200&q=75&fit=max&auto=format",
+            "cap": "Ben은 에이전트가 만든 플러그인으로 여러 3D 레이아웃을 시험하고 방향과 간격도 조절했다."
           },
           {
             "t": "p",
-            "x": "Google 안에서는 Gemini Notebook이 A2UI 카드로 슬라이드 덱을 짜고, Gemini는 조직이 직접 운영하는 에이전트의 A2UI 응답을 렌더링한다. 1.0용 Jetpack Compose 지원도 곧 나온다."
+            "x": "3D 변환은 Dev Mode에서 CSS로 그대로 옮겨진다. 코딩 에이전트는 Figma MCP 서버로 3D 디자인을 읽고 만든다. 지금은 모든 Full 시트 사용자가 오픈 베타로 쓸 수 있다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Google ships A2UI 1.0 for\nagent-built interfaces",
-          "body": "Google's A2UI 1.0 protocol lets agents answer with interactive interface components instead of walls of text.",
-          "mini_headline": "A2UI hits 1.0",
+          "headline": "Figma's agent and 3D transforms\nshape a launch video",
+          "body": "Figma's 3D transforms, in open beta for Full seats, let designers tilt and rotate layers in space non-destructively.",
+          "mini_headline": "Figma adds 3D transforms",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "User interactions with agents today are where computers were in the terminal era: capable, and answering almost everything in text. Google is releasing A2UI 1.0, the first stable version of its open protocol for generative UI. It lets AI agents answer with interactive screens, such as a form to confirm or a chart."
-              },
-              {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/original_videos/A2UI_1.0_sick_day_three_ways_2.mp4"
+                "x": "Earlier this year, Figma announced Figma Motion, generative plugins and shaders powered by the Figma agent, and 3D transforms. Today, 3D transforms are available in open beta. Use the 3D transform effect to tilt, rotate, and arrange text, images, vectors, and frames in space; add the perspective effect to a parent frame and they become part of a shared spatial composition. The effects are non-destructive: the original artwork remains editable underneath."
               },
               {
                 "t": "p",
-                "x": "With A2UI, the agent describes what to show, and every app draws the UI with its own native components. Agents use your design system and nothing else. Developers can use it now with open-source renderer SDKs for the web, Android, and iOS and agent SDKs for Python, TypeScript, and Dart. Version 1.0 adds bidirectional function calls, plus support for accessibility and extensions."
+                "x": "The Figma Brand Studio team put these effects to work on the launch video for 3D transforms. Brand designer Deanna Gueli worked out a typographic placement, then asked the Figma agent to repeat it at intervals along the Z axis. “There was a tango back and forth: The agent did math, and I did the creative stuff,” she says. She also used the agent to help construct geometry, placing the type animation onto a rectangular tube and turning that form into a component."
               },
               {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/06_atlassian_jira.original.png",
-                "cap": "An agent asks the team for a follow-up inside a Jira work item."
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/02f264d3e112d6229cb18015b9fa6b7123a380c9-1920x1080.png?w=1200&q=75&fit=max&auto=format",
+                "cap": "Deanna explored placing type on geometry and rotating those elements in space."
               },
               {
                 "t": "p",
-                "x": "Companies such as Atlassian, Alation, Bloomberg, and ByteDance are already building with it. Atlassian is bringing A2UI to Jira, and the Alation feed renders in Claude using A2UI."
+                "x": "Brand motion designer Ben Hill had the Figma agent build a generative plugin to arrange elements into a grid, a helix, a ring, or a randomized scatter, then added shaders for surface treatments and light sweeps."
               },
               {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/07_alation.original.png",
-                "cap": "The same Alation feed rendered in Claude (left) and in Alation's Data Products App (right)."
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/222f89045df6d65e95959134992974b5d8d51f31-3840x2160.png?rect=0,1,3840,2159&w=1200&q=75&fit=max&auto=format",
+                "cap": "The agent-generated plugin gave Ben a range of 3D layouts and controls for orientation and spacing."
               },
               {
                 "t": "p",
-                "x": "Inside Google, Gemini Notebook uses A2UI cards to set up slide decks, and Gemini renders A2UI responses from organizations' own agents. Jetpack Compose support for 1.0 is coming soon."
+                "x": "3D transforms map directly to CSS in Dev Mode, and coding agents can read and create 3D designs through the Figma MCP server. 3D transforms are now in open beta for all Full seat users."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Google, 에이전트용\nA2UI 1.0 공개",
-          "body": "Google A2UI 1.0으로 에이전트가 텍스트 대신 화면 요소로 답한다.",
-          "mini_headline": "A2UI, 1.0 도달",
+          "headline": "Figma 3D 변환,\n에이전트와 만든 출시 영상",
+          "body": "Full 시트 오픈 베타로 나온 Figma 3D 변환은 레이어를 비파괴로 돌린다.",
+          "mini_headline": "Figma에 3D 변환 추가",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "지금 사용자가 에이전트를 쓰는 방식은 터미널 시대의 컴퓨터와 닮았다. 능력은 있는데 답은 거의 다 텍스트로 한다. Google은 생성형 UI용 오픈 프로토콜의 첫 안정 버전 A2UI 1.0을 공개했다. 이제 AI 에이전트는 확인용 양식이나 차트 같은 대화형 화면으로 답할 수 있다."
-              },
-              {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/original_videos/A2UI_1.0_sick_day_three_ways_2.mp4"
+                "x": "Figma는 올해 초 Figma Motion, Figma 에이전트로 만드는 생성형 플러그인과 셰이더, 3D 변환을 발표했다. 이 가운데 3D 변환이 오늘 오픈 베타로 열렸다. 텍스트, 이미지, 벡터, 프레임을 공간에서 기울이고 돌리고 배치하는 효과다. 부모 프레임에 원근을 주면 이들이 한 공간 안에 함께 놓인다. 비파괴 방식이라 원본 아트워크는 그 아래에서 계속 고칠 수 있다."
               },
               {
                 "t": "p",
-                "x": "A2UI에서 에이전트는 무엇을 보여 줄지만 기술하고, UI는 각 앱이 자체 네이티브 컴포넌트로 그린다. 에이전트가 쓰는 건 사용자의 디자인 시스템뿐이다. 개발자는 웹, Android, iOS용 오픈소스 렌더러 SDKs와 Python, TypeScript, Dart용 에이전트 SDKs로 지금 바로 써 볼 수 있다. 버전 1.0에는 양방향 함수 호출과 함께 접근성·확장 지원이 더해졌다."
+                "x": "Figma Brand Studio 팀은 3D 변환 출시 영상을 바로 이 효과로 만들었다. 브랜드 디자이너 Deanna Gueli는 타이포그래피 배치를 잡고 나서 Figma 에이전트에게 이를 Z 축을 따라 일정 간격으로 반복해 달라고 했다. “주거니 받거니 하는 탱고 같았다. 에이전트는 계산을, 나는 창작을 맡았다”는 게 그의 말이다. 지오메트리도 에이전트와 함께 만들었다. 타입 애니메이션을 직사각형 튜브에 입힌 뒤 그 형태를 컴포넌트로 바꿨다."
               },
               {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/06_atlassian_jira.original.png",
-                "cap": "에이전트가 Jira 작업 항목 안에서 팀에 후속 조치를 요청한다."
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/02f264d3e112d6229cb18015b9fa6b7123a380c9-1920x1080.png?w=1200&q=75&fit=max&auto=format",
+                "cap": "Deanna는 지오메트리 위에 글자를 얹고 그 요소들을 공간에서 돌려 보는 방식을 탐색했다."
               },
               {
                 "t": "p",
-                "x": "Atlassian, Alation, Bloomberg, ByteDance 등은 이미 이를 써서 개발하고 있다. Atlassian은 Jira에 A2UI를 도입하고, Alation 피드는 A2UI를 거쳐 Claude 안에서 렌더링된다."
+                "x": "브랜드 모션 디자이너 Ben Hill은 요소를 그리드, 나선, 링, 무작위 분산으로 늘어놓는 생성형 플러그인을 Figma 에이전트에게 맡겨 만들었다. 표면 질감과 빛이 훑고 지나가는 효과는 셰이더로 더했다."
               },
               {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/07_alation.original.png",
-                "cap": "Claude(왼쪽)와 Alation의 Data Products App(오른쪽)에서 렌더링된 같은 Alation 피드."
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/222f89045df6d65e95959134992974b5d8d51f31-3840x2160.png?rect=0,1,3840,2159&w=1200&q=75&fit=max&auto=format",
+                "cap": "Ben은 에이전트가 만든 플러그인으로 여러 3D 레이아웃을 시험하고 방향과 간격도 조절했다."
               },
               {
                 "t": "p",
-                "x": "Google 안에서는 Gemini Notebook이 A2UI 카드로 슬라이드 덱을 짜고, Gemini는 조직이 직접 운영하는 에이전트의 A2UI 응답을 렌더링한다. 1.0용 Jetpack Compose 지원도 곧 나온다."
+                "x": "3D 변환은 Dev Mode에서 CSS로 그대로 옮겨진다. 코딩 에이전트는 Figma MCP 서버로 3D 디자인을 읽고 만든다. 지금은 모든 Full 시트 사용자가 오픈 베타로 쓸 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Google、A2UI\n1.0 正式版を公開",
-          "body": "GoogleのA2UI 1.0で、エージェントは文章でなく対話型UIで答える。",
-          "mini_headline": "A2UIが1.0に",
+          "headline": "Figmaの3D変形と\nエージェントで発表映像",
+          "body": "Fullシート向けオープンベータのFigma 3D変形は、レイヤーを非破壊で回転できる。",
+          "mini_headline": "Figmaが3D変形を追加",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "現在のエージェントとのやり取りは、ターミナル時代のコンピューターと同じ段階にある。能力はあるが、ほぼすべてをテキストで返す。Googleは、生成UI向けオープンプロトコルの初の安定版となるA2UI 1.0をリリースする。これによりAIエージェントは、確認用フォームやチャートといったインタラクティブな画面で応答できる。"
-              },
-              {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/original_videos/A2UI_1.0_sick_day_three_ways_2.mp4"
+                "x": "Figmaは今年初め、Figma Motion、Figmaエージェントを活用した生成プラグインとシェーダー、そして3D変形を発表した。本日、3D変形がオープンベータとして利用可能になった。3D変形エフェクトを使えば、テキスト、画像、ベクター、フレームを空間内で傾け、回転し、配置できる。親フレームにパースペクティブエフェクトを加えると、それらは共通の空間構成の一部になる。エフェクトは非破壊で、元のアートワークは下層で編集可能なまま残る。"
               },
               {
                 "t": "p",
-                "x": "A2UIでは、エージェントが何を表示するかを記述し、各アプリが独自のネイティブコンポーネントでUIを描画する。エージェントが使うのはユーザーのデザインシステムだけだ。開発者は、Web、Android、iOS向けのオープンソースのレンダラーSDKsと、Python、TypeScript、Dart向けのエージェントSDKsで今すぐ利用できる。バージョン1.0では双方向の関数呼び出しに加え、アクセシビリティと拡張機能のサポートが追加された。"
+                "x": "Figma Brand Studioチームは、3D変形の発表映像にこれらのエフェクトを活用した。ブランドデザイナーのDeanna Gueliはタイポグラフィの配置を決めたうえで、FigmaエージェントにそれをZ軸に沿って一定間隔で繰り返すよう依頼した。「タンゴのようなやり取りだった。エージェントが計算をし、私がクリエイティブを担った」と彼女は言う。彼女はジオメトリの構築にもエージェントを使い、文字のアニメーションを長方形のチューブに配置して、その形状をコンポーネント化した。"
               },
               {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/06_atlassian_jira.original.png",
-                "cap": "Jiraの作業項目内で、エージェントがチームにフォローアップを依頼する。"
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/02f264d3e112d6229cb18015b9fa6b7123a380c9-1920x1080.png?w=1200&q=75&fit=max&auto=format",
+                "cap": "Deannaはジオメトリ上に文字を配置し、それらの要素を空間内で回転させる手法を探った。"
               },
               {
                 "t": "p",
-                "x": "Atlassian、Alation、Bloomberg、ByteDanceなどの企業がすでにこれを使って開発を進めている。AtlassianはA2UIをJiraに導入し、AlationのフィードはA2UIを使ってClaude内で表示される。"
+                "x": "ブランドモーションデザイナーのBen Hillは、Figmaエージェントに要素をグリッド、らせん、リング、ランダムな散らばりに並べる生成プラグインを作らせ、さらに表面処理と光のスイープのためのシェーダーを加えた。"
               },
               {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/07_alation.original.png",
-                "cap": "Claude（左）とAlationのData Products App（右）で表示された同じAlationフィード。"
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/222f89045df6d65e95959134992974b5d8d51f31-3840x2160.png?rect=0,1,3840,2159&w=1200&q=75&fit=max&auto=format",
+                "cap": "エージェントが生成したプラグインにより、Benはさまざまな3Dレイアウトと、向きや間隔を調整するコントロールを手にした。"
               },
               {
                 "t": "p",
-                "x": "Google社内では、Gemini NotebookがA2UIカードを使ってスライド資料を作成し、Geminiは各組織独自のエージェントからのA2UI応答を表示する。1.0向けのJetpack Composeサポートも近く提供される。"
+                "x": "3D変形はDev ModeでそのままCSSに対応し、コーディングエージェントはFigma MCPサーバーを通じて3Dデザインを読み取り、作成できる。3D変形は現在、すべてのFullシートユーザー向けにオープンベータで提供されている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Google发布智能体\n界面协议A2UI 1.0",
-          "body": "Google的A2UI 1.0 协议让智能体用交互式界面组件而非大段文字作答。",
-          "mini_headline": "A2UI迈入1.0",
+          "headline": "Figma智能体与3D变换\n打造发布视频",
+          "body": "Figma 3D变换已向Full席位开放公测，可让设计师在空间中无损倾斜和旋转图层。",
+          "mini_headline": "Figma新增3D变换",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "如今用户与智能体的交互，就像终端时代的计算机：能力很强，却几乎什么都用文字回答。Google正在发布A2UI 1.0，这是其生成式UI开放协议的首个稳定版本。它让AI智能体能用交互式界面作答，比如一个待确认的表单或一张图表。"
-              },
-              {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/original_videos/A2UI_1.0_sick_day_three_ways_2.mp4"
+                "x": "今年早些时候，Figma发布了Figma Motion、由Figma智能体驱动的生成式插件和着色器，以及3D变换。如今，3D变换已开放公测。使用3D变换效果，可在空间中倾斜、旋转并排列文本、图像、矢量和画框；为父级画框添加透视效果后，它们便成为同一空间构图的一部分。这些效果是无损的：原始图稿在下方仍可编辑。"
               },
               {
                 "t": "p",
-                "x": "借助A2UI，智能体描述要显示的内容，各个应用再用自己的原生组件绘制UI。智能体只使用你的设计系统。开发者现在即可通过面向Web、Android和iOS的开源渲染器SDKs，以及面向Python、TypeScript和Dart的智能体SDKs使用它。1.0 版本新增了双向函数调用，并支持无障碍功能和扩展。"
+                "x": "Figma Brand Studio团队将这些效果用在了3D变换的发布视频上。品牌设计师Deanna Gueli先确定了文字排布，再让Figma智能体沿Z轴按间隔重复。她说：“这像一场来回的探戈：智能体负责算数，我负责创意。”她还借助智能体构建几何体，把文字动画放到一个矩形管上，并将这一形体做成组件。"
               },
               {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/06_atlassian_jira.original.png",
-                "cap": "智能体在Jira工作项中请团队跟进。"
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/02f264d3e112d6229cb18015b9fa6b7123a380c9-1920x1080.png?w=1200&q=75&fit=max&auto=format",
+                "cap": "Deanna尝试把文字放到几何体上，并在空间中旋转这些元素。"
               },
               {
                 "t": "p",
-                "x": "Atlassian、Alation、Bloomberg和ByteDance等公司已在用它进行开发。Atlassian正把A2UI引入Jira，Alation的信息流则通过A2UI在Claude中渲染。"
+                "x": "品牌动效设计师Ben Hill让Figma智能体构建了一个生成式插件，可将元素排成网格、螺旋、环形或随机散布，随后又加入着色器，用于表面处理和光线扫过效果。"
               },
               {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/07_alation.original.png",
-                "cap": "同一个Alation信息流分别在Claude（左）和Alation的Data Products App（右）中的渲染效果。"
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/222f89045df6d65e95959134992974b5d8d51f31-3840x2160.png?rect=0,1,3840,2159&w=1200&q=75&fit=max&auto=format",
+                "cap": "这个由智能体生成的插件为Ben提供了多种3D布局，以及控制朝向和间距的选项。"
               },
               {
                 "t": "p",
-                "x": "在Google内部，Gemini Notebook用A2UI卡片来搭建幻灯片，Gemini则渲染来自各组织自有智能体的A2UI响应。对 1.0 的Jetpack Compose支持即将推出。"
+                "x": "在Dev Mode中，3D变换可直接对应到CSS；编码智能体也可通过Figma MCP服务器读取和创建3D设计。3D变换现已向所有Full席位用户开放公测。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Google lanza A2UI 1.0 para\ninterfaces creadas por agentes",
-          "body": "El protocolo A2UI 1.0 de Google permite a los agentes responder con componentes interactivos en vez de texto.",
-          "mini_headline": "A2UI llega a la 1.0",
+          "headline": "El agente y el 3D de Figma\narman un video de lanzamiento",
+          "body": "Las transformaciones 3D de Figma, en beta abierta para asientos Full, permiten inclinar y rotar capas sin destruirlas.",
+          "mini_headline": "Figma suma transformaciones 3D",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Hoy, la interacción de los usuarios con los agentes está donde estaba la informática en la era de la terminal: son capaces, pero responden casi todo con texto. Google lanza A2UI 1.0, la primera versión estable de su protocolo abierto para UI generativa. Permite que los agentes de AI respondan con pantallas interactivas, como un formulario para confirmar o un gráfico."
-              },
-              {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/original_videos/A2UI_1.0_sick_day_three_ways_2.mp4"
+                "x": "A principios de este año, Figma anunció Figma Motion, plugins generativos y shaders impulsados por el agente de Figma, y transformaciones 3D. Desde hoy, las transformaciones 3D están disponibles en beta abierta. Con el efecto de transformación 3D se pueden inclinar, rotar y organizar textos, imágenes, vectores y marcos en el espacio; al añadir el efecto de perspectiva a un marco principal, pasan a formar parte de una composición espacial compartida. Los efectos no son destructivos: la obra original sigue siendo editable debajo."
               },
               {
                 "t": "p",
-                "x": "Con A2UI, el agente describe qué mostrar y cada app dibuja la UI con sus propios componentes nativos. Los agentes usan su sistema de diseño y nada más. Los desarrolladores ya pueden usarlo con SDKs de renderizado de código abierto para web, Android e iOS, y SDKs de agente para Python, TypeScript y Dart. La versión 1.0 añade llamadas a funciones bidireccionales, además de compatibilidad con accesibilidad y extensiones."
+                "x": "El equipo Figma Brand Studio aplicó estos efectos en el video de lanzamiento de las transformaciones 3D. La diseñadora de marca Deanna Gueli definió una disposición tipográfica y luego pidió al agente de Figma que la repitiera a intervalos a lo largo del eje Z. “Fue un tango de ida y vuelta: el agente hacía las matemáticas y yo, la parte creativa”, cuenta. También usó el agente para construir geometría: colocó la animación tipográfica sobre un tubo rectangular y convirtió esa forma en un componente."
               },
               {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/06_atlassian_jira.original.png",
-                "cap": "Un agente pide al equipo un seguimiento dentro de una tarea de Jira."
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/02f264d3e112d6229cb18015b9fa6b7123a380c9-1920x1080.png?w=1200&q=75&fit=max&auto=format",
+                "cap": "Deanna exploró cómo colocar tipografía sobre geometría y rotar esos elementos en el espacio."
               },
               {
                 "t": "p",
-                "x": "Empresas como Atlassian, Alation, Bloomberg y ByteDance ya están desarrollando con él. Atlassian llevará A2UI a Jira, y el feed de Alation se muestra en Claude mediante A2UI."
+                "x": "El diseñador de motion de marca Ben Hill pidió al agente de Figma que creara un plugin generativo para organizar elementos en una cuadrícula, una hélice, un anillo o una dispersión aleatoria, y luego añadió shaders para tratamientos de superficie y barridos de luz."
               },
               {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/07_alation.original.png",
-                "cap": "El mismo feed de Alation mostrado en Claude (izquierda) y en la Data Products App de Alation (derecha)."
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/222f89045df6d65e95959134992974b5d8d51f31-3840x2160.png?rect=0,1,3840,2159&w=1200&q=75&fit=max&auto=format",
+                "cap": "El plugin generado por el agente le dio a Ben una variedad de diseños 3D y controles de orientación y espaciado."
               },
               {
                 "t": "p",
-                "x": "Dentro de Google, Gemini Notebook usa tarjetas A2UI para preparar presentaciones de diapositivas, y Gemini muestra respuestas A2UI de los propios agentes de las organizaciones. La compatibilidad de Jetpack Compose con la 1.0 llegará pronto."
+                "x": "Las transformaciones 3D se traducen directamente a CSS en Dev Mode, y los agentes de programación pueden leer y crear diseños 3D a través del servidor Figma MCP. Las transformaciones 3D ya están en beta abierta para todos los usuarios con asiento Full."
               }
             ]
           }
@@ -877,161 +229,145 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Google, 에이전트용\nA2UI 1.0 공개",
-          "body": "Google A2UI 1.0은 에이전트가 텍스트 대신 화면 요소로 답하게 한다.",
-          "mini_headline": "A2UI, 1.0 도달",
+          "headline": "Figma 에이전트와 3D\n변환이 만든 출시 영상",
+          "body": "Full 시트용 오픈 베타인 Figma 3D 변환은 레이어를 비파괴로 돌린다.",
+          "mini_headline": "Figma, 3D 변환 추가",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "오늘날 사용자가 에이전트와 상호작용하는 방식은 터미널 시대의 컴퓨터와 비슷하다. 능력은 있지만 거의 모든 답을 텍스트로 한다. Google은 생성형 UI를 위한 오픈 프로토콜의 첫 안정 버전인 A2UI 1.0을 공개한다. AI 에이전트는 이를 통해 확인용 양식이나 차트 같은 대화형 화면으로 답할 수 있다."
-              },
-              {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/original_videos/A2UI_1.0_sick_day_three_ways_2.mp4"
+                "x": "Figma는 올해 초 Figma Motion, Figma 에이전트 기반의 생성형 플러그인과 셰이더, 그리고 3D 변환을 발표했다. 오늘부터 3D 변환을 오픈 베타로 쓸 수 있다. 3D 변환 효과로 텍스트, 이미지, 벡터, 프레임을 공간에서 기울이고 회전하고 배치한다. 부모 프레임에 원근 효과를 더하면 이들이 하나의 공간 구성 안에 놓인다. 효과는 비파괴 방식이어서 원본 아트워크는 그 아래에서 계속 편집할 수 있다."
               },
               {
                 "t": "p",
-                "x": "A2UI에서는 에이전트가 무엇을 보여 줄지 기술하고, 각 앱은 자체 네이티브 컴포넌트로 UI를 그린다. 에이전트는 사용자의 디자인 시스템만 사용한다. 개발자는 지금 바로 웹, Android, iOS용 오픈소스 렌더러 SDKs와 Python, TypeScript, Dart용 에이전트 SDKs로 이를 쓸 수 있다. 버전 1.0은 양방향 함수 호출과 함께 접근성 및 확장 지원을 더했다."
+                "x": "Figma Brand Studio 팀은 3D 변환 출시 영상에 이 효과들을 직접 썼다. 브랜드 디자이너 Deanna Gueli는 타이포그래피 배치를 잡은 뒤 Figma 에이전트에게 이를 Z 축을 따라 일정 간격으로 반복하라고 요청했다. 그는 “주거니 받거니 하는 탱고 같았다. 에이전트는 계산을, 나는 창작을 맡았다”고 말한다. 그는 에이전트의 도움으로 지오메트리도 만들었다. 타입 애니메이션을 직사각형 튜브에 입히고 그 형태를 컴포넌트로 바꿨다."
               },
               {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/06_atlassian_jira.original.png",
-                "cap": "에이전트가 Jira 작업 항목 안에서 팀에 후속 조치를 요청한다."
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/02f264d3e112d6229cb18015b9fa6b7123a380c9-1920x1080.png?w=1200&q=75&fit=max&auto=format",
+                "cap": "Deanna는 지오메트리 위에 글자를 얹고 그 요소들을 공간에서 회전하는 방식을 탐색했다."
               },
               {
                 "t": "p",
-                "x": "Atlassian, Alation, Bloomberg, ByteDance 같은 기업이 이미 이를 활용해 개발하고 있다. Atlassian은 A2UI를 Jira에 도입하고, Alation 피드는 A2UI로 Claude 안에서 렌더링된다."
+                "x": "브랜드 모션 디자이너 Ben Hill은 Figma 에이전트에게 요소를 그리드, 나선, 링, 무작위 분산 형태로 배열하는 생성형 플러그인을 만들게 했다. 이어 표면 처리와 빛이 훑고 지나가는 효과를 위해 셰이더를 더했다."
               },
               {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/07_alation.original.png",
-                "cap": "Claude(왼쪽)와 Alation의 Data Products App(오른쪽)에서 렌더링된 같은 Alation 피드."
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/222f89045df6d65e95959134992974b5d8d51f31-3840x2160.png?rect=0,1,3840,2159&w=1200&q=75&fit=max&auto=format",
+                "cap": "에이전트가 만든 플러그인으로 Ben은 다양한 3D 레이아웃과 방향·간격 조절 기능을 얻었다."
               },
               {
                 "t": "p",
-                "x": "Google 내부에서는 Gemini Notebook이 A2UI 카드로 슬라이드 덱을 구성하고, Gemini는 조직이 자체 운영하는 에이전트의 A2UI 응답을 렌더링한다. 1.0용 Jetpack Compose 지원도 곧 나온다."
+                "x": "3D 변환은 Dev Mode에서 CSS로 그대로 옮겨지고, 코딩 에이전트는 Figma MCP 서버를 통해 3D 디자인을 읽고 만들 수 있다. 3D 변환은 현재 모든 Full 시트 사용자에게 오픈 베타로 제공된다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Google、A2UI\n1.0 正式版を公開",
-          "body": "GoogleのA2UI 1.0で、エージェントは文章でなく対話型UIで答える。",
-          "mini_headline": "A2UIが1.0に",
+          "headline": "Figmaの3D変形と\nエージェントで発表映像",
+          "body": "Fullシート向けオープンベータのFigma 3D変形は、レイヤーを非破壊で回転できる。",
+          "mini_headline": "Figmaが3D変形を追加",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "現在のエージェントとのやり取りは、ターミナル時代のコンピューターと同じ段階にある。能力はあるが、ほぼすべてをテキストで返す。Googleは、生成UI向けオープンプロトコルの初の安定版となるA2UI 1.0をリリースする。これによりAIエージェントは、確認用フォームやチャートといったインタラクティブな画面で応答できる。"
-              },
-              {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/original_videos/A2UI_1.0_sick_day_three_ways_2.mp4"
+                "x": "Figmaは今年初め、Figma Motion、Figmaエージェントを活用した生成プラグインとシェーダー、そして3D変形を発表した。本日、3D変形がオープンベータとして利用可能になった。3D変形エフェクトを使えば、テキスト、画像、ベクター、フレームを空間内で傾け、回転し、配置できる。親フレームにパースペクティブエフェクトを加えると、それらは共通の空間構成の一部になる。エフェクトは非破壊で、元のアートワークは下層で編集可能なまま残る。"
               },
               {
                 "t": "p",
-                "x": "A2UIでは、エージェントが何を表示するかを記述し、各アプリが独自のネイティブコンポーネントでUIを描画する。エージェントが使うのはユーザーのデザインシステムだけだ。開発者は、Web、Android、iOS向けのオープンソースのレンダラーSDKsと、Python、TypeScript、Dart向けのエージェントSDKsで今すぐ利用できる。バージョン1.0では双方向の関数呼び出しに加え、アクセシビリティと拡張機能のサポートが追加された。"
+                "x": "Figma Brand Studioチームは、3D変形の発表映像にこれらのエフェクトを活用した。ブランドデザイナーのDeanna Gueliはタイポグラフィの配置を決めたうえで、FigmaエージェントにそれをZ軸に沿って一定間隔で繰り返すよう依頼した。「タンゴのようなやり取りだった。エージェントが計算をし、私がクリエイティブを担った」と彼女は言う。彼女はジオメトリの構築にもエージェントを使い、文字のアニメーションを長方形のチューブに配置して、その形状をコンポーネント化した。"
               },
               {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/06_atlassian_jira.original.png",
-                "cap": "Jiraの作業項目内で、エージェントがチームにフォローアップを依頼する。"
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/02f264d3e112d6229cb18015b9fa6b7123a380c9-1920x1080.png?w=1200&q=75&fit=max&auto=format",
+                "cap": "Deannaはジオメトリ上に文字を配置し、それらの要素を空間内で回転させる手法を探った。"
               },
               {
                 "t": "p",
-                "x": "Atlassian、Alation、Bloomberg、ByteDanceなどの企業がすでにこれを使って開発を進めている。AtlassianはA2UIをJiraに導入し、AlationのフィードはA2UIを使ってClaude内で表示される。"
+                "x": "ブランドモーションデザイナーのBen Hillは、Figmaエージェントに要素をグリッド、らせん、リング、ランダムな散らばりに並べる生成プラグインを作らせ、さらに表面処理と光のスイープのためのシェーダーを加えた。"
               },
               {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/07_alation.original.png",
-                "cap": "Claude（左）とAlationのData Products App（右）で表示された同じAlationフィード。"
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/222f89045df6d65e95959134992974b5d8d51f31-3840x2160.png?rect=0,1,3840,2159&w=1200&q=75&fit=max&auto=format",
+                "cap": "エージェントが生成したプラグインにより、Benはさまざまな3Dレイアウトと、向きや間隔を調整するコントロールを手にした。"
               },
               {
                 "t": "p",
-                "x": "Google社内では、Gemini NotebookがA2UIカードを使ってスライド資料を作成し、Geminiは各組織独自のエージェントからのA2UI応答を表示する。1.0向けのJetpack Composeサポートも近く提供される。"
+                "x": "3D変形はDev ModeでそのままCSSに対応し、コーディングエージェントはFigma MCPサーバーを通じて3Dデザインを読み取り、作成できる。3D変形は現在、すべてのFullシートユーザー向けにオープンベータで提供されている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Google发布智能体\n界面协议A2UI 1.0",
-          "body": "Google的A2UI 1.0 协议让智能体用交互式界面组件而非大段文字作答。",
-          "mini_headline": "A2UI迈入1.0",
+          "headline": "Figma智能体与3D变换\n打造发布视频",
+          "body": "Figma 3D变换已向Full席位开放公测，可让设计师在空间中无损倾斜和旋转图层。",
+          "mini_headline": "Figma新增3D变换",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "如今用户与智能体的交互，就像终端时代的计算机：能力很强，却几乎什么都用文字回答。Google正在发布A2UI 1.0，这是其生成式UI开放协议的首个稳定版本。它让AI智能体能用交互式界面作答，比如一个待确认的表单或一张图表。"
-              },
-              {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/original_videos/A2UI_1.0_sick_day_three_ways_2.mp4"
+                "x": "今年早些时候，Figma发布了Figma Motion、由Figma智能体驱动的生成式插件和着色器，以及3D变换。如今，3D变换已开放公测。使用3D变换效果，可在空间中倾斜、旋转并排列文本、图像、矢量和画框；为父级画框添加透视效果后，它们便成为同一空间构图的一部分。这些效果是无损的：原始图稿在下方仍可编辑。"
               },
               {
                 "t": "p",
-                "x": "借助A2UI，智能体描述要显示的内容，各个应用再用自己的原生组件绘制UI。智能体只使用你的设计系统。开发者现在即可通过面向Web、Android和iOS的开源渲染器SDKs，以及面向Python、TypeScript和Dart的智能体SDKs使用它。1.0 版本新增了双向函数调用，并支持无障碍功能和扩展。"
+                "x": "Figma Brand Studio团队将这些效果用在了3D变换的发布视频上。品牌设计师Deanna Gueli先确定了文字排布，再让Figma智能体沿Z轴按间隔重复。她说：“这像一场来回的探戈：智能体负责算数，我负责创意。”她还借助智能体构建几何体，把文字动画放到一个矩形管上，并将这一形体做成组件。"
               },
               {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/06_atlassian_jira.original.png",
-                "cap": "智能体在Jira工作项中请团队跟进。"
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/02f264d3e112d6229cb18015b9fa6b7123a380c9-1920x1080.png?w=1200&q=75&fit=max&auto=format",
+                "cap": "Deanna尝试把文字放到几何体上，并在空间中旋转这些元素。"
               },
               {
                 "t": "p",
-                "x": "Atlassian、Alation、Bloomberg和ByteDance等公司已在用它进行开发。Atlassian正把A2UI引入Jira，Alation的信息流则通过A2UI在Claude中渲染。"
+                "x": "品牌动效设计师Ben Hill让Figma智能体构建了一个生成式插件，可将元素排成网格、螺旋、环形或随机散布，随后又加入着色器，用于表面处理和光线扫过效果。"
               },
               {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/07_alation.original.png",
-                "cap": "同一个Alation信息流分别在Claude（左）和Alation的Data Products App（右）中的渲染效果。"
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/222f89045df6d65e95959134992974b5d8d51f31-3840x2160.png?rect=0,1,3840,2159&w=1200&q=75&fit=max&auto=format",
+                "cap": "这个由智能体生成的插件为Ben提供了多种3D布局，以及控制朝向和间距的选项。"
               },
               {
                 "t": "p",
-                "x": "在Google内部，Gemini Notebook用A2UI卡片来搭建幻灯片，Gemini则渲染来自各组织自有智能体的A2UI响应。对 1.0 的Jetpack Compose支持即将推出。"
+                "x": "在Dev Mode中，3D变换可直接对应到CSS；编码智能体也可通过Figma MCP服务器读取和创建3D设计。3D变换现已向所有Full席位用户开放公测。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Google lanza A2UI 1.0 para\ninterfaces creadas por agentes",
-          "body": "El protocolo A2UI 1.0 de Google permite a los agentes responder con componentes interactivos en vez de texto.",
-          "mini_headline": "A2UI llega a la 1.0",
+          "headline": "El agente y el 3D de Figma\narman un video de lanzamiento",
+          "body": "Las transformaciones 3D de Figma, en beta abierta para asientos Full, permiten inclinar y rotar capas sin destruirlas.",
+          "mini_headline": "Figma suma transformaciones 3D",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Hoy, la interacción de los usuarios con los agentes está donde estaba la informática en la era de la terminal: son capaces, pero responden casi todo con texto. Google lanza A2UI 1.0, la primera versión estable de su protocolo abierto para UI generativa. Permite que los agentes de AI respondan con pantallas interactivas, como un formulario para confirmar o un gráfico."
-              },
-              {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/original_videos/A2UI_1.0_sick_day_three_ways_2.mp4"
+                "x": "A principios de este año, Figma anunció Figma Motion, plugins generativos y shaders impulsados por el agente de Figma, y transformaciones 3D. Desde hoy, las transformaciones 3D están disponibles en beta abierta. Con el efecto de transformación 3D se pueden inclinar, rotar y organizar textos, imágenes, vectores y marcos en el espacio; al añadir el efecto de perspectiva a un marco principal, pasan a formar parte de una composición espacial compartida. Los efectos no son destructivos: la obra original sigue siendo editable debajo."
               },
               {
                 "t": "p",
-                "x": "Con A2UI, el agente describe qué mostrar y cada app dibuja la UI con sus propios componentes nativos. Los agentes usan su sistema de diseño y nada más. Los desarrolladores ya pueden usarlo con SDKs de renderizado de código abierto para web, Android e iOS, y SDKs de agente para Python, TypeScript y Dart. La versión 1.0 añade llamadas a funciones bidireccionales, además de compatibilidad con accesibilidad y extensiones."
+                "x": "El equipo Figma Brand Studio aplicó estos efectos en el video de lanzamiento de las transformaciones 3D. La diseñadora de marca Deanna Gueli definió una disposición tipográfica y luego pidió al agente de Figma que la repitiera a intervalos a lo largo del eje Z. “Fue un tango de ida y vuelta: el agente hacía las matemáticas y yo, la parte creativa”, cuenta. También usó el agente para construir geometría: colocó la animación tipográfica sobre un tubo rectangular y convirtió esa forma en un componente."
               },
               {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/06_atlassian_jira.original.png",
-                "cap": "Un agente pide al equipo un seguimiento dentro de una tarea de Jira."
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/02f264d3e112d6229cb18015b9fa6b7123a380c9-1920x1080.png?w=1200&q=75&fit=max&auto=format",
+                "cap": "Deanna exploró cómo colocar tipografía sobre geometría y rotar esos elementos en el espacio."
               },
               {
                 "t": "p",
-                "x": "Empresas como Atlassian, Alation, Bloomberg y ByteDance ya están desarrollando con él. Atlassian llevará A2UI a Jira, y el feed de Alation se muestra en Claude mediante A2UI."
+                "x": "El diseñador de motion de marca Ben Hill pidió al agente de Figma que creara un plugin generativo para organizar elementos en una cuadrícula, una hélice, un anillo o una dispersión aleatoria, y luego añadió shaders para tratamientos de superficie y barridos de luz."
               },
               {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/07_alation.original.png",
-                "cap": "El mismo feed de Alation mostrado en Claude (izquierda) y en la Data Products App de Alation (derecha)."
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/222f89045df6d65e95959134992974b5d8d51f31-3840x2160.png?rect=0,1,3840,2159&w=1200&q=75&fit=max&auto=format",
+                "cap": "El plugin generado por el agente le dio a Ben una variedad de diseños 3D y controles de orientación y espaciado."
               },
               {
                 "t": "p",
-                "x": "Dentro de Google, Gemini Notebook usa tarjetas A2UI para preparar presentaciones de diapositivas, y Gemini muestra respuestas A2UI de los propios agentes de las organizaciones. La compatibilidad de Jetpack Compose con la 1.0 llegará pronto."
+                "x": "Las transformaciones 3D se traducen directamente a CSS en Dev Mode, y los agentes de programación pueden leer y crear diseños 3D a través del servidor Figma MCP. Las transformaciones 3D ya están en beta abierta para todos los usuarios con asiento Full."
               }
             ]
           }
@@ -1039,591 +375,219 @@
       }
     },
     {
-      "id": "hf-trellis2-lora-guide",
+      "id": "luma-board-organizer-agent",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Hugging Face의\nTRELLIS.2 튜닝법",
-      "body": "Hugging Face가 TRELLIS.2 LoRA-fine-tune 도구를 냈다.",
-      "mini_headline": "TRELLIS.2를 내 3D 에셋으로 튜닝",
+      "headline": "Luma 에이전트가\n자산 10,000개를 정리",
+      "body": "Luma 에이전트는 자산 10,000개까지 묶어 주고 정리는 언제든 되돌린다.",
+      "mini_headline": "보드 정리하는 Luma 에이전트",
       "tool": "KeyShot",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/blog/3d-lora-finetuning",
-      "accent": "#eb367f",
+      "source": "Luma AI",
+      "url": "https://lumalabs.ai/news/ai-board-manager",
+      "accent": "#f5a623",
       "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/3d-lora-finetuning/sole_orbit_base_vs_lora.gif"
-          },
-          {
-            "t": "p",
-            "x": "Hugging Face가 인기 3D 모델 TRELLIS.2(image-to-3D)를 자기 3D 에셋으로 LoRA-fine-tune하는 fine-tuning 스크립트와 컨테이너를 내놨다. 로컬에서도, Hugging Face Jobs에서도 돌릴 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "범용(general-purpose) 모델은 특정 용도에서 중요한 세부를 틀리기도 한다. 팀은 Google Scanned Objects 가운데 신발 188개짜리 일부를 썼다. 사전학습 모델은 대체로 그럴듯한 신발을 만들었지만 밑창이 틀렸다."
-          },
-          {
-            "t": "img",
-            "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/3d-lora-finetuning/pipeline_lr.png",
-            "cap": "TRELLIS.2 파이프라인"
-          },
-          {
-            "t": "p",
-            "x": "LoRA 어댑터는 물체의 형태와 기하 구조를 맡는 sparse-structure flow DiT와 shape flow DiT에만 붙이고, texture flow DiT는 고정한다. 이렇게 하면 학습할 어댑터 파라미터는 모두 약 9.3 million 개다."
-          },
-          {
-            "t": "img",
-            "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/3d-lora-finetuning/heldout_meshes.png"
-          },
-          {
-            "t": "p",
-            "x": "held-out 물체 아홉 개에서 평균 F-score는 기본 모델이 0.276, 신발 어댑터를 붙인 모델이 0.803이다. Chamfer distance는 0.174에서 0.033으로 줄었고 normal consistency는 0.530에서 0.804로 올랐다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Hugging Face shows how to\nfine-tune TRELLIS.2 for 3D",
-          "body": "Hugging Face released scripts and containers to LoRA-fine-tune the TRELLIS.2 image-to-3D model on your own assets.",
-          "mini_headline": "Fine-tune TRELLIS.2 on your 3D",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/3d-lora-finetuning/sole_orbit_base_vs_lora.gif"
-              },
-              {
-                "t": "p",
-                "x": "Hugging Face provides fine-tuning scripts and containers to fine-tune TRELLIS.2, a popular 3D model, on your 3D assets, that can run both locally and on Hugging Face Jobs."
-              },
-              {
-                "t": "p",
-                "x": "A general-purpose model can make errors in details that are important for a specific application. The team used a subset of Google Scanned Objects with 188 footwear objects: the pretrained model usually produced shoes that looked correct, but the soles were incorrect."
-              },
-              {
-                "t": "img",
-                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/3d-lora-finetuning/pipeline_lr.png",
-                "cap": "TRELLIS.2 pipeline"
-              },
-              {
-                "t": "p",
-                "x": "LoRA adapters are added only to the sparse-structure flow DiT and the shape flow DiT, which control the object's shape and geometry; the texture flow DiT is frozen. The configuration trains approximately 9.3 million adapter parameters in total."
-              },
-              {
-                "t": "img",
-                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/3d-lora-finetuning/heldout_meshes.png"
-              },
-              {
-                "t": "p",
-                "x": "On nine held-out objects, the base model has a mean F-score of 0.276, compared with 0.803 for the model with the footwear adapters. Chamfer distance falls from 0.174 to 0.033, and normal consistency rises from 0.530 to 0.804."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Hugging Face의\nTRELLIS.2 튜닝법",
-          "body": "Hugging Face가 TRELLIS.2 LoRA-fine-tune 도구를 냈다.",
-          "mini_headline": "TRELLIS.2를 내 3D 에셋으로 튜닝",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/3d-lora-finetuning/sole_orbit_base_vs_lora.gif"
-              },
-              {
-                "t": "p",
-                "x": "Hugging Face가 인기 3D 모델 TRELLIS.2(image-to-3D)를 자기 3D 에셋으로 LoRA-fine-tune하는 fine-tuning 스크립트와 컨테이너를 내놨다. 로컬에서도, Hugging Face Jobs에서도 돌릴 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "범용(general-purpose) 모델은 특정 용도에서 중요한 세부를 틀리기도 한다. 팀은 Google Scanned Objects 가운데 신발 188개짜리 일부를 썼다. 사전학습 모델은 대체로 그럴듯한 신발을 만들었지만 밑창이 틀렸다."
-              },
-              {
-                "t": "img",
-                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/3d-lora-finetuning/pipeline_lr.png",
-                "cap": "TRELLIS.2 파이프라인"
-              },
-              {
-                "t": "p",
-                "x": "LoRA 어댑터는 물체의 형태와 기하 구조를 맡는 sparse-structure flow DiT와 shape flow DiT에만 붙이고, texture flow DiT는 고정한다. 이렇게 하면 학습할 어댑터 파라미터는 모두 약 9.3 million 개다."
-              },
-              {
-                "t": "img",
-                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/3d-lora-finetuning/heldout_meshes.png"
-              },
-              {
-                "t": "p",
-                "x": "held-out 물체 아홉 개에서 평균 F-score는 기본 모델이 0.276, 신발 어댑터를 붙인 모델이 0.803이다. Chamfer distance는 0.174에서 0.033으로 줄었고 normal consistency는 0.530에서 0.804로 올랐다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Hugging Faceが\n3D TRELLIS.2調整",
-          "body": "Hugging FaceがTRELLIS.2のLoRA-fine-tune法を示した。",
-          "mini_headline": "TRELLIS.2を自分の3D 素材で調整",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/3d-lora-finetuning/sole_orbit_base_vs_lora.gif"
-              },
-              {
-                "t": "p",
-                "x": "Hugging Faceは、人気の3D モデルでimage-to-3D モデルでもあるTRELLIS.2を自分の3D アセットでLoRA-fine-tuneするためのfine-tuning用スクリプトとコンテナを提供している。ローカルでもHugging Face Jobsでも実行できる。"
-              },
-              {
-                "t": "p",
-                "x": "汎用(general-purpose)モデルは、特定の用途で重要な細部を誤ることがある。チームはGoogle Scanned Objectsのうち履物188点からなるサブセットを使った。事前学習済みモデルはたいてい正しく見える靴を生成したが、靴底は誤っていた。"
-              },
-              {
-                "t": "img",
-                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/3d-lora-finetuning/pipeline_lr.png",
-                "cap": "TRELLIS.2のパイプライン"
-              },
-              {
-                "t": "p",
-                "x": "LoRAアダプターは、物体の形状とジオメトリを制御するsparse-structure flow DiTとshape flow DiTにのみ追加し、texture flow DiTは凍結する。この構成で学習するアダプターのパラメータは合計で約9.3 million 個である。"
-              },
-              {
-                "t": "img",
-                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/3d-lora-finetuning/heldout_meshes.png"
-              },
-              {
-                "t": "p",
-                "x": "九つのheld-out物体で、ベースモデルの平均F-scoreは0.276、履物アダプターを加えたモデルは0.803だった。Chamfer distanceは0.174から0.033に下がり、normal consistencyは0.530から0.804に上がった。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Hugging Face示范\n3D TRELLIS.2微调",
-          "body": "Hugging Face发布TRELLIS.2的LoRA-fine-tune脚本与容器。",
-          "mini_headline": "用自己的3D 资产微调TRELLIS.2",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/3d-lora-finetuning/sole_orbit_base_vs_lora.gif"
-              },
-              {
-                "t": "p",
-                "x": "Hugging Face提供fine-tuning脚本和容器，可用自己的3D 资产对热门3D 模型、image-to-3D 模型TRELLIS.2进行LoRA-fine-tune，既能在本地运行，也能在Hugging Face Jobs上运行。"
-              },
-              {
-                "t": "p",
-                "x": "通用(general-purpose)模型可能在对特定应用很重要的细节上出错。团队使用了Google Scanned Objects中由188件鞋类物体组成的子集：预训练模型生成的鞋通常看起来没问题，但鞋底是错的。"
-              },
-              {
-                "t": "img",
-                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/3d-lora-finetuning/pipeline_lr.png",
-                "cap": "TRELLIS.2流程"
-              },
-              {
-                "t": "p",
-                "x": "LoRA适配器只加在控制物体形状与几何结构的sparse-structure flow DiT和shape flow DiT上，texture flow DiT保持冻结。该配置共训练约9.3 million 个适配器参数。"
-              },
-              {
-                "t": "img",
-                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/3d-lora-finetuning/heldout_meshes.png"
-              },
-              {
-                "t": "p",
-                "x": "在九个held-out物体上，基础模型的平均F-score为0.276，加上鞋类适配器的模型为0.803。Chamfer distance从0.174降至0.033，normal consistency从0.530升至0.804。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Hugging Face explica cómo\najustar TRELLIS.2 para 3D",
-          "body": "Hugging Face lanzó scripts y contenedores para el LoRA-fine-tune de TRELLIS.2, modelo image-to-3D, con assets propios.",
-          "mini_headline": "Ajusta TRELLIS.2 con tus modelos 3D",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/3d-lora-finetuning/sole_orbit_base_vs_lora.gif"
-              },
-              {
-                "t": "p",
-                "x": "Hugging Face ofrece scripts y contenedores de fine-tuning para hacer LoRA-fine-tune de TRELLIS.2, un popular modelo 3D de tipo image-to-3D, con tus propios assets 3D, que pueden ejecutarse tanto en local como en Hugging Face Jobs."
-              },
-              {
-                "t": "p",
-                "x": "Un modelo de propósito general (general-purpose) puede equivocarse en detalles importantes para una aplicación concreta. El equipo usó un subconjunto de Google Scanned Objects con 188 objetos de calzado: el modelo preentrenado solía generar zapatos de aspecto correcto, pero con suelas incorrectas."
-              },
-              {
-                "t": "img",
-                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/3d-lora-finetuning/pipeline_lr.png",
-                "cap": "Pipeline de TRELLIS.2"
-              },
-              {
-                "t": "p",
-                "x": "Los adaptadores LoRA se añaden solo al sparse-structure flow DiT y al shape flow DiT, que controlan la forma y la geometría del objeto; el texture flow DiT queda congelado. La configuración entrena en total unos 9.3 millones de parámetros de adaptador."
-              },
-              {
-                "t": "img",
-                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/3d-lora-finetuning/heldout_meshes.png"
-              },
-              {
-                "t": "p",
-                "x": "En nueve objetos held-out, el modelo base obtiene un F-score medio de 0.276, frente a 0.803 del modelo con los adaptadores de calzado. La Chamfer distance baja de 0.174 a 0.033 y la normal consistency sube de 0.530 a 0.804."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Hugging Face의\nTRELLIS.2 튜닝법",
-          "body": "Hugging Face가 TRELLIS.2 LoRA-fine-tune 도구를 냈다.",
-          "mini_headline": "TRELLIS.2를 내 3D 에셋으로 튜닝",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/3d-lora-finetuning/sole_orbit_base_vs_lora.gif"
-              },
-              {
-                "t": "p",
-                "x": "Hugging Face는 인기 3D 모델인 TRELLIS.2(image-to-3D)를 자신의 3D 에셋으로 LoRA-fine-tune할 수 있는 fine-tuning 스크립트와 컨테이너를 제공한다. 로컬과 Hugging Face Jobs 양쪽에서 모두 실행할 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "범용(general-purpose) 모델은 특정 용도에 중요한 세부에서 오류를 낼 수 있다. 팀은 Google Scanned Objects 가운데 신발 188개로 이뤄진 일부를 사용했다. 사전학습 모델은 대체로 그럴듯한 신발을 만들었지만 밑창은 틀렸다."
-              },
-              {
-                "t": "img",
-                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/3d-lora-finetuning/pipeline_lr.png",
-                "cap": "TRELLIS.2 파이프라인"
-              },
-              {
-                "t": "p",
-                "x": "LoRA 어댑터는 물체의 형태와 기하 구조를 제어하는 sparse-structure flow DiT와 shape flow DiT에만 붙이고, texture flow DiT는 고정한다. 이 구성에서 학습하는 어댑터 파라미터는 모두 약 9.3 million 개다."
-              },
-              {
-                "t": "img",
-                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/3d-lora-finetuning/heldout_meshes.png"
-              },
-              {
-                "t": "p",
-                "x": "held-out 물체 아홉 개에서 기본 모델의 평균 F-score는 0.276이고, 신발 어댑터를 붙인 모델은 0.803이다. Chamfer distance는 0.174에서 0.033으로 줄고, normal consistency는 0.530에서 0.804로 오른다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Hugging Faceが\n3D TRELLIS.2調整",
-          "body": "Hugging FaceがTRELLIS.2のLoRA-fine-tune法を示した。",
-          "mini_headline": "TRELLIS.2を自分の3D 素材で調整",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/3d-lora-finetuning/sole_orbit_base_vs_lora.gif"
-              },
-              {
-                "t": "p",
-                "x": "Hugging Faceは、人気の3D モデルでimage-to-3D モデルでもあるTRELLIS.2を自分の3D アセットでLoRA-fine-tuneするためのfine-tuning用スクリプトとコンテナを提供している。ローカルでもHugging Face Jobsでも実行できる。"
-              },
-              {
-                "t": "p",
-                "x": "汎用(general-purpose)モデルは、特定の用途で重要な細部を誤ることがある。チームはGoogle Scanned Objectsのうち履物188点からなるサブセットを使った。事前学習済みモデルはたいてい正しく見える靴を生成したが、靴底は誤っていた。"
-              },
-              {
-                "t": "img",
-                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/3d-lora-finetuning/pipeline_lr.png",
-                "cap": "TRELLIS.2のパイプライン"
-              },
-              {
-                "t": "p",
-                "x": "LoRAアダプターは、物体の形状とジオメトリを制御するsparse-structure flow DiTとshape flow DiTにのみ追加し、texture flow DiTは凍結する。この構成で学習するアダプターのパラメータは合計で約9.3 million 個である。"
-              },
-              {
-                "t": "img",
-                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/3d-lora-finetuning/heldout_meshes.png"
-              },
-              {
-                "t": "p",
-                "x": "九つのheld-out物体で、ベースモデルの平均F-scoreは0.276、履物アダプターを加えたモデルは0.803だった。Chamfer distanceは0.174から0.033に下がり、normal consistencyは0.530から0.804に上がった。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Hugging Face示范\n3D TRELLIS.2微调",
-          "body": "Hugging Face发布TRELLIS.2的LoRA-fine-tune脚本与容器。",
-          "mini_headline": "用自己的3D 资产微调TRELLIS.2",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/3d-lora-finetuning/sole_orbit_base_vs_lora.gif"
-              },
-              {
-                "t": "p",
-                "x": "Hugging Face提供fine-tuning脚本和容器，可用自己的3D 资产对热门3D 模型、image-to-3D 模型TRELLIS.2进行LoRA-fine-tune，既能在本地运行，也能在Hugging Face Jobs上运行。"
-              },
-              {
-                "t": "p",
-                "x": "通用(general-purpose)模型可能在对特定应用很重要的细节上出错。团队使用了Google Scanned Objects中由188件鞋类物体组成的子集：预训练模型生成的鞋通常看起来没问题，但鞋底是错的。"
-              },
-              {
-                "t": "img",
-                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/3d-lora-finetuning/pipeline_lr.png",
-                "cap": "TRELLIS.2流程"
-              },
-              {
-                "t": "p",
-                "x": "LoRA适配器只加在控制物体形状与几何结构的sparse-structure flow DiT和shape flow DiT上，texture flow DiT保持冻结。该配置共训练约9.3 million 个适配器参数。"
-              },
-              {
-                "t": "img",
-                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/3d-lora-finetuning/heldout_meshes.png"
-              },
-              {
-                "t": "p",
-                "x": "在九个held-out物体上，基础模型的平均F-score为0.276，加上鞋类适配器的模型为0.803。Chamfer distance从0.174降至0.033，normal consistency从0.530升至0.804。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Hugging Face explica cómo\najustar TRELLIS.2 para 3D",
-          "body": "Hugging Face lanzó scripts y contenedores para el LoRA-fine-tune de TRELLIS.2, modelo image-to-3D, con assets propios.",
-          "mini_headline": "Ajusta TRELLIS.2 con tus modelos 3D",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/3d-lora-finetuning/sole_orbit_base_vs_lora.gif"
-              },
-              {
-                "t": "p",
-                "x": "Hugging Face ofrece scripts y contenedores de fine-tuning para hacer LoRA-fine-tune de TRELLIS.2, un popular modelo 3D de tipo image-to-3D, con tus propios assets 3D, que pueden ejecutarse tanto en local como en Hugging Face Jobs."
-              },
-              {
-                "t": "p",
-                "x": "Un modelo de propósito general (general-purpose) puede equivocarse en detalles importantes para una aplicación concreta. El equipo usó un subconjunto de Google Scanned Objects con 188 objetos de calzado: el modelo preentrenado solía generar zapatos de aspecto correcto, pero con suelas incorrectas."
-              },
-              {
-                "t": "img",
-                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/3d-lora-finetuning/pipeline_lr.png",
-                "cap": "Pipeline de TRELLIS.2"
-              },
-              {
-                "t": "p",
-                "x": "Los adaptadores LoRA se añaden solo al sparse-structure flow DiT y al shape flow DiT, que controlan la forma y la geometría del objeto; el texture flow DiT queda congelado. La configuración entrena en total unos 9.3 millones de parámetros de adaptador."
-              },
-              {
-                "t": "img",
-                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/3d-lora-finetuning/heldout_meshes.png"
-              },
-              {
-                "t": "p",
-                "x": "En nueve objetos held-out, el modelo base obtiene un F-score medio de 0.276, frente a 0.803 del modelo con los adaptadores de calzado. La Chamfer distance baja de 0.174 a 0.033 y la normal consistency sube de 0.530 a 0.804."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "google-labs-tabletop-canvas",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Google Labs의\nTabletop 공유 앱",
-      "body": "Google Labs Tabletop은 일정·투표 설명을 공유 공간으로 만든다.",
-      "mini_headline": "그룹을 위한 앱 Tabletop",
-      "tool": "AI Workflow",
-      "source": "Google",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
-      "accent": "#ff5a4d",
-      "motif": "frame",
       "full": {
         "mode": "full",
         "blocks": [
           {
             "t": "video",
-            "yt": "8upa4JZir3I"
+            "src": "https://static.cdn-luma.com/files/sanity/a5ed43ea-ae90-4aa9-b706-43227ae7a2dd.mp4"
           },
           {
             "t": "p",
-            "x": "가족 여행 계획이든 동호회 리그 운영이든 포틀럭 파티든, 모두가 한곳에서 거들고 만들고 정할 수 있으면 그룹 조율이 한결 쉬워진다."
+            "x": "대형 브랜드 프로젝트는 보드보다 커지기 마련이다. 그러면 다음 자산을 만드는 시간보다 자산을 찾는 시간이 더 길어진다. Luma 에이전트에 새로 들어간 스마트 정리가 이 문제를 겨냥한다. 보드나 프레임, 선택 영역을 정리해 달라고 하면 에이전트가 함께 있어야 할 작업끼리 묶고 이름을 붙인다. 팀은 프로젝트가 담긴 그 보드에서 그대로 작업을 이어 간다."
           },
           {
             "t": "p",
-            "x": "오늘 실시간 협업용으로 만든 Google Labs의 새 실험 Tabletop을 소개한다."
+            "x": "파일 이름과 날짜만으로는 작업 내용을 알 수 없다. 에이전트는 자산마다 무엇이 담겼는지, 무엇으로 만들었는지, 주변에 무엇이 있는지 읽는다. 참고 사진과 생성된 변형을 가려내고 어떤 버전이 어떤 이미지에서 나왔는지 따라가며 자산을 브리프와 잇는다. 이제 보드를 제품, 콘셉트, 캠페인, 제작 단계, 채널별로 묶을 수 있다."
           },
           {
             "t": "p",
-            "x": "링크와 파일, 아이디어를 넣고 @tabletop에 프롬프트를 쓰거나 시작 템플릿을 고르면 맞춤형 대화형 여행 일정표, 저녁 메뉴 투표, 비용 분담 계산기, 토너먼트 대진표가 만들어진다. 공간이 준비되면 그룹 채팅에 초대 링크를 올리면 된다. Google Doc처럼 모두가 들어와 동시에 쓸 수 있다."
+            "x": "대형 보드는 섹션 단위로 처리해 자산 10,000개까지 다룬다. 평소에는 복잡한 보드를 이름 붙은 섹션으로 바꾸거나, 선택 영역이나 프레임만 묶고 나머지 보드는 그대로 둘 수 있다. \"배경색별로 정렬하고 그에 맞게 이름 붙이기\"나 \"제품과 캠페인 콘셉트별로 묶기\"처럼 내 기준을 줄 수도 있다. 새 작업이 들어오면 에이전트가 먼저 묶자고 제안하지만 사용자가 승인하기 전에는 아무것도 움직이지 않는다. 정리한 결과는 이후의 편집을 잃지 않고 언제든 되돌릴 수 있다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.sanity.io/images/2ylxvaa2/production/3088cb2bf9319ba1fed2d4c0816f562b3b86487b-600x338.gif",
+            "cap": "자산 10,000개짜리 보드도 정리한다"
           },
           {
             "t": "p",
-            "x": "Tabletop은 U.S.(18+)에서 대기자 명단 방식으로 출시되고 있다. labs.google/tabletop에서 신청해 자리를 잡으면 된다."
+            "x": "에이전트가 알아서 보드를 재배열하는 일은 없다. 사용자가 고른 영역 안에서만 움직이고 작업을 마치면 바뀐 내용을 알려준다. Luma에서 보드를 열고 에이전트에게 \"이 보드를 정리해 줘\"라고 하면 바로 써 볼 수 있다. 일부만 정리하고 싶다면 프레임이나 자산 몇 개를 먼저 고른 뒤 선택 영역을 정리해 달라고 하면 된다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Google Labs Tabletop builds\nshared apps from a prompt",
-          "body": "Google Labs' Tabletop turns a group's description of an itinerary, poll or bracket into a shared multiplayer space.",
-          "mini_headline": "Tabletop: apps for groups",
+          "headline": "Luma's agent now tidies\nboards of 10,000 assets",
+          "body": "The Luma agent groups and labels up to 10,000 assets by product or campaign, and every change can be reversed.",
+          "mini_headline": "Luma's agent tidies boards",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "video",
-                "yt": "8upa4JZir3I"
+                "src": "https://static.cdn-luma.com/files/sanity/a5ed43ea-ae90-4aa9-b706-43227ae7a2dd.mp4"
               },
               {
                 "t": "p",
-                "x": "Whether you’re planning a family trip, running a rec league or hosting a potluck, coordinating as a group is easier when everyone can pitch in, build and decide together in one place."
+                "x": "Big brand projects outgrow their boards, and finding assets starts to take longer than making the next one. The new Luma agent smart organization capability changes that. Ask the agent to organize a board, a frame or a selection, and it groups and labels the work by what belongs together, so your team keeps making on the board that holds the project."
               },
               {
                 "t": "p",
-                "x": "Today, we’re introducing Tabletop, a new Google Labs experiment built for real-time collaboration."
+                "x": "File names and dates say nothing about the work. The agent reads what is in each asset, what it was made from, and what sits around it. It can tell a reference photo from a generated variation, follow which versions came from which image, and connect assets to the brief. A board can now be grouped by product, concept, campaign, state of production, or channel."
               },
               {
                 "t": "p",
-                "x": "Just add in your links, files, and ideas, then prompt @tabletop — or pick a starter template — to generate custom interactive trip itineraries, dinner polls, expense splitters, and tournament brackets. Once your space is ready, drop the invite link in your group chat to let everyone jump in and use it at the same time, like in a Google Doc."
+                "x": "Bigger projects: it works through large boards section by section, up to 10,000 assets. Everyday cleanup: turn a busy board into named sections or group a selection or a frame and leave the rest of the board alone. Your preferences: give it a rule, like \"sort by background color, labeled to match\" or \"group by product and campaign concept.\" Offer, then accept: as new work lands, the agent can offer to group it. Nothing moves until you say yes. Reverse any organizing run without losing the edits you made after it."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/2ylxvaa2/production/3088cb2bf9319ba1fed2d4c0816f562b3b86487b-600x338.gif",
+                "cap": "Organization for boards up to 10,000 assets"
               },
               {
                 "t": "p",
-                "x": "Tabletop is rolling out in the U.S. (18+) via waitlist. Pull up a chair and sign up at labs.google/tabletop."
+                "x": "The agent never rearranges your board on its own. It stays inside the area you chose, and when it finishes, the agent tells you what changed. Try it now: Open a board in Luma and ask the agent to \"organize this board.\" To tidy just part of it, select a frame or a few assets first and ask the agent to organize the selection."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Google Labs의\nTabletop 공유 앱",
-          "body": "Google Labs Tabletop은 일정·투표 설명을 공유 공간으로 만든다.",
-          "mini_headline": "그룹을 위한 앱 Tabletop",
+          "headline": "Luma 에이전트가\n자산 10,000개를 정리",
+          "body": "Luma 에이전트는 자산 10,000개까지 묶어 주고 정리는 언제든 되돌린다.",
+          "mini_headline": "보드 정리하는 Luma 에이전트",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "video",
-                "yt": "8upa4JZir3I"
+                "src": "https://static.cdn-luma.com/files/sanity/a5ed43ea-ae90-4aa9-b706-43227ae7a2dd.mp4"
               },
               {
                 "t": "p",
-                "x": "가족 여행 계획이든 동호회 리그 운영이든 포틀럭 파티든, 모두가 한곳에서 거들고 만들고 정할 수 있으면 그룹 조율이 한결 쉬워진다."
+                "x": "대형 브랜드 프로젝트는 보드보다 커지기 마련이다. 그러면 다음 자산을 만드는 시간보다 자산을 찾는 시간이 더 길어진다. Luma 에이전트에 새로 들어간 스마트 정리가 이 문제를 겨냥한다. 보드나 프레임, 선택 영역을 정리해 달라고 하면 에이전트가 함께 있어야 할 작업끼리 묶고 이름을 붙인다. 팀은 프로젝트가 담긴 그 보드에서 그대로 작업을 이어 간다."
               },
               {
                 "t": "p",
-                "x": "오늘 실시간 협업용으로 만든 Google Labs의 새 실험 Tabletop을 소개한다."
+                "x": "파일 이름과 날짜만으로는 작업 내용을 알 수 없다. 에이전트는 자산마다 무엇이 담겼는지, 무엇으로 만들었는지, 주변에 무엇이 있는지 읽는다. 참고 사진과 생성된 변형을 가려내고 어떤 버전이 어떤 이미지에서 나왔는지 따라가며 자산을 브리프와 잇는다. 이제 보드를 제품, 콘셉트, 캠페인, 제작 단계, 채널별로 묶을 수 있다."
               },
               {
                 "t": "p",
-                "x": "링크와 파일, 아이디어를 넣고 @tabletop에 프롬프트를 쓰거나 시작 템플릿을 고르면 맞춤형 대화형 여행 일정표, 저녁 메뉴 투표, 비용 분담 계산기, 토너먼트 대진표가 만들어진다. 공간이 준비되면 그룹 채팅에 초대 링크를 올리면 된다. Google Doc처럼 모두가 들어와 동시에 쓸 수 있다."
+                "x": "대형 보드는 섹션 단위로 처리해 자산 10,000개까지 다룬다. 평소에는 복잡한 보드를 이름 붙은 섹션으로 바꾸거나, 선택 영역이나 프레임만 묶고 나머지 보드는 그대로 둘 수 있다. \"배경색별로 정렬하고 그에 맞게 이름 붙이기\"나 \"제품과 캠페인 콘셉트별로 묶기\"처럼 내 기준을 줄 수도 있다. 새 작업이 들어오면 에이전트가 먼저 묶자고 제안하지만 사용자가 승인하기 전에는 아무것도 움직이지 않는다. 정리한 결과는 이후의 편집을 잃지 않고 언제든 되돌릴 수 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/2ylxvaa2/production/3088cb2bf9319ba1fed2d4c0816f562b3b86487b-600x338.gif",
+                "cap": "자산 10,000개짜리 보드도 정리한다"
               },
               {
                 "t": "p",
-                "x": "Tabletop은 U.S.(18+)에서 대기자 명단 방식으로 출시되고 있다. labs.google/tabletop에서 신청해 자리를 잡으면 된다."
+                "x": "에이전트가 알아서 보드를 재배열하는 일은 없다. 사용자가 고른 영역 안에서만 움직이고 작업을 마치면 바뀐 내용을 알려준다. Luma에서 보드를 열고 에이전트에게 \"이 보드를 정리해 줘\"라고 하면 바로 써 볼 수 있다. 일부만 정리하고 싶다면 프레임이나 자산 몇 개를 먼저 고른 뒤 선택 영역을 정리해 달라고 하면 된다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Google Labsの\nTabletop、共有アプリ",
-          "body": "Google LabsのTabletopは旅程や投票の説明を共有空間に変える。",
-          "mini_headline": "Tabletop：グループのためのアプリ",
+          "headline": "Lumaのエージェントが\n素材10,000点を整理",
+          "body": "Lumaのエージェントは最大10,000点の素材を製品別にまとめ、変更は元に戻せる。",
+          "mini_headline": "Lumaのエージェントがボードを整理",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "video",
-                "yt": "8upa4JZir3I"
+                "src": "https://static.cdn-luma.com/files/sanity/a5ed43ea-ae90-4aa9-b706-43227ae7a2dd.mp4"
               },
               {
                 "t": "p",
-                "x": "家族旅行の計画でも、レクリエーションリーグの運営でも、持ち寄りパーティーの主催でも、全員が一つの場所で手を貸し、作り、一緒に決められれば、グループでの調整は楽になる。"
+                "x": "大規模なブランドプロジェクトはボードに収まりきらなくなり、次の素材を作るよりも素材を探す時間のほうが長くなっていく。Lumaエージェントの新しいスマート整理機能がそれを変える。エージェントにボード、フレーム、選択範囲の整理を頼めば、まとまるべき作品同士をグループ化してラベルを付けるので、チームはプロジェクトを収めたボード上で制作を続けられる。"
               },
               {
                 "t": "p",
-                "x": "本日、リアルタイムのコラボレーション向けに作られたGoogle Labsの新しい実験、Tabletopを紹介する。"
+                "x": "ファイル名や日付は作品について何も語らない。エージェントは各素材に何が含まれているか、何から作られたか、周囲に何があるかを読み取る。参考写真と生成されたバリエーションを見分け、どのバージョンがどの画像から生まれたかをたどり、素材をブリーフと結び付けることができる。ボードは今や、製品、コンセプト、キャンペーン、制作段階、チャネル別にグループ化できる。"
               },
               {
                 "t": "p",
-                "x": "リンクやファイル、アイデアを追加して@tabletopにプロンプトを送るか、スターターテンプレートを選ぶだけで、カスタムのインタラクティブな旅程表、夕食の投票、費用の割り勘ツール、トーナメント表を生成できる。スペースの準備ができたら、招待リンクをグループチャットに貼れば、Google Docのように全員が同時に参加して使える。"
+                "x": "大規模プロジェクト:大きなボードをセクションごとに処理し、最大10,000点の素材に対応する。日常の整理:散らかったボードを名前付きのセクションに分けたり、選択範囲やフレームだけをまとめてボードの残りには手を付けずにおいたりできる。好みの設定:「背景色で並べ替え、それに合わせてラベル付け」や「製品とキャンペーンのコンセプトでグループ化」といったルールを与えられる。提案してから承認:新しい作品が加わると、エージェントがグループ化を提案できる。承認するまで何も動かない。整理の実行はいつでも元に戻せ、その後に加えた編集は失われない。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/2ylxvaa2/production/3088cb2bf9319ba1fed2d4c0816f562b3b86487b-600x338.gif",
+                "cap": "最大10,000点の素材を持つボードの整理"
               },
               {
                 "t": "p",
-                "x": "Tabletopは順番待ちリストを通じてU.S.（18+）で提供が始まっている。椅子を引き寄せて、labs.google/tabletopで登録しよう。"
+                "x": "エージェントが勝手にボードを並べ替えることはない。選んだ範囲の中だけで作業し、終わると何が変わったかを知らせる。今すぐ試すには、Lumaでボードを開き、エージェントに「このボードを整理して」と頼めばよい。一部だけを整える場合は、先にフレームや複数の素材を選択し、選択範囲の整理を頼む。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Google Labs推出\nTabletop共享应用",
-          "body": "Google Labs的Tabletop把群组描述的行程、投票或赛程表变成共享空间。",
-          "mini_headline": "Tabletop：为群组而生的应用",
+          "headline": "Luma智能体现可整理\n含10,000个素材的看板",
+          "body": "Luma智能体可按产品或活动为多达10,000个素材分组并打标签，所有改动均可撤销。",
+          "mini_headline": "Luma智能体整理看板",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "video",
-                "yt": "8upa4JZir3I"
+                "src": "https://static.cdn-luma.com/files/sanity/a5ed43ea-ae90-4aa9-b706-43227ae7a2dd.mp4"
               },
               {
                 "t": "p",
-                "x": "无论是筹划家庭旅行、组织业余联赛，还是举办百家宴，只要每个人都能在同一个地方出力、搭建并共同决定，群体协调就会容易得多。"
+                "x": "大型品牌项目往往会撑满看板，找素材的时间开始比做下一个素材还长。Luma智能体新的智能整理功能改变了这一点。让智能体整理一个看板、画框或选区，它会按内容归属对作品分组并打标签，团队可以继续在承载项目的看板上创作。"
               },
               {
                 "t": "p",
-                "x": "今天，我们推出Tabletop，这是一项专为实时协作打造的Google Labs新实验。"
+                "x": "文件名和日期说明不了作品本身。智能体会读取每个素材包含什么、由什么生成、周围有什么。它能区分参考照片和生成的变体，追踪哪些版本来自哪张图片，并把素材与创意简报关联起来。如今，看板可以按产品、概念、活动、制作状态或渠道分组。"
               },
               {
                 "t": "p",
-                "x": "只需添加链接、文件和想法，然后向@tabletop输入提示——或选择一个入门模板——即可生成定制的交互式旅行行程、晚餐投票、费用分摊工具和锦标赛对阵表。空间准备好后，把邀请链接发到群聊里，大家就能像使用Google Doc一样同时加入使用。"
+                "x": "更大的项目：它会逐个区块处理大型看板，最多支持10,000个素材。日常整理：把杂乱的看板整理成命名区块，或只对选区、画框分组，看板其余部分保持不动。个人偏好：可以给它一条规则，比如“按背景色排序，并相应加标签”或“按产品和活动概念分组”。先提议，再接受：有新作品加入时，智能体可以提议为其分组。在你同意之前，什么都不会移动。任何一次整理都可以撤销，且不会丢失之后所做的编辑。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/2ylxvaa2/production/3088cb2bf9319ba1fed2d4c0816f562b3b86487b-600x338.gif",
+                "cap": "支持多达10,000个素材的看板整理"
               },
               {
                 "t": "p",
-                "x": "Tabletop正通过候补名单在U.S.（18+）推出。搬把椅子坐下，前往labs.google/tabletop报名吧。"
+                "x": "智能体从不自行重排你的看板。它只在你选定的区域内操作，完成后会告诉你改动了什么。现在就试试：在Luma中打开一个看板，让智能体“整理这个看板”。如果只想整理一部分，先选中一个画框或几个素材，再让智能体整理选区。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Google Labs Tabletop crea\napps compartidas con un prompt",
-          "body": "Tabletop, de Google Labs, convierte la descripción de un itinerario, encuesta o cuadro en un espacio compartido.",
-          "mini_headline": "Tabletop: apps para grupos",
+          "headline": "El agente de Luma ya ordena\ntableros de 10,000 recursos",
+          "body": "El agente de Luma agrupa y etiqueta hasta 10,000 recursos por producto o campaña, y cada cambio puede revertirse.",
+          "mini_headline": "El agente de Luma ordena tableros",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "video",
-                "yt": "8upa4JZir3I"
+                "src": "https://static.cdn-luma.com/files/sanity/a5ed43ea-ae90-4aa9-b706-43227ae7a2dd.mp4"
               },
               {
                 "t": "p",
-                "x": "Ya sea para planificar un viaje familiar, organizar una liga recreativa o preparar una comida compartida, coordinarse en grupo es más fácil cuando todos pueden colaborar, construir y decidir juntos en un solo lugar."
+                "x": "Los grandes proyectos de marca desbordan sus tableros, y encontrar recursos empieza a llevar más tiempo que crear el siguiente. La nueva capacidad de organización inteligente del agente de Luma cambia eso. Si se le pide al agente que organice un tablero, un marco o una selección, agrupa y etiqueta el trabajo según lo que va junto, para que el equipo siga creando en el tablero que contiene el proyecto."
               },
               {
                 "t": "p",
-                "x": "Hoy presentamos Tabletop, un nuevo experimento de Google Labs creado para la colaboración en tiempo real."
+                "x": "Los nombres de archivo y las fechas no dicen nada del trabajo. El agente lee qué hay en cada recurso, a partir de qué se hizo y qué lo rodea. Puede distinguir una foto de referencia de una variación generada, seguir qué versiones salieron de qué imagen y vincular los recursos con el brief. Ahora un tablero puede agruparse por producto, concepto, campaña, estado de producción o canal."
               },
               {
                 "t": "p",
-                "x": "Solo hay que añadir enlaces, archivos e ideas y luego escribir un prompt a @tabletop —o elegir una plantilla inicial— para generar itinerarios de viaje interactivos personalizados, encuestas para la cena, calculadoras de gastos compartidos y cuadros de torneos. Cuando el espacio esté listo, basta con compartir el enlace de invitación en el chat del grupo para que todos entren y lo usen a la vez, como en un Google Doc."
+                "x": "Proyectos más grandes: recorre los tableros grandes sección por sección, hasta 10,000 recursos. Limpieza diaria: convierte un tablero recargado en secciones con nombre, o agrupa una selección o un marco y deja intacto el resto del tablero. Preferencias propias: se le puede dar una regla, como \"ordenar por color de fondo, con etiquetas a juego\" o \"agrupar por producto y concepto de campaña\". Ofrecer y luego aceptar: cuando llega trabajo nuevo, el agente puede ofrecer agruparlo. Nada se mueve hasta que el usuario dice que sí. Cualquier organización puede revertirse sin perder las ediciones hechas después."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/2ylxvaa2/production/3088cb2bf9319ba1fed2d4c0816f562b3b86487b-600x338.gif",
+                "cap": "Organización para tableros de hasta 10,000 recursos"
               },
               {
                 "t": "p",
-                "x": "Tabletop se está desplegando en U.S. (18+) mediante lista de espera. Tome asiento y regístrese en labs.google/tabletop."
+                "x": "El agente nunca reorganiza el tablero por su cuenta. Se mantiene dentro del área elegida y, al terminar, informa de lo que cambió. Para probarlo ahora, abra un tablero en Luma y pida al agente \"organiza este tablero\". Para ordenar solo una parte, seleccione primero un marco o algunos recursos y pida al agente que organice la selección."
               }
             ]
           }
@@ -1631,121 +595,1047 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Google Labs의\nTabletop 공유 앱",
-          "body": "Google Labs Tabletop은 일정·투표 설명을 공유 공간으로 만든다.",
-          "mini_headline": "Tabletop: 그룹을 위한 앱",
+          "headline": "Luma 에이전트가 자산\n10,000개 보드를 정리",
+          "body": "Luma 에이전트는 자산 10,000개까지 분류하고 변경은 되돌릴 수 있다.",
+          "mini_headline": "Luma 에이전트, 보드 정리",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "video",
-                "yt": "8upa4JZir3I"
+                "src": "https://static.cdn-luma.com/files/sanity/a5ed43ea-ae90-4aa9-b706-43227ae7a2dd.mp4"
               },
               {
                 "t": "p",
-                "x": "가족 여행을 계획하든, 동호회 리그를 운영하든, 포틀럭 파티를 열든, 모두가 한곳에서 함께 거들고 만들고 결정할 수 있으면 그룹 단위 조율이 쉬워진다."
+                "x": "대형 브랜드 프로젝트는 보드보다 커지기 마련이고, 그러면 다음 자산을 만드는 시간보다 자산을 찾는 시간이 더 길어진다. Luma 에이전트의 새 스마트 정리 기능이 이를 바꾼다. 에이전트에게 보드나 프레임, 선택 영역을 정리해 달라고 하면 함께 묶여야 할 작업끼리 그룹을 만들고 이름을 붙인다. 덕분에 팀은 프로젝트가 담긴 보드에서 계속 작업할 수 있다."
               },
               {
                 "t": "p",
-                "x": "오늘 실시간 협업을 위해 만든 새로운 Google Labs 실험, Tabletop을 소개한다."
+                "x": "파일 이름과 날짜는 작업에 대해 아무것도 알려주지 않는다. 에이전트는 각 자산에 무엇이 담겼는지, 무엇으로 만들었는지, 주변에 무엇이 있는지를 읽는다. 참고 사진과 생성된 변형을 구분하고, 어떤 버전이 어떤 이미지에서 나왔는지 추적하며, 자산을 브리프와 연결한다. 이제 보드를 제품, 콘셉트, 캠페인, 제작 단계, 채널별로 묶을 수 있다."
               },
               {
                 "t": "p",
-                "x": "링크와 파일, 아이디어를 넣고 @tabletop에 프롬프트를 입력하거나 시작 템플릿을 고르면, 맞춤형 대화형 여행 일정표, 저녁 메뉴 투표, 비용 분담 계산기, 토너먼트 대진표를 만들 수 있다. 공간이 준비되면 그룹 채팅에 초대 링크를 올려, Google Doc처럼 모두가 들어와 동시에 쓰게 하면 된다."
+                "x": "더 큰 프로젝트: 대형 보드를 섹션 단위로 처리하며 자산 10,000개까지 다룬다. 일상 정리: 복잡한 보드를 이름 붙은 섹션으로 바꾸거나, 선택 영역이나 프레임만 묶고 나머지 보드는 그대로 둔다. 내 기준: \"배경색별로 정렬하고 그에 맞게 이름 붙이기\"나 \"제품과 캠페인 콘셉트별로 묶기\" 같은 규칙을 줄 수 있다. 제안 후 수락: 새 작업이 들어오면 에이전트가 묶자고 제안할 수 있다. 사용자가 승인하기 전에는 아무것도 움직이지 않는다. 정리 작업은 이후에 한 편집을 잃지 않고 언제든 되돌릴 수 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/2ylxvaa2/production/3088cb2bf9319ba1fed2d4c0816f562b3b86487b-600x338.gif",
+                "cap": "자산 10,000개 규모 보드까지 정리"
               },
               {
                 "t": "p",
-                "x": "Tabletop은 대기자 명단을 통해 U.S.(18+)에서 출시되고 있다. 자리를 잡고 labs.google/tabletop에서 신청하면 된다."
+                "x": "에이전트는 보드를 스스로 재배열하지 않는다. 사용자가 고른 영역 안에서만 움직이고, 작업이 끝나면 무엇이 바뀌었는지 알려준다. 지금 써 보려면 Luma에서 보드를 열고 에이전트에게 \"이 보드를 정리해 줘\"라고 요청하면 된다. 일부만 정리하려면 먼저 프레임이나 자산 몇 개를 선택한 뒤 선택 영역을 정리해 달라고 하면 된다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Google Labsの\nTabletop、共有アプリ",
-          "body": "Google LabsのTabletopは旅程や投票の説明を共有空間に変える。",
-          "mini_headline": "Tabletop：グループのためのアプリ",
+          "headline": "Lumaのエージェントが\n素材10,000点を整理",
+          "body": "Lumaのエージェントは最大10,000点の素材を製品別にまとめ、変更は元に戻せる。",
+          "mini_headline": "Lumaのエージェントがボードを整理",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "video",
-                "yt": "8upa4JZir3I"
+                "src": "https://static.cdn-luma.com/files/sanity/a5ed43ea-ae90-4aa9-b706-43227ae7a2dd.mp4"
               },
               {
                 "t": "p",
-                "x": "家族旅行の計画でも、レクリエーションリーグの運営でも、持ち寄りパーティーの主催でも、全員が一つの場所で手を貸し、作り、一緒に決められれば、グループでの調整は楽になる。"
+                "x": "大規模なブランドプロジェクトはボードに収まりきらなくなり、次の素材を作るよりも素材を探す時間のほうが長くなっていく。Lumaエージェントの新しいスマート整理機能がそれを変える。エージェントにボード、フレーム、選択範囲の整理を頼めば、まとまるべき作品同士をグループ化してラベルを付けるので、チームはプロジェクトを収めたボード上で制作を続けられる。"
               },
               {
                 "t": "p",
-                "x": "本日、リアルタイムのコラボレーション向けに作られたGoogle Labsの新しい実験、Tabletopを紹介する。"
+                "x": "ファイル名や日付は作品について何も語らない。エージェントは各素材に何が含まれているか、何から作られたか、周囲に何があるかを読み取る。参考写真と生成されたバリエーションを見分け、どのバージョンがどの画像から生まれたかをたどり、素材をブリーフと結び付けることができる。ボードは今や、製品、コンセプト、キャンペーン、制作段階、チャネル別にグループ化できる。"
               },
               {
                 "t": "p",
-                "x": "リンクやファイル、アイデアを追加して@tabletopにプロンプトを送るか、スターターテンプレートを選ぶだけで、カスタムのインタラクティブな旅程表、夕食の投票、費用の割り勘ツール、トーナメント表を生成できる。スペースの準備ができたら、招待リンクをグループチャットに貼れば、Google Docのように全員が同時に参加して使える。"
+                "x": "大規模プロジェクト:大きなボードをセクションごとに処理し、最大10,000点の素材に対応する。日常の整理:散らかったボードを名前付きのセクションに分けたり、選択範囲やフレームだけをまとめてボードの残りには手を付けずにおいたりできる。好みの設定:「背景色で並べ替え、それに合わせてラベル付け」や「製品とキャンペーンのコンセプトでグループ化」といったルールを与えられる。提案してから承認:新しい作品が加わると、エージェントがグループ化を提案できる。承認するまで何も動かない。整理の実行はいつでも元に戻せ、その後に加えた編集は失われない。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/2ylxvaa2/production/3088cb2bf9319ba1fed2d4c0816f562b3b86487b-600x338.gif",
+                "cap": "最大10,000点の素材を持つボードの整理"
               },
               {
                 "t": "p",
-                "x": "Tabletopは順番待ちリストを通じてU.S.（18+）で提供が始まっている。椅子を引き寄せて、labs.google/tabletopで登録しよう。"
+                "x": "エージェントが勝手にボードを並べ替えることはない。選んだ範囲の中だけで作業し、終わると何が変わったかを知らせる。今すぐ試すには、Lumaでボードを開き、エージェントに「このボードを整理して」と頼めばよい。一部だけを整える場合は、先にフレームや複数の素材を選択し、選択範囲の整理を頼む。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Google Labs推出\nTabletop共享应用",
-          "body": "Google Labs的Tabletop把群组描述的行程、投票或赛程表变成共享空间。",
-          "mini_headline": "Tabletop：为群组而生的应用",
+          "headline": "Luma智能体现可整理\n含10,000个素材的看板",
+          "body": "Luma智能体可按产品或活动为多达10,000个素材分组并打标签，所有改动均可撤销。",
+          "mini_headline": "Luma智能体整理看板",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "video",
-                "yt": "8upa4JZir3I"
+                "src": "https://static.cdn-luma.com/files/sanity/a5ed43ea-ae90-4aa9-b706-43227ae7a2dd.mp4"
               },
               {
                 "t": "p",
-                "x": "无论是筹划家庭旅行、组织业余联赛，还是举办百家宴，只要每个人都能在同一个地方出力、搭建并共同决定，群体协调就会容易得多。"
+                "x": "大型品牌项目往往会撑满看板，找素材的时间开始比做下一个素材还长。Luma智能体新的智能整理功能改变了这一点。让智能体整理一个看板、画框或选区，它会按内容归属对作品分组并打标签，团队可以继续在承载项目的看板上创作。"
               },
               {
                 "t": "p",
-                "x": "今天，我们推出Tabletop，这是一项专为实时协作打造的Google Labs新实验。"
+                "x": "文件名和日期说明不了作品本身。智能体会读取每个素材包含什么、由什么生成、周围有什么。它能区分参考照片和生成的变体，追踪哪些版本来自哪张图片，并把素材与创意简报关联起来。如今，看板可以按产品、概念、活动、制作状态或渠道分组。"
               },
               {
                 "t": "p",
-                "x": "只需添加链接、文件和想法，然后向@tabletop输入提示——或选择一个入门模板——即可生成定制的交互式旅行行程、晚餐投票、费用分摊工具和锦标赛对阵表。空间准备好后，把邀请链接发到群聊里，大家就能像使用Google Doc一样同时加入使用。"
+                "x": "更大的项目：它会逐个区块处理大型看板，最多支持10,000个素材。日常整理：把杂乱的看板整理成命名区块，或只对选区、画框分组，看板其余部分保持不动。个人偏好：可以给它一条规则，比如“按背景色排序，并相应加标签”或“按产品和活动概念分组”。先提议，再接受：有新作品加入时，智能体可以提议为其分组。在你同意之前，什么都不会移动。任何一次整理都可以撤销，且不会丢失之后所做的编辑。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/2ylxvaa2/production/3088cb2bf9319ba1fed2d4c0816f562b3b86487b-600x338.gif",
+                "cap": "支持多达10,000个素材的看板整理"
               },
               {
                 "t": "p",
-                "x": "Tabletop正通过候补名单在U.S.（18+）推出。搬把椅子坐下，前往labs.google/tabletop报名吧。"
+                "x": "智能体从不自行重排你的看板。它只在你选定的区域内操作，完成后会告诉你改动了什么。现在就试试：在Luma中打开一个看板，让智能体“整理这个看板”。如果只想整理一部分，先选中一个画框或几个素材，再让智能体整理选区。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Google Labs Tabletop crea\napps compartidas con un prompt",
-          "body": "Tabletop, de Google Labs, convierte la descripción de un itinerario, encuesta o cuadro en un espacio compartido.",
-          "mini_headline": "Tabletop: apps para grupos",
+          "headline": "El agente de Luma ya ordena\ntableros de 10,000 recursos",
+          "body": "El agente de Luma agrupa y etiqueta hasta 10,000 recursos por producto o campaña, y cada cambio puede revertirse.",
+          "mini_headline": "El agente de Luma ordena tableros",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "video",
-                "yt": "8upa4JZir3I"
+                "src": "https://static.cdn-luma.com/files/sanity/a5ed43ea-ae90-4aa9-b706-43227ae7a2dd.mp4"
               },
               {
                 "t": "p",
-                "x": "Ya sea para planificar un viaje familiar, organizar una liga recreativa o preparar una comida compartida, coordinarse en grupo es más fácil cuando todos pueden colaborar, construir y decidir juntos en un solo lugar."
+                "x": "Los grandes proyectos de marca desbordan sus tableros, y encontrar recursos empieza a llevar más tiempo que crear el siguiente. La nueva capacidad de organización inteligente del agente de Luma cambia eso. Si se le pide al agente que organice un tablero, un marco o una selección, agrupa y etiqueta el trabajo según lo que va junto, para que el equipo siga creando en el tablero que contiene el proyecto."
               },
               {
                 "t": "p",
-                "x": "Hoy presentamos Tabletop, un nuevo experimento de Google Labs creado para la colaboración en tiempo real."
+                "x": "Los nombres de archivo y las fechas no dicen nada del trabajo. El agente lee qué hay en cada recurso, a partir de qué se hizo y qué lo rodea. Puede distinguir una foto de referencia de una variación generada, seguir qué versiones salieron de qué imagen y vincular los recursos con el brief. Ahora un tablero puede agruparse por producto, concepto, campaña, estado de producción o canal."
               },
               {
                 "t": "p",
-                "x": "Solo hay que añadir enlaces, archivos e ideas y luego escribir un prompt a @tabletop —o elegir una plantilla inicial— para generar itinerarios de viaje interactivos personalizados, encuestas para la cena, calculadoras de gastos compartidos y cuadros de torneos. Cuando el espacio esté listo, basta con compartir el enlace de invitación en el chat del grupo para que todos entren y lo usen a la vez, como en un Google Doc."
+                "x": "Proyectos más grandes: recorre los tableros grandes sección por sección, hasta 10,000 recursos. Limpieza diaria: convierte un tablero recargado en secciones con nombre, o agrupa una selección o un marco y deja intacto el resto del tablero. Preferencias propias: se le puede dar una regla, como \"ordenar por color de fondo, con etiquetas a juego\" o \"agrupar por producto y concepto de campaña\". Ofrecer y luego aceptar: cuando llega trabajo nuevo, el agente puede ofrecer agruparlo. Nada se mueve hasta que el usuario dice que sí. Cualquier organización puede revertirse sin perder las ediciones hechas después."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/2ylxvaa2/production/3088cb2bf9319ba1fed2d4c0816f562b3b86487b-600x338.gif",
+                "cap": "Organización para tableros de hasta 10,000 recursos"
               },
               {
                 "t": "p",
-                "x": "Tabletop se está desplegando en U.S. (18+) mediante lista de espera. Tome asiento y regístrese en labs.google/tabletop."
+                "x": "El agente nunca reorganiza el tablero por su cuenta. Se mantiene dentro del área elegida y, al terminar, informa de lo que cambió. Para probarlo ahora, abra un tablero en Luma y pida al agente \"organiza este tablero\". Para ordenar solo una parte, seleccione primero un marco o algunos recursos y pida al agente que organice la selección."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "claude-manufacturing-fusion-plugin",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "제조용 Claude가\nFusion을 다룬다",
+      "body": "Claude가 스킬 17개로 Fusion·NetSuite·Infor에서 일한다.",
+      "mini_headline": "공장 소프트웨어에 닿은 Claude",
+      "tool": "Text-to-CAD",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/anthropics-claude-for-manufacturing-plugs-ai-directly-into-factory-software-to-automate-industrial-workflows/",
+      "accent": "#7928ca",
+      "motif": "cube",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://the-decoder.com/wp-content/uploads/2026/11/claude_for_manufactoring.png"
+          },
+          {
+            "t": "p",
+            "x": "Anthropic이 Claude for Manufacturing을 내놓았다. AI가 산업용 소프트웨어에 직접 들어가 공장 워크플로를 자동화하게 해 주는 플러그인이다. 네 가지 범용 인터페이스로 Autodesk Fusion, Oracle NetSuite, Microsoft 365, Infor에 붙는다. 다른 시스템은 Microsoft 365로 파일을 내보내면 함께 쓸 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "전용 스킬은 17가지다. AI는 실제 재고를 보고 견적서를 쓰고 공급업체를 비교한다. 품질 보고서와 디자인 변형을 만들고 기계가 멈추면 센서 데이터와 매뉴얼을 분석한다. 따로 추가된 Infor 플러그인을 쓰면 Claude는 납품이 늦어질 때 예비 공급업체에 주문을 넣고 생산 일정도 다시 짠다. 물론 사람이 승인한 뒤의 일이다. 결과물은 모두 원본 문서와 연결돼 있어 고객이나 공급업체에 넘어가기 전에 직원이 검토할 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "플러그인은 Team과 Enterprise 고객이 쓸 수 있지만 물리적인 기계는 아직 제어하지 못한다. 그 몫을 맡을 Model Hardware Standard를 Anthropic이 따로 연구 프리뷰로 개발 중이다. 표준화된 드라이버로 AI 에이전트를 로봇 팔이나 현미경 같은 장치에 잇는 방식이다. 몇 주, 몇 달 걸리던 설정이 몇 시간, 몇 분으로 줄지만 AI가 물리적 과정을 이해하는 데 한계가 있어 사람의 감독은 여전히 필요하다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Claude for Manufacturing plugs\ninto Autodesk Fusion",
+          "body": "A new plugin links Claude to Autodesk Fusion, NetSuite and Infor, with 17 skills for quotes, suppliers and orders.",
+          "mini_headline": "Claude plugs into factory software",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://the-decoder.com/wp-content/uploads/2026/11/claude_for_manufactoring.png"
+              },
+              {
+                "t": "p",
+                "x": "Anthropic has released Claude for Manufacturing, a plugin giving the AI direct access to industrial software to automate factory workflows. The new solution connects via four universal interfaces to Autodesk Fusion, Oracle NetSuite, Microsoft 365, and Infor. Other systems can be integrated through file exports to Microsoft 365."
+              },
+              {
+                "t": "p",
+                "x": "With 17 specific skills, the AI drafts quotes from actual inventory, compares suppliers, generates quality reports and design variants, and analyzes sensor data and manuals during machine downtime. Via an added Infor plugin, Claude can also order from backup suppliers when deliveries are delayed and reschedule production—after human approval. All results are linked to original source documents for employee review before reaching customers or suppliers."
+              },
+              {
+                "t": "p",
+                "x": "The plugin is available to Team and Enterprise customers but doesn't control physical machines yet. For that, Anthropic is separately developing the Model Hardware Standard as a research preview, connecting AI agents to devices like robotic arms and microscopes via standardized drivers. This cuts setup time from weeks or months to hours or minutes but still requires human oversight due to the AI's limited grasp of physical processes."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "제조용 Claude가\nFusion을 다룬다",
+          "body": "Claude가 스킬 17개로 Fusion·NetSuite·Infor에서 일한다.",
+          "mini_headline": "공장 소프트웨어에 닿은 Claude",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://the-decoder.com/wp-content/uploads/2026/11/claude_for_manufactoring.png"
+              },
+              {
+                "t": "p",
+                "x": "Anthropic이 Claude for Manufacturing을 내놓았다. AI가 산업용 소프트웨어에 직접 들어가 공장 워크플로를 자동화하게 해 주는 플러그인이다. 네 가지 범용 인터페이스로 Autodesk Fusion, Oracle NetSuite, Microsoft 365, Infor에 붙는다. 다른 시스템은 Microsoft 365로 파일을 내보내면 함께 쓸 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "전용 스킬은 17가지다. AI는 실제 재고를 보고 견적서를 쓰고 공급업체를 비교한다. 품질 보고서와 디자인 변형을 만들고 기계가 멈추면 센서 데이터와 매뉴얼을 분석한다. 따로 추가된 Infor 플러그인을 쓰면 Claude는 납품이 늦어질 때 예비 공급업체에 주문을 넣고 생산 일정도 다시 짠다. 물론 사람이 승인한 뒤의 일이다. 결과물은 모두 원본 문서와 연결돼 있어 고객이나 공급업체에 넘어가기 전에 직원이 검토할 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "플러그인은 Team과 Enterprise 고객이 쓸 수 있지만 물리적인 기계는 아직 제어하지 못한다. 그 몫을 맡을 Model Hardware Standard를 Anthropic이 따로 연구 프리뷰로 개발 중이다. 표준화된 드라이버로 AI 에이전트를 로봇 팔이나 현미경 같은 장치에 잇는 방식이다. 몇 주, 몇 달 걸리던 설정이 몇 시간, 몇 분으로 줄지만 AI가 물리적 과정을 이해하는 데 한계가 있어 사람의 감독은 여전히 필요하다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "製造業向けClaudeが\nFusionと連携",
+          "body": "ClaudeがFusion、NetSuite、Inforと連携し、17のスキルを備える。",
+          "mini_headline": "Claudeが工場ソフトと連携",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://the-decoder.com/wp-content/uploads/2026/11/claude_for_manufactoring.png"
+              },
+              {
+                "t": "p",
+                "x": "AnthropicはClaude for Manufacturingをリリースした。AIに産業用ソフトウェアへの直接アクセスを与え、工場のワークフローを自動化するプラグインだ。この新ソリューションは4つの汎用インターフェースを通じてAutodesk Fusion、Oracle NetSuite、Microsoft 365、Inforに接続する。その他のシステムは、Microsoft 365へのファイルエクスポートを通じて統合できる。"
+              },
+              {
+                "t": "p",
+                "x": "AIは17の専用スキルにより、実際の在庫から見積もりを作成し、サプライヤーを比較し、品質レポートやデザインのバリエーションを生成し、機械の停止中にはセンサーデータやマニュアルを分析する。追加のInforプラグインを使えば、Claudeは納品が遅れた際に予備のサプライヤーへ発注し、生産スケジュールを組み直すこともできる。ただし人間の承認が前提だ。すべての結果は元のソース文書にひも付けられ、顧客やサプライヤーに届く前に従業員が確認できる。"
+              },
+              {
+                "t": "p",
+                "x": "このプラグインはTeamとEnterpriseの顧客が利用できるが、物理的な機械はまだ制御できない。そのためAnthropicは別途、Model Hardware Standardをリサーチプレビューとして開発している。標準化されたドライバーを介して、AIエージェントをロボットアームや顕微鏡などの機器に接続するものだ。セットアップ時間は数週間や数カ月から数時間や数分に短縮されるが、AIは物理的なプロセスの理解が限られているため、依然として人間による監督が必要だ。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Claude制造版插件\n接入Fusion等工业软件",
+          "body": "新插件将Claude接入Fusion、NetSuite和Infor，提供17项技能。",
+          "mini_headline": "Claude接入工厂软件",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://the-decoder.com/wp-content/uploads/2026/11/claude_for_manufactoring.png"
+              },
+              {
+                "t": "p",
+                "x": "Anthropic发布了Claude for Manufacturing。这款插件让AI直接访问工业软件，以自动化工厂工作流程。新方案通过四个通用接口连接Autodesk Fusion、Oracle NetSuite、Microsoft 365和Infor。其他系统可通过向Microsoft 365导出文件的方式接入。"
+              },
+              {
+                "t": "p",
+                "x": "借助17项专门技能，AI可以根据实际库存起草报价、比较供应商、生成质量报告和设计变体，并在机器停机时分析传感器数据和手册。通过新增的Infor插件，Claude还能在交货延迟时向备用供应商下单并重新安排生产——前提是经过人工批准。所有结果都与原始来源文件关联，供员工在交给客户或供应商之前审核。"
+              },
+              {
+                "t": "p",
+                "x": "该插件面向Team和Enterprise客户开放，但目前还不能控制实体机器。为此，Anthropic正另行开发研究预览版Model Hardware Standard，通过标准化驱动程序将AI智能体连接到机械臂、显微镜等设备。这可将设置时间从数周或数月缩短到数小时或数分钟，但由于AI对物理过程的理解有限，仍需人工监督。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Claude for Manufacturing\nse integra en Autodesk Fusion",
+          "body": "Un plugin une Claude a Autodesk Fusion, NetSuite e Infor, con 17 habilidades para cotizaciones, proveedores y pedidos.",
+          "mini_headline": "Claude se conecta al software de fábrica",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://the-decoder.com/wp-content/uploads/2026/11/claude_for_manufactoring.png"
+              },
+              {
+                "t": "p",
+                "x": "Anthropic lanzó Claude for Manufacturing, un plugin que da a la AI acceso directo a software industrial para automatizar flujos de trabajo en fábricas. La nueva solución se conecta mediante cuatro interfaces universales a Autodesk Fusion, Oracle NetSuite, Microsoft 365 e Infor. Otros sistemas pueden integrarse mediante exportaciones de archivos a Microsoft 365."
+              },
+              {
+                "t": "p",
+                "x": "Con 17 habilidades específicas, la AI redacta cotizaciones a partir del inventario real, compara proveedores, genera informes de calidad y variantes de diseño, y analiza datos de sensores y manuales durante las paradas de máquinas. Mediante un plugin adicional de Infor, Claude también puede hacer pedidos a proveedores de respaldo cuando se retrasan las entregas y reprogramar la producción, previa aprobación humana. Todos los resultados están vinculados a los documentos fuente originales para que los empleados los revisen antes de que lleguen a clientes o proveedores."
+              },
+              {
+                "t": "p",
+                "x": "El plugin está disponible para clientes Team y Enterprise, pero aún no controla máquinas físicas. Para eso, Anthropic desarrolla por separado el Model Hardware Standard como versión preliminar de investigación, que conecta agentes de AI con dispositivos como brazos robóticos y microscopios mediante controladores estandarizados. Esto reduce el tiempo de configuración de semanas o meses a horas o minutos, pero sigue requiriendo supervisión humana debido a la limitada comprensión que tiene la AI de los procesos físicos."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "제조용 Claude가\nFusion에 연결된다",
+          "body": "Claude가 스킬 17개로 Fusion·NetSuite·Infor를 다룬다.",
+          "mini_headline": "Claude, 공장 소프트웨어와 연결",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://the-decoder.com/wp-content/uploads/2026/11/claude_for_manufactoring.png"
+              },
+              {
+                "t": "p",
+                "x": "Anthropic이 Claude for Manufacturing을 출시했다. AI가 산업용 소프트웨어에 직접 접근해 공장 워크플로를 자동화하도록 하는 플러그인이다. 이 새 솔루션은 네 가지 범용 인터페이스를 통해 Autodesk Fusion, Oracle NetSuite, Microsoft 365, Infor에 연결된다. 다른 시스템은 Microsoft 365로 파일을 내보내는 방식으로 통합할 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "AI는 17가지 전용 스킬로 실제 재고를 바탕으로 견적서를 작성하고, 공급업체를 비교하며, 품질 보고서와 디자인 변형을 만들고, 기계가 멈췄을 때 센서 데이터와 매뉴얼을 분석한다. 추가된 Infor 플러그인을 통해 Claude는 납품이 지연되면 예비 공급업체에 주문하고 생산 일정을 다시 짤 수도 있다. 단, 사람의 승인을 거친 뒤다. 모든 결과물은 원본 문서와 연결돼 있어 고객이나 공급업체에 전달되기 전에 직원이 검토할 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "이 플러그인은 Team과 Enterprise 고객이 쓸 수 있지만 아직 물리적인 기계를 제어하지는 못한다. 이를 위해 Anthropic은 별도로 Model Hardware Standard를 연구 프리뷰로 개발하고 있다. 표준화된 드라이버로 AI 에이전트를 로봇 팔이나 현미경 같은 장치에 연결하는 방식이다. 설정 시간을 몇 주나 몇 달에서 몇 시간이나 몇 분으로 줄이지만, AI가 물리적 과정을 이해하는 데 한계가 있어 여전히 사람의 감독이 필요하다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "製造業向けClaudeが\nFusionと連携",
+          "body": "ClaudeがFusion、NetSuite、Inforと連携し、17のスキルを備える。",
+          "mini_headline": "Claudeが工場ソフトと連携",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://the-decoder.com/wp-content/uploads/2026/11/claude_for_manufactoring.png"
+              },
+              {
+                "t": "p",
+                "x": "AnthropicはClaude for Manufacturingをリリースした。AIに産業用ソフトウェアへの直接アクセスを与え、工場のワークフローを自動化するプラグインだ。この新ソリューションは4つの汎用インターフェースを通じてAutodesk Fusion、Oracle NetSuite、Microsoft 365、Inforに接続する。その他のシステムは、Microsoft 365へのファイルエクスポートを通じて統合できる。"
+              },
+              {
+                "t": "p",
+                "x": "AIは17の専用スキルにより、実際の在庫から見積もりを作成し、サプライヤーを比較し、品質レポートやデザインのバリエーションを生成し、機械の停止中にはセンサーデータやマニュアルを分析する。追加のInforプラグインを使えば、Claudeは納品が遅れた際に予備のサプライヤーへ発注し、生産スケジュールを組み直すこともできる。ただし人間の承認が前提だ。すべての結果は元のソース文書にひも付けられ、顧客やサプライヤーに届く前に従業員が確認できる。"
+              },
+              {
+                "t": "p",
+                "x": "このプラグインはTeamとEnterpriseの顧客が利用できるが、物理的な機械はまだ制御できない。そのためAnthropicは別途、Model Hardware Standardをリサーチプレビューとして開発している。標準化されたドライバーを介して、AIエージェントをロボットアームや顕微鏡などの機器に接続するものだ。セットアップ時間は数週間や数カ月から数時間や数分に短縮されるが、AIは物理的なプロセスの理解が限られているため、依然として人間による監督が必要だ。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Claude制造版插件\n接入Fusion等工业软件",
+          "body": "新插件将Claude接入Fusion、NetSuite和Infor，提供17项技能。",
+          "mini_headline": "Claude接入工厂软件",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://the-decoder.com/wp-content/uploads/2026/11/claude_for_manufactoring.png"
+              },
+              {
+                "t": "p",
+                "x": "Anthropic发布了Claude for Manufacturing。这款插件让AI直接访问工业软件，以自动化工厂工作流程。新方案通过四个通用接口连接Autodesk Fusion、Oracle NetSuite、Microsoft 365和Infor。其他系统可通过向Microsoft 365导出文件的方式接入。"
+              },
+              {
+                "t": "p",
+                "x": "借助17项专门技能，AI可以根据实际库存起草报价、比较供应商、生成质量报告和设计变体，并在机器停机时分析传感器数据和手册。通过新增的Infor插件，Claude还能在交货延迟时向备用供应商下单并重新安排生产——前提是经过人工批准。所有结果都与原始来源文件关联，供员工在交给客户或供应商之前审核。"
+              },
+              {
+                "t": "p",
+                "x": "该插件面向Team和Enterprise客户开放，但目前还不能控制实体机器。为此，Anthropic正另行开发研究预览版Model Hardware Standard，通过标准化驱动程序将AI智能体连接到机械臂、显微镜等设备。这可将设置时间从数周或数月缩短到数小时或数分钟，但由于AI对物理过程的理解有限，仍需人工监督。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Claude for Manufacturing\nse integra en Autodesk Fusion",
+          "body": "Un plugin une Claude a Autodesk Fusion, NetSuite e Infor, con 17 habilidades para cotizaciones, proveedores y pedidos.",
+          "mini_headline": "Claude se conecta al software de fábrica",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://the-decoder.com/wp-content/uploads/2026/11/claude_for_manufactoring.png"
+              },
+              {
+                "t": "p",
+                "x": "Anthropic lanzó Claude for Manufacturing, un plugin que da a la AI acceso directo a software industrial para automatizar flujos de trabajo en fábricas. La nueva solución se conecta mediante cuatro interfaces universales a Autodesk Fusion, Oracle NetSuite, Microsoft 365 e Infor. Otros sistemas pueden integrarse mediante exportaciones de archivos a Microsoft 365."
+              },
+              {
+                "t": "p",
+                "x": "Con 17 habilidades específicas, la AI redacta cotizaciones a partir del inventario real, compara proveedores, genera informes de calidad y variantes de diseño, y analiza datos de sensores y manuales durante las paradas de máquinas. Mediante un plugin adicional de Infor, Claude también puede hacer pedidos a proveedores de respaldo cuando se retrasan las entregas y reprogramar la producción, previa aprobación humana. Todos los resultados están vinculados a los documentos fuente originales para que los empleados los revisen antes de que lleguen a clientes o proveedores."
+              },
+              {
+                "t": "p",
+                "x": "El plugin está disponible para clientes Team y Enterprise, pero aún no controla máquinas físicas. Para eso, Anthropic desarrolla por separado el Model Hardware Standard como versión preliminar de investigación, que conecta agentes de AI con dispositivos como brazos robóticos y microscopios mediante controladores estandarizados. Esto reduce el tiempo de configuración de semanas o meses a horas o minutos, pero sigue requiriendo supervisión humana debido a la limitada comprensión que tiene la AI de los procesos físicos."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "nngroup-research-in-the-loop",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "AI-speed 출시,\nUX 연구도 발맞춘다",
+      "body": "NN/g는 측정 대상만 정하면 UX 연구도 AI-speed를 따라잡는다고 본다.",
+      "mini_headline": "AI 속도에 맞춘 UX 리서치",
+      "tool": "AI Workflow",
+      "source": "Nielsen Norman Group",
+      "url": "https://www.nngroup.com/articles/research-in-the-loop/",
+      "accent": "#ff5a4d",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "AI 코딩 에이전트가 코드를 더 많이 쓰게 되자 많은 팀이 방향을 정하고 만들고 출시한 뒤 결과를 지켜본다. 출시가 사용자 연구보다 빨라졌다고 리서치가 사라질 수는 없다. 리서치는 AI 속도의 개발에 맞춰 바뀌어야 한다. NN/g는 이 변화를 research-in-the-loop라 부른다."
+          },
+          {
+            "t": "p",
+            "x": "리서치용 계측 도구도 이제 다른 모든 것만큼 싸게 만든다. 코딩 에이전트는 기능을 만들면서 인터셉트 설문, 이벤트 로깅, 대시보드도 함께 만든다. 빌드 전에는 리서치가 릴리스에서 무엇을 수집할지 정하도록 돕는다. 빌드 중에는 코딩 에이전트가 그 수집 기능을 구현한다. 릴리스 후에는 리서처가 무슨 일이 일어났는지 살피고 거기서 얻은 배움이 다음 요구 사항으로 이어진다."
+          },
+          {
+            "t": "img",
+            "src": "https://media.nngroup.com/media/editor/2026/11/13/research-in-the-loop.png",
+            "cap": "Research-in-the-Loop 프레임워크. Specify(명세), Build and Instrument(빌드와 계측), Release(출시), Evaluate and Learn(평가와 학습)이 반복되는 순환에 리서치 방법이 들어간다."
+          },
+          {
+            "t": "p",
+            "x": "스펙에 리서치 섹션을 넣는 방법도 있다. 기대하는 결과, 효과가 있었다는 신호, 문제가 생겼다는 신호, 추적할 항목, 사람들과 이야기할 시점을 적어 두는 식이다. 계측 덕에 평가와 조사는 더 효율적이 되지만 독립적인 탐색까지 대신하지는 못한다. 정성 리서치가 여전히 필수인 이유다."
+          },
+          {
+            "t": "p",
+            "x": "“에이전트는 몇 분 만에 설문을 만들 수 있다. 올바른 질문을 던질 책임은 리서처에게 있다.”"
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "UX research learns to keep pace\nwith AI-speed releases",
+          "body": "NN/g says UX research can match AI-speed releases by setting what each release must measure and can help discover.",
+          "mini_headline": "UX research at AI speed",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "As AI coding agents write more code, many teams now pick a direction, build, release, and watch what happens. But if a release can be shipped faster than users can be studied, research can't go away; it needs to change to keep pace with development at AI speed. NN/g calls that change research-in-the-loop."
+              },
+              {
+                "t": "p",
+                "x": "Research instrumentation is now as cheap to build as everything else: a coding agent can build intercept surveys, event logging and dashboards alongside the feature. Before the build, research helps shape what a release must capture; during the build, coding agents implement that capture; after the release, researchers study what happened, and what they learn feeds the next set of requirements."
+              },
+              {
+                "t": "img",
+                "src": "https://media.nngroup.com/media/editor/2026/11/13/research-in-the-loop.png",
+                "cap": "Research-in-the-Loop framework: research methods feed a repeating cycle of Specify, Build and Instrument, Release, and Evaluate and Learn."
+              },
+              {
+                "t": "p",
+                "x": "Teams can add a research section to the spec: what we expect, signs it worked, signs it caused problems, what to track, and when to talk to people. Instrumentation can make evaluation and investigation more efficient, but it cannot replace independent discovery, so qualitative research stays essential."
+              },
+              {
+                "t": "p",
+                "x": "“An agent can build a survey in minutes. The researcher is accountable for asking the right questions.”"
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "AI-speed 출시,\nUX 연구도 발맞춘다",
+          "body": "NN/g는 측정 대상만 정하면 UX 연구도 AI-speed를 따라잡는다고 본다.",
+          "mini_headline": "AI 속도에 맞춘 UX 리서치",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "AI 코딩 에이전트가 코드를 더 많이 쓰게 되자 많은 팀이 방향을 정하고 만들고 출시한 뒤 결과를 지켜본다. 출시가 사용자 연구보다 빨라졌다고 리서치가 사라질 수는 없다. 리서치는 AI 속도의 개발에 맞춰 바뀌어야 한다. NN/g는 이 변화를 research-in-the-loop라 부른다."
+              },
+              {
+                "t": "p",
+                "x": "리서치용 계측 도구도 이제 다른 모든 것만큼 싸게 만든다. 코딩 에이전트는 기능을 만들면서 인터셉트 설문, 이벤트 로깅, 대시보드도 함께 만든다. 빌드 전에는 리서치가 릴리스에서 무엇을 수집할지 정하도록 돕는다. 빌드 중에는 코딩 에이전트가 그 수집 기능을 구현한다. 릴리스 후에는 리서처가 무슨 일이 일어났는지 살피고 거기서 얻은 배움이 다음 요구 사항으로 이어진다."
+              },
+              {
+                "t": "img",
+                "src": "https://media.nngroup.com/media/editor/2026/11/13/research-in-the-loop.png",
+                "cap": "Research-in-the-Loop 프레임워크. Specify(명세), Build and Instrument(빌드와 계측), Release(출시), Evaluate and Learn(평가와 학습)이 반복되는 순환에 리서치 방법이 들어간다."
+              },
+              {
+                "t": "p",
+                "x": "스펙에 리서치 섹션을 넣는 방법도 있다. 기대하는 결과, 효과가 있었다는 신호, 문제가 생겼다는 신호, 추적할 항목, 사람들과 이야기할 시점을 적어 두는 식이다. 계측 덕에 평가와 조사는 더 효율적이 되지만 독립적인 탐색까지 대신하지는 못한다. 정성 리서치가 여전히 필수인 이유다."
+              },
+              {
+                "t": "p",
+                "x": "“에이전트는 몇 분 만에 설문을 만들 수 있다. 올바른 질문을 던질 책임은 리서처에게 있다.”"
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AI-speedリリースに\nUXリサーチが追いつく",
+          "body": "NN/gはリリースで測る項目を決めればUXリサーチもAI-speedに追いつけると説く。",
+          "mini_headline": "AIの速さで進むUXリサーチ",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "AIコーディングエージェントがより多くのコードを書くようになり、多くのチームは方向を決め、作り、リリースし、その結果を見守るようになった。しかし、ユーザーを調査するよりも速くリリースできるとしても、リサーチがなくなるわけではない。AIの速さで進む開発に歩調を合わせるために変わる必要がある。NN/gはこの変化をresearch-in-the-loopと呼ぶ。"
+              },
+              {
+                "t": "p",
+                "x": "リサーチのための計測も、今では他のあらゆるものと同じくらい安く作れる。コーディングエージェントは、機能と並行してインターセプト調査、イベントログ、ダッシュボードを構築できる。ビルド前にはリサーチがリリースで何を捕捉すべきかを形作り、ビルド中にはコーディングエージェントがその捕捉を実装し、リリース後にはリサーチャーが何が起きたかを調べ、そこで得た学びが次の要件につながる。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.nngroup.com/media/editor/2026/11/13/research-in-the-loop.png",
+                "cap": "Research-in-the-Loopフレームワーク:リサーチ手法が、Specify(仕様化)、Build and Instrument(構築と計測)、Release(リリース)、Evaluate and Learn(評価と学習)の繰り返しのサイクルに組み込まれる。"
+              },
+              {
+                "t": "p",
+                "x": "チームは仕様書にリサーチのセクションを加えることができる。期待すること、うまくいった兆候、問題を引き起こした兆候、追跡すべきこと、そして人々と話すべきタイミングだ。計測は評価と調査を効率化できるが、独立した探索の代わりにはならない。そのため定性リサーチは引き続き欠かせない。"
+              },
+              {
+                "t": "p",
+                "x": "「エージェントは数分で調査票を作れる。正しい問いを立てる責任はリサーチャーにある」"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "UX研究学会跟上\nAI-speed式发布节奏",
+          "body": "NN/g认为，只要定下每次发布要衡量的内容，UX研究就能跟上AI-speed发布。",
+          "mini_headline": "AI速度下的UX研究",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "随着AI编码智能体编写的代码越来越多，许多团队如今选定方向、构建、发布，然后观察结果。但如果发布速度快过对用户的研究速度，研究不能就此消失；它需要改变，以跟上AI速度的开发。NN/g将这种变化称为research-in-the-loop。"
+              },
+              {
+                "t": "p",
+                "x": "研究用的埋点工具如今也和其他一切一样便宜：编码智能体可以在开发功能的同时搭建拦截式问卷、事件日志和仪表板。构建之前，研究帮助确定一次发布必须采集什么；构建期间，编码智能体实现这些采集；发布之后，研究人员研究发生了什么，所得结论再输入下一轮需求。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.nngroup.com/media/editor/2026/11/13/research-in-the-loop.png",
+                "cap": "Research-in-the-Loop框架：研究方法为Specify（明确需求）、Build and Instrument（构建与埋点）、Release（发布）、Evaluate and Learn（评估与学习）的循环提供输入。"
+              },
+              {
+                "t": "p",
+                "x": "团队可以在需求规格中加入一个研究部分：我们预期什么、奏效的迹象、引发问题的迹象、要追踪什么，以及何时与人交谈。埋点能让评估和调查更高效，却无法取代独立的探索，因此定性研究依然不可或缺。"
+              },
+              {
+                "t": "p",
+                "x": "“智能体几分钟就能做出一份问卷。提出正确的问题，是研究人员的责任。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "La investigación UX aprende a\nseguir lanzamientos AI-speed",
+          "body": "Según NN/g, la investigación UX puede seguir el ritmo AI-speed si fija qué debe medir y descubrir cada lanzamiento.",
+          "mini_headline": "Investigación UX a velocidad de AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "A medida que los agentes de programación con AI escriben más código, muchos equipos eligen una dirección, construyen, lanzan y observan qué ocurre. Pero si se puede lanzar más rápido de lo que se puede estudiar a los usuarios, la investigación no puede desaparecer: tiene que cambiar para seguir el ritmo del desarrollo a velocidad de AI. NN/g llama a ese cambio research-in-the-loop."
+              },
+              {
+                "t": "p",
+                "x": "La instrumentación para investigación ahora es tan barata de construir como todo lo demás: un agente de programación puede crear encuestas de intercepción, registro de eventos y paneles junto con la función. Antes de construir, la investigación ayuda a definir qué debe capturar un lanzamiento; durante la construcción, los agentes de programación implementan esa captura; después del lanzamiento, los investigadores estudian lo que ocurrió, y lo que aprenden alimenta el siguiente conjunto de requisitos."
+              },
+              {
+                "t": "img",
+                "src": "https://media.nngroup.com/media/editor/2026/11/13/research-in-the-loop.png",
+                "cap": "Marco Research-in-the-Loop: los métodos de investigación alimentan un ciclo repetido de Specify, Build and Instrument, Release, y Evaluate and Learn (especificar, construir e instrumentar, lanzar, y evaluar y aprender)."
+              },
+              {
+                "t": "p",
+                "x": "Los equipos pueden añadir una sección de investigación a la especificación: qué esperamos, señales de que funcionó, señales de que causó problemas, qué seguir y cuándo hablar con las personas. La instrumentación puede hacer más eficientes la evaluación y la indagación, pero no puede sustituir el descubrimiento independiente, por lo que la investigación cualitativa sigue siendo esencial."
+              },
+              {
+                "t": "p",
+                "x": "“Un agente puede crear una encuesta en minutos. El investigador es responsable de hacer las preguntas correctas.”"
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "AI-speed 출시에\nUX 연구도 따라간다",
+          "body": "NN/g는 측정 대상을 정하면 UX 연구가 AI-speed를 따라간다고 본다.",
+          "mini_headline": "AI 속도의 UX 리서치",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "AI 코딩 에이전트가 더 많은 코드를 쓰면서, 이제 많은 팀이 방향을 정하고, 만들고, 출시한 뒤 결과를 지켜본다. 하지만 사용자를 연구하는 속도보다 출시가 더 빠르다고 해서 리서치가 사라질 수는 없다. AI 속도의 개발에 발맞추도록 바뀌어야 한다. NN/g는 이 변화를 research-in-the-loop라고 부른다."
+              },
+              {
+                "t": "p",
+                "x": "이제 리서치용 계측 도구도 다른 모든 것만큼 싸게 만들 수 있다. 코딩 에이전트는 기능과 함께 인터셉트 설문, 이벤트 로깅, 대시보드를 만들 수 있다. 빌드 전에는 리서치가 릴리스에서 무엇을 수집해야 할지 정하는 데 도움을 주고, 빌드 중에는 코딩 에이전트가 그 수집 기능을 구현하며, 릴리스 후에는 리서처가 무슨 일이 일어났는지 연구하고 거기서 얻은 배움이 다음 요구 사항으로 이어진다."
+              },
+              {
+                "t": "img",
+                "src": "https://media.nngroup.com/media/editor/2026/11/13/research-in-the-loop.png",
+                "cap": "Research-in-the-Loop 프레임워크: 리서치 방법이 Specify(명세), Build and Instrument(빌드와 계측), Release(출시), Evaluate and Learn(평가와 학습)으로 반복되는 순환에 투입된다."
+              },
+              {
+                "t": "p",
+                "x": "팀은 스펙에 리서치 섹션을 추가할 수 있다. 기대하는 것, 효과가 있었다는 신호, 문제를 일으켰다는 신호, 추적할 것, 사람들과 이야기할 시점을 적는 식이다. 계측은 평가와 조사를 더 효율적으로 만들 수 있지만 독립적인 탐색을 대신할 수는 없다. 그래서 정성 리서치는 여전히 필수다."
+              },
+              {
+                "t": "p",
+                "x": "“에이전트는 몇 분 만에 설문을 만들 수 있다. 올바른 질문을 던질 책임은 리서처에게 있다.”"
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AI-speedリリースに\nUXリサーチが追いつく",
+          "body": "NN/gはリリースで測る項目を決めればUXリサーチもAI-speedに追いつけると説く。",
+          "mini_headline": "AIの速さで進むUXリサーチ",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "AIコーディングエージェントがより多くのコードを書くようになり、多くのチームは方向を決め、作り、リリースし、その結果を見守るようになった。しかし、ユーザーを調査するよりも速くリリースできるとしても、リサーチがなくなるわけではない。AIの速さで進む開発に歩調を合わせるために変わる必要がある。NN/gはこの変化をresearch-in-the-loopと呼ぶ。"
+              },
+              {
+                "t": "p",
+                "x": "リサーチのための計測も、今では他のあらゆるものと同じくらい安く作れる。コーディングエージェントは、機能と並行してインターセプト調査、イベントログ、ダッシュボードを構築できる。ビルド前にはリサーチがリリースで何を捕捉すべきかを形作り、ビルド中にはコーディングエージェントがその捕捉を実装し、リリース後にはリサーチャーが何が起きたかを調べ、そこで得た学びが次の要件につながる。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.nngroup.com/media/editor/2026/11/13/research-in-the-loop.png",
+                "cap": "Research-in-the-Loopフレームワーク:リサーチ手法が、Specify(仕様化)、Build and Instrument(構築と計測)、Release(リリース)、Evaluate and Learn(評価と学習)の繰り返しのサイクルに組み込まれる。"
+              },
+              {
+                "t": "p",
+                "x": "チームは仕様書にリサーチのセクションを加えることができる。期待すること、うまくいった兆候、問題を引き起こした兆候、追跡すべきこと、そして人々と話すべきタイミングだ。計測は評価と調査を効率化できるが、独立した探索の代わりにはならない。そのため定性リサーチは引き続き欠かせない。"
+              },
+              {
+                "t": "p",
+                "x": "「エージェントは数分で調査票を作れる。正しい問いを立てる責任はリサーチャーにある」"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "UX研究学会跟上\nAI-speed式发布节奏",
+          "body": "NN/g认为，只要定下每次发布要衡量的内容，UX研究就能跟上AI-speed发布。",
+          "mini_headline": "AI速度下的UX研究",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "随着AI编码智能体编写的代码越来越多，许多团队如今选定方向、构建、发布，然后观察结果。但如果发布速度快过对用户的研究速度，研究不能就此消失；它需要改变，以跟上AI速度的开发。NN/g将这种变化称为research-in-the-loop。"
+              },
+              {
+                "t": "p",
+                "x": "研究用的埋点工具如今也和其他一切一样便宜：编码智能体可以在开发功能的同时搭建拦截式问卷、事件日志和仪表板。构建之前，研究帮助确定一次发布必须采集什么；构建期间，编码智能体实现这些采集；发布之后，研究人员研究发生了什么，所得结论再输入下一轮需求。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.nngroup.com/media/editor/2026/11/13/research-in-the-loop.png",
+                "cap": "Research-in-the-Loop框架：研究方法为Specify（明确需求）、Build and Instrument（构建与埋点）、Release（发布）、Evaluate and Learn（评估与学习）的循环提供输入。"
+              },
+              {
+                "t": "p",
+                "x": "团队可以在需求规格中加入一个研究部分：我们预期什么、奏效的迹象、引发问题的迹象、要追踪什么，以及何时与人交谈。埋点能让评估和调查更高效，却无法取代独立的探索，因此定性研究依然不可或缺。"
+              },
+              {
+                "t": "p",
+                "x": "“智能体几分钟就能做出一份问卷。提出正确的问题，是研究人员的责任。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "La investigación UX aprende a\nseguir lanzamientos AI-speed",
+          "body": "Según NN/g, la investigación UX puede seguir el ritmo AI-speed si fija qué debe medir y descubrir cada lanzamiento.",
+          "mini_headline": "Investigación UX a velocidad de AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "A medida que los agentes de programación con AI escriben más código, muchos equipos eligen una dirección, construyen, lanzan y observan qué ocurre. Pero si se puede lanzar más rápido de lo que se puede estudiar a los usuarios, la investigación no puede desaparecer: tiene que cambiar para seguir el ritmo del desarrollo a velocidad de AI. NN/g llama a ese cambio research-in-the-loop."
+              },
+              {
+                "t": "p",
+                "x": "La instrumentación para investigación ahora es tan barata de construir como todo lo demás: un agente de programación puede crear encuestas de intercepción, registro de eventos y paneles junto con la función. Antes de construir, la investigación ayuda a definir qué debe capturar un lanzamiento; durante la construcción, los agentes de programación implementan esa captura; después del lanzamiento, los investigadores estudian lo que ocurrió, y lo que aprenden alimenta el siguiente conjunto de requisitos."
+              },
+              {
+                "t": "img",
+                "src": "https://media.nngroup.com/media/editor/2026/11/13/research-in-the-loop.png",
+                "cap": "Marco Research-in-the-Loop: los métodos de investigación alimentan un ciclo repetido de Specify, Build and Instrument, Release, y Evaluate and Learn (especificar, construir e instrumentar, lanzar, y evaluar y aprender)."
+              },
+              {
+                "t": "p",
+                "x": "Los equipos pueden añadir una sección de investigación a la especificación: qué esperamos, señales de que funcionó, señales de que causó problemas, qué seguir y cuándo hablar con las personas. La instrumentación puede hacer más eficientes la evaluación y la indagación, pero no puede sustituir el descubrimiento independiente, por lo que la investigación cualitativa sigue siendo esencial."
+              },
+              {
+                "t": "p",
+                "x": "“Un agente puede crear una encuesta en minutos. El investigador es responsable de hacer las preguntas correctas.”"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "vercel-ui-sdk-behaviors",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Vercel UI SDK,\n컴포넌트 말고 동작을",
+      "body": "Vercel Labs UI SDK는 에이전트에게 접근성 동작 50+개를 건넨다.",
+      "mini_headline": "에이전트에게 컴포넌트 말고 동작을",
+      "tool": "Design Tokens",
+      "source": "DEV Community",
+      "url": "https://dev.to/dishant0406/vercels-ui-sdk-hands-agents-behaviors-not-components-25n0",
+      "accent": "#2ec5c5",
+      "motif": "swatch",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Ffiles.catbox.moe%2Fnh6k1a.webp"
+          },
+          {
+            "t": "p",
+            "x": "Vercel Labs가 2026년 11월 12일 UI SDK를 내놓았다. 만든 사람은 shadcn이고 라이선스는 Apache-2.0이며 아직 베타다. 빈 저장소에서 시작해 19일 만에 스타 4,239개를 모았다. 컴포넌트 라이브러리가 아니라 그 아래에 깔리는 층이다. Select 대신 createPopup, createSelection, createTypeahead를 건네고 이를 엮는 일은 에이전트에게 맡긴다."
+          },
+          {
+            "t": "p",
+            "x": "definePrimitive로 상태(state), api, 슬롯(slots)을 선언하면 createParts가 같은 프리미티브를 React, Vue, Svelte, Solid, Web Components에서 렌더링한다. 코어 패키지에 담긴 50+개 동작은 10개 범주로 나뉜다. README에는 \"걱정하지 마라, 이걸 작성하는 법을 배울 필요는 없다. 에이전트가 배울 것이다.\"라는 문구가 있다."
+          },
+          {
+            "t": "p",
+            "x": "패키지마다 llms.txt와 core.md, 스킬과 브리지가 들어 있다. agent.snapshot()은 컴포넌트와 상태, 액션을 돌려준다. Vercel이 자체 보고한 단일 작업 벤치마크에서는 브리지가 브라우저 도구보다 도구 호출이 69% 적었고 61% 빨랐다."
+          },
+          {
+            "t": "p",
+            "x": "필자가 보기에 구조화된 프리미티브는 자유 형식 생성보다 낫다. 다만 동작도 빠뜨릴 수 있다. #534 같은 미해결 접근성 이슈를 보면 프리미티브도 결국 그것을 확인하는 사람만큼만 좋다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Vercel's UI SDK gives agents\nbehaviors, not components",
+          "body": "Vercel Labs' UI SDK ships 50+ accessible behaviors that coding agents compose into components across frameworks.",
+          "mini_headline": "Agents get behaviors, not components",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Ffiles.catbox.moe%2Fnh6k1a.webp"
+              },
+              {
+                "t": "p",
+                "x": "Vercel Labs shipped UI SDK on November 12, 2026, built by shadcn, Apache-2.0, still beta. The repo went from nothing to 4,239 stars in nineteen days. It isn't a component library; it's the layer underneath one. Instead of handing you a Select, it hands you createPopup, createSelection and createTypeahead, and the agent wires them together."
+              },
+              {
+                "t": "p",
+                "x": "definePrimitive declares state, an api and slots, and createParts renders the same primitive in React, Vue, Svelte, Solid or Web Components. There are 50+ behaviors in the core package, grouped into ten categories. The README says: \"Don't worry, you don't need to learn how to write this. Your agents will.\""
+              },
+              {
+                "t": "p",
+                "x": "Every package ships llms.txt and core.md, plus a skill and a bridge: agent.snapshot() returns components, their state and their actions. In Vercel's one-task benchmark the bridge used 69% fewer tool calls and was 61% faster than browser tools, self-reported."
+              },
+              {
+                "t": "p",
+                "x": "The author's take: structured primitives beat freeform generation, but behaviors are also omittable, and open accessibility issues such as #534 show a primitive is only as good as the person checking it."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Vercel UI SDK,\n컴포넌트 말고 동작을",
+          "body": "Vercel Labs UI SDK는 에이전트에게 접근성 동작 50+개를 건넨다.",
+          "mini_headline": "에이전트에게 컴포넌트 말고 동작을",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Ffiles.catbox.moe%2Fnh6k1a.webp"
+              },
+              {
+                "t": "p",
+                "x": "Vercel Labs가 2026년 11월 12일 UI SDK를 내놓았다. 만든 사람은 shadcn이고 라이선스는 Apache-2.0이며 아직 베타다. 빈 저장소에서 시작해 19일 만에 스타 4,239개를 모았다. 컴포넌트 라이브러리가 아니라 그 아래에 깔리는 층이다. Select 대신 createPopup, createSelection, createTypeahead를 건네고 이를 엮는 일은 에이전트에게 맡긴다."
+              },
+              {
+                "t": "p",
+                "x": "definePrimitive로 상태(state), api, 슬롯(slots)을 선언하면 createParts가 같은 프리미티브를 React, Vue, Svelte, Solid, Web Components에서 렌더링한다. 코어 패키지에 담긴 50+개 동작은 10개 범주로 나뉜다. README에는 \"걱정하지 마라, 이걸 작성하는 법을 배울 필요는 없다. 에이전트가 배울 것이다.\"라는 문구가 있다."
+              },
+              {
+                "t": "p",
+                "x": "패키지마다 llms.txt와 core.md, 스킬과 브리지가 들어 있다. agent.snapshot()은 컴포넌트와 상태, 액션을 돌려준다. Vercel이 자체 보고한 단일 작업 벤치마크에서는 브리지가 브라우저 도구보다 도구 호출이 69% 적었고 61% 빨랐다."
+              },
+              {
+                "t": "p",
+                "x": "필자가 보기에 구조화된 프리미티브는 자유 형식 생성보다 낫다. 다만 동작도 빠뜨릴 수 있다. #534 같은 미해결 접근성 이슈를 보면 프리미티브도 결국 그것을 확인하는 사람만큼만 좋다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Vercel UI SDKが\n部品でなく振る舞いを提供",
+          "body": "Vercel LabsのUI SDKは50+のアクセシブルな振る舞いをエージェントに渡す。",
+          "mini_headline": "部品でなく振る舞いをエージェントに",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Ffiles.catbox.moe%2Fnh6k1a.webp"
+              },
+              {
+                "t": "p",
+                "x": "Vercel Labsは2026年11月12日、shadcnが手がけたUI SDKを公開した。ライセンスはApache-2.0で、まだベータ版だ。リポジトリは何もない状態から19日間で4,239スターを獲得した。これはコンポーネントライブラリではなく、その下にあるレイヤーだ。Selectを渡す代わりにcreatePopup、createSelection、createTypeaheadを渡し、それらをつなぐのはエージェントの役目となる。"
+              },
+              {
+                "t": "p",
+                "x": "definePrimitiveはstate、api、slotsを宣言し、createPartsは同じプリミティブをReact、Vue、Svelte、Solid、Web Componentsでレンダリングする。コアパッケージには50+の振る舞いがあり、10のカテゴリーに分類されている。READMEにはこうある。「心配はいらない。これの書き方を学ぶ必要はない。エージェントが学ぶ」"
+              },
+              {
+                "t": "p",
+                "x": "各パッケージにはllms.txtとcore.md、さらにスキルとブリッジが含まれる。agent.snapshot()はコンポーネントとその状態、アクションを返す。Vercelが自己申告した単一タスクのベンチマークでは、ブリッジはブラウザツールよりツール呼び出しが69%少なく、61%高速だった。"
+              },
+              {
+                "t": "p",
+                "x": "筆者の見方:構造化されたプリミティブは自由形式の生成に勝るが、振る舞いも省略されうる。#534のような未解決のアクセシビリティ問題は、プリミティブの質がそれを確認する人次第であることを示している。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Vercel UI SDK\n给智能体行为而非组件",
+          "body": "Vercel Labs的UI SDK提供50+种无障碍行为，供编码智能体跨框架组合成组件。",
+          "mini_headline": "给智能体行为，而非组件",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Ffiles.catbox.moe%2Fnh6k1a.webp"
+              },
+              {
+                "t": "p",
+                "x": "Vercel Labs于2026年11月12日发布UI SDK，由shadcn打造，采用Apache-2.0许可，仍处于测试阶段。该仓库从无到有，19天内收获4,239颗星。它不是组件库，而是组件库之下的一层。它不直接给你Select，而是给你createPopup、createSelection和createTypeahead，由智能体把它们连接起来。"
+              },
+              {
+                "t": "p",
+                "x": "definePrimitive声明state、api和slots，createParts则能在React、Vue、Svelte、Solid或Web Components中渲染同一个基元。核心包中有50+种行为，分为十个类别。README写道：“别担心，你不需要学会怎么写这个。你的智能体会。”"
+              },
+              {
+                "t": "p",
+                "x": "每个包都附带llms.txt和core.md，以及技能和桥接器：agent.snapshot()会返回组件及其状态和操作。在Vercel自行报告的单任务基准测试中，桥接器比浏览器工具少用69%的工具调用，速度快61%。"
+              },
+              {
+                "t": "p",
+                "x": "作者的看法：结构化基元胜过自由生成，但行为同样可能被省略；像#534这样尚未解决的无障碍问题表明，基元的好坏取决于检查它的人。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Vercel UI SDK da a los agentes\ncomportamientos, no componentes",
+          "body": "El UI SDK de Vercel Labs trae 50+ comportamientos accesibles que los agentes combinan en componentes multiframework.",
+          "mini_headline": "Comportamientos, no componentes, para agentes",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Ffiles.catbox.moe%2Fnh6k1a.webp"
+              },
+              {
+                "t": "p",
+                "x": "Vercel Labs lanzó UI SDK el 12 de noviembre de 2026; lo creó shadcn, usa licencia Apache-2.0 y sigue en beta. El repositorio pasó de no existir a 4,239 estrellas en diecinueve días. No es una biblioteca de componentes, sino la capa que hay debajo de una. En lugar de entregar un Select, entrega createPopup, createSelection y createTypeahead, y el agente los conecta entre sí."
+              },
+              {
+                "t": "p",
+                "x": "definePrimitive declara state, una api y slots, y createParts renderiza la misma primitiva en React, Vue, Svelte, Solid o Web Components. El paquete principal incluye 50+ comportamientos agrupados en diez categorías. El README dice: \"No te preocupes, no necesitas aprender a escribir esto. Tus agentes lo harán.\""
+              },
+              {
+                "t": "p",
+                "x": "Cada paquete incluye llms.txt y core.md, además de una habilidad y un puente: agent.snapshot() devuelve los componentes, su estado y sus acciones. En la prueba de una sola tarea de Vercel, el puente usó un 69% menos de llamadas a herramientas y fue un 61% más rápido que las herramientas de navegador, según datos propios."
+              },
+              {
+                "t": "p",
+                "x": "La opinión del autor: las primitivas estructuradas superan a la generación libre, pero los comportamientos también pueden omitirse, y problemas de accesibilidad abiertos como el #534 muestran que una primitiva vale lo que vale quien la revisa."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Vercel UI SDK,\n컴포넌트 대신 동작 제공",
+          "body": "Vercel Labs UI SDK는 접근성 동작 50+개를 에이전트에 준다.",
+          "mini_headline": "에이전트에 컴포넌트 대신 동작을",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Ffiles.catbox.moe%2Fnh6k1a.webp"
+              },
+              {
+                "t": "p",
+                "x": "Vercel Labs가 2026년 11월 12일 UI SDK를 내놓았다. shadcn이 만들었고 Apache-2.0 라이선스이며 아직 베타다. 아무것도 없던 저장소는 19일 만에 스타 4,239개를 모았다. 이것은 컴포넌트 라이브러리가 아니라 그 아래에 놓이는 층이다. Select를 건네는 대신 createPopup, createSelection, createTypeahead를 건네고, 이를 엮는 일은 에이전트가 한다."
+              },
+              {
+                "t": "p",
+                "x": "definePrimitive는 상태(state), api, 슬롯(slots)을 선언하고, createParts는 같은 프리미티브를 React, Vue, Svelte, Solid, Web Components에서 렌더링한다. 코어 패키지에는 50+개 동작이 10개 범주로 나뉘어 있다. README에는 \"걱정하지 마라, 이걸 작성하는 법을 배울 필요는 없다. 에이전트가 배울 것이다.\"라고 적혀 있다."
+              },
+              {
+                "t": "p",
+                "x": "모든 패키지에는 llms.txt와 core.md, 그리고 스킬과 브리지가 들어 있다. agent.snapshot()은 컴포넌트와 그 상태, 액션을 반환한다. Vercel이 자체 보고한 단일 작업 벤치마크에서 브리지는 브라우저 도구보다 도구 호출이 69% 적었고 61% 빨랐다."
+              },
+              {
+                "t": "p",
+                "x": "필자의 견해: 구조화된 프리미티브가 자유 형식 생성보다 낫지만, 동작 역시 빠뜨릴 수 있다. #534 같은 미해결 접근성 이슈는 프리미티브가 결국 그것을 확인하는 사람만큼만 좋다는 점을 보여준다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Vercel UI SDKが\n部品でなく振る舞いを提供",
+          "body": "Vercel LabsのUI SDKは50+のアクセシブルな振る舞いをエージェントに渡す。",
+          "mini_headline": "部品でなく振る舞いをエージェントに",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Ffiles.catbox.moe%2Fnh6k1a.webp"
+              },
+              {
+                "t": "p",
+                "x": "Vercel Labsは2026年11月12日、shadcnが手がけたUI SDKを公開した。ライセンスはApache-2.0で、まだベータ版だ。リポジトリは何もない状態から19日間で4,239スターを獲得した。これはコンポーネントライブラリではなく、その下にあるレイヤーだ。Selectを渡す代わりにcreatePopup、createSelection、createTypeaheadを渡し、それらをつなぐのはエージェントの役目となる。"
+              },
+              {
+                "t": "p",
+                "x": "definePrimitiveはstate、api、slotsを宣言し、createPartsは同じプリミティブをReact、Vue、Svelte、Solid、Web Componentsでレンダリングする。コアパッケージには50+の振る舞いがあり、10のカテゴリーに分類されている。READMEにはこうある。「心配はいらない。これの書き方を学ぶ必要はない。エージェントが学ぶ」"
+              },
+              {
+                "t": "p",
+                "x": "各パッケージにはllms.txtとcore.md、さらにスキルとブリッジが含まれる。agent.snapshot()はコンポーネントとその状態、アクションを返す。Vercelが自己申告した単一タスクのベンチマークでは、ブリッジはブラウザツールよりツール呼び出しが69%少なく、61%高速だった。"
+              },
+              {
+                "t": "p",
+                "x": "筆者の見方:構造化されたプリミティブは自由形式の生成に勝るが、振る舞いも省略されうる。#534のような未解決のアクセシビリティ問題は、プリミティブの質がそれを確認する人次第であることを示している。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Vercel UI SDK\n给智能体行为而非组件",
+          "body": "Vercel Labs的UI SDK提供50+种无障碍行为，供编码智能体跨框架组合成组件。",
+          "mini_headline": "给智能体行为，而非组件",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Ffiles.catbox.moe%2Fnh6k1a.webp"
+              },
+              {
+                "t": "p",
+                "x": "Vercel Labs于2026年11月12日发布UI SDK，由shadcn打造，采用Apache-2.0许可，仍处于测试阶段。该仓库从无到有，19天内收获4,239颗星。它不是组件库，而是组件库之下的一层。它不直接给你Select，而是给你createPopup、createSelection和createTypeahead，由智能体把它们连接起来。"
+              },
+              {
+                "t": "p",
+                "x": "definePrimitive声明state、api和slots，createParts则能在React、Vue、Svelte、Solid或Web Components中渲染同一个基元。核心包中有50+种行为，分为十个类别。README写道：“别担心，你不需要学会怎么写这个。你的智能体会。”"
+              },
+              {
+                "t": "p",
+                "x": "每个包都附带llms.txt和core.md，以及技能和桥接器：agent.snapshot()会返回组件及其状态和操作。在Vercel自行报告的单任务基准测试中，桥接器比浏览器工具少用69%的工具调用，速度快61%。"
+              },
+              {
+                "t": "p",
+                "x": "作者的看法：结构化基元胜过自由生成，但行为同样可能被省略；像#534这样尚未解决的无障碍问题表明，基元的好坏取决于检查它的人。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Vercel UI SDK da a los agentes\ncomportamientos, no componentes",
+          "body": "El UI SDK de Vercel Labs trae 50+ comportamientos accesibles que los agentes combinan en componentes multiframework.",
+          "mini_headline": "Comportamientos, no componentes, para agentes",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Ffiles.catbox.moe%2Fnh6k1a.webp"
+              },
+              {
+                "t": "p",
+                "x": "Vercel Labs lanzó UI SDK el 12 de noviembre de 2026; lo creó shadcn, usa licencia Apache-2.0 y sigue en beta. El repositorio pasó de no existir a 4,239 estrellas en diecinueve días. No es una biblioteca de componentes, sino la capa que hay debajo de una. En lugar de entregar un Select, entrega createPopup, createSelection y createTypeahead, y el agente los conecta entre sí."
+              },
+              {
+                "t": "p",
+                "x": "definePrimitive declara state, una api y slots, y createParts renderiza la misma primitiva en React, Vue, Svelte, Solid o Web Components. El paquete principal incluye 50+ comportamientos agrupados en diez categorías. El README dice: \"No te preocupes, no necesitas aprender a escribir esto. Tus agentes lo harán.\""
+              },
+              {
+                "t": "p",
+                "x": "Cada paquete incluye llms.txt y core.md, además de una habilidad y un puente: agent.snapshot() devuelve los componentes, su estado y sus acciones. En la prueba de una sola tarea de Vercel, el puente usó un 69% menos de llamadas a herramientas y fue un 61% más rápido que las herramientas de navegador, según datos propios."
+              },
+              {
+                "t": "p",
+                "x": "La opinión del autor: las primitivas estructuradas superan a la generación libre, pero los comportamientos también pueden omitirse, y problemas de accesibilidad abiertos como el #534 muestran que una primitiva vale lo que vale quien la revisa."
               }
             ]
           }

@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-14",
+  "date": "2026-11-15",
   "section": "books",
   "cards": [
     {
-      "id": "books-kyobo-picks-agent",
+      "id": "books-anthropic-taiwan-563t",
       "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "교보문고, 대화형\nAI 책 추천 오픈",
-      "body": "교보문고가 대화로 취향을 묻고 책을 골라주는 'Picks 에이전트'를 열었다.",
-      "mini_headline": "교보문고 AI 책 추천",
+      "headline": "앤트로픽, 대만서\n책 563톤 매입 논란",
+      "body": "앤트로픽의 대만 책 563톤 매입에 대만 의원이 출판산업 영향 파악을 요구했다.",
+      "mini_headline": "대만 책 563톤 매입",
       "tool": "Books",
-      "source": "독서신문",
-      "url": "https://www.readersnews.com/news/articleView.html?idxno=200863",
+      "source": "중앙일보",
+      "url": "https://www.joongang.co.kr/article/25478153",
       "accent": "#f5a623",
       "motif": "swatch",
       "full": {
@@ -19,227 +19,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.readersnews.com/news/photo/202611/200863_91283_2625.jpg",
-            "cap": "[사진=교보문고]"
+            "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202611/13/860cbb8e-408f-4290-a5e6-c9019810bb45.jpg",
+            "cap": "[셔터스톡]"
           },
           {
             "t": "p",
-            "x": "교보문고가 대화형 AI 도서 추천 서비스 ‘Picks 에이전트’를 오픈했다."
+            "x": "유럽과 한국, 일본 등에 이어 대만에서도 인공지능(AI) 기업의 대량 책 매입이 논란이 되고 있다. AI 기업 앤트로픽이 대만의 도서유통사 연합발행(UDC)으로부터 2024년 11월부터 올해 9월까지 총 563.143톤(t)의 책을 구입했다는 사실은 지난달 18일 중앙일보 보도로 처음 드러났다. 이를 대만 최대 신문사 자유시보가 인용보도하면서 논란은 정치권으로 번지고 있다."
           },
           {
             "t": "p",
-            "x": "‘Picks’는 개인의 취향과 관심사를 반영해 도서를 추천해 주는 맞춤형 서비스다. 지난 3월에는 거대언어모델(LLM)을 적용해 서비스를 고도화했다."
+            "x": "지난 4일 리위안 대만 문화부 장관이 출석한 대만 의회(입법원) 교육문화위원회에서는 AI 기업의 중국어 책 대량 매입이 주요 안건으로 다뤄졌다. 자유시보 보도에 따르면, 야당인 국민당 소속 거루쥔 의원은 중앙일보 보도를 언급하며 문화부에 “이러한 거래가 출판산업에 미치는 영향을 파악해야 한다”고 요구했다."
           },
           {
             "t": "p",
-            "x": "이번에 새롭게 선보이는 ‘Picks 에이전트’에서는 추천 방식을 대화형으로 확장했다. 독자의 취향뿐 아니라 교보문고 MD가 큐레이션한 주제와 도서를 바탕으로 도서를 추천하는 것은 물론 독서 맥락을 고려해 읽는 순서를 알려주기도 한다."
+            "x": "이에 리 장관은 “문화부가 이미 관계 부처에 서면 의견을 제출했다”며 “일주일 이내에 관련 법률 개정과 관련한 의견을 제출하고, 한 달 이내에 (AI 학습자료 이용허락 중개) 플랫폼 구축의 타당성에 관한 검토 자료를 마련하겠다”고 말했다. 대만 문화콘텐츠진흥원 등이 구축을 추진하는 플랫폼으로, 학습 이용료를 지급하려는 AI 기업과 저작물 이용을 허락하려는 출판사·창작자가 공식적으로 거래할 수 있도록 하자는 내용이다."
           },
           {
             "t": "p",
-            "x": "서비스 기획에는 독자들의 의견이 반영됐다. 지난 1월 회원들을 대상으로 진행한 설문조사에서 응답자의 55%가 책을 고를 때 가장 망설이는 순간으로 자신의 취향에 맞는 책인지 확신하기 어려울 때를 꼽았다. 가장 선호하는 AI 추천 방식으로는 ‘독서 데이터를 분석한 취향 맞춤 추천’이 선택됐다."
-          },
-          {
-            "t": "p",
-            "x": "해당 서비스는 교보문고 홈페이지에 로그인한 후 검색창 옆 Picks 에이전트 아이콘을 누르면 이용할 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "오픈 기념 이벤트 페이지에서는 작가들이 ‘Picks 에이전트’에 던진 질문과 추천 도서, 선정 이유를 확인할 수 있으며 질문 방식과 추천 과정 등을 살펴볼 수 있다. 오픈 기념 댓글 이벤트도 진행된다."
+            "x": "대만 정부는 출판물 등 각종 언어 자료를 AI 학습에 용이하도록 디지털화하고, 저작권자에게 정당한 대가를 지급하는 시범 사업도 추진 중이다. 지난 9일 대만 주간지 미러미디어 보도에 따르면, 여당 소속 천페이위 의원은 “정부가 최근 부처 간 협의를 시작해 ‘전통 언어자료 디지털화 선도계획’을 구상하고 있다”고 밝혔다. ‘전통 언어자료’는 기존에 생산된 출판물 등의 자료를 뜻한다."
           }
         ]
       },
       "text": {
         "ko": {
-          "headline": "교보문고, 대화형\nAI 책 추천 오픈",
-          "body": "교보문고가 대화로 취향을 묻고 책을 골라주는 'Picks 에이전트'를 열었다.",
-          "mini_headline": "교보문고 AI 책 추천",
+          "headline": "앤트로픽, 대만서\n책 563톤 매입 논란",
+          "body": "앤트로픽의 대만 책 563톤 매입에 대만 의원이 출판산업 영향 파악을 요구했다.",
+          "mini_headline": "대만 책 563톤 매입",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.readersnews.com/news/photo/202611/200863_91283_2625.jpg",
-                "cap": "[사진=교보문고]"
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202611/13/860cbb8e-408f-4290-a5e6-c9019810bb45.jpg",
+                "cap": "[셔터스톡]"
               },
               {
                 "t": "p",
-                "x": "교보문고가 대화형 AI 도서 추천 서비스 ‘Picks 에이전트’를 오픈했다."
+                "x": "유럽과 한국, 일본 등에 이어 대만에서도 인공지능(AI) 기업의 대량 책 매입이 논란이 되고 있다. AI 기업 앤트로픽이 대만의 도서유통사 연합발행(UDC)으로부터 2024년 11월부터 올해 9월까지 총 563.143톤(t)의 책을 구입했다는 사실은 지난달 18일 중앙일보 보도로 처음 드러났다. 이를 대만 최대 신문사 자유시보가 인용보도하면서 논란은 정치권으로 번지고 있다."
               },
               {
                 "t": "p",
-                "x": "‘Picks’는 개인의 취향과 관심사를 반영해 도서를 추천해 주는 맞춤형 서비스다. 지난 3월에는 거대언어모델(LLM)을 적용해 서비스를 고도화했다."
+                "x": "지난 4일 리위안 대만 문화부 장관이 출석한 대만 의회(입법원) 교육문화위원회에서는 AI 기업의 중국어 책 대량 매입이 주요 안건으로 다뤄졌다. 자유시보 보도에 따르면, 야당인 국민당 소속 거루쥔 의원은 중앙일보 보도를 언급하며 문화부에 “이러한 거래가 출판산업에 미치는 영향을 파악해야 한다”고 요구했다."
               },
               {
                 "t": "p",
-                "x": "이번에 새롭게 선보이는 ‘Picks 에이전트’에서는 추천 방식을 대화형으로 확장했다. 독자의 취향뿐 아니라 교보문고 MD가 큐레이션한 주제와 도서를 바탕으로 도서를 추천하는 것은 물론 독서 맥락을 고려해 읽는 순서를 알려주기도 한다."
+                "x": "이에 리 장관은 “문화부가 이미 관계 부처에 서면 의견을 제출했다”며 “일주일 이내에 관련 법률 개정과 관련한 의견을 제출하고, 한 달 이내에 (AI 학습자료 이용허락 중개) 플랫폼 구축의 타당성에 관한 검토 자료를 마련하겠다”고 말했다. 대만 문화콘텐츠진흥원 등이 구축을 추진하는 플랫폼으로, 학습 이용료를 지급하려는 AI 기업과 저작물 이용을 허락하려는 출판사·창작자가 공식적으로 거래할 수 있도록 하자는 내용이다."
               },
               {
                 "t": "p",
-                "x": "서비스 기획에는 독자들의 의견이 반영됐다. 지난 1월 회원들을 대상으로 진행한 설문조사에서 응답자의 55%가 책을 고를 때 가장 망설이는 순간으로 자신의 취향에 맞는 책인지 확신하기 어려울 때를 꼽았다. 가장 선호하는 AI 추천 방식으로는 ‘독서 데이터를 분석한 취향 맞춤 추천’이 선택됐다."
-              },
-              {
-                "t": "p",
-                "x": "해당 서비스는 교보문고 홈페이지에 로그인한 후 검색창 옆 Picks 에이전트 아이콘을 누르면 이용할 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "오픈 기념 이벤트 페이지에서는 작가들이 ‘Picks 에이전트’에 던진 질문과 추천 도서, 선정 이유를 확인할 수 있으며 질문 방식과 추천 과정 등을 살펴볼 수 있다. 오픈 기념 댓글 이벤트도 진행된다."
+                "x": "대만 정부는 출판물 등 각종 언어 자료를 AI 학습에 용이하도록 디지털화하고, 저작권자에게 정당한 대가를 지급하는 시범 사업도 추진 중이다. 지난 9일 대만 주간지 미러미디어 보도에 따르면, 여당 소속 천페이위 의원은 “정부가 최근 부처 간 협의를 시작해 ‘전통 언어자료 디지털화 선도계획’을 구상하고 있다”고 밝혔다. ‘전통 언어자료’는 기존에 생산된 출판물 등의 자료를 뜻한다."
               }
             ]
           }
         },
         "en": {
-          "headline": "Kyobo Book Centre Opens\nConversational AI Book Picks",
-          "body": "Kyobo Book Centre opened 'Picks Agent', which asks readers about their tastes in conversation and chooses books.",
-          "mini_headline": "Kyobo AI Book Picks",
+          "headline": "Anthropic's 563 tons of\nTaiwan books spark debate",
+          "body": "A Taiwanese lawmaker urged a review of how Anthropic's purchase of 563 tons of Taiwanese books affects publishing.",
+          "mini_headline": "563 tons of Taiwan books",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.readersnews.com/news/photo/202611/200863_91283_2625.jpg",
-                "cap": "[Photo=Kyobo Book Centre]"
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202611/13/860cbb8e-408f-4290-a5e6-c9019810bb45.jpg",
+                "cap": "[Shutterstock]"
               },
               {
                 "t": "p",
-                "x": "Kyobo Book Centre has opened ‘Picks Agent’, a conversational AI book recommendation service."
+                "x": "Following Europe, Korea and Japan, bulk book purchases by artificial intelligence (AI) companies have become controversial in Taiwan as well. A JoongAng Ilbo report on the 18th of last month first revealed that AI company Anthropic bought a total of 563.143 tons (t) of books from Taiwanese book distributor United Distribution (UDC) between November 2024 and September this year. The controversy is spreading into politics after Taiwan's largest newspaper, the Liberty Times, cited the report."
               },
               {
                 "t": "p",
-                "x": "‘Picks’ is a personalized service that recommends books based on individual tastes and interests. In March, the service was upgraded with a large language model (LLM)."
+                "x": "On the 4th, bulk purchases of Chinese-language books by AI companies were a main agenda item at the Education and Culture Committee of Taiwan's legislature (Legislative Yuan), attended by Taiwan's Minister of Culture Li Yuan. According to the Liberty Times, Ko Ju-chun, a legislator from the opposition Kuomintang, cited the JoongAng Ilbo report and asked the Ministry of Culture to “assess the impact of such transactions on the publishing industry.”"
               },
               {
                 "t": "p",
-                "x": "The new ‘Picks Agent’ extends the recommendation method to conversation. It recommends books based not only on readers' tastes but also on topics and titles curated by Kyobo Book Centre's MD team, and it also suggests a reading order that takes the reading context into account."
+                "x": "Minister Li replied that “the Ministry of Culture has already submitted written opinions to the relevant ministries,” adding, “We will submit opinions on related legal amendments within a week, and within a month we will prepare a review of the feasibility of building a platform (to broker licenses for AI training data).” The platform, which the Taiwan Creative Content Agency and others are pushing to build, would let AI companies willing to pay training fees and publishers and creators willing to license their works deal with each other formally."
               },
               {
                 "t": "p",
-                "x": "Readers' opinions were reflected in planning the service. In a survey of members conducted in January, 55% of respondents said the moment they hesitate most when choosing a book is when they cannot be sure it matches their taste. ‘Taste-based recommendations from analysis of reading data’ was chosen as the most preferred AI recommendation method."
-              },
-              {
-                "t": "p",
-                "x": "The service is available by logging in to the Kyobo Book Centre website and tapping the Picks Agent icon next to the search bar."
-              },
-              {
-                "t": "p",
-                "x": "On the launch event page, readers can see the questions authors put to ‘Picks Agent’, the recommended books and the reasons for each pick, and look at how questions are asked and how recommendations are made. A launch comment event is also being held."
+                "x": "The Taiwanese government is also running a pilot project to digitize publications and other language materials so they can be used more easily for AI training, and to pay copyright holders fair compensation. According to a report on the 9th by Taiwanese weekly Mirror Media, ruling-party legislator Chen Pei-yu said that “the government recently began inter-ministry consultations and is planning a ‘Traditional Language Materials Digitization Leading Plan.’” ‘Traditional language materials’ refers to publications and other materials produced in the past."
               }
             ]
           }
         },
         "ja": {
-          "headline": "教保文庫、対話型\nAI書籍推薦を開始",
-          "body": "教保文庫が、会話で好みを尋ねて本を選ぶ「Picks エージェント」を公開した。",
-          "mini_headline": "教保文庫のAI書籍推薦",
+          "headline": "Anthropic、台湾で\n書籍563トン購入に波紋",
+          "body": "Anthropicの台湾書籍563トン購入で、台湾議員が出版業界への影響把握を求めた。",
+          "mini_headline": "台湾書籍563トン購入",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.readersnews.com/news/photo/202611/200863_91283_2625.jpg",
-                "cap": "[写真=教保文庫]"
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202611/13/860cbb8e-408f-4290-a5e6-c9019810bb45.jpg",
+                "cap": "[Shutterstock]"
               },
               {
                 "t": "p",
-                "x": "教保文庫が対話型AI書籍推薦サービス「Picks エージェント」を公開した。"
+                "x": "欧州や韓国、日本などに続き、台湾でも人工知能（AI）企業による書籍の大量購入が議論を呼んでいる。AI企業Anthropicが台湾の書籍流通会社・聯合発行（UDC）から2024年11月から今年9月までに計563.143トン（t）の書籍を購入していたことは、先月18日の中央日報の報道で初めて明らかになった。台湾最大の新聞である自由時報がこれを引用して報じたことで、議論は政界に広がっている。"
               },
               {
                 "t": "p",
-                "x": "「Picks」は個人の好みや関心を反映して本を推薦するパーソナライズサービスだ。3月には大規模言語モデル（LLM）を導入し、サービスを高度化した。"
+                "x": "4日、李遠・台湾文化部長が出席した台湾議会（立法院）の教育文化委員会では、AI企業による中国語書籍の大量購入が主要議題として取り上げられた。自由時報によると、野党・国民党の葛如鈞議員は中央日報の報道に触れ、文化部に対し「こうした取引が出版産業に与える影響を把握すべきだ」と求めた。"
               },
               {
                 "t": "p",
-                "x": "新たに登場した「Picks エージェント」は、推薦方式を対話型に広げた。読者の好みだけでなく、教保文庫のMDがキュレーションしたテーマと書籍をもとに本を推薦し、読書の文脈を踏まえて読む順番も示す。"
+                "x": "これに対し李部長は「文化部はすでに関係省庁に書面で意見を提出した」とし、「一週間以内に関連法改正に関する意見を提出し、一か月以内に（AI学習データの利用許諾を仲介する）プラットフォーム構築の妥当性に関する検討資料をまとめる」と述べた。台湾文化内容策進院などが構築を進めるプラットフォームで、学習利用料を支払う意思のあるAI企業と、著作物の利用を許諾したい出版社・クリエイターが正式に取引できるようにするものだ。"
               },
               {
                 "t": "p",
-                "x": "サービスの企画には読者の声が反映された。1月に会員を対象に実施したアンケートでは、回答者の55%が、本を選ぶ際に最も迷う瞬間として、自分の好みに合う本か確信を持てない時を挙げた。最も好まれるAI推薦方式には「読書データを分析した好み別の推薦」が選ばれた。"
-              },
-              {
-                "t": "p",
-                "x": "このサービスは、教保文庫のウェブサイトにログインし、検索窓の横にあるPicks エージェントのアイコンを押すと利用できる。"
-              },
-              {
-                "t": "p",
-                "x": "公開記念イベントページでは、作家たちが「Picks エージェント」に投げかけた質問と推薦図書、選定理由を確認でき、質問の仕方や推薦の過程などを見ることができる。公開記念のコメントイベントも行われる。"
+                "x": "台湾政府は、出版物などさまざまな言語資料をAI学習に使いやすいようデジタル化し、著作権者に正当な対価を支払うパイロット事業も進めている。9日の台湾の週刊誌・鏡週刊の報道によると、与党の陳培瑜議員は「政府は最近、省庁間協議を始め、『伝統言語資料デジタル化先導計画』を構想している」と明らかにした。「伝統言語資料」とは、既存の出版物などの資料を指す。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "教保文库推出\n对话式AI荐书服务",
-          "body": "教保文库推出“Picks 智能体”，通过对话了解读者喜好并为其选书。",
-          "mini_headline": "教保文库AI荐书",
+          "headline": "Anthropic在台湾\n购书563吨引发争议",
+          "body": "Anthropic在台湾购入563吨图书，台湾议员要求评估其对出版业的影响。",
+          "mini_headline": "购入台湾图书563吨",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.readersnews.com/news/photo/202611/200863_91283_2625.jpg",
-                "cap": "[图片=教保文库]"
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202611/13/860cbb8e-408f-4290-a5e6-c9019810bb45.jpg",
+                "cap": "[Shutterstock]"
               },
               {
                 "t": "p",
-                "x": "教保文库推出对话式AI图书推荐服务“Picks 智能体”。"
+                "x": "继欧洲、韩国、日本等地之后，人工智能（AI）企业大量收购图书的做法在台湾也引发争议。AI企业Anthropic于2024年11月至今年9月间从台湾图书经销商联合发行（UDC）共购入563.143吨（t）图书一事，最早由《中央日报》于上月18日报道披露。台湾最大报纸《自由时报》引述该报道后，争议正蔓延至政界。"
               },
               {
                 "t": "p",
-                "x": "“Picks”是一项根据个人喜好和兴趣推荐图书的个性化服务。该服务曾于3月引入大语言模型（LLM），完成了升级。"
+                "x": "4日，在台湾文化部长李远列席的台湾议会（立法院）教育及文化委员会上，AI企业大量收购中文图书成为主要议题。据《自由时报》报道，在野党国民党籍议员葛如钧援引《中央日报》的报道，要求文化部“应掌握此类交易对出版产业的影响”。"
               },
               {
                 "t": "p",
-                "x": "此次新推出的“Picks 智能体”将推荐方式扩展为对话形式。它不仅根据读者喜好，还会依据教保文库MD策划的主题和图书进行推荐，并结合阅读脉络告知阅读顺序。"
+                "x": "对此，李部长表示“文化部已向相关部门提交书面意见”，并称“将在一周内就相关法律修订提交意见，并在一个月内就（AI训练资料授权中介）平台建设的可行性准备评估资料”。该平台由台湾文化内容策进院等机构推动建设，旨在让愿意支付训练使用费的AI企业与愿意授权作品使用的出版社和创作者能够正式进行交易。"
               },
               {
                 "t": "p",
-                "x": "服务策划吸收了读者的意见。在1月面向会员开展的问卷调查中，55%的受访者表示，选书时最犹豫的时刻是无法确定一本书是否符合自己的喜好。最受欢迎的AI推荐方式是“分析阅读数据的个性化推荐”。"
-              },
-              {
-                "t": "p",
-                "x": "用户登录教保文库网站后，点击搜索栏旁的Picks 智能体图标即可使用该服务。"
-              },
-              {
-                "t": "p",
-                "x": "在上线纪念活动页面上，可以查看作家们向“Picks 智能体”提出的问题、推荐图书及推荐理由，并了解提问方式和推荐过程。上线纪念评论活动也同步进行。"
+                "x": "台湾政府还在推进试点项目，将出版物等各类语言资料数字化以便用于AI训练，并向著作权人支付合理报酬。据台湾周刊《镜周刊》9日报道，执政党议员陈培瑜表示：“政府近期已启动跨部门协商，正在构思‘传统语言资料数字化先导计划’。”‘传统语言资料’指过去已生产的出版物等资料。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Kyobo Book Centre lanza\nrecomendación de libros con AI",
-          "body": "Kyobo Book Centre abrió 'Picks Agent', que pregunta por los gustos del lector en una conversación y elige libros.",
-          "mini_headline": "Recomendación AI de Kyobo",
+          "headline": "Polémica por las 563 toneladas\nde libros de Anthropic en Taiwán",
+          "body": "Un legislador taiwanés pidió evaluar cómo afecta a la edición la compra de 563 toneladas de libros por Anthropic.",
+          "mini_headline": "563 toneladas de libros",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.readersnews.com/news/photo/202611/200863_91283_2625.jpg",
-                "cap": "[Foto=Kyobo Book Centre]"
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202611/13/860cbb8e-408f-4290-a5e6-c9019810bb45.jpg",
+                "cap": "[Shutterstock]"
               },
               {
                 "t": "p",
-                "x": "Kyobo Book Centre ha lanzado ‘Picks Agent’, un servicio conversacional de recomendación de libros con AI."
+                "x": "Después de Europa, Corea y Japón, entre otros, la compra masiva de libros por empresas de inteligencia artificial (AI) también genera polémica en Taiwán. Un reportaje del JoongAng Ilbo del día 18 del mes pasado reveló por primera vez que la empresa de AI Anthropic compró un total de 563.143 toneladas (t) de libros a la distribuidora taiwanesa United Distribution (UDC) entre noviembre de 2024 y septiembre de este año. La polémica se extiende a la política después de que el Liberty Times, el mayor diario de Taiwán, citara el reportaje."
               },
               {
                 "t": "p",
-                "x": "‘Picks’ es un servicio personalizado que recomienda libros según los gustos e intereses de cada persona. En marzo, el servicio se mejoró con un modelo de lenguaje de gran tamaño (LLM)."
+                "x": "El día 4, la compra masiva de libros en chino por empresas de AI fue un tema principal en la Comisión de Educación y Cultura del parlamento taiwanés (Yuan Legislativo), a la que asistió el ministro de Cultura de Taiwán, Li Yuan. Según el Liberty Times, el legislador Ko Ju-chun, del opositor Kuomintang, mencionó el reportaje del JoongAng Ilbo y pidió al Ministerio de Cultura “evaluar el impacto de estas transacciones en la industria editorial”."
               },
               {
                 "t": "p",
-                "x": "El nuevo ‘Picks Agent’ amplía la recomendación a un formato conversacional. Además de los gustos del lector, recomienda libros a partir de temas y títulos seleccionados por el equipo MD de Kyobo Book Centre, y también sugiere un orden de lectura según el contexto de lectura."
+                "x": "El ministro Li respondió que “el Ministerio de Cultura ya ha presentado opiniones por escrito a los ministerios competentes” y añadió: “En el plazo de una semana presentaremos opiniones sobre la reforma de las leyes pertinentes y, en el plazo de un mes, prepararemos un estudio sobre la viabilidad de crear una plataforma (de intermediación de licencias de datos de entrenamiento de AI)”. La plataforma, que impulsan la Agencia de Contenidos Creativos de Taiwán y otras entidades, permitiría que las empresas de AI dispuestas a pagar por el entrenamiento y las editoriales y creadores dispuestos a autorizar el uso de sus obras negocien de manera formal."
               },
               {
                 "t": "p",
-                "x": "La planificación del servicio recogió la opinión de los lectores. En una encuesta a socios realizada en enero, el 55% de los encuestados señaló como el momento de mayor duda al elegir un libro no estar seguro de si se ajusta a sus gustos. Como método de recomendación AI preferido se eligió la ‘recomendación según gustos basada en el análisis de datos de lectura’."
-              },
-              {
-                "t": "p",
-                "x": "El servicio puede usarse iniciando sesión en el sitio web de Kyobo Book Centre y pulsando el icono de Picks Agent junto a la barra de búsqueda."
-              },
-              {
-                "t": "p",
-                "x": "En la página del evento de lanzamiento se pueden consultar las preguntas que los autores hicieron a ‘Picks Agent’, los libros recomendados y los motivos de la selección, así como la forma de preguntar y el proceso de recomendación. También se celebra un evento de comentarios por el lanzamiento."
+                "x": "El gobierno taiwanés también desarrolla un proyecto piloto para digitalizar publicaciones y otros materiales lingüísticos a fin de facilitar el entrenamiento de AI y pagar una compensación justa a los titulares de derechos. Según informó el día 9 el semanario taiwanés Mirror Media, la legisladora del partido gobernante Chen Pei-yu afirmó que “el gobierno ha iniciado recientemente consultas interministeriales y está diseñando un ‘Plan Piloto de Digitalización de Materiales Lingüísticos Tradicionales’”. Los ‘materiales lingüísticos tradicionales’ son publicaciones y otros materiales ya producidos."
               }
             ]
           }
@@ -247,157 +199,125 @@
       },
       "_i18n_passed": {
         "en": {
-          "headline": "Kyobo Book Centre Opens\nConversational AI Book Picks",
-          "body": "Kyobo Book Centre opened 'Picks Agent', which asks readers about their tastes in conversation and chooses books.",
-          "mini_headline": "Kyobo AI Book Picks",
+          "headline": "Anthropic's 563 tons of\nTaiwan books spark debate",
+          "body": "A Taiwanese lawmaker urged a review of how Anthropic's purchase of 563 tons of Taiwanese books affects publishing.",
+          "mini_headline": "563 tons of Taiwan books",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.readersnews.com/news/photo/202611/200863_91283_2625.jpg",
-                "cap": "[Photo=Kyobo Book Centre]"
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202611/13/860cbb8e-408f-4290-a5e6-c9019810bb45.jpg",
+                "cap": "[Shutterstock]"
               },
               {
                 "t": "p",
-                "x": "Kyobo Book Centre has opened ‘Picks Agent’, a conversational AI book recommendation service."
+                "x": "Following Europe, Korea and Japan, bulk book purchases by artificial intelligence (AI) companies have become controversial in Taiwan as well. A JoongAng Ilbo report on the 18th of last month first revealed that AI company Anthropic bought a total of 563.143 tons (t) of books from Taiwanese book distributor United Distribution (UDC) between November 2024 and September this year. The controversy is spreading into politics after Taiwan's largest newspaper, the Liberty Times, cited the report."
               },
               {
                 "t": "p",
-                "x": "‘Picks’ is a personalized service that recommends books based on individual tastes and interests. In March, the service was upgraded with a large language model (LLM)."
+                "x": "On the 4th, bulk purchases of Chinese-language books by AI companies were a main agenda item at the Education and Culture Committee of Taiwan's legislature (Legislative Yuan), attended by Taiwan's Minister of Culture Li Yuan. According to the Liberty Times, Ko Ju-chun, a legislator from the opposition Kuomintang, cited the JoongAng Ilbo report and asked the Ministry of Culture to “assess the impact of such transactions on the publishing industry.”"
               },
               {
                 "t": "p",
-                "x": "The new ‘Picks Agent’ extends the recommendation method to conversation. It recommends books based not only on readers' tastes but also on topics and titles curated by Kyobo Book Centre's MD team, and it also suggests a reading order that takes the reading context into account."
+                "x": "Minister Li replied that “the Ministry of Culture has already submitted written opinions to the relevant ministries,” adding, “We will submit opinions on related legal amendments within a week, and within a month we will prepare a review of the feasibility of building a platform (to broker licenses for AI training data).” The platform, which the Taiwan Creative Content Agency and others are pushing to build, would let AI companies willing to pay training fees and publishers and creators willing to license their works deal with each other formally."
               },
               {
                 "t": "p",
-                "x": "Readers' opinions were reflected in planning the service. In a survey of members conducted in January, 55% of respondents said the moment they hesitate most when choosing a book is when they cannot be sure it matches their taste. ‘Taste-based recommendations from analysis of reading data’ was chosen as the most preferred AI recommendation method."
-              },
-              {
-                "t": "p",
-                "x": "The service is available by logging in to the Kyobo Book Centre website and tapping the Picks Agent icon next to the search bar."
-              },
-              {
-                "t": "p",
-                "x": "On the launch event page, readers can see the questions authors put to ‘Picks Agent’, the recommended books and the reasons for each pick, and look at how questions are asked and how recommendations are made. A launch comment event is also being held."
+                "x": "The Taiwanese government is also running a pilot project to digitize publications and other language materials so they can be used more easily for AI training, and to pay copyright holders fair compensation. According to a report on the 9th by Taiwanese weekly Mirror Media, ruling-party legislator Chen Pei-yu said that “the government recently began inter-ministry consultations and is planning a ‘Traditional Language Materials Digitization Leading Plan.’” ‘Traditional language materials’ refers to publications and other materials produced in the past."
               }
             ]
           }
         },
         "ja": {
-          "headline": "教保文庫、対話型\nAI書籍推薦を開始",
-          "body": "教保文庫が、会話で好みを尋ねて本を選ぶ「Picks エージェント」を公開した。",
-          "mini_headline": "教保文庫のAI書籍推薦",
+          "headline": "Anthropic、台湾で\n書籍563トン購入に波紋",
+          "body": "Anthropicの台湾書籍563トン購入で、台湾議員が出版業界への影響把握を求めた。",
+          "mini_headline": "台湾書籍563トン購入",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.readersnews.com/news/photo/202611/200863_91283_2625.jpg",
-                "cap": "[写真=教保文庫]"
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202611/13/860cbb8e-408f-4290-a5e6-c9019810bb45.jpg",
+                "cap": "[Shutterstock]"
               },
               {
                 "t": "p",
-                "x": "教保文庫が対話型AI書籍推薦サービス「Picks エージェント」を公開した。"
+                "x": "欧州や韓国、日本などに続き、台湾でも人工知能（AI）企業による書籍の大量購入が議論を呼んでいる。AI企業Anthropicが台湾の書籍流通会社・聯合発行（UDC）から2024年11月から今年9月までに計563.143トン（t）の書籍を購入していたことは、先月18日の中央日報の報道で初めて明らかになった。台湾最大の新聞である自由時報がこれを引用して報じたことで、議論は政界に広がっている。"
               },
               {
                 "t": "p",
-                "x": "「Picks」は個人の好みや関心を反映して本を推薦するパーソナライズサービスだ。3月には大規模言語モデル（LLM）を導入し、サービスを高度化した。"
+                "x": "4日、李遠・台湾文化部長が出席した台湾議会（立法院）の教育文化委員会では、AI企業による中国語書籍の大量購入が主要議題として取り上げられた。自由時報によると、野党・国民党の葛如鈞議員は中央日報の報道に触れ、文化部に対し「こうした取引が出版産業に与える影響を把握すべきだ」と求めた。"
               },
               {
                 "t": "p",
-                "x": "新たに登場した「Picks エージェント」は、推薦方式を対話型に広げた。読者の好みだけでなく、教保文庫のMDがキュレーションしたテーマと書籍をもとに本を推薦し、読書の文脈を踏まえて読む順番も示す。"
+                "x": "これに対し李部長は「文化部はすでに関係省庁に書面で意見を提出した」とし、「一週間以内に関連法改正に関する意見を提出し、一か月以内に（AI学習データの利用許諾を仲介する）プラットフォーム構築の妥当性に関する検討資料をまとめる」と述べた。台湾文化内容策進院などが構築を進めるプラットフォームで、学習利用料を支払う意思のあるAI企業と、著作物の利用を許諾したい出版社・クリエイターが正式に取引できるようにするものだ。"
               },
               {
                 "t": "p",
-                "x": "サービスの企画には読者の声が反映された。1月に会員を対象に実施したアンケートでは、回答者の55%が、本を選ぶ際に最も迷う瞬間として、自分の好みに合う本か確信を持てない時を挙げた。最も好まれるAI推薦方式には「読書データを分析した好み別の推薦」が選ばれた。"
-              },
-              {
-                "t": "p",
-                "x": "このサービスは、教保文庫のウェブサイトにログインし、検索窓の横にあるPicks エージェントのアイコンを押すと利用できる。"
-              },
-              {
-                "t": "p",
-                "x": "公開記念イベントページでは、作家たちが「Picks エージェント」に投げかけた質問と推薦図書、選定理由を確認でき、質問の仕方や推薦の過程などを見ることができる。公開記念のコメントイベントも行われる。"
+                "x": "台湾政府は、出版物などさまざまな言語資料をAI学習に使いやすいようデジタル化し、著作権者に正当な対価を支払うパイロット事業も進めている。9日の台湾の週刊誌・鏡週刊の報道によると、与党の陳培瑜議員は「政府は最近、省庁間協議を始め、『伝統言語資料デジタル化先導計画』を構想している」と明らかにした。「伝統言語資料」とは、既存の出版物などの資料を指す。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "教保文库推出\n对话式AI荐书服务",
-          "body": "教保文库推出“Picks 智能体”，通过对话了解读者喜好并为其选书。",
-          "mini_headline": "教保文库AI荐书",
+          "headline": "Anthropic在台湾\n购书563吨引发争议",
+          "body": "Anthropic在台湾购入563吨图书，台湾议员要求评估其对出版业的影响。",
+          "mini_headline": "购入台湾图书563吨",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.readersnews.com/news/photo/202611/200863_91283_2625.jpg",
-                "cap": "[图片=教保文库]"
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202611/13/860cbb8e-408f-4290-a5e6-c9019810bb45.jpg",
+                "cap": "[Shutterstock]"
               },
               {
                 "t": "p",
-                "x": "教保文库推出对话式AI图书推荐服务“Picks 智能体”。"
+                "x": "继欧洲、韩国、日本等地之后，人工智能（AI）企业大量收购图书的做法在台湾也引发争议。AI企业Anthropic于2024年11月至今年9月间从台湾图书经销商联合发行（UDC）共购入563.143吨（t）图书一事，最早由《中央日报》于上月18日报道披露。台湾最大报纸《自由时报》引述该报道后，争议正蔓延至政界。"
               },
               {
                 "t": "p",
-                "x": "“Picks”是一项根据个人喜好和兴趣推荐图书的个性化服务。该服务曾于3月引入大语言模型（LLM），完成了升级。"
+                "x": "4日，在台湾文化部长李远列席的台湾议会（立法院）教育及文化委员会上，AI企业大量收购中文图书成为主要议题。据《自由时报》报道，在野党国民党籍议员葛如钧援引《中央日报》的报道，要求文化部“应掌握此类交易对出版产业的影响”。"
               },
               {
                 "t": "p",
-                "x": "此次新推出的“Picks 智能体”将推荐方式扩展为对话形式。它不仅根据读者喜好，还会依据教保文库MD策划的主题和图书进行推荐，并结合阅读脉络告知阅读顺序。"
+                "x": "对此，李部长表示“文化部已向相关部门提交书面意见”，并称“将在一周内就相关法律修订提交意见，并在一个月内就（AI训练资料授权中介）平台建设的可行性准备评估资料”。该平台由台湾文化内容策进院等机构推动建设，旨在让愿意支付训练使用费的AI企业与愿意授权作品使用的出版社和创作者能够正式进行交易。"
               },
               {
                 "t": "p",
-                "x": "服务策划吸收了读者的意见。在1月面向会员开展的问卷调查中，55%的受访者表示，选书时最犹豫的时刻是无法确定一本书是否符合自己的喜好。最受欢迎的AI推荐方式是“分析阅读数据的个性化推荐”。"
-              },
-              {
-                "t": "p",
-                "x": "用户登录教保文库网站后，点击搜索栏旁的Picks 智能体图标即可使用该服务。"
-              },
-              {
-                "t": "p",
-                "x": "在上线纪念活动页面上，可以查看作家们向“Picks 智能体”提出的问题、推荐图书及推荐理由，并了解提问方式和推荐过程。上线纪念评论活动也同步进行。"
+                "x": "台湾政府还在推进试点项目，将出版物等各类语言资料数字化以便用于AI训练，并向著作权人支付合理报酬。据台湾周刊《镜周刊》9日报道，执政党议员陈培瑜表示：“政府近期已启动跨部门协商，正在构思‘传统语言资料数字化先导计划’。”‘传统语言资料’指过去已生产的出版物等资料。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Kyobo Book Centre lanza\nrecomendación de libros con AI",
-          "body": "Kyobo Book Centre abrió 'Picks Agent', que pregunta por los gustos del lector en una conversación y elige libros.",
-          "mini_headline": "Recomendación AI de Kyobo",
+          "headline": "Polémica por las 563 toneladas\nde libros de Anthropic en Taiwán",
+          "body": "Un legislador taiwanés pidió evaluar cómo afecta a la edición la compra de 563 toneladas de libros por Anthropic.",
+          "mini_headline": "563 toneladas de libros",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.readersnews.com/news/photo/202611/200863_91283_2625.jpg",
-                "cap": "[Foto=Kyobo Book Centre]"
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202611/13/860cbb8e-408f-4290-a5e6-c9019810bb45.jpg",
+                "cap": "[Shutterstock]"
               },
               {
                 "t": "p",
-                "x": "Kyobo Book Centre ha lanzado ‘Picks Agent’, un servicio conversacional de recomendación de libros con AI."
+                "x": "Después de Europa, Corea y Japón, entre otros, la compra masiva de libros por empresas de inteligencia artificial (AI) también genera polémica en Taiwán. Un reportaje del JoongAng Ilbo del día 18 del mes pasado reveló por primera vez que la empresa de AI Anthropic compró un total de 563.143 toneladas (t) de libros a la distribuidora taiwanesa United Distribution (UDC) entre noviembre de 2024 y septiembre de este año. La polémica se extiende a la política después de que el Liberty Times, el mayor diario de Taiwán, citara el reportaje."
               },
               {
                 "t": "p",
-                "x": "‘Picks’ es un servicio personalizado que recomienda libros según los gustos e intereses de cada persona. En marzo, el servicio se mejoró con un modelo de lenguaje de gran tamaño (LLM)."
+                "x": "El día 4, la compra masiva de libros en chino por empresas de AI fue un tema principal en la Comisión de Educación y Cultura del parlamento taiwanés (Yuan Legislativo), a la que asistió el ministro de Cultura de Taiwán, Li Yuan. Según el Liberty Times, el legislador Ko Ju-chun, del opositor Kuomintang, mencionó el reportaje del JoongAng Ilbo y pidió al Ministerio de Cultura “evaluar el impacto de estas transacciones en la industria editorial”."
               },
               {
                 "t": "p",
-                "x": "El nuevo ‘Picks Agent’ amplía la recomendación a un formato conversacional. Además de los gustos del lector, recomienda libros a partir de temas y títulos seleccionados por el equipo MD de Kyobo Book Centre, y también sugiere un orden de lectura según el contexto de lectura."
+                "x": "El ministro Li respondió que “el Ministerio de Cultura ya ha presentado opiniones por escrito a los ministerios competentes” y añadió: “En el plazo de una semana presentaremos opiniones sobre la reforma de las leyes pertinentes y, en el plazo de un mes, prepararemos un estudio sobre la viabilidad de crear una plataforma (de intermediación de licencias de datos de entrenamiento de AI)”. La plataforma, que impulsan la Agencia de Contenidos Creativos de Taiwán y otras entidades, permitiría que las empresas de AI dispuestas a pagar por el entrenamiento y las editoriales y creadores dispuestos a autorizar el uso de sus obras negocien de manera formal."
               },
               {
                 "t": "p",
-                "x": "La planificación del servicio recogió la opinión de los lectores. En una encuesta a socios realizada en enero, el 55% de los encuestados señaló como el momento de mayor duda al elegir un libro no estar seguro de si se ajusta a sus gustos. Como método de recomendación AI preferido se eligió la ‘recomendación según gustos basada en el análisis de datos de lectura’."
-              },
-              {
-                "t": "p",
-                "x": "El servicio puede usarse iniciando sesión en el sitio web de Kyobo Book Centre y pulsando el icono de Picks Agent junto a la barra de búsqueda."
-              },
-              {
-                "t": "p",
-                "x": "En la página del evento de lanzamiento se pueden consultar las preguntas que los autores hicieron a ‘Picks Agent’, los libros recomendados y los motivos de la selección, así como la forma de preguntar y el proceso de recomendación. También se celebra un evento de comentarios por el lanzamiento."
+                "x": "El gobierno taiwanés también desarrolla un proyecto piloto para digitalizar publicaciones y otros materiales lingüísticos a fin de facilitar el entrenamiento de AI y pagar una compensación justa a los titulares de derechos. Según informó el día 9 el semanario taiwanés Mirror Media, la legisladora del partido gobernante Chen Pei-yu afirmó que “el gobierno ha iniciado recientemente consultas interministeriales y está diseñando un ‘Plan Piloto de Digitalización de Materiales Lingüísticos Tradicionales’”. Los ‘materiales lingüísticos tradicionales’ son publicaciones y otros materiales ya producidos."
               }
             ]
           }
@@ -405,243 +325,93 @@
       }
     },
     {
-      "id": "books-manga-localizer-mt",
+      "id": "books-tawhia-cla-prompts",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "출판사, AI로 만화\n현지화 인력 건너뛴다",
-      "body": "일본 출판사가 기계번역으로 돌아서자 ANN이 만화 현지화 인력의 생계를 짚었다.",
-      "mini_headline": "외면받는 만화 현지화 인력",
+      "headline": "NZ·UK 저작권 라이선스\nAI 프롬프트까지 허용",
+      "body": "Tāwhia와 UK의 CLA가 라이선스 콘텐츠를 AI 프롬프트에 쓰기로 합의했다.",
+      "mini_headline": "라이선스, AI 프롬프트까지",
       "tool": "Books",
-      "source": "Anime News Network",
-      "url": "https://www.animenewsnetwork.com/feature/2026-11-13/manga-backbone-is-breaking/.242228",
+      "source": "Books+Publishing",
+      "url": "https://www.booksandpublishing.com.au/articles/2026/11/12/344391/copyright-agreements-allow-use-of-content-for-ai-prompts/",
       "accent": "#0070f3",
       "motif": "swatch",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://www.animenewsnetwork.com/thumbnails/crop600x315gV5/cms/feature/242228/colorchange.png.jpg"
-          },
-          {
             "t": "p",
-            "x": "2026년 8월 20일 American Manga Awards에서 베테랑 번역가 Jan Mitsuko Cash는 Yuzuko Hoshimi의 MAGICA로 Best Translation 상을 받은 뒤 객석에 앉은 출판사들을 향해 “번역료를 두 배로 올려 주세요”라고 호소했다. 그는 작업량이 많은 프리랜서들이 “주 80시간을 일하고, 건강보험도 퇴직연금도 없으며” “근근이 월급으로 버티며 산다”고 말했다."
-          },
-          {
-            "t": "video",
-            "yt": "IRsIGKlp9V0"
-          },
-          {
-            "t": "p",
-            "x": "라이트노벨 편집자이자 교정자인 필자는 번역·편집·교정·레터링 분야 종사자 25명 이상을 만났다. 그중 절반가량은 익명을 조건으로만 응했다. Cash에 따르면 주 90시간, 100시간을 일한 동료도 있었다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.animenewsnetwork.com/thumbnails/max600x600/cms/feature/242228/online-translator-languages-learning-course-depositphotos-213018204-s.jpg",
-            "cap": "이미지 출처: depositphotos.com"
-          },
-          {
-            "t": "p",
-            "x": "일본 출판사 상당수는 서구 현지화 전문가와 협의하는 과정을 아예 건너뛰려고 기계번역과 다른 AI 도구로 눈을 돌리기 시작했다. Media-Do의 Seven Seas 인수, Shueisha의 Manga Millions 프로젝트에서 제기된 기계번역 사용 의혹, Orange Inc. 같은 AI 번역 회사의 부상이 그 배경이다. 번역가들은 기계번역을 다듬는 일이 헛수고라고 말한다. 처음부터 다시 번역해야 하는 경우가 많고, 그 몫의 보수조차 받지 못하는 이도 있다."
-          },
-          {
-            "t": "p",
-            "x": "일본 출판사와 정치인들은 AI가 빠른 공식 번역으로 스캔레이션을 억제할 수 있다고 말한다. 인터뷰에 응한 이들은 모두 이 말에 웃음을 터뜨렸고, 독자는 품질 낮은 작업에 돈을 내지 않는다고 했다. 가장 자주 들은 말은 “번역료를 두 배로”였다. Viz Media, Yen Press, Kodansha USA, Seven Seas, Denpa는 마감까지 답하지 않았고, Square Enix Books는 “노코멘트”라고 밝혔다."
+            "x": "뉴질랜드(Aotearoa New Zealand)의 저작권 단체 Tāwhia Copyright Aotearoa(옛 Copyright Licensing New Zealand)가 영국(UK)의 Copyright Licensing Agency와 양자 협정을 맺었다. 이제 라이선스를 받은 콘텐츠를 AI 프롬프트에도 쓸 수 있다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Publishers Bypass Manga\nLocalizers With AI",
-          "body": "ANN asks whether manga localizers can still make a living as Japanese publishers turn to machine translation.",
-          "mini_headline": "Manga Localizers Bypassed",
+          "headline": "NZ and UK licences now\ncover AI prompts",
+          "body": "Tāwhia Copyright Aotearoa and the UK's CLA signed a bilateral deal letting licensed content be used in AI prompts.",
+          "mini_headline": "Licences cover AI prompts",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.animenewsnetwork.com/thumbnails/crop600x315gV5/cms/feature/242228/colorchange.png.jpg"
-              },
-              {
                 "t": "p",
-                "x": "On August 20, 2026, at the American Manga Awards, veteran translator Jan Mitsuko Cash won Best Translation for Yuzuko Hoshimi's MAGICA and called on publishers in the audience: “Please double your rates.” She said prolific freelancers “work 80-hour weeks, have no health insurance or retirement” and “live paycheck-to-paycheck.”"
-              },
-              {
-                "t": "video",
-                "yt": "IRsIGKlp9V0"
-              },
-              {
-                "t": "p",
-                "x": "The writer, a light novel editor and proofreader, spoke with over 25 industry talents across translation, editing, proofreading and lettering; roughly half agreed to speak only on condition of anonymity. Cash said some colleagues have had 90- and 100-hour work weeks."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.animenewsnetwork.com/thumbnails/max600x600/cms/feature/242228/online-translator-languages-learning-course-depositphotos-213018204-s.jpg",
-                "cap": "Image via depositphotos.com"
-              },
-              {
-                "t": "p",
-                "x": "Many Japanese publishers have started turning to machine translation and other AI tools to cut out the conversation with Western localization professionals entirely, amid Media-Do's purchase of Seven Seas, the alleged use of machine translations in Shueisha's Manga Millions project, and the rise of AI translation companies like Orange Inc. Translators said cleaning up a machine translation is a fool's errand — the material often needs to be retranslated from scratch, and some won't be paid for it."
-              },
-              {
-                "t": "p",
-                "x": "Talk among Japanese publishers and politicians that AI could curb scanlations with quick official translations drew laughter from everyone interviewed, who said readers won't pay for poor-quality work. “Double your rates” was the phrase heard most often; Viz Media, Yen Press, Kodansha USA, Seven Seas and Denpa did not respond by deadline, and Square Enix Books said “no comment.”"
+                "x": "Aotearoa New Zealand copyright organisation Tāwhia Copyright Aotearoa, formerly known as Copyright Licensing New Zealand, has signed a bilateral agreement with the UK’s Copyright Licensing Agency under which licensed content can be used for AI prompts."
               }
             ]
           }
         },
         "ko": {
-          "headline": "출판사, AI로 만화\n현지화 인력 건너뛴다",
-          "body": "일본 출판사가 기계번역으로 돌아서자 ANN이 만화 현지화 인력의 생계를 짚었다.",
-          "mini_headline": "외면받는 만화 현지화 인력",
+          "headline": "NZ·UK 저작권 라이선스\nAI 프롬프트까지 허용",
+          "body": "Tāwhia와 UK의 CLA가 라이선스 콘텐츠를 AI 프롬프트에 쓰기로 합의했다.",
+          "mini_headline": "라이선스, AI 프롬프트까지",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.animenewsnetwork.com/thumbnails/crop600x315gV5/cms/feature/242228/colorchange.png.jpg"
-              },
-              {
                 "t": "p",
-                "x": "2026년 8월 20일 American Manga Awards에서 베테랑 번역가 Jan Mitsuko Cash는 Yuzuko Hoshimi의 MAGICA로 Best Translation 상을 받은 뒤 객석에 앉은 출판사들을 향해 “번역료를 두 배로 올려 주세요”라고 호소했다. 그는 작업량이 많은 프리랜서들이 “주 80시간을 일하고, 건강보험도 퇴직연금도 없으며” “근근이 월급으로 버티며 산다”고 말했다."
-              },
-              {
-                "t": "video",
-                "yt": "IRsIGKlp9V0"
-              },
-              {
-                "t": "p",
-                "x": "라이트노벨 편집자이자 교정자인 필자는 번역·편집·교정·레터링 분야 종사자 25명 이상을 만났다. 그중 절반가량은 익명을 조건으로만 응했다. Cash에 따르면 주 90시간, 100시간을 일한 동료도 있었다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.animenewsnetwork.com/thumbnails/max600x600/cms/feature/242228/online-translator-languages-learning-course-depositphotos-213018204-s.jpg",
-                "cap": "이미지 출처: depositphotos.com"
-              },
-              {
-                "t": "p",
-                "x": "일본 출판사 상당수는 서구 현지화 전문가와 협의하는 과정을 아예 건너뛰려고 기계번역과 다른 AI 도구로 눈을 돌리기 시작했다. Media-Do의 Seven Seas 인수, Shueisha의 Manga Millions 프로젝트에서 제기된 기계번역 사용 의혹, Orange Inc. 같은 AI 번역 회사의 부상이 그 배경이다. 번역가들은 기계번역을 다듬는 일이 헛수고라고 말한다. 처음부터 다시 번역해야 하는 경우가 많고, 그 몫의 보수조차 받지 못하는 이도 있다."
-              },
-              {
-                "t": "p",
-                "x": "일본 출판사와 정치인들은 AI가 빠른 공식 번역으로 스캔레이션을 억제할 수 있다고 말한다. 인터뷰에 응한 이들은 모두 이 말에 웃음을 터뜨렸고, 독자는 품질 낮은 작업에 돈을 내지 않는다고 했다. 가장 자주 들은 말은 “번역료를 두 배로”였다. Viz Media, Yen Press, Kodansha USA, Seven Seas, Denpa는 마감까지 답하지 않았고, Square Enix Books는 “노코멘트”라고 밝혔다."
+                "x": "뉴질랜드(Aotearoa New Zealand)의 저작권 단체 Tāwhia Copyright Aotearoa(옛 Copyright Licensing New Zealand)가 영국(UK)의 Copyright Licensing Agency와 양자 협정을 맺었다. 이제 라이선스를 받은 콘텐츠를 AI 프롬프트에도 쓸 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "出版社がAIで漫画\nローカライズ担当を回避",
-          "body": "日本の出版社が機械翻訳に傾くなか、ANNは漫画ローカライザーの生計を問う。",
-          "mini_headline": "素通りされる漫画ローカライザー",
+          "headline": "NZ・UKのライセンス\nAIプロンプトも対象に",
+          "body": "TāwhiaとUKのCLAが、許諾コンテンツをAIプロンプトに使える二国間協定を結んだ。",
+          "mini_headline": "許諾がAIプロンプトにも",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.animenewsnetwork.com/thumbnails/crop600x315gV5/cms/feature/242228/colorchange.png.jpg"
-              },
-              {
                 "t": "p",
-                "x": "2026年8月20日のAmerican Manga Awardsで、ベテラン翻訳者Jan Mitsuko CashはYuzuko HoshimiのMAGICAでBest Translationを受賞し、客席の出版社に「報酬を倍にしてください」と呼びかけた。多作なフリーランサーは「週80時間働き、健康保険も退職金もない」うえ「その日暮らし」だと語った。"
-              },
-              {
-                "t": "video",
-                "yt": "IRsIGKlp9V0"
-              },
-              {
-                "t": "p",
-                "x": "ライトノベルの編集者兼校正者である筆者は、翻訳・編集・校正・レタリングにわたる業界関係者25人以上に話を聞いた。約半数は匿名を条件に取材に応じた。Cashによると、週90時間、100時間働いた同僚もいるという。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.animenewsnetwork.com/thumbnails/max600x600/cms/feature/242228/online-translator-languages-learning-course-depositphotos-213018204-s.jpg",
-                "cap": "画像提供：depositphotos.com"
-              },
-              {
-                "t": "p",
-                "x": "多くの日本の出版社が、欧米のローカライズ専門家とのやり取りを完全に省くため、機械翻訳やその他のAIツールに頼り始めている。背景には、Media-DoによるSeven Seasの買収、ShueishaのManga Millionsプロジェクトで指摘された機械翻訳使用疑惑、Orange Inc.のようなAI翻訳企業の台頭がある。翻訳者らは、機械翻訳の手直しは徒労だと言う。一から訳し直す必要があることが多く、その分の報酬を受け取れない人もいる。"
-              },
-              {
-                "t": "p",
-                "x": "AIによる迅速な公式翻訳でスキャンレーションを抑えられるという日本の出版社や政治家の話には、取材した全員が笑い、読者は質の低い仕事にお金を払わないと述べた。最も多く聞かれたのは「報酬を倍に」という言葉だった。Viz Media、Yen Press、Kodansha USA、Seven Seas、Denpaは期限までに回答せず、Square Enix Booksは「ノーコメント」とした。"
+                "x": "ニュージーランド（Aotearoa New Zealand）の著作権団体Tāwhia Copyright Aotearoa（旧Copyright Licensing New Zealand）は、英国（UK）のCopyright Licensing Agencyと二国間協定を結んだ。これにより、許諾を受けたコンテンツをAIプロンプトに利用できる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "出版商借AI绕过\n漫画本地化译者",
-          "body": "日本出版商转向机器翻译之际，ANN追问漫画本地化译者能否维持生计。",
-          "mini_headline": "漫画本地化译者遭绕过",
+          "headline": "NZ与UK版权许可\n扩展至AI提示词",
+          "body": "Tāwhia与UK的CLA签署双边协议，允许授权内容用于AI提示词。",
+          "mini_headline": "授权覆盖AI提示词",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.animenewsnetwork.com/thumbnails/crop600x315gV5/cms/feature/242228/colorchange.png.jpg"
-              },
-              {
                 "t": "p",
-                "x": "2026年8月20日，在American Manga Awards上，资深译者Jan Mitsuko Cash凭借Yuzuko Hoshimi的MAGICA获得Best Translation奖，并向台下的出版商呼吁：“请把稿酬翻倍。”她表示，高产的自由译者“每周工作80小时，没有医疗保险，也没有退休保障”，“靠每月薪水勉强度日”。"
-              },
-              {
-                "t": "video",
-                "yt": "IRsIGKlp9V0"
-              },
-              {
-                "t": "p",
-                "x": "作者是一名轻小说编辑兼校对，采访了翻译、编辑、校对和嵌字领域的25位以上业内人士，其中约一半只同意匿名受访。Cash说，有些同事曾每周工作90小时、100小时。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.animenewsnetwork.com/thumbnails/max600x600/cms/feature/242228/online-translator-languages-learning-course-depositphotos-213018204-s.jpg",
-                "cap": "图片来源：depositphotos.com"
-              },
-              {
-                "t": "p",
-                "x": "在Media-Do收购Seven Seas、Shueisha的Manga Millions项目被指使用机器翻译、Orange Inc.等AI翻译公司兴起的背景下，许多日本出版商开始转向机器翻译和其他AI工具，彻底绕开与西方本地化专业人士的沟通。译者们表示，修改机器翻译是徒劳之举——素材往往需要从头重译，而且有些人拿不到这部分报酬。"
-              },
-              {
-                "t": "p",
-                "x": "日本出版商和政界人士称AI可以凭借快速的官方翻译遏制扫图翻译（scanlation），所有受访者听后都笑了，他们说读者不会为低质量的作品买单。最常听到的一句话是“稿酬翻倍”；Viz Media、Yen Press、Kodansha USA、Seven Seas和Denpa截至发稿未回应，Square Enix Books表示“不予置评”。"
+                "x": "新西兰（Aotearoa New Zealand）版权组织Tāwhia Copyright Aotearoa（前身为Copyright Licensing New Zealand）已与英国（UK）的Copyright Licensing Agency签署双边协议，根据该协议，获得授权的内容可用于AI提示词。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Las editoriales relegan con AI\na los localizadores de manga",
-          "body": "ANN pregunta si los localizadores de manga sobreviven ahora que editoriales japonesas usan traducción automática.",
-          "mini_headline": "Localizadores de manga relegados",
+          "headline": "Licencias de NZ y UK ya cubren\nlos prompts de AI",
+          "body": "Tāwhia Copyright Aotearoa y la CLA de UK firmaron un pacto bilateral para usar contenido licenciado en prompts de AI.",
+          "mini_headline": "Licencias para prompts de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.animenewsnetwork.com/thumbnails/crop600x315gV5/cms/feature/242228/colorchange.png.jpg"
-              },
-              {
                 "t": "p",
-                "x": "El 20 de agosto de 2026, en los American Manga Awards, la veterana traductora Jan Mitsuko Cash ganó el premio Best Translation por MAGICA, de Yuzuko Hoshimi, y pidió a las editoriales presentes: “Por favor, dupliquen sus tarifas”. Dijo que los freelancers más prolíficos “trabajan semanas de 80 horas, no tienen seguro médico ni jubilación” y “viven al día”."
-              },
-              {
-                "t": "video",
-                "yt": "IRsIGKlp9V0"
-              },
-              {
-                "t": "p",
-                "x": "Quien firma el artículo, editor y corrector de novelas ligeras, habló con más de 25 profesionales del sector de la traducción, la edición, la corrección y el rotulado; aproximadamente la mitad aceptó hablar solo bajo condición de anonimato. Cash dijo que algunos colegas han tenido semanas de 90 y 100 horas."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.animenewsnetwork.com/thumbnails/max600x600/cms/feature/242228/online-translator-languages-learning-course-depositphotos-213018204-s.jpg",
-                "cap": "Imagen vía depositphotos.com"
-              },
-              {
-                "t": "p",
-                "x": "Muchas editoriales japonesas han empezado a recurrir a la traducción automática y a otras herramientas de AI para prescindir por completo del diálogo con los profesionales de localización occidentales, en un contexto marcado por la compra de Seven Seas por parte de Media-Do, el presunto uso de traducción automática en el proyecto Manga Millions de Shueisha y el auge de empresas de traducción con AI como Orange Inc. Los traductores dijeron que corregir una traducción automática es una tarea inútil: a menudo hay que retraducir el material desde cero, y algunos no cobrarán por ello."
-              },
-              {
-                "t": "p",
-                "x": "La idea, comentada entre editoriales y políticos japoneses, de que la AI podría frenar las scanlations con traducciones oficiales rápidas provocó risas en todos los entrevistados, que dijeron que los lectores no pagarán por un trabajo de mala calidad. “Dupliquen sus tarifas” fue la frase más repetida; Viz Media, Yen Press, Kodansha USA, Seven Seas y Denpa no respondieron antes del cierre, y Square Enix Books dijo “sin comentarios”."
+                "x": "La organización de derechos de autor de Aotearoa New Zealand Tāwhia Copyright Aotearoa, antes conocida como Copyright Licensing New Zealand, firmó un acuerdo bilateral con la Copyright Licensing Agency del Reino Unido (UK) que permite usar contenido licenciado en prompts de AI."
               }
             ]
           }
@@ -649,157 +419,57 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "출판사, AI로 만화\n현지화 인력 건너뛴다",
-          "body": "ANN이 일본 출판사의 기계번역 전환 속 만화 현지화 인력의 생계를 묻는다.",
-          "mini_headline": "외면받는 만화 현지화 인력",
+          "headline": "NZ·UK 저작권 라이선스\nAI 프롬프트까지 허용",
+          "body": "Tāwhia와 UK의 CLA가 라이선스 콘텐츠의 AI 프롬프트 활용에 합의했다.",
+          "mini_headline": "라이선스, AI 프롬프트까지",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.animenewsnetwork.com/thumbnails/crop600x315gV5/cms/feature/242228/colorchange.png.jpg"
-              },
-              {
                 "t": "p",
-                "x": "2026년 8월 20일 American Manga Awards에서 베테랑 번역가 Jan Mitsuko Cash는 Yuzuko Hoshimi의 MAGICA로 Best Translation 상을 받은 뒤 객석의 출판사들에 “번역료를 두 배로 올려 주세요”라고 호소했다. 그는 작업량이 많은 프리랜서들이 “주 80시간을 일하고, 건강보험도 퇴직연금도 없으며” “근근이 월급으로 버티며 산다”고 말했다."
-              },
-              {
-                "t": "video",
-                "yt": "IRsIGKlp9V0"
-              },
-              {
-                "t": "p",
-                "x": "라이트노벨 편집자이자 교정자인 필자는 번역, 편집, 교정, 레터링 분야의 업계 종사자 25명 이상과 이야기를 나눴고, 그중 절반가량은 익명을 조건으로만 응했다. Cash는 일부 동료가 주 90시간, 100시간을 일한 적도 있다고 말했다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.animenewsnetwork.com/thumbnails/max600x600/cms/feature/242228/online-translator-languages-learning-course-depositphotos-213018204-s.jpg",
-                "cap": "이미지 출처: depositphotos.com"
-              },
-              {
-                "t": "p",
-                "x": "많은 일본 출판사가 서구 현지화 전문가와의 협의를 아예 건너뛰려고 기계번역과 기타 AI 도구로 눈을 돌리기 시작했다. Media-Do의 Seven Seas 인수, Shueisha의 Manga Millions 프로젝트에서 제기된 기계번역 사용 의혹, Orange Inc. 같은 AI 번역 회사의 부상이 그 배경이다. 번역가들은 기계번역을 다듬는 일이 헛수고라고 말한다. 처음부터 다시 번역해야 하는 경우가 많고, 그 작업에 대한 보수를 받지 못하는 이들도 있다."
-              },
-              {
-                "t": "p",
-                "x": "AI가 빠른 공식 번역으로 스캔레이션을 억제할 수 있다는 일본 출판사와 정치인들의 이야기에 인터뷰에 응한 모두가 웃음을 터뜨렸고, 독자는 품질 낮은 작업에 돈을 내지 않는다고 말했다. 가장 자주 들은 말은 “번역료를 두 배로”였다. Viz Media, Yen Press, Kodansha USA, Seven Seas, Denpa는 마감까지 답하지 않았고, Square Enix Books는 “노코멘트”라고 밝혔다."
+                "x": "뉴질랜드(Aotearoa New Zealand)의 저작권 단체 Tāwhia Copyright Aotearoa(옛 Copyright Licensing New Zealand)가 영국(UK)의 Copyright Licensing Agency와 양자 협정을 맺었다. 이 협정에 따라 라이선스를 받은 콘텐츠를 AI 프롬프트에 쓸 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "出版社がAIで漫画\nローカライズ担当を回避",
-          "body": "日本の出版社が機械翻訳に傾くなか、ANNは漫画ローカライザーの生計を問う。",
-          "mini_headline": "素通りされる漫画ローカライザー",
+          "headline": "NZ・UKのライセンス\nAIプロンプトも対象に",
+          "body": "TāwhiaとUKのCLAが、許諾コンテンツをAIプロンプトに使える二国間協定を結んだ。",
+          "mini_headline": "許諾がAIプロンプトにも",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.animenewsnetwork.com/thumbnails/crop600x315gV5/cms/feature/242228/colorchange.png.jpg"
-              },
-              {
                 "t": "p",
-                "x": "2026年8月20日のAmerican Manga Awardsで、ベテラン翻訳者Jan Mitsuko CashはYuzuko HoshimiのMAGICAでBest Translationを受賞し、客席の出版社に「報酬を倍にしてください」と呼びかけた。多作なフリーランサーは「週80時間働き、健康保険も退職金もない」うえ「その日暮らし」だと語った。"
-              },
-              {
-                "t": "video",
-                "yt": "IRsIGKlp9V0"
-              },
-              {
-                "t": "p",
-                "x": "ライトノベルの編集者兼校正者である筆者は、翻訳・編集・校正・レタリングにわたる業界関係者25人以上に話を聞いた。約半数は匿名を条件に取材に応じた。Cashによると、週90時間、100時間働いた同僚もいるという。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.animenewsnetwork.com/thumbnails/max600x600/cms/feature/242228/online-translator-languages-learning-course-depositphotos-213018204-s.jpg",
-                "cap": "画像提供：depositphotos.com"
-              },
-              {
-                "t": "p",
-                "x": "多くの日本の出版社が、欧米のローカライズ専門家とのやり取りを完全に省くため、機械翻訳やその他のAIツールに頼り始めている。背景には、Media-DoによるSeven Seasの買収、ShueishaのManga Millionsプロジェクトで指摘された機械翻訳使用疑惑、Orange Inc.のようなAI翻訳企業の台頭がある。翻訳者らは、機械翻訳の手直しは徒労だと言う。一から訳し直す必要があることが多く、その分の報酬を受け取れない人もいる。"
-              },
-              {
-                "t": "p",
-                "x": "AIによる迅速な公式翻訳でスキャンレーションを抑えられるという日本の出版社や政治家の話には、取材した全員が笑い、読者は質の低い仕事にお金を払わないと述べた。最も多く聞かれたのは「報酬を倍に」という言葉だった。Viz Media、Yen Press、Kodansha USA、Seven Seas、Denpaは期限までに回答せず、Square Enix Booksは「ノーコメント」とした。"
+                "x": "ニュージーランド（Aotearoa New Zealand）の著作権団体Tāwhia Copyright Aotearoa（旧Copyright Licensing New Zealand）は、英国（UK）のCopyright Licensing Agencyと二国間協定を結んだ。これにより、許諾を受けたコンテンツをAIプロンプトに利用できる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "出版商借AI绕过\n漫画本地化译者",
-          "body": "日本出版商转向机器翻译之际，ANN追问漫画本地化译者能否维持生计。",
-          "mini_headline": "漫画本地化译者遭绕过",
+          "headline": "NZ与UK版权许可\n扩展至AI提示词",
+          "body": "Tāwhia与UK的CLA签署双边协议，允许授权内容用于AI提示词。",
+          "mini_headline": "授权覆盖AI提示词",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.animenewsnetwork.com/thumbnails/crop600x315gV5/cms/feature/242228/colorchange.png.jpg"
-              },
-              {
                 "t": "p",
-                "x": "2026年8月20日，在American Manga Awards上，资深译者Jan Mitsuko Cash凭借Yuzuko Hoshimi的MAGICA获得Best Translation奖，并向台下的出版商呼吁：“请把稿酬翻倍。”她表示，高产的自由译者“每周工作80小时，没有医疗保险，也没有退休保障”，“靠每月薪水勉强度日”。"
-              },
-              {
-                "t": "video",
-                "yt": "IRsIGKlp9V0"
-              },
-              {
-                "t": "p",
-                "x": "作者是一名轻小说编辑兼校对，采访了翻译、编辑、校对和嵌字领域的25位以上业内人士，其中约一半只同意匿名受访。Cash说，有些同事曾每周工作90小时、100小时。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.animenewsnetwork.com/thumbnails/max600x600/cms/feature/242228/online-translator-languages-learning-course-depositphotos-213018204-s.jpg",
-                "cap": "图片来源：depositphotos.com"
-              },
-              {
-                "t": "p",
-                "x": "在Media-Do收购Seven Seas、Shueisha的Manga Millions项目被指使用机器翻译、Orange Inc.等AI翻译公司兴起的背景下，许多日本出版商开始转向机器翻译和其他AI工具，彻底绕开与西方本地化专业人士的沟通。译者们表示，修改机器翻译是徒劳之举——素材往往需要从头重译，而且有些人拿不到这部分报酬。"
-              },
-              {
-                "t": "p",
-                "x": "日本出版商和政界人士称AI可以凭借快速的官方翻译遏制扫图翻译（scanlation），所有受访者听后都笑了，他们说读者不会为低质量的作品买单。最常听到的一句话是“稿酬翻倍”；Viz Media、Yen Press、Kodansha USA、Seven Seas和Denpa截至发稿未回应，Square Enix Books表示“不予置评”。"
+                "x": "新西兰（Aotearoa New Zealand）版权组织Tāwhia Copyright Aotearoa（前身为Copyright Licensing New Zealand）已与英国（UK）的Copyright Licensing Agency签署双边协议，根据该协议，获得授权的内容可用于AI提示词。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Las editoriales relegan con AI\na los localizadores de manga",
-          "body": "ANN pregunta si los localizadores de manga sobreviven ahora que editoriales japonesas usan traducción automática.",
-          "mini_headline": "Localizadores de manga relegados",
+          "headline": "Licencias de NZ y UK ya cubren\nlos prompts de AI",
+          "body": "Tāwhia Copyright Aotearoa y la CLA de UK firmaron un pacto bilateral para usar contenido licenciado en prompts de AI.",
+          "mini_headline": "Licencias para prompts de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.animenewsnetwork.com/thumbnails/crop600x315gV5/cms/feature/242228/colorchange.png.jpg"
-              },
-              {
                 "t": "p",
-                "x": "El 20 de agosto de 2026, en los American Manga Awards, la veterana traductora Jan Mitsuko Cash ganó el premio Best Translation por MAGICA, de Yuzuko Hoshimi, y pidió a las editoriales presentes: “Por favor, dupliquen sus tarifas”. Dijo que los freelancers más prolíficos “trabajan semanas de 80 horas, no tienen seguro médico ni jubilación” y “viven al día”."
-              },
-              {
-                "t": "video",
-                "yt": "IRsIGKlp9V0"
-              },
-              {
-                "t": "p",
-                "x": "Quien firma el artículo, editor y corrector de novelas ligeras, habló con más de 25 profesionales del sector de la traducción, la edición, la corrección y el rotulado; aproximadamente la mitad aceptó hablar solo bajo condición de anonimato. Cash dijo que algunos colegas han tenido semanas de 90 y 100 horas."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.animenewsnetwork.com/thumbnails/max600x600/cms/feature/242228/online-translator-languages-learning-course-depositphotos-213018204-s.jpg",
-                "cap": "Imagen vía depositphotos.com"
-              },
-              {
-                "t": "p",
-                "x": "Muchas editoriales japonesas han empezado a recurrir a la traducción automática y a otras herramientas de AI para prescindir por completo del diálogo con los profesionales de localización occidentales, en un contexto marcado por la compra de Seven Seas por parte de Media-Do, el presunto uso de traducción automática en el proyecto Manga Millions de Shueisha y el auge de empresas de traducción con AI como Orange Inc. Los traductores dijeron que corregir una traducción automática es una tarea inútil: a menudo hay que retraducir el material desde cero, y algunos no cobrarán por ello."
-              },
-              {
-                "t": "p",
-                "x": "La idea, comentada entre editoriales y políticos japoneses, de que la AI podría frenar las scanlations con traducciones oficiales rápidas provocó risas en todos los entrevistados, que dijeron que los lectores no pagarán por un trabajo de mala calidad. “Dupliquen sus tarifas” fue la frase más repetida; Viz Media, Yen Press, Kodansha USA, Seven Seas y Denpa no respondieron antes del cierre, y Square Enix Books dijo “sin comentarios”."
+                "x": "La organización de derechos de autor de Aotearoa New Zealand Tāwhia Copyright Aotearoa, antes conocida como Copyright Licensing New Zealand, firmó un acuerdo bilateral con la Copyright Licensing Agency del Reino Unido (UK) que permite usar contenido licenciado en prompts de AI."
               }
             ]
           }
@@ -807,561 +477,451 @@
       }
     },
     {
-      "id": "books-millie-persona-chatbot-end",
-      "source_lang": "ko",
+      "id": "books-lukomski-voice-ruling",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "밀리의서재, AI\n페르소나 챗봇 종료",
-      "body": "밀리의서재가 이용률 저조로 AI 페르소나 챗봇을 12월 31일 종료한다.",
-      "mini_headline": "밀리의서재 챗봇 종료",
+      "headline": "폴란드 법원, 복제 목소리\n광고는 딥페이크 판결",
+      "body": "바르샤바 법원이 Łukomski 음성 AI 복제 광고에 삭제·사과·배상을 명했다.",
+      "mini_headline": "복제 목소리는 딥페이크",
       "tool": "Books",
-      "source": "뉴스웨이",
-      "url": "https://www.newsway.co.kr/news/view?ud=2026111316121759956",
+      "source": "Voice Over Herald",
+      "url": "https://www.voiceoverherald.com/jaroslaw-lukomski-ai-voice-deepfake-ruling/",
       "accent": "#7928ca",
       "motif": "swatch",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://nimage.newsway.co.kr/photo/2024/07/09/20240709000032_0700.png",
-            "cap": "그래픽=이찬희 기자"
+            "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/hero-86.jpg"
           },
           {
             "t": "p",
-            "x": "KT밀리의서재가 'AI 페르소나 챗봇' 서비스를 종료한다. 2024년 5월 독서 플랫폼 업계 최초로 선보인 이후 작가와 책 속 캐릭터 등 다양한 페르소나를 활용해 독자와의 소통 접점을 넓혀왔지만, 저조한 이용률 등을 고려해 서비스 재정비에 나선 것으로 풀이된다."
+            "x": "바르샤바 법원은 금요일 한 회사가 Jarosław Łukomski의 목소리를 AI로 복제해 만든 광고를 딥페이크로 판단했다. 법원은 폴란드에서 가장 잘 알려진 영화 낭독자 중 한 명인 그의 손을 들어 광고 삭제와 공개 사과, 손해배상을 명령했다. 판결은 11월 13일 금요일 바르샤바 지방법원 지식재산권부에서 나왔다. 폴란드 언론은 이번 재판을 AI 복제 목소리를 다룬 국내 첫 재판으로 본다. Łukomski는 가정용 오수 처리 탱크를 만드는 JFC Polska의 광고에서 자기 목소리와 닮은 목소리를 듣고 소송을 냈다."
+          },
+          {
+            "t": "video",
+            "yt": "o-CzuhcoWsY"
           },
           {
             "t": "p",
-            "x": "13일 업계에 따르면 KT밀리의서재는 오는 12월 31일 'AI 페르소나 챗봇' 서비스를 종료한다. 종료 대상은 페르소나 챗봇 전체로 ▲'마법천자문' 손오공 ▲'궁노' 차선겸·서리 ▲'참아주세요, 대공' 클로드 대공 ▲소크라테스 ▲대문자 T 쇼펜하우어 ▲'모녀의 세계' 김지윤 작가가 포함돼 있다. 페르소나 챗봇 종료 이후에는 저장된 대화 내용이 모두 삭제될 예정이다."
+            "x": "Sylwia Wit vel Wilk 판사는 JFC Polska에 해당 자료를 삭제하고 사과문을 게재하라고 명령했다. Łukomski에게는 위자료 30,000즐로티(약 $7,500)와 이자, 손해액 17,000즐로티(약 $4,260) 이상에 소송 비용까지 물어 주라고 했다. 판결은 아직 확정되지 않았다."
           },
           {
             "t": "p",
-            "x": "페르소나 챗봇은 2024년 5월 독서 플랫폼 최초로 도입된 서비스가. 책의 저자나 책 속 주인공을 학습한 AI 챗봇과 실제 대화하듯 소통할 수 있다. 인공지능 스타트업 마인드로직과도 협력해 등장인물의 화법은 물론, 사고방식을 구현해 대화하듯 책의 정보도 전달해주는 방식이었다."
+            "x": "판사는 흉내 낸 대상이 실제로 그 말을 했다고 청취자가 믿을 수 있었는지가 핵심이라고 했다. 판결에 따르면 유명하든 아니든 모든 개인의 목소리가 보호 대상이다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/scrum.jpg",
+            "cap": "재판 기간 바르샤바 법원에서 기자들과 이야기하는 Łukomski(왼쪽). 이미지: eKoszalin, YouTube"
           },
           {
             "t": "p",
-            "x": "특히 같은 해 9월 선보인 쇼펜하우어 페르소나 챗봇은 출시 2주 만에 누적 사용자 5000여 명을 돌파하고, 출시 약 2개월 후에는 누적 메시지 수 약 13만건을 기록하는 등 초기 이용자들의 관심을 모았다."
+            "x": "법원이 지정한 전문가는 두 목소리가 “명백히(혼동할 만큼) 비슷하다”고 판단했다. 회사 그래픽 디자이너는 폴란드 AI 음성 업체의 도구를 썼다고 진술했다. o2.pl은 법정에서 언급된 도구가 ElevenLabs였다고 보도했다."
           },
           {
-            "t": "p",
-            "x": "그러나 초기 화제성과 별개로 서비스 이용이 지속적인 독서 경험이나 플랫폼 내 다른 콘텐츠 소비로 이어지는 데에는 한계가 있었던 것으로 보인다. 페르소나와의 대화라는 차별화된 경험을 제공했지만, 시간이 지나면서 이용자들의 반복적인 방문과 지속적인 사용을 이끌어내지는 못했다는 것이다."
-          },
-          {
-            "t": "p",
-            "x": "밀리의서재는 올해 3월에도 '마법천자문' 손오공을 활용한 AI 페르소나 챗봇을 공개하는 등 관련 서비스를 이어왔다. 페르소나 챗봇의 종류를 늘려 이용자층을 넓히려는 시도였지만, 결국 서비스 종료 수순을 밟게 됐다."
-          },
-          {
-            "t": "p",
-            "x": "밀리의서재 관계자는 \"사용성 등을 고려한 결정\"이라며 \"(페르소나 챗봇 이외에도) AI 관련 서비스를 새로 선보이거나 개선해 나가고 있다\"고 설명했다."
-          },
-          {
-            "t": "p",
-            "x": "일각에서는 이번 서비스 종료를 기존 AI를 접목한 서비스의 운영 방향을 재검토하고 새로운 AI 활용 방안을 모색하는 과정 중 하나라는 의견도 나온다. 밀리의서재는 그동안 'AI 오브제북'과 'AI 스마트 도서 추천' 등 독서 경험에 인공지능 기술을 접목한 서비스를 꾸준히 선보여 왔다."
-          },
-          {
-            "t": "p",
-            "x": "또, 사내에 인공지능 전환(AX) 관련 본부를 두고 관련 기술과 서비스 개발에도 힘을 쏟는 등 AI를 플랫폼 경쟁력의 한 축으로 삼아왔다. 이에 따라 페르소나 챗봇 종료 이후에도 AI를 활용한 독서 서비스 발굴과 고도화 작업은 이어질 가능성이 크다는 설명이다."
-          },
-          {
-            "t": "p",
-            "x": "업계 한 관계자는 \"AI 기술을 활용한 서비스는 출시 자체보다 이용자들이 얼마나 자주 찾고 실제로 편리하게 활용하는지가 중요하다\"며 \"플랫폼 입장에서도 이용자 수요와 서비스 운영 효율성을 종합적으로 고려해 AI 서비스의 방향을 조정하는 과정이 불가피하다\"고 말했다."
+            "t": "img",
+            "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/booth-4.jpg",
+            "cap": "마이크 앞의 Łukomski. 이미지: #AdiMoovi, YouTube"
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "밀리의서재, AI\n페르소나 챗봇 종료",
-          "body": "밀리의서재가 이용률 저조로 AI 페르소나 챗봇을 12월 31일 종료한다.",
-          "mini_headline": "밀리의서재 챗봇 종료",
+        "en": {
+          "headline": "Polish court rules cloned\nvoice ads a deepfake",
+          "body": "A Warsaw court ordered removal, apologies and damages over ads using an AI copy of reader Jarosław Łukomski's voice.",
+          "mini_headline": "Cloned voice ruled deepfake",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://nimage.newsway.co.kr/photo/2024/07/09/20240709000032_0700.png",
-                "cap": "그래픽=이찬희 기자"
+                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/hero-86.jpg"
               },
               {
                 "t": "p",
-                "x": "KT밀리의서재가 'AI 페르소나 챗봇' 서비스를 종료한다. 2024년 5월 독서 플랫폼 업계 최초로 선보인 이후 작가와 책 속 캐릭터 등 다양한 페르소나를 활용해 독자와의 소통 접점을 넓혀왔지만, 저조한 이용률 등을 고려해 서비스 재정비에 나선 것으로 풀이된다."
+                "x": "A Warsaw court ruled on Friday that a company’s adverts using an AI copy of Jarosław Łukomski’s voice were a deepfake. It ordered the ads taken down, public apologies and damages for one of Poland’s best known film readers. The Warsaw Regional Court’s intellectual property division gave its ruling on Friday, 13 November, at the end of what Polish media are calling the country’s first trial over a voice cloned with AI. Łukomski sued JFC Polska, a company that makes home sewage treatment tanks, after hearing a voice like his in its adverts."
+              },
+              {
+                "t": "video",
+                "yt": "o-CzuhcoWsY"
               },
               {
                 "t": "p",
-                "x": "13일 업계에 따르면 KT밀리의서재는 오는 12월 31일 'AI 페르소나 챗봇' 서비스를 종료한다. 종료 대상은 페르소나 챗봇 전체로 ▲'마법천자문' 손오공 ▲'궁노' 차선겸·서리 ▲'참아주세요, 대공' 클로드 대공 ▲소크라테스 ▲대문자 T 쇼펜하우어 ▲'모녀의 세계' 김지윤 작가가 포함돼 있다. 페르소나 챗봇 종료 이후에는 저장된 대화 내용이 모두 삭제될 예정이다."
+                "x": "Judge Sylwia Wit vel Wilk ordered JFC Polska to remove the material and publish apologies, and to pay Łukomski 30,000 zlotys (about $7,500) with interest as compensation, more than 17,000 zlotys (about $4,260) for his losses, and the costs of the trial. The ruling isn’t final."
               },
               {
                 "t": "p",
-                "x": "페르소나 챗봇은 2024년 5월 독서 플랫폼 최초로 도입된 서비스가. 책의 저자나 책 속 주인공을 학습한 AI 챗봇과 실제 대화하듯 소통할 수 있다. 인공지능 스타트업 마인드로직과도 협력해 등장인물의 화법은 물론, 사고방식을 구현해 대화하듯 책의 정보도 전달해주는 방식이었다."
+                "x": "What matters, the judge said, is whether listeners could believe the words really came from the person being imitated. In her ruling, the protected interest is the voice of every individual person, however well known they are or aren’t."
+              },
+              {
+                "t": "img",
+                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/scrum.jpg",
+                "cap": "Łukomski, left, talks to reporters at the Warsaw court during the trial. Image: eKoszalin, on YouTube"
               },
               {
                 "t": "p",
-                "x": "특히 같은 해 9월 선보인 쇼펜하우어 페르소나 챗봇은 출시 2주 만에 누적 사용자 5000여 명을 돌파하고, 출시 약 2개월 후에는 누적 메시지 수 약 13만건을 기록하는 등 초기 이용자들의 관심을 모았다."
+                "x": "A court-appointed expert found both voices “clearly (deceptively) similar.” The company’s graphic designer said he had used a Polish AI voice firm’s tools; o2.pl reports that the tool named in court was ElevenLabs."
               },
               {
-                "t": "p",
-                "x": "그러나 초기 화제성과 별개로 서비스 이용이 지속적인 독서 경험이나 플랫폼 내 다른 콘텐츠 소비로 이어지는 데에는 한계가 있었던 것으로 보인다. 페르소나와의 대화라는 차별화된 경험을 제공했지만, 시간이 지나면서 이용자들의 반복적인 방문과 지속적인 사용을 이끌어내지는 못했다는 것이다."
-              },
-              {
-                "t": "p",
-                "x": "밀리의서재는 올해 3월에도 '마법천자문' 손오공을 활용한 AI 페르소나 챗봇을 공개하는 등 관련 서비스를 이어왔다. 페르소나 챗봇의 종류를 늘려 이용자층을 넓히려는 시도였지만, 결국 서비스 종료 수순을 밟게 됐다."
-              },
-              {
-                "t": "p",
-                "x": "밀리의서재 관계자는 \"사용성 등을 고려한 결정\"이라며 \"(페르소나 챗봇 이외에도) AI 관련 서비스를 새로 선보이거나 개선해 나가고 있다\"고 설명했다."
-              },
-              {
-                "t": "p",
-                "x": "일각에서는 이번 서비스 종료를 기존 AI를 접목한 서비스의 운영 방향을 재검토하고 새로운 AI 활용 방안을 모색하는 과정 중 하나라는 의견도 나온다. 밀리의서재는 그동안 'AI 오브제북'과 'AI 스마트 도서 추천' 등 독서 경험에 인공지능 기술을 접목한 서비스를 꾸준히 선보여 왔다."
-              },
-              {
-                "t": "p",
-                "x": "또, 사내에 인공지능 전환(AX) 관련 본부를 두고 관련 기술과 서비스 개발에도 힘을 쏟는 등 AI를 플랫폼 경쟁력의 한 축으로 삼아왔다. 이에 따라 페르소나 챗봇 종료 이후에도 AI를 활용한 독서 서비스 발굴과 고도화 작업은 이어질 가능성이 크다는 설명이다."
-              },
-              {
-                "t": "p",
-                "x": "업계 한 관계자는 \"AI 기술을 활용한 서비스는 출시 자체보다 이용자들이 얼마나 자주 찾고 실제로 편리하게 활용하는지가 중요하다\"며 \"플랫폼 입장에서도 이용자 수요와 서비스 운영 효율성을 종합적으로 고려해 AI 서비스의 방향을 조정하는 과정이 불가피하다\"고 말했다."
+                "t": "img",
+                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/booth-4.jpg",
+                "cap": "Łukomski at the microphone. Image: #AdiMoovi, on YouTube"
               }
             ]
           }
         },
-        "en": {
-          "headline": "Millie's Library Ends Its\nAI Persona Chatbots",
-          "body": "Millie's Library will shut down its AI persona chatbots on December 31 due to low usage.",
-          "mini_headline": "Millie's Library Ends Chatbots",
+        "ko": {
+          "headline": "폴란드 법원, 복제 목소리\n광고는 딥페이크 판결",
+          "body": "바르샤바 법원이 Łukomski 음성 AI 복제 광고에 삭제·사과·배상을 명했다.",
+          "mini_headline": "복제 목소리는 딥페이크",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://nimage.newsway.co.kr/photo/2024/07/09/20240709000032_0700.png",
-                "cap": "Graphic = reporter Lee Chan-hee"
+                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/hero-86.jpg"
               },
               {
                 "t": "p",
-                "x": "KT Millie's Library is ending its ‘AI persona chatbot’ service. Since launching it in May 2024 as the first in the reading-platform industry, the company has used various personas, including authors and characters from books, to widen its points of contact with readers, but the move is seen as a service reorganization in light of low usage, among other factors."
+                "x": "바르샤바 법원은 금요일 한 회사가 Jarosław Łukomski의 목소리를 AI로 복제해 만든 광고를 딥페이크로 판단했다. 법원은 폴란드에서 가장 잘 알려진 영화 낭독자 중 한 명인 그의 손을 들어 광고 삭제와 공개 사과, 손해배상을 명령했다. 판결은 11월 13일 금요일 바르샤바 지방법원 지식재산권부에서 나왔다. 폴란드 언론은 이번 재판을 AI 복제 목소리를 다룬 국내 첫 재판으로 본다. Łukomski는 가정용 오수 처리 탱크를 만드는 JFC Polska의 광고에서 자기 목소리와 닮은 목소리를 듣고 소송을 냈다."
+              },
+              {
+                "t": "video",
+                "yt": "o-CzuhcoWsY"
               },
               {
                 "t": "p",
-                "x": "According to the industry on the 13th, KT Millie's Library will end the ‘AI persona chatbot’ service on December 31. All persona chatbots are affected, including ▲Son Oh-gong from ‘Magic Thousand Characters’ ▲Cha Seon-gyeom and Seo-ri from ‘Gungno’ ▲Grand Duke Claude from ‘Please Bear With Me, Grand Duke’ ▲Socrates ▲Capital T Schopenhauer ▲author Kim Ji-yoon of ‘The World of Mother and Daughter’. All saved conversations will be deleted after the persona chatbots end."
+                "x": "Sylwia Wit vel Wilk 판사는 JFC Polska에 해당 자료를 삭제하고 사과문을 게재하라고 명령했다. Łukomski에게는 위자료 30,000즐로티(약 $7,500)와 이자, 손해액 17,000즐로티(약 $4,260) 이상에 소송 비용까지 물어 주라고 했다. 판결은 아직 확정되지 않았다."
               },
               {
                 "t": "p",
-                "x": "The persona chatbot was introduced in May 2024 as the first such service on a reading platform. Users can talk with AI chatbots trained on a book's author or protagonist as if in a real conversation. Working with AI startup Mindlogic, it reproduced not only characters' speech but also their ways of thinking, and delivered information about books in a conversational way."
+                "x": "판사는 흉내 낸 대상이 실제로 그 말을 했다고 청취자가 믿을 수 있었는지가 핵심이라고 했다. 판결에 따르면 유명하든 아니든 모든 개인의 목소리가 보호 대상이다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/scrum.jpg",
+                "cap": "재판 기간 바르샤바 법원에서 기자들과 이야기하는 Łukomski(왼쪽). 이미지: eKoszalin, YouTube"
               },
               {
                 "t": "p",
-                "x": "In particular, the Schopenhauer persona chatbot, launched in September of the same year, passed about 5,000 cumulative users within 2 weeks of launch and recorded about 13만 cumulative messages roughly 2 months after launch, drawing interest from early users."
+                "x": "법원이 지정한 전문가는 두 목소리가 “명백히(혼동할 만큼) 비슷하다”고 판단했다. 회사 그래픽 디자이너는 폴란드 AI 음성 업체의 도구를 썼다고 진술했다. o2.pl은 법정에서 언급된 도구가 ElevenLabs였다고 보도했다."
               },
               {
-                "t": "p",
-                "x": "However, apart from the early buzz, the service appears to have had limits in leading to a sustained reading experience or to consumption of other content on the platform. Although it offered the distinctive experience of conversing with personas, over time it did not draw repeat visits and continued use from users."
-              },
-              {
-                "t": "p",
-                "x": "In March this year, Millie's Library also released an AI persona chatbot featuring Son Oh-gong from ‘Magic Thousand Characters’, continuing the related services. It was an attempt to broaden the user base by adding more types of persona chatbots, but the service is ultimately being wound down."
-              },
-              {
-                "t": "p",
-                "x": "A Millie's Library official explained, “It was a decision that took usability and other factors into account,” adding, “(Beyond the persona chatbots) we are launching new AI-related services and improving existing ones.”"
-              },
-              {
-                "t": "p",
-                "x": "Some say the shutdown is part of a process of reviewing the direction of existing AI-based services and exploring new ways to use AI. Millie's Library has steadily introduced services that bring artificial intelligence into the reading experience, such as ‘AI Objet Book’ and ‘AI Smart Book Recommendation’."
-              },
-              {
-                "t": "p",
-                "x": "It has also made AI one pillar of its platform competitiveness, setting up an in-house division for AI transformation (AX) and focusing on developing related technology and services. Accordingly, work to discover and enhance AI-powered reading services is likely to continue even after the persona chatbots end."
-              },
-              {
-                "t": "p",
-                "x": "An industry official said, “For services using AI technology, what matters more than the launch itself is how often users come back and how conveniently they actually use them,” adding, “From the platform's standpoint as well, adjusting the direction of AI services by weighing user demand and operational efficiency together is inevitable.”"
+                "t": "img",
+                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/booth-4.jpg",
+                "cap": "마이크 앞의 Łukomski. 이미지: #AdiMoovi, YouTube"
               }
             ]
           }
         },
         "ja": {
-          "headline": "ミリの書斎、AI\nペルソナチャットボット終了",
-          "body": "ミリの書斎が利用低迷を受け、AIペルソナチャットボットを12月31日に終了する。",
-          "mini_headline": "ミリの書斎、チャットボット終了",
+          "headline": "ポーランド裁判所、複製音声\n広告はディープフェイク",
+          "body": "ワルシャワ裁判所が、Łukomski氏の声をAIで複製した広告に削除・謝罪・賠償を命じた。",
+          "mini_headline": "複製音声はディープフェイク",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://nimage.newsway.co.kr/photo/2024/07/09/20240709000032_0700.png",
-                "cap": "グラフィック＝イ・チャンヒ記者"
+                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/hero-86.jpg"
               },
               {
                 "t": "p",
-                "x": "KTミリの書斎が「AIペルソナチャットボット」サービスを終了する。2024年5月に読書プラットフォーム業界で初めて導入して以来、作家や本の登場人物などさまざまなペルソナを活用して読者との接点を広げてきたが、低い利用率などを踏まえてサービスの再編に乗り出したとみられる。"
+                "x": "ワルシャワの裁判所は金曜日、ある企業がJarosław Łukomski氏の声をAIで複製して使った広告はディープフェイクだとの判決を下した。ポーランドで最もよく知られた映画ナレーターの一人である同氏のため、広告の削除、公開謝罪、損害賠償を命じた。ワルシャワ地方裁判所の知的財産部は11月13日金曜日に判決を言い渡した。ポーランドのメディアはこの裁判を、AIで複製された声をめぐる国内初の裁判と呼んでいる。Łukomski氏は、家庭用汚水処理タンクを製造するJFC Polskaの広告で自分に似た声を聞き、同社を提訴した。"
+              },
+              {
+                "t": "video",
+                "yt": "o-CzuhcoWsY"
               },
               {
                 "t": "p",
-                "x": "13日の業界関係者によると、KTミリの書斎は12月31日に「AIペルソナチャットボット」サービスを終了する。対象はペルソナチャットボット全体で、▲『魔法千字文』の孫悟空 ▲『宮奴』のチャ・ソンギョムとソリ ▲『我慢してください、大公』のクロード大公 ▲ソクラテス ▲大文字Tのショーペンハウアー ▲『母娘の世界』のキム・ジユン作家が含まれる。ペルソナチャットボットの終了後は、保存された会話内容がすべて削除される予定だ。"
+                "x": "Sylwia Wit vel Wilk裁判官はJFC Polskaに対し、素材の削除と謝罪の公表を命じ、Łukomski氏に慰謝料として30,000ズウォティ（約$7,500）と利息、損失分として17,000ズウォティ（約$4,260）超、さらに訴訟費用を支払うよう命じた。判決は確定していない。"
               },
               {
                 "t": "p",
-                "x": "ペルソナチャットボットは2024年5月に読書プラットフォームで初めて導入されたサービスだ。本の著者や登場人物を学習したAIチャットボットと、実際に会話するようにやり取りできる。AIスタートアップのマインドロジックとも協力し、登場人物の話し方だけでなく考え方まで再現して、会話するように本の情報も伝える方式だった。"
+                "x": "裁判官によれば、重要なのは、聞き手がその言葉を本当に模倣された本人のものだと信じ得たかどうかだ。判決では、保護される利益は、知名度の有無にかかわらず、あらゆる個人の声だとした。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/scrum.jpg",
+                "cap": "裁判期間中、ワルシャワの裁判所で記者の取材に応じるŁukomski氏（左）。画像：eKoszalin、YouTubeより"
               },
               {
                 "t": "p",
-                "x": "特に同年9月に公開したショーペンハウアーのペルソナチャットボットは、公開から2週間で累計ユーザー5000人余りを突破し、約2カ月後には累計メッセージ数が約13만件に達するなど、初期ユーザーの関心を集めた。"
+                "x": "裁判所が任命した専門家は、両者の声が「明らかに（紛らわしいほど）似ている」と判断した。同社のグラフィックデザイナーはポーランドのAI音声企業のツールを使ったと述べ、o2.plによると法廷で名前が挙がったツールはElevenLabsだった。"
               },
               {
-                "t": "p",
-                "x": "しかし初期の話題性とは別に、サービスの利用が継続的な読書体験やプラットフォーム内の他のコンテンツ消費につながるには限界があったとみられる。ペルソナとの対話という差別化された体験を提供したものの、時間がたつにつれ、利用者の繰り返しの訪問や継続的な利用を引き出せなかったということだ。"
-              },
-              {
-                "t": "p",
-                "x": "ミリの書斎は今年3月にも『魔法千字文』の孫悟空を活用したAIペルソナチャットボットを公開するなど、関連サービスを続けてきた。ペルソナチャットボットの種類を増やして利用者層を広げようとする試みだったが、結局サービス終了の手順を踏むことになった。"
-              },
-              {
-                "t": "p",
-                "x": "ミリの書斎の関係者は「使い勝手などを考慮した決定だ」とし、「（ペルソナチャットボット以外にも）AI関連サービスを新たに投入したり改善したりしている」と説明した。"
-              },
-              {
-                "t": "p",
-                "x": "一部では、今回のサービス終了は、既存のAIを取り入れたサービスの運営方針を見直し、新たなAI活用策を模索する過程の一つだとの見方も出ている。ミリの書斎はこれまで「AIオブジェブック」や「AIスマート図書推薦」など、読書体験に人工知能技術を取り入れたサービスを着実に打ち出してきた。"
-              },
-              {
-                "t": "p",
-                "x": "また、社内に人工知能転換（AX）関連の本部を置き、関連技術やサービスの開発にも力を注ぐなど、AIをプラットフォーム競争力の柱の一つとしてきた。このため、ペルソナチャットボット終了後も、AIを活用した読書サービスの発掘と高度化は続く可能性が高いという。"
-              },
-              {
-                "t": "p",
-                "x": "ある業界関係者は「AI技術を活用したサービスは、リリースそのものより、利用者がどれだけ頻繁に訪れ、実際に便利に使っているかが重要だ」とし、「プラットフォームとしても、利用者の需要とサービス運営の効率性を総合的に考慮し、AIサービスの方向性を調整する過程は避けられない」と述べた。"
+                "t": "img",
+                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/booth-4.jpg",
+                "cap": "マイクの前のŁukomski氏。画像：#AdiMoovi、YouTubeより"
               }
             ]
           }
         },
         "zh": {
-          "headline": "米利书房关停AI\n人格聊天机器人",
-          "body": "米利书房因使用率低迷，将于12月31日关停AI人格聊天机器人。",
-          "mini_headline": "米利书房关停聊天机器人",
+          "headline": "波兰法院裁定克隆声音\n广告属深度伪造",
+          "body": "华沙法院就AI复制Jarosław Łukomski声音的广告，下令删除、道歉并赔偿。",
+          "mini_headline": "克隆声音被判深度伪造",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://nimage.newsway.co.kr/photo/2024/07/09/20240709000032_0700.png",
-                "cap": "图表=李灿熙 记者"
+                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/hero-86.jpg"
               },
               {
                 "t": "p",
-                "x": "KT米利书房将关停“AI人格聊天机器人”服务。该服务于2024年5月在阅读平台业界率先推出，此后借助作家和书中角色等多种人格拓宽了与读者的交流触点，但外界解读称，公司是考虑到使用率低迷等因素而着手调整服务。"
+                "x": "华沙一家法院周五裁定，一家公司使用AI复制Jarosław Łukomski声音制作的广告属于深度伪造，并责令下架广告、公开道歉，向这位波兰最知名的电影旁白朗读者之一作出赔偿。华沙地区法院知识产权庭于11月13日周五作出判决，波兰媒体称这是该国首起涉及AI克隆声音的审判。Łukomski在生产家用污水处理罐的公司JFC Polska的广告中听到与自己相似的声音后，对其提起诉讼。"
+              },
+              {
+                "t": "video",
+                "yt": "o-CzuhcoWsY"
               },
               {
                 "t": "p",
-                "x": "据业界13日消息，KT米利书房将于12月31日关停“AI人格聊天机器人”服务。关停对象为全部人格聊天机器人，包括▲《魔法千字文》孙悟空 ▲《宫奴》车善谦、瑟丽 ▲《请忍耐，大公》克劳德大公 ▲苏格拉底 ▲大写T叔本华 ▲《母女的世界》金智允作家。人格聊天机器人关停后，已保存的对话内容将全部删除。"
+                "x": "法官Sylwia Wit vel Wilk责令JFC Polska删除相关素材并发布道歉，向Łukomski支付30,000兹罗提（约$7,500）及利息作为补偿，支付逾17,000兹罗提（约$4,260）作为其损失赔偿，并承担诉讼费用。该判决尚未生效。"
               },
               {
                 "t": "p",
-                "x": "人格聊天机器人是2024年5月在阅读平台中率先引入的服务。用户可以与学习了书籍作者或书中主人公的AI聊天机器人像真实对话一样交流。该服务还与人工智能初创公司Mindlogic合作，不仅再现角色的说话方式，还再现其思维方式，以对话形式传递书籍信息。"
+                "x": "法官表示，关键在于听众是否可能相信这些话确实出自被模仿者之口。根据她的判决，受保护的利益是每一个人的声音，无论其是否知名。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/scrum.jpg",
+                "cap": "审理期间，Łukomski（左）在华沙法院接受记者采访。图片：eKoszalin，来自YouTube"
               },
               {
                 "t": "p",
-                "x": "尤其是同年9月推出的叔本华人格聊天机器人，上线2周内累计用户突破5000余人，上线约2个月后累计消息数达到约13만条，吸引了早期用户的关注。"
+                "x": "法院指定的专家认定两种声音“明显（足以乱真地）相似”。该公司的平面设计师表示，他使用了一家波兰AI语音公司的工具；据o2.pl报道，庭审中提到的工具是ElevenLabs。"
               },
               {
-                "t": "p",
-                "x": "然而，抛开初期的话题性，该服务的使用似乎难以延伸为持续的阅读体验或平台内其他内容的消费。虽然提供了与人格对话这一差异化体验，但随着时间推移，未能带动用户反复访问和持续使用。"
-              },
-              {
-                "t": "p",
-                "x": "米利书房今年3月还推出了以《魔法千字文》孙悟空为原型的AI人格聊天机器人，持续推进相关服务。这原本是通过增加人格聊天机器人种类来扩大用户群的尝试，但最终还是走向了关停。"
-              },
-              {
-                "t": "p",
-                "x": "米利书房相关人士解释称：“这是综合考虑可用性等因素后作出的决定”，“（除人格聊天机器人外）我们正在推出新的AI相关服务或改进现有服务。”"
-              },
-              {
-                "t": "p",
-                "x": "也有观点认为，此次关停是重新审视现有AI融合服务的运营方向、探索新的AI应用方案的过程之一。米利书房此前陆续推出了“AI物件书”“AI智能图书推荐”等将人工智能技术融入阅读体验的服务。"
-              },
-              {
-                "t": "p",
-                "x": "此外，公司内部设立了人工智能转型（AX）相关本部，致力于相关技术和服务开发，将AI作为平台竞争力的支柱之一。因此有分析认为，人格聊天机器人关停后，利用AI的阅读服务的发掘与升级工作很可能会继续。"
-              },
-              {
-                "t": "p",
-                "x": "一位业界人士表示：“对于运用AI技术的服务来说，比推出本身更重要的是用户访问的频率以及实际使用是否便利。”他还说：“从平台角度看，综合考虑用户需求和服务运营效率来调整AI服务方向的过程是不可避免的。”"
+                "t": "img",
+                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/booth-4.jpg",
+                "cap": "Łukomski在麦克风前。图片：#AdiMoovi，来自YouTube"
               }
             ]
           }
         },
         "es": {
-          "headline": "Millie's Library cierra sus\nchatbots de persona con AI",
-          "body": "Millie's Library cerrará sus chatbots de persona con AI el 31 de diciembre por su bajo nivel de uso.",
-          "mini_headline": "Millie's Library cierra sus chatbots",
+          "headline": "Tribunal polaco ve deepfake en\nanuncios con voz clonada",
+          "body": "Un juzgado de Varsovia ordenó retirada, disculpas y daños por anuncios que imitan con AI la voz de Jarosław Łukomski.",
+          "mini_headline": "Voz clonada, declarada deepfake",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://nimage.newsway.co.kr/photo/2024/07/09/20240709000032_0700.png",
-                "cap": "Gráfico = periodista Lee Chan-hee"
+                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/hero-86.jpg"
               },
               {
                 "t": "p",
-                "x": "KT Millie's Library pondrá fin a su servicio de ‘chatbot de persona con AI’. Desde que lo lanzó en mayo de 2024, como el primero del sector de plataformas de lectura, ha ampliado los puntos de contacto con los lectores mediante diversas personas, como autores y personajes de libros, pero se interpreta que ha decidido reorganizar el servicio a la vista de su bajo nivel de uso, entre otros factores."
+                "x": "Un tribunal de Varsovia dictaminó el viernes que los anuncios de una empresa que usaban una copia por AI de la voz de Jarosław Łukomski eran un deepfake. Ordenó retirar los anuncios, publicar disculpas y pagar daños a uno de los lectores de cine más conocidos de Polonia. La división de propiedad intelectual del Tribunal Regional de Varsovia dictó su fallo el viernes 13 de noviembre, al cierre de lo que los medios polacos llaman el primer juicio del país por una voz clonada con AI. Łukomski demandó a JFC Polska, una empresa que fabrica tanques domésticos de tratamiento de aguas residuales, tras oír en sus anuncios una voz parecida a la suya."
+              },
+              {
+                "t": "video",
+                "yt": "o-CzuhcoWsY"
               },
               {
                 "t": "p",
-                "x": "Según fuentes del sector consultadas el día 13, KT Millie's Library cerrará el servicio de ‘chatbot de persona con AI’ el 31 de diciembre. El cierre afecta a todos los chatbots de persona, entre ellos ▲Son Oh-gong de ‘Los mil caracteres mágicos’ ▲Cha Seon-gyeom y Seo-ri de ‘Gungno’ ▲el gran duque Claude de ‘Aguante, gran duque’ ▲Sócrates ▲Schopenhauer de la T mayúscula ▲la autora Kim Ji-yoon de ‘El mundo de madre e hija’. Tras el cierre, se eliminarán todas las conversaciones guardadas."
+                "x": "La jueza Sylwia Wit vel Wilk ordenó a JFC Polska retirar el material y publicar disculpas, y pagar a Łukomski 30,000 eslotis (unos $7,500) con intereses como compensación, más de 17,000 eslotis (unos $4,260) por sus pérdidas y las costas del juicio. El fallo no es firme."
               },
               {
                 "t": "p",
-                "x": "El chatbot de persona se introdujo en mayo de 2024 como el primer servicio de su tipo en una plataforma de lectura. Permite conversar, como si fuera una charla real, con chatbots de AI entrenados con el autor o el protagonista de un libro. En colaboración con la startup de inteligencia artificial Mindlogic, reproducía no solo la forma de hablar de los personajes sino también su manera de pensar, y transmitía información sobre los libros a modo de conversación."
+                "x": "Lo importante, dijo la jueza, es si los oyentes podían creer que las palabras procedían realmente de la persona imitada. Según su fallo, el bien protegido es la voz de cada persona, sea o no conocida."
+              },
+              {
+                "t": "img",
+                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/scrum.jpg",
+                "cap": "Łukomski, a la izquierda, habla con periodistas en el tribunal de Varsovia durante el juicio. Imagen: eKoszalin, en YouTube"
               },
               {
                 "t": "p",
-                "x": "En particular, el chatbot de persona de Schopenhauer, lanzado en septiembre de ese mismo año, superó los 5000 usuarios acumulados en 2 semanas y, unos 2 meses después del lanzamiento, registró cerca de 13만 mensajes acumulados, lo que atrajo el interés de los primeros usuarios."
+                "x": "Un perito designado por el tribunal concluyó que ambas voces eran “claramente (engañosamente) similares”. El diseñador gráfico de la empresa dijo haber usado herramientas de una firma polaca de voz por AI; o2.pl informa de que la herramienta citada en el juicio fue ElevenLabs."
               },
               {
-                "t": "p",
-                "x": "Sin embargo, al margen del interés inicial, el uso del servicio parece haber tenido límites para traducirse en una experiencia de lectura continuada o en el consumo de otros contenidos de la plataforma. Aunque ofrecía la experiencia diferenciada de conversar con una persona, con el tiempo no logró generar visitas repetidas ni un uso sostenido."
-              },
-              {
-                "t": "p",
-                "x": "En marzo de este año, Millie's Library también presentó un chatbot de persona con AI basado en Son Oh-gong de ‘Los mil caracteres mágicos’, dando continuidad a estos servicios. Era un intento de ampliar la base de usuarios con más tipos de chatbots de persona, pero finalmente el servicio va camino del cierre."
-              },
-              {
-                "t": "p",
-                "x": "Un responsable de Millie's Library explicó: “Es una decisión que tiene en cuenta la usabilidad, entre otros aspectos”, y añadió: “(Además de los chatbots de persona) estamos lanzando nuevos servicios relacionados con la AI o mejorándolos”."
-              },
-              {
-                "t": "p",
-                "x": "Algunos opinan que el cierre forma parte de un proceso para revisar la orientación de los servicios existentes basados en AI y buscar nuevas formas de aprovecharla. Millie's Library ha lanzado de forma constante servicios que incorporan la inteligencia artificial a la experiencia de lectura, como ‘AI Objet Book’ y ‘AI Smart Book Recommendation’."
-              },
-              {
-                "t": "p",
-                "x": "Además, cuenta con una división interna dedicada a la transformación con inteligencia artificial (AX) y ha volcado esfuerzos en desarrollar tecnologías y servicios relacionados, convirtiendo la AI en uno de los pilares de la competitividad de la plataforma. Por ello, es muy probable que el desarrollo y la mejora de servicios de lectura con AI continúen incluso tras el cierre de los chatbots de persona."
-              },
-              {
-                "t": "p",
-                "x": "Un representante del sector dijo: “En los servicios que usan tecnología de AI, más que el lanzamiento en sí, importa con qué frecuencia vuelven los usuarios y si realmente les resultan cómodos”, y añadió: “También desde el punto de vista de la plataforma, es inevitable ajustar la orientación de los servicios de AI teniendo en cuenta en conjunto la demanda de los usuarios y la eficiencia operativa”."
+                "t": "img",
+                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/booth-4.jpg",
+                "cap": "Łukomski ante el micrófono. Imagen: #AdiMoovi, en YouTube"
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "Millie's Library Ends Its\nAI Persona Chatbots",
-          "body": "Millie's Library will shut down its AI persona chatbots on December 31 due to low usage.",
-          "mini_headline": "Millie's Library Ends Chatbots",
+        "ko": {
+          "headline": "폴란드 법원, 복제 목소리\n광고는 딥페이크 판결",
+          "body": "바르샤바 법원이 Łukomski 음성 AI 복제 광고에 삭제·사과·배상을 명했다.",
+          "mini_headline": "복제 목소리는 딥페이크",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://nimage.newsway.co.kr/photo/2024/07/09/20240709000032_0700.png",
-                "cap": "Graphic = reporter Lee Chan-hee"
+                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/hero-86.jpg"
               },
               {
                 "t": "p",
-                "x": "KT Millie's Library is ending its ‘AI persona chatbot’ service. Since launching it in May 2024 as the first in the reading-platform industry, the company has used various personas, including authors and characters from books, to widen its points of contact with readers, but the move is seen as a service reorganization in light of low usage, among other factors."
+                "x": "바르샤바 법원은 금요일 한 회사가 Jarosław Łukomski의 목소리를 AI로 복제해 만든 광고가 딥페이크라고 판결했다. 법원은 폴란드에서 가장 잘 알려진 영화 낭독자 중 한 명인 그를 위해 광고 삭제와 공개 사과, 손해배상을 명령했다. 바르샤바 지방법원 지식재산권부는 11월 13일 금요일 판결을 내렸다. 폴란드 언론은 이번 재판을 AI로 복제한 목소리를 둘러싼 국내 첫 재판이라고 부른다. Łukomski는 가정용 오수 처리 탱크를 만드는 JFC Polska의 광고에서 자신과 비슷한 목소리를 듣고 소송을 냈다."
+              },
+              {
+                "t": "video",
+                "yt": "o-CzuhcoWsY"
               },
               {
                 "t": "p",
-                "x": "According to the industry on the 13th, KT Millie's Library will end the ‘AI persona chatbot’ service on December 31. All persona chatbots are affected, including ▲Son Oh-gong from ‘Magic Thousand Characters’ ▲Cha Seon-gyeom and Seo-ri from ‘Gungno’ ▲Grand Duke Claude from ‘Please Bear With Me, Grand Duke’ ▲Socrates ▲Capital T Schopenhauer ▲author Kim Ji-yoon of ‘The World of Mother and Daughter’. All saved conversations will be deleted after the persona chatbots end."
+                "x": "Sylwia Wit vel Wilk 판사는 JFC Polska에 해당 자료를 삭제하고 사과문을 게재하라고 명령했다. 또 Łukomski에게 위자료로 30,000즐로티(약 $7,500)와 이자, 손해액으로 17,000즐로티(약 $4,260) 이상, 그리고 소송 비용을 지급하라고 했다. 판결은 확정되지 않았다."
               },
               {
                 "t": "p",
-                "x": "The persona chatbot was introduced in May 2024 as the first such service on a reading platform. Users can talk with AI chatbots trained on a book's author or protagonist as if in a real conversation. Working with AI startup Mindlogic, it reproduced not only characters' speech but also their ways of thinking, and delivered information about books in a conversational way."
+                "x": "판사는 청취자가 그 말을 흉내의 대상이 된 사람이 실제로 했다고 믿을 수 있었는지가 핵심이라고 말했다. 판결에 따르면 보호 대상은 유명하든 아니든 모든 개인의 목소리다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/scrum.jpg",
+                "cap": "재판 기간 바르샤바 법원에서 기자들과 이야기하는 Łukomski(왼쪽). 이미지: eKoszalin, YouTube"
               },
               {
                 "t": "p",
-                "x": "In particular, the Schopenhauer persona chatbot, launched in September of the same year, passed about 5,000 cumulative users within 2 weeks of launch and recorded about 13만 cumulative messages roughly 2 months after launch, drawing interest from early users."
+                "x": "법원이 지정한 전문가는 두 목소리가 “명백히(혼동할 만큼) 비슷하다”고 판단했다. 회사의 그래픽 디자이너는 폴란드 AI 음성 업체의 도구를 썼다고 말했고, o2.pl은 법정에서 언급된 도구가 ElevenLabs였다고 보도했다."
               },
               {
-                "t": "p",
-                "x": "However, apart from the early buzz, the service appears to have had limits in leading to a sustained reading experience or to consumption of other content on the platform. Although it offered the distinctive experience of conversing with personas, over time it did not draw repeat visits and continued use from users."
-              },
-              {
-                "t": "p",
-                "x": "In March this year, Millie's Library also released an AI persona chatbot featuring Son Oh-gong from ‘Magic Thousand Characters’, continuing the related services. It was an attempt to broaden the user base by adding more types of persona chatbots, but the service is ultimately being wound down."
-              },
-              {
-                "t": "p",
-                "x": "A Millie's Library official explained, “It was a decision that took usability and other factors into account,” adding, “(Beyond the persona chatbots) we are launching new AI-related services and improving existing ones.”"
-              },
-              {
-                "t": "p",
-                "x": "Some say the shutdown is part of a process of reviewing the direction of existing AI-based services and exploring new ways to use AI. Millie's Library has steadily introduced services that bring artificial intelligence into the reading experience, such as ‘AI Objet Book’ and ‘AI Smart Book Recommendation’."
-              },
-              {
-                "t": "p",
-                "x": "It has also made AI one pillar of its platform competitiveness, setting up an in-house division for AI transformation (AX) and focusing on developing related technology and services. Accordingly, work to discover and enhance AI-powered reading services is likely to continue even after the persona chatbots end."
-              },
-              {
-                "t": "p",
-                "x": "An industry official said, “For services using AI technology, what matters more than the launch itself is how often users come back and how conveniently they actually use them,” adding, “From the platform's standpoint as well, adjusting the direction of AI services by weighing user demand and operational efficiency together is inevitable.”"
+                "t": "img",
+                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/booth-4.jpg",
+                "cap": "마이크 앞의 Łukomski. 이미지: #AdiMoovi, YouTube"
               }
             ]
           }
         },
         "ja": {
-          "headline": "ミリの書斎、AI\nペルソナチャットボット終了",
-          "body": "ミリの書斎が利用低迷を受け、AIペルソナチャットボットを12月31日に終了する。",
-          "mini_headline": "ミリの書斎、チャットボット終了",
+          "headline": "ポーランド裁判所、複製音声\n広告はディープフェイク",
+          "body": "ワルシャワ裁判所が、Łukomski氏の声をAIで複製した広告に削除・謝罪・賠償を命じた。",
+          "mini_headline": "複製音声はディープフェイク",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://nimage.newsway.co.kr/photo/2024/07/09/20240709000032_0700.png",
-                "cap": "グラフィック＝イ・チャンヒ記者"
+                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/hero-86.jpg"
               },
               {
                 "t": "p",
-                "x": "KTミリの書斎が「AIペルソナチャットボット」サービスを終了する。2024年5月に読書プラットフォーム業界で初めて導入して以来、作家や本の登場人物などさまざまなペルソナを活用して読者との接点を広げてきたが、低い利用率などを踏まえてサービスの再編に乗り出したとみられる。"
+                "x": "ワルシャワの裁判所は金曜日、ある企業がJarosław Łukomski氏の声をAIで複製して使った広告はディープフェイクだとの判決を下した。ポーランドで最もよく知られた映画ナレーターの一人である同氏のため、広告の削除、公開謝罪、損害賠償を命じた。ワルシャワ地方裁判所の知的財産部は11月13日金曜日に判決を言い渡した。ポーランドのメディアはこの裁判を、AIで複製された声をめぐる国内初の裁判と呼んでいる。Łukomski氏は、家庭用汚水処理タンクを製造するJFC Polskaの広告で自分に似た声を聞き、同社を提訴した。"
+              },
+              {
+                "t": "video",
+                "yt": "o-CzuhcoWsY"
               },
               {
                 "t": "p",
-                "x": "13日の業界関係者によると、KTミリの書斎は12月31日に「AIペルソナチャットボット」サービスを終了する。対象はペルソナチャットボット全体で、▲『魔法千字文』の孫悟空 ▲『宮奴』のチャ・ソンギョムとソリ ▲『我慢してください、大公』のクロード大公 ▲ソクラテス ▲大文字Tのショーペンハウアー ▲『母娘の世界』のキム・ジユン作家が含まれる。ペルソナチャットボットの終了後は、保存された会話内容がすべて削除される予定だ。"
+                "x": "Sylwia Wit vel Wilk裁判官はJFC Polskaに対し、素材の削除と謝罪の公表を命じ、Łukomski氏に慰謝料として30,000ズウォティ（約$7,500）と利息、損失分として17,000ズウォティ（約$4,260）超、さらに訴訟費用を支払うよう命じた。判決は確定していない。"
               },
               {
                 "t": "p",
-                "x": "ペルソナチャットボットは2024年5月に読書プラットフォームで初めて導入されたサービスだ。本の著者や登場人物を学習したAIチャットボットと、実際に会話するようにやり取りできる。AIスタートアップのマインドロジックとも協力し、登場人物の話し方だけでなく考え方まで再現して、会話するように本の情報も伝える方式だった。"
+                "x": "裁判官によれば、重要なのは、聞き手がその言葉を本当に模倣された本人のものだと信じ得たかどうかだ。判決では、保護される利益は、知名度の有無にかかわらず、あらゆる個人の声だとした。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/scrum.jpg",
+                "cap": "裁判期間中、ワルシャワの裁判所で記者の取材に応じるŁukomski氏（左）。画像：eKoszalin、YouTubeより"
               },
               {
                 "t": "p",
-                "x": "特に同年9月に公開したショーペンハウアーのペルソナチャットボットは、公開から2週間で累計ユーザー5000人余りを突破し、約2カ月後には累計メッセージ数が約13만件に達するなど、初期ユーザーの関心を集めた。"
+                "x": "裁判所が任命した専門家は、両者の声が「明らかに（紛らわしいほど）似ている」と判断した。同社のグラフィックデザイナーはポーランドのAI音声企業のツールを使ったと述べ、o2.plによると法廷で名前が挙がったツールはElevenLabsだった。"
               },
               {
-                "t": "p",
-                "x": "しかし初期の話題性とは別に、サービスの利用が継続的な読書体験やプラットフォーム内の他のコンテンツ消費につながるには限界があったとみられる。ペルソナとの対話という差別化された体験を提供したものの、時間がたつにつれ、利用者の繰り返しの訪問や継続的な利用を引き出せなかったということだ。"
-              },
-              {
-                "t": "p",
-                "x": "ミリの書斎は今年3月にも『魔法千字文』の孫悟空を活用したAIペルソナチャットボットを公開するなど、関連サービスを続けてきた。ペルソナチャットボットの種類を増やして利用者層を広げようとする試みだったが、結局サービス終了の手順を踏むことになった。"
-              },
-              {
-                "t": "p",
-                "x": "ミリの書斎の関係者は「使い勝手などを考慮した決定だ」とし、「（ペルソナチャットボット以外にも）AI関連サービスを新たに投入したり改善したりしている」と説明した。"
-              },
-              {
-                "t": "p",
-                "x": "一部では、今回のサービス終了は、既存のAIを取り入れたサービスの運営方針を見直し、新たなAI活用策を模索する過程の一つだとの見方も出ている。ミリの書斎はこれまで「AIオブジェブック」や「AIスマート図書推薦」など、読書体験に人工知能技術を取り入れたサービスを着実に打ち出してきた。"
-              },
-              {
-                "t": "p",
-                "x": "また、社内に人工知能転換（AX）関連の本部を置き、関連技術やサービスの開発にも力を注ぐなど、AIをプラットフォーム競争力の柱の一つとしてきた。このため、ペルソナチャットボット終了後も、AIを活用した読書サービスの発掘と高度化は続く可能性が高いという。"
-              },
-              {
-                "t": "p",
-                "x": "ある業界関係者は「AI技術を活用したサービスは、リリースそのものより、利用者がどれだけ頻繁に訪れ、実際に便利に使っているかが重要だ」とし、「プラットフォームとしても、利用者の需要とサービス運営の効率性を総合的に考慮し、AIサービスの方向性を調整する過程は避けられない」と述べた。"
+                "t": "img",
+                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/booth-4.jpg",
+                "cap": "マイクの前のŁukomski氏。画像：#AdiMoovi、YouTubeより"
               }
             ]
           }
         },
         "zh": {
-          "headline": "米利书房关停AI\n人格聊天机器人",
-          "body": "米利书房因使用率低迷，将于12月31日关停AI人格聊天机器人。",
-          "mini_headline": "米利书房关停聊天机器人",
+          "headline": "波兰法院裁定克隆声音\n广告属深度伪造",
+          "body": "华沙法院就AI复制Jarosław Łukomski声音的广告，下令删除、道歉并赔偿。",
+          "mini_headline": "克隆声音被判深度伪造",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://nimage.newsway.co.kr/photo/2024/07/09/20240709000032_0700.png",
-                "cap": "图表=李灿熙 记者"
+                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/hero-86.jpg"
               },
               {
                 "t": "p",
-                "x": "KT米利书房将关停“AI人格聊天机器人”服务。该服务于2024年5月在阅读平台业界率先推出，此后借助作家和书中角色等多种人格拓宽了与读者的交流触点，但外界解读称，公司是考虑到使用率低迷等因素而着手调整服务。"
+                "x": "华沙一家法院周五裁定，一家公司使用AI复制Jarosław Łukomski声音制作的广告属于深度伪造，并责令下架广告、公开道歉，向这位波兰最知名的电影旁白朗读者之一作出赔偿。华沙地区法院知识产权庭于11月13日周五作出判决，波兰媒体称这是该国首起涉及AI克隆声音的审判。Łukomski在生产家用污水处理罐的公司JFC Polska的广告中听到与自己相似的声音后，对其提起诉讼。"
+              },
+              {
+                "t": "video",
+                "yt": "o-CzuhcoWsY"
               },
               {
                 "t": "p",
-                "x": "据业界13日消息，KT米利书房将于12月31日关停“AI人格聊天机器人”服务。关停对象为全部人格聊天机器人，包括▲《魔法千字文》孙悟空 ▲《宫奴》车善谦、瑟丽 ▲《请忍耐，大公》克劳德大公 ▲苏格拉底 ▲大写T叔本华 ▲《母女的世界》金智允作家。人格聊天机器人关停后，已保存的对话内容将全部删除。"
+                "x": "法官Sylwia Wit vel Wilk责令JFC Polska删除相关素材并发布道歉，向Łukomski支付30,000兹罗提（约$7,500）及利息作为补偿，支付逾17,000兹罗提（约$4,260）作为其损失赔偿，并承担诉讼费用。该判决尚未生效。"
               },
               {
                 "t": "p",
-                "x": "人格聊天机器人是2024年5月在阅读平台中率先引入的服务。用户可以与学习了书籍作者或书中主人公的AI聊天机器人像真实对话一样交流。该服务还与人工智能初创公司Mindlogic合作，不仅再现角色的说话方式，还再现其思维方式，以对话形式传递书籍信息。"
+                "x": "法官表示，关键在于听众是否可能相信这些话确实出自被模仿者之口。根据她的判决，受保护的利益是每一个人的声音，无论其是否知名。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/scrum.jpg",
+                "cap": "审理期间，Łukomski（左）在华沙法院接受记者采访。图片：eKoszalin，来自YouTube"
               },
               {
                 "t": "p",
-                "x": "尤其是同年9月推出的叔本华人格聊天机器人，上线2周内累计用户突破5000余人，上线约2个月后累计消息数达到约13만条，吸引了早期用户的关注。"
+                "x": "法院指定的专家认定两种声音“明显（足以乱真地）相似”。该公司的平面设计师表示，他使用了一家波兰AI语音公司的工具；据o2.pl报道，庭审中提到的工具是ElevenLabs。"
               },
               {
-                "t": "p",
-                "x": "然而，抛开初期的话题性，该服务的使用似乎难以延伸为持续的阅读体验或平台内其他内容的消费。虽然提供了与人格对话这一差异化体验，但随着时间推移，未能带动用户反复访问和持续使用。"
-              },
-              {
-                "t": "p",
-                "x": "米利书房今年3月还推出了以《魔法千字文》孙悟空为原型的AI人格聊天机器人，持续推进相关服务。这原本是通过增加人格聊天机器人种类来扩大用户群的尝试，但最终还是走向了关停。"
-              },
-              {
-                "t": "p",
-                "x": "米利书房相关人士解释称：“这是综合考虑可用性等因素后作出的决定”，“（除人格聊天机器人外）我们正在推出新的AI相关服务或改进现有服务。”"
-              },
-              {
-                "t": "p",
-                "x": "也有观点认为，此次关停是重新审视现有AI融合服务的运营方向、探索新的AI应用方案的过程之一。米利书房此前陆续推出了“AI物件书”“AI智能图书推荐”等将人工智能技术融入阅读体验的服务。"
-              },
-              {
-                "t": "p",
-                "x": "此外，公司内部设立了人工智能转型（AX）相关本部，致力于相关技术和服务开发，将AI作为平台竞争力的支柱之一。因此有分析认为，人格聊天机器人关停后，利用AI的阅读服务的发掘与升级工作很可能会继续。"
-              },
-              {
-                "t": "p",
-                "x": "一位业界人士表示：“对于运用AI技术的服务来说，比推出本身更重要的是用户访问的频率以及实际使用是否便利。”他还说：“从平台角度看，综合考虑用户需求和服务运营效率来调整AI服务方向的过程是不可避免的。”"
+                "t": "img",
+                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/booth-4.jpg",
+                "cap": "Łukomski在麦克风前。图片：#AdiMoovi，来自YouTube"
               }
             ]
           }
         },
         "es": {
-          "headline": "Millie's Library cierra sus\nchatbots de persona con AI",
-          "body": "Millie's Library cerrará sus chatbots de persona con AI el 31 de diciembre por su bajo nivel de uso.",
-          "mini_headline": "Millie's Library cierra sus chatbots",
+          "headline": "Tribunal polaco ve deepfake en\nanuncios con voz clonada",
+          "body": "Un juzgado de Varsovia ordenó retirada, disculpas y daños por anuncios que imitan con AI la voz de Jarosław Łukomski.",
+          "mini_headline": "Voz clonada, declarada deepfake",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://nimage.newsway.co.kr/photo/2024/07/09/20240709000032_0700.png",
-                "cap": "Gráfico = periodista Lee Chan-hee"
+                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/hero-86.jpg"
               },
               {
                 "t": "p",
-                "x": "KT Millie's Library pondrá fin a su servicio de ‘chatbot de persona con AI’. Desde que lo lanzó en mayo de 2024, como el primero del sector de plataformas de lectura, ha ampliado los puntos de contacto con los lectores mediante diversas personas, como autores y personajes de libros, pero se interpreta que ha decidido reorganizar el servicio a la vista de su bajo nivel de uso, entre otros factores."
+                "x": "Un tribunal de Varsovia dictaminó el viernes que los anuncios de una empresa que usaban una copia por AI de la voz de Jarosław Łukomski eran un deepfake. Ordenó retirar los anuncios, publicar disculpas y pagar daños a uno de los lectores de cine más conocidos de Polonia. La división de propiedad intelectual del Tribunal Regional de Varsovia dictó su fallo el viernes 13 de noviembre, al cierre de lo que los medios polacos llaman el primer juicio del país por una voz clonada con AI. Łukomski demandó a JFC Polska, una empresa que fabrica tanques domésticos de tratamiento de aguas residuales, tras oír en sus anuncios una voz parecida a la suya."
+              },
+              {
+                "t": "video",
+                "yt": "o-CzuhcoWsY"
               },
               {
                 "t": "p",
-                "x": "Según fuentes del sector consultadas el día 13, KT Millie's Library cerrará el servicio de ‘chatbot de persona con AI’ el 31 de diciembre. El cierre afecta a todos los chatbots de persona, entre ellos ▲Son Oh-gong de ‘Los mil caracteres mágicos’ ▲Cha Seon-gyeom y Seo-ri de ‘Gungno’ ▲el gran duque Claude de ‘Aguante, gran duque’ ▲Sócrates ▲Schopenhauer de la T mayúscula ▲la autora Kim Ji-yoon de ‘El mundo de madre e hija’. Tras el cierre, se eliminarán todas las conversaciones guardadas."
+                "x": "La jueza Sylwia Wit vel Wilk ordenó a JFC Polska retirar el material y publicar disculpas, y pagar a Łukomski 30,000 eslotis (unos $7,500) con intereses como compensación, más de 17,000 eslotis (unos $4,260) por sus pérdidas y las costas del juicio. El fallo no es firme."
               },
               {
                 "t": "p",
-                "x": "El chatbot de persona se introdujo en mayo de 2024 como el primer servicio de su tipo en una plataforma de lectura. Permite conversar, como si fuera una charla real, con chatbots de AI entrenados con el autor o el protagonista de un libro. En colaboración con la startup de inteligencia artificial Mindlogic, reproducía no solo la forma de hablar de los personajes sino también su manera de pensar, y transmitía información sobre los libros a modo de conversación."
+                "x": "Lo importante, dijo la jueza, es si los oyentes podían creer que las palabras procedían realmente de la persona imitada. Según su fallo, el bien protegido es la voz de cada persona, sea o no conocida."
+              },
+              {
+                "t": "img",
+                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/scrum.jpg",
+                "cap": "Łukomski, a la izquierda, habla con periodistas en el tribunal de Varsovia durante el juicio. Imagen: eKoszalin, en YouTube"
               },
               {
                 "t": "p",
-                "x": "En particular, el chatbot de persona de Schopenhauer, lanzado en septiembre de ese mismo año, superó los 5000 usuarios acumulados en 2 semanas y, unos 2 meses después del lanzamiento, registró cerca de 13만 mensajes acumulados, lo que atrajo el interés de los primeros usuarios."
+                "x": "Un perito designado por el tribunal concluyó que ambas voces eran “claramente (engañosamente) similares”. El diseñador gráfico de la empresa dijo haber usado herramientas de una firma polaca de voz por AI; o2.pl informa de que la herramienta citada en el juicio fue ElevenLabs."
               },
               {
-                "t": "p",
-                "x": "Sin embargo, al margen del interés inicial, el uso del servicio parece haber tenido límites para traducirse en una experiencia de lectura continuada o en el consumo de otros contenidos de la plataforma. Aunque ofrecía la experiencia diferenciada de conversar con una persona, con el tiempo no logró generar visitas repetidas ni un uso sostenido."
-              },
-              {
-                "t": "p",
-                "x": "En marzo de este año, Millie's Library también presentó un chatbot de persona con AI basado en Son Oh-gong de ‘Los mil caracteres mágicos’, dando continuidad a estos servicios. Era un intento de ampliar la base de usuarios con más tipos de chatbots de persona, pero finalmente el servicio va camino del cierre."
-              },
-              {
-                "t": "p",
-                "x": "Un responsable de Millie's Library explicó: “Es una decisión que tiene en cuenta la usabilidad, entre otros aspectos”, y añadió: “(Además de los chatbots de persona) estamos lanzando nuevos servicios relacionados con la AI o mejorándolos”."
-              },
-              {
-                "t": "p",
-                "x": "Algunos opinan que el cierre forma parte de un proceso para revisar la orientación de los servicios existentes basados en AI y buscar nuevas formas de aprovecharla. Millie's Library ha lanzado de forma constante servicios que incorporan la inteligencia artificial a la experiencia de lectura, como ‘AI Objet Book’ y ‘AI Smart Book Recommendation’."
-              },
-              {
-                "t": "p",
-                "x": "Además, cuenta con una división interna dedicada a la transformación con inteligencia artificial (AX) y ha volcado esfuerzos en desarrollar tecnologías y servicios relacionados, convirtiendo la AI en uno de los pilares de la competitividad de la plataforma. Por ello, es muy probable que el desarrollo y la mejora de servicios de lectura con AI continúen incluso tras el cierre de los chatbots de persona."
-              },
-              {
-                "t": "p",
-                "x": "Un representante del sector dijo: “En los servicios que usan tecnología de AI, más que el lanzamiento en sí, importa con qué frecuencia vuelven los usuarios y si realmente les resultan cómodos”, y añadió: “También desde el punto de vista de la plataforma, es inevitable ajustar la orientación de los servicios de AI teniendo en cuenta en conjunto la demanda de los usuarios y la eficiencia operativa”."
+                "t": "img",
+                "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/booth-4.jpg",
+                "cap": "Łukomski ante el micrófono. Imagen: #AdiMoovi, en YouTube"
               }
             ]
           }
@@ -1369,15 +929,15 @@
       }
     },
     {
-      "id": "books-daejeon-ai-anthology",
-      "source_lang": "ko",
+      "id": "books-kakao-ryan-begins-anim",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI 번역 대전문학집에\n교정수당 600만원",
-      "body": "발간사에 AI 번역을 밝힌 대전문학 영어 번역집에 교정수당 600만원이 지급됐다.",
-      "mini_headline": "AI 번역집 교정수당 논란",
+      "headline": "Kakao·OpenAI,\n웹툰 Ryan Begins",
+      "body": "Kakao·OpenAI가 장면당 프롬프트 약 1,500개를 쓴 AI 단편을 냈다.",
+      "mini_headline": "Ryan Begins, AI 애니로",
       "tool": "Books",
-      "source": "더퍼블릭",
-      "url": "https://www.thepublic.kr/news/articleView.html?idxno=326466",
+      "source": "Anime News Network",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-14/kakao-openai-collaborate-on-ai-generated-short-animation-based-on-ryan-begins-webtoon/.243712",
       "accent": "#2ec5c5",
       "motif": "swatch",
       "full": {
@@ -1385,345 +945,425 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.thepublic.kr/news/photo/202611/326466_330422_1256.jpg",
-            "cap": "최대성 대전시의원. /사진 = 대전시의회"
+            "src": "https://cdn.animenewsnetwork.com/thumbnails/max600x600/cms/news.8/222549/3246655_3305364_2723.jpg",
+            "cap": "이미지 출처: Kakao Entertainment 웹사이트 © Kakao Entertianment"
           },
           {
             "t": "p",
-            "x": "대전시가 시비를 들여 발간한 대전문학 번역집이 발간사에 'AI의 힘을 빌려 번역했다'고 적어놓고 번역 교정 수당으로 600만원을 지급한 것으로 확인됐다. 12일 대전시의회 제300회 정례회 행정자치위원회 문화체육관광국 소관 행정사무감사에서 최대성 의원(더불어민주당, 동구 2)이 이같은 내용을 지적했다."
+            "x": "Kakao는 11월 10일 OpenAI와 기술 협업해 인기 캐릭터 Ryan을 주인공으로 한 첫 AI 단편 애니메이션 Ryan Begins를 만들었다고 밝혔다."
           },
           {
             "t": "p",
-            "x": "번역 교정 수당은 5명에게 30만원씩 4회에 걸쳐 모두 600만원이 지급됐다. 번역집은 715쪽 분량이다. 최 의원은 \"715쪽을 번역하는데 한 쪽에 1만원도 되지 않는 돈\"이라며 \"번역을 실제로 한 것은 AI냐, 사람이냐\"고 물었다."
+            "x": "같은 이름의 웹툰이 원작인 이 단편은 약 칠 분 길이로, 기획부터 제작까지 사람의 창작 연출과 생성형 AI 도구를 함께 썼다."
           },
           {
             "t": "p",
-            "x": "문화체육관광국장은 \"AI를 통해 번역하는 것은 맞지 않다\"며 \"문학 작품은 행간의 뉘앙스를 의역해야 하기 때문\"이라고 답했다. 이어 \"사업 내역들을 확인해 본 결과 전체적으로 부적절한 사업으로 평가하고 있다\"고 했다."
+            "x": "Netflix 애니메이션 영화 Lost in Starlight를 연출한 Jiwon Han 감독과 AI 슈퍼바이저 Young-jun Kim이 제작진에 참여했다. 팀은 장면 스케치와 상세한 프롬프트를 넣어 ChatGPT의 이미지 생성 기능으로 초기 이미지를 뽑았다. 아티스트들은 이 이미지를 직접 다듬고 고쳐 의도한 시각적 완성도까지 끌어올렸다."
+          },
+          {
+            "t": "video",
+            "yt": "REXgHT6Y_oo"
           },
           {
             "t": "p",
-            "x": "최 의원은 이해충돌과 중복 지원 문제도 제기했다. 책에 편집 또는 번역으로 이름이 오른 7명 중 4명은 본인 작품이 실렸고, 해당 협회는 대전문학 발간에 시비 2700만원, 번역집 발간에 3000만원 등 올해만 5700만원을 받았다. 번역집 800부 가운데 504부(63%)는 해외로 나갔지만 받은 곳은 모두 한국문인협회 해외지부, 미주 한인 문화단체, 해외 거주 회원이었고, 공공·대학도서관에 간 것은 27부(3.4%)였다."
+            "x": "제작진은 원하는 연출과 감정의 결을 얻으려고 한 장면에만 프롬프트를 약 1,500개 썼다고 밝혔다."
           },
           {
             "t": "p",
-            "x": "최 의원은 \"번역은 AI로 해놓고 책은 대부분 한인 문인과 회원에게 갔다\"고 지적하며 번역가와 교정 선정 자료, 수당 지급 명단, 심사 자료, 발송 정산서 제출을 요구했고, 문화체육관광국은 자료를 제출하기로 했다."
+            "x": "Kakao는 11월 8일 서울 성수동(Seongsu-dong) Movieland에서 특별 사전 상영회와 Q&A 행사를 열었다. 현장에는 애니메이션 제작 과정을 보여주는 전시도 마련됐다. Q&A 티켓은 판매를 시작한 지 하루 만에 매진됐다."
+          },
+          {
+            "t": "p",
+            "x": "Han 감독은 대사나 과장된 표정에 기대지 않고 Ryan의 감정을 전하는 데 집중했고, 관객이 이야기를 저마다 해석하게 했다고 말했다. Kim은 AI-generated 이미지가 의도한 감정의 결에서 벗어날 때마다 거듭 손봤다며, 최종 결과를 정한 건 창작자들의 판단과 손작업이었다고 강조했다."
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "AI 번역 대전문학집에\n교정수당 600만원",
-          "body": "발간사에 AI 번역을 밝힌 대전문학 영어 번역집에 교정수당 600만원이 지급됐다.",
-          "mini_headline": "AI 번역집 교정수당 논란",
+        "en": {
+          "headline": "Kakao and OpenAI animate\nthe Ryan Begins webtoon",
+          "body": "Kakao and OpenAI released an AI-generated short based on Ryan Begins, using about 1,500 prompts for a single scene.",
+          "mini_headline": "Ryan Begins goes AI anime",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.thepublic.kr/news/photo/202611/326466_330422_1256.jpg",
-                "cap": "최대성 대전시의원. /사진 = 대전시의회"
+                "src": "https://cdn.animenewsnetwork.com/thumbnails/max600x600/cms/news.8/222549/3246655_3305364_2723.jpg",
+                "cap": "Image via Kakao Entertainment's website © Kakao Entertianment"
               },
               {
                 "t": "p",
-                "x": "대전시가 시비를 들여 발간한 대전문학 번역집이 발간사에 'AI의 힘을 빌려 번역했다'고 적어놓고 번역 교정 수당으로 600만원을 지급한 것으로 확인됐다. 12일 대전시의회 제300회 정례회 행정자치위원회 문화체육관광국 소관 행정사무감사에서 최대성 의원(더불어민주당, 동구 2)이 이같은 내용을 지적했다."
+                "x": "Kakao announced on November 10 that it has produced Ryan Begins, the first AI short animation starring its popular character Ryan, through a technology collaboration with OpenAI."
               },
               {
                 "t": "p",
-                "x": "번역 교정 수당은 5명에게 30만원씩 4회에 걸쳐 모두 600만원이 지급됐다. 번역집은 715쪽 분량이다. 최 의원은 \"715쪽을 번역하는데 한 쪽에 1만원도 되지 않는 돈\"이라며 \"번역을 실제로 한 것은 AI냐, 사람이냐\"고 물었다."
+                "x": "Based on the the webtoon of the same name, the approximately seven-minute short combines human creative direction with generative AI tools in its planning and production."
               },
               {
                 "t": "p",
-                "x": "문화체육관광국장은 \"AI를 통해 번역하는 것은 맞지 않다\"며 \"문학 작품은 행간의 뉘앙스를 의역해야 하기 때문\"이라고 답했다. 이어 \"사업 내역들을 확인해 본 결과 전체적으로 부적절한 사업으로 평가하고 있다\"고 했다."
+                "x": "The production team includes director Jiwon Han, who directed Netflix's animated film Lost in Starlight, and AI supervisor Young-jun Kim. The team used ChatGPT's image generation feature to create initial images based on scene sketches and detailed prompts. Artists then manually refined and revised the images to achieve the intended visual quality."
+              },
+              {
+                "t": "video",
+                "yt": "REXgHT6Y_oo"
               },
               {
                 "t": "p",
-                "x": "최 의원은 이해충돌과 중복 지원 문제도 제기했다. 책에 편집 또는 번역으로 이름이 오른 7명 중 4명은 본인 작품이 실렸고, 해당 협회는 대전문학 발간에 시비 2700만원, 번역집 발간에 3000만원 등 올해만 5700만원을 받았다. 번역집 800부 가운데 504부(63%)는 해외로 나갔지만 받은 곳은 모두 한국문인협회 해외지부, 미주 한인 문화단체, 해외 거주 회원이었고, 공공·대학도서관에 간 것은 27부(3.4%)였다."
+                "x": "According to the production team, they used approximately 1,500 prompts for a single scene to achieve the desired direction and emotional tone."
               },
               {
                 "t": "p",
-                "x": "최 의원은 \"번역은 AI로 해놓고 책은 대부분 한인 문인과 회원에게 갔다\"고 지적하며 번역가와 교정 선정 자료, 수당 지급 명단, 심사 자료, 발송 정산서 제출을 요구했고, 문화체육관광국은 자료를 제출하기로 했다."
+                "x": "Kakao held a special advance screening and a Q&A session on November 8 at Movieland in Seongsu-dong, Seoul. The event also featured an exhibition showcasing the animation's production process. Tickets for the Q&A session sold out within a day of going on sale."
+              },
+              {
+                "t": "p",
+                "x": "Han said the team focused on conveying Ryan's emotions without relying on dialogue or exaggerated facial expressions, allowing viewers to find their own interpretations of the story. Kim added that the team repeatedly revised AI-generated images whenever they did not match the intended emotional tone, emphasizing that the creators' decisions and hands-on work determined the final result."
               }
             ]
           }
         },
-        "en": {
-          "headline": "AI-Translated Daejeon Anthology\nPaid 600만원 for Proofreading",
-          "body": "Proofreading fees of 600만원 were paid for an English Daejeon literature anthology whose preface cited AI translation.",
-          "mini_headline": "AI Anthology Proofreading Fee Row",
+        "ko": {
+          "headline": "Kakao·OpenAI,\n웹툰 Ryan Begins",
+          "body": "Kakao·OpenAI가 장면당 프롬프트 약 1,500개를 쓴 AI 단편을 냈다.",
+          "mini_headline": "Ryan Begins, AI 애니로",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.thepublic.kr/news/photo/202611/326466_330422_1256.jpg",
-                "cap": "Daejeon City Council member Choi Dae-sung. / Photo = Daejeon City Council"
+                "src": "https://cdn.animenewsnetwork.com/thumbnails/max600x600/cms/news.8/222549/3246655_3305364_2723.jpg",
+                "cap": "이미지 출처: Kakao Entertainment 웹사이트 © Kakao Entertianment"
               },
               {
                 "t": "p",
-                "x": "A translated collection of Daejeon literature, published by Daejeon City with city funds, stated in its preface that it was ‘translated with the help of AI’, yet paid 600만원 in translation proofreading fees, it has been confirmed. Council member Choi Dae-sung (Democratic Party of Korea, Dong-gu 2) raised the issue on the 12th during the administrative audit of the Culture, Sports and Tourism Bureau by the Administrative Autonomy Committee at the 300th regular session of the Daejeon City Council."
+                "x": "Kakao는 11월 10일 OpenAI와 기술 협업해 인기 캐릭터 Ryan을 주인공으로 한 첫 AI 단편 애니메이션 Ryan Begins를 만들었다고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "Translation proofreading fees totaling 600만원 were paid to 5 people at 30만원 each over 4 rounds. The anthology runs 715 pages. Choi said, “That is less than 1만원 a page to translate 715 pages,” and asked, “Who actually did the translation, AI or people?”"
+                "x": "같은 이름의 웹툰이 원작인 이 단편은 약 칠 분 길이로, 기획부터 제작까지 사람의 창작 연출과 생성형 AI 도구를 함께 썼다."
               },
               {
                 "t": "p",
-                "x": "The director of the Culture, Sports and Tourism Bureau replied, “Translating through AI is not right,” “because literary works require free translation of the nuances between the lines.” The director added, “Having reviewed the project details, we assess it as an inappropriate project overall.”"
+                "x": "Netflix 애니메이션 영화 Lost in Starlight를 연출한 Jiwon Han 감독과 AI 슈퍼바이저 Young-jun Kim이 제작진에 참여했다. 팀은 장면 스케치와 상세한 프롬프트를 넣어 ChatGPT의 이미지 생성 기능으로 초기 이미지를 뽑았다. 아티스트들은 이 이미지를 직접 다듬고 고쳐 의도한 시각적 완성도까지 끌어올렸다."
+              },
+              {
+                "t": "video",
+                "yt": "REXgHT6Y_oo"
               },
               {
                 "t": "p",
-                "x": "Choi also raised conflict-of-interest and duplicate-funding issues. Of the 7 people credited in the book as editors or translators, 4 had their own works included, and the association received 5700만원 this year alone, including 2700만원 in city funds for publishing Daejeon Literature and 3000만원 for publishing the translated anthology. Of the anthology's 800 copies, 504 (63%) went overseas, but all recipients were overseas branches of the Korean Writers' Association, Korean cultural groups in the Americas and members living abroad, while only 27 copies (3.4%) went to public and university libraries."
+                "x": "제작진은 원하는 연출과 감정의 결을 얻으려고 한 장면에만 프롬프트를 약 1,500개 썼다고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "Choi pointed out, “The translation was done with AI, and most of the books went to Korean writers and members,” and requested translator and proofreader selection records, the fee payment list, review materials and shipping settlement statements; the Culture, Sports and Tourism Bureau agreed to submit them."
+                "x": "Kakao는 11월 8일 서울 성수동(Seongsu-dong) Movieland에서 특별 사전 상영회와 Q&A 행사를 열었다. 현장에는 애니메이션 제작 과정을 보여주는 전시도 마련됐다. Q&A 티켓은 판매를 시작한 지 하루 만에 매진됐다."
+              },
+              {
+                "t": "p",
+                "x": "Han 감독은 대사나 과장된 표정에 기대지 않고 Ryan의 감정을 전하는 데 집중했고, 관객이 이야기를 저마다 해석하게 했다고 말했다. Kim은 AI-generated 이미지가 의도한 감정의 결에서 벗어날 때마다 거듭 손봤다며, 최종 결과를 정한 건 창작자들의 판단과 손작업이었다고 강조했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI翻訳の大田文学集に\n校正手当600만원",
-          "body": "序文でAI翻訳を明かした大田文学の英訳集に、校正手当600만원が支払われた。",
-          "mini_headline": "AI翻訳集の校正手当に疑問",
+          "headline": "KakaoとOpenAIが\nRyan Begins映像化",
+          "body": "KakaoとOpenAIが、一場面に約1,500のプロンプトを使ったAI短編を公開した。",
+          "mini_headline": "Ryan BeginsがAIアニメに",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.thepublic.kr/news/photo/202611/326466_330422_1256.jpg",
-                "cap": "チェ・デソン大田市議会議員。／写真＝大田市議会"
+                "src": "https://cdn.animenewsnetwork.com/thumbnails/max600x600/cms/news.8/222549/3246655_3305364_2723.jpg",
+                "cap": "画像：Kakao Entertainmentのウェブサイトより © Kakao Entertianment"
               },
               {
                 "t": "p",
-                "x": "大田市が市費を投じて発行した大田文学の翻訳集が、発刊の辞に「AIの力を借りて翻訳した」と記しながら、翻訳校正手当として600만원を支払っていたことが分かった。12日、大田市議会第300回定例会の行政自治委員会による文化体育観光局所管の行政事務監査で、チェ・デソン議員（共に民主党、東区2）がこの点を指摘した。"
+                "x": "Kakaoは11月10日、OpenAIとの技術協業により、人気キャラクターRyanが主演する初のAI短編アニメーション『Ryan Begins』を制作したと発表した。"
               },
               {
                 "t": "p",
-                "x": "翻訳校正手当は5人に30만원ずつ4回にわたり、計600만원が支払われた。翻訳集は715ページに及ぶ。チェ議員は「715ページを翻訳するのに1ページ1만원にも満たない金額だ」とし、「実際に翻訳したのはAIなのか、人なのか」と問いただした。"
+                "x": "同名のウェブトゥーンを原作とする約七分の短編で、企画と制作において人間による創作上の演出と生成AIツールを組み合わせた。"
               },
               {
                 "t": "p",
-                "x": "文化体育観光局長は「AIで翻訳するのは適切ではない」とし、「文学作品は行間のニュアンスを意訳しなければならないからだ」と答えた。さらに「事業内容を確認した結果、全体として不適切な事業と評価している」と述べた。"
+                "x": "制作陣には、Netflixのアニメーション映画『Lost in Starlight』を監督したJiwon Han監督と、AIスーパーバイザーのYoung-jun Kim氏が名を連ねる。チームはChatGPTの画像生成機能を使い、シーンのスケッチと詳細なプロンプトをもとに初期画像を作成した。その後、アーティストが意図した映像品質に達するよう手作業で画像を磨き上げ、修正した。"
+              },
+              {
+                "t": "video",
+                "yt": "REXgHT6Y_oo"
               },
               {
                 "t": "p",
-                "x": "チェ議員は利益相反と重複支援の問題も提起した。本に編集または翻訳として名前が載った7人のうち4人は自身の作品が掲載されており、当該協会は大田文学の発行に市費2700만원、翻訳集の発行に3000만원など、今年だけで5700만원を受け取った。翻訳集800部のうち504部（63%）は海外に送られたが、受け取ったのはすべて韓国文人協会の海外支部、米州の韓人文化団体、海外在住の会員で、公共・大学図書館に送られたのは27部（3.4%）だった。"
+                "x": "制作陣によると、狙った演出と感情のトーンを得るため、一つの場面だけで約1,500のプロンプトを使ったという。"
               },
               {
                 "t": "p",
-                "x": "チェ議員は「翻訳はAIで済ませ、本は大半が韓人文人と会員に渡った」と指摘し、翻訳者と校正者の選定資料、手当支給名簿、審査資料、発送精算書の提出を求め、文化体育観光局は資料を提出することにした。"
+                "x": "Kakaoは11月8日、ソウル・聖水洞（Seongsu-dong）のMovielandで特別先行上映会とQ&Aセッションを開いた。会場ではアニメーションの制作過程を紹介する展示も行われた。Q&Aセッションのチケットは発売から一日もたたずに完売した。"
+              },
+              {
+                "t": "p",
+                "x": "Han監督は、セリフや誇張した表情に頼らずにRyanの感情を伝えることに注力し、観客がそれぞれ物語を解釈できるようにしたと語った。Kim氏は、AI生成（AI-generated）の画像が意図した感情のトーンに合わないたびに繰り返し修正したと述べ、最終的な結果を決めたのは制作者の判断と手作業だったと強調した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI翻译大田文学集\n校对津贴600만원",
-          "body": "序言注明AI翻译的大田文学英译集，却支付了600만원校对津贴。",
-          "mini_headline": "AI译集校对津贴引争议",
+          "headline": "Kakao携手OpenAI\nRyan Begins动画化",
+          "body": "Kakao与OpenAI发布AI短片，单个场景使用约1,500条提示词。",
+          "mini_headline": "Ryan Begins变身AI动画",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.thepublic.kr/news/photo/202611/326466_330422_1256.jpg",
-                "cap": "大田市议员崔大成。/照片=大田市议会"
+                "src": "https://cdn.animenewsnetwork.com/thumbnails/max600x600/cms/news.8/222549/3246655_3305364_2723.jpg",
+                "cap": "图片来自Kakao Entertainment官网 © Kakao Entertianment"
               },
               {
                 "t": "p",
-                "x": "大田市动用市财政出版的大田文学翻译集，在发刊词中写明“借助AI的力量进行翻译”，却支付了600만원的翻译校对津贴。12日，在大田市议会第300次定例会行政自治委员会对文化体育观光局的行政事务监察中，崔大成议员（共同民主党，东区2）指出了这一问题。"
+                "x": "Kakao于11月10日宣布，通过与OpenAI的技术合作，制作了由人气角色Ryan主演的首部AI动画短片《Ryan Begins》。"
               },
               {
                 "t": "p",
-                "x": "翻译校对津贴分4次向5人每人支付30만원，共计600만원。翻译集篇幅为715页。崔议员表示：“翻译715页，每页还不到1만원”，并质问：“实际做翻译的是AI还是人？”"
+                "x": "这部约七分钟的短片改编自同名网络漫画，在策划和制作中将人类的创意指导与生成式AI工具相结合。"
               },
               {
                 "t": "p",
-                "x": "文化体育观光局局长回答：“通过AI翻译是不合适的”，“因为文学作品需要意译字里行间的微妙含义。”他还表示：“核查项目明细后，整体上评估其为不恰当的项目。”"
+                "x": "制作团队包括曾执导Netflix动画电影《Lost in Starlight》的导演Jiwon Han，以及AI总监Young-jun Kim。团队利用ChatGPT的图像生成功能，根据场景草图和详细提示词生成初始图像，再由美术人员手工打磨和修改，以达到预期的视觉品质。"
+              },
+              {
+                "t": "video",
+                "yt": "REXgHT6Y_oo"
               },
               {
                 "t": "p",
-                "x": "崔议员还提出了利益冲突和重复资助问题。书中以编辑或译者身份署名的7人中，有4人的作品被收录，该协会今年仅从大田文学出版获得市财政2700만원、从翻译集出版获得3000만원等，共计5700만원。翻译集800册中有504册（63%）寄往海外，但接收方全部是韩国文人协会海外分会、美洲韩人文化团体和海外会员，送往公共图书馆和大学图书馆的仅27册（3.4%）。"
+                "x": "据制作团队介绍，为实现理想的导演效果和情感基调，他们仅一个场景就使用了约1,500条提示词。"
               },
               {
                 "t": "p",
-                "x": "崔议员指出：“翻译用AI完成，书却大多送给了韩人文人和会员”，并要求提交译者与校对人员遴选资料、津贴发放名单、审查资料和寄送结算单，文化体育观光局表示将提交相关资料。"
+                "x": "Kakao于11月8日在首尔圣水洞（Seongsu-dong）的Movieland举行了特别提前放映会和Q&A活动，现场还展出了这部动画的制作过程。Q&A活动门票开售不到一天即告售罄。"
+              },
+              {
+                "t": "p",
+                "x": "Han表示，团队专注于在不依赖对白或夸张面部表情的情况下传达Ryan的情感，让观众自行解读故事。Kim补充说，每当AI-generated图像与预期的情感基调不符，团队就会反复修改，并强调最终结果取决于创作者的判断和亲手完成的工作。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Antología traducida con AI:\n600만원 en pagos de corrección",
-          "body": "Se pagaron 600만원 en corrección para una antología en inglés de Daejeon cuyo prólogo admite traducción con AI.",
-          "mini_headline": "Polémica por la corrección de una antología AI",
+          "headline": "Kakao y OpenAI animan el webtoon\nRyan Begins",
+          "body": "Kakao y OpenAI lanzaron un corto generado con AI basado en Ryan Begins, con unos 1,500 prompts para una sola escena.",
+          "mini_headline": "Ryan Begins, animado con AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.thepublic.kr/news/photo/202611/326466_330422_1256.jpg",
-                "cap": "Choi Dae-sung, concejal de Daejeon. / Foto = Consejo Municipal de Daejeon"
+                "src": "https://cdn.animenewsnetwork.com/thumbnails/max600x600/cms/news.8/222549/3246655_3305364_2723.jpg",
+                "cap": "Imagen vía el sitio web de Kakao Entertainment © Kakao Entertianment"
               },
               {
                 "t": "p",
-                "x": "Se ha confirmado que una antología traducida de literatura de Daejeon, publicada por la ciudad de Daejeon con fondos municipales, afirmaba en su prólogo que se había ‘traducido con la ayuda de la AI’ y, aun así, pagó 600만원 en dietas por corrección de la traducción. El concejal Choi Dae-sung (Partido Democrático, Dong-gu 2) lo señaló el día 12 durante la auditoría administrativa de la Dirección de Cultura, Deporte y Turismo realizada por el Comité de Administración y Autonomía en la sesión ordinaria número 300 del Consejo Municipal de Daejeon."
+                "x": "Kakao anunció el 10 de noviembre que ha producido Ryan Begins, la primera animación corta con AI protagonizada por su popular personaje Ryan, mediante una colaboración tecnológica con OpenAI."
               },
               {
                 "t": "p",
-                "x": "Las dietas por corrección se pagaron a 5 personas, 30만원 a cada una en 4 ocasiones, por un total de 600만원. La antología tiene 715 páginas. Choi dijo: “Para traducir 715 páginas, es menos de 1만원 por página”, y preguntó: “¿Quién tradujo realmente, la AI o una persona?”."
+                "x": "Basado en el webtoon del mismo nombre, el corto, de unos siete minutos, combina la dirección creativa humana con herramientas de AI generativa en su planificación y producción."
               },
               {
                 "t": "p",
-                "x": "El director de Cultura, Deporte y Turismo respondió: “No es correcto traducir mediante AI”, “porque las obras literarias exigen una traducción libre de los matices entre líneas”. Y añadió: “Tras revisar los detalles del proyecto, lo consideramos un proyecto inadecuado en su conjunto”."
+                "x": "El equipo de producción incluye a Jiwon Han, que dirigió la película animada de Netflix Lost in Starlight, y al supervisor de AI Young-jun Kim. El equipo usó la función de generación de imágenes de ChatGPT para crear imágenes iniciales a partir de bocetos de escenas y prompts detallados. Después, los artistas refinaron y revisaron las imágenes a mano para lograr la calidad visual buscada."
+              },
+              {
+                "t": "video",
+                "yt": "REXgHT6Y_oo"
               },
               {
                 "t": "p",
-                "x": "Choi también planteó problemas de conflicto de intereses y de financiación duplicada. De las 7 personas que figuran en el libro como editores o traductores, 4 tenían obras propias incluidas, y la asociación recibió este año 5700만원, entre ellos 2700만원 de fondos municipales para publicar Daejeon Literature y 3000만원 para publicar la antología traducida. De los 800 ejemplares, 504 (63%) se enviaron al extranjero, pero todos los destinatarios fueron delegaciones en el exterior de la Asociación de Escritores de Corea, organizaciones culturales coreanas en América y miembros residentes en el extranjero; solo 27 ejemplares (3.4%) fueron a bibliotecas públicas y universitarias."
+                "x": "Según el equipo de producción, usaron unos 1,500 prompts para una sola escena a fin de lograr la dirección y el tono emocional deseados."
               },
               {
                 "t": "p",
-                "x": "Choi señaló: “La traducción se hizo con AI y la mayoría de los libros fueron a escritores y miembros coreanos”, y pidió los documentos de selección de traductores y correctores, la lista de pagos de dietas, los materiales de evaluación y las liquidaciones de envío; la Dirección de Cultura, Deporte y Turismo acordó presentarlos."
+                "x": "Kakao celebró un preestreno especial y una sesión de Q&A el 8 de noviembre en Movieland, en Seongsu-dong, Seúl. El evento incluyó también una exposición sobre el proceso de producción de la animación. Las entradas para la sesión de Q&A se agotaron en menos de un día tras salir a la venta."
+              },
+              {
+                "t": "p",
+                "x": "Han dijo que el equipo se centró en transmitir las emociones de Ryan sin depender de diálogos ni de expresiones faciales exageradas, para que el público encontrara su propia interpretación de la historia. Kim añadió que el equipo revisaba una y otra vez las imágenes generadas con AI (AI-generated) cuando no coincidían con el tono emocional buscado, y subrayó que las decisiones y el trabajo manual de los creadores determinaron el resultado final."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "AI-Translated Daejeon Anthology\nPaid 600만원 for Proofreading",
-          "body": "Proofreading fees of 600만원 were paid for an English Daejeon literature anthology whose preface cited AI translation.",
-          "mini_headline": "AI Anthology Proofreading Fee Row",
+        "ko": {
+          "headline": "Kakao·OpenAI,\n웹툰 Ryan Begins",
+          "body": "Kakao·OpenAI가 장면당 약 1,500개 프롬프트로 AI 단편을 냈다.",
+          "mini_headline": "Ryan Begins, AI 애니로",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.thepublic.kr/news/photo/202611/326466_330422_1256.jpg",
-                "cap": "Daejeon City Council member Choi Dae-sung. / Photo = Daejeon City Council"
+                "src": "https://cdn.animenewsnetwork.com/thumbnails/max600x600/cms/news.8/222549/3246655_3305364_2723.jpg",
+                "cap": "이미지 출처: Kakao Entertainment 웹사이트 © Kakao Entertianment"
               },
               {
                 "t": "p",
-                "x": "A translated collection of Daejeon literature, published by Daejeon City with city funds, stated in its preface that it was ‘translated with the help of AI’, yet paid 600만원 in translation proofreading fees, it has been confirmed. Council member Choi Dae-sung (Democratic Party of Korea, Dong-gu 2) raised the issue on the 12th during the administrative audit of the Culture, Sports and Tourism Bureau by the Administrative Autonomy Committee at the 300th regular session of the Daejeon City Council."
+                "x": "Kakao는 11월 10일 OpenAI와의 기술 협업으로 인기 캐릭터 Ryan이 주인공인 첫 AI 단편 애니메이션 Ryan Begins를 제작했다고 발표했다."
               },
               {
                 "t": "p",
-                "x": "Translation proofreading fees totaling 600만원 were paid to 5 people at 30만원 each over 4 rounds. The anthology runs 715 pages. Choi said, “That is less than 1만원 a page to translate 715 pages,” and asked, “Who actually did the translation, AI or people?”"
+                "x": "같은 이름의 웹툰을 원작으로 한 약 칠 분 길이의 이 단편은 기획과 제작 과정에서 사람의 창작 연출과 생성형 AI 도구를 결합했다."
               },
               {
                 "t": "p",
-                "x": "The director of the Culture, Sports and Tourism Bureau replied, “Translating through AI is not right,” “because literary works require free translation of the nuances between the lines.” The director added, “Having reviewed the project details, we assess it as an inappropriate project overall.”"
+                "x": "제작진에는 Netflix 애니메이션 영화 Lost in Starlight를 연출한 Jiwon Han 감독과 AI 슈퍼바이저 Young-jun Kim이 참여했다. 팀은 ChatGPT의 이미지 생성 기능으로 장면 스케치와 상세한 프롬프트를 바탕으로 초기 이미지를 만들었다. 이후 아티스트들이 의도한 시각적 완성도에 이르도록 이미지를 직접 다듬고 고쳤다."
+              },
+              {
+                "t": "video",
+                "yt": "REXgHT6Y_oo"
               },
               {
                 "t": "p",
-                "x": "Choi also raised conflict-of-interest and duplicate-funding issues. Of the 7 people credited in the book as editors or translators, 4 had their own works included, and the association received 5700만원 this year alone, including 2700만원 in city funds for publishing Daejeon Literature and 3000만원 for publishing the translated anthology. Of the anthology's 800 copies, 504 (63%) went overseas, but all recipients were overseas branches of the Korean Writers' Association, Korean cultural groups in the Americas and members living abroad, while only 27 copies (3.4%) went to public and university libraries."
+                "x": "제작진에 따르면 원하는 연출과 감정의 결을 얻기 위해 한 장면에만 약 1,500개의 프롬프트를 썼다."
               },
               {
                 "t": "p",
-                "x": "Choi pointed out, “The translation was done with AI, and most of the books went to Korean writers and members,” and requested translator and proofreader selection records, the fee payment list, review materials and shipping settlement statements; the Culture, Sports and Tourism Bureau agreed to submit them."
+                "x": "Kakao는 11월 8일 서울 성수동(Seongsu-dong) Movieland에서 특별 사전 상영회와 Q&A 행사를 열었다. 행사장에서는 애니메이션 제작 과정을 보여주는 전시도 함께 열렸다. Q&A 티켓은 판매 시작 하루 만에 매진됐다."
+              },
+              {
+                "t": "p",
+                "x": "Han 감독은 대사나 과장된 표정에 기대지 않고 Ryan의 감정을 전하는 데 집중해 관객이 이야기를 저마다 해석할 수 있게 했다고 말했다. Kim은 AI-generated 이미지가 의도한 감정의 결과 맞지 않을 때마다 거듭 수정했다며, 최종 결과를 정한 것은 창작자들의 판단과 손으로 한 작업이었다고 강조했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI翻訳の大田文学集に\n校正手当600만원",
-          "body": "序文でAI翻訳を明かした大田文学の英訳集に、校正手当600만원が支払われた。",
-          "mini_headline": "AI翻訳集の校正手当に疑問",
+          "headline": "KakaoとOpenAIが\nRyan Begins映像化",
+          "body": "KakaoとOpenAIが、一場面に約1,500のプロンプトを使ったAI短編を公開した。",
+          "mini_headline": "Ryan BeginsがAIアニメに",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.thepublic.kr/news/photo/202611/326466_330422_1256.jpg",
-                "cap": "チェ・デソン大田市議会議員。／写真＝大田市議会"
+                "src": "https://cdn.animenewsnetwork.com/thumbnails/max600x600/cms/news.8/222549/3246655_3305364_2723.jpg",
+                "cap": "画像：Kakao Entertainmentのウェブサイトより © Kakao Entertianment"
               },
               {
                 "t": "p",
-                "x": "大田市が市費を投じて発行した大田文学の翻訳集が、発刊の辞に「AIの力を借りて翻訳した」と記しながら、翻訳校正手当として600만원を支払っていたことが分かった。12日、大田市議会第300回定例会の行政自治委員会による文化体育観光局所管の行政事務監査で、チェ・デソン議員（共に民主党、東区2）がこの点を指摘した。"
+                "x": "Kakaoは11月10日、OpenAIとの技術協業により、人気キャラクターRyanが主演する初のAI短編アニメーション『Ryan Begins』を制作したと発表した。"
               },
               {
                 "t": "p",
-                "x": "翻訳校正手当は5人に30만원ずつ4回にわたり、計600만원が支払われた。翻訳集は715ページに及ぶ。チェ議員は「715ページを翻訳するのに1ページ1만원にも満たない金額だ」とし、「実際に翻訳したのはAIなのか、人なのか」と問いただした。"
+                "x": "同名のウェブトゥーンを原作とする約七分の短編で、企画と制作において人間による創作上の演出と生成AIツールを組み合わせた。"
               },
               {
                 "t": "p",
-                "x": "文化体育観光局長は「AIで翻訳するのは適切ではない」とし、「文学作品は行間のニュアンスを意訳しなければならないからだ」と答えた。さらに「事業内容を確認した結果、全体として不適切な事業と評価している」と述べた。"
+                "x": "制作陣には、Netflixのアニメーション映画『Lost in Starlight』を監督したJiwon Han監督と、AIスーパーバイザーのYoung-jun Kim氏が名を連ねる。チームはChatGPTの画像生成機能を使い、シーンのスケッチと詳細なプロンプトをもとに初期画像を作成した。その後、アーティストが意図した映像品質に達するよう手作業で画像を磨き上げ、修正した。"
+              },
+              {
+                "t": "video",
+                "yt": "REXgHT6Y_oo"
               },
               {
                 "t": "p",
-                "x": "チェ議員は利益相反と重複支援の問題も提起した。本に編集または翻訳として名前が載った7人のうち4人は自身の作品が掲載されており、当該協会は大田文学の発行に市費2700만원、翻訳集の発行に3000만원など、今年だけで5700만원を受け取った。翻訳集800部のうち504部（63%）は海外に送られたが、受け取ったのはすべて韓国文人協会の海外支部、米州の韓人文化団体、海外在住の会員で、公共・大学図書館に送られたのは27部（3.4%）だった。"
+                "x": "制作陣によると、狙った演出と感情のトーンを得るため、一つの場面だけで約1,500のプロンプトを使ったという。"
               },
               {
                 "t": "p",
-                "x": "チェ議員は「翻訳はAIで済ませ、本は大半が韓人文人と会員に渡った」と指摘し、翻訳者と校正者の選定資料、手当支給名簿、審査資料、発送精算書の提出を求め、文化体育観光局は資料を提出することにした。"
+                "x": "Kakaoは11月8日、ソウル・聖水洞（Seongsu-dong）のMovielandで特別先行上映会とQ&Aセッションを開いた。会場ではアニメーションの制作過程を紹介する展示も行われた。Q&Aセッションのチケットは発売から一日もたたずに完売した。"
+              },
+              {
+                "t": "p",
+                "x": "Han監督は、セリフや誇張した表情に頼らずにRyanの感情を伝えることに注力し、観客がそれぞれ物語を解釈できるようにしたと語った。Kim氏は、AI生成（AI-generated）の画像が意図した感情のトーンに合わないたびに繰り返し修正したと述べ、最終的な結果を決めたのは制作者の判断と手作業だったと強調した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI翻译大田文学集\n校对津贴600만원",
-          "body": "序言注明AI翻译的大田文学英译集，却支付了600만원校对津贴。",
-          "mini_headline": "AI译集校对津贴引争议",
+          "headline": "Kakao携手OpenAI\nRyan Begins动画化",
+          "body": "Kakao与OpenAI发布AI短片，单个场景使用约1,500条提示词。",
+          "mini_headline": "Ryan Begins变身AI动画",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.thepublic.kr/news/photo/202611/326466_330422_1256.jpg",
-                "cap": "大田市议员崔大成。/照片=大田市议会"
+                "src": "https://cdn.animenewsnetwork.com/thumbnails/max600x600/cms/news.8/222549/3246655_3305364_2723.jpg",
+                "cap": "图片来自Kakao Entertainment官网 © Kakao Entertianment"
               },
               {
                 "t": "p",
-                "x": "大田市动用市财政出版的大田文学翻译集，在发刊词中写明“借助AI的力量进行翻译”，却支付了600만원的翻译校对津贴。12日，在大田市议会第300次定例会行政自治委员会对文化体育观光局的行政事务监察中，崔大成议员（共同民主党，东区2）指出了这一问题。"
+                "x": "Kakao于11月10日宣布，通过与OpenAI的技术合作，制作了由人气角色Ryan主演的首部AI动画短片《Ryan Begins》。"
               },
               {
                 "t": "p",
-                "x": "翻译校对津贴分4次向5人每人支付30만원，共计600만원。翻译集篇幅为715页。崔议员表示：“翻译715页，每页还不到1만원”，并质问：“实际做翻译的是AI还是人？”"
+                "x": "这部约七分钟的短片改编自同名网络漫画，在策划和制作中将人类的创意指导与生成式AI工具相结合。"
               },
               {
                 "t": "p",
-                "x": "文化体育观光局局长回答：“通过AI翻译是不合适的”，“因为文学作品需要意译字里行间的微妙含义。”他还表示：“核查项目明细后，整体上评估其为不恰当的项目。”"
+                "x": "制作团队包括曾执导Netflix动画电影《Lost in Starlight》的导演Jiwon Han，以及AI总监Young-jun Kim。团队利用ChatGPT的图像生成功能，根据场景草图和详细提示词生成初始图像，再由美术人员手工打磨和修改，以达到预期的视觉品质。"
+              },
+              {
+                "t": "video",
+                "yt": "REXgHT6Y_oo"
               },
               {
                 "t": "p",
-                "x": "崔议员还提出了利益冲突和重复资助问题。书中以编辑或译者身份署名的7人中，有4人的作品被收录，该协会今年仅从大田文学出版获得市财政2700만원、从翻译集出版获得3000만원等，共计5700만원。翻译集800册中有504册（63%）寄往海外，但接收方全部是韩国文人协会海外分会、美洲韩人文化团体和海外会员，送往公共图书馆和大学图书馆的仅27册（3.4%）。"
+                "x": "据制作团队介绍，为实现理想的导演效果和情感基调，他们仅一个场景就使用了约1,500条提示词。"
               },
               {
                 "t": "p",
-                "x": "崔议员指出：“翻译用AI完成，书却大多送给了韩人文人和会员”，并要求提交译者与校对人员遴选资料、津贴发放名单、审查资料和寄送结算单，文化体育观光局表示将提交相关资料。"
+                "x": "Kakao于11月8日在首尔圣水洞（Seongsu-dong）的Movieland举行了特别提前放映会和Q&A活动，现场还展出了这部动画的制作过程。Q&A活动门票开售不到一天即告售罄。"
+              },
+              {
+                "t": "p",
+                "x": "Han表示，团队专注于在不依赖对白或夸张面部表情的情况下传达Ryan的情感，让观众自行解读故事。Kim补充说，每当AI-generated图像与预期的情感基调不符，团队就会反复修改，并强调最终结果取决于创作者的判断和亲手完成的工作。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Antología traducida con AI:\n600만원 en pagos de corrección",
-          "body": "Se pagaron 600만원 en corrección para una antología en inglés de Daejeon cuyo prólogo admite traducción con AI.",
-          "mini_headline": "Polémica por la corrección de una antología AI",
+          "headline": "Kakao y OpenAI animan el webtoon\nRyan Begins",
+          "body": "Kakao y OpenAI lanzaron un corto generado con AI basado en Ryan Begins, con unos 1,500 prompts para una sola escena.",
+          "mini_headline": "Ryan Begins, animado con AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.thepublic.kr/news/photo/202611/326466_330422_1256.jpg",
-                "cap": "Choi Dae-sung, concejal de Daejeon. / Foto = Consejo Municipal de Daejeon"
+                "src": "https://cdn.animenewsnetwork.com/thumbnails/max600x600/cms/news.8/222549/3246655_3305364_2723.jpg",
+                "cap": "Imagen vía el sitio web de Kakao Entertainment © Kakao Entertianment"
               },
               {
                 "t": "p",
-                "x": "Se ha confirmado que una antología traducida de literatura de Daejeon, publicada por la ciudad de Daejeon con fondos municipales, afirmaba en su prólogo que se había ‘traducido con la ayuda de la AI’ y, aun así, pagó 600만원 en dietas por corrección de la traducción. El concejal Choi Dae-sung (Partido Democrático, Dong-gu 2) lo señaló el día 12 durante la auditoría administrativa de la Dirección de Cultura, Deporte y Turismo realizada por el Comité de Administración y Autonomía en la sesión ordinaria número 300 del Consejo Municipal de Daejeon."
+                "x": "Kakao anunció el 10 de noviembre que ha producido Ryan Begins, la primera animación corta con AI protagonizada por su popular personaje Ryan, mediante una colaboración tecnológica con OpenAI."
               },
               {
                 "t": "p",
-                "x": "Las dietas por corrección se pagaron a 5 personas, 30만원 a cada una en 4 ocasiones, por un total de 600만원. La antología tiene 715 páginas. Choi dijo: “Para traducir 715 páginas, es menos de 1만원 por página”, y preguntó: “¿Quién tradujo realmente, la AI o una persona?”."
+                "x": "Basado en el webtoon del mismo nombre, el corto, de unos siete minutos, combina la dirección creativa humana con herramientas de AI generativa en su planificación y producción."
               },
               {
                 "t": "p",
-                "x": "El director de Cultura, Deporte y Turismo respondió: “No es correcto traducir mediante AI”, “porque las obras literarias exigen una traducción libre de los matices entre líneas”. Y añadió: “Tras revisar los detalles del proyecto, lo consideramos un proyecto inadecuado en su conjunto”."
+                "x": "El equipo de producción incluye a Jiwon Han, que dirigió la película animada de Netflix Lost in Starlight, y al supervisor de AI Young-jun Kim. El equipo usó la función de generación de imágenes de ChatGPT para crear imágenes iniciales a partir de bocetos de escenas y prompts detallados. Después, los artistas refinaron y revisaron las imágenes a mano para lograr la calidad visual buscada."
+              },
+              {
+                "t": "video",
+                "yt": "REXgHT6Y_oo"
               },
               {
                 "t": "p",
-                "x": "Choi también planteó problemas de conflicto de intereses y de financiación duplicada. De las 7 personas que figuran en el libro como editores o traductores, 4 tenían obras propias incluidas, y la asociación recibió este año 5700만원, entre ellos 2700만원 de fondos municipales para publicar Daejeon Literature y 3000만원 para publicar la antología traducida. De los 800 ejemplares, 504 (63%) se enviaron al extranjero, pero todos los destinatarios fueron delegaciones en el exterior de la Asociación de Escritores de Corea, organizaciones culturales coreanas en América y miembros residentes en el extranjero; solo 27 ejemplares (3.4%) fueron a bibliotecas públicas y universitarias."
+                "x": "Según el equipo de producción, usaron unos 1,500 prompts para una sola escena a fin de lograr la dirección y el tono emocional deseados."
               },
               {
                 "t": "p",
-                "x": "Choi señaló: “La traducción se hizo con AI y la mayoría de los libros fueron a escritores y miembros coreanos”, y pidió los documentos de selección de traductores y correctores, la lista de pagos de dietas, los materiales de evaluación y las liquidaciones de envío; la Dirección de Cultura, Deporte y Turismo acordó presentarlos."
+                "x": "Kakao celebró un preestreno especial y una sesión de Q&A el 8 de noviembre en Movieland, en Seongsu-dong, Seúl. El evento incluyó también una exposición sobre el proceso de producción de la animación. Las entradas para la sesión de Q&A se agotaron en menos de un día tras salir a la venta."
+              },
+              {
+                "t": "p",
+                "x": "Han dijo que el equipo se centró en transmitir las emociones de Ryan sin depender de diálogos ni de expresiones faciales exageradas, para que el público encontrara su propia interpretación de la historia. Kim añadió que el equipo revisaba una y otra vez las imágenes generadas con AI (AI-generated) cuando no coincidían con el tono emocional buscado, y subrayó que las decisiones y el trabajo manual de los creadores determinaron el resultado final."
               }
             ]
           }
@@ -1731,15 +1371,15 @@
       }
     },
     {
-      "id": "books-catholic-ai-slop",
+      "id": "books-laffont-madrigall-screening",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Amazon 종교 서가에\nAI Slop 범람",
-      "body": "최근 한 해 Amazon 종교서 63%가 AI-written이라는 연구가 나왔다.",
-      "mini_headline": "종교 서적 속 AI Slop",
+      "headline": "프랑스 출판계, AI 원고\n검증 두고 엇갈려",
+      "body": "Madrigall은 AI 검사를 준비하지만 Robert Laffont은 거부한다.",
+      "mini_headline": "프랑스, AI 원고 검사 갈등",
       "tool": "Books",
-      "source": "National Catholic Register",
-      "url": "https://www.ncregister.com/news/the-catholic-ai-slop-problem",
+      "source": "Publishing Perspectives",
+      "url": "https://publishingperspectives.com/2026/11/around-the-book-world-monday-november-9-2026/",
       "accent": "#eb367f",
       "motif": "swatch",
       "full": {
@@ -1747,179 +1387,125 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://publisher-assets.ncregister.com/pb-ncregister/swp/hv9hms/media/2026111217118_c5dcef335d949fd9580599a304801c49a15d3735a7bd7e315f8ba8923d7d1ce7.png",
-            "cap": "Amazon의 ‘C. A. Loyola’ (사진: Canva와 Amazon을 활용한 Register 일러스트)"
+            "src": "https://publishingperspectives.com/wp-content/uploads/2026/11/Screen-Shot-2026-11-08-at-11.14.44-AM.png"
           },
           {
             "t": "p",
-            "x": "Amazon의 “Religion & Spirituality” 카테고리에 출간된 종교 서적 2,000권 이상을 분석한 최근 연구에 따르면 지난 한 해 이 사이트에 나온 종교 서적의 63%가 AI-written, 즉 AI가 쓴 책으로 보인다. 종교별로 나눠 봐도 가톨릭 서적의 비율은 비슷했다."
+            "x": "ActuaLitté 보도에 따르면 프랑스 출판사 Robert Laffont은 AI-generated 원고를 두고 경쟁사 Gallimard와 다른 길을 택했다. Robert Laffont 대표 Frédéric Martin은 작가와 출판사의 관계는 신뢰가 바탕이어야 한다며 투고 원고 심사에 AI 탐지 소프트웨어를 쓰는 데 반대한다. Gallimard의 모회사 Madrigall은 반대로 2027년 1월부터 투고 원고에 AI 탐지를 도입할 계획이다."
           },
           {
             "t": "p",
-            "x": "가톨릭 작가 Amy Welborn은 “#1 Best Seller”로 표시된 “Catholic Saints for Kids”를 문제 삼았는데, 저자 Theresa M. Callahan은 실존 인물이 아닐 것이 거의 확실하다. Catholic Answers Press는 Robert B. Greving의 The Apostolate of Courtesy를 베낀 AI-generated 모방작을 발견했다. Amazon의 AI-driven 고객 서비스 안내 체계는 상표권이나 저작권 침해가 없다는 답만 내놨고, 가짜 책은 지금도 팔리고 있다."
-          },
-          {
-            "t": "p",
-            "x": "Amazon은 AI-generated 도서를 금지하지 않는다. 자가 출판 작가에게 AI 사용 여부를 알리도록 요구하지만, 작가가 이를 고객에게 공개할 의무는 없다. 작가 Mike Aquilina는 “아주 우연히” 누가 봐도 AI-generated인 책을 샀다며 “내가 치러야 했던 어리석음의 세금이라고 여겼다”고 말했다."
-          },
-          {
-            "t": "p",
-            "x": "가톨릭 출판사들은 반발한다. Ignatius Press 대표 Mark Brumley는 “기계는 글을 쓰지 않는다, 재포장할 뿐이다”라고 말했고, Ignatius 계약서는 작가가 직접 원고를 쓰도록 요구한다. Ascension Press 계약서도 AI로 만들지 않은 원고를 요구한다. Welborn은 독자에게 오프라인 서점이나 가톨릭 서점에서 책을 사라고, 작가에게는 “내용과 형식 모두에서 더 과감하게 쓰라”고 권한다."
+            "x": "Robert Laffont은 2027년 2월 Sébastien Bailly의 AI-assisted 소설 Les Touches fantômes 출간도 앞두고 있다. Bailly는 초고 대부분을 Claude로 생성한 뒤 한 해 동안 약 30개 버전을 거치며 원고를 고쳐 쓰고 다듬었다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI Slop Floods Amazon's\nReligious Bookshelves",
-          "body": "A study estimates 63% of religious books on Amazon in the past year are likely AI-written, Catholic titles included.",
-          "mini_headline": "AI Slop in Religious Books",
+          "headline": "French publishers split\non AI manuscript checks",
+          "body": "Madrigall plans to screen manuscripts for AI, while Robert Laffont's Frédéric Martin rejects detection software.",
+          "mini_headline": "France splits on AI checks",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://publisher-assets.ncregister.com/pb-ncregister/swp/hv9hms/media/2026111217118_c5dcef335d949fd9580599a304801c49a15d3735a7bd7e315f8ba8923d7d1ce7.png",
-                "cap": "‘C. A. Loyola’ on Amazon (Photo: Register illustration using Canva and Amazon)"
+                "src": "https://publishingperspectives.com/wp-content/uploads/2026/11/Screen-Shot-2026-11-08-at-11.14.44-AM.png"
               },
               {
                 "t": "p",
-                "x": "According to one recent study that scanned more than 2,000 religious books published to Amazon’s “Religion & Spirituality” category, 63% of all religious books published to the site in the last year are likely AI-written. Broken down by religion, Catholic books specifically showed a similar percentage."
+                "x": "As reported by ActuaLitté, French publisher Robert Laffont is taking a different approach to AI-generated manuscripts from rival Gallimard. Robert Laffont’s managing director, Frédéric Martin, opposes the use of AI detection software to screen submissions, arguing that the relationship between authors and publishers should be based on trust. Gallimard’s parent company, Madrigall, meanwhile, plans to introduce AI detection for submitted manuscripts in January 2027."
               },
               {
                 "t": "p",
-                "x": "Catholic author Amy Welborn flagged “Catholic Saints for Kids,” a “#1 Best Seller” whose author, Theresa M. Callahan, is almost certainly not a real person. Catholic Answers Press found AI-generated copycats of Robert B. Greving’s The Apostolate of Courtesy; Amazon’s AI-driven customer-service tree said there had been no trademark or copyright violation, and the fake books remain on sale."
-              },
-              {
-                "t": "p",
-                "x": "Amazon does not prohibit AI-generated books and asks self-publishing authors to tell it whether they used AI, but they are not required to disclose it to customers. Author Mike Aquilina said he “quite by accident” bought an obviously AI-generated book: “I considered it a stupidity tax I had to pay.”"
-              },
-              {
-                "t": "p",
-                "x": "Catholic publishers are pushing back. Ignatius Press president Mark Brumley said “Machines don’t write, they repackage,” and Ignatius contracts require authors to write their own work; Ascension Press contracts require work not generated using AI. Welborn urges readers to buy from brick-and-mortar or Catholic retailers and authors to “Write more boldly, both in content and form.”"
+                "x": "Robert Laffont is also preparing to publish Les Touches fantômes, an AI-assisted novel by Sébastien Bailly, in February 2027. Bailly generated an initial draft largely with Claude before spending a year rewriting and refining the manuscript through some 30 versions."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Amazon 종교 서가에\nAI Slop 범람",
-          "body": "최근 한 해 Amazon 종교서 63%가 AI-written이라는 연구가 나왔다.",
-          "mini_headline": "종교 서적 속 AI Slop",
+          "headline": "프랑스 출판계, AI 원고\n검증 두고 엇갈려",
+          "body": "Madrigall은 AI 검사를 준비하지만 Robert Laffont은 거부한다.",
+          "mini_headline": "프랑스, AI 원고 검사 갈등",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://publisher-assets.ncregister.com/pb-ncregister/swp/hv9hms/media/2026111217118_c5dcef335d949fd9580599a304801c49a15d3735a7bd7e315f8ba8923d7d1ce7.png",
-                "cap": "Amazon의 ‘C. A. Loyola’ (사진: Canva와 Amazon을 활용한 Register 일러스트)"
+                "src": "https://publishingperspectives.com/wp-content/uploads/2026/11/Screen-Shot-2026-11-08-at-11.14.44-AM.png"
               },
               {
                 "t": "p",
-                "x": "Amazon의 “Religion & Spirituality” 카테고리에 출간된 종교 서적 2,000권 이상을 분석한 최근 연구에 따르면 지난 한 해 이 사이트에 나온 종교 서적의 63%가 AI-written, 즉 AI가 쓴 책으로 보인다. 종교별로 나눠 봐도 가톨릭 서적의 비율은 비슷했다."
+                "x": "ActuaLitté 보도에 따르면 프랑스 출판사 Robert Laffont은 AI-generated 원고를 두고 경쟁사 Gallimard와 다른 길을 택했다. Robert Laffont 대표 Frédéric Martin은 작가와 출판사의 관계는 신뢰가 바탕이어야 한다며 투고 원고 심사에 AI 탐지 소프트웨어를 쓰는 데 반대한다. Gallimard의 모회사 Madrigall은 반대로 2027년 1월부터 투고 원고에 AI 탐지를 도입할 계획이다."
               },
               {
                 "t": "p",
-                "x": "가톨릭 작가 Amy Welborn은 “#1 Best Seller”로 표시된 “Catholic Saints for Kids”를 문제 삼았는데, 저자 Theresa M. Callahan은 실존 인물이 아닐 것이 거의 확실하다. Catholic Answers Press는 Robert B. Greving의 The Apostolate of Courtesy를 베낀 AI-generated 모방작을 발견했다. Amazon의 AI-driven 고객 서비스 안내 체계는 상표권이나 저작권 침해가 없다는 답만 내놨고, 가짜 책은 지금도 팔리고 있다."
-              },
-              {
-                "t": "p",
-                "x": "Amazon은 AI-generated 도서를 금지하지 않는다. 자가 출판 작가에게 AI 사용 여부를 알리도록 요구하지만, 작가가 이를 고객에게 공개할 의무는 없다. 작가 Mike Aquilina는 “아주 우연히” 누가 봐도 AI-generated인 책을 샀다며 “내가 치러야 했던 어리석음의 세금이라고 여겼다”고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "가톨릭 출판사들은 반발한다. Ignatius Press 대표 Mark Brumley는 “기계는 글을 쓰지 않는다, 재포장할 뿐이다”라고 말했고, Ignatius 계약서는 작가가 직접 원고를 쓰도록 요구한다. Ascension Press 계약서도 AI로 만들지 않은 원고를 요구한다. Welborn은 독자에게 오프라인 서점이나 가톨릭 서점에서 책을 사라고, 작가에게는 “내용과 형식 모두에서 더 과감하게 쓰라”고 권한다."
+                "x": "Robert Laffont은 2027년 2월 Sébastien Bailly의 AI-assisted 소설 Les Touches fantômes 출간도 앞두고 있다. Bailly는 초고 대부분을 Claude로 생성한 뒤 한 해 동안 약 30개 버전을 거치며 원고를 고쳐 쓰고 다듬었다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Amazonの宗教書棚\nAI Slopが氾濫",
-          "body": "ある研究は、過去一年にAmazonで出た宗教書の63%がAI-writtenと推計した。",
-          "mini_headline": "宗教書にAI Slop",
+          "headline": "フランス出版界、AI原稿\nチェックで割れる",
+          "body": "MadrigallはAI原稿検出を導入し、Robert Laffontは拒否する。",
+          "mini_headline": "AI原稿チェックで仏が二分",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://publisher-assets.ncregister.com/pb-ncregister/swp/hv9hms/media/2026111217118_c5dcef335d949fd9580599a304801c49a15d3735a7bd7e315f8ba8923d7d1ce7.png",
-                "cap": "Amazon上の「C. A. Loyola」（写真：CanvaとAmazonを使ったRegisterのイラスト）"
+                "src": "https://publishingperspectives.com/wp-content/uploads/2026/11/Screen-Shot-2026-11-08-at-11.14.44-AM.png"
               },
               {
                 "t": "p",
-                "x": "Amazonの「Religion & Spirituality」カテゴリーで出版された2,000冊超の宗教書を調べた最近のある研究によると、過去一年に同サイトで出版された宗教書全体の63%はAI-writtenである可能性が高い。宗教別に見ると、カトリック書籍も同程度の割合だった。"
+                "x": "ActuaLittéの報道によると、フランスの出版社Robert Laffontは、AI生成（AI-generated）の原稿について競合のGallimardとは異なる姿勢を取っている。Robert Laffontの代表Frédéric Martinは、著者と出版社の関係は信頼に基づくべきだとして、投稿原稿の審査にAI検出ソフトウェアを使うことに反対している。一方、Gallimardの親会社Madrigallは、2027年1月から投稿原稿にAI検出を導入する計画だ。"
               },
               {
                 "t": "p",
-                "x": "カトリック作家のAmy Welbornは「#1 Best Seller」の「Catholic Saints for Kids」を問題視した。著者のTheresa M. Callahanは、ほぼ確実に実在しない人物だ。Catholic Answers Pressは、Robert B. GrevingのThe Apostolate of CourtesyをまねたAI-generatedの模倣本を見つけた。AmazonのAI-drivenなカスタマーサービスの案内は商標権や著作権の侵害はないと回答し、偽の本は今も販売されている。"
-              },
-              {
-                "t": "p",
-                "x": "AmazonはAI-generatedの本を禁止しておらず、自費出版の著者にAI使用の有無を申告するよう求めているが、著者が購入者に開示する義務はない。作家のMike Aquilinaは「まったくの偶然で」明らかにAI-generatedの本を買ってしまったといい、「払わされた愚かさの税金だと思った」と語った。"
-              },
-              {
-                "t": "p",
-                "x": "カトリック系出版社は反発している。Ignatius Press社長のMark Brumleyは「機械は書かない。再包装するだけだ」と述べ、Ignatiusの契約は著者自身が執筆することを求めている。Ascension Pressの契約は、AIを使って生成していない原稿を求める。Welbornは読者に実店舗やカトリック系書店で買うよう、著者には「内容でも形式でも、もっと大胆に書こう」と呼びかけている。"
+                "x": "Robert Laffontはまた、Sébastien BaillyによるAI支援（AI-assisted）の小説『Les Touches fantômes』を2027年2月に刊行する準備を進めている。Baillyは初稿の大部分をClaudeで生成した後、一年をかけて約30のバージョンを経て原稿を書き直し、磨き上げた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Amazon宗教书架\n遭AI Slop淹没",
-          "body": "一项研究估计，过去一年Amazon上63%的宗教书可能是AI-written。",
-          "mini_headline": "宗教书中的AI Slop",
+          "headline": "法国出版界就AI稿件\n审查意见分歧",
+          "body": "Madrigall计划AI筛查稿件，Robert Laffont则拒用检测软件。",
+          "mini_headline": "法国出版界AI审稿分歧",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://publisher-assets.ncregister.com/pb-ncregister/swp/hv9hms/media/2026111217118_c5dcef335d949fd9580599a304801c49a15d3735a7bd7e315f8ba8923d7d1ce7.png",
-                "cap": "Amazon上的“C. A. Loyola”（图片：Register使用Canva和Amazon制作的插图）"
+                "src": "https://publishingperspectives.com/wp-content/uploads/2026/11/Screen-Shot-2026-11-08-at-11.14.44-AM.png"
               },
               {
                 "t": "p",
-                "x": "最近一项研究扫描了Amazon“Religion & Spirituality”类别中出版的2,000多本宗教书籍，结果显示，过去一年在该网站出版的全部宗教书籍中，63%可能是AI-written。按宗教细分，天主教书籍的比例也相近。"
+                "x": "据ActuaLitté报道，法国出版社Robert Laffont对AI-generated稿件采取了与竞争对手Gallimard不同的做法。Robert Laffont总经理Frédéric Martin反对使用AI检测软件筛查投稿，认为作者与出版社之间的关系应建立在信任之上。与此同时，Gallimard的母公司Madrigall计划于2027年1月起对投稿稿件引入AI检测。"
               },
               {
                 "t": "p",
-                "x": "天主教作家Amy Welborn指出，标有“#1 Best Seller”的《Catholic Saints for Kids》的作者Theresa M. Callahan几乎可以肯定并非真实存在。Catholic Answers Press发现了仿冒Robert B. Greving所著The Apostolate of Courtesy的AI-generated山寨书；Amazon的AI-driven客服流程称不存在商标或版权侵权，这些假书至今仍在销售。"
-              },
-              {
-                "t": "p",
-                "x": "Amazon并不禁止AI-generated书籍，并要求自出版作者告知是否使用了AI，但作者无须向顾客披露。作家Mike Aquilina说，他“纯属偶然”买到一本明显是AI-generated的书：“我把它当作自己不得不交的愚蠢税。”"
-              },
-              {
-                "t": "p",
-                "x": "天主教出版社正在反击。Ignatius Press总裁Mark Brumley表示“机器不写作，它们只是重新包装”，Ignatius的合同要求作者亲自写作；Ascension Press的合同则要求作品不得使用AI生成。Welborn敦促读者去实体书店或天主教书店购书，并呼吁作者“在内容和形式上都写得更大胆”。"
+                "x": "Robert Laffont还准备于2027年2月出版Sébastien Bailly借助AI创作（AI-assisted）的小说《Les Touches fantômes》。Bailly先主要借助Claude生成初稿，随后花了一年时间，经过约30个版本改写和打磨书稿。"
               }
             ]
           }
         },
         "es": {
-          "headline": "AI Slop inunda los estantes\nreligiosos de Amazon",
-          "body": "Un estudio estima que el 63% de los libros religiosos del último año en Amazon serían AI-written, católicos incluidos.",
-          "mini_headline": "AI Slop en libros religiosos",
+          "headline": "Editoriales francesas, divididas\nante la detección de AI",
+          "body": "Madrigall prevé detectar AI en los manuscritos, pero Frédéric Martin, de Robert Laffont, rechaza el software detector.",
+          "mini_headline": "Francia, dividida ante la AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://publisher-assets.ncregister.com/pb-ncregister/swp/hv9hms/media/2026111217118_c5dcef335d949fd9580599a304801c49a15d3735a7bd7e315f8ba8923d7d1ce7.png",
-                "cap": "‘C. A. Loyola’ en Amazon (Foto: ilustración del Register con Canva y Amazon)"
+                "src": "https://publishingperspectives.com/wp-content/uploads/2026/11/Screen-Shot-2026-11-08-at-11.14.44-AM.png"
               },
               {
                 "t": "p",
-                "x": "Según un estudio reciente que analizó más de 2,000 libros religiosos publicados en la categoría “Religion & Spirituality” de Amazon, el 63% de todos los libros religiosos publicados en el sitio en el último año son probablemente AI-written. Desglosados por religión, los libros católicos mostraron un porcentaje similar."
+                "x": "Según informó ActuaLitté, la editorial francesa Robert Laffont adopta ante los manuscritos generados con AI (AI-generated) un enfoque distinto al de su rival Gallimard. El director general de Robert Laffont, Frédéric Martin, se opone a usar software de detección de AI para examinar los envíos, con el argumento de que la relación entre autores y editores debe basarse en la confianza. Por su parte, Madrigall, la empresa matriz de Gallimard, prevé introducir la detección de AI en los manuscritos recibidos en enero de 2027."
               },
               {
                 "t": "p",
-                "x": "La autora católica Amy Welborn señaló “Catholic Saints for Kids”, un “#1 Best Seller” cuya autora, Theresa M. Callahan, casi con seguridad no es una persona real. Catholic Answers Press encontró imitaciones AI-generated de The Apostolate of Courtesy, de Robert B. Greving; el sistema de atención al cliente AI-driven de Amazon respondió que no había infracción de marca ni de derechos de autor, y los libros falsos siguen a la venta."
-              },
-              {
-                "t": "p",
-                "x": "Amazon no prohíbe los libros AI-generated y pide a los autores autopublicados que le indiquen si usaron AI, pero no están obligados a revelarlo a los clientes. El autor Mike Aquilina dijo que compró “por pura casualidad” un libro claramente AI-generated: “Lo consideré un impuesto a la estupidez que tuve que pagar”."
-              },
-              {
-                "t": "p",
-                "x": "Las editoriales católicas están reaccionando. Mark Brumley, presidente de Ignatius Press, dijo que “las máquinas no escriben, reempaquetan”, y los contratos de Ignatius exigen que los autores escriban su propia obra; los de Ascension Press exigen obras no generadas con AI. Welborn anima a los lectores a comprar en tiendas físicas o librerías católicas, y a los autores a “escribir con más audacia, tanto en contenido como en forma”."
+                "x": "Robert Laffont también prepara la publicación en febrero de 2027 de Les Touches fantômes, una novela escrita con ayuda de AI (AI-assisted) de Sébastien Bailly. Bailly generó un primer borrador en gran parte con Claude y luego dedicó un año a reescribir y pulir el manuscrito a lo largo de unas 30 versiones."
               }
             ]
           }
@@ -1927,125 +1513,89 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Amazon 종교 서가에\nAI Slop 범람",
-          "body": "한 연구는 최근 한 해 Amazon 종교서 63%를 AI-written으로 본다.",
-          "mini_headline": "종교 서적 속 AI Slop",
+          "headline": "프랑스 출판계, AI 원고\n검증 두고 엇갈려",
+          "body": "Madrigall은 AI 검사를 계획하나 Robert Laffont은 거부한다.",
+          "mini_headline": "프랑스, AI 원고 검사 갈등",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://publisher-assets.ncregister.com/pb-ncregister/swp/hv9hms/media/2026111217118_c5dcef335d949fd9580599a304801c49a15d3735a7bd7e315f8ba8923d7d1ce7.png",
-                "cap": "Amazon의 ‘C. A. Loyola’ (사진: Canva와 Amazon을 활용한 Register 일러스트)"
+                "src": "https://publishingperspectives.com/wp-content/uploads/2026/11/Screen-Shot-2026-11-08-at-11.14.44-AM.png"
               },
               {
                 "t": "p",
-                "x": "Amazon의 “Religion & Spirituality” 카테고리에 출간된 종교 서적 2,000권 이상을 분석한 최근 한 연구에 따르면, 지난 한 해 동안 이 사이트에 출간된 전체 종교 서적의 63%가 AI-written, 즉 AI가 쓴 것으로 보인다. 종교별로 나눠 보면 가톨릭 서적도 비슷한 비율을 보였다."
+                "x": "ActuaLitté 보도에 따르면 프랑스 출판사 Robert Laffont은 AI-generated 원고에 대해 경쟁사 Gallimard와 다른 접근을 택하고 있다. Robert Laffont의 대표 Frédéric Martin은 작가와 출판사의 관계는 신뢰에 기반해야 한다며 투고 원고 심사에 AI 탐지 소프트웨어를 쓰는 데 반대한다. 반면 Gallimard의 모회사 Madrigall은 2027년 1월부터 투고 원고에 AI 탐지를 도입할 계획이다."
               },
               {
                 "t": "p",
-                "x": "가톨릭 작가 Amy Welborn은 “#1 Best Seller”로 표시된 “Catholic Saints for Kids”를 문제 삼았는데, 저자 Theresa M. Callahan은 실존 인물이 아닐 것이 거의 확실하다. Catholic Answers Press는 Robert B. Greving의 The Apostolate of Courtesy를 베낀 AI-generated 모방작을 발견했다. Amazon의 AI-driven 고객 서비스 안내 체계는 상표권이나 저작권 침해가 없다고 답했고, 가짜 책들은 여전히 판매 중이다."
-              },
-              {
-                "t": "p",
-                "x": "Amazon은 AI-generated 도서를 금지하지 않는다. 자가 출판 작가에게 AI 사용 여부를 알리도록 요구하지만, 작가가 이를 고객에게 공개할 의무는 없다. 작가 Mike Aquilina는 “아주 우연히” 누가 봐도 AI-generated인 책을 샀다며 “내가 치러야 했던 어리석음의 세금이라고 여겼다”고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "가톨릭 출판사들은 반발하고 있다. Ignatius Press 대표 Mark Brumley는 “기계는 글을 쓰지 않는다, 재포장할 뿐이다”라고 말했고, Ignatius 계약서는 작가가 직접 원고를 쓰도록 요구한다. Ascension Press 계약서는 AI로 생성하지 않은 원고를 요구한다. Welborn은 독자에게 오프라인 서점이나 가톨릭 서점에서 책을 사라고, 작가에게는 “내용과 형식 모두에서 더 과감하게 쓰라”고 권한다."
+                "x": "Robert Laffont은 2027년 2월 Sébastien Bailly의 AI-assisted 소설 Les Touches fantômes 출간도 준비하고 있다. Bailly는 초고 대부분을 Claude로 생성한 뒤 한 해 동안 약 30개 버전을 거치며 원고를 다시 쓰고 다듬었다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Amazonの宗教書棚\nAI Slopが氾濫",
-          "body": "ある研究は、過去一年にAmazonで出た宗教書の63%がAI-writtenと推計した。",
-          "mini_headline": "宗教書にAI Slop",
+          "headline": "フランス出版界、AI原稿\nチェックで割れる",
+          "body": "MadrigallはAI原稿検出を導入し、Robert Laffontは拒否する。",
+          "mini_headline": "AI原稿チェックで仏が二分",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://publisher-assets.ncregister.com/pb-ncregister/swp/hv9hms/media/2026111217118_c5dcef335d949fd9580599a304801c49a15d3735a7bd7e315f8ba8923d7d1ce7.png",
-                "cap": "Amazon上の「C. A. Loyola」（写真：CanvaとAmazonを使ったRegisterのイラスト）"
+                "src": "https://publishingperspectives.com/wp-content/uploads/2026/11/Screen-Shot-2026-11-08-at-11.14.44-AM.png"
               },
               {
                 "t": "p",
-                "x": "Amazonの「Religion & Spirituality」カテゴリーで出版された2,000冊超の宗教書を調べた最近のある研究によると、過去一年に同サイトで出版された宗教書全体の63%はAI-writtenである可能性が高い。宗教別に見ると、カトリック書籍も同程度の割合だった。"
+                "x": "ActuaLittéの報道によると、フランスの出版社Robert Laffontは、AI生成（AI-generated）の原稿について競合のGallimardとは異なる姿勢を取っている。Robert Laffontの代表Frédéric Martinは、著者と出版社の関係は信頼に基づくべきだとして、投稿原稿の審査にAI検出ソフトウェアを使うことに反対している。一方、Gallimardの親会社Madrigallは、2027年1月から投稿原稿にAI検出を導入する計画だ。"
               },
               {
                 "t": "p",
-                "x": "カトリック作家のAmy Welbornは「#1 Best Seller」の「Catholic Saints for Kids」を問題視した。著者のTheresa M. Callahanは、ほぼ確実に実在しない人物だ。Catholic Answers Pressは、Robert B. GrevingのThe Apostolate of CourtesyをまねたAI-generatedの模倣本を見つけた。AmazonのAI-drivenなカスタマーサービスの案内は商標権や著作権の侵害はないと回答し、偽の本は今も販売されている。"
-              },
-              {
-                "t": "p",
-                "x": "AmazonはAI-generatedの本を禁止しておらず、自費出版の著者にAI使用の有無を申告するよう求めているが、著者が購入者に開示する義務はない。作家のMike Aquilinaは「まったくの偶然で」明らかにAI-generatedの本を買ってしまったといい、「払わされた愚かさの税金だと思った」と語った。"
-              },
-              {
-                "t": "p",
-                "x": "カトリック系出版社は反発している。Ignatius Press社長のMark Brumleyは「機械は書かない。再包装するだけだ」と述べ、Ignatiusの契約は著者自身が執筆することを求めている。Ascension Pressの契約は、AIを使って生成していない原稿を求める。Welbornは読者に実店舗やカトリック系書店で買うよう、著者には「内容でも形式でも、もっと大胆に書こう」と呼びかけている。"
+                "x": "Robert Laffontはまた、Sébastien BaillyによるAI支援（AI-assisted）の小説『Les Touches fantômes』を2027年2月に刊行する準備を進めている。Baillyは初稿の大部分をClaudeで生成した後、一年をかけて約30のバージョンを経て原稿を書き直し、磨き上げた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Amazon宗教书架\n遭AI Slop淹没",
-          "body": "一项研究估计，过去一年Amazon上63%的宗教书可能是AI-written。",
-          "mini_headline": "宗教书中的AI Slop",
+          "headline": "法国出版界就AI稿件\n审查意见分歧",
+          "body": "Madrigall计划AI筛查稿件，Robert Laffont则拒用检测软件。",
+          "mini_headline": "法国出版界AI审稿分歧",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://publisher-assets.ncregister.com/pb-ncregister/swp/hv9hms/media/2026111217118_c5dcef335d949fd9580599a304801c49a15d3735a7bd7e315f8ba8923d7d1ce7.png",
-                "cap": "Amazon上的“C. A. Loyola”（图片：Register使用Canva和Amazon制作的插图）"
+                "src": "https://publishingperspectives.com/wp-content/uploads/2026/11/Screen-Shot-2026-11-08-at-11.14.44-AM.png"
               },
               {
                 "t": "p",
-                "x": "最近一项研究扫描了Amazon“Religion & Spirituality”类别中出版的2,000多本宗教书籍，结果显示，过去一年在该网站出版的全部宗教书籍中，63%可能是AI-written。按宗教细分，天主教书籍的比例也相近。"
+                "x": "据ActuaLitté报道，法国出版社Robert Laffont对AI-generated稿件采取了与竞争对手Gallimard不同的做法。Robert Laffont总经理Frédéric Martin反对使用AI检测软件筛查投稿，认为作者与出版社之间的关系应建立在信任之上。与此同时，Gallimard的母公司Madrigall计划于2027年1月起对投稿稿件引入AI检测。"
               },
               {
                 "t": "p",
-                "x": "天主教作家Amy Welborn指出，标有“#1 Best Seller”的《Catholic Saints for Kids》的作者Theresa M. Callahan几乎可以肯定并非真实存在。Catholic Answers Press发现了仿冒Robert B. Greving所著The Apostolate of Courtesy的AI-generated山寨书；Amazon的AI-driven客服流程称不存在商标或版权侵权，这些假书至今仍在销售。"
-              },
-              {
-                "t": "p",
-                "x": "Amazon并不禁止AI-generated书籍，并要求自出版作者告知是否使用了AI，但作者无须向顾客披露。作家Mike Aquilina说，他“纯属偶然”买到一本明显是AI-generated的书：“我把它当作自己不得不交的愚蠢税。”"
-              },
-              {
-                "t": "p",
-                "x": "天主教出版社正在反击。Ignatius Press总裁Mark Brumley表示“机器不写作，它们只是重新包装”，Ignatius的合同要求作者亲自写作；Ascension Press的合同则要求作品不得使用AI生成。Welborn敦促读者去实体书店或天主教书店购书，并呼吁作者“在内容和形式上都写得更大胆”。"
+                "x": "Robert Laffont还准备于2027年2月出版Sébastien Bailly借助AI创作（AI-assisted）的小说《Les Touches fantômes》。Bailly先主要借助Claude生成初稿，随后花了一年时间，经过约30个版本改写和打磨书稿。"
               }
             ]
           }
         },
         "es": {
-          "headline": "AI Slop inunda los estantes\nreligiosos de Amazon",
-          "body": "Un estudio estima que el 63% de los libros religiosos del último año en Amazon serían AI-written, católicos incluidos.",
-          "mini_headline": "AI Slop en libros religiosos",
+          "headline": "Editoriales francesas, divididas\nante la detección de AI",
+          "body": "Madrigall prevé detectar AI en los manuscritos, pero Frédéric Martin, de Robert Laffont, rechaza el software detector.",
+          "mini_headline": "Francia, dividida ante la AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://publisher-assets.ncregister.com/pb-ncregister/swp/hv9hms/media/2026111217118_c5dcef335d949fd9580599a304801c49a15d3735a7bd7e315f8ba8923d7d1ce7.png",
-                "cap": "‘C. A. Loyola’ en Amazon (Foto: ilustración del Register con Canva y Amazon)"
+                "src": "https://publishingperspectives.com/wp-content/uploads/2026/11/Screen-Shot-2026-11-08-at-11.14.44-AM.png"
               },
               {
                 "t": "p",
-                "x": "Según un estudio reciente que analizó más de 2,000 libros religiosos publicados en la categoría “Religion & Spirituality” de Amazon, el 63% de todos los libros religiosos publicados en el sitio en el último año son probablemente AI-written. Desglosados por religión, los libros católicos mostraron un porcentaje similar."
+                "x": "Según informó ActuaLitté, la editorial francesa Robert Laffont adopta ante los manuscritos generados con AI (AI-generated) un enfoque distinto al de su rival Gallimard. El director general de Robert Laffont, Frédéric Martin, se opone a usar software de detección de AI para examinar los envíos, con el argumento de que la relación entre autores y editores debe basarse en la confianza. Por su parte, Madrigall, la empresa matriz de Gallimard, prevé introducir la detección de AI en los manuscritos recibidos en enero de 2027."
               },
               {
                 "t": "p",
-                "x": "La autora católica Amy Welborn señaló “Catholic Saints for Kids”, un “#1 Best Seller” cuya autora, Theresa M. Callahan, casi con seguridad no es una persona real. Catholic Answers Press encontró imitaciones AI-generated de The Apostolate of Courtesy, de Robert B. Greving; el sistema de atención al cliente AI-driven de Amazon respondió que no había infracción de marca ni de derechos de autor, y los libros falsos siguen a la venta."
-              },
-              {
-                "t": "p",
-                "x": "Amazon no prohíbe los libros AI-generated y pide a los autores autopublicados que le indiquen si usaron AI, pero no están obligados a revelarlo a los clientes. El autor Mike Aquilina dijo que compró “por pura casualidad” un libro claramente AI-generated: “Lo consideré un impuesto a la estupidez que tuve que pagar”."
-              },
-              {
-                "t": "p",
-                "x": "Las editoriales católicas están reaccionando. Mark Brumley, presidente de Ignatius Press, dijo que “las máquinas no escriben, reempaquetan”, y los contratos de Ignatius exigen que los autores escriban su propia obra; los de Ascension Press exigen obras no generadas con AI. Welborn anima a los lectores a comprar en tiendas físicas o librerías católicas, y a los autores a “escribir con más audacia, tanto en contenido como en forma”."
+                "x": "Robert Laffont también prepara la publicación en febrero de 2027 de Les Touches fantômes, una novela escrita con ayuda de AI (AI-assisted) de Sébastien Bailly. Bailly generó un primer borrador en gran parte con Claude y luego dedicó un año a reescribir y pulir el manuscrito a lo largo de unas 30 versiones."
               }
             ]
           }

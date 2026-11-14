@@ -11110,6 +11110,127 @@
           "x": "El director de la EHT Collaboration, el Dr. Laurent Loinard, dijo que GenDIReCT, “un método elegante y completamente independiente, recupera la estructura de anillo de M87* a lo largo de varios años, en excelente concordancia con los resultados publicados por la EHT Collaboration”. Thyagarajan señaló que la técnica también podría mejorar las imágenes médicas y la cartografía de terremotos."
         }
       ]
+    },
+    "science/slac-lcls-laser-surrogate": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.sciencedaily.com/images/1920/noncollinear-sum-frequency-generation.webp",
+          "cap": "Representación artística de la generación de suma de frecuencias no colineal (SFG): dos pulsos infrarrojos se mezclan en un cristal χ² y producen tres pulsos de salida. Crédito: Gregory Stewart, SLAC National Accelerator Laboratory"
+        },
+        {
+          "t": "p",
+          "x": "Científicos de Stanford University, UCLA y SLAC National Accelerator Laboratory han desarrollado un modelo de aprendizaje profundo que reproduce las simulaciones convencionales de óptica no lineal de segundo orden (procesos χ2) en una fracción del tiempo y mantiene una alta precisión en una gran variedad de formas de pulso láser. El trabajo se describe en Advanced Photonics."
+        },
+        {
+          "t": "p",
+          "x": "En el LCLS-II de SLAC, la luz infrarroja se convierte en luz verde y luego en luz UV; el pulso UV incide en un cátodo y libera electrones que generan pulsos X-ray. La simulación convencional usa el método split-step Fourier, que representa aproximadamente el 95 por ciento del tiempo total de procesamiento en la simulación láser completa."
+        },
+        {
+          "t": "p",
+          "x": "El equipo construyó una red neuronal recurrente LSTM y la probó en la generación de suma de frecuencias no colineal, en la que tres campos de luz interconectados evolucionan juntos dentro de un cristal. La red trabaja por completo con una representación comprimida de las características de frecuencia de la luz."
+        },
+        {
+          "t": "p",
+          "x": "Al ejecutarse por lotes en GPUs, el tiempo medio de cálculo por simulación bajó a apenas unos milisegundos. Los investigadores imaginan redes modulares que alimenten gemelos digitales y un control láser adaptativo en tiempo real."
+        }
+      ]
+    },
+    "science/brookhaven-sphenix-jet-denoise": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/super-intelligence-met.jpg",
+          "cap": "Producción y detección de chorros en colisiones de iones pesados. Crédito: Brookhaven National Laboratory"
+        },
+        {
+          "t": "p",
+          "x": "Investigadores del Brookhaven National Laboratory, con colaboradores de Columbia University y la University of Colorado Boulder, desarrollaron un método de AI generativa que separa las señales de chorros de partículas del fondo en colisiones simuladas de iones pesados."
+        },
+        {
+          "t": "p",
+          "x": "\"Nuestro método de AI aprende a dividir esa imagen en dos partes\", dijo el físico de Brookhaven Yeonju Go. El modelo \"no emparejado y no supervisado\" no necesita ejemplos emparejados de señal y fondo; aprende de datos de colisiones simuladas y de simulaciones ideales de chorros. \"Los métodos de aprendizaje no supervisado pueden aprender conceptos y patrones útiles directamente de los datos\", dijo el informático de Brookhaven Dmitrii Torbunov."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/super-intelligence-met-1.jpg",
+          "cap": "Cómo se entrena el marco y cómo se aplica después para separar la señal de los chorros del fondo. Crédito: Brookhaven National Laboratory"
+        },
+        {
+          "t": "p",
+          "x": "Probado con datos simulados del calorímetro de sPHENIX, reconstruyó la posición, la energía y la estructura interna de los chorros con más precisión que los métodos convencionales de sustracción de fondo, sobre todo en los chorros más grandes. \"Sin duda queremos usar el modelo con nuestros datos experimentales\", dijo Go. El estudio se publica en Scientific Reports."
+        }
+      ]
+    },
+    "science/qodex-quantum-reservoir-pde": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/11/image-85.png",
+          "cap": "Arquitectura de QRN."
+        },
+        {
+          "t": "p",
+          "x": "Un equipo de QodeX Quantum, la University of South Carolina, el Naval Surface Warfare Center Panama City Division, NVIDIA y RTX BBN demostró la predicción sin gradientes de ecuaciones en derivadas parciales (PDEs) no lineales sobre mallas de ingeniería no estructuradas, con hasta 52 cúbits en un procesador IBM Quantum Heron r3 (ibm_boston), según detalla una preimpresión en arXiv."
+        },
+        {
+          "t": "p",
+          "x": "Para desacoplar las geometrías de contorno complejas de la topología del circuito, los autores combinaron un autocodificador preentrenado de red neuronal de grafos con un reservorio cuántico fijo y sin entrenar, dividido en registros de memoria y de lectura. La red híbrida de reservorio cuántico (QRN) ejecutó circuitos hasta 24 veces más largos que la mediana de los tiempos de coherencia de los cúbits."
+        },
+        {
+          "t": "p",
+          "x": "En hardware redujo el error de predicción entre un 21% y un 41% frente a líneas base clásicas lineales latentes: una reducción del NRMSE a un paso del 33.2% en un flujo 2D alrededor de un cilindro (26 cúbits) y del 41.1% en reacción-difusión Gray-Scott (26 y 52 cúbits). En despliegues de 10 pasos, el ruido del hardware actuó como regularizador y dio un NRMSE de 0.257 frente a 0.707 en la simulación CUDA-Q sin ruido."
+        },
+        {
+          "t": "p",
+          "x": "El código está disponible como código abierto en GitHub; QodeX afirma que el estudio también validó módulos de su plataforma de flujos de trabajo cuánticos agénticos, AlphaPsi."
+        }
+      ]
+    },
+    "science/princeton-baby-language-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://singularityhub.com/uploads/2026/11/baby-face.jpeg?auto=webp"
+        },
+        {
+          "t": "p",
+          "x": "Un estudio inusual de Princeton University, parte de su proyecto First 1,000 Days, usó cámaras y micrófonos en ocho hogares para captar los sonidos cotidianos que rodeaban a los niños desde el nacimiento hasta cerca de los tres años. Después, los investigadores crearon un aprendiz de AI para cada niño, que vivió el entorno de habla de ese niño tal como se desarrolló con el tiempo."
+        },
+        {
+          "t": "p",
+          "x": "\"Construir un sistema de aprendizaje, darle la experiencia real del niño y preguntar si se desarrolla como el niño\", dijo el autor del estudio Uri Hasson. Cada hogar tenía entre 4 y 14 dispositivos; el equipo extrajo hasta 6,600 horas de audio por niño."
+        },
+        {
+          "t": "p",
+          "x": "El modelo pequeño, un codificador de audio más un decodificador predictivo, partió como una hoja en blanco. La exposición por sí sola \"no bastaba\", dijo Hadas Raviv. La solución fue la repetición: volver a fragmentos de habla reciente al final de cada día simulado, una idea inspirada en el sueño."
+        },
+        {
+          "t": "p",
+          "x": "En los ocho niños, los modelos aprendieron unos 37 fonemas en 15 meses y empezaron a reconocer palabras antes de los dos años, a ritmos muy distintos. A diferencia de los bebés, la AI aprende solo del sonido. \"El modelo actual es solo el comienzo\", dijo Hasson."
+        }
+      ]
+    },
+    "science/nature-ai-mechanic-astra": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.nature.com/lw767/magazine-assets/d41586-026-03679-8/d41586-026-03679-8_53974808.jpg",
+          "cap": "Algunos modelos de IA se comportan como mecánicos: corrigen fallos en otros modelos que no diseñaron ni comprenden del todo. Crédito: Mint Images/Getty"
+        },
+        {
+          "t": "p",
+          "x": "Un equipo de investigación ha utilizado un modelo de inteligencia artificial para leer y modificar el funcionamiento interno de otra red de IA, lo que ofrece una nueva forma de asomarse a la ‘caja negra’ de la IA. Un equipo MIT-led del Massachusetts Institute of Technology (MIT) ha demostrado que un modelo de IA llamado GPT-6 Astra puede interpretar los valores internos en bruto de algunos otros modelos lo bastante bien como para predecir qué hacen las distintas partes de los sistemas. Después puede editar los modelos para mejorarlos, por ejemplo aumentando sus capacidades matemáticas. Los autores publicaron sus resultados en una prepublicación el 2 de noviembre."
+        },
+        {
+          "t": "p",
+          "x": "Los modelos de IA de frontera “muestran los primeros destellos” de una capacidad para tratar las redes neuronales como archivos que pueden leer, analizar y cambiar, afirma el coautor Rikiya Takehi. Los resultados no significan que Astra, desarrollado por OpenAI, pueda explicar o entender cómo funciona una red de IA concreta, pero sugieren que los modelos de propósito general podrían modificar una red de formas útiles, como un mecánico que repara un motor que no diseñó ni comprende del todo."
+        },
+        {
+          "t": "p",
+          "x": "Fazl Barez, de la University of Oxford, afirma que la prepublicación muestra que algunos métodos de ‘interpretabilidad’ pueden automatizarse, aunque la esperanza de que esto conduzca a una IA más segura está “en gran medida sin comprobar”. Marinka Zitnik, de Harvard, señala que esta reprogramación podría ayudar a detectar errores en un modelo antes de las pruebas en el mundo real."
+        }
+      ]
     }
   }
 }
