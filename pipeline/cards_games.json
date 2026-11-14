@@ -1,197 +1,227 @@
 {
-  "date": "2026-11-14",
+  "date": "2026-11-15",
   "section": "games",
   "cards": [
     {
-      "id": "pearlabyss-ai-pipeline",
+      "id": "games-cod-ai-cheats-ricochet",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Pearl Abyss,\n전 개발 과정에 AI",
-      "body": "Pearl Abyss가 개발 전반에 AI를 들이며 DokeV는 2028년을 노린다.",
-      "mini_headline": "Pearl Abyss, 스튜디오 전반에 AI 도입",
+      "headline": "Call of Duty\nAI 치트 잡기 더 어렵다",
+      "body": "AI-built 에임봇이 기존 탐지를 피하자 RICOCHET는 행동 분석으로 간다.",
+      "mini_headline": "CoD 탐지 피하는 AI 치트",
       "tool": "Games",
-      "source": "Eurogamer",
-      "url": "https://www.eurogamer.net/crimson-desert-ai-pipeline-dokev-2028",
+      "source": "GameRiv",
+      "url": "https://gameriv.com/call-of-duty-warns-ai-powered-cheats-are-becoming-harder-to-detect/",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "p",
+            "x": "Call of Duty의 부정행위가 갈수록 정교해지는 가운데 인공지능(AI)까지 끼어들며 상황이 더 복잡해졌다. Activision은 AI로 플레이어에게 불공정한 이점을 주는 도구를 만드는 치트 개발자가 늘면서 기존 안티치트로는 잡아내기가 어려워지고 있다고 경고했다."
+          },
+          {
             "t": "img",
-            "src": "https://assetsio.gnwcdn.com/crimson-deser-kliff.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-            "cap": "이미지 출처: Pearl Abyss"
+            "src": "https://gameriv.com/wp-content/uploads/2026/10/Call-of-Duty-Coverage-by-gamign-media.jpg",
+            "cap": "이미지 출처: Acitvision"
           },
           {
             "t": "p",
-            "x": "Crimson Desert와 DokeV의 개발사 Pearl Abyss가 생성형 AI를 작업 흐름 깊숙이 들인다. 한국 스튜디오인 이 회사는 최근 분기 실적 서한(Earnings Letter)에서 예전엔 \"게임 시스템을 수작업으로 구현한 뒤에야 검증했다\"고 했다. 이제는 \"실제 구현에 앞서 다양한 디자인 콘셉트를 빠르게 검증하기 위해\" AI를 쓰고, 그 덕에 \"개발 리소스를 더 효율적으로 배분하고 전반적인 제작 속도를 높일 수 있다\"는 설명이다."
+            "x": "Activision은 최근 X 게시물에서 치트 개발자들이 게임과 직접 상호작용하지 않고도 불공정한 이점을 주는 도구를 AI로 만들고 있다고 밝혔다. AI-powered 치트 도구는 게임 밖에서 돌아간다. 플레이어 화면에 보이는 내용을 분석하고 별도 입력으로 조준을 자동화하는 방식이라 치트 소프트웨어 자체를 탐지하기가 더 까다롭다."
           },
           {
-            "t": "video",
-            "yt": "Ifjrgq3_tWg"
-          },
-          {
-            "t": "p",
-            "x": "개발사는 \"다만 AI는 어디까지나 콘셉트 검증과 파이프라인 생산성을 돕는 도구일 뿐이며, 핵심 게임플레이 경험과 실제 콘텐츠 제작은 전적으로 개발팀이 이끈다\"고 선을 그었다. AI가 맡는 일은 \"반복 작업 자동화, 콘텐츠 제작 지원, 테스트 최적화\"이고 회사는 \"전체 개발 파이프라인으로 적용을 넓히고 있다\"고 했다."
+            "t": "img",
+            "src": "https://gameriv.com/wp-content/uploads/2026/08/Call-of-duty-anti-cheat-lawsuit.jpg",
+            "cap": "이미지 출처: Activision"
           },
           {
             "t": "p",
-            "x": "Crimson Desert가 나왔을 때 플레이어들이 AI 생성(AI-generated) \"2D 비주얼 소품\"을 찾아냈고 Pearl Abyss는 곧바로 패치로 걷어냈다. 서한을 보면 크리처 수집 게임 DokeV는 \"2028년 하반기 출시를 목표로\" 하고, Crimson Desert는 \"내년 상반기\" Nintendo Switch 2로 나온다."
+            "x": "RICOCHET Anti-Cheat 개발진은 치트 소프트웨어 식별에만 기대지 않고 이런 도구가 경기 중에 남기는 의심스러운 행동을 연구한다. RICOCHET의 머신러닝 모델은 부자연스러운 조준, 수상한 반응 속도, 이례적인 타깃팅 같은 게임플레이 패턴을 분석해 정상적인 플레이어 행동과 자동화된 보조를 가려낸다. 다만 머신러닝은 의심 행동을 추가 조사 대상으로 표시할 뿐 제재를 혼자 결정하지는 않는다."
+          },
+          {
+            "t": "p",
+            "x": "Activision에 따르면 치트 개발자들은 자동화된 플레이가 더 자연스러워 보이도록 소프트웨어를 손보고 있다. 하지만 정상 플레이를 흉내 낼수록 얻는 이점도 줄어들 수 있다. 추가 AI-focused 탐지 도구의 출시일은 아직 발표되지 않았다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Pearl Abyss brings AI\nto its entire pipeline",
-          "body": "Pearl Abyss is integrating AI across its whole development pipeline, with DokeV now targeted for 2028.",
-          "mini_headline": "Pearl Abyss adopts AI studio-wide",
+          "headline": "Call of Duty says AI cheats\nare harder to detect",
+          "body": "Activision says AI-built screen-reading aimbots evade classic detection, so RICOCHET is moving to behaviour analysis.",
+          "mini_headline": "AI cheats evade CoD detection",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Cheating in Call of Duty is becoming more sophisticated, and artificial intelligence is making things even more complicated. Activision has warned that cheat developers are increasingly using AI to create tools that give players unfair advantages while making traditional anti-cheat detection more difficult."
+              },
+              {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/crimson-deser-kliff.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "cap": "Image credit: Pearl Abyss"
+                "src": "https://gameriv.com/wp-content/uploads/2026/10/Call-of-Duty-Coverage-by-gamign-media.jpg",
+                "cap": "Image Credit: Acitvision"
               },
               {
                 "t": "p",
-                "x": "Crimson Desert and DokeV developer Pearl Abyss is planning to further integrate generative AI into its workflow. In its latest quarterly Earnings Letter, the South Korean studio said it had previously \"validated game systems only after implementing them manually.\" Now it uses AI \"to rapidly validate diverse design concepts prior to actual implementation,\" which it says \"enables a more efficient allocation of development resources and enhances overall production speed.\""
+                "x": "In a recent post on X, Activision said cheat developers are turning to AI to build tools that can provide unfair advantages without necessarily interacting directly with the game. AI-powered cheating tools can potentially operate externally, analyzing what appears on a player’s screen and automating aiming through separate inputs, so detecting the cheating software itself becomes more difficult."
               },
               {
-                "t": "video",
-                "yt": "Ifjrgq3_tWg"
-              },
-              {
-                "t": "p",
-                "x": "\"However, AI serves strictly as a tool to support concept validation and pipeline productivity, while the core gameplay experience and actual content creation remain fully driven by our development team,\" the developer said. AI is used for \"the automation of repetitive tasks, content creation support, and test optimization,\" and \"we are expanding its implementation throughout our entire development pipeline.\""
+                "t": "img",
+                "src": "https://gameriv.com/wp-content/uploads/2026/08/Call-of-duty-anti-cheat-lawsuit.jpg",
+                "cap": "Image Credit: Activision"
               },
               {
                 "t": "p",
-                "x": "When Crimson Desert launched, players spotted AI-generated \"2D visual props\" that Pearl Abyss quickly patched out. The letter also says creature-collector DokeV is \"targeting a launch in the second half of 2028\", and Crimson Desert is coming to Nintendo Switch 2 \"in the first half of next year.\""
+                "x": "Rather than relying entirely on identifying cheating software, the RICOCHET Anti-Cheat developers are studying the suspicious behaviors these tools produce during matches. RICOCHET’s machine learning models analyze gameplay patterns — unnatural aiming, suspicious reaction times, unusual targeting — to distinguish legitimate player actions from automated assistance. Machine learning flags suspicious behavior for further investigation, but it does not independently make enforcement decisions."
+              },
+              {
+                "t": "p",
+                "x": "Activision says cheat developers are adjusting their software to make automated gameplay appear more natural, but the more their software imitates legitimate gameplay, the less advantage it potentially provides. No release date has been announced for additional AI-focused detection tools."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Pearl Abyss,\n전 개발 과정에 AI",
-          "body": "Pearl Abyss가 개발 전반에 AI를 들이며 DokeV는 2028년을 노린다.",
-          "mini_headline": "Pearl Abyss, 스튜디오 전반에 AI 도입",
+          "headline": "Call of Duty\nAI 치트 잡기 더 어렵다",
+          "body": "AI-built 에임봇이 기존 탐지를 피하자 RICOCHET는 행동 분석으로 간다.",
+          "mini_headline": "CoD 탐지 피하는 AI 치트",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Call of Duty의 부정행위가 갈수록 정교해지는 가운데 인공지능(AI)까지 끼어들며 상황이 더 복잡해졌다. Activision은 AI로 플레이어에게 불공정한 이점을 주는 도구를 만드는 치트 개발자가 늘면서 기존 안티치트로는 잡아내기가 어려워지고 있다고 경고했다."
+              },
+              {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/crimson-deser-kliff.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "cap": "이미지 출처: Pearl Abyss"
+                "src": "https://gameriv.com/wp-content/uploads/2026/10/Call-of-Duty-Coverage-by-gamign-media.jpg",
+                "cap": "이미지 출처: Acitvision"
               },
               {
                 "t": "p",
-                "x": "Crimson Desert와 DokeV의 개발사 Pearl Abyss가 생성형 AI를 작업 흐름 깊숙이 들인다. 한국 스튜디오인 이 회사는 최근 분기 실적 서한(Earnings Letter)에서 예전엔 \"게임 시스템을 수작업으로 구현한 뒤에야 검증했다\"고 했다. 이제는 \"실제 구현에 앞서 다양한 디자인 콘셉트를 빠르게 검증하기 위해\" AI를 쓰고, 그 덕에 \"개발 리소스를 더 효율적으로 배분하고 전반적인 제작 속도를 높일 수 있다\"는 설명이다."
+                "x": "Activision은 최근 X 게시물에서 치트 개발자들이 게임과 직접 상호작용하지 않고도 불공정한 이점을 주는 도구를 AI로 만들고 있다고 밝혔다. AI-powered 치트 도구는 게임 밖에서 돌아간다. 플레이어 화면에 보이는 내용을 분석하고 별도 입력으로 조준을 자동화하는 방식이라 치트 소프트웨어 자체를 탐지하기가 더 까다롭다."
               },
               {
-                "t": "video",
-                "yt": "Ifjrgq3_tWg"
-              },
-              {
-                "t": "p",
-                "x": "개발사는 \"다만 AI는 어디까지나 콘셉트 검증과 파이프라인 생산성을 돕는 도구일 뿐이며, 핵심 게임플레이 경험과 실제 콘텐츠 제작은 전적으로 개발팀이 이끈다\"고 선을 그었다. AI가 맡는 일은 \"반복 작업 자동화, 콘텐츠 제작 지원, 테스트 최적화\"이고 회사는 \"전체 개발 파이프라인으로 적용을 넓히고 있다\"고 했다."
+                "t": "img",
+                "src": "https://gameriv.com/wp-content/uploads/2026/08/Call-of-duty-anti-cheat-lawsuit.jpg",
+                "cap": "이미지 출처: Activision"
               },
               {
                 "t": "p",
-                "x": "Crimson Desert가 나왔을 때 플레이어들이 AI 생성(AI-generated) \"2D 비주얼 소품\"을 찾아냈고 Pearl Abyss는 곧바로 패치로 걷어냈다. 서한을 보면 크리처 수집 게임 DokeV는 \"2028년 하반기 출시를 목표로\" 하고, Crimson Desert는 \"내년 상반기\" Nintendo Switch 2로 나온다."
+                "x": "RICOCHET Anti-Cheat 개발진은 치트 소프트웨어 식별에만 기대지 않고 이런 도구가 경기 중에 남기는 의심스러운 행동을 연구한다. RICOCHET의 머신러닝 모델은 부자연스러운 조준, 수상한 반응 속도, 이례적인 타깃팅 같은 게임플레이 패턴을 분석해 정상적인 플레이어 행동과 자동화된 보조를 가려낸다. 다만 머신러닝은 의심 행동을 추가 조사 대상으로 표시할 뿐 제재를 혼자 결정하지는 않는다."
+              },
+              {
+                "t": "p",
+                "x": "Activision에 따르면 치트 개발자들은 자동화된 플레이가 더 자연스러워 보이도록 소프트웨어를 손보고 있다. 하지만 정상 플레이를 흉내 낼수록 얻는 이점도 줄어들 수 있다. 추가 AI-focused 탐지 도구의 출시일은 아직 발표되지 않았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Pearl Abyss、\n全開発工程にAI",
-          "body": "Pearl Abyssが開発工程全体にAIを導入し、DokeVは2028年を目指す。",
-          "mini_headline": "Pearl Abyss、スタジオ全体でAI導入",
+          "headline": "Call of Duty\nAIチートは検知が困難に",
+          "body": "AI-builtのエイムボットが従来の検知を逃れ、RICOCHETは行動分析へ移る。",
+          "mini_headline": "AIチート、CoDの検知を回避",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Call of Dutyでの不正行為は巧妙さを増しており、人工知能(AI)が事態をさらに複雑にしている。Activisionは、チート開発者がAIを使ってプレイヤーに不公平な優位を与えるツールを作るケースが増え、従来のアンチチートによる検知が難しくなっていると警告した。"
+              },
+              {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/crimson-deser-kliff.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "cap": "画像提供：Pearl Abyss"
+                "src": "https://gameriv.com/wp-content/uploads/2026/10/Call-of-Duty-Coverage-by-gamign-media.jpg",
+                "cap": "画像クレジット: Acitvision"
               },
               {
                 "t": "p",
-                "x": "『Crimson Desert』と『DokeV』を手がけるPearl Abyssは、生成AIをワークフローにさらに統合する計画だ。この韓国のスタジオは最新の四半期決算書簡（Earnings Letter）で、以前は「ゲームシステムを手作業で実装してからでないと検証できなかった」と述べた。現在は「実際の実装に先立って多様なデザインコンセプトを素早く検証する」ためにAIを使っており、それにより「開発リソースをより効率的に配分でき、全体の制作スピードも高まる」という。"
+                "x": "Activisionは最近のXへの投稿で、チート開発者がゲームに直接干渉しなくても不公平な優位をもたらせるツールをAIで作り始めていると述べた。AI-poweredのチートツールはゲームの外部で動作し、プレイヤーの画面に映る内容を解析して別の入力で照準を自動化できるため、チートソフトそのものの検知が難しくなる。"
               },
               {
-                "t": "video",
-                "yt": "Ifjrgq3_tWg"
-              },
-              {
-                "t": "p",
-                "x": "「ただし、AIはあくまでコンセプト検証とパイプラインの生産性を支えるツールであり、中核となるゲームプレイ体験と実際のコンテンツ制作は完全に開発チームが担っている」と同社は述べた。AIは「反復作業の自動化、コンテンツ制作の支援、テストの最適化」に使われており、「開発パイプライン全体に導入を広げている」という。"
+                "t": "img",
+                "src": "https://gameriv.com/wp-content/uploads/2026/08/Call-of-duty-anti-cheat-lawsuit.jpg",
+                "cap": "画像クレジット: Activision"
               },
               {
                 "t": "p",
-                "x": "『Crimson Desert』の発売時、プレイヤーはAI生成（AI-generated）の「2Dビジュアル小道具」を見つけ、Pearl Abyssはすぐにパッチで取り除いた。書簡によると、クリーチャー収集ゲーム『DokeV』は「2028年下半期の発売を目指して」おり、『Crimson Desert』は「来年上半期に」Nintendo Switch 2向けに登場する。"
+                "x": "RICOCHET Anti-Cheatの開発陣は、チートソフトの特定だけに頼るのではなく、こうしたツールが試合中に生む不審な挙動を研究している。RICOCHETの機械学習モデルは、不自然な照準、疑わしい反応速度、異常なターゲティングといったゲームプレイのパターンを分析し、正当なプレイヤーの操作と自動化された補助を見分ける。機械学習は不審な挙動を追加調査の対象として示すが、処分を単独で決めることはない。"
+              },
+              {
+                "t": "p",
+                "x": "Activisionによると、チート開発者は自動化したプレイをより自然に見せるようソフトを調整しているが、正当なプレイを模倣するほど得られる優位は小さくなりうる。追加のAI-focused検知ツールのリリース日はまだ発表されていない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Pearl Abyss\n全开发流程引入AI",
-          "body": "Pearl Abyss正将AI融入整个开发流程，DokeV目标定于2028年推出。",
-          "mini_headline": "Pearl Abyss全公司采用AI",
+          "headline": "Call of Duty称\nAI作弊更难检测",
+          "body": "AI-built读屏自瞄外挂可规避传统检测，RICOCHET转向行为分析。",
+          "mini_headline": "AI作弊规避CoD检测",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Call of Duty中的作弊行为日益复杂，人工智能(AI)让局面更加棘手。Activision警告称，作弊开发者越来越多地借助AI打造为玩家提供不公平优势的工具，同时让传统反作弊检测更加困难。"
+              },
+              {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/crimson-deser-kliff.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "cap": "图片来源：Pearl Abyss"
+                "src": "https://gameriv.com/wp-content/uploads/2026/10/Call-of-Duty-Coverage-by-gamign-media.jpg",
+                "cap": "图片来源：Acitvision"
               },
               {
                 "t": "p",
-                "x": "《Crimson Desert》和《DokeV》的开发商Pearl Abyss计划将生成式AI进一步融入工作流程。这家韩国工作室在最新一季的财报信（Earnings Letter）中表示，过去它“只有在手动实现之后才能验证游戏系统”。如今它使用AI“在实际实现之前快速验证多种设计概念”，并称这“能够更高效地分配开发资源，并提升整体制作速度”。"
+                "x": "Activision在X上的一则近期帖子中表示，作弊开发者正借助AI打造无需直接与游戏交互即可提供不公平优势的工具。AI-powered作弊工具可能在游戏外部运行，分析玩家屏幕上的画面，并通过独立输入实现自动瞄准，因此检测作弊软件本身变得更加困难。"
               },
               {
-                "t": "video",
-                "yt": "Ifjrgq3_tWg"
-              },
-              {
-                "t": "p",
-                "x": "“不过，AI严格来说只是辅助概念验证和管线生产力的工具，核心游戏体验和实际内容创作仍完全由我们的开发团队主导，”该开发商表示。AI被用于“重复性任务的自动化、内容创作支持以及测试优化”，并且“我们正在将其应用扩展到整个开发管线”。"
+                "t": "img",
+                "src": "https://gameriv.com/wp-content/uploads/2026/08/Call-of-duty-anti-cheat-lawsuit.jpg",
+                "cap": "图片来源：Activision"
               },
               {
                 "t": "p",
-                "x": "《Crimson Desert》上线时，玩家发现了AI生成（AI-generated）的“2D视觉道具”，Pearl Abyss随即通过补丁将其移除。财报信还称，生物收集游戏《DokeV》“目标于2028年下半年发售”，而《Crimson Desert》将于“明年上半年”登陆Nintendo Switch 2。"
+                "x": "RICOCHET Anti-Cheat开发团队不再完全依赖识别作弊软件，而是研究这些工具在比赛中产生的可疑行为。RICOCHET的机器学习模型会分析不自然的瞄准、可疑的反应时间、异常的锁定目标等游戏模式，以区分正常玩家操作与自动化辅助。机器学习会标记可疑行为以供进一步调查，但不会独立做出处罚决定。"
+              },
+              {
+                "t": "p",
+                "x": "Activision表示，作弊开发者正在调整软件，让自动化操作看起来更自然，但软件越是模仿正常玩法，可能带来的优势就越小。更多AI-focused检测工具尚未公布发布日期。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Pearl Abyss lleva la IA\na todo su proceso de desarrollo",
-          "body": "Pearl Abyss integra la IA en todo su proceso de desarrollo y ahora prevé lanzar DokeV en 2028.",
-          "mini_headline": "Pearl Abyss adopta la IA en todo el estudio",
+          "headline": "Call of Duty: trampas con AI\nmás difíciles de detectar",
+          "body": "Activision dice que los aimbots AI-built evaden la detección clásica, y RICOCHET pasa al análisis de conducta.",
+          "mini_headline": "Las trampas con AI evaden la detección de CoD",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Las trampas en Call of Duty son cada vez más sofisticadas, y la inteligencia artificial (AI) complica aún más la situación. Activision advirtió que los desarrolladores de trampas usan cada vez más AI para crear herramientas que dan a los jugadores ventajas injustas y que dificultan la detección anti-trampas tradicional."
+              },
+              {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/crimson-deser-kliff.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "cap": "Crédito de la imagen: Pearl Abyss"
+                "src": "https://gameriv.com/wp-content/uploads/2026/10/Call-of-Duty-Coverage-by-gamign-media.jpg",
+                "cap": "Crédito de imagen: Acitvision"
               },
               {
                 "t": "p",
-                "x": "Pearl Abyss, desarrolladora de Crimson Desert y DokeV, planea integrar aún más la IA generativa en su flujo de trabajo. En su más reciente carta trimestral de resultados (Earnings Letter), el estudio surcoreano explicó que antes \"validaba los sistemas de juego solo después de implementarlos manualmente\". Ahora usa la IA \"para validar rápidamente diversos conceptos de diseño antes de la implementación real\", lo que, según afirma, \"permite una asignación más eficiente de los recursos de desarrollo y mejora la velocidad general de producción\"."
+                "x": "En una publicación reciente en X, Activision indicó que los desarrolladores de trampas recurren a la AI para crear herramientas capaces de ofrecer ventajas injustas sin necesidad de interactuar directamente con el juego. Las herramientas de trampas AI-powered pueden funcionar de forma externa, analizando lo que aparece en la pantalla del jugador y automatizando la puntería mediante entradas separadas, por lo que detectar el propio software de trampas resulta más difícil."
               },
               {
-                "t": "video",
-                "yt": "Ifjrgq3_tWg"
-              },
-              {
-                "t": "p",
-                "x": "\"Sin embargo, la IA sirve estrictamente como herramienta de apoyo a la validación de conceptos y a la productividad del pipeline, mientras que la experiencia de juego central y la creación real de contenido siguen estando totalmente a cargo de nuestro equipo de desarrollo\", afirmó la desarrolladora. La IA se utiliza para \"la automatización de tareas repetitivas, el apoyo a la creación de contenido y la optimización de pruebas\", y \"estamos ampliando su implementación a todo nuestro pipeline de desarrollo\"."
+                "t": "img",
+                "src": "https://gameriv.com/wp-content/uploads/2026/08/Call-of-duty-anti-cheat-lawsuit.jpg",
+                "cap": "Crédito de imagen: Activision"
               },
               {
                 "t": "p",
-                "x": "Cuando se lanzó Crimson Desert, los jugadores detectaron \"elementos visuales 2D\" generados con IA (AI-generated) que Pearl Abyss retiró rápidamente con un parche. La carta también indica que DokeV, un juego de colección de criaturas, tiene como \"objetivo un lanzamiento en la segunda mitad de 2028\", y que Crimson Desert llegará a Nintendo Switch 2 \"en la primera mitad del próximo año\"."
+                "x": "En lugar de depender por completo de identificar el software de trampas, los desarrolladores de RICOCHET Anti-Cheat estudian los comportamientos sospechosos que estas herramientas generan durante las partidas. Los modelos de aprendizaje automático de RICOCHET analizan patrones de juego —puntería poco natural, tiempos de reacción sospechosos, selección de objetivos inusual— para distinguir las acciones legítimas de los jugadores de la asistencia automatizada. El aprendizaje automático señala el comportamiento sospechoso para una investigación adicional, pero no toma decisiones de sanción por sí solo."
+              },
+              {
+                "t": "p",
+                "x": "Activision afirma que los desarrolladores de trampas ajustan su software para que el juego automatizado parezca más natural, pero cuanto más imita su software el juego legítimo, menos ventaja puede ofrecer. No se ha anunciado fecha de lanzamiento para nuevas herramientas de detección AI-focused."
               }
             ]
           }
@@ -199,125 +229,145 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Pearl Abyss,\n전 개발 과정에 AI",
-          "body": "Pearl Abyss가 개발 전반에 AI를 들이고 DokeV는 2028년 목표다.",
-          "mini_headline": "Pearl Abyss, 스튜디오 전반에 AI 도입",
+          "headline": "Call of Duty\nAI 치트 탐지 더 어렵다",
+          "body": "AI-built 에임봇이 기존 탐지를 피해 RICOCHET는 행동 분석에 나선다.",
+          "mini_headline": "AI 치트, CoD 탐지 회피",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Call of Duty의 부정행위는 점점 정교해지고 있고, 인공지능(AI)이 상황을 더 복잡하게 만들고 있다. Activision은 치트 개발자들이 AI로 플레이어에게 불공정한 이점을 주는 도구를 만드는 일이 늘고 있으며, 이 때문에 기존 안티치트 탐지가 더 어려워지고 있다고 경고했다."
+              },
+              {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/crimson-deser-kliff.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "cap": "이미지 출처: Pearl Abyss"
+                "src": "https://gameriv.com/wp-content/uploads/2026/10/Call-of-Duty-Coverage-by-gamign-media.jpg",
+                "cap": "이미지 출처: Acitvision"
               },
               {
                 "t": "p",
-                "x": "Crimson Desert와 DokeV를 개발한 Pearl Abyss가 생성형 AI를 작업 흐름에 더 깊이 통합할 계획이다. 이 한국 스튜디오는 최근 분기 실적 서한(Earnings Letter)에서 예전에는 \"게임 시스템을 수작업으로 구현한 뒤에야 검증했다\"고 밝혔다. 지금은 \"실제 구현에 앞서 다양한 디자인 콘셉트를 빠르게 검증하기 위해\" AI를 쓰며, 이를 통해 \"개발 리소스를 더 효율적으로 배분하고 전반적인 제작 속도를 높일 수 있다\"고 설명했다."
+                "x": "Activision은 최근 X 게시물에서 치트 개발자들이 게임과 직접 상호작용하지 않고도 불공정한 이점을 줄 수 있는 도구를 AI로 만들고 있다고 밝혔다. AI-powered 치트 도구는 게임 밖에서 작동하며 플레이어 화면에 보이는 내용을 분석하고 별도 입력으로 조준을 자동화할 수 있어, 치트 소프트웨어 자체를 탐지하기가 더 어려워진다."
               },
               {
-                "t": "video",
-                "yt": "Ifjrgq3_tWg"
-              },
-              {
-                "t": "p",
-                "x": "개발사는 \"다만 AI는 어디까지나 콘셉트 검증과 파이프라인 생산성을 돕는 도구일 뿐이며, 핵심 게임플레이 경험과 실제 콘텐츠 제작은 전적으로 개발팀이 이끈다\"고 말했다. AI는 \"반복 작업 자동화, 콘텐츠 제작 지원, 테스트 최적화\"에 쓰이며, 회사는 \"전체 개발 파이프라인으로 적용을 넓히고 있다\"고 했다."
+                "t": "img",
+                "src": "https://gameriv.com/wp-content/uploads/2026/08/Call-of-duty-anti-cheat-lawsuit.jpg",
+                "cap": "이미지 출처: Activision"
               },
               {
                 "t": "p",
-                "x": "Crimson Desert 출시 당시 플레이어들은 AI 생성(AI-generated) \"2D 비주얼 소품\"을 찾아냈고, Pearl Abyss는 이를 곧바로 패치로 걷어냈다. 서한에 따르면 크리처 수집 게임 DokeV는 \"2028년 하반기 출시를 목표로\" 하며, Crimson Desert는 \"내년 상반기\" Nintendo Switch 2로 나온다."
+                "x": "RICOCHET Anti-Cheat 개발진은 치트 소프트웨어 식별에만 의존하지 않고, 이런 도구가 경기 중 만들어내는 의심스러운 행동을 연구하고 있다. RICOCHET의 머신러닝 모델은 부자연스러운 조준, 수상한 반응 속도, 이례적인 타깃팅 같은 게임플레이 패턴을 분석해 정상적인 플레이어 행동과 자동화된 보조를 구분한다. 머신러닝은 의심스러운 행동을 추가 조사 대상으로 표시할 뿐, 제재 결정을 독자적으로 내리지는 않는다."
+              },
+              {
+                "t": "p",
+                "x": "Activision은 치트 개발자들이 자동화된 플레이를 더 자연스럽게 보이도록 소프트웨어를 조정하고 있지만, 정상 플레이를 흉내 낼수록 얻는 이점은 줄어들 수 있다고 설명했다. 추가 AI-focused 탐지 도구의 출시일은 아직 발표되지 않았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Pearl Abyss、\n全開発工程にAI",
-          "body": "Pearl Abyssが開発工程全体にAIを導入し、DokeVは2028年を目指す。",
-          "mini_headline": "Pearl Abyss、スタジオ全体でAI導入",
+          "headline": "Call of Duty\nAIチートは検知が困難に",
+          "body": "AI-builtのエイムボットが従来の検知を逃れ、RICOCHETは行動分析へ移る。",
+          "mini_headline": "AIチート、CoDの検知を回避",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Call of Dutyでの不正行為は巧妙さを増しており、人工知能(AI)が事態をさらに複雑にしている。Activisionは、チート開発者がAIを使ってプレイヤーに不公平な優位を与えるツールを作るケースが増え、従来のアンチチートによる検知が難しくなっていると警告した。"
+              },
+              {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/crimson-deser-kliff.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "cap": "画像提供：Pearl Abyss"
+                "src": "https://gameriv.com/wp-content/uploads/2026/10/Call-of-Duty-Coverage-by-gamign-media.jpg",
+                "cap": "画像クレジット: Acitvision"
               },
               {
                 "t": "p",
-                "x": "『Crimson Desert』と『DokeV』を手がけるPearl Abyssは、生成AIをワークフローにさらに統合する計画だ。この韓国のスタジオは最新の四半期決算書簡（Earnings Letter）で、以前は「ゲームシステムを手作業で実装してからでないと検証できなかった」と述べた。現在は「実際の実装に先立って多様なデザインコンセプトを素早く検証する」ためにAIを使っており、それにより「開発リソースをより効率的に配分でき、全体の制作スピードも高まる」という。"
+                "x": "Activisionは最近のXへの投稿で、チート開発者がゲームに直接干渉しなくても不公平な優位をもたらせるツールをAIで作り始めていると述べた。AI-poweredのチートツールはゲームの外部で動作し、プレイヤーの画面に映る内容を解析して別の入力で照準を自動化できるため、チートソフトそのものの検知が難しくなる。"
               },
               {
-                "t": "video",
-                "yt": "Ifjrgq3_tWg"
-              },
-              {
-                "t": "p",
-                "x": "「ただし、AIはあくまでコンセプト検証とパイプラインの生産性を支えるツールであり、中核となるゲームプレイ体験と実際のコンテンツ制作は完全に開発チームが担っている」と同社は述べた。AIは「反復作業の自動化、コンテンツ制作の支援、テストの最適化」に使われており、「開発パイプライン全体に導入を広げている」という。"
+                "t": "img",
+                "src": "https://gameriv.com/wp-content/uploads/2026/08/Call-of-duty-anti-cheat-lawsuit.jpg",
+                "cap": "画像クレジット: Activision"
               },
               {
                 "t": "p",
-                "x": "『Crimson Desert』の発売時、プレイヤーはAI生成（AI-generated）の「2Dビジュアル小道具」を見つけ、Pearl Abyssはすぐにパッチで取り除いた。書簡によると、クリーチャー収集ゲーム『DokeV』は「2028年下半期の発売を目指して」おり、『Crimson Desert』は「来年上半期に」Nintendo Switch 2向けに登場する。"
+                "x": "RICOCHET Anti-Cheatの開発陣は、チートソフトの特定だけに頼るのではなく、こうしたツールが試合中に生む不審な挙動を研究している。RICOCHETの機械学習モデルは、不自然な照準、疑わしい反応速度、異常なターゲティングといったゲームプレイのパターンを分析し、正当なプレイヤーの操作と自動化された補助を見分ける。機械学習は不審な挙動を追加調査の対象として示すが、処分を単独で決めることはない。"
+              },
+              {
+                "t": "p",
+                "x": "Activisionによると、チート開発者は自動化したプレイをより自然に見せるようソフトを調整しているが、正当なプレイを模倣するほど得られる優位は小さくなりうる。追加のAI-focused検知ツールのリリース日はまだ発表されていない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Pearl Abyss\n全开发流程引入AI",
-          "body": "Pearl Abyss正将AI融入整个开发流程，DokeV目标定于2028年推出。",
-          "mini_headline": "Pearl Abyss全公司采用AI",
+          "headline": "Call of Duty称\nAI作弊更难检测",
+          "body": "AI-built读屏自瞄外挂可规避传统检测，RICOCHET转向行为分析。",
+          "mini_headline": "AI作弊规避CoD检测",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Call of Duty中的作弊行为日益复杂，人工智能(AI)让局面更加棘手。Activision警告称，作弊开发者越来越多地借助AI打造为玩家提供不公平优势的工具，同时让传统反作弊检测更加困难。"
+              },
+              {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/crimson-deser-kliff.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "cap": "图片来源：Pearl Abyss"
+                "src": "https://gameriv.com/wp-content/uploads/2026/10/Call-of-Duty-Coverage-by-gamign-media.jpg",
+                "cap": "图片来源：Acitvision"
               },
               {
                 "t": "p",
-                "x": "《Crimson Desert》和《DokeV》的开发商Pearl Abyss计划将生成式AI进一步融入工作流程。这家韩国工作室在最新一季的财报信（Earnings Letter）中表示，过去它“只有在手动实现之后才能验证游戏系统”。如今它使用AI“在实际实现之前快速验证多种设计概念”，并称这“能够更高效地分配开发资源，并提升整体制作速度”。"
+                "x": "Activision在X上的一则近期帖子中表示，作弊开发者正借助AI打造无需直接与游戏交互即可提供不公平优势的工具。AI-powered作弊工具可能在游戏外部运行，分析玩家屏幕上的画面，并通过独立输入实现自动瞄准，因此检测作弊软件本身变得更加困难。"
               },
               {
-                "t": "video",
-                "yt": "Ifjrgq3_tWg"
-              },
-              {
-                "t": "p",
-                "x": "“不过，AI严格来说只是辅助概念验证和管线生产力的工具，核心游戏体验和实际内容创作仍完全由我们的开发团队主导，”该开发商表示。AI被用于“重复性任务的自动化、内容创作支持以及测试优化”，并且“我们正在将其应用扩展到整个开发管线”。"
+                "t": "img",
+                "src": "https://gameriv.com/wp-content/uploads/2026/08/Call-of-duty-anti-cheat-lawsuit.jpg",
+                "cap": "图片来源：Activision"
               },
               {
                 "t": "p",
-                "x": "《Crimson Desert》上线时，玩家发现了AI生成（AI-generated）的“2D视觉道具”，Pearl Abyss随即通过补丁将其移除。财报信还称，生物收集游戏《DokeV》“目标于2028年下半年发售”，而《Crimson Desert》将于“明年上半年”登陆Nintendo Switch 2。"
+                "x": "RICOCHET Anti-Cheat开发团队不再完全依赖识别作弊软件，而是研究这些工具在比赛中产生的可疑行为。RICOCHET的机器学习模型会分析不自然的瞄准、可疑的反应时间、异常的锁定目标等游戏模式，以区分正常玩家操作与自动化辅助。机器学习会标记可疑行为以供进一步调查，但不会独立做出处罚决定。"
+              },
+              {
+                "t": "p",
+                "x": "Activision表示，作弊开发者正在调整软件，让自动化操作看起来更自然，但软件越是模仿正常玩法，可能带来的优势就越小。更多AI-focused检测工具尚未公布发布日期。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Pearl Abyss lleva la IA\na todo su proceso de desarrollo",
-          "body": "Pearl Abyss integra la IA en todo su proceso de desarrollo y ahora prevé lanzar DokeV en 2028.",
-          "mini_headline": "Pearl Abyss adopta la IA en todo el estudio",
+          "headline": "Call of Duty: trampas con AI\nmás difíciles de detectar",
+          "body": "Activision dice que los aimbots AI-built evaden la detección clásica, y RICOCHET pasa al análisis de conducta.",
+          "mini_headline": "Las trampas con AI evaden la detección de CoD",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Las trampas en Call of Duty son cada vez más sofisticadas, y la inteligencia artificial (AI) complica aún más la situación. Activision advirtió que los desarrolladores de trampas usan cada vez más AI para crear herramientas que dan a los jugadores ventajas injustas y que dificultan la detección anti-trampas tradicional."
+              },
+              {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/crimson-deser-kliff.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "cap": "Crédito de la imagen: Pearl Abyss"
+                "src": "https://gameriv.com/wp-content/uploads/2026/10/Call-of-Duty-Coverage-by-gamign-media.jpg",
+                "cap": "Crédito de imagen: Acitvision"
               },
               {
                 "t": "p",
-                "x": "Pearl Abyss, desarrolladora de Crimson Desert y DokeV, planea integrar aún más la IA generativa en su flujo de trabajo. En su más reciente carta trimestral de resultados (Earnings Letter), el estudio surcoreano explicó que antes \"validaba los sistemas de juego solo después de implementarlos manualmente\". Ahora usa la IA \"para validar rápidamente diversos conceptos de diseño antes de la implementación real\", lo que, según afirma, \"permite una asignación más eficiente de los recursos de desarrollo y mejora la velocidad general de producción\"."
+                "x": "En una publicación reciente en X, Activision indicó que los desarrolladores de trampas recurren a la AI para crear herramientas capaces de ofrecer ventajas injustas sin necesidad de interactuar directamente con el juego. Las herramientas de trampas AI-powered pueden funcionar de forma externa, analizando lo que aparece en la pantalla del jugador y automatizando la puntería mediante entradas separadas, por lo que detectar el propio software de trampas resulta más difícil."
               },
               {
-                "t": "video",
-                "yt": "Ifjrgq3_tWg"
-              },
-              {
-                "t": "p",
-                "x": "\"Sin embargo, la IA sirve estrictamente como herramienta de apoyo a la validación de conceptos y a la productividad del pipeline, mientras que la experiencia de juego central y la creación real de contenido siguen estando totalmente a cargo de nuestro equipo de desarrollo\", afirmó la desarrolladora. La IA se utiliza para \"la automatización de tareas repetitivas, el apoyo a la creación de contenido y la optimización de pruebas\", y \"estamos ampliando su implementación a todo nuestro pipeline de desarrollo\"."
+                "t": "img",
+                "src": "https://gameriv.com/wp-content/uploads/2026/08/Call-of-duty-anti-cheat-lawsuit.jpg",
+                "cap": "Crédito de imagen: Activision"
               },
               {
                 "t": "p",
-                "x": "Cuando se lanzó Crimson Desert, los jugadores detectaron \"elementos visuales 2D\" generados con IA (AI-generated) que Pearl Abyss retiró rápidamente con un parche. La carta también indica que DokeV, un juego de colección de criaturas, tiene como \"objetivo un lanzamiento en la segunda mitad de 2028\", y que Crimson Desert llegará a Nintendo Switch 2 \"en la primera mitad del próximo año\"."
+                "x": "En lugar de depender por completo de identificar el software de trampas, los desarrolladores de RICOCHET Anti-Cheat estudian los comportamientos sospechosos que estas herramientas generan durante las partidas. Los modelos de aprendizaje automático de RICOCHET analizan patrones de juego —puntería poco natural, tiempos de reacción sospechosos, selección de objetivos inusual— para distinguir las acciones legítimas de los jugadores de la asistencia automatizada. El aprendizaje automático señala el comportamiento sospechoso para una investigación adicional, pero no toma decisiones de sanción por sí solo."
+              },
+              {
+                "t": "p",
+                "x": "Activision afirma que los desarrolladores de trampas ajustan su software para que el juego automatizado parezca más natural, pero cuanto más imita su software el juego legítimo, menos ventaja puede ofrecer. No se ha anunciado fecha de lanzamiento para nuevas herramientas de detección AI-focused."
               }
             ]
           }
@@ -325,321 +375,411 @@
       }
     },
     {
-      "id": "sony-qssr-ps5-rollout",
-      "source_lang": "en",
+      "id": "games-backend-taskbar-hero-leak",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "Sony의 QSSR\nPS5 게임 6종 탑재",
-      "body": "PSSR에서 나온 경량 AI 업스케일러 QSSR이 PS5 게임 6종에 들어간다.",
-      "mini_headline": "QSSR, PS5 게임 6종에 적용",
+      "headline": "AI 공격에 뚫린 뒤끝\n태스크바 히어로 정보 유출",
+      "body": "서버 솔루션 뒤끝이 AI 공격을 받아 태스크바 히어로 정보가 23일간 유출됐다.",
+      "mini_headline": "뒤끝 AI 공격에 정보 유출",
       "tool": "Games",
-      "source": "Wccftech",
-      "url": "https://wccftech.com/quick-spectral-super-resolution-six-ps5-games/",
+      "source": "게임와이",
+      "url": "http://www.gamey.kr/news/articleView.html?idxno=3019720",
       "accent": "#0070f3",
       "motif": "cube",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "p",
+            "x": "국내 게임 서버 솔루션 '뒤끝'이 외부 공격을 받으면서 스팀 방치형 게임 'TBH: 태스크바 히어로(Task Bar Hero)' 이용자 정보가 빠져나갔다. 뒤끝은 이번 공격을 취약점을 악용한 'AI 기반 공격'이라고 밝혔다."
+          },
+          {
+            "t": "p",
+            "x": "누겜 스튜디오가 11월 12일 스팀에 올린 공지에 따르면 제3자는 10월 17일부터 11월 8일까지 23일 동안 외부 게임 서버 서비스의 관리 도구 취약점을 이용해 플레이어 정보를 내려받았다. 대상은 11월 9일 오후 3시 59분 이전에 게임을 플레이한 계정 전부다. 유출 항목은 SteamID64, 게임 서버 계정 ID와 가입 일시, 마지막 로그인 일시와 IP 주소, 메인보드 모델명 또는 컴퓨터 이름, 운영체제 정보, 계정 제재·삭제 여부다."
+          },
+          {
             "t": "img",
-            "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/ARC-Raiders-QSSR-HD-1920x1080.jpeg",
-            "cap": "Quick Spectral Super Resolution(QSSR)이 곧 Spider-Man 2, CONTROL Resonant, ARC Raiders, The Finals, No Man's Sky, Hell Let Loose: Vietnam 등 PS5 게임 6종에 들어간다."
+            "src": "https://cdn.gamey.kr/news/photo/202611/3019720_174147_5017.jpg",
+            "cap": "누겜 스튜디오가 11월 12일 스팀에 올린 태스크바 히어로 개인정보 유출 알림 /스팀"
           },
           {
             "t": "p",
-            "x": "Sony가 오늘 발표한 바에 따르면 PlayStation 5 게임 6종이 Quick Spectral Super Resolution(QSSR) 지원을 이미 넣었거나 곧 넣는다. QSSR은 PS5 Pro의 PSSR에서 갈라져 나온 경량 AI 업스케일러로 10월에 처음 공개됐다. 대상은 Marvel's Spider-Man 2, CONTROL Resonant, The Finals, ARC Raiders, No Man's Sky, Hell Let Loose: Vietnam이다."
+            "x": "뒤끝은 긴급 공지에서 \"뒤끝 서비스의 일부 기능에서 보안 취약점이 발견되었으며, 이 취약점을 악용한 AI 기반 공격이 다수 발생하였다\"고 밝혔다. 회사는 11월 8일 침해 사고를 확인했고 이튿날 KISA에 신고했다. 상세한 침해 경로는 AI를 활용한 추가 공격에 쓰일 수 있다는 이유로 간략하게만 공개했다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.gamey.kr/news/photo/202611/3019720_174148_5017.jpg",
+            "cap": "뒤끝 긴급 공지 중 'AI 기반 공격' 언급 부분(태스크바 히어로 스팀 공지 첨부) /뒤끝"
           },
           {
             "t": "p",
-            "x": "Insomniac의 Mike Fitzgerald에 따르면 Marvel's Wolverine에서 좋은 결과를 본 뒤 QSSR을 Marvel's Spider-Man 2에도 \"지금 배포된 업데이트로\" 넣었다."
-          },
-          {
-            "t": "video",
-            "yt": "JYEQkLnlV7o"
+            "x": "CSV 다운로드 기능의 취약점으로 '1개 게임의 유저 정보'가 유출됐고, 콘솔 서브 관리자(GM) 계정 69개의 정보가 조회됐다. 뒤끝은 공격에 쓰인 계정과 IP를 차단하고 커뮤니티 서비스를 멈췄으며, 11월 9일부터 콘솔 전 계정에 2차 인증을 의무화했다."
           },
           {
             "t": "p",
-            "x": "Remedy의 Erik Jansson은 12월에 나올 업데이트에서 QSSR이 Control Resonant에 \"훨씬 안정적이고 디테일한 이미지\"를 보여 준다고 했다. Embark Studios도 ARC Raiders와 The Finals에 QSSR이 곧 들어간다고 밝혔다. Hello Games의 Sean Murray는 No Man's Sky에서 \"앞으로 몇 주 안에\" 만날 수 있다고 했고 Expression Games는 이후 업데이트로 Hell Let Loose: Vietnam에 QSSR을 넣는다."
+            "x": "뒤끝은 AI를 활용해 보안 취약점을 찾아내는 자동화된 공격이 빠르게 늘고 있다며, 비밀번호만으로 로그인하는 방식은 안전한 인증을 보장할 수 없다고 2차 인증 사용을 권했다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "Sony's QSSR upscaler\nheads to six PS5 games",
-          "body": "Sony's QSSR, a lightweight AI upscaler derived from PS5 Pro's PSSR, is coming to six PS5 games.",
-          "mini_headline": "QSSR comes to six PS5 games",
+        "ko": {
+          "headline": "AI 공격에 뚫린 뒤끝\n태스크바 히어로 정보 유출",
+          "body": "서버 솔루션 뒤끝이 AI 공격을 받아 태스크바 히어로 정보가 23일간 유출됐다.",
+          "mini_headline": "뒤끝 AI 공격에 정보 유출",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "국내 게임 서버 솔루션 '뒤끝'이 외부 공격을 받으면서 스팀 방치형 게임 'TBH: 태스크바 히어로(Task Bar Hero)' 이용자 정보가 빠져나갔다. 뒤끝은 이번 공격을 취약점을 악용한 'AI 기반 공격'이라고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "누겜 스튜디오가 11월 12일 스팀에 올린 공지에 따르면 제3자는 10월 17일부터 11월 8일까지 23일 동안 외부 게임 서버 서비스의 관리 도구 취약점을 이용해 플레이어 정보를 내려받았다. 대상은 11월 9일 오후 3시 59분 이전에 게임을 플레이한 계정 전부다. 유출 항목은 SteamID64, 게임 서버 계정 ID와 가입 일시, 마지막 로그인 일시와 IP 주소, 메인보드 모델명 또는 컴퓨터 이름, 운영체제 정보, 계정 제재·삭제 여부다."
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/ARC-Raiders-QSSR-HD-1920x1080.jpeg",
-                "cap": "Quick Spectral Super Resolution (QSSR) is coming soon to six PS5 games, including Spider-Man 2, CONTROL Resonant, ARC Raiders, The Finals, No Man's Sky, and Hell Let Loose: Vietnam."
+                "src": "https://cdn.gamey.kr/news/photo/202611/3019720_174147_5017.jpg",
+                "cap": "누겜 스튜디오가 11월 12일 스팀에 올린 태스크바 히어로 개인정보 유출 알림 /스팀"
               },
               {
                 "t": "p",
-                "x": "Sony announced today that six PlayStation 5 games have added or are about to add support for Quick Spectral Super Resolution (QSSR), the lightweight AI upscaler derived from PS5 Pro's PSSR and originally released in October. The games are Marvel's Spider-Man 2, CONTROL Resonant, The Finals, ARC Raiders, No Man's Sky, and Hell Let Loose: Vietnam."
+                "x": "뒤끝은 긴급 공지에서 \"뒤끝 서비스의 일부 기능에서 보안 취약점이 발견되었으며, 이 취약점을 악용한 AI 기반 공격이 다수 발생하였다\"고 밝혔다. 회사는 11월 8일 침해 사고를 확인했고 이튿날 KISA에 신고했다. 상세한 침해 경로는 AI를 활용한 추가 공격에 쓰일 수 있다는 이유로 간략하게만 공개했다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.gamey.kr/news/photo/202611/3019720_174148_5017.jpg",
+                "cap": "뒤끝 긴급 공지 중 'AI 기반 공격' 언급 부분(태스크바 히어로 스팀 공지 첨부) /뒤끝"
               },
               {
                 "t": "p",
-                "x": "Insomniac's Mike Fitzgerald said QSSR is in Marvel's Spider-Man 2 \"in an update that's live now!\" after great results in Marvel's Wolverine."
-              },
-              {
-                "t": "video",
-                "yt": "JYEQkLnlV7o"
+                "x": "CSV 다운로드 기능의 취약점으로 '1개 게임의 유저 정보'가 유출됐고, 콘솔 서브 관리자(GM) 계정 69개의 정보가 조회됐다. 뒤끝은 공격에 쓰인 계정과 IP를 차단하고 커뮤니티 서비스를 멈췄으며, 11월 9일부터 콘솔 전 계정에 2차 인증을 의무화했다."
               },
               {
                 "t": "p",
-                "x": "Remedy's Erik Jansson said QSSR gives Control Resonant \"a much more stable and detailed image\" in an update coming in December. Embark Studios says QSSR is coming to ARC Raiders and The Finals soon, Hello Games' Sean Murray says to look for it in No Man's Sky \"in the next few weeks,\" and Expression Games is adding it to Hell Let Loose: Vietnam through an upcoming update."
+                "x": "뒤끝은 AI를 활용해 보안 취약점을 찾아내는 자동화된 공격이 빠르게 늘고 있다며, 비밀번호만으로 로그인하는 방식은 안전한 인증을 보장할 수 없다고 2차 인증 사용을 권했다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "Sony의 QSSR\nPS5 게임 6종 탑재",
-          "body": "PSSR에서 나온 경량 AI 업스케일러 QSSR이 PS5 게임 6종에 들어간다.",
-          "mini_headline": "QSSR, PS5 게임 6종에 적용",
+        "en": {
+          "headline": "AI attack breaches BACKND\nTask Bar Hero data leaked",
+          "body": "Server solution BACKND was hit by an AI attack, leaking Task Bar Hero player data for 23 days.",
+          "mini_headline": "BACKND data leak after AI attack",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Korean game server solution ‘BACKND’ was hit by an external attack, and user data from the Steam idle game ‘TBH: Task Bar Hero’ was leaked. BACKND described the attack as an ‘AI-based attack’ that exploited a vulnerability."
+              },
+              {
+                "t": "p",
+                "x": "According to a notice Nugem Studio posted on Steam on November 12, a third party exploited a vulnerability in the admin tool of an external game server service to download player data over 23 days, from October 17 to November 8. All accounts that played the game before 3:59 p.m. on November 9 are affected. The leaked items are the SteamID64, game server account ID and sign-up date and time, last login date and time and IP address, motherboard model name or computer name, operating system information, and whether the account was sanctioned or deleted."
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/ARC-Raiders-QSSR-HD-1920x1080.jpeg",
-                "cap": "Quick Spectral Super Resolution(QSSR)이 곧 Spider-Man 2, CONTROL Resonant, ARC Raiders, The Finals, No Man's Sky, Hell Let Loose: Vietnam 등 PS5 게임 6종에 들어간다."
+                "src": "https://cdn.gamey.kr/news/photo/202611/3019720_174147_5017.jpg",
+                "cap": "The Task Bar Hero personal data breach notice Nugem Studio posted on Steam on November 12 /Steam"
               },
               {
                 "t": "p",
-                "x": "Sony가 오늘 발표한 바에 따르면 PlayStation 5 게임 6종이 Quick Spectral Super Resolution(QSSR) 지원을 이미 넣었거나 곧 넣는다. QSSR은 PS5 Pro의 PSSR에서 갈라져 나온 경량 AI 업스케일러로 10월에 처음 공개됐다. 대상은 Marvel's Spider-Man 2, CONTROL Resonant, The Finals, ARC Raiders, No Man's Sky, Hell Let Loose: Vietnam이다."
+                "x": "In an emergency notice, BACKND said, “A security vulnerability was found in some features of the BACKND service, and multiple AI-based attacks exploiting this vulnerability occurred.” The company confirmed the breach on November 8 and reported it to KISA the following day. It disclosed the detailed intrusion path only briefly, citing the risk that it could be used in further attacks using AI."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.gamey.kr/news/photo/202611/3019720_174148_5017.jpg",
+                "cap": "The part of BACKND’s emergency notice mentioning an ‘AI-based attack’ (attached to the Task Bar Hero Steam notice) /BACKND"
               },
               {
                 "t": "p",
-                "x": "Insomniac의 Mike Fitzgerald에 따르면 Marvel's Wolverine에서 좋은 결과를 본 뒤 QSSR을 Marvel's Spider-Man 2에도 \"지금 배포된 업데이트로\" 넣었다."
-              },
-              {
-                "t": "video",
-                "yt": "JYEQkLnlV7o"
+                "x": "A vulnerability in the CSV download feature leaked ‘user data for 1 game’, and the data of 69 console sub-administrator (GM) accounts was viewed. BACKND blocked the accounts and IP addresses used in the attack, suspended its community service, and made 2-step verification mandatory for all console accounts from November 9."
               },
               {
                 "t": "p",
-                "x": "Remedy의 Erik Jansson은 12월에 나올 업데이트에서 QSSR이 Control Resonant에 \"훨씬 안정적이고 디테일한 이미지\"를 보여 준다고 했다. Embark Studios도 ARC Raiders와 The Finals에 QSSR이 곧 들어간다고 밝혔다. Hello Games의 Sean Murray는 No Man's Sky에서 \"앞으로 몇 주 안에\" 만날 수 있다고 했고 Expression Games는 이후 업데이트로 Hell Let Loose: Vietnam에 QSSR을 넣는다."
+                "x": "BACKND said automated attacks that use AI to find security vulnerabilities are rising quickly, and recommended 2-step verification, saying password-only login cannot guarantee secure authentication."
               }
             ]
           }
         },
         "ja": {
-          "headline": "SonyのAI超解像QSSR\nPS5の6タイトルへ",
-          "body": "PSSR由来の軽量AIアップスケーラーQSSRがPS5の6タイトルに登場する。",
-          "mini_headline": "QSSRがPS5の6タイトルに",
+          "headline": "BACKNDにAI攻撃\nタスクバーヒーロー情報流出",
+          "body": "サーバー基盤BACKNDがAI攻撃を受け、タスクバーヒーローの情報が23日間流出した。",
+          "mini_headline": "BACKND、AI攻撃で情報流出",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "韓国のゲームサーバーソリューション「BACKND」が外部からの攻撃を受け、Steamの放置系ゲーム「TBH: タスクバーヒーロー(Task Bar Hero)」の利用者情報が流出した。BACKNDは今回の攻撃を、脆弱性を悪用した「AIベースの攻撃」だと明らかにした。"
+              },
+              {
+                "t": "p",
+                "x": "Nugem Studioが11月12日にSteamに掲載した告知によると、第3者は10月17日から11月8日までの23日間、外部ゲームサーバーサービスの管理ツールの脆弱性を利用してプレイヤー情報をダウンロードした。対象は11月9日午後3時59分より前にゲームをプレイしたすべてのアカウントだ。流出項目はSteamID64、ゲームサーバーのアカウントIDと登録日時、最終ログイン日時とIPアドレス、マザーボードのモデル名またはコンピューター名、OS情報、アカウントの制裁・削除の有無である。"
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/ARC-Raiders-QSSR-HD-1920x1080.jpeg",
-                "cap": "Quick Spectral Super Resolution（QSSR）は、Spider-Man 2、CONTROL Resonant、ARC Raiders、The Finals、No Man's Sky、Hell Let Loose: VietnamなどPS5の6タイトルに近日対応する。"
+                "src": "https://cdn.gamey.kr/news/photo/202611/3019720_174147_5017.jpg",
+                "cap": "Nugem Studioが11月12日にSteamに掲載したタスクバーヒーローの個人情報流出に関するお知らせ /Steam"
               },
               {
                 "t": "p",
-                "x": "Sonyは本日、PlayStation 5の6タイトルがQuick Spectral Super Resolution（QSSR）に対応した、またはまもなく対応すると発表した。QSSRはPS5 ProのPSSRから派生した軽量AIアップスケーラーで、10月に初めてリリースされた。対象はMarvel's Spider-Man 2、CONTROL Resonant、The Finals、ARC Raiders、No Man's Sky、Hell Let Loose: Vietnamだ。"
+                "x": "BACKNDは緊急告知で「BACKNDサービスの一部機能でセキュリティ脆弱性が見つかり、この脆弱性を悪用したAIベースの攻撃が多数発生した」と明らかにした。同社は11月8日に侵害事故を確認し、翌日KISAに届け出た。詳細な侵入経路については、AIを使った追加攻撃に利用されるおそれがあるとして、簡略に公開するにとどめた。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.gamey.kr/news/photo/202611/3019720_174148_5017.jpg",
+                "cap": "BACKNDの緊急告知のうち「AIベースの攻撃」に言及した部分(タスクバーヒーローのSteam告知に添付) /BACKND"
               },
               {
                 "t": "p",
-                "x": "InsomniacのMike Fitzgeraldは、Marvel's Wolverineで良好な結果が得られたことを受け、QSSRが「現在配信中のアップデートで」Marvel's Spider-Man 2に導入されたと述べた。"
-              },
-              {
-                "t": "video",
-                "yt": "JYEQkLnlV7o"
+                "x": "CSVダウンロード機能の脆弱性により「1つのゲームのユーザー情報」が流出し、コンソールのサブ管理者(GM)アカウント69件の情報が閲覧された。BACKNDは攻撃に使われたアカウントとIPを遮断してコミュニティサービスを停止し、11月9日からコンソールの全アカウントで2段階認証を義務化した。"
               },
               {
                 "t": "p",
-                "x": "RemedyのErik Janssonは、12月配信予定のアップデートでQSSRによりControl Resonantが「はるかに安定した精細な映像」になると語った。Embark StudiosはQSSRがまもなくARC RaidersとThe Finalsに導入されるとし、Hello GamesのSean Murrayは「今後数週間のうちに」No Man's Skyで見られると述べた。Expression Gamesも今後のアップデートでHell Let Loose: Vietnamに追加する。"
+                "x": "BACKNDは、AIを使ってセキュリティ脆弱性を見つけ出す自動化攻撃が急増しているとして、パスワードだけでログインする方式では安全な認証を保証できないと述べ、2段階認証の利用を勧めた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Sony QSSR超分辨率\n登陆六款PS5游戏",
-          "body": "Sony基于PS5 Pro PSSR打造的轻量AI超分技术QSSR将登陆六款PS5游戏。",
-          "mini_headline": "QSSR登陆六款PS5游戏",
+          "headline": "BACKND遭AI攻击\n《任务栏英雄》信息外泄",
+          "body": "服务器方案BACKND遭AI攻击，《任务栏英雄》玩家信息外泄长达23天。",
+          "mini_headline": "BACKND遭AI攻击致信息外泄",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "韩国游戏服务器解决方案“BACKND”遭外部攻击，Steam放置类游戏《TBH: 任务栏英雄(Task Bar Hero)》的用户信息外泄。BACKND称此次攻击是利用漏洞的“基于AI的攻击”。"
+              },
+              {
+                "t": "p",
+                "x": "根据Nugem Studio于11月12日在Steam发布的公告，第三方在10月17日至11月8日的23天里，利用外部游戏服务器服务管理工具的漏洞下载了玩家信息。受影响的是11月9日下午3点59分之前玩过该游戏的全部账号。外泄项目包括SteamID64、游戏服务器账号ID与注册时间、最后登录时间与IP地址、主板型号或电脑名称、操作系统信息，以及账号是否被处罚或删除。"
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/ARC-Raiders-QSSR-HD-1920x1080.jpeg",
-                "cap": "Quick Spectral Super Resolution（QSSR）即将登陆六款PS5游戏，包括Spider-Man 2、CONTROL Resonant、ARC Raiders、The Finals、No Man's Sky和Hell Let Loose: Vietnam。"
+                "src": "https://cdn.gamey.kr/news/photo/202611/3019720_174147_5017.jpg",
+                "cap": "Nugem Studio于11月12日在Steam发布的《任务栏英雄》个人信息外泄通知 /Steam"
               },
               {
                 "t": "p",
-                "x": "Sony今天宣布，六款PlayStation 5游戏已经或即将支持Quick Spectral Super Resolution（QSSR）。这是一款衍生自PS5 Pro的PSSR的轻量AI超分辨率技术，最初于10月发布。这些游戏是Marvel's Spider-Man 2、CONTROL Resonant、The Finals、ARC Raiders、No Man's Sky和Hell Let Loose: Vietnam。"
+                "x": "BACKND在紧急公告中表示：“BACKND服务的部分功能被发现存在安全漏洞，利用该漏洞的基于AI的攻击多次发生。”公司于11月8日确认了入侵事件，并于次日向KISA报告。由于详细入侵路径可能被用于借助AI的进一步攻击，公司仅作了简要公开。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.gamey.kr/news/photo/202611/3019720_174148_5017.jpg",
+                "cap": "BACKND紧急公告中提及“基于AI的攻击”的部分（附于《任务栏英雄》Steam公告） /BACKND"
               },
               {
                 "t": "p",
-                "x": "Insomniac的Mike Fitzgerald表示，在Marvel's Wolverine中取得出色效果后，QSSR已通过“现已上线的更新”加入Marvel's Spider-Man 2。"
-              },
-              {
-                "t": "video",
-                "yt": "JYEQkLnlV7o"
+                "x": "CSV下载功能的漏洞导致“1款游戏的用户信息”外泄，69个控制台子管理员(GM)账号的信息遭到查看。BACKND封锁了攻击所用的账号和IP，暂停了社区服务，并自11月9日起对控制台全部账号强制启用2步验证。"
               },
               {
                 "t": "p",
-                "x": "Remedy的Erik Jansson表示，在12月推出的更新中，QSSR将为Control Resonant带来“稳定得多、细节更丰富的画面”。Embark Studios称QSSR即将登陆ARC Raiders和The Finals；Hello Games的Sean Murray表示，玩家可在“未来几周内”于No Man's Sky中看到它；Expression Games也将通过即将推出的更新为Hell Let Loose: Vietnam加入该技术。"
+                "x": "BACKND表示，利用AI查找安全漏洞的自动化攻击正在迅速增加，仅凭密码登录的方式无法保证安全认证，因此建议使用2步验证。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El reescalador QSSR de Sony\nllega a seis juegos de PS5",
-          "body": "QSSR, el reescalador ligero con IA de Sony derivado del PSSR de PS5 Pro, llegará a seis juegos de PS5.",
-          "mini_headline": "QSSR llega a seis juegos de PS5",
+          "headline": "Un ataque con AI vulnera BACKND\ny filtra datos de Task Bar Hero",
+          "body": "La solución de servidores BACKND sufrió un ataque con AI y los datos de Task Bar Hero se filtraron durante 23 días.",
+          "mini_headline": "BACKND: filtración tras un ataque con AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "La solución coreana de servidores de juegos ‘BACKND’ sufrió un ataque externo y se filtraron datos de usuarios del juego idle de Steam ‘TBH: Task Bar Hero’. BACKND describió el ataque como un ‘ataque basado en AI’ que aprovechó una vulnerabilidad."
+              },
+              {
+                "t": "p",
+                "x": "Según un aviso que Nugem Studio publicó en Steam el 12 de noviembre, un tercero aprovechó una vulnerabilidad en la herramienta de administración de un servicio externo de servidores de juegos para descargar datos de jugadores durante 23 días, del 17 de octubre al 8 de noviembre. Afecta a todas las cuentas que jugaron antes de las 3:59 p. m. del 9 de noviembre. Los datos filtrados son el SteamID64, el ID de cuenta del servidor de juego y la fecha y hora de registro, la fecha y hora del último inicio de sesión y la dirección IP, el modelo de placa base o el nombre del equipo, la información del sistema operativo y si la cuenta fue sancionada o eliminada."
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/ARC-Raiders-QSSR-HD-1920x1080.jpeg",
-                "cap": "Quick Spectral Super Resolution (QSSR) llegará pronto a seis juegos de PS5, entre ellos Spider-Man 2, CONTROL Resonant, ARC Raiders, The Finals, No Man's Sky y Hell Let Loose: Vietnam."
+                "src": "https://cdn.gamey.kr/news/photo/202611/3019720_174147_5017.jpg",
+                "cap": "Aviso sobre la filtración de datos personales de Task Bar Hero que Nugem Studio publicó en Steam el 12 de noviembre /Steam"
               },
               {
                 "t": "p",
-                "x": "Sony anunció hoy que seis juegos de PlayStation 5 han añadido o están a punto de añadir compatibilidad con Quick Spectral Super Resolution (QSSR), el reescalador ligero con IA derivado del PSSR de PS5 Pro y lanzado originalmente en octubre. Los juegos son Marvel's Spider-Man 2, CONTROL Resonant, The Finals, ARC Raiders, No Man's Sky y Hell Let Loose: Vietnam."
+                "x": "En un aviso urgente, BACKND afirmó: “Se encontró una vulnerabilidad de seguridad en algunas funciones del servicio BACKND, y se produjeron numerosos ataques basados en AI que aprovecharon esta vulnerabilidad”. La empresa confirmó la intrusión el 8 de noviembre y la notificó a KISA al día siguiente. Solo divulgó la ruta de intrusión de forma resumida, alegando que los detalles podrían usarse en nuevos ataques con AI."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.gamey.kr/news/photo/202611/3019720_174148_5017.jpg",
+                "cap": "Parte del aviso urgente de BACKND que menciona un ‘ataque basado en AI’ (adjunto al aviso de Task Bar Hero en Steam) /BACKND"
               },
               {
                 "t": "p",
-                "x": "Mike Fitzgerald, de Insomniac, afirmó que QSSR ya está en Marvel's Spider-Man 2 \"en una actualización que ya está disponible\", tras los excelentes resultados obtenidos en Marvel's Wolverine."
-              },
-              {
-                "t": "video",
-                "yt": "JYEQkLnlV7o"
+                "x": "Una vulnerabilidad en la función de descarga CSV filtró ‘datos de usuarios de 1 juego’, y se consultaron los datos de 69 cuentas de subadministrador (GM) de la consola. BACKND bloqueó las cuentas y las direcciones IP usadas en el ataque, suspendió su servicio de comunidad y, desde el 9 de noviembre, hizo obligatoria la verificación en 2 pasos para todas las cuentas de la consola."
               },
               {
                 "t": "p",
-                "x": "Erik Jansson, de Remedy, dijo que QSSR ofrece a Control Resonant \"una imagen mucho más estable y detallada\" en una actualización que llegará en diciembre. Embark Studios indica que QSSR llegará pronto a ARC Raiders y The Finals; Sean Murray, de Hello Games, dice que estará en No Man's Sky \"en las próximas semanas\", y Expression Games lo añadirá a Hell Let Loose: Vietnam mediante una próxima actualización."
+                "x": "BACKND señaló que los ataques automatizados que usan AI para encontrar vulnerabilidades de seguridad aumentan con rapidez y recomendó la verificación en 2 pasos, al advertir que iniciar sesión solo con contraseña no garantiza una autenticación segura."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "Sony의 QSSR\nPS5 게임 6종 탑재",
-          "body": "PSSR 기반 경량 AI 업스케일러 QSSR이 PS5 게임 6종에 들어간다.",
-          "mini_headline": "QSSR, PS5 게임 6종에 적용",
+        "en": {
+          "headline": "AI attack breaches BACKND\nTask Bar Hero data leaked",
+          "body": "Server solution BACKND was hit by an AI attack, leaking Task Bar Hero player data for 23 days.",
+          "mini_headline": "BACKND data leak after AI attack",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Korean game server solution ‘BACKND’ was hit by an external attack, and user data from the Steam idle game ‘TBH: Task Bar Hero’ was leaked. BACKND described the attack as an ‘AI-based attack’ that exploited a vulnerability."
+              },
+              {
+                "t": "p",
+                "x": "According to a notice Nugem Studio posted on Steam on November 12, a third party exploited a vulnerability in the admin tool of an external game server service to download player data over 23 days, from October 17 to November 8. All accounts that played the game before 3:59 p.m. on November 9 are affected. The leaked items are the SteamID64, game server account ID and sign-up date and time, last login date and time and IP address, motherboard model name or computer name, operating system information, and whether the account was sanctioned or deleted."
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/ARC-Raiders-QSSR-HD-1920x1080.jpeg",
-                "cap": "Quick Spectral Super Resolution(QSSR)이 곧 Spider-Man 2, CONTROL Resonant, ARC Raiders, The Finals, No Man's Sky, Hell Let Loose: Vietnam 등 PS5 게임 6종에 적용된다."
+                "src": "https://cdn.gamey.kr/news/photo/202611/3019720_174147_5017.jpg",
+                "cap": "The Task Bar Hero personal data breach notice Nugem Studio posted on Steam on November 12 /Steam"
               },
               {
                 "t": "p",
-                "x": "Sony는 오늘 PlayStation 5 게임 6종이 Quick Spectral Super Resolution(QSSR) 지원을 추가했거나 곧 추가한다고 발표했다. QSSR은 PS5 Pro의 PSSR에서 파생된 경량 AI 업스케일러로, 10월에 처음 공개됐다. 대상 게임은 Marvel's Spider-Man 2, CONTROL Resonant, The Finals, ARC Raiders, No Man's Sky, Hell Let Loose: Vietnam이다."
+                "x": "In an emergency notice, BACKND said, “A security vulnerability was found in some features of the BACKND service, and multiple AI-based attacks exploiting this vulnerability occurred.” The company confirmed the breach on November 8 and reported it to KISA the following day. It disclosed the detailed intrusion path only briefly, citing the risk that it could be used in further attacks using AI."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.gamey.kr/news/photo/202611/3019720_174148_5017.jpg",
+                "cap": "The part of BACKND’s emergency notice mentioning an ‘AI-based attack’ (attached to the Task Bar Hero Steam notice) /BACKND"
               },
               {
                 "t": "p",
-                "x": "Insomniac의 Mike Fitzgerald는 Marvel's Wolverine에서 좋은 결과를 얻은 뒤 QSSR이 Marvel's Spider-Man 2에 \"지금 배포된 업데이트로\" 들어갔다고 밝혔다."
-              },
-              {
-                "t": "video",
-                "yt": "JYEQkLnlV7o"
+                "x": "A vulnerability in the CSV download feature leaked ‘user data for 1 game’, and the data of 69 console sub-administrator (GM) accounts was viewed. BACKND blocked the accounts and IP addresses used in the attack, suspended its community service, and made 2-step verification mandatory for all console accounts from November 9."
               },
               {
                 "t": "p",
-                "x": "Remedy의 Erik Jansson은 12월 배포 예정인 업데이트에서 QSSR이 Control Resonant에 \"훨씬 안정적이고 디테일한 이미지\"를 제공한다고 말했다. Embark Studios는 QSSR이 곧 ARC Raiders와 The Finals에 들어간다고 밝혔고, Hello Games의 Sean Murray는 No Man's Sky에서 \"앞으로 몇 주 안에\" 만나볼 수 있다고 했다. Expression Games는 향후 업데이트로 Hell Let Loose: Vietnam에 QSSR을 추가한다."
+                "x": "BACKND said automated attacks that use AI to find security vulnerabilities are rising quickly, and recommended 2-step verification, saying password-only login cannot guarantee secure authentication."
               }
             ]
           }
         },
         "ja": {
-          "headline": "SonyのAI超解像QSSR\nPS5の6タイトルへ",
-          "body": "PSSR由来の軽量AIアップスケーラーQSSRがPS5の6タイトルに登場する。",
-          "mini_headline": "QSSRがPS5の6タイトルに",
+          "headline": "BACKNDにAI攻撃\nタスクバーヒーロー情報流出",
+          "body": "サーバー基盤BACKNDがAI攻撃を受け、タスクバーヒーローの情報が23日間流出した。",
+          "mini_headline": "BACKND、AI攻撃で情報流出",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "韓国のゲームサーバーソリューション「BACKND」が外部からの攻撃を受け、Steamの放置系ゲーム「TBH: タスクバーヒーロー(Task Bar Hero)」の利用者情報が流出した。BACKNDは今回の攻撃を、脆弱性を悪用した「AIベースの攻撃」だと明らかにした。"
+              },
+              {
+                "t": "p",
+                "x": "Nugem Studioが11月12日にSteamに掲載した告知によると、第3者は10月17日から11月8日までの23日間、外部ゲームサーバーサービスの管理ツールの脆弱性を利用してプレイヤー情報をダウンロードした。対象は11月9日午後3時59分より前にゲームをプレイしたすべてのアカウントだ。流出項目はSteamID64、ゲームサーバーのアカウントIDと登録日時、最終ログイン日時とIPアドレス、マザーボードのモデル名またはコンピューター名、OS情報、アカウントの制裁・削除の有無である。"
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/ARC-Raiders-QSSR-HD-1920x1080.jpeg",
-                "cap": "Quick Spectral Super Resolution（QSSR）は、Spider-Man 2、CONTROL Resonant、ARC Raiders、The Finals、No Man's Sky、Hell Let Loose: VietnamなどPS5の6タイトルに近日対応する。"
+                "src": "https://cdn.gamey.kr/news/photo/202611/3019720_174147_5017.jpg",
+                "cap": "Nugem Studioが11月12日にSteamに掲載したタスクバーヒーローの個人情報流出に関するお知らせ /Steam"
               },
               {
                 "t": "p",
-                "x": "Sonyは本日、PlayStation 5の6タイトルがQuick Spectral Super Resolution（QSSR）に対応した、またはまもなく対応すると発表した。QSSRはPS5 ProのPSSRから派生した軽量AIアップスケーラーで、10月に初めてリリースされた。対象はMarvel's Spider-Man 2、CONTROL Resonant、The Finals、ARC Raiders、No Man's Sky、Hell Let Loose: Vietnamだ。"
+                "x": "BACKNDは緊急告知で「BACKNDサービスの一部機能でセキュリティ脆弱性が見つかり、この脆弱性を悪用したAIベースの攻撃が多数発生した」と明らかにした。同社は11月8日に侵害事故を確認し、翌日KISAに届け出た。詳細な侵入経路については、AIを使った追加攻撃に利用されるおそれがあるとして、簡略に公開するにとどめた。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.gamey.kr/news/photo/202611/3019720_174148_5017.jpg",
+                "cap": "BACKNDの緊急告知のうち「AIベースの攻撃」に言及した部分(タスクバーヒーローのSteam告知に添付) /BACKND"
               },
               {
                 "t": "p",
-                "x": "InsomniacのMike Fitzgeraldは、Marvel's Wolverineで良好な結果が得られたことを受け、QSSRが「現在配信中のアップデートで」Marvel's Spider-Man 2に導入されたと述べた。"
-              },
-              {
-                "t": "video",
-                "yt": "JYEQkLnlV7o"
+                "x": "CSVダウンロード機能の脆弱性により「1つのゲームのユーザー情報」が流出し、コンソールのサブ管理者(GM)アカウント69件の情報が閲覧された。BACKNDは攻撃に使われたアカウントとIPを遮断してコミュニティサービスを停止し、11月9日からコンソールの全アカウントで2段階認証を義務化した。"
               },
               {
                 "t": "p",
-                "x": "RemedyのErik Janssonは、12月配信予定のアップデートでQSSRによりControl Resonantが「はるかに安定した精細な映像」になると語った。Embark StudiosはQSSRがまもなくARC RaidersとThe Finalsに導入されるとし、Hello GamesのSean Murrayは「今後数週間のうちに」No Man's Skyで見られると述べた。Expression Gamesも今後のアップデートでHell Let Loose: Vietnamに追加する。"
+                "x": "BACKNDは、AIを使ってセキュリティ脆弱性を見つけ出す自動化攻撃が急増しているとして、パスワードだけでログインする方式では安全な認証を保証できないと述べ、2段階認証の利用を勧めた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Sony QSSR超分辨率\n登陆六款PS5游戏",
-          "body": "Sony基于PS5 Pro PSSR打造的轻量AI超分技术QSSR将登陆六款PS5游戏。",
-          "mini_headline": "QSSR登陆六款PS5游戏",
+          "headline": "BACKND遭AI攻击\n《任务栏英雄》信息外泄",
+          "body": "服务器方案BACKND遭AI攻击，《任务栏英雄》玩家信息外泄长达23天。",
+          "mini_headline": "BACKND遭AI攻击致信息外泄",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "韩国游戏服务器解决方案“BACKND”遭外部攻击，Steam放置类游戏《TBH: 任务栏英雄(Task Bar Hero)》的用户信息外泄。BACKND称此次攻击是利用漏洞的“基于AI的攻击”。"
+              },
+              {
+                "t": "p",
+                "x": "根据Nugem Studio于11月12日在Steam发布的公告，第三方在10月17日至11月8日的23天里，利用外部游戏服务器服务管理工具的漏洞下载了玩家信息。受影响的是11月9日下午3点59分之前玩过该游戏的全部账号。外泄项目包括SteamID64、游戏服务器账号ID与注册时间、最后登录时间与IP地址、主板型号或电脑名称、操作系统信息，以及账号是否被处罚或删除。"
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/ARC-Raiders-QSSR-HD-1920x1080.jpeg",
-                "cap": "Quick Spectral Super Resolution（QSSR）即将登陆六款PS5游戏，包括Spider-Man 2、CONTROL Resonant、ARC Raiders、The Finals、No Man's Sky和Hell Let Loose: Vietnam。"
+                "src": "https://cdn.gamey.kr/news/photo/202611/3019720_174147_5017.jpg",
+                "cap": "Nugem Studio于11月12日在Steam发布的《任务栏英雄》个人信息外泄通知 /Steam"
               },
               {
                 "t": "p",
-                "x": "Sony今天宣布，六款PlayStation 5游戏已经或即将支持Quick Spectral Super Resolution（QSSR）。这是一款衍生自PS5 Pro的PSSR的轻量AI超分辨率技术，最初于10月发布。这些游戏是Marvel's Spider-Man 2、CONTROL Resonant、The Finals、ARC Raiders、No Man's Sky和Hell Let Loose: Vietnam。"
+                "x": "BACKND在紧急公告中表示：“BACKND服务的部分功能被发现存在安全漏洞，利用该漏洞的基于AI的攻击多次发生。”公司于11月8日确认了入侵事件，并于次日向KISA报告。由于详细入侵路径可能被用于借助AI的进一步攻击，公司仅作了简要公开。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.gamey.kr/news/photo/202611/3019720_174148_5017.jpg",
+                "cap": "BACKND紧急公告中提及“基于AI的攻击”的部分（附于《任务栏英雄》Steam公告） /BACKND"
               },
               {
                 "t": "p",
-                "x": "Insomniac的Mike Fitzgerald表示，在Marvel's Wolverine中取得出色效果后，QSSR已通过“现已上线的更新”加入Marvel's Spider-Man 2。"
-              },
-              {
-                "t": "video",
-                "yt": "JYEQkLnlV7o"
+                "x": "CSV下载功能的漏洞导致“1款游戏的用户信息”外泄，69个控制台子管理员(GM)账号的信息遭到查看。BACKND封锁了攻击所用的账号和IP，暂停了社区服务，并自11月9日起对控制台全部账号强制启用2步验证。"
               },
               {
                 "t": "p",
-                "x": "Remedy的Erik Jansson表示，在12月推出的更新中，QSSR将为Control Resonant带来“稳定得多、细节更丰富的画面”。Embark Studios称QSSR即将登陆ARC Raiders和The Finals；Hello Games的Sean Murray表示，玩家可在“未来几周内”于No Man's Sky中看到它；Expression Games也将通过即将推出的更新为Hell Let Loose: Vietnam加入该技术。"
+                "x": "BACKND表示，利用AI查找安全漏洞的自动化攻击正在迅速增加，仅凭密码登录的方式无法保证安全认证，因此建议使用2步验证。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El reescalador QSSR de Sony\nllega a seis juegos de PS5",
-          "body": "QSSR, el reescalador ligero con IA de Sony derivado del PSSR de PS5 Pro, llegará a seis juegos de PS5.",
-          "mini_headline": "QSSR llega a seis juegos de PS5",
+          "headline": "Un ataque con AI vulnera BACKND\ny filtra datos de Task Bar Hero",
+          "body": "La solución de servidores BACKND sufrió un ataque con AI y los datos de Task Bar Hero se filtraron durante 23 días.",
+          "mini_headline": "BACKND: filtración tras un ataque con AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "La solución coreana de servidores de juegos ‘BACKND’ sufrió un ataque externo y se filtraron datos de usuarios del juego idle de Steam ‘TBH: Task Bar Hero’. BACKND describió el ataque como un ‘ataque basado en AI’ que aprovechó una vulnerabilidad."
+              },
+              {
+                "t": "p",
+                "x": "Según un aviso que Nugem Studio publicó en Steam el 12 de noviembre, un tercero aprovechó una vulnerabilidad en la herramienta de administración de un servicio externo de servidores de juegos para descargar datos de jugadores durante 23 días, del 17 de octubre al 8 de noviembre. Afecta a todas las cuentas que jugaron antes de las 3:59 p. m. del 9 de noviembre. Los datos filtrados son el SteamID64, el ID de cuenta del servidor de juego y la fecha y hora de registro, la fecha y hora del último inicio de sesión y la dirección IP, el modelo de placa base o el nombre del equipo, la información del sistema operativo y si la cuenta fue sancionada o eliminada."
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/ARC-Raiders-QSSR-HD-1920x1080.jpeg",
-                "cap": "Quick Spectral Super Resolution (QSSR) llegará pronto a seis juegos de PS5, entre ellos Spider-Man 2, CONTROL Resonant, ARC Raiders, The Finals, No Man's Sky y Hell Let Loose: Vietnam."
+                "src": "https://cdn.gamey.kr/news/photo/202611/3019720_174147_5017.jpg",
+                "cap": "Aviso sobre la filtración de datos personales de Task Bar Hero que Nugem Studio publicó en Steam el 12 de noviembre /Steam"
               },
               {
                 "t": "p",
-                "x": "Sony anunció hoy que seis juegos de PlayStation 5 han añadido o están a punto de añadir compatibilidad con Quick Spectral Super Resolution (QSSR), el reescalador ligero con IA derivado del PSSR de PS5 Pro y lanzado originalmente en octubre. Los juegos son Marvel's Spider-Man 2, CONTROL Resonant, The Finals, ARC Raiders, No Man's Sky y Hell Let Loose: Vietnam."
+                "x": "En un aviso urgente, BACKND afirmó: “Se encontró una vulnerabilidad de seguridad en algunas funciones del servicio BACKND, y se produjeron numerosos ataques basados en AI que aprovecharon esta vulnerabilidad”. La empresa confirmó la intrusión el 8 de noviembre y la notificó a KISA al día siguiente. Solo divulgó la ruta de intrusión de forma resumida, alegando que los detalles podrían usarse en nuevos ataques con AI."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.gamey.kr/news/photo/202611/3019720_174148_5017.jpg",
+                "cap": "Parte del aviso urgente de BACKND que menciona un ‘ataque basado en AI’ (adjunto al aviso de Task Bar Hero en Steam) /BACKND"
               },
               {
                 "t": "p",
-                "x": "Mike Fitzgerald, de Insomniac, afirmó que QSSR ya está en Marvel's Spider-Man 2 \"en una actualización que ya está disponible\", tras los excelentes resultados obtenidos en Marvel's Wolverine."
-              },
-              {
-                "t": "video",
-                "yt": "JYEQkLnlV7o"
+                "x": "Una vulnerabilidad en la función de descarga CSV filtró ‘datos de usuarios de 1 juego’, y se consultaron los datos de 69 cuentas de subadministrador (GM) de la consola. BACKND bloqueó las cuentas y las direcciones IP usadas en el ataque, suspendió su servicio de comunidad y, desde el 9 de noviembre, hizo obligatoria la verificación en 2 pasos para todas las cuentas de la consola."
               },
               {
                 "t": "p",
-                "x": "Erik Jansson, de Remedy, dijo que QSSR ofrece a Control Resonant \"una imagen mucho más estable y detallada\" en una actualización que llegará en diciembre. Embark Studios indica que QSSR llegará pronto a ARC Raiders y The Finals; Sean Murray, de Hello Games, dice que estará en No Man's Sky \"en las próximas semanas\", y Expression Games lo añadirá a Hell Let Loose: Vietnam mediante una próxima actualización."
+                "x": "BACKND señaló que los ataques automatizados que usan AI para encontrar vulnerabilidades de seguridad aumentan con rapidez y recomendó la verificación en 2 pasos, al advertir que iniciar sesión solo con contraseña no garantiza una autenticación segura."
               }
             ]
           }
@@ -647,281 +787,683 @@
       }
     },
     {
-      "id": "games-ai-clone-ip-defense",
-      "source_lang": "en",
+      "id": "ragnarok-monster-marble-ai-player",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "AI 게임 복제 대응법\n변호사들이 정리했다",
-      "body": "Pryor Cashman 변호사들이 AI 복제작에 맞설 미국법 실무 지침을 냈다.",
-      "mini_headline": "AI 복제로부터 게임 지키기",
+      "headline": "라그나로크 몬스터 마블\nAI 플레이어 도입 추진",
+      "body": "루미웨이브는 전적을 분석하고 덱 변경과 자동 대전을 수행하는 AI 비서를 도입한다.",
+      "mini_headline": "라그나로크에 AI 플레이어",
       "tool": "Games",
-      "source": "GamesIndustry.biz",
-      "url": "https://www.gamesindustry.biz/how-to-protect-your-ip-against-the-army-of-ai-clones",
+      "source": "지디넷코리아",
+      "url": "https://zdnet.co.kr/view/?no=20261113171149",
+      "accent": "#f5a623",
+      "motif": "cube",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "루미웨이브가 이용자 요청을 받아 전적을 분석하고 덱 변경이나 자동 대전을 수행하는 인공지능(AI) 비서를 '라그나로크 몬스터 마블'에 도입한다."
+          },
+          {
+            "t": "p",
+            "x": "루미웨이브는 그라비티의 라그나로크 IP를 활용한 캐주얼 전략 게임 '라그나로크 몬스터 마블'에 'AI Player' 도입을 추진한다고 13일 밝혔다. 루미웨이브 산하 개발사 로즈우드스튜디오의 이강용 대표가 사업을 총괄한다."
+          },
+          {
+            "t": "p",
+            "x": "'AI Player'는 이용자의 AI 비서를 게임 계정과 연결해 대화로 전적 분석, 덱 변경, 자동 대전 등을 요청할 수 있도록 개발 중인 기능이다. AI가 먼저 작업을 제안하면 이용자가 확인하고, 실행을 마친 AI는 결과를 알려준다."
+          },
+          {
+            "t": "img",
+            "src": "https://image.zdnet.co.kr/2026/11/13/ac2cc3181857eed5a36948f4f7d66259.png",
+            "cap": "루미웨이브, '라그나로크 몬스터 마블'에 AI 플레이어 도입 추진"
+          },
+          {
+            "t": "p",
+            "x": "실행 범위는 서버가 허용한 기능으로 제한한다. 게임 내 재화를 쓸 때는 매번 이용자에게 사전 확인을 받도록 하고, 결제와 거래는 실행 범위에서 제외한다."
+          },
+          {
+            "t": "p",
+            "x": "현재는 게임 정보와 규칙 안내를 제공한다. 루미웨이브는 기술 검증과 파트너 협의를 거쳐 계정 연결과 게임 내 행동 실행 기능을 단계적으로 적용할 계획이다."
+          }
+        ]
+      },
+      "text": {
+        "ko": {
+          "headline": "라그나로크 몬스터 마블\nAI 플레이어 도입 추진",
+          "body": "루미웨이브는 전적을 분석하고 덱 변경과 자동 대전을 수행하는 AI 비서를 도입한다.",
+          "mini_headline": "라그나로크에 AI 플레이어",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "루미웨이브가 이용자 요청을 받아 전적을 분석하고 덱 변경이나 자동 대전을 수행하는 인공지능(AI) 비서를 '라그나로크 몬스터 마블'에 도입한다."
+              },
+              {
+                "t": "p",
+                "x": "루미웨이브는 그라비티의 라그나로크 IP를 활용한 캐주얼 전략 게임 '라그나로크 몬스터 마블'에 'AI Player' 도입을 추진한다고 13일 밝혔다. 루미웨이브 산하 개발사 로즈우드스튜디오의 이강용 대표가 사업을 총괄한다."
+              },
+              {
+                "t": "p",
+                "x": "'AI Player'는 이용자의 AI 비서를 게임 계정과 연결해 대화로 전적 분석, 덱 변경, 자동 대전 등을 요청할 수 있도록 개발 중인 기능이다. AI가 먼저 작업을 제안하면 이용자가 확인하고, 실행을 마친 AI는 결과를 알려준다."
+              },
+              {
+                "t": "img",
+                "src": "https://image.zdnet.co.kr/2026/11/13/ac2cc3181857eed5a36948f4f7d66259.png",
+                "cap": "루미웨이브, '라그나로크 몬스터 마블'에 AI 플레이어 도입 추진"
+              },
+              {
+                "t": "p",
+                "x": "실행 범위는 서버가 허용한 기능으로 제한한다. 게임 내 재화를 쓸 때는 매번 이용자에게 사전 확인을 받도록 하고, 결제와 거래는 실행 범위에서 제외한다."
+              },
+              {
+                "t": "p",
+                "x": "현재는 게임 정보와 규칙 안내를 제공한다. 루미웨이브는 기술 검증과 파트너 협의를 거쳐 계정 연결과 게임 내 행동 실행 기능을 단계적으로 적용할 계획이다."
+              }
+            ]
+          }
+        },
+        "en": {
+          "headline": "Ragnarok Monster Marble\nto add an AI Player",
+          "body": "Lumiwave is introducing an AI assistant that analyzes match records, changes decks and plays automatic battles.",
+          "mini_headline": "AI Player for Ragnarok",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Lumiwave is introducing an artificial intelligence (AI) assistant to ‘Ragnarok Monster Marble’ that, at a user’s request, analyzes match records and changes decks or plays automatic battles."
+              },
+              {
+                "t": "p",
+                "x": "Lumiwave said on the 13th that it is pushing to introduce an ‘AI Player’ to ‘Ragnarok Monster Marble’, a casual strategy game built on Gravity’s Ragnarok IP. Lee Kang-yong, CEO of Rosewood Studio, a developer under Lumiwave, leads the project."
+              },
+              {
+                "t": "p",
+                "x": "‘AI Player’ is a feature in development that links a user’s AI assistant to their game account so they can request match analysis, deck changes, automatic battles and more through conversation. The AI first proposes a task, the user confirms it, and once it has finished the AI reports the result."
+              },
+              {
+                "t": "img",
+                "src": "https://image.zdnet.co.kr/2026/11/13/ac2cc3181857eed5a36948f4f7d66259.png",
+                "cap": "Lumiwave pushes to introduce an AI Player to ‘Ragnarok Monster Marble’"
+              },
+              {
+                "t": "p",
+                "x": "Its scope of action is limited to functions the server permits. Spending in-game currency requires the user’s prior confirmation each time, and payments and trades are excluded from its scope."
+              },
+              {
+                "t": "p",
+                "x": "For now it provides game information and rule guidance. Lumiwave plans to roll out account linking and in-game action execution in stages after technical validation and talks with partners."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "ラグナロクモンスターマーブル\nAIプレイヤー導入へ",
+          "body": "Lumiwaveは戦績分析やデッキ変更、自動対戦をこなすAIアシスタントを導入する。",
+          "mini_headline": "ラグナロクにAIプレイヤー",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Lumiwaveは、ユーザーの依頼を受けて戦績を分析し、デッキ変更や自動対戦を行う人工知能(AI)アシスタントを『ラグナロク モンスターマーブル』に導入する。"
+              },
+              {
+                "t": "p",
+                "x": "Lumiwaveは13日、GravityのラグナロクIPを活用したカジュアル戦略ゲーム『ラグナロク モンスターマーブル』に「AI Player」の導入を進めると明らかにした。Lumiwave傘下の開発会社Rosewood Studioのイ・ガンヨン代表が事業を統括する。"
+              },
+              {
+                "t": "p",
+                "x": "「AI Player」は、ユーザーのAIアシスタントをゲームアカウントと連携し、会話を通じて戦績分析、デッキ変更、自動対戦などを依頼できるよう開発中の機能だ。AIがまず作業を提案し、ユーザーが確認すると、実行を終えたAIが結果を知らせる。"
+              },
+              {
+                "t": "img",
+                "src": "https://image.zdnet.co.kr/2026/11/13/ac2cc3181857eed5a36948f4f7d66259.png",
+                "cap": "Lumiwave、『ラグナロク モンスターマーブル』にAIプレイヤー導入を推進"
+              },
+              {
+                "t": "p",
+                "x": "実行範囲はサーバーが許可した機能に限られる。ゲーム内通貨を使う際は毎回ユーザーの事前確認を求め、決済と取引は実行範囲から除外する。"
+              },
+              {
+                "t": "p",
+                "x": "現在はゲーム情報とルール案内を提供している。Lumiwaveは技術検証とパートナーとの協議を経て、アカウント連携とゲーム内行動の実行機能を段階的に導入する計画だ。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "仙境传说怪物弹珠\n拟引入AI玩家",
+          "body": "Lumiwave将引入可分析战绩、更换卡组并自动对战的AI助手。",
+          "mini_headline": "仙境传说引入AI玩家",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Lumiwave将在《仙境传说怪物弹珠》中引入人工智能(AI)助手，可根据用户请求分析战绩，并执行更换卡组或自动对战。"
+              },
+              {
+                "t": "p",
+                "x": "Lumiwave于13日表示，正推进在借助Gravity旗下仙境传说(Ragnarok) IP打造的休闲策略游戏《仙境传说怪物弹珠》中引入“AI Player”。Lumiwave旗下开发商Rosewood Studio的代表Lee Kang-yong统筹该项目。"
+              },
+              {
+                "t": "p",
+                "x": "“AI Player”是一项正在开发的功能，可将用户的AI助手与游戏账号关联，通过对话请求战绩分析、更换卡组、自动对战等。AI会先提出操作建议，经用户确认后执行，完成后再告知结果。"
+              },
+              {
+                "t": "img",
+                "src": "https://image.zdnet.co.kr/2026/11/13/ac2cc3181857eed5a36948f4f7d66259.png",
+                "cap": "Lumiwave推进在《仙境传说怪物弹珠》中引入AI玩家"
+              },
+              {
+                "t": "p",
+                "x": "执行范围仅限服务器允许的功能。每次使用游戏内货币都须事先获得用户确认，支付与交易不在执行范围内。"
+              },
+              {
+                "t": "p",
+                "x": "目前该功能提供游戏信息和规则说明。Lumiwave计划在完成技术验证并与合作伙伴协商后，分阶段上线账号关联及游戏内行动执行功能。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Ragnarok Monster Marble\nplanea incorporar un AI Player",
+          "body": "Lumiwave incorporará un asistente de AI que analiza el historial, cambia mazos y juega partidas automáticas.",
+          "mini_headline": "Un AI Player para Ragnarok",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Lumiwave incorporará a ‘Ragnarok Monster Marble’ un asistente de inteligencia artificial (AI) que, a petición del usuario, analiza el historial de partidas y cambia mazos o juega partidas automáticas."
+              },
+              {
+                "t": "p",
+                "x": "Lumiwave anunció el día 13 que impulsa la incorporación de un ‘AI Player’ en ‘Ragnarok Monster Marble’, un juego de estrategia casual basado en la IP de Ragnarok de Gravity. Lee Kang-yong, director ejecutivo de Rosewood Studio, desarrolladora filial de Lumiwave, dirige el proyecto."
+              },
+              {
+                "t": "p",
+                "x": "‘AI Player’ es una función en desarrollo que vincula el asistente de AI del usuario con su cuenta de juego para que pueda pedir, mediante conversación, análisis del historial, cambios de mazo, partidas automáticas y más. La AI propone primero una tarea, el usuario la confirma y, al terminar, la AI informa del resultado."
+              },
+              {
+                "t": "img",
+                "src": "https://image.zdnet.co.kr/2026/11/13/ac2cc3181857eed5a36948f4f7d66259.png",
+                "cap": "Lumiwave impulsa la incorporación de un AI Player en ‘Ragnarok Monster Marble’"
+              },
+              {
+                "t": "p",
+                "x": "El alcance de ejecución se limita a las funciones que permite el servidor. Cada vez que se gaste moneda del juego se pedirá confirmación previa al usuario, y los pagos y los intercambios quedan fuera de ese alcance."
+              },
+              {
+                "t": "p",
+                "x": "Por ahora ofrece información del juego y explicaciones de las reglas. Lumiwave prevé aplicar por etapas la vinculación de cuentas y la ejecución de acciones dentro del juego tras la validación técnica y las conversaciones con sus socios."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "en": {
+          "headline": "Ragnarok Monster Marble\nto add an AI Player",
+          "body": "Lumiwave is introducing an AI assistant that analyzes match records, changes decks and plays automatic battles.",
+          "mini_headline": "AI Player for Ragnarok",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Lumiwave is introducing an artificial intelligence (AI) assistant to ‘Ragnarok Monster Marble’ that, at a user’s request, analyzes match records and changes decks or plays automatic battles."
+              },
+              {
+                "t": "p",
+                "x": "Lumiwave said on the 13th that it is pushing to introduce an ‘AI Player’ to ‘Ragnarok Monster Marble’, a casual strategy game built on Gravity’s Ragnarok IP. Lee Kang-yong, CEO of Rosewood Studio, a developer under Lumiwave, leads the project."
+              },
+              {
+                "t": "p",
+                "x": "‘AI Player’ is a feature in development that links a user’s AI assistant to their game account so they can request match analysis, deck changes, automatic battles and more through conversation. The AI first proposes a task, the user confirms it, and once it has finished the AI reports the result."
+              },
+              {
+                "t": "img",
+                "src": "https://image.zdnet.co.kr/2026/11/13/ac2cc3181857eed5a36948f4f7d66259.png",
+                "cap": "Lumiwave pushes to introduce an AI Player to ‘Ragnarok Monster Marble’"
+              },
+              {
+                "t": "p",
+                "x": "Its scope of action is limited to functions the server permits. Spending in-game currency requires the user’s prior confirmation each time, and payments and trades are excluded from its scope."
+              },
+              {
+                "t": "p",
+                "x": "For now it provides game information and rule guidance. Lumiwave plans to roll out account linking and in-game action execution in stages after technical validation and talks with partners."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "ラグナロクモンスターマーブル\nAIプレイヤー導入へ",
+          "body": "Lumiwaveは戦績分析やデッキ変更、自動対戦をこなすAIアシスタントを導入する。",
+          "mini_headline": "ラグナロクにAIプレイヤー",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Lumiwaveは、ユーザーの依頼を受けて戦績を分析し、デッキ変更や自動対戦を行う人工知能(AI)アシスタントを『ラグナロク モンスターマーブル』に導入する。"
+              },
+              {
+                "t": "p",
+                "x": "Lumiwaveは13日、GravityのラグナロクIPを活用したカジュアル戦略ゲーム『ラグナロク モンスターマーブル』に「AI Player」の導入を進めると明らかにした。Lumiwave傘下の開発会社Rosewood Studioのイ・ガンヨン代表が事業を統括する。"
+              },
+              {
+                "t": "p",
+                "x": "「AI Player」は、ユーザーのAIアシスタントをゲームアカウントと連携し、会話を通じて戦績分析、デッキ変更、自動対戦などを依頼できるよう開発中の機能だ。AIがまず作業を提案し、ユーザーが確認すると、実行を終えたAIが結果を知らせる。"
+              },
+              {
+                "t": "img",
+                "src": "https://image.zdnet.co.kr/2026/11/13/ac2cc3181857eed5a36948f4f7d66259.png",
+                "cap": "Lumiwave、『ラグナロク モンスターマーブル』にAIプレイヤー導入を推進"
+              },
+              {
+                "t": "p",
+                "x": "実行範囲はサーバーが許可した機能に限られる。ゲーム内通貨を使う際は毎回ユーザーの事前確認を求め、決済と取引は実行範囲から除外する。"
+              },
+              {
+                "t": "p",
+                "x": "現在はゲーム情報とルール案内を提供している。Lumiwaveは技術検証とパートナーとの協議を経て、アカウント連携とゲーム内行動の実行機能を段階的に導入する計画だ。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "仙境传说怪物弹珠\n拟引入AI玩家",
+          "body": "Lumiwave将引入可分析战绩、更换卡组并自动对战的AI助手。",
+          "mini_headline": "仙境传说引入AI玩家",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Lumiwave将在《仙境传说怪物弹珠》中引入人工智能(AI)助手，可根据用户请求分析战绩，并执行更换卡组或自动对战。"
+              },
+              {
+                "t": "p",
+                "x": "Lumiwave于13日表示，正推进在借助Gravity旗下仙境传说(Ragnarok) IP打造的休闲策略游戏《仙境传说怪物弹珠》中引入“AI Player”。Lumiwave旗下开发商Rosewood Studio的代表Lee Kang-yong统筹该项目。"
+              },
+              {
+                "t": "p",
+                "x": "“AI Player”是一项正在开发的功能，可将用户的AI助手与游戏账号关联，通过对话请求战绩分析、更换卡组、自动对战等。AI会先提出操作建议，经用户确认后执行，完成后再告知结果。"
+              },
+              {
+                "t": "img",
+                "src": "https://image.zdnet.co.kr/2026/11/13/ac2cc3181857eed5a36948f4f7d66259.png",
+                "cap": "Lumiwave推进在《仙境传说怪物弹珠》中引入AI玩家"
+              },
+              {
+                "t": "p",
+                "x": "执行范围仅限服务器允许的功能。每次使用游戏内货币都须事先获得用户确认，支付与交易不在执行范围内。"
+              },
+              {
+                "t": "p",
+                "x": "目前该功能提供游戏信息和规则说明。Lumiwave计划在完成技术验证并与合作伙伴协商后，分阶段上线账号关联及游戏内行动执行功能。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Ragnarok Monster Marble\nplanea incorporar un AI Player",
+          "body": "Lumiwave incorporará un asistente de AI que analiza el historial, cambia mazos y juega partidas automáticas.",
+          "mini_headline": "Un AI Player para Ragnarok",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Lumiwave incorporará a ‘Ragnarok Monster Marble’ un asistente de inteligencia artificial (AI) que, a petición del usuario, analiza el historial de partidas y cambia mazos o juega partidas automáticas."
+              },
+              {
+                "t": "p",
+                "x": "Lumiwave anunció el día 13 que impulsa la incorporación de un ‘AI Player’ en ‘Ragnarok Monster Marble’, un juego de estrategia casual basado en la IP de Ragnarok de Gravity. Lee Kang-yong, director ejecutivo de Rosewood Studio, desarrolladora filial de Lumiwave, dirige el proyecto."
+              },
+              {
+                "t": "p",
+                "x": "‘AI Player’ es una función en desarrollo que vincula el asistente de AI del usuario con su cuenta de juego para que pueda pedir, mediante conversación, análisis del historial, cambios de mazo, partidas automáticas y más. La AI propone primero una tarea, el usuario la confirma y, al terminar, la AI informa del resultado."
+              },
+              {
+                "t": "img",
+                "src": "https://image.zdnet.co.kr/2026/11/13/ac2cc3181857eed5a36948f4f7d66259.png",
+                "cap": "Lumiwave impulsa la incorporación de un AI Player en ‘Ragnarok Monster Marble’"
+              },
+              {
+                "t": "p",
+                "x": "El alcance de ejecución se limita a las funciones que permite el servidor. Cada vez que se gaste moneda del juego se pedirá confirmación previa al usuario, y los pagos y los intercambios quedan fuera de ese alcance."
+              },
+              {
+                "t": "p",
+                "x": "Por ahora ofrece información del juego y explicaciones de las reglas. Lumiwave prevé aplicar por etapas la vinculación de cuentas y la ejecución de acciones dentro del juego tras la validación técnica y las conversaciones con sus socios."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "seraphim-s3-ai-highlights",
+      "source_lang": "ko",
+      "eyebrow": "AI NEWS",
+      "headline": "세라핌 S3 컨트롤러\nAI 하이라이트 공개",
+      "body": "세라핌 콘솔 앱이 플레이 영상을 분석해 짧은 클립용 장면을 자동으로 찾아준다.",
+      "mini_headline": "세라핌 S3 AI 하이라이트",
+      "tool": "Games",
+      "source": "게임메카",
+      "url": "https://www.gamemeca.com/view.php?gid=1783502",
       "accent": "#2ec5c5",
       "motif": "cube",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "p",
+            "x": "세라핌(Serafim)이 지난 13일 엑솔라(Xsolla)와의 협력을 통해 '트위치콘 2026'에서 세라핌 S3 모바일 게임 컨트롤러의 새로운 기능인 'AI 하이라이트(AI Highlights)'를 공개했다. 이 기능은 세라핌 콘솔 앱에 내장되어 S3 사용자들의 게임 플레이 영상을 분석하고 공유 가능한 짧은 콘텐츠로 손쉽게 만들 수 있도록 돕는다."
+          },
+          {
             "t": "img",
-            "src": "https://assetsio.gnwcdn.com/pexels-icon0-1214270.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-            "cap": "이미지 출처: iconO com on Pexels"
+            "src": "https://cdn.gamemeca.com/data_center/347/680/20261114084005.webp",
+            "cap": "▲ 세라핌 S3 모바일 게임 컨트롤러 및 AI 하이라이트 화면 (사진제공: 세라핌)"
           },
           {
             "t": "p",
-            "x": "최근 몇 달 새 비디오 게임 개발에 생성형 AI를 쓰는 일이 부쩍 늘었다. 2026년 10월 Steam Next Fest에 올라온 데모는 8,000개가 넘었고 그중 상당수가 생성형 AI 도구로 일부 또는 전부 만들어졌다. 급조한 무단 복제작·모드·이식판도 AI 덕에 새로 쏟아진다. 복제가 걱정돼 공개 데모를 취소했다는 개발자도 나왔다. Pryor Cashman 변호사들이 내놓은 미국법(US-law) 실무 단계는 다음과 같다."
+            "x": "AI 하이라이트는 온디바이스 엣지 AI 기술을 활용하여 스마트폰에서 직접 게임 플레이 영상을 처리한다. 별도의 클라우드 서버 업로드 과정 없이 기기 내에서 이전에 녹화된 게임 영상을 분석하여 마지막 순간의 승리, 극적인 역전, 인상적인 샷 또는 유머러스한 장면과 같은 흥미로운 순간들을 자동으로 식별한다. 플레이어는 긴 영상 전체를 시청하며 편집할 부분을 찾는 대신, AI가 제안하는 결과들을 검토하여 짧은 영상을 손쉽게 제작할 수 있다."
           },
           {
             "t": "p",
-            "x": "#1 기밀 유지: 게임 자료의 공유·녹화, LLM이나 챗봇 입력을 막는 NDAs(비밀유지계약)를 요구하고 워터마크와 기간 한정 접근을 함께 건다. #2 외주 인력과 협업자가 AI를 어떻게 쓰는지 파악해 정책을 세운다. #3 출시 전 미국 저작권청(US Copyright Office)에 저작권을 등록한다. 제때 등록해 두면 고의 침해에 최대 $150,000의 법정 손해배상을 청구할 수 있다. #4 USPTO에 사용 의사(intent-to-use) 기준으로 상표를 출원한다. 지금은 약 10개월이 걸린다. #5 브랜드를 쌓고 도메인과 소셜 계정을 확보한다. #6 모니터링과 게시 중단 요청, 필요하면 예비적 금지명령으로 권리를 행사한다. 무엇보다 빨리 움직여야 한다."
+            "x": "USB-C 스마트폰에 최적화된 S3 컨트롤러는 안드로이드 및 아이폰 15 이후 모델과 호환된다. 이 기능은 틱톡, 인스타그램 릴스, 유튜브 쇼츠용 영상 제작에 도움을 준다."
           },
           {
             "t": "p",
-            "x": "실무 목표는 하나다. 첫 공개 전에 권리 귀속(chain-of-title) 문서와 등록, 권리 행사 절차를 갖춰 두는 것이다."
+            "x": "세라핌의 GZ 첸(GZ Chen) 최고경영자는 \"AI 하이라이트를 통해 이 과정을 더 빠르고 쉽게 만드는 것이 우리의 목표다. 플레이어들이 더 많은 시간을 게임에 쓰고 영상 검색에는 시간을 덜 쓰도록 할 것이다\"라고 밝혔다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "Lawyers map defenses\nagainst AI game clones",
-          "body": "Pryor Cashman lawyers give developers practical US-law steps to protect games against generative AI clones.",
-          "mini_headline": "Shielding games from AI clones",
+        "ko": {
+          "headline": "세라핌 S3 컨트롤러\nAI 하이라이트 공개",
+          "body": "세라핌 콘솔 앱이 플레이 영상을 분석해 짧은 클립용 장면을 자동으로 찾아준다.",
+          "mini_headline": "세라핌 S3 AI 하이라이트",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "세라핌(Serafim)이 지난 13일 엑솔라(Xsolla)와의 협력을 통해 '트위치콘 2026'에서 세라핌 S3 모바일 게임 컨트롤러의 새로운 기능인 'AI 하이라이트(AI Highlights)'를 공개했다. 이 기능은 세라핌 콘솔 앱에 내장되어 S3 사용자들의 게임 플레이 영상을 분석하고 공유 가능한 짧은 콘텐츠로 손쉽게 만들 수 있도록 돕는다."
+              },
+              {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/pexels-icon0-1214270.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "cap": "Image credit: iconO com on Pexels"
+                "src": "https://cdn.gamemeca.com/data_center/347/680/20261114084005.webp",
+                "cap": "▲ 세라핌 S3 모바일 게임 컨트롤러 및 AI 하이라이트 화면 (사진제공: 세라핌)"
               },
               {
                 "t": "p",
-                "x": "Generative AI usage in video game development has increased significantly in recent months; Steam Next Fest featured over 8,000 demos in October 2026, many created partly or entirely with generative AI tools. AI is also facilitating a new wave of rapidly assembled, unauthorised clones, mods, and ports, and some developers report cancelling public demos for fear of being cloned. Pryor Cashman's lawyers offer practical steps under US law:"
+                "x": "AI 하이라이트는 온디바이스 엣지 AI 기술을 활용하여 스마트폰에서 직접 게임 플레이 영상을 처리한다. 별도의 클라우드 서버 업로드 과정 없이 기기 내에서 이전에 녹화된 게임 영상을 분석하여 마지막 순간의 승리, 극적인 역전, 인상적인 샷 또는 유머러스한 장면과 같은 흥미로운 순간들을 자동으로 식별한다. 플레이어는 긴 영상 전체를 시청하며 편집할 부분을 찾는 대신, AI가 제안하는 결과들을 검토하여 짧은 영상을 손쉽게 제작할 수 있다."
               },
               {
                 "t": "p",
-                "x": "#1 Ensure confidentiality: require NDAs that prohibit sharing, recording, or inputting game media into any LLM or chatbot, plus watermarking and limited-time access. #2 Understand your contractors' and collaborators' use of AI and set a policy. #3 Register copyrights with the US Copyright Office before release; timely registration can unlock statutory damages of up to $150,000 for willful infringement. #4 Register trademarks with the USPTO on an intent-to-use basis, a process currently taking around 10 months. #5 Build a brand and secure domains and social handles. #6 Enforce your rights with monitoring, takedowns, and, if needed, a preliminary injunction - moving swiftly is essential."
+                "x": "USB-C 스마트폰에 최적화된 S3 컨트롤러는 안드로이드 및 아이폰 15 이후 모델과 호환된다. 이 기능은 틱톡, 인스타그램 릴스, 유튜브 쇼츠용 영상 제작에 도움을 준다."
               },
               {
                 "t": "p",
-                "x": "The practical objective is to have chain-of-title documentation, registrations, and enforcement procedures ready before the first public reveal."
+                "x": "세라핌의 GZ 첸(GZ Chen) 최고경영자는 \"AI 하이라이트를 통해 이 과정을 더 빠르고 쉽게 만드는 것이 우리의 목표다. 플레이어들이 더 많은 시간을 게임에 쓰고 영상 검색에는 시간을 덜 쓰도록 할 것이다\"라고 밝혔다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "AI 게임 복제 대응법\n변호사들이 정리했다",
-          "body": "Pryor Cashman 변호사들이 AI 복제작에 맞설 미국법 실무 지침을 냈다.",
-          "mini_headline": "AI 복제로부터 게임 지키기",
+        "en": {
+          "headline": "Serafim S3 controller\nunveils AI Highlights",
+          "body": "The Serafim Console app analyzes gameplay video and automatically finds scenes for short clips.",
+          "mini_headline": "Serafim S3 AI Highlights",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "On the 13th, Serafim, in collaboration with Xsolla, unveiled ‘AI Highlights’, a new feature for its Serafim S3 mobile game controller, at ‘TwitchCon 2026’. Built into the Serafim Console app, the feature analyzes S3 users’ gameplay footage and helps them easily turn it into short, shareable content."
+              },
+              {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/pexels-icon0-1214270.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "cap": "이미지 출처: iconO com on Pexels"
+                "src": "https://cdn.gamemeca.com/data_center/347/680/20261114084005.webp",
+                "cap": "▲ The Serafim S3 mobile game controller and the AI Highlights screen (Photo: Serafim)"
               },
               {
                 "t": "p",
-                "x": "최근 몇 달 새 비디오 게임 개발에 생성형 AI를 쓰는 일이 부쩍 늘었다. 2026년 10월 Steam Next Fest에 올라온 데모는 8,000개가 넘었고 그중 상당수가 생성형 AI 도구로 일부 또는 전부 만들어졌다. 급조한 무단 복제작·모드·이식판도 AI 덕에 새로 쏟아진다. 복제가 걱정돼 공개 데모를 취소했다는 개발자도 나왔다. Pryor Cashman 변호사들이 내놓은 미국법(US-law) 실무 단계는 다음과 같다."
+                "x": "AI Highlights uses on-device edge AI technology to process gameplay footage directly on the smartphone. Without a separate upload to a cloud server, it analyzes previously recorded gameplay footage on the device and automatically identifies interesting moments such as last-second wins, dramatic comebacks, impressive shots or humorous scenes. Instead of watching an entire long video to find parts to edit, players can review the results the AI suggests and easily create short videos."
               },
               {
                 "t": "p",
-                "x": "#1 기밀 유지: 게임 자료의 공유·녹화, LLM이나 챗봇 입력을 막는 NDAs(비밀유지계약)를 요구하고 워터마크와 기간 한정 접근을 함께 건다. #2 외주 인력과 협업자가 AI를 어떻게 쓰는지 파악해 정책을 세운다. #3 출시 전 미국 저작권청(US Copyright Office)에 저작권을 등록한다. 제때 등록해 두면 고의 침해에 최대 $150,000의 법정 손해배상을 청구할 수 있다. #4 USPTO에 사용 의사(intent-to-use) 기준으로 상표를 출원한다. 지금은 약 10개월이 걸린다. #5 브랜드를 쌓고 도메인과 소셜 계정을 확보한다. #6 모니터링과 게시 중단 요청, 필요하면 예비적 금지명령으로 권리를 행사한다. 무엇보다 빨리 움직여야 한다."
+                "x": "Optimized for USB-C smartphones, the S3 controller is compatible with Android and iPhone 15 and later models. The feature helps create videos for TikTok, Instagram Reels and YouTube Shorts."
               },
               {
                 "t": "p",
-                "x": "실무 목표는 하나다. 첫 공개 전에 권리 귀속(chain-of-title) 문서와 등록, 권리 행사 절차를 갖춰 두는 것이다."
+                "x": "Serafim CEO GZ Chen said, “Our goal with AI Highlights is to make this process faster and easier. We want players to spend more time gaming and less time searching through footage.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIゲーム複製への\n防御策を弁護士が整理",
-          "body": "Pryor Cashmanの弁護士が、AIによるゲーム複製を防ぐ米国法の実務策を示した。",
-          "mini_headline": "AIクローンからゲームを守る",
+          "headline": "Serafim S3\nAIハイライトを公開",
+          "body": "Serafimコンソールアプリがプレイ映像を解析し、短尺クリップ向けの場面を自動で探す。",
+          "mini_headline": "Serafim S3のAIハイライト",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Serafimは13日、Xsollaとの協力のもと「TwitchCon 2026」で、Serafim S3モバイルゲームコントローラーの新機能「AIハイライト(AI Highlights)」を公開した。この機能はSerafim Consoleアプリに組み込まれ、S3ユーザーのゲームプレイ映像を解析し、共有しやすい短尺コンテンツを手軽に作れるよう支援する。"
+              },
+              {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/pexels-icon0-1214270.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "cap": "画像提供：iconO com on Pexels"
+                "src": "https://cdn.gamemeca.com/data_center/347/680/20261114084005.webp",
+                "cap": "▲ Serafim S3モバイルゲームコントローラーとAIハイライトの画面(写真提供: Serafim)"
               },
               {
                 "t": "p",
-                "x": "ここ数カ月、ビデオゲーム開発における生成AIの利用は大きく増えている。2026年10月のSteam Next Festには8,000本を超えるデモが並び、その多くが一部または全部を生成AIツールで作られていた。AIは素早く組み立てられた無許可のクローン、Mod、移植版の新たな波も後押ししており、クローンを恐れて公開デモを取りやめたと明かす開発者もいる。Pryor Cashmanの弁護士は、米国法（US-law）に基づく実務的な手順を次のように示す。"
+                "x": "AIハイライトはオンデバイスのエッジAI技術を使い、スマートフォン上で直接ゲームプレイ映像を処理する。クラウドサーバーへのアップロードを経ずに、端末内で過去に録画したゲーム映像を解析し、土壇場の勝利や劇的な逆転、印象的なショット、ユーモラスな場面といった見どころを自動で見つけ出す。プレイヤーは長い映像を最初から見て編集箇所を探す代わりに、AIが提案する結果を確認して短い動画を手軽に作れる。"
               },
               {
                 "t": "p",
-                "x": "#1 機密を守る：ゲーム素材の共有、録画、LLMやチャットボットへの入力を禁じるNDAs（秘密保持契約）を求め、透かしと期間限定のアクセスも組み合わせる。#2 外注先や協力者のAI利用を把握し、方針を定める。#3 リリース前に米国著作権局（US Copyright Office）へ著作権を登録する。適時に登録すれば、故意の侵害に対して最大$150,000の法定損害賠償を請求できる可能性がある。#4 USPTOに使用意思（intent-to-use）ベースで商標を出願する。現在この手続きには約10カ月かかる。#5 ブランドを築き、ドメインとSNSアカウントを確保する。#6 監視、削除要請、必要に応じて仮差止命令で権利を行使する。迅速な行動が欠かせない。"
+                "x": "USB-Cスマートフォンに最適化されたS3コントローラーは、AndroidおよびiPhone 15以降のモデルに対応する。この機能はTikTok、Instagram Reels、YouTube Shorts向けの動画制作に役立つ。"
               },
               {
                 "t": "p",
-                "x": "実務上の目標は、最初の公開前に権利の連鎖（chain-of-title）を示す書類、各種登録、権利行使の手順を整えておくことだ。"
+                "x": "SerafimのGZ Chen最高経営責任者は「AIハイライトによってこのプロセスをより速く簡単にすることが私たちの目標だ。プレイヤーがゲームにより多くの時間を使い、映像探しに費やす時間を減らせるようにする」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "律师支招\n防范AI游戏克隆",
-          "body": "Pryor Cashman律师为开发者提供美国法下防范生成式AI克隆游戏的实用步骤。",
-          "mini_headline": "保护游戏免遭AI克隆",
+          "headline": "Serafim S3手柄\n发布AI高光功能",
+          "body": "Serafim控制台应用可分析游戏视频，自动找出适合短片的精彩场景。",
+          "mini_headline": "Serafim S3 AI高光",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Serafim于13日与Xsolla合作，在“TwitchCon 2026”上发布了Serafim S3移动游戏手柄的新功能“AI高光(AI Highlights)”。该功能内置于Serafim Console应用，可分析S3用户的游戏视频，帮助其轻松制作便于分享的短内容。"
+              },
+              {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/pexels-icon0-1214270.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "cap": "图片来源：iconO com on Pexels"
+                "src": "https://cdn.gamemeca.com/data_center/347/680/20261114084005.webp",
+                "cap": "▲ Serafim S3移动游戏手柄及AI高光界面（图片提供：Serafim）"
               },
               {
                 "t": "p",
-                "x": "近几个月来，生成式AI在电子游戏开发中的使用大幅增加；2026年10月的Steam Next Fest展出了逾8,000款试玩版，其中许多部分或完全借助生成式AI工具制作。AI还助长了一波快速拼凑的未授权克隆、模组和移植版，一些开发者表示因担心被克隆而取消了公开试玩。Pryor Cashman的律师依据美国法律（US-law）给出了以下实用步骤："
+                "x": "AI高光利用端侧边缘AI技术，直接在智能手机上处理游戏视频。无需另行上传至云服务器，即可在设备内分析此前录制的游戏视频，自动识别最后时刻的胜利、戏剧性逆转、精彩操作或幽默场面等有趣瞬间。玩家无需看完整段长视频来寻找剪辑片段，只需查看AI给出的建议结果，即可轻松制作短视频。"
               },
               {
                 "t": "p",
-                "x": "#1 确保保密：要求签署NDAs（保密协议），禁止分享、录制游戏素材或将其输入任何LLM或聊天机器人，并辅以水印和限时访问。#2 了解承包商和合作者对AI的使用情况，并制定相关政策。#3 在发行前向美国版权局（US Copyright Office）登记版权；及时登记可使故意侵权的法定赔偿最高达$150,000。#4 以意向使用（intent-to-use）为基础向USPTO申请注册商标，该流程目前约需10个月。#5 打造品牌，并抢注域名和社交媒体账号。#6 通过监测、下架通知以及必要时申请初步禁令来维护权利——迅速行动至关重要。"
+                "x": "S3手柄针对USB-C智能手机优化，兼容Android及iPhone 15以后的机型。该功能可帮助制作用于TikTok、Instagram Reels、YouTube Shorts的视频。"
               },
               {
                 "t": "p",
-                "x": "务实的目标是在首次公开亮相之前，备妥权利链（chain-of-title）文件、各项登记以及维权程序。"
+                "x": "Serafim首席执行官GZ Chen表示：“我们的目标是通过AI高光让这一过程更快、更简单，让玩家把更多时间花在游戏上，减少搜索视频的时间。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Abogados trazan defensas\ncontra clones de juegos con IA",
-          "body": "Abogados de Pryor Cashman dan pasos prácticos bajo la ley de EE. UU. para proteger juegos de clones con IA generativa.",
-          "mini_headline": "Cómo proteger los juegos de los clones de IA",
+          "headline": "Serafim S3: el mando presenta\nla función AI Highlights",
+          "body": "La app Serafim Console analiza los videos de juego y encuentra de forma automática escenas para clips cortos.",
+          "mini_headline": "AI Highlights en el Serafim S3",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Serafim presentó el día 13 en ‘TwitchCon 2026’, en colaboración con Xsolla, ‘AI Highlights’, una nueva función de su mando para juegos móviles Serafim S3. Integrada en la app Serafim Console, la función analiza los videos de juego de los usuarios del S3 y les ayuda a convertirlos fácilmente en contenido corto para compartir."
+              },
+              {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/pexels-icon0-1214270.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "cap": "Crédito de la imagen: iconO com en Pexels"
+                "src": "https://cdn.gamemeca.com/data_center/347/680/20261114084005.webp",
+                "cap": "▲ El mando para juegos móviles Serafim S3 y la pantalla de AI Highlights (foto: Serafim)"
               },
               {
                 "t": "p",
-                "x": "El uso de IA generativa en el desarrollo de videojuegos ha aumentado considerablemente en los últimos meses; Steam Next Fest presentó más de 8.000 demos en octubre de 2026, muchas creadas total o parcialmente con herramientas de IA generativa. La IA también está facilitando una nueva oleada de clones, mods y ports no autorizados y montados a toda prisa, y algunos desarrolladores afirman haber cancelado demos públicas por miedo a ser clonados. Los abogados de Pryor Cashman proponen pasos prácticos conforme a la legislación estadounidense (US-law):"
+                "x": "AI Highlights utiliza tecnología de AI en el borde, en el propio dispositivo, para procesar los videos de juego directamente en el smartphone. Sin subirlos a un servidor en la nube, analiza en el dispositivo los videos grabados previamente e identifica de forma automática momentos interesantes, como victorias en el último segundo, remontadas dramáticas, jugadas impresionantes o escenas humorísticas. En lugar de ver un video largo completo para buscar qué editar, los jugadores pueden revisar los resultados que propone la AI y crear videos cortos con facilidad."
               },
               {
                 "t": "p",
-                "x": "#1 Garantizar la confidencialidad: exigir NDAs que prohíban compartir, grabar o introducir material del juego en cualquier LLM o chatbot, además de marcas de agua y acceso por tiempo limitado. #2 Conocer el uso que contratistas y colaboradores hacen de la IA y fijar una política. #3 Registrar los derechos de autor en la US Copyright Office antes del lanzamiento; un registro a tiempo puede permitir indemnizaciones legales de hasta $150,000 por infracción dolosa. #4 Registrar las marcas en la USPTO con base en la intención de uso (intent-to-use), un proceso que actualmente tarda unos 10 meses. #5 Construir una marca y asegurar dominios y nombres de usuario en redes sociales. #6 Hacer valer los derechos con vigilancia, solicitudes de retirada y, si es necesario, una medida cautelar; actuar con rapidez es esencial."
+                "x": "Optimizado para smartphones USB-C, el mando S3 es compatible con Android y con el iPhone 15 y modelos posteriores. La función ayuda a crear videos para TikTok, Instagram Reels y YouTube Shorts."
               },
               {
                 "t": "p",
-                "x": "El objetivo práctico es tener lista, antes de la primera presentación pública, la documentación de la cadena de titularidad (chain-of-title), los registros y los procedimientos de defensa de derechos."
+                "x": "GZ Chen, director ejecutivo de Serafim, afirmó: “Nuestro objetivo es que, con AI Highlights, este proceso sea más rápido y sencillo. Queremos que los jugadores dediquen más tiempo a jugar y menos a buscar en sus videos”."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "AI 게임 복제 대응법\n변호사들이 정리했다",
-          "body": "Pryor Cashman 변호사들이 AI 복제작 대응 미국법 실무 지침을 냈다.",
-          "mini_headline": "AI 복제로부터 게임 지키기",
+        "en": {
+          "headline": "Serafim S3 controller\nunveils AI Highlights",
+          "body": "The Serafim Console app analyzes gameplay video and automatically finds scenes for short clips.",
+          "mini_headline": "Serafim S3 AI Highlights",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "On the 13th, Serafim, in collaboration with Xsolla, unveiled ‘AI Highlights’, a new feature for its Serafim S3 mobile game controller, at ‘TwitchCon 2026’. Built into the Serafim Console app, the feature analyzes S3 users’ gameplay footage and helps them easily turn it into short, shareable content."
+              },
+              {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/pexels-icon0-1214270.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "cap": "이미지 출처: iconO com on Pexels"
+                "src": "https://cdn.gamemeca.com/data_center/347/680/20261114084005.webp",
+                "cap": "▲ The Serafim S3 mobile game controller and the AI Highlights screen (Photo: Serafim)"
               },
               {
                 "t": "p",
-                "x": "최근 몇 달 사이 비디오 게임 개발에서 생성형 AI 활용이 크게 늘었다. 2026년 10월 Steam Next Fest에는 8,000개가 넘는 데모가 올라왔고, 그중 상당수가 생성형 AI 도구로 일부 또는 전부 만들어졌다. AI는 빠르게 조립된 무단 복제작·모드·이식판의 새 물결도 부추기고 있으며, 일부 개발자는 복제를 우려해 공개 데모를 취소했다고 밝혔다. Pryor Cashman 변호사들은 미국법(US-law)에 따른 실무 단계를 다음과 같이 제시한다."
+                "x": "AI Highlights uses on-device edge AI technology to process gameplay footage directly on the smartphone. Without a separate upload to a cloud server, it analyzes previously recorded gameplay footage on the device and automatically identifies interesting moments such as last-second wins, dramatic comebacks, impressive shots or humorous scenes. Instead of watching an entire long video to find parts to edit, players can review the results the AI suggests and easily create short videos."
               },
               {
                 "t": "p",
-                "x": "#1 기밀 유지: 게임 자료를 공유·녹화하거나 LLM이나 챗봇에 입력하는 것을 금지하는 NDAs(비밀유지계약)를 요구하고, 워터마크와 기간 한정 접근을 함께 적용한다. #2 외주 인력과 협업자의 AI 활용 방식을 파악하고 정책을 세운다. #3 출시 전 미국 저작권청(US Copyright Office)에 저작권을 등록한다. 적시에 등록하면 고의 침해에 대해 최대 $150,000의 법정 손해배상을 청구할 수 있다. #4 USPTO에 사용 의사(intent-to-use) 기준으로 상표를 출원한다. 현재 이 절차에는 약 10개월이 걸린다. #5 브랜드를 구축하고 도메인과 소셜 계정을 확보한다. #6 모니터링, 게시 중단 요청, 필요하면 예비적 금지명령으로 권리를 행사한다. 신속한 대응이 핵심이다."
+                "x": "Optimized for USB-C smartphones, the S3 controller is compatible with Android and iPhone 15 and later models. The feature helps create videos for TikTok, Instagram Reels and YouTube Shorts."
               },
               {
                 "t": "p",
-                "x": "실무적 목표는 첫 공개 전에 권리 귀속(chain-of-title) 문서, 등록, 권리 행사 절차를 갖춰 두는 것이다."
+                "x": "Serafim CEO GZ Chen said, “Our goal with AI Highlights is to make this process faster and easier. We want players to spend more time gaming and less time searching through footage.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIゲーム複製への\n防御策を弁護士が整理",
-          "body": "Pryor Cashmanの弁護士が、AIによるゲーム複製を防ぐ米国法の実務策を示した。",
-          "mini_headline": "AIクローンからゲームを守る",
+          "headline": "Serafim S3\nAIハイライトを公開",
+          "body": "Serafimコンソールアプリがプレイ映像を解析し、短尺クリップ向けの場面を自動で探す。",
+          "mini_headline": "Serafim S3のAIハイライト",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Serafimは13日、Xsollaとの協力のもと「TwitchCon 2026」で、Serafim S3モバイルゲームコントローラーの新機能「AIハイライト(AI Highlights)」を公開した。この機能はSerafim Consoleアプリに組み込まれ、S3ユーザーのゲームプレイ映像を解析し、共有しやすい短尺コンテンツを手軽に作れるよう支援する。"
+              },
+              {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/pexels-icon0-1214270.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "cap": "画像提供：iconO com on Pexels"
+                "src": "https://cdn.gamemeca.com/data_center/347/680/20261114084005.webp",
+                "cap": "▲ Serafim S3モバイルゲームコントローラーとAIハイライトの画面(写真提供: Serafim)"
               },
               {
                 "t": "p",
-                "x": "ここ数カ月、ビデオゲーム開発における生成AIの利用は大きく増えている。2026年10月のSteam Next Festには8,000本を超えるデモが並び、その多くが一部または全部を生成AIツールで作られていた。AIは素早く組み立てられた無許可のクローン、Mod、移植版の新たな波も後押ししており、クローンを恐れて公開デモを取りやめたと明かす開発者もいる。Pryor Cashmanの弁護士は、米国法（US-law）に基づく実務的な手順を次のように示す。"
+                "x": "AIハイライトはオンデバイスのエッジAI技術を使い、スマートフォン上で直接ゲームプレイ映像を処理する。クラウドサーバーへのアップロードを経ずに、端末内で過去に録画したゲーム映像を解析し、土壇場の勝利や劇的な逆転、印象的なショット、ユーモラスな場面といった見どころを自動で見つけ出す。プレイヤーは長い映像を最初から見て編集箇所を探す代わりに、AIが提案する結果を確認して短い動画を手軽に作れる。"
               },
               {
                 "t": "p",
-                "x": "#1 機密を守る：ゲーム素材の共有、録画、LLMやチャットボットへの入力を禁じるNDAs（秘密保持契約）を求め、透かしと期間限定のアクセスも組み合わせる。#2 外注先や協力者のAI利用を把握し、方針を定める。#3 リリース前に米国著作権局（US Copyright Office）へ著作権を登録する。適時に登録すれば、故意の侵害に対して最大$150,000の法定損害賠償を請求できる可能性がある。#4 USPTOに使用意思（intent-to-use）ベースで商標を出願する。現在この手続きには約10カ月かかる。#5 ブランドを築き、ドメインとSNSアカウントを確保する。#6 監視、削除要請、必要に応じて仮差止命令で権利を行使する。迅速な行動が欠かせない。"
+                "x": "USB-Cスマートフォンに最適化されたS3コントローラーは、AndroidおよびiPhone 15以降のモデルに対応する。この機能はTikTok、Instagram Reels、YouTube Shorts向けの動画制作に役立つ。"
               },
               {
                 "t": "p",
-                "x": "実務上の目標は、最初の公開前に権利の連鎖（chain-of-title）を示す書類、各種登録、権利行使の手順を整えておくことだ。"
+                "x": "SerafimのGZ Chen最高経営責任者は「AIハイライトによってこのプロセスをより速く簡単にすることが私たちの目標だ。プレイヤーがゲームにより多くの時間を使い、映像探しに費やす時間を減らせるようにする」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "律师支招\n防范AI游戏克隆",
-          "body": "Pryor Cashman律师为开发者提供美国法下防范生成式AI克隆游戏的实用步骤。",
-          "mini_headline": "保护游戏免遭AI克隆",
+          "headline": "Serafim S3手柄\n发布AI高光功能",
+          "body": "Serafim控制台应用可分析游戏视频，自动找出适合短片的精彩场景。",
+          "mini_headline": "Serafim S3 AI高光",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Serafim于13日与Xsolla合作，在“TwitchCon 2026”上发布了Serafim S3移动游戏手柄的新功能“AI高光(AI Highlights)”。该功能内置于Serafim Console应用，可分析S3用户的游戏视频，帮助其轻松制作便于分享的短内容。"
+              },
+              {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/pexels-icon0-1214270.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "cap": "图片来源：iconO com on Pexels"
+                "src": "https://cdn.gamemeca.com/data_center/347/680/20261114084005.webp",
+                "cap": "▲ Serafim S3移动游戏手柄及AI高光界面（图片提供：Serafim）"
               },
               {
                 "t": "p",
-                "x": "近几个月来，生成式AI在电子游戏开发中的使用大幅增加；2026年10月的Steam Next Fest展出了逾8,000款试玩版，其中许多部分或完全借助生成式AI工具制作。AI还助长了一波快速拼凑的未授权克隆、模组和移植版，一些开发者表示因担心被克隆而取消了公开试玩。Pryor Cashman的律师依据美国法律（US-law）给出了以下实用步骤："
+                "x": "AI高光利用端侧边缘AI技术，直接在智能手机上处理游戏视频。无需另行上传至云服务器，即可在设备内分析此前录制的游戏视频，自动识别最后时刻的胜利、戏剧性逆转、精彩操作或幽默场面等有趣瞬间。玩家无需看完整段长视频来寻找剪辑片段，只需查看AI给出的建议结果，即可轻松制作短视频。"
               },
               {
                 "t": "p",
-                "x": "#1 确保保密：要求签署NDAs（保密协议），禁止分享、录制游戏素材或将其输入任何LLM或聊天机器人，并辅以水印和限时访问。#2 了解承包商和合作者对AI的使用情况，并制定相关政策。#3 在发行前向美国版权局（US Copyright Office）登记版权；及时登记可使故意侵权的法定赔偿最高达$150,000。#4 以意向使用（intent-to-use）为基础向USPTO申请注册商标，该流程目前约需10个月。#5 打造品牌，并抢注域名和社交媒体账号。#6 通过监测、下架通知以及必要时申请初步禁令来维护权利——迅速行动至关重要。"
+                "x": "S3手柄针对USB-C智能手机优化，兼容Android及iPhone 15以后的机型。该功能可帮助制作用于TikTok、Instagram Reels、YouTube Shorts的视频。"
               },
               {
                 "t": "p",
-                "x": "务实的目标是在首次公开亮相之前，备妥权利链（chain-of-title）文件、各项登记以及维权程序。"
+                "x": "Serafim首席执行官GZ Chen表示：“我们的目标是通过AI高光让这一过程更快、更简单，让玩家把更多时间花在游戏上，减少搜索视频的时间。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Abogados trazan defensas\ncontra clones de juegos con IA",
-          "body": "Abogados de Pryor Cashman dan pasos prácticos bajo la ley de EE. UU. para proteger juegos de clones con IA generativa.",
-          "mini_headline": "Cómo proteger los juegos de los clones de IA",
+          "headline": "Serafim S3: el mando presenta\nla función AI Highlights",
+          "body": "La app Serafim Console analiza los videos de juego y encuentra de forma automática escenas para clips cortos.",
+          "mini_headline": "AI Highlights en el Serafim S3",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Serafim presentó el día 13 en ‘TwitchCon 2026’, en colaboración con Xsolla, ‘AI Highlights’, una nueva función de su mando para juegos móviles Serafim S3. Integrada en la app Serafim Console, la función analiza los videos de juego de los usuarios del S3 y les ayuda a convertirlos fácilmente en contenido corto para compartir."
+              },
+              {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/pexels-icon0-1214270.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "cap": "Crédito de la imagen: iconO com en Pexels"
+                "src": "https://cdn.gamemeca.com/data_center/347/680/20261114084005.webp",
+                "cap": "▲ El mando para juegos móviles Serafim S3 y la pantalla de AI Highlights (foto: Serafim)"
               },
               {
                 "t": "p",
-                "x": "El uso de IA generativa en el desarrollo de videojuegos ha aumentado considerablemente en los últimos meses; Steam Next Fest presentó más de 8.000 demos en octubre de 2026, muchas creadas total o parcialmente con herramientas de IA generativa. La IA también está facilitando una nueva oleada de clones, mods y ports no autorizados y montados a toda prisa, y algunos desarrolladores afirman haber cancelado demos públicas por miedo a ser clonados. Los abogados de Pryor Cashman proponen pasos prácticos conforme a la legislación estadounidense (US-law):"
+                "x": "AI Highlights utiliza tecnología de AI en el borde, en el propio dispositivo, para procesar los videos de juego directamente en el smartphone. Sin subirlos a un servidor en la nube, analiza en el dispositivo los videos grabados previamente e identifica de forma automática momentos interesantes, como victorias en el último segundo, remontadas dramáticas, jugadas impresionantes o escenas humorísticas. En lugar de ver un video largo completo para buscar qué editar, los jugadores pueden revisar los resultados que propone la AI y crear videos cortos con facilidad."
               },
               {
                 "t": "p",
-                "x": "#1 Garantizar la confidencialidad: exigir NDAs que prohíban compartir, grabar o introducir material del juego en cualquier LLM o chatbot, además de marcas de agua y acceso por tiempo limitado. #2 Conocer el uso que contratistas y colaboradores hacen de la IA y fijar una política. #3 Registrar los derechos de autor en la US Copyright Office antes del lanzamiento; un registro a tiempo puede permitir indemnizaciones legales de hasta $150,000 por infracción dolosa. #4 Registrar las marcas en la USPTO con base en la intención de uso (intent-to-use), un proceso que actualmente tarda unos 10 meses. #5 Construir una marca y asegurar dominios y nombres de usuario en redes sociales. #6 Hacer valer los derechos con vigilancia, solicitudes de retirada y, si es necesario, una medida cautelar; actuar con rapidez es esencial."
+                "x": "Optimizado para smartphones USB-C, el mando S3 es compatible con Android y con el iPhone 15 y modelos posteriores. La función ayuda a crear videos para TikTok, Instagram Reels y YouTube Shorts."
               },
               {
                 "t": "p",
-                "x": "El objetivo práctico es tener lista, antes de la primera presentación pública, la documentación de la cadena de titularidad (chain-of-title), los registros y los procedimientos de defensa de derechos."
+                "x": "GZ Chen, director ejecutivo de Serafim, afirmó: “Nuestro objetivo es que, con AI Highlights, este proceso sea más rápido y sencillo. Queremos que los jugadores dediquen más tiempo a jugar y menos a buscar en sus videos”."
               }
             ]
           }
@@ -929,643 +1471,521 @@
       }
     },
     {
-      "id": "xbox-sharma-genai-memo",
-      "source_lang": "en",
+      "id": "creditcoin-grid-ai-agent-beta",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "Xbox CEO 메모,\ngen-AI 제작 시사",
-      "body": "Xbox CEO가 기념 메모에서 작은 팀이 수백 명 몫의 세계를 만든다고 썼다.",
-      "mini_headline": "Xbox CEO 메모, 생성형 AI 시사",
+      "headline": "크레딧코인 그리드 베타\nAI 에이전트 전략 대결",
+      "body": "펭귄베이스가 AI 에이전트가 맞붙는 전략 게임 그리드 글로벌 베타를 열었다.",
+      "mini_headline": "AI 에이전트 대전 베타",
       "tool": "Games",
-      "source": "Eurogamer",
-      "url": "https://www.eurogamer.net/microsoft-xbox-gen-ai-asha-sharma-memo",
+      "source": "디지털타임스",
+      "url": "https://www.dt.co.kr/article/12095040",
       "accent": "#eb367f",
       "motif": "cube",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://assetsio.gnwcdn.com/asha-sharma-xbox-showcase-2026.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-            "cap": "이미지 출처: Eurogamer"
+            "src": "https://wimg.dt.co.kr/news/cms/2026/11/13/news-p.v1.20261113.c4840efe42e44c3ea50d296212ae303d_P1.jpg",
+            "cap": "사진 제공= 크레딧코인"
           },
           {
             "t": "p",
-            "x": "Xbox 수장 Asha Sharma가 '25 years of Xbox'라는 메모에서 게임 제작에 생성형 AI를 끌어들이겠다는 뜻을 내비쳤다. Sharma는 \"너무 많은 아이디어가 끝내 게임이 되지 못하고\", \"너무 많은 게임이 제작자가 상상한 수준에 미치지 못한다\"고 아쉬워했다. \"수십 년 동안 이는 야망의 피할 수 없는 대가였다\"며 \"우리는 이것을 바꿔야 한다\"고도 썼다."
-          },
-          {
-            "t": "video",
-            "yt": "zCY0C8tTddM"
+            "x": "멀티체인 레이어1 블록체인 크레딧코인(Creditcoin)의 생태계 포털 펭귄베이스(PenguinBase)가 AI 에이전트 기반 전략 시뮬레이션 게임 ‘그리드(GRID)’의 글로벌 베타 서비스를 개시했다고 12일 발표했다. 그리드는 크레딧코인 생태계에 새롭게 합류한 게임 서비스다."
           },
           {
             "t": "p",
-            "x": "\"머지않아 한 사람이 한때 국가 전체가 필요했던 역량을 다룰 수 있게 된다. 작은 팀이 오늘날 수백 명의 개발자와 수억 달러가 드는 세계를 만들 수 있게 된다. 그리고 우리의 가장 큰 스튜디오들은 Microsoft Flight Simulator 2024가 1982년의 첫 작품에서 멀어진 만큼 오늘의 게임을 훨씬 넘어서는 야망을 추구할 수 있게 된다.\""
+            "x": "그리드는 텍사스 홀덤 규칙을 활용하지만 이용자가 직접 카드를 조작하거나 대전에 참여하는 구조는 아니다. 이용자는 AI 에이전트의 성향과 행동 방식을 설정하고 전략을 제시하는 코치 역할을 수행한다. 실제 게임에서는 최대 6개의 AI 에이전트가 한 테이블에서 경쟁하며, 각 에이전트가 상대방의 제한된 정보를 바탕으로 확률을 계산하고 다음 행동을 독립적으로 결정한다."
           },
           {
             "t": "p",
-            "x": "생성형 AI를 콕 집어 말하진 않았지만 표현 곳곳에 그 뜻이 짙게 배어 있다. 메모는 지난달 Xbox Labs 이니셔티브 발표에 뒤이어 나왔다. Microsoft에서 AI 경력을 쌓은 Sharma는 앞서 \"나쁜 AI는 용납하지 않는다\"고 말했다. Eurogamer는 Microsoft에 해명을 요청했다."
+            "x": "특히 상대방의 패를 정확히 알 수 없는 불완전 정보(Imperfect Information) 상황에서 게임이 진행된다. 이용자가 입력한 전략을 AI가 어떻게 해석하고 판단하느냐가 대전 결과에 영향을 미치는 방식이다."
+          },
+          {
+            "t": "p",
+            "x": "외부 AI 모델과의 연동 기능도 게임의 주요 구성 요소다. 그리드는 모델 컨텍스트 프로토콜(MCP•Model Context Protocol)을 지원해 클로드(Claude), 코덱스(Codex) 등 기존에 사용하던 AI를 별도의 코딩 과정 없이 연결할 수 있다. 외부 AI 계정이 없는 경우에는 게임에 내장된 AI를 이용해 대전에 참여할 수 있다. 에이전트의 외형은 6종의 펫 가운데 선택해 꾸밀 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "이용자는 경기에 앞서 최대 6,000자 분량의 프롬프트를 작성해 에이전트의 전략을 설정한다. 전략 내용은 필요에 따라 언제든 변경할 수 있으며, 경기 이후 핸드 히스토리(의사결정 기록)를 확인해 에이전트의 행동을 분석하고 다음 대전을 위한 전략을 수정할 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "베타 서비스에서는 별도의 비용 없이 게임용 칩을 지급한다. 칩은 최초 로그인과 매일 접속 시 무료로 제공되며, 게임 내부에서만 사용할 수 있다. 이용자가 칩을 구매하는 것은 불가능하고 현금이나 가상자산으로 교환할 수도 없다. 지급된 칩은 토너먼트 참가와 리더보드 경쟁에 활용된다."
+          },
+          {
+            "t": "p",
+            "x": "글로벌 베타 출시를 기념한 커뮤니티 이벤트도 마련됐다. 오는 13일부터 크레딧코인의 공식 커뮤니티 허브 ‘CafeGM’ X(구 트위터) 계정에서 관련 행사가 순차적으로 진행된다. 게임을 이용하는 유저라면 누구나 참여할 수 있으며, 추첨을 통해 기념품을 받을 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "크레딧코인 생태계 관계자는 “펭귄베이스는 크레딧코인 생태계의 다양한 서비스와 이용자를 연결하는 포털”이라며 “그리드가 합류하면서 생태계 참여자들에게 AI를 활용한 새로운 게임 경험을 제공하게 됐다”고 말했다."
+          },
+          {
+            "t": "p",
+            "x": "이어 “앞으로도 다양한 빌더들이 펭귄베이스를 통해 글로벌 이용자들과 만날 수 있도록 생태계 내 서비스 구성을 확대해 나갈 것”이라고 밝혔다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "Xbox CEO memo hints\nat gen-AI game making",
-          "body": "Xbox CEO Asha Sharma's anniversary memo says a small team will build worlds that today demand hundreds of developers.",
-          "mini_headline": "Xbox CEO memo signals gen-AI",
+        "ko": {
+          "headline": "크레딧코인 그리드 베타\nAI 에이전트 전략 대결",
+          "body": "펭귄베이스가 AI 에이전트가 맞붙는 전략 게임 그리드 글로벌 베타를 열었다.",
+          "mini_headline": "AI 에이전트 대전 베타",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/asha-sharma-xbox-showcase-2026.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "cap": "Image credit: Eurogamer"
+                "src": "https://wimg.dt.co.kr/news/cms/2026/11/13/news-p.v1.20261113.c4840efe42e44c3ea50d296212ae303d_P1.jpg",
+                "cap": "사진 제공= 크레딧코인"
               },
               {
                 "t": "p",
-                "x": "Xbox leader Asha Sharma has alluded to harnessing the power of generative AI when making games, in a memo titled 25 years of Xbox. Sharma lamented that \"too many ideas never become games\" and that \"too many games fall short of what their creators imagined\". \"For decades, this has been the unavoidable tradeoff of ambition,\" she wrote. \"We must change this.\""
-              },
-              {
-                "t": "video",
-                "yt": "zCY0C8tTddM"
+                "x": "멀티체인 레이어1 블록체인 크레딧코인(Creditcoin)의 생태계 포털 펭귄베이스(PenguinBase)가 AI 에이전트 기반 전략 시뮬레이션 게임 ‘그리드(GRID)’의 글로벌 베타 서비스를 개시했다고 12일 발표했다. 그리드는 크레딧코인 생태계에 새롭게 합류한 게임 서비스다."
               },
               {
                 "t": "p",
-                "x": "\"A single person will soon be able to wield capabilities that once required entire nations. A small team will be able to build worlds that today demand hundreds of developers and hundreds of millions of dollars. And our largest studios will be able to pursue ambitions as far beyond today's games as Microsoft Flight Simulator 2024 is from its first entry in 1982.\""
+                "x": "그리드는 텍사스 홀덤 규칙을 활용하지만 이용자가 직접 카드를 조작하거나 대전에 참여하는 구조는 아니다. 이용자는 AI 에이전트의 성향과 행동 방식을 설정하고 전략을 제시하는 코치 역할을 수행한다. 실제 게임에서는 최대 6개의 AI 에이전트가 한 테이블에서 경쟁하며, 각 에이전트가 상대방의 제한된 정보를 바탕으로 확률을 계산하고 다음 행동을 독립적으로 결정한다."
               },
               {
                 "t": "p",
-                "x": "There is no explicit mention of generative AI, but the language is suggestive, and the memo follows last month's announcement of an Xbox Labs initiative. Sharma, whose Microsoft background is in AI, earlier said she has \"no tolerance for bad AI\". Eurogamer has asked Microsoft for clarification."
+                "x": "특히 상대방의 패를 정확히 알 수 없는 불완전 정보(Imperfect Information) 상황에서 게임이 진행된다. 이용자가 입력한 전략을 AI가 어떻게 해석하고 판단하느냐가 대전 결과에 영향을 미치는 방식이다."
+              },
+              {
+                "t": "p",
+                "x": "외부 AI 모델과의 연동 기능도 게임의 주요 구성 요소다. 그리드는 모델 컨텍스트 프로토콜(MCP•Model Context Protocol)을 지원해 클로드(Claude), 코덱스(Codex) 등 기존에 사용하던 AI를 별도의 코딩 과정 없이 연결할 수 있다. 외부 AI 계정이 없는 경우에는 게임에 내장된 AI를 이용해 대전에 참여할 수 있다. 에이전트의 외형은 6종의 펫 가운데 선택해 꾸밀 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "이용자는 경기에 앞서 최대 6,000자 분량의 프롬프트를 작성해 에이전트의 전략을 설정한다. 전략 내용은 필요에 따라 언제든 변경할 수 있으며, 경기 이후 핸드 히스토리(의사결정 기록)를 확인해 에이전트의 행동을 분석하고 다음 대전을 위한 전략을 수정할 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "베타 서비스에서는 별도의 비용 없이 게임용 칩을 지급한다. 칩은 최초 로그인과 매일 접속 시 무료로 제공되며, 게임 내부에서만 사용할 수 있다. 이용자가 칩을 구매하는 것은 불가능하고 현금이나 가상자산으로 교환할 수도 없다. 지급된 칩은 토너먼트 참가와 리더보드 경쟁에 활용된다."
+              },
+              {
+                "t": "p",
+                "x": "글로벌 베타 출시를 기념한 커뮤니티 이벤트도 마련됐다. 오는 13일부터 크레딧코인의 공식 커뮤니티 허브 ‘CafeGM’ X(구 트위터) 계정에서 관련 행사가 순차적으로 진행된다. 게임을 이용하는 유저라면 누구나 참여할 수 있으며, 추첨을 통해 기념품을 받을 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "크레딧코인 생태계 관계자는 “펭귄베이스는 크레딧코인 생태계의 다양한 서비스와 이용자를 연결하는 포털”이라며 “그리드가 합류하면서 생태계 참여자들에게 AI를 활용한 새로운 게임 경험을 제공하게 됐다”고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "이어 “앞으로도 다양한 빌더들이 펭귄베이스를 통해 글로벌 이용자들과 만날 수 있도록 생태계 내 서비스 구성을 확대해 나갈 것”이라고 밝혔다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "Xbox CEO 메모,\ngen-AI 제작 시사",
-          "body": "Xbox CEO가 기념 메모에서 작은 팀이 수백 명 몫의 세계를 만든다고 썼다.",
-          "mini_headline": "Xbox CEO 메모, 생성형 AI 시사",
+        "en": {
+          "headline": "Creditcoin GRID beta pits\nAI agents in strategy duels",
+          "body": "PenguinBase has opened the global beta of GRID, a strategy game in which AI agents compete against each other.",
+          "mini_headline": "AI agent battle beta",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/asha-sharma-xbox-showcase-2026.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "cap": "이미지 출처: Eurogamer"
+                "src": "https://wimg.dt.co.kr/news/cms/2026/11/13/news-p.v1.20261113.c4840efe42e44c3ea50d296212ae303d_P1.jpg",
+                "cap": "Photo courtesy of Creditcoin"
               },
               {
                 "t": "p",
-                "x": "Xbox 수장 Asha Sharma가 '25 years of Xbox'라는 메모에서 게임 제작에 생성형 AI를 끌어들이겠다는 뜻을 내비쳤다. Sharma는 \"너무 많은 아이디어가 끝내 게임이 되지 못하고\", \"너무 많은 게임이 제작자가 상상한 수준에 미치지 못한다\"고 아쉬워했다. \"수십 년 동안 이는 야망의 피할 수 없는 대가였다\"며 \"우리는 이것을 바꿔야 한다\"고도 썼다."
-              },
-              {
-                "t": "video",
-                "yt": "zCY0C8tTddM"
+                "x": "PenguinBase, the ecosystem portal of multichain layer 1 blockchain Creditcoin, announced on the 12th that it has launched the global beta service of ‘GRID’, an AI agent-based strategy simulation game. GRID is a game service newly added to the Creditcoin ecosystem."
               },
               {
                 "t": "p",
-                "x": "\"머지않아 한 사람이 한때 국가 전체가 필요했던 역량을 다룰 수 있게 된다. 작은 팀이 오늘날 수백 명의 개발자와 수억 달러가 드는 세계를 만들 수 있게 된다. 그리고 우리의 가장 큰 스튜디오들은 Microsoft Flight Simulator 2024가 1982년의 첫 작품에서 멀어진 만큼 오늘의 게임을 훨씬 넘어서는 야망을 추구할 수 있게 된다.\""
+                "x": "GRID uses Texas Hold’em rules, but users do not handle cards or play matches directly. Instead, they act as coaches who set the AI agents’ tendencies and behavior and lay out strategies. In actual games, up to 6 AI agents compete at the same table, each calculating probabilities from limited information about its opponents and independently deciding its next move."
               },
               {
                 "t": "p",
-                "x": "생성형 AI를 콕 집어 말하진 않았지만 표현 곳곳에 그 뜻이 짙게 배어 있다. 메모는 지난달 Xbox Labs 이니셔티브 발표에 뒤이어 나왔다. Microsoft에서 AI 경력을 쌓은 Sharma는 앞서 \"나쁜 AI는 용납하지 않는다\"고 말했다. Eurogamer는 Microsoft에 해명을 요청했다."
+                "x": "Notably, the game is played under Imperfect Information, where players cannot know their opponents’ hands exactly. How the AI interprets and judges the strategy a user enters shapes the outcome of each match."
+              },
+              {
+                "t": "p",
+                "x": "Integration with external AI models is another key component of the game. GRID supports the Model Context Protocol (MCP•Model Context Protocol), letting users connect AI they already use, such as Claude and Codex, without separate coding. Users without an external AI account can join matches using the AI built into the game. Agents’ appearance can be customized by choosing from 6 pets."
+              },
+              {
+                "t": "p",
+                "x": "Before each match, users write prompts of up to 6,000 characters to set their agent’s strategy. The strategy can be changed at any time as needed, and after a match users can check the hand history (decision log) to analyze the agent’s behavior and revise their strategy for the next match."
+              },
+              {
+                "t": "p",
+                "x": "In the beta, game chips are provided at no cost. Chips are given free on first login and with each daily visit, and can only be used within the game. Users cannot buy chips, and chips cannot be exchanged for cash or virtual assets. The chips are used to enter tournaments and compete on leaderboards."
+              },
+              {
+                "t": "p",
+                "x": "A community event marking the global beta launch has also been prepared. Starting on the 13th, related events will run in sequence on the X (formerly Twitter) account of ‘CafeGM’, Creditcoin’s official community hub. Any user playing the game can take part, and souvenirs will be awarded by drawing."
+              },
+              {
+                "t": "p",
+                "x": "A Creditcoin ecosystem official said, “PenguinBase is a portal that connects users with the various services of the Creditcoin ecosystem,” adding, “With GRID joining, we can now offer ecosystem participants a new gaming experience that uses AI.”"
+              },
+              {
+                "t": "p",
+                "x": "The official added, “We will continue to expand the services within the ecosystem so that a variety of builders can meet global users through PenguinBase.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "Xbox CEOのメモ\ngen-AIゲーム制作を示唆",
-          "body": "Xbox CEOの記念メモは、今は数百人を要する世界を小さなチームが作れると記した。",
-          "mini_headline": "Xbox CEOのメモ、生成AIを示唆",
+          "headline": "GRIDのベータ開始\nAIエージェントが戦略対決",
+          "body": "PenguinBaseがAIエージェント対戦の戦略ゲームGRIDのベータを世界で開始した。",
+          "mini_headline": "AIエージェント対戦のベータ",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/asha-sharma-xbox-showcase-2026.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "cap": "画像提供：Eurogamer"
+                "src": "https://wimg.dt.co.kr/news/cms/2026/11/13/news-p.v1.20261113.c4840efe42e44c3ea50d296212ae303d_P1.jpg",
+                "cap": "写真提供= Creditcoin"
               },
               {
                 "t": "p",
-                "x": "Xboxを率いるAsha Sharmaは、「25 years of Xbox」と題したメモで、ゲーム制作に生成AIの力を活用することをほのめかした。Sharmaは「あまりに多くのアイデアがゲームにならない」こと、「あまりに多くのゲームが作り手の思い描いた姿に届かない」ことを嘆いた。「何十年もの間、これは野心にとって避けられない代償だった」と彼女は書き、「私たちはこれを変えなければならない」と続けた。"
-              },
-              {
-                "t": "video",
-                "yt": "zCY0C8tTddM"
+                "x": "マルチチェーンのレイヤー1ブロックチェーンCreditcoinのエコシステムポータルPenguinBaseは12日、AIエージェントを基盤とする戦略シミュレーションゲーム「GRID」のグローバルベータサービスを開始したと発表した。GRIDはCreditcoinエコシステムに新たに加わったゲームサービスだ。"
               },
               {
                 "t": "p",
-                "x": "「まもなく一人の人間が、かつては国家全体を必要とした能力を扱えるようになる。小さなチームが、今なら数百人の開発者と数億ドルを要する世界を築けるようになる。そして私たちの最大のスタジオは、Microsoft Flight Simulator 2024が1982年の第1作からかけ離れているのと同じくらい、今日のゲームをはるかに超えた野心を追求できるようになる」"
+                "x": "GRIDはテキサスホールデムのルールを採用しているが、ユーザーが自らカードを操作したり対戦に参加したりする仕組みではない。ユーザーはAIエージェントの性格や行動方式を設定し、戦略を示すコーチの役割を担う。実際のゲームでは最大6体のAIエージェントが同じテーブルで競い、各エージェントが相手に関する限られた情報をもとに確率を計算し、次の行動を独自に決める。"
               },
               {
                 "t": "p",
-                "x": "生成AIへの明確な言及はないが、言葉選びは示唆的であり、このメモは先月のXbox Labs構想の発表に続くものだ。MicrosoftでAI分野のキャリアを積んだSharmaは、以前「悪いAIは一切容認しない」と語っていた。EurogamerはMicrosoftに説明を求めている。"
+                "x": "特に、相手の手札を正確に知ることができない不完全情報(Imperfect Information)の状況でゲームが進む。ユーザーが入力した戦略をAIがどう解釈し判断するかが対戦結果を左右する仕組みだ。"
+              },
+              {
+                "t": "p",
+                "x": "外部AIモデルとの連携機能もゲームの主要な構成要素だ。GRIDはモデルコンテキストプロトコル(MCP•Model Context Protocol)に対応し、Claude、Codexなど普段使っているAIを別途コーディングすることなく接続できる。外部AIのアカウントがない場合は、ゲームに内蔵されたAIで対戦に参加できる。エージェントの外見は6種類のペットから選んで飾ることができる。"
+              },
+              {
+                "t": "p",
+                "x": "ユーザーは試合前に最大6,000字のプロンプトを書き、エージェントの戦略を設定する。戦略は必要に応じていつでも変更でき、試合後にはハンドヒストリー(意思決定の記録)を確認してエージェントの行動を分析し、次の対戦に向けて戦略を修正できる。"
+              },
+              {
+                "t": "p",
+                "x": "ベータサービスではゲーム用チップを無償で配布する。チップは初回ログイン時と毎日のアクセス時に無料で提供され、ゲーム内でのみ使用できる。ユーザーがチップを購入することはできず、現金や暗号資産に交換することもできない。配布されたチップはトーナメント参加とリーダーボードでの競争に使われる。"
+              },
+              {
+                "t": "p",
+                "x": "グローバルベータの開始を記念したコミュニティイベントも用意された。13日からCreditcoinの公式コミュニティハブ「CafeGM」のX(旧Twitter)アカウントで関連イベントが順次行われる。ゲームを利用するユーザーなら誰でも参加でき、抽選で記念品が贈られる。"
+              },
+              {
+                "t": "p",
+                "x": "Creditcoinエコシステムの関係者は「PenguinBaseはCreditcoinエコシステムの多様なサービスと利用者をつなぐポータルだ」とし、「GRIDの参加により、エコシステムの参加者にAIを活用した新しいゲーム体験を提供できるようになった」と述べた。"
+              },
+              {
+                "t": "p",
+                "x": "続けて「今後もさまざまなビルダーがPenguinBaseを通じてグローバルな利用者と出会えるよう、エコシステム内のサービス構成を拡大していく」と明らかにした。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Xbox CEO备忘录\n暗示gen-AI做游戏",
-          "body": "Xbox CEO Sharma在周年备忘录中称，小团队将能打造如今需数百名开发者的世界。",
-          "mini_headline": "Xbox CEO备忘录暗示生成式AI",
+          "headline": "GRID开启公测\nAI智能体策略对决",
+          "body": "PenguinBase开启AI智能体对战策略游戏GRID的全球公测。",
+          "mini_headline": "AI智能体对战公测",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/asha-sharma-xbox-showcase-2026.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "cap": "图片来源：Eurogamer"
+                "src": "https://wimg.dt.co.kr/news/cms/2026/11/13/news-p.v1.20261113.c4840efe42e44c3ea50d296212ae303d_P1.jpg",
+                "cap": "图片提供= Creditcoin"
               },
               {
                 "t": "p",
-                "x": "Xbox负责人Asha Sharma在一份题为《25 years of Xbox》的备忘录中，暗示将在游戏制作中利用生成式AI的力量。Sharma感叹“太多创意从未成为游戏”，“太多游戏未能达到创作者的设想”。她写道：“几十年来，这一直是雄心无法回避的代价。”“我们必须改变这一点。”"
-              },
-              {
-                "t": "video",
-                "yt": "zCY0C8tTddM"
+                "x": "多链Layer 1 区块链Creditcoin的生态门户PenguinBase于12日宣布，已启动基于AI智能体的策略模拟游戏“GRID”的全球公测服务。GRID是新加入Creditcoin生态的游戏服务。"
               },
               {
                 "t": "p",
-                "x": "“很快，一个人就能掌握曾经需要举国之力才具备的能力。一支小团队将能打造如今需要数百名开发者和数亿美元才能建成的世界。而我们最大的工作室将能追求远超当今游戏的雄心，其差距就如同Microsoft Flight Simulator 2024与其1982年的初代作品之间的距离。”"
+                "x": "GRID采用德州扑克规则，但用户并不直接操作卡牌或参与对战，而是扮演教练的角色，设定AI智能体的性格与行为方式并提出策略。实际游戏中，最多6个AI智能体在同一张牌桌上竞争，每个智能体根据对手的有限信息计算概率，并独立决定下一步行动。"
               },
               {
                 "t": "p",
-                "x": "备忘录并未明确提及生成式AI，但措辞颇具暗示意味，且它紧随上月Xbox Labs计划的公布。拥有Microsoft AI背景的Sharma此前曾表示，她对“糟糕的AI零容忍”。Eurogamer已请Microsoft作出澄清。"
+                "x": "尤其是，游戏在无法准确得知对手底牌的不完全信息(Imperfect Information)情境下进行。AI如何解读用户输入的策略并作出判断，将影响对战结果。"
+              },
+              {
+                "t": "p",
+                "x": "与外部AI模型的联动功能也是游戏的主要组成部分。GRID支持模型上下文协议(MCP•Model Context Protocol)，无需额外编写代码即可接入Claude、Codex等用户原本使用的AI。没有外部AI账号的用户，也可以使用游戏内置的AI参与对战。智能体的外观可从6种宠物中选择装扮。"
+              },
+              {
+                "t": "p",
+                "x": "用户在比赛前最多可撰写6,000字的提示词来设定智能体策略。策略内容可根据需要随时修改，赛后还可查看手牌历史(决策记录)，分析智能体的行为，并为下一场对战调整策略。"
+              },
+              {
+                "t": "p",
+                "x": "公测期间将免费发放游戏筹码。筹码在首次登录及每日登录时免费提供，仅限在游戏内使用。用户无法购买筹码，也不能将其兑换为现金或虚拟资产。发放的筹码可用于参加锦标赛和排行榜竞争。"
+              },
+              {
+                "t": "p",
+                "x": "为纪念全球公测上线，还准备了社区活动。自13日起，相关活动将在Creditcoin官方社区中心“CafeGM”的X(原Twitter)账号上陆续开展。凡是使用该游戏的用户均可参与，并可通过抽奖获得纪念品。"
+              },
+              {
+                "t": "p",
+                "x": "Creditcoin生态相关人士表示：“PenguinBase是连接Creditcoin生态各类服务与用户的门户。”他还说：“随着GRID的加入，我们得以为生态参与者提供运用AI的全新游戏体验。”"
+              },
+              {
+                "t": "p",
+                "x": "他接着表示：“今后也将持续扩大生态内的服务构成，让更多建设者能通过PenguinBase与全球用户相遇。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un memorando del CEO de Xbox\napunta al desarrollo con gen-AI",
-          "body": "Asha Sharma, CEO de Xbox, escribe que un equipo pequeño creará mundos que hoy exigen cientos de desarrolladores.",
-          "mini_headline": "Un memorando del CEO de Xbox apunta a la IA generativa",
+          "headline": "Beta de GRID en Creditcoin:\nduelo estratégico de agentes AI",
+          "body": "PenguinBase abrió la beta global de GRID, un juego de estrategia en el que se enfrentan agentes de AI.",
+          "mini_headline": "Beta de batallas entre agentes de AI",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/asha-sharma-xbox-showcase-2026.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "cap": "Crédito de la imagen: Eurogamer"
+                "src": "https://wimg.dt.co.kr/news/cms/2026/11/13/news-p.v1.20261113.c4840efe42e44c3ea50d296212ae303d_P1.jpg",
+                "cap": "Foto cedida por Creditcoin"
               },
               {
                 "t": "p",
-                "x": "La responsable de Xbox, Asha Sharma, ha insinuado el uso de la IA generativa para crear juegos en un memorando titulado 25 years of Xbox. Sharma lamentó que \"demasiadas ideas nunca se convierten en juegos\" y que \"demasiados juegos se quedan cortos frente a lo que sus creadores imaginaron\". \"Durante décadas, este ha sido el precio inevitable de la ambición\", escribió. \"Debemos cambiar esto\"."
-              },
-              {
-                "t": "video",
-                "yt": "zCY0C8tTddM"
+                "x": "PenguinBase, el portal del ecosistema de Creditcoin, una blockchain multicadena de capa 1, anunció el día 12 el lanzamiento del servicio beta global de ‘GRID’, un juego de simulación estratégica basado en agentes de AI. GRID es un servicio de juego que acaba de incorporarse al ecosistema de Creditcoin."
               },
               {
                 "t": "p",
-                "x": "\"Pronto, una sola persona podrá manejar capacidades que antes requerían naciones enteras. Un equipo pequeño podrá construir mundos que hoy exigen cientos de desarrolladores y cientos de millones de dólares. Y nuestros estudios más grandes podrán perseguir ambiciones tan alejadas de los juegos actuales como lo está Microsoft Flight Simulator 2024 de su primera entrega en 1982\"."
+                "x": "GRID usa las reglas del Texas Hold’em, pero los usuarios no manejan las cartas ni juegan las partidas directamente. En su lugar, actúan como entrenadores que configuran la personalidad y el comportamiento de los agentes de AI y les proponen estrategias. En el juego real compiten hasta 6 agentes de AI en una misma mesa, y cada uno calcula probabilidades a partir de la información limitada sobre sus rivales y decide su siguiente acción de forma independiente."
               },
               {
                 "t": "p",
-                "x": "No hay una mención explícita a la IA generativa, pero el lenguaje es sugerente, y el memorando llega tras el anuncio, el mes pasado, de la iniciativa Xbox Labs. Sharma, cuya trayectoria en Microsoft está ligada a la IA, ya había dicho que tiene \"tolerancia cero con la mala IA\". Eurogamer ha pedido aclaraciones a Microsoft."
+                "x": "En particular, el juego se desarrolla en una situación de información imperfecta (Imperfect Information), en la que no se pueden conocer con exactitud las cartas del rival. El resultado de cada partida depende de cómo la AI interpreta y valora la estrategia que introduce el usuario."
+              },
+              {
+                "t": "p",
+                "x": "La integración con modelos de AI externos es otro componente clave del juego. GRID es compatible con el protocolo de contexto de modelo (MCP•Model Context Protocol), por lo que permite conectar sin programación adicional las AI que ya se usaban, como Claude o Codex. Quienes no tengan una cuenta de AI externa pueden participar con la AI integrada en el juego. La apariencia del agente se puede personalizar eligiendo entre 6 mascotas."
+              },
+              {
+                "t": "p",
+                "x": "Antes de cada partida, el usuario escribe un prompt de hasta 6,000 caracteres para definir la estrategia de su agente. La estrategia puede modificarse en cualquier momento, y tras la partida es posible revisar el historial de manos (registro de decisiones) para analizar el comportamiento del agente y ajustar la estrategia para el siguiente enfrentamiento."
+              },
+              {
+                "t": "p",
+                "x": "Durante la beta se entregan fichas de juego sin coste. Las fichas se otorgan gratis en el primer inicio de sesión y en cada acceso diario, y solo pueden usarse dentro del juego. Los usuarios no pueden comprarlas ni cambiarlas por dinero o criptoactivos. Las fichas entregadas sirven para participar en torneos y competir en las clasificaciones."
+              },
+              {
+                "t": "p",
+                "x": "También se ha preparado un evento comunitario para celebrar el lanzamiento de la beta global. A partir del día 13 se celebrarán actividades de forma sucesiva en la cuenta de X (antes Twitter) de ‘CafeGM’, el centro comunitario oficial de Creditcoin. Puede participar cualquier usuario del juego, y se sortearán recuerdos."
+              },
+              {
+                "t": "p",
+                "x": "Un responsable del ecosistema de Creditcoin dijo: “PenguinBase es un portal que conecta a los usuarios con los diversos servicios del ecosistema de Creditcoin”, y añadió: “Con la llegada de GRID, ahora podemos ofrecer a los participantes del ecosistema una nueva experiencia de juego que aprovecha la AI”."
+              },
+              {
+                "t": "p",
+                "x": "Además, afirmó: “Seguiremos ampliando los servicios del ecosistema para que diversos builders puedan llegar a usuarios de todo el mundo a través de PenguinBase”."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "Xbox CEO 메모,\ngen-AI 제작 시사",
-          "body": "Xbox CEO의 기념 메모는 작은 팀이 수백 명 몫의 세계를 만든다고 했다.",
-          "mini_headline": "Xbox CEO 메모, 생성형 AI 시사",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/asha-sharma-xbox-showcase-2026.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "cap": "이미지 출처: Eurogamer"
-              },
-              {
-                "t": "p",
-                "x": "Xbox를 이끄는 Asha Sharma가 '25 years of Xbox'라는 제목의 메모에서 게임 제작에 생성형 AI의 힘을 활용하겠다는 뜻을 내비쳤다. Sharma는 \"너무 많은 아이디어가 끝내 게임이 되지 못하고\", \"너무 많은 게임이 제작자가 상상한 수준에 미치지 못한다\"고 아쉬워했다. 그는 \"수십 년 동안 이는 야망의 피할 수 없는 대가였다\"며 \"우리는 이것을 바꿔야 한다\"고 썼다."
-              },
-              {
-                "t": "video",
-                "yt": "zCY0C8tTddM"
-              },
-              {
-                "t": "p",
-                "x": "\"머지않아 한 사람이 한때 국가 전체가 필요했던 역량을 다룰 수 있게 된다. 작은 팀이 오늘날 수백 명의 개발자와 수억 달러가 드는 세계를 만들 수 있게 된다. 그리고 우리의 가장 큰 스튜디오들은 Microsoft Flight Simulator 2024가 1982년의 첫 작품에서 멀어진 만큼 오늘의 게임을 훨씬 넘어서는 야망을 추구할 수 있게 된다.\""
-              },
-              {
-                "t": "p",
-                "x": "생성형 AI를 명시적으로 언급하지는 않았지만 표현은 이를 짙게 암시하며, 이 메모는 지난달 Xbox Labs 이니셔티브 발표에 이어 나왔다. Microsoft에서 AI 분야 경력을 쌓은 Sharma는 앞서 \"나쁜 AI는 용납하지 않는다\"고 말한 바 있다. Eurogamer는 Microsoft에 해명을 요청했다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Xbox CEOのメモ\ngen-AIゲーム制作を示唆",
-          "body": "Xbox CEOの記念メモは、今は数百人を要する世界を小さなチームが作れると記した。",
-          "mini_headline": "Xbox CEOのメモ、生成AIを示唆",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/asha-sharma-xbox-showcase-2026.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "cap": "画像提供：Eurogamer"
-              },
-              {
-                "t": "p",
-                "x": "Xboxを率いるAsha Sharmaは、「25 years of Xbox」と題したメモで、ゲーム制作に生成AIの力を活用することをほのめかした。Sharmaは「あまりに多くのアイデアがゲームにならない」こと、「あまりに多くのゲームが作り手の思い描いた姿に届かない」ことを嘆いた。「何十年もの間、これは野心にとって避けられない代償だった」と彼女は書き、「私たちはこれを変えなければならない」と続けた。"
-              },
-              {
-                "t": "video",
-                "yt": "zCY0C8tTddM"
-              },
-              {
-                "t": "p",
-                "x": "「まもなく一人の人間が、かつては国家全体を必要とした能力を扱えるようになる。小さなチームが、今なら数百人の開発者と数億ドルを要する世界を築けるようになる。そして私たちの最大のスタジオは、Microsoft Flight Simulator 2024が1982年の第1作からかけ離れているのと同じくらい、今日のゲームをはるかに超えた野心を追求できるようになる」"
-              },
-              {
-                "t": "p",
-                "x": "生成AIへの明確な言及はないが、言葉選びは示唆的であり、このメモは先月のXbox Labs構想の発表に続くものだ。MicrosoftでAI分野のキャリアを積んだSharmaは、以前「悪いAIは一切容認しない」と語っていた。EurogamerはMicrosoftに説明を求めている。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Xbox CEO备忘录\n暗示gen-AI做游戏",
-          "body": "Xbox CEO Sharma在周年备忘录中称，小团队将能打造如今需数百名开发者的世界。",
-          "mini_headline": "Xbox CEO备忘录暗示生成式AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/asha-sharma-xbox-showcase-2026.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "cap": "图片来源：Eurogamer"
-              },
-              {
-                "t": "p",
-                "x": "Xbox负责人Asha Sharma在一份题为《25 years of Xbox》的备忘录中，暗示将在游戏制作中利用生成式AI的力量。Sharma感叹“太多创意从未成为游戏”，“太多游戏未能达到创作者的设想”。她写道：“几十年来，这一直是雄心无法回避的代价。”“我们必须改变这一点。”"
-              },
-              {
-                "t": "video",
-                "yt": "zCY0C8tTddM"
-              },
-              {
-                "t": "p",
-                "x": "“很快，一个人就能掌握曾经需要举国之力才具备的能力。一支小团队将能打造如今需要数百名开发者和数亿美元才能建成的世界。而我们最大的工作室将能追求远超当今游戏的雄心，其差距就如同Microsoft Flight Simulator 2024与其1982年的初代作品之间的距离。”"
-              },
-              {
-                "t": "p",
-                "x": "备忘录并未明确提及生成式AI，但措辞颇具暗示意味，且它紧随上月Xbox Labs计划的公布。拥有Microsoft AI背景的Sharma此前曾表示，她对“糟糕的AI零容忍”。Eurogamer已请Microsoft作出澄清。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Un memorando del CEO de Xbox\napunta al desarrollo con gen-AI",
-          "body": "Asha Sharma, CEO de Xbox, escribe que un equipo pequeño creará mundos que hoy exigen cientos de desarrolladores.",
-          "mini_headline": "Un memorando del CEO de Xbox apunta a la IA generativa",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/asha-sharma-xbox-showcase-2026.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "cap": "Crédito de la imagen: Eurogamer"
-              },
-              {
-                "t": "p",
-                "x": "La responsable de Xbox, Asha Sharma, ha insinuado el uso de la IA generativa para crear juegos en un memorando titulado 25 years of Xbox. Sharma lamentó que \"demasiadas ideas nunca se convierten en juegos\" y que \"demasiados juegos se quedan cortos frente a lo que sus creadores imaginaron\". \"Durante décadas, este ha sido el precio inevitable de la ambición\", escribió. \"Debemos cambiar esto\"."
-              },
-              {
-                "t": "video",
-                "yt": "zCY0C8tTddM"
-              },
-              {
-                "t": "p",
-                "x": "\"Pronto, una sola persona podrá manejar capacidades que antes requerían naciones enteras. Un equipo pequeño podrá construir mundos que hoy exigen cientos de desarrolladores y cientos de millones de dólares. Y nuestros estudios más grandes podrán perseguir ambiciones tan alejadas de los juegos actuales como lo está Microsoft Flight Simulator 2024 de su primera entrega en 1982\"."
-              },
-              {
-                "t": "p",
-                "x": "No hay una mención explícita a la IA generativa, pero el lenguaje es sugerente, y el memorando llega tras el anuncio, el mes pasado, de la iniciativa Xbox Labs. Sharma, cuya trayectoria en Microsoft está ligada a la IA, ya había dicho que tiene \"tolerancia cero con la mala IA\". Eurogamer ha pedido aclaraciones a Microsoft."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "shadowkey-ngage-ai-revival",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "팬이 AI로 되살린\nN-Gage판 엘더스크롤",
-      "body": "한 팬이 AI 도구로 엘더스크롤 Shadowkey를 복원·개선해 PC로 옮긴다.",
-      "mini_headline": "Shadowkey, AI로 PC판 부활",
-      "tool": "Games",
-      "source": "PC Gamer",
-      "url": "https://www.pcgamer.com/games/the-elder-scrolls/one-elder-scrolls-fan-is-reviving-and-upgrading-a-lost-spin-off-for-the-nokia-n-gage-and-porting-it-to-pc/",
-      "accent": "#f5a623",
-      "motif": "cube",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/nag2arKf76CYq2aNFJVzpd-1920-80.jpg",
-            "cap": "(이미지 출처: Bethesda)"
-          },
-          {
-            "t": "p",
-            "x": "The Elder Scrolls Travels: Shadowkey는 2005년에 단종된 Nokia 휴대용 기기 N-Gage용 게임이다. Dan Whelan의 Shadowkey Reforged 프로젝트로는 와이드스크린과 컨트롤러 지원, 업스케일 그래픽을 갖춘 채 클래식 모드나 모던 모드로 이 게임을 즐긴다. 모던 모드에는 스태미나 기반 달리기, 은신, 래그돌 물리처럼 이후 메인 Elder Scrolls 시리즈에 나온 기능도 들어갔다."
-          },
-          {
-            "t": "video",
-            "yt": "Ax-MqhRaP7w"
-          },
-          {
-            "t": "p",
-            "x": "Whelan은 FAQ에서 이렇게 설명한다. \"코딩과 엔진 구축, 디버깅에 AI의 도움을 받았다. 현대적인 고해상도 아트워크 대부분은 AI 이미지 생성에 Photoshop과 일부 수작업 스프라이트 편집을 결합해 만들었다.\""
-          },
-          {
-            "t": "p",
-            "x": "Whelan은 Shadowkey Reforged를 11월 11일 Windows, Mac, Android용으로 내놓을 계획이다. 단, 플레이하려면 자기 Nokia N-Gage에 든 원작 게임 파일이 있어야 한다. Morrowind의 음악과 효과음도 가져다 쓸 수 있다."
-          }
-        ]
-      },
-      "text": {
         "en": {
-          "headline": "Fan revives lost N-Gage\nElder Scrolls with AI",
-          "body": "A fan is using AI tools to restore and upgrade The Elder Scrolls Travels: Shadowkey and port it to PC.",
-          "mini_headline": "Shadowkey revived for PC with AI",
+          "headline": "Creditcoin GRID beta pits\nAI agents in strategy duels",
+          "body": "PenguinBase has opened the global beta of GRID, a strategy game in which AI agents compete against each other.",
+          "mini_headline": "AI agent battle beta",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/nag2arKf76CYq2aNFJVzpd-1920-80.jpg",
-                "cap": "(Image credit: Bethesda)"
+                "src": "https://wimg.dt.co.kr/news/cms/2026/11/13/news-p.v1.20261113.c4840efe42e44c3ea50d296212ae303d_P1.jpg",
+                "cap": "Photo courtesy of Creditcoin"
               },
               {
                 "t": "p",
-                "x": "The Elder Scrolls Travels: Shadowkey came out on Nokia's N-Gage handheld, discontinued in 2005. Dan Whelan's Shadowkey Reforged project will let us play it in widescreen with controller support and upscaled graphics, in classic or modern mode. Modern mode also adds features from later mainline Elder Scrolls games like stamina-based sprinting, stealth, and ragdoll physics."
-              },
-              {
-                "t": "video",
-                "yt": "Ax-MqhRaP7w"
+                "x": "PenguinBase, the ecosystem portal of multichain layer 1 blockchain Creditcoin, announced on the 12th that it has launched the global beta service of ‘GRID’, an AI agent-based strategy simulation game. GRID is a game service newly added to the Creditcoin ecosystem."
               },
               {
                 "t": "p",
-                "x": "Whelan says in the FAQ: \"I used AI to assist with coding and building the engine, and with debugging. I used AI image generation combined with Photoshop and some manual sprite editing to create most of the modern, higher resolution artwork.\""
+                "x": "GRID uses Texas Hold’em rules, but users do not handle cards or play matches directly. Instead, they act as coaches who set the AI agents’ tendencies and behavior and lay out strategies. In actual games, up to 6 AI agents compete at the same table, each calculating probabilities from limited information about its opponents and independently deciding its next move."
               },
               {
                 "t": "p",
-                "x": "Whelan plans to release Shadowkey Reforged on November 11 for Windows, Mac, and Android, though you'll need the original game's files from your Nokia N-Gage. It can also borrow Morrowind's music and sound effects."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "팬이 AI로 되살린\nN-Gage판 엘더스크롤",
-          "body": "한 팬이 AI 도구로 엘더스크롤 Shadowkey를 복원·개선해 PC로 옮긴다.",
-          "mini_headline": "Shadowkey, AI로 PC판 부활",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/nag2arKf76CYq2aNFJVzpd-1920-80.jpg",
-                "cap": "(이미지 출처: Bethesda)"
+                "x": "Notably, the game is played under Imperfect Information, where players cannot know their opponents’ hands exactly. How the AI interprets and judges the strategy a user enters shapes the outcome of each match."
               },
               {
                 "t": "p",
-                "x": "The Elder Scrolls Travels: Shadowkey는 2005년에 단종된 Nokia 휴대용 기기 N-Gage용 게임이다. Dan Whelan의 Shadowkey Reforged 프로젝트로는 와이드스크린과 컨트롤러 지원, 업스케일 그래픽을 갖춘 채 클래식 모드나 모던 모드로 이 게임을 즐긴다. 모던 모드에는 스태미나 기반 달리기, 은신, 래그돌 물리처럼 이후 메인 Elder Scrolls 시리즈에 나온 기능도 들어갔다."
-              },
-              {
-                "t": "video",
-                "yt": "Ax-MqhRaP7w"
+                "x": "Integration with external AI models is another key component of the game. GRID supports the Model Context Protocol (MCP•Model Context Protocol), letting users connect AI they already use, such as Claude and Codex, without separate coding. Users without an external AI account can join matches using the AI built into the game. Agents’ appearance can be customized by choosing from 6 pets."
               },
               {
                 "t": "p",
-                "x": "Whelan은 FAQ에서 이렇게 설명한다. \"코딩과 엔진 구축, 디버깅에 AI의 도움을 받았다. 현대적인 고해상도 아트워크 대부분은 AI 이미지 생성에 Photoshop과 일부 수작업 스프라이트 편집을 결합해 만들었다.\""
+                "x": "Before each match, users write prompts of up to 6,000 characters to set their agent’s strategy. The strategy can be changed at any time as needed, and after a match users can check the hand history (decision log) to analyze the agent’s behavior and revise their strategy for the next match."
               },
               {
                 "t": "p",
-                "x": "Whelan은 Shadowkey Reforged를 11월 11일 Windows, Mac, Android용으로 내놓을 계획이다. 단, 플레이하려면 자기 Nokia N-Gage에 든 원작 게임 파일이 있어야 한다. Morrowind의 음악과 효과음도 가져다 쓸 수 있다."
+                "x": "In the beta, game chips are provided at no cost. Chips are given free on first login and with each daily visit, and can only be used within the game. Users cannot buy chips, and chips cannot be exchanged for cash or virtual assets. The chips are used to enter tournaments and compete on leaderboards."
+              },
+              {
+                "t": "p",
+                "x": "A community event marking the global beta launch has also been prepared. Starting on the 13th, related events will run in sequence on the X (formerly Twitter) account of ‘CafeGM’, Creditcoin’s official community hub. Any user playing the game can take part, and souvenirs will be awarded by drawing."
+              },
+              {
+                "t": "p",
+                "x": "A Creditcoin ecosystem official said, “PenguinBase is a portal that connects users with the various services of the Creditcoin ecosystem,” adding, “With GRID joining, we can now offer ecosystem participants a new gaming experience that uses AI.”"
+              },
+              {
+                "t": "p",
+                "x": "The official added, “We will continue to expand the services within the ecosystem so that a variety of builders can meet global users through PenguinBase.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "幻のエルダースクロールズ\nN-Gage版をAIで復活",
-          "body": "あるファンがAIツールで『Shadowkey』を復元・強化し、PCへ移植している。",
-          "mini_headline": "Shadowkey、AIでPC版として復活",
+          "headline": "GRIDのベータ開始\nAIエージェントが戦略対決",
+          "body": "PenguinBaseがAIエージェント対戦の戦略ゲームGRIDのベータを世界で開始した。",
+          "mini_headline": "AIエージェント対戦のベータ",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/nag2arKf76CYq2aNFJVzpd-1920-80.jpg",
-                "cap": "（画像提供：Bethesda）"
+                "src": "https://wimg.dt.co.kr/news/cms/2026/11/13/news-p.v1.20261113.c4840efe42e44c3ea50d296212ae303d_P1.jpg",
+                "cap": "写真提供= Creditcoin"
               },
               {
                 "t": "p",
-                "x": "『The Elder Scrolls Travels: Shadowkey』は、2005年に生産終了となったNokiaの携帯ゲーム機N-Gage向けに発売された作品だ。Dan WhelanのプロジェクトShadowkey Reforgedでは、ワイドスクリーン、コントローラー対応、アップスケールされたグラフィックで、クラシックモードかモダンモードを選んで遊べる。モダンモードには、スタミナ制のダッシュ、ステルス、ラグドール物理など、後のメインシリーズElder Scrolls作品の要素も加わる。"
-              },
-              {
-                "t": "video",
-                "yt": "Ax-MqhRaP7w"
+                "x": "マルチチェーンのレイヤー1ブロックチェーンCreditcoinのエコシステムポータルPenguinBaseは12日、AIエージェントを基盤とする戦略シミュレーションゲーム「GRID」のグローバルベータサービスを開始したと発表した。GRIDはCreditcoinエコシステムに新たに加わったゲームサービスだ。"
               },
               {
                 "t": "p",
-                "x": "WhelanはFAQでこう述べている。「コーディングとエンジン構築、デバッグにAIの助けを借りた。現代的な高解像度アートワークの大半は、AI画像生成とPhotoshop、そして一部手作業のスプライト編集を組み合わせて作った」"
+                "x": "GRIDはテキサスホールデムのルールを採用しているが、ユーザーが自らカードを操作したり対戦に参加したりする仕組みではない。ユーザーはAIエージェントの性格や行動方式を設定し、戦略を示すコーチの役割を担う。実際のゲームでは最大6体のAIエージェントが同じテーブルで競い、各エージェントが相手に関する限られた情報をもとに確率を計算し、次の行動を独自に決める。"
               },
               {
                 "t": "p",
-                "x": "WhelanはShadowkey Reforgedを11月11日にWindows、Mac、Android向けに公開する予定だ。ただし、手持ちのNokia N-Gageから取り出した元のゲームファイルが必要になる。Morrowindの音楽や効果音を流用することもできる。"
+                "x": "特に、相手の手札を正確に知ることができない不完全情報(Imperfect Information)の状況でゲームが進む。ユーザーが入力した戦略をAIがどう解釈し判断するかが対戦結果を左右する仕組みだ。"
+              },
+              {
+                "t": "p",
+                "x": "外部AIモデルとの連携機能もゲームの主要な構成要素だ。GRIDはモデルコンテキストプロトコル(MCP•Model Context Protocol)に対応し、Claude、Codexなど普段使っているAIを別途コーディングすることなく接続できる。外部AIのアカウントがない場合は、ゲームに内蔵されたAIで対戦に参加できる。エージェントの外見は6種類のペットから選んで飾ることができる。"
+              },
+              {
+                "t": "p",
+                "x": "ユーザーは試合前に最大6,000字のプロンプトを書き、エージェントの戦略を設定する。戦略は必要に応じていつでも変更でき、試合後にはハンドヒストリー(意思決定の記録)を確認してエージェントの行動を分析し、次の対戦に向けて戦略を修正できる。"
+              },
+              {
+                "t": "p",
+                "x": "ベータサービスではゲーム用チップを無償で配布する。チップは初回ログイン時と毎日のアクセス時に無料で提供され、ゲーム内でのみ使用できる。ユーザーがチップを購入することはできず、現金や暗号資産に交換することもできない。配布されたチップはトーナメント参加とリーダーボードでの競争に使われる。"
+              },
+              {
+                "t": "p",
+                "x": "グローバルベータの開始を記念したコミュニティイベントも用意された。13日からCreditcoinの公式コミュニティハブ「CafeGM」のX(旧Twitter)アカウントで関連イベントが順次行われる。ゲームを利用するユーザーなら誰でも参加でき、抽選で記念品が贈られる。"
+              },
+              {
+                "t": "p",
+                "x": "Creditcoinエコシステムの関係者は「PenguinBaseはCreditcoinエコシステムの多様なサービスと利用者をつなぐポータルだ」とし、「GRIDの参加により、エコシステムの参加者にAIを活用した新しいゲーム体験を提供できるようになった」と述べた。"
+              },
+              {
+                "t": "p",
+                "x": "続けて「今後もさまざまなビルダーがPenguinBaseを通じてグローバルな利用者と出会えるよう、エコシステム内のサービス構成を拡大していく」と明らかにした。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "粉丝用AI复活\n失落的N-Gage上古卷轴",
-          "body": "一名粉丝正用AI工具修复并升级《Shadowkey》，并将其移植到PC。",
-          "mini_headline": "Shadowkey借AI复活登陆PC",
+          "headline": "GRID开启公测\nAI智能体策略对决",
+          "body": "PenguinBase开启AI智能体对战策略游戏GRID的全球公测。",
+          "mini_headline": "AI智能体对战公测",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/nag2arKf76CYq2aNFJVzpd-1920-80.jpg",
-                "cap": "（图片来源：Bethesda）"
+                "src": "https://wimg.dt.co.kr/news/cms/2026/11/13/news-p.v1.20261113.c4840efe42e44c3ea50d296212ae303d_P1.jpg",
+                "cap": "图片提供= Creditcoin"
               },
               {
                 "t": "p",
-                "x": "《The Elder Scrolls Travels: Shadowkey》最初发行于Nokia的N-Gage掌机，该机已于2005年停产。Dan Whelan的Shadowkey Reforged项目将让玩家以宽屏、手柄支持和升频画面来游玩这款游戏，并可选择经典或现代模式。现代模式还加入了后来Elder Scrolls正统作品中的功能，如基于耐力的冲刺、潜行和布娃娃物理。"
-              },
-              {
-                "t": "video",
-                "yt": "Ax-MqhRaP7w"
+                "x": "多链Layer 1 区块链Creditcoin的生态门户PenguinBase于12日宣布，已启动基于AI智能体的策略模拟游戏“GRID”的全球公测服务。GRID是新加入Creditcoin生态的游戏服务。"
               },
               {
                 "t": "p",
-                "x": "Whelan在FAQ中写道：“我用AI辅助编写代码、构建引擎以及调试。大部分现代高分辨率美术资源，是我将AI图像生成与Photoshop及部分手工精灵图编辑结合起来制作的。”"
+                "x": "GRID采用德州扑克规则，但用户并不直接操作卡牌或参与对战，而是扮演教练的角色，设定AI智能体的性格与行为方式并提出策略。实际游戏中，最多6个AI智能体在同一张牌桌上竞争，每个智能体根据对手的有限信息计算概率，并独立决定下一步行动。"
               },
               {
                 "t": "p",
-                "x": "Whelan计划于11月11日在Windows、Mac和Android上发布Shadowkey Reforged，不过你需要从自己的Nokia N-Gage中取得原版游戏文件。它还可以借用Morrowind的音乐和音效。"
+                "x": "尤其是，游戏在无法准确得知对手底牌的不完全信息(Imperfect Information)情境下进行。AI如何解读用户输入的策略并作出判断，将影响对战结果。"
+              },
+              {
+                "t": "p",
+                "x": "与外部AI模型的联动功能也是游戏的主要组成部分。GRID支持模型上下文协议(MCP•Model Context Protocol)，无需额外编写代码即可接入Claude、Codex等用户原本使用的AI。没有外部AI账号的用户，也可以使用游戏内置的AI参与对战。智能体的外观可从6种宠物中选择装扮。"
+              },
+              {
+                "t": "p",
+                "x": "用户在比赛前最多可撰写6,000字的提示词来设定智能体策略。策略内容可根据需要随时修改，赛后还可查看手牌历史(决策记录)，分析智能体的行为，并为下一场对战调整策略。"
+              },
+              {
+                "t": "p",
+                "x": "公测期间将免费发放游戏筹码。筹码在首次登录及每日登录时免费提供，仅限在游戏内使用。用户无法购买筹码，也不能将其兑换为现金或虚拟资产。发放的筹码可用于参加锦标赛和排行榜竞争。"
+              },
+              {
+                "t": "p",
+                "x": "为纪念全球公测上线，还准备了社区活动。自13日起，相关活动将在Creditcoin官方社区中心“CafeGM”的X(原Twitter)账号上陆续开展。凡是使用该游戏的用户均可参与，并可通过抽奖获得纪念品。"
+              },
+              {
+                "t": "p",
+                "x": "Creditcoin生态相关人士表示：“PenguinBase是连接Creditcoin生态各类服务与用户的门户。”他还说：“随着GRID的加入，我们得以为生态参与者提供运用AI的全新游戏体验。”"
+              },
+              {
+                "t": "p",
+                "x": "他接着表示：“今后也将持续扩大生态内的服务构成，让更多建设者能通过PenguinBase与全球用户相遇。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un fan revive un Elder Scrolls\nperdido de N-Gage con IA",
-          "body": "Un fan usa herramientas de IA para restaurar y mejorar The Elder Scrolls Travels: Shadowkey y llevarlo a PC.",
-          "mini_headline": "Shadowkey revive en PC gracias a la IA",
+          "headline": "Beta de GRID en Creditcoin:\nduelo estratégico de agentes AI",
+          "body": "PenguinBase abrió la beta global de GRID, un juego de estrategia en el que se enfrentan agentes de AI.",
+          "mini_headline": "Beta de batallas entre agentes de AI",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/nag2arKf76CYq2aNFJVzpd-1920-80.jpg",
-                "cap": "(Crédito de la imagen: Bethesda)"
+                "src": "https://wimg.dt.co.kr/news/cms/2026/11/13/news-p.v1.20261113.c4840efe42e44c3ea50d296212ae303d_P1.jpg",
+                "cap": "Foto cedida por Creditcoin"
               },
               {
                 "t": "p",
-                "x": "The Elder Scrolls Travels: Shadowkey salió en la consola portátil N-Gage de Nokia, descatalogada en 2005. El proyecto Shadowkey Reforged de Dan Whelan permitirá jugarlo en pantalla panorámica, con compatibilidad con mando y gráficos reescalados, en modo clásico o moderno. El modo moderno añade además funciones de entregas principales posteriores de Elder Scrolls, como el sprint basado en resistencia, el sigilo y la física ragdoll."
-              },
-              {
-                "t": "video",
-                "yt": "Ax-MqhRaP7w"
+                "x": "PenguinBase, el portal del ecosistema de Creditcoin, una blockchain multicadena de capa 1, anunció el día 12 el lanzamiento del servicio beta global de ‘GRID’, un juego de simulación estratégica basado en agentes de AI. GRID es un servicio de juego que acaba de incorporarse al ecosistema de Creditcoin."
               },
               {
                 "t": "p",
-                "x": "Whelan explica en las FAQ: \"Usé IA para ayudarme a programar, construir el motor y depurar. Usé generación de imágenes con IA combinada con Photoshop y algo de edición manual de sprites para crear la mayor parte del arte moderno de mayor resolución\"."
+                "x": "GRID usa las reglas del Texas Hold’em, pero los usuarios no manejan las cartas ni juegan las partidas directamente. En su lugar, actúan como entrenadores que configuran la personalidad y el comportamiento de los agentes de AI y les proponen estrategias. En el juego real compiten hasta 6 agentes de AI en una misma mesa, y cada uno calcula probabilidades a partir de la información limitada sobre sus rivales y decide su siguiente acción de forma independiente."
               },
               {
                 "t": "p",
-                "x": "Whelan planea lanzar Shadowkey Reforged el 11 de noviembre para Windows, Mac y Android, aunque se necesitarán los archivos del juego original de tu Nokia N-Gage. También puede tomar prestados la música y los efectos de sonido de Morrowind."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "팬이 AI로 되살린\nN-Gage판 엘더스크롤",
-          "body": "한 팬이 AI 도구로 엘더스크롤 Shadowkey를 복원·개선해 PC로 옮긴다.",
-          "mini_headline": "Shadowkey, AI로 PC판 부활",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/nag2arKf76CYq2aNFJVzpd-1920-80.jpg",
-                "cap": "(이미지 출처: Bethesda)"
+                "x": "En particular, el juego se desarrolla en una situación de información imperfecta (Imperfect Information), en la que no se pueden conocer con exactitud las cartas del rival. El resultado de cada partida depende de cómo la AI interpreta y valora la estrategia que introduce el usuario."
               },
               {
                 "t": "p",
-                "x": "The Elder Scrolls Travels: Shadowkey는 2005년에 단종된 Nokia의 휴대용 기기 N-Gage로 나온 게임이다. Dan Whelan의 Shadowkey Reforged 프로젝트를 이용하면 와이드스크린, 컨트롤러 지원, 업스케일된 그래픽으로 클래식 모드나 모던 모드에서 이 게임을 즐길 수 있다. 모던 모드는 스태미나 기반 달리기, 은신, 래그돌 물리 등 이후 메인 Elder Scrolls 시리즈의 기능도 더한다."
-              },
-              {
-                "t": "video",
-                "yt": "Ax-MqhRaP7w"
+                "x": "La integración con modelos de AI externos es otro componente clave del juego. GRID es compatible con el protocolo de contexto de modelo (MCP•Model Context Protocol), por lo que permite conectar sin programación adicional las AI que ya se usaban, como Claude o Codex. Quienes no tengan una cuenta de AI externa pueden participar con la AI integrada en el juego. La apariencia del agente se puede personalizar eligiendo entre 6 mascotas."
               },
               {
                 "t": "p",
-                "x": "Whelan은 FAQ에서 이렇게 말한다. \"코딩과 엔진 구축, 디버깅에 AI의 도움을 받았다. 현대적인 고해상도 아트워크 대부분은 AI 이미지 생성에 Photoshop과 일부 수작업 스프라이트 편집을 결합해 만들었다.\""
+                "x": "Antes de cada partida, el usuario escribe un prompt de hasta 6,000 caracteres para definir la estrategia de su agente. La estrategia puede modificarse en cualquier momento, y tras la partida es posible revisar el historial de manos (registro de decisiones) para analizar el comportamiento del agente y ajustar la estrategia para el siguiente enfrentamiento."
               },
               {
                 "t": "p",
-                "x": "Whelan은 Shadowkey Reforged를 11월 11일 Windows, Mac, Android용으로 출시할 계획이다. 다만 본인의 Nokia N-Gage에 있는 원작 게임 파일이 필요하다. Morrowind의 음악과 효과음을 가져다 쓸 수도 있다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "幻のエルダースクロールズ\nN-Gage版をAIで復活",
-          "body": "あるファンがAIツールで『Shadowkey』を復元・強化し、PCへ移植している。",
-          "mini_headline": "Shadowkey、AIでPC版として復活",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/nag2arKf76CYq2aNFJVzpd-1920-80.jpg",
-                "cap": "（画像提供：Bethesda）"
+                "x": "Durante la beta se entregan fichas de juego sin coste. Las fichas se otorgan gratis en el primer inicio de sesión y en cada acceso diario, y solo pueden usarse dentro del juego. Los usuarios no pueden comprarlas ni cambiarlas por dinero o criptoactivos. Las fichas entregadas sirven para participar en torneos y competir en las clasificaciones."
               },
               {
                 "t": "p",
-                "x": "『The Elder Scrolls Travels: Shadowkey』は、2005年に生産終了となったNokiaの携帯ゲーム機N-Gage向けに発売された作品だ。Dan WhelanのプロジェクトShadowkey Reforgedでは、ワイドスクリーン、コントローラー対応、アップスケールされたグラフィックで、クラシックモードかモダンモードを選んで遊べる。モダンモードには、スタミナ制のダッシュ、ステルス、ラグドール物理など、後のメインシリーズElder Scrolls作品の要素も加わる。"
-              },
-              {
-                "t": "video",
-                "yt": "Ax-MqhRaP7w"
+                "x": "También se ha preparado un evento comunitario para celebrar el lanzamiento de la beta global. A partir del día 13 se celebrarán actividades de forma sucesiva en la cuenta de X (antes Twitter) de ‘CafeGM’, el centro comunitario oficial de Creditcoin. Puede participar cualquier usuario del juego, y se sortearán recuerdos."
               },
               {
                 "t": "p",
-                "x": "WhelanはFAQでこう述べている。「コーディングとエンジン構築、デバッグにAIの助けを借りた。現代的な高解像度アートワークの大半は、AI画像生成とPhotoshop、そして一部手作業のスプライト編集を組み合わせて作った」"
+                "x": "Un responsable del ecosistema de Creditcoin dijo: “PenguinBase es un portal que conecta a los usuarios con los diversos servicios del ecosistema de Creditcoin”, y añadió: “Con la llegada de GRID, ahora podemos ofrecer a los participantes del ecosistema una nueva experiencia de juego que aprovecha la AI”."
               },
               {
                 "t": "p",
-                "x": "WhelanはShadowkey Reforgedを11月11日にWindows、Mac、Android向けに公開する予定だ。ただし、手持ちのNokia N-Gageから取り出した元のゲームファイルが必要になる。Morrowindの音楽や効果音を流用することもできる。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "粉丝用AI复活\n失落的N-Gage上古卷轴",
-          "body": "一名粉丝正用AI工具修复并升级《Shadowkey》，并将其移植到PC。",
-          "mini_headline": "Shadowkey借AI复活登陆PC",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/nag2arKf76CYq2aNFJVzpd-1920-80.jpg",
-                "cap": "（图片来源：Bethesda）"
-              },
-              {
-                "t": "p",
-                "x": "《The Elder Scrolls Travels: Shadowkey》最初发行于Nokia的N-Gage掌机，该机已于2005年停产。Dan Whelan的Shadowkey Reforged项目将让玩家以宽屏、手柄支持和升频画面来游玩这款游戏，并可选择经典或现代模式。现代模式还加入了后来Elder Scrolls正统作品中的功能，如基于耐力的冲刺、潜行和布娃娃物理。"
-              },
-              {
-                "t": "video",
-                "yt": "Ax-MqhRaP7w"
-              },
-              {
-                "t": "p",
-                "x": "Whelan在FAQ中写道：“我用AI辅助编写代码、构建引擎以及调试。大部分现代高分辨率美术资源，是我将AI图像生成与Photoshop及部分手工精灵图编辑结合起来制作的。”"
-              },
-              {
-                "t": "p",
-                "x": "Whelan计划于11月11日在Windows、Mac和Android上发布Shadowkey Reforged，不过你需要从自己的Nokia N-Gage中取得原版游戏文件。它还可以借用Morrowind的音乐和音效。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Un fan revive un Elder Scrolls\nperdido de N-Gage con IA",
-          "body": "Un fan usa herramientas de IA para restaurar y mejorar The Elder Scrolls Travels: Shadowkey y llevarlo a PC.",
-          "mini_headline": "Shadowkey revive en PC gracias a la IA",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/nag2arKf76CYq2aNFJVzpd-1920-80.jpg",
-                "cap": "(Crédito de la imagen: Bethesda)"
-              },
-              {
-                "t": "p",
-                "x": "The Elder Scrolls Travels: Shadowkey salió en la consola portátil N-Gage de Nokia, descatalogada en 2005. El proyecto Shadowkey Reforged de Dan Whelan permitirá jugarlo en pantalla panorámica, con compatibilidad con mando y gráficos reescalados, en modo clásico o moderno. El modo moderno añade además funciones de entregas principales posteriores de Elder Scrolls, como el sprint basado en resistencia, el sigilo y la física ragdoll."
-              },
-              {
-                "t": "video",
-                "yt": "Ax-MqhRaP7w"
-              },
-              {
-                "t": "p",
-                "x": "Whelan explica en las FAQ: \"Usé IA para ayudarme a programar, construir el motor y depurar. Usé generación de imágenes con IA combinada con Photoshop y algo de edición manual de sprites para crear la mayor parte del arte moderno de mayor resolución\"."
-              },
-              {
-                "t": "p",
-                "x": "Whelan planea lanzar Shadowkey Reforged el 11 de noviembre para Windows, Mac y Android, aunque se necesitarán los archivos del juego original de tu Nokia N-Gage. También puede tomar prestados la música y los efectos de sonido de Morrowind."
+                "x": "Además, afirmó: “Seguiremos ampliando los servicios del ecosistema para que diversos builders puedan llegar a usuarios de todo el mundo a través de PenguinBase”."
               }
             ]
           }

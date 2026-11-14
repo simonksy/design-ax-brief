@@ -1,17 +1,8 @@
 {
   "section": "marketing",
-  "now_iso": "2026-11-13T22:03:00Z",
+  "now_iso": "2026-11-14T22:00:43Z",
   "window_hours": 72,
   "items": [
-    {
-      "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
-      "source": "The Verge",
-      "category": "marketing",
-      "published_iso": "2026-11-13T20:45:10+00:00",
-      "excerpt": "OpenAI launched ChatGPT Wallet, letting its Dots agents complete purchases on a user's behalf with a check-in before every buy; rollout starts with US Pro subscribers. Agentic checkout moves inside ChatGPT ahead of Black Friday.",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-    },
     {
       "title": "Google AI Mode gains local retailer ads after Search growth slows to 12%",
       "url": "https://ppc.land/google-ai-mode-gains-local-retailer-ads-after-search-growth-slows-to-12/",
@@ -21,7 +12,7 @@
       "excerpt": "Four sponsored placements appeared in one AI Mode answer for retail shoppers, two weeks after Google said AI Mode earns less. Can more ads lift Q4 Search sales?",
       "og_image": "https://ppc.land/content/images/2026/11/mp-og-256b1390-5336-4f90-a2e0-83ad1cf372ce.png",
       "history_match": {
-        "score": 0.235,
+        "score": 0.232,
         "date": "2026-11-05",
         "url": "https://www.seroundtable.com/google-ai-mode-four-ads-42443.html",
         "title": "Google AI Mode Now With Up To Four Ads",
@@ -29,45 +20,54 @@
       }
     },
     {
-      "title": "AI agent traffic is now a two-company town: Meta and OpenAI",
-      "url": "https://ppc.land/ai-agent-traffic-is-now-a-two-company-town-meta-and-openai/",
+      "title": "Amazon caps its automated DVA+ campaigns at 20 products",
+      "url": "https://ppc.land/amazon-caps-its-automated-dva-campaigns-at-20-products/",
       "source": "PPC Land",
       "category": "marketing",
-      "published_iso": "2026-11-13T14:33:41.000Z",
-      "excerpt": "Muse sent 59% of October's agent requests and Comet just 3.6%, with 85% landing on product and search pages. Will Black Friday turn these agents into shoppers?",
-      "og_image": "https://ppc.land/content/images/2026/11/human-security-agentic-traffic-october-2026-meta-openai-89-percent-muse-59-percent-two-storefronts-stream.jpg",
+      "published_iso": "2026-11-14T09:18:05.000Z",
+      "excerpt": "Seven objectives, three build modes and a learning reset on KPI changes await DVA+ buyers. What does the November 13 guide leave out on audio and on launching?",
+      "og_image": "https://ppc.land/content/images/2026/11/amazon-dva-plus-campaign-guide-20-product-cap-automated-steering-wheel-dashboard.jpg",
       "history_match": {
-        "score": 0.212,
-        "date": "2026-10-16",
-        "url": "https://ppc.land/meta-will-turn-on-product-browsing-in-existing-ads-on-october-28/",
-        "title": "Meta will turn on product browsing in existing ads on October 28",
+        "score": 0.155,
+        "date": "2026-10-19",
+        "url": "https://ppc.land/amazons-100-a-day-full-funnel-campaigns-hand-targeting-to-ai-adotat-says/",
+        "title": "Amazon's $100-a-day Full-Funnel campaigns hand targeting to AI, ADOTAT says",
         "band": "related"
       }
     },
     {
-      "title": "74% of marketers can't track if AI agent leads become sales, Invoca finds",
-      "url": "https://ppc.land/74-of-marketers-cant-track-if-ai-agent-leads-become-sales-invoca-finds/",
+      "title": "Lunio cuts Google brand bids when no rival is in the auction",
+      "url": "https://ppc.land/lunio-cuts-google-brand-bids-when-no-rival-is-in-the-auction/",
       "source": "PPC Land",
       "category": "marketing",
-      "published_iso": "2026-11-11T07:36:17.000Z",
-      "excerpt": "Just 19% of US B2C marketers running AI agents send outcomes back to ad platforms, a survey of 451 shows. What are bidding systems learning from those chats?",
-      "og_image": "https://ppc.land/content/images/2026/11/mp-og-ca14f005-1b1b-4a00-8b13-01b50deef59a.png",
+      "published_iso": "2026-11-14T19:55:09.000Z",
+      "excerpt": "Revvim-powered tool moves uncontested Google Search and Shopping brand clicks to a low-bid campaign within the hour. What share of the savings does Lunio keep?",
+      "og_image": "https://ppc.land/content/images/2026/11/lunio-revvim-agentic-bid-optimization-google-brand-search-uncontested-auctions-toll-plaza-empty-lane.jpg"
+    },
+    {
+      "title": "OpenAI ChatGPT Ads Updates With Intelligent Bidding, New Cost Targets, Geo-Flexibility & Product Set Filters",
+      "url": "https://www.seroundtable.com/openai-chatgpt-ads-updates-42524.html",
+      "source": "Search Engine Roundtable",
+      "category": "marketing",
+      "published_iso": "2026-11-12T11:38:00-05:00",
+      "excerpt": "OpenAI just sent out its weekly ChatGPT Ads update email announcing a number of updates including intelligent bidding, new cost targets in Ads Manager, more geographic flexibility for product feed campaigns and more flexible product set filters.",
+      "og_image": "https://images.seroundtable.com/openai-chatgpt-ads-email-2M3xNDto.png",
       "history_match": {
-        "score": 0.185,
-        "date": "2026-10-20",
-        "url": "https://ppc.land/chatgpt-drops-to-74-5-of-marketers-as-claude-climbs-to-72-3-basis-finds/",
-        "title": "ChatGPT drops to 74.5% of marketers as Claude climbs to 72.3%, Basis finds",
+        "score": 0.303,
+        "date": "2026-11-07",
+        "url": "https://www.seroundtable.com/openai-updates-chatgpt-ads-bidding-options-42470.html",
+        "title": "OpenAI Updates ChatGPT Ads Bidding Options",
         "band": "related"
       }
     },
     {
-      "title": "IAB Releases AI-Era Attribution Blueprint, Giving the Industry a Shared Way to Account for AI’s Role in Purchases",
-      "url": "https://www.iab.com/news/iab-releases-ai-era-attribution-blueprint/",
-      "source": "IAB",
+      "title": "AI-derived audience insights hurt results: What the numbers say",
+      "url": "https://www.marketingdive.com/news/ai-derived-audience-insights-hurt-results-what-the-numbers-say/874565/",
+      "source": "Marketing Dive",
       "category": "marketing",
-      "published_iso": "2026-11-12T13:30:00+00:00",
-      "excerpt": "IAB released an AI-Era Attribution Blueprint defining how advertisers and platforms should measure AI's role when an assistant influences or completes a purchase, and how to evaluate attribution claims. Data it cites shows only 8.8% of visits after an AI brand mention come from the AI itself.",
-      "og_image": "https://www.iab.com/wp-content/uploads/2026/11/the-ai-era-attribution-blueprint-2-1024x312.png"
+      "published_iso": "2026-11-13T09:21:00-05:00",
+      "excerpt": "Over 80% of industry leaders have experienced at least one negative business outcome due to inaccurate AI outputs, per a recent report.",
+      "og_image": "https://imgproxy.divecdn.com/88M0Z0BL8lZs5zbowDrB4lQ1lTMA60L-DHTKGPw-tOA/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTkzNzY0OTQzLmpwZw==.webp"
     },
     {
       "title": "AI Creative In The Programmatic Loop",
@@ -78,7 +78,7 @@
       "excerpt": "The latest bolt-on to a DSP isn’t solving for media or measurement – it’s AI-generated creative. Inside the Viant-Waymark acquisition. Plus: CEO Jeff Green said The Trade Desk is open to M&A. So what kind of company could The Trade Desk buy?",
       "og_image": "https://www.adexchanger.com/wp-content/uploads/2023/10/Big-Story-podcast-square.jpg",
       "history_match": {
-        "score": 0.233,
+        "score": 0.237,
         "date": "2026-11-05",
         "url": "https://www.adweek.com/programmatic/the-trade-desk-and-dstillery-link-ai-agents-to-reshape-audiences-mid-campaign/",
         "title": "The Trade Desk and Dstillery Link AI Agents to Reshape Audiences Mid-Campaign",
@@ -86,13 +86,20 @@
       }
     },
     {
-      "title": "Custom Ad Algorithms Are Helping Schibsted Win Budgets Back From Meta",
-      "url": "https://www.adexchanger.com/publishers/custom-ad-algorithms-are-helping-schibsted-media-win-budgets-back-from-meta/",
+      "title": "Viant’s Vanderhook Brothers Want To Make Your Next CTV Ad",
+      "url": "https://www.adexchanger.com/tv/viants-vanderhook-brothers-want-to-make-your-next-ctv-ad/",
       "source": "AdExchanger",
       "category": "marketing",
-      "published_iso": "2026-11-12T08:30:16+00:00",
-      "excerpt": "Schibsted is working with Nodals AI to create custom ad optimization algorithms and court brands who’ve been wooed by Meta’s own optimization tools.",
-      "og_image": "https://www.adexchanger.com/wp-content/uploads/2024/10/revenue-sharing-publishers-sundar-pichai-mark-zuckerberg-comic-feature.png"
+      "published_iso": "2026-11-12T11:00:14+00:00",
+      "excerpt": "Tim and Chris Vanderhook explain why Viant bought Waymark and how it fits into their ambitious plans for CTV.",
+      "og_image": "https://www.adexchanger.com/wp-content/uploads/2025/06/Tim-Vanderhook-Viant.jpg",
+      "history_match": {
+        "score": 0.154,
+        "date": "2026-11-08",
+        "url": "https://www.adexchanger.com/ctv-roundup/swivel-wants-to-create-agentic-infrastructure-for-ctv/",
+        "title": "Swivel Wants To Create Agentic Infrastructure For CTV",
+        "band": "related"
+      }
     },
     {
       "title": "AI is turning ad tech into a fight for the brain behind the buy",
@@ -104,24 +111,6 @@
       "og_image": "https://digiday.com/wp-content/uploads/sites/3/2025/10/ai-workflows-digiday.jpg"
     },
     {
-      "title": "Mars wants to future proof impulse buys as AI is poised to take over more grocery runs",
-      "url": "https://digiday.com/marketing/mars-wants-to-future-proof-impulse-buys-as-ai-poised-to-take-over-more-grocery-runs/",
-      "source": "Digiday",
-      "category": "marketing",
-      "published_iso": "2026-11-11T05:01:00+00:00",
-      "excerpt": "Mars is preparing for AI-powered grocery shopping, from LLM visibility and retail partnerships to the future of impulse buys.",
-      "og_image": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Daily-headshot.jpg"
-    },
-    {
-      "title": "AI-derived audience insights hurt results: What the numbers say",
-      "url": "https://www.marketingdive.com/news/ai-derived-audience-insights-hurt-results-what-the-numbers-say/874565/",
-      "source": "Marketing Dive",
-      "category": "marketing",
-      "published_iso": "2026-11-13T14:21:00Z",
-      "excerpt": "Over 80% of industry leaders have experienced at least one negative business outcome due to inaccurate AI outputs, per a recent report.",
-      "og_image": "https://imgproxy.divecdn.com/88M0Z0BL8lZs5zbowDrB4lQ1lTMA60L-DHTKGPw-tOA/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTkzNzY0OTQzLmpwZw==.webp"
-    },
-    {
       "title": "New Data: Holiday Shoppers Will Rely on Agents. Retailers Must Be Ready.",
       "url": "https://www.salesforce.com/news/stories/ai-first-holiday/",
       "source": "Salesforce",
@@ -130,7 +119,7 @@
       "excerpt": "A Salesforce survey shows that holiday shoppers are using AI agents for research and advice — almost 20% of shoppers now say that AI is their first stop on the way to the store — but most aren’t ready to let AI click Buy Now.",
       "og_image": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/824_1126_T08_The-AI-First-Holiday-Shoppers-Let-Agents-Do-the-Legwork-Not-the-Paying_a_v1_110926.jpg",
       "history_match": {
-        "score": 0.195,
+        "score": 0.21,
         "date": "2026-10-23",
         "url": "https://www.modernretail.co/ai-strategies/ai-boosts-discovery-but-reviews-still-seal-the-deal-new-research-shows/",
         "title": "AI boosts discovery but reviews still seal the deal, new research shows",
@@ -138,111 +127,106 @@
       }
     },
     {
-      "title": "OpenAI ChatGPT Ads Updates With Intelligent Bidding, New Cost Targets, Geo-Flexibility & Product Set Filters",
-      "url": "https://www.seroundtable.com/openai-chatgpt-ads-updates-42524.html",
-      "source": "Search Engine Roundtable",
+      "title": "Amazon has a plan to index the world’s online shopping data",
+      "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+      "source": "The Verge",
       "category": "marketing",
-      "published_iso": "2026-11-12T11:38:00-05:00",
-      "excerpt": "OpenAI just sent out its weekly ChatGPT Ads update email announcing a number of updates including intelligent bidding, new cost targets in Ads Manager, more geographic flexibility for product feed campaigns and more flexible product set filters.",
-      "og_image": "https://images.seroundtable.com/openai-chatgpt-ads-email-2M3xNDto.png",
-      "history_match": {
-        "score": 0.3,
-        "date": "2026-11-07",
-        "url": "https://www.seroundtable.com/openai-updates-chatgpt-ads-bidding-options-42470.html",
-        "title": "OpenAI Updates ChatGPT Ads Bidding Options",
-        "band": "related"
-      }
+      "published_iso": "2026-11-13T23:49:11+00:00",
+      "excerpt": "A vault of data on every product on the internet.",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/acastro_STK103__03.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
     },
     {
-      "title": "[컨콜] 네이버 \"AI 광고, 클릭률 11%·전환수 9% 개선\"",
-      "url": "https://www.ddaily.co.kr/page/view/2026111209312231001",
-      "source": "디지털데일리",
+      "title": "Pinterest adds holiday shopping tools",
+      "url": "https://www.socialmediatoday.com/news/pinterest-adds-holiday-shopping-tools/874575/",
+      "source": "Social Media Today",
       "category": "marketing",
-      "published_iso": "2026-11-12T09:55:00+09:00",
-      "excerpt": "네이버가 AI 예측 모델을 광고 상품에 적용한 결과 파워링크 클릭률이 11%, 전환수가 9% 개선됐다고 3분기 컨퍼런스콜에서 밝혔다. 연내 구매·예약을 돕는 개인형 AI 에이전트 앱을 내놓고 광고 과금 방식도 바꾼다고 예고했다.",
-      "og_image": "/photos/2026/08/07/2026080709291107942_l.jpg",
+      "published_iso": "2026-11-12T14:19:33-05:00",
+      "excerpt": "The platform updated its chatbot with trending gift guides and introduced product comparison tools and wish lists.",
+      "og_image": "https://imgproxy.divecdn.com/tJcL71XaBA2PggejroaGPSZ3IRECyOPVRZgTdIXAoQQ/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waW50ZXJlc3RfaG9saWRheV9zZWFzb24ucG5n.webp",
       "history_match": {
-        "score": 0.157,
+        "score": 0.181,
         "date": "2026-11-08",
-        "url": "https://www.hankyung.com/article/202611057601i",
-        "title": "카카오 \"내달 광고 AI 에이전트 'AI 크루' 베타 시작\"",
+        "url": "https://business.google.com/us/accelerate/announcements/optimize-holiday-ads-with-google-ai-creative-drop-2/",
+        "title": "Bring Your Holiday Campaigns to Life with Google AI | Creative Drop #2",
         "band": "related"
       }
     },
     {
-      "title": "버즈빌, 이용자별 광고 소재 자동 제작하는 초개인화 AI 엔진 ‘프리즘’ 출시",
-      "url": "https://byline.network/2026/11/13_buzzvil/",
+      "title": "AI가 라이브 만들고, 크리에이터가 판로 넓힌다…모비두의 ‘올웨이즈 온’ 전략",
+      "url": "https://byline.network/2026/11/13_291283845/",
       "source": "바이라인네트워크",
       "category": "marketing",
-      "published_iso": "2026-11-13T14:36:47+09:00",
-      "excerpt": "버즈빌이 이용자의 관심사와 구매 단계에 따라 서로 다른 광고를 보여주는 인공지능(AI) 광고 엔진을 선보였다. 같은 브랜드의 동일한 광고 캠페인에서도 이용자별로 상품 추천과 광고 메시지, 참여 방식을 다르게 구성하는 것이 특징이다.",
-      "og_image": "https://cdn.byline.network/wp-content/uploads/2026/11/buzzvil_20261113.jpg"
+      "published_iso": "2026-11-13T16:27:58+09:00",
+      "excerpt": "라이브커머스 솔루션 기업 모비두가 실험에 나섭니다. AI와 크리에이터를 통해 정해진 시간에만 상품을 판매하던 라이브커머스를 언제든 구매할 수 있는 ‘올웨이즈 온(Always On)’ 커머스로 바꾸겠다는 구상입니다.",
+      "og_image": "https://cdn.byline.network/wp-content/uploads/2026/11/20261113_mobidoo.jpeg"
     },
     {
-      "title": "\"AI가 멋대로 결제·예약 못하게\"…KISDI, 이용자 보호 안내서 추진",
-      "url": "https://www.fnnews.com/news/202611121640350432",
-      "source": "파이낸셜뉴스",
+      "title": "플래티어, 롯데 손잡고 AI쇼핑 플랫폼 시장 공략",
+      "url": "https://m.mk.co.kr/amp/12206407",
+      "source": "매일경제",
       "category": "marketing",
-      "published_iso": "2026-11-12T16:40:13+09:00",
-      "excerpt": "(서울=뉴스1) 신민경 기자 = 인공지능(AI) 에이전트에 맡긴 업무를 이용자가 중단하거나 부여한 권한을 철회할 수 있도록 하는 이용자 보호 안내서 마련이 추진된다.",
-      "og_image": "https://image.fnnews.com/resource/media/image/2026/11/12/202611121640089892_e.jpg"
+      "published_iso": "2026-11-12T15:07:31+09:00",
+      "excerpt": "롯데 ‘New LECS’에 엑스투비 적용 상품 등록·고객 문의 등 자동화",
+      "og_image": "https://static.mk.co.kr/facebook_mknews.jpg"
     },
     {
-      "title": "CJ올리브영, 모바일 앱에 AI 쇼핑 어시스턴트 '올영 티키' 도입",
-      "url": "https://www.news1.kr/industry/distribution/6349931",
-      "source": "뉴스1",
+      "title": "Does The Affiliate Model Survive Checkout Inside AI Mode And Gemini? – Ask An SEO",
+      "url": "https://www.searchenginejournal.com/does-the-affiliate-model-survive-checkout-inside-ai-mode-and-gemini-ask-an-seo/",
+      "source": "Search Engine Journal",
       "category": "marketing",
-      "published_iso": "2026-11-11T08:45:13+09:00",
-      "excerpt": "대화형 검색·추천 서비스…내달 정식 출시 예정 CJ올리브영(340460)은 모바일 앱에 생성형 인공지능(AI) 쇼핑 어시스턴트 '올영 티키'를 시범 운영한다고 11일 밝혔다.올영 티키는 AI가 고객의 질문 의 …",
-      "og_image": "https://i3n.news1.kr/system/photos/2026/11/11/8207836/high.jpg"
+      "published_iso": "2026-11-12T20:00:07+00:00",
+      "excerpt": "Affiliate links still help protect your commissions as AI checkout grows, while stronger tracking and better program choices help preserve referral credit.",
+      "og_image": "https://cdn.searchenginejournal.com/wp-content/uploads/2024/06/ask-an-seo-adam-riemer-376.jpg",
+      "history_match": {
+        "score": 0.167,
+        "date": "2026-11-07",
+        "url": "https://www.searchenginejournal.com/google-brings-ucp-direct-checkout-to-ai-mode-in-canada/595882/",
+        "title": "Google Brings UCP Direct Checkout To AI Mode In Canada",
+        "band": "related"
+      }
     },
     {
-      "title": "\"AI가 고르는 쇼핑 시대\"…카페24, 내년 자사몰 성장 전략 제시",
-      "url": "https://www.news1.kr/industry/sb-founded/6352988",
-      "source": "뉴스1",
+      "title": "Japan Flags AI Privacy Risks At Google, Meta, TikTok, LINE Yahoo",
+      "url": "https://www.medianama.com/2026/11/223-japan-flags-ai-privacy-risks-google-meta-tiktok-line-yahoo/",
+      "source": "MediaNama",
       "category": "marketing",
-      "published_iso": "2026-11-13T10:37:43+09:00",
-      "excerpt": "12월 10일 코엑스서 '익스팬드 2027'…내년 커머스 전망 공유 운영·마케팅·물류 등 9개 상담 부스…사업 단계별 실행 방안 안내 인공지능(AI)이 상품을 찾고 비교하는 방식을 바꾸면서 온라인 사업자의 성장 전략도 재설계되고 있다. 고객을 쇼핑몰로 유입시키는 데 그치지 않고 브랜드",
-      "og_image": "https://i3n.news1.kr/system/photos/2026/11/13/8212353/high.jpg"
+      "published_iso": "2026-11-12T10:02:46+00:00",
+      "excerpt": "apan has called for closer scrutiny of how Google, Meta, LINE Yahoo and TikTok collect personal information and use it for AI and advertising.",
+      "og_image": "https://www.medianama.com/wp-content/uploads/2025/06/GDPR-Data-Protection.jpg",
+      "off_list": true
+    },
+    {
+      "title": "Fashion brand's AI ad puts Frida Kahlo behind the wheel a century after near-fatal bus crash",
+      "url": "https://www.thecooldown.com/green-tech/frida-kahlo-ai-ad-backlash-fashion/",
+      "source": "The Cool Down",
+      "category": "marketing",
+      "published_iso": "2026-11-14T15:07:00+00:00",
+      "excerpt": "A fashion brand views its AI-generated advertisement depicting Frida Kahlo behind the wheel of a bus as a \"tribute\" to the Mexican artist, but the viral ad has sparked significant backlash.",
+      "og_image": "https://www.thecooldown.com/wp-content/uploads/2026/11/ai-frida-recQwI6ZRd1BsODqS.jpg",
+      "off_list": true
+    },
+    {
+      "title": "네이버, 연내 '실행형 AI 에이전트' 출격…쇼핑·예약·결제까지 연결",
+      "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=714863",
+      "source": "디지털투데이",
+      "category": "marketing",
+      "published_iso": "2026-11-12T10:46:22+09:00",
+      "excerpt": "[디지털투데이 이호정 기자] 네이버가 연내 이용자를 대신해 쇼핑과 예약, 결제 등 다양한 작업을 수행하는 개인형 AI 에이전트를 출시한다. 검색에서 얻은 정보를 실제 구매와 거래로 연결하고, 물류와 오프라인 결제 사업도 확대해 AI 기반 플랫폼으로의 전환을 추진한다는 구상이다.네이버는 12일 올해 3분기 실적 발표 컨퍼런스콜에서 개인형 AI 에이전트 출시와 광고 수익화 전략, 물류 인프라 확대 및 AI 팩토리 사업 계획을 공개했다.네이버는 3분기 연결 기준 매출은 3조4724억원으로 전년 동기 대비 10.7% 증가했지만, 영업이익은 (컨콜: 파워링크 AI 예측모델 적용 후 CTR 12%·전환 9% 개선, 거래 성과 기반 광고 과금 확대 계획)",
+      "og_image": "https://cdn.digitaltoday.co.kr/news/photo/202611/714863_662196_3132.png"
     }
   ],
   "dedup": {
-    "dropped": 0,
-    "kept": 17,
+    "dropped": 1,
+    "kept": 16,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
     "dropped": [],
-    "review": 7,
+    "review": 8,
     "same_story_pairs": []
   },
   "history_digest": [
-    {
-      "date": "2026-10-15",
-      "title": "Meta says its GEM ads model lifted conversions 18.9% across its apps",
-      "url": "https://ppc.land/meta-says-its-gem-ads-model-lifted-conversions-18-9-across-its-apps/"
-    },
-    {
-      "date": "2026-10-15",
-      "title": "Floqer's AI agents research sales prospects so teams don't have to",
-      "url": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/"
-    },
-    {
-      "date": "2026-10-15",
-      "title": "LG And Magnite Launch Agentic Home Screen Ads With A Winning NFL Quarterback",
-      "url": "https://www.adexchanger.com/tv/lg-and-magnite-launch-agentic-home-screen-ads-with-a-winning-nfl-quarterback/"
-    },
-    {
-      "date": "2026-10-15",
-      "title": "Newegg adds Google UCP checkout integration",
-      "url": "https://www.digitalcommerce360.com/2026/10/12/newegg-adds-google-ucp-checkout-integration/"
-    },
-    {
-      "date": "2026-10-15",
-      "title": "Your Store Is 'Agent-Ready' By Default, We Tested 122 Shopify Stores To See What That Actually Means",
-      "url": "https://www.searchenginejournal.com/your-store-is-agent-ready-by-default-we-tested-122-shopify-stores/591767/"
-    },
     {
       "date": "2026-10-16",
       "title": "Meta will turn on product browsing in existing ads on October 28",
@@ -897,6 +881,31 @@
       "date": "2026-11-13",
       "title": "AI chatbots are recommending fake retail websites, study finds",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-fake-websites"
+    },
+    {
+      "date": "2026-11-14",
+      "title": "버즈빌, 이용자별 광고 소재 자동 제작하는 초개인화 AI 엔진 ‘프리즘’ 출시",
+      "url": "https://byline.network/2026/11/13_buzzvil/"
+    },
+    {
+      "date": "2026-11-14",
+      "title": "AI agent traffic is now a two-company town: Meta and OpenAI",
+      "url": "https://ppc.land/ai-agent-traffic-is-now-a-two-company-town-meta-and-openai/"
+    },
+    {
+      "date": "2026-11-14",
+      "title": "Custom Ad Algorithms Are Helping Schibsted Win Budgets Back From Meta",
+      "url": "https://www.adexchanger.com/publishers/custom-ad-algorithms-are-helping-schibsted-media-win-budgets-back-from-meta/"
+    },
+    {
+      "date": "2026-11-14",
+      "title": "IAB Releases AI-Era Attribution Blueprint, Giving the Industry a Shared Way to Account for AI’s Role in Purchases",
+      "url": "https://www.iab.com/news/iab-releases-ai-era-attribution-blueprint/"
+    },
+    {
+      "date": "2026-11-14",
+      "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet"
     }
   ]
 }

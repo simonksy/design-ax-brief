@@ -10223,6 +10223,138 @@
           "x": "Hasta ahora, los firmantes suman 108 editoriales de 26 países. La Association of University Presses aloja la carta. Destaca la ausencia de Oxford University Press, la mayor editorial universitaria del mundo."
         }
       ]
+    },
+    "books/books-tawhia-cla-prompts": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La organización de derechos de autor de Aotearoa New Zealand Tāwhia Copyright Aotearoa, antes conocida como Copyright Licensing New Zealand, firmó un acuerdo bilateral con la Copyright Licensing Agency del Reino Unido (UK) que permite usar contenido licenciado en prompts de AI."
+        }
+      ]
+    },
+    "books/books-lukomski-voice-ruling": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/hero-86.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Un tribunal de Varsovia dictaminó el viernes que los anuncios de una empresa que usaban una copia por AI de la voz de Jarosław Łukomski eran un deepfake. Ordenó retirar los anuncios, publicar disculpas y pagar daños a uno de los lectores de cine más conocidos de Polonia. La división de propiedad intelectual del Tribunal Regional de Varsovia dictó su fallo el viernes 13 de noviembre, al cierre de lo que los medios polacos llaman el primer juicio del país por una voz clonada con AI. Łukomski demandó a JFC Polska, una empresa que fabrica tanques domésticos de tratamiento de aguas residuales, tras oír en sus anuncios una voz parecida a la suya."
+        },
+        {
+          "t": "video",
+          "yt": "o-CzuhcoWsY"
+        },
+        {
+          "t": "p",
+          "x": "La jueza Sylwia Wit vel Wilk ordenó a JFC Polska retirar el material y publicar disculpas, y pagar a Łukomski 30,000 eslotis (unos $7,500) con intereses como compensación, más de 17,000 eslotis (unos $4,260) por sus pérdidas y las costas del juicio. El fallo no es firme."
+        },
+        {
+          "t": "p",
+          "x": "Lo importante, dijo la jueza, es si los oyentes podían creer que las palabras procedían realmente de la persona imitada. Según su fallo, el bien protegido es la voz de cada persona, sea o no conocida."
+        },
+        {
+          "t": "img",
+          "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/scrum.jpg",
+          "cap": "Łukomski, a la izquierda, habla con periodistas en el tribunal de Varsovia durante el juicio. Imagen: eKoszalin, en YouTube"
+        },
+        {
+          "t": "p",
+          "x": "Un perito designado por el tribunal concluyó que ambas voces eran “claramente (engañosamente) similares”. El diseñador gráfico de la empresa dijo haber usado herramientas de una firma polaca de voz por AI; o2.pl informa de que la herramienta citada en el juicio fue ElevenLabs."
+        },
+        {
+          "t": "img",
+          "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/booth-4.jpg",
+          "cap": "Łukomski ante el micrófono. Imagen: #AdiMoovi, en YouTube"
+        }
+      ]
+    },
+    "books/books-kakao-ryan-begins-anim": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.animenewsnetwork.com/thumbnails/max600x600/cms/news.8/222549/3246655_3305364_2723.jpg",
+          "cap": "Imagen vía el sitio web de Kakao Entertainment © Kakao Entertianment"
+        },
+        {
+          "t": "p",
+          "x": "Kakao anunció el 10 de noviembre que ha producido Ryan Begins, la primera animación corta con AI protagonizada por su popular personaje Ryan, mediante una colaboración tecnológica con OpenAI."
+        },
+        {
+          "t": "p",
+          "x": "Basado en el webtoon del mismo nombre, el corto, de unos siete minutos, combina la dirección creativa humana con herramientas de AI generativa en su planificación y producción."
+        },
+        {
+          "t": "p",
+          "x": "El equipo de producción incluye a Jiwon Han, que dirigió la película animada de Netflix Lost in Starlight, y al supervisor de AI Young-jun Kim. El equipo usó la función de generación de imágenes de ChatGPT para crear imágenes iniciales a partir de bocetos de escenas y prompts detallados. Después, los artistas refinaron y revisaron las imágenes a mano para lograr la calidad visual buscada."
+        },
+        {
+          "t": "video",
+          "yt": "REXgHT6Y_oo"
+        },
+        {
+          "t": "p",
+          "x": "Según el equipo de producción, usaron unos 1,500 prompts para una sola escena a fin de lograr la dirección y el tono emocional deseados."
+        },
+        {
+          "t": "p",
+          "x": "Kakao celebró un preestreno especial y una sesión de Q&A el 8 de noviembre en Movieland, en Seongsu-dong, Seúl. El evento incluyó también una exposición sobre el proceso de producción de la animación. Las entradas para la sesión de Q&A se agotaron en menos de un día tras salir a la venta."
+        },
+        {
+          "t": "p",
+          "x": "Han dijo que el equipo se centró en transmitir las emociones de Ryan sin depender de diálogos ni de expresiones faciales exageradas, para que el público encontrara su propia interpretación de la historia. Kim añadió que el equipo revisaba una y otra vez las imágenes generadas con AI (AI-generated) cuando no coincidían con el tono emocional buscado, y subrayó que las decisiones y el trabajo manual de los creadores determinaron el resultado final."
+        }
+      ]
+    },
+    "books/books-laffont-madrigall-screening": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/11/Screen-Shot-2026-11-08-at-11.14.44-AM.png"
+        },
+        {
+          "t": "p",
+          "x": "Según informó ActuaLitté, la editorial francesa Robert Laffont adopta ante los manuscritos generados con AI (AI-generated) un enfoque distinto al de su rival Gallimard. El director general de Robert Laffont, Frédéric Martin, se opone a usar software de detección de AI para examinar los envíos, con el argumento de que la relación entre autores y editores debe basarse en la confianza. Por su parte, Madrigall, la empresa matriz de Gallimard, prevé introducir la detección de AI en los manuscritos recibidos en enero de 2027."
+        },
+        {
+          "t": "p",
+          "x": "Robert Laffont también prepara la publicación en febrero de 2027 de Les Touches fantômes, una novela escrita con ayuda de AI (AI-assisted) de Sébastien Bailly. Bailly generó un primer borrador en gran parte con Claude y luego dedicó un año a reescribir y pulir el manuscrito a lo largo de unas 30 versiones."
+        }
+      ]
+    },
+    "books/books-kyobo-picks-agent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.readersnews.com/news/photo/202611/200863_91283_2625.jpg",
+          "cap": "[Foto=Kyobo Book Centre]"
+        },
+        {
+          "t": "p",
+          "x": "Kyobo Book Centre ha lanzado ‘Picks Agent’, un servicio conversacional de recomendación de libros con AI."
+        },
+        {
+          "t": "p",
+          "x": "‘Picks’ es un servicio personalizado que recomienda libros según los gustos e intereses de cada persona. En marzo, el servicio se mejoró con un modelo de lenguaje de gran tamaño (LLM)."
+        },
+        {
+          "t": "p",
+          "x": "El nuevo ‘Picks Agent’ amplía la recomendación a un formato conversacional. Además de los gustos del lector, recomienda libros a partir de temas y títulos seleccionados por el equipo MD de Kyobo Book Centre, y también sugiere un orden de lectura según el contexto de lectura."
+        },
+        {
+          "t": "p",
+          "x": "La planificación del servicio recogió la opinión de los lectores. En una encuesta a socios realizada en enero, el 55% de los encuestados señaló como el momento de mayor duda al elegir un libro no estar seguro de si se ajusta a sus gustos. Como método de recomendación AI preferido se eligió la ‘recomendación según gustos basada en el análisis de datos de lectura’."
+        },
+        {
+          "t": "p",
+          "x": "El servicio puede usarse iniciando sesión en el sitio web de Kyobo Book Centre y pulsando el icono de Picks Agent junto a la barra de búsqueda."
+        },
+        {
+          "t": "p",
+          "x": "En la página del evento de lanzamiento se pueden consultar las preguntas que los autores hicieron a ‘Picks Agent’, los libros recomendados y los motivos de la selección, así como la forma de preguntar y el proceso de recomendación. También se celebra un evento de comentarios por el lanzamiento."
+        }
+      ]
     }
   }
 }

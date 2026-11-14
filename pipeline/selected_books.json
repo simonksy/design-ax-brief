@@ -1,103 +1,158 @@
 {
-  "date": "2026-11-14",
+  "date": "2026-11-15",
   "section": "books",
   "picks": [
     {
-      "title": "교보문고, 대화형 AI 도서 추천 서비스 'Picks 에이전트' 오픈",
-      "url": "https://www.readersnews.com/news/articleView.html?idxno=200863",
-      "source": "독서신문",
+      "title": "대만서도 'AI 대량 책 매입' 논란…\"문화부, 출판산업 영향 파악해야\"",
+      "url": "https://www.joongang.co.kr/article/25478153",
+      "source": "중앙일보",
       "tool": "Books",
       "accent": "#f5a623",
       "motif": "swatch",
-      "rationale": "New product launch: Korea's largest bookseller adds a conversational agent that asks readers about their tastes and recommends books. It is a different company and product from the Youngpoong 책빵집 card (11-07).",
-      "published_iso": "2026-11-12T11:28:36+09:00",
-      "og_image": "https://cdn.readersnews.com/news/photo/202611/200863_91283_2625.jpg",
-      "excerpt": "교보문고가 대화로 취향과 관심사를 물어 책을 골라주는 대화형 AI 도서 추천 서비스 'Picks 에이전트'를 열었다. 기존 맞춤형 추천 서비스 'Picks'에 대화형 에이전트를 붙인 것이다."
+      "published_iso": "2026-11-13T00:01:01+09:00",
+      "og_image": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202611/13/860cbb8e-408f-4290-a5e6-c9019810bb45.jpg",
+      "excerpt": "앤트로픽이 대만 도서유통사 연합발행(UDC)에서 2024년 11월부터 올해 9월까지 563톤의 책을 사들인 사실이 알려지며 대만 입법원에서 문화부 장관에게 출판산업 영향 파악을 요구하는 등 논란이 정치권으로 번지고 있다.",
+      "rationale": "New concrete event: Anthropic's 563-ton bulk book purchase in Taiwan reaches the legislature — a new market in the training-data book-buying story, not a rehash of the UK bookshop or Korean piracy cards."
     },
     {
-      "title": "Manga's Backbone Is Breaking",
-      "url": "https://www.animenewsnetwork.com/feature/2026-11-13/manga-backbone-is-breaking/.242228",
-      "source": "Anime News Network",
+      "title": "Copyright agreements allow use of content for AI prompts",
+      "url": "https://www.booksandpublishing.com.au/articles/2026/11/12/344391/copyright-agreements-allow-use-of-content-for-ai-prompts/",
+      "source": "Books+Publishing",
       "tool": "Books",
       "accent": "#0070f3",
       "motif": "swatch",
-      "rationale": "Fresh (11-13) original investigation: Japanese publishers are using machine translation to bypass Western manga localizers, prompted by Jan Mitsuko Cash's call for higher rates at the American Manga Awards. No earlier card covers the localizer-pay angle.",
-      "published_iso": "2026-11-13T17:00:00-05:00",
-      "og_image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gV5/cms/feature/242228/colorchange.png.jpg",
-      "excerpt": "Following translator Jan Mitsuko Cash's call for higher rates at the American Manga Awards, ANN investigates whether manga localizers can still make a living — as Japanese publishers increasingly turn to machine translation and other AI tools to bypass Western localization professionals."
+      "published_iso": "2026-11-11T23:56:28+00:00",
+      "og_image": null,
+      "excerpt": "New Zealand's Tāwhia Copyright Aotearoa (formerly Copyright Licensing New Zealand) has signed a bilateral agreement with the UK's Copyright Licensing Agency that lets licensed content be used in AI prompts.",
+      "rationale": "Concrete licensing deal (NZ Tāwhia x UK CLA) that makes AI-prompt use of licensed text a collective-licence right — directly actionable for publishers and rights holders."
     },
     {
-      "title": "KT 밀리의서재, 'AI 페르소나 챗봇' 2년 반 만에 종료 (12월 31일)",
-      "url": "https://www.newsway.co.kr/news/view?ud=2026111316121759956",
-      "source": "뉴스웨이",
+      "title": "Polish lektor wins first AI voice deepfake ruling",
+      "url": "https://www.voiceoverherald.com/jaroslaw-lukomski-ai-voice-deepfake-ruling/",
+      "source": "Voice Over Herald",
       "tool": "Books",
       "accent": "#7928ca",
       "motif": "swatch",
-      "rationale": "New concrete event: Millie's Library is shutting down its character and author persona chatbot on 12-31 because few people used it. This is a different event from the 10-21 search-entry feature card.",
-      "published_iso": "2026-11-13T16:53:12+09:00",
-      "og_image": "https://nimage.newsway.co.kr/photo/2024/07/09/20240709000032_1200.png",
-      "excerpt": "KT 밀리의서재가 도서 등장인물·저자의 사고방식을 학습한 'AI 페르소나 챗봇'을 12월 31일로 종료한다. 2024년 5월 도입했으나 이용률이 저조했고, 회사는 새 AI 독서 서비스는 계속 개발 중이라고 밝혔다."
+      "published_iso": "2026-11-13T19:19:49+00:00",
+      "og_image": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/hero-86.jpg",
+      "excerpt": "A Warsaw court ruled on 13 November that adverts using an AI copy of film reader Jarosław Łukomski's voice were a deepfake, ordering removal, apologies and damages. In Poland's first cloned-voice trial, the judge said the protection covers anyone's voice, not only famous ones — a precedent for narrators and audiobook voices.",
+      "rationale": "First court ruling in Poland on a cloned voice, extending protection to any voice — a precedent narrators and audiobook producers can cite."
     },
     {
-      "title": "'AI의 힘을 빌려 번역'한 대전문학 번역집에 교정수당 600만원 — 시의회 감사서 지적",
-      "url": "https://www.thepublic.kr/news/articleView.html?idxno=326466",
-      "source": "더퍼블릭",
+      "title": "Kakao, OpenAI Collaborate on AI-Generated Short Animation Based on Ryan Begins Webtoon",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-14/kakao-openai-collaborate-on-ai-generated-short-animation-based-on-ryan-begins-webtoon/.243712",
+      "source": "Anime News Network",
       "tool": "Books",
       "accent": "#2ec5c5",
       "motif": "swatch",
-      "rationale": "New event (11-13): a city council audit found a publicly funded English anthology of Daejeon literature was translated with AI and still paid a 6M-won proofreading fee. The city official called AI translation of literature inappropriate.",
-      "published_iso": "2026-11-13T11:25:07+09:00",
-      "og_image": "https://cdn.thepublic.kr/news/photo/202611/326466_330422_1256.jpg",
-      "excerpt": "대전시 예산으로 발간된 715쪽 대전문학 영어 번역집이 발간사에 'AI의 힘을 빌려 번역했다'고 적고도 번역 교정수당 600만원을 지급한 사실이 시의회 행정사무감사에서 드러났다. 문화체육관광국장은 '문학 작품을 AI로 번역하는 것은 맞지 않다'며 부적절한 사업이라고 답했다."
+      "published_iso": "2026-11-14T13:15:00-05:00",
+      "og_image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gMG/youtube/REXgHT6Y_oo.jpg",
+      "excerpt": "Kakao and OpenAI released an AI-generated short animation adapted from the Ryan Begins webtoon; the production team said it used roughly 1,500 prompts for a single scene to reach the intended direction and emotional tone.",
+      "rationale": "New release: a Kakao x OpenAI webtoon-to-animation short with a concrete production detail (about 1,500 prompts per scene) — distinct from the CreateCrew tooling card of 11-08."
     },
     {
-      "title": "The Catholic 'AI Slop' Problem: Authors and Publishers Confront the Flood of AI-Generated Books",
-      "url": "https://www.ncregister.com/news/the-catholic-ai-slop-problem",
-      "source": "National Catholic Register",
+      "title": "Around the Book World: Monday, November 9, 2026 (Robert Laffont vs Gallimard on AI manuscript screening)",
+      "url": "https://publishingperspectives.com/2026/11/around-the-book-world-monday-november-9-2026/",
+      "source": "Publishing Perspectives",
       "tool": "Books",
       "accent": "#eb367f",
       "motif": "swatch",
-      "rationale": "New data point: a study estimates 63% of religious books listed on Amazon in the past year are likely AI-written. Catholic publishers respond. Earlier slop cards (guidebooks 10-28, Tamil Nadu libraries) were about other markets.",
-      "published_iso": "2026-11-12T17:21:04-06:00",
-      "og_image": "https://publisher-assets.ncregister.com/pb-ncregister/swp/hv9hms/media/2026111217118_c5dcef335d949fd9580599a304801c49a15d3735a7bd7e315f8ba8923d7d1ce7.png",
-      "excerpt": "A recent study estimates 63% of religious books listed on Amazon in the past year are likely AI-written, with Catholic titles at a similar rate. Catholic authors and publishers describe confronting the flood of AI-generated books."
+      "published_iso": "2026-11-09T07:43:24+00:00",
+      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/01/Screen-Shot-2026-01-18-at-8.18.31-PM-e1773663205654.png",
+      "excerpt": "Robert Laffont's managing director Frédéric Martin opposes using AI-detection software to screen submissions, saying author-publisher relations should rest on trust — while Gallimard parent Madrigall plans to screen manuscripts for AI.",
+      "rationale": "New policy split among French publishers: Madrigall (Gallimard) will screen submissions for AI while Robert Laffont refuses — changes what authors submitting in France can expect."
     }
-  ],
-  "items": [
-    {"title": "교보문고, 대화형 AI 도서 추천 서비스 'Picks 에이전트' 오픈", "url": "https://www.readersnews.com/news/articleView.html?idxno=200863", "source": "독서신문", "tool": "Books", "accent": "#f5a623", "motif": "swatch", "rationale": "Kyobo launches a conversational AI book-recommendation agent (new product).", "published_iso": "2026-11-12T11:28:36+09:00", "og_image": "https://cdn.readersnews.com/news/photo/202611/200863_91283_2625.jpg", "excerpt": "교보문고가 대화로 취향과 관심사를 물어 책을 골라주는 대화형 AI 도서 추천 서비스 'Picks 에이전트'를 열었다. 기존 맞춤형 추천 서비스 'Picks'에 대화형 에이전트를 붙인 것이다."},
-    {"title": "Manga's Backbone Is Breaking", "url": "https://www.animenewsnetwork.com/feature/2026-11-13/manga-backbone-is-breaking/.242228", "source": "Anime News Network", "tool": "Books", "accent": "#0070f3", "motif": "swatch", "rationale": "Investigation: Japanese publishers' machine translation squeezes Western manga localizers.", "published_iso": "2026-11-13T17:00:00-05:00", "og_image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gV5/cms/feature/242228/colorchange.png.jpg", "excerpt": "Following translator Jan Mitsuko Cash's call for higher rates at the American Manga Awards, ANN investigates whether manga localizers can still make a living — as Japanese publishers increasingly turn to machine translation and other AI tools to bypass Western localization professionals."},
-    {"title": "KT 밀리의서재, 'AI 페르소나 챗봇' 2년 반 만에 종료 (12월 31일)", "url": "https://www.newsway.co.kr/news/view?ud=2026111316121759956", "source": "뉴스웨이", "tool": "Books", "accent": "#7928ca", "motif": "swatch", "rationale": "Millie's Library shuts its AI persona chatbot on 12-31 over low usage (new event).", "published_iso": "2026-11-13T16:53:12+09:00", "og_image": "https://nimage.newsway.co.kr/photo/2024/07/09/20240709000032_1200.png", "excerpt": "KT 밀리의서재가 도서 등장인물·저자의 사고방식을 학습한 'AI 페르소나 챗봇'을 12월 31일로 종료한다. 2024년 5월 도입했으나 이용률이 저조했고, 회사는 새 AI 독서 서비스는 계속 개발 중이라고 밝혔다."},
-    {"title": "'AI의 힘을 빌려 번역'한 대전문학 번역집에 교정수당 600만원 — 시의회 감사서 지적", "url": "https://www.thepublic.kr/news/articleView.html?idxno=326466", "source": "더퍼블릭", "tool": "Books", "accent": "#2ec5c5", "motif": "swatch", "rationale": "Council audit flags an AI-translated, publicly funded literature anthology (new event).", "published_iso": "2026-11-13T11:25:07+09:00", "og_image": "https://cdn.thepublic.kr/news/photo/202611/326466_330422_1256.jpg", "excerpt": "대전시 예산으로 발간된 715쪽 대전문학 영어 번역집이 발간사에 'AI의 힘을 빌려 번역했다'고 적고도 번역 교정수당 600만원을 지급한 사실이 시의회 행정사무감사에서 드러났다. 문화체육관광국장은 '문학 작품을 AI로 번역하는 것은 맞지 않다'며 부적절한 사업이라고 답했다."},
-    {"title": "The Catholic 'AI Slop' Problem: Authors and Publishers Confront the Flood of AI-Generated Books", "url": "https://www.ncregister.com/news/the-catholic-ai-slop-problem", "source": "National Catholic Register", "tool": "Books", "accent": "#eb367f", "motif": "swatch", "rationale": "Study: 63% of religious books listed on Amazon in the past year are likely AI-written.", "published_iso": "2026-11-12T17:21:04-06:00", "og_image": "https://publisher-assets.ncregister.com/pb-ncregister/swp/hv9hms/media/2026111217118_c5dcef335d949fd9580599a304801c49a15d3735a7bd7e315f8ba8923d7d1ce7.png", "excerpt": "A recent study estimates 63% of religious books listed on Amazon in the past year are likely AI-written, with Catholic titles at a similar rate. Catholic authors and publishers describe confronting the flood of AI-generated books."}
   ],
   "dedup": {
     "checks": {
-      "https://www.readersnews.com/news/articleView.html?idxno=200863": {
+      "https://www.joongang.co.kr/article/25478153": {
         "verdict": "new",
-        "nearest": "http://www.worktoday.co.kr/news/articleView.html?idxno=91560",
+        "nearest": "https://www.techtimes.co.uk/uk-irish-booksellers-mystery-ai-book-orders-1809765",
         "new_action": ""
       },
-      "https://www.animenewsnetwork.com/feature/2026-11-13/manga-backbone-is-breaking/.242228": {
+      "https://www.booksandpublishing.com.au/articles/2026/11/12/344391/copyright-agreements-allow-use-of-content-for-ai-prompts/": {
         "verdict": "new",
-        "nearest": "https://www.nippon.com/en/japan-data/h02913/",
+        "nearest": "https://www.publishersweekly.com/pw/by-topic/industry-news/libraries/article/101680-oxford-university-press-tests-connecting-its-content-to-chatgpt-edu.html",
         "new_action": ""
       },
-      "https://www.newsway.co.kr/news/view?ud=2026111316121759956": {
+      "https://www.voiceoverherald.com/jaroslaw-lukomski-ai-voice-deepfake-ruling/": {
         "verdict": "new",
-        "nearest": "https://www.ddaily.co.kr/page/view/2026102014534352853",
+        "nearest": "https://www.voiceoverherald.com/unions-openai-fair-use-brief-voice-actors-nava-survey/",
         "new_action": ""
       },
-      "https://www.thepublic.kr/news/articleView.html?idxno=326466": {
+      "https://www.animenewsnetwork.com/news/2026-11-14/kakao-openai-collaborate-on-ai-generated-short-animation-based-on-ryan-begins-webtoon/.243712": {
         "verdict": "new",
-        "nearest": "",
+        "nearest": "https://biz.chosun.com/en/en-industry/2026/11/08/32IOO7XILJFLXGSTMUMURIHYPI/",
         "new_action": ""
       },
-      "https://www.ncregister.com/news/the-catholic-ai-slop-problem": {
+      "https://publishingperspectives.com/2026/11/around-the-book-world-monday-november-9-2026/": {
         "verdict": "new",
-        "nearest": "https://automaton-media.com/en/news/seemingly-ai-generated-fire-emblem-fortunes-weave-guidebooks-flood-amazon-japan-self-publishing-system-allows-anyone-to-mass-produce-guideslop/",
+        "nearest": "https://www.msn.com/en-ca/technology/artificial-intelligence/publishers-rely-on-trust-not-tech-to-ensure-books-aren-t-ai-generated/ar-AA2fWHju",
         "new_action": ""
       }
     },
-    "note": "Dropped as duplicates or follow-ups with no new event. (1) Tech Times AO3 AI-audiobook copycats: same running AO3-clone story as 404 Media (11-04). (2) OkayAfrica op-ed: commentary on the Caine Prize story (BBC, 11-12). (3) The Hindu on Prix Pascal: commentary on the 10-21 Bookseller launch card. (4) Scholarly Kitchen IFRRO CEO interview: interview about the IFRRO study (Publishing Perspectives, 10-30). (5) Publishing Perspectives 'France autumn of discontent': already dropped 11-13; covers the Goncourt/Jaenada (11-05) and Orelien (10-22) stories. (6) Good e-Reader Paperwhite 2026 first look: its AI angle, Ask This Book, ran 11-02. (7) Keene Sentinel: a local author's cut of the Anthropic settlement; no new filing. (8) New Indian Express TN libraries withholding 50k books: extra reporting on the Madras HC FIR (11-11) and TN Periyar probe (11-07). (9) SisaIN feature and (10) 독서신문 이연숙 column: analysis and commentary on the already-carded Anthropic bulk-buying and training story. Also skipped on merit, not as duplicates: Joongang Taiwan 563-ton Anthropic purchase (a follow-up on the Korean bulk-buy saga, whose new element is only legislators' demands); Yonhap 이우혁 interview (opinion, no og_image); NY Post ChatGPT-book first-person piece (evergreen); Times of India Sanders AI photo (AI incidental, gossip); Scholarly Kitchen governed-AI (11-04, stale and evergreen); Voice Over Herald Polish voice-deepfake ruling (an advertising voice case, off-topic for books). Diversity: 5 distinct outlets, max 1 each. Cross-section: no grep tool was available, and published_urls.json (~7k lines) was not exhaustively read; the books 30-day history_digest was checked in full. The orchestrator should run an exact-URL grep across all sections before roll."
-  }
+    "note": "Dropped as duplicates/follow-ups without a new action: Le Monde Prix Pascal (same story as Bookseller 2026-10-21); Scholarly Kitchen IFRRO interview (commentary on IFRRO study published 2026-10-30); Publishing Perspectives 'France autumn of discontent' (analysis of Goncourt AI admission, published 2026-11-05); OkayAfrica Caine Prize op-ed (commentary on BBC Caine Prize card 2026-11-12). Passed over on score (opinion/feature/evergreen, no new event): Guardian 'wild west' feature, Korea JoongAng Daily opinion, Star-Herald librarian column, 독서신문 column, Yonhap 이우혁 interview, Scholarly Kitchen governed-AI and Charleston recap, Geekiary VN translation, Sharjah call-an-icon installation, Brisbane library AI mural (next in line). published_urls.json is too large to read whole without grep; cross-section relied on the curator brief, which assigns no books candidate elsewhere — orchestrator should exact-grep the 5 URLs before roll."
+  },
+  "items": [
+    {
+      "title": "대만서도 'AI 대량 책 매입' 논란…\"문화부, 출판산업 영향 파악해야\"",
+      "url": "https://www.joongang.co.kr/article/25478153",
+      "source": "중앙일보",
+      "tool": "Books",
+      "accent": "#f5a623",
+      "motif": "swatch",
+      "published_iso": "2026-11-13T00:01:01+09:00",
+      "og_image": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202611/13/860cbb8e-408f-4290-a5e6-c9019810bb45.jpg",
+      "excerpt": "앤트로픽이 대만 도서유통사 연합발행(UDC)에서 2024년 11월부터 올해 9월까지 563톤의 책을 사들인 사실이 알려지며 대만 입법원에서 문화부 장관에게 출판산업 영향 파악을 요구하는 등 논란이 정치권으로 번지고 있다.",
+      "rationale": "New concrete event: Anthropic's 563-ton bulk book purchase in Taiwan reaches the legislature — a new market in the training-data book-buying story, not a rehash of the UK bookshop or Korean piracy cards."
+    },
+    {
+      "title": "Copyright agreements allow use of content for AI prompts",
+      "url": "https://www.booksandpublishing.com.au/articles/2026/11/12/344391/copyright-agreements-allow-use-of-content-for-ai-prompts/",
+      "source": "Books+Publishing",
+      "tool": "Books",
+      "accent": "#0070f3",
+      "motif": "swatch",
+      "published_iso": "2026-11-11T23:56:28+00:00",
+      "og_image": null,
+      "excerpt": "New Zealand's Tāwhia Copyright Aotearoa (formerly Copyright Licensing New Zealand) has signed a bilateral agreement with the UK's Copyright Licensing Agency that lets licensed content be used in AI prompts.",
+      "rationale": "Concrete licensing deal (NZ Tāwhia x UK CLA) that makes AI-prompt use of licensed text a collective-licence right — directly actionable for publishers and rights holders."
+    },
+    {
+      "title": "Polish lektor wins first AI voice deepfake ruling",
+      "url": "https://www.voiceoverherald.com/jaroslaw-lukomski-ai-voice-deepfake-ruling/",
+      "source": "Voice Over Herald",
+      "tool": "Books",
+      "accent": "#7928ca",
+      "motif": "swatch",
+      "published_iso": "2026-11-13T19:19:49+00:00",
+      "og_image": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/hero-86.jpg",
+      "excerpt": "A Warsaw court ruled on 13 November that adverts using an AI copy of film reader Jarosław Łukomski's voice were a deepfake, ordering removal, apologies and damages. In Poland's first cloned-voice trial, the judge said the protection covers anyone's voice, not only famous ones — a precedent for narrators and audiobook voices.",
+      "rationale": "First court ruling in Poland on a cloned voice, extending protection to any voice — a precedent narrators and audiobook producers can cite."
+    },
+    {
+      "title": "Kakao, OpenAI Collaborate on AI-Generated Short Animation Based on Ryan Begins Webtoon",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-14/kakao-openai-collaborate-on-ai-generated-short-animation-based-on-ryan-begins-webtoon/.243712",
+      "source": "Anime News Network",
+      "tool": "Books",
+      "accent": "#2ec5c5",
+      "motif": "swatch",
+      "published_iso": "2026-11-14T13:15:00-05:00",
+      "og_image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gMG/youtube/REXgHT6Y_oo.jpg",
+      "excerpt": "Kakao and OpenAI released an AI-generated short animation adapted from the Ryan Begins webtoon; the production team said it used roughly 1,500 prompts for a single scene to reach the intended direction and emotional tone.",
+      "rationale": "New release: a Kakao x OpenAI webtoon-to-animation short with a concrete production detail (about 1,500 prompts per scene) — distinct from the CreateCrew tooling card of 11-08."
+    },
+    {
+      "title": "Around the Book World: Monday, November 9, 2026 (Robert Laffont vs Gallimard on AI manuscript screening)",
+      "url": "https://publishingperspectives.com/2026/11/around-the-book-world-monday-november-9-2026/",
+      "source": "Publishing Perspectives",
+      "tool": "Books",
+      "accent": "#eb367f",
+      "motif": "swatch",
+      "published_iso": "2026-11-09T07:43:24+00:00",
+      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/01/Screen-Shot-2026-01-18-at-8.18.31-PM-e1773663205654.png",
+      "excerpt": "Robert Laffont's managing director Frédéric Martin opposes using AI-detection software to screen submissions, saying author-publisher relations should rest on trust — while Gallimard parent Madrigall plans to screen manuscripts for AI.",
+      "rationale": "New policy split among French publishers: Madrigall (Gallimard) will screen submissions for AI while Robert Laffont refuses — changes what authors submitting in France can expect."
+    }
+  ]
 }

@@ -10464,6 +10464,138 @@
           "x": "現時点で署名したのは26カ国の108社だ。憲章はAssociation of University Pressesが運営する。世界最大の大学出版局であるOxford University Pressの名はない。"
         }
       ]
+    },
+    "books/books-tawhia-cla-prompts": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "ニュージーランド（Aotearoa New Zealand）の著作権団体Tāwhia Copyright Aotearoa（旧Copyright Licensing New Zealand）は、英国（UK）のCopyright Licensing Agencyと二国間協定を結んだ。これにより、許諾を受けたコンテンツをAIプロンプトに利用できる。"
+        }
+      ]
+    },
+    "books/books-lukomski-voice-ruling": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/hero-86.jpg"
+        },
+        {
+          "t": "p",
+          "x": "ワルシャワの裁判所は金曜日、ある企業がJarosław Łukomski氏の声をAIで複製して使った広告はディープフェイクだとの判決を下した。ポーランドで最もよく知られた映画ナレーターの一人である同氏のため、広告の削除、公開謝罪、損害賠償を命じた。ワルシャワ地方裁判所の知的財産部は11月13日金曜日に判決を言い渡した。ポーランドのメディアはこの裁判を、AIで複製された声をめぐる国内初の裁判と呼んでいる。Łukomski氏は、家庭用汚水処理タンクを製造するJFC Polskaの広告で自分に似た声を聞き、同社を提訴した。"
+        },
+        {
+          "t": "video",
+          "yt": "o-CzuhcoWsY"
+        },
+        {
+          "t": "p",
+          "x": "Sylwia Wit vel Wilk裁判官はJFC Polskaに対し、素材の削除と謝罪の公表を命じ、Łukomski氏に慰謝料として30,000ズウォティ（約$7,500）と利息、損失分として17,000ズウォティ（約$4,260）超、さらに訴訟費用を支払うよう命じた。判決は確定していない。"
+        },
+        {
+          "t": "p",
+          "x": "裁判官によれば、重要なのは、聞き手がその言葉を本当に模倣された本人のものだと信じ得たかどうかだ。判決では、保護される利益は、知名度の有無にかかわらず、あらゆる個人の声だとした。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/scrum.jpg",
+          "cap": "裁判期間中、ワルシャワの裁判所で記者の取材に応じるŁukomski氏（左）。画像：eKoszalin、YouTubeより"
+        },
+        {
+          "t": "p",
+          "x": "裁判所が任命した専門家は、両者の声が「明らかに（紛らわしいほど）似ている」と判断した。同社のグラフィックデザイナーはポーランドのAI音声企業のツールを使ったと述べ、o2.plによると法廷で名前が挙がったツールはElevenLabsだった。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/booth-4.jpg",
+          "cap": "マイクの前のŁukomski氏。画像：#AdiMoovi、YouTubeより"
+        }
+      ]
+    },
+    "books/books-kakao-ryan-begins-anim": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.animenewsnetwork.com/thumbnails/max600x600/cms/news.8/222549/3246655_3305364_2723.jpg",
+          "cap": "画像：Kakao Entertainmentのウェブサイトより © Kakao Entertianment"
+        },
+        {
+          "t": "p",
+          "x": "Kakaoは11月10日、OpenAIとの技術協業により、人気キャラクターRyanが主演する初のAI短編アニメーション『Ryan Begins』を制作したと発表した。"
+        },
+        {
+          "t": "p",
+          "x": "同名のウェブトゥーンを原作とする約七分の短編で、企画と制作において人間による創作上の演出と生成AIツールを組み合わせた。"
+        },
+        {
+          "t": "p",
+          "x": "制作陣には、Netflixのアニメーション映画『Lost in Starlight』を監督したJiwon Han監督と、AIスーパーバイザーのYoung-jun Kim氏が名を連ねる。チームはChatGPTの画像生成機能を使い、シーンのスケッチと詳細なプロンプトをもとに初期画像を作成した。その後、アーティストが意図した映像品質に達するよう手作業で画像を磨き上げ、修正した。"
+        },
+        {
+          "t": "video",
+          "yt": "REXgHT6Y_oo"
+        },
+        {
+          "t": "p",
+          "x": "制作陣によると、狙った演出と感情のトーンを得るため、一つの場面だけで約1,500のプロンプトを使ったという。"
+        },
+        {
+          "t": "p",
+          "x": "Kakaoは11月8日、ソウル・聖水洞（Seongsu-dong）のMovielandで特別先行上映会とQ&Aセッションを開いた。会場ではアニメーションの制作過程を紹介する展示も行われた。Q&Aセッションのチケットは発売から一日もたたずに完売した。"
+        },
+        {
+          "t": "p",
+          "x": "Han監督は、セリフや誇張した表情に頼らずにRyanの感情を伝えることに注力し、観客がそれぞれ物語を解釈できるようにしたと語った。Kim氏は、AI生成（AI-generated）の画像が意図した感情のトーンに合わないたびに繰り返し修正したと述べ、最終的な結果を決めたのは制作者の判断と手作業だったと強調した。"
+        }
+      ]
+    },
+    "books/books-laffont-madrigall-screening": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/11/Screen-Shot-2026-11-08-at-11.14.44-AM.png"
+        },
+        {
+          "t": "p",
+          "x": "ActuaLittéの報道によると、フランスの出版社Robert Laffontは、AI生成（AI-generated）の原稿について競合のGallimardとは異なる姿勢を取っている。Robert Laffontの代表Frédéric Martinは、著者と出版社の関係は信頼に基づくべきだとして、投稿原稿の審査にAI検出ソフトウェアを使うことに反対している。一方、Gallimardの親会社Madrigallは、2027年1月から投稿原稿にAI検出を導入する計画だ。"
+        },
+        {
+          "t": "p",
+          "x": "Robert Laffontはまた、Sébastien BaillyによるAI支援（AI-assisted）の小説『Les Touches fantômes』を2027年2月に刊行する準備を進めている。Baillyは初稿の大部分をClaudeで生成した後、一年をかけて約30のバージョンを経て原稿を書き直し、磨き上げた。"
+        }
+      ]
+    },
+    "books/books-kyobo-picks-agent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.readersnews.com/news/photo/202611/200863_91283_2625.jpg",
+          "cap": "[写真=教保文庫]"
+        },
+        {
+          "t": "p",
+          "x": "教保文庫が対話型AI書籍推薦サービス「Picks エージェント」を公開した。"
+        },
+        {
+          "t": "p",
+          "x": "「Picks」は個人の好みや関心を反映して本を推薦するパーソナライズサービスだ。3月には大規模言語モデル（LLM）を導入し、サービスを高度化した。"
+        },
+        {
+          "t": "p",
+          "x": "新たに登場した「Picks エージェント」は、推薦方式を対話型に広げた。読者の好みだけでなく、教保文庫のMDがキュレーションしたテーマと書籍をもとに本を推薦し、読書の文脈を踏まえて読む順番も示す。"
+        },
+        {
+          "t": "p",
+          "x": "サービスの企画には読者の声が反映された。1月に会員を対象に実施したアンケートでは、回答者の55%が、本を選ぶ際に最も迷う瞬間として、自分の好みに合う本か確信を持てない時を挙げた。最も好まれるAI推薦方式には「読書データを分析した好み別の推薦」が選ばれた。"
+        },
+        {
+          "t": "p",
+          "x": "このサービスは、教保文庫のウェブサイトにログインし、検索窓の横にあるPicks エージェントのアイコンを押すと利用できる。"
+        },
+        {
+          "t": "p",
+          "x": "公開記念イベントページでは、作家たちが「Picks エージェント」に投げかけた質問と推薦図書、選定理由を確認でき、質問の仕方や推薦の過程などを見ることができる。公開記念のコメントイベントも行われる。"
+        }
+      ]
     }
   }
 }

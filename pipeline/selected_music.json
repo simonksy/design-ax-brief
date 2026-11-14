@@ -1,101 +1,158 @@
 {
-  "date": "2026-11-14",
+  "date": "2026-11-15",
   "section": "music",
-  "items": [
+  "picks": [
     {
+      "title": "Suno boss talks streaming fraud: 'AI music is not a crime'",
+      "url": "https://musically.com/2026/11/13/suno-boss-talks-streaming-fraud-ai-music-is-not-a-crime/",
+      "source": "Music Ally",
       "tool": "Music",
       "accent": "#ff2d55",
       "motif": "sphere",
-      "category": "music",
-      "title": "Suno Bridge: Your DAW, Suno-powered",
-      "url": "https://suno.com/blog/introducing-bridge",
-      "source": "Suno",
-      "published_iso": "2026-11-13T14:00:00Z",
-      "og_image": "https://cdn.sanity.io/images/cl7b1q1i/production/82b39b7eda6ba746df9166d864ce48cddb76843f-1920x1080.jpg?rect=0,36,1920,1008&w=1200&h=630&fit=crop&auto=format",
-      "excerpt": "Suno launched Bridge, a standalone Mac app in beta that syncs with Ableton Live 12 and generates new instrument and vocal parts that follow the session's tempo, key, chords and groove, dropping them straight onto the timeline within the loop markers.",
-      "rationale": "Primary-source launch that puts Suno generation inside an Ableton session (tempo/key/chord-aware parts on the timeline) — directly changes a producer's workflow tomorrow."
+      "rationale": "Suno CEO Mikey Shulman's first direct on-record answer to the AI-music = streaming-fraud charge, as Suno faces label and DSP pressure; new statement, not the 10-22 guest column.",
+      "published_iso": "2026-11-13T12:30:00+00:00",
+      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-31.png?fit=2000%2C1500&ssl=1",
+      "excerpt": "Suno CEO Mikey Shulman criticised the 'sleight of hand' of equating streaming fraud with AI music, and said Suno is doing more behind the scenes to tackle fraud than people realise."
     },
     {
+      "title": "50 Cent Trolls Former Nvidia CEO Jensen Huang's Affair With 'P.I.M.P.' Music Video AI Deepfake",
+      "url": "https://www.billboard.com/music/rb-hip-hop/50-cent-trolls-former-nvidia-ceo-jensen-huang-pimp-video-ai-1236381001/",
+      "source": "Billboard",
       "tool": "Music",
       "accent": "#0070f3",
       "motif": "sphere",
-      "category": "music",
-      "title": "Yamaha Releases VOCALOID7 Voice Synthesis Software, With Stronger Cubase Integration",
-      "url": "https://mixing.co.kr/en/44521",
-      "source": "월간 믹싱",
-      "published_iso": "2026-11-13T11:35:45+09:00",
-      "og_image": "https://mmagimg.speedgabia.com/2026/11/img-1794535790699-7b915c66ecbc114b.webp",
-      "excerpt": "Yamaha released VOCALOID7 Editor ($129; standalone, VST3/AU/ARA2), running second-generation VOCALOID:AI for more natural vocals, adding a Voice Type control and lyric entry directly in Cubase's Key Editor.",
-      "rationale": "The October announcement is now a shipping product with price, formats and Cubase Key Editor lyric entry — an actionable release, not a rehash."
+      "rationale": "High-profile artist using a generative-video deepfake of a real public figure in a music-video remake; music-only per the 11-15 cross-section assignment.",
+      "published_iso": "2026-11-13T01:38:19+00:00",
+      "og_image": "https://www.billboard.com/wp-content/uploads/2026/10/2287163263-e1792696512839.jpg?w=1024",
+      "excerpt": "50 Cent posted an AI deepfake remake of his 'P.I.M.P.' music video starring former Nvidia CEO Jensen Huang, the latest high-profile artist use of generative video for a music clip."
     },
     {
-      "tool": "Music",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "category": "music",
-      "title": "머무르 '꿈꾸던…', AI 활용곡 사상 첫 멜론 '톱 100' 1위",
-      "url": "https://www.yna.co.kr/view/AKR20261113157000005",
-      "source": "연합뉴스",
-      "published_iso": "2026-11-13T17:32:53+09:00",
-      "og_image": "https://img2.yna.co.kr/etc/inner/KR/2026/11/13/AKR20261113157000005_01_i_P4.jpg",
-      "excerpt": "작곡과 가창에 AI를 활용한 머무르의 '꿈꾸던 어른이 되었나요?'가 K팝 사상 처음으로 멜론 '톱 100' 1위에 올라 리센느 등 아이돌 신곡을 제쳤다.",
-      "rationale": "Chart milestone: first AI-assisted song ever to reach #1 on Melon Top 100, beating idol releases — a new concrete event beyond the October 'it's a hit' coverage."
-    },
-    {
+      "title": "AI 노래가 전화 화면까지 들어온다…민티파이 운영사 뮤직플랫, V 컬러링 서비스 시작",
+      "url": "https://www.aipostkorea.com/news/articleView.html?idxno=13276",
+      "source": "AI포스트",
       "tool": "Music",
       "accent": "#7928ca",
       "motif": "sphere",
-      "category": "music",
-      "title": "Getty v Stability ruling could allow AI companies to 'offshore' training to circumvent UK copyright law, says BPI",
-      "url": "https://completemusicupdate.com/getty-v-stability-ruling-could-allow-ai-companies-to-offshore-training-to-circumvent-uk-copyright-law-says-bpi/",
-      "source": "CMU",
-      "published_iso": "2026-11-13T15:44:28Z",
-      "og_image": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/2026/11/Getty-v-Stablity---1-.png",
-      "excerpt": "With Getty v Stability AI back in the UK Court of Appeal this week, the BPI intervened in support of Getty, warning that the ruling could let AI firms train models offshore to sidestep UK copyright, with significant consequences for music.",
-      "rationale": "New legal action: the BPI's intervention in the Court of Appeal frames the offshore-training loophole that would decide whether UK music copyright reaches AI training."
+      "rationale": "New distribution channel launch: AI-made songs now supplied to all three Korean carriers' V Coloring call-connect video service — a concrete outlet for AI music creators.",
+      "published_iso": "2026-11-12T15:57:18+09:00",
+      "og_image": "https://cdn.aipostkorea.com/news/photo/202611/13276_24022_5651.png",
+      "excerpt": "AI 음원 유통 서비스 민티파이(뮤직플랫)가 통신 3사의 통화 연결 영상 서비스 V 컬러링·V 프로필에 AI로 만든 노래를 공급하기 시작했다."
     },
     {
+      "title": "Can Music Generation Models Tap Along? Evaluating Generative Approaches to Beat Tracking",
+      "url": "https://arxiv.org/abs/2611.14971",
+      "source": "arXiv",
       "tool": "Music",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "category": "music",
-      "title": "RadioMatic aims to make AI-music a soundtrack for businesses",
-      "url": "https://musically.com/2026/11/12/radiomatic-aims-to-make-ai-music-a-soundtrack-for-businesses/",
+      "rationale": "New research: an audio-conditioning adapter turns MusicGen into an accompanist that drums along to an input song, doubling as a beat tracker — a distinct paper from the 11-12 MusicFlux card.",
+      "published_iso": "2026-11-11T03:32:03Z",
+      "og_image": null,
+      "excerpt": "Researchers add an audio-conditioning adapter to a pretrained MusicGen model so it generates percussion tracks synchronized to an input song, then extract beat positions from them."
+    },
+    {
+      "title": "AI-powered label PaRa Music says it's identified the next big Indian regional music sub-genre",
+      "url": "https://musically.com/2026/11/12/ai-powered-label-para-music-says-its-identified-the-next-big-indian-regional-music-sub-genre/",
       "source": "Music Ally",
-      "published_iso": "2026-11-12T13:30:00+00:00",
-      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-25.png?fit=2000%2C1500&ssl=1",
-      "excerpt": "Startup RadioMatic is launching specifically to supply AI-generated background music to cafes, bars and other businesses, formalising a trend of venues playing AI music.",
-      "rationale": "New service launch that formalises AI music as venue background audio — a direct substitute for licensed in-store music, relevant to how rights and royalties flow."
+      "tool": "Music",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "rationale": "AI used for A&R: PaRa Music's in-house PaRaMeter platform reads demand data to steer label investment and claims to have spotted the next regional sub-genre — a fresh angle not in the 30-day history.",
+      "published_iso": "2026-11-12T20:00:11+00:00",
+      "og_image": "https://musically.com/wp-content/uploads/2026/06/PaRa-Music-logo.jpg",
+      "excerpt": "Indian label PaRa Music uses its in-house AI platform PaRaMeter to analyse audience behaviour and demand patterns to guide A&R investment, and now claims it has spotted the next regional sub-genre."
     }
   ],
   "dedup": {
     "checks": {
-      "https://suno.com/blog/introducing-bridge": {
+      "https://musically.com/2026/11/13/suno-boss-talks-streaming-fraud-ai-music-is-not-a-crime/": {
         "verdict": "new",
-        "nearest": "https://suno.com/blog/studio-chat-assistant",
+        "nearest": "https://www.billboard.com/pro/streaming-fraud-hurts-songwriters-find-solutions/",
         "new_action": ""
       },
-      "https://mixing.co.kr/en/44521": {
-        "verdict": "follow-up",
-        "nearest": "https://essential-japan.com/news/vocaloid7-officially-announced-just-6-months-after-hatsune-mikus-v6-debut/",
-        "new_action": "VOCALOID7 Editor actually released (10-17 card was the announcement): on sale at $129 as standalone/VST3/AU/ARA2 with VOCALOID:AI gen-2, Voice Type control and lyric entry in Cubase's Key Editor."
-      },
-      "https://www.yna.co.kr/view/AKR20261113157000005": {
-        "verdict": "follow-up",
-        "nearest": "https://musically.com/2026/10/15/suno-made-track-the-adult-i-dreamed-of-is-a-hit-in-south-korea/",
-        "new_action": "Same song reached #1 on the Melon Top 100 on 11-13 — the first AI-assisted track ever to top the chart (10-18 card only reported it as a hit)."
-      },
-      "https://completemusicupdate.com/getty-v-stability-ruling-could-allow-ai-companies-to-offshore-training-to-circumvent-uk-copyright-law-says-bpi/": {
+      "https://www.billboard.com/music/rb-hip-hop/50-cent-trolls-former-nvidia-ceo-jensen-huang-pimp-video-ai-1236381001/": {
         "verdict": "new",
-        "nearest": "https://completemusicupdate.com/music-industry-intervenes-in-open-ais-big-legal-battle-with-newspapers-and-authors/",
+        "nearest": "https://www.billboard.com/music/rb-hip-hop/marsha-blackburn-kendrick-lamar-not-like-us-ai-video-slammed-1236360552/",
         "new_action": ""
       },
-      "https://musically.com/2026/11/12/radiomatic-aims-to-make-ai-music-a-soundtrack-for-businesses/": {
+      "https://www.aipostkorea.com/news/articleView.html?idxno=13276": {
         "verdict": "new",
-        "nearest": "",
+        "nearest": "https://www.aipostkorea.com/news/articleView.html?idxno=13167",
+        "new_action": ""
+      },
+      "https://arxiv.org/abs/2611.14971": {
+        "verdict": "new",
+        "nearest": "https://arxiv.org/abs/2611.13834",
+        "new_action": ""
+      },
+      "https://musically.com/2026/11/12/ai-powered-label-para-music-says-its-identified-the-next-big-indian-regional-music-sub-genre/": {
+        "verdict": "new",
+        "nearest": "https://www.hypebot.com/rocketship-maps-a-songs-listeners-before-release-for-free/",
         "new_action": ""
       }
     },
-    "note": "Dropped: Akai MPC 3.10.1 plugin SDK (MusicRadar) — likely-repeat of the 10-29 Verge 'Akai is embracing vibe-coded mods' story, no clearly distinct release. Suno CEO streaming-fraud remarks (Music Ally) — interview/commentary, no new action. Blackstar ID:X NAM support — marginal AI, NAM-update running story (Heritage i73 11-08). Gavin Adcock vs River Cain — reaction piece. Cerati video — AI use unconfirmed. PaRa Music — label business claim. Lower-ranked but fresh, not picked: RFE/RL Russian pro-war AI songs, RASES app, MusicRWKV arXiv, Mintify V-coloring. Cross-section check: none of the 5 URLs appear in published_urls.json (music/politics sections scanned; Getty v Stability not run in politics)."
-  }
+    "note": "Dropped as duplicates of published stories: Deux 4th album / AI-recreated Kim Sung-jae voice (Yonhap) = same as newsis 11-10; Spotify remix-tool backlash (DMN) = reactions to the already-published Spotify AI remix tool (10-21, 11-02); Logic Pro 13 hands-on (CDM) = review of the Logic/Creator Studio AI assistant release already covered 10-28 and 11-10; Akai MPC SDK vibe-coding (MusicRadar) = likely-repeat of Verge 10-29 Akai vibe-coded MPC story; Reservoir v Suno/Anthropic amended suit was pre-dropped by story_dedup. Skipped on score (not dups): Nick Cave and Dr Dre/Ice Cube opinion pieces, Carmine Appice interview, GameSoundCon report, Blue Wave analysis, Yong Ho-sung AI album, two other arXiv papers. Outlets: Music Ally x2, Billboard, AI포스트, arXiv. Could not exact-grep published_urls.json (large file, no search tool); 50 Cent pick is music-only per the brief's cross-section assignment."
+  },
+  "items": [
+    {
+      "title": "Suno boss talks streaming fraud: 'AI music is not a crime'",
+      "url": "https://musically.com/2026/11/13/suno-boss-talks-streaming-fraud-ai-music-is-not-a-crime/",
+      "source": "Music Ally",
+      "tool": "Music",
+      "accent": "#ff2d55",
+      "motif": "sphere",
+      "rationale": "Suno CEO Mikey Shulman's first direct on-record answer to the AI-music = streaming-fraud charge, as Suno faces label and DSP pressure; new statement, not the 10-22 guest column.",
+      "published_iso": "2026-11-13T12:30:00+00:00",
+      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-31.png?fit=2000%2C1500&ssl=1",
+      "excerpt": "Suno CEO Mikey Shulman criticised the 'sleight of hand' of equating streaming fraud with AI music, and said Suno is doing more behind the scenes to tackle fraud than people realise."
+    },
+    {
+      "title": "50 Cent Trolls Former Nvidia CEO Jensen Huang's Affair With 'P.I.M.P.' Music Video AI Deepfake",
+      "url": "https://www.billboard.com/music/rb-hip-hop/50-cent-trolls-former-nvidia-ceo-jensen-huang-pimp-video-ai-1236381001/",
+      "source": "Billboard",
+      "tool": "Music",
+      "accent": "#0070f3",
+      "motif": "sphere",
+      "rationale": "High-profile artist using a generative-video deepfake of a real public figure in a music-video remake; music-only per the 11-15 cross-section assignment.",
+      "published_iso": "2026-11-13T01:38:19+00:00",
+      "og_image": "https://www.billboard.com/wp-content/uploads/2026/10/2287163263-e1792696512839.jpg?w=1024",
+      "excerpt": "50 Cent posted an AI deepfake remake of his 'P.I.M.P.' music video starring former Nvidia CEO Jensen Huang, the latest high-profile artist use of generative video for a music clip."
+    },
+    {
+      "title": "AI 노래가 전화 화면까지 들어온다…민티파이 운영사 뮤직플랫, V 컬러링 서비스 시작",
+      "url": "https://www.aipostkorea.com/news/articleView.html?idxno=13276",
+      "source": "AI포스트",
+      "tool": "Music",
+      "accent": "#7928ca",
+      "motif": "sphere",
+      "rationale": "New distribution channel launch: AI-made songs now supplied to all three Korean carriers' V Coloring call-connect video service — a concrete outlet for AI music creators.",
+      "published_iso": "2026-11-12T15:57:18+09:00",
+      "og_image": "https://cdn.aipostkorea.com/news/photo/202611/13276_24022_5651.png",
+      "excerpt": "AI 음원 유통 서비스 민티파이(뮤직플랫)가 통신 3사의 통화 연결 영상 서비스 V 컬러링·V 프로필에 AI로 만든 노래를 공급하기 시작했다."
+    },
+    {
+      "title": "Can Music Generation Models Tap Along? Evaluating Generative Approaches to Beat Tracking",
+      "url": "https://arxiv.org/abs/2611.14971",
+      "source": "arXiv",
+      "tool": "Music",
+      "accent": "#2ec5c5",
+      "motif": "sphere",
+      "rationale": "New research: an audio-conditioning adapter turns MusicGen into an accompanist that drums along to an input song, doubling as a beat tracker — a distinct paper from the 11-12 MusicFlux card.",
+      "published_iso": "2026-11-11T03:32:03Z",
+      "og_image": null,
+      "excerpt": "Researchers add an audio-conditioning adapter to a pretrained MusicGen model so it generates percussion tracks synchronized to an input song, then extract beat positions from them."
+    },
+    {
+      "title": "AI-powered label PaRa Music says it's identified the next big Indian regional music sub-genre",
+      "url": "https://musically.com/2026/11/12/ai-powered-label-para-music-says-its-identified-the-next-big-indian-regional-music-sub-genre/",
+      "source": "Music Ally",
+      "tool": "Music",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "rationale": "AI used for A&R: PaRa Music's in-house PaRaMeter platform reads demand data to steer label investment and claims to have spotted the next regional sub-genre — a fresh angle not in the 30-day history.",
+      "published_iso": "2026-11-12T20:00:11+00:00",
+      "og_image": "https://musically.com/wp-content/uploads/2026/06/PaRa-Music-logo.jpg",
+      "excerpt": "Indian label PaRa Music uses its in-house AI platform PaRaMeter to analyse audience behaviour and demand patterns to guide A&R investment, and now claims it has spotted the next regional sub-genre."
+    }
+  ]
 }

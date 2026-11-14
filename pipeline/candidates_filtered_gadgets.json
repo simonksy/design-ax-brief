@@ -1,16 +1,32 @@
 {
   "section": "gadgets",
-  "now_iso": "2026-11-13T22:03:00Z",
+  "now_iso": "2026-11-14T22:00:43Z",
   "window_hours": 336,
   "items": [
     {
-      "title": "The UGREEN HomeAgent is a 'local-first' way to make your smart home even smarter",
-      "url": "https://9to5google.com/2026/11/13/the-ugreen-homeagent-is-a-local-first-way-to-make-your-smart-home-even-smarter/",
-      "source": "9to5Google",
+      "title": "I Let My Apple Watch Eavesdrop on My Conversations for 2 Weeks",
+      "url": "https://www.cnet.com/tech/mobile/apple-watch-audio-intelligence-hands-on-privacy-tes/",
+      "source": "CNET",
       "category": "gadgets",
-      "published_iso": "2026-11-13T21:23:59+00:00",
-      "excerpt": "Smart home tech often relies solely on cloud connections and pricey AI subscriptions, but UGREEN is delivering a local-first solution...",
-      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/ugreen-homeagent-1.jpg?quality=82&strip=all&resize=1200,628"
+      "published_iso": "2026-11-14T11:00:10-05:00",
+      "excerpt": "CNET tested Apple's new AI note-taking 'Audio Intelligence' features in watchOS 27.3 for two weeks, letting the Apple Watch listen to and summarize conversations, and weighs the usefulness against privacy and sanity costs.",
+      "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/AudioIntelligence.jpg",
+      "history_match": {
+        "score": 0.198,
+        "date": "2026-11-04",
+        "url": "https://www.macrumors.com/2026/11/03/watchos-27-3-audio-intelligence/",
+        "title": "watchOS 27.3 Brings Live Rewind and Siri Recap to Apple Watch",
+        "band": "related"
+      }
+    },
+    {
+      "title": "GR00T 2 learns skills from human video and runs them on robots that never practiced them",
+      "url": "https://the-gadgeteer.com/2026/11/14/gr00t-2-learns-skills-from-human-video-and-runs-them-on-robots-that-never-practiced-them/",
+      "source": "The Gadgeteer",
+      "category": "gadgets",
+      "published_iso": "2026-11-14T12:44:19-06:00",
+      "excerpt": "GR00T 2 predicts the next few seconds of video before it moves. A robot running it learns skills from human demonstrations, then carries those skills to",
+      "og_image": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-hero2.jpg"
     },
     {
       "title": "Forget getting a puppy for Christmas — these 9 AI robot pets might be the cutest gifts of 2026",
@@ -18,115 +34,24 @@
       "source": "TechRadar",
       "category": "gadgets",
       "published_iso": "2026-11-13T21:00:00Z",
-      "excerpt": "Forget man's best friend — meet man's new AI best friend",
+      "excerpt": "TechRadar rounds up nine AI-powered robot pets for the 2026 holiday season, from desk companions to robotic dogs, comparing what their AI personalities and sensors actually do.",
       "og_image": "https://cdn.mos.cms.futurecdn.net/tLfetYMssKohQCAmLz6h4k-2560-80.jpg"
     },
     {
-      "title": "Gemini's AI task automation will work with dozens of apps on Galaxy phones",
-      "url": "https://www.sammobile.com/news/geminis-ai-task-automation-will-work-with-dozens-of-apps-on-galaxy-phones/",
-      "source": "SamMobile",
-      "category": "gadgets",
-      "published_iso": "2026-11-13T11:49:12+00:00",
-      "excerpt": "Google's Gemini Task Automation feature will soon work with 134 apps on select Galaxy phones and tablets running Android 17 or newer.",
-      "og_image": "https://www.sammobile.com/wp-content/uploads/2026/07/Galaxy-Z-Fold-8-Ultra-Gemini.jpg",
-      "history_match": {
-        "score": 0.15,
-        "date": "2026-11-02",
-        "url": "https://www.androidauthority.com/gemini-overlay-sparkling-animation-rollout-3729835/",
-        "title": "Google is giving Gemini's overlay a literal sparkle on your Android phone",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Google's Gemini glasses redact faces before the AI sees them",
-      "url": "https://www.notebookcheck.net/Google-s-Gemini-glasses-redact-faces-before-the-AI-sees-them.1449500.0.html",
-      "source": "Notebookcheck",
-      "category": "gadgets",
-      "published_iso": "2026-11-13T15:00:00+01:00",
-      "excerpt": "Google is taking pre-orders in the US and South Korea for its first glasses with Gemini, built with Samsung, Warby Parker and Gentle Monster. The glasses are designed to redact bystanders' faces before Gemini analyzes a camera image. Here is what Google promises on privacy, what it leaves open and w",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/gemini-brille-google-teaser.jpg",
-      "history_match": {
-        "score": 0.32,
-        "date": "2026-11-06",
-        "url": "https://www.androidauthority.com/samsung-smart-glasses-pre-orders-3732159/",
-        "title": "Samsung Android XR smart glasses pre-orders get started on November 12",
-        "band": "related"
-      }
-    },
-    {
-      "title": "I tried Google’s AI glasses and Meta’s finally got real competition",
-      "url": "https://www.theverge.com/tech/1031647/google-android-xr-warby-parker-gentle-monster-hands-on",
-      "source": "The Verge",
-      "category": "gadgets",
-      "published_iso": "2026-11-12T14:00:00+00:00",
-      "excerpt": "Where Meta’s privacy policy is reactive, Google’s approach is proactive.",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/androidxr8.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-    },
-    {
-      "title": "Snapdragon AR1 powers Samsung and Google's new Warby Parker and Gentle Monster glasses",
-      "url": "https://the-gadgeteer.com/2026/11/12/snapdragon-ar1-samsung-intelligent-eyewear/",
-      "source": "The Gadgeteer",
-      "category": "gadgets",
-      "published_iso": "2026-11-12T09:22:24-06:00",
-      "excerpt": "Qualcomm's Snapdragon AR1 Gen 1 powers every pair of Samsung's new Intelligent Eyewear, and it's the chip that lets frames weighing about 41 grams run a 12MP",
-      "og_image": "https://the-gadgeteer.com/wp-content/uploads/2026/11/hero-collage-1.jpg",
-      "history_match": {
-        "score": 0.288,
-        "date": "2026-11-13",
-        "url": "https://news.samsung.com/global/samsung-announces-december-release-for-intelligent-eyewear-bringing-a-smarter-way-to-see-the-world",
-        "title": "Samsung Announces December Release for Intelligent Eyewear, Bringing a Smarter Way To See the World",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Your Wear OS watch can now run Meta’s Muse AI agent",
-      "url": "https://www.androidauthority.com/meta-muse-ai-wear-os-3733785/",
-      "source": "Android Authority",
-      "category": "gadgets",
-      "published_iso": "2026-11-11T10:34:58+00:00",
-      "excerpt": "Meta’s Muse AI agent now works on Wear OS smartwatches, reaching Android users' wrists before Meta’s own Charm wearable arrives.",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/11/meta-muse-ai-voice-conversations-hero-image.jpg",
-      "history_match": {
-        "score": 0.439,
-        "date": "2026-11-10",
-        "url": "https://www.macrumors.com/2026/11/09/meta-muse-apple-watch/",
-        "title": "Meta's Muse AI Agent Comes to Apple Watch",
-        "band": "likely-repeat"
-      }
-    },
-    {
-      "title": "I ditched my MacBook Pro for Lenovo's Yoga 9n 2-in-1 — here's what happened",
-      "url": "https://www.tomsguide.com/computing/laptops/lenovo-yoga-9n-2-in-1-review",
+      "title": "I found a free AI trick that could make your old smart TV feel new again",
+      "url": "https://www.tomsguide.com/ai/i-found-a-free-ai-trick-that-could-make-your-old-smart-tv-feel-new-again",
       "source": "Tom's Guide",
       "category": "gadgets",
-      "published_iso": "2026-11-12T10:30:00Z",
-      "excerpt": "The Lenovo Yoga 9n features a great OLED screen, pen support, and local AI. However, low gaming performance and high pricing keep it behind the MacBook Pro.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/ZgVM5EFtsDn4f2hoUNDZwU-2560-80.jpg",
+      "published_iso": "2026-11-14T05:00:00Z",
+      "excerpt": "Thinking about a new smart TV? Give this free AI setup a try first, it could give yours an upgrade",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/QrtkhGxhN7NwDHqSoLoTnD-2560-80.jpg",
       "history_match": {
-        "score": 0.163,
-        "date": "2026-10-28",
-        "url": "https://www.tomsguide.com/computing/macbooks/apple-reveals-m6-macbook-pro-for-pro-and-tell-week-heres-everything-thats-new",
-        "title": "Apple MacBook Pro M6 just unveiled with 30% faster graphics, 25% faster AI and up to 24 hours of battery life",
+        "score": 0.242,
+        "date": "2026-10-20",
+        "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
+        "title": "People are using AI to make their smart TVs dumb again",
         "band": "related"
       }
-    },
-    {
-      "title": "Kamrui P2 AI mini PC review: Practical AI performance in a micro footprint",
-      "url": "https://www.digitaltrends.com/computing/kamrui-mini-pc/",
-      "source": "Digital Trends",
-      "category": "gadgets",
-      "published_iso": "2026-11-12T08:23:00-08:00",
-      "excerpt": "Modern compact desktops offer serious performance and high value without taking up your entire desk. The era of needing a massive desktop tower for daily office computing is officially behind us. Small form factor machines have evolved from compromised, low-power terminals into genuinely capable wor",
-      "og_image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/landscape_tech_workspace.jpg?resize=1200%2C630&ssl=1"
-    },
-    {
-      "title": "Rumored Apple Smart Glasses Mentioned in Supplier's Earnings Briefing",
-      "url": "https://www.macrumors.com/2026/11/11/apple-smart-glasses-mentioned-by-suppliers/",
-      "source": "MacRumors",
-      "category": "gadgets",
-      "published_iso": "2026-11-11T13:49:50+00:00",
-      "excerpt": "Apple's rumored smart glasses and AirPods with cameras may have been referenced by Chinese manufacturing equipment supplier Quick Intelligent Equipment, according to a Securities Times report on the company's quarterly earnings briefing. The company claimed it has been involved in \"Apple's AI glasse",
-      "og_image": "https://images.macrumors.com/t/9uJqMj4VFJjMbPcQi5cTqaPUB18=/2500x/article-new/2021/01/Apple-Glasses-Triad-Feature.jpg"
     },
     {
       "title": "Nothing's screen-less new gadget really looks like yet another AI recorder",
@@ -143,7 +68,7 @@
         "title": "Nothing teases a screen-free AI device ahead of launch next month",
         "band": "related"
       },
-      "cluster": "c10"
+      "cluster": "c4"
     },
     {
       "title": "Nothing’s First AI Gadget Needs to Break the Mold",
@@ -151,179 +76,147 @@
       "source": "Gizmodo",
       "category": "gadgets",
       "published_iso": "2026-11-12T16:05:42+00:00",
-      "excerpt": "Does the world really need another Bluetooth microphone?",
+      "excerpt": "Gizmodo argues Nothing's upcoming first AI-native, screen-less gadget, teased for a December launch, has to be more than another Bluetooth microphone/AI recorder to justify itself.",
       "og_image": "https://gizmodo.com/app/uploads/2026/11/nothing-ai-gadget-1200x675.jpg",
-      "cluster": "c10"
-    },
-    {
-      "title": "Next-gen processors are leaving Google's Tensor in the dust",
-      "url": "https://www.androidauthority.com/2026-processors-vs-google-tensor-3721326/",
-      "source": "Android Authority",
-      "category": "gadgets",
-      "published_iso": "2026-11-11T10:00:08+00:00",
-      "excerpt": "Compare the latest flagship smartphone processors from Qualcomm, Apple, MediaTek, and Google to see why Tensor is falling further behind its rivals.",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/10/2026-flagship-smartphones-scaled.jpg"
-    },
-    {
-      "title": "Christian Linux project plans $449 phone with AI-powered Bible study",
-      "url": "https://www.notebookcheck.net/Christian-Linux-project-plans-449-phone-with-AI-powered-Bible-study.1445691.0.html",
-      "source": "Notebookcheck",
-      "category": "gadgets",
-      "published_iso": "2026-11-09T11:45:00+01:00",
-      "excerpt": "Can faith and artificial intelligence come together in a new operating system? Jesus Dash is an ambitious Christian technology project combining Linux, AI-powered assistance, and religious resources. Its founder is also developing a $449 smartphone called PineCone, targeting early 2027. Some applica",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Golden-Codex-Smartphone-Showcase.png",
       "history_match": {
-        "score": 0.182,
-        "date": "2026-11-11",
-        "url": "https://www.wired.com/story/kora-new-linux-based-desktop-operating-system-is-built-for-ai-nerds/",
-        "title": "This New Linux-Based Desktop Operating System Is Built for AI Nerds",
+        "score": 0.258,
+        "date": "2026-11-05",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
+        "title": "Nothing teases a screen-free AI device ahead of launch next month",
         "band": "related"
-      }
+      },
+      "cluster": "c4"
     },
     {
-      "title": "Samsung Health will offer hyper-personalized insights in the future",
-      "url": "https://www.sammobile.com/news/samsung-health-hyper-personalized-ai-insights-future/",
-      "source": "SamMobile",
+      "title": "What does an NPU do and why do so many laptops have them?",
+      "url": "https://www.engadget.com/2311854/what-is-npu-why-many-laptops-have-them/",
+      "source": "Engadget",
       "category": "gadgets",
-      "published_iso": "2026-11-12T13:56:40+00:00",
-      "excerpt": "Samsung will upgrade Samsung Health with hyper-personalized AI insights across diet, fitness, and sleep using wearable data.",
-      "og_image": "https://www.sammobile.com/wp-content/uploads/2026/07/Galaxy-Z-Flip-8-Samsung-Health.jpg",
-      "history_match": {
-        "score": 0.283,
-        "date": "2026-11-03",
-        "url": "https://www.androidauthority.com/chatgpt-health-google-health-integration-apk-teardown-3730462/",
-        "title": "ChatGPT could soon turn your Android health data into something you can actually use",
-        "band": "related"
-      }
+      "published_iso": "2026-11-14T18:00:00+00:00",
+      "excerpt": "Engadget explains what a neural processing unit actually does in modern laptops, which on-device AI features use it, and whether buyers need one.",
+      "og_image": "https://www.engadget.com/img/gallery/what-does-an-npu-do-and-why-do-so-many-laptops-have-them/l-intro-1794310250.jpg"
     },
     {
-      "title": "I Saw the Future of Robotics in a Virtual Duck That Chases My Cat",
-      "url": "https://www.wired.com/story/i-trained-a-microduck-to-be-my-cats-butler/",
-      "source": "WIRED",
-      "category": "gadgets",
-      "published_iso": "2026-11-11T19:55:54.484Z",
-      "excerpt": "An OpenAI model helped me teach the Microduck to waddle and moonlight as a tiny cat butler.",
-      "og_image": "https://media.wired.com/photos/6af37240c46e83fb6f2598a7/191:100/w_1280,c_limit/AI-Lab-I-Trained-Simulated-Microduck-to-Dance-and-Do-Other-Fun-Things-Business.jpg"
-    },
-    {
-      "title": "I'd rather use Android XR glasses over Meta Ray-Bans for the app alone",
-      "url": "https://9to5google.com/2026/11/13/id-rather-use-android-xr-glasses-over-meta-ray-bans-for-the-app-alone/",
-      "source": "9to5Google",
-      "category": "gadgets",
-      "published_iso": "2026-11-13T13:30:00+00:00",
-      "excerpt": "In trying out Google’s Intelligent Eyewear Android XR glasses for the first time, one of my main takeaways is that...",
-      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/android-xr-glasses-app-7.jpg?quality=82&strip=all&resize=1200,628",
-      "history_match": {
-        "score": 0.291,
-        "date": "2026-10-17",
-        "url": "https://www.androidauthority.com/hey-gemini-camera-activation-android-xr-3724200/",
-        "title": "Google’s next Gemini trick could change how you use Android XR glasses",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Samsung’s free Galaxy AI ride might be ending. Get ready to pay $5 for it",
-      "url": "https://www.digitaltrends.com/phones/samsungs-free-galaxy-ai-ride-might-be-ending-get-ready-to-pay-5-for-it/",
+      "title": "Perplexity Teammates bring autonomous AI agents to the Mac app",
+      "url": "https://www.digitaltrends.com/computing/perplexity-teammates-bring-autonomous-ai-agents-to-the-mac-app/",
       "source": "Digital Trends",
       "category": "gadgets",
-      "published_iso": "2026-11-09T02:45:06-08:00",
-      "excerpt": "Samsung is reportedly testing a Galaxy AI Premium subscription with a $4.99 monthly plan, new AI video generation and Bixby automation tools, and usage limits that could change how existing free features work.",
-      "og_image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2024/08/samsung-galaxy-ai-phone-2.jpg?resize=1200%2C630&ssl=1",
+      "published_iso": "2026-11-13T21:16:43-08:00",
+      "excerpt": "Perplexity brings AI Teammates to Mac, letting Max subscribers delegate ongoing tasks to autonomous agents that work in the background.",
+      "og_image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Perplexity-teammates-feature.jpg?resize=1200%2C630&ssl=1",
       "history_match": {
-        "score": 0.218,
-        "date": "2026-10-17",
-        "url": "https://news.samsung.com/global/samsung-expands-language-support-across-ai-experiences-on-galaxy",
-        "title": "Samsung Expands Language Support Across AI Experiences on Galaxy",
+        "score": 0.241,
+        "date": "2026-10-21",
+        "url": "https://www.engadget.com/2291754/perplexity-makes-it-easier-to-run-ai-workflows-entirely-on-your-mac/",
+        "title": "Perplexity makes it easier to run AI workflows entirely on your own Mac",
         "band": "related"
       }
     },
     {
-      "title": "MSI's MEG X OLED gaming monitor comes with AI lighting that mimics your health bar",
-      "url": "https://www.notebookcheck.net/MSI-s-MEG-X-OLED-gaming-monitor-comes-with-AI-lighting-that-mimics-your-health-bar.1447236.0.html",
-      "source": "Notebookcheck",
+      "title": "1994 Jeep Cherokee owner hacks 32-year-old car with Claude AI to pass California smog tests — enthusiast reverse-engineered the ancient ECU for diagnostics and control",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/1994-jeep-cherokee-owner-hacks-32-year-old-car-with-claude-ai-to-pass-california-smog-tests-enthusiast-reverse-engineered-the-ancient-ecu-for-diagnostics-and-control",
+      "source": "Tom's Hardware",
       "category": "gadgets",
-      "published_iso": "2026-11-10T19:43:00+01:00",
-      "excerpt": "(Not a new launch) MSI has expanded its OLED gaming monitor portfolio with the MEG X. It comes with some unique AI features that bring game integrations, durability improvements, and other gaming advantages.",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/msi-meg-x-launch.jpg"
-    },
-    {
-      "title": "Google is officially entering its 'Hey Gemini' era",
-      "url": "https://www.androidauthority.com/hey-gemini-3734702/",
-      "source": "Android Authority",
-      "category": "gadgets",
-      "published_iso": "2026-11-12T22:41:39+00:00",
-      "excerpt": "Google's Intelligent Eyewear smart glasses from Samsung, Gentle Monster, and Warby Parker introduce support for the \"Hey Gemini\" wake word.",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2024/02/Google-Gemini-logo-on-smartphone-stock-photo-2.jpg",
+      "published_iso": "2026-11-13T10:30:00Z",
+      "excerpt": "A 1994 Jeep Cherokee owner used Claude and Codex plus about $15 of hardware (an Arduino) to reverse-engineer the car's ancient ECU for diagnostics and control and pass California smog tests.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/BZRHW5BTLyqX6i4nsjHfrH-1920-80.jpg",
       "history_match": {
-        "score": 0.233,
-        "date": "2026-11-13",
-        "url": "https://news.samsung.com/global/samsung-announces-december-release-for-intelligent-eyewear-bringing-a-smarter-way-to-see-the-world",
-        "title": "Samsung Announces December Release for Intelligent Eyewear, Bringing a Smarter Way To See the World",
+        "score": 0.15,
+        "date": "2026-11-05",
+        "url": "https://www.androidauthority.com/claude-nordictrack-treadmill-ifit-subscription-3731515/",
+        "title": "This treadmill owner used Claude to escape a subscription trap, and it's glorious",
         "band": "related"
       }
     },
     {
-      "title": "애플 글래스·카메라 에어팟 나온다…내년 출시 전망",
-      "url": "https://zdnet.co.kr/view/?no=20261112085106",
-      "source": "ZDNet Korea",
+      "title": "[CES 2027] 최고혁신상 60% 韓 차지…로봇·AI칩",
+      "url": "https://www.etnews.com/20261110000251",
+      "source": "전자신문 (etnews)",
       "category": "gadgets",
-      "published_iso": "2026-11-12T10:03:31+09:00",
-      "excerpt": "애플의 스마트 안경 '애플 글래스'(가칭)에 대한 소문이 끊이지 않고 있지만, 구체적인 정보는 아직 베일에 싸여 있다. 이런 가운데 중국 공급업체가 애플 글래스와 카메라가 내장된 에어팟 개발에 참여하고 있다는 사실을 공개해 주목된다.폰아레나, 애플인사이더 등 외신은 11일...",
-      "og_image": "https://image.zdnet.co.kr/2021/01/07/0c56d92341f5b25b39f20eb32e1a804c.png"
+      "published_iso": "2026-11-10T16:00:00+09:00",
+      "excerpt": "CES 2027 혁신상 발표에서 한국 기업이 최고혁신상의 60%를 차지했지만, 로봇과 AI 칩 부문 최고 영예는 중국·미국 기업이 가져갔다는 분석.",
+      "og_image": "https://img.etnews.com/news/article/2026/11/10/news-p.v1.20261110.5fdedf20293c4a21af1be6aa3526c5f6_P1.jpg"
     },
     {
-      "title": "K-온디바이스, 2030년까지 자율주행 AI칩 등 10종 개발",
-      "url": "https://zdnet.co.kr/view/?no=20261112092039",
-      "source": "ZDNet Korea",
+      "title": "Would you buy your kids an AI teddy bear? I'm a tech-loving parent but I don't trust these toys — and a new report backs me up",
+      "url": "https://www.techradar.com/tech/would-you-buy-your-kids-an-ai-teddy-bear-im-a-tech-loving-parent-but-i-dont-trust-these-toys-and-a-new-report-backs-me-up",
+      "source": "TechRadar",
       "category": "gadgets",
-      "published_iso": "2026-11-12T11:00:02+09:00",
-      "excerpt": "산업통상부(이하 산업부)는 서울 포시즌스호텔에서 수요기업, 팹리스, 파운드리, 반도체 IP기업 등 산·학·연 관계자 150여명이 참석한 가운데 '2026년 AI반도체 M.AX 얼라이언스 하반기 총회'를 개최한다고 12일 밝혔다.이번 총회에서는 지난 6월 착수한 8002억원...",
-      "og_image": "https://image.zdnet.co.kr/2025/12/24/4087fba0fbe8adfb1223182b5f81dd40.jpg"
+      "published_iso": "2026-11-07T09:00:00Z",
+      "excerpt": "A new report raises fresh safety concerns about AI-powered teddy bears and chatbot toys for young children ahead of the holiday season; TechRadar's parent-reviewer explains why she doesn't trust them.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/dxbkzTCXsocDbUjvNVtcyE-2560-80.jpg"
+    },
+    {
+      "title": "The Amazon Alexa Photo Frame made me cry — in a good way",
+      "url": "https://www.tomsguide.com/home/smart-home/amazon-alexa-photo-frame-review",
+      "source": "Tom's Guide",
+      "category": "gadgets",
+      "published_iso": "2026-11-10T08:30:00Z",
+      "excerpt": "Tom's Guide reviews the Amazon Alexa Photo Frame, which uses AI to curate and present large photo libraries; best for Amazon Prime subscribers.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/tXyKm3ACySBpNC5czuUM2j-2560-80.jpg",
+      "history_match": {
+        "score": 0.175,
+        "date": "2026-11-09",
+        "url": "https://the-gadgeteer.com/2026/11/08/amazons-alexa-tablet-12-pro-ditches-fire-os-for-real-android-at-499-99/",
+        "title": "Amazon’s Alexa Tablet 12 Pro ditches Fire OS for real Android",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Open source project renders your Windows 11 desktop using the NPU rather than the GPU — ‘npu-driver’ can only run at 2 to 3 Hz, targets 30 Hz performance",
+      "url": "https://www.tomshardware.com/pc-components/gpu-drivers/open-source-project-renders-your-windows-11-desktop-using-the-npu-rather-than-the-gpu-npu-driver-can-only-run-at-2-to-3-hz-targets-30-hz-performance",
+      "source": "Tom's Hardware",
+      "category": "gadgets",
+      "published_iso": "2026-11-04T12:00:00Z",
+      "excerpt": "Developer is aiming for 30 Hz performance on Intel Panther Lake NPUs but the current version of this research driver is only achieving 2 to 3 Hz.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/Ro4sQLyJUnVjqu8DK7qu85-1920-80.jpg"
+    },
+    {
+      "title": "UK weighs ban on Meta Ray-Bans and other smart glasses, citing 'secret filming'",
+      "url": "https://www.tomsguide.com/computing/smart-glasses/uk-weighs-ban-on-meta-ray-bans-and-other-smart-glasses-citing-secret-filming",
+      "source": "Tom's Guide",
+      "category": "gadgets",
+      "published_iso": "2026-11-05T18:50:32Z",
+      "excerpt": "The UK is weighing restrictions or a ban on camera-equipped AI smart glasses such as Meta Ray-Bans over secret-filming concerns, saying benefits must be weighed against harms.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/Rc4R7JjcZAset7o4ViCUnL-2000-80.jpg",
+      "history_match": {
+        "score": 0.26,
+        "date": "2026-10-27",
+        "url": "https://www.notebookcheck.net/Ray-Ban-Meta-How-to-stop-your-glasses-from-training-AI.1430044.0.html",
+        "title": "Ray-Ban Meta: How to stop your glasses from training AI",
+        "band": "related"
+      }
     }
   ],
   "dedup": {
-    "dropped": 2,
-    "kept": 20,
+    "dropped": 0,
+    "kept": 15,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
-    "dropped": [],
-    "review": 11,
+    "dropped": [
+      {
+        "url": "https://www.techradar.com/pro/timekettle-livetalk-ai-translation-earbuds-review",
+        "title": "Timekettle LiveTalk AI Translation Earbuds review",
+        "match": {
+          "score": 0.507,
+          "date": "2026-10-22",
+          "url": "https://www.androidauthority.com/timekettle-livetalk-ai-translation-earbuds-hands-on-3722945/",
+          "title": "The Timekettle LiveTalk earbuds can play audio, translate, and help you learn a language"
+        }
+      }
+    ],
+    "review": 8,
     "same_story_pairs": [
       [
         "https://9to5google.com/2026/11/12/nothings-screen-less-new-gadget-really-looks-like-yet-another-ai-recorder/",
         "https://gizmodo.com/nothings-ai-gadget-rumors-2000838888",
-        0.353
+        0.401
       ]
     ]
   },
   "history_digest": [
-    {
-      "date": "2026-10-15",
-      "title": "Android will use Gemini to warn you about scammy messages",
-      "url": "https://www.engadget.com/2286355/android-will-use-gemini-to-warn-you-about-scammy-messages/"
-    },
-    {
-      "date": "2026-10-15",
-      "title": "Apple Intelligence Coming to China in December With iOS 27.3",
-      "url": "https://www.macrumors.com/2026/10/14/apple-intelligence-china-ios-27-3/"
-    },
-    {
-      "date": "2026-10-15",
-      "title": "HMD brings AI companionship to a basic flip phone, complete with a recurring subscription",
-      "url": "https://www.notebookcheck.net/HMD-brings-AI-companionship-to-a-basic-flip-phone-complete-with-a-recurring-subscription.1423960.0.html"
-    },
-    {
-      "date": "2026-10-15",
-      "title": "Apple researchers turn idle Macs into a virtual GPU cloud with ‘Minions’",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/apple-researchers-turn-idle-macs-into-a-virtual-gpu-cloud-with-minions-researchers-say-the-distributed-scheme-could-scale-globally-and-support-model-training"
-    },
-    {
-      "date": "2026-10-15",
-      "title": "Google lets you make personal Android apps for free now – with just prompts",
-      "url": "https://www.zdnet.com/tech/custom-android-apps-google-ai-studio/"
-    },
     {
       "date": "2026-10-16",
       "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
@@ -998,6 +891,31 @@
       "date": "2026-11-13",
       "title": "Windows 11 Photos is getting Adobe's generative AI tools in December",
       "url": "https://www.notebookcheck.net/Windows-11-Photos-is-getting-Adobe-s-generative-AI-tools-in-December.1447789.0.html"
+    },
+    {
+      "date": "2026-11-14",
+      "title": "Your Wear OS watch can now run Meta’s Muse AI agent",
+      "url": "https://www.androidauthority.com/meta-muse-ai-wear-os-3733785/"
+    },
+    {
+      "date": "2026-11-14",
+      "title": "Samsung’s free Galaxy AI ride might be ending. Get ready to pay $5 for it",
+      "url": "https://www.digitaltrends.com/phones/samsungs-free-galaxy-ai-ride-might-be-ending-get-ready-to-pay-5-for-it/"
+    },
+    {
+      "date": "2026-11-14",
+      "title": "Rumored Apple Smart Glasses Mentioned in Supplier's Earnings Briefing",
+      "url": "https://www.macrumors.com/2026/11/11/apple-smart-glasses-mentioned-by-suppliers/"
+    },
+    {
+      "date": "2026-11-14",
+      "title": "Christian Linux project plans $449 phone with AI-powered Bible study",
+      "url": "https://www.notebookcheck.net/Christian-Linux-project-plans-449-phone-with-AI-powered-Bible-study.1445691.0.html"
+    },
+    {
+      "date": "2026-11-14",
+      "title": "Gemini's AI task automation will work with dozens of apps on Galaxy phones",
+      "url": "https://www.sammobile.com/news/geminis-ai-task-automation-will-work-with-dozens-of-apps-on-galaxy-phones/"
     }
   ]
 }

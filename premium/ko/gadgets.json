@@ -17373,6 +17373,163 @@
           "x": "두 컬렉션 모두 2026년 12월 10일부터 미국(U.S.)에서 팔리고, Gentle Monster Intelligent Eyewear는 한국에서도 나온다. 미국(U.S.) 가격은 Warby Parker Intelligent Eyewear가 $395부터, Gentle Monster Intelligent Eyewear가 모델에 따라 $449에서 $489 사이다."
         }
       ]
+    },
+    "gadgets/perplexity-teammates-mac": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Perplexity-teammates-feature.jpg?resize=1200%2C720&ssl=1",
+          "cap": "Perplexity"
+        },
+        {
+          "t": "p",
+          "x": "Perplexity 팀메이트(teammates)는 사용자가 진행 중인 업무를 맡아 처리하는 AI 에이전트 팀이다. AI를 일일이 이끌고 붙잡아 줄 필요 없이 팀메이트 에이전트에게 작업을 배정하면 에이전트가 백그라운드에서 알아서 처리한다. 그로스 캠페인 운영, 들어오는 버그 리포트 분류, 지표 모니터링, 새 시장 조사 같은 일이다."
+        },
+        {
+          "t": "p",
+          "x": "에이전트는 작업을 계획하고 필요하면 에이전트를 더 붙인다. 일이 끝나 보고서가 준비되면 알려 준다. Perplexity는 지난주 웹에서 팀메이트를 출시했고 이번에 Mac 앱에도 넣었다."
+        },
+        {
+          "t": "p",
+          "x": "이런 에이전트를 내놓은 AI 기업이 Perplexity가 처음은 아니다. Meta Muse와 ChatGPT Dots가 비슷한 일을 하고 Grok Bot도 마찬가지다. 이 에이전트들은 저마다 클라우드 컴퓨팅 인스턴스에서 돌아가서 컴퓨터를 닫아도 일을 멈추지 않는다. 서로 소통하고 작업마다 전용 채널을 만들며 끊임없이 감독하지 않아도 된다."
+        },
+        {
+          "t": "p",
+          "x": "이 기능은 월 200달러짜리 Perplexity Max 요금제 사용자만 쓸 수 있다."
+        }
+      ]
+    },
+    "gadgets/jeep-cherokee-claude-ecu": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "한 AI 애호가가 AI의 도움과 약간의 전자 배선 실력만으로 오래된 1994년식 Jeep Cherokee를 캘리포니아 배출가스(스모그) 검사에 통과시켰다. 32년 된 이 차의 엔진 컴퓨터는 원시적이었지만 Arduino Nano 보드로 노트북에 물리자 여러 설정이 읽혔고, 끝내 제어까지 가능해졌다."
+        },
+        {
+          "t": "video",
+          "yt": "WPj3aQ-xxpI"
+        },
+        {
+          "t": "p",
+          "x": "영상은 Muhammad Zulali의 Jeep이 배출가스 검사에서 잇달아 떨어진 뒤 엔진 배출 문제를 튜닝해 고치기까지의 과정을 담았다. 방향은 Claude가 잡았고 필요한 코드는 Codex가 전부 짰다. 이 Jeep은 특정 검사 속도에서 NOx를 너무 많이 내뿜었고, 재검사 비용은 한 번에 100달러 가까이 들었다. 해결에는 3달러짜리 마이크로컨트롤러가 쓰였고 부품값은 다 합쳐 15달러를 넘지 않았다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/uWPfVwnAzVfG87r5UBkxc5.jpg",
+          "cap": "(이미지 출처: Muhammad Zulali)"
+        },
+        {
+          "t": "p",
+          "x": "Claude는 이 엔진이 약 7,800보드의 Chrysler SCI 버스로 통신하는데 일반 시리얼 포트와는 전기적으로 반전돼 있다고 짚어 줬다. 반전은 Cherokee의 6핀 진단 플러그에 연결한 Arduino Nano가 처리했다. Claude는 이어 시속 25마일과 50마일로 달리는 동안 엔진 데이터와 고장 코드를 기록했다. ECU가 몇 달 차이로 재플래싱을 지원하지 못하는 구형이라 Codex가 근처 EEPROM에 맞춤 코드를 심어 실행했다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/MEhj2kjie9xAZfBevnC5jT.jpg",
+          "cap": "(이미지 출처: Muhammad Zulali)"
+        },
+        {
+          "t": "p",
+          "x": "Zulali는 “진단 작업은 대부분 Claude가, 메모리 작업은 거의 전부 Codex가 했다”며 “나는 배선과 운전만 했다”고 말했다. 프로젝트 xj-scanner는 GPLv3 라이선스로 GitHub에 공개됐다."
+        }
+      ]
+    },
+    "gadgets/ces2027-innovation-awards-korea": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.etnews.com/news/article/2026/11/10/news-p.v1.20261110.5fdedf20293c4a21af1be6aa3526c5f6_P1.jpg",
+          "cap": "CES 2027 최고 혁신상을 받은 세계 최초 투명·무선 TV 'LG 시그니처 올레드 T'"
+        },
+        {
+          "t": "p",
+          "x": "한국 기업이 'CES 2027' 최고혁신상 절반 이상을 휩쓸었다. 다만, 로봇과 인공지능(AI) 반도체 등 미래 산업 주도권이 걸린 분야 최고상은 중국과 미국이 가져갔다."
+        },
+        {
+          "t": "p",
+          "x": "미국소비자기술협회(CTA)는 9일(현지시간) CES 2027 혁신상 1차 수상작을 발표했다. 올해 출품작은 약 4000개로, 전년 대비 10% 늘어 역대 최대를 기록했다. AI·디지털헬스·로봇 등 3개 분야가 전체 출품작 25%를 차지했다. 1차 공개된 최고혁신상 38개를 국가별로 분류하면 한국이 24개(61%)로 가장 많았다. 미국 5개, 중국 4개가 뒤를 이었고 독일·스웨덴·캐나다·일본이 1개씩 받았다."
+        },
+        {
+          "t": "p",
+          "x": "삼성전자가 '갤럭시 Z 폴드8'과 '폴드8 울트라'로 모바일 부문 최고상 2개를 받았다. LG전자는 '시그니처 올레드 T6'로 CTA가 경매사 크리스티와 올해 신설한 아트테크 부문 최고상을 받았다. 슈올즈는 AI 신발 2종으로 접근성·장수와 패션테크 부문 정상에 올랐고, 에이아이비즈(AI) 등 스타트업·중소기업과 대학도 수상했다."
+        },
+        {
+          "t": "p",
+          "x": "출품이 74% 급증한 로봇 부문 최고상은 중국 휴머노이드 기업 갤봇 'ET1'에 돌아갔다. 미국은 5개에 그쳤지만 엔비디아가 '베라 CPU'와 'DLSS 5'로 컴퓨터 하드웨어·게이밍 부문을, 퀄컴은 XR 플랫폼으로 XR 부문 최고상을 받았다."
+        },
+        {
+          "t": "img",
+          "src": "https://img.etnews.com/news/article/2026/11/11/news-t.v1.20261111.298baa5937ea4e60934770e35f71167a_P1.png",
+          "cap": "한국·중국 ·미국 'CES 2027' 최고혁신상 수상 목록 (자료 : CTA)"
+        },
+        {
+          "t": "p",
+          "x": "전자업계 관계자는 “한국이 여러 부문에서 고르게 수상했다면 미국과 중국은 AI 반도체와 휴머노이드처럼 차세대 산업 핵심을 쥔 셈”이라고 말했다."
+        }
+      ]
+    },
+    "gadgets/alexa-photo-frame-review": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/Z4o6D9xUVqVPSaZ8NmqJX3.jpg",
+          "cap": "(이미지 출처: Future)"
+        },
+        {
+          "t": "p",
+          "x": "Tom's Guide 평가: Amazon Alexa Photo Frame은 AI로 방대한 사진 컬렉션을 똑똑하게 골라 깔끔하게 보여 준다. 다만 Amazon Prime 구독자에게 가장 잘 맞는다."
+        },
+        {
+          "t": "p",
+          "x": "설정을 마치고 처음 뜬 사진 가운데 하나는 16년 전 세상을 떠난 리뷰어의 아버지가 다람쥐에게 먹이를 주는 흑백 사진이었다. 제대로 쓰려면 Alexa+(월 19달러)나 Amazon Prime 구독(연 149달러)이 필요하다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/S67kv6Bww23UK4MwXUdanF.jpg",
+          "cap": "(이미지 출처: Future)"
+        },
+        {
+          "t": "p",
+          "x": "액자는 사진 라이브러리 전체를 훑은 뒤 계절, 테마, 사물, 이벤트별로 사진을 불러온다. 가로 모드로만 작동하지만 세로 사진은 나란히 붙여 보여 준다. Alexa에게 “고양이와 아이들 사진 보여 줘”라고 말하면 맞춤 슬라이드쇼도 띄운다. 엉뚱한 사진이 나왔을 때 “Alexa, 그건 내 딸이 아니야”라고 하자 컬렉션을 고쳤다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/2cTbvaaoUPYULcGiLFAkua.jpg",
+          "cap": "(이미지 출처: Future)"
+        },
+        {
+          "t": "p",
+          "x": "Alexa+ 스마트 스피커 역할도 하고 사진에 짧은 음성 메모를 붙일 수도 있다. 사양만 보면 229달러짜리 Aura Aspen, 179달러짜리 Lexar Pexar 같은 경쟁 제품보다 떨어지고 동영상도 재생하지 못한다. 그래도 Amazon이 Alexa+로 구현한 것만큼 모든 사진을 손쉽게 골라 주는 제품은 없다. 가격은 199.99달러다."
+        }
+      ]
+    },
+    "gadgets/gadgets-gemini-task-automation-galaxy": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.sammobile.com/wp-content/uploads/2026/07/Galaxy-Z-Fold-8-Ultra-Gemini-1200x675.jpg",
+          "cap": "Galaxy Z Fold 8 Ultra에서 실행한 Gemini"
+        },
+        {
+          "t": "p",
+          "x": "Gemini는 성능 개선과 새 기능, 업그레이드된 모델을 앞세워 달마다 진화하고 있다. Google은 올해 초 Galaxy S26 시리즈 출시 행사에서 Android용 Gemini의 Task Automation 기능을 처음 공개했다. 이 기능이 곧 일부 Galaxy 휴대폰과 태블릿에서 수십 개 앱과 연동된다."
+        },
+        {
+          "t": "p",
+          "x": "Gemini Task Automation 확대 배포를 앞두고 Android Authority가 Android 휴대폰과 태블릿에서 이 기능을 쓸 수 있는 앱 목록을 찾아냈다. 목록은 Australia, Canada, Europe, Global, India, Japan, South Korea, UK and Ireland, US 등 지역별로 나뉜다. Global 항목에는 Airbnb, Booking.com, eBay, Expedia, Microsoft Word, Excel, Outlook, Teams, Slack, Uber, Uber Eats가, South Korea 항목에는 11st, Catchtable, Gmarket, Kakao T, Korean Air, Naver Calendar, Yanolja가 올라 있다."
+        },
+        {
+          "t": "p",
+          "x": "이 기능은 2026년에 출시돼 Android 17(One UI 9.0 이상)을 돌리는 Galaxy S, Galaxy Tab S(FE 모델 제외), Galaxy Z 시리즈 기기에서만 작동한다. 대상 기기는 Galaxy S26, S26+, S26 Ultra, S26 FE, Galaxy Tab S12+, Tab S12 Ultra, Galaxy Z Flip 8, Z Fold 8, Z Fold 8 Ultra다."
+        },
+        {
+          "t": "p",
+          "x": "이 기능으로 음식과 식료품 주문, 차량 호출, 상품 쇼핑, 공연 티켓과 항공권 예매, 식당이나 호텔 예약, 문서 작성과 편집, 메시지 전송 등 훨씬 많은 일을 처리한다. Google Play Store에서 내려받은 앱에서만 작동하는 듯하고, 출시는 단계적으로 이뤄질 가능성이 크다."
+        },
+        {
+          "t": "video",
+          "yt": "6FbSIAKJ1rg"
+        }
+      ]
     }
   }
 }

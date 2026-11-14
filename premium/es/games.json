@@ -11100,6 +11100,164 @@
           "x": "Más allá de la IA, el 33% de los encuestados ha sido despedido en los últimos 24 meses. El PC sigue dominando con un 81%, Unreal y Unity alcanzan el 35% y el 28%, y el 86% de los desarrolladores dice haber trabajado más de 40 horas en una semana. Elderkin afirma que este año ve \"mucha resiliencia y esperanza en el futuro\"."
         }
       ]
+    },
+    "games/games-backend-taskbar-hero-leak": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La solución coreana de servidores de juegos ‘BACKND’ sufrió un ataque externo y se filtraron datos de usuarios del juego idle de Steam ‘TBH: Task Bar Hero’. BACKND describió el ataque como un ‘ataque basado en AI’ que aprovechó una vulnerabilidad."
+        },
+        {
+          "t": "p",
+          "x": "Según un aviso que Nugem Studio publicó en Steam el 12 de noviembre, un tercero aprovechó una vulnerabilidad en la herramienta de administración de un servicio externo de servidores de juegos para descargar datos de jugadores durante 23 días, del 17 de octubre al 8 de noviembre. Afecta a todas las cuentas que jugaron antes de las 3:59 p. m. del 9 de noviembre. Los datos filtrados son el SteamID64, el ID de cuenta del servidor de juego y la fecha y hora de registro, la fecha y hora del último inicio de sesión y la dirección IP, el modelo de placa base o el nombre del equipo, la información del sistema operativo y si la cuenta fue sancionada o eliminada."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gamey.kr/news/photo/202611/3019720_174147_5017.jpg",
+          "cap": "Aviso sobre la filtración de datos personales de Task Bar Hero que Nugem Studio publicó en Steam el 12 de noviembre /Steam"
+        },
+        {
+          "t": "p",
+          "x": "En un aviso urgente, BACKND afirmó: “Se encontró una vulnerabilidad de seguridad en algunas funciones del servicio BACKND, y se produjeron numerosos ataques basados en AI que aprovecharon esta vulnerabilidad”. La empresa confirmó la intrusión el 8 de noviembre y la notificó a KISA al día siguiente. Solo divulgó la ruta de intrusión de forma resumida, alegando que los detalles podrían usarse en nuevos ataques con AI."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gamey.kr/news/photo/202611/3019720_174148_5017.jpg",
+          "cap": "Parte del aviso urgente de BACKND que menciona un ‘ataque basado en AI’ (adjunto al aviso de Task Bar Hero en Steam) /BACKND"
+        },
+        {
+          "t": "p",
+          "x": "Una vulnerabilidad en la función de descarga CSV filtró ‘datos de usuarios de 1 juego’, y se consultaron los datos de 69 cuentas de subadministrador (GM) de la consola. BACKND bloqueó las cuentas y las direcciones IP usadas en el ataque, suspendió su servicio de comunidad y, desde el 9 de noviembre, hizo obligatoria la verificación en 2 pasos para todas las cuentas de la consola."
+        },
+        {
+          "t": "p",
+          "x": "BACKND señaló que los ataques automatizados que usan AI para encontrar vulnerabilidades de seguridad aumentan con rapidez y recomendó la verificación en 2 pasos, al advertir que iniciar sesión solo con contraseña no garantiza una autenticación segura."
+        }
+      ]
+    },
+    "games/ragnarok-monster-marble-ai-player": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Lumiwave incorporará a ‘Ragnarok Monster Marble’ un asistente de inteligencia artificial (AI) que, a petición del usuario, analiza el historial de partidas y cambia mazos o juega partidas automáticas."
+        },
+        {
+          "t": "p",
+          "x": "Lumiwave anunció el día 13 que impulsa la incorporación de un ‘AI Player’ en ‘Ragnarok Monster Marble’, un juego de estrategia casual basado en la IP de Ragnarok de Gravity. Lee Kang-yong, director ejecutivo de Rosewood Studio, desarrolladora filial de Lumiwave, dirige el proyecto."
+        },
+        {
+          "t": "p",
+          "x": "‘AI Player’ es una función en desarrollo que vincula el asistente de AI del usuario con su cuenta de juego para que pueda pedir, mediante conversación, análisis del historial, cambios de mazo, partidas automáticas y más. La AI propone primero una tarea, el usuario la confirma y, al terminar, la AI informa del resultado."
+        },
+        {
+          "t": "img",
+          "src": "https://image.zdnet.co.kr/2026/11/13/ac2cc3181857eed5a36948f4f7d66259.png",
+          "cap": "Lumiwave impulsa la incorporación de un AI Player en ‘Ragnarok Monster Marble’"
+        },
+        {
+          "t": "p",
+          "x": "El alcance de ejecución se limita a las funciones que permite el servidor. Cada vez que se gaste moneda del juego se pedirá confirmación previa al usuario, y los pagos y los intercambios quedan fuera de ese alcance."
+        },
+        {
+          "t": "p",
+          "x": "Por ahora ofrece información del juego y explicaciones de las reglas. Lumiwave prevé aplicar por etapas la vinculación de cuentas y la ejecución de acciones dentro del juego tras la validación técnica y las conversaciones con sus socios."
+        }
+      ]
+    },
+    "games/seraphim-s3-ai-highlights": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Serafim presentó el día 13 en ‘TwitchCon 2026’, en colaboración con Xsolla, ‘AI Highlights’, una nueva función de su mando para juegos móviles Serafim S3. Integrada en la app Serafim Console, la función analiza los videos de juego de los usuarios del S3 y les ayuda a convertirlos fácilmente en contenido corto para compartir."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gamemeca.com/data_center/347/680/20261114084005.webp",
+          "cap": "▲ El mando para juegos móviles Serafim S3 y la pantalla de AI Highlights (foto: Serafim)"
+        },
+        {
+          "t": "p",
+          "x": "AI Highlights utiliza tecnología de AI en el borde, en el propio dispositivo, para procesar los videos de juego directamente en el smartphone. Sin subirlos a un servidor en la nube, analiza en el dispositivo los videos grabados previamente e identifica de forma automática momentos interesantes, como victorias en el último segundo, remontadas dramáticas, jugadas impresionantes o escenas humorísticas. En lugar de ver un video largo completo para buscar qué editar, los jugadores pueden revisar los resultados que propone la AI y crear videos cortos con facilidad."
+        },
+        {
+          "t": "p",
+          "x": "Optimizado para smartphones USB-C, el mando S3 es compatible con Android y con el iPhone 15 y modelos posteriores. La función ayuda a crear videos para TikTok, Instagram Reels y YouTube Shorts."
+        },
+        {
+          "t": "p",
+          "x": "GZ Chen, director ejecutivo de Serafim, afirmó: “Nuestro objetivo es que, con AI Highlights, este proceso sea más rápido y sencillo. Queremos que los jugadores dediquen más tiempo a jugar y menos a buscar en sus videos”."
+        }
+      ]
+    },
+    "games/creditcoin-grid-ai-agent-beta": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://wimg.dt.co.kr/news/cms/2026/11/13/news-p.v1.20261113.c4840efe42e44c3ea50d296212ae303d_P1.jpg",
+          "cap": "Foto cedida por Creditcoin"
+        },
+        {
+          "t": "p",
+          "x": "PenguinBase, el portal del ecosistema de Creditcoin, una blockchain multicadena de capa 1, anunció el día 12 el lanzamiento del servicio beta global de ‘GRID’, un juego de simulación estratégica basado en agentes de AI. GRID es un servicio de juego que acaba de incorporarse al ecosistema de Creditcoin."
+        },
+        {
+          "t": "p",
+          "x": "GRID usa las reglas del Texas Hold’em, pero los usuarios no manejan las cartas ni juegan las partidas directamente. En su lugar, actúan como entrenadores que configuran la personalidad y el comportamiento de los agentes de AI y les proponen estrategias. En el juego real compiten hasta 6 agentes de AI en una misma mesa, y cada uno calcula probabilidades a partir de la información limitada sobre sus rivales y decide su siguiente acción de forma independiente."
+        },
+        {
+          "t": "p",
+          "x": "En particular, el juego se desarrolla en una situación de información imperfecta (Imperfect Information), en la que no se pueden conocer con exactitud las cartas del rival. El resultado de cada partida depende de cómo la AI interpreta y valora la estrategia que introduce el usuario."
+        },
+        {
+          "t": "p",
+          "x": "La integración con modelos de AI externos es otro componente clave del juego. GRID es compatible con el protocolo de contexto de modelo (MCP•Model Context Protocol), por lo que permite conectar sin programación adicional las AI que ya se usaban, como Claude o Codex. Quienes no tengan una cuenta de AI externa pueden participar con la AI integrada en el juego. La apariencia del agente se puede personalizar eligiendo entre 6 mascotas."
+        },
+        {
+          "t": "p",
+          "x": "Antes de cada partida, el usuario escribe un prompt de hasta 6,000 caracteres para definir la estrategia de su agente. La estrategia puede modificarse en cualquier momento, y tras la partida es posible revisar el historial de manos (registro de decisiones) para analizar el comportamiento del agente y ajustar la estrategia para el siguiente enfrentamiento."
+        },
+        {
+          "t": "p",
+          "x": "Durante la beta se entregan fichas de juego sin coste. Las fichas se otorgan gratis en el primer inicio de sesión y en cada acceso diario, y solo pueden usarse dentro del juego. Los usuarios no pueden comprarlas ni cambiarlas por dinero o criptoactivos. Las fichas entregadas sirven para participar en torneos y competir en las clasificaciones."
+        },
+        {
+          "t": "p",
+          "x": "También se ha preparado un evento comunitario para celebrar el lanzamiento de la beta global. A partir del día 13 se celebrarán actividades de forma sucesiva en la cuenta de X (antes Twitter) de ‘CafeGM’, el centro comunitario oficial de Creditcoin. Puede participar cualquier usuario del juego, y se sortearán recuerdos."
+        },
+        {
+          "t": "p",
+          "x": "Un responsable del ecosistema de Creditcoin dijo: “PenguinBase es un portal que conecta a los usuarios con los diversos servicios del ecosistema de Creditcoin”, y añadió: “Con la llegada de GRID, ahora podemos ofrecer a los participantes del ecosistema una nueva experiencia de juego que aprovecha la AI”."
+        },
+        {
+          "t": "p",
+          "x": "Además, afirmó: “Seguiremos ampliando los servicios del ecosistema para que diversos builders puedan llegar a usuarios de todo el mundo a través de PenguinBase”."
+        }
+      ]
+    },
+    "games/pearlabyss-ai-pipeline": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/crimson-deser-kliff.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "cap": "Crédito de la imagen: Pearl Abyss"
+        },
+        {
+          "t": "p",
+          "x": "Pearl Abyss, desarrolladora de Crimson Desert y DokeV, planea integrar aún más la IA generativa en su flujo de trabajo. En su más reciente carta trimestral de resultados (Earnings Letter), el estudio surcoreano explicó que antes \"validaba los sistemas de juego solo después de implementarlos manualmente\". Ahora usa la IA \"para validar rápidamente diversos conceptos de diseño antes de la implementación real\", lo que, según afirma, \"permite una asignación más eficiente de los recursos de desarrollo y mejora la velocidad general de producción\"."
+        },
+        {
+          "t": "video",
+          "yt": "Ifjrgq3_tWg"
+        },
+        {
+          "t": "p",
+          "x": "\"Sin embargo, la IA sirve estrictamente como herramienta de apoyo a la validación de conceptos y a la productividad del pipeline, mientras que la experiencia de juego central y la creación real de contenido siguen estando totalmente a cargo de nuestro equipo de desarrollo\", afirmó la desarrolladora. La IA se utiliza para \"la automatización de tareas repetitivas, el apoyo a la creación de contenido y la optimización de pruebas\", y \"estamos ampliando su implementación a todo nuestro pipeline de desarrollo\"."
+        },
+        {
+          "t": "p",
+          "x": "Cuando se lanzó Crimson Desert, los jugadores detectaron \"elementos visuales 2D\" generados con IA (AI-generated) que Pearl Abyss retiró rápidamente con un parche. La carta también indica que DokeV, un juego de colección de criaturas, tiene como \"objetivo un lanzamiento en la segunda mitad de 2028\", y que Crimson Desert llegará a Nintendo Switch 2 \"en la primera mitad del próximo año\"."
+        }
+      ]
     }
   }
 }

@@ -1,31 +1,7 @@
-{
-  "date": "2026-11-14",
-  "section": "marketing",
-  "media": [
-    {
-      "id": "chatgpt-wallet-dots-checkout",
-      "type": "image",
-      "src": "pipeline/media/chatgpt-wallet-dots-checkout.jpg"
-    },
-    {
-      "id": "iab-ai-attribution-blueprint",
-      "type": "image",
-      "src": "pipeline/media/iab-ai-attribution-blueprint.png"
-    },
-    {
-      "id": "schibsted-nodals-ad-algorithms",
-      "type": "image",
-      "src": "pipeline/media/schibsted-nodals-ad-algorithms.jpg"
-    },
-    {
-      "id": "buzzvil-prism-ad-engine",
-      "type": "image",
-      "src": "pipeline/media/buzzvil-prism-ad-engine.jpg"
-    },
-    {
-      "id": "ppcland-agent-traffic-meta-openai",
-      "type": "image",
-      "src": "pipeline/media/ppcland-agent-traffic-meta-openai.jpg"
-    }
-  ]
-}
+{"date":"2026-11-15","section":"marketing","media":[
+{"id":"amazon-world-product-graph","type":"image","src":"pipeline/media/amazon-world-product-graph.jpg"},
+{"id":"amazon-dva-plus-20-product-cap","type":"image","src":"pipeline/media/amazon-dva-plus-20-product-cap.jpg"},
+{"id":"marketing-ai-audience-insights-risk","type":"image","src":"pipeline/media/marketing-ai-audience-insights-risk.jpg"},
+{"id":"salesforce-ai-first-holiday-survey","type":"image","src":"pipeline/media/salesforce-ai-first-holiday-survey.jpg"},
+{"id":"pinterest-holiday-gift-assistant","type":"image","src":"pipeline/media/pinterest-holiday-gift-assistant.jpg"}
+]}

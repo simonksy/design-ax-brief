@@ -11883,6 +11883,128 @@
           "x": "La generación de imágenes y la de shaders también funcionan juntas. El Agent puede generar una imagen y usarla como entrada de un shader de imagen, por ejemplo uno que la convierte en un dibujo a pluma con una mancha de tinta al mover el ratón."
         }
       ]
+    },
+    "design/luma-board-organizer-agent": {
+      "blocks": [
+        {
+          "t": "video",
+          "src": "https://static.cdn-luma.com/files/sanity/a5ed43ea-ae90-4aa9-b706-43227ae7a2dd.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Los grandes proyectos de marca desbordan sus tableros, y encontrar recursos empieza a llevar más tiempo que crear el siguiente. La nueva capacidad de organización inteligente del agente de Luma cambia eso. Si se le pide al agente que organice un tablero, un marco o una selección, agrupa y etiqueta el trabajo según lo que va junto, para que el equipo siga creando en el tablero que contiene el proyecto."
+        },
+        {
+          "t": "p",
+          "x": "Los nombres de archivo y las fechas no dicen nada del trabajo. El agente lee qué hay en cada recurso, a partir de qué se hizo y qué lo rodea. Puede distinguir una foto de referencia de una variación generada, seguir qué versiones salieron de qué imagen y vincular los recursos con el brief. Ahora un tablero puede agruparse por producto, concepto, campaña, estado de producción o canal."
+        },
+        {
+          "t": "p",
+          "x": "Proyectos más grandes: recorre los tableros grandes sección por sección, hasta 10,000 recursos. Limpieza diaria: convierte un tablero recargado en secciones con nombre, o agrupa una selección o un marco y deja intacto el resto del tablero. Preferencias propias: se le puede dar una regla, como \"ordenar por color de fondo, con etiquetas a juego\" o \"agrupar por producto y concepto de campaña\". Ofrecer y luego aceptar: cuando llega trabajo nuevo, el agente puede ofrecer agruparlo. Nada se mueve hasta que el usuario dice que sí. Cualquier organización puede revertirse sin perder las ediciones hechas después."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/2ylxvaa2/production/3088cb2bf9319ba1fed2d4c0816f562b3b86487b-600x338.gif",
+          "cap": "Organización para tableros de hasta 10,000 recursos"
+        },
+        {
+          "t": "p",
+          "x": "El agente nunca reorganiza el tablero por su cuenta. Se mantiene dentro del área elegida y, al terminar, informa de lo que cambió. Para probarlo ahora, abra un tablero en Luma y pida al agente \"organiza este tablero\". Para ordenar solo una parte, seleccione primero un marco o algunos recursos y pida al agente que organice la selección."
+        }
+      ]
+    },
+    "design/claude-manufacturing-fusion-plugin": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://the-decoder.com/wp-content/uploads/2026/11/claude_for_manufactoring.png"
+        },
+        {
+          "t": "p",
+          "x": "Anthropic lanzó Claude for Manufacturing, un plugin que da a la AI acceso directo a software industrial para automatizar flujos de trabajo en fábricas. La nueva solución se conecta mediante cuatro interfaces universales a Autodesk Fusion, Oracle NetSuite, Microsoft 365 e Infor. Otros sistemas pueden integrarse mediante exportaciones de archivos a Microsoft 365."
+        },
+        {
+          "t": "p",
+          "x": "Con 17 habilidades específicas, la AI redacta cotizaciones a partir del inventario real, compara proveedores, genera informes de calidad y variantes de diseño, y analiza datos de sensores y manuales durante las paradas de máquinas. Mediante un plugin adicional de Infor, Claude también puede hacer pedidos a proveedores de respaldo cuando se retrasan las entregas y reprogramar la producción, previa aprobación humana. Todos los resultados están vinculados a los documentos fuente originales para que los empleados los revisen antes de que lleguen a clientes o proveedores."
+        },
+        {
+          "t": "p",
+          "x": "El plugin está disponible para clientes Team y Enterprise, pero aún no controla máquinas físicas. Para eso, Anthropic desarrolla por separado el Model Hardware Standard como versión preliminar de investigación, que conecta agentes de AI con dispositivos como brazos robóticos y microscopios mediante controladores estandarizados. Esto reduce el tiempo de configuración de semanas o meses a horas o minutos, pero sigue requiriendo supervisión humana debido a la limitada comprensión que tiene la AI de los procesos físicos."
+        }
+      ]
+    },
+    "design/nngroup-research-in-the-loop": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A medida que los agentes de programación con AI escriben más código, muchos equipos eligen una dirección, construyen, lanzan y observan qué ocurre. Pero si se puede lanzar más rápido de lo que se puede estudiar a los usuarios, la investigación no puede desaparecer: tiene que cambiar para seguir el ritmo del desarrollo a velocidad de AI. NN/g llama a ese cambio research-in-the-loop."
+        },
+        {
+          "t": "p",
+          "x": "La instrumentación para investigación ahora es tan barata de construir como todo lo demás: un agente de programación puede crear encuestas de intercepción, registro de eventos y paneles junto con la función. Antes de construir, la investigación ayuda a definir qué debe capturar un lanzamiento; durante la construcción, los agentes de programación implementan esa captura; después del lanzamiento, los investigadores estudian lo que ocurrió, y lo que aprenden alimenta el siguiente conjunto de requisitos."
+        },
+        {
+          "t": "img",
+          "src": "https://media.nngroup.com/media/editor/2026/11/13/research-in-the-loop.png",
+          "cap": "Marco Research-in-the-Loop: los métodos de investigación alimentan un ciclo repetido de Specify, Build and Instrument, Release, y Evaluate and Learn (especificar, construir e instrumentar, lanzar, y evaluar y aprender)."
+        },
+        {
+          "t": "p",
+          "x": "Los equipos pueden añadir una sección de investigación a la especificación: qué esperamos, señales de que funcionó, señales de que causó problemas, qué seguir y cuándo hablar con las personas. La instrumentación puede hacer más eficientes la evaluación y la indagación, pero no puede sustituir el descubrimiento independiente, por lo que la investigación cualitativa sigue siendo esencial."
+        },
+        {
+          "t": "p",
+          "x": "“Un agente puede crear una encuesta en minutos. El investigador es responsable de hacer las preguntas correctas.”"
+        }
+      ]
+    },
+    "design/vercel-ui-sdk-behaviors": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Ffiles.catbox.moe%2Fnh6k1a.webp"
+        },
+        {
+          "t": "p",
+          "x": "Vercel Labs lanzó UI SDK el 12 de noviembre de 2026; lo creó shadcn, usa licencia Apache-2.0 y sigue en beta. El repositorio pasó de no existir a 4,239 estrellas en diecinueve días. No es una biblioteca de componentes, sino la capa que hay debajo de una. En lugar de entregar un Select, entrega createPopup, createSelection y createTypeahead, y el agente los conecta entre sí."
+        },
+        {
+          "t": "p",
+          "x": "definePrimitive declara state, una api y slots, y createParts renderiza la misma primitiva en React, Vue, Svelte, Solid o Web Components. El paquete principal incluye 50+ comportamientos agrupados en diez categorías. El README dice: \"No te preocupes, no necesitas aprender a escribir esto. Tus agentes lo harán.\""
+        },
+        {
+          "t": "p",
+          "x": "Cada paquete incluye llms.txt y core.md, además de una habilidad y un puente: agent.snapshot() devuelve los componentes, su estado y sus acciones. En la prueba de una sola tarea de Vercel, el puente usó un 69% menos de llamadas a herramientas y fue un 61% más rápido que las herramientas de navegador, según datos propios."
+        },
+        {
+          "t": "p",
+          "x": "La opinión del autor: las primitivas estructuradas superan a la generación libre, pero los comportamientos también pueden omitirse, y problemas de accesibilidad abiertos como el #534 muestran que una primitiva vale lo que vale quien la revisa."
+        }
+      ]
+    },
+    "design/mit-structure-copilot": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://news.mit.edu/sites/default/files/images/202611/MIT-ai-design-01-press.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Las mejores técnicas de diseño algorítmico todavía exigen mucho cálculo y tiempo: los usuarios solo ven el diseño final cuando está terminado y, a menudo, deben empezar de nuevo para hacer cambios. Investigadores del MIT están haciendo que los diseños algorítmicos sean más colaborativos con un sistema que actúa como un copiloto de AI. Mientras el algoritmo genera la estructura, presenta regiones al diseñador humano para que opine."
+        },
+        {
+          "t": "p",
+          "x": "En un artículo de acceso abierto en Communications Engineering, los investigadores mostraron que el sistema produjo estructuras más fáciles de fabricar y con mayores cargas de pandeo, y que solo añadió 15 segundos al tiempo total de diseño frente a los enfoques puramente algorítmicos. El sistema, que usa optimización topológica, se apoya en aprendizaje automático entrenado con un conjunto de datos sintético de probables comentarios humanos sobre miles de diseños para identificar con rapidez las regiones que una persona probablemente querría cambiar."
+        },
+        {
+          "t": "p",
+          "x": "En las demostraciones, el enfoque human-in-the-loop mejoró la fabricabilidad y la carga de pandeo lineal en un 39 por ciento, con un aumento apenas moderado del tiempo total de diseño. Por ahora, los usuarios solo pueden hacer más gruesas o más delgadas las estructuras dentro de las regiones identificadas."
+        },
+        {
+          "t": "p",
+          "x": "“La idea es aprovechar el cerebro de los diseñadores y lograr que incorporen su conocimiento del dominio a medida que evoluciona el diseño”, afirma la autora principal, Josephine Carstensen."
+        }
+      ]
     }
   }
 }

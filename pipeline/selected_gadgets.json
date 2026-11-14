@@ -1,106 +1,158 @@
 {
-  "date": "2026-11-14",
+  "date": "2026-11-15",
   "section": "gadgets",
   "items": [
     {
-      "title": "Gemini's AI task automation will work with dozens of apps on Galaxy phones",
-      "url": "https://www.sammobile.com/news/geminis-ai-task-automation-will-work-with-dozens-of-apps-on-galaxy-phones/",
-      "source": "SamMobile",
-      "domain": "sammobile.com",
-      "category": "gadgets",
       "tool": "Gadgets",
       "accent": "#ff5a4d",
       "motif": "headset",
-      "published_iso": "2026-11-13T11:49:12+00:00",
-      "og_image": "https://www.sammobile.com/wp-content/uploads/2026/07/Galaxy-Z-Fold-8-Ultra-Gemini.jpg",
-      "excerpt": "Google's Gemini Task Automation feature will soon work with 134 apps on select Galaxy phones and tablets running Android 17 or newer.",
-      "rationale": "Gemini's agentic task automation expands to 134 apps on Android 17 Galaxy devices, a concrete scope figure for phone-side AI agents."
+      "title": "GR00T 2 learns skills from human video and runs them on robots that never practiced them",
+      "url": "https://the-gadgeteer.com/2026/11/14/gr00t-2-learns-skills-from-human-video-and-runs-them-on-robots-that-never-practiced-them/",
+      "source": "The Gadgeteer",
+      "published_iso": "2026-11-14T12:44:19-06:00",
+      "og_image": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-hero2.jpg",
+      "excerpt": "GR00T 2 predicts the next few seconds of video before it moves. A robot running it learns skills from human demonstrations, then carries those skills to",
+      "rationale": "New robot foundation-model release that learns from human video and transfers skills to untrained robots; freshest, most novel item in the pool."
     },
     {
-      "title": "Christian Linux project plans $449 phone with AI-powered Bible study",
-      "url": "https://www.notebookcheck.net/Christian-Linux-project-plans-449-phone-with-AI-powered-Bible-study.1445691.0.html",
-      "source": "Notebookcheck",
-      "domain": "notebookcheck.net",
-      "category": "gadgets",
       "tool": "Gadgets",
       "accent": "#0070f3",
       "motif": "headset",
-      "published_iso": "2026-11-09T11:45:00+01:00",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Golden-Codex-Smartphone-Showcase.png",
-      "excerpt": "Can faith and artificial intelligence come together in a new operating system? Jesus Dash is an ambitious Christian technology project combining Linux, AI-powered assistance, and religious resources. Its founder is also developing a $449 smartphone called PineCone, targeting early 2027. Some applica",
-      "rationale": "A niche Linux phone built around an AI study assistant ($449 PineCone, early 2027) shows AI phones splitting into purpose-built, community-specific devices."
-    },
-    {
-      "title": "Samsung’s free Galaxy AI ride might be ending. Get ready to pay $5 for it",
-      "url": "https://www.digitaltrends.com/phones/samsungs-free-galaxy-ai-ride-might-be-ending-get-ready-to-pay-5-for-it/",
+      "title": "Perplexity Teammates bring autonomous AI agents to the Mac app",
+      "url": "https://www.digitaltrends.com/computing/perplexity-teammates-bring-autonomous-ai-agents-to-the-mac-app/",
       "source": "Digital Trends",
-      "domain": "digitaltrends.com",
-      "category": "gadgets",
-      "tool": "Gadgets",
-      "accent": "#f5a623",
-      "motif": "headset",
-      "published_iso": "2026-11-09T02:45:06-08:00",
-      "og_image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2024/08/samsung-galaxy-ai-phone-2.jpg?resize=1200%2C630&ssl=1",
-      "excerpt": "Samsung is reportedly testing a Galaxy AI Premium subscription with a $4.99 monthly plan, new AI video generation and Bixby automation tools, and usage limits that could change how existing free features work.",
-      "rationale": "Reported $4.99/month Galaxy AI Premium tier with usage limits would end the free-AI era on Samsung phones; it changes what buyers pay for on-device AI."
+      "published_iso": "2026-11-13T21:16:43-08:00",
+      "og_image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Perplexity-teammates-feature.jpg?resize=1200%2C630&ssl=1",
+      "excerpt": "Perplexity brings AI Teammates to Mac, letting Max subscribers delegate ongoing tasks to autonomous agents that work in the background.",
+      "rationale": "New feature launch (background autonomous agents on Mac) distinct from the October local-workflows update; directly actionable for Mac users."
     },
     {
-      "title": "Your Wear OS watch can now run Meta’s Muse AI agent",
-      "url": "https://www.androidauthority.com/meta-muse-ai-wear-os-3733785/",
-      "source": "Android Authority",
-      "domain": "androidauthority.com",
-      "category": "gadgets",
       "tool": "Gadgets",
       "accent": "#7928ca",
       "motif": "headset",
-      "published_iso": "2026-11-11T10:34:58+00:00",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/11/meta-muse-ai-voice-conversations-hero-image.jpg",
-      "excerpt": "Meta’s Muse AI agent now works on Wear OS smartwatches, reaching Android users' wrists before Meta’s own Charm wearable arrives.",
-      "rationale": "Meta ships its Muse agent to Wear OS watches, a separate platform release after the Apple Watch version, and it arrives before Meta's own Charm wearable."
+      "title": "1994 Jeep Cherokee owner hacks 32-year-old car with Claude AI to pass California smog tests",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/1994-jeep-cherokee-owner-hacks-32-year-old-car-with-claude-ai-to-pass-california-smog-tests-enthusiast-reverse-engineered-the-ancient-ecu-for-diagnostics-and-control",
+      "source": "Tom's Hardware",
+      "published_iso": "2026-11-13T10:30:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/BZRHW5BTLyqX6i4nsjHfrH-1920-80.jpg",
+      "excerpt": "A 1994 Jeep Cherokee owner used Claude and Codex plus about $15 of hardware (an Arduino) to reverse-engineer the car's ancient ECU for diagnostics and control and pass California smog tests.",
+      "rationale": "Concrete maker story: AI coding agents plus a $15 Arduino reverse-engineer a car ECU; a different event from the earlier treadmill hack."
     },
     {
-      "title": "Rumored Apple Smart Glasses Mentioned in Supplier's Earnings Briefing",
-      "url": "https://www.macrumors.com/2026/11/11/apple-smart-glasses-mentioned-by-suppliers/",
-      "source": "MacRumors",
-      "domain": "macrumors.com",
-      "category": "gadgets",
       "tool": "Gadgets",
       "accent": "#2ec5c5",
       "motif": "headset",
-      "published_iso": "2026-11-11T13:49:50+00:00",
-      "og_image": "https://images.macrumors.com/t/9uJqMj4VFJjMbPcQi5cTqaPUB18=/2500x/article-new/2021/01/Apple-Glasses-Triad-Feature.jpg",
-      "excerpt": "Apple's rumored smart glasses and AirPods with cameras may have been referenced by Chinese manufacturing equipment supplier Quick Intelligent Equipment, according to a Securities Times report on the company's quarterly earnings briefing. The company claimed it has been involved in \"Apple's AI glasse",
-      "rationale": "A supplier says on record that it is working on Apple's AI glasses and camera AirPods, the first supply-chain sign of Apple's answer to Meta and Google eyewear."
+      "title": "[CES 2027] 최고혁신상 60% 韓 차지…로봇·AI칩",
+      "url": "https://www.etnews.com/20261110000251",
+      "source": "전자신문 (etnews)",
+      "published_iso": "2026-11-10T16:00:00+09:00",
+      "og_image": "https://img.etnews.com/news/article/2026/11/10/news-p.v1.20261110.5fdedf20293c4a21af1be6aa3526c5f6_P1.jpg",
+      "excerpt": "CES 2027 혁신상 발표에서 한국 기업이 최고혁신상의 60%를 차지했지만, 로봇과 AI 칩 부문 최고 영예는 중국·미국 기업이 가져갔다는 분석.",
+      "rationale": "Official CES 2027 Innovation Award results with a robotics/AI-chip breakdown; a Korean-outlet view that previews the next big gadget cycle."
+    },
+    {
+      "tool": "Gadgets",
+      "accent": "#f5a623",
+      "motif": "headset",
+      "title": "The Amazon Alexa Photo Frame made me cry — in a good way",
+      "url": "https://www.tomsguide.com/home/smart-home/amazon-alexa-photo-frame-review",
+      "source": "Tom's Guide",
+      "published_iso": "2026-11-10T08:30:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/tXyKm3ACySBpNC5czuUM2j-2560-80.jpg",
+      "excerpt": "Tom's Guide reviews the Amazon Alexa Photo Frame, which uses AI to curate and present large photo libraries; best for Amazon Prime subscribers.",
+      "rationale": "First review of a new AI-curated smart-home device; a different product from the Alexa Tablet 12 Pro already covered."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.sammobile.com/news/geminis-ai-task-automation-will-work-with-dozens-of-apps-on-galaxy-phones/": {
+      "https://the-gadgeteer.com/2026/11/14/gr00t-2-learns-skills-from-human-video-and-runs-them-on-robots-that-never-practiced-them/": {
         "verdict": "new",
-        "nearest": "https://www.androidauthority.com/gemini-overlay-sparkling-animation-rollout-3729835/",
+        "nearest": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
         "new_action": ""
       },
-      "https://www.notebookcheck.net/Christian-Linux-project-plans-449-phone-with-AI-powered-Bible-study.1445691.0.html": {
+      "https://www.digitaltrends.com/computing/perplexity-teammates-bring-autonomous-ai-agents-to-the-mac-app/": {
         "verdict": "new",
-        "nearest": "https://www.wired.com/story/kora-new-linux-based-desktop-operating-system-is-built-for-ai-nerds/",
+        "nearest": "https://www.engadget.com/2291754/perplexity-makes-it-easier-to-run-ai-workflows-entirely-on-your-mac/",
         "new_action": ""
       },
-      "https://www.digitaltrends.com/phones/samsungs-free-galaxy-ai-ride-might-be-ending-get-ready-to-pay-5-for-it/": {
+      "https://www.tomshardware.com/tech-industry/artificial-intelligence/1994-jeep-cherokee-owner-hacks-32-year-old-car-with-claude-ai-to-pass-california-smog-tests-enthusiast-reverse-engineered-the-ancient-ecu-for-diagnostics-and-control": {
         "verdict": "new",
-        "nearest": "https://news.samsung.com/global/samsung-expands-language-support-across-ai-experiences-on-galaxy",
+        "nearest": "https://www.androidauthority.com/claude-nordictrack-treadmill-ifit-subscription-3731515/",
         "new_action": ""
       },
-      "https://www.androidauthority.com/meta-muse-ai-wear-os-3733785/": {
-        "verdict": "follow-up",
-        "nearest": "https://www.macrumors.com/2026/11/09/meta-muse-apple-watch/",
-        "new_action": "New platform release: Muse now runs on Wear OS smartwatches. The 11-10 card covered only the Apple Watch app."
-      },
-      "https://www.macrumors.com/2026/11/11/apple-smart-glasses-mentioned-by-suppliers/": {
+      "https://www.etnews.com/20261110000251": {
         "verdict": "new",
-        "nearest": "https://9to5mac.com/2026/10/18/apples-next-homeview-could-debut-as-soon-as-next-year-with-a-robotic-arm-report/",
+        "nearest": "",
+        "new_action": ""
+      },
+      "https://www.tomsguide.com/home/smart-home/amazon-alexa-photo-frame-review": {
+        "verdict": "new",
+        "nearest": "https://the-gadgeteer.com/2026/11/08/amazons-alexa-tablet-12-pro-ditches-fire-os-for-real-android-at-499-99/",
         "new_action": ""
       }
     },
-    "note": "SWAP (post-enrichment): UGREEN HomeAgent (9to5Google) removed because the enrichment fetch showed it is a Sponsored Post (advertorial). Replaced in slot 2 by the Notebookcheck Christian Linux PineCone phone. It is a different product from the 11-11 Kora Linux desktop OS (WIRED), its nearest history item, so the verdict is new. Other options for the swap were rejected: Samsung Health insights (vague roadmap, would be a third Samsung card), TechRadar robot-pet listicle, Kamrui P2 review (advertorial tone), Lenovo Yoga 9n review (AI incidental), Tensor comparison (evergreen), MSI MEG X (not a new launch), WIRED Microduck (repeats the 10-25 Microduck story), ZDNet Korea Apple Glass (same story as the MacRumors pick), K-on-device chip plan (industrial policy). Also excluded per the brief: all Google/Samsung eyewear items and the Nothing cluster. ORIGINAL NOTE: Per curator brief, no Google/Samsung Android XR eyewear card this run. Eyewear already ran in gadgets on 11-13 (Samsung December release) and 11-06 (pre-orders), and no candidate reports a new concrete action. Dropped for that reason: Notebookcheck face redaction (privacy explainer for the same launch), The Verge hands-on, The Gadgeteer Snapdragon AR1, 9to5Google Android XR app opinion, and Android Authority 'Hey Gemini' (same launch, and the wake word ran 10-17). Nothing AI gadget cluster c10 (9to5Google + Gizmodo) dropped: a teaser with commentary, no launch, so it repeats The Verge 11-05. ZDNet Korea Apple Glass dropped as a within-pool duplicate of the MacRumors supplier story. WIRED Microduck dropped as a hands-on of the Microduck toy that ran 10-25 (TechCrunch). Rejected on quality: MSI MEG X monitor (marked 'not a new launch'), TechRadar robot-pet gift listicle, Android Authority Tensor comparison (evergreen), Kamrui P2 review (advertorial tone), Lenovo Yoga 9n review (AI incidental), Samsung Health future insights (vague roadmap; would also make a third Samsung card), K-on-device government AI chip plan (industrial policy, not a gadget). Cross-section check: published_urls.json is too large to read in full here, and grep was unavailable. None of the picks match any cross-section assignment in curator_brief.md. Diversity: 5 distinct outlets."
-  }
+    "note": "Dropped as duplicates of published gadgets stories: CNET Apple Watch Audio Intelligence hands-on (same watchOS 27.3 feature as MacRumors 11-04, no new release); Tom's Guide free AI smart-TV trick (same topic as TechCrunch 10-20); 9to5Google and Gizmodo Nothing AI gadget pieces (one cluster c4, both pre-launch commentary, no new action beyond The Verge 11-05 teaser). Timekettle earbuds review was already removed upstream. Not picked on merit: TechRadar robot-pet gift roundup and Engadget NPU explainer (evergreen), TechRadar AI teddy bear opinion piece, Tom's Hardware npu-driver (11-04, lower impact), and Tom's Guide UK smart-glasses ban (11-05 policy story that likely belongs to politics, so skipped to avoid a cross-section clash). Cross-section URL checks against published_urls.json politics and science found no clash for the picks. Outlets: 5 distinct (Gadgeteer, Digital Trends, Tom's Hardware, etnews, Tom's Guide)."
+  },
+  "picks": [
+    {
+      "tool": "Gadgets",
+      "accent": "#ff5a4d",
+      "motif": "headset",
+      "title": "GR00T 2 learns skills from human video and runs them on robots that never practiced them",
+      "url": "https://the-gadgeteer.com/2026/11/14/gr00t-2-learns-skills-from-human-video-and-runs-them-on-robots-that-never-practiced-them/",
+      "source": "The Gadgeteer",
+      "published_iso": "2026-11-14T12:44:19-06:00",
+      "og_image": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-hero2.jpg",
+      "excerpt": "GR00T 2 predicts the next few seconds of video before it moves. A robot running it learns skills from human demonstrations, then carries those skills to",
+      "rationale": "New robot foundation-model release that learns from human video and transfers skills to untrained robots; freshest, most novel item in the pool."
+    },
+    {
+      "tool": "Gadgets",
+      "accent": "#0070f3",
+      "motif": "headset",
+      "title": "Perplexity Teammates bring autonomous AI agents to the Mac app",
+      "url": "https://www.digitaltrends.com/computing/perplexity-teammates-bring-autonomous-ai-agents-to-the-mac-app/",
+      "source": "Digital Trends",
+      "published_iso": "2026-11-13T21:16:43-08:00",
+      "og_image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Perplexity-teammates-feature.jpg?resize=1200%2C630&ssl=1",
+      "excerpt": "Perplexity brings AI Teammates to Mac, letting Max subscribers delegate ongoing tasks to autonomous agents that work in the background.",
+      "rationale": "New feature launch (background autonomous agents on Mac) distinct from the October local-workflows update; directly actionable for Mac users."
+    },
+    {
+      "tool": "Gadgets",
+      "accent": "#7928ca",
+      "motif": "headset",
+      "title": "1994 Jeep Cherokee owner hacks 32-year-old car with Claude AI to pass California smog tests",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/1994-jeep-cherokee-owner-hacks-32-year-old-car-with-claude-ai-to-pass-california-smog-tests-enthusiast-reverse-engineered-the-ancient-ecu-for-diagnostics-and-control",
+      "source": "Tom's Hardware",
+      "published_iso": "2026-11-13T10:30:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/BZRHW5BTLyqX6i4nsjHfrH-1920-80.jpg",
+      "excerpt": "A 1994 Jeep Cherokee owner used Claude and Codex plus about $15 of hardware (an Arduino) to reverse-engineer the car's ancient ECU for diagnostics and control and pass California smog tests.",
+      "rationale": "Concrete maker story: AI coding agents plus a $15 Arduino reverse-engineer a car ECU; a different event from the earlier treadmill hack."
+    },
+    {
+      "tool": "Gadgets",
+      "accent": "#2ec5c5",
+      "motif": "headset",
+      "title": "[CES 2027] 최고혁신상 60% 韓 차지…로봇·AI칩",
+      "url": "https://www.etnews.com/20261110000251",
+      "source": "전자신문 (etnews)",
+      "published_iso": "2026-11-10T16:00:00+09:00",
+      "og_image": "https://img.etnews.com/news/article/2026/11/10/news-p.v1.20261110.5fdedf20293c4a21af1be6aa3526c5f6_P1.jpg",
+      "excerpt": "CES 2027 혁신상 발표에서 한국 기업이 최고혁신상의 60%를 차지했지만, 로봇과 AI 칩 부문 최고 영예는 중국·미국 기업이 가져갔다는 분석.",
+      "rationale": "Official CES 2027 Innovation Award results with a robotics/AI-chip breakdown; a Korean-outlet view that previews the next big gadget cycle."
+    },
+    {
+      "tool": "Gadgets",
+      "accent": "#f5a623",
+      "motif": "headset",
+      "title": "The Amazon Alexa Photo Frame made me cry — in a good way",
+      "url": "https://www.tomsguide.com/home/smart-home/amazon-alexa-photo-frame-review",
+      "source": "Tom's Guide",
+      "published_iso": "2026-11-10T08:30:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/tXyKm3ACySBpNC5czuUM2j-2560-80.jpg",
+      "excerpt": "Tom's Guide reviews the Amazon Alexa Photo Frame, which uses AI to curate and present large photo libraries; best for Amazon Prime subscribers.",
+      "rationale": "First review of a new AI-curated smart-home device; a different product from the Alexa Tablet 12 Pro already covered."
+    }
+  ]
 }

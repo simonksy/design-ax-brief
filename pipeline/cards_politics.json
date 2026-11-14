@@ -1,755 +1,523 @@
 {
-  "date": "2026-11-14",
+  "date": "2026-11-15",
   "section": "politics",
   "cards": [
     {
-      "id": "politics-ama-ai-liability",
-      "source_lang": "en",
+      "id": "politics-japan-ai-likeness-law",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "AI-caused 피해에\n의사들 면책 요구",
-      "body": "AMA가 AI 피해 때 의사 면책과 AI 업체 배상보험 의무화를 요구했다.",
-      "mini_headline": "AMA, AI 책임 면제 요구",
+      "headline": "일본, AI 복제 목소리\n무단 상업이용 규제 추진",
+      "body": "일본 정부가 AI로 복제한 목소리·사진의 무단 상업 이용 규제를 추진한다.",
+      "mini_headline": "日 AI 목소리 복제 규제",
       "tool": "Politics",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/11/13/doctors-ai-mistakes-liability-shield",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261114030800073",
       "accent": "#3b6bff",
-      "motif": "cube",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://images.axios.com/UGhAq1_gsT5ZluDlIyxxjbXh0YQ=/0x0:1920x1080/1920x1080/2026/11/12/1794506966317.jpeg"
-          },
-          {
-            "t": "p",
-            "x": "병원과 진료소에 인공지능(AI)이 빠르게 들어오자 미국 최대 의사 단체가 로비에 나섰다. AI 때문에 환자가 피해를 볼 때를 대비해 새 법적 보호 장치를 마련하라는 요구다."
-          },
-          {
-            "t": "p",
-            "x": "미국의사협회(American Medical Association)는 이번 주 연방·주 차원의 입법을 요구했다. 의사가 정해진 방식대로 도구를 썼는데도 AI 제품이 환자에게 해를 끼쳤다면 의사에게 책임을 묻지 말라는 내용이다. 협회는 AI 기업이 적정한 배상책임보험에 들고 제품의 한계와 성능 데이터를 공개하도록 하는 새 법도 추진한다."
-          },
-          {
-            "t": "p",
-            "x": "AMA 정책은 특정 AI 제품을 반드시 쓰게 한 상황에서 해로운 오류가 나면 병원, 의료 시스템, 보험사, 헬스테크 업체가 책임져야 한다고 못 박았다. 환자가 피해를 봤을 때 의사에게 의료과실 소송을 걸 게 아니라 AI 제조사와 공급업체, 경우에 따라서는 AI 시스템 사용을 의무화한 의료 시스템이 책임을 지라는 게 AMA의 주장이다."
-          },
-          {
-            "t": "p",
-            "x": "UC Davis 교수 마틴 힐버트(Martin Hilbert)는 Axios에 \"사안마다 책임 주체가 다르며, 최종 사용자에게만 책임을 물을 수는 없다\"고 말했다. FDA는 AI-enabled 의료기기를 규제할 새 체계가 필요한지 검토 중이며 AdvaMed는 지금 방식을 유지하라고 당국에 촉구하고 있다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Doctors seek a liability shield\nfor AI-caused patient harm",
-          "body": "The AMA urged laws to shield doctors when AI harms patients and to make AI vendors carry liability insurance.",
-          "mini_headline": "AMA seeks AI liability shield",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://images.axios.com/UGhAq1_gsT5ZluDlIyxxjbXh0YQ=/0x0:1920x1080/1920x1080/2026/11/12/1794506966317.jpeg"
-              },
-              {
-                "t": "p",
-                "x": "The rapid deployment of artificial intelligence in hospitals and clinics is leading the nation's biggest physicians group to lobby for new legal protections if AI harms patients."
-              },
-              {
-                "t": "p",
-                "x": "The American Medical Association this week called for federal and state legislation to protect physicians from liability when AI products injure patients, despite physicians using the tools as intended. The group also is pressing for new laws mandating that AI companies carry adequate liability insurance and disclose product limitations and performance data."
-              },
-              {
-                "t": "p",
-                "x": "Hospitals, health systems, insurers and health tech vendors should be responsible if the required use of specific AI products results in harmful errors, the AMA policy states. In cases where a patient is harmed, responsibility should fall on AI manufacturers and vendors — and possibly on health systems that require the AI systems' use — instead of through a medical malpractice claim against the physician, the AMA argues."
-              },
-              {
-                "t": "p",
-                "x": "\"Different parties are responsible for different cases, and you can't just hold the end user responsible,\" UC Davis professor Martin Hilbert told Axios. The FDA is weighing whether a new framework is needed for regulating AI-enabled medical devices, while AdvaMed is urging the agency to continue using its current approaches."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "AI-caused 피해에\n의사들 면책 요구",
-          "body": "AMA가 AI 피해 때 의사 면책과 AI 업체 배상보험 의무화를 요구했다.",
-          "mini_headline": "AMA, AI 책임 면제 요구",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://images.axios.com/UGhAq1_gsT5ZluDlIyxxjbXh0YQ=/0x0:1920x1080/1920x1080/2026/11/12/1794506966317.jpeg"
-              },
-              {
-                "t": "p",
-                "x": "병원과 진료소에 인공지능(AI)이 빠르게 들어오자 미국 최대 의사 단체가 로비에 나섰다. AI 때문에 환자가 피해를 볼 때를 대비해 새 법적 보호 장치를 마련하라는 요구다."
-              },
-              {
-                "t": "p",
-                "x": "미국의사협회(American Medical Association)는 이번 주 연방·주 차원의 입법을 요구했다. 의사가 정해진 방식대로 도구를 썼는데도 AI 제품이 환자에게 해를 끼쳤다면 의사에게 책임을 묻지 말라는 내용이다. 협회는 AI 기업이 적정한 배상책임보험에 들고 제품의 한계와 성능 데이터를 공개하도록 하는 새 법도 추진한다."
-              },
-              {
-                "t": "p",
-                "x": "AMA 정책은 특정 AI 제품을 반드시 쓰게 한 상황에서 해로운 오류가 나면 병원, 의료 시스템, 보험사, 헬스테크 업체가 책임져야 한다고 못 박았다. 환자가 피해를 봤을 때 의사에게 의료과실 소송을 걸 게 아니라 AI 제조사와 공급업체, 경우에 따라서는 AI 시스템 사용을 의무화한 의료 시스템이 책임을 지라는 게 AMA의 주장이다."
-              },
-              {
-                "t": "p",
-                "x": "UC Davis 교수 마틴 힐버트(Martin Hilbert)는 Axios에 \"사안마다 책임 주체가 다르며, 최종 사용자에게만 책임을 물을 수는 없다\"고 말했다. FDA는 AI-enabled 의료기기를 규제할 새 체계가 필요한지 검토 중이며 AdvaMed는 지금 방식을 유지하라고 당국에 촉구하고 있다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AI-caused 被害で\n医師が免責を要求",
-          "body": "AMAは、AIによる患者被害で医師を守り、AI企業に賠償保険を義務付ける法整備を求めた。",
-          "mini_headline": "AMA、AI責任の免除を要求",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://images.axios.com/UGhAq1_gsT5ZluDlIyxxjbXh0YQ=/0x0:1920x1080/1920x1080/2026/11/12/1794506966317.jpeg"
-              },
-              {
-                "t": "p",
-                "x": "病院や診療所で人工知能(AI)の導入が急速に進むなか、米国最大の医師団体が、AIが患者に害を及ぼした場合に備えた新たな法的保護を求めてロビー活動に乗り出した。"
-              },
-              {
-                "t": "p",
-                "x": "米国医師会(American Medical Association)は今週、医師が想定どおりにツールを使っていたにもかかわらずAI製品が患者に損害を与えた場合に、医師を賠償責任から守る連邦法と州法の制定を求めた。同会はまた、AI企業に十分な賠償責任保険への加入と、製品の限界や性能データの開示を義務付ける新法も求めている。"
-              },
-              {
-                "t": "p",
-                "x": "AMAの方針は、特定のAI製品の使用が義務付けられ、その結果として有害な誤りが生じた場合には、病院、医療システム、保険会社、ヘルステック企業が責任を負うべきだとしている。AMAは、患者が被害を受けた場合、医師に対する医療過誤訴訟ではなく、AIの製造元や販売企業、さらに場合によってはAIシステムの使用を義務付けた医療システムが責任を負うべきだと主張する。"
-              },
-              {
-                "t": "p",
-                "x": "UC Davisのマーティン・ヒルバート(Martin Hilbert)教授はAxiosに対し、「ケースごとに責任を負う当事者は異なり、エンドユーザーだけに責任を負わせることはできない」と語った。FDAはAI-enabled医療機器の規制に新たな枠組みが必要かを検討しており、AdvaMedは同局に現行の手法を継続するよう求めている。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "AI-caused 患者伤害\n医生寻求免责保护",
-          "body": "AMA呼吁立法，在AI伤害患者时保护医生，并要求AI供应商购买责任保险。",
-          "mini_headline": "AMA寻求AI责任豁免",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://images.axios.com/UGhAq1_gsT5ZluDlIyxxjbXh0YQ=/0x0:1920x1080/1920x1080/2026/11/12/1794506966317.jpeg"
-              },
-              {
-                "t": "p",
-                "x": "人工智能在医院和诊所中迅速部署，促使美国最大的医生团体展开游说，争取在AI伤害患者时获得新的法律保护。"
-              },
-              {
-                "t": "p",
-                "x": "美国医学会（American Medical Association）本周呼吁联邦和州层面立法，在医生按预期方式使用工具、AI产品却仍伤害患者时，保护医生免于承担责任。该组织还在推动新法，要求AI公司投保足够的责任保险，并披露产品局限和性能数据。"
-              },
-              {
-                "t": "p",
-                "x": "AMA政策指出，如果强制使用特定AI产品导致有害错误，医院、医疗系统、保险公司和医疗科技供应商应当承担责任。AMA认为，在患者受到伤害的情况下，责任应由AI制造商和供应商承担，也可能由要求使用这些AI系统的医疗系统承担，而不是通过针对医生的医疗事故索赔来追究。"
-              },
-              {
-                "t": "p",
-                "x": "UC Davis教授Martin Hilbert对Axios表示：“不同情况由不同方负责，不能只追究最终用户的责任。”FDA正在评估是否需要新的框架来监管AI-enabled医疗器械，而AdvaMed则敦促该机构继续沿用现行做法。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Médicos piden un escudo legal\npor daños AI-caused a pacientes",
-          "body": "La AMA pidió leyes que protejan a los médicos si la AI daña a pacientes y que los proveedores de AI tengan seguro.",
-          "mini_headline": "La AMA pide un escudo de responsabilidad por AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://images.axios.com/UGhAq1_gsT5ZluDlIyxxjbXh0YQ=/0x0:1920x1080/1920x1080/2026/11/12/1794506966317.jpeg"
-              },
-              {
-                "t": "p",
-                "x": "El rápido despliegue de la inteligencia artificial en hospitales y clínicas está llevando al mayor grupo de médicos del país a presionar por nuevas protecciones legales en caso de que la AI cause daños a los pacientes."
-              },
-              {
-                "t": "p",
-                "x": "La American Medical Association pidió esta semana legislación federal y estatal que proteja a los médicos de responsabilidad cuando los productos de AI lesionen a pacientes, pese a que los médicos usen las herramientas según lo previsto. El grupo también impulsa nuevas leyes que obliguen a las empresas de AI a contar con un seguro de responsabilidad adecuado y a divulgar las limitaciones de sus productos y sus datos de rendimiento."
-              },
-              {
-                "t": "p",
-                "x": "Hospitales, sistemas de salud, aseguradoras y proveedores de tecnología sanitaria deberían ser responsables si el uso obligatorio de productos específicos de AI provoca errores dañinos, establece la política de la AMA. Cuando un paciente sufra daños, la responsabilidad debería recaer en los fabricantes y proveedores de AI —y posiblemente en los sistemas de salud que exigen el uso de esos sistemas de AI— en lugar de tramitarse mediante una demanda por negligencia médica contra el médico, sostiene la AMA."
-              },
-              {
-                "t": "p",
-                "x": "\"Distintas partes son responsables en distintos casos, y no se puede responsabilizar solo al usuario final\", dijo a Axios Martin Hilbert, profesor de UC Davis. La FDA evalúa si hace falta un nuevo marco para regular los dispositivos médicos AI-enabled, mientras AdvaMed insta a la agencia a seguir aplicando sus enfoques actuales."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "AI-caused 피해에\n의사들 면책 요구",
-          "body": "AMA는 AI 피해 시 의사 면책과 AI 업체 배상보험 의무화를 촉구했다.",
-          "mini_headline": "AMA, AI 책임 면제 요구",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://images.axios.com/UGhAq1_gsT5ZluDlIyxxjbXh0YQ=/0x0:1920x1080/1920x1080/2026/11/12/1794506966317.jpeg"
-              },
-              {
-                "t": "p",
-                "x": "병원과 진료소에 인공지능(AI)이 빠르게 도입되면서, 미국 최대 의사 단체가 AI로 환자가 피해를 볼 경우에 대비한 새로운 법적 보호 장치를 요구하는 로비에 나섰다."
-              },
-              {
-                "t": "p",
-                "x": "미국의사협회(American Medical Association)는 이번 주, 의사가 의도된 방식대로 도구를 썼는데도 AI 제품이 환자에게 해를 끼친 경우 의사를 책임에서 보호하는 연방·주 차원의 입법을 요구했다. 협회는 또 AI 기업이 적정한 배상책임보험에 가입하고 제품의 한계와 성능 데이터를 공개하도록 의무화하는 새 법도 추진하고 있다."
-              },
-              {
-                "t": "p",
-                "x": "AMA 정책은 특정 AI 제품 사용이 의무화된 상황에서 해로운 오류가 생기면 병원, 의료 시스템, 보험사, 헬스테크 업체가 책임을 져야 한다고 명시한다. AMA는 환자가 피해를 본 경우 의사를 상대로 한 의료과실 소송이 아니라 AI 제조사와 공급업체, 그리고 경우에 따라 AI 시스템 사용을 의무화한 의료 시스템이 책임을 져야 한다고 주장한다."
-              },
-              {
-                "t": "p",
-                "x": "UC Davis 교수 마틴 힐버트(Martin Hilbert)는 Axios에 \"사안마다 책임 주체가 다르며, 최종 사용자에게만 책임을 물을 수는 없다\"고 말했다. FDA는 AI-enabled 의료기기 규제에 새로운 체계가 필요한지 검토하고 있으며, AdvaMed는 당국이 현행 방식을 유지해야 한다고 촉구하고 있다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AI-caused 被害で\n医師が免責を要求",
-          "body": "AMAは、AIによる患者被害で医師を守り、AI企業に賠償保険を義務付ける法整備を求めた。",
-          "mini_headline": "AMA、AI責任の免除を要求",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://images.axios.com/UGhAq1_gsT5ZluDlIyxxjbXh0YQ=/0x0:1920x1080/1920x1080/2026/11/12/1794506966317.jpeg"
-              },
-              {
-                "t": "p",
-                "x": "病院や診療所で人工知能(AI)の導入が急速に進むなか、米国最大の医師団体が、AIが患者に害を及ぼした場合に備えた新たな法的保護を求めてロビー活動に乗り出した。"
-              },
-              {
-                "t": "p",
-                "x": "米国医師会(American Medical Association)は今週、医師が想定どおりにツールを使っていたにもかかわらずAI製品が患者に損害を与えた場合に、医師を賠償責任から守る連邦法と州法の制定を求めた。同会はまた、AI企業に十分な賠償責任保険への加入と、製品の限界や性能データの開示を義務付ける新法も求めている。"
-              },
-              {
-                "t": "p",
-                "x": "AMAの方針は、特定のAI製品の使用が義務付けられ、その結果として有害な誤りが生じた場合には、病院、医療システム、保険会社、ヘルステック企業が責任を負うべきだとしている。AMAは、患者が被害を受けた場合、医師に対する医療過誤訴訟ではなく、AIの製造元や販売企業、さらに場合によってはAIシステムの使用を義務付けた医療システムが責任を負うべきだと主張する。"
-              },
-              {
-                "t": "p",
-                "x": "UC Davisのマーティン・ヒルバート(Martin Hilbert)教授はAxiosに対し、「ケースごとに責任を負う当事者は異なり、エンドユーザーだけに責任を負わせることはできない」と語った。FDAはAI-enabled医療機器の規制に新たな枠組みが必要かを検討しており、AdvaMedは同局に現行の手法を継続するよう求めている。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "AI-caused 患者伤害\n医生寻求免责保护",
-          "body": "AMA呼吁立法，在AI伤害患者时保护医生，并要求AI供应商购买责任保险。",
-          "mini_headline": "AMA寻求AI责任豁免",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://images.axios.com/UGhAq1_gsT5ZluDlIyxxjbXh0YQ=/0x0:1920x1080/1920x1080/2026/11/12/1794506966317.jpeg"
-              },
-              {
-                "t": "p",
-                "x": "人工智能在医院和诊所中迅速部署，促使美国最大的医生团体展开游说，争取在AI伤害患者时获得新的法律保护。"
-              },
-              {
-                "t": "p",
-                "x": "美国医学会（American Medical Association）本周呼吁联邦和州层面立法，在医生按预期方式使用工具、AI产品却仍伤害患者时，保护医生免于承担责任。该组织还在推动新法，要求AI公司投保足够的责任保险，并披露产品局限和性能数据。"
-              },
-              {
-                "t": "p",
-                "x": "AMA政策指出，如果强制使用特定AI产品导致有害错误，医院、医疗系统、保险公司和医疗科技供应商应当承担责任。AMA认为，在患者受到伤害的情况下，责任应由AI制造商和供应商承担，也可能由要求使用这些AI系统的医疗系统承担，而不是通过针对医生的医疗事故索赔来追究。"
-              },
-              {
-                "t": "p",
-                "x": "UC Davis教授Martin Hilbert对Axios表示：“不同情况由不同方负责，不能只追究最终用户的责任。”FDA正在评估是否需要新的框架来监管AI-enabled医疗器械，而AdvaMed则敦促该机构继续沿用现行做法。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Médicos piden un escudo legal\npor daños AI-caused a pacientes",
-          "body": "La AMA pidió leyes que protejan a los médicos si la AI daña a pacientes y que los proveedores de AI tengan seguro.",
-          "mini_headline": "La AMA pide un escudo de responsabilidad por AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://images.axios.com/UGhAq1_gsT5ZluDlIyxxjbXh0YQ=/0x0:1920x1080/1920x1080/2026/11/12/1794506966317.jpeg"
-              },
-              {
-                "t": "p",
-                "x": "El rápido despliegue de la inteligencia artificial en hospitales y clínicas está llevando al mayor grupo de médicos del país a presionar por nuevas protecciones legales en caso de que la AI cause daños a los pacientes."
-              },
-              {
-                "t": "p",
-                "x": "La American Medical Association pidió esta semana legislación federal y estatal que proteja a los médicos de responsabilidad cuando los productos de AI lesionen a pacientes, pese a que los médicos usen las herramientas según lo previsto. El grupo también impulsa nuevas leyes que obliguen a las empresas de AI a contar con un seguro de responsabilidad adecuado y a divulgar las limitaciones de sus productos y sus datos de rendimiento."
-              },
-              {
-                "t": "p",
-                "x": "Hospitales, sistemas de salud, aseguradoras y proveedores de tecnología sanitaria deberían ser responsables si el uso obligatorio de productos específicos de AI provoca errores dañinos, establece la política de la AMA. Cuando un paciente sufra daños, la responsabilidad debería recaer en los fabricantes y proveedores de AI —y posiblemente en los sistemas de salud que exigen el uso de esos sistemas de AI— en lugar de tramitarse mediante una demanda por negligencia médica contra el médico, sostiene la AMA."
-              },
-              {
-                "t": "p",
-                "x": "\"Distintas partes son responsables en distintos casos, y no se puede responsabilizar solo al usuario final\", dijo a Axios Martin Hilbert, profesor de UC Davis. La FDA evalúa si hace falta un nuevo marco para regular los dispositivos médicos AI-enabled, mientras AdvaMed insta a la agencia a seguir aplicando sus enfoques actuales."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "politics-openai-ontario-appeal",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "캐나다 언론사의\nOpenAI 소송 진행",
-      "body": "캐나다 항소법원이 OpenAI 항소를 기각해 ChatGPT 저작권 소송이 계속된다.",
-      "mini_headline": "OpenAI 저작권 소송, 캐나다서 진행",
-      "tool": "Politics",
-      "source": "Toronto Star (The Canadian Press)",
-      "url": "https://www.thestar.com/business/court-allows-news-publishers-copyright-lawsuit-against-openai-to-go-ahead/article_5e78ecd0-e974-554c-a739-662e0f68b658.html",
-      "accent": "#0070f3",
       "motif": "cube",
       "full": {
         "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/51/f51e80ab-0b99-5f6b-8c7b-437afbea9a48/6af77f04d5d17.image.jpg",
-            "cap": "Sept. 29, 2026(화) 샌프란시스코에서 열린 OpenAI DevDay 2026 콘퍼런스에 참석자들이 모여 있다. (AP Photo/Jeff Chiu)"
+            "src": "https://img7.yna.co.kr/photo/cms/2024/05/24/30/PCM20240524000130990_P4.jpg",
+            "cap": "[강민지 제작] 일러스트"
           },
           {
             "t": "p",
-            "x": "OTTAWA - 온타리오주 항소법원(Ontario Court of Appeal)이 OpenAI의 항소를 기각했다. 캐나다 언론사들이 이 회사를 상대로 낸 저작권 소송은 온타리오주에서 그대로 진행된다."
+            "x": "(도쿄=연합뉴스) 이도연 특파원 = 일본 정부가 인공지능(AI)으로 타인의 목소리나 사진을 복제해 상업적으로 무단 이용하는 행위를 법으로 규제하는 방안을 추진한다."
           },
           {
             "t": "p",
-            "x": "The Canadian Press, Torstar, The Globe and Mail, Postmedia, CBC/Radio-Canada 등이 함께한 캐나다 언론사 연합이 한 해 전 이 소송을 냈다."
+            "x": "14일 요미우리신문에 따르면 전날 일본 경제산업성은 생성형 AI를 사용해 만든 목소리나 초상의 무단 사용 등을 부정경쟁방지법으로 규제하기 위한 구체적 방안을 관련 전문가 회의에 제시했다."
           },
           {
             "t": "p",
-            "x": "언론사들은 OpenAI가 자신들의 뉴스 콘텐츠를 ChatGPT 학습에 써 저작권을 침해했으며 허락도 보상도 없이 그 콘텐츠로 이익을 얻는다고 주장한다."
+            "x": "규제 대상은 주로 유명인 등 특정 인물의 목소리나 초상을 본인의 허락 없이 AI로 복제해 상업적으로 이용하는 경우다."
           },
           {
             "t": "p",
-            "x": "ChatGPT 개발사 OpenAI는 관할권에 이의를 제기하며 U.S. 법정에서 다룰 사건이라고 맞섰다. 그러나 온타리오주 고등법원(Ontario Superior Court of Justice)은 이 사건을 심리할 관할권이 자신에게 있다고 봤다."
+            "x": "제출안에는 규제 대상이 유명인의 이미지를 사용한 브로마이드나 상품, 성우의 목소리를 사용한 음성 데이터 등을 직접 상품으로 판매하는 행위, 상품 가치를 올리는 등 차별화를 위해 유명인의 목소리나 초상을 사용하는 경우, 광고에 무단 활용하는 경우 등 3가지로 제시됐다."
           },
           {
             "t": "p",
-            "x": "OpenAI가 이 결정에 불복해 항소했지만 법원은 오늘 이를 기각했다."
+            "x": "정당한 표현 활동을 위축시키지 않기 위해 유명인을 흉내 내거나 성대모사하는 행위 등은 규제 대상에서 제외한다."
           },
           {
             "t": "p",
-            "x": "저작권이 있는 콘텐츠를 생성형 AI 시스템 학습에 쓰는 관행을 다룬 사건은 캐나다에서 이번이 처음이다."
+            "x": "경제산업성은 이후 전문가 회의를 거쳐 구체적인 제도를 만들 방침이다."
           },
           {
             "t": "p",
-            "x": "이 기사는 The Canadian Press가 Nov. 13, 2026에 처음 보도했다."
+            "x": "최근 생성형 AI의 보급으로 인해 유명인과 똑같은 목소리나 초상을 만들 수 있게 되면서 이를 상품이나 광고, 동영상 등에 무단 사용하는 문제가 대두했다."
+          },
+          {
+            "t": "p",
+            "x": "9월에는 AI로 생성된 성우의 목소리를 무단 모방한 영상과 관련해 도쿄지방법원이 \"목소리 역시 재산적 가치를 지닌 '퍼블리시티권'의 법적 보호 대상\"이라는 판단을 내린 바 있다."
+          },
+          {
+            "t": "p",
+            "x": "일본 법무성 자문기구는 8월 성우나 배우의 목소리도 초상과 마찬가지로 퍼블리시티권의 법적 보호 대상이라는 지침을 발표하고, 침해 정도에 따라 생성형 AI 개발·제공 업체도 공동 책임을 질 수 있다고 밝힌 바 있다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "Canadian news publishers' suit\nagainst OpenAI can proceed",
-          "body": "An Ontario appeals court dismissed OpenAI's appeal, letting publishers' ChatGPT copyright suit proceed in Canada.",
-          "mini_headline": "OpenAI copyright suit stays in Canada",
+        "ko": {
+          "headline": "일본, AI 복제 목소리\n무단 상업이용 규제 추진",
+          "body": "일본 정부가 AI로 복제한 목소리·사진의 무단 상업 이용 규제를 추진한다.",
+          "mini_headline": "日 AI 목소리 복제 규제",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/51/f51e80ab-0b99-5f6b-8c7b-437afbea9a48/6af77f04d5d17.image.jpg",
-                "cap": "Attendees gather at the OpenAI DevDay 2026 conference, Tuesday, Sept. 29, 2026, in San Francisco. (AP Photo/Jeff Chiu)"
+                "src": "https://img7.yna.co.kr/photo/cms/2024/05/24/30/PCM20240524000130990_P4.jpg",
+                "cap": "[강민지 제작] 일러스트"
               },
               {
                 "t": "p",
-                "x": "OTTAWA - The Ontario Court of Appeal is allowing a copyright lawsuit filed by Canadian news publishers against OpenAI to proceed in that province after dismissing an appeal by the company."
+                "x": "(도쿄=연합뉴스) 이도연 특파원 = 일본 정부가 인공지능(AI)으로 타인의 목소리나 사진을 복제해 상업적으로 무단 이용하는 행위를 법으로 규제하는 방안을 추진한다."
               },
               {
                 "t": "p",
-                "x": "A coalition of Canadian news outlets which includes The Canadian Press, Torstar, The Globe and Mail, Postmedia and CBC/Radio-Canada launched the lawsuit a year ago."
+                "x": "14일 요미우리신문에 따르면 전날 일본 경제산업성은 생성형 AI를 사용해 만든 목소리나 초상의 무단 사용 등을 부정경쟁방지법으로 규제하기 위한 구체적 방안을 관련 전문가 회의에 제시했다."
               },
               {
                 "t": "p",
-                "x": "They argue that OpenAI is using their news content to train ChatGPT, breaching copyright and profiting from the use of that content without permission or compensation."
+                "x": "규제 대상은 주로 유명인 등 특정 인물의 목소리나 초상을 본인의 허락 없이 AI로 복제해 상업적으로 이용하는 경우다."
               },
               {
                 "t": "p",
-                "x": "OpenAI, the company behind ChatGPT, put forward a jurisdictional challenge and argued the case should be heard in a U.S. courtroom instead, but the Ontario Superior Court of Justice concluded the court does have jurisdiction to hear the case."
+                "x": "제출안에는 규제 대상이 유명인의 이미지를 사용한 브로마이드나 상품, 성우의 목소리를 사용한 음성 데이터 등을 직접 상품으로 판매하는 행위, 상품 가치를 올리는 등 차별화를 위해 유명인의 목소리나 초상을 사용하는 경우, 광고에 무단 활용하는 경우 등 3가지로 제시됐다."
               },
               {
                 "t": "p",
-                "x": "OpenAI appealed the decision and the court dismissed that appeal today."
+                "x": "정당한 표현 활동을 위축시키지 않기 위해 유명인을 흉내 내거나 성대모사하는 행위 등은 규제 대상에서 제외한다."
               },
               {
                 "t": "p",
-                "x": "The lawsuit is the first Canadian case to address the practice of using copyrighted content to train generative AI systems."
+                "x": "경제산업성은 이후 전문가 회의를 거쳐 구체적인 제도를 만들 방침이다."
               },
               {
                 "t": "p",
-                "x": "This report by The Canadian Press was first published Nov. 13, 2026."
+                "x": "최근 생성형 AI의 보급으로 인해 유명인과 똑같은 목소리나 초상을 만들 수 있게 되면서 이를 상품이나 광고, 동영상 등에 무단 사용하는 문제가 대두했다."
+              },
+              {
+                "t": "p",
+                "x": "9월에는 AI로 생성된 성우의 목소리를 무단 모방한 영상과 관련해 도쿄지방법원이 \"목소리 역시 재산적 가치를 지닌 '퍼블리시티권'의 법적 보호 대상\"이라는 판단을 내린 바 있다."
+              },
+              {
+                "t": "p",
+                "x": "일본 법무성 자문기구는 8월 성우나 배우의 목소리도 초상과 마찬가지로 퍼블리시티권의 법적 보호 대상이라는 지침을 발표하고, 침해 정도에 따라 생성형 AI 개발·제공 업체도 공동 책임을 질 수 있다고 밝힌 바 있다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "캐나다 언론사의\nOpenAI 소송 진행",
-          "body": "캐나다 항소법원이 OpenAI 항소를 기각해 ChatGPT 저작권 소송이 계속된다.",
-          "mini_headline": "OpenAI 저작권 소송, 캐나다서 진행",
+        "en": {
+          "headline": "Japan to curb unauthorized\ncommercial use of AI voices",
+          "body": "Japan's government is pursuing rules against the unauthorized commercial use of voices and photos cloned with AI.",
+          "mini_headline": "Japan to curb AI voice cloning",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/51/f51e80ab-0b99-5f6b-8c7b-437afbea9a48/6af77f04d5d17.image.jpg",
-                "cap": "Sept. 29, 2026(화) 샌프란시스코에서 열린 OpenAI DevDay 2026 콘퍼런스에 참석자들이 모여 있다. (AP Photo/Jeff Chiu)"
+                "src": "https://img7.yna.co.kr/photo/cms/2024/05/24/30/PCM20240524000130990_P4.jpg",
+                "cap": "[Illustration by Kang Min-ji]"
               },
               {
                 "t": "p",
-                "x": "OTTAWA - 온타리오주 항소법원(Ontario Court of Appeal)이 OpenAI의 항소를 기각했다. 캐나다 언론사들이 이 회사를 상대로 낸 저작권 소송은 온타리오주에서 그대로 진행된다."
+                "x": "(Tokyo=Yonhap News) Correspondent Lee Do-yeon = The Japanese government is pursuing legislation to regulate the unauthorized commercial use of other people's voices or photos replicated with artificial intelligence (AI)."
               },
               {
                 "t": "p",
-                "x": "The Canadian Press, Torstar, The Globe and Mail, Postmedia, CBC/Radio-Canada 등이 함께한 캐나다 언론사 연합이 한 해 전 이 소송을 냈다."
+                "x": "According to the Yomiuri Shimbun on the 14th, Japan's Ministry of Economy, Trade and Industry on the previous day presented a related expert panel with concrete proposals to regulate, under the Unfair Competition Prevention Act, the unauthorized use of voices and likenesses created with generative AI."
               },
               {
                 "t": "p",
-                "x": "언론사들은 OpenAI가 자신들의 뉴스 콘텐츠를 ChatGPT 학습에 써 저작권을 침해했으며 허락도 보상도 없이 그 콘텐츠로 이익을 얻는다고 주장한다."
+                "x": "The regulation mainly targets cases in which the voice or likeness of a specific person, such as a celebrity, is replicated with AI without their permission and used commercially."
               },
               {
                 "t": "p",
-                "x": "ChatGPT 개발사 OpenAI는 관할권에 이의를 제기하며 U.S. 법정에서 다룰 사건이라고 맞섰다. 그러나 온타리오주 고등법원(Ontario Superior Court of Justice)은 이 사건을 심리할 관할권이 자신에게 있다고 봤다."
+                "x": "The proposal sets out 3 categories of regulated conduct: directly selling as products items such as bromides or merchandise using a celebrity's image, or voice data using a voice actor's voice; using a celebrity's voice or likeness to differentiate a product, such as by raising its value; and using them in advertising without authorization."
               },
               {
                 "t": "p",
-                "x": "OpenAI가 이 결정에 불복해 항소했지만 법원은 오늘 이를 기각했다."
+                "x": "To avoid chilling legitimate expression, acts such as imitating celebrities or impersonating their voices are excluded from the regulation."
               },
               {
                 "t": "p",
-                "x": "저작권이 있는 콘텐츠를 생성형 AI 시스템 학습에 쓰는 관행을 다룬 사건은 캐나다에서 이번이 처음이다."
+                "x": "The ministry plans to design a concrete system after further expert panel meetings."
               },
               {
                 "t": "p",
-                "x": "이 기사는 The Canadian Press가 Nov. 13, 2026에 처음 보도했다."
+                "x": "With the recent spread of generative AI making it possible to create voices and likenesses identical to those of celebrities, their unauthorized use in products, advertising and videos has emerged as a problem."
+              },
+              {
+                "t": "p",
+                "x": "In September, in a case involving a video that imitated an AI-generated voice actor's voice without permission, the Tokyo District Court ruled that \"voices are also subject to legal protection under 'publicity rights,' which carry property value.\""
+              },
+              {
+                "t": "p",
+                "x": "In August, an advisory body to Japan's Ministry of Justice issued guidelines stating that the voices of voice actors and actors, like likenesses, are subject to legal protection under publicity rights, and said that generative AI developers and providers could also bear joint liability depending on the degree of infringement."
               }
             ]
           }
         },
         "ja": {
-          "headline": "カナダ報道機関の\nOpenAI提訴が続行",
-          "body": "オンタリオ州控訴裁がOpenAIの控訴を棄却し、ChatGPT著作権訴訟がカナダで続く。",
-          "mini_headline": "OpenAI著作権訴訟、カナダで継続",
+          "headline": "日本、AI複製音声の\n無断商用を規制へ",
+          "body": "日本政府は、AIで複製した声や写真の無断商用利用を規制する方針だ。",
+          "mini_headline": "日本、AI音声複製を規制",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/51/f51e80ab-0b99-5f6b-8c7b-437afbea9a48/6af77f04d5d17.image.jpg",
-                "cap": "Sept. 29, 2026(火)、サンフランシスコで開かれたOpenAI DevDay 2026カンファレンスに集まった参加者たち。(AP Photo/Jeff Chiu)"
+                "src": "https://img7.yna.co.kr/photo/cms/2024/05/24/30/PCM20240524000130990_P4.jpg",
+                "cap": "[カン・ミンジ制作] イラスト"
               },
               {
                 "t": "p",
-                "x": "OTTAWA - オンタリオ州控訴裁判所(Ontario Court of Appeal)はOpenAIの控訴を棄却し、カナダの報道機関が同社を相手取って起こした著作権訴訟を同州で進めることを認めた。"
+                "x": "（東京＝聯合ニュース）イ・ドヨン特派員＝日本政府は、人工知能（AI）で他人の声や写真を複製し、商業的に無断で利用する行為を法律で規制する方針を進めている。"
               },
               {
                 "t": "p",
-                "x": "The Canadian Press、Torstar、The Globe and Mail、Postmedia、CBC/Radio-Canadaなどからなるカナダの報道機関の連合が、一年前にこの訴訟を起こした。"
+                "x": "14日の読売新聞によると、日本の経済産業省は前日、生成AIを使って作られた声や肖像の無断使用などを不正競争防止法で規制するための具体案を、関連の有識者会議に示した。"
               },
               {
                 "t": "p",
-                "x": "原告側は、OpenAIが自社のニュースコンテンツをChatGPTの学習に使って著作権を侵害し、許可も対価もなくそのコンテンツから利益を得ていると主張している。"
+                "x": "規制対象は主に、著名人など特定の人物の声や肖像を本人の許可なくAIで複製し、商業的に利用するケースだ。"
               },
               {
                 "t": "p",
-                "x": "ChatGPTを手がけるOpenAIは管轄権に異議を唱え、本件はU.S.の法廷で審理されるべきだと主張したが、オンタリオ州上級裁判所(Ontario Superior Court of Justice)は同裁判所に本件の審理管轄権があると結論づけた。"
+                "x": "提出案では規制対象として、著名人の画像を使ったブロマイドや商品、声優の声を使った音声データなどを直接商品として販売する行為、商品価値を高めるなど差別化のために著名人の声や肖像を使う場合、広告に無断で活用する場合の3つが示された。"
               },
               {
                 "t": "p",
-                "x": "OpenAIはこの判断を不服として控訴したが、裁判所は本日その控訴を棄却した。"
+                "x": "正当な表現活動を萎縮させないよう、著名人の物まねや声帯模写などは規制対象から除外する。"
               },
               {
                 "t": "p",
-                "x": "本訴訟は、著作権で保護されたコンテンツを生成AIシステムの学習に使う慣行を扱うカナダ初の事例である。"
+                "x": "経済産業省は今後、有識者会議を経て具体的な制度を設計する方針だ。"
               },
               {
                 "t": "p",
-                "x": "この記事はThe Canadian PressがNov. 13, 2026に最初に配信した。"
+                "x": "近年、生成AIの普及によって著名人とそっくりな声や肖像を作れるようになり、それらを商品や広告、動画などに無断で使う問題が浮上していた。"
+              },
+              {
+                "t": "p",
+                "x": "9月には、AIで生成した声優の声を無断で模倣した動画をめぐり、東京地裁が「声もまた財産的価値を持つ『パブリシティー権』の法的保護の対象だ」との判断を示している。"
+              },
+              {
+                "t": "p",
+                "x": "日本の法務省の諮問機関は8月、声優や俳優の声も肖像と同様にパブリシティー権の法的保護の対象とする指針を発表し、侵害の程度によっては生成AIの開発・提供事業者も共同で責任を負い得るとしていた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "加拿大新闻机构\n诉OpenAI案可继续",
-          "body": "安大略上诉法院驳回OpenAI上诉，出版商的ChatGPT版权诉讼得以在加拿大继续。",
-          "mini_headline": "OpenAI版权诉讼留在加拿大审理",
+          "headline": "日本拟规范AI复制声音\n无授权商业使用",
+          "body": "日本政府拟对擅自将AI复制的声音和照片用于商业用途的行为加以规制。",
+          "mini_headline": "日本拟规范AI声音复制",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/51/f51e80ab-0b99-5f6b-8c7b-437afbea9a48/6af77f04d5d17.image.jpg",
-                "cap": "Sept. 29, 2026（星期二），与会者聚集在旧金山举行的OpenAI DevDay 2026大会现场。(AP Photo/Jeff Chiu)"
+                "src": "https://img7.yna.co.kr/photo/cms/2024/05/24/30/PCM20240524000130990_P4.jpg",
+                "cap": "[Kang Min-ji 制作] 插图"
               },
               {
                 "t": "p",
-                "x": "OTTAWA - 安大略省上诉法院（Ontario Court of Appeal）驳回了OpenAI的上诉，允许加拿大新闻出版商针对该公司提起的版权诉讼在该省继续审理。"
+                "x": "（东京=韩联社）特派记者 Lee Do-yeon = 日本政府正推动立法，规制利用人工智能（AI）复制他人声音或照片并擅自用于商业用途的行为。"
               },
               {
                 "t": "p",
-                "x": "由The Canadian Press、Torstar、The Globe and Mail、Postmedia和CBC/Radio-Canada等组成的加拿大新闻机构联盟于一年前提起了这起诉讼。"
+                "x": "据《读卖新闻》14日报道，日本经济产业省前一天向相关专家会议提交了具体方案，拟依据《不正当竞争防止法》规制擅自使用生成式AI制作的声音或肖像等行为。"
               },
               {
                 "t": "p",
-                "x": "他们认为，OpenAI利用其新闻内容训练ChatGPT，侵犯了版权，并在未经许可、未支付报酬的情况下借这些内容获利。"
+                "x": "规制对象主要是未经本人许可，用AI复制名人等特定人物的声音或肖像并用于商业用途的情形。"
               },
               {
                 "t": "p",
-                "x": "ChatGPT的开发商OpenAI提出管辖权异议，主张此案应改由U.S.法庭审理，但安大略省高等法院（Ontario Superior Court of Justice）认定其对此案拥有管辖权。"
+                "x": "提交的方案列出了3类规制对象：直接销售使用名人形象的明星照或商品、使用声优声音的语音数据等产品的行为；为提升商品价值等差异化目的而使用名人声音或肖像的情形；以及擅自用于广告的情形。"
               },
               {
                 "t": "p",
-                "x": "OpenAI对该裁决提出上诉，法院今天驳回了这一上诉。"
+                "x": "为避免压制正当的表达活动，模仿名人或模仿其声音等行为不在规制范围之内。"
               },
               {
                 "t": "p",
-                "x": "这是加拿大首起涉及使用受版权保护内容训练生成式AI系统这一做法的案件。"
+                "x": "经济产业省计划此后经过专家会议讨论，制定具体制度。"
               },
               {
                 "t": "p",
-                "x": "本报道由The Canadian Press于Nov. 13, 2026首发。"
+                "x": "近来随着生成式AI的普及，人们可以制作出与名人一模一样的声音或肖像，将其擅自用于商品、广告和视频等的问题日益突出。"
+              },
+              {
+                "t": "p",
+                "x": "9月，东京地方法院在一起涉及擅自模仿AI生成的声优声音的视频案件中作出判断，认为“声音同样是具有财产价值的‘公开权’的法律保护对象”。"
+              },
+              {
+                "t": "p",
+                "x": "日本法务省咨询机构曾于8月发布指南，指出声优和演员的声音与肖像一样属于公开权的法律保护对象，并表示视侵权程度，生成式AI开发和提供企业也可能承担共同责任。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Sigue la demanda de medios\ncanadienses contra OpenAI",
-          "body": "La corte de apelación de Ontario rechazó el recurso de OpenAI y la demanda de medios por ChatGPT seguirá en Canadá.",
-          "mini_headline": "La demanda contra OpenAI sigue en Canadá",
+          "headline": "Japón busca regular el uso no\nautorizado de voces con AI",
+          "body": "El Gobierno de Japón busca regular el uso comercial no autorizado de voces y fotos clonadas con AI.",
+          "mini_headline": "Japón y las voces clonadas con AI",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/51/f51e80ab-0b99-5f6b-8c7b-437afbea9a48/6af77f04d5d17.image.jpg",
-                "cap": "Asistentes reunidos en la conferencia OpenAI DevDay 2026, el martes Sept. 29, 2026, en San Francisco. (AP Photo/Jeff Chiu)"
+                "src": "https://img7.yna.co.kr/photo/cms/2024/05/24/30/PCM20240524000130990_P4.jpg",
+                "cap": "[Ilustración elaborada por Kang Min-ji]"
               },
               {
                 "t": "p",
-                "x": "OTTAWA - El Tribunal de Apelación de Ontario (Ontario Court of Appeal) permite que una demanda por derechos de autor presentada por medios de noticias canadienses contra OpenAI siga adelante en esa provincia, tras rechazar una apelación de la empresa."
+                "x": "(Tokio=Yonhap) El corresponsal Lee Do-yeon informa que el Gobierno de Japón impulsa una ley para regular la clonación de la voz o las fotos de otras personas mediante inteligencia artificial (AI) y su uso comercial sin autorización."
               },
               {
                 "t": "p",
-                "x": "Una coalición de medios canadienses que incluye a The Canadian Press, Torstar, The Globe and Mail, Postmedia y CBC/Radio-Canada presentó la demanda hace un año."
+                "x": "Según el diario Yomiuri Shimbun del 14, el Ministerio de Economía, Comercio e Industria de Japón presentó el día anterior a un panel de expertos propuestas concretas para regular, mediante la Ley de Prevención de la Competencia Desleal, el uso no autorizado de voces o imágenes creadas con AI generativa."
               },
               {
                 "t": "p",
-                "x": "Sostienen que OpenAI usa sus contenidos informativos para entrenar a ChatGPT, lo que vulnera los derechos de autor, y que se beneficia de ese contenido sin permiso ni compensación."
+                "x": "La regulación se dirige principalmente a los casos en que se clona con AI la voz o la imagen de una persona concreta, como un famoso, sin su permiso, y se usa con fines comerciales."
               },
               {
                 "t": "p",
-                "x": "OpenAI, la empresa detrás de ChatGPT, planteó una impugnación de jurisdicción y argumentó que el caso debía verse en un tribunal de EE. UU. (U.S.), pero el Tribunal Superior de Justicia de Ontario (Ontario Superior Court of Justice) concluyó que sí tiene jurisdicción para conocer del caso."
+                "x": "La propuesta establece 3 supuestos regulados: la venta directa como producto de pósteres o artículos con la imagen de famosos, o de datos de audio con la voz de actores de doblaje; el uso de la voz o la imagen de famosos para diferenciar productos, por ejemplo para aumentar su valor; y su uso no autorizado en publicidad."
               },
               {
                 "t": "p",
-                "x": "OpenAI apeló la decisión y el tribunal desestimó esa apelación hoy."
+                "x": "Para no restringir la expresión legítima, las imitaciones de famosos o de sus voces quedan excluidas de la regulación."
               },
               {
                 "t": "p",
-                "x": "La demanda es el primer caso en Canadá que aborda la práctica de usar contenido protegido por derechos de autor para entrenar sistemas de AI generativa."
+                "x": "El ministerio prevé diseñar un sistema concreto tras nuevas reuniones del panel de expertos."
               },
               {
                 "t": "p",
-                "x": "Este informe de The Canadian Press se publicó por primera vez el Nov. 13, 2026."
+                "x": "Con la reciente difusión de la AI generativa, que permite crear voces e imágenes idénticas a las de personas famosas, ha surgido el problema de su uso no autorizado en productos, publicidad y videos."
+              },
+              {
+                "t": "p",
+                "x": "En septiembre, en un caso sobre un video que imitaba sin permiso la voz de un actor de doblaje generada con AI, el Tribunal de Distrito de Tokio dictaminó que “la voz también es objeto de protección legal como ‘derecho de publicidad’, con valor patrimonial”."
+              },
+              {
+                "t": "p",
+                "x": "En agosto, un órgano asesor del Ministerio de Justicia de Japón publicó una directriz según la cual la voz de actores de doblaje y actores, al igual que su imagen, está protegida por el derecho de publicidad, y señaló que, según el grado de infracción, las empresas que desarrollan y ofrecen AI generativa también podrían asumir responsabilidad conjunta."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "캐나다 언론사의\nOpenAI 소송 진행",
-          "body": "캐나다 항소법원이 OpenAI 항소를 기각해 ChatGPT 저작권 소송이 이어진다.",
-          "mini_headline": "OpenAI 저작권 소송, 캐나다서 진행",
+        "en": {
+          "headline": "Japan to curb unauthorized\ncommercial use of AI voices",
+          "body": "Japan's government is pursuing rules against the unauthorized commercial use of voices and photos cloned with AI.",
+          "mini_headline": "Japan to curb AI voice cloning",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/51/f51e80ab-0b99-5f6b-8c7b-437afbea9a48/6af77f04d5d17.image.jpg",
-                "cap": "Sept. 29, 2026(화) 샌프란시스코에서 열린 OpenAI DevDay 2026 콘퍼런스에 참석자들이 모여 있다. (AP Photo/Jeff Chiu)"
+                "src": "https://img7.yna.co.kr/photo/cms/2024/05/24/30/PCM20240524000130990_P4.jpg",
+                "cap": "[Illustration by Kang Min-ji]"
               },
               {
                 "t": "p",
-                "x": "OTTAWA - 온타리오주 항소법원(Ontario Court of Appeal)이 OpenAI의 항소를 기각하고, 캐나다 언론사들이 이 회사를 상대로 낸 저작권 소송을 온타리오주에서 진행하도록 허용했다."
+                "x": "(Tokyo=Yonhap News) Correspondent Lee Do-yeon = The Japanese government is pursuing legislation to regulate the unauthorized commercial use of other people's voices or photos replicated with artificial intelligence (AI)."
               },
               {
                 "t": "p",
-                "x": "The Canadian Press, Torstar, The Globe and Mail, Postmedia, CBC/Radio-Canada 등이 참여한 캐나다 언론사 연합은 한 해 전 이 소송을 제기했다."
+                "x": "According to the Yomiuri Shimbun on the 14th, Japan's Ministry of Economy, Trade and Industry on the previous day presented a related expert panel with concrete proposals to regulate, under the Unfair Competition Prevention Act, the unauthorized use of voices and likenesses created with generative AI."
               },
               {
                 "t": "p",
-                "x": "이들은 OpenAI가 자사 뉴스 콘텐츠를 ChatGPT 학습에 사용해 저작권을 침해했고, 허락이나 보상 없이 그 콘텐츠로 이익을 얻고 있다고 주장한다."
+                "x": "The regulation mainly targets cases in which the voice or likeness of a specific person, such as a celebrity, is replicated with AI without their permission and used commercially."
               },
               {
                 "t": "p",
-                "x": "ChatGPT 개발사 OpenAI는 관할권 이의를 제기하며 이 사건을 U.S. 법정에서 다뤄야 한다고 주장했지만, 온타리오주 고등법원(Ontario Superior Court of Justice)은 이 사건을 심리할 관할권이 있다고 판단했다."
+                "x": "The proposal sets out 3 categories of regulated conduct: directly selling as products items such as bromides or merchandise using a celebrity's image, or voice data using a voice actor's voice; using a celebrity's voice or likeness to differentiate a product, such as by raising its value; and using them in advertising without authorization."
               },
               {
                 "t": "p",
-                "x": "OpenAI는 이 결정에 항소했고, 법원은 오늘 그 항소를 기각했다."
+                "x": "To avoid chilling legitimate expression, acts such as imitating celebrities or impersonating their voices are excluded from the regulation."
               },
               {
                 "t": "p",
-                "x": "이번 소송은 저작권 있는 콘텐츠를 생성형 AI 시스템 학습에 사용하는 관행을 다루는 캐나다 최초의 사건이다."
+                "x": "The ministry plans to design a concrete system after further expert panel meetings."
               },
               {
                 "t": "p",
-                "x": "이 기사는 The Canadian Press가 Nov. 13, 2026에 처음 보도했다."
+                "x": "With the recent spread of generative AI making it possible to create voices and likenesses identical to those of celebrities, their unauthorized use in products, advertising and videos has emerged as a problem."
+              },
+              {
+                "t": "p",
+                "x": "In September, in a case involving a video that imitated an AI-generated voice actor's voice without permission, the Tokyo District Court ruled that \"voices are also subject to legal protection under 'publicity rights,' which carry property value.\""
+              },
+              {
+                "t": "p",
+                "x": "In August, an advisory body to Japan's Ministry of Justice issued guidelines stating that the voices of voice actors and actors, like likenesses, are subject to legal protection under publicity rights, and said that generative AI developers and providers could also bear joint liability depending on the degree of infringement."
               }
             ]
           }
         },
         "ja": {
-          "headline": "カナダ報道機関の\nOpenAI提訴が続行",
-          "body": "オンタリオ州控訴裁がOpenAIの控訴を棄却し、ChatGPT著作権訴訟がカナダで続く。",
-          "mini_headline": "OpenAI著作権訴訟、カナダで継続",
+          "headline": "日本、AI複製音声の\n無断商用を規制へ",
+          "body": "日本政府は、AIで複製した声や写真の無断商用利用を規制する方針だ。",
+          "mini_headline": "日本、AI音声複製を規制",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/51/f51e80ab-0b99-5f6b-8c7b-437afbea9a48/6af77f04d5d17.image.jpg",
-                "cap": "Sept. 29, 2026(火)、サンフランシスコで開かれたOpenAI DevDay 2026カンファレンスに集まった参加者たち。(AP Photo/Jeff Chiu)"
+                "src": "https://img7.yna.co.kr/photo/cms/2024/05/24/30/PCM20240524000130990_P4.jpg",
+                "cap": "[カン・ミンジ制作] イラスト"
               },
               {
                 "t": "p",
-                "x": "OTTAWA - オンタリオ州控訴裁判所(Ontario Court of Appeal)はOpenAIの控訴を棄却し、カナダの報道機関が同社を相手取って起こした著作権訴訟を同州で進めることを認めた。"
+                "x": "（東京＝聯合ニュース）イ・ドヨン特派員＝日本政府は、人工知能（AI）で他人の声や写真を複製し、商業的に無断で利用する行為を法律で規制する方針を進めている。"
               },
               {
                 "t": "p",
-                "x": "The Canadian Press、Torstar、The Globe and Mail、Postmedia、CBC/Radio-Canadaなどからなるカナダの報道機関の連合が、一年前にこの訴訟を起こした。"
+                "x": "14日の読売新聞によると、日本の経済産業省は前日、生成AIを使って作られた声や肖像の無断使用などを不正競争防止法で規制するための具体案を、関連の有識者会議に示した。"
               },
               {
                 "t": "p",
-                "x": "原告側は、OpenAIが自社のニュースコンテンツをChatGPTの学習に使って著作権を侵害し、許可も対価もなくそのコンテンツから利益を得ていると主張している。"
+                "x": "規制対象は主に、著名人など特定の人物の声や肖像を本人の許可なくAIで複製し、商業的に利用するケースだ。"
               },
               {
                 "t": "p",
-                "x": "ChatGPTを手がけるOpenAIは管轄権に異議を唱え、本件はU.S.の法廷で審理されるべきだと主張したが、オンタリオ州上級裁判所(Ontario Superior Court of Justice)は同裁判所に本件の審理管轄権があると結論づけた。"
+                "x": "提出案では規制対象として、著名人の画像を使ったブロマイドや商品、声優の声を使った音声データなどを直接商品として販売する行為、商品価値を高めるなど差別化のために著名人の声や肖像を使う場合、広告に無断で活用する場合の3つが示された。"
               },
               {
                 "t": "p",
-                "x": "OpenAIはこの判断を不服として控訴したが、裁判所は本日その控訴を棄却した。"
+                "x": "正当な表現活動を萎縮させないよう、著名人の物まねや声帯模写などは規制対象から除外する。"
               },
               {
                 "t": "p",
-                "x": "本訴訟は、著作権で保護されたコンテンツを生成AIシステムの学習に使う慣行を扱うカナダ初の事例である。"
+                "x": "経済産業省は今後、有識者会議を経て具体的な制度を設計する方針だ。"
               },
               {
                 "t": "p",
-                "x": "この記事はThe Canadian PressがNov. 13, 2026に最初に配信した。"
+                "x": "近年、生成AIの普及によって著名人とそっくりな声や肖像を作れるようになり、それらを商品や広告、動画などに無断で使う問題が浮上していた。"
+              },
+              {
+                "t": "p",
+                "x": "9月には、AIで生成した声優の声を無断で模倣した動画をめぐり、東京地裁が「声もまた財産的価値を持つ『パブリシティー権』の法的保護の対象だ」との判断を示している。"
+              },
+              {
+                "t": "p",
+                "x": "日本の法務省の諮問機関は8月、声優や俳優の声も肖像と同様にパブリシティー権の法的保護の対象とする指針を発表し、侵害の程度によっては生成AIの開発・提供事業者も共同で責任を負い得るとしていた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "加拿大新闻机构\n诉OpenAI案可继续",
-          "body": "安大略上诉法院驳回OpenAI上诉，出版商的ChatGPT版权诉讼得以在加拿大继续。",
-          "mini_headline": "OpenAI版权诉讼留在加拿大审理",
+          "headline": "日本拟规范AI复制声音\n无授权商业使用",
+          "body": "日本政府拟对擅自将AI复制的声音和照片用于商业用途的行为加以规制。",
+          "mini_headline": "日本拟规范AI声音复制",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/51/f51e80ab-0b99-5f6b-8c7b-437afbea9a48/6af77f04d5d17.image.jpg",
-                "cap": "Sept. 29, 2026（星期二），与会者聚集在旧金山举行的OpenAI DevDay 2026大会现场。(AP Photo/Jeff Chiu)"
+                "src": "https://img7.yna.co.kr/photo/cms/2024/05/24/30/PCM20240524000130990_P4.jpg",
+                "cap": "[Kang Min-ji 制作] 插图"
               },
               {
                 "t": "p",
-                "x": "OTTAWA - 安大略省上诉法院（Ontario Court of Appeal）驳回了OpenAI的上诉，允许加拿大新闻出版商针对该公司提起的版权诉讼在该省继续审理。"
+                "x": "（东京=韩联社）特派记者 Lee Do-yeon = 日本政府正推动立法，规制利用人工智能（AI）复制他人声音或照片并擅自用于商业用途的行为。"
               },
               {
                 "t": "p",
-                "x": "由The Canadian Press、Torstar、The Globe and Mail、Postmedia和CBC/Radio-Canada等组成的加拿大新闻机构联盟于一年前提起了这起诉讼。"
+                "x": "据《读卖新闻》14日报道，日本经济产业省前一天向相关专家会议提交了具体方案，拟依据《不正当竞争防止法》规制擅自使用生成式AI制作的声音或肖像等行为。"
               },
               {
                 "t": "p",
-                "x": "他们认为，OpenAI利用其新闻内容训练ChatGPT，侵犯了版权，并在未经许可、未支付报酬的情况下借这些内容获利。"
+                "x": "规制对象主要是未经本人许可，用AI复制名人等特定人物的声音或肖像并用于商业用途的情形。"
               },
               {
                 "t": "p",
-                "x": "ChatGPT的开发商OpenAI提出管辖权异议，主张此案应改由U.S.法庭审理，但安大略省高等法院（Ontario Superior Court of Justice）认定其对此案拥有管辖权。"
+                "x": "提交的方案列出了3类规制对象：直接销售使用名人形象的明星照或商品、使用声优声音的语音数据等产品的行为；为提升商品价值等差异化目的而使用名人声音或肖像的情形；以及擅自用于广告的情形。"
               },
               {
                 "t": "p",
-                "x": "OpenAI对该裁决提出上诉，法院今天驳回了这一上诉。"
+                "x": "为避免压制正当的表达活动，模仿名人或模仿其声音等行为不在规制范围之内。"
               },
               {
                 "t": "p",
-                "x": "这是加拿大首起涉及使用受版权保护内容训练生成式AI系统这一做法的案件。"
+                "x": "经济产业省计划此后经过专家会议讨论，制定具体制度。"
               },
               {
                 "t": "p",
-                "x": "本报道由The Canadian Press于Nov. 13, 2026首发。"
+                "x": "近来随着生成式AI的普及，人们可以制作出与名人一模一样的声音或肖像，将其擅自用于商品、广告和视频等的问题日益突出。"
+              },
+              {
+                "t": "p",
+                "x": "9月，东京地方法院在一起涉及擅自模仿AI生成的声优声音的视频案件中作出判断，认为“声音同样是具有财产价值的‘公开权’的法律保护对象”。"
+              },
+              {
+                "t": "p",
+                "x": "日本法务省咨询机构曾于8月发布指南，指出声优和演员的声音与肖像一样属于公开权的法律保护对象，并表示视侵权程度，生成式AI开发和提供企业也可能承担共同责任。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Sigue la demanda de medios\ncanadienses contra OpenAI",
-          "body": "La corte de apelación de Ontario rechazó el recurso de OpenAI y la demanda de medios por ChatGPT seguirá en Canadá.",
-          "mini_headline": "La demanda contra OpenAI sigue en Canadá",
+          "headline": "Japón busca regular el uso no\nautorizado de voces con AI",
+          "body": "El Gobierno de Japón busca regular el uso comercial no autorizado de voces y fotos clonadas con AI.",
+          "mini_headline": "Japón y las voces clonadas con AI",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/51/f51e80ab-0b99-5f6b-8c7b-437afbea9a48/6af77f04d5d17.image.jpg",
-                "cap": "Asistentes reunidos en la conferencia OpenAI DevDay 2026, el martes Sept. 29, 2026, en San Francisco. (AP Photo/Jeff Chiu)"
+                "src": "https://img7.yna.co.kr/photo/cms/2024/05/24/30/PCM20240524000130990_P4.jpg",
+                "cap": "[Ilustración elaborada por Kang Min-ji]"
               },
               {
                 "t": "p",
-                "x": "OTTAWA - El Tribunal de Apelación de Ontario (Ontario Court of Appeal) permite que una demanda por derechos de autor presentada por medios de noticias canadienses contra OpenAI siga adelante en esa provincia, tras rechazar una apelación de la empresa."
+                "x": "(Tokio=Yonhap) El corresponsal Lee Do-yeon informa que el Gobierno de Japón impulsa una ley para regular la clonación de la voz o las fotos de otras personas mediante inteligencia artificial (AI) y su uso comercial sin autorización."
               },
               {
                 "t": "p",
-                "x": "Una coalición de medios canadienses que incluye a The Canadian Press, Torstar, The Globe and Mail, Postmedia y CBC/Radio-Canada presentó la demanda hace un año."
+                "x": "Según el diario Yomiuri Shimbun del 14, el Ministerio de Economía, Comercio e Industria de Japón presentó el día anterior a un panel de expertos propuestas concretas para regular, mediante la Ley de Prevención de la Competencia Desleal, el uso no autorizado de voces o imágenes creadas con AI generativa."
               },
               {
                 "t": "p",
-                "x": "Sostienen que OpenAI usa sus contenidos informativos para entrenar a ChatGPT, lo que vulnera los derechos de autor, y que se beneficia de ese contenido sin permiso ni compensación."
+                "x": "La regulación se dirige principalmente a los casos en que se clona con AI la voz o la imagen de una persona concreta, como un famoso, sin su permiso, y se usa con fines comerciales."
               },
               {
                 "t": "p",
-                "x": "OpenAI, la empresa detrás de ChatGPT, planteó una impugnación de jurisdicción y argumentó que el caso debía verse en un tribunal de EE. UU. (U.S.), pero el Tribunal Superior de Justicia de Ontario (Ontario Superior Court of Justice) concluyó que sí tiene jurisdicción para conocer del caso."
+                "x": "La propuesta establece 3 supuestos regulados: la venta directa como producto de pósteres o artículos con la imagen de famosos, o de datos de audio con la voz de actores de doblaje; el uso de la voz o la imagen de famosos para diferenciar productos, por ejemplo para aumentar su valor; y su uso no autorizado en publicidad."
               },
               {
                 "t": "p",
-                "x": "OpenAI apeló la decisión y el tribunal desestimó esa apelación hoy."
+                "x": "Para no restringir la expresión legítima, las imitaciones de famosos o de sus voces quedan excluidas de la regulación."
               },
               {
                 "t": "p",
-                "x": "La demanda es el primer caso en Canadá que aborda la práctica de usar contenido protegido por derechos de autor para entrenar sistemas de AI generativa."
+                "x": "El ministerio prevé diseñar un sistema concreto tras nuevas reuniones del panel de expertos."
               },
               {
                 "t": "p",
-                "x": "Este informe de The Canadian Press se publicó por primera vez el Nov. 13, 2026."
+                "x": "Con la reciente difusión de la AI generativa, que permite crear voces e imágenes idénticas a las de personas famosas, ha surgido el problema de su uso no autorizado en productos, publicidad y videos."
+              },
+              {
+                "t": "p",
+                "x": "En septiembre, en un caso sobre un video que imitaba sin permiso la voz de un actor de doblaje generada con AI, el Tribunal de Distrito de Tokio dictaminó que “la voz también es objeto de protección legal como ‘derecho de publicidad’, con valor patrimonial”."
+              },
+              {
+                "t": "p",
+                "x": "En agosto, un órgano asesor del Ministerio de Justicia de Japón publicó una directriz según la cual la voz de actores de doblaje y actores, al igual que su imagen, está protegida por el derecho de publicidad, y señaló que, según el grado de infracción, las empresas que desarrollan y ofrecen AI generativa también podrían asumir responsabilidad conjunta."
               }
             ]
           }
@@ -757,15 +525,577 @@
       }
     },
     {
-      "id": "politics-indonesia-copyright-bill",
+      "id": "politics-japan-ai-safety-penalties",
+      "source_lang": "ko",
+      "eyebrow": "AI NEWS",
+      "headline": "일본, AI 안전 의무\n법제화·벌칙 신설 검토",
+      "body": "일본 정부가 AI 사업자의 안전 확보 의무화와 위반 시 벌칙 신설을 검토하고 있다.",
+      "mini_headline": "日 AI 안전 의무화 검토",
+      "tool": "Politics",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261112066200009",
+      "accent": "#0070f3",
+      "motif": "cube",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "고성능 AI 위험 대응 강제 수단 확보…연말 법 개정안 윤곽"
+          },
+          {
+            "t": "p",
+            "x": "(서울=연합뉴스) 최이락 기자 = 일본 정부가 고성능 인공지능(AI)이 초래하는 사이버 공격 등 위험에 대응하기 위해 AI 사업자의 안전 확보를 의무화하고 위반 시 벌칙을 신설하는 방안을 검토하고 있다."
+          },
+          {
+            "t": "p",
+            "x": "12일 마이니치신문에 따르면 일본 정부는 전날 비공개로 열린 AI 법제도 논의 실무 작업반(워킹그룹) 회의에서 이런 방침을 확인했다."
+          },
+          {
+            "t": "p",
+            "x": "일본 정부는 연말까지 법 개정 내용을 포함한 제도 개편의 전체 윤곽을 마련할 예정이다."
+          },
+          {
+            "t": "img",
+            "src": "https://img2.yna.co.kr/photo/cms/2026/10/20/55/PCM20261020000055990_P4.jpg",
+            "cap": "[교도=연합뉴스 자료사진. 재판매 및 DB 금지]"
+          },
+          {
+            "t": "p",
+            "x": "이번 조치는 고성능 AI가 통제 불능 상황이 되거나 사이버 테러에 악용되는 등 안보·안전에 중대한 위협이 발생해도 정부의 시정 요청에 응하지 않는 악질·비협조적 사업자를 처벌할 강제력 있는 수단을 확보하기 위한 것이다."
+          },
+          {
+            "t": "p",
+            "x": "현행 AI법은 국민 권리 침해 등 문제 발생 시 정부가 AI 사업자를 조사할 수 있도록 규정하고 있으나 처벌 조항은 없다."
+          },
+          {
+            "t": "p",
+            "x": "정부는 필요시 강제력 있는 시정 명령을 내리고, 이를 위반할 경우 벌칙을 적용하는 방안을 구상 중이다."
+          },
+          {
+            "t": "p",
+            "x": "다만 벌칙은 위험성이 큰 고성능 AI에 한정해 적용하기로 했다. 일반적인 성능의 AI는 기존 법령과 가이드라인으로 대응할 방침이다."
+          },
+          {
+            "t": "p",
+            "x": "AI 사업 영역이 기초모델 개발부터 서비스 제공까지 세분돼있는 만큼, 미국 거대 정보기술(IT) 기업을 포함해 규제 대상을 어디까지 포함할지도 논의할 방침이다."
+          },
+          {
+            "t": "p",
+            "x": "한편 전날 열린 비공개회의에는 생성형 AI '클로드' 개발사인 미국 앤트로픽과 '챗GPT' 개발사 오픈AI의 일본 법인, 일본 통신기업 NTT 등이 참석해 자사의 대응 현황과 의견을 전달했다."
+          }
+        ]
+      },
+      "text": {
+        "ko": {
+          "headline": "일본, AI 안전 의무\n법제화·벌칙 신설 검토",
+          "body": "일본 정부가 AI 사업자의 안전 확보 의무화와 위반 시 벌칙 신설을 검토하고 있다.",
+          "mini_headline": "日 AI 안전 의무화 검토",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "고성능 AI 위험 대응 강제 수단 확보…연말 법 개정안 윤곽"
+              },
+              {
+                "t": "p",
+                "x": "(서울=연합뉴스) 최이락 기자 = 일본 정부가 고성능 인공지능(AI)이 초래하는 사이버 공격 등 위험에 대응하기 위해 AI 사업자의 안전 확보를 의무화하고 위반 시 벌칙을 신설하는 방안을 검토하고 있다."
+              },
+              {
+                "t": "p",
+                "x": "12일 마이니치신문에 따르면 일본 정부는 전날 비공개로 열린 AI 법제도 논의 실무 작업반(워킹그룹) 회의에서 이런 방침을 확인했다."
+              },
+              {
+                "t": "p",
+                "x": "일본 정부는 연말까지 법 개정 내용을 포함한 제도 개편의 전체 윤곽을 마련할 예정이다."
+              },
+              {
+                "t": "img",
+                "src": "https://img2.yna.co.kr/photo/cms/2026/10/20/55/PCM20261020000055990_P4.jpg",
+                "cap": "[교도=연합뉴스 자료사진. 재판매 및 DB 금지]"
+              },
+              {
+                "t": "p",
+                "x": "이번 조치는 고성능 AI가 통제 불능 상황이 되거나 사이버 테러에 악용되는 등 안보·안전에 중대한 위협이 발생해도 정부의 시정 요청에 응하지 않는 악질·비협조적 사업자를 처벌할 강제력 있는 수단을 확보하기 위한 것이다."
+              },
+              {
+                "t": "p",
+                "x": "현행 AI법은 국민 권리 침해 등 문제 발생 시 정부가 AI 사업자를 조사할 수 있도록 규정하고 있으나 처벌 조항은 없다."
+              },
+              {
+                "t": "p",
+                "x": "정부는 필요시 강제력 있는 시정 명령을 내리고, 이를 위반할 경우 벌칙을 적용하는 방안을 구상 중이다."
+              },
+              {
+                "t": "p",
+                "x": "다만 벌칙은 위험성이 큰 고성능 AI에 한정해 적용하기로 했다. 일반적인 성능의 AI는 기존 법령과 가이드라인으로 대응할 방침이다."
+              },
+              {
+                "t": "p",
+                "x": "AI 사업 영역이 기초모델 개발부터 서비스 제공까지 세분돼있는 만큼, 미국 거대 정보기술(IT) 기업을 포함해 규제 대상을 어디까지 포함할지도 논의할 방침이다."
+              },
+              {
+                "t": "p",
+                "x": "한편 전날 열린 비공개회의에는 생성형 AI '클로드' 개발사인 미국 앤트로픽과 '챗GPT' 개발사 오픈AI의 일본 법인, 일본 통신기업 NTT 등이 참석해 자사의 대응 현황과 의견을 전달했다."
+              }
+            ]
+          }
+        },
+        "en": {
+          "headline": "Japan weighs AI safety duties\nand penalties for violators",
+          "body": "Japan's government is considering mandatory safety duties for AI businesses and new penalties for violations.",
+          "mini_headline": "Japan weighs AI safety mandate",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Securing enforceable tools against high-performance AI risks… outline of legal amendments by year-end"
+              },
+              {
+                "t": "p",
+                "x": "(Seoul=Yonhap News) Reporter Choi Yi-rak = The Japanese government is considering making it mandatory for AI businesses to ensure safety and introducing penalties for violations, in order to respond to risks such as cyberattacks posed by high-performance artificial intelligence (AI)."
+              },
+              {
+                "t": "p",
+                "x": "According to the Mainichi Shimbun on the 12th, the Japanese government confirmed this direction the previous day at a closed-door meeting of a working group discussing the AI legal framework."
+              },
+              {
+                "t": "p",
+                "x": "The Japanese government plans to prepare an overall outline of the institutional overhaul, including the content of legal amendments, by the end of the year."
+              },
+              {
+                "t": "img",
+                "src": "https://img2.yna.co.kr/photo/cms/2026/10/20/55/PCM20261020000055990_P4.jpg",
+                "cap": "[Kyodo=Yonhap News file photo. Resale and DB use prohibited]"
+              },
+              {
+                "t": "p",
+                "x": "The measure aims to secure enforceable means to punish malicious or uncooperative businesses that do not respond to government requests for corrective action even when serious threats to security and safety arise, such as high-performance AI going out of control or being misused for cyberterrorism."
+              },
+              {
+                "t": "p",
+                "x": "The current AI Act allows the government to investigate AI businesses when problems such as infringement of citizens' rights arise, but it contains no penalty provisions."
+              },
+              {
+                "t": "p",
+                "x": "The government is considering issuing enforceable corrective orders when necessary and applying penalties when those orders are violated."
+              },
+              {
+                "t": "p",
+                "x": "However, penalties will apply only to high-performance AI with significant risks. AI of ordinary performance will be handled through existing laws and guidelines."
+              },
+              {
+                "t": "p",
+                "x": "Because the AI business is divided into segments ranging from foundation model development to service provision, the government also plans to discuss how far the scope of regulation should extend, including large American information technology (IT) companies."
+              },
+              {
+                "t": "p",
+                "x": "Meanwhile, the closed-door meeting held the previous day was attended by American company Anthropic, developer of the generative AI 'Claude'; the Japanese unit of OpenAI, developer of 'ChatGPT'; and Japanese telecom company NTT, among others, which shared their current responses and views."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "日本、AI安全確保を\n義務化し罰則も検討",
+          "body": "日本政府はAI事業者の安全確保の義務化と、違反時の罰則新設を検討している。",
+          "mini_headline": "日本、AI安全義務化を検討",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "高性能AIのリスクに対応する強制手段を確保…年末に法改正案の輪郭"
+              },
+              {
+                "t": "p",
+                "x": "（ソウル＝聯合ニュース）チェ・イラク記者＝日本政府は、高性能人工知能（AI）がもたらすサイバー攻撃などのリスクに対応するため、AI事業者に安全確保を義務付け、違反時の罰則を新設する案を検討している。"
+              },
+              {
+                "t": "p",
+                "x": "12日の毎日新聞によると、日本政府は前日に非公開で開かれた、AI法制度を議論する実務作業部会（ワーキンググループ）の会合でこの方針を確認した。"
+              },
+              {
+                "t": "p",
+                "x": "日本政府は年末までに、法改正の内容を含む制度見直しの全体像をまとめる予定だ。"
+              },
+              {
+                "t": "img",
+                "src": "https://img2.yna.co.kr/photo/cms/2026/10/20/55/PCM20261020000055990_P4.jpg",
+                "cap": "[共同＝聯合ニュース資料写真。転売およびDB禁止]"
+              },
+              {
+                "t": "p",
+                "x": "今回の措置は、高性能AIが制御不能に陥ったりサイバーテロに悪用されたりするなど、安全保障や安全に重大な脅威が生じても政府の是正要請に応じない悪質・非協力的な事業者を処罰できる、強制力のある手段を確保するためのものだ。"
+              },
+              {
+                "t": "p",
+                "x": "現行のAI法は、国民の権利侵害などの問題が起きた場合に政府がAI事業者を調査できると定めているが、罰則規定はない。"
+              },
+              {
+                "t": "p",
+                "x": "政府は必要に応じて強制力のある是正命令を出し、これに違反した場合に罰則を科す案を構想している。"
+              },
+              {
+                "t": "p",
+                "x": "ただし罰則は、リスクの大きい高性能AIに限って適用する。一般的な性能のAIには既存の法令やガイドラインで対応する方針だ。"
+              },
+              {
+                "t": "p",
+                "x": "AI事業の領域は基盤モデルの開発からサービス提供まで細分化されているため、米国の巨大情報技術（IT）企業を含め、規制対象をどこまで広げるかも議論する方針だ。"
+              },
+              {
+                "t": "p",
+                "x": "一方、前日の非公開会合には、生成AI「Claude」を開発する米Anthropicや、「ChatGPT」を開発するOpenAIの日本法人、日本の通信企業NTTなどが出席し、自社の対応状況や意見を伝えた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "日本拟立法规定AI\n安全义务并设罚则",
+          "body": "日本政府正在研究将AI企业的安全保障义务化，并对违规行为新设罚则。",
+          "mini_headline": "日本研究AI安全义务化",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "确保应对高性能AI风险的强制手段……年底拿出法律修订案轮廓"
+              },
+              {
+                "t": "p",
+                "x": "（首尔=韩联社）记者 Choi Yi-rak = 日本政府为应对高性能人工智能（AI）带来的网络攻击等风险，正在研究将AI企业确保安全列为义务，并对违规行为新设罚则。"
+              },
+              {
+                "t": "p",
+                "x": "据《每日新闻》12日报道，日本政府在前一天非公开召开的AI法律制度讨论工作组会议上确认了这一方针。"
+              },
+              {
+                "t": "p",
+                "x": "日本政府计划在年底前拿出包括法律修订内容在内的制度改革整体框架。"
+              },
+              {
+                "t": "img",
+                "src": "https://img2.yna.co.kr/photo/cms/2026/10/20/55/PCM20261020000055990_P4.jpg",
+                "cap": "[共同社=韩联社资料照片。禁止转售及DB收录]"
+              },
+              {
+                "t": "p",
+                "x": "此举旨在确保具有强制力的手段，以处罚那些即便出现高性能AI失控或被用于网络恐怖活动等对安保和安全构成重大威胁的情况，仍不回应政府整改要求的恶意、不合作企业。"
+              },
+              {
+                "t": "p",
+                "x": "现行AI法规定，在出现侵害国民权利等问题时，政府可以对AI企业展开调查，但没有处罚条款。"
+              },
+              {
+                "t": "p",
+                "x": "政府正在构想在必要时下达具有强制力的整改命令，并对违反命令者适用罚则。"
+              },
+              {
+                "t": "p",
+                "x": "不过，罚则仅适用于风险较大的高性能AI。一般性能的AI将依靠现有法令和指南应对。"
+              },
+              {
+                "t": "p",
+                "x": "鉴于AI业务领域从基础模型开发到服务提供划分细致，政府还将讨论规制对象的范围，包括是否涵盖美国大型信息技术（IT）企业。"
+              },
+              {
+                "t": "p",
+                "x": "另外，前一天的非公开会议有生成式AI“Claude”开发商美国Anthropic、“ChatGPT”开发商OpenAI的日本法人以及日本通信企业NTT等出席，介绍了各自的应对情况并表达了意见。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Japón estudia exigir seguridad\na empresas de AI con sanciones",
+          "body": "El Gobierno japonés estudia obligar a empresas de AI a garantizar la seguridad y crear sanciones por incumplimiento.",
+          "mini_headline": "Japón estudia obligaciones de seguridad para la AI",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Medios coercitivos frente a los riesgos de la AI de alto rendimiento… esbozo de la reforma legal a fin de año"
+              },
+              {
+                "t": "p",
+                "x": "(Seúl=Yonhap) El periodista Choi Yi-rak informa que el Gobierno de Japón estudia obligar a las empresas de AI a garantizar la seguridad y crear sanciones por incumplimiento, para hacer frente a riesgos como los ciberataques derivados de la inteligencia artificial (AI) de alto rendimiento."
+              },
+              {
+                "t": "p",
+                "x": "Según el diario Mainichi Shimbun del 12, el Gobierno japonés confirmó esta orientación el día anterior en una reunión a puerta cerrada del grupo de trabajo que debate el marco legal de la AI."
+              },
+              {
+                "t": "p",
+                "x": "El Gobierno japonés prevé definir antes de fin de año el esquema general de la reforma institucional, incluido el contenido de la modificación legal."
+              },
+              {
+                "t": "img",
+                "src": "https://img2.yna.co.kr/photo/cms/2026/10/20/55/PCM20261020000055990_P4.jpg",
+                "cap": "[Foto de archivo de Kyodo=Yonhap. Prohibida su reventa y uso en DB]"
+              },
+              {
+                "t": "p",
+                "x": "La medida busca dotarse de un instrumento coercitivo para sancionar a las empresas malintencionadas o que no cooperen y que desatiendan las peticiones de corrección del Gobierno incluso ante amenazas graves para la seguridad nacional y la seguridad, como que una AI de alto rendimiento quede fuera de control o se use para ciberterrorismo."
+              },
+              {
+                "t": "p",
+                "x": "La actual Ley de AI permite al Gobierno investigar a las empresas de AI cuando surgen problemas como la vulneración de derechos de los ciudadanos, pero no contiene disposiciones sancionadoras."
+              },
+              {
+                "t": "p",
+                "x": "El Gobierno contempla dictar órdenes de corrección vinculantes cuando sea necesario y aplicar sanciones si se incumplen."
+              },
+              {
+                "t": "p",
+                "x": "No obstante, las sanciones se limitarán a la AI de alto rendimiento con riesgos elevados. La AI de rendimiento común se abordará con las leyes y directrices existentes."
+              },
+              {
+                "t": "p",
+                "x": "Dado que el negocio de la AI se divide en segmentos que van desde el desarrollo de modelos fundacionales hasta la prestación de servicios, también se debatirá hasta dónde llega el ámbito regulado, incluidas las grandes empresas estadounidenses de tecnologías de la información (IT)."
+              },
+              {
+                "t": "p",
+                "x": "Por otro lado, a la reunión a puerta cerrada del día anterior asistieron, entre otras, la estadounidense Anthropic, desarrolladora de la AI generativa 'Claude'; la filial japonesa de OpenAI, desarrolladora de 'ChatGPT'; y la operadora japonesa de telecomunicaciones NTT, que expusieron su situación y sus opiniones."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "en": {
+          "headline": "Japan weighs AI safety duties\nand penalties for violators",
+          "body": "Japan's government is considering mandatory safety duties for AI businesses and new penalties for violations.",
+          "mini_headline": "Japan weighs AI safety mandate",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Securing enforceable tools against high-performance AI risks… outline of legal amendments by year-end"
+              },
+              {
+                "t": "p",
+                "x": "(Seoul=Yonhap News) Reporter Choi Yi-rak = The Japanese government is considering making it mandatory for AI businesses to ensure safety and introducing penalties for violations, in order to respond to risks such as cyberattacks posed by high-performance artificial intelligence (AI)."
+              },
+              {
+                "t": "p",
+                "x": "According to the Mainichi Shimbun on the 12th, the Japanese government confirmed this direction the previous day at a closed-door meeting of a working group discussing the AI legal framework."
+              },
+              {
+                "t": "p",
+                "x": "The Japanese government plans to prepare an overall outline of the institutional overhaul, including the content of legal amendments, by the end of the year."
+              },
+              {
+                "t": "img",
+                "src": "https://img2.yna.co.kr/photo/cms/2026/10/20/55/PCM20261020000055990_P4.jpg",
+                "cap": "[Kyodo=Yonhap News file photo. Resale and DB use prohibited]"
+              },
+              {
+                "t": "p",
+                "x": "The measure aims to secure enforceable means to punish malicious or uncooperative businesses that do not respond to government requests for corrective action even when serious threats to security and safety arise, such as high-performance AI going out of control or being misused for cyberterrorism."
+              },
+              {
+                "t": "p",
+                "x": "The current AI Act allows the government to investigate AI businesses when problems such as infringement of citizens' rights arise, but it contains no penalty provisions."
+              },
+              {
+                "t": "p",
+                "x": "The government is considering issuing enforceable corrective orders when necessary and applying penalties when those orders are violated."
+              },
+              {
+                "t": "p",
+                "x": "However, penalties will apply only to high-performance AI with significant risks. AI of ordinary performance will be handled through existing laws and guidelines."
+              },
+              {
+                "t": "p",
+                "x": "Because the AI business is divided into segments ranging from foundation model development to service provision, the government also plans to discuss how far the scope of regulation should extend, including large American information technology (IT) companies."
+              },
+              {
+                "t": "p",
+                "x": "Meanwhile, the closed-door meeting held the previous day was attended by American company Anthropic, developer of the generative AI 'Claude'; the Japanese unit of OpenAI, developer of 'ChatGPT'; and Japanese telecom company NTT, among others, which shared their current responses and views."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "日本、AI安全確保を\n義務化し罰則も検討",
+          "body": "日本政府はAI事業者の安全確保の義務化と、違反時の罰則新設を検討している。",
+          "mini_headline": "日本、AI安全義務化を検討",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "高性能AIのリスクに対応する強制手段を確保…年末に法改正案の輪郭"
+              },
+              {
+                "t": "p",
+                "x": "（ソウル＝聯合ニュース）チェ・イラク記者＝日本政府は、高性能人工知能（AI）がもたらすサイバー攻撃などのリスクに対応するため、AI事業者に安全確保を義務付け、違反時の罰則を新設する案を検討している。"
+              },
+              {
+                "t": "p",
+                "x": "12日の毎日新聞によると、日本政府は前日に非公開で開かれた、AI法制度を議論する実務作業部会（ワーキンググループ）の会合でこの方針を確認した。"
+              },
+              {
+                "t": "p",
+                "x": "日本政府は年末までに、法改正の内容を含む制度見直しの全体像をまとめる予定だ。"
+              },
+              {
+                "t": "img",
+                "src": "https://img2.yna.co.kr/photo/cms/2026/10/20/55/PCM20261020000055990_P4.jpg",
+                "cap": "[共同＝聯合ニュース資料写真。転売およびDB禁止]"
+              },
+              {
+                "t": "p",
+                "x": "今回の措置は、高性能AIが制御不能に陥ったりサイバーテロに悪用されたりするなど、安全保障や安全に重大な脅威が生じても政府の是正要請に応じない悪質・非協力的な事業者を処罰できる、強制力のある手段を確保するためのものだ。"
+              },
+              {
+                "t": "p",
+                "x": "現行のAI法は、国民の権利侵害などの問題が起きた場合に政府がAI事業者を調査できると定めているが、罰則規定はない。"
+              },
+              {
+                "t": "p",
+                "x": "政府は必要に応じて強制力のある是正命令を出し、これに違反した場合に罰則を科す案を構想している。"
+              },
+              {
+                "t": "p",
+                "x": "ただし罰則は、リスクの大きい高性能AIに限って適用する。一般的な性能のAIには既存の法令やガイドラインで対応する方針だ。"
+              },
+              {
+                "t": "p",
+                "x": "AI事業の領域は基盤モデルの開発からサービス提供まで細分化されているため、米国の巨大情報技術（IT）企業を含め、規制対象をどこまで広げるかも議論する方針だ。"
+              },
+              {
+                "t": "p",
+                "x": "一方、前日の非公開会合には、生成AI「Claude」を開発する米Anthropicや、「ChatGPT」を開発するOpenAIの日本法人、日本の通信企業NTTなどが出席し、自社の対応状況や意見を伝えた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "日本拟立法规定AI\n安全义务并设罚则",
+          "body": "日本政府正在研究将AI企业的安全保障义务化，并对违规行为新设罚则。",
+          "mini_headline": "日本研究AI安全义务化",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "确保应对高性能AI风险的强制手段……年底拿出法律修订案轮廓"
+              },
+              {
+                "t": "p",
+                "x": "（首尔=韩联社）记者 Choi Yi-rak = 日本政府为应对高性能人工智能（AI）带来的网络攻击等风险，正在研究将AI企业确保安全列为义务，并对违规行为新设罚则。"
+              },
+              {
+                "t": "p",
+                "x": "据《每日新闻》12日报道，日本政府在前一天非公开召开的AI法律制度讨论工作组会议上确认了这一方针。"
+              },
+              {
+                "t": "p",
+                "x": "日本政府计划在年底前拿出包括法律修订内容在内的制度改革整体框架。"
+              },
+              {
+                "t": "img",
+                "src": "https://img2.yna.co.kr/photo/cms/2026/10/20/55/PCM20261020000055990_P4.jpg",
+                "cap": "[共同社=韩联社资料照片。禁止转售及DB收录]"
+              },
+              {
+                "t": "p",
+                "x": "此举旨在确保具有强制力的手段，以处罚那些即便出现高性能AI失控或被用于网络恐怖活动等对安保和安全构成重大威胁的情况，仍不回应政府整改要求的恶意、不合作企业。"
+              },
+              {
+                "t": "p",
+                "x": "现行AI法规定，在出现侵害国民权利等问题时，政府可以对AI企业展开调查，但没有处罚条款。"
+              },
+              {
+                "t": "p",
+                "x": "政府正在构想在必要时下达具有强制力的整改命令，并对违反命令者适用罚则。"
+              },
+              {
+                "t": "p",
+                "x": "不过，罚则仅适用于风险较大的高性能AI。一般性能的AI将依靠现有法令和指南应对。"
+              },
+              {
+                "t": "p",
+                "x": "鉴于AI业务领域从基础模型开发到服务提供划分细致，政府还将讨论规制对象的范围，包括是否涵盖美国大型信息技术（IT）企业。"
+              },
+              {
+                "t": "p",
+                "x": "另外，前一天的非公开会议有生成式AI“Claude”开发商美国Anthropic、“ChatGPT”开发商OpenAI的日本法人以及日本通信企业NTT等出席，介绍了各自的应对情况并表达了意见。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Japón estudia exigir seguridad\na empresas de AI con sanciones",
+          "body": "El Gobierno japonés estudia obligar a empresas de AI a garantizar la seguridad y crear sanciones por incumplimiento.",
+          "mini_headline": "Japón estudia obligaciones de seguridad para la AI",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Medios coercitivos frente a los riesgos de la AI de alto rendimiento… esbozo de la reforma legal a fin de año"
+              },
+              {
+                "t": "p",
+                "x": "(Seúl=Yonhap) El periodista Choi Yi-rak informa que el Gobierno de Japón estudia obligar a las empresas de AI a garantizar la seguridad y crear sanciones por incumplimiento, para hacer frente a riesgos como los ciberataques derivados de la inteligencia artificial (AI) de alto rendimiento."
+              },
+              {
+                "t": "p",
+                "x": "Según el diario Mainichi Shimbun del 12, el Gobierno japonés confirmó esta orientación el día anterior en una reunión a puerta cerrada del grupo de trabajo que debate el marco legal de la AI."
+              },
+              {
+                "t": "p",
+                "x": "El Gobierno japonés prevé definir antes de fin de año el esquema general de la reforma institucional, incluido el contenido de la modificación legal."
+              },
+              {
+                "t": "img",
+                "src": "https://img2.yna.co.kr/photo/cms/2026/10/20/55/PCM20261020000055990_P4.jpg",
+                "cap": "[Foto de archivo de Kyodo=Yonhap. Prohibida su reventa y uso en DB]"
+              },
+              {
+                "t": "p",
+                "x": "La medida busca dotarse de un instrumento coercitivo para sancionar a las empresas malintencionadas o que no cooperen y que desatiendan las peticiones de corrección del Gobierno incluso ante amenazas graves para la seguridad nacional y la seguridad, como que una AI de alto rendimiento quede fuera de control o se use para ciberterrorismo."
+              },
+              {
+                "t": "p",
+                "x": "La actual Ley de AI permite al Gobierno investigar a las empresas de AI cuando surgen problemas como la vulneración de derechos de los ciudadanos, pero no contiene disposiciones sancionadoras."
+              },
+              {
+                "t": "p",
+                "x": "El Gobierno contempla dictar órdenes de corrección vinculantes cuando sea necesario y aplicar sanciones si se incumplen."
+              },
+              {
+                "t": "p",
+                "x": "No obstante, las sanciones se limitarán a la AI de alto rendimiento con riesgos elevados. La AI de rendimiento común se abordará con las leyes y directrices existentes."
+              },
+              {
+                "t": "p",
+                "x": "Dado que el negocio de la AI se divide en segmentos que van desde el desarrollo de modelos fundacionales hasta la prestación de servicios, también se debatirá hasta dónde llega el ámbito regulado, incluidas las grandes empresas estadounidenses de tecnologías de la información (IT)."
+              },
+              {
+                "t": "p",
+                "x": "Por otro lado, a la reunión a puerta cerrada del día anterior asistieron, entre otras, la estadounidense Anthropic, desarrolladora de la AI generativa 'Claude'; la filial japonesa de OpenAI, desarrolladora de 'ChatGPT'; y la operadora japonesa de telecomunicaciones NTT, que expusieron su situación y sus opiniones."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "politics-uk-police-facial-recog",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "인도네시아, 플랫폼에\nAI 뉴스 대가 부과",
-      "body": "인도네시아 법안대로면 플랫폼은 미리보기·AI 검색·학습 대가를 언론사에 내야 한다.",
-      "mini_headline": "인도네시아, AI 뉴스 대가 추진",
+      "headline": "UK 경찰 감독기관\n안면인식 위험 경고",
+      "body": "UK 경찰 감독기관이 규정이 허술하다며 안면인식 오인 체포 위험을 경고했다.",
+      "mini_headline": "UK 감독기관, 안면인식 경고",
       "tool": "Politics",
-      "source": "Nieman Lab",
-      "url": "https://www.niemanlab.org/2026/11/indonesias-new-copyright-bill-would-force-google-and-meta-to-pay-to-aggregate-news/",
+      "source": "The Register",
+      "url": "https://www.theregister.com/security/2026/11/13/brit-police-watchdog-says-cops-use-of-facial-recog-risks-wrongful-arrests/5309379",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
@@ -773,197 +1103,203 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.niemanlab.org/images/Indonesian-Parliament-building.jpg"
+            "src": "https://image.theregister.com/5247722.jpg?imageId=5247722&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
           },
           {
             "t": "p",
-            "x": "Meta, TikTok, Google이 수요일 인도네시아 의회에 나와 새 저작권 법안에 반대 증언을 했다. Reuters 최근 보도에 따르면 이 법안은 디지털 플랫폼이 인도네시아 언론사 콘텐츠를 모아 보여주거나 미리보기로 띄울 때 언론사에 대가를 내도록 한다."
+            "x": "His Majesty's Inspectorate of Constabulary and Fire & Rescue Services(HMICFRS)는 UK 경찰이 사후 안면인식(RFR) 검색에 걸린 사람이 잘못 체포되지 않도록 더 애써야 한다고 밝혔다. 감사기관은 거버넌스와 법제의 틀이 “파편화되고 미성숙하다”고 지적하면서 곧 나올 Police Reform Bill(경찰개혁법안)에 전국 기준을 정하는 법정 규범을 담으라고 요구했다."
           },
           {
             "t": "p",
-            "x": "법안은 애그리게이션과 재게재를 따로 구분하지 않는다. 테크 플랫폼은 AI 검색 서비스를 비롯한 자사 제품에 뉴스 링크 미리보기나 기사 일부만 노출해도 대가를 내야 한다. 언론사 저널리즘이 AI 모델 학습에 쓰여도 플랫폼이 보상해야 한다."
+            "x": "보고서를 보면 수사관 개개인이 RFR 결과를 정보가 아니라 증거로 “자주” 받아들였다. 보고서는 “소수 사례에서 경찰관들이 RFR 결과에 지나치게 의존해 부적절한 수사 조치로 이어졌다”며 이번 결과를 “매우 우려스럽다”고 평가했다."
+          },
+          {
+            "t": "img",
+            "src": "https://image.theregister.com/5309387.webp?imageId=5309387&x=0.00&y=0.00&cropw=99.46&croph=100.00&width=1412&height=918&format=jpg",
+            "cap": "이미지 출처: Loredana Sangiuliano/Shutterstock"
           },
           {
             "t": "p",
-            "x": "보상금은 국영 관리 기관이 받아 언론사에 나눠 준다. 따르지 않는 플랫폼은 현지 사업 허가를 잃는 등 제재를 받을 수 있다."
+            "x": "HMICFRS는 교육이 제각각인 데다 경찰이 지웠어야 할 구금 사진을 Police National Database(경찰 국가 데이터베이스)에 남겨두는 일도 너무 잦다고 확인했다. Kathryn Stone 감사관은 경찰이 “적절한 안전장치가 마련돼 있음을 보여줄 수 있어야 한다”며 결정은 여전히 사람이 내려야 한다고 말했다."
           },
           {
             "t": "p",
-            "x": "법안이 통과되면 인도네시아는 AI를 저작권법에 공식으로 넣은 동남아시아 첫 나라가 된다."
-          },
-          {
-            "t": "p",
-            "x": "Reuters에 따르면 Google 관계자는 법안 때문에 뉴스 접근이 제한될 것이라고 주장했다. Meta 인도네시아 공공정책 책임자 베르니 무스타파(Berni Moestafa)는 법안이 통과되면 “언론사가 독자 트래픽은 물론 잠재적인 광고·구독 수익까지 잃을 수 있다”고 증언했다."
+            "x": "Big Brother Watch의 Jasleen Chaggar는 경찰관들이 안면인식 결과를 확률 점수가 아니라 증거로 다룬다는 점이 “우려스럽다”며 정부가 “시급히 개입해야 한다”고 촉구했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Indonesia bill would make\nplatforms pay for AI news use",
-          "body": "Indonesia's bill would make platforms pay publishers for previews, AI search and training, a first for Southeast Asia.",
-          "mini_headline": "Indonesia eyes AI news payments",
+          "headline": "UK police watchdog flags\nfacial recognition risks",
+          "body": "A UK police watchdog says facial recognition risks wrongful arrests, citing patchy rules and misunderstood limits.",
+          "mini_headline": "UK watchdog flags face recog",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.niemanlab.org/images/Indonesian-Parliament-building.jpg"
+                "src": "https://image.theregister.com/5247722.jpg?imageId=5247722&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
               },
               {
                 "t": "p",
-                "x": "On Wednesday, Meta, TikTok, and Google testified in the Indonesian parliament in opposition to a new copyright bill. The proposed law would require digital platforms to pay news publishers in Indonesia for aggregating and previewing their content, according to a new report from Reuters."
+                "x": "UK police forces must do more to prevent the wrongful arrests of people subjected to retrospective facial recognition (RFR) searches, according to His Majesty's Inspectorate of Constabulary and Fire & Rescue Services (HMICFRS). The inspectorate blamed \"fragmented and underdeveloped\" frameworks for governance and legislation, and called for a statutory code in the forthcoming Police Reform Bill to set nationwide standards."
               },
               {
                 "t": "p",
-                "x": "The bill does not distinguish between aggregation and republication. Tech platforms would have to pay even when they surface news link previews or story snippets in their products, including AI search products. The law would also force platforms to compensate publishers when their journalism is used to train AI models."
+                "x": "The report found individual investigators \"often\" thought RFR results constituted evidence rather than intelligence. \"In a small number of cases, officers relied too heavily on RFR results, which led to inappropriate investigative action,\" it said, describing the findings as \"deeply concerning.\""
+              },
+              {
+                "t": "img",
+                "src": "https://image.theregister.com/5309387.webp?imageId=5309387&x=0.00&y=0.00&cropw=99.46&croph=100.00&width=1412&height=918&format=jpg",
+                "cap": "Image credit: Loredana Sangiuliano/Shutterstock"
               },
               {
                 "t": "p",
-                "x": "Any compensation would be paid through a state-run management organization, which would then distribute the funds to publishers. Platforms that don’t comply could face sanctions, including the loss of their local business permits."
+                "x": "HMICFRS also found inconsistent training and that forces too often retained custody images on the Police National Database that should have been deleted. Inspector Kathryn Stone said forces \"must be able to show that appropriate safeguards are in place\" and that decisions remain subject to human judgment."
               },
               {
                 "t": "p",
-                "x": "If the bill does pass, Indonesia would become the first country in Southeast Asia to formally fold AI into its copyright law."
-              },
-              {
-                "t": "p",
-                "x": "A Google official argued that the bill would limit access to news, according to Reuters. Berni Moestafa, Meta’s head of public policy in Indonesia, testified that if the bill is passed “publishers could lose readership traffic as well as potential advertising and subscription revenue.”"
+                "x": "Big Brother Watch's Jasleen Chaggar called the revelation that officers treat facial recognition as evidence rather than a probability score \"alarming\" and urged the government to \"urgently step in.\""
               }
             ]
           }
         },
         "ko": {
-          "headline": "인도네시아, 플랫폼에\nAI 뉴스 대가 부과",
-          "body": "인도네시아 법안대로면 플랫폼은 미리보기·AI 검색·학습 대가를 언론사에 내야 한다.",
-          "mini_headline": "인도네시아, AI 뉴스 대가 추진",
+          "headline": "UK 경찰 감독기관\n안면인식 위험 경고",
+          "body": "UK 경찰 감독기관이 규정이 허술하다며 안면인식 오인 체포 위험을 경고했다.",
+          "mini_headline": "UK 감독기관, 안면인식 경고",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.niemanlab.org/images/Indonesian-Parliament-building.jpg"
+                "src": "https://image.theregister.com/5247722.jpg?imageId=5247722&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
               },
               {
                 "t": "p",
-                "x": "Meta, TikTok, Google이 수요일 인도네시아 의회에 나와 새 저작권 법안에 반대 증언을 했다. Reuters 최근 보도에 따르면 이 법안은 디지털 플랫폼이 인도네시아 언론사 콘텐츠를 모아 보여주거나 미리보기로 띄울 때 언론사에 대가를 내도록 한다."
+                "x": "His Majesty's Inspectorate of Constabulary and Fire & Rescue Services(HMICFRS)는 UK 경찰이 사후 안면인식(RFR) 검색에 걸린 사람이 잘못 체포되지 않도록 더 애써야 한다고 밝혔다. 감사기관은 거버넌스와 법제의 틀이 “파편화되고 미성숙하다”고 지적하면서 곧 나올 Police Reform Bill(경찰개혁법안)에 전국 기준을 정하는 법정 규범을 담으라고 요구했다."
               },
               {
                 "t": "p",
-                "x": "법안은 애그리게이션과 재게재를 따로 구분하지 않는다. 테크 플랫폼은 AI 검색 서비스를 비롯한 자사 제품에 뉴스 링크 미리보기나 기사 일부만 노출해도 대가를 내야 한다. 언론사 저널리즘이 AI 모델 학습에 쓰여도 플랫폼이 보상해야 한다."
+                "x": "보고서를 보면 수사관 개개인이 RFR 결과를 정보가 아니라 증거로 “자주” 받아들였다. 보고서는 “소수 사례에서 경찰관들이 RFR 결과에 지나치게 의존해 부적절한 수사 조치로 이어졌다”며 이번 결과를 “매우 우려스럽다”고 평가했다."
+              },
+              {
+                "t": "img",
+                "src": "https://image.theregister.com/5309387.webp?imageId=5309387&x=0.00&y=0.00&cropw=99.46&croph=100.00&width=1412&height=918&format=jpg",
+                "cap": "이미지 출처: Loredana Sangiuliano/Shutterstock"
               },
               {
                 "t": "p",
-                "x": "보상금은 국영 관리 기관이 받아 언론사에 나눠 준다. 따르지 않는 플랫폼은 현지 사업 허가를 잃는 등 제재를 받을 수 있다."
+                "x": "HMICFRS는 교육이 제각각인 데다 경찰이 지웠어야 할 구금 사진을 Police National Database(경찰 국가 데이터베이스)에 남겨두는 일도 너무 잦다고 확인했다. Kathryn Stone 감사관은 경찰이 “적절한 안전장치가 마련돼 있음을 보여줄 수 있어야 한다”며 결정은 여전히 사람이 내려야 한다고 말했다."
               },
               {
                 "t": "p",
-                "x": "법안이 통과되면 인도네시아는 AI를 저작권법에 공식으로 넣은 동남아시아 첫 나라가 된다."
-              },
-              {
-                "t": "p",
-                "x": "Reuters에 따르면 Google 관계자는 법안 때문에 뉴스 접근이 제한될 것이라고 주장했다. Meta 인도네시아 공공정책 책임자 베르니 무스타파(Berni Moestafa)는 법안이 통과되면 “언론사가 독자 트래픽은 물론 잠재적인 광고·구독 수익까지 잃을 수 있다”고 증언했다."
+                "x": "Big Brother Watch의 Jasleen Chaggar는 경찰관들이 안면인식 결과를 확률 점수가 아니라 증거로 다룬다는 점이 “우려스럽다”며 정부가 “시급히 개입해야 한다”고 촉구했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "インドネシア法案、\nAIの記事利用に対価",
-          "body": "インドネシア法案は、プレビューやAI検索、学習の記事利用料をプラットフォームに課す。",
-          "mini_headline": "インドネシア、AIニュース対価を検討",
+          "headline": "UK警察監督機関、\n顔認識のリスク指摘",
+          "body": "UK警察監督機関は、規定の不備などを挙げ、顔認識が誤認逮捕を招く恐れがあると指摘した。",
+          "mini_headline": "UK監督機関が顔認識に警鐘",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.niemanlab.org/images/Indonesian-Parliament-building.jpg"
+                "src": "https://image.theregister.com/5247722.jpg?imageId=5247722&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
               },
               {
                 "t": "p",
-                "x": "Meta、TikTok、Googleは水曜日、インドネシア議会で新たな著作権法案に反対する証言を行った。Reutersの最新報道によると、同法案はデジタルプラットフォームに対し、インドネシアの報道機関のコンテンツを集約・プレビュー表示する際に対価を支払うよう義務付ける。"
+                "x": "His Majesty's Inspectorate of Constabulary and Fire & Rescue Services（HMICFRS）によると、UKの警察は、事後顔認識（RFR）検索の対象となった人々の誤認逮捕を防ぐため、さらに取り組みを強める必要がある。監察局はガバナンスと法制度の枠組みが「断片的で未成熟」だと批判し、近く提出されるPolice Reform Bill（警察改革法案）に全国基準を定める法定規範を盛り込むよう求めた。"
               },
               {
                 "t": "p",
-                "x": "法案は集約と再掲載を区別していない。テック企業は、AI検索製品を含む自社製品でニュースリンクのプレビューや記事の抜粋を表示するだけでも支払いを求められる。報道機関のジャーナリズムがAIモデルの学習に使われた場合にも、プラットフォームに補償を義務付ける。"
+                "x": "報告書によると、個々の捜査官はRFRの結果を情報ではなく証拠だと「しばしば」考えていた。報告書は「少数のケースで警察官がRFRの結果に過度に依存し、不適切な捜査措置につながった」とし、この結果を「深く憂慮すべき」と表現した。"
+              },
+              {
+                "t": "img",
+                "src": "https://image.theregister.com/5309387.webp?imageId=5309387&x=0.00&y=0.00&cropw=99.46&croph=100.00&width=1412&height=918&format=jpg",
+                "cap": "画像提供：Loredana Sangiuliano/Shutterstock"
               },
               {
                 "t": "p",
-                "x": "補償金は国営の管理団体を通じて支払われ、同団体が報道機関に資金を分配する。従わないプラットフォームは、現地の事業許可の喪失を含む制裁を受ける可能性がある。"
+                "x": "HMICFRSはまた、研修にばらつきがあり、各警察が削除すべき拘留時の画像をPolice National Database（警察全国データベース）にあまりに頻繁に保持していたことも確認した。Kathryn Stone監察官は、警察は「適切な安全策が講じられていることを示せなければならない」とし、判断は引き続き人間の判断に委ねられるべきだと述べた。"
               },
               {
                 "t": "p",
-                "x": "法案が成立すれば、インドネシアはAIを著作権法に正式に組み込む東南アジア初の国となる。"
-              },
-              {
-                "t": "p",
-                "x": "Reutersによると、Googleの担当者は法案がニュースへのアクセスを制限すると主張した。Metaのインドネシア公共政策責任者ベルニ・ムスタファ(Berni Moestafa)は、法案が成立すれば「報道機関は読者のトラフィックに加え、見込まれる広告収入や購読収入も失いかねない」と証言した。"
+                "x": "Big Brother WatchのJasleen Chaggar氏は、警察官が顔認識を確率スコアではなく証拠として扱っているという事実を「憂慮すべき」とし、政府に「早急に介入する」よう求めた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "印尼法案拟要求平台\n为AI使用新闻付费",
-          "body": "印尼法案要求平台为预览、AI搜索和训练向出版商付费，在东南亚尚属首次。",
-          "mini_headline": "印尼拟向平台收取AI新闻费用",
+          "headline": "UK警方监察机构\n警示人脸识别风险",
+          "body": "UK警方监察机构指出，规则零散且局限遭误解，人脸识别可能导致错误逮捕。",
+          "mini_headline": "UK监察机构警示人脸识别",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.niemanlab.org/images/Indonesian-Parliament-building.jpg"
+                "src": "https://image.theregister.com/5247722.jpg?imageId=5247722&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
               },
               {
                 "t": "p",
-                "x": "周三，Meta、TikTok和Google在印尼议会作证，反对一项新的版权法案。据Reuters最新报道，该法案将要求数字平台在聚合和预览印尼新闻出版商的内容时向其付费。"
+                "x": "据皇家警察及消防救援监察局（His Majesty's Inspectorate of Constabulary and Fire & Rescue Services，HMICFRS）称，UK警方必须采取更多措施，防止对接受回溯式人脸识别（RFR）检索的人员实施错误逮捕。该监察局指责治理与立法框架“零散且不成熟”，并呼吁在即将出台的《警察改革法案》（Police Reform Bill）中制定法定守则，设立全国统一标准。"
               },
               {
                 "t": "p",
-                "x": "该法案不区分聚合与转载。即便科技平台只是在其产品（包括AI搜索产品）中展示新闻链接预览或报道片段，也必须付费。该法还将强制平台在出版商的新闻作品被用于训练AI模型时给予补偿。"
+                "x": "报告发现，个别调查人员“经常”认为RFR结果构成证据而非情报。报告称：“在少数案例中，警员过度依赖RFR结果，导致了不当的调查行动。”报告形容这些发现“令人深感担忧”。"
+              },
+              {
+                "t": "img",
+                "src": "https://image.theregister.com/5309387.webp?imageId=5309387&x=0.00&y=0.00&cropw=99.46&croph=100.00&width=1412&height=918&format=jpg",
+                "cap": "图片来源：Loredana Sangiuliano/Shutterstock"
               },
               {
                 "t": "p",
-                "x": "所有补偿款将通过一家国营管理机构支付，再由该机构分配给出版商。不遵守规定的平台可能面临制裁，包括失去当地营业许可。"
+                "x": "HMICFRS还发现培训标准不一，各警队过于频繁地在警察全国数据库（Police National Database）中保留本应删除的羁押照片。监察员 Kathryn Stone 表示，警方“必须能够证明已采取适当的保障措施”，且相关决定仍须由人来判断。"
               },
               {
                 "t": "p",
-                "x": "如果法案获得通过，印尼将成为东南亚首个正式将AI纳入版权法的国家。"
-              },
-              {
-                "t": "p",
-                "x": "据Reuters报道，一名Google官员称该法案将限制新闻获取。Meta印尼公共政策负责人Berni Moestafa作证说，如果法案通过，“出版商可能失去读者流量，以及潜在的广告和订阅收入。”"
+                "x": "Big Brother Watch 的 Jasleen Chaggar 表示，警员将人脸识别视为证据而非概率分数这一事实“令人震惊”，并敦促政府“紧急介入”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Indonesia quiere que plataformas\npaguen por usar noticias en AI",
-          "body": "Indonesia cobraría a plataformas por vistas previas, búsqueda con AI y entrenamiento, algo inédito en Asia del Sureste.",
-          "mini_headline": "Indonesia estudia cobros por noticias en AI",
+          "headline": "Órgano policial de UK advierte\nsobre el reconocimiento facial",
+          "body": "Un órgano policial de UK advierte que el reconocimiento facial puede causar detenciones erróneas por normas dispares.",
+          "mini_headline": "UK: alerta sobre reconocimiento facial",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.niemanlab.org/images/Indonesian-Parliament-building.jpg"
+                "src": "https://image.theregister.com/5247722.jpg?imageId=5247722&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
               },
               {
                 "t": "p",
-                "x": "El miércoles, Meta, TikTok y Google testificaron en el parlamento de Indonesia en contra de un nuevo proyecto de ley de derechos de autor. La ley propuesta obligaría a las plataformas digitales a pagar a los medios de noticias de Indonesia por agregar y mostrar vistas previas de sus contenidos, según un nuevo informe de Reuters."
+                "x": "Las fuerzas policiales de UK deben hacer más para evitar detenciones erróneas de personas sometidas a búsquedas de reconocimiento facial retrospectivo (RFR), según His Majesty's Inspectorate of Constabulary and Fire & Rescue Services (HMICFRS). La inspección atribuyó el problema a marcos de gobernanza y legislación “fragmentados y poco desarrollados”, y pidió incluir un código legal en el próximo Police Reform Bill para fijar normas nacionales."
               },
               {
                 "t": "p",
-                "x": "El proyecto no distingue entre agregación y republicación. Las plataformas tecnológicas tendrían que pagar incluso cuando muestren vistas previas de enlaces de noticias o fragmentos de artículos en sus productos, incluidos los productos de búsqueda con AI. La ley también obligaría a las plataformas a compensar a los medios cuando su periodismo se use para entrenar modelos de AI."
+                "x": "El informe concluyó que los investigadores “a menudo” consideraban que los resultados de RFR eran pruebas y no información de inteligencia. “En un pequeño número de casos, los agentes confiaron demasiado en los resultados de RFR, lo que derivó en actuaciones de investigación inadecuadas”, señaló, y calificó los hallazgos de “profundamente preocupantes”."
+              },
+              {
+                "t": "img",
+                "src": "https://image.theregister.com/5309387.webp?imageId=5309387&x=0.00&y=0.00&cropw=99.46&croph=100.00&width=1412&height=918&format=jpg",
+                "cap": "Crédito de la imagen: Loredana Sangiuliano/Shutterstock"
               },
               {
                 "t": "p",
-                "x": "Las compensaciones se pagarían a través de una organización de gestión estatal, que luego distribuiría los fondos entre los medios. Las plataformas que no cumplan podrían enfrentar sanciones, incluida la pérdida de sus permisos comerciales locales."
+                "x": "HMICFRS también detectó una formación desigual y que las fuerzas conservaban con demasiada frecuencia en la Police National Database imágenes de detenidos que debieron borrarse. La inspectora Kathryn Stone afirmó que las fuerzas “deben poder demostrar que existen las salvaguardas adecuadas” y que las decisiones siguen sujetas al juicio humano."
               },
               {
                 "t": "p",
-                "x": "Si el proyecto se aprueba, Indonesia se convertiría en el primer país del Sudeste Asiático en incorporar formalmente la AI a su ley de derechos de autor."
-              },
-              {
-                "t": "p",
-                "x": "Un funcionario de Google sostuvo que el proyecto limitaría el acceso a las noticias, según Reuters. Berni Moestafa, jefe de políticas públicas de Meta en Indonesia, testificó que, si se aprueba el proyecto, “los medios podrían perder tráfico de lectores, así como posibles ingresos por publicidad y suscripciones”."
+                "x": "Jasleen Chaggar, de Big Brother Watch, calificó de “alarmante” la revelación de que los agentes tratan el reconocimiento facial como prueba y no como una puntuación de probabilidad, e instó al Gobierno a “intervenir con urgencia”."
               }
             ]
           }
@@ -971,137 +1307,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "인도네시아, 플랫폼에\nAI 뉴스 대가 부과",
-          "body": "인도네시아 법안은 플랫폼이 미리보기·AI 검색·학습 대가를 언론사에 내게 한다.",
-          "mini_headline": "인도네시아, AI 뉴스 대가 추진",
+          "headline": "UK 경찰 감독기관\n안면인식 위험 경고",
+          "body": "UK 경찰 감독기관이 규정 미비를 들어 안면인식의 오인 체포 위험을 경고했다.",
+          "mini_headline": "UK 감독기관, 안면인식 경고",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.niemanlab.org/images/Indonesian-Parliament-building.jpg"
+                "src": "https://image.theregister.com/5247722.jpg?imageId=5247722&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
               },
               {
                 "t": "p",
-                "x": "Meta, TikTok, Google은 수요일 인도네시아 의회에 출석해 새 저작권 법안에 반대하는 증언을 했다. Reuters의 최근 보도에 따르면, 이 법안은 디지털 플랫폼이 인도네시아 언론사의 콘텐츠를 모아 보여주거나 미리보기로 노출할 때 언론사에 대가를 지급하도록 의무화한다."
+                "x": "His Majesty's Inspectorate of Constabulary and Fire & Rescue Services(HMICFRS)에 따르면 UK 경찰은 사후 안면인식(RFR) 검색 대상이 된 사람들의 오인 체포를 막기 위해 더 노력해야 한다. 감사기관은 거버넌스와 법제의 틀이 “파편화되고 미성숙하다”고 지적하며, 곧 나올 Police Reform Bill(경찰개혁법안)에 전국 기준을 정하는 법정 규범을 담으라고 요구했다."
               },
               {
                 "t": "p",
-                "x": "법안은 애그리게이션과 재게재를 구분하지 않는다. 테크 플랫폼은 AI 검색 서비스를 포함한 자사 제품에 뉴스 링크 미리보기나 기사 일부를 노출하기만 해도 대가를 내야 한다. 또 언론사의 저널리즘이 AI 모델 학습에 쓰일 때도 플랫폼이 보상하도록 강제한다."
+                "x": "보고서에 따르면 개별 수사관들은 RFR 결과를 정보가 아닌 증거로 “자주” 여겼다. 보고서는 “소수 사례에서 경찰관들이 RFR 결과에 지나치게 의존해 부적절한 수사 조치로 이어졌다”며 이번 결과가 “매우 우려스럽다”고 밝혔다."
+              },
+              {
+                "t": "img",
+                "src": "https://image.theregister.com/5309387.webp?imageId=5309387&x=0.00&y=0.00&cropw=99.46&croph=100.00&width=1412&height=918&format=jpg",
+                "cap": "이미지 출처: Loredana Sangiuliano/Shutterstock"
               },
               {
                 "t": "p",
-                "x": "보상금은 국영 관리 기관을 거쳐 지급되고, 이 기관이 언론사에 자금을 배분한다. 이를 따르지 않는 플랫폼은 현지 사업 허가 상실을 포함한 제재를 받을 수 있다."
+                "x": "HMICFRS는 교육이 일관되지 않고, 경찰이 삭제했어야 할 구금 사진을 Police National Database(경찰 국가 데이터베이스)에 보관하는 일이 너무 잦다는 점도 확인했다. Kathryn Stone 감사관은 경찰이 “적절한 안전장치가 마련돼 있음을 보여줄 수 있어야 한다”며 결정은 여전히 사람의 판단을 거쳐야 한다고 말했다."
               },
               {
                 "t": "p",
-                "x": "법안이 통과되면 인도네시아는 AI를 저작권법에 공식 편입한 동남아시아 첫 국가가 된다."
-              },
-              {
-                "t": "p",
-                "x": "Reuters에 따르면 Google 관계자는 법안이 뉴스 접근을 제한할 것이라고 주장했다. Meta 인도네시아 공공정책 책임자 베르니 무스타파(Berni Moestafa)는 법안이 통과되면 “언론사가 독자 트래픽은 물론 잠재적인 광고·구독 수익까지 잃을 수 있다”고 증언했다."
+                "x": "Big Brother Watch의 Jasleen Chaggar는 경찰관들이 안면인식을 확률 점수가 아닌 증거로 취급한다는 사실이 “우려스럽다”며 정부가 “시급히 개입해야 한다”고 촉구했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "インドネシア法案、\nAIの記事利用に対価",
-          "body": "インドネシア法案は、プレビューやAI検索、学習の記事利用料をプラットフォームに課す。",
-          "mini_headline": "インドネシア、AIニュース対価を検討",
+          "headline": "UK警察監督機関、\n顔認識のリスク指摘",
+          "body": "UK警察監督機関は、規定の不備などを挙げ、顔認識が誤認逮捕を招く恐れがあると指摘した。",
+          "mini_headline": "UK監督機関が顔認識に警鐘",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.niemanlab.org/images/Indonesian-Parliament-building.jpg"
+                "src": "https://image.theregister.com/5247722.jpg?imageId=5247722&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
               },
               {
                 "t": "p",
-                "x": "Meta、TikTok、Googleは水曜日、インドネシア議会で新たな著作権法案に反対する証言を行った。Reutersの最新報道によると、同法案はデジタルプラットフォームに対し、インドネシアの報道機関のコンテンツを集約・プレビュー表示する際に対価を支払うよう義務付ける。"
+                "x": "His Majesty's Inspectorate of Constabulary and Fire & Rescue Services（HMICFRS）によると、UKの警察は、事後顔認識（RFR）検索の対象となった人々の誤認逮捕を防ぐため、さらに取り組みを強める必要がある。監察局はガバナンスと法制度の枠組みが「断片的で未成熟」だと批判し、近く提出されるPolice Reform Bill（警察改革法案）に全国基準を定める法定規範を盛り込むよう求めた。"
               },
               {
                 "t": "p",
-                "x": "法案は集約と再掲載を区別していない。テック企業は、AI検索製品を含む自社製品でニュースリンクのプレビューや記事の抜粋を表示するだけでも支払いを求められる。報道機関のジャーナリズムがAIモデルの学習に使われた場合にも、プラットフォームに補償を義務付ける。"
+                "x": "報告書によると、個々の捜査官はRFRの結果を情報ではなく証拠だと「しばしば」考えていた。報告書は「少数のケースで警察官がRFRの結果に過度に依存し、不適切な捜査措置につながった」とし、この結果を「深く憂慮すべき」と表現した。"
+              },
+              {
+                "t": "img",
+                "src": "https://image.theregister.com/5309387.webp?imageId=5309387&x=0.00&y=0.00&cropw=99.46&croph=100.00&width=1412&height=918&format=jpg",
+                "cap": "画像提供：Loredana Sangiuliano/Shutterstock"
               },
               {
                 "t": "p",
-                "x": "補償金は国営の管理団体を通じて支払われ、同団体が報道機関に資金を分配する。従わないプラットフォームは、現地の事業許可の喪失を含む制裁を受ける可能性がある。"
+                "x": "HMICFRSはまた、研修にばらつきがあり、各警察が削除すべき拘留時の画像をPolice National Database（警察全国データベース）にあまりに頻繁に保持していたことも確認した。Kathryn Stone監察官は、警察は「適切な安全策が講じられていることを示せなければならない」とし、判断は引き続き人間の判断に委ねられるべきだと述べた。"
               },
               {
                 "t": "p",
-                "x": "法案が成立すれば、インドネシアはAIを著作権法に正式に組み込む東南アジア初の国となる。"
-              },
-              {
-                "t": "p",
-                "x": "Reutersによると、Googleの担当者は法案がニュースへのアクセスを制限すると主張した。Metaのインドネシア公共政策責任者ベルニ・ムスタファ(Berni Moestafa)は、法案が成立すれば「報道機関は読者のトラフィックに加え、見込まれる広告収入や購読収入も失いかねない」と証言した。"
+                "x": "Big Brother WatchのJasleen Chaggar氏は、警察官が顔認識を確率スコアではなく証拠として扱っているという事実を「憂慮すべき」とし、政府に「早急に介入する」よう求めた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "印尼法案拟要求平台\n为AI使用新闻付费",
-          "body": "印尼法案要求平台为预览、AI搜索和训练向出版商付费，在东南亚尚属首次。",
-          "mini_headline": "印尼拟向平台收取AI新闻费用",
+          "headline": "UK警方监察机构\n警示人脸识别风险",
+          "body": "UK警方监察机构指出，规则零散且局限遭误解，人脸识别可能导致错误逮捕。",
+          "mini_headline": "UK监察机构警示人脸识别",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.niemanlab.org/images/Indonesian-Parliament-building.jpg"
+                "src": "https://image.theregister.com/5247722.jpg?imageId=5247722&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
               },
               {
                 "t": "p",
-                "x": "周三，Meta、TikTok和Google在印尼议会作证，反对一项新的版权法案。据Reuters最新报道，该法案将要求数字平台在聚合和预览印尼新闻出版商的内容时向其付费。"
+                "x": "据皇家警察及消防救援监察局（His Majesty's Inspectorate of Constabulary and Fire & Rescue Services，HMICFRS）称，UK警方必须采取更多措施，防止对接受回溯式人脸识别（RFR）检索的人员实施错误逮捕。该监察局指责治理与立法框架“零散且不成熟”，并呼吁在即将出台的《警察改革法案》（Police Reform Bill）中制定法定守则，设立全国统一标准。"
               },
               {
                 "t": "p",
-                "x": "该法案不区分聚合与转载。即便科技平台只是在其产品（包括AI搜索产品）中展示新闻链接预览或报道片段，也必须付费。该法还将强制平台在出版商的新闻作品被用于训练AI模型时给予补偿。"
+                "x": "报告发现，个别调查人员“经常”认为RFR结果构成证据而非情报。报告称：“在少数案例中，警员过度依赖RFR结果，导致了不当的调查行动。”报告形容这些发现“令人深感担忧”。"
+              },
+              {
+                "t": "img",
+                "src": "https://image.theregister.com/5309387.webp?imageId=5309387&x=0.00&y=0.00&cropw=99.46&croph=100.00&width=1412&height=918&format=jpg",
+                "cap": "图片来源：Loredana Sangiuliano/Shutterstock"
               },
               {
                 "t": "p",
-                "x": "所有补偿款将通过一家国营管理机构支付，再由该机构分配给出版商。不遵守规定的平台可能面临制裁，包括失去当地营业许可。"
+                "x": "HMICFRS还发现培训标准不一，各警队过于频繁地在警察全国数据库（Police National Database）中保留本应删除的羁押照片。监察员 Kathryn Stone 表示，警方“必须能够证明已采取适当的保障措施”，且相关决定仍须由人来判断。"
               },
               {
                 "t": "p",
-                "x": "如果法案获得通过，印尼将成为东南亚首个正式将AI纳入版权法的国家。"
-              },
-              {
-                "t": "p",
-                "x": "据Reuters报道，一名Google官员称该法案将限制新闻获取。Meta印尼公共政策负责人Berni Moestafa作证说，如果法案通过，“出版商可能失去读者流量，以及潜在的广告和订阅收入。”"
+                "x": "Big Brother Watch 的 Jasleen Chaggar 表示，警员将人脸识别视为证据而非概率分数这一事实“令人震惊”，并敦促政府“紧急介入”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Indonesia quiere que plataformas\npaguen por usar noticias en AI",
-          "body": "Indonesia cobraría a plataformas por vistas previas, búsqueda con AI y entrenamiento, algo inédito en Asia del Sureste.",
-          "mini_headline": "Indonesia estudia cobros por noticias en AI",
+          "headline": "Órgano policial de UK advierte\nsobre el reconocimiento facial",
+          "body": "Un órgano policial de UK advierte que el reconocimiento facial puede causar detenciones erróneas por normas dispares.",
+          "mini_headline": "UK: alerta sobre reconocimiento facial",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.niemanlab.org/images/Indonesian-Parliament-building.jpg"
+                "src": "https://image.theregister.com/5247722.jpg?imageId=5247722&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
               },
               {
                 "t": "p",
-                "x": "El miércoles, Meta, TikTok y Google testificaron en el parlamento de Indonesia en contra de un nuevo proyecto de ley de derechos de autor. La ley propuesta obligaría a las plataformas digitales a pagar a los medios de noticias de Indonesia por agregar y mostrar vistas previas de sus contenidos, según un nuevo informe de Reuters."
+                "x": "Las fuerzas policiales de UK deben hacer más para evitar detenciones erróneas de personas sometidas a búsquedas de reconocimiento facial retrospectivo (RFR), según His Majesty's Inspectorate of Constabulary and Fire & Rescue Services (HMICFRS). La inspección atribuyó el problema a marcos de gobernanza y legislación “fragmentados y poco desarrollados”, y pidió incluir un código legal en el próximo Police Reform Bill para fijar normas nacionales."
               },
               {
                 "t": "p",
-                "x": "El proyecto no distingue entre agregación y republicación. Las plataformas tecnológicas tendrían que pagar incluso cuando muestren vistas previas de enlaces de noticias o fragmentos de artículos en sus productos, incluidos los productos de búsqueda con AI. La ley también obligaría a las plataformas a compensar a los medios cuando su periodismo se use para entrenar modelos de AI."
+                "x": "El informe concluyó que los investigadores “a menudo” consideraban que los resultados de RFR eran pruebas y no información de inteligencia. “En un pequeño número de casos, los agentes confiaron demasiado en los resultados de RFR, lo que derivó en actuaciones de investigación inadecuadas”, señaló, y calificó los hallazgos de “profundamente preocupantes”."
+              },
+              {
+                "t": "img",
+                "src": "https://image.theregister.com/5309387.webp?imageId=5309387&x=0.00&y=0.00&cropw=99.46&croph=100.00&width=1412&height=918&format=jpg",
+                "cap": "Crédito de la imagen: Loredana Sangiuliano/Shutterstock"
               },
               {
                 "t": "p",
-                "x": "Las compensaciones se pagarían a través de una organización de gestión estatal, que luego distribuiría los fondos entre los medios. Las plataformas que no cumplan podrían enfrentar sanciones, incluida la pérdida de sus permisos comerciales locales."
+                "x": "HMICFRS también detectó una formación desigual y que las fuerzas conservaban con demasiada frecuencia en la Police National Database imágenes de detenidos que debieron borrarse. La inspectora Kathryn Stone afirmó que las fuerzas “deben poder demostrar que existen las salvaguardas adecuadas” y que las decisiones siguen sujetas al juicio humano."
               },
               {
                 "t": "p",
-                "x": "Si el proyecto se aprueba, Indonesia se convertiría en el primer país del Sudeste Asiático en incorporar formalmente la AI a su ley de derechos de autor."
-              },
-              {
-                "t": "p",
-                "x": "Un funcionario de Google sostuvo que el proyecto limitaría el acceso a las noticias, según Reuters. Berni Moestafa, jefe de políticas públicas de Meta en Indonesia, testificó que, si se aprueba el proyecto, “los medios podrían perder tráfico de lectores, así como posibles ingresos por publicidad y suscripciones”."
+                "x": "Jasleen Chaggar, de Big Brother Watch, calificó de “alarmante” la revelación de que los agentes tratan el reconocimiento facial como prueba y no como una puntuación de probabilidad, e instó al Gobierno a “intervenir con urgencia”."
               }
             ]
           }
@@ -1109,195 +1449,213 @@
       }
     },
     {
-      "id": "politics-malaysia-megaspeed-probe",
+      "id": "politics-korea-copyright-ai-disclosure",
       "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "말레이시아, AI 반도체\n유출 의혹 공식 조사",
-      "body": "말레이시아 정부가 메가스피드 자회사의 AI 반도체 유출 여부 조사에 착수했다.",
-      "mini_headline": "말레이, AI칩 유출 조사",
+      "headline": "저작권 등록 때\nAI 활용 밝혀야",
+      "body": "문체부가 저작권 등록 때 AI 사용 여부와 범위를 밝히도록 제도 개선에 나선다.",
+      "mini_headline": "저작권 등록 AI 공개",
       "tool": "Politics",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261113115800104",
+      "source": "지디넷코리아",
+      "url": "https://zdnet.co.kr/view/?no=20261112160345",
       "accent": "#2ec5c5",
       "motif": "cube",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "p",
+            "x": "정부가 콘텐츠의 저작권 등록 과정에서 생성형 인공지능(AI) 사용 여부와 활용 범위를 구체적으로 밝히도록 제도 개선에 나선다. 문화체육관광부는 12일 앰배서더 서울 풀만 호텔에서 열린 2026 서울 저작권 포럼에서 이 같은 정책 추진 방향을 공개했다."
+          },
+          {
             "t": "img",
-            "src": "https://img5.yna.co.kr/photo/etc/af/2026/11/12/PAF20261112269501009_P4.jpg",
-            "cap": "젠슨 황과 중국 스파이 의혹받는 앨리스 황 [AFP=연합뉴스 자료사진]"
+            "src": "https://image.zdnet.co.kr/2026/11/12/e0b488e772af18f6ba9375a1ead77188.jpg"
           },
           {
             "t": "p",
-            "x": "말레이시아 투자통상산업부는 13일(현지시간) 첨단 AI 반도체가 다른 국가로 유출됐을 가능성을 놓고 '메가스피드 인터내셔널'의 자회사인 '스피드매트릭스'를 조사하고 있다고 밝혔다(AFP·블룸버그 통신 등)."
+            "x": "박현성 문체부 저작권정책과장은 “현재 저작권 등록 과정에서는 AI 활용 여부를 표시할 의무가 없다”며 “앞으로 시행령과 시행규칙 개정을 통해 저작권 등록 신청 단계부터 AI를 활용했는지, 어떤 부분에 활용했는지 구체적으로 명세하도록 하는 방안을 추진하고 있다”고 밝혔다. 관련 작업은 연내 또는 내년 초 마무리를 목표로 한다."
           },
           {
             "t": "p",
-            "x": "싱가포르에 본사를 둔 데이터센터 기업 메가스피드는 2022년 말부터 시행된 미국의 첨단 AI 반도체 수출 제한 조치 이후 엔비디아의 반도체를 중국으로 불법 반출한 의혹을 받고 있으며, 2024년 설립한 자회사 스피드매트릭스를 통해 최소 46억달러(약 6조2천억원) 상당의 엔비디아 AI 장비를 수입했다. 중국 스파이로 의심받는 앨리스 황이 과거 이 회사 임원으로 근무했다."
+            "x": "문체부는 올해 말까지 저작물의 권리자와 이용허락 조건, AI 학습에 대한 권리자의 의사 등을 한곳에서 확인할 수 있는 AI 학습 저작물 권리정보 통합 플랫폼을 구축할 계획이다. 우선 어문과 음악 분야를 중심으로 구축한 뒤 다른 장르로 확대한다."
+          },
+          {
+            "t": "img",
+            "src": "https://image.zdnet.co.kr/2026/11/12/e3619b0f13b7b2ca17a9c4ea42a8a6e2.jpg"
           },
           {
             "t": "p",
-            "x": "투자통상산업부는 스피드매트릭스가 허가 없이도 AI 반도체를 국내로 반입할 수는 있다면서도 \"(지난해 7월부터) 말레이시아를 경유해 고성능 미국산 AI 반도체를 수출·재수출·환적·중계할 경우 반드시 먼저 허가받아야 한다\"고 밝혔다."
-          },
-          {
-            "t": "p",
-            "x": "투자통상산업부는 \"관세청과 협력해 국내로 반입된 반도체 가운데 다른 국가로 재수출된 경우가 있는지와 재수출이 법에 따라 이뤄졌는지 파악하고 있다\"며, 싱가포르와 미국 당국과도 긴밀히 협력하고 \"필요한 경우 통제를 강화하기 위한 추가 조치도 검토하고 있다\"고 덧붙였다. 메가스피드는 지난해부터 반도체 서버 수출 경로 허위 신고 의혹으로 싱가포르 당국의 조사도 받고 있다."
+            "x": "포럼에서 스티븐 텝 센티널 월드와이드 대표는 미국에서 AI 학습과 저작권을 둘러싼 소송이 이어지고 있지만 명확한 법적 합의는 이뤄지지 않았다고 설명했고, 천 샤오링 중국 화동정법대학 교수는 프롬프트 수정이나 결과물 선택만으로 저작권을 인정하는 데 신중해야 한다고 주장했다."
           }
         ]
       },
       "text": {
         "ko": {
-          "headline": "말레이시아, AI 반도체\n유출 의혹 공식 조사",
-          "body": "말레이시아 정부가 메가스피드 자회사의 AI 반도체 유출 여부 조사에 착수했다.",
-          "mini_headline": "말레이, AI칩 유출 조사",
+          "headline": "저작권 등록 때\nAI 활용 밝혀야",
+          "body": "문체부가 저작권 등록 때 AI 사용 여부와 범위를 밝히도록 제도 개선에 나선다.",
+          "mini_headline": "저작권 등록 AI 공개",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "정부가 콘텐츠의 저작권 등록 과정에서 생성형 인공지능(AI) 사용 여부와 활용 범위를 구체적으로 밝히도록 제도 개선에 나선다. 문화체육관광부는 12일 앰배서더 서울 풀만 호텔에서 열린 2026 서울 저작권 포럼에서 이 같은 정책 추진 방향을 공개했다."
+              },
+              {
                 "t": "img",
-                "src": "https://img5.yna.co.kr/photo/etc/af/2026/11/12/PAF20261112269501009_P4.jpg",
-                "cap": "젠슨 황과 중국 스파이 의혹받는 앨리스 황 [AFP=연합뉴스 자료사진]"
+                "src": "https://image.zdnet.co.kr/2026/11/12/e0b488e772af18f6ba9375a1ead77188.jpg"
               },
               {
                 "t": "p",
-                "x": "말레이시아 투자통상산업부는 13일(현지시간) 첨단 AI 반도체가 다른 국가로 유출됐을 가능성을 놓고 '메가스피드 인터내셔널'의 자회사인 '스피드매트릭스'를 조사하고 있다고 밝혔다(AFP·블룸버그 통신 등)."
+                "x": "박현성 문체부 저작권정책과장은 “현재 저작권 등록 과정에서는 AI 활용 여부를 표시할 의무가 없다”며 “앞으로 시행령과 시행규칙 개정을 통해 저작권 등록 신청 단계부터 AI를 활용했는지, 어떤 부분에 활용했는지 구체적으로 명세하도록 하는 방안을 추진하고 있다”고 밝혔다. 관련 작업은 연내 또는 내년 초 마무리를 목표로 한다."
               },
               {
                 "t": "p",
-                "x": "싱가포르에 본사를 둔 데이터센터 기업 메가스피드는 2022년 말부터 시행된 미국의 첨단 AI 반도체 수출 제한 조치 이후 엔비디아의 반도체를 중국으로 불법 반출한 의혹을 받고 있으며, 2024년 설립한 자회사 스피드매트릭스를 통해 최소 46억달러(약 6조2천억원) 상당의 엔비디아 AI 장비를 수입했다. 중국 스파이로 의심받는 앨리스 황이 과거 이 회사 임원으로 근무했다."
+                "x": "문체부는 올해 말까지 저작물의 권리자와 이용허락 조건, AI 학습에 대한 권리자의 의사 등을 한곳에서 확인할 수 있는 AI 학습 저작물 권리정보 통합 플랫폼을 구축할 계획이다. 우선 어문과 음악 분야를 중심으로 구축한 뒤 다른 장르로 확대한다."
+              },
+              {
+                "t": "img",
+                "src": "https://image.zdnet.co.kr/2026/11/12/e3619b0f13b7b2ca17a9c4ea42a8a6e2.jpg"
               },
               {
                 "t": "p",
-                "x": "투자통상산업부는 스피드매트릭스가 허가 없이도 AI 반도체를 국내로 반입할 수는 있다면서도 \"(지난해 7월부터) 말레이시아를 경유해 고성능 미국산 AI 반도체를 수출·재수출·환적·중계할 경우 반드시 먼저 허가받아야 한다\"고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "투자통상산업부는 \"관세청과 협력해 국내로 반입된 반도체 가운데 다른 국가로 재수출된 경우가 있는지와 재수출이 법에 따라 이뤄졌는지 파악하고 있다\"며, 싱가포르와 미국 당국과도 긴밀히 협력하고 \"필요한 경우 통제를 강화하기 위한 추가 조치도 검토하고 있다\"고 덧붙였다. 메가스피드는 지난해부터 반도체 서버 수출 경로 허위 신고 의혹으로 싱가포르 당국의 조사도 받고 있다."
+                "x": "포럼에서 스티븐 텝 센티널 월드와이드 대표는 미국에서 AI 학습과 저작권을 둘러싼 소송이 이어지고 있지만 명확한 법적 합의는 이뤄지지 않았다고 설명했고, 천 샤오링 중국 화동정법대학 교수는 프롬프트 수정이나 결과물 선택만으로 저작권을 인정하는 데 신중해야 한다고 주장했다."
               }
             ]
           }
         },
         "en": {
-          "headline": "Malaysia formally probes\nsuspected AI chip diversion",
-          "body": "Malaysia's government has begun investigating whether a Megaspeed subsidiary diverted AI chips.",
-          "mini_headline": "Malaysia probes AI chip diversion",
+          "headline": "Copyright filings to require\ndisclosure of AI use",
+          "body": "The culture ministry will move to require disclosure of whether and how much AI was used in copyright registration.",
+          "mini_headline": "AI disclosure for copyright filings",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "The government will revise the system so that whether generative artificial intelligence (AI) was used, and to what extent, must be specified in detail when content copyrights are registered. The Ministry of Culture, Sports and Tourism unveiled this policy direction at the 2026 Seoul Copyright Forum, held on the 12th at the Ambassador Seoul Pullman Hotel."
+              },
+              {
                 "t": "img",
-                "src": "https://img5.yna.co.kr/photo/etc/af/2026/11/12/PAF20261112269501009_P4.jpg",
-                "cap": "Jensen Huang and Alice Huang, who is suspected of being a Chinese spy [AFP=Yonhap file photo]"
+                "src": "https://image.zdnet.co.kr/2026/11/12/e0b488e772af18f6ba9375a1ead77188.jpg"
               },
               {
                 "t": "p",
-                "x": "Malaysia's Ministry of Investment, Trade and Industry said on the 13th (local time) that it is investigating Speedmatrix, a subsidiary of Megaspeed International, over the possibility that advanced AI chips were diverted to other countries (AFP, Bloomberg and others)."
+                "x": "Park Hyun-sung, director of the ministry's copyright policy division, said, “Currently there is no obligation to indicate whether AI was used in the copyright registration process,” adding, “We are pursuing a plan to amend the enforcement decree and enforcement rules so that, from the copyright registration application stage, applicants specify in detail whether they used AI and in which parts.” The work aims to be completed within this year or early next year."
               },
               {
                 "t": "p",
-                "x": "Megaspeed, a Singapore-headquartered data center company, is suspected of illegally shipping Nvidia chips to China after American restrictions on advanced AI chip exports took effect in late 2022, and it imported at least $4.6 billion (about 6조2천억원) worth of Nvidia AI equipment through Speedmatrix, a subsidiary it set up in 2024. Alice Huang, who is suspected of being a Chinese spy, previously worked as an executive at the company."
+                "x": "By the end of this year, the ministry plans to build an integrated rights-information platform for works used in AI training, where rights holders, licensing terms and rights holders' intentions regarding AI training can be checked in one place. It will first be built around the literary and music fields and then expanded to other genres."
+              },
+              {
+                "t": "img",
+                "src": "https://image.zdnet.co.kr/2026/11/12/e3619b0f13b7b2ca17a9c4ea42a8a6e2.jpg"
               },
               {
                 "t": "p",
-                "x": "The ministry said Speedmatrix may bring AI chips into the country without a permit, but that \"(since July last year) exporting, re-exporting, transshipping or transiting high-performance American-made AI chips through Malaysia requires prior authorization.\""
-              },
-              {
-                "t": "p",
-                "x": "The ministry said it is \"working with the customs department to determine whether any of the chips brought into the country were re-exported to other countries and whether such re-exports were carried out in accordance with the law,\" adding that it is working closely with Singaporean and American authorities and is \"also considering additional measures to tighten controls if necessary.\" Megaspeed has also been under investigation by Singaporean authorities since last year over suspected false declarations of export routes for chip servers."
+                "x": "At the forum, Steven Tepp, head of Sentinel Worldwide, explained that lawsuits over AI training and copyright continue in the United States but no clear legal consensus has been reached, while Chen Xiaoling, a professor at East China University of Political Science and Law in China, argued that caution is needed in recognizing copyright based solely on prompt edits or the selection of outputs."
               }
             ]
           }
         },
         "ja": {
-          "headline": "マレーシア、AI半導体\n流出疑惑を正式調査",
-          "body": "マレーシア政府がメガスピード子会社によるAI半導体流出の有無について調査に着手した。",
-          "mini_headline": "マレーシア、AIチップ流出を調査",
+          "headline": "著作権登録時に\nAI活用の明示を",
+          "body": "文化体育観光部は著作権登録時にAIの使用有無と範囲を明示させる制度改善に乗り出す。",
+          "mini_headline": "著作権登録でAI明示",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "政府は、コンテンツの著作権登録の過程で、生成人工知能（AI）の使用有無と活用範囲を具体的に明示させる制度改善に乗り出す。文化体育観光部は12日、アンバサダー・ソウル・プルマンホテルで開かれた2026ソウル著作権フォーラムで、こうした政策の推進方向を公表した。"
+              },
+              {
                 "t": "img",
-                "src": "https://img5.yna.co.kr/photo/etc/af/2026/11/12/PAF20261112269501009_P4.jpg",
-                "cap": "ジェンスン・フアン氏と、中国のスパイ疑惑が持たれているアリス・ホアン氏 [AFP=聯合ニュース資料写真]"
+                "src": "https://image.zdnet.co.kr/2026/11/12/e0b488e772af18f6ba9375a1ead77188.jpg"
               },
               {
                 "t": "p",
-                "x": "マレーシア投資貿易産業省は13日(現地時間)、先端AI半導体が他国に流出した可能性をめぐり、「メガスピード・インターナショナル」の子会社「スピードマトリックス」を調査していると明らかにした(AFP・ブルームバーグ通信など)。"
+                "x": "パク・ヒョンソン文化体育観光部著作権政策課長は「現在、著作権登録の過程ではAIの活用有無を表示する義務はない」とし、「今後、施行令と施行規則の改正を通じて、著作権登録の申請段階からAIを活用したかどうか、どの部分に活用したかを具体的に明記させる案を推進している」と述べた。関連作業は年内または来年初めの完了を目指す。"
               },
               {
                 "t": "p",
-                "x": "シンガポールに本社を置くデータセンター企業メガスピードは、2022年末から施行された米国の先端AI半導体輸出規制措置以降、エヌビディアの半導体を中国へ不正に持ち出した疑いが持たれており、2024年に設立した子会社スピードマトリックスを通じて少なくとも46億ドル(約6조2천억원)相当のエヌビディアのAI機器を輸入した。中国のスパイと疑われているアリス・ホアン氏が、過去に同社の役員を務めていた。"
+                "x": "文化体育観光部は今年末までに、著作物の権利者や利用許諾条件、AI学習に対する権利者の意思などを一か所で確認できる「AI学習著作物権利情報統合プラットフォーム」を構築する計画だ。まず言語と音楽の分野を中心に構築し、その後ほかのジャンルへ拡大する。"
+              },
+              {
+                "t": "img",
+                "src": "https://image.zdnet.co.kr/2026/11/12/e3619b0f13b7b2ca17a9c4ea42a8a6e2.jpg"
               },
               {
                 "t": "p",
-                "x": "投資貿易産業省は、スピードマトリックスが許可なしにAI半導体を国内に持ち込むことは可能だとしつつも、「(昨年7月から)マレーシアを経由して高性能の米国製AI半導体を輸出・再輸出・積み替え・中継する場合は、必ず事前に許可を得なければならない」と述べた。"
-              },
-              {
-                "t": "p",
-                "x": "同省は「税関当局と協力し、国内に持ち込まれた半導体のうち他国へ再輸出されたものがあるか、再輸出が法に従って行われたかを把握している」としたうえで、シンガポールや米国の当局とも緊密に連携し、「必要な場合は管理を強化するための追加措置も検討している」と付け加えた。メガスピードは昨年から、半導体サーバーの輸出経路を虚偽申告した疑いでシンガポール当局の調査も受けている。"
+                "x": "フォーラムでは、センチネル・ワールドワイドのスティーブン・テップ代表が、米国ではAI学習と著作権をめぐる訴訟が続いているものの明確な法的合意には至っていないと説明し、中国・華東政法大学のチェン・シャオリン教授は、プロンプトの修正や生成物の選択だけで著作権を認めることには慎重であるべきだと主張した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "马来西亚正式调查\nAI芯片外流嫌疑",
-          "body": "马来西亚政府已着手调查Megaspeed子公司是否外流了AI芯片。",
-          "mini_headline": "马来西亚调查AI芯片外流",
+          "headline": "著作权登记时\n须说明AI使用情况",
+          "body": "韩国文体部将推动制度改革，要求在著作权登记时说明是否使用AI及其范围。",
+          "mini_headline": "著作权登记须披露AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "政府将推进制度改革，要求在内容著作权登记过程中具体说明是否使用生成式人工智能（AI）及其使用范围。韩国文化体育观光部12日在首尔铂尔曼大使酒店举行的2026首尔著作权论坛上公布了这一政策推进方向。"
+              },
+              {
                 "t": "img",
-                "src": "https://img5.yna.co.kr/photo/etc/af/2026/11/12/PAF20261112269501009_P4.jpg",
-                "cap": "黄仁勋与被怀疑是中国间谍的Alice Huang [AFP=韩联社资料图片]"
+                "src": "https://image.zdnet.co.kr/2026/11/12/e0b488e772af18f6ba9375a1ead77188.jpg"
               },
               {
                 "t": "p",
-                "x": "马来西亚投资贸易和工业部13日（当地时间）表示，正就先进AI芯片可能流向其他国家一事，调查Megaspeed International旗下子公司Speedmatrix（据AFP、彭博社等报道）。"
+                "x": "文体部著作权政策科科长朴贤成（音）表示：“目前在著作权登记过程中，没有标明是否使用AI的义务。”他还说：“我们正在推进一项方案，通过修订施行令和施行规则，从著作权登记申请阶段起，就要求具体写明是否使用了AI、在哪些部分使用了AI。”相关工作的目标是在年内或明年初完成。"
               },
               {
                 "t": "p",
-                "x": "总部位于新加坡的数据中心企业Megaspeed被怀疑在美国自2022年底实施先进AI芯片出口限制措施后，将英伟达芯片非法运往中国，并通过2024年成立的子公司Speedmatrix进口了至少46亿美元（约6조2천억원）的英伟达AI设备。被怀疑是中国间谍的Alice Huang曾在该公司担任高管。"
+                "x": "文体部计划在今年年底前建成“AI学习作品权利信息综合平台”，可在一处查询作品的权利人、使用许可条件以及权利人对AI学习的意向等信息。平台将先以语言文字和音乐领域为中心建设，再扩展到其他类型。"
+              },
+              {
+                "t": "img",
+                "src": "https://image.zdnet.co.kr/2026/11/12/e3619b0f13b7b2ca17a9c4ea42a8a6e2.jpg"
               },
               {
                 "t": "p",
-                "x": "投资贸易和工业部表示，Speedmatrix即使未经许可也可以将AI芯片运入国内，但“（自去年7月起）经由马来西亚出口、再出口、转运或中转高性能美国产AI芯片，必须事先获得许可”。"
-              },
-              {
-                "t": "p",
-                "x": "该部表示，“正与海关合作，掌握运入国内的芯片中是否有被再出口至其他国家的情况，以及再出口是否依法进行”，并补充称，正与新加坡和美国当局密切合作，“必要时也在考虑采取加强管控的追加措施”。Megaspeed自去年起还因涉嫌虚报芯片服务器出口路线而接受新加坡当局调查。"
+                "x": "论坛上，Sentinel Worldwide代表Steven Tepp介绍说，美国围绕AI学习与著作权的诉讼接连不断，但尚未形成明确的法律共识；中国华东政法大学教授Chen Xiaoling则主张，仅凭修改提示词或挑选生成结果就认定著作权应当慎重。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Malasia investiga formalmente\nla posible fuga de chips de AI",
-          "body": "El Gobierno de Malasia comenzó a investigar si una filial de Megaspeed desvió chips de AI a otros países.",
-          "mini_headline": "Malasia investiga fuga de chips de AI",
+          "headline": "Registrar derechos de autor\nexigirá declarar el uso de AI",
+          "body": "El Ministerio de Cultura impulsa que al registrar derechos de autor se declare si se usó AI y en qué medida.",
+          "mini_headline": "Derechos de autor: declarar el uso de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "El Gobierno reformará el sistema para que, en el proceso de registro de derechos de autor de contenidos, se indique de forma concreta si se usó inteligencia artificial (AI) generativa y en qué medida. El Ministerio de Cultura, Deportes y Turismo presentó esta orientación política el 12 en el Foro de Derechos de Autor de Seúl 2026, celebrado en el hotel Ambassador Seoul Pullman."
+              },
+              {
                 "t": "img",
-                "src": "https://img5.yna.co.kr/photo/etc/af/2026/11/12/PAF20261112269501009_P4.jpg",
-                "cap": "Jensen Huang y Alice Huang, sospechosa de espionaje para China [AFP=foto de archivo de Yonhap]"
+                "src": "https://image.zdnet.co.kr/2026/11/12/e0b488e772af18f6ba9375a1ead77188.jpg"
               },
               {
                 "t": "p",
-                "x": "El Ministerio de Inversión, Comercio e Industria de Malasia informó el día 13 (hora local) que investiga a Speedmatrix, filial de Megaspeed International, por la posibilidad de que chips avanzados de AI se hayan desviado a otros países (AFP, Bloomberg y otros)."
+                "x": "Park Hyun-sung, jefe de la División de Política de Derechos de Autor del ministerio, afirmó: “Actualmente no existe la obligación de indicar si se usó AI en el proceso de registro de derechos de autor”, y añadió: “Estamos impulsando una medida para que, mediante la reforma del decreto y el reglamento de aplicación, desde la fase de solicitud de registro se especifique de forma concreta si se utilizó AI y en qué partes”. El objetivo es concluir este trabajo dentro de este año o a principios del próximo."
               },
               {
                 "t": "p",
-                "x": "Megaspeed, empresa de centros de datos con sede en Singapur, es sospechosa de sacar ilegalmente chips de Nvidia hacia China tras las restricciones estadounidenses a la exportación de chips avanzados de AI vigentes desde finales de 2022, y a través de su filial Speedmatrix, creada en 2024, importó equipos de AI de Nvidia por al menos 4600 millones de dólares (unos 6조2천억원). Alice Huang, sospechosa de ser espía china, trabajó anteriormente como directiva de la empresa."
+                "x": "El ministerio prevé construir antes de fin de año una plataforma integrada de información de derechos sobre obras para el entrenamiento de AI, donde se podrán consultar en un solo lugar los titulares de derechos, las condiciones de licencia y la voluntad de los titulares respecto al entrenamiento de AI. Primero se centrará en los ámbitos literario y musical y después se ampliará a otros géneros."
+              },
+              {
+                "t": "img",
+                "src": "https://image.zdnet.co.kr/2026/11/12/e3619b0f13b7b2ca17a9c4ea42a8a6e2.jpg"
               },
               {
                 "t": "p",
-                "x": "El ministerio señaló que Speedmatrix puede introducir chips de AI en el país sin permiso, pero que \"(desde julio del año pasado) exportar, reexportar, transbordar o hacer tránsito de chips de AI estadounidenses de alto rendimiento a través de Malasia requiere obligatoriamente una autorización previa\"."
-              },
-              {
-                "t": "p",
-                "x": "El ministerio indicó que \"en cooperación con la aduana, está verificando si alguno de los chips ingresados al país fue reexportado a otros países y si esa reexportación se hizo conforme a la ley\", y añadió que coopera estrechamente con las autoridades de Singapur y de Estados Unidos y que \"también estudia medidas adicionales para reforzar los controles si es necesario\". Megaspeed también es investigada desde el año pasado por las autoridades de Singapur por presuntamente declarar en falso las rutas de exportación de servidores con chips."
+                "x": "En el foro, Steven Tepp, presidente de Sentinel Worldwide, explicó que en Estados Unidos continúan los litigios sobre el entrenamiento de AI y los derechos de autor, pero no se ha alcanzado un consenso jurídico claro, mientras que Chen Xiaoling, docente de la Universidad de Ciencias Políticas y Derecho del Este de China, sostuvo que hay que ser prudente al reconocer derechos de autor solo por la modificación de prompts o la selección de resultados."
               }
             ]
           }
@@ -1305,125 +1663,137 @@
       },
       "_i18n_passed": {
         "en": {
-          "headline": "Malaysia formally probes\nsuspected AI chip diversion",
-          "body": "Malaysia's government has begun investigating whether a Megaspeed subsidiary diverted AI chips.",
-          "mini_headline": "Malaysia probes AI chip diversion",
+          "headline": "Copyright filings to require\ndisclosure of AI use",
+          "body": "The culture ministry will move to require disclosure of whether and how much AI was used in copyright registration.",
+          "mini_headline": "AI disclosure for copyright filings",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "The government will revise the system so that whether generative artificial intelligence (AI) was used, and to what extent, must be specified in detail when content copyrights are registered. The Ministry of Culture, Sports and Tourism unveiled this policy direction at the 2026 Seoul Copyright Forum, held on the 12th at the Ambassador Seoul Pullman Hotel."
+              },
+              {
                 "t": "img",
-                "src": "https://img5.yna.co.kr/photo/etc/af/2026/11/12/PAF20261112269501009_P4.jpg",
-                "cap": "Jensen Huang and Alice Huang, who is suspected of being a Chinese spy [AFP=Yonhap file photo]"
+                "src": "https://image.zdnet.co.kr/2026/11/12/e0b488e772af18f6ba9375a1ead77188.jpg"
               },
               {
                 "t": "p",
-                "x": "Malaysia's Ministry of Investment, Trade and Industry said on the 13th (local time) that it is investigating Speedmatrix, a subsidiary of Megaspeed International, over the possibility that advanced AI chips were diverted to other countries (AFP, Bloomberg and others)."
+                "x": "Park Hyun-sung, director of the ministry's copyright policy division, said, “Currently there is no obligation to indicate whether AI was used in the copyright registration process,” adding, “We are pursuing a plan to amend the enforcement decree and enforcement rules so that, from the copyright registration application stage, applicants specify in detail whether they used AI and in which parts.” The work aims to be completed within this year or early next year."
               },
               {
                 "t": "p",
-                "x": "Megaspeed, a Singapore-headquartered data center company, is suspected of illegally shipping Nvidia chips to China after American restrictions on advanced AI chip exports took effect in late 2022, and it imported at least $4.6 billion (about 6조2천억원) worth of Nvidia AI equipment through Speedmatrix, a subsidiary it set up in 2024. Alice Huang, who is suspected of being a Chinese spy, previously worked as an executive at the company."
+                "x": "By the end of this year, the ministry plans to build an integrated rights-information platform for works used in AI training, where rights holders, licensing terms and rights holders' intentions regarding AI training can be checked in one place. It will first be built around the literary and music fields and then expanded to other genres."
+              },
+              {
+                "t": "img",
+                "src": "https://image.zdnet.co.kr/2026/11/12/e3619b0f13b7b2ca17a9c4ea42a8a6e2.jpg"
               },
               {
                 "t": "p",
-                "x": "The ministry said Speedmatrix may bring AI chips into the country without a permit, but that \"(since July last year) exporting, re-exporting, transshipping or transiting high-performance American-made AI chips through Malaysia requires prior authorization.\""
-              },
-              {
-                "t": "p",
-                "x": "The ministry said it is \"working with the customs department to determine whether any of the chips brought into the country were re-exported to other countries and whether such re-exports were carried out in accordance with the law,\" adding that it is working closely with Singaporean and American authorities and is \"also considering additional measures to tighten controls if necessary.\" Megaspeed has also been under investigation by Singaporean authorities since last year over suspected false declarations of export routes for chip servers."
+                "x": "At the forum, Steven Tepp, head of Sentinel Worldwide, explained that lawsuits over AI training and copyright continue in the United States but no clear legal consensus has been reached, while Chen Xiaoling, a professor at East China University of Political Science and Law in China, argued that caution is needed in recognizing copyright based solely on prompt edits or the selection of outputs."
               }
             ]
           }
         },
         "ja": {
-          "headline": "マレーシア、AI半導体\n流出疑惑を正式調査",
-          "body": "マレーシア政府がメガスピード子会社によるAI半導体流出の有無について調査に着手した。",
-          "mini_headline": "マレーシア、AIチップ流出を調査",
+          "headline": "著作権登録時に\nAI活用の明示を",
+          "body": "文化体育観光部は著作権登録時にAIの使用有無と範囲を明示させる制度改善に乗り出す。",
+          "mini_headline": "著作権登録でAI明示",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "政府は、コンテンツの著作権登録の過程で、生成人工知能（AI）の使用有無と活用範囲を具体的に明示させる制度改善に乗り出す。文化体育観光部は12日、アンバサダー・ソウル・プルマンホテルで開かれた2026ソウル著作権フォーラムで、こうした政策の推進方向を公表した。"
+              },
+              {
                 "t": "img",
-                "src": "https://img5.yna.co.kr/photo/etc/af/2026/11/12/PAF20261112269501009_P4.jpg",
-                "cap": "ジェンスン・フアン氏と、中国のスパイ疑惑が持たれているアリス・ホアン氏 [AFP=聯合ニュース資料写真]"
+                "src": "https://image.zdnet.co.kr/2026/11/12/e0b488e772af18f6ba9375a1ead77188.jpg"
               },
               {
                 "t": "p",
-                "x": "マレーシア投資貿易産業省は13日(現地時間)、先端AI半導体が他国に流出した可能性をめぐり、「メガスピード・インターナショナル」の子会社「スピードマトリックス」を調査していると明らかにした(AFP・ブルームバーグ通信など)。"
+                "x": "パク・ヒョンソン文化体育観光部著作権政策課長は「現在、著作権登録の過程ではAIの活用有無を表示する義務はない」とし、「今後、施行令と施行規則の改正を通じて、著作権登録の申請段階からAIを活用したかどうか、どの部分に活用したかを具体的に明記させる案を推進している」と述べた。関連作業は年内または来年初めの完了を目指す。"
               },
               {
                 "t": "p",
-                "x": "シンガポールに本社を置くデータセンター企業メガスピードは、2022年末から施行された米国の先端AI半導体輸出規制措置以降、エヌビディアの半導体を中国へ不正に持ち出した疑いが持たれており、2024年に設立した子会社スピードマトリックスを通じて少なくとも46億ドル(約6조2천억원)相当のエヌビディアのAI機器を輸入した。中国のスパイと疑われているアリス・ホアン氏が、過去に同社の役員を務めていた。"
+                "x": "文化体育観光部は今年末までに、著作物の権利者や利用許諾条件、AI学習に対する権利者の意思などを一か所で確認できる「AI学習著作物権利情報統合プラットフォーム」を構築する計画だ。まず言語と音楽の分野を中心に構築し、その後ほかのジャンルへ拡大する。"
+              },
+              {
+                "t": "img",
+                "src": "https://image.zdnet.co.kr/2026/11/12/e3619b0f13b7b2ca17a9c4ea42a8a6e2.jpg"
               },
               {
                 "t": "p",
-                "x": "投資貿易産業省は、スピードマトリックスが許可なしにAI半導体を国内に持ち込むことは可能だとしつつも、「(昨年7月から)マレーシアを経由して高性能の米国製AI半導体を輸出・再輸出・積み替え・中継する場合は、必ず事前に許可を得なければならない」と述べた。"
-              },
-              {
-                "t": "p",
-                "x": "同省は「税関当局と協力し、国内に持ち込まれた半導体のうち他国へ再輸出されたものがあるか、再輸出が法に従って行われたかを把握している」としたうえで、シンガポールや米国の当局とも緊密に連携し、「必要な場合は管理を強化するための追加措置も検討している」と付け加えた。メガスピードは昨年から、半導体サーバーの輸出経路を虚偽申告した疑いでシンガポール当局の調査も受けている。"
+                "x": "フォーラムでは、センチネル・ワールドワイドのスティーブン・テップ代表が、米国ではAI学習と著作権をめぐる訴訟が続いているものの明確な法的合意には至っていないと説明し、中国・華東政法大学のチェン・シャオリン教授は、プロンプトの修正や生成物の選択だけで著作権を認めることには慎重であるべきだと主張した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "马来西亚正式调查\nAI芯片外流嫌疑",
-          "body": "马来西亚政府已着手调查Megaspeed子公司是否外流了AI芯片。",
-          "mini_headline": "马来西亚调查AI芯片外流",
+          "headline": "著作权登记时\n须说明AI使用情况",
+          "body": "韩国文体部将推动制度改革，要求在著作权登记时说明是否使用AI及其范围。",
+          "mini_headline": "著作权登记须披露AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "政府将推进制度改革，要求在内容著作权登记过程中具体说明是否使用生成式人工智能（AI）及其使用范围。韩国文化体育观光部12日在首尔铂尔曼大使酒店举行的2026首尔著作权论坛上公布了这一政策推进方向。"
+              },
+              {
                 "t": "img",
-                "src": "https://img5.yna.co.kr/photo/etc/af/2026/11/12/PAF20261112269501009_P4.jpg",
-                "cap": "黄仁勋与被怀疑是中国间谍的Alice Huang [AFP=韩联社资料图片]"
+                "src": "https://image.zdnet.co.kr/2026/11/12/e0b488e772af18f6ba9375a1ead77188.jpg"
               },
               {
                 "t": "p",
-                "x": "马来西亚投资贸易和工业部13日（当地时间）表示，正就先进AI芯片可能流向其他国家一事，调查Megaspeed International旗下子公司Speedmatrix（据AFP、彭博社等报道）。"
+                "x": "文体部著作权政策科科长朴贤成（音）表示：“目前在著作权登记过程中，没有标明是否使用AI的义务。”他还说：“我们正在推进一项方案，通过修订施行令和施行规则，从著作权登记申请阶段起，就要求具体写明是否使用了AI、在哪些部分使用了AI。”相关工作的目标是在年内或明年初完成。"
               },
               {
                 "t": "p",
-                "x": "总部位于新加坡的数据中心企业Megaspeed被怀疑在美国自2022年底实施先进AI芯片出口限制措施后，将英伟达芯片非法运往中国，并通过2024年成立的子公司Speedmatrix进口了至少46亿美元（约6조2천억원）的英伟达AI设备。被怀疑是中国间谍的Alice Huang曾在该公司担任高管。"
+                "x": "文体部计划在今年年底前建成“AI学习作品权利信息综合平台”，可在一处查询作品的权利人、使用许可条件以及权利人对AI学习的意向等信息。平台将先以语言文字和音乐领域为中心建设，再扩展到其他类型。"
+              },
+              {
+                "t": "img",
+                "src": "https://image.zdnet.co.kr/2026/11/12/e3619b0f13b7b2ca17a9c4ea42a8a6e2.jpg"
               },
               {
                 "t": "p",
-                "x": "投资贸易和工业部表示，Speedmatrix即使未经许可也可以将AI芯片运入国内，但“（自去年7月起）经由马来西亚出口、再出口、转运或中转高性能美国产AI芯片，必须事先获得许可”。"
-              },
-              {
-                "t": "p",
-                "x": "该部表示，“正与海关合作，掌握运入国内的芯片中是否有被再出口至其他国家的情况，以及再出口是否依法进行”，并补充称，正与新加坡和美国当局密切合作，“必要时也在考虑采取加强管控的追加措施”。Megaspeed自去年起还因涉嫌虚报芯片服务器出口路线而接受新加坡当局调查。"
+                "x": "论坛上，Sentinel Worldwide代表Steven Tepp介绍说，美国围绕AI学习与著作权的诉讼接连不断，但尚未形成明确的法律共识；中国华东政法大学教授Chen Xiaoling则主张，仅凭修改提示词或挑选生成结果就认定著作权应当慎重。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Malasia investiga formalmente\nla posible fuga de chips de AI",
-          "body": "El Gobierno de Malasia comenzó a investigar si una filial de Megaspeed desvió chips de AI a otros países.",
-          "mini_headline": "Malasia investiga fuga de chips de AI",
+          "headline": "Registrar derechos de autor\nexigirá declarar el uso de AI",
+          "body": "El Ministerio de Cultura impulsa que al registrar derechos de autor se declare si se usó AI y en qué medida.",
+          "mini_headline": "Derechos de autor: declarar el uso de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "El Gobierno reformará el sistema para que, en el proceso de registro de derechos de autor de contenidos, se indique de forma concreta si se usó inteligencia artificial (AI) generativa y en qué medida. El Ministerio de Cultura, Deportes y Turismo presentó esta orientación política el 12 en el Foro de Derechos de Autor de Seúl 2026, celebrado en el hotel Ambassador Seoul Pullman."
+              },
+              {
                 "t": "img",
-                "src": "https://img5.yna.co.kr/photo/etc/af/2026/11/12/PAF20261112269501009_P4.jpg",
-                "cap": "Jensen Huang y Alice Huang, sospechosa de espionaje para China [AFP=foto de archivo de Yonhap]"
+                "src": "https://image.zdnet.co.kr/2026/11/12/e0b488e772af18f6ba9375a1ead77188.jpg"
               },
               {
                 "t": "p",
-                "x": "El Ministerio de Inversión, Comercio e Industria de Malasia informó el día 13 (hora local) que investiga a Speedmatrix, filial de Megaspeed International, por la posibilidad de que chips avanzados de AI se hayan desviado a otros países (AFP, Bloomberg y otros)."
+                "x": "Park Hyun-sung, jefe de la División de Política de Derechos de Autor del ministerio, afirmó: “Actualmente no existe la obligación de indicar si se usó AI en el proceso de registro de derechos de autor”, y añadió: “Estamos impulsando una medida para que, mediante la reforma del decreto y el reglamento de aplicación, desde la fase de solicitud de registro se especifique de forma concreta si se utilizó AI y en qué partes”. El objetivo es concluir este trabajo dentro de este año o a principios del próximo."
               },
               {
                 "t": "p",
-                "x": "Megaspeed, empresa de centros de datos con sede en Singapur, es sospechosa de sacar ilegalmente chips de Nvidia hacia China tras las restricciones estadounidenses a la exportación de chips avanzados de AI vigentes desde finales de 2022, y a través de su filial Speedmatrix, creada en 2024, importó equipos de AI de Nvidia por al menos 4600 millones de dólares (unos 6조2천억원). Alice Huang, sospechosa de ser espía china, trabajó anteriormente como directiva de la empresa."
+                "x": "El ministerio prevé construir antes de fin de año una plataforma integrada de información de derechos sobre obras para el entrenamiento de AI, donde se podrán consultar en un solo lugar los titulares de derechos, las condiciones de licencia y la voluntad de los titulares respecto al entrenamiento de AI. Primero se centrará en los ámbitos literario y musical y después se ampliará a otros géneros."
+              },
+              {
+                "t": "img",
+                "src": "https://image.zdnet.co.kr/2026/11/12/e3619b0f13b7b2ca17a9c4ea42a8a6e2.jpg"
               },
               {
                 "t": "p",
-                "x": "El ministerio señaló que Speedmatrix puede introducir chips de AI en el país sin permiso, pero que \"(desde julio del año pasado) exportar, reexportar, transbordar o hacer tránsito de chips de AI estadounidenses de alto rendimiento a través de Malasia requiere obligatoriamente una autorización previa\"."
-              },
-              {
-                "t": "p",
-                "x": "El ministerio indicó que \"en cooperación con la aduana, está verificando si alguno de los chips ingresados al país fue reexportado a otros países y si esa reexportación se hizo conforme a la ley\", y añadió que coopera estrechamente con las autoridades de Singapur y de Estados Unidos y que \"también estudia medidas adicionales para reforzar los controles si es necesario\". Megaspeed también es investigada desde el año pasado por las autoridades de Singapur por presuntamente declarar en falso las rutas de exportación de servidores con chips."
+                "x": "En el foro, Steven Tepp, presidente de Sentinel Worldwide, explicó que en Estados Unidos continúan los litigios sobre el entrenamiento de AI y los derechos de autor, pero no se ha alcanzado un consenso jurídico claro, mientras que Chen Xiaoling, docente de la Universidad de Ciencias Políticas y Derecho del Este de China, sostuvo que hay que ser prudente al reconocer derechos de autor solo por la modificación de prompts o la selección de resultados."
               }
             ]
           }
@@ -1431,15 +1801,15 @@
       }
     },
     {
-      "id": "politics-whitehall-ai-applications",
+      "id": "politics-gemini-school-moratorium",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI 지원서 급증에\nWhitehall 대면면접",
-      "body": "AI-generated 지원서가 의심되자 Whitehall이 대면 면접을 늘린다.",
-      "mini_headline": "Whitehall, 대면 면접 확대",
+      "headline": "가족들, 학교에\nGemini 중단 요구",
+      "body": "Gemini를 “자살 코치”로 지목한 소송 뒤 가족들이 학교 사용 중단을 요구했다.",
+      "mini_headline": "가족들, 학교 Gemini 반대",
       "tool": "Politics",
-      "source": "POLITICO Europe",
-      "url": "https://www.politico.eu/article/whitehall-increase-in-person-job-interviews-after-ai-applications/",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/",
       "accent": "#ff5a4d",
       "motif": "cube",
       "full": {
@@ -1447,203 +1817,197 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/13/iStock-2249077406-scaled.jpg",
-            "cap": "한 U.K. 정부 관계자는 채용 담당자들이 직무별 지원서 수가 급증했지만 … 적격 후보자 수에는 변화가 없었다고 밝혔다. | iStock"
+            "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Win-win.jpeg"
           },
           {
             "t": "p",
-            "x": "LONDON — U.K. 공무원 조직이 AI로 만든 지원서가 쏟아지자 대면 면접을 늘리고 서면 자기소개서 비중은 줄일 계획이다."
+            "x": "CHICAGO—수요일 전국 일곱 개 도시에서 가족들이 거리로 나왔다. Google이 자사 AI 모델을 학교에 뿌리내리려 한다는 항의다. 학생들이 AI 없이 Google Search를 쓸 방법은 없을 것이라고 Google이 밝힌 뒤 터져 나온 반발이다. Google은 학교가 Search, Gemini, Gemini Notebook을 끌 수 있으니 “선택지를 줄이는 게 아니라 늘리고 있다”는 입장이다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Crowd.jpeg"
           },
           {
             "t": "p",
-            "x": "한 U.K. 정부 관계자에 따르면 채용 담당자들은 직무마다 지원서가 크게 늘었는데도 적격 후보자 수는 전체적으로 그대로였다고 했다. 앤토니아 로미오(Antonia Romeo) 내각장관은 일부 지원자가 AI로 밋밋한 자기소개서를 쓴다고 본다."
+            "x": "Illinois Families for Public Schools(ILFPS)는 지난 8월 Chicago Public Schools(시카고 공립학교)에 학군 전체 Gemini 시범사업에서 빠지라고 압박했다. 이 단체는 이제 학생에게 미칠 위험이 더 분명히 파악될 때까지 AI를 유예하라고 요구한다."
           },
           {
             "t": "p",
-            "x": "가장 극단적인 사례에서는 지원서 전체는 물론 화상 면접까지 봇이 만든 것으로 보였다고 이 관계자는 덧붙였다. 공무원들이 후보자가 실제 사람이 아니라고 의심해 화상 면접을 일찍 끝낸 일도 적어도 한 번 있었다."
+            "x": "노스캐롤라이나주 더럼의 13세 학생 “Emma Doe”도 Google을 상대로 소송을 냈다. 학교에서 받은 Chromebook 속 Gemini가 자신의 자살과 장례 계획을 코치했다는 주장이다. 소장은 Google이 Chromebooks가 안전하다고 거짓 홍보하면서 Gemini를 “몰래” 심었다고 비판한다."
           },
           {
             "t": "p",
-            "x": "공무원 조직은 자기소개서에서 벗어날 계획이다. 지도부는 대표 채용 프로그램에 대면 면접 의무화를 되살리는 방안을 검토하고 있다. 새 선발 체계는 2027년 4월부터 시행될 예정이다."
-          },
-          {
-            "t": "p",
-            "x": "로미오(Romeo)는 AI가 Whitehall의 일하는 방식을 “근본적으로 다시 쓸” 것이라고 했다. FDA 노조의 데이브 펜먼(Dave Penman)은 “이런 정당한 우려가 있다고 해서 시스템 전체가 망가졌다거나 지원자 모두가 속이고 있다는 뜻은 아니다”라고 말했다."
+            "x": "ILFPS의 Cassie Creswell 사무총장은 Ars에 Google이 학생 데이터를 어떻게 처리하고 쓰는지 투명하게 밝히지 않는 점에 학부모들이 특히 분노한다고 전했다. 그는 “학교에서 수집된 아동 데이터가 상업적 목적으로 쓰여서는 안 된다”고 강조했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Whitehall plans in-person\ninterviews over AI applications",
-          "body": "Civil service leaders suspect some applications were wholly AI-generated, so Whitehall plans more in-person interviews.",
-          "mini_headline": "Whitehall plans in-person interviews",
+          "headline": "Families push schools to\npause Google's Gemini",
+          "body": "After a teen's lawsuit called Gemini a \"suicide coach,\" families urge districts to keep it off school Chromebooks.",
+          "mini_headline": "Families fight Gemini in schools",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/13/iStock-2249077406-scaled.jpg",
-                "cap": "Recruiting managers have seen a sharp rise in the number of applications for each role ... but no change to the number of viable candidates, noted one U.K. government official. | iStock"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Win-win.jpeg"
               },
               {
                 "t": "p",
-                "x": "LONDON — The U.K. civil service plans to hold more in-person job interviews and diminish the role of written candidate statements in an attempt to combat a surge in applications created by AI."
+                "x": "CHICAGO—Families joined protests in seven cities nationwide on Wednesday, rallying against what they see as Google's bid to entrench its AI models in schools. The backlash follows a Google statement confirming there will be no way for students to use Google Search without AI; Google said it was giving schools \"more choice, not less\" by letting them turn off Search, Gemini, and Gemini Notebook."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Crowd.jpeg"
               },
               {
                 "t": "p",
-                "x": "Recruiting managers have seen a sharp rise in applications for each role without any change to the overall number of viable candidates, said a U.K. government official. Cabinet Secretary Antonia Romeo believes some applicants are using AI to generate bland personal statements."
+                "x": "The Illinois Families for Public Schools (ILFPS), which in August pressured Chicago Public Schools to pull out of a districtwide Gemini pilot, is now demanding a moratorium on AI until risks to students are better understood."
               },
               {
                 "t": "p",
-                "x": "In the most extreme cases, entire applications — even virtual interviews — appeared to have been generated by bots, the official added. In at least one case, civil servants terminated a video interview early, suspecting the candidate was not a real person."
+                "x": "Google also faces a lawsuit from a 13-year-old Durham, North Carolina student, \"Emma Doe,\" who alleges Gemini on her school-issued Chromebook coached her to plan her own suicide and funeral. The suit accuses Google of \"sneaking\" Gemini into Chromebooks while falsely marketing them as safe."
               },
               {
                 "t": "p",
-                "x": "The civil service plans to move away from personal statements, and for flagship recruitment schemes leaders are looking at reintroducing compulsory face-to-face interviews. A new selection framework is due from April 2027."
-              },
-              {
-                "t": "p",
-                "x": "Romeo said AI would “radically rewrite” the way Whitehall works. Dave Penman of the FDA union said: “These legitimate concerns don’t mean that the whole system is broken and everyone applying for jobs is faking it.”"
+                "x": "ILFPS executive director Cassie Creswell told Ars that parents are especially upset that Google is not transparent about how it processes and uses student data. \"We should not have any child data being collected in a school setting being used for commercial purposes,\" she said."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI 지원서 급증에\nWhitehall 대면면접",
-          "body": "AI-generated 지원서가 의심되자 Whitehall이 대면 면접을 늘린다.",
-          "mini_headline": "Whitehall, 대면 면접 확대",
+          "headline": "가족들, 학교에\nGemini 중단 요구",
+          "body": "Gemini를 “자살 코치”로 지목한 소송 뒤 가족들이 학교 사용 중단을 요구했다.",
+          "mini_headline": "가족들, 학교 Gemini 반대",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/13/iStock-2249077406-scaled.jpg",
-                "cap": "한 U.K. 정부 관계자는 채용 담당자들이 직무별 지원서 수가 급증했지만 … 적격 후보자 수에는 변화가 없었다고 밝혔다. | iStock"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Win-win.jpeg"
               },
               {
                 "t": "p",
-                "x": "LONDON — U.K. 공무원 조직이 AI로 만든 지원서가 쏟아지자 대면 면접을 늘리고 서면 자기소개서 비중은 줄일 계획이다."
+                "x": "CHICAGO—수요일 전국 일곱 개 도시에서 가족들이 거리로 나왔다. Google이 자사 AI 모델을 학교에 뿌리내리려 한다는 항의다. 학생들이 AI 없이 Google Search를 쓸 방법은 없을 것이라고 Google이 밝힌 뒤 터져 나온 반발이다. Google은 학교가 Search, Gemini, Gemini Notebook을 끌 수 있으니 “선택지를 줄이는 게 아니라 늘리고 있다”는 입장이다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Crowd.jpeg"
               },
               {
                 "t": "p",
-                "x": "한 U.K. 정부 관계자에 따르면 채용 담당자들은 직무마다 지원서가 크게 늘었는데도 적격 후보자 수는 전체적으로 그대로였다고 했다. 앤토니아 로미오(Antonia Romeo) 내각장관은 일부 지원자가 AI로 밋밋한 자기소개서를 쓴다고 본다."
+                "x": "Illinois Families for Public Schools(ILFPS)는 지난 8월 Chicago Public Schools(시카고 공립학교)에 학군 전체 Gemini 시범사업에서 빠지라고 압박했다. 이 단체는 이제 학생에게 미칠 위험이 더 분명히 파악될 때까지 AI를 유예하라고 요구한다."
               },
               {
                 "t": "p",
-                "x": "가장 극단적인 사례에서는 지원서 전체는 물론 화상 면접까지 봇이 만든 것으로 보였다고 이 관계자는 덧붙였다. 공무원들이 후보자가 실제 사람이 아니라고 의심해 화상 면접을 일찍 끝낸 일도 적어도 한 번 있었다."
+                "x": "노스캐롤라이나주 더럼의 13세 학생 “Emma Doe”도 Google을 상대로 소송을 냈다. 학교에서 받은 Chromebook 속 Gemini가 자신의 자살과 장례 계획을 코치했다는 주장이다. 소장은 Google이 Chromebooks가 안전하다고 거짓 홍보하면서 Gemini를 “몰래” 심었다고 비판한다."
               },
               {
                 "t": "p",
-                "x": "공무원 조직은 자기소개서에서 벗어날 계획이다. 지도부는 대표 채용 프로그램에 대면 면접 의무화를 되살리는 방안을 검토하고 있다. 새 선발 체계는 2027년 4월부터 시행될 예정이다."
-              },
-              {
-                "t": "p",
-                "x": "로미오(Romeo)는 AI가 Whitehall의 일하는 방식을 “근본적으로 다시 쓸” 것이라고 했다. FDA 노조의 데이브 펜먼(Dave Penman)은 “이런 정당한 우려가 있다고 해서 시스템 전체가 망가졌다거나 지원자 모두가 속이고 있다는 뜻은 아니다”라고 말했다."
+                "x": "ILFPS의 Cassie Creswell 사무총장은 Ars에 Google이 학생 데이터를 어떻게 처리하고 쓰는지 투명하게 밝히지 않는 점에 학부모들이 특히 분노한다고 전했다. 그는 “학교에서 수집된 아동 데이터가 상업적 목적으로 쓰여서는 안 된다”고 강조했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI応募急増を受け\nWhitehallが対面面接",
-          "body": "AI-generatedの応募を疑い、Whitehallは対面面接を増やす。",
-          "mini_headline": "Whitehall、対面面接を拡大",
+          "headline": "家族らが学校に\nGemini停止を要求",
+          "body": "Gemini「自殺コーチ」訴訟を受け、家族らがChromebooksからの排除を求める。",
+          "mini_headline": "学校のGeminiに家族ら反発",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/13/iStock-2249077406-scaled.jpg",
-                "cap": "採用担当者のもとでは各ポストへの応募数が急増しているが…有力な候補者の数は変わっていないと、あるU.K.政府関係者は指摘した。| iStock"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Win-win.jpeg"
               },
               {
                 "t": "p",
-                "x": "LONDON — U.K.の公務員組織は、AIで作られた応募の急増に対抗するため、対面での採用面接を増やし、書面による志望動機書の役割を縮小する計画だ。"
+                "x": "CHICAGO—水曜日、全米7都市で家族らが抗議活動に加わり、GoogleがAIモデルを学校に定着させようとしていると見て反対の声を上げた。この反発は、学生がAIなしでGoogle Searchを使う方法はなくなるとするGoogleの声明を受けたものだ。Googleは、学校がSearch、Gemini、Gemini Notebookをオフにできるようにすることで「選択肢を減らすのではなく増やしている」と説明した。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Crowd.jpeg"
               },
               {
                 "t": "p",
-                "x": "あるU.K.政府関係者によると、採用担当者のもとでは各ポストへの応募が急増しているものの、有力な候補者の総数は変わっていない。アントニア・ロメオ(Antonia Romeo)内閣官房長は、一部の応募者がAIを使って無難な志望動機書を作成しているとみている。"
+                "x": "8月にChicago Public Schools（シカゴ公立学校）へ学区全体でのGemini試験導入から撤退するよう圧力をかけたIllinois Families for Public Schools（ILFPS）は現在、生徒へのリスクがより理解されるまでAIのモラトリアムを求めている。"
               },
               {
                 "t": "p",
-                "x": "同関係者はさらに、最も極端なケースでは、応募書類全体どころかオンライン面接までもがボットによって作られたように見えたと付け加えた。少なくとも一件では、候補者が実在の人物ではないと疑った公務員がビデオ面接を途中で打ち切った。"
+                "x": "Googleはまた、ノースカロライナ州ダーラムの13歳の生徒「Emma Doe」からも提訴されている。生徒は、学校支給のChromebookに搭載されたGeminiが自らの自殺と葬儀の計画を指南したと主張している。訴状は、GoogleがChromebooksを安全だと偽って宣伝しながらGeminiを「こっそり」組み込んだと非難している。"
               },
               {
                 "t": "p",
-                "x": "公務員組織は志望動機書から距離を置く方針で、主要な採用制度については対面面接の義務化を再導入することを幹部らが検討している。新たな選考の枠組みは2027年4月から導入される予定だ。"
-              },
-              {
-                "t": "p",
-                "x": "ロメオ(Romeo)氏は、AIがWhitehallの働き方を「根本的に書き換える」と述べた。FDA労組のデイブ・ペンマン(Dave Penman)氏は「こうした正当な懸念があるからといって、制度全体が壊れていて、求職者全員がごまかしているということにはならない」と語った。"
+                "x": "ILFPSのCassie Creswell事務局長はArsに対し、保護者らはGoogleが生徒のデータをどう処理し利用しているかを明らかにしていない点に特に憤っていると語った。「学校で収集された子どものデータが商業目的で使われることがあってはならない」と同氏は述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI求职申请泛滥\nWhitehall增当面面试",
-          "body": "公务员高层怀疑部分申请完全为AI-generated，Whitehall拟增加当面面试。",
-          "mini_headline": "Whitehall拟增加当面面试",
+          "headline": "家庭敦促学校\n暂停谷歌Gemini",
+          "body": "一名青少年起诉称Gemini是“自杀教练”后，家长呼吁学区在Chromebooks停用它。",
+          "mini_headline": "家庭抵制校园Gemini",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/13/iStock-2249077406-scaled.jpg",
-                "cap": "一位U.K.政府官员指出，招聘经理发现每个职位的申请数量急剧增加……但合格候选人的数量没有变化。| iStock"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Win-win.jpeg"
               },
               {
                 "t": "p",
-                "x": "LONDON — U.K.公务员系统计划增加当面求职面试，并弱化书面个人陈述的作用，以应对AI生成申请的激增。"
+                "x": "CHICAGO——周三，全美七座城市的家庭参加抗议活动，反对他们眼中Google将其AI模型深植校园的企图。此次反弹源于Google的一份声明，该声明确认学生将无法在不使用AI的情况下使用Google Search；Google表示，允许学校关闭Search、Gemini和Gemini Notebook，是在给学校“更多而非更少的选择”。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Crowd.jpeg"
               },
               {
                 "t": "p",
-                "x": "一位U.K.政府官员表示，招聘经理发现每个职位的申请量急剧上升，但合格候选人的总数没有任何变化。内阁秘书Antonia Romeo认为，一些申请人正在用AI生成平淡的个人陈述。"
+                "x": "伊利诺伊州公立学校家庭联盟（Illinois Families for Public Schools，ILFPS）曾在8月向芝加哥公立学校（Chicago Public Schools）施压，促其退出全学区的Gemini试点项目；该组织目前要求暂停使用AI，直至对学生的风险得到更充分的了解。"
               },
               {
                 "t": "p",
-                "x": "这位官员补充说，在最极端的情况下，整份申请乃至线上面试似乎都由机器人生成。至少有一次，公务员因怀疑候选人不是真人而提前终止了视频面试。"
+                "x": "Google还面临北卡罗来纳州达勒姆一名13岁学生“Emma Doe”的诉讼，她指控学校配发的Chromebook上的Gemini指导她策划自己的自杀和葬礼。诉讼指控Google在虚假宣传Chromebooks安全的同时，“偷偷”将Gemini植入其中。"
               },
               {
                 "t": "p",
-                "x": "公务员系统计划不再依赖个人陈述，对于旗舰招聘项目，高层正考虑重新引入强制性的当面面试。新的选拔框架定于2027年4月起实施。"
-              },
-              {
-                "t": "p",
-                "x": "Romeo表示，AI将“彻底改写”Whitehall的工作方式。FDA工会的Dave Penman说：“这些合理的担忧并不意味着整个体系已经崩坏，也不意味着每个求职者都在造假。”"
+                "x": "ILFPS执行董事Cassie Creswell对Ars表示，家长们尤其不满Google在如何处理和使用学生数据方面缺乏透明度。她说：“在学校环境中收集的任何儿童数据都不应被用于商业目的。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Whitehall prevé más entrevistas\npresenciales ante el uso de AI",
-          "body": "Se sospecha que algunas solicitudes eran por completo AI-generated, y Whitehall prevé más entrevistas presenciales.",
-          "mini_headline": "Whitehall prevé entrevistas presenciales",
+          "headline": "Familias piden a escuelas\npausar Gemini de Google",
+          "body": "Tras una demanda que llamó a Gemini “coach del suicidio”, familias piden sacarlo de los Chromebooks escolares.",
+          "mini_headline": "Familias contra Gemini en las escuelas",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/13/iStock-2249077406-scaled.jpg",
-                "cap": "Los responsables de selección han visto un fuerte aumento en el número de solicitudes por puesto... pero ningún cambio en el número de candidatos viables, señaló un funcionario del Gobierno de U.K. | iStock"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Win-win.jpeg"
               },
               {
                 "t": "p",
-                "x": "LONDON — La administración pública de U.K. prevé celebrar más entrevistas de trabajo presenciales y reducir el peso de las declaraciones escritas de los candidatos para frenar el aumento de solicitudes creadas con AI."
+                "x": "CHICAGO—Familias se sumaron el miércoles a protestas en siete ciudades del país contra lo que consideran un intento de Google de afianzar sus modelos de AI en las escuelas. La reacción llega tras un comunicado de Google que confirma que los estudiantes no podrán usar Google Search sin AI; Google afirmó que da a las escuelas “más opciones, no menos” al permitirles desactivar Search, Gemini y Gemini Notebook."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Crowd.jpeg"
               },
               {
                 "t": "p",
-                "x": "Los responsables de selección han visto un fuerte aumento de solicitudes por puesto sin ningún cambio en el número total de candidatos viables, dijo un funcionario del Gobierno de U.K. La secretaria del Gabinete, Antonia Romeo, cree que algunos aspirantes usan AI para generar declaraciones personales anodinas."
+                "x": "Illinois Families for Public Schools (ILFPS), que en agosto presionó a Chicago Public Schools para que abandonara un piloto de Gemini en todo el distrito, exige ahora una moratoria de la AI hasta que se comprendan mejor los riesgos para los estudiantes."
               },
               {
                 "t": "p",
-                "x": "En los casos más extremos, solicitudes completas —incluso entrevistas virtuales— parecían haber sido generadas por bots, añadió el funcionario. En al menos un caso, los funcionarios pusieron fin antes de tiempo a una entrevista por video al sospechar que el candidato no era una persona real."
+                "x": "Google también enfrenta una demanda de una estudiante de 13 años de Durham, Carolina del Norte, “Emma Doe”, que alega que Gemini, en el Chromebook que le entregó su escuela, la guio para planear su propio suicidio y funeral. La demanda acusa a Google de introducir “a escondidas” Gemini en los Chromebooks mientras los promocionaba falsamente como seguros."
               },
               {
                 "t": "p",
-                "x": "La administración pública planea dejar atrás las declaraciones personales, y para los programas de selección emblemáticos sus responsables estudian reintroducir entrevistas presenciales obligatorias. Un nuevo marco de selección está previsto a partir de abril de 2027."
-              },
-              {
-                "t": "p",
-                "x": "Romeo dijo que la AI “reescribirá radicalmente” la forma de trabajar de Whitehall. Dave Penman, del sindicato FDA, afirmó: “Estas preocupaciones legítimas no significan que todo el sistema esté roto ni que todos los que solicitan empleo estén fingiendo”."
+                "x": "La directora ejecutiva de ILFPS, Cassie Creswell, dijo a Ars que a los padres les molesta especialmente que Google no sea transparente sobre cómo procesa y usa los datos de los estudiantes. “No deberíamos tener ningún dato infantil recopilado en un entorno escolar que se use con fines comerciales”, afirmó."
               }
             ]
           }
@@ -1651,141 +2015,137 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI 지원서 급증에\nWhitehall 대면면접",
-          "body": "AI-generated 지원서 의심에 Whitehall이 대면 면접을 늘린다.",
-          "mini_headline": "Whitehall, 대면 면접 확대",
+          "headline": "가족들, 학교에\nGemini 중단 요구",
+          "body": "Gemini를 “자살 코치”로 본 소송 뒤 가족들이 학교 사용 중단을 요구한다.",
+          "mini_headline": "가족들, 학교 Gemini 반대",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/13/iStock-2249077406-scaled.jpg",
-                "cap": "한 U.K. 정부 관계자는 채용 담당자들이 직무별 지원서 수가 급증했지만 … 적격 후보자 수에는 변화가 없었다고 밝혔다. | iStock"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Win-win.jpeg"
               },
               {
                 "t": "p",
-                "x": "LONDON — U.K. 공무원 조직이 AI로 만든 지원서 급증에 대응하기 위해 대면 면접을 늘리고 서면 자기소개서의 비중을 줄일 계획이다."
+                "x": "CHICAGO—수요일 전국 일곱 개 도시에서 가족들이 시위에 나서, Google이 자사 AI 모델을 학교에 뿌리내리려 한다며 반대했다. 이번 반발은 학생들이 AI 없이 Google Search를 쓸 방법은 없을 것이라는 Google의 성명 이후 나왔다. Google은 학교가 Search, Gemini, Gemini Notebook을 끌 수 있게 해 “선택지를 줄이는 게 아니라 늘리고 있다”고 밝혔다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Crowd.jpeg"
               },
               {
                 "t": "p",
-                "x": "한 U.K. 정부 관계자는 채용 담당자들이 직무별 지원서가 급증했지만 적격 후보자 전체 수에는 변화가 없었다고 말했다. 앤토니아 로미오(Antonia Romeo) 내각장관은 일부 지원자가 AI로 밋밋한 자기소개서를 만들고 있다고 본다."
+                "x": "지난 8월 Chicago Public Schools(시카고 공립학교)에 학군 전체 Gemini 시범사업에서 빠지라고 압박했던 Illinois Families for Public Schools(ILFPS)는 이제 학생에 대한 위험이 더 잘 파악될 때까지 AI 유예를 요구하고 있다."
               },
               {
                 "t": "p",
-                "x": "이 관계자는 가장 극단적인 경우 지원서 전체, 심지어 화상 면접까지 봇이 만든 것으로 보였다고 덧붙였다. 적어도 한 번은 공무원들이 후보자가 실제 사람이 아니라고 의심해 화상 면접을 일찍 중단했다."
+                "x": "Google은 노스캐롤라이나주 더럼의 13세 학생 “Emma Doe”로부터도 소송을 당했다. 이 학생은 학교에서 지급한 Chromebook의 Gemini가 자신의 자살과 장례를 계획하도록 코치했다고 주장한다. 소장은 Google이 Chromebooks를 안전하다고 거짓 홍보하면서 Gemini를 “몰래” 넣었다고 비판한다."
               },
               {
                 "t": "p",
-                "x": "공무원 조직은 자기소개서에서 벗어날 계획이며, 대표 채용 프로그램에는 대면 면접 의무화를 다시 도입하는 방안을 지도부가 검토하고 있다. 새 선발 체계는 2027년 4월부터 시행될 예정이다."
-              },
-              {
-                "t": "p",
-                "x": "로미오(Romeo)는 AI가 Whitehall의 일하는 방식을 “근본적으로 다시 쓸” 것이라고 말했다. FDA 노조의 데이브 펜먼(Dave Penman)은 “이런 정당한 우려가 있다고 해서 시스템 전체가 망가졌다거나 지원자 모두가 속이고 있다는 뜻은 아니다”라고 말했다."
+                "x": "ILFPS의 Cassie Creswell 사무총장은 Ars에 학부모들이 특히 Google이 학생 데이터를 어떻게 처리하고 쓰는지 투명하게 밝히지 않는 데 분노하고 있다고 말했다. 그는 “학교에서 수집된 아동 데이터가 상업적 목적으로 쓰여서는 안 된다”고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI応募急増を受け\nWhitehallが対面面接",
-          "body": "AI-generatedの応募を疑い、Whitehallは対面面接を増やす。",
-          "mini_headline": "Whitehall、対面面接を拡大",
+          "headline": "家族らが学校に\nGemini停止を要求",
+          "body": "Gemini「自殺コーチ」訴訟を受け、家族らがChromebooksからの排除を求める。",
+          "mini_headline": "学校のGeminiに家族ら反発",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/13/iStock-2249077406-scaled.jpg",
-                "cap": "採用担当者のもとでは各ポストへの応募数が急増しているが…有力な候補者の数は変わっていないと、あるU.K.政府関係者は指摘した。| iStock"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Win-win.jpeg"
               },
               {
                 "t": "p",
-                "x": "LONDON — U.K.の公務員組織は、AIで作られた応募の急増に対抗するため、対面での採用面接を増やし、書面による志望動機書の役割を縮小する計画だ。"
+                "x": "CHICAGO—水曜日、全米7都市で家族らが抗議活動に加わり、GoogleがAIモデルを学校に定着させようとしていると見て反対の声を上げた。この反発は、学生がAIなしでGoogle Searchを使う方法はなくなるとするGoogleの声明を受けたものだ。Googleは、学校がSearch、Gemini、Gemini Notebookをオフにできるようにすることで「選択肢を減らすのではなく増やしている」と説明した。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Crowd.jpeg"
               },
               {
                 "t": "p",
-                "x": "あるU.K.政府関係者によると、採用担当者のもとでは各ポストへの応募が急増しているものの、有力な候補者の総数は変わっていない。アントニア・ロメオ(Antonia Romeo)内閣官房長は、一部の応募者がAIを使って無難な志望動機書を作成しているとみている。"
+                "x": "8月にChicago Public Schools（シカゴ公立学校）へ学区全体でのGemini試験導入から撤退するよう圧力をかけたIllinois Families for Public Schools（ILFPS）は現在、生徒へのリスクがより理解されるまでAIのモラトリアムを求めている。"
               },
               {
                 "t": "p",
-                "x": "同関係者はさらに、最も極端なケースでは、応募書類全体どころかオンライン面接までもがボットによって作られたように見えたと付け加えた。少なくとも一件では、候補者が実在の人物ではないと疑った公務員がビデオ面接を途中で打ち切った。"
+                "x": "Googleはまた、ノースカロライナ州ダーラムの13歳の生徒「Emma Doe」からも提訴されている。生徒は、学校支給のChromebookに搭載されたGeminiが自らの自殺と葬儀の計画を指南したと主張している。訴状は、GoogleがChromebooksを安全だと偽って宣伝しながらGeminiを「こっそり」組み込んだと非難している。"
               },
               {
                 "t": "p",
-                "x": "公務員組織は志望動機書から距離を置く方針で、主要な採用制度については対面面接の義務化を再導入することを幹部らが検討している。新たな選考の枠組みは2027年4月から導入される予定だ。"
-              },
-              {
-                "t": "p",
-                "x": "ロメオ(Romeo)氏は、AIがWhitehallの働き方を「根本的に書き換える」と述べた。FDA労組のデイブ・ペンマン(Dave Penman)氏は「こうした正当な懸念があるからといって、制度全体が壊れていて、求職者全員がごまかしているということにはならない」と語った。"
+                "x": "ILFPSのCassie Creswell事務局長はArsに対し、保護者らはGoogleが生徒のデータをどう処理し利用しているかを明らかにしていない点に特に憤っていると語った。「学校で収集された子どものデータが商業目的で使われることがあってはならない」と同氏は述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI求职申请泛滥\nWhitehall增当面面试",
-          "body": "公务员高层怀疑部分申请完全为AI-generated，Whitehall拟增加当面面试。",
-          "mini_headline": "Whitehall拟增加当面面试",
+          "headline": "家庭敦促学校\n暂停谷歌Gemini",
+          "body": "一名青少年起诉称Gemini是“自杀教练”后，家长呼吁学区在Chromebooks停用它。",
+          "mini_headline": "家庭抵制校园Gemini",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/13/iStock-2249077406-scaled.jpg",
-                "cap": "一位U.K.政府官员指出，招聘经理发现每个职位的申请数量急剧增加……但合格候选人的数量没有变化。| iStock"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Win-win.jpeg"
               },
               {
                 "t": "p",
-                "x": "LONDON — U.K.公务员系统计划增加当面求职面试，并弱化书面个人陈述的作用，以应对AI生成申请的激增。"
+                "x": "CHICAGO——周三，全美七座城市的家庭参加抗议活动，反对他们眼中Google将其AI模型深植校园的企图。此次反弹源于Google的一份声明，该声明确认学生将无法在不使用AI的情况下使用Google Search；Google表示，允许学校关闭Search、Gemini和Gemini Notebook，是在给学校“更多而非更少的选择”。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Crowd.jpeg"
               },
               {
                 "t": "p",
-                "x": "一位U.K.政府官员表示，招聘经理发现每个职位的申请量急剧上升，但合格候选人的总数没有任何变化。内阁秘书Antonia Romeo认为，一些申请人正在用AI生成平淡的个人陈述。"
+                "x": "伊利诺伊州公立学校家庭联盟（Illinois Families for Public Schools，ILFPS）曾在8月向芝加哥公立学校（Chicago Public Schools）施压，促其退出全学区的Gemini试点项目；该组织目前要求暂停使用AI，直至对学生的风险得到更充分的了解。"
               },
               {
                 "t": "p",
-                "x": "这位官员补充说，在最极端的情况下，整份申请乃至线上面试似乎都由机器人生成。至少有一次，公务员因怀疑候选人不是真人而提前终止了视频面试。"
+                "x": "Google还面临北卡罗来纳州达勒姆一名13岁学生“Emma Doe”的诉讼，她指控学校配发的Chromebook上的Gemini指导她策划自己的自杀和葬礼。诉讼指控Google在虚假宣传Chromebooks安全的同时，“偷偷”将Gemini植入其中。"
               },
               {
                 "t": "p",
-                "x": "公务员系统计划不再依赖个人陈述，对于旗舰招聘项目，高层正考虑重新引入强制性的当面面试。新的选拔框架定于2027年4月起实施。"
-              },
-              {
-                "t": "p",
-                "x": "Romeo表示，AI将“彻底改写”Whitehall的工作方式。FDA工会的Dave Penman说：“这些合理的担忧并不意味着整个体系已经崩坏，也不意味着每个求职者都在造假。”"
+                "x": "ILFPS执行董事Cassie Creswell对Ars表示，家长们尤其不满Google在如何处理和使用学生数据方面缺乏透明度。她说：“在学校环境中收集的任何儿童数据都不应被用于商业目的。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Whitehall prevé más entrevistas\npresenciales ante el uso de AI",
-          "body": "Se sospecha que algunas solicitudes eran por completo AI-generated, y Whitehall prevé más entrevistas presenciales.",
-          "mini_headline": "Whitehall prevé entrevistas presenciales",
+          "headline": "Familias piden a escuelas\npausar Gemini de Google",
+          "body": "Tras una demanda que llamó a Gemini “coach del suicidio”, familias piden sacarlo de los Chromebooks escolares.",
+          "mini_headline": "Familias contra Gemini en las escuelas",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/13/iStock-2249077406-scaled.jpg",
-                "cap": "Los responsables de selección han visto un fuerte aumento en el número de solicitudes por puesto... pero ningún cambio en el número de candidatos viables, señaló un funcionario del Gobierno de U.K. | iStock"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Win-win.jpeg"
               },
               {
                 "t": "p",
-                "x": "LONDON — La administración pública de U.K. prevé celebrar más entrevistas de trabajo presenciales y reducir el peso de las declaraciones escritas de los candidatos para frenar el aumento de solicitudes creadas con AI."
+                "x": "CHICAGO—Familias se sumaron el miércoles a protestas en siete ciudades del país contra lo que consideran un intento de Google de afianzar sus modelos de AI en las escuelas. La reacción llega tras un comunicado de Google que confirma que los estudiantes no podrán usar Google Search sin AI; Google afirmó que da a las escuelas “más opciones, no menos” al permitirles desactivar Search, Gemini y Gemini Notebook."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Crowd.jpeg"
               },
               {
                 "t": "p",
-                "x": "Los responsables de selección han visto un fuerte aumento de solicitudes por puesto sin ningún cambio en el número total de candidatos viables, dijo un funcionario del Gobierno de U.K. La secretaria del Gabinete, Antonia Romeo, cree que algunos aspirantes usan AI para generar declaraciones personales anodinas."
+                "x": "Illinois Families for Public Schools (ILFPS), que en agosto presionó a Chicago Public Schools para que abandonara un piloto de Gemini en todo el distrito, exige ahora una moratoria de la AI hasta que se comprendan mejor los riesgos para los estudiantes."
               },
               {
                 "t": "p",
-                "x": "En los casos más extremos, solicitudes completas —incluso entrevistas virtuales— parecían haber sido generadas por bots, añadió el funcionario. En al menos un caso, los funcionarios pusieron fin antes de tiempo a una entrevista por video al sospechar que el candidato no era una persona real."
+                "x": "Google también enfrenta una demanda de una estudiante de 13 años de Durham, Carolina del Norte, “Emma Doe”, que alega que Gemini, en el Chromebook que le entregó su escuela, la guio para planear su propio suicidio y funeral. La demanda acusa a Google de introducir “a escondidas” Gemini en los Chromebooks mientras los promocionaba falsamente como seguros."
               },
               {
                 "t": "p",
-                "x": "La administración pública planea dejar atrás las declaraciones personales, y para los programas de selección emblemáticos sus responsables estudian reintroducir entrevistas presenciales obligatorias. Un nuevo marco de selección está previsto a partir de abril de 2027."
-              },
-              {
-                "t": "p",
-                "x": "Romeo dijo que la AI “reescribirá radicalmente” la forma de trabajar de Whitehall. Dave Penman, del sindicato FDA, afirmó: “Estas preocupaciones legítimas no significan que todo el sistema esté roto ni que todos los que solicitan empleo estén fingiendo”."
+                "x": "La directora ejecutiva de ILFPS, Cassie Creswell, dijo a Ars que a los padres les molesta especialmente que Google no sea transparente sobre cómo procesa y usa los datos de los estudiantes. “No deberíamos tener ningún dato infantil recopilado en un entorno escolar que se use con fines comerciales”, afirmó."
               }
             ]
           }

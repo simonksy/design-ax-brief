@@ -13898,6 +13898,138 @@
           "x": "지금까지 26개국 108곳이 서명했고 운영은 Association of University Presses가 맡는다. 세계 최대 대학 출판부인 Oxford University Press가 빠진 점이 눈에 띈다."
         }
       ]
+    },
+    "books/books-tawhia-cla-prompts": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "뉴질랜드(Aotearoa New Zealand)의 저작권 단체 Tāwhia Copyright Aotearoa(옛 Copyright Licensing New Zealand)가 영국(UK)의 Copyright Licensing Agency와 양자 협정을 맺었다. 이제 라이선스를 받은 콘텐츠를 AI 프롬프트에도 쓸 수 있다."
+        }
+      ]
+    },
+    "books/books-lukomski-voice-ruling": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/hero-86.jpg"
+        },
+        {
+          "t": "p",
+          "x": "바르샤바 법원은 금요일 한 회사가 Jarosław Łukomski의 목소리를 AI로 복제해 만든 광고를 딥페이크로 판단했다. 법원은 폴란드에서 가장 잘 알려진 영화 낭독자 중 한 명인 그의 손을 들어 광고 삭제와 공개 사과, 손해배상을 명령했다. 판결은 11월 13일 금요일 바르샤바 지방법원 지식재산권부에서 나왔다. 폴란드 언론은 이번 재판을 AI 복제 목소리를 다룬 국내 첫 재판으로 본다. Łukomski는 가정용 오수 처리 탱크를 만드는 JFC Polska의 광고에서 자기 목소리와 닮은 목소리를 듣고 소송을 냈다."
+        },
+        {
+          "t": "video",
+          "yt": "o-CzuhcoWsY"
+        },
+        {
+          "t": "p",
+          "x": "Sylwia Wit vel Wilk 판사는 JFC Polska에 해당 자료를 삭제하고 사과문을 게재하라고 명령했다. Łukomski에게는 위자료 30,000즐로티(약 $7,500)와 이자, 손해액 17,000즐로티(약 $4,260) 이상에 소송 비용까지 물어 주라고 했다. 판결은 아직 확정되지 않았다."
+        },
+        {
+          "t": "p",
+          "x": "판사는 흉내 낸 대상이 실제로 그 말을 했다고 청취자가 믿을 수 있었는지가 핵심이라고 했다. 판결에 따르면 유명하든 아니든 모든 개인의 목소리가 보호 대상이다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/scrum.jpg",
+          "cap": "재판 기간 바르샤바 법원에서 기자들과 이야기하는 Łukomski(왼쪽). 이미지: eKoszalin, YouTube"
+        },
+        {
+          "t": "p",
+          "x": "법원이 지정한 전문가는 두 목소리가 “명백히(혼동할 만큼) 비슷하다”고 판단했다. 회사 그래픽 디자이너는 폴란드 AI 음성 업체의 도구를 썼다고 진술했다. o2.pl은 법정에서 언급된 도구가 ElevenLabs였다고 보도했다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/11/booth-4.jpg",
+          "cap": "마이크 앞의 Łukomski. 이미지: #AdiMoovi, YouTube"
+        }
+      ]
+    },
+    "books/books-kakao-ryan-begins-anim": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.animenewsnetwork.com/thumbnails/max600x600/cms/news.8/222549/3246655_3305364_2723.jpg",
+          "cap": "이미지 출처: Kakao Entertainment 웹사이트 © Kakao Entertianment"
+        },
+        {
+          "t": "p",
+          "x": "Kakao는 11월 10일 OpenAI와 기술 협업해 인기 캐릭터 Ryan을 주인공으로 한 첫 AI 단편 애니메이션 Ryan Begins를 만들었다고 밝혔다."
+        },
+        {
+          "t": "p",
+          "x": "같은 이름의 웹툰이 원작인 이 단편은 약 칠 분 길이로, 기획부터 제작까지 사람의 창작 연출과 생성형 AI 도구를 함께 썼다."
+        },
+        {
+          "t": "p",
+          "x": "Netflix 애니메이션 영화 Lost in Starlight를 연출한 Jiwon Han 감독과 AI 슈퍼바이저 Young-jun Kim이 제작진에 참여했다. 팀은 장면 스케치와 상세한 프롬프트를 넣어 ChatGPT의 이미지 생성 기능으로 초기 이미지를 뽑았다. 아티스트들은 이 이미지를 직접 다듬고 고쳐 의도한 시각적 완성도까지 끌어올렸다."
+        },
+        {
+          "t": "video",
+          "yt": "REXgHT6Y_oo"
+        },
+        {
+          "t": "p",
+          "x": "제작진은 원하는 연출과 감정의 결을 얻으려고 한 장면에만 프롬프트를 약 1,500개 썼다고 밝혔다."
+        },
+        {
+          "t": "p",
+          "x": "Kakao는 11월 8일 서울 성수동(Seongsu-dong) Movieland에서 특별 사전 상영회와 Q&A 행사를 열었다. 현장에는 애니메이션 제작 과정을 보여주는 전시도 마련됐다. Q&A 티켓은 판매를 시작한 지 하루 만에 매진됐다."
+        },
+        {
+          "t": "p",
+          "x": "Han 감독은 대사나 과장된 표정에 기대지 않고 Ryan의 감정을 전하는 데 집중했고, 관객이 이야기를 저마다 해석하게 했다고 말했다. Kim은 AI-generated 이미지가 의도한 감정의 결에서 벗어날 때마다 거듭 손봤다며, 최종 결과를 정한 건 창작자들의 판단과 손작업이었다고 강조했다."
+        }
+      ]
+    },
+    "books/books-laffont-madrigall-screening": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/11/Screen-Shot-2026-11-08-at-11.14.44-AM.png"
+        },
+        {
+          "t": "p",
+          "x": "ActuaLitté 보도에 따르면 프랑스 출판사 Robert Laffont은 AI-generated 원고를 두고 경쟁사 Gallimard와 다른 길을 택했다. Robert Laffont 대표 Frédéric Martin은 작가와 출판사의 관계는 신뢰가 바탕이어야 한다며 투고 원고 심사에 AI 탐지 소프트웨어를 쓰는 데 반대한다. Gallimard의 모회사 Madrigall은 반대로 2027년 1월부터 투고 원고에 AI 탐지를 도입할 계획이다."
+        },
+        {
+          "t": "p",
+          "x": "Robert Laffont은 2027년 2월 Sébastien Bailly의 AI-assisted 소설 Les Touches fantômes 출간도 앞두고 있다. Bailly는 초고 대부분을 Claude로 생성한 뒤 한 해 동안 약 30개 버전을 거치며 원고를 고쳐 쓰고 다듬었다."
+        }
+      ]
+    },
+    "books/books-kyobo-picks-agent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.readersnews.com/news/photo/202611/200863_91283_2625.jpg",
+          "cap": "[사진=교보문고]"
+        },
+        {
+          "t": "p",
+          "x": "교보문고가 대화형 AI 도서 추천 서비스 ‘Picks 에이전트’를 오픈했다."
+        },
+        {
+          "t": "p",
+          "x": "‘Picks’는 개인의 취향과 관심사를 반영해 도서를 추천해 주는 맞춤형 서비스다. 지난 3월에는 거대언어모델(LLM)을 적용해 서비스를 고도화했다."
+        },
+        {
+          "t": "p",
+          "x": "이번에 새롭게 선보이는 ‘Picks 에이전트’에서는 추천 방식을 대화형으로 확장했다. 독자의 취향뿐 아니라 교보문고 MD가 큐레이션한 주제와 도서를 바탕으로 도서를 추천하는 것은 물론 독서 맥락을 고려해 읽는 순서를 알려주기도 한다."
+        },
+        {
+          "t": "p",
+          "x": "서비스 기획에는 독자들의 의견이 반영됐다. 지난 1월 회원들을 대상으로 진행한 설문조사에서 응답자의 55%가 책을 고를 때 가장 망설이는 순간으로 자신의 취향에 맞는 책인지 확신하기 어려울 때를 꼽았다. 가장 선호하는 AI 추천 방식으로는 ‘독서 데이터를 분석한 취향 맞춤 추천’이 선택됐다."
+        },
+        {
+          "t": "p",
+          "x": "해당 서비스는 교보문고 홈페이지에 로그인한 후 검색창 옆 Picks 에이전트 아이콘을 누르면 이용할 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "오픈 기념 이벤트 페이지에서는 작가들이 ‘Picks 에이전트’에 던진 질문과 추천 도서, 선정 이유를 확인할 수 있으며 질문 방식과 추천 과정 등을 살펴볼 수 있다. 오픈 기념 댓글 이벤트도 진행된다."
+        }
+      ]
     }
   }
 }

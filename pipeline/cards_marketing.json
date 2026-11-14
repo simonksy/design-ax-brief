@@ -1,221 +1,167 @@
 {
-  "date": "2026-11-14",
+  "date": "2026-11-15",
   "section": "marketing",
   "cards": [
     {
-      "id": "chatgpt-wallet-dots-checkout",
+      "id": "amazon-world-product-graph",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "ChatGPT Wallet\nDots가 대신 산다",
-      "body": "US Pro 이용자부터 Dots 에이전트가 매번 확인받고 대신 결제한다.",
-      "mini_headline": "ChatGPT Wallet, 에이전트 결제",
+      "headline": "Amazon, 온라인의\n모든 상품 색인 추진",
+      "body": "Amazon이 AI 쇼핑 검색에 쓸 인터넷 전체 상품 데이터를 모으려 한다.",
+      "mini_headline": "Amazon, 전 상품 색인",
       "tool": "Marketing",
       "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+      "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
       "accent": "#ff8a3d",
       "motif": "frame",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/acastro_STK103__03.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
           },
           {
             "t": "p",
-            "x": "OpenAI가 올해 초 Dots AI 에이전트 플랫폼에 이어 에이전트용 지갑을 내놓는다. ChatGPT Wallet은 오늘부터 미국(US)에 사는 18세 이상 ChatGPT Pro 구독자 가운데 US 청구지 주소와 “자격 요건을 갖춘 US-issued American Express, Chase, Mastercard, Visa 카드”를 쓰는 이용자에게 차례로 열린다."
+            "x": "Reuters에 따르면 Amazon은 인터넷 어디서 팔리는 상품이든, 심지어 Amazon이 팔지 않는 상품까지 모두 담은 데이터 저장소를 만들어 자사 사이트에서 보여줄 계획이다. 프로젝트 이름은 “World Product Graph”다. 쇼핑객이 상품을 알아보려고 Amazon을 떠나 Reddit이나 Google로 가는 일을 줄이자는 취지다. 가장 큰 쇼핑 데이터를 Amazon이 쥐면 AI 에이전트도 다른 곳보다 Amazon의 상품 색인에 기댈 수 있다."
           },
           {
             "t": "p",
-            "x": "지갑에 카드를 넣어 두면 Dots 에이전트가 프롬프트대로 그 카드로 물건을 사는데, 결제 전에는 매번 이용자 확인을 거친다. OpenAI 지원 페이지를 보면 ChatGPT Wallet으로 하는 모든 구매는 Face ID나 지문 스캔 같은 생체 인증 보안 확인을 거쳐야 한다."
-          },
-          {
-            "t": "img",
-            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/openai-chatgpt-wallet-approval-pop-up.jpeg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-            "cap": "ChatGPT Wallet의 모든 구매는 이용자가 승인해야 한다."
+            "x": "외부 소매업체 상품 링크는 이미 “shop direct” 기능으로 Amazon에 노출된다. 이번 프로젝트는 이전에 Rufus로 불렸던 Amazon의 AI 쇼핑 어시스턴트 Alexa for Shopping의 문제도 함께 겨냥한다. 한 내부 문서에는 “Rufus 답변 상당수가 사실과 다르거나 불완전하다”고 적혀 있었다고 한다. 데이터가 많아지면 시스템이 더 정확해지고 더 싼 모델도 쓸 수 있다는 설명이다."
           },
           {
             "t": "p",
-            "x": "OpenAI 설명으로는 이용자가 AI 에이전트의 구매 내역을 검토하고 승인하면 탭 결제나 Apple Pay, Google Wallet처럼 신용카드 정보가 결제 토큰으로 바뀐다. 실제 카드 정보는 Dots 에이전트에도, 구매처 업체에도 넘어가지 않는다. OpenAI는 궁극적으로 “이용자가 지출 한도, 구매 카테고리, 기간 같은 명확한 조건을 정해 구매를 에이전트에게 전적으로 맡기고, 그 구매를 미리 승인할 수 있을 것”으로 기대한다고 밝혔다."
-          },
-          {
-            "t": "p",
-            "x": "ChatGPT Wallet이 어디서나 통하지는 않을 수 있다. 일부 소매업체가 AI 에이전트 이용을 제한하거나 아예 막고 있어서다. Amazon도 올해 초 Meta의 Muse 에이전트를 차단했다. OpenAI는 에이전트가 ChatGPT Wallet을 쓰려면 “웹사이트는 에이전트가 의도치 않게 차단되지 않도록 해야 하고, 결제·리스크 시스템은 에이전트가 한 정당한 구매를 알아봐야 한다”고 했다."
+            "x": "실제 출시 여부는 아직 불투명하다. Reuters는 “이 계획이 실행될지, 언제 실행될지” 분명하지 않다고 전했다. 다만 문서에는 2027년 10월 1일이라는 출시일이 적혀 있었다. Amazon은 “이런 브레인스토밍 문서가 존재한다고 해서 반드시 현재 계획을 반영하는 것은 아니다”라고 밝혔다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "ChatGPT Wallet lets Dots\nagents buy on your behalf",
-          "body": "OpenAI's ChatGPT Wallet lets Dots agents make purchases with a check-in before each one, starting with US Pro users.",
-          "mini_headline": "ChatGPT Wallet lets agents buy",
+          "headline": "Amazon wants to index\nevery product online",
+          "body": "Amazon plans a vault of data on every product on the internet to feed its AI shopping search.",
+          "mini_headline": "Amazon indexes\nall products",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/acastro_STK103__03.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
               },
               {
                 "t": "p",
-                "x": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and “eligible US-issued American Express, Chase, Mastercard and Visa cards.”"
+                "x": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn’t sell, and make the information available through its own site, according to Reuters. The project, called the “World Product Graph,” is meant to make it less likely that shoppers leave Amazon to do their product research on Reddit or Google. If Amazon has the largest stockpile of shopping data, AI agents may rely on its index of products over others."
               },
               {
                 "t": "p",
-                "x": "After adding a card to the wallet, your Dots agents can use it to buy things in response to your prompts, but they’ll check in with you each time before checking out. OpenAI’s support page says every purchase with ChatGPT Wallet requires a security check with biometric verification like Face ID or a fingerprint scan."
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/openai-chatgpt-wallet-approval-pop-up.jpeg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-                "cap": "Users have to approve every purchase from ChatGPT Wallet."
+                "x": "Links to outside retailers’ products already appear on Amazon through the “shop direct” feature. The project would also aim to fix issues with Amazon’s AI shopping assistant, Alexa for Shopping, previously called Rufus: an internal document reportedly says “Many Rufus answers are factually wrong or incomplete.” More data is supposed to make the system more accurate and able to use cheaper models."
               },
               {
                 "t": "p",
-                "x": "After you review the AI agent’s purchase and sign off on it, OpenAI says that, similar to using tap to pay, Apple Pay, or Google Wallet, it substitutes your credit card details with a payment token, so your actual card info isn’t shared with your Dots agent or the business you’re buying from. Eventually, OpenAI says it expects “users to be able to delegate purchases entirely to their agent by setting clear parameters—such as spending limits, purchase categories, or time periods—and pre-approve those purchases.”"
-              },
-              {
-                "t": "p",
-                "x": "ChatGPT Wallet might not work everywhere. Some retailers have restrictions on AI agents or block them altogether. Earlier this year, Amazon blocked Meta’s Muse agents. OpenAI says that in order for agents to use ChatGPT Wallet, “websites need to ensure agents are not inadvertently blocked, and payment and risk systems need to recognize legitimate purchases made by agents.”"
+                "x": "Whether this ships is still up in the air. Reuters says it’s unclear “if or when this plan may be implemented,” but the document included an October 1st, 2027 release date. Amazon said “the existence of a brainstorming document such as this one doesn’t necessarily reflect our current plans.”"
               }
             ]
           }
         },
         "ko": {
-          "headline": "ChatGPT Wallet\nDots가 대신 산다",
-          "body": "US Pro 이용자부터 Dots 에이전트가 매번 확인받고 대신 결제한다.",
-          "mini_headline": "ChatGPT Wallet, 에이전트 결제",
+          "headline": "Amazon, 온라인의\n모든 상품 색인 추진",
+          "body": "Amazon이 AI 쇼핑 검색에 쓸 인터넷 전체 상품 데이터를 모으려 한다.",
+          "mini_headline": "Amazon, 전 상품 색인",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/acastro_STK103__03.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
               },
               {
                 "t": "p",
-                "x": "OpenAI가 올해 초 Dots AI 에이전트 플랫폼에 이어 에이전트용 지갑을 내놓는다. ChatGPT Wallet은 오늘부터 미국(US)에 사는 18세 이상 ChatGPT Pro 구독자 가운데 US 청구지 주소와 “자격 요건을 갖춘 US-issued American Express, Chase, Mastercard, Visa 카드”를 쓰는 이용자에게 차례로 열린다."
+                "x": "Reuters에 따르면 Amazon은 인터넷 어디서 팔리는 상품이든, 심지어 Amazon이 팔지 않는 상품까지 모두 담은 데이터 저장소를 만들어 자사 사이트에서 보여줄 계획이다. 프로젝트 이름은 “World Product Graph”다. 쇼핑객이 상품을 알아보려고 Amazon을 떠나 Reddit이나 Google로 가는 일을 줄이자는 취지다. 가장 큰 쇼핑 데이터를 Amazon이 쥐면 AI 에이전트도 다른 곳보다 Amazon의 상품 색인에 기댈 수 있다."
               },
               {
                 "t": "p",
-                "x": "지갑에 카드를 넣어 두면 Dots 에이전트가 프롬프트대로 그 카드로 물건을 사는데, 결제 전에는 매번 이용자 확인을 거친다. OpenAI 지원 페이지를 보면 ChatGPT Wallet으로 하는 모든 구매는 Face ID나 지문 스캔 같은 생체 인증 보안 확인을 거쳐야 한다."
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/openai-chatgpt-wallet-approval-pop-up.jpeg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-                "cap": "ChatGPT Wallet의 모든 구매는 이용자가 승인해야 한다."
+                "x": "외부 소매업체 상품 링크는 이미 “shop direct” 기능으로 Amazon에 노출된다. 이번 프로젝트는 이전에 Rufus로 불렸던 Amazon의 AI 쇼핑 어시스턴트 Alexa for Shopping의 문제도 함께 겨냥한다. 한 내부 문서에는 “Rufus 답변 상당수가 사실과 다르거나 불완전하다”고 적혀 있었다고 한다. 데이터가 많아지면 시스템이 더 정확해지고 더 싼 모델도 쓸 수 있다는 설명이다."
               },
               {
                 "t": "p",
-                "x": "OpenAI 설명으로는 이용자가 AI 에이전트의 구매 내역을 검토하고 승인하면 탭 결제나 Apple Pay, Google Wallet처럼 신용카드 정보가 결제 토큰으로 바뀐다. 실제 카드 정보는 Dots 에이전트에도, 구매처 업체에도 넘어가지 않는다. OpenAI는 궁극적으로 “이용자가 지출 한도, 구매 카테고리, 기간 같은 명확한 조건을 정해 구매를 에이전트에게 전적으로 맡기고, 그 구매를 미리 승인할 수 있을 것”으로 기대한다고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "ChatGPT Wallet이 어디서나 통하지는 않을 수 있다. 일부 소매업체가 AI 에이전트 이용을 제한하거나 아예 막고 있어서다. Amazon도 올해 초 Meta의 Muse 에이전트를 차단했다. OpenAI는 에이전트가 ChatGPT Wallet을 쓰려면 “웹사이트는 에이전트가 의도치 않게 차단되지 않도록 해야 하고, 결제·리스크 시스템은 에이전트가 한 정당한 구매를 알아봐야 한다”고 했다."
+                "x": "실제 출시 여부는 아직 불투명하다. Reuters는 “이 계획이 실행될지, 언제 실행될지” 분명하지 않다고 전했다. 다만 문서에는 2027년 10월 1일이라는 출시일이 적혀 있었다. Amazon은 “이런 브레인스토밍 문서가 존재한다고 해서 반드시 현재 계획을 반영하는 것은 아니다”라고 밝혔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ChatGPT Wallet\nDotsが代わりに購入",
-          "body": "US Pro利用者から、Dotsエージェントが毎回確認を経て代理購入する。",
-          "mini_headline": "ChatGPT Wallet、エージェントが購入",
+          "headline": "Amazon、ネット上の\n全商品を索引化へ",
+          "body": "Amazonは、AIショッピング検索のため、ネット上の全商品のデータを集める計画だ。",
+          "mini_headline": "Amazon、全商品を索引化",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/acastro_STK103__03.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
               },
               {
                 "t": "p",
-                "x": "OpenAIは今年初めにDots AIエージェントプラットフォームを立ち上げたのに続き、エージェント向けのウォレットを投入する。ChatGPT Walletは本日から、米国（US）の18歳以上のChatGPT Pro加入者のうち、USの請求先住所と「対象となるUS-issuedのAmerican Express、Chase、Mastercard、Visaカード」を使う利用者に順次提供される。"
+                "x": "Reutersによると、Amazonはインターネット上で販売されるあらゆる商品、さらにAmazonが扱っていない商品まで網羅するデータの保管庫を構築し、その情報を自社サイトで提供する計画を持っている。「World Product Graph」と呼ばれるこのプロジェクトは、買い物客が商品調べのためにAmazonを離れてRedditやGoogleへ移る可能性を減らすことを狙う。Amazonが最大のショッピングデータを蓄積すれば、AIエージェントは他社よりもAmazonの商品インデックスに頼るようになるかもしれない。"
               },
               {
                 "t": "p",
-                "x": "ウォレットにカードを追加すると、Dotsエージェントはプロンプトに応じてそのカードで買い物ができるが、決済の前には毎回ユーザーに確認する。OpenAIのサポートページによると、ChatGPT Walletでの購入にはすべて、Face IDや指紋スキャンなどの生体認証によるセキュリティチェックが必要だ。"
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/openai-chatgpt-wallet-approval-pop-up.jpeg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-                "cap": "ChatGPT Walletでの購入は、すべてユーザーの承認が必要だ。"
+                "x": "外部小売業者の商品へのリンクは、すでに「shop direct」機能を通じてAmazon上に表示されている。このプロジェクトは、以前Rufusと呼ばれていたAmazonのAIショッピングアシスタント、Alexa for Shoppingの問題の解消も目指す。内部文書には「Rufusの回答の多くは事実と異なるか不完全だ」と記されているという。データが増えれば、システムはより正確になり、より安価なモデルも使えるようになるとされる。"
               },
               {
                 "t": "p",
-                "x": "OpenAIによると、ユーザーがAIエージェントの購入内容を確認して承認すると、タッチ決済やApple Pay、Google Walletと同様に、クレジットカード情報を決済トークンに置き換える。そのため実際のカード情報はDotsエージェントにも購入先の事業者にも共有されない。OpenAIは最終的に「ユーザーが利用上限、購入カテゴリー、期間といった明確な条件を設定して購入を完全にエージェントへ任せ、その購入を事前承認できるようになる」と見込んでいる。"
-              },
-              {
-                "t": "p",
-                "x": "ChatGPT Walletはどこでも使えるとは限らない。AIエージェントの利用を制限したり、全面的にブロックしたりする小売業者もある。今年初めには、AmazonがMetaのMuseエージェントをブロックした。OpenAIは、エージェントがChatGPT Walletを使うには「ウェブサイトはエージェントが意図せずブロックされないようにし、決済・リスクシステムはエージェントによる正当な購入を認識する必要がある」としている。"
+                "x": "実現するかはまだ不透明だ。Reutersは「この計画が実施されるかどうか、いつ実施されるか」は不明だとしているが、文書には2027年10月1日のリリース日が記されていた。Amazonは「このようなブレインストーミング文書の存在は、必ずしも現在の計画を反映するものではない」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "ChatGPT Wallet\nDots智能体代你购物",
-          "body": "US Pro用户率先使用，Dots智能体每次购买前都会先征得确认。",
-          "mini_headline": "ChatGPT Wallet让智能体购物",
+          "headline": "Amazon欲为网上\n所有商品建索引",
+          "body": "Amazon计划为互联网上的每件商品建立数据库，以支撑其AI购物搜索。",
+          "mini_headline": "Amazon索引全网商品",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/acastro_STK103__03.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
               },
               {
                 "t": "p",
-                "x": "OpenAI今年早些时候推出Dots AI智能体平台后，又为这些智能体推出钱包。ChatGPT Wallet自今天起，面向美国（US）年满18岁、使用US账单地址及“符合条件的US-issued American Express、Chase、Mastercard和Visa卡”的ChatGPT Pro订阅用户逐步开放。"
+                "x": "据Reuters报道，Amazon计划建立一个数据库，收录互联网上任何地方销售的每一件商品，甚至包括Amazon自己不卖的商品，并通过自家网站提供这些信息。这个名为“World Product Graph”的项目，旨在减少购物者离开Amazon、转到Reddit或Google做商品研究的情况。如果Amazon拥有最大的购物数据储备，AI智能体可能会优先依赖它的商品索引。"
               },
               {
                 "t": "p",
-                "x": "将卡片添加到钱包后，Dots智能体即可根据你的提示用它购物，但每次结账前都会先向你确认。OpenAI支持页面称，通过ChatGPT Wallet进行的每笔购买都需要通过Face ID或指纹扫描等生物识别验证完成安全检查。"
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/openai-chatgpt-wallet-approval-pop-up.jpeg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-                "cap": "ChatGPT Wallet的每笔购买都须经用户批准。"
+                "x": "外部零售商的商品链接已通过“shop direct”功能出现在Amazon上。该项目还旨在解决Amazon的AI购物助手Alexa for Shopping（前称Rufus）存在的问题：据报道，一份内部文件写道：“许多Rufus的回答在事实上是错误的或不完整的。”更多数据有望让系统更准确，并能使用更便宜的模型。"
               },
               {
                 "t": "p",
-                "x": "OpenAI表示，在你审核并批准AI智能体的购买后，它会像拍卡支付、Apple Pay或Google Wallet一样，用支付令牌替代你的信用卡信息，因此你的真实卡片信息不会分享给Dots智能体或你购买的商家。OpenAI称，最终它预计“用户能够通过设定支出上限、购买类别或时间段等明确参数，将购买完全委托给智能体，并预先批准这些购买”。"
-              },
-              {
-                "t": "p",
-                "x": "ChatGPT Wallet未必在所有地方都能使用。一些零售商限制甚至完全屏蔽AI智能体。今年早些时候，Amazon屏蔽了Meta的Muse智能体。OpenAI表示，要让智能体使用ChatGPT Wallet，“网站需要确保智能体不会被误拦，支付和风控系统也需要识别智能体发起的合法购买”。"
+                "x": "该计划能否落地仍是未知数。Reuters称，目前尚不清楚“该计划是否或何时会实施”，但文件中列出了2027年10月1日的发布日期。Amazon表示：“这样一份头脑风暴文件的存在，并不一定反映我们当前的计划。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "ChatGPT Wallet permite a Dots\ncomprar en nombre del usuario",
-          "body": "ChatGPT Wallet deja que los agentes Dots compren tras confirmar cada pedido, primero para usuarios Pro en US.",
-          "mini_headline": "ChatGPT Wallet deja comprar a los agentes",
+          "headline": "Amazon quiere indexar\ntodos los productos en línea",
+          "body": "Amazon planea un depósito de datos sobre cada producto de internet para alimentar su búsqueda de compras con AI.",
+          "mini_headline": "Amazon indexa todos los productos",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/acastro_STK103__03.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
               },
               {
                 "t": "p",
-                "x": "Tras lanzar a principios de este año su plataforma de agentes Dots AI, OpenAI lanza ahora una billetera para esos agentes. ChatGPT Wallet empieza a desplegarse hoy para suscriptores de ChatGPT Pro en Estados Unidos (US) de 18 años o más que usen una dirección de facturación de US y “tarjetas American Express, Chase, Mastercard y Visa US-issued que cumplan los requisitos”."
+                "x": "Amazon planea construir un depósito de datos sobre todos los productos que se venden en cualquier lugar de internet, incluso los que Amazon no vende, y ofrecer esa información en su propio sitio, según Reuters. El proyecto, llamado “World Product Graph”, busca reducir la probabilidad de que los compradores salgan de Amazon para investigar productos en Reddit o Google. Si Amazon tiene la mayor reserva de datos de compras, los agentes de AI podrían recurrir a su índice de productos antes que a otros."
               },
               {
                 "t": "p",
-                "x": "Después de añadir una tarjeta a la billetera, los agentes Dots pueden usarla para comprar según las instrucciones del usuario, pero le consultarán cada vez antes de pagar. La página de soporte de OpenAI indica que toda compra con ChatGPT Wallet requiere una verificación de seguridad con autenticación biométrica, como Face ID o un escaneo de huella dactilar."
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/openai-chatgpt-wallet-approval-pop-up.jpeg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-                "cap": "Los usuarios deben aprobar cada compra de ChatGPT Wallet."
+                "x": "Los enlaces a productos de minoristas externos ya aparecen en Amazon mediante la función “shop direct”. El proyecto también buscaría corregir problemas del asistente de compras con AI de Amazon, Alexa for Shopping, antes llamado Rufus: según se informa, un documento interno afirma que “muchas respuestas de Rufus son incorrectas o incompletas”. Más datos deberían hacer el sistema más preciso y permitirle usar modelos más baratos."
               },
               {
                 "t": "p",
-                "x": "Una vez que el usuario revisa y aprueba la compra del agente de IA, OpenAI explica que, de forma similar al pago sin contacto, Apple Pay o Google Wallet, sustituye los datos de la tarjeta de crédito por un token de pago, de modo que la información real de la tarjeta no se comparte con el agente Dots ni con el comercio. Con el tiempo, OpenAI dice que espera que “los usuarios puedan delegar por completo las compras en su agente fijando parámetros claros —como límites de gasto, categorías de compra o periodos de tiempo— y aprobar esas compras por adelantado”."
-              },
-              {
-                "t": "p",
-                "x": "Es posible que ChatGPT Wallet no funcione en todas partes. Algunos minoristas restringen a los agentes de IA o los bloquean por completo. A principios de este año, Amazon bloqueó los agentes Muse de Meta. OpenAI afirma que, para que los agentes puedan usar ChatGPT Wallet, “los sitios web deben asegurarse de no bloquear a los agentes sin querer, y los sistemas de pago y de riesgo deben reconocer las compras legítimas realizadas por agentes”."
+                "x": "Aún no está claro si esto llegará a lanzarse. Reuters dice que no se sabe “si este plan se implementará ni cuándo”, pero el documento incluía como fecha de lanzamiento el 1 de octubre de 2027. Amazon afirmó que “la existencia de un documento de lluvia de ideas como este no refleja necesariamente nuestros planes actuales”."
               }
             ]
           }
@@ -223,141 +169,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "ChatGPT Wallet\nDots가 대신 구매한다",
-          "body": "US Pro 이용자부터 Dots 에이전트가 매번 확인 후 대신 결제한다.",
-          "mini_headline": "ChatGPT Wallet, 에이전트 결제",
+          "headline": "Amazon, 온라인의\n모든 상품 색인 추진",
+          "body": "Amazon이 AI 쇼핑 검색을 위해 인터넷의 모든 상품 데이터를 모으려 한다.",
+          "mini_headline": "Amazon, 전 상품 색인",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/acastro_STK103__03.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
               },
               {
                 "t": "p",
-                "x": "OpenAI는 올해 초 Dots AI 에이전트 플랫폼을 출시한 데 이어 에이전트용 지갑을 내놓는다. ChatGPT Wallet은 오늘부터 미국(US)에 사는 18세 이상 ChatGPT Pro 구독자 가운데 US 청구지 주소와 “자격 요건을 갖춘 US-issued American Express, Chase, Mastercard, Visa 카드”를 쓰는 이용자에게 순차 제공된다."
+                "x": "Reuters에 따르면 Amazon은 인터넷 어디에서든 판매되는 모든 상품, 심지어 Amazon이 팔지 않는 상품까지 아우르는 데이터 저장소를 구축하고, 이 정보를 자사 사이트에서 제공할 계획이다. “World Product Graph”라는 이름의 이 프로젝트는 쇼핑객이 상품 조사를 위해 Amazon을 떠나 Reddit이나 Google로 가는 일을 줄이려는 목적이다. Amazon이 가장 큰 쇼핑 데이터를 쌓으면 AI 에이전트가 다른 곳보다 Amazon의 상품 색인에 의존하게 될 수 있다."
               },
               {
                 "t": "p",
-                "x": "지갑에 카드를 추가하면 Dots 에이전트가 프롬프트에 따라 그 카드로 물건을 살 수 있지만, 결제 전에는 매번 이용자에게 확인을 거친다. OpenAI 지원 페이지에 따르면 ChatGPT Wallet을 통한 모든 구매에는 Face ID나 지문 스캔 같은 생체 인증 보안 확인이 필요하다."
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/openai-chatgpt-wallet-approval-pop-up.jpeg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-                "cap": "ChatGPT Wallet의 모든 구매는 이용자가 승인해야 한다."
+                "x": "외부 소매업체 상품 링크는 이미 “shop direct” 기능을 통해 Amazon에 노출되고 있다. 이 프로젝트는 이전에 Rufus로 불렸던 Amazon의 AI 쇼핑 어시스턴트 Alexa for Shopping의 문제도 해결하려 한다. 한 내부 문서에는 “Rufus 답변 상당수가 사실과 다르거나 불완전하다”는 내용이 적혀 있다고 한다. 데이터가 늘면 시스템이 더 정확해지고 더 저렴한 모델도 쓸 수 있다는 설명이다."
               },
               {
                 "t": "p",
-                "x": "OpenAI는 이용자가 AI 에이전트의 구매 내역을 검토하고 승인하면 탭 결제나 Apple Pay, Google Wallet처럼 신용카드 정보를 결제 토큰으로 대체한다고 설명한다. 그래서 실제 카드 정보는 Dots 에이전트나 구매처 업체와 공유되지 않는다. OpenAI는 궁극적으로 “이용자가 지출 한도, 구매 카테고리, 기간 같은 명확한 조건을 정해 구매를 에이전트에게 전적으로 맡기고, 그 구매를 미리 승인할 수 있을 것”으로 기대한다고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "ChatGPT Wallet이 모든 곳에서 작동하지는 않을 수 있다. 일부 소매업체는 AI 에이전트 이용을 제한하거나 아예 차단한다. 올해 초 Amazon은 Meta의 Muse 에이전트를 차단했다. OpenAI는 에이전트가 ChatGPT Wallet을 쓰려면 “웹사이트는 에이전트가 의도치 않게 차단되지 않도록 해야 하고, 결제·리스크 시스템은 에이전트가 한 정당한 구매를 알아봐야 한다”고 말했다."
+                "x": "실제 출시 여부는 아직 불투명하다. Reuters는 “이 계획이 실행될지, 언제 실행될지” 분명하지 않다고 전했지만, 문서에는 2027년 10월 1일이라는 출시일이 적혀 있었다. Amazon은 “이런 브레인스토밍 문서가 존재한다고 해서 반드시 현재 계획을 반영하는 것은 아니다”라고 밝혔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ChatGPT Wallet\nDotsが代わりに購入",
-          "body": "US Pro利用者から、Dotsエージェントが毎回確認を経て代理購入する。",
-          "mini_headline": "ChatGPT Wallet、エージェントが購入",
+          "headline": "Amazon、ネット上の\n全商品を索引化へ",
+          "body": "Amazonは、AIショッピング検索のため、ネット上の全商品のデータを集める計画だ。",
+          "mini_headline": "Amazon、全商品を索引化",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/acastro_STK103__03.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
               },
               {
                 "t": "p",
-                "x": "OpenAIは今年初めにDots AIエージェントプラットフォームを立ち上げたのに続き、エージェント向けのウォレットを投入する。ChatGPT Walletは本日から、米国（US）の18歳以上のChatGPT Pro加入者のうち、USの請求先住所と「対象となるUS-issuedのAmerican Express、Chase、Mastercard、Visaカード」を使う利用者に順次提供される。"
+                "x": "Reutersによると、Amazonはインターネット上で販売されるあらゆる商品、さらにAmazonが扱っていない商品まで網羅するデータの保管庫を構築し、その情報を自社サイトで提供する計画を持っている。「World Product Graph」と呼ばれるこのプロジェクトは、買い物客が商品調べのためにAmazonを離れてRedditやGoogleへ移る可能性を減らすことを狙う。Amazonが最大のショッピングデータを蓄積すれば、AIエージェントは他社よりもAmazonの商品インデックスに頼るようになるかもしれない。"
               },
               {
                 "t": "p",
-                "x": "ウォレットにカードを追加すると、Dotsエージェントはプロンプトに応じてそのカードで買い物ができるが、決済の前には毎回ユーザーに確認する。OpenAIのサポートページによると、ChatGPT Walletでの購入にはすべて、Face IDや指紋スキャンなどの生体認証によるセキュリティチェックが必要だ。"
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/openai-chatgpt-wallet-approval-pop-up.jpeg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-                "cap": "ChatGPT Walletでの購入は、すべてユーザーの承認が必要だ。"
+                "x": "外部小売業者の商品へのリンクは、すでに「shop direct」機能を通じてAmazon上に表示されている。このプロジェクトは、以前Rufusと呼ばれていたAmazonのAIショッピングアシスタント、Alexa for Shoppingの問題の解消も目指す。内部文書には「Rufusの回答の多くは事実と異なるか不完全だ」と記されているという。データが増えれば、システムはより正確になり、より安価なモデルも使えるようになるとされる。"
               },
               {
                 "t": "p",
-                "x": "OpenAIによると、ユーザーがAIエージェントの購入内容を確認して承認すると、タッチ決済やApple Pay、Google Walletと同様に、クレジットカード情報を決済トークンに置き換える。そのため実際のカード情報はDotsエージェントにも購入先の事業者にも共有されない。OpenAIは最終的に「ユーザーが利用上限、購入カテゴリー、期間といった明確な条件を設定して購入を完全にエージェントへ任せ、その購入を事前承認できるようになる」と見込んでいる。"
-              },
-              {
-                "t": "p",
-                "x": "ChatGPT Walletはどこでも使えるとは限らない。AIエージェントの利用を制限したり、全面的にブロックしたりする小売業者もある。今年初めには、AmazonがMetaのMuseエージェントをブロックした。OpenAIは、エージェントがChatGPT Walletを使うには「ウェブサイトはエージェントが意図せずブロックされないようにし、決済・リスクシステムはエージェントによる正当な購入を認識する必要がある」としている。"
+                "x": "実現するかはまだ不透明だ。Reutersは「この計画が実施されるかどうか、いつ実施されるか」は不明だとしているが、文書には2027年10月1日のリリース日が記されていた。Amazonは「このようなブレインストーミング文書の存在は、必ずしも現在の計画を反映するものではない」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "ChatGPT Wallet\nDots智能体代你购物",
-          "body": "US Pro用户率先使用，Dots智能体每次购买前都会先征得确认。",
-          "mini_headline": "ChatGPT Wallet让智能体购物",
+          "headline": "Amazon欲为网上\n所有商品建索引",
+          "body": "Amazon计划为互联网上的每件商品建立数据库，以支撑其AI购物搜索。",
+          "mini_headline": "Amazon索引全网商品",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/acastro_STK103__03.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
               },
               {
                 "t": "p",
-                "x": "OpenAI今年早些时候推出Dots AI智能体平台后，又为这些智能体推出钱包。ChatGPT Wallet自今天起，面向美国（US）年满18岁、使用US账单地址及“符合条件的US-issued American Express、Chase、Mastercard和Visa卡”的ChatGPT Pro订阅用户逐步开放。"
+                "x": "据Reuters报道，Amazon计划建立一个数据库，收录互联网上任何地方销售的每一件商品，甚至包括Amazon自己不卖的商品，并通过自家网站提供这些信息。这个名为“World Product Graph”的项目，旨在减少购物者离开Amazon、转到Reddit或Google做商品研究的情况。如果Amazon拥有最大的购物数据储备，AI智能体可能会优先依赖它的商品索引。"
               },
               {
                 "t": "p",
-                "x": "将卡片添加到钱包后，Dots智能体即可根据你的提示用它购物，但每次结账前都会先向你确认。OpenAI支持页面称，通过ChatGPT Wallet进行的每笔购买都需要通过Face ID或指纹扫描等生物识别验证完成安全检查。"
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/openai-chatgpt-wallet-approval-pop-up.jpeg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-                "cap": "ChatGPT Wallet的每笔购买都须经用户批准。"
+                "x": "外部零售商的商品链接已通过“shop direct”功能出现在Amazon上。该项目还旨在解决Amazon的AI购物助手Alexa for Shopping（前称Rufus）存在的问题：据报道，一份内部文件写道：“许多Rufus的回答在事实上是错误的或不完整的。”更多数据有望让系统更准确，并能使用更便宜的模型。"
               },
               {
                 "t": "p",
-                "x": "OpenAI表示，在你审核并批准AI智能体的购买后，它会像拍卡支付、Apple Pay或Google Wallet一样，用支付令牌替代你的信用卡信息，因此你的真实卡片信息不会分享给Dots智能体或你购买的商家。OpenAI称，最终它预计“用户能够通过设定支出上限、购买类别或时间段等明确参数，将购买完全委托给智能体，并预先批准这些购买”。"
-              },
-              {
-                "t": "p",
-                "x": "ChatGPT Wallet未必在所有地方都能使用。一些零售商限制甚至完全屏蔽AI智能体。今年早些时候，Amazon屏蔽了Meta的Muse智能体。OpenAI表示，要让智能体使用ChatGPT Wallet，“网站需要确保智能体不会被误拦，支付和风控系统也需要识别智能体发起的合法购买”。"
+                "x": "该计划能否落地仍是未知数。Reuters称，目前尚不清楚“该计划是否或何时会实施”，但文件中列出了2027年10月1日的发布日期。Amazon表示：“这样一份头脑风暴文件的存在，并不一定反映我们当前的计划。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "ChatGPT Wallet permite a Dots\ncomprar en nombre del usuario",
-          "body": "ChatGPT Wallet deja que los agentes Dots compren tras confirmar cada pedido, primero para usuarios Pro en US.",
-          "mini_headline": "ChatGPT Wallet deja comprar a los agentes",
+          "headline": "Amazon quiere indexar\ntodos los productos en línea",
+          "body": "Amazon planea un depósito de datos sobre cada producto de internet para alimentar su búsqueda de compras con AI.",
+          "mini_headline": "Amazon indexa todos los productos",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/acastro_STK103__03.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
               },
               {
                 "t": "p",
-                "x": "Tras lanzar a principios de este año su plataforma de agentes Dots AI, OpenAI lanza ahora una billetera para esos agentes. ChatGPT Wallet empieza a desplegarse hoy para suscriptores de ChatGPT Pro en Estados Unidos (US) de 18 años o más que usen una dirección de facturación de US y “tarjetas American Express, Chase, Mastercard y Visa US-issued que cumplan los requisitos”."
+                "x": "Amazon planea construir un depósito de datos sobre todos los productos que se venden en cualquier lugar de internet, incluso los que Amazon no vende, y ofrecer esa información en su propio sitio, según Reuters. El proyecto, llamado “World Product Graph”, busca reducir la probabilidad de que los compradores salgan de Amazon para investigar productos en Reddit o Google. Si Amazon tiene la mayor reserva de datos de compras, los agentes de AI podrían recurrir a su índice de productos antes que a otros."
               },
               {
                 "t": "p",
-                "x": "Después de añadir una tarjeta a la billetera, los agentes Dots pueden usarla para comprar según las instrucciones del usuario, pero le consultarán cada vez antes de pagar. La página de soporte de OpenAI indica que toda compra con ChatGPT Wallet requiere una verificación de seguridad con autenticación biométrica, como Face ID o un escaneo de huella dactilar."
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/openai-chatgpt-wallet-approval-pop-up.jpeg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-                "cap": "Los usuarios deben aprobar cada compra de ChatGPT Wallet."
+                "x": "Los enlaces a productos de minoristas externos ya aparecen en Amazon mediante la función “shop direct”. El proyecto también buscaría corregir problemas del asistente de compras con AI de Amazon, Alexa for Shopping, antes llamado Rufus: según se informa, un documento interno afirma que “muchas respuestas de Rufus son incorrectas o incompletas”. Más datos deberían hacer el sistema más preciso y permitirle usar modelos más baratos."
               },
               {
                 "t": "p",
-                "x": "Una vez que el usuario revisa y aprueba la compra del agente de IA, OpenAI explica que, de forma similar al pago sin contacto, Apple Pay o Google Wallet, sustituye los datos de la tarjeta de crédito por un token de pago, de modo que la información real de la tarjeta no se comparte con el agente Dots ni con el comercio. Con el tiempo, OpenAI dice que espera que “los usuarios puedan delegar por completo las compras en su agente fijando parámetros claros —como límites de gasto, categorías de compra o periodos de tiempo— y aprobar esas compras por adelantado”."
-              },
-              {
-                "t": "p",
-                "x": "Es posible que ChatGPT Wallet no funcione en todas partes. Algunos minoristas restringen a los agentes de IA o los bloquean por completo. A principios de este año, Amazon bloqueó los agentes Muse de Meta. OpenAI afirma que, para que los agentes puedan usar ChatGPT Wallet, “los sitios web deben asegurarse de no bloquear a los agentes sin querer, y los sistemas de pago y de riesgo deben reconocer las compras legítimas realizadas por agentes”."
+                "x": "Aún no está claro si esto llegará a lanzarse. Reuters dice que no se sabe “si este plan se implementará ni cuándo”, pero el documento incluía como fecha de lanzamiento el 1 de octubre de 2027. Amazon afirmó que “la existencia de un documento de lluvia de ideas como este no refleja necesariamente nuestros planes actuales”."
               }
             ]
           }
@@ -365,15 +275,15 @@
       }
     },
     {
-      "id": "iab-ai-attribution-blueprint",
+      "id": "amazon-dva-plus-20-product-cap",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "IAB, 구매 속 AI의\n기여를 따질 기준",
-      "body": "IAB 새 청사진은 AI가 구매에 관여한 몫을 재는 공통 기준을 담았다.",
-      "mini_headline": "IAB, AI 기여 측정 기준",
+      "headline": "Amazon DVA+\n캠페인 상품 20개 제한",
+      "body": "13일 Amazon 지침상 DVA+는 상품 20개, KPI 바꾸면 학습이 리셋된다.",
+      "mini_headline": "DVA+ 상품 20개 제한",
       "tool": "Marketing",
-      "source": "IAB",
-      "url": "https://www.iab.com/news/iab-releases-ai-era-attribution-blueprint/",
+      "source": "PPC Land",
+      "url": "https://ppc.land/amazon-caps-its-automated-dva-campaigns-at-20-products/",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
@@ -381,173 +291,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.iab.com/wp-content/uploads/2026/11/the-ai-era-attribution-blueprint-2-1024x312.png"
+            "src": "https://ppc.land/content/images/size/w2000/2026/11/amazon-dva-plus-campaign-guide-20-product-cap-automated-steering-wheel-dashboard.jpg",
+            "cap": "Amazon은 자동 DVA+ 캠페인 상품을 20개로 묶고, KPI가 바뀌면 학습을 초기화한다"
           },
           {
             "t": "p",
-            "x": "Interactive Advertising Bureau(IAB)가 2026년 11월 12일 새 프레임워크 AI-Era Attribution Blueprint를 발표했다. 전환에서 AI가 맡은 역할을 업계 공통 방식으로 분류하고, 어느 쪽이 그 성과를 주장할 수 있는지 평가하는 틀이다. IAB의 2026 Outlook Study: September Update에서 광고 구매자들은 AI-driven 고객 여정을 기존 고객 여정과 비교하는 일을 가장 큰 측정 과제로 꼽았고(45%), 44%는 추적할 수 없는 AI 영향을 가늠하려고 브랜드 검색과 직접 유입 트래픽을 대리 지표로 쓴다."
+            "x": "2026년 11월 13일 업데이트된 Support Center 가이드 “Create a DVA+ campaign”은 Display, Video, and Audio 캠페인을 만드는 세 가지 방법을 안내한다. 자동화된 DVA+ 흐름, 단일 양식 작업 공간인 DVA+ advanced, 레거시 모드다. Amazon은 2026년 9월 29일 Amazon DSP라는 이름을 버리고 DVA+를 선보였다."
           },
           {
             "t": "p",
-            "x": "IAB의 AI 담당 VP Caroline Giegerich는 “AI-influenced 매출이 때로 검색이나 직접 유입으로 집계돼, 다음 마케팅 투자가 엉뚱한 채널로 갈 수 있다”고 말했다."
+            "x": "자동화 흐름은 캠페인당 상품을 최대 20개까지 받는다. 계정 자격에 따라 목표 일곱 가지를 고를 수 있고 최적화가 기본으로 켜진 채 디스플레이, 온라인 동영상, 스트리밍 TV에 광고를 내보낸다. 페이지에는 “DVA+는 누락된 광고 형식을 생성하는 AI 도구를 제공한다”고 적혀 있다. 타기팅은 자동이고 위치 타기팅은 off-Amazon 목표에서만 쓸 수 있다."
           },
           {
             "t": "p",
-            "x": "Blueprint는 의도를 만들고 결정을 내리고 구매를 마친 주체가 누구인지, 혹은 무엇인지 묻는다. 답에 따라 각 전환은 Human-Owned, AI-Assisted, AI-Executed 중 하나로 나뉜다. 이 경로가 어느 쪽이(해당하는 쪽이 있다면) 결정 기여나 보조 기여를 주장할 자격이 있는지, 주장마다 어떤 증거가 필요한지를 가른다. 주장한다고 곧 성과를 인정받지는 않는다. 성과 인정을 위한 평가를 받을 권리일 뿐이다."
+            "x": "DVA+ advanced 항목에서 가이드는 “출시 후에도 KPI를 바꿀 수 있지만, 이 경우 캠페인의 성과 학습이 초기화되고 최적화에 영향을 줄 수 있다”고 경고한다. 노출 빈도 상한을 따로 정하지 않으면 기본값이 들어가고, 추천 광고 그룹은 Brand+와 Performance+ 전술에서 나온다."
           },
           {
             "t": "p",
-            "x": "필요한 증거 상당수는 수집되지 않았거나 AI 플랫폼 안에 있다. IAB는 브랜드에 경로별 전환 비중을 추정하라고 요구한다. AI 플랫폼은 추천이 유료인지 자연 노출인지 공개하고 AI-originated 트래픽에 일관되게 라벨을 붙여야 한다. 에이전시는 하나의 주장·증거 기준을 적용하고, 퍼블리셔는 자사 콘텐츠가 만드는 보조 기여 주장을 가려내야 한다."
+            "x": "Launch를 클릭하면 캠페인이 바로 집행되는지를 놓고 가이드 안내가 서로 엇갈린다. 상품 변형이 20개 상품 한도에 어떻게 계산되는지도 밝히지 않았다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "IAB maps how to credit AI\nin the path to purchase",
-          "body": "IAB's new blueprint sets a shared way to measure AI's role when an assistant influences or completes a purchase.",
-          "mini_headline": "IAB sets AI attribution rules",
+          "headline": "Amazon caps DVA+ campaigns\nat 20 products",
+          "body": "Amazon's November 13 guide limits automated DVA+ campaigns to 20 products and resets learning whenever a KPI changes.",
+          "mini_headline": "DVA+ capped\nat 20 products",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.iab.com/wp-content/uploads/2026/11/the-ai-era-attribution-blueprint-2-1024x312.png"
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/amazon-dva-plus-campaign-guide-20-product-cap-automated-steering-wheel-dashboard.jpg",
+                "cap": "Amazon caps automated DVA+ campaigns at 20 products and resets learning when a KPI changes"
               },
               {
                 "t": "p",
-                "x": "On November 12, 2026, the Interactive Advertising Bureau (IAB) released the AI-Era Attribution Blueprint, a new framework that gives the industry a shared way to classify AI’s role in a conversion and evaluate which parties can claim credit for it. Ad buyers name comparing AI-driven and traditional customer journeys as their top measurement challenge (45%), and 44% rely on branded search and direct traffic as proxies for AI influence they can’t track, according to IAB’s 2026 Outlook Study: September Update."
+                "x": "A Support Center guide titled “Create a DVA+ campaign,” updated on November 13, 2026, describes three ways to build a Display, Video, and Audio campaign: an automated DVA+ flow, a one-form workspace called DVA+ advanced, and a legacy mode. Amazon introduced DVA+, which replaced the Amazon DSP name, on September 29, 2026."
               },
               {
                 "t": "p",
-                "x": "“AI-influenced sales are sometimes reported as search or direct traffic, which can send the next marketing investment to the wrong channel,” said Caroline Giegerich, VP, AI, IAB."
+                "x": "The automated flow accepts up to 20 products per campaign, draws on seven objectives depending on account eligibility, and runs ads across display, online video and streaming TV with optimization switched on by default. “DVA+ provides AI tools to generate missing ad formats,” the page says. Targeting is automated; location targeting is only available with off-Amazon objectives."
               },
               {
                 "t": "p",
-                "x": "The Blueprint asks who or what created the intent, made the decision and completed the purchase, then classifies each conversion as Human-Owned, AI-Assisted or AI-Executed. That pathway determines which parties are eligible for a decision claim or a contributory claim, if any, and what evidence each claim requires. A claim is not credit; it is the right to be evaluated for credit."
+                "x": "In DVA+ advanced, the guide warns: “You can change your KPI after launch, but this resets your campaign's performance learnings and may impact optimization.” If no frequency cap is set, a default is applied, and recommended ad groups come from Brand+ and Performance+ tactics."
               },
               {
                 "t": "p",
-                "x": "Much of the evidence needed is either not captured or sits inside AI platforms. IAB calls on brands to estimate the share of conversions in each pathway, AI platforms to disclose whether recommendations are paid or organic and label AI-originated traffic consistently, agencies to apply a single claim-and-evidence standard, and publishers to identify the contributory claims their content creates."
+                "x": "The guide gives conflicting instructions on whether clicking Launch puts a campaign live, and does not say how product variations count toward the 20-product cap."
               }
             ]
           }
         },
         "ko": {
-          "headline": "IAB, 구매 속 AI의\n기여를 따질 기준",
-          "body": "IAB 새 청사진은 AI가 구매에 관여한 몫을 재는 공통 기준을 담았다.",
-          "mini_headline": "IAB, AI 기여 측정 기준",
+          "headline": "Amazon DVA+\n캠페인 상품 20개 제한",
+          "body": "13일 Amazon 지침상 DVA+는 상품 20개, KPI 바꾸면 학습이 리셋된다.",
+          "mini_headline": "DVA+ 상품 20개 제한",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.iab.com/wp-content/uploads/2026/11/the-ai-era-attribution-blueprint-2-1024x312.png"
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/amazon-dva-plus-campaign-guide-20-product-cap-automated-steering-wheel-dashboard.jpg",
+                "cap": "Amazon은 자동 DVA+ 캠페인 상품을 20개로 묶고, KPI가 바뀌면 학습을 초기화한다"
               },
               {
                 "t": "p",
-                "x": "Interactive Advertising Bureau(IAB)가 2026년 11월 12일 새 프레임워크 AI-Era Attribution Blueprint를 발표했다. 전환에서 AI가 맡은 역할을 업계 공통 방식으로 분류하고, 어느 쪽이 그 성과를 주장할 수 있는지 평가하는 틀이다. IAB의 2026 Outlook Study: September Update에서 광고 구매자들은 AI-driven 고객 여정을 기존 고객 여정과 비교하는 일을 가장 큰 측정 과제로 꼽았고(45%), 44%는 추적할 수 없는 AI 영향을 가늠하려고 브랜드 검색과 직접 유입 트래픽을 대리 지표로 쓴다."
+                "x": "2026년 11월 13일 업데이트된 Support Center 가이드 “Create a DVA+ campaign”은 Display, Video, and Audio 캠페인을 만드는 세 가지 방법을 안내한다. 자동화된 DVA+ 흐름, 단일 양식 작업 공간인 DVA+ advanced, 레거시 모드다. Amazon은 2026년 9월 29일 Amazon DSP라는 이름을 버리고 DVA+를 선보였다."
               },
               {
                 "t": "p",
-                "x": "IAB의 AI 담당 VP Caroline Giegerich는 “AI-influenced 매출이 때로 검색이나 직접 유입으로 집계돼, 다음 마케팅 투자가 엉뚱한 채널로 갈 수 있다”고 말했다."
+                "x": "자동화 흐름은 캠페인당 상품을 최대 20개까지 받는다. 계정 자격에 따라 목표 일곱 가지를 고를 수 있고 최적화가 기본으로 켜진 채 디스플레이, 온라인 동영상, 스트리밍 TV에 광고를 내보낸다. 페이지에는 “DVA+는 누락된 광고 형식을 생성하는 AI 도구를 제공한다”고 적혀 있다. 타기팅은 자동이고 위치 타기팅은 off-Amazon 목표에서만 쓸 수 있다."
               },
               {
                 "t": "p",
-                "x": "Blueprint는 의도를 만들고 결정을 내리고 구매를 마친 주체가 누구인지, 혹은 무엇인지 묻는다. 답에 따라 각 전환은 Human-Owned, AI-Assisted, AI-Executed 중 하나로 나뉜다. 이 경로가 어느 쪽이(해당하는 쪽이 있다면) 결정 기여나 보조 기여를 주장할 자격이 있는지, 주장마다 어떤 증거가 필요한지를 가른다. 주장한다고 곧 성과를 인정받지는 않는다. 성과 인정을 위한 평가를 받을 권리일 뿐이다."
+                "x": "DVA+ advanced 항목에서 가이드는 “출시 후에도 KPI를 바꿀 수 있지만, 이 경우 캠페인의 성과 학습이 초기화되고 최적화에 영향을 줄 수 있다”고 경고한다. 노출 빈도 상한을 따로 정하지 않으면 기본값이 들어가고, 추천 광고 그룹은 Brand+와 Performance+ 전술에서 나온다."
               },
               {
                 "t": "p",
-                "x": "필요한 증거 상당수는 수집되지 않았거나 AI 플랫폼 안에 있다. IAB는 브랜드에 경로별 전환 비중을 추정하라고 요구한다. AI 플랫폼은 추천이 유료인지 자연 노출인지 공개하고 AI-originated 트래픽에 일관되게 라벨을 붙여야 한다. 에이전시는 하나의 주장·증거 기준을 적용하고, 퍼블리셔는 자사 콘텐츠가 만드는 보조 기여 주장을 가려내야 한다."
+                "x": "Launch를 클릭하면 캠페인이 바로 집행되는지를 놓고 가이드 안내가 서로 엇갈린다. 상품 변형이 20개 상품 한도에 어떻게 계산되는지도 밝히지 않았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "IAB、購買でのAI\n貢献の測り方を示す",
-          "body": "IABの新指針は、AIが購入を左右・完結させた際の役割を測る共通の方法を定める。",
-          "mini_headline": "IAB、AI貢献の測定ルール",
+          "headline": "Amazon、DVA+の\n対象商品を20点に制限",
+          "body": "Amazonの13日付ガイドでDVA+は20商品まで、KPI変更で学習がリセットされる。",
+          "mini_headline": "DVA+は20商品まで",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.iab.com/wp-content/uploads/2026/11/the-ai-era-attribution-blueprint-2-1024x312.png"
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/amazon-dva-plus-campaign-guide-20-product-cap-automated-steering-wheel-dashboard.jpg",
+                "cap": "Amazonは自動DVA+キャンペーンを20商品までに制限し、KPIを変更すると学習をリセットする"
               },
               {
                 "t": "p",
-                "x": "Interactive Advertising Bureau（IAB）は2026年11月12日、コンバージョンにおけるAIの役割を業界共通の方法で分類し、どの当事者がその成果を主張できるかを評価する新たなフレームワーク「AI-Era Attribution Blueprint」を公表した。IABの「2026 Outlook Study: September Update」によると、広告バイヤーはAI-drivenなカスタマージャーニーと従来型の比較を最大の測定課題に挙げ（45%）、44%は追跡できないAIの影響の代替指標としてブランド検索や直接流入に頼っている。"
+                "x": "2026年11月13日に更新されたSupport Centerのガイド「Create a DVA+ campaign」は、Display, Video, and Audioキャンペーンを作成する三つの方法を説明している。自動化されたDVA+フロー、DVA+ advancedと呼ばれる単一フォームのワークスペース、そしてレガシーモードだ。Amazonは2026年9月29日、Amazon DSPの名称に代わるDVA+を導入した。"
               },
               {
                 "t": "p",
-                "x": "「AI-influencedな売上は検索や直接流入として計上されることがあり、次のマーケティング投資が誤ったチャネルに向かいかねない」と、IABのAI担当VP、Caroline Giegerich氏は述べた。"
+                "x": "自動フローはキャンペーンあたり最大20商品を受け付け、アカウントの適格性に応じて七つの目標を用い、最適化を既定でオンにしたまま、ディスプレイ、オンライン動画、ストリーミングTVにわたって広告を配信する。ページには「DVA+は不足している広告フォーマットを生成するAIツールを提供する」とある。ターゲティングは自動で、地域ターゲティングはoff-Amazonの目標でのみ利用できる。"
               },
               {
                 "t": "p",
-                "x": "Blueprintは、誰が、あるいは何が意図を生み、意思決定をし、購入を完了したかを問い、各コンバージョンをHuman-Owned、AI-Assisted、AI-Executedのいずれかに分類する。この経路によって、どの当事者が（該当する場合）決定クレームまたは貢献クレームの対象となるか、また各クレームにどんな証拠が必要かが決まる。クレームは成果の認定そのものではなく、認定に向けた評価を受ける権利である。"
+                "x": "DVA+ advancedについて、ガイドは「開始後にKPIを変更できるが、キャンペーンのパフォーマンス学習がリセットされ、最適化に影響する可能性がある」と警告する。フリークエンシーキャップを設定しない場合は既定値が適用され、推奨広告グループはBrand+とPerformance+の戦術から作られる。"
               },
               {
                 "t": "p",
-                "x": "必要な証拠の多くは取得されていないか、AIプラットフォームの内部にある。IABはブランドに各経路のコンバージョン比率の推計を、AIプラットフォームにレコメンドが有料かオーガニックかの開示とAI-originatedトラフィックへの一貫したラベル付けを、エージェンシーに単一のクレーム・証拠基準の適用を、パブリッシャーに自社コンテンツが生む貢献クレームの特定を求めている。"
+                "x": "ガイドは、Launchをクリックするとキャンペーンが配信開始されるかどうかについて矛盾した説明をしており、商品バリエーションが20商品の上限にどう数えられるかも示していない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "IAB为购买路径中\nAI贡献定出归因规则",
-          "body": "IAB新蓝图为AI助手影响或完成购买时的作用，提供了一套共同的衡量方法。",
-          "mini_headline": "IAB制定AI归因规则",
+          "headline": "Amazon DVA+活动\n上限为20件商品",
+          "body": "Amazon 13日的指南将DVA+自动活动限定为20件商品，KPI一变就重置学习。",
+          "mini_headline": "DVA+限20件商品",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.iab.com/wp-content/uploads/2026/11/the-ai-era-attribution-blueprint-2-1024x312.png"
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/amazon-dva-plus-campaign-guide-20-product-cap-automated-steering-wheel-dashboard.jpg",
+                "cap": "Amazon将自动DVA+活动限定为20件商品，KPI变更时会重置学习"
               },
               {
                 "t": "p",
-                "x": "2026年11月12日，Interactive Advertising Bureau（IAB）发布新框架AI-Era Attribution Blueprint，为行业提供一套统一方法，用以界定AI在转化中的作用，并评估哪些参与方可以为此主张功劳。根据IAB的2026 Outlook Study: September Update，广告买家将比较AI-driven客户旅程与传统客户旅程列为首要衡量难题（45%），另有44%依靠品牌搜索和直接流量，作为无法追踪的AI影响的替代指标。"
+                "x": "2026年11月13日更新的Support Center指南《Create a DVA+ campaign》介绍了创建Display, Video, and Audio活动的三种方式：自动化DVA+流程、名为DVA+ advanced的单表单工作区，以及旧版模式。Amazon于2026年9月29日推出DVA+，取代了Amazon DSP这一名称。"
               },
               {
                 "t": "p",
-                "x": "IAB AI副总裁（VP）Caroline Giegerich表示：“AI-influenced销售有时会被计为搜索或直接流量，这可能让下一笔营销投资流向错误的渠道。”"
+                "x": "自动化流程每个活动最多接受20件商品，会根据账户资格调用七个目标，并在默认开启优化的情况下，在展示广告、在线视频和流媒体TV上投放广告。页面写道：“DVA+提供AI工具来生成缺失的广告格式。”定向是自动的；位置定向仅适用于off-Amazon目标。"
               },
               {
                 "t": "p",
-                "x": "该Blueprint会追问：是谁或什么产生了意图、做出了决定并完成了购买，然后将每次转化归为Human-Owned、AI-Assisted或AI-Executed。这一路径决定哪些参与方（如有）有资格提出决策主张或贡献主张，以及每项主张需要哪些证据。主张并不等于功劳，而是获得功劳评估的资格。"
+                "x": "关于DVA+ advanced，指南警告：“你可以在上线后更改KPI，但这会重置活动的效果学习，并可能影响优化。”如果未设置频次上限，则会应用默认值；推荐的广告组来自Brand+和Performance+策略。"
               },
               {
                 "t": "p",
-                "x": "所需证据大多未被采集，或存在于AI平台内部。IAB呼吁品牌估算各路径的转化占比；AI平台披露推荐是付费还是自然结果，并对AI-originated流量进行一致标注；代理商采用统一的主张与证据标准；发布商识别其内容所产生的贡献主张。"
+                "x": "对于点击Launch后活动是否会上线，该指南给出了相互矛盾的说明，也没有说明商品变体如何计入20件商品的上限。"
               }
             ]
           }
         },
         "es": {
-          "headline": "IAB define cómo atribuir a la IA\nsu papel en la ruta de compra",
-          "body": "El nuevo marco de IAB unifica cómo medir el papel de la IA cuando un asistente influye en una compra o la completa.",
-          "mini_headline": "IAB fija reglas de atribución para la IA",
+          "headline": "Amazon limita DVA+\na 20 productos por campaña",
+          "body": "Amazon limita en su guía del 13 de noviembre las campañas DVA+ a 20 productos; cambiar el KPI reinicia el aprendizaje.",
+          "mini_headline": "DVA+ limitado a 20 productos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.iab.com/wp-content/uploads/2026/11/the-ai-era-attribution-blueprint-2-1024x312.png"
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/amazon-dva-plus-campaign-guide-20-product-cap-automated-steering-wheel-dashboard.jpg",
+                "cap": "Amazon limita las campañas automatizadas de DVA+ a 20 productos y reinicia el aprendizaje cuando cambia un KPI"
               },
               {
                 "t": "p",
-                "x": "El 12 de noviembre de 2026, el Interactive Advertising Bureau (IAB) publicó el AI-Era Attribution Blueprint, un nuevo marco que ofrece al sector una forma común de clasificar el papel de la IA en una conversión y de evaluar qué partes pueden reclamar el mérito. Según el 2026 Outlook Study: September Update de IAB, los compradores de publicidad señalan como su principal reto de medición comparar los recorridos de cliente AI-driven con los tradicionales (45%), y el 44% recurre a la búsqueda de marca y al tráfico directo como indicadores indirectos de una influencia de la IA que no puede rastrear."
+                "x": "Una guía del Support Center titulada “Create a DVA+ campaign”, actualizada el 13 de noviembre de 2026, describe tres formas de crear una campaña de Display, Video, and Audio: un flujo automatizado de DVA+, un espacio de trabajo de un solo formulario llamado DVA+ advanced y un modo heredado. Amazon presentó DVA+, que sustituyó al nombre Amazon DSP, el 29 de septiembre de 2026."
               },
               {
                 "t": "p",
-                "x": "“Las ventas AI-influenced a veces se registran como búsqueda o tráfico directo, lo que puede llevar la siguiente inversión de marketing al canal equivocado”, dijo Caroline Giegerich, VP de AI en IAB."
+                "x": "El flujo automatizado admite hasta 20 productos por campaña, recurre a siete objetivos según la elegibilidad de la cuenta y publica anuncios en display, video en línea y TV en streaming con la optimización activada por defecto. “DVA+ ofrece herramientas de AI para generar los formatos de anuncio que faltan”, señala la página. La segmentación es automática; la segmentación por ubicación solo está disponible con objetivos off-Amazon."
               },
               {
                 "t": "p",
-                "x": "El Blueprint pregunta quién o qué creó la intención, tomó la decisión y completó la compra, y luego clasifica cada conversión como Human-Owned, AI-Assisted o AI-Executed. Esa ruta determina qué partes, si las hay, pueden optar a una reclamación de decisión o a una reclamación contributiva, y qué pruebas exige cada reclamación. Una reclamación no es mérito: es el derecho a ser evaluado para obtenerlo."
+                "x": "En DVA+ advanced, la guía advierte: “Puede cambiar su KPI después del lanzamiento, pero esto reinicia los aprendizajes de rendimiento de la campaña y puede afectar a la optimización”. Si no se establece un límite de frecuencia, se aplica uno predeterminado, y los grupos de anuncios recomendados provienen de las tácticas Brand+ y Performance+."
               },
               {
                 "t": "p",
-                "x": "Gran parte de las pruebas necesarias no se recopila o está dentro de las plataformas de IA. IAB pide a las marcas que estimen la proporción de conversiones en cada ruta; a las plataformas de IA, que revelen si las recomendaciones son pagadas u orgánicas y etiqueten de forma coherente el tráfico AI-originated; a las agencias, que apliquen un único estándar de reclamación y prueba, y a los editores, que identifiquen las reclamaciones contributivas que genera su contenido."
+                "x": "La guía da instrucciones contradictorias sobre si hacer clic en Launch pone en marcha una campaña, y no explica cómo cuentan las variaciones de producto para el límite de 20 productos."
               }
             ]
           }
@@ -555,121 +471,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "IAB, 구매 속 AI\n기여 인정 기준 제시",
-          "body": "IAB 새 청사진은 AI가 구매에 관여할 때 그 역할을 재는 공통 기준을 정한다.",
-          "mini_headline": "IAB, AI 기여 측정 기준",
+          "headline": "Amazon DVA+\n캠페인 상품 20개 제한",
+          "body": "13일 Amazon 지침상 DVA+ 상품 20개, KPI 변경 땐 학습이 리셋된다.",
+          "mini_headline": "DVA+ 상품 20개 제한",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.iab.com/wp-content/uploads/2026/11/the-ai-era-attribution-blueprint-2-1024x312.png"
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/amazon-dva-plus-campaign-guide-20-product-cap-automated-steering-wheel-dashboard.jpg",
+                "cap": "Amazon은 자동 DVA+ 캠페인을 상품 20개로 제한하고, KPI가 바뀌면 학습을 초기화한다"
               },
               {
                 "t": "p",
-                "x": "Interactive Advertising Bureau(IAB)는 2026년 11월 12일, 전환에서 AI가 한 역할을 업계 공통 방식으로 분류하고 어느 쪽이 그 성과를 주장할 수 있는지 평가하는 새 프레임워크 AI-Era Attribution Blueprint를 발표했다. IAB의 2026 Outlook Study: September Update에 따르면 광고 구매자들은 AI-driven 고객 여정과 기존 고객 여정의 비교를 가장 큰 측정 과제로 꼽았고(45%), 44%는 추적할 수 없는 AI 영향을 가늠하는 대리 지표로 브랜드 검색과 직접 유입 트래픽에 기대고 있다."
+                "x": "2026년 11월 13일 업데이트된 Support Center 가이드 “Create a DVA+ campaign”은 Display, Video, and Audio 캠페인을 만드는 세 가지 방법을 설명한다. 자동화된 DVA+ 흐름, DVA+ advanced라는 단일 양식 작업 공간, 그리고 레거시 모드다. Amazon은 2026년 9월 29일 Amazon DSP라는 이름을 대체하는 DVA+를 선보였다."
               },
               {
                 "t": "p",
-                "x": "IAB의 AI 담당 VP Caroline Giegerich는 “AI-influenced 매출이 때로 검색이나 직접 유입으로 집계돼, 다음 마케팅 투자가 엉뚱한 채널로 갈 수 있다”고 말했다."
+                "x": "자동화 흐름은 캠페인당 최대 20개 상품을 받으며, 계정 자격에 따라 일곱 가지 목표를 활용하고, 최적화가 기본으로 켜진 상태에서 디스플레이, 온라인 동영상, 스트리밍 TV 전반에 광고를 집행한다. 페이지에는 “DVA+는 누락된 광고 형식을 생성하는 AI 도구를 제공한다”고 적혀 있다. 타기팅은 자동이며, 위치 타기팅은 off-Amazon 목표에서만 쓸 수 있다."
               },
               {
                 "t": "p",
-                "x": "Blueprint는 누가 또는 무엇이 의도를 만들고, 결정을 내리고, 구매를 마쳤는지 묻고, 각 전환을 Human-Owned, AI-Assisted, AI-Executed 중 하나로 분류한다. 이 경로에 따라 어느 쪽이(해당하는 쪽이 있다면) 결정 기여 주장이나 보조 기여 주장을 할 자격이 있는지, 각 주장에 어떤 증거가 필요한지가 정해진다. 주장은 곧 성과 인정이 아니라, 성과 인정을 위한 평가를 받을 권리다."
+                "x": "DVA+ advanced에 대해 가이드는 “출시 후에도 KPI를 바꿀 수 있지만, 이 경우 캠페인의 성과 학습이 초기화되고 최적화에 영향을 줄 수 있다”고 경고한다. 노출 빈도 상한을 정하지 않으면 기본값이 적용되며, 추천 광고 그룹은 Brand+와 Performance+ 전술에서 나온다."
               },
               {
                 "t": "p",
-                "x": "필요한 증거의 상당 부분은 수집되지 않거나 AI 플랫폼 안에 있다. IAB는 브랜드에는 경로별 전환 비중을 추정하라고, AI 플랫폼에는 추천이 유료인지 자연 노출인지 공개하고 AI-originated 트래픽에 일관되게 라벨을 붙이라고, 에이전시에는 하나의 주장·증거 기준을 적용하라고, 퍼블리셔에는 자사 콘텐츠가 만드는 보조 기여 주장을 식별하라고 요구한다."
+                "x": "가이드는 Launch를 클릭하면 캠페인이 바로 집행되는지를 두고 서로 엇갈리는 안내를 하며, 상품 변형이 20개 상품 한도에 어떻게 계산되는지는 밝히지 않는다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "IAB、購買でのAI\n貢献の測り方を示す",
-          "body": "IABの新指針は、AIが購入を左右・完結させた際の役割を測る共通の方法を定める。",
-          "mini_headline": "IAB、AI貢献の測定ルール",
+          "headline": "Amazon、DVA+の\n対象商品を20点に制限",
+          "body": "Amazonの13日付ガイドでDVA+は20商品まで、KPI変更で学習がリセットされる。",
+          "mini_headline": "DVA+は20商品まで",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.iab.com/wp-content/uploads/2026/11/the-ai-era-attribution-blueprint-2-1024x312.png"
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/amazon-dva-plus-campaign-guide-20-product-cap-automated-steering-wheel-dashboard.jpg",
+                "cap": "Amazonは自動DVA+キャンペーンを20商品までに制限し、KPIを変更すると学習をリセットする"
               },
               {
                 "t": "p",
-                "x": "Interactive Advertising Bureau（IAB）は2026年11月12日、コンバージョンにおけるAIの役割を業界共通の方法で分類し、どの当事者がその成果を主張できるかを評価する新たなフレームワーク「AI-Era Attribution Blueprint」を公表した。IABの「2026 Outlook Study: September Update」によると、広告バイヤーはAI-drivenなカスタマージャーニーと従来型の比較を最大の測定課題に挙げ（45%）、44%は追跡できないAIの影響の代替指標としてブランド検索や直接流入に頼っている。"
+                "x": "2026年11月13日に更新されたSupport Centerのガイド「Create a DVA+ campaign」は、Display, Video, and Audioキャンペーンを作成する三つの方法を説明している。自動化されたDVA+フロー、DVA+ advancedと呼ばれる単一フォームのワークスペース、そしてレガシーモードだ。Amazonは2026年9月29日、Amazon DSPの名称に代わるDVA+を導入した。"
               },
               {
                 "t": "p",
-                "x": "「AI-influencedな売上は検索や直接流入として計上されることがあり、次のマーケティング投資が誤ったチャネルに向かいかねない」と、IABのAI担当VP、Caroline Giegerich氏は述べた。"
+                "x": "自動フローはキャンペーンあたり最大20商品を受け付け、アカウントの適格性に応じて七つの目標を用い、最適化を既定でオンにしたまま、ディスプレイ、オンライン動画、ストリーミングTVにわたって広告を配信する。ページには「DVA+は不足している広告フォーマットを生成するAIツールを提供する」とある。ターゲティングは自動で、地域ターゲティングはoff-Amazonの目標でのみ利用できる。"
               },
               {
                 "t": "p",
-                "x": "Blueprintは、誰が、あるいは何が意図を生み、意思決定をし、購入を完了したかを問い、各コンバージョンをHuman-Owned、AI-Assisted、AI-Executedのいずれかに分類する。この経路によって、どの当事者が（該当する場合）決定クレームまたは貢献クレームの対象となるか、また各クレームにどんな証拠が必要かが決まる。クレームは成果の認定そのものではなく、認定に向けた評価を受ける権利である。"
+                "x": "DVA+ advancedについて、ガイドは「開始後にKPIを変更できるが、キャンペーンのパフォーマンス学習がリセットされ、最適化に影響する可能性がある」と警告する。フリークエンシーキャップを設定しない場合は既定値が適用され、推奨広告グループはBrand+とPerformance+の戦術から作られる。"
               },
               {
                 "t": "p",
-                "x": "必要な証拠の多くは取得されていないか、AIプラットフォームの内部にある。IABはブランドに各経路のコンバージョン比率の推計を、AIプラットフォームにレコメンドが有料かオーガニックかの開示とAI-originatedトラフィックへの一貫したラベル付けを、エージェンシーに単一のクレーム・証拠基準の適用を、パブリッシャーに自社コンテンツが生む貢献クレームの特定を求めている。"
+                "x": "ガイドは、Launchをクリックするとキャンペーンが配信開始されるかどうかについて矛盾した説明をしており、商品バリエーションが20商品の上限にどう数えられるかも示していない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "IAB为购买路径中\nAI贡献定出归因规则",
-          "body": "IAB新蓝图为AI助手影响或完成购买时的作用，提供了一套共同的衡量方法。",
-          "mini_headline": "IAB制定AI归因规则",
+          "headline": "Amazon DVA+活动\n上限为20件商品",
+          "body": "Amazon 13日的指南将DVA+自动活动限定为20件商品，KPI一变就重置学习。",
+          "mini_headline": "DVA+限20件商品",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.iab.com/wp-content/uploads/2026/11/the-ai-era-attribution-blueprint-2-1024x312.png"
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/amazon-dva-plus-campaign-guide-20-product-cap-automated-steering-wheel-dashboard.jpg",
+                "cap": "Amazon将自动DVA+活动限定为20件商品，KPI变更时会重置学习"
               },
               {
                 "t": "p",
-                "x": "2026年11月12日，Interactive Advertising Bureau（IAB）发布新框架AI-Era Attribution Blueprint，为行业提供一套统一方法，用以界定AI在转化中的作用，并评估哪些参与方可以为此主张功劳。根据IAB的2026 Outlook Study: September Update，广告买家将比较AI-driven客户旅程与传统客户旅程列为首要衡量难题（45%），另有44%依靠品牌搜索和直接流量，作为无法追踪的AI影响的替代指标。"
+                "x": "2026年11月13日更新的Support Center指南《Create a DVA+ campaign》介绍了创建Display, Video, and Audio活动的三种方式：自动化DVA+流程、名为DVA+ advanced的单表单工作区，以及旧版模式。Amazon于2026年9月29日推出DVA+，取代了Amazon DSP这一名称。"
               },
               {
                 "t": "p",
-                "x": "IAB AI副总裁（VP）Caroline Giegerich表示：“AI-influenced销售有时会被计为搜索或直接流量，这可能让下一笔营销投资流向错误的渠道。”"
+                "x": "自动化流程每个活动最多接受20件商品，会根据账户资格调用七个目标，并在默认开启优化的情况下，在展示广告、在线视频和流媒体TV上投放广告。页面写道：“DVA+提供AI工具来生成缺失的广告格式。”定向是自动的；位置定向仅适用于off-Amazon目标。"
               },
               {
                 "t": "p",
-                "x": "该Blueprint会追问：是谁或什么产生了意图、做出了决定并完成了购买，然后将每次转化归为Human-Owned、AI-Assisted或AI-Executed。这一路径决定哪些参与方（如有）有资格提出决策主张或贡献主张，以及每项主张需要哪些证据。主张并不等于功劳，而是获得功劳评估的资格。"
+                "x": "关于DVA+ advanced，指南警告：“你可以在上线后更改KPI，但这会重置活动的效果学习，并可能影响优化。”如果未设置频次上限，则会应用默认值；推荐的广告组来自Brand+和Performance+策略。"
               },
               {
                 "t": "p",
-                "x": "所需证据大多未被采集，或存在于AI平台内部。IAB呼吁品牌估算各路径的转化占比；AI平台披露推荐是付费还是自然结果，并对AI-originated流量进行一致标注；代理商采用统一的主张与证据标准；发布商识别其内容所产生的贡献主张。"
+                "x": "对于点击Launch后活动是否会上线，该指南给出了相互矛盾的说明，也没有说明商品变体如何计入20件商品的上限。"
               }
             ]
           }
         },
         "es": {
-          "headline": "IAB define cómo atribuir a la IA\nsu papel en la ruta de compra",
-          "body": "El nuevo marco de IAB unifica cómo medir el papel de la IA cuando un asistente influye en una compra o la completa.",
-          "mini_headline": "IAB fija reglas de atribución para la IA",
+          "headline": "Amazon limita DVA+\na 20 productos por campaña",
+          "body": "Amazon limita en su guía del 13 de noviembre las campañas DVA+ a 20 productos; cambiar el KPI reinicia el aprendizaje.",
+          "mini_headline": "DVA+ limitado a 20 productos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.iab.com/wp-content/uploads/2026/11/the-ai-era-attribution-blueprint-2-1024x312.png"
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/amazon-dva-plus-campaign-guide-20-product-cap-automated-steering-wheel-dashboard.jpg",
+                "cap": "Amazon limita las campañas automatizadas de DVA+ a 20 productos y reinicia el aprendizaje cuando cambia un KPI"
               },
               {
                 "t": "p",
-                "x": "El 12 de noviembre de 2026, el Interactive Advertising Bureau (IAB) publicó el AI-Era Attribution Blueprint, un nuevo marco que ofrece al sector una forma común de clasificar el papel de la IA en una conversión y de evaluar qué partes pueden reclamar el mérito. Según el 2026 Outlook Study: September Update de IAB, los compradores de publicidad señalan como su principal reto de medición comparar los recorridos de cliente AI-driven con los tradicionales (45%), y el 44% recurre a la búsqueda de marca y al tráfico directo como indicadores indirectos de una influencia de la IA que no puede rastrear."
+                "x": "Una guía del Support Center titulada “Create a DVA+ campaign”, actualizada el 13 de noviembre de 2026, describe tres formas de crear una campaña de Display, Video, and Audio: un flujo automatizado de DVA+, un espacio de trabajo de un solo formulario llamado DVA+ advanced y un modo heredado. Amazon presentó DVA+, que sustituyó al nombre Amazon DSP, el 29 de septiembre de 2026."
               },
               {
                 "t": "p",
-                "x": "“Las ventas AI-influenced a veces se registran como búsqueda o tráfico directo, lo que puede llevar la siguiente inversión de marketing al canal equivocado”, dijo Caroline Giegerich, VP de AI en IAB."
+                "x": "El flujo automatizado admite hasta 20 productos por campaña, recurre a siete objetivos según la elegibilidad de la cuenta y publica anuncios en display, video en línea y TV en streaming con la optimización activada por defecto. “DVA+ ofrece herramientas de AI para generar los formatos de anuncio que faltan”, señala la página. La segmentación es automática; la segmentación por ubicación solo está disponible con objetivos off-Amazon."
               },
               {
                 "t": "p",
-                "x": "El Blueprint pregunta quién o qué creó la intención, tomó la decisión y completó la compra, y luego clasifica cada conversión como Human-Owned, AI-Assisted o AI-Executed. Esa ruta determina qué partes, si las hay, pueden optar a una reclamación de decisión o a una reclamación contributiva, y qué pruebas exige cada reclamación. Una reclamación no es mérito: es el derecho a ser evaluado para obtenerlo."
+                "x": "En DVA+ advanced, la guía advierte: “Puede cambiar su KPI después del lanzamiento, pero esto reinicia los aprendizajes de rendimiento de la campaña y puede afectar a la optimización”. Si no se establece un límite de frecuencia, se aplica uno predeterminado, y los grupos de anuncios recomendados provienen de las tácticas Brand+ y Performance+."
               },
               {
                 "t": "p",
-                "x": "Gran parte de las pruebas necesarias no se recopila o está dentro de las plataformas de IA. IAB pide a las marcas que estimen la proporción de conversiones en cada ruta; a las plataformas de IA, que revelen si las recomendaciones son pagadas u orgánicas y etiqueten de forma coherente el tráfico AI-originated; a las agencias, que apliquen un único estándar de reclamación y prueba, y a los editores, que identifiquen las reclamaciones contributivas que genera su contenido."
+                "x": "La guía da instrucciones contradictorias sobre si hacer clic en Launch pone en marcha una campaña, y no explica cómo cuentan las variaciones de producto para el límite de 20 productos."
               }
             ]
           }
@@ -677,15 +597,337 @@
       }
     },
     {
-      "id": "schibsted-nodals-ad-algorithms",
+      "id": "marketing-ai-audience-insights-risk",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Schibsted, 맞춤형\nAI로 Meta 예산 탈환",
-      "body": "Schibsted가 Nodals AI 맞춤 알고리즘으로 Meta 광고주를 되찾는다.",
-      "mini_headline": "Schibsted, AI로 Meta에 맞서다",
+      "headline": "AI 오디언스 인사이트\n성과 발목 잡는다",
+      "body": "리더 80% 이상이 부정확한 AI 결과물로 사업상 손해를 봤다는 보고서가 나왔다.",
+      "mini_headline": "AI 인사이트, 성과 저해",
       "tool": "Marketing",
-      "source": "AdExchanger",
-      "url": "https://www.adexchanger.com/publishers/custom-ad-algorithms-are-helping-schibsted-media-win-budgets-back-from-meta/",
+      "source": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/ai-derived-audience-insights-hurt-results-what-the-numbers-say/874565/",
+      "accent": "#f5a623",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://imgproxy.divecdn.com/LTJRYpnpPQcEoQaFeo8Ixe1iH_zUGaGGD_6wnRWkUE4/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTkzNzY0OTQzLmpwZw==.webp",
+            "cap": "AI는 비용을 줄여 줄 도구로 주목받았지만 응답자의 27%는 잘못된 AI 결과물로 돈을 잃었다."
+          },
+          {
+            "t": "p",
+            "x": "GWI 조사에 따르면 업계 고위 전문가 90% 가까이가 매일 AI를 쓴다. 동시에 80%는 부정확하거나 오해를 부르는 AI 분석 결과를 자주 접한다고 답했다. 보고서 “Artificial Confidence: The AI Trust Gap”은 U.K., U.S., 싱가포르의 고위 인사이트·에이전시·마케팅 전문가 1,883명의 응답을 담았다."
+          },
+          {
+            "t": "p",
+            "x": "AI 인사이트를 “대부분의 경우” 검증한다는 응답은 36%뿐이었다. 63%는 시효가 지난 인사이트를 모르고 썼다가 나중에 알아챈 적이 있었다. 76%는 AI가 낡은 가정을 굳힐 수 있다고 봤고 70% 가까이는 AI가 목표 고객을 제대로 반영하지 못하는 경우를 겪었다. 그런데도 81%는 고객 프로필 작성과 세분화에 AI를 쓰는 데 자신이 있다고 했다."
+          },
+          {
+            "t": "p",
+            "x": "고위 의사결정자 절반 이상은 나중에 틀렸거나 오해의 소지가 있던 것으로 드러난 AI 인사이트로 중요한 사업 결정을 내린 경험이 있다. 마케팅 리더 82%가 적어도 한 가지 부정적 결과를 겪었다. 가장 흔한 것은 내부 재작업(38%), 의사결정 지연(36%), 고객 불만(34%)이었고 21%는 캠페인 성과가 떨어졌다."
+          },
+          {
+            "t": "p",
+            "x": "GWI 최고인사이트책임자 Jason Mander는 “기업들은 새로운 유형의 기술이라면 마땅히 기대할 만한 엄격한 체계를 아직 갖추지 않았다”고 말했다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "AI audience insights\nare hurting results",
+          "body": "A recent report finds over 80% of leaders have suffered a negative business outcome from inaccurate AI outputs.",
+          "mini_headline": "AI insights\nhurt results",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/LTJRYpnpPQcEoQaFeo8Ixe1iH_zUGaGGD_6wnRWkUE4/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTkzNzY0OTQzLmpwZw==.webp",
+                "cap": "While AI has been heralded as a cost-saving tool, 27% of those surveyed experienced financial loss because of incorrect AI outputs."
+              },
+              {
+                "t": "p",
+                "x": "Nearly 90% of senior industry professionals use AI daily, according to a GWI survey, but 80% say they frequently encounter inaccurate or misleading AI findings. “Artificial Confidence: The AI Trust Gap” includes responses from 1,883 senior insights, agency and marketing professionals in the U.K., U.S. and Singapore."
+              },
+              {
+                "t": "p",
+                "x": "Only 36% verify AI insights “most of the time,” and 63% have accidentally used insights they later realized were out of date. 76% think AI can reinforce outdated assumptions, and nearly 70% have seen it fail to accurately reflect their target audience — yet 81% feel confident using AI for audience profiles and segmentation."
+              },
+              {
+                "t": "p",
+                "x": "Over half of senior decision-makers have made a significant business decision based on AI insights that turned out to be incorrect or misleading. 82% of marketing leaders have felt at least one adverse outcome, most commonly internal rework (38%), delayed decision making (36%) and customer complaints (34%); 21% saw weaker campaign performance."
+              },
+              {
+                "t": "p",
+                "x": "“Companies haven't put the type of rigorous frameworks in place that you would expect with a new type of technology,” said Jason Mander, chief insight officer at GWI."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "AI 오디언스 인사이트\n성과 발목 잡는다",
+          "body": "리더 80% 이상이 부정확한 AI 결과물로 사업상 손해를 봤다는 보고서가 나왔다.",
+          "mini_headline": "AI 인사이트, 성과 저해",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/LTJRYpnpPQcEoQaFeo8Ixe1iH_zUGaGGD_6wnRWkUE4/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTkzNzY0OTQzLmpwZw==.webp",
+                "cap": "AI는 비용을 줄여 줄 도구로 주목받았지만 응답자의 27%는 잘못된 AI 결과물로 돈을 잃었다."
+              },
+              {
+                "t": "p",
+                "x": "GWI 조사에 따르면 업계 고위 전문가 90% 가까이가 매일 AI를 쓴다. 동시에 80%는 부정확하거나 오해를 부르는 AI 분석 결과를 자주 접한다고 답했다. 보고서 “Artificial Confidence: The AI Trust Gap”은 U.K., U.S., 싱가포르의 고위 인사이트·에이전시·마케팅 전문가 1,883명의 응답을 담았다."
+              },
+              {
+                "t": "p",
+                "x": "AI 인사이트를 “대부분의 경우” 검증한다는 응답은 36%뿐이었다. 63%는 시효가 지난 인사이트를 모르고 썼다가 나중에 알아챈 적이 있었다. 76%는 AI가 낡은 가정을 굳힐 수 있다고 봤고 70% 가까이는 AI가 목표 고객을 제대로 반영하지 못하는 경우를 겪었다. 그런데도 81%는 고객 프로필 작성과 세분화에 AI를 쓰는 데 자신이 있다고 했다."
+              },
+              {
+                "t": "p",
+                "x": "고위 의사결정자 절반 이상은 나중에 틀렸거나 오해의 소지가 있던 것으로 드러난 AI 인사이트로 중요한 사업 결정을 내린 경험이 있다. 마케팅 리더 82%가 적어도 한 가지 부정적 결과를 겪었다. 가장 흔한 것은 내부 재작업(38%), 의사결정 지연(36%), 고객 불만(34%)이었고 21%는 캠페인 성과가 떨어졌다."
+              },
+              {
+                "t": "p",
+                "x": "GWI 최고인사이트책임자 Jason Mander는 “기업들은 새로운 유형의 기술이라면 마땅히 기대할 만한 엄격한 체계를 아직 갖추지 않았다”고 말했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AIのオーディエンス分析が\n成果を損ねている",
+          "body": "最近の報告書によると、リーダーの80%超が不正確なAI出力で事業上の悪影響を受けた。",
+          "mini_headline": "AI分析が成果を損なう",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/LTJRYpnpPQcEoQaFeo8Ixe1iH_zUGaGGD_6wnRWkUE4/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTkzNzY0OTQzLmpwZw==.webp",
+                "cap": "AIはコスト削減ツールとして期待されてきたが、調査対象者の27%は誤ったAI出力によって金銭的損失を被った。"
+              },
+              {
+                "t": "p",
+                "x": "GWIの調査によると、業界のシニア専門家の90%近くが毎日AIを使っているが、80%は不正確または誤解を招くAIの分析結果に頻繁に遭遇すると答えた。「Artificial Confidence: The AI Trust Gap」には、U.K.、U.S.、シンガポールのシニアのインサイト、エージェンシー、マーケティング専門家1,883人の回答が含まれる。"
+              },
+              {
+                "t": "p",
+                "x": "AIのインサイトを「ほとんどの場合」検証しているのは36%にとどまり、63%は後に古いと気づいたインサイトを誤って使ったことがある。76%はAIが時代遅れの思い込みを強めうると考え、70%近くはAIがターゲット層を正確に反映できない場面を見てきた。それでも81%は、オーディエンスのプロファイル作成やセグメンテーションにAIを使うことに自信を持っている。"
+              },
+              {
+                "t": "p",
+                "x": "シニアの意思決定者の半数以上が、後に誤りや誤解を招くものだと判明したAIのインサイトに基づいて重要な経営判断を下したことがある。マーケティングリーダーの82%が少なくとも一つの悪影響を経験しており、最も多いのは社内での手戻り(38%)、意思決定の遅れ(36%)、顧客からの苦情(34%)だった。21%はキャンペーンの成果が落ちた。"
+              },
+              {
+                "t": "p",
+                "x": "GWIのチーフインサイトオフィサー、Jason Manderは「企業は、新しい種類の技術であれば当然あるべき厳格な枠組みを整えていない」と語った。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "AI受众洞察\n正在损害营销成效",
+          "body": "近期报告显示，超过80%的领导者曾因AI输出不准确而遭受负面业务后果。",
+          "mini_headline": "AI洞察拖累成效",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/LTJRYpnpPQcEoQaFeo8Ixe1iH_zUGaGGD_6wnRWkUE4/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTkzNzY0OTQzLmpwZw==.webp",
+                "cap": "尽管AI一直被誉为节省成本的工具，但27%的受访者曾因AI输出错误而蒙受经济损失。"
+              },
+              {
+                "t": "p",
+                "x": "GWI的一项调查显示，近90%的行业资深人士每天使用AI，但80%表示经常遇到不准确或具有误导性的AI分析结果。报告《Artificial Confidence: The AI Trust Gap》收集了来自U.K.、U.S.和新加坡的1,883名资深洞察、代理商及营销专业人士的回复。"
+              },
+              {
+                "t": "p",
+                "x": "只有36%的人“大多数时候”会核实AI洞察，63%的人曾不小心使用后来才发现已过时的洞察。76%认为AI可能强化过时的假设，近70%曾见过AI未能准确反映目标受众——然而81%对使用AI进行受众画像和细分感到有信心。"
+              },
+              {
+                "t": "p",
+                "x": "超过一半的高级决策者曾依据后来被证明错误或具误导性的AI洞察做出重大业务决策。82%的营销领导者至少经历过一种不利后果，最常见的是内部返工（38%）、决策延迟（36%）和客户投诉（34%）；21%遭遇了营销活动效果下滑。"
+              },
+              {
+                "t": "p",
+                "x": "GWI首席洞察官Jason Mander表示：“企业还没有建立起面对一种新型技术时本应具备的那种严格框架。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Los análisis de audiencia\ncon AI perjudican resultados",
+          "body": "Un informe reciente halla que más del 80% de los líderes sufrió daños en su negocio por salidas inexactas de AI.",
+          "mini_headline": "Los insights de AI dañan resultados",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/LTJRYpnpPQcEoQaFeo8Ixe1iH_zUGaGGD_6wnRWkUE4/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTkzNzY0OTQzLmpwZw==.webp",
+                "cap": "Aunque la AI se ha presentado como una herramienta para ahorrar costos, el 27% de los encuestados sufrió pérdidas económicas por resultados incorrectos de la AI."
+              },
+              {
+                "t": "p",
+                "x": "Casi el 90% de los profesionales sénior del sector usa AI a diario, según una encuesta de GWI, pero el 80% afirma que encuentra con frecuencia hallazgos de AI inexactos o engañosos. “Artificial Confidence: The AI Trust Gap” incluye respuestas de 1,883 profesionales sénior de insights, agencias y marketing en U.K., U.S. y Singapur."
+              },
+              {
+                "t": "p",
+                "x": "Solo el 36% verifica los insights de AI “la mayoría de las veces”, y el 63% ha usado por error insights que después descubrió que estaban desactualizados. El 76% cree que la AI puede reforzar supuestos obsoletos, y casi el 70% ha visto que no refleja con precisión a su público objetivo; aun así, el 81% se siente seguro al usar AI para perfiles de audiencia y segmentación."
+              },
+              {
+                "t": "p",
+                "x": "Más de la mitad de los responsables de decisiones sénior ha tomado una decisión de negocio importante basada en insights de AI que resultaron incorrectos o engañosos. El 82% de los líderes de marketing ha sufrido al menos una consecuencia adversa, sobre todo retrabajo interno (38%), retrasos en la toma de decisiones (36%) y quejas de clientes (34%); el 21% vio un peor rendimiento de sus campañas."
+              },
+              {
+                "t": "p",
+                "x": "“Las empresas no han implementado el tipo de marcos rigurosos que cabría esperar ante un nuevo tipo de tecnología”, dijo Jason Mander, director de insights de GWI."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "AI 오디언스 인사이트\n성과를 해치고 있다",
+          "body": "보고서에 따르면 리더의 80% 이상이 부정확한 AI 결과물로 사업상 손해를 겪었다.",
+          "mini_headline": "AI 인사이트, 성과 저해",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/LTJRYpnpPQcEoQaFeo8Ixe1iH_zUGaGGD_6wnRWkUE4/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTkzNzY0OTQzLmpwZw==.webp",
+                "cap": "AI는 비용 절감 도구로 주목받아 왔지만, 응답자의 27%는 잘못된 AI 결과물 때문에 금전적 손실을 입었다."
+              },
+              {
+                "t": "p",
+                "x": "GWI 조사에 따르면 업계 고위 전문가의 90% 가까이가 매일 AI를 쓰지만, 80%는 부정확하거나 오해를 부르는 AI 분석 결과를 자주 접한다고 답했다. 보고서 “Artificial Confidence: The AI Trust Gap”에는 U.K., U.S., 싱가포르의 고위 인사이트·에이전시·마케팅 전문가 1,883명의 응답이 담겼다."
+              },
+              {
+                "t": "p",
+                "x": "AI 인사이트를 “대부분의 경우” 검증하는 비율은 36%에 그쳤고, 63%는 나중에 보니 시효가 지난 인사이트를 실수로 쓴 적이 있었다. 76%는 AI가 낡은 가정을 강화할 수 있다고 보며, 70% 가까이는 AI가 목표 고객을 정확히 반영하지 못하는 경우를 봤다. 그런데도 81%는 고객 프로필 작성과 세분화에 AI를 쓰는 데 자신감을 느낀다."
+              },
+              {
+                "t": "p",
+                "x": "고위 의사결정자의 절반 이상은 나중에 틀렸거나 오해의 소지가 있던 것으로 드러난 AI 인사이트를 근거로 중요한 사업 결정을 내린 적이 있다. 마케팅 리더의 82%는 적어도 한 가지 부정적 결과를 겪었는데, 가장 흔한 것은 내부 재작업(38%), 의사결정 지연(36%), 고객 불만(34%)이었다. 21%는 캠페인 성과가 약해졌다."
+              },
+              {
+                "t": "p",
+                "x": "GWI의 최고인사이트책임자 Jason Mander는 “기업들은 새로운 유형의 기술이라면 마땅히 기대할 만한 엄격한 체계를 아직 갖추지 않았다”고 말했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AIのオーディエンス分析が\n成果を損ねている",
+          "body": "最近の報告書によると、リーダーの80%超が不正確なAI出力で事業上の悪影響を受けた。",
+          "mini_headline": "AI分析が成果を損なう",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/LTJRYpnpPQcEoQaFeo8Ixe1iH_zUGaGGD_6wnRWkUE4/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTkzNzY0OTQzLmpwZw==.webp",
+                "cap": "AIはコスト削減ツールとして期待されてきたが、調査対象者の27%は誤ったAI出力によって金銭的損失を被った。"
+              },
+              {
+                "t": "p",
+                "x": "GWIの調査によると、業界のシニア専門家の90%近くが毎日AIを使っているが、80%は不正確または誤解を招くAIの分析結果に頻繁に遭遇すると答えた。「Artificial Confidence: The AI Trust Gap」には、U.K.、U.S.、シンガポールのシニアのインサイト、エージェンシー、マーケティング専門家1,883人の回答が含まれる。"
+              },
+              {
+                "t": "p",
+                "x": "AIのインサイトを「ほとんどの場合」検証しているのは36%にとどまり、63%は後に古いと気づいたインサイトを誤って使ったことがある。76%はAIが時代遅れの思い込みを強めうると考え、70%近くはAIがターゲット層を正確に反映できない場面を見てきた。それでも81%は、オーディエンスのプロファイル作成やセグメンテーションにAIを使うことに自信を持っている。"
+              },
+              {
+                "t": "p",
+                "x": "シニアの意思決定者の半数以上が、後に誤りや誤解を招くものだと判明したAIのインサイトに基づいて重要な経営判断を下したことがある。マーケティングリーダーの82%が少なくとも一つの悪影響を経験しており、最も多いのは社内での手戻り(38%)、意思決定の遅れ(36%)、顧客からの苦情(34%)だった。21%はキャンペーンの成果が落ちた。"
+              },
+              {
+                "t": "p",
+                "x": "GWIのチーフインサイトオフィサー、Jason Manderは「企業は、新しい種類の技術であれば当然あるべき厳格な枠組みを整えていない」と語った。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "AI受众洞察\n正在损害营销成效",
+          "body": "近期报告显示，超过80%的领导者曾因AI输出不准确而遭受负面业务后果。",
+          "mini_headline": "AI洞察拖累成效",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/LTJRYpnpPQcEoQaFeo8Ixe1iH_zUGaGGD_6wnRWkUE4/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTkzNzY0OTQzLmpwZw==.webp",
+                "cap": "尽管AI一直被誉为节省成本的工具，但27%的受访者曾因AI输出错误而蒙受经济损失。"
+              },
+              {
+                "t": "p",
+                "x": "GWI的一项调查显示，近90%的行业资深人士每天使用AI，但80%表示经常遇到不准确或具有误导性的AI分析结果。报告《Artificial Confidence: The AI Trust Gap》收集了来自U.K.、U.S.和新加坡的1,883名资深洞察、代理商及营销专业人士的回复。"
+              },
+              {
+                "t": "p",
+                "x": "只有36%的人“大多数时候”会核实AI洞察，63%的人曾不小心使用后来才发现已过时的洞察。76%认为AI可能强化过时的假设，近70%曾见过AI未能准确反映目标受众——然而81%对使用AI进行受众画像和细分感到有信心。"
+              },
+              {
+                "t": "p",
+                "x": "超过一半的高级决策者曾依据后来被证明错误或具误导性的AI洞察做出重大业务决策。82%的营销领导者至少经历过一种不利后果，最常见的是内部返工（38%）、决策延迟（36%）和客户投诉（34%）；21%遭遇了营销活动效果下滑。"
+              },
+              {
+                "t": "p",
+                "x": "GWI首席洞察官Jason Mander表示：“企业还没有建立起面对一种新型技术时本应具备的那种严格框架。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Los análisis de audiencia\ncon AI perjudican resultados",
+          "body": "Un informe reciente halla que más del 80% de los líderes sufrió daños en su negocio por salidas inexactas de AI.",
+          "mini_headline": "Los insights de AI dañan resultados",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/LTJRYpnpPQcEoQaFeo8Ixe1iH_zUGaGGD_6wnRWkUE4/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTkzNzY0OTQzLmpwZw==.webp",
+                "cap": "Aunque la AI se ha presentado como una herramienta para ahorrar costos, el 27% de los encuestados sufrió pérdidas económicas por resultados incorrectos de la AI."
+              },
+              {
+                "t": "p",
+                "x": "Casi el 90% de los profesionales sénior del sector usa AI a diario, según una encuesta de GWI, pero el 80% afirma que encuentra con frecuencia hallazgos de AI inexactos o engañosos. “Artificial Confidence: The AI Trust Gap” incluye respuestas de 1,883 profesionales sénior de insights, agencias y marketing en U.K., U.S. y Singapur."
+              },
+              {
+                "t": "p",
+                "x": "Solo el 36% verifica los insights de AI “la mayoría de las veces”, y el 63% ha usado por error insights que después descubrió que estaban desactualizados. El 76% cree que la AI puede reforzar supuestos obsoletos, y casi el 70% ha visto que no refleja con precisión a su público objetivo; aun así, el 81% se siente seguro al usar AI para perfiles de audiencia y segmentación."
+              },
+              {
+                "t": "p",
+                "x": "Más de la mitad de los responsables de decisiones sénior ha tomado una decisión de negocio importante basada en insights de AI que resultaron incorrectos o engañosos. El 82% de los líderes de marketing ha sufrido al menos una consecuencia adversa, sobre todo retrabajo interno (38%), retrasos en la toma de decisiones (36%) y quejas de clientes (34%); el 21% vio un peor rendimiento de sus campañas."
+              },
+              {
+                "t": "p",
+                "x": "“Las empresas no han implementado el tipo de marcos rigurosos que cabría esperar ante un nuevo tipo de tecnología”, dijo Jason Mander, director de insights de GWI."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "salesforce-ai-first-holiday-survey",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "연말 쇼핑객, 에이전트에\n조사는 맡기고 결제는 직접",
+      "body": "쇼핑객 20% 가까이가 AI부터 찾지만 Buy Now 클릭은 대부분 직접 한다.",
+      "mini_headline": "조사는 에이전트, 결제는 직접",
+      "tool": "Marketing",
+      "source": "Salesforce",
+      "url": "https://www.salesforce.com/news/stories/ai-first-holiday/",
       "accent": "#7928ca",
       "motif": "frame",
       "full": {
@@ -693,173 +935,263 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.adexchanger.com/wp-content/uploads/2024/10/revenue-sharing-publishers-sundar-pichai-mark-zuckerberg-comic-1024x941.png"
+            "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/824_1126_T08_The-AI-First-Holiday-Shoppers-Let-Agents-Do-the-Legwork-Not-the-Paying_a_v1_110926.jpg"
           },
           {
             "t": "p",
-            "x": "Schibsted가 London-based 기업 Nodals AI와 손잡고 Meta 자체 최적화 도구에 끌려간 브랜드를 다시 불러오려 한다. 이 회사는 유럽(Europe)과 미국(US) 퍼블리셔에게 맞춤 광고 최적화 알고리즘을 만들어 준다. Schibsted Marketing Services의 광고 데이터 역량 디렉터 Christer Ljones가 AdExchanger에 밝혔다."
+            "x": "Salesforce 조사 결과 연말 쇼핑객은 조사와 조언을 AI 에이전트에 맡긴다. 20% 가까이는 매장에 가기 전 가장 먼저 AI를 찾는다고 답했지만 대부분은 AI에게 Buy Now 클릭까지 맡길 생각이 없다."
           },
           {
             "t": "p",
-            "x": "월드 가든 플랫폼은 Meta의 Advantage+ 같은 AI-powered 캠페인 최적화 기능으로 광고주를 사로잡았다. 오픈 웹 퍼블리셔로서는 따라잡기 버거웠다. Nodals 창업자 겸 CEO Aly Nurmohamed는 “광고주들은 Meta에 길들여져 ‘돈을 넣으면 얼마가 나오는지’에만 신경 쓰게 됐다”고 말했다."
+            "x": "Salesforce 리서치는 AI가 Cyber Week 지출 $75.8B 규모를 이끌 것으로 내다봤다. 2025년보다 13% 많은 규모다. AI 도구를 거쳐 이커머스 사이트로 들어온 유입은 전년보다 104% 늘었다. U.S., U.K., 캐나다, 호주 쇼핑객 2,500명 이상을 조사한 결과 74%가 AI 추천을 신뢰했다. AI 쇼핑객의 30%는 이런 도구 덕분에 몰랐던 브랜드를 자주 알게 된다고 했고, 11%는 AI 어시스턴트가 말리면 구매를 건너뛰겠다고 답했다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/image_b49a8d.jpeg?w=1024",
+            "cap": "개인 에이전트에 맡기는 주요 쇼핑 업무"
           },
           {
             "t": "p",
-            "x": "Nodals는 로그인 데이터와 스크롤 깊이, 독자가 콘텐츠나 광고를 클릭하는 빈도 같은 퍼블리셔의 퍼스트파티 데이터를 모델에 넣는다. 그러고는 특정 광고주 기준으로 클릭하고 구매할 가능성이 높은 사람을 예측한다. Schibsted는 지난여름 이 기술을 처음 시험했고 지금은 AI 최적화를 내장한 직판 네이티브 광고 포맷 라인을 새로 만드는 중이다. 가격은 CPM이 아닌 클릭당 비용 기준으로 매긴다."
+            "x": "쇼핑객은 개인 에이전트를 구매자가 아닌 조언자로 대한다. 결제까지 맡기기엔 아직 이르다는 반응이다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/image1.jpg?w=1024",
+            "cap": "개인 에이전트로 구매할 때의 주요 걸림돌"
           },
           {
             "t": "p",
-            "x": "Ljones는 “Meta에 쓰는 비용의 10%를 가져와 보라. 전환 대부분은 그대로 지키면서 [우리에게서] 더 많이 얻을 수 있을 것”이라며 “아직 초기 단계지만 제대로 된 결과가 나오고 있다”고 말했다."
+            "x": "자체 쇼핑 에이전트를 둔 소매업체는 주문 규모가 더 크다. 다만 쇼핑객은 AI 어시스턴트가 2-3번 실수하면 더는 쓰지 않는다. Salesforce에서 Agentic Commerce Shopper Insights를 이끄는 Caila Schwartz는 “AI가 찾을 수 있고 사람이 신뢰할 수 있는 브랜드가 되라”고 말했다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/image_0d40fe.jpeg?w=1024",
+            "cap": "AI 어시스턴트가 2-3번 실수하면 쇼핑객은 더는 쓰지 않는다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Schibsted wins budgets back\nfrom Meta with custom AI",
-          "body": "Schibsted is building custom ad optimization algorithms with Nodals AI to win back brands drawn to Meta's own tools.",
-          "mini_headline": "Schibsted's AI takes on Meta",
+          "headline": "Holiday shoppers let agents\nresearch, not pay",
+          "body": "Almost 20% of holiday shoppers now say AI is their first stop, but most are not ready to let an agent click Buy Now.",
+          "mini_headline": "Agents research,\nshoppers pay",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2024/10/revenue-sharing-publishers-sundar-pichai-mark-zuckerberg-comic-1024x941.png"
+                "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/824_1126_T08_The-AI-First-Holiday-Shoppers-Let-Agents-Do-the-Legwork-Not-the-Paying_a_v1_110926.jpg"
               },
               {
                 "t": "p",
-                "x": "Schibsted is working with Nodals AI, a London-based company that creates custom ad optimization algorithms for publishers in Europe and the US, to help court brands who’ve been wooed by Meta’s own optimization tools, Christer Ljones, director of ad data capabilities at Schibsted Marketing Services, told AdExchanger."
+                "x": "A Salesforce survey shows that holiday shoppers are using AI agents for research and advice — almost 20% of shoppers now say that AI is their first stop on the way to the store — but most aren’t ready to let AI click Buy Now."
               },
               {
                 "t": "p",
-                "x": "The walled gardens have won advertisers over with AI-powered campaign optimization features like Meta’s Advantage+, and it’s been hard for open-web publishers to keep up. “Advertisers have been trained by Meta to just care about ‘I put money in and I see how much money comes out,’” said Nodals Founder and CEO Aly Nurmohamed."
+                "x": "Salesforce research projects AI will drive $75.8 billion in Cyber Week spending, up 13% from 2025, and traffic to ecommerce sites from AI tools is up 104% year over year. In the survey of more than 2,500 shoppers in the U.S., the U.K., Canada, and Australia, 74% trust AI’s recommendations, 30% of AI shoppers say these tools frequently introduce them to brands they didn’t know, and 11% would skip a purchase if an AI assistant advised against it."
+              },
+              {
+                "t": "img",
+                "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/image_b49a8d.jpeg?w=1024",
+                "cap": "Top shopping tasks for personal agents"
               },
               {
                 "t": "p",
-                "x": "Nodals feeds the publisher’s first-party data — logged-in data, scroll depth, how often readers click on content or ads — into its models to predict who is likely to click and buy for a particular advertiser. Schibsted first tested the tech last summer and is building a new line of direct-sold native ad formats with AI optimization built in, priced on a cost-per-click basis rather than CPM."
+                "x": "Shoppers treat personal agents like advisors rather than buyers, and are not quite ready to let agents check out for them."
+              },
+              {
+                "t": "img",
+                "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/image1.jpg?w=1024",
+                "cap": "Top barriers to using a personal agent to make purchases"
               },
               {
                 "t": "p",
-                "x": "“Let’s take 10% of whatever you spend on Meta, and you can probably keep most of your conversions and get more [from us],” Ljones said. “We’re in an early phase, but we’re seeing the right results.”"
+                "x": "Retailers with their own shopper agents see bigger orders, but shoppers will abandon AI assistants after 2-3 mistakes. “Be the brand that AI can find and humans can trust,” said Caila Schwartz, Head of Agentic Commerce Shopper Insights at Salesforce."
+              },
+              {
+                "t": "img",
+                "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/image_0d40fe.jpeg?w=1024",
+                "cap": "Shoppers will abandon AI assistants after 2-3 mistakes."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Schibsted, 맞춤형\nAI로 Meta 예산 탈환",
-          "body": "Schibsted가 Nodals AI 맞춤 알고리즘으로 Meta 광고주를 되찾는다.",
-          "mini_headline": "Schibsted, AI로 Meta에 맞서다",
+          "headline": "연말 쇼핑객, 에이전트에\n조사는 맡기고 결제는 직접",
+          "body": "쇼핑객 20% 가까이가 AI부터 찾지만 Buy Now 클릭은 대부분 직접 한다.",
+          "mini_headline": "조사는 에이전트, 결제는 직접",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2024/10/revenue-sharing-publishers-sundar-pichai-mark-zuckerberg-comic-1024x941.png"
+                "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/824_1126_T08_The-AI-First-Holiday-Shoppers-Let-Agents-Do-the-Legwork-Not-the-Paying_a_v1_110926.jpg"
               },
               {
                 "t": "p",
-                "x": "Schibsted가 London-based 기업 Nodals AI와 손잡고 Meta 자체 최적화 도구에 끌려간 브랜드를 다시 불러오려 한다. 이 회사는 유럽(Europe)과 미국(US) 퍼블리셔에게 맞춤 광고 최적화 알고리즘을 만들어 준다. Schibsted Marketing Services의 광고 데이터 역량 디렉터 Christer Ljones가 AdExchanger에 밝혔다."
+                "x": "Salesforce 조사 결과 연말 쇼핑객은 조사와 조언을 AI 에이전트에 맡긴다. 20% 가까이는 매장에 가기 전 가장 먼저 AI를 찾는다고 답했지만 대부분은 AI에게 Buy Now 클릭까지 맡길 생각이 없다."
               },
               {
                 "t": "p",
-                "x": "월드 가든 플랫폼은 Meta의 Advantage+ 같은 AI-powered 캠페인 최적화 기능으로 광고주를 사로잡았다. 오픈 웹 퍼블리셔로서는 따라잡기 버거웠다. Nodals 창업자 겸 CEO Aly Nurmohamed는 “광고주들은 Meta에 길들여져 ‘돈을 넣으면 얼마가 나오는지’에만 신경 쓰게 됐다”고 말했다."
+                "x": "Salesforce 리서치는 AI가 Cyber Week 지출 $75.8B 규모를 이끌 것으로 내다봤다. 2025년보다 13% 많은 규모다. AI 도구를 거쳐 이커머스 사이트로 들어온 유입은 전년보다 104% 늘었다. U.S., U.K., 캐나다, 호주 쇼핑객 2,500명 이상을 조사한 결과 74%가 AI 추천을 신뢰했다. AI 쇼핑객의 30%는 이런 도구 덕분에 몰랐던 브랜드를 자주 알게 된다고 했고, 11%는 AI 어시스턴트가 말리면 구매를 건너뛰겠다고 답했다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/image_b49a8d.jpeg?w=1024",
+                "cap": "개인 에이전트에 맡기는 주요 쇼핑 업무"
               },
               {
                 "t": "p",
-                "x": "Nodals는 로그인 데이터와 스크롤 깊이, 독자가 콘텐츠나 광고를 클릭하는 빈도 같은 퍼블리셔의 퍼스트파티 데이터를 모델에 넣는다. 그러고는 특정 광고주 기준으로 클릭하고 구매할 가능성이 높은 사람을 예측한다. Schibsted는 지난여름 이 기술을 처음 시험했고 지금은 AI 최적화를 내장한 직판 네이티브 광고 포맷 라인을 새로 만드는 중이다. 가격은 CPM이 아닌 클릭당 비용 기준으로 매긴다."
+                "x": "쇼핑객은 개인 에이전트를 구매자가 아닌 조언자로 대한다. 결제까지 맡기기엔 아직 이르다는 반응이다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/image1.jpg?w=1024",
+                "cap": "개인 에이전트로 구매할 때의 주요 걸림돌"
               },
               {
                 "t": "p",
-                "x": "Ljones는 “Meta에 쓰는 비용의 10%를 가져와 보라. 전환 대부분은 그대로 지키면서 [우리에게서] 더 많이 얻을 수 있을 것”이라며 “아직 초기 단계지만 제대로 된 결과가 나오고 있다”고 말했다."
+                "x": "자체 쇼핑 에이전트를 둔 소매업체는 주문 규모가 더 크다. 다만 쇼핑객은 AI 어시스턴트가 2-3번 실수하면 더는 쓰지 않는다. Salesforce에서 Agentic Commerce Shopper Insights를 이끄는 Caila Schwartz는 “AI가 찾을 수 있고 사람이 신뢰할 수 있는 브랜드가 되라”고 말했다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/image_0d40fe.jpeg?w=1024",
+                "cap": "AI 어시스턴트가 2-3번 실수하면 쇼핑객은 더는 쓰지 않는다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "独自AIのSchibsted\nMetaから予算を奪還",
-          "body": "SchibstedはNodals AIの独自アルゴリズムでMetaからブランドを奪還する。",
-          "mini_headline": "Schibsted、AIでMetaに挑む",
+          "headline": "買い物客はエージェントに\n調べさせても支払わせない",
+          "body": "年末の買い物客の20%近くがまずAIを頼るが、大半はBuy Nowを任せる準備がない。",
+          "mini_headline": "調べるのはエージェント、払うのは客",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2024/10/revenue-sharing-publishers-sundar-pichai-mark-zuckerberg-comic-1024x941.png"
+                "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/824_1126_T08_The-AI-First-Holiday-Shoppers-Let-Agents-Do-the-Legwork-Not-the-Paying_a_v1_110926.jpg"
               },
               {
                 "t": "p",
-                "x": "Schibstedは、欧州（Europe）と米国（US）のパブリッシャー向けに独自の広告最適化アルゴリズムを開発するLondon-basedの企業Nodals AIと組み、Meta独自の最適化ツールに引き寄せられたブランドの呼び戻しを図っている。Schibsted Marketing Servicesで広告データ機能のディレクターを務めるChrister Ljones氏がAdExchangerに語った。"
+                "x": "Salesforceの調査によると、年末の買い物客は調べ物や助言にAIエージェントを使っている。買い物客の20%近くが、店に向かう前にまずAIを頼ると答えた。ただし大半は、AIにBuy Nowをクリックさせる準備ができていない。"
               },
               {
                 "t": "p",
-                "x": "ウォールドガーデンはMetaのAdvantage+のようなAI-poweredのキャンペーン最適化機能で広告主を取り込み、オープンウェブのパブリッシャーは追いつくのに苦労してきた。Nodalsの創業者兼CEO、Aly Nurmohamed氏は「広告主はMetaによって『お金を入れたら、いくら出てくるか』だけを気にするよう仕込まれてきた」と語る。"
+                "x": "Salesforceの予測では、AIはCyber Weekの支出のうち$75.8B を生み出し、2025年から13%増える見込みだ。AIツールからのeコマースサイトへのトラフィックは前年比104%増えた。U.S.、U.K.、カナダ、オーストラリアの2,500人超の買い物客を対象とした調査では、74%がAIの推奨を信頼し、AIを使う買い物客の30%はこうしたツールで知らなかったブランドを頻繁に知ると答え、11%はAIアシスタントに反対されれば購入を見送るという。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/image_b49a8d.jpeg?w=1024",
+                "cap": "パーソナルエージェントに任せる主なショッピングタスク"
               },
               {
                 "t": "p",
-                "x": "Nodalsは、ログインデータやスクロール深度、読者がコンテンツや広告をクリックする頻度といったパブリッシャーのファーストパーティデータをモデルに取り込み、特定の広告主にとってクリックや購入をしそうな人を予測する。Schibstedは昨夏この技術を初めてテストし、AI最適化を組み込んだ直販ネイティブ広告フォーマットの新ラインを構築中で、価格はCPMではなくクリック単価で設定する。"
+                "x": "買い物客はパーソナルエージェントを買い手ではなく助言者のように扱っており、決済まで任せる準備はまだ整っていない。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/image1.jpg?w=1024",
+                "cap": "パーソナルエージェントで購入する際の主な障壁"
               },
               {
                 "t": "p",
-                "x": "「Metaに費やしている額の10%をこちらに回してみてほしい。コンバージョンの大半は維持でき、[我々から]さらに多くを得られるはずだ」とLjones氏は話す。「まだ初期段階だが、正しい成果が出ている」"
+                "x": "独自のショッピングエージェントを持つ小売業者は注文額が大きくなるが、買い物客はAIアシスタントが2-3回ミスをすると使うのをやめる。SalesforceのHead of Agentic Commerce Shopper Insights、Caila Schwartzは「AIに見つけてもらえ、人に信頼されるブランドになれ」と語った。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/image_0d40fe.jpeg?w=1024",
+                "cap": "買い物客は、AIアシスタントが2-3回ミスをすると使うのをやめる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Schibsted靠定制AI\n从Meta手中夺回预算",
-          "body": "Schibsted携手Nodals AI开发广告优化算法，夺回被Meta工具吸引的品牌。",
-          "mini_headline": "Schibsted用AI挑战Meta",
+          "headline": "节日购物者让智能体\n帮忙调研而非付款",
+          "body": "近20%的节日购物者把AI当作第一站，但多数人还不愿让智能体点击Buy Now。",
+          "mini_headline": "智能体调研，购物者付款",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2024/10/revenue-sharing-publishers-sundar-pichai-mark-zuckerberg-comic-1024x941.png"
+                "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/824_1126_T08_The-AI-First-Holiday-Shoppers-Let-Agents-Do-the-Legwork-Not-the-Paying_a_v1_110926.jpg"
               },
               {
                 "t": "p",
-                "x": "Schibsted Marketing Services广告数据能力总监Christer Ljones对AdExchanger表示，Schibsted正与London-based公司Nodals AI合作，以争取那些被Meta自家优化工具吸引的品牌。Nodals AI为欧洲（Europe）和美国（US）的发布商打造定制广告优化算法。"
+                "x": "Salesforce的一项调查显示，节日购物者正在用AI智能体做调研、获取建议——近20%的购物者表示，AI是他们去商店前的第一站——但大多数人还没准备好让AI点击Buy Now。"
               },
               {
                 "t": "p",
-                "x": "围墙花园凭借Meta的Advantage+等AI-powered广告活动优化功能赢得了广告主，开放网络发布商一直难以跟上。Nodals创始人兼CEO Aly Nurmohamed表示：“广告主已被Meta训练得只关心‘我投进去多少钱，能看到多少钱回来’。”"
+                "x": "Salesforce研究预计，AI将带动$75.8B 的Cyber Week消费，比2025年增长13%；来自AI工具的电商网站流量同比增长104%。在针对U.S.、U.K.、加拿大和澳大利亚2,500多名购物者的调查中，74%信任AI的推荐，30%的AI购物者表示这些工具经常让他们发现原本不知道的品牌，11%表示如果AI助手建议不买，他们就会放弃购买。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/image_b49a8d.jpeg?w=1024",
+                "cap": "个人智能体承担的主要购物任务"
               },
               {
                 "t": "p",
-                "x": "Nodals将发布商的第一方数据——登录数据、滚动深度、读者点击内容或广告的频率——输入模型，预测哪些人可能为特定广告主点击并购买。Schibsted去年夏天首次测试这项技术，目前正在打造一条内置AI优化的直销原生广告新产品线，按每次点击成本而非CPM计价。"
+                "x": "购物者把个人智能体当作顾问而非买手，还不太愿意让智能体替他们结账。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/image1.jpg?w=1024",
+                "cap": "使用个人智能体购物的主要障碍"
               },
               {
                 "t": "p",
-                "x": "Ljones说：“把你在Meta上花费的10%拿出来，你大概能保住大部分转化，还能[从我们这里]得到更多。”“我们还处于早期阶段，但已看到正确的结果。”"
+                "x": "拥有自有购物智能体的零售商订单金额更高，但AI助手出错2-3次后，购物者就会弃用。Salesforce的Head of Agentic Commerce Shopper Insights Caila Schwartz表示：“要成为AI能找到、人类能信任的品牌。”"
+              },
+              {
+                "t": "img",
+                "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/image_0d40fe.jpeg?w=1024",
+                "cap": "AI助手出错2-3次后，购物者就会弃用。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Schibsted recupera presupuesto\nde Meta con IA a medida",
-          "body": "Schibsted desarrolla con Nodals AI algoritmos de optimización publicitaria para recuperar marcas atraídas por Meta.",
-          "mini_headline": "La IA de Schibsted se mide con Meta",
+          "headline": "Los compradores usan agentes\npara investigar, no para pagar",
+          "body": "Casi el 20% de los compradores navideños empieza por la AI, pero la mayoría no deja que un agente pulse Buy Now.",
+          "mini_headline": "Los agentes investigan, el comprador paga",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2024/10/revenue-sharing-publishers-sundar-pichai-mark-zuckerberg-comic-1024x941.png"
+                "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/824_1126_T08_The-AI-First-Holiday-Shoppers-Let-Agents-Do-the-Legwork-Not-the-Paying_a_v1_110926.jpg"
               },
               {
                 "t": "p",
-                "x": "Schibsted trabaja con Nodals AI, una empresa London-based que crea algoritmos de optimización publicitaria a medida para editores de Europa y Estados Unidos (US), para atraer a las marcas seducidas por las herramientas de optimización propias de Meta, según dijo a AdExchanger Christer Ljones, director de capacidades de datos publicitarios de Schibsted Marketing Services."
+                "x": "Una encuesta de Salesforce muestra que los compradores navideños usan agentes de AI para investigar y pedir consejo —casi el 20% dice ahora que la AI es su primera parada camino de la tienda—, pero la mayoría aún no está lista para dejar que la AI haga clic en Buy Now."
               },
               {
                 "t": "p",
-                "x": "Los jardines amurallados han conquistado a los anunciantes con funciones de optimización de campañas AI-powered como Advantage+ de Meta, y a los editores de la web abierta les ha costado seguir el ritmo. “Meta ha acostumbrado a los anunciantes a que solo les importe ‘pongo dinero y veo cuánto dinero sale’”, dijo Aly Nurmohamed, fundador y CEO de Nodals."
+                "x": "Una investigación de Salesforce prevé que la AI impulsará 75.8 mil millones de dólares en gasto durante la Cyber Week, un 13% más que en 2025, y el tráfico hacia sitios de ecommerce desde herramientas de AI ha crecido un 104% interanual. En la encuesta a más de 2,500 compradores de U.S., U.K., Canadá y Australia, el 74% confía en las recomendaciones de la AI, el 30% de quienes compran con AI dice que estas herramientas le presentan con frecuencia marcas que no conocía y el 11% dejaría de comprar algo si un asistente de AI se lo desaconsejara."
+              },
+              {
+                "t": "img",
+                "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/image_b49a8d.jpeg?w=1024",
+                "cap": "Principales tareas de compra para agentes personales"
               },
               {
                 "t": "p",
-                "x": "Nodals introduce en sus modelos los datos propios del editor —datos de sesión iniciada, profundidad de desplazamiento, frecuencia con que los lectores hacen clic en contenidos o anuncios— para predecir quién tiene probabilidad de hacer clic y comprar para un anunciante concreto. Schibsted probó la tecnología por primera vez el verano pasado y está creando una nueva línea de formatos nativos de venta directa con optimización por IA integrada, con precio por clic en lugar de CPM."
+                "x": "Los compradores tratan a los agentes personales como asesores más que como compradores, y todavía no están del todo dispuestos a dejar que paguen por ellos."
+              },
+              {
+                "t": "img",
+                "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/image1.jpg?w=1024",
+                "cap": "Principales barreras para usar un agente personal al hacer compras"
               },
               {
                 "t": "p",
-                "x": "“Tomemos el 10% de lo que inviertes en Meta: probablemente puedas mantener la mayoría de tus conversiones y obtener más [de nosotros]”, dijo Ljones. “Estamos en una fase inicial, pero estamos viendo los resultados correctos”."
+                "x": "Los minoristas con sus propios agentes de compra registran pedidos más grandes, pero los compradores abandonan los asistentes de AI tras 2-3 errores. “Sea la marca que la AI puede encontrar y en la que las personas pueden confiar”, dijo Caila Schwartz, Head of Agentic Commerce Shopper Insights en Salesforce."
+              },
+              {
+                "t": "img",
+                "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/image_0d40fe.jpeg?w=1024",
+                "cap": "Los compradores abandonan los asistentes de AI tras 2-3 errores."
               }
             ]
           }
@@ -867,121 +1199,181 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Schibsted, 맞춤형\nAI로 Meta 예산 탈환",
-          "body": "Schibsted가 Nodals AI 맞춤 알고리즘으로 Meta 광고주를 되찾는다.",
-          "mini_headline": "Schibsted, AI로 Meta에 맞서다",
+          "headline": "연말 쇼핑객, 에이전트에\n조사는 맡기고 결제는 직접",
+          "body": "쇼핑객 20% 가까이가 AI부터 찾지만 대부분 Buy Now 클릭은 맡기지 않는다.",
+          "mini_headline": "조사는 에이전트, 결제는 직접",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2024/10/revenue-sharing-publishers-sundar-pichai-mark-zuckerberg-comic-1024x941.png"
+                "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/824_1126_T08_The-AI-First-Holiday-Shoppers-Let-Agents-Do-the-Legwork-Not-the-Paying_a_v1_110926.jpg"
               },
               {
                 "t": "p",
-                "x": "Schibsted는 유럽(Europe)과 미국(US)의 퍼블리셔를 위해 맞춤 광고 최적화 알고리즘을 만드는 London-based 기업 Nodals AI와 손잡고, Meta 자체 최적화 도구에 끌린 브랜드를 다시 불러오려 한다. Schibsted Marketing Services의 광고 데이터 역량 디렉터 Christer Ljones가 AdExchanger에 밝힌 내용이다."
+                "x": "Salesforce 조사에 따르면 연말 쇼핑객은 조사와 조언에 AI 에이전트를 활용하고 있다. 쇼핑객의 20% 가까이가 매장에 가기 전 가장 먼저 AI를 찾는다고 답했지만, 대부분은 AI가 Buy Now를 클릭하도록 맡길 준비가 되어 있지 않다."
               },
               {
                 "t": "p",
-                "x": "월드 가든 플랫폼들은 Meta의 Advantage+ 같은 AI-powered 캠페인 최적화 기능으로 광고주를 사로잡았고, 오픈 웹 퍼블리셔는 이를 따라잡기 어려웠다. Nodals 창업자 겸 CEO Aly Nurmohamed는 “광고주들은 Meta에 길들여져 ‘돈을 넣으면 얼마가 나오는지’에만 신경 쓰게 됐다”고 말했다."
+                "x": "Salesforce 리서치는 AI가 Cyber Week 지출 $75.8B 규모를 이끌 것으로 전망했다. 2025년보다 13% 늘어난 수치이며, AI 도구를 통한 이커머스 사이트 유입은 전년 대비 104% 증가했다. U.S., U.K., 캐나다, 호주의 쇼핑객 2,500명 이상을 대상으로 한 조사에서 74%는 AI 추천을 신뢰했고, AI 쇼핑객의 30%는 이런 도구 덕분에 몰랐던 브랜드를 자주 알게 된다고 답했으며, 11%는 AI 어시스턴트가 말리면 구매를 건너뛰겠다고 했다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/image_b49a8d.jpeg?w=1024",
+                "cap": "개인 에이전트에 맡기는 주요 쇼핑 업무"
               },
               {
                 "t": "p",
-                "x": "Nodals는 퍼블리셔의 퍼스트파티 데이터, 즉 로그인 데이터와 스크롤 깊이, 독자가 콘텐츠나 광고를 클릭하는 빈도를 모델에 넣어 특정 광고주를 위해 클릭하고 구매할 가능성이 높은 사람을 예측한다. Schibsted는 지난여름 이 기술을 처음 시험했고, AI 최적화를 내장한 직판 네이티브 광고 포맷 라인을 새로 만들고 있다. 가격은 CPM이 아닌 클릭당 비용 기준으로 매긴다."
+                "x": "쇼핑객은 개인 에이전트를 구매자가 아니라 조언자처럼 대하며, 결제까지 맡길 준비는 아직 되어 있지 않다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/image1.jpg?w=1024",
+                "cap": "개인 에이전트로 구매할 때의 주요 걸림돌"
               },
               {
                 "t": "p",
-                "x": "Ljones는 “Meta에 쓰는 비용의 10%를 가져와 보라. 전환 대부분은 그대로 지키면서 [우리에게서] 더 많이 얻을 수 있을 것”이라며 “아직 초기 단계지만 제대로 된 결과가 나오고 있다”고 말했다."
+                "x": "자체 쇼핑 에이전트를 갖춘 소매업체는 주문 규모가 더 크지만, 쇼핑객은 AI 어시스턴트가 2-3번 실수하면 사용을 그만둔다. Salesforce의 Agentic Commerce Shopper Insights 책임자 Caila Schwartz는 “AI가 찾을 수 있고 사람이 신뢰할 수 있는 브랜드가 되라”고 말했다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/image_0d40fe.jpeg?w=1024",
+                "cap": "쇼핑객은 AI 어시스턴트가 2-3번 실수하면 사용을 그만둔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "独自AIのSchibsted\nMetaから予算を奪還",
-          "body": "SchibstedはNodals AIの独自アルゴリズムでMetaからブランドを奪還する。",
-          "mini_headline": "Schibsted、AIでMetaに挑む",
+          "headline": "買い物客はエージェントに\n調べさせても支払わせない",
+          "body": "年末の買い物客の20%近くがまずAIを頼るが、大半はBuy Nowを任せる準備がない。",
+          "mini_headline": "調べるのはエージェント、払うのは客",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2024/10/revenue-sharing-publishers-sundar-pichai-mark-zuckerberg-comic-1024x941.png"
+                "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/824_1126_T08_The-AI-First-Holiday-Shoppers-Let-Agents-Do-the-Legwork-Not-the-Paying_a_v1_110926.jpg"
               },
               {
                 "t": "p",
-                "x": "Schibstedは、欧州（Europe）と米国（US）のパブリッシャー向けに独自の広告最適化アルゴリズムを開発するLondon-basedの企業Nodals AIと組み、Meta独自の最適化ツールに引き寄せられたブランドの呼び戻しを図っている。Schibsted Marketing Servicesで広告データ機能のディレクターを務めるChrister Ljones氏がAdExchangerに語った。"
+                "x": "Salesforceの調査によると、年末の買い物客は調べ物や助言にAIエージェントを使っている。買い物客の20%近くが、店に向かう前にまずAIを頼ると答えた。ただし大半は、AIにBuy Nowをクリックさせる準備ができていない。"
               },
               {
                 "t": "p",
-                "x": "ウォールドガーデンはMetaのAdvantage+のようなAI-poweredのキャンペーン最適化機能で広告主を取り込み、オープンウェブのパブリッシャーは追いつくのに苦労してきた。Nodalsの創業者兼CEO、Aly Nurmohamed氏は「広告主はMetaによって『お金を入れたら、いくら出てくるか』だけを気にするよう仕込まれてきた」と語る。"
+                "x": "Salesforceの予測では、AIはCyber Weekの支出のうち$75.8B を生み出し、2025年から13%増える見込みだ。AIツールからのeコマースサイトへのトラフィックは前年比104%増えた。U.S.、U.K.、カナダ、オーストラリアの2,500人超の買い物客を対象とした調査では、74%がAIの推奨を信頼し、AIを使う買い物客の30%はこうしたツールで知らなかったブランドを頻繁に知ると答え、11%はAIアシスタントに反対されれば購入を見送るという。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/image_b49a8d.jpeg?w=1024",
+                "cap": "パーソナルエージェントに任せる主なショッピングタスク"
               },
               {
                 "t": "p",
-                "x": "Nodalsは、ログインデータやスクロール深度、読者がコンテンツや広告をクリックする頻度といったパブリッシャーのファーストパーティデータをモデルに取り込み、特定の広告主にとってクリックや購入をしそうな人を予測する。Schibstedは昨夏この技術を初めてテストし、AI最適化を組み込んだ直販ネイティブ広告フォーマットの新ラインを構築中で、価格はCPMではなくクリック単価で設定する。"
+                "x": "買い物客はパーソナルエージェントを買い手ではなく助言者のように扱っており、決済まで任せる準備はまだ整っていない。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/image1.jpg?w=1024",
+                "cap": "パーソナルエージェントで購入する際の主な障壁"
               },
               {
                 "t": "p",
-                "x": "「Metaに費やしている額の10%をこちらに回してみてほしい。コンバージョンの大半は維持でき、[我々から]さらに多くを得られるはずだ」とLjones氏は話す。「まだ初期段階だが、正しい成果が出ている」"
+                "x": "独自のショッピングエージェントを持つ小売業者は注文額が大きくなるが、買い物客はAIアシスタントが2-3回ミスをすると使うのをやめる。SalesforceのHead of Agentic Commerce Shopper Insights、Caila Schwartzは「AIに見つけてもらえ、人に信頼されるブランドになれ」と語った。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/image_0d40fe.jpeg?w=1024",
+                "cap": "買い物客は、AIアシスタントが2-3回ミスをすると使うのをやめる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Schibsted靠定制AI\n从Meta手中夺回预算",
-          "body": "Schibsted携手Nodals AI开发广告优化算法，夺回被Meta工具吸引的品牌。",
-          "mini_headline": "Schibsted用AI挑战Meta",
+          "headline": "节日购物者让智能体\n帮忙调研而非付款",
+          "body": "近20%的节日购物者把AI当作第一站，但多数人还不愿让智能体点击Buy Now。",
+          "mini_headline": "智能体调研，购物者付款",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2024/10/revenue-sharing-publishers-sundar-pichai-mark-zuckerberg-comic-1024x941.png"
+                "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/824_1126_T08_The-AI-First-Holiday-Shoppers-Let-Agents-Do-the-Legwork-Not-the-Paying_a_v1_110926.jpg"
               },
               {
                 "t": "p",
-                "x": "Schibsted Marketing Services广告数据能力总监Christer Ljones对AdExchanger表示，Schibsted正与London-based公司Nodals AI合作，以争取那些被Meta自家优化工具吸引的品牌。Nodals AI为欧洲（Europe）和美国（US）的发布商打造定制广告优化算法。"
+                "x": "Salesforce的一项调查显示，节日购物者正在用AI智能体做调研、获取建议——近20%的购物者表示，AI是他们去商店前的第一站——但大多数人还没准备好让AI点击Buy Now。"
               },
               {
                 "t": "p",
-                "x": "围墙花园凭借Meta的Advantage+等AI-powered广告活动优化功能赢得了广告主，开放网络发布商一直难以跟上。Nodals创始人兼CEO Aly Nurmohamed表示：“广告主已被Meta训练得只关心‘我投进去多少钱，能看到多少钱回来’。”"
+                "x": "Salesforce研究预计，AI将带动$75.8B 的Cyber Week消费，比2025年增长13%；来自AI工具的电商网站流量同比增长104%。在针对U.S.、U.K.、加拿大和澳大利亚2,500多名购物者的调查中，74%信任AI的推荐，30%的AI购物者表示这些工具经常让他们发现原本不知道的品牌，11%表示如果AI助手建议不买，他们就会放弃购买。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/image_b49a8d.jpeg?w=1024",
+                "cap": "个人智能体承担的主要购物任务"
               },
               {
                 "t": "p",
-                "x": "Nodals将发布商的第一方数据——登录数据、滚动深度、读者点击内容或广告的频率——输入模型，预测哪些人可能为特定广告主点击并购买。Schibsted去年夏天首次测试这项技术，目前正在打造一条内置AI优化的直销原生广告新产品线，按每次点击成本而非CPM计价。"
+                "x": "购物者把个人智能体当作顾问而非买手，还不太愿意让智能体替他们结账。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/image1.jpg?w=1024",
+                "cap": "使用个人智能体购物的主要障碍"
               },
               {
                 "t": "p",
-                "x": "Ljones说：“把你在Meta上花费的10%拿出来，你大概能保住大部分转化，还能[从我们这里]得到更多。”“我们还处于早期阶段，但已看到正确的结果。”"
+                "x": "拥有自有购物智能体的零售商订单金额更高，但AI助手出错2-3次后，购物者就会弃用。Salesforce的Head of Agentic Commerce Shopper Insights Caila Schwartz表示：“要成为AI能找到、人类能信任的品牌。”"
+              },
+              {
+                "t": "img",
+                "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/image_0d40fe.jpeg?w=1024",
+                "cap": "AI助手出错2-3次后，购物者就会弃用。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Schibsted recupera presupuesto\nde Meta con IA a medida",
-          "body": "Schibsted desarrolla con Nodals AI algoritmos de optimización publicitaria para recuperar marcas atraídas por Meta.",
-          "mini_headline": "La IA de Schibsted se mide con Meta",
+          "headline": "Los compradores usan agentes\npara investigar, no para pagar",
+          "body": "Casi el 20% de los compradores navideños empieza por la AI, pero la mayoría no deja que un agente pulse Buy Now.",
+          "mini_headline": "Los agentes investigan, el comprador paga",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2024/10/revenue-sharing-publishers-sundar-pichai-mark-zuckerberg-comic-1024x941.png"
+                "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/824_1126_T08_The-AI-First-Holiday-Shoppers-Let-Agents-Do-the-Legwork-Not-the-Paying_a_v1_110926.jpg"
               },
               {
                 "t": "p",
-                "x": "Schibsted trabaja con Nodals AI, una empresa London-based que crea algoritmos de optimización publicitaria a medida para editores de Europa y Estados Unidos (US), para atraer a las marcas seducidas por las herramientas de optimización propias de Meta, según dijo a AdExchanger Christer Ljones, director de capacidades de datos publicitarios de Schibsted Marketing Services."
+                "x": "Una encuesta de Salesforce muestra que los compradores navideños usan agentes de AI para investigar y pedir consejo —casi el 20% dice ahora que la AI es su primera parada camino de la tienda—, pero la mayoría aún no está lista para dejar que la AI haga clic en Buy Now."
               },
               {
                 "t": "p",
-                "x": "Los jardines amurallados han conquistado a los anunciantes con funciones de optimización de campañas AI-powered como Advantage+ de Meta, y a los editores de la web abierta les ha costado seguir el ritmo. “Meta ha acostumbrado a los anunciantes a que solo les importe ‘pongo dinero y veo cuánto dinero sale’”, dijo Aly Nurmohamed, fundador y CEO de Nodals."
+                "x": "Una investigación de Salesforce prevé que la AI impulsará 75.8 mil millones de dólares en gasto durante la Cyber Week, un 13% más que en 2025, y el tráfico hacia sitios de ecommerce desde herramientas de AI ha crecido un 104% interanual. En la encuesta a más de 2,500 compradores de U.S., U.K., Canadá y Australia, el 74% confía en las recomendaciones de la AI, el 30% de quienes compran con AI dice que estas herramientas le presentan con frecuencia marcas que no conocía y el 11% dejaría de comprar algo si un asistente de AI se lo desaconsejara."
+              },
+              {
+                "t": "img",
+                "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/image_b49a8d.jpeg?w=1024",
+                "cap": "Principales tareas de compra para agentes personales"
               },
               {
                 "t": "p",
-                "x": "Nodals introduce en sus modelos los datos propios del editor —datos de sesión iniciada, profundidad de desplazamiento, frecuencia con que los lectores hacen clic en contenidos o anuncios— para predecir quién tiene probabilidad de hacer clic y comprar para un anunciante concreto. Schibsted probó la tecnología por primera vez el verano pasado y está creando una nueva línea de formatos nativos de venta directa con optimización por IA integrada, con precio por clic en lugar de CPM."
+                "x": "Los compradores tratan a los agentes personales como asesores más que como compradores, y todavía no están del todo dispuestos a dejar que paguen por ellos."
+              },
+              {
+                "t": "img",
+                "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/image1.jpg?w=1024",
+                "cap": "Principales barreras para usar un agente personal al hacer compras"
               },
               {
                 "t": "p",
-                "x": "“Tomemos el 10% de lo que inviertes en Meta: probablemente puedas mantener la mayoría de tus conversiones y obtener más [de nosotros]”, dijo Ljones. “Estamos en una fase inicial, pero estamos viendo los resultados correctos”."
+                "x": "Los minoristas con sus propios agentes de compra registran pedidos más grandes, pero los compradores abandonan los asistentes de AI tras 2-3 errores. “Sea la marca que la AI puede encontrar y en la que las personas pueden confiar”, dijo Caila Schwartz, Head of Agentic Commerce Shopper Insights en Salesforce."
+              },
+              {
+                "t": "img",
+                "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/image_0d40fe.jpeg?w=1024",
+                "cap": "Los compradores abandonan los asistentes de AI tras 2-3 errores."
               }
             ]
           }
@@ -989,557 +1381,237 @@
       }
     },
     {
-      "id": "buzzvil-prism-ad-engine",
-      "source_lang": "ko",
+      "id": "pinterest-holiday-gift-assistant",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "버즈빌, 이용자마다\n다른 광고 만드는 AI",
-      "body": "버즈빌 '프리즘'은 한 캠페인 안에서도 이용자별로 다른 광고를 자동 제작한다.",
-      "mini_headline": "버즈빌 초개인화 AI 광고",
+      "headline": "Pinterest 챗봇에\n연말 선물 도구 추가",
+      "body": "Pinterest가 챗봇에 선물 가이드를 넣고 비교 도구와 위시리스트를 더했다.",
+      "mini_headline": "Pinterest, 선물 도구 추가",
       "tool": "Marketing",
-      "source": "바이라인네트워크",
-      "url": "https://byline.network/2026/11/13_buzzvil/",
+      "source": "Social Media Today",
+      "url": "https://www.socialmediatoday.com/news/pinterest-adds-holiday-shopping-tools/874575/",
       "accent": "#2ec5c5",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://cdn.byline.network/wp-content/uploads/2026/11/buzzvil_20261113.jpg",
-            "cap": "버즈빌, 이용자별 광고 소재 자동 제작하는 AI 엔진 ‘프리즘’ 출시 (출처=버즈빌)"
-          },
-          {
             "t": "p",
-            "x": "버즈빌이 이용자의 관심사와 구매 단계에 따라 서로 다른 광고를 보여주는 인공지능(AI) 광고 엔진을 선보였다. 같은 브랜드의 동일한 광고 캠페인에서도 이용자별로 상품 추천과 광고 메시지, 참여 방식을 다르게 구성하는 것이 특징이다. 버즈빌은 초개인화 인터랙션 광고 엔진 ‘프리즘(Prism)’을 출시하고, 이달부터 희망 광고주를 대상으로 적용한다고 13일 밝혔다."
+            "x": "Pinterest가 연말을 앞두고 쇼핑 기능을 새로 내놨다. Pinterest Assistant 챗봇 안에 인기 선물 가이드, 상품 비교 도구, 위시리스트 등이 들어간다."
           },
-          {
-            "t": "p",
-            "x": "핵심 기술은 자체 개발한 AI 콘텐츠 제작 시스템 ‘컴포저(Composer)’다. 컴포저는 이용자의 관심 상품과 맥락을 분석해 적합한 광고 메시지를 찾고, 대규모언어모델(LLM)을 활용해 대화형 추천이나 고민 진단 등 참여형 광고 소재를 생성한다."
-          },
-          {
-            "t": "p",
-            "x": "광고주는 브랜드 이미지와 상품 정보를 제공하면 별도 제작 과정 없이 하나의 캠페인에서 1000개 이상의 개인화 소재를 만들 수 있다. 생성된 소재는 금칙어와 사실관계 검수, AI 품질 심사를 거쳐 기준을 충족한 경우에만 송출된다. 프리즘은 이용자 반응을 분석해 성과가 높은 조합의 노출을 늘리는 기능도 제공한다."
-          },
-          {
-            "t": "p",
-            "x": "버즈빌이 뷰티 브랜드와 진행한 인터랙션 광고 캠페인에서는 상품 리뷰를 활용한 광고 소재의 클릭 후 구매 전환율이 기존 카탈로그형 소재보다 3배 높았다. 장바구니 담기 전환율은 7배 높았으며, 광고 클릭부터 구매까지 걸린 시간의 중앙값은 57% 짧았다."
-          },
-          {
-            "t": "p",
-            "x": "이관우 버즈빌 대표는 “광고를 일방적인 메시지가 아닌 이용자 한 명 한 명과 주고받는 경험으로 바꿔 나갈 것”이라고 말했다."
-          }
-        ]
-      },
-      "text": {
-        "ko": {
-          "headline": "버즈빌, 이용자마다\n다른 광고 만드는 AI",
-          "body": "버즈빌 '프리즘'은 한 캠페인 안에서도 이용자별로 다른 광고를 자동 제작한다.",
-          "mini_headline": "버즈빌 초개인화 AI 광고",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.byline.network/wp-content/uploads/2026/11/buzzvil_20261113.jpg",
-                "cap": "버즈빌, 이용자별 광고 소재 자동 제작하는 AI 엔진 ‘프리즘’ 출시 (출처=버즈빌)"
-              },
-              {
-                "t": "p",
-                "x": "버즈빌이 이용자의 관심사와 구매 단계에 따라 서로 다른 광고를 보여주는 인공지능(AI) 광고 엔진을 선보였다. 같은 브랜드의 동일한 광고 캠페인에서도 이용자별로 상품 추천과 광고 메시지, 참여 방식을 다르게 구성하는 것이 특징이다. 버즈빌은 초개인화 인터랙션 광고 엔진 ‘프리즘(Prism)’을 출시하고, 이달부터 희망 광고주를 대상으로 적용한다고 13일 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "핵심 기술은 자체 개발한 AI 콘텐츠 제작 시스템 ‘컴포저(Composer)’다. 컴포저는 이용자의 관심 상품과 맥락을 분석해 적합한 광고 메시지를 찾고, 대규모언어모델(LLM)을 활용해 대화형 추천이나 고민 진단 등 참여형 광고 소재를 생성한다."
-              },
-              {
-                "t": "p",
-                "x": "광고주는 브랜드 이미지와 상품 정보를 제공하면 별도 제작 과정 없이 하나의 캠페인에서 1000개 이상의 개인화 소재를 만들 수 있다. 생성된 소재는 금칙어와 사실관계 검수, AI 품질 심사를 거쳐 기준을 충족한 경우에만 송출된다. 프리즘은 이용자 반응을 분석해 성과가 높은 조합의 노출을 늘리는 기능도 제공한다."
-              },
-              {
-                "t": "p",
-                "x": "버즈빌이 뷰티 브랜드와 진행한 인터랙션 광고 캠페인에서는 상품 리뷰를 활용한 광고 소재의 클릭 후 구매 전환율이 기존 카탈로그형 소재보다 3배 높았다. 장바구니 담기 전환율은 7배 높았으며, 광고 클릭부터 구매까지 걸린 시간의 중앙값은 57% 짧았다."
-              },
-              {
-                "t": "p",
-                "x": "이관우 버즈빌 대표는 “광고를 일방적인 메시지가 아닌 이용자 한 명 한 명과 주고받는 경험으로 바꿔 나갈 것”이라고 말했다."
-              }
-            ]
-          }
-        },
-        "en": {
-          "headline": "Buzzvil's AI builds a different\nad for every user",
-          "body": "Buzzvil's Prism automatically creates different ads for each user, even within a single campaign.",
-          "mini_headline": "Buzzvil's hyper-personalized AI ads",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.byline.network/wp-content/uploads/2026/11/buzzvil_20261113.jpg",
-                "cap": "Buzzvil launches ‘Prism,’ an AI engine that automatically creates ad creatives for each user (Source=Buzzvil)"
-              },
-              {
-                "t": "p",
-                "x": "Buzzvil has unveiled an artificial intelligence (AI) ad engine that shows different ads depending on each user's interests and stage of purchase. Its distinguishing feature is that, even within the same ad campaign for the same brand, it varies product recommendations, ad messages and ways of participating for each user. Buzzvil said on the 13th that it has launched ‘Prism,’ a hyper-personalized interactive ad engine, and will apply it to interested advertisers starting this month."
-              },
-              {
-                "t": "p",
-                "x": "Its core technology is ‘Composer,’ an AI content creation system developed in-house. Composer analyzes the products a user is interested in and their context to find a suitable ad message, then uses a large language model (LLM) to generate participatory ad creatives such as conversational recommendations or concern diagnoses."
-              },
-              {
-                "t": "p",
-                "x": "If advertisers provide brand images and product information, they can create more than 1000 personalized creatives in a single campaign without a separate production process. Generated creatives go out only if they meet the standards after screening for banned words, fact-checking and an AI quality review. Prism also analyzes user responses to increase exposure of high-performing combinations."
-              },
-              {
-                "t": "p",
-                "x": "In an interactive ad campaign Buzzvil ran with a beauty brand, creatives using product reviews had a post-click purchase conversion rate 3 times higher than existing catalog-style creatives. The add-to-cart conversion rate was 7 times higher, and the median time from ad click to purchase was 57% shorter."
-              },
-              {
-                "t": "p",
-                "x": "Buzzvil CEO Lee Kwan-woo said, “We will turn advertising from a one-way message into an experience exchanged with each and every user.”"
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Buzzvil、利用者ごとに\n違う広告を作るAI",
-          "body": "BuzzvilのPrismは、一つのキャンペーン内でも利用者別に異なる広告を自動制作する。",
-          "mini_headline": "Buzzvilの超パーソナライズAI広告",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.byline.network/wp-content/uploads/2026/11/buzzvil_20261113.jpg",
-                "cap": "Buzzvil、利用者ごとの広告素材を自動制作するAIエンジン「Prism」を発売（出典=Buzzvil）"
-              },
-              {
-                "t": "p",
-                "x": "Buzzvilが、利用者の関心や購買段階に応じて異なる広告を表示する人工知能（AI）広告エンジンを披露した。同じブランドの同一広告キャンペーンでも、利用者ごとに商品レコメンド、広告メッセージ、参加方法を変えて構成するのが特徴だ。Buzzvilは13日、超パーソナライズ型インタラクション広告エンジン「Prism」を発売し、今月から希望する広告主を対象に適用すると明らかにした。"
-              },
-              {
-                "t": "p",
-                "x": "中核技術は自社開発のAIコンテンツ制作システム「Composer」だ。Composerは利用者の関心商品と文脈を分析して適切な広告メッセージを見つけ、大規模言語モデル（LLM）を活用して対話型レコメンドや悩み診断などの参加型広告素材を生成する。"
-              },
-              {
-                "t": "p",
-                "x": "広告主はブランド画像と商品情報を提供すれば、別途の制作工程なしに一つのキャンペーンで1000個以上のパーソナライズ素材を作れる。生成された素材は禁止語と事実関係の検収、AI品質審査を経て、基準を満たした場合にのみ配信される。Prismは利用者の反応を分析し、成果の高い組み合わせの露出を増やす機能も備える。"
-              },
-              {
-                "t": "p",
-                "x": "Buzzvilがビューティーブランドと実施したインタラクション広告キャンペーンでは、商品レビューを活用した広告素材のクリック後購入転換率が、従来のカタログ型素材より3倍高かった。カート追加の転換率は7倍高く、広告クリックから購入までにかかった時間の中央値は57%短かった。"
-              },
-              {
-                "t": "p",
-                "x": "BuzzvilのLee Kwan-woo代表は「広告を一方的なメッセージではなく、利用者一人ひとりとやり取りする体験に変えていく」と述べた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Buzzvil用AI\n为每位用户定制广告",
-          "body": "Buzzvil的Prism即使在同一广告活动中，也能为每位用户自动制作不同广告。",
-          "mini_headline": "Buzzvil超个性化AI广告",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.byline.network/wp-content/uploads/2026/11/buzzvil_20261113.jpg",
-                "cap": "Buzzvil推出可为每位用户自动制作广告素材的AI引擎“Prism”（来源=Buzzvil）"
-              },
-              {
-                "t": "p",
-                "x": "Buzzvil推出一款人工智能（AI）广告引擎，可根据用户的兴趣和购买阶段展示不同广告。其特点是，即使在同一品牌的同一广告活动中，也能为每位用户分别配置商品推荐、广告信息和参与方式。Buzzvil于13日宣布推出超个性化互动广告引擎“Prism”，并从本月起面向有意向的广告主提供。"
-              },
-              {
-                "t": "p",
-                "x": "其核心技术是自主研发的AI内容制作系统“Composer”。Composer分析用户感兴趣的商品和情境，找出合适的广告信息，并利用大语言模型（LLM）生成对话式推荐、烦恼诊断等参与型广告素材。"
-              },
-              {
-                "t": "p",
-                "x": "广告主只需提供品牌图片和商品信息，无需另行制作，就能在一个广告活动中生成1000个以上的个性化素材。生成的素材须经过违禁词与事实核查、AI质量审核，达到标准后才会投放。Prism还会分析用户反应，增加高效组合的曝光。"
-              },
-              {
-                "t": "p",
-                "x": "在Buzzvil与美妆品牌开展的互动广告活动中，使用商品评论的广告素材点击后购买转化率比原有目录式素材高3倍，加购转化率高7倍，从点击广告到购买所用时间的中位数缩短57%。"
-              },
-              {
-                "t": "p",
-                "x": "Buzzvil代表Lee Kwan-woo表示：“我们将把广告从单向信息，转变为与每一位用户互动交流的体验。”"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "La IA de Buzzvil crea un anuncio\ndistinto para cada usuario",
-          "body": "Prism, de Buzzvil, crea automáticamente anuncios distintos para cada usuario, incluso dentro de una misma campaña.",
-          "mini_headline": "Anuncios de IA hiperpersonalizados de Buzzvil",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.byline.network/wp-content/uploads/2026/11/buzzvil_20261113.jpg",
-                "cap": "Buzzvil lanza ‘Prism’, un motor de AI que crea automáticamente creatividades publicitarias para cada usuario (Fuente=Buzzvil)"
-              },
-              {
-                "t": "p",
-                "x": "Buzzvil presentó un motor publicitario de inteligencia artificial (AI) que muestra anuncios distintos según los intereses y la etapa de compra de cada usuario. Su rasgo distintivo es que, incluso dentro de una misma campaña de la misma marca, configura de forma diferente para cada usuario las recomendaciones de producto, los mensajes publicitarios y las formas de participación. Buzzvil anunció el día 13 que lanzó ‘Prism’, un motor de anuncios interactivos hiperpersonalizados, y que a partir de este mes lo aplicará a los anunciantes interesados."
-              },
-              {
-                "t": "p",
-                "x": "Su tecnología central es ‘Composer’, un sistema de creación de contenido con AI desarrollado internamente. Composer analiza los productos de interés y el contexto del usuario para encontrar el mensaje publicitario adecuado y, mediante un modelo de lenguaje grande (LLM), genera creatividades participativas como recomendaciones conversacionales o diagnósticos de inquietudes."
-              },
-              {
-                "t": "p",
-                "x": "Si el anunciante aporta imágenes de marca e información de producto, puede crear más de 1000 creatividades personalizadas en una sola campaña sin un proceso de producción aparte. Las creatividades generadas solo se emiten si cumplen los criterios tras una revisión de palabras prohibidas y de hechos, y una evaluación de calidad con AI. Prism también analiza la respuesta de los usuarios para aumentar la exposición de las combinaciones de mayor rendimiento."
-              },
-              {
-                "t": "p",
-                "x": "En una campaña de anuncios interactivos que Buzzvil realizó con una marca de belleza, las creatividades basadas en reseñas de producto lograron una tasa de conversión de compra tras el clic 3 veces mayor que las creatividades de catálogo existentes. La tasa de conversión de añadir al carrito fue 7 veces mayor, y la mediana del tiempo entre el clic en el anuncio y la compra fue un 57% más corta."
-              },
-              {
-                "t": "p",
-                "x": "El CEO de Buzzvil, Lee Kwan-woo, afirmó: “Convertiremos la publicidad, de un mensaje unidireccional, en una experiencia de intercambio con cada uno de los usuarios”."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "en": {
-          "headline": "Buzzvil's AI builds a different\nad for every user",
-          "body": "Buzzvil's Prism automatically creates different ads for each user, even within a single campaign.",
-          "mini_headline": "Buzzvil's hyper-personalized AI ads",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.byline.network/wp-content/uploads/2026/11/buzzvil_20261113.jpg",
-                "cap": "Buzzvil launches ‘Prism,’ an AI engine that automatically creates ad creatives for each user (Source=Buzzvil)"
-              },
-              {
-                "t": "p",
-                "x": "Buzzvil has unveiled an artificial intelligence (AI) ad engine that shows different ads depending on each user's interests and stage of purchase. Its distinguishing feature is that, even within the same ad campaign for the same brand, it varies product recommendations, ad messages and ways of participating for each user. Buzzvil said on the 13th that it has launched ‘Prism,’ a hyper-personalized interactive ad engine, and will apply it to interested advertisers starting this month."
-              },
-              {
-                "t": "p",
-                "x": "Its core technology is ‘Composer,’ an AI content creation system developed in-house. Composer analyzes the products a user is interested in and their context to find a suitable ad message, then uses a large language model (LLM) to generate participatory ad creatives such as conversational recommendations or concern diagnoses."
-              },
-              {
-                "t": "p",
-                "x": "If advertisers provide brand images and product information, they can create more than 1000 personalized creatives in a single campaign without a separate production process. Generated creatives go out only if they meet the standards after screening for banned words, fact-checking and an AI quality review. Prism also analyzes user responses to increase exposure of high-performing combinations."
-              },
-              {
-                "t": "p",
-                "x": "In an interactive ad campaign Buzzvil ran with a beauty brand, creatives using product reviews had a post-click purchase conversion rate 3 times higher than existing catalog-style creatives. The add-to-cart conversion rate was 7 times higher, and the median time from ad click to purchase was 57% shorter."
-              },
-              {
-                "t": "p",
-                "x": "Buzzvil CEO Lee Kwan-woo said, “We will turn advertising from a one-way message into an experience exchanged with each and every user.”"
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Buzzvil、利用者ごとに\n違う広告を作るAI",
-          "body": "BuzzvilのPrismは、一つのキャンペーン内でも利用者別に異なる広告を自動制作する。",
-          "mini_headline": "Buzzvilの超パーソナライズAI広告",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.byline.network/wp-content/uploads/2026/11/buzzvil_20261113.jpg",
-                "cap": "Buzzvil、利用者ごとの広告素材を自動制作するAIエンジン「Prism」を発売（出典=Buzzvil）"
-              },
-              {
-                "t": "p",
-                "x": "Buzzvilが、利用者の関心や購買段階に応じて異なる広告を表示する人工知能（AI）広告エンジンを披露した。同じブランドの同一広告キャンペーンでも、利用者ごとに商品レコメンド、広告メッセージ、参加方法を変えて構成するのが特徴だ。Buzzvilは13日、超パーソナライズ型インタラクション広告エンジン「Prism」を発売し、今月から希望する広告主を対象に適用すると明らかにした。"
-              },
-              {
-                "t": "p",
-                "x": "中核技術は自社開発のAIコンテンツ制作システム「Composer」だ。Composerは利用者の関心商品と文脈を分析して適切な広告メッセージを見つけ、大規模言語モデル（LLM）を活用して対話型レコメンドや悩み診断などの参加型広告素材を生成する。"
-              },
-              {
-                "t": "p",
-                "x": "広告主はブランド画像と商品情報を提供すれば、別途の制作工程なしに一つのキャンペーンで1000個以上のパーソナライズ素材を作れる。生成された素材は禁止語と事実関係の検収、AI品質審査を経て、基準を満たした場合にのみ配信される。Prismは利用者の反応を分析し、成果の高い組み合わせの露出を増やす機能も備える。"
-              },
-              {
-                "t": "p",
-                "x": "Buzzvilがビューティーブランドと実施したインタラクション広告キャンペーンでは、商品レビューを活用した広告素材のクリック後購入転換率が、従来のカタログ型素材より3倍高かった。カート追加の転換率は7倍高く、広告クリックから購入までにかかった時間の中央値は57%短かった。"
-              },
-              {
-                "t": "p",
-                "x": "BuzzvilのLee Kwan-woo代表は「広告を一方的なメッセージではなく、利用者一人ひとりとやり取りする体験に変えていく」と述べた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Buzzvil用AI\n为每位用户定制广告",
-          "body": "Buzzvil的Prism即使在同一广告活动中，也能为每位用户自动制作不同广告。",
-          "mini_headline": "Buzzvil超个性化AI广告",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.byline.network/wp-content/uploads/2026/11/buzzvil_20261113.jpg",
-                "cap": "Buzzvil推出可为每位用户自动制作广告素材的AI引擎“Prism”（来源=Buzzvil）"
-              },
-              {
-                "t": "p",
-                "x": "Buzzvil推出一款人工智能（AI）广告引擎，可根据用户的兴趣和购买阶段展示不同广告。其特点是，即使在同一品牌的同一广告活动中，也能为每位用户分别配置商品推荐、广告信息和参与方式。Buzzvil于13日宣布推出超个性化互动广告引擎“Prism”，并从本月起面向有意向的广告主提供。"
-              },
-              {
-                "t": "p",
-                "x": "其核心技术是自主研发的AI内容制作系统“Composer”。Composer分析用户感兴趣的商品和情境，找出合适的广告信息，并利用大语言模型（LLM）生成对话式推荐、烦恼诊断等参与型广告素材。"
-              },
-              {
-                "t": "p",
-                "x": "广告主只需提供品牌图片和商品信息，无需另行制作，就能在一个广告活动中生成1000个以上的个性化素材。生成的素材须经过违禁词与事实核查、AI质量审核，达到标准后才会投放。Prism还会分析用户反应，增加高效组合的曝光。"
-              },
-              {
-                "t": "p",
-                "x": "在Buzzvil与美妆品牌开展的互动广告活动中，使用商品评论的广告素材点击后购买转化率比原有目录式素材高3倍，加购转化率高7倍，从点击广告到购买所用时间的中位数缩短57%。"
-              },
-              {
-                "t": "p",
-                "x": "Buzzvil代表Lee Kwan-woo表示：“我们将把广告从单向信息，转变为与每一位用户互动交流的体验。”"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "La IA de Buzzvil crea un anuncio\ndistinto para cada usuario",
-          "body": "Prism, de Buzzvil, crea automáticamente anuncios distintos para cada usuario, incluso dentro de una misma campaña.",
-          "mini_headline": "Anuncios de IA hiperpersonalizados de Buzzvil",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.byline.network/wp-content/uploads/2026/11/buzzvil_20261113.jpg",
-                "cap": "Buzzvil lanza ‘Prism’, un motor de AI que crea automáticamente creatividades publicitarias para cada usuario (Fuente=Buzzvil)"
-              },
-              {
-                "t": "p",
-                "x": "Buzzvil presentó un motor publicitario de inteligencia artificial (AI) que muestra anuncios distintos según los intereses y la etapa de compra de cada usuario. Su rasgo distintivo es que, incluso dentro de una misma campaña de la misma marca, configura de forma diferente para cada usuario las recomendaciones de producto, los mensajes publicitarios y las formas de participación. Buzzvil anunció el día 13 que lanzó ‘Prism’, un motor de anuncios interactivos hiperpersonalizados, y que a partir de este mes lo aplicará a los anunciantes interesados."
-              },
-              {
-                "t": "p",
-                "x": "Su tecnología central es ‘Composer’, un sistema de creación de contenido con AI desarrollado internamente. Composer analiza los productos de interés y el contexto del usuario para encontrar el mensaje publicitario adecuado y, mediante un modelo de lenguaje grande (LLM), genera creatividades participativas como recomendaciones conversacionales o diagnósticos de inquietudes."
-              },
-              {
-                "t": "p",
-                "x": "Si el anunciante aporta imágenes de marca e información de producto, puede crear más de 1000 creatividades personalizadas en una sola campaña sin un proceso de producción aparte. Las creatividades generadas solo se emiten si cumplen los criterios tras una revisión de palabras prohibidas y de hechos, y una evaluación de calidad con AI. Prism también analiza la respuesta de los usuarios para aumentar la exposición de las combinaciones de mayor rendimiento."
-              },
-              {
-                "t": "p",
-                "x": "En una campaña de anuncios interactivos que Buzzvil realizó con una marca de belleza, las creatividades basadas en reseñas de producto lograron una tasa de conversión de compra tras el clic 3 veces mayor que las creatividades de catálogo existentes. La tasa de conversión de añadir al carrito fue 7 veces mayor, y la mediana del tiempo entre el clic en el anuncio y la compra fue un 57% más corta."
-              },
-              {
-                "t": "p",
-                "x": "El CEO de Buzzvil, Lee Kwan-woo, afirmó: “Convertiremos la publicidad, de un mensaje unidireccional, en una experiencia de intercambio con cada uno de los usuarios”."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "ppcland-agent-traffic-meta-openai",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Meta·OpenAI가\nAI 에이전트 트래픽 장악",
-      "body": "Muse가 59%, Comet이 3.6%였고 요청 85%는 상품·검색 페이지였다.",
-      "mini_headline": "AI 에이전트 트래픽, 두 회사가 장악",
-      "tool": "Marketing",
-      "source": "PPC Land",
-      "url": "https://ppc.land/ai-agent-traffic-is-now-a-two-company-town-meta-and-openai/",
-      "accent": "#eb367f",
-      "motif": "frame",
-      "full": {
-        "mode": "summary",
-        "blocks": [
           {
             "t": "img",
-            "src": "https://ppc.land/content/images/2026/11/human-security-agentic-traffic-october-2026-meta-openai-89-percent-muse-59-percent-two-storefronts-stream.jpg",
-            "cap": "HUMAN 조사에서 10월 AI 에이전트 요청의 89%는 Meta와 OpenAI가 보냈고 Muse 하나가 59%였다"
+            "src": "https://imgproxy.divecdn.com/haUn-5ilTQDnLIwRKhx8P3TUJdoPsoqnlE7lJw7nKNE/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waW50ZXJlc3RfaG9saWRheV9zZWFzb24yLnBuZw==.webp"
           },
           {
             "t": "p",
-            "x": "HUMAN Security가 2026년 11월 9일 내놓은 State of Agentic Traffic 벤치마크 2026년 10월호를 보면, HUMAN이 보호하는 사이트에 들어온 이달 에이전트 요청의 89%가 Meta와 OpenAI 몫이었다. Meta의 Muse 하나만 59%를 차지했다. 10월 전체 에이전트 트래픽은 9월의 2.6배, 8월의 약 여덟 배였다."
+            "x": "Pinterest Assistant의 새 연말 화면은 선물 아이디어, 시즌 장식 아이디어 등 트렌드 콘텐츠를 전체 화면으로 보여준다. 소개된 상품은 하나하나 쇼핑 가능한 Pin으로 이어진다."
+          },
+          {
+            "t": "img",
+            "src": "https://imgproxy.divecdn.com/7G4sbb1B6GoM4vkVQlIun10enr8FB4CgX0_YyCKKWBI/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waW50ZXJlc3RfaG9saWRheV9zZWFzb24zLnBuZw==.webp"
           },
           {
             "t": "p",
-            "x": "Meta는 2026년 9월 8일 US-only 개인 에이전트로 Muse를 출시했다. OpenAI는 상위 열 개 안에 ChatGPT Agent(15.9%), Codex Browser(8.8%), Codex Chrome 확장 프로그램(5.2%) 세 제품을 올려 합계 약 30%로 두 번째로 많았다. Anthropic의 Claude Chrome 확장 프로그램은 7%에서 3.5%로 반 토막 났다."
+            "x": "비교 기능은 Pinterest Assistant 사용자에게 검색어에 맞춘 상품 캐러셀을 리뷰, 가격, 재고 정보와 함께 띄운다. Compare는 모바일에선 Pinterest Assistant와 보드에서, U.S. 데스크톱에선 Close-up 버튼으로 쓸 수 있다."
+          },
+          {
+            "t": "img",
+            "src": "https://imgproxy.divecdn.com/66qCuxq8De9tphQQ5L3JBrfJ8slaTXDUMLd8EFzL9z4/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waW50ZXJlc3RfaG9saWRheV9zZWFzb240LnBuZw==.webp"
           },
           {
             "t": "p",
-            "x": "8월에는 41% 점유율로 에이전트 트래픽 선두였던 Perplexity의 Comet은 10월 3.6%로 내려앉았다. 보고서는 “소비자가 이미 쓰는 플랫폼에 내장된 에이전트로 옮겨 가면서 독립형 소비자 에이전트 브라우저는 힘을 잃고 있다”고 밝혔다."
-          },
-          {
-            "t": "p",
-            "x": "에이전트의 활동은 여전히 탐색에 쏠려 있다. HUMAN 집계로는 요청의 85%가 상품·검색 페이지로 향했고 결제·지불 단계까지 간 요청은 1.9%에 그쳤다. 다만 결제 단계 요청량은 전월보다 117% 늘었다. 보고서는 “에이전트는 아직 구매보다 탐색을 훨씬 많이 한다”며 “그러나 결제 단계에 이르는 에이전트 요청 수는 빠르게 늘고 있다”고 밝혔다. HUMAN의 11월호에는 Black Friday와 Cyber Monday 기간 에이전트 움직임이 담길 예정이다."
+            "x": "위시리스트 기능을 쓰면 원하는 상품 Pins를 모아 두고 가격 인하나 재입고 알림을 받을 수 있다. 지금은 U.S.와 캐나다에서 iOS 한정으로 테스트 중이다. Pinterest는 과거 참여 이력을 보고 인기 할인 상품을 개인 맞춤 목록으로 보여주는 Deal Boards도 내놓고 있다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Meta and OpenAI now drive\nmost AI agent traffic",
-          "body": "Muse sent 59% of October's AI agent requests and Comet only 3.6%, with 85% landing on product and search pages.",
-          "mini_headline": "Two firms own AI agent traffic",
+          "headline": "Pinterest's assistant adds\nholiday gift tools",
+          "body": "Pinterest updated its shopping chatbot with trending gift guides and added product comparison tools and wish lists.",
+          "mini_headline": "Pinterest adds\ngift tools",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Pinterest has added some new shopping features for the holidays, including trending gift guides within its Pinterest Assistant chatbot, product comparison tools and wishlists."
+              },
+              {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/11/human-security-agentic-traffic-october-2026-meta-openai-89-percent-muse-59-percent-two-storefronts-stream.jpg",
-                "cap": "Meta and OpenAI sent 89% of AI agent requests in October, with Muse alone at 59%, HUMAN finds"
+                "src": "https://imgproxy.divecdn.com/haUn-5ilTQDnLIwRKhx8P3TUJdoPsoqnlE7lJw7nKNE/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waW50ZXJlc3RfaG9saWRheV9zZWFzb24yLnBuZw==.webp"
               },
               {
                 "t": "p",
-                "x": "According to the October 2026 edition of HUMAN Security's State of Agentic Traffic benchmark, published on November 9, 2026, Meta and OpenAI accounted for 89% of agent requests during the month on the sites HUMAN protects, with Meta's Muse alone responsible for 59%. Total agentic traffic in October was 2.6 times its September level and roughly eight times its August level."
+                "x": "The new holiday experience in Pinterest Assistant offers full-screen trending content overviews for gift inspiration, seasonal decorating ideas and more. Each highlighted product connects to a shoppable Pin."
+              },
+              {
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/7G4sbb1B6GoM4vkVQlIun10enr8FB4CgX0_YyCKKWBI/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waW50ZXJlc3RfaG9saWRheV9zZWFzb24zLnBuZw==.webp"
               },
               {
                 "t": "p",
-                "x": "Meta launched Muse on September 8, 2026 as a US-only personal agent. OpenAI holds second place with three products in the top ten — ChatGPT Agent (15.9%), Codex Browser (8.8%) and the Codex Chrome extension (5.2%) — together about 30%. Anthropic's Claude Chrome extension halved from 7% to 3.5%."
+                "x": "A compare feature gives Pinterest Assistant users a carousel of products based on their queries, with reviews and information on price and availability. Compare is available through Pinterest Assistant and boards on mobile, and through the Close-up button for desktop users in the U.S."
+              },
+              {
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/66qCuxq8De9tphQQ5L3JBrfJ8slaTXDUMLd8EFzL9z4/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waW50ZXJlc3RfaG9saWRheV9zZWFzb240LnBuZw==.webp"
               },
               {
                 "t": "p",
-                "x": "Perplexity's Comet led agentic traffic with a 41% share in August; that fell to 3.6% in October. “Standalone consumer agentic browsers are fading, as consumers move to agents built into platforms they already use,” the report says."
-              },
-              {
-                "t": "p",
-                "x": "Agents still mostly research: 85% of requests went to product and search pages and 1.9% reached checkout and payment, though checkout volume grew 117% month over month, according to HUMAN. “Agents still browse far more than they buy,” the report says, “yet the number of agent requests reaching checkout is rising fast.” HUMAN's November edition will show how agents behaved over Black Friday and Cyber Monday."
+                "x": "Wishlists let shoppers list their ideal product Pins and get notified about price drops or restocks; they are in a limited iOS test across the U.S. and Canada. Pinterest is also rolling out Deal Boards, highlighting personalized lists of trending deals based on past engagement history."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Meta·OpenAI가\nAI 에이전트 트래픽 장악",
-          "body": "Muse가 59%, Comet이 3.6%였고 요청 85%는 상품·검색 페이지였다.",
-          "mini_headline": "AI 에이전트 트래픽, 두 회사가 장악",
+          "headline": "Pinterest 챗봇에\n연말 선물 도구 추가",
+          "body": "Pinterest가 챗봇에 선물 가이드를 넣고 비교 도구와 위시리스트를 더했다.",
+          "mini_headline": "Pinterest, 선물 도구 추가",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Pinterest가 연말을 앞두고 쇼핑 기능을 새로 내놨다. Pinterest Assistant 챗봇 안에 인기 선물 가이드, 상품 비교 도구, 위시리스트 등이 들어간다."
+              },
+              {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/11/human-security-agentic-traffic-october-2026-meta-openai-89-percent-muse-59-percent-two-storefronts-stream.jpg",
-                "cap": "HUMAN 조사에서 10월 AI 에이전트 요청의 89%는 Meta와 OpenAI가 보냈고 Muse 하나가 59%였다"
+                "src": "https://imgproxy.divecdn.com/haUn-5ilTQDnLIwRKhx8P3TUJdoPsoqnlE7lJw7nKNE/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waW50ZXJlc3RfaG9saWRheV9zZWFzb24yLnBuZw==.webp"
               },
               {
                 "t": "p",
-                "x": "HUMAN Security가 2026년 11월 9일 내놓은 State of Agentic Traffic 벤치마크 2026년 10월호를 보면, HUMAN이 보호하는 사이트에 들어온 이달 에이전트 요청의 89%가 Meta와 OpenAI 몫이었다. Meta의 Muse 하나만 59%를 차지했다. 10월 전체 에이전트 트래픽은 9월의 2.6배, 8월의 약 여덟 배였다."
+                "x": "Pinterest Assistant의 새 연말 화면은 선물 아이디어, 시즌 장식 아이디어 등 트렌드 콘텐츠를 전체 화면으로 보여준다. 소개된 상품은 하나하나 쇼핑 가능한 Pin으로 이어진다."
+              },
+              {
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/7G4sbb1B6GoM4vkVQlIun10enr8FB4CgX0_YyCKKWBI/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waW50ZXJlc3RfaG9saWRheV9zZWFzb24zLnBuZw==.webp"
               },
               {
                 "t": "p",
-                "x": "Meta는 2026년 9월 8일 US-only 개인 에이전트로 Muse를 출시했다. OpenAI는 상위 열 개 안에 ChatGPT Agent(15.9%), Codex Browser(8.8%), Codex Chrome 확장 프로그램(5.2%) 세 제품을 올려 합계 약 30%로 두 번째로 많았다. Anthropic의 Claude Chrome 확장 프로그램은 7%에서 3.5%로 반 토막 났다."
+                "x": "비교 기능은 Pinterest Assistant 사용자에게 검색어에 맞춘 상품 캐러셀을 리뷰, 가격, 재고 정보와 함께 띄운다. Compare는 모바일에선 Pinterest Assistant와 보드에서, U.S. 데스크톱에선 Close-up 버튼으로 쓸 수 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/66qCuxq8De9tphQQ5L3JBrfJ8slaTXDUMLd8EFzL9z4/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waW50ZXJlc3RfaG9saWRheV9zZWFzb240LnBuZw==.webp"
               },
               {
                 "t": "p",
-                "x": "8월에는 41% 점유율로 에이전트 트래픽 선두였던 Perplexity의 Comet은 10월 3.6%로 내려앉았다. 보고서는 “소비자가 이미 쓰는 플랫폼에 내장된 에이전트로 옮겨 가면서 독립형 소비자 에이전트 브라우저는 힘을 잃고 있다”고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "에이전트의 활동은 여전히 탐색에 쏠려 있다. HUMAN 집계로는 요청의 85%가 상품·검색 페이지로 향했고 결제·지불 단계까지 간 요청은 1.9%에 그쳤다. 다만 결제 단계 요청량은 전월보다 117% 늘었다. 보고서는 “에이전트는 아직 구매보다 탐색을 훨씬 많이 한다”며 “그러나 결제 단계에 이르는 에이전트 요청 수는 빠르게 늘고 있다”고 밝혔다. HUMAN의 11월호에는 Black Friday와 Cyber Monday 기간 에이전트 움직임이 담길 예정이다."
+                "x": "위시리스트 기능을 쓰면 원하는 상품 Pins를 모아 두고 가격 인하나 재입고 알림을 받을 수 있다. 지금은 U.S.와 캐나다에서 iOS 한정으로 테스트 중이다. Pinterest는 과거 참여 이력을 보고 인기 할인 상품을 개인 맞춤 목록으로 보여주는 Deal Boards도 내놓고 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "MetaとOpenAIが\nAIエージェント流入を席巻",
-          "body": "Museが要求の59%、Cometは3.6%を占め、85%は商品・検索ページ向けだ。",
-          "mini_headline": "AIエージェント流入は二社が独占",
+          "headline": "Pinterest、年末の\nギフト機能を追加",
+          "body": "Pinterestがチャットボットに人気ギフト案内や商品比較、ウィッシュリストを追加した。",
+          "mini_headline": "Pinterestがギフト機能を追加",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Pinterestは年末商戦に向けて、Pinterest Assistantチャットボット内のトレンドギフトガイド、商品比較ツール、ウィッシュリストなど新たなショッピング機能を追加した。"
+              },
+              {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/11/human-security-agentic-traffic-october-2026-meta-openai-89-percent-muse-59-percent-two-storefronts-stream.jpg",
-                "cap": "HUMANの調査では、10月のAIエージェント要求の89%をMetaとOpenAIが送り、Muse単独で59%を占めた"
+                "src": "https://imgproxy.divecdn.com/haUn-5ilTQDnLIwRKhx8P3TUJdoPsoqnlE7lJw7nKNE/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waW50ZXJlc3RfaG9saWRheV9zZWFzb24yLnBuZw==.webp"
               },
               {
                 "t": "p",
-                "x": "2026年11月9日に公表されたHUMAN SecurityのベンチマークState of Agentic Trafficの2026年10月版によると、HUMANが保護するサイトで同月のエージェント要求の89%をMetaとOpenAIが占め、MetaのMuseだけで59%に達した。10月のエージェント流入の総量は9月の2.6倍、8月の約八倍だった。"
+                "x": "Pinterest Assistantの新しいホリデー体験では、ギフトのアイデアや季節の飾り付けのアイデアなどを、全画面のトレンドコンテンツ概要として提供する。紹介される各商品は購入可能なPinにつながる。"
+              },
+              {
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/7G4sbb1B6GoM4vkVQlIun10enr8FB4CgX0_YyCKKWBI/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waW50ZXJlc3RfaG9saWRheV9zZWFzb24zLnBuZw==.webp"
               },
               {
                 "t": "p",
-                "x": "Metaは2026年9月8日、US-onlyのパーソナルエージェントとしてMuseを投入した。OpenAIは上位十位以内に三つの製品——ChatGPT Agent（15.9%）、Codex Browser（8.8%）、Codex Chrome拡張機能（5.2%）——を送り込み、計約30%で二番手につける。AnthropicのClaude Chrome拡張機能は7%から3.5%へ半減した。"
+                "x": "比較機能は、Pinterest Assistantのユーザーに、質問内容に基づく商品のカルーセルを、レビューや価格、在庫の情報とともに表示する。Compareはモバイルでは Pinterest Assistantとボードから、U.S.のデスクトップユーザーはClose-upボタンから利用できる。"
+              },
+              {
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/66qCuxq8De9tphQQ5L3JBrfJ8slaTXDUMLd8EFzL9z4/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waW50ZXJlc3RfaG9saWRheV9zZWFzb240LnBuZw==.webp"
               },
               {
                 "t": "p",
-                "x": "PerplexityのCometは8月に41%のシェアでエージェント流入の首位だったが、10月には3.6%に落ち込んだ。レポートは「消費者がすでに使っているプラットフォームに組み込まれたエージェントへ移行するなか、単体の消費者向けエージェントブラウザは勢いを失っている」と指摘する。"
-              },
-              {
-                "t": "p",
-                "x": "エージェントはなお主に下調べをしている。HUMANによると、要求の85%は商品ページと検索ページに向かい、チェックアウトと決済に到達したのは1.9%だったが、チェックアウトの量は前月比117%増えた。レポートは「エージェントは買うよりもはるかに多く閲覧している」としつつ、「チェックアウトに到達するエージェント要求の数は急速に増えている」と述べる。HUMANの11月版では、Black FridayとCyber Mondayにエージェントがどう動いたかが示される予定だ。"
+                "x": "ウィッシュリストでは、買い物客が理想の商品のPinsをリスト化し、値下げや再入荷の通知を受け取れる。現在、U.S.とカナダでiOS限定のテストが行われている。Pinterestはさらに、過去のエンゲージメント履歴に基づいてトレンドのお得情報を個別にまとめたDeal Boardsも展開している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Meta和OpenAI\n主导多数AI智能体流量",
-          "body": "Muse占AI智能体请求的59%，Comet仅3.6%，85%的请求流向商品和搜索页面。",
-          "mini_headline": "AI智能体流量由两家公司主导",
+          "headline": "Pinterest助手\n新增节日礼物工具",
+          "body": "Pinterest为购物聊天机器人加入热门礼物指南，并新增商品比较工具和心愿单。",
+          "mini_headline": "Pinterest新增礼物工具",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Pinterest为节日季新增了一些购物功能，包括Pinterest Assistant聊天机器人中的热门礼物指南、商品比较工具和心愿单。"
+              },
+              {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/11/human-security-agentic-traffic-october-2026-meta-openai-89-percent-muse-59-percent-two-storefronts-stream.jpg",
-                "cap": "HUMAN发现，10月AI智能体请求中89%来自Meta和OpenAI，仅Muse就占59%"
+                "src": "https://imgproxy.divecdn.com/haUn-5ilTQDnLIwRKhx8P3TUJdoPsoqnlE7lJw7nKNE/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waW50ZXJlc3RfaG9saWRheV9zZWFzb24yLnBuZw==.webp"
               },
               {
                 "t": "p",
-                "x": "根据HUMAN Security于2026年11月9日发布的State of Agentic Traffic基准报告2026年10月版，在HUMAN保护的网站上，Meta和OpenAI占当月智能体请求的89%，其中仅Meta的Muse就占59%。10月智能体流量总量是9月的2.6倍，约为8月的八倍。"
+                "x": "Pinterest Assistant中全新的节日体验提供全屏的热门内容概览，涵盖礼物灵感、季节性装饰创意等。每件重点展示的商品都链接到一个可购物的Pin。"
+              },
+              {
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/7G4sbb1B6GoM4vkVQlIun10enr8FB4CgX0_YyCKKWBI/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waW50ZXJlc3RfaG9saWRheV9zZWFzb24zLnBuZw==.webp"
               },
               {
                 "t": "p",
-                "x": "Meta于2026年9月8日推出Muse，作为US-only的个人智能体。OpenAI以三款跻身前十的产品位居第二——ChatGPT Agent（15.9%）、Codex Browser（8.8%）和Codex Chrome扩展（5.2%）——合计约30%。Anthropic的Claude Chrome扩展从7%减半至3.5%。"
+                "x": "比较功能会根据用户的提问，为Pinterest Assistant用户展示一组商品轮播，并附上评价以及价格和库存信息。移动端用户可通过Pinterest Assistant和图板使用Compare，U.S.的桌面端用户则可通过Close-up按钮使用。"
+              },
+              {
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/66qCuxq8De9tphQQ5L3JBrfJ8slaTXDUMLd8EFzL9z4/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waW50ZXJlc3RfaG9saWRheV9zZWFzb240LnBuZw==.webp"
               },
               {
                 "t": "p",
-                "x": "Perplexity的Comet在8月以41%的份额领跑智能体流量，10月则跌至3.6%。报告称：“随着消费者转向其已在使用的平台内置的智能体，独立的消费级智能体浏览器正在式微。”"
-              },
-              {
-                "t": "p",
-                "x": "智能体仍以调研为主：HUMAN称，85%的请求流向商品和搜索页面，1.9%到达结账和支付环节，不过结账量环比增长117%。报告称：“智能体浏览远多于购买，但到达结账环节的智能体请求数量正在快速上升。”HUMAN的11月版将展示智能体在Black Friday和Cyber Monday期间的表现。"
+                "x": "心愿单让购物者列出心仪商品的Pins，并在降价或补货时收到通知；该功能目前正在U.S.和加拿大进行有限的iOS测试。Pinterest还在推出Deal Boards，根据用户过往的互动记录，以个性化列表呈现热门优惠。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Meta y OpenAI ya concentran\nel grueso del tráfico de agentes",
-          "body": "Muse envió el 59% de las peticiones de agentes de IA y Comet solo el 3.6%; el 85% fue a páginas de producto y búsqueda.",
-          "mini_headline": "Dos empresas dominan el tráfico de agentes de AI",
+          "headline": "El asistente de Pinterest suma\nherramientas para regalos",
+          "body": "Pinterest actualizó su chatbot de compras con guías de regalos y añadió un comparador de productos y listas de deseos.",
+          "mini_headline": "Pinterest suma herramientas de regalo",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Pinterest añadió nuevas funciones de compra para las fiestas, entre ellas guías de regalos en tendencia dentro de su chatbot Pinterest Assistant, herramientas de comparación de productos y listas de deseos."
+              },
+              {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/11/human-security-agentic-traffic-october-2026-meta-openai-89-percent-muse-59-percent-two-storefronts-stream.jpg",
-                "cap": "Meta y OpenAI enviaron el 89% de las solicitudes de agentes de AI en octubre, y solo Muse el 59%, según HUMAN"
+                "src": "https://imgproxy.divecdn.com/haUn-5ilTQDnLIwRKhx8P3TUJdoPsoqnlE7lJw7nKNE/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waW50ZXJlc3RfaG9saWRheV9zZWFzb24yLnBuZw==.webp"
               },
               {
                 "t": "p",
-                "x": "Según la edición de octubre de 2026 del informe State of Agentic Traffic de HUMAN Security, publicado el 9 de noviembre de 2026, Meta y OpenAI representaron el 89% de las solicitudes de agentes del mes en los sitios que protege HUMAN, y solo Muse, de Meta, fue responsable del 59%. El tráfico total de agentes en octubre fue 2.6 veces el de septiembre y unas ocho veces el de agosto."
+                "x": "La nueva experiencia navideña de Pinterest Assistant ofrece resúmenes a pantalla completa de contenido en tendencia para inspirarse con regalos, ideas de decoración de temporada y más. Cada producto destacado enlaza a un Pin comprable."
+              },
+              {
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/7G4sbb1B6GoM4vkVQlIun10enr8FB4CgX0_YyCKKWBI/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waW50ZXJlc3RfaG9saWRheV9zZWFzb24zLnBuZw==.webp"
               },
               {
                 "t": "p",
-                "x": "Meta lanzó Muse el 8 de septiembre de 2026 como agente personal US-only. OpenAI ocupa el segundo puesto con tres productos entre los diez primeros —ChatGPT Agent (15.9%), Codex Browser (8.8%) y la extensión Codex Chrome (5.2%)—, que suman cerca del 30%. La extensión Claude Chrome de Anthropic se redujo a la mitad, del 7% al 3.5%."
+                "x": "Una función de comparación ofrece a los usuarios de Pinterest Assistant un carrusel de productos basado en sus consultas, con reseñas e información sobre precio y disponibilidad. Compare está disponible a través de Pinterest Assistant y los tableros en móvil, y mediante el botón Close-up para usuarios de escritorio en U.S."
+              },
+              {
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/66qCuxq8De9tphQQ5L3JBrfJ8slaTXDUMLd8EFzL9z4/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waW50ZXJlc3RfaG9saWRheV9zZWFzb240LnBuZw==.webp"
               },
               {
                 "t": "p",
-                "x": "Comet, de Perplexity, lideraba el tráfico de agentes con una cuota del 41% en agosto; en octubre cayó al 3.6%. “Los navegadores agénticos independientes para consumidores están perdiendo fuerza, a medida que los consumidores pasan a agentes integrados en plataformas que ya usan”, señala el informe."
-              },
-              {
-                "t": "p",
-                "x": "Los agentes siguen dedicándose sobre todo a investigar: el 85% de las solicitudes fue a páginas de producto y de búsqueda y el 1.9% llegó a la finalización de compra y el pago, aunque el volumen de finalización de compra creció un 117% mes a mes, según HUMAN. “Los agentes todavía navegan mucho más de lo que compran”, dice el informe, “pero el número de solicitudes de agentes que llegan a la finalización de compra crece rápidamente”. La edición de noviembre de HUMAN mostrará cómo se comportaron los agentes durante el Black Friday y el Cyber Monday."
+                "x": "Las listas de deseos permiten a los compradores reunir los Pins de sus productos ideales y recibir avisos de bajadas de precio o reposiciones; están en una prueba limitada en iOS en U.S. y Canadá. Pinterest también está lanzando Deal Boards, que destacan listas personalizadas de ofertas en tendencia según el historial de interacción."
               }
             ]
           }
@@ -1547,125 +1619,153 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Meta·OpenAI가\nAI 에이전트 트래픽 장악",
-          "body": "Muse가 59%, Comet이 3.6%였고 요청 85%는 상품·검색 페이지였다.",
-          "mini_headline": "AI 에이전트 트래픽, 두 회사가 장악",
+          "headline": "Pinterest 챗봇에\n연말 선물 도구 추가",
+          "body": "Pinterest가 챗봇에 선물 가이드를 넣고 비교 도구와 위시리스트를 더했다.",
+          "mini_headline": "Pinterest, 선물 도구 추가",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Pinterest가 연말을 맞아 새로운 쇼핑 기능을 추가했다. Pinterest Assistant 챗봇 안의 인기 선물 가이드, 상품 비교 도구, 위시리스트 등이다."
+              },
+              {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/11/human-security-agentic-traffic-october-2026-meta-openai-89-percent-muse-59-percent-two-storefronts-stream.jpg",
-                "cap": "HUMAN 조사 결과, 10월 AI 에이전트 요청의 89%를 Meta와 OpenAI가 보냈고 Muse 하나가 59%였다"
+                "src": "https://imgproxy.divecdn.com/haUn-5ilTQDnLIwRKhx8P3TUJdoPsoqnlE7lJw7nKNE/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waW50ZXJlc3RfaG9saWRheV9zZWFzb24yLnBuZw==.webp"
               },
               {
                 "t": "p",
-                "x": "2026년 11월 9일 발표된 HUMAN Security의 State of Agentic Traffic 벤치마크 2026년 10월호에 따르면, HUMAN이 보호하는 사이트에서 이달 에이전트 요청의 89%를 Meta와 OpenAI가 차지했고 Meta의 Muse 하나가 59%를 차지했다. 10월 전체 에이전트 트래픽은 9월의 2.6배, 8월의 약 여덟 배였다."
+                "x": "Pinterest Assistant의 새 연말 경험은 선물 아이디어, 시즌 장식 아이디어 등을 담은 전체 화면 트렌드 콘텐츠 개요를 제공한다. 소개된 각 상품은 쇼핑 가능한 Pin으로 연결된다."
+              },
+              {
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/7G4sbb1B6GoM4vkVQlIun10enr8FB4CgX0_YyCKKWBI/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waW50ZXJlc3RfaG9saWRheV9zZWFzb24zLnBuZw==.webp"
               },
               {
                 "t": "p",
-                "x": "Meta는 2026년 9월 8일 US-only 개인 에이전트로 Muse를 출시했다. OpenAI는 상위 열 개 안에 세 제품 — ChatGPT Agent(15.9%), Codex Browser(8.8%), Codex Chrome 확장 프로그램(5.2%) — 을 올려 합계 약 30%로 두 번째다. Anthropic의 Claude Chrome 확장 프로그램은 7%에서 3.5%로 반 토막 났다."
+                "x": "비교 기능은 Pinterest Assistant 사용자에게 검색어에 맞춘 상품 캐러셀을 리뷰, 가격, 재고 정보와 함께 보여준다. Compare는 모바일에서는 Pinterest Assistant와 보드를 통해, U.S. 데스크톱 사용자는 Close-up 버튼을 통해 쓸 수 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/66qCuxq8De9tphQQ5L3JBrfJ8slaTXDUMLd8EFzL9z4/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waW50ZXJlc3RfaG9saWRheV9zZWFzb240LnBuZw==.webp"
               },
               {
                 "t": "p",
-                "x": "Perplexity의 Comet은 8월 41% 점유율로 에이전트 트래픽 선두였지만 10월에는 3.6%로 떨어졌다. 보고서는 “소비자가 이미 쓰는 플랫폼에 내장된 에이전트로 옮겨 가면서 독립형 소비자 에이전트 브라우저는 힘을 잃고 있다”고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "에이전트는 여전히 주로 탐색에 머문다. HUMAN에 따르면 요청의 85%가 상품·검색 페이지로 향했고 결제·지불 단계에 도달한 것은 1.9%였지만, 결제 단계 요청량은 전월 대비 117% 늘었다. 보고서는 “에이전트는 아직 구매보다 탐색을 훨씬 많이 한다”며 “그러나 결제 단계에 이르는 에이전트 요청 수는 빠르게 늘고 있다”고 밝혔다. HUMAN의 11월호는 Black Friday와 Cyber Monday 기간 에이전트의 움직임을 보여줄 예정이다."
+                "x": "위시리스트 기능으로 쇼핑객은 원하는 상품 Pins를 모아 두고 가격 인하나 재입고 알림을 받을 수 있으며, 현재 U.S.와 캐나다에서 iOS 한정 테스트 중이다. Pinterest는 과거 참여 이력을 바탕으로 인기 할인 상품을 개인화된 목록으로 보여주는 Deal Boards도 선보이고 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "MetaとOpenAIが\nAIエージェント流入を席巻",
-          "body": "Museが要求の59%、Cometは3.6%を占め、85%は商品・検索ページ向けだ。",
-          "mini_headline": "AIエージェント流入は二社が独占",
+          "headline": "Pinterest、年末の\nギフト機能を追加",
+          "body": "Pinterestがチャットボットに人気ギフト案内や商品比較、ウィッシュリストを追加した。",
+          "mini_headline": "Pinterestがギフト機能を追加",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Pinterestは年末商戦に向けて、Pinterest Assistantチャットボット内のトレンドギフトガイド、商品比較ツール、ウィッシュリストなど新たなショッピング機能を追加した。"
+              },
+              {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/11/human-security-agentic-traffic-october-2026-meta-openai-89-percent-muse-59-percent-two-storefronts-stream.jpg",
-                "cap": "HUMANの調査では、10月のAIエージェント要求の89%をMetaとOpenAIが送り、Muse単独で59%を占めた"
+                "src": "https://imgproxy.divecdn.com/haUn-5ilTQDnLIwRKhx8P3TUJdoPsoqnlE7lJw7nKNE/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waW50ZXJlc3RfaG9saWRheV9zZWFzb24yLnBuZw==.webp"
               },
               {
                 "t": "p",
-                "x": "2026年11月9日に公表されたHUMAN SecurityのベンチマークState of Agentic Trafficの2026年10月版によると、HUMANが保護するサイトで同月のエージェント要求の89%をMetaとOpenAIが占め、MetaのMuseだけで59%に達した。10月のエージェント流入の総量は9月の2.6倍、8月の約八倍だった。"
+                "x": "Pinterest Assistantの新しいホリデー体験では、ギフトのアイデアや季節の飾り付けのアイデアなどを、全画面のトレンドコンテンツ概要として提供する。紹介される各商品は購入可能なPinにつながる。"
+              },
+              {
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/7G4sbb1B6GoM4vkVQlIun10enr8FB4CgX0_YyCKKWBI/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waW50ZXJlc3RfaG9saWRheV9zZWFzb24zLnBuZw==.webp"
               },
               {
                 "t": "p",
-                "x": "Metaは2026年9月8日、US-onlyのパーソナルエージェントとしてMuseを投入した。OpenAIは上位十位以内に三つの製品——ChatGPT Agent（15.9%）、Codex Browser（8.8%）、Codex Chrome拡張機能（5.2%）——を送り込み、計約30%で二番手につける。AnthropicのClaude Chrome拡張機能は7%から3.5%へ半減した。"
+                "x": "比較機能は、Pinterest Assistantのユーザーに、質問内容に基づく商品のカルーセルを、レビューや価格、在庫の情報とともに表示する。Compareはモバイルでは Pinterest Assistantとボードから、U.S.のデスクトップユーザーはClose-upボタンから利用できる。"
+              },
+              {
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/66qCuxq8De9tphQQ5L3JBrfJ8slaTXDUMLd8EFzL9z4/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waW50ZXJlc3RfaG9saWRheV9zZWFzb240LnBuZw==.webp"
               },
               {
                 "t": "p",
-                "x": "PerplexityのCometは8月に41%のシェアでエージェント流入の首位だったが、10月には3.6%に落ち込んだ。レポートは「消費者がすでに使っているプラットフォームに組み込まれたエージェントへ移行するなか、単体の消費者向けエージェントブラウザは勢いを失っている」と指摘する。"
-              },
-              {
-                "t": "p",
-                "x": "エージェントはなお主に下調べをしている。HUMANによると、要求の85%は商品ページと検索ページに向かい、チェックアウトと決済に到達したのは1.9%だったが、チェックアウトの量は前月比117%増えた。レポートは「エージェントは買うよりもはるかに多く閲覧している」としつつ、「チェックアウトに到達するエージェント要求の数は急速に増えている」と述べる。HUMANの11月版では、Black FridayとCyber Mondayにエージェントがどう動いたかが示される予定だ。"
+                "x": "ウィッシュリストでは、買い物客が理想の商品のPinsをリスト化し、値下げや再入荷の通知を受け取れる。現在、U.S.とカナダでiOS限定のテストが行われている。Pinterestはさらに、過去のエンゲージメント履歴に基づいてトレンドのお得情報を個別にまとめたDeal Boardsも展開している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Meta和OpenAI\n主导多数AI智能体流量",
-          "body": "Muse占AI智能体请求的59%，Comet仅3.6%，85%的请求流向商品和搜索页面。",
-          "mini_headline": "AI智能体流量由两家公司主导",
+          "headline": "Pinterest助手\n新增节日礼物工具",
+          "body": "Pinterest为购物聊天机器人加入热门礼物指南，并新增商品比较工具和心愿单。",
+          "mini_headline": "Pinterest新增礼物工具",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Pinterest为节日季新增了一些购物功能，包括Pinterest Assistant聊天机器人中的热门礼物指南、商品比较工具和心愿单。"
+              },
+              {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/11/human-security-agentic-traffic-october-2026-meta-openai-89-percent-muse-59-percent-two-storefronts-stream.jpg",
-                "cap": "HUMAN发现，10月AI智能体请求中89%来自Meta和OpenAI，仅Muse就占59%"
+                "src": "https://imgproxy.divecdn.com/haUn-5ilTQDnLIwRKhx8P3TUJdoPsoqnlE7lJw7nKNE/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waW50ZXJlc3RfaG9saWRheV9zZWFzb24yLnBuZw==.webp"
               },
               {
                 "t": "p",
-                "x": "根据HUMAN Security于2026年11月9日发布的State of Agentic Traffic基准报告2026年10月版，在HUMAN保护的网站上，Meta和OpenAI占当月智能体请求的89%，其中仅Meta的Muse就占59%。10月智能体流量总量是9月的2.6倍，约为8月的八倍。"
+                "x": "Pinterest Assistant中全新的节日体验提供全屏的热门内容概览，涵盖礼物灵感、季节性装饰创意等。每件重点展示的商品都链接到一个可购物的Pin。"
+              },
+              {
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/7G4sbb1B6GoM4vkVQlIun10enr8FB4CgX0_YyCKKWBI/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waW50ZXJlc3RfaG9saWRheV9zZWFzb24zLnBuZw==.webp"
               },
               {
                 "t": "p",
-                "x": "Meta于2026年9月8日推出Muse，作为US-only的个人智能体。OpenAI以三款跻身前十的产品位居第二——ChatGPT Agent（15.9%）、Codex Browser（8.8%）和Codex Chrome扩展（5.2%）——合计约30%。Anthropic的Claude Chrome扩展从7%减半至3.5%。"
+                "x": "比较功能会根据用户的提问，为Pinterest Assistant用户展示一组商品轮播，并附上评价以及价格和库存信息。移动端用户可通过Pinterest Assistant和图板使用Compare，U.S.的桌面端用户则可通过Close-up按钮使用。"
+              },
+              {
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/66qCuxq8De9tphQQ5L3JBrfJ8slaTXDUMLd8EFzL9z4/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waW50ZXJlc3RfaG9saWRheV9zZWFzb240LnBuZw==.webp"
               },
               {
                 "t": "p",
-                "x": "Perplexity的Comet在8月以41%的份额领跑智能体流量，10月则跌至3.6%。报告称：“随着消费者转向其已在使用的平台内置的智能体，独立的消费级智能体浏览器正在式微。”"
-              },
-              {
-                "t": "p",
-                "x": "智能体仍以调研为主：HUMAN称，85%的请求流向商品和搜索页面，1.9%到达结账和支付环节，不过结账量环比增长117%。报告称：“智能体浏览远多于购买，但到达结账环节的智能体请求数量正在快速上升。”HUMAN的11月版将展示智能体在Black Friday和Cyber Monday期间的表现。"
+                "x": "心愿单让购物者列出心仪商品的Pins，并在降价或补货时收到通知；该功能目前正在U.S.和加拿大进行有限的iOS测试。Pinterest还在推出Deal Boards，根据用户过往的互动记录，以个性化列表呈现热门优惠。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Meta y OpenAI ya concentran\nel grueso del tráfico de agentes",
-          "body": "Muse envió el 59% de las peticiones de agentes de IA y Comet solo el 3.6%; el 85% fue a páginas de producto y búsqueda.",
-          "mini_headline": "Dos empresas dominan el tráfico de agentes de AI",
+          "headline": "El asistente de Pinterest suma\nherramientas para regalos",
+          "body": "Pinterest actualizó su chatbot de compras con guías de regalos y añadió un comparador de productos y listas de deseos.",
+          "mini_headline": "Pinterest suma herramientas de regalo",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Pinterest añadió nuevas funciones de compra para las fiestas, entre ellas guías de regalos en tendencia dentro de su chatbot Pinterest Assistant, herramientas de comparación de productos y listas de deseos."
+              },
+              {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/11/human-security-agentic-traffic-october-2026-meta-openai-89-percent-muse-59-percent-two-storefronts-stream.jpg",
-                "cap": "Meta y OpenAI enviaron el 89% de las solicitudes de agentes de AI en octubre, y solo Muse el 59%, según HUMAN"
+                "src": "https://imgproxy.divecdn.com/haUn-5ilTQDnLIwRKhx8P3TUJdoPsoqnlE7lJw7nKNE/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waW50ZXJlc3RfaG9saWRheV9zZWFzb24yLnBuZw==.webp"
               },
               {
                 "t": "p",
-                "x": "Según la edición de octubre de 2026 del informe State of Agentic Traffic de HUMAN Security, publicado el 9 de noviembre de 2026, Meta y OpenAI representaron el 89% de las solicitudes de agentes del mes en los sitios que protege HUMAN, y solo Muse, de Meta, fue responsable del 59%. El tráfico total de agentes en octubre fue 2.6 veces el de septiembre y unas ocho veces el de agosto."
+                "x": "La nueva experiencia navideña de Pinterest Assistant ofrece resúmenes a pantalla completa de contenido en tendencia para inspirarse con regalos, ideas de decoración de temporada y más. Cada producto destacado enlaza a un Pin comprable."
+              },
+              {
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/7G4sbb1B6GoM4vkVQlIun10enr8FB4CgX0_YyCKKWBI/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waW50ZXJlc3RfaG9saWRheV9zZWFzb24zLnBuZw==.webp"
               },
               {
                 "t": "p",
-                "x": "Meta lanzó Muse el 8 de septiembre de 2026 como agente personal US-only. OpenAI ocupa el segundo puesto con tres productos entre los diez primeros —ChatGPT Agent (15.9%), Codex Browser (8.8%) y la extensión Codex Chrome (5.2%)—, que suman cerca del 30%. La extensión Claude Chrome de Anthropic se redujo a la mitad, del 7% al 3.5%."
+                "x": "Una función de comparación ofrece a los usuarios de Pinterest Assistant un carrusel de productos basado en sus consultas, con reseñas e información sobre precio y disponibilidad. Compare está disponible a través de Pinterest Assistant y los tableros en móvil, y mediante el botón Close-up para usuarios de escritorio en U.S."
+              },
+              {
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/66qCuxq8De9tphQQ5L3JBrfJ8slaTXDUMLd8EFzL9z4/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waW50ZXJlc3RfaG9saWRheV9zZWFzb240LnBuZw==.webp"
               },
               {
                 "t": "p",
-                "x": "Comet, de Perplexity, lideraba el tráfico de agentes con una cuota del 41% en agosto; en octubre cayó al 3.6%. “Los navegadores agénticos independientes para consumidores están perdiendo fuerza, a medida que los consumidores pasan a agentes integrados en plataformas que ya usan”, señala el informe."
-              },
-              {
-                "t": "p",
-                "x": "Los agentes siguen dedicándose sobre todo a investigar: el 85% de las solicitudes fue a páginas de producto y de búsqueda y el 1.9% llegó a la finalización de compra y el pago, aunque el volumen de finalización de compra creció un 117% mes a mes, según HUMAN. “Los agentes todavía navegan mucho más de lo que compran”, dice el informe, “pero el número de solicitudes de agentes que llegan a la finalización de compra crece rápidamente”. La edición de noviembre de HUMAN mostrará cómo se comportaron los agentes durante el Black Friday y el Cyber Monday."
+                "x": "Las listas de deseos permiten a los compradores reunir los Pins de sus productos ideales y recibir avisos de bajadas de precio o reposiciones; están en una prueba limitada en iOS en U.S. y Canadá. Pinterest también está lanzando Deal Boards, que destacan listas personalizadas de ofertas en tendencia según el historial de interacción."
               }
             ]
           }

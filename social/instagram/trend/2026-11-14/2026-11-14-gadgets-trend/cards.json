@@ -1,0 +1,113 @@
+{
+  "meta": {
+    "issue": "AI 비서, 남의 화면에 서다",
+    "date": "2026.11.14",
+    "section": "GADGETS",
+    "accent": "#ff5a4d",
+    "note": "원문 4건 대조: 날짜를 원문 게재일로 고침(MacRumors 11.10→11.09, Android Authority 11.14→11.11, Engadget 11.12→11.11, Notebookcheck 11.13→11.11). Muse 입력 방식(문자·받아쓰기·통화), Wear OS는 폰에서 돌고 시계는 승인·확인용, Gemini는 Maps 경유→CarPlay 앱·iPhone 앱과 대화 동기화, Adobe는 12월 Insider 미리보기 확인. 사진은 Muse Apple Watch 한 장만, 나머지는 quote·stat.",
+    "sources": [
+      "MacRumors — Meta's Muse AI Agent Comes to Apple Watch (2026.11.09)",
+      "Android Authority — Your Wear OS watch can now run Meta's Muse AI agent (2026.11.11)",
+      "Engadget — Google brings the Gemini app to Apple CarPlay (2026.11.11)",
+      "Notebookcheck — Windows 11 Photos is getting Adobe's generative AI tools in December (2026.11.11)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 가젯 · 11.09~11.11",
+      "thread": [
+        {
+          "d": "11.09",
+          "t": "애플워치",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        },
+        {
+          "d": "11.11",
+          "t": "웨어OS",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        },
+        {
+          "d": "11.11",
+          "t": "카플레이",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        },
+        {
+          "d": "11.11",
+          "t": "윈도사진",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        }
+      ],
+      "thread_note": "AI 비서가 경쟁사 기기 화면 안으로 들어간다",
+      "eyebrow": "흐름 · 가젯",
+      "headline": "AI 비서,\n남의 화면에 서다",
+      "body": "한 건씩은 앱 소식이다. 사흘 새 Meta는 남의 시계로, Google은 Apple 차로, Adobe는 Windows로 갔다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.11.09",
+      "headline": "Meta Muse,\nApple Watch로",
+      "body": "Meta가 iOS용 Muse 앱에 Apple Watch 지원을 넣었다. 손목에서 글·받아쓰기·전화로 에이전트를 부른다.",
+      "foot": "2026.11.09",
+      "_src": "https://www.macrumors.com/2026/11/09/meta-muse-apple-watch/",
+      "_id": "meta-muse-applewatch",
+      "media": "pipeline/media/meta-muse-applewatch.jpg"
+    },
+    {
+      "n": 3,
+      "kind": "quote",
+      "eyebrow": "2026.11.11",
+      "headline": "이번엔 Wear OS\n시계에도",
+      "body": "Muse가 Wear OS에도 왔다. 에이전트는 폰에서 돌고, 시계는 작업을 승인하고 진행을 보는 리모컨이다.",
+      "foot": "2026.11.11",
+      "_src": "https://www.androidauthority.com/meta-muse-ai-wear-os-3733785/",
+      "_id": "gadgets-meta-muse-wearos",
+      "quote": "손목 위에서\n쉬지 않고 일한다.",
+      "quote_by": "Muse 공식 X 계정 · Android Authority 인용"
+    },
+    {
+      "n": 4,
+      "kind": "stat",
+      "eyebrow": "2026.11.11",
+      "headline": "Gemini, CarPlay\n전용 앱으로",
+      "body": "Google Maps 안에서만 쓰던 Gemini를 이제 CarPlay 화면 아이콘으로 부른다. 대화는 iPhone 앱과 이어진다.",
+      "foot": "2026.11.11",
+      "_src": "https://www.engadget.com/2314093/google-brings-the-gemini-app-to-apple-carplay/",
+      "_id": "gemini-carplay-app",
+      "stat_top": "Google Maps 안에서",
+      "stat_arrow": "11월 11일부터",
+      "stat_bottom": "CarPlay 전용 앱",
+      "stat_strike": true
+    },
+    {
+      "n": 5,
+      "kind": "stat",
+      "eyebrow": "2026.11.11",
+      "headline": "Windows 사진 앱에\nAdobe AI",
+      "body": "Adobe 생성형 편집과 Express가 Windows 11 Photos에 들어간다. 글로 고치고, 지우고, 넓힌다.",
+      "foot": "2026.11.11",
+      "_src": "https://www.notebookcheck.net/Windows-11-Photos-is-getting-Adobe-s-generative-AI-tools-in-December.1447789.0.html",
+      "_id": "windows-photos-adobe-genai",
+      "stat_top": "Windows 11 Photos",
+      "stat_arrow": "Insider 미리보기",
+      "stat_bottom": "2026년 12월",
+      "stat_strike": false
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

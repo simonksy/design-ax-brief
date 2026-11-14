@@ -11364,6 +11364,163 @@
           "x": "两个系列将于2026年12月10日起在美国（U.S.）发售，Gentle Monster Intelligent Eyewear也将在韩国上市。在美国（U.S.），Warby Parker Intelligent Eyewear起价$395，Gentle Monster Intelligent Eyewear则视型号定价$449至$489。"
         }
       ]
+    },
+    "gadgets/perplexity-teammates-mac": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Perplexity-teammates-feature.jpg?resize=1200%2C720&ssl=1",
+          "cap": "Perplexity"
+        },
+        {
+          "t": "p",
+          "x": "Perplexity队友（teammates）是一组AI智能体，任务是接手你正在进行的工作。你无需一步步引导、手把手带着AI，只需把任务分配给队友智能体，它们就会在后台完成工作——无论是运营增长活动、在bug报告到来时分类处理、盯着各项指标，还是研究一个新市场。"
+        },
+        {
+          "t": "p",
+          "x": "它们会规划任务，必要时增加更多智能体，并在工作完成、报告备好时通知你。Perplexity上周在网页端推出了队友功能，如今终于登陆Mac应用。"
+        },
+        {
+          "t": "p",
+          "x": "Perplexity并不是第一家推出此类智能体的AI公司：Meta Muse和ChatGPT Dots也有类似功能，Grok Bot是另一个例子。这些智能体运行在各自的云计算实例上，即便你合上电脑也会继续工作；它们可以彼此沟通，为任务建立专用频道，也不需要持续监督。"
+        },
+        {
+          "t": "p",
+          "x": "该功能仅向Perplexity Max套餐用户开放，价格为每月200美元。"
+        }
+      ]
+    },
+    "gadgets/jeep-cherokee-claude-ecu": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "一位AI爱好者借助AI和一点电子布线技术，让自己那辆老旧的1994年Jeep Cherokee通过了加州尾气（雾霾）检测。这辆车龄32年的车只有一台原始的发动机电脑，但通过Arduino Nano板连接到笔记本电脑后，许多设置都能读取，最终还能控制。"
+        },
+        {
+          "t": "video",
+          "yt": "WPj3aQ-xxpI"
+        },
+        {
+          "t": "p",
+          "x": "视频记录了Muhammad Zulali的Jeep从连续未通过尾气检测，到调校并解决发动机排放问题的全过程。Claude提供指导，Codex编写了所需的全部代码。这辆Jeep在某些测试车速下NOx排放过高，每次复检要花将近100美元。最终方案用了一块3美元的微控制器，物料总成本不超过15美元。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/uWPfVwnAzVfG87r5UBkxc5.jpg",
+          "cap": "（图片来源：Muhammad Zulali）"
+        },
+        {
+          "t": "p",
+          "x": "Claude告诉他，这台发动机通过约7,800波特的Chrysler SCI总线通信，与普通串口相比电平是反相的；反相由接在Cherokee 6针诊断插头上的Arduino Nano处理。随后Claude在时速25英里和50英里的行驶中记录了发动机数据和故障码。这台ECU早了几个月出厂，不支持重刷，于是Codex将自定义代码注入附近的一块EEPROM并在其中运行。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/MEhj2kjie9xAZfBevnC5jT.jpg",
+          "cap": "（图片来源：Muhammad Zulali）"
+        },
+        {
+          "t": "p",
+          "x": "“大部分诊断工作是Claude做的，内存相关的工作几乎全由Codex完成，”Zulali说，“我只负责接线和开车。”该项目名为xj-scanner，以GPLv3许可证发布在GitHub上。"
+        }
+      ]
+    },
+    "gadgets/ces2027-innovation-awards-korea": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.etnews.com/news/article/2026/11/10/news-p.v1.20261110.5fdedf20293c4a21af1be6aa3526c5f6_P1.jpg",
+          "cap": "荣获CES 2027最高创新奖的全球首款透明无线电视“LG Signature OLED T”"
+        },
+        {
+          "t": "p",
+          "x": "韩国企业包揽了“CES 2027”最高创新奖的半数以上。不过，在机器人、人工智能（AI）半导体等关乎未来产业主导权的领域，最高奖被中国和美国收入囊中。"
+        },
+        {
+          "t": "p",
+          "x": "美国消费技术协会（CTA）于当地时间9日公布了CES 2027创新奖第一批获奖名单。今年参评作品约4000件，比上年增长10%，创历史新高。AI、数字健康、机器人三个领域占全部参评作品的25%。将第一批公布的38项最高创新奖按国家划分，韩国以24项（61%）居首，美国5项、中国4项紧随其后，德国、瑞典、加拿大、日本各获1项。"
+        },
+        {
+          "t": "p",
+          "x": "三星电子凭借“Galaxy Z Fold8”和“Fold8 Ultra”拿下移动设备类2项最高奖。LG电子凭借“Signature OLED T6”获得CTA今年与拍卖行佳士得新设的艺术科技类最高奖。Shuolz凭借2款AI鞋登上无障碍·长寿类和时尚科技类榜首，AIBiz（AI）等初创企业、中小企业和大学也获奖。"
+        },
+        {
+          "t": "p",
+          "x": "参评作品激增74%的机器人类最高奖由中国人形机器人企业Galbot的“ET1”摘得。美国虽然只获得5项，但NVIDIA凭借“Vera CPU”和“DLSS 5”拿下计算机硬件和游戏类最高奖，Qualcomm凭借XR平台获得XR类最高奖。"
+        },
+        {
+          "t": "img",
+          "src": "https://img.etnews.com/news/article/2026/11/11/news-t.v1.20261111.298baa5937ea4e60934770e35f71167a_P1.png",
+          "cap": "韩国、中国、美国“CES 2027”最高创新奖获奖名单（资料：CTA）"
+        },
+        {
+          "t": "p",
+          "x": "一位电子业界人士表示：“如果说韩国是在多个类别中均衡获奖，那么美国和中国则是握住了AI半导体和人形机器人等下一代产业的核心。”"
+        }
+      ]
+    },
+    "gadgets/alexa-photo-frame-review": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/Z4o6D9xUVqVPSaZ8NmqJX3.jpg",
+          "cap": "（图片来源：Future）"
+        },
+        {
+          "t": "p",
+          "x": "Tom's Guide评测结论：Amazon Alexa Photo Frame利用AI巧妙地整理你的海量照片，并有条理地呈现出来。不过，它最适合拥有Amazon Prime订阅的用户。"
+        },
+        {
+          "t": "p",
+          "x": "完成设置后，它最先显示的照片之一，是评测者已去世16年的父亲给松鼠喂食的黑白照片。要充分发挥它的作用，你需要订阅Alexa+（每月19美元）或Amazon Prime（每年149美元）。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/S67kv6Bww23UK4MwXUdanF.jpg",
+          "cap": "（图片来源：Future）"
+        },
+        {
+          "t": "p",
+          "x": "它会梳理你的整个照片库，再按一年中的时节、主题、物体和事件等标准调出照片。它只支持横屏模式，但会把竖拍照片并排显示。你还可以让Alexa“给我看猫和孩子的照片”，获得一段精选幻灯片；出现错误照片时，说一句“Alexa，那不是我女儿”，它就会修改照片集。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/2cTbvaaoUPYULcGiLFAkua.jpg",
+          "cap": "（图片来源：Future）"
+        },
+        {
+          "t": "p",
+          "x": "它还可以兼作Alexa+智能音箱，并能为照片附上简短的语音备注。在规格上，它不及229美元的Aura Aspen和179美元的Lexar Pexar等竞品，也无法播放视频——但没有哪款产品能像Amazon借助Alexa+那样，让整理全部照片变得如此轻松。售价为199.99美元。"
+        }
+      ]
+    },
+    "gadgets/gadgets-gemini-task-automation-galaxy": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.sammobile.com/wp-content/uploads/2026/07/Galaxy-Z-Fold-8-Ultra-Gemini-1200x675.jpg",
+          "cap": "Galaxy Z Fold 8 Ultra上的Gemini"
+        },
+        {
+          "t": "p",
+          "x": "Gemini每个月都在进化，性能不断提升，新功能和升级模型陆续推出。今年早些时候，Google在Galaxy S26系列发布时首次在Android上展示了Gemini的Task Automation功能。很快，该功能将在部分Galaxy手机和平板上支持数十款应用。"
+        },
+        {
+          "t": "p",
+          "x": "在Gemini Task Automation更大范围推出之前，Android Authority发现了一份将在Android手机和平板上兼容该功能的应用清单，按地区划分：澳大利亚、加拿大、欧洲、全球、印度、日本、韩国、UK和爱尔兰，以及US。全球类别包括Airbnb、Booking.com、eBay、Expedia、Microsoft Word、Excel、Outlook和Teams、Slack、Uber和Uber Eats；韩国类别包括11st、Catchtable、Gmarket、Kakao T、Korean Air、Naver Calendar和Yanolja。"
+        },
+        {
+          "t": "p",
+          "x": "该功能仅适用于2026年发布并运行Android 17（One UI 9.0或更新版本）的Galaxy S、Galaxy Tab S（FE型号除外）和Galaxy Z系列设备：Galaxy S26、S26+、S26 Ultra、S26 FE、Galaxy Tab S12+、Tab S12 Ultra、Galaxy Z Flip 8、Z Fold 8和Z Fold 8 Ultra。"
+        },
+        {
+          "t": "p",
+          "x": "借助该功能，用户可以点餐和订购生鲜、叫车、购物、预订活动门票和机票、预订餐厅或酒店、创建或编辑文档、发送消息等。据悉，它只适用于从Google Play Store下载的应用，并且很可能分阶段推出。"
+        },
+        {
+          "t": "video",
+          "yt": "6FbSIAKJ1rg"
+        }
+      ]
     }
   }
 }

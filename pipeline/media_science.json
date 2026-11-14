@@ -1,7 +1,31 @@
-{"date":"2026-11-14","section":"science","media":[
-{"id":"nature-ai-mechanic-astra","type":"image","src":"pipeline/media/nature-ai-mechanic-astra.jpg"},
-{"id":"deepmind-pardig-satweave","type":"video","src":"pipeline/media/deepmind-pardig-satweave.mp4","poster":"pipeline/media/deepmind-pardig-satweave.jpg"},
-{"id":"codex-collider-amplitudes","type":"image","src":"pipeline/media/codex-collider-amplitudes.jpg"},
-{"id":"tohoku-mlp-copilot-aluminum","type":"image","src":"pipeline/media/tohoku-mlp-copilot-aluminum.jpg"},
-{"id":"concept2brain-eeg-sim","type":"image","src":"pipeline/media/concept2brain-eeg-sim.jpg"}
-]}
+{
+  "date": "2026-11-15",
+  "section": "science",
+  "media": [
+    {
+      "id": "techxplore-alignment-faking-watched",
+      "type": "image",
+      "src": "pipeline/media/techxplore-alignment-faking-watched.jpg"
+    },
+    {
+      "id": "slac-lcls-laser-surrogate",
+      "type": "image",
+      "src": "pipeline/media/slac-lcls-laser-surrogate.jpg"
+    },
+    {
+      "id": "brookhaven-sphenix-jet-denoise",
+      "type": "image",
+      "src": "pipeline/media/brookhaven-sphenix-jet-denoise.jpg"
+    },
+    {
+      "id": "qodex-quantum-reservoir-pde",
+      "type": "image",
+      "src": "pipeline/media/qodex-quantum-reservoir-pde.png"
+    },
+    {
+      "id": "princeton-baby-language-ai",
+      "type": "image",
+      "src": "pipeline/media/princeton-baby-language-ai.jpg"
+    }
+  ]
+}

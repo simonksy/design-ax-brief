@@ -10671,6 +10671,127 @@
           "x": "EHT Collaboration负责人Laurent Loinard博士称，GenDIReCT“是一种优雅且完全独立的方法，复原了M87*多年来的光环结构，与EHT Collaboration已发表的结果高度一致”。Thyagarajan表示，这项技术还可用于改进医学成像和地震测绘。"
         }
       ]
+    },
+    "science/slac-lcls-laser-surrogate": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.sciencedaily.com/images/1920/noncollinear-sum-frequency-generation.webp",
+          "cap": "非共线和频产生（SFG）的艺术示意图：两束红外脉冲在χ²晶体中混合，产生三束输出脉冲。来源：Gregory Stewart, SLAC National Accelerator Laboratory"
+        },
+        {
+          "t": "p",
+          "x": "Stanford University、UCLA和SLAC National Accelerator Laboratory的科学家开发了一种深度学习模型，能以极短的时间复现二阶非线性光学（χ2过程）的传统模拟，并在多种激光脉冲形状下保持高精度。研究发表于Advanced Photonics。"
+        },
+        {
+          "t": "p",
+          "x": "在SLAC的LCLS-II，红外光先被转换为绿光，再转换为UV光；UV脉冲撞击阴极，释放出的电子产生X-ray脉冲。传统模拟采用split-step Fourier方法，该方法约占整个激光模拟总处理时间的95%。"
+        },
+        {
+          "t": "p",
+          "x": "团队构建了LSTM循环神经网络，并在非共线和频产生上进行测试：三个相互关联的光场在晶体内共同演化。该网络完全基于光的频率特性的压缩表示运行。"
+        },
+        {
+          "t": "p",
+          "x": "在GPUs上批量运行时，每次模拟的平均计算时间降至仅几毫秒。研究人员设想用模块化网络支撑数字孪生和自适应的实时激光控制。"
+        }
+      ]
+    },
+    "science/brookhaven-sphenix-jet-denoise": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/super-intelligence-met.jpg",
+          "cap": "重离子碰撞中喷注的产生与探测。来源：Brookhaven National Laboratory"
+        },
+        {
+          "t": "p",
+          "x": "Brookhaven National Laboratory的研究人员与Columbia University和University of Colorado Boulder的合作者一起，开发了一种生成式AI方法，可在模拟重离子碰撞中把粒子喷注信号与本底分离。"
+        },
+        {
+          "t": "p",
+          "x": "Brookhaven物理学家Yeonju Go说：“我们的AI方法学会把那幅图像拆成两部分。”这一“非配对、无监督”模型不需要信号与本底的配对样本，而是从模拟碰撞数据和理想喷注模拟中学习。Brookhaven计算机科学家Dmitrii Torbunov说：“无监督学习方法可以直接从数据中学到有用的概念和模式。”"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/super-intelligence-met-1.jpg",
+          "cap": "该框架如何训练，并用于把喷注信号与本底分离。来源：Brookhaven National Laboratory"
+        },
+        {
+          "t": "p",
+          "x": "在模拟的sPHENIX量能器数据上测试时，它重建喷注位置、能量和内部结构的精度高于传统本底扣除方法，较大喷注尤为明显。Go说：“我们当然希望把这个模型用在实验数据上。”该研究发表于Scientific Reports。"
+        }
+      ]
+    },
+    "science/qodex-quantum-reservoir-pde": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/11/image-85.png",
+          "cap": "QRN架构。"
+        },
+        {
+          "t": "p",
+          "x": "来自QodeX Quantum、University of South Carolina、Naval Surface Warfare Center Panama City Division、NVIDIA和RTX BBN的团队，在IBM Quantum Heron r3（ibm_boston）处理器上使用最多52个量子比特，在非结构化工程网格上实现了非线性偏微分方程（PDEs）的无梯度预测，详见一篇arXiv预印本。"
+        },
+        {
+          "t": "p",
+          "x": "为把复杂边界几何与电路拓扑解耦，作者将预训练的图神经网络自编码器与一个固定、未训练、分为记忆寄存器和读出寄存器的量子储备池结合。这一混合量子储备池网络（QRN）运行的电路长度最多达量子比特相干时间中位数的24倍。"
+        },
+        {
+          "t": "p",
+          "x": "在硬件上，它比经典潜在线性基线的预测误差降低21%至41%：在2D圆柱绕流（26个量子比特）上单步NRMSE降低33.2%，在Gray-Scott反应扩散（26和52个量子比特）上降低41.1%。在10步推演中，硬件噪声起到正则化作用，NRMSE为0.257，而无噪声CUDA-Q模拟为0.707。"
+        },
+        {
+          "t": "p",
+          "x": "代码已在GitHub开源；QodeX表示，这项研究还验证了其智能体量子工作流平台AlphaPsi的模块。"
+        }
+      ]
+    },
+    "science/princeton-baby-language-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://singularityhub.com/uploads/2026/11/baby-face.jpeg?auto=webp"
+        },
+        {
+          "t": "p",
+          "x": "这项不寻常的研究来自Princeton University，属于其First 1,000 Days项目。研究人员在八个家庭中安装摄像头和麦克风，记录孩子从出生到大约三岁期间周围的日常声音。随后，他们为每个孩子构建了一个AI学习者，让它随时间推移体验这个孩子所处的语音环境。"
+        },
+        {
+          "t": "p",
+          "x": "研究作者Uri Hasson说：“构建一个学习系统，给它孩子的真实经历，然后看它是否像孩子那样发展。”每个家庭有4到14台设备；团队为每个孩子提取了最多6,600小时的音频。"
+        },
+        {
+          "t": "p",
+          "x": "这个小模型由音频编码器和预测解码器组成，从一张白纸起步。Hadas Raviv说，仅靠接触“还不够”。解决办法是回放：受睡眠启发，在每个模拟日结束时重温最近语音的片段。"
+        },
+        {
+          "t": "p",
+          "x": "在八个孩子身上，模型在15个月内学会了约37个音素，并在两岁前开始识别单词，但速度差异很大。与婴儿不同，这个AI只从声音中学习。Hasson说：“目前的模型只是开始。”"
+        }
+      ]
+    },
+    "science/nature-ai-mechanic-astra": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.nature.com/lw767/magazine-assets/d41586-026-03679-8/d41586-026-03679-8_53974808.jpg",
+          "cap": "一些AI模型像机修工一样，修复其他模型中的问题，而这些模型既非它们设计，它们也并未完全理解。Credit: Mint Images/Getty"
+        },
+        {
+          "t": "p",
+          "x": "研究人员利用一个人工智能模型读取并调整另一个AI网络的内部运作，为窥探AI“黑箱”提供了新途径。麻省理工学院（MIT）团队展示了名为GPT-6 Astra的AI模型能够解读其他一些模型的原始内部数值，足以预测系统各部分的功能。它随后还能编辑这些模型加以改进，包括提升其数学能力。作者于11月2日以预印本形式报告了这些发现。"
+        },
+        {
+          "t": "p",
+          "x": "合著者Rikiya Takehi表示，前沿AI模型正“显露初步火花”，能够把神经网络当作可读取、推理和修改的文件来处理。研究结果并不意味着OpenAI开发的Astra能够解释或理解某个AI网络如何运作，但表明通用模型或许能以有用的方式修改网络，就像机修工修理一台既非自己设计、也未完全理解的引擎。"
+        },
+        {
+          "t": "p",
+          "x": "牛津大学的Fazl Barez表示，该预印本表明部分“可解释性”方法可以自动化，但借此实现更安全AI的希望“基本未经检验”。哈佛大学的Marinka Zitnik表示，这类重新编程有助于在实际测试之前发现模型中的错误。"
+        }
+      ]
     }
   }
 }

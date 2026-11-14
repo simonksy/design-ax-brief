@@ -4667,6 +4667,156 @@
           "x": "此次版本还让Editor可以编辑账号级的新客户获取与留存设置，新增了渠道优先级和预算上限，并移除了在Shopping广告系列中关闭本地商品目录广告的选项。"
         }
       ]
+    },
+    "marketing/amazon-dva-plus-20-product-cap": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/size/w2000/2026/11/amazon-dva-plus-campaign-guide-20-product-cap-automated-steering-wheel-dashboard.jpg",
+          "cap": "Amazon将自动DVA+活动限定为20件商品，KPI变更时会重置学习"
+        },
+        {
+          "t": "p",
+          "x": "2026年11月13日更新的Support Center指南《Create a DVA+ campaign》介绍了创建Display, Video, and Audio活动的三种方式：自动化DVA+流程、名为DVA+ advanced的单表单工作区，以及旧版模式。Amazon于2026年9月29日推出DVA+，取代了Amazon DSP这一名称。"
+        },
+        {
+          "t": "p",
+          "x": "自动化流程每个活动最多接受20件商品，会根据账户资格调用七个目标，并在默认开启优化的情况下，在展示广告、在线视频和流媒体TV上投放广告。页面写道：“DVA+提供AI工具来生成缺失的广告格式。”定向是自动的；位置定向仅适用于off-Amazon目标。"
+        },
+        {
+          "t": "p",
+          "x": "关于DVA+ advanced，指南警告：“你可以在上线后更改KPI，但这会重置活动的效果学习，并可能影响优化。”如果未设置频次上限，则会应用默认值；推荐的广告组来自Brand+和Performance+策略。"
+        },
+        {
+          "t": "p",
+          "x": "对于点击Launch后活动是否会上线，该指南给出了相互矛盾的说明，也没有说明商品变体如何计入20件商品的上限。"
+        }
+      ]
+    },
+    "marketing/marketing-ai-audience-insights-risk": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/LTJRYpnpPQcEoQaFeo8Ixe1iH_zUGaGGD_6wnRWkUE4/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTkzNzY0OTQzLmpwZw==.webp",
+          "cap": "尽管AI一直被誉为节省成本的工具，但27%的受访者曾因AI输出错误而蒙受经济损失。"
+        },
+        {
+          "t": "p",
+          "x": "GWI的一项调查显示，近90%的行业资深人士每天使用AI，但80%表示经常遇到不准确或具有误导性的AI分析结果。报告《Artificial Confidence: The AI Trust Gap》收集了来自U.K.、U.S.和新加坡的1,883名资深洞察、代理商及营销专业人士的回复。"
+        },
+        {
+          "t": "p",
+          "x": "只有36%的人“大多数时候”会核实AI洞察，63%的人曾不小心使用后来才发现已过时的洞察。76%认为AI可能强化过时的假设，近70%曾见过AI未能准确反映目标受众——然而81%对使用AI进行受众画像和细分感到有信心。"
+        },
+        {
+          "t": "p",
+          "x": "超过一半的高级决策者曾依据后来被证明错误或具误导性的AI洞察做出重大业务决策。82%的营销领导者至少经历过一种不利后果，最常见的是内部返工（38%）、决策延迟（36%）和客户投诉（34%）；21%遭遇了营销活动效果下滑。"
+        },
+        {
+          "t": "p",
+          "x": "GWI首席洞察官Jason Mander表示：“企业还没有建立起面对一种新型技术时本应具备的那种严格框架。”"
+        }
+      ]
+    },
+    "marketing/salesforce-ai-first-holiday-survey": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/824_1126_T08_The-AI-First-Holiday-Shoppers-Let-Agents-Do-the-Legwork-Not-the-Paying_a_v1_110926.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Salesforce的一项调查显示，节日购物者正在用AI智能体做调研、获取建议——近20%的购物者表示，AI是他们去商店前的第一站——但大多数人还没准备好让AI点击Buy Now。"
+        },
+        {
+          "t": "p",
+          "x": "Salesforce研究预计，AI将带动$75.8B 的Cyber Week消费，比2025年增长13%；来自AI工具的电商网站流量同比增长104%。在针对U.S.、U.K.、加拿大和澳大利亚2,500多名购物者的调查中，74%信任AI的推荐，30%的AI购物者表示这些工具经常让他们发现原本不知道的品牌，11%表示如果AI助手建议不买，他们就会放弃购买。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/image_b49a8d.jpeg?w=1024",
+          "cap": "个人智能体承担的主要购物任务"
+        },
+        {
+          "t": "p",
+          "x": "购物者把个人智能体当作顾问而非买手，还不太愿意让智能体替他们结账。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/image1.jpg?w=1024",
+          "cap": "使用个人智能体购物的主要障碍"
+        },
+        {
+          "t": "p",
+          "x": "拥有自有购物智能体的零售商订单金额更高，但AI助手出错2-3次后，购物者就会弃用。Salesforce的Head of Agentic Commerce Shopper Insights Caila Schwartz表示：“要成为AI能找到、人类能信任的品牌。”"
+        },
+        {
+          "t": "img",
+          "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/image_0d40fe.jpeg?w=1024",
+          "cap": "AI助手出错2-3次后，购物者就会弃用。"
+        }
+      ]
+    },
+    "marketing/pinterest-holiday-gift-assistant": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Pinterest为节日季新增了一些购物功能，包括Pinterest Assistant聊天机器人中的热门礼物指南、商品比较工具和心愿单。"
+        },
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/haUn-5ilTQDnLIwRKhx8P3TUJdoPsoqnlE7lJw7nKNE/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waW50ZXJlc3RfaG9saWRheV9zZWFzb24yLnBuZw==.webp"
+        },
+        {
+          "t": "p",
+          "x": "Pinterest Assistant中全新的节日体验提供全屏的热门内容概览，涵盖礼物灵感、季节性装饰创意等。每件重点展示的商品都链接到一个可购物的Pin。"
+        },
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/7G4sbb1B6GoM4vkVQlIun10enr8FB4CgX0_YyCKKWBI/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waW50ZXJlc3RfaG9saWRheV9zZWFzb24zLnBuZw==.webp"
+        },
+        {
+          "t": "p",
+          "x": "比较功能会根据用户的提问，为Pinterest Assistant用户展示一组商品轮播，并附上评价以及价格和库存信息。移动端用户可通过Pinterest Assistant和图板使用Compare，U.S.的桌面端用户则可通过Close-up按钮使用。"
+        },
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/66qCuxq8De9tphQQ5L3JBrfJ8slaTXDUMLd8EFzL9z4/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waW50ZXJlc3RfaG9saWRheV9zZWFzb240LnBuZw==.webp"
+        },
+        {
+          "t": "p",
+          "x": "心愿单让购物者列出心仪商品的Pins，并在降价或补货时收到通知；该功能目前正在U.S.和加拿大进行有限的iOS测试。Pinterest还在推出Deal Boards，根据用户过往的互动记录，以个性化列表呈现热门优惠。"
+        }
+      ]
+    },
+    "marketing/chatgpt-wallet-dots-checkout": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI今年早些时候推出Dots AI智能体平台后，又为这些智能体推出钱包。ChatGPT Wallet自今天起，面向美国（US）年满18岁、使用US账单地址及“符合条件的US-issued American Express、Chase、Mastercard和Visa卡”的ChatGPT Pro订阅用户逐步开放。"
+        },
+        {
+          "t": "p",
+          "x": "将卡片添加到钱包后，Dots智能体即可根据你的提示用它购物，但每次结账前都会先向你确认。OpenAI支持页面称，通过ChatGPT Wallet进行的每笔购买都需要通过Face ID或指纹扫描等生物识别验证完成安全检查。"
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/openai-chatgpt-wallet-approval-pop-up.jpeg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+          "cap": "ChatGPT Wallet的每笔购买都须经用户批准。"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI表示，在你审核并批准AI智能体的购买后，它会像拍卡支付、Apple Pay或Google Wallet一样，用支付令牌替代你的信用卡信息，因此你的真实卡片信息不会分享给Dots智能体或你购买的商家。OpenAI称，最终它预计“用户能够通过设定支出上限、购买类别或时间段等明确参数，将购买完全委托给智能体，并预先批准这些购买”。"
+        },
+        {
+          "t": "p",
+          "x": "ChatGPT Wallet未必在所有地方都能使用。一些零售商限制甚至完全屏蔽AI智能体。今年早些时候，Amazon屏蔽了Meta的Muse智能体。OpenAI表示，要让智能体使用ChatGPT Wallet，“网站需要确保智能体不会被误拦，支付和风控系统也需要识别智能体发起的合法购买”。"
+        }
+      ]
     }
   }
 }

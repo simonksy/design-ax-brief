@@ -1,101 +1,168 @@
 {
-  "date": "2026-11-14",
+  "date": "2026-11-15",
   "section": "design",
   "items": [
     {
-      "tool": "Text-to-CAD",
-      "category": "cad",
-      "accent": "#7928ca",
-      "motif": "cube",
-      "title": "New AI 'copilot' helps engineers design better structures",
-      "url": "https://news.mit.edu/2026/new-ai-copilot-helps-engineers-design-better-structures-1113",
-      "source": "MIT News",
-      "published_iso": "2026-11-13T05:00:00Z",
-      "og_image": "https://news.mit.edu/sites/default/files/images/202611/MIT-ai-design-01-press.jpg",
-      "excerpt": "MIT researchers built a generative-design copilot that pauses mid-generation to ask the human designer for feedback on regions of a structure, yielding more manufacturable parts with higher buckling loads.",
-      "rationale": "A new human-in-the-loop generative-design method with measured gains (manufacturability, buckling load). The brief assigns this story to design only."
-    },
-    {
-      "tool": "KeyShot",
-      "category": "render",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "title": "Meet your new AI Agent, plus personal cloud storage, enterprise SSO and easier variations in KeyShot Studio 2026.3",
-      "url": "https://www.keyshot.com/blog/keyshot-introduces-single-sign-on-ai-agent-and-more/",
-      "source": "KeyShot",
-      "published_iso": "2026-11-12T15:47:19+00:00",
-      "og_image": "https://www.keyshot.com/wp-content/uploads/2026/11/KS_2026-3_NEW-HEADER.jpg",
-      "excerpt": "KeyShot Studio 2026.3 puts an AI Agent directly inside the product-rendering app, alongside personal cloud storage, easier part variations, studio groups and enterprise SSO/MFA.",
-      "rationale": "Primary-source release that puts an AI agent inside a core product-rendering tool. Product and industrial designers can use it right away."
-    },
-    {
-      "tool": "Figma",
+      "title": "How 3D Transforms and Figma's Agent Brought a Launch Video to Life",
+      "url": "https://www.figma.com/blog/how-3d-transforms-and-figmas-agent-brought-a-launch-video-to-life/",
+      "source": "Figma",
       "category": "figma",
+      "tool": "Figma",
       "accent": "#0070f3",
       "motif": "frame",
-      "title": "A2UI 1.0: Build delightful, fast, reliable, agentic experiences",
-      "url": "https://developers.googleblog.com/a2ui-10-build-delightful-fast-reliable-agentic-experiences/",
-      "source": "Google Developers Blog",
-      "published_iso": "2026-11-11T00:00:00Z",
-      "og_image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Gemini_Generated_Image_iu9r44iu9r.2e16d0ba.fill-1200x600.jpg",
-      "excerpt": "Google ships A2UI 1.0, its generative-UI protocol that lets agents answer with interactive interface components instead of walls of text, moving agent interactions out of the 'terminal era'.",
-      "rationale": "The 1.0 stable release of Google's generative-UI protocol, which defines how agents render interface components. This directly affects how designers spec agent UIs."
+      "published_iso": "2026-11-12T14:00:00Z",
+      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/53964310f42e5cb65e0c17606f8ec8aa96448a7e-960x540.png?w=1200&q=70&fit=max&auto=format",
+      "excerpt": "Figma's new 3D transforms (open beta for Full seats, Nov 12) let designers tilt, rotate and arrange text, images, vectors and frames in space non-destructively; the Brand Studio team used the Figma agent to repeat type along the Z axis, build type-covered geometry and generate a grid/helix/ring layout plugin for the launch video.",
+      "rationale": "Primary-source launch of 3D transforms (open beta) plus concrete Figma-agent recipes designers can reuse tomorrow."
     },
     {
-      "tool": "KeyShot",
+      "title": "A smart organizer for your Luma canvas",
+      "url": "https://lumalabs.ai/news/ai-board-manager",
+      "source": "Luma AI",
       "category": "render",
-      "accent": "#eb367f",
+      "tool": "KeyShot",
+      "accent": "#f5a623",
       "motif": "sphere",
-      "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
-      "url": "https://huggingface.co/blog/3d-lora-finetuning",
-      "source": "Hugging Face",
-      "published_iso": "2026-11-12T00:00:00.770Z",
-      "og_image": "https://huggingface.co/blog/assets/3d-lora-finetuning/thumbnail.gif",
-      "excerpt": "Hugging Face publishes scripts and containers to LoRA-fine-tune TRELLIS.2, a popular image-to-3D model, on your own 3D assets, covering geometry and material generation, HF Jobs and local Docker runs.",
-      "rationale": "Newly released tooling that lets 3D and product teams train an image-to-3D model on their own asset style. This is the second render card, so it gets a distinct accent."
+      "published_iso": "2026-11-14T00:49:00Z",
+      "og_image": "https://static.cdn-luma.com/files/sanity/80e8495c-1963-42bb-a5b2-a540f9baea19.jpg",
+      "excerpt": "The Luma agent can now organize a board, frame or selection of up to 10,000 assets, grouping and labeling work by product, concept, campaign or channel by reading what each asset is (reference vs generated variation, lineage to the brief); changes need approval and can be reversed.",
+      "rationale": "New agent feature that tackles asset sprawl in generative canvases, with approve/revert controls; freshest item in the pool."
     },
     {
-      "tool": "AI Workflow",
+      "title": "Anthropic's Claude for Manufacturing plugs AI directly into factory software to automate industrial workflows",
+      "url": "https://the-decoder.com/anthropics-claude-for-manufacturing-plugs-ai-directly-into-factory-software-to-automate-industrial-workflows/",
+      "source": "The Decoder",
+      "category": "cad",
+      "tool": "Text-to-CAD",
+      "accent": "#7928ca",
+      "motif": "cube",
+      "published_iso": "2026-11-13T16:37:01Z",
+      "og_image": "https://the-decoder.com/wp-content/uploads/2026/11/claude_for_manufactoring.png",
+      "excerpt": "Anthropic's new Claude for Manufacturing plugin connects Claude directly to Autodesk Fusion, Oracle NetSuite and Infor, with 17 specialized skills to draft quotes, compare suppliers and place orders.",
+      "rationale": "New Claude plugin with a direct Autodesk Fusion connection; a frontier-lab product move into the CAD-to-production workflow."
+    },
+    {
+      "title": "Research-In-The-Loop: How UXR Adapts to Development at AI Speed",
+      "url": "https://www.nngroup.com/articles/research-in-the-loop/",
+      "source": "Nielsen Norman Group",
       "category": "workflow",
+      "tool": "AI Workflow",
       "accent": "#ff5a4d",
       "motif": "frame",
-      "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
-      "source": "Google",
-      "published_iso": "2026-11-11T16:00:00Z",
-      "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/labs_tabletop_blog_image_2784x1566.max-1440x810.jpg",
-      "excerpt": "Google Labs' Tabletop lets groups describe a custom collaborative app (itineraries, polls, brackets) and an AI canvas builds it as a shared multiplayer space; waitlist open.",
-      "rationale": "A new Google Labs product where an AI canvas generates multiplayer collaborative mini-apps from a prompt. It is a new interaction pattern for prompt-to-app design."
+      "published_iso": "2026-11-13T18:00:00Z",
+      "og_image": "https://media.nngroup.com/media/articles/opengraph_images/Research-In-The-Loop__How_UXR_Adapts__to_Development_at__AI_Speed.png",
+      "excerpt": "As AI speeds up development, NN/g lays out how UX research can keep pace by defining what each release must measure and what it can help teams discover.",
+      "rationale": "Credible, actionable framework for keeping UX research in step with AI-speed release cycles."
+    },
+    {
+      "title": "Vercel's UI SDK Hands Agents Behaviors, Not Components",
+      "url": "https://dev.to/dishant0406/vercels-ui-sdk-hands-agents-behaviors-not-components-25n0",
+      "source": "DEV Community",
+      "category": "tokens",
+      "tool": "Design Tokens",
+      "accent": "#2ec5c5",
+      "motif": "swatch",
+      "published_iso": "2026-11-14T13:38:33Z",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Ffiles.catbox.moe%2Fnh6k1a.webp",
+      "excerpt": "Vercel Labs' UI SDK (built by shadcn, Apache-2.0, beta; @ui-sdk 0.1.0-beta.2 released Nov 13) ships 50+ accessible behaviors (createPopup, createSelection, createTypeahead) that coding agents compose into components across React, Vue, Svelte, Solid and Web Components. Secondary analysis; vendor primary source not found.",
+      "rationale": "New open-source release reshaping how design systems feed coding agents: accessible behaviors instead of fixed components."
     }
   ],
   "dedup": {
     "checks": {
-      "https://news.mit.edu/2026/new-ai-copilot-helps-engineers-design-better-structures-1113": {
+      "https://www.figma.com/blog/how-3d-transforms-and-figmas-agent-brought-a-launch-video-to-life/": {
         "verdict": "new",
-        "nearest": "https://aecmag.com/automation/ais-next-bottleneck-is-the-engineers-desk/",
-        "new_action": "Not the same story. The 10-23 AEC Magazine card is an opinion/analysis piece about AI's bottleneck at the engineer's desk, with no specific release or research. This pick is MIT's 11-13 announcement of a new research result: a human-in-the-loop generative-design copilot with measured manufacturability and buckling-load gains. The 0.153 overlap is generic vocabulary (AI, engineers, design), not a shared event."
-      },
-      "https://www.keyshot.com/blog/keyshot-introduces-single-sign-on-ai-agent-and-more/": {
-        "verdict": "new",
-        "nearest": "https://aecmag.com/visualisation/chaos-brings-ai-deeper-into-v-ray-collection/",
+        "nearest": "https://www.youtube.com/shorts/Vfh8hAEs7yk",
         "new_action": ""
       },
-      "https://developers.googleblog.com/a2ui-10-build-delightful-fast-reliable-agentic-experiences/": {
-        "verdict": "follow-up",
-        "nearest": "https://developers.googleblog.com/fast-reliable-a2ui/",
-        "new_action": "A2UI reaches its 1.0 stable release. The 10-28 card covered an earlier pre-1.0 update (swappable inference formats)."
-      },
-      "https://huggingface.co/blog/3d-lora-finetuning": {
+      "https://lumalabs.ai/news/ai-board-manager": {
         "verdict": "new",
-        "nearest": "https://www.figma.com/blog/training-a-figma-fluent-editing-model/",
+        "nearest": "",
         "new_action": ""
       },
-      "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/": {
+      "https://the-decoder.com/anthropics-claude-for-manufacturing-plugs-ai-directly-into-factory-software-to-automate-industrial-workflows/": {
         "verdict": "new",
-        "nearest": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
+        "nearest": "https://blogs.nvidia.com/blog/europe-industrial-leaders-engineering-manufacturing/",
+        "new_action": ""
+      },
+      "https://www.nngroup.com/articles/research-in-the-loop/": {
+        "verdict": "new",
+        "nearest": "https://www.nngroup.com/articles/ux-agentic-software-factories/",
+        "new_action": ""
+      },
+      "https://dev.to/dishant0406/vercels-ui-sdk-hands-agents-behaviors-not-components-25n0": {
+        "verdict": "new",
+        "nearest": "https://vercel.com/changelog/json-render-and-chat-sdk-agents",
         "new_action": ""
       }
     },
-    "note": "Excluded per curator_brief cross-section rules: Google intelligent-eyewear privacy (gadgets only) and The Verge Adobe MAX Sneaks (already ran in movies 11-13). Skipped on dedup or fit: Figma 3D transforms launch video (case study extending the 10-28 'Shaders and Motion with the Figma agent' story; the 11-13 curator also passed on it), UX Collective 'Every click has a price' (same topic as the 11-02 'How to design transparent AI cost controls'), the other two UX Collective opinion pieces (essays, low actionability), the Config India Copilot and Atlassian talks (same conference talk series as the 11-12 card, lower novelty), Gemini 4 Hydrogen (general model news, not design-specific), SimScale Blueprint (enterprise framework, low designer actionability), and the Creative Bloq AI video generator price roundup (evergreen). Diversity: 5 distinct domains (news.mit.edu, keyshot.com, developers.googleblog.com, huggingface.co, blog.google). Google, as a company, has 2 cards, within the cap. Categories: cad, render x2 (the second gets accent #eb367f), figma, workflow. Caveat: the curator had no grep tool, and published_urls.json (4.4k lines) was too large to scan in full, so the cross-section exact-URL check covers only the brief's assignment list. The orchestrator should exact-grep these 5 URLs plus 'A2UI', 'TRELLIS', 'KeyShot 2026.3' and 'Tabletop' across all sections before roll."
-  }
+    "note": "Nothing in the pool was a published-story duplicate. Five candidates were skipped for other reasons. Google 'Designing for privacy on intelligent eyewear' was assigned to gadgets in the brief. Runway Praxis-1 is robotics, not design, per the brief. UX Collective 'Every click has a price now' repeats the topic of the 11-02 uxdesign.cc piece 'How to design transparent AI cost controls'. Figma 'AI's Role in the Creative Process' is an opinion piece on Weave, which already ran 11-03. Higgsfield's ChatGPT video guide is vendor content. These were not picked because higher-scoring items beat them on diversity and actionability: Runway 'Closing the gap' (it may also overlap with movies), Webflow MCP in Copilot (an off-list domain), the DEV agent-citation opinion, UX Collective's Photoshop-clone and mind-tax essays, SimScale, and qentin. Partial manual reads of published_urls.json (only Read is available, no grep) did not find any pick in another section."
+  },
+  "picks": [
+    {
+      "title": "How 3D Transforms and Figma's Agent Brought a Launch Video to Life",
+      "url": "https://www.figma.com/blog/how-3d-transforms-and-figmas-agent-brought-a-launch-video-to-life/",
+      "source": "Figma",
+      "category": "figma",
+      "tool": "Figma",
+      "accent": "#0070f3",
+      "motif": "frame",
+      "published_iso": "2026-11-12T14:00:00Z",
+      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/53964310f42e5cb65e0c17606f8ec8aa96448a7e-960x540.png?w=1200&q=70&fit=max&auto=format",
+      "excerpt": "Figma's new 3D transforms (open beta for Full seats, Nov 12) let designers tilt, rotate and arrange text, images, vectors and frames in space non-destructively; the Brand Studio team used the Figma agent to repeat type along the Z axis, build type-covered geometry and generate a grid/helix/ring layout plugin for the launch video.",
+      "rationale": "Primary-source launch of 3D transforms (open beta) plus concrete Figma-agent recipes designers can reuse tomorrow."
+    },
+    {
+      "title": "A smart organizer for your Luma canvas",
+      "url": "https://lumalabs.ai/news/ai-board-manager",
+      "source": "Luma AI",
+      "category": "render",
+      "tool": "KeyShot",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "published_iso": "2026-11-14T00:49:00Z",
+      "og_image": "https://static.cdn-luma.com/files/sanity/80e8495c-1963-42bb-a5b2-a540f9baea19.jpg",
+      "excerpt": "The Luma agent can now organize a board, frame or selection of up to 10,000 assets, grouping and labeling work by product, concept, campaign or channel by reading what each asset is (reference vs generated variation, lineage to the brief); changes need approval and can be reversed.",
+      "rationale": "New agent feature that tackles asset sprawl in generative canvases, with approve/revert controls; freshest item in the pool."
+    },
+    {
+      "title": "Anthropic's Claude for Manufacturing plugs AI directly into factory software to automate industrial workflows",
+      "url": "https://the-decoder.com/anthropics-claude-for-manufacturing-plugs-ai-directly-into-factory-software-to-automate-industrial-workflows/",
+      "source": "The Decoder",
+      "category": "cad",
+      "tool": "Text-to-CAD",
+      "accent": "#7928ca",
+      "motif": "cube",
+      "published_iso": "2026-11-13T16:37:01Z",
+      "og_image": "https://the-decoder.com/wp-content/uploads/2026/11/claude_for_manufactoring.png",
+      "excerpt": "Anthropic's new Claude for Manufacturing plugin connects Claude directly to Autodesk Fusion, Oracle NetSuite and Infor, with 17 specialized skills to draft quotes, compare suppliers and place orders.",
+      "rationale": "New Claude plugin with a direct Autodesk Fusion connection; a frontier-lab product move into the CAD-to-production workflow."
+    },
+    {
+      "title": "Research-In-The-Loop: How UXR Adapts to Development at AI Speed",
+      "url": "https://www.nngroup.com/articles/research-in-the-loop/",
+      "source": "Nielsen Norman Group",
+      "category": "workflow",
+      "tool": "AI Workflow",
+      "accent": "#ff5a4d",
+      "motif": "frame",
+      "published_iso": "2026-11-13T18:00:00Z",
+      "og_image": "https://media.nngroup.com/media/articles/opengraph_images/Research-In-The-Loop__How_UXR_Adapts__to_Development_at__AI_Speed.png",
+      "excerpt": "As AI speeds up development, NN/g lays out how UX research can keep pace by defining what each release must measure and what it can help teams discover.",
+      "rationale": "Credible, actionable framework for keeping UX research in step with AI-speed release cycles."
+    },
+    {
+      "title": "Vercel's UI SDK Hands Agents Behaviors, Not Components",
+      "url": "https://dev.to/dishant0406/vercels-ui-sdk-hands-agents-behaviors-not-components-25n0",
+      "source": "DEV Community",
+      "category": "tokens",
+      "tool": "Design Tokens",
+      "accent": "#2ec5c5",
+      "motif": "swatch",
+      "published_iso": "2026-11-14T13:38:33Z",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Ffiles.catbox.moe%2Fnh6k1a.webp",
+      "excerpt": "Vercel Labs' UI SDK (built by shadcn, Apache-2.0, beta; @ui-sdk 0.1.0-beta.2 released Nov 13) ships 50+ accessible behaviors (createPopup, createSelection, createTypeahead) that coding agents compose into components across React, Vue, Svelte, Solid and Web Components. Secondary analysis; vendor primary source not found.",
+      "rationale": "New open-source release reshaping how design systems feed coding agents: accessible behaviors instead of fixed components."
+    }
+  ]
 }

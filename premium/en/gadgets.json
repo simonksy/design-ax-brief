@@ -12108,6 +12108,163 @@
           "x": "Both collections will launch in the U.S. beginning Dec. 10, 2026, while Gentle Monster Intelligent Eyewear will also be available in Korea. In the U.S., Warby Parker Intelligent Eyewear will start at $395, while Gentle Monster Intelligent Eyewear will range from $449 to $489, depending on the model."
         }
       ]
+    },
+    "gadgets/perplexity-teammates-mac": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Perplexity-teammates-feature.jpg?resize=1200%2C720&ssl=1",
+          "cap": "Perplexity"
+        },
+        {
+          "t": "p",
+          "x": "Perplexity teammates are a squad of AI agents whose job is to own your ongoing work. Instead of guiding and hand-holding AI, you can assign tasks to your teammate agents, and they will do the work in the background — whether you want to run a growth campaign, triage bug reports as they land, keep tabs on your metrics, or dig into a new market."
+        },
+        {
+          "t": "p",
+          "x": "They will plan the tasks, add more agents if required, and notify you when the work is done and they are ready with the report. Perplexity launched teammates on the web last week, and it has finally made its way to the Mac app."
+        },
+        {
+          "t": "p",
+          "x": "Perplexity is not the first AI company to launch such agents: Meta Muse and ChatGPT Dots do similar things, and Grok Bot is another example. These agents run their own instance of cloud computing and keep working even when you close your computer; they can communicate with each other, create dedicated channels for tasks, and don't require constant supervision."
+        },
+        {
+          "t": "p",
+          "x": "The feature is only available to users on Perplexity's Max plan, which costs $200/month."
+        }
+      ]
+    },
+    "gadgets/jeep-cherokee-claude-ecu": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "An AI enthusiast managed to get his old 1994 Jeep Cherokee to pass the California smog tests, all thanks to the help of AI and a little electronics wiring skill. This 32-year-old car had only a primitive engine computer, but after connecting it to a laptop via an Arduino Nano board, many settings could be read and eventually controlled."
+        },
+        {
+          "t": "video",
+          "yt": "WPj3aQ-xxpI"
+        },
+        {
+          "t": "p",
+          "x": "The video documents Muhammad Zulali's journey from the Jeep failing consecutive smog tests to tuning and fixing the engine emission issues. Claude provided guidance, and Codex wrote any required code. The Jeep was producing too much NOx at certain test speeds, and each retest cost nearly $100. The fix used a $3 microcontroller, for a total bill of materials of no more than $15."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/uWPfVwnAzVfG87r5UBkxc5.jpg",
+          "cap": "(Image credit: Muhammad Zulali)"
+        },
+        {
+          "t": "p",
+          "x": "Claude told him the engine communicated on a Chrysler SCI bus at ~7,800 baud, electrically inverted compared to a typical serial port; an Arduino Nano handled the inversion, wired to the Cherokee's 6-pin diagnostic plug. Claude then logged engine data and fault codes during drives at 25 mph and 50 mph. The ECU was a few months too old to be reflashable, so Codex injected and ran custom code inside a nearby EEPROM."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/MEhj2kjie9xAZfBevnC5jT.jpg",
+          "cap": "(Image credit: Muhammad Zulali)"
+        },
+        {
+          "t": "p",
+          "x": "“Claude did most of the diagnostic work and Codex did pretty much all of the memory work,” says Zulali. “I just did the wiring and the driving.” The project, xj-scanner, is on GitHub under GPLv3."
+        }
+      ]
+    },
+    "gadgets/ces2027-innovation-awards-korea": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.etnews.com/news/article/2026/11/10/news-p.v1.20261110.5fdedf20293c4a21af1be6aa3526c5f6_P1.jpg",
+          "cap": "The 'LG Signature OLED T', the world's first transparent wireless TV, which won a CES 2027 Best of Innovation award"
+        },
+        {
+          "t": "p",
+          "x": "Korean companies swept more than half of the 'CES 2027' Best of Innovation awards. However, China and the U.S. took the top awards in fields that will decide leadership in future industries, such as robots and artificial intelligence (AI) chips."
+        },
+        {
+          "t": "p",
+          "x": "The Consumer Technology Association (CTA) announced the first round of CES 2027 Innovation Award winners on the 9th (local time). This year's entries numbered about 4,000, up 10% from the previous year and a record high. Three fields, AI, digital health and robotics, accounted for 25% of all entries. Of the 38 Best of Innovation awards announced in the first round, Korea won the most, with 24 (61%). The U.S. followed with 5 and China with 4, while Germany, Sweden, Canada and Japan received one each."
+        },
+        {
+          "t": "p",
+          "x": "Samsung Electronics won two top awards in the mobile category with the 'Galaxy Z Fold8' and the 'Fold8 Ultra'. LG Electronics won, with the 'Signature OLED T6', the top award in the art tech category that the CTA created this year with auction house Christie's. Shuolz topped the accessibility & longevity and fashion tech categories with two AI shoes, and startups, small and mid-sized companies and universities such as AIBiz (AI) also won awards."
+        },
+        {
+          "t": "p",
+          "x": "The top award in robotics, where entries jumped 74%, went to the 'ET1' from Chinese humanoid company Galbot. The U.S. won only 5, but NVIDIA took the top awards in computer hardware and gaming with the 'Vera CPU' and 'DLSS 5', and Qualcomm won the top XR award with its XR platform."
+        },
+        {
+          "t": "img",
+          "src": "https://img.etnews.com/news/article/2026/11/11/news-t.v1.20261111.298baa5937ea4e60934770e35f71167a_P1.png",
+          "cap": "Korean, Chinese and U.S. winners of the 'CES 2027' Best of Innovation awards (Source: CTA)"
+        },
+        {
+          "t": "p",
+          "x": "An electronics industry official said, “If Korea won evenly across many categories, the U.S. and China have in effect seized the core of next-generation industries, such as AI chips and humanoids.”"
+        }
+      ]
+    },
+    "gadgets/alexa-photo-frame-review": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/Z4o6D9xUVqVPSaZ8NmqJX3.jpg",
+          "cap": "(Image credit: Future)"
+        },
+        {
+          "t": "p",
+          "x": "Tom's Guide verdict: The Amazon Alexa Photo Frame uses AI to smartly curate your huge collection of pictures, and present them in an orderly fashion. However, it's best for those who have an Amazon Prime subscription."
+        },
+        {
+          "t": "p",
+          "x": "After setup, one of the first images it displayed was a black-and-white picture of the reviewer's father, deceased for 16 years, feeding a squirrel. To get the most out of it, you need either an Alexa+ ($19/month) or an Amazon Prime subscription ($149/year)."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/S67kv6Bww23UK4MwXUdanF.jpg",
+          "cap": "(Image credit: Future)"
+        },
+        {
+          "t": "p",
+          "x": "It combs through your entire library of images, then pulls them up based on criteria such as the time of year, themes, objects, and events. It works only in landscape mode, but pairs portrait photos side by side. You can also ask Alexa to “show me photos of cats and kids” for a curated slideshow; when wrong photos appeared, saying “Alexa, that's not my daughter” made it edit the collection."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/2cTbvaaoUPYULcGiLFAkua.jpg",
+          "cap": "(Image credit: Future)"
+        },
+        {
+          "t": "p",
+          "x": "It doubles as an Alexa+ smart speaker and lets you attach short audio notes to pictures. Specs-wise it trails rivals such as the $229 Aura Aspen and $179 Lexar Pexar, and it can't play videos — but neither makes curating all your photos as effortless as Amazon does with Alexa+. It sells for $199.99."
+        }
+      ]
+    },
+    "gadgets/gadgets-gemini-task-automation-galaxy": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.sammobile.com/wp-content/uploads/2026/07/Galaxy-Z-Fold-8-Ultra-Gemini-1200x675.jpg",
+          "cap": "Gemini on Galaxy Z Fold 8 Ultra"
+        },
+        {
+          "t": "p",
+          "x": "Gemini is evolving every month with improved performance, new features, and upgraded models. Earlier this year, during the launch of the Galaxy S26 series, Google first showcased Gemini's Task Automation feature on Android. Soon, that feature will work with dozens of apps on select Galaxy phones and tablets."
+        },
+        {
+          "t": "p",
+          "x": "Ahead of Gemini Task Automation's wider rollout, Android Authority discovered a list of apps that will be compatible with the feature on Android phones and tablets, grouped by region: Australia, Canada, Europe, Global, India, Japan, South Korea, UK and Ireland, and the US. Global entries include Airbnb, Booking.com, eBay, Expedia, Microsoft Word, Excel, Outlook and Teams, Slack, Uber and Uber Eats; South Korea's include 11st, Catchtable, Gmarket, Kakao T, Korean Air, Naver Calendar and Yanolja."
+        },
+        {
+          "t": "p",
+          "x": "This feature will only work on Galaxy S, Galaxy Tab S (excluding FE models), and Galaxy Z series devices launched in 2026 and running Android 17 (One UI 9.0 or newer): Galaxy S26, S26+, S26 Ultra, S26 FE, Galaxy Tab S12+, Tab S12 Ultra, Galaxy Z Flip 8, Z Fold 8 and Z Fold 8 Ultra."
+        },
+        {
+          "t": "p",
+          "x": "Using this feature, you can order food and groceries, hail a ride, shop for products, book event tickets and flights, make restaurant reservations or hotel bookings, create or edit documents, send messages, and much more. Apparently, it will only work with apps downloaded from the Google Play Store, and launch will likely happen in a phased manner."
+        },
+        {
+          "t": "video",
+          "yt": "6FbSIAKJ1rg"
+        }
+      ]
     }
   }
 }

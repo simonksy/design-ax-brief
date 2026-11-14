@@ -1,0 +1,112 @@
+{
+  "meta": {
+    "issue": "AI 렌더링, Nvidia 밖으로",
+    "date": "2026.11.14",
+    "section": "GAMES",
+    "accent": "#2ec5c5",
+    "note": "원문 4건 대조: 날짜를 원문 게재일(UTC)로 고침(AMDLSS5 11.12→11.10, Auto SR 11.12→11.11, Apex 11.13→11.12, QSSR 11.14→11.13)하고 시간순으로 재배열. Apex 영상은 11-13 story가 쓰고 있어 stat으로. 수치 64%·RE Requiem, 60–75→120 FPS, 562MB→214MB, 6종·PSSR 파생 확인.",
+    "sources": [
+      "PC Gamer — 'AMDLSS5' gets Nvidia's neural rendering running on AMD graphics cards and claims 64% better performance than other mods (2026.11.10)",
+      "Wccftech — Microsoft Auto SR Exits Preview On ROG XBOX Ally X, New Performance Mode Raises FPS Limit To 120 (2026.11.11)",
+      "Wccftech — Apex Neural Rendering Challenges NVIDIA DLSS With Up To 2.4X Faster Frame Generation, 62% Lower VRAM Usage, And Broad GPU Support (2026.11.12)",
+      "Wccftech — Quick Spectral Super Resolution Comes Soon to Six PS5 Games (2026.11.13)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 게임 · 11.10~11.13",
+      "thread": [
+        {
+          "d": "11.10",
+          "t": "AMD 모드",
+          "c": "#2ec5c5",
+          "s": "GAMES"
+        },
+        {
+          "d": "11.11",
+          "t": "Windows",
+          "c": "#2ec5c5",
+          "s": "GAMES"
+        },
+        {
+          "d": "11.12",
+          "t": "옛 GPU",
+          "c": "#2ec5c5",
+          "s": "GAMES"
+        },
+        {
+          "d": "11.13",
+          "t": "PS5",
+          "c": "#2ec5c5",
+          "s": "GAMES"
+        }
+      ],
+      "thread_note": "AI 화질·프레임 기술이 Nvidia 그래픽카드 밖으로 번진다",
+      "eyebrow": "흐름 · 게임",
+      "headline": "AI 렌더링, Nvidia 밖으로",
+      "body": "따로 보면 모드와 패치 소식이다. 나흘 새 AMD, Windows, 옛 GPU, PS5까지 AI 렌더링이 Nvidia 밖으로 나왔다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.11.10",
+      "headline": "AMD 카드에서 DLSS 5",
+      "body": "비공식 모드 AMDLSS5 2.0이 RX 9000에서 DLSS 5를 돌린다. RE Requiem에선 타 모드보다 64% 빠르다고 한다.",
+      "foot": "2026.11.10",
+      "_src": "https://www.pcgamer.com/hardware/graphics-cards/amdlss5-gets-nvidias-neural-rendering-running-on-amd-graphics-cards-and-claims-64-percent-better-performance-than-other-mods/",
+      "_id": "amdlss5-dlss5-amd-mod",
+      "media": "pipeline/media/amdlss5-dlss5-amd-mod.jpg"
+    },
+    {
+      "n": 3,
+      "kind": "stat",
+      "eyebrow": "2026.11.11",
+      "headline": "Windows가 직접 키운다",
+      "body": "Auto SR이 ROG Xbox Ally X에서 정식판이 됐다. NPU로 OS 단계에서 키워 게임 쪽 작업이 필요 없다.",
+      "foot": "2026.11.11",
+      "_src": "https://wccftech.com/microsoft-auto-sr-exits-preview-on-rog-xbox-ally-x-new-performance-mode-raises-fps-limit-to-120/",
+      "_id": "xbox-auto-sr-ally-x-120fps",
+      "stat_top": "이전 상한 60–75 FPS",
+      "stat_arrow": "새 Performance Mode",
+      "stat_bottom": "120 FPS",
+      "stat_strike": false
+    },
+    {
+      "n": 4,
+      "kind": "stat",
+      "eyebrow": "2026.11.12",
+      "headline": "옛 GPU에도 프레임 생성",
+      "body": "Apex Compute의 ANR 프레임 생성 베타. 옛 GPU와 Linux·SteamOS, Apple silicon까지 지원한다.",
+      "foot": "2026.11.12",
+      "_src": "https://wccftech.com/apex-neural-rendering-challenges-nvidia-dlss-with-up-to-2-4x-faster-frame-generation-62-lower-vram-usage-and-broad-gpu-support/",
+      "_id": "apex-neural-rendering-framegen",
+      "stat_top": "DLSS FG 562MB",
+      "stat_arrow": "4K 기준 GPU 메모리",
+      "stat_bottom": "ANR 214MB",
+      "stat_strike": false
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.11.13",
+      "headline": "PS5 일반판도 AI 업스케일",
+      "body": "PS5 Pro의 PSSR에서 나온 경량판 QSSR이 Spider-Man 2, ARC Raiders 등 PS5 게임 6종에 들어간다.",
+      "foot": "2026.11.13",
+      "_src": "https://wccftech.com/quick-spectral-super-resolution-six-ps5-games/",
+      "_id": "sony-qssr-ps5-rollout",
+      "media": "pipeline/media/sony-qssr-ps5-rollout.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

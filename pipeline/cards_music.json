@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-14",
+  "date": "2026-11-15",
   "section": "music",
   "cards": [
     {
-      "id": "suno-bridge-ableton",
+      "id": "suno-shulman-fraud-remarks",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Suno Bridge가\nLive 12 안에서 작곡",
-      "body": "Suno 베타 Mac 앱이 Ableton Live 12와 연동해 파트를 만든다.",
-      "mini_headline": "Suno Bridge, Ableton 진출",
+      "headline": "Suno CEO의 반박\nAI 음악은 사기 아니다",
+      "body": "Suno CEO Mikey Shulman은 AI 음악=사기 등식을 눈속임이라 했다.",
+      "mini_headline": "Suno, AI 음악은 사기 아니다",
       "tool": "Music",
-      "source": "Suno",
-      "url": "https://suno.com/blog/introducing-bridge",
+      "source": "Music Ally",
+      "url": "https://musically.com/2026/11/13/suno-boss-talks-streaming-fraud-ai-music-is-not-a-crime/",
       "accent": "#ff2d55",
       "motif": "sphere",
       "full": {
@@ -19,227 +19,131 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.sanity.io/images/cl7b1q1i/production/82b39b7eda6ba746df9166d864ce48cddb76843f-1920x1080.jpg?w=1600&h=900&fit=crop&auto=format",
-            "cap": "Suno Bridge"
+            "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-31.png?fit=2000%2C1500&ssl=1",
+            "cap": "출처: Vibe Shack Studios"
           },
           {
             "t": "p",
-            "x": "오늘 새 독립형 앱 Suno Bridge를 선보인다. Suno의 힘과 영감을 음악 제작 소프트웨어 안으로 들여오는 앱이다. 이제 처음으로 Suno 작업 흐름을 손에 익은 VSTs, 플러그인, DAW와 함께 쓸 수 있다."
+            "x": "Suno CEO Mikey Shulman은 “스트리밍 사기와 AI 음악을 동일시하는” “눈속임”을 비판했다. 회사가 물밑에서 하는 사기 대응도 사람들 생각보다 많다고 강조했다."
           },
           {
             "t": "p",
-            "x": "Suno Bridge는 우선 베타로 나오고 Mac용 Ableton Live 12와 호환된다. 운영체제와 DAW 플랫폼은 앞으로 더 늘릴 계획이다."
-          },
-          {
-            "t": "p",
-            "x": "Bridge는 Ableton Live 옆에서 함께 돌아가므로 두 앱을 모두 열어 둬야 한다. Bridge에 프롬프트를 넣으면 Ableton 세션의 템포, 키, 스타일, 화성, 그루브에 맞춘 새 악기 연주와 보컬이 만들어져 타임라인에 곧바로 올라간다. 동기화하려면 세션 파일을 Suno에 올려야 하고 프롬프트가 적용되는 구간은 Arrangement View의 루프 시작/끝 마커로 정한다."
-          },
-          {
-            "t": "video",
-            "yt": "w0jgwmAObd0"
-          },
-          {
-            "t": "p",
-            "x": "Bridge는 내 음악에 맞춘 고유한 사운드가 끝없이 들어 있는 라이브러리나 다름없다. 묵혀 둔 세션을 완성곡으로 끌어올리고 창작의 벽도 넘을 수 있다. 그러면서도 플러그인과 오디오 라우팅, Live에서 익힌 모든 것은 그대로 지킨다."
-          },
-          {
-            "t": "p",
-            "x": "Suno Bridge(베타)는 모든 Premier 구독에 들어 있다. 지금은 Mac의 Ableton Live 12에서 작동한다."
+            "x": "“나는 스트리밍 사기에 단호히 반대한다. 그것은 범죄다.” Shulman은 이번 주 Trapital 팟캐스트에 나와 이렇게 말했다. “AI 음악이 가끔 연루된다는 사실? AI 음악은 범죄가 아니다… 이 둘은 같은 것이 아니다.”"
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Suno Bridge writes parts\ninside Ableton Live 12",
-          "body": "Suno's beta Mac app syncs with Ableton Live 12 and drops parts that follow tempo, key and chords onto the timeline.",
-          "mini_headline": "Suno Bridge enters Ableton",
+          "headline": "Suno's CEO says AI music\nis not streaming fraud",
+          "body": "Suno CEO Mikey Shulman called it a sleight of hand to equate AI music with streaming fraud.",
+          "mini_headline": "Suno: AI music is not fraud",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/cl7b1q1i/production/82b39b7eda6ba746df9166d864ce48cddb76843f-1920x1080.jpg?w=1600&h=900&fit=crop&auto=format",
-                "cap": "Suno Bridge"
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-31.png?fit=2000%2C1500&ssl=1",
+                "cap": "Credit: Vibe Shack Studios"
               },
               {
                 "t": "p",
-                "x": "Today, we are introducing Suno Bridge, a new standalone app that brings the power and inspiration of Suno into your music production software. For the first time you can combine your Suno workflow with the VSTs, plugins and DAW you already know."
+                "x": "Suno CEO Mikey Shulman has criticised what he describes as a “sleight of hand” of “equating streaming fraud with AI music”, while stressing that his company is doing more work behind the scenes to tackle fraud than people realise."
               },
               {
                 "t": "p",
-                "x": "Initially launching in beta, Suno Bridge will be compatible with Ableton Live 12 running on a Mac. We plan to expand to more operating systems and DAW platforms in the future."
-              },
-              {
-                "t": "p",
-                "x": "Bridge runs alongside Ableton Live, and both apps need to be open. Prompts entered in Bridge create brand new instrumentation and vocals that fit the tempo, key, style, harmonic content and groove of your Ableton session, dropped straight onto your timeline. Syncing involves uploading your session files to Suno; the loop start/end markers in Arrangement View set the prompting window."
-              },
-              {
-                "t": "video",
-                "yt": "w0jgwmAObd0"
-              },
-              {
-                "t": "p",
-                "x": "Think of Bridge like an endless library of unique sounds designed to fit your music: turn old sessions into finished songs, get past creative roadblocks, and keep your plugins, audio routing and everything you've mastered in Live."
-              },
-              {
-                "t": "p",
-                "x": "Suno Bridge (beta) is included with all Premier subscriptions. It currently works with Ableton Live 12 on a Mac."
+                "x": "“I am vehemently opposed to streaming fraud. That is a crime,” said Shulman during an appearance on the Trapital podcast this week. “The fact that AI music is sometimes involved? AI music is not a crime… These things are not the same.”"
               }
             ]
           }
         },
         "ko": {
-          "headline": "Suno Bridge가\nLive 12 안에서 작곡",
-          "body": "Suno 베타 Mac 앱이 Ableton Live 12와 연동해 파트를 만든다.",
-          "mini_headline": "Suno Bridge, Ableton 진출",
+          "headline": "Suno CEO의 반박\nAI 음악은 사기 아니다",
+          "body": "Suno CEO Mikey Shulman은 AI 음악=사기 등식을 눈속임이라 했다.",
+          "mini_headline": "Suno, AI 음악은 사기 아니다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/cl7b1q1i/production/82b39b7eda6ba746df9166d864ce48cddb76843f-1920x1080.jpg?w=1600&h=900&fit=crop&auto=format",
-                "cap": "Suno Bridge"
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-31.png?fit=2000%2C1500&ssl=1",
+                "cap": "출처: Vibe Shack Studios"
               },
               {
                 "t": "p",
-                "x": "오늘 새 독립형 앱 Suno Bridge를 선보인다. Suno의 힘과 영감을 음악 제작 소프트웨어 안으로 들여오는 앱이다. 이제 처음으로 Suno 작업 흐름을 손에 익은 VSTs, 플러그인, DAW와 함께 쓸 수 있다."
+                "x": "Suno CEO Mikey Shulman은 “스트리밍 사기와 AI 음악을 동일시하는” “눈속임”을 비판했다. 회사가 물밑에서 하는 사기 대응도 사람들 생각보다 많다고 강조했다."
               },
               {
                 "t": "p",
-                "x": "Suno Bridge는 우선 베타로 나오고 Mac용 Ableton Live 12와 호환된다. 운영체제와 DAW 플랫폼은 앞으로 더 늘릴 계획이다."
-              },
-              {
-                "t": "p",
-                "x": "Bridge는 Ableton Live 옆에서 함께 돌아가므로 두 앱을 모두 열어 둬야 한다. Bridge에 프롬프트를 넣으면 Ableton 세션의 템포, 키, 스타일, 화성, 그루브에 맞춘 새 악기 연주와 보컬이 만들어져 타임라인에 곧바로 올라간다. 동기화하려면 세션 파일을 Suno에 올려야 하고 프롬프트가 적용되는 구간은 Arrangement View의 루프 시작/끝 마커로 정한다."
-              },
-              {
-                "t": "video",
-                "yt": "w0jgwmAObd0"
-              },
-              {
-                "t": "p",
-                "x": "Bridge는 내 음악에 맞춘 고유한 사운드가 끝없이 들어 있는 라이브러리나 다름없다. 묵혀 둔 세션을 완성곡으로 끌어올리고 창작의 벽도 넘을 수 있다. 그러면서도 플러그인과 오디오 라우팅, Live에서 익힌 모든 것은 그대로 지킨다."
-              },
-              {
-                "t": "p",
-                "x": "Suno Bridge(베타)는 모든 Premier 구독에 들어 있다. 지금은 Mac의 Ableton Live 12에서 작동한다."
+                "x": "“나는 스트리밍 사기에 단호히 반대한다. 그것은 범죄다.” Shulman은 이번 주 Trapital 팟캐스트에 나와 이렇게 말했다. “AI 음악이 가끔 연루된다는 사실? AI 음악은 범죄가 아니다… 이 둘은 같은 것이 아니다.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "Suno Bridge、\nLive 12でパート生成",
-          "body": "SunoのMac用ベータ版がAbleton Live 12 と連携し、パートを生成する。",
-          "mini_headline": "Suno Bridge、Abletonに参入",
+          "headline": "Suno CEO「AI音楽は\nストリーミング詐欺ではない」",
+          "body": "Suno CEOのMikey ShulmanはAI音楽と詐欺の同一視をごまかしと批判した。",
+          "mini_headline": "Suno「AI音楽は詐欺ではない」",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/cl7b1q1i/production/82b39b7eda6ba746df9166d864ce48cddb76843f-1920x1080.jpg?w=1600&h=900&fit=crop&auto=format",
-                "cap": "Suno Bridge"
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-31.png?fit=2000%2C1500&ssl=1",
+                "cap": "クレジット：Vibe Shack Studios"
               },
               {
                 "t": "p",
-                "x": "本日、新たなスタンドアロンアプリSuno Bridgeを発表する。Sunoの力とひらめきを音楽制作ソフトウェアの中に持ち込むアプリだ。初めて、Sunoのワークフローを使い慣れたVSTs、プラグイン、DAWと組み合わせられる。"
+                "x": "Suno CEOのMikey Shulmanは、「ストリーミング詐欺とAI音楽を同一視する」という「ごまかし」を批判するとともに、同社が人々の想像以上に舞台裏で不正対策に取り組んでいることを強調した。"
               },
               {
                 "t": "p",
-                "x": "Suno Bridgeはまずベータ版として提供され、Mac上で動作するAbleton Live 12に対応する。今後はより多くのOSとDAWプラットフォームに広げる予定だ。"
-              },
-              {
-                "t": "p",
-                "x": "BridgeはAbleton Liveと並行して動作し、両方のアプリを開いておく必要がある。Bridgeに入力したプロンプトは、Abletonセッションのテンポ、キー、スタイル、和声、グルーヴに合う新しい楽器パートとボーカルを生成し、タイムラインに直接配置する。同期にはセッションファイルをSunoにアップロードする必要があり、Arrangement Viewのループ開始/終了マーカーがプロンプトの対象範囲を決める。"
-              },
-              {
-                "t": "video",
-                "yt": "w0jgwmAObd0"
-              },
-              {
-                "t": "p",
-                "x": "Bridgeは、自分の音楽に合わせて設計された独自のサウンドが尽きることなく揃うライブラリのようなものだ。古いセッションを完成曲に仕上げ、創作の行き詰まりを乗り越え、プラグインやオーディオルーティング、Liveで身につけたすべてをそのまま生かせる。"
-              },
-              {
-                "t": "p",
-                "x": "Suno Bridge(ベータ版)はすべてのPremierサブスクリプションに含まれる。現在はMac版Ableton Live 12で動作する。"
+                "x": "「私はストリーミング詐欺に断固反対だ。あれは犯罪だ」と、Shulmanは今週Trapitalのポッドキャストに出演した際に語った。「AI音楽が関わることがあるという事実？AI音楽は犯罪ではない…この二つは同じではない」"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Suno Bridge\n在Live 12中写声部",
-          "body": "Suno的Mac测试版应用与Ableton Live 12 同步，将声部直接放上时间线。",
-          "mini_headline": "Suno Bridge 进驻 Ableton",
+          "headline": "Suno CEO：AI音乐\n不等于流媒体欺诈",
+          "body": "Suno CEO Mikey Shulman称，把AI音乐等同于流媒体欺诈是偷换概念。",
+          "mini_headline": "Suno：AI音乐不是欺诈",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/cl7b1q1i/production/82b39b7eda6ba746df9166d864ce48cddb76843f-1920x1080.jpg?w=1600&h=900&fit=crop&auto=format",
-                "cap": "Suno Bridge"
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-31.png?fit=2000%2C1500&ssl=1",
+                "cap": "图片来源：Vibe Shack Studios"
               },
               {
                 "t": "p",
-                "x": "今天，我们推出全新独立应用Suno Bridge，把Suno的能力与灵感带进你的音乐制作软件。你第一次可以把Suno工作流程与早已熟悉的VSTs、插件和DAW结合使用。"
+                "x": "Suno CEO Mikey Shulman批评了他所说的“把流媒体欺诈与AI音乐混为一谈”的“障眼法”，同时强调公司在幕后打击欺诈所做的工作比外界以为的更多。"
               },
               {
                 "t": "p",
-                "x": "Suno Bridge首先以测试版推出，兼容在Mac上运行的Ableton Live 12。我们计划未来扩展到更多操作系统和DAW平台。"
-              },
-              {
-                "t": "p",
-                "x": "Bridge与Ableton Live并行运行，两个应用都需要保持打开。在Bridge中输入的提示词会生成全新的器乐和人声，契合Ableton工程的速度、调性、风格、和声内容与律动，并直接放到时间线上。同步时需要把工程文件上传到Suno；Arrangement View中的循环起点/终点标记决定提示词作用的区间。"
-              },
-              {
-                "t": "video",
-                "yt": "w0jgwmAObd0"
-              },
-              {
-                "t": "p",
-                "x": "可以把Bridge看作一座为你的音乐量身打造、取之不尽的独特音色库：把旧工程变成完整歌曲，突破创作瓶颈，同时保留你的插件、音频路由以及在Live中掌握的一切。"
-              },
-              {
-                "t": "p",
-                "x": "Suno Bridge（测试版）包含在所有Premier订阅中。目前适用于Mac上的Ableton Live 12。"
+                "x": "“我坚决反对流媒体欺诈。那是犯罪，”Shulman本周做客Trapital播客时说。“AI音乐有时牵涉其中？AI音乐不是犯罪……这两者并不相同。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Suno Bridge crea partes\ndentro de Ableton Live 12",
-          "body": "La app beta de Suno para Mac se sincroniza con Ableton Live 12 y crea partes que siguen tempo, tonalidad y acordes.",
-          "mini_headline": "Suno Bridge llega a Ableton",
+          "headline": "CEO de Suno: la música con AI\nno es fraude en streaming",
+          "body": "Mikey Shulman, CEO de Suno, calificó de truco equiparar la música con AI al fraude en streaming.",
+          "mini_headline": "Suno: la música con AI no es fraude",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/cl7b1q1i/production/82b39b7eda6ba746df9166d864ce48cddb76843f-1920x1080.jpg?w=1600&h=900&fit=crop&auto=format",
-                "cap": "Suno Bridge"
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-31.png?fit=2000%2C1500&ssl=1",
+                "cap": "Crédito: Vibe Shack Studios"
               },
               {
                 "t": "p",
-                "x": "Hoy presentamos Suno Bridge, una nueva aplicación independiente que lleva la potencia y la inspiración de Suno a tu software de producción musical. Por primera vez puedes combinar tu flujo de trabajo en Suno con los VSTs, plugins y el DAW que ya conoces."
+                "x": "El CEO de Suno, Mikey Shulman, criticó lo que describe como un “truco de prestidigitación” que consiste en “equiparar el fraude en streaming con la música con AI”, y subrayó que su empresa hace entre bastidores más trabajo contra el fraude del que la gente cree."
               },
               {
                 "t": "p",
-                "x": "Suno Bridge se lanza inicialmente en beta y será compatible con Ableton Live 12 en Mac. Tenemos previsto ampliarlo a más sistemas operativos y plataformas DAW en el futuro."
-              },
-              {
-                "t": "p",
-                "x": "Bridge funciona junto a Ableton Live y ambas aplicaciones deben estar abiertas. Los prompts introducidos en Bridge crean instrumentación y voces completamente nuevas que se ajustan al tempo, la tonalidad, el estilo, el contenido armónico y el groove de tu sesión de Ableton, y se colocan directamente en la línea de tiempo. La sincronización implica subir los archivos de la sesión a Suno; los marcadores de inicio/fin del loop en Arrangement View definen la ventana del prompt."
-              },
-              {
-                "t": "video",
-                "yt": "w0jgwmAObd0"
-              },
-              {
-                "t": "p",
-                "x": "Piensa en Bridge como una biblioteca infinita de sonidos únicos diseñados para encajar con tu música: convierte sesiones antiguas en canciones terminadas, supera bloqueos creativos y conserva tus plugins, tu enrutamiento de audio y todo lo que dominas en Live."
-              },
-              {
-                "t": "p",
-                "x": "Suno Bridge (beta) está incluido en todas las suscripciones Premier. Por ahora funciona con Ableton Live 12 en Mac."
+                "x": "“Me opongo rotundamente al fraude en streaming. Es un delito”, dijo Shulman esta semana en el podcast Trapital. “¿Que a veces haya música con AI de por medio? La música con AI no es un delito… No son lo mismo”."
               }
             ]
           }
@@ -247,157 +151,93 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Suno Bridge가\nLive 12 안에서 작곡",
-          "body": "Suno 베타 Mac 앱이 Ableton Live 12와 연동해 파트를 만든다.",
-          "mini_headline": "Suno Bridge, Ableton 진출",
+          "headline": "Suno CEO의 반박\nAI 음악은 사기 아니다",
+          "body": "Suno CEO Mikey Shulman은 AI 음악=사기 등식은 눈속임이라 했다.",
+          "mini_headline": "Suno, AI 음악은 사기 아니다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/cl7b1q1i/production/82b39b7eda6ba746df9166d864ce48cddb76843f-1920x1080.jpg?w=1600&h=900&fit=crop&auto=format",
-                "cap": "Suno Bridge"
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-31.png?fit=2000%2C1500&ssl=1",
+                "cap": "출처: Vibe Shack Studios"
               },
               {
                 "t": "p",
-                "x": "오늘 새 독립형 앱 Suno Bridge를 소개한다. Suno의 힘과 영감을 음악 제작 소프트웨어 안으로 가져오는 앱이다. 처음으로 Suno 작업 흐름을 이미 익숙한 VSTs, 플러그인, DAW와 함께 쓸 수 있다."
+                "x": "Suno CEO Mikey Shulman은 “스트리밍 사기와 AI 음악을 동일시하는” “눈속임”을 비판하면서, 회사가 사람들이 생각하는 것보다 더 많은 사기 대응 작업을 물밑에서 하고 있다고 강조했다."
               },
               {
                 "t": "p",
-                "x": "Suno Bridge는 먼저 베타로 나오며, Mac에서 실행되는 Ableton Live 12와 호환된다. 앞으로 더 많은 운영체제와 DAW 플랫폼으로 넓힐 계획이다."
-              },
-              {
-                "t": "p",
-                "x": "Bridge는 Ableton Live와 나란히 실행되며, 두 앱을 모두 열어 두어야 한다. Bridge에 입력한 프롬프트는 Ableton 세션의 템포, 키, 스타일, 화성, 그루브에 맞는 새 악기 연주와 보컬을 만들어 타임라인에 곧바로 올린다. 동기화하려면 세션 파일을 Suno에 업로드해야 하며, Arrangement View의 루프 시작/끝 마커가 프롬프트 적용 구간을 정한다."
-              },
-              {
-                "t": "video",
-                "yt": "w0jgwmAObd0"
-              },
-              {
-                "t": "p",
-                "x": "Bridge는 내 음악에 맞춰 설계된 고유한 사운드를 끝없이 담은 라이브러리와 같다. 오래된 세션을 완성곡으로 바꾸고, 창작의 벽을 넘고, 플러그인과 오디오 라우팅, Live에서 익힌 모든 것을 그대로 지킬 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "Suno Bridge(베타)는 모든 Premier 구독에 포함된다. 현재는 Mac의 Ableton Live 12에서 작동한다."
+                "x": "“나는 스트리밍 사기에 단호히 반대한다. 그것은 범죄다.” Shulman은 이번 주 Trapital 팟캐스트에 출연해 이렇게 말했다. “AI 음악이 가끔 연루된다는 사실? AI 음악은 범죄가 아니다… 이 둘은 같은 것이 아니다.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "Suno Bridge、\nLive 12でパート生成",
-          "body": "SunoのMac用ベータ版がAbleton Live 12 と連携し、パートを生成する。",
-          "mini_headline": "Suno Bridge、Abletonに参入",
+          "headline": "Suno CEO「AI音楽は\nストリーミング詐欺ではない」",
+          "body": "Suno CEOのMikey ShulmanはAI音楽と詐欺の同一視をごまかしと批判した。",
+          "mini_headline": "Suno「AI音楽は詐欺ではない」",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/cl7b1q1i/production/82b39b7eda6ba746df9166d864ce48cddb76843f-1920x1080.jpg?w=1600&h=900&fit=crop&auto=format",
-                "cap": "Suno Bridge"
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-31.png?fit=2000%2C1500&ssl=1",
+                "cap": "クレジット：Vibe Shack Studios"
               },
               {
                 "t": "p",
-                "x": "本日、新たなスタンドアロンアプリSuno Bridgeを発表する。Sunoの力とひらめきを音楽制作ソフトウェアの中に持ち込むアプリだ。初めて、Sunoのワークフローを使い慣れたVSTs、プラグイン、DAWと組み合わせられる。"
+                "x": "Suno CEOのMikey Shulmanは、「ストリーミング詐欺とAI音楽を同一視する」という「ごまかし」を批判するとともに、同社が人々の想像以上に舞台裏で不正対策に取り組んでいることを強調した。"
               },
               {
                 "t": "p",
-                "x": "Suno Bridgeはまずベータ版として提供され、Mac上で動作するAbleton Live 12に対応する。今後はより多くのOSとDAWプラットフォームに広げる予定だ。"
-              },
-              {
-                "t": "p",
-                "x": "BridgeはAbleton Liveと並行して動作し、両方のアプリを開いておく必要がある。Bridgeに入力したプロンプトは、Abletonセッションのテンポ、キー、スタイル、和声、グルーヴに合う新しい楽器パートとボーカルを生成し、タイムラインに直接配置する。同期にはセッションファイルをSunoにアップロードする必要があり、Arrangement Viewのループ開始/終了マーカーがプロンプトの対象範囲を決める。"
-              },
-              {
-                "t": "video",
-                "yt": "w0jgwmAObd0"
-              },
-              {
-                "t": "p",
-                "x": "Bridgeは、自分の音楽に合わせて設計された独自のサウンドが尽きることなく揃うライブラリのようなものだ。古いセッションを完成曲に仕上げ、創作の行き詰まりを乗り越え、プラグインやオーディオルーティング、Liveで身につけたすべてをそのまま生かせる。"
-              },
-              {
-                "t": "p",
-                "x": "Suno Bridge(ベータ版)はすべてのPremierサブスクリプションに含まれる。現在はMac版Ableton Live 12で動作する。"
+                "x": "「私はストリーミング詐欺に断固反対だ。あれは犯罪だ」と、Shulmanは今週Trapitalのポッドキャストに出演した際に語った。「AI音楽が関わることがあるという事実？AI音楽は犯罪ではない…この二つは同じではない」"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Suno Bridge\n在Live 12中写声部",
-          "body": "Suno的Mac测试版应用与Ableton Live 12 同步，将声部直接放上时间线。",
-          "mini_headline": "Suno Bridge 进驻 Ableton",
+          "headline": "Suno CEO：AI音乐\n不等于流媒体欺诈",
+          "body": "Suno CEO Mikey Shulman称，把AI音乐等同于流媒体欺诈是偷换概念。",
+          "mini_headline": "Suno：AI音乐不是欺诈",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/cl7b1q1i/production/82b39b7eda6ba746df9166d864ce48cddb76843f-1920x1080.jpg?w=1600&h=900&fit=crop&auto=format",
-                "cap": "Suno Bridge"
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-31.png?fit=2000%2C1500&ssl=1",
+                "cap": "图片来源：Vibe Shack Studios"
               },
               {
                 "t": "p",
-                "x": "今天，我们推出全新独立应用Suno Bridge，把Suno的能力与灵感带进你的音乐制作软件。你第一次可以把Suno工作流程与早已熟悉的VSTs、插件和DAW结合使用。"
+                "x": "Suno CEO Mikey Shulman批评了他所说的“把流媒体欺诈与AI音乐混为一谈”的“障眼法”，同时强调公司在幕后打击欺诈所做的工作比外界以为的更多。"
               },
               {
                 "t": "p",
-                "x": "Suno Bridge首先以测试版推出，兼容在Mac上运行的Ableton Live 12。我们计划未来扩展到更多操作系统和DAW平台。"
-              },
-              {
-                "t": "p",
-                "x": "Bridge与Ableton Live并行运行，两个应用都需要保持打开。在Bridge中输入的提示词会生成全新的器乐和人声，契合Ableton工程的速度、调性、风格、和声内容与律动，并直接放到时间线上。同步时需要把工程文件上传到Suno；Arrangement View中的循环起点/终点标记决定提示词作用的区间。"
-              },
-              {
-                "t": "video",
-                "yt": "w0jgwmAObd0"
-              },
-              {
-                "t": "p",
-                "x": "可以把Bridge看作一座为你的音乐量身打造、取之不尽的独特音色库：把旧工程变成完整歌曲，突破创作瓶颈，同时保留你的插件、音频路由以及在Live中掌握的一切。"
-              },
-              {
-                "t": "p",
-                "x": "Suno Bridge（测试版）包含在所有Premier订阅中。目前适用于Mac上的Ableton Live 12。"
+                "x": "“我坚决反对流媒体欺诈。那是犯罪，”Shulman本周做客Trapital播客时说。“AI音乐有时牵涉其中？AI音乐不是犯罪……这两者并不相同。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Suno Bridge crea partes\ndentro de Ableton Live 12",
-          "body": "La app beta de Suno para Mac se sincroniza con Ableton Live 12 y crea partes que siguen tempo, tonalidad y acordes.",
-          "mini_headline": "Suno Bridge llega a Ableton",
+          "headline": "CEO de Suno: la música con AI\nno es fraude en streaming",
+          "body": "Mikey Shulman, CEO de Suno, calificó de truco equiparar la música con AI al fraude en streaming.",
+          "mini_headline": "Suno: la música con AI no es fraude",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/cl7b1q1i/production/82b39b7eda6ba746df9166d864ce48cddb76843f-1920x1080.jpg?w=1600&h=900&fit=crop&auto=format",
-                "cap": "Suno Bridge"
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-31.png?fit=2000%2C1500&ssl=1",
+                "cap": "Crédito: Vibe Shack Studios"
               },
               {
                 "t": "p",
-                "x": "Hoy presentamos Suno Bridge, una nueva aplicación independiente que lleva la potencia y la inspiración de Suno a tu software de producción musical. Por primera vez puedes combinar tu flujo de trabajo en Suno con los VSTs, plugins y el DAW que ya conoces."
+                "x": "El CEO de Suno, Mikey Shulman, criticó lo que describe como un “truco de prestidigitación” que consiste en “equiparar el fraude en streaming con la música con AI”, y subrayó que su empresa hace entre bastidores más trabajo contra el fraude del que la gente cree."
               },
               {
                 "t": "p",
-                "x": "Suno Bridge se lanza inicialmente en beta y será compatible con Ableton Live 12 en Mac. Tenemos previsto ampliarlo a más sistemas operativos y plataformas DAW en el futuro."
-              },
-              {
-                "t": "p",
-                "x": "Bridge funciona junto a Ableton Live y ambas aplicaciones deben estar abiertas. Los prompts introducidos en Bridge crean instrumentación y voces completamente nuevas que se ajustan al tempo, la tonalidad, el estilo, el contenido armónico y el groove de tu sesión de Ableton, y se colocan directamente en la línea de tiempo. La sincronización implica subir los archivos de la sesión a Suno; los marcadores de inicio/fin del loop en Arrangement View definen la ventana del prompt."
-              },
-              {
-                "t": "video",
-                "yt": "w0jgwmAObd0"
-              },
-              {
-                "t": "p",
-                "x": "Piensa en Bridge como una biblioteca infinita de sonidos únicos diseñados para encajar con tu música: convierte sesiones antiguas en canciones terminadas, supera bloqueos creativos y conserva tus plugins, tu enrutamiento de audio y todo lo que dominas en Live."
-              },
-              {
-                "t": "p",
-                "x": "Suno Bridge (beta) está incluido en todas las suscripciones Premier. Por ahora funciona con Ableton Live 12 en Mac."
+                "x": "“Me opongo rotundamente al fraude en streaming. Es un delito”, dijo Shulman esta semana en el podcast Trapital. “¿Que a veces haya música con AI de por medio? La música con AI no es un delito… No son lo mismo”."
               }
             ]
           }
@@ -405,15 +245,15 @@
       }
     },
     {
-      "id": "vocaloid7-editor-release",
+      "id": "fifty-cent-huang-deepfake",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "VOCALOID7 출시\nCubase 연동 강화",
-      "body": "$129짜리 VOCALOID7이 VOCALOID:AI와 Cubase 연동을 갖췄다.",
-      "mini_headline": "VOCALOID7, $129에 출시",
+      "headline": "50 Cent, 젠슨 황\n딥페이크 P.I.M.P.",
+      "body": "50 Cent가 전 Nvidia CEO 황으로 P.I.M.P.를 AI 리메이크했다.",
+      "mini_headline": "50 Cent의 젠슨 황 딥페이크 영상",
       "tool": "Music",
-      "source": "월간 믹싱",
-      "url": "https://mixing.co.kr/en/44521",
+      "source": "Billboard",
+      "url": "https://www.billboard.com/music/rb-hip-hop/50-cent-trolls-former-nvidia-ceo-jensen-huang-pimp-video-ai-1236381001/",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
@@ -421,425 +261,425 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://mmagimg.speedgabia.com/2026/11/img-1794535790699-7b915c66ecbc114b.webp",
-            "cap": "이미지: Yamaha"
+            "src": "https://www.billboard.com/wp-content/uploads/2026/10/2287163263-e1792696512839.jpg?w=1024",
+            "cap": "Curtis \"50 Cent\" Jackson"
           },
           {
             "t": "p",
-            "x": "Yamaha가 음성 합성 소프트웨어 VOCALOID7 Editor를 출시했다."
+            "x": "50 Cent가 AI-generated 영상 만드는 법을 익혔으니 소셜 미디어에 핵무기가 생긴 셈이다. 전국 뉴스 화제를 놓치는 법이 없는 50이 이번에 겨냥한 상대는 중국 스파이와 혼외 관계를 맺은 사실이 드러나 목요일(Nov. 12) 물러난 전 Nvidia CEO 젠슨 황(Jensen Huang)이다."
           },
           {
             "t": "p",
-            "x": "VOCALOID7 Editor는 2022년 10월 VOCALOID6이 나온 지 네 해 만의 신작이다. macOS와 Windows에서 독립형 애플리케이션으로도, VST3·AU·ARA2 형식으로도 돌아가며 가격은 $129다."
+            "x": "50은 “P.I.M.P.” 뮤직비디오를 A.I. 딥페이크로 고쳐 올리면서 Snoop Dogg 자리에 황을 앉혔다. 그는 게시물에 “Jensen don’t sweat it come be head of AI at G-Unit film & television GLG GreenLightGang in full effect”라고 적었다."
           },
           {
             "t": "p",
-            "x": "두 번째 세대 VOCALOID:AI를 얹어 보컬이 한층 자연스럽고 표현력도 풍부해졌다. 같은 보이스뱅크 안에서 음색 특성을 바꾸는 Voice Type 기능으로 곡에 어울리는 표현을 고를 수도 있다. 단, Voice Type은 VOCALOID7 전용 보이스뱅크에서만 작동한다."
-          },
-          {
-            "t": "video",
-            "yt": "GJ92CbivkEY"
+            "x": "“Huang the new member of Jen-Unit!”이라는 팬 댓글도 달렸다."
           },
           {
             "t": "p",
-            "x": "Cubase 연동도 더 긴밀해졌다. 노트와 가사는 Cubase Key Editor에서 바로 입력한다. Expression, Attack 같은 노브는 Cubase 전용 컨트롤로 다룬다. Cubase AI 버전과 기본 보이스뱅크 asa가 함께 들어 있다."
+            "x": "“P.I.M.P.”는 2003년에 나와 Billboard Hot 100에서 No. 3까지 올랐다. Mr. Porter가 프로듀싱했고, 리믹스에는 Snoop과 함께 G-Unit의 Young Buck, Lloyd Banks가 참여했다."
           },
           {
             "t": "p",
-            "x": "VOCALOID3부터 VOCALOID6까지 나온 보이스뱅크는 모두 VOCALOID7 Editor에서 그대로 쓴다. VOCALOID3–6이나 VOCALOID Editor for Cubase 시리즈 사용자용 업그레이드 버전은 정가 $69인데 12월 20일까지는 $39에 판다. 31일 체험판도 있다."
+            "x": "The New York Times에 따르면 이 A.I. 기술 거물의 불륜 두 건이 이번 주 스캔들로 번졌다. 한 건의 상대는 U.S. 정보 당국이 중국 스파이로 지목한 여성 Alice Huang(황과 무관)이었고, 다른 한 건은 회사 동료 임원이었다."
           },
           {
             "t": "p",
-            "x": "보이스뱅크가 있는 사용자는 기능을 줄인 VOCALOID7 Editor Lite를 무료로 쓸 수 있다. Lite는 독립형 모드에서만 작동한다."
+            "x": "50은 여기서 멈추지 않았다. Drake의 2020년 “Popstar” 뮤직비디오 속 Justin Bieber 자리에 몰락한 기업가 황을 넣은 AI 딥페이크를 또 올려 조롱을 이어갔다. 캡션은 “lol like this I don’t know why, but I like it”였다."
+          },
+          {
+            "t": "p",
+            "x": "황은 물러나기 전 전사 메시지에서 아내 Lori Huang에게 “unfaithful”했다고 인정했다. 둘 사이에는 자녀가 둘 있다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Yamaha ships VOCALOID7\nwith deeper Cubase ties",
-          "body": "VOCALOID7 Editor costs $129 and runs second-generation VOCALOID:AI, with lyric entry directly in Cubase's Key Editor.",
-          "mini_headline": "VOCALOID7 ships at $129",
+          "headline": "50 Cent recasts 'P.I.M.P.'\nwith a Jensen Huang deepfake",
+          "body": "50 Cent posted an AI deepfake remake of his 'P.I.M.P.' music video starring former Nvidia CEO Jensen Huang.",
+          "mini_headline": "50 Cent's Huang deepfake video",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://mmagimg.speedgabia.com/2026/11/img-1794535790699-7b915c66ecbc114b.webp",
-                "cap": "Image: Yamaha"
+                "src": "https://www.billboard.com/wp-content/uploads/2026/10/2287163263-e1792696512839.jpg?w=1024",
+                "cap": "Curtis \"50 Cent\" Jackson"
               },
               {
                 "t": "p",
-                "x": "Yamaha has released VOCALOID7 Editor, its voice synthesis software."
+                "x": "50 Cent learning how to make AI-generated videos is the equivalent of a social media nuclear weapon. 50 always keeps up with what’s making waves in the national news, and he took a swipe at the former Nvidia CEO Jensen Huang, who stepped down on Thursday (Nov. 12) after it was revealed he was having an extramarital affair with a Chinese spy."
               },
               {
                 "t": "p",
-                "x": "VOCALOID7 Editor arrives four years after VOCALOID6, which was released in October 2022. It runs on macOS and Windows as a standalone application and in VST3, AU, and ARA2 formats, and it costs $129."
+                "x": "50 posted an altered A.I. deepfake of the “P.I.M.P.” music video, but had Huang replace Snoop Dogg’s role in the visual. “Jensen don’t sweat it come be head of AI at G-Unit film & television GLG GreenLightGang in full effect,” 50 captioned the post."
               },
               {
                 "t": "p",
-                "x": "It applies the second-generation VOCALOID:AI to deliver more natural and expressive vocals. It also has a Voice Type feature that changes vocal characteristics within the same voicebank, so users can choose an expression that suits the song. Voice Type, however, works only with voicebanks made exclusively for VOCALOID7."
-              },
-              {
-                "t": "video",
-                "yt": "GJ92CbivkEY"
+                "x": "A fan commented: “Huang the new member of Jen-Unit!”"
               },
               {
                 "t": "p",
-                "x": "Integration with Cubase has also been strengthened. Notes and lyrics can be entered directly in the Cubase Key Editor. Knobs such as Expression and Attack are controlled with dedicated controls in Cubase. A Cubase AI version is included, and the default voicebank, asa, comes bundled."
+                "x": "“P.I.M.P.” arrived in 2003 and reached No. 3 on the Billboard Hot 100. The remix of the Mr. Porter-produced anthem featured Snoop alongside G-Unit’s Young Buck and Lloyd Banks."
               },
               {
                 "t": "p",
-                "x": "All voicebanks from VOCALOID3 through VOCALOID6 remain usable in VOCALOID7 Editor. The upgrade version, for users of VOCALOID3–6 or the VOCALOID Editor for Cubase series, is regularly $69 and on sale for $39 until December 20. A 31-day trial is also available."
+                "x": "According to The New York Times, the A.I. tech giant had a pair of affairs that led to the scandal exploding this week. One entanglement was with a woman whom U.S. intelligence officials tabbed as a Chinese spy, Alice Huang (unrelated), while another affair was with a fellow executive of the company."
               },
               {
                 "t": "p",
-                "x": "Users who own a voicebank can use VOCALOID7 Editor Lite, a feature-limited version, for free, and Lite works only in standalone mode."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "VOCALOID7 출시\nCubase 연동 강화",
-          "body": "$129짜리 VOCALOID7이 VOCALOID:AI와 Cubase 연동을 갖췄다.",
-          "mini_headline": "VOCALOID7, $129에 출시",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://mmagimg.speedgabia.com/2026/11/img-1794535790699-7b915c66ecbc114b.webp",
-                "cap": "이미지: Yamaha"
+                "x": "50 didn’t stop there. He continued to troll Huang by posting another AI deepfake of the disgraced entrepreneur as Justin Bieber in Drake’s 2020 “Popstar” music video. “lol like this I don’t know why, but I like it,” he added in the caption."
               },
               {
                 "t": "p",
-                "x": "Yamaha가 음성 합성 소프트웨어 VOCALOID7 Editor를 출시했다."
-              },
-              {
-                "t": "p",
-                "x": "VOCALOID7 Editor는 2022년 10월 VOCALOID6이 나온 지 네 해 만의 신작이다. macOS와 Windows에서 독립형 애플리케이션으로도, VST3·AU·ARA2 형식으로도 돌아가며 가격은 $129다."
-              },
-              {
-                "t": "p",
-                "x": "두 번째 세대 VOCALOID:AI를 얹어 보컬이 한층 자연스럽고 표현력도 풍부해졌다. 같은 보이스뱅크 안에서 음색 특성을 바꾸는 Voice Type 기능으로 곡에 어울리는 표현을 고를 수도 있다. 단, Voice Type은 VOCALOID7 전용 보이스뱅크에서만 작동한다."
-              },
-              {
-                "t": "video",
-                "yt": "GJ92CbivkEY"
-              },
-              {
-                "t": "p",
-                "x": "Cubase 연동도 더 긴밀해졌다. 노트와 가사는 Cubase Key Editor에서 바로 입력한다. Expression, Attack 같은 노브는 Cubase 전용 컨트롤로 다룬다. Cubase AI 버전과 기본 보이스뱅크 asa가 함께 들어 있다."
-              },
-              {
-                "t": "p",
-                "x": "VOCALOID3부터 VOCALOID6까지 나온 보이스뱅크는 모두 VOCALOID7 Editor에서 그대로 쓴다. VOCALOID3–6이나 VOCALOID Editor for Cubase 시리즈 사용자용 업그레이드 버전은 정가 $69인데 12월 20일까지는 $39에 판다. 31일 체험판도 있다."
-              },
-              {
-                "t": "p",
-                "x": "보이스뱅크가 있는 사용자는 기능을 줄인 VOCALOID7 Editor Lite를 무료로 쓸 수 있다. Lite는 독립형 모드에서만 작동한다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "VOCALOID7発売\nCubase連携を強化",
-          "body": "VOCALOID7は$129で、第二世代VOCALOID:AIとCubase連携を備える。",
-          "mini_headline": "VOCALOID7、$129で発売",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://mmagimg.speedgabia.com/2026/11/img-1794535790699-7b915c66ecbc114b.webp",
-                "cap": "画像: Yamaha"
-              },
-              {
-                "t": "p",
-                "x": "Yamahaが歌声合成ソフトウェアVOCALOID7 Editorをリリースした。"
-              },
-              {
-                "t": "p",
-                "x": "VOCALOID7 Editorは、2022年10月に発売されたVOCALOID6から四年ぶりの新版となる。macOSとWindowsでスタンドアロンアプリケーションとして、またVST3、AU、ARA2形式で動作し、価格は$129だ。"
-              },
-              {
-                "t": "p",
-                "x": "第二世代のVOCALOID:AIを採用し、より自然で表現力豊かな歌声を実現する。同じボイスバンクのまま声の特性を変えるVoice Type機能も備え、曲に合った表現を選べる。ただしVoice TypeはVOCALOID7専用に作られたボイスバンクでのみ機能する。"
-              },
-              {
-                "t": "video",
-                "yt": "GJ92CbivkEY"
-              },
-              {
-                "t": "p",
-                "x": "Cubaseとの連携も強化された。ノートと歌詞をCubaseのKey Editorで直接入力できる。ExpressionやAttackなどのノブはCubaseの専用コントロールで操作する。Cubase AI版が付属し、標準ボイスバンクasaも同梱される。"
-              },
-              {
-                "t": "p",
-                "x": "VOCALOID3からVOCALOID6までのすべてのボイスバンクを、VOCALOID7 Editorで引き続き使える。VOCALOID3–6やVOCALOID Editor for Cubaseシリーズのユーザー向けアップグレード版は通常$69で、12月20日まで$39で販売される。31日間の体験版も用意されている。"
-              },
-              {
-                "t": "p",
-                "x": "ボイスバンクを持つユーザーは機能限定版のVOCALOID7 Editor Liteを無料で使え、Liteはスタンドアロンモードでのみ動作する。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "VOCALOID7发布\n深化Cubase联动",
-          "body": "VOCALOID7售价$129，搭载第二代VOCALOID:AI并深化Cubase联动。",
-          "mini_headline": "VOCALOID7 以 $129 发售",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://mmagimg.speedgabia.com/2026/11/img-1794535790699-7b915c66ecbc114b.webp",
-                "cap": "图片：Yamaha"
-              },
-              {
-                "t": "p",
-                "x": "Yamaha发布了歌声合成软件VOCALOID7 Editor。"
-              },
-              {
-                "t": "p",
-                "x": "VOCALOID7 Editor距2022年10月发布的VOCALOID6已有四年。它可在macOS和Windows上作为独立应用运行，也支持VST3、AU和ARA2格式，售价$129。"
-              },
-              {
-                "t": "p",
-                "x": "它采用第二代VOCALOID:AI，带来更自然、更具表现力的歌声。新增的Voice Type功能可在同一声库内改变声音特性，让用户选择适合歌曲的表现。不过，Voice Type仅适用于VOCALOID7专用声库。"
-              },
-              {
-                "t": "video",
-                "yt": "GJ92CbivkEY"
-              },
-              {
-                "t": "p",
-                "x": "与Cubase的整合也得到加强。音符和歌词可直接在Cubase的Key Editor中输入。Expression、Attack等旋钮通过Cubase中的专用控件操作。软件附带Cubase AI版本，并捆绑默认声库asa。"
-              },
-              {
-                "t": "p",
-                "x": "从VOCALOID3到VOCALOID6的所有声库都可继续在VOCALOID7 Editor中使用。面向VOCALOID3–6或VOCALOID Editor for Cubase系列用户的升级版原价$69，12月20日前特价$39。另提供31天试用版。"
-              },
-              {
-                "t": "p",
-                "x": "拥有声库的用户可免费使用功能受限的VOCALOID7 Editor Lite，Lite仅支持独立模式。"
+                "x": "Huang admitted in a company-wide message before stepping down that he had been “unfaithful” to his wife, Lori Huang. The couple shares two children."
               }
             ]
           }
         },
         "es": {
-          "headline": "Yamaha lanza VOCALOID7\ncon más integración en Cubase",
-          "body": "VOCALOID7 Editor cuesta $129, usa VOCALOID:AI de segunda generación y admite letras en el Key Editor de Cubase.",
-          "mini_headline": "VOCALOID7 sale a $129",
+          "headline": "50 Cent rehace 'P.I.M.P.'\ncon un deepfake de Jensen Huang",
+          "body": "50 Cent publicó un deepfake de AI de su video 'P.I.M.P.' protagonizado por el ex CEO de Nvidia Jensen Huang.",
+          "mini_headline": "El deepfake de Huang de 50 Cent",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://mmagimg.speedgabia.com/2026/11/img-1794535790699-7b915c66ecbc114b.webp",
-                "cap": "Imagen: Yamaha"
+                "src": "https://www.billboard.com/wp-content/uploads/2026/10/2287163263-e1792696512839.jpg?w=1024",
+                "cap": "Curtis \"50 Cent\" Jackson"
               },
               {
                 "t": "p",
-                "x": "Yamaha ha lanzado VOCALOID7 Editor, su software de síntesis de voz."
+                "x": "Que 50 Cent aprenda a hacer videos generados con AI (AI-generated) equivale a un arma nuclear en las redes sociales. 50 siempre está al tanto de lo que da que hablar en las noticias nacionales, y lanzó una pulla al ex CEO de Nvidia Jensen Huang, que dimitió el jueves (Nov. 12) después de que se revelara que mantenía una relación extramatrimonial con una espía china."
               },
               {
                 "t": "p",
-                "x": "VOCALOID7 Editor llega cuatro años después de VOCALOID6, lanzado en octubre de 2022. Funciona en macOS y Windows como aplicación independiente y en formatos VST3, AU y ARA2, y cuesta $129."
+                "x": "50 publicó un deepfake de A.I. alterado del video musical de “P.I.M.P.”, en el que Huang sustituye a Snoop Dogg. “Jensen, no te preocupes, ven a ser jefe de AI en G-Unit film & television, GLG GreenLightGang in full effect”, escribió 50 en la publicación."
               },
               {
                 "t": "p",
-                "x": "Aplica la segunda generación de VOCALOID:AI para ofrecer voces más naturales y expresivas. También incluye la función Voice Type, que cambia las características vocales dentro de un mismo banco de voz para que el usuario elija la expresión que mejor encaje con la canción. Sin embargo, Voice Type solo funciona con bancos de voz creados exclusivamente para VOCALOID7."
-              },
-              {
-                "t": "video",
-                "yt": "GJ92CbivkEY"
+                "x": "Un fan comentó: “¡Huang, el nuevo miembro de Jen-Unit!”"
               },
               {
                 "t": "p",
-                "x": "También se ha reforzado la integración con Cubase. Las notas y las letras pueden introducirse directamente en el Key Editor de Cubase. Perillas como Expression y Attack se manejan con controles dedicados en Cubase. Incluye una versión de Cubase AI y viene con el banco de voz predeterminado asa."
+                "x": "“P.I.M.P.” salió en 2003 y llegó al No. 3 del Billboard Hot 100. El remix de este himno producido por Mr. Porter (Mr. Porter-produced) contó con Snoop junto a Young Buck y Lloyd Banks, de G-Unit."
               },
               {
                 "t": "p",
-                "x": "Todos los bancos de voz desde VOCALOID3 hasta VOCALOID6 siguen siendo utilizables en VOCALOID7 Editor. La versión de actualización, para usuarios de VOCALOID3–6 o de la serie VOCALOID Editor for Cubase, cuesta normalmente $69 y está rebajada a $39 hasta el 20 de diciembre. También hay una prueba de 31 días."
+                "x": "Según The New York Times, el magnate tecnológico de la A.I. tuvo dos aventuras que hicieron estallar el escándalo esta semana. Una fue con una mujer a la que funcionarios de inteligencia de U.S. señalaron como espía china, Alice Huang (sin parentesco), y la otra con un alto cargo de la propia empresa."
               },
               {
                 "t": "p",
-                "x": "Quienes tengan un banco de voz pueden usar gratis VOCALOID7 Editor Lite, una versión con funciones limitadas, y Lite solo funciona en modo independiente."
+                "x": "50 no se detuvo ahí. Siguió burlándose de Huang con otro deepfake de AI en el que el empresario caído en desgracia aparece como Justin Bieber en el video de “Popstar” de Drake, de 2020. “lol así, no sé por qué, pero me gusta”, añadió en el texto."
+              },
+              {
+                "t": "p",
+                "x": "Antes de dimitir, Huang admitió en un mensaje a toda la empresa que había sido “infiel” a su esposa, Lori Huang. La pareja tiene dos hijos."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "50 Cent, 젠슨 황\n딥페이크 P.I.M.P.",
+          "body": "50 Cent가 전 Nvidia CEO 황으로 P.I.M.P.를 AI 리메이크했다.",
+          "mini_headline": "50 Cent의 젠슨 황 딥페이크 영상",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.billboard.com/wp-content/uploads/2026/10/2287163263-e1792696512839.jpg?w=1024",
+                "cap": "Curtis \"50 Cent\" Jackson"
+              },
+              {
+                "t": "p",
+                "x": "50 Cent가 AI-generated 영상 만드는 법을 익혔으니 소셜 미디어에 핵무기가 생긴 셈이다. 전국 뉴스 화제를 놓치는 법이 없는 50이 이번에 겨냥한 상대는 중국 스파이와 혼외 관계를 맺은 사실이 드러나 목요일(Nov. 12) 물러난 전 Nvidia CEO 젠슨 황(Jensen Huang)이다."
+              },
+              {
+                "t": "p",
+                "x": "50은 “P.I.M.P.” 뮤직비디오를 A.I. 딥페이크로 고쳐 올리면서 Snoop Dogg 자리에 황을 앉혔다. 그는 게시물에 “Jensen don’t sweat it come be head of AI at G-Unit film & television GLG GreenLightGang in full effect”라고 적었다."
+              },
+              {
+                "t": "p",
+                "x": "“Huang the new member of Jen-Unit!”이라는 팬 댓글도 달렸다."
+              },
+              {
+                "t": "p",
+                "x": "“P.I.M.P.”는 2003년에 나와 Billboard Hot 100에서 No. 3까지 올랐다. Mr. Porter가 프로듀싱했고, 리믹스에는 Snoop과 함께 G-Unit의 Young Buck, Lloyd Banks가 참여했다."
+              },
+              {
+                "t": "p",
+                "x": "The New York Times에 따르면 이 A.I. 기술 거물의 불륜 두 건이 이번 주 스캔들로 번졌다. 한 건의 상대는 U.S. 정보 당국이 중국 스파이로 지목한 여성 Alice Huang(황과 무관)이었고, 다른 한 건은 회사 동료 임원이었다."
+              },
+              {
+                "t": "p",
+                "x": "50은 여기서 멈추지 않았다. Drake의 2020년 “Popstar” 뮤직비디오 속 Justin Bieber 자리에 몰락한 기업가 황을 넣은 AI 딥페이크를 또 올려 조롱을 이어갔다. 캡션은 “lol like this I don’t know why, but I like it”였다."
+              },
+              {
+                "t": "p",
+                "x": "황은 물러나기 전 전사 메시지에서 아내 Lori Huang에게 “unfaithful”했다고 인정했다. 둘 사이에는 자녀가 둘 있다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "50 Centがフアン氏を\nAI版P.I.M.P.に起用",
+          "body": "50 Centが元Nvidia CEOのフアン氏でP.I.M.P.をAI動画化した。",
+          "mini_headline": "50 Centのフアン氏ディープフェイク動画",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.billboard.com/wp-content/uploads/2026/10/2287163263-e1792696512839.jpg?w=1024",
+                "cap": "Curtis \"50 Cent\" Jackson"
+              },
+              {
+                "t": "p",
+                "x": "50 CentがAI-generated動画の作り方を覚えたことは、ソーシャルメディア上の核兵器に等しい。50は全国ニュースの話題を常に追っており、今回は中国のスパイと婚外関係にあったことが明らかになり木曜日（Nov. 12）に退任した元Nvidia CEOのジェンスン・フアン（Jensen Huang）氏を皮肉った。"
+              },
+              {
+                "t": "p",
+                "x": "50は“P.I.M.P.”のミュージックビデオをA.I.ディープフェイクで加工して投稿し、映像中のSnoop Doggの役をフアン氏に置き換えた。投稿には“Jensen don’t sweat it come be head of AI at G-Unit film & television GLG GreenLightGang in full effect”と添えた。"
+              },
+              {
+                "t": "p",
+                "x": "あるファンは“Huang the new member of Jen-Unit!”とコメントした。"
+              },
+              {
+                "t": "p",
+                "x": "“P.I.M.P.”は2003年に発表され、Billboard Hot 100でNo. 3に達した。Mr. Porterがプロデュースしたこの曲のリミックスには、SnoopとG-UnitのYoung Buck、Lloyd Banksが参加した。"
+              },
+              {
+                "t": "p",
+                "x": "The New York Timesによると、このA.I.テック界の大物は二つの不倫を抱えており、それが今週スキャンダルとして噴出した。一つはU.S.の情報当局が中国のスパイと見なした女性Alice Huang（フアン氏とは無関係）との関係で、もう一つは同社の幹部仲間との関係だった。"
+              },
+              {
+                "t": "p",
+                "x": "50はそれで終わらなかった。失脚した起業家フアン氏をDrakeの2020年の“Popstar”ミュージックビデオのJustin Bieberに見立てたAIディープフェイクも投稿し、からかいを続けた。キャプションには“lol like this I don’t know why, but I like it”と添えた。"
+              },
+              {
+                "t": "p",
+                "x": "フアン氏は退任前の全社向けメッセージで、妻のLori Huangに対し“unfaithful”だったと認めた。夫妻には子どもが二人いる。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "50 Cent用黄仁勋\nAI深伪翻拍P.I.M.P.",
+          "body": "50 Cent发布AI深伪版《P.I.M.P.》视频，由Nvidia前CEO黄仁勋主演。",
+          "mini_headline": "50 Cent的黄仁勋深伪视频",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.billboard.com/wp-content/uploads/2026/10/2287163263-e1792696512839.jpg?w=1024",
+                "cap": "Curtis \"50 Cent\" Jackson"
+              },
+              {
+                "t": "p",
+                "x": "50 Cent学会制作AI-generated视频，相当于掌握了一件社交媒体核武器。50一向紧跟全国新闻热点，这次他把矛头对准了Nvidia前CEO黄仁勋（Jensen Huang）——此前有消息曝出黄仁勋与一名中国间谍有婚外情，他于周四（Nov. 12）辞职。"
+              },
+              {
+                "t": "p",
+                "x": "50发布了一段经A.I.深度伪造改编的“P.I.M.P.”音乐视频，让黄仁勋取代了画面中Snoop Dogg的角色。他在帖子中写道：“Jensen don’t sweat it come be head of AI at G-Unit film & television GLG GreenLightGang in full effect”。"
+              },
+              {
+                "t": "p",
+                "x": "一位粉丝评论：“Huang the new member of Jen-Unit!”"
+              },
+              {
+                "t": "p",
+                "x": "“P.I.M.P.”于2003年推出，在Billboard Hot 100上最高排到No. 3。这首由Mr. Porter制作的歌曲的混音版邀请了Snoop以及G-Unit的Young Buck和Lloyd Banks。"
+              },
+              {
+                "t": "p",
+                "x": "据The New York Times报道，这位A.I.科技巨头有两段婚外情，导致丑闻在本周爆发。其中一段的对象是被U.S.情报官员认定为中国间谍的女子Alice Huang（与黄仁勋无亲属关系），另一段则是与公司的一名高管同事。"
+              },
+              {
+                "t": "p",
+                "x": "50并未就此罢手。他又发布了一段AI深度伪造视频，把这位声名扫地的企业家放进Drake 2020年“Popstar”音乐视频中Justin Bieber的位置，继续调侃黄仁勋。他在配文中补充道：“lol like this I don’t know why, but I like it”。"
+              },
+              {
+                "t": "p",
+                "x": "黄仁勋在辞职前发给全公司的信息中承认，他对妻子Lori Huang“unfaithful”。两人育有两个孩子。"
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "VOCALOID7 출시\nCubase 연동 강화",
-          "body": "VOCALOID7은 $129, VOCALOID:AI와 Cubase 연동을 갖췄다.",
-          "mini_headline": "VOCALOID7, $129에 출시",
+        "es": {
+          "headline": "50 Cent rehace 'P.I.M.P.'\ncon un deepfake de Jensen Huang",
+          "body": "50 Cent publicó un deepfake de AI de su video 'P.I.M.P.' protagonizado por el ex CEO de Nvidia Jensen Huang.",
+          "mini_headline": "El deepfake de Huang de 50 Cent",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://mmagimg.speedgabia.com/2026/11/img-1794535790699-7b915c66ecbc114b.webp",
-                "cap": "이미지: Yamaha"
+                "src": "https://www.billboard.com/wp-content/uploads/2026/10/2287163263-e1792696512839.jpg?w=1024",
+                "cap": "Curtis \"50 Cent\" Jackson"
               },
               {
                 "t": "p",
-                "x": "Yamaha가 음성 합성 소프트웨어 VOCALOID7 Editor를 출시했다."
+                "x": "Que 50 Cent aprenda a hacer videos generados con AI (AI-generated) equivale a un arma nuclear en las redes sociales. 50 siempre está al tanto de lo que da que hablar en las noticias nacionales, y lanzó una pulla al ex CEO de Nvidia Jensen Huang, que dimitió el jueves (Nov. 12) después de que se revelara que mantenía una relación extramatrimonial con una espía china."
               },
               {
                 "t": "p",
-                "x": "VOCALOID7 Editor는 2022년 10월 나온 VOCALOID6 이후 네 해 만의 신작이다. macOS와 Windows에서 독립형 애플리케이션으로, 또 VST3, AU, ARA2 형식으로 실행되며 가격은 $129다."
+                "x": "50 publicó un deepfake de A.I. alterado del video musical de “P.I.M.P.”, en el que Huang sustituye a Snoop Dogg. “Jensen, no te preocupes, ven a ser jefe de AI en G-Unit film & television, GLG GreenLightGang in full effect”, escribió 50 en la publicación."
               },
               {
                 "t": "p",
-                "x": "두 번째 세대 VOCALOID:AI를 적용해 더 자연스럽고 표현력 있는 보컬을 낸다. 같은 보이스뱅크 안에서 음색 특성을 바꾸는 Voice Type 기능도 있어 곡에 맞는 표현을 고를 수 있다. 다만 Voice Type은 VOCALOID7 전용으로 만든 보이스뱅크에서만 작동한다."
-              },
-              {
-                "t": "video",
-                "yt": "GJ92CbivkEY"
+                "x": "Un fan comentó: “¡Huang, el nuevo miembro de Jen-Unit!”"
               },
               {
                 "t": "p",
-                "x": "Cubase와의 연동도 강화했다. 노트와 가사를 Cubase Key Editor에서 바로 입력할 수 있다. Expression, Attack 같은 노브는 Cubase의 전용 컨트롤로 조작한다. Cubase AI 버전이 포함되며, 기본 보이스뱅크 asa도 함께 제공된다."
+                "x": "“P.I.M.P.” salió en 2003 y llegó al No. 3 del Billboard Hot 100. El remix de este himno producido por Mr. Porter (Mr. Porter-produced) contó con Snoop junto a Young Buck y Lloyd Banks, de G-Unit."
               },
               {
                 "t": "p",
-                "x": "VOCALOID3부터 VOCALOID6까지의 모든 보이스뱅크를 VOCALOID7 Editor에서 그대로 쓸 수 있다. VOCALOID3–6 또는 VOCALOID Editor for Cubase 시리즈 사용자용 업그레이드 버전은 정가 $69이며, 12월 20일까지 $39에 할인 판매한다. 31일 체험판도 제공한다."
+                "x": "Según The New York Times, el magnate tecnológico de la A.I. tuvo dos aventuras que hicieron estallar el escándalo esta semana. Una fue con una mujer a la que funcionarios de inteligencia de U.S. señalaron como espía china, Alice Huang (sin parentesco), y la otra con un alto cargo de la propia empresa."
               },
               {
                 "t": "p",
-                "x": "보이스뱅크를 보유한 사용자는 기능을 제한한 VOCALOID7 Editor Lite를 무료로 쓸 수 있으며, Lite는 독립형 모드에서만 작동한다."
+                "x": "50 no se detuvo ahí. Siguió burlándose de Huang con otro deepfake de AI en el que el empresario caído en desgracia aparece como Justin Bieber en el video de “Popstar” de Drake, de 2020. “lol así, no sé por qué, pero me gusta”, añadió en el texto."
+              },
+              {
+                "t": "p",
+                "x": "Antes de dimitir, Huang admitió en un mensaje a toda la empresa que había sido “infiel” a su esposa, Lori Huang. La pareja tiene dos hijos."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "50 Cent, 젠슨 황\n딥페이크 P.I.M.P.",
+          "body": "50 Cent가 전 Nvidia CEO 황으로 P.I.M.P.를 AI 리메이크했다.",
+          "mini_headline": "50 Cent의 젠슨 황 딥페이크 영상",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.billboard.com/wp-content/uploads/2026/10/2287163263-e1792696512839.jpg?w=1024",
+                "cap": "Curtis \"50 Cent\" Jackson"
+              },
+              {
+                "t": "p",
+                "x": "50 Cent가 AI-generated 영상 만드는 법을 익혔다는 것은 소셜 미디어판 핵무기나 다름없다. 50은 늘 전국 뉴스의 화제를 놓치지 않는데, 이번에는 중국 스파이와 혼외 관계를 맺은 사실이 드러나 목요일(Nov. 12) 물러난 전 Nvidia CEO 젠슨 황(Jensen Huang)을 겨냥했다."
+              },
+              {
+                "t": "p",
+                "x": "50은 “P.I.M.P.” 뮤직비디오를 A.I. 딥페이크로 바꿔 올렸고, 영상 속 Snoop Dogg의 역할을 황으로 바꿔 넣었다. 그는 게시물에 “Jensen don’t sweat it come be head of AI at G-Unit film & television GLG GreenLightGang in full effect”라고 적었다."
+              },
+              {
+                "t": "p",
+                "x": "한 팬은 “Huang the new member of Jen-Unit!”이라는 댓글을 달았다."
+              },
+              {
+                "t": "p",
+                "x": "“P.I.M.P.”는 2003년에 나와 Billboard Hot 100에서 No. 3까지 올랐다. Mr. Porter가 프로듀싱한 이 곡의 리믹스에는 Snoop과 함께 G-Unit의 Young Buck, Lloyd Banks가 참여했다."
+              },
+              {
+                "t": "p",
+                "x": "The New York Times에 따르면 이 A.I. 기술 거물은 두 건의 불륜이 이번 주 스캔들로 번졌다. 한 건은 U.S. 정보 당국이 중국 스파이로 지목한 여성 Alice Huang(황과 무관)과의 관계였고, 다른 한 건은 회사 동료 임원과의 관계였다."
+              },
+              {
+                "t": "p",
+                "x": "50은 여기서 멈추지 않았다. 그는 몰락한 기업가 황을 Drake의 2020년 “Popstar” 뮤직비디오 속 Justin Bieber로 바꾼 AI 딥페이크를 또 올리며 조롱을 이어갔다. 캡션에는 “lol like this I don’t know why, but I like it”이라고 덧붙였다."
+              },
+              {
+                "t": "p",
+                "x": "황은 물러나기 전 전사 메시지에서 아내 Lori Huang에게 “unfaithful”했다고 인정했다. 두 사람 사이에는 자녀 둘이 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "VOCALOID7発売\nCubase連携を強化",
-          "body": "VOCALOID7は$129で、第二世代VOCALOID:AIとCubase連携を備える。",
-          "mini_headline": "VOCALOID7、$129で発売",
+          "headline": "50 Centがフアン氏を\nAI版P.I.M.P.に起用",
+          "body": "50 Centが元Nvidia CEOのフアン氏でP.I.M.P.をAI動画化した。",
+          "mini_headline": "50 Centのフアン氏ディープフェイク動画",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://mmagimg.speedgabia.com/2026/11/img-1794535790699-7b915c66ecbc114b.webp",
-                "cap": "画像: Yamaha"
+                "src": "https://www.billboard.com/wp-content/uploads/2026/10/2287163263-e1792696512839.jpg?w=1024",
+                "cap": "Curtis \"50 Cent\" Jackson"
               },
               {
                 "t": "p",
-                "x": "Yamahaが歌声合成ソフトウェアVOCALOID7 Editorをリリースした。"
+                "x": "50 CentがAI-generated動画の作り方を覚えたことは、ソーシャルメディア上の核兵器に等しい。50は全国ニュースの話題を常に追っており、今回は中国のスパイと婚外関係にあったことが明らかになり木曜日（Nov. 12）に退任した元Nvidia CEOのジェンスン・フアン（Jensen Huang）氏を皮肉った。"
               },
               {
                 "t": "p",
-                "x": "VOCALOID7 Editorは、2022年10月に発売されたVOCALOID6から四年ぶりの新版となる。macOSとWindowsでスタンドアロンアプリケーションとして、またVST3、AU、ARA2形式で動作し、価格は$129だ。"
+                "x": "50は“P.I.M.P.”のミュージックビデオをA.I.ディープフェイクで加工して投稿し、映像中のSnoop Doggの役をフアン氏に置き換えた。投稿には“Jensen don’t sweat it come be head of AI at G-Unit film & television GLG GreenLightGang in full effect”と添えた。"
               },
               {
                 "t": "p",
-                "x": "第二世代のVOCALOID:AIを採用し、より自然で表現力豊かな歌声を実現する。同じボイスバンクのまま声の特性を変えるVoice Type機能も備え、曲に合った表現を選べる。ただしVoice TypeはVOCALOID7専用に作られたボイスバンクでのみ機能する。"
-              },
-              {
-                "t": "video",
-                "yt": "GJ92CbivkEY"
+                "x": "あるファンは“Huang the new member of Jen-Unit!”とコメントした。"
               },
               {
                 "t": "p",
-                "x": "Cubaseとの連携も強化された。ノートと歌詞をCubaseのKey Editorで直接入力できる。ExpressionやAttackなどのノブはCubaseの専用コントロールで操作する。Cubase AI版が付属し、標準ボイスバンクasaも同梱される。"
+                "x": "“P.I.M.P.”は2003年に発表され、Billboard Hot 100でNo. 3に達した。Mr. Porterがプロデュースしたこの曲のリミックスには、SnoopとG-UnitのYoung Buck、Lloyd Banksが参加した。"
               },
               {
                 "t": "p",
-                "x": "VOCALOID3からVOCALOID6までのすべてのボイスバンクを、VOCALOID7 Editorで引き続き使える。VOCALOID3–6やVOCALOID Editor for Cubaseシリーズのユーザー向けアップグレード版は通常$69で、12月20日まで$39で販売される。31日間の体験版も用意されている。"
+                "x": "The New York Timesによると、このA.I.テック界の大物は二つの不倫を抱えており、それが今週スキャンダルとして噴出した。一つはU.S.の情報当局が中国のスパイと見なした女性Alice Huang（フアン氏とは無関係）との関係で、もう一つは同社の幹部仲間との関係だった。"
               },
               {
                 "t": "p",
-                "x": "ボイスバンクを持つユーザーは機能限定版のVOCALOID7 Editor Liteを無料で使え、Liteはスタンドアロンモードでのみ動作する。"
+                "x": "50はそれで終わらなかった。失脚した起業家フアン氏をDrakeの2020年の“Popstar”ミュージックビデオのJustin Bieberに見立てたAIディープフェイクも投稿し、からかいを続けた。キャプションには“lol like this I don’t know why, but I like it”と添えた。"
+              },
+              {
+                "t": "p",
+                "x": "フアン氏は退任前の全社向けメッセージで、妻のLori Huangに対し“unfaithful”だったと認めた。夫妻には子どもが二人いる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "VOCALOID7发布\n深化Cubase联动",
-          "body": "VOCALOID7售价$129，搭载第二代VOCALOID:AI并深化Cubase联动。",
-          "mini_headline": "VOCALOID7 以 $129 发售",
+          "headline": "50 Cent用黄仁勋\nAI深伪翻拍P.I.M.P.",
+          "body": "50 Cent发布AI深伪版《P.I.M.P.》视频，由Nvidia前CEO黄仁勋主演。",
+          "mini_headline": "50 Cent的黄仁勋深伪视频",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://mmagimg.speedgabia.com/2026/11/img-1794535790699-7b915c66ecbc114b.webp",
-                "cap": "图片：Yamaha"
+                "src": "https://www.billboard.com/wp-content/uploads/2026/10/2287163263-e1792696512839.jpg?w=1024",
+                "cap": "Curtis \"50 Cent\" Jackson"
               },
               {
                 "t": "p",
-                "x": "Yamaha发布了歌声合成软件VOCALOID7 Editor。"
+                "x": "50 Cent学会制作AI-generated视频，相当于掌握了一件社交媒体核武器。50一向紧跟全国新闻热点，这次他把矛头对准了Nvidia前CEO黄仁勋（Jensen Huang）——此前有消息曝出黄仁勋与一名中国间谍有婚外情，他于周四（Nov. 12）辞职。"
               },
               {
                 "t": "p",
-                "x": "VOCALOID7 Editor距2022年10月发布的VOCALOID6已有四年。它可在macOS和Windows上作为独立应用运行，也支持VST3、AU和ARA2格式，售价$129。"
+                "x": "50发布了一段经A.I.深度伪造改编的“P.I.M.P.”音乐视频，让黄仁勋取代了画面中Snoop Dogg的角色。他在帖子中写道：“Jensen don’t sweat it come be head of AI at G-Unit film & television GLG GreenLightGang in full effect”。"
               },
               {
                 "t": "p",
-                "x": "它采用第二代VOCALOID:AI，带来更自然、更具表现力的歌声。新增的Voice Type功能可在同一声库内改变声音特性，让用户选择适合歌曲的表现。不过，Voice Type仅适用于VOCALOID7专用声库。"
-              },
-              {
-                "t": "video",
-                "yt": "GJ92CbivkEY"
+                "x": "一位粉丝评论：“Huang the new member of Jen-Unit!”"
               },
               {
                 "t": "p",
-                "x": "与Cubase的整合也得到加强。音符和歌词可直接在Cubase的Key Editor中输入。Expression、Attack等旋钮通过Cubase中的专用控件操作。软件附带Cubase AI版本，并捆绑默认声库asa。"
+                "x": "“P.I.M.P.”于2003年推出，在Billboard Hot 100上最高排到No. 3。这首由Mr. Porter制作的歌曲的混音版邀请了Snoop以及G-Unit的Young Buck和Lloyd Banks。"
               },
               {
                 "t": "p",
-                "x": "从VOCALOID3到VOCALOID6的所有声库都可继续在VOCALOID7 Editor中使用。面向VOCALOID3–6或VOCALOID Editor for Cubase系列用户的升级版原价$69，12月20日前特价$39。另提供31天试用版。"
+                "x": "据The New York Times报道，这位A.I.科技巨头有两段婚外情，导致丑闻在本周爆发。其中一段的对象是被U.S.情报官员认定为中国间谍的女子Alice Huang（与黄仁勋无亲属关系），另一段则是与公司的一名高管同事。"
               },
               {
                 "t": "p",
-                "x": "拥有声库的用户可免费使用功能受限的VOCALOID7 Editor Lite，Lite仅支持独立模式。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Yamaha lanza VOCALOID7\ncon más integración en Cubase",
-          "body": "VOCALOID7 Editor cuesta $129, usa VOCALOID:AI de segunda generación y admite letras en el Key Editor de Cubase.",
-          "mini_headline": "VOCALOID7 sale a $129",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://mmagimg.speedgabia.com/2026/11/img-1794535790699-7b915c66ecbc114b.webp",
-                "cap": "Imagen: Yamaha"
+                "x": "50并未就此罢手。他又发布了一段AI深度伪造视频，把这位声名扫地的企业家放进Drake 2020年“Popstar”音乐视频中Justin Bieber的位置，继续调侃黄仁勋。他在配文中补充道：“lol like this I don’t know why, but I like it”。"
               },
               {
                 "t": "p",
-                "x": "Yamaha ha lanzado VOCALOID7 Editor, su software de síntesis de voz."
-              },
-              {
-                "t": "p",
-                "x": "VOCALOID7 Editor llega cuatro años después de VOCALOID6, lanzado en octubre de 2022. Funciona en macOS y Windows como aplicación independiente y en formatos VST3, AU y ARA2, y cuesta $129."
-              },
-              {
-                "t": "p",
-                "x": "Aplica la segunda generación de VOCALOID:AI para ofrecer voces más naturales y expresivas. También incluye la función Voice Type, que cambia las características vocales dentro de un mismo banco de voz para que el usuario elija la expresión que mejor encaje con la canción. Sin embargo, Voice Type solo funciona con bancos de voz creados exclusivamente para VOCALOID7."
-              },
-              {
-                "t": "video",
-                "yt": "GJ92CbivkEY"
-              },
-              {
-                "t": "p",
-                "x": "También se ha reforzado la integración con Cubase. Las notas y las letras pueden introducirse directamente en el Key Editor de Cubase. Perillas como Expression y Attack se manejan con controles dedicados en Cubase. Incluye una versión de Cubase AI y viene con el banco de voz predeterminado asa."
-              },
-              {
-                "t": "p",
-                "x": "Todos los bancos de voz desde VOCALOID3 hasta VOCALOID6 siguen siendo utilizables en VOCALOID7 Editor. La versión de actualización, para usuarios de VOCALOID3–6 o de la serie VOCALOID Editor for Cubase, cuesta normalmente $69 y está rebajada a $39 hasta el 20 de diciembre. También hay una prueba de 31 días."
-              },
-              {
-                "t": "p",
-                "x": "Quienes tengan un banco de voz pueden usar gratis VOCALOID7 Editor Lite, una versión con funciones limitadas, y Lite solo funciona en modo independiente."
+                "x": "黄仁勋在辞职前发给全公司的信息中承认，他对妻子Lori Huang“unfaithful”。两人育有两个孩子。"
               }
             ]
           }
@@ -847,733 +687,411 @@
       }
     },
     {
-      "id": "mumuru-melon-ai-number1",
+      "id": "mintify-vcoloring-ai-songs",
       "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "AI 활용곡 사상 첫\n멜론 톱 100 1위",
-      "body": "머무르의 AI 활용곡이 리센느 등 K팝 스타를 제치고 멜론 1위에 올랐다.",
-      "mini_headline": "AI 활용곡 첫 멜론 1위",
+      "headline": "민티파이 AI 노래\nV 컬러링에 공급",
+      "body": "민티파이가 통신 3사 V 컬러링에 AI로 만든 노래를 공급하기 시작했다.",
+      "mini_headline": "AI 노래, V 컬러링으로",
       "tool": "Music",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261113157000005",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://img2.yna.co.kr/etc/inner/KR/2026/11/13/AKR20261113157000005_01_i_P4.jpg",
-            "cap": "머무르 '꿈꾸던 어른이 되었나요?' [멜론 제공. 재판매 및 DB 금지]"
-          },
-          {
-            "t": "p",
-            "x": "작곡과 가창에 인공지능(AI)을 활용한 노래가 K팝 사상 처음으로 국내 대표 음원 플랫폼 멜론의 '톱 100' 차트에서 1위를 기록했다."
-          },
-          {
-            "t": "p",
-            "x": "13일 가요계에 따르면 머무르의 '꿈꾸던 어른이 되었나요?'는 이날 오후 5시 기준 멜론 '톱 100' 차트에서 리센느의 신곡 '위드'(With)를 제치고 정상을 밟았다. 6월 발매 이후 약 5개월 만의 기록이다. 청취자 연령대는 30대가 36%로 가장 많았고, 40대 30%, 20대 19%, 50대 11% 순이었다."
-          },
-          {
-            "t": "img",
-            "src": "https://img6.yna.co.kr/etc/inner/KR/2026/11/13/AKR20261113157000005_05_i_P4.jpg",
-            "cap": "멜론 13일 오후 5시 '톱 100' 차트 [멜론 캡처. 재판매 및 DB 금지]"
-          },
-          {
-            "t": "p",
-            "x": "이 곡의 보컬은 사람이 아닌 생성형 음악 AI인 수노(SUNO)로 구현됐다. 머무르는 \"본 앨범의 보컬은 수노 AI 기술을 통해 생성됐다\"며 \"기획·작사 및 전체 프로듀싱 디렉션은 아티스트 머무르가 직접 진행했다\"고 설명했다. 그러면서 \"제게 AI는 현대적인 악기이자, 제 상상을 함께 현실로 옮겨주는 파트너\"라고 소개했다."
-          },
-          {
-            "t": "p",
-            "x": "AI 활용곡이 리센느(2위), A2O 라이트(3위), 아일릿(5위) 등 K팝 스타를 따돌리고 1위를 차지한 것이다."
-          },
-          {
-            "t": "p",
-            "x": "정민재 대중음악평론가는 \"대중음악 분야에서도 AI의 파도는 예견됐던 일\"이라며 \"뮤지션과 작곡가 입장에선 AI 활용곡의 차트 1위가 달갑지 않겠지만, 인간 창작자로서 더욱 수준 높은 음악을 만들어내는 일에 힘을 쏟을 수밖에 없을 것\"이라고 말했다."
-          }
-        ]
-      },
-      "text": {
-        "ko": {
-          "headline": "AI 활용곡 사상 첫\n멜론 톱 100 1위",
-          "body": "머무르의 AI 활용곡이 리센느 등 K팝 스타를 제치고 멜론 1위에 올랐다.",
-          "mini_headline": "AI 활용곡 첫 멜론 1위",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img2.yna.co.kr/etc/inner/KR/2026/11/13/AKR20261113157000005_01_i_P4.jpg",
-                "cap": "머무르 '꿈꾸던 어른이 되었나요?' [멜론 제공. 재판매 및 DB 금지]"
-              },
-              {
-                "t": "p",
-                "x": "작곡과 가창에 인공지능(AI)을 활용한 노래가 K팝 사상 처음으로 국내 대표 음원 플랫폼 멜론의 '톱 100' 차트에서 1위를 기록했다."
-              },
-              {
-                "t": "p",
-                "x": "13일 가요계에 따르면 머무르의 '꿈꾸던 어른이 되었나요?'는 이날 오후 5시 기준 멜론 '톱 100' 차트에서 리센느의 신곡 '위드'(With)를 제치고 정상을 밟았다. 6월 발매 이후 약 5개월 만의 기록이다. 청취자 연령대는 30대가 36%로 가장 많았고, 40대 30%, 20대 19%, 50대 11% 순이었다."
-              },
-              {
-                "t": "img",
-                "src": "https://img6.yna.co.kr/etc/inner/KR/2026/11/13/AKR20261113157000005_05_i_P4.jpg",
-                "cap": "멜론 13일 오후 5시 '톱 100' 차트 [멜론 캡처. 재판매 및 DB 금지]"
-              },
-              {
-                "t": "p",
-                "x": "이 곡의 보컬은 사람이 아닌 생성형 음악 AI인 수노(SUNO)로 구현됐다. 머무르는 \"본 앨범의 보컬은 수노 AI 기술을 통해 생성됐다\"며 \"기획·작사 및 전체 프로듀싱 디렉션은 아티스트 머무르가 직접 진행했다\"고 설명했다. 그러면서 \"제게 AI는 현대적인 악기이자, 제 상상을 함께 현실로 옮겨주는 파트너\"라고 소개했다."
-              },
-              {
-                "t": "p",
-                "x": "AI 활용곡이 리센느(2위), A2O 라이트(3위), 아일릿(5위) 등 K팝 스타를 따돌리고 1위를 차지한 것이다."
-              },
-              {
-                "t": "p",
-                "x": "정민재 대중음악평론가는 \"대중음악 분야에서도 AI의 파도는 예견됐던 일\"이라며 \"뮤지션과 작곡가 입장에선 AI 활용곡의 차트 1위가 달갑지 않겠지만, 인간 창작자로서 더욱 수준 높은 음악을 만들어내는 일에 힘을 쏟을 수밖에 없을 것\"이라고 말했다."
-              }
-            ]
-          }
-        },
-        "en": {
-          "headline": "First AI-assisted song\nhits No. 1 on Melon Top 100",
-          "body": "Mumuru's AI-assisted song beat K-pop stars including RESCENE to reach No. 1 on Melon.",
-          "mini_headline": "First AI-assisted No. 1 on Melon",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img2.yna.co.kr/etc/inner/KR/2026/11/13/AKR20261113157000005_01_i_P4.jpg",
-                "cap": "Mumuru, 'Have You Become the Adult You Dreamed Of?' [Courtesy of Melon. No resale or DB use]"
-              },
-              {
-                "t": "p",
-                "x": "A song that used artificial intelligence (AI) for its composition and vocals has reached No. 1 on the 'Top 100' chart of Melon, Korea's leading music streaming platform, for the first time in K-pop history."
-              },
-              {
-                "t": "p",
-                "x": "According to the music industry on the 13th, Mumuru's 'Have You Become the Adult You Dreamed Of?' took the top spot on Melon's 'Top 100' chart as of 5 p.m. that day, overtaking RESCENE's new song 'With'. It came about 5 months after its June release. By listener age, people in their 30s made up the largest share at 36%, followed by those in their 40s at 30%, their 20s at 19% and their 50s at 11%."
-              },
-              {
-                "t": "img",
-                "src": "https://img6.yna.co.kr/etc/inner/KR/2026/11/13/AKR20261113157000005_05_i_P4.jpg",
-                "cap": "Melon 'Top 100' chart at 5 p.m. on the 13th [Melon capture. No resale or DB use]"
-              },
-              {
-                "t": "p",
-                "x": "The song's vocals were produced not by a person but by Suno (SUNO), a generative music AI. Mumuru explained, \"The vocals on this album were generated with Suno AI technology,\" adding, \"The planning, lyrics and overall production direction were handled by the artist Mumuru directly.\" Mumuru also described it this way: \"To me, AI is a modern instrument and a partner that helps turn my imagination into reality.\""
-              },
-              {
-                "t": "p",
-                "x": "The AI-assisted song finished ahead of K-pop stars such as RESCENE (No. 2), A2O Light (No. 3) and ILLIT (No. 5) to take No. 1."
-              },
-              {
-                "t": "p",
-                "x": "Pop music critic Jung Min-jae said, \"The wave of AI was expected in popular music too,\" adding, \"Musicians and composers may not welcome an AI-assisted song reaching No. 1 on the chart, but as human creators they will have no choice but to put their energy into making music of even higher quality.\""
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AI活用曲が史上初\nメロン トップ100 1位",
-          "body": "MumuruのAI活用曲がRESCENEらK-POPスターを抑え、メロンで1位に立った。",
-          "mini_headline": "AI活用曲、初のメロン1位",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img2.yna.co.kr/etc/inner/KR/2026/11/13/AKR20261113157000005_01_i_P4.jpg",
-                "cap": "Mumuru「夢見ていた大人になれましたか?」[メロン提供。再販売およびDB化禁止]"
-              },
-              {
-                "t": "p",
-                "x": "作曲と歌唱に人工知能(AI)を活用した曲が、K-POP史上初めて韓国を代表する音楽配信プラットフォーム、メロンの「トップ100」チャートで1位を記録した。"
-              },
-              {
-                "t": "p",
-                "x": "13日の音楽業界によると、Mumuruの「夢見ていた大人になれましたか?」はこの日午後5時時点のメロン「トップ100」チャートで、RESCENEの新曲「With」を抑えて首位に立った。6月のリリースから約5か月での記録だ。リスナーの年齢層は30代が36%で最も多く、40代30%、20代19%、50代11%と続いた。"
-              },
-              {
-                "t": "img",
-                "src": "https://img6.yna.co.kr/etc/inner/KR/2026/11/13/AKR20261113157000005_05_i_P4.jpg",
-                "cap": "メロン 13日午後5時の「トップ100」チャート [メロンのキャプチャ。再販売およびDB化禁止]"
-              },
-              {
-                "t": "p",
-                "x": "この曲のボーカルは人間ではなく、生成音楽AIのSuno(SUNO)によるものだ。Mumuruは「本アルバムのボーカルはSuno AIの技術で生成した」とし、「企画・作詞および全体のプロデュースディレクションはアーティストMumuru自身が手がけた」と説明した。さらに「私にとってAIは現代的な楽器であり、私の想像を共に現実へ移してくれるパートナーだ」と語った。"
-              },
-              {
-                "t": "p",
-                "x": "AI活用曲が、RESCENE(2位)、A2O Light(3位)、ILLIT(5位)などK-POPスターを抑えて1位を獲得したことになる。"
-              },
-              {
-                "t": "p",
-                "x": "大衆音楽評論家のチョン・ミンジェ氏は「大衆音楽の分野でもAIの波は予見されていたことだ」とし、「ミュージシャンや作曲家の立場ではAI活用曲のチャート1位は歓迎しにくいだろうが、人間の創作者として、より質の高い音楽を生み出すことに力を注ぐしかないだろう」と述べた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "AI歌曲史上首获Melon\nTop 100 第1名",
-          "body": "머무르的AI辅助歌曲力压RESCENE等K-pop明星，登上Melon第1名。",
-          "mini_headline": "AI歌曲首登Melon第1名",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img2.yna.co.kr/etc/inner/KR/2026/11/13/AKR20261113157000005_01_i_P4.jpg",
-                "cap": "머무르《꿈꾸던 어른이 되었나요?》[Melon提供。禁止转售及收录DB]"
-              },
-              {
-                "t": "p",
-                "x": "一首在作曲和演唱中运用人工智能（AI）的歌曲，在K-pop史上首次登上韩国代表性音源平台Melon的“Top 100”榜单第1名。"
-              },
-              {
-                "t": "p",
-                "x": "据歌谣界13日消息，머무르的《꿈꾸던 어른이 되었나요?》当天下午5点在Melon“Top 100”榜单上超越RESCENE的新歌《With》登顶。这是该曲6月发行后约5个月取得的成绩。听众年龄层中30多岁最多，占36%，其次为40多岁（30%）、20多岁（19%）和50多岁（11%）。"
-              },
-              {
-                "t": "img",
-                "src": "https://img6.yna.co.kr/etc/inner/KR/2026/11/13/AKR20261113157000005_05_i_P4.jpg",
-                "cap": "Melon 13日下午5点“Top 100”榜单 [Melon截图。禁止转售及收录DB]"
-              },
-              {
-                "t": "p",
-                "x": "这首歌的人声并非真人，而是由生成式音乐AI Suno（SUNO）实现。머무르说明：“本专辑的人声是通过Suno AI技术生成的”，“策划、作词及整体制作方向由艺人머무르亲自完成”。并介绍说：“对我来说，AI是一种现代乐器，也是与我一起把想象变为现实的伙伴。”"
-              },
-              {
-                "t": "p",
-                "x": "这首AI辅助歌曲力压RESCENE（第2名）、A2O LIGHT（第3名）、ILLIT（第5名）等K-pop明星，夺得第1名。"
-              },
-              {
-                "t": "p",
-                "x": "大众音乐评论家정민재表示：“AI浪潮在大众音乐领域同样是意料之中的事”，“对音乐人和作曲家而言，AI辅助歌曲登上榜单第1名或许并不令人欣喜，但作为人类创作者，只能更加致力于创作出更高水准的音乐。”"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Un tema con AI, por primera vez\nn.º 1 en el Top 100 de Melon",
-          "body": "Un tema de 머무르 creado con AI superó a estrellas del K-pop como RESCENE y alcanzó el n.º 1 en Melon.",
-          "mini_headline": "Primer tema con AI n.º 1 en Melon",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img2.yna.co.kr/etc/inner/KR/2026/11/13/AKR20261113157000005_01_i_P4.jpg",
-                "cap": "'꿈꾸던 어른이 되었나요?' de 머무르 [Cortesía de Melon. Prohibida la reventa y su inclusión en DB]"
-              },
-              {
-                "t": "p",
-                "x": "Una canción que utilizó inteligencia artificial (AI) en la composición y el canto alcanzó, por primera vez en la historia del K-pop, el n.º 1 de la lista 'Top 100' de Melon, la principal plataforma de música en streaming del país."
-              },
-              {
-                "t": "p",
-                "x": "Según la industria musical, el día 13 '꿈꾸던 어른이 되었나요?' de 머무르 llegó a lo más alto de la lista 'Top 100' de Melon a las 5 de la tarde, por delante de 'With', el nuevo sencillo de RESCENE. Lo logró unos 5 meses después de su lanzamiento en junio. Por edades, predominó la franja de los 30 años, con un 36%, seguida de la de los 40 (30%), la de los 20 (19%) y la de los 50 (11%)."
-              },
-              {
-                "t": "img",
-                "src": "https://img6.yna.co.kr/etc/inner/KR/2026/11/13/AKR20261113157000005_05_i_P4.jpg",
-                "cap": "Lista 'Top 100' de Melon a las 5 de la tarde del día 13 [Captura de Melon. Prohibida la reventa y su inclusión en DB]"
-              },
-              {
-                "t": "p",
-                "x": "La voz de la canción no es humana: se generó con Suno (SUNO), una AI de música generativa. 머무르 explicó que \"la voz de este álbum se generó mediante la tecnología Suno AI\" y que \"la planificación, la letra y la dirección general de la producción las llevó a cabo personalmente el artista 머무르\". Añadió: \"Para mí, la AI es un instrumento moderno y un compañero que me ayuda a hacer realidad lo que imagino\"."
-              },
-              {
-                "t": "p",
-                "x": "Así, una canción hecha con AI dejó atrás a estrellas del K-pop como RESCENE (2.º), A2O LIGHT (3.º) e ILLIT (5.º) para hacerse con el n.º 1."
-              },
-              {
-                "t": "p",
-                "x": "El crítico de música popular 정민재 señaló que \"la ola de la AI también era previsible en la música popular\" y que \"a músicos y compositores no les agradará que una canción hecha con AI llegue al n.º 1 de la lista, pero como creadores humanos no tendrán más remedio que esforzarse en crear música de mayor nivel\"."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "en": {
-          "headline": "First AI-assisted song\nhits No. 1 on Melon Top 100",
-          "body": "Mumuru's AI-assisted song beat K-pop stars including RESCENE to reach No. 1 on Melon.",
-          "mini_headline": "First AI-assisted No. 1 on Melon",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img2.yna.co.kr/etc/inner/KR/2026/11/13/AKR20261113157000005_01_i_P4.jpg",
-                "cap": "Mumuru, 'Have You Become the Adult You Dreamed Of?' [Courtesy of Melon. No resale or DB use]"
-              },
-              {
-                "t": "p",
-                "x": "A song that used artificial intelligence (AI) for its composition and vocals has reached No. 1 on the 'Top 100' chart of Melon, Korea's leading music streaming platform, for the first time in K-pop history."
-              },
-              {
-                "t": "p",
-                "x": "According to the music industry on the 13th, Mumuru's 'Have You Become the Adult You Dreamed Of?' took the top spot on Melon's 'Top 100' chart as of 5 p.m. that day, overtaking RESCENE's new song 'With'. It came about 5 months after its June release. By listener age, people in their 30s made up the largest share at 36%, followed by those in their 40s at 30%, their 20s at 19% and their 50s at 11%."
-              },
-              {
-                "t": "img",
-                "src": "https://img6.yna.co.kr/etc/inner/KR/2026/11/13/AKR20261113157000005_05_i_P4.jpg",
-                "cap": "Melon 'Top 100' chart at 5 p.m. on the 13th [Melon capture. No resale or DB use]"
-              },
-              {
-                "t": "p",
-                "x": "The song's vocals were produced not by a person but by Suno (SUNO), a generative music AI. Mumuru explained, \"The vocals on this album were generated with Suno AI technology,\" adding, \"The planning, lyrics and overall production direction were handled by the artist Mumuru directly.\" Mumuru also described it this way: \"To me, AI is a modern instrument and a partner that helps turn my imagination into reality.\""
-              },
-              {
-                "t": "p",
-                "x": "The AI-assisted song finished ahead of K-pop stars such as RESCENE (No. 2), A2O Light (No. 3) and ILLIT (No. 5) to take No. 1."
-              },
-              {
-                "t": "p",
-                "x": "Pop music critic Jung Min-jae said, \"The wave of AI was expected in popular music too,\" adding, \"Musicians and composers may not welcome an AI-assisted song reaching No. 1 on the chart, but as human creators they will have no choice but to put their energy into making music of even higher quality.\""
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AI活用曲が史上初\nメロン トップ100 1位",
-          "body": "MumuruのAI活用曲がRESCENEらK-POPスターを抑え、メロンで1位に立った。",
-          "mini_headline": "AI活用曲、初のメロン1位",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img2.yna.co.kr/etc/inner/KR/2026/11/13/AKR20261113157000005_01_i_P4.jpg",
-                "cap": "Mumuru「夢見ていた大人になれましたか?」[メロン提供。再販売およびDB化禁止]"
-              },
-              {
-                "t": "p",
-                "x": "作曲と歌唱に人工知能(AI)を活用した曲が、K-POP史上初めて韓国を代表する音楽配信プラットフォーム、メロンの「トップ100」チャートで1位を記録した。"
-              },
-              {
-                "t": "p",
-                "x": "13日の音楽業界によると、Mumuruの「夢見ていた大人になれましたか?」はこの日午後5時時点のメロン「トップ100」チャートで、RESCENEの新曲「With」を抑えて首位に立った。6月のリリースから約5か月での記録だ。リスナーの年齢層は30代が36%で最も多く、40代30%、20代19%、50代11%と続いた。"
-              },
-              {
-                "t": "img",
-                "src": "https://img6.yna.co.kr/etc/inner/KR/2026/11/13/AKR20261113157000005_05_i_P4.jpg",
-                "cap": "メロン 13日午後5時の「トップ100」チャート [メロンのキャプチャ。再販売およびDB化禁止]"
-              },
-              {
-                "t": "p",
-                "x": "この曲のボーカルは人間ではなく、生成音楽AIのSuno(SUNO)によるものだ。Mumuruは「本アルバムのボーカルはSuno AIの技術で生成した」とし、「企画・作詞および全体のプロデュースディレクションはアーティストMumuru自身が手がけた」と説明した。さらに「私にとってAIは現代的な楽器であり、私の想像を共に現実へ移してくれるパートナーだ」と語った。"
-              },
-              {
-                "t": "p",
-                "x": "AI活用曲が、RESCENE(2位)、A2O Light(3位)、ILLIT(5位)などK-POPスターを抑えて1位を獲得したことになる。"
-              },
-              {
-                "t": "p",
-                "x": "大衆音楽評論家のチョン・ミンジェ氏は「大衆音楽の分野でもAIの波は予見されていたことだ」とし、「ミュージシャンや作曲家の立場ではAI活用曲のチャート1位は歓迎しにくいだろうが、人間の創作者として、より質の高い音楽を生み出すことに力を注ぐしかないだろう」と述べた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "AI歌曲史上首获Melon\nTop 100 第1名",
-          "body": "머무르的AI辅助歌曲力压RESCENE等K-pop明星，登上Melon第1名。",
-          "mini_headline": "AI歌曲首登Melon第1名",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img2.yna.co.kr/etc/inner/KR/2026/11/13/AKR20261113157000005_01_i_P4.jpg",
-                "cap": "머무르《꿈꾸던 어른이 되었나요?》[Melon提供。禁止转售及收录DB]"
-              },
-              {
-                "t": "p",
-                "x": "一首在作曲和演唱中运用人工智能（AI）的歌曲，在K-pop史上首次登上韩国代表性音源平台Melon的“Top 100”榜单第1名。"
-              },
-              {
-                "t": "p",
-                "x": "据歌谣界13日消息，머무르的《꿈꾸던 어른이 되었나요?》当天下午5点在Melon“Top 100”榜单上超越RESCENE的新歌《With》登顶。这是该曲6月发行后约5个月取得的成绩。听众年龄层中30多岁最多，占36%，其次为40多岁（30%）、20多岁（19%）和50多岁（11%）。"
-              },
-              {
-                "t": "img",
-                "src": "https://img6.yna.co.kr/etc/inner/KR/2026/11/13/AKR20261113157000005_05_i_P4.jpg",
-                "cap": "Melon 13日下午5点“Top 100”榜单 [Melon截图。禁止转售及收录DB]"
-              },
-              {
-                "t": "p",
-                "x": "这首歌的人声并非真人，而是由生成式音乐AI Suno（SUNO）实现。머무르说明：“本专辑的人声是通过Suno AI技术生成的”，“策划、作词及整体制作方向由艺人머무르亲自完成”。并介绍说：“对我来说，AI是一种现代乐器，也是与我一起把想象变为现实的伙伴。”"
-              },
-              {
-                "t": "p",
-                "x": "这首AI辅助歌曲力压RESCENE（第2名）、A2O LIGHT（第3名）、ILLIT（第5名）等K-pop明星，夺得第1名。"
-              },
-              {
-                "t": "p",
-                "x": "大众音乐评论家정민재表示：“AI浪潮在大众音乐领域同样是意料之中的事”，“对音乐人和作曲家而言，AI辅助歌曲登上榜单第1名或许并不令人欣喜，但作为人类创作者，只能更加致力于创作出更高水准的音乐。”"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Un tema con AI, por primera vez\nn.º 1 en el Top 100 de Melon",
-          "body": "Un tema de 머무르 creado con AI superó a estrellas del K-pop como RESCENE y alcanzó el n.º 1 en Melon.",
-          "mini_headline": "Primer tema con AI n.º 1 en Melon",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img2.yna.co.kr/etc/inner/KR/2026/11/13/AKR20261113157000005_01_i_P4.jpg",
-                "cap": "'꿈꾸던 어른이 되었나요?' de 머무르 [Cortesía de Melon. Prohibida la reventa y su inclusión en DB]"
-              },
-              {
-                "t": "p",
-                "x": "Una canción que utilizó inteligencia artificial (AI) en la composición y el canto alcanzó, por primera vez en la historia del K-pop, el n.º 1 de la lista 'Top 100' de Melon, la principal plataforma de música en streaming del país."
-              },
-              {
-                "t": "p",
-                "x": "Según la industria musical, el día 13 '꿈꾸던 어른이 되었나요?' de 머무르 llegó a lo más alto de la lista 'Top 100' de Melon a las 5 de la tarde, por delante de 'With', el nuevo sencillo de RESCENE. Lo logró unos 5 meses después de su lanzamiento en junio. Por edades, predominó la franja de los 30 años, con un 36%, seguida de la de los 40 (30%), la de los 20 (19%) y la de los 50 (11%)."
-              },
-              {
-                "t": "img",
-                "src": "https://img6.yna.co.kr/etc/inner/KR/2026/11/13/AKR20261113157000005_05_i_P4.jpg",
-                "cap": "Lista 'Top 100' de Melon a las 5 de la tarde del día 13 [Captura de Melon. Prohibida la reventa y su inclusión en DB]"
-              },
-              {
-                "t": "p",
-                "x": "La voz de la canción no es humana: se generó con Suno (SUNO), una AI de música generativa. 머무르 explicó que \"la voz de este álbum se generó mediante la tecnología Suno AI\" y que \"la planificación, la letra y la dirección general de la producción las llevó a cabo personalmente el artista 머무르\". Añadió: \"Para mí, la AI es un instrumento moderno y un compañero que me ayuda a hacer realidad lo que imagino\"."
-              },
-              {
-                "t": "p",
-                "x": "Así, una canción hecha con AI dejó atrás a estrellas del K-pop como RESCENE (2.º), A2O LIGHT (3.º) e ILLIT (5.º) para hacerse con el n.º 1."
-              },
-              {
-                "t": "p",
-                "x": "El crítico de música popular 정민재 señaló que \"la ola de la AI también era previsible en la música popular\" y que \"a músicos y compositores no les agradará que una canción hecha con AI llegue al n.º 1 de la lista, pero como creadores humanos no tendrán más remedio que esforzarse en crear música de mayor nivel\"."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "bpi-getty-offshore-training",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "BPI, 해외 AI 학습\n저작권 우회 경고",
-      "body": "BPI가 UK 항소심에서 Getty 편에 서서 AI 역외 학습을 경고했다.",
-      "mini_headline": "BPI, 역외 AI 학습에 경고",
-      "tool": "Music",
-      "source": "CMU",
-      "url": "https://completemusicupdate.com/getty-v-stability-ruling-could-allow-ai-companies-to-offshore-training-to-circumvent-uk-copyright-law-says-bpi/",
+      "source": "AI포스트",
+      "url": "https://www.aipostkorea.com/news/articleView.html?idxno=13276",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/2026/11/Getty-v-Stablity---1-.png",
-            "cap": "Getty v Stability"
+            "src": "https://cdn.aipostkorea.com/news/photo/202611/13276_24022_5651.png",
+            "cap": "(사진=뮤직플랫)"
           },
           {
             "t": "p",
-            "x": "AI 기업의 저작권 의무를 다투는 영국의 대형 소송인 Getty Images와 Stability AI의 재판이 이번 주 다시 열렸다. 음반업계 단체 BPI는 이 시각 미디어 기업 편에 서서 소송에 참가했다."
+            "x": "AI로 만든 노래가 음원 차트를 넘어 전화 화면까지 들어왔다. 음원 유통 AI 서비스 민티파이(운영사 뮤직플랫)는 통신 3사의 통화 연결 영상 서비스 V 컬러링과 V 프로필에 서비스를 시작하고, 이를 기념해 11월 12일부터 12월 10일까지 '인기 최신곡 by 민티파이' 이벤트를 연다고 밝혔다."
           },
           {
             "t": "p",
-            "x": "항소법원(Court Of Appeal)에 올라 있는 이 사건의 쟁점은 US에서 라이선스 없는 콘텐츠로 학습한 AI 모델을 UK에서 제공하면 UK 법상 저작권 침해가 되느냐다. 지난해 런던 고등법원(High Court)이 침해가 아니라고 판결하자 Getty가 항소했다."
+            "x": "최근 AI 음악은 빠르게 존재감을 키우고 있다. AI 크리에이터 머무르의 '꿈꾸던 어른이 되었나요?'는 지난달 멜론 TOP100 2위까지 올랐다. 민티파이는 이런 AI 음악이 음원 사이트뿐 아니라 전화를 걸고 받는 순간에도 쓰일 수 있도록 V 컬러링과 V 프로필에 곡을 공급한다."
           },
           {
             "t": "p",
-            "x": "BPI는 이 법 해석이 바로잡히지 않으면 AI 기업이 UK 저작권 규정을 피하려고 모델을 \"역외\"에서 학습시키고도 UK 시장에서 상업화할 길이 열린다고 본다. 그러면 음악과 창작 산업 전반에 \"중대한 결과\"가 닥칠 수 있다는 것이다."
+            "x": "V 컬러링과 V 프로필은 전화가 연결되기 전까지 상대방 화면에 영상을 보여주는 서비스다. 나에게 전화를 거는 사람에게 보이도록 설정하면 V 컬러링으로, 내 전화를 받는 사람에게 보이도록 설정하면 V 프로필로 쓸 수 있다. 민티파이 AI 음원이 포함된 영상을 설정하면 내가 고른 음악과 영상이 상대방 화면에 나온다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.aipostkorea.com/news/photo/202611/13276_24023_571.jpg",
+            "cap": "(사진=뮤직플랫)"
           },
           {
             "t": "p",
-            "x": "BPI는 앞으로의 소송이 같은 논리로 판가름 나지 않을 수도 있다고 강조했다. 그 예로 GEMA가 독일에서 Open AI와 Suno를 상대로 낸 소송을 들었다. 이 사건에서 법원은 '암기(memorisation)' 때문에 AI 모델 안에 저작물 사본이 담겨 있다고 봤다. Getty 항소심 판결은 올해 말이나 2027년 초에 나올 것으로 보인다."
+            "x": "이번 이벤트에는 민티파이로 발매된 AI 음원이 포함된 영상 18개가 먼저 공개된다. V 컬러링 무제한 또는 V 프로필 이용 고객이 이벤트 영상을 1일 이상 설정하면 자동으로 응모된다. 경품은 1등 갤럭시 버즈 PRO(1명), 2등 민티파이 발매권 33,000원 상당(10명), 3등 JBOX 50% 할인권(100명)이고, 당첨자는 12월 15일 발표한다. 민티파이는 이벤트 이후에도 발매곡을 V 컬러링과 V 프로필에 계속 공급할 계획이다."
+          },
+          {
+            "t": "p",
+            "x": "민티파이는 음원만 있으면 AI 기술로 자켓 이미지와 발매에 필요한 데이터를 자동으로 만들어, 국내외 30여 개 음원 서비스에 판매할 수 있게 해준다. AI로 만든 곡이든 사람이 만든 곡이든 상관없어, 일반인과 뮤지션 모두 자신의 음악으로 쉽게 수익을 낼 수 있다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "BPI warns of offshore\nAI training loophole",
-          "body": "Backing Getty at the UK Court of Appeal, the BPI warned AI firms could train offshore to sidestep UK copyright.",
-          "mini_headline": "BPI flags offshore AI training",
+        "ko": {
+          "headline": "민티파이 AI 노래\nV 컬러링에 공급",
+          "body": "민티파이가 통신 3사 V 컬러링에 AI로 만든 노래를 공급하기 시작했다.",
+          "mini_headline": "AI 노래, V 컬러링으로",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/2026/11/Getty-v-Stablity---1-.png",
-                "cap": "Getty v Stability"
+                "src": "https://cdn.aipostkorea.com/news/photo/202611/13276_24022_5651.png",
+                "cap": "(사진=뮤직플랫)"
               },
               {
                 "t": "p",
-                "x": "The big British legal battle exploring the copyright obligations of AI companies, involving Getty Images and Stability AI, was back in court this week, with record industry trade group BPI intervening in support of the visual media company."
+                "x": "AI로 만든 노래가 음원 차트를 넘어 전화 화면까지 들어왔다. 음원 유통 AI 서비스 민티파이(운영사 뮤직플랫)는 통신 3사의 통화 연결 영상 서비스 V 컬러링과 V 프로필에 서비스를 시작하고, 이를 기념해 11월 12일부터 12월 10일까지 '인기 최신곡 by 민티파이' 이벤트를 연다고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "The case, now in the Court Of Appeal, centres on whether making an AI model available in the UK that was trained on unlicensed content in the US constitutes copyright infringement under UK law. Last year the High Court in London ruled that it does not, a ruling Getty is now appealing."
+                "x": "최근 AI 음악은 빠르게 존재감을 키우고 있다. AI 크리에이터 머무르의 '꿈꾸던 어른이 되었나요?'는 지난달 멜론 TOP100 2위까지 올랐다. 민티파이는 이런 AI 음악이 음원 사이트뿐 아니라 전화를 걸고 받는 순간에도 쓰일 수 있도록 V 컬러링과 V 프로필에 곡을 공급한다."
               },
               {
                 "t": "p",
-                "x": "According to the BPI, that interpretation of the law – if left unchallenged – suggests AI companies can train their models \"offshore\" to avoid UK copyright rules and then still commercialise their models within the UK market, which could have \"significant consequences\" for the music and wider creative industries."
+                "x": "V 컬러링과 V 프로필은 전화가 연결되기 전까지 상대방 화면에 영상을 보여주는 서비스다. 나에게 전화를 거는 사람에게 보이도록 설정하면 V 컬러링으로, 내 전화를 받는 사람에게 보이도록 설정하면 V 프로필로 쓸 수 있다. 민티파이 AI 음원이 포함된 영상을 설정하면 내가 고른 음악과 영상이 상대방 화면에 나온다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.aipostkorea.com/news/photo/202611/13276_24023_571.jpg",
+                "cap": "(사진=뮤직플랫)"
               },
               {
                 "t": "p",
-                "x": "The BPI also stressed that future claims might not swing on the same arguments, citing GEMA's German litigation against Open AI and Suno, where courts ruled the AI models did contain copies of works because of 'memorisation'. A ruling on the Getty appeal is expected towards the end of this year or in early 2027."
+                "x": "이번 이벤트에는 민티파이로 발매된 AI 음원이 포함된 영상 18개가 먼저 공개된다. V 컬러링 무제한 또는 V 프로필 이용 고객이 이벤트 영상을 1일 이상 설정하면 자동으로 응모된다. 경품은 1등 갤럭시 버즈 PRO(1명), 2등 민티파이 발매권 33,000원 상당(10명), 3등 JBOX 50% 할인권(100명)이고, 당첨자는 12월 15일 발표한다. 민티파이는 이벤트 이후에도 발매곡을 V 컬러링과 V 프로필에 계속 공급할 계획이다."
+              },
+              {
+                "t": "p",
+                "x": "민티파이는 음원만 있으면 AI 기술로 자켓 이미지와 발매에 필요한 데이터를 자동으로 만들어, 국내외 30여 개 음원 서비스에 판매할 수 있게 해준다. AI로 만든 곡이든 사람이 만든 곡이든 상관없어, 일반인과 뮤지션 모두 자신의 음악으로 쉽게 수익을 낼 수 있다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "BPI, 해외 AI 학습\n저작권 우회 경고",
-          "body": "BPI가 UK 항소심에서 Getty 편에 서서 AI 역외 학습을 경고했다.",
-          "mini_headline": "BPI, 역외 AI 학습에 경고",
+        "en": {
+          "headline": "Mintify brings AI songs\nto V Coloring call screens",
+          "body": "Mintify has begun supplying AI-made songs to V Coloring, the call video service of the 3 major telecom carriers.",
+          "mini_headline": "AI songs head to V Coloring",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/2026/11/Getty-v-Stablity---1-.png",
-                "cap": "Getty v Stability"
+                "src": "https://cdn.aipostkorea.com/news/photo/202611/13276_24022_5651.png",
+                "cap": "(Photo: MusicPlat)"
               },
               {
                 "t": "p",
-                "x": "AI 기업의 저작권 의무를 다투는 영국의 대형 소송인 Getty Images와 Stability AI의 재판이 이번 주 다시 열렸다. 음반업계 단체 BPI는 이 시각 미디어 기업 편에 서서 소송에 참가했다."
+                "x": "Songs made with AI have moved beyond the music charts and onto phone screens. Mintify (operated by MusicPlat), an AI music distribution service, said it has launched on V Coloring and V Profile, the call-connection video services of the 3 telecom carriers, and that to mark the launch it will run a 'Popular Latest Songs by Mintify' event from 11/12 to 12/10."
               },
               {
                 "t": "p",
-                "x": "항소법원(Court Of Appeal)에 올라 있는 이 사건의 쟁점은 US에서 라이선스 없는 콘텐츠로 학습한 AI 모델을 UK에서 제공하면 UK 법상 저작권 침해가 되느냐다. 지난해 런던 고등법원(High Court)이 침해가 아니라고 판결하자 Getty가 항소했다."
+                "x": "AI music has been rapidly gaining presence. AI creator Meomureu's 'Have I Become the Adult I Dreamed Of?' climbed as high as No. 2 on the Melon TOP100 last month. Mintify supplies songs to V Coloring and V Profile so that such AI music can be used not only on music sites but also in the moments when people make and receive calls."
               },
               {
                 "t": "p",
-                "x": "BPI는 이 법 해석이 바로잡히지 않으면 AI 기업이 UK 저작권 규정을 피하려고 모델을 \"역외\"에서 학습시키고도 UK 시장에서 상업화할 길이 열린다고 본다. 그러면 음악과 창작 산업 전반에 \"중대한 결과\"가 닥칠 수 있다는 것이다."
+                "x": "V Coloring and V Profile are services that show a video on the other party's screen until a call connects. Set to be seen by people calling you, it works as V Coloring; set to be seen by people you call, it works as V Profile. When a user sets a video containing Mintify AI music, the music and video they chose appear on the other party's screen."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.aipostkorea.com/news/photo/202611/13276_24023_571.jpg",
+                "cap": "(Photo: MusicPlat)"
               },
               {
                 "t": "p",
-                "x": "BPI는 앞으로의 소송이 같은 논리로 판가름 나지 않을 수도 있다고 강조했다. 그 예로 GEMA가 독일에서 Open AI와 Suno를 상대로 낸 소송을 들었다. 이 사건에서 법원은 '암기(memorisation)' 때문에 AI 모델 안에 저작물 사본이 담겨 있다고 봤다. Getty 항소심 판결은 올해 말이나 2027년 초에 나올 것으로 보인다."
+                "x": "The event opens with 18 videos featuring AI tracks released through Mintify. Customers using V Coloring Unlimited or V Profile are entered automatically when they set an event video for at least 1 day. Prizes are a Galaxy Buds PRO for 1st place (1 winner), a Mintify release voucher worth 33,000 won for 2nd place (10 winners) and a JBOX 50% discount voucher for 3rd place (100 winners), and winners will be announced on 12/15. Mintify plans to keep supplying its released songs to V Coloring and V Profile after the event."
+              },
+              {
+                "t": "p",
+                "x": "With nothing more than an audio track, Mintify uses AI to automatically create cover art and the data needed for release, letting the music be sold on some 30 music services at home and abroad. It does not matter whether a song was made by AI or by a person, so both ordinary users and musicians can easily earn money from their own music."
               }
             ]
           }
         },
         "ja": {
-          "headline": "BPI、海外でのAI学習\n著作権回避に警鐘",
-          "body": "BPIはUK控訴院でGettyを支持し、AI企業の国外学習による著作権回避を警告した。",
-          "mini_headline": "BPI、国外でのAI学習に警鐘",
+          "headline": "Mintify、AI楽曲を\nVカラーリングに供給",
+          "body": "Mintifyが通信3社のVカラーリングにAIで作った楽曲の供給を始めた。",
+          "mini_headline": "AI楽曲、Vカラーリングへ",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/2026/11/Getty-v-Stablity---1-.png",
-                "cap": "Getty v Stability"
+                "src": "https://cdn.aipostkorea.com/news/photo/202611/13276_24022_5651.png",
+                "cap": "（写真=MusicPlat）"
               },
               {
                 "t": "p",
-                "x": "AI企業の著作権上の義務を問う英国の大型訴訟、Getty ImagesとStability AIの裁判が今週再び法廷で審理され、レコード業界団体BPIがこのビジュアルメディア企業を支持する形で参加した。"
+                "x": "AIで作った楽曲が、音源チャートを越えて電話の画面にまで入ってきた。音源流通AIサービスのMintify（運営会社MusicPlat）は、通信3社の通話接続動画サービスであるVカラーリングとVプロフィールでサービスを開始し、これを記念して11月12日から12月10日まで「人気最新曲 by Mintify」イベントを開催すると明らかにした。"
               },
               {
                 "t": "p",
-                "x": "現在控訴院(Court Of Appeal)で争われているこの訴訟の焦点は、US内で無許諾のコンテンツを使って学習させたAIモデルをUK内で提供することが、UK法上の著作権侵害にあたるかどうかだ。昨年、ロンドンの高等法院(High Court)は侵害にあたらないと判断し、Gettyはこの判決を不服として控訴している。"
+                "x": "最近、AI音楽は急速に存在感を高めている。AIクリエイターMeomureuの「夢見た大人になれましたか？」は先月、Melon TOP100で2位まで上昇した。Mintifyは、こうしたAI音楽が音源サイトだけでなく電話をかけたり受けたりする瞬間にも使われるよう、VカラーリングとVプロフィールに楽曲を供給する。"
               },
               {
                 "t": "p",
-                "x": "BPIによれば、この法解釈が覆されなければ、AI企業はUKの著作権ルールを避けるためにモデルを「国外」で学習させ、それでもUK市場で商業化できることになり、音楽をはじめとするクリエイティブ産業全体に「重大な影響」を及ぼしかねない。"
+                "x": "VカラーリングとVプロフィールは、電話がつながるまで相手の画面に動画を表示するサービスだ。自分に電話をかける人に見えるよう設定すればVカラーリング、自分の電話を受ける人に見えるよう設定すればVプロフィールとして使える。MintifyのAI音源を含む動画を設定すると、自分が選んだ音楽と動画が相手の画面に流れる。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.aipostkorea.com/news/photo/202611/13276_24023_571.jpg",
+                "cap": "（写真=MusicPlat）"
               },
               {
                 "t": "p",
-                "x": "BPIはまた、今後の訴訟が同じ論点で決まるとは限らないと強調し、GEMAがドイツでOpen AIとSunoを相手取った訴訟を挙げた。この訴訟で裁判所は、「memorisation(記憶)」によってAIモデルに著作物の複製が含まれていると判断した。Gettyの控訴審判決は今年末か2027年初めに出る見通しだ。"
+                "x": "今回のイベントでは、MintifyでリリースされたAI音源を含む動画18本がまず公開される。Vカラーリング無制限またはVプロフィールの利用者がイベント動画を1日以上設定すると自動で応募となる。賞品は1等がGalaxy Buds PRO（1名）、2等がMintifyリリース券33,000ウォン相当（10名）、3等がJBOX 50%割引券（100名）で、当選者は12月15日に発表する。Mintifyはイベント終了後も、リリース曲をVカラーリングとVプロフィールに供給し続ける計画だ。"
+              },
+              {
+                "t": "p",
+                "x": "Mintifyは音源さえあれば、AI技術でジャケット画像とリリースに必要なデータを自動で作成し、国内外30余りの音源サービスで販売できるようにする。AIが作った曲でも人が作った曲でも構わないため、一般の人もミュージシャンも自分の音楽で手軽に収益を得られる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "BPI警告离岸AI训练\n或成版权漏洞",
-          "body": "BPI在UK上诉法院支持Getty，警告AI公司或借离岸训练规避UK版权。",
-          "mini_headline": "BPI 警示离岸 AI 训练",
+          "headline": "Mintify向V彩铃\n供应AI歌曲",
+          "body": "Mintify开始向3家运营商的V彩铃供应AI制作的歌曲。",
+          "mini_headline": "AI歌曲进入V彩铃",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/2026/11/Getty-v-Stablity---1-.png",
-                "cap": "Getty v Stability"
+                "src": "https://cdn.aipostkorea.com/news/photo/202611/13276_24022_5651.png",
+                "cap": "（图片=MusicPlat）"
               },
               {
                 "t": "p",
-                "x": "探讨AI公司版权义务的英国重大诉讼——Getty Images诉Stability AI案本周再度开庭，唱片行业组织BPI介入，支持这家视觉媒体公司。"
+                "x": "AI制作的歌曲已越过音源榜单，走进了手机屏幕。音源发行AI服务Mintify（运营方MusicPlat）宣布，已登陆3家电信运营商的通话接通视频服务V彩铃与V名片，并为此于11月12日至12月10日举办“人气最新曲 by Mintify”活动。"
               },
               {
                 "t": "p",
-                "x": "此案目前在上诉法院（Court Of Appeal）审理，核心问题是：在US使用未经授权内容训练的AI模型在UK提供，是否构成UK法律下的版权侵权。伦敦高等法院（High Court）去年裁定不构成侵权，Getty正对此提起上诉。"
+                "x": "近来AI音乐的存在感迅速上升。AI创作者Meomureu的《我成为梦想中的大人了吗？》上月在Melon TOP100中最高升至第2名。Mintify向V彩铃与V名片供应歌曲，让这类AI音乐不仅出现在音源网站上，也能用于拨打和接听电话的时刻。"
               },
               {
                 "t": "p",
-                "x": "BPI认为，这一法律解释若不受挑战，意味着AI公司可以在“离岸”训练模型以规避UK版权规则，再在UK市场将模型商业化，这可能对音乐及更广泛的创意产业造成“重大后果”。"
+                "x": "V彩铃与V名片是在电话接通前向对方屏幕播放视频的服务。设置为向给我打电话的人展示，即为V彩铃；设置为向接听我电话的人展示，即为V名片。设置含有Mintify AI音源的视频后，我选择的音乐和视频就会出现在对方屏幕上。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.aipostkorea.com/news/photo/202611/13276_24023_571.jpg",
+                "cap": "（图片=MusicPlat）"
               },
               {
                 "t": "p",
-                "x": "BPI还强调，未来的诉讼未必取决于同样的论点，并援引GEMA在德国起诉Open AI和Suno的案件：法院裁定，由于“记忆”（memorisation），这些AI模型确实包含作品的副本。Getty上诉案的裁决预计将在今年年底或2027年初作出。"
+                "x": "此次活动首先公开18段含有经Mintify发行的AI音源的视频。V彩铃无限版或V名片用户将活动视频设置1天以上即自动参与抽奖。奖品为1等奖Galaxy Buds PRO（1名）、2等奖价值33,000韩元的Mintify发行券（10名）、3等奖JBOX 50%折扣券（100名），中奖者将于12月15日公布。Mintify计划在活动结束后继续向V彩铃与V名片供应发行曲目。"
+              },
+              {
+                "t": "p",
+                "x": "只要有音源，Mintify就能用AI技术自动生成封面图片和发行所需的数据，让作品在国内外30余家音源服务上销售。无论是AI制作的歌曲还是人创作的歌曲都可以，普通人和音乐人都能轻松地用自己的音乐获得收益。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La BPI alerta del vacío legal\nde entrenar AI en el extranjero",
-          "body": "La BPI apoyó a Getty y advirtió que las firmas de AI podrían entrenar fuera de UK para eludir su copyright.",
-          "mini_headline": "La BPI alerta sobre el entrenamiento AI offshore",
+          "headline": "Mintify lleva canciones con AI\na las llamadas de V Coloring",
+          "body": "Mintify empezó a suministrar canciones hechas con AI a V Coloring, servicio de las 3 operadoras móviles.",
+          "mini_headline": "Canciones con AI llegan a V Coloring",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/2026/11/Getty-v-Stablity---1-.png",
-                "cap": "Getty v Stability"
+                "src": "https://cdn.aipostkorea.com/news/photo/202611/13276_24022_5651.png",
+                "cap": "(Foto: MusicPlat)"
               },
               {
                 "t": "p",
-                "x": "La gran batalla legal británica sobre las obligaciones de copyright de las empresas de AI, entre Getty Images y Stability AI, volvió esta semana a los tribunales, con la intervención de la BPI, la asociación de la industria discográfica, en apoyo de la empresa de medios visuales."
+                "x": "Las canciones hechas con AI han pasado de las listas musicales a las pantallas del teléfono. Mintify (operado por MusicPlat), un servicio de AI para la distribución de música, anunció que comenzó a ofrecer su servicio en V Coloring y V Profile, los servicios de video al conectar llamadas de las 3 operadoras móviles, y que para celebrarlo organiza del 12/11 al 10/12 el evento 'Canciones recientes populares by Mintify'."
               },
               {
                 "t": "p",
-                "x": "El caso, ahora en el Court Of Appeal (tribunal de apelación), gira en torno a si poner a disposición en UK un modelo de AI entrenado en US con contenido sin licencia constituye una infracción de copyright según la ley de UK. El año pasado, la High Court de Londres dictaminó que no, una sentencia que Getty está recurriendo."
+                "x": "La música hecha con AI gana presencia con rapidez. '¿Me convertí en el adulto que soñaba?', del creador de AI Meomureu, llegó al puesto 2 del Melon TOP100 el mes pasado. Mintify suministra canciones a V Coloring y V Profile para que esta música con AI se use no solo en los sitios de música, sino también al hacer y recibir llamadas."
               },
               {
                 "t": "p",
-                "x": "Según la BPI, esa interpretación de la ley, si no se impugna, sugiere que las empresas de AI pueden entrenar sus modelos \"offshore\" para evitar las normas de copyright de UK y aun así comercializarlos en el mercado de UK, lo que podría tener \"consecuencias significativas\" para la música y para el conjunto de las industrias creativas."
+                "x": "V Coloring y V Profile son servicios que muestran un video en la pantalla de la otra persona hasta que se conecta la llamada. Si se configura para que lo vea quien te llama, funciona como V Coloring; si se configura para que lo vea quien recibe tu llamada, funciona como V Profile. Al configurar un video con música de AI de Mintify, la música y el video elegidos aparecen en la pantalla de la otra persona."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.aipostkorea.com/news/photo/202611/13276_24023_571.jpg",
+                "cap": "(Foto: MusicPlat)"
               },
               {
                 "t": "p",
-                "x": "La BPI también subrayó que futuras demandas podrían no depender de los mismos argumentos, y citó los litigios de GEMA en Alemania contra Open AI y Suno, en los que los tribunales dictaminaron que los modelos de AI sí contenían copias de obras debido a la 'memorisation' (memorización). Se espera una sentencia sobre la apelación de Getty hacia finales de este año o a principios de 2027."
+                "x": "El evento arranca con 18 videos que incluyen temas de AI publicados a través de Mintify. Los clientes de V Coloring ilimitado o de V Profile que configuren un video del evento durante 1 día o más participan automáticamente. Los premios son: 1.er premio, unos Galaxy Buds PRO (1 ganador); 2.º premio, un bono de lanzamiento de Mintify por valor de 33,000 wones (10 ganadores); y 3.er premio, un cupón de descuento del 50% de JBOX (100 ganadores). Los ganadores se anunciarán el 15/12. Mintify prevé seguir suministrando sus lanzamientos a V Coloring y V Profile después del evento."
+              },
+              {
+                "t": "p",
+                "x": "Con solo tener la pista de audio, Mintify usa AI para crear automáticamente la portada y los datos necesarios para el lanzamiento, y permite venderla en unos 30 servicios de música nacionales e internacionales. Da igual si la canción la hizo una AI o una persona, de modo que tanto el público general como los músicos pueden obtener ingresos fácilmente con su propia música."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "BPI, 해외 AI 학습\n저작권 우회 경고",
-          "body": "BPI는 UK 항소심서 Getty를 지지하며 AI 역외 학습을 경고했다.",
-          "mini_headline": "BPI, 역외 AI 학습에 경고",
+        "en": {
+          "headline": "Mintify brings AI songs\nto V Coloring call screens",
+          "body": "Mintify has begun supplying AI-made songs to V Coloring, the call video service of the 3 major telecom carriers.",
+          "mini_headline": "AI songs head to V Coloring",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/2026/11/Getty-v-Stablity---1-.png",
-                "cap": "Getty v Stability"
+                "src": "https://cdn.aipostkorea.com/news/photo/202611/13276_24022_5651.png",
+                "cap": "(Photo: MusicPlat)"
               },
               {
                 "t": "p",
-                "x": "AI 기업의 저작권 의무를 다투는 영국의 대형 소송, Getty Images와 Stability AI의 재판이 이번 주 다시 법정에 올랐다. 음반업계 단체 BPI는 이 시각 미디어 기업을 지지하며 소송에 참가했다."
+                "x": "Songs made with AI have moved beyond the music charts and onto phone screens. Mintify (operated by MusicPlat), an AI music distribution service, said it has launched on V Coloring and V Profile, the call-connection video services of the 3 telecom carriers, and that to mark the launch it will run a 'Popular Latest Songs by Mintify' event from 11/12 to 12/10."
               },
               {
                 "t": "p",
-                "x": "현재 항소법원(Court Of Appeal)에서 다뤄지는 이 사건의 쟁점은, US에서 라이선스 없는 콘텐츠로 학습한 AI 모델을 UK에서 제공하는 것이 UK 법상 저작권 침해인지 여부다. 지난해 런던 고등법원(High Court)은 침해가 아니라고 판결했고, Getty는 이에 항소했다."
+                "x": "AI music has been rapidly gaining presence. AI creator Meomureu's 'Have I Become the Adult I Dreamed Of?' climbed as high as No. 2 on the Melon TOP100 last month. Mintify supplies songs to V Coloring and V Profile so that such AI music can be used not only on music sites but also in the moments when people make and receive calls."
               },
               {
                 "t": "p",
-                "x": "BPI에 따르면 이 법 해석이 바로잡히지 않으면 AI 기업이 UK 저작권 규정을 피하려고 모델을 \"역외\"에서 학습시킨 뒤에도 UK 시장에서 상업화할 수 있다는 뜻이 되며, 이는 음악과 창작 산업 전반에 \"중대한 결과\"를 낳을 수 있다."
+                "x": "V Coloring and V Profile are services that show a video on the other party's screen until a call connects. Set to be seen by people calling you, it works as V Coloring; set to be seen by people you call, it works as V Profile. When a user sets a video containing Mintify AI music, the music and video they chose appear on the other party's screen."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.aipostkorea.com/news/photo/202611/13276_24023_571.jpg",
+                "cap": "(Photo: MusicPlat)"
               },
               {
                 "t": "p",
-                "x": "BPI는 앞으로의 소송이 같은 논리로 판가름 나지 않을 수 있다고도 강조하며, GEMA가 독일에서 Open AI와 Suno를 상대로 낸 소송을 예로 들었다. 이 소송에서 법원은 '암기(memorisation)' 때문에 AI 모델에 저작물의 사본이 담겨 있다고 판단했다. Getty 항소심 판결은 올해 말이나 2027년 초에 나올 전망이다."
+                "x": "The event opens with 18 videos featuring AI tracks released through Mintify. Customers using V Coloring Unlimited or V Profile are entered automatically when they set an event video for at least 1 day. Prizes are a Galaxy Buds PRO for 1st place (1 winner), a Mintify release voucher worth 33,000 won for 2nd place (10 winners) and a JBOX 50% discount voucher for 3rd place (100 winners), and winners will be announced on 12/15. Mintify plans to keep supplying its released songs to V Coloring and V Profile after the event."
+              },
+              {
+                "t": "p",
+                "x": "With nothing more than an audio track, Mintify uses AI to automatically create cover art and the data needed for release, letting the music be sold on some 30 music services at home and abroad. It does not matter whether a song was made by AI or by a person, so both ordinary users and musicians can easily earn money from their own music."
               }
             ]
           }
         },
         "ja": {
-          "headline": "BPI、海外でのAI学習\n著作権回避に警鐘",
-          "body": "BPIはUK控訴院でGettyを支持し、AI企業の国外学習による著作権回避を警告した。",
-          "mini_headline": "BPI、国外でのAI学習に警鐘",
+          "headline": "Mintify、AI楽曲を\nVカラーリングに供給",
+          "body": "Mintifyが通信3社のVカラーリングにAIで作った楽曲の供給を始めた。",
+          "mini_headline": "AI楽曲、Vカラーリングへ",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/2026/11/Getty-v-Stablity---1-.png",
-                "cap": "Getty v Stability"
+                "src": "https://cdn.aipostkorea.com/news/photo/202611/13276_24022_5651.png",
+                "cap": "（写真=MusicPlat）"
               },
               {
                 "t": "p",
-                "x": "AI企業の著作権上の義務を問う英国の大型訴訟、Getty ImagesとStability AIの裁判が今週再び法廷で審理され、レコード業界団体BPIがこのビジュアルメディア企業を支持する形で参加した。"
+                "x": "AIで作った楽曲が、音源チャートを越えて電話の画面にまで入ってきた。音源流通AIサービスのMintify（運営会社MusicPlat）は、通信3社の通話接続動画サービスであるVカラーリングとVプロフィールでサービスを開始し、これを記念して11月12日から12月10日まで「人気最新曲 by Mintify」イベントを開催すると明らかにした。"
               },
               {
                 "t": "p",
-                "x": "現在控訴院(Court Of Appeal)で争われているこの訴訟の焦点は、US内で無許諾のコンテンツを使って学習させたAIモデルをUK内で提供することが、UK法上の著作権侵害にあたるかどうかだ。昨年、ロンドンの高等法院(High Court)は侵害にあたらないと判断し、Gettyはこの判決を不服として控訴している。"
+                "x": "最近、AI音楽は急速に存在感を高めている。AIクリエイターMeomureuの「夢見た大人になれましたか？」は先月、Melon TOP100で2位まで上昇した。Mintifyは、こうしたAI音楽が音源サイトだけでなく電話をかけたり受けたりする瞬間にも使われるよう、VカラーリングとVプロフィールに楽曲を供給する。"
               },
               {
                 "t": "p",
-                "x": "BPIによれば、この法解釈が覆されなければ、AI企業はUKの著作権ルールを避けるためにモデルを「国外」で学習させ、それでもUK市場で商業化できることになり、音楽をはじめとするクリエイティブ産業全体に「重大な影響」を及ぼしかねない。"
+                "x": "VカラーリングとVプロフィールは、電話がつながるまで相手の画面に動画を表示するサービスだ。自分に電話をかける人に見えるよう設定すればVカラーリング、自分の電話を受ける人に見えるよう設定すればVプロフィールとして使える。MintifyのAI音源を含む動画を設定すると、自分が選んだ音楽と動画が相手の画面に流れる。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.aipostkorea.com/news/photo/202611/13276_24023_571.jpg",
+                "cap": "（写真=MusicPlat）"
               },
               {
                 "t": "p",
-                "x": "BPIはまた、今後の訴訟が同じ論点で決まるとは限らないと強調し、GEMAがドイツでOpen AIとSunoを相手取った訴訟を挙げた。この訴訟で裁判所は、「memorisation(記憶)」によってAIモデルに著作物の複製が含まれていると判断した。Gettyの控訴審判決は今年末か2027年初めに出る見通しだ。"
+                "x": "今回のイベントでは、MintifyでリリースされたAI音源を含む動画18本がまず公開される。Vカラーリング無制限またはVプロフィールの利用者がイベント動画を1日以上設定すると自動で応募となる。賞品は1等がGalaxy Buds PRO（1名）、2等がMintifyリリース券33,000ウォン相当（10名）、3等がJBOX 50%割引券（100名）で、当選者は12月15日に発表する。Mintifyはイベント終了後も、リリース曲をVカラーリングとVプロフィールに供給し続ける計画だ。"
+              },
+              {
+                "t": "p",
+                "x": "Mintifyは音源さえあれば、AI技術でジャケット画像とリリースに必要なデータを自動で作成し、国内外30余りの音源サービスで販売できるようにする。AIが作った曲でも人が作った曲でも構わないため、一般の人もミュージシャンも自分の音楽で手軽に収益を得られる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "BPI警告离岸AI训练\n或成版权漏洞",
-          "body": "BPI在UK上诉法院支持Getty，警告AI公司或借离岸训练规避UK版权。",
-          "mini_headline": "BPI 警示离岸 AI 训练",
+          "headline": "Mintify向V彩铃\n供应AI歌曲",
+          "body": "Mintify开始向3家运营商的V彩铃供应AI制作的歌曲。",
+          "mini_headline": "AI歌曲进入V彩铃",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/2026/11/Getty-v-Stablity---1-.png",
-                "cap": "Getty v Stability"
+                "src": "https://cdn.aipostkorea.com/news/photo/202611/13276_24022_5651.png",
+                "cap": "（图片=MusicPlat）"
               },
               {
                 "t": "p",
-                "x": "探讨AI公司版权义务的英国重大诉讼——Getty Images诉Stability AI案本周再度开庭，唱片行业组织BPI介入，支持这家视觉媒体公司。"
+                "x": "AI制作的歌曲已越过音源榜单，走进了手机屏幕。音源发行AI服务Mintify（运营方MusicPlat）宣布，已登陆3家电信运营商的通话接通视频服务V彩铃与V名片，并为此于11月12日至12月10日举办“人气最新曲 by Mintify”活动。"
               },
               {
                 "t": "p",
-                "x": "此案目前在上诉法院（Court Of Appeal）审理，核心问题是：在US使用未经授权内容训练的AI模型在UK提供，是否构成UK法律下的版权侵权。伦敦高等法院（High Court）去年裁定不构成侵权，Getty正对此提起上诉。"
+                "x": "近来AI音乐的存在感迅速上升。AI创作者Meomureu的《我成为梦想中的大人了吗？》上月在Melon TOP100中最高升至第2名。Mintify向V彩铃与V名片供应歌曲，让这类AI音乐不仅出现在音源网站上，也能用于拨打和接听电话的时刻。"
               },
               {
                 "t": "p",
-                "x": "BPI认为，这一法律解释若不受挑战，意味着AI公司可以在“离岸”训练模型以规避UK版权规则，再在UK市场将模型商业化，这可能对音乐及更广泛的创意产业造成“重大后果”。"
+                "x": "V彩铃与V名片是在电话接通前向对方屏幕播放视频的服务。设置为向给我打电话的人展示，即为V彩铃；设置为向接听我电话的人展示，即为V名片。设置含有Mintify AI音源的视频后，我选择的音乐和视频就会出现在对方屏幕上。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.aipostkorea.com/news/photo/202611/13276_24023_571.jpg",
+                "cap": "（图片=MusicPlat）"
               },
               {
                 "t": "p",
-                "x": "BPI还强调，未来的诉讼未必取决于同样的论点，并援引GEMA在德国起诉Open AI和Suno的案件：法院裁定，由于“记忆”（memorisation），这些AI模型确实包含作品的副本。Getty上诉案的裁决预计将在今年年底或2027年初作出。"
+                "x": "此次活动首先公开18段含有经Mintify发行的AI音源的视频。V彩铃无限版或V名片用户将活动视频设置1天以上即自动参与抽奖。奖品为1等奖Galaxy Buds PRO（1名）、2等奖价值33,000韩元的Mintify发行券（10名）、3等奖JBOX 50%折扣券（100名），中奖者将于12月15日公布。Mintify计划在活动结束后继续向V彩铃与V名片供应发行曲目。"
+              },
+              {
+                "t": "p",
+                "x": "只要有音源，Mintify就能用AI技术自动生成封面图片和发行所需的数据，让作品在国内外30余家音源服务上销售。无论是AI制作的歌曲还是人创作的歌曲都可以，普通人和音乐人都能轻松地用自己的音乐获得收益。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La BPI alerta del vacío legal\nde entrenar AI en el extranjero",
-          "body": "La BPI apoyó a Getty y advirtió que las firmas de AI podrían entrenar fuera de UK para eludir su copyright.",
-          "mini_headline": "La BPI alerta sobre el entrenamiento AI offshore",
+          "headline": "Mintify lleva canciones con AI\na las llamadas de V Coloring",
+          "body": "Mintify empezó a suministrar canciones hechas con AI a V Coloring, servicio de las 3 operadoras móviles.",
+          "mini_headline": "Canciones con AI llegan a V Coloring",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/2026/11/Getty-v-Stablity---1-.png",
-                "cap": "Getty v Stability"
+                "src": "https://cdn.aipostkorea.com/news/photo/202611/13276_24022_5651.png",
+                "cap": "(Foto: MusicPlat)"
               },
               {
                 "t": "p",
-                "x": "La gran batalla legal británica sobre las obligaciones de copyright de las empresas de AI, entre Getty Images y Stability AI, volvió esta semana a los tribunales, con la intervención de la BPI, la asociación de la industria discográfica, en apoyo de la empresa de medios visuales."
+                "x": "Las canciones hechas con AI han pasado de las listas musicales a las pantallas del teléfono. Mintify (operado por MusicPlat), un servicio de AI para la distribución de música, anunció que comenzó a ofrecer su servicio en V Coloring y V Profile, los servicios de video al conectar llamadas de las 3 operadoras móviles, y que para celebrarlo organiza del 12/11 al 10/12 el evento 'Canciones recientes populares by Mintify'."
               },
               {
                 "t": "p",
-                "x": "El caso, ahora en el Court Of Appeal (tribunal de apelación), gira en torno a si poner a disposición en UK un modelo de AI entrenado en US con contenido sin licencia constituye una infracción de copyright según la ley de UK. El año pasado, la High Court de Londres dictaminó que no, una sentencia que Getty está recurriendo."
+                "x": "La música hecha con AI gana presencia con rapidez. '¿Me convertí en el adulto que soñaba?', del creador de AI Meomureu, llegó al puesto 2 del Melon TOP100 el mes pasado. Mintify suministra canciones a V Coloring y V Profile para que esta música con AI se use no solo en los sitios de música, sino también al hacer y recibir llamadas."
               },
               {
                 "t": "p",
-                "x": "Según la BPI, esa interpretación de la ley, si no se impugna, sugiere que las empresas de AI pueden entrenar sus modelos \"offshore\" para evitar las normas de copyright de UK y aun así comercializarlos en el mercado de UK, lo que podría tener \"consecuencias significativas\" para la música y para el conjunto de las industrias creativas."
+                "x": "V Coloring y V Profile son servicios que muestran un video en la pantalla de la otra persona hasta que se conecta la llamada. Si se configura para que lo vea quien te llama, funciona como V Coloring; si se configura para que lo vea quien recibe tu llamada, funciona como V Profile. Al configurar un video con música de AI de Mintify, la música y el video elegidos aparecen en la pantalla de la otra persona."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.aipostkorea.com/news/photo/202611/13276_24023_571.jpg",
+                "cap": "(Foto: MusicPlat)"
               },
               {
                 "t": "p",
-                "x": "La BPI también subrayó que futuras demandas podrían no depender de los mismos argumentos, y citó los litigios de GEMA en Alemania contra Open AI y Suno, en los que los tribunales dictaminaron que los modelos de AI sí contenían copias de obras debido a la 'memorisation' (memorización). Se espera una sentencia sobre la apelación de Getty hacia finales de este año o a principios de 2027."
+                "x": "El evento arranca con 18 videos que incluyen temas de AI publicados a través de Mintify. Los clientes de V Coloring ilimitado o de V Profile que configuren un video del evento durante 1 día o más participan automáticamente. Los premios son: 1.er premio, unos Galaxy Buds PRO (1 ganador); 2.º premio, un bono de lanzamiento de Mintify por valor de 33,000 wones (10 ganadores); y 3.er premio, un cupón de descuento del 50% de JBOX (100 ganadores). Los ganadores se anunciarán el 15/12. Mintify prevé seguir suministrando sus lanzamientos a V Coloring y V Profile después del evento."
+              },
+              {
+                "t": "p",
+                "x": "Con solo tener la pista de audio, Mintify usa AI para crear automáticamente la portada y los datos necesarios para el lanzamiento, y permite venderla en unos 30 servicios de música nacionales e internacionales. Da igual si la canción la hizo una AI o una persona, de modo que tanto el público general como los músicos pueden obtener ingresos fácilmente con su propia música."
               }
             ]
           }
@@ -1581,147 +1099,117 @@
       }
     },
     {
-      "id": "radiomatic-venue-ai-music",
+      "id": "musicgen-beat-tracking-adapter",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "RadioMatic,\n매장에 AI 음악 공급",
-      "body": "RadioMatic이 카페·바에 AI-generated 배경음악을 공급한다.",
-      "mini_headline": "RadioMatic, 매장용 AI 음악",
+      "headline": "드럼 치는 MusicGen\n비트까지 찾아낸다",
+      "body": "오디오 조건 어댑터를 단 MusicGen이 곡에 맞춰 드럼을 치고 비트를 읽는다.",
+      "mini_headline": "드럼 치는 MusicGen",
       "tool": "Music",
-      "source": "Music Ally",
-      "url": "https://musically.com/2026/11/12/radiomatic-aims-to-make-ai-music-a-soundtrack-for-businesses/",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.14971",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-25.png?fit=2000%2C1500&ssl=1",
-            "cap": "Radiomatic 홈페이지 데모 화면"
+            "t": "p",
+            "x": "음악 생성 모델이 입력 곡에 맞춰 함께 연주되는 트랙을 만들 수 있다는 건 앞선 연구들이 이미 보여 줬다. 이 능력을 넓히면 비트 트래킹도 생성 방식으로 풀 수 있을까? 연구진은 사전 학습된 MusicGen 모델에 오디오 조건화 어댑터를 붙여 입력 음악과 맞물리는 타악기 트랙을 만들고, 거기서 비트 위치를 뽑아냈다. 리듬 복잡도가 다른 타악기 타깃별로 모델을 따로 학습시킨 뒤 다른 생성 모델 두 개, 기존 비트 트래커와 견줬다. GTZAN에서는 최신 비트 트래커에 가까운 성능이 나왔다."
           },
           {
             "t": "p",
-            "x": "요즘 카페나 바 같은 매장에서 AI-generated 음악을 튼다는 이야기가 심심치 않게 들린다. 아예 이런 음악을 전문으로 공급하는 스타트업까지 나왔다."
-          },
-          {
-            "t": "p",
-            "x": "RadioMatic은 네덜란드 music-tech 기업 SmartLabel이 만든 서비스다. AI-generated 음악으로 채운 라디오형 채널을 매장에 내보내면서 홍보 멘트와 징글, 지역 뉴스까지 곁들인다."
+            "x": "견고성도 더 낫다. 추론할 때 입력에서 드럼을 빼도 F-measure가 가장 적게 떨어졌다. 메탈과 디스코 같은 일부 장르에서는 강한 온셋에 덜 휘둘리고, 약한 온셋의 비트도 덜 놓친다. 연구진은 타악기 생성이 비트 트래킹의 실용적인 방법이 될 잠재력이 있다고 본다. 출력도 비트 위치를 늘어놓은 목록이 아니라 귀로 들을 수 있는 타악기 트랙이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "RadioMatic pitches AI music\nas venue soundtracks",
-          "body": "Startup RadioMatic is launching to supply AI-generated background music to cafes, bars and other businesses.",
-          "mini_headline": "RadioMatic: AI music for venues",
+          "headline": "MusicGen learns to drum\nalong and track the beat",
+          "body": "An audio-conditioning adapter lets MusicGen drum along to a song, and beats are read from its output.",
+          "mini_headline": "MusicGen drums along",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-25.png?fit=2000%2C1500&ssl=1",
-                "cap": "Radiomatic screenshot of homepage demo"
+                "t": "p",
+                "x": "Existing studies have shown that music generative models can generate synchronized tracks that play alongside an input song. Can we extend this capability to develop a generative approach to beat tracking? To answer this question, we equip a pretrained MusicGen model with an audio-conditioning adapter to generate percussion tracks synchronized with the input music, from which we extract the beat positions. We train separate models with percussion targets of varying rhythmic complexity and compare them with two other generative models and conventional beat trackers. On GTZAN, our model achieves performance close to state-of-the-art beat trackers."
               },
               {
                 "t": "p",
-                "x": "We've been hearing plenty of anecdotal evidence of businesses – cafes, bars and more – playing AI-generated music in recent times. Now there's a startup launching specifically to provide that."
-              },
-              {
-                "t": "p",
-                "x": "RadioMatic is the work of Dutch music-tech firm SmartLabel, and provides radio-style stations for businesses populated by AI-generated music – as well as promos, jingles and even local news."
+                "x": "Our model also demonstrates greater robustness: it shows the smallest drop in F-measure when drums are removed from the input at inference time. In certain genres, such as metal and disco, our model is also less likely to be misled by strong onsets or to miss beats with weak onsets. These results suggest that percussion generation has the potential to become a viable approach to beat tracking, and that its output is not merely a sequence of beat positions but an audible percussion track."
               }
             ]
           }
         },
         "ko": {
-          "headline": "RadioMatic,\n매장에 AI 음악 공급",
-          "body": "RadioMatic이 카페·바에 AI-generated 배경음악을 공급한다.",
-          "mini_headline": "RadioMatic, 매장용 AI 음악",
+          "headline": "드럼 치는 MusicGen\n비트까지 찾아낸다",
+          "body": "오디오 조건 어댑터를 단 MusicGen이 곡에 맞춰 드럼을 치고 비트를 읽는다.",
+          "mini_headline": "드럼 치는 MusicGen",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-25.png?fit=2000%2C1500&ssl=1",
-                "cap": "Radiomatic 홈페이지 데모 화면"
+                "t": "p",
+                "x": "음악 생성 모델이 입력 곡에 맞춰 함께 연주되는 트랙을 만들 수 있다는 건 앞선 연구들이 이미 보여 줬다. 이 능력을 넓히면 비트 트래킹도 생성 방식으로 풀 수 있을까? 연구진은 사전 학습된 MusicGen 모델에 오디오 조건화 어댑터를 붙여 입력 음악과 맞물리는 타악기 트랙을 만들고, 거기서 비트 위치를 뽑아냈다. 리듬 복잡도가 다른 타악기 타깃별로 모델을 따로 학습시킨 뒤 다른 생성 모델 두 개, 기존 비트 트래커와 견줬다. GTZAN에서는 최신 비트 트래커에 가까운 성능이 나왔다."
               },
               {
                 "t": "p",
-                "x": "요즘 카페나 바 같은 매장에서 AI-generated 음악을 튼다는 이야기가 심심치 않게 들린다. 아예 이런 음악을 전문으로 공급하는 스타트업까지 나왔다."
-              },
-              {
-                "t": "p",
-                "x": "RadioMatic은 네덜란드 music-tech 기업 SmartLabel이 만든 서비스다. AI-generated 음악으로 채운 라디오형 채널을 매장에 내보내면서 홍보 멘트와 징글, 지역 뉴스까지 곁들인다."
+                "x": "견고성도 더 낫다. 추론할 때 입력에서 드럼을 빼도 F-measure가 가장 적게 떨어졌다. 메탈과 디스코 같은 일부 장르에서는 강한 온셋에 덜 휘둘리고, 약한 온셋의 비트도 덜 놓친다. 연구진은 타악기 생성이 비트 트래킹의 실용적인 방법이 될 잠재력이 있다고 본다. 출력도 비트 위치를 늘어놓은 목록이 아니라 귀로 들을 수 있는 타악기 트랙이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "RadioMatic、\n店舗向けAI音楽を提案",
-          "body": "RadioMaticがカフェやバーなどにAI-generatedの背景音楽を供給する。",
-          "mini_headline": "RadioMatic、店舗にAI音楽",
+          "headline": "ドラムを叩くMusicGen\nビートも追跡する",
+          "body": "音声条件付けアダプタでMusicGenが曲に合わせドラムを叩き、その出力から拍を読み取る。",
+          "mini_headline": "ドラムを叩くMusicGen",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-25.png?fit=2000%2C1500&ssl=1",
-                "cap": "Radiomaticのホームページのデモ画面"
+                "t": "p",
+                "x": "既存研究は、音楽生成モデルが入力曲と一緒に鳴る同期トラックを生成できることを示してきた。この能力を拡張し、ビートトラッキングへの生成的アプローチを開発できるだろうか。この問いに答えるため、事前学習済みのMusicGenモデルに音声条件付けアダプタを組み込み、入力音楽と同期した打楽器トラックを生成させ、そこからビート位置を抽出する。リズムの複雑さが異なる打楽器ターゲットでそれぞれモデルを学習させ、他の二つの生成モデルおよび従来のビートトラッカーと比較した。GTZANにおいて、本モデルは最先端のビートトラッカーに近い性能を達成した。"
               },
               {
                 "t": "p",
-                "x": "カフェやバーなどの店舗がAI-generatedの音楽を流しているという話を、最近よく耳にするようになった。そしていま、それを専門に提供するスタートアップが登場した。"
-              },
-              {
-                "t": "p",
-                "x": "RadioMaticはオランダのmusic-tech企業SmartLabelが手がけるサービスで、AI-generatedの音楽で構成したラジオ風のステーションを店舗に提供する。プロモーションやジングル、さらには地域ニュースも流す。"
+                "x": "本モデルは頑健性も高い。推論時に入力からドラムを除去した場合のF-measureの低下幅が最も小さい。メタルやディスコなど一部のジャンルでは、強いオンセットに惑わされにくく、弱いオンセットのビートも取りこぼしにくい。これらの結果は、打楽器生成がビートトラッキングの有力な手法になりうること、そしてその出力が単なるビート位置の列ではなく、耳で聴ける打楽器トラックであることを示唆している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "RadioMatic推出\n为门店提供AI音乐",
-          "body": "初创公司RadioMatic为咖啡馆、酒吧等商家提供AI-generated背景音乐。",
-          "mini_headline": "RadioMatic：门店AI音乐",
+          "headline": "MusicGen学会跟着打鼓\n还能追踪节拍",
+          "body": "借助音频条件适配器，MusicGen能跟着歌曲打鼓，并从输出中读出节拍。",
+          "mini_headline": "MusicGen跟着打鼓",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-25.png?fit=2000%2C1500&ssl=1",
-                "cap": "Radiomatic主页演示截图"
+                "t": "p",
+                "x": "已有研究表明，音乐生成模型可以生成与输入歌曲同步演奏的音轨。能否将这一能力扩展为一种生成式节拍追踪方法？为回答这个问题，我们为预训练的MusicGen模型配备音频条件适配器，使其生成与输入音乐同步的打击乐音轨，并从中提取节拍位置。我们用节奏复杂度各异的打击乐目标分别训练模型，并与另外两种生成模型及传统节拍追踪器进行比较。在GTZAN上，我们的模型取得了接近最先进节拍追踪器的性能。"
               },
               {
                 "t": "p",
-                "x": "近来，咖啡馆、酒吧等商家播放AI-generated音乐的传闻屡见不鲜。如今，一家专门提供此类服务的初创公司正式上线。"
-              },
-              {
-                "t": "p",
-                "x": "RadioMatic出自荷兰music-tech公司SmartLabel，为商家提供由AI-generated音乐组成的电台式频道，还附带促销内容、广告歌乃至本地新闻。"
+                "x": "我们的模型还表现出更强的稳健性：推理时从输入中移除鼓声后，其F-measure降幅最小。在金属、迪斯科等特定流派中，我们的模型也更不容易被强起音误导，或漏掉起音较弱的节拍。这些结果表明，打击乐生成有望成为一种可行的节拍追踪方法，而且其输出不只是一串节拍位置，而是一条可以听到的打击乐音轨。"
               }
             ]
           }
         },
         "es": {
-          "headline": "RadioMatic ofrece música AI\ncomo banda sonora de locales",
-          "body": "La startup RadioMatic se lanza para ofrecer música de fondo AI-generated a cafés, bares y otros negocios.",
-          "mini_headline": "RadioMatic: música AI para locales",
+          "headline": "MusicGen aprende a tocar\nla batería y a seguir el ritmo",
+          "body": "Con un adaptador de audio, MusicGen toca la batería sobre una canción y de su salida se extraen los pulsos.",
+          "mini_headline": "MusicGen toca la batería",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-25.png?fit=2000%2C1500&ssl=1",
-                "cap": "Captura de la demo de la página de inicio de Radiomatic"
+                "t": "p",
+                "x": "Estudios previos han mostrado que los modelos generativos de música pueden generar pistas sincronizadas que suenan junto a una canción de entrada. ¿Podemos ampliar esta capacidad para desarrollar un enfoque generativo del seguimiento de pulsos? Para responder, dotamos a un modelo MusicGen preentrenado de un adaptador de condicionamiento de audio que genera pistas de percusión sincronizadas con la música de entrada, de las que extraemos las posiciones de los pulsos. Entrenamos modelos separados con objetivos de percusión de distinta complejidad rítmica y los comparamos con otros dos modelos generativos y con rastreadores de pulsos convencionales. En GTZAN, nuestro modelo logra un rendimiento cercano al de los rastreadores de pulsos más avanzados."
               },
               {
                 "t": "p",
-                "x": "Últimamente hemos oído muchos testimonios de negocios, como cafés, bares y otros, que reproducen música AI-generated. Ahora llega una startup creada específicamente para ofrecer ese servicio."
-              },
-              {
-                "t": "p",
-                "x": "RadioMatic es obra de la empresa neerlandesa de music-tech SmartLabel y ofrece a los negocios emisoras de estilo radiofónico con música AI-generated, además de promociones, jingles e incluso noticias locales."
+                "x": "Nuestro modelo también muestra mayor robustez: es el que menos cae en F-measure cuando se eliminan las baterías de la entrada durante la inferencia. En ciertos géneros, como el metal y la música disco, también es menos propenso a dejarse engañar por ataques fuertes o a perder pulsos con ataques débiles. Estos resultados sugieren que la generación de percusión puede convertirse en un enfoque viable para el seguimiento de pulsos, y que su salida no es solo una secuencia de posiciones de pulsos, sino una pista de percusión audible."
               }
             ]
           }
@@ -1729,93 +1217,345 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "RadioMatic,\n매장에 AI 음악 공급",
-          "body": "RadioMatic이 카페·바에 AI-generated 배경음악을 공급한다.",
-          "mini_headline": "RadioMatic, 매장용 AI 음악",
+          "headline": "드럼 치는 MusicGen\n비트까지 찾아낸다",
+          "body": "오디오 조건 어댑터를 단 MusicGen이 곡에 맞춰 드럼을 치고 비트를 읽는다.",
+          "mini_headline": "드럼 치는 MusicGen",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-25.png?fit=2000%2C1500&ssl=1",
-                "cap": "Radiomatic 홈페이지 데모 화면"
+                "t": "p",
+                "x": "기존 연구들은 음악 생성 모델이 입력 곡과 함께 연주되는 동기화된 트랙을 만들 수 있음을 보여 줬다. 이 능력을 확장해 비트 트래킹의 생성적 접근법을 개발할 수 있을까? 이 질문에 답하기 위해 우리는 사전 학습된 MusicGen 모델에 오디오 조건화 어댑터를 붙여 입력 음악과 동기화된 타악기 트랙을 생성하고, 여기서 비트 위치를 추출한다. 리듬 복잡도가 서로 다른 타악기 타깃으로 각각 모델을 학습시키고, 다른 생성 모델 두 개 및 기존 비트 트래커와 비교했다. GTZAN에서 우리 모델은 최신 비트 트래커에 가까운 성능을 낸다."
               },
               {
                 "t": "p",
-                "x": "최근 카페와 바 등 매장에서 AI-generated 음악을 튼다는 이야기가 심심치 않게 들려왔다. 이제 이를 전문으로 공급하는 스타트업이 나왔다."
-              },
-              {
-                "t": "p",
-                "x": "RadioMatic은 네덜란드 music-tech 기업 SmartLabel이 만든 서비스로, AI-generated 음악으로 채운 라디오형 채널을 매장에 제공한다. 홍보 멘트와 징글, 지역 뉴스까지 곁들인다."
+                "x": "우리 모델은 견고성도 더 높다. 추론 시 입력에서 드럼을 제거했을 때 F-measure 하락 폭이 가장 작다. 메탈과 디스코 같은 일부 장르에서는 강한 온셋에 덜 휘둘리고, 약한 온셋의 비트도 덜 놓친다. 이 결과는 타악기 생성이 비트 트래킹의 실용적 접근법이 될 잠재력이 있으며, 그 출력이 단순한 비트 위치의 나열이 아니라 귀로 들을 수 있는 타악기 트랙이라는 점을 보여 준다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "RadioMatic、\n店舗向けAI音楽を提案",
-          "body": "RadioMaticがカフェやバーなどにAI-generatedの背景音楽を供給する。",
-          "mini_headline": "RadioMatic、店舗にAI音楽",
+          "headline": "ドラムを叩くMusicGen\nビートも追跡する",
+          "body": "音声条件付けアダプタでMusicGenが曲に合わせドラムを叩き、その出力から拍を読み取る。",
+          "mini_headline": "ドラムを叩くMusicGen",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-25.png?fit=2000%2C1500&ssl=1",
-                "cap": "Radiomaticのホームページのデモ画面"
+                "t": "p",
+                "x": "既存研究は、音楽生成モデルが入力曲と一緒に鳴る同期トラックを生成できることを示してきた。この能力を拡張し、ビートトラッキングへの生成的アプローチを開発できるだろうか。この問いに答えるため、事前学習済みのMusicGenモデルに音声条件付けアダプタを組み込み、入力音楽と同期した打楽器トラックを生成させ、そこからビート位置を抽出する。リズムの複雑さが異なる打楽器ターゲットでそれぞれモデルを学習させ、他の二つの生成モデルおよび従来のビートトラッカーと比較した。GTZANにおいて、本モデルは最先端のビートトラッカーに近い性能を達成した。"
               },
               {
                 "t": "p",
-                "x": "カフェやバーなどの店舗がAI-generatedの音楽を流しているという話を、最近よく耳にするようになった。そしていま、それを専門に提供するスタートアップが登場した。"
-              },
-              {
-                "t": "p",
-                "x": "RadioMaticはオランダのmusic-tech企業SmartLabelが手がけるサービスで、AI-generatedの音楽で構成したラジオ風のステーションを店舗に提供する。プロモーションやジングル、さらには地域ニュースも流す。"
+                "x": "本モデルは頑健性も高い。推論時に入力からドラムを除去した場合のF-measureの低下幅が最も小さい。メタルやディスコなど一部のジャンルでは、強いオンセットに惑わされにくく、弱いオンセットのビートも取りこぼしにくい。これらの結果は、打楽器生成がビートトラッキングの有力な手法になりうること、そしてその出力が単なるビート位置の列ではなく、耳で聴ける打楽器トラックであることを示唆している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "RadioMatic推出\n为门店提供AI音乐",
-          "body": "初创公司RadioMatic为咖啡馆、酒吧等商家提供AI-generated背景音乐。",
-          "mini_headline": "RadioMatic：门店AI音乐",
+          "headline": "MusicGen学会跟着打鼓\n还能追踪节拍",
+          "body": "借助音频条件适配器，MusicGen能跟着歌曲打鼓，并从输出中读出节拍。",
+          "mini_headline": "MusicGen跟着打鼓",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-25.png?fit=2000%2C1500&ssl=1",
-                "cap": "Radiomatic主页演示截图"
+                "t": "p",
+                "x": "已有研究表明，音乐生成模型可以生成与输入歌曲同步演奏的音轨。能否将这一能力扩展为一种生成式节拍追踪方法？为回答这个问题，我们为预训练的MusicGen模型配备音频条件适配器，使其生成与输入音乐同步的打击乐音轨，并从中提取节拍位置。我们用节奏复杂度各异的打击乐目标分别训练模型，并与另外两种生成模型及传统节拍追踪器进行比较。在GTZAN上，我们的模型取得了接近最先进节拍追踪器的性能。"
               },
               {
                 "t": "p",
-                "x": "近来，咖啡馆、酒吧等商家播放AI-generated音乐的传闻屡见不鲜。如今，一家专门提供此类服务的初创公司正式上线。"
-              },
-              {
-                "t": "p",
-                "x": "RadioMatic出自荷兰music-tech公司SmartLabel，为商家提供由AI-generated音乐组成的电台式频道，还附带促销内容、广告歌乃至本地新闻。"
+                "x": "我们的模型还表现出更强的稳健性：推理时从输入中移除鼓声后，其F-measure降幅最小。在金属、迪斯科等特定流派中，我们的模型也更不容易被强起音误导，或漏掉起音较弱的节拍。这些结果表明，打击乐生成有望成为一种可行的节拍追踪方法，而且其输出不只是一串节拍位置，而是一条可以听到的打击乐音轨。"
               }
             ]
           }
         },
         "es": {
-          "headline": "RadioMatic ofrece música AI\ncomo banda sonora de locales",
-          "body": "La startup RadioMatic se lanza para ofrecer música de fondo AI-generated a cafés, bares y otros negocios.",
-          "mini_headline": "RadioMatic: música AI para locales",
+          "headline": "MusicGen aprende a tocar\nla batería y a seguir el ritmo",
+          "body": "Con un adaptador de audio, MusicGen toca la batería sobre una canción y de su salida se extraen los pulsos.",
+          "mini_headline": "MusicGen toca la batería",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-25.png?fit=2000%2C1500&ssl=1",
-                "cap": "Captura de la demo de la página de inicio de Radiomatic"
+                "t": "p",
+                "x": "Estudios previos han mostrado que los modelos generativos de música pueden generar pistas sincronizadas que suenan junto a una canción de entrada. ¿Podemos ampliar esta capacidad para desarrollar un enfoque generativo del seguimiento de pulsos? Para responder, dotamos a un modelo MusicGen preentrenado de un adaptador de condicionamiento de audio que genera pistas de percusión sincronizadas con la música de entrada, de las que extraemos las posiciones de los pulsos. Entrenamos modelos separados con objetivos de percusión de distinta complejidad rítmica y los comparamos con otros dos modelos generativos y con rastreadores de pulsos convencionales. En GTZAN, nuestro modelo logra un rendimiento cercano al de los rastreadores de pulsos más avanzados."
               },
               {
                 "t": "p",
-                "x": "Últimamente hemos oído muchos testimonios de negocios, como cafés, bares y otros, que reproducen música AI-generated. Ahora llega una startup creada específicamente para ofrecer ese servicio."
+                "x": "Nuestro modelo también muestra mayor robustez: es el que menos cae en F-measure cuando se eliminan las baterías de la entrada durante la inferencia. En ciertos géneros, como el metal y la música disco, también es menos propenso a dejarse engañar por ataques fuertes o a perder pulsos con ataques débiles. Estos resultados sugieren que la generación de percusión puede convertirse en un enfoque viable para el seguimiento de pulsos, y que su salida no es solo una secuencia de posiciones de pulsos, sino una pista de percusión audible."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "para-music-parameter-ar",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "PaRa Music AI가\n인도 하위 장르 찾았다",
+      "body": "인도 PaRa Music은 자체 AI PaRaMeter로 A&R 투자를 정한다.",
+      "mini_headline": "PaRa Music의 AI A&R",
+      "tool": "Music",
+      "source": "Music Ally",
+      "url": "https://musically.com/2026/11/12/ai-powered-label-para-music-says-its-identified-the-next-big-indian-regional-music-sub-genre/",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "유월에 “AI-powered”, 곧 AI 기반을 내건 인도 레이블 PaRa Music의 출범 소식을 전한 바 있다. 이 레이블은 자체 AI 플랫폼 PaRaMeter로 “청중 행동과 수요 패턴”을 분석해 “카탈로그 개발, 유통, 수익화”에 걸친 “투자 및 발매 결정을 이끈다”."
+          },
+          {
+            "t": "p",
+            "x": "그로부터 여섯 달, 회사가 Music Ally South Asia에 첫 성공 사례를 내놓았다. 팀이 마라티어(Marathi-language) 부문을 들여다보니 “주목받는 아티스트와 곡의 상당수”가 Maharashtra주 농촌에서 나온 하위 장르 ‘gavthi’ 음악을 하는 이들이었다고 한다."
+          },
+          {
+            "t": "p",
+            "x": "PaRaMeter의 “아티스트 단위 투자수익률 분석”에 따르면 gavthi 곡이 Marathi 팝 곡보다 성과가 좋았다. 레이블은 다시 이 플랫폼으로 하위 장르에서 가장 인기 있는 창작 조합을 찾았다. 작곡가 RK King과 보컬리스트 Kiran Vartha가 “특히 강한 실적”을 낸 조합으로 꼽혔다."
+          },
+          {
+            "t": "p",
+            "x": "레이블은 칠월 ‘Pikel Karand’를 시작으로 King과 Vartha의 곡을 잇달아 냈다. 이 곡은 지금까지 YouTube 조회수 500k 회를 넘겼고, 레이블은 두 사람과 독점 계약까지 맺었다. PaRa Music은 20개가 넘는 언어로 카탈로그를 쌓는 중이다. 공동 창업자 Pavan Sood는 “PaRaMeter 덕분에 gavthi가 확실히 우리 레이더에 들어왔고, 이것이 마지막은 아닐 것”이라며 “인도 음악에는 이런 보석이 가득하고, 이제 우리에게는 그것을 찾을 도구가 있다”고 말했다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "PaRa Music says its AI found\nIndia's next sub-genre",
+          "body": "Indian label PaRa Music uses its in-house AI platform PaRaMeter to read demand patterns and guide A&R investment.",
+          "mini_headline": "PaRa Music's AI A&R",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "In June, we wrote about the launch of “AI-powered” Indian label PaRa Music, which uses its in-house AI platform PaRaMeter to analyse “audience behaviour and demand patterns” to “guide investment and release decisions” related “to catalogue development, distribution and monetisation”."
               },
               {
                 "t": "p",
-                "x": "RadioMatic es obra de la empresa neerlandesa de music-tech SmartLabel y ofrece a los negocios emisoras de estilo radiofónico con música AI-generated, además de promociones, jingles e incluso noticias locales."
+                "x": "Six months on, the company has shared its first success story with Music Ally South Asia. They told us that when their team reviewed the Marathi-language segment, they found that “a large share of the artists and songs gaining traction” were those specialising in ‘gavthi’ music, a sub-genre from the rural areas of the state of Maharashtra."
+              },
+              {
+                "t": "p",
+                "x": "According to PaRaMeter’s “artist-level return-on-investment analysis”, gavthi songs were faring than Marathi pop tunes. The label then used the platform to find the most popular creative pairings in the sub-genre and identified composer RK King and vocalist Kiran Vartha as a combination with “an especially strong record”."
+              },
+              {
+                "t": "p",
+                "x": "They then released a series of tracks by King and Vartha, starting in July with ‘Pikel Karand’, which has tallied over 500k views on YouTube until date, and eventually signed both acts to exclusive deals. “PaRaMeter put gavthi firmly on our radar, and it won’t be the last,” says Pavan Sood, the co-founder of PaRa Music, which is building a catalogue spanning more than 20 languages. “India’s music is full of gems like this, and we now have the tools to find them.”"
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "PaRa Music AI가\n인도 하위 장르 찾았다",
+          "body": "인도 PaRa Music은 자체 AI PaRaMeter로 A&R 투자를 정한다.",
+          "mini_headline": "PaRa Music의 AI A&R",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "유월에 “AI-powered”, 곧 AI 기반을 내건 인도 레이블 PaRa Music의 출범 소식을 전한 바 있다. 이 레이블은 자체 AI 플랫폼 PaRaMeter로 “청중 행동과 수요 패턴”을 분석해 “카탈로그 개발, 유통, 수익화”에 걸친 “투자 및 발매 결정을 이끈다”."
+              },
+              {
+                "t": "p",
+                "x": "그로부터 여섯 달, 회사가 Music Ally South Asia에 첫 성공 사례를 내놓았다. 팀이 마라티어(Marathi-language) 부문을 들여다보니 “주목받는 아티스트와 곡의 상당수”가 Maharashtra주 농촌에서 나온 하위 장르 ‘gavthi’ 음악을 하는 이들이었다고 한다."
+              },
+              {
+                "t": "p",
+                "x": "PaRaMeter의 “아티스트 단위 투자수익률 분석”에 따르면 gavthi 곡이 Marathi 팝 곡보다 성과가 좋았다. 레이블은 다시 이 플랫폼으로 하위 장르에서 가장 인기 있는 창작 조합을 찾았다. 작곡가 RK King과 보컬리스트 Kiran Vartha가 “특히 강한 실적”을 낸 조합으로 꼽혔다."
+              },
+              {
+                "t": "p",
+                "x": "레이블은 칠월 ‘Pikel Karand’를 시작으로 King과 Vartha의 곡을 잇달아 냈다. 이 곡은 지금까지 YouTube 조회수 500k 회를 넘겼고, 레이블은 두 사람과 독점 계약까지 맺었다. PaRa Music은 20개가 넘는 언어로 카탈로그를 쌓는 중이다. 공동 창업자 Pavan Sood는 “PaRaMeter 덕분에 gavthi가 확실히 우리 레이더에 들어왔고, 이것이 마지막은 아닐 것”이라며 “인도 음악에는 이런 보석이 가득하고, 이제 우리에게는 그것을 찾을 도구가 있다”고 말했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "PaRa MusicのAIが\nインドのサブジャンル発見",
+          "body": "インドのPaRa Musicは自社AIのPaRaMeterで需要を分析しA&R投資を導く。",
+          "mini_headline": "PaRa MusicのAI A&R",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "六月、私たちは「AI-powered」をうたうインドのレーベルPaRa Musicの立ち上げを報じた。同社は自社のAIプラットフォームPaRaMeterで「オーディエンスの行動と需要パターン」を分析し、「カタログ開発、流通、収益化」に関わる「投資とリリースの判断を導く」。"
+              },
+              {
+                "t": "p",
+                "x": "六か月が経ち、同社はMusic Ally South Asiaに最初の成功例を明かした。チームがマラーティー語（Marathi-language）部門を精査したところ、「勢いを増しているアーティストや楽曲の大部分」が、Maharashtra州の農村部発のサブジャンル「gavthi」音楽を専門とする人たちだったという。"
+              },
+              {
+                "t": "p",
+                "x": "PaRaMeterの「アーティスト単位の投資収益率分析」によると、gavthiの楽曲はMarathiのポップ曲より好成績だった。レーベルはさらにこのプラットフォームでサブジャンル内の最も人気のある創作の組み合わせを探し、作曲家RK KingとボーカリストKiran Varthaを「特に強い実績」を持つ組み合わせとして特定した。"
+              },
+              {
+                "t": "p",
+                "x": "その後、七月の『Pikel Karand』を皮切りにKingとVarthaの楽曲を次々とリリースし、同曲はこれまでにYouTubeで500k 回超の再生数を記録した。最終的に両者と独占契約も結んだ。「PaRaMeterのおかげでgavthiははっきりと私たちのレーダーに入った。これが最後ではない」と、20以上の言語にまたがるカタログを構築中のPaRa Musicの共同創業者Pavan Soodは語る。「インドの音楽にはこうした宝石があふれており、今の私たちにはそれを見つける道具がある」"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "PaRa Music称AI\n找到印度下一个子流派",
+          "body": "印度厂牌PaRa Music用自研AI平台PaRaMeter解读需求模式，指导A&R投资。",
+          "mini_headline": "PaRa Music的AI A&R",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "六月，我们报道了“AI-powered”印度厂牌PaRa Music的成立。该厂牌利用自研AI平台PaRaMeter分析“受众行为和需求模式”，以“指导与目录开发、发行和变现相关的投资与发行决策”。"
+              },
+              {
+                "t": "p",
+                "x": "六个月后，该公司向Music Ally South Asia分享了首个成功案例。他们表示，团队审视马拉地语（Marathi-language）板块时发现，“大部分正在走红的艺人和歌曲”都专攻‘gavthi’音乐，这是一个源自Maharashtra邦农村地区的子流派。"
+              },
+              {
+                "t": "p",
+                "x": "根据PaRaMeter的“艺人层面投资回报分析”，gavthi歌曲的表现好于Marathi流行歌曲。随后，厂牌借助该平台找出该子流派中最受欢迎的创作组合，认定作曲人RK King与歌手Kiran Vartha是一对“战绩尤为出色”的组合。"
+              },
+              {
+                "t": "p",
+                "x": "此后，厂牌从七月的‘Pikel Karand’开始陆续发行King与Vartha的一系列作品，该曲迄今在YouTube上的播放量已超过500k 次，最终厂牌与两人都签下了独家合约。“PaRaMeter让gavthi稳稳进入了我们的视野，而且这不会是最后一个，”PaRa Music联合创始人Pavan Sood说，该厂牌正在打造覆盖20多种语言的曲库。“印度音乐中满是这样的珍宝，而我们现在有了发现它们的工具。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "PaRa Music dice que su AI halló\nel próximo subgénero de India",
+          "body": "El sello indio PaRa Music usa su plataforma de AI PaRaMeter para leer la demanda y orientar la inversión en A&R.",
+          "mini_headline": "La A&R con AI de PaRa Music",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "En junio escribimos sobre el lanzamiento de PaRa Music, un sello indio “AI-powered” que usa su plataforma de AI propia, PaRaMeter, para analizar “el comportamiento y los patrones de demanda de la audiencia” y así “orientar las decisiones de inversión y lanzamiento” relacionadas “con el desarrollo del catálogo, la distribución y la monetización”."
+              },
+              {
+                "t": "p",
+                "x": "Seis meses después, la empresa compartió su primer caso de éxito con Music Ally South Asia. Explicaron que, cuando su equipo revisó el segmento en lengua marathi (Marathi-language), vio que “una gran parte de los artistas y canciones que ganaban tracción” se especializaban en la música ‘gavthi’, un subgénero de las zonas rurales del estado de Maharashtra."
+              },
+              {
+                "t": "p",
+                "x": "Según el “análisis de retorno de la inversión por artista” de PaRaMeter, las canciones gavthi rendían mejor que los temas pop en Marathi. Después, el sello usó la plataforma para encontrar las parejas creativas más populares del subgénero e identificó al compositor RK King y al vocalista Kiran Vartha como una combinación con “un historial especialmente sólido”."
+              },
+              {
+                "t": "p",
+                "x": "Luego lanzó una serie de temas de King y Vartha, empezando en julio con ‘Pikel Karand’, que hasta la fecha suma más de 500k visualizaciones en YouTube, y finalmente firmó contratos exclusivos con ambos. “PaRaMeter puso el gavthi de lleno en nuestro radar, y no será el último”, dice Pavan Sood, cofundador de PaRa Music, que está construyendo un catálogo en más de 20 idiomas. “La música de la India está llena de joyas como esta, y ahora tenemos las herramientas para encontrarlas”."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "PaRa Music AI가\n인도 하위 장르 찾았다",
+          "body": "인도 PaRa Music은 자체 AI PaRaMeter로 A&R 투자를 정한다.",
+          "mini_headline": "PaRa Music의 AI A&R",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "유월에 우리는 “AI-powered”, 즉 AI 기반을 내건 인도 레이블 PaRa Music의 출범을 다뤘다. 이 레이블은 자체 AI 플랫폼 PaRaMeter로 “청중 행동과 수요 패턴”을 분석해 “카탈로그 개발, 유통, 수익화”와 관련한 “투자 및 발매 결정을 이끈다”."
+              },
+              {
+                "t": "p",
+                "x": "여섯 달이 지난 지금, 회사는 Music Ally South Asia에 첫 성공 사례를 공유했다. 팀이 마라티어(Marathi-language) 부문을 검토하자 “주목받는 아티스트와 곡의 상당수”가 Maharashtra주 농촌 지역에서 나온 하위 장르 ‘gavthi’ 음악을 하는 이들이었다고 한다."
+              },
+              {
+                "t": "p",
+                "x": "PaRaMeter의 “아티스트 단위 투자수익률 분석”에 따르면 gavthi 곡이 Marathi 팝 곡보다 성과가 좋았다. 레이블은 이어 이 플랫폼으로 하위 장르에서 가장 인기 있는 창작 조합을 찾았고, 작곡가 RK King과 보컬리스트 Kiran Vartha를 “특히 강한 실적”을 지닌 조합으로 꼽았다."
+              },
+              {
+                "t": "p",
+                "x": "이후 레이블은 칠월 ‘Pikel Karand’를 시작으로 King과 Vartha의 곡을 잇달아 냈고, 이 곡은 지금까지 YouTube 조회수 500k 회를 넘겼다. 결국 두 사람과 독점 계약도 맺었다. 20개가 넘는 언어에 걸친 카탈로그를 구축 중인 PaRa Music의 공동 창업자 Pavan Sood는 “PaRaMeter 덕분에 gavthi가 확실히 우리 레이더에 들어왔고, 이것이 마지막은 아닐 것”이라며 “인도 음악에는 이런 보석이 가득하고, 이제 우리에게는 그것을 찾을 도구가 있다”고 말했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "PaRa MusicのAIが\nインドのサブジャンル発見",
+          "body": "インドのPaRa Musicは自社AIのPaRaMeterで需要を分析しA&R投資を導く。",
+          "mini_headline": "PaRa MusicのAI A&R",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "六月、私たちは「AI-powered」をうたうインドのレーベルPaRa Musicの立ち上げを報じた。同社は自社のAIプラットフォームPaRaMeterで「オーディエンスの行動と需要パターン」を分析し、「カタログ開発、流通、収益化」に関わる「投資とリリースの判断を導く」。"
+              },
+              {
+                "t": "p",
+                "x": "六か月が経ち、同社はMusic Ally South Asiaに最初の成功例を明かした。チームがマラーティー語（Marathi-language）部門を精査したところ、「勢いを増しているアーティストや楽曲の大部分」が、Maharashtra州の農村部発のサブジャンル「gavthi」音楽を専門とする人たちだったという。"
+              },
+              {
+                "t": "p",
+                "x": "PaRaMeterの「アーティスト単位の投資収益率分析」によると、gavthiの楽曲はMarathiのポップ曲より好成績だった。レーベルはさらにこのプラットフォームでサブジャンル内の最も人気のある創作の組み合わせを探し、作曲家RK KingとボーカリストKiran Varthaを「特に強い実績」を持つ組み合わせとして特定した。"
+              },
+              {
+                "t": "p",
+                "x": "その後、七月の『Pikel Karand』を皮切りにKingとVarthaの楽曲を次々とリリースし、同曲はこれまでにYouTubeで500k 回超の再生数を記録した。最終的に両者と独占契約も結んだ。「PaRaMeterのおかげでgavthiははっきりと私たちのレーダーに入った。これが最後ではない」と、20以上の言語にまたがるカタログを構築中のPaRa Musicの共同創業者Pavan Soodは語る。「インドの音楽にはこうした宝石があふれており、今の私たちにはそれを見つける道具がある」"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "PaRa Music称AI\n找到印度下一个子流派",
+          "body": "印度厂牌PaRa Music用自研AI平台PaRaMeter解读需求模式，指导A&R投资。",
+          "mini_headline": "PaRa Music的AI A&R",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "六月，我们报道了“AI-powered”印度厂牌PaRa Music的成立。该厂牌利用自研AI平台PaRaMeter分析“受众行为和需求模式”，以“指导与目录开发、发行和变现相关的投资与发行决策”。"
+              },
+              {
+                "t": "p",
+                "x": "六个月后，该公司向Music Ally South Asia分享了首个成功案例。他们表示，团队审视马拉地语（Marathi-language）板块时发现，“大部分正在走红的艺人和歌曲”都专攻‘gavthi’音乐，这是一个源自Maharashtra邦农村地区的子流派。"
+              },
+              {
+                "t": "p",
+                "x": "根据PaRaMeter的“艺人层面投资回报分析”，gavthi歌曲的表现好于Marathi流行歌曲。随后，厂牌借助该平台找出该子流派中最受欢迎的创作组合，认定作曲人RK King与歌手Kiran Vartha是一对“战绩尤为出色”的组合。"
+              },
+              {
+                "t": "p",
+                "x": "此后，厂牌从七月的‘Pikel Karand’开始陆续发行King与Vartha的一系列作品，该曲迄今在YouTube上的播放量已超过500k 次，最终厂牌与两人都签下了独家合约。“PaRaMeter让gavthi稳稳进入了我们的视野，而且这不会是最后一个，”PaRa Music联合创始人Pavan Sood说，该厂牌正在打造覆盖20多种语言的曲库。“印度音乐中满是这样的珍宝，而我们现在有了发现它们的工具。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "PaRa Music dice que su AI halló\nel próximo subgénero de India",
+          "body": "El sello indio PaRa Music usa su plataforma de AI PaRaMeter para leer la demanda y orientar la inversión en A&R.",
+          "mini_headline": "La A&R con AI de PaRa Music",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "En junio escribimos sobre el lanzamiento de PaRa Music, un sello indio “AI-powered” que usa su plataforma de AI propia, PaRaMeter, para analizar “el comportamiento y los patrones de demanda de la audiencia” y así “orientar las decisiones de inversión y lanzamiento” relacionadas “con el desarrollo del catálogo, la distribución y la monetización”."
+              },
+              {
+                "t": "p",
+                "x": "Seis meses después, la empresa compartió su primer caso de éxito con Music Ally South Asia. Explicaron que, cuando su equipo revisó el segmento en lengua marathi (Marathi-language), vio que “una gran parte de los artistas y canciones que ganaban tracción” se especializaban en la música ‘gavthi’, un subgénero de las zonas rurales del estado de Maharashtra."
+              },
+              {
+                "t": "p",
+                "x": "Según el “análisis de retorno de la inversión por artista” de PaRaMeter, las canciones gavthi rendían mejor que los temas pop en Marathi. Después, el sello usó la plataforma para encontrar las parejas creativas más populares del subgénero e identificó al compositor RK King y al vocalista Kiran Vartha como una combinación con “un historial especialmente sólido”."
+              },
+              {
+                "t": "p",
+                "x": "Luego lanzó una serie de temas de King y Vartha, empezando en julio con ‘Pikel Karand’, que hasta la fecha suma más de 500k visualizaciones en YouTube, y finalmente firmó contratos exclusivos con ambos. “PaRaMeter puso el gavthi de lleno en nuestro radar, y no será el último”, dice Pavan Sood, cofundador de PaRa Music, que está construyendo un catálogo en más de 20 idiomas. “La música de la India está llena de joyas como esta, y ahora tenemos las herramientas para encontrarlas”."
               }
             ]
           }

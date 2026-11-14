@@ -6158,6 +6158,164 @@
           "x": "周四诉讼中被点名的公司没有立即回应置评请求。"
         }
       ]
+    },
+    "politics/politics-japan-ai-safety-penalties": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "确保应对高性能AI风险的强制手段……年底拿出法律修订案轮廓"
+        },
+        {
+          "t": "p",
+          "x": "（首尔=韩联社）记者 Choi Yi-rak = 日本政府为应对高性能人工智能（AI）带来的网络攻击等风险，正在研究将AI企业确保安全列为义务，并对违规行为新设罚则。"
+        },
+        {
+          "t": "p",
+          "x": "据《每日新闻》12日报道，日本政府在前一天非公开召开的AI法律制度讨论工作组会议上确认了这一方针。"
+        },
+        {
+          "t": "p",
+          "x": "日本政府计划在年底前拿出包括法律修订内容在内的制度改革整体框架。"
+        },
+        {
+          "t": "img",
+          "src": "https://img2.yna.co.kr/photo/cms/2026/10/20/55/PCM20261020000055990_P4.jpg",
+          "cap": "[共同社=韩联社资料照片。禁止转售及DB收录]"
+        },
+        {
+          "t": "p",
+          "x": "此举旨在确保具有强制力的手段，以处罚那些即便出现高性能AI失控或被用于网络恐怖活动等对安保和安全构成重大威胁的情况，仍不回应政府整改要求的恶意、不合作企业。"
+        },
+        {
+          "t": "p",
+          "x": "现行AI法规定，在出现侵害国民权利等问题时，政府可以对AI企业展开调查，但没有处罚条款。"
+        },
+        {
+          "t": "p",
+          "x": "政府正在构想在必要时下达具有强制力的整改命令，并对违反命令者适用罚则。"
+        },
+        {
+          "t": "p",
+          "x": "不过，罚则仅适用于风险较大的高性能AI。一般性能的AI将依靠现有法令和指南应对。"
+        },
+        {
+          "t": "p",
+          "x": "鉴于AI业务领域从基础模型开发到服务提供划分细致，政府还将讨论规制对象的范围，包括是否涵盖美国大型信息技术（IT）企业。"
+        },
+        {
+          "t": "p",
+          "x": "另外，前一天的非公开会议有生成式AI“Claude”开发商美国Anthropic、“ChatGPT”开发商OpenAI的日本法人以及日本通信企业NTT等出席，介绍了各自的应对情况并表达了意见。"
+        }
+      ]
+    },
+    "politics/politics-uk-police-facial-recog": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://image.theregister.com/5247722.jpg?imageId=5247722&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+        },
+        {
+          "t": "p",
+          "x": "据皇家警察及消防救援监察局（His Majesty's Inspectorate of Constabulary and Fire & Rescue Services，HMICFRS）称，UK警方必须采取更多措施，防止对接受回溯式人脸识别（RFR）检索的人员实施错误逮捕。该监察局指责治理与立法框架“零散且不成熟”，并呼吁在即将出台的《警察改革法案》（Police Reform Bill）中制定法定守则，设立全国统一标准。"
+        },
+        {
+          "t": "p",
+          "x": "报告发现，个别调查人员“经常”认为RFR结果构成证据而非情报。报告称：“在少数案例中，警员过度依赖RFR结果，导致了不当的调查行动。”报告形容这些发现“令人深感担忧”。"
+        },
+        {
+          "t": "img",
+          "src": "https://image.theregister.com/5309387.webp?imageId=5309387&x=0.00&y=0.00&cropw=99.46&croph=100.00&width=1412&height=918&format=jpg",
+          "cap": "图片来源：Loredana Sangiuliano/Shutterstock"
+        },
+        {
+          "t": "p",
+          "x": "HMICFRS还发现培训标准不一，各警队过于频繁地在警察全国数据库（Police National Database）中保留本应删除的羁押照片。监察员 Kathryn Stone 表示，警方“必须能够证明已采取适当的保障措施”，且相关决定仍须由人来判断。"
+        },
+        {
+          "t": "p",
+          "x": "Big Brother Watch 的 Jasleen Chaggar 表示，警员将人脸识别视为证据而非概率分数这一事实“令人震惊”，并敦促政府“紧急介入”。"
+        }
+      ]
+    },
+    "politics/politics-korea-copyright-ai-disclosure": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "政府将推进制度改革，要求在内容著作权登记过程中具体说明是否使用生成式人工智能（AI）及其使用范围。韩国文化体育观光部12日在首尔铂尔曼大使酒店举行的2026首尔著作权论坛上公布了这一政策推进方向。"
+        },
+        {
+          "t": "img",
+          "src": "https://image.zdnet.co.kr/2026/11/12/e0b488e772af18f6ba9375a1ead77188.jpg"
+        },
+        {
+          "t": "p",
+          "x": "文体部著作权政策科科长朴贤成（音）表示：“目前在著作权登记过程中，没有标明是否使用AI的义务。”他还说：“我们正在推进一项方案，通过修订施行令和施行规则，从著作权登记申请阶段起，就要求具体写明是否使用了AI、在哪些部分使用了AI。”相关工作的目标是在年内或明年初完成。"
+        },
+        {
+          "t": "p",
+          "x": "文体部计划在今年年底前建成“AI学习作品权利信息综合平台”，可在一处查询作品的权利人、使用许可条件以及权利人对AI学习的意向等信息。平台将先以语言文字和音乐领域为中心建设，再扩展到其他类型。"
+        },
+        {
+          "t": "img",
+          "src": "https://image.zdnet.co.kr/2026/11/12/e3619b0f13b7b2ca17a9c4ea42a8a6e2.jpg"
+        },
+        {
+          "t": "p",
+          "x": "论坛上，Sentinel Worldwide代表Steven Tepp介绍说，美国围绕AI学习与著作权的诉讼接连不断，但尚未形成明确的法律共识；中国华东政法大学教授Chen Xiaoling则主张，仅凭修改提示词或挑选生成结果就认定著作权应当慎重。"
+        }
+      ]
+    },
+    "politics/politics-gemini-school-moratorium": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Win-win.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "CHICAGO——周三，全美七座城市的家庭参加抗议活动，反对他们眼中Google将其AI模型深植校园的企图。此次反弹源于Google的一份声明，该声明确认学生将无法在不使用AI的情况下使用Google Search；Google表示，允许学校关闭Search、Gemini和Gemini Notebook，是在给学校“更多而非更少的选择”。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Crowd.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "伊利诺伊州公立学校家庭联盟（Illinois Families for Public Schools，ILFPS）曾在8月向芝加哥公立学校（Chicago Public Schools）施压，促其退出全学区的Gemini试点项目；该组织目前要求暂停使用AI，直至对学生的风险得到更充分的了解。"
+        },
+        {
+          "t": "p",
+          "x": "Google还面临北卡罗来纳州达勒姆一名13岁学生“Emma Doe”的诉讼，她指控学校配发的Chromebook上的Gemini指导她策划自己的自杀和葬礼。诉讼指控Google在虚假宣传Chromebooks安全的同时，“偷偷”将Gemini植入其中。"
+        },
+        {
+          "t": "p",
+          "x": "ILFPS执行董事Cassie Creswell对Ars表示，家长们尤其不满Google在如何处理和使用学生数据方面缺乏透明度。她说：“在学校环境中收集的任何儿童数据都不应被用于商业目的。”"
+        }
+      ]
+    },
+    "politics/politics-ama-ai-liability": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.axios.com/UGhAq1_gsT5ZluDlIyxxjbXh0YQ=/0x0:1920x1080/1920x1080/2026/11/12/1794506966317.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "人工智能在医院和诊所中迅速部署，促使美国最大的医生团体展开游说，争取在AI伤害患者时获得新的法律保护。"
+        },
+        {
+          "t": "p",
+          "x": "美国医学会（American Medical Association）本周呼吁联邦和州层面立法，在医生按预期方式使用工具、AI产品却仍伤害患者时，保护医生免于承担责任。该组织还在推动新法，要求AI公司投保足够的责任保险，并披露产品局限和性能数据。"
+        },
+        {
+          "t": "p",
+          "x": "AMA政策指出，如果强制使用特定AI产品导致有害错误，医院、医疗系统、保险公司和医疗科技供应商应当承担责任。AMA认为，在患者受到伤害的情况下，责任应由AI制造商和供应商承担，也可能由要求使用这些AI系统的医疗系统承担，而不是通过针对医生的医疗事故索赔来追究。"
+        },
+        {
+          "t": "p",
+          "x": "UC Davis教授Martin Hilbert对Axios表示：“不同情况由不同方负责，不能只追究最终用户的责任。”FDA正在评估是否需要新的框架来监管AI-enabled医疗器械，而AdvaMed则敦促该机构继续沿用现行做法。"
+        }
+      ]
     }
   }
 }

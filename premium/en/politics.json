@@ -6158,6 +6158,164 @@
           "x": "The companies named in Thursday’s lawsuit didn’t immediately respond to requests for comment."
         }
       ]
+    },
+    "politics/politics-japan-ai-safety-penalties": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Securing enforceable tools against high-performance AI risks… outline of legal amendments by year-end"
+        },
+        {
+          "t": "p",
+          "x": "(Seoul=Yonhap News) Reporter Choi Yi-rak = The Japanese government is considering making it mandatory for AI businesses to ensure safety and introducing penalties for violations, in order to respond to risks such as cyberattacks posed by high-performance artificial intelligence (AI)."
+        },
+        {
+          "t": "p",
+          "x": "According to the Mainichi Shimbun on the 12th, the Japanese government confirmed this direction the previous day at a closed-door meeting of a working group discussing the AI legal framework."
+        },
+        {
+          "t": "p",
+          "x": "The Japanese government plans to prepare an overall outline of the institutional overhaul, including the content of legal amendments, by the end of the year."
+        },
+        {
+          "t": "img",
+          "src": "https://img2.yna.co.kr/photo/cms/2026/10/20/55/PCM20261020000055990_P4.jpg",
+          "cap": "[Kyodo=Yonhap News file photo. Resale and DB use prohibited]"
+        },
+        {
+          "t": "p",
+          "x": "The measure aims to secure enforceable means to punish malicious or uncooperative businesses that do not respond to government requests for corrective action even when serious threats to security and safety arise, such as high-performance AI going out of control or being misused for cyberterrorism."
+        },
+        {
+          "t": "p",
+          "x": "The current AI Act allows the government to investigate AI businesses when problems such as infringement of citizens' rights arise, but it contains no penalty provisions."
+        },
+        {
+          "t": "p",
+          "x": "The government is considering issuing enforceable corrective orders when necessary and applying penalties when those orders are violated."
+        },
+        {
+          "t": "p",
+          "x": "However, penalties will apply only to high-performance AI with significant risks. AI of ordinary performance will be handled through existing laws and guidelines."
+        },
+        {
+          "t": "p",
+          "x": "Because the AI business is divided into segments ranging from foundation model development to service provision, the government also plans to discuss how far the scope of regulation should extend, including large American information technology (IT) companies."
+        },
+        {
+          "t": "p",
+          "x": "Meanwhile, the closed-door meeting held the previous day was attended by American company Anthropic, developer of the generative AI 'Claude'; the Japanese unit of OpenAI, developer of 'ChatGPT'; and Japanese telecom company NTT, among others, which shared their current responses and views."
+        }
+      ]
+    },
+    "politics/politics-uk-police-facial-recog": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://image.theregister.com/5247722.jpg?imageId=5247722&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+        },
+        {
+          "t": "p",
+          "x": "UK police forces must do more to prevent the wrongful arrests of people subjected to retrospective facial recognition (RFR) searches, according to His Majesty's Inspectorate of Constabulary and Fire & Rescue Services (HMICFRS). The inspectorate blamed \"fragmented and underdeveloped\" frameworks for governance and legislation, and called for a statutory code in the forthcoming Police Reform Bill to set nationwide standards."
+        },
+        {
+          "t": "p",
+          "x": "The report found individual investigators \"often\" thought RFR results constituted evidence rather than intelligence. \"In a small number of cases, officers relied too heavily on RFR results, which led to inappropriate investigative action,\" it said, describing the findings as \"deeply concerning.\""
+        },
+        {
+          "t": "img",
+          "src": "https://image.theregister.com/5309387.webp?imageId=5309387&x=0.00&y=0.00&cropw=99.46&croph=100.00&width=1412&height=918&format=jpg",
+          "cap": "Image credit: Loredana Sangiuliano/Shutterstock"
+        },
+        {
+          "t": "p",
+          "x": "HMICFRS also found inconsistent training and that forces too often retained custody images on the Police National Database that should have been deleted. Inspector Kathryn Stone said forces \"must be able to show that appropriate safeguards are in place\" and that decisions remain subject to human judgment."
+        },
+        {
+          "t": "p",
+          "x": "Big Brother Watch's Jasleen Chaggar called the revelation that officers treat facial recognition as evidence rather than a probability score \"alarming\" and urged the government to \"urgently step in.\""
+        }
+      ]
+    },
+    "politics/politics-korea-copyright-ai-disclosure": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The government will revise the system so that whether generative artificial intelligence (AI) was used, and to what extent, must be specified in detail when content copyrights are registered. The Ministry of Culture, Sports and Tourism unveiled this policy direction at the 2026 Seoul Copyright Forum, held on the 12th at the Ambassador Seoul Pullman Hotel."
+        },
+        {
+          "t": "img",
+          "src": "https://image.zdnet.co.kr/2026/11/12/e0b488e772af18f6ba9375a1ead77188.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Park Hyun-sung, director of the ministry's copyright policy division, said, “Currently there is no obligation to indicate whether AI was used in the copyright registration process,” adding, “We are pursuing a plan to amend the enforcement decree and enforcement rules so that, from the copyright registration application stage, applicants specify in detail whether they used AI and in which parts.” The work aims to be completed within this year or early next year."
+        },
+        {
+          "t": "p",
+          "x": "By the end of this year, the ministry plans to build an integrated rights-information platform for works used in AI training, where rights holders, licensing terms and rights holders' intentions regarding AI training can be checked in one place. It will first be built around the literary and music fields and then expanded to other genres."
+        },
+        {
+          "t": "img",
+          "src": "https://image.zdnet.co.kr/2026/11/12/e3619b0f13b7b2ca17a9c4ea42a8a6e2.jpg"
+        },
+        {
+          "t": "p",
+          "x": "At the forum, Steven Tepp, head of Sentinel Worldwide, explained that lawsuits over AI training and copyright continue in the United States but no clear legal consensus has been reached, while Chen Xiaoling, a professor at East China University of Political Science and Law in China, argued that caution is needed in recognizing copyright based solely on prompt edits or the selection of outputs."
+        }
+      ]
+    },
+    "politics/politics-gemini-school-moratorium": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Win-win.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "CHICAGO—Families joined protests in seven cities nationwide on Wednesday, rallying against what they see as Google's bid to entrench its AI models in schools. The backlash follows a Google statement confirming there will be no way for students to use Google Search without AI; Google said it was giving schools \"more choice, not less\" by letting them turn off Search, Gemini, and Gemini Notebook."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Crowd.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "The Illinois Families for Public Schools (ILFPS), which in August pressured Chicago Public Schools to pull out of a districtwide Gemini pilot, is now demanding a moratorium on AI until risks to students are better understood."
+        },
+        {
+          "t": "p",
+          "x": "Google also faces a lawsuit from a 13-year-old Durham, North Carolina student, \"Emma Doe,\" who alleges Gemini on her school-issued Chromebook coached her to plan her own suicide and funeral. The suit accuses Google of \"sneaking\" Gemini into Chromebooks while falsely marketing them as safe."
+        },
+        {
+          "t": "p",
+          "x": "ILFPS executive director Cassie Creswell told Ars that parents are especially upset that Google is not transparent about how it processes and uses student data. \"We should not have any child data being collected in a school setting being used for commercial purposes,\" she said."
+        }
+      ]
+    },
+    "politics/politics-ama-ai-liability": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.axios.com/UGhAq1_gsT5ZluDlIyxxjbXh0YQ=/0x0:1920x1080/1920x1080/2026/11/12/1794506966317.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "The rapid deployment of artificial intelligence in hospitals and clinics is leading the nation's biggest physicians group to lobby for new legal protections if AI harms patients."
+        },
+        {
+          "t": "p",
+          "x": "The American Medical Association this week called for federal and state legislation to protect physicians from liability when AI products injure patients, despite physicians using the tools as intended. The group also is pressing for new laws mandating that AI companies carry adequate liability insurance and disclose product limitations and performance data."
+        },
+        {
+          "t": "p",
+          "x": "Hospitals, health systems, insurers and health tech vendors should be responsible if the required use of specific AI products results in harmful errors, the AMA policy states. In cases where a patient is harmed, responsibility should fall on AI manufacturers and vendors — and possibly on health systems that require the AI systems' use — instead of through a medical malpractice claim against the physician, the AMA argues."
+        },
+        {
+          "t": "p",
+          "x": "\"Different parties are responsible for different cases, and you can't just hold the end user responsible,\" UC Davis professor Martin Hilbert told Axios. The FDA is weighing whether a new framework is needed for regulating AI-enabled medical devices, while AdvaMed is urging the agency to continue using its current approaches."
+        }
+      ]
     }
   }
 }

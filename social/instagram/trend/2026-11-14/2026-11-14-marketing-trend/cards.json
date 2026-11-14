@@ -1,0 +1,113 @@
+{
+  "meta": {
+    "issue": "AI 얼굴 광고에 선이 그어진다",
+    "date": "2026.11.14",
+    "section": "MARKETING",
+    "accent": "#ff8a3d",
+    "note": "원문 4건 대조: 날짜를 원문 게재일로 고침(SI 11.09→11.05, SER 11.13→11.12, PPC Land 11.13→11.12; 뉴스1 11.10 그대로). 수치 Bron·23번·중지 요구서, 화장품법 11월 27일 시행·420건 중 전문가 사칭 153건, Google 정책 문구, 1,500만 유로 또는 세계 매출 3% 확인. Google 사진은 11-13 story에서 써서 quote로, 사진은 LeBron 한 장만.",
+    "sources": [
+      "Sports Illustrated — LeBron James Takes Legal Action Over AI Ad That Crossed a Line (2026.11.05)",
+      "뉴스1 — \"가짜 의사가 화장품 추천\" 했다간…K뷰티, AI 광고 검수 재정비 (2026.11.10)",
+      "Search Engine Roundtable — Google Ads Disallows Impersonate Public Figures With AI Even If Disclosed (2026.11.12)",
+      "PPC Land — Non-EU advertisers face 3% EU fines for unlabelled AI deep fake ads (2026.11.12)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 마케팅 · 11.05~11.12",
+      "thread": [
+        {
+          "d": "11.05",
+          "t": "닮은꼴",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        },
+        {
+          "d": "11.10",
+          "t": "가짜 의사",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        },
+        {
+          "d": "11.12",
+          "t": "공인 사칭",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        },
+        {
+          "d": "11.12",
+          "t": "EU 라벨",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        }
+      ],
+      "thread_note": "AI로 만든 사람을 광고에 세우는 일에 당사자·법·플랫폼이 차례로 선을 긋는다",
+      "eyebrow": "흐름 · 마케팅",
+      "headline": "AI 얼굴 광고에\n선이 그어진다",
+      "body": "한 건씩 보면 항의 하나, 정책 한 줄이다. 그런데 여드레 사이 당사자·국내법·Google·EU가 같은 곳에 선을 그었다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.11.05",
+      "headline": "LeBron, 닮은꼴\nAI 광고에 경고",
+      "body": "베팅 앱 Bron AI 영상에 'Bron' 23번 유니폼, 닮은 목소리의 인물이 나왔다. LeBron 측은 중지 요구서를 보냈다.",
+      "foot": "2026.11.05",
+      "_src": "https://www.si.com/onsi/athlete-lifestyle/lebron-james-takes-legal-action-over-ai-ad-that-crossed-a-line",
+      "_id": "lebron-bron-ai-likeness-ad",
+      "media": "pipeline/media/lebron-bron-ai-likeness-ad.jpg"
+    },
+    {
+      "n": 3,
+      "kind": "stat",
+      "eyebrow": "2026.11.10",
+      "headline": "AI 가짜 의사,\n법으로 막는다",
+      "body": "11월 27일부터 AI로 만든 의사·약사가 화장품을 권하는 광고가 금지된다. 소비자원이 9개월간 잡은 사칭만 153건.",
+      "foot": "2026.11.10",
+      "_src": "https://www.news1.kr/industry/general-industry/6348088",
+      "_id": "kbeauty-ai-fake-doctor-ban",
+      "stat_top": "AI 부당광고 420건",
+      "stat_arrow": "그중 전문가 사칭",
+      "stat_bottom": "153건",
+      "stat_strike": false
+    },
+    {
+      "n": 4,
+      "kind": "quote",
+      "eyebrow": "2026.11.12",
+      "headline": "밝혀도 안 되는\n공인 사칭",
+      "quote": "AI로 공인을 사칭한 광고는\nAI라고 밝혀도 허용되지 않는다.",
+      "quote_by": "Google Ads 정책 · 허용되지 않는 비즈니스 관행",
+      "body": "Google이 광고 정책에 한 줄을 더했다. AI를 썼다면 밝히면 되지만, 공인을 흉내 내는 건 밝혀도 안 된다.",
+      "foot": "2026.11.12",
+      "_src": "https://www.seroundtable.com/google-ads-disallows-impersonate-public-figures-ai-42512.html",
+      "_id": "google-ads-ai-public-figure-ban"
+    },
+    {
+      "n": 5,
+      "kind": "stat",
+      "eyebrow": "2026.11.12",
+      "headline": "EU 밖 광고주도\n라벨을 달아야",
+      "body": "EU AI법 지침이 관보에 실렸다. EU 밖 기업이 만든 유명인 딥페이크 광고도 EU에 내걸면 라벨 의무를 진다.",
+      "foot": "2026.11.12",
+      "_src": "https://ppc.land/non-eu-advertisers-face-3-eu-fines-for-unlabelled-ai-deep-fake-ads/",
+      "_id": "eu-ai-act-deepfake-ad-labels",
+      "stat_top": "1,500만 유로 또는",
+      "stat_arrow": "라벨 위반 벌금 상한, 큰 쪽",
+      "stat_bottom": "세계 매출 3%",
+      "stat_strike": false
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

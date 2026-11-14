@@ -1,102 +1,158 @@
 {
-  "date": "2026-11-14",
+  "date": "2026-11-15",
   "section": "medicine",
-  "user_selection": "none (deferred — curator scored)",
   "items": [
     {
       "tool": "Medicine",
-      "category": "medicine",
       "accent": "#00897b",
       "motif": "sphere",
-      "title": "Bracco, Avicenna.AI get FDA clearance for brain aneurysm AI software",
-      "url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/news/16425547/bracco-diagnostics-inc-bracco-avicennaai-get-fda-clearance-for-brain-aneurysm-ai-software",
-      "source": "AuntMinnie",
-      "published_iso": "2026-11-13T20:24:51Z",
-      "og_image": null,
-      "excerpt": "Bracco and Avicenna.AI received FDA 510(k) clearance for Uptunity Aneurysm, AI software that detects suspected saccular brain aneurysms larger than 3 mm on head CTA and tracks known aneurysms across exams. It is the first product in Bracco's Uptunity interpretive-AI portfolio.",
-      "rationale": "Fresh FDA 510(k) clearance for a clinical CTA aneurysm detection/tracking tool, a concrete regulatory event that changes radiology workflow."
+      "title": "FDA Clears IND for Biolojic's BD200, the First AI-Designed Multibody ADC to Enter Clinical Trials",
+      "url": "https://www.biopharminternational.com/view/fda-clears-ind-for-biolojic-s-bd200-the-first-ai-designed-multibody-adc-to-enter-clinical-trials",
+      "source": "BioPharm International",
+      "published_iso": "2026-11-12T15:26:45Z",
+      "og_image": "https://cdn.sanity.io/images/0vv8moc6/biopharn/29f1e6f63b2a5a331dd153d454f6879a0aa8733b-1280x720.jpg?w=1200&fit=max&q=75&fm=jpg",
+      "excerpt": "FDA cleared Biolojic Design's IND for BD200, an AI-designed Trop2/Nectin-4 bispecific antibody-drug conjugate whose arms can each bind either target; a global Phase 1 in solid tumors starts within weeks. (Off-list: on-list biotech feeds had no coverage.)",
+      "rationale": "Concrete regulatory milestone: an AI-designed ADC cleared by FDA to enter human trials in solid tumors."
     },
     {
       "tool": "Medicine",
-      "category": "medicine",
       "accent": "#3b6bff",
       "motif": "sphere",
-      "title": "Challenges for human oversight in detecting system malfunctions in AI-assisted medical diagnostics",
-      "url": "https://www.nature.com/articles/s41746-026-03410-x",
-      "source": "npj Digital Medicine",
-      "published_iso": "2026-11-13T00:00:00Z",
-      "og_image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41746-026-03410-x/MediaObjects/41746_2026_3410_Fig1_HTML.png",
-      "excerpt": "In a randomized study of 48 physicians using an increasingly malfunctioning AI for cardiac auscultation, diagnostic performance fell alongside the AI's reliability, showing clinicians struggle to catch AI failures.",
-      "rationale": "Randomized physician study showing 'human in the loop' fails to catch degrading AI; direct patient-safety implication for clinical AI oversight."
+      "title": "NHS launches £200k project to shape how safety and performance of AI diagnostic tools are monitored",
+      "url": "https://www.publictechnology.net/2026/11/13/health-and-social-care/nhs-launches-200k-project-to-shape-how-safety-and-performance-of-ai-diagnostic-tools-are-monitored/",
+      "source": "PublicTechnology",
+      "published_iso": "2026-11-13T01:03:00+00:00",
+      "og_image": "https://www.publictechnology.net/wp-content/uploads/2024/11/hospital.jpg",
+      "excerpt": "The NHS has asked the Royal College of Radiologists to lead a discovery exercise on post-deployment monitoring of AI diagnostic tools, covering current challenges, bias and needed governance. (Off-list: gov.uk / england.nhs.uk had no item.)",
+      "rationale": "Health-system action on post-market surveillance of deployed diagnostic AI, led by the radiologists' royal college."
     },
     {
       "tool": "Medicine",
-      "category": "medicine",
-      "accent": "#eb367f",
-      "motif": "sphere",
-      "title": "삼성서울병원, 글로벌 의료 AI 기업 '하이디'와 협력",
-      "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044540",
-      "source": "청년의사",
-      "published_iso": "2026-11-13T11:34:55+09:00",
-      "og_image": "https://cdn.docdocdoc.co.kr/news/thumbnail/202611/3044540_3048515_5215_v150.jpg",
-      "excerpt": "삼성서울병원이 하이디(Heidi)와 MOU를 맺고 자체 의료정보시스템 '다윈'에 진료 음성-텍스트 변환(앰비언트 AI 기록) 도입을 추진한다. 하이디의 첫 국내 진출로, 원격의료·예약용 AI 에이전트 협력도 포함된다.",
-      "rationale": "Major Korean tertiary hospital bringing an ambient AI scribe into its own EMR — Heidi's first Korean deployment (assigned to medicine by cross-section rule)."
-    },
-    {
-      "tool": "Medicine",
-      "category": "medicine",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "title": "강원 공공병원에 '의료 AI 고속도로' 첫 개통",
-      "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044493",
-      "source": "청년의사",
-      "published_iso": "2026-11-12T06:58:14+09:00",
-      "og_image": "https://cdn.docdocdoc.co.kr/news/thumbnail/202611/3044493_3048461_5010_v150.jpg",
-      "excerpt": "보건복지부가 강원대병원과 영월의료원을 실시간 연결하는 '공공의료 AI 고속도로'를 시범 개통했다. 전원부터 수술·퇴원·회송까지 AI로 잇고, 2029년까지 전국 72개 공공병원으로 확대한다.",
-      "rationale": "Government-launched AI network linking public hospitals for transfer-to-discharge care, with a stated rollout to 72 public hospitals by 2029."
-    },
-    {
-      "tool": "Medicine",
-      "category": "medicine",
       "accent": "#7928ca",
       "motif": "sphere",
-      "title": "Dyania Health, Nvidia team up to bring clinical reasoning AI inside hospital networks",
-      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/dyania-health-nvidia-cleveland-clinic",
-      "source": "Fierce Healthcare",
-      "published_iso": "2026-11-13T08:30:00-05:00",
-      "og_image": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-2152554500.jpg?VersionId=sRgXjDC.XT_Qk5G3gPh_gJLsyMr_r5v6",
-      "excerpt": "Dyania Health will run its Synapsis clinical-reasoning AI on hospital-owned Nvidia systems so large-scale chart analysis (e.g., trial matching at Cleveland Clinic) happens without patient data leaving the hospital network.",
-      "rationale": "On-premises deployment model for chart-reasoning AI (clinical-trial matching at Cleveland Clinic) that keeps patient data inside the hospital network."
+      "title": "AI improves rare kidney cancer diagnosis, but overreliance poses risks: AMC study",
+      "url": "https://www.koreabiomed.com/news/articleView.html?idxno=33846",
+      "source": "Korea Biomedical Review",
+      "published_iso": "2026-11-13T13:57:58+09:00",
+      "og_image": "https://cdn.koreabiomed.com/news/thumbnail/202611/33846_37014_5655_v150.jpg",
+      "excerpt": "Asan Medical Center's deep-learning tool raised 21 pathologists' accuracy in diagnosing fumarate hydratase-deficient renal cell carcinoma from 60.0% to 73.3%, but physicians who relied more on it were more likely to accept its wrong calls.",
+      "rationale": "Reader study with hard numbers on both the accuracy gain and the automation-bias cost for pathologists."
+    },
+    {
+      "tool": "Medicine",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "title": "AI linked to higher recall rates in screening mammography",
+      "url": "https://www.auntminnie.com/resources/conference/rsna/2026/womens-imaging-preview/article/16425472/ai-linked-to-higher-recall-rates-in-screening-mammography",
+      "source": "AuntMinnie",
+      "published_iso": "2026-11-13T12:00:00Z",
+      "og_image": null,
+      "excerpt": "RSNA 2026 preview: real-world results from a tertiary cancer center comparing screening mammography interpretations with and without AI, finding AI use associated with higher recall rates.",
+      "rationale": "Real-world screening data showing a practical downside of AI-assisted mammography; the strongest of three same-hub RSNA breast previews."
+    },
+    {
+      "tool": "Medicine",
+      "accent": "#eb367f",
+      "motif": "sphere",
+      "title": "Patient comfort with AI's clinical decisions tied to provider oversight: Gallup",
+      "url": "https://www.healthcaredive.com/news/patient-comfort-with-ais-clinical-decisions-tied-to-provider-oversight-ga/874623/",
+      "source": "Healthcare Dive",
+      "published_iso": "2026-11-13T10:39:35-05:00",
+      "og_image": "https://imgproxy.divecdn.com/8LRNjVp7pJo5yhr9MtNjjDQSkES-KtLbTkgDJFbd5Rg/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjcyMDM5MjIwLmpwZw==.webp",
+      "excerpt": "A new Gallup poll finds patients are more open to AI making decisions about their care than providers assume, but human oversight is what makes them comfortable with it.",
+      "rationale": "New national poll on the patient side: acceptance of clinical AI hinges on clinician oversight."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/news/16425547/bracco-diagnostics-inc-bracco-avicennaai-get-fda-clearance-for-brain-aneurysm-ai-software": {
+      "https://www.biopharminternational.com/view/fda-clears-ind-for-biolojic-s-bd200-the-first-ai-designed-multibody-adc-to-enter-clinical-trials": {
         "verdict": "new",
-        "nearest": "https://www.auntminnie.com/clinical-news/ct/news/16050236/fda-clears-deep-reasoning-ais-neurovascular-cta-software",
+        "nearest": "",
         "new_action": ""
       },
-      "https://www.nature.com/articles/s41746-026-03410-x": {
+      "https://www.publictechnology.net/2026/11/13/health-and-social-care/nhs-launches-200k-project-to-shape-how-safety-and-performance-of-ai-diagnostic-tools-are-monitored/": {
+        "verdict": "new",
+        "nearest": "https://www.nature.com/articles/s41746-026-03301-1",
+        "new_action": ""
+      },
+      "https://www.koreabiomed.com/news/articleView.html?idxno=33846": {
+        "verdict": "new",
+        "nearest": "https://www.nature.com/articles/s41746-026-03410-x",
+        "new_action": ""
+      },
+      "https://www.auntminnie.com/resources/conference/rsna/2026/womens-imaging-preview/article/16425472/ai-linked-to-higher-recall-rates-in-screening-mammography": {
+        "verdict": "new",
+        "nearest": "https://radiologybusiness.com/topics/artificial-intelligence/artificial-intelligence-checks-trustworthiness-breast-cancer-ai-models",
+        "new_action": ""
+      },
+      "https://www.healthcaredive.com/news/patient-comfort-with-ais-clinical-decisions-tied-to-provider-oversight-ga/874623/": {
         "verdict": "new",
         "nearest": "https://www.nature.com/articles/s41746-026-03408-5",
         "new_action": ""
-      },
-      "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044540": {
-        "verdict": "new",
-        "nearest": "",
-        "new_action": ""
-      },
-      "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044493": {
-        "verdict": "new",
-        "nearest": "",
-        "new_action": ""
-      },
-      "https://www.fiercehealthcare.com/ai-and-machine-learning/dyania-health-nvidia-cleveland-clinic": {
-        "verdict": "new",
-        "nearest": "https://www.fiercehealthcare.com/ai-and-machine-learning/nyu-langone-brings-openevidences-clinical-ai-ehr-systemwide",
-        "new_action": ""
       }
     },
-    "note": "Dropped as duplicates: MedCity News 'Is AI really saving hospitals money?' — reports the same NEJM AI cost-of-LLM-care-plans study already published 10-17 (ai.nejm.org AIoa2600537). Dropped as within-pool duplicate: docdocdoc 'Yeongwol Medical Center AI' (3044475) — same Yeongwol/Gangwon public-hospital AI rollout as the picked 'AI highway' article. Dropped as possible duplicate (not verifiable without fetch): Healthcare Dive Gallup patient-comfort poll — likely the patient half of the same Gallup survey behind the 11-13 Healthcare Dive 'Despite concerns, AI becomes daily fixture in physician workflows' (874541). Not picked on score/diversity (not duplicates): AuntMinnie RSNA previews (breast MRI ScreenTrustMRI, mammography experience gap) to keep AuntMinnie at 1; npj bladder-cancer LLM benchmark; Communications Medicine AML febrile neutropenia (near-theme of 11-13 persistent-fever ML pick); STAT men/chatbots (feature/analysis, 11-09); Radiology Business CT inflammation score (close to 10-27 coronary inflammation story); Korea Biomed AMC kidney cancer overreliance (overlaps the picked npj oversight theme); bosa AITRICS-VC dispute, GC PVLitrieve, Bundang CHA smart hospital. Cross-section: grepped published_urls.json politics and science blocks — none of the picks appear in any section."
-  }
+    "note": "Dropped as duplicates: AMA 'AI can augment physicians but don't call it doctor' (same AMA interim-meeting AI liability/licensure policy already ran in politics 11-14 as Axios 'doctors-ai-mistakes-liability-shield', and AMA liability stance ran in medicine 11-02 via Fierce) and the Fierce Healthcare weekly rundown (roundup containing the AMA policy). Radiology Business AI coronary inflammation score dropped as likely the same running CaRi-Heart/coronary-inflammation story published 10-27 (Cardiovascular Business). AuntMinnie RSNA women's-imaging hub: kept only the recall-rates piece; experience-gap and Mirai safety-net previews dropped as same-source same-topic hub posts. Not picked for diversity/strength (not duplicates): Insilico ISM6331 (second drug-discovery item alongside Biolojic), npj bladder LLM benchmark, npj oral-pigmentation perspective, Comm Med AML neutropenia model, JAMA rogue-agent Viewpoint, STAT men's chatbot feature, KBR Samsung/OpenAI connected-health piece. Cross-section: checked published_urls.json science and politics blocks; no pick URL appears in any section."
+  },
+  "picks": [
+    {
+      "tool": "Medicine",
+      "accent": "#00897b",
+      "motif": "sphere",
+      "title": "FDA Clears IND for Biolojic's BD200, the First AI-Designed Multibody ADC to Enter Clinical Trials",
+      "url": "https://www.biopharminternational.com/view/fda-clears-ind-for-biolojic-s-bd200-the-first-ai-designed-multibody-adc-to-enter-clinical-trials",
+      "source": "BioPharm International",
+      "published_iso": "2026-11-12T15:26:45Z",
+      "og_image": "https://cdn.sanity.io/images/0vv8moc6/biopharn/29f1e6f63b2a5a331dd153d454f6879a0aa8733b-1280x720.jpg?w=1200&fit=max&q=75&fm=jpg",
+      "excerpt": "FDA cleared Biolojic Design's IND for BD200, an AI-designed Trop2/Nectin-4 bispecific antibody-drug conjugate whose arms can each bind either target; a global Phase 1 in solid tumors starts within weeks. (Off-list: on-list biotech feeds had no coverage.)",
+      "rationale": "Concrete regulatory milestone: an AI-designed ADC cleared by FDA to enter human trials in solid tumors."
+    },
+    {
+      "tool": "Medicine",
+      "accent": "#3b6bff",
+      "motif": "sphere",
+      "title": "NHS launches £200k project to shape how safety and performance of AI diagnostic tools are monitored",
+      "url": "https://www.publictechnology.net/2026/11/13/health-and-social-care/nhs-launches-200k-project-to-shape-how-safety-and-performance-of-ai-diagnostic-tools-are-monitored/",
+      "source": "PublicTechnology",
+      "published_iso": "2026-11-13T01:03:00+00:00",
+      "og_image": "https://www.publictechnology.net/wp-content/uploads/2024/11/hospital.jpg",
+      "excerpt": "The NHS has asked the Royal College of Radiologists to lead a discovery exercise on post-deployment monitoring of AI diagnostic tools, covering current challenges, bias and needed governance. (Off-list: gov.uk / england.nhs.uk had no item.)",
+      "rationale": "Health-system action on post-market surveillance of deployed diagnostic AI, led by the radiologists' royal college."
+    },
+    {
+      "tool": "Medicine",
+      "accent": "#7928ca",
+      "motif": "sphere",
+      "title": "AI improves rare kidney cancer diagnosis, but overreliance poses risks: AMC study",
+      "url": "https://www.koreabiomed.com/news/articleView.html?idxno=33846",
+      "source": "Korea Biomedical Review",
+      "published_iso": "2026-11-13T13:57:58+09:00",
+      "og_image": "https://cdn.koreabiomed.com/news/thumbnail/202611/33846_37014_5655_v150.jpg",
+      "excerpt": "Asan Medical Center's deep-learning tool raised 21 pathologists' accuracy in diagnosing fumarate hydratase-deficient renal cell carcinoma from 60.0% to 73.3%, but physicians who relied more on it were more likely to accept its wrong calls.",
+      "rationale": "Reader study with hard numbers on both the accuracy gain and the automation-bias cost for pathologists."
+    },
+    {
+      "tool": "Medicine",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "title": "AI linked to higher recall rates in screening mammography",
+      "url": "https://www.auntminnie.com/resources/conference/rsna/2026/womens-imaging-preview/article/16425472/ai-linked-to-higher-recall-rates-in-screening-mammography",
+      "source": "AuntMinnie",
+      "published_iso": "2026-11-13T12:00:00Z",
+      "og_image": null,
+      "excerpt": "RSNA 2026 preview: real-world results from a tertiary cancer center comparing screening mammography interpretations with and without AI, finding AI use associated with higher recall rates.",
+      "rationale": "Real-world screening data showing a practical downside of AI-assisted mammography; the strongest of three same-hub RSNA breast previews."
+    },
+    {
+      "tool": "Medicine",
+      "accent": "#eb367f",
+      "motif": "sphere",
+      "title": "Patient comfort with AI's clinical decisions tied to provider oversight: Gallup",
+      "url": "https://www.healthcaredive.com/news/patient-comfort-with-ais-clinical-decisions-tied-to-provider-oversight-ga/874623/",
+      "source": "Healthcare Dive",
+      "published_iso": "2026-11-13T10:39:35-05:00",
+      "og_image": "https://imgproxy.divecdn.com/8LRNjVp7pJo5yhr9MtNjjDQSkES-KtLbTkgDJFbd5Rg/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjcyMDM5MjIwLmpwZw==.webp",
+      "excerpt": "A new Gallup poll finds patients are more open to AI making decisions about their care than providers assume, but human oversight is what makes them comfortable with it.",
+      "rationale": "New national poll on the patient side: acceptance of clinical AI hinges on clinician oversight."
+    }
+  ]
 }

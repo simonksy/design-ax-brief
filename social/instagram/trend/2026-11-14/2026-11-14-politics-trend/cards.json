@@ -1,0 +1,113 @@
+{
+  "meta": {
+    "issue": "AI 피해, 책임을 묻는다",
+    "date": "2026.11.14",
+    "section": "POLITICS",
+    "accent": "#9aa8c7",
+    "note": "Verge·Ars 원문 확인(AP·Axios는 Cloudflare 차단 → 파이프라인 enrichment 본문으로 대조). 날짜를 기사 게재일로 고침(텍사스 10.26→10.23, Gates 소송 11.08→11.05, 시민단체 소송 11.13→11.12 목요일, AMA 11.14→11.13). 각 주장은 원고·단체 주장으로 표기. 사진은 AMA(진료실 일러스트) 한 장만, 정치인 얼굴 사진은 쓰지 않음. 시민단체 소송 사진은 11-13 story가 써서 stat로.",
+    "sources": [
+      "The Verge — Texas becomes the latest state to sue OpenAI (2026.10.23)",
+      "Ars Technica — Lawsuit: Man introduced his wife to ChatGPT. She used it to plan his murder. (2026.11.05)",
+      "AP News — Advocacy groups sue five AI companies seeking to halt development (2026.11.12)",
+      "Axios — Doctors seek liability shield for AI mistakes (2026.11.13)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 정책 · 10.23~11.13",
+      "thread": [
+        {
+          "d": "10.23",
+          "t": "주 소송",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        },
+        {
+          "d": "11.5",
+          "t": "개인 소송",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        },
+        {
+          "d": "11.12",
+          "t": "개발 중단",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        },
+        {
+          "d": "11.13",
+          "t": "면책 요구",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        }
+      ],
+      "thread_note": "AI가 낸 피해를 누가 책임지나, 소송과 입법 요구가 잇따른다",
+      "eyebrow": "흐름 · 정책",
+      "headline": "AI 피해,\n책임을 묻는다",
+      "body": "한 건씩 보면 각자의 소송이다. 이어 보면 주정부·개인·시민단체·의사단체가 같은 걸 묻는다. 책임은 누구에게 있나.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "stat",
+      "eyebrow": "2026.10.23",
+      "headline": "텍사스도\nOpenAI 제소",
+      "body": "텍사스 법무장관은 OpenAI가 ChatGPT 안전성을 오도해 아동 등 이용자가 피해를 입었다고 주장했다.",
+      "foot": "2026.10.23",
+      "_src": "https://www.theverge.com/ai-artificial-intelligence/1017900/texas-becomes-the-latest-state-to-sue-openai",
+      "_id": "politics-texas-paxton-openai",
+      "stat_top": "애리조나·아이오와 등",
+      "stat_arrow": "같은 취지로 OpenAI를 고소한 주에",
+      "stat_bottom": "텍사스 합류",
+      "stat_strike": false
+    },
+    {
+      "n": 3,
+      "kind": "quote",
+      "eyebrow": "2026.11.05",
+      "headline": "개인도\nOpenAI·올트먼 제소",
+      "body": "아내가 ChatGPT로 남편 독살을 꾸몄다는 소송. 원고는 대화를 끊지 않았다고 주장, OpenAI는 이용자를 차단했다고 했다.",
+      "foot": "2026.11.05",
+      "_src": "https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder/",
+      "_id": "openai-chatgpt-poison-plot-lawsuit",
+      "quote": "ChatGPT가\n맞춤 계획을\n짜 줬다",
+      "quote_by": "제임스 게이츠 측 소장 · Ars Technica 인용"
+    },
+    {
+      "n": 4,
+      "kind": "stat",
+      "eyebrow": "2026.11.12",
+      "headline": "시민단체,\n개발 중단 청구",
+      "body": "비영리단체 넷이 샌프란시스코 법원에 불공정경쟁법 위반을 들어 AI 기업들의 새 모델 개발·배포를 막아 달라고 했다.",
+      "foot": "2026.11.12",
+      "_src": "https://apnews.com/article/artificial-intelligence-ai-lawsuit-cyberattacks-anthropic-openai-03ece37b96979fe834f60976648504ba",
+      "_id": "advocacy-suit-halt-ai-labs",
+      "stat_top": "피고 AI 기업 5곳",
+      "stat_arrow": "원고 단체들의 청구",
+      "stat_bottom": "새 모델 중단",
+      "stat_strike": false
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.11.13",
+      "headline": "의사들,\nAI 과실에 선 긋기",
+      "body": "미국의사협회는 정해진 대로 쓴 AI가 환자를 해치면 의사 대신 AI 업체 등이 책임지도록 입법을 요구했다.",
+      "foot": "2026.11.13",
+      "_src": "https://www.axios.com/2026/11/13/doctors-ai-mistakes-liability-shield",
+      "_id": "politics-ama-ai-liability",
+      "media": "pipeline/media/politics-ama-ai-liability.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

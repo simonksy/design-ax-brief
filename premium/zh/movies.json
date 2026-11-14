@@ -10401,6 +10401,123 @@
           "x": "两款工具均处于测试阶段，Creative Cloud for Teams和Enterprise用户无法使用。Build a story仅支持桌面端的Chrome和Edge，且只能从Adobe云存储的生成历史中调取片段，不支持直接上传。"
         }
       ]
+    },
+    "movies/4by4-pixell-pro-macos": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/4hmeh8_202611120716.png",
+          "cap": "4BY4将AI视频画质增强带到Mac、DaVinci Resolve和Nuke"
+        },
+        {
+          "t": "p",
+          "x": "韩国公司4BY4表示，将于11月18日在Inter BEE 2026（11月18–20日，千叶Makuhari Messe；Hall 6，展位6110）正式发布macOS版AI PIXELL PRO和AI PIXELL PLUGIN，瞄准把生成视频和现有视频打磨到可交付标准的环节。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/lgidra_202611120715.png",
+          "cap": "AI PIXELL PRO macOS版发布。图片：4BY4。"
+        },
+        {
+          "t": "p",
+          "x": "AI PIXELL PRO可对低分辨率视频进行放大、降噪、提升锐度和去隔行处理，包括用外部生成式AI（generative-AI）服务制作的文件。Mac版采用永久授权，售价KRW 220,000，不按任务扣除点数，并在用户自己的电脑而非云服务器上处理。"
+        },
+        {
+          "t": "p",
+          "x": "AI PIXELL PLUGIN支持Blackmagic Design的DaVinci Resolve和Foundry的Nuke。4BY4还将展示用于实时HD-to-4K放大的AI PIXELL LIVE和用于重制的AI PIXELL VOD。解决方案事业部负责人Heehwan Seo表示，生成视频的后期打磨正变得越来越重要。功能和价格均为公司说法，并非独立基准测试结果。"
+        }
+      ]
+    },
+    "movies/runway-labs-video-interface": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "1XV_2WrnZH0"
+        },
+        {
+          "t": "p",
+          "x": "走进Runway Labs，看设计师们如何为实时视频模型所带来的可能性制作原型。本集探讨把视频当作操作系统：无需提示词即可选中页面上的任何内容深入探索；可调整尺寸的视频，由模型重新诠释你所看到的画面；以及一款在你绘画时就以你自己的风格让草图动起来的绘图应用。重点在于暂时放下怀疑，走进一个想法，让它成为一场对话。"
+        },
+        {
+          "t": "p",
+          "x": "章节：00:00 开场 · 00:42 任意选择即生成 · 01:14 可调整尺寸的视频 · 02:06 用实时视频绘画 · 02:42 为什么动手创作很重要"
+        }
+      ]
+    },
+    "movies/mansa-ai-microdramas-black-stories": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6af65ba58bac4203b57b5ba0/191:100/w_1280,c_limit/Startup-Betting-on-AI-Microdramas-Culture.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Mansa的新微短剧《They Left Us to Die》讲述South Los Angeles的一场僵尸病毒，共30集，完全由AI生成（AI-generated）。10月29日预告片发布后，批评者质疑，一家由演员David Oyelowo和Nate Parker创立的公司，为何要做一部零真人角色的剧；一位Threads用户称其为“又一次向AI出卖”。"
+        },
+        {
+          "t": "p",
+          "x": "Mansa表示，它把AI当作一枚棋子，而不是以人为本内容的替代品：在制片厂投入真人拍摄之前，先测试观众对黑人故事的兴趣。Parker说，有了微短剧，“你可以测试一部内容……可以将其变现……可以追踪互动数据。”"
+        },
+        {
+          "t": "p",
+          "x": "Omdia发现，用户每天在ReelShort上花费36分钟，而在Prime Video上为26分钟，在Netflix上为20分钟；该机构预计2027年微短剧市场规模将达$14 billion。根据UCLA Hollywood Diversity报告，2025年黑人演员仅占电影主角的6.5%。Mansa已制作九部真人（live-action）微短剧和两部完全由AI生成的微短剧，但拒绝透露表现数据。"
+        },
+        {
+          "t": "p",
+          "x": "Syracuse大学的J. Christopher Hamilton说，Parker“没有看清形势”，但他也认为AI微短剧是业界无法忽视的“极具吸引力的商业提议”。"
+        }
+      ]
+    },
+    "movies/animaj-ozzy-fox-disneyplus": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot-2026-11-11-at-9.53.14-AM.png?w=864",
+          "cap": "Ozzy Fox已在YouTube和Disney Jr.播出，即将登陆Disney Plus。Animaj/Disney"
+        },
+        {
+          "t": "p",
+          "x": "Ozzy Fox是Animaj与Disney的首个合作项目，7月在YouTube和Disney Junior首播，即将登陆Disney Plus。它由人工绘制和制作动画，但借助AI来加快进度。"
+        },
+        {
+          "t": "p",
+          "x": "Animaj CEO Sixte de Vauplane在2026 Disney Accelerator Demo Day上表示，公司最近发布了FlipMove——一条将其AI模型整合为面向动画师的单一工具的流程，并打造了智能体AI工作流。“我们让一个智能体读取笔记，另一个负责协调，判断需要使用哪种模型，”他说。动画师“对每一帧都有完全的控制权”。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot-2026-11-11-at-12.04.29-PM.png?w=864",
+          "cap": "FlipMove AI流程正在运行，帮助将艺术家的草图转化为3D建模场景（3D-modeled）。Animaj/Screenshot by CNET"
+        },
+        {
+          "t": "p",
+          "x": "动画师绘制主要姿势，AI填补其间的过渡动作，再由动画师微调。Ozzy Fox上线时曾被指为AI垃圾内容（AI slop），此后Animaj的AI宣言称，敌人是垃圾内容（slop），而不是AI；宣言主张，节省下来的每一小时都应重新投入到人的工作中。"
+        }
+      ]
+    },
+    "movies/shortical-inevitable-avni": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.thewrap.com/wp-content/uploads/2026/05/894de741-4605-4349-b5ca-c6cb0b7442b6.jpg",
+          "cap": "《Inevitable》中由AI生成（AI-generated）的Aki Avni（Credit: Shortical）"
+        },
+        {
+          "t": "p",
+          "x": "Shortical推出的《Inevitable》是一部完全由AI生成（AI-generated）的微短剧系列，把娱乐业对AI威胁创造力的担忧推到了台前。这部心理惊悚剧由以色列演员Aki Avni的AI版本主演：这位演员把自己的面孔和肖像卖给一家AI工作室后，发现自己的AI版本卷入了一起他并未犯下的谋杀未遂案。"
+        },
+        {
+          "t": "p",
+          "x": "Avni深度参与了这部竖屏剧的制作，与主创团队一起打造了自己的数字分身。他说：“如果你真的迈出这一步，并清楚知道哪些是你愿意的、哪些是你不愿意的，你就能赢下这场局面。”"
+        },
+        {
+          "t": "p",
+          "x": "这是导演兼主创Ofir Lobel的首个AI生成（AI-generated）项目，也是他的首部竖屏剧集。Lobel说：“《Inevitable》是一部关于失去肖像控制权的微短剧，而我们的做法是把这份控制权交给我们的演员、我们的主角。”他还表示：“娱乐业的未来不是AI或演员二选一，而是AI与演员同行。”"
+        },
+        {
+          "t": "p",
+          "x": "《Inevitable》于11月13日在Shortical App上线，首发24集；这部共50集的微短剧每周更新。编剧为Sharon Ben Tovim，由Shortical制作。"
+        }
+      ]
     }
   }
 }

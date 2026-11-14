@@ -11360,6 +11360,127 @@
           "x": "EHT Collaboration director Dr. Laurent Loinard said GenDIReCT, \"an elegant, entirely independent method, recovers the ring structure of M87* across several years, in excellent agreement with the EHT Collaboration's published results.\" Thyagarajan said the technique could also improve medical imaging and mapping earthquakes."
         }
       ]
+    },
+    "science/slac-lcls-laser-surrogate": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.sciencedaily.com/images/1920/noncollinear-sum-frequency-generation.webp",
+          "cap": "Artistic rendering of noncollinear sum-frequency generation (SFG): two infrared pulses mix in a χ² crystal to produce three output pulses. Credit: Gregory Stewart, SLAC National Accelerator Laboratory"
+        },
+        {
+          "t": "p",
+          "x": "Scientists at Stanford University, UCLA and SLAC National Accelerator Laboratory have developed a deep-learning model that reproduces conventional simulations of second-order nonlinear optics (χ2 processes) in a fraction of the time while maintaining high accuracy across a wide variety of laser pulse shapes. The work is described in Advanced Photonics."
+        },
+        {
+          "t": "p",
+          "x": "At SLAC's LCLS-II, infrared light is converted into green and then UV light; the UV pulse strikes a cathode, releasing electrons that generate X-ray pulses. Conventional simulation uses the split-step Fourier method, which accounts for approximately 95 percent of total processing time in the full laser simulation."
+        },
+        {
+          "t": "p",
+          "x": "The team built an LSTM recurrent neural network and tested it on noncollinear sum frequency generation, in which three interconnected light fields evolve together inside a crystal. The network works entirely with a compressed representation of the light's frequency characteristics."
+        },
+        {
+          "t": "p",
+          "x": "Run in batches on GPUs, the average calculation time per simulation dropped to just a few milliseconds. The researchers envision modular networks feeding digital twins and adaptive, real-time laser control."
+        }
+      ]
+    },
+    "science/brookhaven-sphenix-jet-denoise": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/super-intelligence-met.jpg",
+          "cap": "Jet production and detection in heavy-ion collisions. Credit: Brookhaven National Laboratory"
+        },
+        {
+          "t": "p",
+          "x": "Researchers at Brookhaven National Laboratory, with collaborators at Columbia University and the University of Colorado Boulder, developed a generative AI method that separates particle-jet signals from the background in simulated heavy-ion collisions."
+        },
+        {
+          "t": "p",
+          "x": "\"Our AI method learns to split that image into two parts,\" said Brookhaven physicist Yeonju Go. The \"unpaired, unsupervised\" model does not need paired examples of signal and background; it learns from simulated collision data and ideal jet simulations. \"Unsupervised learning methods can learn useful concepts and patterns directly from the data,\" said Brookhaven computer scientist Dmitrii Torbunov."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/super-intelligence-met-1.jpg",
+          "cap": "How the framework is trained and then applied to separate jet signal from background. Credit: Brookhaven National Laboratory"
+        },
+        {
+          "t": "p",
+          "x": "Tested on simulated sPHENIX calorimeter data, it reconstructed jets' positions, energies and internal structure more accurately than conventional background-subtraction methods, especially for larger jets. \"We definitely want to use the model on our experimental data,\" Go said. The study appears in Scientific Reports."
+        }
+      ]
+    },
+    "science/qodex-quantum-reservoir-pde": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/11/image-85.png",
+          "cap": "QRN architecture."
+        },
+        {
+          "t": "p",
+          "x": "A team from QodeX Quantum, the University of South Carolina, the Naval Surface Warfare Center Panama City Division, NVIDIA and RTX BBN has demonstrated gradient-free forecasting of nonlinear partial differential equations (PDEs) on unstructured engineering meshes using up to 52 qubits on an IBM Quantum Heron r3 (ibm_boston) processor, detailed in an arXiv preprint."
+        },
+        {
+          "t": "p",
+          "x": "To decouple complex boundary geometries from circuit topology, the authors paired a pretrained graph neural network autoencoder with a fixed, untrained quantum reservoir split into memory and readout registers. The hybrid quantum reservoir network (QRN) ran circuits up to 24 times longer than median qubit coherence times."
+        },
+        {
+          "t": "p",
+          "x": "On hardware it reduced forecast error by 21% to 41% versus classical latent linear baselines: 33.2% one-step NRMSE reduction on a 2D cylinder flow (26 qubits) and 41.1% on Gray-Scott reaction-diffusion (26 and 52 qubits). In 10-step rollouts, hardware noise acted as a regularizer, giving NRMSE 0.257 versus 0.707 in noiseless CUDA-Q simulation."
+        },
+        {
+          "t": "p",
+          "x": "Code is open-source on GitHub; QodeX says the study also validated modules of its agentic quantum workflow platform, AlphaPsi."
+        }
+      ]
+    },
+    "science/princeton-baby-language-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://singularityhub.com/uploads/2026/11/baby-face.jpeg?auto=webp"
+        },
+        {
+          "t": "p",
+          "x": "An unusual study from Princeton University, part of its First 1,000 Days project, used cameras and microphones in eight households to capture everyday sounds surrounding children from birth to roughly three years of age. The researchers then built an AI learner for each child that experienced the child's speech environment as it unfolded over time."
+        },
+        {
+          "t": "p",
+          "x": "\"Build a learning system, give it the child's actual experience, and ask whether it develops the way the child does,\" said study author Uri Hasson. Each home had between 4 and 14 devices; the team extracted up to 6,600 hours of audio per child."
+        },
+        {
+          "t": "p",
+          "x": "The small model, an audio encoder plus a predictive decoder, started as a blank slate. Exposure alone was \"not enough,\" said Hadas Raviv. The fix was replay: revisiting snippets of recent speech at the end of each simulated day, inspired by sleep."
+        },
+        {
+          "t": "p",
+          "x": "Across eight children, the models learned roughly 37 phonemes within 15 months and began recognizing words before age two, at vastly different rates. The AI learns from sound alone, unlike babies. \"The current model is only the beginning,\" said Hasson."
+        }
+      ]
+    },
+    "science/nature-ai-mechanic-astra": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.nature.com/lw767/magazine-assets/d41586-026-03679-8/d41586-026-03679-8_53974808.jpg",
+          "cap": "Some AI models behave like mechanics — fixing issues in other models that they neither designed nor fully understand. Credit: Mint Images/Getty"
+        },
+        {
+          "t": "p",
+          "x": "Researchers have used an artificial-intelligence model to read and tinker with the internal workings of another AI network — offering a new way to peek into the ‘black box’ of AI. A team at the Massachusetts Institute of Technology (MIT) has demonstrated how an AI model called GPT-6 Astra can interpret the raw internal values of some other models well enough to predict what different parts of the systems do. It can then edit the models to make improvements — including boosting their mathematical abilities. The authors reported their findings in a preprint on 2 November."
+        },
+        {
+          "t": "p",
+          "x": "Frontier AI models are “showing early sparks” of an ability to treat neural networks like files that they can read, reason about and change, says co-author Rikiya Takehi. The results do not mean that Astra, developed by OpenAI, can explain or understand how a given AI network works, but suggest general-purpose models might modify a network in useful ways, like a mechanic fixing an engine they neither designed nor fully understand."
+        },
+        {
+          "t": "p",
+          "x": "Fazl Barez of the University of Oxford says the preprint shows some ‘interpretability’ methods can be automated, though the hope that this yields safer AI is “largely untested”. Harvard’s Marinka Zitnik says such reprogramming could help spot errors in a model ahead of real-world testing."
+        }
+      ]
     }
   }
 }

@@ -12152,6 +12152,163 @@
           "x": "Ambas colecciones saldrán a la venta en Estados Unidos (U.S.) a partir del 10 de diciembre de 2026, y Gentle Monster Intelligent Eyewear también estará disponible en Corea. En Estados Unidos (U.S.), Warby Parker Intelligent Eyewear costará desde $395, mientras que Gentle Monster Intelligent Eyewear oscilará entre $449 y $489, según el modelo."
         }
       ]
+    },
+    "gadgets/perplexity-teammates-mac": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Perplexity-teammates-feature.jpg?resize=1200%2C720&ssl=1",
+          "cap": "Perplexity"
+        },
+        {
+          "t": "p",
+          "x": "Los teammates de Perplexity son un equipo de agentes de IA cuyo trabajo es hacerse cargo de tus tareas en curso. En lugar de guiar a la IA paso a paso, puedes asignar tareas a tus agentes compañeros y ellos harán el trabajo en segundo plano, ya sea gestionar una campaña de crecimiento, clasificar los informes de errores a medida que llegan, vigilar tus métricas o investigar un mercado nuevo."
+        },
+        {
+          "t": "p",
+          "x": "Planifican las tareas, añaden más agentes si hace falta y te avisan cuando el trabajo está hecho y el informe está listo. Perplexity lanzó teammates en la web la semana pasada y ahora por fin llega a la app para Mac."
+        },
+        {
+          "t": "p",
+          "x": "Perplexity no es la primera empresa de IA en lanzar agentes de este tipo: Meta Muse y ChatGPT Dots hacen cosas similares, y Grok Bot es otro ejemplo. Estos agentes funcionan en su propia instancia de computación en la nube y siguen trabajando aunque cierres el equipo; pueden comunicarse entre sí, crear canales dedicados para las tareas y no requieren supervisión constante."
+        },
+        {
+          "t": "p",
+          "x": "La función solo está disponible para los usuarios del plan Max de Perplexity, que cuesta $200 al mes."
+        }
+      ]
+    },
+    "gadgets/jeep-cherokee-claude-ecu": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Un aficionado a la IA logró que su viejo Jeep Cherokee de 1994 superara las pruebas de emisiones de California, gracias a la ayuda de la IA y a un poco de habilidad con el cableado electrónico. Este coche de 32 años solo tenía una computadora de motor primitiva, pero tras conectarla a un portátil mediante una placa Arduino Nano, pudo leer muchos ajustes y, al final, controlarlos."
+        },
+        {
+          "t": "video",
+          "yt": "WPj3aQ-xxpI"
+        },
+        {
+          "t": "p",
+          "x": "El video documenta el recorrido de Muhammad Zulali desde que el Jeep suspendió varias pruebas de emisiones seguidas hasta que ajustó y corrigió los problemas de emisiones del motor. Claude aportó la orientación y Codex escribió todo el código necesario. El Jeep emitía demasiado NOx a ciertas velocidades de prueba, y cada nueva inspección costaba casi $100. La solución usó un microcontrolador de $3, con un coste total de materiales de no más de $15."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/uWPfVwnAzVfG87r5UBkxc5.jpg",
+          "cap": "(Crédito de la imagen: Muhammad Zulali)"
+        },
+        {
+          "t": "p",
+          "x": "Claude le explicó que el motor se comunicaba por un bus Chrysler SCI a unos 7.800 baudios, con la señal eléctricamente invertida respecto a un puerto serie normal; una Arduino Nano, conectada al conector de diagnóstico de 6 pines del Cherokee, se encargó de la inversión. Después, Claude registró datos del motor y códigos de fallo durante trayectos a 25 mph y 50 mph. La ECU era unos meses demasiado antigua para poder reprogramarse, así que Codex inyectó y ejecutó código propio dentro de una EEPROM cercana."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/MEhj2kjie9xAZfBevnC5jT.jpg",
+          "cap": "(Crédito de la imagen: Muhammad Zulali)"
+        },
+        {
+          "t": "p",
+          "x": "«Claude hizo la mayor parte del trabajo de diagnóstico y Codex hizo prácticamente todo el trabajo de memoria», dice Zulali. «Yo solo hice el cableado y la conducción». El proyecto, xj-scanner, está en GitHub bajo GPLv3."
+        }
+      ]
+    },
+    "gadgets/ces2027-innovation-awards-korea": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.etnews.com/news/article/2026/11/10/news-p.v1.20261110.5fdedf20293c4a21af1be6aa3526c5f6_P1.jpg",
+          "cap": "El 'LG Signature OLED T', primer televisor transparente e inalámbrico del mundo, ganador de un máximo premio a la innovación de CES 2027"
+        },
+        {
+          "t": "p",
+          "x": "Las empresas coreanas se llevaron más de la mitad de los máximos premios a la innovación de 'CES 2027'. Sin embargo, China y Estados Unidos se quedaron con los máximos galardones en los campos que definirán el liderazgo de las industrias del futuro, como los robots y los semiconductores de inteligencia artificial (IA)."
+        },
+        {
+          "t": "p",
+          "x": "La Asociación de Tecnología de Consumo (CTA) anunció el día 9 (hora local) la primera tanda de ganadores de los Premios a la Innovación de CES 2027. Este año se presentaron unas 4.000 candidaturas, un 10% más que el año anterior y un récord histórico. Tres áreas, IA, salud digital y robótica, sumaron el 25% del total. Al clasificar por país los 38 máximos premios anunciados en la primera tanda, Corea fue el que más obtuvo, con 24 (61%). Le siguieron Estados Unidos con 5 y China con 4, mientras que Alemania, Suecia, Canadá y Japón recibieron uno cada uno."
+        },
+        {
+          "t": "p",
+          "x": "Samsung Electronics obtuvo dos máximos premios en la categoría móvil con el 'Galaxy Z Fold8' y el 'Fold8 Ultra'. LG Electronics ganó, con el 'Signature OLED T6', el máximo premio de la categoría de arte y tecnología, creada este año por la CTA junto con la casa de subastas Christie's. Shuolz encabezó las categorías de accesibilidad y longevidad y de tecnología de la moda con dos zapatos con IA, y también fueron premiadas startups, pymes y universidades como AIBiz (AI)."
+        },
+        {
+          "t": "p",
+          "x": "El máximo premio de robótica, categoría en la que las candidaturas se dispararon un 74%, fue para el 'ET1' de la empresa china de humanoides Galbot. Estados Unidos se quedó en 5, pero NVIDIA ganó los máximos premios de hardware informático y videojuegos con la 'Vera CPU' y 'DLSS 5', y Qualcomm se llevó el de XR con su plataforma XR."
+        },
+        {
+          "t": "img",
+          "src": "https://img.etnews.com/news/article/2026/11/11/news-t.v1.20261111.298baa5937ea4e60934770e35f71167a_P1.png",
+          "cap": "Lista de ganadores de los máximos premios a la innovación de 'CES 2027' de Corea, China y Estados Unidos (Fuente: CTA)"
+        },
+        {
+          "t": "p",
+          "x": "Un responsable del sector electrónico afirmó: «Si Corea ganó de forma pareja en muchas categorías, Estados Unidos y China se hicieron con el núcleo de las industrias de próxima generación, como los semiconductores de IA y los humanoides»."
+        }
+      ]
+    },
+    "gadgets/alexa-photo-frame-review": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/Z4o6D9xUVqVPSaZ8NmqJX3.jpg",
+          "cap": "(Crédito de la imagen: Future)"
+        },
+        {
+          "t": "p",
+          "x": "Veredicto de Tom's Guide: el Amazon Alexa Photo Frame usa IA para seleccionar con inteligencia tu enorme colección de fotos y mostrarlas de forma ordenada. Sin embargo, es más adecuado para quienes tienen una suscripción a Amazon Prime."
+        },
+        {
+          "t": "p",
+          "x": "Tras la configuración, una de las primeras imágenes que mostró fue una foto en blanco y negro del padre del autor de la reseña, fallecido hace 16 años, dando de comer a una ardilla. Para aprovecharlo al máximo se necesita Alexa+ ($19 al mes) o una suscripción a Amazon Prime ($149 al año)."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/S67kv6Bww23UK4MwXUdanF.jpg",
+          "cap": "(Crédito de la imagen: Future)"
+        },
+        {
+          "t": "p",
+          "x": "Revisa toda la biblioteca de imágenes y luego las muestra según criterios como la época del año, temas, objetos y eventos. Solo funciona en modo horizontal, pero coloca las fotos verticales una junto a otra. También se le puede pedir a Alexa «muéstrame fotos de gatos y niños» para obtener una presentación seleccionada; cuando aparecieron fotos equivocadas, decir «Alexa, esa no es mi hija» hizo que corrigiera la colección."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/2cTbvaaoUPYULcGiLFAkua.jpg",
+          "cap": "(Crédito de la imagen: Future)"
+        },
+        {
+          "t": "p",
+          "x": "También funciona como altavoz inteligente con Alexa+ y permite añadir notas de audio breves a las fotos. En especificaciones queda por detrás de rivales como el Aura Aspen de $229 y el Lexar Pexar de $179, y no reproduce videos, pero ninguno hace tan sencillo seleccionar todas tus fotos como Amazon con Alexa+. Se vende por $199,99."
+        }
+      ]
+    },
+    "gadgets/gadgets-gemini-task-automation-galaxy": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.sammobile.com/wp-content/uploads/2026/07/Galaxy-Z-Fold-8-Ultra-Gemini-1200x675.jpg",
+          "cap": "Gemini en el Galaxy Z Fold 8 Ultra"
+        },
+        {
+          "t": "p",
+          "x": "Gemini evoluciona cada mes con mejor rendimiento, nuevas funciones y modelos actualizados. A principios de este año, durante el lanzamiento de la serie Galaxy S26, Google mostró por primera vez la función Task Automation de Gemini en Android. Pronto, esa función funcionará con docenas de apps en algunos teléfonos y tabletas Galaxy."
+        },
+        {
+          "t": "p",
+          "x": "Antes del despliegue más amplio de Gemini Task Automation, Android Authority descubrió una lista de apps que serán compatibles con la función en teléfonos y tabletas Android, agrupadas por región: Australia, Canadá, Europa, Global, India, Japón, Corea del Sur, Reino Unido (UK) e Irlanda, y Estados Unidos (US). Entre las globales están Airbnb, Booking.com, eBay, Expedia, Microsoft Word, Excel, Outlook y Teams, Slack, Uber y Uber Eats; entre las de Corea del Sur, 11st, Catchtable, Gmarket, Kakao T, Korean Air, Naver Calendar y Yanolja."
+        },
+        {
+          "t": "p",
+          "x": "La función solo estará disponible en dispositivos Galaxy S, Galaxy Tab S (excepto los modelos FE) y Galaxy Z lanzados en 2026 con Android 17 (One UI 9.0 o posterior): Galaxy S26, S26+, S26 Ultra, S26 FE, Galaxy Tab S12+, Tab S12 Ultra, Galaxy Z Flip 8, Z Fold 8 y Z Fold 8 Ultra."
+        },
+        {
+          "t": "p",
+          "x": "Con esta función se puede pedir comida y compras del supermercado, solicitar un viaje, comprar productos, reservar entradas para eventos y vuelos, hacer reservas en restaurantes u hoteles, crear o editar documentos, enviar mensajes y mucho más. Al parecer, solo funcionará con apps descargadas de Google Play Store, y el lanzamiento probablemente será por fases."
+        },
+        {
+          "t": "video",
+          "yt": "6FbSIAKJ1rg"
+        }
+      ]
     }
   }
 }

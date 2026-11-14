@@ -10163,6 +10163,142 @@
           "x": "Sonura Flow支持Apple Silicon和Intel Macs上的macOS 12及以上版本，以及64-bit Windows 10和11。"
         }
       ]
+    },
+    "music/fifty-cent-huang-deepfake": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.billboard.com/wp-content/uploads/2026/10/2287163263-e1792696512839.jpg?w=1024",
+          "cap": "Curtis \"50 Cent\" Jackson"
+        },
+        {
+          "t": "p",
+          "x": "50 Cent学会制作AI-generated视频，相当于掌握了一件社交媒体核武器。50一向紧跟全国新闻热点，这次他把矛头对准了Nvidia前CEO黄仁勋（Jensen Huang）——此前有消息曝出黄仁勋与一名中国间谍有婚外情，他于周四（Nov. 12）辞职。"
+        },
+        {
+          "t": "p",
+          "x": "50发布了一段经A.I.深度伪造改编的“P.I.M.P.”音乐视频，让黄仁勋取代了画面中Snoop Dogg的角色。他在帖子中写道：“Jensen don’t sweat it come be head of AI at G-Unit film & television GLG GreenLightGang in full effect”。"
+        },
+        {
+          "t": "p",
+          "x": "一位粉丝评论：“Huang the new member of Jen-Unit!”"
+        },
+        {
+          "t": "p",
+          "x": "“P.I.M.P.”于2003年推出，在Billboard Hot 100上最高排到No. 3。这首由Mr. Porter制作的歌曲的混音版邀请了Snoop以及G-Unit的Young Buck和Lloyd Banks。"
+        },
+        {
+          "t": "p",
+          "x": "据The New York Times报道，这位A.I.科技巨头有两段婚外情，导致丑闻在本周爆发。其中一段的对象是被U.S.情报官员认定为中国间谍的女子Alice Huang（与黄仁勋无亲属关系），另一段则是与公司的一名高管同事。"
+        },
+        {
+          "t": "p",
+          "x": "50并未就此罢手。他又发布了一段AI深度伪造视频，把这位声名扫地的企业家放进Drake 2020年“Popstar”音乐视频中Justin Bieber的位置，继续调侃黄仁勋。他在配文中补充道：“lol like this I don’t know why, but I like it”。"
+        },
+        {
+          "t": "p",
+          "x": "黄仁勋在辞职前发给全公司的信息中承认，他对妻子Lori Huang“unfaithful”。两人育有两个孩子。"
+        }
+      ]
+    },
+    "music/mintify-vcoloring-ai-songs": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.aipostkorea.com/news/photo/202611/13276_24022_5651.png",
+          "cap": "（图片=MusicPlat）"
+        },
+        {
+          "t": "p",
+          "x": "AI制作的歌曲已越过音源榜单，走进了手机屏幕。音源发行AI服务Mintify（运营方MusicPlat）宣布，已登陆3家电信运营商的通话接通视频服务V彩铃与V名片，并为此于11月12日至12月10日举办“人气最新曲 by Mintify”活动。"
+        },
+        {
+          "t": "p",
+          "x": "近来AI音乐的存在感迅速上升。AI创作者Meomureu的《我成为梦想中的大人了吗？》上月在Melon TOP100中最高升至第2名。Mintify向V彩铃与V名片供应歌曲，让这类AI音乐不仅出现在音源网站上，也能用于拨打和接听电话的时刻。"
+        },
+        {
+          "t": "p",
+          "x": "V彩铃与V名片是在电话接通前向对方屏幕播放视频的服务。设置为向给我打电话的人展示，即为V彩铃；设置为向接听我电话的人展示，即为V名片。设置含有Mintify AI音源的视频后，我选择的音乐和视频就会出现在对方屏幕上。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.aipostkorea.com/news/photo/202611/13276_24023_571.jpg",
+          "cap": "（图片=MusicPlat）"
+        },
+        {
+          "t": "p",
+          "x": "此次活动首先公开18段含有经Mintify发行的AI音源的视频。V彩铃无限版或V名片用户将活动视频设置1天以上即自动参与抽奖。奖品为1等奖Galaxy Buds PRO（1名）、2等奖价值33,000韩元的Mintify发行券（10名）、3等奖JBOX 50%折扣券（100名），中奖者将于12月15日公布。Mintify计划在活动结束后继续向V彩铃与V名片供应发行曲目。"
+        },
+        {
+          "t": "p",
+          "x": "只要有音源，Mintify就能用AI技术自动生成封面图片和发行所需的数据，让作品在国内外30余家音源服务上销售。无论是AI制作的歌曲还是人创作的歌曲都可以，普通人和音乐人都能轻松地用自己的音乐获得收益。"
+        }
+      ]
+    },
+    "music/musicgen-beat-tracking-adapter": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "已有研究表明，音乐生成模型可以生成与输入歌曲同步演奏的音轨。能否将这一能力扩展为一种生成式节拍追踪方法？为回答这个问题，我们为预训练的MusicGen模型配备音频条件适配器，使其生成与输入音乐同步的打击乐音轨，并从中提取节拍位置。我们用节奏复杂度各异的打击乐目标分别训练模型，并与另外两种生成模型及传统节拍追踪器进行比较。在GTZAN上，我们的模型取得了接近最先进节拍追踪器的性能。"
+        },
+        {
+          "t": "p",
+          "x": "我们的模型还表现出更强的稳健性：推理时从输入中移除鼓声后，其F-measure降幅最小。在金属、迪斯科等特定流派中，我们的模型也更不容易被强起音误导，或漏掉起音较弱的节拍。这些结果表明，打击乐生成有望成为一种可行的节拍追踪方法，而且其输出不只是一串节拍位置，而是一条可以听到的打击乐音轨。"
+        }
+      ]
+    },
+    "music/para-music-parameter-ar": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "六月，我们报道了“AI-powered”印度厂牌PaRa Music的成立。该厂牌利用自研AI平台PaRaMeter分析“受众行为和需求模式”，以“指导与目录开发、发行和变现相关的投资与发行决策”。"
+        },
+        {
+          "t": "p",
+          "x": "六个月后，该公司向Music Ally South Asia分享了首个成功案例。他们表示，团队审视马拉地语（Marathi-language）板块时发现，“大部分正在走红的艺人和歌曲”都专攻‘gavthi’音乐，这是一个源自Maharashtra邦农村地区的子流派。"
+        },
+        {
+          "t": "p",
+          "x": "根据PaRaMeter的“艺人层面投资回报分析”，gavthi歌曲的表现好于Marathi流行歌曲。随后，厂牌借助该平台找出该子流派中最受欢迎的创作组合，认定作曲人RK King与歌手Kiran Vartha是一对“战绩尤为出色”的组合。"
+        },
+        {
+          "t": "p",
+          "x": "此后，厂牌从七月的‘Pikel Karand’开始陆续发行King与Vartha的一系列作品，该曲迄今在YouTube上的播放量已超过500k 次，最终厂牌与两人都签下了独家合约。“PaRaMeter让gavthi稳稳进入了我们的视野，而且这不会是最后一个，”PaRa Music联合创始人Pavan Sood说，该厂牌正在打造覆盖20多种语言的曲库。“印度音乐中满是这样的珍宝，而我们现在有了发现它们的工具。”"
+        }
+      ]
+    },
+    "music/suno-bridge-ableton": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/cl7b1q1i/production/82b39b7eda6ba746df9166d864ce48cddb76843f-1920x1080.jpg?w=1600&h=900&fit=crop&auto=format",
+          "cap": "Suno Bridge"
+        },
+        {
+          "t": "p",
+          "x": "今天，我们推出全新独立应用Suno Bridge，把Suno的能力与灵感带进你的音乐制作软件。你第一次可以把Suno工作流程与早已熟悉的VSTs、插件和DAW结合使用。"
+        },
+        {
+          "t": "p",
+          "x": "Suno Bridge首先以测试版推出，兼容在Mac上运行的Ableton Live 12。我们计划未来扩展到更多操作系统和DAW平台。"
+        },
+        {
+          "t": "p",
+          "x": "Bridge与Ableton Live并行运行，两个应用都需要保持打开。在Bridge中输入的提示词会生成全新的器乐和人声，契合Ableton工程的速度、调性、风格、和声内容与律动，并直接放到时间线上。同步时需要把工程文件上传到Suno；Arrangement View中的循环起点/终点标记决定提示词作用的区间。"
+        },
+        {
+          "t": "video",
+          "yt": "w0jgwmAObd0"
+        },
+        {
+          "t": "p",
+          "x": "可以把Bridge看作一座为你的音乐量身打造、取之不尽的独特音色库：把旧工程变成完整歌曲，突破创作瓶颈，同时保留你的插件、音频路由以及在Live中掌握的一切。"
+        },
+        {
+          "t": "p",
+          "x": "Suno Bridge（测试版）包含在所有Premier订阅中。目前适用于Mac上的Ableton Live 12。"
+        }
+      ]
     }
   }
 }
