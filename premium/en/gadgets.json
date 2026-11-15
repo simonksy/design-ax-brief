@@ -12265,6 +12265,170 @@
           "yt": "6FbSIAKJ1rg"
         }
       ]
+    },
+    "gadgets/xiaomi18pro-rear-genai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/xiaomi-18-pro-2.jpg?quality=82&strip=all&w=1400"
+        },
+        {
+          "t": "p",
+          "x": "The Xiaomi 18 Pro series’ rear displays might actually be useful, after all."
+        },
+        {
+          "t": "p",
+          "x": "Only a few companies have debuted phones with rear displays, and, quite frankly, most of them have been fairly useless. Xiaomi is hoping to turn all that around with the Xiaomi 18 Pro and Xiaomi 18 Pro Max’s rear display, which the company says supports Google Maps, YouTube Music, Spotify, and lots of additional apps via a nifty GenAI integration."
+        },
+        {
+          "t": "p",
+          "x": "The news comes via GSMArena and builds on the AMA videos Xu Fei, VP & CMO of the Xiaomi Group, has been posting on X. If you haven’t seen it yet, the camera island on the back of the Xiaomi 18 Pro series looks similar to the cover screen on a flip-style foldable like the Galaxy Z Flip 8 or Motorola Razr series. It’s a full-color touchscreen and has impressively high resolution."
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/xiaomi-18-pro-back-display-genai-camera.jpg?quality=82&strip=all&w=800"
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/xiaomi-18-pro-back-display-google-spotify.jpg?quality=82&strip=all&w=800"
+        },
+        {
+          "t": "p",
+          "x": "YouTube Music and Spotify will feature prominent play/pause and skip buttons, plus the artwork and name of the song playing. Google Maps will give you a navigation progress indicator, plus the next upcoming direction."
+        },
+        {
+          "t": "p",
+          "x": "In addition to official integration, Xiaomi is letting users create their own rear display apps using a built-in GenAI app creation tool. Just describe what you want, and the onboard AI will create the app for you. It looks quite handy and should help solve the “useless” problem that prior rear displays have faced. The Xiaomi 18 Pro series will debut globally."
+        }
+      ]
+    },
+    "gadgets/tvos-27-2-1-siri-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.macrumors.com/t/NIQfOSBaVtOFpZf_INMVdrQgmCg=/2500x/article-new/2026/10/Apple-TV-4K-4th-Generation-feature0.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Apple today released tvOS 27.2.1, an update to the tvOS 27 operating system that launched in September. tvOS 27.2.1 comes nearly three weeks after Apple released tvOS 27.2."
+        },
+        {
+          "t": "p",
+          "x": "tvOS 27.2.1 brings Siri AI support to the 2nd- and 3rd-generation Apple TV 4K models, but it is available for all Apple TV 4K models that support tvOS 27."
+        },
+        {
+          "t": "p",
+          "x": "Apple announced Siri AI for the Apple TV when debuting the 4th-generation Apple TV 4K. A separate tvOS 27.2 build activates Siri AI on the newest set-top box, but the older Apple TV 4K models will need the tvOS 27.2.1 update to get access."
+        },
+        {
+          "t": "p",
+          "x": "Siri AI is the smarter, more capable version of Siri that Apple introduced earlier this year. Siri AI can play content, draw on personal context to offer suggestions, answer world knowledge questions, and complete tasks."
+        },
+        {
+          "t": "p",
+          "x": "Using Siri AI on the Apple TV requires a paired Apple Intelligence-compatible iOS device, which includes the iPhone 15 Pro and later."
+        },
+        {
+          "t": "p",
+          "x": "Apple TV users can download tvOS 27.2.1 by going to Settings > System > Software Update. Apple has also released a new HomePod Software 27.2.1 update for the HomePod and HomePod mini."
+        }
+      ]
+    },
+    "gadgets/slashvibe-agent-controller": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/slashvibe-hero-in-hand-1440.jpg",
+          "cap": "SlashVibe V1 held in two hands with agent sessions marked waiting, done and working on its display"
+        },
+        {
+          "t": "p",
+          "x": "SlashVibe is a small desk display with a detachable controller for your AI agents, and its makers are open-sourcing the desktop app, firmware, communication protocol and SDK behind it. The Kickstarter had raised $122,881 against a $10,000 goal from 552 backers as of November 15, 2026, and closes on December 10. Early Bird pledges sit at $189, $60 under the $249 retail price, and the first batch is expected to start shipping in March 2027."
+        },
+        {
+          "t": "p",
+          "x": "Node.js or Python is all the SlashVibe SDK needs. Your code runs on your computer and streams its interface to SlashVibe. Three hooks ship in the first release: custom screen layouts, button and joystick events, and the text transcribed from your voice."
+        },
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/slashvibe-sdk-spend-screen.jpg",
+          "cap": "SlashVibe SDK example screen tracking API spend against a monthly budget"
+        },
+        {
+          "t": "p",
+          "x": "The hardware has a 3.96-inch LCD, Kailh ultra-low-profile mechanical switches, a two-axis joystick, dual MEMS microphones and a 2W speaker; the controller detaches and talks over 2.4GHz on a 500mAh battery rated for 20 hours."
+        },
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/slashvibe-agent-status-screen-closeup-1440.jpg",
+          "cap": "SlashVibe display close-up showing agent sessions marked waiting, done and working"
+        },
+        {
+          "t": "p",
+          "x": "Out of the box, SlashVibe works with more than 20 agents and tools on macOS and Windows, including Claude Code, Codex, Cursor, Copilot CLI and Gemini CLI. Every session shows as running, done or waiting, and approvals happen on the device. Voice input starts recording in under 100 milliseconds and strips filler words. No license or repository has been named yet; the code will be published before shipping."
+        }
+      ]
+    },
+    "gadgets/hp-zgx-fury-gb300": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/PZgCJ7B7RendGrosbZtv5e-1920-80.jpg",
+          "cap": "HP ZGX Fury desktop workstation"
+        },
+        {
+          "t": "p",
+          "x": "HP has introduced an expensive workstation that brings computing hardware previously associated with large-scale AI infrastructure into an office-sized machine. The ZGX Fury G1n combines Nvidia's GB300 Grace Blackwell Ultra processor with LPDDR5X and HBM3e memory: 496GB of system memory and 252GB for graphics, 748GB in total, with a 72-core Arm Neoverse V2 Grace CPU. Selected configurations raise video memory to 276GB, including discrete RTX PRO 2000 and RTX PRO 4000 cards."
+        },
+        {
+          "t": "p",
+          "x": "HP says the memory can accommodate local adjustment of language models with up to 100 billion parameters, and inference on models reaching one trillion parameters through FP4 quantization."
+        },
+        {
+          "t": "p",
+          "x": "It uses liquid cooling with a 1,600W Titanium-certified power supply, ships with Ubuntu 24.04 LTS, and an Nvidia ConnectX-8 SuperNIC provides two QSFP112 connections rated at 400Gbps. The enclosure also fits a 5U equipment rack."
+        },
+        {
+          "t": "p",
+          "x": "The standard configuration costs $132,000; the RTX PRO 2000 option is $133,000 and the RTX PRO 4000 option $136,000."
+        }
+      ]
+    },
+    "gadgets/gr00t2-human-video-robots": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-hero2-1280x720.jpg"
+        },
+        {
+          "t": "p",
+          "x": "GR00T 2 predicts the next few seconds of video before it moves. A robot running it learns skills from human demonstrations, then carries those skills to bodies that never practiced the task. One diffusion transformer generates the future video and the action chunk together; NVIDIA frames the model as its System One layer, built on Cosmos, its world-model platform."
+        },
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-rollout.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Pretraining mixed 402,730 hours of first-person human video, 10,184 hours of handheld gripper demonstrations across 2,897 tasks, and 23,500 hours of robot teleoperation. NVIDIA calls the transfer X-Adapt: the target robot never has to demonstrate the task itself before running it. 100,000 hours of the egocentric footage sit on Hugging Face as Human-1M-100K."
+        },
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-xadapt.jpg"
+        },
+        {
+          "t": "p",
+          "x": "On 50 tasks the target robot had never practiced, GR00T 2 succeeds in 40% of trials straight from the instruction. One demonstration per task lifts average success to 71%, and five demonstrations lift it to 95% after a single 30-minute fine-tune on one RTX 5090. Paired with a frontier reasoning model as System Two through the WAM API, the system finished 292 of 300 back-to-back toy assemblies."
+        },
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-turbo.jpg"
+        },
+        {
+          "t": "p",
+          "x": "GR00T 2 Turbo, a 2-billion-parameter version, runs onboard a Unitree G1 humanoid on Jetson Thor at 124 milliseconds per prediction. Nexuni, Foxconn and Siemens are testing the full-size model. The model weights and the X-Adapt recipes follow in December."
+        }
+      ]
     }
   }
 }

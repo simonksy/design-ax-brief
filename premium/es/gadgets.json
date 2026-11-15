@@ -12309,6 +12309,170 @@
           "yt": "6FbSIAKJ1rg"
         }
       ]
+    },
+    "gadgets/xiaomi18pro-rear-genai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/xiaomi-18-pro-2.jpg?quality=82&strip=all&w=1400"
+        },
+        {
+          "t": "p",
+          "x": "Las pantallas traseras de la serie Xiaomi 18 Pro podrían, después de todo, resultar útiles."
+        },
+        {
+          "t": "p",
+          "x": "Solo unas pocas empresas han lanzado teléfonos con pantalla trasera y, francamente, la mayoría han sido bastante inútiles. Xiaomi espera darle la vuelta a eso con la pantalla trasera del Xiaomi 18 Pro y el Xiaomi 18 Pro Max, que según la compañía admite Google Maps, YouTube Music, Spotify y muchas otras apps gracias a una ingeniosa integración GenAI."
+        },
+        {
+          "t": "p",
+          "x": "La noticia llega a través de GSMArena y se basa en los videos AMA que Xu Fei, VP & CMO de Xiaomi Group, ha publicado en X. Si aún no la has visto, la isla de cámaras en la parte trasera de la serie Xiaomi 18 Pro se parece a la pantalla exterior de un plegable tipo concha como el Galaxy Z Flip 8 o la serie Motorola Razr. Es una pantalla táctil a todo color y tiene una resolución notablemente alta."
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/xiaomi-18-pro-back-display-genai-camera.jpg?quality=82&strip=all&w=800"
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/xiaomi-18-pro-back-display-google-spotify.jpg?quality=82&strip=all&w=800"
+        },
+        {
+          "t": "p",
+          "x": "YouTube Music y Spotify mostrarán botones destacados de reproducir/pausar y saltar, además de la carátula y el nombre de la canción en curso. Google Maps ofrecerá un indicador de progreso de la navegación y la siguiente indicación de ruta."
+        },
+        {
+          "t": "p",
+          "x": "Además de la integración oficial, Xiaomi permite a los usuarios crear sus propias apps para la pantalla trasera con una herramienta integrada de creación de apps GenAI. Basta con describir lo que se quiere y la AI del dispositivo crea la app. Parece bastante práctica y debería ayudar a resolver el problema de “inutilidad” que han arrastrado las pantallas traseras anteriores. La serie Xiaomi 18 Pro se lanzará a nivel global."
+        }
+      ]
+    },
+    "gadgets/tvos-27-2-1-siri-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.macrumors.com/t/NIQfOSBaVtOFpZf_INMVdrQgmCg=/2500x/article-new/2026/10/Apple-TV-4K-4th-Generation-feature0.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Apple lanzó hoy tvOS 27.2.1, una actualización del sistema operativo tvOS 27 que llegó en septiembre. tvOS 27.2.1 aparece casi tres semanas después de que Apple publicara tvOS 27.2."
+        },
+        {
+          "t": "p",
+          "x": "tvOS 27.2.1 incorpora compatibilidad con Siri AI en los Apple TV 4K de 2.ª y 3.ª generación, aunque está disponible para todos los modelos de Apple TV 4K compatibles con tvOS 27."
+        },
+        {
+          "t": "p",
+          "x": "Apple anunció Siri AI para el Apple TV al presentar el Apple TV 4K de 4.ª generación. Una compilación aparte de tvOS 27.2 activa Siri AI en el decodificador más reciente, pero los modelos anteriores de Apple TV 4K necesitarán la actualización tvOS 27.2.1 para acceder."
+        },
+        {
+          "t": "p",
+          "x": "Siri AI es la versión más inteligente y capaz de Siri que Apple presentó a principios de este año. Siri AI puede reproducir contenido, recurrir al contexto personal para ofrecer sugerencias, responder preguntas de conocimiento general y completar tareas."
+        },
+        {
+          "t": "p",
+          "x": "Usar Siri AI en el Apple TV requiere un dispositivo iOS Apple Intelligence-compatible vinculado, lo que incluye el iPhone 15 Pro y posteriores."
+        },
+        {
+          "t": "p",
+          "x": "Los usuarios de Apple TV pueden descargar tvOS 27.2.1 en Settings > System > Software Update (Ajustes > Sistema > Actualización de software). Apple también publicó una nueva actualización HomePod Software 27.2.1 para el HomePod y el HomePod mini."
+        }
+      ]
+    },
+    "gadgets/slashvibe-agent-controller": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/slashvibe-hero-in-hand-1440.jpg",
+          "cap": "SlashVibe V1 sostenido con ambas manos, con sesiones de agentes marcadas como en espera, terminada y en curso en su pantalla"
+        },
+        {
+          "t": "p",
+          "x": "SlashVibe es una pequeña pantalla de escritorio con un controlador desmontable para tus agentes de IA, y sus creadores liberarán como código abierto la aplicación de escritorio, el firmware, el protocolo de comunicación y el SDK que la hacen funcionar. A 15 de noviembre de 2026, la campaña de Kickstarter había recaudado $122,881 frente a una meta de $10,000 con 552 patrocinadores, y cierra el 10 de diciembre. Las aportaciones Early Bird cuestan $189, $60 menos que el precio de venta de $249, y se espera que el primer lote empiece a enviarse en marzo de 2027."
+        },
+        {
+          "t": "p",
+          "x": "El SlashVibe SDK solo necesita Node.js o Python. Tu código se ejecuta en tu ordenador y transmite su interfaz a SlashVibe. La primera versión incluye tres hooks: diseños de pantalla personalizados, eventos de botones y joystick, y el texto transcrito de tu voz."
+        },
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/slashvibe-sdk-spend-screen.jpg",
+          "cap": "Pantalla de ejemplo del SlashVibe SDK que sigue el gasto en API frente a un presupuesto mensual"
+        },
+        {
+          "t": "p",
+          "x": "El hardware tiene una LCD de 3.96 pulgadas, interruptores mecánicos Kailh de perfil ultrabajo, un joystick de dos ejes, dos micrófonos MEMS y un altavoz de 2W; el controlador se desmonta y se comunica a 2.4GHz con una batería de 500mAh que dura 20 horas."
+        },
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/slashvibe-agent-status-screen-closeup-1440.jpg",
+          "cap": "Primer plano de la pantalla de SlashVibe con sesiones de agentes marcadas como en espera, terminada y en curso"
+        },
+        {
+          "t": "p",
+          "x": "De serie, SlashVibe funciona con más de 20 agentes y herramientas en macOS y Windows, entre ellos Claude Code, Codex, Cursor, Copilot CLI y Gemini CLI. Cada sesión aparece como en ejecución, terminada o en espera, y las aprobaciones se hacen en el dispositivo. La entrada de voz empieza a grabar en menos de 100 milisegundos y elimina las muletillas. Aún no se ha indicado licencia ni repositorio; el código se publicará antes de los envíos."
+        }
+      ]
+    },
+    "gadgets/hp-zgx-fury-gb300": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/PZgCJ7B7RendGrosbZtv5e-1920-80.jpg",
+          "cap": "Estación de trabajo de escritorio HP ZGX Fury"
+        },
+        {
+          "t": "p",
+          "x": "HP presentó una costosa estación de trabajo que lleva hardware de cómputo antes asociado a la infraestructura de AI a gran escala a una máquina del tamaño de una oficina. El ZGX Fury G1n combina el procesador GB300 Grace Blackwell Ultra de Nvidia con memoria LPDDR5X y HBM3e: 496GB de memoria del sistema y 252GB para gráficos, 748GB en total, con una CPU Arm Neoverse V2 Grace de 72 núcleos. Algunas configuraciones elevan la memoria de video a 276GB, con tarjetas dedicadas RTX PRO 2000 y RTX PRO 4000."
+        },
+        {
+          "t": "p",
+          "x": "HP afirma que la memoria permite ajustar localmente modelos de lenguaje de hasta 100 billion (cien mil millones) de parámetros, y ejecutar inferencia en modelos de un billón de parámetros mediante cuantización FP4."
+        },
+        {
+          "t": "p",
+          "x": "Usa refrigeración líquida con una fuente de alimentación Titanium-certified de 1,600W, viene con Ubuntu 24.04 LTS y una Nvidia ConnectX-8 SuperNIC ofrece dos conexiones QSFP112 de 400Gbps. La carcasa también cabe en un rack de equipos de 5U."
+        },
+        {
+          "t": "p",
+          "x": "La configuración estándar cuesta $132,000; la opción con RTX PRO 2000 cuesta $133,000 y la de RTX PRO 4000, $136,000."
+        }
+      ]
+    },
+    "gadgets/gr00t2-human-video-robots": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-hero2-1280x720.jpg"
+        },
+        {
+          "t": "p",
+          "x": "GR00T 2 predice los siguientes segundos de video antes de moverse. Un robot que lo ejecuta aprende habilidades a partir de demostraciones humanas y luego las traslada a cuerpos que nunca practicaron la tarea. Un único transformador de difusión genera a la vez el video futuro y el bloque de acciones; NVIDIA presenta el modelo como su capa System One, construida sobre Cosmos, su plataforma de modelos del mundo."
+        },
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-rollout.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El preentrenamiento combinó 402.730 horas de video humano en primera persona, 10.184 horas de demostraciones con pinzas de mano en 2.897 tareas y 23.500 horas de teleoperación de robots. NVIDIA llama X-Adapt a esta transferencia: el robot de destino nunca tiene que demostrar la tarea antes de ejecutarla. 100.000 horas de las grabaciones en primera persona están en Hugging Face como Human-1M-100K."
+        },
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-xadapt.jpg"
+        },
+        {
+          "t": "p",
+          "x": "En 50 tareas que el robot de destino nunca había practicado, GR00T 2 acierta en el 40% de los intentos directamente a partir de la instrucción. Una demostración por tarea eleva el éxito medio al 71%, y cinco demostraciones lo elevan al 95% tras un único ajuste fino de 30 minutos en una sola RTX 5090. Combinado con un modelo de razonamiento de frontera como System Two a través de la WAM API, el sistema completó 292 de 300 ensamblajes de juguetes consecutivos."
+        },
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-turbo.jpg"
+        },
+        {
+          "t": "p",
+          "x": "GR00T 2 Turbo, una versión de dos mil millones de parámetros, se ejecuta a bordo de un humanoide Unitree G1 con Jetson Thor a 124 milisegundos por predicción. Nexuni, Foxconn y Siemens están probando el modelo completo. Los pesos del modelo y las recetas de X-Adapt llegarán en diciembre."
+        }
+      ]
     }
   }
 }

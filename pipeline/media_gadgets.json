@@ -1,7 +1,31 @@
-{"date":"2026-11-15","section":"gadgets","media":[
-{"id":"gr00t2-human-video-robots","type":"image","src":"pipeline/media/gr00t2-human-video-robots.jpg"},
-{"id":"perplexity-teammates-mac","type":"image","src":"pipeline/media/perplexity-teammates-mac.jpg"},
-{"id":"jeep-cherokee-claude-ecu","type":"video","src":"pipeline/media/jeep-cherokee-claude-ecu.mp4","poster":"pipeline/media/jeep-cherokee-claude-ecu.jpg"},
-{"id":"ces2027-innovation-awards-korea","type":"image","src":"pipeline/media/ces2027-innovation-awards-korea.jpg"},
-{"id":"alexa-photo-frame-review","type":"image","src":"pipeline/media/alexa-photo-frame-review.jpg"}
-]}
+{
+  "date": "2026-11-16",
+  "section": "gadgets",
+  "media": [
+    {
+      "id": "wired-oats-eink-pets",
+      "type": "image",
+      "src": "pipeline/media/wired-oats-eink-pets.png"
+    },
+    {
+      "id": "xiaomi18pro-rear-genai",
+      "type": "image",
+      "src": "pipeline/media/xiaomi18pro-rear-genai.jpg"
+    },
+    {
+      "id": "tvos-27-2-1-siri-ai",
+      "type": "image",
+      "src": "pipeline/media/tvos-27-2-1-siri-ai.jpg"
+    },
+    {
+      "id": "slashvibe-agent-controller",
+      "type": "image",
+      "src": "pipeline/media/slashvibe-agent-controller.jpg"
+    },
+    {
+      "id": "hp-zgx-fury-gb300",
+      "type": "image",
+      "src": "pipeline/media/hp-zgx-fury-gb300.jpg"
+    }
+  ]
+}

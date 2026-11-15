@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-15",
+  "date": "2026-11-16",
   "section": "gadgets",
   "cards": [
     {
-      "id": "gr00t2-human-video-robots",
+      "id": "wired-oats-eink-pets",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "사람 영상을 로봇 기술로\n바꾸는 GR00T 2",
-      "body": "GR00T 2는 몇 초 뒤 영상을 예측해 사람 시연 기술을 로봇에 옮긴다.",
-      "mini_headline": "사람 영상으로 배우는 GR00T 2",
+      "headline": "E Ink OATs가\n사물을 가상 펫으로",
+      "body": "Carnegie Mellon 학생의 OATs는 사물에 성격을 입혀 습관을 돕는다.",
+      "mini_headline": "일상 사물을 위한 E Ink 펫",
       "tool": "Gadgets",
-      "source": "The Gadgeteer",
-      "url": "https://the-gadgeteer.com/2026/11/14/gr00t-2-learns-skills-from-human-video-and-runs-them-on-robots-that-never-practiced-them/",
+      "source": "WIRED",
+      "url": "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/",
       "accent": "#ff5a4d",
       "motif": "headset",
       "full": {
@@ -19,245 +19,197 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-hero2-1280x720.jpg"
+            "src": "https://media.wired.com/photos/6af4802ffbe5af43ea5dee0a/191:100/w_1280,c_limit/Screenshot%202026-11-11%20at%2014.47.44.png"
           },
           {
             "t": "p",
-            "x": "GR00T 2는 움직이기 전에 앞으로 몇 초간 벌어질 영상부터 예측한다. 이 모델을 쓰는 로봇은 사람의 시연을 보고 기술을 익힌 뒤, 그 작업을 한 번도 연습해 본 적 없는 다른 몸체로 옮긴다. 확산 트랜스포머 하나가 미래 영상과 액션 청크를 함께 만든다. NVIDIA는 이 모델을 자사 월드 모델 플랫폼 Cosmos 위에 올린 System One 계층이라고 설명한다."
+            "x": "식물에 물 주는 걸 깜빡했다. 잎이 누렇게 변하는 대신, 작은 화면 속 귀여운 식물 모양 펫이 슬프고 풀 죽은 얼굴을 한다. OATs, 즉 Object Agent Twins의 발상이다. 집 안의 평범한 사물과 짝을 이루도록 만든 마이크로 에이전트 AI 아바타가 작은 E Ink 디스플레이에 뜬다. 만든 사람은 Carnegie Mellon Future Interfaces Group의 박사(PhD) 과정 다섯 해째 학생 Daehwa Kim이다. Kim은 Detroit에서 열린 ACM Symposium on User Interface Software and Technology에서 이 프로젝트를 발표해 Honorable Mention 상 두 개를 받았다."
+          },
+          {
+            "t": "p",
+            "x": "OATs는 수분, 온도, 습도, 조도, 재실 여부, 움직임을 감지하는 센서에 E Ink 디스플레이를 붙인 구조다(메인 모듈은 약 $20). 스프라이트는 Google Gemini의 Nano Banana가 그리고, 웹 포털은 사물의 이름과 설명을 보고 “Positive”와 “Negative” 행동을 만든다. 스케이트보드를 며칠 내버려 두면 아바타가 슬프고 외로워 보이고, 올라타면 기뻐한다."
+          },
+          {
+            "t": "p",
+            "x": "배터리는 사흘에서 나흘 정도밖에 못 가고, 소음 센서를 켜면 하루 남짓이라 아직은 개념 증명 단계다. 테스터들은 OATs로 사물이 쓰이는지 확인했고, 작동 중인 3D 프린터 근처에 온 사람에게 경고를 띄웠다. 꾸준한 운동을 독려한 덤벨처럼 습관을 기록하기도 했다."
           },
           {
             "t": "img",
-            "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-rollout.jpg"
+            "src": "https://media.wired.com/photos/6af4807c3969d4fffae9b294/master/w_1600%2Cc_limit/user_oat_setup.png"
           },
           {
             "t": "p",
-            "x": "사전학습 데이터는 1인칭 사람 영상 402,730시간, 2,897개 작업을 담은 손잡이형 그리퍼 시연 10,184시간, 로봇 원격조작 23,500시간으로 이뤄졌다. NVIDIA가 X-Adapt라고 부르는 이 전이 방식에서는 대상 로봇이 작업 전에 직접 시연할 필요가 없다. 1인칭 영상 가운데 100,000시간 분량은 Human-1M-100K라는 이름으로 Hugging Face에 공개됐다."
-          },
-          {
-            "t": "img",
-            "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-xadapt.jpg"
-          },
-          {
-            "t": "p",
-            "x": "대상 로봇이 한 번도 연습하지 않은 50개 작업에서 GR00T 2는 지시만 받고도 시도의 40%에 성공한다. 작업마다 시연을 한 번 보여 주면 평균 성공률이 71%로 오른다. 시연 다섯 번에 RTX 5090 한 장으로 30분짜리 미세조정을 한 차례 거치면 95%까지 올라간다. WAM API로 최첨단 추론 모델을 System Two 자리에 붙이자 시스템은 장난감 조립을 연달아 300회 하는 동안 292회를 끝까지 해냈다."
-          },
-          {
-            "t": "img",
-            "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-turbo.jpg"
-          },
-          {
-            "t": "p",
-            "x": "파라미터 이십억 개 규모인 GR00T 2 Turbo는 Jetson Thor를 얹은 Unitree G1 휴머노이드에서 온보드로 돌아가고 예측 한 번에 124밀리초가 걸린다. 풀사이즈 모델은 Nexuni, Foxconn, Siemens가 시험 중이다. 모델 가중치와 X-Adapt 레시피는 12월에 공개된다."
+            "x": "데모는 AI 의인화 논쟁도 불러왔다. 그래서 OATs의 상호작용은 E Ink 디스플레이 위 감정 표현으로 한정된다. Kim은 “의인화는 사람들의 행동 변화를 돕는 것처럼 어떤 면에서는 매우 유용할 수 있다”며 “하지만 이를 남용하지 않도록 분명히 조심해야 한다”고 말한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "GR00T 2 turns human video\ninto robot skills",
-          "body": "GR00T 2 predicts a few seconds of video before it moves, letting robots reuse skills learned from human demos.",
-          "mini_headline": "GR00T 2 learns\nfrom human video",
+          "headline": "E Ink OATs turn objects\ninto needy virtual pets",
+          "body": "A Carnegie Mellon student's E Ink OATs give plants, skateboards, and dumbbells personalities to nudge better habits.",
+          "mini_headline": "E Ink pets for everyday objects",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-hero2-1280x720.jpg"
+                "src": "https://media.wired.com/photos/6af4802ffbe5af43ea5dee0a/191:100/w_1280,c_limit/Screenshot%202026-11-11%20at%2014.47.44.png"
               },
               {
                 "t": "p",
-                "x": "GR00T 2 predicts the next few seconds of video before it moves. A robot running it learns skills from human demonstrations, then carries those skills to bodies that never practiced the task. One diffusion transformer generates the future video and the action chunk together; NVIDIA frames the model as its System One layer, built on Cosmos, its world-model platform."
+                "x": "You forgot to water the plant. Instead of yellowing leaves, you see a cute plant-shaped pet on a tiny screen, looking sad and dejected. That's the idea behind OATs, or Object Agent Twins—micro-agent AI avatars on tiny E Ink displays designed to pair with everyday household objects, created by Daehwa Kim, a fifth-year PhD student in Carnegie Mellon's Future Interfaces Group. Kim presented the project at the ACM Symposium on User Interface Software and Technology in Detroit and earned two Honorable Mention awards."
+              },
+              {
+                "t": "p",
+                "x": "OATs have an E Ink display connected to sensors that track moisture, temperature, humidity, light, occupancy, and motion (around $20 for the main module). The sprites are created with Google Gemini's Nano Banana, and a web portal generates “Positive” and “Negative” behaviors from your object's name and description. Leave a skateboard unused for days and the avatar looks sad and lonely; hop on and it's happy."
+              },
+              {
+                "t": "p",
+                "x": "Battery life is short—around three to four days, or a day with the sound-level sensor—so this is more of a proof of concept. Testers used OATs to see whether an object is being used, to warn people near a running 3D printer, and to track habits, like a dumbbell that encouraged regular exercise."
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-rollout.jpg"
+                "src": "https://media.wired.com/photos/6af4807c3969d4fffae9b294/master/w_1600%2Cc_limit/user_oat_setup.png"
               },
               {
                 "t": "p",
-                "x": "Pretraining mixed 402,730 hours of first-person human video, 10,184 hours of handheld gripper demonstrations across 2,897 tasks, and 23,500 hours of robot teleoperation. NVIDIA calls the transfer X-Adapt: the target robot never has to demonstrate the task itself before running it. 100,000 hours of the egocentric footage sit on Hugging Face as Human-1M-100K."
-              },
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-xadapt.jpg"
-              },
-              {
-                "t": "p",
-                "x": "On 50 tasks the target robot had never practiced, GR00T 2 succeeds in 40% of trials straight from the instruction. One demonstration per task lifts average success to 71%, and five demonstrations lift it to 95% after a single 30-minute fine-tune on one RTX 5090. Paired with a frontier reasoning model as System Two through the WAM API, the system finished 292 of 300 back-to-back toy assemblies."
-              },
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-turbo.jpg"
-              },
-              {
-                "t": "p",
-                "x": "GR00T 2 Turbo, a 2-billion-parameter version, runs onboard a Unitree G1 humanoid on Jetson Thor at 124 milliseconds per prediction. Nexuni, Foxconn and Siemens are testing the full-size model. The model weights and the X-Adapt recipes follow in December."
+                "x": "The demo also sparked discussion about anthropomorphizing AI, which is why OATs' interactions are limited to expressive emotions on the E Ink display. “Anthropomorphism can be very useful in certain ways, like helping people to change their behaviors,” Kim says, “but we should definitely be careful not to abuse this.”"
               }
             ]
           }
         },
         "ko": {
-          "headline": "사람 영상을 로봇 기술로\n바꾸는 GR00T 2",
-          "body": "GR00T 2는 몇 초 뒤 영상을 예측해 사람 시연 기술을 로봇에 옮긴다.",
-          "mini_headline": "사람 영상으로 배우는 GR00T 2",
+          "headline": "E Ink OATs가\n사물을 가상 펫으로",
+          "body": "Carnegie Mellon 학생의 OATs는 사물에 성격을 입혀 습관을 돕는다.",
+          "mini_headline": "일상 사물을 위한 E Ink 펫",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-hero2-1280x720.jpg"
+                "src": "https://media.wired.com/photos/6af4802ffbe5af43ea5dee0a/191:100/w_1280,c_limit/Screenshot%202026-11-11%20at%2014.47.44.png"
               },
               {
                 "t": "p",
-                "x": "GR00T 2는 움직이기 전에 앞으로 몇 초간 벌어질 영상부터 예측한다. 이 모델을 쓰는 로봇은 사람의 시연을 보고 기술을 익힌 뒤, 그 작업을 한 번도 연습해 본 적 없는 다른 몸체로 옮긴다. 확산 트랜스포머 하나가 미래 영상과 액션 청크를 함께 만든다. NVIDIA는 이 모델을 자사 월드 모델 플랫폼 Cosmos 위에 올린 System One 계층이라고 설명한다."
+                "x": "식물에 물 주는 걸 깜빡했다. 잎이 누렇게 변하는 대신, 작은 화면 속 귀여운 식물 모양 펫이 슬프고 풀 죽은 얼굴을 한다. OATs, 즉 Object Agent Twins의 발상이다. 집 안의 평범한 사물과 짝을 이루도록 만든 마이크로 에이전트 AI 아바타가 작은 E Ink 디스플레이에 뜬다. 만든 사람은 Carnegie Mellon Future Interfaces Group의 박사(PhD) 과정 다섯 해째 학생 Daehwa Kim이다. Kim은 Detroit에서 열린 ACM Symposium on User Interface Software and Technology에서 이 프로젝트를 발표해 Honorable Mention 상 두 개를 받았다."
+              },
+              {
+                "t": "p",
+                "x": "OATs는 수분, 온도, 습도, 조도, 재실 여부, 움직임을 감지하는 센서에 E Ink 디스플레이를 붙인 구조다(메인 모듈은 약 $20). 스프라이트는 Google Gemini의 Nano Banana가 그리고, 웹 포털은 사물의 이름과 설명을 보고 “Positive”와 “Negative” 행동을 만든다. 스케이트보드를 며칠 내버려 두면 아바타가 슬프고 외로워 보이고, 올라타면 기뻐한다."
+              },
+              {
+                "t": "p",
+                "x": "배터리는 사흘에서 나흘 정도밖에 못 가고, 소음 센서를 켜면 하루 남짓이라 아직은 개념 증명 단계다. 테스터들은 OATs로 사물이 쓰이는지 확인했고, 작동 중인 3D 프린터 근처에 온 사람에게 경고를 띄웠다. 꾸준한 운동을 독려한 덤벨처럼 습관을 기록하기도 했다."
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-rollout.jpg"
+                "src": "https://media.wired.com/photos/6af4807c3969d4fffae9b294/master/w_1600%2Cc_limit/user_oat_setup.png"
               },
               {
                 "t": "p",
-                "x": "사전학습 데이터는 1인칭 사람 영상 402,730시간, 2,897개 작업을 담은 손잡이형 그리퍼 시연 10,184시간, 로봇 원격조작 23,500시간으로 이뤄졌다. NVIDIA가 X-Adapt라고 부르는 이 전이 방식에서는 대상 로봇이 작업 전에 직접 시연할 필요가 없다. 1인칭 영상 가운데 100,000시간 분량은 Human-1M-100K라는 이름으로 Hugging Face에 공개됐다."
-              },
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-xadapt.jpg"
-              },
-              {
-                "t": "p",
-                "x": "대상 로봇이 한 번도 연습하지 않은 50개 작업에서 GR00T 2는 지시만 받고도 시도의 40%에 성공한다. 작업마다 시연을 한 번 보여 주면 평균 성공률이 71%로 오른다. 시연 다섯 번에 RTX 5090 한 장으로 30분짜리 미세조정을 한 차례 거치면 95%까지 올라간다. WAM API로 최첨단 추론 모델을 System Two 자리에 붙이자 시스템은 장난감 조립을 연달아 300회 하는 동안 292회를 끝까지 해냈다."
-              },
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-turbo.jpg"
-              },
-              {
-                "t": "p",
-                "x": "파라미터 이십억 개 규모인 GR00T 2 Turbo는 Jetson Thor를 얹은 Unitree G1 휴머노이드에서 온보드로 돌아가고 예측 한 번에 124밀리초가 걸린다. 풀사이즈 모델은 Nexuni, Foxconn, Siemens가 시험 중이다. 모델 가중치와 X-Adapt 레시피는 12월에 공개된다."
+                "x": "데모는 AI 의인화 논쟁도 불러왔다. 그래서 OATs의 상호작용은 E Ink 디스플레이 위 감정 표현으로 한정된다. Kim은 “의인화는 사람들의 행동 변화를 돕는 것처럼 어떤 면에서는 매우 유용할 수 있다”며 “하지만 이를 남용하지 않도록 분명히 조심해야 한다”고 말한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "人の動画をロボットの技能に\n変えるGR00T 2",
-          "body": "GR00T 2は動く前に数秒先の映像を予測し、人から学んだ技能をロボットに生かす。",
-          "mini_headline": "人の動画で学ぶGR00T 2",
+          "headline": "E Ink OATsが\n物を仮想ペットに変える",
+          "body": "Carnegie Mellonの学生によるOATsは、物に性格を与え習慣を後押しする。",
+          "mini_headline": "日用品のためのE Inkペット",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-hero2-1280x720.jpg"
+                "src": "https://media.wired.com/photos/6af4802ffbe5af43ea5dee0a/191:100/w_1280,c_limit/Screenshot%202026-11-11%20at%2014.47.44.png"
               },
               {
                 "t": "p",
-                "x": "GR00T 2は、動く前にこの先数秒間の映像を予測する。これを搭載したロボットは人の実演から技能を学び、その作業を一度も練習していない別の機体にも技能を移す。単一の拡散トランスフォーマーが未来の映像とアクションチャンクを同時に生成する。NVIDIAはこのモデルを、自社のワールドモデル基盤Cosmos上に構築したSystem One層と位置づける。"
+                "x": "植物に水をやり忘れた。黄ばんだ葉の代わりに目に入るのは、小さな画面の中でしょんぼりと悲しげにしている、植物の形をしたかわいいペットだ。これがOATs（Object Agent Twins）の発想である。日常の家庭用品と組み合わせるよう設計された、小型E Inkディスプレイ上のマイクロエージェントAIアバターで、Carnegie MellonのFuture Interfaces Groupに所属する博士課程（PhD）五年目のDaehwa Kimが開発した。KimはDetroitで開かれたACM Symposium on User Interface Software and Technologyでこのプロジェクトを発表し、Honorable Mentionを二つ受賞した。"
+              },
+              {
+                "t": "p",
+                "x": "OATsは、水分、温度、湿度、照度、在室、動きを検知するセンサーにE Inkディスプレイを接続したものだ（メインモジュールは約$20）。スプライトはGoogle GeminiのNano Bananaで作られ、ウェブポータルが物の名前と説明から「Positive」と「Negative」の振る舞いを生成する。スケートボードを何日も使わずにいるとアバターは悲しく寂しげになり、乗れば喜ぶ。"
+              },
+              {
+                "t": "p",
+                "x": "バッテリー持続時間は三〜四日ほど、騒音センサーを使うと一日ほどと短く、現時点では概念実証に近い。テスターはOATsを使って、物が使われているかを確認したり、稼働中の3Dプリンターの近くにいる人に警告したり、定期的な運動を促したダンベルのように習慣を記録したりした。"
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-rollout.jpg"
+                "src": "https://media.wired.com/photos/6af4807c3969d4fffae9b294/master/w_1600%2Cc_limit/user_oat_setup.png"
               },
               {
                 "t": "p",
-                "x": "事前学習には、一人称視点の人間の動画402,730時間、2,897タスクにわたるハンドヘルドグリッパーの実演10,184時間、ロボット遠隔操作23,500時間を組み合わせた。NVIDIAはこの転移をX-Adaptと呼ぶ。対象ロボットは、実行前にそのタスクを自ら実演する必要がない。一人称映像のうち100,000時間分は、Human-1M-100KとしてHugging Faceで公開されている。"
-              },
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-xadapt.jpg"
-              },
-              {
-                "t": "p",
-                "x": "対象ロボットが一度も練習していない50タスクで、GR00T 2は指示だけで試行の40%に成功する。タスクごとに1回実演すれば平均成功率は71%に、5回実演すればRTX 5090一枚での30分間のファインチューニング1回を経て95%に上がる。WAM APIを通じて最先端の推論モデルをSystem Twoとして組み合わせると、連続した玩具の組み立て300回のうち292回を完了した。"
-              },
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-turbo.jpg"
-              },
-              {
-                "t": "p",
-                "x": "二十億パラメータ版のGR00T 2 Turboは、Jetson Thorを積んだUnitree G1ヒューマノイド上で、予測1回あたり124ミリ秒で動作する。Nexuni、Foxconn、Siemensがフルサイズモデルを試験中だ。モデルの重みとX-Adaptのレシピは12月に公開される。"
+                "x": "このデモはAIの擬人化をめぐる議論も呼んだ。そのためOATsのやり取りは、E Inkディスプレイ上の感情表現に限られている。「擬人化は、人の行動を変える手助けをするなど、ある面ではとても役に立つことがある」とKimは言う。「しかし、これを乱用しないよう確実に注意すべきだ」"
               }
             ]
           }
         },
         "zh": {
-          "headline": "GR00T 2把人类视频\n变成机器人技能",
-          "body": "GR00T 2在动作前先预测几秒视频，让机器人复用从人类示范中学到的技能。",
-          "mini_headline": "GR00T 2从人类视频中学习",
+          "headline": "E Ink OATs\n让物件变成黏人的虚拟宠物",
+          "body": "Carnegie Mellon学生的OATs为植物、滑板和哑铃赋予个性，促成好习惯。",
+          "mini_headline": "为日常物件打造的E Ink宠物",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-hero2-1280x720.jpg"
+                "src": "https://media.wired.com/photos/6af4802ffbe5af43ea5dee0a/191:100/w_1280,c_limit/Screenshot%202026-11-11%20at%2014.47.44.png"
               },
               {
                 "t": "p",
-                "x": "GR00T 2会在行动之前预测接下来几秒的视频。搭载它的机器人从人类示范中学习技能，再把这些技能迁移到从未练习过该任务的机体上。一个扩散Transformer同时生成未来视频和动作块；NVIDIA将该模型定位为其System One层，构建在其世界模型平台Cosmos之上。"
+                "x": "你忘了给植物浇水。映入眼帘的不是发黄的叶子，而是小屏幕上一只可爱的植物造型宠物，看起来又难过又沮丧。这就是OATs（Object Agent Twins）背后的构想：运行在小型E Ink显示屏上的微型智能体AI化身，专为与日常家居物件配对而设计，由Carnegie Mellon的Future Interfaces Group五年级PhD学生Daehwa Kim打造。Kim在Detroit举行的ACM Symposium on User Interface Software and Technology上展示了这一项目，并获得两项Honorable Mention奖。"
+              },
+              {
+                "t": "p",
+                "x": "OATs的E Ink显示屏连接着可监测水分、温度、湿度、光照、占用状态和运动的传感器（主模块约$20）。精灵形象由Google Gemini的Nano Banana生成，网页门户会根据物件的名称和描述生成“Positive”和“Negative”行为。滑板几天不用，化身就显得悲伤孤独；踩上去，它就开心起来。"
+              },
+              {
+                "t": "p",
+                "x": "电池续航很短——约三到四天，若启用声级传感器则只有一天左右——因此它更像是一个概念验证。测试者用OATs查看物件是否在被使用、提醒运行中的3D打印机附近的人，以及追踪习惯，比如一只鼓励规律锻炼的哑铃。"
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-rollout.jpg"
+                "src": "https://media.wired.com/photos/6af4807c3969d4fffae9b294/master/w_1600%2Cc_limit/user_oat_setup.png"
               },
               {
                 "t": "p",
-                "x": "预训练混合了402,730小时的第一人称人类视频、覆盖2,897项任务的10,184小时手持夹爪示范，以及23,500小时的机器人遥操作数据。NVIDIA将这种迁移称为X-Adapt：目标机器人在执行任务前无需亲自示范。其中100,000小时的第一人称视频以Human-1M-100K之名发布在Hugging Face上。"
-              },
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-xadapt.jpg"
-              },
-              {
-                "t": "p",
-                "x": "在目标机器人从未练习过的50项任务上，GR00T 2仅凭指令即可在40%的尝试中成功。每项任务提供一次示范，平均成功率升至71%；提供五次示范，并在一块RTX 5090上进行一次30分钟微调后，成功率升至95%。通过WAM API与一款前沿推理模型（作为System Two）配合，该系统在300次连续玩具组装中完成了292次。"
-              },
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-turbo.jpg"
-              },
-              {
-                "t": "p",
-                "x": "GR00T 2 Turbo是二十亿参数版本，可在搭载Jetson Thor的Unitree G1人形机器人上本地运行，每次预测耗时124毫秒。Nexuni、Foxconn和Siemens正在测试完整版模型。模型权重和X-Adapt方案将于12月发布。"
+                "x": "这次演示也引发了关于AI拟人化的讨论，这也是OATs的交互仅限于E Ink显示屏上情绪表达的原因。“拟人化在某些方面可能非常有用，比如帮助人们改变行为，”Kim说，“但我们绝对应该小心，不要滥用这一点。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "GR00T 2 convierte video humano\nen habilidades para robots",
-          "body": "GR00T 2 predice unos segundos de video antes de moverse para que los robots reutilicen lo aprendido de humanos.",
-          "mini_headline": "GR00T 2 aprende de video humano",
+          "headline": "Los E Ink OATs convierten\nobjetos en mascotas exigentes",
+          "body": "Los E Ink OATs de un alumno de Carnegie Mellon dan personalidad a plantas, patinetas y pesas para mejorar hábitos.",
+          "mini_headline": "Mascotas E Ink para objetos cotidianos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-hero2-1280x720.jpg"
+                "src": "https://media.wired.com/photos/6af4802ffbe5af43ea5dee0a/191:100/w_1280,c_limit/Screenshot%202026-11-11%20at%2014.47.44.png"
               },
               {
                 "t": "p",
-                "x": "GR00T 2 predice los siguientes segundos de video antes de moverse. Un robot que lo ejecuta aprende habilidades a partir de demostraciones humanas y luego las traslada a cuerpos que nunca practicaron la tarea. Un único transformador de difusión genera a la vez el video futuro y el bloque de acciones; NVIDIA presenta el modelo como su capa System One, construida sobre Cosmos, su plataforma de modelos del mundo."
+                "x": "Olvidaste regar la planta. En lugar de hojas amarillentas, ves en una pequeña pantalla una simpática mascota con forma de planta, triste y abatida. Esa es la idea detrás de OATs, u Object Agent Twins: avatares de AI con microagentes en pequeñas pantallas E Ink, diseñados para acompañar objetos cotidianos del hogar y creados por Daehwa Kim, estudiante de quinto año de PhD en el Future Interfaces Group de Carnegie Mellon. Kim presentó el proyecto en el ACM Symposium on User Interface Software and Technology en Detroit y obtuvo dos premios Honorable Mention."
+              },
+              {
+                "t": "p",
+                "x": "Los OATs tienen una pantalla E Ink conectada a sensores que registran humedad, temperatura, humedad relativa, luz, ocupación y movimiento (unos $20 por el módulo principal). Los sprites se crean con Nano Banana de Google Gemini, y un portal web genera comportamientos “Positive” y “Negative” a partir del nombre y la descripción del objeto. Si una patineta pasa días sin usarse, el avatar se ve triste y solo; si te subes, se pone contento."
+              },
+              {
+                "t": "p",
+                "x": "La batería dura poco —entre tres y cuatro días, o un día con el sensor de nivel sonoro—, así que es más bien una prueba de concepto. Quienes lo probaron usaron OATs para saber si un objeto se está usando, advertir a quienes están cerca de una impresora 3D en marcha y seguir hábitos, como una mancuerna que animaba a hacer ejercicio con regularidad."
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-rollout.jpg"
+                "src": "https://media.wired.com/photos/6af4807c3969d4fffae9b294/master/w_1600%2Cc_limit/user_oat_setup.png"
               },
               {
                 "t": "p",
-                "x": "El preentrenamiento combinó 402.730 horas de video humano en primera persona, 10.184 horas de demostraciones con pinzas de mano en 2.897 tareas y 23.500 horas de teleoperación de robots. NVIDIA llama X-Adapt a esta transferencia: el robot de destino nunca tiene que demostrar la tarea antes de ejecutarla. 100.000 horas de las grabaciones en primera persona están en Hugging Face como Human-1M-100K."
-              },
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-xadapt.jpg"
-              },
-              {
-                "t": "p",
-                "x": "En 50 tareas que el robot de destino nunca había practicado, GR00T 2 acierta en el 40% de los intentos directamente a partir de la instrucción. Una demostración por tarea eleva el éxito medio al 71%, y cinco demostraciones lo elevan al 95% tras un único ajuste fino de 30 minutos en una sola RTX 5090. Combinado con un modelo de razonamiento de frontera como System Two a través de la WAM API, el sistema completó 292 de 300 ensamblajes de juguetes consecutivos."
-              },
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-turbo.jpg"
-              },
-              {
-                "t": "p",
-                "x": "GR00T 2 Turbo, una versión de dos mil millones de parámetros, se ejecuta a bordo de un humanoide Unitree G1 con Jetson Thor a 124 milisegundos por predicción. Nexuni, Foxconn y Siemens están probando el modelo completo. Los pesos del modelo y las recetas de X-Adapt llegarán en diciembre."
+                "x": "La demostración también abrió el debate sobre la antropomorfización de la AI, y por eso las interacciones de los OATs se limitan a emociones expresivas en la pantalla E Ink. “La antropomorfización puede ser muy útil en ciertos aspectos, como ayudar a las personas a cambiar sus conductas”, dice Kim, “pero sin duda debemos tener cuidado de no abusar de esto”."
               }
             ]
           }
@@ -265,169 +217,137 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "사람 영상을 로봇 기술로\n바꾸는 GR00T 2",
-          "body": "GR00T 2는 몇 초 뒤 영상을 예측해 사람 시연 기술을 로봇에 옮긴다.",
-          "mini_headline": "사람 영상으로 배우는 GR00T 2",
+          "headline": "E Ink OATs가\n사물을 가상 펫으로",
+          "body": "Carnegie Mellon 학생의 OATs는 사물에 성격을 입혀 습관을 돕는다.",
+          "mini_headline": "일상 사물을 위한 E Ink 펫",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-hero2-1280x720.jpg"
+                "src": "https://media.wired.com/photos/6af4802ffbe5af43ea5dee0a/191:100/w_1280,c_limit/Screenshot%202026-11-11%20at%2014.47.44.png"
               },
               {
                 "t": "p",
-                "x": "GR00T 2는 움직이기 전에 앞으로 몇 초 동안의 영상을 먼저 예측한다. 이 모델을 쓰는 로봇은 사람의 시연에서 기술을 배우고, 그 기술을 해당 작업을 한 번도 연습하지 않은 다른 몸체로 옮긴다. 하나의 확산 트랜스포머가 미래 영상과 액션 청크를 함께 생성한다. NVIDIA는 이 모델을 자사 월드 모델 플랫폼 Cosmos 위에 구축한 System One 계층으로 규정한다."
+                "x": "식물에 물 주는 것을 잊었다. 누렇게 변한 잎 대신, 작은 화면 속 귀여운 식물 모양 펫이 슬프고 풀 죽은 얼굴을 하고 있다. 이것이 OATs, 즉 Object Agent Twins의 발상이다. 일상 가정용 사물과 짝을 이루도록 설계된 작은 E Ink 디스플레이 위의 마이크로 에이전트 AI 아바타로, Carnegie Mellon Future Interfaces Group의 박사(PhD) 과정 다섯 해째 학생 Daehwa Kim이 만들었다. Kim은 Detroit에서 열린 ACM Symposium on User Interface Software and Technology에서 이 프로젝트를 발표해 Honorable Mention 상 두 개를 받았다."
+              },
+              {
+                "t": "p",
+                "x": "OATs는 수분, 온도, 습도, 조도, 재실 여부, 움직임을 감지하는 센서에 E Ink 디스플레이를 연결한 구조다(메인 모듈은 약 $20). 스프라이트는 Google Gemini의 Nano Banana로 만들고, 웹 포털이 사물의 이름과 설명을 바탕으로 “Positive”와 “Negative” 행동을 생성한다. 스케이트보드를 며칠 내버려 두면 아바타가 슬프고 외로워 보이고, 올라타면 기뻐한다."
+              },
+              {
+                "t": "p",
+                "x": "배터리 수명은 사흘에서 나흘 정도로 짧고, 소음 센서를 쓰면 하루 정도에 그쳐 아직은 개념 증명에 가깝다. 테스터들은 OATs로 사물이 쓰이고 있는지 확인하고, 작동 중인 3D 프린터 근처의 사람에게 경고하고, 꾸준한 운동을 독려한 덤벨처럼 습관을 기록했다."
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-rollout.jpg"
+                "src": "https://media.wired.com/photos/6af4807c3969d4fffae9b294/master/w_1600%2Cc_limit/user_oat_setup.png"
               },
               {
                 "t": "p",
-                "x": "사전학습에는 1인칭 사람 영상 402,730시간, 2,897개 작업에 걸친 손잡이형 그리퍼 시연 10,184시간, 로봇 원격조작 23,500시간이 섞였다. NVIDIA는 이 전이 방식을 X-Adapt라고 부른다. 대상 로봇이 작업을 실행하기 전에 직접 시연할 필요가 없다는 뜻이다. 1인칭 영상 중 100,000시간 분량은 Hugging Face에 Human-1M-100K라는 이름으로 공개돼 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-xadapt.jpg"
-              },
-              {
-                "t": "p",
-                "x": "대상 로봇이 한 번도 연습하지 않은 50개 작업에서 GR00T 2는 지시만으로 시도의 40%를 성공한다. 작업당 시연 한 번이면 평균 성공률이 71%로 오르고, 시연 다섯 번이면 RTX 5090 한 장에서 30분짜리 미세조정을 한 차례 거친 뒤 95%까지 오른다. WAM API로 최첨단 추론 모델을 System Two로 붙이자, 시스템은 연달아 진행한 장난감 조립 300회 가운데 292회를 끝마쳤다."
-              },
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-turbo.jpg"
-              },
-              {
-                "t": "p",
-                "x": "이십억 개 파라미터 규모의 GR00T 2 Turbo는 Jetson Thor를 탑재한 Unitree G1 휴머노이드에서 온보드로 돌아가며, 예측 한 번에 124밀리초가 걸린다. Nexuni, Foxconn, Siemens가 풀사이즈 모델을 시험하고 있다. 모델 가중치와 X-Adapt 레시피는 12월에 공개된다."
+                "x": "이 데모는 AI 의인화에 관한 논의도 불러왔고, 그래서 OATs의 상호작용은 E Ink 디스플레이 위의 감정 표현으로 한정된다. Kim은 “의인화는 사람들의 행동 변화를 돕는 것처럼 어떤 면에서는 매우 유용할 수 있다”며 “하지만 이를 남용하지 않도록 분명히 조심해야 한다”고 말한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "人の動画をロボットの技能に\n変えるGR00T 2",
-          "body": "GR00T 2は動く前に数秒先の映像を予測し、人から学んだ技能をロボットに生かす。",
-          "mini_headline": "人の動画で学ぶGR00T 2",
+          "headline": "E Ink OATsが\n物を仮想ペットに変える",
+          "body": "Carnegie Mellonの学生によるOATsは、物に性格を与え習慣を後押しする。",
+          "mini_headline": "日用品のためのE Inkペット",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-hero2-1280x720.jpg"
+                "src": "https://media.wired.com/photos/6af4802ffbe5af43ea5dee0a/191:100/w_1280,c_limit/Screenshot%202026-11-11%20at%2014.47.44.png"
               },
               {
                 "t": "p",
-                "x": "GR00T 2は、動く前にこの先数秒間の映像を予測する。これを搭載したロボットは人の実演から技能を学び、その作業を一度も練習していない別の機体にも技能を移す。単一の拡散トランスフォーマーが未来の映像とアクションチャンクを同時に生成する。NVIDIAはこのモデルを、自社のワールドモデル基盤Cosmos上に構築したSystem One層と位置づける。"
+                "x": "植物に水をやり忘れた。黄ばんだ葉の代わりに目に入るのは、小さな画面の中でしょんぼりと悲しげにしている、植物の形をしたかわいいペットだ。これがOATs（Object Agent Twins）の発想である。日常の家庭用品と組み合わせるよう設計された、小型E Inkディスプレイ上のマイクロエージェントAIアバターで、Carnegie MellonのFuture Interfaces Groupに所属する博士課程（PhD）五年目のDaehwa Kimが開発した。KimはDetroitで開かれたACM Symposium on User Interface Software and Technologyでこのプロジェクトを発表し、Honorable Mentionを二つ受賞した。"
+              },
+              {
+                "t": "p",
+                "x": "OATsは、水分、温度、湿度、照度、在室、動きを検知するセンサーにE Inkディスプレイを接続したものだ（メインモジュールは約$20）。スプライトはGoogle GeminiのNano Bananaで作られ、ウェブポータルが物の名前と説明から「Positive」と「Negative」の振る舞いを生成する。スケートボードを何日も使わずにいるとアバターは悲しく寂しげになり、乗れば喜ぶ。"
+              },
+              {
+                "t": "p",
+                "x": "バッテリー持続時間は三〜四日ほど、騒音センサーを使うと一日ほどと短く、現時点では概念実証に近い。テスターはOATsを使って、物が使われているかを確認したり、稼働中の3Dプリンターの近くにいる人に警告したり、定期的な運動を促したダンベルのように習慣を記録したりした。"
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-rollout.jpg"
+                "src": "https://media.wired.com/photos/6af4807c3969d4fffae9b294/master/w_1600%2Cc_limit/user_oat_setup.png"
               },
               {
                 "t": "p",
-                "x": "事前学習には、一人称視点の人間の動画402,730時間、2,897タスクにわたるハンドヘルドグリッパーの実演10,184時間、ロボット遠隔操作23,500時間を組み合わせた。NVIDIAはこの転移をX-Adaptと呼ぶ。対象ロボットは、実行前にそのタスクを自ら実演する必要がない。一人称映像のうち100,000時間分は、Human-1M-100KとしてHugging Faceで公開されている。"
-              },
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-xadapt.jpg"
-              },
-              {
-                "t": "p",
-                "x": "対象ロボットが一度も練習していない50タスクで、GR00T 2は指示だけで試行の40%に成功する。タスクごとに1回実演すれば平均成功率は71%に、5回実演すればRTX 5090一枚での30分間のファインチューニング1回を経て95%に上がる。WAM APIを通じて最先端の推論モデルをSystem Twoとして組み合わせると、連続した玩具の組み立て300回のうち292回を完了した。"
-              },
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-turbo.jpg"
-              },
-              {
-                "t": "p",
-                "x": "二十億パラメータ版のGR00T 2 Turboは、Jetson Thorを積んだUnitree G1ヒューマノイド上で、予測1回あたり124ミリ秒で動作する。Nexuni、Foxconn、Siemensがフルサイズモデルを試験中だ。モデルの重みとX-Adaptのレシピは12月に公開される。"
+                "x": "このデモはAIの擬人化をめぐる議論も呼んだ。そのためOATsのやり取りは、E Inkディスプレイ上の感情表現に限られている。「擬人化は、人の行動を変える手助けをするなど、ある面ではとても役に立つことがある」とKimは言う。「しかし、これを乱用しないよう確実に注意すべきだ」"
               }
             ]
           }
         },
         "zh": {
-          "headline": "GR00T 2把人类视频\n变成机器人技能",
-          "body": "GR00T 2在动作前先预测几秒视频，让机器人复用从人类示范中学到的技能。",
-          "mini_headline": "GR00T 2从人类视频中学习",
+          "headline": "E Ink OATs\n让物件变成黏人的虚拟宠物",
+          "body": "Carnegie Mellon学生的OATs为植物、滑板和哑铃赋予个性，促成好习惯。",
+          "mini_headline": "为日常物件打造的E Ink宠物",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-hero2-1280x720.jpg"
+                "src": "https://media.wired.com/photos/6af4802ffbe5af43ea5dee0a/191:100/w_1280,c_limit/Screenshot%202026-11-11%20at%2014.47.44.png"
               },
               {
                 "t": "p",
-                "x": "GR00T 2会在行动之前预测接下来几秒的视频。搭载它的机器人从人类示范中学习技能，再把这些技能迁移到从未练习过该任务的机体上。一个扩散Transformer同时生成未来视频和动作块；NVIDIA将该模型定位为其System One层，构建在其世界模型平台Cosmos之上。"
+                "x": "你忘了给植物浇水。映入眼帘的不是发黄的叶子，而是小屏幕上一只可爱的植物造型宠物，看起来又难过又沮丧。这就是OATs（Object Agent Twins）背后的构想：运行在小型E Ink显示屏上的微型智能体AI化身，专为与日常家居物件配对而设计，由Carnegie Mellon的Future Interfaces Group五年级PhD学生Daehwa Kim打造。Kim在Detroit举行的ACM Symposium on User Interface Software and Technology上展示了这一项目，并获得两项Honorable Mention奖。"
+              },
+              {
+                "t": "p",
+                "x": "OATs的E Ink显示屏连接着可监测水分、温度、湿度、光照、占用状态和运动的传感器（主模块约$20）。精灵形象由Google Gemini的Nano Banana生成，网页门户会根据物件的名称和描述生成“Positive”和“Negative”行为。滑板几天不用，化身就显得悲伤孤独；踩上去，它就开心起来。"
+              },
+              {
+                "t": "p",
+                "x": "电池续航很短——约三到四天，若启用声级传感器则只有一天左右——因此它更像是一个概念验证。测试者用OATs查看物件是否在被使用、提醒运行中的3D打印机附近的人，以及追踪习惯，比如一只鼓励规律锻炼的哑铃。"
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-rollout.jpg"
+                "src": "https://media.wired.com/photos/6af4807c3969d4fffae9b294/master/w_1600%2Cc_limit/user_oat_setup.png"
               },
               {
                 "t": "p",
-                "x": "预训练混合了402,730小时的第一人称人类视频、覆盖2,897项任务的10,184小时手持夹爪示范，以及23,500小时的机器人遥操作数据。NVIDIA将这种迁移称为X-Adapt：目标机器人在执行任务前无需亲自示范。其中100,000小时的第一人称视频以Human-1M-100K之名发布在Hugging Face上。"
-              },
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-xadapt.jpg"
-              },
-              {
-                "t": "p",
-                "x": "在目标机器人从未练习过的50项任务上，GR00T 2仅凭指令即可在40%的尝试中成功。每项任务提供一次示范，平均成功率升至71%；提供五次示范，并在一块RTX 5090上进行一次30分钟微调后，成功率升至95%。通过WAM API与一款前沿推理模型（作为System Two）配合，该系统在300次连续玩具组装中完成了292次。"
-              },
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-turbo.jpg"
-              },
-              {
-                "t": "p",
-                "x": "GR00T 2 Turbo是二十亿参数版本，可在搭载Jetson Thor的Unitree G1人形机器人上本地运行，每次预测耗时124毫秒。Nexuni、Foxconn和Siemens正在测试完整版模型。模型权重和X-Adapt方案将于12月发布。"
+                "x": "这次演示也引发了关于AI拟人化的讨论，这也是OATs的交互仅限于E Ink显示屏上情绪表达的原因。“拟人化在某些方面可能非常有用，比如帮助人们改变行为，”Kim说，“但我们绝对应该小心，不要滥用这一点。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "GR00T 2 convierte video humano\nen habilidades para robots",
-          "body": "GR00T 2 predice unos segundos de video antes de moverse para que los robots reutilicen lo aprendido de humanos.",
-          "mini_headline": "GR00T 2 aprende de video humano",
+          "headline": "Los E Ink OATs convierten\nobjetos en mascotas exigentes",
+          "body": "Los E Ink OATs de un alumno de Carnegie Mellon dan personalidad a plantas, patinetas y pesas para mejorar hábitos.",
+          "mini_headline": "Mascotas E Ink para objetos cotidianos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-hero2-1280x720.jpg"
+                "src": "https://media.wired.com/photos/6af4802ffbe5af43ea5dee0a/191:100/w_1280,c_limit/Screenshot%202026-11-11%20at%2014.47.44.png"
               },
               {
                 "t": "p",
-                "x": "GR00T 2 predice los siguientes segundos de video antes de moverse. Un robot que lo ejecuta aprende habilidades a partir de demostraciones humanas y luego las traslada a cuerpos que nunca practicaron la tarea. Un único transformador de difusión genera a la vez el video futuro y el bloque de acciones; NVIDIA presenta el modelo como su capa System One, construida sobre Cosmos, su plataforma de modelos del mundo."
+                "x": "Olvidaste regar la planta. En lugar de hojas amarillentas, ves en una pequeña pantalla una simpática mascota con forma de planta, triste y abatida. Esa es la idea detrás de OATs, u Object Agent Twins: avatares de AI con microagentes en pequeñas pantallas E Ink, diseñados para acompañar objetos cotidianos del hogar y creados por Daehwa Kim, estudiante de quinto año de PhD en el Future Interfaces Group de Carnegie Mellon. Kim presentó el proyecto en el ACM Symposium on User Interface Software and Technology en Detroit y obtuvo dos premios Honorable Mention."
+              },
+              {
+                "t": "p",
+                "x": "Los OATs tienen una pantalla E Ink conectada a sensores que registran humedad, temperatura, humedad relativa, luz, ocupación y movimiento (unos $20 por el módulo principal). Los sprites se crean con Nano Banana de Google Gemini, y un portal web genera comportamientos “Positive” y “Negative” a partir del nombre y la descripción del objeto. Si una patineta pasa días sin usarse, el avatar se ve triste y solo; si te subes, se pone contento."
+              },
+              {
+                "t": "p",
+                "x": "La batería dura poco —entre tres y cuatro días, o un día con el sensor de nivel sonoro—, así que es más bien una prueba de concepto. Quienes lo probaron usaron OATs para saber si un objeto se está usando, advertir a quienes están cerca de una impresora 3D en marcha y seguir hábitos, como una mancuerna que animaba a hacer ejercicio con regularidad."
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-rollout.jpg"
+                "src": "https://media.wired.com/photos/6af4807c3969d4fffae9b294/master/w_1600%2Cc_limit/user_oat_setup.png"
               },
               {
                 "t": "p",
-                "x": "El preentrenamiento combinó 402.730 horas de video humano en primera persona, 10.184 horas de demostraciones con pinzas de mano en 2.897 tareas y 23.500 horas de teleoperación de robots. NVIDIA llama X-Adapt a esta transferencia: el robot de destino nunca tiene que demostrar la tarea antes de ejecutarla. 100.000 horas de las grabaciones en primera persona están en Hugging Face como Human-1M-100K."
-              },
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-xadapt.jpg"
-              },
-              {
-                "t": "p",
-                "x": "En 50 tareas que el robot de destino nunca había practicado, GR00T 2 acierta en el 40% de los intentos directamente a partir de la instrucción. Una demostración por tarea eleva el éxito medio al 71%, y cinco demostraciones lo elevan al 95% tras un único ajuste fino de 30 minutos en una sola RTX 5090. Combinado con un modelo de razonamiento de frontera como System Two a través de la WAM API, el sistema completó 292 de 300 ensamblajes de juguetes consecutivos."
-              },
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-turbo.jpg"
-              },
-              {
-                "t": "p",
-                "x": "GR00T 2 Turbo, una versión de dos mil millones de parámetros, se ejecuta a bordo de un humanoide Unitree G1 con Jetson Thor a 124 milisegundos por predicción. Nexuni, Foxconn y Siemens están probando el modelo completo. Los pesos del modelo y las recetas de X-Adapt llegarán en diciembre."
+                "x": "La demostración también abrió el debate sobre la antropomorfización de la AI, y por eso las interacciones de los OATs se limitan a emociones expresivas en la pantalla E Ink. “La antropomorfización puede ser muy útil en ciertos aspectos, como ayudar a las personas a cambiar sus conductas”, dice Kim, “pero sin duda debemos tener cuidado de no abusar de esto”."
               }
             ]
           }
@@ -435,195 +355,261 @@
       }
     },
     {
-      "id": "perplexity-teammates-mac",
+      "id": "xiaomi18pro-rear-genai",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Perplexity 팀원\nMac에서 알아서 일한다",
-      "body": "Max 구독자는 이제 Perplexity Mac 앱에서 작업을 에이전트에 맡긴다.",
-      "mini_headline": "Mac에 온 Perplexity 에이전트",
+      "headline": "Xiaomi 18 Pro\n후면에 맞춤 GenAI 앱",
+      "body": "Xiaomi 18 Pro 후면은 Spotify와 맞춤 GenAI 앱까지 돌린다.",
+      "mini_headline": "Xiaomi 후면 화면, GenAI 앱 구동",
       "tool": "Gadgets",
-      "source": "Digital Trends",
-      "url": "https://www.digitaltrends.com/computing/perplexity-teammates-bring-autonomous-ai-agents-to-the-mac-app/",
+      "source": "9to5Google",
+      "url": "https://9to5google.com/2026/11/13/the-xiaomi-18-pros-rear-displays-support-google-apps-spotify-and-custom-genai-apps/",
       "accent": "#0070f3",
       "motif": "headset",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Perplexity-teammates-feature.jpg?resize=1200%2C720&ssl=1",
-            "cap": "Perplexity"
+            "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/xiaomi-18-pro-2.jpg?quality=82&strip=all&w=1400"
           },
           {
             "t": "p",
-            "x": "Perplexity 팀메이트(teammates)는 사용자가 진행 중인 업무를 맡아 처리하는 AI 에이전트 팀이다. AI를 일일이 이끌고 붙잡아 줄 필요 없이 팀메이트 에이전트에게 작업을 배정하면 에이전트가 백그라운드에서 알아서 처리한다. 그로스 캠페인 운영, 들어오는 버그 리포트 분류, 지표 모니터링, 새 시장 조사 같은 일이다."
+            "x": "Xiaomi 18 Pro 시리즈의 후면 디스플레이는 이번엔 정말 쓸모가 있을지도 모른다."
           },
           {
             "t": "p",
-            "x": "에이전트는 작업을 계획하고 필요하면 에이전트를 더 붙인다. 일이 끝나 보고서가 준비되면 알려 준다. Perplexity는 지난주 웹에서 팀메이트를 출시했고 이번에 Mac 앱에도 넣었다."
+            "x": "후면 디스플레이를 단 폰을 내놓은 회사는 손에 꼽고, 솔직히 대부분은 별 쓸모가 없었다. Xiaomi는 Xiaomi 18 Pro와 Xiaomi 18 Pro Max의 후면 디스플레이로 판을 뒤집으려 한다. 회사 설명으로는 이 화면이 Google Maps, YouTube Music, Spotify를 지원하고, 깔끔한 GenAI 통합 덕에 수많은 추가 앱도 돌린다."
           },
           {
             "t": "p",
-            "x": "이런 에이전트를 내놓은 AI 기업이 Perplexity가 처음은 아니다. Meta Muse와 ChatGPT Dots가 비슷한 일을 하고 Grok Bot도 마찬가지다. 이 에이전트들은 저마다 클라우드 컴퓨팅 인스턴스에서 돌아가서 컴퓨터를 닫아도 일을 멈추지 않는다. 서로 소통하고 작업마다 전용 채널을 만들며 끊임없이 감독하지 않아도 된다."
+            "x": "소식은 GSMArena가 전했고, Xiaomi Group의 VP & CMO인 Xu Fei가 X에 올려 온 AMA 영상이 출처다. 아직 못 봤다면, Xiaomi 18 Pro 시리즈 뒷면의 카메라 섬은 Galaxy Z Flip 8이나 Motorola Razr 시리즈 같은 플립형 폴더블의 커버 화면을 닮았다. 풀컬러 터치스크린에 해상도도 꽤 높다."
+          },
+          {
+            "t": "img",
+            "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/xiaomi-18-pro-back-display-genai-camera.jpg?quality=82&strip=all&w=800"
+          },
+          {
+            "t": "img",
+            "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/xiaomi-18-pro-back-display-google-spotify.jpg?quality=82&strip=all&w=800"
           },
           {
             "t": "p",
-            "x": "이 기능은 월 200달러짜리 Perplexity Max 요금제 사용자만 쓸 수 있다."
+            "x": "YouTube Music과 Spotify는 재생 중인 곡의 아트워크와 제목을 큼직한 재생/일시정지·건너뛰기 버튼과 함께 보여 준다. Google Maps에서는 내비게이션 진행 상황과 다음 경로 안내가 뜬다."
+          },
+          {
+            "t": "p",
+            "x": "Xiaomi는 공식 통합에 더해 내장 GenAI 앱 제작 도구도 넣어, 사용자가 후면 디스플레이 앱을 직접 만들게 했다. 원하는 걸 설명하면 기기 내 AI가 앱을 만들어 준다. 꽤 편해 보이고, 이전 후면 디스플레이들이 겪은 “쓸모없음” 문제도 어느 정도 풀어 줄 듯하다. Xiaomi 18 Pro 시리즈는 글로벌로 출시된다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Perplexity Teammates bring\nbackground agents to Mac",
-          "body": "Perplexity's Mac app lets Max subscribers hand ongoing tasks to autonomous agents that work in the background.",
-          "mini_headline": "Perplexity agents\ncome to Mac",
+          "headline": "Xiaomi 18 Pro rear screen\nruns custom GenAI apps",
+          "body": "The Xiaomi 18 Pro series' rear display supports Google apps, Spotify, and even custom GenAI apps.",
+          "mini_headline": "Xiaomi rear screen runs GenAI",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Perplexity-teammates-feature.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Perplexity"
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/xiaomi-18-pro-2.jpg?quality=82&strip=all&w=1400"
               },
               {
                 "t": "p",
-                "x": "Perplexity teammates are a squad of AI agents whose job is to own your ongoing work. Instead of guiding and hand-holding AI, you can assign tasks to your teammate agents, and they will do the work in the background — whether you want to run a growth campaign, triage bug reports as they land, keep tabs on your metrics, or dig into a new market."
+                "x": "The Xiaomi 18 Pro series’ rear displays might actually be useful, after all."
               },
               {
                 "t": "p",
-                "x": "They will plan the tasks, add more agents if required, and notify you when the work is done and they are ready with the report. Perplexity launched teammates on the web last week, and it has finally made its way to the Mac app."
+                "x": "Only a few companies have debuted phones with rear displays, and, quite frankly, most of them have been fairly useless. Xiaomi is hoping to turn all that around with the Xiaomi 18 Pro and Xiaomi 18 Pro Max’s rear display, which the company says supports Google Maps, YouTube Music, Spotify, and lots of additional apps via a nifty GenAI integration."
               },
               {
                 "t": "p",
-                "x": "Perplexity is not the first AI company to launch such agents: Meta Muse and ChatGPT Dots do similar things, and Grok Bot is another example. These agents run their own instance of cloud computing and keep working even when you close your computer; they can communicate with each other, create dedicated channels for tasks, and don't require constant supervision."
+                "x": "The news comes via GSMArena and builds on the AMA videos Xu Fei, VP & CMO of the Xiaomi Group, has been posting on X. If you haven’t seen it yet, the camera island on the back of the Xiaomi 18 Pro series looks similar to the cover screen on a flip-style foldable like the Galaxy Z Flip 8 or Motorola Razr series. It’s a full-color touchscreen and has impressively high resolution."
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/xiaomi-18-pro-back-display-genai-camera.jpg?quality=82&strip=all&w=800"
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/xiaomi-18-pro-back-display-google-spotify.jpg?quality=82&strip=all&w=800"
               },
               {
                 "t": "p",
-                "x": "The feature is only available to users on Perplexity's Max plan, which costs $200/month."
+                "x": "YouTube Music and Spotify will feature prominent play/pause and skip buttons, plus the artwork and name of the song playing. Google Maps will give you a navigation progress indicator, plus the next upcoming direction."
+              },
+              {
+                "t": "p",
+                "x": "In addition to official integration, Xiaomi is letting users create their own rear display apps using a built-in GenAI app creation tool. Just describe what you want, and the onboard AI will create the app for you. It looks quite handy and should help solve the “useless” problem that prior rear displays have faced. The Xiaomi 18 Pro series will debut globally."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Perplexity 팀원\nMac에서 알아서 일한다",
-          "body": "Max 구독자는 이제 Perplexity Mac 앱에서 작업을 에이전트에 맡긴다.",
-          "mini_headline": "Mac에 온 Perplexity 에이전트",
+          "headline": "Xiaomi 18 Pro\n후면에 맞춤 GenAI 앱",
+          "body": "Xiaomi 18 Pro 후면은 Spotify와 맞춤 GenAI 앱까지 돌린다.",
+          "mini_headline": "Xiaomi 후면 화면, GenAI 앱 구동",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Perplexity-teammates-feature.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Perplexity"
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/xiaomi-18-pro-2.jpg?quality=82&strip=all&w=1400"
               },
               {
                 "t": "p",
-                "x": "Perplexity 팀메이트(teammates)는 사용자가 진행 중인 업무를 맡아 처리하는 AI 에이전트 팀이다. AI를 일일이 이끌고 붙잡아 줄 필요 없이 팀메이트 에이전트에게 작업을 배정하면 에이전트가 백그라운드에서 알아서 처리한다. 그로스 캠페인 운영, 들어오는 버그 리포트 분류, 지표 모니터링, 새 시장 조사 같은 일이다."
+                "x": "Xiaomi 18 Pro 시리즈의 후면 디스플레이는 이번엔 정말 쓸모가 있을지도 모른다."
               },
               {
                 "t": "p",
-                "x": "에이전트는 작업을 계획하고 필요하면 에이전트를 더 붙인다. 일이 끝나 보고서가 준비되면 알려 준다. Perplexity는 지난주 웹에서 팀메이트를 출시했고 이번에 Mac 앱에도 넣었다."
+                "x": "후면 디스플레이를 단 폰을 내놓은 회사는 손에 꼽고, 솔직히 대부분은 별 쓸모가 없었다. Xiaomi는 Xiaomi 18 Pro와 Xiaomi 18 Pro Max의 후면 디스플레이로 판을 뒤집으려 한다. 회사 설명으로는 이 화면이 Google Maps, YouTube Music, Spotify를 지원하고, 깔끔한 GenAI 통합 덕에 수많은 추가 앱도 돌린다."
               },
               {
                 "t": "p",
-                "x": "이런 에이전트를 내놓은 AI 기업이 Perplexity가 처음은 아니다. Meta Muse와 ChatGPT Dots가 비슷한 일을 하고 Grok Bot도 마찬가지다. 이 에이전트들은 저마다 클라우드 컴퓨팅 인스턴스에서 돌아가서 컴퓨터를 닫아도 일을 멈추지 않는다. 서로 소통하고 작업마다 전용 채널을 만들며 끊임없이 감독하지 않아도 된다."
+                "x": "소식은 GSMArena가 전했고, Xiaomi Group의 VP & CMO인 Xu Fei가 X에 올려 온 AMA 영상이 출처다. 아직 못 봤다면, Xiaomi 18 Pro 시리즈 뒷면의 카메라 섬은 Galaxy Z Flip 8이나 Motorola Razr 시리즈 같은 플립형 폴더블의 커버 화면을 닮았다. 풀컬러 터치스크린에 해상도도 꽤 높다."
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/xiaomi-18-pro-back-display-genai-camera.jpg?quality=82&strip=all&w=800"
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/xiaomi-18-pro-back-display-google-spotify.jpg?quality=82&strip=all&w=800"
               },
               {
                 "t": "p",
-                "x": "이 기능은 월 200달러짜리 Perplexity Max 요금제 사용자만 쓸 수 있다."
+                "x": "YouTube Music과 Spotify는 재생 중인 곡의 아트워크와 제목을 큼직한 재생/일시정지·건너뛰기 버튼과 함께 보여 준다. Google Maps에서는 내비게이션 진행 상황과 다음 경로 안내가 뜬다."
+              },
+              {
+                "t": "p",
+                "x": "Xiaomi는 공식 통합에 더해 내장 GenAI 앱 제작 도구도 넣어, 사용자가 후면 디스플레이 앱을 직접 만들게 했다. 원하는 걸 설명하면 기기 내 AI가 앱을 만들어 준다. 꽤 편해 보이고, 이전 후면 디스플레이들이 겪은 “쓸모없음” 문제도 어느 정도 풀어 줄 듯하다. Xiaomi 18 Pro 시리즈는 글로벌로 출시된다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Perplexityの\nチームメイト、Mac対応",
-          "body": "PerplexityのMacアプリでMax会員は作業を裏で動くエージェントに任せられる。",
-          "mini_headline": "Perplexityのエージェント、Macへ",
+          "headline": "Xiaomi 18 Pro\n背面で自作GenAIアプリ",
+          "body": "Xiaomi 18 Proの背面画面はSpotifyや自作GenAIアプリに対応する。",
+          "mini_headline": "Xiaomiの背面画面でGenAIが動く",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Perplexity-teammates-feature.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Perplexity"
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/xiaomi-18-pro-2.jpg?quality=82&strip=all&w=1400"
               },
               {
                 "t": "p",
-                "x": "Perplexityのチームメイト（teammates）は、継続中の仕事を引き受けるAIエージェントの一団だ。AIを逐一導いたり手取り足取り面倒を見たりする代わりに、チームメイトのエージェントにタスクを割り当てれば、バックグラウンドで作業してくれる。グロースキャンペーンの運用、届いたバグ報告の振り分け、指標の監視、新市場の調査などだ。"
+                "x": "Xiaomi 18 Proシリーズの背面ディスプレイは、結局のところ本当に役立つものになるかもしれない。"
               },
               {
                 "t": "p",
-                "x": "エージェントはタスクを計画し、必要ならエージェントを追加し、作業が終わってレポートの準備ができると通知する。Perplexityは先週ウェブ版でチームメイトを公開し、ようやくMacアプリにも搭載した。"
+                "x": "背面ディスプレイ付きのスマートフォンを出したメーカーはわずかで、率直に言えば、その大半はほとんど役に立たなかった。XiaomiはXiaomi 18 ProとXiaomi 18 Pro Maxの背面ディスプレイでその状況を覆そうとしている。同社によると、この画面はGoogle Maps、YouTube Music、Spotifyに対応し、気の利いたGenAI統合によって多くの追加アプリも使えるという。"
               },
               {
                 "t": "p",
-                "x": "こうしたエージェントを出したAI企業はPerplexityが初めてではない。Meta MuseやChatGPT Dotsも同様の機能を持ち、Grok Botもその一例だ。これらのエージェントは独自のクラウドコンピューティングのインスタンスで動き、パソコンを閉じても作業を続ける。互いにやり取りし、タスクごとの専用チャンネルを作り、常時の監視も要らない。"
+                "x": "このニュースはGSMArena経由で伝えられたもので、Xiaomi GroupのVP & CMOであるXu FeiがXに投稿してきたAMA動画に基づいている。まだ見ていない人のために言えば、Xiaomi 18 Proシリーズ背面のカメラアイランドは、Galaxy Z Flip 8やMotorola Razrシリーズのような縦折りフォルダブルのカバー画面に似ている。フルカラーのタッチスクリーンで、解像度も見事に高い。"
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/xiaomi-18-pro-back-display-genai-camera.jpg?quality=82&strip=all&w=800"
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/xiaomi-18-pro-back-display-google-spotify.jpg?quality=82&strip=all&w=800"
               },
               {
                 "t": "p",
-                "x": "この機能は月額200ドルのPerplexity Maxプランのユーザーだけが使える。"
+                "x": "YouTube MusicとSpotifyでは、再生/一時停止とスキップのボタンが大きく表示され、再生中の曲のアートワークと曲名も出る。Google Mapsはナビの進行状況表示と、次の進路案内を示す。"
+              },
+              {
+                "t": "p",
+                "x": "公式の統合に加え、Xiaomiは内蔵のGenAIアプリ作成ツールで、ユーザーが独自の背面ディスプレイ用アプリを作れるようにする。欲しいものを説明するだけで、端末上のAIがアプリを作ってくれる。かなり便利そうで、これまでの背面ディスプレイが抱えてきた「役に立たない」問題の解決に役立つはずだ。Xiaomi 18 Proシリーズはグローバルで発売される。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Perplexity队友\n智能体登陆Mac",
-          "body": "Perplexity的Mac应用让Max订阅用户把持续任务交给后台自主运行的智能体。",
-          "mini_headline": "Perplexity智能体登陆Mac",
+          "headline": "Xiaomi 18 Pro\n背屏可跑自制GenAI应用",
+          "body": "Xiaomi 18 Pro背屏支持Google应用、Spotify及自制GenAI应用。",
+          "mini_headline": "Xiaomi背屏跑GenAI",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Perplexity-teammates-feature.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Perplexity"
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/xiaomi-18-pro-2.jpg?quality=82&strip=all&w=1400"
               },
               {
                 "t": "p",
-                "x": "Perplexity队友（teammates）是一组AI智能体，任务是接手你正在进行的工作。你无需一步步引导、手把手带着AI，只需把任务分配给队友智能体，它们就会在后台完成工作——无论是运营增长活动、在bug报告到来时分类处理、盯着各项指标，还是研究一个新市场。"
+                "x": "Xiaomi 18 Pro系列的背屏，或许终于真能派上用场了。"
               },
               {
                 "t": "p",
-                "x": "它们会规划任务，必要时增加更多智能体，并在工作完成、报告备好时通知你。Perplexity上周在网页端推出了队友功能，如今终于登陆Mac应用。"
+                "x": "推出过背屏手机的厂商寥寥无几，而且坦白说，其中大多数都相当鸡肋。Xiaomi希望借Xiaomi 18 Pro和Xiaomi 18 Pro Max的背屏扭转这一局面。该公司表示，这块屏幕支持Google Maps、YouTube Music、Spotify，还能通过巧妙的GenAI集成运行大量其他应用。"
               },
               {
                 "t": "p",
-                "x": "Perplexity并不是第一家推出此类智能体的AI公司：Meta Muse和ChatGPT Dots也有类似功能，Grok Bot是另一个例子。这些智能体运行在各自的云计算实例上，即便你合上电脑也会继续工作；它们可以彼此沟通，为任务建立专用频道，也不需要持续监督。"
+                "x": "消息来自GSMArena，并延续了Xiaomi Group的VP & CMO Xu Fei一直在X上发布的AMA视频内容。如果你还没见过，Xiaomi 18 Pro系列背部的摄像头岛看起来很像Galaxy Z Flip 8或Motorola Razr系列等翻盖折叠屏手机的外屏。它是一块全彩触摸屏，分辨率高得惊人。"
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/xiaomi-18-pro-back-display-genai-camera.jpg?quality=82&strip=all&w=800"
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/xiaomi-18-pro-back-display-google-spotify.jpg?quality=82&strip=all&w=800"
               },
               {
                 "t": "p",
-                "x": "该功能仅向Perplexity Max套餐用户开放，价格为每月200美元。"
+                "x": "YouTube Music和Spotify会显示醒目的播放/暂停和跳过按钮，以及正在播放歌曲的封面和名称。Google Maps则会显示导航进度指示，以及下一步的路线指引。"
+              },
+              {
+                "t": "p",
+                "x": "除官方集成外，Xiaomi还允许用户使用内置的GenAI应用创建工具，自己制作背屏应用。只需描述你想要的功能，设备端AI就会为你生成应用。它看起来相当实用，应该有助于解决以往背屏面临的“鸡肋”问题。Xiaomi 18 Pro系列将在全球发布。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Perplexity Teammates lleva\nagentes en segundo plano al Mac",
-          "body": "La app de Perplexity para Mac permite a los suscriptores de Max delegar tareas a agentes autónomos en segundo plano.",
-          "mini_headline": "Los agentes de Perplexity llegan al Mac",
+          "headline": "Xiaomi 18 Pro: su pantalla\ntrasera ejecuta apps GenAI",
+          "body": "La pantalla trasera de la serie Xiaomi 18 Pro admite apps de Google, Spotify e incluso apps GenAI personalizadas.",
+          "mini_headline": "La pantalla trasera de Xiaomi ejecuta GenAI",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Perplexity-teammates-feature.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Perplexity"
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/xiaomi-18-pro-2.jpg?quality=82&strip=all&w=1400"
               },
               {
                 "t": "p",
-                "x": "Los teammates de Perplexity son un equipo de agentes de IA cuyo trabajo es hacerse cargo de tus tareas en curso. En lugar de guiar a la IA paso a paso, puedes asignar tareas a tus agentes compañeros y ellos harán el trabajo en segundo plano, ya sea gestionar una campaña de crecimiento, clasificar los informes de errores a medida que llegan, vigilar tus métricas o investigar un mercado nuevo."
+                "x": "Las pantallas traseras de la serie Xiaomi 18 Pro podrían, después de todo, resultar útiles."
               },
               {
                 "t": "p",
-                "x": "Planifican las tareas, añaden más agentes si hace falta y te avisan cuando el trabajo está hecho y el informe está listo. Perplexity lanzó teammates en la web la semana pasada y ahora por fin llega a la app para Mac."
+                "x": "Solo unas pocas empresas han lanzado teléfonos con pantalla trasera y, francamente, la mayoría han sido bastante inútiles. Xiaomi espera darle la vuelta a eso con la pantalla trasera del Xiaomi 18 Pro y el Xiaomi 18 Pro Max, que según la compañía admite Google Maps, YouTube Music, Spotify y muchas otras apps gracias a una ingeniosa integración GenAI."
               },
               {
                 "t": "p",
-                "x": "Perplexity no es la primera empresa de IA en lanzar agentes de este tipo: Meta Muse y ChatGPT Dots hacen cosas similares, y Grok Bot es otro ejemplo. Estos agentes funcionan en su propia instancia de computación en la nube y siguen trabajando aunque cierres el equipo; pueden comunicarse entre sí, crear canales dedicados para las tareas y no requieren supervisión constante."
+                "x": "La noticia llega a través de GSMArena y se basa en los videos AMA que Xu Fei, VP & CMO de Xiaomi Group, ha publicado en X. Si aún no la has visto, la isla de cámaras en la parte trasera de la serie Xiaomi 18 Pro se parece a la pantalla exterior de un plegable tipo concha como el Galaxy Z Flip 8 o la serie Motorola Razr. Es una pantalla táctil a todo color y tiene una resolución notablemente alta."
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/xiaomi-18-pro-back-display-genai-camera.jpg?quality=82&strip=all&w=800"
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/xiaomi-18-pro-back-display-google-spotify.jpg?quality=82&strip=all&w=800"
               },
               {
                 "t": "p",
-                "x": "La función solo está disponible para los usuarios del plan Max de Perplexity, que cuesta $200 al mes."
+                "x": "YouTube Music y Spotify mostrarán botones destacados de reproducir/pausar y saltar, además de la carátula y el nombre de la canción en curso. Google Maps ofrecerá un indicador de progreso de la navegación y la siguiente indicación de ruta."
+              },
+              {
+                "t": "p",
+                "x": "Además de la integración oficial, Xiaomi permite a los usuarios crear sus propias apps para la pantalla trasera con una herramienta integrada de creación de apps GenAI. Basta con describir lo que se quiere y la AI del dispositivo crea la app. Parece bastante práctica y debería ayudar a resolver el problema de “inutilidad” que han arrastrado las pantallas traseras anteriores. La serie Xiaomi 18 Pro se lanzará a nivel global."
               }
             ]
           }
@@ -631,125 +617,169 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Perplexity 팀원\nMac에서 알아서 일한다",
-          "body": "Perplexity Mac 앱에서 Max 구독자는 작업을 에이전트에 맡긴다.",
-          "mini_headline": "Mac에 온 Perplexity 에이전트",
+          "headline": "Xiaomi 18 Pro\n후면에 맞춤 GenAI 앱",
+          "body": "Xiaomi 18 Pro 후면은 Spotify와 맞춤 GenAI 앱까지 돌린다.",
+          "mini_headline": "Xiaomi 후면 화면, GenAI 앱 구동",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Perplexity-teammates-feature.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Perplexity"
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/xiaomi-18-pro-2.jpg?quality=82&strip=all&w=1400"
               },
               {
                 "t": "p",
-                "x": "Perplexity 팀메이트(teammates)는 사용자의 진행 중인 업무를 맡아 처리하는 AI 에이전트 팀이다. AI를 일일이 이끌고 붙잡아 줄 필요 없이 팀메이트 에이전트에게 작업을 배정하면, 에이전트가 백그라운드에서 일을 처리한다. 그로스 캠페인 운영, 들어오는 버그 리포트 분류, 지표 모니터링, 새 시장 조사 등이 그 예다."
+                "x": "Xiaomi 18 Pro 시리즈의 후면 디스플레이가 결국 정말 쓸모 있을지도 모른다."
               },
               {
                 "t": "p",
-                "x": "에이전트는 작업을 계획하고, 필요하면 에이전트를 더 추가하며, 일이 끝나 보고서가 준비되면 알려 준다. Perplexity는 지난주 웹에서 팀메이트를 출시했고, 이번에 Mac 앱에도 들어왔다."
+                "x": "후면 디스플레이를 단 폰을 내놓은 회사는 몇 곳뿐이고, 솔직히 말해 대부분은 별 쓸모가 없었다. Xiaomi는 Xiaomi 18 Pro와 Xiaomi 18 Pro Max의 후면 디스플레이로 이 흐름을 뒤집으려 한다. 회사에 따르면 이 화면은 Google Maps, YouTube Music, Spotify를 지원하고, 깔끔한 GenAI 통합으로 수많은 추가 앱도 쓸 수 있다."
               },
               {
                 "t": "p",
-                "x": "이런 에이전트를 내놓은 AI 기업이 Perplexity가 처음은 아니다. Meta Muse와 ChatGPT Dots가 비슷한 일을 하고, Grok Bot도 그런 사례다. 이 에이전트들은 각자 클라우드 컴퓨팅 인스턴스에서 돌아가 컴퓨터를 닫아도 계속 일한다. 서로 소통하고, 작업별 전용 채널을 만들며, 끊임없이 감독할 필요도 없다."
+                "x": "이 소식은 GSMArena를 통해 나왔으며, Xiaomi Group의 VP & CMO인 Xu Fei가 X에 올려 온 AMA 영상을 바탕으로 한다. 아직 보지 못했다면, Xiaomi 18 Pro 시리즈 뒷면의 카메라 섬은 Galaxy Z Flip 8이나 Motorola Razr 시리즈 같은 플립형 폴더블의 커버 화면과 비슷해 보인다. 풀컬러 터치스크린이며 해상도도 인상적으로 높다."
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/xiaomi-18-pro-back-display-genai-camera.jpg?quality=82&strip=all&w=800"
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/xiaomi-18-pro-back-display-google-spotify.jpg?quality=82&strip=all&w=800"
               },
               {
                 "t": "p",
-                "x": "이 기능은 월 200달러인 Perplexity Max 요금제 사용자만 쓸 수 있다."
+                "x": "YouTube Music과 Spotify는 눈에 잘 띄는 재생/일시정지·건너뛰기 버튼과 함께 재생 중인 곡의 아트워크와 제목을 보여 준다. Google Maps는 내비게이션 진행 표시와 다음 경로 안내를 띄운다."
+              },
+              {
+                "t": "p",
+                "x": "공식 통합 외에도 Xiaomi는 내장 GenAI 앱 제작 도구로 사용자가 직접 후면 디스플레이 앱을 만들 수 있게 한다. 원하는 것을 설명하기만 하면 기기 내 AI가 앱을 만들어 준다. 꽤 편리해 보이며, 이전 후면 디스플레이들이 겪은 “쓸모없음” 문제를 푸는 데 도움이 될 듯하다. Xiaomi 18 Pro 시리즈는 글로벌 출시된다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Perplexityの\nチームメイト、Mac対応",
-          "body": "PerplexityのMacアプリでMax会員は作業を裏で動くエージェントに任せられる。",
-          "mini_headline": "Perplexityのエージェント、Macへ",
+          "headline": "Xiaomi 18 Pro\n背面で自作GenAIアプリ",
+          "body": "Xiaomi 18 Proの背面画面はSpotifyや自作GenAIアプリに対応する。",
+          "mini_headline": "Xiaomiの背面画面でGenAIが動く",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Perplexity-teammates-feature.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Perplexity"
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/xiaomi-18-pro-2.jpg?quality=82&strip=all&w=1400"
               },
               {
                 "t": "p",
-                "x": "Perplexityのチームメイト（teammates）は、継続中の仕事を引き受けるAIエージェントの一団だ。AIを逐一導いたり手取り足取り面倒を見たりする代わりに、チームメイトのエージェントにタスクを割り当てれば、バックグラウンドで作業してくれる。グロースキャンペーンの運用、届いたバグ報告の振り分け、指標の監視、新市場の調査などだ。"
+                "x": "Xiaomi 18 Proシリーズの背面ディスプレイは、結局のところ本当に役立つものになるかもしれない。"
               },
               {
                 "t": "p",
-                "x": "エージェントはタスクを計画し、必要ならエージェントを追加し、作業が終わってレポートの準備ができると通知する。Perplexityは先週ウェブ版でチームメイトを公開し、ようやくMacアプリにも搭載した。"
+                "x": "背面ディスプレイ付きのスマートフォンを出したメーカーはわずかで、率直に言えば、その大半はほとんど役に立たなかった。XiaomiはXiaomi 18 ProとXiaomi 18 Pro Maxの背面ディスプレイでその状況を覆そうとしている。同社によると、この画面はGoogle Maps、YouTube Music、Spotifyに対応し、気の利いたGenAI統合によって多くの追加アプリも使えるという。"
               },
               {
                 "t": "p",
-                "x": "こうしたエージェントを出したAI企業はPerplexityが初めてではない。Meta MuseやChatGPT Dotsも同様の機能を持ち、Grok Botもその一例だ。これらのエージェントは独自のクラウドコンピューティングのインスタンスで動き、パソコンを閉じても作業を続ける。互いにやり取りし、タスクごとの専用チャンネルを作り、常時の監視も要らない。"
+                "x": "このニュースはGSMArena経由で伝えられたもので、Xiaomi GroupのVP & CMOであるXu FeiがXに投稿してきたAMA動画に基づいている。まだ見ていない人のために言えば、Xiaomi 18 Proシリーズ背面のカメラアイランドは、Galaxy Z Flip 8やMotorola Razrシリーズのような縦折りフォルダブルのカバー画面に似ている。フルカラーのタッチスクリーンで、解像度も見事に高い。"
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/xiaomi-18-pro-back-display-genai-camera.jpg?quality=82&strip=all&w=800"
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/xiaomi-18-pro-back-display-google-spotify.jpg?quality=82&strip=all&w=800"
               },
               {
                 "t": "p",
-                "x": "この機能は月額200ドルのPerplexity Maxプランのユーザーだけが使える。"
+                "x": "YouTube MusicとSpotifyでは、再生/一時停止とスキップのボタンが大きく表示され、再生中の曲のアートワークと曲名も出る。Google Mapsはナビの進行状況表示と、次の進路案内を示す。"
+              },
+              {
+                "t": "p",
+                "x": "公式の統合に加え、Xiaomiは内蔵のGenAIアプリ作成ツールで、ユーザーが独自の背面ディスプレイ用アプリを作れるようにする。欲しいものを説明するだけで、端末上のAIがアプリを作ってくれる。かなり便利そうで、これまでの背面ディスプレイが抱えてきた「役に立たない」問題の解決に役立つはずだ。Xiaomi 18 Proシリーズはグローバルで発売される。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Perplexity队友\n智能体登陆Mac",
-          "body": "Perplexity的Mac应用让Max订阅用户把持续任务交给后台自主运行的智能体。",
-          "mini_headline": "Perplexity智能体登陆Mac",
+          "headline": "Xiaomi 18 Pro\n背屏可跑自制GenAI应用",
+          "body": "Xiaomi 18 Pro背屏支持Google应用、Spotify及自制GenAI应用。",
+          "mini_headline": "Xiaomi背屏跑GenAI",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Perplexity-teammates-feature.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Perplexity"
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/xiaomi-18-pro-2.jpg?quality=82&strip=all&w=1400"
               },
               {
                 "t": "p",
-                "x": "Perplexity队友（teammates）是一组AI智能体，任务是接手你正在进行的工作。你无需一步步引导、手把手带着AI，只需把任务分配给队友智能体，它们就会在后台完成工作——无论是运营增长活动、在bug报告到来时分类处理、盯着各项指标，还是研究一个新市场。"
+                "x": "Xiaomi 18 Pro系列的背屏，或许终于真能派上用场了。"
               },
               {
                 "t": "p",
-                "x": "它们会规划任务，必要时增加更多智能体，并在工作完成、报告备好时通知你。Perplexity上周在网页端推出了队友功能，如今终于登陆Mac应用。"
+                "x": "推出过背屏手机的厂商寥寥无几，而且坦白说，其中大多数都相当鸡肋。Xiaomi希望借Xiaomi 18 Pro和Xiaomi 18 Pro Max的背屏扭转这一局面。该公司表示，这块屏幕支持Google Maps、YouTube Music、Spotify，还能通过巧妙的GenAI集成运行大量其他应用。"
               },
               {
                 "t": "p",
-                "x": "Perplexity并不是第一家推出此类智能体的AI公司：Meta Muse和ChatGPT Dots也有类似功能，Grok Bot是另一个例子。这些智能体运行在各自的云计算实例上，即便你合上电脑也会继续工作；它们可以彼此沟通，为任务建立专用频道，也不需要持续监督。"
+                "x": "消息来自GSMArena，并延续了Xiaomi Group的VP & CMO Xu Fei一直在X上发布的AMA视频内容。如果你还没见过，Xiaomi 18 Pro系列背部的摄像头岛看起来很像Galaxy Z Flip 8或Motorola Razr系列等翻盖折叠屏手机的外屏。它是一块全彩触摸屏，分辨率高得惊人。"
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/xiaomi-18-pro-back-display-genai-camera.jpg?quality=82&strip=all&w=800"
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/xiaomi-18-pro-back-display-google-spotify.jpg?quality=82&strip=all&w=800"
               },
               {
                 "t": "p",
-                "x": "该功能仅向Perplexity Max套餐用户开放，价格为每月200美元。"
+                "x": "YouTube Music和Spotify会显示醒目的播放/暂停和跳过按钮，以及正在播放歌曲的封面和名称。Google Maps则会显示导航进度指示，以及下一步的路线指引。"
+              },
+              {
+                "t": "p",
+                "x": "除官方集成外，Xiaomi还允许用户使用内置的GenAI应用创建工具，自己制作背屏应用。只需描述你想要的功能，设备端AI就会为你生成应用。它看起来相当实用，应该有助于解决以往背屏面临的“鸡肋”问题。Xiaomi 18 Pro系列将在全球发布。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Perplexity Teammates lleva\nagentes en segundo plano al Mac",
-          "body": "La app de Perplexity para Mac permite a los suscriptores de Max delegar tareas a agentes autónomos en segundo plano.",
-          "mini_headline": "Los agentes de Perplexity llegan al Mac",
+          "headline": "Xiaomi 18 Pro: su pantalla\ntrasera ejecuta apps GenAI",
+          "body": "La pantalla trasera de la serie Xiaomi 18 Pro admite apps de Google, Spotify e incluso apps GenAI personalizadas.",
+          "mini_headline": "La pantalla trasera de Xiaomi ejecuta GenAI",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Perplexity-teammates-feature.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Perplexity"
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/xiaomi-18-pro-2.jpg?quality=82&strip=all&w=1400"
               },
               {
                 "t": "p",
-                "x": "Los teammates de Perplexity son un equipo de agentes de IA cuyo trabajo es hacerse cargo de tus tareas en curso. En lugar de guiar a la IA paso a paso, puedes asignar tareas a tus agentes compañeros y ellos harán el trabajo en segundo plano, ya sea gestionar una campaña de crecimiento, clasificar los informes de errores a medida que llegan, vigilar tus métricas o investigar un mercado nuevo."
+                "x": "Las pantallas traseras de la serie Xiaomi 18 Pro podrían, después de todo, resultar útiles."
               },
               {
                 "t": "p",
-                "x": "Planifican las tareas, añaden más agentes si hace falta y te avisan cuando el trabajo está hecho y el informe está listo. Perplexity lanzó teammates en la web la semana pasada y ahora por fin llega a la app para Mac."
+                "x": "Solo unas pocas empresas han lanzado teléfonos con pantalla trasera y, francamente, la mayoría han sido bastante inútiles. Xiaomi espera darle la vuelta a eso con la pantalla trasera del Xiaomi 18 Pro y el Xiaomi 18 Pro Max, que según la compañía admite Google Maps, YouTube Music, Spotify y muchas otras apps gracias a una ingeniosa integración GenAI."
               },
               {
                 "t": "p",
-                "x": "Perplexity no es la primera empresa de IA en lanzar agentes de este tipo: Meta Muse y ChatGPT Dots hacen cosas similares, y Grok Bot es otro ejemplo. Estos agentes funcionan en su propia instancia de computación en la nube y siguen trabajando aunque cierres el equipo; pueden comunicarse entre sí, crear canales dedicados para las tareas y no requieren supervisión constante."
+                "x": "La noticia llega a través de GSMArena y se basa en los videos AMA que Xu Fei, VP & CMO de Xiaomi Group, ha publicado en X. Si aún no la has visto, la isla de cámaras en la parte trasera de la serie Xiaomi 18 Pro se parece a la pantalla exterior de un plegable tipo concha como el Galaxy Z Flip 8 o la serie Motorola Razr. Es una pantalla táctil a todo color y tiene una resolución notablemente alta."
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/xiaomi-18-pro-back-display-genai-camera.jpg?quality=82&strip=all&w=800"
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/xiaomi-18-pro-back-display-google-spotify.jpg?quality=82&strip=all&w=800"
               },
               {
                 "t": "p",
-                "x": "La función solo está disponible para los usuarios del plan Max de Perplexity, que cuesta $200 al mes."
+                "x": "YouTube Music y Spotify mostrarán botones destacados de reproducir/pausar y saltar, además de la carátula y el nombre de la canción en curso. Google Maps ofrecerá un indicador de progreso de la navegación y la siguiente indicación de ruta."
+              },
+              {
+                "t": "p",
+                "x": "Además de la integración oficial, Xiaomi permite a los usuarios crear sus propias apps para la pantalla trasera con una herramienta integrada de creación de apps GenAI. Basta con describir lo que se quiere y la AI del dispositivo crea la app. Parece bastante práctica y debería ayudar a resolver el problema de “inutilidad” que han arrastrado las pantallas traseras anteriores. La serie Xiaomi 18 Pro se lanzará a nivel global."
               }
             ]
           }
@@ -757,411 +787,391 @@
       }
     },
     {
-      "id": "jeep-cherokee-claude-ecu",
+      "id": "tvos-27-2-1-siri-ai",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Claude로 ECU 해킹\n1994 Jeep 검사통과",
-      "body": "Claude·Codex와 $15로 1994 Jeep ECU를 손봐 검사를 통과했다.",
-      "mini_headline": "Claude 덕에 1994 Jeep 검사 통과",
+      "headline": "tvOS 27.2.1 배포\n4K 구형도 Siri AI",
+      "body": "tvOS 27.2.1은 2·3세대 Apple TV 4K 에 Siri AI를 들였다.",
+      "mini_headline": "구형 Apple TVs에도 Siri AI",
       "tool": "Gadgets",
-      "source": "Tom's Hardware",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/1994-jeep-cherokee-owner-hacks-32-year-old-car-with-claude-ai-to-pass-california-smog-tests-enthusiast-reverse-engineered-the-ancient-ecu-for-diagnostics-and-control",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/11/13/apple-releases-tvos-27-2-1/",
       "accent": "#7928ca",
       "motif": "headset",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
-            "t": "p",
-            "x": "한 AI 애호가가 AI의 도움과 약간의 전자 배선 실력만으로 오래된 1994년식 Jeep Cherokee를 캘리포니아 배출가스(스모그) 검사에 통과시켰다. 32년 된 이 차의 엔진 컴퓨터는 원시적이었지만 Arduino Nano 보드로 노트북에 물리자 여러 설정이 읽혔고, 끝내 제어까지 가능해졌다."
-          },
-          {
-            "t": "video",
-            "yt": "WPj3aQ-xxpI"
-          },
-          {
-            "t": "p",
-            "x": "영상은 Muhammad Zulali의 Jeep이 배출가스 검사에서 잇달아 떨어진 뒤 엔진 배출 문제를 튜닝해 고치기까지의 과정을 담았다. 방향은 Claude가 잡았고 필요한 코드는 Codex가 전부 짰다. 이 Jeep은 특정 검사 속도에서 NOx를 너무 많이 내뿜었고, 재검사 비용은 한 번에 100달러 가까이 들었다. 해결에는 3달러짜리 마이크로컨트롤러가 쓰였고 부품값은 다 합쳐 15달러를 넘지 않았다."
-          },
-          {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/uWPfVwnAzVfG87r5UBkxc5.jpg",
-            "cap": "(이미지 출처: Muhammad Zulali)"
+            "src": "https://images.macrumors.com/t/NIQfOSBaVtOFpZf_INMVdrQgmCg=/2500x/article-new/2026/10/Apple-TV-4K-4th-Generation-feature0.jpg"
           },
           {
             "t": "p",
-            "x": "Claude는 이 엔진이 약 7,800보드의 Chrysler SCI 버스로 통신하는데 일반 시리얼 포트와는 전기적으로 반전돼 있다고 짚어 줬다. 반전은 Cherokee의 6핀 진단 플러그에 연결한 Arduino Nano가 처리했다. Claude는 이어 시속 25마일과 50마일로 달리는 동안 엔진 데이터와 고장 코드를 기록했다. ECU가 몇 달 차이로 재플래싱을 지원하지 못하는 구형이라 Codex가 근처 EEPROM에 맞춤 코드를 심어 실행했다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/MEhj2kjie9xAZfBevnC5jT.jpg",
-            "cap": "(이미지 출처: Muhammad Zulali)"
+            "x": "Apple이 오늘 tvOS 27.2.1을 배포했다. 9월에 나온 tvOS 27 운영체제의 업데이트다. tvOS 27.2.1은 Apple이 tvOS 27.2를 낸 지 세 주 가까이 만에 나왔다."
           },
           {
             "t": "p",
-            "x": "Zulali는 “진단 작업은 대부분 Claude가, 메모리 작업은 거의 전부 Codex가 했다”며 “나는 배선과 운전만 했다”고 말했다. 프로젝트 xj-scanner는 GPLv3 라이선스로 GitHub에 공개됐다."
+            "x": "tvOS 27.2.1로 2세대와 3세대 Apple TV 4K 모델에서도 Siri AI를 쓸 수 있게 됐다. 업데이트 자체는 tvOS 27을 지원하는 모든 Apple TV 4K 모델이 받을 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "Apple은 4세대 Apple TV 4K 를 공개하면서 Apple TV용 Siri AI를 발표했다. 최신 셋톱박스는 별도 tvOS 27.2 빌드로 Siri AI가 켜지지만, 구형 Apple TV 4K 모델은 tvOS 27.2.1 업데이트를 받아야 쓸 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "Siri AI는 Apple이 올해 초 선보인, 한층 똑똑하고 유능해진 Siri다. Siri AI는 콘텐츠를 틀고, 개인 맥락에 맞춰 제안하고, 일반 상식 질문에 답하며, 작업도 처리한다."
+          },
+          {
+            "t": "p",
+            "x": "Apple TV에서 Siri AI를 쓰려면 Apple Intelligence-compatible iOS 기기, 즉 iPhone 15 Pro 이후 모델과 페어링해야 한다."
+          },
+          {
+            "t": "p",
+            "x": "Apple TV 사용자는 설정(Settings) > 시스템(System) > 소프트웨어 업데이트(Software Update)에서 tvOS 27.2.1을 받을 수 있다. Apple은 HomePod와 HomePod mini용 HomePod Software 27.2.1 업데이트도 함께 내놓았다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "A 1994 Jeep passes smog\nafter a Claude-aided ECU hack",
-          "body": "With Claude, Codex and $15 of hardware, a 1994 Jeep Cherokee owner reverse-engineered the car's ECU to pass smog tests.",
-          "mini_headline": "Claude helps a 1994\nJeep pass smog",
+          "headline": "tvOS 27.2.1 brings Siri AI\nto older Apple TV 4K models",
+          "body": "Apple's tvOS 27.2.1 brings Siri AI to the 2nd- and 3rd-generation Apple TV 4K, nearly three weeks after tvOS 27.2.",
+          "mini_headline": "Siri AI reaches older Apple TVs",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "An AI enthusiast managed to get his old 1994 Jeep Cherokee to pass the California smog tests, all thanks to the help of AI and a little electronics wiring skill. This 32-year-old car had only a primitive engine computer, but after connecting it to a laptop via an Arduino Nano board, many settings could be read and eventually controlled."
-              },
-              {
-                "t": "video",
-                "yt": "WPj3aQ-xxpI"
-              },
-              {
-                "t": "p",
-                "x": "The video documents Muhammad Zulali's journey from the Jeep failing consecutive smog tests to tuning and fixing the engine emission issues. Claude provided guidance, and Codex wrote any required code. The Jeep was producing too much NOx at certain test speeds, and each retest cost nearly $100. The fix used a $3 microcontroller, for a total bill of materials of no more than $15."
-              },
-              {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/uWPfVwnAzVfG87r5UBkxc5.jpg",
-                "cap": "(Image credit: Muhammad Zulali)"
+                "src": "https://images.macrumors.com/t/NIQfOSBaVtOFpZf_INMVdrQgmCg=/2500x/article-new/2026/10/Apple-TV-4K-4th-Generation-feature0.jpg"
               },
               {
                 "t": "p",
-                "x": "Claude told him the engine communicated on a Chrysler SCI bus at ~7,800 baud, electrically inverted compared to a typical serial port; an Arduino Nano handled the inversion, wired to the Cherokee's 6-pin diagnostic plug. Claude then logged engine data and fault codes during drives at 25 mph and 50 mph. The ECU was a few months too old to be reflashable, so Codex injected and ran custom code inside a nearby EEPROM."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/MEhj2kjie9xAZfBevnC5jT.jpg",
-                "cap": "(Image credit: Muhammad Zulali)"
+                "x": "Apple today released tvOS 27.2.1, an update to the tvOS 27 operating system that launched in September. tvOS 27.2.1 comes nearly three weeks after Apple released tvOS 27.2."
               },
               {
                 "t": "p",
-                "x": "“Claude did most of the diagnostic work and Codex did pretty much all of the memory work,” says Zulali. “I just did the wiring and the driving.” The project, xj-scanner, is on GitHub under GPLv3."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Claude로 ECU 해킹\n1994 Jeep 검사통과",
-          "body": "Claude·Codex와 $15로 1994 Jeep ECU를 손봐 검사를 통과했다.",
-          "mini_headline": "Claude 덕에 1994 Jeep 검사 통과",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "한 AI 애호가가 AI의 도움과 약간의 전자 배선 실력만으로 오래된 1994년식 Jeep Cherokee를 캘리포니아 배출가스(스모그) 검사에 통과시켰다. 32년 된 이 차의 엔진 컴퓨터는 원시적이었지만 Arduino Nano 보드로 노트북에 물리자 여러 설정이 읽혔고, 끝내 제어까지 가능해졌다."
-              },
-              {
-                "t": "video",
-                "yt": "WPj3aQ-xxpI"
+                "x": "tvOS 27.2.1 brings Siri AI support to the 2nd- and 3rd-generation Apple TV 4K models, but it is available for all Apple TV 4K models that support tvOS 27."
               },
               {
                 "t": "p",
-                "x": "영상은 Muhammad Zulali의 Jeep이 배출가스 검사에서 잇달아 떨어진 뒤 엔진 배출 문제를 튜닝해 고치기까지의 과정을 담았다. 방향은 Claude가 잡았고 필요한 코드는 Codex가 전부 짰다. 이 Jeep은 특정 검사 속도에서 NOx를 너무 많이 내뿜었고, 재검사 비용은 한 번에 100달러 가까이 들었다. 해결에는 3달러짜리 마이크로컨트롤러가 쓰였고 부품값은 다 합쳐 15달러를 넘지 않았다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/uWPfVwnAzVfG87r5UBkxc5.jpg",
-                "cap": "(이미지 출처: Muhammad Zulali)"
+                "x": "Apple announced Siri AI for the Apple TV when debuting the 4th-generation Apple TV 4K. A separate tvOS 27.2 build activates Siri AI on the newest set-top box, but the older Apple TV 4K models will need the tvOS 27.2.1 update to get access."
               },
               {
                 "t": "p",
-                "x": "Claude는 이 엔진이 약 7,800보드의 Chrysler SCI 버스로 통신하는데 일반 시리얼 포트와는 전기적으로 반전돼 있다고 짚어 줬다. 반전은 Cherokee의 6핀 진단 플러그에 연결한 Arduino Nano가 처리했다. Claude는 이어 시속 25마일과 50마일로 달리는 동안 엔진 데이터와 고장 코드를 기록했다. ECU가 몇 달 차이로 재플래싱을 지원하지 못하는 구형이라 Codex가 근처 EEPROM에 맞춤 코드를 심어 실행했다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/MEhj2kjie9xAZfBevnC5jT.jpg",
-                "cap": "(이미지 출처: Muhammad Zulali)"
+                "x": "Siri AI is the smarter, more capable version of Siri that Apple introduced earlier this year. Siri AI can play content, draw on personal context to offer suggestions, answer world knowledge questions, and complete tasks."
               },
               {
                 "t": "p",
-                "x": "Zulali는 “진단 작업은 대부분 Claude가, 메모리 작업은 거의 전부 Codex가 했다”며 “나는 배선과 운전만 했다”고 말했다. 프로젝트 xj-scanner는 GPLv3 라이선스로 GitHub에 공개됐다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "ClaudeでECU解析\n1994年Jeep排ガス合格",
-          "body": "ClaudeとCodex、$15の部品で1994年JeepのECUを解析し検査に合格した。",
-          "mini_headline": "Claudeで1994年Jeepが排ガス合格",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "あるAI愛好家が、AIの助けと少しの電子配線の技術だけで、1994年式の古いJeep Cherokeeをカリフォルニア州の排ガス（スモッグ）検査に合格させた。この32年落ちの車には原始的なエンジンコンピューターしかなかったが、Arduino Nanoボードを介してノートPCにつなぐと、多くの設定を読み取り、最終的には制御できるようになった。"
-              },
-              {
-                "t": "video",
-                "yt": "WPj3aQ-xxpI"
+                "x": "Using Siri AI on the Apple TV requires a paired Apple Intelligence-compatible iOS device, which includes the iPhone 15 Pro and later."
               },
               {
                 "t": "p",
-                "x": "動画は、Muhammad ZulaliのJeepが排ガス検査に続けて落ちたところから、エンジンの排出問題を調整・修正するまでの過程を記録している。Claudeが指針を示し、必要なコードはすべてCodexが書いた。このJeepは特定の試験速度でNOxを出しすぎており、再検査には毎回100ドル近くかかった。修理には3ドルのマイクロコントローラーを使い、部品代の合計は15ドル以下に収まった。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/uWPfVwnAzVfG87r5UBkxc5.jpg",
-                "cap": "（画像提供：Muhammad Zulali）"
-              },
-              {
-                "t": "p",
-                "x": "Claudeによれば、エンジンは約7,800ボーのChrysler SCIバスで通信しており、一般的なシリアルポートと比べて電気的に反転していた。この反転はCherokeeの6ピン診断プラグに配線したArduino Nanoが処理した。続いてClaudeは、時速25マイルと50マイルでの走行中にエンジンデータと故障コードを記録した。ECUは書き換えに対応するには数カ月古かったため、Codexが近くのEEPROMに独自コードを注入して実行させた。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/MEhj2kjie9xAZfBevnC5jT.jpg",
-                "cap": "（画像提供：Muhammad Zulali）"
-              },
-              {
-                "t": "p",
-                "x": "「診断作業の大半はClaudeが、メモリ関連の作業はほぼすべてCodexがやった」とZulaliは話す。「私は配線と運転をしただけだ」。プロジェクト「xj-scanner」はGPLv3でGitHubに公開されている。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Claude助攻破解ECU\n1994年Jeep过尾气检测",
-          "body": "车主用Claude、Codex和15美元硬件破解1994年Jeep的ECU，通过尾气检测。",
-          "mini_headline": "Claude助1994年Jeep过尾气检测",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "一位AI爱好者借助AI和一点电子布线技术，让自己那辆老旧的1994年Jeep Cherokee通过了加州尾气（雾霾）检测。这辆车龄32年的车只有一台原始的发动机电脑，但通过Arduino Nano板连接到笔记本电脑后，许多设置都能读取，最终还能控制。"
-              },
-              {
-                "t": "video",
-                "yt": "WPj3aQ-xxpI"
-              },
-              {
-                "t": "p",
-                "x": "视频记录了Muhammad Zulali的Jeep从连续未通过尾气检测，到调校并解决发动机排放问题的全过程。Claude提供指导，Codex编写了所需的全部代码。这辆Jeep在某些测试车速下NOx排放过高，每次复检要花将近100美元。最终方案用了一块3美元的微控制器，物料总成本不超过15美元。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/uWPfVwnAzVfG87r5UBkxc5.jpg",
-                "cap": "（图片来源：Muhammad Zulali）"
-              },
-              {
-                "t": "p",
-                "x": "Claude告诉他，这台发动机通过约7,800波特的Chrysler SCI总线通信，与普通串口相比电平是反相的；反相由接在Cherokee 6针诊断插头上的Arduino Nano处理。随后Claude在时速25英里和50英里的行驶中记录了发动机数据和故障码。这台ECU早了几个月出厂，不支持重刷，于是Codex将自定义代码注入附近的一块EEPROM并在其中运行。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/MEhj2kjie9xAZfBevnC5jT.jpg",
-                "cap": "（图片来源：Muhammad Zulali）"
-              },
-              {
-                "t": "p",
-                "x": "“大部分诊断工作是Claude做的，内存相关的工作几乎全由Codex完成，”Zulali说，“我只负责接线和开车。”该项目名为xj-scanner，以GPLv3许可证发布在GitHub上。"
+                "x": "Apple TV users can download tvOS 27.2.1 by going to Settings > System > Software Update. Apple has also released a new HomePod Software 27.2.1 update for the HomePod and HomePod mini."
               }
             ]
           }
         },
         "es": {
-          "headline": "Jeep de 1994 aprueba emisiones\ntras hackear su ECU con Claude",
-          "body": "Un dueño de un Jeep Cherokee de 1994 usó Claude, Codex y $15 de hardware para pasar la prueba de emisiones.",
-          "mini_headline": "Claude ayuda a un Jeep de 1994 a pasar emisiones",
+          "headline": "tvOS 27.2.1 lleva Siri AI\na los Apple TV 4K anteriores",
+          "body": "tvOS 27.2.1 de Apple lleva Siri AI al Apple TV 4K de 2.ª y 3.ª generación, casi tres semanas después de tvOS 27.2.",
+          "mini_headline": "Siri AI llega a los Apple TV anteriores",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "Un aficionado a la IA logró que su viejo Jeep Cherokee de 1994 superara las pruebas de emisiones de California, gracias a la ayuda de la IA y a un poco de habilidad con el cableado electrónico. Este coche de 32 años solo tenía una computadora de motor primitiva, pero tras conectarla a un portátil mediante una placa Arduino Nano, pudo leer muchos ajustes y, al final, controlarlos."
-              },
-              {
-                "t": "video",
-                "yt": "WPj3aQ-xxpI"
+                "t": "img",
+                "src": "https://images.macrumors.com/t/NIQfOSBaVtOFpZf_INMVdrQgmCg=/2500x/article-new/2026/10/Apple-TV-4K-4th-Generation-feature0.jpg"
               },
               {
                 "t": "p",
-                "x": "El video documenta el recorrido de Muhammad Zulali desde que el Jeep suspendió varias pruebas de emisiones seguidas hasta que ajustó y corrigió los problemas de emisiones del motor. Claude aportó la orientación y Codex escribió todo el código necesario. El Jeep emitía demasiado NOx a ciertas velocidades de prueba, y cada nueva inspección costaba casi $100. La solución usó un microcontrolador de $3, con un coste total de materiales de no más de $15."
+                "x": "Apple lanzó hoy tvOS 27.2.1, una actualización del sistema operativo tvOS 27 que llegó en septiembre. tvOS 27.2.1 aparece casi tres semanas después de que Apple publicara tvOS 27.2."
               },
+              {
+                "t": "p",
+                "x": "tvOS 27.2.1 incorpora compatibilidad con Siri AI en los Apple TV 4K de 2.ª y 3.ª generación, aunque está disponible para todos los modelos de Apple TV 4K compatibles con tvOS 27."
+              },
+              {
+                "t": "p",
+                "x": "Apple anunció Siri AI para el Apple TV al presentar el Apple TV 4K de 4.ª generación. Una compilación aparte de tvOS 27.2 activa Siri AI en el decodificador más reciente, pero los modelos anteriores de Apple TV 4K necesitarán la actualización tvOS 27.2.1 para acceder."
+              },
+              {
+                "t": "p",
+                "x": "Siri AI es la versión más inteligente y capaz de Siri que Apple presentó a principios de este año. Siri AI puede reproducir contenido, recurrir al contexto personal para ofrecer sugerencias, responder preguntas de conocimiento general y completar tareas."
+              },
+              {
+                "t": "p",
+                "x": "Usar Siri AI en el Apple TV requiere un dispositivo iOS Apple Intelligence-compatible vinculado, lo que incluye el iPhone 15 Pro y posteriores."
+              },
+              {
+                "t": "p",
+                "x": "Los usuarios de Apple TV pueden descargar tvOS 27.2.1 en Settings > System > Software Update (Ajustes > Sistema > Actualización de software). Apple también publicó una nueva actualización HomePod Software 27.2.1 para el HomePod y el HomePod mini."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "tvOS 27.2.1 배포\n4K 구형도 Siri AI",
+          "body": "tvOS 27.2.1은 2·3세대 Apple TV 4K 에 Siri AI를 들였다.",
+          "mini_headline": "구형 Apple TVs에도 Siri AI",
+          "full": {
+            "mode": "full",
+            "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/uWPfVwnAzVfG87r5UBkxc5.jpg",
-                "cap": "(Crédito de la imagen: Muhammad Zulali)"
+                "src": "https://images.macrumors.com/t/NIQfOSBaVtOFpZf_INMVdrQgmCg=/2500x/article-new/2026/10/Apple-TV-4K-4th-Generation-feature0.jpg"
               },
               {
                 "t": "p",
-                "x": "Claude le explicó que el motor se comunicaba por un bus Chrysler SCI a unos 7.800 baudios, con la señal eléctricamente invertida respecto a un puerto serie normal; una Arduino Nano, conectada al conector de diagnóstico de 6 pines del Cherokee, se encargó de la inversión. Después, Claude registró datos del motor y códigos de fallo durante trayectos a 25 mph y 50 mph. La ECU era unos meses demasiado antigua para poder reprogramarse, así que Codex inyectó y ejecutó código propio dentro de una EEPROM cercana."
+                "x": "Apple이 오늘 tvOS 27.2.1을 배포했다. 9월에 나온 tvOS 27 운영체제의 업데이트다. tvOS 27.2.1은 Apple이 tvOS 27.2를 낸 지 세 주 가까이 만에 나왔다."
               },
+              {
+                "t": "p",
+                "x": "tvOS 27.2.1로 2세대와 3세대 Apple TV 4K 모델에서도 Siri AI를 쓸 수 있게 됐다. 업데이트 자체는 tvOS 27을 지원하는 모든 Apple TV 4K 모델이 받을 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "Apple은 4세대 Apple TV 4K 를 공개하면서 Apple TV용 Siri AI를 발표했다. 최신 셋톱박스는 별도 tvOS 27.2 빌드로 Siri AI가 켜지지만, 구형 Apple TV 4K 모델은 tvOS 27.2.1 업데이트를 받아야 쓸 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "Siri AI는 Apple이 올해 초 선보인, 한층 똑똑하고 유능해진 Siri다. Siri AI는 콘텐츠를 틀고, 개인 맥락에 맞춰 제안하고, 일반 상식 질문에 답하며, 작업도 처리한다."
+              },
+              {
+                "t": "p",
+                "x": "Apple TV에서 Siri AI를 쓰려면 Apple Intelligence-compatible iOS 기기, 즉 iPhone 15 Pro 이후 모델과 페어링해야 한다."
+              },
+              {
+                "t": "p",
+                "x": "Apple TV 사용자는 설정(Settings) > 시스템(System) > 소프트웨어 업데이트(Software Update)에서 tvOS 27.2.1을 받을 수 있다. Apple은 HomePod와 HomePod mini용 HomePod Software 27.2.1 업데이트도 함께 내놓았다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "tvOS 27.2.1配信\n旧型 4K にSiri AI",
+          "body": "tvOS 27.2.1が第2・第3世代Apple TV 4K にSiri AIを提供する。",
+          "mini_headline": "旧型Apple TVsにもSiri AI",
+          "full": {
+            "mode": "full",
+            "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/MEhj2kjie9xAZfBevnC5jT.jpg",
-                "cap": "(Crédito de la imagen: Muhammad Zulali)"
+                "src": "https://images.macrumors.com/t/NIQfOSBaVtOFpZf_INMVdrQgmCg=/2500x/article-new/2026/10/Apple-TV-4K-4th-Generation-feature0.jpg"
               },
               {
                 "t": "p",
-                "x": "«Claude hizo la mayor parte del trabajo de diagnóstico y Codex hizo prácticamente todo el trabajo de memoria», dice Zulali. «Yo solo hice el cableado y la conducción». El proyecto, xj-scanner, está en GitHub bajo GPLv3."
+                "x": "Appleは本日、9月に登場したtvOS 27オペレーティングシステムのアップデートとしてtvOS 27.2.1を公開した。tvOS 27.2.1は、AppleがtvOS 27.2を出してから三週間近く後の配信となる。"
+              },
+              {
+                "t": "p",
+                "x": "tvOS 27.2.1は第2世代と第3世代のApple TV 4K モデルにSiri AIへの対応をもたらすが、tvOS 27に対応するすべてのApple TV 4K モデルで入手できる。"
+              },
+              {
+                "t": "p",
+                "x": "Appleは第4世代Apple TV 4K の発表時に、Apple TV向けのSiri AIを発表した。最新のセットトップボックスでは別のtvOS 27.2ビルドがSiri AIを有効にするが、旧型のApple TV 4K モデルで使うにはtvOS 27.2.1アップデートが必要だ。"
+              },
+              {
+                "t": "p",
+                "x": "Siri AIは、Appleが今年初めに導入した、より賢く高機能なSiriである。Siri AIはコンテンツの再生、個人の文脈に基づく提案、一般知識の質問への回答、タスクの実行をこなす。"
+              },
+              {
+                "t": "p",
+                "x": "Apple TVでSiri AIを使うには、Apple Intelligence-compatibleのiOSデバイス、つまりiPhone 15 Pro以降とのペアリングが必要だ。"
+              },
+              {
+                "t": "p",
+                "x": "Apple TVのユーザーは、設定（Settings）> システム（System）> ソフトウェアアップデート（Software Update）からtvOS 27.2.1をダウンロードできる。AppleはHomePodとHomePod mini向けの新しいHomePod Software 27.2.1アップデートも公開した。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "tvOS 27.2.1 更新\n旧款 4K 获Siri AI",
+          "body": "tvOS 27.2.1为第2、3代Apple TV 4K 带来Siri AI。",
+          "mini_headline": "旧款Apple TVs迎来Siri AI",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.macrumors.com/t/NIQfOSBaVtOFpZf_INMVdrQgmCg=/2500x/article-new/2026/10/Apple-TV-4K-4th-Generation-feature0.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Apple今天发布了tvOS 27.2.1，这是对9月推出的tvOS 27操作系统的更新。tvOS 27.2.1距Apple发布tvOS 27.2已近三周。"
+              },
+              {
+                "t": "p",
+                "x": "tvOS 27.2.1为第2代和第3代Apple TV 4K 机型带来Siri AI支持，但所有支持tvOS 27的Apple TV 4K 机型都可以安装。"
+              },
+              {
+                "t": "p",
+                "x": "Apple在推出第4代Apple TV 4K 时宣布了Apple TV版Siri AI。最新的机顶盒通过另一个tvOS 27.2版本启用Siri AI，而较早的Apple TV 4K 机型需要安装tvOS 27.2.1更新才能使用。"
+              },
+              {
+                "t": "p",
+                "x": "Siri AI是Apple今年早些时候推出的更聪明、更强大的Siri。Siri AI可以播放内容、依据个人情境提供建议、回答常识性问题并完成任务。"
+              },
+              {
+                "t": "p",
+                "x": "在Apple TV上使用Siri AI，需要配对一台Apple Intelligence-compatible的iOS设备，即iPhone 15 Pro及更新机型。"
+              },
+              {
+                "t": "p",
+                "x": "Apple TV用户可前往设置（Settings）> 系统（System）> 软件更新（Software Update）下载tvOS 27.2.1。Apple还为HomePod和HomePod mini发布了新的HomePod Software 27.2.1更新。"
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "Claude로 ECU 해킹\n1994 Jeep 검사통과",
-          "body": "Claude·Codex와 $15로 1994 Jeep ECU를 손봐 검사를 통과했다.",
-          "mini_headline": "Claude 덕에 1994 Jeep 검사 통과",
+        "es": {
+          "headline": "tvOS 27.2.1 lleva Siri AI\na los Apple TV 4K anteriores",
+          "body": "tvOS 27.2.1 de Apple lleva Siri AI al Apple TV 4K de 2.ª y 3.ª generación, casi tres semanas después de tvOS 27.2.",
+          "mini_headline": "Siri AI llega a los Apple TV anteriores",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "한 AI 애호가가 AI의 도움과 약간의 전자 배선 실력만으로 오래된 1994년식 Jeep Cherokee를 캘리포니아 배출가스(스모그) 검사에 통과시켰다. 32년 된 이 차에는 원시적인 엔진 컴퓨터만 있었지만, Arduino Nano 보드로 노트북에 연결하자 여러 설정을 읽을 수 있었고 결국 제어까지 할 수 있었다."
-              },
-              {
-                "t": "video",
-                "yt": "WPj3aQ-xxpI"
+                "t": "img",
+                "src": "https://images.macrumors.com/t/NIQfOSBaVtOFpZf_INMVdrQgmCg=/2500x/article-new/2026/10/Apple-TV-4K-4th-Generation-feature0.jpg"
               },
               {
                 "t": "p",
-                "x": "영상은 Muhammad Zulali의 Jeep이 배출가스 검사에서 연이어 떨어진 뒤 엔진 배출 문제를 튜닝하고 고치기까지의 과정을 담았다. Claude가 방향을 잡아 주고, 필요한 코드는 Codex가 모두 작성했다. 이 Jeep은 특정 검사 속도에서 NOx를 너무 많이 배출했고, 재검사 비용은 한 번에 100달러 가까이 들었다. 해결책에는 3달러짜리 마이크로컨트롤러가 쓰였고, 부품 비용은 모두 합쳐 15달러를 넘지 않았다."
+                "x": "Apple lanzó hoy tvOS 27.2.1, una actualización del sistema operativo tvOS 27 que llegó en septiembre. tvOS 27.2.1 aparece casi tres semanas después de que Apple publicara tvOS 27.2."
               },
+              {
+                "t": "p",
+                "x": "tvOS 27.2.1 incorpora compatibilidad con Siri AI en los Apple TV 4K de 2.ª y 3.ª generación, aunque está disponible para todos los modelos de Apple TV 4K compatibles con tvOS 27."
+              },
+              {
+                "t": "p",
+                "x": "Apple anunció Siri AI para el Apple TV al presentar el Apple TV 4K de 4.ª generación. Una compilación aparte de tvOS 27.2 activa Siri AI en el decodificador más reciente, pero los modelos anteriores de Apple TV 4K necesitarán la actualización tvOS 27.2.1 para acceder."
+              },
+              {
+                "t": "p",
+                "x": "Siri AI es la versión más inteligente y capaz de Siri que Apple presentó a principios de este año. Siri AI puede reproducir contenido, recurrir al contexto personal para ofrecer sugerencias, responder preguntas de conocimiento general y completar tareas."
+              },
+              {
+                "t": "p",
+                "x": "Usar Siri AI en el Apple TV requiere un dispositivo iOS Apple Intelligence-compatible vinculado, lo que incluye el iPhone 15 Pro y posteriores."
+              },
+              {
+                "t": "p",
+                "x": "Los usuarios de Apple TV pueden descargar tvOS 27.2.1 en Settings > System > Software Update (Ajustes > Sistema > Actualización de software). Apple también publicó una nueva actualización HomePod Software 27.2.1 para el HomePod y el HomePod mini."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "tvOS 27.2.1 배포\n4K 구형도 Siri AI",
+          "body": "tvOS 27.2.1은 2·3세대 Apple TV 4K 에 Siri AI를 들였다.",
+          "mini_headline": "구형 Apple TVs에도 Siri AI",
+          "full": {
+            "mode": "full",
+            "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/uWPfVwnAzVfG87r5UBkxc5.jpg",
-                "cap": "(이미지 출처: Muhammad Zulali)"
+                "src": "https://images.macrumors.com/t/NIQfOSBaVtOFpZf_INMVdrQgmCg=/2500x/article-new/2026/10/Apple-TV-4K-4th-Generation-feature0.jpg"
               },
               {
                 "t": "p",
-                "x": "Claude는 이 엔진이 약 7,800보드의 Chrysler SCI 버스로 통신하며, 일반 시리얼 포트와 비교해 전기적으로 반전돼 있다고 알려 줬다. 반전 처리는 Cherokee의 6핀 진단 플러그에 배선한 Arduino Nano가 맡았다. 이어 Claude는 시속 25마일과 50마일 주행 중 엔진 데이터와 고장 코드를 기록했다. ECU는 몇 달 차이로 재플래싱이 불가능한 구형이어서, Codex가 근처 EEPROM에 맞춤 코드를 주입해 실행했다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/MEhj2kjie9xAZfBevnC5jT.jpg",
-                "cap": "(이미지 출처: Muhammad Zulali)"
+                "x": "Apple이 오늘 9월에 나온 tvOS 27 운영체제의 업데이트인 tvOS 27.2.1을 내놓았다. tvOS 27.2.1은 Apple이 tvOS 27.2를 낸 지 세 주 가까이 지나 나왔다."
               },
               {
                 "t": "p",
-                "x": "Zulali는 “진단 작업은 대부분 Claude가, 메모리 작업은 거의 전부 Codex가 했다”며 “나는 배선과 운전만 했다”고 말했다. 프로젝트 xj-scanner는 GPLv3 라이선스로 GitHub에 공개돼 있다."
+                "x": "tvOS 27.2.1은 2세대와 3세대 Apple TV 4K 모델에 Siri AI 지원을 더한다. 다만 업데이트 자체는 tvOS 27을 지원하는 모든 Apple TV 4K 모델에서 받을 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "Apple은 4세대 Apple TV 4K 를 공개하며 Apple TV용 Siri AI를 발표했다. 최신 셋톱박스에서는 별도의 tvOS 27.2 빌드가 Siri AI를 켜지만, 구형 Apple TV 4K 모델은 tvOS 27.2.1 업데이트를 받아야 쓸 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "Siri AI는 Apple이 올해 초 선보인, 더 똑똑하고 유능해진 Siri다. Siri AI는 콘텐츠를 재생하고, 개인 맥락을 바탕으로 제안을 내놓고, 일반 상식 질문에 답하고, 작업을 처리한다."
+              },
+              {
+                "t": "p",
+                "x": "Apple TV에서 Siri AI를 쓰려면 Apple Intelligence-compatible iOS 기기, 즉 iPhone 15 Pro 이후 모델과 페어링해야 한다."
+              },
+              {
+                "t": "p",
+                "x": "Apple TV 사용자는 설정(Settings) > 시스템(System) > 소프트웨어 업데이트(Software Update)에서 tvOS 27.2.1을 내려받을 수 있다. Apple은 HomePod와 HomePod mini용 HomePod Software 27.2.1 업데이트도 새로 내놓았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ClaudeでECU解析\n1994年Jeep排ガス合格",
-          "body": "ClaudeとCodex、$15の部品で1994年JeepのECUを解析し検査に合格した。",
-          "mini_headline": "Claudeで1994年Jeepが排ガス合格",
+          "headline": "tvOS 27.2.1配信\n旧型 4K にSiri AI",
+          "body": "tvOS 27.2.1が第2・第3世代Apple TV 4K にSiri AIを提供する。",
+          "mini_headline": "旧型Apple TVsにもSiri AI",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "あるAI愛好家が、AIの助けと少しの電子配線の技術だけで、1994年式の古いJeep Cherokeeをカリフォルニア州の排ガス（スモッグ）検査に合格させた。この32年落ちの車には原始的なエンジンコンピューターしかなかったが、Arduino Nanoボードを介してノートPCにつなぐと、多くの設定を読み取り、最終的には制御できるようになった。"
-              },
-              {
-                "t": "video",
-                "yt": "WPj3aQ-xxpI"
-              },
-              {
-                "t": "p",
-                "x": "動画は、Muhammad ZulaliのJeepが排ガス検査に続けて落ちたところから、エンジンの排出問題を調整・修正するまでの過程を記録している。Claudeが指針を示し、必要なコードはすべてCodexが書いた。このJeepは特定の試験速度でNOxを出しすぎており、再検査には毎回100ドル近くかかった。修理には3ドルのマイクロコントローラーを使い、部品代の合計は15ドル以下に収まった。"
-              },
-              {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/uWPfVwnAzVfG87r5UBkxc5.jpg",
-                "cap": "（画像提供：Muhammad Zulali）"
+                "src": "https://images.macrumors.com/t/NIQfOSBaVtOFpZf_INMVdrQgmCg=/2500x/article-new/2026/10/Apple-TV-4K-4th-Generation-feature0.jpg"
               },
               {
                 "t": "p",
-                "x": "Claudeによれば、エンジンは約7,800ボーのChrysler SCIバスで通信しており、一般的なシリアルポートと比べて電気的に反転していた。この反転はCherokeeの6ピン診断プラグに配線したArduino Nanoが処理した。続いてClaudeは、時速25マイルと50マイルでの走行中にエンジンデータと故障コードを記録した。ECUは書き換えに対応するには数カ月古かったため、Codexが近くのEEPROMに独自コードを注入して実行させた。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/MEhj2kjie9xAZfBevnC5jT.jpg",
-                "cap": "（画像提供：Muhammad Zulali）"
+                "x": "Appleは本日、9月に登場したtvOS 27オペレーティングシステムのアップデートとしてtvOS 27.2.1を公開した。tvOS 27.2.1は、AppleがtvOS 27.2を出してから三週間近く後の配信となる。"
               },
               {
                 "t": "p",
-                "x": "「診断作業の大半はClaudeが、メモリ関連の作業はほぼすべてCodexがやった」とZulaliは話す。「私は配線と運転をしただけだ」。プロジェクト「xj-scanner」はGPLv3でGitHubに公開されている。"
+                "x": "tvOS 27.2.1は第2世代と第3世代のApple TV 4K モデルにSiri AIへの対応をもたらすが、tvOS 27に対応するすべてのApple TV 4K モデルで入手できる。"
+              },
+              {
+                "t": "p",
+                "x": "Appleは第4世代Apple TV 4K の発表時に、Apple TV向けのSiri AIを発表した。最新のセットトップボックスでは別のtvOS 27.2ビルドがSiri AIを有効にするが、旧型のApple TV 4K モデルで使うにはtvOS 27.2.1アップデートが必要だ。"
+              },
+              {
+                "t": "p",
+                "x": "Siri AIは、Appleが今年初めに導入した、より賢く高機能なSiriである。Siri AIはコンテンツの再生、個人の文脈に基づく提案、一般知識の質問への回答、タスクの実行をこなす。"
+              },
+              {
+                "t": "p",
+                "x": "Apple TVでSiri AIを使うには、Apple Intelligence-compatibleのiOSデバイス、つまりiPhone 15 Pro以降とのペアリングが必要だ。"
+              },
+              {
+                "t": "p",
+                "x": "Apple TVのユーザーは、設定（Settings）> システム（System）> ソフトウェアアップデート（Software Update）からtvOS 27.2.1をダウンロードできる。AppleはHomePodとHomePod mini向けの新しいHomePod Software 27.2.1アップデートも公開した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Claude助攻破解ECU\n1994年Jeep过尾气检测",
-          "body": "车主用Claude、Codex和15美元硬件破解1994年Jeep的ECU，通过尾气检测。",
-          "mini_headline": "Claude助1994年Jeep过尾气检测",
+          "headline": "tvOS 27.2.1 更新\n旧款 4K 获Siri AI",
+          "body": "tvOS 27.2.1为第2、3代Apple TV 4K 带来Siri AI。",
+          "mini_headline": "旧款Apple TVs迎来Siri AI",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "一位AI爱好者借助AI和一点电子布线技术，让自己那辆老旧的1994年Jeep Cherokee通过了加州尾气（雾霾）检测。这辆车龄32年的车只有一台原始的发动机电脑，但通过Arduino Nano板连接到笔记本电脑后，许多设置都能读取，最终还能控制。"
-              },
-              {
-                "t": "video",
-                "yt": "WPj3aQ-xxpI"
-              },
-              {
-                "t": "p",
-                "x": "视频记录了Muhammad Zulali的Jeep从连续未通过尾气检测，到调校并解决发动机排放问题的全过程。Claude提供指导，Codex编写了所需的全部代码。这辆Jeep在某些测试车速下NOx排放过高，每次复检要花将近100美元。最终方案用了一块3美元的微控制器，物料总成本不超过15美元。"
-              },
-              {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/uWPfVwnAzVfG87r5UBkxc5.jpg",
-                "cap": "（图片来源：Muhammad Zulali）"
+                "src": "https://images.macrumors.com/t/NIQfOSBaVtOFpZf_INMVdrQgmCg=/2500x/article-new/2026/10/Apple-TV-4K-4th-Generation-feature0.jpg"
               },
               {
                 "t": "p",
-                "x": "Claude告诉他，这台发动机通过约7,800波特的Chrysler SCI总线通信，与普通串口相比电平是反相的；反相由接在Cherokee 6针诊断插头上的Arduino Nano处理。随后Claude在时速25英里和50英里的行驶中记录了发动机数据和故障码。这台ECU早了几个月出厂，不支持重刷，于是Codex将自定义代码注入附近的一块EEPROM并在其中运行。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/MEhj2kjie9xAZfBevnC5jT.jpg",
-                "cap": "（图片来源：Muhammad Zulali）"
+                "x": "Apple今天发布了tvOS 27.2.1，这是对9月推出的tvOS 27操作系统的更新。tvOS 27.2.1距Apple发布tvOS 27.2已近三周。"
               },
               {
                 "t": "p",
-                "x": "“大部分诊断工作是Claude做的，内存相关的工作几乎全由Codex完成，”Zulali说，“我只负责接线和开车。”该项目名为xj-scanner，以GPLv3许可证发布在GitHub上。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Jeep de 1994 aprueba emisiones\ntras hackear su ECU con Claude",
-          "body": "Un dueño de un Jeep Cherokee de 1994 usó Claude, Codex y $15 de hardware para pasar la prueba de emisiones.",
-          "mini_headline": "Claude ayuda a un Jeep de 1994 a pasar emisiones",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Un aficionado a la IA logró que su viejo Jeep Cherokee de 1994 superara las pruebas de emisiones de California, gracias a la ayuda de la IA y a un poco de habilidad con el cableado electrónico. Este coche de 32 años solo tenía una computadora de motor primitiva, pero tras conectarla a un portátil mediante una placa Arduino Nano, pudo leer muchos ajustes y, al final, controlarlos."
-              },
-              {
-                "t": "video",
-                "yt": "WPj3aQ-xxpI"
+                "x": "tvOS 27.2.1为第2代和第3代Apple TV 4K 机型带来Siri AI支持，但所有支持tvOS 27的Apple TV 4K 机型都可以安装。"
               },
               {
                 "t": "p",
-                "x": "El video documenta el recorrido de Muhammad Zulali desde que el Jeep suspendió varias pruebas de emisiones seguidas hasta que ajustó y corrigió los problemas de emisiones del motor. Claude aportó la orientación y Codex escribió todo el código necesario. El Jeep emitía demasiado NOx a ciertas velocidades de prueba, y cada nueva inspección costaba casi $100. La solución usó un microcontrolador de $3, con un coste total de materiales de no más de $15."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/uWPfVwnAzVfG87r5UBkxc5.jpg",
-                "cap": "(Crédito de la imagen: Muhammad Zulali)"
+                "x": "Apple在推出第4代Apple TV 4K 时宣布了Apple TV版Siri AI。最新的机顶盒通过另一个tvOS 27.2版本启用Siri AI，而较早的Apple TV 4K 机型需要安装tvOS 27.2.1更新才能使用。"
               },
               {
                 "t": "p",
-                "x": "Claude le explicó que el motor se comunicaba por un bus Chrysler SCI a unos 7.800 baudios, con la señal eléctricamente invertida respecto a un puerto serie normal; una Arduino Nano, conectada al conector de diagnóstico de 6 pines del Cherokee, se encargó de la inversión. Después, Claude registró datos del motor y códigos de fallo durante trayectos a 25 mph y 50 mph. La ECU era unos meses demasiado antigua para poder reprogramarse, así que Codex inyectó y ejecutó código propio dentro de una EEPROM cercana."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/MEhj2kjie9xAZfBevnC5jT.jpg",
-                "cap": "(Crédito de la imagen: Muhammad Zulali)"
+                "x": "Siri AI是Apple今年早些时候推出的更聪明、更强大的Siri。Siri AI可以播放内容、依据个人情境提供建议、回答常识性问题并完成任务。"
               },
               {
                 "t": "p",
-                "x": "«Claude hizo la mayor parte del trabajo de diagnóstico y Codex hizo prácticamente todo el trabajo de memoria», dice Zulali. «Yo solo hice el cableado y la conducción». El proyecto, xj-scanner, está en GitHub bajo GPLv3."
+                "x": "在Apple TV上使用Siri AI，需要配对一台Apple Intelligence-compatible的iOS设备，即iPhone 15 Pro及更新机型。"
+              },
+              {
+                "t": "p",
+                "x": "Apple TV用户可前往设置（Settings）> 系统（System）> 软件更新（Software Update）下载tvOS 27.2.1。Apple还为HomePod和HomePod mini发布了新的HomePod Software 27.2.1更新。"
               }
             ]
           }
@@ -1169,427 +1179,15 @@
       }
     },
     {
-      "id": "ces2027-innovation-awards-korea",
-      "source_lang": "ko",
-      "eyebrow": "AI NEWS",
-      "headline": "CES 2027 최고혁신상\n61%는 한국 기업",
-      "body": "최고혁신상 61%는 한국 몫이지만 로봇·AI 칩 부문 최고상은 중·미가 가져갔다.",
-      "mini_headline": "CES 최고혁신상\n61% 한국",
-      "tool": "Gadgets",
-      "source": "전자신문 (etnews)",
-      "url": "https://www.etnews.com/20261110000251",
-      "accent": "#2ec5c5",
-      "motif": "headset",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://img.etnews.com/news/article/2026/11/10/news-p.v1.20261110.5fdedf20293c4a21af1be6aa3526c5f6_P1.jpg",
-            "cap": "CES 2027 최고 혁신상을 받은 세계 최초 투명·무선 TV 'LG 시그니처 올레드 T'"
-          },
-          {
-            "t": "p",
-            "x": "한국 기업이 'CES 2027' 최고혁신상 절반 이상을 휩쓸었다. 다만, 로봇과 인공지능(AI) 반도체 등 미래 산업 주도권이 걸린 분야 최고상은 중국과 미국이 가져갔다."
-          },
-          {
-            "t": "p",
-            "x": "미국소비자기술협회(CTA)는 9일(현지시간) CES 2027 혁신상 1차 수상작을 발표했다. 올해 출품작은 약 4000개로, 전년 대비 10% 늘어 역대 최대를 기록했다. AI·디지털헬스·로봇 등 3개 분야가 전체 출품작 25%를 차지했다. 1차 공개된 최고혁신상 38개를 국가별로 분류하면 한국이 24개(61%)로 가장 많았다. 미국 5개, 중국 4개가 뒤를 이었고 독일·스웨덴·캐나다·일본이 1개씩 받았다."
-          },
-          {
-            "t": "p",
-            "x": "삼성전자가 '갤럭시 Z 폴드8'과 '폴드8 울트라'로 모바일 부문 최고상 2개를 받았다. LG전자는 '시그니처 올레드 T6'로 CTA가 경매사 크리스티와 올해 신설한 아트테크 부문 최고상을 받았다. 슈올즈는 AI 신발 2종으로 접근성·장수와 패션테크 부문 정상에 올랐고, 에이아이비즈(AI) 등 스타트업·중소기업과 대학도 수상했다."
-          },
-          {
-            "t": "p",
-            "x": "출품이 74% 급증한 로봇 부문 최고상은 중국 휴머노이드 기업 갤봇 'ET1'에 돌아갔다. 미국은 5개에 그쳤지만 엔비디아가 '베라 CPU'와 'DLSS 5'로 컴퓨터 하드웨어·게이밍 부문을, 퀄컴은 XR 플랫폼으로 XR 부문 최고상을 받았다."
-          },
-          {
-            "t": "img",
-            "src": "https://img.etnews.com/news/article/2026/11/11/news-t.v1.20261111.298baa5937ea4e60934770e35f71167a_P1.png",
-            "cap": "한국·중국 ·미국 'CES 2027' 최고혁신상 수상 목록 (자료 : CTA)"
-          },
-          {
-            "t": "p",
-            "x": "전자업계 관계자는 “한국이 여러 부문에서 고르게 수상했다면 미국과 중국은 AI 반도체와 휴머노이드처럼 차세대 산업 핵심을 쥔 셈”이라고 말했다."
-          }
-        ]
-      },
-      "text": {
-        "ko": {
-          "headline": "CES 2027 최고혁신상\n61%는 한국 기업",
-          "body": "최고혁신상 61%는 한국 몫이지만 로봇·AI 칩 부문 최고상은 중·미가 가져갔다.",
-          "mini_headline": "CES 최고혁신상\n61% 한국",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/10/news-p.v1.20261110.5fdedf20293c4a21af1be6aa3526c5f6_P1.jpg",
-                "cap": "CES 2027 최고 혁신상을 받은 세계 최초 투명·무선 TV 'LG 시그니처 올레드 T'"
-              },
-              {
-                "t": "p",
-                "x": "한국 기업이 'CES 2027' 최고혁신상 절반 이상을 휩쓸었다. 다만, 로봇과 인공지능(AI) 반도체 등 미래 산업 주도권이 걸린 분야 최고상은 중국과 미국이 가져갔다."
-              },
-              {
-                "t": "p",
-                "x": "미국소비자기술협회(CTA)는 9일(현지시간) CES 2027 혁신상 1차 수상작을 발표했다. 올해 출품작은 약 4000개로, 전년 대비 10% 늘어 역대 최대를 기록했다. AI·디지털헬스·로봇 등 3개 분야가 전체 출품작 25%를 차지했다. 1차 공개된 최고혁신상 38개를 국가별로 분류하면 한국이 24개(61%)로 가장 많았다. 미국 5개, 중국 4개가 뒤를 이었고 독일·스웨덴·캐나다·일본이 1개씩 받았다."
-              },
-              {
-                "t": "p",
-                "x": "삼성전자가 '갤럭시 Z 폴드8'과 '폴드8 울트라'로 모바일 부문 최고상 2개를 받았다. LG전자는 '시그니처 올레드 T6'로 CTA가 경매사 크리스티와 올해 신설한 아트테크 부문 최고상을 받았다. 슈올즈는 AI 신발 2종으로 접근성·장수와 패션테크 부문 정상에 올랐고, 에이아이비즈(AI) 등 스타트업·중소기업과 대학도 수상했다."
-              },
-              {
-                "t": "p",
-                "x": "출품이 74% 급증한 로봇 부문 최고상은 중국 휴머노이드 기업 갤봇 'ET1'에 돌아갔다. 미국은 5개에 그쳤지만 엔비디아가 '베라 CPU'와 'DLSS 5'로 컴퓨터 하드웨어·게이밍 부문을, 퀄컴은 XR 플랫폼으로 XR 부문 최고상을 받았다."
-              },
-              {
-                "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/11/news-t.v1.20261111.298baa5937ea4e60934770e35f71167a_P1.png",
-                "cap": "한국·중국 ·미국 'CES 2027' 최고혁신상 수상 목록 (자료 : CTA)"
-              },
-              {
-                "t": "p",
-                "x": "전자업계 관계자는 “한국이 여러 부문에서 고르게 수상했다면 미국과 중국은 AI 반도체와 휴머노이드처럼 차세대 산업 핵심을 쥔 셈”이라고 말했다."
-              }
-            ]
-          }
-        },
-        "en": {
-          "headline": "Korean firms win 61% of\nCES 2027 Best of Innovation",
-          "body": "Korea took 61% of the top innovation honors, but China and the U.S. won the top robot and AI chip awards.",
-          "mini_headline": "Korea wins 61% of CES top honors",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/10/news-p.v1.20261110.5fdedf20293c4a21af1be6aa3526c5f6_P1.jpg",
-                "cap": "The 'LG Signature OLED T', the world's first transparent wireless TV, which won a CES 2027 Best of Innovation award"
-              },
-              {
-                "t": "p",
-                "x": "Korean companies swept more than half of the 'CES 2027' Best of Innovation awards. However, China and the U.S. took the top awards in fields that will decide leadership in future industries, such as robots and artificial intelligence (AI) chips."
-              },
-              {
-                "t": "p",
-                "x": "The Consumer Technology Association (CTA) announced the first round of CES 2027 Innovation Award winners on the 9th (local time). This year's entries numbered about 4,000, up 10% from the previous year and a record high. Three fields, AI, digital health and robotics, accounted for 25% of all entries. Of the 38 Best of Innovation awards announced in the first round, Korea won the most, with 24 (61%). The U.S. followed with 5 and China with 4, while Germany, Sweden, Canada and Japan received one each."
-              },
-              {
-                "t": "p",
-                "x": "Samsung Electronics won two top awards in the mobile category with the 'Galaxy Z Fold8' and the 'Fold8 Ultra'. LG Electronics won, with the 'Signature OLED T6', the top award in the art tech category that the CTA created this year with auction house Christie's. Shuolz topped the accessibility & longevity and fashion tech categories with two AI shoes, and startups, small and mid-sized companies and universities such as AIBiz (AI) also won awards."
-              },
-              {
-                "t": "p",
-                "x": "The top award in robotics, where entries jumped 74%, went to the 'ET1' from Chinese humanoid company Galbot. The U.S. won only 5, but NVIDIA took the top awards in computer hardware and gaming with the 'Vera CPU' and 'DLSS 5', and Qualcomm won the top XR award with its XR platform."
-              },
-              {
-                "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/11/news-t.v1.20261111.298baa5937ea4e60934770e35f71167a_P1.png",
-                "cap": "Korean, Chinese and U.S. winners of the 'CES 2027' Best of Innovation awards (Source: CTA)"
-              },
-              {
-                "t": "p",
-                "x": "An electronics industry official said, “If Korea won evenly across many categories, the U.S. and China have in effect seized the core of next-generation industries, such as AI chips and humanoids.”"
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "CES 2027最高革新賞\n61%は韓国企業",
-          "body": "最高革新賞の61%を韓国が占めたが、ロボットとAIチップの最高賞は中米が手にした。",
-          "mini_headline": "CES最高革新賞、61%が韓国",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/10/news-p.v1.20261110.5fdedf20293c4a21af1be6aa3526c5f6_P1.jpg",
-                "cap": "CES 2027最高革新賞を受賞した世界初の透明・ワイヤレスTV「LG Signature OLED T」"
-              },
-              {
-                "t": "p",
-                "x": "韓国企業が「CES 2027」最高革新賞の半数以上を席巻した。ただし、ロボットや人工知能（AI）半導体など、未来産業の主導権がかかる分野の最高賞は中国と米国が手にした。"
-              },
-              {
-                "t": "p",
-                "x": "全米民生技術協会（CTA）は9日（現地時間）、CES 2027イノベーションアワードの第1次受賞作を発表した。今年の出品作は約4000件で、前年比10%増えて過去最多を記録した。AI・デジタルヘルス・ロボットの3分野が全出品作の25%を占めた。第1次で公開された最高革新賞38件を国別に分けると、韓国が24件（61%）で最も多かった。米国5件、中国4件が続き、ドイツ・スウェーデン・カナダ・日本が1件ずつ受賞した。"
-              },
-              {
-                "t": "p",
-                "x": "サムスン電子は「Galaxy Z Fold8」と「Fold8 Ultra」でモバイル部門の最高賞2件を受賞した。LG電子は「Signature OLED T6」で、CTAがオークションハウスのクリスティーズと今年新設したアートテック部門の最高賞を受けた。シュオルズはAIシューズ2種でアクセシビリティ・長寿部門とファッションテック部門の頂点に立ち、エーアイビズ（AI）などのスタートアップ・中小企業や大学も受賞した。"
-              },
-              {
-                "t": "p",
-                "x": "出品が74%急増したロボット部門の最高賞は、中国のヒューマノイド企業Galbotの「ET1」に渡った。米国は5件にとどまったが、NVIDIAが「Vera CPU」と「DLSS 5」でコンピューターハードウェア・ゲーミング部門を、QualcommがXRプラットフォームでXR部門の最高賞を受賞した。"
-              },
-              {
-                "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/11/news-t.v1.20261111.298baa5937ea4e60934770e35f71167a_P1.png",
-                "cap": "韓国・中国・米国の「CES 2027」最高革新賞受賞リスト（資料：CTA）"
-              },
-              {
-                "t": "p",
-                "x": "電子業界の関係者は「韓国が多くの部門でまんべんなく受賞したとすれば、米国と中国はAI半導体やヒューマノイドのように次世代産業の核心を握ったといえる」と述べた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "CES 2027最高创新奖\n61%归韩国企业",
-          "body": "最高创新奖61%由韩国企业获得，但机器人与AI芯片类最高奖归中美。",
-          "mini_headline": "CES最高创新奖61%归韩国",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/10/news-p.v1.20261110.5fdedf20293c4a21af1be6aa3526c5f6_P1.jpg",
-                "cap": "荣获CES 2027最高创新奖的全球首款透明无线电视“LG Signature OLED T”"
-              },
-              {
-                "t": "p",
-                "x": "韩国企业包揽了“CES 2027”最高创新奖的半数以上。不过，在机器人、人工智能（AI）半导体等关乎未来产业主导权的领域，最高奖被中国和美国收入囊中。"
-              },
-              {
-                "t": "p",
-                "x": "美国消费技术协会（CTA）于当地时间9日公布了CES 2027创新奖第一批获奖名单。今年参评作品约4000件，比上年增长10%，创历史新高。AI、数字健康、机器人三个领域占全部参评作品的25%。将第一批公布的38项最高创新奖按国家划分，韩国以24项（61%）居首，美国5项、中国4项紧随其后，德国、瑞典、加拿大、日本各获1项。"
-              },
-              {
-                "t": "p",
-                "x": "三星电子凭借“Galaxy Z Fold8”和“Fold8 Ultra”拿下移动设备类2项最高奖。LG电子凭借“Signature OLED T6”获得CTA今年与拍卖行佳士得新设的艺术科技类最高奖。Shuolz凭借2款AI鞋登上无障碍·长寿类和时尚科技类榜首，AIBiz（AI）等初创企业、中小企业和大学也获奖。"
-              },
-              {
-                "t": "p",
-                "x": "参评作品激增74%的机器人类最高奖由中国人形机器人企业Galbot的“ET1”摘得。美国虽然只获得5项，但NVIDIA凭借“Vera CPU”和“DLSS 5”拿下计算机硬件和游戏类最高奖，Qualcomm凭借XR平台获得XR类最高奖。"
-              },
-              {
-                "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/11/news-t.v1.20261111.298baa5937ea4e60934770e35f71167a_P1.png",
-                "cap": "韩国、中国、美国“CES 2027”最高创新奖获奖名单（资料：CTA）"
-              },
-              {
-                "t": "p",
-                "x": "一位电子业界人士表示：“如果说韩国是在多个类别中均衡获奖，那么美国和中国则是握住了AI半导体和人形机器人等下一代产业的核心。”"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Corea gana el 61% de los\nmáximos premios de CES 2027",
-          "body": "Corea se llevó el 61% de los máximos premios a la innovación, pero China y EE. UU. ganaron en robots y chips de IA.",
-          "mini_headline": "Corea logra el 61% de los máximos premios de CES",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/10/news-p.v1.20261110.5fdedf20293c4a21af1be6aa3526c5f6_P1.jpg",
-                "cap": "El 'LG Signature OLED T', primer televisor transparente e inalámbrico del mundo, ganador de un máximo premio a la innovación de CES 2027"
-              },
-              {
-                "t": "p",
-                "x": "Las empresas coreanas se llevaron más de la mitad de los máximos premios a la innovación de 'CES 2027'. Sin embargo, China y Estados Unidos se quedaron con los máximos galardones en los campos que definirán el liderazgo de las industrias del futuro, como los robots y los semiconductores de inteligencia artificial (IA)."
-              },
-              {
-                "t": "p",
-                "x": "La Asociación de Tecnología de Consumo (CTA) anunció el día 9 (hora local) la primera tanda de ganadores de los Premios a la Innovación de CES 2027. Este año se presentaron unas 4.000 candidaturas, un 10% más que el año anterior y un récord histórico. Tres áreas, IA, salud digital y robótica, sumaron el 25% del total. Al clasificar por país los 38 máximos premios anunciados en la primera tanda, Corea fue el que más obtuvo, con 24 (61%). Le siguieron Estados Unidos con 5 y China con 4, mientras que Alemania, Suecia, Canadá y Japón recibieron uno cada uno."
-              },
-              {
-                "t": "p",
-                "x": "Samsung Electronics obtuvo dos máximos premios en la categoría móvil con el 'Galaxy Z Fold8' y el 'Fold8 Ultra'. LG Electronics ganó, con el 'Signature OLED T6', el máximo premio de la categoría de arte y tecnología, creada este año por la CTA junto con la casa de subastas Christie's. Shuolz encabezó las categorías de accesibilidad y longevidad y de tecnología de la moda con dos zapatos con IA, y también fueron premiadas startups, pymes y universidades como AIBiz (AI)."
-              },
-              {
-                "t": "p",
-                "x": "El máximo premio de robótica, categoría en la que las candidaturas se dispararon un 74%, fue para el 'ET1' de la empresa china de humanoides Galbot. Estados Unidos se quedó en 5, pero NVIDIA ganó los máximos premios de hardware informático y videojuegos con la 'Vera CPU' y 'DLSS 5', y Qualcomm se llevó el de XR con su plataforma XR."
-              },
-              {
-                "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/11/news-t.v1.20261111.298baa5937ea4e60934770e35f71167a_P1.png",
-                "cap": "Lista de ganadores de los máximos premios a la innovación de 'CES 2027' de Corea, China y Estados Unidos (Fuente: CTA)"
-              },
-              {
-                "t": "p",
-                "x": "Un responsable del sector electrónico afirmó: «Si Corea ganó de forma pareja en muchas categorías, Estados Unidos y China se hicieron con el núcleo de las industrias de próxima generación, como los semiconductores de IA y los humanoides»."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "en": {
-          "headline": "Korean firms win 61% of\nCES 2027 Best of Innovation",
-          "body": "Korea took 61% of the top innovation honors, but China and the U.S. won the top robot and AI chip awards.",
-          "mini_headline": "Korea wins 61% of CES top honors",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/10/news-p.v1.20261110.5fdedf20293c4a21af1be6aa3526c5f6_P1.jpg",
-                "cap": "The 'LG Signature OLED T', the world's first transparent wireless TV, which won a CES 2027 Best of Innovation award"
-              },
-              {
-                "t": "p",
-                "x": "Korean companies swept more than half of the 'CES 2027' Best of Innovation awards. However, China and the U.S. took the top awards in fields that will decide leadership in future industries, such as robots and artificial intelligence (AI) chips."
-              },
-              {
-                "t": "p",
-                "x": "The Consumer Technology Association (CTA) announced the first round of CES 2027 Innovation Award winners on the 9th (local time). This year's entries numbered about 4,000, up 10% from the previous year and a record high. Three fields, AI, digital health and robotics, accounted for 25% of all entries. Of the 38 Best of Innovation awards announced in the first round, Korea won the most, with 24 (61%). The U.S. followed with 5 and China with 4, while Germany, Sweden, Canada and Japan received one each."
-              },
-              {
-                "t": "p",
-                "x": "Samsung Electronics won two top awards in the mobile category with the 'Galaxy Z Fold8' and the 'Fold8 Ultra'. LG Electronics won, with the 'Signature OLED T6', the top award in the art tech category that the CTA created this year with auction house Christie's. Shuolz topped the accessibility & longevity and fashion tech categories with two AI shoes, and startups, small and mid-sized companies and universities such as AIBiz (AI) also won awards."
-              },
-              {
-                "t": "p",
-                "x": "The top award in robotics, where entries jumped 74%, went to the 'ET1' from Chinese humanoid company Galbot. The U.S. won only 5, but NVIDIA took the top awards in computer hardware and gaming with the 'Vera CPU' and 'DLSS 5', and Qualcomm won the top XR award with its XR platform."
-              },
-              {
-                "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/11/news-t.v1.20261111.298baa5937ea4e60934770e35f71167a_P1.png",
-                "cap": "Korean, Chinese and U.S. winners of the 'CES 2027' Best of Innovation awards (Source: CTA)"
-              },
-              {
-                "t": "p",
-                "x": "An electronics industry official said, “If Korea won evenly across many categories, the U.S. and China have in effect seized the core of next-generation industries, such as AI chips and humanoids.”"
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "CES 2027最高革新賞\n61%は韓国企業",
-          "body": "最高革新賞の61%を韓国が占めたが、ロボットとAIチップの最高賞は中米が手にした。",
-          "mini_headline": "CES最高革新賞、61%が韓国",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/10/news-p.v1.20261110.5fdedf20293c4a21af1be6aa3526c5f6_P1.jpg",
-                "cap": "CES 2027最高革新賞を受賞した世界初の透明・ワイヤレスTV「LG Signature OLED T」"
-              },
-              {
-                "t": "p",
-                "x": "韓国企業が「CES 2027」最高革新賞の半数以上を席巻した。ただし、ロボットや人工知能（AI）半導体など、未来産業の主導権がかかる分野の最高賞は中国と米国が手にした。"
-              },
-              {
-                "t": "p",
-                "x": "全米民生技術協会（CTA）は9日（現地時間）、CES 2027イノベーションアワードの第1次受賞作を発表した。今年の出品作は約4000件で、前年比10%増えて過去最多を記録した。AI・デジタルヘルス・ロボットの3分野が全出品作の25%を占めた。第1次で公開された最高革新賞38件を国別に分けると、韓国が24件（61%）で最も多かった。米国5件、中国4件が続き、ドイツ・スウェーデン・カナダ・日本が1件ずつ受賞した。"
-              },
-              {
-                "t": "p",
-                "x": "サムスン電子は「Galaxy Z Fold8」と「Fold8 Ultra」でモバイル部門の最高賞2件を受賞した。LG電子は「Signature OLED T6」で、CTAがオークションハウスのクリスティーズと今年新設したアートテック部門の最高賞を受けた。シュオルズはAIシューズ2種でアクセシビリティ・長寿部門とファッションテック部門の頂点に立ち、エーアイビズ（AI）などのスタートアップ・中小企業や大学も受賞した。"
-              },
-              {
-                "t": "p",
-                "x": "出品が74%急増したロボット部門の最高賞は、中国のヒューマノイド企業Galbotの「ET1」に渡った。米国は5件にとどまったが、NVIDIAが「Vera CPU」と「DLSS 5」でコンピューターハードウェア・ゲーミング部門を、QualcommがXRプラットフォームでXR部門の最高賞を受賞した。"
-              },
-              {
-                "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/11/news-t.v1.20261111.298baa5937ea4e60934770e35f71167a_P1.png",
-                "cap": "韓国・中国・米国の「CES 2027」最高革新賞受賞リスト（資料：CTA）"
-              },
-              {
-                "t": "p",
-                "x": "電子業界の関係者は「韓国が多くの部門でまんべんなく受賞したとすれば、米国と中国はAI半導体やヒューマノイドのように次世代産業の核心を握ったといえる」と述べた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "CES 2027最高创新奖\n61%归韩国企业",
-          "body": "最高创新奖61%由韩国企业获得，但机器人与AI芯片类最高奖归中美。",
-          "mini_headline": "CES最高创新奖61%归韩国",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/10/news-p.v1.20261110.5fdedf20293c4a21af1be6aa3526c5f6_P1.jpg",
-                "cap": "荣获CES 2027最高创新奖的全球首款透明无线电视“LG Signature OLED T”"
-              },
-              {
-                "t": "p",
-                "x": "韩国企业包揽了“CES 2027”最高创新奖的半数以上。不过，在机器人、人工智能（AI）半导体等关乎未来产业主导权的领域，最高奖被中国和美国收入囊中。"
-              },
-              {
-                "t": "p",
-                "x": "美国消费技术协会（CTA）于当地时间9日公布了CES 2027创新奖第一批获奖名单。今年参评作品约4000件，比上年增长10%，创历史新高。AI、数字健康、机器人三个领域占全部参评作品的25%。将第一批公布的38项最高创新奖按国家划分，韩国以24项（61%）居首，美国5项、中国4项紧随其后，德国、瑞典、加拿大、日本各获1项。"
-              },
-              {
-                "t": "p",
-                "x": "三星电子凭借“Galaxy Z Fold8”和“Fold8 Ultra”拿下移动设备类2项最高奖。LG电子凭借“Signature OLED T6”获得CTA今年与拍卖行佳士得新设的艺术科技类最高奖。Shuolz凭借2款AI鞋登上无障碍·长寿类和时尚科技类榜首，AIBiz（AI）等初创企业、中小企业和大学也获奖。"
-              },
-              {
-                "t": "p",
-                "x": "参评作品激增74%的机器人类最高奖由中国人形机器人企业Galbot的“ET1”摘得。美国虽然只获得5项，但NVIDIA凭借“Vera CPU”和“DLSS 5”拿下计算机硬件和游戏类最高奖，Qualcomm凭借XR平台获得XR类最高奖。"
-              },
-              {
-                "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/11/news-t.v1.20261111.298baa5937ea4e60934770e35f71167a_P1.png",
-                "cap": "韩国、中国、美国“CES 2027”最高创新奖获奖名单（资料：CTA）"
-              },
-              {
-                "t": "p",
-                "x": "一位电子业界人士表示：“如果说韩国是在多个类别中均衡获奖，那么美国和中国则是握住了AI半导体和人形机器人等下一代产业的核心。”"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Corea gana el 61% de los\nmáximos premios de CES 2027",
-          "body": "Corea se llevó el 61% de los máximos premios a la innovación, pero China y EE. UU. ganaron en robots y chips de IA.",
-          "mini_headline": "Corea logra el 61% de los máximos premios de CES",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/10/news-p.v1.20261110.5fdedf20293c4a21af1be6aa3526c5f6_P1.jpg",
-                "cap": "El 'LG Signature OLED T', primer televisor transparente e inalámbrico del mundo, ganador de un máximo premio a la innovación de CES 2027"
-              },
-              {
-                "t": "p",
-                "x": "Las empresas coreanas se llevaron más de la mitad de los máximos premios a la innovación de 'CES 2027'. Sin embargo, China y Estados Unidos se quedaron con los máximos galardones en los campos que definirán el liderazgo de las industrias del futuro, como los robots y los semiconductores de inteligencia artificial (IA)."
-              },
-              {
-                "t": "p",
-                "x": "La Asociación de Tecnología de Consumo (CTA) anunció el día 9 (hora local) la primera tanda de ganadores de los Premios a la Innovación de CES 2027. Este año se presentaron unas 4.000 candidaturas, un 10% más que el año anterior y un récord histórico. Tres áreas, IA, salud digital y robótica, sumaron el 25% del total. Al clasificar por país los 38 máximos premios anunciados en la primera tanda, Corea fue el que más obtuvo, con 24 (61%). Le siguieron Estados Unidos con 5 y China con 4, mientras que Alemania, Suecia, Canadá y Japón recibieron uno cada uno."
-              },
-              {
-                "t": "p",
-                "x": "Samsung Electronics obtuvo dos máximos premios en la categoría móvil con el 'Galaxy Z Fold8' y el 'Fold8 Ultra'. LG Electronics ganó, con el 'Signature OLED T6', el máximo premio de la categoría de arte y tecnología, creada este año por la CTA junto con la casa de subastas Christie's. Shuolz encabezó las categorías de accesibilidad y longevidad y de tecnología de la moda con dos zapatos con IA, y también fueron premiadas startups, pymes y universidades como AIBiz (AI)."
-              },
-              {
-                "t": "p",
-                "x": "El máximo premio de robótica, categoría en la que las candidaturas se dispararon un 74%, fue para el 'ET1' de la empresa china de humanoides Galbot. Estados Unidos se quedó en 5, pero NVIDIA ganó los máximos premios de hardware informático y videojuegos con la 'Vera CPU' y 'DLSS 5', y Qualcomm se llevó el de XR con su plataforma XR."
-              },
-              {
-                "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/11/news-t.v1.20261111.298baa5937ea4e60934770e35f71167a_P1.png",
-                "cap": "Lista de ganadores de los máximos premios a la innovación de 'CES 2027' de Corea, China y Estados Unidos (Fuente: CTA)"
-              },
-              {
-                "t": "p",
-                "x": "Un responsable del sector electrónico afirmó: «Si Corea ganó de forma pareja en muchas categorías, Estados Unidos y China se hicieron con el núcleo de las industrias de próxima generación, como los semiconductores de IA y los humanoides»."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "alexa-photo-frame-review",
+      "id": "slashvibe-agent-controller",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Alexa 포토 프레임\nAI가 사진을 골라준다",
-      "body": "AI가 사진을 골라 주는 Alexa 액자는 Prime 회원에게 가장 잘 맞는다.",
-      "mini_headline": "AI로 사진 고르는 Alexa 액자",
+      "headline": "오픈소스 SlashVibe\nAI 에이전트 컨트롤러",
+      "body": "SlashVibe는 SDKs를 갖춘 AI 에이전트 컨트롤러로 $189부터다.",
+      "mini_headline": "SlashVibe 에이전트 데스크 컨트롤러",
       "tool": "Gadgets",
-      "source": "Tom's Guide",
-      "url": "https://www.tomsguide.com/home/smart-home/amazon-alexa-photo-frame-review",
+      "source": "The Gadgeteer",
+      "url": "https://the-gadgeteer.com/2026/11/15/slashvibe-open-source-ai-agent-desk-controller/",
       "accent": "#f5a623",
       "motif": "headset",
       "full": {
@@ -1597,239 +1195,239 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/Z4o6D9xUVqVPSaZ8NmqJX3.jpg",
-            "cap": "(이미지 출처: Future)"
+            "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/slashvibe-hero-in-hand-1440.jpg",
+            "cap": "에이전트 세션이 대기, 완료, 작업 중으로 표시된 화면의 SlashVibe V1을 두 손으로 든 모습"
           },
           {
             "t": "p",
-            "x": "Tom's Guide 평가: Amazon Alexa Photo Frame은 AI로 방대한 사진 컬렉션을 똑똑하게 골라 깔끔하게 보여 준다. 다만 Amazon Prime 구독자에게 가장 잘 맞는다."
+            "x": "SlashVibe는 AI 에이전트용 분리형 컨트롤러를 단 작은 데스크 디스플레이다. 제작진은 이를 구동하는 데스크톱 앱, 펌웨어, 통신 프로토콜, SDK를 오픈소스로 공개한다. Kickstarter 캠페인은 2026년 11월 15일 기준 552명의 후원자에게서 $122,881을 모아 목표액 $10,000를 훌쩍 넘겼고, 12월 10일에 마감한다. Early Bird 후원가는 $189로 소매가 $249보다 $60 싸며, 첫 물량은 2027년 3월부터 출하될 예정이다."
           },
           {
             "t": "p",
-            "x": "설정을 마치고 처음 뜬 사진 가운데 하나는 16년 전 세상을 떠난 리뷰어의 아버지가 다람쥐에게 먹이를 주는 흑백 사진이었다. 제대로 쓰려면 Alexa+(월 19달러)나 Amazon Prime 구독(연 149달러)이 필요하다."
+            "x": "SlashVibe SDK는 Node.js나 Python만 있으면 된다. 코드는 사용자 컴퓨터에서 돌고, 인터페이스는 SlashVibe로 스트리밍된다. 첫 릴리스에는 훅 세 가지가 들어간다. 맞춤 화면 레이아웃, 버튼·조이스틱 이벤트, 음성을 받아 적은 텍스트다."
           },
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/S67kv6Bww23UK4MwXUdanF.jpg",
-            "cap": "(이미지 출처: Future)"
+            "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/slashvibe-sdk-spend-screen.jpg",
+            "cap": "월 예산 대비 API 지출을 추적하는 SlashVibe SDK 예시 화면"
           },
           {
             "t": "p",
-            "x": "액자는 사진 라이브러리 전체를 훑은 뒤 계절, 테마, 사물, 이벤트별로 사진을 불러온다. 가로 모드로만 작동하지만 세로 사진은 나란히 붙여 보여 준다. Alexa에게 “고양이와 아이들 사진 보여 줘”라고 말하면 맞춤 슬라이드쇼도 띄운다. 엉뚱한 사진이 나왔을 때 “Alexa, 그건 내 딸이 아니야”라고 하자 컬렉션을 고쳤다."
+            "x": "하드웨어는 3.96인치 LCD, Kailh 초저상 기계식 스위치, 2축 조이스틱, 듀얼 MEMS 마이크, 2W 스피커로 이뤄진다. 분리되는 컨트롤러는 2.4GHz 로 통신하며 500mAh 배터리로 20시간 간다."
           },
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/2cTbvaaoUPYULcGiLFAkua.jpg",
-            "cap": "(이미지 출처: Future)"
+            "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/slashvibe-agent-status-screen-closeup-1440.jpg",
+            "cap": "에이전트 세션이 대기, 완료, 작업 중으로 표시된 SlashVibe 디스플레이 클로즈업"
           },
           {
             "t": "p",
-            "x": "Alexa+ 스마트 스피커 역할도 하고 사진에 짧은 음성 메모를 붙일 수도 있다. 사양만 보면 229달러짜리 Aura Aspen, 179달러짜리 Lexar Pexar 같은 경쟁 제품보다 떨어지고 동영상도 재생하지 못한다. 그래도 Amazon이 Alexa+로 구현한 것만큼 모든 사진을 손쉽게 골라 주는 제품은 없다. 가격은 199.99달러다."
+            "x": "SlashVibe는 따로 설정하지 않아도 macOS와 Windows에서 Claude Code, Codex, Cursor, Copilot CLI, Gemini CLI 등 20개가 넘는 에이전트·도구와 함께 쓸 수 있다. 세션마다 실행 중, 완료, 대기 상태가 뜨고, 승인도 기기에서 바로 한다. 음성 입력은 100밀리초 안에 녹음을 시작하고 군말은 걸러낸다. 라이선스와 저장소는 아직 밝히지 않았다. 코드는 출하 전에 공개할 예정이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Amazon's Alexa Photo Frame\nlets AI curate your photos",
-          "body": "Tom's Guide finds the Alexa Photo Frame uses AI to curate large photo libraries, and it suits Prime subscribers best.",
-          "mini_headline": "Alexa Photo Frame\ncurates with AI",
+          "headline": "SlashVibe, an open-source\ndesk controller for AI agents",
+          "body": "SlashVibe, an open-source AI agent desk controller with Node.js and Python SDKs, starts at $189 on Kickstarter.",
+          "mini_headline": "SlashVibe agent desk controller",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Z4o6D9xUVqVPSaZ8NmqJX3.jpg",
-                "cap": "(Image credit: Future)"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/slashvibe-hero-in-hand-1440.jpg",
+                "cap": "SlashVibe V1 held in two hands with agent sessions marked waiting, done and working on its display"
               },
               {
                 "t": "p",
-                "x": "Tom's Guide verdict: The Amazon Alexa Photo Frame uses AI to smartly curate your huge collection of pictures, and present them in an orderly fashion. However, it's best for those who have an Amazon Prime subscription."
+                "x": "SlashVibe is a small desk display with a detachable controller for your AI agents, and its makers are open-sourcing the desktop app, firmware, communication protocol and SDK behind it. The Kickstarter had raised $122,881 against a $10,000 goal from 552 backers as of November 15, 2026, and closes on December 10. Early Bird pledges sit at $189, $60 under the $249 retail price, and the first batch is expected to start shipping in March 2027."
               },
               {
                 "t": "p",
-                "x": "After setup, one of the first images it displayed was a black-and-white picture of the reviewer's father, deceased for 16 years, feeding a squirrel. To get the most out of it, you need either an Alexa+ ($19/month) or an Amazon Prime subscription ($149/year)."
+                "x": "Node.js or Python is all the SlashVibe SDK needs. Your code runs on your computer and streams its interface to SlashVibe. Three hooks ship in the first release: custom screen layouts, button and joystick events, and the text transcribed from your voice."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/S67kv6Bww23UK4MwXUdanF.jpg",
-                "cap": "(Image credit: Future)"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/slashvibe-sdk-spend-screen.jpg",
+                "cap": "SlashVibe SDK example screen tracking API spend against a monthly budget"
               },
               {
                 "t": "p",
-                "x": "It combs through your entire library of images, then pulls them up based on criteria such as the time of year, themes, objects, and events. It works only in landscape mode, but pairs portrait photos side by side. You can also ask Alexa to “show me photos of cats and kids” for a curated slideshow; when wrong photos appeared, saying “Alexa, that's not my daughter” made it edit the collection."
+                "x": "The hardware has a 3.96-inch LCD, Kailh ultra-low-profile mechanical switches, a two-axis joystick, dual MEMS microphones and a 2W speaker; the controller detaches and talks over 2.4GHz on a 500mAh battery rated for 20 hours."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/2cTbvaaoUPYULcGiLFAkua.jpg",
-                "cap": "(Image credit: Future)"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/slashvibe-agent-status-screen-closeup-1440.jpg",
+                "cap": "SlashVibe display close-up showing agent sessions marked waiting, done and working"
               },
               {
                 "t": "p",
-                "x": "It doubles as an Alexa+ smart speaker and lets you attach short audio notes to pictures. Specs-wise it trails rivals such as the $229 Aura Aspen and $179 Lexar Pexar, and it can't play videos — but neither makes curating all your photos as effortless as Amazon does with Alexa+. It sells for $199.99."
+                "x": "Out of the box, SlashVibe works with more than 20 agents and tools on macOS and Windows, including Claude Code, Codex, Cursor, Copilot CLI and Gemini CLI. Every session shows as running, done or waiting, and approvals happen on the device. Voice input starts recording in under 100 milliseconds and strips filler words. No license or repository has been named yet; the code will be published before shipping."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Alexa 포토 프레임\nAI가 사진을 골라준다",
-          "body": "AI가 사진을 골라 주는 Alexa 액자는 Prime 회원에게 가장 잘 맞는다.",
-          "mini_headline": "AI로 사진 고르는 Alexa 액자",
+          "headline": "오픈소스 SlashVibe\nAI 에이전트 컨트롤러",
+          "body": "SlashVibe는 SDKs를 갖춘 AI 에이전트 컨트롤러로 $189부터다.",
+          "mini_headline": "SlashVibe 에이전트 데스크 컨트롤러",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Z4o6D9xUVqVPSaZ8NmqJX3.jpg",
-                "cap": "(이미지 출처: Future)"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/slashvibe-hero-in-hand-1440.jpg",
+                "cap": "에이전트 세션이 대기, 완료, 작업 중으로 표시된 화면의 SlashVibe V1을 두 손으로 든 모습"
               },
               {
                 "t": "p",
-                "x": "Tom's Guide 평가: Amazon Alexa Photo Frame은 AI로 방대한 사진 컬렉션을 똑똑하게 골라 깔끔하게 보여 준다. 다만 Amazon Prime 구독자에게 가장 잘 맞는다."
+                "x": "SlashVibe는 AI 에이전트용 분리형 컨트롤러를 단 작은 데스크 디스플레이다. 제작진은 이를 구동하는 데스크톱 앱, 펌웨어, 통신 프로토콜, SDK를 오픈소스로 공개한다. Kickstarter 캠페인은 2026년 11월 15일 기준 552명의 후원자에게서 $122,881을 모아 목표액 $10,000를 훌쩍 넘겼고, 12월 10일에 마감한다. Early Bird 후원가는 $189로 소매가 $249보다 $60 싸며, 첫 물량은 2027년 3월부터 출하될 예정이다."
               },
               {
                 "t": "p",
-                "x": "설정을 마치고 처음 뜬 사진 가운데 하나는 16년 전 세상을 떠난 리뷰어의 아버지가 다람쥐에게 먹이를 주는 흑백 사진이었다. 제대로 쓰려면 Alexa+(월 19달러)나 Amazon Prime 구독(연 149달러)이 필요하다."
+                "x": "SlashVibe SDK는 Node.js나 Python만 있으면 된다. 코드는 사용자 컴퓨터에서 돌고, 인터페이스는 SlashVibe로 스트리밍된다. 첫 릴리스에는 훅 세 가지가 들어간다. 맞춤 화면 레이아웃, 버튼·조이스틱 이벤트, 음성을 받아 적은 텍스트다."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/S67kv6Bww23UK4MwXUdanF.jpg",
-                "cap": "(이미지 출처: Future)"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/slashvibe-sdk-spend-screen.jpg",
+                "cap": "월 예산 대비 API 지출을 추적하는 SlashVibe SDK 예시 화면"
               },
               {
                 "t": "p",
-                "x": "액자는 사진 라이브러리 전체를 훑은 뒤 계절, 테마, 사물, 이벤트별로 사진을 불러온다. 가로 모드로만 작동하지만 세로 사진은 나란히 붙여 보여 준다. Alexa에게 “고양이와 아이들 사진 보여 줘”라고 말하면 맞춤 슬라이드쇼도 띄운다. 엉뚱한 사진이 나왔을 때 “Alexa, 그건 내 딸이 아니야”라고 하자 컬렉션을 고쳤다."
+                "x": "하드웨어는 3.96인치 LCD, Kailh 초저상 기계식 스위치, 2축 조이스틱, 듀얼 MEMS 마이크, 2W 스피커로 이뤄진다. 분리되는 컨트롤러는 2.4GHz 로 통신하며 500mAh 배터리로 20시간 간다."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/2cTbvaaoUPYULcGiLFAkua.jpg",
-                "cap": "(이미지 출처: Future)"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/slashvibe-agent-status-screen-closeup-1440.jpg",
+                "cap": "에이전트 세션이 대기, 완료, 작업 중으로 표시된 SlashVibe 디스플레이 클로즈업"
               },
               {
                 "t": "p",
-                "x": "Alexa+ 스마트 스피커 역할도 하고 사진에 짧은 음성 메모를 붙일 수도 있다. 사양만 보면 229달러짜리 Aura Aspen, 179달러짜리 Lexar Pexar 같은 경쟁 제품보다 떨어지고 동영상도 재생하지 못한다. 그래도 Amazon이 Alexa+로 구현한 것만큼 모든 사진을 손쉽게 골라 주는 제품은 없다. 가격은 199.99달러다."
+                "x": "SlashVibe는 따로 설정하지 않아도 macOS와 Windows에서 Claude Code, Codex, Cursor, Copilot CLI, Gemini CLI 등 20개가 넘는 에이전트·도구와 함께 쓸 수 있다. 세션마다 실행 중, 완료, 대기 상태가 뜨고, 승인도 기기에서 바로 한다. 음성 입력은 100밀리초 안에 녹음을 시작하고 군말은 걸러낸다. 라이선스와 저장소는 아직 밝히지 않았다. 코드는 출하 전에 공개할 예정이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AmazonのAlexa\nフォトフレームはAIが厳選",
-          "body": "AIが写真を選ぶAlexaのフォトフレームは、Prime会員に最も向いている。",
-          "mini_headline": "AIが選ぶAlexaフォトフレーム",
+          "headline": "SlashVibe、AI\nエージェント用操作卓",
+          "body": "SlashVibeはSDKsを備えたAIエージェント用コントローラーで、$189からだ。",
+          "mini_headline": "SlashVibeのエージェント用卓上コントローラー",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Z4o6D9xUVqVPSaZ8NmqJX3.jpg",
-                "cap": "（画像提供：Future）"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/slashvibe-hero-in-hand-1440.jpg",
+                "cap": "画面に待機中・完了・作業中のエージェントセッションを表示したSlashVibe V1を両手で持った様子"
               },
               {
                 "t": "p",
-                "x": "Tom's Guideの評価：Amazon Alexa Photo Frameは、AIで膨大な写真コレクションを賢く選別し、整然と表示する。ただし、Amazon Primeの会員に最も向いている。"
+                "x": "SlashVibeはAIエージェント用の着脱式コントローラーを備えた小型の卓上ディスプレイで、開発元はそれを支えるデスクトップアプリ、ファームウェア、通信プロトコル、SDKをオープンソース化する。Kickstarterでは2026年11月15日時点で552人の支援者から目標額$10,000に対し$122,881を集めており、12月10日に終了する。Early Birdの支援額は小売価格$249より$60安い$189で、最初のロットは2027年3月に出荷が始まる見込みだ。"
               },
               {
                 "t": "p",
-                "x": "セットアップ後、最初に表示された写真の一枚は、16年前に亡くなったレビュアーの父親がリスに餌をやる白黒写真だった。最大限に活用するには、Alexa+（月額19ドル）かAmazon Primeの会員（年額149ドル）が必要だ。"
+                "x": "SlashVibe SDKに必要なのはNode.jsかPythonだけだ。コードは手元のコンピューターで動き、そのインターフェースをSlashVibeにストリーミングする。最初のリリースには、カスタム画面レイアウト、ボタンとジョイスティックのイベント、音声を書き起こしたテキストという三つのフックが入る。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/S67kv6Bww23UK4MwXUdanF.jpg",
-                "cap": "（画像提供：Future）"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/slashvibe-sdk-spend-screen.jpg",
+                "cap": "月間予算に対するAPI支出を追跡するSlashVibe SDKのサンプル画面"
               },
               {
                 "t": "p",
-                "x": "写真ライブラリ全体をくまなく調べ、季節、テーマ、物、イベントといった基準で写真を呼び出す。横向きモードでしか動作しないが、縦向きの写真は横に並べて表示する。Alexaに「猫と子どもの写真を見せて」と頼めば、厳選されたスライドショーも見られる。違う写真が出たときに「Alexa、それは私の娘じゃない」と言うと、コレクションを修正した。"
+                "x": "ハードウェアは3.96インチLCD、Kailhの超薄型メカニカルスイッチ、2軸ジョイスティック、デュアルMEMSマイク、2W スピーカーを備える。コントローラーは取り外し可能で2.4GHz で通信し、500mAh バッテリーで20時間使える。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/2cTbvaaoUPYULcGiLFAkua.jpg",
-                "cap": "（画像提供：Future）"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/slashvibe-agent-status-screen-closeup-1440.jpg",
+                "cap": "待機中・完了・作業中のエージェントセッションを表示するSlashVibeディスプレイのクローズアップ"
               },
               {
                 "t": "p",
-                "x": "Alexa+対応のスマートスピーカーとしても使え、写真に短い音声メモを添えられる。スペック面では229ドルのAura Aspenや179ドルのLexar Pexarといった競合に劣り、動画も再生できない。だが、Alexa+を使ったAmazonほど、すべての写真の選別を手軽にしてくれる製品はない。価格は199.99ドルだ。"
+                "x": "SlashVibeは初期状態でmacOSとWindows上のClaude Code、Codex、Cursor、Copilot CLI、Gemini CLIなど20を超えるエージェントやツールに対応する。各セッションは実行中、完了、待機として表示され、承認はデバイス上で行う。音声入力は100ミリ秒以内に録音を始め、言いよどみを取り除く。ライセンスやリポジトリはまだ明らかにされておらず、コードは出荷前に公開される。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Amazon Alexa相框\n让AI替你挑照片",
-          "body": "Tom's Guide认为，Alexa相框能用AI整理海量照片，最适合Prime会员。",
-          "mini_headline": "AI挑照片的Alexa相框",
+          "headline": "开源SlashVibe\nAI智能体桌面控制器",
+          "body": "SlashVibe是配备SDKs的开源AI智能体控制器，Kickstarter起价$189。",
+          "mini_headline": "SlashVibe智能体桌面控制器",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Z4o6D9xUVqVPSaZ8NmqJX3.jpg",
-                "cap": "（图片来源：Future）"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/slashvibe-hero-in-hand-1440.jpg",
+                "cap": "双手握持SlashVibe V1，屏幕上显示标为等待、完成和工作中的智能体会话"
               },
               {
                 "t": "p",
-                "x": "Tom's Guide评测结论：Amazon Alexa Photo Frame利用AI巧妙地整理你的海量照片，并有条理地呈现出来。不过，它最适合拥有Amazon Prime订阅的用户。"
+                "x": "SlashVibe是一款配有可拆卸AI智能体控制器的小型桌面显示屏，开发团队将开源其背后的桌面应用、固件、通信协议和SDK。截至2026年11月15日，其Kickstarter众筹已从552名支持者处筹得$122,881，目标为$10,000，将于12月10日结束。Early Bird档位为$189，比$249的零售价低$60，首批产品预计于2027年3月开始发货。"
               },
               {
                 "t": "p",
-                "x": "完成设置后，它最先显示的照片之一，是评测者已去世16年的父亲给松鼠喂食的黑白照片。要充分发挥它的作用，你需要订阅Alexa+（每月19美元）或Amazon Prime（每年149美元）。"
+                "x": "SlashVibe SDK只需要Node.js或Python。代码在你的电脑上运行，并将界面串流到SlashVibe。首个版本提供三个钩子：自定义屏幕布局、按键与摇杆事件，以及语音转写出的文本。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/S67kv6Bww23UK4MwXUdanF.jpg",
-                "cap": "（图片来源：Future）"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/slashvibe-sdk-spend-screen.jpg",
+                "cap": "SlashVibe SDK示例界面，按月度预算追踪API支出"
               },
               {
                 "t": "p",
-                "x": "它会梳理你的整个照片库，再按一年中的时节、主题、物体和事件等标准调出照片。它只支持横屏模式，但会把竖拍照片并排显示。你还可以让Alexa“给我看猫和孩子的照片”，获得一段精选幻灯片；出现错误照片时，说一句“Alexa，那不是我女儿”，它就会修改照片集。"
+                "x": "硬件配备3.96英寸LCD、Kailh超矮机械轴、双轴摇杆、双MEMS麦克风和2W 扬声器；控制器可拆卸，通过2.4GHz 通信，内置500mAh 电池，续航20小时。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/2cTbvaaoUPYULcGiLFAkua.jpg",
-                "cap": "（图片来源：Future）"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/slashvibe-agent-status-screen-closeup-1440.jpg",
+                "cap": "SlashVibe显示屏特写，智能体会话标为等待、完成和工作中"
               },
               {
                 "t": "p",
-                "x": "它还可以兼作Alexa+智能音箱，并能为照片附上简短的语音备注。在规格上，它不及229美元的Aura Aspen和179美元的Lexar Pexar等竞品，也无法播放视频——但没有哪款产品能像Amazon借助Alexa+那样，让整理全部照片变得如此轻松。售价为199.99美元。"
+                "x": "SlashVibe开箱即可在macOS和Windows上配合20多个智能体和工具使用，包括Claude Code、Codex、Cursor、Copilot CLI和Gemini CLI。每个会话显示为运行中、完成或等待，审批直接在设备上完成。语音输入在100毫秒内开始录音，并去除口头填充词。许可证和代码仓库尚未公布；代码将在发货前公开。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Amazon Alexa Photo Frame deja\nque la IA seleccione sus fotos",
-          "body": "Según Tom's Guide, el Alexa Photo Frame usa IA para curar grandes colecciones de fotos y encaja mejor con Prime.",
-          "mini_headline": "Alexa Photo Frame cura fotos con IA",
+          "headline": "SlashVibe, un control de código\nabierto para agentes de IA",
+          "body": "El controlador abierto SlashVibe para agentes de IA, con SDKs de Node.js y Python, parte de $189 en Kickstarter.",
+          "mini_headline": "SlashVibe, controlador de escritorio para agentes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Z4o6D9xUVqVPSaZ8NmqJX3.jpg",
-                "cap": "(Crédito de la imagen: Future)"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/slashvibe-hero-in-hand-1440.jpg",
+                "cap": "SlashVibe V1 sostenido con ambas manos, con sesiones de agentes marcadas como en espera, terminada y en curso en su pantalla"
               },
               {
                 "t": "p",
-                "x": "Veredicto de Tom's Guide: el Amazon Alexa Photo Frame usa IA para seleccionar con inteligencia tu enorme colección de fotos y mostrarlas de forma ordenada. Sin embargo, es más adecuado para quienes tienen una suscripción a Amazon Prime."
+                "x": "SlashVibe es una pequeña pantalla de escritorio con un controlador desmontable para tus agentes de IA, y sus creadores liberarán como código abierto la aplicación de escritorio, el firmware, el protocolo de comunicación y el SDK que la hacen funcionar. A 15 de noviembre de 2026, la campaña de Kickstarter había recaudado $122,881 frente a una meta de $10,000 con 552 patrocinadores, y cierra el 10 de diciembre. Las aportaciones Early Bird cuestan $189, $60 menos que el precio de venta de $249, y se espera que el primer lote empiece a enviarse en marzo de 2027."
               },
               {
                 "t": "p",
-                "x": "Tras la configuración, una de las primeras imágenes que mostró fue una foto en blanco y negro del padre del autor de la reseña, fallecido hace 16 años, dando de comer a una ardilla. Para aprovecharlo al máximo se necesita Alexa+ ($19 al mes) o una suscripción a Amazon Prime ($149 al año)."
+                "x": "El SlashVibe SDK solo necesita Node.js o Python. Tu código se ejecuta en tu ordenador y transmite su interfaz a SlashVibe. La primera versión incluye tres hooks: diseños de pantalla personalizados, eventos de botones y joystick, y el texto transcrito de tu voz."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/S67kv6Bww23UK4MwXUdanF.jpg",
-                "cap": "(Crédito de la imagen: Future)"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/slashvibe-sdk-spend-screen.jpg",
+                "cap": "Pantalla de ejemplo del SlashVibe SDK que sigue el gasto en API frente a un presupuesto mensual"
               },
               {
                 "t": "p",
-                "x": "Revisa toda la biblioteca de imágenes y luego las muestra según criterios como la época del año, temas, objetos y eventos. Solo funciona en modo horizontal, pero coloca las fotos verticales una junto a otra. También se le puede pedir a Alexa «muéstrame fotos de gatos y niños» para obtener una presentación seleccionada; cuando aparecieron fotos equivocadas, decir «Alexa, esa no es mi hija» hizo que corrigiera la colección."
+                "x": "El hardware tiene una LCD de 3.96 pulgadas, interruptores mecánicos Kailh de perfil ultrabajo, un joystick de dos ejes, dos micrófonos MEMS y un altavoz de 2W; el controlador se desmonta y se comunica a 2.4GHz con una batería de 500mAh que dura 20 horas."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/2cTbvaaoUPYULcGiLFAkua.jpg",
-                "cap": "(Crédito de la imagen: Future)"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/slashvibe-agent-status-screen-closeup-1440.jpg",
+                "cap": "Primer plano de la pantalla de SlashVibe con sesiones de agentes marcadas como en espera, terminada y en curso"
               },
               {
                 "t": "p",
-                "x": "También funciona como altavoz inteligente con Alexa+ y permite añadir notas de audio breves a las fotos. En especificaciones queda por detrás de rivales como el Aura Aspen de $229 y el Lexar Pexar de $179, y no reproduce videos, pero ninguno hace tan sencillo seleccionar todas tus fotos como Amazon con Alexa+. Se vende por $199,99."
+                "x": "De serie, SlashVibe funciona con más de 20 agentes y herramientas en macOS y Windows, entre ellos Claude Code, Codex, Cursor, Copilot CLI y Gemini CLI. Cada sesión aparece como en ejecución, terminada o en espera, y las aprobaciones se hacen en el dispositivo. La entrada de voz empieza a grabar en menos de 100 milisegundos y elimina las muletillas. Aún no se ha indicado licencia ni repositorio; el código se publicará antes de los envíos."
               }
             ]
           }
@@ -1837,169 +1435,432 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Alexa 포토 프레임,\nAI가 사진을 골라준다",
-          "body": "AI로 사진을 골라 주는 Alexa 액자는 Prime 회원에게 가장 알맞다.",
-          "mini_headline": "AI로 사진 고르는 Alexa 액자",
+          "headline": "오픈소스 SlashVibe\nAI 에이전트 컨트롤러",
+          "body": "SlashVibe는 SDKs를 갖춘 AI 에이전트 컨트롤러로 $189부터다.",
+          "mini_headline": "SlashVibe 에이전트 데스크 컨트롤러",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Z4o6D9xUVqVPSaZ8NmqJX3.jpg",
-                "cap": "(이미지 출처: Future)"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/slashvibe-hero-in-hand-1440.jpg",
+                "cap": "에이전트 세션이 대기, 완료, 작업 중으로 표시된 화면의 SlashVibe V1을 두 손으로 든 모습"
               },
               {
                 "t": "p",
-                "x": "Tom's Guide 평가: Amazon Alexa Photo Frame은 AI로 방대한 사진 컬렉션을 똑똑하게 골라 정돈된 방식으로 보여 준다. 다만 Amazon Prime 구독자에게 가장 잘 맞는다."
+                "x": "SlashVibe는 AI 에이전트용 분리형 컨트롤러가 달린 작은 데스크 디스플레이로, 제작진은 이를 구동하는 데스크톱 앱, 펌웨어, 통신 프로토콜, SDK를 오픈소스로 공개한다. Kickstarter 캠페인은 2026년 11월 15일 기준 552명의 후원자에게서 목표액 $10,000 대비 $122,881을 모았고, 12월 10일에 마감한다. Early Bird 후원가는 소매가 $249보다 $60 낮은 $189이며, 첫 물량은 2027년 3월 출하를 시작할 예정이다."
               },
               {
                 "t": "p",
-                "x": "설정을 마친 뒤 처음 띄운 사진 가운데 하나는 16년 전 세상을 떠난 리뷰어의 아버지가 다람쥐에게 먹이를 주는 흑백 사진이었다. 제대로 활용하려면 Alexa+(월 19달러)나 Amazon Prime 구독(연 149달러)이 필요하다."
+                "x": "SlashVibe SDK에 필요한 것은 Node.js나 Python뿐이다. 코드는 사용자의 컴퓨터에서 돌고, 인터페이스를 SlashVibe로 스트리밍한다. 첫 릴리스에는 맞춤 화면 레이아웃, 버튼과 조이스틱 이벤트, 음성을 받아 적은 텍스트라는 세 가지 훅이 들어간다."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/S67kv6Bww23UK4MwXUdanF.jpg",
-                "cap": "(이미지 출처: Future)"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/slashvibe-sdk-spend-screen.jpg",
+                "cap": "월 예산 대비 API 지출을 추적하는 SlashVibe SDK 예시 화면"
               },
               {
                 "t": "p",
-                "x": "이 액자는 사진 라이브러리 전체를 훑은 뒤 계절, 테마, 사물, 이벤트 같은 기준에 따라 사진을 불러온다. 가로 모드로만 작동하지만 세로 사진은 나란히 붙여 보여 준다. Alexa에게 “고양이와 아이들 사진 보여 줘”라고 하면 큐레이션된 슬라이드쇼도 볼 수 있다. 엉뚱한 사진이 나왔을 때 “Alexa, 그건 내 딸이 아니야”라고 말하자 컬렉션을 수정했다."
+                "x": "하드웨어는 3.96인치 LCD, Kailh 초저상 기계식 스위치, 2축 조이스틱, 듀얼 MEMS 마이크, 2W 스피커를 갖췄다. 컨트롤러는 분리되며 2.4GHz 로 통신하고, 500mAh 배터리로 20시간 쓸 수 있다."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/2cTbvaaoUPYULcGiLFAkua.jpg",
-                "cap": "(이미지 출처: Future)"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/slashvibe-agent-status-screen-closeup-1440.jpg",
+                "cap": "에이전트 세션이 대기, 완료, 작업 중으로 표시된 SlashVibe 디스플레이 클로즈업"
               },
               {
                 "t": "p",
-                "x": "Alexa+ 스마트 스피커 역할도 하고, 사진에 짧은 음성 메모를 붙일 수도 있다. 사양 면에서는 229달러짜리 Aura Aspen, 179달러짜리 Lexar Pexar 같은 경쟁 제품에 뒤지고 동영상도 재생하지 못한다. 하지만 어느 쪽도 Amazon이 Alexa+로 구현한 것만큼 모든 사진을 손쉽게 골라 주지는 못한다. 가격은 199.99달러다."
+                "x": "SlashVibe는 별도 설정 없이 macOS와 Windows에서 Claude Code, Codex, Cursor, Copilot CLI, Gemini CLI 등 20개가 넘는 에이전트와 도구와 함께 쓸 수 있다. 모든 세션은 실행 중, 완료, 대기로 표시되고, 승인은 기기에서 처리한다. 음성 입력은 100밀리초 안에 녹음을 시작하며 군말을 걸러낸다. 라이선스와 저장소는 아직 밝히지 않았고, 코드는 출하 전에 공개할 예정이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AmazonのAlexa\nフォトフレームはAIが厳選",
-          "body": "AIが写真を選ぶAlexaのフォトフレームは、Prime会員に最も向いている。",
-          "mini_headline": "AIが選ぶAlexaフォトフレーム",
+          "headline": "SlashVibe、AI\nエージェント用操作卓",
+          "body": "SlashVibeはSDKsを備えたAIエージェント用コントローラーで、$189からだ。",
+          "mini_headline": "SlashVibeのエージェント用卓上コントローラー",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Z4o6D9xUVqVPSaZ8NmqJX3.jpg",
-                "cap": "（画像提供：Future）"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/slashvibe-hero-in-hand-1440.jpg",
+                "cap": "画面に待機中・完了・作業中のエージェントセッションを表示したSlashVibe V1を両手で持った様子"
               },
               {
                 "t": "p",
-                "x": "Tom's Guideの評価：Amazon Alexa Photo Frameは、AIで膨大な写真コレクションを賢く選別し、整然と表示する。ただし、Amazon Primeの会員に最も向いている。"
+                "x": "SlashVibeはAIエージェント用の着脱式コントローラーを備えた小型の卓上ディスプレイで、開発元はそれを支えるデスクトップアプリ、ファームウェア、通信プロトコル、SDKをオープンソース化する。Kickstarterでは2026年11月15日時点で552人の支援者から目標額$10,000に対し$122,881を集めており、12月10日に終了する。Early Birdの支援額は小売価格$249より$60安い$189で、最初のロットは2027年3月に出荷が始まる見込みだ。"
               },
               {
                 "t": "p",
-                "x": "セットアップ後、最初に表示された写真の一枚は、16年前に亡くなったレビュアーの父親がリスに餌をやる白黒写真だった。最大限に活用するには、Alexa+（月額19ドル）かAmazon Primeの会員（年額149ドル）が必要だ。"
+                "x": "SlashVibe SDKに必要なのはNode.jsかPythonだけだ。コードは手元のコンピューターで動き、そのインターフェースをSlashVibeにストリーミングする。最初のリリースには、カスタム画面レイアウト、ボタンとジョイスティックのイベント、音声を書き起こしたテキストという三つのフックが入る。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/S67kv6Bww23UK4MwXUdanF.jpg",
-                "cap": "（画像提供：Future）"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/slashvibe-sdk-spend-screen.jpg",
+                "cap": "月間予算に対するAPI支出を追跡するSlashVibe SDKのサンプル画面"
               },
               {
                 "t": "p",
-                "x": "写真ライブラリ全体をくまなく調べ、季節、テーマ、物、イベントといった基準で写真を呼び出す。横向きモードでしか動作しないが、縦向きの写真は横に並べて表示する。Alexaに「猫と子どもの写真を見せて」と頼めば、厳選されたスライドショーも見られる。違う写真が出たときに「Alexa、それは私の娘じゃない」と言うと、コレクションを修正した。"
+                "x": "ハードウェアは3.96インチLCD、Kailhの超薄型メカニカルスイッチ、2軸ジョイスティック、デュアルMEMSマイク、2W スピーカーを備える。コントローラーは取り外し可能で2.4GHz で通信し、500mAh バッテリーで20時間使える。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/2cTbvaaoUPYULcGiLFAkua.jpg",
-                "cap": "（画像提供：Future）"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/slashvibe-agent-status-screen-closeup-1440.jpg",
+                "cap": "待機中・完了・作業中のエージェントセッションを表示するSlashVibeディスプレイのクローズアップ"
               },
               {
                 "t": "p",
-                "x": "Alexa+対応のスマートスピーカーとしても使え、写真に短い音声メモを添えられる。スペック面では229ドルのAura Aspenや179ドルのLexar Pexarといった競合に劣り、動画も再生できない。だが、Alexa+を使ったAmazonほど、すべての写真の選別を手軽にしてくれる製品はない。価格は199.99ドルだ。"
+                "x": "SlashVibeは初期状態でmacOSとWindows上のClaude Code、Codex、Cursor、Copilot CLI、Gemini CLIなど20を超えるエージェントやツールに対応する。各セッションは実行中、完了、待機として表示され、承認はデバイス上で行う。音声入力は100ミリ秒以内に録音を始め、言いよどみを取り除く。ライセンスやリポジトリはまだ明らかにされておらず、コードは出荷前に公開される。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Amazon Alexa相框\n让AI替你挑照片",
-          "body": "Tom's Guide认为，Alexa相框能用AI整理海量照片，最适合Prime会员。",
-          "mini_headline": "AI挑照片的Alexa相框",
+          "headline": "开源SlashVibe\nAI智能体桌面控制器",
+          "body": "SlashVibe是配备SDKs的开源AI智能体控制器，Kickstarter起价$189。",
+          "mini_headline": "SlashVibe智能体桌面控制器",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Z4o6D9xUVqVPSaZ8NmqJX3.jpg",
-                "cap": "（图片来源：Future）"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/slashvibe-hero-in-hand-1440.jpg",
+                "cap": "双手握持SlashVibe V1，屏幕上显示标为等待、完成和工作中的智能体会话"
               },
               {
                 "t": "p",
-                "x": "Tom's Guide评测结论：Amazon Alexa Photo Frame利用AI巧妙地整理你的海量照片，并有条理地呈现出来。不过，它最适合拥有Amazon Prime订阅的用户。"
+                "x": "SlashVibe是一款配有可拆卸AI智能体控制器的小型桌面显示屏，开发团队将开源其背后的桌面应用、固件、通信协议和SDK。截至2026年11月15日，其Kickstarter众筹已从552名支持者处筹得$122,881，目标为$10,000，将于12月10日结束。Early Bird档位为$189，比$249的零售价低$60，首批产品预计于2027年3月开始发货。"
               },
               {
                 "t": "p",
-                "x": "完成设置后，它最先显示的照片之一，是评测者已去世16年的父亲给松鼠喂食的黑白照片。要充分发挥它的作用，你需要订阅Alexa+（每月19美元）或Amazon Prime（每年149美元）。"
+                "x": "SlashVibe SDK只需要Node.js或Python。代码在你的电脑上运行，并将界面串流到SlashVibe。首个版本提供三个钩子：自定义屏幕布局、按键与摇杆事件，以及语音转写出的文本。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/S67kv6Bww23UK4MwXUdanF.jpg",
-                "cap": "（图片来源：Future）"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/slashvibe-sdk-spend-screen.jpg",
+                "cap": "SlashVibe SDK示例界面，按月度预算追踪API支出"
               },
               {
                 "t": "p",
-                "x": "它会梳理你的整个照片库，再按一年中的时节、主题、物体和事件等标准调出照片。它只支持横屏模式，但会把竖拍照片并排显示。你还可以让Alexa“给我看猫和孩子的照片”，获得一段精选幻灯片；出现错误照片时，说一句“Alexa，那不是我女儿”，它就会修改照片集。"
+                "x": "硬件配备3.96英寸LCD、Kailh超矮机械轴、双轴摇杆、双MEMS麦克风和2W 扬声器；控制器可拆卸，通过2.4GHz 通信，内置500mAh 电池，续航20小时。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/2cTbvaaoUPYULcGiLFAkua.jpg",
-                "cap": "（图片来源：Future）"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/slashvibe-agent-status-screen-closeup-1440.jpg",
+                "cap": "SlashVibe显示屏特写，智能体会话标为等待、完成和工作中"
               },
               {
                 "t": "p",
-                "x": "它还可以兼作Alexa+智能音箱，并能为照片附上简短的语音备注。在规格上，它不及229美元的Aura Aspen和179美元的Lexar Pexar等竞品，也无法播放视频——但没有哪款产品能像Amazon借助Alexa+那样，让整理全部照片变得如此轻松。售价为199.99美元。"
+                "x": "SlashVibe开箱即可在macOS和Windows上配合20多个智能体和工具使用，包括Claude Code、Codex、Cursor、Copilot CLI和Gemini CLI。每个会话显示为运行中、完成或等待，审批直接在设备上完成。语音输入在100毫秒内开始录音，并去除口头填充词。许可证和代码仓库尚未公布；代码将在发货前公开。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Amazon Alexa Photo Frame deja\nque la IA seleccione sus fotos",
-          "body": "Según Tom's Guide, el Alexa Photo Frame usa IA para curar grandes colecciones de fotos y encaja mejor con Prime.",
-          "mini_headline": "Alexa Photo Frame cura fotos con IA",
+          "headline": "SlashVibe, un control de código\nabierto para agentes de IA",
+          "body": "El controlador abierto SlashVibe para agentes de IA, con SDKs de Node.js y Python, parte de $189 en Kickstarter.",
+          "mini_headline": "SlashVibe, controlador de escritorio para agentes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Z4o6D9xUVqVPSaZ8NmqJX3.jpg",
-                "cap": "(Crédito de la imagen: Future)"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/slashvibe-hero-in-hand-1440.jpg",
+                "cap": "SlashVibe V1 sostenido con ambas manos, con sesiones de agentes marcadas como en espera, terminada y en curso en su pantalla"
               },
               {
                 "t": "p",
-                "x": "Veredicto de Tom's Guide: el Amazon Alexa Photo Frame usa IA para seleccionar con inteligencia tu enorme colección de fotos y mostrarlas de forma ordenada. Sin embargo, es más adecuado para quienes tienen una suscripción a Amazon Prime."
+                "x": "SlashVibe es una pequeña pantalla de escritorio con un controlador desmontable para tus agentes de IA, y sus creadores liberarán como código abierto la aplicación de escritorio, el firmware, el protocolo de comunicación y el SDK que la hacen funcionar. A 15 de noviembre de 2026, la campaña de Kickstarter había recaudado $122,881 frente a una meta de $10,000 con 552 patrocinadores, y cierra el 10 de diciembre. Las aportaciones Early Bird cuestan $189, $60 menos que el precio de venta de $249, y se espera que el primer lote empiece a enviarse en marzo de 2027."
               },
               {
                 "t": "p",
-                "x": "Tras la configuración, una de las primeras imágenes que mostró fue una foto en blanco y negro del padre del autor de la reseña, fallecido hace 16 años, dando de comer a una ardilla. Para aprovecharlo al máximo se necesita Alexa+ ($19 al mes) o una suscripción a Amazon Prime ($149 al año)."
+                "x": "El SlashVibe SDK solo necesita Node.js o Python. Tu código se ejecuta en tu ordenador y transmite su interfaz a SlashVibe. La primera versión incluye tres hooks: diseños de pantalla personalizados, eventos de botones y joystick, y el texto transcrito de tu voz."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/S67kv6Bww23UK4MwXUdanF.jpg",
-                "cap": "(Crédito de la imagen: Future)"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/slashvibe-sdk-spend-screen.jpg",
+                "cap": "Pantalla de ejemplo del SlashVibe SDK que sigue el gasto en API frente a un presupuesto mensual"
               },
               {
                 "t": "p",
-                "x": "Revisa toda la biblioteca de imágenes y luego las muestra según criterios como la época del año, temas, objetos y eventos. Solo funciona en modo horizontal, pero coloca las fotos verticales una junto a otra. También se le puede pedir a Alexa «muéstrame fotos de gatos y niños» para obtener una presentación seleccionada; cuando aparecieron fotos equivocadas, decir «Alexa, esa no es mi hija» hizo que corrigiera la colección."
+                "x": "El hardware tiene una LCD de 3.96 pulgadas, interruptores mecánicos Kailh de perfil ultrabajo, un joystick de dos ejes, dos micrófonos MEMS y un altavoz de 2W; el controlador se desmonta y se comunica a 2.4GHz con una batería de 500mAh que dura 20 horas."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/2cTbvaaoUPYULcGiLFAkua.jpg",
-                "cap": "(Crédito de la imagen: Future)"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/slashvibe-agent-status-screen-closeup-1440.jpg",
+                "cap": "Primer plano de la pantalla de SlashVibe con sesiones de agentes marcadas como en espera, terminada y en curso"
               },
               {
                 "t": "p",
-                "x": "También funciona como altavoz inteligente con Alexa+ y permite añadir notas de audio breves a las fotos. En especificaciones queda por detrás de rivales como el Aura Aspen de $229 y el Lexar Pexar de $179, y no reproduce videos, pero ninguno hace tan sencillo seleccionar todas tus fotos como Amazon con Alexa+. Se vende por $199,99."
+                "x": "De serie, SlashVibe funciona con más de 20 agentes y herramientas en macOS y Windows, entre ellos Claude Code, Codex, Cursor, Copilot CLI y Gemini CLI. Cada sesión aparece como en ejecución, terminada o en espera, y las aprobaciones se hacen en el dispositivo. La entrada de voz empieza a grabar en menos de 100 milisegundos y elimina las muletillas. Aún no se ha indicado licencia ni repositorio; el código se publicará antes de los envíos."
               }
             ]
           }
         }
+      }
+    },
+    {
+      "id": "hp-zgx-fury-gb300",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "HP ZGX Fury puts a GB300\non the desk for $132,000",
+      "body": "HP's ZGX Fury puts Nvidia GB300 power, 748GB of memory, and 400Gbps networking in a desk-side chassis.",
+      "mini_headline": "HP's $132,000 desk-side GB300",
+      "tool": "Gadgets",
+      "source": "TechRadar",
+      "url": "https://www.techradar.com/pro/your-next-desktop-pc-for-the-price-of-a-ferrari-hp-zgx-fury-packs-in-748gb-ram-and-nvidia-gb300-but-starts-at-usd132-000",
+      "accent": "#2ec5c5",
+      "motif": "headset",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://cdn.mos.cms.futurecdn.net/PZgCJ7B7RendGrosbZtv5e-1920-80.jpg",
+            "cap": "HP ZGX Fury desktop workstation"
+          },
+          {
+            "t": "p",
+            "x": "HP has introduced an expensive workstation that brings computing hardware previously associated with large-scale AI infrastructure into an office-sized machine. The ZGX Fury G1n combines Nvidia's GB300 Grace Blackwell Ultra processor with LPDDR5X and HBM3e memory: 496GB of system memory and 252GB for graphics, 748GB in total, with a 72-core Arm Neoverse V2 Grace CPU. Selected configurations raise video memory to 276GB, including discrete RTX PRO 2000 and RTX PRO 4000 cards."
+          },
+          {
+            "t": "p",
+            "x": "HP says the memory can accommodate local adjustment of language models with up to 100 billion parameters, and inference on models reaching one trillion parameters through FP4 quantization."
+          },
+          {
+            "t": "p",
+            "x": "It uses liquid cooling with a 1,600W Titanium-certified power supply, ships with Ubuntu 24.04 LTS, and an Nvidia ConnectX-8 SuperNIC provides two QSFP112 connections rated at 400Gbps. The enclosure also fits a 5U equipment rack."
+          },
+          {
+            "t": "p",
+            "x": "The standard configuration costs $132,000; the RTX PRO 2000 option is $133,000 and the RTX PRO 4000 option $136,000."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "HP ZGX Fury puts a GB300\non the desk for $132,000",
+          "body": "HP's ZGX Fury puts Nvidia GB300 power, 748GB of memory, and 400Gbps networking in a desk-side chassis.",
+          "mini_headline": "HP's $132,000 desk-side GB300",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/PZgCJ7B7RendGrosbZtv5e-1920-80.jpg",
+                "cap": "HP ZGX Fury desktop workstation"
+              },
+              {
+                "t": "p",
+                "x": "HP has introduced an expensive workstation that brings computing hardware previously associated with large-scale AI infrastructure into an office-sized machine. The ZGX Fury G1n combines Nvidia's GB300 Grace Blackwell Ultra processor with LPDDR5X and HBM3e memory: 496GB of system memory and 252GB for graphics, 748GB in total, with a 72-core Arm Neoverse V2 Grace CPU. Selected configurations raise video memory to 276GB, including discrete RTX PRO 2000 and RTX PRO 4000 cards."
+              },
+              {
+                "t": "p",
+                "x": "HP says the memory can accommodate local adjustment of language models with up to 100 billion parameters, and inference on models reaching one trillion parameters through FP4 quantization."
+              },
+              {
+                "t": "p",
+                "x": "It uses liquid cooling with a 1,600W Titanium-certified power supply, ships with Ubuntu 24.04 LTS, and an Nvidia ConnectX-8 SuperNIC provides two QSFP112 connections rated at 400Gbps. The enclosure also fits a 5U equipment rack."
+              },
+              {
+                "t": "p",
+                "x": "The standard configuration costs $132,000; the RTX PRO 2000 option is $133,000 and the RTX PRO 4000 option $136,000."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "HP ZGX Fury、机に\n$132,000でGB300",
+          "body": "HP ZGX FuryはGB300と748GBメモリ、400Gbps通信を机の脇に収める。",
+          "mini_headline": "HPの$132,000デスクサイドGB300",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/PZgCJ7B7RendGrosbZtv5e-1920-80.jpg",
+                "cap": "HP ZGX Furyデスクトップワークステーション"
+              },
+              {
+                "t": "p",
+                "x": "HPは、これまで大規模AIインフラと結び付けられてきたコンピューティングハードウェアをオフィスサイズのマシンに収めた、高価なワークステーションを発表した。ZGX Fury G1nは、NvidiaのGB300 Grace Blackwell UltraプロセッサーにLPDDR5XとHBM3eメモリを組み合わせる。システムメモリ496GBとグラフィックス用252GBで合計748GBとなり、CPUは72コアのArm Neoverse V2 Grace CPUだ。一部の構成では、単体のRTX PRO 2000やRTX PRO 4000カードを含めてビデオメモリが276GBに増える。"
+              },
+              {
+                "t": "p",
+                "x": "HPによると、このメモリは最大100 billion（千億）パラメータの言語モデルのローカル調整に対応でき、FP4量子化を使えば一兆パラメータに達するモデルの推論も可能だという。"
+              },
+              {
+                "t": "p",
+                "x": "水冷を採用し、1,600WのTitanium-certified電源を備え、Ubuntu 24.04 LTSを搭載して出荷される。Nvidia ConnectX-8 SuperNICが400GbpsのQSFP112接続を二つ提供する。筐体は5Uの機器ラックにも収まる。"
+              },
+              {
+                "t": "p",
+                "x": "標準構成は$132,000で、RTX PRO 2000搭載オプションは$133,000、RTX PRO 4000搭載オプションは$136,000だ。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "HP ZGX Fury lleva una GB300\nal escritorio por $132,000",
+          "body": "El ZGX Fury de HP reúne potencia Nvidia GB300, 748GB de memoria y red de 400Gbps en un chasis junto al escritorio.",
+          "mini_headline": "La GB300 de escritorio de HP por $132,000",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/PZgCJ7B7RendGrosbZtv5e-1920-80.jpg",
+                "cap": "Estación de trabajo de escritorio HP ZGX Fury"
+              },
+              {
+                "t": "p",
+                "x": "HP presentó una costosa estación de trabajo que lleva hardware de cómputo antes asociado a la infraestructura de AI a gran escala a una máquina del tamaño de una oficina. El ZGX Fury G1n combina el procesador GB300 Grace Blackwell Ultra de Nvidia con memoria LPDDR5X y HBM3e: 496GB de memoria del sistema y 252GB para gráficos, 748GB en total, con una CPU Arm Neoverse V2 Grace de 72 núcleos. Algunas configuraciones elevan la memoria de video a 276GB, con tarjetas dedicadas RTX PRO 2000 y RTX PRO 4000."
+              },
+              {
+                "t": "p",
+                "x": "HP afirma que la memoria permite ajustar localmente modelos de lenguaje de hasta 100 billion (cien mil millones) de parámetros, y ejecutar inferencia en modelos de un billón de parámetros mediante cuantización FP4."
+              },
+              {
+                "t": "p",
+                "x": "Usa refrigeración líquida con una fuente de alimentación Titanium-certified de 1,600W, viene con Ubuntu 24.04 LTS y una Nvidia ConnectX-8 SuperNIC ofrece dos conexiones QSFP112 de 400Gbps. La carcasa también cabe en un rack de equipos de 5U."
+              },
+              {
+                "t": "p",
+                "x": "La configuración estándar cuesta $132,000; la opción con RTX PRO 2000 cuesta $133,000 y la de RTX PRO 4000, $136,000."
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "HP ZGX Fury桌面机\nGB300售$132,000",
+          "body": "HP ZGX Fury把GB300、748GB 内存和400Gbps 网络装进桌边机箱。",
+          "mini_headline": "HP售$132,000的桌边GB300",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/PZgCJ7B7RendGrosbZtv5e-1920-80.jpg",
+                "cap": "HP ZGX Fury台式工作站"
+              },
+              {
+                "t": "p",
+                "x": "HP推出了一款昂贵的工作站，把以往属于大规模AI基础设施的计算硬件装进办公室大小的机器。ZGX Fury G1n将Nvidia的GB300 Grace Blackwell Ultra处理器与LPDDR5X和HBM3e内存结合：496GB 系统内存加252GB 图形内存，共748GB ，并配备72核Arm Neoverse V2 Grace CPU。部分配置包含独立的RTX PRO 2000和RTX PRO 4000显卡，显存提升至276GB 。"
+              },
+              {
+                "t": "p",
+                "x": "HP表示，这些内存可支持在本地调整参数多达1000亿的语言模型，并能通过FP4量化对参数达一万亿的模型进行推理。"
+              },
+              {
+                "t": "p",
+                "x": "它采用液冷，配备1,600W 的Titanium-certified电源，预装Ubuntu 24.04 LTS，Nvidia ConnectX-8 SuperNIC提供两个速率为400Gbps 的QSFP112接口。机箱也可装入5U 设备机架。"
+              },
+              {
+                "t": "p",
+                "x": "标准配置售价$132,000；RTX PRO 2000选项为$133,000，RTX PRO 4000选项为$136,000。"
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ja": {
+          "headline": "HP ZGX Fury、机に\n$132,000でGB300",
+          "body": "HP ZGX FuryはGB300と748GBメモリ、400Gbps通信を机の脇に収める。",
+          "mini_headline": "HPの$132,000デスクサイドGB300",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/PZgCJ7B7RendGrosbZtv5e-1920-80.jpg",
+                "cap": "HP ZGX Furyデスクトップワークステーション"
+              },
+              {
+                "t": "p",
+                "x": "HPは、これまで大規模AIインフラと結び付けられてきたコンピューティングハードウェアをオフィスサイズのマシンに収めた、高価なワークステーションを発表した。ZGX Fury G1nは、NvidiaのGB300 Grace Blackwell UltraプロセッサーにLPDDR5XとHBM3eメモリを組み合わせる。システムメモリ496GBとグラフィックス用252GBで合計748GBとなり、CPUは72コアのArm Neoverse V2 Grace CPUだ。一部の構成では、単体のRTX PRO 2000やRTX PRO 4000カードを含めてビデオメモリが276GBに増える。"
+              },
+              {
+                "t": "p",
+                "x": "HPによると、このメモリは最大100 billion（千億）パラメータの言語モデルのローカル調整に対応でき、FP4量子化を使えば一兆パラメータに達するモデルの推論も可能だという。"
+              },
+              {
+                "t": "p",
+                "x": "水冷を採用し、1,600WのTitanium-certified電源を備え、Ubuntu 24.04 LTSを搭載して出荷される。Nvidia ConnectX-8 SuperNICが400GbpsのQSFP112接続を二つ提供する。筐体は5Uの機器ラックにも収まる。"
+              },
+              {
+                "t": "p",
+                "x": "標準構成は$132,000で、RTX PRO 2000搭載オプションは$133,000、RTX PRO 4000搭載オプションは$136,000だ。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "HP ZGX Fury lleva una GB300\nal escritorio por $132,000",
+          "body": "El ZGX Fury de HP reúne potencia Nvidia GB300, 748GB de memoria y red de 400Gbps en un chasis junto al escritorio.",
+          "mini_headline": "La GB300 de escritorio de HP por $132,000",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/PZgCJ7B7RendGrosbZtv5e-1920-80.jpg",
+                "cap": "Estación de trabajo de escritorio HP ZGX Fury"
+              },
+              {
+                "t": "p",
+                "x": "HP presentó una costosa estación de trabajo que lleva hardware de cómputo antes asociado a la infraestructura de AI a gran escala a una máquina del tamaño de una oficina. El ZGX Fury G1n combina el procesador GB300 Grace Blackwell Ultra de Nvidia con memoria LPDDR5X y HBM3e: 496GB de memoria del sistema y 252GB para gráficos, 748GB en total, con una CPU Arm Neoverse V2 Grace de 72 núcleos. Algunas configuraciones elevan la memoria de video a 276GB, con tarjetas dedicadas RTX PRO 2000 y RTX PRO 4000."
+              },
+              {
+                "t": "p",
+                "x": "HP afirma que la memoria permite ajustar localmente modelos de lenguaje de hasta 100 billion (cien mil millones) de parámetros, y ejecutar inferencia en modelos de un billón de parámetros mediante cuantización FP4."
+              },
+              {
+                "t": "p",
+                "x": "Usa refrigeración líquida con una fuente de alimentación Titanium-certified de 1,600W, viene con Ubuntu 24.04 LTS y una Nvidia ConnectX-8 SuperNIC ofrece dos conexiones QSFP112 de 400Gbps. La carcasa también cabe en un rack de equipos de 5U."
+              },
+              {
+                "t": "p",
+                "x": "La configuración estándar cuesta $132,000; la opción con RTX PRO 2000 cuesta $133,000 y la de RTX PRO 4000, $136,000."
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "HP ZGX Fury桌面机\nGB300售$132,000",
+          "body": "HP ZGX Fury把GB300、748GB 内存和400Gbps 网络装进桌边机箱。",
+          "mini_headline": "HP售$132,000的桌边GB300",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/PZgCJ7B7RendGrosbZtv5e-1920-80.jpg",
+                "cap": "HP ZGX Fury台式工作站"
+              },
+              {
+                "t": "p",
+                "x": "HP推出了一款昂贵的工作站，把以往属于大规模AI基础设施的计算硬件装进办公室大小的机器。ZGX Fury G1n将Nvidia的GB300 Grace Blackwell Ultra处理器与LPDDR5X和HBM3e内存结合：496GB 系统内存加252GB 图形内存，共748GB ，并配备72核Arm Neoverse V2 Grace CPU。部分配置包含独立的RTX PRO 2000和RTX PRO 4000显卡，显存提升至276GB 。"
+              },
+              {
+                "t": "p",
+                "x": "HP表示，这些内存可支持在本地调整参数多达1000亿的语言模型，并能通过FP4量化对参数达一万亿的模型进行推理。"
+              },
+              {
+                "t": "p",
+                "x": "它采用液冷，配备1,600W 的Titanium-certified电源，预装Ubuntu 24.04 LTS，Nvidia ConnectX-8 SuperNIC提供两个速率为400Gbps 的QSFP112接口。机箱也可装入5U 设备机架。"
+              },
+              {
+                "t": "p",
+                "x": "标准配置售价$132,000；RTX PRO 2000选项为$133,000，RTX PRO 4000选项为$136,000。"
+              }
+            ]
+          }
+        }
+      },
+      "i18n_status": {
+        "ko": "fallback"
       }
     }
   ]

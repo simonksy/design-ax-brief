@@ -1,158 +1,96 @@
 {
-  "date": "2026-11-15",
+  "date": "2026-11-16",
   "section": "games",
   "picks": [
     {
-      "title": "Call of Duty Warns AI-Powered Cheats Are Becoming Harder to Detect",
-      "url": "https://gameriv.com/call-of-duty-warns-ai-powered-cheats-are-becoming-harder-to-detect/",
-      "source": "GameRiv",
+      "title": "Xbox's Jason Ronald Confirms Project Helix Is a Console That Plays PC Games, Says Neural Rendering Is Leveraged to Deliver \"A New Level of Visual Fidelity\"",
+      "url": "https://wccftech.com/xbox-project-helix-console-pc-games-neural-rendering/",
+      "source": "Wccftech",
       "tool": "Games",
       "accent": "#7928ca",
       "motif": "cube",
-      "rationale": "Activision's first-hand warning that AI screen-reading aim tools evade classic detection and RICOCHET is moving to behaviour analysis; concrete shift in anti-cheat design.",
-      "published_iso": "2026-11-14T09:16:10+00:00",
-      "og_image": "https://gameriv.com/wp-content/uploads/2026/08/Activision-bans-call-of-duty-cheaters.jpg",
-      "excerpt": "Activision says cheat makers are using AI to build external, screen-reading aim tools that evade traditional detection, and that RICOCHET Anti-Cheat is shifting to behaviour analysis to catch them."
+      "rationale": "Platform-holder confirmation that Xbox's next-gen console builds neural rendering into its graphics pipeline; sets the AI-rendering target art and tech teams will ship against.",
+      "published_iso": "2026-11-15T21:00:00+00:00",
+      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Project-Helix-Xbox-HD-1920x1080.jpeg",
+      "excerpt": "XBOX's VP of Next Gen Jason Ronald confirmed that Project Helix also plays PC games, and revealed that neural rendering will be leveraged."
     },
     {
-      "title": "AI 공격에 54만 동접 국산 스팀 게임 정보 샜다",
-      "url": "http://www.gamey.kr/news/articleView.html?idxno=3019720",
+      "title": "조카 그림, 클로드 페이블 5.2가 갓게임으로 제작",
+      "url": "http://www.gamey.kr/news/articleView.html?idxno=3019684",
       "source": "게임와이",
       "tool": "Games",
       "accent": "#0070f3",
       "motif": "cube",
-      "rationale": "New security incident: an AI-driven attack on the 'Backend' game-server solution leaked Taskbar Hero player data for 23 days; directly relevant to any studio on hosted backends.",
-      "published_iso": "2026-11-14T13:32:14+09:00",
-      "og_image": "https://cdn.gamey.kr/news/thumbnail/202611/3019720_174147_5017_v150.jpg",
-      "excerpt": "국내 게임 서버 솔루션 '뒤끝'이 취약점을 악용한 'AI 기반 공격'을 받아 스팀 방치형 게임 '태스크바 히어로' 이용자 정보가 23일간 유출됐다."
+      "rationale": "A developer turned a child's hand-drawn design doc into a 12-stage, 18-character 4-player browser brawler overnight with Claude Fable 5.2; a concrete case of design-doc-to-playable AI production (the single Fable 5.2 games card allowed today).",
+      "published_iso": "2026-11-12T17:22:41+09:00",
+      "og_image": "https://cdn.gamey.kr/news/thumbnail/202611/3019684_174021_143_v150.jpg",
+      "excerpt": "개발자 렉스 톰부로우가 조카가 직접 그린 게임 설계를 '클로드 페이블 5.2'에 맡겨 하룻밤 만에 4인 협동 벨트스크롤 액션 게임 '에이든의 복수'를 만들었다. 12개 스테이지에 플레이 캐릭터 18명이 등장하며 웹 브라우저에서 바로 즐길 수 있다."
     },
     {
-      "title": "루미웨이브, '라그나로크 몬스터 마블'에 AI 플레이어 도입 추진",
-      "url": "https://zdnet.co.kr/view/?no=20261113171149",
-      "source": "지디넷코리아",
+      "title": "Moving Beyond the Editor: Unity's Three Approaches to the AI Ecosystem",
+      "url": "https://www.invenglobal.com/articles/28529/moving-beyond-the-editor-unitys-three-approaches-to-the-ai-ecosystem",
+      "source": "Inven Global",
       "tool": "Games",
       "accent": "#f5a623",
       "motif": "cube",
-      "rationale": "In-game AI assistant that analyses match history, changes decks and plays auto-battles on request; a new shipped-game feature, not commentary.",
-      "published_iso": "2026-11-13T17:20:01+09:00",
-      "og_image": "https://image.zdnet.co.kr/2026/11/13/ac2cc3181857eed5a36948f4f7d66259.png",
-      "excerpt": "루미웨이브가 이용자 요청을 받아 전적을 분석하고 덱 변경이나 자동 대전을 수행하는 AI 비서를 그라비티 IP 기반 캐주얼 전략 게임 '라그나로크 몬스터 마블'에 도입한다."
+      "rationale": "Unity Korea's engineer lays out the engine's three-track AI strategy (in-editor, external agents, ecosystem) at AI Game Lab Day; tells Unity teams where AI tooling is headed.",
+      "published_iso": "2026-11-12T11:39:36+00:00",
+      "og_image": "https://static.invenglobal.com/upload/image/2026/11/12/r1794483730633569.jpeg",
+      "excerpt": "With game engines paying close attention to AI game development in recent years, Jong-tae Park, Staff Partner Engineer at Unity Korea, attended 'AI Game Lab Day 2026' as a speaker on November 12."
     },
     {
-      "title": "모바일 컨트롤러 세라핌 S3, 하이라이트 AI 녹화 기능 공개",
-      "url": "https://www.gamemeca.com/view.php?gid=1783502",
-      "source": "게임메카",
+      "title": "NC AI, 게임 제작 AI '바르코' 활용 확대…개발자 커뮤니티 가동",
+      "url": "https://zdnet.co.kr/view/?no=20261113120913",
+      "source": "지디넷코리아",
       "tool": "Games",
       "accent": "#2ec5c5",
       "motif": "cube",
-      "rationale": "New product feature unveiled at TwitchCon 2026: Seraphim S3 + Xsolla 'AI Highlights' auto-cuts shareable clips from gameplay.",
-      "published_iso": "2026-11-14T10:53:16+09:00",
-      "og_image": "https://cdn.gamemeca.com/gmdata/0001/783/502/gm767617_thumb__AI_.webp",
-      "excerpt": "세라핌이 엑솔라와 협력해 트위치콘 2026에서 S3 컨트롤러용 'AI 하이라이트'를 공개했다. 콘솔 앱이 플레이 영상을 분석해 공유용 짧은 클립을 자동으로 만든다."
+      "rationale": "NC AI launches the 'Pangyo Builders' developer community and shares VARCO 3D-graphics and sound generation workflows directly with game devs; a new rollout step beyond the G-Star booth.",
+      "published_iso": "2026-11-13T12:09:37+09:00",
+      "og_image": "https://image.zdnet.co.kr/2026/11/13/9665b74012e71c74367f92553650ba35.jpg",
+      "excerpt": "NC AI가 게임 개발자 커뮤니티 '판교 빌더스'의 첫 행사에서 자체 AI 창작 플랫폼 '바르코'를 활용한 3D 그래픽과 사운드 제작 기술을 개발자들과 공유했다."
     },
     {
-      "title": "크레딧코인, AI 에이전트 전략 대전 게임 '그리드' 글로벌 베타 시작",
-      "url": "https://www.dt.co.kr/article/12095040",
-      "source": "디지털타임스",
+      "title": "How to organize a video game project with AI: 10 tips",
+      "url": "https://unity.com/blog/how-to-organize-a-game-project-with-ai",
+      "source": "Unity",
       "tool": "Games",
       "accent": "#eb367f",
       "motif": "cube",
-      "rationale": "Swap replacement: a live global beta of a strategy game where players plug in their own external AI agents to battle each other; a concrete AI-native game launch rather than an event or opinion piece.",
-      "published_iso": "2026-11-13T15:53:55+09:00",
-      "og_image": "https://wimg.dt.co.kr/news/cms/2026/11/13/news-p.v1.20261113.c4840efe42e44c3ea50d296212ae303d_R.jpg",
-      "excerpt": "크레딧코인 생태계 포털 펭귄베이스가 외부 AI 에이전트를 연동해 서로 전략 대결을 벌이는 시뮬레이션 게임 '그리드'의 글로벌 베타를 시작했다."
+      "rationale": "Primary-source Unity guide with directly usable practices (design briefs, naming, checkpoints, prompt logs, playtesting) for structuring an AI-assisted game project.",
+      "published_iso": "2026-11-10T00:00:00Z",
+      "og_image": "https://cdn.sanity.io/images/fuvbjjlp/production/2330bde656908d3aad3b4b3181a276993cc9fd61-1200x675.png",
+      "excerpt": "How to organize a video game project with AI: 10 beginner tips on design briefs, naming, checkpoints, prompt logs, and playtesting – no coding needed."
     }
   ],
   "dedup": {
     "checks": {
-      "https://gameriv.com/call-of-duty-warns-ai-powered-cheats-are-becoming-harder-to-detect/": {
+      "https://wccftech.com/xbox-project-helix-console-pc-games-neural-rendering/": {
         "verdict": "new",
-        "nearest": "https://www.pcgamer.com/games/fps/as-wardogs-season-3-looms-bulkhead-claims-to-have-built-one-of-the-worlds-most-sophisticated-anti-cheat-systems-assisted-by-machine-learning-and-ai/",
+        "nearest": "https://www.eurogamer.net/microsoft-xbox-gen-ai-asha-sharma-memo",
         "new_action": ""
       },
-      "http://www.gamey.kr/news/articleView.html?idxno=3019720": {
+      "http://www.gamey.kr/news/articleView.html?idxno=3019684": {
         "verdict": "new",
-        "nearest": "",
+        "nearest": "https://wccftech.com/claude-fable-5-2-builds-playable-gears-of-war-e-day-clone-from-three-line-prompt-but-estimated-cost-reaches-15000/",
         "new_action": ""
       },
-      "https://zdnet.co.kr/view/?no=20261113171149": {
+      "https://www.invenglobal.com/articles/28529/moving-beyond-the-editor-unitys-three-approaches-to-the-ai-ecosystem": {
         "verdict": "new",
-        "nearest": "https://www.inews24.com/view/2019597",
+        "nearest": "https://www.inews24.com/view/2021651",
         "new_action": ""
       },
-      "https://www.gamemeca.com/view.php?gid=1783502": {
-        "verdict": "new",
-        "nearest": "",
-        "new_action": ""
+      "https://zdnet.co.kr/view/?no=20261113120913": {
+        "verdict": "follow-up",
+        "nearest": "https://www.inews24.com/view/2022819",
+        "new_action": "New announcement: NC AI launched the 'Pangyo Builders' developer community and held its first session sharing VARCO 3D/sound production workflows (11-06 card was only the G-Star experience cafe)."
       },
-      "https://www.dt.co.kr/article/12095040": {
+      "https://unity.com/blog/how-to-organize-a-game-project-with-ai": {
         "verdict": "new",
-        "nearest": "https://automaton-media.com/articles/newsjp/20261102-477130/",
+        "nearest": "https://unity.com/blog/unity-cli-usage-data-ai-coding-agents",
         "new_action": ""
       }
     },
-    "note": "SWAP 2026-11-15: dropped Rock Paper Shotgun Nexus Mods daily-limit pick after fact-check (CEO: 'less of an issue related to AI' — not an AI story); replaced with Digital Times Creditcoin GRID AI-agent strategy game global beta (no 30-day games history match; nearest is the 11-05 AI-agents-in-Minecraft story, a different product). Passed over for the swap: AWS re:Invent games-track preview (event preview), NC AI Pangyo Builders meetup (event, related to 11-06 Varco cafe), Wrtn G-Star sponsorship (promo), Montreal AI and Games Conference date (event announcement). Original dedup drops stand: Sweeney Steam-AI remarks cluster c0 (GamesRadar, Game*Spark) and GamesBeat Sweeney interview = commentary on the running Sweeney-vs-Steam-disclosure story (10-24 GamesRadar, 11-05 4Gamer, 11-09 PC Gamer); Eurogamer Steam review-backlog delays = extra reporting on 11-04 RPS Food Devils backlog story; Polygon Virtue and a Sledgehammer review = same game as 10-30 Aftermath; Sakurai Famitsu column = repeat of 10-17 Sakurai AI remarks; AUTOMATON + Kotaku Claude/Pokemon refusals = user reports extending 11-02 'Anthropic tells Claude to stop remaking video games' with no new Anthropic action; Take-Two Zelnick remarks and GI.biz investor panel = reactions/commentary in the AI-clone running story (11-02, 11-07, 11-14 GI.biz IP clones). Cross-section: published_urls.json not fully grepped (no grep tool in this agent); dt.co.kr/article/12095040 not in games history — orchestrator should exact-grep it and 'Creditcoin'/'크레딧코인' across sections before roll."
-  },
-  "items": [
-    {
-      "title": "Call of Duty Warns AI-Powered Cheats Are Becoming Harder to Detect",
-      "url": "https://gameriv.com/call-of-duty-warns-ai-powered-cheats-are-becoming-harder-to-detect/",
-      "source": "GameRiv",
-      "tool": "Games",
-      "accent": "#7928ca",
-      "motif": "cube",
-      "rationale": "Activision's first-hand warning that AI screen-reading aim tools evade classic detection and RICOCHET is moving to behaviour analysis; concrete shift in anti-cheat design.",
-      "published_iso": "2026-11-14T09:16:10+00:00",
-      "og_image": "https://gameriv.com/wp-content/uploads/2026/08/Activision-bans-call-of-duty-cheaters.jpg",
-      "excerpt": "Activision says cheat makers are using AI to build external, screen-reading aim tools that evade traditional detection, and that RICOCHET Anti-Cheat is shifting to behaviour analysis to catch them."
-    },
-    {
-      "title": "AI 공격에 54만 동접 국산 스팀 게임 정보 샜다",
-      "url": "http://www.gamey.kr/news/articleView.html?idxno=3019720",
-      "source": "게임와이",
-      "tool": "Games",
-      "accent": "#0070f3",
-      "motif": "cube",
-      "rationale": "New security incident: an AI-driven attack on the 'Backend' game-server solution leaked Taskbar Hero player data for 23 days; directly relevant to any studio on hosted backends.",
-      "published_iso": "2026-11-14T13:32:14+09:00",
-      "og_image": "https://cdn.gamey.kr/news/thumbnail/202611/3019720_174147_5017_v150.jpg",
-      "excerpt": "국내 게임 서버 솔루션 '뒤끝'이 취약점을 악용한 'AI 기반 공격'을 받아 스팀 방치형 게임 '태스크바 히어로' 이용자 정보가 23일간 유출됐다."
-    },
-    {
-      "title": "루미웨이브, '라그나로크 몬스터 마블'에 AI 플레이어 도입 추진",
-      "url": "https://zdnet.co.kr/view/?no=20261113171149",
-      "source": "지디넷코리아",
-      "tool": "Games",
-      "accent": "#f5a623",
-      "motif": "cube",
-      "rationale": "In-game AI assistant that analyses match history, changes decks and plays auto-battles on request; a new shipped-game feature, not commentary.",
-      "published_iso": "2026-11-13T17:20:01+09:00",
-      "og_image": "https://image.zdnet.co.kr/2026/11/13/ac2cc3181857eed5a36948f4f7d66259.png",
-      "excerpt": "루미웨이브가 이용자 요청을 받아 전적을 분석하고 덱 변경이나 자동 대전을 수행하는 AI 비서를 그라비티 IP 기반 캐주얼 전략 게임 '라그나로크 몬스터 마블'에 도입한다."
-    },
-    {
-      "title": "모바일 컨트롤러 세라핌 S3, 하이라이트 AI 녹화 기능 공개",
-      "url": "https://www.gamemeca.com/view.php?gid=1783502",
-      "source": "게임메카",
-      "tool": "Games",
-      "accent": "#2ec5c5",
-      "motif": "cube",
-      "rationale": "New product feature unveiled at TwitchCon 2026: Seraphim S3 + Xsolla 'AI Highlights' auto-cuts shareable clips from gameplay.",
-      "published_iso": "2026-11-14T10:53:16+09:00",
-      "og_image": "https://cdn.gamemeca.com/gmdata/0001/783/502/gm767617_thumb__AI_.webp",
-      "excerpt": "세라핌이 엑솔라와 협력해 트위치콘 2026에서 S3 컨트롤러용 'AI 하이라이트'를 공개했다. 콘솔 앱이 플레이 영상을 분석해 공유용 짧은 클립을 자동으로 만든다."
-    },
-    {
-      "title": "크레딧코인, AI 에이전트 전략 대전 게임 '그리드' 글로벌 베타 시작",
-      "url": "https://www.dt.co.kr/article/12095040",
-      "source": "디지털타임스",
-      "tool": "Games",
-      "accent": "#eb367f",
-      "motif": "cube",
-      "rationale": "Swap replacement: a live global beta of a strategy game where players plug in their own external AI agents to battle each other; a concrete AI-native game launch rather than an event or opinion piece.",
-      "published_iso": "2026-11-13T15:53:55+09:00",
-      "og_image": "https://wimg.dt.co.kr/news/cms/2026/11/13/news-p.v1.20261113.c4840efe42e44c3ea50d296212ae303d_R.jpg",
-      "excerpt": "크레딧코인 생태계 포털 펭귄베이스가 외부 AI 에이전트를 연동해 서로 전략 대결을 벌이는 시뮬레이션 게임 '그리드'의 글로벌 베타를 시작했다."
-    }
-  ]
+    "note": "Dropped as already published / same story: ArtStation AI declarations (80 Level) = ArtStation AI policy already ran in design 11-12 (creativebloq is-artstations-new-ai-art-policy-good-enough) -> cross-section dup. Tim Sweeney cluster (GamesRadar Steam disclosure = repeat of 10-24 card; GamesBeat 10X interview and Kotaku UE6 = commentary on running story, UE6 keynote ran 11-05 via 4gamer, Sweeney X spat ran 11-09). Big Walk / House House cluster (Polygon interview, Polygon GOTY analysis, Inven IGF boycott) = same running story as GI.biz 11-11 card, no new release. Game Developer GDC genAI brainstorming = same GDC State of the Industry report ran 11-13. Eurogamer Steam backlog delays = same story as RPS Food Devils 11-04; Aftermath AI disclosure op-ed = commentary. Take-Two CEO on Anthropic/OpenAI and AUTOMATON Claude Pokemon refusal = reactions/extra reporting on the Claude game-remake block that ran 11-02. AUTOMATON Hogwarts DLSS 5 hands-on = DLSS 5 Hogwarts support already ran 10-14 (wccftech). Wccftech Fable 5.2 underwater world skipped per cross-section rule (only one Fable 5.2 games card; chose the game-making item). Not picked on score: inews24 Hive Axil interview (commentary on 10-27 plugin), Eurogamer Sakurai column (opinion, Sakurai AI card ran 10-17), GI.biz investor panel (commentary)."
+  }
 }

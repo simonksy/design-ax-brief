@@ -1,0 +1,109 @@
+{
+  "meta": {
+    "issue": "AI는 섞고 사람 손은 남긴다",
+    "date": "2026.11.15",
+    "section": "MOVIES",
+    "accent": "#7928ca",
+    "note": "원문 4건 대조: AWN(11.09) 40년·프리비즈·인물 제거, Outlook(11.10) Hombale·AI 모션 캡처·사운드 전통 제작, 스포츠경향(11.12) 3년 만·주필산·매소성·기벌포·약 1년 반·14일 첫 방송, CNET(11.13) Disney 첫 합작·Disney+ 예정·중간 동작 AI 확인. 카카오 라이언은 오늘 책 story와 겹쳐 뺌. 사진은 Ozzy Fox 한 장, 영상 2개, 문무는 stat.",
+    "sources": [
+      "AWN — Framestore Brings Hybrid AI/VFX to Sky's Christmas Campaign (2026.11.09)",
+      "Outlook India — Saranagati Teaser: Hombale Films Backs AI-Driven Film On ISKCON Founder's Life (2026.11.10)",
+      "스포츠경향 — KBS 3년만의 대하사극 '문무'…AI 전투신 '고거전' 뛰어넘을까 (2026.11.12)",
+      "CNET — Animaj Brings 'Ozzy Fox' Series to Disney Plus as It Charts a Path for AI in Animation (2026.11.13)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 영화 · 11.10~11.15",
+      "thread": [
+        {
+          "d": "11.10",
+          "t": "성탄 광고",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "11.13",
+          "t": "AI 장편",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "11.13",
+          "t": "대하사극",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "11.15",
+          "t": "유아 애니",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        }
+      ],
+      "thread_note": "이름난 제작사들이 AI를 쓰되 '사람 손은 그대로'인 혼합형으로 내놓는다",
+      "eyebrow": "흐름 · 영화",
+      "headline": "AI는 섞고\n사람 손은 남긴다",
+      "body": "한 건씩 보면 광고, 티저, 사극, 유아 애니다. 모아 보면 이름난 제작사마다 AI를 쓰되 사람 몫부터 앞세운다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.11.10",
+      "headline": "40년 VFX 공정에\nAI를 끼우다",
+      "body": "Framestore가 Sky 성탄 광고에서 기존 VFX 공정에 AI를 넣어 프리비즈와 인물 지우기에 썼다. 배우 연기는 그대로 살렸다.",
+      "foot": "2026.11.10",
+      "_src": "https://www.awn.com/news/framestore-brings-hybrid-aivfx-skys-christmas-campaign",
+      "_id": "framestore-sky-christmas-ai",
+      "video": "pipeline/media/framestore-sky-christmas-ai.mp4"
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.11.13",
+      "headline": "'Kantara' 제작사의\nAI 혼합 장편",
+      "body": "Hombale Films가 AI 혼합 장편 Saranagati 티저를 냈다. 사람 동작은 AI로 옮기고 음악·사운드는 사람이 만들었다.",
+      "foot": "2026.11.13",
+      "_src": "https://www.outlookindia.com/art-entertainment/saranagati-teaser-hombale-films-backs-ai-driven-film-on-iskcon-founders-life",
+      "_id": "saranagati-hombale-ai-teaser",
+      "video": "pipeline/media/saranagati-hombale-ai-teaser.mp4"
+    },
+    {
+      "n": 4,
+      "kind": "stat",
+      "eyebrow": "2026.11.13",
+      "headline": "대하사극 전투신을\nAI로",
+      "body": "KBS가 3년 만에 낸 대하사극 '문무'는 주필산·매소성·기벌포 전투에 AI를 썼다. 위험하거나 찍기 어려운 장면부터다.",
+      "foot": "2026.11.13",
+      "_src": "https://sports.khan.co.kr/article/202611122200006",
+      "_id": "kbs-munmu-ai-battles",
+      "stat_top": "기획부터 촬영까지 약 1년 반",
+      "stat_arrow": "새 AI가 나올 때마다 적용",
+      "stat_bottom": "세 전투",
+      "stat_strike": false
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.11.15",
+      "headline": "그림은 사람,\n사이 동작은 AI",
+      "body": "Animaj·Disney 첫 합작 Ozzy Fox가 곧 Disney+에 온다. 주요 자세는 사람이, 사이 동작은 AI가 채운다.",
+      "foot": "2026.11.15",
+      "_src": "https://www.cnet.com/tech/services-and-software/animaj-ozzy-fox-series-disney-plus-ai-agentic-animation/",
+      "_id": "animaj-ozzy-fox-disneyplus",
+      "media": "pipeline/media/animaj-ozzy-fox-disneyplus.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

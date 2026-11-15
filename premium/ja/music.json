@@ -10503,6 +10503,101 @@
           "x": "Suno Bridge(ベータ版)はすべてのPremierサブスクリプションに含まれる。現在はMac版Ableton Live 12で動作する。"
         }
       ]
+    },
+    "music/cerati-me-quedo-aqui-remaster": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://consequence.net/wp-content/uploads/2026/11/Gustavo-Cerati-Me-Quedo-Aqui-Remastered-Video-Frame.jpg",
+          "cap": "Gustavo Cerati「Me Quedo Aquí」のリマスター映像（via Instagram）"
+        },
+        {
+          "t": "p",
+          "x": "Gustavo Cerati の子どもである Lisa と Benito が、故人となったアルゼンチンのロックの象徴による「Me Quedo Aquí」のミュージックビデオ新版を批判した。この映像は2006年のアルバム Ahí Vamos の20周年に合わせて公開された。故人の容姿を変えるのに人工知能が使われたのではないかと疑うファンから反発が起きている。"
+        },
+        {
+          "t": "p",
+          "x": "Lisa Cerati の Instagram Stories で共有され、Benito も再投稿した声明で、2人はまずアルバムの音源リマスターを支持すると表明した。「必要だと感じていたし、より生々しいサウンドという本来の意図を尊重した音の仕上がりに満足している」"
+        },
+        {
+          "t": "p",
+          "x": "「映像については、『Me Quedo Aquí』に私たちも皆さんより先に見ていない処理が施されており、その結果は好ましくないと感じた」と2人は続けた。「補正の過程も、どんなツールが使われたのかも知らなかった。私たちは相談を受けておらず、そのことを深く残念に思う」"
+        },
+        {
+          "t": "img",
+          "src": "https://consequence.net/wp-content/uploads/2026/11/Lisa-and-Benito-Cerati-Slam-Use-of-AI-Gustavo-Cerati-Remastered-Video.png",
+          "cap": "Lisa と Benito Cerati の声明（via Instagram）"
+        },
+        {
+          "t": "p",
+          "x": "ファンは Cerati の顔立ちが変わったように見えると疑問を呈し、一部は AI-generated の修正を疑った。公式アカウントも2人も、AI が使われたかどうかを認めていない。Cerati は2014年に55歳で死去した。リマスター版 Ahí Vamos は11月12日にデジタルで配信され、フィジカル版は11月13日に続いた。"
+        }
+      ]
+    },
+    "music/terrecon-russia-ai-war-songs": {
+      "blocks": [
+        {
+          "t": "video",
+          "src": "https://rfe-video-ns.akamaized.net/pangeavideo/2026/11/0/02/0241abbc-9211-4460-8439-08df3ee82709_720p.mp4"
+        },
+        {
+          "t": "p",
+          "x": "音楽ストリーミングサイトを使うロシア人のフィードに、新たなジャンルが現れているかもしれない。ロシア軍とウクライナでの戦争を支持する AI-generated の楽曲だ。ウクライナの非営利団体 Terrecon の調査では、この種の楽曲が約1,000曲見つかった。研究者によると、これらは愛国心をかき立て、新兵の動員を助け、さらには子どもにも訴えかけることを狙っているという。"
+        }
+      ]
+    },
+    "music/wired-youtube-beyond-the-beat": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6af7840bd2837972f5ddf4f3/master/w_1600,c_limit/Untitled-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "YouTube MusicとSpotifyは、合成ホストにプレイリストを選曲させたい考えだ。WIREDのReece Rogersは、そのぎこちない語りとでたらめな楽曲トリビアが雰囲気を台無しにしていると指摘する。"
+        },
+        {
+          "t": "p",
+          "x": "YouTube Musicの「Beyond the Beat」は2025年に始まったYouTube Labsのベータ機能で、曲間に約30秒、不規則に割り込んでくる。Slayyyterの曲の後には「Rock Music by Charli XXC [sic]」について一段落語り、Charli XCXの名前を誤った。Chappell Roanが参加したOlivia RodrigoのExpectationsのリミックスを解説した直後に、Roan抜きの原曲を流したこともある。"
+        },
+        {
+          "t": "p",
+          "x": "2023年にAI DJを導入し、11月にパーソナリティと操作機能を追加したSpotifyは、英語の音声を八種類用意する。いくつかは「you know」や「like」といったつなぎ言葉に頼りがちだ。解説はYouTubeより簡潔で耐えられるものだったが、「リスナーの80パーセントが毎週DJに戻ってくる」というSpotifyの主張にRogersは含まれない。「空虚な決まり文句であれ、人間のミスの模倣であれ、もう聞き飽きた」"
+        }
+      ]
+    },
+    "music/simdps-music-inpainting": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Music Inpainting With Similarity-Guided Latent Diffusion(類似度誘導型潜在拡散による音楽インペインティング)— Sean Turland、Eloi Moliner、Vesa Välimäki。ISMIR 2026に採択。"
+        },
+        {
+          "t": "p",
+          "x": "類似度マッチングと拡散ベースの生成モデルを組み合わせ、音声録音の大きな区間を適切な代替で置き換える音楽インペインティング手法を提案する。提案するハイブリッド手法Similarity-Guided Diffusion Posterior Sampling(SimDPS)は、文脈上の類似度に基づいてより広い信号から置き換え候補区間を取り出し、それを手がかりに拡散過程を一貫した再構成へ導く。モデルに依存しないため、波形領域・潜在領域のいずれで動作する事前学習済み拡散モデルとも組み合わせられる。"
+        },
+        {
+          "t": "p",
+          "x": "客観評価では、SimDPSは音響特徴量とニューラル埋め込み距離の指標全般で、広く使われるRePaintやDPSを上回った。複数ジャンルの音楽データセットによる主観評価でも、SimDPSは従来の拡散ベース手法より知覚上のもっともらしさを高め、類似候補の一致度が低い場合にも頑健であることが確認された。これらの成果は、音楽修復と文脈を考慮した音声編集の改善に道を開く。"
+        }
+      ]
+    },
+    "music/suno-shulman-fraud-remarks": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-31.png?fit=2000%2C1500&ssl=1",
+          "cap": "クレジット：Vibe Shack Studios"
+        },
+        {
+          "t": "p",
+          "x": "Suno CEOのMikey Shulmanは、「ストリーミング詐欺とAI音楽を同一視する」という「ごまかし」を批判するとともに、同社が人々の想像以上に舞台裏で不正対策に取り組んでいることを強調した。"
+        },
+        {
+          "t": "p",
+          "x": "「私はストリーミング詐欺に断固反対だ。あれは犯罪だ」と、Shulmanは今週Trapitalのポッドキャストに出演した際に語った。「AI音楽が関わることがあるという事実？AI音楽は犯罪ではない…この二つは同じではない」"
+        }
+      ]
     }
   }
 }

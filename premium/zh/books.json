@@ -10122,6 +10122,139 @@
           "x": "在上线纪念活动页面上，可以查看作家们向“Picks 智能体”提出的问题、推荐图书及推荐理由，并了解提问方式和推荐过程。上线纪念评论活动也同步进行。"
         }
       ]
+    },
+    "books/selfpubcon26-ai-discovery": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://selfpublishingadvice.org/wp-content/uploads/2026/11/Self-Pub-Con-2026-Highlights-Report.jpg"
+        },
+        {
+          "t": "p",
+          "x": "ALLi的自出版建议大会（Self-Publishing Advice Conference）SelfPubCon26于2026年10月16日至19日在线上举行。今年的主题是“The Future of Self-Publishing: What’s Working Now and What’s Next（自出版的未来：当下有效的做法与下一步）”。在17场分会中，Jane Friedman、Orna Ross、Penny Sansevieri、Kickstarter的Oriana Leckert以及Amazon KDP等演讲者探讨了读者触达、直销、众筹、播客、翻译、AI和写作技艺。"
+        },
+        {
+          "t": "p",
+          "x": "如今，越来越多的读者通过向AI助手寻求推荐来找书。Orna Ross在关于读者触达的分会上解释了这在实践中意味着什么：一个清晰的网站，无论出现在哪里都使用同样的自我介绍，并为自己写作的每个类型单独设一个页面，让这些工具不会搞混你写的是什么。一个简单的测试：让AI助手推荐一本和你的书类似的书，看看你的书是否出现。"
+        },
+        {
+          "t": "p",
+          "x": "Indie Author Magazine的出版人Chelle Honiker用AI代理处理旗下八个品牌的行政事务，而杂志里的每篇文章都由人来撰写和编辑。她的原则是：让人做人该做的事，让机器人做枯燥的事。她的AI助手AmandaBot每天早上给她发送广告报告，还发现Meta把她的中年超自然题材广告的投放对象改成了男性。"
+        },
+        {
+          "t": "p",
+          "x": "Nicholas Kotar认为，随着AI生产的内容越来越多，写作技艺给作者带来的优势不会减少，反而会更大。AI能生成文字，却无法判断什么值得说。"
+        }
+      ]
+    },
+    "books/atlantic-kadish-chatgpt-plot": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.theatlantic.com/thumbor/WpCSt6SIpZ4SfMiOezfUwZu_uUw=/0x0:4800x2700/960x540/media/img/mt/2026/11/2016_11_12_AI_Authors_and_Readers_1/original.jpg",
+          "cap": "插图：Adam Maida / The Atlantic"
+        },
+        {
+          "t": "p",
+          "x": "随着文学骗局泛滥，作者不再知道自己的读者是不是真的，读者也是如此。"
+        },
+        {
+          "t": "p",
+          "x": "去年秋天的一个晚上，一对中年夫妇走到作者签书的桌前。丈夫说自己患有帕金森病。他虽然没读过她的小说The Weight of Ink，但他的理解是，书中有一个患帕金森病的角色选择了协助自杀，而不是忍受身体的衰退。他对此有些异议。"
+        },
+        {
+          "t": "p",
+          "x": "但The Weight of Ink中患帕金森病的角色Helen Watt其实并没有结束自己的生命。就在几周前，作者向ChatGPT问了几个关于这部小说的问题，它在回答部分问题时给出了这个关于Helen情节的错误版本。从那以后，她一直担心这种歪曲会以某种方式在现实中产生影响。现在看来，影响真的出现了。"
+        },
+        {
+          "t": "p",
+          "x": "2025年末的那个晚上，是她第一次因为自己并没有写过的内容而被追问。她一边向这对夫妇解释他们在网上看到的内容是错的，一边在想：还有多少人也被同样误导了？"
+        }
+      ]
+    },
+    "books/celestial-zone-xm-ai-anime": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "2026年11月13日，新加坡新公司XM Media在Suntec Singapore Convention & Exhibition Centre举行的Game Fest 2026上成立，并宣布计划借助AI-assisted动画制作，从2027年起将Wee Tian Beng于1999年3月创作的武侠漫画The Celestial Zone（天界無限）改编为多季动画。XM Media称其为新加坡首部国际热门漫画，销往约40个国家。"
+        },
+        {
+          "t": "img",
+          "src": "https://danamic-media.danamic.org/danamic-production/2026/11/15052246/pitch-13890a76-XM-Media-1-link_14a2e195f1.webp",
+          "cap": "XM Media的Coming Soon主视觉融合了公司待推出项目中的动画风角色与漫画分格"
+        },
+        {
+          "t": "p",
+          "x": "公司表示该系列将于2027年起推出，但这只是工作室的目标，并非确定的上线日期；平台、集数和语言选项均未公布。XM Media还预告了Mystical Gateway（玄門），该作已开发为动画电影，计划于2026年底上映。"
+        },
+        {
+          "t": "img",
+          "src": "https://danamic-media.danamic.org/danamic-production/2026/11/15052251/pitch-13890a76-DSC00765-link_3f0101e18f.webp",
+          "cap": "XM Media创始人兼CEO、Mystical Gateway联合创作者Kerr Sun在Game Fest 2026现场发言"
+        },
+        {
+          "t": "p",
+          "x": "XM Media将AI描述为“实用的制作助手”，能够“在完整保障艺术完整性的同时，大幅提升制作规模”。Late Night Ride的电影人Koh Chong Wu与Wee Tian Beng一同列为艺术家。"
+        },
+        {
+          "t": "img",
+          "src": "https://danamic-media.danamic.org/danamic-production/2026/11/15052305/pitch-13890a76-DSC00792-link_e7779c299a.webp",
+          "cap": "Game Fest 2026的一场座谈解读XM Media关于AI与创意职业的学生调查"
+        },
+        {
+          "t": "p",
+          "x": "在XM Media于六场校园巡回活动中对195名受访者进行的调查中，44.1%表示希望学习如何将AI与传统创作技能结合使用，30.3%认为AI在动画和内容创作中最有用，31.8%表示担心AI可能取代创意工作并降低艺术水准。"
+        }
+      ]
+    },
+    "books/tamilnadu-library-ai-suspensions": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.toiimg.com/thumb/msid-135618763,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Chennai消息：据学校教育部长A Rajmohan周日宣布，Tamil Nadu邦政府因Coimbatore的Periyar Arivulagam Library采购AI-generated图书一事，已将五名图书馆官员停职。部长表示，这些违规行为发生在上一届DMK政府任内。"
+        },
+        {
+          "t": "p",
+          "x": "调查发现，Agal Vilakku Pathippagam出版的200多种图书是由推荐委员会提出的。该局一名知情人士说：“不过，这家出版社含有AI生成内容的1,800种泰米尔语图书，可能是图书馆官员为完成十万册目标而汇总各出版社书目时混入清单的。”"
+        },
+        {
+          "t": "p",
+          "x": "作家Perumal Murugan在该图书馆四楼的泰米尔语区发现了近1,800本Agal Vilakku Pathippagam出版的图书，涉嫌违规问题由此曝光。据报道，这些书存在定价虚高、AI生成内容与错误信息、虚构作者姓名以及无效ISBNs等问题。"
+        },
+        {
+          "t": "p",
+          "x": "根据法院命令，监察与反腐败局（Directorate of Vigilance and Anti-Corruption，DVAC）也在进行调查。Madras高等法院Madurai法庭已将该图书馆舞弊案安排在周一审理。"
+        }
+      ]
+    },
+    "books/books-anthropic-taiwan-563t": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202611/13/860cbb8e-408f-4290-a5e6-c9019810bb45.jpg",
+          "cap": "[Shutterstock]"
+        },
+        {
+          "t": "p",
+          "x": "继欧洲、韩国、日本等地之后，人工智能（AI）企业大量收购图书的做法在台湾也引发争议。AI企业Anthropic于2024年11月至今年9月间从台湾图书经销商联合发行（UDC）共购入563.143吨（t）图书一事，最早由《中央日报》于上月18日报道披露。台湾最大报纸《自由时报》引述该报道后，争议正蔓延至政界。"
+        },
+        {
+          "t": "p",
+          "x": "4日，在台湾文化部长李远列席的台湾议会（立法院）教育及文化委员会上，AI企业大量收购中文图书成为主要议题。据《自由时报》报道，在野党国民党籍议员葛如钧援引《中央日报》的报道，要求文化部“应掌握此类交易对出版产业的影响”。"
+        },
+        {
+          "t": "p",
+          "x": "对此，李部长表示“文化部已向相关部门提交书面意见”，并称“将在一周内就相关法律修订提交意见，并在一个月内就（AI训练资料授权中介）平台建设的可行性准备评估资料”。该平台由台湾文化内容策进院等机构推动建设，旨在让愿意支付训练使用费的AI企业与愿意授权作品使用的出版社和创作者能够正式进行交易。"
+        },
+        {
+          "t": "p",
+          "x": "台湾政府还在推进试点项目，将出版物等各类语言资料数字化以便用于AI训练，并向著作权人支付合理报酬。据台湾周刊《镜周刊》9日报道，执政党议员陈培瑜表示：“政府近期已启动跨部门协商，正在构思‘传统语言资料数字化先导计划’。”‘传统语言资料’指过去已生产的出版物等资料。"
+        }
+      ]
     }
   }
 }

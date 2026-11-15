@@ -10537,6 +10537,101 @@
           "x": "Suno Bridge (beta) está incluido en todas las suscripciones Premier. Por ahora funciona con Ableton Live 12 en Mac."
         }
       ]
+    },
+    "music/cerati-me-quedo-aqui-remaster": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://consequence.net/wp-content/uploads/2026/11/Gustavo-Cerati-Me-Quedo-Aqui-Remastered-Video-Frame.jpg",
+          "cap": "Video remasterizado de “Me Quedo Aquí” de Gustavo Cerati (vía Instagram)"
+        },
+        {
+          "t": "p",
+          "x": "Los hijos de Gustavo Cerati, Lisa y Benito, criticaron una versión actualizada del video musical de “Me Quedo Aquí” del fallecido ícono del rock argentino, publicada para coincidir con el 20.º aniversario de su álbum de 2006 Ahí Vamos. El video provocó el rechazo de fans que sospechan que se usó inteligencia artificial para alterar la apariencia del músico."
+        },
+        {
+          "t": "p",
+          "x": "En un comunicado compartido en las Instagram Stories de Lisa Cerati y también republicado por Benito, los hermanos expresaron primero su apoyo a la remasterización del audio del álbum. “Sentíamos que era necesaria y estamos contentos con cómo quedó el audio, respetando la intención original de un sonido más crudo”."
+        },
+        {
+          "t": "p",
+          "x": "“En cuanto a los videos, ‘Me Quedo Aquí’ recibió un tratamiento que no vimos antes que ustedes, y el resultado nos pareció desfavorable”, continuaron. “No sabíamos del proceso de mejora ni de qué herramientas se usaron. No fuimos consultados y lo lamentamos profundamente”."
+        },
+        {
+          "t": "img",
+          "src": "https://consequence.net/wp-content/uploads/2026/11/Lisa-and-Benito-Cerati-Slam-Use-of-AI-Gustavo-Cerati-Remastered-Video.png",
+          "cap": "Comunicado de Lisa y Benito Cerati (vía Instagram)"
+        },
+        {
+          "t": "p",
+          "x": "Los fans cuestionaron aparentes alteraciones en los rasgos faciales de Cerati, y algunos sospechan modificaciones AI-generated. Ni la cuenta oficial ni los hermanos han confirmado si se usó AI. Cerati murió en 2014 a los 55 años. Ahí Vamos remasterizado llegó en formato digital el 12 de noviembre, y las ediciones físicas siguieron el 13 de noviembre."
+        }
+      ]
+    },
+    "music/terrecon-russia-ai-war-songs": {
+      "blocks": [
+        {
+          "t": "video",
+          "src": "https://rfe-video-ns.akamaized.net/pangeavideo/2026/11/0/02/0241abbc-9211-4460-8439-08df3ee82709_720p.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Los rusos que usan sitios de música en streaming podrían encontrar un nuevo género en sus feeds: canciones generadas por IA (AI-generated) que apoyan al ejército ruso y la guerra en Ucrania. Un estudio de la organización sin fines de lucro ucraniana Terrecon halló casi 1,000 canciones de esa categoría, y los investigadores dicen que buscan generar sentimiento patriótico, ayudar a movilizar nuevos reclutas e incluso atraer a los niños."
+        }
+      ]
+    },
+    "music/wired-youtube-beyond-the-beat": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6af7840bd2837972f5ddf4f3/master/w_1600,c_limit/Untitled-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "YouTube Music y Spotify quieren que presentadores sintéticos curen tus listas de reproducción. Reece Rogers, de WIRED, dice que sus charlas torpes y sus datos falsos sobre canciones arruinan el ambiente."
+        },
+        {
+          "t": "p",
+          "x": "“Beyond the Beat” de YouTube Music, una beta de YouTube Labs lanzada en 2025, interviene al azar durante unos 30 segundos entre canciones. Tras un tema de Slayyyter soltó un párrafo sobre “Rock Music by Charli XXC [sic]”, destrozando el nombre de Charli XCX. También comentó el remix de Expectations de Olivia Rodrigo con Chappell Roan y luego puso la versión original, sin Roan."
+        },
+        {
+          "t": "p",
+          "x": "Spotify, que presentó su AI DJ en 2023 y en noviembre añadió más personalidades y controles, ofrece ocho voces en inglés; varias abusan de muletillas como “you know” y “like”. Sus comentarios resultaron más ajustados y tolerables que los de YouTube, pero la afirmación de Spotify de que “el 80 por ciento de los oyentes vuelve al DJ semana tras semana” no incluirá a Rogers: “Ya sean frases vacías o imitaciones de errores humanos, ya escuché suficiente”."
+        }
+      ]
+    },
+    "music/simdps-music-inpainting": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Music Inpainting With Similarity-Guided Latent Diffusion (inpainting musical con difusión latente guiada por similitud) — Sean Turland, Eloi Moliner, Vesa Välimäki. Aceptado en ISMIR 2026."
+        },
+        {
+          "t": "p",
+          "x": "Proponemos una técnica de inpainting musical que combina la búsqueda de similitudes con un modelo generativo basado en difusión para reemplazar segmentos extensos de grabaciones de audio por alternativas adecuadas. El método híbrido propuesto, Similarity-Guided Diffusion Posterior Sampling (SimDPS), recupera segmentos candidatos de reemplazo de la señal más amplia según su similitud contextual y los usa para guiar el proceso de difusión hacia reconstrucciones coherentes. Al ser independiente del modelo, el marco es compatible con cualquier modelo de difusión preentrenado que opere en el dominio de la forma de onda o en el latente."
+        },
+        {
+          "t": "p",
+          "x": "Las evaluaciones objetivas muestran que SimDPS supera a los métodos RePaint y DPS, ampliamente adoptados, en características acústicas y métricas de distancia de embeddings neuronales. Las evaluaciones subjetivas en conjuntos de datos musicales de varios géneros confirman que SimDPS mejora la plausibilidad perceptiva frente a métodos previos basados en difusión y muestra robustez ante candidatos de similitud poco coincidentes. Estos resultados abren el camino a una mejor restauración musical y a una edición de audio consciente del contexto."
+        }
+      ]
+    },
+    "music/suno-shulman-fraud-remarks": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-31.png?fit=2000%2C1500&ssl=1",
+          "cap": "Crédito: Vibe Shack Studios"
+        },
+        {
+          "t": "p",
+          "x": "El CEO de Suno, Mikey Shulman, criticó lo que describe como un “truco de prestidigitación” que consiste en “equiparar el fraude en streaming con la música con AI”, y subrayó que su empresa hace entre bastidores más trabajo contra el fraude del que la gente cree."
+        },
+        {
+          "t": "p",
+          "x": "“Me opongo rotundamente al fraude en streaming. Es un delito”, dijo Shulman esta semana en el podcast Trapital. “¿Que a veces haya música con AI de por medio? La música con AI no es un delito… No son lo mismo”."
+        }
+      ]
     }
   }
 }

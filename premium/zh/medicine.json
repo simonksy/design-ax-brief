@@ -4438,6 +4438,117 @@
           "x": "Uptunity Aneurysm是Bracco全新解读型AI软件组合Uptunity的首款产品，由该公司与Avicenna.AI合作开发。Avicenna.AI将在U.S.主导推广和商业分销。"
         }
       ]
+    },
+    "medicine/monument-openevidence-block": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_305233727-1024x576.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "一些医院在工具存在合规风险时会限制访问，另一些则将其引入内部。"
+        },
+        {
+          "t": "p",
+          "x": "今年早些时候，总部位于South Dakota和Wyoming的医疗系统Monument Health决定封禁热门免费人工智能工具OpenEvidence。该系统首席信息官Patrick Woodard随后收到了几条反对意见。"
+        },
+        {
+          "t": "p",
+          "x": "其中一条来自一位重度用户。这名医生在OpenEvidence中存储了一百多份患者病历，并把它们输入这款AI工具，以辅助医疗决策。Woodard告诉他，这种做法必须停止。"
+        },
+        {
+          "t": "p",
+          "x": "过去一年里，专为回答临床医生问题而打造的免费聊天机器人越来越受欢迎，包括OpenEvidence、Doximity Ask和ChatGPT for Clinicians。数十万名医生在使用这些工具，部分原因是它们声称符合HIPAA，用户签署协议后即可将患者受保护的健康信息直接分享给AI。（文章其余部分为STAT+付费内容。）"
+        }
+      ]
+    },
+    "medicine/neardoc-ai-charting-clinics": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044563_3048547_938.png",
+          "cap": "Studio Kiko“NearDoc”首席医疗官(CMO)李昌珉近日接受《青年医师》采访(ⓒ青年医师)。"
+        },
+        {
+          "t": "p",
+          "x": "“在与患者对话量最大的精神健康医学科，以及需要同时面对儿童患者和监护人的儿童青少年科，好评尤其多。”NearDoc是一款基于AI的电子病历(EMR)书写辅助服务，能实时理解医生与患者的对话，整理出症状、查体所见、诊断和治疗计划(SOAP)。其优势在于能体现用户书写风格的“个性化病历书写”。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044563_3048548_2030.png",
+          "cap": "NearDoc使用示例，记录了医护人员与患者之间的对话(资料提供：李昌珉CMO)。"
+        },
+        {
+          "t": "p",
+          "x": "身为骨科专科医生的李CMO谈到参与开发的契机时说：“当住院医师时，我总是坐在病房里，每次花1到2个小时整理积压的病历。”据Studio Kiko介绍，使用NearDoc的120名医生中有98%对病历书写感到满意，从免费试用转为付费的比例达到70%。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044563_3048549_2124.png",
+          "cap": "NearDoc使用示例，根据医护人员与患者的对话整理出SOAP(资料提供：李昌珉CMO)。"
+        },
+        {
+          "t": "p",
+          "x": "使用NearDoc的医护人员(120名)书写EMR的时间，从引入前平均3分48秒缩短到引入后平均约1分8秒，缩短约70%。在针对100名患者的调查中，诊疗满意度上升约28%p。上线5个月，引入的医疗机构突破500家，累计诊疗约80万次。"
+        },
+        {
+          "t": "p",
+          "x": "原始语音在转换为文本后立即销毁；输入平时书写的病历数据后，NearDoc会分析并学习用户的书写风格。Studio Kiko计划年内与国立和公立医院等开展概念验证(PoC)，随后推出企业版模块。"
+        }
+      ]
+    },
+    "medicine/quibim-qp-prostate-microsoft": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Quibim将通过Microsoft的Precision Imaging Network向北美医疗机构提供其QP-Prostate软件。Precision Imaging Network是一个可接入第三方影像AI应用的平台。"
+        },
+        {
+          "t": "p",
+          "x": "据该公司介绍，QP-Prostate可在双参数(bi-parametric)前列腺MRI上自动检测并识别可疑病灶，并以叠加层形式标注在原始图像上。该软件已获U.S.食品药品监督管理局(FDA)批准，并持有Health Canada颁发的class III医疗器械许可证。"
+        },
+        {
+          "t": "p",
+          "x": "该公司称，Precision Imaging Network利用现有的影像共享基础设施，将影像检查发送到机构所选的应用。Quibim表示，在受支持的配置下，QP-Prostate的结果可传送至Microsoft的报告软件PowerScribe，放射科医生可在最终确定报告前查看并纳入这些结果。"
+        }
+      ]
+    },
+    "medicine/oral-pigmentation-ai-screening-gap": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "以MeMoSA为代表的AI-assisted(AI辅助)口腔癌筛查工具几乎只在亚洲人群中做过验证。作者提出一个可检验的假设：生理性口腔色素沉着因种族而异、与病理无关，可能导致分类器把正常变异误判为可疑，或漏掉被色素掩盖的病灶。借鉴脉搏血氧仪和皮肤科AI的先例，作者呼吁在美国等种族多元的环境中部署前，先按色素沉着程度分层进行验证。"
+        },
+        {
+          "t": "p",
+          "x": "Khanna, D., Grover, A. Beyond skin deep: physiologic oral pigmentation as an overlooked validation gap in AI-assisted oral cancer screening. npj Digit. Med. (2026). 本文为加速预览版(Accelerated article preview)，目前仅发布了摘要。"
+        }
+      ]
+    },
+    "medicine/biolojic-bd200-adc-ind": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/0vv8moc6/biopharn/29f1e6f63b2a5a331dd153d454f6879a0aa8733b-1280x720.jpg?w=1200&fit=max&q=75&fm=jpg"
+        },
+        {
+          "t": "p",
+          "x": "FDA已批准Biolojic Design针对BD200的研究性新药（Investigational New Drug，IND）申请。BD200是一款靶向Trop2和Nectin-4的AI-designed双特异性抗体偶联药物（ADC），该公司称其为首个进入临床试验的“multibody（多体抗体）”。此次批准使Biolojic得以在同时表达这两种抗原的部分实体瘤患者中启动一项全球phase 1研究；CEO Yanay Ofran表示，公司预计在未来几周内启动该研究。"
+        },
+        {
+          "t": "p",
+          "x": "BD200的每条臂都能结合Nectin-4或Trop2，因此该分子可以两条臂都结合Nectin-4、两条臂都结合Trop2，或各结合一种。这一设计旨在让药物根据患者肿瘤细胞上表达的抗原组合调整结合方式。BD200携带拓扑异构酶抑制剂载荷，通过该公司所称的独特连接子相连。"
+        },
+        {
+          "t": "p",
+          "x": "Biolojic利用人工智能和计算设计将抗体转化为候选药物。其平台产出的imneskibart（原名AU-007）据该公司称是首个进入临床的AI-designed抗体，目前处于Phase 2试验阶段。"
+        },
+        {
+          "t": "p",
+          "x": "据该公司介绍，在临床前研究中，BD200能根据肿瘤细胞上异质性的抗原表达调整特异性，与标准单特异性ADCs或模板双特异性ADC相比，显示出更高的疗效和克服耐药的能力。phase 1研究将评估安全性、耐受性、药代动力学和初步疗效。"
+        }
+      ]
     }
   }
 }

@@ -11131,6 +11131,184 @@
           "x": "《Crimson Desert》上线时，玩家发现了AI生成（AI-generated）的“2D视觉道具”，Pearl Abyss随即通过补丁将其移除。财报信还称，生物收集游戏《DokeV》“目标于2028年下半年发售”，而《Crimson Desert》将于“明年上半年”登陆Nintendo Switch 2。"
         }
       ]
+    },
+    "games/fable52-nephew-brawler": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "开发者Lex Toumbourou于11月10日在个人博客上发文称，他把外甥亲手画的游戏设计交给Anthropic最新的AI模型“Claude Fable 5.2”，一夜之间做出了一款4人合作横版清版动作游戏。游戏名为“Aiden's Revenge”，共有12个关卡、18名可操作角色，可直接在网页浏览器中游玩。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gamey.kr/news/photo/202611/3019684_174018_136.jpg"
+        },
+        {
+          "t": "p",
+          "x": "外甥艾登把以家人为原型的5名英雄、12名首领，以及营救被绑架小狗布丁的故事都画成图交给了他。为赶上6月生日、用Claude Code、Opus 4.8和Fable 5做出的第一版，玩上几分钟就难以继续。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gamey.kr/news/photo/202611/3019684_174019_1343.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Toumbourou在发布前抢先试用了Fable 5.2，他留下提示词，第二天早上查看时，游戏已一直完成到结局。Fable抛弃了大部分原有代码从头重写，并用代替人玩游戏的机器人跑完全部12个关卡，借助截图发现并修复问题。两天内共发出约600次Claude请求，消耗约3억4,000만（三亿四千万）个词元，生成约500张图片、11首音乐和约100个音效。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gamey.kr/news/photo/202611/3019684_174021_143.jpg"
+        },
+        {
+          "t": "p",
+          "x": "应家人要求，英雄增至18名。看到完成的游戏后，艾登说：“和我想象的一模一样。”在Hacker News上，有人估算成本最低2,560美元、最高1만3,000달러（一万三千美元），也有人算出订阅费就足够，看法不一。"
+        }
+      ]
+    },
+    "games/unity-korea-ai-three-paths": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.invenglobal.com/upload/image/2026/11/12/r1794483730633569.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Unity Korea资深合作伙伴工程师Jong-tae Park于12日在KOCCA于板桥（Pangyo）Global Game Hub Center举办的“AI Game Lab Day 2026”上发表演讲。他强调，要超越简单的网页端产出、打造精致的高保真游戏，针对引擎的专用AI工作流不可或缺。"
+        },
+        {
+          "t": "p",
+          "x": "Unity计划今年12月推出“Unity 6.7 LTS”，明年3月GDC前后推出“Unity 7”。URP将新增Surface Cache GI、支持DLSS、FSR、PSSR和STP的超分辨率框架，以及借助“Sentis”推理引擎将纹理内存减少约40%的Neural Texture Compression。"
+        },
+        {
+          "t": "img",
+          "src": "https://static.invenglobal.com/upload/image/2026/11/12/r1794483738795652.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "第一大支柱是编辑器内的“Unity AI Tools”，包括“AI Assistant”“Generator”和“AI Gateway”。AI Assistant会分析项目并主动操作编辑器，提供Ask、Plan和Agent模式以及“Checkpoint”功能。Generator涵盖从2D精灵到3D模型、骨骼绑定和音频，通过“Unity AI Credits”计费（每$10约1,000积分）。"
+        },
+        {
+          "t": "img",
+          "src": "https://static.invenglobal.com/upload/image/2026/11/12/r1794483750571959.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "第二大支柱“Unity CLI”让智能体只调用所需的精确命令，与MCP-based的AI Gateway相比速度更快、词元用量更低。第三大支柱是面向Claude Code、Codex和Antigravity的官方插件，以及可用自然语言制作游戏并支持多人协作的网页工具“Unity Spark”。"
+        },
+        {
+          "t": "video",
+          "yt": "IkcK7aeMw5A"
+        }
+      ]
+    },
+    "games/ncai-varco-pangyo-builders": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "NC AI与游戏开发者面对面，分享了运用人工智能（AI）制作3D图形与音效的技术。此举旨在推广其自研AI创作平台VARCO，并扩大其在游戏开发一线的应用。"
+        },
+        {
+          "t": "p",
+          "x": "NC AI于13日宣布，举办了游戏开发者社区“板桥建造者”的首场活动“建造者之夜”。70余名游戏开发者和业内人士出席，分享了利用AI制作游戏的案例与实务经验。"
+        },
+        {
+          "t": "p",
+          "x": "板桥建造者是一个不论所属公司或负责工作、供游戏开发者交流的社区。NC AI计划帮助开发者分享将AI制作工具应用于实际工作的方法，并寻找合作机会。"
+        },
+        {
+          "t": "img",
+          "src": "https://image.zdnet.co.kr/2026/11/13/9665b74012e71c74367f92553650ba35.jpg"
+        },
+        {
+          "t": "p",
+          "x": "本次活动以“用AI构建游戏”为主题。游戏程序员、“假游戏创作马拉松”组织者Shaderku介绍了用AI开发游戏的经验。"
+        },
+        {
+          "t": "p",
+          "x": "Shaderku分享了将用NC AI创作平台VARCO制作的3D图形资产应用到实际游戏中的案例，并说明了从AI工具对接、图形处理性能优化，到画面演出和音效制作，在开发过程中使用的技术与方法。"
+        },
+        {
+          "t": "p",
+          "x": "VARCO是利用生成式AI制作游戏所需3D图形和音效的平台。NC AI正以减少重复性内容制作工作、帮助开发者专注于游戏策划和提升完成度为目标开发相关技术。"
+        },
+        {
+          "t": "p",
+          "x": "NC AI的一线团队也分享了开发经验。负责VARCO 3D的金章英组长和负责VARCO音效的赵南贤组长介绍了将AI制作的图形与音频应用到实际游戏开发流程中的方法，还谈到了在缩短工作时间的同时管理产出质量需要考虑的事项。"
+        },
+        {
+          "t": "p",
+          "x": "活动结束后举行了交流环节，参与者分享了开发经验与创意。NC AI向全体参与者提供了VARCO 1个月免费使用券，帮助他们亲自体验活动中介绍的功能。"
+        },
+        {
+          "t": "p",
+          "x": "NC AI还将扩大与游戏开发者见面的机会，计划于19日至21日在釜山举行的国际游戏展“G-STAR 2026”期间运营体验咖啡馆。"
+        },
+        {
+          "t": "p",
+          "x": "参观者可以亲自试用VARCO 3D和VARCO音效。NC AI还将面向游戏开发商和制作团队，提供契合项目环境的AI导入咨询。"
+        },
+        {
+          "t": "p",
+          "x": "NC AI计划今后定期举办板桥建造者活动，运营开发者社区，持续分享VARCO应用案例，并关注开发者在游戏制作过程中遇到的问题与需求。"
+        },
+        {
+          "t": "p",
+          "x": "NC AI代表李妍秀表示：“NC AI从游戏开发一线的困扰出发发展AI技术，因此非常重视与实际制作游戏的开发者沟通。”他还说：“我们将持续支持板桥建造者，使其成为多元开发者分享经验与创意、发现新可能的社区。”"
+        }
+      ]
+    },
+    "games/unity-ai-project-tips": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/fuvbjjlp/production/2330bde656908d3aad3b4b3181a276993cc9fd61-1200x675.png"
+        },
+        {
+          "t": "p",
+          "x": "用十个简单方法整理你的创意、提示词和进度，让你的第一款电子游戏从第一天起就步入正轨。当你通过向Unity Spark这类工具输入提示词、借助AI制作游戏时，无需编写代码，但仍要做出通常由引擎迫使你做的决定。"
+        },
+        {
+          "t": "p",
+          "x": "1. 写一份设计简报并随时备用。2. 一次只做一小部分。3. 东西只命名一次，并始终使用同一个词。4. 用一份清单记下所有创意。5. 用可重复使用的词语描述你想要的风格。"
+        },
+        {
+          "t": "p",
+          "x": "6. 一次只改一处，然后试玩。7. 重大改动前先保存检查点：Spark会在每次输入提示词后自动保存还原点，保留7天，且每个对话只保留最新的20个。8. 记录提示词日志。9. 记下素材的来源。10. 跟踪已完成和待完成的事项。"
+        },
+        {
+          "t": "p",
+          "x": "打开笔记应用，写下一句话的游戏描述：“在我的游戏里，你___，然后___，这样你就能___。”等你获得Unity Spark使用权限后，把它粘贴进去作为第一条提示词。"
+        }
+      ]
+    },
+    "games/games-cod-ai-cheats-ricochet": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Call of Duty中的作弊行为日益复杂，人工智能(AI)让局面更加棘手。Activision警告称，作弊开发者越来越多地借助AI打造为玩家提供不公平优势的工具，同时让传统反作弊检测更加困难。"
+        },
+        {
+          "t": "img",
+          "src": "https://gameriv.com/wp-content/uploads/2026/10/Call-of-Duty-Coverage-by-gamign-media.jpg",
+          "cap": "图片来源：Acitvision"
+        },
+        {
+          "t": "p",
+          "x": "Activision在X上的一则近期帖子中表示，作弊开发者正借助AI打造无需直接与游戏交互即可提供不公平优势的工具。AI-powered作弊工具可能在游戏外部运行，分析玩家屏幕上的画面，并通过独立输入实现自动瞄准，因此检测作弊软件本身变得更加困难。"
+        },
+        {
+          "t": "img",
+          "src": "https://gameriv.com/wp-content/uploads/2026/08/Call-of-duty-anti-cheat-lawsuit.jpg",
+          "cap": "图片来源：Activision"
+        },
+        {
+          "t": "p",
+          "x": "RICOCHET Anti-Cheat开发团队不再完全依赖识别作弊软件，而是研究这些工具在比赛中产生的可疑行为。RICOCHET的机器学习模型会分析不自然的瞄准、可疑的反应时间、异常的锁定目标等游戏模式，以区分正常玩家操作与自动化辅助。机器学习会标记可疑行为以供进一步调查，但不会独立做出处罚决定。"
+        },
+        {
+          "t": "p",
+          "x": "Activision表示，作弊开发者正在调整软件，让自动化操作看起来更自然，但软件越是模仿正常玩法，可能带来的优势就越小。更多AI-focused检测工具尚未公布发布日期。"
+        }
+      ]
     }
   }
 }

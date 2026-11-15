@@ -12168,6 +12168,130 @@
           "x": "“The idea is to tap into the brains of the designers and get them to infuse their domain knowledge as the design evolves,” says senior author Josephine Carstensen."
         }
       ]
+    },
+    "design/figma-configindia-canvas-production": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "87SISSxj6R4"
+        },
+        {
+          "t": "p",
+          "x": "Config India 2026: Figma deep dive: Nothing lost in translation, from canvas to production."
+        },
+        {
+          "t": "p",
+          "x": "Prototypes communicate behaviour and intent, but they aren't in production, and the gap between what was decided and what gets built is where most of the drift happens. Go beyond the basics with your design system context, advanced MCP techniques, code layers, and specs."
+        }
+      ]
+    },
+    "design/figma-blog-creative-ai-split": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/4791f6c2acbf0d3121abf8a8f3e7aa3c6b7c4ae9-3264x1836.png?w=1632&h=918&q=75&fit=max&auto=format",
+          "cap": "Hero illustration by Jose Flores"
+        },
+        {
+          "t": "p",
+          "x": "Itay Schiff, co-founder and chief creative officer of Figma Weave, asks which parts of the creative process AI can do for us—and which we insist on keeping for ourselves. Many creative people today are using AI to do something they actually enjoyed doing, like writing, designing, editing, or directing. To him, the question isn't whether or not to use AI, but which parts to automate."
+        },
+        {
+          "t": "p",
+          "x": "Friction can be valuable. Tedious VFX steps—removing trackers, building previs, pulling the green screen—are labor most of us would gladly give up. But some friction isn't labor; it's where the thinking happens. Is it simply labor? Let the machine take it."
+        },
+        {
+          "t": "p",
+          "x": "Generation isn't authorship. An AI model's first output looks finished, but anyone could have generated that same frame. For a Gaussian splat campaign generated with Seedance 2.5 in Figma Weave, the v1 came out fast and far from finished; the team kept riffing on story, characters and styling."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/6ff46e4235ab02c904cb2673573d5fefd08312aa-3264x1836.png?w=3264&h=1836&q=75&fit=crop&crop=focalpoint&auto=format",
+          "cap": "A “Spring Arrivals” campaign design shown in Figma Design beside its connected Figma node in Weave."
+        },
+        {
+          "t": "p",
+          "x": "Schiff describes an “open mode” for exploring and a “closed mode” for committing to decisions and automating. Before you hand something off to AI, examine it first. Be careful not to automate thinking away—especially when it's most tempting."
+        }
+      ]
+    },
+    "design/qentin-scan-search-aec": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/11/qentin.jpg"
+        },
+        {
+          "t": "p",
+          "x": "qentin is an AI agent that lets facility managers search laser-scanned “digital twins” using natural language. Currently in early access, it is developed by Austrian startup qapture, which has spent six years laser scanning buildings across Austria, Switzerland and Germany, including 38 Ikea sites covering more than 2 million square metres."
+        },
+        {
+          "t": "p",
+          "x": "Once a building has been scanned and georeferenced, qentin uses AI to automatically detect, label and locate objects, and reads labels and asset tags from the scans using text recognition. Users ask questions in German or English and receive answers pinned to a location in the 3D viewer."
+        },
+        {
+          "t": "p",
+          "x": "“Today, knowledge about a building sits in Excel lists, old drawings, PDF reports and in the heads of a few people. With qentin it sits in the building itself, and you can simply ask,” says Daniel Höller, CEO and co-founder of qapture."
+        },
+        {
+          "t": "p",
+          "x": "Energie AG Oberösterreich already uses qentin in live operations. Qapture has captured 137 Energie AG sites, covering 730,000 square metres and 43 hydropower plants, with 6,300 automatically detected labels. Other uses include checking escape routes and fire protection measures."
+        }
+      ]
+    },
+    "design/simscale-ai-blueprint-nvidia": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/11/V-model-graphic.jpg"
+        },
+        {
+          "t": "p",
+          "x": "SimScale has launched the Engineering AI Blueprint for CTOs and engineering leaders who are planning to deploy AI agents in engineering workflows. The blueprint includes NVIDIA technologies for accelerated computing and physics AI models and tools."
+        },
+        {
+          "t": "p",
+          "x": "Moving from pilot projects to broader deployment can be difficult, especially when AI agents are used in design workflows. The blueprint draws on engineering projects and customer deployments to outline a framework for scaling engineering AI."
+        },
+        {
+          "t": "p",
+          "x": "It cites one study in which decisions made before design freeze accounted for 86% of expected program cost and late-found concept defects required about 13 times more rework. It proposes a process in which exploration comes before selection, validation starts earlier and physical testing is used for confirmation. It also defines where agent autonomy should be limited."
+        },
+        {
+          "t": "p",
+          "x": "The blueprint outlines the software layers needed for autonomous workflows and identifies where NVIDIA PhysicsNeMo, NVIDIA Nemotron and the NVIDIA NeMo Agent Toolkit fit in the stack. A SimScale survey of 350 engineering leaders found that 99% expected measurable ROI from AI within 12 months."
+        }
+      ]
+    },
+    "design/figma-3d-transforms-launch": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Earlier this year, Figma announced Figma Motion, generative plugins and shaders powered by the Figma agent, and 3D transforms. Today, 3D transforms are available in open beta. Use the 3D transform effect to tilt, rotate, and arrange text, images, vectors, and frames in space; add the perspective effect to a parent frame and they become part of a shared spatial composition. The effects are non-destructive: the original artwork remains editable underneath."
+        },
+        {
+          "t": "p",
+          "x": "The Figma Brand Studio team put these effects to work on the launch video for 3D transforms. Brand designer Deanna Gueli worked out a typographic placement, then asked the Figma agent to repeat it at intervals along the Z axis. “There was a tango back and forth: The agent did math, and I did the creative stuff,” she says. She also used the agent to help construct geometry, placing the type animation onto a rectangular tube and turning that form into a component."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/02f264d3e112d6229cb18015b9fa6b7123a380c9-1920x1080.png?w=1200&q=75&fit=max&auto=format",
+          "cap": "Deanna explored placing type on geometry and rotating those elements in space."
+        },
+        {
+          "t": "p",
+          "x": "Brand motion designer Ben Hill had the Figma agent build a generative plugin to arrange elements into a grid, a helix, a ring, or a randomized scatter, then added shaders for surface treatments and light sweeps."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/222f89045df6d65e95959134992974b5d8d51f31-3840x2160.png?rect=0,1,3840,2159&w=1200&q=75&fit=max&auto=format",
+          "cap": "The agent-generated plugin gave Ben a range of 3D layouts and controls for orientation and spacing."
+        },
+        {
+          "t": "p",
+          "x": "3D transforms map directly to CSS in Dev Mode, and coding agents can read and create 3D designs through the Figma MCP server. 3D transforms are now in open beta for all Full seat users."
+        }
+      ]
     }
   }
 }

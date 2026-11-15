@@ -4438,6 +4438,117 @@
           "x": "Uptunity Aneurysmは、BraccoがAvicenna.AIとの提携を通じて開発した読影用AIソフトウェアの新ポートフォリオUptunityの最初の製品である。U.S.での販促と商業流通はAvicenna.AIが主導する。"
         }
       ]
+    },
+    "medicine/monument-openevidence-block": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_305233727-1024x576.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "コンプライアンス上のリスクがあればアクセスを制限する病院がある。一方で、自前で導入する病院もある。"
+        },
+        {
+          "t": "p",
+          "x": "今年初め、South DakotaとWyomingを拠点とする医療システムMonument Healthは、人気の無料人工知能ツールOpenEvidenceへのアクセスを遮断することを決めた。同組織の最高情報責任者であるPatrick Woodardのもとには、いくつかの反対意見が寄せられた。"
+        },
+        {
+          "t": "p",
+          "x": "そのひとつはヘビーユーザーからだった。この医師はOpenEvidenceの中に百件を超える患者記録を保存し、医療上の判断の助けとしてAIツールに入力していた。それはやめなければならない、とWoodardは伝えた。"
+        },
+        {
+          "t": "p",
+          "x": "この一年で、OpenEvidence、Doximity Ask、ChatGPT for Cliniciansなど、臨床医の質問に答えるために作られた無料チャットボットの人気が高まった。数十万人の医師がこれらのツールを使っている。その一因は、各ツールがHIPAA準拠をうたい、契約に署名すれば患者の保護対象医療情報をAIと直接共有できるとしている点にある。(記事の続きはSTAT+の会員限定である。)"
+        }
+      ]
+    },
+    "medicine/neardoc-ai-charting-clinics": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044563_3048547_938.png",
+          "cap": "Studio Kiko「NearDoc」の李昌珉最高医療責任者(CMO)が最近、青年医師のインタビューに応じている(ⓒ青年医師)。"
+        },
+        {
+          "t": "p",
+          "x": "「患者との会話量が最も多い精神健康医学科や、小児患者と保護者に同時に対応しなければならない小児青少年科で特に好評でした」。NearDocはAIベースの電子カルテ(EMR)作成支援サービスで、医師と患者の会話をリアルタイムで理解し、症状、診察所見、診断と治療計画(SOAP)を整理する。ユーザーのカルテ記載スタイルを反映する「パーソナライズドチャーティング」が強みだ。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044563_3048548_2030.png",
+          "cap": "NearDocの活用例。医療者と患者の会話が記録されている(資料提供:李昌珉CMO)。"
+        },
+        {
+          "t": "p",
+          "x": "整形外科専門医である李CMOは「研修医時代はいつも病棟に座って、1〜2時間ずつたまったカルテを整理していた」と開発に加わったきっかけを語った。Studio Kikoによると、NearDocを使った医師120人のうち98%がカルテ作成に満足し、無料体験から有料への転換率は70%に達した。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044563_3048549_2124.png",
+          "cap": "NearDocの活用例。医療者と患者の会話をもとにSOAPが整理されている(資料提供:李昌珉CMO)。"
+        },
+        {
+          "t": "p",
+          "x": "NearDocを使う医療者(120人)のEMR作成時間は、導入前の平均3分48秒から導入後は平均約1分8秒となり、約70%短縮された。患者100人を対象にした調査では、診療満足度が約28%p上昇した。発売から5カ月で導入医療機関は500カ所を突破し、累計診療件数は約80万件に上る。"
+        },
+        {
+          "t": "p",
+          "x": "元の音声はテキストに変換した直後に破棄され、普段書いているカルテデータを入力すると、NearDocがカルテ記載スタイルを分析して学習する。Studio Kikoは年内に国公立病院などとの概念実証(PoC)を経て、エンタープライズ向けモジュールを公開する計画だ。"
+        }
+      ]
+    },
+    "medicine/quibim-qp-prostate-microsoft": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Quibimは、サードパーティーの画像AIアプリケーションを利用できるプラットフォームであるMicrosoftのPrecision Imaging Networkを通じて、北米の医療機関にQP-Prostateソフトウェアを提供する。"
+        },
+        {
+          "t": "p",
+          "x": "同社によると、QP-Prostateはバイパラメトリック(bi-parametric)前立腺MRIで疑わしい病変を自動的に検出・特定し、元画像の上にオーバーレイとして表示する。このソフトウェアはU.S.食品医薬品局(FDA)の承認を受けており、Health Canadaからクラス(class) IIIの医療機器ライセンスを取得している。"
+        },
+        {
+          "t": "p",
+          "x": "同社によると、Precision Imaging Networkは既存の画像共有インフラを使い、医療機関が選んだアプリケーションへ画像検査を振り分ける。対応する構成では、QP-Prostateの結果をMicrosoftの読影レポートソフトPowerScribeに送ることができ、放射線科医はレポートを確定する前にそれを確認して反映できるとQuibimは説明している。"
+        }
+      ]
+    },
+    "medicine/oral-pigmentation-ai-screening-gap": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "MeMoSAに代表されるAI-assisted(AI支援)口腔がん検診ツールは、ほぼアジア人集団でのみ検証されてきた。著者らは検証可能な仮説を提示する。病理とは無関係に人種によって異なる生理的な口腔色素沈着が原因で、分類器が正常な変異を疑わしいと誤分類したり、色素に紛れた病変を見逃したりする可能性があるというものだ。パルスオキシメトリーや皮膚科AIの前例にならい、米国のように人種が多様な環境で導入する前に、色素沈着の程度で層別化した検証を行うよう求めている。"
+        },
+        {
+          "t": "p",
+          "x": "Khanna, D., Grover, A. Beyond skin deep: physiologic oral pigmentation as an overlooked validation gap in AI-assisted oral cancer screening. npj Digit. Med. (2026). 早期公開版(Accelerated article preview)で、現時点では要旨のみが公開されている。"
+        }
+      ]
+    },
+    "medicine/biolojic-bd200-adc-ind": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/0vv8moc6/biopharn/29f1e6f63b2a5a331dd153d454f6879a0aa8733b-1280x720.jpg?w=1200&fit=max&q=75&fm=jpg"
+        },
+        {
+          "t": "p",
+          "x": "FDAは、Biolojic DesignのBD200に関する治験許可申請（Investigational New Drug、IND）を承認した。BD200はTrop2とNectin-4を標的とするAI-designedの二重特異性抗体薬物複合体（ADC）で、同社は臨床試験に入る初の「multibody（マルチボディ）」だとしている。今回の承認により、Biolojicは両抗原を発現する一部の固形がん患者を対象に、グローバルなphase 1試験を始められる。CEOのYanay Ofranは、数週間以内に試験を開始する見通しだと述べた。"
+        },
+        {
+          "t": "p",
+          "x": "BD200では各アームがNectin-4またはTrop2に結合できる。そのため分子は、両アームでNectin-4に、両アームでTrop2に、あるいは片方ずつそれぞれに結合できる。患者の腫瘍細胞に発現する抗原の組み合わせに応じて、薬が結合のしかたを変えられるよう設計されている。BD200は、同社が独自とするリンカーを介してトポイソメラーゼ阻害剤のペイロードを搭載する。"
+        },
+        {
+          "t": "p",
+          "x": "Biolojicは人工知能と計算設計を用いて、抗体を医薬品候補に変える。同社のプラットフォームから生まれたimneskibart（旧AU-007）は、同社によれば臨床入りした初のAI-designedの抗体であり、現在はPhase 2試験の段階にある。"
+        },
+        {
+          "t": "p",
+          "x": "同社によると、BD200は前臨床試験で腫瘍細胞上の不均一な抗原発現に合わせて特異性を変え、標準的な単一特異性ADCsやテンプレートの二重特異性ADCと比べて高い有効性と耐性を克服する能力を示した。phase 1試験では安全性、忍容性、薬物動態、予備的な有効性を評価する。"
+        }
+      ]
     }
   }
 }

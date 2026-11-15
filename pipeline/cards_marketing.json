@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-15",
+  "date": "2026-11-16",
   "section": "marketing",
   "cards": [
     {
-      "id": "amazon-world-product-graph",
+      "id": "google-aimax-matchtype-param",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Amazon, 온라인의\n모든 상품 색인 추진",
-      "body": "Amazon이 AI 쇼핑 검색에 쓸 인터넷 전체 상품 데이터를 모으려 한다.",
-      "mini_headline": "Amazon, 전 상품 색인",
+      "headline": "정확 일치 클릭 속\nAI Max 가려낸다",
+      "body": "AI Max발 정확 일치 Search 클릭엔 ValueTrack이 'a'를 붙인다.",
+      "mini_headline": "Google, AI Max 클릭 표시",
       "tool": "Marketing",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+      "source": "PPC Land",
+      "url": "https://ppc.land/googles-new-parameter-shows-when-an-exact-click-was-really-ai-max/",
       "accent": "#ff8a3d",
       "motif": "frame",
       "full": {
@@ -19,149 +19,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/acastro_STK103__03.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+            "src": "https://ppc.land/content/images/2026/11/google-ads-search-term-matchtype-valuetrack-ai-max-clicks-exact-label-conveyor-parcel-stamp.jpg"
           },
           {
             "t": "p",
-            "x": "Reuters에 따르면 Amazon은 인터넷 어디서 팔리는 상품이든, 심지어 Amazon이 팔지 않는 상품까지 모두 담은 데이터 저장소를 만들어 자사 사이트에서 보여줄 계획이다. 프로젝트 이름은 “World Product Graph”다. 쇼핑객이 상품을 알아보려고 Amazon을 떠나 Reddit이나 Google로 가는 일을 줄이자는 취지다. 가장 큰 쇼핑 데이터를 Amazon이 쥐면 AI 에이전트도 다른 곳보다 Amazon의 상품 색인에 기댈 수 있다."
+            "x": "Google Ads가 ValueTrack 매개변수 {search_term_matchtype}을 추가했다. 검색어가 광고주의 자체 키워드로 광고에 닿았는지, AI Max 확장으로 닿았는지를 클릭 URL에 남기는 값이다. PPC News Feed는 2026년 11월 11일 이 소식을 전하면서 Google 도움말 페이지에서 이를 찾아낸 사람으로 Hana Kobzová를 꼽았다. 페이지에 변경 날짜는 적혀 있지 않다."
           },
           {
             "t": "p",
-            "x": "외부 소매업체 상품 링크는 이미 “shop direct” 기능으로 Amazon에 노출된다. 이번 프로젝트는 이전에 Rufus로 불렸던 Amazon의 AI 쇼핑 어시스턴트 Alexa for Shopping의 문제도 함께 겨냥한다. 한 내부 문서에는 “Rufus 답변 상당수가 사실과 다르거나 불완전하다”고 적혀 있었다고 한다. 데이터가 많아지면 시스템이 더 정확해지고 더 싼 모델도 쓸 수 있다는 설명이다."
+            "x": "값은 정확 일치면 \"e\", 구문 일치면 \"p\", 확장 일치면 \"b\", AI Max 확장 일치와 키워드 없는 일치면 \"a\"다. 기존 {matchtype}은 AI Max 확장 일치에도 키워드 자체의 일치 유형을 붙인다. 그래서 AI Max로 노출된 정확 일치 키워드 클릭도 matchtype=e를 달고 들어왔다. 이 차이는 \"a\"를 돌려주는 새 매개변수로만 드러난다."
           },
           {
             "t": "p",
-            "x": "실제 출시 여부는 아직 불투명하다. Reuters는 “이 계획이 실행될지, 언제 실행될지” 분명하지 않다고 전했다. 다만 문서에는 2027년 10월 1일이라는 출시일이 적혀 있었다. Amazon은 “이런 브레인스토밍 문서가 존재한다고 해서 반드시 현재 계획을 반영하는 것은 아니다”라고 밝혔다."
+            "x": "Google의 \"Tracking AI Max matches\" 가이드는 {matchtype}, {targetid}, {keyword}, {search_term_matchtype}을 조합해 트래픽을 일반 키워드 일치, AI Max 확장 일치, AI Max 키워드 없는 확장, AI Max 키워드 없는 URL 규칙으로 나눈다. Smarter Ecommerce에 따르면 정확 일치 노출 중 AI Max 확장(AI Max-expanded) 비중은 2026년 7월까지 29% 가까이 올랐다."
+          },
+          {
+            "t": "p",
+            "x": "매개변수가 생겼다고 AI Max의 검색어 일치 방식이나 Google 입찰, 광고주가 내는 비용이 달라지지는 않는다. 넓어지는 건 랜딩 페이지 URLs를 읽는 애널리틱스, CRM, 리포팅 시스템 같은 하위 단계의 측정 범위뿐이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Amazon wants to index\nevery product online",
-          "body": "Amazon plans a vault of data on every product on the internet to feed its AI shopping search.",
-          "mini_headline": "Amazon indexes\nall products",
+          "headline": "Google flags exact clicks\nthat were really AI Max",
+          "body": "A new ValueTrack parameter returns 'a' when a Search click on an exact-match keyword came from AI Max expansion.",
+          "mini_headline": "Google tags AI Max clicks",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/acastro_STK103__03.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://ppc.land/content/images/2026/11/google-ads-search-term-matchtype-valuetrack-ai-max-clicks-exact-label-conveyor-parcel-stamp.jpg"
               },
               {
                 "t": "p",
-                "x": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn’t sell, and make the information available through its own site, according to Reuters. The project, called the “World Product Graph,” is meant to make it less likely that shoppers leave Amazon to do their product research on Reddit or Google. If Amazon has the largest stockpile of shopping data, AI agents may rely on its index of products over others."
+                "x": "Google Ads has added a ValueTrack parameter, {search_term_matchtype}, that records inside the click URL whether a search term reached an ad through the advertiser's own keyword or through an AI Max expansion. PPC News Feed reported it on November 11, 2026, crediting Hana Kobzová with spotting it on Google's help page; the page gives no date for the change."
               },
               {
                 "t": "p",
-                "x": "Links to outside retailers’ products already appear on Amazon through the “shop direct” feature. The project would also aim to fix issues with Amazon’s AI shopping assistant, Alexa for Shopping, previously called Rufus: an internal document reportedly says “Many Rufus answers are factually wrong or incomplete.” More data is supposed to make the system more accurate and able to use cheaper models."
+                "x": "It records \"e\" for exact, \"p\" for phrase, \"b\" for broad, or \"a\" for AI Max broad expansions and keywordless matches. The older {matchtype} labels AI Max broad expansions with the keyword's own match type, so a click on an exact match keyword served through AI Max arrived carrying matchtype=e. Only the new parameter, returning \"a,\" marks the difference."
               },
               {
                 "t": "p",
-                "x": "Whether this ships is still up in the air. Reuters says it’s unclear “if or when this plan may be implemented,” but the document included an October 1st, 2027 release date. Amazon said “the existence of a brainstorming document such as this one doesn’t necessarily reflect our current plans.”"
+                "x": "Google's \"Tracking AI Max matches\" guidance combines {matchtype}, {targetid}, {keyword} and {search_term_matchtype} to sort traffic into standard keyword matches, AI Max broad expansions, AI Max keywordless expansions and AI Max keywordless URL rules. Smarter Ecommerce found the AI Max-expanded share of exact match impressions rose to nearly 29% by July 2026."
+              },
+              {
+                "t": "p",
+                "x": "The parameter does not change how AI Max matches queries, how Google bids or what advertisers pay. It changes only what can be measured downstream, in analytics, CRM and reporting systems that read landing page URLs."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Amazon, 온라인의\n모든 상품 색인 추진",
-          "body": "Amazon이 AI 쇼핑 검색에 쓸 인터넷 전체 상품 데이터를 모으려 한다.",
-          "mini_headline": "Amazon, 전 상품 색인",
+          "headline": "정확 일치 클릭 속\nAI Max 가려낸다",
+          "body": "AI Max발 정확 일치 Search 클릭엔 ValueTrack이 'a'를 붙인다.",
+          "mini_headline": "Google, AI Max 클릭 표시",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/acastro_STK103__03.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://ppc.land/content/images/2026/11/google-ads-search-term-matchtype-valuetrack-ai-max-clicks-exact-label-conveyor-parcel-stamp.jpg"
               },
               {
                 "t": "p",
-                "x": "Reuters에 따르면 Amazon은 인터넷 어디서 팔리는 상품이든, 심지어 Amazon이 팔지 않는 상품까지 모두 담은 데이터 저장소를 만들어 자사 사이트에서 보여줄 계획이다. 프로젝트 이름은 “World Product Graph”다. 쇼핑객이 상품을 알아보려고 Amazon을 떠나 Reddit이나 Google로 가는 일을 줄이자는 취지다. 가장 큰 쇼핑 데이터를 Amazon이 쥐면 AI 에이전트도 다른 곳보다 Amazon의 상품 색인에 기댈 수 있다."
+                "x": "Google Ads가 ValueTrack 매개변수 {search_term_matchtype}을 추가했다. 검색어가 광고주의 자체 키워드로 광고에 닿았는지, AI Max 확장으로 닿았는지를 클릭 URL에 남기는 값이다. PPC News Feed는 2026년 11월 11일 이 소식을 전하면서 Google 도움말 페이지에서 이를 찾아낸 사람으로 Hana Kobzová를 꼽았다. 페이지에 변경 날짜는 적혀 있지 않다."
               },
               {
                 "t": "p",
-                "x": "외부 소매업체 상품 링크는 이미 “shop direct” 기능으로 Amazon에 노출된다. 이번 프로젝트는 이전에 Rufus로 불렸던 Amazon의 AI 쇼핑 어시스턴트 Alexa for Shopping의 문제도 함께 겨냥한다. 한 내부 문서에는 “Rufus 답변 상당수가 사실과 다르거나 불완전하다”고 적혀 있었다고 한다. 데이터가 많아지면 시스템이 더 정확해지고 더 싼 모델도 쓸 수 있다는 설명이다."
+                "x": "값은 정확 일치면 \"e\", 구문 일치면 \"p\", 확장 일치면 \"b\", AI Max 확장 일치와 키워드 없는 일치면 \"a\"다. 기존 {matchtype}은 AI Max 확장 일치에도 키워드 자체의 일치 유형을 붙인다. 그래서 AI Max로 노출된 정확 일치 키워드 클릭도 matchtype=e를 달고 들어왔다. 이 차이는 \"a\"를 돌려주는 새 매개변수로만 드러난다."
               },
               {
                 "t": "p",
-                "x": "실제 출시 여부는 아직 불투명하다. Reuters는 “이 계획이 실행될지, 언제 실행될지” 분명하지 않다고 전했다. 다만 문서에는 2027년 10월 1일이라는 출시일이 적혀 있었다. Amazon은 “이런 브레인스토밍 문서가 존재한다고 해서 반드시 현재 계획을 반영하는 것은 아니다”라고 밝혔다."
+                "x": "Google의 \"Tracking AI Max matches\" 가이드는 {matchtype}, {targetid}, {keyword}, {search_term_matchtype}을 조합해 트래픽을 일반 키워드 일치, AI Max 확장 일치, AI Max 키워드 없는 확장, AI Max 키워드 없는 URL 규칙으로 나눈다. Smarter Ecommerce에 따르면 정확 일치 노출 중 AI Max 확장(AI Max-expanded) 비중은 2026년 7월까지 29% 가까이 올랐다."
+              },
+              {
+                "t": "p",
+                "x": "매개변수가 생겼다고 AI Max의 검색어 일치 방식이나 Google 입찰, 광고주가 내는 비용이 달라지지는 않는다. 넓어지는 건 랜딩 페이지 URLs를 읽는 애널리틱스, CRM, 리포팅 시스템 같은 하위 단계의 측정 범위뿐이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Amazon、ネット上の\n全商品を索引化へ",
-          "body": "Amazonは、AIショッピング検索のため、ネット上の全商品のデータを集める計画だ。",
-          "mini_headline": "Amazon、全商品を索引化",
+          "headline": "完全一致のクリック、\n実はAI Max経由",
+          "body": "AI Max経由の完全一致Searchクリックに、ValueTrackが'a'を返す。",
+          "mini_headline": "Google、AI Maxクリックを識別",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/acastro_STK103__03.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://ppc.land/content/images/2026/11/google-ads-search-term-matchtype-valuetrack-ai-max-clicks-exact-label-conveyor-parcel-stamp.jpg"
               },
               {
                 "t": "p",
-                "x": "Reutersによると、Amazonはインターネット上で販売されるあらゆる商品、さらにAmazonが扱っていない商品まで網羅するデータの保管庫を構築し、その情報を自社サイトで提供する計画を持っている。「World Product Graph」と呼ばれるこのプロジェクトは、買い物客が商品調べのためにAmazonを離れてRedditやGoogleへ移る可能性を減らすことを狙う。Amazonが最大のショッピングデータを蓄積すれば、AIエージェントは他社よりもAmazonの商品インデックスに頼るようになるかもしれない。"
+                "x": "Google Adsは、検索語句が広告主自身のキーワード経由で広告に到達したのか、AI Maxの拡張経由で到達したのかをクリックURL内に記録するValueTrackパラメータ{search_term_matchtype}を追加した。PPC News Feedが2026年11月11日に報じ、GoogleのヘルプページでこれをHana Kobzováが見つけたとしている。ページには変更の日付は記されていない。"
               },
               {
                 "t": "p",
-                "x": "外部小売業者の商品へのリンクは、すでに「shop direct」機能を通じてAmazon上に表示されている。このプロジェクトは、以前Rufusと呼ばれていたAmazonのAIショッピングアシスタント、Alexa for Shoppingの問題の解消も目指す。内部文書には「Rufusの回答の多くは事実と異なるか不完全だ」と記されているという。データが増えれば、システムはより正確になり、より安価なモデルも使えるようになるとされる。"
+                "x": "値は完全一致なら\"e\"、フレーズ一致なら\"p\"、部分一致なら\"b\"、AI Maxの部分一致拡張とキーワードなしの一致なら\"a\"となる。従来の{matchtype}はAI Maxの部分一致拡張にキーワード自体のマッチタイプを付けるため、AI Max経由で配信された完全一致キーワードのクリックもmatchtype=eとして届いていた。違いを示すのは\"a\"を返す新パラメータだけだ。"
               },
               {
                 "t": "p",
-                "x": "実現するかはまだ不透明だ。Reutersは「この計画が実施されるかどうか、いつ実施されるか」は不明だとしているが、文書には2027年10月1日のリリース日が記されていた。Amazonは「このようなブレインストーミング文書の存在は、必ずしも現在の計画を反映するものではない」と述べた。"
+                "x": "Googleのガイダンス「Tracking AI Max matches」は、{matchtype}、{targetid}、{keyword}、{search_term_matchtype}を組み合わせ、トラフィックを通常のキーワード一致、AI Maxの部分一致拡張、AI Maxのキーワードなし拡張、AI MaxのキーワードなしURLルールに分類する。Smarter Ecommerceによると、完全一致のインプレッションに占めるAI Max拡張分（AI Max-expanded）の割合は、2026年7月までに29%近くに達した。"
+              },
+              {
+                "t": "p",
+                "x": "このパラメータは、AI Maxによる検索語句のマッチング、Googleの入札、広告主の支払額を変えない。変わるのは、ランディングページのURLsを読み取るアナリティクス、CRM、レポーティングシステムなど、下流で測定できる範囲だけだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Amazon欲为网上\n所有商品建索引",
-          "body": "Amazon计划为互联网上的每件商品建立数据库，以支撑其AI购物搜索。",
-          "mini_headline": "Amazon索引全网商品",
+          "headline": "Google标记来自\nAI Max的精确点击",
+          "body": "新的ValueTrack参数会在精确匹配Search点击来自AI Max扩展时返回'a'。",
+          "mini_headline": "Google标记AI Max点击",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/acastro_STK103__03.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://ppc.land/content/images/2026/11/google-ads-search-term-matchtype-valuetrack-ai-max-clicks-exact-label-conveyor-parcel-stamp.jpg"
               },
               {
                 "t": "p",
-                "x": "据Reuters报道，Amazon计划建立一个数据库，收录互联网上任何地方销售的每一件商品，甚至包括Amazon自己不卖的商品，并通过自家网站提供这些信息。这个名为“World Product Graph”的项目，旨在减少购物者离开Amazon、转到Reddit或Google做商品研究的情况。如果Amazon拥有最大的购物数据储备，AI智能体可能会优先依赖它的商品索引。"
+                "x": "Google Ads新增了ValueTrack参数{search_term_matchtype}，在点击URL中记录搜索词是通过广告主自己的关键字还是通过AI Max扩展触达广告。PPC News Feed于2026年11月11日报道此事，并称是Hana Kobzová在Google帮助页面上发现的；该页面未注明变更日期。"
               },
               {
                 "t": "p",
-                "x": "外部零售商的商品链接已通过“shop direct”功能出现在Amazon上。该项目还旨在解决Amazon的AI购物助手Alexa for Shopping（前称Rufus）存在的问题：据报道，一份内部文件写道：“许多Rufus的回答在事实上是错误的或不完整的。”更多数据有望让系统更准确，并能使用更便宜的模型。"
+                "x": "该参数以\"e\"表示精确匹配，\"p\"表示词组匹配，\"b\"表示广泛匹配，\"a\"表示AI Max广泛扩展和无关键字匹配。旧的{matchtype}会给AI Max广泛扩展标上关键字本身的匹配类型，因此经AI Max投放的精确匹配关键字点击，到达时带的是matchtype=e。只有返回\"a\"的新参数能标出这一区别。"
               },
               {
                 "t": "p",
-                "x": "该计划能否落地仍是未知数。Reuters称，目前尚不清楚“该计划是否或何时会实施”，但文件中列出了2027年10月1日的发布日期。Amazon表示：“这样一份头脑风暴文件的存在，并不一定反映我们当前的计划。”"
+                "x": "Google的“Tracking AI Max matches”指南将{matchtype}、{targetid}、{keyword}和{search_term_matchtype}组合使用，把流量分为标准关键字匹配、AI Max广泛扩展、AI Max无关键字扩展和AI Max无关键字URL规则。Smarter Ecommerce发现，到2026年7月，精确匹配展示中经AI Max扩展（AI Max-expanded）的占比已升至近29%。"
+              },
+              {
+                "t": "p",
+                "x": "该参数不会改变AI Max匹配查询的方式、Google的出价方式或广告主支付的费用。它改变的只是下游可衡量的内容，即读取着陆页URLs的分析、CRM和报告系统。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Amazon quiere indexar\ntodos los productos en línea",
-          "body": "Amazon planea un depósito de datos sobre cada producto de internet para alimentar su búsqueda de compras con AI.",
-          "mini_headline": "Amazon indexa todos los productos",
+          "headline": "Google marca los clics exactos\nque en realidad eran de AI Max",
+          "body": "Un nuevo parámetro de ValueTrack devuelve 'a' si un clic de Search en concordancia exacta vino de AI Max.",
+          "mini_headline": "Google etiqueta los clics de AI Max",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/acastro_STK103__03.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://ppc.land/content/images/2026/11/google-ads-search-term-matchtype-valuetrack-ai-max-clicks-exact-label-conveyor-parcel-stamp.jpg"
               },
               {
                 "t": "p",
-                "x": "Amazon planea construir un depósito de datos sobre todos los productos que se venden en cualquier lugar de internet, incluso los que Amazon no vende, y ofrecer esa información en su propio sitio, según Reuters. El proyecto, llamado “World Product Graph”, busca reducir la probabilidad de que los compradores salgan de Amazon para investigar productos en Reddit o Google. Si Amazon tiene la mayor reserva de datos de compras, los agentes de AI podrían recurrir a su índice de productos antes que a otros."
+                "x": "Google Ads ha añadido un parámetro de ValueTrack, {search_term_matchtype}, que registra dentro de la URL del clic si un término de búsqueda llegó a un anuncio a través de la propia palabra clave del anunciante o de una expansión de AI Max. PPC News Feed lo informó el 11 de noviembre de 2026 y atribuyó a Hana Kobzová haberlo detectado en la página de ayuda de Google; la página no indica la fecha del cambio."
               },
               {
                 "t": "p",
-                "x": "Los enlaces a productos de minoristas externos ya aparecen en Amazon mediante la función “shop direct”. El proyecto también buscaría corregir problemas del asistente de compras con AI de Amazon, Alexa for Shopping, antes llamado Rufus: según se informa, un documento interno afirma que “muchas respuestas de Rufus son incorrectas o incompletas”. Más datos deberían hacer el sistema más preciso y permitirle usar modelos más baratos."
+                "x": "Registra \"e\" para concordancia exacta, \"p\" para frase, \"b\" para amplia o \"a\" para las expansiones amplias de AI Max y las coincidencias sin palabra clave. El antiguo {matchtype} etiqueta las expansiones amplias de AI Max con el tipo de concordancia de la propia palabra clave, de modo que un clic en una palabra clave de concordancia exacta servido mediante AI Max llegaba con matchtype=e. Solo el nuevo parámetro, al devolver \"a\", marca la diferencia."
               },
               {
                 "t": "p",
-                "x": "Aún no está claro si esto llegará a lanzarse. Reuters dice que no se sabe “si este plan se implementará ni cuándo”, pero el documento incluía como fecha de lanzamiento el 1 de octubre de 2027. Amazon afirmó que “la existencia de un documento de lluvia de ideas como este no refleja necesariamente nuestros planes actuales”."
+                "x": "La guía \"Tracking AI Max matches\" de Google combina {matchtype}, {targetid}, {keyword} y {search_term_matchtype} para clasificar el tráfico en coincidencias estándar de palabra clave, expansiones amplias de AI Max, expansiones sin palabra clave de AI Max y reglas de URL sin palabra clave de AI Max. Smarter Ecommerce constató que la proporción de impresiones de concordancia exacta ampliadas por AI Max (AI Max-expanded) subió hasta casi el 29% en julio de 2026."
+              },
+              {
+                "t": "p",
+                "x": "El parámetro no cambia cómo AI Max empareja las consultas, cómo puja Google ni lo que pagan los anunciantes. Solo cambia lo que puede medirse más adelante, en los sistemas de analítica, CRM e informes que leen las URLs de las páginas de destino."
               }
             ]
           }
@@ -169,105 +193,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Amazon, 온라인의\n모든 상품 색인 추진",
-          "body": "Amazon이 AI 쇼핑 검색을 위해 인터넷의 모든 상품 데이터를 모으려 한다.",
-          "mini_headline": "Amazon, 전 상품 색인",
+          "headline": "정확 일치 클릭 속\nAI Max 가려낸다",
+          "body": "AI Max발 정확 일치 Search 클릭에 ValueTrack이 'a'를 단다.",
+          "mini_headline": "Google, AI Max 클릭 표시",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/acastro_STK103__03.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://ppc.land/content/images/2026/11/google-ads-search-term-matchtype-valuetrack-ai-max-clicks-exact-label-conveyor-parcel-stamp.jpg"
               },
               {
                 "t": "p",
-                "x": "Reuters에 따르면 Amazon은 인터넷 어디에서든 판매되는 모든 상품, 심지어 Amazon이 팔지 않는 상품까지 아우르는 데이터 저장소를 구축하고, 이 정보를 자사 사이트에서 제공할 계획이다. “World Product Graph”라는 이름의 이 프로젝트는 쇼핑객이 상품 조사를 위해 Amazon을 떠나 Reddit이나 Google로 가는 일을 줄이려는 목적이다. Amazon이 가장 큰 쇼핑 데이터를 쌓으면 AI 에이전트가 다른 곳보다 Amazon의 상품 색인에 의존하게 될 수 있다."
+                "x": "Google Ads가 검색어가 광고주의 자체 키워드를 거쳐 광고에 닿았는지, AI Max 확장을 거쳐 닿았는지를 클릭 URL 안에 기록하는 ValueTrack 매개변수 {search_term_matchtype}을 추가했다. PPC News Feed는 2026년 11월 11일 이를 보도하며 Google 도움말 페이지에서 이를 찾아낸 사람으로 Hana Kobzová를 꼽았다. 해당 페이지에는 변경 날짜가 적혀 있지 않다."
               },
               {
                 "t": "p",
-                "x": "외부 소매업체 상품 링크는 이미 “shop direct” 기능을 통해 Amazon에 노출되고 있다. 이 프로젝트는 이전에 Rufus로 불렸던 Amazon의 AI 쇼핑 어시스턴트 Alexa for Shopping의 문제도 해결하려 한다. 한 내부 문서에는 “Rufus 답변 상당수가 사실과 다르거나 불완전하다”는 내용이 적혀 있다고 한다. 데이터가 늘면 시스템이 더 정확해지고 더 저렴한 모델도 쓸 수 있다는 설명이다."
+                "x": "값은 정확 일치면 \"e\", 구문 일치면 \"p\", 확장 일치면 \"b\", AI Max 확장 일치와 키워드 없는 일치면 \"a\"다. 기존 {matchtype}은 AI Max 확장 일치에 키워드 자체의 일치 유형을 붙이기 때문에, AI Max로 노출된 정확 일치 키워드 클릭도 matchtype=e를 달고 들어왔다. 둘의 차이는 \"a\"를 반환하는 새 매개변수만 보여준다."
               },
               {
                 "t": "p",
-                "x": "실제 출시 여부는 아직 불투명하다. Reuters는 “이 계획이 실행될지, 언제 실행될지” 분명하지 않다고 전했지만, 문서에는 2027년 10월 1일이라는 출시일이 적혀 있었다. Amazon은 “이런 브레인스토밍 문서가 존재한다고 해서 반드시 현재 계획을 반영하는 것은 아니다”라고 밝혔다."
+                "x": "Google의 \"Tracking AI Max matches\" 가이드는 {matchtype}, {targetid}, {keyword}, {search_term_matchtype}을 조합해 트래픽을 일반 키워드 일치, AI Max 확장 일치, AI Max 키워드 없는 확장, AI Max 키워드 없는 URL 규칙으로 나눈다. Smarter Ecommerce에 따르면 정확 일치 노출 가운데 AI Max 확장(AI Max-expanded) 비중은 2026년 7월까지 29% 가까이로 올랐다."
+              },
+              {
+                "t": "p",
+                "x": "이 매개변수는 AI Max가 검색어를 일치시키는 방식이나 Google의 입찰, 광고주가 내는 비용을 바꾸지 않는다. 바뀌는 것은 랜딩 페이지 URLs를 읽는 애널리틱스, CRM, 리포팅 시스템 등 하위 단계에서 측정할 수 있는 범위뿐이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Amazon、ネット上の\n全商品を索引化へ",
-          "body": "Amazonは、AIショッピング検索のため、ネット上の全商品のデータを集める計画だ。",
-          "mini_headline": "Amazon、全商品を索引化",
+          "headline": "完全一致のクリック、\n実はAI Max経由",
+          "body": "AI Max経由の完全一致Searchクリックに、ValueTrackが'a'を返す。",
+          "mini_headline": "Google、AI Maxクリックを識別",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/acastro_STK103__03.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://ppc.land/content/images/2026/11/google-ads-search-term-matchtype-valuetrack-ai-max-clicks-exact-label-conveyor-parcel-stamp.jpg"
               },
               {
                 "t": "p",
-                "x": "Reutersによると、Amazonはインターネット上で販売されるあらゆる商品、さらにAmazonが扱っていない商品まで網羅するデータの保管庫を構築し、その情報を自社サイトで提供する計画を持っている。「World Product Graph」と呼ばれるこのプロジェクトは、買い物客が商品調べのためにAmazonを離れてRedditやGoogleへ移る可能性を減らすことを狙う。Amazonが最大のショッピングデータを蓄積すれば、AIエージェントは他社よりもAmazonの商品インデックスに頼るようになるかもしれない。"
+                "x": "Google Adsは、検索語句が広告主自身のキーワード経由で広告に到達したのか、AI Maxの拡張経由で到達したのかをクリックURL内に記録するValueTrackパラメータ{search_term_matchtype}を追加した。PPC News Feedが2026年11月11日に報じ、GoogleのヘルプページでこれをHana Kobzováが見つけたとしている。ページには変更の日付は記されていない。"
               },
               {
                 "t": "p",
-                "x": "外部小売業者の商品へのリンクは、すでに「shop direct」機能を通じてAmazon上に表示されている。このプロジェクトは、以前Rufusと呼ばれていたAmazonのAIショッピングアシスタント、Alexa for Shoppingの問題の解消も目指す。内部文書には「Rufusの回答の多くは事実と異なるか不完全だ」と記されているという。データが増えれば、システムはより正確になり、より安価なモデルも使えるようになるとされる。"
+                "x": "値は完全一致なら\"e\"、フレーズ一致なら\"p\"、部分一致なら\"b\"、AI Maxの部分一致拡張とキーワードなしの一致なら\"a\"となる。従来の{matchtype}はAI Maxの部分一致拡張にキーワード自体のマッチタイプを付けるため、AI Max経由で配信された完全一致キーワードのクリックもmatchtype=eとして届いていた。違いを示すのは\"a\"を返す新パラメータだけだ。"
               },
               {
                 "t": "p",
-                "x": "実現するかはまだ不透明だ。Reutersは「この計画が実施されるかどうか、いつ実施されるか」は不明だとしているが、文書には2027年10月1日のリリース日が記されていた。Amazonは「このようなブレインストーミング文書の存在は、必ずしも現在の計画を反映するものではない」と述べた。"
+                "x": "Googleのガイダンス「Tracking AI Max matches」は、{matchtype}、{targetid}、{keyword}、{search_term_matchtype}を組み合わせ、トラフィックを通常のキーワード一致、AI Maxの部分一致拡張、AI Maxのキーワードなし拡張、AI MaxのキーワードなしURLルールに分類する。Smarter Ecommerceによると、完全一致のインプレッションに占めるAI Max拡張分（AI Max-expanded）の割合は、2026年7月までに29%近くに達した。"
+              },
+              {
+                "t": "p",
+                "x": "このパラメータは、AI Maxによる検索語句のマッチング、Googleの入札、広告主の支払額を変えない。変わるのは、ランディングページのURLsを読み取るアナリティクス、CRM、レポーティングシステムなど、下流で測定できる範囲だけだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Amazon欲为网上\n所有商品建索引",
-          "body": "Amazon计划为互联网上的每件商品建立数据库，以支撑其AI购物搜索。",
-          "mini_headline": "Amazon索引全网商品",
+          "headline": "Google标记来自\nAI Max的精确点击",
+          "body": "新的ValueTrack参数会在精确匹配Search点击来自AI Max扩展时返回'a'。",
+          "mini_headline": "Google标记AI Max点击",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/acastro_STK103__03.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://ppc.land/content/images/2026/11/google-ads-search-term-matchtype-valuetrack-ai-max-clicks-exact-label-conveyor-parcel-stamp.jpg"
               },
               {
                 "t": "p",
-                "x": "据Reuters报道，Amazon计划建立一个数据库，收录互联网上任何地方销售的每一件商品，甚至包括Amazon自己不卖的商品，并通过自家网站提供这些信息。这个名为“World Product Graph”的项目，旨在减少购物者离开Amazon、转到Reddit或Google做商品研究的情况。如果Amazon拥有最大的购物数据储备，AI智能体可能会优先依赖它的商品索引。"
+                "x": "Google Ads新增了ValueTrack参数{search_term_matchtype}，在点击URL中记录搜索词是通过广告主自己的关键字还是通过AI Max扩展触达广告。PPC News Feed于2026年11月11日报道此事，并称是Hana Kobzová在Google帮助页面上发现的；该页面未注明变更日期。"
               },
               {
                 "t": "p",
-                "x": "外部零售商的商品链接已通过“shop direct”功能出现在Amazon上。该项目还旨在解决Amazon的AI购物助手Alexa for Shopping（前称Rufus）存在的问题：据报道，一份内部文件写道：“许多Rufus的回答在事实上是错误的或不完整的。”更多数据有望让系统更准确，并能使用更便宜的模型。"
+                "x": "该参数以\"e\"表示精确匹配，\"p\"表示词组匹配，\"b\"表示广泛匹配，\"a\"表示AI Max广泛扩展和无关键字匹配。旧的{matchtype}会给AI Max广泛扩展标上关键字本身的匹配类型，因此经AI Max投放的精确匹配关键字点击，到达时带的是matchtype=e。只有返回\"a\"的新参数能标出这一区别。"
               },
               {
                 "t": "p",
-                "x": "该计划能否落地仍是未知数。Reuters称，目前尚不清楚“该计划是否或何时会实施”，但文件中列出了2027年10月1日的发布日期。Amazon表示：“这样一份头脑风暴文件的存在，并不一定反映我们当前的计划。”"
+                "x": "Google的“Tracking AI Max matches”指南将{matchtype}、{targetid}、{keyword}和{search_term_matchtype}组合使用，把流量分为标准关键字匹配、AI Max广泛扩展、AI Max无关键字扩展和AI Max无关键字URL规则。Smarter Ecommerce发现，到2026年7月，精确匹配展示中经AI Max扩展（AI Max-expanded）的占比已升至近29%。"
+              },
+              {
+                "t": "p",
+                "x": "该参数不会改变AI Max匹配查询的方式、Google的出价方式或广告主支付的费用。它改变的只是下游可衡量的内容，即读取着陆页URLs的分析、CRM和报告系统。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Amazon quiere indexar\ntodos los productos en línea",
-          "body": "Amazon planea un depósito de datos sobre cada producto de internet para alimentar su búsqueda de compras con AI.",
-          "mini_headline": "Amazon indexa todos los productos",
+          "headline": "Google marca los clics exactos\nque en realidad eran de AI Max",
+          "body": "Un nuevo parámetro de ValueTrack devuelve 'a' si un clic de Search en concordancia exacta vino de AI Max.",
+          "mini_headline": "Google etiqueta los clics de AI Max",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/acastro_STK103__03.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://ppc.land/content/images/2026/11/google-ads-search-term-matchtype-valuetrack-ai-max-clicks-exact-label-conveyor-parcel-stamp.jpg"
               },
               {
                 "t": "p",
-                "x": "Amazon planea construir un depósito de datos sobre todos los productos que se venden en cualquier lugar de internet, incluso los que Amazon no vende, y ofrecer esa información en su propio sitio, según Reuters. El proyecto, llamado “World Product Graph”, busca reducir la probabilidad de que los compradores salgan de Amazon para investigar productos en Reddit o Google. Si Amazon tiene la mayor reserva de datos de compras, los agentes de AI podrían recurrir a su índice de productos antes que a otros."
+                "x": "Google Ads ha añadido un parámetro de ValueTrack, {search_term_matchtype}, que registra dentro de la URL del clic si un término de búsqueda llegó a un anuncio a través de la propia palabra clave del anunciante o de una expansión de AI Max. PPC News Feed lo informó el 11 de noviembre de 2026 y atribuyó a Hana Kobzová haberlo detectado en la página de ayuda de Google; la página no indica la fecha del cambio."
               },
               {
                 "t": "p",
-                "x": "Los enlaces a productos de minoristas externos ya aparecen en Amazon mediante la función “shop direct”. El proyecto también buscaría corregir problemas del asistente de compras con AI de Amazon, Alexa for Shopping, antes llamado Rufus: según se informa, un documento interno afirma que “muchas respuestas de Rufus son incorrectas o incompletas”. Más datos deberían hacer el sistema más preciso y permitirle usar modelos más baratos."
+                "x": "Registra \"e\" para concordancia exacta, \"p\" para frase, \"b\" para amplia o \"a\" para las expansiones amplias de AI Max y las coincidencias sin palabra clave. El antiguo {matchtype} etiqueta las expansiones amplias de AI Max con el tipo de concordancia de la propia palabra clave, de modo que un clic en una palabra clave de concordancia exacta servido mediante AI Max llegaba con matchtype=e. Solo el nuevo parámetro, al devolver \"a\", marca la diferencia."
               },
               {
                 "t": "p",
-                "x": "Aún no está claro si esto llegará a lanzarse. Reuters dice que no se sabe “si este plan se implementará ni cuándo”, pero el documento incluía como fecha de lanzamiento el 1 de octubre de 2027. Amazon afirmó que “la existencia de un documento de lluvia de ideas como este no refleja necesariamente nuestros planes actuales”."
+                "x": "La guía \"Tracking AI Max matches\" de Google combina {matchtype}, {targetid}, {keyword} y {search_term_matchtype} para clasificar el tráfico en coincidencias estándar de palabra clave, expansiones amplias de AI Max, expansiones sin palabra clave de AI Max y reglas de URL sin palabra clave de AI Max. Smarter Ecommerce constató que la proporción de impresiones de concordancia exacta ampliadas por AI Max (AI Max-expanded) subió hasta casi el 29% en julio de 2026."
+              },
+              {
+                "t": "p",
+                "x": "El parámetro no cambia cómo AI Max empareja las consultas, cómo puja Google ni lo que pagan los anunciantes. Solo cambia lo que puede medirse más adelante, en los sistemas de analítica, CRM e informes que leen las URLs de las páginas de destino."
               }
             ]
           }
@@ -275,15 +315,15 @@
       }
     },
     {
-      "id": "amazon-dva-plus-20-product-cap",
-      "source_lang": "en",
+      "id": "thehyundai-hi-chatgpt-plugin",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "Amazon DVA+\n캠페인 상품 20개 제한",
-      "body": "13일 Amazon 지침상 DVA+는 상품 20개, KPI 바꾸면 학습이 리셋된다.",
-      "mini_headline": "DVA+ 상품 20개 제한",
+      "headline": "현대백화점 더현대 하이\n챗GPT 플러그인 출시",
+      "body": "현대백화점이 챗GPT 대화창에서 선물 추천부터 구매까지 잇는 플러그인을 내놨다.",
+      "mini_headline": "더현대 하이, 챗GPT 입점",
       "tool": "Marketing",
-      "source": "PPC Land",
-      "url": "https://ppc.land/amazon-caps-its-automated-dva-campaigns-at-20-products/",
+      "source": "전자신문",
+      "url": "https://www.etnews.com/20261115000021",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
@@ -291,305 +331,305 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://ppc.land/content/images/size/w2000/2026/11/amazon-dva-plus-campaign-guide-20-product-cap-automated-steering-wheel-dashboard.jpg",
-            "cap": "Amazon은 자동 DVA+ 캠페인 상품을 20개로 묶고, KPI가 바뀌면 학습을 초기화한다"
+            "src": "https://img.etnews.com/news/article/2026/11/15/news-p.v1.20261115.043d6ceedf144d1d9c9992c332281857_P1.png",
+            "cap": "현대백화점은 오픈AI '앱스 인 챗GPT'에 '더현대 하이' 전용 쇼핑 플러그인 서비스를 선보인다고 15일 밝혔다."
           },
           {
             "t": "p",
-            "x": "2026년 11월 13일 업데이트된 Support Center 가이드 “Create a DVA+ campaign”은 Display, Video, and Audio 캠페인을 만드는 세 가지 방법을 안내한다. 자동화된 DVA+ 흐름, 단일 양식 작업 공간인 DVA+ advanced, 레거시 모드다. Amazon은 2026년 9월 29일 Amazon DSP라는 이름을 버리고 DVA+를 선보였다."
+            "x": "현대백화점은 오픈AI '앱스 인 챗GPT'에 '더현대 하이' 전용 쇼핑 플러그인 서비스를 선보인다고 15일 밝혔다. '앱스 인 챗GPT'는 이용자가 챗GPT 대화창 안에서 외부 서비스를 직접 연결해 쓰는 기능이다. 챗GPT 메뉴의 플러그인 탭에서 더현대 하이를 검색해 추가하면 된다."
           },
           {
             "t": "p",
-            "x": "자동화 흐름은 캠페인당 상품을 최대 20개까지 받는다. 계정 자격에 따라 목표 일곱 가지를 고를 수 있고 최적화가 기본으로 켜진 채 디스플레이, 온라인 동영상, 스트리밍 TV에 광고를 내보낸다. 페이지에는 “DVA+는 누락된 광고 형식을 생성하는 AI 도구를 제공한다”고 적혀 있다. 타기팅은 자동이고 위치 타기팅은 off-Amazon 목표에서만 쓸 수 있다."
+            "x": "“부모님 생신 선물로 10만원대 건강식품 추천해줘” “더현대 서울에서 핫한 팝업스토어 알려줘” 등으로 질문하면 챗GPT가 현대백화점의 온·오프라인 쇼핑 정보를 제공한다. 추천 상품은 더현대 하이 링크로 안내한다. 링크를 누르면 더현대 하이로 연결돼 상품 상세 정보 확인과 구매·결제·예약을 이어서 할 수 있다."
           },
           {
             "t": "p",
-            "x": "DVA+ advanced 항목에서 가이드는 “출시 후에도 KPI를 바꿀 수 있지만, 이 경우 캠페인의 성과 학습이 초기화되고 최적화에 영향을 줄 수 있다”고 경고한다. 노출 빈도 상한을 따로 정하지 않으면 기본값이 들어가고, 추천 광고 그룹은 Brand+와 Performance+ 전술에서 나온다."
+            "x": "현대백화점이 AI 쇼핑 역량을 키우는 것은 생성형 AI가 상품 검색·추천 등 구매 결정에 미치는 영향이 커지고 있어서다. 올해 추석 선물 판매 기간 챗GPT, 제미나이 등 생성형 AI를 통해 더현대 하이로 유입된 접속 건수는 지난해 추석 기간보다 4배 이상 늘었다. 현대백화점은 이번 연동으로 외국인 관광객 등 글로벌 고객과의 접점을 넓힌다는 구상이다."
           },
           {
             "t": "p",
-            "x": "Launch를 클릭하면 캠페인이 바로 집행되는지를 놓고 가이드 안내가 서로 엇갈린다. 상품 변형이 20개 상품 한도에 어떻게 계산되는지도 밝히지 않았다."
+            "x": "앞서 현대백화점은 지난 4월 카카오톡 기반 '챗GPT 포 카카오'에 더현대 하이를 연동한 AI 쇼핑 서비스를 선보였다. 누적 이용 고객은 지난 10월 기준 약 86만명을 넘었다. 현대백화점은 AI 쇼핑 어시스턴트 '헤이디(HEYDI)'로 더현대 하이에 등록된 약 50만 개 상품을 대화형으로 추천하고 있다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "Amazon caps DVA+ campaigns\nat 20 products",
-          "body": "Amazon's November 13 guide limits automated DVA+ campaigns to 20 products and resets learning whenever a KPI changes.",
-          "mini_headline": "DVA+ capped\nat 20 products",
+        "ko": {
+          "headline": "현대백화점 더현대 하이\n챗GPT 플러그인 출시",
+          "body": "현대백화점이 챗GPT 대화창에서 선물 추천부터 구매까지 잇는 플러그인을 내놨다.",
+          "mini_headline": "더현대 하이, 챗GPT 입점",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/amazon-dva-plus-campaign-guide-20-product-cap-automated-steering-wheel-dashboard.jpg",
-                "cap": "Amazon caps automated DVA+ campaigns at 20 products and resets learning when a KPI changes"
+                "src": "https://img.etnews.com/news/article/2026/11/15/news-p.v1.20261115.043d6ceedf144d1d9c9992c332281857_P1.png",
+                "cap": "현대백화점은 오픈AI '앱스 인 챗GPT'에 '더현대 하이' 전용 쇼핑 플러그인 서비스를 선보인다고 15일 밝혔다."
               },
               {
                 "t": "p",
-                "x": "A Support Center guide titled “Create a DVA+ campaign,” updated on November 13, 2026, describes three ways to build a Display, Video, and Audio campaign: an automated DVA+ flow, a one-form workspace called DVA+ advanced, and a legacy mode. Amazon introduced DVA+, which replaced the Amazon DSP name, on September 29, 2026."
+                "x": "현대백화점은 오픈AI '앱스 인 챗GPT'에 '더현대 하이' 전용 쇼핑 플러그인 서비스를 선보인다고 15일 밝혔다. '앱스 인 챗GPT'는 이용자가 챗GPT 대화창 안에서 외부 서비스를 직접 연결해 쓰는 기능이다. 챗GPT 메뉴의 플러그인 탭에서 더현대 하이를 검색해 추가하면 된다."
               },
               {
                 "t": "p",
-                "x": "The automated flow accepts up to 20 products per campaign, draws on seven objectives depending on account eligibility, and runs ads across display, online video and streaming TV with optimization switched on by default. “DVA+ provides AI tools to generate missing ad formats,” the page says. Targeting is automated; location targeting is only available with off-Amazon objectives."
+                "x": "“부모님 생신 선물로 10만원대 건강식품 추천해줘” “더현대 서울에서 핫한 팝업스토어 알려줘” 등으로 질문하면 챗GPT가 현대백화점의 온·오프라인 쇼핑 정보를 제공한다. 추천 상품은 더현대 하이 링크로 안내한다. 링크를 누르면 더현대 하이로 연결돼 상품 상세 정보 확인과 구매·결제·예약을 이어서 할 수 있다."
               },
               {
                 "t": "p",
-                "x": "In DVA+ advanced, the guide warns: “You can change your KPI after launch, but this resets your campaign's performance learnings and may impact optimization.” If no frequency cap is set, a default is applied, and recommended ad groups come from Brand+ and Performance+ tactics."
+                "x": "현대백화점이 AI 쇼핑 역량을 키우는 것은 생성형 AI가 상품 검색·추천 등 구매 결정에 미치는 영향이 커지고 있어서다. 올해 추석 선물 판매 기간 챗GPT, 제미나이 등 생성형 AI를 통해 더현대 하이로 유입된 접속 건수는 지난해 추석 기간보다 4배 이상 늘었다. 현대백화점은 이번 연동으로 외국인 관광객 등 글로벌 고객과의 접점을 넓힌다는 구상이다."
               },
               {
                 "t": "p",
-                "x": "The guide gives conflicting instructions on whether clicking Launch puts a campaign live, and does not say how product variations count toward the 20-product cap."
+                "x": "앞서 현대백화점은 지난 4월 카카오톡 기반 '챗GPT 포 카카오'에 더현대 하이를 연동한 AI 쇼핑 서비스를 선보였다. 누적 이용 고객은 지난 10월 기준 약 86만명을 넘었다. 현대백화점은 AI 쇼핑 어시스턴트 '헤이디(HEYDI)'로 더현대 하이에 등록된 약 50만 개 상품을 대화형으로 추천하고 있다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "Amazon DVA+\n캠페인 상품 20개 제한",
-          "body": "13일 Amazon 지침상 DVA+는 상품 20개, KPI 바꾸면 학습이 리셋된다.",
-          "mini_headline": "DVA+ 상품 20개 제한",
+        "en": {
+          "headline": "The Hyundai Hi launches\na ChatGPT shopping plugin",
+          "body": "Hyundai Department Store's new plugin takes users from gift recommendations to purchase inside a ChatGPT chat.",
+          "mini_headline": "The Hyundai Hi comes to ChatGPT",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/amazon-dva-plus-campaign-guide-20-product-cap-automated-steering-wheel-dashboard.jpg",
-                "cap": "Amazon은 자동 DVA+ 캠페인 상품을 20개로 묶고, KPI가 바뀌면 학습을 초기화한다"
+                "src": "https://img.etnews.com/news/article/2026/11/15/news-p.v1.20261115.043d6ceedf144d1d9c9992c332281857_P1.png",
+                "cap": "Hyundai Department Store said on the 15th that it is launching a dedicated 'The Hyundai Hi' shopping plugin service in OpenAI's 'Apps in ChatGPT.'"
               },
               {
                 "t": "p",
-                "x": "2026년 11월 13일 업데이트된 Support Center 가이드 “Create a DVA+ campaign”은 Display, Video, and Audio 캠페인을 만드는 세 가지 방법을 안내한다. 자동화된 DVA+ 흐름, 단일 양식 작업 공간인 DVA+ advanced, 레거시 모드다. Amazon은 2026년 9월 29일 Amazon DSP라는 이름을 버리고 DVA+를 선보였다."
+                "x": "Hyundai Department Store said on the 15th that it is launching a dedicated 'The Hyundai Hi' shopping plugin service in OpenAI's 'Apps in ChatGPT.' 'Apps in ChatGPT' is a feature that lets users connect and use outside services directly inside the ChatGPT chat window. Users can search for The Hyundai Hi in the plugin tab of the ChatGPT menu and add it."
               },
               {
                 "t": "p",
-                "x": "자동화 흐름은 캠페인당 상품을 최대 20개까지 받는다. 계정 자격에 따라 목표 일곱 가지를 고를 수 있고 최적화가 기본으로 켜진 채 디스플레이, 온라인 동영상, 스트리밍 TV에 광고를 내보낸다. 페이지에는 “DVA+는 누락된 광고 형식을 생성하는 AI 도구를 제공한다”고 적혀 있다. 타기팅은 자동이고 위치 타기팅은 off-Amazon 목표에서만 쓸 수 있다."
+                "x": "Ask questions such as “Recommend a 10만원대 health food as a birthday gift for my parents” or “Tell me about the hottest pop-up stores at The Hyundai Seoul,” and ChatGPT provides Hyundai Department Store's online and offline shopping information. Recommended products are presented as links to The Hyundai Hi. Tapping a link opens The Hyundai Hi, where users can check product details and go on to purchase, pay or make a reservation."
               },
               {
                 "t": "p",
-                "x": "DVA+ advanced 항목에서 가이드는 “출시 후에도 KPI를 바꿀 수 있지만, 이 경우 캠페인의 성과 학습이 초기화되고 최적화에 영향을 줄 수 있다”고 경고한다. 노출 빈도 상한을 따로 정하지 않으면 기본값이 들어가고, 추천 광고 그룹은 Brand+와 Performance+ 전술에서 나온다."
+                "x": "Hyundai Department Store is building up its AI shopping capabilities because generative AI has a growing influence on purchase decisions such as product search and recommendations. During this year's Chuseok gift sales period, visits to The Hyundai Hi coming through generative AI such as ChatGPT and Gemini rose more than 4 times compared with last year's Chuseok period. Through this integration, Hyundai Department Store plans to widen its points of contact with global customers, including foreign tourists."
               },
               {
                 "t": "p",
-                "x": "Launch를 클릭하면 캠페인이 바로 집행되는지를 놓고 가이드 안내가 서로 엇갈린다. 상품 변형이 20개 상품 한도에 어떻게 계산되는지도 밝히지 않았다."
+                "x": "Earlier, in April, Hyundai Department Store launched an AI shopping service that linked The Hyundai Hi to the KakaoTalk-based 'ChatGPT for Kakao.' Cumulative users passed about 86만명 as of October. Hyundai Department Store uses its AI shopping assistant 'HEYDI' to recommend, in conversation, about 50만 개 products listed on The Hyundai Hi."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Amazon、DVA+の\n対象商品を20点に制限",
-          "body": "Amazonの13日付ガイドでDVA+は20商品まで、KPI変更で学習がリセットされる。",
-          "mini_headline": "DVA+は20商品まで",
+          "headline": "現代百貨店が\nChatGPTプラグイン公開",
+          "body": "現代百貨店が、ChatGPTの対話画面でギフト推薦から購入までをつなぐプラグインを出した。",
+          "mini_headline": "The Hyundai Hi、ChatGPTに登場",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/amazon-dva-plus-campaign-guide-20-product-cap-automated-steering-wheel-dashboard.jpg",
-                "cap": "Amazonは自動DVA+キャンペーンを20商品までに制限し、KPIを変更すると学習をリセットする"
+                "src": "https://img.etnews.com/news/article/2026/11/15/news-p.v1.20261115.043d6ceedf144d1d9c9992c332281857_P1.png",
+                "cap": "現代百貨店は15日、OpenAIの「Apps in ChatGPT」で「The Hyundai Hi」専用のショッピングプラグインサービスを提供すると明らかにした。"
               },
               {
                 "t": "p",
-                "x": "2026年11月13日に更新されたSupport Centerのガイド「Create a DVA+ campaign」は、Display, Video, and Audioキャンペーンを作成する三つの方法を説明している。自動化されたDVA+フロー、DVA+ advancedと呼ばれる単一フォームのワークスペース、そしてレガシーモードだ。Amazonは2026年9月29日、Amazon DSPの名称に代わるDVA+を導入した。"
+                "x": "現代百貨店は15日、OpenAIの「Apps in ChatGPT」で「The Hyundai Hi」専用のショッピングプラグインサービスを提供すると明らかにした。「Apps in ChatGPT」は、利用者がChatGPTの対話画面内で外部サービスを直接連携して使える機能だ。ChatGPTメニューのプラグインタブでThe Hyundai Hiを検索し、追加すればよい。"
               },
               {
                 "t": "p",
-                "x": "自動フローはキャンペーンあたり最大20商品を受け付け、アカウントの適格性に応じて七つの目標を用い、最適化を既定でオンにしたまま、ディスプレイ、オンライン動画、ストリーミングTVにわたって広告を配信する。ページには「DVA+は不足している広告フォーマットを生成するAIツールを提供する」とある。ターゲティングは自動で、地域ターゲティングはoff-Amazonの目標でのみ利用できる。"
+                "x": "「両親の誕生日プレゼントに10万ウォン台の健康食品を薦めて」「The Hyundai Seoulで話題のポップアップストアを教えて」などと質問すると、ChatGPTが現代百貨店のオンライン・オフラインのショッピング情報を提供する。おすすめ商品はThe Hyundai Hiのリンクで案内する。リンクを押すとThe Hyundai Hiにつながり、商品の詳細確認から購入・決済・予約までそのまま進められる。"
               },
               {
                 "t": "p",
-                "x": "DVA+ advancedについて、ガイドは「開始後にKPIを変更できるが、キャンペーンのパフォーマンス学習がリセットされ、最適化に影響する可能性がある」と警告する。フリークエンシーキャップを設定しない場合は既定値が適用され、推奨広告グループはBrand+とPerformance+の戦術から作られる。"
+                "x": "現代百貨店がAIショッピングの力を強化するのは、生成AIが商品検索・推薦など購買決定に与える影響が大きくなっているためだ。今年の秋夕（チュソク）ギフト販売期間に、ChatGPTやGeminiなどの生成AIを通じてThe Hyundai Hiに流入したアクセス数は、昨年の秋夕期間より4倍以上増えた。現代百貨店は今回の連携で、外国人観光客などグローバル顧客との接点を広げる構想だ。"
               },
               {
                 "t": "p",
-                "x": "ガイドは、Launchをクリックするとキャンペーンが配信開始されるかどうかについて矛盾した説明をしており、商品バリエーションが20商品の上限にどう数えられるかも示していない。"
+                "x": "現代百貨店はこれに先立ち、4月にKakaoTalkベースの「ChatGPT for Kakao」にThe Hyundai Hiを連携したAIショッピングサービスを始めた。累計利用者は10月時点で約86万人を超えた。現代百貨店はAIショッピングアシスタント「HEYDI（ヘイディ）」で、The Hyundai Hiに登録された約50万点の商品を対話形式で推薦している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Amazon DVA+活动\n上限为20件商品",
-          "body": "Amazon 13日的指南将DVA+自动活动限定为20件商品，KPI一变就重置学习。",
-          "mini_headline": "DVA+限20件商品",
+          "headline": "现代百货推出\nChatGPT购物插件",
+          "body": "现代百货推出插件，在ChatGPT对话框内打通从礼物推荐到购买的流程。",
+          "mini_headline": "The Hyundai Hi入驻ChatGPT",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/amazon-dva-plus-campaign-guide-20-product-cap-automated-steering-wheel-dashboard.jpg",
-                "cap": "Amazon将自动DVA+活动限定为20件商品，KPI变更时会重置学习"
+                "src": "https://img.etnews.com/news/article/2026/11/15/news-p.v1.20261115.043d6ceedf144d1d9c9992c332281857_P1.png",
+                "cap": "现代百货15日表示，将在OpenAI的“Apps in ChatGPT”中推出“The Hyundai Hi”专属购物插件服务。"
               },
               {
                 "t": "p",
-                "x": "2026年11月13日更新的Support Center指南《Create a DVA+ campaign》介绍了创建Display, Video, and Audio活动的三种方式：自动化DVA+流程、名为DVA+ advanced的单表单工作区，以及旧版模式。Amazon于2026年9月29日推出DVA+，取代了Amazon DSP这一名称。"
+                "x": "现代百货15日表示，将在OpenAI的“Apps in ChatGPT”中推出“The Hyundai Hi”专属购物插件服务。“Apps in ChatGPT”是让用户在ChatGPT对话框内直接连接并使用外部服务的功能。用户只需在ChatGPT菜单的插件标签中搜索The Hyundai Hi并添加即可。"
               },
               {
                 "t": "p",
-                "x": "自动化流程每个活动最多接受20件商品，会根据账户资格调用七个目标，并在默认开启优化的情况下，在展示广告、在线视频和流媒体TV上投放广告。页面写道：“DVA+提供AI工具来生成缺失的广告格式。”定向是自动的；位置定向仅适用于off-Amazon目标。"
+                "x": "用户提出“推荐10万韩元档的健康食品作为父母生日礼物”“告诉我The Hyundai Seoul最火的快闪店”等问题，ChatGPT就会提供现代百货的线上线下购物信息。推荐商品以The Hyundai Hi链接的形式呈现。点击链接即可跳转至The Hyundai Hi，继续查看商品详情并完成购买、支付和预约。"
               },
               {
                 "t": "p",
-                "x": "关于DVA+ advanced，指南警告：“你可以在上线后更改KPI，但这会重置活动的效果学习，并可能影响优化。”如果未设置频次上限，则会应用默认值；推荐的广告组来自Brand+和Performance+策略。"
+                "x": "现代百货加强AI购物能力，是因为生成式AI对商品搜索、推荐等购买决策的影响日益扩大。今年中秋礼品销售期间，经ChatGPT、Gemini等生成式AI进入The Hyundai Hi的访问量比去年中秋期间增长了4倍以上。现代百货计划借此次对接，扩大与外国游客等全球顾客的接触点。"
               },
               {
                 "t": "p",
-                "x": "对于点击Launch后活动是否会上线，该指南给出了相互矛盾的说明，也没有说明商品变体如何计入20件商品的上限。"
+                "x": "此前，现代百货于4月在基于KakaoTalk的“ChatGPT for Kakao”中推出了对接The Hyundai Hi的AI购物服务。截至10月，累计用户已超过约86万人。现代百货还通过AI购物助手“HEYDI”，以对话方式推荐The Hyundai Hi上架的约50万件商品。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Amazon limita DVA+\na 20 productos por campaña",
-          "body": "Amazon limita en su guía del 13 de noviembre las campañas DVA+ a 20 productos; cambiar el KPI reinicia el aprendizaje.",
-          "mini_headline": "DVA+ limitado a 20 productos",
+          "headline": "The Hyundai Hi lanza\nun plugin para ChatGPT",
+          "body": "Hyundai Department Store lanzó un plugin que lleva del regalo recomendado a la compra dentro de ChatGPT.",
+          "mini_headline": "The Hyundai Hi llega a ChatGPT",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/amazon-dva-plus-campaign-guide-20-product-cap-automated-steering-wheel-dashboard.jpg",
-                "cap": "Amazon limita las campañas automatizadas de DVA+ a 20 productos y reinicia el aprendizaje cuando cambia un KPI"
+                "src": "https://img.etnews.com/news/article/2026/11/15/news-p.v1.20261115.043d6ceedf144d1d9c9992c332281857_P1.png",
+                "cap": "Hyundai Department Store anunció el día 15 que lanza un servicio de plugin de compras exclusivo de 'The Hyundai Hi' en 'Apps in ChatGPT' de OpenAI."
               },
               {
                 "t": "p",
-                "x": "Una guía del Support Center titulada “Create a DVA+ campaign”, actualizada el 13 de noviembre de 2026, describe tres formas de crear una campaña de Display, Video, and Audio: un flujo automatizado de DVA+, un espacio de trabajo de un solo formulario llamado DVA+ advanced y un modo heredado. Amazon presentó DVA+, que sustituyó al nombre Amazon DSP, el 29 de septiembre de 2026."
+                "x": "Hyundai Department Store anunció el día 15 que lanza un servicio de plugin de compras exclusivo de 'The Hyundai Hi' en 'Apps in ChatGPT' de OpenAI. 'Apps in ChatGPT' es una función que permite a los usuarios conectar y usar servicios externos directamente dentro de la ventana de chat de ChatGPT. Basta con buscar The Hyundai Hi en la pestaña de plugins del menú de ChatGPT y añadirlo."
               },
               {
                 "t": "p",
-                "x": "El flujo automatizado admite hasta 20 productos por campaña, recurre a siete objetivos según la elegibilidad de la cuenta y publica anuncios en display, video en línea y TV en streaming con la optimización activada por defecto. “DVA+ ofrece herramientas de AI para generar los formatos de anuncio que faltan”, señala la página. La segmentación es automática; la segmentación por ubicación solo está disponible con objetivos off-Amazon."
+                "x": "Al hacer preguntas como “Recomiéndame un alimento saludable de 10만원대 como regalo de cumpleaños para mis padres” o “Dime qué pop-up stores están de moda en The Hyundai Seoul”, ChatGPT ofrece información de compras en línea y en tiendas físicas de Hyundai Department Store. Los productos recomendados se presentan con enlaces a The Hyundai Hi. Al pulsar el enlace se abre The Hyundai Hi, donde se pueden consultar los detalles del producto y continuar con la compra, el pago o la reserva."
               },
               {
                 "t": "p",
-                "x": "En DVA+ advanced, la guía advierte: “Puede cambiar su KPI después del lanzamiento, pero esto reinicia los aprendizajes de rendimiento de la campaña y puede afectar a la optimización”. Si no se establece un límite de frecuencia, se aplica uno predeterminado, y los grupos de anuncios recomendados provienen de las tácticas Brand+ y Performance+."
+                "x": "Hyundai Department Store refuerza sus capacidades de compra con AI porque la AI generativa influye cada vez más en las decisiones de compra, como la búsqueda y la recomendación de productos. Durante el periodo de venta de regalos de Chuseok de este año, los accesos a The Hyundai Hi procedentes de AI generativa como ChatGPT y Gemini se multiplicaron por más de 4 respecto al Chuseok del año pasado. Con esta integración, la empresa busca ampliar sus puntos de contacto con clientes globales, como los turistas extranjeros."
               },
               {
                 "t": "p",
-                "x": "La guía da instrucciones contradictorias sobre si hacer clic en Launch pone en marcha una campaña, y no explica cómo cuentan las variaciones de producto para el límite de 20 productos."
+                "x": "Anteriormente, en abril, Hyundai Department Store lanzó un servicio de compras con AI que integraba The Hyundai Hi en 'ChatGPT for Kakao', basado en KakaoTalk. Los usuarios acumulados superaron aproximadamente los 86만명 a fecha de octubre. Hyundai Department Store recomienda de forma conversacional unos 50만 개 productos registrados en The Hyundai Hi mediante su asistente de compras con AI 'HEYDI'."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "Amazon DVA+\n캠페인 상품 20개 제한",
-          "body": "13일 Amazon 지침상 DVA+ 상품 20개, KPI 변경 땐 학습이 리셋된다.",
-          "mini_headline": "DVA+ 상품 20개 제한",
+        "en": {
+          "headline": "The Hyundai Hi launches\na ChatGPT shopping plugin",
+          "body": "Hyundai Department Store's new plugin takes users from gift recommendations to purchase inside a ChatGPT chat.",
+          "mini_headline": "The Hyundai Hi comes to ChatGPT",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/amazon-dva-plus-campaign-guide-20-product-cap-automated-steering-wheel-dashboard.jpg",
-                "cap": "Amazon은 자동 DVA+ 캠페인을 상품 20개로 제한하고, KPI가 바뀌면 학습을 초기화한다"
+                "src": "https://img.etnews.com/news/article/2026/11/15/news-p.v1.20261115.043d6ceedf144d1d9c9992c332281857_P1.png",
+                "cap": "Hyundai Department Store said on the 15th that it is launching a dedicated 'The Hyundai Hi' shopping plugin service in OpenAI's 'Apps in ChatGPT.'"
               },
               {
                 "t": "p",
-                "x": "2026년 11월 13일 업데이트된 Support Center 가이드 “Create a DVA+ campaign”은 Display, Video, and Audio 캠페인을 만드는 세 가지 방법을 설명한다. 자동화된 DVA+ 흐름, DVA+ advanced라는 단일 양식 작업 공간, 그리고 레거시 모드다. Amazon은 2026년 9월 29일 Amazon DSP라는 이름을 대체하는 DVA+를 선보였다."
+                "x": "Hyundai Department Store said on the 15th that it is launching a dedicated 'The Hyundai Hi' shopping plugin service in OpenAI's 'Apps in ChatGPT.' 'Apps in ChatGPT' is a feature that lets users connect and use outside services directly inside the ChatGPT chat window. Users can search for The Hyundai Hi in the plugin tab of the ChatGPT menu and add it."
               },
               {
                 "t": "p",
-                "x": "자동화 흐름은 캠페인당 최대 20개 상품을 받으며, 계정 자격에 따라 일곱 가지 목표를 활용하고, 최적화가 기본으로 켜진 상태에서 디스플레이, 온라인 동영상, 스트리밍 TV 전반에 광고를 집행한다. 페이지에는 “DVA+는 누락된 광고 형식을 생성하는 AI 도구를 제공한다”고 적혀 있다. 타기팅은 자동이며, 위치 타기팅은 off-Amazon 목표에서만 쓸 수 있다."
+                "x": "Ask questions such as “Recommend a 10만원대 health food as a birthday gift for my parents” or “Tell me about the hottest pop-up stores at The Hyundai Seoul,” and ChatGPT provides Hyundai Department Store's online and offline shopping information. Recommended products are presented as links to The Hyundai Hi. Tapping a link opens The Hyundai Hi, where users can check product details and go on to purchase, pay or make a reservation."
               },
               {
                 "t": "p",
-                "x": "DVA+ advanced에 대해 가이드는 “출시 후에도 KPI를 바꿀 수 있지만, 이 경우 캠페인의 성과 학습이 초기화되고 최적화에 영향을 줄 수 있다”고 경고한다. 노출 빈도 상한을 정하지 않으면 기본값이 적용되며, 추천 광고 그룹은 Brand+와 Performance+ 전술에서 나온다."
+                "x": "Hyundai Department Store is building up its AI shopping capabilities because generative AI has a growing influence on purchase decisions such as product search and recommendations. During this year's Chuseok gift sales period, visits to The Hyundai Hi coming through generative AI such as ChatGPT and Gemini rose more than 4 times compared with last year's Chuseok period. Through this integration, Hyundai Department Store plans to widen its points of contact with global customers, including foreign tourists."
               },
               {
                 "t": "p",
-                "x": "가이드는 Launch를 클릭하면 캠페인이 바로 집행되는지를 두고 서로 엇갈리는 안내를 하며, 상품 변형이 20개 상품 한도에 어떻게 계산되는지는 밝히지 않는다."
+                "x": "Earlier, in April, Hyundai Department Store launched an AI shopping service that linked The Hyundai Hi to the KakaoTalk-based 'ChatGPT for Kakao.' Cumulative users passed about 86만명 as of October. Hyundai Department Store uses its AI shopping assistant 'HEYDI' to recommend, in conversation, about 50만 개 products listed on The Hyundai Hi."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Amazon、DVA+の\n対象商品を20点に制限",
-          "body": "Amazonの13日付ガイドでDVA+は20商品まで、KPI変更で学習がリセットされる。",
-          "mini_headline": "DVA+は20商品まで",
+          "headline": "現代百貨店が\nChatGPTプラグイン公開",
+          "body": "現代百貨店が、ChatGPTの対話画面でギフト推薦から購入までをつなぐプラグインを出した。",
+          "mini_headline": "The Hyundai Hi、ChatGPTに登場",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/amazon-dva-plus-campaign-guide-20-product-cap-automated-steering-wheel-dashboard.jpg",
-                "cap": "Amazonは自動DVA+キャンペーンを20商品までに制限し、KPIを変更すると学習をリセットする"
+                "src": "https://img.etnews.com/news/article/2026/11/15/news-p.v1.20261115.043d6ceedf144d1d9c9992c332281857_P1.png",
+                "cap": "現代百貨店は15日、OpenAIの「Apps in ChatGPT」で「The Hyundai Hi」専用のショッピングプラグインサービスを提供すると明らかにした。"
               },
               {
                 "t": "p",
-                "x": "2026年11月13日に更新されたSupport Centerのガイド「Create a DVA+ campaign」は、Display, Video, and Audioキャンペーンを作成する三つの方法を説明している。自動化されたDVA+フロー、DVA+ advancedと呼ばれる単一フォームのワークスペース、そしてレガシーモードだ。Amazonは2026年9月29日、Amazon DSPの名称に代わるDVA+を導入した。"
+                "x": "現代百貨店は15日、OpenAIの「Apps in ChatGPT」で「The Hyundai Hi」専用のショッピングプラグインサービスを提供すると明らかにした。「Apps in ChatGPT」は、利用者がChatGPTの対話画面内で外部サービスを直接連携して使える機能だ。ChatGPTメニューのプラグインタブでThe Hyundai Hiを検索し、追加すればよい。"
               },
               {
                 "t": "p",
-                "x": "自動フローはキャンペーンあたり最大20商品を受け付け、アカウントの適格性に応じて七つの目標を用い、最適化を既定でオンにしたまま、ディスプレイ、オンライン動画、ストリーミングTVにわたって広告を配信する。ページには「DVA+は不足している広告フォーマットを生成するAIツールを提供する」とある。ターゲティングは自動で、地域ターゲティングはoff-Amazonの目標でのみ利用できる。"
+                "x": "「両親の誕生日プレゼントに10万ウォン台の健康食品を薦めて」「The Hyundai Seoulで話題のポップアップストアを教えて」などと質問すると、ChatGPTが現代百貨店のオンライン・オフラインのショッピング情報を提供する。おすすめ商品はThe Hyundai Hiのリンクで案内する。リンクを押すとThe Hyundai Hiにつながり、商品の詳細確認から購入・決済・予約までそのまま進められる。"
               },
               {
                 "t": "p",
-                "x": "DVA+ advancedについて、ガイドは「開始後にKPIを変更できるが、キャンペーンのパフォーマンス学習がリセットされ、最適化に影響する可能性がある」と警告する。フリークエンシーキャップを設定しない場合は既定値が適用され、推奨広告グループはBrand+とPerformance+の戦術から作られる。"
+                "x": "現代百貨店がAIショッピングの力を強化するのは、生成AIが商品検索・推薦など購買決定に与える影響が大きくなっているためだ。今年の秋夕（チュソク）ギフト販売期間に、ChatGPTやGeminiなどの生成AIを通じてThe Hyundai Hiに流入したアクセス数は、昨年の秋夕期間より4倍以上増えた。現代百貨店は今回の連携で、外国人観光客などグローバル顧客との接点を広げる構想だ。"
               },
               {
                 "t": "p",
-                "x": "ガイドは、Launchをクリックするとキャンペーンが配信開始されるかどうかについて矛盾した説明をしており、商品バリエーションが20商品の上限にどう数えられるかも示していない。"
+                "x": "現代百貨店はこれに先立ち、4月にKakaoTalkベースの「ChatGPT for Kakao」にThe Hyundai Hiを連携したAIショッピングサービスを始めた。累計利用者は10月時点で約86万人を超えた。現代百貨店はAIショッピングアシスタント「HEYDI（ヘイディ）」で、The Hyundai Hiに登録された約50万点の商品を対話形式で推薦している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Amazon DVA+活动\n上限为20件商品",
-          "body": "Amazon 13日的指南将DVA+自动活动限定为20件商品，KPI一变就重置学习。",
-          "mini_headline": "DVA+限20件商品",
+          "headline": "现代百货推出\nChatGPT购物插件",
+          "body": "现代百货推出插件，在ChatGPT对话框内打通从礼物推荐到购买的流程。",
+          "mini_headline": "The Hyundai Hi入驻ChatGPT",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/amazon-dva-plus-campaign-guide-20-product-cap-automated-steering-wheel-dashboard.jpg",
-                "cap": "Amazon将自动DVA+活动限定为20件商品，KPI变更时会重置学习"
+                "src": "https://img.etnews.com/news/article/2026/11/15/news-p.v1.20261115.043d6ceedf144d1d9c9992c332281857_P1.png",
+                "cap": "现代百货15日表示，将在OpenAI的“Apps in ChatGPT”中推出“The Hyundai Hi”专属购物插件服务。"
               },
               {
                 "t": "p",
-                "x": "2026年11月13日更新的Support Center指南《Create a DVA+ campaign》介绍了创建Display, Video, and Audio活动的三种方式：自动化DVA+流程、名为DVA+ advanced的单表单工作区，以及旧版模式。Amazon于2026年9月29日推出DVA+，取代了Amazon DSP这一名称。"
+                "x": "现代百货15日表示，将在OpenAI的“Apps in ChatGPT”中推出“The Hyundai Hi”专属购物插件服务。“Apps in ChatGPT”是让用户在ChatGPT对话框内直接连接并使用外部服务的功能。用户只需在ChatGPT菜单的插件标签中搜索The Hyundai Hi并添加即可。"
               },
               {
                 "t": "p",
-                "x": "自动化流程每个活动最多接受20件商品，会根据账户资格调用七个目标，并在默认开启优化的情况下，在展示广告、在线视频和流媒体TV上投放广告。页面写道：“DVA+提供AI工具来生成缺失的广告格式。”定向是自动的；位置定向仅适用于off-Amazon目标。"
+                "x": "用户提出“推荐10万韩元档的健康食品作为父母生日礼物”“告诉我The Hyundai Seoul最火的快闪店”等问题，ChatGPT就会提供现代百货的线上线下购物信息。推荐商品以The Hyundai Hi链接的形式呈现。点击链接即可跳转至The Hyundai Hi，继续查看商品详情并完成购买、支付和预约。"
               },
               {
                 "t": "p",
-                "x": "关于DVA+ advanced，指南警告：“你可以在上线后更改KPI，但这会重置活动的效果学习，并可能影响优化。”如果未设置频次上限，则会应用默认值；推荐的广告组来自Brand+和Performance+策略。"
+                "x": "现代百货加强AI购物能力，是因为生成式AI对商品搜索、推荐等购买决策的影响日益扩大。今年中秋礼品销售期间，经ChatGPT、Gemini等生成式AI进入The Hyundai Hi的访问量比去年中秋期间增长了4倍以上。现代百货计划借此次对接，扩大与外国游客等全球顾客的接触点。"
               },
               {
                 "t": "p",
-                "x": "对于点击Launch后活动是否会上线，该指南给出了相互矛盾的说明，也没有说明商品变体如何计入20件商品的上限。"
+                "x": "此前，现代百货于4月在基于KakaoTalk的“ChatGPT for Kakao”中推出了对接The Hyundai Hi的AI购物服务。截至10月，累计用户已超过约86万人。现代百货还通过AI购物助手“HEYDI”，以对话方式推荐The Hyundai Hi上架的约50万件商品。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Amazon limita DVA+\na 20 productos por campaña",
-          "body": "Amazon limita en su guía del 13 de noviembre las campañas DVA+ a 20 productos; cambiar el KPI reinicia el aprendizaje.",
-          "mini_headline": "DVA+ limitado a 20 productos",
+          "headline": "The Hyundai Hi lanza\nun plugin para ChatGPT",
+          "body": "Hyundai Department Store lanzó un plugin que lleva del regalo recomendado a la compra dentro de ChatGPT.",
+          "mini_headline": "The Hyundai Hi llega a ChatGPT",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/amazon-dva-plus-campaign-guide-20-product-cap-automated-steering-wheel-dashboard.jpg",
-                "cap": "Amazon limita las campañas automatizadas de DVA+ a 20 productos y reinicia el aprendizaje cuando cambia un KPI"
+                "src": "https://img.etnews.com/news/article/2026/11/15/news-p.v1.20261115.043d6ceedf144d1d9c9992c332281857_P1.png",
+                "cap": "Hyundai Department Store anunció el día 15 que lanza un servicio de plugin de compras exclusivo de 'The Hyundai Hi' en 'Apps in ChatGPT' de OpenAI."
               },
               {
                 "t": "p",
-                "x": "Una guía del Support Center titulada “Create a DVA+ campaign”, actualizada el 13 de noviembre de 2026, describe tres formas de crear una campaña de Display, Video, and Audio: un flujo automatizado de DVA+, un espacio de trabajo de un solo formulario llamado DVA+ advanced y un modo heredado. Amazon presentó DVA+, que sustituyó al nombre Amazon DSP, el 29 de septiembre de 2026."
+                "x": "Hyundai Department Store anunció el día 15 que lanza un servicio de plugin de compras exclusivo de 'The Hyundai Hi' en 'Apps in ChatGPT' de OpenAI. 'Apps in ChatGPT' es una función que permite a los usuarios conectar y usar servicios externos directamente dentro de la ventana de chat de ChatGPT. Basta con buscar The Hyundai Hi en la pestaña de plugins del menú de ChatGPT y añadirlo."
               },
               {
                 "t": "p",
-                "x": "El flujo automatizado admite hasta 20 productos por campaña, recurre a siete objetivos según la elegibilidad de la cuenta y publica anuncios en display, video en línea y TV en streaming con la optimización activada por defecto. “DVA+ ofrece herramientas de AI para generar los formatos de anuncio que faltan”, señala la página. La segmentación es automática; la segmentación por ubicación solo está disponible con objetivos off-Amazon."
+                "x": "Al hacer preguntas como “Recomiéndame un alimento saludable de 10만원대 como regalo de cumpleaños para mis padres” o “Dime qué pop-up stores están de moda en The Hyundai Seoul”, ChatGPT ofrece información de compras en línea y en tiendas físicas de Hyundai Department Store. Los productos recomendados se presentan con enlaces a The Hyundai Hi. Al pulsar el enlace se abre The Hyundai Hi, donde se pueden consultar los detalles del producto y continuar con la compra, el pago o la reserva."
               },
               {
                 "t": "p",
-                "x": "En DVA+ advanced, la guía advierte: “Puede cambiar su KPI después del lanzamiento, pero esto reinicia los aprendizajes de rendimiento de la campaña y puede afectar a la optimización”. Si no se establece un límite de frecuencia, se aplica uno predeterminado, y los grupos de anuncios recomendados provienen de las tácticas Brand+ y Performance+."
+                "x": "Hyundai Department Store refuerza sus capacidades de compra con AI porque la AI generativa influye cada vez más en las decisiones de compra, como la búsqueda y la recomendación de productos. Durante el periodo de venta de regalos de Chuseok de este año, los accesos a The Hyundai Hi procedentes de AI generativa como ChatGPT y Gemini se multiplicaron por más de 4 respecto al Chuseok del año pasado. Con esta integración, la empresa busca ampliar sus puntos de contacto con clientes globales, como los turistas extranjeros."
               },
               {
                 "t": "p",
-                "x": "La guía da instrucciones contradictorias sobre si hacer clic en Launch pone en marcha una campaña, y no explica cómo cuentan las variaciones de producto para el límite de 20 productos."
+                "x": "Anteriormente, en abril, Hyundai Department Store lanzó un servicio de compras con AI que integraba The Hyundai Hi en 'ChatGPT for Kakao', basado en KakaoTalk. Los usuarios acumulados superaron aproximadamente los 86만명 a fecha de octubre. Hyundai Department Store recomienda de forma conversacional unos 50만 개 productos registrados en The Hyundai Hi mediante su asistente de compras con AI 'HEYDI'."
               }
             ]
           }
@@ -597,321 +637,481 @@
       }
     },
     {
-      "id": "marketing-ai-audience-insights-risk",
-      "source_lang": "en",
+      "id": "hyundai-homeshopping-ai-broadcast",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "AI 오디언스 인사이트\n성과 발목 잡는다",
-      "body": "리더 80% 이상이 부정확한 AI 결과물로 사업상 손해를 봤다는 보고서가 나왔다.",
-      "mini_headline": "AI 인사이트, 성과 저해",
+      "headline": "현대홈쇼핑, 쇼호스트\n없는 AI 방송 도입",
+      "body": "현대홈쇼핑이 쇼호스트·카메라 없이 AI가 음성과 영상을 만든 방송을 선보인다.",
+      "mini_headline": "현대홈쇼핑 AI 방송",
       "tool": "Marketing",
-      "source": "Marketing Dive",
-      "url": "https://www.marketingdive.com/news/ai-derived-audience-insights-hurt-results-what-the-numbers-say/874565/",
+      "source": "ZDNet Korea",
+      "url": "https://zdnet.co.kr/view/?no=20261115122232",
       "accent": "#f5a623",
       "motif": "frame",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
+            "t": "p",
+            "x": "현대홈쇼핑이 쇼호스트와 카메라 촬영 없이 인공지능(AI)만으로 제작한 홈쇼핑 방송을 선보인다. AI가 음성과 영상을 모두 생성하는 방식으로, 방송 제작 비용을 줄이는 동시에 기존 촬영 방식으로 구현하기 어려웠던 상품 정보까지 시각적으로 전달한다는 구상이다."
+          },
+          {
+            "t": "p",
+            "x": "현대홈쇼핑은 데이터홈쇼핑 채널 '현대홈쇼핑 플러스샵'에 100% AI 방송 시스템인 'AI-REAL'을 도입한다고 15일 밝혔다. 첫 정규 방송은 오는 16일 오후 3시 20분 진행되는 '제주 하트 골드키위' 판매 방송이다."
+          },
+          {
+            "t": "p",
+            "x": "AI-REAL은 실제 쇼호스트의 출연이나 카메라 촬영 없이 AI가 방송에 필요한 음성과 영상을 생성하는 시스템이다. 기존 홈쇼핑 방송에서 일부 장면이나 쇼호스트를 AI로 대체한 사례는 있었지만, 방송 전체를 AI로 제작하는 것은 업계 최초라는 설명이다."
+          },
+          {
             "t": "img",
-            "src": "https://imgproxy.divecdn.com/LTJRYpnpPQcEoQaFeo8Ixe1iH_zUGaGGD_6wnRWkUE4/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTkzNzY0OTQzLmpwZw==.webp",
-            "cap": "AI는 비용을 줄여 줄 도구로 주목받았지만 응답자의 27%는 잘못된 AI 결과물로 돈을 잃었다."
+            "src": "https://image.zdnet.co.kr/2026/11/15/ec3435b603102586bf7d4d94af724d69.png",
+            "cap": "현대홈쇼핑 100% AI 방송 화면"
           },
           {
             "t": "p",
-            "x": "GWI 조사에 따르면 업계 고위 전문가 90% 가까이가 매일 AI를 쓴다. 동시에 80%는 부정확하거나 오해를 부르는 AI 분석 결과를 자주 접한다고 답했다. 보고서 “Artificial Confidence: The AI Trust Gap”은 U.K., U.S., 싱가포르의 고위 인사이트·에이전시·마케팅 전문가 1,883명의 응답을 담았다."
+            "x": "현대홈쇼핑은 AI를 활용해 기존 실물 촬영 방식으로 표현하기 어려웠던 상품 정보도 시각화할 계획이다. 농산물의 산지 토양 상태나 유통 과정, 식품 조리 예시 등을 별도 촬영이나 소품 제작 없이 영상으로 구현하는 방식이다."
           },
           {
             "t": "p",
-            "x": "AI 인사이트를 “대부분의 경우” 검증한다는 응답은 36%뿐이었다. 63%는 시효가 지난 인사이트를 모르고 썼다가 나중에 알아챈 적이 있었다. 76%는 AI가 낡은 가정을 굳힐 수 있다고 봤고 70% 가까이는 AI가 목표 고객을 제대로 반영하지 못하는 경우를 겪었다. 그런데도 81%는 고객 프로필 작성과 세분화에 AI를 쓰는 데 자신이 있다고 했다."
+            "x": "방송 제작 비용 절감 효과도 기대하고 있다. 특히 방송용 샘플 준비와 영상 제작 등에 부담을 느끼는 중소 협력사의 비용을 줄일 수 있다는 설명이다. 현대홈쇼핑에 따르면 최근 진행한 테스트 방송에서 협력사가 부담하는 샘플 준비와 삽입 영상 제작 등 제반 비용이 기존 대비 80% 이상 감소했다. 매출은 목표 대비 120%를 달성했다."
           },
           {
             "t": "p",
-            "x": "고위 의사결정자 절반 이상은 나중에 틀렸거나 오해의 소지가 있던 것으로 드러난 AI 인사이트로 중요한 사업 결정을 내린 경험이 있다. 마케팅 리더 82%가 적어도 한 가지 부정적 결과를 겪었다. 가장 흔한 것은 내부 재작업(38%), 의사결정 지연(36%), 고객 불만(34%)이었고 21%는 캠페인 성과가 떨어졌다."
+            "x": "임수진 현대홈쇼핑 방송제작담당 사업부장은 \"테스트 방송에서 고객들은 실제 사람이 출연하는 방송 못지않게 자연스럽고, 재배 환경이나 조리 예시 등 다양한 정보가 구매 결정에 도움이 됐다는 긍정적인 반응을 보였다\"고 설명했다."
           },
           {
             "t": "p",
-            "x": "GWI 최고인사이트책임자 Jason Mander는 “기업들은 새로운 유형의 기술이라면 마땅히 기대할 만한 엄격한 체계를 아직 갖추지 않았다”고 말했다."
+            "x": "현대홈쇼핑은 우선 농·축·수산물 등 신선식품을 중심으로 AI 방송을 월 1회 이상 정기 편성할 예정이다. 이후 가공식품과 리빙 등 중소 협력사의 입점 수요가 높은 상품군으로 적용 범위를 확대할 계획이다."
+          },
+          {
+            "t": "p",
+            "x": "임현태 현대홈쇼핑 채널전략디비전 부문장은 \"중소 협력사와 상생하며 고객에게 차별화된 쇼핑 경험을 제공하기 위해 AI 방송 생성 시스템을 개발했다\"며 \"앞으로도 AI 기술을 실무에 적극 접목해 AI 전환(AX) 속도를 높이겠다\"고 말했다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "AI audience insights\nare hurting results",
-          "body": "A recent report finds over 80% of leaders have suffered a negative business outcome from inaccurate AI outputs.",
-          "mini_headline": "AI insights\nhurt results",
+        "ko": {
+          "headline": "현대홈쇼핑, 쇼호스트\n없는 AI 방송 도입",
+          "body": "현대홈쇼핑이 쇼호스트·카메라 없이 AI가 음성과 영상을 만든 방송을 선보인다.",
+          "mini_headline": "현대홈쇼핑 AI 방송",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "현대홈쇼핑이 쇼호스트와 카메라 촬영 없이 인공지능(AI)만으로 제작한 홈쇼핑 방송을 선보인다. AI가 음성과 영상을 모두 생성하는 방식으로, 방송 제작 비용을 줄이는 동시에 기존 촬영 방식으로 구현하기 어려웠던 상품 정보까지 시각적으로 전달한다는 구상이다."
+              },
+              {
+                "t": "p",
+                "x": "현대홈쇼핑은 데이터홈쇼핑 채널 '현대홈쇼핑 플러스샵'에 100% AI 방송 시스템인 'AI-REAL'을 도입한다고 15일 밝혔다. 첫 정규 방송은 오는 16일 오후 3시 20분 진행되는 '제주 하트 골드키위' 판매 방송이다."
+              },
+              {
+                "t": "p",
+                "x": "AI-REAL은 실제 쇼호스트의 출연이나 카메라 촬영 없이 AI가 방송에 필요한 음성과 영상을 생성하는 시스템이다. 기존 홈쇼핑 방송에서 일부 장면이나 쇼호스트를 AI로 대체한 사례는 있었지만, 방송 전체를 AI로 제작하는 것은 업계 최초라는 설명이다."
+              },
+              {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/LTJRYpnpPQcEoQaFeo8Ixe1iH_zUGaGGD_6wnRWkUE4/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTkzNzY0OTQzLmpwZw==.webp",
-                "cap": "While AI has been heralded as a cost-saving tool, 27% of those surveyed experienced financial loss because of incorrect AI outputs."
+                "src": "https://image.zdnet.co.kr/2026/11/15/ec3435b603102586bf7d4d94af724d69.png",
+                "cap": "현대홈쇼핑 100% AI 방송 화면"
               },
               {
                 "t": "p",
-                "x": "Nearly 90% of senior industry professionals use AI daily, according to a GWI survey, but 80% say they frequently encounter inaccurate or misleading AI findings. “Artificial Confidence: The AI Trust Gap” includes responses from 1,883 senior insights, agency and marketing professionals in the U.K., U.S. and Singapore."
+                "x": "현대홈쇼핑은 AI를 활용해 기존 실물 촬영 방식으로 표현하기 어려웠던 상품 정보도 시각화할 계획이다. 농산물의 산지 토양 상태나 유통 과정, 식품 조리 예시 등을 별도 촬영이나 소품 제작 없이 영상으로 구현하는 방식이다."
               },
               {
                 "t": "p",
-                "x": "Only 36% verify AI insights “most of the time,” and 63% have accidentally used insights they later realized were out of date. 76% think AI can reinforce outdated assumptions, and nearly 70% have seen it fail to accurately reflect their target audience — yet 81% feel confident using AI for audience profiles and segmentation."
+                "x": "방송 제작 비용 절감 효과도 기대하고 있다. 특히 방송용 샘플 준비와 영상 제작 등에 부담을 느끼는 중소 협력사의 비용을 줄일 수 있다는 설명이다. 현대홈쇼핑에 따르면 최근 진행한 테스트 방송에서 협력사가 부담하는 샘플 준비와 삽입 영상 제작 등 제반 비용이 기존 대비 80% 이상 감소했다. 매출은 목표 대비 120%를 달성했다."
               },
               {
                 "t": "p",
-                "x": "Over half of senior decision-makers have made a significant business decision based on AI insights that turned out to be incorrect or misleading. 82% of marketing leaders have felt at least one adverse outcome, most commonly internal rework (38%), delayed decision making (36%) and customer complaints (34%); 21% saw weaker campaign performance."
+                "x": "임수진 현대홈쇼핑 방송제작담당 사업부장은 \"테스트 방송에서 고객들은 실제 사람이 출연하는 방송 못지않게 자연스럽고, 재배 환경이나 조리 예시 등 다양한 정보가 구매 결정에 도움이 됐다는 긍정적인 반응을 보였다\"고 설명했다."
               },
               {
                 "t": "p",
-                "x": "“Companies haven't put the type of rigorous frameworks in place that you would expect with a new type of technology,” said Jason Mander, chief insight officer at GWI."
+                "x": "현대홈쇼핑은 우선 농·축·수산물 등 신선식품을 중심으로 AI 방송을 월 1회 이상 정기 편성할 예정이다. 이후 가공식품과 리빙 등 중소 협력사의 입점 수요가 높은 상품군으로 적용 범위를 확대할 계획이다."
+              },
+              {
+                "t": "p",
+                "x": "임현태 현대홈쇼핑 채널전략디비전 부문장은 \"중소 협력사와 상생하며 고객에게 차별화된 쇼핑 경험을 제공하기 위해 AI 방송 생성 시스템을 개발했다\"며 \"앞으로도 AI 기술을 실무에 적극 접목해 AI 전환(AX) 속도를 높이겠다\"고 말했다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "AI 오디언스 인사이트\n성과 발목 잡는다",
-          "body": "리더 80% 이상이 부정확한 AI 결과물로 사업상 손해를 봤다는 보고서가 나왔다.",
-          "mini_headline": "AI 인사이트, 성과 저해",
+        "en": {
+          "headline": "Hyundai Home Shopping airs\nAI shows with no show host",
+          "body": "Hyundai Home Shopping will air broadcasts whose voice and video are generated by AI, with no show host or camera.",
+          "mini_headline": "Hyundai Home Shopping AI broadcasts",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "Hyundai Home Shopping is launching home shopping broadcasts produced entirely by artificial intelligence (AI), with no show host and no camera filming. AI generates both the voice and the video, and the plan is to cut production costs while also conveying visually product information that was hard to show with conventional filming."
+              },
+              {
+                "t": "p",
+                "x": "Hyundai Home Shopping said on the 15th that it is introducing 'AI-REAL,' a 100% AI broadcast system, on its data home shopping channel 'Hyundai Home Shopping Plus Shop.' The first regular broadcast is a sales show for 'Jeju Heart Gold Kiwi' at 3:20 p.m. on the 16th."
+              },
+              {
+                "t": "p",
+                "x": "AI-REAL is a system in which AI generates the voice and video a broadcast needs, without a real show host appearing or any camera filming. The company said that while home shopping broadcasts have previously replaced some scenes or show hosts with AI, producing an entire broadcast with AI is an industry first."
+              },
+              {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/LTJRYpnpPQcEoQaFeo8Ixe1iH_zUGaGGD_6wnRWkUE4/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTkzNzY0OTQzLmpwZw==.webp",
-                "cap": "AI는 비용을 줄여 줄 도구로 주목받았지만 응답자의 27%는 잘못된 AI 결과물로 돈을 잃었다."
+                "src": "https://image.zdnet.co.kr/2026/11/15/ec3435b603102586bf7d4d94af724d69.png",
+                "cap": "Hyundai Home Shopping's 100% AI broadcast screen"
               },
               {
                 "t": "p",
-                "x": "GWI 조사에 따르면 업계 고위 전문가 90% 가까이가 매일 AI를 쓴다. 동시에 80%는 부정확하거나 오해를 부르는 AI 분석 결과를 자주 접한다고 답했다. 보고서 “Artificial Confidence: The AI Trust Gap”은 U.K., U.S., 싱가포르의 고위 인사이트·에이전시·마케팅 전문가 1,883명의 응답을 담았다."
+                "x": "Hyundai Home Shopping plans to use AI to visualize product information that was hard to express with conventional live-action filming. Details such as the soil conditions where produce is grown, the distribution process and cooking examples for food will be rendered as video without separate filming or props."
               },
               {
                 "t": "p",
-                "x": "AI 인사이트를 “대부분의 경우” 검증한다는 응답은 36%뿐이었다. 63%는 시효가 지난 인사이트를 모르고 썼다가 나중에 알아챈 적이 있었다. 76%는 AI가 낡은 가정을 굳힐 수 있다고 봤고 70% 가까이는 AI가 목표 고객을 제대로 반영하지 못하는 경우를 겪었다. 그런데도 81%는 고객 프로필 작성과 세분화에 AI를 쓰는 데 자신이 있다고 했다."
+                "x": "The company also expects lower production costs. In particular, it said the system can reduce costs for small and mid-sized partner companies that find preparing broadcast samples and producing video burdensome. According to Hyundai Home Shopping, in recent test broadcasts the overall costs borne by partners, including sample preparation and inserted video production, fell by more than 80% compared with before. Sales reached 120% of target."
               },
               {
                 "t": "p",
-                "x": "고위 의사결정자 절반 이상은 나중에 틀렸거나 오해의 소지가 있던 것으로 드러난 AI 인사이트로 중요한 사업 결정을 내린 경험이 있다. 마케팅 리더 82%가 적어도 한 가지 부정적 결과를 겪었다. 가장 흔한 것은 내부 재작업(38%), 의사결정 지연(36%), 고객 불만(34%)이었고 21%는 캠페인 성과가 떨어졌다."
+                "x": "Lim Su-jin, head of the broadcast production business unit at Hyundai Home Shopping, said, \"In the test broadcasts, customers responded positively, saying the shows felt as natural as broadcasts featuring real people and that a range of information, such as growing conditions and cooking examples, helped their purchase decisions.\""
               },
               {
                 "t": "p",
-                "x": "GWI 최고인사이트책임자 Jason Mander는 “기업들은 새로운 유형의 기술이라면 마땅히 기대할 만한 엄격한 체계를 아직 갖추지 않았다”고 말했다."
+                "x": "Hyundai Home Shopping plans to schedule AI broadcasts regularly, at least 1 per month, starting with fresh food such as agricultural, livestock and fishery products. It then plans to expand to product categories where demand from small and mid-sized partners is high, such as processed food and living goods."
+              },
+              {
+                "t": "p",
+                "x": "Lim Hyun-tae, head of the channel strategy division at Hyundai Home Shopping, said, \"We developed the AI broadcast generation system to grow together with small and mid-sized partners and give customers a differentiated shopping experience,\" adding, \"We will keep actively applying AI technology to our work to speed up our AI transformation (AX).\""
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIのオーディエンス分析が\n成果を損ねている",
-          "body": "最近の報告書によると、リーダーの80%超が不正確なAI出力で事業上の悪影響を受けた。",
-          "mini_headline": "AI分析が成果を損なう",
+          "headline": "現代ホームショッピング、\nショーホストなしAI放送",
+          "body": "現代ホームショッピングが、ショーホストもカメラも使わずAIが音声と映像を作る放送を始める。",
+          "mini_headline": "現代ホームショッピングのAI放送",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "現代ホームショッピングが、ショーホストもカメラ撮影も使わず人工知能（AI）だけで制作したホームショッピング放送を始める。AIが音声と映像をすべて生成する方式で、放送制作費を抑えると同時に、従来の撮影方式では表現しにくかった商品情報まで視覚的に伝える構想だ。"
+              },
+              {
+                "t": "p",
+                "x": "現代ホームショッピングは15日、データホームショッピングチャンネル「現代ホームショッピング プラスショップ」に100% AI放送システム「AI-REAL」を導入すると明らかにした。初の定期放送は16日午後3時20分に行う「済州ハートゴールドキウイ」の販売放送だ。"
+              },
+              {
+                "t": "p",
+                "x": "AI-REALは、実際のショーホストの出演やカメラ撮影なしに、AIが放送に必要な音声と映像を生成するシステムだ。従来のホームショッピング放送で一部の場面やショーホストをAIに置き換えた例はあったが、放送全体をAIで制作するのは業界初だという。"
+              },
+              {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/LTJRYpnpPQcEoQaFeo8Ixe1iH_zUGaGGD_6wnRWkUE4/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTkzNzY0OTQzLmpwZw==.webp",
-                "cap": "AIはコスト削減ツールとして期待されてきたが、調査対象者の27%は誤ったAI出力によって金銭的損失を被った。"
+                "src": "https://image.zdnet.co.kr/2026/11/15/ec3435b603102586bf7d4d94af724d69.png",
+                "cap": "現代ホームショッピングの100% AI放送画面"
               },
               {
                 "t": "p",
-                "x": "GWIの調査によると、業界のシニア専門家の90%近くが毎日AIを使っているが、80%は不正確または誤解を招くAIの分析結果に頻繁に遭遇すると答えた。「Artificial Confidence: The AI Trust Gap」には、U.K.、U.S.、シンガポールのシニアのインサイト、エージェンシー、マーケティング専門家1,883人の回答が含まれる。"
+                "x": "現代ホームショッピングは、AIを活用して従来の実物撮影では表現しにくかった商品情報も可視化する計画だ。農産物の産地の土壌状態や流通過程、食品の調理例などを、別途の撮影や小道具の制作なしに映像で表現する。"
               },
               {
                 "t": "p",
-                "x": "AIのインサイトを「ほとんどの場合」検証しているのは36%にとどまり、63%は後に古いと気づいたインサイトを誤って使ったことがある。76%はAIが時代遅れの思い込みを強めうると考え、70%近くはAIがターゲット層を正確に反映できない場面を見てきた。それでも81%は、オーディエンスのプロファイル作成やセグメンテーションにAIを使うことに自信を持っている。"
+                "x": "放送制作費の削減効果も見込む。特に放送用サンプルの準備や映像制作などに負担を感じる中小協力会社のコストを減らせるという。現代ホームショッピングによると、最近実施したテスト放送では、協力会社が負担するサンプル準備や挿入映像の制作などの諸費用が従来比で80%以上減った。売上は目標比120%を達成した。"
               },
               {
                 "t": "p",
-                "x": "シニアの意思決定者の半数以上が、後に誤りや誤解を招くものだと判明したAIのインサイトに基づいて重要な経営判断を下したことがある。マーケティングリーダーの82%が少なくとも一つの悪影響を経験しており、最も多いのは社内での手戻り(38%)、意思決定の遅れ(36%)、顧客からの苦情(34%)だった。21%はキャンペーンの成果が落ちた。"
+                "x": "現代ホームショッピングのイム・スジン放送制作担当事業部長は「テスト放送で顧客からは、実際の人が出演する放送に劣らず自然で、栽培環境や調理例などさまざまな情報が購入の決め手になったという好意的な反応があった」と説明した。"
               },
               {
                 "t": "p",
-                "x": "GWIのチーフインサイトオフィサー、Jason Manderは「企業は、新しい種類の技術であれば当然あるべき厳格な枠組みを整えていない」と語った。"
+                "x": "現代ホームショッピングはまず農・畜・水産物などの生鮮食品を中心に、AI放送を月1回以上定期編成する予定だ。その後、加工食品やリビングなど中小協力会社の出店ニーズが高い商品群へ適用範囲を広げる計画だ。"
+              },
+              {
+                "t": "p",
+                "x": "現代ホームショッピングのイム・ヒョンテ チャネル戦略ディビジョン部門長は「中小協力会社と共に成長しながら顧客に差別化されたショッピング体験を提供するため、AI放送生成システムを開発した」とし、「今後もAI技術を実務に積極的に取り入れ、AI転換（AX）のスピードを高める」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI受众洞察\n正在损害营销成效",
-          "body": "近期报告显示，超过80%的领导者曾因AI输出不准确而遭受负面业务后果。",
-          "mini_headline": "AI洞察拖累成效",
+          "headline": "现代家庭购物推出\n无主持人的AI节目",
+          "body": "现代家庭购物将推出无需主持人和摄像机、由AI生成声音与画面的节目。",
+          "mini_headline": "现代家庭购物AI节目",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "现代家庭购物将推出无需购物主持人和摄像机拍摄、完全由人工智能（AI）制作的电视购物节目。AI生成全部声音和画面，旨在降低节目制作成本，同时以视觉方式传达以往拍摄方式难以呈现的商品信息。"
+              },
+              {
+                "t": "p",
+                "x": "现代家庭购物15日表示，将在数据家庭购物频道“现代家庭购物 Plus Shop”引入100% AI节目系统“AI-REAL”。首个常规节目是16日下午3点20分播出的“济州心形金果猕猴桃”销售节目。"
+              },
+              {
+                "t": "p",
+                "x": "AI-REAL是一套无需真人主持人出镜或摄像机拍摄、由AI生成节目所需声音和画面的系统。据介绍，此前电视购物节目中虽有用AI替代部分场景或主持人的案例，但整档节目全部由AI制作尚属业界首次。"
+              },
+              {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/LTJRYpnpPQcEoQaFeo8Ixe1iH_zUGaGGD_6wnRWkUE4/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTkzNzY0OTQzLmpwZw==.webp",
-                "cap": "尽管AI一直被誉为节省成本的工具，但27%的受访者曾因AI输出错误而蒙受经济损失。"
+                "src": "https://image.zdnet.co.kr/2026/11/15/ec3435b603102586bf7d4d94af724d69.png",
+                "cap": "现代家庭购物100% AI节目画面"
               },
               {
                 "t": "p",
-                "x": "GWI的一项调查显示，近90%的行业资深人士每天使用AI，但80%表示经常遇到不准确或具有误导性的AI分析结果。报告《Artificial Confidence: The AI Trust Gap》收集了来自U.K.、U.S.和新加坡的1,883名资深洞察、代理商及营销专业人士的回复。"
+                "x": "现代家庭购物计划利用AI，将以往实物拍摄难以表现的商品信息也加以可视化，例如农产品产地的土壤状况、流通过程以及食品烹饪示例等，无需另行拍摄或制作道具即可用视频呈现。"
               },
               {
                 "t": "p",
-                "x": "只有36%的人“大多数时候”会核实AI洞察，63%的人曾不小心使用后来才发现已过时的洞察。76%认为AI可能强化过时的假设，近70%曾见过AI未能准确反映目标受众——然而81%对使用AI进行受众画像和细分感到有信心。"
+                "x": "公司还期待降低节目制作成本，尤其能减轻在准备节目样品和制作视频等方面负担较重的中小合作企业的成本。据现代家庭购物介绍，在近期的测试节目中，合作企业承担的样品准备、插播视频制作等各项费用比以往减少了80%以上，销售额达到目标的120%。"
               },
               {
                 "t": "p",
-                "x": "超过一半的高级决策者曾依据后来被证明错误或具误导性的AI洞察做出重大业务决策。82%的营销领导者至少经历过一种不利后果，最常见的是内部返工（38%）、决策延迟（36%）和客户投诉（34%）；21%遭遇了营销活动效果下滑。"
+                "x": "现代家庭购物节目制作负责事业部长Lim Su-jin表示：“在测试节目中，顾客反馈称节目与真人出镜的节目一样自然，种植环境和烹饪示例等多样信息对购买决定有帮助，反应积极。”"
               },
               {
                 "t": "p",
-                "x": "GWI首席洞察官Jason Mander表示：“企业还没有建立起面对一种新型技术时本应具备的那种严格框架。”"
+                "x": "现代家庭购物计划首先以农畜水产品等生鲜食品为中心，每月至少定期编排1次AI节目，之后再将适用范围扩大到加工食品、家居等中小合作企业入驻需求较高的品类。"
+              },
+              {
+                "t": "p",
+                "x": "现代家庭购物渠道战略部门负责人Lim Hyun-tae表示：“为了与中小合作企业共同成长，并为顾客提供差异化的购物体验，我们开发了AI节目生成系统。”他还表示：“今后将继续积极把AI技术应用到实际业务中，加快AI转型（AX）的步伐。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los análisis de audiencia\ncon AI perjudican resultados",
-          "body": "Un informe reciente halla que más del 80% de los líderes sufrió daños en su negocio por salidas inexactas de AI.",
-          "mini_headline": "Los insights de AI dañan resultados",
+          "headline": "Hyundai Home Shopping emite\nprogramas de AI sin presentador",
+          "body": "Hyundai Home Shopping estrenará emisiones con voz e imagen generadas por AI, sin presentador ni cámaras.",
+          "mini_headline": "Programas de AI de Hyundai Home Shopping",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "Hyundai Home Shopping lanzará programas de televenta producidos solo con inteligencia artificial (AI), sin presentadores ni grabación con cámaras. La AI genera tanto la voz como la imagen, con el objetivo de reducir los costes de producción y, al mismo tiempo, transmitir de forma visual información de producto que era difícil de mostrar con la grabación convencional."
+              },
+              {
+                "t": "p",
+                "x": "Hyundai Home Shopping anunció el día 15 que incorporará 'AI-REAL', un sistema de emisión 100% AI, en su canal de televenta de datos 'Hyundai Home Shopping Plus Shop'. La primera emisión regular será un programa de venta de 'Jeju Heart Gold Kiwi' el día 16 a las 3:20 de la tarde."
+              },
+              {
+                "t": "p",
+                "x": "AI-REAL es un sistema en el que la AI genera la voz y la imagen que necesita una emisión, sin que aparezca un presentador real ni se grabe con cámaras. Según la empresa, en la televenta ya había casos en los que algunas escenas o presentadores se sustituían por AI, pero producir una emisión completa con AI es una primicia en el sector."
+              },
+              {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/LTJRYpnpPQcEoQaFeo8Ixe1iH_zUGaGGD_6wnRWkUE4/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTkzNzY0OTQzLmpwZw==.webp",
-                "cap": "Aunque la AI se ha presentado como una herramienta para ahorrar costos, el 27% de los encuestados sufrió pérdidas económicas por resultados incorrectos de la AI."
+                "src": "https://image.zdnet.co.kr/2026/11/15/ec3435b603102586bf7d4d94af724d69.png",
+                "cap": "Pantalla de una emisión 100% AI de Hyundai Home Shopping"
               },
               {
                 "t": "p",
-                "x": "Casi el 90% de los profesionales sénior del sector usa AI a diario, según una encuesta de GWI, pero el 80% afirma que encuentra con frecuencia hallazgos de AI inexactos o engañosos. “Artificial Confidence: The AI Trust Gap” incluye respuestas de 1,883 profesionales sénior de insights, agencias y marketing en U.K., U.S. y Singapur."
+                "x": "Hyundai Home Shopping planea usar la AI para visualizar también información de producto difícil de expresar con la grabación física convencional, como el estado del suelo en la zona de origen de los productos agrícolas, el proceso de distribución o ejemplos de preparación de alimentos, que se recrearán en vídeo sin grabaciones aparte ni fabricación de atrezo."
               },
               {
                 "t": "p",
-                "x": "Solo el 36% verifica los insights de AI “la mayoría de las veces”, y el 63% ha usado por error insights que después descubrió que estaban desactualizados. El 76% cree que la AI puede reforzar supuestos obsoletos, y casi el 70% ha visto que no refleja con precisión a su público objetivo; aun así, el 81% se siente seguro al usar AI para perfiles de audiencia y segmentación."
+                "x": "También espera reducir los costes de producción, en especial para los socios pequeños y medianos a los que les pesa preparar muestras y producir vídeos para las emisiones. Según Hyundai Home Shopping, en las emisiones de prueba recientes los costes asumidos por los socios, como la preparación de muestras y la producción de vídeos insertados, bajaron más de un 80% respecto a lo habitual. Las ventas alcanzaron el 120% del objetivo."
               },
               {
                 "t": "p",
-                "x": "Más de la mitad de los responsables de decisiones sénior ha tomado una decisión de negocio importante basada en insights de AI que resultaron incorrectos o engañosos. El 82% de los líderes de marketing ha sufrido al menos una consecuencia adversa, sobre todo retrabajo interno (38%), retrasos en la toma de decisiones (36%) y quejas de clientes (34%); el 21% vio un peor rendimiento de sus campañas."
+                "x": "Lim Su-jin, responsable de la unidad de producción de emisiones de Hyundai Home Shopping, explicó: \"En las emisiones de prueba, los clientes reaccionaron de forma positiva: dijeron que resultaban tan naturales como las emisiones con personas reales y que la variada información, como el entorno de cultivo o los ejemplos de preparación, les ayudó a decidir la compra\"."
               },
               {
                 "t": "p",
-                "x": "“Las empresas no han implementado el tipo de marcos rigurosos que cabría esperar ante un nuevo tipo de tecnología”, dijo Jason Mander, director de insights de GWI."
+                "x": "Hyundai Home Shopping programará primero emisiones de AI de forma regular, al menos 1 vez al mes, centradas en alimentos frescos como productos agrícolas, ganaderos y pesqueros. Después ampliará su aplicación a categorías con alta demanda de socios pequeños y medianos, como alimentos procesados y artículos para el hogar."
+              },
+              {
+                "t": "p",
+                "x": "Lim Hyun-tae, responsable de la división de estrategia de canales de Hyundai Home Shopping, afirmó: \"Desarrollamos el sistema de generación de emisiones con AI para crecer junto a los socios pequeños y medianos y ofrecer a los clientes una experiencia de compra diferenciada\", y añadió: \"Seguiremos aplicando activamente la tecnología de AI en nuestro trabajo para acelerar nuestra transformación AI (AX)\"."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "AI 오디언스 인사이트\n성과를 해치고 있다",
-          "body": "보고서에 따르면 리더의 80% 이상이 부정확한 AI 결과물로 사업상 손해를 겪었다.",
-          "mini_headline": "AI 인사이트, 성과 저해",
+        "en": {
+          "headline": "Hyundai Home Shopping airs\nAI shows with no show host",
+          "body": "Hyundai Home Shopping will air broadcasts whose voice and video are generated by AI, with no show host or camera.",
+          "mini_headline": "Hyundai Home Shopping AI broadcasts",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "Hyundai Home Shopping is launching home shopping broadcasts produced entirely by artificial intelligence (AI), with no show host and no camera filming. AI generates both the voice and the video, and the plan is to cut production costs while also conveying visually product information that was hard to show with conventional filming."
+              },
+              {
+                "t": "p",
+                "x": "Hyundai Home Shopping said on the 15th that it is introducing 'AI-REAL,' a 100% AI broadcast system, on its data home shopping channel 'Hyundai Home Shopping Plus Shop.' The first regular broadcast is a sales show for 'Jeju Heart Gold Kiwi' at 3:20 p.m. on the 16th."
+              },
+              {
+                "t": "p",
+                "x": "AI-REAL is a system in which AI generates the voice and video a broadcast needs, without a real show host appearing or any camera filming. The company said that while home shopping broadcasts have previously replaced some scenes or show hosts with AI, producing an entire broadcast with AI is an industry first."
+              },
+              {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/LTJRYpnpPQcEoQaFeo8Ixe1iH_zUGaGGD_6wnRWkUE4/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTkzNzY0OTQzLmpwZw==.webp",
-                "cap": "AI는 비용 절감 도구로 주목받아 왔지만, 응답자의 27%는 잘못된 AI 결과물 때문에 금전적 손실을 입었다."
+                "src": "https://image.zdnet.co.kr/2026/11/15/ec3435b603102586bf7d4d94af724d69.png",
+                "cap": "Hyundai Home Shopping's 100% AI broadcast screen"
               },
               {
                 "t": "p",
-                "x": "GWI 조사에 따르면 업계 고위 전문가의 90% 가까이가 매일 AI를 쓰지만, 80%는 부정확하거나 오해를 부르는 AI 분석 결과를 자주 접한다고 답했다. 보고서 “Artificial Confidence: The AI Trust Gap”에는 U.K., U.S., 싱가포르의 고위 인사이트·에이전시·마케팅 전문가 1,883명의 응답이 담겼다."
+                "x": "Hyundai Home Shopping plans to use AI to visualize product information that was hard to express with conventional live-action filming. Details such as the soil conditions where produce is grown, the distribution process and cooking examples for food will be rendered as video without separate filming or props."
               },
               {
                 "t": "p",
-                "x": "AI 인사이트를 “대부분의 경우” 검증하는 비율은 36%에 그쳤고, 63%는 나중에 보니 시효가 지난 인사이트를 실수로 쓴 적이 있었다. 76%는 AI가 낡은 가정을 강화할 수 있다고 보며, 70% 가까이는 AI가 목표 고객을 정확히 반영하지 못하는 경우를 봤다. 그런데도 81%는 고객 프로필 작성과 세분화에 AI를 쓰는 데 자신감을 느낀다."
+                "x": "The company also expects lower production costs. In particular, it said the system can reduce costs for small and mid-sized partner companies that find preparing broadcast samples and producing video burdensome. According to Hyundai Home Shopping, in recent test broadcasts the overall costs borne by partners, including sample preparation and inserted video production, fell by more than 80% compared with before. Sales reached 120% of target."
               },
               {
                 "t": "p",
-                "x": "고위 의사결정자의 절반 이상은 나중에 틀렸거나 오해의 소지가 있던 것으로 드러난 AI 인사이트를 근거로 중요한 사업 결정을 내린 적이 있다. 마케팅 리더의 82%는 적어도 한 가지 부정적 결과를 겪었는데, 가장 흔한 것은 내부 재작업(38%), 의사결정 지연(36%), 고객 불만(34%)이었다. 21%는 캠페인 성과가 약해졌다."
+                "x": "Lim Su-jin, head of the broadcast production business unit at Hyundai Home Shopping, said, \"In the test broadcasts, customers responded positively, saying the shows felt as natural as broadcasts featuring real people and that a range of information, such as growing conditions and cooking examples, helped their purchase decisions.\""
               },
               {
                 "t": "p",
-                "x": "GWI의 최고인사이트책임자 Jason Mander는 “기업들은 새로운 유형의 기술이라면 마땅히 기대할 만한 엄격한 체계를 아직 갖추지 않았다”고 말했다."
+                "x": "Hyundai Home Shopping plans to schedule AI broadcasts regularly, at least 1 per month, starting with fresh food such as agricultural, livestock and fishery products. It then plans to expand to product categories where demand from small and mid-sized partners is high, such as processed food and living goods."
+              },
+              {
+                "t": "p",
+                "x": "Lim Hyun-tae, head of the channel strategy division at Hyundai Home Shopping, said, \"We developed the AI broadcast generation system to grow together with small and mid-sized partners and give customers a differentiated shopping experience,\" adding, \"We will keep actively applying AI technology to our work to speed up our AI transformation (AX).\""
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIのオーディエンス分析が\n成果を損ねている",
-          "body": "最近の報告書によると、リーダーの80%超が不正確なAI出力で事業上の悪影響を受けた。",
-          "mini_headline": "AI分析が成果を損なう",
+          "headline": "現代ホームショッピング、\nショーホストなしAI放送",
+          "body": "現代ホームショッピングが、ショーホストもカメラも使わずAIが音声と映像を作る放送を始める。",
+          "mini_headline": "現代ホームショッピングのAI放送",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "現代ホームショッピングが、ショーホストもカメラ撮影も使わず人工知能（AI）だけで制作したホームショッピング放送を始める。AIが音声と映像をすべて生成する方式で、放送制作費を抑えると同時に、従来の撮影方式では表現しにくかった商品情報まで視覚的に伝える構想だ。"
+              },
+              {
+                "t": "p",
+                "x": "現代ホームショッピングは15日、データホームショッピングチャンネル「現代ホームショッピング プラスショップ」に100% AI放送システム「AI-REAL」を導入すると明らかにした。初の定期放送は16日午後3時20分に行う「済州ハートゴールドキウイ」の販売放送だ。"
+              },
+              {
+                "t": "p",
+                "x": "AI-REALは、実際のショーホストの出演やカメラ撮影なしに、AIが放送に必要な音声と映像を生成するシステムだ。従来のホームショッピング放送で一部の場面やショーホストをAIに置き換えた例はあったが、放送全体をAIで制作するのは業界初だという。"
+              },
+              {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/LTJRYpnpPQcEoQaFeo8Ixe1iH_zUGaGGD_6wnRWkUE4/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTkzNzY0OTQzLmpwZw==.webp",
-                "cap": "AIはコスト削減ツールとして期待されてきたが、調査対象者の27%は誤ったAI出力によって金銭的損失を被った。"
+                "src": "https://image.zdnet.co.kr/2026/11/15/ec3435b603102586bf7d4d94af724d69.png",
+                "cap": "現代ホームショッピングの100% AI放送画面"
               },
               {
                 "t": "p",
-                "x": "GWIの調査によると、業界のシニア専門家の90%近くが毎日AIを使っているが、80%は不正確または誤解を招くAIの分析結果に頻繁に遭遇すると答えた。「Artificial Confidence: The AI Trust Gap」には、U.K.、U.S.、シンガポールのシニアのインサイト、エージェンシー、マーケティング専門家1,883人の回答が含まれる。"
+                "x": "現代ホームショッピングは、AIを活用して従来の実物撮影では表現しにくかった商品情報も可視化する計画だ。農産物の産地の土壌状態や流通過程、食品の調理例などを、別途の撮影や小道具の制作なしに映像で表現する。"
               },
               {
                 "t": "p",
-                "x": "AIのインサイトを「ほとんどの場合」検証しているのは36%にとどまり、63%は後に古いと気づいたインサイトを誤って使ったことがある。76%はAIが時代遅れの思い込みを強めうると考え、70%近くはAIがターゲット層を正確に反映できない場面を見てきた。それでも81%は、オーディエンスのプロファイル作成やセグメンテーションにAIを使うことに自信を持っている。"
+                "x": "放送制作費の削減効果も見込む。特に放送用サンプルの準備や映像制作などに負担を感じる中小協力会社のコストを減らせるという。現代ホームショッピングによると、最近実施したテスト放送では、協力会社が負担するサンプル準備や挿入映像の制作などの諸費用が従来比で80%以上減った。売上は目標比120%を達成した。"
               },
               {
                 "t": "p",
-                "x": "シニアの意思決定者の半数以上が、後に誤りや誤解を招くものだと判明したAIのインサイトに基づいて重要な経営判断を下したことがある。マーケティングリーダーの82%が少なくとも一つの悪影響を経験しており、最も多いのは社内での手戻り(38%)、意思決定の遅れ(36%)、顧客からの苦情(34%)だった。21%はキャンペーンの成果が落ちた。"
+                "x": "現代ホームショッピングのイム・スジン放送制作担当事業部長は「テスト放送で顧客からは、実際の人が出演する放送に劣らず自然で、栽培環境や調理例などさまざまな情報が購入の決め手になったという好意的な反応があった」と説明した。"
               },
               {
                 "t": "p",
-                "x": "GWIのチーフインサイトオフィサー、Jason Manderは「企業は、新しい種類の技術であれば当然あるべき厳格な枠組みを整えていない」と語った。"
+                "x": "現代ホームショッピングはまず農・畜・水産物などの生鮮食品を中心に、AI放送を月1回以上定期編成する予定だ。その後、加工食品やリビングなど中小協力会社の出店ニーズが高い商品群へ適用範囲を広げる計画だ。"
+              },
+              {
+                "t": "p",
+                "x": "現代ホームショッピングのイム・ヒョンテ チャネル戦略ディビジョン部門長は「中小協力会社と共に成長しながら顧客に差別化されたショッピング体験を提供するため、AI放送生成システムを開発した」とし、「今後もAI技術を実務に積極的に取り入れ、AI転換（AX）のスピードを高める」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI受众洞察\n正在损害营销成效",
-          "body": "近期报告显示，超过80%的领导者曾因AI输出不准确而遭受负面业务后果。",
-          "mini_headline": "AI洞察拖累成效",
+          "headline": "现代家庭购物推出\n无主持人的AI节目",
+          "body": "现代家庭购物将推出无需主持人和摄像机、由AI生成声音与画面的节目。",
+          "mini_headline": "现代家庭购物AI节目",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "现代家庭购物将推出无需购物主持人和摄像机拍摄、完全由人工智能（AI）制作的电视购物节目。AI生成全部声音和画面，旨在降低节目制作成本，同时以视觉方式传达以往拍摄方式难以呈现的商品信息。"
+              },
+              {
+                "t": "p",
+                "x": "现代家庭购物15日表示，将在数据家庭购物频道“现代家庭购物 Plus Shop”引入100% AI节目系统“AI-REAL”。首个常规节目是16日下午3点20分播出的“济州心形金果猕猴桃”销售节目。"
+              },
+              {
+                "t": "p",
+                "x": "AI-REAL是一套无需真人主持人出镜或摄像机拍摄、由AI生成节目所需声音和画面的系统。据介绍，此前电视购物节目中虽有用AI替代部分场景或主持人的案例，但整档节目全部由AI制作尚属业界首次。"
+              },
+              {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/LTJRYpnpPQcEoQaFeo8Ixe1iH_zUGaGGD_6wnRWkUE4/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTkzNzY0OTQzLmpwZw==.webp",
-                "cap": "尽管AI一直被誉为节省成本的工具，但27%的受访者曾因AI输出错误而蒙受经济损失。"
+                "src": "https://image.zdnet.co.kr/2026/11/15/ec3435b603102586bf7d4d94af724d69.png",
+                "cap": "现代家庭购物100% AI节目画面"
               },
               {
                 "t": "p",
-                "x": "GWI的一项调查显示，近90%的行业资深人士每天使用AI，但80%表示经常遇到不准确或具有误导性的AI分析结果。报告《Artificial Confidence: The AI Trust Gap》收集了来自U.K.、U.S.和新加坡的1,883名资深洞察、代理商及营销专业人士的回复。"
+                "x": "现代家庭购物计划利用AI，将以往实物拍摄难以表现的商品信息也加以可视化，例如农产品产地的土壤状况、流通过程以及食品烹饪示例等，无需另行拍摄或制作道具即可用视频呈现。"
               },
               {
                 "t": "p",
-                "x": "只有36%的人“大多数时候”会核实AI洞察，63%的人曾不小心使用后来才发现已过时的洞察。76%认为AI可能强化过时的假设，近70%曾见过AI未能准确反映目标受众——然而81%对使用AI进行受众画像和细分感到有信心。"
+                "x": "公司还期待降低节目制作成本，尤其能减轻在准备节目样品和制作视频等方面负担较重的中小合作企业的成本。据现代家庭购物介绍，在近期的测试节目中，合作企业承担的样品准备、插播视频制作等各项费用比以往减少了80%以上，销售额达到目标的120%。"
               },
               {
                 "t": "p",
-                "x": "超过一半的高级决策者曾依据后来被证明错误或具误导性的AI洞察做出重大业务决策。82%的营销领导者至少经历过一种不利后果，最常见的是内部返工（38%）、决策延迟（36%）和客户投诉（34%）；21%遭遇了营销活动效果下滑。"
+                "x": "现代家庭购物节目制作负责事业部长Lim Su-jin表示：“在测试节目中，顾客反馈称节目与真人出镜的节目一样自然，种植环境和烹饪示例等多样信息对购买决定有帮助，反应积极。”"
               },
               {
                 "t": "p",
-                "x": "GWI首席洞察官Jason Mander表示：“企业还没有建立起面对一种新型技术时本应具备的那种严格框架。”"
+                "x": "现代家庭购物计划首先以农畜水产品等生鲜食品为中心，每月至少定期编排1次AI节目，之后再将适用范围扩大到加工食品、家居等中小合作企业入驻需求较高的品类。"
+              },
+              {
+                "t": "p",
+                "x": "现代家庭购物渠道战略部门负责人Lim Hyun-tae表示：“为了与中小合作企业共同成长，并为顾客提供差异化的购物体验，我们开发了AI节目生成系统。”他还表示：“今后将继续积极把AI技术应用到实际业务中，加快AI转型（AX）的步伐。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los análisis de audiencia\ncon AI perjudican resultados",
-          "body": "Un informe reciente halla que más del 80% de los líderes sufrió daños en su negocio por salidas inexactas de AI.",
-          "mini_headline": "Los insights de AI dañan resultados",
+          "headline": "Hyundai Home Shopping emite\nprogramas de AI sin presentador",
+          "body": "Hyundai Home Shopping estrenará emisiones con voz e imagen generadas por AI, sin presentador ni cámaras.",
+          "mini_headline": "Programas de AI de Hyundai Home Shopping",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "Hyundai Home Shopping lanzará programas de televenta producidos solo con inteligencia artificial (AI), sin presentadores ni grabación con cámaras. La AI genera tanto la voz como la imagen, con el objetivo de reducir los costes de producción y, al mismo tiempo, transmitir de forma visual información de producto que era difícil de mostrar con la grabación convencional."
+              },
+              {
+                "t": "p",
+                "x": "Hyundai Home Shopping anunció el día 15 que incorporará 'AI-REAL', un sistema de emisión 100% AI, en su canal de televenta de datos 'Hyundai Home Shopping Plus Shop'. La primera emisión regular será un programa de venta de 'Jeju Heart Gold Kiwi' el día 16 a las 3:20 de la tarde."
+              },
+              {
+                "t": "p",
+                "x": "AI-REAL es un sistema en el que la AI genera la voz y la imagen que necesita una emisión, sin que aparezca un presentador real ni se grabe con cámaras. Según la empresa, en la televenta ya había casos en los que algunas escenas o presentadores se sustituían por AI, pero producir una emisión completa con AI es una primicia en el sector."
+              },
+              {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/LTJRYpnpPQcEoQaFeo8Ixe1iH_zUGaGGD_6wnRWkUE4/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTkzNzY0OTQzLmpwZw==.webp",
-                "cap": "Aunque la AI se ha presentado como una herramienta para ahorrar costos, el 27% de los encuestados sufrió pérdidas económicas por resultados incorrectos de la AI."
+                "src": "https://image.zdnet.co.kr/2026/11/15/ec3435b603102586bf7d4d94af724d69.png",
+                "cap": "Pantalla de una emisión 100% AI de Hyundai Home Shopping"
               },
               {
                 "t": "p",
-                "x": "Casi el 90% de los profesionales sénior del sector usa AI a diario, según una encuesta de GWI, pero el 80% afirma que encuentra con frecuencia hallazgos de AI inexactos o engañosos. “Artificial Confidence: The AI Trust Gap” incluye respuestas de 1,883 profesionales sénior de insights, agencias y marketing en U.K., U.S. y Singapur."
+                "x": "Hyundai Home Shopping planea usar la AI para visualizar también información de producto difícil de expresar con la grabación física convencional, como el estado del suelo en la zona de origen de los productos agrícolas, el proceso de distribución o ejemplos de preparación de alimentos, que se recrearán en vídeo sin grabaciones aparte ni fabricación de atrezo."
               },
               {
                 "t": "p",
-                "x": "Solo el 36% verifica los insights de AI “la mayoría de las veces”, y el 63% ha usado por error insights que después descubrió que estaban desactualizados. El 76% cree que la AI puede reforzar supuestos obsoletos, y casi el 70% ha visto que no refleja con precisión a su público objetivo; aun así, el 81% se siente seguro al usar AI para perfiles de audiencia y segmentación."
+                "x": "También espera reducir los costes de producción, en especial para los socios pequeños y medianos a los que les pesa preparar muestras y producir vídeos para las emisiones. Según Hyundai Home Shopping, en las emisiones de prueba recientes los costes asumidos por los socios, como la preparación de muestras y la producción de vídeos insertados, bajaron más de un 80% respecto a lo habitual. Las ventas alcanzaron el 120% del objetivo."
               },
               {
                 "t": "p",
-                "x": "Más de la mitad de los responsables de decisiones sénior ha tomado una decisión de negocio importante basada en insights de AI que resultaron incorrectos o engañosos. El 82% de los líderes de marketing ha sufrido al menos una consecuencia adversa, sobre todo retrabajo interno (38%), retrasos en la toma de decisiones (36%) y quejas de clientes (34%); el 21% vio un peor rendimiento de sus campañas."
+                "x": "Lim Su-jin, responsable de la unidad de producción de emisiones de Hyundai Home Shopping, explicó: \"En las emisiones de prueba, los clientes reaccionaron de forma positiva: dijeron que resultaban tan naturales como las emisiones con personas reales y que la variada información, como el entorno de cultivo o los ejemplos de preparación, les ayudó a decidir la compra\"."
               },
               {
                 "t": "p",
-                "x": "“Las empresas no han implementado el tipo de marcos rigurosos que cabría esperar ante un nuevo tipo de tecnología”, dijo Jason Mander, director de insights de GWI."
+                "x": "Hyundai Home Shopping programará primero emisiones de AI de forma regular, al menos 1 vez al mes, centradas en alimentos frescos como productos agrícolas, ganaderos y pesqueros. Después ampliará su aplicación a categorías con alta demanda de socios pequeños y medianos, como alimentos procesados y artículos para el hogar."
+              },
+              {
+                "t": "p",
+                "x": "Lim Hyun-tae, responsable de la división de estrategia de canales de Hyundai Home Shopping, afirmó: \"Desarrollamos el sistema de generación de emisiones con AI para crecer junto a los socios pequeños y medianos y ofrecer a los clientes una experiencia de compra diferenciada\", y añadió: \"Seguiremos aplicando activamente la tecnología de AI en nuestro trabajo para acelerar nuestra transformación AI (AX)\"."
               }
             ]
           }
@@ -919,15 +1119,15 @@
       }
     },
     {
-      "id": "salesforce-ai-first-holiday-survey",
+      "id": "ebay-agent-ban-useragreement",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "연말 쇼핑객, 에이전트에\n조사는 맡기고 결제는 직접",
-      "body": "쇼핑객 20% 가까이가 AI부터 찾지만 Buy Now 클릭은 대부분 직접 한다.",
-      "mini_headline": "조사는 에이전트, 결제는 직접",
+      "headline": "eBay, 허가 없는\nAI 쇼핑 에이전트 차단",
+      "body": "eBay는 buy-for-me AI·LLM-driven 봇엔 사전 허가를 요구한다.",
+      "mini_headline": "eBay, AI 쇼핑객에 문턱",
       "tool": "Marketing",
-      "source": "Salesforce",
-      "url": "https://www.salesforce.com/news/stories/ai-first-holiday/",
+      "source": "PPC Land",
+      "url": "https://ppc.land/ebay-bans-the-robot-shopper-unless-ebay-sends-the-invitation/",
       "accent": "#7928ca",
       "motif": "frame",
       "full": {
@@ -935,263 +1135,149 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/824_1126_T08_The-AI-First-Holiday-Shoppers-Let-Agents-Do-the-Legwork-Not-the-Paying_a_v1_110926.jpg"
+            "src": "https://ppc.land/content/images/2026/11/ebay-user-agreement-bans-buy-for-me-ai-agents-without-permission-orange-velvet-rope-teal-errand-box-at-door.jpg"
           },
           {
             "t": "p",
-            "x": "Salesforce 조사 결과 연말 쇼핑객은 조사와 조언을 AI 에이전트에 맡긴다. 20% 가까이는 매장에 가기 전 가장 먼저 AI를 찾는다고 답했지만 대부분은 AI에게 Buy Now 클릭까지 맡길 생각이 없다."
+            "x": "eBay 이용약관(User Agreement)은 회사의 \"사전 명시적 허가\" 없이 구매자와 판매자가 마켓플레이스에서 \"buy-for-me 에이전트, LLM-driven 봇, 또는 사람의 검토 없이 주문을 시도하는 모든 end-to-end 흐름\"을 쓰지 못하게 막는다. 2026년 2월 20일부터 시행된 이 조항은 2026년 6월 28일 발효 버전에도 문구 그대로 남았다."
           },
           {
             "t": "p",
-            "x": "Salesforce 리서치는 AI가 Cyber Week 지출 $75.8B 규모를 이끌 것으로 내다봤다. 2025년보다 13% 많은 규모다. AI 도구를 거쳐 이커머스 사이트로 들어온 유입은 전년보다 104% 늘었다. U.S., U.K., 캐나다, 호주 쇼핑객 2,500명 이상을 조사한 결과 74%가 AI 추천을 신뢰했다. AI 쇼핑객의 30%는 이런 도구 덕분에 몰랐던 브랜드를 자주 알게 된다고 했고, 11%는 AI 어시스턴트가 말리면 구매를 건너뛰겠다고 답했다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/image_b49a8d.jpeg?w=1024",
-            "cap": "개인 에이전트에 맡기는 주요 쇼핑 업무"
+            "x": "The Verge는 11월 10일 Meta의 Muse 에이전트가 eBay 상품 목록을 가져오지 못하게 막혔다고 보도했다. 11월 12일에는 접근이 \"될 때도 있고 안 될 때도 있는 것 같다\"고 전했다. eBay 대변인 Sybille St. Arromand는 전면 금지가 아니라며 eBay가 \"정책에 따라 AI 검색, 탐색, 일부 에이전트 지원 내비게이션은 허용하되 승인되지 않은 자동 스크래핑은 차단한다\"고 설명했다."
           },
           {
             "t": "p",
-            "x": "쇼핑객은 개인 에이전트를 구매자가 아닌 조언자로 대한다. 결제까지 맡기기엔 아직 이르다는 반응이다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/image1.jpg?w=1024",
-            "cap": "개인 에이전트로 구매할 때의 주요 걸림돌"
-          },
-          {
-            "t": "p",
-            "x": "자체 쇼핑 에이전트를 둔 소매업체는 주문 규모가 더 크다. 다만 쇼핑객은 AI 어시스턴트가 2-3번 실수하면 더는 쓰지 않는다. Salesforce에서 Agentic Commerce Shopper Insights를 이끄는 Caila Schwartz는 “AI가 찾을 수 있고 사람이 신뢰할 수 있는 브랜드가 되라”고 말했다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/image_0d40fe.jpeg?w=1024",
-            "cap": "AI 어시스턴트가 2-3번 실수하면 쇼핑객은 더는 쓰지 않는다."
+            "x": "Amazon은 외부 에이전트를 전면 차단한다. Target은 경우에 따라 에이전트의 탐색을 허용하고 Walmart와 Shopify는 진입 경로를 공개했다. 어떤 에이전트가 허가를 받았는지, 개발자가 허가를 어떻게 요청하면 되는지 eBay는 밝히지 않았다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Holiday shoppers let agents\nresearch, not pay",
-          "body": "Almost 20% of holiday shoppers now say AI is their first stop, but most are not ready to let an agent click Buy Now.",
-          "mini_headline": "Agents research,\nshoppers pay",
+          "headline": "eBay bars AI shopping agents\nwithout its permission",
+          "body": "eBay's user agreement now requires prior express permission for buy-for-me AI agents and LLM-driven bots.",
+          "mini_headline": "eBay gates AI shoppers",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/824_1126_T08_The-AI-First-Holiday-Shoppers-Let-Agents-Do-the-Legwork-Not-the-Paying_a_v1_110926.jpg"
+                "src": "https://ppc.land/content/images/2026/11/ebay-user-agreement-bans-buy-for-me-ai-agents-without-permission-orange-velvet-rope-teal-errand-box-at-door.jpg"
               },
               {
                 "t": "p",
-                "x": "A Salesforce survey shows that holiday shoppers are using AI agents for research and advice — almost 20% of shoppers now say that AI is their first stop on the way to the store — but most aren’t ready to let AI click Buy Now."
+                "x": "eBay's User Agreement prohibits buyers and sellers from using \"buy-for-me agents, LLM-driven bots, or any end-to-end flow that attempts to place orders without human review\" on the marketplace unless the company grants \"prior express permission.\" The clause has been in force since February 20, 2026, and carried over word for word into the version effective June 28, 2026."
               },
               {
                 "t": "p",
-                "x": "Salesforce research projects AI will drive $75.8 billion in Cyber Week spending, up 13% from 2025, and traffic to ecommerce sites from AI tools is up 104% year over year. In the survey of more than 2,500 shoppers in the U.S., the U.K., Canada, and Australia, 74% trust AI’s recommendations, 30% of AI shoppers say these tools frequently introduce them to brands they didn’t know, and 11% would skip a purchase if an AI assistant advised against it."
-              },
-              {
-                "t": "img",
-                "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/image_b49a8d.jpeg?w=1024",
-                "cap": "Top shopping tasks for personal agents"
+                "x": "The Verge reported on November 10 that Meta's Muse agent had been blocked from pulling eBay listings; by November 12 its access \"seems to be somewhat hit or miss.\" eBay spokesperson Sybille St. Arromand said the restrictions were not a blanket ban and that eBay permits \"AI search, discovery and certain agent-assisted navigation in accordance with our policies, while blocking unauthorized automated scraping.\""
               },
               {
                 "t": "p",
-                "x": "Shoppers treat personal agents like advisors rather than buyers, and are not quite ready to let agents check out for them."
-              },
-              {
-                "t": "img",
-                "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/image1.jpg?w=1024",
-                "cap": "Top barriers to using a personal agent to make purchases"
-              },
-              {
-                "t": "p",
-                "x": "Retailers with their own shopper agents see bigger orders, but shoppers will abandon AI assistants after 2-3 mistakes. “Be the brand that AI can find and humans can trust,” said Caila Schwartz, Head of Agentic Commerce Shopper Insights at Salesforce."
-              },
-              {
-                "t": "img",
-                "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/image_0d40fe.jpeg?w=1024",
-                "cap": "Shoppers will abandon AI assistants after 2-3 mistakes."
+                "x": "Amazon blocks external agents entirely, Target lets agents browse in some instances, while Walmart and Shopify have published routes in. eBay has not said which agents hold permission or how a developer would request it."
               }
             ]
           }
         },
         "ko": {
-          "headline": "연말 쇼핑객, 에이전트에\n조사는 맡기고 결제는 직접",
-          "body": "쇼핑객 20% 가까이가 AI부터 찾지만 Buy Now 클릭은 대부분 직접 한다.",
-          "mini_headline": "조사는 에이전트, 결제는 직접",
+          "headline": "eBay, 허가 없는\nAI 쇼핑 에이전트 차단",
+          "body": "eBay는 buy-for-me AI·LLM-driven 봇엔 사전 허가를 요구한다.",
+          "mini_headline": "eBay, AI 쇼핑객에 문턱",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/824_1126_T08_The-AI-First-Holiday-Shoppers-Let-Agents-Do-the-Legwork-Not-the-Paying_a_v1_110926.jpg"
+                "src": "https://ppc.land/content/images/2026/11/ebay-user-agreement-bans-buy-for-me-ai-agents-without-permission-orange-velvet-rope-teal-errand-box-at-door.jpg"
               },
               {
                 "t": "p",
-                "x": "Salesforce 조사 결과 연말 쇼핑객은 조사와 조언을 AI 에이전트에 맡긴다. 20% 가까이는 매장에 가기 전 가장 먼저 AI를 찾는다고 답했지만 대부분은 AI에게 Buy Now 클릭까지 맡길 생각이 없다."
+                "x": "eBay 이용약관(User Agreement)은 회사의 \"사전 명시적 허가\" 없이 구매자와 판매자가 마켓플레이스에서 \"buy-for-me 에이전트, LLM-driven 봇, 또는 사람의 검토 없이 주문을 시도하는 모든 end-to-end 흐름\"을 쓰지 못하게 막는다. 2026년 2월 20일부터 시행된 이 조항은 2026년 6월 28일 발효 버전에도 문구 그대로 남았다."
               },
               {
                 "t": "p",
-                "x": "Salesforce 리서치는 AI가 Cyber Week 지출 $75.8B 규모를 이끌 것으로 내다봤다. 2025년보다 13% 많은 규모다. AI 도구를 거쳐 이커머스 사이트로 들어온 유입은 전년보다 104% 늘었다. U.S., U.K., 캐나다, 호주 쇼핑객 2,500명 이상을 조사한 결과 74%가 AI 추천을 신뢰했다. AI 쇼핑객의 30%는 이런 도구 덕분에 몰랐던 브랜드를 자주 알게 된다고 했고, 11%는 AI 어시스턴트가 말리면 구매를 건너뛰겠다고 답했다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/image_b49a8d.jpeg?w=1024",
-                "cap": "개인 에이전트에 맡기는 주요 쇼핑 업무"
+                "x": "The Verge는 11월 10일 Meta의 Muse 에이전트가 eBay 상품 목록을 가져오지 못하게 막혔다고 보도했다. 11월 12일에는 접근이 \"될 때도 있고 안 될 때도 있는 것 같다\"고 전했다. eBay 대변인 Sybille St. Arromand는 전면 금지가 아니라며 eBay가 \"정책에 따라 AI 검색, 탐색, 일부 에이전트 지원 내비게이션은 허용하되 승인되지 않은 자동 스크래핑은 차단한다\"고 설명했다."
               },
               {
                 "t": "p",
-                "x": "쇼핑객은 개인 에이전트를 구매자가 아닌 조언자로 대한다. 결제까지 맡기기엔 아직 이르다는 반응이다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/image1.jpg?w=1024",
-                "cap": "개인 에이전트로 구매할 때의 주요 걸림돌"
-              },
-              {
-                "t": "p",
-                "x": "자체 쇼핑 에이전트를 둔 소매업체는 주문 규모가 더 크다. 다만 쇼핑객은 AI 어시스턴트가 2-3번 실수하면 더는 쓰지 않는다. Salesforce에서 Agentic Commerce Shopper Insights를 이끄는 Caila Schwartz는 “AI가 찾을 수 있고 사람이 신뢰할 수 있는 브랜드가 되라”고 말했다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/image_0d40fe.jpeg?w=1024",
-                "cap": "AI 어시스턴트가 2-3번 실수하면 쇼핑객은 더는 쓰지 않는다."
+                "x": "Amazon은 외부 에이전트를 전면 차단한다. Target은 경우에 따라 에이전트의 탐색을 허용하고 Walmart와 Shopify는 진입 경로를 공개했다. 어떤 에이전트가 허가를 받았는지, 개발자가 허가를 어떻게 요청하면 되는지 eBay는 밝히지 않았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "買い物客はエージェントに\n調べさせても支払わせない",
-          "body": "年末の買い物客の20%近くがまずAIを頼るが、大半はBuy Nowを任せる準備がない。",
-          "mini_headline": "調べるのはエージェント、払うのは客",
+          "headline": "eBay、無許可の\nAI買い物エージェント禁止",
+          "body": "eBayはbuy-for-me型AIやLLM-drivenボットに事前許可を求める。",
+          "mini_headline": "eBay、AI買い物客に関門",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/824_1126_T08_The-AI-First-Holiday-Shoppers-Let-Agents-Do-the-Legwork-Not-the-Paying_a_v1_110926.jpg"
+                "src": "https://ppc.land/content/images/2026/11/ebay-user-agreement-bans-buy-for-me-ai-agents-without-permission-orange-velvet-rope-teal-errand-box-at-door.jpg"
               },
               {
                 "t": "p",
-                "x": "Salesforceの調査によると、年末の買い物客は調べ物や助言にAIエージェントを使っている。買い物客の20%近くが、店に向かう前にまずAIを頼ると答えた。ただし大半は、AIにBuy Nowをクリックさせる準備ができていない。"
+                "x": "eBayの利用規約（User Agreement）は、同社が「事前の明示的な許可」を与えない限り、買い手と売り手がマーケットプレイス上で「buy-for-meエージェント、LLM-drivenボット、または人による確認なしに注文を試みるあらゆるend-to-endのフロー」を使うことを禁じている。この条項は2026年2月20日から施行されており、2026年6月28日発効の版にも一字一句そのまま引き継がれた。"
               },
               {
                 "t": "p",
-                "x": "Salesforceの予測では、AIはCyber Weekの支出のうち$75.8B を生み出し、2025年から13%増える見込みだ。AIツールからのeコマースサイトへのトラフィックは前年比104%増えた。U.S.、U.K.、カナダ、オーストラリアの2,500人超の買い物客を対象とした調査では、74%がAIの推奨を信頼し、AIを使う買い物客の30%はこうしたツールで知らなかったブランドを頻繁に知ると答え、11%はAIアシスタントに反対されれば購入を見送るという。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/image_b49a8d.jpeg?w=1024",
-                "cap": "パーソナルエージェントに任せる主なショッピングタスク"
+                "x": "The Vergeは11月10日、MetaのMuseエージェントがeBayの出品情報を取得できないようブロックされたと報じ、11月12日にはそのアクセスが「つながったりつながらなかったりするようだ」と伝えた。eBayの広報担当Sybille St. Arromandは、今回の制限は全面禁止ではなく、eBayは「ポリシーに沿ってAI検索、ディスカバリー、一部のエージェント支援ナビゲーションを認める一方、無許可の自動スクレイピングはブロックしている」と述べた。"
               },
               {
                 "t": "p",
-                "x": "買い物客はパーソナルエージェントを買い手ではなく助言者のように扱っており、決済まで任せる準備はまだ整っていない。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/image1.jpg?w=1024",
-                "cap": "パーソナルエージェントで購入する際の主な障壁"
-              },
-              {
-                "t": "p",
-                "x": "独自のショッピングエージェントを持つ小売業者は注文額が大きくなるが、買い物客はAIアシスタントが2-3回ミスをすると使うのをやめる。SalesforceのHead of Agentic Commerce Shopper Insights、Caila Schwartzは「AIに見つけてもらえ、人に信頼されるブランドになれ」と語った。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/image_0d40fe.jpeg?w=1024",
-                "cap": "買い物客は、AIアシスタントが2-3回ミスをすると使うのをやめる。"
+                "x": "Amazonは外部エージェントを全面的にブロックし、Targetは一部のケースでエージェントの閲覧を認め、WalmartとShopifyは参入経路を公開している。eBayは、どのエージェントが許可を得ているのか、開発者がどう許可を申請すればよいのかを明らかにしていない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "节日购物者让智能体\n帮忙调研而非付款",
-          "body": "近20%的节日购物者把AI当作第一站，但多数人还不愿让智能体点击Buy Now。",
-          "mini_headline": "智能体调研，购物者付款",
+          "headline": "eBay：AI购物代理\n须先获其许可",
+          "body": "eBay规定buy-for-me AI代理与LLM-driven机器人须事先获明确许可。",
+          "mini_headline": "eBay为AI购物代理设门槛",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/824_1126_T08_The-AI-First-Holiday-Shoppers-Let-Agents-Do-the-Legwork-Not-the-Paying_a_v1_110926.jpg"
+                "src": "https://ppc.land/content/images/2026/11/ebay-user-agreement-bans-buy-for-me-ai-agents-without-permission-orange-velvet-rope-teal-errand-box-at-door.jpg"
               },
               {
                 "t": "p",
-                "x": "Salesforce的一项调查显示，节日购物者正在用AI智能体做调研、获取建议——近20%的购物者表示，AI是他们去商店前的第一站——但大多数人还没准备好让AI点击Buy Now。"
+                "x": "eBay的用户协议（User Agreement）规定，除非公司给予“事先明确许可”，否则买家和卖家不得在平台上使用“buy-for-me代理、LLM-driven机器人，或任何试图在无人审核的情况下下单的end-to-end流程”。该条款自2026年2月20日起生效，并一字不改地沿用到2026年6月28日生效的版本中。"
               },
               {
                 "t": "p",
-                "x": "Salesforce研究预计，AI将带动$75.8B 的Cyber Week消费，比2025年增长13%；来自AI工具的电商网站流量同比增长104%。在针对U.S.、U.K.、加拿大和澳大利亚2,500多名购物者的调查中，74%信任AI的推荐，30%的AI购物者表示这些工具经常让他们发现原本不知道的品牌，11%表示如果AI助手建议不买，他们就会放弃购买。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/image_b49a8d.jpeg?w=1024",
-                "cap": "个人智能体承担的主要购物任务"
+                "x": "The Verge于11月10日报道，Meta的Muse代理被阻止抓取eBay商品信息；到11月12日，其访问“似乎时好时坏”。eBay发言人Sybille St. Arromand表示，这些限制并非全面禁令，eBay“根据我们的政策允许AI搜索、发现和部分代理辅助导航，同时阻止未经授权的自动抓取”。"
               },
               {
                 "t": "p",
-                "x": "购物者把个人智能体当作顾问而非买手，还不太愿意让智能体替他们结账。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/image1.jpg?w=1024",
-                "cap": "使用个人智能体购物的主要障碍"
-              },
-              {
-                "t": "p",
-                "x": "拥有自有购物智能体的零售商订单金额更高，但AI助手出错2-3次后，购物者就会弃用。Salesforce的Head of Agentic Commerce Shopper Insights Caila Schwartz表示：“要成为AI能找到、人类能信任的品牌。”"
-              },
-              {
-                "t": "img",
-                "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/image_0d40fe.jpeg?w=1024",
-                "cap": "AI助手出错2-3次后，购物者就会弃用。"
+                "x": "Amazon完全屏蔽外部代理，Target在部分情况下允许代理浏览，Walmart和Shopify则已公布接入途径。eBay未说明哪些代理获得了许可，也未说明开发者该如何申请。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los compradores usan agentes\npara investigar, no para pagar",
-          "body": "Casi el 20% de los compradores navideños empieza por la AI, pero la mayoría no deja que un agente pulse Buy Now.",
-          "mini_headline": "Los agentes investigan, el comprador paga",
+          "headline": "eBay veta a los agentes de AI\nque compran sin su permiso",
+          "body": "El acuerdo de usuario de eBay exige permiso expreso previo para los agentes de AI buy-for-me y los bots LLM-driven.",
+          "mini_headline": "eBay pone filtro a los compradores de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/824_1126_T08_The-AI-First-Holiday-Shoppers-Let-Agents-Do-the-Legwork-Not-the-Paying_a_v1_110926.jpg"
+                "src": "https://ppc.land/content/images/2026/11/ebay-user-agreement-bans-buy-for-me-ai-agents-without-permission-orange-velvet-rope-teal-errand-box-at-door.jpg"
               },
               {
                 "t": "p",
-                "x": "Una encuesta de Salesforce muestra que los compradores navideños usan agentes de AI para investigar y pedir consejo —casi el 20% dice ahora que la AI es su primera parada camino de la tienda—, pero la mayoría aún no está lista para dejar que la AI haga clic en Buy Now."
+                "x": "El User Agreement (acuerdo de usuario) de eBay prohíbe a compradores y vendedores usar en el marketplace \"agentes buy-for-me, bots LLM-driven o cualquier flujo end-to-end que intente realizar pedidos sin revisión humana\", salvo que la compañía otorgue un \"permiso expreso previo\". La cláusula está en vigor desde el 20 de febrero de 2026 y se mantuvo palabra por palabra en la versión vigente desde el 28 de junio de 2026."
               },
               {
                 "t": "p",
-                "x": "Una investigación de Salesforce prevé que la AI impulsará 75.8 mil millones de dólares en gasto durante la Cyber Week, un 13% más que en 2025, y el tráfico hacia sitios de ecommerce desde herramientas de AI ha crecido un 104% interanual. En la encuesta a más de 2,500 compradores de U.S., U.K., Canadá y Australia, el 74% confía en las recomendaciones de la AI, el 30% de quienes compran con AI dice que estas herramientas le presentan con frecuencia marcas que no conocía y el 11% dejaría de comprar algo si un asistente de AI se lo desaconsejara."
-              },
-              {
-                "t": "img",
-                "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/image_b49a8d.jpeg?w=1024",
-                "cap": "Principales tareas de compra para agentes personales"
+                "x": "The Verge informó el 10 de noviembre de que el agente Muse de Meta había sido bloqueado para extraer anuncios de eBay; para el 12 de noviembre, su acceso \"parece funcionar a veces sí y a veces no\". La portavoz de eBay Sybille St. Arromand afirmó que las restricciones no son una prohibición general y que eBay permite \"la búsqueda con AI, el descubrimiento y cierta navegación asistida por agentes de acuerdo con nuestras políticas, mientras bloquea el scraping automatizado no autorizado\"."
               },
               {
                 "t": "p",
-                "x": "Los compradores tratan a los agentes personales como asesores más que como compradores, y todavía no están del todo dispuestos a dejar que paguen por ellos."
-              },
-              {
-                "t": "img",
-                "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/image1.jpg?w=1024",
-                "cap": "Principales barreras para usar un agente personal al hacer compras"
-              },
-              {
-                "t": "p",
-                "x": "Los minoristas con sus propios agentes de compra registran pedidos más grandes, pero los compradores abandonan los asistentes de AI tras 2-3 errores. “Sea la marca que la AI puede encontrar y en la que las personas pueden confiar”, dijo Caila Schwartz, Head of Agentic Commerce Shopper Insights en Salesforce."
-              },
-              {
-                "t": "img",
-                "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/image_0d40fe.jpeg?w=1024",
-                "cap": "Los compradores abandonan los asistentes de AI tras 2-3 errores."
+                "x": "Amazon bloquea por completo a los agentes externos, Target permite que los agentes naveguen en algunos casos, y Walmart y Shopify han publicado vías de acceso. eBay no ha dicho qué agentes tienen permiso ni cómo podría solicitarlo un desarrollador."
               }
             ]
           }
@@ -1199,181 +1285,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "연말 쇼핑객, 에이전트에\n조사는 맡기고 결제는 직접",
-          "body": "쇼핑객 20% 가까이가 AI부터 찾지만 대부분 Buy Now 클릭은 맡기지 않는다.",
-          "mini_headline": "조사는 에이전트, 결제는 직접",
+          "headline": "eBay, 허가 없는\nAI 쇼핑 에이전트 차단",
+          "body": "eBay는 buy-for-me AI·LLM-driven 봇에 사전 허가를 요구한다.",
+          "mini_headline": "eBay, AI 쇼핑객에 문턱",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/824_1126_T08_The-AI-First-Holiday-Shoppers-Let-Agents-Do-the-Legwork-Not-the-Paying_a_v1_110926.jpg"
+                "src": "https://ppc.land/content/images/2026/11/ebay-user-agreement-bans-buy-for-me-ai-agents-without-permission-orange-velvet-rope-teal-errand-box-at-door.jpg"
               },
               {
                 "t": "p",
-                "x": "Salesforce 조사에 따르면 연말 쇼핑객은 조사와 조언에 AI 에이전트를 활용하고 있다. 쇼핑객의 20% 가까이가 매장에 가기 전 가장 먼저 AI를 찾는다고 답했지만, 대부분은 AI가 Buy Now를 클릭하도록 맡길 준비가 되어 있지 않다."
+                "x": "eBay 이용약관(User Agreement)은 회사가 \"사전 명시적 허가\"를 주지 않는 한, 구매자와 판매자가 마켓플레이스에서 \"buy-for-me 에이전트, LLM-driven 봇, 또는 사람의 검토 없이 주문을 시도하는 모든 end-to-end 흐름\"을 쓰지 못하게 한다. 이 조항은 2026년 2월 20일부터 시행됐고, 2026년 6월 28일 발효된 버전에도 문구 그대로 이어졌다."
               },
               {
                 "t": "p",
-                "x": "Salesforce 리서치는 AI가 Cyber Week 지출 $75.8B 규모를 이끌 것으로 전망했다. 2025년보다 13% 늘어난 수치이며, AI 도구를 통한 이커머스 사이트 유입은 전년 대비 104% 증가했다. U.S., U.K., 캐나다, 호주의 쇼핑객 2,500명 이상을 대상으로 한 조사에서 74%는 AI 추천을 신뢰했고, AI 쇼핑객의 30%는 이런 도구 덕분에 몰랐던 브랜드를 자주 알게 된다고 답했으며, 11%는 AI 어시스턴트가 말리면 구매를 건너뛰겠다고 했다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/image_b49a8d.jpeg?w=1024",
-                "cap": "개인 에이전트에 맡기는 주요 쇼핑 업무"
+                "x": "The Verge는 11월 10일 Meta의 Muse 에이전트가 eBay 상품 목록을 가져오지 못하게 차단됐다고 보도했고, 11월 12일에는 접근이 \"될 때도 있고 안 될 때도 있는 것 같다\"고 전했다. eBay 대변인 Sybille St. Arromand는 이번 제한이 전면 금지가 아니며, eBay가 \"정책에 따라 AI 검색, 탐색, 일부 에이전트 지원 내비게이션은 허용하되 승인되지 않은 자동 스크래핑은 차단한다\"고 말했다."
               },
               {
                 "t": "p",
-                "x": "쇼핑객은 개인 에이전트를 구매자가 아니라 조언자처럼 대하며, 결제까지 맡길 준비는 아직 되어 있지 않다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/image1.jpg?w=1024",
-                "cap": "개인 에이전트로 구매할 때의 주요 걸림돌"
-              },
-              {
-                "t": "p",
-                "x": "자체 쇼핑 에이전트를 갖춘 소매업체는 주문 규모가 더 크지만, 쇼핑객은 AI 어시스턴트가 2-3번 실수하면 사용을 그만둔다. Salesforce의 Agentic Commerce Shopper Insights 책임자 Caila Schwartz는 “AI가 찾을 수 있고 사람이 신뢰할 수 있는 브랜드가 되라”고 말했다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/image_0d40fe.jpeg?w=1024",
-                "cap": "쇼핑객은 AI 어시스턴트가 2-3번 실수하면 사용을 그만둔다."
+                "x": "Amazon은 외부 에이전트를 전면 차단하고, Target은 일부 경우 에이전트의 탐색을 허용하며, Walmart와 Shopify는 진입 경로를 공개했다. eBay는 어떤 에이전트가 허가를 받았는지, 개발자가 어떻게 허가를 요청할 수 있는지 밝히지 않았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "買い物客はエージェントに\n調べさせても支払わせない",
-          "body": "年末の買い物客の20%近くがまずAIを頼るが、大半はBuy Nowを任せる準備がない。",
-          "mini_headline": "調べるのはエージェント、払うのは客",
+          "headline": "eBay、無許可の\nAI買い物エージェント禁止",
+          "body": "eBayはbuy-for-me型AIやLLM-drivenボットに事前許可を求める。",
+          "mini_headline": "eBay、AI買い物客に関門",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/824_1126_T08_The-AI-First-Holiday-Shoppers-Let-Agents-Do-the-Legwork-Not-the-Paying_a_v1_110926.jpg"
+                "src": "https://ppc.land/content/images/2026/11/ebay-user-agreement-bans-buy-for-me-ai-agents-without-permission-orange-velvet-rope-teal-errand-box-at-door.jpg"
               },
               {
                 "t": "p",
-                "x": "Salesforceの調査によると、年末の買い物客は調べ物や助言にAIエージェントを使っている。買い物客の20%近くが、店に向かう前にまずAIを頼ると答えた。ただし大半は、AIにBuy Nowをクリックさせる準備ができていない。"
+                "x": "eBayの利用規約（User Agreement）は、同社が「事前の明示的な許可」を与えない限り、買い手と売り手がマーケットプレイス上で「buy-for-meエージェント、LLM-drivenボット、または人による確認なしに注文を試みるあらゆるend-to-endのフロー」を使うことを禁じている。この条項は2026年2月20日から施行されており、2026年6月28日発効の版にも一字一句そのまま引き継がれた。"
               },
               {
                 "t": "p",
-                "x": "Salesforceの予測では、AIはCyber Weekの支出のうち$75.8B を生み出し、2025年から13%増える見込みだ。AIツールからのeコマースサイトへのトラフィックは前年比104%増えた。U.S.、U.K.、カナダ、オーストラリアの2,500人超の買い物客を対象とした調査では、74%がAIの推奨を信頼し、AIを使う買い物客の30%はこうしたツールで知らなかったブランドを頻繁に知ると答え、11%はAIアシスタントに反対されれば購入を見送るという。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/image_b49a8d.jpeg?w=1024",
-                "cap": "パーソナルエージェントに任せる主なショッピングタスク"
+                "x": "The Vergeは11月10日、MetaのMuseエージェントがeBayの出品情報を取得できないようブロックされたと報じ、11月12日にはそのアクセスが「つながったりつながらなかったりするようだ」と伝えた。eBayの広報担当Sybille St. Arromandは、今回の制限は全面禁止ではなく、eBayは「ポリシーに沿ってAI検索、ディスカバリー、一部のエージェント支援ナビゲーションを認める一方、無許可の自動スクレイピングはブロックしている」と述べた。"
               },
               {
                 "t": "p",
-                "x": "買い物客はパーソナルエージェントを買い手ではなく助言者のように扱っており、決済まで任せる準備はまだ整っていない。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/image1.jpg?w=1024",
-                "cap": "パーソナルエージェントで購入する際の主な障壁"
-              },
-              {
-                "t": "p",
-                "x": "独自のショッピングエージェントを持つ小売業者は注文額が大きくなるが、買い物客はAIアシスタントが2-3回ミスをすると使うのをやめる。SalesforceのHead of Agentic Commerce Shopper Insights、Caila Schwartzは「AIに見つけてもらえ、人に信頼されるブランドになれ」と語った。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/image_0d40fe.jpeg?w=1024",
-                "cap": "買い物客は、AIアシスタントが2-3回ミスをすると使うのをやめる。"
+                "x": "Amazonは外部エージェントを全面的にブロックし、Targetは一部のケースでエージェントの閲覧を認め、WalmartとShopifyは参入経路を公開している。eBayは、どのエージェントが許可を得ているのか、開発者がどう許可を申請すればよいのかを明らかにしていない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "节日购物者让智能体\n帮忙调研而非付款",
-          "body": "近20%的节日购物者把AI当作第一站，但多数人还不愿让智能体点击Buy Now。",
-          "mini_headline": "智能体调研，购物者付款",
+          "headline": "eBay：AI购物代理\n须先获其许可",
+          "body": "eBay规定buy-for-me AI代理与LLM-driven机器人须事先获明确许可。",
+          "mini_headline": "eBay为AI购物代理设门槛",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/824_1126_T08_The-AI-First-Holiday-Shoppers-Let-Agents-Do-the-Legwork-Not-the-Paying_a_v1_110926.jpg"
+                "src": "https://ppc.land/content/images/2026/11/ebay-user-agreement-bans-buy-for-me-ai-agents-without-permission-orange-velvet-rope-teal-errand-box-at-door.jpg"
               },
               {
                 "t": "p",
-                "x": "Salesforce的一项调查显示，节日购物者正在用AI智能体做调研、获取建议——近20%的购物者表示，AI是他们去商店前的第一站——但大多数人还没准备好让AI点击Buy Now。"
+                "x": "eBay的用户协议（User Agreement）规定，除非公司给予“事先明确许可”，否则买家和卖家不得在平台上使用“buy-for-me代理、LLM-driven机器人，或任何试图在无人审核的情况下下单的end-to-end流程”。该条款自2026年2月20日起生效，并一字不改地沿用到2026年6月28日生效的版本中。"
               },
               {
                 "t": "p",
-                "x": "Salesforce研究预计，AI将带动$75.8B 的Cyber Week消费，比2025年增长13%；来自AI工具的电商网站流量同比增长104%。在针对U.S.、U.K.、加拿大和澳大利亚2,500多名购物者的调查中，74%信任AI的推荐，30%的AI购物者表示这些工具经常让他们发现原本不知道的品牌，11%表示如果AI助手建议不买，他们就会放弃购买。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/image_b49a8d.jpeg?w=1024",
-                "cap": "个人智能体承担的主要购物任务"
+                "x": "The Verge于11月10日报道，Meta的Muse代理被阻止抓取eBay商品信息；到11月12日，其访问“似乎时好时坏”。eBay发言人Sybille St. Arromand表示，这些限制并非全面禁令，eBay“根据我们的政策允许AI搜索、发现和部分代理辅助导航，同时阻止未经授权的自动抓取”。"
               },
               {
                 "t": "p",
-                "x": "购物者把个人智能体当作顾问而非买手，还不太愿意让智能体替他们结账。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/image1.jpg?w=1024",
-                "cap": "使用个人智能体购物的主要障碍"
-              },
-              {
-                "t": "p",
-                "x": "拥有自有购物智能体的零售商订单金额更高，但AI助手出错2-3次后，购物者就会弃用。Salesforce的Head of Agentic Commerce Shopper Insights Caila Schwartz表示：“要成为AI能找到、人类能信任的品牌。”"
-              },
-              {
-                "t": "img",
-                "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/image_0d40fe.jpeg?w=1024",
-                "cap": "AI助手出错2-3次后，购物者就会弃用。"
+                "x": "Amazon完全屏蔽外部代理，Target在部分情况下允许代理浏览，Walmart和Shopify则已公布接入途径。eBay未说明哪些代理获得了许可，也未说明开发者该如何申请。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los compradores usan agentes\npara investigar, no para pagar",
-          "body": "Casi el 20% de los compradores navideños empieza por la AI, pero la mayoría no deja que un agente pulse Buy Now.",
-          "mini_headline": "Los agentes investigan, el comprador paga",
+          "headline": "eBay veta a los agentes de AI\nque compran sin su permiso",
+          "body": "El acuerdo de usuario de eBay exige permiso expreso previo para los agentes de AI buy-for-me y los bots LLM-driven.",
+          "mini_headline": "eBay pone filtro a los compradores de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/824_1126_T08_The-AI-First-Holiday-Shoppers-Let-Agents-Do-the-Legwork-Not-the-Paying_a_v1_110926.jpg"
+                "src": "https://ppc.land/content/images/2026/11/ebay-user-agreement-bans-buy-for-me-ai-agents-without-permission-orange-velvet-rope-teal-errand-box-at-door.jpg"
               },
               {
                 "t": "p",
-                "x": "Una encuesta de Salesforce muestra que los compradores navideños usan agentes de AI para investigar y pedir consejo —casi el 20% dice ahora que la AI es su primera parada camino de la tienda—, pero la mayoría aún no está lista para dejar que la AI haga clic en Buy Now."
+                "x": "El User Agreement (acuerdo de usuario) de eBay prohíbe a compradores y vendedores usar en el marketplace \"agentes buy-for-me, bots LLM-driven o cualquier flujo end-to-end que intente realizar pedidos sin revisión humana\", salvo que la compañía otorgue un \"permiso expreso previo\". La cláusula está en vigor desde el 20 de febrero de 2026 y se mantuvo palabra por palabra en la versión vigente desde el 28 de junio de 2026."
               },
               {
                 "t": "p",
-                "x": "Una investigación de Salesforce prevé que la AI impulsará 75.8 mil millones de dólares en gasto durante la Cyber Week, un 13% más que en 2025, y el tráfico hacia sitios de ecommerce desde herramientas de AI ha crecido un 104% interanual. En la encuesta a más de 2,500 compradores de U.S., U.K., Canadá y Australia, el 74% confía en las recomendaciones de la AI, el 30% de quienes compran con AI dice que estas herramientas le presentan con frecuencia marcas que no conocía y el 11% dejaría de comprar algo si un asistente de AI se lo desaconsejara."
-              },
-              {
-                "t": "img",
-                "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/image_b49a8d.jpeg?w=1024",
-                "cap": "Principales tareas de compra para agentes personales"
+                "x": "The Verge informó el 10 de noviembre de que el agente Muse de Meta había sido bloqueado para extraer anuncios de eBay; para el 12 de noviembre, su acceso \"parece funcionar a veces sí y a veces no\". La portavoz de eBay Sybille St. Arromand afirmó que las restricciones no son una prohibición general y que eBay permite \"la búsqueda con AI, el descubrimiento y cierta navegación asistida por agentes de acuerdo con nuestras políticas, mientras bloquea el scraping automatizado no autorizado\"."
               },
               {
                 "t": "p",
-                "x": "Los compradores tratan a los agentes personales como asesores más que como compradores, y todavía no están del todo dispuestos a dejar que paguen por ellos."
-              },
-              {
-                "t": "img",
-                "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/image1.jpg?w=1024",
-                "cap": "Principales barreras para usar un agente personal al hacer compras"
-              },
-              {
-                "t": "p",
-                "x": "Los minoristas con sus propios agentes de compra registran pedidos más grandes, pero los compradores abandonan los asistentes de AI tras 2-3 errores. “Sea la marca que la AI puede encontrar y en la que las personas pueden confiar”, dijo Caila Schwartz, Head of Agentic Commerce Shopper Insights en Salesforce."
-              },
-              {
-                "t": "img",
-                "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/image_0d40fe.jpeg?w=1024",
-                "cap": "Los compradores abandonan los asistentes de AI tras 2-3 errores."
+                "x": "Amazon bloquea por completo a los agentes externos, Target permite que los agentes naveguen en algunos casos, y Walmart y Shopify han publicado vías de acceso. eBay no ha dicho qué agentes tienen permiso ni cómo podría solicitarlo un desarrollador."
               }
             ]
           }
@@ -1381,237 +1391,165 @@
       }
     },
     {
-      "id": "pinterest-holiday-gift-assistant",
+      "id": "digiday-adtech-ai-brain",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Pinterest 챗봇에\n연말 선물 도구 추가",
-      "body": "Pinterest가 챗봇에 선물 가이드를 넣고 비교 도구와 위시리스트를 더했다.",
-      "mini_headline": "Pinterest, 선물 도구 추가",
+      "headline": "애드테크 새 승부처는\n구매 뒤 AI 두뇌",
+      "body": "AI가 광고 전달과 구매를 함께 바꾸자 애드테크 경쟁은 의사결정층으로 갔다.",
+      "mini_headline": "애드테크의 AI 두뇌 경쟁",
       "tool": "Marketing",
-      "source": "Social Media Today",
-      "url": "https://www.socialmediatoday.com/news/pinterest-adds-holiday-shopping-tools/874575/",
+      "source": "Digiday",
+      "url": "https://digiday.com/media-buying/ai-is-turning-ad-tech-into-a-fight-for-the-brain-behind-the-buy/",
       "accent": "#2ec5c5",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "Pinterest가 연말을 앞두고 쇼핑 기능을 새로 내놨다. Pinterest Assistant 챗봇 안에 인기 선물 가이드, 상품 비교 도구, 위시리스트 등이 들어간다."
-          },
-          {
             "t": "img",
-            "src": "https://imgproxy.divecdn.com/haUn-5ilTQDnLIwRKhx8P3TUJdoPsoqnlE7lJw7nKNE/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waW50ZXJlc3RfaG9saWRheV9zZWFzb24yLnBuZw==.webp"
+            "src": "https://digiday.com/wp-content/uploads/sites/3/2025/10/ai-workflows-digiday.jpg"
           },
           {
             "t": "p",
-            "x": "Pinterest Assistant의 새 연말 화면은 선물 아이디어, 시즌 장식 아이디어 등 트렌드 콘텐츠를 전체 화면으로 보여준다. 소개된 상품은 하나하나 쇼핑 가능한 Pin으로 이어진다."
-          },
-          {
-            "t": "img",
-            "src": "https://imgproxy.divecdn.com/7G4sbb1B6GoM4vkVQlIun10enr8FB4CgX0_YyCKKWBI/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waW50ZXJlc3RfaG9saWRheV9zZWFzb24zLnBuZw==.webp"
+            "x": "11월 9일 New York에서 열린 LUMA Partners의 Digital Marketing Summit에서 Terry Kawaja CEO와 Conor McKenna 파트너는 AI가 애드테크를 두 전선에서 바꾸고 있다고 짚었다. 하나는 마케팅 기술이 광고를 고르고 전달하는 방식, 또 하나는 소비자가 제품을 발견하고 구매하는 방식이다."
           },
           {
             "t": "p",
-            "x": "비교 기능은 Pinterest Assistant 사용자에게 검색어에 맞춘 상품 캐러셀을 리뷰, 가격, 재고 정보와 함께 띄운다. Compare는 모바일에선 Pinterest Assistant와 보드에서, U.S. 데스크톱에선 Close-up 버튼으로 쓸 수 있다."
-          },
-          {
-            "t": "img",
-            "src": "https://imgproxy.divecdn.com/66qCuxq8De9tphQQ5L3JBrfJ8slaTXDUMLd8EFzL9z4/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waW50ZXJlc3RfaG9saWRheV9zZWFzb240LnBuZw==.webp"
+            "x": "워크플로 자동화가 쉬워지면 경쟁 우위의 무게도 캠페인 집행 관리에서 더 나은 실시간 의사결정으로 넘어간다. McKenna는 \"새로 나오는 AI 기술과 함께 워크플로라는 해자는 사라지기 시작한다\"고 말했다. Kawaja는 \"고유한 신호와 결합한 의사결정이 기업을 차별화하고, 승자와 패자를 가르며, 결국 통합을 촉진할 것\"이라고 덧붙였다."
           },
           {
             "t": "p",
-            "x": "위시리스트 기능을 쓰면 원하는 상품 Pins를 모아 두고 가격 인하나 재입고 알림을 받을 수 있다. 지금은 U.S.와 캐나다에서 iOS 한정으로 테스트 중이다. Pinterest는 과거 참여 이력을 보고 인기 할인 상품을 개인 맞춤 목록으로 보여주는 Deal Boards도 내놓고 있다."
+            "x": "소비자 쪽에선 AI 어시스턴트가 조사·발견·비교를 한 인터페이스에 모아 구매 여정을 줄일 수 있다. 연사들은 사람이 당분간 결정이 아니라 작업을 맡기는 식으로 계속 관여하리라 본다. SWYM.ai의 Ravi Patel은 통합 미디어 플랫폼이 \"'무엇'과 '얼마나'는 관리할 수 있다. '어떤 노출'은 관리하지 못한다\"고 말했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Pinterest's assistant adds\nholiday gift tools",
-          "body": "Pinterest updated its shopping chatbot with trending gift guides and added product comparison tools and wish lists.",
-          "mini_headline": "Pinterest adds\ngift tools",
+          "headline": "Ad tech's new fight is over\nthe AI brain behind the buy",
+          "body": "AI now shapes both how ads are delivered and how people buy, making ad tech a race to own the decision layer.",
+          "mini_headline": "Ad tech's AI brain fight",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Pinterest has added some new shopping features for the holidays, including trending gift guides within its Pinterest Assistant chatbot, product comparison tools and wishlists."
-              },
-              {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/haUn-5ilTQDnLIwRKhx8P3TUJdoPsoqnlE7lJw7nKNE/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waW50ZXJlc3RfaG9saWRheV9zZWFzb24yLnBuZw==.webp"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2025/10/ai-workflows-digiday.jpg"
               },
               {
                 "t": "p",
-                "x": "The new holiday experience in Pinterest Assistant offers full-screen trending content overviews for gift inspiration, seasonal decorating ideas and more. Each highlighted product connects to a shoppable Pin."
-              },
-              {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/7G4sbb1B6GoM4vkVQlIun10enr8FB4CgX0_YyCKKWBI/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waW50ZXJlc3RfaG9saWRheV9zZWFzb24zLnBuZw==.webp"
+                "x": "At LUMA Partners' Digital Marketing Summit in New York on November 9, CEO Terry Kawaja and partner Conor McKenna said AI is changing ad tech on two fronts: how marketing technology selects and delivers ads, and how consumers discover and buy products."
               },
               {
                 "t": "p",
-                "x": "A compare feature gives Pinterest Assistant users a carousel of products based on their queries, with reviews and information on price and availability. Compare is available through Pinterest Assistant and boards on mobile, and through the Close-up button for desktop users in the U.S."
-              },
-              {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/66qCuxq8De9tphQQ5L3JBrfJ8slaTXDUMLd8EFzL9z4/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waW50ZXJlc3RfaG9saWRheV9zZWFzb240LnBuZw==.webp"
+                "x": "As workflows get easier to automate, competitive advantage shifts from managing campaign delivery to making better real-time decisions. \"The workflow moat begins to evaporate with the AI technology that is coming out,\" McKenna said. \"Decisioning coupled with unique signal is what will differentiate the companies, separate the winners from the losers, and finally promote consolidation,\" added Kawaja."
               },
               {
                 "t": "p",
-                "x": "Wishlists let shoppers list their ideal product Pins and get notified about price drops or restocks; they are in a limited iOS test across the U.S. and Canada. Pinterest is also rolling out Deal Boards, highlighting personalized lists of trending deals based on past engagement history."
+                "x": "On the consumer side, AI assistants could bring research, discovery and comparison into a single interface, compressing the purchase journey; speakers expect people to remain involved for now, delegating tasks rather than decisions. SWYM.ai's Ravi Patel said unified media platforms \"can manage the 'what' and the 'how much.' It can't manage the 'which impression.'\""
               }
             ]
           }
         },
         "ko": {
-          "headline": "Pinterest 챗봇에\n연말 선물 도구 추가",
-          "body": "Pinterest가 챗봇에 선물 가이드를 넣고 비교 도구와 위시리스트를 더했다.",
-          "mini_headline": "Pinterest, 선물 도구 추가",
+          "headline": "애드테크 새 승부처는\n구매 뒤 AI 두뇌",
+          "body": "AI가 광고 전달과 구매를 함께 바꾸자 애드테크 경쟁은 의사결정층으로 갔다.",
+          "mini_headline": "애드테크의 AI 두뇌 경쟁",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Pinterest가 연말을 앞두고 쇼핑 기능을 새로 내놨다. Pinterest Assistant 챗봇 안에 인기 선물 가이드, 상품 비교 도구, 위시리스트 등이 들어간다."
-              },
-              {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/haUn-5ilTQDnLIwRKhx8P3TUJdoPsoqnlE7lJw7nKNE/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waW50ZXJlc3RfaG9saWRheV9zZWFzb24yLnBuZw==.webp"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2025/10/ai-workflows-digiday.jpg"
               },
               {
                 "t": "p",
-                "x": "Pinterest Assistant의 새 연말 화면은 선물 아이디어, 시즌 장식 아이디어 등 트렌드 콘텐츠를 전체 화면으로 보여준다. 소개된 상품은 하나하나 쇼핑 가능한 Pin으로 이어진다."
-              },
-              {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/7G4sbb1B6GoM4vkVQlIun10enr8FB4CgX0_YyCKKWBI/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waW50ZXJlc3RfaG9saWRheV9zZWFzb24zLnBuZw==.webp"
+                "x": "11월 9일 New York에서 열린 LUMA Partners의 Digital Marketing Summit에서 Terry Kawaja CEO와 Conor McKenna 파트너는 AI가 애드테크를 두 전선에서 바꾸고 있다고 짚었다. 하나는 마케팅 기술이 광고를 고르고 전달하는 방식, 또 하나는 소비자가 제품을 발견하고 구매하는 방식이다."
               },
               {
                 "t": "p",
-                "x": "비교 기능은 Pinterest Assistant 사용자에게 검색어에 맞춘 상품 캐러셀을 리뷰, 가격, 재고 정보와 함께 띄운다. Compare는 모바일에선 Pinterest Assistant와 보드에서, U.S. 데스크톱에선 Close-up 버튼으로 쓸 수 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/66qCuxq8De9tphQQ5L3JBrfJ8slaTXDUMLd8EFzL9z4/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waW50ZXJlc3RfaG9saWRheV9zZWFzb240LnBuZw==.webp"
+                "x": "워크플로 자동화가 쉬워지면 경쟁 우위의 무게도 캠페인 집행 관리에서 더 나은 실시간 의사결정으로 넘어간다. McKenna는 \"새로 나오는 AI 기술과 함께 워크플로라는 해자는 사라지기 시작한다\"고 말했다. Kawaja는 \"고유한 신호와 결합한 의사결정이 기업을 차별화하고, 승자와 패자를 가르며, 결국 통합을 촉진할 것\"이라고 덧붙였다."
               },
               {
                 "t": "p",
-                "x": "위시리스트 기능을 쓰면 원하는 상품 Pins를 모아 두고 가격 인하나 재입고 알림을 받을 수 있다. 지금은 U.S.와 캐나다에서 iOS 한정으로 테스트 중이다. Pinterest는 과거 참여 이력을 보고 인기 할인 상품을 개인 맞춤 목록으로 보여주는 Deal Boards도 내놓고 있다."
+                "x": "소비자 쪽에선 AI 어시스턴트가 조사·발견·비교를 한 인터페이스에 모아 구매 여정을 줄일 수 있다. 연사들은 사람이 당분간 결정이 아니라 작업을 맡기는 식으로 계속 관여하리라 본다. SWYM.ai의 Ravi Patel은 통합 미디어 플랫폼이 \"'무엇'과 '얼마나'는 관리할 수 있다. '어떤 노출'은 관리하지 못한다\"고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Pinterest、年末の\nギフト機能を追加",
-          "body": "Pinterestがチャットボットに人気ギフト案内や商品比較、ウィッシュリストを追加した。",
-          "mini_headline": "Pinterestがギフト機能を追加",
+          "headline": "アドテクの新たな争点は\n購買を動かすAI頭脳",
+          "body": "AIが広告配信と購買の両方を変え、アドテクは意思決定層を握る競争になった。",
+          "mini_headline": "アドテクのAI頭脳争い",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Pinterestは年末商戦に向けて、Pinterest Assistantチャットボット内のトレンドギフトガイド、商品比較ツール、ウィッシュリストなど新たなショッピング機能を追加した。"
-              },
-              {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/haUn-5ilTQDnLIwRKhx8P3TUJdoPsoqnlE7lJw7nKNE/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waW50ZXJlc3RfaG9saWRheV9zZWFzb24yLnBuZw==.webp"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2025/10/ai-workflows-digiday.jpg"
               },
               {
                 "t": "p",
-                "x": "Pinterest Assistantの新しいホリデー体験では、ギフトのアイデアや季節の飾り付けのアイデアなどを、全画面のトレンドコンテンツ概要として提供する。紹介される各商品は購入可能なPinにつながる。"
-              },
-              {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/7G4sbb1B6GoM4vkVQlIun10enr8FB4CgX0_YyCKKWBI/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waW50ZXJlc3RfaG9saWRheV9zZWFzb24zLnBuZw==.webp"
+                "x": "11月9日にNew Yorkで開かれたLUMA PartnersのDigital Marketing Summitで、CEOのTerry KawajaとパートナーのConor McKennaは、AIが二つの面でアドテクを変えていると語った。マーケティング技術が広告を選び配信する方法と、消費者が商品を見つけて購入する方法だ。"
               },
               {
                 "t": "p",
-                "x": "比較機能は、Pinterest Assistantのユーザーに、質問内容に基づく商品のカルーセルを、レビューや価格、在庫の情報とともに表示する。Compareはモバイルでは Pinterest Assistantとボードから、U.S.のデスクトップユーザーはClose-upボタンから利用できる。"
-              },
-              {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/66qCuxq8De9tphQQ5L3JBrfJ8slaTXDUMLd8EFzL9z4/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waW50ZXJlc3RfaG9saWRheV9zZWFzb240LnBuZw==.webp"
+                "x": "ワークフローの自動化が容易になるにつれ、競争優位はキャンペーン配信の管理から、より優れたリアルタイムの意思決定へと移る。McKennaは「登場しつつあるAI技術によって、ワークフローという堀は消え始める」と述べた。Kawajaは「独自のシグナルと結びついた意思決定こそが企業を差別化し、勝者と敗者を分け、最終的には統合を促す」と付け加えた。"
               },
               {
                 "t": "p",
-                "x": "ウィッシュリストでは、買い物客が理想の商品のPinsをリスト化し、値下げや再入荷の通知を受け取れる。現在、U.S.とカナダでiOS限定のテストが行われている。Pinterestはさらに、過去のエンゲージメント履歴に基づいてトレンドのお得情報を個別にまとめたDeal Boardsも展開している。"
+                "x": "消費者側では、AIアシスタントが調査、発見、比較を一つのインターフェースにまとめ、購買プロセスを短縮する可能性がある。登壇者らは、人々は当面、判断ではなくタスクを任せる形で関与し続けるとみている。SWYM.aiのRavi Patelは、統合メディアプラットフォームは「『何を』と『どれだけ』は管理できる。『どのインプレッションか』は管理できない」と語った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Pinterest助手\n新增节日礼物工具",
-          "body": "Pinterest为购物聊天机器人加入热门礼物指南，并新增商品比较工具和心愿单。",
-          "mini_headline": "Pinterest新增礼物工具",
+          "headline": "广告技术新战场：\n购买背后的AI大脑",
+          "body": "AI正同时改变广告投放与消费者购买方式，广告技术成了争夺决策层的竞赛。",
+          "mini_headline": "广告技术的AI大脑之争",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Pinterest为节日季新增了一些购物功能，包括Pinterest Assistant聊天机器人中的热门礼物指南、商品比较工具和心愿单。"
-              },
-              {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/haUn-5ilTQDnLIwRKhx8P3TUJdoPsoqnlE7lJw7nKNE/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waW50ZXJlc3RfaG9saWRheV9zZWFzb24yLnBuZw==.webp"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2025/10/ai-workflows-digiday.jpg"
               },
               {
                 "t": "p",
-                "x": "Pinterest Assistant中全新的节日体验提供全屏的热门内容概览，涵盖礼物灵感、季节性装饰创意等。每件重点展示的商品都链接到一个可购物的Pin。"
-              },
-              {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/7G4sbb1B6GoM4vkVQlIun10enr8FB4CgX0_YyCKKWBI/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waW50ZXJlc3RfaG9saWRheV9zZWFzb24zLnBuZw==.webp"
+                "x": "11月9日，在LUMA Partners于New York举办的Digital Marketing Summit上，CEO Terry Kawaja和合伙人Conor McKenna表示，AI正在从两个方面改变广告技术：营销技术如何选择和投放广告，以及消费者如何发现和购买产品。"
               },
               {
                 "t": "p",
-                "x": "比较功能会根据用户的提问，为Pinterest Assistant用户展示一组商品轮播，并附上评价以及价格和库存信息。移动端用户可通过Pinterest Assistant和图板使用Compare，U.S.的桌面端用户则可通过Close-up按钮使用。"
-              },
-              {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/66qCuxq8De9tphQQ5L3JBrfJ8slaTXDUMLd8EFzL9z4/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waW50ZXJlc3RfaG9saWRheV9zZWFzb240LnBuZw==.webp"
+                "x": "随着工作流程越来越容易自动化，竞争优势正从管理广告活动投放转向做出更好的实时决策。McKenna说：“随着新AI技术的出现，工作流程这道护城河开始消失。”Kawaja补充道：“与独特信号相结合的决策，才是让企业脱颖而出、区分赢家和输家并最终推动整合的关键。”"
               },
               {
                 "t": "p",
-                "x": "心愿单让购物者列出心仪商品的Pins，并在降价或补货时收到通知；该功能目前正在U.S.和加拿大进行有限的iOS测试。Pinterest还在推出Deal Boards，根据用户过往的互动记录，以个性化列表呈现热门优惠。"
+                "x": "在消费者端，AI助手可能将调研、发现和比较整合到单一界面中，从而压缩购买路径；演讲者预计，人们目前仍会参与其中，交出的是任务而非决定。SWYM.ai的Ravi Patel表示，统一媒体平台“可以管理‘什么’和‘多少’，但无法管理‘哪次展示’”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El asistente de Pinterest suma\nherramientas para regalos",
-          "body": "Pinterest actualizó su chatbot de compras con guías de regalos y añadió un comparador de productos y listas de deseos.",
-          "mini_headline": "Pinterest suma herramientas de regalo",
+          "headline": "La nueva pelea del ad tech es\npor la AI que decide la compra",
+          "body": "La AI influye en cómo se sirven los anuncios y en cómo compra la gente, y el ad tech pelea por la capa de decisión.",
+          "mini_headline": "La pelea por la AI del ad tech",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Pinterest añadió nuevas funciones de compra para las fiestas, entre ellas guías de regalos en tendencia dentro de su chatbot Pinterest Assistant, herramientas de comparación de productos y listas de deseos."
-              },
-              {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/haUn-5ilTQDnLIwRKhx8P3TUJdoPsoqnlE7lJw7nKNE/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waW50ZXJlc3RfaG9saWRheV9zZWFzb24yLnBuZw==.webp"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2025/10/ai-workflows-digiday.jpg"
               },
               {
                 "t": "p",
-                "x": "La nueva experiencia navideña de Pinterest Assistant ofrece resúmenes a pantalla completa de contenido en tendencia para inspirarse con regalos, ideas de decoración de temporada y más. Cada producto destacado enlaza a un Pin comprable."
-              },
-              {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/7G4sbb1B6GoM4vkVQlIun10enr8FB4CgX0_YyCKKWBI/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waW50ZXJlc3RfaG9saWRheV9zZWFzb24zLnBuZw==.webp"
+                "x": "En el Digital Marketing Summit de LUMA Partners, celebrado en New York el 9 de noviembre, el CEO Terry Kawaja y el socio Conor McKenna afirmaron que la AI está cambiando el ad tech en dos frentes: cómo la tecnología de marketing selecciona y sirve los anuncios, y cómo los consumidores descubren y compran productos."
               },
               {
                 "t": "p",
-                "x": "Una función de comparación ofrece a los usuarios de Pinterest Assistant un carrusel de productos basado en sus consultas, con reseñas e información sobre precio y disponibilidad. Compare está disponible a través de Pinterest Assistant y los tableros en móvil, y mediante el botón Close-up para usuarios de escritorio en U.S."
-              },
-              {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/66qCuxq8De9tphQQ5L3JBrfJ8slaTXDUMLd8EFzL9z4/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waW50ZXJlc3RfaG9saWRheV9zZWFzb240LnBuZw==.webp"
+                "x": "A medida que los flujos de trabajo son más fáciles de automatizar, la ventaja competitiva pasa de gestionar la entrega de campañas a tomar mejores decisiones en tiempo real. \"El foso de los flujos de trabajo empieza a evaporarse con la tecnología de AI que está saliendo\", dijo McKenna. \"La toma de decisiones unida a una señal única es lo que diferenciará a las empresas, separará a los ganadores de los perdedores y, finalmente, impulsará la consolidación\", añadió Kawaja."
               },
               {
                 "t": "p",
-                "x": "Las listas de deseos permiten a los compradores reunir los Pins de sus productos ideales y recibir avisos de bajadas de precio o reposiciones; están en una prueba limitada en iOS en U.S. y Canadá. Pinterest también está lanzando Deal Boards, que destacan listas personalizadas de ofertas en tendencia según el historial de interacción."
+                "x": "Del lado del consumidor, los asistentes de AI podrían reunir la investigación, el descubrimiento y la comparación en una sola interfaz y comprimir el recorrido de compra; los ponentes esperan que, por ahora, las personas sigan implicadas y deleguen tareas en lugar de decisiones. Ravi Patel, de SWYM.ai, dijo que las plataformas de medios unificadas \"pueden gestionar el 'qué' y el 'cuánto'. No pueden gestionar el 'qué impresión'\"."
               }
             ]
           }
@@ -1619,153 +1557,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Pinterest 챗봇에\n연말 선물 도구 추가",
-          "body": "Pinterest가 챗봇에 선물 가이드를 넣고 비교 도구와 위시리스트를 더했다.",
-          "mini_headline": "Pinterest, 선물 도구 추가",
+          "headline": "애드테크 새 승부처는\n구매 뒤 AI 두뇌",
+          "body": "AI가 광고 전달과 구매 방식을 모두 바꾸며 애드테크는 의사결정층 경쟁이 됐다.",
+          "mini_headline": "애드테크의 AI 두뇌 경쟁",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Pinterest가 연말을 맞아 새로운 쇼핑 기능을 추가했다. Pinterest Assistant 챗봇 안의 인기 선물 가이드, 상품 비교 도구, 위시리스트 등이다."
-              },
-              {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/haUn-5ilTQDnLIwRKhx8P3TUJdoPsoqnlE7lJw7nKNE/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waW50ZXJlc3RfaG9saWRheV9zZWFzb24yLnBuZw==.webp"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2025/10/ai-workflows-digiday.jpg"
               },
               {
                 "t": "p",
-                "x": "Pinterest Assistant의 새 연말 경험은 선물 아이디어, 시즌 장식 아이디어 등을 담은 전체 화면 트렌드 콘텐츠 개요를 제공한다. 소개된 각 상품은 쇼핑 가능한 Pin으로 연결된다."
-              },
-              {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/7G4sbb1B6GoM4vkVQlIun10enr8FB4CgX0_YyCKKWBI/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waW50ZXJlc3RfaG9saWRheV9zZWFzb24zLnBuZw==.webp"
+                "x": "11월 9일 New York에서 열린 LUMA Partners의 Digital Marketing Summit에서 Terry Kawaja CEO와 Conor McKenna 파트너는 AI가 두 가지 전선에서 애드테크를 바꾸고 있다고 말했다. 마케팅 기술이 광고를 고르고 전달하는 방식, 그리고 소비자가 제품을 발견하고 구매하는 방식이다."
               },
               {
                 "t": "p",
-                "x": "비교 기능은 Pinterest Assistant 사용자에게 검색어에 맞춘 상품 캐러셀을 리뷰, 가격, 재고 정보와 함께 보여준다. Compare는 모바일에서는 Pinterest Assistant와 보드를 통해, U.S. 데스크톱 사용자는 Close-up 버튼을 통해 쓸 수 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/66qCuxq8De9tphQQ5L3JBrfJ8slaTXDUMLd8EFzL9z4/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waW50ZXJlc3RfaG9saWRheV9zZWFzb240LnBuZw==.webp"
+                "x": "워크플로 자동화가 쉬워지면서 경쟁 우위는 캠페인 집행 관리에서 더 나은 실시간 의사결정으로 옮겨 간다. McKenna는 \"새로 나오는 AI 기술과 함께 워크플로라는 해자는 사라지기 시작한다\"고 말했다. Kawaja는 \"고유한 신호와 결합한 의사결정이 기업을 차별화하고, 승자와 패자를 가르며, 결국 통합을 촉진할 것\"이라고 덧붙였다."
               },
               {
                 "t": "p",
-                "x": "위시리스트 기능으로 쇼핑객은 원하는 상품 Pins를 모아 두고 가격 인하나 재입고 알림을 받을 수 있으며, 현재 U.S.와 캐나다에서 iOS 한정 테스트 중이다. Pinterest는 과거 참여 이력을 바탕으로 인기 할인 상품을 개인화된 목록으로 보여주는 Deal Boards도 선보이고 있다."
+                "x": "소비자 쪽에서는 AI 어시스턴트가 조사, 발견, 비교를 하나의 인터페이스로 모아 구매 여정을 압축할 수 있다. 연사들은 당분간 사람이 결정이 아닌 작업을 맡기는 방식으로 계속 관여할 것으로 본다. SWYM.ai의 Ravi Patel은 통합 미디어 플랫폼이 \"'무엇'과 '얼마나'는 관리할 수 있다. '어떤 노출'은 관리하지 못한다\"고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Pinterest、年末の\nギフト機能を追加",
-          "body": "Pinterestがチャットボットに人気ギフト案内や商品比較、ウィッシュリストを追加した。",
-          "mini_headline": "Pinterestがギフト機能を追加",
+          "headline": "アドテクの新たな争点は\n購買を動かすAI頭脳",
+          "body": "AIが広告配信と購買の両方を変え、アドテクは意思決定層を握る競争になった。",
+          "mini_headline": "アドテクのAI頭脳争い",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Pinterestは年末商戦に向けて、Pinterest Assistantチャットボット内のトレンドギフトガイド、商品比較ツール、ウィッシュリストなど新たなショッピング機能を追加した。"
-              },
-              {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/haUn-5ilTQDnLIwRKhx8P3TUJdoPsoqnlE7lJw7nKNE/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waW50ZXJlc3RfaG9saWRheV9zZWFzb24yLnBuZw==.webp"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2025/10/ai-workflows-digiday.jpg"
               },
               {
                 "t": "p",
-                "x": "Pinterest Assistantの新しいホリデー体験では、ギフトのアイデアや季節の飾り付けのアイデアなどを、全画面のトレンドコンテンツ概要として提供する。紹介される各商品は購入可能なPinにつながる。"
-              },
-              {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/7G4sbb1B6GoM4vkVQlIun10enr8FB4CgX0_YyCKKWBI/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waW50ZXJlc3RfaG9saWRheV9zZWFzb24zLnBuZw==.webp"
+                "x": "11月9日にNew Yorkで開かれたLUMA PartnersのDigital Marketing Summitで、CEOのTerry KawajaとパートナーのConor McKennaは、AIが二つの面でアドテクを変えていると語った。マーケティング技術が広告を選び配信する方法と、消費者が商品を見つけて購入する方法だ。"
               },
               {
                 "t": "p",
-                "x": "比較機能は、Pinterest Assistantのユーザーに、質問内容に基づく商品のカルーセルを、レビューや価格、在庫の情報とともに表示する。Compareはモバイルでは Pinterest Assistantとボードから、U.S.のデスクトップユーザーはClose-upボタンから利用できる。"
-              },
-              {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/66qCuxq8De9tphQQ5L3JBrfJ8slaTXDUMLd8EFzL9z4/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waW50ZXJlc3RfaG9saWRheV9zZWFzb240LnBuZw==.webp"
+                "x": "ワークフローの自動化が容易になるにつれ、競争優位はキャンペーン配信の管理から、より優れたリアルタイムの意思決定へと移る。McKennaは「登場しつつあるAI技術によって、ワークフローという堀は消え始める」と述べた。Kawajaは「独自のシグナルと結びついた意思決定こそが企業を差別化し、勝者と敗者を分け、最終的には統合を促す」と付け加えた。"
               },
               {
                 "t": "p",
-                "x": "ウィッシュリストでは、買い物客が理想の商品のPinsをリスト化し、値下げや再入荷の通知を受け取れる。現在、U.S.とカナダでiOS限定のテストが行われている。Pinterestはさらに、過去のエンゲージメント履歴に基づいてトレンドのお得情報を個別にまとめたDeal Boardsも展開している。"
+                "x": "消費者側では、AIアシスタントが調査、発見、比較を一つのインターフェースにまとめ、購買プロセスを短縮する可能性がある。登壇者らは、人々は当面、判断ではなくタスクを任せる形で関与し続けるとみている。SWYM.aiのRavi Patelは、統合メディアプラットフォームは「『何を』と『どれだけ』は管理できる。『どのインプレッションか』は管理できない」と語った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Pinterest助手\n新增节日礼物工具",
-          "body": "Pinterest为购物聊天机器人加入热门礼物指南，并新增商品比较工具和心愿单。",
-          "mini_headline": "Pinterest新增礼物工具",
+          "headline": "广告技术新战场：\n购买背后的AI大脑",
+          "body": "AI正同时改变广告投放与消费者购买方式，广告技术成了争夺决策层的竞赛。",
+          "mini_headline": "广告技术的AI大脑之争",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Pinterest为节日季新增了一些购物功能，包括Pinterest Assistant聊天机器人中的热门礼物指南、商品比较工具和心愿单。"
-              },
-              {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/haUn-5ilTQDnLIwRKhx8P3TUJdoPsoqnlE7lJw7nKNE/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waW50ZXJlc3RfaG9saWRheV9zZWFzb24yLnBuZw==.webp"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2025/10/ai-workflows-digiday.jpg"
               },
               {
                 "t": "p",
-                "x": "Pinterest Assistant中全新的节日体验提供全屏的热门内容概览，涵盖礼物灵感、季节性装饰创意等。每件重点展示的商品都链接到一个可购物的Pin。"
-              },
-              {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/7G4sbb1B6GoM4vkVQlIun10enr8FB4CgX0_YyCKKWBI/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waW50ZXJlc3RfaG9saWRheV9zZWFzb24zLnBuZw==.webp"
+                "x": "11月9日，在LUMA Partners于New York举办的Digital Marketing Summit上，CEO Terry Kawaja和合伙人Conor McKenna表示，AI正在从两个方面改变广告技术：营销技术如何选择和投放广告，以及消费者如何发现和购买产品。"
               },
               {
                 "t": "p",
-                "x": "比较功能会根据用户的提问，为Pinterest Assistant用户展示一组商品轮播，并附上评价以及价格和库存信息。移动端用户可通过Pinterest Assistant和图板使用Compare，U.S.的桌面端用户则可通过Close-up按钮使用。"
-              },
-              {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/66qCuxq8De9tphQQ5L3JBrfJ8slaTXDUMLd8EFzL9z4/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waW50ZXJlc3RfaG9saWRheV9zZWFzb240LnBuZw==.webp"
+                "x": "随着工作流程越来越容易自动化，竞争优势正从管理广告活动投放转向做出更好的实时决策。McKenna说：“随着新AI技术的出现，工作流程这道护城河开始消失。”Kawaja补充道：“与独特信号相结合的决策，才是让企业脱颖而出、区分赢家和输家并最终推动整合的关键。”"
               },
               {
                 "t": "p",
-                "x": "心愿单让购物者列出心仪商品的Pins，并在降价或补货时收到通知；该功能目前正在U.S.和加拿大进行有限的iOS测试。Pinterest还在推出Deal Boards，根据用户过往的互动记录，以个性化列表呈现热门优惠。"
+                "x": "在消费者端，AI助手可能将调研、发现和比较整合到单一界面中，从而压缩购买路径；演讲者预计，人们目前仍会参与其中，交出的是任务而非决定。SWYM.ai的Ravi Patel表示，统一媒体平台“可以管理‘什么’和‘多少’，但无法管理‘哪次展示’”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El asistente de Pinterest suma\nherramientas para regalos",
-          "body": "Pinterest actualizó su chatbot de compras con guías de regalos y añadió un comparador de productos y listas de deseos.",
-          "mini_headline": "Pinterest suma herramientas de regalo",
+          "headline": "La nueva pelea del ad tech es\npor la AI que decide la compra",
+          "body": "La AI influye en cómo se sirven los anuncios y en cómo compra la gente, y el ad tech pelea por la capa de decisión.",
+          "mini_headline": "La pelea por la AI del ad tech",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Pinterest añadió nuevas funciones de compra para las fiestas, entre ellas guías de regalos en tendencia dentro de su chatbot Pinterest Assistant, herramientas de comparación de productos y listas de deseos."
-              },
-              {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/haUn-5ilTQDnLIwRKhx8P3TUJdoPsoqnlE7lJw7nKNE/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waW50ZXJlc3RfaG9saWRheV9zZWFzb24yLnBuZw==.webp"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2025/10/ai-workflows-digiday.jpg"
               },
               {
                 "t": "p",
-                "x": "La nueva experiencia navideña de Pinterest Assistant ofrece resúmenes a pantalla completa de contenido en tendencia para inspirarse con regalos, ideas de decoración de temporada y más. Cada producto destacado enlaza a un Pin comprable."
-              },
-              {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/7G4sbb1B6GoM4vkVQlIun10enr8FB4CgX0_YyCKKWBI/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waW50ZXJlc3RfaG9saWRheV9zZWFzb24zLnBuZw==.webp"
+                "x": "En el Digital Marketing Summit de LUMA Partners, celebrado en New York el 9 de noviembre, el CEO Terry Kawaja y el socio Conor McKenna afirmaron que la AI está cambiando el ad tech en dos frentes: cómo la tecnología de marketing selecciona y sirve los anuncios, y cómo los consumidores descubren y compran productos."
               },
               {
                 "t": "p",
-                "x": "Una función de comparación ofrece a los usuarios de Pinterest Assistant un carrusel de productos basado en sus consultas, con reseñas e información sobre precio y disponibilidad. Compare está disponible a través de Pinterest Assistant y los tableros en móvil, y mediante el botón Close-up para usuarios de escritorio en U.S."
-              },
-              {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/66qCuxq8De9tphQQ5L3JBrfJ8slaTXDUMLd8EFzL9z4/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waW50ZXJlc3RfaG9saWRheV9zZWFzb240LnBuZw==.webp"
+                "x": "A medida que los flujos de trabajo son más fáciles de automatizar, la ventaja competitiva pasa de gestionar la entrega de campañas a tomar mejores decisiones en tiempo real. \"El foso de los flujos de trabajo empieza a evaporarse con la tecnología de AI que está saliendo\", dijo McKenna. \"La toma de decisiones unida a una señal única es lo que diferenciará a las empresas, separará a los ganadores de los perdedores y, finalmente, impulsará la consolidación\", añadió Kawaja."
               },
               {
                 "t": "p",
-                "x": "Las listas de deseos permiten a los compradores reunir los Pins de sus productos ideales y recibir avisos de bajadas de precio o reposiciones; están en una prueba limitada en iOS en U.S. y Canadá. Pinterest también está lanzando Deal Boards, que destacan listas personalizadas de ofertas en tendencia según el historial de interacción."
+                "x": "Del lado del consumidor, los asistentes de AI podrían reunir la investigación, el descubrimiento y la comparación en una sola interfaz y comprimir el recorrido de compra; los ponentes esperan que, por ahora, las personas sigan implicadas y deleguen tareas en lugar de decisiones. Ravi Patel, de SWYM.ai, dijo que las plataformas de medios unificadas \"pueden gestionar el 'qué' y el 'cuánto'. No pueden gestionar el 'qué impresión'\"."
               }
             ]
           }

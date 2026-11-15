@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-15",
+  "date": "2026-11-16",
   "section": "movies",
   "cards": [
     {
-      "id": "movies-ace-editors-avid-survey",
+      "id": "runway-genre-violence-policy",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "ACE 편집자 80% 육박\nAI 사용, Avid 조사",
-      "body": "Avid 조사에서 ACE 회원 120명 중 77.5%가 이미 AI를 쓴다고 답했다.",
-      "mini_headline": "ACE 편집자 다수\nAI 사용",
+      "headline": "Runway, 장르 폭력\n모더레이션 기준 완화",
+      "body": "Runway는 칼싸움·총격전·호러를 허용하되 실제 해를 끼치는 콘텐츠는 막는다.",
+      "mini_headline": "Runway, 장르 폭력 허용",
       "tool": "Movies",
-      "source": "Variety",
-      "url": "https://variety.com/2026/biz/news/surveyed-ace-editors-using-ai-avid-data-finds-1236947004/",
+      "source": "Runway",
+      "url": "https://runway.com/news/safety/closing-the-gap",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
@@ -19,179 +19,203 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://variety.com/wp-content/uploads/2026/11/Molly_Shock_ACE_17-1.jpg?w=1000&h=667&crop=1",
-            "cap": "Molly Shock (Avid)"
+            "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/closing-the-gap-between-policy-and-practice-1600x1067-fc002504-f4d6-44f4-a6d7-941a5b751aed.png"
           },
           {
             "t": "p",
-            "x": "할리우드에서는 AI 도구를 몰래 쓰는 전문가가 얼마나 되느냐를 두고 말이 많다. 영화 편집자들은 이제 이를 털어놓을 준비가 됐다. Avid가 회원 1,200명 규모의 American Cinema Editors 소속 120명을 조사했더니 영화 편집자의 77.5%가 이미 AI를 쓰고 있었다."
+            "x": "사람들은 이야기를 하려고 Runway를 찾는다. 좋은 이야기에는 대개 갈등과 위험, 폭력이 들어 있다. 지난 두 해 동안 Runway의 모더레이션은 실제 해를 끼치는 콘텐츠는 계속 막으면서 이런 이야기를 훨씬 폭넓게 받아들이는 쪽으로 바뀌었다."
           },
           {
             "t": "p",
-            "x": "가장 많이 쓰는 곳은 전사(60%), 오디오 정리(55%), 수백 시간 분량 푸티지에서 특정 숏 찾기(39.2%)였다. Avid의 아티스트 관계 담당 부사장 Matt Feury는 “‘언젠가 데일리를 싱크하는 게 꿈이야’라고 말하며 자라는 사람은 없다”고 했다. 편집자들이 AI에 맡기는 건 창작 결정이 아니다. “수작업을 최소화하기 위해” 쓴다."
+            "x": "두 해 전만 해도 Runway는 “피”나 “무기” 같은 고정 범주로 콘텐츠를 채점하는 서드파티 분류기에 기댔다. 판타지 전투와 실제 폭력도 가려내지 못했다. 작은 핏방울이나 가벼운 긁힌 상처까지 막힌 적이 있고, 케첩이나 붉은 물감을 피로 착각하기도 했다."
+          },
+          {
+            "t": "img",
+            "src": "https://image.mux.com/HLmH7qc2D6F02mKbyzuKSftNdKVkPrPMs21OfxVWdWZ8/thumbnail.webp",
+            "cap": "지금 정책으로는 허용되지만 예전 도구였다면 막혔을 콘텐츠 예시."
           },
           {
             "t": "p",
-            "x": "에미상 후보(Emmy-nominated) 편집자 Molly Shock은 “사라지지 않으리라는 걸 우리도 안다. 적응하지 못하면 도태된다”고 말했다. “MasterChef” 최근 시즌 편집자들은 참가자가 시간을 확인하는 장면을 몇 초 만에 찾아냈다. 반나절 걸리던 작업이 15분 만에 끝난 날도 있었다."
+            "x": "대규모 언어 모델이 발전하면서 두 가지가 바뀌었다. Runway가 자체 정책을 정해 몇 시간, 빠르면 몇 분 만에 고칠 수 있게 됐고 맥락을 더 많이 읽어 적용할 수 있게 됐다. 이제 사용자는 칼싸움, 총격전, 전투 장면, 호러를 작품에 넣을 수 있다. 반대로 보호 대상 집단을 겨냥한 폭력 콘텐츠, 폭력적 극단주의 공격의 재현, 미성년자가 관련된 성적 콘텐츠, NCII는 더 정확하게 걸러진다."
           },
           {
             "t": "p",
-            "x": "AI를 매일 또는 매주 쓰는 사람은 거의 100%가 AI를 창작 비전을 보강하는 데만 써야 한다고 답했다. 숏이나 러프 컷 조립에 AI 도움을 받고 싶다는 응답은 7.5%에 그쳤다. AI 사용을 가로막는 요인은 거의 50%가 윤리·저작권·보안 우려였다. Shock은 “AI가 어떻게 쓰일지에 관한 논의에 우리도 포함되기를 바랄 뿐”이라고 말했다."
+            "x": "한계는 여전하다. Runway에서 돌아가는 서드파티 모델은 자체 모더레이션을 따로 적용하고 LLMs도 아직 실수를 한다. 맥락이 모자라면 정당한 사용 사례가 막히기도 한다. 잘못된 판단은 오류 메시지의 “Send Feedback” 버튼으로 신고하면 된다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Nearly 80% of ACE editors\nnow use AI, Avid survey finds",
-          "body": "In an Avid survey of 120 American Cinema Editors members, 77.5% said they already use AI in their editing work.",
-          "mini_headline": "Most ACE editors\nnow use AI",
+          "headline": "Runway eases moderation\nfor genre violence",
+          "body": "Runway's moderation now permits sword fights, shootouts and horror while still blocking content that causes real harm.",
+          "mini_headline": "Runway allows genre violence",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/Molly_Shock_ACE_17-1.jpg?w=1000&h=667&crop=1",
-                "cap": "Molly Shock (Avid)"
+                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/closing-the-gap-between-policy-and-practice-1600x1067-fc002504-f4d6-44f4-a6d7-941a5b751aed.png"
               },
               {
                 "t": "p",
-                "x": "There are many whispers in Hollywood about how many professionals are secretly using AI tools. Now a cohort of film editors is ready to go public: in a survey of 120 members of the 1,200-body American Cinema Editors conducted by Avid, 77.5% of film editors are already using AI."
+                "x": "People come to Runway to tell stories, and many great stories involve conflict, danger or violence. Over the last two years, Runway's moderation has evolved to allow far more of those stories while continuing to block content that causes real harm."
               },
               {
                 "t": "p",
-                "x": "The top use cases relate to transcription (60%), audio cleanup (55%) and searching for specific shots within hundreds of hours of footage (39.2%). “Nobody grows up saying ‘I dream of sinking dailies one day,’” said Matt Feury, Avid’s vice president of artist relations. Editors use AI “to minimize the amount of manual stuff,” not for creative decisions."
+                "x": "Two years ago it relied on third-party classifiers that scored content in fixed categories like “blood” or “weapons” and couldn't tell a fantasy battle from real violence. For a time, even a small drop of blood or a minor scratch was blocked, and sometimes ketchup or red paint mistaken for blood."
+              },
+              {
+                "t": "img",
+                "src": "https://image.mux.com/HLmH7qc2D6F02mKbyzuKSftNdKVkPrPMs21OfxVWdWZ8/thumbnail.webp",
+                "cap": "Examples of content our policies allow but our earlier tools would have blocked."
               },
               {
                 "t": "p",
-                "x": "Emmy-nominated editor Molly Shock said: “We do recognize it’s not going away. You adapt or die.” On a recent season of “MasterChef,” editors located a contestant’s time-check shot within seconds; some days, half a day’s work has been reduced to 15 minutes."
+                "x": "Advances in large language models changed two things: Runway can set its own policies and update them in hours or even minutes, and apply them with more context. That lets users incorporate sword fights, shootouts, battle scenes and horror, while violent content directed at protected groups, recreations of violent extremist attacks, sexualized content involving minors and NCII are blocked more accurately."
               },
               {
                 "t": "p",
-                "x": "Nearly 100% of daily or weekly users say AI should only enhance the creative vision. Only 7.5% wanted AI to help assemble shots or rough cuts, and ethical, copyright and security concerns were nearly 50% of the barrier to using AI. “We just want to make sure we’re included in the conversation of how it’s going to be used,” Shock said."
+                "x": "Limitations remain: third-party models on Runway apply their own moderation, LLMs still make mistakes, and missing context means a valid use case is sometimes blocked. Users can flag wrong decisions with the “Send Feedback” button on the error message."
               }
             ]
           }
         },
         "ko": {
-          "headline": "ACE 편집자 80% 육박\nAI 사용, Avid 조사",
-          "body": "Avid 조사에서 ACE 회원 120명 중 77.5%가 이미 AI를 쓴다고 답했다.",
-          "mini_headline": "ACE 편집자 다수\nAI 사용",
+          "headline": "Runway, 장르 폭력\n모더레이션 기준 완화",
+          "body": "Runway는 칼싸움·총격전·호러를 허용하되 실제 해를 끼치는 콘텐츠는 막는다.",
+          "mini_headline": "Runway, 장르 폭력 허용",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/Molly_Shock_ACE_17-1.jpg?w=1000&h=667&crop=1",
-                "cap": "Molly Shock (Avid)"
+                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/closing-the-gap-between-policy-and-practice-1600x1067-fc002504-f4d6-44f4-a6d7-941a5b751aed.png"
               },
               {
                 "t": "p",
-                "x": "할리우드에서는 AI 도구를 몰래 쓰는 전문가가 얼마나 되느냐를 두고 말이 많다. 영화 편집자들은 이제 이를 털어놓을 준비가 됐다. Avid가 회원 1,200명 규모의 American Cinema Editors 소속 120명을 조사했더니 영화 편집자의 77.5%가 이미 AI를 쓰고 있었다."
+                "x": "사람들은 이야기를 하려고 Runway를 찾는다. 좋은 이야기에는 대개 갈등과 위험, 폭력이 들어 있다. 지난 두 해 동안 Runway의 모더레이션은 실제 해를 끼치는 콘텐츠는 계속 막으면서 이런 이야기를 훨씬 폭넓게 받아들이는 쪽으로 바뀌었다."
               },
               {
                 "t": "p",
-                "x": "가장 많이 쓰는 곳은 전사(60%), 오디오 정리(55%), 수백 시간 분량 푸티지에서 특정 숏 찾기(39.2%)였다. Avid의 아티스트 관계 담당 부사장 Matt Feury는 “‘언젠가 데일리를 싱크하는 게 꿈이야’라고 말하며 자라는 사람은 없다”고 했다. 편집자들이 AI에 맡기는 건 창작 결정이 아니다. “수작업을 최소화하기 위해” 쓴다."
+                "x": "두 해 전만 해도 Runway는 “피”나 “무기” 같은 고정 범주로 콘텐츠를 채점하는 서드파티 분류기에 기댔다. 판타지 전투와 실제 폭력도 가려내지 못했다. 작은 핏방울이나 가벼운 긁힌 상처까지 막힌 적이 있고, 케첩이나 붉은 물감을 피로 착각하기도 했다."
+              },
+              {
+                "t": "img",
+                "src": "https://image.mux.com/HLmH7qc2D6F02mKbyzuKSftNdKVkPrPMs21OfxVWdWZ8/thumbnail.webp",
+                "cap": "지금 정책으로는 허용되지만 예전 도구였다면 막혔을 콘텐츠 예시."
               },
               {
                 "t": "p",
-                "x": "에미상 후보(Emmy-nominated) 편집자 Molly Shock은 “사라지지 않으리라는 걸 우리도 안다. 적응하지 못하면 도태된다”고 말했다. “MasterChef” 최근 시즌 편집자들은 참가자가 시간을 확인하는 장면을 몇 초 만에 찾아냈다. 반나절 걸리던 작업이 15분 만에 끝난 날도 있었다."
+                "x": "대규모 언어 모델이 발전하면서 두 가지가 바뀌었다. Runway가 자체 정책을 정해 몇 시간, 빠르면 몇 분 만에 고칠 수 있게 됐고 맥락을 더 많이 읽어 적용할 수 있게 됐다. 이제 사용자는 칼싸움, 총격전, 전투 장면, 호러를 작품에 넣을 수 있다. 반대로 보호 대상 집단을 겨냥한 폭력 콘텐츠, 폭력적 극단주의 공격의 재현, 미성년자가 관련된 성적 콘텐츠, NCII는 더 정확하게 걸러진다."
               },
               {
                 "t": "p",
-                "x": "AI를 매일 또는 매주 쓰는 사람은 거의 100%가 AI를 창작 비전을 보강하는 데만 써야 한다고 답했다. 숏이나 러프 컷 조립에 AI 도움을 받고 싶다는 응답은 7.5%에 그쳤다. AI 사용을 가로막는 요인은 거의 50%가 윤리·저작권·보안 우려였다. Shock은 “AI가 어떻게 쓰일지에 관한 논의에 우리도 포함되기를 바랄 뿐”이라고 말했다."
+                "x": "한계는 여전하다. Runway에서 돌아가는 서드파티 모델은 자체 모더레이션을 따로 적용하고 LLMs도 아직 실수를 한다. 맥락이 모자라면 정당한 사용 사례가 막히기도 한다. 잘못된 판단은 오류 메시지의 “Send Feedback” 버튼으로 신고하면 된다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ACE編集者の80%近くが\nAI利用、Avid調査",
-          "body": "Avidの調査でACE会員120人のうち77.5%が既に編集でAIを使っていると答えた。",
-          "mini_headline": "ACE編集者の多くが\nAIを利用",
+          "headline": "Runway、ジャンル\n暴力の規制を緩和",
+          "body": "Runwayは剣戟や銃撃戦、ホラーを認めつつ、実害のある内容は引き続き遮断する。",
+          "mini_headline": "Runway、ジャンル暴力を容認",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/Molly_Shock_ACE_17-1.jpg?w=1000&h=667&crop=1",
-                "cap": "Molly Shock (Avid)"
+                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/closing-the-gap-between-policy-and-practice-1600x1067-fc002504-f4d6-44f4-a6d7-941a5b751aed.png"
               },
               {
                 "t": "p",
-                "x": "ハリウッドでは、どれほど多くのプロが密かにAIツールを使っているのか、さまざまな噂がささやかれている。いま、映画編集者の一団がそれを公にする用意を整えた。Avidが会員1,200人のAmerican Cinema Editorsのうち120人を対象に行った調査では、映画編集者の77.5%がすでにAIを使っている。"
+                "x": "人々は物語を語るためにRunwayを訪れ、優れた物語の多くは対立や危険、暴力を含む。この二年間でRunwayのモデレーションは、実害をもたらすコンテンツを遮断し続けながら、そうした物語をはるかに多く認める方向へ進化してきた。"
               },
               {
                 "t": "p",
-                "x": "主な用途は文字起こし（60%）、音声のクリーンアップ（55%）、数百時間の素材から特定のショットを探す作業（39.2%）だ。Avidのアーティストリレーション担当副社長Matt Feuryは「『いつかデイリーを同期するのが夢だ』と言って育つ人はいない」と語る。編集者がAIを使うのは創作上の判断のためではなく、「手作業を最小限にするため」だ。"
+                "x": "二年前は、「血」や「武器」といった固定カテゴリーでコンテンツを採点するサードパーティーの分類器に頼っており、ファンタジーの戦闘と現実の暴力を区別できなかった。一時は小さな血のしずくや軽いかすり傷さえ遮断され、ケチャップや赤い絵の具が血と誤認されることもあった。"
+              },
+              {
+                "t": "img",
+                "src": "https://image.mux.com/HLmH7qc2D6F02mKbyzuKSftNdKVkPrPMs21OfxVWdWZ8/thumbnail.webp",
+                "cap": "現在のポリシーでは認められるが、以前のツールなら遮断されていたコンテンツの例。"
               },
               {
                 "t": "p",
-                "x": "エミー賞ノミネート（Emmy-nominated）の編集者Molly Shockは「なくならないことは私たちも分かっている。適応するか、消えるかだ」と述べた。「MasterChef」の最近のシーズンでは、編集者が出場者のタイムチェックのショットを数秒で見つけ出し、半日かかっていた作業が15分に短縮された日もあった。"
+                "x": "大規模言語モデルの進歩は二つのことを変えた。Runwayは自社のポリシーを定めて数時間、あるいは数分で更新でき、より多くの文脈を踏まえて適用できるようになった。これによりユーザーは剣戟、銃撃戦、戦闘シーン、ホラーを取り入れられる一方、保護対象の集団に向けた暴力的コンテンツ、暴力的過激主義による攻撃の再現、未成年者が関わる性的コンテンツ、NCIIはより正確に遮断される。"
               },
               {
                 "t": "p",
-                "x": "AIを毎日または毎週使うユーザーのほぼ100%が、AIは創作上のビジョンを高めるためだけに使うべきだと答えた。ショットやラフカットの組み立てにAIの助けを望んだのはわずか7.5%で、AI利用の障壁のほぼ50%は倫理・著作権・セキュリティへの懸念だった。「AIがどう使われるのかという議論に、私たちも加わっていたいだけだ」とShockは語った。"
+                "x": "限界も残る。Runway上のサードパーティー製モデルは独自のモデレーションを適用し、LLMsは今も誤りを犯し、文脈が欠けると正当な用途が遮断されることもある。ユーザーはエラーメッセージの「Send Feedback」ボタンから誤った判断を報告できる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "近80% ACE剪辑师\n已用AI，Avid调查",
-          "body": "Avid对ACE的120名会员调查显示，77.5%已在剪辑工作中使用AI。",
-          "mini_headline": "多数ACE剪辑师\n已用AI",
+          "headline": "Runway放宽类型片\n暴力内容审核",
+          "body": "Runway的审核现允许剑斗、枪战和恐怖内容，同时继续拦截造成真实伤害的内容。",
+          "mini_headline": "Runway允许类型片暴力",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/Molly_Shock_ACE_17-1.jpg?w=1000&h=667&crop=1",
-                "cap": "Molly Shock (Avid)"
+                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/closing-the-gap-between-policy-and-practice-1600x1067-fc002504-f4d6-44f4-a6d7-941a5b751aed.png"
               },
               {
                 "t": "p",
-                "x": "好莱坞一直流传着各种说法，猜测有多少专业人士在偷偷使用AI工具。如今，一批电影剪辑师准备公开表态：Avid对拥有1,200名会员的American Cinema Editors中的120名会员进行了调查，77.5%的电影剪辑师已经在使用AI。"
+                "x": "人们来到Runway讲故事，而许多好故事都涉及冲突、危险或暴力。过去两年里，Runway的审核机制不断演进，在继续拦截造成真实伤害的内容的同时，允许了多得多的此类故事。"
               },
               {
                 "t": "p",
-                "x": "最主要的用途是转录（60%）、音频清理（55%），以及在数百小时素材中查找特定镜头（39.2%）。Avid艺术家关系副总裁Matt Feury说：“没有人从小就说‘我梦想有一天去同步样片’。”剪辑师使用AI是“为了尽量减少手工活”，而不是用于创意决策。"
+                "x": "两年前，它依赖第三方分类器，按“血腥”或“武器”等固定类别给内容打分，无法区分奇幻战斗与真实暴力。有一段时间，哪怕一小滴血或轻微擦伤都会被拦截，有时番茄酱或红色颜料也会被误认为血。"
+              },
+              {
+                "t": "img",
+                "src": "https://image.mux.com/HLmH7qc2D6F02mKbyzuKSftNdKVkPrPMs21OfxVWdWZ8/thumbnail.webp",
+                "cap": "我们的政策允许、但早期工具会拦截的内容示例。"
               },
               {
                 "t": "p",
-                "x": "获艾美奖提名（Emmy-nominated）的剪辑师Molly Shock说：“我们确实认识到它不会消失。要么适应，要么淘汰。”在《MasterChef》最近一季中，剪辑师几秒钟内就找到了一名参赛者的计时镜头；有些日子，半天的工作缩短到了15分钟。"
+                "x": "大语言模型的进步改变了两件事：Runway可以制定自己的政策，并在几小时甚至几分钟内更新，还能结合更多上下文加以执行。用户因此可以加入剑斗、枪战、战斗场面和恐怖元素，而针对受保护群体的暴力内容、暴力极端主义袭击的再现、涉及未成年人的色情内容以及NCII则会被更准确地拦截。"
               },
               {
                 "t": "p",
-                "x": "在每天或每周使用AI的用户中，近100%认为AI只应用于增强创意构想。只有7.5%希望AI帮助拼接镜头或粗剪，而在使用AI的障碍中，伦理、版权和安全方面的担忧占了近50%。Shock说：“我们只是希望确保自己能参与到关于AI将如何使用的讨论中。”"
+                "x": "局限依然存在：Runway上的第三方模型采用各自的审核机制，LLMs仍会出错，缺少上下文也会导致合理用例有时被拦截。用户可以通过错误提示中的“Send Feedback”按钮反馈错误判断。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Casi el 80% de editores de ACE\nya usa AI, según sondeo de Avid",
-          "body": "En una encuesta de Avid a 120 miembros de American Cinema Editors, el 77.5% dijo que ya usa AI al editar.",
-          "mini_headline": "La mayoría de editores de ACE\nya usa AI",
+          "headline": "Runway relaja su moderación\npara la violencia de ficción",
+          "body": "Runway ahora permite duelos de espadas, tiroteos y terror, pero sigue bloqueando el contenido que causa daño real.",
+          "mini_headline": "Runway admite la violencia de ficción",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/Molly_Shock_ACE_17-1.jpg?w=1000&h=667&crop=1",
-                "cap": "Molly Shock (Avid)"
+                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/closing-the-gap-between-policy-and-practice-1600x1067-fc002504-f4d6-44f4-a6d7-941a5b751aed.png"
               },
               {
                 "t": "p",
-                "x": "En Hollywood circulan muchos rumores sobre cuántos profesionales usan herramientas de AI en secreto. Ahora un grupo de editores de cine está dispuesto a hablar en público: en una encuesta de Avid a 120 miembros de American Cinema Editors, que reúne a 1,200 socios, el 77.5% de los editores de cine ya usa AI."
+                "x": "La gente acude a Runway para contar historias, y muchas grandes historias implican conflicto, peligro o violencia. En los últimos dos años, la moderación de Runway ha evolucionado para permitir muchas más de esas historias sin dejar de bloquear el contenido que causa daño real."
               },
               {
                 "t": "p",
-                "x": "Los principales usos son la transcripción (60%), la limpieza de audio (55%) y la búsqueda de planos concretos entre cientos de horas de material (39.2%). “Nadie crece diciendo ‘sueño con sincronizar copiones algún día’”, dijo Matt Feury, vicepresidente de relaciones con artistas de Avid. Los editores usan AI “para minimizar la cantidad de trabajo manual”, no para decisiones creativas."
+                "x": "Hace dos años dependía de clasificadores de terceros que puntuaban el contenido en categorías fijas como “sangre” o “armas” y no distinguían una batalla fantástica de la violencia real. Durante un tiempo se bloqueaba incluso una pequeña gota de sangre o un rasguño leve, y a veces el kétchup o la pintura roja se confundían con sangre."
+              },
+              {
+                "t": "img",
+                "src": "https://image.mux.com/HLmH7qc2D6F02mKbyzuKSftNdKVkPrPMs21OfxVWdWZ8/thumbnail.webp",
+                "cap": "Ejemplos de contenido que nuestras políticas permiten pero que nuestras herramientas anteriores habrían bloqueado."
               },
               {
                 "t": "p",
-                "x": "La editora Molly Shock, nominada al Emmy (Emmy-nominated), dijo: “Reconocemos que no va a desaparecer. Te adaptas o mueres”. En una temporada reciente de “MasterChef”, los editores localizaron en segundos un plano de control de tiempo de un concursante; algunos días, medio día de trabajo se redujo a 15 minutos."
+                "x": "Los avances en los grandes modelos de lenguaje cambiaron dos cosas: Runway puede fijar sus propias políticas y actualizarlas en horas o incluso minutos, y aplicarlas con más contexto. Eso permite a los usuarios incluir duelos de espadas, tiroteos, escenas de batalla y terror, mientras que el contenido violento dirigido a grupos protegidos, las recreaciones de ataques extremistas violentos, el contenido sexualizado con menores y el NCII se bloquean con más precisión."
               },
               {
                 "t": "p",
-                "x": "Casi el 100% de quienes la usan a diario o cada semana cree que la AI solo debe potenciar la visión creativa. Solo el 7.5% quería que la AI ayudara a montar planos o primeros cortes, y las preocupaciones éticas, de derechos de autor y de seguridad suponían casi el 50% de las barreras para usar AI. “Solo queremos asegurarnos de que se nos incluya en la conversación sobre cómo se va a usar”, dijo Shock."
+                "x": "Persisten limitaciones: los modelos de terceros en Runway aplican su propia moderación, los LLMs aún cometen errores y la falta de contexto hace que a veces se bloquee un uso legítimo. Los usuarios pueden señalar decisiones erróneas con el botón “Send Feedback” del mensaje de error."
               }
             ]
           }
@@ -199,125 +223,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "ACE 편집자 80% 육박\nAI 사용, Avid 조사",
-          "body": "Avid 조사에서 ACE 회원 120명 중 77.5%가 이미 AI를 쓴다고 답했다.",
-          "mini_headline": "ACE 편집자 다수\nAI 사용",
+          "headline": "Runway, 장르 폭력\n모더레이션 기준 완화",
+          "body": "Runway는 칼싸움·총격전·호러는 허용하되 실제 해를 끼치는 콘텐츠는 막는다.",
+          "mini_headline": "Runway, 장르 폭력 허용",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/Molly_Shock_ACE_17-1.jpg?w=1000&h=667&crop=1",
-                "cap": "Molly Shock (Avid)"
+                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/closing-the-gap-between-policy-and-practice-1600x1067-fc002504-f4d6-44f4-a6d7-941a5b751aed.png"
               },
               {
                 "t": "p",
-                "x": "할리우드에서는 얼마나 많은 전문가가 몰래 AI 도구를 쓰고 있는지를 두고 말이 많다. 이제 영화 편집자들이 이를 공개적으로 밝힐 준비가 됐다. Avid가 회원 1,200명 규모의 American Cinema Editors 소속 120명을 조사한 결과, 영화 편집자의 77.5%가 이미 AI를 쓰고 있었다."
+                "x": "사람들은 이야기를 하려고 Runway를 찾고, 훌륭한 이야기 상당수에는 갈등과 위험, 폭력이 담겨 있다. 지난 두 해 동안 Runway의 모더레이션은 실제 해를 끼치는 콘텐츠는 계속 막으면서 이런 이야기를 훨씬 더 많이 허용하는 방향으로 발전했다."
               },
               {
                 "t": "p",
-                "x": "주요 활용 분야는 전사(60%), 오디오 정리(55%), 수백 시간 분량의 푸티지에서 특정 숏 찾기(39.2%)였다. Avid의 아티스트 관계 담당 부사장 Matt Feury는 “‘언젠가 데일리를 싱크하는 게 꿈이야’라고 말하며 자라는 사람은 없다”고 말했다. 편집자들은 창작 결정이 아니라 “수작업을 최소화하기 위해” AI를 쓴다."
+                "x": "두 해 전만 해도 Runway는 “피”나 “무기” 같은 고정된 범주로 콘텐츠를 채점하는 서드파티 분류기에 의존했고, 판타지 전투와 실제 폭력을 구분하지 못했다. 한때는 작은 핏방울이나 가벼운 긁힌 상처까지 차단됐고, 케첩이나 붉은 물감을 피로 오인하는 일도 있었다."
+              },
+              {
+                "t": "img",
+                "src": "https://image.mux.com/HLmH7qc2D6F02mKbyzuKSftNdKVkPrPMs21OfxVWdWZ8/thumbnail.webp",
+                "cap": "현재 정책은 허용하지만 이전 도구였다면 차단했을 콘텐츠의 예시."
               },
               {
                 "t": "p",
-                "x": "에미상 후보(Emmy-nominated) 편집자 Molly Shock은 “사라지지 않으리라는 걸 우리도 안다. 적응하지 못하면 도태된다”고 말했다. “MasterChef” 최근 시즌에서 편집자들은 참가자의 시간 확인 장면을 몇 초 만에 찾아냈고, 어떤 날은 반나절 걸리던 작업이 15분으로 줄었다."
+                "x": "대규모 언어 모델의 발전은 두 가지를 바꿨다. Runway가 자체 정책을 정하고 몇 시간, 심지어 몇 분 만에 갱신할 수 있게 됐고, 더 많은 맥락을 반영해 적용할 수 있게 됐다. 덕분에 사용자는 칼싸움, 총격전, 전투 장면, 호러를 작품에 담을 수 있고, 보호 대상 집단을 겨냥한 폭력 콘텐츠, 폭력적 극단주의 공격의 재현, 미성년자가 관련된 성적 콘텐츠, NCII는 더 정확하게 걸러진다."
               },
               {
                 "t": "p",
-                "x": "AI를 매일 또는 매주 쓰는 사용자의 거의 100%가 AI는 창작 비전을 보강하는 데만 써야 한다고 답했다. AI가 숏이나 러프 컷 조립을 돕기를 원한 비율은 7.5%에 그쳤고, AI 사용을 가로막는 요인의 거의 50%는 윤리·저작권·보안 우려였다. Shock은 “AI가 어떻게 쓰일지에 관한 논의에 우리도 포함되기를 바랄 뿐”이라고 말했다."
+                "x": "한계도 남아 있다. Runway에서 쓰는 서드파티 모델은 자체 모더레이션을 적용하고, LLMs는 여전히 실수를 하며, 맥락이 부족하면 정당한 사용 사례가 차단되기도 한다. 사용자는 오류 메시지의 “Send Feedback” 버튼으로 잘못된 판단을 신고할 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ACE編集者の80%近くが\nAI利用、Avid調査",
-          "body": "Avidの調査でACE会員120人のうち77.5%が既に編集でAIを使っていると答えた。",
-          "mini_headline": "ACE編集者の多くが\nAIを利用",
+          "headline": "Runway、ジャンル\n暴力の規制を緩和",
+          "body": "Runwayは剣戟や銃撃戦、ホラーを認めつつ、実害のある内容は引き続き遮断する。",
+          "mini_headline": "Runway、ジャンル暴力を容認",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/Molly_Shock_ACE_17-1.jpg?w=1000&h=667&crop=1",
-                "cap": "Molly Shock (Avid)"
+                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/closing-the-gap-between-policy-and-practice-1600x1067-fc002504-f4d6-44f4-a6d7-941a5b751aed.png"
               },
               {
                 "t": "p",
-                "x": "ハリウッドでは、どれほど多くのプロが密かにAIツールを使っているのか、さまざまな噂がささやかれている。いま、映画編集者の一団がそれを公にする用意を整えた。Avidが会員1,200人のAmerican Cinema Editorsのうち120人を対象に行った調査では、映画編集者の77.5%がすでにAIを使っている。"
+                "x": "人々は物語を語るためにRunwayを訪れ、優れた物語の多くは対立や危険、暴力を含む。この二年間でRunwayのモデレーションは、実害をもたらすコンテンツを遮断し続けながら、そうした物語をはるかに多く認める方向へ進化してきた。"
               },
               {
                 "t": "p",
-                "x": "主な用途は文字起こし（60%）、音声のクリーンアップ（55%）、数百時間の素材から特定のショットを探す作業（39.2%）だ。Avidのアーティストリレーション担当副社長Matt Feuryは「『いつかデイリーを同期するのが夢だ』と言って育つ人はいない」と語る。編集者がAIを使うのは創作上の判断のためではなく、「手作業を最小限にするため」だ。"
+                "x": "二年前は、「血」や「武器」といった固定カテゴリーでコンテンツを採点するサードパーティーの分類器に頼っており、ファンタジーの戦闘と現実の暴力を区別できなかった。一時は小さな血のしずくや軽いかすり傷さえ遮断され、ケチャップや赤い絵の具が血と誤認されることもあった。"
+              },
+              {
+                "t": "img",
+                "src": "https://image.mux.com/HLmH7qc2D6F02mKbyzuKSftNdKVkPrPMs21OfxVWdWZ8/thumbnail.webp",
+                "cap": "現在のポリシーでは認められるが、以前のツールなら遮断されていたコンテンツの例。"
               },
               {
                 "t": "p",
-                "x": "エミー賞ノミネート（Emmy-nominated）の編集者Molly Shockは「なくならないことは私たちも分かっている。適応するか、消えるかだ」と述べた。「MasterChef」の最近のシーズンでは、編集者が出場者のタイムチェックのショットを数秒で見つけ出し、半日かかっていた作業が15分に短縮された日もあった。"
+                "x": "大規模言語モデルの進歩は二つのことを変えた。Runwayは自社のポリシーを定めて数時間、あるいは数分で更新でき、より多くの文脈を踏まえて適用できるようになった。これによりユーザーは剣戟、銃撃戦、戦闘シーン、ホラーを取り入れられる一方、保護対象の集団に向けた暴力的コンテンツ、暴力的過激主義による攻撃の再現、未成年者が関わる性的コンテンツ、NCIIはより正確に遮断される。"
               },
               {
                 "t": "p",
-                "x": "AIを毎日または毎週使うユーザーのほぼ100%が、AIは創作上のビジョンを高めるためだけに使うべきだと答えた。ショットやラフカットの組み立てにAIの助けを望んだのはわずか7.5%で、AI利用の障壁のほぼ50%は倫理・著作権・セキュリティへの懸念だった。「AIがどう使われるのかという議論に、私たちも加わっていたいだけだ」とShockは語った。"
+                "x": "限界も残る。Runway上のサードパーティー製モデルは独自のモデレーションを適用し、LLMsは今も誤りを犯し、文脈が欠けると正当な用途が遮断されることもある。ユーザーはエラーメッセージの「Send Feedback」ボタンから誤った判断を報告できる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "近80% ACE剪辑师\n已用AI，Avid调查",
-          "body": "Avid对ACE的120名会员调查显示，77.5%已在剪辑工作中使用AI。",
-          "mini_headline": "多数ACE剪辑师\n已用AI",
+          "headline": "Runway放宽类型片\n暴力内容审核",
+          "body": "Runway的审核现允许剑斗、枪战和恐怖内容，同时继续拦截造成真实伤害的内容。",
+          "mini_headline": "Runway允许类型片暴力",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/Molly_Shock_ACE_17-1.jpg?w=1000&h=667&crop=1",
-                "cap": "Molly Shock (Avid)"
+                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/closing-the-gap-between-policy-and-practice-1600x1067-fc002504-f4d6-44f4-a6d7-941a5b751aed.png"
               },
               {
                 "t": "p",
-                "x": "好莱坞一直流传着各种说法，猜测有多少专业人士在偷偷使用AI工具。如今，一批电影剪辑师准备公开表态：Avid对拥有1,200名会员的American Cinema Editors中的120名会员进行了调查，77.5%的电影剪辑师已经在使用AI。"
+                "x": "人们来到Runway讲故事，而许多好故事都涉及冲突、危险或暴力。过去两年里，Runway的审核机制不断演进，在继续拦截造成真实伤害的内容的同时，允许了多得多的此类故事。"
               },
               {
                 "t": "p",
-                "x": "最主要的用途是转录（60%）、音频清理（55%），以及在数百小时素材中查找特定镜头（39.2%）。Avid艺术家关系副总裁Matt Feury说：“没有人从小就说‘我梦想有一天去同步样片’。”剪辑师使用AI是“为了尽量减少手工活”，而不是用于创意决策。"
+                "x": "两年前，它依赖第三方分类器，按“血腥”或“武器”等固定类别给内容打分，无法区分奇幻战斗与真实暴力。有一段时间，哪怕一小滴血或轻微擦伤都会被拦截，有时番茄酱或红色颜料也会被误认为血。"
+              },
+              {
+                "t": "img",
+                "src": "https://image.mux.com/HLmH7qc2D6F02mKbyzuKSftNdKVkPrPMs21OfxVWdWZ8/thumbnail.webp",
+                "cap": "我们的政策允许、但早期工具会拦截的内容示例。"
               },
               {
                 "t": "p",
-                "x": "获艾美奖提名（Emmy-nominated）的剪辑师Molly Shock说：“我们确实认识到它不会消失。要么适应，要么淘汰。”在《MasterChef》最近一季中，剪辑师几秒钟内就找到了一名参赛者的计时镜头；有些日子，半天的工作缩短到了15分钟。"
+                "x": "大语言模型的进步改变了两件事：Runway可以制定自己的政策，并在几小时甚至几分钟内更新，还能结合更多上下文加以执行。用户因此可以加入剑斗、枪战、战斗场面和恐怖元素，而针对受保护群体的暴力内容、暴力极端主义袭击的再现、涉及未成年人的色情内容以及NCII则会被更准确地拦截。"
               },
               {
                 "t": "p",
-                "x": "在每天或每周使用AI的用户中，近100%认为AI只应用于增强创意构想。只有7.5%希望AI帮助拼接镜头或粗剪，而在使用AI的障碍中，伦理、版权和安全方面的担忧占了近50%。Shock说：“我们只是希望确保自己能参与到关于AI将如何使用的讨论中。”"
+                "x": "局限依然存在：Runway上的第三方模型采用各自的审核机制，LLMs仍会出错，缺少上下文也会导致合理用例有时被拦截。用户可以通过错误提示中的“Send Feedback”按钮反馈错误判断。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Casi el 80% de editores de ACE\nya usa AI, según sondeo de Avid",
-          "body": "En una encuesta de Avid a 120 miembros de American Cinema Editors, el 77.5% dijo que ya usa AI al editar.",
-          "mini_headline": "La mayoría de editores de ACE\nya usa AI",
+          "headline": "Runway relaja su moderación\npara la violencia de ficción",
+          "body": "Runway ahora permite duelos de espadas, tiroteos y terror, pero sigue bloqueando el contenido que causa daño real.",
+          "mini_headline": "Runway admite la violencia de ficción",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/Molly_Shock_ACE_17-1.jpg?w=1000&h=667&crop=1",
-                "cap": "Molly Shock (Avid)"
+                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/closing-the-gap-between-policy-and-practice-1600x1067-fc002504-f4d6-44f4-a6d7-941a5b751aed.png"
               },
               {
                 "t": "p",
-                "x": "En Hollywood circulan muchos rumores sobre cuántos profesionales usan herramientas de AI en secreto. Ahora un grupo de editores de cine está dispuesto a hablar en público: en una encuesta de Avid a 120 miembros de American Cinema Editors, que reúne a 1,200 socios, el 77.5% de los editores de cine ya usa AI."
+                "x": "La gente acude a Runway para contar historias, y muchas grandes historias implican conflicto, peligro o violencia. En los últimos dos años, la moderación de Runway ha evolucionado para permitir muchas más de esas historias sin dejar de bloquear el contenido que causa daño real."
               },
               {
                 "t": "p",
-                "x": "Los principales usos son la transcripción (60%), la limpieza de audio (55%) y la búsqueda de planos concretos entre cientos de horas de material (39.2%). “Nadie crece diciendo ‘sueño con sincronizar copiones algún día’”, dijo Matt Feury, vicepresidente de relaciones con artistas de Avid. Los editores usan AI “para minimizar la cantidad de trabajo manual”, no para decisiones creativas."
+                "x": "Hace dos años dependía de clasificadores de terceros que puntuaban el contenido en categorías fijas como “sangre” o “armas” y no distinguían una batalla fantástica de la violencia real. Durante un tiempo se bloqueaba incluso una pequeña gota de sangre o un rasguño leve, y a veces el kétchup o la pintura roja se confundían con sangre."
+              },
+              {
+                "t": "img",
+                "src": "https://image.mux.com/HLmH7qc2D6F02mKbyzuKSftNdKVkPrPMs21OfxVWdWZ8/thumbnail.webp",
+                "cap": "Ejemplos de contenido que nuestras políticas permiten pero que nuestras herramientas anteriores habrían bloqueado."
               },
               {
                 "t": "p",
-                "x": "La editora Molly Shock, nominada al Emmy (Emmy-nominated), dijo: “Reconocemos que no va a desaparecer. Te adaptas o mueres”. En una temporada reciente de “MasterChef”, los editores localizaron en segundos un plano de control de tiempo de un concursante; algunos días, medio día de trabajo se redujo a 15 minutos."
+                "x": "Los avances en los grandes modelos de lenguaje cambiaron dos cosas: Runway puede fijar sus propias políticas y actualizarlas en horas o incluso minutos, y aplicarlas con más contexto. Eso permite a los usuarios incluir duelos de espadas, tiroteos, escenas de batalla y terror, mientras que el contenido violento dirigido a grupos protegidos, las recreaciones de ataques extremistas violentos, el contenido sexualizado con menores y el NCII se bloquean con más precisión."
               },
               {
                 "t": "p",
-                "x": "Casi el 100% de quienes la usan a diario o cada semana cree que la AI solo debe potenciar la visión creativa. Solo el 7.5% quería que la AI ayudara a montar planos o primeros cortes, y las preocupaciones éticas, de derechos de autor y de seguridad suponían casi el 50% de las barreras para usar AI. “Solo queremos asegurarnos de que se nos incluya en la conversación sobre cómo se va a usar”, dijo Shock."
+                "x": "Persisten limitaciones: los modelos de terceros en Runway aplican su propia moderación, los LLMs aún cometen errores y la falta de contexto hace que a veces se bloquee un uso legítimo. Los usuarios pueden señalar decisiones erróneas con el botón “Send Feedback” del mensaje de error."
               }
             ]
           }
@@ -325,201 +365,219 @@
       }
     },
     {
-      "id": "4by4-pixell-pro-macos",
+      "id": "kling4-seedance-test",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "4BY4 AI PIXELL\nMac·Resolve 지원",
-      "body": "4BY4가 Inter BEE에서 macOS용 AI PIXELL PRO를 선보인다.",
-      "mini_headline": "AI PIXELL PRO\nMac 출시",
+      "headline": "Kling 4.0, 맞수는\nSeedance 2.5",
+      "body": "Curious Refuge가 Kling 4.0과 Seedance 2.5를 맞붙였다.",
+      "mini_headline": "Kling 4.0 vs Seedance 2.5",
       "tool": "Movies",
-      "source": "K-EnterTech Hub",
-      "url": "https://www.kentertechhub.com/4by4-ai-pixell-macos-inter-bee-2026-en/",
+      "source": "Curious Refuge (YouTube)",
+      "url": "https://www.youtube.com/watch?v=sh4bkvZQ1WE",
       "accent": "#f5a623",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "video",
+            "yt": "sh4bkvZQ1WE"
+          },
+          {
+            "t": "p",
+            "x": "“We Tested Kling 4.0 Against Seedance 2.5, and It’s Not Close”(Kling 4.0과 Seedance 2.5를 비교해 보니 상대가 되지 않았다). 최근 온라인에서는 Kling 4.0이 화제였고, ByteDance의 Seedance 2.5보다 낫다는 말까지 돌았다. Curious Refuge가 이 주장을 직접 따져 봤다."
+          },
+          {
+            "t": "p",
+            "x": "Kuaishou의 Kling 4.0은 1080p로 최대 30초짜리 영상을 만든다. 두 모델을 나란히 놓고 돌린 테스트는 여섯 가지다. 캐릭터 레퍼런스를 넣은 사막 액션 장면, 사무라이와 로마 전사의 결투, 드론 궤도 카메라 레퍼런스, 말하는 원숭이가 나오는 New York 택시 대화, text-to-video 하이킹 숏, 애니메이션 스타일 레퍼런스다."
+          },
+          {
             "t": "img",
-            "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/4hmeh8_202611120716.png",
-            "cap": "4BY4, Mac·DaVinci Resolve·Nuke에 AI 영상 화질 개선 도입"
+            "src": "https://images.squarespace-cdn.com/content/v1/55bd7005e4b06da83f63b8d9/937c37be-3180-4f94-a605-16dbf03f02b7/Test+04+-+StyleReference+-+REFERENCE.png",
+            "cap": "스타일 레퍼런스 이미지"
           },
           {
             "t": "p",
-            "x": "한국 기업 4BY4는 Inter BEE 2026(11월 18–20일, 지바 Makuhari Messe; Hall 6, 부스 6110)에서 11월 18일 macOS용 AI PIXELL PRO와 AI PIXELL PLUGIN을 공식 공개한다고 밝혔다. 노리는 지점은 생성 영상과 기존 영상을 실제로 납품할 수 있는 수준까지 마무리하는 단계다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/lgidra_202611120715.png",
-            "cap": "AI PIXELL PRO macOS 발표. 이미지: 4BY4."
+            "x": "액션은 Seedance가 더 역동적이었고, 결투 장면에 고급 액션 장면 같은 에너지를 불어넣었다. Kling은 prompt-only 하이킹 숏에서 가장 근접했으며 애니메이션 스타일 레퍼런스도 더 비슷하게 재현했다. 비용 차이도 컸다. Magnific에서 사막 시퀀스를 만드는 데 1080p의 Kling 4.0은 $8.40, Seedance 2.5 standard는 $24.00가 들었다."
           },
           {
             "t": "p",
-            "x": "AI PIXELL PRO는 외부 생성형 AI(generative-AI) 서비스로 만든 파일을 포함해 저해상도 영상을 업스케일하고 노이즈를 줄이며, 선명도를 높이고 디인터레이스까지 처리한다. Mac 버전은 영구 라이선스가 KRW 220,000이다. 작업할 때마다 크레딧이 빠져나가지 않고, 처리도 클라우드 서버가 아닌 사용자 컴퓨터에서 한다."
-          },
-          {
-            "t": "p",
-            "x": "AI PIXELL PLUGIN은 Blackmagic Design의 DaVinci Resolve와 Foundry의 Nuke를 지원한다. 4BY4는 실시간 HD-to-4K 업스케일링용 AI PIXELL LIVE와 리마스터링용 AI PIXELL VOD도 함께 선보인다. 솔루션사업부장 Heehwan Seo는 생성 영상의 마무리 작업이 갈수록 중요해진다고 말했다. 기능과 가격은 회사가 밝힌 내용이고, 독립 검증한 벤치마크 결과는 아니다."
+            "x": "액션 물리, 카메라 움직임, 실사 같은 룩이 중요하다면 Seedance 2.5부터 써 보는 편이 낫다. 가장 까다로운 테스트 전반에서 더 좋은 결과를 냈다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "4BY4 brings AI PIXELL\nto Mac, Resolve and Nuke",
-          "body": "4BY4 will show AI PIXELL PRO for macOS with DaVinci Resolve and Nuke plug-ins at Inter BEE, processing video locally.",
-          "mini_headline": "AI PIXELL PRO\ncomes to Mac",
+          "headline": "Kling 4.0 goes head-to-head\nwith Seedance 2.5",
+          "body": "Curious Refuge pits Kuaishou's new Kling 4.0 against ByteDance's Seedance 2.5 in a test of cinematic shots.",
+          "mini_headline": "Kling 4.0 vs Seedance 2.5",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "video",
+                "yt": "sh4bkvZQ1WE"
+              },
+              {
+                "t": "p",
+                "x": "We Tested Kling 4.0 Against Seedance 2.5, and It’s Not Close. There's been a lot of talk about Kling 4.0 online recently, with some people saying it is better than Seedance 2.5 — Curious Refuge puts that claim to the test."
+              },
+              {
+                "t": "p",
+                "x": "Kling 4.0 can generate up to 30 seconds of video at 1080p. The six side-by-side tests: a desert action scene with character references, a samurai vs. Roman warrior fight, a drone orbit camera reference, a New York taxi dialogue with a talking monkey, a text-to-video hiking shot and an anime style reference."
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/4hmeh8_202611120716.png",
-                "cap": "4BY4 brings AI video enhancement to Mac, DaVinci Resolve and Nuke"
+                "src": "https://images.squarespace-cdn.com/content/v1/55bd7005e4b06da83f63b8d9/937c37be-3180-4f94-a605-16dbf03f02b7/Test+04+-+StyleReference+-+REFERENCE.png",
+                "cap": "Style Reference Image"
               },
               {
                 "t": "p",
-                "x": "South Korea’s 4BY4 said it would officially unveil AI PIXELL PRO for macOS and AI PIXELL PLUGIN on November 18 at Inter BEE 2026 (November 18–20, Makuhari Messe, Chiba; Hall 6, booth 6110), targeting the stage of finishing generated and existing video to a usable delivery standard."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/lgidra_202611120715.png",
-                "cap": "AI PIXELL PRO macOS announcement. Image: 4BY4."
+                "x": "Seedance made the action feel more dynamic and gave the fight the energy of a high-end action scene; Kling came closest on the prompt-only hiking shot and matched the anime style reference more closely. For the desert sequence in Magnific, Kling 4.0 at 1080p cost $8.40 versus $24.00 for Seedance 2.5 standard."
               },
               {
                 "t": "p",
-                "x": "AI PIXELL PRO upscales low-resolution video, reduces noise, improves sharpness and deinterlaces, including files made with external generative-AI services. The Mac version costs KRW 220,000 with a perpetual license, does not deduct credits per job, and processes on the user’s computer rather than a cloud server."
-              },
-              {
-                "t": "p",
-                "x": "AI PIXELL PLUGIN supports Blackmagic Design’s DaVinci Resolve and Foundry’s Nuke. 4BY4 will also present AI PIXELL LIVE for real-time HD-to-4K upscaling and AI PIXELL VOD for remastering. Heehwan Seo, head of the solution business division, said finishing generated video was becoming more important. Features and pricing are company statements, not independently benchmarked results."
+                "x": "Verdict: for action physics, camera movement or a live-action look, start with Seedance 2.5, which performed better across the most demanding tests."
               }
             ]
           }
         },
         "ko": {
-          "headline": "4BY4 AI PIXELL\nMac·Resolve 지원",
-          "body": "4BY4가 Inter BEE에서 macOS용 AI PIXELL PRO를 선보인다.",
-          "mini_headline": "AI PIXELL PRO\nMac 출시",
+          "headline": "Kling 4.0, 맞수는\nSeedance 2.5",
+          "body": "Curious Refuge가 Kling 4.0과 Seedance 2.5를 맞붙였다.",
+          "mini_headline": "Kling 4.0 vs Seedance 2.5",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "video",
+                "yt": "sh4bkvZQ1WE"
+              },
+              {
+                "t": "p",
+                "x": "“We Tested Kling 4.0 Against Seedance 2.5, and It’s Not Close”(Kling 4.0과 Seedance 2.5를 비교해 보니 상대가 되지 않았다). 최근 온라인에서는 Kling 4.0이 화제였고, ByteDance의 Seedance 2.5보다 낫다는 말까지 돌았다. Curious Refuge가 이 주장을 직접 따져 봤다."
+              },
+              {
+                "t": "p",
+                "x": "Kuaishou의 Kling 4.0은 1080p로 최대 30초짜리 영상을 만든다. 두 모델을 나란히 놓고 돌린 테스트는 여섯 가지다. 캐릭터 레퍼런스를 넣은 사막 액션 장면, 사무라이와 로마 전사의 결투, 드론 궤도 카메라 레퍼런스, 말하는 원숭이가 나오는 New York 택시 대화, text-to-video 하이킹 숏, 애니메이션 스타일 레퍼런스다."
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/4hmeh8_202611120716.png",
-                "cap": "4BY4, Mac·DaVinci Resolve·Nuke에 AI 영상 화질 개선 도입"
+                "src": "https://images.squarespace-cdn.com/content/v1/55bd7005e4b06da83f63b8d9/937c37be-3180-4f94-a605-16dbf03f02b7/Test+04+-+StyleReference+-+REFERENCE.png",
+                "cap": "스타일 레퍼런스 이미지"
               },
               {
                 "t": "p",
-                "x": "한국 기업 4BY4는 Inter BEE 2026(11월 18–20일, 지바 Makuhari Messe; Hall 6, 부스 6110)에서 11월 18일 macOS용 AI PIXELL PRO와 AI PIXELL PLUGIN을 공식 공개한다고 밝혔다. 노리는 지점은 생성 영상과 기존 영상을 실제로 납품할 수 있는 수준까지 마무리하는 단계다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/lgidra_202611120715.png",
-                "cap": "AI PIXELL PRO macOS 발표. 이미지: 4BY4."
+                "x": "액션은 Seedance가 더 역동적이었고, 결투 장면에 고급 액션 장면 같은 에너지를 불어넣었다. Kling은 prompt-only 하이킹 숏에서 가장 근접했으며 애니메이션 스타일 레퍼런스도 더 비슷하게 재현했다. 비용 차이도 컸다. Magnific에서 사막 시퀀스를 만드는 데 1080p의 Kling 4.0은 $8.40, Seedance 2.5 standard는 $24.00가 들었다."
               },
               {
                 "t": "p",
-                "x": "AI PIXELL PRO는 외부 생성형 AI(generative-AI) 서비스로 만든 파일을 포함해 저해상도 영상을 업스케일하고 노이즈를 줄이며, 선명도를 높이고 디인터레이스까지 처리한다. Mac 버전은 영구 라이선스가 KRW 220,000이다. 작업할 때마다 크레딧이 빠져나가지 않고, 처리도 클라우드 서버가 아닌 사용자 컴퓨터에서 한다."
-              },
-              {
-                "t": "p",
-                "x": "AI PIXELL PLUGIN은 Blackmagic Design의 DaVinci Resolve와 Foundry의 Nuke를 지원한다. 4BY4는 실시간 HD-to-4K 업스케일링용 AI PIXELL LIVE와 리마스터링용 AI PIXELL VOD도 함께 선보인다. 솔루션사업부장 Heehwan Seo는 생성 영상의 마무리 작업이 갈수록 중요해진다고 말했다. 기능과 가격은 회사가 밝힌 내용이고, 독립 검증한 벤치마크 결과는 아니다."
+                "x": "액션 물리, 카메라 움직임, 실사 같은 룩이 중요하다면 Seedance 2.5부터 써 보는 편이 낫다. 가장 까다로운 테스트 전반에서 더 좋은 결과를 냈다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "4BY4のAI PIXELL\nMac・Resolve対応",
-          "body": "4BY4はInter BEEでmacOS版AI PIXELL PROを披露する。",
-          "mini_headline": "AI PIXELL PRO\nMacに登場",
+          "headline": "Kling 4.0と\nSeedance 2.5激突",
+          "body": "Curious RefugeがKling 4.0とSeedance 2.5を比較した。",
+          "mini_headline": "Kling 4.0 vs Seedance 2.5",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "video",
+                "yt": "sh4bkvZQ1WE"
+              },
+              {
+                "t": "p",
+                "x": "「We Tested Kling 4.0 Against Seedance 2.5, and It’s Not Close」(Kling 4.0とSeedance 2.5を比べたら勝負にならなかった)。最近ネットではKling 4.0が話題で、ByteDanceのSeedance 2.5より優れているという声もある。Curious Refugeがその主張を検証した。"
+              },
+              {
+                "t": "p",
+                "x": "KuaishouのKling 4.0は1080pで最大30秒の動画を生成できる。横並びのテストは六つ。キャラクター参照付きの砂漠のアクションシーン、侍とローマ戦士の戦い、ドローンの周回カメラ参照、しゃべる猿が登場するNew Yorkのタクシーでの会話、text-to-videoのハイキングショット、アニメのスタイル参照だ。"
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/4hmeh8_202611120716.png",
-                "cap": "4BY4、AI映像高画質化をMac、DaVinci Resolve、Nukeへ"
+                "src": "https://images.squarespace-cdn.com/content/v1/55bd7005e4b06da83f63b8d9/937c37be-3180-4f94-a605-16dbf03f02b7/Test+04+-+StyleReference+-+REFERENCE.png",
+                "cap": "スタイル参照画像"
               },
               {
                 "t": "p",
-                "x": "韓国の4BY4は、Inter BEE 2026（11月18〜20日、千葉・Makuhari Messe、Hall 6、ブース6110）で、11月18日にmacOS版AI PIXELL PROとAI PIXELL PLUGINを正式発表すると明らかにした。生成映像や既存映像を実用的な納品水準に仕上げる工程を狙う。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/lgidra_202611120715.png",
-                "cap": "AI PIXELL PRO macOS版の発表。画像：4BY4。"
+                "x": "Seedanceはアクションをよりダイナミックに見せ、戦闘にハイエンドなアクションシーンの迫力を与えた。Klingはprompt-onlyのハイキングショットで最も意図に近く、アニメのスタイル参照にもより忠実だった。Magnificでの砂漠シーンでは、1080pのKling 4.0が$8.40、Seedance 2.5 standardが$24.00だった。"
               },
               {
                 "t": "p",
-                "x": "AI PIXELL PROは、外部の生成AI（generative-AI）サービスで作ったファイルを含め、低解像度映像のアップスケール、ノイズ低減、シャープネス向上、デインターレースを行う。Mac版は永続ライセンスでKRW 220,000、作業ごとにクレジットを消費せず、クラウドサーバーではなくユーザーのコンピューター上で処理する。"
-              },
-              {
-                "t": "p",
-                "x": "AI PIXELL PLUGINはBlackmagic DesignのDaVinci ResolveとFoundryのNukeに対応する。4BY4はリアルタイムのHD-to-4KアップスケーリングのためのAI PIXELL LIVEと、リマスター用のAI PIXELL VODも披露する。ソリューション事業部長のHeehwan Seoは、生成映像の仕上げがますます重要になっていると述べた。機能と価格は同社の説明であり、独立したベンチマーク結果ではない。"
+                "x": "結論として、アクションの物理挙動、カメラワーク、実写的なルックを求めるなら、最も難しいテスト全体で上回ったSeedance 2.5から始めるのがよい。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "4BY4的AI PIXELL\n登陆Mac与Resolve",
-          "body": "4BY4将在Inter BEE展示macOS版AI PIXELL PRO，在本地处理视频。",
-          "mini_headline": "AI PIXELL PRO\n登陆Mac",
+          "headline": "Kling 4.0正面对决\nSeedance 2.5",
+          "body": "Curious Refuge用电影镜头对比Kling 4.0与Seedance 2.5。",
+          "mini_headline": "Kling 4.0 vs Seedance 2.5",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "video",
+                "yt": "sh4bkvZQ1WE"
+              },
+              {
+                "t": "p",
+                "x": "“We Tested Kling 4.0 Against Seedance 2.5, and It’s Not Close”（我们对比了Kling 4.0和Seedance 2.5，差距悬殊）。最近网上关于Kling 4.0的讨论很多，有人说它比ByteDance的Seedance 2.5更好——Curious Refuge对这一说法进行了检验。"
+              },
+              {
+                "t": "p",
+                "x": "Kuaishou的Kling 4.0能以1080p生成最长30秒的视频。六项并排测试分别是：带角色参考的沙漠动作场景、武士对战罗马战士、无人机环绕镜头参考、New York出租车里与会说话的猴子的对话、text-to-video徒步镜头，以及动漫风格参考。"
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/4hmeh8_202611120716.png",
-                "cap": "4BY4将AI视频画质增强带到Mac、DaVinci Resolve和Nuke"
+                "src": "https://images.squarespace-cdn.com/content/v1/55bd7005e4b06da83f63b8d9/937c37be-3180-4f94-a605-16dbf03f02b7/Test+04+-+StyleReference+-+REFERENCE.png",
+                "cap": "风格参考图"
               },
               {
                 "t": "p",
-                "x": "韩国公司4BY4表示，将于11月18日在Inter BEE 2026（11月18–20日，千叶Makuhari Messe；Hall 6，展位6110）正式发布macOS版AI PIXELL PRO和AI PIXELL PLUGIN，瞄准把生成视频和现有视频打磨到可交付标准的环节。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/lgidra_202611120715.png",
-                "cap": "AI PIXELL PRO macOS版发布。图片：4BY4。"
+                "x": "Seedance让动作更具动感，赋予打斗高端动作场面的能量；Kling在prompt-only徒步镜头上最接近，对动漫风格参考的还原也更贴近。在Magnific中制作沙漠段落时，1080p的Kling 4.0花费$8.40，而Seedance 2.5 standard为$24.00。"
               },
               {
                 "t": "p",
-                "x": "AI PIXELL PRO可对低分辨率视频进行放大、降噪、提升锐度和去隔行处理，包括用外部生成式AI（generative-AI）服务制作的文件。Mac版采用永久授权，售价KRW 220,000，不按任务扣除点数，并在用户自己的电脑而非云服务器上处理。"
-              },
-              {
-                "t": "p",
-                "x": "AI PIXELL PLUGIN支持Blackmagic Design的DaVinci Resolve和Foundry的Nuke。4BY4还将展示用于实时HD-to-4K放大的AI PIXELL LIVE和用于重制的AI PIXELL VOD。解决方案事业部负责人Heehwan Seo表示，生成视频的后期打磨正变得越来越重要。功能和价格均为公司说法，并非独立基准测试结果。"
+                "x": "结论：若追求动作物理、镜头运动或真人实拍质感，应先用Seedance 2.5，它在最严苛的测试中整体表现更好。"
               }
             ]
           }
         },
         "es": {
-          "headline": "4BY4 lleva AI PIXELL a Mac,\nResolve y Nuke",
-          "body": "4BY4 mostrará en Inter BEE AI PIXELL PRO para macOS con plug-ins para DaVinci Resolve y Nuke, con proceso local.",
-          "mini_headline": "AI PIXELL PRO\nllega a Mac",
+          "headline": "Kling 4.0 se mide cara a cara\ncon Seedance 2.5",
+          "body": "Curious Refuge enfrenta Kling 4.0 de Kuaishou al Seedance 2.5 de ByteDance en una prueba de planos cinematográficos.",
+          "mini_headline": "Kling 4.0 vs Seedance 2.5",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "video",
+                "yt": "sh4bkvZQ1WE"
+              },
+              {
+                "t": "p",
+                "x": "“We Tested Kling 4.0 Against Seedance 2.5, and It’s Not Close” (Probamos Kling 4.0 contra Seedance 2.5 y no hay comparación). Últimamente se ha hablado mucho de Kling 4.0 en internet, y hay quien dice que supera a Seedance 2.5; Curious Refuge pone esa afirmación a prueba."
+              },
+              {
+                "t": "p",
+                "x": "Kling 4.0 puede generar hasta 30 segundos de vídeo a 1080p. Las seis pruebas en paralelo: una escena de acción en el desierto con referencias de personajes, un combate entre un samurái y un guerrero romano, una referencia de cámara orbital con dron, un diálogo en un taxi de New York con un mono que habla, una toma de senderismo text-to-video y una referencia de estilo anime."
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/4hmeh8_202611120716.png",
-                "cap": "4BY4 lleva la mejora de video con AI a Mac, DaVinci Resolve y Nuke"
+                "src": "https://images.squarespace-cdn.com/content/v1/55bd7005e4b06da83f63b8d9/937c37be-3180-4f94-a605-16dbf03f02b7/Test+04+-+StyleReference+-+REFERENCE.png",
+                "cap": "Imagen de referencia de estilo"
               },
               {
                 "t": "p",
-                "x": "La surcoreana 4BY4 anunció que presentará oficialmente AI PIXELL PRO para macOS y AI PIXELL PLUGIN el 18 de noviembre en Inter BEE 2026 (del 18 al 20 de noviembre, Makuhari Messe, Chiba; Hall 6, stand 6110), con la vista puesta en la fase de acabado de video generado y existente hasta un estándar de entrega utilizable."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/lgidra_202611120715.png",
-                "cap": "Anuncio de AI PIXELL PRO para macOS. Imagen: 4BY4."
+                "x": "Seedance dio más dinamismo a la acción y aportó al combate la energía de una escena de acción de alto nivel; Kling se acercó más en la toma de senderismo prompt-only y se ajustó mejor a la referencia de estilo anime. Para la secuencia del desierto en Magnific, Kling 4.0 a 1080p costó $8.40 frente a los $24.00 de Seedance 2.5 standard."
               },
               {
                 "t": "p",
-                "x": "AI PIXELL PRO escala video de baja resolución, reduce el ruido, mejora la nitidez y desentrelaza, incluso archivos creados con servicios externos de AI generativa (generative-AI). La versión para Mac cuesta KRW 220,000 con licencia perpetua, no descuenta créditos por trabajo y procesa en el equipo del usuario en lugar de en un servidor en la nube."
-              },
-              {
-                "t": "p",
-                "x": "AI PIXELL PLUGIN es compatible con DaVinci Resolve, de Blackmagic Design, y con Nuke, de Foundry. 4BY4 también presentará AI PIXELL LIVE para escalado HD-to-4K en tiempo real y AI PIXELL VOD para remasterización. Heehwan Seo, jefe de la división de negocio de soluciones, afirmó que el acabado del video generado es cada vez más importante. Las funciones y los precios son declaraciones de la empresa, no resultados de pruebas independientes."
+                "x": "Veredicto: para física de la acción, movimiento de cámara o un aspecto de imagen real, conviene empezar con Seedance 2.5, que rindió mejor en las pruebas más exigentes."
               }
             ]
           }
@@ -527,129 +585,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "4BY4 AI PIXELL\nMac·Resolve 지원",
-          "body": "4BY4가 Inter BEE에서 macOS용 AI PIXELL PRO를 선보인다.",
-          "mini_headline": "AI PIXELL PRO\nMac 출시",
+          "headline": "Kling 4.0, 맞수는\nSeedance 2.5",
+          "body": "Curious Refuge가 Kling 4.0과 Seedance 2.5를 맞붙였다.",
+          "mini_headline": "Kling 4.0 vs Seedance 2.5",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "video",
+                "yt": "sh4bkvZQ1WE"
+              },
+              {
+                "t": "p",
+                "x": "“We Tested Kling 4.0 Against Seedance 2.5, and It’s Not Close”(Kling 4.0과 Seedance 2.5를 비교해 보니 상대가 되지 않았다). 최근 온라인에서 Kling 4.0이 화제가 됐고, ByteDance의 Seedance 2.5보다 낫다는 말도 나왔다. Curious Refuge가 그 주장을 직접 검증했다."
+              },
+              {
+                "t": "p",
+                "x": "Kuaishou의 Kling 4.0은 1080p로 최대 30초 길이의 영상을 만든다. 나란히 비교한 테스트는 여섯 가지다. 캐릭터 레퍼런스를 쓴 사막 액션 장면, 사무라이와 로마 전사의 결투, 드론 궤도 카메라 레퍼런스, 말하는 원숭이가 나오는 New York 택시 대화, text-to-video 하이킹 숏, 애니메이션 스타일 레퍼런스다."
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/4hmeh8_202611120716.png",
-                "cap": "4BY4, Mac·DaVinci Resolve·Nuke에 AI 영상 화질 개선 도입"
+                "src": "https://images.squarespace-cdn.com/content/v1/55bd7005e4b06da83f63b8d9/937c37be-3180-4f94-a605-16dbf03f02b7/Test+04+-+StyleReference+-+REFERENCE.png",
+                "cap": "스타일 레퍼런스 이미지"
               },
               {
                 "t": "p",
-                "x": "한국의 4BY4는 Inter BEE 2026(11월 18–20일, 지바 Makuhari Messe; Hall 6, 부스 6110)에서 11월 18일 macOS용 AI PIXELL PRO와 AI PIXELL PLUGIN을 공식 공개한다고 밝혔다. 생성 영상과 기존 영상을 실제 납품 가능한 수준으로 마무리하는 단계를 겨냥한다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/lgidra_202611120715.png",
-                "cap": "AI PIXELL PRO macOS 발표. 이미지: 4BY4."
+                "x": "Seedance는 액션을 더 역동적으로 그려 결투에 고급 액션 장면의 에너지를 불어넣었고, Kling은 prompt-only 하이킹 숏에서 가장 근접했으며 애니메이션 스타일 레퍼런스도 더 가깝게 재현했다. Magnific에서 사막 시퀀스를 만드는 데 1080p의 Kling 4.0은 $8.40, Seedance 2.5 standard는 $24.00가 들었다."
               },
               {
                 "t": "p",
-                "x": "AI PIXELL PRO는 외부 생성형 AI(generative-AI) 서비스로 만든 파일을 포함해 저해상도 영상을 업스케일하고, 노이즈를 줄이고, 선명도를 높이고, 디인터레이스를 처리한다. Mac 버전은 영구 라이선스 KRW 220,000이며, 작업마다 크레딧을 차감하지 않고 클라우드 서버가 아닌 사용자 컴퓨터에서 처리한다."
-              },
-              {
-                "t": "p",
-                "x": "AI PIXELL PLUGIN은 Blackmagic Design의 DaVinci Resolve와 Foundry의 Nuke를 지원한다. 4BY4는 실시간 HD-to-4K 업스케일링용 AI PIXELL LIVE와 리마스터링용 AI PIXELL VOD도 선보인다. 솔루션사업부장 Heehwan Seo는 생성 영상의 마무리 작업이 점점 중요해지고 있다고 말했다. 기능과 가격은 회사 측 설명이며, 독립적으로 검증한 벤치마크 결과가 아니다."
+                "x": "결론: 액션 물리, 카메라 움직임, 실사 같은 룩이 필요하다면 가장 까다로운 테스트 전반에서 더 나은 성능을 보인 Seedance 2.5부터 써 보는 것이 좋다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "4BY4のAI PIXELL\nMac・Resolve対応",
-          "body": "4BY4はInter BEEでmacOS版AI PIXELL PROを披露する。",
-          "mini_headline": "AI PIXELL PRO\nMacに登場",
+          "headline": "Kling 4.0と\nSeedance 2.5激突",
+          "body": "Curious RefugeがKling 4.0とSeedance 2.5を比較した。",
+          "mini_headline": "Kling 4.0 vs Seedance 2.5",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "video",
+                "yt": "sh4bkvZQ1WE"
+              },
+              {
+                "t": "p",
+                "x": "「We Tested Kling 4.0 Against Seedance 2.5, and It’s Not Close」(Kling 4.0とSeedance 2.5を比べたら勝負にならなかった)。最近ネットではKling 4.0が話題で、ByteDanceのSeedance 2.5より優れているという声もある。Curious Refugeがその主張を検証した。"
+              },
+              {
+                "t": "p",
+                "x": "KuaishouのKling 4.0は1080pで最大30秒の動画を生成できる。横並びのテストは六つ。キャラクター参照付きの砂漠のアクションシーン、侍とローマ戦士の戦い、ドローンの周回カメラ参照、しゃべる猿が登場するNew Yorkのタクシーでの会話、text-to-videoのハイキングショット、アニメのスタイル参照だ。"
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/4hmeh8_202611120716.png",
-                "cap": "4BY4、AI映像高画質化をMac、DaVinci Resolve、Nukeへ"
+                "src": "https://images.squarespace-cdn.com/content/v1/55bd7005e4b06da83f63b8d9/937c37be-3180-4f94-a605-16dbf03f02b7/Test+04+-+StyleReference+-+REFERENCE.png",
+                "cap": "スタイル参照画像"
               },
               {
                 "t": "p",
-                "x": "韓国の4BY4は、Inter BEE 2026（11月18〜20日、千葉・Makuhari Messe、Hall 6、ブース6110）で、11月18日にmacOS版AI PIXELL PROとAI PIXELL PLUGINを正式発表すると明らかにした。生成映像や既存映像を実用的な納品水準に仕上げる工程を狙う。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/lgidra_202611120715.png",
-                "cap": "AI PIXELL PRO macOS版の発表。画像：4BY4。"
+                "x": "Seedanceはアクションをよりダイナミックに見せ、戦闘にハイエンドなアクションシーンの迫力を与えた。Klingはprompt-onlyのハイキングショットで最も意図に近く、アニメのスタイル参照にもより忠実だった。Magnificでの砂漠シーンでは、1080pのKling 4.0が$8.40、Seedance 2.5 standardが$24.00だった。"
               },
               {
                 "t": "p",
-                "x": "AI PIXELL PROは、外部の生成AI（generative-AI）サービスで作ったファイルを含め、低解像度映像のアップスケール、ノイズ低減、シャープネス向上、デインターレースを行う。Mac版は永続ライセンスでKRW 220,000、作業ごとにクレジットを消費せず、クラウドサーバーではなくユーザーのコンピューター上で処理する。"
-              },
-              {
-                "t": "p",
-                "x": "AI PIXELL PLUGINはBlackmagic DesignのDaVinci ResolveとFoundryのNukeに対応する。4BY4はリアルタイムのHD-to-4KアップスケーリングのためのAI PIXELL LIVEと、リマスター用のAI PIXELL VODも披露する。ソリューション事業部長のHeehwan Seoは、生成映像の仕上げがますます重要になっていると述べた。機能と価格は同社の説明であり、独立したベンチマーク結果ではない。"
+                "x": "結論として、アクションの物理挙動、カメラワーク、実写的なルックを求めるなら、最も難しいテスト全体で上回ったSeedance 2.5から始めるのがよい。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "4BY4的AI PIXELL\n登陆Mac与Resolve",
-          "body": "4BY4将在Inter BEE展示macOS版AI PIXELL PRO，在本地处理视频。",
-          "mini_headline": "AI PIXELL PRO\n登陆Mac",
+          "headline": "Kling 4.0正面对决\nSeedance 2.5",
+          "body": "Curious Refuge用电影镜头对比Kling 4.0与Seedance 2.5。",
+          "mini_headline": "Kling 4.0 vs Seedance 2.5",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "video",
+                "yt": "sh4bkvZQ1WE"
+              },
+              {
+                "t": "p",
+                "x": "“We Tested Kling 4.0 Against Seedance 2.5, and It’s Not Close”（我们对比了Kling 4.0和Seedance 2.5，差距悬殊）。最近网上关于Kling 4.0的讨论很多，有人说它比ByteDance的Seedance 2.5更好——Curious Refuge对这一说法进行了检验。"
+              },
+              {
+                "t": "p",
+                "x": "Kuaishou的Kling 4.0能以1080p生成最长30秒的视频。六项并排测试分别是：带角色参考的沙漠动作场景、武士对战罗马战士、无人机环绕镜头参考、New York出租车里与会说话的猴子的对话、text-to-video徒步镜头，以及动漫风格参考。"
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/4hmeh8_202611120716.png",
-                "cap": "4BY4将AI视频画质增强带到Mac、DaVinci Resolve和Nuke"
+                "src": "https://images.squarespace-cdn.com/content/v1/55bd7005e4b06da83f63b8d9/937c37be-3180-4f94-a605-16dbf03f02b7/Test+04+-+StyleReference+-+REFERENCE.png",
+                "cap": "风格参考图"
               },
               {
                 "t": "p",
-                "x": "韩国公司4BY4表示，将于11月18日在Inter BEE 2026（11月18–20日，千叶Makuhari Messe；Hall 6，展位6110）正式发布macOS版AI PIXELL PRO和AI PIXELL PLUGIN，瞄准把生成视频和现有视频打磨到可交付标准的环节。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/lgidra_202611120715.png",
-                "cap": "AI PIXELL PRO macOS版发布。图片：4BY4。"
+                "x": "Seedance让动作更具动感，赋予打斗高端动作场面的能量；Kling在prompt-only徒步镜头上最接近，对动漫风格参考的还原也更贴近。在Magnific中制作沙漠段落时，1080p的Kling 4.0花费$8.40，而Seedance 2.5 standard为$24.00。"
               },
               {
                 "t": "p",
-                "x": "AI PIXELL PRO可对低分辨率视频进行放大、降噪、提升锐度和去隔行处理，包括用外部生成式AI（generative-AI）服务制作的文件。Mac版采用永久授权，售价KRW 220,000，不按任务扣除点数，并在用户自己的电脑而非云服务器上处理。"
-              },
-              {
-                "t": "p",
-                "x": "AI PIXELL PLUGIN支持Blackmagic Design的DaVinci Resolve和Foundry的Nuke。4BY4还将展示用于实时HD-to-4K放大的AI PIXELL LIVE和用于重制的AI PIXELL VOD。解决方案事业部负责人Heehwan Seo表示，生成视频的后期打磨正变得越来越重要。功能和价格均为公司说法，并非独立基准测试结果。"
+                "x": "结论：若追求动作物理、镜头运动或真人实拍质感，应先用Seedance 2.5，它在最严苛的测试中整体表现更好。"
               }
             ]
           }
         },
         "es": {
-          "headline": "4BY4 lleva AI PIXELL a Mac,\nResolve y Nuke",
-          "body": "4BY4 mostrará en Inter BEE AI PIXELL PRO para macOS con plug-ins para DaVinci Resolve y Nuke, con proceso local.",
-          "mini_headline": "AI PIXELL PRO\nllega a Mac",
+          "headline": "Kling 4.0 se mide cara a cara\ncon Seedance 2.5",
+          "body": "Curious Refuge enfrenta Kling 4.0 de Kuaishou al Seedance 2.5 de ByteDance en una prueba de planos cinematográficos.",
+          "mini_headline": "Kling 4.0 vs Seedance 2.5",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "video",
+                "yt": "sh4bkvZQ1WE"
+              },
+              {
+                "t": "p",
+                "x": "“We Tested Kling 4.0 Against Seedance 2.5, and It’s Not Close” (Probamos Kling 4.0 contra Seedance 2.5 y no hay comparación). Últimamente se ha hablado mucho de Kling 4.0 en internet, y hay quien dice que supera a Seedance 2.5; Curious Refuge pone esa afirmación a prueba."
+              },
+              {
+                "t": "p",
+                "x": "Kling 4.0 puede generar hasta 30 segundos de vídeo a 1080p. Las seis pruebas en paralelo: una escena de acción en el desierto con referencias de personajes, un combate entre un samurái y un guerrero romano, una referencia de cámara orbital con dron, un diálogo en un taxi de New York con un mono que habla, una toma de senderismo text-to-video y una referencia de estilo anime."
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/4hmeh8_202611120716.png",
-                "cap": "4BY4 lleva la mejora de video con AI a Mac, DaVinci Resolve y Nuke"
+                "src": "https://images.squarespace-cdn.com/content/v1/55bd7005e4b06da83f63b8d9/937c37be-3180-4f94-a605-16dbf03f02b7/Test+04+-+StyleReference+-+REFERENCE.png",
+                "cap": "Imagen de referencia de estilo"
               },
               {
                 "t": "p",
-                "x": "La surcoreana 4BY4 anunció que presentará oficialmente AI PIXELL PRO para macOS y AI PIXELL PLUGIN el 18 de noviembre en Inter BEE 2026 (del 18 al 20 de noviembre, Makuhari Messe, Chiba; Hall 6, stand 6110), con la vista puesta en la fase de acabado de video generado y existente hasta un estándar de entrega utilizable."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/lgidra_202611120715.png",
-                "cap": "Anuncio de AI PIXELL PRO para macOS. Imagen: 4BY4."
+                "x": "Seedance dio más dinamismo a la acción y aportó al combate la energía de una escena de acción de alto nivel; Kling se acercó más en la toma de senderismo prompt-only y se ajustó mejor a la referencia de estilo anime. Para la secuencia del desierto en Magnific, Kling 4.0 a 1080p costó $8.40 frente a los $24.00 de Seedance 2.5 standard."
               },
               {
                 "t": "p",
-                "x": "AI PIXELL PRO escala video de baja resolución, reduce el ruido, mejora la nitidez y desentrelaza, incluso archivos creados con servicios externos de AI generativa (generative-AI). La versión para Mac cuesta KRW 220,000 con licencia perpetua, no descuenta créditos por trabajo y procesa en el equipo del usuario en lugar de en un servidor en la nube."
-              },
-              {
-                "t": "p",
-                "x": "AI PIXELL PLUGIN es compatible con DaVinci Resolve, de Blackmagic Design, y con Nuke, de Foundry. 4BY4 también presentará AI PIXELL LIVE para escalado HD-to-4K en tiempo real y AI PIXELL VOD para remasterización. Heehwan Seo, jefe de la división de negocio de soluciones, afirmó que el acabado del video generado es cada vez más importante. Las funciones y los precios son declaraciones de la empresa, no resultados de pruebas independientes."
+                "x": "Veredicto: para física de la acción, movimiento de cámara o un aspecto de imagen real, conviene empezar con Seedance 2.5, que rindió mejor en las pruebas más exigentes."
               }
             ]
           }
@@ -657,231 +727,371 @@
       }
     },
     {
-      "id": "runway-labs-video-interface",
+      "id": "netflix-blue-eye-samurai-ai",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Runway Labs의\n인터페이스 같은 영상",
-      "body": "Runway Labs가 고르면 생성되고 스케치하면 움직이는 실시간 영상을 시험한다.",
-      "mini_headline": "Runway, 영상을\n인터페이스로",
+      "headline": "AI 없는 Blue Eye\nSamurai 제작",
+      "body": "Netflix는 Blue Eye Samurai 제작에 AI를 아예 금지했다.",
+      "mini_headline": "Blue Eye Samurai에 AI 없다",
       "tool": "Movies",
-      "source": "Runway",
-      "url": "https://www.youtube.com/watch?v=1XV_2WrnZH0",
+      "source": "CBR",
+      "url": "https://www.cbr.com/blue-eye-samurai-netflix-ai-ban/",
       "accent": "#7928ca",
       "motif": "frame",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
-            "t": "video",
-            "yt": "1XV_2WrnZH0"
+            "t": "img",
+            "src": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/11/blue-eye-samurai-with-mizu-holding-a-sword.jpg?&fit=crop&w=1600&h=900",
+            "cap": "검을 든 Mizu가 등장하는 Blue Eye Samurai"
           },
           {
             "t": "p",
-            "x": "Runway Labs 디자이너들은 실시간 영상 모델로 새로 가능해진 일을 시제품으로 만든다. 이번 에피소드는 그 내부에서 영상을 운영체제처럼 다루는 실험을 따라간다. 프롬프트 없이 페이지에서 아무거나 골라 더 깊이 파고드는 방식, 크기를 바꾸면 모델이 화면 속 내용을 새로 해석하는 영상, 그리는 동안 스케치가 내 스타일 그대로 움직이는 드로잉 앱이 나온다. 불신을 잠시 내려놓고 아이디어 속으로 들어가 그 자체를 대화로 바꾸는 게 핵심이다."
+            "x": "프랑스에서 만드는 Netflix 사무라이 대서사극의 팬이라면 안심해도 된다. 이 시리즈 제작진은 생성형 AI를 지금도, 앞으로도 쓰지 않는다."
           },
           {
             "t": "p",
-            "x": "챕터: 00:00 인트로 · 00:42 어디든 선택해 생성 · 01:14 크기를 바꿀 수 있는 영상 · 02:06 실시간 영상으로 그리기 · 02:42 직접 만드는 일이 중요한 이유"
+            "x": "Variety에 따르면 Blue Spirit의 최고 크리에이티브 책임자(Chief Creative Officer) Charles Beirnaert는 Netflix가 제작 어느 단계에서도 자기 애니메이션 팀에 AI를 허용하지 않았다고 확인했다. 그는 “Netflix 프로젝트에는 AI를 쓸 수 없다”고 잘라 말했다. Blue Eye Samurai는 2023년 11월 공개됐고, Rotten Tomatoes 평론가 점수는 97%다."
+          },
+          {
+            "t": "img",
+            "src": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2025/08/blue-eye-samurai.jpg?q=70&fit=crop&w=825&dpr=1",
+            "cap": "Netflix 애니메이션 시리즈 Blue Eye Samurai의 Mizu"
+          },
+          {
+            "t": "p",
+            "x": "그렇다고 Netflix가 전면적인 zero-AI 정책을 내놓은 건 아니다. 2023년 Netflix Japan은 Wit Studio의 단편 The Dog and the Boy가 배경 일러스트에 AI를 써서 비판을 받았다. 그런데도 Netflix는 2027년 2월 공개 예정인 One Piece 애니메이션 리부트에서 다시 Wit Studio와 손잡았다."
+          },
+          {
+            "t": "p",
+            "x": "Blue Spirit은 따로 생성형 AI를 실험하고 있다. 20명이 석 달 걸려 만든 파일럿을 한 사람이 AI로 다시 만들어 봤지만 결과는 신통치 않았다. Beirnaert는 “어림짐작”이라는 단서를 달고, 보통 팔백만 유로 규모 제작이라면 AI로 최대 백만 유로를 아낄 수 있다고 내다봤다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Runway Labs prototypes video\nthat works like an interface",
-          "body": "Runway Labs prototypes real-time video you select to generate, resize to re-render and sketch to animate in your style.",
-          "mini_headline": "Runway turns video\ninto an interface",
+          "headline": "Netflix rules out AI for\nBlue Eye Samurai",
+          "body": "Blue Spirit's Charles Beirnaert says Netflix has banned his team from using AI in any part of Blue Eye Samurai.",
+          "mini_headline": "No AI for Blue Eye Samurai",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "1XV_2WrnZH0"
+                "t": "img",
+                "src": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/11/blue-eye-samurai-with-mizu-holding-a-sword.jpg?&fit=crop&w=1600&h=900",
+                "cap": "Blue Eye Samurai with Mizu holding a sword"
               },
               {
                 "t": "p",
-                "x": "Inside Runway Labs, where designers are prototyping what real-time video models make possible. This episode explores video as an operating system: selecting anything on a page to dive deeper with no prompting, videos you can resize where the model reinterprets what you see and a drawing app that animates your sketches in your own style as you draw. The point is to suspend disbelief, step into an idea and have it be a conversation."
+                "x": "Fans of Netflix's French-produced samurai epic can breathe easy -- generative AI is not and never will be utilized by the series' production team."
               },
               {
                 "t": "p",
-                "x": "Chapters: 00:00 Intro · 00:42 Select anywhere to generate · 01:14 Video you can resize · 02:06 Drawing with real-time video · 02:42 Why making matters"
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Runway Labsが試作\nインターフェース型映像",
-          "body": "Runway Labsは、選ぶと生成し、描くと自分の画風で動くリアルタイム映像を試作する。",
-          "mini_headline": "Runway、映像を\nインターフェースに",
-          "full": {
-            "mode": "full",
-            "blocks": [
+                "x": "Per Variety, Blue Spirit Chief Creative Officer Charles Beirnaert confirmed that Netflix banned his animation team from utilizing AI for any part of the production. “We're not allowed to use AI for the Netflix projects,” he stated bluntly. Blue Eye Samurai debuted in November 2023 and holds a 97% critics' score on Rotten Tomatoes."
+              },
               {
-                "t": "video",
-                "yt": "1XV_2WrnZH0"
+                "t": "img",
+                "src": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2025/08/blue-eye-samurai.jpg?q=70&fit=crop&w=825&dpr=1",
+                "cap": "Mizu in Netflix anime series Blue Eye Samurai"
               },
               {
                 "t": "p",
-                "x": "デザイナーたちがリアルタイム映像モデルで可能になることを試作しているRunway Labsの内側を紹介する。今回のエピソードは、オペレーティングシステムとしての映像を探る。プロンプトなしでページ上の何でも選んでさらに深く掘り下げられる仕組み、サイズを変えるとモデルが見えているものを解釈し直す映像、そして描いている最中にスケッチを自分の画風のまま動かすドローイングアプリだ。狙いは、疑いをいったん脇に置き、アイデアの中に入り込んで、それを対話にすることにある。"
+                "x": "Netflix has not issued a zero-AI policy across the board: in 2023 Netflix Japan came under fire for The Dog and the Boy, a Wit Studio short that used AI for background illustrations, and Netflix has partnered with Wit Studio again on its One Piece anime reboot, due in February 2027."
               },
               {
                 "t": "p",
-                "x": "チャプター：00:00 イントロ · 00:42 どこでも選んで生成 · 01:14 サイズを変えられる映像 · 02:06 リアルタイム映像で描く · 02:42 つくることが大切な理由"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Runway Labs试做\n像界面一样的视频",
-          "body": "Runway Labs试做实时视频：点选即生成，改尺寸即重绘，草图按你的风格动起来。",
-          "mini_headline": "Runway把视频\n变成界面",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "1XV_2WrnZH0"
-              },
-              {
-                "t": "p",
-                "x": "走进Runway Labs，看设计师们如何为实时视频模型所带来的可能性制作原型。本集探讨把视频当作操作系统：无需提示词即可选中页面上的任何内容深入探索；可调整尺寸的视频，由模型重新诠释你所看到的画面；以及一款在你绘画时就以你自己的风格让草图动起来的绘图应用。重点在于暂时放下怀疑，走进一个想法，让它成为一场对话。"
-              },
-              {
-                "t": "p",
-                "x": "章节：00:00 开场 · 00:42 任意选择即生成 · 01:14 可调整尺寸的视频 · 02:06 用实时视频绘画 · 02:42 为什么动手创作很重要"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Runway Labs prototipa video\nque funciona como una interfaz",
-          "body": "Runway Labs prototipa video en tiempo real: seleccionas para generar, redimensionas para rehacer y dibujas para animar.",
-          "mini_headline": "Runway convierte el video\nen interfaz",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "1XV_2WrnZH0"
-              },
-              {
-                "t": "p",
-                "x": "Dentro de Runway Labs, donde los diseñadores prototipan lo que hacen posible los modelos de video en tiempo real. Este episodio explora el video como sistema operativo: seleccionar cualquier cosa de una página para profundizar sin escribir prompts, videos que se pueden redimensionar mientras el modelo reinterpreta lo que ves y una app de dibujo que anima tus bocetos con tu propio estilo mientras dibujas. La idea es dejar a un lado la incredulidad, adentrarse en una idea y convertirla en una conversación."
-              },
-              {
-                "t": "p",
-                "x": "Capítulos: 00:00 Introducción · 00:42 Selecciona en cualquier parte para generar · 01:14 Video que se puede redimensionar · 02:06 Dibujar con video en tiempo real · 02:42 Por qué importa hacer"
+                "x": "Blue Spirit itself is experimenting with generative AI. After a 20-person team spent three months finalizing a pilot, one individual replicated it with AI, with lackluster results. Beirnaert gave a “random estimate” that AI could save up to one million euro on a standard eight million euro production."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Runway Labs의\n인터페이스 같은 영상",
-          "body": "Runway Labs가 고르면 생성되고 스케치하면 움직이는 실시간 영상을 시험한다.",
-          "mini_headline": "Runway, 영상을\n인터페이스로",
+          "headline": "AI 없는 Blue Eye\nSamurai 제작",
+          "body": "Netflix는 Blue Eye Samurai 제작에 AI를 아예 금지했다.",
+          "mini_headline": "Blue Eye Samurai에 AI 없다",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "1XV_2WrnZH0"
+                "t": "img",
+                "src": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/11/blue-eye-samurai-with-mizu-holding-a-sword.jpg?&fit=crop&w=1600&h=900",
+                "cap": "검을 든 Mizu가 등장하는 Blue Eye Samurai"
               },
               {
                 "t": "p",
-                "x": "Runway Labs 디자이너들은 실시간 영상 모델로 새로 가능해진 일을 시제품으로 만든다. 이번 에피소드는 그 내부에서 영상을 운영체제처럼 다루는 실험을 따라간다. 프롬프트 없이 페이지에서 아무거나 골라 더 깊이 파고드는 방식, 크기를 바꾸면 모델이 화면 속 내용을 새로 해석하는 영상, 그리는 동안 스케치가 내 스타일 그대로 움직이는 드로잉 앱이 나온다. 불신을 잠시 내려놓고 아이디어 속으로 들어가 그 자체를 대화로 바꾸는 게 핵심이다."
+                "x": "프랑스에서 만드는 Netflix 사무라이 대서사극의 팬이라면 안심해도 된다. 이 시리즈 제작진은 생성형 AI를 지금도, 앞으로도 쓰지 않는다."
               },
               {
                 "t": "p",
-                "x": "챕터: 00:00 인트로 · 00:42 어디든 선택해 생성 · 01:14 크기를 바꿀 수 있는 영상 · 02:06 실시간 영상으로 그리기 · 02:42 직접 만드는 일이 중요한 이유"
+                "x": "Variety에 따르면 Blue Spirit의 최고 크리에이티브 책임자(Chief Creative Officer) Charles Beirnaert는 Netflix가 제작 어느 단계에서도 자기 애니메이션 팀에 AI를 허용하지 않았다고 확인했다. 그는 “Netflix 프로젝트에는 AI를 쓸 수 없다”고 잘라 말했다. Blue Eye Samurai는 2023년 11월 공개됐고, Rotten Tomatoes 평론가 점수는 97%다."
+              },
+              {
+                "t": "img",
+                "src": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2025/08/blue-eye-samurai.jpg?q=70&fit=crop&w=825&dpr=1",
+                "cap": "Netflix 애니메이션 시리즈 Blue Eye Samurai의 Mizu"
+              },
+              {
+                "t": "p",
+                "x": "그렇다고 Netflix가 전면적인 zero-AI 정책을 내놓은 건 아니다. 2023년 Netflix Japan은 Wit Studio의 단편 The Dog and the Boy가 배경 일러스트에 AI를 써서 비판을 받았다. 그런데도 Netflix는 2027년 2월 공개 예정인 One Piece 애니메이션 리부트에서 다시 Wit Studio와 손잡았다."
+              },
+              {
+                "t": "p",
+                "x": "Blue Spirit은 따로 생성형 AI를 실험하고 있다. 20명이 석 달 걸려 만든 파일럿을 한 사람이 AI로 다시 만들어 봤지만 결과는 신통치 않았다. Beirnaert는 “어림짐작”이라는 단서를 달고, 보통 팔백만 유로 규모 제작이라면 AI로 최대 백만 유로를 아낄 수 있다고 내다봤다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AI禁止のBlue Eye\nSamurai制作",
+          "body": "NetflixはBlue Eye Samuraiの制作でAI使用を全面禁止した。",
+          "mini_headline": "Blue Eye SamuraiにAIなし",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/11/blue-eye-samurai-with-mizu-holding-a-sword.jpg?&fit=crop&w=1600&h=900",
+                "cap": "剣を手にするMizuが登場するBlue Eye Samurai"
+              },
+              {
+                "t": "p",
+                "x": "フランス制作によるNetflixの侍叙事詩のファンは安心していい。このシリーズの制作チームは生成AIを使っておらず、今後も使うことはない。"
+              },
+              {
+                "t": "p",
+                "x": "Varietyによると、Blue SpiritのChief Creative OfficerであるCharles Beirnaertは、Netflixが自身のアニメーションチームに対し、制作のいかなる段階でもAIの使用を禁じたと認めた。「Netflixのプロジェクトでは、AIを使うことは許されていない」と彼は率直に語った。Blue Eye Samuraiは2023年11月に配信が始まり、Rotten Tomatoesで批評家スコア97%を得ている。"
+              },
+              {
+                "t": "img",
+                "src": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2025/08/blue-eye-samurai.jpg?q=70&fit=crop&w=825&dpr=1",
+                "cap": "NetflixのアニメシリーズBlue Eye SamuraiのMizu"
+              },
+              {
+                "t": "p",
+                "x": "ただしNetflixが全面的なzero-AI方針を打ち出したわけではない。2023年にはNetflix Japanが、背景イラストにAIを用いたWit Studioの短編The Dog and the Boyで批判を浴びた。NetflixはまたWit Studioと組み、2027年2月公開予定のOne Pieceのアニメリブートを手がけている。"
+              },
+              {
+                "t": "p",
+                "x": "Blue Spirit自身は生成AIを試している。20人のチームが三か月かけてパイロットを仕上げた後、一人がAIでそれを再現したが、結果は物足りないものだった。Beirnaertは「当てずっぽうの見積もり」として、標準的な八百万ユーロの制作でAIにより最大百万ユーロを節約できる可能性があると述べた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Blue Eye\nSamurai全程禁用AI",
+          "body": "Netflix禁止团队在Blue Eye Samurai制作中使用任何AI。",
+          "mini_headline": "Blue Eye Samurai不用AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/11/blue-eye-samurai-with-mizu-holding-a-sword.jpg?&fit=crop&w=1600&h=900",
+                "cap": "Blue Eye Samurai中手持长剑的Mizu"
+              },
+              {
+                "t": "p",
+                "x": "这部由法国制作的Netflix武士史诗的粉丝可以放心了——该剧制作团队目前没有、将来也不会使用生成式AI。"
+              },
+              {
+                "t": "p",
+                "x": "据Variety报道，Blue Spirit首席创意官（Chief Creative Officer）Charles Beirnaert证实，Netflix禁止其动画团队在制作的任何环节使用AI。他直言：“我们不被允许在Netflix项目中使用AI。”Blue Eye Samurai于2023年11月首播，在Rotten Tomatoes上的影评人评分为97%。"
+              },
+              {
+                "t": "img",
+                "src": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2025/08/blue-eye-samurai.jpg?q=70&fit=crop&w=825&dpr=1",
+                "cap": "Netflix动画剧集Blue Eye Samurai中的Mizu"
+              },
+              {
+                "t": "p",
+                "x": "不过Netflix并未全面推行zero-AI政策：2023年，Netflix Japan因Wit Studio制作的短片The Dog and the Boy用AI绘制背景插画而受到批评，而Netflix又与Wit Studio再度合作，推出将于2027年2月上线的One Piece动画重启版。"
+              },
+              {
+                "t": "p",
+                "x": "Blue Spirit自身也在试验生成式AI。一支20人团队花了三个月完成一部试播片后，一个人用AI将其复刻，效果平平。Beirnaert给出一个“随口估算”：在一部标准的八百万欧元制作中，AI最多可节省一百万欧元。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Netflix descarta la AI en\nBlue Eye Samurai",
+          "body": "Charles Beirnaert, de Blue Spirit, dice que Netflix prohibió a su equipo usar AI en cualquier fase de Blue Eye Samurai.",
+          "mini_headline": "Sin AI para Blue Eye Samurai",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/11/blue-eye-samurai-with-mizu-holding-a-sword.jpg?&fit=crop&w=1600&h=900",
+                "cap": "Blue Eye Samurai, con Mizu empuñando una espada"
+              },
+              {
+                "t": "p",
+                "x": "Los fans de la epopeya samurái de Netflix producida en Francia pueden estar tranquilos: el equipo de producción de la serie no usa ni usará nunca AI generativa."
+              },
+              {
+                "t": "p",
+                "x": "Según Variety, el Chief Creative Officer de Blue Spirit, Charles Beirnaert, confirmó que Netflix prohibió a su equipo de animación usar AI en cualquier parte de la producción. “No se nos permite usar AI en los proyectos de Netflix”, afirmó sin rodeos. Blue Eye Samurai se estrenó en noviembre de 2023 y tiene un 97% de aprobación de la crítica en Rotten Tomatoes."
+              },
+              {
+                "t": "img",
+                "src": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2025/08/blue-eye-samurai.jpg?q=70&fit=crop&w=825&dpr=1",
+                "cap": "Mizu en la serie de animación de Netflix Blue Eye Samurai"
+              },
+              {
+                "t": "p",
+                "x": "Netflix no ha adoptado una política zero-AI general: en 2023 Netflix Japan recibió críticas por The Dog and the Boy, un corto de Wit Studio que usó AI para las ilustraciones de fondo, y Netflix se ha vuelto a asociar con Wit Studio para su reinicio en anime de One Piece, previsto para febrero de 2027."
+              },
+              {
+                "t": "p",
+                "x": "Blue Spirit, por su parte, experimenta con AI generativa. Después de que un equipo de 20 personas dedicara tres meses a terminar un piloto, una sola persona lo replicó con AI, con resultados pobres. Beirnaert dio una “estimación aleatoria” de que la AI podría ahorrar hasta un millón de euros en una producción estándar de ocho millones de euros."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ja": {
-          "headline": "Runway Labsが試作\nインターフェース型映像",
-          "body": "Runway Labsは、選ぶと生成し、描くと自分の画風で動くリアルタイム映像を試作する。",
-          "mini_headline": "Runway、映像を\nインターフェースに",
+        "ko": {
+          "headline": "AI 없는 Blue Eye\nSamurai 제작",
+          "body": "Netflix는 Blue Eye Samurai 제작에 AI 사용을 전면 금지했다.",
+          "mini_headline": "Blue Eye Samurai에 AI 없다",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "1XV_2WrnZH0"
+                "t": "img",
+                "src": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/11/blue-eye-samurai-with-mizu-holding-a-sword.jpg?&fit=crop&w=1600&h=900",
+                "cap": "검을 든 Mizu가 등장하는 Blue Eye Samurai"
               },
               {
                 "t": "p",
-                "x": "デザイナーたちがリアルタイム映像モデルで可能になることを試作しているRunway Labsの内側を紹介する。今回のエピソードは、オペレーティングシステムとしての映像を探る。プロンプトなしでページ上の何でも選んでさらに深く掘り下げられる仕組み、サイズを変えるとモデルが見えているものを解釈し直す映像、そして描いている最中にスケッチを自分の画風のまま動かすドローイングアプリだ。狙いは、疑いをいったん脇に置き、アイデアの中に入り込んで、それを対話にすることにある。"
+                "x": "프랑스에서 제작하는 Netflix 사무라이 대서사극의 팬들은 안심해도 된다. 이 시리즈의 제작진은 생성형 AI를 쓰지 않으며 앞으로도 쓰지 않는다."
               },
               {
                 "t": "p",
-                "x": "チャプター：00:00 イントロ · 00:42 どこでも選んで生成 · 01:14 サイズを変えられる映像 · 02:06 リアルタイム映像で描く · 02:42 つくることが大切な理由"
+                "x": "Variety에 따르면 Blue Spirit의 최고 크리에이티브 책임자(Chief Creative Officer) Charles Beirnaert는 Netflix가 자신의 애니메이션 팀에 제작의 어떤 단계에서도 AI를 쓰지 못하게 했다고 확인했다. 그는 “Netflix 프로젝트에는 AI를 쓸 수 없다”고 잘라 말했다. Blue Eye Samurai는 2023년 11월 공개됐고 Rotten Tomatoes 평론가 점수 97%를 기록하고 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2025/08/blue-eye-samurai.jpg?q=70&fit=crop&w=825&dpr=1",
+                "cap": "Netflix 애니메이션 시리즈 Blue Eye Samurai의 Mizu"
+              },
+              {
+                "t": "p",
+                "x": "다만 Netflix가 전면적인 zero-AI 정책을 내놓은 것은 아니다. 2023년 Netflix Japan은 배경 일러스트에 AI를 쓴 Wit Studio의 단편 The Dog and the Boy로 비판을 받았고, Netflix는 2027년 2월 공개 예정인 One Piece 애니메이션 리부트에서 다시 Wit Studio와 손잡았다."
+              },
+              {
+                "t": "p",
+                "x": "Blue Spirit 자체는 생성형 AI를 실험하고 있다. 20명 팀이 석 달에 걸쳐 파일럿을 완성한 뒤 한 사람이 AI로 이를 재현했지만 결과는 신통치 않았다. Beirnaert는 “어림짐작”이라며 일반적인 팔백만 유로 규모 제작에서 AI로 최대 백만 유로를 아낄 수 있다고 봤다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AI禁止のBlue Eye\nSamurai制作",
+          "body": "NetflixはBlue Eye Samuraiの制作でAI使用を全面禁止した。",
+          "mini_headline": "Blue Eye SamuraiにAIなし",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/11/blue-eye-samurai-with-mizu-holding-a-sword.jpg?&fit=crop&w=1600&h=900",
+                "cap": "剣を手にするMizuが登場するBlue Eye Samurai"
+              },
+              {
+                "t": "p",
+                "x": "フランス制作によるNetflixの侍叙事詩のファンは安心していい。このシリーズの制作チームは生成AIを使っておらず、今後も使うことはない。"
+              },
+              {
+                "t": "p",
+                "x": "Varietyによると、Blue SpiritのChief Creative OfficerであるCharles Beirnaertは、Netflixが自身のアニメーションチームに対し、制作のいかなる段階でもAIの使用を禁じたと認めた。「Netflixのプロジェクトでは、AIを使うことは許されていない」と彼は率直に語った。Blue Eye Samuraiは2023年11月に配信が始まり、Rotten Tomatoesで批評家スコア97%を得ている。"
+              },
+              {
+                "t": "img",
+                "src": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2025/08/blue-eye-samurai.jpg?q=70&fit=crop&w=825&dpr=1",
+                "cap": "NetflixのアニメシリーズBlue Eye SamuraiのMizu"
+              },
+              {
+                "t": "p",
+                "x": "ただしNetflixが全面的なzero-AI方針を打ち出したわけではない。2023年にはNetflix Japanが、背景イラストにAIを用いたWit Studioの短編The Dog and the Boyで批判を浴びた。NetflixはまたWit Studioと組み、2027年2月公開予定のOne Pieceのアニメリブートを手がけている。"
+              },
+              {
+                "t": "p",
+                "x": "Blue Spirit自身は生成AIを試している。20人のチームが三か月かけてパイロットを仕上げた後、一人がAIでそれを再現したが、結果は物足りないものだった。Beirnaertは「当てずっぽうの見積もり」として、標準的な八百万ユーロの制作でAIにより最大百万ユーロを節約できる可能性があると述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Runway Labs试做\n像界面一样的视频",
-          "body": "Runway Labs试做实时视频：点选即生成，改尺寸即重绘，草图按你的风格动起来。",
-          "mini_headline": "Runway把视频\n变成界面",
+          "headline": "Blue Eye\nSamurai全程禁用AI",
+          "body": "Netflix禁止团队在Blue Eye Samurai制作中使用任何AI。",
+          "mini_headline": "Blue Eye Samurai不用AI",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "1XV_2WrnZH0"
+                "t": "img",
+                "src": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/11/blue-eye-samurai-with-mizu-holding-a-sword.jpg?&fit=crop&w=1600&h=900",
+                "cap": "Blue Eye Samurai中手持长剑的Mizu"
               },
               {
                 "t": "p",
-                "x": "走进Runway Labs，看设计师们如何为实时视频模型所带来的可能性制作原型。本集探讨把视频当作操作系统：无需提示词即可选中页面上的任何内容深入探索；可调整尺寸的视频，由模型重新诠释你所看到的画面；以及一款在你绘画时就以你自己的风格让草图动起来的绘图应用。重点在于暂时放下怀疑，走进一个想法，让它成为一场对话。"
+                "x": "这部由法国制作的Netflix武士史诗的粉丝可以放心了——该剧制作团队目前没有、将来也不会使用生成式AI。"
               },
               {
                 "t": "p",
-                "x": "章节：00:00 开场 · 00:42 任意选择即生成 · 01:14 可调整尺寸的视频 · 02:06 用实时视频绘画 · 02:42 为什么动手创作很重要"
+                "x": "据Variety报道，Blue Spirit首席创意官（Chief Creative Officer）Charles Beirnaert证实，Netflix禁止其动画团队在制作的任何环节使用AI。他直言：“我们不被允许在Netflix项目中使用AI。”Blue Eye Samurai于2023年11月首播，在Rotten Tomatoes上的影评人评分为97%。"
+              },
+              {
+                "t": "img",
+                "src": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2025/08/blue-eye-samurai.jpg?q=70&fit=crop&w=825&dpr=1",
+                "cap": "Netflix动画剧集Blue Eye Samurai中的Mizu"
+              },
+              {
+                "t": "p",
+                "x": "不过Netflix并未全面推行zero-AI政策：2023年，Netflix Japan因Wit Studio制作的短片The Dog and the Boy用AI绘制背景插画而受到批评，而Netflix又与Wit Studio再度合作，推出将于2027年2月上线的One Piece动画重启版。"
+              },
+              {
+                "t": "p",
+                "x": "Blue Spirit自身也在试验生成式AI。一支20人团队花了三个月完成一部试播片后，一个人用AI将其复刻，效果平平。Beirnaert给出一个“随口估算”：在一部标准的八百万欧元制作中，AI最多可节省一百万欧元。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Runway Labs prototipa video\nque funciona como una interfaz",
-          "body": "Runway Labs prototipa video en tiempo real: seleccionas para generar, redimensionas para rehacer y dibujas para animar.",
-          "mini_headline": "Runway convierte el video\nen interfaz",
+          "headline": "Netflix descarta la AI en\nBlue Eye Samurai",
+          "body": "Charles Beirnaert, de Blue Spirit, dice que Netflix prohibió a su equipo usar AI en cualquier fase de Blue Eye Samurai.",
+          "mini_headline": "Sin AI para Blue Eye Samurai",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "1XV_2WrnZH0"
+                "t": "img",
+                "src": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/11/blue-eye-samurai-with-mizu-holding-a-sword.jpg?&fit=crop&w=1600&h=900",
+                "cap": "Blue Eye Samurai, con Mizu empuñando una espada"
               },
               {
                 "t": "p",
-                "x": "Dentro de Runway Labs, donde los diseñadores prototipan lo que hacen posible los modelos de video en tiempo real. Este episodio explora el video como sistema operativo: seleccionar cualquier cosa de una página para profundizar sin escribir prompts, videos que se pueden redimensionar mientras el modelo reinterpreta lo que ves y una app de dibujo que anima tus bocetos con tu propio estilo mientras dibujas. La idea es dejar a un lado la incredulidad, adentrarse en una idea y convertirla en una conversación."
+                "x": "Los fans de la epopeya samurái de Netflix producida en Francia pueden estar tranquilos: el equipo de producción de la serie no usa ni usará nunca AI generativa."
               },
               {
                 "t": "p",
-                "x": "Capítulos: 00:00 Introducción · 00:42 Selecciona en cualquier parte para generar · 01:14 Video que se puede redimensionar · 02:06 Dibujar con video en tiempo real · 02:42 Por qué importa hacer"
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Runway Labs의\n인터페이스 같은 영상",
-          "body": "Runway Labs가 고르면 생성되고 스케치하면 움직이는 실시간 영상을 시험한다.",
-          "mini_headline": "Runway, 영상을\n인터페이스로",
-          "full": {
-            "mode": "full",
-            "blocks": [
+                "x": "Según Variety, el Chief Creative Officer de Blue Spirit, Charles Beirnaert, confirmó que Netflix prohibió a su equipo de animación usar AI en cualquier parte de la producción. “No se nos permite usar AI en los proyectos de Netflix”, afirmó sin rodeos. Blue Eye Samurai se estrenó en noviembre de 2023 y tiene un 97% de aprobación de la crítica en Rotten Tomatoes."
+              },
               {
-                "t": "video",
-                "yt": "1XV_2WrnZH0"
+                "t": "img",
+                "src": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2025/08/blue-eye-samurai.jpg?q=70&fit=crop&w=825&dpr=1",
+                "cap": "Mizu en la serie de animación de Netflix Blue Eye Samurai"
               },
               {
                 "t": "p",
-                "x": "디자이너들이 실시간 영상 모델로 가능해지는 일을 시제품으로 만들고 있는 Runway Labs 내부를 들여다본다. 이번 에피소드는 운영체제로서의 영상을 탐구한다. 프롬프트 없이 페이지의 무엇이든 선택해 더 깊이 들어가는 방식, 크기를 바꾸면 모델이 보이는 것을 재해석하는 영상, 그리고 그리는 동안 스케치를 내 스타일 그대로 움직이게 하는 드로잉 앱이다. 핵심은 불신을 잠시 내려놓고 아이디어 속으로 들어가 그것을 하나의 대화로 만드는 것이다."
+                "x": "Netflix no ha adoptado una política zero-AI general: en 2023 Netflix Japan recibió críticas por The Dog and the Boy, un corto de Wit Studio que usó AI para las ilustraciones de fondo, y Netflix se ha vuelto a asociar con Wit Studio para su reinicio en anime de One Piece, previsto para febrero de 2027."
               },
               {
                 "t": "p",
-                "x": "챕터: 00:00 인트로 · 00:42 어디든 선택해 생성 · 01:14 크기를 바꿀 수 있는 영상 · 02:06 실시간 영상으로 그리기 · 02:42 직접 만드는 일이 중요한 이유"
+                "x": "Blue Spirit, por su parte, experimenta con AI generativa. Después de que un equipo de 20 personas dedicara tres meses a terminar un piloto, una sola persona lo replicó con AI, con resultados pobres. Beirnaert dio una “estimación aleatoria” de que la AI podría ahorrar hasta un millón de euros en una producción estándar de ocho millones de euros."
               }
             ]
           }
@@ -889,15 +1099,15 @@
       }
     },
     {
-      "id": "mansa-ai-microdramas-black-stories",
+      "id": "guardian-storyboard-artists-ai",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Mansa, AI 숏드라마\n흑인 이야기 확대 노린다",
-      "body": "Mansa는 AI 숏드라마로 흑인 관객 수요를 검증한다지만 변절이란 비판도 받는다.",
-      "mini_headline": "Mansa의 AI\n숏드라마 승부수",
+      "headline": "Scorsese도 AI\n스토리보드 작가 긴장",
+      "body": "Hollywood가 AI를 들이자 스토리보드 작가가 가장 직접적인 위기에 놓였다.",
+      "mini_headline": "AI 앞의 스토리보드",
       "tool": "Movies",
-      "source": "WIRED",
-      "url": "https://www.wired.com/story/black-roles-are-disappearing-in-hollywood-this-startup-is-using-ai-microdramas-to-fight-back/",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/nov/10/storyboard-artists-ai",
       "accent": "#2ec5c5",
       "motif": "frame",
       "full": {
@@ -905,173 +1115,209 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://media.wired.com/photos/6af65ba58bac4203b57b5ba0/191:100/w_1280,c_limit/Startup-Betting-on-AI-Microdramas-Culture.jpg"
+            "src": "https://i.guim.co.uk/img/media/c9aabe04cbc4724110ea14f7d6a4bfe25a89ef20/94_56_6693_4292/master/6693.jpg?width=1200&dpr=1&s=none&crop=none",
+            "cap": "Gone with the Wind의 스토리보드 패널"
           },
           {
             "t": "p",
-            "x": "Mansa의 새 숏드라마 They Left Us to Die는 South Los Angeles의 좀비 바이러스를 다룬 30부작으로, 처음부터 끝까지 AI로 만들었다(AI-generated). 10월 29일 예고편이 나오자 비평가들은 배우 David Oyelowo와 Nate Parker가 세운 회사가 왜 인간 배역이 하나도 없는 작품을 만들었느냐고 따져 물었다. 한 Threads 사용자는 이를 “또 하나의 AI 변절”이라 불렀다."
+            "x": "Hollywood가 이 기술을 받아들이기 시작하면서 가장 직접적인 위기를 맞은 직군은 감독의 첫 구상을 그림으로 옮기는 일러스트레이터다. James Cameron은 gen AI 기업 이사회에 들어가 있고, Steven Soderbergh는 John Lennon 다큐멘터리 애니메이션에 Meta-powered 기술을 썼다. Christopher Nolan도 AI가 쓸모 있는 “이미징 도구”를 몇 가지는 내놓을 것이라고 인정한다."
           },
           {
             "t": "p",
-            "x": "Mansa의 설명은 다르다. AI는 인간 중심 콘텐츠를 대체하는 게 아니라 체스 말처럼 쓰는 수단이라는 것이다. 스튜디오가 실사 제작에 들어가기 전에 흑인 이야기를 원하는 관객이 얼마나 되는지 먼저 시험해 본다는 얘기다. Parker는 숏드라마로 “콘텐츠를 시험해 볼 수 있고… 수익화할 수 있고… 참여도 데이터를 추적할 수 있다”고 설명한다."
+            "x": "지금 탄광 속 카나리아는 스토리보드 작가다. Martin Scorsese까지 합류했다. 그는 6월 한 AI 기업과 협업을 발표했고 차기작 스토리보드에 이 회사의 text-to-image 모델을 썼다."
+          },
+          {
+            "t": "img",
+            "src": "https://i.guim.co.uk/img/media/b0a5fde115c51a5fd45e9a0ec5b762b61284e164/0_0_3404_4370/master/3404.jpg?width=890&dpr=1&s=none&crop=none",
+            "cap": "Saul Bass가 그린 Psycho의 스토리보드"
           },
           {
             "t": "p",
-            "x": "Omdia 집계로는 사용자들이 하루 ReelShort에 36분을 썼다. Prime Video는 26분, Netflix는 20분이었다. Omdia는 2027년 숏드라마 시장 규모를 $14 billion으로 전망한다. UCLA Hollywood Diversity 보고서를 보면 2025년 영화 주연 중 흑인 배우는 6.5퍼센트에 그쳤다. Mansa는 실사(live-action) 숏드라마 아홉 편과 전부 AI로 만든 숏드라마 두 편을 제작했지만 성과 데이터 공개는 거부했다."
+            "x": "Mickey 17과 The Gorge의 스토리보드 작가 Alex Clark는 “스토리보드가 멋진 그림을 그리는 일이라는 건 흔한 오해”라며 “감독이 어떻게 생각하는지에 다가가는 일”이라고 설명한다. Denis Villeneuve는 협업자 Sam Hudecki를 “내 뇌의 연장”이라고 부른다."
           },
           {
             "t": "p",
-            "x": "Syracuse 대학의 J. Christopher Hamilton은 Parker가 “분위기를 읽지 못하고 있다”고 꼬집으면서도, AI 숏드라마는 업계가 무시하기엔 “너무나 매력적인 사업 제안”이라고 본다."
+            "x": "Abertay 강사 Ferdinando Cocco는 아날로그 작업으로 돌아가는 흐름을 내다본다. “AI가 극복했다는 그 어려움이야말로 애초에 핵심이었는지도 모른다.” Clark도 관객이 사람의 손길이 담긴 영화를 가치 있게 여기게 될 것으로 본다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Mansa bets on AI microdramas\nto pitch more Black stories",
-          "body": "Mansa calls its AI microdramas proofs of concept for what Black audiences want; critics say the studio is selling out.",
-          "mini_headline": "Mansa's AI\nmicrodrama bet",
+          "headline": "Storyboard artists brace\nas even Scorsese uses AI",
+          "body": "As Hollywood adopts AI, storyboard artists who sketch directors' first visions face the most direct jeopardy.",
+          "mini_headline": "Storyboards meet AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6af65ba58bac4203b57b5ba0/191:100/w_1280,c_limit/Startup-Betting-on-AI-Microdramas-Culture.jpg"
+                "src": "https://i.guim.co.uk/img/media/c9aabe04cbc4724110ea14f7d6a4bfe25a89ef20/94_56_6693_4292/master/6693.jpg?width=1200&dpr=1&s=none&crop=none",
+                "cap": "Gone with the Wind storyboard panels"
               },
               {
                 "t": "p",
-                "x": "They Left Us to Die, a new microdrama from Mansa about a zombie virus in South Los Angeles, runs 30 episodes and is entirely AI-generated. After the trailer’s October 29 release, critics asked why a company founded by actors David Oyelowo and Nate Parker made a show with zero human roles; one Threads user called it “another AI sellout.”"
+                "x": "As Hollywood begins to adopt the technology, the professionals in most direct jeopardy are the illustrators mapping out directors’ first visions. James Cameron sits on the board of a gen AI firm, Steven Soderbergh used Meta-powered tech for animations in his John Lennon documentary, and Christopher Nolan concedes AI will create some useful “imaging tools”."
               },
               {
                 "t": "p",
-                "x": "Mansa says it uses AI as a chess piece rather than a replacement for human-centered content: testing audience appetite for Black stories before studios commit to live production. With microdramas, Parker says, “you get to test a piece of content… you get to monetize it… track data around engagement.”"
+                "x": "The current canary in the coalmine is the storyboard artist. Even Martin Scorsese has got on board: in June he announced a partnership with an AI firm whose text-to-image model he used in storyboarding his next movie."
+              },
+              {
+                "t": "img",
+                "src": "https://i.guim.co.uk/img/media/b0a5fde115c51a5fd45e9a0ec5b762b61284e164/0_0_3404_4370/master/3404.jpg?width=890&dpr=1&s=none&crop=none",
+                "cap": "Storyboard by Saul Bass for Psycho"
               },
               {
                 "t": "p",
-                "x": "Omdia found users spent 36 minutes a day on ReelShort versus 26 on Prime Video and 20 on Netflix, and predicts a $14 billion microdrama market in 2027. Black actors accounted for only 6.5 percent of movie leads in 2025, per the UCLA Hollywood Diversity report. Mansa has produced nine live-action microdramas and two fully AI-generated ones, and declined to share performance data."
+                "x": "“A common misconception is that storyboarding is about making nice drawings,” says Alex Clark, storyboard artist on Mickey 17 and The Gorge. “It’s about relating to how the director is thinking.” Denis Villeneuve calls his collaborator Sam Hudecki “an extension of my brain”."
               },
               {
                 "t": "p",
-                "x": "Syracuse’s J. Christopher Hamilton says Parker is “not reading the room,” yet calls AI microdramas “too compelling a business proposition” for the industry to ignore."
+                "x": "Abertay lecturer Ferdinando Cocco sees a return to analogue practices: “Perhaps the difficulty that AI purportedly overcomes was the whole point from the start.” Clark predicts audiences will come to value films with a human touch."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Mansa, AI 숏드라마\n흑인 이야기 확대 노린다",
-          "body": "Mansa는 AI 숏드라마로 흑인 관객 수요를 검증한다지만 변절이란 비판도 받는다.",
-          "mini_headline": "Mansa의 AI\n숏드라마 승부수",
+          "headline": "Scorsese도 AI\n스토리보드 작가 긴장",
+          "body": "Hollywood가 AI를 들이자 스토리보드 작가가 가장 직접적인 위기에 놓였다.",
+          "mini_headline": "AI 앞의 스토리보드",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6af65ba58bac4203b57b5ba0/191:100/w_1280,c_limit/Startup-Betting-on-AI-Microdramas-Culture.jpg"
+                "src": "https://i.guim.co.uk/img/media/c9aabe04cbc4724110ea14f7d6a4bfe25a89ef20/94_56_6693_4292/master/6693.jpg?width=1200&dpr=1&s=none&crop=none",
+                "cap": "Gone with the Wind의 스토리보드 패널"
               },
               {
                 "t": "p",
-                "x": "Mansa의 새 숏드라마 They Left Us to Die는 South Los Angeles의 좀비 바이러스를 다룬 30부작으로, 처음부터 끝까지 AI로 만들었다(AI-generated). 10월 29일 예고편이 나오자 비평가들은 배우 David Oyelowo와 Nate Parker가 세운 회사가 왜 인간 배역이 하나도 없는 작품을 만들었느냐고 따져 물었다. 한 Threads 사용자는 이를 “또 하나의 AI 변절”이라 불렀다."
+                "x": "Hollywood가 이 기술을 받아들이기 시작하면서 가장 직접적인 위기를 맞은 직군은 감독의 첫 구상을 그림으로 옮기는 일러스트레이터다. James Cameron은 gen AI 기업 이사회에 들어가 있고, Steven Soderbergh는 John Lennon 다큐멘터리 애니메이션에 Meta-powered 기술을 썼다. Christopher Nolan도 AI가 쓸모 있는 “이미징 도구”를 몇 가지는 내놓을 것이라고 인정한다."
               },
               {
                 "t": "p",
-                "x": "Mansa의 설명은 다르다. AI는 인간 중심 콘텐츠를 대체하는 게 아니라 체스 말처럼 쓰는 수단이라는 것이다. 스튜디오가 실사 제작에 들어가기 전에 흑인 이야기를 원하는 관객이 얼마나 되는지 먼저 시험해 본다는 얘기다. Parker는 숏드라마로 “콘텐츠를 시험해 볼 수 있고… 수익화할 수 있고… 참여도 데이터를 추적할 수 있다”고 설명한다."
+                "x": "지금 탄광 속 카나리아는 스토리보드 작가다. Martin Scorsese까지 합류했다. 그는 6월 한 AI 기업과 협업을 발표했고 차기작 스토리보드에 이 회사의 text-to-image 모델을 썼다."
+              },
+              {
+                "t": "img",
+                "src": "https://i.guim.co.uk/img/media/b0a5fde115c51a5fd45e9a0ec5b762b61284e164/0_0_3404_4370/master/3404.jpg?width=890&dpr=1&s=none&crop=none",
+                "cap": "Saul Bass가 그린 Psycho의 스토리보드"
               },
               {
                 "t": "p",
-                "x": "Omdia 집계로는 사용자들이 하루 ReelShort에 36분을 썼다. Prime Video는 26분, Netflix는 20분이었다. Omdia는 2027년 숏드라마 시장 규모를 $14 billion으로 전망한다. UCLA Hollywood Diversity 보고서를 보면 2025년 영화 주연 중 흑인 배우는 6.5퍼센트에 그쳤다. Mansa는 실사(live-action) 숏드라마 아홉 편과 전부 AI로 만든 숏드라마 두 편을 제작했지만 성과 데이터 공개는 거부했다."
+                "x": "Mickey 17과 The Gorge의 스토리보드 작가 Alex Clark는 “스토리보드가 멋진 그림을 그리는 일이라는 건 흔한 오해”라며 “감독이 어떻게 생각하는지에 다가가는 일”이라고 설명한다. Denis Villeneuve는 협업자 Sam Hudecki를 “내 뇌의 연장”이라고 부른다."
               },
               {
                 "t": "p",
-                "x": "Syracuse 대학의 J. Christopher Hamilton은 Parker가 “분위기를 읽지 못하고 있다”고 꼬집으면서도, AI 숏드라마는 업계가 무시하기엔 “너무나 매력적인 사업 제안”이라고 본다."
+                "x": "Abertay 강사 Ferdinando Cocco는 아날로그 작업으로 돌아가는 흐름을 내다본다. “AI가 극복했다는 그 어려움이야말로 애초에 핵심이었는지도 모른다.” Clark도 관객이 사람의 손길이 담긴 영화를 가치 있게 여기게 될 것으로 본다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Mansa、AIドラマで\n黒人の物語を売り込む",
-          "body": "MansaはAIマイクロドラマを黒人観客の需要の検証と呼ぶが、身売りとの批判もある。",
-          "mini_headline": "MansaのAI\nマイクロドラマ戦略",
+          "headline": "ScorseseもAI活用\n絵コンテ作家に危機感",
+          "body": "HollywoodのAI導入で、監督の構想を描く絵コンテ作家が最も直接的な危機にある。",
+          "mini_headline": "絵コンテとAI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6af65ba58bac4203b57b5ba0/191:100/w_1280,c_limit/Startup-Betting-on-AI-Microdramas-Culture.jpg"
+                "src": "https://i.guim.co.uk/img/media/c9aabe04cbc4724110ea14f7d6a4bfe25a89ef20/94_56_6693_4292/master/6693.jpg?width=1200&dpr=1&s=none&crop=none",
+                "cap": "Gone with the Windの絵コンテパネル"
               },
               {
                 "t": "p",
-                "x": "South Los Angelesのゾンビウイルスを描くMansaの新作マイクロドラマ『They Left Us to Die』は全30話で、すべてAIで生成されている（AI-generated）。10月29日に予告編が公開されると、俳優David OyelowoとNate Parkerが設立した会社が、なぜ人間の役がゼロの作品を作ったのかと批判が上がった。あるThreadsユーザーは「またしてもAIへの身売り」と呼んだ。"
+                "x": "Hollywoodがこの技術を取り入れ始める中、最も直接的な危機に立たされているのは、監督の最初の構想を描き出すイラストレーターたちだ。James Cameronはgen AI企業の取締役を務め、Steven SoderberghはJohn Lennonのドキュメンタリーのアニメーションに Meta-powered の技術を使い、Christopher NolanもAIが有用な「イメージングツール」をいくつか生み出すと認めている。"
               },
               {
                 "t": "p",
-                "x": "Mansaは、AIを人間中心のコンテンツの代替ではなくチェスの駒として使っていると言う。スタジオが実写制作に踏み切る前に、黒人の物語への観客の関心を試すためだ。Parkerによれば、マイクロドラマなら「コンテンツを試せる……収益化できる……エンゲージメントのデータを追跡できる」。"
+                "x": "いま炭鉱のカナリアとなっているのは絵コンテ作家だ。Martin Scorseseまでもが乗り出した。彼は6月、あるAI企業との提携を発表し、次回作の絵コンテ制作にその企業のtext-to-imageモデルを使った。"
+              },
+              {
+                "t": "img",
+                "src": "https://i.guim.co.uk/img/media/b0a5fde115c51a5fd45e9a0ec5b762b61284e164/0_0_3404_4370/master/3404.jpg?width=890&dpr=1&s=none&crop=none",
+                "cap": "Saul BassによるPsychoの絵コンテ"
               },
               {
                 "t": "p",
-                "x": "Omdiaによると、ユーザーがReelShortに費やす時間は毎日36分で、Prime Videoの26分、Netflixの20分を上回る。Omdiaは2027年のマイクロドラマ市場を$14 billionと予測する。UCLA Hollywood Diversityの報告書によれば、2025年の映画の主演に占める黒人俳優の割合は6.5パーセントにとどまった。Mansaはこれまで実写（live-action）マイクロドラマを九本、完全にAIで生成したものを二本制作したが、成績データの公開は断った。"
+                "x": "「絵コンテはきれいな絵を描くことだというのはよくある誤解だ」と、Mickey 17やThe Gorgeで絵コンテを手がけたAlex Clarkは言う。「監督がどう考えているかに寄り添うことなのだ」。Denis Villeneuveは協力者のSam Hudeckiを「私の脳の延長」と呼ぶ。"
               },
               {
                 "t": "p",
-                "x": "SyracuseのJ. Christopher Hamiltonは、Parkerは「空気が読めていない」としながらも、AIマイクロドラマは業界が無視するには「あまりに魅力的なビジネス提案」だと言う。"
+                "x": "Abertayの講師Ferdinando Coccoはアナログな手法への回帰を見込む。「AIが克服したとされる難しさこそ、そもそもの要点だったのかもしれない」。Clarkは、観客が人の手のぬくもりがある映画を評価するようになると予想する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Mansa押注AI微短剧\n推更多黑人故事",
-          "body": "Mansa称AI微短剧是检验黑人观众需求的概念验证；批评者称其出卖初心。",
-          "mini_headline": "Mansa的AI\n微短剧赌注",
+          "headline": "连Scorsese都用AI\n分镜师严阵以待",
+          "body": "随着Hollywood采用AI，为导演勾勒最初构想的分镜师首当其冲。",
+          "mini_headline": "分镜遇上AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6af65ba58bac4203b57b5ba0/191:100/w_1280,c_limit/Startup-Betting-on-AI-Microdramas-Culture.jpg"
+                "src": "https://i.guim.co.uk/img/media/c9aabe04cbc4724110ea14f7d6a4bfe25a89ef20/94_56_6693_4292/master/6693.jpg?width=1200&dpr=1&s=none&crop=none",
+                "cap": "Gone with the Wind的分镜画板"
               },
               {
                 "t": "p",
-                "x": "Mansa的新微短剧《They Left Us to Die》讲述South Los Angeles的一场僵尸病毒，共30集，完全由AI生成（AI-generated）。10月29日预告片发布后，批评者质疑，一家由演员David Oyelowo和Nate Parker创立的公司，为何要做一部零真人角色的剧；一位Threads用户称其为“又一次向AI出卖”。"
+                "x": "随着Hollywood开始采用这项技术，处境最直接危险的是为导演描绘最初构想的插画师。James Cameron身居一家gen AI公司的董事会，Steven Soderbergh在其John Lennon纪录片的动画中使用了Meta-powered技术，Christopher Nolan也承认AI会催生一些有用的“成像工具”。"
               },
               {
                 "t": "p",
-                "x": "Mansa表示，它把AI当作一枚棋子，而不是以人为本内容的替代品：在制片厂投入真人拍摄之前，先测试观众对黑人故事的兴趣。Parker说，有了微短剧，“你可以测试一部内容……可以将其变现……可以追踪互动数据。”"
+                "x": "如今煤矿里的金丝雀是分镜师。连Martin Scorsese也加入了：他在6月宣布与一家AI公司合作，并在为下一部电影绘制分镜时使用了该公司的text-to-image模型。"
+              },
+              {
+                "t": "img",
+                "src": "https://i.guim.co.uk/img/media/b0a5fde115c51a5fd45e9a0ec5b762b61284e164/0_0_3404_4370/master/3404.jpg?width=890&dpr=1&s=none&crop=none",
+                "cap": "Saul Bass为Psycho绘制的分镜"
               },
               {
                 "t": "p",
-                "x": "Omdia发现，用户每天在ReelShort上花费36分钟，而在Prime Video上为26分钟，在Netflix上为20分钟；该机构预计2027年微短剧市场规模将达$14 billion。根据UCLA Hollywood Diversity报告，2025年黑人演员仅占电影主角的6.5%。Mansa已制作九部真人（live-action）微短剧和两部完全由AI生成的微短剧，但拒绝透露表现数据。"
+                "x": "“一个常见的误解是，分镜就是画出好看的图，”Mickey 17和The Gorge的分镜师Alex Clark说，“它关乎贴近导演的思考方式。”Denis Villeneuve称他的合作者Sam Hudecki是“我大脑的延伸”。"
               },
               {
                 "t": "p",
-                "x": "Syracuse大学的J. Christopher Hamilton说，Parker“没有看清形势”，但他也认为AI微短剧是业界无法忽视的“极具吸引力的商业提议”。"
+                "x": "Abertay讲师Ferdinando Cocco认为会出现向模拟手法的回归：“也许AI声称克服的那种困难，从一开始就是关键所在。”Clark预测，观众会越来越珍视带有人情味的电影。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Mansa apuesta por microdramas\ncon AI para más relatos negros",
-          "body": "Mansa llama a sus microdramas con AI pruebas de concepto para el público negro; sus críticos dicen que se ha vendido.",
-          "mini_headline": "La apuesta de Mansa\npor los microdramas con AI",
+          "headline": "Artistas de storyboard en vilo:\nhasta Scorsese usa AI",
+          "body": "Con la AI en Hollywood, los artistas de storyboard que plasman la primera visión del director son los más expuestos.",
+          "mini_headline": "El storyboard ante la AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6af65ba58bac4203b57b5ba0/191:100/w_1280,c_limit/Startup-Betting-on-AI-Microdramas-Culture.jpg"
+                "src": "https://i.guim.co.uk/img/media/c9aabe04cbc4724110ea14f7d6a4bfe25a89ef20/94_56_6693_4292/master/6693.jpg?width=1200&dpr=1&s=none&crop=none",
+                "cap": "Viñetas del storyboard de Gone with the Wind"
               },
               {
                 "t": "p",
-                "x": "They Left Us to Die, un nuevo microdrama de Mansa sobre un virus zombi en South Los Angeles, tiene 30 episodios y está generado por completo con AI (AI-generated). Tras el estreno del tráiler el 29 de octubre, los críticos preguntaron por qué una empresa fundada por los actores David Oyelowo y Nate Parker hizo una serie con cero papeles humanos; un usuario de Threads la calificó de “otro vendido más a la AI”."
+                "x": "A medida que Hollywood empieza a adoptar la tecnología, los profesionales en peligro más directo son los ilustradores que plasman la primera visión de los directores. James Cameron forma parte del consejo de una empresa de gen AI, Steven Soderbergh usó tecnología Meta-powered para las animaciones de su documental sobre John Lennon y Christopher Nolan admite que la AI creará algunas “herramientas de imagen” útiles."
               },
               {
                 "t": "p",
-                "x": "Mansa afirma que usa la AI como una pieza de ajedrez y no como sustituto del contenido centrado en las personas: sirve para medir el interés del público por las historias negras antes de que los estudios se comprometan con una producción con actores reales. Con los microdramas, dice Parker, “puedes probar un contenido… puedes monetizarlo… seguir los datos de interacción”."
+                "x": "El canario en la mina de hoy es el artista de storyboard. Incluso Martin Scorsese se ha subido al carro: en junio anunció una alianza con una empresa de AI cuyo modelo text-to-image utilizó para el storyboard de su próxima película."
+              },
+              {
+                "t": "img",
+                "src": "https://i.guim.co.uk/img/media/b0a5fde115c51a5fd45e9a0ec5b762b61284e164/0_0_3404_4370/master/3404.jpg?width=890&dpr=1&s=none&crop=none",
+                "cap": "Storyboard de Saul Bass para Psycho"
               },
               {
                 "t": "p",
-                "x": "Omdia halló que los usuarios dedicaban 36 minutos al día a ReelShort, frente a 26 en Prime Video y 20 en Netflix, y prevé un mercado de microdramas de 14 mil millones de dólares en 2027. Los actores negros representaron solo el 6.5 por ciento de los protagonistas de cine en 2025, según el informe UCLA Hollywood Diversity. Mansa ha producido nueve microdramas de imagen real (live-action) y dos generados por completo con AI, y declinó compartir datos de rendimiento."
+                "x": "“Un error común es pensar que el storyboard consiste en hacer dibujos bonitos”, dice Alex Clark, artista de storyboard en Mickey 17 y The Gorge. “Se trata de conectar con cómo piensa el director”. Denis Villeneuve llama a su colaborador Sam Hudecki “una extensión de mi cerebro”."
               },
               {
                 "t": "p",
-                "x": "J. Christopher Hamilton, de Syracuse, dice que Parker “no está leyendo el ambiente”, pero considera los microdramas con AI “una propuesta de negocio demasiado atractiva” como para que la industria la ignore."
+                "x": "Ferdinando Cocco, profesor en Abertay, prevé un regreso a las prácticas analógicas: “Quizá la dificultad que la AI supuestamente supera era precisamente el sentido de todo desde el principio”. Clark predice que el público llegará a valorar las películas con un toque humano."
               }
             ]
           }
@@ -1079,121 +1325,145 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Mansa, AI 숏드라마\n흑인 이야기 확대 노린다",
-          "body": "Mansa는 AI 숏드라마가 흑인 관객 수요를 검증한다지만 변절이란 비판을 받는다.",
-          "mini_headline": "Mansa의 AI\n숏드라마 승부수",
+          "headline": "Scorsese도 AI\n스토리보드 작가 긴장",
+          "body": "Hollywood의 AI 도입으로 스토리보드 작가가 가장 직접적인 위기에 놓였다.",
+          "mini_headline": "AI 앞의 스토리보드",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6af65ba58bac4203b57b5ba0/191:100/w_1280,c_limit/Startup-Betting-on-AI-Microdramas-Culture.jpg"
+                "src": "https://i.guim.co.uk/img/media/c9aabe04cbc4724110ea14f7d6a4bfe25a89ef20/94_56_6693_4292/master/6693.jpg?width=1200&dpr=1&s=none&crop=none",
+                "cap": "Gone with the Wind의 스토리보드 패널"
               },
               {
                 "t": "p",
-                "x": "South Los Angeles의 좀비 바이러스를 다룬 Mansa의 새 숏드라마 They Left Us to Die는 30부작으로, 전부 AI로 생성됐다(AI-generated). 10월 29일 예고편 공개 후, 비평가들은 배우 David Oyelowo와 Nate Parker가 세운 회사가 왜 인간 배역이 하나도 없는 작품을 만들었는지 물었다. 한 Threads 사용자는 이를 “또 하나의 AI 변절”이라 불렀다."
+                "x": "Hollywood가 이 기술을 받아들이기 시작하면서 가장 직접적인 위기에 놓인 전문가는 감독의 첫 구상을 그려 내는 일러스트레이터들이다. James Cameron은 gen AI 기업의 이사회에 몸담고 있고, Steven Soderbergh는 John Lennon 다큐멘터리의 애니메이션에 Meta-powered 기술을 썼으며, Christopher Nolan도 AI가 유용한 “이미징 도구”를 일부 만들어 낼 것이라고 인정한다."
               },
               {
                 "t": "p",
-                "x": "Mansa는 AI를 인간 중심 콘텐츠의 대체물이 아니라 체스 말처럼 쓴다고 말한다. 스튜디오가 실사 제작에 나서기 전에 흑인 이야기에 대한 관객의 수요를 시험한다는 것이다. Parker는 숏드라마로 “콘텐츠를 시험해 볼 수 있고… 수익화할 수 있고… 참여도 데이터를 추적할 수 있다”고 말한다."
+                "x": "지금 탄광 속 카나리아는 스토리보드 작가다. Martin Scorsese마저 합류했다. 그는 6월 한 AI 기업과의 협업을 발표했고, 차기작 스토리보드 작업에 이 회사의 text-to-image 모델을 썼다."
+              },
+              {
+                "t": "img",
+                "src": "https://i.guim.co.uk/img/media/b0a5fde115c51a5fd45e9a0ec5b762b61284e164/0_0_3404_4370/master/3404.jpg?width=890&dpr=1&s=none&crop=none",
+                "cap": "Saul Bass가 그린 Psycho의 스토리보드"
               },
               {
                 "t": "p",
-                "x": "Omdia에 따르면 사용자들은 하루에 ReelShort에서 36분을 보낸 반면 Prime Video에서는 26분, Netflix에서는 20분을 보냈다. Omdia는 2027년 숏드라마 시장 규모를 $14 billion으로 전망한다. UCLA Hollywood Diversity 보고서에 따르면 2025년 영화 주연 가운데 흑인 배우의 비율은 6.5퍼센트에 그쳤다. Mansa는 실사(live-action) 숏드라마 아홉 편과 전부 AI로 생성한 숏드라마 두 편을 제작했으며, 성과 데이터 공개는 거부했다."
+                "x": "Mickey 17과 The Gorge의 스토리보드 작가 Alex Clark는 “스토리보드가 멋진 그림을 그리는 일이라는 건 흔한 오해”라며 “감독이 어떻게 생각하는지에 다가가는 일”이라고 말한다. Denis Villeneuve는 협업자 Sam Hudecki를 “내 뇌의 연장”이라고 부른다."
               },
               {
                 "t": "p",
-                "x": "Syracuse 대학의 J. Christopher Hamilton은 Parker가 “분위기를 읽지 못하고 있다”고 하면서도, AI 숏드라마는 업계가 무시하기에는 “너무나 매력적인 사업 제안”이라고 말한다."
+                "x": "Abertay 강사 Ferdinando Cocco는 아날로그 작업으로의 회귀를 내다본다. “AI가 극복했다는 그 어려움이야말로 애초에 핵심이었는지도 모른다.” Clark는 관객이 사람의 손길이 담긴 영화를 가치 있게 여기게 될 것이라고 전망한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Mansa、AIドラマで\n黒人の物語を売り込む",
-          "body": "MansaはAIマイクロドラマを黒人観客の需要の検証と呼ぶが、身売りとの批判もある。",
-          "mini_headline": "MansaのAI\nマイクロドラマ戦略",
+          "headline": "ScorseseもAI活用\n絵コンテ作家に危機感",
+          "body": "HollywoodのAI導入で、監督の構想を描く絵コンテ作家が最も直接的な危機にある。",
+          "mini_headline": "絵コンテとAI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6af65ba58bac4203b57b5ba0/191:100/w_1280,c_limit/Startup-Betting-on-AI-Microdramas-Culture.jpg"
+                "src": "https://i.guim.co.uk/img/media/c9aabe04cbc4724110ea14f7d6a4bfe25a89ef20/94_56_6693_4292/master/6693.jpg?width=1200&dpr=1&s=none&crop=none",
+                "cap": "Gone with the Windの絵コンテパネル"
               },
               {
                 "t": "p",
-                "x": "South Los Angelesのゾンビウイルスを描くMansaの新作マイクロドラマ『They Left Us to Die』は全30話で、すべてAIで生成されている（AI-generated）。10月29日に予告編が公開されると、俳優David OyelowoとNate Parkerが設立した会社が、なぜ人間の役がゼロの作品を作ったのかと批判が上がった。あるThreadsユーザーは「またしてもAIへの身売り」と呼んだ。"
+                "x": "Hollywoodがこの技術を取り入れ始める中、最も直接的な危機に立たされているのは、監督の最初の構想を描き出すイラストレーターたちだ。James Cameronはgen AI企業の取締役を務め、Steven SoderberghはJohn Lennonのドキュメンタリーのアニメーションに Meta-powered の技術を使い、Christopher NolanもAIが有用な「イメージングツール」をいくつか生み出すと認めている。"
               },
               {
                 "t": "p",
-                "x": "Mansaは、AIを人間中心のコンテンツの代替ではなくチェスの駒として使っていると言う。スタジオが実写制作に踏み切る前に、黒人の物語への観客の関心を試すためだ。Parkerによれば、マイクロドラマなら「コンテンツを試せる……収益化できる……エンゲージメントのデータを追跡できる」。"
+                "x": "いま炭鉱のカナリアとなっているのは絵コンテ作家だ。Martin Scorseseまでもが乗り出した。彼は6月、あるAI企業との提携を発表し、次回作の絵コンテ制作にその企業のtext-to-imageモデルを使った。"
+              },
+              {
+                "t": "img",
+                "src": "https://i.guim.co.uk/img/media/b0a5fde115c51a5fd45e9a0ec5b762b61284e164/0_0_3404_4370/master/3404.jpg?width=890&dpr=1&s=none&crop=none",
+                "cap": "Saul BassによるPsychoの絵コンテ"
               },
               {
                 "t": "p",
-                "x": "Omdiaによると、ユーザーがReelShortに費やす時間は毎日36分で、Prime Videoの26分、Netflixの20分を上回る。Omdiaは2027年のマイクロドラマ市場を$14 billionと予測する。UCLA Hollywood Diversityの報告書によれば、2025年の映画の主演に占める黒人俳優の割合は6.5パーセントにとどまった。Mansaはこれまで実写（live-action）マイクロドラマを九本、完全にAIで生成したものを二本制作したが、成績データの公開は断った。"
+                "x": "「絵コンテはきれいな絵を描くことだというのはよくある誤解だ」と、Mickey 17やThe Gorgeで絵コンテを手がけたAlex Clarkは言う。「監督がどう考えているかに寄り添うことなのだ」。Denis Villeneuveは協力者のSam Hudeckiを「私の脳の延長」と呼ぶ。"
               },
               {
                 "t": "p",
-                "x": "SyracuseのJ. Christopher Hamiltonは、Parkerは「空気が読めていない」としながらも、AIマイクロドラマは業界が無視するには「あまりに魅力的なビジネス提案」だと言う。"
+                "x": "Abertayの講師Ferdinando Coccoはアナログな手法への回帰を見込む。「AIが克服したとされる難しさこそ、そもそもの要点だったのかもしれない」。Clarkは、観客が人の手のぬくもりがある映画を評価するようになると予想する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Mansa押注AI微短剧\n推更多黑人故事",
-          "body": "Mansa称AI微短剧是检验黑人观众需求的概念验证；批评者称其出卖初心。",
-          "mini_headline": "Mansa的AI\n微短剧赌注",
+          "headline": "连Scorsese都用AI\n分镜师严阵以待",
+          "body": "随着Hollywood采用AI，为导演勾勒最初构想的分镜师首当其冲。",
+          "mini_headline": "分镜遇上AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6af65ba58bac4203b57b5ba0/191:100/w_1280,c_limit/Startup-Betting-on-AI-Microdramas-Culture.jpg"
+                "src": "https://i.guim.co.uk/img/media/c9aabe04cbc4724110ea14f7d6a4bfe25a89ef20/94_56_6693_4292/master/6693.jpg?width=1200&dpr=1&s=none&crop=none",
+                "cap": "Gone with the Wind的分镜画板"
               },
               {
                 "t": "p",
-                "x": "Mansa的新微短剧《They Left Us to Die》讲述South Los Angeles的一场僵尸病毒，共30集，完全由AI生成（AI-generated）。10月29日预告片发布后，批评者质疑，一家由演员David Oyelowo和Nate Parker创立的公司，为何要做一部零真人角色的剧；一位Threads用户称其为“又一次向AI出卖”。"
+                "x": "随着Hollywood开始采用这项技术，处境最直接危险的是为导演描绘最初构想的插画师。James Cameron身居一家gen AI公司的董事会，Steven Soderbergh在其John Lennon纪录片的动画中使用了Meta-powered技术，Christopher Nolan也承认AI会催生一些有用的“成像工具”。"
               },
               {
                 "t": "p",
-                "x": "Mansa表示，它把AI当作一枚棋子，而不是以人为本内容的替代品：在制片厂投入真人拍摄之前，先测试观众对黑人故事的兴趣。Parker说，有了微短剧，“你可以测试一部内容……可以将其变现……可以追踪互动数据。”"
+                "x": "如今煤矿里的金丝雀是分镜师。连Martin Scorsese也加入了：他在6月宣布与一家AI公司合作，并在为下一部电影绘制分镜时使用了该公司的text-to-image模型。"
+              },
+              {
+                "t": "img",
+                "src": "https://i.guim.co.uk/img/media/b0a5fde115c51a5fd45e9a0ec5b762b61284e164/0_0_3404_4370/master/3404.jpg?width=890&dpr=1&s=none&crop=none",
+                "cap": "Saul Bass为Psycho绘制的分镜"
               },
               {
                 "t": "p",
-                "x": "Omdia发现，用户每天在ReelShort上花费36分钟，而在Prime Video上为26分钟，在Netflix上为20分钟；该机构预计2027年微短剧市场规模将达$14 billion。根据UCLA Hollywood Diversity报告，2025年黑人演员仅占电影主角的6.5%。Mansa已制作九部真人（live-action）微短剧和两部完全由AI生成的微短剧，但拒绝透露表现数据。"
+                "x": "“一个常见的误解是，分镜就是画出好看的图，”Mickey 17和The Gorge的分镜师Alex Clark说，“它关乎贴近导演的思考方式。”Denis Villeneuve称他的合作者Sam Hudecki是“我大脑的延伸”。"
               },
               {
                 "t": "p",
-                "x": "Syracuse大学的J. Christopher Hamilton说，Parker“没有看清形势”，但他也认为AI微短剧是业界无法忽视的“极具吸引力的商业提议”。"
+                "x": "Abertay讲师Ferdinando Cocco认为会出现向模拟手法的回归：“也许AI声称克服的那种困难，从一开始就是关键所在。”Clark预测，观众会越来越珍视带有人情味的电影。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Mansa apuesta por microdramas\ncon AI para más relatos negros",
-          "body": "Mansa llama a sus microdramas con AI pruebas de concepto para el público negro; sus críticos dicen que se ha vendido.",
-          "mini_headline": "La apuesta de Mansa\npor los microdramas con AI",
+          "headline": "Artistas de storyboard en vilo:\nhasta Scorsese usa AI",
+          "body": "Con la AI en Hollywood, los artistas de storyboard que plasman la primera visión del director son los más expuestos.",
+          "mini_headline": "El storyboard ante la AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6af65ba58bac4203b57b5ba0/191:100/w_1280,c_limit/Startup-Betting-on-AI-Microdramas-Culture.jpg"
+                "src": "https://i.guim.co.uk/img/media/c9aabe04cbc4724110ea14f7d6a4bfe25a89ef20/94_56_6693_4292/master/6693.jpg?width=1200&dpr=1&s=none&crop=none",
+                "cap": "Viñetas del storyboard de Gone with the Wind"
               },
               {
                 "t": "p",
-                "x": "They Left Us to Die, un nuevo microdrama de Mansa sobre un virus zombi en South Los Angeles, tiene 30 episodios y está generado por completo con AI (AI-generated). Tras el estreno del tráiler el 29 de octubre, los críticos preguntaron por qué una empresa fundada por los actores David Oyelowo y Nate Parker hizo una serie con cero papeles humanos; un usuario de Threads la calificó de “otro vendido más a la AI”."
+                "x": "A medida que Hollywood empieza a adoptar la tecnología, los profesionales en peligro más directo son los ilustradores que plasman la primera visión de los directores. James Cameron forma parte del consejo de una empresa de gen AI, Steven Soderbergh usó tecnología Meta-powered para las animaciones de su documental sobre John Lennon y Christopher Nolan admite que la AI creará algunas “herramientas de imagen” útiles."
               },
               {
                 "t": "p",
-                "x": "Mansa afirma que usa la AI como una pieza de ajedrez y no como sustituto del contenido centrado en las personas: sirve para medir el interés del público por las historias negras antes de que los estudios se comprometan con una producción con actores reales. Con los microdramas, dice Parker, “puedes probar un contenido… puedes monetizarlo… seguir los datos de interacción”."
+                "x": "El canario en la mina de hoy es el artista de storyboard. Incluso Martin Scorsese se ha subido al carro: en junio anunció una alianza con una empresa de AI cuyo modelo text-to-image utilizó para el storyboard de su próxima película."
+              },
+              {
+                "t": "img",
+                "src": "https://i.guim.co.uk/img/media/b0a5fde115c51a5fd45e9a0ec5b762b61284e164/0_0_3404_4370/master/3404.jpg?width=890&dpr=1&s=none&crop=none",
+                "cap": "Storyboard de Saul Bass para Psycho"
               },
               {
                 "t": "p",
-                "x": "Omdia halló que los usuarios dedicaban 36 minutos al día a ReelShort, frente a 26 en Prime Video y 20 en Netflix, y prevé un mercado de microdramas de 14 mil millones de dólares en 2027. Los actores negros representaron solo el 6.5 por ciento de los protagonistas de cine en 2025, según el informe UCLA Hollywood Diversity. Mansa ha producido nueve microdramas de imagen real (live-action) y dos generados por completo con AI, y declinó compartir datos de rendimiento."
+                "x": "“Un error común es pensar que el storyboard consiste en hacer dibujos bonitos”, dice Alex Clark, artista de storyboard en Mickey 17 y The Gorge. “Se trata de conectar con cómo piensa el director”. Denis Villeneuve llama a su colaborador Sam Hudecki “una extensión de mi cerebro”."
               },
               {
                 "t": "p",
-                "x": "J. Christopher Hamilton, de Syracuse, dice que Parker “no está leyendo el ambiente”, pero considera los microdramas con AI “una propuesta de negocio demasiado atractiva” como para que la industria la ignore."
+                "x": "Ferdinando Cocco, profesor en Abertay, prevé un regreso a las prácticas analógicas: “Quizá la dificultad que la AI supuestamente supera era precisamente el sentido de todo desde el principio”. Clark predice que el público llegará a valorar las películas con un toque humano."
               }
             ]
           }
@@ -1201,15 +1471,15 @@
       }
     },
     {
-      "id": "animaj-ozzy-fox-disneyplus",
+      "id": "chilemonos-2027-ai-rules",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI-assisted 작품\nDisney+로 간다",
-      "body": "Animaj의 AI-assisted 시리즈 Ozzy Fox가 Disney+로 간다.",
-      "mini_headline": "Ozzy Fox\nDisney+ 입성",
+      "headline": "CHILEMONOS,\n애니메이터 대체 AI 금지",
+      "body": "CHILEMONOS는 2027년 AI가 창작을 대신한 작품을 받지 않는다.",
+      "mini_headline": "CHILEMONOS, AI 제한",
       "tool": "Movies",
-      "source": "CNET",
-      "url": "https://www.cnet.com/tech/services-and-software/animaj-ozzy-fox-series-disney-plus-ai-agentic-animation/",
+      "source": "Indie Shorts Mag",
+      "url": "https://www.indieshortsmag.com/news/2026/11/chilemonos-2027-animation-festival-submissions-oscar-qualifying/",
       "accent": "#eb367f",
       "motif": "frame",
       "full": {
@@ -1217,185 +1487,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot-2026-11-11-at-9.53.14-AM.png?w=864",
-            "cap": "Ozzy Fox는 YouTube와 Disney Jr.에서 방영 중이며 곧 Disney Plus에도 나온다. Animaj/Disney"
+            "src": "https://cms.indieshortsmag.com/wp-content/uploads/2026/11/CHILEMONOS-2027-Opens-Free-Oscar-Qualifying-Animation-Entries-With-New-AI-Restrictions-Indie-Shorts-Mag-News.jpg"
           },
           {
             "t": "p",
-            "x": "Animaj가 Disney와 처음 함께한 프로젝트 Ozzy Fox는 7월 YouTube와 Disney Junior에서 첫선을 보였고, 곧 Disney Plus에도 오른다. 그림과 애니메이션은 사람이 맡고 AI는 작업 속도를 높이는 데 쓴다."
+            "x": "제16회 CHILEMONOS 국제 애니메이션 페스티벌이 2027년 행사 출품작을 받기 시작했다. 공식 경쟁 부문은 여섯 개로, 이 중 두 부문은 아카데미상(Academy Awards) 출품 자격으로 이어질 수 있다. 접수 기간은 2026년 11월 13일부터 2027년 2월 26일까지이고 출품료는 없다."
           },
           {
             "t": "p",
-            "x": "CEO Sixte de Vauplane은 2026 Disney Accelerator Demo Day에서 Animaj가 최근 FlipMove를 공개했다고 밝혔다. 자사 AI 모델을 애니메이터용 도구 하나로 묶은 파이프라인이다. 에이전트형 AI 워크플로도 만들었다. 그는 “한 에이전트는 노트를 읽고, 다른 에이전트는 어떤 모델을 써야 할지 조율했다”고 말했다. 애니메이터는 “모든 프레임에서 완전한 통제권”을 갖는다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot-2026-11-11-at-12.04.29-PM.png?w=864",
-            "cap": "FlipMove AI 파이프라인이 아티스트의 스케치를 3D 모델링 장면(3D-modeled)으로 바꾸는 모습. Animaj/Screenshot by CNET"
+            "x": "국제 단편 애니메이션 경쟁과 라틴아메리카 단편 애니메이션 경쟁은 Oscar-qualifying 부문으로, 페스티벌은 2019년부터 이 지위를 지켜 왔다. 출품 대상은 2026년 3월 1일 이후 완성된 작품이다. 전문가 부문 단편은 상영 시간이 2분에서 30분 사이여야 한다."
           },
           {
             "t": "p",
-            "x": "애니메이터가 주요 포즈를 그리면 AI가 사이 동작을 채우고, 애니메이터가 다시 다듬는다. Ozzy Fox는 공개 직후 AI 슬롭(AI slop)이라는 비난을 받았다. 그 뒤 나온 Animaj의 AI 선언문은 적은 AI가 아니라 슬롭이라고 못 박는다. 아낀 시간은 모두 사람의 작업에 다시 쏟아야 한다는 주장이다."
+            "x": "주최 측은 생성형 AI를 새로운 제작 도구로 보지만 장기 정책은 아직 정하지 않았다. 2027년 규정은 출품작의 AI 사용을 금지하며, 애니메이터의 창작 기여를 대체하는 AI-generated 애니메이션은 출품 자격 박탈 사유로 명시했다. AI-assisted 작업 방식을 쓴다면 출품 전에 주최 측에 먼저 문의해야 한다."
+          },
+          {
+            "t": "p",
+            "x": "행사는 하이브리드로 열린다. 라틴아메리카 전역에서는 온라인으로, Santiago에서는 오프라인으로 진행되며 규정상 페스티벌 기간은 2027년 5월 3–30일이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Animaj takes AI-assisted\nOzzy Fox to Disney+",
-          "body": "Animaj's AI-assisted Disney Jr. series Ozzy Fox heads to Disney+ as the studio details its agentic AI pipeline.",
-          "mini_headline": "Ozzy Fox\nlands on Disney+",
+          "headline": "CHILEMONOS bars AI that\nreplaces the animator",
+          "body": "Oscar-qualifying CHILEMONOS opens free 2027 entries, ruling out works where AI replaces the animator's creative input.",
+          "mini_headline": "CHILEMONOS limits AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot-2026-11-11-at-9.53.14-AM.png?w=864",
-                "cap": "Ozzy Fox is on YouTube and Disney Jr., and it's heading to Disney Plus soon. Animaj/Disney"
+                "src": "https://cms.indieshortsmag.com/wp-content/uploads/2026/11/CHILEMONOS-2027-Opens-Free-Oscar-Qualifying-Animation-Entries-With-New-AI-Restrictions-Indie-Shorts-Mag-News.jpg"
               },
               {
                 "t": "p",
-                "x": "Animaj’s Ozzy Fox, its first combined project with Disney, debuted on YouTube and Disney Junior in July and is launching on Disney Plus soon. It’s drawn and animated by humans, but with an AI assist to speed things up."
+                "x": "The 16th CHILEMONOS International Animation Festival has opened submissions for its 2027 edition across six official competitions, two of which could qualify for the Academy Awards. Entries opened on 13 November 2026 and close on 26 February 2027, with no submission fees."
               },
               {
                 "t": "p",
-                "x": "Animaj recently released FlipMove, a pipeline combining its AI models into a single tool for animators, and has created an agentic AI workflow, CEO Sixte de Vauplane said at the 2026 Disney Accelerator Demo Day. “We had one agent reading the notes, another one coordinating to see which kind of model we have to use,” he said. Animators have “full control at every frame.”"
-              },
-              {
-                "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot-2026-11-11-at-12.04.29-PM.png?w=864",
-                "cap": "The FlipMove AI pipeline at work, helping transform an artist’s sketch into a 3D-modeled scene. Animaj/Screenshot by CNET"
+                "x": "The International and Latin American Animated Short Film Competitions are Oscar-qualifying; the festival has held that status since 2019. Films must be completed on or after 1 March 2026, and professional shorts must run between two and 30 minutes."
               },
               {
                 "t": "p",
-                "x": "An animator sketches the main poses and AI fills in the in-between movements, which the animator tweaks. Animaj’s AI manifesto calls slop, not AI, the enemy, after Ozzy Fox was accused of being AI slop on release; it argues every hour saved should be poured back into human work."
+                "x": "The organizers acknowledge generative AI as an emerging production tool but have not yet established a definitive long-term policy. For 2027, the regulations prohibit AI in submitted works and identify AI-generated animation that replaces an animator’s creative contribution as grounds for ineligibility. Applicants using AI-assisted workflows should contact the organizers before submitting."
+              },
+              {
+                "t": "p",
+                "x": "The hybrid edition runs online across Latin America and in person in Santiago, with the regulations setting the festival period as 3–30 May 2027."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI-assisted 작품\nDisney+로 간다",
-          "body": "Animaj의 AI-assisted 시리즈 Ozzy Fox가 Disney+로 간다.",
-          "mini_headline": "Ozzy Fox\nDisney+ 입성",
+          "headline": "CHILEMONOS,\n애니메이터 대체 AI 금지",
+          "body": "CHILEMONOS는 2027년 AI가 창작을 대신한 작품을 받지 않는다.",
+          "mini_headline": "CHILEMONOS, AI 제한",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot-2026-11-11-at-9.53.14-AM.png?w=864",
-                "cap": "Ozzy Fox는 YouTube와 Disney Jr.에서 방영 중이며 곧 Disney Plus에도 나온다. Animaj/Disney"
+                "src": "https://cms.indieshortsmag.com/wp-content/uploads/2026/11/CHILEMONOS-2027-Opens-Free-Oscar-Qualifying-Animation-Entries-With-New-AI-Restrictions-Indie-Shorts-Mag-News.jpg"
               },
               {
                 "t": "p",
-                "x": "Animaj가 Disney와 처음 함께한 프로젝트 Ozzy Fox는 7월 YouTube와 Disney Junior에서 첫선을 보였고, 곧 Disney Plus에도 오른다. 그림과 애니메이션은 사람이 맡고 AI는 작업 속도를 높이는 데 쓴다."
+                "x": "제16회 CHILEMONOS 국제 애니메이션 페스티벌이 2027년 행사 출품작을 받기 시작했다. 공식 경쟁 부문은 여섯 개로, 이 중 두 부문은 아카데미상(Academy Awards) 출품 자격으로 이어질 수 있다. 접수 기간은 2026년 11월 13일부터 2027년 2월 26일까지이고 출품료는 없다."
               },
               {
                 "t": "p",
-                "x": "CEO Sixte de Vauplane은 2026 Disney Accelerator Demo Day에서 Animaj가 최근 FlipMove를 공개했다고 밝혔다. 자사 AI 모델을 애니메이터용 도구 하나로 묶은 파이프라인이다. 에이전트형 AI 워크플로도 만들었다. 그는 “한 에이전트는 노트를 읽고, 다른 에이전트는 어떤 모델을 써야 할지 조율했다”고 말했다. 애니메이터는 “모든 프레임에서 완전한 통제권”을 갖는다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot-2026-11-11-at-12.04.29-PM.png?w=864",
-                "cap": "FlipMove AI 파이프라인이 아티스트의 스케치를 3D 모델링 장면(3D-modeled)으로 바꾸는 모습. Animaj/Screenshot by CNET"
+                "x": "국제 단편 애니메이션 경쟁과 라틴아메리카 단편 애니메이션 경쟁은 Oscar-qualifying 부문으로, 페스티벌은 2019년부터 이 지위를 지켜 왔다. 출품 대상은 2026년 3월 1일 이후 완성된 작품이다. 전문가 부문 단편은 상영 시간이 2분에서 30분 사이여야 한다."
               },
               {
                 "t": "p",
-                "x": "애니메이터가 주요 포즈를 그리면 AI가 사이 동작을 채우고, 애니메이터가 다시 다듬는다. Ozzy Fox는 공개 직후 AI 슬롭(AI slop)이라는 비난을 받았다. 그 뒤 나온 Animaj의 AI 선언문은 적은 AI가 아니라 슬롭이라고 못 박는다. 아낀 시간은 모두 사람의 작업에 다시 쏟아야 한다는 주장이다."
+                "x": "주최 측은 생성형 AI를 새로운 제작 도구로 보지만 장기 정책은 아직 정하지 않았다. 2027년 규정은 출품작의 AI 사용을 금지하며, 애니메이터의 창작 기여를 대체하는 AI-generated 애니메이션은 출품 자격 박탈 사유로 명시했다. AI-assisted 작업 방식을 쓴다면 출품 전에 주최 측에 먼저 문의해야 한다."
+              },
+              {
+                "t": "p",
+                "x": "행사는 하이브리드로 열린다. 라틴아메리카 전역에서는 온라인으로, Santiago에서는 오프라인으로 진행되며 규정상 페스티벌 기간은 2027년 5월 3–30일이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI-assistedアニメ\nDisney+で配信へ",
-          "body": "AnimajのAI-assistedシリーズOzzy FoxがDisney+に進出する。",
-          "mini_headline": "Ozzy Fox\nDisney+に登場",
+          "headline": "CHILEMONOS、\nアニメーター代替AIを禁止",
+          "body": "CHILEMONOSは2027年の応募を無料とし、AIが創作を代替した作品は除外する。",
+          "mini_headline": "CHILEMONOS、AIを制限",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot-2026-11-11-at-9.53.14-AM.png?w=864",
-                "cap": "Ozzy FoxはYouTubeとDisney Jr.で配信中で、まもなくDisney Plusにも登場する。Animaj/Disney"
+                "src": "https://cms.indieshortsmag.com/wp-content/uploads/2026/11/CHILEMONOS-2027-Opens-Free-Oscar-Qualifying-Animation-Entries-With-New-AI-Restrictions-Indie-Shorts-Mag-News.jpg"
               },
               {
                 "t": "p",
-                "x": "AnimajにとってDisneyとの初の共同プロジェクトであるOzzy Foxは、7月にYouTubeとDisney Juniorでデビューし、まもなくDisney Plusでも配信される。作画とアニメーションは人間が担うが、作業を速めるためにAIの助けを借りている。"
+                "x": "第16回CHILEMONOS国際アニメーション映画祭が、2027年開催分の応募受付を始めた。公式コンペティションは六部門で、そのうち二部門はアカデミー賞(Academy Awards)の対象資格につながりうる。受付は2026年11月13日に始まり、2027年2月26日に締め切られる。応募料はかからない。"
               },
               {
                 "t": "p",
-                "x": "Animajは最近、自社のAIモデルをアニメーター向けの単一ツールにまとめたパイプラインFlipMoveを公開し、エージェント型AIのワークフローも構築したと、CEOのSixte de Vauplaneが2026 Disney Accelerator Demo Dayで語った。「あるエージェントがノートを読み、別のエージェントがどの種類のモデルを使うべきかを調整していた」と彼は言う。アニメーターは「すべてのフレームで完全なコントロール」を持つ。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot-2026-11-11-at-12.04.29-PM.png?w=864",
-                "cap": "アーティストのスケッチを3Dモデリングされたシーン（3D-modeled）に変えるFlipMove AIパイプライン。Animaj/Screenshot by CNET"
+                "x": "国際短編アニメーション部門とラテンアメリカ短編アニメーション部門はOscar-qualifyingの部門で、映画祭は2019年からこの資格を保持している。作品は2026年3月1日以降に完成したものに限られ、プロの短編は上映時間が2分から30分でなければならない。"
               },
               {
                 "t": "p",
-                "x": "アニメーターが主要なポーズをスケッチし、AIがその間の動きを埋め、アニメーターが手直しする。Ozzy Foxが公開時にAIスロップ（AI slop）だと非難されたことを受け、AnimajのAIマニフェストは、敵はAIではなくスロップだとし、節約できた時間はすべて人間の仕事に注ぎ直すべきだと主張する。"
+                "x": "主催者は生成AIを新たな制作ツールと認めつつも、長期的な方針はまだ定めていない。2027年の規定は応募作品でのAI使用を禁じ、アニメーターの創作的貢献を置き換えるAI-generatedのアニメーションを失格事由とする。AI-assistedのワークフローを使う応募者は、応募前に主催者へ連絡する必要がある。"
+              },
+              {
+                "t": "p",
+                "x": "ハイブリッド形式で、ラテンアメリカ全域ではオンライン、Santiagoでは対面で開催され、規定上の会期は2027年5月3–30日だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI-assisted动画\n将登陆Disney+",
-          "body": "Animaj的AI-assisted剧集Ozzy Fox将登陆Disney+。",
-          "mini_headline": "Ozzy Fox\n登陆Disney+",
+          "headline": "CHILEMONOS禁止\n取代动画师的AI",
+          "body": "CHILEMONOS免费开放2027年报名，但排除由AI取代动画师创作的作品。",
+          "mini_headline": "CHILEMONOS限制AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot-2026-11-11-at-9.53.14-AM.png?w=864",
-                "cap": "Ozzy Fox已在YouTube和Disney Jr.播出，即将登陆Disney Plus。Animaj/Disney"
+                "src": "https://cms.indieshortsmag.com/wp-content/uploads/2026/11/CHILEMONOS-2027-Opens-Free-Oscar-Qualifying-Animation-Entries-With-New-AI-Restrictions-Indie-Shorts-Mag-News.jpg"
               },
               {
                 "t": "p",
-                "x": "Ozzy Fox是Animaj与Disney的首个合作项目，7月在YouTube和Disney Junior首播，即将登陆Disney Plus。它由人工绘制和制作动画，但借助AI来加快进度。"
+                "x": "第16届CHILEMONOS国际动画节已开放2027年度报名，共设六个官方竞赛单元，其中两个可获得Academy Awards（奥斯卡金像奖）参评资格。报名于2026年11月13日开启，2027年2月26日截止，不收取报名费。"
               },
               {
                 "t": "p",
-                "x": "Animaj CEO Sixte de Vauplane在2026 Disney Accelerator Demo Day上表示，公司最近发布了FlipMove——一条将其AI模型整合为面向动画师的单一工具的流程，并打造了智能体AI工作流。“我们让一个智能体读取笔记，另一个负责协调，判断需要使用哪种模型，”他说。动画师“对每一帧都有完全的控制权”。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot-2026-11-11-at-12.04.29-PM.png?w=864",
-                "cap": "FlipMove AI流程正在运行，帮助将艺术家的草图转化为3D建模场景（3D-modeled）。Animaj/Screenshot by CNET"
+                "x": "国际动画短片竞赛与拉丁美洲动画短片竞赛为Oscar-qualifying单元，该节自2019年起即拥有这一资格。参赛影片须于2026年3月1日或之后完成，专业组短片时长须在2至30分钟之间。"
               },
               {
                 "t": "p",
-                "x": "动画师绘制主要姿势，AI填补其间的过渡动作，再由动画师微调。Ozzy Fox上线时曾被指为AI垃圾内容（AI slop），此后Animaj的AI宣言称，敌人是垃圾内容（slop），而不是AI；宣言主张，节省下来的每一小时都应重新投入到人的工作中。"
+                "x": "主办方承认生成式AI是一种新兴制作工具，但尚未确立明确的长期政策。2027年的规则禁止在参赛作品中使用AI，并将取代动画师创作贡献的AI-generated动画列为取消资格的理由。使用AI-assisted工作流程的申请者应在提交前联系主办方。"
+              },
+              {
+                "t": "p",
+                "x": "本届采用线上线下结合的形式，在拉丁美洲各地线上进行，并在Santiago线下举办，规则将节期定为2027年5月3–30日。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Animaj lleva Ozzy Fox,\nserie AI-assisted, a Disney+",
-          "body": "Ozzy Fox, la serie AI-assisted de Animaj, llega a Disney+ mientras el estudio detalla su pipeline de AI agéntica.",
-          "mini_headline": "Ozzy Fox\nllega a Disney+",
+          "headline": "CHILEMONOS veta la AI que\nsustituye al animador",
+          "body": "CHILEMONOS, Oscar-qualifying, abre la convocatoria 2027 gratis y excluye obras donde la AI reemplaza al animador.",
+          "mini_headline": "CHILEMONOS limita la AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot-2026-11-11-at-9.53.14-AM.png?w=864",
-                "cap": "Ozzy Fox está en YouTube y Disney Jr., y pronto llegará a Disney Plus. Animaj/Disney"
+                "src": "https://cms.indieshortsmag.com/wp-content/uploads/2026/11/CHILEMONOS-2027-Opens-Free-Oscar-Qualifying-Animation-Entries-With-New-AI-Restrictions-Indie-Shorts-Mag-News.jpg"
               },
               {
                 "t": "p",
-                "x": "Ozzy Fox, el primer proyecto conjunto de Animaj con Disney, se estrenó en julio en YouTube y Disney Junior y pronto llegará a Disney Plus. Lo dibujan y animan personas, pero con ayuda de AI para acelerar el trabajo."
+                "x": "El 16.º Festival Internacional de Animación CHILEMONOS ha abierto la convocatoria de su edición 2027 en seis competencias oficiales, dos de las cuales pueden dar acceso a los Academy Awards. La inscripción se abrió el 13 de noviembre de 2026 y cierra el 26 de febrero de 2027, sin tarifa de inscripción."
               },
               {
                 "t": "p",
-                "x": "Animaj lanzó hace poco FlipMove, un pipeline que combina sus modelos de AI en una sola herramienta para animadores, y ha creado un flujo de trabajo de AI agéntica, dijo su CEO, Sixte de Vauplane, en el 2026 Disney Accelerator Demo Day. “Teníamos un agente leyendo las notas y otro coordinando para ver qué tipo de modelo teníamos que usar”, dijo. Los animadores tienen “control total en cada fotograma”."
-              },
-              {
-                "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot-2026-11-11-at-12.04.29-PM.png?w=864",
-                "cap": "El pipeline de AI FlipMove en funcionamiento, ayudando a transformar el boceto de un artista en una escena con modelado 3D (3D-modeled). Animaj/Screenshot by CNET"
+                "x": "Las Competencias Internacional y Latinoamericana de Cortometraje de Animación son Oscar-qualifying; el festival mantiene ese estatus desde 2019. Las películas deben haberse terminado el 1 de marzo de 2026 o después, y los cortometrajes profesionales deben durar entre dos y 30 minutos."
               },
               {
                 "t": "p",
-                "x": "Un animador dibuja las poses principales y la AI rellena los movimientos intermedios, que el animador ajusta. Tras las acusaciones de que Ozzy Fox era AI slop en su lanzamiento, el manifiesto de AI de Animaj sostiene que el enemigo es el slop, no la AI, y que cada hora ahorrada debe reinvertirse en trabajo humano."
+                "x": "Los organizadores reconocen la AI generativa como una herramienta de producción emergente, pero aún no han establecido una política definitiva a largo plazo. Para 2027, el reglamento prohíbe la AI en las obras presentadas y señala la animación AI-generated que sustituye la contribución creativa de un animador como causa de inelegibilidad. Quienes usen flujos de trabajo AI-assisted deben contactar a los organizadores antes de inscribirse."
+              },
+              {
+                "t": "p",
+                "x": "La edición híbrida se celebra en línea en toda Latinoamérica y de forma presencial en Santiago, y el reglamento fija el periodo del festival del 3 al 30 de mayo de 2027."
               }
             ]
           }
@@ -1403,129 +1661,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI-assisted 작품\nDisney+로 간다",
-          "body": "Animaj의 AI-assisted 시리즈 Ozzy Fox가 Disney+로 간다.",
-          "mini_headline": "Ozzy Fox\nDisney+ 입성",
+          "headline": "CHILEMONOS,\n애니메이터 대체 AI 금지",
+          "body": "CHILEMONOS는 2027년 AI가 창작을 대신한 작품을 받지 않는다.",
+          "mini_headline": "CHILEMONOS, AI 제한",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot-2026-11-11-at-9.53.14-AM.png?w=864",
-                "cap": "Ozzy Fox는 YouTube와 Disney Jr.에서 볼 수 있고, 곧 Disney Plus에도 공개된다. Animaj/Disney"
+                "src": "https://cms.indieshortsmag.com/wp-content/uploads/2026/11/CHILEMONOS-2027-Opens-Free-Oscar-Qualifying-Animation-Entries-With-New-AI-Restrictions-Indie-Shorts-Mag-News.jpg"
               },
               {
                 "t": "p",
-                "x": "Animaj가 Disney와 처음 함께한 프로젝트 Ozzy Fox는 7월 YouTube와 Disney Junior에서 첫선을 보였고 곧 Disney Plus에서도 공개된다. 그림과 애니메이션은 사람이 맡지만, 작업 속도를 높이려고 AI의 도움을 받는다."
+                "x": "제16회 CHILEMONOS 국제 애니메이션 페스티벌이 2027년 행사의 출품 접수를 시작했다. 공식 경쟁 부문은 여섯 개이고, 이 가운데 두 부문은 아카데미상(Academy Awards) 출품 자격으로 이어질 수 있다. 접수는 2026년 11월 13일 시작해 2027년 2월 26일 마감하며 출품료는 없다."
               },
               {
                 "t": "p",
-                "x": "Animaj는 최근 자사 AI 모델을 애니메이터용 단일 도구로 묶은 파이프라인 FlipMove를 공개했고, 에이전트형 AI 워크플로도 만들었다고 CEO Sixte de Vauplane이 2026 Disney Accelerator Demo Day에서 밝혔다. 그는 “한 에이전트는 노트를 읽고, 다른 에이전트는 어떤 모델을 써야 할지 조율했다”고 말했다. 애니메이터는 “모든 프레임에서 완전한 통제권”을 갖는다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot-2026-11-11-at-12.04.29-PM.png?w=864",
-                "cap": "FlipMove AI 파이프라인이 아티스트의 스케치를 3D 모델링 장면(3D-modeled)으로 바꾸는 모습. Animaj/Screenshot by CNET"
+                "x": "국제 단편 애니메이션 경쟁과 라틴아메리카 단편 애니메이션 경쟁 부문은 Oscar-qualifying 부문으로, 페스티벌은 2019년부터 이 지위를 유지해 왔다. 출품작은 2026년 3월 1일 이후 완성된 작품이어야 하며, 전문가 부문 단편은 상영 시간이 2분에서 30분 사이여야 한다."
               },
               {
                 "t": "p",
-                "x": "애니메이터가 주요 포즈를 스케치하면 AI가 그 사이 동작을 채우고, 애니메이터가 이를 다듬는다. Ozzy Fox가 공개 직후 AI 슬롭(AI slop)이라는 비난을 받은 뒤, Animaj의 AI 선언문은 적은 AI가 아니라 슬롭이라고 말한다. 절약한 모든 시간을 사람의 작업에 다시 쏟아야 한다는 주장이다."
+                "x": "주최 측은 생성형 AI를 새로운 제작 도구로 인정하지만 장기적인 정책은 아직 확정하지 않았다. 2027년 규정은 출품작에 AI 사용을 금지하고, 애니메이터의 창작 기여를 대체하는 AI-generated 애니메이션을 출품 자격 박탈 사유로 명시한다. AI-assisted 작업 방식을 쓰는 지원자는 출품 전에 주최 측에 문의해야 한다."
+              },
+              {
+                "t": "p",
+                "x": "하이브리드로 열리는 이번 행사는 라틴아메리카 전역에서 온라인으로, Santiago에서 오프라인으로 진행되며, 규정상 페스티벌 기간은 2027년 5월 3–30일이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI-assistedアニメ\nDisney+で配信へ",
-          "body": "AnimajのAI-assistedシリーズOzzy FoxがDisney+に進出する。",
-          "mini_headline": "Ozzy Fox\nDisney+に登場",
+          "headline": "CHILEMONOS、\nアニメーター代替AIを禁止",
+          "body": "CHILEMONOSは2027年の応募を無料とし、AIが創作を代替した作品は除外する。",
+          "mini_headline": "CHILEMONOS、AIを制限",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot-2026-11-11-at-9.53.14-AM.png?w=864",
-                "cap": "Ozzy FoxはYouTubeとDisney Jr.で配信中で、まもなくDisney Plusにも登場する。Animaj/Disney"
+                "src": "https://cms.indieshortsmag.com/wp-content/uploads/2026/11/CHILEMONOS-2027-Opens-Free-Oscar-Qualifying-Animation-Entries-With-New-AI-Restrictions-Indie-Shorts-Mag-News.jpg"
               },
               {
                 "t": "p",
-                "x": "AnimajにとってDisneyとの初の共同プロジェクトであるOzzy Foxは、7月にYouTubeとDisney Juniorでデビューし、まもなくDisney Plusでも配信される。作画とアニメーションは人間が担うが、作業を速めるためにAIの助けを借りている。"
+                "x": "第16回CHILEMONOS国際アニメーション映画祭が、2027年開催分の応募受付を始めた。公式コンペティションは六部門で、そのうち二部門はアカデミー賞(Academy Awards)の対象資格につながりうる。受付は2026年11月13日に始まり、2027年2月26日に締め切られる。応募料はかからない。"
               },
               {
                 "t": "p",
-                "x": "Animajは最近、自社のAIモデルをアニメーター向けの単一ツールにまとめたパイプラインFlipMoveを公開し、エージェント型AIのワークフローも構築したと、CEOのSixte de Vauplaneが2026 Disney Accelerator Demo Dayで語った。「あるエージェントがノートを読み、別のエージェントがどの種類のモデルを使うべきかを調整していた」と彼は言う。アニメーターは「すべてのフレームで完全なコントロール」を持つ。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot-2026-11-11-at-12.04.29-PM.png?w=864",
-                "cap": "アーティストのスケッチを3Dモデリングされたシーン（3D-modeled）に変えるFlipMove AIパイプライン。Animaj/Screenshot by CNET"
+                "x": "国際短編アニメーション部門とラテンアメリカ短編アニメーション部門はOscar-qualifyingの部門で、映画祭は2019年からこの資格を保持している。作品は2026年3月1日以降に完成したものに限られ、プロの短編は上映時間が2分から30分でなければならない。"
               },
               {
                 "t": "p",
-                "x": "アニメーターが主要なポーズをスケッチし、AIがその間の動きを埋め、アニメーターが手直しする。Ozzy Foxが公開時にAIスロップ（AI slop）だと非難されたことを受け、AnimajのAIマニフェストは、敵はAIではなくスロップだとし、節約できた時間はすべて人間の仕事に注ぎ直すべきだと主張する。"
+                "x": "主催者は生成AIを新たな制作ツールと認めつつも、長期的な方針はまだ定めていない。2027年の規定は応募作品でのAI使用を禁じ、アニメーターの創作的貢献を置き換えるAI-generatedのアニメーションを失格事由とする。AI-assistedのワークフローを使う応募者は、応募前に主催者へ連絡する必要がある。"
+              },
+              {
+                "t": "p",
+                "x": "ハイブリッド形式で、ラテンアメリカ全域ではオンライン、Santiagoでは対面で開催され、規定上の会期は2027年5月3–30日だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI-assisted动画\n将登陆Disney+",
-          "body": "Animaj的AI-assisted剧集Ozzy Fox将登陆Disney+。",
-          "mini_headline": "Ozzy Fox\n登陆Disney+",
+          "headline": "CHILEMONOS禁止\n取代动画师的AI",
+          "body": "CHILEMONOS免费开放2027年报名，但排除由AI取代动画师创作的作品。",
+          "mini_headline": "CHILEMONOS限制AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot-2026-11-11-at-9.53.14-AM.png?w=864",
-                "cap": "Ozzy Fox已在YouTube和Disney Jr.播出，即将登陆Disney Plus。Animaj/Disney"
+                "src": "https://cms.indieshortsmag.com/wp-content/uploads/2026/11/CHILEMONOS-2027-Opens-Free-Oscar-Qualifying-Animation-Entries-With-New-AI-Restrictions-Indie-Shorts-Mag-News.jpg"
               },
               {
                 "t": "p",
-                "x": "Ozzy Fox是Animaj与Disney的首个合作项目，7月在YouTube和Disney Junior首播，即将登陆Disney Plus。它由人工绘制和制作动画，但借助AI来加快进度。"
+                "x": "第16届CHILEMONOS国际动画节已开放2027年度报名，共设六个官方竞赛单元，其中两个可获得Academy Awards（奥斯卡金像奖）参评资格。报名于2026年11月13日开启，2027年2月26日截止，不收取报名费。"
               },
               {
                 "t": "p",
-                "x": "Animaj CEO Sixte de Vauplane在2026 Disney Accelerator Demo Day上表示，公司最近发布了FlipMove——一条将其AI模型整合为面向动画师的单一工具的流程，并打造了智能体AI工作流。“我们让一个智能体读取笔记，另一个负责协调，判断需要使用哪种模型，”他说。动画师“对每一帧都有完全的控制权”。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot-2026-11-11-at-12.04.29-PM.png?w=864",
-                "cap": "FlipMove AI流程正在运行，帮助将艺术家的草图转化为3D建模场景（3D-modeled）。Animaj/Screenshot by CNET"
+                "x": "国际动画短片竞赛与拉丁美洲动画短片竞赛为Oscar-qualifying单元，该节自2019年起即拥有这一资格。参赛影片须于2026年3月1日或之后完成，专业组短片时长须在2至30分钟之间。"
               },
               {
                 "t": "p",
-                "x": "动画师绘制主要姿势，AI填补其间的过渡动作，再由动画师微调。Ozzy Fox上线时曾被指为AI垃圾内容（AI slop），此后Animaj的AI宣言称，敌人是垃圾内容（slop），而不是AI；宣言主张，节省下来的每一小时都应重新投入到人的工作中。"
+                "x": "主办方承认生成式AI是一种新兴制作工具，但尚未确立明确的长期政策。2027年的规则禁止在参赛作品中使用AI，并将取代动画师创作贡献的AI-generated动画列为取消资格的理由。使用AI-assisted工作流程的申请者应在提交前联系主办方。"
+              },
+              {
+                "t": "p",
+                "x": "本届采用线上线下结合的形式，在拉丁美洲各地线上进行，并在Santiago线下举办，规则将节期定为2027年5月3–30日。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Animaj lleva Ozzy Fox,\nserie AI-assisted, a Disney+",
-          "body": "Ozzy Fox, la serie AI-assisted de Animaj, llega a Disney+ mientras el estudio detalla su pipeline de AI agéntica.",
-          "mini_headline": "Ozzy Fox\nllega a Disney+",
+          "headline": "CHILEMONOS veta la AI que\nsustituye al animador",
+          "body": "CHILEMONOS, Oscar-qualifying, abre la convocatoria 2027 gratis y excluye obras donde la AI reemplaza al animador.",
+          "mini_headline": "CHILEMONOS limita la AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot-2026-11-11-at-9.53.14-AM.png?w=864",
-                "cap": "Ozzy Fox está en YouTube y Disney Jr., y pronto llegará a Disney Plus. Animaj/Disney"
+                "src": "https://cms.indieshortsmag.com/wp-content/uploads/2026/11/CHILEMONOS-2027-Opens-Free-Oscar-Qualifying-Animation-Entries-With-New-AI-Restrictions-Indie-Shorts-Mag-News.jpg"
               },
               {
                 "t": "p",
-                "x": "Ozzy Fox, el primer proyecto conjunto de Animaj con Disney, se estrenó en julio en YouTube y Disney Junior y pronto llegará a Disney Plus. Lo dibujan y animan personas, pero con ayuda de AI para acelerar el trabajo."
+                "x": "El 16.º Festival Internacional de Animación CHILEMONOS ha abierto la convocatoria de su edición 2027 en seis competencias oficiales, dos de las cuales pueden dar acceso a los Academy Awards. La inscripción se abrió el 13 de noviembre de 2026 y cierra el 26 de febrero de 2027, sin tarifa de inscripción."
               },
               {
                 "t": "p",
-                "x": "Animaj lanzó hace poco FlipMove, un pipeline que combina sus modelos de AI en una sola herramienta para animadores, y ha creado un flujo de trabajo de AI agéntica, dijo su CEO, Sixte de Vauplane, en el 2026 Disney Accelerator Demo Day. “Teníamos un agente leyendo las notas y otro coordinando para ver qué tipo de modelo teníamos que usar”, dijo. Los animadores tienen “control total en cada fotograma”."
-              },
-              {
-                "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot-2026-11-11-at-12.04.29-PM.png?w=864",
-                "cap": "El pipeline de AI FlipMove en funcionamiento, ayudando a transformar el boceto de un artista en una escena con modelado 3D (3D-modeled). Animaj/Screenshot by CNET"
+                "x": "Las Competencias Internacional y Latinoamericana de Cortometraje de Animación son Oscar-qualifying; el festival mantiene ese estatus desde 2019. Las películas deben haberse terminado el 1 de marzo de 2026 o después, y los cortometrajes profesionales deben durar entre dos y 30 minutos."
               },
               {
                 "t": "p",
-                "x": "Un animador dibuja las poses principales y la AI rellena los movimientos intermedios, que el animador ajusta. Tras las acusaciones de que Ozzy Fox era AI slop en su lanzamiento, el manifiesto de AI de Animaj sostiene que el enemigo es el slop, no la AI, y que cada hora ahorrada debe reinvertirse en trabajo humano."
+                "x": "Los organizadores reconocen la AI generativa como una herramienta de producción emergente, pero aún no han establecido una política definitiva a largo plazo. Para 2027, el reglamento prohíbe la AI en las obras presentadas y señala la animación AI-generated que sustituye la contribución creativa de un animador como causa de inelegibilidad. Quienes usen flujos de trabajo AI-assisted deben contactar a los organizadores antes de inscribirse."
+              },
+              {
+                "t": "p",
+                "x": "La edición híbrida se celebra en línea en toda Latinoamérica y de forma presencial en Santiago, y el reglamento fija el periodo del festival del 3 al 30 de mayo de 2027."
               }
             ]
           }

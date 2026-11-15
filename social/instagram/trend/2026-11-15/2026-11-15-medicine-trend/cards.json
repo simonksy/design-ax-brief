@@ -1,0 +1,133 @@
+{
+  "meta": {
+    "issue": "임상 AI, 배포 다음이 문제",
+    "date": "2026.11.15",
+    "section": "MEDICINE",
+    "accent": "#00897b",
+    "note": "원문 5건 대조(AuntMinnie 2건은 Cloudflare 차단이라 11-12·11-15 enrichment 전문으로 확인): 742,000건·76%·PE 무개선, 48명·81.45%→58.33%·12.5%, 60.0%→73.3%·80%, 37,485건·8.9%→9.7%(암 발견율은 p=0.3 비유의), NHS–RCR 5개월 PDM 사업. npj·KBR·PublicTechnology 원문 게재일은 11.13, 눈썹은 카드 날짜를 따랐다. 사진은 신장암·NHS 두 장만, 나머지는 stat.",
+    "sources": [
+      "AuntMinnie — AI triage algorithms yield varied results in real-world use (2026.11.12)",
+      "npj Digital Medicine — Challenges for human oversight in detecting system malfunctions in AI-assisted medical diagnostics (2026.11.13)",
+      "Korea Biomedical Review — AI improves rare kidney cancer diagnosis, but overreliance poses risks: AMC study (2026.11.13)",
+      "AuntMinnie — AI linked to higher recall rates in screening mammography (2026.11.15)",
+      "PublicTechnology — NHS launches £200k project to shape how safety and performance of AI diagnostic tools are monitored (2026.11.13)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "5건 · 의료 · 11.12~11.15",
+      "thread": [
+        {
+          "d": "11.12",
+          "t": "트리아지",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        },
+        {
+          "d": "11.14",
+          "t": "오작동",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        },
+        {
+          "d": "11.15",
+          "t": "과의존",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        },
+        {
+          "d": "11.15",
+          "t": "재검률",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        },
+        {
+          "d": "11.15",
+          "t": "사후 감시",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        }
+      ],
+      "thread_note": "임상 AI는 실전에서 흔들리고, 배포 후 감시는 이제야 짜인다",
+      "eyebrow": "흐름 · 의료",
+      "headline": "임상 AI,\n배포 다음이 문제",
+      "body": "한 건씩 보면 연구 하나다. 나흘 새 실사용 편차·오작동·과의존·재검률이 줄지어 나왔고, NHS가 감시법을 찾기 시작했다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "stat",
+      "eyebrow": "2026.11.12",
+      "headline": "AI 트리아지,\n효과는 제각각",
+      "body": "UW 병원 세 곳에 알고리즘 11개를 들여 영상 742,000여 건을 처리했다. 튜브 위치 이상은 빨라졌지만 폐색전증은 그대로였다.",
+      "foot": "2026.11.12",
+      "_src": "https://www.auntminnie.com/resources/conference/rsna/2026/artificial-intelligence-preview/article/16425184/ai-triage-algorithms-yield-varied-results-in-realworld-use",
+      "_id": "uw-rsna-ai-triage-realworld",
+      "stat_top": "튜브 위치 이상 76% 단축",
+      "stat_arrow": "같은 도입, 폐색전증에선",
+      "stat_bottom": "개선 없음",
+      "stat_strike": false
+    },
+    {
+      "n": 3,
+      "kind": "stat",
+      "eyebrow": "2026.11.14",
+      "headline": "AI가 고장 나면\n의사도 따라 틀린다",
+      "body": "의사 48명 실험에서 심장 청진 AI의 신뢰도를 단계적으로 낮췄다. 신뢰도 하락을 알아챈 사람은 12.5%뿐이었다.",
+      "foot": "2026.11.14",
+      "_src": "https://www.nature.com/articles/s41746-026-03410-x",
+      "_id": "npj-ai-malfunction-oversight",
+      "stat_top": "AI 보조 진단 81.45%",
+      "stat_arrow": "AI 신뢰도를 낮추자",
+      "stat_bottom": "58.33%",
+      "stat_strike": false
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.11.15",
+      "headline": "정확도는 올랐지만\n틀린 권고도 따랐다",
+      "body": "아산병원 AI로 희귀 신장암 진단 정확도가 60.0%에서 73.3%로 올랐다. 쉽게 따른 그룹은 잘못된 권고도 80% 받아들였다.",
+      "foot": "2026.11.15",
+      "_src": "https://www.koreabiomed.com/news/articleView.html?idxno=33846",
+      "_id": "amc-fh-kidney-cancer-ai",
+      "media": "pipeline/media/amc-fh-kidney-cancer-ai.jpg"
+    },
+    {
+      "n": 5,
+      "kind": "stat",
+      "eyebrow": "2026.11.15",
+      "headline": "AI 쓴 유방 검진,\n재검률은 올랐다",
+      "body": "MSK 검진 37,485건을 AI 유무로 나눠 봤다. 암 발견율도 오르는 추세였지만 통계적으로 유의하지는 않았다.",
+      "foot": "2026.11.15",
+      "_src": "https://www.auntminnie.com/resources/conference/rsna/2026/womens-imaging-preview/article/16425472/ai-linked-to-higher-recall-rates-in-screening-mammography",
+      "_id": "auntminnie-mammo-ai-recall",
+      "stat_top": "AI 없이 재검률 8.9%",
+      "stat_arrow": "같은 의료진, AI와 함께",
+      "stat_bottom": "9.7%",
+      "stat_strike": false
+    },
+    {
+      "n": 6,
+      "kind": "photo",
+      "eyebrow": "2026.11.15",
+      "headline": "NHS, 배포 후\n감시법 찾는다",
+      "body": "NHS England가 영국왕립영상의학회와 다섯 달짜리 사업을 맺는다. 실사용 성능, 모델 드리프트, 불평등을 계속 지켜볼 방법이다.",
+      "foot": "2026.11.15",
+      "_src": "https://www.publictechnology.net/2026/11/13/health-and-social-care/nhs-launches-200k-project-to-shape-how-safety-and-performance-of-ai-diagnostic-tools-are-monitored/",
+      "_id": "nhs-rcr-ai-diagnostic-monitoring",
+      "media": "pipeline/media/nhs-rcr-ai-diagnostic-monitoring.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 7
+    }
+  ]
+}

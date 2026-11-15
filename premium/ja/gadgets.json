@@ -11860,6 +11860,170 @@
           "yt": "6FbSIAKJ1rg"
         }
       ]
+    },
+    "gadgets/xiaomi18pro-rear-genai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/xiaomi-18-pro-2.jpg?quality=82&strip=all&w=1400"
+        },
+        {
+          "t": "p",
+          "x": "Xiaomi 18 Proシリーズの背面ディスプレイは、結局のところ本当に役立つものになるかもしれない。"
+        },
+        {
+          "t": "p",
+          "x": "背面ディスプレイ付きのスマートフォンを出したメーカーはわずかで、率直に言えば、その大半はほとんど役に立たなかった。XiaomiはXiaomi 18 ProとXiaomi 18 Pro Maxの背面ディスプレイでその状況を覆そうとしている。同社によると、この画面はGoogle Maps、YouTube Music、Spotifyに対応し、気の利いたGenAI統合によって多くの追加アプリも使えるという。"
+        },
+        {
+          "t": "p",
+          "x": "このニュースはGSMArena経由で伝えられたもので、Xiaomi GroupのVP & CMOであるXu FeiがXに投稿してきたAMA動画に基づいている。まだ見ていない人のために言えば、Xiaomi 18 Proシリーズ背面のカメラアイランドは、Galaxy Z Flip 8やMotorola Razrシリーズのような縦折りフォルダブルのカバー画面に似ている。フルカラーのタッチスクリーンで、解像度も見事に高い。"
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/xiaomi-18-pro-back-display-genai-camera.jpg?quality=82&strip=all&w=800"
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/xiaomi-18-pro-back-display-google-spotify.jpg?quality=82&strip=all&w=800"
+        },
+        {
+          "t": "p",
+          "x": "YouTube MusicとSpotifyでは、再生/一時停止とスキップのボタンが大きく表示され、再生中の曲のアートワークと曲名も出る。Google Mapsはナビの進行状況表示と、次の進路案内を示す。"
+        },
+        {
+          "t": "p",
+          "x": "公式の統合に加え、Xiaomiは内蔵のGenAIアプリ作成ツールで、ユーザーが独自の背面ディスプレイ用アプリを作れるようにする。欲しいものを説明するだけで、端末上のAIがアプリを作ってくれる。かなり便利そうで、これまでの背面ディスプレイが抱えてきた「役に立たない」問題の解決に役立つはずだ。Xiaomi 18 Proシリーズはグローバルで発売される。"
+        }
+      ]
+    },
+    "gadgets/tvos-27-2-1-siri-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.macrumors.com/t/NIQfOSBaVtOFpZf_INMVdrQgmCg=/2500x/article-new/2026/10/Apple-TV-4K-4th-Generation-feature0.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Appleは本日、9月に登場したtvOS 27オペレーティングシステムのアップデートとしてtvOS 27.2.1を公開した。tvOS 27.2.1は、AppleがtvOS 27.2を出してから三週間近く後の配信となる。"
+        },
+        {
+          "t": "p",
+          "x": "tvOS 27.2.1は第2世代と第3世代のApple TV 4K モデルにSiri AIへの対応をもたらすが、tvOS 27に対応するすべてのApple TV 4K モデルで入手できる。"
+        },
+        {
+          "t": "p",
+          "x": "Appleは第4世代Apple TV 4K の発表時に、Apple TV向けのSiri AIを発表した。最新のセットトップボックスでは別のtvOS 27.2ビルドがSiri AIを有効にするが、旧型のApple TV 4K モデルで使うにはtvOS 27.2.1アップデートが必要だ。"
+        },
+        {
+          "t": "p",
+          "x": "Siri AIは、Appleが今年初めに導入した、より賢く高機能なSiriである。Siri AIはコンテンツの再生、個人の文脈に基づく提案、一般知識の質問への回答、タスクの実行をこなす。"
+        },
+        {
+          "t": "p",
+          "x": "Apple TVでSiri AIを使うには、Apple Intelligence-compatibleのiOSデバイス、つまりiPhone 15 Pro以降とのペアリングが必要だ。"
+        },
+        {
+          "t": "p",
+          "x": "Apple TVのユーザーは、設定（Settings）> システム（System）> ソフトウェアアップデート（Software Update）からtvOS 27.2.1をダウンロードできる。AppleはHomePodとHomePod mini向けの新しいHomePod Software 27.2.1アップデートも公開した。"
+        }
+      ]
+    },
+    "gadgets/slashvibe-agent-controller": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/slashvibe-hero-in-hand-1440.jpg",
+          "cap": "画面に待機中・完了・作業中のエージェントセッションを表示したSlashVibe V1を両手で持った様子"
+        },
+        {
+          "t": "p",
+          "x": "SlashVibeはAIエージェント用の着脱式コントローラーを備えた小型の卓上ディスプレイで、開発元はそれを支えるデスクトップアプリ、ファームウェア、通信プロトコル、SDKをオープンソース化する。Kickstarterでは2026年11月15日時点で552人の支援者から目標額$10,000に対し$122,881を集めており、12月10日に終了する。Early Birdの支援額は小売価格$249より$60安い$189で、最初のロットは2027年3月に出荷が始まる見込みだ。"
+        },
+        {
+          "t": "p",
+          "x": "SlashVibe SDKに必要なのはNode.jsかPythonだけだ。コードは手元のコンピューターで動き、そのインターフェースをSlashVibeにストリーミングする。最初のリリースには、カスタム画面レイアウト、ボタンとジョイスティックのイベント、音声を書き起こしたテキストという三つのフックが入る。"
+        },
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/slashvibe-sdk-spend-screen.jpg",
+          "cap": "月間予算に対するAPI支出を追跡するSlashVibe SDKのサンプル画面"
+        },
+        {
+          "t": "p",
+          "x": "ハードウェアは3.96インチLCD、Kailhの超薄型メカニカルスイッチ、2軸ジョイスティック、デュアルMEMSマイク、2W スピーカーを備える。コントローラーは取り外し可能で2.4GHz で通信し、500mAh バッテリーで20時間使える。"
+        },
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/slashvibe-agent-status-screen-closeup-1440.jpg",
+          "cap": "待機中・完了・作業中のエージェントセッションを表示するSlashVibeディスプレイのクローズアップ"
+        },
+        {
+          "t": "p",
+          "x": "SlashVibeは初期状態でmacOSとWindows上のClaude Code、Codex、Cursor、Copilot CLI、Gemini CLIなど20を超えるエージェントやツールに対応する。各セッションは実行中、完了、待機として表示され、承認はデバイス上で行う。音声入力は100ミリ秒以内に録音を始め、言いよどみを取り除く。ライセンスやリポジトリはまだ明らかにされておらず、コードは出荷前に公開される。"
+        }
+      ]
+    },
+    "gadgets/hp-zgx-fury-gb300": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/PZgCJ7B7RendGrosbZtv5e-1920-80.jpg",
+          "cap": "HP ZGX Furyデスクトップワークステーション"
+        },
+        {
+          "t": "p",
+          "x": "HPは、これまで大規模AIインフラと結び付けられてきたコンピューティングハードウェアをオフィスサイズのマシンに収めた、高価なワークステーションを発表した。ZGX Fury G1nは、NvidiaのGB300 Grace Blackwell UltraプロセッサーにLPDDR5XとHBM3eメモリを組み合わせる。システムメモリ496GBとグラフィックス用252GBで合計748GBとなり、CPUは72コアのArm Neoverse V2 Grace CPUだ。一部の構成では、単体のRTX PRO 2000やRTX PRO 4000カードを含めてビデオメモリが276GBに増える。"
+        },
+        {
+          "t": "p",
+          "x": "HPによると、このメモリは最大100 billion（千億）パラメータの言語モデルのローカル調整に対応でき、FP4量子化を使えば一兆パラメータに達するモデルの推論も可能だという。"
+        },
+        {
+          "t": "p",
+          "x": "水冷を採用し、1,600WのTitanium-certified電源を備え、Ubuntu 24.04 LTSを搭載して出荷される。Nvidia ConnectX-8 SuperNICが400GbpsのQSFP112接続を二つ提供する。筐体は5Uの機器ラックにも収まる。"
+        },
+        {
+          "t": "p",
+          "x": "標準構成は$132,000で、RTX PRO 2000搭載オプションは$133,000、RTX PRO 4000搭載オプションは$136,000だ。"
+        }
+      ]
+    },
+    "gadgets/gr00t2-human-video-robots": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-hero2-1280x720.jpg"
+        },
+        {
+          "t": "p",
+          "x": "GR00T 2は、動く前にこの先数秒間の映像を予測する。これを搭載したロボットは人の実演から技能を学び、その作業を一度も練習していない別の機体にも技能を移す。単一の拡散トランスフォーマーが未来の映像とアクションチャンクを同時に生成する。NVIDIAはこのモデルを、自社のワールドモデル基盤Cosmos上に構築したSystem One層と位置づける。"
+        },
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-rollout.jpg"
+        },
+        {
+          "t": "p",
+          "x": "事前学習には、一人称視点の人間の動画402,730時間、2,897タスクにわたるハンドヘルドグリッパーの実演10,184時間、ロボット遠隔操作23,500時間を組み合わせた。NVIDIAはこの転移をX-Adaptと呼ぶ。対象ロボットは、実行前にそのタスクを自ら実演する必要がない。一人称映像のうち100,000時間分は、Human-1M-100KとしてHugging Faceで公開されている。"
+        },
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-xadapt.jpg"
+        },
+        {
+          "t": "p",
+          "x": "対象ロボットが一度も練習していない50タスクで、GR00T 2は指示だけで試行の40%に成功する。タスクごとに1回実演すれば平均成功率は71%に、5回実演すればRTX 5090一枚での30分間のファインチューニング1回を経て95%に上がる。WAM APIを通じて最先端の推論モデルをSystem Twoとして組み合わせると、連続した玩具の組み立て300回のうち292回を完了した。"
+        },
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-turbo.jpg"
+        },
+        {
+          "t": "p",
+          "x": "二十億パラメータ版のGR00T 2 Turboは、Jetson Thorを積んだUnitree G1ヒューマノイド上で、予測1回あたり124ミリ秒で動作する。Nexuni、Foxconn、Siemensがフルサイズモデルを試験中だ。モデルの重みとX-Adaptのレシピは12月に公開される。"
+        }
+      ]
     }
   }
 }

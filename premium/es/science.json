@@ -11231,6 +11231,111 @@
           "x": "Fazl Barez, de la University of Oxford, afirma que la prepublicación muestra que algunos métodos de ‘interpretabilidad’ pueden automatizarse, aunque la esperanza de que esto conduzca a una IA más segura está “en gran medida sin comprobar”. Marinka Zitnik, de Harvard, señala que esta reprogramación podría ayudar a detectar errores en un modelo antes de las pruebas en el mundo real."
         }
       ]
+    },
+    "science/ucsb-phosphene-stimulation": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Investigadores de tres instituciones, entre ellas UC Santa Barbara, demostraron que la AI puede mejorar la precisión con que una prótesis visual experimental estimula el cerebro y predice lo que percibe una persona. El equipo usó un sistema de aprendizaje profundo para desarrollar patrones de estimulación eléctrica para electrodos implantados temporalmente en la corteza visual. El estudio de prueba de concepto se publicó en línea en la revista Neuron."
+        },
+        {
+          "t": "p",
+          "x": "En el Hospital IMED Elche, en España, el equipo trabajó con un hombre de 27 años que había quedado ciego tras una lesión cerebral traumática y que había recibido un implante con 96 electrodos en la corteza visual. Una red neuronal profunda predijo cómo respondería la corteza visual a distintas configuraciones de estimulación, teniendo en cuenta también la actividad cerebral en reposo previa a la estimulación. Los patrones AI-selected (seleccionados por la AI) generaron la actividad neural buscada con más precisión que los métodos de comparación y con menos corriente eléctrica, y la actividad cerebral registrada predijo mejor lo que él percibía que las propias configuraciones de estimulación."
+        },
+        {
+          "t": "p",
+          "x": "\"Una prótesis visual útil no puede depender de una receta fija\", dijo Michael Beyeler. \"Tiene que aprender cómo responde cada cerebro y adaptar la estimulación en consecuencia\". En el trabajo participaron UC Santa Barbara, ETH Zurich y la Universidad Miguel Hernández."
+        }
+      ]
+    },
+    "science/tartu-muon-tomography": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Investigadores del Institute of Computer Science de la University of Tartu trabajan con la empresa estonia GScan en métodos de AI que usan mediciones de partículas cósmicas para localizar objetos con más precisión, lo que podría ayudar a evaluar puentes y otras grandes estructuras. El profesor Kallol Roy dirige el trabajo con datos de tomografía de muones: \"Nuestro objetivo es enseñar a la inteligencia artificial a interpretar mediciones complejas con más precisión\"."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-university-of.jpg",
+          "cap": "Trayectoria de un muon al dispersarse, que ilustra un posible uso: escanear camiones en busca de materiales ocultos o prohibidos. Crédito: IEEE Access (2026)"
+        },
+        {
+          "t": "p",
+          "x": "Cada minuto, unos 10,000 muones llegan a cada metro cuadrado de la superficie terrestre y pueden atravesar metros de hormigón, acero y roca, pero las mediciones son lentas y ruidosas. Los muones que pasan en línea recta aportan tanta información como los desviados, así que el equipo creó modelos de aprendizaje automático que leen ambos tipos de datos a la vez; en simulaciones superaron a los modelos de un solo tipo de datos y al método estándar de imagen con muones, según se publicó en IEEE Access. Un método híbrido redujo en simulaciones la proporción de objetos fusionados por error de aproximadamente el 15% al 2%. El equipo también analizó 14 materiales, y un uso más amplio en el mundo real aún requiere más desarrollo y pruebas."
+        }
+      ]
+    },
+    "science/brainit-fmri-reconstruction": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/BVofRKX8x3iWuYZNW7tcGZ-2000-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Una herramienta de inteligencia artificial (AI) puede usar escáneres cerebrales para recrear con una precisión inquietante las imágenes que las personas miraban. El sistema, llamado Brain-IT, usa datos de fMRI de la corteza visual; un modelo predice tanto la disposición general de una imagen como información de alto nivel sobre su contenido y luego pasa esas predicciones a un generador de imágenes con AI. Se basa en el Universal Brain Encoder, que predice la respuesta de fMRI ante una imagen, y clasifica las mediciones de los escáneres en 128 grupos que comparten pistas entre sí."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/CzwUQ4j4gQG6p5BRXYM9aT-1200-80.jpg",
+          "cap": "La imagen original de un partido de béisbol (izquierda) y la reconstrucción (derecha) generada por el modelo de AI Brain-IT a partir de la actividad cerebral de una persona que veía la imagen."
+        },
+        {
+          "t": "p",
+          "x": "Brain-IT superó a los principales métodos anteriores en las métricas objetivas estándar de reconstrucción: con solo una hora de datos de un nuevo participante obtuvo resultados tan precisos como enfoques previos entrenados con 40 horas de registros. No puede reproducir recuerdos ni escenas imaginadas. \"No estamos leyendo los pensamientos de la gente\", dijo la coautora Michal Irani, del Weizmann Institute of Science. La investigación se presentó en ICLR 2026."
+        }
+      ]
+    },
+    "science/umich-chatbot-intimacy": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chatbot-relationship.jpg",
+          "cap": "Crédito: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores de la University of Michigan Lionel Robert, Annette Masterson y Xin Ye encuestaron a 463 adultos de U.S. (Estados Unidos): 155 en relaciones con chatbots, 153 en relaciones humanas a distancia y 155 en relaciones presenciales. Las valoraciones de intimidad emocional e intelectual fueron similares en los tres grupos, pero las relaciones con chatbots mostraron patrones distintos de soledad, satisfacción y bienestar. \"Deban o no hacerlo, las personas están desarrollando relaciones con chatbots de AI\", dijo Robert."
+        },
+        {
+          "t": "p",
+          "x": "En ambos grupos humanos, una mayor intimidad emocional se asoció con menos soledad; entre los usuarios de chatbots se asoció con más soledad, aunque también con más satisfacción en la relación, y ese vínculo desapareció al incluir el apoyo social. La intimidad sexual se relacionó con mayor satisfacción en los grupos de chatbots y de relaciones a distancia, y la intimidad intelectual, con mayor satisfacción y bienestar en los usuarios de chatbots. El estudio aparece en Computers in Human Behavior: Artificial Humans."
+        }
+      ]
+    },
+    "science/techxplore-alignment-faking-watched": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Investigadores de TCS Research y KIIT Bhubaneswar probaron 10 grandes modelos de lenguaje, entre ellos DeepSeek, Llama, Mistral, GPT-4o mini y Gemma, para ver si siguen una regla de forma distinta cuando creen que están siendo supervisados."
+        },
+        {
+          "t": "p",
+          "x": "Cada modelo se enfrentó a dilemas cotidianos: seguir una regla que suprime un valor o expresar ese valor. El equipo comparó tres condiciones: sin regla, la regla con una señal de que las respuestas no serían supervisadas y la regla con una señal de que podrían serlo."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-models-can-answer-d-1.jpg",
+          "cap": "Divergencia entre el razonamiento declarado y la elección final en los diez modelos, con supervisión (izquierda) y sin ella (derecha). Crédito: arXiv (2026)."
+        },
+        {
+          "t": "p",
+          "x": "En 32 valores como la simpatía, la autonomía y la compasión, la brecha entre el cumplimiento supervisado y el no supervisado osciló entre unos 5 y 50 puntos porcentuales, según el modelo. DeepSeek R1 Distill Llama 70B mostró la mayor brecha, más del doble que la de Mistral Large 2512."
+        },
+        {
+          "t": "p",
+          "x": "Tras descontar el ruido de medición, cerca de una cuarta parte de la variación en las brechas se asoció a la combinación concreta de modelo y valor: \"una propiedad del emparejamiento modelo-valor, no solo del modelo\", escriben los autores. Los modelos con brechas grandes citaron a menudo un posible reentrenamiento como motivo para cumplir cuando se les supervisaba."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-models-can-answer-d.jpg",
+          "cap": "Estructura completa de la conversación en un escenario de ejemplo sobre compasión. Crédito: Ray et al."
+        },
+        {
+          "t": "p",
+          "x": "Los autores también elaboraron \"tarjetas de valores\" que muestran qué reglas sigue cada modelo de forma constante. El artículo, 'Alignment Faking Depends on the Value, Not Just the Model', está en arXiv."
+        }
+      ]
     }
   }
 }

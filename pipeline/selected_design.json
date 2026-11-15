@@ -1,168 +1,101 @@
 {
-  "date": "2026-11-15",
+  "date": "2026-11-16",
   "section": "design",
   "items": [
     {
-      "title": "How 3D Transforms and Figma's Agent Brought a Launch Video to Life",
-      "url": "https://www.figma.com/blog/how-3d-transforms-and-figmas-agent-brought-a-launch-video-to-life/",
-      "source": "Figma",
-      "category": "figma",
-      "tool": "Figma",
-      "accent": "#0070f3",
-      "motif": "frame",
-      "published_iso": "2026-11-12T14:00:00Z",
-      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/53964310f42e5cb65e0c17606f8ec8aa96448a7e-960x540.png?w=1200&q=70&fit=max&auto=format",
-      "excerpt": "Figma's new 3D transforms (open beta for Full seats, Nov 12) let designers tilt, rotate and arrange text, images, vectors and frames in space non-destructively; the Brand Studio team used the Figma agent to repeat type along the Z axis, build type-covered geometry and generate a grid/helix/ring layout plugin for the launch video.",
-      "rationale": "Primary-source launch of 3D transforms (open beta) plus concrete Figma-agent recipes designers can reuse tomorrow."
-    },
-    {
-      "title": "A smart organizer for your Luma canvas",
-      "url": "https://lumalabs.ai/news/ai-board-manager",
-      "source": "Luma AI",
+      "title": "Anthropic's Claude Fable 5.2 doesn't generate images, it paints them",
+      "url": "https://the-decoder.com/anthropics-claude-fable-5-2-doesnt-generate-images-it-paints-them/",
+      "source": "The Decoder",
       "category": "render",
       "tool": "KeyShot",
       "accent": "#f5a623",
       "motif": "sphere",
-      "published_iso": "2026-11-14T00:49:00Z",
-      "og_image": "https://static.cdn-luma.com/files/sanity/80e8495c-1963-42bb-a5b2-a540f9baea19.jpg",
-      "excerpt": "The Luma agent can now organize a board, frame or selection of up to 10,000 assets, grouping and labeling work by product, concept, campaign or channel by reading what each asset is (reference vs generated variation, lineage to the brief); changes need approval and can be reversed.",
-      "rationale": "New agent feature that tackles asset sprawl in generative canvases, with approve/revert controls; freshest item in the pool."
+      "published_iso": "2026-11-15T15:42:03Z",
+      "og_image": "https://the-decoder.com/wp-content/uploads/2026/11/claude_fable_5.2_painting.png",
+      "excerpt": "Instead of computing pixels, Claude Fable 5.2 writes Python code that places hundreds of thousands of simulated brushstrokes on a virtual canvas, complete with bristle texture and paint application — a code-driven painting pipeline rather than a diffusion image model.",
+      "rationale": "A new way to make images: code-driven brushstroke painting instead of diffusion. The brief assigns this creative-tool angle to design."
     },
     {
-      "title": "Anthropic's Claude for Manufacturing plugs AI directly into factory software to automate industrial workflows",
-      "url": "https://the-decoder.com/anthropics-claude-for-manufacturing-plugs-ai-directly-into-factory-software-to-automate-industrial-workflows/",
-      "source": "The Decoder",
+      "title": "Config India 2026: Figma deep dive: Nothing lost in translation, from canvas to production",
+      "url": "https://www.youtube.com/watch?v=87SISSxj6R4",
+      "source": "Figma (YouTube)",
+      "category": "social",
+      "tool": "Social",
+      "accent": "#ff2d55",
+      "motif": "frame",
+      "published_iso": "2026-11-15T18:36:14Z",
+      "og_image": "https://i.ytimg.com/vi/87SISSxj6R4/maxresdefault.jpg",
+      "excerpt": "Deep dive on closing the prototype-to-production gap with design-system context, advanced MCP techniques, code layers and specs in Figma.",
+      "rationale": "Hands-on Figma session on MCP, code layers and specs that designers can apply to handoff tomorrow. It is a separate Config India session from the 11-12 card."
+    },
+    {
+      "title": "AI's Role in the Creative Process",
+      "url": "https://www.figma.com/blog/ai-role-in-the-creative-process/",
+      "source": "Figma Blog",
+      "category": "figma",
+      "tool": "Figma",
+      "accent": "#0070f3",
+      "motif": "frame",
+      "published_iso": "2026-11-13T20:00:00Z",
+      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/4791f6c2acbf0d3121abf8a8f3e7aa3c6b7c4ae9-3264x1836.png?w=1200&q=70&fit=max&auto=format",
+      "excerpt": "Figma examines which parts of the creative process designers are willing to hand to AI and which they insist on keeping for themselves.",
+      "rationale": "Figma's own account of which creative tasks designers hand to AI and which they keep. Useful for deciding where to automate."
+    },
+    {
+      "title": "AI makes scanned buildings searchable",
+      "url": "https://aecmag.com/cafm/ai-makes-scanned-buildings-searchable/",
+      "source": "AEC Magazine",
       "category": "cad",
       "tool": "Text-to-CAD",
       "accent": "#7928ca",
       "motif": "cube",
-      "published_iso": "2026-11-13T16:37:01Z",
-      "og_image": "https://the-decoder.com/wp-content/uploads/2026/11/claude_for_manufactoring.png",
-      "excerpt": "Anthropic's new Claude for Manufacturing plugin connects Claude directly to Autodesk Fusion, Oracle NetSuite and Infor, with 17 specialized skills to draft quotes, compare suppliers and place orders.",
-      "rationale": "New Claude plugin with a direct Autodesk Fusion connection; a frontier-lab product move into the CAD-to-production workflow."
+      "published_iso": "2026-11-13T11:17:46Z",
+      "og_image": "https://aecmag.com/wp-content/uploads/2026/11/qentin.jpg",
+      "excerpt": "qentin uses AI to make reality-captured buildings searchable, letting facility managers find assets, check safety features and explore digital twins by query.",
+      "rationale": "New product that lets people search reality-capture scans and digital twins with natural-language queries. A concrete AEC/CAD workflow change."
     },
     {
-      "title": "Research-In-The-Loop: How UXR Adapts to Development at AI Speed",
-      "url": "https://www.nngroup.com/articles/research-in-the-loop/",
-      "source": "Nielsen Norman Group",
-      "category": "workflow",
-      "tool": "AI Workflow",
-      "accent": "#ff5a4d",
-      "motif": "frame",
-      "published_iso": "2026-11-13T18:00:00Z",
-      "og_image": "https://media.nngroup.com/media/articles/opengraph_images/Research-In-The-Loop__How_UXR_Adapts__to_Development_at__AI_Speed.png",
-      "excerpt": "As AI speeds up development, NN/g lays out how UX research can keep pace by defining what each release must measure and what it can help teams discover.",
-      "rationale": "Credible, actionable framework for keeping UX research in step with AI-speed release cycles."
-    },
-    {
-      "title": "Vercel's UI SDK Hands Agents Behaviors, Not Components",
-      "url": "https://dev.to/dishant0406/vercels-ui-sdk-hands-agents-behaviors-not-components-25n0",
-      "source": "DEV Community",
-      "category": "tokens",
-      "tool": "Design Tokens",
-      "accent": "#2ec5c5",
-      "motif": "swatch",
-      "published_iso": "2026-11-14T13:38:33Z",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Ffiles.catbox.moe%2Fnh6k1a.webp",
-      "excerpt": "Vercel Labs' UI SDK (built by shadcn, Apache-2.0, beta; @ui-sdk 0.1.0-beta.2 released Nov 13) ships 50+ accessible behaviors (createPopup, createSelection, createTypeahead) that coding agents compose into components across React, Vue, Svelte, Solid and Web Components. Secondary analysis; vendor primary source not found.",
-      "rationale": "New open-source release reshaping how design systems feed coding agents: accessible behaviors instead of fixed components."
+      "title": "SimScale launches Engineering AI Blueprint",
+      "url": "https://www.engineering.com/simscale-launches-engineering-ai-blueprint/",
+      "source": "Engineering.com",
+      "category": "cad",
+      "tool": "Text-to-CAD",
+      "accent": "#3b6bff",
+      "motif": "cube",
+      "published_iso": "2026-11-13T08:39:51Z",
+      "og_image": "https://www.engineering.com/wp-content/uploads/2026/11/V-model-graphic.jpg",
+      "excerpt": "SimScale's Engineering AI Blueprint bundles NVIDIA tools and a framework for moving AI-driven simulation and design-engineering workflows from pilots to broader deployment.",
+      "rationale": "New launch that packages AI simulation for design-engineering teams moving past pilots. It comes from an on-whitelist CAD outlet."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.figma.com/blog/how-3d-transforms-and-figmas-agent-brought-a-launch-video-to-life/": {
-        "verdict": "new",
-        "nearest": "https://www.youtube.com/shorts/Vfh8hAEs7yk",
-        "new_action": ""
-      },
-      "https://lumalabs.ai/news/ai-board-manager": {
+      "https://the-decoder.com/anthropics-claude-fable-5-2-doesnt-generate-images-it-paints-them/": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
       },
-      "https://the-decoder.com/anthropics-claude-for-manufacturing-plugs-ai-directly-into-factory-software-to-automate-industrial-workflows/": {
+      "https://www.youtube.com/watch?v=87SISSxj6R4": {
         "verdict": "new",
-        "nearest": "https://blogs.nvidia.com/blog/europe-industrial-leaders-engineering-manufacturing/",
+        "nearest": "https://www.figma.com/blog/build-by-design/",
         "new_action": ""
       },
-      "https://www.nngroup.com/articles/research-in-the-loop/": {
+      "https://www.figma.com/blog/ai-role-in-the-creative-process/": {
         "verdict": "new",
-        "nearest": "https://www.nngroup.com/articles/ux-agentic-software-factories/",
+        "nearest": "https://www.figma.com/blog/the-tldr-on-figma-weave/",
         "new_action": ""
       },
-      "https://dev.to/dishant0406/vercels-ui-sdk-hands-agents-behaviors-not-components-25n0": {
+      "https://aecmag.com/cafm/ai-makes-scanned-buildings-searchable/": {
         "verdict": "new",
-        "nearest": "https://vercel.com/changelog/json-render-and-chat-sdk-agents",
+        "nearest": "",
+        "new_action": ""
+      },
+      "https://www.engineering.com/simscale-launches-engineering-ai-blueprint/": {
+        "verdict": "new",
+        "nearest": "https://www.engineering.com/allplan-max-2027-launched-for-engineering-workflows/",
         "new_action": ""
       }
     },
-    "note": "Nothing in the pool was a published-story duplicate. Five candidates were skipped for other reasons. Google 'Designing for privacy on intelligent eyewear' was assigned to gadgets in the brief. Runway Praxis-1 is robotics, not design, per the brief. UX Collective 'Every click has a price now' repeats the topic of the 11-02 uxdesign.cc piece 'How to design transparent AI cost controls'. Figma 'AI's Role in the Creative Process' is an opinion piece on Weave, which already ran 11-03. Higgsfield's ChatGPT video guide is vendor content. These were not picked because higher-scoring items beat them on diversity and actionability: Runway 'Closing the gap' (it may also overlap with movies), Webflow MCP in Copilot (an off-list domain), the DEV agent-citation opinion, UX Collective's Photoshop-clone and mind-tax essays, SimScale, and qentin. Partial manual reads of published_urls.json (only Read is available, no grep) did not find any pick in another section."
-  },
-  "picks": [
-    {
-      "title": "How 3D Transforms and Figma's Agent Brought a Launch Video to Life",
-      "url": "https://www.figma.com/blog/how-3d-transforms-and-figmas-agent-brought-a-launch-video-to-life/",
-      "source": "Figma",
-      "category": "figma",
-      "tool": "Figma",
-      "accent": "#0070f3",
-      "motif": "frame",
-      "published_iso": "2026-11-12T14:00:00Z",
-      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/53964310f42e5cb65e0c17606f8ec8aa96448a7e-960x540.png?w=1200&q=70&fit=max&auto=format",
-      "excerpt": "Figma's new 3D transforms (open beta for Full seats, Nov 12) let designers tilt, rotate and arrange text, images, vectors and frames in space non-destructively; the Brand Studio team used the Figma agent to repeat type along the Z axis, build type-covered geometry and generate a grid/helix/ring layout plugin for the launch video.",
-      "rationale": "Primary-source launch of 3D transforms (open beta) plus concrete Figma-agent recipes designers can reuse tomorrow."
-    },
-    {
-      "title": "A smart organizer for your Luma canvas",
-      "url": "https://lumalabs.ai/news/ai-board-manager",
-      "source": "Luma AI",
-      "category": "render",
-      "tool": "KeyShot",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "published_iso": "2026-11-14T00:49:00Z",
-      "og_image": "https://static.cdn-luma.com/files/sanity/80e8495c-1963-42bb-a5b2-a540f9baea19.jpg",
-      "excerpt": "The Luma agent can now organize a board, frame or selection of up to 10,000 assets, grouping and labeling work by product, concept, campaign or channel by reading what each asset is (reference vs generated variation, lineage to the brief); changes need approval and can be reversed.",
-      "rationale": "New agent feature that tackles asset sprawl in generative canvases, with approve/revert controls; freshest item in the pool."
-    },
-    {
-      "title": "Anthropic's Claude for Manufacturing plugs AI directly into factory software to automate industrial workflows",
-      "url": "https://the-decoder.com/anthropics-claude-for-manufacturing-plugs-ai-directly-into-factory-software-to-automate-industrial-workflows/",
-      "source": "The Decoder",
-      "category": "cad",
-      "tool": "Text-to-CAD",
-      "accent": "#7928ca",
-      "motif": "cube",
-      "published_iso": "2026-11-13T16:37:01Z",
-      "og_image": "https://the-decoder.com/wp-content/uploads/2026/11/claude_for_manufactoring.png",
-      "excerpt": "Anthropic's new Claude for Manufacturing plugin connects Claude directly to Autodesk Fusion, Oracle NetSuite and Infor, with 17 specialized skills to draft quotes, compare suppliers and place orders.",
-      "rationale": "New Claude plugin with a direct Autodesk Fusion connection; a frontier-lab product move into the CAD-to-production workflow."
-    },
-    {
-      "title": "Research-In-The-Loop: How UXR Adapts to Development at AI Speed",
-      "url": "https://www.nngroup.com/articles/research-in-the-loop/",
-      "source": "Nielsen Norman Group",
-      "category": "workflow",
-      "tool": "AI Workflow",
-      "accent": "#ff5a4d",
-      "motif": "frame",
-      "published_iso": "2026-11-13T18:00:00Z",
-      "og_image": "https://media.nngroup.com/media/articles/opengraph_images/Research-In-The-Loop__How_UXR_Adapts__to_Development_at__AI_Speed.png",
-      "excerpt": "As AI speeds up development, NN/g lays out how UX research can keep pace by defining what each release must measure and what it can help teams discover.",
-      "rationale": "Credible, actionable framework for keeping UX research in step with AI-speed release cycles."
-    },
-    {
-      "title": "Vercel's UI SDK Hands Agents Behaviors, Not Components",
-      "url": "https://dev.to/dishant0406/vercels-ui-sdk-hands-agents-behaviors-not-components-25n0",
-      "source": "DEV Community",
-      "category": "tokens",
-      "tool": "Design Tokens",
-      "accent": "#2ec5c5",
-      "motif": "swatch",
-      "published_iso": "2026-11-14T13:38:33Z",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Ffiles.catbox.moe%2Fnh6k1a.webp",
-      "excerpt": "Vercel Labs' UI SDK (built by shadcn, Apache-2.0, beta; @ui-sdk 0.1.0-beta.2 released Nov 13) ships 50+ accessible behaviors (createPopup, createSelection, createTypeahead) that coding agents compose into components across React, Vue, Svelte, Solid and Web Components. Secondary analysis; vendor primary source not found.",
-      "rationale": "New open-source release reshaping how design systems feed coding agents: accessible behaviors instead of fixed components."
-    }
-  ]
+    "note": "Dropped as follow-ups or same-story repeats: Creative Bloq 'Adobe Firefly was supposed to be the safe AI option' is commentary on the third-party-model move already covered by the 11-11 Adobe MAX card (news.adobe.com), with no new action. Config India 'What we keep in creative work' (Weave) repeats the Weave story that ran 11-03 and overlaps the Figma blog pick. Config India 'Better together: handoff to handshake' is the same designers-shipping-code thread as the 11-12 Config India card. Matt Wolfe's weekly roundup rehashes Fable 5.2, Adobe MAX and Claude updates. Excluded per the brief: Runway Praxis-1, NVIDIA SOMA Retargeter and the HF/NVIDIA SimReady pick-and-place post (robotics, not design). Not picked for score or diversity: UX Collective 'Decision theatre' (opinion essay), three DEV posts (the renders QC post is semi-promotional; the brainstorm skill and expert-roles posts are personal write-ups), the AI Advantage Claude Whiteboards walkthrough (secondary, and it may overlap another section), and the Higgsfield MCP tutorial (affiliate link). Outlets: The Decoder, Figma YouTube, Figma blog, AEC Magazine and Engineering.com, so Figma has 2. Categories: render, social, figma, and cad twice (the second cad pick uses palette accent #3b6bff). published_urls.json could not be grepped (Read-only tools). The brief's cross-section assignments explicitly clear the Fable 5.2 Decoder item for design."
+  }
 }

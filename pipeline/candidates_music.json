@@ -1,16 +1,115 @@
 {
  "section": "music",
- "now_iso": "2026-11-14T22:00:43Z",
+ "now_iso": "2026-11-15T22:00:36Z",
  "window_hours": 336,
  "items": [
   {
-   "title": "Suno boss talks streaming fraud: 'AI music is not a crime'",
-   "url": "https://musically.com/2026/11/13/suno-boss-talks-streaming-fraud-ai-music-is-not-a-crime/",
-   "source": "Music Ally",
+   "title": "Vibe coding is changing how musicians customize their gear",
+   "url": "https://www.engadget.com/2313717/vibe-coding-changing-how-musicians-customize-gear/",
+   "source": "Engadget",
    "category": "music",
-   "published_iso": "2026-11-13T12:30:00+00:00",
-   "excerpt": "Suno CEO Mikey Shulman criticised the 'sleight of hand' of equating streaming fraud with AI music, and said Suno is doing more behind the scenes to tackle fraud than people realise.",
-   "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-31.png?fit=2000%2C1500&ssl=1"
+   "published_iso": "2026-11-15T16:30:00+00:00",
+   "excerpt": "Engadget reports how musicians and hobbyist developers are using AI chatbots and coding agents to build their own DAW plugins and hack hardware, lowering the cost of making production tools; it cites developers such as Anukari's Evan Mezeske.",
+   "og_image": "https://www.engadget.com/img/gallery/vibe-coding-is-changing-how-musicians-customize-their-gear/l-intro-1794240078.jpg"
+  },
+  {
+   "title": "Inside the First AI Music Awards, a Chaotic Evening Attempting to Normalize Tech-Assisted Tunes",
+   "url": "https://variety.com/2026/music/features/inside-first-ai-music-awards-sonic-intelligence-academy-1236947847/",
+   "source": "Variety",
+   "category": "music",
+   "published_iso": "2026-11-14T23:39:41+00:00",
+   "excerpt": "Variety reports from the Sonic Intelligence Academy's first AI Music Awards in Los Angeles, where AI artist Xania Monet took three of the four top categories as AI creators tried to move past legal threats toward genre legitimacy.",
+   "og_image": "https://variety.com/wp-content/uploads/2026/11/7R6A5866-1.jpg?w=1000&h=563&crop=1"
+  },
+  {
+   "title": "AI DJs Completely Kill My Groove",
+   "url": "https://www.wired.com/story/ai-djs-completely-kill-my-groove/",
+   "source": "WIRED",
+   "category": "music",
+   "published_iso": "2026-11-15T12:00:00.000Z",
+   "excerpt": "WIRED's hands-on critique of YouTube Music's 'Beyond the Beat' and Spotify's AI DJ finds the synthetic hosts' banter and fabricated song trivia undermine playlist listening.",
+   "og_image": "https://media.wired.com/photos/6af7840bd2837972f5ddf4f3/191:100/w_1280,c_limit/Untitled-1.jpg"
+  },
+  {
+   "title": "예술과 AI, 상생의 길을 더듬는 치열한 실험... 김명옥의 [지금, 서울 AI 산조]",
+   "url": "https://www.gugaktimes.com/news/article.html?no=84404",
+   "source": "국악타임즈",
+   "category": "music",
+   "published_iso": "2026-11-15T11:07:27+09:00",
+   "excerpt": "전통 산조에 AI를 접목한 김명옥의 공연 '지금, 서울 AI 산조'를 다룬 리뷰로, 국악 무대에서 AI와 예술의 상생 가능성과 한계를 짚는다.",
+   "og_image": "https://www.gugaktimes.com/data/photos/20261146/art_17947074967486_ecb6d9.jpg"
+  },
+  {
+   "title": "Gustavo Cerati's Children Slam Remastered Video Facing AI Backlash: 'We Weren't Consulted'",
+   "url": "https://consequence.net/2026/11/gustavo-cerati-children-video-ai-backlash/",
+   "source": "Consequence",
+   "category": "music",
+   "published_iso": "2026-11-13T06:25:11-05:00",
+   "excerpt": "Gustavo Cerati's children say they were not consulted about the remastered 'Me Quedo Aquí' video, which fans accuse of AI-altered visuals, adding to the estate-consent debate around AI remasters.",
+   "og_image": "https://consequence.net/wp-content/uploads/2026/11/Gustavo-Cerati-Me-Quedo-Aqui-Remastered-Video-Frame.jpg"
+  },
+  {
+   "title": "Russia's Propaganda Machine Deploys Pro-War AI Songs",
+   "url": "https://www.rferl.org/a/russia-propaganda-war-ukraine-artificial-intelligence/33897525.html",
+   "source": "RFE/RL",
+   "category": "music",
+   "published_iso": "2026-11-13 07:22:15Z",
+   "excerpt": "A Ukrainian nonprofit, Terrecon, found nearly 1,000 AI-generated pro-war songs on Russian streaming services, a new genre surfacing in listeners' feeds to stoke patriotic sentiment.",
+   "og_image": "https://gdb.rferl.org/abaf1381-72f8-4dab-8437-08df3ee82709_w1200_h630.jpg"
+  },
+  {
+   "title": "Akai Opens MPC 3 To Vibe Coding With Latest Update",
+   "url": "https://www.synthtopia.com/content/2026/11/12/akai-opens-mpc-3-to-vibe-coding-with-latest-update/",
+   "source": "Synthtopia",
+   "category": "music",
+   "published_iso": "2026-11-13T05:52:06+00:00",
+   "excerpt": "Akai's free MIT-licensed MPC Plugin SDK lets developers build synths and effects that run on MPC hardware, with documentation for using coding agents like Claude Code and Codex to generate the C++ from natural-language descriptions.",
+   "og_image": "https://www.synthtopia.com/wp-content/uploads/2019/01/Akai-Pro-FORCE-angled.jpg"
+  },
+  {
+   "title": "AI music tools as sketchbooks for electronic artists",
+   "url": "https://www.side-line.com/ai-music-tools-sketchbooks/",
+   "source": "Side-Line",
+   "category": "music",
+   "published_iso": "2026-11-12T09:58:55+01:00",
+   "excerpt": "Independent electronic producers describe using AI music tools to sketch ideas and test arrangements and moods while keeping authorship and their final sound their own.",
+   "og_image": "https://www.side-line.com/wp-content/uploads/2026/11/ai-music-tools-sketchbooks-scaled.jpg"
+  },
+  {
+   "title": "뮤니버스뮤직퍼블리싱, 2027년 글로벌 송라이팅 캠프 확대 및 AI 음악 플랫폼 'MUZZK' 사업화 본격 추진",
+   "url": "https://www.seoul.co.kr/news/economy/2026/11/13/20261113500218",
+   "source": "서울신문",
+   "category": "music",
+   "published_iso": "2026-11-13T15:07:20+09:00",
+   "excerpt": "뮤니버스뮤직퍼블리싱이 2027년 서울·도쿄·LA·베를린 송라이팅 캠프를 확대하고 AI 음악 플랫폼 MUZZK 상용화를 추진하며, 계약 체계 정비를 위해 법무법인 2곳을 선임한다.",
+   "og_image": null
+  },
+  {
+   "title": "데뷔하자마자 인기몰이...삼성증권 AI 걸그룹 '루미나' 뮤직비디오 300만뷰 돌파",
+   "url": "https://www.mk.co.kr/news/business/12208037",
+   "source": "매일경제",
+   "category": "music",
+   "published_iso": "2026-11-13T15:03:11+09:00",
+   "excerpt": "삼성증권이 노래·캐릭터·영상을 모두 AI로 만든 가상 걸그룹 '루미나'의 뮤직비디오가 300만 뷰를 넘었고, 후속곡과 교육 영상도 계획 중이다.",
+   "og_image": "https://static.mk.co.kr/2025/economy/images/economy600600.png"
+  },
+  {
+   "title": "Stolen (Not Super) Intelligence: Why Congress Must Stop Big AI From Ripping Off Creators (Guest Column)",
+   "url": "https://www.billboard.com/pro/congress-stop-big-ai-ripping-off-creators/",
+   "source": "Billboard",
+   "category": "music",
+   "published_iso": "2026-11-13T18:29:05+00:00",
+   "excerpt": "Rep. Jerrold Nadler argues in Billboard that Congress must act to stop AI companies training on creators' work, including music, without consent or compensation.",
+   "og_image": "https://www.billboard.com/wp-content/uploads/2026/11/rep-jerrold-nadler-headshot-1800.jpg?w=1024"
+  },
+  {
+   "title": "Several Unreleased Morgan Wallen Songs Have Recently Appeared On TikTok – But Are They Leaks Or AI?",
+   "url": "https://www.whiskeyriff.com/2026/11/13/several-unreleased-morgan-wallen-songs-have-recently-appeared-on-tiktok-but-are-they-leaks-or-ai/",
+   "source": "Whiskey Riff",
+   "category": "music",
+   "published_iso": "2026-11-13T22:07:14+00:00",
+   "excerpt": "Purported unreleased Morgan Wallen songs circulating on TikTok have fans debating whether they are genuine leaks or AI voice-cloned fakes.",
+   "og_image": "https://www.whiskeyriff.com/wp-content/uploads/MW-2.jpg"
   },
   {
    "title": "Reservoir Expands Its Suno and Anthropic Suits, Seeking $450M",
@@ -22,58 +121,13 @@
    "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/Suno-Anthropic-Suits-Updated-Reservoir.jpg"
   },
   {
-   "title": "You can now vibe code plugins for your MPC with the help of Akai's official SDK",
-   "url": "https://www.musicradar.com/music-tech/you-can-now-vibe-code-plugins-for-your-mpc-with-the-help-of-akais-official-sdk",
-   "source": "MusicRadar",
+   "title": "Backlash Already Rumbles Against Spotify's Upcoming Remix Tool",
+   "url": "https://www.digitalmusicnews.com/2026/11/09/spotify-remix-tool-backlash/",
+   "source": "Digital Music News",
    "category": "music",
-   "published_iso": "2026-11-12T15:01:44Z",
-   "excerpt": "Akai's latest MPC, MPC Sample and Force updates ship an official SDK so users can build custom synths and effects for standalone hardware, explicitly pitched as vibe-codable with AI coding assistants.",
-   "og_image": "https://cdn.mos.cms.futurecdn.net/yiHYKV3d9js2BZekG3W85e-1588-80.jpg"
-  },
-  {
-   "title": "50 Cent Trolls Former Nvidia CEO Jensen Huang's Affair With 'P.I.M.P.' Music Video AI Deepfake",
-   "url": "https://www.billboard.com/music/rb-hip-hop/50-cent-trolls-former-nvidia-ceo-jensen-huang-pimp-video-ai-1236381001/",
-   "source": "Billboard",
-   "category": "music",
-   "published_iso": "2026-11-13T01:38:19+00:00",
-   "excerpt": "50 Cent posted an AI deepfake remake of his 'P.I.M.P.' music video starring former Nvidia CEO Jensen Huang, the latest high-profile artist use of generative video for a music clip.",
-   "og_image": "https://www.billboard.com/wp-content/uploads/2026/10/2287163263-e1792696512839.jpg?w=1024"
-  },
-  {
-   "title": "AI-powered label PaRa Music says it's identified the next big Indian regional music sub-genre",
-   "url": "https://musically.com/2026/11/12/ai-powered-label-para-music-says-its-identified-the-next-big-indian-regional-music-sub-genre/",
-   "source": "Music Ally",
-   "category": "music",
-   "published_iso": "2026-11-12T20:00:11+00:00",
-   "excerpt": "Indian label PaRa Music uses its in-house AI platform PaRaMeter to analyse audience behaviour and demand patterns to guide A&R investment, and now claims it has spotted the next regional sub-genre.",
-   "og_image": "https://musically.com/wp-content/uploads/2026/06/PaRa-Music-logo.jpg"
-  },
-  {
-   "title": "AI 노래가 전화 화면까지 들어온다…민티파이 운영사 뮤직플랫, V 컬러링 서비스 시작",
-   "url": "https://www.aipostkorea.com/news/articleView.html?idxno=13276",
-   "source": "AI포스트",
-   "category": "music",
-   "published_iso": "2026-11-12T15:57:18+09:00",
-   "excerpt": "AI 음원 유통 서비스 민티파이(뮤직플랫)가 통신 3사의 통화 연결 영상 서비스 V 컬러링·V 프로필에 AI로 만든 노래를 공급하기 시작했다.",
-   "og_image": "https://cdn.aipostkorea.com/news/photo/202611/13276_24022_5651.png"
-  },
-  {
-   "title": "Highlights, concerns, and trends from Game Sound Con 2026",
-   "url": "https://musictech.com/news/events/games-sound-con-2026/",
-   "source": "MusicTech",
-   "category": "music",
-   "published_iso": "2026-11-11T17:26:50+00:00",
-   "excerpt": "MusicTech's report from the game music and sound conference, where generative AI in game audio and scoring was a central concern and trend.",
-   "og_image": "https://musictech.com/wp-content/uploads/2026/11/gaming-headset-stock@2000x1500-1068x801.jpg"
-  },
-  {
-   "title": "“An affront to any songwriter”: Nick Cave on AI song-generating platforms",
-   "url": "https://www.musicradar.com/artists/singers-songwriters/an-affront-to-any-songwriter-who-has-lived-and-struggled-in-this-world-and-earned-the-right-to-create-a-song-nick-cave-on-ai-song-generating-platforms",
-   "source": "MusicRadar",
-   "category": "music",
-   "published_iso": "2026-11-11T12:49:47Z",
-   "excerpt": "Nick Cave calls AI song generators 'our final, most soul-destroying humiliation' and an affront to songwriters who earned the right to create a song.",
-   "og_image": "https://cdn.mos.cms.futurecdn.net/h3TxNdhfE3wxsokjXh4dZL-1508-80.jpg"
+   "published_iso": "2026-11-09T23:27:27+00:00",
+   "excerpt": "Spotify's upcoming AI remix tool is drawing criticism from listeners and artists questioning fairness to artists and the ethics of its AI training.",
+   "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/backlash-rumbles-against-upcoming-spotify-ai-remix-tool.png"
   },
   {
    "title": "The 'Blue Wave' Could Change the Rules for Music AI",
@@ -85,22 +139,22 @@
    "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/A-historic-blue-wave-has-broken-across-the-United-States.-Is-there-an-opportunity-for-musicians.png"
   },
   {
-   "title": "Carmine Appice On Using AI To Create Cactus Music Videos",
-   "url": "https://hypebot.com/carmine-appice-on-a-legendary-career-ai-music-videos-more",
-   "source": "Hypebot",
+   "title": "You can now vibe code plugins for your MPC with the help of Akai's official SDK",
+   "url": "https://www.musicradar.com/music-tech/you-can-now-vibe-code-plugins-for-your-mpc-with-the-help-of-akais-official-sdk",
+   "source": "MusicRadar",
    "category": "music",
-   "published_iso": "2026-11-11T08:24:21.000Z",
-   "excerpt": "Rock drummer Carmine Appice explains how AI video is driving the music videos for Cactus's recent albums.",
-   "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/11/CA-pic-00.jpg"
+   "published_iso": "2026-11-12T15:01:44Z",
+   "excerpt": "Akai's latest MPC, MPC Sample and Force updates ship an official SDK so users can build custom synths and effects for standalone hardware, explicitly pitched as vibe-codable with AI coding assistants.",
+   "og_image": "https://cdn.mos.cms.futurecdn.net/yiHYKV3d9js2BZekG3W85e-1588-80.jpg"
   },
   {
-   "title": "Can Music Generation Models Tap Along? Evaluating Generative Approaches to Beat Tracking",
-   "url": "https://arxiv.org/abs/2611.14971",
-   "source": "arXiv",
+   "title": "'An affront to any songwriter': Nick Cave on AI song-generating platforms",
+   "url": "https://www.musicradar.com/artists/singers-songwriters/an-affront-to-any-songwriter-who-has-lived-and-struggled-in-this-world-and-earned-the-right-to-create-a-song-nick-cave-on-ai-song-generating-platforms",
+   "source": "MusicRadar",
    "category": "music",
-   "published_iso": "2026-11-11T03:32:03Z",
-   "excerpt": "Researchers add an audio-conditioning adapter to a pretrained MusicGen model so it generates percussion tracks synchronized to an input song, then extract beat positions from them.",
-   "og_image": null
+   "published_iso": "2026-11-11T12:49:47Z",
+   "excerpt": "Nick Cave calls AI song generators 'our final, most soul-destroying humiliation' and an affront to songwriters who earned the right to create a song.",
+   "og_image": "https://cdn.mos.cms.futurecdn.net/h3TxNdhfE3wxsokjXh4dZL-1508-80.jpg"
   },
   {
    "title": "Ex-bandmates Dr Dre and Ice Cube clash over the use of AI",
@@ -112,31 +166,22 @@
    "og_image": "https://cdn.mos.cms.futurecdn.net/wGw6K5umhtYbGoCiuuPRJZ-2000-80.jpg"
   },
   {
-   "title": "AI로 선율 입힌 셰익스피어詩…용호성 前차관, 첫 정규앨범 발표",
-   "url": "https://www.yna.co.kr/view/AKR20261110091700005",
-   "source": "연합뉴스",
+   "title": "Highlights, concerns, and trends from Game Sound Con 2026",
+   "url": "https://musictech.com/news/events/games-sound-con-2026/",
+   "source": "MusicTech",
    "category": "music",
-   "published_iso": "2026-11-10T12:17:50+09:00",
-   "excerpt": "AI를 활용한 음악을 선보여 온 용호성 전 문체부 차관이 예명 '닥터 드래곤'으로 셰익스피어 시에 AI로 선율을 입힌 첫 정규앨범을 냈다.",
-   "og_image": "https://img4.yna.co.kr/etc/inner/KR/2026/11/10/AKR20261110091700005_01_i_P4.jpg"
+   "published_iso": "2026-11-11T17:26:50+00:00",
+   "excerpt": "MusicTech's report from the game music and sound conference, where generative AI in game audio and scoring was a central concern and trend.",
+   "og_image": "https://musictech.com/wp-content/uploads/2026/11/gaming-headset-stock@2000x1500-1068x801.jpg"
   },
   {
-   "title": "Evaluating AI Musical Creativity: A Quantitative Multi-Dimensional Framework Based on Value, Novelty, and Surprise",
-   "url": "https://arxiv.org/abs/2611.14634",
-   "source": "arXiv",
+   "title": "Carmine Appice On Using AI To Create Cactus Music Videos",
+   "url": "https://hypebot.com/carmine-appice-on-a-legendary-career-ai-music-videos-more",
+   "source": "Hypebot",
    "category": "music",
-   "published_iso": "2026-11-10T19:00:06Z",
-   "excerpt": "A framework that operationalizes Boden's value, novelty and surprise to quantitatively evaluate the creativity of AI-generated music.",
-   "og_image": null
-  },
-  {
-   "title": "Backlash Already Rumbles Against Spotify's Upcoming Remix Tool",
-   "url": "https://www.digitalmusicnews.com/2026/11/09/spotify-remix-tool-backlash/",
-   "source": "Digital Music News",
-   "category": "music",
-   "published_iso": "2026-11-09T23:27:27+00:00",
-   "excerpt": "Spotify's upcoming AI remix tool is drawing criticism from listeners and artists questioning fairness to artists and the ethics of its AI training.",
-   "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/backlash-rumbles-against-upcoming-spotify-ai-remix-tool.png"
+   "published_iso": "2026-11-11T08:24:21.000Z",
+   "excerpt": "Rock drummer Carmine Appice explains how AI video is driving the music videos for Cactus's recent albums.",
+   "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/11/CA-pic-00.jpg"
   },
   {
    "title": "Logic Pro 13 gets touch right, but stumbles on \"intelligent assistant\"",
@@ -148,13 +193,13 @@
    "og_image": "https://cdm.link/app/uploads/2026/11/Apple-Creator-Studio-Logic-Pro-for-Mac-261027-scaled.jpg"
   },
   {
-   "title": "듀스, 31년 만에 정규 4집…故 김성재 목소리 AI로 구현",
-   "url": "https://www.yna.co.kr/view/AKR20261109129900005",
-   "source": "연합뉴스",
+   "title": "Evaluating AI Musical Creativity: A Quantitative Multi-Dimensional Framework Based on Value, Novelty, and Surprise",
+   "url": "https://arxiv.org/abs/2611.14634",
+   "source": "arXiv",
    "category": "music",
-   "published_iso": "2026-11-09T17:13:27+09:00",
-   "excerpt": "그룹 듀스가 21일 31년 만의 정규 4집을 내며, 故 김성재의 목소리를 AI로 구현해 '완전체' 앨범을 완성했다.",
-   "og_image": "https://img0.yna.co.kr/etc/inner/KR/2026/11/09/AKR20261109129900005_01_i_P4.jpg"
+   "published_iso": "2026-11-10T19:00:06Z",
+   "excerpt": "A framework that operationalizes Boden's value, novelty and surprise to quantitatively evaluate the creativity of AI-generated music.",
+   "og_image": null
   },
   {
    "title": "Music Inpainting With Similarity-Guided Latent Diffusion",
@@ -162,8 +207,17 @@
    "source": "arXiv",
    "category": "music",
    "published_iso": "2026-11-08T17:54:07Z",
-   "excerpt": "SimDPS retrieves contextually similar segments from a recording and uses them to guide a diffusion model to replace large missing or damaged sections of music audio; model-agnostic across waveform and latent diffusion.",
+   "excerpt": "SimDPS retrieves contextually similar segments from a recording and uses them to guide a diffusion model to replace large missing or damaged sections of music audio.",
    "og_image": null
+  },
+  {
+   "title": "AI로 선율 입힌 셰익스피어詩…용호성 前차관, 첫 정규앨범 발표",
+   "url": "https://www.yna.co.kr/view/AKR20261110091700005",
+   "source": "연합뉴스",
+   "category": "music",
+   "published_iso": "2026-11-10T12:17:50+09:00",
+   "excerpt": "AI를 활용한 음악을 선보여 온 용호성 전 문체부 차관이 예명 '닥터 드래곤'으로 셰익스피어 시에 AI로 선율을 입힌 첫 정규앨범을 냈다.",
+   "og_image": "https://img4.yna.co.kr/etc/inner/KR/2026/11/10/AKR20261110091700005_01_i_P4.jpg"
   }
  ]
 }

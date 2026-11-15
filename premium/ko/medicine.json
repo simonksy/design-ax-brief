@@ -4438,6 +4438,117 @@
           "x": "Uptunity Aneurysm은 Bracco가 Avicenna.AI와 함께 개발한 판독용 AI 소프트웨어 포트폴리오 Uptunity의 첫 제품이다. U.S. 내 홍보와 상업 유통은 Avicenna.AI가 맡는다."
         }
       ]
+    },
+    "medicine/monument-openevidence-block": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_305233727-1024x576.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "일부 병원은 규정 준수 위험이 있는 도구를 막고, 다른 병원은 직접 들여온다."
+        },
+        {
+          "t": "p",
+          "x": "South Dakota와 Wyoming에 거점을 둔 의료 시스템 Monument Health는 올해 초 인기 무료 인공지능 도구 OpenEvidence 접근을 막기로 했다. 최고정보책임자 Patrick Woodard에게는 반대 의견이 몇 건 들어왔다."
+        },
+        {
+          "t": "p",
+          "x": "헤비 유저인 한 의사도 그중 하나였다. 이 의사는 OpenEvidence에 환자 기록을 백 건 넘게 저장해 두고, 진료 결정에 참고하려고 AI 도구에 입력해 왔다. Woodard는 그만두라고 했다."
+        },
+        {
+          "t": "p",
+          "x": "OpenEvidence, Doximity Ask, ChatGPT for Clinicians처럼 임상의 질문에 답하도록 만든 무료 챗봇은 지난 한 해 사이 인기가 부쩍 높아졌다. 수십만 명의 의사가 쓰는데, HIPAA 준수를 내세운 점도 한몫했다. 사용자는 계약서에 서명하면 환자의 보호 대상 건강 정보를 AI와 곧바로 공유할 수 있다. (기사의 나머지는 STAT+ 유료 영역이다.)"
+        }
+      ]
+    },
+    "medicine/neardoc-ai-charting-clinics": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044563_3048547_938.png",
+          "cap": "스튜디오키코 '니어닥'의 이창민 최고의료책임자(CMO)가 최근 청년의사와 만나 인터뷰를 하고 있다(ⓒ청년의사)."
+        },
+        {
+          "t": "p",
+          "x": "\"환자와의 대화량이 가장 많은 정신건강의학과, 소아 환자와 보호자를 동시에 대해야 하는 소아청소년과에서 특히 호평이 많았죠.\" 니어닥은 AI 기반 전자의무기록(EMR) 작성 보조 서비스로, 의사와 환자의 대화를 실시간으로 이해하며 증상, 진찰 소견, 진단과 치료 계획(SOAP)을 정리해 준다. 사용자의 차팅 스타일이 반영되는 '개인화 차팅'이 강점이다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044563_3048548_2030.png",
+          "cap": "니어닥 활용 예시. 의료진과 환자간의 대화가 기록돼 있다(자료 제공: 이창민 CMO)."
+        },
+        {
+          "t": "p",
+          "x": "정형외과 전문의인 이 CMO는 \"전공의 시절 항상 병동에 앉아 1~2시간씩 밀린 의무기록을 정리했다\"며 개발 참여 계기를 설명했다. 스튜디오키코에 따르면 니어닥을 사용한 의사 120명 중 98%가 차팅에 만족했고, 무료 체험에서 유료로 전환한 비율은 70%에 달했다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044563_3048549_2124.png",
+          "cap": "니어닥 활용 예시. 의료진과 환자간의 대화를 바탕으로 SOAP가 정리돼 있다(자료 제공: 이창민 CMO)."
+        },
+        {
+          "t": "p",
+          "x": "니어닥 사용 의료진(120명)의 EMR 작성 시간은 도입 전 평균 3분 48초에서 도입 후 평균 약 1분 8초로 약 70% 단축됐다. 환자 100명 대상 조사에서 진료 만족도는 약 28%p 상승했다. 출시 5개월 만에 도입 의료기관 500곳을 돌파했고 누적 진료 건수는 약 80만건이다."
+        },
+        {
+          "t": "p",
+          "x": "원본 음성은 텍스트로 변환한 즉시 파기되며, 평소 작성하던 차트 데이터를 입력하면 니어닥이 차팅 스타일을 분석해 학습한다. 스튜디오키코는 연내 국공립병원 등과 개념검증(PoC)을 거쳐 엔터프라이즈 모듈을 선보일 계획이다."
+        }
+      ]
+    },
+    "medicine/quibim-qp-prostate-microsoft": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Quibim은 Microsoft의 Precision Imaging Network로 북미 의료기관에 QP-Prostate 소프트웨어를 공급한다. Precision Imaging Network는 서드파티 영상 AI 애플리케이션을 쓸 수 있게 해 주는 플랫폼이다."
+        },
+        {
+          "t": "p",
+          "x": "업체 설명으로는 QP-Prostate가 바이파라메트릭(bi-parametric) 전립선 MRI에서 의심 병변을 자동으로 찾아내 원본 영상 위에 오버레이로 표시한다. U.S. 식품의약국(FDA) 허가를 받았고, Health Canada에서 class III 의료기기 면허도 받았다."
+        },
+        {
+          "t": "p",
+          "x": "회사 측은 Precision Imaging Network가 기존 영상 공유 인프라를 그대로 활용해 기관이 고른 애플리케이션으로 영상 검사를 보낸다고 설명했다. Quibim은 지원되는 구성이라면 QP-Prostate 결과가 Microsoft의 판독 보고 소프트웨어 PowerScribe로 넘어가고, 영상의학과 전문의가 보고서를 확정하기 전에 검토해 반영할 수 있다고 밝혔다."
+        }
+      ]
+    },
+    "medicine/oral-pigmentation-ai-screening-gap": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "MeMoSA 같은 AI-assisted(AI 보조) 구강암 검진 도구는 거의 아시아인 집단에서만 검증됐다. 연구진은 검증 가능한 가설 하나를 내놓았다. 인종마다 다르지만 병리와는 무관한 생리적 구강 색소 침착 탓에 분류기가 정상 변이를 의심 소견으로 잘못 분류하거나, 색소에 가려진 병변을 놓칠 수 있다는 것이다. 연구진은 맥박산소측정기와 피부과 AI의 전례를 들며, 미국처럼 인종 구성이 다양한 곳에 들이기 전에 색소 침착 정도별 검증부터 거쳐야 한다고 촉구했다."
+        },
+        {
+          "t": "p",
+          "x": "Khanna, D., Grover, A. Beyond skin deep: physiologic oral pigmentation as an overlooked validation gap in AI-assisted oral cancer screening. npj Digit. Med. (2026). 가속 공개(Accelerated article preview) 논문이라 현재는 초록만 나와 있다."
+        }
+      ]
+    },
+    "medicine/biolojic-bd200-adc-ind": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/0vv8moc6/biopharn/29f1e6f63b2a5a331dd153d454f6879a0aa8733b-1280x720.jpg?w=1200&fit=max&q=75&fm=jpg"
+        },
+        {
+          "t": "p",
+          "x": "FDA가 Biolojic Design의 BD200 임상시험계획(Investigational New Drug, IND)을 승인했다. BD200은 Trop2와 Nectin-4를 표적으로 하는 AI-designed 이중특이성 항체-약물 접합체(ADC)다. 회사는 임상시험에 들어가는 첫 “multibody(멀티바디)”라고 소개한다. 승인에 따라 Biolojic은 두 항원을 모두 발현하는 일부 고형암 환자를 대상으로 글로벌 phase 1 연구에 착수할 수 있게 됐다. CEO Yanay Ofran은 몇 주 안에 연구를 시작할 것으로 내다봤다."
+        },
+        {
+          "t": "p",
+          "x": "BD200의 각 팔은 Nectin-4나 Trop2에 붙는다. 두 팔이 모두 Nectin-4에 붙을 수도, 모두 Trop2에 붙을 수도, 하나씩 나눠 붙을 수도 있다. 환자 종양 세포가 어떤 항원 조합을 발현하느냐에 따라 약물의 결합 방식이 달라지도록 설계했다. 페이로드는 토포이소머라제 억제제로, 회사가 독자 기술이라고 밝힌 링커로 붙였다."
+        },
+        {
+          "t": "p",
+          "x": "Biolojic은 인공지능과 계산 설계로 항체를 신약 후보로 만든다. 같은 플랫폼에서 나온 imneskibart(옛 이름 AU-007)는 회사 설명으로는 임상에 들어간 첫 AI-designed 항체이고, 지금은 Phase 2 시험 중이다."
+        },
+        {
+          "t": "p",
+          "x": "회사에 따르면 BD200은 전임상 연구에서 종양 세포마다 제각각인 항원 발현에 맞춰 특이성을 조절했다. 표준 단일특이성 ADCs나 템플릿 이중특이성 ADC보다 효능이 높았고 내성도 더 잘 극복했다. phase 1 연구에서는 안전성, 내약성, 약동학, 초기 효능을 평가한다."
+        }
+      ]
     }
   }
 }

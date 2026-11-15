@@ -1,166 +1,27 @@
 {
   "section": "design",
-  "now_iso": "2026-11-14T22:00:43Z",
+  "now_iso": "2026-11-15T22:00:36Z",
   "window_hours": 72,
   "items": [
     {
-      "title": "How 3D Transforms and Figma's Agent Brought a Launch Video to Life",
-      "url": "https://www.figma.com/blog/how-3d-transforms-and-figmas-agent-brought-a-launch-video-to-life/",
-      "source": "Figma",
-      "category": "figma",
-      "published_iso": "2026-11-12T14:00:00Z",
-      "excerpt": "Figma's new 3D transforms (open beta for Full seats, Nov 12) let designers tilt, rotate and arrange text, images, vectors and frames in space non-destructively; the Brand Studio team used the Figma agent to repeat type along the Z axis, build type-covered geometry and generate a grid/helix/ring layout plugin for the launch video.",
-      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/53964310f42e5cb65e0c17606f8ec8aa96448a7e-960x540.png?w=1200&q=70&fit=max&auto=format",
-      "history_match": {
-        "score": 0.158,
-        "date": "2026-11-06",
-        "url": "https://www.youtube.com/shorts/Vfh8hAEs7yk",
-        "title": "Edit and generate vectors with the Figma agent",
-        "band": "related"
-      }
-    },
-    {
-      "title": "AI's Role in the Creative Process",
-      "url": "https://www.figma.com/blog/ai-role-in-the-creative-process/",
-      "source": "Figma",
-      "category": "figma",
-      "published_iso": "2026-11-13T20:00:00Z",
-      "excerpt": "Figma Weave co-founder and CCO Itay Schiff argues creatives should decide which steps to hand to AI and which thinking-driven steps to protect, drawing on a Weave campaign that took many iterations before AI output was usable. Opinion piece, no data.",
-      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/4791f6c2acbf0d3121abf8a8f3e7aa3c6b7c4ae9-3264x1836.png?w=1200&q=70&fit=max&auto=format",
-      "history_match": {
-        "score": 0.268,
-        "date": "2026-11-03",
-        "url": "https://www.figma.com/blog/the-tldr-on-figma-weave/",
-        "title": "The TL;DR on Figma Weave: Make your creative process repeatable",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Access the Webflow MCP in Microsoft Copilot",
-      "url": "https://webflow.com/updates/microsoft-copilot",
-      "source": "Webflow",
-      "category": "figma",
-      "published_iso": "2026-11-12T00:00:00Z",
-      "excerpt": "Webflow is now available inside Microsoft Copilot via its MCP server: build, update and optimize Webflow sites with natural-language prompts and built-in Skills; free to install and not using Webflow AI credits. (Off-list domain: no on-list outlet covered it.)",
-      "og_image": "https://cdn.prod.website-files.com/687e8d1b96312cc631cafec7/6af5d042dba60a894bf2a8d3_Microsoft%20Copilot.png",
-      "history_match": {
-        "score": 0.183,
-        "date": "2026-10-22",
-        "url": "https://www.windowslatest.com/2026/10/20/even-designers-are-now-using-ai-to-code-windows-11-and-microsoft-says-were-only-getting-started/",
-        "title": "Even designers are now using AI to code Windows 11, and Microsoft says \"we're only getting started\"",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Vercel's UI SDK Hands Agents Behaviors, Not Components",
-      "url": "https://dev.to/dishant0406/vercels-ui-sdk-hands-agents-behaviors-not-components-25n0",
-      "source": "DEV Community",
-      "category": "figma",
-      "published_iso": "2026-11-14T13:38:33Z",
-      "excerpt": "Vercel Labs' UI SDK (built by shadcn, Apache-2.0, beta; @ui-sdk 0.1.0-beta.2 released Nov 13) ships 50+ accessible behaviors (createPopup, createSelection, createTypeahead) that coding agents compose into components across React, Vue, Svelte, Solid and Web Components. Secondary analysis; vendor primary source not found.",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Ffiles.catbox.moe%2Fnh6k1a.webp",
-      "history_match": {
-        "score": 0.273,
-        "date": "2026-11-08",
-        "url": "https://vercel.com/changelog/json-render-and-chat-sdk-agents",
-        "title": "Chat SDK agents can now stream generative UI with json-render",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Make the agent cite the design-system component it reused, or admit it forked one",
-      "url": "https://dev.to/sherotree/make-the-agent-cite-the-design-system-component-it-reused-or-admit-it-forked-one-mpe",
-      "source": "DEV Community",
-      "category": "tokens",
-      "published_iso": "2026-11-12T14:30:12Z",
-      "excerpt": "Proposes a review rule for AI-generated UI pull requests: the agent must name the design-system component it reused or declare a fork, so reviewers are not left hunting lookalike Buttons in the diff. Practitioner opinion.",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2nnwom9i8b8kyiabjj5l.png",
-      "history_match": {
-        "score": 0.151,
-        "date": "2026-11-12",
-        "url": "https://uxdesign.cc/ai-prototyping-inside-your-design-system-a-hands-on-guide-for-design-product-teams-44825904c08d",
-        "title": "AI prototyping inside your design system: a hands-on guide for design & product teams",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Why are we cloning Photoshop?",
-      "url": "https://uxdesign.cc/why-are-we-cloning-photoshop-52e6e165eef7",
-      "source": "UX Collective",
-      "category": "tokens",
-      "published_iso": "2026-11-11T22:20:42Z",
-      "excerpt": "AI makes it easy to recreate professional tools, as October's open-source AI-built Photoshop clone PhotoCraft showed; the author argues the bigger opportunity is new interaction models rather than cloning legacy creative software.",
-      "og_image": "https://cdn-images-1.medium.com/max/1024/1*Xh48AEBSG8maSKJqeuFfvQ.png",
-      "history_match": {
-        "score": 0.165,
-        "date": "2026-11-02",
-        "url": "https://the-decoder.com/adobe-is-testing-how-well-ai-agents-can-use-editing-tools-like-a-photoshop-professional-would/",
-        "title": "Adobe is testing how well AI agents can use editing tools like a Photoshop professional would",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Every click has a price now. Who designs how that “feels”?",
-      "url": "https://uxdesign.cc/every-click-has-a-price-now-who-designs-how-that-feels-e3f00b6cabb8",
-      "source": "UX Collective",
-      "category": "workflow",
-      "published_iso": "2026-11-11T22:15:19Z",
-      "excerpt": "As the all-you-can-eat AI era ends and products meter model usage, UX designers must design how credits, costs and pricing feel inside AI features.",
-      "og_image": "https://cdn-images-1.medium.com/max/1024/1*9uqAutsVFqEDaAeZlf7T9w.png"
-    },
-    {
-      "title": "The AI mind tax that afflicts those who use AI best",
-      "url": "https://uxdesign.cc/the-ai-mind-tax-that-afflicts-those-who-use-ai-best-3eb67ff167d0",
-      "source": "UX Collective",
-      "category": "workflow",
-      "published_iso": "2026-11-12T11:14:40Z",
-      "excerpt": "Heavy AI users juggle a dozen disconnected tools with themselves as the only integration layer; the essay examines how AI turned into a different kind of work and exhaustion, and what that means for designing AI workflows.",
-      "og_image": "https://cdn-images-1.medium.com/max/1024/1*mpKLeeSQBl3g1GK2Hb3P3w.jpeg"
-    },
-    {
-      "title": "Research-In-The-Loop: How UXR Adapts to Development at AI Speed",
-      "url": "https://www.nngroup.com/articles/research-in-the-loop/",
-      "source": "Nielsen Norman Group",
-      "category": "workflow",
-      "published_iso": "2026-11-13T18:00:00Z",
-      "excerpt": "As AI speeds up development, NN/g lays out how UX research can keep pace by defining what each release must measure and what it can help teams discover.",
-      "og_image": "https://media.nngroup.com/media/articles/opengraph_images/Research-In-The-Loop__How_UXR_Adapts__to_Development_at__AI_Speed.png",
-      "history_match": {
-        "score": 0.199,
-        "date": "2026-11-02",
-        "url": "https://www.nngroup.com/articles/ux-agentic-software-factories/",
-        "title": "The Role of UX in Agentic Software Factories",
-        "band": "related"
-      }
-    },
-    {
-      "title": "A smart organizer for your Luma canvas",
-      "url": "https://lumalabs.ai/news/ai-board-manager",
-      "source": "Luma AI",
+      "title": "Anthropic's Claude Fable 5.2 doesn't generate images, it paints them",
+      "url": "https://the-decoder.com/anthropics-claude-fable-5-2-doesnt-generate-images-it-paints-them/",
+      "source": "The Decoder",
       "category": "render",
-      "published_iso": "2026-11-14T00:49:00Z",
-      "excerpt": "The Luma agent can now organize a board, frame or selection of up to 10,000 assets, grouping and labeling work by product, concept, campaign or channel by reading what each asset is (reference vs generated variation, lineage to the brief); changes need approval and can be reversed.",
-      "og_image": "https://static.cdn-luma.com/files/sanity/80e8495c-1963-42bb-a5b2-a540f9baea19.jpg"
-    },
-    {
-      "title": "Closing the Gap Between Policy and Practice",
-      "url": "https://runwayml.com/news/safety/closing-the-gap",
-      "source": "Runway",
-      "category": "render",
-      "published_iso": "2026-11-12T18:50:00Z",
-      "excerpt": "Runway relaxed its generative-video moderation to allow sword fights, shootouts and horror while still blocking real harm, and explains where limits remain and how creators can flag mistaken blocks. Possible cross-section overlap with movies.",
-      "og_image": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/closing-the-gap-between-policy-and-practice-1600x1067-fc002504-f4d6-44f4-a6d7-941a5b751aed.png"
+      "published_iso": "2026-11-15T15:42:03+00:00",
+      "excerpt": "Instead of computing pixels, Claude Fable 5.2 writes Python code that places hundreds of thousands of simulated brushstrokes on a virtual canvas, complete with bristle texture and paint application — a code-driven painting pipeline rather than a diffusion image model.",
+      "og_image": "https://the-decoder.com/wp-content/uploads/2026/11/claude_fable_5.2_painting.png"
     },
     {
       "title": "Runway's open-source Praxis-1 turns video AI into a robot controller",
       "url": "https://the-decoder.com/runways-open-source-praxis-1-turns-video-ai-into-a-robot-controller/",
       "source": "The Decoder",
       "category": "render",
-      "published_iso": "2026-11-14T09:45:45Z",
-      "excerpt": "Runway released its robotics world action model Praxis-1 with open weights and code under Apache 2.0, reusing video-pretraining knowledge for robot control. Physical-AI frontier item; weak direct design hook.",
+      "published_iso": "2026-11-14T09:45:45+00:00",
+      "excerpt": "Runway released its robotics model Praxis-1 with open weights and code under Apache 2.0; it reuses knowledge from video-generation training for robot control and leads the World Action Model category on Nvidia's RoboLab-120 benchmark. Check movies-section overlap (Runway).",
       "og_image": "https://the-decoder.com/wp-content/uploads/2026/11/Runway-Praxis-1.jpg",
       "history_match": {
-        "score": 0.165,
+        "score": 0.204,
         "date": "2026-11-03",
         "url": "https://runway.com/news/developers/runway-dev-plugins-for-coding-agents",
         "title": "Runway Dev is in Claude Code, Codex and Cursor",
@@ -168,34 +29,50 @@
       }
     },
     {
-      "title": "How to Make AI Videos Directly in ChatGPT (Full Guide)",
-      "url": "https://higgsfield.ai/blog/generate-ai-videos-chatgpt-2026",
-      "source": "Higgsfield",
+      "title": "Adobe Firefly was supposed to be the safe AI option – so what's changed?",
+      "url": "https://www.creativebloq.com/news/i-trusted-adobe-firefly-because-it-was-the-safe-ai-option-now-im-not-so-sure",
+      "source": "Creative Bloq",
       "category": "workflow",
-      "published_iso": "2026-11-12T21:33:00Z",
-      "excerpt": "Vendor guide to generating video inside ChatGPT by connecting plugins such as Higgsfield, Runway or HeyGen: prompting, checking cost and refining results. Vendor content; low priority.",
-      "og_image": "https://higgsfield.ai/cdn-cgi/image/fit=scale-down,format=jpeg,onerror=redirect,width=1200,quality=85/https://cdn.sanity.io/images/s479xw3z/production/a92fa8862a57db213f1061c78be3ea82f2ff1e1e-2720x1530.png",
+      "published_iso": "2026-11-15T14:00:00+00:00",
+      "excerpt": "A designer who chose Firefly for its licensed training data questions whether that commercial-safety promise still holds now that Adobe is inviting rival third-party AI models into its apps after MAX 2026.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/uUbpTvaqSDLvaVs2dTRkZJ-1920-80.jpg",
       "history_match": {
-        "score": 0.21,
-        "date": "2026-11-05",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
-        "title": "ChatGPT will now make you animated GIFs",
+        "score": 0.191,
+        "date": "2026-11-09",
+        "url": "https://www.youtube.com/watch?v=dGEv6re6uYI",
+        "title": "Tell Your Story with Seedance 2.5 | Adobe Firefly",
         "band": "related"
       }
     },
     {
-      "title": "Anthropic's Claude for Manufacturing plugs AI directly into factory software to automate industrial workflows",
-      "url": "https://the-decoder.com/anthropics-claude-for-manufacturing-plugs-ai-directly-into-factory-software-to-automate-industrial-workflows/",
-      "source": "The Decoder",
-      "category": "cad",
-      "published_iso": "2026-11-13T16:37:01Z",
-      "excerpt": "Anthropic's new Claude for Manufacturing plugin connects Claude directly to Autodesk Fusion, Oracle NetSuite and Infor, with 17 specialized skills to draft quotes, compare suppliers and place orders.",
-      "og_image": "https://the-decoder.com/wp-content/uploads/2026/11/claude_for_manufactoring.png",
+      "title": "AI's Role in the Creative Process",
+      "url": "https://www.figma.com/blog/ai-role-in-the-creative-process/",
+      "source": "Figma Blog",
+      "category": "figma",
+      "published_iso": "2026-11-13T20:00:00+00:00",
+      "excerpt": "Figma examines which parts of the creative process designers are willing to hand to AI and which they insist on keeping for themselves.",
+      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/4791f6c2acbf0d3121abf8a8f3e7aa3c6b7c4ae9-3264x1836.png?w=1200&q=70&fit=max&auto=format",
       "history_match": {
-        "score": 0.175,
-        "date": "2026-10-22",
-        "url": "https://blogs.nvidia.com/blog/europe-industrial-leaders-engineering-manufacturing/",
-        "title": "Europe's Industrial Leaders Reinvent Engineering and Manufacturing With NVIDIA",
+        "score": 0.267,
+        "date": "2026-11-03",
+        "url": "https://www.figma.com/blog/the-tldr-on-figma-weave/",
+        "title": "The TL;DR on Figma Weave: Make your creative process repeatable",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Decision theatre or decision design?",
+      "url": "https://uxdesign.cc/decision-theatre-or-decision-design-f1604f178685",
+      "source": "UX Collective",
+      "category": "workflow",
+      "published_iso": "2026-11-13T18:51:01+00:00",
+      "excerpt": "AI has made information easy but not decisions simple; as machines produce more than teams can read, the designer's job shifts from building knowledge to owning and designing decisions. (Opinion essay.)",
+      "og_image": null,
+      "history_match": {
+        "score": 0.229,
+        "date": "2026-10-24",
+        "url": "https://uxdesign.cc/buy-versus-build-is-now-also-a-ux-decision-especially-in-enterprise-6b4345715c63",
+        "title": "Buy vs. build is now also a UX decision, especially in enterprise",
         "band": "related"
       }
     },
@@ -204,11 +81,11 @@
       "url": "https://www.engineering.com/simscale-launches-engineering-ai-blueprint/",
       "source": "Engineering.com",
       "category": "cad",
-      "published_iso": "2026-11-13T08:39:51Z",
-      "excerpt": "SimScale's Engineering AI Blueprint bundles NVIDIA tools with a framework for moving simulation-driven engineering AI from pilots to broader deployment.",
+      "published_iso": "2026-11-13T08:39:51+00:00",
+      "excerpt": "SimScale's Engineering AI Blueprint bundles NVIDIA tools and a framework for moving AI-driven simulation and design-engineering workflows from pilots to broader deployment.",
       "og_image": "https://www.engineering.com/wp-content/uploads/2026/11/V-model-graphic.jpg",
       "history_match": {
-        "score": 0.154,
+        "score": 0.175,
         "date": "2026-11-02",
         "url": "https://www.engineering.com/allplan-max-2027-launched-for-engineering-workflows/",
         "title": "Allplan Max 2027 launched for engineering workflows",
@@ -220,57 +97,178 @@
       "url": "https://aecmag.com/cafm/ai-makes-scanned-buildings-searchable/",
       "source": "AEC Magazine",
       "category": "cad",
-      "published_iso": "2026-11-13T11:17:46Z",
-      "excerpt": "qentin uses AI to let facility managers search scanned buildings and digital twins to find assets, check safety features and explore spaces.",
+      "published_iso": "2026-11-13T11:17:46+00:00",
+      "excerpt": "qentin uses AI to make reality-captured buildings searchable, letting facility managers find assets, check safety features and explore digital twins by query.",
       "og_image": "https://aecmag.com/wp-content/uploads/2026/11/qentin.jpg"
     },
     {
-      "title": "Designing for privacy on intelligent eyewear",
-      "url": "https://blog.google/innovation-and-ai/technology/safety-security/intelligent-eyewear-privacy-protections/",
-      "source": "Google",
-      "category": "vr",
-      "published_iso": "2026-11-12T14:00:00Z",
-      "excerpt": "Google details the privacy design of its Gemini intelligent eyewear: outward LEDs during capture with tamper-blocking sensors, faces blurred before images reach Gemini, directional mics, camera visuals excluded from history/training, and a physical power switch. Possible overlap with gadgets.",
-      "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Banner_bnCZOSz.width-1300.png"
+      "title": "Adapt Human Motion for Robots with NVIDIA SOMA Retargeter",
+      "url": "https://developer.nvidia.com/blog/adapt-human-motion-for-robots-with-nvidia-soma-retargeter/",
+      "source": "NVIDIA Technical Blog",
+      "category": "render",
+      "published_iso": "2026-11-13T17:00:00+00:00",
+      "excerpt": "NVIDIA's SOMA Retargeter maps captured human motion onto humanoid robot bodies, using human demonstrations as a starting point for teaching natural robot movement (physical AI / motion pipeline).",
+      "og_image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/SOMA_Retargeter_Featured_600x338-500x282.gif",
+      "history_match": {
+        "score": 0.167,
+        "date": "2026-10-28",
+        "url": "https://www.youtube.com/watch?v=BS-N-AM5ql4",
+        "title": "Explore Shaders and Motion with the Figma agent | Figma on Figma",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+      "source": "Hugging Face (NVIDIA)",
+      "category": "workflow",
+      "published_iso": "2026-11-13T18:00:39+00:00",
+      "excerpt": "NVIDIA walks through using SimReady 3D assets to build a robot pick-and-place simulation, connecting physically accurate 3D asset authoring to physical-AI training.",
+      "og_image": "https://cdn-uploads.huggingface.co/production/uploads/6abfe9e7d7cf09a9b38ef308/HFZWtQ2i9VN_agjeUw2HB.gif"
+    },
+    {
+      "title": "Designing screens with AI expert roles: what each one caught",
+      "url": "https://dev.to/anton_shubin_f26b3cb5a572/designing-screens-with-ai-expert-roles-what-each-one-caught-1f7l",
+      "source": "DEV Community",
+      "category": "figma",
+      "published_iso": "2026-11-15T13:25:35+00:00",
+      "excerpt": "A developer whose AI agents write most of his code describes assigning AI 'expert roles' (UX, visual, accessibility) to review screens so they don't look like default templates, and what each role caught.",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fantonshubin.com%2Fimg%2Fblog%2Fdesigning-screens-with-ai-expert-roles%2Fcover.png",
+      "history_match": {
+        "score": 0.167,
+        "date": "2026-10-19",
+        "url": "https://dev.to/chloe_chen/enforcing-accessibility-gates-in-component-libraries-plugin87ux-ui-agent-skills-review-4p0i",
+        "title": "Enforcing Accessibility Gates in Component Libraries: plugin87/ux-ui-agent-skills Review",
+        "band": "related"
+      }
+    },
+    {
+      "title": "AI Concept Renders Are Not Technical Drawings: A Practical Quality-Control Workflow",
+      "url": "https://dev.to/alexis_markarian_d5d36ed8/ai-concept-renders-are-not-technical-drawings-a-practical-quality-control-workflow-d39",
+      "source": "DEV Community",
+      "category": "cad",
+      "published_iso": "2026-11-15T14:12:03+00:00",
+      "excerpt": "A QC workflow for checking AI-generated architectural concept renders before they are mistaken for technical drawings. Author discloses he develops an AI visualization tool (Estate Render) — treat as semi-promotional.",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcbd40afcwstam13g191f.png"
+    },
+    {
+      "title": "Claude gets creative: a skill for brainstorming in rounds",
+      "url": "https://dev.to/atomijd/claude-gets-creative-a-skill-for-brainstorming-in-rounds-2km6",
+      "source": "DEV Community",
+      "category": "workflow",
+      "published_iso": "2026-11-15T15:08:38+00:00",
+      "excerpt": "A Claude Code skill that runs a three-round creativity/ideation session with a human verdict after each round.",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5t7eughlq2mdff6hsnb2.png",
+      "history_match": {
+        "score": 0.182,
+        "date": "2026-10-22",
+        "url": "https://dev.to/haoli/i-built-a-claude-code-skill-that-de-slops-ai-generated-web-design-42kn",
+        "title": "I built a Claude Code skill that de-slops AI-generated web design",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Config India 2026: Figma Weave: What we keep in creative work and what we refuse to automate",
+      "url": "https://www.youtube.com/watch?v=znW1i7AQdPI",
+      "source": "Figma (YouTube)",
+      "category": "social",
+      "published_iso": "2026-11-14T15:38:42+00:00",
+      "excerpt": "Using Figma Weave as the example, this Config India session argues that deciding what not to automate with AI may be one of the most important creative choices teams make; taste and judgement over execution.",
+      "og_image": "https://i.ytimg.com/vi/znW1i7AQdPI/maxresdefault.jpg",
+      "history_match": {
+        "score": 0.282,
+        "date": "2026-11-03",
+        "url": "https://www.figma.com/blog/the-tldr-on-figma-weave/",
+        "title": "The TL;DR on Figma Weave: Make your creative process repeatable",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Config India 2026: Figma deep dive: Nothing lost in translation, from canvas to production",
+      "url": "https://www.youtube.com/watch?v=87SISSxj6R4",
+      "source": "Figma (YouTube)",
+      "category": "social",
+      "published_iso": "2026-11-15T18:36:14+00:00",
+      "excerpt": "Deep dive on closing the prototype-to-production gap with design-system context, advanced MCP techniques, code layers and specs in Figma.",
+      "og_image": "https://i.ytimg.com/vi/87SISSxj6R4/maxresdefault.jpg",
+      "history_match": {
+        "score": 0.168,
+        "date": "2026-10-18",
+        "url": "https://www.figma.com/blog/build-by-design/",
+        "title": "Build by Design: New workflows for new ways of building",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Config India 2026: Better together: from handoff to handshake",
+      "url": "https://www.youtube.com/watch?v=boZ85l-ShJM",
+      "source": "Figma (YouTube)",
+      "category": "social",
+      "published_iso": "2026-11-13T18:19:33+00:00",
+      "excerpt": "Atlassian shows how one team reworked its design-to-build path now that AI lets PMs prototype and engineers ship from a prompt, using real Figma artefacts and AI tooling to keep day-one intent through launch.",
+      "og_image": "https://i.ytimg.com/vi/boZ85l-ShJM/maxresdefault.jpg",
+      "history_match": {
+        "score": 0.191,
+        "date": "2026-11-12",
+        "url": "https://www.youtube.com/watch?v=3EbdkzGwL7c",
+        "title": "Config India 2026: What changed when designers started shipping code",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Claude's New Whiteboards, Sheets & Data: What You Can Do Now.",
+      "url": "https://www.youtube.com/watch?v=SDipcfxxa8s",
+      "source": "The AI Advantage (YouTube)",
+      "category": "social",
+      "published_iso": "2026-11-13T23:57:34+00:00",
+      "excerpt": "Hands-on walkthrough of Claude's new Whiteboards, Sheets and Data features and which are actually useful in practice.",
+      "og_image": "https://i.ytimg.com/vi/SDipcfxxa8s/maxresdefault.jpg"
+    },
+    {
+      "title": "AI News: Things Will Never Be The Same",
+      "url": "https://www.youtube.com/watch?v=G_Jrexy_5Bg",
+      "source": "Matt Wolfe (YouTube)",
+      "category": "social",
+      "published_iso": "2026-11-13T17:21:49+00:00",
+      "excerpt": "Weekly AI roundup: Claude Fable 5.2, Gemini 4 Carbon availability, new Adobe MAX AI features, Claude updates and more (general roundup; design hook is the Adobe/Claude segments).",
+      "og_image": "https://i.ytimg.com/vi/G_Jrexy_5Bg/maxresdefault.jpg",
+      "history_match": {
+        "score": 0.15,
+        "date": "2026-11-09",
+        "url": "https://www.youtube.com/watch?v=dGEv6re6uYI",
+        "title": "Tell Your Story with Seedance 2.5 | Adobe Firefly",
+        "band": "related"
+      }
+    },
+    {
+      "title": "I Turned a Website's Hero Image Into a Scroll Video With Claude Code + Higgsfield MCP",
+      "url": "https://www.youtube.com/watch?v=jgnYGCpShSQ",
+      "source": "Kosta Motresku (YouTube)",
+      "category": "social",
+      "published_iso": "2026-11-15T14:12:25+00:00",
+      "excerpt": "Tutorial connecting the Higgsfield MCP server to Claude Code to turn a website template's static hero image into a scroll-driven AI video with a few prompts. Description carries a Higgsfield affiliate link.",
+      "og_image": "https://i.ytimg.com/vi/jgnYGCpShSQ/maxresdefault.jpg",
+      "history_match": {
+        "score": 0.19,
+        "date": "2026-11-10",
+        "url": "https://wccftech.com/higgsfield-miracle-promises-real-time-ai-video-editing-turning-any-clip-into-editable-layers/",
+        "title": "Higgsfield Miracle promises real-time AI video editing, turning any clip into editable layers",
+        "band": "related"
+      }
     }
   ],
   "dedup": {
     "dropped": 0,
-    "kept": 17,
+    "kept": 18,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
     "dropped": [],
-    "review": 11,
+    "review": 13,
     "same_story_pairs": []
   },
   "history_digest": [
-    {
-      "date": "2026-10-16",
-      "title": "Welcome FLUX.3 Image Klein in Diffusers",
-      "url": "https://huggingface.co/blog/flux-3"
-    },
-    {
-      "date": "2026-10-16",
-      "title": "The AI you already use, now powering the apps you create",
-      "url": "https://lovable.dev/blog/ai-models-and-tools-in-lovable"
-    },
-    {
-      "date": "2026-10-16",
-      "title": "Hesai launches 3D data engine for physical AI",
-      "url": "https://www.engineering.com/hesai-launches-3d-data-engine-for-physical-ai/"
-    },
-    {
-      "date": "2026-10-16",
-      "title": "Introducing Specs: Markdown as a medium",
-      "url": "https://www.figma.com/blog/introducing-figma-specs/"
-    },
-    {
-      "date": "2026-10-16",
-      "title": "Bluesky's AI tool now lets you make games and apps to share on social",
-      "url": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps"
-    },
     {
       "date": "2026-10-17",
       "title": "Cloud Agent Canvases and Environment Improvements",
@@ -940,6 +938,31 @@
       "date": "2026-11-14",
       "title": "Meet your new AI Agent, plus personal cloud storage, enterprise SSO and easier variations in KeyShot Studio 2026.3",
       "url": "https://www.keyshot.com/blog/keyshot-introduces-single-sign-on-ai-agent-and-more/"
+    },
+    {
+      "date": "2026-11-15",
+      "title": "Vercel's UI SDK Hands Agents Behaviors, Not Components",
+      "url": "https://dev.to/dishant0406/vercels-ui-sdk-hands-agents-behaviors-not-components-25n0"
+    },
+    {
+      "date": "2026-11-15",
+      "title": "A smart organizer for your Luma canvas",
+      "url": "https://lumalabs.ai/news/ai-board-manager"
+    },
+    {
+      "date": "2026-11-15",
+      "title": "Anthropic's Claude for Manufacturing plugs AI directly into factory software to automate industrial workflows",
+      "url": "https://the-decoder.com/anthropics-claude-for-manufacturing-plugs-ai-directly-into-factory-software-to-automate-industrial-workflows/"
+    },
+    {
+      "date": "2026-11-15",
+      "title": "How 3D Transforms and Figma's Agent Brought a Launch Video to Life",
+      "url": "https://www.figma.com/blog/how-3d-transforms-and-figmas-agent-brought-a-launch-video-to-life/"
+    },
+    {
+      "date": "2026-11-15",
+      "title": "Research-In-The-Loop: How UXR Adapts to Development at AI Speed",
+      "url": "https://www.nngroup.com/articles/research-in-the-loop/"
     }
   ]
 }

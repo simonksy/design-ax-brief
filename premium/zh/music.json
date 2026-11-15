@@ -10299,6 +10299,101 @@
           "x": "Suno Bridge（测试版）包含在所有Premier订阅中。目前适用于Mac上的Ableton Live 12。"
         }
       ]
+    },
+    "music/cerati-me-quedo-aqui-remaster": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://consequence.net/wp-content/uploads/2026/11/Gustavo-Cerati-Me-Quedo-Aqui-Remastered-Video-Frame.jpg",
+          "cap": "Gustavo Cerati《Me Quedo Aquí》重制版视频（via Instagram）"
+        },
+        {
+          "t": "p",
+          "x": "Gustavo Cerati 的子女 Lisa 和 Benito 批评了这位已故阿根廷摇滚偶像《Me Quedo Aquí》音乐视频的新版本。该视频为纪念他2006年专辑 Ahí Vamos 发行20周年而推出。部分粉丝怀疑有人用人工智能改变了这位已故音乐人的外貌，并因此表达不满。"
+        },
+        {
+          "t": "p",
+          "x": "在 Lisa Cerati 于 Instagram Stories 发布、Benito 也转发的声明中，兄妹二人首先表示支持专辑的音频重制。“我们觉得这是必要的，也对音频的效果感到满意，它尊重了更原始声音的初衷。”"
+        },
+        {
+          "t": "p",
+          "x": "“至于视频，‘Me Quedo Aquí’经过了一种处理，我们和大家一样事先没有看过，我们认为结果并不理想，”他们接着说，“我们不知道增强的过程，也不知道用了什么工具。我们没有被征询意见，对此深感遗憾。”"
+        },
+        {
+          "t": "img",
+          "src": "https://consequence.net/wp-content/uploads/2026/11/Lisa-and-Benito-Cerati-Slam-Use-of-AI-Gustavo-Cerati-Remastered-Video.png",
+          "cap": "Lisa 和 Benito Cerati 的声明（via Instagram）"
+        },
+        {
+          "t": "p",
+          "x": "粉丝质疑 Cerati 的面部特征似乎被改动，有人怀疑是 AI-generated 的修改。官方账号和兄妹二人都未确认是否使用了 AI。Cerati 于2014年去世，享年55岁。重制版 Ahí Vamos 于11月12日以数字形式发行，实体版随后于11月13日推出。"
+        }
+      ]
+    },
+    "music/terrecon-russia-ai-war-songs": {
+      "blocks": [
+        {
+          "t": "video",
+          "src": "https://rfe-video-ns.akamaized.net/pangeavideo/2026/11/0/02/0241abbc-9211-4460-8439-08df3ee82709_720p.mp4"
+        },
+        {
+          "t": "p",
+          "x": "使用音乐流媒体网站的俄罗斯人可能会在推送中看到一种新类型：支持俄罗斯军队和乌克兰战争的AI生成（AI-generated）歌曲。乌克兰非营利组织Terrecon的一项研究发现了近1,000首此类歌曲，研究人员称，这些歌曲旨在激发爱国情绪、协助动员新兵，甚至吸引儿童。"
+        }
+      ]
+    },
+    "music/wired-youtube-beyond-the-beat": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6af7840bd2837972f5ddf4f3/master/w_1600,c_limit/Untitled-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "YouTube Music和Spotify希望由合成主持人来策划你的播放列表。WIRED的Reece Rogers认为，它们尴尬的闲聊和虚假的歌曲轶事正在破坏氛围。"
+        },
+        {
+          "t": "p",
+          "x": "YouTube Music的“Beyond the Beat”是2025年推出的YouTube Labs测试功能，会在歌曲之间随机插话约30秒。在一首Slayyyter的歌之后，它讲了一段关于“Rock Music by Charli XXC [sic]”的内容，把Charli XCX的名字说错了。它还介绍了Olivia Rodrigo与Chappell Roan合作的Expectations混音版，随后却播放了没有Roan的原版。"
+        },
+        {
+          "t": "p",
+          "x": "Spotify于2023年推出AI DJ，并在11月增加了更多个性和控制选项，目前提供八种英语声音，其中几种常依赖“you know”和“like”这类填充词。它的解说比YouTube更紧凑，也更能让人忍受，但Spotify所称“80%的听众每周都会回到DJ”中不会包括Rogers：“无论是空洞的陈词滥调，还是模仿人类的失误，我已经听够了。”"
+        }
+      ]
+    },
+    "music/simdps-music-inpainting": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Music Inpainting With Similarity-Guided Latent Diffusion（基于相似性引导潜在扩散的音乐修复）—— Sean Turland、Eloi Moliner、Vesa Välimäki。已被ISMIR 2026接收。"
+        },
+        {
+          "t": "p",
+          "x": "我们提出一种音乐修复技术，将相似性匹配与基于扩散的生成模型相结合，用合适的替代内容替换音频录音中的大段片段。所提出的混合方法Similarity-Guided Diffusion Posterior Sampling（SimDPS）依据上下文相似性从更广泛的信号中检索候选替换片段，并用它们引导扩散过程生成连贯的重建结果。该框架与模型无关，可兼容任何在波形域或潜在域中运行的预训练扩散模型。"
+        },
+        {
+          "t": "p",
+          "x": "客观评估表明，SimDPS在声学特征和神经嵌入距离指标上均优于广泛采用的RePaint和DPS方法。在多流派音乐数据集上的主观评估证实，与以往基于扩散的方法相比，SimDPS提升了感知合理性，且对匹配不佳的相似候选表现出稳健性。这些发现为改进音乐修复和上下文感知的音频编辑铺平了道路。"
+        }
+      ]
+    },
+    "music/suno-shulman-fraud-remarks": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-31.png?fit=2000%2C1500&ssl=1",
+          "cap": "图片来源：Vibe Shack Studios"
+        },
+        {
+          "t": "p",
+          "x": "Suno CEO Mikey Shulman批评了他所说的“把流媒体欺诈与AI音乐混为一谈”的“障眼法”，同时强调公司在幕后打击欺诈所做的工作比外界以为的更多。"
+        },
+        {
+          "t": "p",
+          "x": "“我坚决反对流媒体欺诈。那是犯罪，”Shulman本周做客Trapital播客时说。“AI音乐有时牵涉其中？AI音乐不是犯罪……这两者并不相同。”"
+        }
+      ]
     }
   }
 }

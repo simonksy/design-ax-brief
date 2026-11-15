@@ -10913,6 +10913,144 @@
           "x": "“Inevitable” se estrenó el 13 de noviembre en la Shortical App con 24 episodios; los nuevos episodios de este microdrama de 50 episodios se publican cada semana. Está escrita por Sharon Ben Tovim y producida por Shortical."
         }
       ]
+    },
+    "movies/kling4-seedance-test": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "sh4bkvZQ1WE"
+        },
+        {
+          "t": "p",
+          "x": "“We Tested Kling 4.0 Against Seedance 2.5, and It’s Not Close” (Probamos Kling 4.0 contra Seedance 2.5 y no hay comparación). Últimamente se ha hablado mucho de Kling 4.0 en internet, y hay quien dice que supera a Seedance 2.5; Curious Refuge pone esa afirmación a prueba."
+        },
+        {
+          "t": "p",
+          "x": "Kling 4.0 puede generar hasta 30 segundos de vídeo a 1080p. Las seis pruebas en paralelo: una escena de acción en el desierto con referencias de personajes, un combate entre un samurái y un guerrero romano, una referencia de cámara orbital con dron, un diálogo en un taxi de New York con un mono que habla, una toma de senderismo text-to-video y una referencia de estilo anime."
+        },
+        {
+          "t": "img",
+          "src": "https://images.squarespace-cdn.com/content/v1/55bd7005e4b06da83f63b8d9/937c37be-3180-4f94-a605-16dbf03f02b7/Test+04+-+StyleReference+-+REFERENCE.png",
+          "cap": "Imagen de referencia de estilo"
+        },
+        {
+          "t": "p",
+          "x": "Seedance dio más dinamismo a la acción y aportó al combate la energía de una escena de acción de alto nivel; Kling se acercó más en la toma de senderismo prompt-only y se ajustó mejor a la referencia de estilo anime. Para la secuencia del desierto en Magnific, Kling 4.0 a 1080p costó $8.40 frente a los $24.00 de Seedance 2.5 standard."
+        },
+        {
+          "t": "p",
+          "x": "Veredicto: para física de la acción, movimiento de cámara o un aspecto de imagen real, conviene empezar con Seedance 2.5, que rindió mejor en las pruebas más exigentes."
+        }
+      ]
+    },
+    "movies/netflix-blue-eye-samurai-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/11/blue-eye-samurai-with-mizu-holding-a-sword.jpg?&fit=crop&w=1600&h=900",
+          "cap": "Blue Eye Samurai, con Mizu empuñando una espada"
+        },
+        {
+          "t": "p",
+          "x": "Los fans de la epopeya samurái de Netflix producida en Francia pueden estar tranquilos: el equipo de producción de la serie no usa ni usará nunca AI generativa."
+        },
+        {
+          "t": "p",
+          "x": "Según Variety, el Chief Creative Officer de Blue Spirit, Charles Beirnaert, confirmó que Netflix prohibió a su equipo de animación usar AI en cualquier parte de la producción. “No se nos permite usar AI en los proyectos de Netflix”, afirmó sin rodeos. Blue Eye Samurai se estrenó en noviembre de 2023 y tiene un 97% de aprobación de la crítica en Rotten Tomatoes."
+        },
+        {
+          "t": "img",
+          "src": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2025/08/blue-eye-samurai.jpg?q=70&fit=crop&w=825&dpr=1",
+          "cap": "Mizu en la serie de animación de Netflix Blue Eye Samurai"
+        },
+        {
+          "t": "p",
+          "x": "Netflix no ha adoptado una política zero-AI general: en 2023 Netflix Japan recibió críticas por The Dog and the Boy, un corto de Wit Studio que usó AI para las ilustraciones de fondo, y Netflix se ha vuelto a asociar con Wit Studio para su reinicio en anime de One Piece, previsto para febrero de 2027."
+        },
+        {
+          "t": "p",
+          "x": "Blue Spirit, por su parte, experimenta con AI generativa. Después de que un equipo de 20 personas dedicara tres meses a terminar un piloto, una sola persona lo replicó con AI, con resultados pobres. Beirnaert dio una “estimación aleatoria” de que la AI podría ahorrar hasta un millón de euros en una producción estándar de ocho millones de euros."
+        }
+      ]
+    },
+    "movies/guardian-storyboard-artists-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i.guim.co.uk/img/media/c9aabe04cbc4724110ea14f7d6a4bfe25a89ef20/94_56_6693_4292/master/6693.jpg?width=1200&dpr=1&s=none&crop=none",
+          "cap": "Viñetas del storyboard de Gone with the Wind"
+        },
+        {
+          "t": "p",
+          "x": "A medida que Hollywood empieza a adoptar la tecnología, los profesionales en peligro más directo son los ilustradores que plasman la primera visión de los directores. James Cameron forma parte del consejo de una empresa de gen AI, Steven Soderbergh usó tecnología Meta-powered para las animaciones de su documental sobre John Lennon y Christopher Nolan admite que la AI creará algunas “herramientas de imagen” útiles."
+        },
+        {
+          "t": "p",
+          "x": "El canario en la mina de hoy es el artista de storyboard. Incluso Martin Scorsese se ha subido al carro: en junio anunció una alianza con una empresa de AI cuyo modelo text-to-image utilizó para el storyboard de su próxima película."
+        },
+        {
+          "t": "img",
+          "src": "https://i.guim.co.uk/img/media/b0a5fde115c51a5fd45e9a0ec5b762b61284e164/0_0_3404_4370/master/3404.jpg?width=890&dpr=1&s=none&crop=none",
+          "cap": "Storyboard de Saul Bass para Psycho"
+        },
+        {
+          "t": "p",
+          "x": "“Un error común es pensar que el storyboard consiste en hacer dibujos bonitos”, dice Alex Clark, artista de storyboard en Mickey 17 y The Gorge. “Se trata de conectar con cómo piensa el director”. Denis Villeneuve llama a su colaborador Sam Hudecki “una extensión de mi cerebro”."
+        },
+        {
+          "t": "p",
+          "x": "Ferdinando Cocco, profesor en Abertay, prevé un regreso a las prácticas analógicas: “Quizá la dificultad que la AI supuestamente supera era precisamente el sentido de todo desde el principio”. Clark predice que el público llegará a valorar las películas con un toque humano."
+        }
+      ]
+    },
+    "movies/chilemonos-2027-ai-rules": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cms.indieshortsmag.com/wp-content/uploads/2026/11/CHILEMONOS-2027-Opens-Free-Oscar-Qualifying-Animation-Entries-With-New-AI-Restrictions-Indie-Shorts-Mag-News.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El 16.º Festival Internacional de Animación CHILEMONOS ha abierto la convocatoria de su edición 2027 en seis competencias oficiales, dos de las cuales pueden dar acceso a los Academy Awards. La inscripción se abrió el 13 de noviembre de 2026 y cierra el 26 de febrero de 2027, sin tarifa de inscripción."
+        },
+        {
+          "t": "p",
+          "x": "Las Competencias Internacional y Latinoamericana de Cortometraje de Animación son Oscar-qualifying; el festival mantiene ese estatus desde 2019. Las películas deben haberse terminado el 1 de marzo de 2026 o después, y los cortometrajes profesionales deben durar entre dos y 30 minutos."
+        },
+        {
+          "t": "p",
+          "x": "Los organizadores reconocen la AI generativa como una herramienta de producción emergente, pero aún no han establecido una política definitiva a largo plazo. Para 2027, el reglamento prohíbe la AI en las obras presentadas y señala la animación AI-generated que sustituye la contribución creativa de un animador como causa de inelegibilidad. Quienes usen flujos de trabajo AI-assisted deben contactar a los organizadores antes de inscribirse."
+        },
+        {
+          "t": "p",
+          "x": "La edición híbrida se celebra en línea en toda Latinoamérica y de forma presencial en Santiago, y el reglamento fija el periodo del festival del 3 al 30 de mayo de 2027."
+        }
+      ]
+    },
+    "movies/movies-ace-editors-avid-survey": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/11/Molly_Shock_ACE_17-1.jpg?w=1000&h=667&crop=1",
+          "cap": "Molly Shock (Avid)"
+        },
+        {
+          "t": "p",
+          "x": "En Hollywood circulan muchos rumores sobre cuántos profesionales usan herramientas de AI en secreto. Ahora un grupo de editores de cine está dispuesto a hablar en público: en una encuesta de Avid a 120 miembros de American Cinema Editors, que reúne a 1,200 socios, el 77.5% de los editores de cine ya usa AI."
+        },
+        {
+          "t": "p",
+          "x": "Los principales usos son la transcripción (60%), la limpieza de audio (55%) y la búsqueda de planos concretos entre cientos de horas de material (39.2%). “Nadie crece diciendo ‘sueño con sincronizar copiones algún día’”, dijo Matt Feury, vicepresidente de relaciones con artistas de Avid. Los editores usan AI “para minimizar la cantidad de trabajo manual”, no para decisiones creativas."
+        },
+        {
+          "t": "p",
+          "x": "La editora Molly Shock, nominada al Emmy (Emmy-nominated), dijo: “Reconocemos que no va a desaparecer. Te adaptas o mueres”. En una temporada reciente de “MasterChef”, los editores localizaron en segundos un plano de control de tiempo de un concursante; algunos días, medio día de trabajo se redujo a 15 minutos."
+        },
+        {
+          "t": "p",
+          "x": "Casi el 100% de quienes la usan a diario o cada semana cree que la AI solo debe potenciar la visión creativa. Solo el 7.5% quería que la AI ayudara a montar planos o primeros cortes, y las preocupaciones éticas, de derechos de autor y de seguridad suponían casi el 50% de las barreras para usar AI. “Solo queremos asegurarnos de que se nos incluya en la conversación sobre cómo se va a usar”, dijo Shock."
+        }
+      ]
     }
   }
 }
