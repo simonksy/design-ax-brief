@@ -11909,6 +11909,130 @@
           "x": "“我们的想法是借助设计师的大脑，让他们在设计演进过程中注入自己的领域知识，”资深作者Josephine Carstensen说。"
         }
       ]
+    },
+    "design/figma-configindia-canvas-production": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "87SISSxj6R4"
+        },
+        {
+          "t": "p",
+          "x": "Config India 2026：Figma深度解析——Nothing lost in translation，从画布到生产，毫无损耗。"
+        },
+        {
+          "t": "p",
+          "x": "原型能够传达交互行为与设计意图，但它们并不在生产环境中，而决策内容与最终构建结果之间的差距，正是大多数偏差产生的地方。借助设计系统上下文、进阶MCP技巧、代码图层和规格说明，超越基础用法。"
+        }
+      ]
+    },
+    "design/figma-blog-creative-ai-split": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/4791f6c2acbf0d3121abf8a8f3e7aa3c6b7c4ae9-3264x1836.png?w=1632&h=918&q=75&fit=max&auto=format",
+          "cap": "头图插画：Jose Flores"
+        },
+        {
+          "t": "p",
+          "x": "Figma Weave联合创始人兼首席创意官Itay Schiff提出了一个问题：创作过程中哪些部分可以交给AI，哪些部分我们坚持留给自己？如今，许多创意工作者正在用AI去做他们其实乐在其中的事，比如写作、设计、剪辑或导演。在他看来，问题不在于要不要用AI，而在于自动化哪些部分。"
+        },
+        {
+          "t": "p",
+          "x": "摩擦可能是有价值的。去除跟踪点、制作预演、抠绿幕等繁琐的VFX步骤，是大多数人乐于放手的劳动。但有些摩擦并非劳动，而是思考发生的地方。如果只是劳动？那就交给机器。"
+        },
+        {
+          "t": "p",
+          "x": "生成不等于创作。AI模型的第一版输出看起来已经完成，但任何人都可能生成同样的画面。在Figma Weave中用Seedance 2.5生成的一个Gaussian splat营销活动里，v1很快就出来了，却远未完成；团队继续围绕故事、角色和造型反复打磨。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/6ff46e4235ab02c904cb2673573d5fefd08312aa-3264x1836.png?w=3264&h=1836&q=75&fit=crop&crop=focalpoint&auto=format",
+          "cap": "在Figma Design中展示的“Spring Arrivals”活动设计，旁边是Weave中与之相连的Figma节点。"
+        },
+        {
+          "t": "p",
+          "x": "Schiff描述了用于探索的“开放模式”和用于确定决策、实现自动化的“封闭模式”。在把某件事交给AI之前，先审视它。尤其在最有诱惑力的时候，要小心别把思考也自动化掉。"
+        }
+      ]
+    },
+    "design/qentin-scan-search-aec": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/11/qentin.jpg"
+        },
+        {
+          "t": "p",
+          "x": "qentin是一款AI智能体，让设施管理者能用自然语言搜索激光扫描生成的“数字孪生”。它目前处于抢先体验阶段，由奥地利初创公司qapture开发。qapture六年来一直在奥地利、瑞士和德国各地对建筑进行激光扫描，其中包括38处Ikea场所，面积超过2百万平方米。"
+        },
+        {
+          "t": "p",
+          "x": "建筑完成扫描和地理配准后，qentin利用AI自动检测、标注并定位物体，并借助文字识别从扫描中读取标签和资产标签。用户可用德语或英语提问，得到的答案会固定在3D查看器中的某个位置。"
+        },
+        {
+          "t": "p",
+          "x": "“如今，关于一栋建筑的知识散落在Excel列表、旧图纸、PDF报告和少数人的脑子里。有了qentin，知识就存在于建筑本身，你只需开口询问。”qapture的CEO兼联合创始人Daniel Höller说。"
+        },
+        {
+          "t": "p",
+          "x": "Energie AG Oberösterreich已在实际运营中使用qentin。Qapture已采集Energie AG的137处场所，覆盖730,000平方米和43座水电站，自动识别出6,300个标签。其他用途还包括检查逃生路线和防火措施。"
+        }
+      ]
+    },
+    "design/simscale-ai-blueprint-nvidia": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/11/V-model-graphic.jpg"
+        },
+        {
+          "t": "p",
+          "x": "SimScale推出了Engineering AI Blueprint，面向计划在工程工作流中部署AI智能体的CTOs和工程负责人。该蓝图包含用于加速计算的NVIDIA技术，以及物理AI模型和工具。"
+        },
+        {
+          "t": "p",
+          "x": "从试点项目走向更广泛的部署可能很困难，在设计工作流中使用AI智能体时尤其如此。该蓝图借鉴工程项目和客户部署经验，勾勒出扩展工程AI的框架。"
+        },
+        {
+          "t": "p",
+          "x": "它引用的一项研究显示，设计冻结前做出的决策占预期项目成本的86%，而后期发现的概念缺陷需要约13倍的返工。蓝图提出了一套流程：先探索再选择，更早开始验证，物理测试则用于确认。它还界定了应在哪些环节限制智能体的自主性。"
+        },
+        {
+          "t": "p",
+          "x": "蓝图梳理了自主工作流所需的软件层，并指出NVIDIA PhysicsNeMo、NVIDIA Nemotron和NVIDIA NeMo Agent Toolkit在技术栈中的位置。SimScale对350位工程负责人的调查发现，99%的人预计在12个月内从AI获得可衡量的ROI。"
+        }
+      ]
+    },
+    "design/figma-3d-transforms-launch": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "今年早些时候，Figma发布了Figma Motion、由Figma智能体驱动的生成式插件和着色器，以及3D变换。如今，3D变换已开放公测。使用3D变换效果，可在空间中倾斜、旋转并排列文本、图像、矢量和画框；为父级画框添加透视效果后，它们便成为同一空间构图的一部分。这些效果是无损的：原始图稿在下方仍可编辑。"
+        },
+        {
+          "t": "p",
+          "x": "Figma Brand Studio团队将这些效果用在了3D变换的发布视频上。品牌设计师Deanna Gueli先确定了文字排布，再让Figma智能体沿Z轴按间隔重复。她说：“这像一场来回的探戈：智能体负责算数，我负责创意。”她还借助智能体构建几何体，把文字动画放到一个矩形管上，并将这一形体做成组件。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/02f264d3e112d6229cb18015b9fa6b7123a380c9-1920x1080.png?w=1200&q=75&fit=max&auto=format",
+          "cap": "Deanna尝试把文字放到几何体上，并在空间中旋转这些元素。"
+        },
+        {
+          "t": "p",
+          "x": "品牌动效设计师Ben Hill让Figma智能体构建了一个生成式插件，可将元素排成网格、螺旋、环形或随机散布，随后又加入着色器，用于表面处理和光线扫过效果。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/222f89045df6d65e95959134992974b5d8d51f31-3840x2160.png?rect=0,1,3840,2159&w=1200&q=75&fit=max&auto=format",
+          "cap": "这个由智能体生成的插件为Ben提供了多种3D布局，以及控制朝向和间距的选项。"
+        },
+        {
+          "t": "p",
+          "x": "在Dev Mode中，3D变换可直接对应到CSS；编码智能体也可通过Figma MCP服务器读取和创建3D设计。3D变换现已向所有Full席位用户开放公测。"
+        }
+      ]
     }
   }
 }

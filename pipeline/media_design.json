@@ -1,7 +1,34 @@
-{"date":"2026-11-15","section":"design","media":[
-{"id":"figma-3d-transforms-launch","type":"video","src":"pipeline/media/figma-3d-transforms-launch.mp4","poster":"pipeline/media/figma-3d-transforms-launch.jpg"},
-{"id":"luma-board-organizer-agent","type":"video","src":"pipeline/media/luma-board-organizer-agent.mp4","poster":"pipeline/media/luma-board-organizer-agent.jpg"},
-{"id":"claude-manufacturing-fusion-plugin","type":"image","src":"pipeline/media/claude-manufacturing-fusion-plugin.png"},
-{"id":"nngroup-research-in-the-loop","type":"image","src":"pipeline/media/nngroup-research-in-the-loop.png"},
-{"id":"vercel-ui-sdk-behaviors","type":"image","src":"pipeline/media/vercel-ui-sdk-behaviors.jpg"}
-]}
+{
+ "date": "2026-11-16",
+ "section": "design",
+ "media": [
+  {
+   "id": "design-fable52-brushstroke-painter",
+   "type": "video",
+   "src": "pipeline/media/design-fable52-brushstroke-painter.mp4",
+   "poster": "pipeline/media/design-fable52-brushstroke-painter.jpg"
+  },
+  {
+   "id": "figma-configindia-canvas-production",
+   "type": "video",
+   "src": "pipeline/media/figma-configindia-canvas-production.mp4",
+   "poster": "pipeline/media/figma-configindia-canvas-production.jpg"
+  },
+  {
+   "id": "figma-blog-creative-ai-split",
+   "type": "video",
+   "src": "pipeline/media/figma-blog-creative-ai-split.mp4",
+   "poster": "pipeline/media/figma-blog-creative-ai-split.jpg"
+  },
+  {
+   "id": "qentin-scan-search-aec",
+   "type": "image",
+   "src": "pipeline/media/qentin-scan-search-aec.jpg"
+  },
+  {
+   "id": "simscale-ai-blueprint-nvidia",
+   "type": "image",
+   "src": "pipeline/media/simscale-ai-blueprint-nvidia.jpg"
+  }
+ ]
+}

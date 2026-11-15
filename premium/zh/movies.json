@@ -10518,6 +10518,144 @@
           "x": "《Inevitable》于11月13日在Shortical App上线，首发24集；这部共50集的微短剧每周更新。编剧为Sharon Ben Tovim，由Shortical制作。"
         }
       ]
+    },
+    "movies/kling4-seedance-test": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "sh4bkvZQ1WE"
+        },
+        {
+          "t": "p",
+          "x": "“We Tested Kling 4.0 Against Seedance 2.5, and It’s Not Close”（我们对比了Kling 4.0和Seedance 2.5，差距悬殊）。最近网上关于Kling 4.0的讨论很多，有人说它比ByteDance的Seedance 2.5更好——Curious Refuge对这一说法进行了检验。"
+        },
+        {
+          "t": "p",
+          "x": "Kuaishou的Kling 4.0能以1080p生成最长30秒的视频。六项并排测试分别是：带角色参考的沙漠动作场景、武士对战罗马战士、无人机环绕镜头参考、New York出租车里与会说话的猴子的对话、text-to-video徒步镜头，以及动漫风格参考。"
+        },
+        {
+          "t": "img",
+          "src": "https://images.squarespace-cdn.com/content/v1/55bd7005e4b06da83f63b8d9/937c37be-3180-4f94-a605-16dbf03f02b7/Test+04+-+StyleReference+-+REFERENCE.png",
+          "cap": "风格参考图"
+        },
+        {
+          "t": "p",
+          "x": "Seedance让动作更具动感，赋予打斗高端动作场面的能量；Kling在prompt-only徒步镜头上最接近，对动漫风格参考的还原也更贴近。在Magnific中制作沙漠段落时，1080p的Kling 4.0花费$8.40，而Seedance 2.5 standard为$24.00。"
+        },
+        {
+          "t": "p",
+          "x": "结论：若追求动作物理、镜头运动或真人实拍质感，应先用Seedance 2.5，它在最严苛的测试中整体表现更好。"
+        }
+      ]
+    },
+    "movies/netflix-blue-eye-samurai-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/11/blue-eye-samurai-with-mizu-holding-a-sword.jpg?&fit=crop&w=1600&h=900",
+          "cap": "Blue Eye Samurai中手持长剑的Mizu"
+        },
+        {
+          "t": "p",
+          "x": "这部由法国制作的Netflix武士史诗的粉丝可以放心了——该剧制作团队目前没有、将来也不会使用生成式AI。"
+        },
+        {
+          "t": "p",
+          "x": "据Variety报道，Blue Spirit首席创意官（Chief Creative Officer）Charles Beirnaert证实，Netflix禁止其动画团队在制作的任何环节使用AI。他直言：“我们不被允许在Netflix项目中使用AI。”Blue Eye Samurai于2023年11月首播，在Rotten Tomatoes上的影评人评分为97%。"
+        },
+        {
+          "t": "img",
+          "src": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2025/08/blue-eye-samurai.jpg?q=70&fit=crop&w=825&dpr=1",
+          "cap": "Netflix动画剧集Blue Eye Samurai中的Mizu"
+        },
+        {
+          "t": "p",
+          "x": "不过Netflix并未全面推行zero-AI政策：2023年，Netflix Japan因Wit Studio制作的短片The Dog and the Boy用AI绘制背景插画而受到批评，而Netflix又与Wit Studio再度合作，推出将于2027年2月上线的One Piece动画重启版。"
+        },
+        {
+          "t": "p",
+          "x": "Blue Spirit自身也在试验生成式AI。一支20人团队花了三个月完成一部试播片后，一个人用AI将其复刻，效果平平。Beirnaert给出一个“随口估算”：在一部标准的八百万欧元制作中，AI最多可节省一百万欧元。"
+        }
+      ]
+    },
+    "movies/guardian-storyboard-artists-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i.guim.co.uk/img/media/c9aabe04cbc4724110ea14f7d6a4bfe25a89ef20/94_56_6693_4292/master/6693.jpg?width=1200&dpr=1&s=none&crop=none",
+          "cap": "Gone with the Wind的分镜画板"
+        },
+        {
+          "t": "p",
+          "x": "随着Hollywood开始采用这项技术，处境最直接危险的是为导演描绘最初构想的插画师。James Cameron身居一家gen AI公司的董事会，Steven Soderbergh在其John Lennon纪录片的动画中使用了Meta-powered技术，Christopher Nolan也承认AI会催生一些有用的“成像工具”。"
+        },
+        {
+          "t": "p",
+          "x": "如今煤矿里的金丝雀是分镜师。连Martin Scorsese也加入了：他在6月宣布与一家AI公司合作，并在为下一部电影绘制分镜时使用了该公司的text-to-image模型。"
+        },
+        {
+          "t": "img",
+          "src": "https://i.guim.co.uk/img/media/b0a5fde115c51a5fd45e9a0ec5b762b61284e164/0_0_3404_4370/master/3404.jpg?width=890&dpr=1&s=none&crop=none",
+          "cap": "Saul Bass为Psycho绘制的分镜"
+        },
+        {
+          "t": "p",
+          "x": "“一个常见的误解是，分镜就是画出好看的图，”Mickey 17和The Gorge的分镜师Alex Clark说，“它关乎贴近导演的思考方式。”Denis Villeneuve称他的合作者Sam Hudecki是“我大脑的延伸”。"
+        },
+        {
+          "t": "p",
+          "x": "Abertay讲师Ferdinando Cocco认为会出现向模拟手法的回归：“也许AI声称克服的那种困难，从一开始就是关键所在。”Clark预测，观众会越来越珍视带有人情味的电影。"
+        }
+      ]
+    },
+    "movies/chilemonos-2027-ai-rules": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cms.indieshortsmag.com/wp-content/uploads/2026/11/CHILEMONOS-2027-Opens-Free-Oscar-Qualifying-Animation-Entries-With-New-AI-Restrictions-Indie-Shorts-Mag-News.jpg"
+        },
+        {
+          "t": "p",
+          "x": "第16届CHILEMONOS国际动画节已开放2027年度报名，共设六个官方竞赛单元，其中两个可获得Academy Awards（奥斯卡金像奖）参评资格。报名于2026年11月13日开启，2027年2月26日截止，不收取报名费。"
+        },
+        {
+          "t": "p",
+          "x": "国际动画短片竞赛与拉丁美洲动画短片竞赛为Oscar-qualifying单元，该节自2019年起即拥有这一资格。参赛影片须于2026年3月1日或之后完成，专业组短片时长须在2至30分钟之间。"
+        },
+        {
+          "t": "p",
+          "x": "主办方承认生成式AI是一种新兴制作工具，但尚未确立明确的长期政策。2027年的规则禁止在参赛作品中使用AI，并将取代动画师创作贡献的AI-generated动画列为取消资格的理由。使用AI-assisted工作流程的申请者应在提交前联系主办方。"
+        },
+        {
+          "t": "p",
+          "x": "本届采用线上线下结合的形式，在拉丁美洲各地线上进行，并在Santiago线下举办，规则将节期定为2027年5月3–30日。"
+        }
+      ]
+    },
+    "movies/movies-ace-editors-avid-survey": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/11/Molly_Shock_ACE_17-1.jpg?w=1000&h=667&crop=1",
+          "cap": "Molly Shock (Avid)"
+        },
+        {
+          "t": "p",
+          "x": "好莱坞一直流传着各种说法，猜测有多少专业人士在偷偷使用AI工具。如今，一批电影剪辑师准备公开表态：Avid对拥有1,200名会员的American Cinema Editors中的120名会员进行了调查，77.5%的电影剪辑师已经在使用AI。"
+        },
+        {
+          "t": "p",
+          "x": "最主要的用途是转录（60%）、音频清理（55%），以及在数百小时素材中查找特定镜头（39.2%）。Avid艺术家关系副总裁Matt Feury说：“没有人从小就说‘我梦想有一天去同步样片’。”剪辑师使用AI是“为了尽量减少手工活”，而不是用于创意决策。"
+        },
+        {
+          "t": "p",
+          "x": "获艾美奖提名（Emmy-nominated）的剪辑师Molly Shock说：“我们确实认识到它不会消失。要么适应，要么淘汰。”在《MasterChef》最近一季中，剪辑师几秒钟内就找到了一名参赛者的计时镜头；有些日子，半天的工作缩短到了15分钟。"
+        },
+        {
+          "t": "p",
+          "x": "在每天或每周使用AI的用户中，近100%认为AI只应用于增强创意构想。只有7.5%希望AI帮助拼接镜头或粗剪，而在使用AI的障碍中，伦理、版权和安全方面的担忧占了近50%。Shock说：“我们只是希望确保自己能参与到关于AI将如何使用的讨论中。”"
+        }
+      ]
     }
   }
 }

@@ -11521,6 +11521,170 @@
           "yt": "6FbSIAKJ1rg"
         }
       ]
+    },
+    "gadgets/xiaomi18pro-rear-genai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/xiaomi-18-pro-2.jpg?quality=82&strip=all&w=1400"
+        },
+        {
+          "t": "p",
+          "x": "Xiaomi 18 Pro系列的背屏，或许终于真能派上用场了。"
+        },
+        {
+          "t": "p",
+          "x": "推出过背屏手机的厂商寥寥无几，而且坦白说，其中大多数都相当鸡肋。Xiaomi希望借Xiaomi 18 Pro和Xiaomi 18 Pro Max的背屏扭转这一局面。该公司表示，这块屏幕支持Google Maps、YouTube Music、Spotify，还能通过巧妙的GenAI集成运行大量其他应用。"
+        },
+        {
+          "t": "p",
+          "x": "消息来自GSMArena，并延续了Xiaomi Group的VP & CMO Xu Fei一直在X上发布的AMA视频内容。如果你还没见过，Xiaomi 18 Pro系列背部的摄像头岛看起来很像Galaxy Z Flip 8或Motorola Razr系列等翻盖折叠屏手机的外屏。它是一块全彩触摸屏，分辨率高得惊人。"
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/xiaomi-18-pro-back-display-genai-camera.jpg?quality=82&strip=all&w=800"
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/xiaomi-18-pro-back-display-google-spotify.jpg?quality=82&strip=all&w=800"
+        },
+        {
+          "t": "p",
+          "x": "YouTube Music和Spotify会显示醒目的播放/暂停和跳过按钮，以及正在播放歌曲的封面和名称。Google Maps则会显示导航进度指示，以及下一步的路线指引。"
+        },
+        {
+          "t": "p",
+          "x": "除官方集成外，Xiaomi还允许用户使用内置的GenAI应用创建工具，自己制作背屏应用。只需描述你想要的功能，设备端AI就会为你生成应用。它看起来相当实用，应该有助于解决以往背屏面临的“鸡肋”问题。Xiaomi 18 Pro系列将在全球发布。"
+        }
+      ]
+    },
+    "gadgets/tvos-27-2-1-siri-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.macrumors.com/t/NIQfOSBaVtOFpZf_INMVdrQgmCg=/2500x/article-new/2026/10/Apple-TV-4K-4th-Generation-feature0.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Apple今天发布了tvOS 27.2.1，这是对9月推出的tvOS 27操作系统的更新。tvOS 27.2.1距Apple发布tvOS 27.2已近三周。"
+        },
+        {
+          "t": "p",
+          "x": "tvOS 27.2.1为第2代和第3代Apple TV 4K 机型带来Siri AI支持，但所有支持tvOS 27的Apple TV 4K 机型都可以安装。"
+        },
+        {
+          "t": "p",
+          "x": "Apple在推出第4代Apple TV 4K 时宣布了Apple TV版Siri AI。最新的机顶盒通过另一个tvOS 27.2版本启用Siri AI，而较早的Apple TV 4K 机型需要安装tvOS 27.2.1更新才能使用。"
+        },
+        {
+          "t": "p",
+          "x": "Siri AI是Apple今年早些时候推出的更聪明、更强大的Siri。Siri AI可以播放内容、依据个人情境提供建议、回答常识性问题并完成任务。"
+        },
+        {
+          "t": "p",
+          "x": "在Apple TV上使用Siri AI，需要配对一台Apple Intelligence-compatible的iOS设备，即iPhone 15 Pro及更新机型。"
+        },
+        {
+          "t": "p",
+          "x": "Apple TV用户可前往设置（Settings）> 系统（System）> 软件更新（Software Update）下载tvOS 27.2.1。Apple还为HomePod和HomePod mini发布了新的HomePod Software 27.2.1更新。"
+        }
+      ]
+    },
+    "gadgets/slashvibe-agent-controller": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/slashvibe-hero-in-hand-1440.jpg",
+          "cap": "双手握持SlashVibe V1，屏幕上显示标为等待、完成和工作中的智能体会话"
+        },
+        {
+          "t": "p",
+          "x": "SlashVibe是一款配有可拆卸AI智能体控制器的小型桌面显示屏，开发团队将开源其背后的桌面应用、固件、通信协议和SDK。截至2026年11月15日，其Kickstarter众筹已从552名支持者处筹得$122,881，目标为$10,000，将于12月10日结束。Early Bird档位为$189，比$249的零售价低$60，首批产品预计于2027年3月开始发货。"
+        },
+        {
+          "t": "p",
+          "x": "SlashVibe SDK只需要Node.js或Python。代码在你的电脑上运行，并将界面串流到SlashVibe。首个版本提供三个钩子：自定义屏幕布局、按键与摇杆事件，以及语音转写出的文本。"
+        },
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/slashvibe-sdk-spend-screen.jpg",
+          "cap": "SlashVibe SDK示例界面，按月度预算追踪API支出"
+        },
+        {
+          "t": "p",
+          "x": "硬件配备3.96英寸LCD、Kailh超矮机械轴、双轴摇杆、双MEMS麦克风和2W 扬声器；控制器可拆卸，通过2.4GHz 通信，内置500mAh 电池，续航20小时。"
+        },
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/slashvibe-agent-status-screen-closeup-1440.jpg",
+          "cap": "SlashVibe显示屏特写，智能体会话标为等待、完成和工作中"
+        },
+        {
+          "t": "p",
+          "x": "SlashVibe开箱即可在macOS和Windows上配合20多个智能体和工具使用，包括Claude Code、Codex、Cursor、Copilot CLI和Gemini CLI。每个会话显示为运行中、完成或等待，审批直接在设备上完成。语音输入在100毫秒内开始录音，并去除口头填充词。许可证和代码仓库尚未公布；代码将在发货前公开。"
+        }
+      ]
+    },
+    "gadgets/hp-zgx-fury-gb300": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/PZgCJ7B7RendGrosbZtv5e-1920-80.jpg",
+          "cap": "HP ZGX Fury台式工作站"
+        },
+        {
+          "t": "p",
+          "x": "HP推出了一款昂贵的工作站，把以往属于大规模AI基础设施的计算硬件装进办公室大小的机器。ZGX Fury G1n将Nvidia的GB300 Grace Blackwell Ultra处理器与LPDDR5X和HBM3e内存结合：496GB 系统内存加252GB 图形内存，共748GB ，并配备72核Arm Neoverse V2 Grace CPU。部分配置包含独立的RTX PRO 2000和RTX PRO 4000显卡，显存提升至276GB 。"
+        },
+        {
+          "t": "p",
+          "x": "HP表示，这些内存可支持在本地调整参数多达1000亿的语言模型，并能通过FP4量化对参数达一万亿的模型进行推理。"
+        },
+        {
+          "t": "p",
+          "x": "它采用液冷，配备1,600W 的Titanium-certified电源，预装Ubuntu 24.04 LTS，Nvidia ConnectX-8 SuperNIC提供两个速率为400Gbps 的QSFP112接口。机箱也可装入5U 设备机架。"
+        },
+        {
+          "t": "p",
+          "x": "标准配置售价$132,000；RTX PRO 2000选项为$133,000，RTX PRO 4000选项为$136,000。"
+        }
+      ]
+    },
+    "gadgets/gr00t2-human-video-robots": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-hero2-1280x720.jpg"
+        },
+        {
+          "t": "p",
+          "x": "GR00T 2会在行动之前预测接下来几秒的视频。搭载它的机器人从人类示范中学习技能，再把这些技能迁移到从未练习过该任务的机体上。一个扩散Transformer同时生成未来视频和动作块；NVIDIA将该模型定位为其System One层，构建在其世界模型平台Cosmos之上。"
+        },
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-rollout.jpg"
+        },
+        {
+          "t": "p",
+          "x": "预训练混合了402,730小时的第一人称人类视频、覆盖2,897项任务的10,184小时手持夹爪示范，以及23,500小时的机器人遥操作数据。NVIDIA将这种迁移称为X-Adapt：目标机器人在执行任务前无需亲自示范。其中100,000小时的第一人称视频以Human-1M-100K之名发布在Hugging Face上。"
+        },
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-xadapt.jpg"
+        },
+        {
+          "t": "p",
+          "x": "在目标机器人从未练习过的50项任务上，GR00T 2仅凭指令即可在40%的尝试中成功。每项任务提供一次示范，平均成功率升至71%；提供五次示范，并在一块RTX 5090上进行一次30分钟微调后，成功率升至95%。通过WAM API与一款前沿推理模型（作为System Two）配合，该系统在300次连续玩具组装中完成了292次。"
+        },
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/groot2-turbo.jpg"
+        },
+        {
+          "t": "p",
+          "x": "GR00T 2 Turbo是二十亿参数版本，可在搭载Jetson Thor的Unitree G1人形机器人上本地运行，每次预测耗时124毫秒。Nexuni、Foxconn和Siemens正在测试完整版模型。模型权重和X-Adapt方案将于12月发布。"
+        }
+      ]
     }
   }
 }

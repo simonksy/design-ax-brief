@@ -1,158 +1,158 @@
 {
-  "date": "2026-11-15",
+  "date": "2026-11-16",
   "section": "medicine",
   "items": [
     {
       "tool": "Medicine",
       "accent": "#00897b",
       "motif": "sphere",
-      "title": "FDA Clears IND for Biolojic's BD200, the First AI-Designed Multibody ADC to Enter Clinical Trials",
-      "url": "https://www.biopharminternational.com/view/fda-clears-ind-for-biolojic-s-bd200-the-first-ai-designed-multibody-adc-to-enter-clinical-trials",
-      "source": "BioPharm International",
-      "published_iso": "2026-11-12T15:26:45Z",
-      "og_image": "https://cdn.sanity.io/images/0vv8moc6/biopharn/29f1e6f63b2a5a331dd153d454f6879a0aa8733b-1280x720.jpg?w=1200&fit=max&q=75&fm=jpg",
-      "excerpt": "FDA cleared Biolojic Design's IND for BD200, an AI-designed Trop2/Nectin-4 bispecific antibody-drug conjugate whose arms can each bind either target; a global Phase 1 in solid tumors starts within weeks. (Off-list: on-list biotech feeds had no coverage.)",
-      "rationale": "Concrete regulatory milestone: an AI-designed ADC cleared by FDA to enter human trials in solid tumors."
+      "title": "보의연, 병원들에 '19종 실측' 조사 공문…에이아이트릭스 \"고시 위반 아니다\"",
+      "url": "https://www.medigatenews.com/news/2035204417",
+      "source": "메디게이트뉴스",
+      "published_iso": "2026-11-15T15:24:00+09:00",
+      "og_image": "https://medigatenews.com/file/news/542817",
+      "excerpt": "Following a National Assembly audit, Korea's NECA sent a written survey to 171 hospitals that used AITRICS' VitalCare deterioration-prediction AI under the innovative-medical-technology reimbursement pathway, asking whether all 19 input variables were actually measured for every patient (deadline Nov 19); AITRICS says imputing missing values is within its MFDS approval.",
+      "rationale": "Concrete regulator action on a reimbursed clinical AI: NECA audits 171 hospitals' use of VitalCare inputs, with the vendor disputing the reading."
     },
     {
       "tool": "Medicine",
-      "accent": "#3b6bff",
+      "accent": "#0070f3",
       "motif": "sphere",
-      "title": "NHS launches £200k project to shape how safety and performance of AI diagnostic tools are monitored",
-      "url": "https://www.publictechnology.net/2026/11/13/health-and-social-care/nhs-launches-200k-project-to-shape-how-safety-and-performance-of-ai-diagnostic-tools-are-monitored/",
-      "source": "PublicTechnology",
-      "published_iso": "2026-11-13T01:03:00+00:00",
-      "og_image": "https://www.publictechnology.net/wp-content/uploads/2024/11/hospital.jpg",
-      "excerpt": "The NHS has asked the Royal College of Radiologists to lead a discovery exercise on post-deployment monitoring of AI diagnostic tools, covering current challenges, bias and needed governance. (Off-list: gov.uk / england.nhs.uk had no item.)",
-      "rationale": "Health-system action on post-market surveillance of deployed diagnostic AI, led by the radiologists' royal college."
-    },
-    {
-      "tool": "Medicine",
-      "accent": "#7928ca",
-      "motif": "sphere",
-      "title": "AI improves rare kidney cancer diagnosis, but overreliance poses risks: AMC study",
-      "url": "https://www.koreabiomed.com/news/articleView.html?idxno=33846",
-      "source": "Korea Biomedical Review",
-      "published_iso": "2026-11-13T13:57:58+09:00",
-      "og_image": "https://cdn.koreabiomed.com/news/thumbnail/202611/33846_37014_5655_v150.jpg",
-      "excerpt": "Asan Medical Center's deep-learning tool raised 21 pathologists' accuracy in diagnosing fumarate hydratase-deficient renal cell carcinoma from 60.0% to 73.3%, but physicians who relied more on it were more likely to accept its wrong calls.",
-      "rationale": "Reader study with hard numbers on both the accuracy gain and the automation-bias cost for pathologists."
+      "title": "As more doctors consult chatbots, health systems can block them — or buy in",
+      "url": "https://www.statnews.com/2026/11/05/doctors-use-ai-chatbots-hipaa-compliance-questions/",
+      "source": "STAT",
+      "published_iso": "2026-11-05T09:30:00+00:00",
+      "og_image": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_305233727-1024x576.jpeg",
+      "excerpt": "Health systems are split on clinicians' use of consumer AI tools like OpenEvidence: Monument Health blocked it after finding a doctor had stored more than 100 patient records in the tool, while others are licensing HIPAA-compliant versions.",
+      "rationale": "Patient-privacy incident driving a concrete hospital policy choice (block vs license) on clinician chatbot use."
     },
     {
       "tool": "Medicine",
       "accent": "#f5a623",
       "motif": "sphere",
-      "title": "AI linked to higher recall rates in screening mammography",
-      "url": "https://www.auntminnie.com/resources/conference/rsna/2026/womens-imaging-preview/article/16425472/ai-linked-to-higher-recall-rates-in-screening-mammography",
+      "title": "모니터 대신 환자 눈 맞춘다…정신과·소청과 호평 AI 차팅 '니어닥'",
+      "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044563",
+      "source": "청년의사",
+      "published_iso": "2026-11-16T06:18:17+09:00",
+      "og_image": "https://cdn.docdocdoc.co.kr/news/thumbnail/202611/3044563_3048547_938_v150.jpg",
+      "excerpt": "AI EMR charting assistant Neardoc (Studio Kiko), which drafts SOAP notes from doctor-patient conversation in real time and learns each physician's charting style, is drawing strongest uptake in psychiatry and pediatrics; Bosa reports ~500 clinics and 970,000 visit records since its May launch, with self-reported chart time falling from 3m48s to 1m08s per visit.",
+      "rationale": "Freshest item in the pool: real clinic adoption numbers for an AI scribe, with specialty-level uptake and charting-time data."
+    },
+    {
+      "tool": "Medicine",
+      "accent": "#7928ca",
+      "motif": "sphere",
+      "title": "Quibim's prostate MRI AI joins Microsoft imaging AI network",
+      "url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/news/16425030/quibim-quibims-prostate-mri-ai-joins-microsoft-imaging-ai-network",
       "source": "AuntMinnie",
-      "published_iso": "2026-11-13T12:00:00Z",
-      "og_image": null,
-      "excerpt": "RSNA 2026 preview: real-world results from a tertiary cancer center comparing screening mammography interpretations with and without AI, finding AI use associated with higher recall rates.",
-      "rationale": "Real-world screening data showing a practical downside of AI-assisted mammography; the strongest of three same-hub RSNA breast previews."
+      "published_iso": "2026-11-10T15:38:42+00:00",
+      "og_image": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/11/quibim-logo.nzuGqmRqWf.jpg?auto=format%2Ccompress&bg=ffffff&fit=crop&h=675&q=70&w=1200",
+      "excerpt": "FDA-cleared QP-Prostate, which detects suspected lesions on biparametric prostate MRI, is now available through Microsoft's Precision Imaging Network, with results delivered into PowerScribe for radiologists to review before finalizing reports.",
+      "rationale": "An FDA-cleared prostate MRI tool lands inside radiologists' reporting workflow (PowerScribe) — a deployment change, not just a deal."
     },
     {
       "tool": "Medicine",
       "accent": "#eb367f",
       "motif": "sphere",
-      "title": "Patient comfort with AI's clinical decisions tied to provider oversight: Gallup",
-      "url": "https://www.healthcaredive.com/news/patient-comfort-with-ais-clinical-decisions-tied-to-provider-oversight-ga/874623/",
-      "source": "Healthcare Dive",
-      "published_iso": "2026-11-13T10:39:35-05:00",
-      "og_image": "https://imgproxy.divecdn.com/8LRNjVp7pJo5yhr9MtNjjDQSkES-KtLbTkgDJFbd5Rg/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjcyMDM5MjIwLmpwZw==.webp",
-      "excerpt": "A new Gallup poll finds patients are more open to AI making decisions about their care than providers assume, but human oversight is what makes them comfortable with it.",
-      "rationale": "New national poll on the patient side: acceptance of clinical AI hinges on clinician oversight."
+      "title": "Beyond skin deep: physiologic oral pigmentation as an overlooked validation gap in AI-assisted oral cancer screening",
+      "url": "https://www.nature.com/articles/s41746-026-03466-9",
+      "source": "npj Digital Medicine",
+      "published_iso": "2026-11-14T00:00:00+00:00",
+      "og_image": null,
+      "excerpt": "AI oral cancer screening tools such as MeMoSA have been validated almost exclusively in Asian populations; the authors argue physiologic oral pigmentation, which varies by race, may cause classifiers to flag normal variation as suspicious and call for targeted validation before wider deployment.",
+      "rationale": "Patient-safety and bias angle: a specific, testable validation gap in oral cancer screening AI before broader rollout."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.biopharminternational.com/view/fda-clears-ind-for-biolojic-s-bd200-the-first-ai-designed-multibody-adc-to-enter-clinical-trials": {
+      "https://www.medigatenews.com/news/2035204417": {
+        "verdict": "new",
+        "nearest": "https://www.bosa.co.kr/news/articleView.html?idxno=3014709",
+        "new_action": ""
+      },
+      "https://www.statnews.com/2026/11/05/doctors-use-ai-chatbots-hipaa-compliance-questions/": {
+        "verdict": "new",
+        "nearest": "https://www.fiercehealthcare.com/ai-and-machine-learning/nyu-langone-brings-openevidences-clinical-ai-ehr-systemwide",
+        "new_action": ""
+      },
+      "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044563": {
+        "verdict": "new",
+        "nearest": "https://www.bosa.co.kr/news/articleView.html?idxno=3014062",
+        "new_action": ""
+      },
+      "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/news/16425030/quibim-quibims-prostate-mri-ai-joins-microsoft-imaging-ai-network": {
+        "verdict": "new",
+        "nearest": "https://www.bmj.com/content/395/bmj-2026-101231",
+        "new_action": ""
+      },
+      "https://www.nature.com/articles/s41746-026-03466-9": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
-      },
-      "https://www.publictechnology.net/2026/11/13/health-and-social-care/nhs-launches-200k-project-to-shape-how-safety-and-performance-of-ai-diagnostic-tools-are-monitored/": {
-        "verdict": "new",
-        "nearest": "https://www.nature.com/articles/s41746-026-03301-1",
-        "new_action": ""
-      },
-      "https://www.koreabiomed.com/news/articleView.html?idxno=33846": {
-        "verdict": "new",
-        "nearest": "https://www.nature.com/articles/s41746-026-03410-x",
-        "new_action": ""
-      },
-      "https://www.auntminnie.com/resources/conference/rsna/2026/womens-imaging-preview/article/16425472/ai-linked-to-higher-recall-rates-in-screening-mammography": {
-        "verdict": "new",
-        "nearest": "https://radiologybusiness.com/topics/artificial-intelligence/artificial-intelligence-checks-trustworthiness-breast-cancer-ai-models",
-        "new_action": ""
-      },
-      "https://www.healthcaredive.com/news/patient-comfort-with-ais-clinical-decisions-tied-to-provider-oversight-ga/874623/": {
-        "verdict": "new",
-        "nearest": "https://www.nature.com/articles/s41746-026-03408-5",
-        "new_action": ""
       }
     },
-    "note": "Dropped as duplicates: AMA 'AI can augment physicians but don't call it doctor' (same AMA interim-meeting AI liability/licensure policy already ran in politics 11-14 as Axios 'doctors-ai-mistakes-liability-shield', and AMA liability stance ran in medicine 11-02 via Fierce) and the Fierce Healthcare weekly rundown (roundup containing the AMA policy). Radiology Business AI coronary inflammation score dropped as likely the same running CaRi-Heart/coronary-inflammation story published 10-27 (Cardiovascular Business). AuntMinnie RSNA women's-imaging hub: kept only the recall-rates piece; experience-gap and Mirai safety-net previews dropped as same-source same-topic hub posts. Not picked for diversity/strength (not duplicates): Insilico ISM6331 (second drug-discovery item alongside Biolojic), npj bladder LLM benchmark, npj oral-pigmentation perspective, Comm Med AML neutropenia model, JAMA rogue-agent Viewpoint, STAT men's chatbot feature, KBR Samsung/OpenAI connected-health piece. Cross-section: checked published_urls.json science and politics blocks; no pick URL appears in any section."
+    "note": "Dropped as duplicates: Cardiovascular Business Cleerly PARAMOUNT (same AHA trial already ran 11-09 via cleerly.com press); MedCity News NEJM LLM cost-of-care study (same NEJM AI paper ran 10-17); Radiology Business AI-derived FAI inflammation score (same Oxford/Antoniades coronary-inflammation running story as 10-27 Cardiovascular Business; also judged a likely repeat in the 11-15 run). Not picked for strength/diversity (not duplicates): Comm Med AML febrile-neutropenia model (thematically close to 11-13 persistent-fever item), npj bladder LLM benchmark, Radpair/Novarad partnership, STAT men's chatbot feature, JAMA rogue-agent Viewpoint, Medigate med-school AI conference, KBR GI-308 patent filing. Cross-section: no pick's product/event (AITRICS VitalCare NECA survey, Monument Health/OpenEvidence block, Neardoc, Quibim QP-Prostate, oral pigmentation) appears in the 30-day medicine history; published_urls.json could not be grepped (Read-only tools), so the orchestrator should exact-grep the five URLs before roll."
   },
   "picks": [
     {
       "tool": "Medicine",
       "accent": "#00897b",
       "motif": "sphere",
-      "title": "FDA Clears IND for Biolojic's BD200, the First AI-Designed Multibody ADC to Enter Clinical Trials",
-      "url": "https://www.biopharminternational.com/view/fda-clears-ind-for-biolojic-s-bd200-the-first-ai-designed-multibody-adc-to-enter-clinical-trials",
-      "source": "BioPharm International",
-      "published_iso": "2026-11-12T15:26:45Z",
-      "og_image": "https://cdn.sanity.io/images/0vv8moc6/biopharn/29f1e6f63b2a5a331dd153d454f6879a0aa8733b-1280x720.jpg?w=1200&fit=max&q=75&fm=jpg",
-      "excerpt": "FDA cleared Biolojic Design's IND for BD200, an AI-designed Trop2/Nectin-4 bispecific antibody-drug conjugate whose arms can each bind either target; a global Phase 1 in solid tumors starts within weeks. (Off-list: on-list biotech feeds had no coverage.)",
-      "rationale": "Concrete regulatory milestone: an AI-designed ADC cleared by FDA to enter human trials in solid tumors."
+      "title": "보의연, 병원들에 '19종 실측' 조사 공문…에이아이트릭스 \"고시 위반 아니다\"",
+      "url": "https://www.medigatenews.com/news/2035204417",
+      "source": "메디게이트뉴스",
+      "published_iso": "2026-11-15T15:24:00+09:00",
+      "og_image": "https://medigatenews.com/file/news/542817",
+      "excerpt": "Following a National Assembly audit, Korea's NECA sent a written survey to 171 hospitals that used AITRICS' VitalCare deterioration-prediction AI under the innovative-medical-technology reimbursement pathway, asking whether all 19 input variables were actually measured for every patient (deadline Nov 19); AITRICS says imputing missing values is within its MFDS approval.",
+      "rationale": "Concrete regulator action on a reimbursed clinical AI: NECA audits 171 hospitals' use of VitalCare inputs, with the vendor disputing the reading."
     },
     {
       "tool": "Medicine",
-      "accent": "#3b6bff",
+      "accent": "#0070f3",
       "motif": "sphere",
-      "title": "NHS launches £200k project to shape how safety and performance of AI diagnostic tools are monitored",
-      "url": "https://www.publictechnology.net/2026/11/13/health-and-social-care/nhs-launches-200k-project-to-shape-how-safety-and-performance-of-ai-diagnostic-tools-are-monitored/",
-      "source": "PublicTechnology",
-      "published_iso": "2026-11-13T01:03:00+00:00",
-      "og_image": "https://www.publictechnology.net/wp-content/uploads/2024/11/hospital.jpg",
-      "excerpt": "The NHS has asked the Royal College of Radiologists to lead a discovery exercise on post-deployment monitoring of AI diagnostic tools, covering current challenges, bias and needed governance. (Off-list: gov.uk / england.nhs.uk had no item.)",
-      "rationale": "Health-system action on post-market surveillance of deployed diagnostic AI, led by the radiologists' royal college."
-    },
-    {
-      "tool": "Medicine",
-      "accent": "#7928ca",
-      "motif": "sphere",
-      "title": "AI improves rare kidney cancer diagnosis, but overreliance poses risks: AMC study",
-      "url": "https://www.koreabiomed.com/news/articleView.html?idxno=33846",
-      "source": "Korea Biomedical Review",
-      "published_iso": "2026-11-13T13:57:58+09:00",
-      "og_image": "https://cdn.koreabiomed.com/news/thumbnail/202611/33846_37014_5655_v150.jpg",
-      "excerpt": "Asan Medical Center's deep-learning tool raised 21 pathologists' accuracy in diagnosing fumarate hydratase-deficient renal cell carcinoma from 60.0% to 73.3%, but physicians who relied more on it were more likely to accept its wrong calls.",
-      "rationale": "Reader study with hard numbers on both the accuracy gain and the automation-bias cost for pathologists."
+      "title": "As more doctors consult chatbots, health systems can block them — or buy in",
+      "url": "https://www.statnews.com/2026/11/05/doctors-use-ai-chatbots-hipaa-compliance-questions/",
+      "source": "STAT",
+      "published_iso": "2026-11-05T09:30:00+00:00",
+      "og_image": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_305233727-1024x576.jpeg",
+      "excerpt": "Health systems are split on clinicians' use of consumer AI tools like OpenEvidence: Monument Health blocked it after finding a doctor had stored more than 100 patient records in the tool, while others are licensing HIPAA-compliant versions.",
+      "rationale": "Patient-privacy incident driving a concrete hospital policy choice (block vs license) on clinician chatbot use."
     },
     {
       "tool": "Medicine",
       "accent": "#f5a623",
       "motif": "sphere",
-      "title": "AI linked to higher recall rates in screening mammography",
-      "url": "https://www.auntminnie.com/resources/conference/rsna/2026/womens-imaging-preview/article/16425472/ai-linked-to-higher-recall-rates-in-screening-mammography",
+      "title": "모니터 대신 환자 눈 맞춘다…정신과·소청과 호평 AI 차팅 '니어닥'",
+      "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044563",
+      "source": "청년의사",
+      "published_iso": "2026-11-16T06:18:17+09:00",
+      "og_image": "https://cdn.docdocdoc.co.kr/news/thumbnail/202611/3044563_3048547_938_v150.jpg",
+      "excerpt": "AI EMR charting assistant Neardoc (Studio Kiko), which drafts SOAP notes from doctor-patient conversation in real time and learns each physician's charting style, is drawing strongest uptake in psychiatry and pediatrics; Bosa reports ~500 clinics and 970,000 visit records since its May launch, with self-reported chart time falling from 3m48s to 1m08s per visit.",
+      "rationale": "Freshest item in the pool: real clinic adoption numbers for an AI scribe, with specialty-level uptake and charting-time data."
+    },
+    {
+      "tool": "Medicine",
+      "accent": "#7928ca",
+      "motif": "sphere",
+      "title": "Quibim's prostate MRI AI joins Microsoft imaging AI network",
+      "url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/news/16425030/quibim-quibims-prostate-mri-ai-joins-microsoft-imaging-ai-network",
       "source": "AuntMinnie",
-      "published_iso": "2026-11-13T12:00:00Z",
-      "og_image": null,
-      "excerpt": "RSNA 2026 preview: real-world results from a tertiary cancer center comparing screening mammography interpretations with and without AI, finding AI use associated with higher recall rates.",
-      "rationale": "Real-world screening data showing a practical downside of AI-assisted mammography; the strongest of three same-hub RSNA breast previews."
+      "published_iso": "2026-11-10T15:38:42+00:00",
+      "og_image": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/11/quibim-logo.nzuGqmRqWf.jpg?auto=format%2Ccompress&bg=ffffff&fit=crop&h=675&q=70&w=1200",
+      "excerpt": "FDA-cleared QP-Prostate, which detects suspected lesions on biparametric prostate MRI, is now available through Microsoft's Precision Imaging Network, with results delivered into PowerScribe for radiologists to review before finalizing reports.",
+      "rationale": "An FDA-cleared prostate MRI tool lands inside radiologists' reporting workflow (PowerScribe) — a deployment change, not just a deal."
     },
     {
       "tool": "Medicine",
       "accent": "#eb367f",
       "motif": "sphere",
-      "title": "Patient comfort with AI's clinical decisions tied to provider oversight: Gallup",
-      "url": "https://www.healthcaredive.com/news/patient-comfort-with-ais-clinical-decisions-tied-to-provider-oversight-ga/874623/",
-      "source": "Healthcare Dive",
-      "published_iso": "2026-11-13T10:39:35-05:00",
-      "og_image": "https://imgproxy.divecdn.com/8LRNjVp7pJo5yhr9MtNjjDQSkES-KtLbTkgDJFbd5Rg/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjcyMDM5MjIwLmpwZw==.webp",
-      "excerpt": "A new Gallup poll finds patients are more open to AI making decisions about their care than providers assume, but human oversight is what makes them comfortable with it.",
-      "rationale": "New national poll on the patient side: acceptance of clinical AI hinges on clinician oversight."
+      "title": "Beyond skin deep: physiologic oral pigmentation as an overlooked validation gap in AI-assisted oral cancer screening",
+      "url": "https://www.nature.com/articles/s41746-026-03466-9",
+      "source": "npj Digital Medicine",
+      "published_iso": "2026-11-14T00:00:00+00:00",
+      "og_image": null,
+      "excerpt": "AI oral cancer screening tools such as MeMoSA have been validated almost exclusively in Asian populations; the authors argue physiologic oral pigmentation, which varies by race, may cause classifiers to flag normal variation as suspicious and call for targeted validation before wider deployment.",
+      "rationale": "Patient-safety and bias angle: a specific, testable validation gap in oral cancer screening AI before broader rollout."
     }
   ]
 }

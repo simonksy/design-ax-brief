@@ -4438,6 +4438,117 @@
           "x": "Uptunity Aneurysm is the first product in Bracco’s new Uptunity portfolio of interpretive AI software, developed through the company’s partnership with Avicenna.AI. Avicenna.AI will lead promotion and commercial distribution in the U.S."
         }
       ]
+    },
+    "medicine/monument-openevidence-block": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_305233727-1024x576.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Some hospitals restrict access if tools present compliance risks. Others bring them in house."
+        },
+        {
+          "t": "p",
+          "x": "Earlier this year, Monument Health, the South Dakota and Wyoming-based health system where Patrick Woodard is chief information officer, decided to block access to OpenEvidence, the popular free artificial intelligence tool, and Woodard got a few objections."
+        },
+        {
+          "t": "p",
+          "x": "One of them was from a super user. This doctor was storing more than a hundred patient records inside OpenEvidence, and feeding them to the AI tool for help making medical decisions. That would have to end, Woodard told him."
+        },
+        {
+          "t": "p",
+          "x": "In the last year, free chatbots built to answer clinician questions — including OpenEvidence, Doximity Ask, and ChatGPT for Clinicians — have grown in popularity. Hundreds of thousands of doctors use the tools, in part, because they claim to be compliant with HIPAA, allowing users to share a patient’s protected health information directly with the AI after signing an agreement. (The rest of the article is behind STAT+.)"
+        }
+      ]
+    },
+    "medicine/neardoc-ai-charting-clinics": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044563_3048547_938.png",
+          "cap": "Lee Chang-min, chief medical officer (CMO) of Studio Kiko's 'Neardoc', in a recent interview with Korean Doctors' Weekly (ⓒKorean Doctors' Weekly)."
+        },
+        {
+          "t": "p",
+          "x": "\"We got especially strong praise from psychiatry, where conversations with patients are the longest, and from pediatrics, where doctors deal with child patients and guardians at the same time.\" Neardoc is an AI-based electronic medical record (EMR) writing assistant that understands doctor-patient conversations in real time and organizes symptoms, examination findings, diagnosis and treatment plan (SOAP). Its strength is 'personalized charting' that reflects each user's charting style."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044563_3048548_2030.png",
+          "cap": "An example of Neardoc in use, with the conversation between clinician and patient recorded (source: CMO Lee Chang-min)."
+        },
+        {
+          "t": "p",
+          "x": "CMO Lee, an orthopedic surgeon, explained why he joined the development: \"As a resident, I always sat in the ward for 1~2 hours catching up on overdue medical records.\" According to Studio Kiko, 98% of the 120 doctors who used Neardoc were satisfied with its charting, and the conversion rate from free trial to paid reached 70%."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044563_3048549_2124.png",
+          "cap": "An example of Neardoc in use, with a SOAP summary based on the conversation between clinician and patient (source: CMO Lee Chang-min)."
+        },
+        {
+          "t": "p",
+          "x": "For the clinicians using Neardoc (120 people), EMR writing time fell by about 70%, from an average of 3 minutes 48 seconds before adoption to about 1 minute 8 seconds after. In a survey of 100 patients, consultation satisfaction rose by about 28%p. Within 5 months of launch, it passed 500 adopting medical institutions, with about 800,000 cumulative consultations."
+        },
+        {
+          "t": "p",
+          "x": "The original audio is destroyed as soon as it is converted to text, and when users input the chart data they usually write, Neardoc analyzes and learns their charting style. Studio Kiko plans to release an enterprise module within the year after proof-of-concept (PoC) trials with national and public hospitals and others."
+        }
+      ]
+    },
+    "medicine/quibim-qp-prostate-microsoft": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Quibim is making its QP-Prostate software available to healthcare organizations in North America through Microsoft’s Precision Imaging Network, a platform that provides access to third-party imaging AI applications."
+        },
+        {
+          "t": "p",
+          "x": "QP-Prostate automatically detects and identifies suspected lesions on bi-parametric prostate MRI and marks them as an overlay on the source images, according to the vendor. The software is cleared by the U.S. Food and Drug Administration (FDA) and holds a class III medical device license from Health Canada."
+        },
+        {
+          "t": "p",
+          "x": "Precision Imaging Network routes imaging studies to the applications an organization has selected using existing image-sharing infrastructure, according to the firm. In supported configurations, QP-Prostate results can be delivered to Microsoft’s PowerScribe reporting software, where radiologists can review and incorporate them before finalizing reports, Quibim said."
+        }
+      ]
+    },
+    "medicine/oral-pigmentation-ai-screening-gap": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "AI-assisted oral cancer screening tools, exemplified by MeMoSA, have been validated almost exclusively in Asian populations. We propose a testable hypothesis: physiologic oral pigmentation, which varies by race independent of pathology, may cause classifiers to misclassify normal variation as suspicious or miss camouflaged lesions. Following precedent from pulse oximetry and dermatology AI, we call for pigmentation-stratified validation before deployment in racially diverse settings such as the United States."
+        },
+        {
+          "t": "p",
+          "x": "Khanna, D., Grover, A. Beyond skin deep: physiologic oral pigmentation as an overlooked validation gap in AI-assisted oral cancer screening. npj Digit. Med. (2026). Accelerated article preview; only the abstract is published so far."
+        }
+      ]
+    },
+    "medicine/biolojic-bd200-adc-ind": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/0vv8moc6/biopharn/29f1e6f63b2a5a331dd153d454f6879a0aa8733b-1280x720.jpg?w=1200&fit=max&q=75&fm=jpg"
+        },
+        {
+          "t": "p",
+          "x": "FDA has cleared Biolojic Design’s Investigational New Drug (IND) application for BD200, an AI-designed bispecific antibody-drug conjugate (ADC) targeting Trop2 and Nectin-4 that the company describes as the first “multibody” to enter clinical trials. The clearance allows Biolojic to begin a global phase 1 study in patients with select solid tumors that express both antigens; CEO Yanay Ofran said the company expects to begin the study in the coming weeks."
+        },
+        {
+          "t": "p",
+          "x": "In BD200, each arm can bind Nectin-4 or Trop2, so the molecule can engage Nectin-4 with both arms, Trop2 with both arms, or one of each. The design is intended to let the drug adapt its binding to the mix of antigens expressed on a patient’s tumor cells. BD200 carries a topoisomerase inhibitor payload attached through what the company describes as a unique linker."
+        },
+        {
+          "t": "p",
+          "x": "Biolojic uses artificial intelligence and computational design to turn antibodies into drug candidates. Its platform produced imneskibart (previously AU-007), which the company says was the first AI-designed antibody to enter the clinic and is now in Phase 2 trials."
+        },
+        {
+          "t": "p",
+          "x": "In preclinical studies, BD200 adapted its specificity to heterogeneous antigen expression on tumor cells, showing greater efficacy and the ability to overcome resistance compared with standard monospecific ADCs or a template bispecific ADC, according to the company. The phase 1 study will evaluate safety, tolerability, pharmacokinetics, and preliminary efficacy."
+        }
+      ]
     }
   }
 }

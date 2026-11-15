@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-15",
+  "date": "2026-11-16",
   "section": "medicine",
   "cards": [
     {
-      "id": "biolojic-bd200-adc-ind",
-      "source_lang": "en",
+      "id": "neca-vitalcare-input-audit",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "FDA, ADC BD200\nAI-designed 임상",
-      "body": "FDA가 Biolojic Design의 ADC BD200 Phase 1을 허가했다.",
-      "mini_headline": "AI-designed ADC 임상 진입",
+      "headline": "보의연, 171개 병원\n바이탈케어 실측 조사",
+      "body": "보의연이 바이탈케어 쓴 병원 171곳에 19종 실측 여부를 묻는 공문을 보냈다.",
+      "mini_headline": "보의연 바이탈케어 실측 조사",
       "tool": "Medicine",
-      "source": "BioPharm International",
-      "url": "https://www.biopharminternational.com/view/fda-clears-ind-for-biolojic-s-bd200-the-first-ai-designed-multibody-adc-to-enter-clinical-trials",
+      "source": "메디게이트뉴스",
+      "url": "https://www.medigatenews.com/news/2035204417",
       "accent": "#00897b",
       "motif": "sphere",
       "full": {
@@ -19,295 +19,385 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.sanity.io/images/0vv8moc6/biopharn/29f1e6f63b2a5a331dd153d454f6879a0aa8733b-1280x720.jpg?w=1200&fit=max&q=75&fm=jpg"
+            "src": "https://medigatenews.com/file/news/542817",
+            "cap": "병원 측이 11월 19일까지 보의연에 답변해야 하는 서면조사 공문. 자료=독자 제공"
           },
           {
             "t": "p",
-            "x": "FDA가 Biolojic Design의 BD200 임상시험계획(Investigational New Drug, IND)을 승인했다. BD200은 Trop2와 Nectin-4를 표적으로 하는 AI-designed 이중특이성 항체-약물 접합체(ADC)다. 회사는 임상시험에 들어가는 첫 “multibody(멀티바디)”라고 소개한다. 승인에 따라 Biolojic은 두 항원을 모두 발현하는 일부 고형암 환자를 대상으로 글로벌 phase 1 연구에 착수할 수 있게 됐다. CEO Yanay Ofran은 몇 주 안에 연구를 시작할 것으로 내다봤다."
+            "x": "한국보건의료연구원이 환자 상태악화 예측 인공지능(AI) ‘바이탈케어’ 관련 기술을 사용한 병원 171곳에 서면조사 공문을 보내면서 의료현장에 혼선이 일고 있다. 국정감사 지적에 따른 후속 조사로, 모든 대상 환자가 입원기간 중 19종 입력정보를 각각 한 번 이상 실측했는지를 '예' 또는 '아니오'로 확인하도록 했다."
           },
           {
             "t": "p",
-            "x": "BD200의 각 팔은 Nectin-4나 Trop2에 붙는다. 두 팔이 모두 Nectin-4에 붙을 수도, 모두 Trop2에 붙을 수도, 하나씩 나눠 붙을 수도 있다. 환자 종양 세포가 어떤 항원 조합을 발현하느냐에 따라 약물의 결합 방식이 달라지도록 설계했다. 페이로드는 토포이소머라제 억제제로, 회사가 독자 기술이라고 밝힌 링커로 붙였다."
+            "x": "더불어민주당 권칠승 의원은 10월 7일 국정감사에서 고시 준수 여부를 문제 삼았다. 한 병원이 제출한 답변에서는 총 5042일의 사용일수 중 19개 항목이 모두 존재한 날은 73일, 약 1.5%에 그쳤다."
           },
           {
             "t": "p",
-            "x": "Biolojic은 인공지능과 계산 설계로 항체를 신약 후보로 만든다. 같은 플랫폼에서 나온 imneskibart(옛 이름 AU-007)는 회사 설명으로는 임상에 들어간 첫 AI-designed 항체이고, 지금은 Phase 2 시험 중이다."
+            "x": "보의연은 복지부 협조 요청에 따라 11월 4일 공문을 발송했다. 조사 기간은 11월 11일부터 19일까지이며, 병원들은 2023년 3월부터 2026년 9월 사이 사용 현황과 환자 동의서 구득 여부, 업체 안내자료 등을 제출해야 한다. 공문 발송 자체가 위반 확정을 의미하지는 않는다."
+          },
+          {
+            "t": "img",
+            "src": "https://medigatenews.com/file/news/542829"
           },
           {
             "t": "p",
-            "x": "회사에 따르면 BD200은 전임상 연구에서 종양 세포마다 제각각인 항원 발현에 맞춰 특이성을 조절했다. 표준 단일특이성 ADCs나 템플릿 이중특이성 ADC보다 효능이 높았고 내성도 더 잘 극복했다. phase 1 연구에서는 안전성, 내약성, 약동학, 초기 효능을 평가한다."
+            "x": "에이아이트릭스는 12일 공식 입장을 내고 고시 위반 주장을 반박했다. 식약처 허가사항상 생체신호 5종은 최소 한 번의 실측 데이터가 필요하지만, 산소포화도, 혈액검사 결과 11종, 의식상태 점수는 결측치 보정을 통해 위험도 점수가 계산된다는 것이다. 회사 측은 \"측정값이 없는 항목을 직전 측정값 또는 정상범위 중앙값으로 보정해 19종을 모두 입력·분석한다\"고 밝혔다."
+          },
+          {
+            "t": "p",
+            "x": "회사는 관련 부당이득반환 소송 1심에서 오산시법원과 울산지법이 원고 청구를 기각했다는 점도 근거로 들며, 복지부에 고시의 사용방법을 식약처 허가사항과 일치하게 정비해 달라고 요청했다. 바이탈케어는 신의료기술 평가유예 기간을 거쳐 현재 본평가를 받고 있다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "FDA clears AI-designed ADC\nBD200 for human trials",
-          "body": "FDA cleared Biolojic Design's AI-designed ADC BD200, with a global Phase 1 in solid tumors due within weeks.",
-          "mini_headline": "AI-designed ADC enters trials",
+        "ko": {
+          "headline": "보의연, 171개 병원\n바이탈케어 실측 조사",
+          "body": "보의연이 바이탈케어 쓴 병원 171곳에 19종 실측 여부를 묻는 공문을 보냈다.",
+          "mini_headline": "보의연 바이탈케어 실측 조사",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/0vv8moc6/biopharn/29f1e6f63b2a5a331dd153d454f6879a0aa8733b-1280x720.jpg?w=1200&fit=max&q=75&fm=jpg"
+                "src": "https://medigatenews.com/file/news/542817",
+                "cap": "병원 측이 11월 19일까지 보의연에 답변해야 하는 서면조사 공문. 자료=독자 제공"
               },
               {
                 "t": "p",
-                "x": "FDA has cleared Biolojic Design’s Investigational New Drug (IND) application for BD200, an AI-designed bispecific antibody-drug conjugate (ADC) targeting Trop2 and Nectin-4 that the company describes as the first “multibody” to enter clinical trials. The clearance allows Biolojic to begin a global phase 1 study in patients with select solid tumors that express both antigens; CEO Yanay Ofran said the company expects to begin the study in the coming weeks."
+                "x": "한국보건의료연구원이 환자 상태악화 예측 인공지능(AI) ‘바이탈케어’ 관련 기술을 사용한 병원 171곳에 서면조사 공문을 보내면서 의료현장에 혼선이 일고 있다. 국정감사 지적에 따른 후속 조사로, 모든 대상 환자가 입원기간 중 19종 입력정보를 각각 한 번 이상 실측했는지를 '예' 또는 '아니오'로 확인하도록 했다."
               },
               {
                 "t": "p",
-                "x": "In BD200, each arm can bind Nectin-4 or Trop2, so the molecule can engage Nectin-4 with both arms, Trop2 with both arms, or one of each. The design is intended to let the drug adapt its binding to the mix of antigens expressed on a patient’s tumor cells. BD200 carries a topoisomerase inhibitor payload attached through what the company describes as a unique linker."
+                "x": "더불어민주당 권칠승 의원은 10월 7일 국정감사에서 고시 준수 여부를 문제 삼았다. 한 병원이 제출한 답변에서는 총 5042일의 사용일수 중 19개 항목이 모두 존재한 날은 73일, 약 1.5%에 그쳤다."
               },
               {
                 "t": "p",
-                "x": "Biolojic uses artificial intelligence and computational design to turn antibodies into drug candidates. Its platform produced imneskibart (previously AU-007), which the company says was the first AI-designed antibody to enter the clinic and is now in Phase 2 trials."
+                "x": "보의연은 복지부 협조 요청에 따라 11월 4일 공문을 발송했다. 조사 기간은 11월 11일부터 19일까지이며, 병원들은 2023년 3월부터 2026년 9월 사이 사용 현황과 환자 동의서 구득 여부, 업체 안내자료 등을 제출해야 한다. 공문 발송 자체가 위반 확정을 의미하지는 않는다."
+              },
+              {
+                "t": "img",
+                "src": "https://medigatenews.com/file/news/542829"
               },
               {
                 "t": "p",
-                "x": "In preclinical studies, BD200 adapted its specificity to heterogeneous antigen expression on tumor cells, showing greater efficacy and the ability to overcome resistance compared with standard monospecific ADCs or a template bispecific ADC, according to the company. The phase 1 study will evaluate safety, tolerability, pharmacokinetics, and preliminary efficacy."
+                "x": "에이아이트릭스는 12일 공식 입장을 내고 고시 위반 주장을 반박했다. 식약처 허가사항상 생체신호 5종은 최소 한 번의 실측 데이터가 필요하지만, 산소포화도, 혈액검사 결과 11종, 의식상태 점수는 결측치 보정을 통해 위험도 점수가 계산된다는 것이다. 회사 측은 \"측정값이 없는 항목을 직전 측정값 또는 정상범위 중앙값으로 보정해 19종을 모두 입력·분석한다\"고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "회사는 관련 부당이득반환 소송 1심에서 오산시법원과 울산지법이 원고 청구를 기각했다는 점도 근거로 들며, 복지부에 고시의 사용방법을 식약처 허가사항과 일치하게 정비해 달라고 요청했다. 바이탈케어는 신의료기술 평가유예 기간을 거쳐 현재 본평가를 받고 있다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "FDA, ADC BD200\nAI-designed 임상",
-          "body": "FDA가 Biolojic Design의 ADC BD200 Phase 1을 허가했다.",
-          "mini_headline": "AI-designed ADC 임상 진입",
+        "en": {
+          "headline": "NECA checks 171 hospitals\non VitalCare measured inputs",
+          "body": "NECA sent letters to 171 hospitals using VitalCare, asking whether all 19 inputs were actually measured.",
+          "mini_headline": "NECA audits VitalCare inputs",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/0vv8moc6/biopharn/29f1e6f63b2a5a331dd153d454f6879a0aa8733b-1280x720.jpg?w=1200&fit=max&q=75&fm=jpg"
+                "src": "https://medigatenews.com/file/news/542817",
+                "cap": "The written survey letter that hospitals must answer to NECA by November 19. Source: provided by a reader"
               },
               {
                 "t": "p",
-                "x": "FDA가 Biolojic Design의 BD200 임상시험계획(Investigational New Drug, IND)을 승인했다. BD200은 Trop2와 Nectin-4를 표적으로 하는 AI-designed 이중특이성 항체-약물 접합체(ADC)다. 회사는 임상시험에 들어가는 첫 “multibody(멀티바디)”라고 소개한다. 승인에 따라 Biolojic은 두 항원을 모두 발현하는 일부 고형암 환자를 대상으로 글로벌 phase 1 연구에 착수할 수 있게 됐다. CEO Yanay Ofran은 몇 주 안에 연구를 시작할 것으로 내다봤다."
+                "x": "The National Evidence-based Healthcare Collaborating Agency (NECA) has sent written survey letters to 171 hospitals that used technology related to VitalCare, an artificial intelligence (AI) that predicts patient deterioration, and the move is causing confusion in the medical field. The follow-up survey, prompted by criticism raised in the parliamentary audit, asks hospitals to answer 'yes' or 'no' on whether each of the 19 input items was actually measured at least once during the hospital stay for every eligible patient."
               },
               {
                 "t": "p",
-                "x": "BD200의 각 팔은 Nectin-4나 Trop2에 붙는다. 두 팔이 모두 Nectin-4에 붙을 수도, 모두 Trop2에 붙을 수도, 하나씩 나눠 붙을 수도 있다. 환자 종양 세포가 어떤 항원 조합을 발현하느냐에 따라 약물의 결합 방식이 달라지도록 설계했다. 페이로드는 토포이소머라제 억제제로, 회사가 독자 기술이라고 밝힌 링커로 붙였다."
+                "x": "At the October 7 parliamentary audit, Rep. Kwon Chil-seung of the Democratic Party questioned whether the notice was being followed. In one hospital's submitted response, all 19 items were present on only 73 of 5042 total days of use, about 1.5%."
               },
               {
                 "t": "p",
-                "x": "Biolojic은 인공지능과 계산 설계로 항체를 신약 후보로 만든다. 같은 플랫폼에서 나온 imneskibart(옛 이름 AU-007)는 회사 설명으로는 임상에 들어간 첫 AI-designed 항체이고, 지금은 Phase 2 시험 중이다."
+                "x": "NECA sent the letter on November 4 at the request of the Ministry of Health and Welfare. The survey runs from November 11 to 19, and hospitals must submit their usage between March 2023 and September 2026, whether patient consent forms were obtained, and vendor guidance materials. Sending the letter does not in itself confirm a violation."
+              },
+              {
+                "t": "img",
+                "src": "https://medigatenews.com/file/news/542829"
               },
               {
                 "t": "p",
-                "x": "회사에 따르면 BD200은 전임상 연구에서 종양 세포마다 제각각인 항원 발현에 맞춰 특이성을 조절했다. 표준 단일특이성 ADCs나 템플릿 이중특이성 ADC보다 효능이 높았고 내성도 더 잘 극복했다. phase 1 연구에서는 안전성, 내약성, 약동학, 초기 효능을 평가한다."
+                "x": "AITRICS issued an official statement on the 12th rebutting the claim that it violated the notice. Under the Ministry of Food and Drug Safety approval, 5 vital signs require at least one actual measurement, but oxygen saturation, 11 blood test results and the consciousness score are handled by imputing missing values when the risk score is calculated, the company said. \"Items without a measured value are filled in with the previous measurement or the median of the normal range, so all 19 items are input and analyzed,\" the company stated."
+              },
+              {
+                "t": "p",
+                "x": "The company also pointed to first-instance rulings in related unjust-enrichment lawsuits, in which the Osan City Court and the Ulsan District Court dismissed the plaintiffs' claims, and asked the Ministry of Health and Welfare to revise the usage method in the notice to match the Ministry of Food and Drug Safety approval. VitalCare went through a deferral period for new health technology assessment and is now undergoing the main assessment."
               }
             ]
           }
         },
         "ja": {
-          "headline": "FDA、ADC BD200\nAI-designed 治験",
-          "body": "FDAがBiolojic DesignのAI設計ADC BD200の治験を承認した。",
-          "mini_headline": "AI-designedのADCが治験入り",
+          "headline": "保健医療研究院、171病院\nVitalCare実測を調査",
+          "body": "保健医療研究院がVitalCare導入171病院に19項目の実測有無を問う文書を送った。",
+          "mini_headline": "VitalCare実測調査",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/0vv8moc6/biopharn/29f1e6f63b2a5a331dd153d454f6879a0aa8733b-1280x720.jpg?w=1200&fit=max&q=75&fm=jpg"
+                "src": "https://medigatenews.com/file/news/542817",
+                "cap": "病院側が11月19日までに保健医療研究院へ回答しなければならない書面調査の公文書。資料=読者提供"
               },
               {
                 "t": "p",
-                "x": "FDAは、Biolojic DesignのBD200に関する治験許可申請（Investigational New Drug、IND）を承認した。BD200はTrop2とNectin-4を標的とするAI-designedの二重特異性抗体薬物複合体（ADC）で、同社は臨床試験に入る初の「multibody（マルチボディ）」だとしている。今回の承認により、Biolojicは両抗原を発現する一部の固形がん患者を対象に、グローバルなphase 1試験を始められる。CEOのYanay Ofranは、数週間以内に試験を開始する見通しだと述べた。"
+                "x": "韓国保健医療研究院が、患者の容体悪化を予測する人工知能(AI)「VitalCare」関連技術を使った病院171カ所に書面調査の公文書を送り、医療現場に混乱が広がっている。国政監査での指摘を受けた追跡調査で、すべての対象患者について入院期間中に19種類の入力情報をそれぞれ少なくとも一度実測したかを「はい」か「いいえ」で確認させる内容だ。"
               },
               {
                 "t": "p",
-                "x": "BD200では各アームがNectin-4またはTrop2に結合できる。そのため分子は、両アームでNectin-4に、両アームでTrop2に、あるいは片方ずつそれぞれに結合できる。患者の腫瘍細胞に発現する抗原の組み合わせに応じて、薬が結合のしかたを変えられるよう設計されている。BD200は、同社が独自とするリンカーを介してトポイソメラーゼ阻害剤のペイロードを搭載する。"
+                "x": "共に民主党の権七勝議員は10月7日の国政監査で、告示の順守状況を問題視した。ある病院が提出した回答では、計5042日の使用日数のうち19項目がすべてそろった日は73日、約1.5%にとどまった。"
               },
               {
                 "t": "p",
-                "x": "Biolojicは人工知能と計算設計を用いて、抗体を医薬品候補に変える。同社のプラットフォームから生まれたimneskibart（旧AU-007）は、同社によれば臨床入りした初のAI-designedの抗体であり、現在はPhase 2試験の段階にある。"
+                "x": "保健医療研究院は保健福祉部の協力要請を受け、11月4日に公文書を発送した。調査期間は11月11日から19日までで、病院は2023年3月から2026年9月までの使用状況、患者同意書の取得の有無、業者の案内資料などを提出しなければならない。公文書の発送自体が違反の確定を意味するわけではない。"
+              },
+              {
+                "t": "img",
+                "src": "https://medigatenews.com/file/news/542829"
               },
               {
                 "t": "p",
-                "x": "同社によると、BD200は前臨床試験で腫瘍細胞上の不均一な抗原発現に合わせて特異性を変え、標準的な単一特異性ADCsやテンプレートの二重特異性ADCと比べて高い有効性と耐性を克服する能力を示した。phase 1試験では安全性、忍容性、薬物動態、予備的な有効性を評価する。"
+                "x": "AITRICSは12日に公式見解を出し、告示違反との主張に反論した。食品医薬品安全処の許可事項上、生体信号5種は少なくとも一度の実測データが必要だが、酸素飽和度、血液検査結果11種、意識状態スコアは欠測値の補完によって危険度スコアが計算されるという。同社は「測定値のない項目を直前の測定値または正常範囲の中央値で補完し、19種すべてを入力・分析している」と説明した。"
+              },
+              {
+                "t": "p",
+                "x": "同社は、関連する不当利得返還訴訟の第1審で烏山市法院と蔚山地裁が原告の請求を棄却した点も根拠に挙げ、保健福祉部に対し告示の使用方法を食品医薬品安全処の許可事項と一致するよう整備してほしいと求めた。VitalCareは新医療技術評価の猶予期間を経て、現在は本評価を受けている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "FDA，ADC BD200\nAI-designed 获批",
-          "body": "FDA批准Biolojic Design的ADC BD200，Phase 1数周内启动。",
-          "mini_headline": "AI-designed ADC进入临床试验",
+          "headline": "研究院调查171家医院\nVitalCare实测情况",
+          "body": "保健医疗研究院向171家使用VitalCare的医院发函，询问19项数据是否实测。",
+          "mini_headline": "VitalCare实测调查",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/0vv8moc6/biopharn/29f1e6f63b2a5a331dd153d454f6879a0aa8733b-1280x720.jpg?w=1200&fit=max&q=75&fm=jpg"
+                "src": "https://medigatenews.com/file/news/542817",
+                "cap": "医院须在11月19日前答复保健医疗研究院的书面调查公函。资料=读者提供"
               },
               {
                 "t": "p",
-                "x": "FDA已批准Biolojic Design针对BD200的研究性新药（Investigational New Drug，IND）申请。BD200是一款靶向Trop2和Nectin-4的AI-designed双特异性抗体偶联药物（ADC），该公司称其为首个进入临床试验的“multibody（多体抗体）”。此次批准使Biolojic得以在同时表达这两种抗原的部分实体瘤患者中启动一项全球phase 1研究；CEO Yanay Ofran表示，公司预计在未来几周内启动该研究。"
+                "x": "韩国保健医疗研究院向171家使用患者病情恶化预测人工智能(AI)“VitalCare”相关技术的医院发出书面调查公函，在医疗一线引发混乱。这是针对国政监查中所提问题的后续调查，要求医院以“是”或“否”确认所有对象患者在住院期间是否对19种输入信息各至少实测过一次。"
               },
               {
                 "t": "p",
-                "x": "BD200的每条臂都能结合Nectin-4或Trop2，因此该分子可以两条臂都结合Nectin-4、两条臂都结合Trop2，或各结合一种。这一设计旨在让药物根据患者肿瘤细胞上表达的抗原组合调整结合方式。BD200携带拓扑异构酶抑制剂载荷，通过该公司所称的独特连接子相连。"
+                "x": "共同民主党议员权七胜在10月7日的国政监查中对告示的遵守情况提出质疑。在某医院提交的答复中，总计5042天的使用天数里，19个项目全部齐备的只有73天，约1.5%。"
               },
               {
                 "t": "p",
-                "x": "Biolojic利用人工智能和计算设计将抗体转化为候选药物。其平台产出的imneskibart（原名AU-007）据该公司称是首个进入临床的AI-designed抗体，目前处于Phase 2试验阶段。"
+                "x": "保健医疗研究院应保健福祉部的协助请求，于11月4日发出公函。调查期为11月11日至19日，医院须提交2023年3月至2026年9月期间的使用情况、是否取得患者同意书以及厂商说明材料等。发函本身并不意味着违规已被确认。"
+              },
+              {
+                "t": "img",
+                "src": "https://medigatenews.com/file/news/542829"
               },
               {
                 "t": "p",
-                "x": "据该公司介绍，在临床前研究中，BD200能根据肿瘤细胞上异质性的抗原表达调整特异性，与标准单特异性ADCs或模板双特异性ADC相比，显示出更高的疗效和克服耐药的能力。phase 1研究将评估安全性、耐受性、药代动力学和初步疗效。"
+                "x": "AITRICS于12日发表正式立场，反驳违反告示的说法。该公司称，根据食品药品安全处的许可事项，5项生命体征至少需要一次实测数据，但血氧饱和度、11项血液检查结果和意识状态评分可通过缺失值插补来计算风险评分。公司表示：“对没有测量值的项目，用前一次测量值或正常范围中位数进行插补，从而输入并分析全部19项。”"
+              },
+              {
+                "t": "p",
+                "x": "该公司还以相关不当得利返还诉讼一审中乌山市法院和蔚山地方法院驳回原告请求为依据，要求保健福祉部将告示中的使用方法调整为与食品药品安全处许可事项一致。VitalCare在经历新医疗技术评估暂缓期后，目前正在接受正式评估。"
               }
             ]
           }
         },
         "es": {
-          "headline": "FDA autoriza el ADC AI-designed\nBD200 para ensayos en humanos",
-          "body": "La FDA autorizó el ADC AI-designed BD200 de Biolojic Design; su Phase 1 global empezará en semanas.",
-          "mini_headline": "Un ADC AI-designed llega a ensayos",
+          "headline": "NECA revisa 171 hospitales\nsobre mediciones de VitalCare",
+          "body": "NECA envió cartas a 171 hospitales que usan VitalCare para preguntar si se midieron realmente los 19 datos.",
+          "mini_headline": "NECA audita VitalCare",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/0vv8moc6/biopharn/29f1e6f63b2a5a331dd153d454f6879a0aa8733b-1280x720.jpg?w=1200&fit=max&q=75&fm=jpg"
+                "src": "https://medigatenews.com/file/news/542817",
+                "cap": "Carta de encuesta escrita que los hospitales deben responder a NECA antes del 19 de noviembre. Fuente: aportada por un lector"
               },
               {
                 "t": "p",
-                "x": "La FDA autorizó la solicitud de nuevo fármaco en investigación (Investigational New Drug, IND) de Biolojic Design para BD200, un conjugado anticuerpo-fármaco (ADC) biespecífico diseñado con IA (AI-designed) dirigido a Trop2 y Nectin-4, que la compañía describe como el primer “multibody” en entrar en ensayos clínicos. La autorización permite a Biolojic iniciar un estudio global de phase 1 en pacientes con determinados tumores sólidos que expresan ambos antígenos; el CEO Yanay Ofran dijo que la empresa prevé comenzar el estudio en las próximas semanas."
+                "x": "La Agencia Nacional de Colaboración en Salud Basada en la Evidencia de Corea (NECA) envió cartas de encuesta escrita a 171 hospitales que usaron tecnología relacionada con VitalCare, una inteligencia artificial (AI) que predice el deterioro de los pacientes, lo que ha generado confusión en el ámbito médico. Es una encuesta de seguimiento tras las críticas de la auditoría parlamentaria, y pide confirmar con 'sí' o 'no' si cada uno de los 19 datos de entrada se midió realmente al menos una vez durante la hospitalización de cada paciente incluido."
               },
               {
                 "t": "p",
-                "x": "En BD200, cada brazo puede unirse a Nectin-4 o a Trop2, de modo que la molécula puede unirse a Nectin-4 con ambos brazos, a Trop2 con ambos brazos o a uno de cada uno. El diseño busca que el fármaco adapte su unión a la combinación de antígenos expresados en las células tumorales de cada paciente. BD200 lleva una carga útil de inhibidor de la topoisomerasa unida mediante lo que la compañía describe como un enlazador único."
+                "x": "El diputado Kwon Chil-seung, del Partido Democrático, cuestionó el cumplimiento de la normativa en la auditoría parlamentaria del 7 de octubre. En la respuesta que presentó un hospital, de un total de 5042 días de uso, los 19 elementos estuvieron presentes solo en 73 días, alrededor del 1.5%."
               },
               {
                 "t": "p",
-                "x": "Biolojic usa inteligencia artificial y diseño computacional para convertir anticuerpos en candidatos a fármacos. Su plataforma dio origen a imneskibart (antes AU-007), que según la empresa fue el primer anticuerpo diseñado con IA (AI-designed) en llegar a la clínica y ahora está en ensayos de Phase 2."
+                "x": "NECA envió la carta el 4 de noviembre a petición del Ministerio de Salud y Bienestar. La encuesta se realiza del 11 al 19 de noviembre, y los hospitales deben presentar su uso entre marzo de 2023 y septiembre de 2026, si obtuvieron el consentimiento de los pacientes y los materiales informativos del proveedor. El envío de la carta no implica por sí mismo que se haya confirmado una infracción."
+              },
+              {
+                "t": "img",
+                "src": "https://medigatenews.com/file/news/542829"
               },
               {
                 "t": "p",
-                "x": "En estudios preclínicos, BD200 adaptó su especificidad a la expresión heterogénea de antígenos en las células tumorales y mostró mayor eficacia y capacidad para superar la resistencia frente a ADCs monoespecíficos estándar o un ADC biespecífico de referencia, según la compañía. El estudio de phase 1 evaluará la seguridad, la tolerabilidad, la farmacocinética y la eficacia preliminar."
+                "x": "AITRICS emitió un comunicado oficial el día 12 en el que rechazó la acusación de incumplir la normativa. Según la autorización del Ministerio de Seguridad de Alimentos y Medicamentos, 5 signos vitales requieren al menos una medición real, pero la saturación de oxígeno, 11 resultados de análisis de sangre y la puntuación del nivel de conciencia se completan mediante imputación de valores faltantes para calcular la puntuación de riesgo. \"Los elementos sin valor medido se completan con la medición anterior o con la mediana del rango normal, de modo que se introducen y analizan los 19\", afirmó la empresa."
+              },
+              {
+                "t": "p",
+                "x": "La empresa también citó que, en primera instancia de las demandas relacionadas de restitución por enriquecimiento injusto, el Tribunal Municipal de Osan y el Tribunal de Distrito de Ulsan desestimaron las pretensiones de los demandantes, y pidió al Ministerio de Salud y Bienestar que ajuste el método de uso de la normativa a la autorización del Ministerio de Seguridad de Alimentos y Medicamentos. VitalCare pasó por un periodo de aplazamiento de la evaluación de nuevas tecnologías sanitarias y ahora está en la evaluación principal."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "FDA, ADC BD200\nAI-designed 임상",
-          "body": "FDA가 Biolojic Design ADC BD200 Phase 1을 허가했다.",
-          "mini_headline": "AI-designed ADC 임상 진입",
+        "en": {
+          "headline": "NECA checks 171 hospitals\non VitalCare measured inputs",
+          "body": "NECA sent letters to 171 hospitals using VitalCare, asking whether all 19 inputs were actually measured.",
+          "mini_headline": "NECA audits VitalCare inputs",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/0vv8moc6/biopharn/29f1e6f63b2a5a331dd153d454f6879a0aa8733b-1280x720.jpg?w=1200&fit=max&q=75&fm=jpg"
+                "src": "https://medigatenews.com/file/news/542817",
+                "cap": "The written survey letter that hospitals must answer to NECA by November 19. Source: provided by a reader"
               },
               {
                 "t": "p",
-                "x": "FDA가 Biolojic Design의 BD200 임상시험계획(Investigational New Drug, IND)을 승인했다. BD200은 Trop2와 Nectin-4를 표적으로 하는 AI-designed 이중특이성 항체-약물 접합체(ADC)로, 회사는 임상시험에 들어가는 첫 “multibody(멀티바디)”라고 설명한다. 이번 승인으로 Biolojic은 두 항원을 모두 발현하는 일부 고형암 환자를 대상으로 글로벌 phase 1 연구를 시작할 수 있다. CEO Yanay Ofran은 앞으로 몇 주 안에 연구를 시작할 것으로 본다고 말했다."
+                "x": "The National Evidence-based Healthcare Collaborating Agency (NECA) has sent written survey letters to 171 hospitals that used technology related to VitalCare, an artificial intelligence (AI) that predicts patient deterioration, and the move is causing confusion in the medical field. The follow-up survey, prompted by criticism raised in the parliamentary audit, asks hospitals to answer 'yes' or 'no' on whether each of the 19 input items was actually measured at least once during the hospital stay for every eligible patient."
               },
               {
                 "t": "p",
-                "x": "BD200의 각 팔은 Nectin-4나 Trop2에 결합할 수 있다. 그래서 분자는 두 팔 모두 Nectin-4에, 두 팔 모두 Trop2에, 또는 하나씩 나눠 결합할 수 있다. 환자의 종양 세포가 발현하는 항원 조합에 맞춰 약물이 결합 방식을 바꾸도록 한 설계다. BD200은 회사가 독자적이라고 설명하는 링커로 토포이소머라제 억제제 페이로드를 붙였다."
+                "x": "At the October 7 parliamentary audit, Rep. Kwon Chil-seung of the Democratic Party questioned whether the notice was being followed. In one hospital's submitted response, all 19 items were present on only 73 of 5042 total days of use, about 1.5%."
               },
               {
                 "t": "p",
-                "x": "Biolojic은 인공지능과 계산 설계로 항체를 신약 후보로 바꾼다. 이 플랫폼에서 나온 imneskibart(이전 이름 AU-007)는 회사에 따르면 임상에 들어간 첫 AI-designed 항체이며, 현재 Phase 2 시험 단계에 있다."
+                "x": "NECA sent the letter on November 4 at the request of the Ministry of Health and Welfare. The survey runs from November 11 to 19, and hospitals must submit their usage between March 2023 and September 2026, whether patient consent forms were obtained, and vendor guidance materials. Sending the letter does not in itself confirm a violation."
+              },
+              {
+                "t": "img",
+                "src": "https://medigatenews.com/file/news/542829"
               },
               {
                 "t": "p",
-                "x": "회사에 따르면 BD200은 전임상 연구에서 종양 세포의 이질적인 항원 발현에 맞춰 특이성을 조절했고, 표준 단일특이성 ADCs나 템플릿 이중특이성 ADC보다 높은 효능과 내성 극복 능력을 보였다. phase 1 연구는 안전성, 내약성, 약동학, 초기 효능을 평가한다."
+                "x": "AITRICS issued an official statement on the 12th rebutting the claim that it violated the notice. Under the Ministry of Food and Drug Safety approval, 5 vital signs require at least one actual measurement, but oxygen saturation, 11 blood test results and the consciousness score are handled by imputing missing values when the risk score is calculated, the company said. \"Items without a measured value are filled in with the previous measurement or the median of the normal range, so all 19 items are input and analyzed,\" the company stated."
+              },
+              {
+                "t": "p",
+                "x": "The company also pointed to first-instance rulings in related unjust-enrichment lawsuits, in which the Osan City Court and the Ulsan District Court dismissed the plaintiffs' claims, and asked the Ministry of Health and Welfare to revise the usage method in the notice to match the Ministry of Food and Drug Safety approval. VitalCare went through a deferral period for new health technology assessment and is now undergoing the main assessment."
               }
             ]
           }
         },
         "ja": {
-          "headline": "FDA、ADC BD200\nAI-designed 治験",
-          "body": "FDAがBiolojic DesignのAI設計ADC BD200の治験を承認した。",
-          "mini_headline": "AI-designedのADCが治験入り",
+          "headline": "保健医療研究院、171病院\nVitalCare実測を調査",
+          "body": "保健医療研究院がVitalCare導入171病院に19項目の実測有無を問う文書を送った。",
+          "mini_headline": "VitalCare実測調査",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/0vv8moc6/biopharn/29f1e6f63b2a5a331dd153d454f6879a0aa8733b-1280x720.jpg?w=1200&fit=max&q=75&fm=jpg"
+                "src": "https://medigatenews.com/file/news/542817",
+                "cap": "病院側が11月19日までに保健医療研究院へ回答しなければならない書面調査の公文書。資料=読者提供"
               },
               {
                 "t": "p",
-                "x": "FDAは、Biolojic DesignのBD200に関する治験許可申請（Investigational New Drug、IND）を承認した。BD200はTrop2とNectin-4を標的とするAI-designedの二重特異性抗体薬物複合体（ADC）で、同社は臨床試験に入る初の「multibody（マルチボディ）」だとしている。今回の承認により、Biolojicは両抗原を発現する一部の固形がん患者を対象に、グローバルなphase 1試験を始められる。CEOのYanay Ofranは、数週間以内に試験を開始する見通しだと述べた。"
+                "x": "韓国保健医療研究院が、患者の容体悪化を予測する人工知能(AI)「VitalCare」関連技術を使った病院171カ所に書面調査の公文書を送り、医療現場に混乱が広がっている。国政監査での指摘を受けた追跡調査で、すべての対象患者について入院期間中に19種類の入力情報をそれぞれ少なくとも一度実測したかを「はい」か「いいえ」で確認させる内容だ。"
               },
               {
                 "t": "p",
-                "x": "BD200では各アームがNectin-4またはTrop2に結合できる。そのため分子は、両アームでNectin-4に、両アームでTrop2に、あるいは片方ずつそれぞれに結合できる。患者の腫瘍細胞に発現する抗原の組み合わせに応じて、薬が結合のしかたを変えられるよう設計されている。BD200は、同社が独自とするリンカーを介してトポイソメラーゼ阻害剤のペイロードを搭載する。"
+                "x": "共に民主党の権七勝議員は10月7日の国政監査で、告示の順守状況を問題視した。ある病院が提出した回答では、計5042日の使用日数のうち19項目がすべてそろった日は73日、約1.5%にとどまった。"
               },
               {
                 "t": "p",
-                "x": "Biolojicは人工知能と計算設計を用いて、抗体を医薬品候補に変える。同社のプラットフォームから生まれたimneskibart（旧AU-007）は、同社によれば臨床入りした初のAI-designedの抗体であり、現在はPhase 2試験の段階にある。"
+                "x": "保健医療研究院は保健福祉部の協力要請を受け、11月4日に公文書を発送した。調査期間は11月11日から19日までで、病院は2023年3月から2026年9月までの使用状況、患者同意書の取得の有無、業者の案内資料などを提出しなければならない。公文書の発送自体が違反の確定を意味するわけではない。"
+              },
+              {
+                "t": "img",
+                "src": "https://medigatenews.com/file/news/542829"
               },
               {
                 "t": "p",
-                "x": "同社によると、BD200は前臨床試験で腫瘍細胞上の不均一な抗原発現に合わせて特異性を変え、標準的な単一特異性ADCsやテンプレートの二重特異性ADCと比べて高い有効性と耐性を克服する能力を示した。phase 1試験では安全性、忍容性、薬物動態、予備的な有効性を評価する。"
+                "x": "AITRICSは12日に公式見解を出し、告示違反との主張に反論した。食品医薬品安全処の許可事項上、生体信号5種は少なくとも一度の実測データが必要だが、酸素飽和度、血液検査結果11種、意識状態スコアは欠測値の補完によって危険度スコアが計算されるという。同社は「測定値のない項目を直前の測定値または正常範囲の中央値で補完し、19種すべてを入力・分析している」と説明した。"
+              },
+              {
+                "t": "p",
+                "x": "同社は、関連する不当利得返還訴訟の第1審で烏山市法院と蔚山地裁が原告の請求を棄却した点も根拠に挙げ、保健福祉部に対し告示の使用方法を食品医薬品安全処の許可事項と一致するよう整備してほしいと求めた。VitalCareは新医療技術評価の猶予期間を経て、現在は本評価を受けている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "FDA，ADC BD200\nAI-designed 获批",
-          "body": "FDA批准Biolojic Design的ADC BD200，Phase 1数周内启动。",
-          "mini_headline": "AI-designed ADC进入临床试验",
+          "headline": "研究院调查171家医院\nVitalCare实测情况",
+          "body": "保健医疗研究院向171家使用VitalCare的医院发函，询问19项数据是否实测。",
+          "mini_headline": "VitalCare实测调查",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/0vv8moc6/biopharn/29f1e6f63b2a5a331dd153d454f6879a0aa8733b-1280x720.jpg?w=1200&fit=max&q=75&fm=jpg"
+                "src": "https://medigatenews.com/file/news/542817",
+                "cap": "医院须在11月19日前答复保健医疗研究院的书面调查公函。资料=读者提供"
               },
               {
                 "t": "p",
-                "x": "FDA已批准Biolojic Design针对BD200的研究性新药（Investigational New Drug，IND）申请。BD200是一款靶向Trop2和Nectin-4的AI-designed双特异性抗体偶联药物（ADC），该公司称其为首个进入临床试验的“multibody（多体抗体）”。此次批准使Biolojic得以在同时表达这两种抗原的部分实体瘤患者中启动一项全球phase 1研究；CEO Yanay Ofran表示，公司预计在未来几周内启动该研究。"
+                "x": "韩国保健医疗研究院向171家使用患者病情恶化预测人工智能(AI)“VitalCare”相关技术的医院发出书面调查公函，在医疗一线引发混乱。这是针对国政监查中所提问题的后续调查，要求医院以“是”或“否”确认所有对象患者在住院期间是否对19种输入信息各至少实测过一次。"
               },
               {
                 "t": "p",
-                "x": "BD200的每条臂都能结合Nectin-4或Trop2，因此该分子可以两条臂都结合Nectin-4、两条臂都结合Trop2，或各结合一种。这一设计旨在让药物根据患者肿瘤细胞上表达的抗原组合调整结合方式。BD200携带拓扑异构酶抑制剂载荷，通过该公司所称的独特连接子相连。"
+                "x": "共同民主党议员权七胜在10月7日的国政监查中对告示的遵守情况提出质疑。在某医院提交的答复中，总计5042天的使用天数里，19个项目全部齐备的只有73天，约1.5%。"
               },
               {
                 "t": "p",
-                "x": "Biolojic利用人工智能和计算设计将抗体转化为候选药物。其平台产出的imneskibart（原名AU-007）据该公司称是首个进入临床的AI-designed抗体，目前处于Phase 2试验阶段。"
+                "x": "保健医疗研究院应保健福祉部的协助请求，于11月4日发出公函。调查期为11月11日至19日，医院须提交2023年3月至2026年9月期间的使用情况、是否取得患者同意书以及厂商说明材料等。发函本身并不意味着违规已被确认。"
+              },
+              {
+                "t": "img",
+                "src": "https://medigatenews.com/file/news/542829"
               },
               {
                 "t": "p",
-                "x": "据该公司介绍，在临床前研究中，BD200能根据肿瘤细胞上异质性的抗原表达调整特异性，与标准单特异性ADCs或模板双特异性ADC相比，显示出更高的疗效和克服耐药的能力。phase 1研究将评估安全性、耐受性、药代动力学和初步疗效。"
+                "x": "AITRICS于12日发表正式立场，反驳违反告示的说法。该公司称，根据食品药品安全处的许可事项，5项生命体征至少需要一次实测数据，但血氧饱和度、11项血液检查结果和意识状态评分可通过缺失值插补来计算风险评分。公司表示：“对没有测量值的项目，用前一次测量值或正常范围中位数进行插补，从而输入并分析全部19项。”"
+              },
+              {
+                "t": "p",
+                "x": "该公司还以相关不当得利返还诉讼一审中乌山市法院和蔚山地方法院驳回原告请求为依据，要求保健福祉部将告示中的使用方法调整为与食品药品安全处许可事项一致。VitalCare在经历新医疗技术评估暂缓期后，目前正在接受正式评估。"
               }
             ]
           }
         },
         "es": {
-          "headline": "FDA autoriza el ADC AI-designed\nBD200 para ensayos en humanos",
-          "body": "La FDA autorizó el ADC AI-designed BD200 de Biolojic Design; su Phase 1 global empezará en semanas.",
-          "mini_headline": "Un ADC AI-designed llega a ensayos",
+          "headline": "NECA revisa 171 hospitales\nsobre mediciones de VitalCare",
+          "body": "NECA envió cartas a 171 hospitales que usan VitalCare para preguntar si se midieron realmente los 19 datos.",
+          "mini_headline": "NECA audita VitalCare",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/0vv8moc6/biopharn/29f1e6f63b2a5a331dd153d454f6879a0aa8733b-1280x720.jpg?w=1200&fit=max&q=75&fm=jpg"
+                "src": "https://medigatenews.com/file/news/542817",
+                "cap": "Carta de encuesta escrita que los hospitales deben responder a NECA antes del 19 de noviembre. Fuente: aportada por un lector"
               },
               {
                 "t": "p",
-                "x": "La FDA autorizó la solicitud de nuevo fármaco en investigación (Investigational New Drug, IND) de Biolojic Design para BD200, un conjugado anticuerpo-fármaco (ADC) biespecífico diseñado con IA (AI-designed) dirigido a Trop2 y Nectin-4, que la compañía describe como el primer “multibody” en entrar en ensayos clínicos. La autorización permite a Biolojic iniciar un estudio global de phase 1 en pacientes con determinados tumores sólidos que expresan ambos antígenos; el CEO Yanay Ofran dijo que la empresa prevé comenzar el estudio en las próximas semanas."
+                "x": "La Agencia Nacional de Colaboración en Salud Basada en la Evidencia de Corea (NECA) envió cartas de encuesta escrita a 171 hospitales que usaron tecnología relacionada con VitalCare, una inteligencia artificial (AI) que predice el deterioro de los pacientes, lo que ha generado confusión en el ámbito médico. Es una encuesta de seguimiento tras las críticas de la auditoría parlamentaria, y pide confirmar con 'sí' o 'no' si cada uno de los 19 datos de entrada se midió realmente al menos una vez durante la hospitalización de cada paciente incluido."
               },
               {
                 "t": "p",
-                "x": "En BD200, cada brazo puede unirse a Nectin-4 o a Trop2, de modo que la molécula puede unirse a Nectin-4 con ambos brazos, a Trop2 con ambos brazos o a uno de cada uno. El diseño busca que el fármaco adapte su unión a la combinación de antígenos expresados en las células tumorales de cada paciente. BD200 lleva una carga útil de inhibidor de la topoisomerasa unida mediante lo que la compañía describe como un enlazador único."
+                "x": "El diputado Kwon Chil-seung, del Partido Democrático, cuestionó el cumplimiento de la normativa en la auditoría parlamentaria del 7 de octubre. En la respuesta que presentó un hospital, de un total de 5042 días de uso, los 19 elementos estuvieron presentes solo en 73 días, alrededor del 1.5%."
               },
               {
                 "t": "p",
-                "x": "Biolojic usa inteligencia artificial y diseño computacional para convertir anticuerpos en candidatos a fármacos. Su plataforma dio origen a imneskibart (antes AU-007), que según la empresa fue el primer anticuerpo diseñado con IA (AI-designed) en llegar a la clínica y ahora está en ensayos de Phase 2."
+                "x": "NECA envió la carta el 4 de noviembre a petición del Ministerio de Salud y Bienestar. La encuesta se realiza del 11 al 19 de noviembre, y los hospitales deben presentar su uso entre marzo de 2023 y septiembre de 2026, si obtuvieron el consentimiento de los pacientes y los materiales informativos del proveedor. El envío de la carta no implica por sí mismo que se haya confirmado una infracción."
+              },
+              {
+                "t": "img",
+                "src": "https://medigatenews.com/file/news/542829"
               },
               {
                 "t": "p",
-                "x": "En estudios preclínicos, BD200 adaptó su especificidad a la expresión heterogénea de antígenos en las células tumorales y mostró mayor eficacia y capacidad para superar la resistencia frente a ADCs monoespecíficos estándar o un ADC biespecífico de referencia, según la compañía. El estudio de phase 1 evaluará la seguridad, la tolerabilidad, la farmacocinética y la eficacia preliminar."
+                "x": "AITRICS emitió un comunicado oficial el día 12 en el que rechazó la acusación de incumplir la normativa. Según la autorización del Ministerio de Seguridad de Alimentos y Medicamentos, 5 signos vitales requieren al menos una medición real, pero la saturación de oxígeno, 11 resultados de análisis de sangre y la puntuación del nivel de conciencia se completan mediante imputación de valores faltantes para calcular la puntuación de riesgo. \"Los elementos sin valor medido se completan con la medición anterior o con la mediana del rango normal, de modo que se introducen y analizan los 19\", afirmó la empresa."
+              },
+              {
+                "t": "p",
+                "x": "La empresa también citó que, en primera instancia de las demandas relacionadas de restitución por enriquecimiento injusto, el Tribunal Municipal de Osan y el Tribunal de Distrito de Ulsan desestimaron las pretensiones de los demandantes, y pidió al Ministerio de Salud y Bienestar que ajuste el método de uso de la normativa a la autorización del Ministerio de Seguridad de Alimentos y Medicamentos. VitalCare pasó por un periodo de aplazamiento de la evaluación de nuevas tecnologías sanitarias y ahora está en la evaluación principal."
               }
             ]
           }
@@ -315,195 +405,189 @@
       }
     },
     {
-      "id": "nhs-rcr-ai-diagnostic-monitoring",
+      "id": "monument-openevidence-block",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "NHS, AI 진단 도구\n배포 후 감시법 찾는다",
-      "body": "NHS가 £200k 규모 AI 진단 도구 감시 사업을 영국왕립영상의학회에 맡겼다.",
-      "mini_headline": "NHS, 배포 후 AI 감시",
+      "headline": "의사용 AI 챗봇에\n병원 대응 엇갈려",
+      "body": "OpenEvidence를 막자 환자 기록 100건 넘게 넣은 의사가 반발했다.",
+      "mini_headline": "의사 AI 챗봇, 병원 대응 갈려",
       "tool": "Medicine",
-      "source": "PublicTechnology",
-      "url": "https://www.publictechnology.net/2026/11/13/health-and-social-care/nhs-launches-200k-project-to-shape-how-safety-and-performance-of-ai-diagnostic-tools-are-monitored/",
-      "accent": "#3b6bff",
+      "source": "STAT",
+      "url": "https://www.statnews.com/2026/11/05/doctors-use-ai-chatbots-hipaa-compliance-questions/",
+      "accent": "#0070f3",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.publictechnology.net/wp-content/uploads/2024/11/hospital.jpg",
-            "cap": "Credit: Crown Copyright/Open Government Licence v3.0"
+            "src": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_305233727-1024x576.jpeg"
           },
           {
             "t": "p",
-            "x": "NHS가 여섯 자리 금액 규모 사업의 세부 내용을 공개했다. 임상 진단을 돕는 인공지능의 성능과 안전성을 어떻게 모니터링할지 전문가들이 방법을 찾는 사업이다."
+            "x": "일부 병원은 규정 준수 위험이 있는 도구를 막고, 다른 병원은 직접 들여온다."
           },
           {
             "t": "p",
-            "x": "NHS England는 11월 26일 Royal College of Radiologists(RCR)와 다섯 달짜리 계약을 맺을 계획이다. 조달 공고는 “RCR이 NHS 내 AI 진단 도구에 대한 국가 차원의 배포 후 모니터링(post-deployment monitoring, PDM)을 정하기 위한 탐색 사업을 수행[할 것]”이라고 밝혔다. 진단 전반에 필요한 국가 PDM 요건을 짚고, 필요하면 솔루션/플랫폼을 조달할 잠재적 기회도 파악한다는 설명이다."
+            "x": "South Dakota와 Wyoming에 거점을 둔 의료 시스템 Monument Health는 올해 초 인기 무료 인공지능 도구 OpenEvidence 접근을 막기로 했다. 최고정보책임자 Patrick Woodard에게는 반대 의견이 몇 건 들어왔다."
           },
           {
             "t": "p",
-            "x": "사업이 다루는 핵심 과제는 실제 환경에서 성능을 계속 모니터링할 필요성, 모델 드리프트 식별, 잠재적 불평등 평가 등이다. 편향이나 그 밖의 불공정한 결과가 생길 잠재적 위험도 RCR이 검토한다. 계약 금액은 VAT 포함 £230,000에 가깝다."
+            "x": "헤비 유저인 한 의사도 그중 하나였다. 이 의사는 OpenEvidence에 환자 기록을 백 건 넘게 저장해 두고, 진료 결정에 참고하려고 AI 도구에 입력해 왔다. Woodard는 그만두라고 했다."
           },
           {
             "t": "p",
-            "x": "AI 진단 도구는 보건 서비스 전반, 특히 암 검진에서 갈수록 널리 쓰인다. 정부는 올여름 AI가 이미 사백만 명의 폐암 검진을 앞당겼다고 밝혔다."
+            "x": "OpenEvidence, Doximity Ask, ChatGPT for Clinicians처럼 임상의 질문에 답하도록 만든 무료 챗봇은 지난 한 해 사이 인기가 부쩍 높아졌다. 수십만 명의 의사가 쓰는데, HIPAA 준수를 내세운 점도 한몫했다. 사용자는 계약서에 서명하면 환자의 보호 대상 건강 정보를 AI와 곧바로 공유할 수 있다. (기사의 나머지는 STAT+ 유료 영역이다.)"
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "NHS studies how to monitor\nAI diagnostics after rollout",
-          "body": "The NHS asked the Royal College of Radiologists to lead a £200k project on monitoring deployed AI diagnostic tools.",
-          "mini_headline": "NHS to watch deployed AI",
+          "headline": "Health systems split\non doctors' AI chatbots",
+          "body": "Monument Health blocked OpenEvidence, and one objecting doctor had stored over 100 patient records in it.",
+          "mini_headline": "Hospitals split on chatbots",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publictechnology.net/wp-content/uploads/2024/11/hospital.jpg",
-                "cap": "Credit: Crown Copyright/Open Government Licence v3.0"
+                "src": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_305233727-1024x576.jpeg"
               },
               {
                 "t": "p",
-                "x": "The NHS has revealed details of a six-figure project through which experts will seek to determine how to monitor the performance and safety of artificial intelligence used to support clinical diagnoses."
+                "x": "Some hospitals restrict access if tools present compliance risks. Others bring them in house."
               },
               {
                 "t": "p",
-                "x": "On 26 November, NHS England intends to enter into a five-month agreement with the Royal College of Radiologists (RCR). “RCR [will] undertake a discovery project to determine national post-deployment monitoring (PDM) of AI diagnostic tools in the NHS,” the procurement notice says, identifying the requirements for national PDM across diagnostics and potential opportunities regarding the procurement of a solution/platform if required."
+                "x": "Earlier this year, Monument Health, the South Dakota and Wyoming-based health system where Patrick Woodard is chief information officer, decided to block access to OpenEvidence, the popular free artificial intelligence tool, and Woodard got a few objections."
               },
               {
                 "t": "p",
-                "x": "The project will consider key challenges including the need for continuous monitoring of real-world performance, identification of model drift, and assessment of potential inequities. The RCR will also examine the potential risks of bias or other unfair outcomes. The contract is valued at almost £230,000, inclusive of VAT."
+                "x": "One of them was from a super user. This doctor was storing more than a hundred patient records inside OpenEvidence, and feeding them to the AI tool for help making medical decisions. That would have to end, Woodard told him."
               },
               {
                 "t": "p",
-                "x": "AI diagnostic tools have become increasingly widely used in the health service, particularly in cancer screening. This summer, the government announced AI has already expedited lung cancer screening for four million people."
+                "x": "In the last year, free chatbots built to answer clinician questions — including OpenEvidence, Doximity Ask, and ChatGPT for Clinicians — have grown in popularity. Hundreds of thousands of doctors use the tools, in part, because they claim to be compliant with HIPAA, allowing users to share a patient’s protected health information directly with the AI after signing an agreement. (The rest of the article is behind STAT+.)"
               }
             ]
           }
         },
         "ko": {
-          "headline": "NHS, AI 진단 도구\n배포 후 감시법 찾는다",
-          "body": "NHS가 £200k 규모 AI 진단 도구 감시 사업을 영국왕립영상의학회에 맡겼다.",
-          "mini_headline": "NHS, 배포 후 AI 감시",
+          "headline": "의사용 AI 챗봇에\n병원 대응 엇갈려",
+          "body": "OpenEvidence를 막자 환자 기록 100건 넘게 넣은 의사가 반발했다.",
+          "mini_headline": "의사 AI 챗봇, 병원 대응 갈려",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publictechnology.net/wp-content/uploads/2024/11/hospital.jpg",
-                "cap": "Credit: Crown Copyright/Open Government Licence v3.0"
+                "src": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_305233727-1024x576.jpeg"
               },
               {
                 "t": "p",
-                "x": "NHS가 여섯 자리 금액 규모 사업의 세부 내용을 공개했다. 임상 진단을 돕는 인공지능의 성능과 안전성을 어떻게 모니터링할지 전문가들이 방법을 찾는 사업이다."
+                "x": "일부 병원은 규정 준수 위험이 있는 도구를 막고, 다른 병원은 직접 들여온다."
               },
               {
                 "t": "p",
-                "x": "NHS England는 11월 26일 Royal College of Radiologists(RCR)와 다섯 달짜리 계약을 맺을 계획이다. 조달 공고는 “RCR이 NHS 내 AI 진단 도구에 대한 국가 차원의 배포 후 모니터링(post-deployment monitoring, PDM)을 정하기 위한 탐색 사업을 수행[할 것]”이라고 밝혔다. 진단 전반에 필요한 국가 PDM 요건을 짚고, 필요하면 솔루션/플랫폼을 조달할 잠재적 기회도 파악한다는 설명이다."
+                "x": "South Dakota와 Wyoming에 거점을 둔 의료 시스템 Monument Health는 올해 초 인기 무료 인공지능 도구 OpenEvidence 접근을 막기로 했다. 최고정보책임자 Patrick Woodard에게는 반대 의견이 몇 건 들어왔다."
               },
               {
                 "t": "p",
-                "x": "사업이 다루는 핵심 과제는 실제 환경에서 성능을 계속 모니터링할 필요성, 모델 드리프트 식별, 잠재적 불평등 평가 등이다. 편향이나 그 밖의 불공정한 결과가 생길 잠재적 위험도 RCR이 검토한다. 계약 금액은 VAT 포함 £230,000에 가깝다."
+                "x": "헤비 유저인 한 의사도 그중 하나였다. 이 의사는 OpenEvidence에 환자 기록을 백 건 넘게 저장해 두고, 진료 결정에 참고하려고 AI 도구에 입력해 왔다. Woodard는 그만두라고 했다."
               },
               {
                 "t": "p",
-                "x": "AI 진단 도구는 보건 서비스 전반, 특히 암 검진에서 갈수록 널리 쓰인다. 정부는 올여름 AI가 이미 사백만 명의 폐암 검진을 앞당겼다고 밝혔다."
+                "x": "OpenEvidence, Doximity Ask, ChatGPT for Clinicians처럼 임상의 질문에 답하도록 만든 무료 챗봇은 지난 한 해 사이 인기가 부쩍 높아졌다. 수십만 명의 의사가 쓰는데, HIPAA 준수를 내세운 점도 한몫했다. 사용자는 계약서에 서명하면 환자의 보호 대상 건강 정보를 AI와 곧바로 공유할 수 있다. (기사의 나머지는 STAT+ 유료 영역이다.)"
               }
             ]
           }
         },
         "ja": {
-          "headline": "NHS、AI診断の\n導入後監視を検討",
-          "body": "NHSは英王立放射線科医協会に、導入済みAI診断ツール監視の£200k 事業を託した。",
-          "mini_headline": "NHS、導入済みAIを監視へ",
+          "headline": "医師のAIチャットボット\n病院で対応分かれる",
+          "body": "OpenEvidence遮断に、患者記録100件超を入れた医師が反発した。",
+          "mini_headline": "医師AIチャット、病院で割れる",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publictechnology.net/wp-content/uploads/2024/11/hospital.jpg",
-                "cap": "Credit: Crown Copyright/Open Government Licence v3.0"
+                "src": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_305233727-1024x576.jpeg"
               },
               {
                 "t": "p",
-                "x": "NHSは、臨床診断を支援する人工知能の性能と安全性をどう監視するかを専門家が探る、六桁規模のプロジェクトの詳細を明らかにした。"
+                "x": "コンプライアンス上のリスクがあればアクセスを制限する病院がある。一方で、自前で導入する病院もある。"
               },
               {
                 "t": "p",
-                "x": "NHS Englandは11月26日、Royal College of Radiologists（RCR）と五か月間の契約を結ぶ予定だ。調達公告は「RCRは、NHSにおけるAI診断ツールの全国的な導入後モニタリング（post-deployment monitoring、PDM）を決めるための探索的プロジェクトを実施する」としており、診断分野全体での全国PDMの要件と、必要に応じたソリューション／プラットフォーム調達に関する潜在的な機会を特定する内容だという。"
+                "x": "今年初め、South DakotaとWyomingを拠点とする医療システムMonument Healthは、人気の無料人工知能ツールOpenEvidenceへのアクセスを遮断することを決めた。同組織の最高情報責任者であるPatrick Woodardのもとには、いくつかの反対意見が寄せられた。"
               },
               {
                 "t": "p",
-                "x": "プロジェクトでは、実環境での性能を継続的に監視する必要性、モデルドリフトの特定、潜在的な不公平の評価といった主要課題を検討する。RCRはバイアスやその他の不公正な結果が生じる潜在的リスクも調べる。契約額はVAT込みで£230,000 近くに上る。"
+                "x": "そのひとつはヘビーユーザーからだった。この医師はOpenEvidenceの中に百件を超える患者記録を保存し、医療上の判断の助けとしてAIツールに入力していた。それはやめなければならない、とWoodardは伝えた。"
               },
               {
                 "t": "p",
-                "x": "AI診断ツールは保健サービス、とりわけがん検診で利用が広がっている。政府は今夏、AIによってすでに四百万人の肺がん検診が迅速化されたと発表した。"
+                "x": "この一年で、OpenEvidence、Doximity Ask、ChatGPT for Cliniciansなど、臨床医の質問に答えるために作られた無料チャットボットの人気が高まった。数十万人の医師がこれらのツールを使っている。その一因は、各ツールがHIPAA準拠をうたい、契約に署名すれば患者の保護対象医療情報をAIと直接共有できるとしている点にある。(記事の続きはSTAT+の会員限定である。)"
               }
             ]
           }
         },
         "zh": {
-          "headline": "NHS研究如何监测\n已部署的AI诊断工具",
-          "body": "NHS委托英国皇家放射科医师学会牵头一项£200k 的已部署AI诊断工具监测项目。",
-          "mini_headline": "NHS将监测已部署的AI",
+          "headline": "医生用AI聊天机器人\n医疗系统态度分化",
+          "body": "Monument Health封禁OpenEvidence，有医生曾存入100多份病历。",
+          "mini_headline": "医院对AI聊天机器人分歧",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publictechnology.net/wp-content/uploads/2024/11/hospital.jpg",
-                "cap": "Credit: Crown Copyright/Open Government Licence v3.0"
+                "src": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_305233727-1024x576.jpeg"
               },
               {
                 "t": "p",
-                "x": "NHS公布了一个六位数金额项目的细节，专家将通过该项目探索如何监测用于辅助临床诊断的人工智能的性能与安全性。"
+                "x": "一些医院在工具存在合规风险时会限制访问，另一些则将其引入内部。"
               },
               {
                 "t": "p",
-                "x": "NHS England计划于11月26日与Royal College of Radiologists（RCR）签订为期五个月的协议。采购公告称：“RCR［将］开展一项探索性项目，以确定NHS中AI诊断工具的全国性部署后监测（post-deployment monitoring，PDM）。”公告还指出，该项目将明确诊断领域全国PDM的需求，以及在必要时采购解决方案/平台的潜在机会。"
+                "x": "今年早些时候，总部位于South Dakota和Wyoming的医疗系统Monument Health决定封禁热门免费人工智能工具OpenEvidence。该系统首席信息官Patrick Woodard随后收到了几条反对意见。"
               },
               {
                 "t": "p",
-                "x": "该项目将研究多项关键挑战，包括持续监测真实世界性能的必要性、识别模型漂移以及评估潜在的不公平问题。RCR还将审视偏见或其他不公平结果的潜在风险。合同金额含VAT接近£230,000。"
+                "x": "其中一条来自一位重度用户。这名医生在OpenEvidence中存储了一百多份患者病历，并把它们输入这款AI工具，以辅助医疗决策。Woodard告诉他，这种做法必须停止。"
               },
               {
                 "t": "p",
-                "x": "AI诊断工具在医疗服务中的应用日益广泛，尤其是在癌症筛查领域。今年夏天，政府宣布AI已为四百万人加快了肺癌筛查。"
+                "x": "过去一年里，专为回答临床医生问题而打造的免费聊天机器人越来越受欢迎，包括OpenEvidence、Doximity Ask和ChatGPT for Clinicians。数十万名医生在使用这些工具，部分原因是它们声称符合HIPAA，用户签署协议后即可将患者受保护的健康信息直接分享给AI。（文章其余部分为STAT+付费内容。）"
               }
             ]
           }
         },
         "es": {
-          "headline": "El NHS estudia cómo vigilar\nla IA diagnóstica ya desplegada",
-          "body": "El NHS encargó al Royal College of Radiologists un proyecto de £200k para vigilar la IA diagnóstica en uso.",
-          "mini_headline": "El NHS vigilará la IA desplegada",
+          "headline": "Hospitales divididos ante los\nchatbots de AI para médicos",
+          "body": "Monument Health bloqueó OpenEvidence, y un médico que se opuso guardaba en ella más de 100 historiales de pacientes.",
+          "mini_headline": "Hospitales divididos por chatbots",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publictechnology.net/wp-content/uploads/2024/11/hospital.jpg",
-                "cap": "Credit: Crown Copyright/Open Government Licence v3.0"
+                "src": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_305233727-1024x576.jpeg"
               },
               {
                 "t": "p",
-                "x": "El NHS ha dado a conocer los detalles de un proyecto de seis cifras con el que expertos buscarán determinar cómo vigilar el rendimiento y la seguridad de la inteligencia artificial que apoya los diagnósticos clínicos."
+                "x": "Algunos hospitales restringen el acceso si las herramientas suponen riesgos de cumplimiento normativo. Otros las incorporan internamente."
               },
               {
                 "t": "p",
-                "x": "El 26 de noviembre, NHS England prevé firmar un acuerdo de cinco meses con el Royal College of Radiologists (RCR). “El RCR [llevará] a cabo un proyecto exploratorio para determinar la monitorización nacional posterior al despliegue (post-deployment monitoring, PDM) de las herramientas de diagnóstico con AI en el NHS”, señala el anuncio de licitación, que identifica los requisitos de una PDM nacional en todo el ámbito diagnóstico y las posibles oportunidades de adquirir una solución/plataforma si fuera necesario."
+                "x": "A principios de este año, Monument Health, el sistema de salud con sede en South Dakota y Wyoming donde Patrick Woodard es director de sistemas de información, decidió bloquear el acceso a OpenEvidence, la popular herramienta gratuita de inteligencia artificial, y Woodard recibió algunas objeciones."
               },
               {
                 "t": "p",
-                "x": "El proyecto abordará retos clave como la necesidad de vigilar de forma continua el rendimiento en condiciones reales, la detección de la deriva de los modelos y la evaluación de posibles desigualdades. El RCR también examinará los riesgos potenciales de sesgo u otros resultados injustos. El contrato está valorado en casi £230,000, VAT incluido."
+                "x": "Una de ellas vino de un usuario intensivo. Este médico guardaba más de cien historiales de pacientes dentro de OpenEvidence y se los proporcionaba a la herramienta de AI para que lo ayudara a tomar decisiones médicas. Eso tendría que terminar, le dijo Woodard."
               },
               {
                 "t": "p",
-                "x": "Las herramientas de diagnóstico con IA se usan cada vez más en el servicio de salud, sobre todo en el cribado del cáncer. Este verano, el Gobierno anunció que la IA ya ha agilizado el cribado de cáncer de pulmón de cuatro millones de personas."
+                "x": "En el último año han ganado popularidad los chatbots gratuitos creados para responder preguntas de los clínicos, entre ellos OpenEvidence, Doximity Ask y ChatGPT for Clinicians. Cientos de miles de médicos usan estas herramientas, en parte porque afirman cumplir con HIPAA, lo que permite a los usuarios compartir la información de salud protegida de un paciente directamente con la AI tras firmar un acuerdo. (El resto del artículo está reservado a STAT+.)"
               }
             ]
           }
@@ -511,125 +595,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "NHS, AI 진단 도구\n배포 후 감시법 연구",
-          "body": "NHS가 영국왕립영상의학회에 £200k 규모의 AI 진단 도구 감시 사업을 맡겼다.",
-          "mini_headline": "NHS, 배포된 AI 감시",
+          "headline": "의사용 AI 챗봇 두고\n병원들 엇갈린 대응",
+          "body": "OpenEvidence 차단에 환자 기록 100건 넘게 넣은 의사가 반발했다.",
+          "mini_headline": "의사 AI 챗봇, 병원 대응 갈려",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publictechnology.net/wp-content/uploads/2024/11/hospital.jpg",
-                "cap": "Credit: Crown Copyright/Open Government Licence v3.0"
+                "src": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_305233727-1024x576.jpeg"
               },
               {
                 "t": "p",
-                "x": "NHS가 임상 진단을 돕는 인공지능의 성능과 안전성을 어떻게 모니터링할지 전문가들이 찾아 나서는 여섯 자리 금액 규모 사업의 세부 내용을 공개했다."
+                "x": "일부 병원은 도구에 규정 준수 위험이 있으면 접근을 막는다. 다른 병원은 이를 자체적으로 들여온다."
               },
               {
                 "t": "p",
-                "x": "NHS England는 11월 26일 Royal College of Radiologists(RCR)와 다섯 달 기간의 계약을 맺을 계획이다. 조달 공고는 “RCR이 NHS 내 AI 진단 도구에 대한 국가 차원의 배포 후 모니터링(post-deployment monitoring, PDM)을 정하기 위한 탐색 사업을 수행[할 것]”이라고 밝혔다. 공고는 진단 전반에 걸친 국가 PDM의 요건과, 필요할 경우 솔루션/플랫폼 조달과 관련한 잠재적 기회를 파악한다고 설명한다."
+                "x": "올해 초 South Dakota와 Wyoming에 기반을 둔 의료 시스템 Monument Health는 인기 있는 무료 인공지능 도구 OpenEvidence의 접근을 막기로 했다. 이곳의 최고정보책임자인 Patrick Woodard는 몇 건의 반대 의견을 받았다."
               },
               {
                 "t": "p",
-                "x": "사업은 실제 환경 성능의 지속적 모니터링 필요성, 모델 드리프트 식별, 잠재적 불평등 평가 같은 핵심 과제를 다룬다. RCR은 편향이나 그 밖의 불공정한 결과가 생길 잠재적 위험도 검토한다. 계약 금액은 VAT를 포함해 £230,000 가까이 된다."
+                "x": "그중 하나는 헤비 유저에게서 왔다. 이 의사는 OpenEvidence 안에 환자 기록을 백 건 넘게 저장해 두고, 진료 결정에 도움을 받으려고 이를 AI 도구에 입력하고 있었다. Woodard는 그에게 이를 그만둬야 한다고 말했다."
               },
               {
                 "t": "p",
-                "x": "AI 진단 도구는 보건 서비스 전반, 특히 암 검진에서 점점 더 널리 쓰이고 있다. 정부는 올여름 AI가 이미 사백만 명의 폐암 검진을 앞당겼다고 발표했다."
+                "x": "지난 한 해 동안 OpenEvidence, Doximity Ask, ChatGPT for Clinicians 등 임상의의 질문에 답하도록 만든 무료 챗봇의 인기가 높아졌다. 수십만 명의 의사가 이 도구를 쓰는데, 이 도구들이 HIPAA를 준수한다고 내세우는 점도 한 이유다. 사용자는 계약서에 서명한 뒤 환자의 보호 대상 건강 정보를 AI와 바로 공유할 수 있다. (기사의 나머지는 STAT+ 유료 영역이다.)"
               }
             ]
           }
         },
         "ja": {
-          "headline": "NHS、AI診断の\n導入後監視を検討",
-          "body": "NHSは英王立放射線科医協会に、導入済みAI診断ツール監視の£200k 事業を託した。",
-          "mini_headline": "NHS、導入済みAIを監視へ",
+          "headline": "医師のAIチャットボット\n病院で対応分かれる",
+          "body": "OpenEvidence遮断に、患者記録100件超を入れた医師が反発した。",
+          "mini_headline": "医師AIチャット、病院で割れる",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publictechnology.net/wp-content/uploads/2024/11/hospital.jpg",
-                "cap": "Credit: Crown Copyright/Open Government Licence v3.0"
+                "src": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_305233727-1024x576.jpeg"
               },
               {
                 "t": "p",
-                "x": "NHSは、臨床診断を支援する人工知能の性能と安全性をどう監視するかを専門家が探る、六桁規模のプロジェクトの詳細を明らかにした。"
+                "x": "コンプライアンス上のリスクがあればアクセスを制限する病院がある。一方で、自前で導入する病院もある。"
               },
               {
                 "t": "p",
-                "x": "NHS Englandは11月26日、Royal College of Radiologists（RCR）と五か月間の契約を結ぶ予定だ。調達公告は「RCRは、NHSにおけるAI診断ツールの全国的な導入後モニタリング（post-deployment monitoring、PDM）を決めるための探索的プロジェクトを実施する」としており、診断分野全体での全国PDMの要件と、必要に応じたソリューション／プラットフォーム調達に関する潜在的な機会を特定する内容だという。"
+                "x": "今年初め、South DakotaとWyomingを拠点とする医療システムMonument Healthは、人気の無料人工知能ツールOpenEvidenceへのアクセスを遮断することを決めた。同組織の最高情報責任者であるPatrick Woodardのもとには、いくつかの反対意見が寄せられた。"
               },
               {
                 "t": "p",
-                "x": "プロジェクトでは、実環境での性能を継続的に監視する必要性、モデルドリフトの特定、潜在的な不公平の評価といった主要課題を検討する。RCRはバイアスやその他の不公正な結果が生じる潜在的リスクも調べる。契約額はVAT込みで£230,000 近くに上る。"
+                "x": "そのひとつはヘビーユーザーからだった。この医師はOpenEvidenceの中に百件を超える患者記録を保存し、医療上の判断の助けとしてAIツールに入力していた。それはやめなければならない、とWoodardは伝えた。"
               },
               {
                 "t": "p",
-                "x": "AI診断ツールは保健サービス、とりわけがん検診で利用が広がっている。政府は今夏、AIによってすでに四百万人の肺がん検診が迅速化されたと発表した。"
+                "x": "この一年で、OpenEvidence、Doximity Ask、ChatGPT for Cliniciansなど、臨床医の質問に答えるために作られた無料チャットボットの人気が高まった。数十万人の医師がこれらのツールを使っている。その一因は、各ツールがHIPAA準拠をうたい、契約に署名すれば患者の保護対象医療情報をAIと直接共有できるとしている点にある。(記事の続きはSTAT+の会員限定である。)"
               }
             ]
           }
         },
         "zh": {
-          "headline": "NHS研究如何监测\n已部署的AI诊断工具",
-          "body": "NHS委托英国皇家放射科医师学会牵头一项£200k 的已部署AI诊断工具监测项目。",
-          "mini_headline": "NHS将监测已部署的AI",
+          "headline": "医生用AI聊天机器人\n医疗系统态度分化",
+          "body": "Monument Health封禁OpenEvidence，有医生曾存入100多份病历。",
+          "mini_headline": "医院对AI聊天机器人分歧",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publictechnology.net/wp-content/uploads/2024/11/hospital.jpg",
-                "cap": "Credit: Crown Copyright/Open Government Licence v3.0"
+                "src": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_305233727-1024x576.jpeg"
               },
               {
                 "t": "p",
-                "x": "NHS公布了一个六位数金额项目的细节，专家将通过该项目探索如何监测用于辅助临床诊断的人工智能的性能与安全性。"
+                "x": "一些医院在工具存在合规风险时会限制访问，另一些则将其引入内部。"
               },
               {
                 "t": "p",
-                "x": "NHS England计划于11月26日与Royal College of Radiologists（RCR）签订为期五个月的协议。采购公告称：“RCR［将］开展一项探索性项目，以确定NHS中AI诊断工具的全国性部署后监测（post-deployment monitoring，PDM）。”公告还指出，该项目将明确诊断领域全国PDM的需求，以及在必要时采购解决方案/平台的潜在机会。"
+                "x": "今年早些时候，总部位于South Dakota和Wyoming的医疗系统Monument Health决定封禁热门免费人工智能工具OpenEvidence。该系统首席信息官Patrick Woodard随后收到了几条反对意见。"
               },
               {
                 "t": "p",
-                "x": "该项目将研究多项关键挑战，包括持续监测真实世界性能的必要性、识别模型漂移以及评估潜在的不公平问题。RCR还将审视偏见或其他不公平结果的潜在风险。合同金额含VAT接近£230,000。"
+                "x": "其中一条来自一位重度用户。这名医生在OpenEvidence中存储了一百多份患者病历，并把它们输入这款AI工具，以辅助医疗决策。Woodard告诉他，这种做法必须停止。"
               },
               {
                 "t": "p",
-                "x": "AI诊断工具在医疗服务中的应用日益广泛，尤其是在癌症筛查领域。今年夏天，政府宣布AI已为四百万人加快了肺癌筛查。"
+                "x": "过去一年里，专为回答临床医生问题而打造的免费聊天机器人越来越受欢迎，包括OpenEvidence、Doximity Ask和ChatGPT for Clinicians。数十万名医生在使用这些工具，部分原因是它们声称符合HIPAA，用户签署协议后即可将患者受保护的健康信息直接分享给AI。（文章其余部分为STAT+付费内容。）"
               }
             ]
           }
         },
         "es": {
-          "headline": "El NHS estudia cómo vigilar\nla IA diagnóstica ya desplegada",
-          "body": "El NHS encargó al Royal College of Radiologists un proyecto de £200k para vigilar la IA diagnóstica en uso.",
-          "mini_headline": "El NHS vigilará la IA desplegada",
+          "headline": "Hospitales divididos ante los\nchatbots de AI para médicos",
+          "body": "Monument Health bloqueó OpenEvidence, y un médico que se opuso guardaba en ella más de 100 historiales de pacientes.",
+          "mini_headline": "Hospitales divididos por chatbots",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publictechnology.net/wp-content/uploads/2024/11/hospital.jpg",
-                "cap": "Credit: Crown Copyright/Open Government Licence v3.0"
+                "src": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_305233727-1024x576.jpeg"
               },
               {
                 "t": "p",
-                "x": "El NHS ha dado a conocer los detalles de un proyecto de seis cifras con el que expertos buscarán determinar cómo vigilar el rendimiento y la seguridad de la inteligencia artificial que apoya los diagnósticos clínicos."
+                "x": "Algunos hospitales restringen el acceso si las herramientas suponen riesgos de cumplimiento normativo. Otros las incorporan internamente."
               },
               {
                 "t": "p",
-                "x": "El 26 de noviembre, NHS England prevé firmar un acuerdo de cinco meses con el Royal College of Radiologists (RCR). “El RCR [llevará] a cabo un proyecto exploratorio para determinar la monitorización nacional posterior al despliegue (post-deployment monitoring, PDM) de las herramientas de diagnóstico con AI en el NHS”, señala el anuncio de licitación, que identifica los requisitos de una PDM nacional en todo el ámbito diagnóstico y las posibles oportunidades de adquirir una solución/plataforma si fuera necesario."
+                "x": "A principios de este año, Monument Health, el sistema de salud con sede en South Dakota y Wyoming donde Patrick Woodard es director de sistemas de información, decidió bloquear el acceso a OpenEvidence, la popular herramienta gratuita de inteligencia artificial, y Woodard recibió algunas objeciones."
               },
               {
                 "t": "p",
-                "x": "El proyecto abordará retos clave como la necesidad de vigilar de forma continua el rendimiento en condiciones reales, la detección de la deriva de los modelos y la evaluación de posibles desigualdades. El RCR también examinará los riesgos potenciales de sesgo u otros resultados injustos. El contrato está valorado en casi £230,000, VAT incluido."
+                "x": "Una de ellas vino de un usuario intensivo. Este médico guardaba más de cien historiales de pacientes dentro de OpenEvidence y se los proporcionaba a la herramienta de AI para que lo ayudara a tomar decisiones médicas. Eso tendría que terminar, le dijo Woodard."
               },
               {
                 "t": "p",
-                "x": "Las herramientas de diagnóstico con IA se usan cada vez más en el servicio de salud, sobre todo en el cribado del cáncer. Este verano, el Gobierno anunció que la IA ya ha agilizado el cribado de cáncer de pulmón de cuatro millones de personas."
+                "x": "En el último año han ganado popularidad los chatbots gratuitos creados para responder preguntas de los clínicos, entre ellos OpenEvidence, Doximity Ask y ChatGPT for Clinicians. Cientos de miles de médicos usan estas herramientas, en parte porque afirman cumplir con HIPAA, lo que permite a los usuarios compartir la información de salud protegida de un paciente directamente con la AI tras firmar un acuerdo. (El resto del artículo está reservado a STAT+.)"
               }
             ]
           }
@@ -637,593 +717,421 @@
       }
     },
     {
-      "id": "amc-fh-kidney-cancer-ai",
-      "source_lang": "en",
+      "id": "neardoc-ai-charting-clinics",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "희귀 신장암 잡는 AI\n과의존 위험도 드러나",
-      "body": "AI로 정확도는 60.0%→73.3%로 올랐지만 수용형은 오류 80%를 따랐다.",
-      "mini_headline": "희귀 신장암 진단 돕는 AI",
+      "headline": "AI 차팅 니어닥\n정신과·소청과 호평",
+      "body": "니어닥은 진료 대화로 SOAP 기록을 실시간 작성해 차팅 시간을 1분대로 줄였다.",
+      "mini_headline": "니어닥 AI 차팅 호평",
       "tool": "Medicine",
-      "source": "Korea Biomedical Review",
-      "url": "https://www.koreabiomed.com/news/articleView.html?idxno=33846",
-      "accent": "#7928ca",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "Asan Medical Center(AMC)는 목요일 융합의학과 Kim Nam-kug 교수와 병리과 Cho Yong-mee 교수 연구팀이 푸마르산 수화효소 결핍 신세포암(FHdRCC)을 찾아내는 딥러닝 도구를 개발하고, 의사 21명을 대상으로 실제 사용을 평가했다고 밝혔다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.koreabiomed.com/news/photo/202611/33846_37014_5655.jpg",
-            "cap": "Kim Nam-kug 교수(왼쪽)와 Cho Yong-mee 교수 (사진 제공: AMC)"
-          },
-          {
-            "t": "p",
-            "x": "FHdRCC는 신장암의 0.4% 미만을 차지하지만 진행이 빠르고, 현미경으로는 다른 신장암과 비슷해 보이기도 한다. 도구는 디지털 병리 슬라이드 335장으로 개발했으며 내부 검증에서 AUC 0.954, 두 차례 외부 평가에서 0.820과 0.867을 기록했다."
-          },
-          {
-            "t": "p",
-            "x": "병리과 전문의와 전공의 등 의사 21명이 진단이 까다로운 증례 30건을 판독했다. AI 도움을 받자 진단 정확도는 60.0%에서 73.3%로 유의하게 올랐고, 병리의사 간 일치도는 0.311에서 0.482로 높아졌다. 판독 시간은 유의하게 늘지 않았다."
-          },
-          {
-            "t": "p",
-            "x": "도구의 제안을 쉽게 받아들인 수용형 그룹은 정확도가 더 많이 올랐지만 잘못된 권고까지 80% 비율로 따랐다. 저항형 그룹은 60%였다. 이 차이는 임상 경력이나 세부 전공과 상관이 없었다. Kim 교수는 “AI를 효과적으로 쓰는 것은 그 자체로 하나의 기술”이라고 말했다. 연구는 npj Digital Medicine에 실렸다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "AI aids rare kidney cancer\ndiagnosis, with a reliance risk",
-          "body": "Asan Medical Center's AI lifted doctors' accuracy from 60.0% to 73.3%, yet receptive users accepted 80% of its errors.",
-          "mini_headline": "AI aids rare kidney diagnosis",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Asan Medical Center (AMC) said Thursday that a team led by Professors Kim Nam-kug of the Department of Convergence Medicine and Cho Yong-mee of the Department of Pathology developed a deep learning tool to detect fumarate hydratase-deficient renal cell carcinoma (FHdRCC) and evaluated its use by 21 physicians."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.koreabiomed.com/news/photo/202611/33846_37014_5655.jpg",
-                "cap": "Professors Kim Nam-kug (left) and Cho Yong-mee (Courtesy of AMC)"
-              },
-              {
-                "t": "p",
-                "x": "FHdRCC accounts for less than 0.4 percent of kidney cancers, progresses rapidly and can resemble other kidney cancers under a microscope. Developed with 335 digital pathology slides, the tool reached an AUC of 0.954 in internal testing and 0.820 and 0.867 in two external evaluations."
-              },
-              {
-                "t": "p",
-                "x": "The 21 physicians, including attending pathologists and pathology residents, reviewed 30 diagnostically challenging cases. With AI assistance, diagnostic accuracy rose significantly from 60.0 percent to 73.3 percent, and agreement among pathologists rose from 0.311 to 0.482, with no significant increase in reading time."
-              },
-              {
-                "t": "p",
-                "x": "Physicians in a receptive group that readily accepted the tool's suggestions improved their accuracy more, but accepted incorrect recommendations 80 percent of the time, compared with 60 percent in the resistant group. The differences were not associated with clinical experience or subspecialty. “Using AI effectively is a skill in its own right,” Professor Kim said. The study was published in npj Digital Medicine."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "희귀 신장암 잡는 AI\n과의존 위험도 드러나",
-          "body": "AI로 정확도는 60.0%→73.3%로 올랐지만 수용형은 오류 80%를 따랐다.",
-          "mini_headline": "희귀 신장암 진단 돕는 AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Asan Medical Center(AMC)는 목요일 융합의학과 Kim Nam-kug 교수와 병리과 Cho Yong-mee 교수 연구팀이 푸마르산 수화효소 결핍 신세포암(FHdRCC)을 찾아내는 딥러닝 도구를 개발하고, 의사 21명을 대상으로 실제 사용을 평가했다고 밝혔다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.koreabiomed.com/news/photo/202611/33846_37014_5655.jpg",
-                "cap": "Kim Nam-kug 교수(왼쪽)와 Cho Yong-mee 교수 (사진 제공: AMC)"
-              },
-              {
-                "t": "p",
-                "x": "FHdRCC는 신장암의 0.4% 미만을 차지하지만 진행이 빠르고, 현미경으로는 다른 신장암과 비슷해 보이기도 한다. 도구는 디지털 병리 슬라이드 335장으로 개발했으며 내부 검증에서 AUC 0.954, 두 차례 외부 평가에서 0.820과 0.867을 기록했다."
-              },
-              {
-                "t": "p",
-                "x": "병리과 전문의와 전공의 등 의사 21명이 진단이 까다로운 증례 30건을 판독했다. AI 도움을 받자 진단 정확도는 60.0%에서 73.3%로 유의하게 올랐고, 병리의사 간 일치도는 0.311에서 0.482로 높아졌다. 판독 시간은 유의하게 늘지 않았다."
-              },
-              {
-                "t": "p",
-                "x": "도구의 제안을 쉽게 받아들인 수용형 그룹은 정확도가 더 많이 올랐지만 잘못된 권고까지 80% 비율로 따랐다. 저항형 그룹은 60%였다. 이 차이는 임상 경력이나 세부 전공과 상관이 없었다. Kim 교수는 “AI를 효과적으로 쓰는 것은 그 자체로 하나의 기술”이라고 말했다. 연구는 npj Digital Medicine에 실렸다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AIが希少な腎がん診断を\n支援、依存リスクも",
-          "body": "AIで正診率は60.0%から73.3%に上昇したが、受容的な医師は誤りの80%を受け入れた。",
-          "mini_headline": "AIが希少腎がんの診断を支援",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Asan Medical Center（AMC）は木曜日、融合医学科のKim Nam-kug教授と病理科のCho Yong-mee教授が率いるチームが、フマル酸ヒドラターゼ欠損腎細胞がん（FHdRCC）を検出するディープラーニングツールを開発し、医師21人による使用を評価したと発表した。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.koreabiomed.com/news/photo/202611/33846_37014_5655.jpg",
-                "cap": "Kim Nam-kug教授（左）とCho Yong-mee教授（写真提供：AMC）"
-              },
-              {
-                "t": "p",
-                "x": "FHdRCCは腎がんの0.4%未満を占め、進行が速く、顕微鏡下では他の腎がんと似て見えることがある。335枚のデジタル病理スライドで開発されたこのツールは、内部検証でAUC 0.954、2つの外部評価で0.820と0.867を達成した。"
-              },
-              {
-                "t": "p",
-                "x": "病理専門医と病理専攻医を含む医師21人が、診断の難しい30症例を読影した。AIの支援により診断の正診率は60.0%から73.3%へ有意に上昇し、病理医間の一致度は0.311から0.482に高まった。読影時間に有意な増加はなかった。"
-              },
-              {
-                "t": "p",
-                "x": "ツールの提案を受け入れやすい受容的なグループの医師は正診率の向上幅が大きかったが、誤った推奨を受け入れた割合は80%に達し、抵抗的なグループの60%を上回った。この差は臨床経験やサブスペシャルティとは関連しなかった。Kim教授は「AIを効果的に使うこと自体が一つのスキルだ」と述べた。研究はnpj Digital Medicineに掲載された。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "AI助力罕见肾癌诊断\n但存在依赖风险",
-          "body": "峨山医院的AI将医生准确率从60.0%提至73.3%，但接受型用户采纳了80%的错误。",
-          "mini_headline": "AI助力罕见肾癌诊断",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Asan Medical Center（AMC）周四表示，由融合医学科Kim Nam-kug教授和病理科Cho Yong-mee教授领导的团队开发了一款用于检测延胡索酸水合酶缺陷型肾细胞癌（FHdRCC）的深度学习工具，并评估了21名医生对该工具的使用情况。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.koreabiomed.com/news/photo/202611/33846_37014_5655.jpg",
-                "cap": "Kim Nam-kug教授（左）与Cho Yong-mee教授（图片由AMC提供）"
-              },
-              {
-                "t": "p",
-                "x": "FHdRCC在肾癌中占比不到0.4%，进展迅速，在显微镜下可能与其他肾癌相似。该工具基于335张数字病理切片开发，内部测试的AUC为0.954，两项外部评估分别为0.820和0.867。"
-              },
-              {
-                "t": "p",
-                "x": "包括病理主治医师和病理住院医师在内的21名医生审阅了30例诊断难度较大的病例。在AI辅助下，诊断准确率从60.0%显著提升至73.3%，病理医生之间的一致性从0.311升至0.482，阅片时间没有显著增加。"
-              },
-              {
-                "t": "p",
-                "x": "在乐于采纳工具建议的接受型组中，医生的准确率提升更大，但他们采纳错误建议的比例达80%，而抗拒型组为60%。这些差异与临床经验或亚专科无关。Kim教授说：“有效使用AI本身就是一项技能。”该研究发表于npj Digital Medicine。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "IA para un cáncer renal raro,\ncon riesgo de dependencia",
-          "body": "La IA de Asan Medical Center subió la precisión del 60.0% al 73.3%, pero los receptivos aceptaron el 80% de sus fallos.",
-          "mini_headline": "La IA ayuda a diagnosticar un cáncer renal raro",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Asan Medical Center (AMC) informó el jueves que un equipo dirigido por los profesores Kim Nam-kug, del Departamento de Medicina de Convergencia, y Cho Yong-mee, del Departamento de Patología, desarrolló una herramienta de aprendizaje profundo para detectar el carcinoma de células renales con deficiencia de fumarato hidratasa (FHdRCC) y evaluó su uso por parte de 21 médicos."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.koreabiomed.com/news/photo/202611/33846_37014_5655.jpg",
-                "cap": "Los profesores Kim Nam-kug (izquierda) y Cho Yong-mee (Cortesía de AMC)"
-              },
-              {
-                "t": "p",
-                "x": "El FHdRCC representa menos del 0.4% de los cánceres de riñón, avanza con rapidez y al microscopio puede parecerse a otros cánceres renales. Desarrollada con 335 preparaciones de patología digital, la herramienta alcanzó un AUC de 0.954 en las pruebas internas y de 0.820 y 0.867 en dos evaluaciones externas."
-              },
-              {
-                "t": "p",
-                "x": "Los 21 médicos, entre ellos patólogos adjuntos y residentes de patología, revisaron 30 casos de diagnóstico difícil. Con ayuda de la IA, la precisión diagnóstica subió de forma significativa del 60.0% al 73.3%, y la concordancia entre patólogos pasó de 0.311 a 0.482, sin un aumento significativo del tiempo de lectura."
-              },
-              {
-                "t": "p",
-                "x": "Los médicos de un grupo receptivo, que aceptaba con facilidad las sugerencias de la herramienta, mejoraron más su precisión, pero aceptaron recomendaciones incorrectas el 80% de las veces, frente al 60% del grupo reacio. Las diferencias no se asociaron con la experiencia clínica ni con la subespecialidad. “Usar la IA con eficacia es una habilidad en sí misma”, dijo el profesor Kim. El estudio se publicó en npj Digital Medicine."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "AI가 돕는 희귀 신장암\n진단, 과의존 위험도",
-          "body": "AI로 정확도가 60.0%→73.3%로 올랐으나 수용형은 오류 80%를 따랐다.",
-          "mini_headline": "희귀 신장암 진단 돕는 AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Asan Medical Center(AMC)는 목요일, 융합의학과 Kim Nam-kug 교수와 병리과 Cho Yong-mee 교수가 이끄는 연구팀이 푸마르산 수화효소 결핍 신세포암(FHdRCC)을 찾아내는 딥러닝 도구를 개발하고 의사 21명의 사용을 평가했다고 밝혔다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.koreabiomed.com/news/photo/202611/33846_37014_5655.jpg",
-                "cap": "Kim Nam-kug 교수(왼쪽)와 Cho Yong-mee 교수 (사진 제공: AMC)"
-              },
-              {
-                "t": "p",
-                "x": "FHdRCC는 신장암의 0.4% 미만을 차지하며 빠르게 진행하고, 현미경으로 보면 다른 신장암과 비슷해 보일 수 있다. 디지털 병리 슬라이드 335장으로 개발한 이 도구는 내부 검증에서 AUC 0.954, 두 차례 외부 평가에서 0.820과 0.867을 기록했다."
-              },
-              {
-                "t": "p",
-                "x": "병리과 전문의와 전공의를 포함한 의사 21명이 진단이 까다로운 증례 30건을 판독했다. AI의 도움을 받자 진단 정확도는 60.0%에서 73.3%로 유의하게 올랐고, 병리의 간 일치도는 0.311에서 0.482로 높아졌다. 판독 시간은 유의하게 늘지 않았다."
-              },
-              {
-                "t": "p",
-                "x": "도구의 제안을 쉽게 받아들인 수용형 그룹은 정확도가 더 크게 올랐지만, 잘못된 권고도 80%의 비율로 받아들였다. 저항형 그룹은 60%였다. 이 차이는 임상 경력이나 세부 전공과 관련이 없었다. Kim 교수는 “AI를 효과적으로 쓰는 것은 그 자체로 하나의 기술”이라고 말했다. 연구는 npj Digital Medicine에 실렸다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AIが希少な腎がん診断を\n支援、依存リスクも",
-          "body": "AIで正診率は60.0%から73.3%に上昇したが、受容的な医師は誤りの80%を受け入れた。",
-          "mini_headline": "AIが希少腎がんの診断を支援",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Asan Medical Center（AMC）は木曜日、融合医学科のKim Nam-kug教授と病理科のCho Yong-mee教授が率いるチームが、フマル酸ヒドラターゼ欠損腎細胞がん（FHdRCC）を検出するディープラーニングツールを開発し、医師21人による使用を評価したと発表した。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.koreabiomed.com/news/photo/202611/33846_37014_5655.jpg",
-                "cap": "Kim Nam-kug教授（左）とCho Yong-mee教授（写真提供：AMC）"
-              },
-              {
-                "t": "p",
-                "x": "FHdRCCは腎がんの0.4%未満を占め、進行が速く、顕微鏡下では他の腎がんと似て見えることがある。335枚のデジタル病理スライドで開発されたこのツールは、内部検証でAUC 0.954、2つの外部評価で0.820と0.867を達成した。"
-              },
-              {
-                "t": "p",
-                "x": "病理専門医と病理専攻医を含む医師21人が、診断の難しい30症例を読影した。AIの支援により診断の正診率は60.0%から73.3%へ有意に上昇し、病理医間の一致度は0.311から0.482に高まった。読影時間に有意な増加はなかった。"
-              },
-              {
-                "t": "p",
-                "x": "ツールの提案を受け入れやすい受容的なグループの医師は正診率の向上幅が大きかったが、誤った推奨を受け入れた割合は80%に達し、抵抗的なグループの60%を上回った。この差は臨床経験やサブスペシャルティとは関連しなかった。Kim教授は「AIを効果的に使うこと自体が一つのスキルだ」と述べた。研究はnpj Digital Medicineに掲載された。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "AI助力罕见肾癌诊断\n但存在依赖风险",
-          "body": "峨山医院的AI将医生准确率从60.0%提至73.3%，但接受型用户采纳了80%的错误。",
-          "mini_headline": "AI助力罕见肾癌诊断",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Asan Medical Center（AMC）周四表示，由融合医学科Kim Nam-kug教授和病理科Cho Yong-mee教授领导的团队开发了一款用于检测延胡索酸水合酶缺陷型肾细胞癌（FHdRCC）的深度学习工具，并评估了21名医生对该工具的使用情况。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.koreabiomed.com/news/photo/202611/33846_37014_5655.jpg",
-                "cap": "Kim Nam-kug教授（左）与Cho Yong-mee教授（图片由AMC提供）"
-              },
-              {
-                "t": "p",
-                "x": "FHdRCC在肾癌中占比不到0.4%，进展迅速，在显微镜下可能与其他肾癌相似。该工具基于335张数字病理切片开发，内部测试的AUC为0.954，两项外部评估分别为0.820和0.867。"
-              },
-              {
-                "t": "p",
-                "x": "包括病理主治医师和病理住院医师在内的21名医生审阅了30例诊断难度较大的病例。在AI辅助下，诊断准确率从60.0%显著提升至73.3%，病理医生之间的一致性从0.311升至0.482，阅片时间没有显著增加。"
-              },
-              {
-                "t": "p",
-                "x": "在乐于采纳工具建议的接受型组中，医生的准确率提升更大，但他们采纳错误建议的比例达80%，而抗拒型组为60%。这些差异与临床经验或亚专科无关。Kim教授说：“有效使用AI本身就是一项技能。”该研究发表于npj Digital Medicine。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "IA para un cáncer renal raro,\ncon riesgo de dependencia",
-          "body": "La IA de Asan Medical Center subió la precisión del 60.0% al 73.3%, pero los receptivos aceptaron el 80% de sus fallos.",
-          "mini_headline": "La IA ayuda a diagnosticar un cáncer renal raro",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Asan Medical Center (AMC) informó el jueves que un equipo dirigido por los profesores Kim Nam-kug, del Departamento de Medicina de Convergencia, y Cho Yong-mee, del Departamento de Patología, desarrolló una herramienta de aprendizaje profundo para detectar el carcinoma de células renales con deficiencia de fumarato hidratasa (FHdRCC) y evaluó su uso por parte de 21 médicos."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.koreabiomed.com/news/photo/202611/33846_37014_5655.jpg",
-                "cap": "Los profesores Kim Nam-kug (izquierda) y Cho Yong-mee (Cortesía de AMC)"
-              },
-              {
-                "t": "p",
-                "x": "El FHdRCC representa menos del 0.4% de los cánceres de riñón, avanza con rapidez y al microscopio puede parecerse a otros cánceres renales. Desarrollada con 335 preparaciones de patología digital, la herramienta alcanzó un AUC de 0.954 en las pruebas internas y de 0.820 y 0.867 en dos evaluaciones externas."
-              },
-              {
-                "t": "p",
-                "x": "Los 21 médicos, entre ellos patólogos adjuntos y residentes de patología, revisaron 30 casos de diagnóstico difícil. Con ayuda de la IA, la precisión diagnóstica subió de forma significativa del 60.0% al 73.3%, y la concordancia entre patólogos pasó de 0.311 a 0.482, sin un aumento significativo del tiempo de lectura."
-              },
-              {
-                "t": "p",
-                "x": "Los médicos de un grupo receptivo, que aceptaba con facilidad las sugerencias de la herramienta, mejoraron más su precisión, pero aceptaron recomendaciones incorrectas el 80% de las veces, frente al 60% del grupo reacio. Las diferencias no se asociaron con la experiencia clínica ni con la subespecialidad. “Usar la IA con eficacia es una habilidad en sí misma”, dijo el profesor Kim. El estudio se publicó en npj Digital Medicine."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "auntminnie-mammo-ai-recall",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "AI 쓴 유방암 검진\n재검률 더 높았다",
-      "body": "RSNA 2026 예고 자료에 따르면 상급 병원의 AI 검진은 재검률이 더 높았다.",
-      "mini_headline": "AI가 유방촬영 재검 늘려",
-      "tool": "Medicine",
-      "source": "AuntMinnie",
-      "url": "https://www.auntminnie.com/resources/conference/rsna/2026/womens-imaging-preview/article/16425472/ai-linked-to-higher-recall-rates-in-screening-mammography",
+      "source": "청년의사",
+      "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044563",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "연구진은 11월 29일 일요일 RSNA 2026에서 한 상급 암 치료 센터의 실제 임상 결과를 발표한다. AI를 쓴 검진 판독과 쓰지 않은 판독을 비교한 내용이다."
+            "t": "img",
+            "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044563_3048547_938.png",
+            "cap": "스튜디오키코 '니어닥'의 이창민 최고의료책임자(CMO)가 최근 청년의사와 만나 인터뷰를 하고 있다(ⓒ청년의사)."
           },
           {
             "t": "p",
-            "x": "New York의 Memorial Sloan Kettering Cancer Center 연구진이 이끈 이 전향적 분석은 2025년과 2026년에 일괄 판독한 유방촬영 전체를 대상으로 했다. 매달 전반기 검사는 유방 영상의학 전문의가 AI(Transpara, ScreenPoint, version 1.7.4)를 활용해 판독했고, 후반기 검사는 같은 전문의 그룹 중 한 명이 AI 없이 판독했다. 연구팀은 재검률과 암 발견율, 판독 시간(보고서를 연 시점부터 서명까지)을 비교했다."
+            "x": "\"환자와의 대화량이 가장 많은 정신건강의학과, 소아 환자와 보호자를 동시에 대해야 하는 소아청소년과에서 특히 호평이 많았죠.\" 니어닥은 AI 기반 전자의무기록(EMR) 작성 보조 서비스로, 의사와 환자의 대화를 실시간으로 이해하며 증상, 진찰 소견, 진단과 치료 계획(SOAP)을 정리해 준다. 사용자의 차팅 스타일이 반영되는 '개인화 차팅'이 강점이다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044563_3048548_2030.png",
+            "cap": "니어닥 활용 예시. 의료진과 환자간의 대화가 기록돼 있다(자료 제공: 이창민 CMO)."
           },
           {
             "t": "p",
-            "x": "검진 37,485건 중 20,885건(56%)은 AI 없이, 16,600건(44%)은 AI와 함께 판독했다. AI를 쓰자 재검률이 8.9%에서 9.7%로 유의하게 올랐다(odds ratio 1.11, p = 0.005). 암 발견율은 AI 없이 1,000건당 6.7건, AI와 함께 1,000건당 7.7건으로 오르는 추세였으나(odds ratio 1.14) 단변량 분석에서는 통계적 유의성에 못 미쳤다(p = 0.3). 평균 판독 시간 역시 AI 없이 4.2분, AI와 함께 4.4분으로 조금 늘어나는 추세였다(p = 0.4)."
+            "x": "정형외과 전문의인 이 CMO는 \"전공의 시절 항상 병동에 앉아 1~2시간씩 밀린 의무기록을 정리했다\"며 개발 참여 계기를 설명했다. 스튜디오키코에 따르면 니어닥을 사용한 의사 120명 중 98%가 차팅에 만족했고, 무료 체험에서 유료로 전환한 비율은 70%에 달했다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044563_3048549_2124.png",
+            "cap": "니어닥 활용 예시. 의료진과 환자간의 대화를 바탕으로 SOAP가 정리돼 있다(자료 제공: 이창민 CMO)."
           },
           {
             "t": "p",
-            "x": "저자들은 실제 임상 환경에서 AI 사용이 재검률 증가와 연관됐다고 결론 내렸다. 암 발견율과 판독 시간의 상승 추세가 통계적으로 유의한지는 더 큰 표본으로 확인해야 한다고 덧붙였다."
+            "x": "니어닥 사용 의료진(120명)의 EMR 작성 시간은 도입 전 평균 3분 48초에서 도입 후 평균 약 1분 8초로 약 70% 단축됐다. 환자 100명 대상 조사에서 진료 만족도는 약 28%p 상승했다. 출시 5개월 만에 도입 의료기관 500곳을 돌파했고 누적 진료 건수는 약 80만건이다."
+          },
+          {
+            "t": "p",
+            "x": "원본 음성은 텍스트로 변환한 즉시 파기되며, 평소 작성하던 차트 데이터를 입력하면 니어닥이 차팅 스타일을 분석해 학습한다. 스튜디오키코는 연내 국공립병원 등과 개념검증(PoC)을 거쳐 엔터프라이즈 모듈을 선보일 계획이다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "AI tied to higher recall\nin screening mammography",
-          "body": "An RSNA 2026 preview of real-world tertiary-center data links AI use in screening mammography to higher recall rates.",
-          "mini_headline": "AI raises mammogram recalls",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "In this RSNA 2026 presentation on Sunday, November 29, researchers will share real-world results from a tertiary care cancer center that compared screening interpretation with and without AI."
-              },
-              {
-                "t": "p",
-                "x": "This prospective analysis led by researchers from the Memorial Sloan Kettering Cancer Center in New York included all batch-screened mammograms from 2025 and 2026. Exams acquired during the first half of each month were interpreted by a breast radiologist using AI (Transpara, ScreenPoint, version 1.7.4). Exams from the second half of each month were read without AI by one of the same group of radiologists. The team compared recall rate, cancer detection rate, and interpretation time, defined as the time from opening to signing the report."
-              },
-              {
-                "t": "p",
-                "x": "Of 37,485 screening exams, 20,885 (56%) were read without AI and 16,600 (44%) with AI. Recall rates rose significantly with AI, from 8.9% to 9.7% (odds ratio 1.11, p = 0.005). Cancer detection rate trended upward, from 6.7 per 1,000 without AI to 7.7 per 1,000 with AI (odds ratio 1.14), but the difference did not achieve statistical significance on univariate analysis (p = 0.3). Mean interpretation time also trended up slightly, from 4.2 minutes without AI to 4.4 minutes with AI (p = 0.4)."
-              },
-              {
-                "t": "p",
-                "x": "The authors conclude that AI use was associated with increased recall rates in this real-world setting. They noted that larger sample sizes will be needed to determine whether the upward trends in cancer detection and reading time are statistically significant."
-              }
-            ]
-          }
-        },
         "ko": {
-          "headline": "AI 쓴 유방암 검진\n재검률 더 높았다",
-          "body": "RSNA 2026 예고 자료에 따르면 상급 병원의 AI 검진은 재검률이 더 높았다.",
-          "mini_headline": "AI가 유방촬영 재검 늘려",
+          "headline": "AI 차팅 니어닥\n정신과·소청과 호평",
+          "body": "니어닥은 진료 대화로 SOAP 기록을 실시간 작성해 차팅 시간을 1분대로 줄였다.",
+          "mini_headline": "니어닥 AI 차팅 호평",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "연구진은 11월 29일 일요일 RSNA 2026에서 한 상급 암 치료 센터의 실제 임상 결과를 발표한다. AI를 쓴 검진 판독과 쓰지 않은 판독을 비교한 내용이다."
+                "t": "img",
+                "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044563_3048547_938.png",
+                "cap": "스튜디오키코 '니어닥'의 이창민 최고의료책임자(CMO)가 최근 청년의사와 만나 인터뷰를 하고 있다(ⓒ청년의사)."
               },
               {
                 "t": "p",
-                "x": "New York의 Memorial Sloan Kettering Cancer Center 연구진이 이끈 이 전향적 분석은 2025년과 2026년에 일괄 판독한 유방촬영 전체를 대상으로 했다. 매달 전반기 검사는 유방 영상의학 전문의가 AI(Transpara, ScreenPoint, version 1.7.4)를 활용해 판독했고, 후반기 검사는 같은 전문의 그룹 중 한 명이 AI 없이 판독했다. 연구팀은 재검률과 암 발견율, 판독 시간(보고서를 연 시점부터 서명까지)을 비교했다."
+                "x": "\"환자와의 대화량이 가장 많은 정신건강의학과, 소아 환자와 보호자를 동시에 대해야 하는 소아청소년과에서 특히 호평이 많았죠.\" 니어닥은 AI 기반 전자의무기록(EMR) 작성 보조 서비스로, 의사와 환자의 대화를 실시간으로 이해하며 증상, 진찰 소견, 진단과 치료 계획(SOAP)을 정리해 준다. 사용자의 차팅 스타일이 반영되는 '개인화 차팅'이 강점이다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044563_3048548_2030.png",
+                "cap": "니어닥 활용 예시. 의료진과 환자간의 대화가 기록돼 있다(자료 제공: 이창민 CMO)."
               },
               {
                 "t": "p",
-                "x": "검진 37,485건 중 20,885건(56%)은 AI 없이, 16,600건(44%)은 AI와 함께 판독했다. AI를 쓰자 재검률이 8.9%에서 9.7%로 유의하게 올랐다(odds ratio 1.11, p = 0.005). 암 발견율은 AI 없이 1,000건당 6.7건, AI와 함께 1,000건당 7.7건으로 오르는 추세였으나(odds ratio 1.14) 단변량 분석에서는 통계적 유의성에 못 미쳤다(p = 0.3). 평균 판독 시간 역시 AI 없이 4.2분, AI와 함께 4.4분으로 조금 늘어나는 추세였다(p = 0.4)."
+                "x": "정형외과 전문의인 이 CMO는 \"전공의 시절 항상 병동에 앉아 1~2시간씩 밀린 의무기록을 정리했다\"며 개발 참여 계기를 설명했다. 스튜디오키코에 따르면 니어닥을 사용한 의사 120명 중 98%가 차팅에 만족했고, 무료 체험에서 유료로 전환한 비율은 70%에 달했다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044563_3048549_2124.png",
+                "cap": "니어닥 활용 예시. 의료진과 환자간의 대화를 바탕으로 SOAP가 정리돼 있다(자료 제공: 이창민 CMO)."
               },
               {
                 "t": "p",
-                "x": "저자들은 실제 임상 환경에서 AI 사용이 재검률 증가와 연관됐다고 결론 내렸다. 암 발견율과 판독 시간의 상승 추세가 통계적으로 유의한지는 더 큰 표본으로 확인해야 한다고 덧붙였다."
+                "x": "니어닥 사용 의료진(120명)의 EMR 작성 시간은 도입 전 평균 3분 48초에서 도입 후 평균 약 1분 8초로 약 70% 단축됐다. 환자 100명 대상 조사에서 진료 만족도는 약 28%p 상승했다. 출시 5개월 만에 도입 의료기관 500곳을 돌파했고 누적 진료 건수는 약 80만건이다."
+              },
+              {
+                "t": "p",
+                "x": "원본 음성은 텍스트로 변환한 즉시 파기되며, 평소 작성하던 차트 데이터를 입력하면 니어닥이 차팅 스타일을 분석해 학습한다. 스튜디오키코는 연내 국공립병원 등과 개념검증(PoC)을 거쳐 엔터프라이즈 모듈을 선보일 계획이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI活用でマンモ検診の\n要精検率が上昇",
-          "body": "RSNA 2026の予告で、三次医療機関の実データはAI使用と要精検率上昇の関連を示した。",
-          "mini_headline": "AIでマンモの要精検が増加",
+          "headline": "AIカルテ作成NearDoc\n精神科・小児科で好評",
+          "body": "NearDocは診療会話からSOAP記録をリアルタイム作成し、記録時間を1分台に短縮した。",
+          "mini_headline": "NearDoc AIカルテ好評",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "11月29日（日）のRSNA 2026での発表で、研究チームは三次医療を担うがんセンターで、AIを使った検診読影と使わない読影を比較した実臨床の結果を報告する。"
+                "t": "img",
+                "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044563_3048547_938.png",
+                "cap": "Studio Kiko「NearDoc」の李昌珉最高医療責任者(CMO)が最近、青年医師のインタビューに応じている(ⓒ青年医師)。"
               },
               {
                 "t": "p",
-                "x": "New YorkのMemorial Sloan Kettering Cancer Centerの研究者が主導したこの前向き解析には、2025年と2026年にバッチ読影されたすべてのマンモグラフィが含まれた。各月の前半に撮影された検査は、乳腺専門の放射線科医がAI（Transpara、ScreenPoint、version 1.7.4）を使って読影した。各月の後半の検査は、同じ放射線科医グループの一人がAIなしで読影した。チームは要精検率、がん発見率、そしてレポートを開いてから署名するまでと定義した読影時間を比較した。"
+                "x": "「患者との会話量が最も多い精神健康医学科や、小児患者と保護者に同時に対応しなければならない小児青少年科で特に好評でした」。NearDocはAIベースの電子カルテ(EMR)作成支援サービスで、医師と患者の会話をリアルタイムで理解し、症状、診察所見、診断と治療計画(SOAP)を整理する。ユーザーのカルテ記載スタイルを反映する「パーソナライズドチャーティング」が強みだ。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044563_3048548_2030.png",
+                "cap": "NearDocの活用例。医療者と患者の会話が記録されている(資料提供:李昌珉CMO)。"
               },
               {
                 "t": "p",
-                "x": "検診37,485件のうち、20,885件（56%）はAIなし、16,600件（44%）はAIありで読影された。要精検率はAIの使用で8.9%から9.7%へ有意に上昇した（odds ratio 1.11、p = 0.005）。がん発見率はAIなしの1,000件あたり6.7件からAIありの1,000件あたり7.7件へと上昇傾向を示したが（odds ratio 1.14）、単変量解析では統計的有意差に届かなかった（p = 0.3）。平均読影時間もAIなしの4.2分からAIありの4.4分へとわずかに増える傾向だった（p = 0.4）。"
+                "x": "整形外科専門医である李CMOは「研修医時代はいつも病棟に座って、1〜2時間ずつたまったカルテを整理していた」と開発に加わったきっかけを語った。Studio Kikoによると、NearDocを使った医師120人のうち98%がカルテ作成に満足し、無料体験から有料への転換率は70%に達した。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044563_3048549_2124.png",
+                "cap": "NearDocの活用例。医療者と患者の会話をもとにSOAPが整理されている(資料提供:李昌珉CMO)。"
               },
               {
                 "t": "p",
-                "x": "著者らは、この実臨床の環境ではAIの使用が要精検率の上昇と関連していたと結論づけた。がん発見率と読影時間の上昇傾向が統計的に有意かどうかを判断するには、より大きなサンプルが必要だとしている。"
+                "x": "NearDocを使う医療者(120人)のEMR作成時間は、導入前の平均3分48秒から導入後は平均約1分8秒となり、約70%短縮された。患者100人を対象にした調査では、診療満足度が約28%p上昇した。発売から5カ月で導入医療機関は500カ所を突破し、累計診療件数は約80万件に上る。"
+              },
+              {
+                "t": "p",
+                "x": "元の音声はテキストに変換した直後に破棄され、普段書いているカルテデータを入力すると、NearDocがカルテ記載スタイルを分析して学習する。Studio Kikoは年内に国公立病院などとの概念実証(PoC)を経て、エンタープライズ向けモジュールを公開する計画だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI用于乳腺筛查\n与召回率升高相关",
-          "body": "RSNA 2026预告：三级医疗中心真实数据显示，AI乳腺筛查与召回率升高相关。",
-          "mini_headline": "AI推高乳腺筛查召回率",
+          "headline": "AI病历助手NearDoc\n获精神科、儿科好评",
+          "body": "NearDoc根据诊疗对话实时生成SOAP记录，把病历时间缩至1分钟出头。",
+          "mini_headline": "NearDoc AI病历获好评",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "在11月29日（星期日）的RSNA 2026报告中，研究人员将公布一家三级癌症中心的真实世界结果，比较使用与不使用AI时的筛查判读。"
+                "t": "img",
+                "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044563_3048547_938.png",
+                "cap": "Studio Kiko“NearDoc”首席医疗官(CMO)李昌珉近日接受《青年医师》采访(ⓒ青年医师)。"
               },
               {
                 "t": "p",
-                "x": "这项前瞻性分析由New York的Memorial Sloan Kettering Cancer Center研究人员牵头，纳入了2025年和2026年所有批量筛查的乳腺X线检查。每月上半月采集的检查由乳腺放射科医生借助AI（Transpara，ScreenPoint，version 1.7.4）判读；每月下半月的检查则由同一组放射科医生中的一人在不使用AI的情况下判读。团队比较了召回率、癌症检出率和判读时间，判读时间定义为从打开报告到签署报告的时间。"
+                "x": "“在与患者对话量最大的精神健康医学科，以及需要同时面对儿童患者和监护人的儿童青少年科，好评尤其多。”NearDoc是一款基于AI的电子病历(EMR)书写辅助服务，能实时理解医生与患者的对话，整理出症状、查体所见、诊断和治疗计划(SOAP)。其优势在于能体现用户书写风格的“个性化病历书写”。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044563_3048548_2030.png",
+                "cap": "NearDoc使用示例，记录了医护人员与患者之间的对话(资料提供：李昌珉CMO)。"
               },
               {
                 "t": "p",
-                "x": "在37,485例筛查检查中，20,885例（56%）未使用AI判读，16,600例（44%）使用AI判读。使用AI后召回率从8.9%显著升至9.7%（odds ratio 1.11，p = 0.005）。癌症检出率呈上升趋势，从未使用AI时每1,000例6.7例升至使用AI时每1,000例7.7例（odds ratio 1.14），但在单变量分析中差异未达到统计学显著性（p = 0.3）。平均判读时间也略有上升趋势，从未使用AI时的4.2分钟增至使用AI时的4.4分钟（p = 0.4）。"
+                "x": "身为骨科专科医生的李CMO谈到参与开发的契机时说：“当住院医师时，我总是坐在病房里，每次花1到2个小时整理积压的病历。”据Studio Kiko介绍，使用NearDoc的120名医生中有98%对病历书写感到满意，从免费试用转为付费的比例达到70%。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044563_3048549_2124.png",
+                "cap": "NearDoc使用示例，根据医护人员与患者的对话整理出SOAP(资料提供：李昌珉CMO)。"
               },
               {
                 "t": "p",
-                "x": "作者得出结论：在这一真实世界环境中，使用AI与召回率上升相关。他们指出，需要更大的样本量来确定癌症检出率和判读时间的上升趋势是否具有统计学显著性。"
+                "x": "使用NearDoc的医护人员(120名)书写EMR的时间，从引入前平均3分48秒缩短到引入后平均约1分8秒，缩短约70%。在针对100名患者的调查中，诊疗满意度上升约28%p。上线5个月，引入的医疗机构突破500家，累计诊疗约80万次。"
+              },
+              {
+                "t": "p",
+                "x": "原始语音在转换为文本后立即销毁；输入平时书写的病历数据后，NearDoc会分析并学习用户的书写风格。Studio Kiko计划年内与国立和公立医院等开展概念验证(PoC)，随后推出企业版模块。"
+              }
+            ]
+          }
+        },
+        "en": {
+          "headline": "AI charting tool Neardoc\nPraised in psych and pediatrics",
+          "body": "Neardoc writes SOAP notes in real time from consultation dialogue, cutting charting time to about 1 minute.",
+          "mini_headline": "Neardoc AI charting praised",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044563_3048547_938.png",
+                "cap": "Lee Chang-min, chief medical officer (CMO) of Studio Kiko's 'Neardoc', in a recent interview with Korean Doctors' Weekly (ⓒKorean Doctors' Weekly)."
+              },
+              {
+                "t": "p",
+                "x": "\"We got especially strong praise from psychiatry, where conversations with patients are the longest, and from pediatrics, where doctors deal with child patients and guardians at the same time.\" Neardoc is an AI-based electronic medical record (EMR) writing assistant that understands doctor-patient conversations in real time and organizes symptoms, examination findings, diagnosis and treatment plan (SOAP). Its strength is 'personalized charting' that reflects each user's charting style."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044563_3048548_2030.png",
+                "cap": "An example of Neardoc in use, with the conversation between clinician and patient recorded (source: CMO Lee Chang-min)."
+              },
+              {
+                "t": "p",
+                "x": "CMO Lee, an orthopedic surgeon, explained why he joined the development: \"As a resident, I always sat in the ward for 1~2 hours catching up on overdue medical records.\" According to Studio Kiko, 98% of the 120 doctors who used Neardoc were satisfied with its charting, and the conversion rate from free trial to paid reached 70%."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044563_3048549_2124.png",
+                "cap": "An example of Neardoc in use, with a SOAP summary based on the conversation between clinician and patient (source: CMO Lee Chang-min)."
+              },
+              {
+                "t": "p",
+                "x": "For the clinicians using Neardoc (120 people), EMR writing time fell by about 70%, from an average of 3 minutes 48 seconds before adoption to about 1 minute 8 seconds after. In a survey of 100 patients, consultation satisfaction rose by about 28%p. Within 5 months of launch, it passed 500 adopting medical institutions, with about 800,000 cumulative consultations."
+              },
+              {
+                "t": "p",
+                "x": "The original audio is destroyed as soon as it is converted to text, and when users input the chart data they usually write, Neardoc analyzes and learns their charting style. Studio Kiko plans to release an enterprise module within the year after proof-of-concept (PoC) trials with national and public hospitals and others."
               }
             ]
           }
         },
         "es": {
-          "headline": "La IA, ligada a más rellamadas\nen la mamografía de cribado",
-          "body": "Un avance de RSNA 2026 con datos reales de un centro terciario asocia la IA en mamografía de cribado a más rellamadas.",
-          "mini_headline": "La IA eleva las rellamadas en mamografía",
+          "headline": "Elogian el charting AI Neardoc\nen psiquiatría y pediatría",
+          "body": "Neardoc redacta notas SOAP en tiempo real a partir de la consulta y reduce el charting a 1 minuto y poco más.",
+          "mini_headline": "Elogios al charting AI de Neardoc",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "En esta presentación de RSNA 2026, el domingo 29 de noviembre, los investigadores compartirán resultados reales de un centro oncológico de nivel terciario que comparó la lectura de cribado con y sin AI."
+                "t": "img",
+                "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044563_3048547_938.png",
+                "cap": "Lee Chang-min, director médico (CMO) de 'Neardoc' de Studio Kiko, durante una entrevista reciente con Korean Doctors' Weekly (ⓒKorean Doctors' Weekly)."
               },
               {
                 "t": "p",
-                "x": "Este análisis prospectivo, dirigido por investigadores del Memorial Sloan Kettering Cancer Center de New York, incluyó todas las mamografías de cribado leídas por lotes en 2025 y 2026. Los estudios adquiridos en la primera mitad de cada mes los interpretó un radiólogo de mama con ayuda de IA (Transpara, ScreenPoint, version 1.7.4). Los de la segunda mitad de cada mes los leyó sin IA uno de los radiólogos del mismo grupo. El equipo comparó la tasa de rellamada, la tasa de detección de cáncer y el tiempo de interpretación, definido como el tiempo desde que se abre el informe hasta que se firma."
+                "x": "\"Recibimos especialmente buenas valoraciones en psiquiatría, donde la conversación con el paciente es más extensa, y en pediatría, donde hay que atender a la vez al niño y a su tutor.\" Neardoc es un servicio de apoyo basado en AI para redactar la historia clínica electrónica (EMR): comprende en tiempo real la conversación entre médico y paciente y organiza síntomas, hallazgos de la exploración, diagnóstico y plan de tratamiento (SOAP). Su punto fuerte es el 'charting personalizado', que refleja el estilo de cada usuario."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044563_3048548_2030.png",
+                "cap": "Ejemplo de uso de Neardoc, con la conversación entre el personal médico y el paciente registrada (fuente: CMO Lee Chang-min)."
               },
               {
                 "t": "p",
-                "x": "De 37,485 estudios de cribado, 20,885 (56%) se leyeron sin IA y 16,600 (44%) con IA. Las tasas de rellamada aumentaron de forma significativa con IA, del 8.9% al 9.7% (odds ratio 1.11, p = 0.005). La tasa de detección de cáncer mostró una tendencia al alza, de 6.7 por cada 1,000 sin IA a 7.7 por cada 1,000 con IA (odds ratio 1.14), pero la diferencia no alcanzó significación estadística en el análisis univariante (p = 0.3). El tiempo medio de interpretación también tendió a subir ligeramente, de 4.2 minutos sin IA a 4.4 minutos con IA (p = 0.4)."
+                "x": "El CMO Lee, especialista en ortopedia, explicó por qué se sumó al desarrollo: \"Cuando era residente, siempre me sentaba en la planta 1~2 horas para poner al día los registros médicos atrasados\". Según Studio Kiko, el 98% de los 120 médicos que usaron Neardoc quedaron satisfechos con el charting, y la tasa de conversión de la prueba gratuita al pago alcanzó el 70%."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044563_3048549_2124.png",
+                "cap": "Ejemplo de uso de Neardoc, con el SOAP organizado a partir de la conversación entre el personal médico y el paciente (fuente: CMO Lee Chang-min)."
               },
               {
                 "t": "p",
-                "x": "Los autores concluyen que el uso de la IA se asoció con mayores tasas de rellamada en este entorno real. Señalaron que se necesitarán muestras más grandes para determinar si las tendencias al alza en la detección de cáncer y en el tiempo de lectura son estadísticamente significativas."
+                "x": "En el personal médico que usa Neardoc (120 personas), el tiempo de redacción del EMR bajó cerca de un 70%, de un promedio de 3 minutos 48 segundos antes de la adopción a unos 1 minuto 8 segundos después. En una encuesta a 100 pacientes, la satisfacción con la consulta subió unos 28%p. A los 5 meses del lanzamiento superó las 500 instituciones médicas usuarias, con unas 800.000 consultas acumuladas."
+              },
+              {
+                "t": "p",
+                "x": "El audio original se elimina en cuanto se convierte en texto, y al introducir los datos de las historias que el usuario redacta habitualmente, Neardoc analiza y aprende su estilo de charting. Studio Kiko prevé lanzar este año un módulo empresarial tras pruebas de concepto (PoC) con hospitales nacionales y públicos, entre otros."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "AI, 유방암 검진의\n재검률 상승과 연관",
-          "body": "RSNA 2026 예고 자료에서 상급 병원의 AI 검진이 재검률 상승과 연관됐다.",
-          "mini_headline": "AI가 유방촬영 재검 늘려",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "11월 29일 일요일 열리는 RSNA 2026 발표에서 연구진은 한 상급 암 치료 센터에서 AI를 쓴 경우와 쓰지 않은 경우의 검진 판독을 비교한 실제 임상 결과를 공개한다."
-              },
-              {
-                "t": "p",
-                "x": "New York의 Memorial Sloan Kettering Cancer Center 연구진이 이끈 이 전향적 분석에는 2025년과 2026년에 일괄 판독한 유방촬영 전체가 포함됐다. 매달 전반기에 촬영한 검사는 유방 영상의학 전문의가 AI(Transpara, ScreenPoint, version 1.7.4)를 활용해 판독했다. 매달 후반기 검사는 같은 영상의학 전문의 그룹 가운데 한 명이 AI 없이 판독했다. 연구팀은 재검률, 암 발견율, 그리고 보고서를 연 시점부터 서명까지로 정의한 판독 시간을 비교했다."
-              },
-              {
-                "t": "p",
-                "x": "검진 37,485건 가운데 20,885건(56%)은 AI 없이, 16,600건(44%)은 AI와 함께 판독했다. AI를 쓰자 재검률은 8.9%에서 9.7%로 유의하게 올랐다(odds ratio 1.11, p = 0.005). 암 발견율은 AI 없이 1,000건당 6.7건에서 AI와 함께 1,000건당 7.7건으로 상승 추세를 보였지만(odds ratio 1.14), 단변량 분석에서 통계적 유의성에 이르지 못했다(p = 0.3). 평균 판독 시간도 AI 없이 4.2분에서 AI와 함께 4.4분으로 소폭 늘어나는 추세였다(p = 0.4)."
-              },
-              {
-                "t": "p",
-                "x": "저자들은 이 실제 임상 환경에서 AI 사용이 재검률 증가와 연관됐다고 결론지었다. 암 발견율과 판독 시간의 상승 추세가 통계적으로 유의한지 판단하려면 더 큰 표본이 필요하다고 덧붙였다."
-              }
-            ]
-          }
-        },
         "ja": {
-          "headline": "AI活用でマンモ検診の\n要精検率が上昇",
-          "body": "RSNA 2026の予告で、三次医療機関の実データはAI使用と要精検率上昇の関連を示した。",
-          "mini_headline": "AIでマンモの要精検が増加",
+          "headline": "AIカルテ作成NearDoc\n精神科・小児科で好評",
+          "body": "NearDocは診療会話からSOAP記録をリアルタイム作成し、記録時間を1分台に短縮した。",
+          "mini_headline": "NearDoc AIカルテ好評",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "11月29日（日）のRSNA 2026での発表で、研究チームは三次医療を担うがんセンターで、AIを使った検診読影と使わない読影を比較した実臨床の結果を報告する。"
+                "t": "img",
+                "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044563_3048547_938.png",
+                "cap": "Studio Kiko「NearDoc」の李昌珉最高医療責任者(CMO)が最近、青年医師のインタビューに応じている(ⓒ青年医師)。"
               },
               {
                 "t": "p",
-                "x": "New YorkのMemorial Sloan Kettering Cancer Centerの研究者が主導したこの前向き解析には、2025年と2026年にバッチ読影されたすべてのマンモグラフィが含まれた。各月の前半に撮影された検査は、乳腺専門の放射線科医がAI（Transpara、ScreenPoint、version 1.7.4）を使って読影した。各月の後半の検査は、同じ放射線科医グループの一人がAIなしで読影した。チームは要精検率、がん発見率、そしてレポートを開いてから署名するまでと定義した読影時間を比較した。"
+                "x": "「患者との会話量が最も多い精神健康医学科や、小児患者と保護者に同時に対応しなければならない小児青少年科で特に好評でした」。NearDocはAIベースの電子カルテ(EMR)作成支援サービスで、医師と患者の会話をリアルタイムで理解し、症状、診察所見、診断と治療計画(SOAP)を整理する。ユーザーのカルテ記載スタイルを反映する「パーソナライズドチャーティング」が強みだ。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044563_3048548_2030.png",
+                "cap": "NearDocの活用例。医療者と患者の会話が記録されている(資料提供:李昌珉CMO)。"
               },
               {
                 "t": "p",
-                "x": "検診37,485件のうち、20,885件（56%）はAIなし、16,600件（44%）はAIありで読影された。要精検率はAIの使用で8.9%から9.7%へ有意に上昇した（odds ratio 1.11、p = 0.005）。がん発見率はAIなしの1,000件あたり6.7件からAIありの1,000件あたり7.7件へと上昇傾向を示したが（odds ratio 1.14）、単変量解析では統計的有意差に届かなかった（p = 0.3）。平均読影時間もAIなしの4.2分からAIありの4.4分へとわずかに増える傾向だった（p = 0.4）。"
+                "x": "整形外科専門医である李CMOは「研修医時代はいつも病棟に座って、1〜2時間ずつたまったカルテを整理していた」と開発に加わったきっかけを語った。Studio Kikoによると、NearDocを使った医師120人のうち98%がカルテ作成に満足し、無料体験から有料への転換率は70%に達した。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044563_3048549_2124.png",
+                "cap": "NearDocの活用例。医療者と患者の会話をもとにSOAPが整理されている(資料提供:李昌珉CMO)。"
               },
               {
                 "t": "p",
-                "x": "著者らは、この実臨床の環境ではAIの使用が要精検率の上昇と関連していたと結論づけた。がん発見率と読影時間の上昇傾向が統計的に有意かどうかを判断するには、より大きなサンプルが必要だとしている。"
+                "x": "NearDocを使う医療者(120人)のEMR作成時間は、導入前の平均3分48秒から導入後は平均約1分8秒となり、約70%短縮された。患者100人を対象にした調査では、診療満足度が約28%p上昇した。発売から5カ月で導入医療機関は500カ所を突破し、累計診療件数は約80万件に上る。"
+              },
+              {
+                "t": "p",
+                "x": "元の音声はテキストに変換した直後に破棄され、普段書いているカルテデータを入力すると、NearDocがカルテ記載スタイルを分析して学習する。Studio Kikoは年内に国公立病院などとの概念実証(PoC)を経て、エンタープライズ向けモジュールを公開する計画だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI用于乳腺筛查\n与召回率升高相关",
-          "body": "RSNA 2026预告：三级医疗中心真实数据显示，AI乳腺筛查与召回率升高相关。",
-          "mini_headline": "AI推高乳腺筛查召回率",
+          "headline": "AI病历助手NearDoc\n获精神科、儿科好评",
+          "body": "NearDoc根据诊疗对话实时生成SOAP记录，把病历时间缩至1分钟出头。",
+          "mini_headline": "NearDoc AI病历获好评",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "在11月29日（星期日）的RSNA 2026报告中，研究人员将公布一家三级癌症中心的真实世界结果，比较使用与不使用AI时的筛查判读。"
+                "t": "img",
+                "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044563_3048547_938.png",
+                "cap": "Studio Kiko“NearDoc”首席医疗官(CMO)李昌珉近日接受《青年医师》采访(ⓒ青年医师)。"
               },
               {
                 "t": "p",
-                "x": "这项前瞻性分析由New York的Memorial Sloan Kettering Cancer Center研究人员牵头，纳入了2025年和2026年所有批量筛查的乳腺X线检查。每月上半月采集的检查由乳腺放射科医生借助AI（Transpara，ScreenPoint，version 1.7.4）判读；每月下半月的检查则由同一组放射科医生中的一人在不使用AI的情况下判读。团队比较了召回率、癌症检出率和判读时间，判读时间定义为从打开报告到签署报告的时间。"
+                "x": "“在与患者对话量最大的精神健康医学科，以及需要同时面对儿童患者和监护人的儿童青少年科，好评尤其多。”NearDoc是一款基于AI的电子病历(EMR)书写辅助服务，能实时理解医生与患者的对话，整理出症状、查体所见、诊断和治疗计划(SOAP)。其优势在于能体现用户书写风格的“个性化病历书写”。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044563_3048548_2030.png",
+                "cap": "NearDoc使用示例，记录了医护人员与患者之间的对话(资料提供：李昌珉CMO)。"
               },
               {
                 "t": "p",
-                "x": "在37,485例筛查检查中，20,885例（56%）未使用AI判读，16,600例（44%）使用AI判读。使用AI后召回率从8.9%显著升至9.7%（odds ratio 1.11，p = 0.005）。癌症检出率呈上升趋势，从未使用AI时每1,000例6.7例升至使用AI时每1,000例7.7例（odds ratio 1.14），但在单变量分析中差异未达到统计学显著性（p = 0.3）。平均判读时间也略有上升趋势，从未使用AI时的4.2分钟增至使用AI时的4.4分钟（p = 0.4）。"
+                "x": "身为骨科专科医生的李CMO谈到参与开发的契机时说：“当住院医师时，我总是坐在病房里，每次花1到2个小时整理积压的病历。”据Studio Kiko介绍，使用NearDoc的120名医生中有98%对病历书写感到满意，从免费试用转为付费的比例达到70%。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044563_3048549_2124.png",
+                "cap": "NearDoc使用示例，根据医护人员与患者的对话整理出SOAP(资料提供：李昌珉CMO)。"
               },
               {
                 "t": "p",
-                "x": "作者得出结论：在这一真实世界环境中，使用AI与召回率上升相关。他们指出，需要更大的样本量来确定癌症检出率和判读时间的上升趋势是否具有统计学显著性。"
+                "x": "使用NearDoc的医护人员(120名)书写EMR的时间，从引入前平均3分48秒缩短到引入后平均约1分8秒，缩短约70%。在针对100名患者的调查中，诊疗满意度上升约28%p。上线5个月，引入的医疗机构突破500家，累计诊疗约80万次。"
+              },
+              {
+                "t": "p",
+                "x": "原始语音在转换为文本后立即销毁；输入平时书写的病历数据后，NearDoc会分析并学习用户的书写风格。Studio Kiko计划年内与国立和公立医院等开展概念验证(PoC)，随后推出企业版模块。"
+              }
+            ]
+          }
+        },
+        "en": {
+          "headline": "AI charting tool Neardoc\nPraised in psych and pediatrics",
+          "body": "Neardoc writes SOAP notes in real time from consultation dialogue, cutting charting time to about 1 minute.",
+          "mini_headline": "Neardoc AI charting praised",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044563_3048547_938.png",
+                "cap": "Lee Chang-min, chief medical officer (CMO) of Studio Kiko's 'Neardoc', in a recent interview with Korean Doctors' Weekly (ⓒKorean Doctors' Weekly)."
+              },
+              {
+                "t": "p",
+                "x": "\"We got especially strong praise from psychiatry, where conversations with patients are the longest, and from pediatrics, where doctors deal with child patients and guardians at the same time.\" Neardoc is an AI-based electronic medical record (EMR) writing assistant that understands doctor-patient conversations in real time and organizes symptoms, examination findings, diagnosis and treatment plan (SOAP). Its strength is 'personalized charting' that reflects each user's charting style."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044563_3048548_2030.png",
+                "cap": "An example of Neardoc in use, with the conversation between clinician and patient recorded (source: CMO Lee Chang-min)."
+              },
+              {
+                "t": "p",
+                "x": "CMO Lee, an orthopedic surgeon, explained why he joined the development: \"As a resident, I always sat in the ward for 1~2 hours catching up on overdue medical records.\" According to Studio Kiko, 98% of the 120 doctors who used Neardoc were satisfied with its charting, and the conversion rate from free trial to paid reached 70%."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044563_3048549_2124.png",
+                "cap": "An example of Neardoc in use, with a SOAP summary based on the conversation between clinician and patient (source: CMO Lee Chang-min)."
+              },
+              {
+                "t": "p",
+                "x": "For the clinicians using Neardoc (120 people), EMR writing time fell by about 70%, from an average of 3 minutes 48 seconds before adoption to about 1 minute 8 seconds after. In a survey of 100 patients, consultation satisfaction rose by about 28%p. Within 5 months of launch, it passed 500 adopting medical institutions, with about 800,000 cumulative consultations."
+              },
+              {
+                "t": "p",
+                "x": "The original audio is destroyed as soon as it is converted to text, and when users input the chart data they usually write, Neardoc analyzes and learns their charting style. Studio Kiko plans to release an enterprise module within the year after proof-of-concept (PoC) trials with national and public hospitals and others."
               }
             ]
           }
         },
         "es": {
-          "headline": "La IA, ligada a más rellamadas\nen la mamografía de cribado",
-          "body": "Un avance de RSNA 2026 con datos reales de un centro terciario asocia la IA en mamografía de cribado a más rellamadas.",
-          "mini_headline": "La IA eleva las rellamadas en mamografía",
+          "headline": "Elogian el charting AI Neardoc\nen psiquiatría y pediatría",
+          "body": "Neardoc redacta notas SOAP en tiempo real a partir de la consulta y reduce el charting a 1 minuto y poco más.",
+          "mini_headline": "Elogios al charting AI de Neardoc",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "En esta presentación de RSNA 2026, el domingo 29 de noviembre, los investigadores compartirán resultados reales de un centro oncológico de nivel terciario que comparó la lectura de cribado con y sin AI."
+                "t": "img",
+                "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044563_3048547_938.png",
+                "cap": "Lee Chang-min, director médico (CMO) de 'Neardoc' de Studio Kiko, durante una entrevista reciente con Korean Doctors' Weekly (ⓒKorean Doctors' Weekly)."
               },
               {
                 "t": "p",
-                "x": "Este análisis prospectivo, dirigido por investigadores del Memorial Sloan Kettering Cancer Center de New York, incluyó todas las mamografías de cribado leídas por lotes en 2025 y 2026. Los estudios adquiridos en la primera mitad de cada mes los interpretó un radiólogo de mama con ayuda de IA (Transpara, ScreenPoint, version 1.7.4). Los de la segunda mitad de cada mes los leyó sin IA uno de los radiólogos del mismo grupo. El equipo comparó la tasa de rellamada, la tasa de detección de cáncer y el tiempo de interpretación, definido como el tiempo desde que se abre el informe hasta que se firma."
+                "x": "\"Recibimos especialmente buenas valoraciones en psiquiatría, donde la conversación con el paciente es más extensa, y en pediatría, donde hay que atender a la vez al niño y a su tutor.\" Neardoc es un servicio de apoyo basado en AI para redactar la historia clínica electrónica (EMR): comprende en tiempo real la conversación entre médico y paciente y organiza síntomas, hallazgos de la exploración, diagnóstico y plan de tratamiento (SOAP). Su punto fuerte es el 'charting personalizado', que refleja el estilo de cada usuario."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044563_3048548_2030.png",
+                "cap": "Ejemplo de uso de Neardoc, con la conversación entre el personal médico y el paciente registrada (fuente: CMO Lee Chang-min)."
               },
               {
                 "t": "p",
-                "x": "De 37,485 estudios de cribado, 20,885 (56%) se leyeron sin IA y 16,600 (44%) con IA. Las tasas de rellamada aumentaron de forma significativa con IA, del 8.9% al 9.7% (odds ratio 1.11, p = 0.005). La tasa de detección de cáncer mostró una tendencia al alza, de 6.7 por cada 1,000 sin IA a 7.7 por cada 1,000 con IA (odds ratio 1.14), pero la diferencia no alcanzó significación estadística en el análisis univariante (p = 0.3). El tiempo medio de interpretación también tendió a subir ligeramente, de 4.2 minutos sin IA a 4.4 minutos con IA (p = 0.4)."
+                "x": "El CMO Lee, especialista en ortopedia, explicó por qué se sumó al desarrollo: \"Cuando era residente, siempre me sentaba en la planta 1~2 horas para poner al día los registros médicos atrasados\". Según Studio Kiko, el 98% de los 120 médicos que usaron Neardoc quedaron satisfechos con el charting, y la tasa de conversión de la prueba gratuita al pago alcanzó el 70%."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044563_3048549_2124.png",
+                "cap": "Ejemplo de uso de Neardoc, con el SOAP organizado a partir de la conversación entre el personal médico y el paciente (fuente: CMO Lee Chang-min)."
               },
               {
                 "t": "p",
-                "x": "Los autores concluyen que el uso de la IA se asoció con mayores tasas de rellamada en este entorno real. Señalaron que se necesitarán muestras más grandes para determinar si las tendencias al alza en la detección de cáncer y en el tiempo de lectura son estadísticamente significativas."
+                "x": "En el personal médico que usa Neardoc (120 personas), el tiempo de redacción del EMR bajó cerca de un 70%, de un promedio de 3 minutos 48 segundos antes de la adopción a unos 1 minuto 8 segundos después. En una encuesta a 100 pacientes, la satisfacción con la consulta subió unos 28%p. A los 5 meses del lanzamiento superó las 500 instituciones médicas usuarias, con unas 800.000 consultas acumuladas."
+              },
+              {
+                "t": "p",
+                "x": "El audio original se elimina en cuanto se convierte en texto, y al introducir los datos de las historias que el usuario redacta habitualmente, Neardoc analiza y aprende su estilo de charting. Studio Kiko prevé lanzar este año un módulo empresarial tras pruebas de concepto (PoC) con hospitales nacionales y públicos, entre otros."
               }
             ]
           }
@@ -1231,195 +1139,141 @@
       }
     },
     {
-      "id": "gallup-patient-ai-oversight",
+      "id": "quibim-qp-prostate-microsoft",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "환자, 의료진 감독 땐\n임상 AI 받아들인다",
-      "body": "Gallup 조사상 환자는 의사 짐작보다 AI에 열려 있고 관건은 인간 감독이다.",
-      "mini_headline": "환자는 AI 감독을 원한다",
+      "headline": "Quibim 전립선 MRI\nAI Microsoft망에",
+      "body": "FDA-cleared QP-Prostate가 Microsoft 망에 올라갔다.",
+      "mini_headline": "Quibim, Microsoft 망 합류",
       "tool": "Medicine",
-      "source": "Healthcare Dive",
-      "url": "https://www.healthcaredive.com/news/patient-comfort-with-ais-clinical-decisions-tied-to-provider-oversight-ga/874623/",
-      "accent": "#eb367f",
+      "source": "AuntMinnie",
+      "url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/news/16425030/quibim-quibims-prostate-mri-ai-joins-microsoft-imaging-ai-network",
+      "accent": "#7928ca",
       "motif": "sphere",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://imgproxy.divecdn.com/UnzN7Q0yFftdnT_LCfhN69ifT-LDXfXaS57AtdtgXhk/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjcyMDM5MjIwLmpwZw==.webp",
-            "cap": "Getty Images"
+            "t": "p",
+            "x": "Quibim은 Microsoft의 Precision Imaging Network로 북미 의료기관에 QP-Prostate 소프트웨어를 공급한다. Precision Imaging Network는 서드파티 영상 AI 애플리케이션을 쓸 수 있게 해 주는 플랫폼이다."
           },
           {
             "t": "p",
-            "x": "새 Gallup 조사를 보면 환자들은 인공지능 도구가 진단이나 치료를 결정하는 일을 점점 더 편하게 받아들인다. 조사는 8월 미국 성인 5,000명 이상에게 물었다."
+            "x": "업체 설명으로는 QP-Prostate가 바이파라메트릭(bi-parametric) 전립선 MRI에서 의심 병변을 자동으로 찾아내 원본 영상 위에 오버레이로 표시한다. U.S. 식품의약국(FDA) 허가를 받았고, Health Canada에서 class III 의료기기 면허도 받았다."
           },
           {
             "t": "p",
-            "x": "U.S. 성인의 절반 이상은 담당 의료진이 결정을 검토하고 뒤집을 수 있을 때에만 AI 도구가 자기 진료에 관한 임상 결정을 내려도 괜찮다고 답했다. 의료진이 결정에 전혀 관여하지 않으면 AI를 편하게 여기는 정도가 급격히 떨어진다."
-          },
-          {
-            "t": "p",
-            "x": "현직 일차 진료 의사 1,000명 이상을 상대로 한 별도 Gallup 조사에서는 AI의 진단·치료 결정을 환자가 실제로 편하게 여기는 정도와 의료진이 짐작하는 정도 사이에 20퍼센트포인트 격차가 드러났다. 환자가 받아들일 것이라고 답한 의료진은 약 삼분의 일에 그쳤다. 보고서 저자들은 의료진이 진료에 AI를 어떻게 쓸지 환자에게 선호를 물어야 한다고 말한다."
-          },
-          {
-            "t": "p",
-            "x": "성인 절반 가까이는 의료진 검토가 있으면 진단·치료와 영상 판독에서 AI-led 결정이 더 편하다고 답했다. 개인정보 보호, 안전성·효능 연구, 의료비 절감보다 큰 요인이었다. 강력한 개인정보 보호가 그다음으로 중요했다."
+            "x": "회사 측은 Precision Imaging Network가 기존 영상 공유 인프라를 그대로 활용해 기관이 고른 애플리케이션으로 영상 검사를 보낸다고 설명했다. Quibim은 지원되는 구성이라면 QP-Prostate 결과가 Microsoft의 판독 보고 소프트웨어 PowerScribe로 넘어가고, 영상의학과 전문의가 보고서를 확정하기 전에 검토해 반영할 수 있다고 밝혔다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Patients accept clinical AI\nwhen clinicians oversee it",
-          "body": "A Gallup poll finds patients more open to AI in their care than providers assume, with human oversight as the key.",
-          "mini_headline": "Patients want AI oversight",
+          "headline": "Quibim prostate MRI AI\njoins Microsoft network",
+          "body": "FDA-cleared QP-Prostate now reaches Microsoft's Precision Imaging Network, with results landing in PowerScribe.",
+          "mini_headline": "Quibim joins Microsoft network",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/UnzN7Q0yFftdnT_LCfhN69ifT-LDXfXaS57AtdtgXhk/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjcyMDM5MjIwLmpwZw==.webp",
-                "cap": "Getty Images"
+                "t": "p",
+                "x": "Quibim is making its QP-Prostate software available to healthcare organizations in North America through Microsoft’s Precision Imaging Network, a platform that provides access to third-party imaging AI applications."
               },
               {
                 "t": "p",
-                "x": "Patients are getting more comfortable with artificial intelligence tools making diagnosis or treatment decisions, according to a new Gallup survey, which polled more than 5,000 American adults in August."
+                "x": "QP-Prostate automatically detects and identifies suspected lesions on bi-parametric prostate MRI and marks them as an overlay on the source images, according to the vendor. The software is cleared by the U.S. Food and Drug Administration (FDA) and holds a class III medical device license from Health Canada."
               },
               {
                 "t": "p",
-                "x": "Over half of U.S. adults said that they would be fine with AI tools making clinical decisions about their care, but only if their healthcare provider can review and override those decisions. Their comfort with AI drops sharply if a provider is not involved in the decision-making at all."
-              },
-              {
-                "t": "p",
-                "x": "A separate Gallup poll of over 1,000 practicing primary care physicians shows a 20-percentage-point gap between how comfortable patients are with AI making diagnostic and treatment decisions and how comfortable providers think patients are; only about a third of providers said patients would be on board. According to the report authors, providers should ask patients their preference about how AI is used in their care."
-              },
-              {
-                "t": "p",
-                "x": "Nearly half of adults said provider review made them more comfortable with AI-led decisions on diagnosis and treatment and imaging review, more so than privacy protections, safety and efficacy studies and lower healthcare costs. Strong privacy protections were the next most important factor."
+                "x": "Precision Imaging Network routes imaging studies to the applications an organization has selected using existing image-sharing infrastructure, according to the firm. In supported configurations, QP-Prostate results can be delivered to Microsoft’s PowerScribe reporting software, where radiologists can review and incorporate them before finalizing reports, Quibim said."
               }
             ]
           }
         },
         "ko": {
-          "headline": "환자, 의료진 감독 땐\n임상 AI 받아들인다",
-          "body": "Gallup 조사상 환자는 의사 짐작보다 AI에 열려 있고 관건은 인간 감독이다.",
-          "mini_headline": "환자는 AI 감독을 원한다",
+          "headline": "Quibim 전립선 MRI\nAI Microsoft망에",
+          "body": "FDA-cleared QP-Prostate가 Microsoft 망에 올라갔다.",
+          "mini_headline": "Quibim, Microsoft 망 합류",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/UnzN7Q0yFftdnT_LCfhN69ifT-LDXfXaS57AtdtgXhk/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjcyMDM5MjIwLmpwZw==.webp",
-                "cap": "Getty Images"
+                "t": "p",
+                "x": "Quibim은 Microsoft의 Precision Imaging Network로 북미 의료기관에 QP-Prostate 소프트웨어를 공급한다. Precision Imaging Network는 서드파티 영상 AI 애플리케이션을 쓸 수 있게 해 주는 플랫폼이다."
               },
               {
                 "t": "p",
-                "x": "새 Gallup 조사를 보면 환자들은 인공지능 도구가 진단이나 치료를 결정하는 일을 점점 더 편하게 받아들인다. 조사는 8월 미국 성인 5,000명 이상에게 물었다."
+                "x": "업체 설명으로는 QP-Prostate가 바이파라메트릭(bi-parametric) 전립선 MRI에서 의심 병변을 자동으로 찾아내 원본 영상 위에 오버레이로 표시한다. U.S. 식품의약국(FDA) 허가를 받았고, Health Canada에서 class III 의료기기 면허도 받았다."
               },
               {
                 "t": "p",
-                "x": "U.S. 성인의 절반 이상은 담당 의료진이 결정을 검토하고 뒤집을 수 있을 때에만 AI 도구가 자기 진료에 관한 임상 결정을 내려도 괜찮다고 답했다. 의료진이 결정에 전혀 관여하지 않으면 AI를 편하게 여기는 정도가 급격히 떨어진다."
-              },
-              {
-                "t": "p",
-                "x": "현직 일차 진료 의사 1,000명 이상을 상대로 한 별도 Gallup 조사에서는 AI의 진단·치료 결정을 환자가 실제로 편하게 여기는 정도와 의료진이 짐작하는 정도 사이에 20퍼센트포인트 격차가 드러났다. 환자가 받아들일 것이라고 답한 의료진은 약 삼분의 일에 그쳤다. 보고서 저자들은 의료진이 진료에 AI를 어떻게 쓸지 환자에게 선호를 물어야 한다고 말한다."
-              },
-              {
-                "t": "p",
-                "x": "성인 절반 가까이는 의료진 검토가 있으면 진단·치료와 영상 판독에서 AI-led 결정이 더 편하다고 답했다. 개인정보 보호, 안전성·효능 연구, 의료비 절감보다 큰 요인이었다. 강력한 개인정보 보호가 그다음으로 중요했다."
+                "x": "회사 측은 Precision Imaging Network가 기존 영상 공유 인프라를 그대로 활용해 기관이 고른 애플리케이션으로 영상 검사를 보낸다고 설명했다. Quibim은 지원되는 구성이라면 QP-Prostate 결과가 Microsoft의 판독 보고 소프트웨어 PowerScribe로 넘어가고, 영상의학과 전문의가 보고서를 확정하기 전에 검토해 반영할 수 있다고 밝혔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "臨床医の監督あれば\n患者は臨床AIを容認",
-          "body": "Gallup調査で、患者は医療者の想定よりAIに前向きで、鍵は人による監督だと分かった。",
-          "mini_headline": "患者はAIへの監督を求める",
+          "headline": "Quibimの前立腺MRI\nAIがMicrosoft網に",
+          "body": "FDA-clearedのQP-ProstateがMicrosoftの画像網に加わった。",
+          "mini_headline": "QuibimがMicrosoft網に参加",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/UnzN7Q0yFftdnT_LCfhN69ifT-LDXfXaS57AtdtgXhk/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjcyMDM5MjIwLmpwZw==.webp",
-                "cap": "Getty Images"
+                "t": "p",
+                "x": "Quibimは、サードパーティーの画像AIアプリケーションを利用できるプラットフォームであるMicrosoftのPrecision Imaging Networkを通じて、北米の医療機関にQP-Prostateソフトウェアを提供する。"
               },
               {
                 "t": "p",
-                "x": "8月に米国の成人5,000人超を対象に行われたGallupの新たな調査によると、患者は人工知能ツールが診断や治療の判断を下すことに、以前より抵抗を感じなくなっている。"
+                "x": "同社によると、QP-Prostateはバイパラメトリック(bi-parametric)前立腺MRIで疑わしい病変を自動的に検出・特定し、元画像の上にオーバーレイとして表示する。このソフトウェアはU.S.食品医薬品局(FDA)の承認を受けており、Health Canadaからクラス(class) IIIの医療機器ライセンスを取得している。"
               },
               {
                 "t": "p",
-                "x": "U.S.の成人の半数超は、医療提供者がその判断を確認し、覆せる場合に限って、AIツールが自分の治療に関する臨床判断を下してもよいと答えた。医療提供者が意思決定にまったく関与しない場合、AIへの安心感は大きく下がる。"
-              },
-              {
-                "t": "p",
-                "x": "現役のプライマリケア医1,000人超を対象とした別のGallup調査では、AIによる診断・治療の判断に患者が感じる安心感と、医療提供者が想定する患者の安心感との間に20ポイントの差があった。患者が受け入れると答えた医療提供者は約三分の一にとどまった。報告書の著者らは、医療提供者は診療でのAIの使い方について患者の希望を尋ねるべきだとしている。"
-              },
-              {
-                "t": "p",
-                "x": "成人の半数近くが、医療提供者の確認があれば、診断・治療や画像読影でのAI-ledの判断により安心できると答えた。これはプライバシー保護、安全性・有効性の研究、医療費の低下よりも大きな要因だった。強固なプライバシー保護がそれに次ぐ重要な要因だった。"
+                "x": "同社によると、Precision Imaging Networkは既存の画像共有インフラを使い、医療機関が選んだアプリケーションへ画像検査を振り分ける。対応する構成では、QP-Prostateの結果をMicrosoftの読影レポートソフトPowerScribeに送ることができ、放射線科医はレポートを確定する前にそれを確認して反映できるとQuibimは説明している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "有临床医生监督\n患者便接受临床AI",
-          "body": "Gallup调查发现，患者对AI参与诊疗的接受度高于医疗人员预期，关键在于人工监督。",
-          "mini_headline": "患者希望AI受到监督",
+          "headline": "Quibim前列腺MRI\nAI加入Microsoft网",
+          "body": "FDA-cleared的QP-Prostate已接入Microsoft影像网络。",
+          "mini_headline": "Quibim接入Microsoft网络",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/UnzN7Q0yFftdnT_LCfhN69ifT-LDXfXaS57AtdtgXhk/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjcyMDM5MjIwLmpwZw==.webp",
-                "cap": "Getty Images"
+                "t": "p",
+                "x": "Quibim将通过Microsoft的Precision Imaging Network向北美医疗机构提供其QP-Prostate软件。Precision Imaging Network是一个可接入第三方影像AI应用的平台。"
               },
               {
                 "t": "p",
-                "x": "Gallup于8月对5,000多名美国成年人进行的一项新调查显示，患者对人工智能工具做出诊断或治疗决定越来越能够接受。"
+                "x": "据该公司介绍，QP-Prostate可在双参数(bi-parametric)前列腺MRI上自动检测并识别可疑病灶，并以叠加层形式标注在原始图像上。该软件已获U.S.食品药品监督管理局(FDA)批准，并持有Health Canada颁发的class III医疗器械许可证。"
               },
               {
                 "t": "p",
-                "x": "超过一半的U.S.成年人表示，只要医疗服务提供者能够审查并推翻AI工具的决定，他们就可以接受由AI工具对其诊疗做出临床决定。如果医疗服务提供者完全不参与决策，他们对AI的接受度会急剧下降。"
-              },
-              {
-                "t": "p",
-                "x": "另一项针对1,000多名在职初级保健医生的Gallup调查显示，在AI做出诊断和治疗决定这件事上，患者实际的接受程度与医疗服务提供者所认为的患者接受程度之间存在20个百分点的差距；只有约三分之一的医疗服务提供者认为患者会接受。报告作者认为，医疗服务提供者应询问患者希望AI如何用于自己的诊疗。"
-              },
-              {
-                "t": "p",
-                "x": "近一半的成年人表示，有医疗服务提供者审查会让他们对诊断、治疗及影像判读方面的AI-led决策更放心，其作用超过隐私保护、安全性与有效性研究以及更低的医疗费用。强有力的隐私保护是第二重要的因素。"
+                "x": "该公司称，Precision Imaging Network利用现有的影像共享基础设施，将影像检查发送到机构所选的应用。Quibim表示，在受支持的配置下，QP-Prostate的结果可传送至Microsoft的报告软件PowerScribe，放射科医生可在最终确定报告前查看并纳入这些结果。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Pacientes aceptan la IA clínica\nsi la supervisan los médicos",
-          "body": "Un sondeo de Gallup halla a los pacientes más abiertos a la IA de lo que creen los médicos, si hay supervisión humana.",
-          "mini_headline": "Los pacientes quieren supervisión de la IA",
+          "headline": "Quibim lleva su AI de MRI\nprostática a la red Microsoft",
+          "body": "QP-Prostate, FDA-cleared, llega a la Precision Imaging Network de Microsoft y envía resultados a PowerScribe.",
+          "mini_headline": "Quibim se suma a la red de Microsoft",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/UnzN7Q0yFftdnT_LCfhN69ifT-LDXfXaS57AtdtgXhk/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjcyMDM5MjIwLmpwZw==.webp",
-                "cap": "Getty Images"
+                "t": "p",
+                "x": "Quibim pone su software QP-Prostate a disposición de las organizaciones sanitarias de Norteamérica a través de la Precision Imaging Network de Microsoft, una plataforma que da acceso a aplicaciones de AI de imagen de terceros."
               },
               {
                 "t": "p",
-                "x": "Los pacientes se sienten cada vez más cómodos con que herramientas de inteligencia artificial tomen decisiones de diagnóstico o tratamiento, según una nueva encuesta de Gallup realizada en agosto a más de 5,000 adultos estadounidenses."
+                "x": "Según el proveedor, QP-Prostate detecta e identifica de forma automática lesiones sospechosas en la MRI de próstata biparamétrica (bi-parametric) y las marca como una superposición sobre las imágenes originales. El software cuenta con la autorización de la Administración de Alimentos y Medicamentos de EE. UU. (U.S. FDA) y con una licencia de dispositivo médico de class III de Health Canada."
               },
               {
                 "t": "p",
-                "x": "Más de la mitad de los adultos de U.S. (EE. UU.) dijo que aceptaría que herramientas de AI tomaran decisiones clínicas sobre su atención, pero solo si su proveedor de salud puede revisar y anular esas decisiones. Su comodidad con la IA cae bruscamente si el proveedor no participa en absoluto en la toma de decisiones."
-              },
-              {
-                "t": "p",
-                "x": "Otra encuesta de Gallup a más de 1,000 médicos de atención primaria en ejercicio muestra una brecha de 20 puntos porcentuales entre la comodidad de los pacientes con que la IA tome decisiones de diagnóstico y tratamiento y la comodidad que los proveedores creen que tienen los pacientes; solo alrededor de un tercio de los proveedores dijo que los pacientes estarían de acuerdo. Según los autores del informe, los proveedores deberían preguntar a los pacientes sus preferencias sobre cómo se usa la IA en su atención."
-              },
-              {
-                "t": "p",
-                "x": "Casi la mitad de los adultos dijo que la revisión de un proveedor los hacía sentirse más cómodos con las decisiones dirigidas por IA (AI-led) en diagnóstico, tratamiento y revisión de imágenes, más que las protecciones de privacidad, los estudios de seguridad y eficacia o los menores costos de atención médica. Las protecciones sólidas de la privacidad fueron el siguiente factor más importante."
+                "x": "Según la empresa, Precision Imaging Network dirige los estudios de imagen a las aplicaciones que cada organización ha seleccionado mediante la infraestructura existente para compartir imágenes. En las configuraciones compatibles, los resultados de QP-Prostate pueden enviarse al software de informes PowerScribe de Microsoft, donde los radiólogos pueden revisarlos e incorporarlos antes de cerrar sus informes, explicó Quibim."
               }
             ]
           }
@@ -1427,125 +1281,281 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "환자, 의료진 감독 땐\n임상 AI 받아들인다",
-          "body": "Gallup에 따르면 환자는 의사 생각보다 AI에 열려 있고 관건은 인간 감독이다.",
-          "mini_headline": "환자는 AI 감독을 원한다",
+          "headline": "Quibim 전립선 MRI\nAI Microsoft망에",
+          "body": "FDA-cleared QP-Prostate가 Microsoft 망에 들어갔다.",
+          "mini_headline": "Quibim, Microsoft 망 합류",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/UnzN7Q0yFftdnT_LCfhN69ifT-LDXfXaS57AtdtgXhk/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjcyMDM5MjIwLmpwZw==.webp",
-                "cap": "Getty Images"
+                "t": "p",
+                "x": "Quibim이 QP-Prostate 소프트웨어를 Microsoft의 Precision Imaging Network를 통해 북미 의료기관에 제공한다. Precision Imaging Network는 서드파티 영상 AI 애플리케이션을 쓸 수 있게 해 주는 플랫폼이다."
               },
               {
                 "t": "p",
-                "x": "새 Gallup 조사에 따르면 환자들은 인공지능 도구가 진단이나 치료 결정을 내리는 데 점점 더 편안함을 느끼고 있다. 조사는 8월 미국 성인 5,000명 이상을 대상으로 했다."
+                "x": "업체에 따르면 QP-Prostate는 바이파라메트릭(bi-parametric) 전립선 MRI에서 의심 병변을 자동으로 찾아 식별하고, 원본 영상 위에 오버레이로 표시한다. 이 소프트웨어는 U.S. 식품의약국(FDA)의 허가를 받았고, Health Canada로부터 class III 의료기기 면허를 받았다."
               },
               {
                 "t": "p",
-                "x": "U.S. 성인의 절반 이상은 담당 의료진이 결정을 검토하고 뒤집을 수 있다는 조건에서만 AI 도구가 자신의 진료에 관한 임상 결정을 내려도 괜찮다고 답했다. 의료진이 의사 결정에 전혀 관여하지 않으면 AI에 대한 편안함은 급격히 떨어진다."
-              },
-              {
-                "t": "p",
-                "x": "현직 일차 진료 의사 1,000명 이상을 대상으로 한 별도의 Gallup 조사에서는, AI가 진단과 치료 결정을 내리는 데 환자가 느끼는 편안함과 의료진이 짐작하는 환자의 편안함 사이에 20퍼센트포인트의 격차가 나타났다. 환자가 받아들일 것이라고 답한 의료진은 약 삼분의 일에 그쳤다. 보고서 저자들은 의료진이 진료에서 AI를 어떻게 쓸지 환자에게 선호를 물어야 한다고 말한다."
-              },
-              {
-                "t": "p",
-                "x": "성인의 절반 가까이는 의료진 검토가 있으면 진단·치료와 영상 판독에 대한 AI-led 결정이 더 편하다고 답했다. 이는 개인정보 보호, 안전성·효능 연구, 의료비 절감보다 큰 요인이었다. 강력한 개인정보 보호가 그다음으로 중요한 요인이었다."
+                "x": "회사에 따르면 Precision Imaging Network는 기존 영상 공유 인프라를 이용해 기관이 고른 애플리케이션으로 영상 검사를 보낸다. Quibim은 지원되는 구성에서는 QP-Prostate 결과를 Microsoft의 판독 보고 소프트웨어 PowerScribe로 보낼 수 있고, 영상의학과 전문의가 보고서를 확정하기 전에 이를 검토해 반영할 수 있다고 밝혔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "臨床医の監督あれば\n患者は臨床AIを容認",
-          "body": "Gallup調査で、患者は医療者の想定よりAIに前向きで、鍵は人による監督だと分かった。",
-          "mini_headline": "患者はAIへの監督を求める",
+          "headline": "Quibimの前立腺MRI\nAIがMicrosoft網に",
+          "body": "FDA-clearedのQP-ProstateがMicrosoftの画像網に加わった。",
+          "mini_headline": "QuibimがMicrosoft網に参加",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/UnzN7Q0yFftdnT_LCfhN69ifT-LDXfXaS57AtdtgXhk/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjcyMDM5MjIwLmpwZw==.webp",
-                "cap": "Getty Images"
+                "t": "p",
+                "x": "Quibimは、サードパーティーの画像AIアプリケーションを利用できるプラットフォームであるMicrosoftのPrecision Imaging Networkを通じて、北米の医療機関にQP-Prostateソフトウェアを提供する。"
               },
               {
                 "t": "p",
-                "x": "8月に米国の成人5,000人超を対象に行われたGallupの新たな調査によると、患者は人工知能ツールが診断や治療の判断を下すことに、以前より抵抗を感じなくなっている。"
+                "x": "同社によると、QP-Prostateはバイパラメトリック(bi-parametric)前立腺MRIで疑わしい病変を自動的に検出・特定し、元画像の上にオーバーレイとして表示する。このソフトウェアはU.S.食品医薬品局(FDA)の承認を受けており、Health Canadaからクラス(class) IIIの医療機器ライセンスを取得している。"
               },
               {
                 "t": "p",
-                "x": "U.S.の成人の半数超は、医療提供者がその判断を確認し、覆せる場合に限って、AIツールが自分の治療に関する臨床判断を下してもよいと答えた。医療提供者が意思決定にまったく関与しない場合、AIへの安心感は大きく下がる。"
-              },
-              {
-                "t": "p",
-                "x": "現役のプライマリケア医1,000人超を対象とした別のGallup調査では、AIによる診断・治療の判断に患者が感じる安心感と、医療提供者が想定する患者の安心感との間に20ポイントの差があった。患者が受け入れると答えた医療提供者は約三分の一にとどまった。報告書の著者らは、医療提供者は診療でのAIの使い方について患者の希望を尋ねるべきだとしている。"
-              },
-              {
-                "t": "p",
-                "x": "成人の半数近くが、医療提供者の確認があれば、診断・治療や画像読影でのAI-ledの判断により安心できると答えた。これはプライバシー保護、安全性・有効性の研究、医療費の低下よりも大きな要因だった。強固なプライバシー保護がそれに次ぐ重要な要因だった。"
+                "x": "同社によると、Precision Imaging Networkは既存の画像共有インフラを使い、医療機関が選んだアプリケーションへ画像検査を振り分ける。対応する構成では、QP-Prostateの結果をMicrosoftの読影レポートソフトPowerScribeに送ることができ、放射線科医はレポートを確定する前にそれを確認して反映できるとQuibimは説明している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "有临床医生监督\n患者便接受临床AI",
-          "body": "Gallup调查发现，患者对AI参与诊疗的接受度高于医疗人员预期，关键在于人工监督。",
-          "mini_headline": "患者希望AI受到监督",
+          "headline": "Quibim前列腺MRI\nAI加入Microsoft网",
+          "body": "FDA-cleared的QP-Prostate已接入Microsoft影像网络。",
+          "mini_headline": "Quibim接入Microsoft网络",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/UnzN7Q0yFftdnT_LCfhN69ifT-LDXfXaS57AtdtgXhk/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjcyMDM5MjIwLmpwZw==.webp",
-                "cap": "Getty Images"
+                "t": "p",
+                "x": "Quibim将通过Microsoft的Precision Imaging Network向北美医疗机构提供其QP-Prostate软件。Precision Imaging Network是一个可接入第三方影像AI应用的平台。"
               },
               {
                 "t": "p",
-                "x": "Gallup于8月对5,000多名美国成年人进行的一项新调查显示，患者对人工智能工具做出诊断或治疗决定越来越能够接受。"
+                "x": "据该公司介绍，QP-Prostate可在双参数(bi-parametric)前列腺MRI上自动检测并识别可疑病灶，并以叠加层形式标注在原始图像上。该软件已获U.S.食品药品监督管理局(FDA)批准，并持有Health Canada颁发的class III医疗器械许可证。"
               },
               {
                 "t": "p",
-                "x": "超过一半的U.S.成年人表示，只要医疗服务提供者能够审查并推翻AI工具的决定，他们就可以接受由AI工具对其诊疗做出临床决定。如果医疗服务提供者完全不参与决策，他们对AI的接受度会急剧下降。"
-              },
-              {
-                "t": "p",
-                "x": "另一项针对1,000多名在职初级保健医生的Gallup调查显示，在AI做出诊断和治疗决定这件事上，患者实际的接受程度与医疗服务提供者所认为的患者接受程度之间存在20个百分点的差距；只有约三分之一的医疗服务提供者认为患者会接受。报告作者认为，医疗服务提供者应询问患者希望AI如何用于自己的诊疗。"
-              },
-              {
-                "t": "p",
-                "x": "近一半的成年人表示，有医疗服务提供者审查会让他们对诊断、治疗及影像判读方面的AI-led决策更放心，其作用超过隐私保护、安全性与有效性研究以及更低的医疗费用。强有力的隐私保护是第二重要的因素。"
+                "x": "该公司称，Precision Imaging Network利用现有的影像共享基础设施，将影像检查发送到机构所选的应用。Quibim表示，在受支持的配置下，QP-Prostate的结果可传送至Microsoft的报告软件PowerScribe，放射科医生可在最终确定报告前查看并纳入这些结果。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Pacientes aceptan la IA clínica\nsi la supervisan los médicos",
-          "body": "Un sondeo de Gallup halla a los pacientes más abiertos a la IA de lo que creen los médicos, si hay supervisión humana.",
-          "mini_headline": "Los pacientes quieren supervisión de la IA",
+          "headline": "Quibim lleva su AI de MRI\nprostática a la red Microsoft",
+          "body": "QP-Prostate, FDA-cleared, llega a la Precision Imaging Network de Microsoft y envía resultados a PowerScribe.",
+          "mini_headline": "Quibim se suma a la red de Microsoft",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Quibim pone su software QP-Prostate a disposición de las organizaciones sanitarias de Norteamérica a través de la Precision Imaging Network de Microsoft, una plataforma que da acceso a aplicaciones de AI de imagen de terceros."
+              },
+              {
+                "t": "p",
+                "x": "Según el proveedor, QP-Prostate detecta e identifica de forma automática lesiones sospechosas en la MRI de próstata biparamétrica (bi-parametric) y las marca como una superposición sobre las imágenes originales. El software cuenta con la autorización de la Administración de Alimentos y Medicamentos de EE. UU. (U.S. FDA) y con una licencia de dispositivo médico de class III de Health Canada."
+              },
+              {
+                "t": "p",
+                "x": "Según la empresa, Precision Imaging Network dirige los estudios de imagen a las aplicaciones que cada organización ha seleccionado mediante la infraestructura existente para compartir imágenes. En las configuraciones compatibles, los resultados de QP-Prostate pueden enviarse al software de informes PowerScribe de Microsoft, donde los radiólogos pueden revisarlos e incorporarlos antes de cerrar sus informes, explicó Quibim."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "oral-pigmentation-ai-screening-gap",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "구강암 AI 검진에\n색소 검증 공백",
+      "body": "아시아인 위주로 검증된 MeMoSA가 정상 구강 색소를 이상으로 오판할 수 있다.",
+      "mini_headline": "구강암 AI 색소 검증 공백",
+      "tool": "Medicine",
+      "source": "npj Digital Medicine",
+      "url": "https://www.nature.com/articles/s41746-026-03466-9",
+      "accent": "#eb367f",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "MeMoSA 같은 AI-assisted(AI 보조) 구강암 검진 도구는 거의 아시아인 집단에서만 검증됐다. 연구진은 검증 가능한 가설 하나를 내놓았다. 인종마다 다르지만 병리와는 무관한 생리적 구강 색소 침착 탓에 분류기가 정상 변이를 의심 소견으로 잘못 분류하거나, 색소에 가려진 병변을 놓칠 수 있다는 것이다. 연구진은 맥박산소측정기와 피부과 AI의 전례를 들며, 미국처럼 인종 구성이 다양한 곳에 들이기 전에 색소 침착 정도별 검증부터 거쳐야 한다고 촉구했다."
+          },
+          {
+            "t": "p",
+            "x": "Khanna, D., Grover, A. Beyond skin deep: physiologic oral pigmentation as an overlooked validation gap in AI-assisted oral cancer screening. npj Digit. Med. (2026). 가속 공개(Accelerated article preview) 논문이라 현재는 초록만 나와 있다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Oral cancer AI has a\npigmentation validation gap",
+          "body": "Tools like MeMoSA, validated mostly in Asian populations, may flag normal oral pigmentation as suspicious.",
+          "mini_headline": "Oral AI pigmentation gap",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/UnzN7Q0yFftdnT_LCfhN69ifT-LDXfXaS57AtdtgXhk/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjcyMDM5MjIwLmpwZw==.webp",
-                "cap": "Getty Images"
+                "t": "p",
+                "x": "AI-assisted oral cancer screening tools, exemplified by MeMoSA, have been validated almost exclusively in Asian populations. We propose a testable hypothesis: physiologic oral pigmentation, which varies by race independent of pathology, may cause classifiers to misclassify normal variation as suspicious or miss camouflaged lesions. Following precedent from pulse oximetry and dermatology AI, we call for pigmentation-stratified validation before deployment in racially diverse settings such as the United States."
               },
               {
                 "t": "p",
-                "x": "Los pacientes se sienten cada vez más cómodos con que herramientas de inteligencia artificial tomen decisiones de diagnóstico o tratamiento, según una nueva encuesta de Gallup realizada en agosto a más de 5,000 adultos estadounidenses."
+                "x": "Khanna, D., Grover, A. Beyond skin deep: physiologic oral pigmentation as an overlooked validation gap in AI-assisted oral cancer screening. npj Digit. Med. (2026). Accelerated article preview; only the abstract is published so far."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "구강암 AI 검진에\n색소 검증 공백",
+          "body": "아시아인 위주로 검증된 MeMoSA가 정상 구강 색소를 이상으로 오판할 수 있다.",
+          "mini_headline": "구강암 AI 색소 검증 공백",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "MeMoSA 같은 AI-assisted(AI 보조) 구강암 검진 도구는 거의 아시아인 집단에서만 검증됐다. 연구진은 검증 가능한 가설 하나를 내놓았다. 인종마다 다르지만 병리와는 무관한 생리적 구강 색소 침착 탓에 분류기가 정상 변이를 의심 소견으로 잘못 분류하거나, 색소에 가려진 병변을 놓칠 수 있다는 것이다. 연구진은 맥박산소측정기와 피부과 AI의 전례를 들며, 미국처럼 인종 구성이 다양한 곳에 들이기 전에 색소 침착 정도별 검증부터 거쳐야 한다고 촉구했다."
               },
               {
                 "t": "p",
-                "x": "Más de la mitad de los adultos de U.S. (EE. UU.) dijo que aceptaría que herramientas de AI tomaran decisiones clínicas sobre su atención, pero solo si su proveedor de salud puede revisar y anular esas decisiones. Su comodidad con la IA cae bruscamente si el proveedor no participa en absoluto en la toma de decisiones."
+                "x": "Khanna, D., Grover, A. Beyond skin deep: physiologic oral pigmentation as an overlooked validation gap in AI-assisted oral cancer screening. npj Digit. Med. (2026). 가속 공개(Accelerated article preview) 논문이라 현재는 초록만 나와 있다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "口腔がんAIに\n色素の検証ギャップ",
+          "body": "アジア人中心に検証されたMeMoSAなどは、正常な口腔色素を疑わしいと判定しうる。",
+          "mini_headline": "口腔がんAIの色素ギャップ",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "MeMoSAに代表されるAI-assisted(AI支援)口腔がん検診ツールは、ほぼアジア人集団でのみ検証されてきた。著者らは検証可能な仮説を提示する。病理とは無関係に人種によって異なる生理的な口腔色素沈着が原因で、分類器が正常な変異を疑わしいと誤分類したり、色素に紛れた病変を見逃したりする可能性があるというものだ。パルスオキシメトリーや皮膚科AIの前例にならい、米国のように人種が多様な環境で導入する前に、色素沈着の程度で層別化した検証を行うよう求めている。"
               },
               {
                 "t": "p",
-                "x": "Otra encuesta de Gallup a más de 1,000 médicos de atención primaria en ejercicio muestra una brecha de 20 puntos porcentuales entre la comodidad de los pacientes con que la IA tome decisiones de diagnóstico y tratamiento y la comodidad que los proveedores creen que tienen los pacientes; solo alrededor de un tercio de los proveedores dijo que los pacientes estarían de acuerdo. Según los autores del informe, los proveedores deberían preguntar a los pacientes sus preferencias sobre cómo se usa la IA en su atención."
+                "x": "Khanna, D., Grover, A. Beyond skin deep: physiologic oral pigmentation as an overlooked validation gap in AI-assisted oral cancer screening. npj Digit. Med. (2026). 早期公開版(Accelerated article preview)で、現時点では要旨のみが公開されている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "口腔癌AI筛查\n存在色素验证缺口",
+          "body": "MeMoSA等工具主要在亚洲人群中验证，可能把正常口腔色素误判为可疑。",
+          "mini_headline": "口腔癌AI色素验证缺口",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "以MeMoSA为代表的AI-assisted(AI辅助)口腔癌筛查工具几乎只在亚洲人群中做过验证。作者提出一个可检验的假设：生理性口腔色素沉着因种族而异、与病理无关，可能导致分类器把正常变异误判为可疑，或漏掉被色素掩盖的病灶。借鉴脉搏血氧仪和皮肤科AI的先例，作者呼吁在美国等种族多元的环境中部署前，先按色素沉着程度分层进行验证。"
               },
               {
                 "t": "p",
-                "x": "Casi la mitad de los adultos dijo que la revisión de un proveedor los hacía sentirse más cómodos con las decisiones dirigidas por IA (AI-led) en diagnóstico, tratamiento y revisión de imágenes, más que las protecciones de privacidad, los estudios de seguridad y eficacia o los menores costos de atención médica. Las protecciones sólidas de la privacidad fueron el siguiente factor más importante."
+                "x": "Khanna, D., Grover, A. Beyond skin deep: physiologic oral pigmentation as an overlooked validation gap in AI-assisted oral cancer screening. npj Digit. Med. (2026). 本文为加速预览版(Accelerated article preview)，目前仅发布了摘要。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "La AI de cáncer oral tiene un\nvacío de validación pigmentaria",
+          "body": "Herramientas como MeMoSA, validadas sobre todo en asiáticos, podrían juzgar sospechosa la pigmentación oral normal.",
+          "mini_headline": "AI oral: vacío de pigmentación",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Las herramientas de cribado de cáncer oral AI-assisted (asistidas por AI), con MeMoSA como ejemplo, se han validado casi exclusivamente en poblaciones asiáticas. Proponemos una hipótesis comprobable: la pigmentación oral fisiológica, que varía según la raza con independencia de la patología, puede hacer que los clasificadores tomen la variación normal por sospechosa o pasen por alto lesiones camufladas. Siguiendo el precedente de la pulsioximetría y la AI dermatológica, pedimos una validación estratificada por pigmentación antes de su despliegue en entornos racialmente diversos como Estados Unidos."
+              },
+              {
+                "t": "p",
+                "x": "Khanna, D., Grover, A. Beyond skin deep: physiologic oral pigmentation as an overlooked validation gap in AI-assisted oral cancer screening. npj Digit. Med. (2026). Vista previa acelerada del artículo (Accelerated article preview); por ahora solo se ha publicado el resumen."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "구강암 AI 검진에\n색소 검증 공백",
+          "body": "아시아인 위주로 검증된 MeMoSA는 정상 구강 색소를 이상으로 볼 수 있다.",
+          "mini_headline": "구강암 AI 색소 검증 공백",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "MeMoSA로 대표되는 AI-assisted(AI 보조) 구강암 검진 도구는 거의 아시아인 집단에서만 검증됐다. 연구진은 검증 가능한 가설을 제시한다. 병리와 무관하게 인종에 따라 달라지는 생리적 구강 색소 침착 때문에 분류기가 정상 변이를 의심 소견으로 잘못 분류하거나, 색소에 가려진 병변을 놓칠 수 있다는 것이다. 연구진은 맥박산소측정기와 피부과 AI의 선례에 비춰, 미국처럼 인종이 다양한 환경에 도입하기 전에 색소 침착 정도별로 나눈 검증이 필요하다고 촉구한다."
+              },
+              {
+                "t": "p",
+                "x": "Khanna, D., Grover, A. Beyond skin deep: physiologic oral pigmentation as an overlooked validation gap in AI-assisted oral cancer screening. npj Digit. Med. (2026). 가속 공개(Accelerated article preview) 논문으로, 지금까지는 초록만 공개됐다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "口腔がんAIに\n色素の検証ギャップ",
+          "body": "アジア人中心に検証されたMeMoSAなどは、正常な口腔色素を疑わしいと判定しうる。",
+          "mini_headline": "口腔がんAIの色素ギャップ",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "MeMoSAに代表されるAI-assisted(AI支援)口腔がん検診ツールは、ほぼアジア人集団でのみ検証されてきた。著者らは検証可能な仮説を提示する。病理とは無関係に人種によって異なる生理的な口腔色素沈着が原因で、分類器が正常な変異を疑わしいと誤分類したり、色素に紛れた病変を見逃したりする可能性があるというものだ。パルスオキシメトリーや皮膚科AIの前例にならい、米国のように人種が多様な環境で導入する前に、色素沈着の程度で層別化した検証を行うよう求めている。"
+              },
+              {
+                "t": "p",
+                "x": "Khanna, D., Grover, A. Beyond skin deep: physiologic oral pigmentation as an overlooked validation gap in AI-assisted oral cancer screening. npj Digit. Med. (2026). 早期公開版(Accelerated article preview)で、現時点では要旨のみが公開されている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "口腔癌AI筛查\n存在色素验证缺口",
+          "body": "MeMoSA等工具主要在亚洲人群中验证，可能把正常口腔色素误判为可疑。",
+          "mini_headline": "口腔癌AI色素验证缺口",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "以MeMoSA为代表的AI-assisted(AI辅助)口腔癌筛查工具几乎只在亚洲人群中做过验证。作者提出一个可检验的假设：生理性口腔色素沉着因种族而异、与病理无关，可能导致分类器把正常变异误判为可疑，或漏掉被色素掩盖的病灶。借鉴脉搏血氧仪和皮肤科AI的先例，作者呼吁在美国等种族多元的环境中部署前，先按色素沉着程度分层进行验证。"
+              },
+              {
+                "t": "p",
+                "x": "Khanna, D., Grover, A. Beyond skin deep: physiologic oral pigmentation as an overlooked validation gap in AI-assisted oral cancer screening. npj Digit. Med. (2026). 本文为加速预览版(Accelerated article preview)，目前仅发布了摘要。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "La AI de cáncer oral tiene un\nvacío de validación pigmentaria",
+          "body": "Herramientas como MeMoSA, validadas sobre todo en asiáticos, podrían juzgar sospechosa la pigmentación oral normal.",
+          "mini_headline": "AI oral: vacío de pigmentación",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Las herramientas de cribado de cáncer oral AI-assisted (asistidas por AI), con MeMoSA como ejemplo, se han validado casi exclusivamente en poblaciones asiáticas. Proponemos una hipótesis comprobable: la pigmentación oral fisiológica, que varía según la raza con independencia de la patología, puede hacer que los clasificadores tomen la variación normal por sospechosa o pasen por alto lesiones camufladas. Siguiendo el precedente de la pulsioximetría y la AI dermatológica, pedimos una validación estratificada por pigmentación antes de su despliegue en entornos racialmente diversos como Estados Unidos."
+              },
+              {
+                "t": "p",
+                "x": "Khanna, D., Grover, A. Beyond skin deep: physiologic oral pigmentation as an overlooked validation gap in AI-assisted oral cancer screening. npj Digit. Med. (2026). Vista previa acelerada del artículo (Accelerated article preview); por ahora solo se ha publicado el resumen."
               }
             ]
           }

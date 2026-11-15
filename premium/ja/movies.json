@@ -10926,6 +10926,144 @@
           "x": "「Inevitable」は11月13日、Shortical Appで24話が公開された。全50話のマイクロドラマで、新エピソードは毎週配信される。脚本はSharon Ben Tovim、制作はShorticalが手がける。"
         }
       ]
+    },
+    "movies/kling4-seedance-test": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "sh4bkvZQ1WE"
+        },
+        {
+          "t": "p",
+          "x": "「We Tested Kling 4.0 Against Seedance 2.5, and It’s Not Close」(Kling 4.0とSeedance 2.5を比べたら勝負にならなかった)。最近ネットではKling 4.0が話題で、ByteDanceのSeedance 2.5より優れているという声もある。Curious Refugeがその主張を検証した。"
+        },
+        {
+          "t": "p",
+          "x": "KuaishouのKling 4.0は1080pで最大30秒の動画を生成できる。横並びのテストは六つ。キャラクター参照付きの砂漠のアクションシーン、侍とローマ戦士の戦い、ドローンの周回カメラ参照、しゃべる猿が登場するNew Yorkのタクシーでの会話、text-to-videoのハイキングショット、アニメのスタイル参照だ。"
+        },
+        {
+          "t": "img",
+          "src": "https://images.squarespace-cdn.com/content/v1/55bd7005e4b06da83f63b8d9/937c37be-3180-4f94-a605-16dbf03f02b7/Test+04+-+StyleReference+-+REFERENCE.png",
+          "cap": "スタイル参照画像"
+        },
+        {
+          "t": "p",
+          "x": "Seedanceはアクションをよりダイナミックに見せ、戦闘にハイエンドなアクションシーンの迫力を与えた。Klingはprompt-onlyのハイキングショットで最も意図に近く、アニメのスタイル参照にもより忠実だった。Magnificでの砂漠シーンでは、1080pのKling 4.0が$8.40、Seedance 2.5 standardが$24.00だった。"
+        },
+        {
+          "t": "p",
+          "x": "結論として、アクションの物理挙動、カメラワーク、実写的なルックを求めるなら、最も難しいテスト全体で上回ったSeedance 2.5から始めるのがよい。"
+        }
+      ]
+    },
+    "movies/netflix-blue-eye-samurai-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/11/blue-eye-samurai-with-mizu-holding-a-sword.jpg?&fit=crop&w=1600&h=900",
+          "cap": "剣を手にするMizuが登場するBlue Eye Samurai"
+        },
+        {
+          "t": "p",
+          "x": "フランス制作によるNetflixの侍叙事詩のファンは安心していい。このシリーズの制作チームは生成AIを使っておらず、今後も使うことはない。"
+        },
+        {
+          "t": "p",
+          "x": "Varietyによると、Blue SpiritのChief Creative OfficerであるCharles Beirnaertは、Netflixが自身のアニメーションチームに対し、制作のいかなる段階でもAIの使用を禁じたと認めた。「Netflixのプロジェクトでは、AIを使うことは許されていない」と彼は率直に語った。Blue Eye Samuraiは2023年11月に配信が始まり、Rotten Tomatoesで批評家スコア97%を得ている。"
+        },
+        {
+          "t": "img",
+          "src": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2025/08/blue-eye-samurai.jpg?q=70&fit=crop&w=825&dpr=1",
+          "cap": "NetflixのアニメシリーズBlue Eye SamuraiのMizu"
+        },
+        {
+          "t": "p",
+          "x": "ただしNetflixが全面的なzero-AI方針を打ち出したわけではない。2023年にはNetflix Japanが、背景イラストにAIを用いたWit Studioの短編The Dog and the Boyで批判を浴びた。NetflixはまたWit Studioと組み、2027年2月公開予定のOne Pieceのアニメリブートを手がけている。"
+        },
+        {
+          "t": "p",
+          "x": "Blue Spirit自身は生成AIを試している。20人のチームが三か月かけてパイロットを仕上げた後、一人がAIでそれを再現したが、結果は物足りないものだった。Beirnaertは「当てずっぽうの見積もり」として、標準的な八百万ユーロの制作でAIにより最大百万ユーロを節約できる可能性があると述べた。"
+        }
+      ]
+    },
+    "movies/guardian-storyboard-artists-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i.guim.co.uk/img/media/c9aabe04cbc4724110ea14f7d6a4bfe25a89ef20/94_56_6693_4292/master/6693.jpg?width=1200&dpr=1&s=none&crop=none",
+          "cap": "Gone with the Windの絵コンテパネル"
+        },
+        {
+          "t": "p",
+          "x": "Hollywoodがこの技術を取り入れ始める中、最も直接的な危機に立たされているのは、監督の最初の構想を描き出すイラストレーターたちだ。James Cameronはgen AI企業の取締役を務め、Steven SoderberghはJohn Lennonのドキュメンタリーのアニメーションに Meta-powered の技術を使い、Christopher NolanもAIが有用な「イメージングツール」をいくつか生み出すと認めている。"
+        },
+        {
+          "t": "p",
+          "x": "いま炭鉱のカナリアとなっているのは絵コンテ作家だ。Martin Scorseseまでもが乗り出した。彼は6月、あるAI企業との提携を発表し、次回作の絵コンテ制作にその企業のtext-to-imageモデルを使った。"
+        },
+        {
+          "t": "img",
+          "src": "https://i.guim.co.uk/img/media/b0a5fde115c51a5fd45e9a0ec5b762b61284e164/0_0_3404_4370/master/3404.jpg?width=890&dpr=1&s=none&crop=none",
+          "cap": "Saul BassによるPsychoの絵コンテ"
+        },
+        {
+          "t": "p",
+          "x": "「絵コンテはきれいな絵を描くことだというのはよくある誤解だ」と、Mickey 17やThe Gorgeで絵コンテを手がけたAlex Clarkは言う。「監督がどう考えているかに寄り添うことなのだ」。Denis Villeneuveは協力者のSam Hudeckiを「私の脳の延長」と呼ぶ。"
+        },
+        {
+          "t": "p",
+          "x": "Abertayの講師Ferdinando Coccoはアナログな手法への回帰を見込む。「AIが克服したとされる難しさこそ、そもそもの要点だったのかもしれない」。Clarkは、観客が人の手のぬくもりがある映画を評価するようになると予想する。"
+        }
+      ]
+    },
+    "movies/chilemonos-2027-ai-rules": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cms.indieshortsmag.com/wp-content/uploads/2026/11/CHILEMONOS-2027-Opens-Free-Oscar-Qualifying-Animation-Entries-With-New-AI-Restrictions-Indie-Shorts-Mag-News.jpg"
+        },
+        {
+          "t": "p",
+          "x": "第16回CHILEMONOS国際アニメーション映画祭が、2027年開催分の応募受付を始めた。公式コンペティションは六部門で、そのうち二部門はアカデミー賞(Academy Awards)の対象資格につながりうる。受付は2026年11月13日に始まり、2027年2月26日に締め切られる。応募料はかからない。"
+        },
+        {
+          "t": "p",
+          "x": "国際短編アニメーション部門とラテンアメリカ短編アニメーション部門はOscar-qualifyingの部門で、映画祭は2019年からこの資格を保持している。作品は2026年3月1日以降に完成したものに限られ、プロの短編は上映時間が2分から30分でなければならない。"
+        },
+        {
+          "t": "p",
+          "x": "主催者は生成AIを新たな制作ツールと認めつつも、長期的な方針はまだ定めていない。2027年の規定は応募作品でのAI使用を禁じ、アニメーターの創作的貢献を置き換えるAI-generatedのアニメーションを失格事由とする。AI-assistedのワークフローを使う応募者は、応募前に主催者へ連絡する必要がある。"
+        },
+        {
+          "t": "p",
+          "x": "ハイブリッド形式で、ラテンアメリカ全域ではオンライン、Santiagoでは対面で開催され、規定上の会期は2027年5月3–30日だ。"
+        }
+      ]
+    },
+    "movies/movies-ace-editors-avid-survey": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/11/Molly_Shock_ACE_17-1.jpg?w=1000&h=667&crop=1",
+          "cap": "Molly Shock (Avid)"
+        },
+        {
+          "t": "p",
+          "x": "ハリウッドでは、どれほど多くのプロが密かにAIツールを使っているのか、さまざまな噂がささやかれている。いま、映画編集者の一団がそれを公にする用意を整えた。Avidが会員1,200人のAmerican Cinema Editorsのうち120人を対象に行った調査では、映画編集者の77.5%がすでにAIを使っている。"
+        },
+        {
+          "t": "p",
+          "x": "主な用途は文字起こし（60%）、音声のクリーンアップ（55%）、数百時間の素材から特定のショットを探す作業（39.2%）だ。Avidのアーティストリレーション担当副社長Matt Feuryは「『いつかデイリーを同期するのが夢だ』と言って育つ人はいない」と語る。編集者がAIを使うのは創作上の判断のためではなく、「手作業を最小限にするため」だ。"
+        },
+        {
+          "t": "p",
+          "x": "エミー賞ノミネート（Emmy-nominated）の編集者Molly Shockは「なくならないことは私たちも分かっている。適応するか、消えるかだ」と述べた。「MasterChef」の最近のシーズンでは、編集者が出場者のタイムチェックのショットを数秒で見つけ出し、半日かかっていた作業が15分に短縮された日もあった。"
+        },
+        {
+          "t": "p",
+          "x": "AIを毎日または毎週使うユーザーのほぼ100%が、AIは創作上のビジョンを高めるためだけに使うべきだと答えた。ショットやラフカットの組み立てにAIの助けを望んだのはわずか7.5%で、AI利用の障壁のほぼ50%は倫理・著作権・セキュリティへの懸念だった。「AIがどう使われるのかという議論に、私たちも加わっていたいだけだ」とShockは語った。"
+        }
+      ]
     }
   }
 }

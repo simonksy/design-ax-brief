@@ -4438,6 +4438,117 @@
           "x": "Uptunity Aneurysm es el primer producto de la nueva cartera Uptunity de software de AI interpretativa de Bracco, desarrollada mediante la alianza de la compañía con Avicenna.AI. Avicenna.AI liderará la promoción y la distribución comercial en Estados Unidos (U.S.)."
         }
       ]
+    },
+    "medicine/monument-openevidence-block": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_305233727-1024x576.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Algunos hospitales restringen el acceso si las herramientas suponen riesgos de cumplimiento normativo. Otros las incorporan internamente."
+        },
+        {
+          "t": "p",
+          "x": "A principios de este año, Monument Health, el sistema de salud con sede en South Dakota y Wyoming donde Patrick Woodard es director de sistemas de información, decidió bloquear el acceso a OpenEvidence, la popular herramienta gratuita de inteligencia artificial, y Woodard recibió algunas objeciones."
+        },
+        {
+          "t": "p",
+          "x": "Una de ellas vino de un usuario intensivo. Este médico guardaba más de cien historiales de pacientes dentro de OpenEvidence y se los proporcionaba a la herramienta de AI para que lo ayudara a tomar decisiones médicas. Eso tendría que terminar, le dijo Woodard."
+        },
+        {
+          "t": "p",
+          "x": "En el último año han ganado popularidad los chatbots gratuitos creados para responder preguntas de los clínicos, entre ellos OpenEvidence, Doximity Ask y ChatGPT for Clinicians. Cientos de miles de médicos usan estas herramientas, en parte porque afirman cumplir con HIPAA, lo que permite a los usuarios compartir la información de salud protegida de un paciente directamente con la AI tras firmar un acuerdo. (El resto del artículo está reservado a STAT+.)"
+        }
+      ]
+    },
+    "medicine/neardoc-ai-charting-clinics": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044563_3048547_938.png",
+          "cap": "Lee Chang-min, director médico (CMO) de 'Neardoc' de Studio Kiko, durante una entrevista reciente con Korean Doctors' Weekly (ⓒKorean Doctors' Weekly)."
+        },
+        {
+          "t": "p",
+          "x": "\"Recibimos especialmente buenas valoraciones en psiquiatría, donde la conversación con el paciente es más extensa, y en pediatría, donde hay que atender a la vez al niño y a su tutor.\" Neardoc es un servicio de apoyo basado en AI para redactar la historia clínica electrónica (EMR): comprende en tiempo real la conversación entre médico y paciente y organiza síntomas, hallazgos de la exploración, diagnóstico y plan de tratamiento (SOAP). Su punto fuerte es el 'charting personalizado', que refleja el estilo de cada usuario."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044563_3048548_2030.png",
+          "cap": "Ejemplo de uso de Neardoc, con la conversación entre el personal médico y el paciente registrada (fuente: CMO Lee Chang-min)."
+        },
+        {
+          "t": "p",
+          "x": "El CMO Lee, especialista en ortopedia, explicó por qué se sumó al desarrollo: \"Cuando era residente, siempre me sentaba en la planta 1~2 horas para poner al día los registros médicos atrasados\". Según Studio Kiko, el 98% de los 120 médicos que usaron Neardoc quedaron satisfechos con el charting, y la tasa de conversión de la prueba gratuita al pago alcanzó el 70%."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044563_3048549_2124.png",
+          "cap": "Ejemplo de uso de Neardoc, con el SOAP organizado a partir de la conversación entre el personal médico y el paciente (fuente: CMO Lee Chang-min)."
+        },
+        {
+          "t": "p",
+          "x": "En el personal médico que usa Neardoc (120 personas), el tiempo de redacción del EMR bajó cerca de un 70%, de un promedio de 3 minutos 48 segundos antes de la adopción a unos 1 minuto 8 segundos después. En una encuesta a 100 pacientes, la satisfacción con la consulta subió unos 28%p. A los 5 meses del lanzamiento superó las 500 instituciones médicas usuarias, con unas 800.000 consultas acumuladas."
+        },
+        {
+          "t": "p",
+          "x": "El audio original se elimina en cuanto se convierte en texto, y al introducir los datos de las historias que el usuario redacta habitualmente, Neardoc analiza y aprende su estilo de charting. Studio Kiko prevé lanzar este año un módulo empresarial tras pruebas de concepto (PoC) con hospitales nacionales y públicos, entre otros."
+        }
+      ]
+    },
+    "medicine/quibim-qp-prostate-microsoft": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Quibim pone su software QP-Prostate a disposición de las organizaciones sanitarias de Norteamérica a través de la Precision Imaging Network de Microsoft, una plataforma que da acceso a aplicaciones de AI de imagen de terceros."
+        },
+        {
+          "t": "p",
+          "x": "Según el proveedor, QP-Prostate detecta e identifica de forma automática lesiones sospechosas en la MRI de próstata biparamétrica (bi-parametric) y las marca como una superposición sobre las imágenes originales. El software cuenta con la autorización de la Administración de Alimentos y Medicamentos de EE. UU. (U.S. FDA) y con una licencia de dispositivo médico de class III de Health Canada."
+        },
+        {
+          "t": "p",
+          "x": "Según la empresa, Precision Imaging Network dirige los estudios de imagen a las aplicaciones que cada organización ha seleccionado mediante la infraestructura existente para compartir imágenes. En las configuraciones compatibles, los resultados de QP-Prostate pueden enviarse al software de informes PowerScribe de Microsoft, donde los radiólogos pueden revisarlos e incorporarlos antes de cerrar sus informes, explicó Quibim."
+        }
+      ]
+    },
+    "medicine/oral-pigmentation-ai-screening-gap": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Las herramientas de cribado de cáncer oral AI-assisted (asistidas por AI), con MeMoSA como ejemplo, se han validado casi exclusivamente en poblaciones asiáticas. Proponemos una hipótesis comprobable: la pigmentación oral fisiológica, que varía según la raza con independencia de la patología, puede hacer que los clasificadores tomen la variación normal por sospechosa o pasen por alto lesiones camufladas. Siguiendo el precedente de la pulsioximetría y la AI dermatológica, pedimos una validación estratificada por pigmentación antes de su despliegue en entornos racialmente diversos como Estados Unidos."
+        },
+        {
+          "t": "p",
+          "x": "Khanna, D., Grover, A. Beyond skin deep: physiologic oral pigmentation as an overlooked validation gap in AI-assisted oral cancer screening. npj Digit. Med. (2026). Vista previa acelerada del artículo (Accelerated article preview); por ahora solo se ha publicado el resumen."
+        }
+      ]
+    },
+    "medicine/biolojic-bd200-adc-ind": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/0vv8moc6/biopharn/29f1e6f63b2a5a331dd153d454f6879a0aa8733b-1280x720.jpg?w=1200&fit=max&q=75&fm=jpg"
+        },
+        {
+          "t": "p",
+          "x": "La FDA autorizó la solicitud de nuevo fármaco en investigación (Investigational New Drug, IND) de Biolojic Design para BD200, un conjugado anticuerpo-fármaco (ADC) biespecífico diseñado con IA (AI-designed) dirigido a Trop2 y Nectin-4, que la compañía describe como el primer “multibody” en entrar en ensayos clínicos. La autorización permite a Biolojic iniciar un estudio global de phase 1 en pacientes con determinados tumores sólidos que expresan ambos antígenos; el CEO Yanay Ofran dijo que la empresa prevé comenzar el estudio en las próximas semanas."
+        },
+        {
+          "t": "p",
+          "x": "En BD200, cada brazo puede unirse a Nectin-4 o a Trop2, de modo que la molécula puede unirse a Nectin-4 con ambos brazos, a Trop2 con ambos brazos o a uno de cada uno. El diseño busca que el fármaco adapte su unión a la combinación de antígenos expresados en las células tumorales de cada paciente. BD200 lleva una carga útil de inhibidor de la topoisomerasa unida mediante lo que la compañía describe como un enlazador único."
+        },
+        {
+          "t": "p",
+          "x": "Biolojic usa inteligencia artificial y diseño computacional para convertir anticuerpos en candidatos a fármacos. Su plataforma dio origen a imneskibart (antes AU-007), que según la empresa fue el primer anticuerpo diseñado con IA (AI-designed) en llegar a la clínica y ahora está en ensayos de Phase 2."
+        },
+        {
+          "t": "p",
+          "x": "En estudios preclínicos, BD200 adaptó su especificidad a la expresión heterogénea de antígenos en las células tumorales y mostró mayor eficacia y capacidad para superar la resistencia frente a ADCs monoespecíficos estándar o un ADC biespecífico de referencia, según la compañía. El estudio de phase 1 evaluará la seguridad, la tolerabilidad, la farmacocinética y la eficacia preliminar."
+        }
+      ]
     }
   }
 }

@@ -1,160 +1,169 @@
 {
-  "section": "medicine",
-  "now_iso": "2026-11-14T22:00:43Z",
-  "window_hours": 336,
-  "items": [
-    {
-      "title": "AI helps narrow experience gap between mammography readers",
-      "url": "https://www.auntminnie.com/resources/conference/rsna/2026/womens-imaging-preview/article/16425484/ai-helps-narrow-experience-gap-between-mammography-readers",
-      "source": "AuntMinnie",
-      "category": "medicine",
-      "published_iso": "2026-11-13T12:00:00Z",
-      "excerpt": "RSNA 2026 preview: researchers will report whether AI-assisted mammography improves diagnostic performance differently for junior and senior readers and whether it narrows experience-related performance gaps.",
-      "og_image": null
-    },
-    {
-      "title": "AI linked to higher recall rates in screening mammography",
-      "url": "https://www.auntminnie.com/resources/conference/rsna/2026/womens-imaging-preview/article/16425472/ai-linked-to-higher-recall-rates-in-screening-mammography",
-      "source": "AuntMinnie",
-      "category": "medicine",
-      "published_iso": "2026-11-13T12:00:00Z",
-      "excerpt": "RSNA 2026 preview: real-world results from a tertiary cancer center comparing screening mammography interpretations with and without AI, finding AI use associated with higher recall rates.",
-      "og_image": null
-    },
-    {
-      "title": "DL risk model outperforms clinical assessment at safety net hospital",
-      "url": "https://www.auntminnie.com/resources/conference/rsna/2026/womens-imaging-preview/article/16425474/dl-risk-model-outperforms-clinical-assessment-at-safety-net-hospital",
-      "source": "AuntMinnie",
-      "category": "medicine",
-      "published_iso": "2026-11-13T12:00:00Z",
-      "excerpt": "RSNA 2026 preview: performance of the Mirai deep-learning breast cancer risk model at a diverse urban safety-net hospital, outperforming traditional clinical risk assessment.",
-      "og_image": null
-    },
-    {
-      "title": "AI improves rare kidney cancer diagnosis, but overreliance poses risks: AMC study",
-      "url": "https://www.koreabiomed.com/news/articleView.html?idxno=33846",
-      "source": "Korea Biomedical Review",
-      "category": "medicine",
-      "published_iso": "2026-11-13T13:57:58+09:00",
-      "excerpt": "Asan Medical Center's deep-learning tool raised 21 pathologists' accuracy in diagnosing fumarate hydratase-deficient renal cell carcinoma from 60.0% to 73.3%, but physicians who relied more on it were more likely to accept its wrong calls.",
-      "og_image": "https://cdn.koreabiomed.com/news/thumbnail/202611/33846_37014_5655_v150.jpg"
-    },
-    {
-      "title": "Samsung, OpenAI push connected healthcare in US as Korea faces data barriers",
-      "url": "https://www.koreabiomed.com/news/articleView.html?idxno=33825",
-      "source": "Korea Biomedical Review",
-      "category": "medicine",
-      "published_iso": "2026-11-12T10:16:22+09:00",
-      "excerpt": "Samsung Electronics and OpenAI are expanding services that connect personal health data with U.S. hospitals for clinical use, while fragmented hospital information systems and weak interoperability hold Korea back.",
-      "og_image": "https://cdn.koreabiomed.com/news/thumbnail/202611/33825_36990_1250_v150.jpg"
-    },
-    {
-      "title": "Patient comfort with AI's clinical decisions tied to provider oversight: Gallup",
-      "url": "https://www.healthcaredive.com/news/patient-comfort-with-ais-clinical-decisions-tied-to-provider-oversight-ga/874623/",
-      "source": "Healthcare Dive",
-      "category": "medicine",
-      "published_iso": "2026-11-13T10:39:35-05:00",
-      "excerpt": "A new Gallup poll finds patients are more open to AI making decisions about their care than providers assume, but human oversight is what makes them comfortable with it.",
-      "og_image": "https://imgproxy.divecdn.com/8LRNjVp7pJo5yhr9MtNjjDQSkES-KtLbTkgDJFbd5Rg/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjcyMDM5MjIwLmpwZw==.webp"
-    },
-    {
-      "title": "AI-derived inflammation score improves cardiovascular risk prediction beyond CAC",
-      "url": "https://radiologybusiness.com/topics/artificial-intelligence/ai-derived-inflammation-score-improves-cardiovascular-risk-prediction-beyond-cac",
-      "source": "Radiology Business",
-      "category": "medicine",
-      "published_iso": "2026-11-11T22:09:57+00:00",
-      "excerpt": "A JAMA analysis from Oxford finds an AI-derived coronary inflammation score from noncontrast CT flags elevated cardiovascular risk even when calcium scores are zero, performing comparably to CCTA measures.",
-      "og_image": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2022-08/caristo_fat_attenuation_index_fai_ccta_imaging_cta_scct_2022_df.jpg?h=a999504c&itok=44OMSyGV"
-    },
-    {
-      "title": "Multicenter benchmarking of large language models for bladder cancer management recommendations from mpMRI reports",
-      "url": "https://www.nature.com/articles/s41746-026-03469-6",
-      "source": "npj Digital Medicine",
-      "category": "medicine",
-      "published_iso": "2026-11-13T00:00:00Z",
-      "excerpt": "Following TRIPOD-LLM, researchers retrospectively tested nine API-accessed LLMs on 590 bladder cancer mpMRI reports across centers to see whether they generate guideline-concordant management recommendations.",
-      "og_image": null
-    },
-    {
-      "title": "Beyond skin deep: physiologic oral pigmentation as an overlooked validation gap in AI-assisted oral cancer screening",
-      "url": "https://www.nature.com/articles/s41746-026-03466-9",
-      "source": "npj Digital Medicine",
-      "category": "medicine",
-      "published_iso": "2026-11-14T00:00:00Z",
-      "excerpt": "AI oral cancer screening tools such as MeMoSA were validated almost only in Asian populations; the authors argue physiologic oral pigmentation, which varies by race, may cause classifiers to flag normal variation as suspicious.",
-      "og_image": null
-    },
-    {
-      "title": "Development and validation of a machine learning model to predict the daily risk of febrile neutropenia in patients with AML undergoing chemotherapy",
-      "url": "https://www.nature.com/articles/s43856-026-02001-x",
-      "source": "Communications Medicine",
-      "category": "medicine",
-      "published_iso": "2026-11-13T00:00:00Z",
-      "excerpt": "Using registry data from two Finnish university hospital districts, researchers trained and validated an AI model that predicts the daily risk of febrile neutropenia in acute myeloid leukemia patients during chemotherapy.",
-      "og_image": null
-    },
-    {
-      "title": "Beyond the Rogue Agent—Preparing Health Systems for AI Failure",
-      "url": "https://jamanetwork.com/journals/jama/fullarticle/2856704",
-      "source": "JAMA",
-      "category": "medicine",
-      "published_iso": "2026-11-12T16:00:36Z",
-      "excerpt": "JAMA Viewpoint on how health systems should prepare for, and stay resilient through, failures of AI embedded in clinical operations (date via Crossref created, DOI 10.1001/jama.2026.24040).",
-      "og_image": null
-    },
-    {
-      "title": "AI chatbots aren't therapists. But can they finally get men to open up?",
-      "url": "https://www.statnews.com/2026/11/09/ai-chatbots-can-overcome-mental-health-barriers-in-men/",
-      "source": "STAT",
-      "category": "medicine",
-      "published_iso": "2026-11-09T09:30:00+00:00",
-      "excerpt": "STAT examines whether AI chatbots, though imperfect therapists, can lower the barriers that keep men from seeking mental health care.",
-      "og_image": "https://www.statnews.com/wp-content/uploads/2026/11/Stat_11_4_2026-1-1024x576.jpg"
-    },
-    {
-      "title": "AMA: Artificial intelligence can augment physicians but don't call it doctor",
-      "url": "https://www.ama-assn.org/press-center/ama-press-releases/ama-artificial-intelligence-can-augment-physicians-don-t-call-it",
-      "source": "American Medical Association",
-      "category": "medicine",
-      "published_iso": "2026-11-10T09:48:00-06:00",
-      "excerpt": "At its 2026 Interim Meeting the AMA adopted policy that AI cannot be granted licensure or professional titles to practice medicine, and called for laws shielding physicians from liability when AI products fail and requiring vendors to disclose failure rates. (Off-list: on-list coverage only inside a Fierce Healthcare roundup.)",
-      "og_image": "https://www.ama-assn.org/sites/ama-assn.org/files/2023-08/hc-innovation-technology-PR-open-graph-A.jpg"
-    },
-    {
-      "title": "Weekly Rundown: Ohio State Wexner, Microsoft ink tech deal; OpenEvidence launches free Access Intelligence tools",
-      "url": "https://www.fiercehealthcare.com/health-tech/weekly-rundown-openevidence-launches-free-access-intelligence-tools-clinicians-r1",
-      "source": "Fierce Healthcare",
-      "category": "medicine",
-      "published_iso": "2026-11-13T08:00:00-05:00",
-      "excerpt": "Weekly health AI brief for Nov. 9-13: OpenEvidence's free Access Intelligence tools for clinicians, R1's agentic Phare Auth/UM/Denials modules, Microsoft-Ohio State Wexner smart hospital deal, and the AMA's AI licensure policy.",
-      "og_image": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-2217168478.jpg?VersionId=0phAnpOmLcGCkwxate79_jHGSX6nTo0S"
-    },
-    {
-      "title": "NHS launches £200k project to shape how safety and performance of AI diagnostic tools are monitored",
-      "url": "https://www.publictechnology.net/2026/11/13/health-and-social-care/nhs-launches-200k-project-to-shape-how-safety-and-performance-of-ai-diagnostic-tools-are-monitored/",
-      "source": "PublicTechnology",
-      "category": "medicine",
-      "published_iso": "2026-11-13T01:03:00+00:00",
-      "excerpt": "The NHS has asked the Royal College of Radiologists to lead a discovery exercise on post-deployment monitoring of AI diagnostic tools, covering current challenges, bias and needed governance. (Off-list: gov.uk / england.nhs.uk had no item.)",
-      "og_image": "https://www.publictechnology.net/wp-content/uploads/2024/11/hospital.jpg"
-    },
-    {
-      "title": "Insilico's AI-designed TEAD inhibitor shrank tumors in 4 of 22 mesothelioma patients; randomized Phase 2a planned for 2027",
-      "url": "https://www.drugdiscoverytrends.com/insilicos-ai-designed-tead-inhibitor-shrank-tumors-in-4-of-22-mesothelioma-patients-randomized-phase-2a-planned-for-2027/",
-      "source": "Drug Discovery & Development",
-      "category": "medicine",
-      "published_iso": "2026-11-09T18:26:00+00:00",
-      "excerpt": "Insilico Medicine's AI-designed pan-TEAD inhibitor ISM6331 produced responses in 4 of 22 pretreated mesothelioma patients in early clinical data; a randomized Phase 2a is planned for 2027. (Off-list: endpts/fiercebiotech unreachable.)",
-      "og_image": "https://www.drugdiscoverytrends.com/wp-content/uploads/2026/11/AdobeStock_429817459.jpeg"
-    },
-    {
-      "title": "FDA Clears IND for Biolojic's BD200, the First AI-Designed Multibody ADC to Enter Clinical Trials",
-      "url": "https://www.biopharminternational.com/view/fda-clears-ind-for-biolojic-s-bd200-the-first-ai-designed-multibody-adc-to-enter-clinical-trials",
-      "source": "BioPharm International",
-      "category": "medicine",
-      "published_iso": "2026-11-12T15:26:45Z",
-      "excerpt": "FDA cleared Biolojic Design's IND for BD200, an AI-designed Trop2/Nectin-4 bispecific antibody-drug conjugate whose arms can each bind either target; a global Phase 1 in solid tumors starts within weeks. (Off-list: on-list biotech feeds had no coverage.)",
-      "og_image": "https://cdn.sanity.io/images/0vv8moc6/biopharn/29f1e6f63b2a5a331dd153d454f6879a0aa8733b-1280x720.jpg?w=1200&fit=max&q=75&fm=jpg"
-    }
-  ]
+ "section": "medicine",
+ "now_iso": "2026-11-15T22:00:36Z",
+ "window_hours": 336,
+ "items": [
+  {
+   "title": "Cleerly's AI-powered plaque assessments outperform cardiac stress testing",
+   "url": "https://cardiovascularbusiness.com/topics/cardiac-imaging/computed-tomography-ct/cleerlys-ai-powered-plaque-assessments-outperform-cardiac-stress-testing",
+   "source": "Cardiovascular Business",
+   "category": "medicine",
+   "published_iso": "2026-11-13T19:30:00+00:00",
+   "excerpt": "PARAMOUNT, a 530-patient randomized trial at 21 sites, found AI-based quantitative coronary CT plaque analysis (Cleerly AI-QCT) identified ischemic coronary artery disease in 46.7% of patients vs 23.4% with stress-test-guided usual care, meeting its primary endpoint with a 16.6-point win difference and sending fewer patients without obstructive disease to the cath lab.",
+   "og_image": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2023-12/cleerly_ai_plaque_and_coronary_artery_analysis_scct23_df_2.jpeg?h=71976bb4&itok=OzTguH_V"
+  },
+  {
+   "title": "AI-derived inflammation score improves cardiovascular risk prediction beyond CAC",
+   "url": "https://radiologybusiness.com/topics/artificial-intelligence/ai-derived-inflammation-score-improves-cardiovascular-risk-prediction-beyond-cac",
+   "source": "Radiology Business",
+   "category": "medicine",
+   "published_iso": "2026-11-11T22:09:57+00:00",
+   "excerpt": "A multicenter JAMA analysis from Oxford's Antoniades group found AI-derived fat attenuation index (FAI) scores, including one from noncontrast cardiac CT, raised cardiovascular risk prediction AUC from 0.76 to 0.80-0.81 over calcium scoring and flagged high risk in patients with a zero calcium score.",
+   "og_image": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2022-08/caristo_fat_attenuation_index_fai_ccta_imaging_cta_scct_2022_df.jpg?h=a999504c&itok=44OMSyGV"
+  },
+  {
+   "title": "모니터 대신 환자 눈 맞춘다…정신과·소청과 호평 AI 차팅 '니어닥'",
+   "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044563",
+   "source": "청년의사",
+   "category": "medicine",
+   "published_iso": "2026-11-16T06:18:17+09:00",
+   "excerpt": "AI EMR charting assistant Neardoc (Studio Kiko), which drafts SOAP notes from doctor-patient conversation in real time and learns each physician's charting style, is drawing strongest uptake in psychiatry and pediatrics; Bosa reports ~500 clinics and 970,000 visit records since its May launch, with self-reported chart time falling from 3m48s to 1m08s per visit.",
+   "og_image": "https://cdn.docdocdoc.co.kr/news/thumbnail/202611/3044563_3048547_938_v150.jpg"
+  },
+  {
+   "title": "보의연, 병원들에 '19종 실측' 조사 공문…에이아이트릭스 \"고시 위반 아니다\"",
+   "url": "https://www.medigatenews.com/news/2035204417",
+   "source": "메디게이트뉴스",
+   "category": "medicine",
+   "published_iso": "2026-11-15T15:24:00+09:00",
+   "excerpt": "Following a National Assembly audit, Korea's NECA sent a written survey to 171 hospitals that used AITRICS' VitalCare deterioration-prediction AI under the innovative-medical-technology reimbursement pathway, asking whether all 19 input variables were actually measured for every patient (deadline Nov 19); AITRICS says imputing missing values is within its MFDS approval.",
+   "og_image": "https://medigatenews.com/file/news/542817"
+  },
+  {
+   "title": "교수보다 'AI'에 먼저 묻는 의대생들…AI 시대, 의대는 무엇을 가르쳐야 하나",
+   "url": "https://www.medigatenews.com/news/2801633541",
+   "source": "메디게이트뉴스",
+   "category": "medicine",
+   "published_iso": "2026-11-12T15:17:00+09:00",
+   "excerpt": "At the 2026 Korean Association of Medical Colleges conference, deans, faculty and students debated how medical schools should teach as students now consult AI before professors, covering curriculum, assessment and clinical reasoning in the AI era.",
+   "og_image": "https://medigatenews.com/file/news/542149"
+  },
+  {
+   "title": "Is AI Really Saving Hospitals Money? A New Study Raises Questions About the Cost of AI-Driven Care",
+   "url": "https://medcitynews.com/2026/11/is-ai-really-saving-hospitals-money-a-new-study-raises-questions-about-the-cost-of-ai-driven-care/",
+   "source": "MedCity News",
+   "category": "medicine",
+   "published_iso": "2026-11-12T17:54:03+00:00",
+   "excerpt": "A New England Journal of Medicine study of 24 AI systems on 200 de-identified outpatient and ED notes found general-purpose LLMs' assessment-and-treatment plans cost on average $314 more per case at 2026 Medicare rates than the treating physicians' actual plans, raising questions about AI's promised savings.",
+   "og_image": "https://medcitynews.com/wp-content/uploads/sites/7/2026/03/investment.jpg"
+  },
+  {
+   "title": "Development and validation of a machine learning model to predict the daily risk of febrile neutropenia in patients with AML undergoing chemotherapy",
+   "url": "https://www.nature.com/articles/s43856-026-02001-x",
+   "source": "Communications Medicine",
+   "category": "medicine",
+   "published_iso": "2026-11-13T00:00:00+00:00",
+   "excerpt": "Using registry data from two Finnish university hospital districts, researchers trained and validated a machine-learning screening tool that predicts each day's risk of febrile neutropenia in acute myeloid leukemia patients receiving chemotherapy, aiming to flag infections earlier.",
+   "og_image": null
+  },
+  {
+   "title": "Beyond skin deep: physiologic oral pigmentation as an overlooked validation gap in AI-assisted oral cancer screening",
+   "url": "https://www.nature.com/articles/s41746-026-03466-9",
+   "source": "npj Digital Medicine",
+   "category": "medicine",
+   "published_iso": "2026-11-14T00:00:00+00:00",
+   "excerpt": "AI oral cancer screening tools such as MeMoSA have been validated almost exclusively in Asian populations; the authors argue physiologic oral pigmentation, which varies by race, may cause classifiers to flag normal variation as suspicious and call for targeted validation before wider deployment.",
+   "og_image": null
+  },
+  {
+   "title": "Multicenter benchmarking of large language models for bladder cancer management recommendations from mpMRI reports",
+   "url": "https://www.nature.com/articles/s41746-026-03469-6",
+   "source": "npj Digital Medicine",
+   "category": "medicine",
+   "published_iso": "2026-11-13T08:05:36+00:00",
+   "excerpt": "Following TRIPOD-LLM, a multicenter retrospective study evaluated nine API-accessed LLMs on generating guideline-concordant bladder cancer management recommendations from multiparametric MRI reports.",
+   "og_image": null
+  },
+  {
+   "title": "Quibim's prostate MRI AI joins Microsoft imaging AI network",
+   "url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/news/16425030/quibim-quibims-prostate-mri-ai-joins-microsoft-imaging-ai-network",
+   "source": "AuntMinnie",
+   "category": "medicine",
+   "published_iso": "2026-11-10T15:38:42+00:00",
+   "excerpt": "FDA-cleared QP-Prostate, which detects suspected lesions on biparametric prostate MRI, is now available through Microsoft's Precision Imaging Network, with results delivered into PowerScribe for radiologists to review before finalizing reports.",
+   "og_image": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/11/quibim-logo.nzuGqmRqWf.jpg?auto=format%2Ccompress&bg=ffffff&fit=crop&h=675&q=70&w=1200"
+  },
+  {
+   "title": "GEHC adds lung, aortic stenosis AI tools to Vscan Air",
+   "url": "https://www.auntminnie.com/clinical-news/ultrasound/news/16349404/ge-healthcare-gehc-adds-lung-aortic-stenosis-ai-tools-to-vscan-air",
+   "source": "AuntMinnie",
+   "category": "medicine",
+   "published_iso": "2026-11-03T18:42:15+00:00",
+   "excerpt": "GE HealthCare added two FDA 510(k)-cleared, CE-marked AI tools to its Vscan Air handheld ultrasound: Lung Guidance, with which nonexperts got diagnostic-quality lung exams 95.2% of the time vs 96.8% for experts, and AutoAS, which flags moderate-to-severe aortic stenosis from 2D echo views.",
+   "og_image": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/11/vscan-air-family-image.BYP6shKK8K.jpg?auto=format%2Ccompress&bg=ffffff&fill=solid&fill-color=ffffff&fit=fill&h=675&q=70&w=1200"
+  },
+  {
+   "title": "Radpair, Novarad partner on agentic AI reporting in NovaPACS EI",
+   "url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/news/16425387/novarad-radpair-novarad-partner-on-agentic-ai-reporting-in-novapacs-ei",
+   "source": "AuntMinnie",
+   "category": "medicine",
+   "published_iso": "2026-11-12T19:50:55+00:00",
+   "excerpt": "Radpair's cloud agentic AI reporting software will run inside Novarad's NovaPACS EI, letting radiologists review images, query prior studies and draft and finalize reports with natural language and AI agents in a single workflow.",
+   "og_image": null
+  },
+  {
+   "title": "AI chatbots aren't therapists. But can they finally get men to open up?",
+   "url": "https://www.statnews.com/2026/11/09/ai-chatbots-can-overcome-mental-health-barriers-in-men/",
+   "source": "STAT",
+   "category": "medicine",
+   "published_iso": "2026-11-09T09:30:00+00:00",
+   "excerpt": "STAT examines men who turn to AI chatbots for mental health support they would not seek from therapists, weighing evidence that chatbots lower stigma barriers against the risks of unregulated AI therapy.",
+   "og_image": "https://www.statnews.com/wp-content/uploads/2026/11/Stat_11_4_2026-1-1024x576.jpg"
+  },
+  {
+   "title": "As more doctors consult chatbots, health systems can block them — or buy in",
+   "url": "https://www.statnews.com/2026/11/05/doctors-use-ai-chatbots-hipaa-compliance-questions/",
+   "source": "STAT",
+   "category": "medicine",
+   "published_iso": "2026-11-05T09:30:00+00:00",
+   "excerpt": "Health systems are split on clinicians' use of consumer AI tools like OpenEvidence: Monument Health blocked it after finding a doctor had stored more than 100 patient records in the tool, while others are licensing HIPAA-compliant versions.",
+   "og_image": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_305233727-1024x576.jpeg"
+  },
+  {
+   "title": "Beyond the Rogue Agent—Preparing Health Systems for AI Failure",
+   "url": "https://jamanetwork.com/journals/jama/fullarticle/2856704",
+   "source": "JAMA",
+   "category": "medicine",
+   "published_iso": "2026-11-12T16:00:36+00:00",
+   "excerpt": "A JAMA Viewpoint argues health systems must plan for AI failure in clinical operations, including resilience and downtime preparedness when AI tools malfunction, rather than focusing only on rogue-agent scenarios.",
+   "og_image": null
+  },
+  {
+   "title": "AI-Identified Reasons for Nonescalation of Lipid-Lowering Therapy for Secondary Prevention",
+   "url": "https://jamanetwork.com/journals/jamacardiology/fullarticle/2856385",
+   "source": "JAMA Cardiology",
+   "category": "medicine",
+   "published_iso": "2026-11-07T16:30:17+00:00",
+   "excerpt": "Researchers tested whether large language models can read clinical notes to identify treat-to-target lipid strategy use and extract reasons clinicians did not escalate lipid-lowering therapy when patients with ASCVD had LDL-C above goal.",
+   "og_image": null
+  },
+  {
+   "title": "Performance of artificial intelligence versus clinician left-ventricular segmentation of cardiac MRI for mortality prediction: a retrospective, multicentre, prognostic study",
+   "url": "https://www.thelancet.com/journals/landig/article/PIIS2589-7500(26)00065-8/fulltext",
+   "source": "The Lancet Digital Health",
+   "category": "medicine",
+   "published_iso": "2026-11-02T23:32:43+00:00",
+   "excerpt": "A retrospective multicentre Lancet Digital Health study compared AI and clinician left-ventricular segmentation of cardiac MRI for predicting mortality, with an accompanying comment ('AI versus clinicians — quo vadis?').",
+   "og_image": null
+  },
+  {
+   "title": "GI Innovation files Korean patent for AI-designed food allergy candidate GI-308",
+   "url": "https://www.koreabiomed.com/news/articleView.html?idxno=33840",
+   "source": "Korea Biomedical Review",
+   "category": "medicine",
+   "published_iso": "2026-11-13T10:16:32+09:00",
+   "excerpt": "GI Innovation filed a Korean patent for GI-308, an AI-designed food allergy drug candidate combining an IL-4Rα-targeting nanobody with an antibody against an undisclosed target.",
+   "og_image": "https://cdn.koreabiomed.com/news/thumbnail/202611/33840_37007_4624_v150.jpg"
+  }
+ ]
 }

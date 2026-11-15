@@ -1,37 +1,16 @@
 {
   "section": "politics",
-  "now_iso": "2026-11-14T22:00:43Z",
+  "now_iso": "2026-11-15T22:00:36Z",
   "window_hours": 72,
   "items": [
     {
-      "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
-      "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o",
-      "source": "BBC News",
+      "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+      "source": "The Verge",
       "category": "politics",
-      "published_iso": "2026-11-12T23:34:05Z",
-      "excerpt": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs.",
-      "og_image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f66c/live/4f0358a0-def1-11f1-bb80-c5cef03337ce.jpg",
-      "note": "Senate Banking Committee formally asks Huang (Dec 3) and Lutnick (Dec 10) to testify on Nvidia chip exports/Megaspeed; same storyline as BBC Bessent and digitaltoday items - pick one."
-    },
-    {
-      "title": "Bessent blames Lutnick's department for Nvidia chip sales to Megaspeed",
-      "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro",
-      "source": "BBC News",
-      "category": "politics",
-      "published_iso": "2026-11-13T15:04:42Z",
-      "excerpt": "Scott Bessent told CNBC that several government agencies \"were in favour of putting Megaspeed on the entity list for months\".",
-      "og_image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2783/live/a5cdb560-df6c-11f1-9892-87464bbcc2b8.jpg",
-      "note": "Same Nvidia/Megaspeed export-control storyline; Bessent claim is contested - attribute."
-    },
-    {
-      "title": "Thousands turn out in Edinburgh to protest against AI data centres",
-      "url": "https://www.bbc.co.uk/news/articles/c8n50w445zgpo",
-      "source": "BBC News",
-      "category": "politics",
-      "published_iso": "2026-11-14T13:25:09Z",
-      "excerpt": "Demonstrators armed with placards - and some dressed in costume - assembled at the top of the Royal Mile before marching towards the Scottish Parliament.",
-      "og_image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a19c/live/42893b00-e03e-11f1-88e1-eb4e155225b3.jpg",
-      "note": "Public protest, no new document; datacentre siting axis."
+      "published_iso": "2026-11-15T19:15:43+00:00",
+      "excerpt": "Jensen Huang's relationship with a suspected Chinese spy has Congress ready to crack down, with lawmakers moving to tighten export rules on advanced AI chips to China.",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25545717/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
     },
     {
       "title": "Chinese AI labs are training models on Nvidia's Blackwell despite export controls, says ex-OpenAI engineer",
@@ -39,206 +18,170 @@
       "source": "The Register",
       "category": "politics",
       "published_iso": "2026-11-13T21:16:22Z",
-      "excerpt": "Forensic report finds Blackwell's fingerprint in DeepSeek, Moonshot AI, MiniMax and Ant Group models",
+      "excerpt": "A forensic report by an ex-OpenAI engineer finds evidence that Chinese AI labs trained models on export-controlled Nvidia Blackwell chips.",
       "og_image": "https://image.theregister.com/5309895.jpg?imageId=5309895&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
     },
     {
-      "title": "Brit police watchdog says cops' use of facial recog risks wrongful arrests",
-      "url": "https://www.theregister.com/security/2026/11/13/brit-police-watchdog-says-cops-use-of-facial-recog-risks-wrongful-arrests/5309379",
+      "title": "DOJ takes aim at $1.2B in Binance loot as FBI disrupts North Korean scam",
+      "url": "https://www.theregister.com/cyber-crime/2026/11/12/doj-takes-aim-at-12b-in-binance-loot-as-fbi-disrupts-north-korean-scam/5309523",
       "source": "The Register",
       "category": "politics",
-      "published_iso": "2026-11-13T10:15:00Z",
-      "excerpt": "New report calls for change, highlights hodgepodge governance and misunderstanding about tech’s limitations among officers",
-      "og_image": "https://image.theregister.com/5247722.jpg?imageId=5247722&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+      "published_iso": "2026-11-12T23:51:00Z",
+      "excerpt": "DOJ moves to seize $1.2B from the Binance hack; the FBI ties North Korea's 'FaceStealer' deepfake video-call scam to $400M+ in theft and 900+ webcam recordings.",
+      "og_image": "https://image.theregister.com/5309552.jpg?imageId=5309552&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
     },
     {
-      "title": "Singapore says US authorities, and Supermicro, hardly helped investigation of Jensen Huang’s Chinese friend",
-      "url": "https://www.theregister.com/legal/2026/11/13/singapore-says-us-authorities-and-supermicro-hardly-helped-investigation-of-jensen-huangs-chinese-friend/5309579",
-      "source": "The Register",
-      "category": "politics",
-      "published_iso": "2026-11-13T03:41:24Z",
-      "excerpt": "Seized passport during probe of suspected paperwork fibs that hid server shipments to parts unknown",
-      "og_image": "https://image.theregister.com/236933.jpg?imageId=236933&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
-    },
-    {
-      "title": "日, AI 안전 의무 법제화 추진…위반 시 벌칙 신설",
-      "url": "https://www.yna.co.kr/view/AKR20261112066200009",
+      "title": "靑 \"국가자격시험 전체 AI활용 부정행위 의심 사례 전수조사\"",
+      "url": "https://www.yna.co.kr/view/AKR20261115040900001",
       "source": "연합뉴스",
       "category": "politics",
-      "published_iso": "2026-11-12T01:26:04Z",
-      "excerpt": "(서울=연합뉴스) 최이락 기자 = 일본 정부가 고성능 인공지능(AI)이 초래하는 사이버 공격 등 위험에 대응하기 위해 AI 사업자의 안전 확보를...",
-      "og_image": "https://img2.yna.co.kr/photo/cms/2026/10/20/55/PCM20261020000055990_P4.jpg",
-      "note": "Japan government considering mandatory AI safety obligations with penalties (closed expert meeting with Anthropic, OpenAI Japan, NTT)."
+      "published_iso": "2026-11-15T17:15:15+09:00",
+      "excerpt": "청와대가 세무사 시험 수석 합격자의 AI 이용 부정행위 논란과 관련해 긴급 대책회의를 열고 국가자격시험 전반의 AI 활용 부정행위 의심 사례를 전수조사하기로 했다.",
+      "og_image": "https://img2.yna.co.kr/photo/cms/2026/05/06/63/PCM20260506000063990_P4.jpg"
     },
     {
-      "title": "日, AI로 복제한 유명인 목소리·사진 무단 상업이용 규제 추진",
-      "url": "https://www.yna.co.kr/view/AKR20261114030800073",
+      "title": "\"러트닉, 가족 회사와 연관된 반도체 수출규제 완화 추진\"",
+      "url": "https://www.yna.co.kr/view/AKR20261116001300071",
       "source": "연합뉴스",
       "category": "politics",
-      "published_iso": "2026-11-14T04:08:53Z",
-      "excerpt": "(도쿄=연합뉴스) 이도연 특파원 = 일본 정부가 인공지능(AI)으로 타인의 목소리나 사진을 복제해 상업적으로 무단 이용하는 행위를 법으로 규제하...",
-      "og_image": "https://img7.yna.co.kr/photo/cms/2024/05/24/30/PCM20240524000130990_P4.jpg",
-      "note": "METI proposed to expert panel: regulate unauthorized commercial use of AI-cloned celebrity voices/likenesses under Unfair Competition Prevention Act."
+      "published_iso": "2026-11-16T02:16:51+09:00",
+      "excerpt": "하워드 러트닉 미 상무장관이 설립한 투자회사가 규제를 우회해 중국에 최첨단 AI 반도체가 흘러가는 구조와 연관된 가운데, 러트닉이 반도체 수출규제 완화를 추진했다는 NYT 보도.",
+      "og_image": "https://img4.yna.co.kr/etc/inner/KR/2026/11/16/AKR20261116001300071_01_i_P4.jpg"
     },
     {
-      "title": "\"오픈AI, 中 AI칩·장비 접근 차단 의회 법안 지지\"",
-      "url": "https://www.yna.co.kr/view/AKR20261113027100009",
+      "title": "홍콩, AI 안면인식 감시망 가동…용의자 동선 실시간 추적",
+      "url": "https://www.yna.co.kr/view/AKR20261115024600009",
       "source": "연합뉴스",
       "category": "politics",
-      "published_iso": "2026-11-12T23:26:49Z",
-      "excerpt": "(서울=연합뉴스) 주종국 기자 = 오픈AI가 중국의 인공지능(AI) 칩 접근을 차단하고 칩 제조 장비에 대한 접근도 제한하려는 미 의회의 초당적...",
-      "og_image": "https://img5.yna.co.kr/photo/reuters/2026/11/11/PRU20261111116401009_P4.jpg",
-      "note": "Relates to 11-13 published bis-ai-chip-sea-license-rule (3 chip bills eyed for NDAA); new element is OpenAI formally backing the bills."
+      "published_iso": "2026-11-15T15:18:23+09:00",
+      "excerpt": "홍콩 경찰이 인공지능(AI)을 활용한 안면인식 감시망을 가동해 용의자 동선을 실시간으로 추적한다.",
+      "og_image": "https://img1.yna.co.kr/photo/etc/epa/2019/08/14/PEP20190814028001848_P4.jpg"
     },
     {
-      "title": "저작권 등록 때 AI 활용 밝히도록…정부, 제도 개선 추진",
-      "url": "https://zdnet.co.kr/view/?no=20261112160345",
-      "source": "지디넷코리아",
-      "category": "politics",
-      "published_iso": "2026-11-12T07:10:41Z",
-      "excerpt": "정부가 콘텐츠의 저작권 등록 과정에서 생성형 인공지능(AI) 사용 여부와 활용 범위를 구체적으로 밝히도록 제도 개선에 나선다.문화체육관광부는 12일 앰배서더 서울 풀만 호텔에서 열린 2026 서울 저작권 포럼에서 이 같은 정책 추진 방향을 공개했다. 올해 포럼은 ‘생성형 AI와 저...",
-      "og_image": "https://image.zdnet.co.kr/2026/11/12/e0b488e772af18f6ba9375a1ead77188.jpg",
-      "note": "MCST: copyright registration to require disclosure of generative-AI use (announced at 2026 Seoul Copyright Forum)."
-    },
-    {
-      "title": "로이터 “엔비디아 의존 中 AI 프로젝트 규모 4조6000억원 이상”",
-      "url": "https://www.etnews.com/20261114000015",
+      "title": "정부, 올해 국가자격시험 전수조사 실시…세무사 시험 부정행위자는 5년간 응시 제한",
+      "url": "https://www.etnews.com/20261115000178",
       "source": "전자신문",
       "category": "politics",
-      "published_iso": "2026-11-14T02:20:52Z",
-      "excerpt": "중국 내 인공지능(AI) 프로젝트 중 엔비디아 칩에 의존하는 규모가 230억위안(약 4조6000억원) 이상이라는 외신 집계가 나왔다. 젠슨 황 엔비디아 전 최고경영자(CEO) 스캔들 이후 미국의 대(對) 중국 수출 규제가 강화될 수 있다는 우려가 나오고 있어, 중국 내 AI 프로젝트 영향에 이목이 집중된다. 로이터통신은 13일(현지시간) 중국 내 조달공고·투자계획·건설계약·기업공시 등 150여건 자료를 토대로 엔비디아 칩에 기반을 둔 AI 프로",
-      "og_image": "https://img.etnews.com/news/article/2026/11/14/news-p.v1.20261114.87b1c2470afc4c9eb7937503a20b40fd_P1.jpg"
+      "published_iso": "2026-11-15T20:24:10+09:00",
+      "excerpt": "고용노동부가 비상대책회의를 열고 올해 국가자격시험 AI 활용 부정행위 전수조사와 제63회 세무사 시험 부정행위자 합격 취소·5년 응시 제한 등 후속대책을 마련했다.",
+      "og_image": "https://img.etnews.com/news/article/2026/11/15/news-p.v1.20261115.bef88a93891e47efaf3da25295cd9235_P1.jpg"
     },
     {
-      "title": "젠슨 황 사임에도 韓 GPU 26만장 공급 유지…정부 점검회의서 재확인",
-      "url": "https://www.etnews.com/20261113000289",
+      "title": "중기부, '모두의 창업' 개인정보 유출 업체 제재 추진…AI 공급기업 긴급 보안점검",
+      "url": "https://www.etnews.com/20261115000103",
       "source": "전자신문",
       "category": "politics",
-      "published_iso": "2026-11-13T08:49:13Z",
-      "excerpt": "엔비디아가 젠슨 황 최고경영자(CEO) 사임 이후에도 한국에 첨단 그래픽처리장치(GPU) 26만장을 공급을 기존 계획대로 추진한다. 황 CEO가 갑작스럽게 사임하면서 국내 인공지능(AI) 인프라 협력 사업이 차질을 빚을 수 있다는 우려가 나오자 정부가 직접 점검에 나섰다. 배경훈 부총리 겸 과학기술정보통신부 장관은 13일 사회관계망서비스(SNS)를 통해 “오늘 오전 과기정통부 제2차관 주재로 엔비디아 측과 현안점검회의를 열었다”며 “첨단 GPU",
-      "og_image": "https://img.etnews.com/news/article/2026/06/08/rcv.YNA.20260608.PYH2026060820320001300_P1.jpg",
-      "note": "Korean government check meeting after Huang resignation; GPU supply reaffirmed."
+      "published_iso": "2026-11-15T14:16:33+09:00",
+      "excerpt": "중기부가 '모두의 창업' 참가자 개인정보 유출 사고를 낸 민간 AI 솔루션 공급업체에 선정 취소 등 제재를 검토하고 나머지 AI 공급기업 긴급 보안점검에 나선다.",
+      "og_image": "https://img.etnews.com/news/article/2026/06/22/news-p.v1.20260622.99fbfe4faacb4bd3ac70411b25c009d9_P2.jpg"
     },
     {
       "title": "美 의회, 엔비디아 압박 본격화…中 수출 통제 정조준",
       "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=715513",
       "source": "디지털투데이",
       "category": "politics",
-      "published_iso": "2026-11-14T01:28:06Z",
-      "excerpt": "[디지털투데이 추현우 기자] 젠슨 황의 사임 직후 미국 의회가 엔비디아와 젠슨 황 전 CEO를 상대로 국가안보와 대중국 반도체 수출통제 문제를 따지는 조사에 착수했다. 13일(현지시간) 경제매체 CNBC에 따르면, 의회는 젠슨 황 전 CEO가 중국 스파이 의혹을 받는 인물과 관계를 맺은 일이 미국의 인공지능 우위와 국가안보에 어떤 영향을 줬는지 들여다보고 있다.젠슨 황 전 CEO는 중국 스파이 의혹을 받는 싱가포르 기술기업 메가스피드 임원 앨리스 황과의 관계가 드러난 뒤 13일 사임했다. 의회는 메가스피드가 제한된 엔비디아 칩을 중",
-      "og_image": "https://cdn.digitaltoday.co.kr/news/photo/202611/715513_662813_2658.jpg",
-      "note": "Same Nvidia/Megaspeed Congress storyline (Korean)."
+      "published_iso": "2026-11-14T10:28:06+09:00",
+      "excerpt": "젠슨 황 사임 직후 미국 의회가 엔비디아와 황 전 CEO를 상대로 국가안보와 대중국 반도체 수출통제 문제를 따지는 조사에 착수했다.",
+      "og_image": "https://cdn.digitaltoday.co.kr/news/photo/202611/715513_662813_2658.jpg"
     },
     {
-      "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
-      "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
-      "source": "MIT Technology Review",
+      "title": "수능 코앞인데 AI 부정행위 파문…청와대, 국가자격시험 전수조사",
+      "url": "https://zdnet.co.kr/view/?no=20261115205153",
+      "source": "지디넷코리아",
       "category": "politics",
-      "published_iso": "2026-11-12T20:16:24Z",
-      "excerpt": "The Chip Security Act is getting renewed attention following Nvidia CEO Jensen Huang’s resignation and reported affair with an alleged Chinese spy.",
-      "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/foster-huang2a.jpg?resize=1200,600",
-      "note": "Chip Security Act renewed attention."
+      "published_iso": "2026-11-15T20:54:24+09:00",
+      "excerpt": "세무사시험 수석합격자의 AI 부정행위 시인에 정부가 국가자격시험 전수조사에 나서고, 수능에서 AI 기기 점검 절차를 마련해 감독을 강화하기로 했다.",
+      "og_image": "https://image.zdnet.co.kr/2025/11/28/6b626a2e8229174ad2ee76fb3a699a37.jpg"
     },
     {
-      "title": "Jensen Out, MATCH Act In?",
-      "url": "https://www.chinatalk.media/p/jensen-out-match-act-in",
-      "source": "ChinaTalk",
-      "category": "politics",
-      "published_iso": "2026-11-13T23:13:29Z",
-      "excerpt": "Emergency Pod!",
-      "og_image": "https://substackcdn.com/image/youtube/w_728,c_limit/bFUOidKZG24",
-      "note": "Podcast/commentary on MATCH Act."
-    },
-    {
-      "title": "Trump bought Nvidia stock as he helped chipmaker with change to export rule",
-      "url": "https://www.theguardian.com/us-news/2026/nov/13/trump-nvidia-stock-jensen-huang-us-china",
+      "title": "Art 'must not be sacrificed on the altar of corporate profit', Liberal senator says as AI policy debate rages",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/15/art-over-profit-ai-policy-debate-andrew-mclachlan",
       "source": "The Guardian",
       "category": "politics",
-      "published_iso": "2026-11-13T19:09:05Z",
-      "excerpt": "President purchased up to $5m of stock before revoking Biden-era rule that limited Nvidia’s ability to sell to China",
-      "og_image": "https://i.guim.co.uk/img/media/5d5bae65dfe648ee0640fe44d78bbefc78d94a15/69_0_2057_1645/master/2057.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=71bf55eddd2792fbdc824770ca78da60",
-      "note": "Report of financial disclosure; contested conflict-of-interest claims - attribute, neutral framing."
+      "published_iso": "2026-11-14T19:00:52Z",
+      "excerpt": "Australian Liberal senator Andrew McLachlan urges the Labor government to consider AI's impact on artists and the environment.",
+      "og_image": "https://i.guim.co.uk/img/media/bb100c4ad17c64282442b40c27895d51765e32dd/0_0_3485_2789/master/3485.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4cc8c16eac1f5108a0736b290b0363b0"
     },
     {
-      "title": "Despite Huang Scandal, US-China AI Safety Dialogue Still Seems on Track",
-      "url": "https://techpolicy.press/despite-huang-scandal-us-china-ai-safety-dialogue-still-seems-on-track",
-      "source": "Tech Policy Press",
+      "title": "Nvidia scandal: US treasury chief blames Lutnick's commerce department over alleged lack of action",
+      "url": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china",
+      "source": "The Guardian",
       "category": "politics",
-      "published_iso": "2026-11-13T14:25:29Z",
-      "excerpt": "Despite an inevitable increase in tensions in connection with the Huang affair, cooperation on AI safety appears to be on track, says Mark MacCarthy.",
-      "og_image": "https://cdn.sanity.io/images/3tzzh18d/production/7b1e66010d919f8375a2bd2731ad0086adc08d3c-1200x675.png"
+      "published_iso": "2026-11-13T19:51:28Z",
+      "excerpt": "US commerce secretary faces sack as questions emerge over senior Trump officials' knowledge of the alleged Chinese spy's ties to Jensen Huang.",
+      "og_image": "https://i.guim.co.uk/img/media/5534caea091e39afe776168281e50dd327c8be8e/563_0_3334_2668/master/3334.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5cfc91551ec81a92db228675af0c6ab1"
     },
     {
-      "title": "AI Is Killing Autonomously. Time for New Rules.",
-      "url": "https://techpolicy.press/ai-is-killing-autonomously-time-for-new-rules",
-      "source": "Tech Policy Press",
+      "title": "Bessent blames Lutnick's department for Nvidia chip sales to Megaspeed",
+      "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro",
+      "source": "BBC News",
       "category": "politics",
-      "published_iso": "2026-11-13T17:26:53Z",
-      "excerpt": "The new reality urgently needs new rules that reach beyond individual human intent, writes León Castellanos-Jankiewicz.",
-      "og_image": "https://cdn.sanity.io/images/3tzzh18d/production/b3e570274480b27cf775928e13196e339bf046f0-1200x675.png"
+      "published_iso": "2026-11-13T15:04:42Z",
+      "excerpt": "Scott Bessent told CNBC that several government agencies 'were in favour of putting Megaspeed on the entity list for months'.",
+      "og_image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2783/live/a5cdb560-df6c-11f1-9892-87464bbcc2b8.jpg"
     },
     {
-      "title": "The EU Promises Digital Fairness, But Still Wants Users To Do the Work",
-      "url": "https://techpolicy.press/the-eu-promises-digital-fairness-but-still-want-users-to-do-the-work",
-      "source": "Tech Policy Press",
+      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+      "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo",
+      "source": "BBC News",
       "category": "politics",
-      "published_iso": "2026-11-13T11:39:46Z",
-      "excerpt": "Itxaso Domínguez de Olazábal writes on the EU’s Digital Fairness Act and why tackling online manipulation still leaves too much responsibility with users.",
-      "og_image": "https://cdn.sanity.io/images/3tzzh18d/production/15f03cf964b31e4a42474b565e856e557cf026da-1200x675.png"
+      "published_iso": "2026-11-15T14:56:21Z",
+      "excerpt": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China despite US restrictions; Megaspeed says Alice Huang left in 2025.",
+      "og_image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fa43/live/e2a9a870-e10d-11f1-93e1-3b657b665bcf.jpg"
     },
     {
-      "title": "AI Kill Switches: What Policymakers Should Know",
-      "url": "https://cset.georgetown.edu/article/ai-kill-switches-what-policymakers-should-know/",
-      "source": "CSET",
+      "title": "Firm linked to Jensen Huang's ex-lover reportedly brokered nearly $12 billion in Nvidia chip orders for China",
+      "url": "https://the-decoder.com/firm-linked-to-jensen-huangs-ex-lover-reportedly-brokered-nearly-12-billion-in-nvidia-chip-orders-for-china/",
+      "source": "The Decoder",
       "category": "politics",
-      "published_iso": "2026-11-12T17:11:52Z",
-      "excerpt": "Policymakers have recently proposed requiring “AI kill switches” to quickly stop an AI system or limit the impact of a harmful or unwanted AI incident. This piece describes different potential implementations of AI kill switches at each layer of the AI stack and offers key takeaways for policymakers.",
-      "og_image": "https://cset.georgetown.edu/wp-content/uploads/Blog-Dark-Blue.png"
+      "published_iso": "2026-11-15T14:45:12+00:00",
+      "excerpt": "Megaspeed arranged nearly $12 billion in Nvidia chip orders for Chinese companies between 2024 and 2025, according to the WSJ.",
+      "og_image": "https://the-decoder.com/wp-content/uploads/2026/11/nvidia_logo_glitch.png"
     },
     {
       "title": "Convergent Interests: How America Could Undermine Its Own AI Advantage",
       "url": "https://cset.georgetown.edu/article/convergent-interests-how-america-could-undermine-its-own-ai-advantage/",
       "source": "CSET",
       "category": "politics",
-      "published_iso": "2026-11-14T16:36:02Z",
-      "excerpt": "A convergence of political, commercial, and ideological pressures can impede America’s AI leadership, and public controversies are powerful enough to catalyze that convergence. Our piece spotlights this issue, urging policymakers to govern AI responsibly without disabling the innovation that makes American leadership possible—even in the wake of scandal.",
+      "published_iso": "2026-11-14T16:36:02+00:00",
+      "excerpt": "A convergence of political, commercial and ideological pressures can impede America's AI leadership, and public controversies are powerful enough to catalyze it.",
       "og_image": "https://cset.georgetown.edu/wp-content/uploads/Blog-Blue.png"
     },
     {
-      "title": "Google faces calls for AI moratoriums in schools after Gemini pilot backlash",
-      "url": "https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/",
-      "source": "Ars Technica",
+      "title": "AI Now Statement on the Bipartisan American Affordability and Jobs Act (BAAJA) to US Congress",
+      "url": "https://ainowinstitute.org/news/announcement/ai-now-statement-on-the-bipartisan-american-affordability-and-jobs-act-baaja-to-us-congress",
+      "source": "AI Now Institute",
       "category": "politics",
-      "published_iso": "2026-11-12T18:57:45Z",
-      "excerpt": "Families confront Google after teen’s lawsuit labels Gemini a “suicide coach.”...",
-      "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Win-win-1152x648.jpeg"
+      "published_iso": "2026-11-13T16:57:45+00:00",
+      "excerpt": "AI Now says BAAJA serves as a backdoor bailout of the AI industry and urges Congress to side with communities pursuing data center moratoria.",
+      "og_image": null
     },
     {
-      "title": "Nearly 70 percent of US agencies use generative AI, and unions are finally catching up with guardrails",
-      "url": "https://the-decoder.com/nearly-70-percent-of-us-agencies-use-generative-ai-and-unions-are-finally-catching-up-with-guardrails/",
-      "source": "The Decoder",
+      "title": "EU deal on Ukraine talks overshadows AI-focused summit in Dublin",
+      "url": "https://www.politico.eu/article/eu-deal-on-ukraine-talks-overshadows-ai-focused-summit-in-dublin/",
+      "source": "POLITICO Europe",
       "category": "politics",
-      "published_iso": "2026-11-13T15:53:49Z",
-      "excerpt": "US public-sector unions are increasingly pushing through protections against AI surveillance and automated firings. In Oakland, a strike vote forced retraining programs instead of layoffs, and a transport union in Ohio won veto power over autonomous vehicles. California banned so-called bossware. All of this is happening while nearly 70 percent of US government agencies already use generative AI.",
-      "og_image": "https://the-decoder.com/wp-content/uploads/2026/11/workers_fighting_ai.png"
+      "published_iso": "2026-11-13T19:10:16+00:00",
+      "excerpt": "EU leaders' AI-focused informal summit in Dublin was overshadowed by agreement on the bloc's representation at future Ukraine peace negotiations.",
+      "og_image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/11/13/GettyImages-2304265084-scaled.jpg"
     },
     {
-      "title": "Banks bar Chinese and Hong Kong investors from Anthropic IPO over US export controls",
-      "url": "https://the-decoder.com/banks-bar-chinese-and-hong-kong-investors-from-anthropic-ipo-over-us-export-controls/",
-      "source": "The Decoder",
-      "category": "politics",
-      "published_iso": "2026-11-13T18:01:53Z",
-      "excerpt": "Chinese investors are shut out of Anthropic's IPO, Bloomberg reports. Banks are rejecting buy orders from mainland China and Hong Kong, citing U.S. export control rules known as ITAR. Similar restrictions applied during SpaceX's IPO, and Anthropic's products aren't available in either region anyway.",
-      "og_image": "https://the-decoder.com/wp-content/uploads/2026/08/anthropic_claude.png"
-    },
-    {
-      "title": "How Jensen Huang’s exit from Nvidia impacts China’s AI supply chain",
+      "title": "How Jensen Huang's exit from Nvidia impacts China's AI supply chain",
       "url": "https://restofworld.org/2026/jensen-huang-nvidia-exit-china-ai-chip-impact/",
       "source": "Rest of World",
       "category": "politics",
-      "published_iso": "2026-11-13T16:24:10Z",
-      "excerpt": "The founder’s stunning departure removes Beijing’s biggest advocate in Silicon Valley, accelerates chip stockpiling, and leaves Asian suppliers bracing for what comes next.",
+      "published_iso": "2026-11-13T16:24:10+00:00",
+      "excerpt": "The founder's departure removes Beijing's biggest advocate in Silicon Valley, accelerates chip stockpiling, and leaves Asian suppliers bracing for what comes next.",
       "og_image": "https://restofworld.org/wp-content/uploads/2026/11/GettyImages-2299248530.jpg"
+    },
+    {
+      "title": "The Download: Silicon Valley's blind spot and Nvidia's chip-tracking plan",
+      "url": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/",
+      "source": "MIT Technology Review",
+      "category": "politics",
+      "published_iso": "2026-11-13T08:10:00-05:00",
+      "excerpt": "Newsletter item: Nvidia privately acknowledged it could implement location-tracking on AI chips to deter smuggling.",
+      "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/GettyImages-2297757667.jpg?resize=1200,600"
     }
   ]
 }

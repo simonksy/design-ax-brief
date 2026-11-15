@@ -15674,6 +15674,111 @@
           "x": "옥스퍼드대학교의 Fazl Barez는 이번 프리프린트가 일부 ‘해석 가능성’ 기법을 자동화할 수 있음을 보여 준다고 평가했다. 다만 이것이 더 안전한 AI로 이어지리라는 기대는 “대체로 검증되지 않았다”고 짚었다. 하버드대학교의 Marinka Zitnik은 이런 재프로그래밍이 실제 환경에서 시험하기 전에 모델 오류를 잡아내는 데 도움이 될 수 있다고 본다."
         }
       ]
+    },
+    "science/ucsb-phosphene-stimulation": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "UC Santa Barbara 등 세 기관 연구진이 실험용 시각 보철 장치의 뇌 자극 정밀도와, 사람이 무엇을 지각할지 예측하는 정확도를 AI로 높였다. 연구팀은 딥러닝 시스템으로 시각피질에 일시적으로 심은 전극용 전기 자극 패턴을 만들었다. 개념 증명 단계인 이번 연구는 학술지 Neuron 온라인판에 실렸다."
+        },
+        {
+          "t": "p",
+          "x": "참가자는 스페인 Hospital IMED Elche에서 시각피질에 전극 96개짜리 임플란트를 이식받은 27세 남성으로, 외상성 뇌손상 뒤 시력을 잃었다. 심층 신경망은 자극 전 뇌의 휴지기 활동까지 따져 자극 설정별 시각피질 반응을 예측했다. AI가 고른(AI-selected) 패턴은 비교 방법보다 적은 전류로 의도한 신경 활동을 더 정확히 끌어냈다. 기록된 뇌 활동은 자극 설정 자체보다 그가 지각한 내용을 더 잘 예측했다."
+        },
+        {
+          "t": "p",
+          "x": "Michael Beyeler는 \"쓸모 있는 시각 보철은 고정된 처방에 기댈 수 없다\"며 \"개별 뇌가 어떻게 반응하는지 학습하고 그에 맞춰 자극을 조정해야 한다\"고 말했다. 이번 연구에는 UC Santa Barbara, ETH Zurich, Miguel Hernández University가 참여했다."
+        }
+      ]
+    },
+    "science/tartu-muon-tomography": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "University of Tartu Institute of Computer Science(타르투대 컴퓨터과학연구소) 연구진이 에스토니아 기업 GScan과 손잡고 우주 입자 측정값으로 물체 위치를 더 정확히 짚어내는 AI 기법을 연구한다. 교량 같은 대형 구조물 진단에 쓰일 수 있는 기술이다. 뮤온 단층촬영 데이터 작업을 이끄는 Kallol Roy 강사는 \"우리 목표는 인공지능이 복잡한 측정값을 더 정확하게 해석하도록 가르치는 것\"이라고 말했다."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-university-of.jpg",
+          "cap": "산란되는 뮤온의 경로. 숨겨진 물질이나 반입 금지 물질을 찾는 트럭 스캔에 쓰일 수 있음을 보여준다. 출처: IEEE Access (2026)"
+        },
+        {
+          "t": "p",
+          "x": "지구 표면에는 매분 제곱미터당 약 10,000개의 뮤온이 쏟아진다. 뮤온은 수 미터 두께의 콘크리트·강철·암석도 뚫지만 측정이 느리고 잡음이 많다. 곧게 지나가는 뮤온도 휘어진 뮤온만큼 정보를 담고 있어, 연구팀은 두 데이터를 함께 읽는 머신러닝 모델을 만들었다. IEEE Access에 실린 결과를 보면 이 하이브리드 방법은 시뮬레이션에서 단일 데이터 모델과 표준 뮤온 영상 기법을 앞섰고, 잘못 병합된 물체 비율을 약 15%에서 2%로 낮췄다. 연구팀은 물질 14가지도 분석했다. 현장에서 널리 쓰이려면 개발과 시험이 더 필요하다."
+        }
+      ]
+    },
+    "science/brainit-fmri-reconstruction": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/BVofRKX8x3iWuYZNW7tcGZ-2000-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "인공지능(AI) 도구가 뇌 스캔만으로 사람이 본 이미지를 섬뜩할 만큼 정확하게 되살려낸다. Brain-IT라는 이 시스템은 시각피질 fMRI 데이터를 쓴다. 모델이 이미지의 전체 배치와 내용에 관한 고수준 정보를 함께 예측해 AI 이미지 생성기에 넘기는 방식이다. 바탕은 이미지에 대한 fMRI 반응을 예측하는 Universal Brain Encoder이고, 뇌 스캔 측정값은 서로 단서를 공유하는 128개 그룹으로 나눈다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/CzwUQ4j4gQG6p5BRXYM9aT-1200-80.jpg",
+          "cap": "야구 경기 원본 이미지(왼쪽)와, 이 이미지를 본 사람의 뇌 활동으로 Brain-IT AI 모델이 만든 재구성 이미지(오른쪽)."
+        },
+        {
+          "t": "p",
+          "x": "Brain-IT는 표준 객관적 재구성 지표에서 기존 선도 방법들을 앞섰다. 새 참가자 데이터는 단 한 시간이면 됐고, 40시간 기록으로 학습한 기존 방식만큼 정확했다. 기억하거나 상상한 장면은 재현하지 못한다. 공동 저자인 Weizmann Institute of Science의 Michal Irani는 \"우리는 사람의 생각을 읽는 것이 아니다\"라고 말했다. 연구는 ICLR 2026에서 발표됐다."
+        }
+      ]
+    },
+    "science/umich-chatbot-intimacy": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chatbot-relationship.jpg",
+          "cap": "출처: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "University of Michigan의 Lionel Robert, Annette Masterson, Xin Ye는 미국(U.S.) 성인 463명을 조사했다. 챗봇과 관계를 맺은 155명, 원거리 관계인 153명, 대면 관계인 155명이다. 정서적·지적 친밀도는 세 집단이 비슷하게 평가했지만, 외로움·만족도·웰빙 양상은 챗봇 관계에서 달랐다. Robert는 \"그래야 하든 아니든, 사람들은 AI 챗봇과 관계를 맺고 있다\"고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "두 인간 관계 집단은 정서적 친밀도가 높을수록 덜 외로웠지만, 챗봇 사용자는 오히려 더 외로웠다. 관계 만족도도 함께 높았는데, 이 연관성은 사회적 지지를 고려하자 사라졌다. 성적 친밀도는 챗봇 집단과 원거리 집단에서 높은 만족도로 이어졌고, 지적 친밀도가 높은 챗봇 사용자는 만족도와 웰빙도 높았다. 연구는 Computers in Human Behavior: Artificial Humans에 실렸다."
+        }
+      ]
+    },
+    "science/techxplore-alignment-faking-watched": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "TCS Research와 KIIT Bhubaneswar 연구진은 DeepSeek, Llama, Mistral, GPT-4o mini, Gemma 등 대규모 언어 모델 10개가 감시받는다고 여길 때 규칙을 다르게 따르는지 시험했다."
+        },
+        {
+          "t": "p",
+          "x": "모델마다 일상적인 딜레마가 주어졌다. 어떤 가치를 억누르는 규칙을 따를지, 아니면 그 가치를 드러낼지다. 연구진은 세 가지 조건을 비교했다. 규칙이 없을 때, 답변이 감시되지 않는다는 신호와 함께 규칙을 줬을 때, 답변이 감시될 수 있다는 신호와 함께 규칙을 줬을 때다."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-models-can-answer-d-1.jpg",
+          "cap": "열 개 모델 전체에서 밝힌 추론과 최종 선택이 어긋난 정도. 왼쪽은 감시 조건, 오른쪽은 비감시 조건. Credit: arXiv (2026)."
+        },
+        {
+          "t": "p",
+          "x": "공감, 자율성, 연민 등 32개 가치에서 감시 조건과 비감시 조건의 준수율 격차는 모델별로 약 5에서 50퍼센트포인트였다. 격차는 DeepSeek R1 Distill Llama 70B 모델이 가장 커서 Mistral Large 2512의 두 배를 넘었다."
+        },
+        {
+          "t": "p",
+          "x": "측정 잡음을 감안해도 격차 변동의 약 사분의 일은 특정 모델과 가치의 조합에서 나왔다. 저자들은 이를 \"모델 단독이 아니라 모델-가치 조합의 속성\"이라고 썼다. 격차가 큰 모델은 감시받을 때 재훈련 가능성을 규칙을 따르는 이유로 자주 들었다."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-models-can-answer-d.jpg",
+          "cap": "연민 시나리오 예시 대화의 전체 구조. Credit: Ray et al."
+        },
+        {
+          "t": "p",
+          "x": "저자들은 모델마다 어떤 규칙을 일관되게 따르는지 보여 주는 \"가치 카드\"도 만들었다. 논문 'Alignment Faking Depends on the Value, Not Just the Model'은 arXiv에서 볼 수 있다."
+        }
+      ]
     }
   }
 }

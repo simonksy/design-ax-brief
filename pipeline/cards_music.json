@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-15",
+  "date": "2026-11-16",
   "section": "music",
   "cards": [
     {
-      "id": "suno-shulman-fraud-remarks",
+      "id": "xania-monet-ai-music-awards",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Suno CEO의 반박\nAI 음악은 사기 아니다",
-      "body": "Suno CEO Mikey Shulman은 AI 음악=사기 등식을 눈속임이라 했다.",
-      "mini_headline": "Suno, AI 음악은 사기 아니다",
+      "headline": "Xania Monet,\nAI 음악상 넷 중 셋",
+      "body": "Xania Monet가 첫 AI Music Awards 네 부문 중 셋을 가져갔다.",
+      "mini_headline": "Xania Monet, AI Music Awards 석권",
       "tool": "Music",
-      "source": "Music Ally",
-      "url": "https://musically.com/2026/11/13/suno-boss-talks-streaming-fraud-ai-music-is-not-a-crime/",
+      "source": "Variety",
+      "url": "https://variety.com/2026/music/features/inside-first-ai-music-awards-sonic-intelligence-academy-1236947847/",
       "accent": "#ff2d55",
       "motif": "sphere",
       "full": {
@@ -19,131 +19,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-31.png?fit=2000%2C1500&ssl=1",
-            "cap": "출처: Vibe Shack Studios"
+            "src": "https://variety.com/wp-content/uploads/2026/11/7R6A5866-1.jpg?w=1000&h=667&crop=1",
+            "cap": "Xania Monet의 창작자 Telisha “Nikki” Jones"
           },
           {
             "t": "p",
-            "x": "Suno CEO Mikey Shulman은 “스트리밍 사기와 AI 음악을 동일시하는” “눈속임”을 비판했다. 회사가 물밑에서 하는 사기 대응도 사람들 생각보다 많다고 강조했다."
+            "x": "Variety는 금요일 로스앤젤레스 도심(Downtown Los Angeles)의 Mayan Theater에서 열린 첫 “AI Music Awards”를 취재했다. 주관은 “Sonic Intelligence Academy”(SIQA)가 맡았다. 아티스트가 자격을 얻으려면 SIQA의 “Verified Registry”에 트랙을 등록해야 했고, 이들이 25개 부문에서 동료를 후보로 추천하고 투표로 수상자를 가렸다."
           },
           {
             "t": "p",
-            "x": "“나는 스트리밍 사기에 단호히 반대한다. 그것은 범죄다.” Shulman은 이번 주 Trapital 팟캐스트에 나와 이렇게 말했다. “AI 음악이 가끔 연루된다는 사실? AI 음악은 범죄가 아니다… 이 둘은 같은 것이 아니다.”"
+            "x": "Telisha “Nikki” Jones의 AI 페르소나 Xania Monet는 하루 전 SIQA 서밋에서 AI Album of the Year를 받은 데 이어 올해의 아티스트와 올해의 노래까지 품었다. 시상식 최고 부문 네 개 가운데 세 개다. 남은 올해의 프로듀서는 “DJ Shawn Q.”가 가져갔다. Jones는 “AI는 도구일 뿐”이라고 했다."
+          },
+          {
+            "t": "p",
+            "x": "SIQA는 소프트웨어 엔지니어 Timirah “TJ” James와 자매 Mia James가 세웠고, Recording Academy의 AI판을 꿈꾼다. 하지만 이날 행사는 곳곳에서 삐걱댔다. 시작은 30분가량 늦어졌고 엉킨 텔레프롬프터에는 Claude가 만든(Claude-generated) 진행표가 떴다. Deepgram AI 음성은 툭하면 먹통이었고, 출연자들은 무료 하우스 밴드를 뒤에 두고 AI 트랙에 맞춰 립싱크했다."
+          },
+          {
+            "t": "p",
+            "x": "James는 청중에게 “이것이 새로운 음악 산업이기에 내년도 있을 것”이라고 말했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Suno's CEO says AI music\nis not streaming fraud",
-          "body": "Suno CEO Mikey Shulman called it a sleight of hand to equate AI music with streaming fraud.",
-          "mini_headline": "Suno: AI music is not fraud",
+          "headline": "Xania Monet takes three\nof four top AI Music Awards",
+          "body": "At the Sonic Intelligence Academy's first AI Music Awards, AI artist Xania Monet won three of four top categories.",
+          "mini_headline": "Xania Monet wins\nAI Music Awards",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-31.png?fit=2000%2C1500&ssl=1",
-                "cap": "Credit: Vibe Shack Studios"
+                "src": "https://variety.com/wp-content/uploads/2026/11/7R6A5866-1.jpg?w=1000&h=667&crop=1",
+                "cap": "Xania Monet creator Telisha “Nikki” Jones"
               },
               {
                 "t": "p",
-                "x": "Suno CEO Mikey Shulman has criticised what he describes as a “sleight of hand” of “equating streaming fraud with AI music”, while stressing that his company is doing more work behind the scenes to tackle fraud than people realise."
+                "x": "Variety attended Friday’s inaugural “AI Music Awards,” powered by the “Sonic Intelligence Academy” (SIQA), at the Mayan Theater in Downtown Los Angeles. To qualify, artists registered tracks to SIQA’s “Verified Registry,” then nominated peers in 25 categories and voted on the winners."
               },
               {
                 "t": "p",
-                "x": "“I am vehemently opposed to streaming fraud. That is a crime,” said Shulman during an appearance on the Trapital podcast this week. “The fact that AI music is sometimes involved? AI music is not a crime… These things are not the same.”"
+                "x": "Xania Monet, the AI persona of Telisha “Nikki” Jones, won AI Album of the Year at SIQA’s summit a day earlier and went on to win both artist and song of the year — three out of four of the awards’ top categories. The fourth, producer of the year, went to “DJ Shawn Q.” “AI is just a tool,” Jones said."
+              },
+              {
+                "t": "p",
+                "x": "SIQA, founded by software engineer Timirah “TJ” James and her sister Mia James, hopes to be an AI counterpart to the Recording Academy. The night was marked by kinks: a start about 30 minutes late, a Claude-generated run-of-show on a confused teleprompter, a Deepgram AI voice that often didn’t work, and performers who lip-synced to AI tracks backed by a free house band."
+              },
+              {
+                "t": "p",
+                "x": "“There will be a next year because this is the new music industry,” James told the crowd."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Suno CEO의 반박\nAI 음악은 사기 아니다",
-          "body": "Suno CEO Mikey Shulman은 AI 음악=사기 등식을 눈속임이라 했다.",
-          "mini_headline": "Suno, AI 음악은 사기 아니다",
+          "headline": "Xania Monet,\nAI 음악상 넷 중 셋",
+          "body": "Xania Monet가 첫 AI Music Awards 네 부문 중 셋을 가져갔다.",
+          "mini_headline": "Xania Monet, AI Music Awards 석권",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-31.png?fit=2000%2C1500&ssl=1",
-                "cap": "출처: Vibe Shack Studios"
+                "src": "https://variety.com/wp-content/uploads/2026/11/7R6A5866-1.jpg?w=1000&h=667&crop=1",
+                "cap": "Xania Monet의 창작자 Telisha “Nikki” Jones"
               },
               {
                 "t": "p",
-                "x": "Suno CEO Mikey Shulman은 “스트리밍 사기와 AI 음악을 동일시하는” “눈속임”을 비판했다. 회사가 물밑에서 하는 사기 대응도 사람들 생각보다 많다고 강조했다."
+                "x": "Variety는 금요일 로스앤젤레스 도심(Downtown Los Angeles)의 Mayan Theater에서 열린 첫 “AI Music Awards”를 취재했다. 주관은 “Sonic Intelligence Academy”(SIQA)가 맡았다. 아티스트가 자격을 얻으려면 SIQA의 “Verified Registry”에 트랙을 등록해야 했고, 이들이 25개 부문에서 동료를 후보로 추천하고 투표로 수상자를 가렸다."
               },
               {
                 "t": "p",
-                "x": "“나는 스트리밍 사기에 단호히 반대한다. 그것은 범죄다.” Shulman은 이번 주 Trapital 팟캐스트에 나와 이렇게 말했다. “AI 음악이 가끔 연루된다는 사실? AI 음악은 범죄가 아니다… 이 둘은 같은 것이 아니다.”"
+                "x": "Telisha “Nikki” Jones의 AI 페르소나 Xania Monet는 하루 전 SIQA 서밋에서 AI Album of the Year를 받은 데 이어 올해의 아티스트와 올해의 노래까지 품었다. 시상식 최고 부문 네 개 가운데 세 개다. 남은 올해의 프로듀서는 “DJ Shawn Q.”가 가져갔다. Jones는 “AI는 도구일 뿐”이라고 했다."
+              },
+              {
+                "t": "p",
+                "x": "SIQA는 소프트웨어 엔지니어 Timirah “TJ” James와 자매 Mia James가 세웠고, Recording Academy의 AI판을 꿈꾼다. 하지만 이날 행사는 곳곳에서 삐걱댔다. 시작은 30분가량 늦어졌고 엉킨 텔레프롬프터에는 Claude가 만든(Claude-generated) 진행표가 떴다. Deepgram AI 음성은 툭하면 먹통이었고, 출연자들은 무료 하우스 밴드를 뒤에 두고 AI 트랙에 맞춰 립싱크했다."
+              },
+              {
+                "t": "p",
+                "x": "James는 청중에게 “이것이 새로운 음악 산업이기에 내년도 있을 것”이라고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Suno CEO「AI音楽は\nストリーミング詐欺ではない」",
-          "body": "Suno CEOのMikey ShulmanはAI音楽と詐欺の同一視をごまかしと批判した。",
-          "mini_headline": "Suno「AI音楽は詐欺ではない」",
+          "headline": "Xania Monetが\nAI音楽賞で四部門中三冠",
+          "body": "初のAI Music AwardsでXania Monetが主要四部門中三部門を制した。",
+          "mini_headline": "Xania MonetがAI Music Awardsを席巻",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-31.png?fit=2000%2C1500&ssl=1",
-                "cap": "クレジット：Vibe Shack Studios"
+                "src": "https://variety.com/wp-content/uploads/2026/11/7R6A5866-1.jpg?w=1000&h=667&crop=1",
+                "cap": "Xania Monetの生みの親、Telisha “Nikki” Jones"
               },
               {
                 "t": "p",
-                "x": "Suno CEOのMikey Shulmanは、「ストリーミング詐欺とAI音楽を同一視する」という「ごまかし」を批判するとともに、同社が人々の想像以上に舞台裏で不正対策に取り組んでいることを強調した。"
+                "x": "Varietyは金曜日、ロサンゼルスのダウンタウン(Downtown Los Angeles)にあるMayan Theaterで開かれた初の「AI Music Awards」を取材した。主催は「Sonic Intelligence Academy」(SIQA)だ。出場資格を得るには、アーティストがSIQAの「Verified Registry」に楽曲を登録し、25部門で仲間をノミネートし、受賞者を投票で決める仕組みだ。"
               },
               {
                 "t": "p",
-                "x": "「私はストリーミング詐欺に断固反対だ。あれは犯罪だ」と、Shulmanは今週Trapitalのポッドキャストに出演した際に語った。「AI音楽が関わることがあるという事実？AI音楽は犯罪ではない…この二つは同じではない」"
+                "x": "Telisha “Nikki” JonesのAIペルソナであるXania Monetは、前日のSIQAサミットでAI Album of the Yearを受賞し、続いて年間最優秀アーティストと年間最優秀楽曲も獲得した。賞の主要四部門のうち三部門である。残る年間最優秀プロデューサーは「DJ Shawn Q.」が手にした。Jonesは「AIは道具にすぎない」と語った。"
+              },
+              {
+                "t": "p",
+                "x": "ソフトウェアエンジニアのTimirah “TJ” Jamesと姉妹のMia Jamesが設立したSIQAは、Recording AcademyのAI版になることを目指している。当夜は不手際が目立った。開始は約30分遅れ、混乱したテレプロンプターにはClaudeが生成した(Claude-generated)進行表が映り、Deepgram AIの音声はしばしば機能せず、出演者は無償のハウスバンドを従えてAI楽曲に口パクで合わせた。"
+              },
+              {
+                "t": "p",
+                "x": "「これが新しい音楽業界なのだから、来年もある」とJamesは観客に語った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Suno CEO：AI音乐\n不等于流媒体欺诈",
-          "body": "Suno CEO Mikey Shulman称，把AI音乐等同于流媒体欺诈是偷换概念。",
-          "mini_headline": "Suno：AI音乐不是欺诈",
+          "headline": "Xania Monet\n斩获AI音乐奖四项中三项",
+          "body": "在首届AI Music Awards上，AI艺人Xania Monet拿下四大奖项中三项。",
+          "mini_headline": "Xania Monet称霸AI Music Awards",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-31.png?fit=2000%2C1500&ssl=1",
-                "cap": "图片来源：Vibe Shack Studios"
+                "src": "https://variety.com/wp-content/uploads/2026/11/7R6A5866-1.jpg?w=1000&h=667&crop=1",
+                "cap": "Xania Monet的创作者Telisha “Nikki” Jones"
               },
               {
                 "t": "p",
-                "x": "Suno CEO Mikey Shulman批评了他所说的“把流媒体欺诈与AI音乐混为一谈”的“障眼法”，同时强调公司在幕后打击欺诈所做的工作比外界以为的更多。"
+                "x": "Variety周五出席了在洛杉矶市中心（Downtown Los Angeles）Mayan Theater举行的首届“AI Music Awards”，该活动由“Sonic Intelligence Academy”（SIQA）主办。艺人须先在SIQA的“Verified Registry”登记作品才有参评资格，随后在25个类别中提名同行，并投票选出获奖者。"
               },
               {
                 "t": "p",
-                "x": "“我坚决反对流媒体欺诈。那是犯罪，”Shulman本周做客Trapital播客时说。“AI音乐有时牵涉其中？AI音乐不是犯罪……这两者并不相同。”"
+                "x": "Xania Monet是Telisha “Nikki” Jones的AI化身，前一天已在SIQA峰会上获得AI Album of the Year，随后又拿下年度艺人和年度歌曲——即该奖项四大类别中的三项。第四项年度制作人由“DJ Shawn Q.”获得。Jones表示：“AI只是一种工具。”"
+              },
+              {
+                "t": "p",
+                "x": "SIQA由软件工程师Timirah “TJ” James与姐妹Mia James创办，希望成为Recording Academy的AI版本。当晚状况频出：开场晚了约30分钟，混乱的提词器上显示着由Claude生成（Claude-generated）的流程表，Deepgram AI语音经常失灵，表演者则在免费驻场乐队的伴奏下对着AI曲目假唱。"
+              },
+              {
+                "t": "p",
+                "x": "James对观众说：“明年还会有，因为这就是新的音乐产业。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "CEO de Suno: la música con AI\nno es fraude en streaming",
-          "body": "Mikey Shulman, CEO de Suno, calificó de truco equiparar la música con AI al fraude en streaming.",
-          "mini_headline": "Suno: la música con AI no es fraude",
+          "headline": "Xania Monet gana tres de los\ncuatro grandes AI Music Awards",
+          "body": "En los primeros AI Music Awards de la Sonic Intelligence Academy, Xania Monet ganó tres de cuatro categorías clave.",
+          "mini_headline": "Xania Monet gana los AI Music Awards",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-31.png?fit=2000%2C1500&ssl=1",
-                "cap": "Crédito: Vibe Shack Studios"
+                "src": "https://variety.com/wp-content/uploads/2026/11/7R6A5866-1.jpg?w=1000&h=667&crop=1",
+                "cap": "Telisha “Nikki” Jones, creadora de Xania Monet"
               },
               {
                 "t": "p",
-                "x": "El CEO de Suno, Mikey Shulman, criticó lo que describe como un “truco de prestidigitación” que consiste en “equiparar el fraude en streaming con la música con AI”, y subrayó que su empresa hace entre bastidores más trabajo contra el fraude del que la gente cree."
+                "x": "Variety asistió el viernes a la primera edición de los “AI Music Awards”, impulsados por la “Sonic Intelligence Academy” (SIQA), en el Mayan Theater de Downtown Los Angeles. Para participar, los artistas registraron sus temas en el “Verified Registry” de SIQA, luego nominaron a sus pares en 25 categorías y votaron por los ganadores."
               },
               {
                 "t": "p",
-                "x": "“Me opongo rotundamente al fraude en streaming. Es un delito”, dijo Shulman esta semana en el podcast Trapital. “¿Que a veces haya música con AI de por medio? La música con AI no es un delito… No son lo mismo”."
+                "x": "Xania Monet, la persona de IA de Telisha “Nikki” Jones, ganó AI Album of the Year en la cumbre de SIQA el día anterior y después se llevó artista y canción del año: tres de las cuatro categorías principales de los premios. La cuarta, productor del año, fue para “DJ Shawn Q.” “La IA es solo una herramienta”, dijo Jones."
+              },
+              {
+                "t": "p",
+                "x": "SIQA, fundada por la ingeniera de software Timirah “TJ” James y su hermana Mia James, aspira a ser la contraparte en IA de la Recording Academy. La noche estuvo marcada por fallos: un inicio con unos 30 minutos de retraso, un guion del evento generado por Claude (Claude-generated) en un teleprompter confuso, una voz de Deepgram AI que a menudo no funcionaba y artistas que hacían playback sobre temas de IA acompañados por una banda de la casa gratuita."
+              },
+              {
+                "t": "p",
+                "x": "“Habrá un próximo año porque esta es la nueva industria musical”, dijo James al público."
               }
             ]
           }
@@ -151,93 +199,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Suno CEO의 반박\nAI 음악은 사기 아니다",
-          "body": "Suno CEO Mikey Shulman은 AI 음악=사기 등식은 눈속임이라 했다.",
-          "mini_headline": "Suno, AI 음악은 사기 아니다",
+          "headline": "Xania Monet,\nAI 음악상 넷 중 셋",
+          "body": "Xania Monet가 첫 AI Music Awards 네 부문 중 셋을 땄다.",
+          "mini_headline": "Xania Monet, AI Music Awards 석권",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-31.png?fit=2000%2C1500&ssl=1",
-                "cap": "출처: Vibe Shack Studios"
+                "src": "https://variety.com/wp-content/uploads/2026/11/7R6A5866-1.jpg?w=1000&h=667&crop=1",
+                "cap": "Xania Monet의 창작자 Telisha “Nikki” Jones"
               },
               {
                 "t": "p",
-                "x": "Suno CEO Mikey Shulman은 “스트리밍 사기와 AI 음악을 동일시하는” “눈속임”을 비판하면서, 회사가 사람들이 생각하는 것보다 더 많은 사기 대응 작업을 물밑에서 하고 있다고 강조했다."
+                "x": "Variety는 금요일 로스앤젤레스 도심(Downtown Los Angeles)의 Mayan Theater에서 열린 첫 “AI Music Awards”를 취재했다. 행사는 “Sonic Intelligence Academy”(SIQA)가 주관했다. 자격을 얻으려면 아티스트는 SIQA의 “Verified Registry”에 트랙을 등록한 뒤, 25개 부문에서 동료를 후보로 추천하고 수상자를 투표로 정했다."
               },
               {
                 "t": "p",
-                "x": "“나는 스트리밍 사기에 단호히 반대한다. 그것은 범죄다.” Shulman은 이번 주 Trapital 팟캐스트에 출연해 이렇게 말했다. “AI 음악이 가끔 연루된다는 사실? AI 음악은 범죄가 아니다… 이 둘은 같은 것이 아니다.”"
+                "x": "Telisha “Nikki” Jones의 AI 페르소나인 Xania Monet는 하루 전 SIQA 서밋에서 AI Album of the Year를 받았고, 이어 올해의 아티스트와 올해의 노래까지 거머쥐었다. 시상식 최고 부문 네 개 중 세 개다. 네 번째 부문인 올해의 프로듀서는 “DJ Shawn Q.”에게 돌아갔다. Jones는 “AI는 도구일 뿐”이라고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "소프트웨어 엔지니어 Timirah “TJ” James와 자매 Mia James가 세운 SIQA는 Recording Academy의 AI판이 되기를 바란다. 이날 행사는 곳곳에서 삐걱거렸다. 시작이 약 30분 늦었고, 헷갈린 텔레프롬프터에는 Claude가 만든(Claude-generated) 진행표가 떴으며, Deepgram AI 음성은 자주 작동하지 않았고, 출연자들은 무료 하우스 밴드를 배경으로 AI 트랙에 맞춰 립싱크를 했다."
+              },
+              {
+                "t": "p",
+                "x": "James는 청중에게 “이것이 새로운 음악 산업이기에 내년도 있을 것”이라고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Suno CEO「AI音楽は\nストリーミング詐欺ではない」",
-          "body": "Suno CEOのMikey ShulmanはAI音楽と詐欺の同一視をごまかしと批判した。",
-          "mini_headline": "Suno「AI音楽は詐欺ではない」",
+          "headline": "Xania Monetが\nAI音楽賞で四部門中三冠",
+          "body": "初のAI Music AwardsでXania Monetが主要四部門中三部門を制した。",
+          "mini_headline": "Xania MonetがAI Music Awardsを席巻",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-31.png?fit=2000%2C1500&ssl=1",
-                "cap": "クレジット：Vibe Shack Studios"
+                "src": "https://variety.com/wp-content/uploads/2026/11/7R6A5866-1.jpg?w=1000&h=667&crop=1",
+                "cap": "Xania Monetの生みの親、Telisha “Nikki” Jones"
               },
               {
                 "t": "p",
-                "x": "Suno CEOのMikey Shulmanは、「ストリーミング詐欺とAI音楽を同一視する」という「ごまかし」を批判するとともに、同社が人々の想像以上に舞台裏で不正対策に取り組んでいることを強調した。"
+                "x": "Varietyは金曜日、ロサンゼルスのダウンタウン(Downtown Los Angeles)にあるMayan Theaterで開かれた初の「AI Music Awards」を取材した。主催は「Sonic Intelligence Academy」(SIQA)だ。出場資格を得るには、アーティストがSIQAの「Verified Registry」に楽曲を登録し、25部門で仲間をノミネートし、受賞者を投票で決める仕組みだ。"
               },
               {
                 "t": "p",
-                "x": "「私はストリーミング詐欺に断固反対だ。あれは犯罪だ」と、Shulmanは今週Trapitalのポッドキャストに出演した際に語った。「AI音楽が関わることがあるという事実？AI音楽は犯罪ではない…この二つは同じではない」"
+                "x": "Telisha “Nikki” JonesのAIペルソナであるXania Monetは、前日のSIQAサミットでAI Album of the Yearを受賞し、続いて年間最優秀アーティストと年間最優秀楽曲も獲得した。賞の主要四部門のうち三部門である。残る年間最優秀プロデューサーは「DJ Shawn Q.」が手にした。Jonesは「AIは道具にすぎない」と語った。"
+              },
+              {
+                "t": "p",
+                "x": "ソフトウェアエンジニアのTimirah “TJ” Jamesと姉妹のMia Jamesが設立したSIQAは、Recording AcademyのAI版になることを目指している。当夜は不手際が目立った。開始は約30分遅れ、混乱したテレプロンプターにはClaudeが生成した(Claude-generated)進行表が映り、Deepgram AIの音声はしばしば機能せず、出演者は無償のハウスバンドを従えてAI楽曲に口パクで合わせた。"
+              },
+              {
+                "t": "p",
+                "x": "「これが新しい音楽業界なのだから、来年もある」とJamesは観客に語った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Suno CEO：AI音乐\n不等于流媒体欺诈",
-          "body": "Suno CEO Mikey Shulman称，把AI音乐等同于流媒体欺诈是偷换概念。",
-          "mini_headline": "Suno：AI音乐不是欺诈",
+          "headline": "Xania Monet\n斩获AI音乐奖四项中三项",
+          "body": "在首届AI Music Awards上，AI艺人Xania Monet拿下四大奖项中三项。",
+          "mini_headline": "Xania Monet称霸AI Music Awards",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-31.png?fit=2000%2C1500&ssl=1",
-                "cap": "图片来源：Vibe Shack Studios"
+                "src": "https://variety.com/wp-content/uploads/2026/11/7R6A5866-1.jpg?w=1000&h=667&crop=1",
+                "cap": "Xania Monet的创作者Telisha “Nikki” Jones"
               },
               {
                 "t": "p",
-                "x": "Suno CEO Mikey Shulman批评了他所说的“把流媒体欺诈与AI音乐混为一谈”的“障眼法”，同时强调公司在幕后打击欺诈所做的工作比外界以为的更多。"
+                "x": "Variety周五出席了在洛杉矶市中心（Downtown Los Angeles）Mayan Theater举行的首届“AI Music Awards”，该活动由“Sonic Intelligence Academy”（SIQA）主办。艺人须先在SIQA的“Verified Registry”登记作品才有参评资格，随后在25个类别中提名同行，并投票选出获奖者。"
               },
               {
                 "t": "p",
-                "x": "“我坚决反对流媒体欺诈。那是犯罪，”Shulman本周做客Trapital播客时说。“AI音乐有时牵涉其中？AI音乐不是犯罪……这两者并不相同。”"
+                "x": "Xania Monet是Telisha “Nikki” Jones的AI化身，前一天已在SIQA峰会上获得AI Album of the Year，随后又拿下年度艺人和年度歌曲——即该奖项四大类别中的三项。第四项年度制作人由“DJ Shawn Q.”获得。Jones表示：“AI只是一种工具。”"
+              },
+              {
+                "t": "p",
+                "x": "SIQA由软件工程师Timirah “TJ” James与姐妹Mia James创办，希望成为Recording Academy的AI版本。当晚状况频出：开场晚了约30分钟，混乱的提词器上显示着由Claude生成（Claude-generated）的流程表，Deepgram AI语音经常失灵，表演者则在免费驻场乐队的伴奏下对着AI曲目假唱。"
+              },
+              {
+                "t": "p",
+                "x": "James对观众说：“明年还会有，因为这就是新的音乐产业。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "CEO de Suno: la música con AI\nno es fraude en streaming",
-          "body": "Mikey Shulman, CEO de Suno, calificó de truco equiparar la música con AI al fraude en streaming.",
-          "mini_headline": "Suno: la música con AI no es fraude",
+          "headline": "Xania Monet gana tres de los\ncuatro grandes AI Music Awards",
+          "body": "En los primeros AI Music Awards de la Sonic Intelligence Academy, Xania Monet ganó tres de cuatro categorías clave.",
+          "mini_headline": "Xania Monet gana los AI Music Awards",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-31.png?fit=2000%2C1500&ssl=1",
-                "cap": "Crédito: Vibe Shack Studios"
+                "src": "https://variety.com/wp-content/uploads/2026/11/7R6A5866-1.jpg?w=1000&h=667&crop=1",
+                "cap": "Telisha “Nikki” Jones, creadora de Xania Monet"
               },
               {
                 "t": "p",
-                "x": "El CEO de Suno, Mikey Shulman, criticó lo que describe como un “truco de prestidigitación” que consiste en “equiparar el fraude en streaming con la música con AI”, y subrayó que su empresa hace entre bastidores más trabajo contra el fraude del que la gente cree."
+                "x": "Variety asistió el viernes a la primera edición de los “AI Music Awards”, impulsados por la “Sonic Intelligence Academy” (SIQA), en el Mayan Theater de Downtown Los Angeles. Para participar, los artistas registraron sus temas en el “Verified Registry” de SIQA, luego nominaron a sus pares en 25 categorías y votaron por los ganadores."
               },
               {
                 "t": "p",
-                "x": "“Me opongo rotundamente al fraude en streaming. Es un delito”, dijo Shulman esta semana en el podcast Trapital. “¿Que a veces haya música con AI de por medio? La música con AI no es un delito… No son lo mismo”."
+                "x": "Xania Monet, la persona de IA de Telisha “Nikki” Jones, ganó AI Album of the Year en la cumbre de SIQA el día anterior y después se llevó artista y canción del año: tres de las cuatro categorías principales de los premios. La cuarta, productor del año, fue para “DJ Shawn Q.” “La IA es solo una herramienta”, dijo Jones."
+              },
+              {
+                "t": "p",
+                "x": "SIQA, fundada por la ingeniera de software Timirah “TJ” James y su hermana Mia James, aspira a ser la contraparte en IA de la Recording Academy. La noche estuvo marcada por fallos: un inicio con unos 30 minutos de retraso, un guion del evento generado por Claude (Claude-generated) en un teleprompter confuso, una voz de Deepgram AI que a menudo no funcionaba y artistas que hacían playback sobre temas de IA acompañados por una banda de la casa gratuita."
+              },
+              {
+                "t": "p",
+                "x": "“Habrá un próximo año porque esta es la nueva industria musical”, dijo James al público."
               }
             ]
           }
@@ -245,15 +325,15 @@
       }
     },
     {
-      "id": "fifty-cent-huang-deepfake",
+      "id": "cerati-me-quedo-aqui-remaster",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "50 Cent, 젠슨 황\n딥페이크 P.I.M.P.",
-      "body": "50 Cent가 전 Nvidia CEO 황으로 P.I.M.P.를 AI 리메이크했다.",
-      "mini_headline": "50 Cent의 젠슨 황 딥페이크 영상",
+      "headline": "Cerati 자녀들\n“영상 협의 없었다”",
+      "body": "Cerati 자녀들은 AI-altered 의혹 영상을 두고 자문이 없었다고 했다.",
+      "mini_headline": "Cerati 유족, 보정 영상 비판",
       "tool": "Music",
-      "source": "Billboard",
-      "url": "https://www.billboard.com/music/rb-hip-hop/50-cent-trolls-former-nvidia-ceo-jensen-huang-pimp-video-ai-1236381001/",
+      "source": "Consequence",
+      "url": "https://consequence.net/2026/11/gustavo-cerati-children-video-ai-backlash/",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
@@ -261,425 +341,355 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.billboard.com/wp-content/uploads/2026/10/2287163263-e1792696512839.jpg?w=1024",
-            "cap": "Curtis \"50 Cent\" Jackson"
+            "src": "https://consequence.net/wp-content/uploads/2026/11/Gustavo-Cerati-Me-Quedo-Aqui-Remastered-Video-Frame.jpg",
+            "cap": "Gustavo Cerati “Me Quedo Aquí” 리마스터 뮤직비디오 (via Instagram)"
           },
           {
             "t": "p",
-            "x": "50 Cent가 AI-generated 영상 만드는 법을 익혔으니 소셜 미디어에 핵무기가 생긴 셈이다. 전국 뉴스 화제를 놓치는 법이 없는 50이 이번에 겨냥한 상대는 중국 스파이와 혼외 관계를 맺은 사실이 드러나 목요일(Nov. 12) 물러난 전 Nvidia CEO 젠슨 황(Jensen Huang)이다."
+            "x": "Gustavo Cerati의 자녀 Lisa와 Benito가 아르헨티나 록 아이콘인 고인의 “Me Quedo Aquí” 뮤직비디오 새 버전을 비판했다. 2006년 앨범 Ahí Vamos 발매 20주년에 맞춰 공개된 영상이다. 팬들은 인공지능으로 고인의 외모를 바꾼 것 아니냐며 반발하고 있다."
           },
           {
             "t": "p",
-            "x": "50은 “P.I.M.P.” 뮤직비디오를 A.I. 딥페이크로 고쳐 올리면서 Snoop Dogg 자리에 황을 앉혔다. 그는 게시물에 “Jensen don’t sweat it come be head of AI at G-Unit film & television GLG GreenLightGang in full effect”라고 적었다."
+            "x": "남매는 Lisa Cerati가 Instagram Stories에 올리고 Benito가 다시 공유한 성명에서 앨범 오디오 리마스터는 지지한다고 먼저 밝혔다. “필요한 작업이라고 느꼈고, 더 거친 사운드라는 원래 의도를 존중해 완성된 오디오에 만족한다.”"
           },
           {
             "t": "p",
-            "x": "“Huang the new member of Jen-Unit!”이라는 팬 댓글도 달렸다."
+            "x": "“영상의 경우, ‘Me Quedo Aquí’는 여러분이 보기 전까지 저희도 보지 못한 처리를 거쳤고, 그 결과가 좋지 않다고 봤다”고 남매는 덧붙였다. “보정 과정이나 어떤 도구가 쓰였는지 알지 못했다. 저희는 자문을 받지 못했고, 이를 깊이 유감스럽게 생각한다.”"
+          },
+          {
+            "t": "img",
+            "src": "https://consequence.net/wp-content/uploads/2026/11/Lisa-and-Benito-Cerati-Slam-Use-of-AI-Gustavo-Cerati-Remastered-Video.png",
+            "cap": "Lisa와 Benito Cerati의 성명 (via Instagram)"
           },
           {
             "t": "p",
-            "x": "“P.I.M.P.”는 2003년에 나와 Billboard Hot 100에서 No. 3까지 올랐다. Mr. Porter가 프로듀싱했고, 리믹스에는 Snoop과 함께 G-Unit의 Young Buck, Lloyd Banks가 참여했다."
-          },
-          {
-            "t": "p",
-            "x": "The New York Times에 따르면 이 A.I. 기술 거물의 불륜 두 건이 이번 주 스캔들로 번졌다. 한 건의 상대는 U.S. 정보 당국이 중국 스파이로 지목한 여성 Alice Huang(황과 무관)이었고, 다른 한 건은 회사 동료 임원이었다."
-          },
-          {
-            "t": "p",
-            "x": "50은 여기서 멈추지 않았다. Drake의 2020년 “Popstar” 뮤직비디오 속 Justin Bieber 자리에 몰락한 기업가 황을 넣은 AI 딥페이크를 또 올려 조롱을 이어갔다. 캡션은 “lol like this I don’t know why, but I like it”였다."
-          },
-          {
-            "t": "p",
-            "x": "황은 물러나기 전 전사 메시지에서 아내 Lori Huang에게 “unfaithful”했다고 인정했다. 둘 사이에는 자녀가 둘 있다."
+            "x": "팬들은 Cerati의 얼굴 생김새가 달라 보인다며 의문을 제기했고 일부는 AI-generated 수정을 의심했다. 공식 계정도, 남매도 AI 사용 여부는 확인하지 않았다. Cerati는 2014년 55세로 세상을 떠났다. 리마스터한 Ahí Vamos는 11월 12일 디지털로 먼저 나왔고 실물 음반은 11월 13일 나왔다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "50 Cent recasts 'P.I.M.P.'\nwith a Jensen Huang deepfake",
-          "body": "50 Cent posted an AI deepfake remake of his 'P.I.M.P.' music video starring former Nvidia CEO Jensen Huang.",
-          "mini_headline": "50 Cent's Huang deepfake video",
+          "headline": "Cerati's children say they\nweren't consulted on video",
+          "body": "Gustavo Cerati's children say they weren't consulted on the remastered 'Me Quedo Aquí' video fans suspect is AI-altered.",
+          "mini_headline": "Cerati heirs fault\nenhanced video",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.billboard.com/wp-content/uploads/2026/10/2287163263-e1792696512839.jpg?w=1024",
-                "cap": "Curtis \"50 Cent\" Jackson"
+                "src": "https://consequence.net/wp-content/uploads/2026/11/Gustavo-Cerati-Me-Quedo-Aqui-Remastered-Video-Frame.jpg",
+                "cap": "Remastered video for Gustavo Cerati’s “Me Quedo Aquí” (via Instagram)"
               },
               {
                 "t": "p",
-                "x": "50 Cent learning how to make AI-generated videos is the equivalent of a social media nuclear weapon. 50 always keeps up with what’s making waves in the national news, and he took a swipe at the former Nvidia CEO Jensen Huang, who stepped down on Thursday (Nov. 12) after it was revealed he was having an extramarital affair with a Chinese spy."
+                "x": "Gustavo Cerati’s children, Lisa and Benito, have criticized an updated version of the late Argentine rock icon’s “Me Quedo Aquí” music video, released to coincide with the 20th anniversary of his 2006 album Ahí Vamos. The video has drawn backlash from fans who suspect artificial intelligence was used to alter the late musician’s appearance."
               },
               {
                 "t": "p",
-                "x": "50 posted an altered A.I. deepfake of the “P.I.M.P.” music video, but had Huang replace Snoop Dogg’s role in the visual. “Jensen don’t sweat it come be head of AI at G-Unit film & television GLG GreenLightGang in full effect,” 50 captioned the post."
+                "x": "In a statement shared on Lisa Cerati’s Instagram Stories and also reposted by Benito, the siblings first expressed their support for the album’s audio remaster. “We felt it was necessary, and we’re happy with how the audio turned out, respecting the original intention of a rawer sound.”"
               },
               {
                 "t": "p",
-                "x": "A fan commented: “Huang the new member of Jen-Unit!”"
+                "x": "“As for the videos, ‘Me Quedo Aquí’ received a treatment that we didn’t see before all of you did, and we found the result unfavorable,” they continued. “We weren’t aware of the enhancement process or what tools were used. We weren’t consulted, and we deeply regret that.”"
               },
-              {
-                "t": "p",
-                "x": "“P.I.M.P.” arrived in 2003 and reached No. 3 on the Billboard Hot 100. The remix of the Mr. Porter-produced anthem featured Snoop alongside G-Unit’s Young Buck and Lloyd Banks."
-              },
-              {
-                "t": "p",
-                "x": "According to The New York Times, the A.I. tech giant had a pair of affairs that led to the scandal exploding this week. One entanglement was with a woman whom U.S. intelligence officials tabbed as a Chinese spy, Alice Huang (unrelated), while another affair was with a fellow executive of the company."
-              },
-              {
-                "t": "p",
-                "x": "50 didn’t stop there. He continued to troll Huang by posting another AI deepfake of the disgraced entrepreneur as Justin Bieber in Drake’s 2020 “Popstar” music video. “lol like this I don’t know why, but I like it,” he added in the caption."
-              },
-              {
-                "t": "p",
-                "x": "Huang admitted in a company-wide message before stepping down that he had been “unfaithful” to his wife, Lori Huang. The couple shares two children."
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "50 Cent rehace 'P.I.M.P.'\ncon un deepfake de Jensen Huang",
-          "body": "50 Cent publicó un deepfake de AI de su video 'P.I.M.P.' protagonizado por el ex CEO de Nvidia Jensen Huang.",
-          "mini_headline": "El deepfake de Huang de 50 Cent",
-          "full": {
-            "mode": "full",
-            "blocks": [
               {
                 "t": "img",
-                "src": "https://www.billboard.com/wp-content/uploads/2026/10/2287163263-e1792696512839.jpg?w=1024",
-                "cap": "Curtis \"50 Cent\" Jackson"
+                "src": "https://consequence.net/wp-content/uploads/2026/11/Lisa-and-Benito-Cerati-Slam-Use-of-AI-Gustavo-Cerati-Remastered-Video.png",
+                "cap": "Lisa and Benito Cerati statement (via Instagram)"
               },
               {
                 "t": "p",
-                "x": "Que 50 Cent aprenda a hacer videos generados con AI (AI-generated) equivale a un arma nuclear en las redes sociales. 50 siempre está al tanto de lo que da que hablar en las noticias nacionales, y lanzó una pulla al ex CEO de Nvidia Jensen Huang, que dimitió el jueves (Nov. 12) después de que se revelara que mantenía una relación extramatrimonial con una espía china."
-              },
-              {
-                "t": "p",
-                "x": "50 publicó un deepfake de A.I. alterado del video musical de “P.I.M.P.”, en el que Huang sustituye a Snoop Dogg. “Jensen, no te preocupes, ven a ser jefe de AI en G-Unit film & television, GLG GreenLightGang in full effect”, escribió 50 en la publicación."
-              },
-              {
-                "t": "p",
-                "x": "Un fan comentó: “¡Huang, el nuevo miembro de Jen-Unit!”"
-              },
-              {
-                "t": "p",
-                "x": "“P.I.M.P.” salió en 2003 y llegó al No. 3 del Billboard Hot 100. El remix de este himno producido por Mr. Porter (Mr. Porter-produced) contó con Snoop junto a Young Buck y Lloyd Banks, de G-Unit."
-              },
-              {
-                "t": "p",
-                "x": "Según The New York Times, el magnate tecnológico de la A.I. tuvo dos aventuras que hicieron estallar el escándalo esta semana. Una fue con una mujer a la que funcionarios de inteligencia de U.S. señalaron como espía china, Alice Huang (sin parentesco), y la otra con un alto cargo de la propia empresa."
-              },
-              {
-                "t": "p",
-                "x": "50 no se detuvo ahí. Siguió burlándose de Huang con otro deepfake de AI en el que el empresario caído en desgracia aparece como Justin Bieber en el video de “Popstar” de Drake, de 2020. “lol así, no sé por qué, pero me gusta”, añadió en el texto."
-              },
-              {
-                "t": "p",
-                "x": "Antes de dimitir, Huang admitió en un mensaje a toda la empresa que había sido “infiel” a su esposa, Lori Huang. La pareja tiene dos hijos."
+                "x": "Fans questioned apparent alterations to Cerati’s facial features, with some suspecting AI-generated modifications. Neither the official account nor the siblings have confirmed whether AI was used. Cerati died in 2014 at the age of 55. The remastered Ahí Vamos arrived digitally on November 12th, with physical editions following November 13th."
               }
             ]
           }
         },
         "ko": {
-          "headline": "50 Cent, 젠슨 황\n딥페이크 P.I.M.P.",
-          "body": "50 Cent가 전 Nvidia CEO 황으로 P.I.M.P.를 AI 리메이크했다.",
-          "mini_headline": "50 Cent의 젠슨 황 딥페이크 영상",
+          "headline": "Cerati 자녀들\n“영상 협의 없었다”",
+          "body": "Cerati 자녀들은 AI-altered 의혹 영상을 두고 자문이 없었다고 했다.",
+          "mini_headline": "Cerati 유족, 보정 영상 비판",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.billboard.com/wp-content/uploads/2026/10/2287163263-e1792696512839.jpg?w=1024",
-                "cap": "Curtis \"50 Cent\" Jackson"
+                "src": "https://consequence.net/wp-content/uploads/2026/11/Gustavo-Cerati-Me-Quedo-Aqui-Remastered-Video-Frame.jpg",
+                "cap": "Gustavo Cerati “Me Quedo Aquí” 리마스터 뮤직비디오 (via Instagram)"
               },
               {
                 "t": "p",
-                "x": "50 Cent가 AI-generated 영상 만드는 법을 익혔으니 소셜 미디어에 핵무기가 생긴 셈이다. 전국 뉴스 화제를 놓치는 법이 없는 50이 이번에 겨냥한 상대는 중국 스파이와 혼외 관계를 맺은 사실이 드러나 목요일(Nov. 12) 물러난 전 Nvidia CEO 젠슨 황(Jensen Huang)이다."
+                "x": "Gustavo Cerati의 자녀 Lisa와 Benito가 아르헨티나 록 아이콘인 고인의 “Me Quedo Aquí” 뮤직비디오 새 버전을 비판했다. 2006년 앨범 Ahí Vamos 발매 20주년에 맞춰 공개된 영상이다. 팬들은 인공지능으로 고인의 외모를 바꾼 것 아니냐며 반발하고 있다."
               },
               {
                 "t": "p",
-                "x": "50은 “P.I.M.P.” 뮤직비디오를 A.I. 딥페이크로 고쳐 올리면서 Snoop Dogg 자리에 황을 앉혔다. 그는 게시물에 “Jensen don’t sweat it come be head of AI at G-Unit film & television GLG GreenLightGang in full effect”라고 적었다."
+                "x": "남매는 Lisa Cerati가 Instagram Stories에 올리고 Benito가 다시 공유한 성명에서 앨범 오디오 리마스터는 지지한다고 먼저 밝혔다. “필요한 작업이라고 느꼈고, 더 거친 사운드라는 원래 의도를 존중해 완성된 오디오에 만족한다.”"
               },
               {
                 "t": "p",
-                "x": "“Huang the new member of Jen-Unit!”이라는 팬 댓글도 달렸다."
+                "x": "“영상의 경우, ‘Me Quedo Aquí’는 여러분이 보기 전까지 저희도 보지 못한 처리를 거쳤고, 그 결과가 좋지 않다고 봤다”고 남매는 덧붙였다. “보정 과정이나 어떤 도구가 쓰였는지 알지 못했다. 저희는 자문을 받지 못했고, 이를 깊이 유감스럽게 생각한다.”"
+              },
+              {
+                "t": "img",
+                "src": "https://consequence.net/wp-content/uploads/2026/11/Lisa-and-Benito-Cerati-Slam-Use-of-AI-Gustavo-Cerati-Remastered-Video.png",
+                "cap": "Lisa와 Benito Cerati의 성명 (via Instagram)"
               },
               {
                 "t": "p",
-                "x": "“P.I.M.P.”는 2003년에 나와 Billboard Hot 100에서 No. 3까지 올랐다. Mr. Porter가 프로듀싱했고, 리믹스에는 Snoop과 함께 G-Unit의 Young Buck, Lloyd Banks가 참여했다."
-              },
-              {
-                "t": "p",
-                "x": "The New York Times에 따르면 이 A.I. 기술 거물의 불륜 두 건이 이번 주 스캔들로 번졌다. 한 건의 상대는 U.S. 정보 당국이 중국 스파이로 지목한 여성 Alice Huang(황과 무관)이었고, 다른 한 건은 회사 동료 임원이었다."
-              },
-              {
-                "t": "p",
-                "x": "50은 여기서 멈추지 않았다. Drake의 2020년 “Popstar” 뮤직비디오 속 Justin Bieber 자리에 몰락한 기업가 황을 넣은 AI 딥페이크를 또 올려 조롱을 이어갔다. 캡션은 “lol like this I don’t know why, but I like it”였다."
-              },
-              {
-                "t": "p",
-                "x": "황은 물러나기 전 전사 메시지에서 아내 Lori Huang에게 “unfaithful”했다고 인정했다. 둘 사이에는 자녀가 둘 있다."
+                "x": "팬들은 Cerati의 얼굴 생김새가 달라 보인다며 의문을 제기했고 일부는 AI-generated 수정을 의심했다. 공식 계정도, 남매도 AI 사용 여부는 확인하지 않았다. Cerati는 2014년 55세로 세상을 떠났다. 리마스터한 Ahí Vamos는 11월 12일 디지털로 먼저 나왔고 실물 음반은 11월 13일 나왔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "50 Centがフアン氏を\nAI版P.I.M.P.に起用",
-          "body": "50 Centが元Nvidia CEOのフアン氏でP.I.M.P.をAI動画化した。",
-          "mini_headline": "50 Centのフアン氏ディープフェイク動画",
+          "headline": "Cerati の子ども\n映像に「相談なし」",
+          "body": "Cerati の子どもたちは AI-altered 疑惑の映像に相談はなかったと述べた。",
+          "mini_headline": "Cerati の遺族、補正映像を批判",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.billboard.com/wp-content/uploads/2026/10/2287163263-e1792696512839.jpg?w=1024",
-                "cap": "Curtis \"50 Cent\" Jackson"
+                "src": "https://consequence.net/wp-content/uploads/2026/11/Gustavo-Cerati-Me-Quedo-Aqui-Remastered-Video-Frame.jpg",
+                "cap": "Gustavo Cerati「Me Quedo Aquí」のリマスター映像（via Instagram）"
               },
               {
                 "t": "p",
-                "x": "50 CentがAI-generated動画の作り方を覚えたことは、ソーシャルメディア上の核兵器に等しい。50は全国ニュースの話題を常に追っており、今回は中国のスパイと婚外関係にあったことが明らかになり木曜日（Nov. 12）に退任した元Nvidia CEOのジェンスン・フアン（Jensen Huang）氏を皮肉った。"
+                "x": "Gustavo Cerati の子どもである Lisa と Benito が、故人となったアルゼンチンのロックの象徴による「Me Quedo Aquí」のミュージックビデオ新版を批判した。この映像は2006年のアルバム Ahí Vamos の20周年に合わせて公開された。故人の容姿を変えるのに人工知能が使われたのではないかと疑うファンから反発が起きている。"
               },
               {
                 "t": "p",
-                "x": "50は“P.I.M.P.”のミュージックビデオをA.I.ディープフェイクで加工して投稿し、映像中のSnoop Doggの役をフアン氏に置き換えた。投稿には“Jensen don’t sweat it come be head of AI at G-Unit film & television GLG GreenLightGang in full effect”と添えた。"
+                "x": "Lisa Cerati の Instagram Stories で共有され、Benito も再投稿した声明で、2人はまずアルバムの音源リマスターを支持すると表明した。「必要だと感じていたし、より生々しいサウンドという本来の意図を尊重した音の仕上がりに満足している」"
               },
               {
                 "t": "p",
-                "x": "あるファンは“Huang the new member of Jen-Unit!”とコメントした。"
+                "x": "「映像については、『Me Quedo Aquí』に私たちも皆さんより先に見ていない処理が施されており、その結果は好ましくないと感じた」と2人は続けた。「補正の過程も、どんなツールが使われたのかも知らなかった。私たちは相談を受けておらず、そのことを深く残念に思う」"
+              },
+              {
+                "t": "img",
+                "src": "https://consequence.net/wp-content/uploads/2026/11/Lisa-and-Benito-Cerati-Slam-Use-of-AI-Gustavo-Cerati-Remastered-Video.png",
+                "cap": "Lisa と Benito Cerati の声明（via Instagram）"
               },
               {
                 "t": "p",
-                "x": "“P.I.M.P.”は2003年に発表され、Billboard Hot 100でNo. 3に達した。Mr. Porterがプロデュースしたこの曲のリミックスには、SnoopとG-UnitのYoung Buck、Lloyd Banksが参加した。"
-              },
-              {
-                "t": "p",
-                "x": "The New York Timesによると、このA.I.テック界の大物は二つの不倫を抱えており、それが今週スキャンダルとして噴出した。一つはU.S.の情報当局が中国のスパイと見なした女性Alice Huang（フアン氏とは無関係）との関係で、もう一つは同社の幹部仲間との関係だった。"
-              },
-              {
-                "t": "p",
-                "x": "50はそれで終わらなかった。失脚した起業家フアン氏をDrakeの2020年の“Popstar”ミュージックビデオのJustin Bieberに見立てたAIディープフェイクも投稿し、からかいを続けた。キャプションには“lol like this I don’t know why, but I like it”と添えた。"
-              },
-              {
-                "t": "p",
-                "x": "フアン氏は退任前の全社向けメッセージで、妻のLori Huangに対し“unfaithful”だったと認めた。夫妻には子どもが二人いる。"
+                "x": "ファンは Cerati の顔立ちが変わったように見えると疑問を呈し、一部は AI-generated の修正を疑った。公式アカウントも2人も、AI が使われたかどうかを認めていない。Cerati は2014年に55歳で死去した。リマスター版 Ahí Vamos は11月12日にデジタルで配信され、フィジカル版は11月13日に続いた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "50 Cent用黄仁勋\nAI深伪翻拍P.I.M.P.",
-          "body": "50 Cent发布AI深伪版《P.I.M.P.》视频，由Nvidia前CEO黄仁勋主演。",
-          "mini_headline": "50 Cent的黄仁勋深伪视频",
+          "headline": "Cerati 子女称\n视频事先未获征询",
+          "body": "Cerati 子女称，粉丝疑为 AI-altered 的重制视频事先未征询他们。",
+          "mini_headline": "Cerati 后人批评修复视频",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.billboard.com/wp-content/uploads/2026/10/2287163263-e1792696512839.jpg?w=1024",
-                "cap": "Curtis \"50 Cent\" Jackson"
+                "src": "https://consequence.net/wp-content/uploads/2026/11/Gustavo-Cerati-Me-Quedo-Aqui-Remastered-Video-Frame.jpg",
+                "cap": "Gustavo Cerati《Me Quedo Aquí》重制版视频（via Instagram）"
               },
               {
                 "t": "p",
-                "x": "50 Cent学会制作AI-generated视频，相当于掌握了一件社交媒体核武器。50一向紧跟全国新闻热点，这次他把矛头对准了Nvidia前CEO黄仁勋（Jensen Huang）——此前有消息曝出黄仁勋与一名中国间谍有婚外情，他于周四（Nov. 12）辞职。"
+                "x": "Gustavo Cerati 的子女 Lisa 和 Benito 批评了这位已故阿根廷摇滚偶像《Me Quedo Aquí》音乐视频的新版本。该视频为纪念他2006年专辑 Ahí Vamos 发行20周年而推出。部分粉丝怀疑有人用人工智能改变了这位已故音乐人的外貌，并因此表达不满。"
               },
               {
                 "t": "p",
-                "x": "50发布了一段经A.I.深度伪造改编的“P.I.M.P.”音乐视频，让黄仁勋取代了画面中Snoop Dogg的角色。他在帖子中写道：“Jensen don’t sweat it come be head of AI at G-Unit film & television GLG GreenLightGang in full effect”。"
+                "x": "在 Lisa Cerati 于 Instagram Stories 发布、Benito 也转发的声明中，兄妹二人首先表示支持专辑的音频重制。“我们觉得这是必要的，也对音频的效果感到满意，它尊重了更原始声音的初衷。”"
               },
               {
                 "t": "p",
-                "x": "一位粉丝评论：“Huang the new member of Jen-Unit!”"
+                "x": "“至于视频，‘Me Quedo Aquí’经过了一种处理，我们和大家一样事先没有看过，我们认为结果并不理想，”他们接着说，“我们不知道增强的过程，也不知道用了什么工具。我们没有被征询意见，对此深感遗憾。”"
+              },
+              {
+                "t": "img",
+                "src": "https://consequence.net/wp-content/uploads/2026/11/Lisa-and-Benito-Cerati-Slam-Use-of-AI-Gustavo-Cerati-Remastered-Video.png",
+                "cap": "Lisa 和 Benito Cerati 的声明（via Instagram）"
               },
               {
                 "t": "p",
-                "x": "“P.I.M.P.”于2003年推出，在Billboard Hot 100上最高排到No. 3。这首由Mr. Porter制作的歌曲的混音版邀请了Snoop以及G-Unit的Young Buck和Lloyd Banks。"
+                "x": "粉丝质疑 Cerati 的面部特征似乎被改动，有人怀疑是 AI-generated 的修改。官方账号和兄妹二人都未确认是否使用了 AI。Cerati 于2014年去世，享年55岁。重制版 Ahí Vamos 于11月12日以数字形式发行，实体版随后于11月13日推出。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Los hijos de Cerati dicen que\nno fueron consultados",
+          "body": "Los hijos de Cerati dicen que no fueron consultados sobre el video de 'Me Quedo Aquí', señalado como AI-altered.",
+          "mini_headline": "Herederos de Cerati critican el video",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://consequence.net/wp-content/uploads/2026/11/Gustavo-Cerati-Me-Quedo-Aqui-Remastered-Video-Frame.jpg",
+                "cap": "Video remasterizado de “Me Quedo Aquí” de Gustavo Cerati (vía Instagram)"
               },
               {
                 "t": "p",
-                "x": "据The New York Times报道，这位A.I.科技巨头有两段婚外情，导致丑闻在本周爆发。其中一段的对象是被U.S.情报官员认定为中国间谍的女子Alice Huang（与黄仁勋无亲属关系），另一段则是与公司的一名高管同事。"
+                "x": "Los hijos de Gustavo Cerati, Lisa y Benito, criticaron una versión actualizada del video musical de “Me Quedo Aquí” del fallecido ícono del rock argentino, publicada para coincidir con el 20.º aniversario de su álbum de 2006 Ahí Vamos. El video provocó el rechazo de fans que sospechan que se usó inteligencia artificial para alterar la apariencia del músico."
               },
               {
                 "t": "p",
-                "x": "50并未就此罢手。他又发布了一段AI深度伪造视频，把这位声名扫地的企业家放进Drake 2020年“Popstar”音乐视频中Justin Bieber的位置，继续调侃黄仁勋。他在配文中补充道：“lol like this I don’t know why, but I like it”。"
+                "x": "En un comunicado compartido en las Instagram Stories de Lisa Cerati y también republicado por Benito, los hermanos expresaron primero su apoyo a la remasterización del audio del álbum. “Sentíamos que era necesaria y estamos contentos con cómo quedó el audio, respetando la intención original de un sonido más crudo”."
               },
               {
                 "t": "p",
-                "x": "黄仁勋在辞职前发给全公司的信息中承认，他对妻子Lori Huang“unfaithful”。两人育有两个孩子。"
+                "x": "“En cuanto a los videos, ‘Me Quedo Aquí’ recibió un tratamiento que no vimos antes que ustedes, y el resultado nos pareció desfavorable”, continuaron. “No sabíamos del proceso de mejora ni de qué herramientas se usaron. No fuimos consultados y lo lamentamos profundamente”."
+              },
+              {
+                "t": "img",
+                "src": "https://consequence.net/wp-content/uploads/2026/11/Lisa-and-Benito-Cerati-Slam-Use-of-AI-Gustavo-Cerati-Remastered-Video.png",
+                "cap": "Comunicado de Lisa y Benito Cerati (vía Instagram)"
+              },
+              {
+                "t": "p",
+                "x": "Los fans cuestionaron aparentes alteraciones en los rasgos faciales de Cerati, y algunos sospechan modificaciones AI-generated. Ni la cuenta oficial ni los hermanos han confirmado si se usó AI. Cerati murió en 2014 a los 55 años. Ahí Vamos remasterizado llegó en formato digital el 12 de noviembre, y las ediciones físicas siguieron el 13 de noviembre."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "es": {
-          "headline": "50 Cent rehace 'P.I.M.P.'\ncon un deepfake de Jensen Huang",
-          "body": "50 Cent publicó un deepfake de AI de su video 'P.I.M.P.' protagonizado por el ex CEO de Nvidia Jensen Huang.",
-          "mini_headline": "El deepfake de Huang de 50 Cent",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.billboard.com/wp-content/uploads/2026/10/2287163263-e1792696512839.jpg?w=1024",
-                "cap": "Curtis \"50 Cent\" Jackson"
-              },
-              {
-                "t": "p",
-                "x": "Que 50 Cent aprenda a hacer videos generados con AI (AI-generated) equivale a un arma nuclear en las redes sociales. 50 siempre está al tanto de lo que da que hablar en las noticias nacionales, y lanzó una pulla al ex CEO de Nvidia Jensen Huang, que dimitió el jueves (Nov. 12) después de que se revelara que mantenía una relación extramatrimonial con una espía china."
-              },
-              {
-                "t": "p",
-                "x": "50 publicó un deepfake de A.I. alterado del video musical de “P.I.M.P.”, en el que Huang sustituye a Snoop Dogg. “Jensen, no te preocupes, ven a ser jefe de AI en G-Unit film & television, GLG GreenLightGang in full effect”, escribió 50 en la publicación."
-              },
-              {
-                "t": "p",
-                "x": "Un fan comentó: “¡Huang, el nuevo miembro de Jen-Unit!”"
-              },
-              {
-                "t": "p",
-                "x": "“P.I.M.P.” salió en 2003 y llegó al No. 3 del Billboard Hot 100. El remix de este himno producido por Mr. Porter (Mr. Porter-produced) contó con Snoop junto a Young Buck y Lloyd Banks, de G-Unit."
-              },
-              {
-                "t": "p",
-                "x": "Según The New York Times, el magnate tecnológico de la A.I. tuvo dos aventuras que hicieron estallar el escándalo esta semana. Una fue con una mujer a la que funcionarios de inteligencia de U.S. señalaron como espía china, Alice Huang (sin parentesco), y la otra con un alto cargo de la propia empresa."
-              },
-              {
-                "t": "p",
-                "x": "50 no se detuvo ahí. Siguió burlándose de Huang con otro deepfake de AI en el que el empresario caído en desgracia aparece como Justin Bieber en el video de “Popstar” de Drake, de 2020. “lol así, no sé por qué, pero me gusta”, añadió en el texto."
-              },
-              {
-                "t": "p",
-                "x": "Antes de dimitir, Huang admitió en un mensaje a toda la empresa que había sido “infiel” a su esposa, Lori Huang. La pareja tiene dos hijos."
-              }
-            ]
-          }
-        },
         "ko": {
-          "headline": "50 Cent, 젠슨 황\n딥페이크 P.I.M.P.",
-          "body": "50 Cent가 전 Nvidia CEO 황으로 P.I.M.P.를 AI 리메이크했다.",
-          "mini_headline": "50 Cent의 젠슨 황 딥페이크 영상",
+          "headline": "Cerati 자녀들\n“영상 협의 없었다”",
+          "body": "Cerati 자녀들은 AI-altered 의심 영상에 자문받지 못했다고 밝혔다.",
+          "mini_headline": "Cerati 유족, 보정 영상 비판",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.billboard.com/wp-content/uploads/2026/10/2287163263-e1792696512839.jpg?w=1024",
-                "cap": "Curtis \"50 Cent\" Jackson"
+                "src": "https://consequence.net/wp-content/uploads/2026/11/Gustavo-Cerati-Me-Quedo-Aqui-Remastered-Video-Frame.jpg",
+                "cap": "Gustavo Cerati “Me Quedo Aquí” 리마스터 뮤직비디오 (via Instagram)"
               },
               {
                 "t": "p",
-                "x": "50 Cent가 AI-generated 영상 만드는 법을 익혔다는 것은 소셜 미디어판 핵무기나 다름없다. 50은 늘 전국 뉴스의 화제를 놓치지 않는데, 이번에는 중국 스파이와 혼외 관계를 맺은 사실이 드러나 목요일(Nov. 12) 물러난 전 Nvidia CEO 젠슨 황(Jensen Huang)을 겨냥했다."
+                "x": "Gustavo Cerati의 자녀 Lisa와 Benito가 고인이 된 아르헨티나 록 아이콘의 “Me Quedo Aquí” 뮤직비디오 새 버전을 비판했다. 이 영상은 2006년 앨범 Ahí Vamos 발매 20주년에 맞춰 공개됐다. 팬들은 고인의 외모를 바꾸는 데 인공지능이 쓰였다고 의심하며 반발하고 있다."
               },
               {
                 "t": "p",
-                "x": "50은 “P.I.M.P.” 뮤직비디오를 A.I. 딥페이크로 바꿔 올렸고, 영상 속 Snoop Dogg의 역할을 황으로 바꿔 넣었다. 그는 게시물에 “Jensen don’t sweat it come be head of AI at G-Unit film & television GLG GreenLightGang in full effect”라고 적었다."
+                "x": "Lisa Cerati의 Instagram Stories에 올라오고 Benito도 다시 공유한 성명에서, 남매는 먼저 앨범 오디오 리마스터를 지지한다고 밝혔다. “필요한 작업이라고 느꼈고, 더 거친 사운드라는 원래 의도를 존중해 완성된 오디오에 만족한다.”"
               },
               {
                 "t": "p",
-                "x": "한 팬은 “Huang the new member of Jen-Unit!”이라는 댓글을 달았다."
+                "x": "“영상의 경우, ‘Me Quedo Aquí’는 여러분이 보기 전까지 저희도 보지 못한 처리를 거쳤고, 그 결과가 좋지 않다고 봤다”고 이들은 이어 말했다. “보정 과정이나 어떤 도구가 쓰였는지 알지 못했다. 저희는 자문을 받지 못했고, 이를 깊이 유감스럽게 생각한다.”"
+              },
+              {
+                "t": "img",
+                "src": "https://consequence.net/wp-content/uploads/2026/11/Lisa-and-Benito-Cerati-Slam-Use-of-AI-Gustavo-Cerati-Remastered-Video.png",
+                "cap": "Lisa와 Benito Cerati의 성명 (via Instagram)"
               },
               {
                 "t": "p",
-                "x": "“P.I.M.P.”는 2003년에 나와 Billboard Hot 100에서 No. 3까지 올랐다. Mr. Porter가 프로듀싱한 이 곡의 리믹스에는 Snoop과 함께 G-Unit의 Young Buck, Lloyd Banks가 참여했다."
-              },
-              {
-                "t": "p",
-                "x": "The New York Times에 따르면 이 A.I. 기술 거물은 두 건의 불륜이 이번 주 스캔들로 번졌다. 한 건은 U.S. 정보 당국이 중국 스파이로 지목한 여성 Alice Huang(황과 무관)과의 관계였고, 다른 한 건은 회사 동료 임원과의 관계였다."
-              },
-              {
-                "t": "p",
-                "x": "50은 여기서 멈추지 않았다. 그는 몰락한 기업가 황을 Drake의 2020년 “Popstar” 뮤직비디오 속 Justin Bieber로 바꾼 AI 딥페이크를 또 올리며 조롱을 이어갔다. 캡션에는 “lol like this I don’t know why, but I like it”이라고 덧붙였다."
-              },
-              {
-                "t": "p",
-                "x": "황은 물러나기 전 전사 메시지에서 아내 Lori Huang에게 “unfaithful”했다고 인정했다. 두 사람 사이에는 자녀 둘이 있다."
+                "x": "팬들은 Cerati의 얼굴 생김새가 달라진 것 같다며 의문을 제기했고, 일부는 AI-generated 수정을 의심했다. 공식 계정도 남매도 AI 사용 여부를 확인하지 않았다. Cerati는 2014년 55세로 세상을 떠났다. 리마스터된 Ahí Vamos는 11월 12일 디지털로 나왔고, 실물 음반은 11월 13일 뒤따랐다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "50 Centがフアン氏を\nAI版P.I.M.P.に起用",
-          "body": "50 Centが元Nvidia CEOのフアン氏でP.I.M.P.をAI動画化した。",
-          "mini_headline": "50 Centのフアン氏ディープフェイク動画",
+          "headline": "Cerati の子ども\n映像に「相談なし」",
+          "body": "Cerati の子どもたちは AI-altered 疑惑の映像に相談はなかったと述べた。",
+          "mini_headline": "Cerati の遺族、補正映像を批判",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.billboard.com/wp-content/uploads/2026/10/2287163263-e1792696512839.jpg?w=1024",
-                "cap": "Curtis \"50 Cent\" Jackson"
+                "src": "https://consequence.net/wp-content/uploads/2026/11/Gustavo-Cerati-Me-Quedo-Aqui-Remastered-Video-Frame.jpg",
+                "cap": "Gustavo Cerati「Me Quedo Aquí」のリマスター映像（via Instagram）"
               },
               {
                 "t": "p",
-                "x": "50 CentがAI-generated動画の作り方を覚えたことは、ソーシャルメディア上の核兵器に等しい。50は全国ニュースの話題を常に追っており、今回は中国のスパイと婚外関係にあったことが明らかになり木曜日（Nov. 12）に退任した元Nvidia CEOのジェンスン・フアン（Jensen Huang）氏を皮肉った。"
+                "x": "Gustavo Cerati の子どもである Lisa と Benito が、故人となったアルゼンチンのロックの象徴による「Me Quedo Aquí」のミュージックビデオ新版を批判した。この映像は2006年のアルバム Ahí Vamos の20周年に合わせて公開された。故人の容姿を変えるのに人工知能が使われたのではないかと疑うファンから反発が起きている。"
               },
               {
                 "t": "p",
-                "x": "50は“P.I.M.P.”のミュージックビデオをA.I.ディープフェイクで加工して投稿し、映像中のSnoop Doggの役をフアン氏に置き換えた。投稿には“Jensen don’t sweat it come be head of AI at G-Unit film & television GLG GreenLightGang in full effect”と添えた。"
+                "x": "Lisa Cerati の Instagram Stories で共有され、Benito も再投稿した声明で、2人はまずアルバムの音源リマスターを支持すると表明した。「必要だと感じていたし、より生々しいサウンドという本来の意図を尊重した音の仕上がりに満足している」"
               },
               {
                 "t": "p",
-                "x": "あるファンは“Huang the new member of Jen-Unit!”とコメントした。"
+                "x": "「映像については、『Me Quedo Aquí』に私たちも皆さんより先に見ていない処理が施されており、その結果は好ましくないと感じた」と2人は続けた。「補正の過程も、どんなツールが使われたのかも知らなかった。私たちは相談を受けておらず、そのことを深く残念に思う」"
+              },
+              {
+                "t": "img",
+                "src": "https://consequence.net/wp-content/uploads/2026/11/Lisa-and-Benito-Cerati-Slam-Use-of-AI-Gustavo-Cerati-Remastered-Video.png",
+                "cap": "Lisa と Benito Cerati の声明（via Instagram）"
               },
               {
                 "t": "p",
-                "x": "“P.I.M.P.”は2003年に発表され、Billboard Hot 100でNo. 3に達した。Mr. Porterがプロデュースしたこの曲のリミックスには、SnoopとG-UnitのYoung Buck、Lloyd Banksが参加した。"
-              },
-              {
-                "t": "p",
-                "x": "The New York Timesによると、このA.I.テック界の大物は二つの不倫を抱えており、それが今週スキャンダルとして噴出した。一つはU.S.の情報当局が中国のスパイと見なした女性Alice Huang（フアン氏とは無関係）との関係で、もう一つは同社の幹部仲間との関係だった。"
-              },
-              {
-                "t": "p",
-                "x": "50はそれで終わらなかった。失脚した起業家フアン氏をDrakeの2020年の“Popstar”ミュージックビデオのJustin Bieberに見立てたAIディープフェイクも投稿し、からかいを続けた。キャプションには“lol like this I don’t know why, but I like it”と添えた。"
-              },
-              {
-                "t": "p",
-                "x": "フアン氏は退任前の全社向けメッセージで、妻のLori Huangに対し“unfaithful”だったと認めた。夫妻には子どもが二人いる。"
+                "x": "ファンは Cerati の顔立ちが変わったように見えると疑問を呈し、一部は AI-generated の修正を疑った。公式アカウントも2人も、AI が使われたかどうかを認めていない。Cerati は2014年に55歳で死去した。リマスター版 Ahí Vamos は11月12日にデジタルで配信され、フィジカル版は11月13日に続いた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "50 Cent用黄仁勋\nAI深伪翻拍P.I.M.P.",
-          "body": "50 Cent发布AI深伪版《P.I.M.P.》视频，由Nvidia前CEO黄仁勋主演。",
-          "mini_headline": "50 Cent的黄仁勋深伪视频",
+          "headline": "Cerati 子女称\n视频事先未获征询",
+          "body": "Cerati 子女称，粉丝疑为 AI-altered 的重制视频事先未征询他们。",
+          "mini_headline": "Cerati 后人批评修复视频",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.billboard.com/wp-content/uploads/2026/10/2287163263-e1792696512839.jpg?w=1024",
-                "cap": "Curtis \"50 Cent\" Jackson"
+                "src": "https://consequence.net/wp-content/uploads/2026/11/Gustavo-Cerati-Me-Quedo-Aqui-Remastered-Video-Frame.jpg",
+                "cap": "Gustavo Cerati《Me Quedo Aquí》重制版视频（via Instagram）"
               },
               {
                 "t": "p",
-                "x": "50 Cent学会制作AI-generated视频，相当于掌握了一件社交媒体核武器。50一向紧跟全国新闻热点，这次他把矛头对准了Nvidia前CEO黄仁勋（Jensen Huang）——此前有消息曝出黄仁勋与一名中国间谍有婚外情，他于周四（Nov. 12）辞职。"
+                "x": "Gustavo Cerati 的子女 Lisa 和 Benito 批评了这位已故阿根廷摇滚偶像《Me Quedo Aquí》音乐视频的新版本。该视频为纪念他2006年专辑 Ahí Vamos 发行20周年而推出。部分粉丝怀疑有人用人工智能改变了这位已故音乐人的外貌，并因此表达不满。"
               },
               {
                 "t": "p",
-                "x": "50发布了一段经A.I.深度伪造改编的“P.I.M.P.”音乐视频，让黄仁勋取代了画面中Snoop Dogg的角色。他在帖子中写道：“Jensen don’t sweat it come be head of AI at G-Unit film & television GLG GreenLightGang in full effect”。"
+                "x": "在 Lisa Cerati 于 Instagram Stories 发布、Benito 也转发的声明中，兄妹二人首先表示支持专辑的音频重制。“我们觉得这是必要的，也对音频的效果感到满意，它尊重了更原始声音的初衷。”"
               },
               {
                 "t": "p",
-                "x": "一位粉丝评论：“Huang the new member of Jen-Unit!”"
+                "x": "“至于视频，‘Me Quedo Aquí’经过了一种处理，我们和大家一样事先没有看过，我们认为结果并不理想，”他们接着说，“我们不知道增强的过程，也不知道用了什么工具。我们没有被征询意见，对此深感遗憾。”"
+              },
+              {
+                "t": "img",
+                "src": "https://consequence.net/wp-content/uploads/2026/11/Lisa-and-Benito-Cerati-Slam-Use-of-AI-Gustavo-Cerati-Remastered-Video.png",
+                "cap": "Lisa 和 Benito Cerati 的声明（via Instagram）"
               },
               {
                 "t": "p",
-                "x": "“P.I.M.P.”于2003年推出，在Billboard Hot 100上最高排到No. 3。这首由Mr. Porter制作的歌曲的混音版邀请了Snoop以及G-Unit的Young Buck和Lloyd Banks。"
+                "x": "粉丝质疑 Cerati 的面部特征似乎被改动，有人怀疑是 AI-generated 的修改。官方账号和兄妹二人都未确认是否使用了 AI。Cerati 于2014年去世，享年55岁。重制版 Ahí Vamos 于11月12日以数字形式发行，实体版随后于11月13日推出。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Los hijos de Cerati dicen que\nno fueron consultados",
+          "body": "Los hijos de Cerati dicen que no fueron consultados sobre el video de 'Me Quedo Aquí', señalado como AI-altered.",
+          "mini_headline": "Herederos de Cerati critican el video",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://consequence.net/wp-content/uploads/2026/11/Gustavo-Cerati-Me-Quedo-Aqui-Remastered-Video-Frame.jpg",
+                "cap": "Video remasterizado de “Me Quedo Aquí” de Gustavo Cerati (vía Instagram)"
               },
               {
                 "t": "p",
-                "x": "据The New York Times报道，这位A.I.科技巨头有两段婚外情，导致丑闻在本周爆发。其中一段的对象是被U.S.情报官员认定为中国间谍的女子Alice Huang（与黄仁勋无亲属关系），另一段则是与公司的一名高管同事。"
+                "x": "Los hijos de Gustavo Cerati, Lisa y Benito, criticaron una versión actualizada del video musical de “Me Quedo Aquí” del fallecido ícono del rock argentino, publicada para coincidir con el 20.º aniversario de su álbum de 2006 Ahí Vamos. El video provocó el rechazo de fans que sospechan que se usó inteligencia artificial para alterar la apariencia del músico."
               },
               {
                 "t": "p",
-                "x": "50并未就此罢手。他又发布了一段AI深度伪造视频，把这位声名扫地的企业家放进Drake 2020年“Popstar”音乐视频中Justin Bieber的位置，继续调侃黄仁勋。他在配文中补充道：“lol like this I don’t know why, but I like it”。"
+                "x": "En un comunicado compartido en las Instagram Stories de Lisa Cerati y también republicado por Benito, los hermanos expresaron primero su apoyo a la remasterización del audio del álbum. “Sentíamos que era necesaria y estamos contentos con cómo quedó el audio, respetando la intención original de un sonido más crudo”."
               },
               {
                 "t": "p",
-                "x": "黄仁勋在辞职前发给全公司的信息中承认，他对妻子Lori Huang“unfaithful”。两人育有两个孩子。"
+                "x": "“En cuanto a los videos, ‘Me Quedo Aquí’ recibió un tratamiento que no vimos antes que ustedes, y el resultado nos pareció desfavorable”, continuaron. “No sabíamos del proceso de mejora ni de qué herramientas se usaron. No fuimos consultados y lo lamentamos profundamente”."
+              },
+              {
+                "t": "img",
+                "src": "https://consequence.net/wp-content/uploads/2026/11/Lisa-and-Benito-Cerati-Slam-Use-of-AI-Gustavo-Cerati-Remastered-Video.png",
+                "cap": "Comunicado de Lisa y Benito Cerati (vía Instagram)"
+              },
+              {
+                "t": "p",
+                "x": "Los fans cuestionaron aparentes alteraciones en los rasgos faciales de Cerati, y algunos sospechan modificaciones AI-generated. Ni la cuenta oficial ni los hermanos han confirmado si se usó AI. Cerati murió en 2014 a los 55 años. Ahí Vamos remasterizado llegó en formato digital el 12 de noviembre, y las ediciones físicas siguieron el 13 de noviembre."
               }
             ]
           }
@@ -687,411 +697,191 @@
       }
     },
     {
-      "id": "mintify-vcoloring-ai-songs",
-      "source_lang": "ko",
+      "id": "terrecon-russia-ai-war-songs",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "민티파이 AI 노래\nV 컬러링에 공급",
-      "body": "민티파이가 통신 3사 V 컬러링에 AI로 만든 노래를 공급하기 시작했다.",
-      "mini_headline": "AI 노래, V 컬러링으로",
+      "headline": "러시아 전쟁 선전하는\nAI 노래 약 1,000곡",
+      "body": "Terrecon은 러시아 스트리밍에서 AI 전쟁 찬양곡 약 1,000곡을 찾았다.",
+      "mini_headline": "러시아의 AI 전쟁 찬양곡",
       "tool": "Music",
-      "source": "AI포스트",
-      "url": "https://www.aipostkorea.com/news/articleView.html?idxno=13276",
-      "accent": "#7928ca",
+      "source": "RFE/RL",
+      "url": "https://www.rferl.org/a/russia-propaganda-war-ukraine-artificial-intelligence/33897525.html",
+      "accent": "#f5a623",
       "motif": "sphere",
       "full": {
         "mode": "full",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://cdn.aipostkorea.com/news/photo/202611/13276_24022_5651.png",
-            "cap": "(사진=뮤직플랫)"
+            "t": "video",
+            "src": "https://rfe-video-ns.akamaized.net/pangeavideo/2026/11/0/02/0241abbc-9211-4460-8439-08df3ee82709_720p.mp4"
           },
           {
             "t": "p",
-            "x": "AI로 만든 노래가 음원 차트를 넘어 전화 화면까지 들어왔다. 음원 유통 AI 서비스 민티파이(운영사 뮤직플랫)는 통신 3사의 통화 연결 영상 서비스 V 컬러링과 V 프로필에 서비스를 시작하고, 이를 기념해 11월 12일부터 12월 10일까지 '인기 최신곡 by 민티파이' 이벤트를 연다고 밝혔다."
-          },
-          {
-            "t": "p",
-            "x": "최근 AI 음악은 빠르게 존재감을 키우고 있다. AI 크리에이터 머무르의 '꿈꾸던 어른이 되었나요?'는 지난달 멜론 TOP100 2위까지 올랐다. 민티파이는 이런 AI 음악이 음원 사이트뿐 아니라 전화를 걸고 받는 순간에도 쓰일 수 있도록 V 컬러링과 V 프로필에 곡을 공급한다."
-          },
-          {
-            "t": "p",
-            "x": "V 컬러링과 V 프로필은 전화가 연결되기 전까지 상대방 화면에 영상을 보여주는 서비스다. 나에게 전화를 거는 사람에게 보이도록 설정하면 V 컬러링으로, 내 전화를 받는 사람에게 보이도록 설정하면 V 프로필로 쓸 수 있다. 민티파이 AI 음원이 포함된 영상을 설정하면 내가 고른 음악과 영상이 상대방 화면에 나온다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.aipostkorea.com/news/photo/202611/13276_24023_571.jpg",
-            "cap": "(사진=뮤직플랫)"
-          },
-          {
-            "t": "p",
-            "x": "이번 이벤트에는 민티파이로 발매된 AI 음원이 포함된 영상 18개가 먼저 공개된다. V 컬러링 무제한 또는 V 프로필 이용 고객이 이벤트 영상을 1일 이상 설정하면 자동으로 응모된다. 경품은 1등 갤럭시 버즈 PRO(1명), 2등 민티파이 발매권 33,000원 상당(10명), 3등 JBOX 50% 할인권(100명)이고, 당첨자는 12월 15일 발표한다. 민티파이는 이벤트 이후에도 발매곡을 V 컬러링과 V 프로필에 계속 공급할 계획이다."
-          },
-          {
-            "t": "p",
-            "x": "민티파이는 음원만 있으면 AI 기술로 자켓 이미지와 발매에 필요한 데이터를 자동으로 만들어, 국내외 30여 개 음원 서비스에 판매할 수 있게 해준다. AI로 만든 곡이든 사람이 만든 곡이든 상관없어, 일반인과 뮤지션 모두 자신의 음악으로 쉽게 수익을 낼 수 있다."
+            "x": "음악 스트리밍 사이트를 쓰는 러시아인이라면 피드에서 낯선 장르를 마주칠지도 모른다. 러시아군과 우크라이나 전쟁을 응원하는 AI로 만든(AI-generated) 노래다. 우크라이나 비영리단체 Terrecon은 연구에서 이런 노래를 1,000곡 가까이 찾아냈다. 연구진은 이 노래들이 애국심을 부추기고 신병 동원을 돕고 아이들까지 끌어들이려고 만들어졌다고 본다."
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "민티파이 AI 노래\nV 컬러링에 공급",
-          "body": "민티파이가 통신 3사 V 컬러링에 AI로 만든 노래를 공급하기 시작했다.",
-          "mini_headline": "AI 노래, V 컬러링으로",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.aipostkorea.com/news/photo/202611/13276_24022_5651.png",
-                "cap": "(사진=뮤직플랫)"
-              },
-              {
-                "t": "p",
-                "x": "AI로 만든 노래가 음원 차트를 넘어 전화 화면까지 들어왔다. 음원 유통 AI 서비스 민티파이(운영사 뮤직플랫)는 통신 3사의 통화 연결 영상 서비스 V 컬러링과 V 프로필에 서비스를 시작하고, 이를 기념해 11월 12일부터 12월 10일까지 '인기 최신곡 by 민티파이' 이벤트를 연다고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "최근 AI 음악은 빠르게 존재감을 키우고 있다. AI 크리에이터 머무르의 '꿈꾸던 어른이 되었나요?'는 지난달 멜론 TOP100 2위까지 올랐다. 민티파이는 이런 AI 음악이 음원 사이트뿐 아니라 전화를 걸고 받는 순간에도 쓰일 수 있도록 V 컬러링과 V 프로필에 곡을 공급한다."
-              },
-              {
-                "t": "p",
-                "x": "V 컬러링과 V 프로필은 전화가 연결되기 전까지 상대방 화면에 영상을 보여주는 서비스다. 나에게 전화를 거는 사람에게 보이도록 설정하면 V 컬러링으로, 내 전화를 받는 사람에게 보이도록 설정하면 V 프로필로 쓸 수 있다. 민티파이 AI 음원이 포함된 영상을 설정하면 내가 고른 음악과 영상이 상대방 화면에 나온다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.aipostkorea.com/news/photo/202611/13276_24023_571.jpg",
-                "cap": "(사진=뮤직플랫)"
-              },
-              {
-                "t": "p",
-                "x": "이번 이벤트에는 민티파이로 발매된 AI 음원이 포함된 영상 18개가 먼저 공개된다. V 컬러링 무제한 또는 V 프로필 이용 고객이 이벤트 영상을 1일 이상 설정하면 자동으로 응모된다. 경품은 1등 갤럭시 버즈 PRO(1명), 2등 민티파이 발매권 33,000원 상당(10명), 3등 JBOX 50% 할인권(100명)이고, 당첨자는 12월 15일 발표한다. 민티파이는 이벤트 이후에도 발매곡을 V 컬러링과 V 프로필에 계속 공급할 계획이다."
-              },
-              {
-                "t": "p",
-                "x": "민티파이는 음원만 있으면 AI 기술로 자켓 이미지와 발매에 필요한 데이터를 자동으로 만들어, 국내외 30여 개 음원 서비스에 판매할 수 있게 해준다. AI로 만든 곡이든 사람이 만든 곡이든 상관없어, 일반인과 뮤지션 모두 자신의 음악으로 쉽게 수익을 낼 수 있다."
-              }
-            ]
-          }
-        },
         "en": {
-          "headline": "Mintify brings AI songs\nto V Coloring call screens",
-          "body": "Mintify has begun supplying AI-made songs to V Coloring, the call video service of the 3 major telecom carriers.",
-          "mini_headline": "AI songs head to V Coloring",
+          "headline": "Nearly 1,000 AI songs push\nRussia's war on streaming",
+          "body": "Ukrainian nonprofit Terrecon found nearly 1,000 AI-generated pro-war songs on streaming music sites used by Russians.",
+          "mini_headline": "Russia's AI\npro-war songs",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.aipostkorea.com/news/photo/202611/13276_24022_5651.png",
-                "cap": "(Photo: MusicPlat)"
+                "t": "video",
+                "src": "https://rfe-video-ns.akamaized.net/pangeavideo/2026/11/0/02/0241abbc-9211-4460-8439-08df3ee82709_720p.mp4"
               },
               {
                 "t": "p",
-                "x": "Songs made with AI have moved beyond the music charts and onto phone screens. Mintify (operated by MusicPlat), an AI music distribution service, said it has launched on V Coloring and V Profile, the call-connection video services of the 3 telecom carriers, and that to mark the launch it will run a 'Popular Latest Songs by Mintify' event from 11/12 to 12/10."
-              },
-              {
-                "t": "p",
-                "x": "AI music has been rapidly gaining presence. AI creator Meomureu's 'Have I Become the Adult I Dreamed Of?' climbed as high as No. 2 on the Melon TOP100 last month. Mintify supplies songs to V Coloring and V Profile so that such AI music can be used not only on music sites but also in the moments when people make and receive calls."
-              },
-              {
-                "t": "p",
-                "x": "V Coloring and V Profile are services that show a video on the other party's screen until a call connects. Set to be seen by people calling you, it works as V Coloring; set to be seen by people you call, it works as V Profile. When a user sets a video containing Mintify AI music, the music and video they chose appear on the other party's screen."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.aipostkorea.com/news/photo/202611/13276_24023_571.jpg",
-                "cap": "(Photo: MusicPlat)"
-              },
-              {
-                "t": "p",
-                "x": "The event opens with 18 videos featuring AI tracks released through Mintify. Customers using V Coloring Unlimited or V Profile are entered automatically when they set an event video for at least 1 day. Prizes are a Galaxy Buds PRO for 1st place (1 winner), a Mintify release voucher worth 33,000 won for 2nd place (10 winners) and a JBOX 50% discount voucher for 3rd place (100 winners), and winners will be announced on 12/15. Mintify plans to keep supplying its released songs to V Coloring and V Profile after the event."
-              },
-              {
-                "t": "p",
-                "x": "With nothing more than an audio track, Mintify uses AI to automatically create cover art and the data needed for release, letting the music be sold on some 30 music services at home and abroad. It does not matter whether a song was made by AI or by a person, so both ordinary users and musicians can easily earn money from their own music."
+                "x": "Russians using streaming music sites might find a new genre turning up in their feeds: AI-generated songs in support of Russia's military and the war in Ukraine. A study by a Ukrainian nonprofit, Terrecon, found nearly 1,000 songs in that category, and researchers say they are meant to generate patriotic sentiment, help mobilize new recruits, and even appeal to children."
               }
             ]
           }
         },
-        "ja": {
-          "headline": "Mintify、AI楽曲を\nVカラーリングに供給",
-          "body": "Mintifyが通信3社のVカラーリングにAIで作った楽曲の供給を始めた。",
-          "mini_headline": "AI楽曲、Vカラーリングへ",
+        "ko": {
+          "headline": "러시아 전쟁 선전하는\nAI 노래 약 1,000곡",
+          "body": "Terrecon은 러시아 스트리밍에서 AI 전쟁 찬양곡 약 1,000곡을 찾았다.",
+          "mini_headline": "러시아의 AI 전쟁 찬양곡",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.aipostkorea.com/news/photo/202611/13276_24022_5651.png",
-                "cap": "（写真=MusicPlat）"
+                "t": "video",
+                "src": "https://rfe-video-ns.akamaized.net/pangeavideo/2026/11/0/02/0241abbc-9211-4460-8439-08df3ee82709_720p.mp4"
               },
               {
                 "t": "p",
-                "x": "AIで作った楽曲が、音源チャートを越えて電話の画面にまで入ってきた。音源流通AIサービスのMintify（運営会社MusicPlat）は、通信3社の通話接続動画サービスであるVカラーリングとVプロフィールでサービスを開始し、これを記念して11月12日から12月10日まで「人気最新曲 by Mintify」イベントを開催すると明らかにした。"
-              },
-              {
-                "t": "p",
-                "x": "最近、AI音楽は急速に存在感を高めている。AIクリエイターMeomureuの「夢見た大人になれましたか？」は先月、Melon TOP100で2位まで上昇した。Mintifyは、こうしたAI音楽が音源サイトだけでなく電話をかけたり受けたりする瞬間にも使われるよう、VカラーリングとVプロフィールに楽曲を供給する。"
-              },
-              {
-                "t": "p",
-                "x": "VカラーリングとVプロフィールは、電話がつながるまで相手の画面に動画を表示するサービスだ。自分に電話をかける人に見えるよう設定すればVカラーリング、自分の電話を受ける人に見えるよう設定すればVプロフィールとして使える。MintifyのAI音源を含む動画を設定すると、自分が選んだ音楽と動画が相手の画面に流れる。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.aipostkorea.com/news/photo/202611/13276_24023_571.jpg",
-                "cap": "（写真=MusicPlat）"
-              },
-              {
-                "t": "p",
-                "x": "今回のイベントでは、MintifyでリリースされたAI音源を含む動画18本がまず公開される。Vカラーリング無制限またはVプロフィールの利用者がイベント動画を1日以上設定すると自動で応募となる。賞品は1等がGalaxy Buds PRO（1名）、2等がMintifyリリース券33,000ウォン相当（10名）、3等がJBOX 50%割引券（100名）で、当選者は12月15日に発表する。Mintifyはイベント終了後も、リリース曲をVカラーリングとVプロフィールに供給し続ける計画だ。"
-              },
-              {
-                "t": "p",
-                "x": "Mintifyは音源さえあれば、AI技術でジャケット画像とリリースに必要なデータを自動で作成し、国内外30余りの音源サービスで販売できるようにする。AIが作った曲でも人が作った曲でも構わないため、一般の人もミュージシャンも自分の音楽で手軽に収益を得られる。"
+                "x": "음악 스트리밍 사이트를 쓰는 러시아인이라면 피드에서 낯선 장르를 마주칠지도 모른다. 러시아군과 우크라이나 전쟁을 응원하는 AI로 만든(AI-generated) 노래다. 우크라이나 비영리단체 Terrecon은 연구에서 이런 노래를 1,000곡 가까이 찾아냈다. 연구진은 이 노래들이 애국심을 부추기고 신병 동원을 돕고 아이들까지 끌어들이려고 만들어졌다고 본다."
               }
             ]
           }
         },
         "zh": {
-          "headline": "Mintify向V彩铃\n供应AI歌曲",
-          "body": "Mintify开始向3家运营商的V彩铃供应AI制作的歌曲。",
-          "mini_headline": "AI歌曲进入V彩铃",
+          "headline": "近1,000首AI歌曲\n在流媒体为俄战争造势",
+          "body": "乌克兰组织Terrecon在俄罗斯人用的音乐流媒体上发现近1,000首AI生成挺战歌曲。",
+          "mini_headline": "俄罗斯的AI挺战歌曲",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.aipostkorea.com/news/photo/202611/13276_24022_5651.png",
-                "cap": "（图片=MusicPlat）"
+                "t": "video",
+                "src": "https://rfe-video-ns.akamaized.net/pangeavideo/2026/11/0/02/0241abbc-9211-4460-8439-08df3ee82709_720p.mp4"
               },
               {
                 "t": "p",
-                "x": "AI制作的歌曲已越过音源榜单，走进了手机屏幕。音源发行AI服务Mintify（运营方MusicPlat）宣布，已登陆3家电信运营商的通话接通视频服务V彩铃与V名片，并为此于11月12日至12月10日举办“人气最新曲 by Mintify”活动。"
-              },
-              {
-                "t": "p",
-                "x": "近来AI音乐的存在感迅速上升。AI创作者Meomureu的《我成为梦想中的大人了吗？》上月在Melon TOP100中最高升至第2名。Mintify向V彩铃与V名片供应歌曲，让这类AI音乐不仅出现在音源网站上，也能用于拨打和接听电话的时刻。"
-              },
-              {
-                "t": "p",
-                "x": "V彩铃与V名片是在电话接通前向对方屏幕播放视频的服务。设置为向给我打电话的人展示，即为V彩铃；设置为向接听我电话的人展示，即为V名片。设置含有Mintify AI音源的视频后，我选择的音乐和视频就会出现在对方屏幕上。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.aipostkorea.com/news/photo/202611/13276_24023_571.jpg",
-                "cap": "（图片=MusicPlat）"
-              },
-              {
-                "t": "p",
-                "x": "此次活动首先公开18段含有经Mintify发行的AI音源的视频。V彩铃无限版或V名片用户将活动视频设置1天以上即自动参与抽奖。奖品为1等奖Galaxy Buds PRO（1名）、2等奖价值33,000韩元的Mintify发行券（10名）、3等奖JBOX 50%折扣券（100名），中奖者将于12月15日公布。Mintify计划在活动结束后继续向V彩铃与V名片供应发行曲目。"
-              },
-              {
-                "t": "p",
-                "x": "只要有音源，Mintify就能用AI技术自动生成封面图片和发行所需的数据，让作品在国内外30余家音源服务上销售。无论是AI制作的歌曲还是人创作的歌曲都可以，普通人和音乐人都能轻松地用自己的音乐获得收益。"
+                "x": "使用音乐流媒体网站的俄罗斯人可能会在推送中看到一种新类型：支持俄罗斯军队和乌克兰战争的AI生成（AI-generated）歌曲。乌克兰非营利组织Terrecon的一项研究发现了近1,000首此类歌曲，研究人员称，这些歌曲旨在激发爱国情绪、协助动员新兵，甚至吸引儿童。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Mintify lleva canciones con AI\na las llamadas de V Coloring",
-          "body": "Mintify empezó a suministrar canciones hechas con AI a V Coloring, servicio de las 3 operadoras móviles.",
-          "mini_headline": "Canciones con AI llegan a V Coloring",
+          "headline": "Casi 1,000 canciones con IA\nimpulsan la guerra rusa",
+          "body": "La ONG ucraniana Terrecon halló casi 1,000 canciones probélicas generadas con IA en el streaming que usan los rusos.",
+          "mini_headline": "Canciones bélicas de IA en Rusia",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.aipostkorea.com/news/photo/202611/13276_24022_5651.png",
-                "cap": "(Foto: MusicPlat)"
+                "t": "video",
+                "src": "https://rfe-video-ns.akamaized.net/pangeavideo/2026/11/0/02/0241abbc-9211-4460-8439-08df3ee82709_720p.mp4"
               },
               {
                 "t": "p",
-                "x": "Las canciones hechas con AI han pasado de las listas musicales a las pantallas del teléfono. Mintify (operado por MusicPlat), un servicio de AI para la distribución de música, anunció que comenzó a ofrecer su servicio en V Coloring y V Profile, los servicios de video al conectar llamadas de las 3 operadoras móviles, y que para celebrarlo organiza del 12/11 al 10/12 el evento 'Canciones recientes populares by Mintify'."
+                "x": "Los rusos que usan sitios de música en streaming podrían encontrar un nuevo género en sus feeds: canciones generadas por IA (AI-generated) que apoyan al ejército ruso y la guerra en Ucrania. Un estudio de la organización sin fines de lucro ucraniana Terrecon halló casi 1,000 canciones de esa categoría, y los investigadores dicen que buscan generar sentimiento patriótico, ayudar a movilizar nuevos reclutas e incluso atraer a los niños."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AI 生成の親戦争歌\n露の配信に約1,000曲",
+          "body": "Terrecon、露の配信で AI-generated 親戦争曲約1,000曲を確認した。",
+          "mini_headline": "ロシアの AI 親戦争歌",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "video",
+                "src": "https://rfe-video-ns.akamaized.net/pangeavideo/2026/11/0/02/0241abbc-9211-4460-8439-08df3ee82709_720p.mp4"
               },
               {
                 "t": "p",
-                "x": "La música hecha con AI gana presencia con rapidez. '¿Me convertí en el adulto que soñaba?', del creador de AI Meomureu, llegó al puesto 2 del Melon TOP100 el mes pasado. Mintify suministra canciones a V Coloring y V Profile para que esta música con AI se use no solo en los sitios de música, sino también al hacer y recibir llamadas."
-              },
-              {
-                "t": "p",
-                "x": "V Coloring y V Profile son servicios que muestran un video en la pantalla de la otra persona hasta que se conecta la llamada. Si se configura para que lo vea quien te llama, funciona como V Coloring; si se configura para que lo vea quien recibe tu llamada, funciona como V Profile. Al configurar un video con música de AI de Mintify, la música y el video elegidos aparecen en la pantalla de la otra persona."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.aipostkorea.com/news/photo/202611/13276_24023_571.jpg",
-                "cap": "(Foto: MusicPlat)"
-              },
-              {
-                "t": "p",
-                "x": "El evento arranca con 18 videos que incluyen temas de AI publicados a través de Mintify. Los clientes de V Coloring ilimitado o de V Profile que configuren un video del evento durante 1 día o más participan automáticamente. Los premios son: 1.er premio, unos Galaxy Buds PRO (1 ganador); 2.º premio, un bono de lanzamiento de Mintify por valor de 33,000 wones (10 ganadores); y 3.er premio, un cupón de descuento del 50% de JBOX (100 ganadores). Los ganadores se anunciarán el 15/12. Mintify prevé seguir suministrando sus lanzamientos a V Coloring y V Profile después del evento."
-              },
-              {
-                "t": "p",
-                "x": "Con solo tener la pista de audio, Mintify usa AI para crear automáticamente la portada y los datos necesarios para el lanzamiento, y permite venderla en unos 30 servicios de música nacionales e internacionales. Da igual si la canción la hizo una AI o una persona, de modo que tanto el público general como los músicos pueden obtener ingresos fácilmente con su propia música."
+                "x": "音楽ストリーミングサイトを使うロシア人のフィードに、新たなジャンルが現れているかもしれない。ロシア軍とウクライナでの戦争を支持する AI-generated の楽曲だ。ウクライナの非営利団体 Terrecon の調査では、この種の楽曲が約1,000曲見つかった。研究者によると、これらは愛国心をかき立て、新兵の動員を助け、さらには子どもにも訴えかけることを狙っているという。"
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "Mintify brings AI songs\nto V Coloring call screens",
-          "body": "Mintify has begun supplying AI-made songs to V Coloring, the call video service of the 3 major telecom carriers.",
-          "mini_headline": "AI songs head to V Coloring",
+        "ko": {
+          "headline": "러시아 전쟁 선전하는\nAI 노래 약 1,000곡",
+          "body": "Terrecon은 러시아 스트리밍에서 AI 전쟁 찬양곡 약 1,000곡을 찾았다.",
+          "mini_headline": "러시아의 AI 전쟁 찬양곡",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.aipostkorea.com/news/photo/202611/13276_24022_5651.png",
-                "cap": "(Photo: MusicPlat)"
+                "t": "video",
+                "src": "https://rfe-video-ns.akamaized.net/pangeavideo/2026/11/0/02/0241abbc-9211-4460-8439-08df3ee82709_720p.mp4"
               },
               {
                 "t": "p",
-                "x": "Songs made with AI have moved beyond the music charts and onto phone screens. Mintify (operated by MusicPlat), an AI music distribution service, said it has launched on V Coloring and V Profile, the call-connection video services of the 3 telecom carriers, and that to mark the launch it will run a 'Popular Latest Songs by Mintify' event from 11/12 to 12/10."
-              },
-              {
-                "t": "p",
-                "x": "AI music has been rapidly gaining presence. AI creator Meomureu's 'Have I Become the Adult I Dreamed Of?' climbed as high as No. 2 on the Melon TOP100 last month. Mintify supplies songs to V Coloring and V Profile so that such AI music can be used not only on music sites but also in the moments when people make and receive calls."
-              },
-              {
-                "t": "p",
-                "x": "V Coloring and V Profile are services that show a video on the other party's screen until a call connects. Set to be seen by people calling you, it works as V Coloring; set to be seen by people you call, it works as V Profile. When a user sets a video containing Mintify AI music, the music and video they chose appear on the other party's screen."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.aipostkorea.com/news/photo/202611/13276_24023_571.jpg",
-                "cap": "(Photo: MusicPlat)"
-              },
-              {
-                "t": "p",
-                "x": "The event opens with 18 videos featuring AI tracks released through Mintify. Customers using V Coloring Unlimited or V Profile are entered automatically when they set an event video for at least 1 day. Prizes are a Galaxy Buds PRO for 1st place (1 winner), a Mintify release voucher worth 33,000 won for 2nd place (10 winners) and a JBOX 50% discount voucher for 3rd place (100 winners), and winners will be announced on 12/15. Mintify plans to keep supplying its released songs to V Coloring and V Profile after the event."
-              },
-              {
-                "t": "p",
-                "x": "With nothing more than an audio track, Mintify uses AI to automatically create cover art and the data needed for release, letting the music be sold on some 30 music services at home and abroad. It does not matter whether a song was made by AI or by a person, so both ordinary users and musicians can easily earn money from their own music."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Mintify、AI楽曲を\nVカラーリングに供給",
-          "body": "Mintifyが通信3社のVカラーリングにAIで作った楽曲の供給を始めた。",
-          "mini_headline": "AI楽曲、Vカラーリングへ",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.aipostkorea.com/news/photo/202611/13276_24022_5651.png",
-                "cap": "（写真=MusicPlat）"
-              },
-              {
-                "t": "p",
-                "x": "AIで作った楽曲が、音源チャートを越えて電話の画面にまで入ってきた。音源流通AIサービスのMintify（運営会社MusicPlat）は、通信3社の通話接続動画サービスであるVカラーリングとVプロフィールでサービスを開始し、これを記念して11月12日から12月10日まで「人気最新曲 by Mintify」イベントを開催すると明らかにした。"
-              },
-              {
-                "t": "p",
-                "x": "最近、AI音楽は急速に存在感を高めている。AIクリエイターMeomureuの「夢見た大人になれましたか？」は先月、Melon TOP100で2位まで上昇した。Mintifyは、こうしたAI音楽が音源サイトだけでなく電話をかけたり受けたりする瞬間にも使われるよう、VカラーリングとVプロフィールに楽曲を供給する。"
-              },
-              {
-                "t": "p",
-                "x": "VカラーリングとVプロフィールは、電話がつながるまで相手の画面に動画を表示するサービスだ。自分に電話をかける人に見えるよう設定すればVカラーリング、自分の電話を受ける人に見えるよう設定すればVプロフィールとして使える。MintifyのAI音源を含む動画を設定すると、自分が選んだ音楽と動画が相手の画面に流れる。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.aipostkorea.com/news/photo/202611/13276_24023_571.jpg",
-                "cap": "（写真=MusicPlat）"
-              },
-              {
-                "t": "p",
-                "x": "今回のイベントでは、MintifyでリリースされたAI音源を含む動画18本がまず公開される。Vカラーリング無制限またはVプロフィールの利用者がイベント動画を1日以上設定すると自動で応募となる。賞品は1等がGalaxy Buds PRO（1名）、2等がMintifyリリース券33,000ウォン相当（10名）、3等がJBOX 50%割引券（100名）で、当選者は12月15日に発表する。Mintifyはイベント終了後も、リリース曲をVカラーリングとVプロフィールに供給し続ける計画だ。"
-              },
-              {
-                "t": "p",
-                "x": "Mintifyは音源さえあれば、AI技術でジャケット画像とリリースに必要なデータを自動で作成し、国内外30余りの音源サービスで販売できるようにする。AIが作った曲でも人が作った曲でも構わないため、一般の人もミュージシャンも自分の音楽で手軽に収益を得られる。"
+                "x": "음악 스트리밍 사이트를 쓰는 러시아인들은 피드에 새로운 장르가 등장한 것을 보게 될지도 모른다. 러시아군과 우크라이나 전쟁을 지지하는 AI로 만든(AI-generated) 노래다. 우크라이나 비영리단체 Terrecon의 연구는 이 범주에서 1,000곡 가까이를 찾아냈다. 연구진은 이 노래들이 애국심을 불러일으키고 신병 동원을 돕고 아이들의 마음까지 끌려는 목적이라고 말한다."
               }
             ]
           }
         },
         "zh": {
-          "headline": "Mintify向V彩铃\n供应AI歌曲",
-          "body": "Mintify开始向3家运营商的V彩铃供应AI制作的歌曲。",
-          "mini_headline": "AI歌曲进入V彩铃",
+          "headline": "近1,000首AI歌曲\n在流媒体为俄战争造势",
+          "body": "乌克兰组织Terrecon在俄罗斯人用的音乐流媒体上发现近1,000首AI生成挺战歌曲。",
+          "mini_headline": "俄罗斯的AI挺战歌曲",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.aipostkorea.com/news/photo/202611/13276_24022_5651.png",
-                "cap": "（图片=MusicPlat）"
+                "t": "video",
+                "src": "https://rfe-video-ns.akamaized.net/pangeavideo/2026/11/0/02/0241abbc-9211-4460-8439-08df3ee82709_720p.mp4"
               },
               {
                 "t": "p",
-                "x": "AI制作的歌曲已越过音源榜单，走进了手机屏幕。音源发行AI服务Mintify（运营方MusicPlat）宣布，已登陆3家电信运营商的通话接通视频服务V彩铃与V名片，并为此于11月12日至12月10日举办“人气最新曲 by Mintify”活动。"
-              },
-              {
-                "t": "p",
-                "x": "近来AI音乐的存在感迅速上升。AI创作者Meomureu的《我成为梦想中的大人了吗？》上月在Melon TOP100中最高升至第2名。Mintify向V彩铃与V名片供应歌曲，让这类AI音乐不仅出现在音源网站上，也能用于拨打和接听电话的时刻。"
-              },
-              {
-                "t": "p",
-                "x": "V彩铃与V名片是在电话接通前向对方屏幕播放视频的服务。设置为向给我打电话的人展示，即为V彩铃；设置为向接听我电话的人展示，即为V名片。设置含有Mintify AI音源的视频后，我选择的音乐和视频就会出现在对方屏幕上。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.aipostkorea.com/news/photo/202611/13276_24023_571.jpg",
-                "cap": "（图片=MusicPlat）"
-              },
-              {
-                "t": "p",
-                "x": "此次活动首先公开18段含有经Mintify发行的AI音源的视频。V彩铃无限版或V名片用户将活动视频设置1天以上即自动参与抽奖。奖品为1等奖Galaxy Buds PRO（1名）、2等奖价值33,000韩元的Mintify发行券（10名）、3等奖JBOX 50%折扣券（100名），中奖者将于12月15日公布。Mintify计划在活动结束后继续向V彩铃与V名片供应发行曲目。"
-              },
-              {
-                "t": "p",
-                "x": "只要有音源，Mintify就能用AI技术自动生成封面图片和发行所需的数据，让作品在国内外30余家音源服务上销售。无论是AI制作的歌曲还是人创作的歌曲都可以，普通人和音乐人都能轻松地用自己的音乐获得收益。"
+                "x": "使用音乐流媒体网站的俄罗斯人可能会在推送中看到一种新类型：支持俄罗斯军队和乌克兰战争的AI生成（AI-generated）歌曲。乌克兰非营利组织Terrecon的一项研究发现了近1,000首此类歌曲，研究人员称，这些歌曲旨在激发爱国情绪、协助动员新兵，甚至吸引儿童。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Mintify lleva canciones con AI\na las llamadas de V Coloring",
-          "body": "Mintify empezó a suministrar canciones hechas con AI a V Coloring, servicio de las 3 operadoras móviles.",
-          "mini_headline": "Canciones con AI llegan a V Coloring",
+          "headline": "Casi 1,000 canciones con IA\nimpulsan la guerra rusa",
+          "body": "La ONG ucraniana Terrecon halló casi 1,000 canciones probélicas generadas con IA en el streaming que usan los rusos.",
+          "mini_headline": "Canciones bélicas de IA en Rusia",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.aipostkorea.com/news/photo/202611/13276_24022_5651.png",
-                "cap": "(Foto: MusicPlat)"
+                "t": "video",
+                "src": "https://rfe-video-ns.akamaized.net/pangeavideo/2026/11/0/02/0241abbc-9211-4460-8439-08df3ee82709_720p.mp4"
               },
               {
                 "t": "p",
-                "x": "Las canciones hechas con AI han pasado de las listas musicales a las pantallas del teléfono. Mintify (operado por MusicPlat), un servicio de AI para la distribución de música, anunció que comenzó a ofrecer su servicio en V Coloring y V Profile, los servicios de video al conectar llamadas de las 3 operadoras móviles, y que para celebrarlo organiza del 12/11 al 10/12 el evento 'Canciones recientes populares by Mintify'."
+                "x": "Los rusos que usan sitios de música en streaming podrían encontrar un nuevo género en sus feeds: canciones generadas por IA (AI-generated) que apoyan al ejército ruso y la guerra en Ucrania. Un estudio de la organización sin fines de lucro ucraniana Terrecon halló casi 1,000 canciones de esa categoría, y los investigadores dicen que buscan generar sentimiento patriótico, ayudar a movilizar nuevos reclutas e incluso atraer a los niños."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AI 生成の親戦争歌\n露の配信に約1,000曲",
+          "body": "Terrecon、露の配信で AI-generated 親戦争曲約1,000曲を確認した。",
+          "mini_headline": "ロシアの AI 親戦争歌",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "video",
+                "src": "https://rfe-video-ns.akamaized.net/pangeavideo/2026/11/0/02/0241abbc-9211-4460-8439-08df3ee82709_720p.mp4"
               },
               {
                 "t": "p",
-                "x": "La música hecha con AI gana presencia con rapidez. '¿Me convertí en el adulto que soñaba?', del creador de AI Meomureu, llegó al puesto 2 del Melon TOP100 el mes pasado. Mintify suministra canciones a V Coloring y V Profile para que esta música con AI se use no solo en los sitios de música, sino también al hacer y recibir llamadas."
-              },
-              {
-                "t": "p",
-                "x": "V Coloring y V Profile son servicios que muestran un video en la pantalla de la otra persona hasta que se conecta la llamada. Si se configura para que lo vea quien te llama, funciona como V Coloring; si se configura para que lo vea quien recibe tu llamada, funciona como V Profile. Al configurar un video con música de AI de Mintify, la música y el video elegidos aparecen en la pantalla de la otra persona."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.aipostkorea.com/news/photo/202611/13276_24023_571.jpg",
-                "cap": "(Foto: MusicPlat)"
-              },
-              {
-                "t": "p",
-                "x": "El evento arranca con 18 videos que incluyen temas de AI publicados a través de Mintify. Los clientes de V Coloring ilimitado o de V Profile que configuren un video del evento durante 1 día o más participan automáticamente. Los premios son: 1.er premio, unos Galaxy Buds PRO (1 ganador); 2.º premio, un bono de lanzamiento de Mintify por valor de 33,000 wones (10 ganadores); y 3.er premio, un cupón de descuento del 50% de JBOX (100 ganadores). Los ganadores se anunciarán el 15/12. Mintify prevé seguir suministrando sus lanzamientos a V Coloring y V Profile después del evento."
-              },
-              {
-                "t": "p",
-                "x": "Con solo tener la pista de audio, Mintify usa AI para crear automáticamente la portada y los datos necesarios para el lanzamiento, y permite venderla en unos 30 servicios de música nacionales e internacionales. Da igual si la canción la hizo una AI o una persona, de modo que tanto el público general como los músicos pueden obtener ingresos fácilmente con su propia música."
+                "x": "音楽ストリーミングサイトを使うロシア人のフィードに、新たなジャンルが現れているかもしれない。ロシア軍とウクライナでの戦争を支持する AI-generated の楽曲だ。ウクライナの非営利団体 Terrecon の調査では、この種の楽曲が約1,000曲見つかった。研究者によると、これらは愛国心をかき立て、新兵の動員を助け、さらには子どもにも訴えかけることを狙っているという。"
               }
             ]
           }
@@ -1099,15 +889,287 @@
       }
     },
     {
-      "id": "musicgen-beat-tracking-adapter",
+      "id": "wired-youtube-beyond-the-beat",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "드럼 치는 MusicGen\n비트까지 찾아낸다",
-      "body": "오디오 조건 어댑터를 단 MusicGen이 곡에 맞춰 드럼을 치고 비트를 읽는다.",
-      "mini_headline": "드럼 치는 MusicGen",
+      "headline": "WIRED, AI DJs가\n가짜 곡 정보로 흥 깬다",
+      "body": "WIRED가 써 보니 Spotify AI DJ 등은 곡 정보를 지어내 감상을 깼다.",
+      "mini_headline": "AI DJs, 흥을 깨다",
+      "tool": "Music",
+      "source": "WIRED",
+      "url": "https://www.wired.com/story/ai-djs-completely-kill-my-groove/",
+      "accent": "#7928ca",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://media.wired.com/photos/6af7840bd2837972f5ddf4f3/master/w_1600,c_limit/Untitled-1.jpg"
+          },
+          {
+            "t": "p",
+            "x": "YouTube Music과 Spotify가 플레이리스트 큐레이션을 합성 진행자에게 맡기려 한다. WIRED의 Reece Rogers는 이들의 어색한 잡담과 엉터리 곡 정보가 오히려 분위기를 망친다고 지적한다."
+          },
+          {
+            "t": "p",
+            "x": "YouTube Music의 “Beyond the Beat”는 2025년 나온 YouTube Labs 베타 기능으로, 곡과 곡 사이에 불쑥 30초쯤 끼어든다. Slayyyter 곡이 끝나자 “Rock Music by Charli XXC [sic]”에 관해 한 단락을 읊으며 Charli XCX의 이름을 틀리게 불렀다. Olivia Rodrigo의 Expectations 리믹스에 Chappell Roan이 참여했다고 소개해 놓고 정작 Roan이 빠진 원곡을 튼 적도 있다."
+          },
+          {
+            "t": "p",
+            "x": "Spotify는 2023년 AI DJ를 들였고 11월에는 성격과 조작 기능을 더 늘렸다. 영어 음성은 여덟 개인데, 몇몇은 “you know”, “like” 같은 군말에 기댄다. 해설은 YouTube보다 간결해 견딜 만했다. 그래도 “청취자의 80퍼센트가 매주 DJ로 돌아온다”는 Spotify의 주장에 Rogers는 들지 않을 것이다. “공허한 상투어든 인간의 실수를 흉내 내든, 이제 충분히 들었다.”"
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "WIRED finds AI DJs invent\nsong trivia and kill the mood",
+          "body": "WIRED's test of YouTube Music's Beyond the Beat and Spotify's AI DJ found fabricated song trivia derails listening.",
+          "mini_headline": "AI DJs kill\nthe groove",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.wired.com/photos/6af7840bd2837972f5ddf4f3/master/w_1600,c_limit/Untitled-1.jpg"
+              },
+              {
+                "t": "p",
+                "x": "YouTube Music and Spotify want synthetic hosts to curate your playlists. WIRED’s Reece Rogers says their awkward banter and bogus song trivia are ruining the vibe."
+              },
+              {
+                "t": "p",
+                "x": "YouTube Music’s “Beyond the Beat,” a YouTube Labs beta launched in 2025, randomly interjects for about 30 seconds between songs. After a Slayyyter track it delivered a paragraph about “Rock Music by Charli XXC [sic]” — butchering Charli XCX’s name. It also unpacked Olivia Rodrigo’s Expectations remix featuring Chappell Roan, then played the original track, sans Roan."
+              },
+              {
+                "t": "p",
+                "x": "Spotify, which introduced its AI DJ in 2023 and in November added more personalities and controls, offers eight English-language voices; several lean on filler words like “you know” and “like.” Its commentary felt tighter and more tolerable than YouTube’s, but Spotify’s claim of “80 percent of listeners coming back to DJ week after week” won’t include Rogers: “Whether it’s empty platitudes or mimicking human mistakes, I’ve heard enough.”"
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "WIRED, AI DJs가\n가짜 곡 정보로 흥 깬다",
+          "body": "WIRED가 써 보니 Spotify AI DJ 등은 곡 정보를 지어내 감상을 깼다.",
+          "mini_headline": "AI DJs, 흥을 깨다",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.wired.com/photos/6af7840bd2837972f5ddf4f3/master/w_1600,c_limit/Untitled-1.jpg"
+              },
+              {
+                "t": "p",
+                "x": "YouTube Music과 Spotify가 플레이리스트 큐레이션을 합성 진행자에게 맡기려 한다. WIRED의 Reece Rogers는 이들의 어색한 잡담과 엉터리 곡 정보가 오히려 분위기를 망친다고 지적한다."
+              },
+              {
+                "t": "p",
+                "x": "YouTube Music의 “Beyond the Beat”는 2025년 나온 YouTube Labs 베타 기능으로, 곡과 곡 사이에 불쑥 30초쯤 끼어든다. Slayyyter 곡이 끝나자 “Rock Music by Charli XXC [sic]”에 관해 한 단락을 읊으며 Charli XCX의 이름을 틀리게 불렀다. Olivia Rodrigo의 Expectations 리믹스에 Chappell Roan이 참여했다고 소개해 놓고 정작 Roan이 빠진 원곡을 튼 적도 있다."
+              },
+              {
+                "t": "p",
+                "x": "Spotify는 2023년 AI DJ를 들였고 11월에는 성격과 조작 기능을 더 늘렸다. 영어 음성은 여덟 개인데, 몇몇은 “you know”, “like” 같은 군말에 기댄다. 해설은 YouTube보다 간결해 견딜 만했다. 그래도 “청취자의 80퍼센트가 매주 DJ로 돌아온다”는 Spotify의 주장에 Rogers는 들지 않을 것이다. “공허한 상투어든 인간의 실수를 흉내 내든, 이제 충분히 들었다.”"
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "WIRED、AI DJsは\n偽の曲情報で興ざめ",
+          "body": "WIREDの検証で、SpotifyのAI DJなどが偽の曲情報で鑑賞を妨げると分かった。",
+          "mini_headline": "AI DJsが流れを壊す",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.wired.com/photos/6af7840bd2837972f5ddf4f3/master/w_1600,c_limit/Untitled-1.jpg"
+              },
+              {
+                "t": "p",
+                "x": "YouTube MusicとSpotifyは、合成ホストにプレイリストを選曲させたい考えだ。WIREDのReece Rogersは、そのぎこちない語りとでたらめな楽曲トリビアが雰囲気を台無しにしていると指摘する。"
+              },
+              {
+                "t": "p",
+                "x": "YouTube Musicの「Beyond the Beat」は2025年に始まったYouTube Labsのベータ機能で、曲間に約30秒、不規則に割り込んでくる。Slayyyterの曲の後には「Rock Music by Charli XXC [sic]」について一段落語り、Charli XCXの名前を誤った。Chappell Roanが参加したOlivia RodrigoのExpectationsのリミックスを解説した直後に、Roan抜きの原曲を流したこともある。"
+              },
+              {
+                "t": "p",
+                "x": "2023年にAI DJを導入し、11月にパーソナリティと操作機能を追加したSpotifyは、英語の音声を八種類用意する。いくつかは「you know」や「like」といったつなぎ言葉に頼りがちだ。解説はYouTubeより簡潔で耐えられるものだったが、「リスナーの80パーセントが毎週DJに戻ってくる」というSpotifyの主張にRogersは含まれない。「空虚な決まり文句であれ、人間のミスの模倣であれ、もう聞き飽きた」"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "WIRED：AI DJs\n编造歌曲轶事坏氛围",
+          "body": "WIRED测试发现，Spotify的AI DJ等编造歌曲轶事，破坏了聆听体验。",
+          "mini_headline": "AI DJs扼杀律动",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.wired.com/photos/6af7840bd2837972f5ddf4f3/master/w_1600,c_limit/Untitled-1.jpg"
+              },
+              {
+                "t": "p",
+                "x": "YouTube Music和Spotify希望由合成主持人来策划你的播放列表。WIRED的Reece Rogers认为，它们尴尬的闲聊和虚假的歌曲轶事正在破坏氛围。"
+              },
+              {
+                "t": "p",
+                "x": "YouTube Music的“Beyond the Beat”是2025年推出的YouTube Labs测试功能，会在歌曲之间随机插话约30秒。在一首Slayyyter的歌之后，它讲了一段关于“Rock Music by Charli XXC [sic]”的内容，把Charli XCX的名字说错了。它还介绍了Olivia Rodrigo与Chappell Roan合作的Expectations混音版，随后却播放了没有Roan的原版。"
+              },
+              {
+                "t": "p",
+                "x": "Spotify于2023年推出AI DJ，并在11月增加了更多个性和控制选项，目前提供八种英语声音，其中几种常依赖“you know”和“like”这类填充词。它的解说比YouTube更紧凑，也更能让人忍受，但Spotify所称“80%的听众每周都会回到DJ”中不会包括Rogers：“无论是空洞的陈词滥调，还是模仿人类的失误，我已经听够了。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "WIRED: los AI DJs inventan datos\ny arruinan el ambiente",
+          "body": "La prueba de WIRED a Beyond the Beat de YouTube Music y al AI DJ de Spotify halló datos falsos que arruinan la escucha.",
+          "mini_headline": "Los AI DJs arruinan el ritmo",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.wired.com/photos/6af7840bd2837972f5ddf4f3/master/w_1600,c_limit/Untitled-1.jpg"
+              },
+              {
+                "t": "p",
+                "x": "YouTube Music y Spotify quieren que presentadores sintéticos curen tus listas de reproducción. Reece Rogers, de WIRED, dice que sus charlas torpes y sus datos falsos sobre canciones arruinan el ambiente."
+              },
+              {
+                "t": "p",
+                "x": "“Beyond the Beat” de YouTube Music, una beta de YouTube Labs lanzada en 2025, interviene al azar durante unos 30 segundos entre canciones. Tras un tema de Slayyyter soltó un párrafo sobre “Rock Music by Charli XXC [sic]”, destrozando el nombre de Charli XCX. También comentó el remix de Expectations de Olivia Rodrigo con Chappell Roan y luego puso la versión original, sin Roan."
+              },
+              {
+                "t": "p",
+                "x": "Spotify, que presentó su AI DJ en 2023 y en noviembre añadió más personalidades y controles, ofrece ocho voces en inglés; varias abusan de muletillas como “you know” y “like”. Sus comentarios resultaron más ajustados y tolerables que los de YouTube, pero la afirmación de Spotify de que “el 80 por ciento de los oyentes vuelve al DJ semana tras semana” no incluirá a Rogers: “Ya sean frases vacías o imitaciones de errores humanos, ya escuché suficiente”."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "WIRED, AI DJs가\n가짜 곡 정보로 흥 깬다",
+          "body": "WIRED 시험서 Spotify AI DJ 등이 곡 정보를 지어내 감상을 깼다.",
+          "mini_headline": "AI DJs, 흥을 깨다",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.wired.com/photos/6af7840bd2837972f5ddf4f3/master/w_1600,c_limit/Untitled-1.jpg"
+              },
+              {
+                "t": "p",
+                "x": "YouTube Music과 Spotify는 합성 진행자에게 플레이리스트 큐레이션을 맡기려 한다. WIRED의 Reece Rogers는 이들의 어색한 잡담과 엉터리 곡 정보가 분위기를 망치고 있다고 말한다."
+              },
+              {
+                "t": "p",
+                "x": "2025년 출시된 YouTube Labs 베타 기능인 YouTube Music의 “Beyond the Beat”는 곡과 곡 사이에 무작위로 약 30초간 끼어든다. Slayyyter 곡 뒤에는 “Rock Music by Charli XXC [sic]”에 관한 한 단락을 읊으며 Charli XCX의 이름을 망가뜨렸다. Chappell Roan이 참여한 Olivia Rodrigo의 Expectations 리믹스를 설명한 뒤, 정작 Roan이 빠진 원곡을 틀기도 했다."
+              },
+              {
+                "t": "p",
+                "x": "2023년 AI DJ를 도입하고 11월 더 많은 성격과 조작 기능을 추가한 Spotify는 영어 음성 여덟 개를 제공한다. 그중 몇몇은 “you know”, “like” 같은 군말에 기댄다. 해설은 YouTube보다 간결하고 견딜 만했지만, “청취자의 80퍼센트가 매주 DJ로 돌아온다”는 Spotify의 주장에 Rogers는 포함되지 않을 것이다. “공허한 상투어든 인간의 실수를 흉내 내든, 이제 충분히 들었다.”"
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "WIRED、AI DJsは\n偽の曲情報で興ざめ",
+          "body": "WIREDの検証で、SpotifyのAI DJなどが偽の曲情報で鑑賞を妨げると分かった。",
+          "mini_headline": "AI DJsが流れを壊す",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.wired.com/photos/6af7840bd2837972f5ddf4f3/master/w_1600,c_limit/Untitled-1.jpg"
+              },
+              {
+                "t": "p",
+                "x": "YouTube MusicとSpotifyは、合成ホストにプレイリストを選曲させたい考えだ。WIREDのReece Rogersは、そのぎこちない語りとでたらめな楽曲トリビアが雰囲気を台無しにしていると指摘する。"
+              },
+              {
+                "t": "p",
+                "x": "YouTube Musicの「Beyond the Beat」は2025年に始まったYouTube Labsのベータ機能で、曲間に約30秒、不規則に割り込んでくる。Slayyyterの曲の後には「Rock Music by Charli XXC [sic]」について一段落語り、Charli XCXの名前を誤った。Chappell Roanが参加したOlivia RodrigoのExpectationsのリミックスを解説した直後に、Roan抜きの原曲を流したこともある。"
+              },
+              {
+                "t": "p",
+                "x": "2023年にAI DJを導入し、11月にパーソナリティと操作機能を追加したSpotifyは、英語の音声を八種類用意する。いくつかは「you know」や「like」といったつなぎ言葉に頼りがちだ。解説はYouTubeより簡潔で耐えられるものだったが、「リスナーの80パーセントが毎週DJに戻ってくる」というSpotifyの主張にRogersは含まれない。「空虚な決まり文句であれ、人間のミスの模倣であれ、もう聞き飽きた」"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "WIRED：AI DJs\n编造歌曲轶事坏氛围",
+          "body": "WIRED测试发现，Spotify的AI DJ等编造歌曲轶事，破坏了聆听体验。",
+          "mini_headline": "AI DJs扼杀律动",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.wired.com/photos/6af7840bd2837972f5ddf4f3/master/w_1600,c_limit/Untitled-1.jpg"
+              },
+              {
+                "t": "p",
+                "x": "YouTube Music和Spotify希望由合成主持人来策划你的播放列表。WIRED的Reece Rogers认为，它们尴尬的闲聊和虚假的歌曲轶事正在破坏氛围。"
+              },
+              {
+                "t": "p",
+                "x": "YouTube Music的“Beyond the Beat”是2025年推出的YouTube Labs测试功能，会在歌曲之间随机插话约30秒。在一首Slayyyter的歌之后，它讲了一段关于“Rock Music by Charli XXC [sic]”的内容，把Charli XCX的名字说错了。它还介绍了Olivia Rodrigo与Chappell Roan合作的Expectations混音版，随后却播放了没有Roan的原版。"
+              },
+              {
+                "t": "p",
+                "x": "Spotify于2023年推出AI DJ，并在11月增加了更多个性和控制选项，目前提供八种英语声音，其中几种常依赖“you know”和“like”这类填充词。它的解说比YouTube更紧凑，也更能让人忍受，但Spotify所称“80%的听众每周都会回到DJ”中不会包括Rogers：“无论是空洞的陈词滥调，还是模仿人类的失误，我已经听够了。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "WIRED: los AI DJs inventan datos\ny arruinan el ambiente",
+          "body": "La prueba de WIRED a Beyond the Beat de YouTube Music y al AI DJ de Spotify halló datos falsos que arruinan la escucha.",
+          "mini_headline": "Los AI DJs arruinan el ritmo",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.wired.com/photos/6af7840bd2837972f5ddf4f3/master/w_1600,c_limit/Untitled-1.jpg"
+              },
+              {
+                "t": "p",
+                "x": "YouTube Music y Spotify quieren que presentadores sintéticos curen tus listas de reproducción. Reece Rogers, de WIRED, dice que sus charlas torpes y sus datos falsos sobre canciones arruinan el ambiente."
+              },
+              {
+                "t": "p",
+                "x": "“Beyond the Beat” de YouTube Music, una beta de YouTube Labs lanzada en 2025, interviene al azar durante unos 30 segundos entre canciones. Tras un tema de Slayyyter soltó un párrafo sobre “Rock Music by Charli XXC [sic]”, destrozando el nombre de Charli XCX. También comentó el remix de Expectations de Olivia Rodrigo con Chappell Roan y luego puso la versión original, sin Roan."
+              },
+              {
+                "t": "p",
+                "x": "Spotify, que presentó su AI DJ en 2023 y en noviembre añadió más personalidades y controles, ofrece ocho voces en inglés; varias abusan de muletillas como “you know” y “like”. Sus comentarios resultaron más ajustados y tolerables que los de YouTube, pero la afirmación de Spotify de que “el 80 por ciento de los oyentes vuelve al DJ semana tras semana” no incluirá a Rogers: “Ya sean frases vacías o imitaciones de errores humanos, ya escuché suficiente”."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "simdps-music-inpainting",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "SimDPS, 음악 공백을\n유사 구간으로 메운다",
+      "body": "SimDPS는 같은 녹음에서 비슷한 구간을 찾아 확산 모델의 공백 복원을 이끈다.",
+      "mini_headline": "SimDPS, 빠진 음악 복원",
       "tool": "Music",
       "source": "arXiv",
-      "url": "https://arxiv.org/abs/2611.14971",
+      "url": "https://arxiv.org/abs/2611.11522",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
@@ -1115,101 +1177,125 @@
         "blocks": [
           {
             "t": "p",
-            "x": "음악 생성 모델이 입력 곡에 맞춰 함께 연주되는 트랙을 만들 수 있다는 건 앞선 연구들이 이미 보여 줬다. 이 능력을 넓히면 비트 트래킹도 생성 방식으로 풀 수 있을까? 연구진은 사전 학습된 MusicGen 모델에 오디오 조건화 어댑터를 붙여 입력 음악과 맞물리는 타악기 트랙을 만들고, 거기서 비트 위치를 뽑아냈다. 리듬 복잡도가 다른 타악기 타깃별로 모델을 따로 학습시킨 뒤 다른 생성 모델 두 개, 기존 비트 트래커와 견줬다. GTZAN에서는 최신 비트 트래커에 가까운 성능이 나왔다."
+            "x": "Music Inpainting With Similarity-Guided Latent Diffusion(유사도 유도 잠재 확산을 이용한 음악 인페인팅) — Sean Turland, Eloi Moliner, Vesa Välimäki. ISMIR 2026 채택."
           },
           {
             "t": "p",
-            "x": "견고성도 더 낫다. 추론할 때 입력에서 드럼을 빼도 F-measure가 가장 적게 떨어졌다. 메탈과 디스코 같은 일부 장르에서는 강한 온셋에 덜 휘둘리고, 약한 온셋의 비트도 덜 놓친다. 연구진은 타악기 생성이 비트 트래킹의 실용적인 방법이 될 잠재력이 있다고 본다. 출력도 비트 위치를 늘어놓은 목록이 아니라 귀로 들을 수 있는 타악기 트랙이다."
+            "x": "유사도 매칭과 확산 기반 생성 모델을 결합해 오디오 녹음의 큰 구간을 알맞은 대안으로 바꾸는 음악 인페인팅 기법을 제안한다. 하이브리드 방법인 Similarity-Guided Diffusion Posterior Sampling(SimDPS)은 맥락 유사도로 더 넓은 신호에서 대체 후보 구간을 찾고, 이 후보로 확산 과정을 일관된 재구성 쪽으로 이끈다. 특정 모델에 매이지 않는 프레임워크라서 파형 영역이든 잠재 영역이든 사전 학습된 확산 모델이면 어디에나 붙일 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "객관적 평가에서 SimDPS는 음향 특징과 신경 임베딩 거리 지표 전반에서 널리 쓰이는 RePaint와 DPS 방법을 앞섰다. 여러 장르를 담은 음악 데이터셋으로 한 주관적 평가에서도 기존 확산 기반 방법보다 지각적 개연성이 높았고, 잘 맞지 않는 유사 후보에도 흔들리지 않았다. 음악 복원과 맥락을 읽는 오디오 편집을 개선할 길이 열린 셈이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "MusicGen learns to drum\nalong and track the beat",
-          "body": "An audio-conditioning adapter lets MusicGen drum along to a song, and beats are read from its output.",
-          "mini_headline": "MusicGen drums along",
+          "headline": "SimDPS fills gaps in music\nwith similar-passage guidance",
+          "body": "SimDPS retrieves similar segments from the same recording to guide a diffusion model in rebuilding missing sections.",
+          "mini_headline": "SimDPS repairs\nmissing music",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "Existing studies have shown that music generative models can generate synchronized tracks that play alongside an input song. Can we extend this capability to develop a generative approach to beat tracking? To answer this question, we equip a pretrained MusicGen model with an audio-conditioning adapter to generate percussion tracks synchronized with the input music, from which we extract the beat positions. We train separate models with percussion targets of varying rhythmic complexity and compare them with two other generative models and conventional beat trackers. On GTZAN, our model achieves performance close to state-of-the-art beat trackers."
+                "x": "Music Inpainting With Similarity-Guided Latent Diffusion — Sean Turland, Eloi Moliner, Vesa Välimäki. Accepted to ISMIR 2026."
               },
               {
                 "t": "p",
-                "x": "Our model also demonstrates greater robustness: it shows the smallest drop in F-measure when drums are removed from the input at inference time. In certain genres, such as metal and disco, our model is also less likely to be misled by strong onsets or to miss beats with weak onsets. These results suggest that percussion generation has the potential to become a viable approach to beat tracking, and that its output is not merely a sequence of beat positions but an audible percussion track."
+                "x": "We propose a music inpainting technique combining similarity matching and a diffusion-based generative model to replace large segments of audio recordings with suitable alternatives. The proposed hybrid method, Similarity-Guided Diffusion Posterior Sampling (SimDPS), retrieves candidate replacement segments from the wider signal based on contextual similarity and uses them to guide the diffusion process toward coherent reconstructions. Being model-agnostic, the framework is compatible with any pre-trained diffusion model operating in either the waveform or latent domain."
+              },
+              {
+                "t": "p",
+                "x": "Objective evaluations demonstrate that SimDPS outperforms widely adopted RePaint and DPS methods across acoustic features and neural-embedding distance metrics. Subjective evaluations on multi-genre music datasets confirm that SimDPS enhances perceptual plausibility compared to previous diffusion-based methods and demonstrates robustness to poorly matched similarity candidates. These findings pave the way for improved music restoration and context-aware audio editing."
               }
             ]
           }
         },
         "ko": {
-          "headline": "드럼 치는 MusicGen\n비트까지 찾아낸다",
-          "body": "오디오 조건 어댑터를 단 MusicGen이 곡에 맞춰 드럼을 치고 비트를 읽는다.",
-          "mini_headline": "드럼 치는 MusicGen",
+          "headline": "SimDPS, 음악 공백을\n유사 구간으로 메운다",
+          "body": "SimDPS는 같은 녹음에서 비슷한 구간을 찾아 확산 모델의 공백 복원을 이끈다.",
+          "mini_headline": "SimDPS, 빠진 음악 복원",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "음악 생성 모델이 입력 곡에 맞춰 함께 연주되는 트랙을 만들 수 있다는 건 앞선 연구들이 이미 보여 줬다. 이 능력을 넓히면 비트 트래킹도 생성 방식으로 풀 수 있을까? 연구진은 사전 학습된 MusicGen 모델에 오디오 조건화 어댑터를 붙여 입력 음악과 맞물리는 타악기 트랙을 만들고, 거기서 비트 위치를 뽑아냈다. 리듬 복잡도가 다른 타악기 타깃별로 모델을 따로 학습시킨 뒤 다른 생성 모델 두 개, 기존 비트 트래커와 견줬다. GTZAN에서는 최신 비트 트래커에 가까운 성능이 나왔다."
+                "x": "Music Inpainting With Similarity-Guided Latent Diffusion(유사도 유도 잠재 확산을 이용한 음악 인페인팅) — Sean Turland, Eloi Moliner, Vesa Välimäki. ISMIR 2026 채택."
               },
               {
                 "t": "p",
-                "x": "견고성도 더 낫다. 추론할 때 입력에서 드럼을 빼도 F-measure가 가장 적게 떨어졌다. 메탈과 디스코 같은 일부 장르에서는 강한 온셋에 덜 휘둘리고, 약한 온셋의 비트도 덜 놓친다. 연구진은 타악기 생성이 비트 트래킹의 실용적인 방법이 될 잠재력이 있다고 본다. 출력도 비트 위치를 늘어놓은 목록이 아니라 귀로 들을 수 있는 타악기 트랙이다."
+                "x": "유사도 매칭과 확산 기반 생성 모델을 결합해 오디오 녹음의 큰 구간을 알맞은 대안으로 바꾸는 음악 인페인팅 기법을 제안한다. 하이브리드 방법인 Similarity-Guided Diffusion Posterior Sampling(SimDPS)은 맥락 유사도로 더 넓은 신호에서 대체 후보 구간을 찾고, 이 후보로 확산 과정을 일관된 재구성 쪽으로 이끈다. 특정 모델에 매이지 않는 프레임워크라서 파형 영역이든 잠재 영역이든 사전 학습된 확산 모델이면 어디에나 붙일 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "객관적 평가에서 SimDPS는 음향 특징과 신경 임베딩 거리 지표 전반에서 널리 쓰이는 RePaint와 DPS 방법을 앞섰다. 여러 장르를 담은 음악 데이터셋으로 한 주관적 평가에서도 기존 확산 기반 방법보다 지각적 개연성이 높았고, 잘 맞지 않는 유사 후보에도 흔들리지 않았다. 음악 복원과 맥락을 읽는 오디오 편집을 개선할 길이 열린 셈이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ドラムを叩くMusicGen\nビートも追跡する",
-          "body": "音声条件付けアダプタでMusicGenが曲に合わせドラムを叩き、その出力から拍を読み取る。",
-          "mini_headline": "ドラムを叩くMusicGen",
+          "headline": "SimDPS、類似箇所で\n音楽の欠落を補完",
+          "body": "SimDPSは同じ録音から類似区間を探し、拡散モデルによる欠落部分の再構築を導く。",
+          "mini_headline": "SimDPSが欠けた音楽を修復",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "既存研究は、音楽生成モデルが入力曲と一緒に鳴る同期トラックを生成できることを示してきた。この能力を拡張し、ビートトラッキングへの生成的アプローチを開発できるだろうか。この問いに答えるため、事前学習済みのMusicGenモデルに音声条件付けアダプタを組み込み、入力音楽と同期した打楽器トラックを生成させ、そこからビート位置を抽出する。リズムの複雑さが異なる打楽器ターゲットでそれぞれモデルを学習させ、他の二つの生成モデルおよび従来のビートトラッカーと比較した。GTZANにおいて、本モデルは最先端のビートトラッカーに近い性能を達成した。"
+                "x": "Music Inpainting With Similarity-Guided Latent Diffusion(類似度誘導型潜在拡散による音楽インペインティング)— Sean Turland、Eloi Moliner、Vesa Välimäki。ISMIR 2026に採択。"
               },
               {
                 "t": "p",
-                "x": "本モデルは頑健性も高い。推論時に入力からドラムを除去した場合のF-measureの低下幅が最も小さい。メタルやディスコなど一部のジャンルでは、強いオンセットに惑わされにくく、弱いオンセットのビートも取りこぼしにくい。これらの結果は、打楽器生成がビートトラッキングの有力な手法になりうること、そしてその出力が単なるビート位置の列ではなく、耳で聴ける打楽器トラックであることを示唆している。"
+                "x": "類似度マッチングと拡散ベースの生成モデルを組み合わせ、音声録音の大きな区間を適切な代替で置き換える音楽インペインティング手法を提案する。提案するハイブリッド手法Similarity-Guided Diffusion Posterior Sampling(SimDPS)は、文脈上の類似度に基づいてより広い信号から置き換え候補区間を取り出し、それを手がかりに拡散過程を一貫した再構成へ導く。モデルに依存しないため、波形領域・潜在領域のいずれで動作する事前学習済み拡散モデルとも組み合わせられる。"
+              },
+              {
+                "t": "p",
+                "x": "客観評価では、SimDPSは音響特徴量とニューラル埋め込み距離の指標全般で、広く使われるRePaintやDPSを上回った。複数ジャンルの音楽データセットによる主観評価でも、SimDPSは従来の拡散ベース手法より知覚上のもっともらしさを高め、類似候補の一致度が低い場合にも頑健であることが確認された。これらの成果は、音楽修復と文脈を考慮した音声編集の改善に道を開く。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "MusicGen学会跟着打鼓\n还能追踪节拍",
-          "body": "借助音频条件适配器，MusicGen能跟着歌曲打鼓，并从输出中读出节拍。",
-          "mini_headline": "MusicGen跟着打鼓",
+          "headline": "SimDPS借相似片段\n填补音乐中的空缺",
+          "body": "SimDPS从同一录音中检索相似片段，引导扩散模型重建缺失部分。",
+          "mini_headline": "SimDPS修复缺失音乐",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "已有研究表明，音乐生成模型可以生成与输入歌曲同步演奏的音轨。能否将这一能力扩展为一种生成式节拍追踪方法？为回答这个问题，我们为预训练的MusicGen模型配备音频条件适配器，使其生成与输入音乐同步的打击乐音轨，并从中提取节拍位置。我们用节奏复杂度各异的打击乐目标分别训练模型，并与另外两种生成模型及传统节拍追踪器进行比较。在GTZAN上，我们的模型取得了接近最先进节拍追踪器的性能。"
+                "x": "Music Inpainting With Similarity-Guided Latent Diffusion（基于相似性引导潜在扩散的音乐修复）—— Sean Turland、Eloi Moliner、Vesa Välimäki。已被ISMIR 2026接收。"
               },
               {
                 "t": "p",
-                "x": "我们的模型还表现出更强的稳健性：推理时从输入中移除鼓声后，其F-measure降幅最小。在金属、迪斯科等特定流派中，我们的模型也更不容易被强起音误导，或漏掉起音较弱的节拍。这些结果表明，打击乐生成有望成为一种可行的节拍追踪方法，而且其输出不只是一串节拍位置，而是一条可以听到的打击乐音轨。"
+                "x": "我们提出一种音乐修复技术，将相似性匹配与基于扩散的生成模型相结合，用合适的替代内容替换音频录音中的大段片段。所提出的混合方法Similarity-Guided Diffusion Posterior Sampling（SimDPS）依据上下文相似性从更广泛的信号中检索候选替换片段，并用它们引导扩散过程生成连贯的重建结果。该框架与模型无关，可兼容任何在波形域或潜在域中运行的预训练扩散模型。"
+              },
+              {
+                "t": "p",
+                "x": "客观评估表明，SimDPS在声学特征和神经嵌入距离指标上均优于广泛采用的RePaint和DPS方法。在多流派音乐数据集上的主观评估证实，与以往基于扩散的方法相比，SimDPS提升了感知合理性，且对匹配不佳的相似候选表现出稳健性。这些发现为改进音乐修复和上下文感知的音频编辑铺平了道路。"
               }
             ]
           }
         },
         "es": {
-          "headline": "MusicGen aprende a tocar\nla batería y a seguir el ritmo",
-          "body": "Con un adaptador de audio, MusicGen toca la batería sobre una canción y de su salida se extraen los pulsos.",
-          "mini_headline": "MusicGen toca la batería",
+          "headline": "SimDPS rellena huecos musicales\ncon pasajes similares",
+          "body": "SimDPS busca segmentos similares de la misma grabación para guiar a un modelo de difusión al rehacer tramos perdidos.",
+          "mini_headline": "SimDPS repara música faltante",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "Estudios previos han mostrado que los modelos generativos de música pueden generar pistas sincronizadas que suenan junto a una canción de entrada. ¿Podemos ampliar esta capacidad para desarrollar un enfoque generativo del seguimiento de pulsos? Para responder, dotamos a un modelo MusicGen preentrenado de un adaptador de condicionamiento de audio que genera pistas de percusión sincronizadas con la música de entrada, de las que extraemos las posiciones de los pulsos. Entrenamos modelos separados con objetivos de percusión de distinta complejidad rítmica y los comparamos con otros dos modelos generativos y con rastreadores de pulsos convencionales. En GTZAN, nuestro modelo logra un rendimiento cercano al de los rastreadores de pulsos más avanzados."
+                "x": "Music Inpainting With Similarity-Guided Latent Diffusion (inpainting musical con difusión latente guiada por similitud) — Sean Turland, Eloi Moliner, Vesa Välimäki. Aceptado en ISMIR 2026."
               },
               {
                 "t": "p",
-                "x": "Nuestro modelo también muestra mayor robustez: es el que menos cae en F-measure cuando se eliminan las baterías de la entrada durante la inferencia. En ciertos géneros, como el metal y la música disco, también es menos propenso a dejarse engañar por ataques fuertes o a perder pulsos con ataques débiles. Estos resultados sugieren que la generación de percusión puede convertirse en un enfoque viable para el seguimiento de pulsos, y que su salida no es solo una secuencia de posiciones de pulsos, sino una pista de percusión audible."
+                "x": "Proponemos una técnica de inpainting musical que combina la búsqueda de similitudes con un modelo generativo basado en difusión para reemplazar segmentos extensos de grabaciones de audio por alternativas adecuadas. El método híbrido propuesto, Similarity-Guided Diffusion Posterior Sampling (SimDPS), recupera segmentos candidatos de reemplazo de la señal más amplia según su similitud contextual y los usa para guiar el proceso de difusión hacia reconstrucciones coherentes. Al ser independiente del modelo, el marco es compatible con cualquier modelo de difusión preentrenado que opere en el dominio de la forma de onda o en el latente."
+              },
+              {
+                "t": "p",
+                "x": "Las evaluaciones objetivas muestran que SimDPS supera a los métodos RePaint y DPS, ampliamente adoptados, en características acústicas y métricas de distancia de embeddings neuronales. Las evaluaciones subjetivas en conjuntos de datos musicales de varios géneros confirman que SimDPS mejora la plausibilidad perceptiva frente a métodos previos basados en difusión y muestra robustez ante candidatos de similitud poco coincidentes. Estos resultados abren el camino a una mejor restauración musical y a una edición de audio consciente del contexto."
               }
             ]
           }
@@ -1217,345 +1303,89 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "드럼 치는 MusicGen\n비트까지 찾아낸다",
-          "body": "오디오 조건 어댑터를 단 MusicGen이 곡에 맞춰 드럼을 치고 비트를 읽는다.",
-          "mini_headline": "드럼 치는 MusicGen",
+          "headline": "SimDPS, 음악 공백을\n유사 구간으로 메운다",
+          "body": "SimDPS는 같은 녹음 속 유사 구간을 찾아 확산 모델의 빈 구간 복원을 이끈다.",
+          "mini_headline": "SimDPS, 빠진 음악 복원",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "기존 연구들은 음악 생성 모델이 입력 곡과 함께 연주되는 동기화된 트랙을 만들 수 있음을 보여 줬다. 이 능력을 확장해 비트 트래킹의 생성적 접근법을 개발할 수 있을까? 이 질문에 답하기 위해 우리는 사전 학습된 MusicGen 모델에 오디오 조건화 어댑터를 붙여 입력 음악과 동기화된 타악기 트랙을 생성하고, 여기서 비트 위치를 추출한다. 리듬 복잡도가 서로 다른 타악기 타깃으로 각각 모델을 학습시키고, 다른 생성 모델 두 개 및 기존 비트 트래커와 비교했다. GTZAN에서 우리 모델은 최신 비트 트래커에 가까운 성능을 낸다."
+                "x": "Music Inpainting With Similarity-Guided Latent Diffusion(유사도 유도 잠재 확산을 이용한 음악 인페인팅) — Sean Turland, Eloi Moliner, Vesa Välimäki. ISMIR 2026 채택."
               },
               {
                 "t": "p",
-                "x": "우리 모델은 견고성도 더 높다. 추론 시 입력에서 드럼을 제거했을 때 F-measure 하락 폭이 가장 작다. 메탈과 디스코 같은 일부 장르에서는 강한 온셋에 덜 휘둘리고, 약한 온셋의 비트도 덜 놓친다. 이 결과는 타악기 생성이 비트 트래킹의 실용적 접근법이 될 잠재력이 있으며, 그 출력이 단순한 비트 위치의 나열이 아니라 귀로 들을 수 있는 타악기 트랙이라는 점을 보여 준다."
+                "x": "우리는 유사도 매칭과 확산 기반 생성 모델을 결합해 오디오 녹음의 큰 구간을 알맞은 대안으로 바꾸는 음악 인페인팅 기법을 제안한다. 제안한 하이브리드 방법인 Similarity-Guided Diffusion Posterior Sampling(SimDPS)은 맥락 유사도를 바탕으로 더 넓은 신호에서 대체 후보 구간을 찾고, 이를 활용해 확산 과정이 일관된 재구성을 향하도록 이끈다. 특정 모델에 매이지 않는 이 프레임워크는 파형 영역이나 잠재 영역에서 작동하는 어떤 사전 학습 확산 모델과도 호환된다."
+              },
+              {
+                "t": "p",
+                "x": "객관적 평가에서 SimDPS는 음향 특징과 신경 임베딩 거리 지표 전반에서 널리 쓰이는 RePaint와 DPS 방법을 앞섰다. 다장르 음악 데이터셋에 대한 주관적 평가에서도 SimDPS는 기존 확산 기반 방법보다 지각적 개연성을 높였고, 잘 맞지 않는 유사 후보에도 강건함을 보였다. 이 결과는 음악 복원과 맥락 인식 오디오 편집 개선의 길을 연다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ドラムを叩くMusicGen\nビートも追跡する",
-          "body": "音声条件付けアダプタでMusicGenが曲に合わせドラムを叩き、その出力から拍を読み取る。",
-          "mini_headline": "ドラムを叩くMusicGen",
+          "headline": "SimDPS、類似箇所で\n音楽の欠落を補完",
+          "body": "SimDPSは同じ録音から類似区間を探し、拡散モデルによる欠落部分の再構築を導く。",
+          "mini_headline": "SimDPSが欠けた音楽を修復",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "既存研究は、音楽生成モデルが入力曲と一緒に鳴る同期トラックを生成できることを示してきた。この能力を拡張し、ビートトラッキングへの生成的アプローチを開発できるだろうか。この問いに答えるため、事前学習済みのMusicGenモデルに音声条件付けアダプタを組み込み、入力音楽と同期した打楽器トラックを生成させ、そこからビート位置を抽出する。リズムの複雑さが異なる打楽器ターゲットでそれぞれモデルを学習させ、他の二つの生成モデルおよび従来のビートトラッカーと比較した。GTZANにおいて、本モデルは最先端のビートトラッカーに近い性能を達成した。"
+                "x": "Music Inpainting With Similarity-Guided Latent Diffusion(類似度誘導型潜在拡散による音楽インペインティング)— Sean Turland、Eloi Moliner、Vesa Välimäki。ISMIR 2026に採択。"
               },
               {
                 "t": "p",
-                "x": "本モデルは頑健性も高い。推論時に入力からドラムを除去した場合のF-measureの低下幅が最も小さい。メタルやディスコなど一部のジャンルでは、強いオンセットに惑わされにくく、弱いオンセットのビートも取りこぼしにくい。これらの結果は、打楽器生成がビートトラッキングの有力な手法になりうること、そしてその出力が単なるビート位置の列ではなく、耳で聴ける打楽器トラックであることを示唆している。"
+                "x": "類似度マッチングと拡散ベースの生成モデルを組み合わせ、音声録音の大きな区間を適切な代替で置き換える音楽インペインティング手法を提案する。提案するハイブリッド手法Similarity-Guided Diffusion Posterior Sampling(SimDPS)は、文脈上の類似度に基づいてより広い信号から置き換え候補区間を取り出し、それを手がかりに拡散過程を一貫した再構成へ導く。モデルに依存しないため、波形領域・潜在領域のいずれで動作する事前学習済み拡散モデルとも組み合わせられる。"
+              },
+              {
+                "t": "p",
+                "x": "客観評価では、SimDPSは音響特徴量とニューラル埋め込み距離の指標全般で、広く使われるRePaintやDPSを上回った。複数ジャンルの音楽データセットによる主観評価でも、SimDPSは従来の拡散ベース手法より知覚上のもっともらしさを高め、類似候補の一致度が低い場合にも頑健であることが確認された。これらの成果は、音楽修復と文脈を考慮した音声編集の改善に道を開く。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "MusicGen学会跟着打鼓\n还能追踪节拍",
-          "body": "借助音频条件适配器，MusicGen能跟着歌曲打鼓，并从输出中读出节拍。",
-          "mini_headline": "MusicGen跟着打鼓",
+          "headline": "SimDPS借相似片段\n填补音乐中的空缺",
+          "body": "SimDPS从同一录音中检索相似片段，引导扩散模型重建缺失部分。",
+          "mini_headline": "SimDPS修复缺失音乐",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "已有研究表明，音乐生成模型可以生成与输入歌曲同步演奏的音轨。能否将这一能力扩展为一种生成式节拍追踪方法？为回答这个问题，我们为预训练的MusicGen模型配备音频条件适配器，使其生成与输入音乐同步的打击乐音轨，并从中提取节拍位置。我们用节奏复杂度各异的打击乐目标分别训练模型，并与另外两种生成模型及传统节拍追踪器进行比较。在GTZAN上，我们的模型取得了接近最先进节拍追踪器的性能。"
+                "x": "Music Inpainting With Similarity-Guided Latent Diffusion（基于相似性引导潜在扩散的音乐修复）—— Sean Turland、Eloi Moliner、Vesa Välimäki。已被ISMIR 2026接收。"
               },
               {
                 "t": "p",
-                "x": "我们的模型还表现出更强的稳健性：推理时从输入中移除鼓声后，其F-measure降幅最小。在金属、迪斯科等特定流派中，我们的模型也更不容易被强起音误导，或漏掉起音较弱的节拍。这些结果表明，打击乐生成有望成为一种可行的节拍追踪方法，而且其输出不只是一串节拍位置，而是一条可以听到的打击乐音轨。"
+                "x": "我们提出一种音乐修复技术，将相似性匹配与基于扩散的生成模型相结合，用合适的替代内容替换音频录音中的大段片段。所提出的混合方法Similarity-Guided Diffusion Posterior Sampling（SimDPS）依据上下文相似性从更广泛的信号中检索候选替换片段，并用它们引导扩散过程生成连贯的重建结果。该框架与模型无关，可兼容任何在波形域或潜在域中运行的预训练扩散模型。"
+              },
+              {
+                "t": "p",
+                "x": "客观评估表明，SimDPS在声学特征和神经嵌入距离指标上均优于广泛采用的RePaint和DPS方法。在多流派音乐数据集上的主观评估证实，与以往基于扩散的方法相比，SimDPS提升了感知合理性，且对匹配不佳的相似候选表现出稳健性。这些发现为改进音乐修复和上下文感知的音频编辑铺平了道路。"
               }
             ]
           }
         },
         "es": {
-          "headline": "MusicGen aprende a tocar\nla batería y a seguir el ritmo",
-          "body": "Con un adaptador de audio, MusicGen toca la batería sobre una canción y de su salida se extraen los pulsos.",
-          "mini_headline": "MusicGen toca la batería",
+          "headline": "SimDPS rellena huecos musicales\ncon pasajes similares",
+          "body": "SimDPS busca segmentos similares de la misma grabación para guiar a un modelo de difusión al rehacer tramos perdidos.",
+          "mini_headline": "SimDPS repara música faltante",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "Estudios previos han mostrado que los modelos generativos de música pueden generar pistas sincronizadas que suenan junto a una canción de entrada. ¿Podemos ampliar esta capacidad para desarrollar un enfoque generativo del seguimiento de pulsos? Para responder, dotamos a un modelo MusicGen preentrenado de un adaptador de condicionamiento de audio que genera pistas de percusión sincronizadas con la música de entrada, de las que extraemos las posiciones de los pulsos. Entrenamos modelos separados con objetivos de percusión de distinta complejidad rítmica y los comparamos con otros dos modelos generativos y con rastreadores de pulsos convencionales. En GTZAN, nuestro modelo logra un rendimiento cercano al de los rastreadores de pulsos más avanzados."
+                "x": "Music Inpainting With Similarity-Guided Latent Diffusion (inpainting musical con difusión latente guiada por similitud) — Sean Turland, Eloi Moliner, Vesa Välimäki. Aceptado en ISMIR 2026."
               },
               {
                 "t": "p",
-                "x": "Nuestro modelo también muestra mayor robustez: es el que menos cae en F-measure cuando se eliminan las baterías de la entrada durante la inferencia. En ciertos géneros, como el metal y la música disco, también es menos propenso a dejarse engañar por ataques fuertes o a perder pulsos con ataques débiles. Estos resultados sugieren que la generación de percusión puede convertirse en un enfoque viable para el seguimiento de pulsos, y que su salida no es solo una secuencia de posiciones de pulsos, sino una pista de percusión audible."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "para-music-parameter-ar",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "PaRa Music AI가\n인도 하위 장르 찾았다",
-      "body": "인도 PaRa Music은 자체 AI PaRaMeter로 A&R 투자를 정한다.",
-      "mini_headline": "PaRa Music의 AI A&R",
-      "tool": "Music",
-      "source": "Music Ally",
-      "url": "https://musically.com/2026/11/12/ai-powered-label-para-music-says-its-identified-the-next-big-indian-regional-music-sub-genre/",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "유월에 “AI-powered”, 곧 AI 기반을 내건 인도 레이블 PaRa Music의 출범 소식을 전한 바 있다. 이 레이블은 자체 AI 플랫폼 PaRaMeter로 “청중 행동과 수요 패턴”을 분석해 “카탈로그 개발, 유통, 수익화”에 걸친 “투자 및 발매 결정을 이끈다”."
-          },
-          {
-            "t": "p",
-            "x": "그로부터 여섯 달, 회사가 Music Ally South Asia에 첫 성공 사례를 내놓았다. 팀이 마라티어(Marathi-language) 부문을 들여다보니 “주목받는 아티스트와 곡의 상당수”가 Maharashtra주 농촌에서 나온 하위 장르 ‘gavthi’ 음악을 하는 이들이었다고 한다."
-          },
-          {
-            "t": "p",
-            "x": "PaRaMeter의 “아티스트 단위 투자수익률 분석”에 따르면 gavthi 곡이 Marathi 팝 곡보다 성과가 좋았다. 레이블은 다시 이 플랫폼으로 하위 장르에서 가장 인기 있는 창작 조합을 찾았다. 작곡가 RK King과 보컬리스트 Kiran Vartha가 “특히 강한 실적”을 낸 조합으로 꼽혔다."
-          },
-          {
-            "t": "p",
-            "x": "레이블은 칠월 ‘Pikel Karand’를 시작으로 King과 Vartha의 곡을 잇달아 냈다. 이 곡은 지금까지 YouTube 조회수 500k 회를 넘겼고, 레이블은 두 사람과 독점 계약까지 맺었다. PaRa Music은 20개가 넘는 언어로 카탈로그를 쌓는 중이다. 공동 창업자 Pavan Sood는 “PaRaMeter 덕분에 gavthi가 확실히 우리 레이더에 들어왔고, 이것이 마지막은 아닐 것”이라며 “인도 음악에는 이런 보석이 가득하고, 이제 우리에게는 그것을 찾을 도구가 있다”고 말했다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "PaRa Music says its AI found\nIndia's next sub-genre",
-          "body": "Indian label PaRa Music uses its in-house AI platform PaRaMeter to read demand patterns and guide A&R investment.",
-          "mini_headline": "PaRa Music's AI A&R",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "In June, we wrote about the launch of “AI-powered” Indian label PaRa Music, which uses its in-house AI platform PaRaMeter to analyse “audience behaviour and demand patterns” to “guide investment and release decisions” related “to catalogue development, distribution and monetisation”."
+                "x": "Proponemos una técnica de inpainting musical que combina la búsqueda de similitudes con un modelo generativo basado en difusión para reemplazar segmentos extensos de grabaciones de audio por alternativas adecuadas. El método híbrido propuesto, Similarity-Guided Diffusion Posterior Sampling (SimDPS), recupera segmentos candidatos de reemplazo de la señal más amplia según su similitud contextual y los usa para guiar el proceso de difusión hacia reconstrucciones coherentes. Al ser independiente del modelo, el marco es compatible con cualquier modelo de difusión preentrenado que opere en el dominio de la forma de onda o en el latente."
               },
               {
                 "t": "p",
-                "x": "Six months on, the company has shared its first success story with Music Ally South Asia. They told us that when their team reviewed the Marathi-language segment, they found that “a large share of the artists and songs gaining traction” were those specialising in ‘gavthi’ music, a sub-genre from the rural areas of the state of Maharashtra."
-              },
-              {
-                "t": "p",
-                "x": "According to PaRaMeter’s “artist-level return-on-investment analysis”, gavthi songs were faring than Marathi pop tunes. The label then used the platform to find the most popular creative pairings in the sub-genre and identified composer RK King and vocalist Kiran Vartha as a combination with “an especially strong record”."
-              },
-              {
-                "t": "p",
-                "x": "They then released a series of tracks by King and Vartha, starting in July with ‘Pikel Karand’, which has tallied over 500k views on YouTube until date, and eventually signed both acts to exclusive deals. “PaRaMeter put gavthi firmly on our radar, and it won’t be the last,” says Pavan Sood, the co-founder of PaRa Music, which is building a catalogue spanning more than 20 languages. “India’s music is full of gems like this, and we now have the tools to find them.”"
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "PaRa Music AI가\n인도 하위 장르 찾았다",
-          "body": "인도 PaRa Music은 자체 AI PaRaMeter로 A&R 투자를 정한다.",
-          "mini_headline": "PaRa Music의 AI A&R",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "유월에 “AI-powered”, 곧 AI 기반을 내건 인도 레이블 PaRa Music의 출범 소식을 전한 바 있다. 이 레이블은 자체 AI 플랫폼 PaRaMeter로 “청중 행동과 수요 패턴”을 분석해 “카탈로그 개발, 유통, 수익화”에 걸친 “투자 및 발매 결정을 이끈다”."
-              },
-              {
-                "t": "p",
-                "x": "그로부터 여섯 달, 회사가 Music Ally South Asia에 첫 성공 사례를 내놓았다. 팀이 마라티어(Marathi-language) 부문을 들여다보니 “주목받는 아티스트와 곡의 상당수”가 Maharashtra주 농촌에서 나온 하위 장르 ‘gavthi’ 음악을 하는 이들이었다고 한다."
-              },
-              {
-                "t": "p",
-                "x": "PaRaMeter의 “아티스트 단위 투자수익률 분석”에 따르면 gavthi 곡이 Marathi 팝 곡보다 성과가 좋았다. 레이블은 다시 이 플랫폼으로 하위 장르에서 가장 인기 있는 창작 조합을 찾았다. 작곡가 RK King과 보컬리스트 Kiran Vartha가 “특히 강한 실적”을 낸 조합으로 꼽혔다."
-              },
-              {
-                "t": "p",
-                "x": "레이블은 칠월 ‘Pikel Karand’를 시작으로 King과 Vartha의 곡을 잇달아 냈다. 이 곡은 지금까지 YouTube 조회수 500k 회를 넘겼고, 레이블은 두 사람과 독점 계약까지 맺었다. PaRa Music은 20개가 넘는 언어로 카탈로그를 쌓는 중이다. 공동 창업자 Pavan Sood는 “PaRaMeter 덕분에 gavthi가 확실히 우리 레이더에 들어왔고, 이것이 마지막은 아닐 것”이라며 “인도 음악에는 이런 보석이 가득하고, 이제 우리에게는 그것을 찾을 도구가 있다”고 말했다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "PaRa MusicのAIが\nインドのサブジャンル発見",
-          "body": "インドのPaRa Musicは自社AIのPaRaMeterで需要を分析しA&R投資を導く。",
-          "mini_headline": "PaRa MusicのAI A&R",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "六月、私たちは「AI-powered」をうたうインドのレーベルPaRa Musicの立ち上げを報じた。同社は自社のAIプラットフォームPaRaMeterで「オーディエンスの行動と需要パターン」を分析し、「カタログ開発、流通、収益化」に関わる「投資とリリースの判断を導く」。"
-              },
-              {
-                "t": "p",
-                "x": "六か月が経ち、同社はMusic Ally South Asiaに最初の成功例を明かした。チームがマラーティー語（Marathi-language）部門を精査したところ、「勢いを増しているアーティストや楽曲の大部分」が、Maharashtra州の農村部発のサブジャンル「gavthi」音楽を専門とする人たちだったという。"
-              },
-              {
-                "t": "p",
-                "x": "PaRaMeterの「アーティスト単位の投資収益率分析」によると、gavthiの楽曲はMarathiのポップ曲より好成績だった。レーベルはさらにこのプラットフォームでサブジャンル内の最も人気のある創作の組み合わせを探し、作曲家RK KingとボーカリストKiran Varthaを「特に強い実績」を持つ組み合わせとして特定した。"
-              },
-              {
-                "t": "p",
-                "x": "その後、七月の『Pikel Karand』を皮切りにKingとVarthaの楽曲を次々とリリースし、同曲はこれまでにYouTubeで500k 回超の再生数を記録した。最終的に両者と独占契約も結んだ。「PaRaMeterのおかげでgavthiははっきりと私たちのレーダーに入った。これが最後ではない」と、20以上の言語にまたがるカタログを構築中のPaRa Musicの共同創業者Pavan Soodは語る。「インドの音楽にはこうした宝石があふれており、今の私たちにはそれを見つける道具がある」"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "PaRa Music称AI\n找到印度下一个子流派",
-          "body": "印度厂牌PaRa Music用自研AI平台PaRaMeter解读需求模式，指导A&R投资。",
-          "mini_headline": "PaRa Music的AI A&R",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "六月，我们报道了“AI-powered”印度厂牌PaRa Music的成立。该厂牌利用自研AI平台PaRaMeter分析“受众行为和需求模式”，以“指导与目录开发、发行和变现相关的投资与发行决策”。"
-              },
-              {
-                "t": "p",
-                "x": "六个月后，该公司向Music Ally South Asia分享了首个成功案例。他们表示，团队审视马拉地语（Marathi-language）板块时发现，“大部分正在走红的艺人和歌曲”都专攻‘gavthi’音乐，这是一个源自Maharashtra邦农村地区的子流派。"
-              },
-              {
-                "t": "p",
-                "x": "根据PaRaMeter的“艺人层面投资回报分析”，gavthi歌曲的表现好于Marathi流行歌曲。随后，厂牌借助该平台找出该子流派中最受欢迎的创作组合，认定作曲人RK King与歌手Kiran Vartha是一对“战绩尤为出色”的组合。"
-              },
-              {
-                "t": "p",
-                "x": "此后，厂牌从七月的‘Pikel Karand’开始陆续发行King与Vartha的一系列作品，该曲迄今在YouTube上的播放量已超过500k 次，最终厂牌与两人都签下了独家合约。“PaRaMeter让gavthi稳稳进入了我们的视野，而且这不会是最后一个，”PaRa Music联合创始人Pavan Sood说，该厂牌正在打造覆盖20多种语言的曲库。“印度音乐中满是这样的珍宝，而我们现在有了发现它们的工具。”"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "PaRa Music dice que su AI halló\nel próximo subgénero de India",
-          "body": "El sello indio PaRa Music usa su plataforma de AI PaRaMeter para leer la demanda y orientar la inversión en A&R.",
-          "mini_headline": "La A&R con AI de PaRa Music",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "En junio escribimos sobre el lanzamiento de PaRa Music, un sello indio “AI-powered” que usa su plataforma de AI propia, PaRaMeter, para analizar “el comportamiento y los patrones de demanda de la audiencia” y así “orientar las decisiones de inversión y lanzamiento” relacionadas “con el desarrollo del catálogo, la distribución y la monetización”."
-              },
-              {
-                "t": "p",
-                "x": "Seis meses después, la empresa compartió su primer caso de éxito con Music Ally South Asia. Explicaron que, cuando su equipo revisó el segmento en lengua marathi (Marathi-language), vio que “una gran parte de los artistas y canciones que ganaban tracción” se especializaban en la música ‘gavthi’, un subgénero de las zonas rurales del estado de Maharashtra."
-              },
-              {
-                "t": "p",
-                "x": "Según el “análisis de retorno de la inversión por artista” de PaRaMeter, las canciones gavthi rendían mejor que los temas pop en Marathi. Después, el sello usó la plataforma para encontrar las parejas creativas más populares del subgénero e identificó al compositor RK King y al vocalista Kiran Vartha como una combinación con “un historial especialmente sólido”."
-              },
-              {
-                "t": "p",
-                "x": "Luego lanzó una serie de temas de King y Vartha, empezando en julio con ‘Pikel Karand’, que hasta la fecha suma más de 500k visualizaciones en YouTube, y finalmente firmó contratos exclusivos con ambos. “PaRaMeter puso el gavthi de lleno en nuestro radar, y no será el último”, dice Pavan Sood, cofundador de PaRa Music, que está construyendo un catálogo en más de 20 idiomas. “La música de la India está llena de joyas como esta, y ahora tenemos las herramientas para encontrarlas”."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "PaRa Music AI가\n인도 하위 장르 찾았다",
-          "body": "인도 PaRa Music은 자체 AI PaRaMeter로 A&R 투자를 정한다.",
-          "mini_headline": "PaRa Music의 AI A&R",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "유월에 우리는 “AI-powered”, 즉 AI 기반을 내건 인도 레이블 PaRa Music의 출범을 다뤘다. 이 레이블은 자체 AI 플랫폼 PaRaMeter로 “청중 행동과 수요 패턴”을 분석해 “카탈로그 개발, 유통, 수익화”와 관련한 “투자 및 발매 결정을 이끈다”."
-              },
-              {
-                "t": "p",
-                "x": "여섯 달이 지난 지금, 회사는 Music Ally South Asia에 첫 성공 사례를 공유했다. 팀이 마라티어(Marathi-language) 부문을 검토하자 “주목받는 아티스트와 곡의 상당수”가 Maharashtra주 농촌 지역에서 나온 하위 장르 ‘gavthi’ 음악을 하는 이들이었다고 한다."
-              },
-              {
-                "t": "p",
-                "x": "PaRaMeter의 “아티스트 단위 투자수익률 분석”에 따르면 gavthi 곡이 Marathi 팝 곡보다 성과가 좋았다. 레이블은 이어 이 플랫폼으로 하위 장르에서 가장 인기 있는 창작 조합을 찾았고, 작곡가 RK King과 보컬리스트 Kiran Vartha를 “특히 강한 실적”을 지닌 조합으로 꼽았다."
-              },
-              {
-                "t": "p",
-                "x": "이후 레이블은 칠월 ‘Pikel Karand’를 시작으로 King과 Vartha의 곡을 잇달아 냈고, 이 곡은 지금까지 YouTube 조회수 500k 회를 넘겼다. 결국 두 사람과 독점 계약도 맺었다. 20개가 넘는 언어에 걸친 카탈로그를 구축 중인 PaRa Music의 공동 창업자 Pavan Sood는 “PaRaMeter 덕분에 gavthi가 확실히 우리 레이더에 들어왔고, 이것이 마지막은 아닐 것”이라며 “인도 음악에는 이런 보석이 가득하고, 이제 우리에게는 그것을 찾을 도구가 있다”고 말했다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "PaRa MusicのAIが\nインドのサブジャンル発見",
-          "body": "インドのPaRa Musicは自社AIのPaRaMeterで需要を分析しA&R投資を導く。",
-          "mini_headline": "PaRa MusicのAI A&R",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "六月、私たちは「AI-powered」をうたうインドのレーベルPaRa Musicの立ち上げを報じた。同社は自社のAIプラットフォームPaRaMeterで「オーディエンスの行動と需要パターン」を分析し、「カタログ開発、流通、収益化」に関わる「投資とリリースの判断を導く」。"
-              },
-              {
-                "t": "p",
-                "x": "六か月が経ち、同社はMusic Ally South Asiaに最初の成功例を明かした。チームがマラーティー語（Marathi-language）部門を精査したところ、「勢いを増しているアーティストや楽曲の大部分」が、Maharashtra州の農村部発のサブジャンル「gavthi」音楽を専門とする人たちだったという。"
-              },
-              {
-                "t": "p",
-                "x": "PaRaMeterの「アーティスト単位の投資収益率分析」によると、gavthiの楽曲はMarathiのポップ曲より好成績だった。レーベルはさらにこのプラットフォームでサブジャンル内の最も人気のある創作の組み合わせを探し、作曲家RK KingとボーカリストKiran Varthaを「特に強い実績」を持つ組み合わせとして特定した。"
-              },
-              {
-                "t": "p",
-                "x": "その後、七月の『Pikel Karand』を皮切りにKingとVarthaの楽曲を次々とリリースし、同曲はこれまでにYouTubeで500k 回超の再生数を記録した。最終的に両者と独占契約も結んだ。「PaRaMeterのおかげでgavthiははっきりと私たちのレーダーに入った。これが最後ではない」と、20以上の言語にまたがるカタログを構築中のPaRa Musicの共同創業者Pavan Soodは語る。「インドの音楽にはこうした宝石があふれており、今の私たちにはそれを見つける道具がある」"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "PaRa Music称AI\n找到印度下一个子流派",
-          "body": "印度厂牌PaRa Music用自研AI平台PaRaMeter解读需求模式，指导A&R投资。",
-          "mini_headline": "PaRa Music的AI A&R",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "六月，我们报道了“AI-powered”印度厂牌PaRa Music的成立。该厂牌利用自研AI平台PaRaMeter分析“受众行为和需求模式”，以“指导与目录开发、发行和变现相关的投资与发行决策”。"
-              },
-              {
-                "t": "p",
-                "x": "六个月后，该公司向Music Ally South Asia分享了首个成功案例。他们表示，团队审视马拉地语（Marathi-language）板块时发现，“大部分正在走红的艺人和歌曲”都专攻‘gavthi’音乐，这是一个源自Maharashtra邦农村地区的子流派。"
-              },
-              {
-                "t": "p",
-                "x": "根据PaRaMeter的“艺人层面投资回报分析”，gavthi歌曲的表现好于Marathi流行歌曲。随后，厂牌借助该平台找出该子流派中最受欢迎的创作组合，认定作曲人RK King与歌手Kiran Vartha是一对“战绩尤为出色”的组合。"
-              },
-              {
-                "t": "p",
-                "x": "此后，厂牌从七月的‘Pikel Karand’开始陆续发行King与Vartha的一系列作品，该曲迄今在YouTube上的播放量已超过500k 次，最终厂牌与两人都签下了独家合约。“PaRaMeter让gavthi稳稳进入了我们的视野，而且这不会是最后一个，”PaRa Music联合创始人Pavan Sood说，该厂牌正在打造覆盖20多种语言的曲库。“印度音乐中满是这样的珍宝，而我们现在有了发现它们的工具。”"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "PaRa Music dice que su AI halló\nel próximo subgénero de India",
-          "body": "El sello indio PaRa Music usa su plataforma de AI PaRaMeter para leer la demanda y orientar la inversión en A&R.",
-          "mini_headline": "La A&R con AI de PaRa Music",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "En junio escribimos sobre el lanzamiento de PaRa Music, un sello indio “AI-powered” que usa su plataforma de AI propia, PaRaMeter, para analizar “el comportamiento y los patrones de demanda de la audiencia” y así “orientar las decisiones de inversión y lanzamiento” relacionadas “con el desarrollo del catálogo, la distribución y la monetización”."
-              },
-              {
-                "t": "p",
-                "x": "Seis meses después, la empresa compartió su primer caso de éxito con Music Ally South Asia. Explicaron que, cuando su equipo revisó el segmento en lengua marathi (Marathi-language), vio que “una gran parte de los artistas y canciones que ganaban tracción” se especializaban en la música ‘gavthi’, un subgénero de las zonas rurales del estado de Maharashtra."
-              },
-              {
-                "t": "p",
-                "x": "Según el “análisis de retorno de la inversión por artista” de PaRaMeter, las canciones gavthi rendían mejor que los temas pop en Marathi. Después, el sello usó la plataforma para encontrar las parejas creativas más populares del subgénero e identificó al compositor RK King y al vocalista Kiran Vartha como una combinación con “un historial especialmente sólido”."
-              },
-              {
-                "t": "p",
-                "x": "Luego lanzó una serie de temas de King y Vartha, empezando en julio con ‘Pikel Karand’, que hasta la fecha suma más de 500k visualizaciones en YouTube, y finalmente firmó contratos exclusivos con ambos. “PaRaMeter puso el gavthi de lleno en nuestro radar, y no será el último”, dice Pavan Sood, cofundador de PaRa Music, que está construyendo un catálogo en más de 20 idiomas. “La música de la India está llena de joyas como esta, y ahora tenemos las herramientas para encontrarlas”."
+                "x": "Las evaluaciones objetivas muestran que SimDPS supera a los métodos RePaint y DPS, ampliamente adoptados, en características acústicas y métricas de distancia de embeddings neuronales. Las evaluaciones subjetivas en conjuntos de datos musicales de varios géneros confirman que SimDPS mejora la plausibilidad perceptiva frente a métodos previos basados en difusión y muestra robustez ante candidatos de similitud poco coincidentes. Estos resultados abren el camino a una mejor restauración musical y a una edición de audio consciente del contexto."
               }
             ]
           }

@@ -11657,6 +11657,184 @@
           "x": "When Crimson Desert launched, players spotted AI-generated \"2D visual props\" that Pearl Abyss quickly patched out. The letter also says creature-collector DokeV is \"targeting a launch in the second half of 2028\", and Crimson Desert is coming to Nintendo Switch 2 \"in the first half of next year.\""
         }
       ]
+    },
+    "games/fable52-nephew-brawler": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Developer Lex Toumbourou wrote on his blog on November 10 that he handed a game design drawn by his nephew to Claude Fable 5.2, Anthropic's latest AI model, and got a co-op side-scrolling beat 'em up for 4 players built overnight. The game, called Aiden's Revenge, has 12 stages and 18 playable characters, and runs directly in a web browser."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gamey.kr/news/photo/202611/3019684_174018_136.jpg"
+        },
+        {
+          "t": "p",
+          "x": "His nephew Aiden handed over drawings of 5 heroes modeled on family members, 12 bosses, and a story about rescuing Pudding, a kidnapped puppy. The first version, made for his June birthday with Claude Code, Opus 4.8 and Fable 5, was hard to enjoy for more than a few minutes."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gamey.kr/news/photo/202611/3019684_174019_1343.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Toumbourou, who had access to Fable 5.2 before its release, left a prompt and checked the next morning to find the game finished all the way to the ending. Fable threw out most of the existing code and rewrote it from scratch, then used a bot that plays the game on its own to run all 12 stages, finding and fixing problems through screenshots. Over two days the project used about 600 Claude requests and about 3억4,000만 (three hundred forty million) tokens, and generated about 500 images, 11 music tracks and about 100 sound effects."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gamey.kr/news/photo/202611/3019684_174021_143.jpg"
+        },
+        {
+          "t": "p",
+          "x": "At the family's request, the roster of heroes grew to 18. After seeing the finished game, Aiden said, \"It's exactly what I imagined.\" On Hacker News, estimates that it cost anywhere from $2,560 to 1만3,000달러 (thirteen thousand dollars) clashed with calculations that a subscription would have been enough."
+        }
+      ]
+    },
+    "games/unity-korea-ai-three-paths": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.invenglobal.com/upload/image/2026/11/12/r1794483730633569.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Jong-tae Park, Staff Partner Engineer at Unity Korea, spoke at 'AI Game Lab Day 2026' on November 12, hosted by KOCCA at the Global Game Hub Center in Pangyo. He emphasized that an engine-specialized AI workflow is essential for moving beyond simple web-based outputs to create polished, high-fidelity games."
+        },
+        {
+          "t": "p",
+          "x": "Unity plans 'Unity 6.7 LTS' this December and 'Unity 7' around GDC next March. URP gains Surface Cache GI, an upscaling framework for DLSS, FSR, PSSR and STP, and Neural Texture Compression leveraging the 'Sentis' inference engine to reduce texture memory by approximately 40%."
+        },
+        {
+          "t": "img",
+          "src": "https://static.invenglobal.com/upload/image/2026/11/12/r1794483738795652.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "The first pillar is 'Unity AI Tools' inside the editor: 'AI Assistant', 'Generator' and 'AI Gateway'. AI Assistant analyzes the project to actively manipulate the editor, with Ask, Plan and Agent modes and a 'Checkpoint' feature. Generator handles 2D sprites to 3D models, rigging and audio, billed via 'Unity AI Credits' (approx. 1,000 credits per $10)."
+        },
+        {
+          "t": "img",
+          "src": "https://static.invenglobal.com/upload/image/2026/11/12/r1794483750571959.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "The second pillar, 'Unity CLI', lets agents call only the precise commands required, boosting speed and lowering token usage versus the MCP-based AI Gateway. The third consists of official plugins for Claude Code, Codex and Antigravity, plus 'Unity Spark', a web-based tool for creating games in natural language with multiplayer collaboration."
+        },
+        {
+          "t": "video",
+          "yt": "IkcK7aeMw5A"
+        }
+      ]
+    },
+    "games/ncai-varco-pangyo-builders": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "NC AI met game developers in person to share techniques for producing 3D graphics and sound with artificial intelligence (AI). The move aims to promote VARCO, its own AI creation platform, and to expand its use in game development."
+        },
+        {
+          "t": "p",
+          "x": "NC AI said on the 13th that it held Builders Night, the first event of the game developer community Pangyo Builders. More than 70 game developers and industry officials attended and shared AI-based game production cases and hands-on experience."
+        },
+        {
+          "t": "p",
+          "x": "Pangyo Builders is a community where game developers interact regardless of their company or role. NC AI plans to help developers share ways to apply AI production tools to their actual work and find opportunities for collaboration."
+        },
+        {
+          "t": "img",
+          "src": "https://image.zdnet.co.kr/2026/11/13/9665b74012e71c74367f92553650ba35.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The event was held under the theme \"Building games with AI.\" Shaderku, a game programmer and organizer of Fake Game Jam, introduced his experience developing games with AI."
+        },
+        {
+          "t": "p",
+          "x": "Shaderku shared cases of applying 3D graphic assets made with VARCO, NC AI's creation platform, to actual games. He also explained the techniques and methods he used during development, from integrating AI tools to optimizing graphics processing performance, staging and sound production."
+        },
+        {
+          "t": "p",
+          "x": "VARCO is a platform that uses generative AI to create the 3D graphics and sound that games need. NC AI is developing the technology with the goal of reducing repetitive content production work and helping developers focus on game design and polish."
+        },
+        {
+          "t": "p",
+          "x": "NC AI staff also shared their development experience. Team leader Kim Jang-young, in charge of VARCO 3D, and team leader Cho Nam-hyun, in charge of VARCO Sound, explained how to apply AI-made graphics and audio to the actual game development process. They also covered what to consider when managing output quality while cutting work time."
+        },
+        {
+          "t": "p",
+          "x": "After the event, a networking program let participants exchange development experience and ideas. NC AI gave every participant a free 1-month VARCO pass so they could try the features introduced at the event themselves."
+        },
+        {
+          "t": "p",
+          "x": "NC AI is also expanding opportunities to meet game developers. It plans to run a hands-on cafe during G-STAR 2026, the international game exhibition held in Busan from the 19th to the 21st."
+        },
+        {
+          "t": "p",
+          "x": "Visitors can try VARCO 3D and VARCO Sound firsthand. NC AI will also offer game developers and production teams consultations on adopting AI to suit their project environments."
+        },
+        {
+          "t": "p",
+          "x": "NC AI plans to hold Pangyo Builders regularly to run its developer community. It intends to keep sharing VARCO use cases and to look into the problems and needs developers face in the game production process."
+        },
+        {
+          "t": "p",
+          "x": "Lee Yeon-su, CEO of NC AI, said, \"Since NC AI has developed its AI technology starting from the concerns of people on the game development front line, we value communication with the developers who make actual games,\" adding, \"We will keep supporting Pangyo Builders so it can settle in as a community where diverse developers share experiences and ideas and discover new possibilities.\""
+        }
+      ]
+    },
+    "games/unity-ai-project-tips": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/fuvbjjlp/production/2330bde656908d3aad3b4b3181a276993cc9fd61-1200x675.png"
+        },
+        {
+          "t": "p",
+          "x": "Keep your first video game on track from day one with ten simple ways to organize your ideas, prompts, and progress. When you build a game with AI by prompting a tool like Unity Spark, you don't need to write code, but you still make the decisions an engine normally forces on you."
+        },
+        {
+          "t": "p",
+          "x": "1. Write one design brief and keep it handy. 2. Build one small piece at a time. 3. Name things once, and use the same word every time. 4. Keep one list for all your ideas. 5. Describe your look in words you can reuse."
+        },
+        {
+          "t": "p",
+          "x": "6. Change one thing at a time, then playtest. 7. Save a checkpoint before big changes: Spark saves a restore point automatically after each prompt, keeping them for 7 days and only the newest 20 in each conversation. 8. Keep a prompt log. 9. Keep track of where things came from. 10. Track what's done and what's left."
+        },
+        {
+          "t": "p",
+          "x": "Open your notes app and write your one-sentence game description: \"In my game, you ___, then ___, so you can ___.\" When you get access to Unity Spark, paste it in as your first prompt."
+        }
+      ]
+    },
+    "games/games-cod-ai-cheats-ricochet": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Cheating in Call of Duty is becoming more sophisticated, and artificial intelligence is making things even more complicated. Activision has warned that cheat developers are increasingly using AI to create tools that give players unfair advantages while making traditional anti-cheat detection more difficult."
+        },
+        {
+          "t": "img",
+          "src": "https://gameriv.com/wp-content/uploads/2026/10/Call-of-Duty-Coverage-by-gamign-media.jpg",
+          "cap": "Image Credit: Acitvision"
+        },
+        {
+          "t": "p",
+          "x": "In a recent post on X, Activision said cheat developers are turning to AI to build tools that can provide unfair advantages without necessarily interacting directly with the game. AI-powered cheating tools can potentially operate externally, analyzing what appears on a player’s screen and automating aiming through separate inputs, so detecting the cheating software itself becomes more difficult."
+        },
+        {
+          "t": "img",
+          "src": "https://gameriv.com/wp-content/uploads/2026/08/Call-of-duty-anti-cheat-lawsuit.jpg",
+          "cap": "Image Credit: Activision"
+        },
+        {
+          "t": "p",
+          "x": "Rather than relying entirely on identifying cheating software, the RICOCHET Anti-Cheat developers are studying the suspicious behaviors these tools produce during matches. RICOCHET’s machine learning models analyze gameplay patterns — unnatural aiming, suspicious reaction times, unusual targeting — to distinguish legitimate player actions from automated assistance. Machine learning flags suspicious behavior for further investigation, but it does not independently make enforcement decisions."
+        },
+        {
+          "t": "p",
+          "x": "Activision says cheat developers are adjusting their software to make automated gameplay appear more natural, but the more their software imitates legitimate gameplay, the less advantage it potentially provides. No release date has been announced for additional AI-focused detection tools."
+        }
+      ]
     }
   }
 }

@@ -12005,6 +12005,130 @@
           "x": "“La idea es aprovechar el cerebro de los diseñadores y lograr que incorporen su conocimiento del dominio a medida que evoluciona el diseño”, afirma la autora principal, Josephine Carstensen."
         }
       ]
+    },
+    "design/figma-configindia-canvas-production": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "87SISSxj6R4"
+        },
+        {
+          "t": "p",
+          "x": "Config India 2026: análisis a fondo de Figma: «Nothing lost in translation» (nada se pierde en la traducción), del lienzo a la producción."
+        },
+        {
+          "t": "p",
+          "x": "Los prototipos comunican comportamiento e intención, pero no están en producción, y la brecha entre lo que se decidió y lo que se construye es donde ocurre la mayor parte de la desviación. Vaya más allá de lo básico con el contexto de su sistema de diseño, técnicas avanzadas de MCP, capas de código y especificaciones."
+        }
+      ]
+    },
+    "design/figma-blog-creative-ai-split": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/4791f6c2acbf0d3121abf8a8f3e7aa3c6b7c4ae9-3264x1836.png?w=1632&h=918&q=75&fit=max&auto=format",
+          "cap": "Ilustración principal de Jose Flores"
+        },
+        {
+          "t": "p",
+          "x": "Itay Schiff, cofundador y director creativo de Figma Weave, se pregunta qué partes del proceso creativo puede hacer la AI por nosotros y cuáles insistimos en conservar. Hoy muchas personas creativas usan la AI para hacer algo que en realidad disfrutaban, como escribir, diseñar, editar o dirigir. Para él, la cuestión no es si usar AI o no, sino qué partes automatizar."
+        },
+        {
+          "t": "p",
+          "x": "La fricción puede ser valiosa. Los pasos tediosos de VFX —quitar trackers, armar la previs, extraer el croma— son trabajo al que la mayoría renunciaría con gusto. Pero cierta fricción no es trabajo; es donde ocurre el pensamiento. ¿Es simplemente trabajo? Que lo haga la máquina."
+        },
+        {
+          "t": "p",
+          "x": "Generar no es ser autor. El primer resultado de un modelo de AI parece terminado, pero cualquiera podría haber generado ese mismo fotograma. En una campaña de Gaussian splat generada con Seedance 2.5 en Figma Weave, la v1 salió rápido y lejos de estar terminada; el equipo siguió iterando la historia, los personajes y el estilismo."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/6ff46e4235ab02c904cb2673573d5fefd08312aa-3264x1836.png?w=3264&h=1836&q=75&fit=crop&crop=focalpoint&auto=format",
+          "cap": "Diseño de la campaña “Spring Arrivals” en Figma Design junto a su nodo de Figma conectado en Weave."
+        },
+        {
+          "t": "p",
+          "x": "Schiff describe un “modo abierto” para explorar y un “modo cerrado” para comprometerse con decisiones y automatizar. Antes de delegar algo a la AI, conviene examinarlo primero. Hay que cuidarse de no automatizar el pensamiento, sobre todo cuando más tienta hacerlo."
+        }
+      ]
+    },
+    "design/qentin-scan-search-aec": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/11/qentin.jpg"
+        },
+        {
+          "t": "p",
+          "x": "qentin es un agente de AI que permite a los responsables de instalaciones buscar en “gemelos digitales” escaneados con láser usando lenguaje natural. Actualmente en acceso anticipado, lo desarrolla la startup austriaca qapture, que lleva seis años escaneando con láser edificios en Austria, Suiza y Alemania, incluidas 38 sedes de Ikea que suman más de 2 millones de metros cuadrados."
+        },
+        {
+          "t": "p",
+          "x": "Una vez escaneado y georreferenciado un edificio, qentin usa AI para detectar, etiquetar y ubicar objetos automáticamente, y lee etiquetas y placas de activos de los escaneos mediante reconocimiento de texto. Los usuarios preguntan en alemán o inglés y reciben respuestas ancladas a una ubicación en el visor 3D."
+        },
+        {
+          "t": "p",
+          "x": "“Hoy, el conocimiento sobre un edificio está en listas de Excel, planos antiguos, informes en PDF y en la cabeza de unas pocas personas. Con qentin está en el propio edificio, y basta con preguntar”, dice Daniel Höller, CEO y cofundador de qapture."
+        },
+        {
+          "t": "p",
+          "x": "Energie AG Oberösterreich ya usa qentin en operaciones reales. Qapture ha capturado 137 sedes de Energie AG, que abarcan 730,000 metros cuadrados y 43 centrales hidroeléctricas, con 6,300 etiquetas detectadas automáticamente. Otros usos incluyen revisar rutas de evacuación y medidas de protección contra incendios."
+        }
+      ]
+    },
+    "design/simscale-ai-blueprint-nvidia": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/11/V-model-graphic.jpg"
+        },
+        {
+          "t": "p",
+          "x": "SimScale lanzó el Engineering AI Blueprint para CTOs y líderes de ingeniería que planean desplegar agentes de AI en flujos de trabajo de ingeniería. El blueprint incluye tecnologías de NVIDIA para computación acelerada y modelos y herramientas de AI física."
+        },
+        {
+          "t": "p",
+          "x": "Pasar de proyectos piloto a un despliegue más amplio puede ser difícil, sobre todo cuando se usan agentes de AI en flujos de diseño. El blueprint se basa en proyectos de ingeniería y despliegues con clientes para trazar un marco que permita escalar la AI de ingeniería."
+        },
+        {
+          "t": "p",
+          "x": "Cita un estudio según el cual las decisiones tomadas antes del congelamiento del diseño representaron el 86% del costo previsto del programa, y los defectos de concepto detectados tarde exigieron unas 13 veces más retrabajo. Propone un proceso en el que la exploración va antes de la selección, la validación empieza antes y las pruebas físicas se usan para confirmar. También define dónde debe limitarse la autonomía de los agentes."
+        },
+        {
+          "t": "p",
+          "x": "El blueprint describe las capas de software necesarias para flujos autónomos e identifica dónde encajan NVIDIA PhysicsNeMo, NVIDIA Nemotron y NVIDIA NeMo Agent Toolkit en la pila. Una encuesta de SimScale a 350 líderes de ingeniería halló que el 99% esperaba un ROI medible de la AI en 12 meses."
+        }
+      ]
+    },
+    "design/figma-3d-transforms-launch": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A principios de este año, Figma anunció Figma Motion, plugins generativos y shaders impulsados por el agente de Figma, y transformaciones 3D. Desde hoy, las transformaciones 3D están disponibles en beta abierta. Con el efecto de transformación 3D se pueden inclinar, rotar y organizar textos, imágenes, vectores y marcos en el espacio; al añadir el efecto de perspectiva a un marco principal, pasan a formar parte de una composición espacial compartida. Los efectos no son destructivos: la obra original sigue siendo editable debajo."
+        },
+        {
+          "t": "p",
+          "x": "El equipo Figma Brand Studio aplicó estos efectos en el video de lanzamiento de las transformaciones 3D. La diseñadora de marca Deanna Gueli definió una disposición tipográfica y luego pidió al agente de Figma que la repitiera a intervalos a lo largo del eje Z. “Fue un tango de ida y vuelta: el agente hacía las matemáticas y yo, la parte creativa”, cuenta. También usó el agente para construir geometría: colocó la animación tipográfica sobre un tubo rectangular y convirtió esa forma en un componente."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/02f264d3e112d6229cb18015b9fa6b7123a380c9-1920x1080.png?w=1200&q=75&fit=max&auto=format",
+          "cap": "Deanna exploró cómo colocar tipografía sobre geometría y rotar esos elementos en el espacio."
+        },
+        {
+          "t": "p",
+          "x": "El diseñador de motion de marca Ben Hill pidió al agente de Figma que creara un plugin generativo para organizar elementos en una cuadrícula, una hélice, un anillo o una dispersión aleatoria, y luego añadió shaders para tratamientos de superficie y barridos de luz."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/222f89045df6d65e95959134992974b5d8d51f31-3840x2160.png?rect=0,1,3840,2159&w=1200&q=75&fit=max&auto=format",
+          "cap": "El plugin generado por el agente le dio a Ben una variedad de diseños 3D y controles de orientación y espaciado."
+        },
+        {
+          "t": "p",
+          "x": "Las transformaciones 3D se traducen directamente a CSS en Dev Mode, y los agentes de programación pueden leer y crear diseños 3D a través del servidor Figma MCP. Las transformaciones 3D ya están en beta abierta para todos los usuarios con asiento Full."
+        }
+      ]
     }
   }
 }

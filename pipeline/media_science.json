@@ -1,31 +1,7 @@
-{
-  "date": "2026-11-15",
-  "section": "science",
-  "media": [
-    {
-      "id": "techxplore-alignment-faking-watched",
-      "type": "image",
-      "src": "pipeline/media/techxplore-alignment-faking-watched.jpg"
-    },
-    {
-      "id": "slac-lcls-laser-surrogate",
-      "type": "image",
-      "src": "pipeline/media/slac-lcls-laser-surrogate.jpg"
-    },
-    {
-      "id": "brookhaven-sphenix-jet-denoise",
-      "type": "image",
-      "src": "pipeline/media/brookhaven-sphenix-jet-denoise.jpg"
-    },
-    {
-      "id": "qodex-quantum-reservoir-pde",
-      "type": "image",
-      "src": "pipeline/media/qodex-quantum-reservoir-pde.png"
-    },
-    {
-      "id": "princeton-baby-language-ai",
-      "type": "image",
-      "src": "pipeline/media/princeton-baby-language-ai.jpg"
-    }
-  ]
-}
+{"date":"2026-11-16","section":"science","media":[
+{"id":"science-teamwork-lean-proof","type":"video","src":"pipeline/media/science-teamwork-lean-proof.mp4","poster":"pipeline/media/science-teamwork-lean-proof.jpg"},
+{"id":"ucsb-phosphene-stimulation","type":"image","src":"pipeline/media/ucsb-phosphene-stimulation.jpg"},
+{"id":"tartu-muon-tomography","type":"image","src":"pipeline/media/tartu-muon-tomography.jpg"},
+{"id":"brainit-fmri-reconstruction","type":"image","src":"pipeline/media/brainit-fmri-reconstruction.jpg"},
+{"id":"umich-chatbot-intimacy","type":"image","src":"pipeline/media/umich-chatbot-intimacy.jpg"}
+]}

@@ -1,31 +1,31 @@
 {
-  "date": "2026-11-15",
-  "section": "politics",
-  "media": [
-    {
-      "id": "politics-japan-ai-likeness-law",
-      "type": "image",
-      "src": "pipeline/media/politics-japan-ai-likeness-law.jpg"
-    },
-    {
-      "id": "politics-japan-ai-safety-penalties",
-      "type": "image",
-      "src": "pipeline/media/politics-japan-ai-safety-penalties.jpg"
-    },
-    {
-      "id": "politics-uk-police-facial-recog",
-      "type": "image",
-      "src": "pipeline/media/politics-uk-police-facial-recog.jpg"
-    },
-    {
-      "id": "politics-korea-copyright-ai-disclosure",
-      "type": "image",
-      "src": "pipeline/media/politics-korea-copyright-ai-disclosure.jpg"
-    },
-    {
-      "id": "politics-gemini-school-moratorium",
-      "type": "image",
-      "src": "pipeline/media/politics-gemini-school-moratorium.jpg"
-    }
-  ]
+ "date": "2026-11-16",
+ "section": "politics",
+ "media": [
+  {
+   "id": "politics-exam-ai-audit",
+   "type": "image",
+   "src": "pipeline/media/politics-exam-ai-audit.jpg"
+  },
+  {
+   "id": "hongkong-ai-facial-surveillance",
+   "type": "image",
+   "src": "pipeline/media/hongkong-ai-facial-surveillance.jpg"
+  },
+  {
+   "id": "modu-changup-ai-vendor-leak",
+   "type": "image",
+   "src": "pipeline/media/modu-changup-ai-vendor-leak.jpg"
+  },
+  {
+   "id": "congress-ai-chip-export-rules",
+   "type": "image",
+   "src": "pipeline/media/congress-ai-chip-export-rules.jpg"
+  },
+  {
+   "id": "fbi-facestealer-deepfake-scam",
+   "type": "image",
+   "src": "pipeline/media/fbi-facestealer-deepfake-scam.jpg"
+  }
+ ]
 }

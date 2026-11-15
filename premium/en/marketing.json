@@ -4817,6 +4817,132 @@
           "x": "ChatGPT Wallet might not work everywhere. Some retailers have restrictions on AI agents or block them altogether. Earlier this year, Amazon blocked Meta’s Muse agents. OpenAI says that in order for agents to use ChatGPT Wallet, “websites need to ensure agents are not inadvertently blocked, and payment and risk systems need to recognize legitimate purchases made by agents.”"
         }
       ]
+    },
+    "marketing/thehyundai-hi-chatgpt-plugin": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.etnews.com/news/article/2026/11/15/news-p.v1.20261115.043d6ceedf144d1d9c9992c332281857_P1.png",
+          "cap": "Hyundai Department Store said on the 15th that it is launching a dedicated 'The Hyundai Hi' shopping plugin service in OpenAI's 'Apps in ChatGPT.'"
+        },
+        {
+          "t": "p",
+          "x": "Hyundai Department Store said on the 15th that it is launching a dedicated 'The Hyundai Hi' shopping plugin service in OpenAI's 'Apps in ChatGPT.' 'Apps in ChatGPT' is a feature that lets users connect and use outside services directly inside the ChatGPT chat window. Users can search for The Hyundai Hi in the plugin tab of the ChatGPT menu and add it."
+        },
+        {
+          "t": "p",
+          "x": "Ask questions such as “Recommend a 10만원대 health food as a birthday gift for my parents” or “Tell me about the hottest pop-up stores at The Hyundai Seoul,” and ChatGPT provides Hyundai Department Store's online and offline shopping information. Recommended products are presented as links to The Hyundai Hi. Tapping a link opens The Hyundai Hi, where users can check product details and go on to purchase, pay or make a reservation."
+        },
+        {
+          "t": "p",
+          "x": "Hyundai Department Store is building up its AI shopping capabilities because generative AI has a growing influence on purchase decisions such as product search and recommendations. During this year's Chuseok gift sales period, visits to The Hyundai Hi coming through generative AI such as ChatGPT and Gemini rose more than 4 times compared with last year's Chuseok period. Through this integration, Hyundai Department Store plans to widen its points of contact with global customers, including foreign tourists."
+        },
+        {
+          "t": "p",
+          "x": "Earlier, in April, Hyundai Department Store launched an AI shopping service that linked The Hyundai Hi to the KakaoTalk-based 'ChatGPT for Kakao.' Cumulative users passed about 86만명 as of October. Hyundai Department Store uses its AI shopping assistant 'HEYDI' to recommend, in conversation, about 50만 개 products listed on The Hyundai Hi."
+        }
+      ]
+    },
+    "marketing/hyundai-homeshopping-ai-broadcast": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Hyundai Home Shopping is launching home shopping broadcasts produced entirely by artificial intelligence (AI), with no show host and no camera filming. AI generates both the voice and the video, and the plan is to cut production costs while also conveying visually product information that was hard to show with conventional filming."
+        },
+        {
+          "t": "p",
+          "x": "Hyundai Home Shopping said on the 15th that it is introducing 'AI-REAL,' a 100% AI broadcast system, on its data home shopping channel 'Hyundai Home Shopping Plus Shop.' The first regular broadcast is a sales show for 'Jeju Heart Gold Kiwi' at 3:20 p.m. on the 16th."
+        },
+        {
+          "t": "p",
+          "x": "AI-REAL is a system in which AI generates the voice and video a broadcast needs, without a real show host appearing or any camera filming. The company said that while home shopping broadcasts have previously replaced some scenes or show hosts with AI, producing an entire broadcast with AI is an industry first."
+        },
+        {
+          "t": "img",
+          "src": "https://image.zdnet.co.kr/2026/11/15/ec3435b603102586bf7d4d94af724d69.png",
+          "cap": "Hyundai Home Shopping's 100% AI broadcast screen"
+        },
+        {
+          "t": "p",
+          "x": "Hyundai Home Shopping plans to use AI to visualize product information that was hard to express with conventional live-action filming. Details such as the soil conditions where produce is grown, the distribution process and cooking examples for food will be rendered as video without separate filming or props."
+        },
+        {
+          "t": "p",
+          "x": "The company also expects lower production costs. In particular, it said the system can reduce costs for small and mid-sized partner companies that find preparing broadcast samples and producing video burdensome. According to Hyundai Home Shopping, in recent test broadcasts the overall costs borne by partners, including sample preparation and inserted video production, fell by more than 80% compared with before. Sales reached 120% of target."
+        },
+        {
+          "t": "p",
+          "x": "Lim Su-jin, head of the broadcast production business unit at Hyundai Home Shopping, said, \"In the test broadcasts, customers responded positively, saying the shows felt as natural as broadcasts featuring real people and that a range of information, such as growing conditions and cooking examples, helped their purchase decisions.\""
+        },
+        {
+          "t": "p",
+          "x": "Hyundai Home Shopping plans to schedule AI broadcasts regularly, at least 1 per month, starting with fresh food such as agricultural, livestock and fishery products. It then plans to expand to product categories where demand from small and mid-sized partners is high, such as processed food and living goods."
+        },
+        {
+          "t": "p",
+          "x": "Lim Hyun-tae, head of the channel strategy division at Hyundai Home Shopping, said, \"We developed the AI broadcast generation system to grow together with small and mid-sized partners and give customers a differentiated shopping experience,\" adding, \"We will keep actively applying AI technology to our work to speed up our AI transformation (AX).\""
+        }
+      ]
+    },
+    "marketing/ebay-agent-ban-useragreement": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/11/ebay-user-agreement-bans-buy-for-me-ai-agents-without-permission-orange-velvet-rope-teal-errand-box-at-door.jpg"
+        },
+        {
+          "t": "p",
+          "x": "eBay's User Agreement prohibits buyers and sellers from using \"buy-for-me agents, LLM-driven bots, or any end-to-end flow that attempts to place orders without human review\" on the marketplace unless the company grants \"prior express permission.\" The clause has been in force since February 20, 2026, and carried over word for word into the version effective June 28, 2026."
+        },
+        {
+          "t": "p",
+          "x": "The Verge reported on November 10 that Meta's Muse agent had been blocked from pulling eBay listings; by November 12 its access \"seems to be somewhat hit or miss.\" eBay spokesperson Sybille St. Arromand said the restrictions were not a blanket ban and that eBay permits \"AI search, discovery and certain agent-assisted navigation in accordance with our policies, while blocking unauthorized automated scraping.\""
+        },
+        {
+          "t": "p",
+          "x": "Amazon blocks external agents entirely, Target lets agents browse in some instances, while Walmart and Shopify have published routes in. eBay has not said which agents hold permission or how a developer would request it."
+        }
+      ]
+    },
+    "marketing/digiday-adtech-ai-brain": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://digiday.com/wp-content/uploads/sites/3/2025/10/ai-workflows-digiday.jpg"
+        },
+        {
+          "t": "p",
+          "x": "At LUMA Partners' Digital Marketing Summit in New York on November 9, CEO Terry Kawaja and partner Conor McKenna said AI is changing ad tech on two fronts: how marketing technology selects and delivers ads, and how consumers discover and buy products."
+        },
+        {
+          "t": "p",
+          "x": "As workflows get easier to automate, competitive advantage shifts from managing campaign delivery to making better real-time decisions. \"The workflow moat begins to evaporate with the AI technology that is coming out,\" McKenna said. \"Decisioning coupled with unique signal is what will differentiate the companies, separate the winners from the losers, and finally promote consolidation,\" added Kawaja."
+        },
+        {
+          "t": "p",
+          "x": "On the consumer side, AI assistants could bring research, discovery and comparison into a single interface, compressing the purchase journey; speakers expect people to remain involved for now, delegating tasks rather than decisions. SWYM.ai's Ravi Patel said unified media platforms \"can manage the 'what' and the 'how much.' It can't manage the 'which impression.'\""
+        }
+      ]
+    },
+    "marketing/amazon-world-product-graph": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/acastro_STK103__03.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn’t sell, and make the information available through its own site, according to Reuters. The project, called the “World Product Graph,” is meant to make it less likely that shoppers leave Amazon to do their product research on Reddit or Google. If Amazon has the largest stockpile of shopping data, AI agents may rely on its index of products over others."
+        },
+        {
+          "t": "p",
+          "x": "Links to outside retailers’ products already appear on Amazon through the “shop direct” feature. The project would also aim to fix issues with Amazon’s AI shopping assistant, Alexa for Shopping, previously called Rufus: an internal document reportedly says “Many Rufus answers are factually wrong or incomplete.” More data is supposed to make the system more accurate and able to use cheaper models."
+        },
+        {
+          "t": "p",
+          "x": "Whether this ships is still up in the air. Reuters says it’s unclear “if or when this plan may be implemented,” but the document included an October 1st, 2027 release date. Amazon said “the existence of a brainstorming document such as this one doesn’t necessarily reflect our current plans.”"
+        }
+      ]
     }
   }
 }

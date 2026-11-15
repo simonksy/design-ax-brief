@@ -1,148 +1,261 @@
 {
   "section": "movies",
-  "now_iso": "2026-11-14T22:00:43Z",
+  "now_iso": "2026-11-15T22:00:36Z",
   "window_hours": 336,
   "items": [
     {
-      "title": "Nearly 80% of ACE Editors Surveyed Are Using AI, New Report Finds: 'You Adapt or Die'",
-      "url": "https://variety.com/2026/biz/news/surveyed-ace-editors-using-ai-avid-data-finds-1236947004/",
-      "source": "Variety",
-      "published_iso": "2026-11-13T19:02:06+00:00",
-      "excerpt": "In an Avid survey of 120 members of the American Cinema Editors, 77.5% of film editors say they already use AI in their work, with editors describing the shift as 'adapt or die'.",
-      "og_image": "https://variety.com/wp-content/uploads/2026/11/Molly_Shock_ACE_17-1.jpg?w=1000&h=563&crop=1",
-      "category": "movies"
+      "title": "Pedro Pascal On 'Behemoth!'s Humanity Amid AI Boom",
+      "url": "https://deadline.com/2026/11/behemoth-humanity-pedro-pascal-hope-amid-ai-boom-1237224503/",
+      "source": "Deadline",
+      "category": "movies",
+      "published_iso": "2026-11-15T17:51:03+00:00",
+      "excerpt": "As Tony Gilroy and Pedro Pascal bring 'Behemoth!' to the big screen, they're championing the humanity of art amid an over-reliance on AI.",
+      "og_image": "https://deadline.com/wp-content/uploads/2026/11/MCDBEHE_H4019.jpg?w=1024"
     },
     {
-      "title": "Animaj Brings 'Ozzy Fox' Series to Disney Plus as It Charts a Path for AI in Animation",
-      "url": "https://www.cnet.com/tech/services-and-software/animaj-ozzy-fox-series-disney-plus-ai-agentic-animation/",
-      "source": "CNET",
-      "published_iso": "2026-11-13T08:05:08-05:00",
-      "excerpt": "Animaj's AI-assisted preschool series Ozzy Fox, made with Disney Jr., moves to Disney+ as the studio details how animators use its agentic AI pipeline. Off-list (no on-list outlet covered the Disney+ move).",
-      "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot-2026-11-11-at-9.53.14-AM.png",
+      "title": "CHILEMONOS 2027 Opens Free Oscar-Qualifying Animation Entries With New AI Restrictions - Indie Shorts Mag",
+      "url": "https://www.indieshortsmag.com/news/2026/11/chilemonos-2027-animation-festival-submissions-oscar-qualifying/",
+      "source": "Indie Shorts Mag",
       "category": "movies",
+      "published_iso": "2026-11-15T19:31:22Z",
+      "excerpt": "Oscar-qualifying Chilean animation festival CHILEMONOS opens 2027 submissions with rules that prohibit AI in submitted works, making AI-generated animation that replaces an animator's creative contribution grounds for ineligibility — another festival following Manchester's gen-AI ban.",
+      "og_image": "https://cms.indieshortsmag.com/wp-content/uploads/2026/11/CHILEMONOS-2027-Opens-Free-Oscar-Qualifying-Animation-Entries-With-New-AI-Restrictions-Indie-Shorts-Mag-News.jpg",
       "history_match": {
-        "score": 0.355,
-        "date": "2026-11-06",
-        "url": "https://senalnews.com/en/content/animaj-unveiled-flipmove-an-artist-led-ai-animation-workflow",
-        "title": "Animaj unveiled FlipMove, an artist-led AI animation workflow",
+        "score": 0.191,
+        "date": "2026-11-14",
+        "url": "https://www.animationmagazine.net/2026/11/manchester-animation-festival-announces-2026-winners-new-ai-policy/",
+        "title": "Manchester Animation Festival Announces 2026 Winners, New AI Policy",
         "band": "related"
       }
     },
     {
-      "title": "This Startup Is Betting on AI Microdramas to Get More Black Stories in Hollywood",
-      "url": "https://www.wired.com/story/black-roles-are-disappearing-in-hollywood-this-startup-is-using-ai-microdramas-to-fight-back/",
-      "source": "WIRED",
-      "published_iso": "2026-11-13T11:45:00+00:00",
-      "excerpt": "Mansa says its AI-generated microdramas can serve as proofs of concept for what Black audiences want; critics say the studio is selling out. Off-list.",
-      "og_image": "https://media.wired.com/photos/6af65ba58bac4203b57b5ba0/191:100/w_1280,c_limit/Startup-Betting-on-AI-Microdramas-Culture.jpg",
-      "category": "movies"
+      "title": "Closing the Gap Between Policy and Practice",
+      "url": "https://runway.com/news/safety/closing-the-gap",
+      "source": "Runway",
+      "category": "movies",
+      "published_iso": "2026-11-12T18:50:00.000Z",
+      "excerpt": "Runway’s moderation now allows sword fights, shootouts and horror while blocking real harm. What changed, where limits remain and how to flag mistakes.",
+      "og_image": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/closing-the-gap-between-policy-and-practice-1600x1067-fc002504-f4d6-44f4-a6d7-941a5b751aed.png"
+    },
+    {
+      "title": "We Tested Kling 4.0 Against Seedance 2.5, and It’s Not Close",
+      "url": "https://www.youtube.com/watch?v=sh4bkvZQ1WE",
+      "source": "Curious Refuge (YouTube)",
+      "category": "movies",
+      "published_iso": "2026-11-12T14:19:42-08:00",
+      "excerpt": "Curious Refuge puts Kuaishou's new Kling 4.0 video model head-to-head with ByteDance's Seedance 2.5 on cinematic shots to test claims that Kling now leads AI filmmaking quality.",
+      "og_image": "https://i.ytimg.com/vi/sh4bkvZQ1WE/maxresdefault.jpg",
+      "history_match": {
+        "score": 0.224,
+        "date": "2026-10-29",
+        "url": "https://technode.com/2026/10/23/bytedance-launches-seedance-2-5-4k-video-model-for-film-production/",
+        "title": "ByteDance launches Seedance 2.5 4K video model for film production",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Netflix Officially Bans AI From Blue Eye Samurai Production",
+      "url": "https://www.cbr.com/blue-eye-samurai-netflix-ai-ban/",
+      "source": "CBR",
+      "category": "movies",
+      "published_iso": "2026-11-12T01:25:12Z",
+      "excerpt": "Fans of Netflix's French-produced samurai epic can breathe easy -- generative AI is not and never will be utilized by the series' production team.",
+      "og_image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/11/blue-eye-samurai-with-mizu-holding-a-sword.jpg?w=1600&h=900&fit=crop"
+    },
+    {
+      "title": "Even Martin Scorsese uses AI for storyboards. Can the art survive?",
+      "url": "https://www.theguardian.com/film/2026/nov/10/storyboard-artists-ai",
+      "source": "The Guardian",
+      "category": "movies",
+      "published_iso": "2026-11-10T13:00:24.000Z",
+      "excerpt": "As Hollywood begins to adopt the technology, the professionals in most direct jeopardy are the illustrators mapping out directors’ first visions. They sketch out what could be lost",
+      "og_image": "https://i.guim.co.uk/img/media/c9aabe04cbc4724110ea14f7d6a4bfe25a89ef20/58_263_5069_4056/master/5069.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2b0c11315b8bfe41142f048984e56547"
+    },
+    {
+      "title": "He played Samwise Gamgee and Rudy. His toughest role yet: trying to tame AI",
+      "url": "https://www.latimes.com/entertainment-arts/business/story/2026-11-15/sean-astin-sag-aftra-president-ai-hollywood-jobs",
+      "source": "Los Angeles Times",
+      "category": "movies",
+      "published_iso": "2026-11-15T11:00:00Z",
+      "excerpt": "SAG-AFTRA President Sean Astin of “Rudy” and “Lord of the Rings” fame is fighting for actors’ jobs and AI protections as Hollywood work shrinks.",
+      "og_image": "https://ca-times.brightspotcdn.com/dims4/default/5a1ef9a/2147483647/strip/true/crop/6000x3150+0+425/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fc2%2F1b%2F4eff67084c29a476d7f118aa53f1%2F1570555-fi-sag-aftra-president-sean-astin-rcg-8505.jpg"
     },
     {
       "title": "日, AI로 복제한 유명인 목소리·사진 무단 상업이용 규제 추진",
       "url": "https://www.yna.co.kr/view/AKR20261114030800073",
-      "source": "연합뉴스",
+      "source": "연합뉴스 (Yonhap)",
+      "category": "movies",
       "published_iso": "2026-11-14T13:08:53+09:00",
-      "excerpt": "일본 정부가 AI로 타인의 목소리나 사진을 복제해 상업적으로 무단 이용하는 행위를 법으로 규제하는 방안을 추진한다. 배우·성우 초상과 음성 보호에 직결되는 조치.",
-      "og_image": "https://img7.yna.co.kr/photo/cms/2024/05/24/30/PCM20240524000130990_P4.jpg",
-      "category": "movies"
+      "excerpt": "(도쿄=연합뉴스) 이도연 특파원 = 일본 정부가 인공지능(AI)으로 타인의 목소리나 사진을 복제해 상업적으로 무단 이용하는 행위를 법으로 규제하...",
+      "og_image": "https://img7.yna.co.kr/photo/cms/2024/05/24/30/PCM20240524000130990_P4.jpg"
+    },
+    {
+      "title": "AI 영화 '라파엘' 감독들, 전투보다 대화 장면이 더 어려웠던 이유 [엔터&피플]",
+      "url": "https://news.mtn.co.kr/article/2026111116260974407",
+      "source": "MTN 머니투데이방송",
+      "category": "movies",
+      "published_iso": "2026-11-15T09:00:30+09:00",
+      "excerpt": "인공지능(AI)이 구현할 수 있는 장면의 범위는 넓어졌지만, 그 안에 어떤 이야기를 담고 어떻게 감정을 전달할지는 여전히 창작자의 몫이다. AI 영화 '라파엘'을 공동 연출한 양익준, 문신우, 정주원 감독의 도전은 AI가 영화를 얼마나 쉽게 만드는지가 아니라, 창작자가…",
+      "og_image": "https://files.mtn.co.kr/article-asset/2026/11/11/0357371a-1a44-4792-9b86-c494bf0b922b.jpg"
+    },
+    {
+      "title": "[윤주혜의 C] 장편 영화부터 몰입형 상영관 제작까지… AI, 스크린으로 영토 넓힌다",
+      "url": "https://www.ajunews.com/view/20261114161619228",
+      "source": "아주경제",
+      "category": "movies",
+      "published_iso": "2026-11-16T00:00:00+09:00",
+      "excerpt": "인공지능(AI)이 영상을 만드는 방식뿐 아니라 보는 방식까지 바꾸고 있다. 생성형 AI로 제작한 장편 영화가 극장에 걸리고, 관객의 시야를 감싸는 초고해상도 몰입...",
+      "og_image": "https://image.ajunews.com/content/image/2026/11/14/20261114160135506506.jpg"
     },
     {
       "title": "AI Makes Production Cheap. Without the IP, It Still Doesn't Pay",
       "url": "https://www.kentertechhub.com/icnx-ai-production-en/",
       "source": "K-EnterTech Hub",
-      "published_iso": "2026-11-14T12:09:02+00:00",
-      "excerpt": "Generative AI cut a Pizza Hut commercial from KRW 2 billion to KRW 30 million; short-drama maker Hello Works says it has recouped 30% of its spend, and both firms now steer AI savings into owning IP. Off-list.",
-      "og_image": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/p4hhkd_202611141156.jpg",
-      "category": "movies"
+      "category": "movies",
+      "published_iso": "2026-11-14T12:09:02.000Z",
+      "excerpt": "Generative AI cut a Pizza Hut commercial from KRW 2 billion to KRW 30 million. Short-drama maker Hello Works said it has recouped 30% of its spend; producers keep 10–15% when a platform funds the show. Both companies said they now put AI savings into owning IP and co-production stakes.",
+      "og_image": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/p4hhkd_202611141156.jpg"
     },
     {
-      "title": "4BY4 brings AI video enhancement to Mac, DaVinci Resolve and Nuke",
-      "url": "https://www.kentertechhub.com/4by4-ai-pixell-macos-inter-bee-2026-en/",
-      "source": "K-EnterTech Hub",
-      "published_iso": "2026-11-12T07:16:00+00:00",
-      "excerpt": "4BY4 will unveil AI PIXELL PRO for macOS plus DaVinci Resolve and Nuke plug-ins at Inter BEE on Nov. 18 - local processing, perpetual license, aimed at post-production of generated and existing video. Off-list.",
-      "og_image": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/4hmeh8_202611120716.png",
+      "title": "Vir Hirani to voice Mowgli in AI-generated 'Jungle Book' film; Soumitra Ranade to direct - Reports",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vir-hirani-to-voice-mowgli-in-ai-generated-jungle-book-film-soumitra-ranade-to-direct-reports/articleshow/135845462.cms",
+      "source": "The Times of India",
       "category": "movies",
+      "published_iso": "2026-11-15T07:25:00+05:30",
+      "excerpt": "Vir Hirani will voice Mowgli in an AI-generated feature film inspired by The Jungle Book, to be directed by Soumitra Ranade, per reports.",
+      "og_image": "https://static.toiimg.com/thumb/msid-135845480,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg"
+    },
+    {
+      "title": "JioHotstar drops trailer for AI-powered Mahabharat: Ek Dharmayudh Season 2",
+      "url": "https://www.adgully.com/post/23784/jiohotstar-drops-trailer-for-ai-powered-mahabharat-ek-dharmayudh-season-2",
+      "source": "Adgully",
+      "category": "movies",
+      "published_iso": "2026-11-13T16:14:00+05:30",
+      "excerpt": "JioHotstar released the trailer for Season 2 of 'Mahabharat: Ek Dharmayudh', billed as India's first premium AI-powered series from Collective Studios' Historyverse, premiering Nov. 24.",
+      "og_image": "https://erp.adgully.com/artical_image/182cd6c2a42deda0bf9ba8da49451ca6.jpeg",
       "history_match": {
-        "score": 0.171,
-        "date": "2026-10-28",
-        "url": "https://nofilmschool.com/davinci-resolve-update-21-1-2",
-        "title": "DaVinci Resolve is Getting Faster as Latest Update Boosts IntelliSearch and OGraf Playback",
+        "score": 0.25,
+        "date": "2026-10-26",
+        "url": "https://variety.com/2026/tv/news/ai-india-mahabharat-series-indonesian-myth-1236930485/",
+        "title": "AI Firm Behind India’s ‘Mahabharat’ Series Turns to Indonesian Myth in Cross-Border IP Pact (EXCLUSIVE)",
         "band": "related"
       }
     },
     {
-      "title": "Vir Hirani to voice Mowgli in upcoming AI-generated feature film inspired by The Jungle Book",
-      "url": "https://www.bollywoodhungama.com/news/bollywood/vir-hirani-to-voice-mowgli-in-upcoming-ai-generated-feature-film-inspired-by-the-jungle-book/",
-      "source": "Bollywood Hungama",
-      "published_iso": "2026-11-14T07:50:03+00:00",
-      "excerpt": "An AI-generated Indian feature inspired by The Jungle Book, produced by Sripal Morakhia and directed by Soumitra Ranade, casts actor Vir Hirani as the human voice of Mowgli. Off-list; thin article.",
-      "og_image": "https://media5.bollywoodhungama.in/wp-content/uploads/2026/11/620x450-14112026-3.jpg.jpeg",
-      "category": "movies"
-    },
-    {
-      "title": "Skydance Bets On AI To Help Reduce Its $87 Billion Debt Burden",
-      "url": "https://www.cartoonbrew.com/business/skydance-ai-cost-cutting-87-billion-debt-269275.html",
-      "source": "Cartoon Brew",
-      "published_iso": "2026-11-11T00:46:04+00:00",
-      "excerpt": "David Ellison outlined plans to slash $6 billion in annual costs, promising AI will make film production faster and cheaper without replacing artists. Borderline business angle; Ellison remarks seen-but-unpicked earlier.",
-      "og_image": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/Skydance.jpg",
-      "category": "movies"
-    },
-    {
-      "title": "When Video Becomes an Interface | inside view",
-      "url": "https://www.youtube.com/watch?v=1XV_2WrnZH0",
-      "source": "Runway",
-      "published_iso": "2026-11-10T08:13:03-08:00",
-      "excerpt": "Inside Runway Labs, designers prototype what real-time video models enable: select anywhere to generate, video that re-renders as you resize it, and a drawing app that animates sketches in your style as you draw.",
-      "og_image": "https://i.ytimg.com/vi/1XV_2WrnZH0/maxresdefault.jpg",
+      "title": "Alvin & The Chipmunks Just Made Their AI Controversy Much Worse Ahead of New Movie",
+      "url": "https://comicbook.com/movies/news/alvin-the-chipmunks-just-made-their-ai-controversy-much-worse-ahead-of-new-movie/",
+      "source": "ComicBook.com",
       "category": "movies",
+      "published_iso": "2026-11-15T17:22:57+00:00",
+      "excerpt": "Fans say a new 'Lil' Alvin and the Chipmunks' video on the franchise's official YouTube channel was fully AI-generated, deepening backlash that began with a seemingly AI-made redesign ahead of the reboot feature.",
+      "og_image": "https://comicbook.com/wp-content/uploads/sites/4/2026/11/Alvin-and-the-Chipmunks-AI-Controversy-Fan-Backlash.jpg?resize=2000,1125"
+    },
+    {
+      "title": "Yoruba AI film expands to US TV",
+      "url": "https://punchng.com/yoruba-ai-film-expands-to-us-tv/",
+      "source": "Punch",
+      "category": "movies",
+      "published_iso": "2026-11-15T00:14:09+00:00",
+      "excerpt": "The Yoruba AI film, 'Asiri Ilu Awon Osu', is now available on US-based AfrolandTV following its initial release and technical issues on the Docuth platform",
+      "og_image": "https://cdn.punchng.com/wp-content/uploads/2026/11/15011352/Screenshot-2026-11-15-011246_1794701632.webp"
+    },
+    {
+      "title": "Award-Winning Sci-Fi Short RUS-T Surpasses 1 Million Views, Unveiling a Game-Changing Hybrid Workflow",
+      "url": "https://3dvf.com/en/award-winning-sci-fi-short-rus-t-surpasses-1-million-views-unveiling-a-game-changing-hybrid-workflow/",
+      "source": "3DVF",
+      "category": "movies",
+      "published_iso": "2026-11-13T17:07:16+01:00",
+      "excerpt": "Written and produced by John C. Martin II, the AI sci-fi short RUS-T has become a breakout success story for Reallusion AI Studio.",
+      "og_image": "https://3dvf.com/wp-content/uploads/2026/11/rus-t.webp",
       "history_match": {
-        "score": 0.154,
-        "date": "2026-10-28",
-        "url": "https://www.youtube.com/watch?v=NAKB5ixP6Kw",
-        "title": "The new rules of safety in an era of real-time video generation | Runway AI Summit SF 2026",
+        "score": 0.152,
+        "date": "2026-10-18",
+        "url": "https://www.indiewire.com/features/craft/artlist-the-arc-tests-if-ai-can-make-sci-fi-series-1235222447/",
+        "title": "Can AI Make a Sci-Fi Series for $38,000? Artlist's 'The Arc' Puts It to the Test",
+        "band": "related"
+      }
+    },
+    {
+      "title": "AI 숏드라마 준비하던 다음, 내년 1분기 출시 확정...시나리오 받아 직접 제작",
+      "url": "https://www.techm.kr/news/articleView.html?idxno=157198",
+      "source": "테크M",
+      "category": "movies",
+      "published_iso": "2026-11-11T12:40:12+09:00",
+      "excerpt": "포털 다음이 내년 1분기 AI 숏드라마 서비스를 출시한다. 시나리오는 외부에서 공수하고 제작에는 AI 도구를 쓴다. 지난 7월 콘텐츠 제작 인력을 모집한 데 이어 서비스 출시 일정까지 공개했다.11일 콘텐츠업계에 따르면 다음은 이달 '제1회 다음 AI 숏드라마 시나리오 공모전' 모집 공고를 내고 최대 20편의 시나리오를 AI 영상으로 제작하겠다고 밝혔다. 선정작은 다음이 내년 1분기 출시하는 신규 숏드라마 서비스에서 공개한다.회당 2분 내외, 총 15부작으로 구성된 시나리오를 뽑아 작품당 100만원씩 총 2000만원을 지급할 계획이",
+      "og_image": "https://cdn.techm.kr/news/thumbnail/202611/157198_225251_2956_v150.jpg"
+    },
+    {
+      "title": "아리아스튜디오, CES 2027 혁신상 수상…관객 참여형 AI 영화 기술 인정",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217192",
+      "source": "AI타임스",
+      "category": "movies",
+      "published_iso": "2026-11-10T09:00:00+09:00",
+      "excerpt": "AI 콘텐츠 전문 아리아스튜디오(대표 채수응)가 관객이 영화 속 캐릭터와 실시간으로 대화하고 이야기 전개에 참여할 수 있는 기술로 'CES 2027 혁신상'을 수",
+      "og_image": "https://cdn.aitimes.com/news/photo/202611/217192_221409_3757.jpg"
+    },
+    {
+      "title": "언에이아이, 웹서밋서 AI 더빙 엔진 ‘DynEx’로 글로벌 현지화 시장 공략… \"비용은 10분의 1, 전달은 8배 빠르게\"",
+      "url": "https://kr.aving.net/news/articleView.html?idxno=1816940",
+      "source": "에이빙 (Aving)",
+      "category": "movies",
+      "published_iso": "2026-11-11T19:14:17+09:00",
+      "excerpt": "언에이아이(AnAI)가 지난 10일(현지시간) ‘Web Summit 2026’이 열린 포르투갈 리스본 현장에서 AI 더빙 엔진 ‘DynEx’와 AI 스포츠 중계 서비스 ‘ASC’를 선보였다. 서울경제진흥원(SBA) 서울관에 참여해 해외 OTT·FAST 플랫폼, 방송사, 콘텐츠 사업자를 상대로 다국어 현지화 기술을 알렸다.개막 전날인 9일 저녁에는 김영 대표가 유니콘 팩토리 리스보아에서 열린 '인터내셔널 피치 나이트' 무대에 올랐다. 한국, 네덜란드, 폴란드, 포르투갈, 브라질 5개국 20개 스타트업이 2분 피치로 겨룬 자리에서, 그",
+      "og_image": "https://cdn.kr.aving.net/news/photo/202611/1816940_786228_258.jpg"
+    },
+    {
+      "title": "덱스터, AI VFX로 미디어아트 확장…'플래시백 계림' 전시",
+      "url": "https://zdnet.co.kr/view/?no=20261112133150",
+      "source": "지디넷코리아",
+      "category": "movies",
+      "published_iso": "2026-11-12T13:40:01+09:00",
+      "excerpt": "덱스터스튜디오가 인공지능(AI) 기반 시각특수효과(VFX) 기술을 활용해 기존 미디어아트 콘텐츠를 대형 전시 공간에 맞게 재구성했다.덱스터스튜디오(이하 덱스터)는 'AI 콘텐츠 페스티벌 2026'에 참가해 자회사 플래시백그라운드의 몰입형 미디어아트 '플래시백 계림...",
+      "og_image": "https://image.zdnet.co.kr/2026/11/12/1766270f78eb3f78e26f3b66b2676292.jpg"
+    },
+    {
+      "title": "Bad Interview Audio? Premiere Can Fix That.",
+      "url": "https://nofilmschool.com/bad-interview-audio-premiere-can-fix-that",
+      "source": "No Film School",
+      "category": "movies",
+      "published_iso": "2026-11-13T20:00:03+00:00",
+      "excerpt": "Explore Premiere's new audio tools for removing noise, separating overlapping voices, balancing dialogue, and rebuilding sound in your video edits.",
+      "og_image": "https://nofilmschool.com/media-library/image.png?id=68658354&width=1200&height=600&coordinates=0%2C40%2C0%2C40",
+      "history_match": {
+        "score": 0.294,
+        "date": "2026-10-20",
+        "url": "https://www.provideocoalition.com/stem-separation-moves-into-the-edit-what-enhance-audio-changes-for-dialogue-workflows-in-premiere-beta/",
+        "title": "Stem Separation Moves Into the Edit: What Enhance Audio Changes for Dialogue Workflows in Premiere (Beta)",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Camerimage Founder Marek Zydowicz on AI, Aronofsky and Why “Cinematographers Are Artists, Not Technicians”",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/camerimage-founder-marek-zydowicz-ai-aronofsky-cinematographers-1236749343/",
+      "source": "The Hollywood Reporter",
+      "category": "movies",
+      "published_iso": "2026-11-08T00:11:43+00:00",
+      "excerpt": "Camerimage founder Marek Zydowicz tells THR how the cinematography festival is confronting AI and why 'cinematographers are artists, not technicians.'",
+      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/EnergaCAERIMAGE_-2024_MB-16.jpg?w=1440&h=810&crop=1",
+      "history_match": {
+        "score": 0.233,
+        "date": "2026-11-09",
+        "url": "https://www.hollywoodreporter.com/movies/movie-news/camerimage-2026-artificial-darren-aronofsky-janusz-kaminski-1236750348/",
+        "title": "Camerimage Opens With a Robot, an AI Reckoning and a Minute of Silence for Kraków",
         "band": "related"
       }
     }
   ],
   "dedup": {
     "dropped": 0,
-    "kept": 9,
+    "kept": 22,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
     "dropped": [],
-    "review": 3,
+    "review": 6,
     "same_story_pairs": []
   },
   "history_digest": [
-    {
-      "date": "2026-10-16",
-      "title": "Maxon's Fall 2026 Release Brings Bigger Worlds, Faster Workflows, and Major Updates",
-      "url": "https://nofilmschool.com/maxon-fall-2026-ecosystem-release"
-    },
-    {
-      "date": "2026-10-16",
-      "title": "Critics Vindicate 'Artificial' After Messy Amazon MGM Breakup (and the Studios vs. Talent Wars Around AI Are Just Beginning)",
-      "url": "https://variety.com/2026/film/news/amazon-studios-ai-artificial-acclaim-dropped-1236912439/"
-    },
-    {
-      "date": "2026-10-16",
-      "title": "Astra Studios Launches AstraLabs, Teams with VerSe on AI Pipeline",
-      "url": "https://www.awn.com/news/astra-studios-launches-astralabs-teams-verse-ai-pipeline"
-    },
-    {
-      "date": "2026-10-16",
-      "title": "Animation And VFX Leaders Discuss AI And Jobs At View Conference",
-      "url": "https://www.cartoonbrew.com/events/studio-executive-roundtable-view-conference-267928.html"
-    },
-    {
-      "date": "2026-10-16",
-      "title": "Nobody is safe from celebrity AI deepfakes",
-      "url": "https://www.theverge.com/report/1011927/instagram-celebrity-ai-slop-likeness-taylor-swift-mia-goth"
-    },
     {
       "date": "2026-10-17",
       "title": "Mark Wahlberg on using AI in film 'the right way' and being open to an AI clone carrying on his legacy",
@@ -802,6 +915,31 @@
       "date": "2026-11-14",
       "title": "Shortical's AI-Generated 'Inevitable' Premieres With Approved AI Double From Aki Avni",
       "url": "https://www.thewrap.com/creative-content/tv-shows/shorticals-ai-generated-microseries-inevitable-premieres-aki-avni-ai-actor/"
+    },
+    {
+      "date": "2026-11-15",
+      "title": "Nearly 80% of ACE Editors Surveyed Are Using AI, New Report Finds: 'You Adapt or Die'",
+      "url": "https://variety.com/2026/biz/news/surveyed-ace-editors-using-ai-avid-data-finds-1236947004/"
+    },
+    {
+      "date": "2026-11-15",
+      "title": "Animaj Brings 'Ozzy Fox' Series to Disney Plus as It Charts a Path for AI in Animation",
+      "url": "https://www.cnet.com/tech/services-and-software/animaj-ozzy-fox-series-disney-plus-ai-agentic-animation/"
+    },
+    {
+      "date": "2026-11-15",
+      "title": "4BY4 brings AI video enhancement to Mac, DaVinci Resolve and Nuke",
+      "url": "https://www.kentertechhub.com/4by4-ai-pixell-macos-inter-bee-2026-en/"
+    },
+    {
+      "date": "2026-11-15",
+      "title": "This Startup Is Betting on AI Microdramas to Get More Black Stories in Hollywood",
+      "url": "https://www.wired.com/story/black-roles-are-disappearing-in-hollywood-this-startup-is-using-ai-microdramas-to-fight-back/"
+    },
+    {
+      "date": "2026-11-15",
+      "title": "When Video Becomes an Interface | inside view",
+      "url": "https://www.youtube.com/watch?v=1XV_2WrnZH0"
     }
   ]
 }

@@ -1,7 +1,33 @@
-{"date":"2026-11-15","section":"movies","media":[
- {"id":"movies-ace-editors-avid-survey","type":"image","src":"pipeline/media/movies-ace-editors-avid-survey.jpg"},
- {"id":"4by4-pixell-pro-macos","type":"image","src":"pipeline/media/4by4-pixell-pro-macos.png"},
- {"id":"runway-labs-video-interface","type":"video","src":"pipeline/media/runway-labs-video-interface.mp4","poster":"pipeline/media/runway-labs-video-interface.jpg"},
- {"id":"mansa-ai-microdramas-black-stories","type":"image","src":"pipeline/media/mansa-ai-microdramas-black-stories.jpg"},
- {"id":"animaj-ozzy-fox-disneyplus","type":"image","src":"pipeline/media/animaj-ozzy-fox-disneyplus.jpg"}
-]}
+{
+  "date": "2026-11-16",
+  "section": "movies",
+  "media": [
+    {
+      "id": "runway-genre-violence-policy",
+      "type": "video",
+      "src": "pipeline/media/runway-genre-violence-policy.mp4",
+      "poster": "pipeline/media/runway-genre-violence-policy.jpg"
+    },
+    {
+      "id": "kling4-seedance-test",
+      "type": "video",
+      "src": "pipeline/media/kling4-seedance-test.mp4",
+      "poster": "pipeline/media/kling4-seedance-test.jpg"
+    },
+    {
+      "id": "netflix-blue-eye-samurai-ai",
+      "type": "image",
+      "src": "pipeline/media/netflix-blue-eye-samurai-ai.jpg"
+    },
+    {
+      "id": "guardian-storyboard-artists-ai",
+      "type": "image",
+      "src": "pipeline/media/guardian-storyboard-artists-ai.jpg"
+    },
+    {
+      "id": "chilemonos-2027-ai-rules",
+      "type": "image",
+      "src": "pipeline/media/chilemonos-2027-ai-rules.jpg"
+    }
+  ]
+}

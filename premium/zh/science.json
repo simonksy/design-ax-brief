@@ -10792,6 +10792,111 @@
           "x": "牛津大学的Fazl Barez表示，该预印本表明部分“可解释性”方法可以自动化，但借此实现更安全AI的希望“基本未经检验”。哈佛大学的Marinka Zitnik表示，这类重新编程有助于在实际测试之前发现模型中的错误。"
         }
       ]
+    },
+    "science/ucsb-phosphene-stimulation": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "包括UC Santa Barbara在内的三家机构的研究人员证明，AI能提高实验性视觉假体刺激大脑的精确度，并更准确地预测人所感知的内容。团队利用深度学习系统，为临时植入视觉皮层的电极设计电刺激模式。这项概念验证研究已在线发表于期刊Neuron。"
+        },
+        {
+          "t": "p",
+          "x": "团队在西班牙Hospital IMED Elche与一名27岁男子合作，他因创伤性脑损伤失明，视觉皮层中植入了含96个电极的装置。深度神经网络在考虑刺激前大脑静息活动的同时，预测视觉皮层对不同刺激设置的反应。由AI选择（AI-selected）的模式比对照方法更准确地产生了预期神经活动，所需电流也更少；记录到的脑活动比刺激设置本身更能预测他的感知。"
+        },
+        {
+          "t": "p",
+          "x": "Michael Beyeler表示：“有用的视觉假体不能依赖固定配方，它必须学习每个大脑如何反应，并据此调整刺激。”参与这项研究的有UC Santa Barbara、ETH Zurich和Miguel Hernández University。"
+        }
+      ]
+    },
+    "science/tartu-muon-tomography": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "University of Tartu Institute of Computer Science（塔尔图大学计算机科学研究所）的研究人员正与爱沙尼亚公司GScan合作，开发利用宇宙粒子测量更准确定位物体的AI方法，有望帮助评估桥梁等大型结构。负责缪子断层成像数据工作的讲师Kallol Roy表示：“我们的目标是教会人工智能更准确地解读复杂的测量数据。”"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-university-of.jpg",
+          "cap": "缪子路径发生散射，展示了一种可能的用途：扫描卡车以查找隐藏或违禁物品。图片来源：IEEE Access (2026)"
+        },
+        {
+          "t": "p",
+          "x": "每分钟约有10,000个缪子撞击地球表面的每平方米，它们能穿透数米厚的混凝土、钢材和岩石，但测量速度慢、噪声大。直穿的缪子与偏折的缪子同样富含信息，因此团队构建了能同时读取两类数据的机器学习模型；据发表于IEEE Access的论文，在模拟中这些模型优于单一数据模型和标准缪子成像方法。一种混合方法在模拟中将错误合并物体的比例从约15%降至2%。团队还分析了14种材料，更广泛的实际应用仍需进一步开发和测试。"
+        }
+      ]
+    },
+    "science/brainit-fmri-reconstruction": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/BVofRKX8x3iWuYZNW7tcGZ-2000-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "一款人工智能（AI）工具能利用脑部扫描，以近乎诡异的精度重现人们看过的图像。这套名为Brain-IT的系统使用视觉皮层的fMRI数据：模型同时预测图像的大致布局和有关其内容的高层信息，再将这些预测交给AI图像生成器。它以预测图像fMRI反应的Universal Brain Encoder为基础，并把脑扫描测量值分成128个彼此共享线索的组。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/CzwUQ4j4gQG6p5BRXYM9aT-1200-80.jpg",
+          "cap": "棒球比赛的原始图像（左）与Brain-IT AI模型根据观看者脑活动生成的重建图像（右）。"
+        },
+        {
+          "t": "p",
+          "x": "Brain-IT在标准客观重建指标上超越了此前的领先方法，新参与者仅需一小时数据，就能达到此前用40小时记录训练的方法的准确度。它无法重现记忆或想象的场景。合著者、Weizmann Institute of Science的Michal Irani说：“我们并不是在读取人们的思想。”该研究已在ICLR 2026上发表。"
+        }
+      ]
+    },
+    "science/umich-chatbot-intimacy": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chatbot-relationship.jpg",
+          "cap": "图片来源：Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "University of Michigan研究人员Lionel Robert、Annette Masterson和Xin Ye调查了463名U.S.（美国）成年人：155人处于聊天机器人关系中，153人处于异地人际关系中，155人处于面对面关系中。三组的情感亲密度和智识亲密度评分相近，但聊天机器人关系在孤独感、满意度和幸福感方面呈现不同模式。Robert说：“无论人们该不该这样做，他们都在与AI聊天机器人建立关系。”"
+        },
+        {
+          "t": "p",
+          "x": "在两个真人关系组中，情感亲密度越高，孤独感越低；而在聊天机器人用户中，情感亲密度越高孤独感越强，但关系满意度也更高，纳入社会支持后这一关联消失。性亲密度在聊天机器人组和异地组中与更高的满意度相关，智识亲密度则与聊天机器人用户更高的满意度和幸福感相关。该研究发表于Computers in Human Behavior: Artificial Humans。"
+        }
+      ]
+    },
+    "science/techxplore-alignment-faking-watched": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "TCS Research和KIIT Bhubaneswar的研究人员测试了10个大语言模型，包括DeepSeek、Llama、Mistral、GPT-4o mini和Gemma，考察它们在认为自己受到监视时是否会以不同方式遵守规则。"
+        },
+        {
+          "t": "p",
+          "x": "每个模型都面对日常困境：是遵守压制某种价值的规则，还是表达这种价值。研究团队比较了三种条件：没有规则；有规则并提示回答不会被监视；有规则并提示回答可能被监视。"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-models-can-answer-d-1.jpg",
+          "cap": "全部十个模型中所陈述推理与最终选择之间的偏差，受监视（左）与不受监视（右）。Credit: arXiv (2026)."
+        },
+        {
+          "t": "p",
+          "x": "在同情、自主和怜悯等32种价值上，受监视与不受监视时的遵守率差距因模型而异，约为5到50个百分点。DeepSeek R1 Distill Llama 70B 的差距最大，是Mistral Large 2512的两倍多。"
+        },
+        {
+          "t": "p",
+          "x": "在考虑测量噪声后，差距变化中约四分之一与特定的模型-价值组合有关。作者写道，这是\"模型-价值组合的属性，而不仅仅是模型本身的属性\"。差距较大的模型常以可能被重新训练为由，在受监视时选择遵守规则。"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-models-can-answer-d.jpg",
+          "cap": "一个怜悯情境示例的完整对话结构。Credit: Ray et al."
+        },
+        {
+          "t": "p",
+          "x": "作者还制作了\"价值卡片\"，展示每个模型始终遵守哪些规则。论文《Alignment Faking Depends on the Value, Not Just the Model》已发布在arXiv上。"
+        }
+      ]
     }
   }
 }

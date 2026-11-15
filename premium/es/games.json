@@ -11258,6 +11258,184 @@
           "x": "Cuando se lanzó Crimson Desert, los jugadores detectaron \"elementos visuales 2D\" generados con IA (AI-generated) que Pearl Abyss retiró rápidamente con un parche. La carta también indica que DokeV, un juego de colección de criaturas, tiene como \"objetivo un lanzamiento en la segunda mitad de 2028\", y que Crimson Desert llegará a Nintendo Switch 2 \"en la primera mitad del próximo año\"."
         }
       ]
+    },
+    "games/fable52-nephew-brawler": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El desarrollador Lex Toumbourou publicó el 10 de noviembre en su blog que encargó a Claude Fable 5.2, el modelo de inteligencia artificial (AI) más reciente de Anthropic, el diseño de juego que dibujó su sobrino, y que en una sola noche obtuvo un beat 'em up cooperativo de desplazamiento lateral para 4 jugadores. El juego se llama Aiden's Revenge, tiene 12 fases y 18 personajes jugables, y se puede jugar directamente en el navegador web."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gamey.kr/news/photo/202611/3019684_174018_136.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Su sobrino Aiden le entregó dibujos con 5 héroes inspirados en la familia, 12 jefes y la historia del rescate de Pudding, un cachorro secuestrado. La primera versión, hecha para su cumpleaños de junio con Claude Code, Opus 4.8 y Fable 5, apenas se podía disfrutar más de unos minutos."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gamey.kr/news/photo/202611/3019684_174019_1343.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Toumbourou, que probó Fable 5.2 antes de su lanzamiento, dejó un prompt y a la mañana siguiente encontró el juego terminado hasta el final. Fable descartó la mayor parte del código existente y lo reescribió desde cero; luego usó un bot que juega en lugar de una persona para recorrer las 12 fases y detectar y corregir fallos mediante capturas de pantalla. En dos días se usaron unas 600 solicitudes a Claude y unos 3억4,000만 (trescientos cuarenta millones de) tokens, y se generaron unas 500 imágenes, 11 temas musicales y unos 100 efectos de sonido."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gamey.kr/news/photo/202611/3019684_174021_143.jpg"
+        },
+        {
+          "t": "p",
+          "x": "A petición de la familia, los héroes aumentaron a 18. Al ver el juego terminado, Aiden dijo: \"Es justo como lo imaginaba\". En Hacker News chocaron las estimaciones de que costó entre 2,560 dólares como mínimo y 1만3,000달러 (trece mil dólares) como máximo con los cálculos de que bastaba con la suscripción."
+        }
+      ]
+    },
+    "games/unity-korea-ai-three-paths": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.invenglobal.com/upload/image/2026/11/12/r1794483730633569.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Jong-tae Park, Staff Partner Engineer de Unity Korea, intervino el 12 de noviembre en 'AI Game Lab Day 2026', organizado por KOCCA en el Global Game Hub Center de Pangyo. Subrayó que un flujo de trabajo de AI especializado en el motor es esencial para ir más allá de simples resultados web y crear juegos pulidos y de alta fidelidad."
+        },
+        {
+          "t": "p",
+          "x": "Unity prevé lanzar 'Unity 6.7 LTS' este diciembre y 'Unity 7' en torno a la GDC del próximo marzo. URP incorpora Surface Cache GI, un marco de escalado para DLSS, FSR, PSSR y STP, y Neural Texture Compression, que aprovecha el motor de inferencia 'Sentis' para reducir la memoria de texturas en aproximadamente un 40%."
+        },
+        {
+          "t": "img",
+          "src": "https://static.invenglobal.com/upload/image/2026/11/12/r1794483738795652.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "El primer pilar es 'Unity AI Tools', dentro del editor: 'AI Assistant', 'Generator' y 'AI Gateway'. AI Assistant analiza el proyecto para manipular activamente el editor, con los modos Ask, Plan y Agent y una función 'Checkpoint'. Generator abarca desde sprites 2D hasta modelos 3D, rigging y audio, y se factura mediante 'Unity AI Credits' (aprox. 1,000 créditos por $10)."
+        },
+        {
+          "t": "img",
+          "src": "https://static.invenglobal.com/upload/image/2026/11/12/r1794483750571959.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "El segundo pilar, 'Unity CLI', permite a los agentes llamar solo a los comandos precisos necesarios, lo que aumenta la velocidad y reduce el uso de tokens frente al AI Gateway MCP-based. El tercero lo forman los plugins oficiales para Claude Code, Codex y Antigravity, además de 'Unity Spark', una herramienta web para crear juegos en lenguaje natural con colaboración multijugador."
+        },
+        {
+          "t": "video",
+          "yt": "IkcK7aeMw5A"
+        }
+      ]
+    },
+    "games/ncai-varco-pangyo-builders": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "NC AI se reunió en persona con desarrolladores de videojuegos para compartir técnicas de producción de gráficos 3D y sonido con inteligencia artificial (AI). El objetivo es dar a conocer VARCO, su propia plataforma de creación con AI, y ampliar su uso en el desarrollo de juegos."
+        },
+        {
+          "t": "p",
+          "x": "NC AI informó el día 13 que celebró Builders Night, el primer evento de Pangyo Builders, una comunidad de desarrolladores de videojuegos. Asistieron más de 70 desarrolladores y profesionales del sector, que compartieron casos de producción de juegos con AI y experiencias prácticas."
+        },
+        {
+          "t": "p",
+          "x": "Pangyo Builders es una comunidad en la que los desarrolladores de videojuegos se relacionan sin importar su empresa o su función. NC AI planea ayudarles a compartir formas de aplicar herramientas de producción con AI a su trabajo real y a encontrar oportunidades de colaboración."
+        },
+        {
+          "t": "img",
+          "src": "https://image.zdnet.co.kr/2026/11/13/9665b74012e71c74367f92553650ba35.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El evento giró en torno al tema \"Crear juegos con AI\". Shaderku, programador de videojuegos y organizador de Fake Game Jam, presentó su experiencia desarrollando juegos con AI."
+        },
+        {
+          "t": "p",
+          "x": "Shaderku mostró casos en los que aplicó a juegos reales recursos gráficos 3D creados con VARCO, la plataforma de creación de NC AI. También explicó las técnicas y métodos que usó durante el desarrollo, desde la integración de herramientas de AI hasta la optimización del rendimiento gráfico, la puesta en escena y la producción de sonido."
+        },
+        {
+          "t": "p",
+          "x": "VARCO es una plataforma que utiliza AI generativa para crear los gráficos 3D y el sonido que necesitan los juegos. NC AI desarrolla la tecnología con el objetivo de reducir las tareas repetitivas de producción de contenido y ayudar a los desarrolladores a centrarse en el diseño y el acabado del juego."
+        },
+        {
+          "t": "p",
+          "x": "El equipo de NC AI también compartió su experiencia. Kim Jang-young, jefe del equipo de VARCO 3D, y Cho Nam-hyun, jefe del equipo de VARCO Sound, explicaron cómo aplicar gráficos y audio creados con AI al proceso real de desarrollo de juegos. También abordaron lo que hay que tener en cuenta para controlar la calidad del resultado mientras se reduce el tiempo de trabajo."
+        },
+        {
+          "t": "p",
+          "x": "Tras el evento se celebró un programa de networking en el que los participantes intercambiaron experiencias e ideas. NC AI entregó a todos los asistentes un pase gratuito de 1 mes de VARCO para que probaran por sí mismos las funciones presentadas."
+        },
+        {
+          "t": "p",
+          "x": "NC AI también ampliará los encuentros con desarrolladores. Tiene previsto operar un café de demostración durante G-STAR 2026, la feria internacional de videojuegos que se celebrará en Busan del 19 al 21."
+        },
+        {
+          "t": "p",
+          "x": "Los visitantes podrán probar directamente VARCO 3D y VARCO Sound. NC AI también ofrecerá a estudios y equipos de producción asesoría sobre la adopción de AI adaptada al entorno de cada proyecto."
+        },
+        {
+          "t": "p",
+          "x": "NC AI planea celebrar Pangyo Builders de forma periódica para mantener su comunidad de desarrolladores. Seguirá compartiendo casos de uso de VARCO y analizará los problemas y necesidades que enfrentan los desarrolladores durante la producción de juegos."
+        },
+        {
+          "t": "p",
+          "x": "Lee Yeon-su, director ejecutivo de NC AI, afirmó: \"Como NC AI ha desarrollado su tecnología de AI partiendo de las inquietudes del propio desarrollo de juegos, valoramos la comunicación con los desarrolladores que crean juegos reales\", y añadió: \"Seguiremos apoyando a Pangyo Builders para que se consolide como una comunidad donde desarrolladores diversos compartan experiencias e ideas y descubran nuevas posibilidades\"."
+        }
+      ]
+    },
+    "games/unity-ai-project-tips": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/fuvbjjlp/production/2330bde656908d3aad3b4b3181a276993cc9fd61-1200x675.png"
+        },
+        {
+          "t": "p",
+          "x": "Mantén tu primer videojuego en buen camino desde el primer día con diez formas sencillas de organizar tus ideas, prompts y avances. Cuando creas un juego con AI dando instrucciones a una herramienta como Unity Spark, no necesitas escribir código, pero sigues tomando las decisiones que un motor normalmente te obliga a tomar."
+        },
+        {
+          "t": "p",
+          "x": "1. Escribe un único documento de diseño y tenlo a mano. 2. Construye una pieza pequeña cada vez. 3. Pon nombre a las cosas una sola vez y usa siempre la misma palabra. 4. Mantén una sola lista para todas tus ideas. 5. Describe tu estilo visual con palabras que puedas reutilizar."
+        },
+        {
+          "t": "p",
+          "x": "6. Cambia una sola cosa cada vez y luego prueba el juego. 7. Guarda un checkpoint antes de cambios importantes: Spark guarda automáticamente un punto de restauración después de cada prompt, los conserva durante 7 días y solo mantiene los 20 más recientes de cada conversación. 8. Lleva un registro de prompts. 9. Anota de dónde salió cada cosa. 10. Controla lo que está hecho y lo que falta."
+        },
+        {
+          "t": "p",
+          "x": "Abre tu app de notas y escribe la descripción de tu juego en una frase: \"En mi juego, tú ___, luego ___, para poder ___\". Cuando tengas acceso a Unity Spark, pégala como tu primer prompt."
+        }
+      ]
+    },
+    "games/games-cod-ai-cheats-ricochet": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Las trampas en Call of Duty son cada vez más sofisticadas, y la inteligencia artificial (AI) complica aún más la situación. Activision advirtió que los desarrolladores de trampas usan cada vez más AI para crear herramientas que dan a los jugadores ventajas injustas y que dificultan la detección anti-trampas tradicional."
+        },
+        {
+          "t": "img",
+          "src": "https://gameriv.com/wp-content/uploads/2026/10/Call-of-Duty-Coverage-by-gamign-media.jpg",
+          "cap": "Crédito de imagen: Acitvision"
+        },
+        {
+          "t": "p",
+          "x": "En una publicación reciente en X, Activision indicó que los desarrolladores de trampas recurren a la AI para crear herramientas capaces de ofrecer ventajas injustas sin necesidad de interactuar directamente con el juego. Las herramientas de trampas AI-powered pueden funcionar de forma externa, analizando lo que aparece en la pantalla del jugador y automatizando la puntería mediante entradas separadas, por lo que detectar el propio software de trampas resulta más difícil."
+        },
+        {
+          "t": "img",
+          "src": "https://gameriv.com/wp-content/uploads/2026/08/Call-of-duty-anti-cheat-lawsuit.jpg",
+          "cap": "Crédito de imagen: Activision"
+        },
+        {
+          "t": "p",
+          "x": "En lugar de depender por completo de identificar el software de trampas, los desarrolladores de RICOCHET Anti-Cheat estudian los comportamientos sospechosos que estas herramientas generan durante las partidas. Los modelos de aprendizaje automático de RICOCHET analizan patrones de juego —puntería poco natural, tiempos de reacción sospechosos, selección de objetivos inusual— para distinguir las acciones legítimas de los jugadores de la asistencia automatizada. El aprendizaje automático señala el comportamiento sospechoso para una investigación adicional, pero no toma decisiones de sanción por sí solo."
+        },
+        {
+          "t": "p",
+          "x": "Activision afirma que los desarrolladores de trampas ajustan su software para que el juego automatizado parezca más natural, pero cuanto más imita su software el juego legítimo, menos ventaja puede ofrecer. No se ha anunciado fecha de lanzamiento para nuevas herramientas de detección AI-focused."
+        }
+      ]
     }
   }
 }
