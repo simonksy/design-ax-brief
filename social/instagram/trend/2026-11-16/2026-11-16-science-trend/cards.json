@@ -1,0 +1,113 @@
+{
+  "meta": {
+    "issue": "AI, 뇌를 읽고 쓰기 시작하다",
+    "date": "2026.11.16",
+    "section": "SCIENCE",
+    "accent": "#3aa655",
+    "note": "원문 4건 대조(medicalxpress는 차단돼 수집 단계 전문으로 확인, ScienceDaily·게재일은 직접 확인). 장 날짜는 카드 날짜, 출처 날짜는 원문 게재일. 어제 과학 trend(검출기 ML)와 겹치지 않게 뇌 묶음으로 잡음. 사진은 Concept2Brain 한 장, 나머지 stat·quote. 수치 1.4도·4.5도, 88명·360장, 40시간→1시간, 전극 96개·27세 확인.",
+    "sources": [
+      "Medical Xpress — Generative AI fills gaps in brain wiring maps where MRI scans lose signal (2026.11.04)",
+      "ScienceDaily — AI-powered bionic eye breakthrough could help the blind see again (2026.11.12)",
+      "Live Science — This AI finds patterns in visual brain activity and turns them into pictures (2026.11.13)",
+      "PsyPost — Scientists built an AI called 'Concept2Brain' that simulates human brain waves from pictures and text (2026.11.13)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 과학 · 11.08~11.16",
+      "thread": [
+        {
+          "d": "11.8",
+          "t": "빈 신호",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        },
+        {
+          "d": "11.14",
+          "t": "뇌파 생성",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        },
+        {
+          "d": "11.16",
+          "t": "장면 복원",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        },
+        {
+          "d": "11.16",
+          "t": "자극 설계",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        }
+      ],
+      "thread_note": "AI가 뇌 신호를 메우고, 만들고, 읽고, 자극까지 설계한다",
+      "eyebrow": "흐름 · 과학",
+      "headline": "AI, 뇌를 읽고\n쓰기 시작하다",
+      "body": "하나씩 보면 각기 다른 뇌 연구다. 열흘 남짓 사이 AI가 빈 신호를 메우고, 뇌파를 만들고, 본 장면을 읽고, 자극까지 짰다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "stat",
+      "eyebrow": "2026.11.08",
+      "headline": "MRI가 놓친\n뇌 배선을 메우다",
+      "body": "USC FOD-Diffusion은 자기장 왜곡으로 지워진 뇌간 신호를 채운다. 저자는 측정값 아닌 추정치이고 진료엔 검증 전이라 했다.",
+      "foot": "2026.11.08",
+      "_src": "https://medicalxpress.com/news/2026-11-generative-ai-gaps-brain-wiring.html",
+      "_id": "science-fod-diffusion-brain",
+      "stat_top": "다른 AI 최고 약 4.5도",
+      "stat_arrow": "뇌간 섬유 방향 평균 오차",
+      "stat_bottom": "약 1.4도",
+      "stat_strike": false
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.11.14",
+      "headline": "사진만 보고\n뇌파를 그려내다",
+      "body": "Concept2Brain은 사진·글의 EEG 반응을 합성한다. 88명이 본 사진 360장으로 배웠지만 실제 실험을 대신하진 못한다.",
+      "foot": "2026.11.14",
+      "_src": "https://www.psypost.org/scientists-built-an-ai-called-concept2brain-that-simulates-human-brain-waves-from-pictures-and-text/",
+      "_id": "concept2brain-eeg-sim",
+      "media": "pipeline/media/concept2brain-eeg-sim.jpg"
+    },
+    {
+      "n": 4,
+      "kind": "stat",
+      "eyebrow": "2026.11.16",
+      "headline": "본 장면을\nfMRI로 복원하다",
+      "body": "Brain-IT는 새 참가자 한 시간치 데이터로 40시간을 쓴 기존 방법만큼 복원한다. 기억이나 상상한 장면은 못 읽는다.",
+      "foot": "2026.11.16",
+      "_src": "https://www.livescience.com/technology/artificial-intelligence/this-ai-finds-patterns-in-visual-brain-activity-and-turns-them-into-pictures",
+      "_id": "brainit-fmri-reconstruction",
+      "stat_top": "기존 방법 40시간 기록",
+      "stat_arrow": "같은 정확도에 드는 fMRI",
+      "stat_bottom": "1시간",
+      "stat_strike": false
+    },
+    {
+      "n": 5,
+      "kind": "quote",
+      "eyebrow": "2026.11.16",
+      "headline": "시각 보철 자극,\nAI가 짜다",
+      "body": "시각 피질에 전극 96개를 심은 27세 남성에게 AI가 자극 패턴을 짰다. 더 적은 전류로 의도한 뇌 활동에 더 가까웠다.",
+      "foot": "2026.11.16",
+      "_src": "https://www.sciencedaily.com/releases/2026/11/261110042553.htm",
+      "_id": "ucsb-phosphene-stimulation",
+      "quote": "쓸모 있는 시각 보철은\n정해진 처방에\n기댈 수 없다",
+      "quote_by": "Michael Beyeler · UC Santa Barbara"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}
