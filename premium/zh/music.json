@@ -10394,6 +10394,129 @@
           "x": "“我坚决反对流媒体欺诈。那是犯罪，”Shulman本周做客Trapital播客时说。“AI音乐有时牵涉其中？AI音乐不是犯罪……这两者并不相同。”"
         }
       ]
+    },
+    "music/elvis-suno-amended-suit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/Elvis-Live-1024x546.jpg",
+          "cap": "1956年，Elvis Presley在现场演出。图片来源：Don Wright"
+        },
+        {
+          "t": "p",
+          "x": "在对Suno提起版权侵权及NIL诉讼仅一周后，Elvis Presley Enterprises又提交了修正诉状，并扩充了涉嫌侵权的生成内容清单。Elvis Presley Enterprises、Authentic Brands Group和Raleigh Music Publishing等原告在11月6日提起原诉后，正式提交了这份修正诉状。"
+        },
+        {
+          "t": "p",
+          "x": "权利人围绕Suno生成内容中疑似出现Presley仿声人声一事，就涉嫌违反Tennessee州ELVIS Act及普通法公开权寻求救济。在版权方面，他们指控Suno从流媒体平台抓取IP以构建训练数据集。"
+        },
+        {
+          "t": "p",
+          "x": "原告表示，他们“增加了大量额外示例……其中包括不少于42个涉及本案歌曲的额外侵权生成示例”。此外，另有76个涉嫌侵权的生成内容与本案未涉及的Elvis歌曲相关，其中包括“Blue Suede Shoes”和“Hound Dog”。"
+        },
+        {
+          "t": "p",
+          "x": "修正诉状同样指控Suno侵犯了859部作品，法定赔偿最高可达$128.85 million ，另有涉嫌违反DMCA的$23.62 million 。"
+        }
+      ]
+    },
+    "music/difro-melody-v25-plugin": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.kvraudio.com/i/b/difro_01.1794777186.png"
+        },
+        {
+          "t": "p",
+          "x": "Initial Audio发布了其AI旋律生成器的更新版本Difro Melody AI v2.5，新增audio-to-MIDI转换功能和VST3/AU插件。"
+        },
+        {
+          "t": "p",
+          "x": "用户可将音频循环拖入钢琴卷帘，Difro会在本地将其转换为MIDI，并保留力度数据。该功能适用于最长16小节的旋律循环；更长的文件会被截取前16小节。随后可用Re-Imagine根据转录结果生成新的变奏。"
+        },
+        {
+          "t": "p",
+          "x": "VST3和AU插件可与DAW宿主同步，实时输出MIDI、音频或两者兼有，并可通过MIDI音符演奏，支持latch选项。其他更新包括交互式快速入门教程、Windows上对NVIDIA Blackwell GPUs的支持（较旧的Maxwell GPUs不再受支持）、下载体积和内存占用减少300 MB，以及经过改版、可调整大小的UI。"
+        },
+        {
+          "t": "video",
+          "yt": "FfOGA4FlLO0"
+        },
+        {
+          "t": "p",
+          "x": "基础版免费且无需订阅，但每月生成次数有限；Pro版提供无限次生成。"
+        }
+      ]
+    },
+    "music/kanye-bully-grammy-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.pitchfork.com/photos/6afaf9f6fa70625fee86f02d/2:1/w_2560%2Cc_limit/kanye-west-bully-grammys.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Kanye West凭借Bully豪华版获得2027年Grammys最佳说唱专辑(Best Rap Album)提名，将与Cardi B、Don Toliver等人角逐。此次提名是在外界持续指控Ye在创作中借助了人工智能的背景下获得的。"
+        },
+        {
+          "t": "p",
+          "x": "相关猜测始于2025年Ye接受Justin Laboy的一次采访，当时他明显对这项技术的创作潜力印象深刻，并演示了用它制作仿声人声有多么容易。正如The New Yorker的Kelefa Sanneh所指出的，同年晚些时候首发的一首歌中疑似由Ye用西班牙语说唱的段落，很可能就运用了这一手法。但Ye随后发推称专辑不会使用A.I.，尽管网络侦探们多方求证，这一说法至今未被证伪。8月提起的一宗诉讼让事态升级，指控Ye在Vultures 2和Bully中都使用了A.I.人声效果。Recording Academy的规则允许艺人使用A.I.，前提是人类创作部分“有意义”且“与该类别相关”。"
+        },
+        {
+          "t": "p",
+          "x": "Ye在Best Rap Album类别中战绩辉煌，他的前三张专辑均获此奖，后来又凭My Beautiful Dark Twisted Fantasy再度获奖。这是他在该类别的第九次提名。除Cardi的Am I the Drama?和Toliver的Octane外，Bully的对手还包括Rapsody的God Gotta Afro & Gold Hoops、Wale的Everything Is a Lot，以及Busta Rhymes以J Dilla遗作节拍打造的新专辑Dillagence II。"
+        }
+      ]
+    },
+    "music/bridgwater-carnival-ai-music": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/8fec/live/880e71a0-dd31-11f1-ab46-9fae224bbf6f.jpg.webp",
+          "cap": "2026年Bridgwater Carnival期间，多辆彩车使用了AI-generated音乐"
+        },
+        {
+          "t": "p",
+          "x": "一名俱乐部成员表示，一系列嘉年华游行中在音乐上使用人工智能(AI)“令人失望”。约150,000人涌入Somerset的Bridgwater，观看灯光彩车游行。"
+        },
+        {
+          "t": "p",
+          "x": "一家小型俱乐部的成员Matt Ward说，50辆彩车中有一些使用了AI音乐，这很可惜，并补充道：“我们有点忘了嘉年华从何而来。”他表示，这为各委员会降低了成本，但“音乐有点像是事后才想到的”。"
+        },
+        {
+          "t": "p",
+          "x": "Tim Bonser帮助Gremlins制作了其AI歌曲。“作为音乐人，这相当令人兴奋，也相当可怕，”他说，“我们为此进行过相当激烈的讨论，分歧很大。”“时间就是金钱，如今嘉年华的预算很紧。”"
+        },
+        {
+          "t": "p",
+          "x": "Bridgwater Guy Fawkes Carnival的主办方表示，他们理解AI-generated音乐“引发了意见分歧”，但这由各俱乐部自行决定，并补充说嘉年华“一直拥抱新技术”，俱乐部“应当拥有创作自由”来呈现各自主题。"
+        }
+      ]
+    },
+    "music/xania-monet-ai-music-awards": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/11/7R6A5866-1.jpg?w=1000&h=667&crop=1",
+          "cap": "Xania Monet的创作者Telisha “Nikki” Jones"
+        },
+        {
+          "t": "p",
+          "x": "Variety周五出席了在洛杉矶市中心（Downtown Los Angeles）Mayan Theater举行的首届“AI Music Awards”，该活动由“Sonic Intelligence Academy”（SIQA）主办。艺人须先在SIQA的“Verified Registry”登记作品才有参评资格，随后在25个类别中提名同行，并投票选出获奖者。"
+        },
+        {
+          "t": "p",
+          "x": "Xania Monet是Telisha “Nikki” Jones的AI化身，前一天已在SIQA峰会上获得AI Album of the Year，随后又拿下年度艺人和年度歌曲——即该奖项四大类别中的三项。第四项年度制作人由“DJ Shawn Q.”获得。Jones表示：“AI只是一种工具。”"
+        },
+        {
+          "t": "p",
+          "x": "SIQA由软件工程师Timirah “TJ” James与姐妹Mia James创办，希望成为Recording Academy的AI版本。当晚状况频出：开场晚了约30分钟，混乱的提词器上显示着由Claude生成（Claude-generated）的流程表，Deepgram AI语音经常失灵，表演者则在免费驻场乐队的伴奏下对着AI曲目假唱。"
+        },
+        {
+          "t": "p",
+          "x": "James对观众说：“明年还会有，因为这就是新的音乐产业。”"
+        }
+      ]
     }
   }
 }

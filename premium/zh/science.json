@@ -10897,6 +10897,143 @@
           "x": "作者还制作了\"价值卡片\"，展示每个模型始终遵守哪些规则。论文《Alignment Faking Depends on the Value, Not Just the Model》已发布在arXiv上。"
         }
       ]
+    },
+    "science/leafy-spurge-satellite-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-field-of-leafy-spurg.jpg",
+          "cap": "图片来源：University of Minnesota"
+        },
+        {
+          "t": "p",
+          "x": "明尼苏达大学（University of Minnesota）的科学家借助卫星影像、AI深度学习模型和社区科学数据，追踪了乳浆大戟在20年间的扩散。这项成果近期发表于Ecological Applications，将帮助农民、牧场主和土地管理者遏制这种有害杂草的蔓延。"
+        },
+        {
+          "t": "p",
+          "x": "研究人员将乳浆大戟的真实观测数据（包括来自iNaturalist应用的社区观测）与U.S. Geological Survey（美国地质调查局）在NASA卫星协助下提供的开源Landsat影像相结合，训练了一个预测性深度学习计算机模型。"
+        },
+        {
+          "t": "p",
+          "x": "研究发现，乳浆大戟在二十年间（2000–2021）数量迅速增加（570%），主要集中在Fargo-Moorhead和Minneapolis-Saint Paul一带。它常出现在道路附近，而利用卫星影像发现新入侵区域，提高了对未来入侵的预测能力。"
+        },
+        {
+          "t": "p",
+          "x": "“乳浆大戟开花时，就像有人拿黄色荧光笔在大地上涂过一样。那种黄色非常鲜亮，连卫星都能看到，”Thomas Lake说。团队计划在七个州的范围内绘制这种植物的分布图。"
+        }
+      ]
+    },
+    "science/materials-ai-less-data": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-12.jpg",
+          "cap": "图片来源：Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "开发新材料往往始于理解其电子结构，即电子在材料内部如何排布和运动。计算电子结构通常需要在超级计算机上进行昂贵的模拟。因此，研究人员用数百万个模拟数据点训练人工智能模型，以便更快地做出预测。"
+        },
+        {
+          "t": "p",
+          "x": "但根据Michigan Tech机械与航空航天工程系副教授Susanta Ghosh领导的一项最新研究，并不需要那么多训练数据。研究团队与UCLA合作，在近期发表于npj Computational Materials的研究中发现，AI模型可以舍弃90%的训练数据，而准确度几乎不受影响。"
+        },
+        {
+          "t": "p",
+          "x": "即便去掉99%的训练数据，大多数预测仍保持很高的准确度，同时模型训练速度提高了三倍或更多。新发现适用于金属、水和复杂合金等广泛材料。"
+        },
+        {
+          "t": "p",
+          "x": "“大量电子结构数据在重复相同的信息。一个经过精心挑选的小样本，几乎涵盖了AI需要学习的全部内容，”Ghosh说。"
+        },
+        {
+          "t": "p",
+          "x": "“通过找出具有代表性的电子结构数据，并将训练时间缩短至少三倍，这项工作可以在广阔的成分空间中加速复杂合金的AI-driven发现，”他说。"
+        }
+      ]
+    },
+    "science/qudit-quantum-neural-net": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/quantum-neural-network-1.jpg",
+          "cap": "构建并训练高维量子神经元。图片来源：University of Science and Technology of China"
+        },
+        {
+          "t": "p",
+          "x": "如何扩大量子神经网络的规模？一种方法是增加作为神经元的量子比特。但发表于National Science Review、题为“Quantum neural network equipped with backpropagation on a qudit processor”的研究展示了另一条路径。"
+        },
+        {
+          "t": "p",
+          "x": "由中国科学技术大学（University of Science and Technology of China）副教授Li Zhaokai和教授Lin Yiheng带领的研究人员，深入单个物理单元内部，利用了其更多的能级。这使他们无需增加物理单元，就构建出高维量子神经元。"
+        },
+        {
+          "t": "p",
+          "x": "通过增加量子比特来扩大规模，会带来更多需要控制的硬件和更多累积的误差，这对当今含噪声的中等规模量子设备而言尤其困难。"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/quantum-neural-network-2.jpg",
+          "cap": "学习区分裤子与套头衫。图片来源：University of Science and Technology of China"
+        },
+        {
+          "t": "p",
+          "x": "团队利用钙离子的五个能级构建了多能级量子处理器，并在实验中实现了高维量子神经网络。该网络对Fashion-MNIST数据集中的服装图像进行分类，在包含395个样本的测试集上取得了95.7%的实验分类准确率。"
+        }
+      ]
+    },
+    "science/sciam-chess-ai-complexity": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/1e99e951-c633-4384-8edb-9267b4a202c9/saw1226_0127Adva06.jpg?m=1793651269.904&w=1200",
+          "cap": "Thomas Fuchs"
+        },
+        {
+          "t": "p",
+          "x": "AI对复杂性的从容可能是其国际象棋实力的关键。近期发表在APS Open Science上的一篇论文指出了AI战略优势的一个可能特征。研究资深作者、维也纳Complexity Science Hub的物理学家Vito D. P. Servedio说：“或许我们的论文最接近于理解这些机器在做什么。”"
+        },
+        {
+          "t": "p",
+          "x": "研究人员从在线数据库中收集了人类 vs. 人类以及Stockfish vs. Leela的对局，并测量了“战略张力”，即对立棋子之间可能产生的相互作用数量。"
+        },
+        {
+          "t": "p",
+          "x": "在双方各走完20步之前，人类对局的平均张力高于AI对局。但此后，人类对局的张力降至AI对局之下，而AI对局的张力依然很高。人类需要减轻认知负荷，但“引擎其实没有这个问题”，未参与该研究的Northumbria University的Merim Bilalić说。"
+        },
+        {
+          "t": "p",
+          "x": "等级分越高的棋手保持的张力越大，Stockfish搜索更深的博弈树时张力也会上升。尽管在人类和AI中，较高的张力都与更强的能力相关，但研究并未表明张力导致了这种能力，或源自这种能力。"
+        }
+      ]
+    },
+    "science/science-teamwork-lean-proof": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/original_images/AntigravityTeamwork_HeroFinal.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Google Research公布了Antigravity的/teamwork多智能体系统的最新成果。该系统使用Gemini 4 Argon、Gemini 4 Carbon和Gemini 4 Hydrogen，强化人与AI的协作（human-AI collaboration），以解决数学、化学、系统软件和ML工程领域的开放问题。系统将并行探索与专门的证伪器（如Lean 4证明检查器、未经修改的软件测试套件、执行模拟器）相结合，并对上下文进行分区，使每个专职智能体只获得所需的文件和工具。"
+        },
+        {
+          "t": "p",
+          "x": "来自Google、CUHK、USC和CMU的研究人员利用/teamwork的Long Proof模式，在完全一般的情形下证明了信息论中2013年的Courtade–Kumar猜想，并用Lean 4将整个证明形式化（5000万行代码）。/teamwork-LEAP完全自主地完成了Weil猜想的机器验证形式化，涉及约180万行Lean代码和28,800次子智能体调用。"
+        },
+        {
+          "t": "p",
+          "x": "其他成果包括：用30个智能体在NMR结构解析中实现95%的top-1精确匹配；为Zircon微内核编写约800,000行安全的Rust代码；以及一个9x9围棋（Go）引擎，在不到八天内将Elo提升约2,600。"
+        },
+        {
+          "t": "video",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/media/AntigravityTeamwork_HillClimbing_1x.mp4"
+        },
+        {
+          "t": "p",
+          "x": "外部科学家和开发者即日起可在Antigravity和Deep Review中将Gemini 4模型与/teamwork和/boost配合使用；同时开放申请，为10,000名学术研究人员提供六个月的最高使用等级免费访问权限。"
+        }
+      ]
     }
   }
 }

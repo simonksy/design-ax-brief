@@ -11436,6 +11436,126 @@
           "x": "Activision afirma que los desarrolladores de trampas ajustan su software para que el juego automatizado parezca más natural, pero cuanto más imita su software el juego legítimo, menos ventaja puede ofrecer. No se ha anunciado fecha de lanzamiento para nuevas herramientas de detección AI-focused."
         }
       ]
+    },
+    "games/games-unions-genai-manifesto": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/11/IWGB-union-logo.jpg",
+          "cap": "Logotipo de IWGB Game Workers © IWGB"
+        },
+        {
+          "t": "p",
+          "x": "Sindicatos de videojuegos de toda Europa publicaron un manifiesto conjunto que pide a los consumidores “apoyar los juegos hechos sin GenAI”, antes de la segunda cumbre europea de sindicatos de trabajadores del videojuego, que se celebra hoy en Manchester, Inglaterra. El objetivo principal del manifiesto es “concienciar sobre los daños de la AI generativa”."
+        },
+        {
+          "t": "p",
+          "x": "El manifiesto, titulado “On Generative AI Usage in the Games Industry” (“Sobre el uso de la AI generativa en la industria del videojuego”), es un esfuerzo conjunto coordinado por la IWGB de Gran Bretaña, la GWUI de la República de Irlanda, el STJV de Francia, el CSVI de España, el GDRT de Alemania y la FIOM-CGIL de Italia."
+        },
+        {
+          "t": "p",
+          "x": "El texto destaca el “grave daño al medio ambiente” de la AI generativa, su papel en una “marcada disminución de los puestos junior en la industria” y el historial documentado de modelos de AI “entrenados con datos robados de terceros”. Insta a los jugadores a “expresar abiertamente su rechazo a la genAI en los juegos” y a apoyar “los juegos hechos sin genAI”."
+        },
+        {
+          "t": "p",
+          "x": "El manifiesto afirma que “los trabajadores deben ser quienes decidan cuándo, dónde y cómo usar” la AI generativa, y pide a quienes la usen que tengan presentes “las preocupaciones sobre el medio ambiente, el costo, la ética, la ley, la honestidad” y “la santidad del arte”."
+        }
+      ]
+    },
+    "games/ai-mensetsukan-steam-game": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.4gamer.net/games/058/G105854/20261116008/SS/001.jpg"
+        },
+        {
+          "t": "p",
+          "x": "MeteorWing lanzó el 13 de noviembre de 2026 en Steam el software para PC “AI面接官を突破せよ” (Supera al entrevistador AI). Cuesta 280 yenes (impuestos incluidos). Como oferta de lanzamiento, hasta el 28 de noviembre se puede comprar con un 40% de descuento, por 168 yenes (impuestos incluidos). En el juego hay que incluir en el currículum las palabras indicadas en un tiempo límite de 5 minutos, superar la revisión documental del entrevistador AI y afrontar la entrevista."
+        },
+        {
+          "t": "img",
+          "src": "https://www.4gamer.net/games/058/G105854/20261116008/SS/002.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Entre las palabras indicadas hay algunas que no desentonarían en un currículum, como “paseo” o “lápiz”, y otras disparatadas, como “fantasma” o “se busca”. El jugador debe incorporarlas con naturalidad al texto del currículum."
+        },
+        {
+          "t": "img",
+          "src": "https://www.4gamer.net/games/058/G105854/20261116008/SS/003.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El entrevistador AI lee en voz alta el currículum escrito por el jugador y lo evalúa con una puntuación y comentarios. Si se supera la revisión documental, se pasa a la entrevista. En ella, la AI formula preguntas en el momento a partir del contenido del currículum. Ante preguntas como “En su currículum dice ‘en mi vida pasada fui ninja’…”, se responde por teclado o por voz, con 1 minuto como máximo por cada 1 pregunta."
+        },
+        {
+          "t": "img",
+          "src": "https://www.4gamer.net/games/058/G105854/20261116008/SS/004.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Cada respuesta muestra una puntuación y su motivo, y al final se decide si el candidato es contratado o no. El 14 de noviembre también se publicó una demo en Steam, así que quien tenga curiosidad puede probarla primero."
+        }
+      ]
+    },
+    "games/gamemeca-ai-clone-precedent": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A medida que se extiende el uso de la AI generativa, la \"ingeniería inversa con AI\" surge como un problema. Se trata de casos en los que, a partir de videos de juego o demos publicados, se analizan el funcionamiento y el flujo de juego de un título para crear otro que se le parece."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gamemeca.com/data_center/346/572/20261104154322.webp",
+          "cap": "▲ Slotbound, que sufrió ingeniería inversa con AI (Foto: página oficial de Steam)"
+        },
+        {
+          "t": "p",
+          "x": "King demandó a Avocado Entertainment, operadora en Corea de Forest Mania, alegando que había copiado Farm Heroes Saga. El tribunal de 2.ª instancia negó la similitud sustancial, pero la sentencia 2017다212095 de la Corte Suprema, dictada el 2019. 6. 27., reconoció la similitud sustancial y anuló y devolvió la sentencia original. La Corte Suprema consideró que un juego puede protegerse por derechos de autor si su individualidad creativa se manifiesta en la forma en que sus componentes principales se seleccionan, se ordenan y se combinan orgánicamente."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gamemeca.com/data_center/347/855/20261116135039.webp",
+          "cap": "▲ Comparación de Farm Heroes Saga (izquierda) y Forest Mania (derecha) (Fuente: sentencia del Tribunal del Distrito Central de Seúl)"
+        },
+        {
+          "t": "p",
+          "x": "Con este criterio, es difícil sostener que se evitan los problemas de derechos de autor solo porque el código se haya escrito de nuevo con AI. Sin embargo, tampoco se reconoce la infracción con más facilidad solo por haber usado AI o porque el desarrollo fue breve. La clave es si el juego se hizo a partir del original y si la expresión creativa del original se reprodujo de forma sustancialmente similar."
+        },
+        {
+          "t": "p",
+          "x": "Los desarrolladores deben ordenar cronológicamente los documentos de diseño, las compilaciones por versión, las actas de reuniones y el historial de cambios del repositorio remoto, y conservar la dirección de la tienda, el editor, la fecha de comprobación y la versión del juego similar, junto con las grabaciones de video originales. La denuncia por infracción de derechos de autor de Steam, una medida cautelar que prohíba la distribución y la mediación de la Comisión de Derechos de Autor de Corea también pueden ser opciones."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gamemeca.com/data_center/347/856/20261116135635.webp",
+          "cap": "▲ Formulario de denuncia por infracción de derechos de autor de Steam (Fuente: página oficial de Steam)"
+        }
+      ]
+    },
+    "games/xbox-helix-neural-rendering": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Project-Helix-Xbox-HD-1920x1080.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Las celebraciones por el 25 aniversario de XBOX ya están en marcha, y Microsoft compartió nuevos detalles sobre Project Helix, la próxima consola de nueva generación, en una entrevista con Jason Ronald, vicepresidente de Next Generation de XBOX, publicada en la revista digital gratuita XBOX 25th Anniversary Magazine."
+        },
+        {
+          "t": "p",
+          "x": "Ronald reiteró que Helix también ejecutará juegos de PC, aunque no aclaró si admitirá plataformas como Steam: \"Helix está diseñada para ser una consola que también puede ejecutar juegos de tu PC. No es un PC que también pueda ejecutar juegos de consola\"."
+        },
+        {
+          "t": "p",
+          "x": "Subrayó que la consola aprovechará el renderizado neuronal: \"Esta es una de las grandes razones por las que nos centramos en avances como el renderizado neuronal, porque es una forma completamente nueva de generar un fotograma sin necesitar más potencia de cálculo, memoria adicional y cosas por el estilo\". La nueva generación, dijo, consiste en \"aprovechar nuevos avances técnicos, como el renderizado neuronal, para ofrecer un nuevo nivel de fidelidad visual de formas más eficientes e innovadoras\"."
+        },
+        {
+          "t": "p",
+          "x": "Wccftech señala que probablemente se refería al renderizado neuronal en un sentido amplio, que incluye el escalado AI-powered, la generación de fotogramas y la reconstrucción de rayos, y no a un enfoque similar a DLSS 5 de NVIDIA. Los detalles completos podrían tardar, dados los rumores de que la consola se ha retrasado a la temporada navideña de 2028."
+        }
+      ]
     }
   }
 }

@@ -1,7 +1,11 @@
-{"date":"2026-11-16","section":"marketing","media":[
-{"id":"google-aimax-matchtype-param","type":"image","src":"pipeline/media/google-aimax-matchtype-param.jpg"},
-{"id":"thehyundai-hi-chatgpt-plugin","type":"image","src":"pipeline/media/thehyundai-hi-chatgpt-plugin.png"},
-{"id":"hyundai-homeshopping-ai-broadcast","type":"image","src":"pipeline/media/hyundai-homeshopping-ai-broadcast.png"},
-{"id":"ebay-agent-ban-useragreement","type":"image","src":"pipeline/media/ebay-agent-ban-useragreement.jpg"},
-{"id":"digiday-adtech-ai-brain","type":"image","src":"pipeline/media/digiday-adtech-ai-brain.jpg"}
-]}
+{
+  "date": "2026-11-17",
+  "section": "marketing",
+  "media": [
+    {"id": "admob-ask-gemini-agent", "type": "video", "src": "pipeline/media/admob-ask-gemini-agent.mp4", "poster": "pipeline/media/admob-ask-gemini-agent.jpg"},
+    {"id": "google-aimode-hotel-booking", "type": "image", "src": "pipeline/media/google-aimode-hotel-booking.jpg"},
+    {"id": "jcrew-style-advisor-anthropic", "type": "image", "src": "pipeline/media/jcrew-style-advisor-anthropic.jpg"},
+    {"id": "bustle-profound-ai-visibility", "type": "image", "src": "pipeline/media/bustle-profound-ai-visibility.jpg"},
+    {"id": "tone-belfort-ai-sales-voice", "type": "image", "src": "pipeline/media/tone-belfort-ai-sales-voice.jpg"}
+  ]
+}

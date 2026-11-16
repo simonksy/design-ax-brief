@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "section": "movies",
   "cards": [
     {
-      "id": "runway-genre-violence-policy",
+      "id": "equity-pact-ai-offer",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Runway, 장르 폭력\n모더레이션 기준 완화",
-      "body": "Runway는 칼싸움·총격전·호러를 허용하되 실제 해를 끼치는 콘텐츠는 막는다.",
-      "mini_headline": "Runway, 장르 폭력 허용",
+      "headline": "Equity, Pact의\n네 갈래 AI 조항안 지지",
+      "body": "Equity가 8,000명에게 2027-2029 UK 영화·TV안 수락을 권했다.",
+      "mini_headline": "Equity, AI-term 제안 지지",
       "tool": "Movies",
-      "source": "Runway",
-      "url": "https://runway.com/news/safety/closing-the-gap",
+      "source": "Deadline",
+      "url": "https://deadline.com/2026/11/equity-pact-deal-offer-ai-provisions-streamer-residuals-1237222636/",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
@@ -19,203 +19,149 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/closing-the-gap-between-policy-and-practice-1600x1067-fc002504-f4d6-44f4-a6d7-941a5b751aed.png"
+            "src": "https://deadline.com/wp-content/uploads/2026/11/DSCF9690.jpeg?w=1024"
           },
           {
             "t": "p",
-            "x": "사람들은 이야기를 하려고 Runway를 찾는다. 좋은 이야기에는 대개 갈등과 위험, 폭력이 들어 있다. 지난 두 해 동안 Runway의 모더레이션은 실제 해를 끼치는 콘텐츠는 계속 막으면서 이런 이야기를 훨씬 폭넓게 받아들이는 쪽으로 바뀌었다."
+            "x": "첫 협상 이후 세 해 가까이 흘렀다. 영국 배우 노조 Equity는 제작사 단체 Pact의 최종 제안을 배우 조합원 8,000명의 투표에 부치고 ‘찬성’을 권고했다. 합의는 2027년 1월 1일부터 2029년 12월 31일까지 영국 드라마와 영화 대부분에 적용된다. 협상을 거듭 늦춘 건 인공지능이었다."
           },
           {
             "t": "p",
-            "x": "두 해 전만 해도 Runway는 “피”나 “무기” 같은 고정 범주로 콘텐츠를 채점하는 서드파티 분류기에 기댔다. 판타지 전투와 실제 폭력도 가려내지 못했다. 작은 핏방울이나 가벼운 긁힌 상처까지 막힌 적이 있고, 케첩이나 붉은 물감을 피로 착각하기도 했다."
-          },
-          {
-            "t": "img",
-            "src": "https://image.mux.com/HLmH7qc2D6F02mKbyzuKSftNdKVkPrPMs21OfxVWdWZ8/thumbnail.webp",
-            "cap": "지금 정책으로는 허용되지만 예전 도구였다면 막혔을 콘텐츠 예시."
+            "x": "Equity는 AI 부문이 “크게 개선됐다”며 네 갈래로 짜였다고 밝혔다. 디지털 복제물의 제작·사용 보호, 연기의 디지털 변형 보호, “Synthetics” 보호, AI 학습 라이선스 의무다. 배우는 “디지털 복제물이 사용될 때 보수를 받을 권리”와 그 사용에 동의할 권리를 갖는다. 제작사는 “포괄적 동의를 받을 수 없으며” 특정 프로젝트에 한해서만 동의를 받는다. 다만 Equity는 “디지털 복제물 삭제”나 관행적인 CGI/VFX 스캔 보호는 얻어내지 못했다."
           },
           {
             "t": "p",
-            "x": "대규모 언어 모델이 발전하면서 두 가지가 바뀌었다. Runway가 자체 정책을 정해 몇 시간, 빠르면 몇 분 만에 고칠 수 있게 됐고 맥락을 더 많이 읽어 적용할 수 있게 됐다. 이제 사용자는 칼싸움, 총격전, 전투 장면, 호러를 작품에 넣을 수 있다. 반대로 보호 대상 집단을 겨냥한 폭력 콘텐츠, 폭력적 극단주의 공격의 재현, 미성년자가 관련된 성적 콘텐츠, NCII는 더 정확하게 걸러진다."
-          },
-          {
-            "t": "p",
-            "x": "한계는 여전하다. Runway에서 돌아가는 서드파티 모델은 자체 모더레이션을 따로 적용하고 LLMs도 아직 실수를 한다. 맥락이 모자라면 정당한 사용 사례가 막히기도 한다. 잘못된 판단은 오류 메시지의 “Send Feedback” 버튼으로 신고하면 된다."
+            "x": "예산 £50M ($66M) 이상 영화의 출연료 24% 인상, 스트리밍 플랫폼 이용료 3퍼센트포인트 인상, 셀프테이프 72시간 사전 통지도 합의에 들어갔다. Paul W Fleming 사무총장은 “업계 최고의 AI 조항을 얻어냈다”고 말했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Runway eases moderation\nfor genre violence",
-          "body": "Runway's moderation now permits sword fights, shootouts and horror while still blocking content that causes real harm.",
-          "mini_headline": "Runway allows genre violence",
+          "headline": "Equity backs Pact offer\nwith four-part AI terms",
+          "body": "Equity recommends its 8,000 members accept Pact's 2027-2029 UK film and TV offer, which includes four-part AI terms.",
+          "mini_headline": "Equity backs AI-term offer",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/closing-the-gap-between-policy-and-practice-1600x1067-fc002504-f4d6-44f4-a6d7-941a5b751aed.png"
+                "src": "https://deadline.com/wp-content/uploads/2026/11/DSCF9690.jpeg?w=1024"
               },
               {
                 "t": "p",
-                "x": "People come to Runway to tell stories, and many great stories involve conflict, danger or violence. Over the last two years, Runway's moderation has evolved to allow far more of those stories while continuing to block content that causes real harm."
+                "x": "Nearly three years after they first sat down, British actors union Equity is taking a final offer from producer trade body Pact to its 8,000-strong actor member base with a recommendation to vote “yes.” The deal covers the majority of British shows and movies from January 1 2027 through December 31 2029, but it is artificial intelligence that has delayed things time and time again."
               },
               {
                 "t": "p",
-                "x": "Two years ago it relied on third-party classifiers that scored content in fixed categories like “blood” or “weapons” and couldn't tell a fantasy battle from real violence. For a time, even a small drop of blood or a minor scratch was blocked, and sometimes ketchup or red paint mistaken for blood."
-              },
-              {
-                "t": "img",
-                "src": "https://image.mux.com/HLmH7qc2D6F02mKbyzuKSftNdKVkPrPMs21OfxVWdWZ8/thumbnail.webp",
-                "cap": "Examples of content our policies allow but our earlier tools would have blocked."
+                "x": "Equity said the AI element is “significantly improved” and four-pronged: protections for the creation and use of digital replicas, for digital alterations of a performance, against “Synthetics,” and obligations around AI training licensing. Actors will “have the right to be paid when your digital replica is used” and to consent to its use, and a producer “cannot obtain blanket consent” — only for specific projects. Equity failed to win protections for “digital replica deletion” or customary CGI/VFX scanning."
               },
               {
                 "t": "p",
-                "x": "Advances in large language models changed two things: Runway can set its own policies and update them in hours or even minutes, and apply them with more context. That lets users incorporate sword fights, shootouts, battle scenes and horror, while violent content directed at protected groups, recreations of violent extremist attacks, sexualized content involving minors and NCII are blocked more accurately."
-              },
-              {
-                "t": "p",
-                "x": "Limitations remain: third-party models on Runway apply their own moderation, LLMs still make mistakes, and missing context means a valid use case is sometimes blocked. Users can flag wrong decisions with the “Send Feedback” button on the error message."
+                "x": "The deal also includes a 24% rise in pay rates on movies budgeted over £50M ($66M), a 3 percentage point uplift to streaming platform use fees, and a 72-hour notice period for self-tapes. General Secretary Paul W Fleming: “We’ve achieved the best AI provisions in the business.”"
               }
             ]
           }
         },
         "ko": {
-          "headline": "Runway, 장르 폭력\n모더레이션 기준 완화",
-          "body": "Runway는 칼싸움·총격전·호러를 허용하되 실제 해를 끼치는 콘텐츠는 막는다.",
-          "mini_headline": "Runway, 장르 폭력 허용",
+          "headline": "Equity, Pact의\n네 갈래 AI 조항안 지지",
+          "body": "Equity가 8,000명에게 2027-2029 UK 영화·TV안 수락을 권했다.",
+          "mini_headline": "Equity, AI-term 제안 지지",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/closing-the-gap-between-policy-and-practice-1600x1067-fc002504-f4d6-44f4-a6d7-941a5b751aed.png"
+                "src": "https://deadline.com/wp-content/uploads/2026/11/DSCF9690.jpeg?w=1024"
               },
               {
                 "t": "p",
-                "x": "사람들은 이야기를 하려고 Runway를 찾는다. 좋은 이야기에는 대개 갈등과 위험, 폭력이 들어 있다. 지난 두 해 동안 Runway의 모더레이션은 실제 해를 끼치는 콘텐츠는 계속 막으면서 이런 이야기를 훨씬 폭넓게 받아들이는 쪽으로 바뀌었다."
+                "x": "첫 협상 이후 세 해 가까이 흘렀다. 영국 배우 노조 Equity는 제작사 단체 Pact의 최종 제안을 배우 조합원 8,000명의 투표에 부치고 ‘찬성’을 권고했다. 합의는 2027년 1월 1일부터 2029년 12월 31일까지 영국 드라마와 영화 대부분에 적용된다. 협상을 거듭 늦춘 건 인공지능이었다."
               },
               {
                 "t": "p",
-                "x": "두 해 전만 해도 Runway는 “피”나 “무기” 같은 고정 범주로 콘텐츠를 채점하는 서드파티 분류기에 기댔다. 판타지 전투와 실제 폭력도 가려내지 못했다. 작은 핏방울이나 가벼운 긁힌 상처까지 막힌 적이 있고, 케첩이나 붉은 물감을 피로 착각하기도 했다."
-              },
-              {
-                "t": "img",
-                "src": "https://image.mux.com/HLmH7qc2D6F02mKbyzuKSftNdKVkPrPMs21OfxVWdWZ8/thumbnail.webp",
-                "cap": "지금 정책으로는 허용되지만 예전 도구였다면 막혔을 콘텐츠 예시."
+                "x": "Equity는 AI 부문이 “크게 개선됐다”며 네 갈래로 짜였다고 밝혔다. 디지털 복제물의 제작·사용 보호, 연기의 디지털 변형 보호, “Synthetics” 보호, AI 학습 라이선스 의무다. 배우는 “디지털 복제물이 사용될 때 보수를 받을 권리”와 그 사용에 동의할 권리를 갖는다. 제작사는 “포괄적 동의를 받을 수 없으며” 특정 프로젝트에 한해서만 동의를 받는다. 다만 Equity는 “디지털 복제물 삭제”나 관행적인 CGI/VFX 스캔 보호는 얻어내지 못했다."
               },
               {
                 "t": "p",
-                "x": "대규모 언어 모델이 발전하면서 두 가지가 바뀌었다. Runway가 자체 정책을 정해 몇 시간, 빠르면 몇 분 만에 고칠 수 있게 됐고 맥락을 더 많이 읽어 적용할 수 있게 됐다. 이제 사용자는 칼싸움, 총격전, 전투 장면, 호러를 작품에 넣을 수 있다. 반대로 보호 대상 집단을 겨냥한 폭력 콘텐츠, 폭력적 극단주의 공격의 재현, 미성년자가 관련된 성적 콘텐츠, NCII는 더 정확하게 걸러진다."
-              },
-              {
-                "t": "p",
-                "x": "한계는 여전하다. Runway에서 돌아가는 서드파티 모델은 자체 모더레이션을 따로 적용하고 LLMs도 아직 실수를 한다. 맥락이 모자라면 정당한 사용 사례가 막히기도 한다. 잘못된 판단은 오류 메시지의 “Send Feedback” 버튼으로 신고하면 된다."
+                "x": "예산 £50M ($66M) 이상 영화의 출연료 24% 인상, 스트리밍 플랫폼 이용료 3퍼센트포인트 인상, 셀프테이프 72시간 사전 통지도 합의에 들어갔다. Paul W Fleming 사무총장은 “업계 최고의 AI 조항을 얻어냈다”고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Runway、ジャンル\n暴力の規制を緩和",
-          "body": "Runwayは剣戟や銃撃戦、ホラーを認めつつ、実害のある内容は引き続き遮断する。",
-          "mini_headline": "Runway、ジャンル暴力を容認",
+          "headline": "Equity、Pact案支持\nAI条項は四本柱",
+          "body": "Equityは8,000人にPactの2027-2029年UK映画・TV案の受諾を勧めた。",
+          "mini_headline": "Equity、AI-term案を支持",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/closing-the-gap-between-policy-and-practice-1600x1067-fc002504-f4d6-44f4-a6d7-941a5b751aed.png"
+                "src": "https://deadline.com/wp-content/uploads/2026/11/DSCF9690.jpeg?w=1024"
               },
               {
                 "t": "p",
-                "x": "人々は物語を語るためにRunwayを訪れ、優れた物語の多くは対立や危険、暴力を含む。この二年間でRunwayのモデレーションは、実害をもたらすコンテンツを遮断し続けながら、そうした物語をはるかに多く認める方向へ進化してきた。"
+                "x": "初めて交渉の席に着いてから三年近く、英国の俳優組合Equityは制作会社団体Pactの最終提案を、「賛成」票を推奨したうえで8,000人の俳優会員に諮る。合意は2027年1月1日から2029年12月31日まで英国のドラマと映画の大半を対象とするが、交渉を幾度も遅らせてきたのは人工知能だった。"
               },
               {
                 "t": "p",
-                "x": "二年前は、「血」や「武器」といった固定カテゴリーでコンテンツを採点するサードパーティーの分類器に頼っており、ファンタジーの戦闘と現実の暴力を区別できなかった。一時は小さな血のしずくや軽いかすり傷さえ遮断され、ケチャップや赤い絵の具が血と誤認されることもあった。"
-              },
-              {
-                "t": "img",
-                "src": "https://image.mux.com/HLmH7qc2D6F02mKbyzuKSftNdKVkPrPMs21OfxVWdWZ8/thumbnail.webp",
-                "cap": "現在のポリシーでは認められるが、以前のツールなら遮断されていたコンテンツの例。"
+                "x": "EquityはAI部分が「大幅に改善された」とし、四本柱で構成されると説明した。デジタルレプリカの作成と使用に関する保護、演技のデジタル改変に関する保護、「Synthetics」に対する保護、そしてAI学習のライセンスをめぐる義務である。俳優は「デジタルレプリカが使用された際に報酬を受け取る権利」とその使用に同意する権利を持ち、制作者は「包括的な同意を得ることはできず」、特定のプロジェクトに限って同意を得られる。Equityは「デジタルレプリカの削除」や慣行となっているCGI/VFXスキャンに関する保護は勝ち取れなかった。"
               },
               {
                 "t": "p",
-                "x": "大規模言語モデルの進歩は二つのことを変えた。Runwayは自社のポリシーを定めて数時間、あるいは数分で更新でき、より多くの文脈を踏まえて適用できるようになった。これによりユーザーは剣戟、銃撃戦、戦闘シーン、ホラーを取り入れられる一方、保護対象の集団に向けた暴力的コンテンツ、暴力的過激主義による攻撃の再現、未成年者が関わる性的コンテンツ、NCIIはより正確に遮断される。"
-              },
-              {
-                "t": "p",
-                "x": "限界も残る。Runway上のサードパーティー製モデルは独自のモデレーションを適用し、LLMsは今も誤りを犯し、文脈が欠けると正当な用途が遮断されることもある。ユーザーはエラーメッセージの「Send Feedback」ボタンから誤った判断を報告できる。"
+                "x": "合意には、予算£50M ($66M) 超の映画での出演料24%引き上げ、ストリーミングプラットフォーム利用料の3パーセントポイント上乗せ、セルフテープの72時間前通知期間も含まれる。Paul W Fleming書記長は「業界最高のAI条項を勝ち取った」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Runway放宽类型片\n暴力内容审核",
-          "body": "Runway的审核现允许剑斗、枪战和恐怖内容，同时继续拦截造成真实伤害的内容。",
-          "mini_headline": "Runway允许类型片暴力",
+          "headline": "Equity支持Pact方案\n含四部分AI条款",
+          "body": "Equity建议8,000名会员接受Pact的2027-2029年UK影视方案，含AI条款。",
+          "mini_headline": "Equity支持AI-term方案",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/closing-the-gap-between-policy-and-practice-1600x1067-fc002504-f4d6-44f4-a6d7-941a5b751aed.png"
+                "src": "https://deadline.com/wp-content/uploads/2026/11/DSCF9690.jpeg?w=1024"
               },
               {
                 "t": "p",
-                "x": "人们来到Runway讲故事，而许多好故事都涉及冲突、危险或暴力。过去两年里，Runway的审核机制不断演进，在继续拦截造成真实伤害的内容的同时，允许了多得多的此类故事。"
+                "x": "双方首次坐上谈判桌近三年后，英国演员工会Equity将制片商行业组织Pact的最终方案提交给8,000名演员会员表决，并建议投“赞成”票。该协议覆盖2027年1月1日至2029年12月31日期间英国大多数剧集和电影，但一再拖慢进程的正是人工智能。"
               },
               {
                 "t": "p",
-                "x": "两年前，它依赖第三方分类器，按“血腥”或“武器”等固定类别给内容打分，无法区分奇幻战斗与真实暴力。有一段时间，哪怕一小滴血或轻微擦伤都会被拦截，有时番茄酱或红色颜料也会被误认为血。"
-              },
-              {
-                "t": "img",
-                "src": "https://image.mux.com/HLmH7qc2D6F02mKbyzuKSftNdKVkPrPMs21OfxVWdWZ8/thumbnail.webp",
-                "cap": "我们的政策允许、但早期工具会拦截的内容示例。"
+                "x": "Equity表示，AI部分“已显著改善”，包含四个方面：对数字复制体的创建与使用的保护、对表演数字修改的保护、针对“Synthetics”的保护，以及围绕AI训练授权的义务。演员将“在数字复制体被使用时享有获得报酬的权利”，并有权同意其使用；制片方“不能获得一揽子同意”，只能针对具体项目取得同意。Equity未能争取到“数字复制体删除”或常规CGI/VFX扫描方面的保护。"
               },
               {
                 "t": "p",
-                "x": "大语言模型的进步改变了两件事：Runway可以制定自己的政策，并在几小时甚至几分钟内更新，还能结合更多上下文加以执行。用户因此可以加入剑斗、枪战、战斗场面和恐怖元素，而针对受保护群体的暴力内容、暴力极端主义袭击的再现、涉及未成年人的色情内容以及NCII则会被更准确地拦截。"
-              },
-              {
-                "t": "p",
-                "x": "局限依然存在：Runway上的第三方模型采用各自的审核机制，LLMs仍会出错，缺少上下文也会导致合理用例有时被拦截。用户可以通过错误提示中的“Send Feedback”按钮反馈错误判断。"
+                "x": "协议还包括：预算超过£50M ($66M) 的电影片酬上调24%，流媒体平台使用费提高3个百分点，自拍试镜视频设72小时通知期。秘书长Paul W Fleming表示：“我们拿到了业内最好的AI条款。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Runway relaja su moderación\npara la violencia de ficción",
-          "body": "Runway ahora permite duelos de espadas, tiroteos y terror, pero sigue bloqueando el contenido que causa daño real.",
-          "mini_headline": "Runway admite la violencia de ficción",
+          "headline": "Equity apoya la oferta de Pact\ncon cuatro apartados sobre AI",
+          "body": "Equity pide a sus 8,000 miembros aceptar la oferta de Pact de cine y TV de UK 2027-2029, con cuatro apartados de AI.",
+          "mini_headline": "Equity respalda la oferta AI-term",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/closing-the-gap-between-policy-and-practice-1600x1067-fc002504-f4d6-44f4-a6d7-941a5b751aed.png"
+                "src": "https://deadline.com/wp-content/uploads/2026/11/DSCF9690.jpeg?w=1024"
               },
               {
                 "t": "p",
-                "x": "La gente acude a Runway para contar historias, y muchas grandes historias implican conflicto, peligro o violencia. En los últimos dos años, la moderación de Runway ha evolucionado para permitir muchas más de esas historias sin dejar de bloquear el contenido que causa daño real."
+                "x": "Casi tres años después de sentarse a negociar por primera vez, el sindicato británico de actores Equity somete la oferta final de la patronal de productores Pact a sus 8,000 actores afiliados, con la recomendación de votar “sí”. El acuerdo cubre la mayoría de las series y películas británicas desde el 1 de enero de 2027 hasta el 31 de diciembre de 2029, pero ha sido la inteligencia artificial la que ha retrasado el proceso una y otra vez."
               },
               {
                 "t": "p",
-                "x": "Hace dos años dependía de clasificadores de terceros que puntuaban el contenido en categorías fijas como “sangre” o “armas” y no distinguían una batalla fantástica de la violencia real. Durante un tiempo se bloqueaba incluso una pequeña gota de sangre o un rasguño leve, y a veces el kétchup o la pintura roja se confundían con sangre."
-              },
-              {
-                "t": "img",
-                "src": "https://image.mux.com/HLmH7qc2D6F02mKbyzuKSftNdKVkPrPMs21OfxVWdWZ8/thumbnail.webp",
-                "cap": "Ejemplos de contenido que nuestras políticas permiten pero que nuestras herramientas anteriores habrían bloqueado."
+                "x": "Equity afirmó que el apartado de AI ha “mejorado significativamente” y tiene cuatro ejes: protecciones para la creación y el uso de réplicas digitales, para las alteraciones digitales de una interpretación, frente a los “Synthetics”, y obligaciones sobre las licencias de entrenamiento de AI. Los actores tendrán “derecho a cobrar cuando se use su réplica digital” y a consentir su uso, y un productor “no puede obtener un consentimiento general”, solo para proyectos concretos. Equity no logró protecciones para la “eliminación de réplicas digitales” ni para el escaneo habitual de CGI/VFX."
               },
               {
                 "t": "p",
-                "x": "Los avances en los grandes modelos de lenguaje cambiaron dos cosas: Runway puede fijar sus propias políticas y actualizarlas en horas o incluso minutos, y aplicarlas con más contexto. Eso permite a los usuarios incluir duelos de espadas, tiroteos, escenas de batalla y terror, mientras que el contenido violento dirigido a grupos protegidos, las recreaciones de ataques extremistas violentos, el contenido sexualizado con menores y el NCII se bloquean con más precisión."
-              },
-              {
-                "t": "p",
-                "x": "Persisten limitaciones: los modelos de terceros en Runway aplican su propia moderación, los LLMs aún cometen errores y la falta de contexto hace que a veces se bloquee un uso legítimo. Los usuarios pueden señalar decisiones erróneas con el botón “Send Feedback” del mensaje de error."
+                "x": "El acuerdo incluye además una subida del 24% en las tarifas de las películas con presupuesto superior a £50M ($66M), un aumento de 3 puntos porcentuales en las tarifas por uso en plataformas de streaming y un plazo de aviso de 72 horas para las self-tapes. El secretario general, Paul W Fleming: “Hemos logrado las mejores disposiciones sobre AI del sector”."
               }
             ]
           }
@@ -223,141 +169,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Runway, 장르 폭력\n모더레이션 기준 완화",
-          "body": "Runway는 칼싸움·총격전·호러는 허용하되 실제 해를 끼치는 콘텐츠는 막는다.",
-          "mini_headline": "Runway, 장르 폭력 허용",
+          "headline": "Equity, Pact의\n네 갈래 AI 조항안 지지",
+          "body": "Equity는 2027-2029 UK 영화·TV안 수락을 8,000명에게 권했다.",
+          "mini_headline": "Equity, AI-term 제안 지지",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/closing-the-gap-between-policy-and-practice-1600x1067-fc002504-f4d6-44f4-a6d7-941a5b751aed.png"
+                "src": "https://deadline.com/wp-content/uploads/2026/11/DSCF9690.jpeg?w=1024"
               },
               {
                 "t": "p",
-                "x": "사람들은 이야기를 하려고 Runway를 찾고, 훌륭한 이야기 상당수에는 갈등과 위험, 폭력이 담겨 있다. 지난 두 해 동안 Runway의 모더레이션은 실제 해를 끼치는 콘텐츠는 계속 막으면서 이런 이야기를 훨씬 더 많이 허용하는 방향으로 발전했다."
+                "x": "처음 협상 테이블에 앉은 지 세 해 가까이 지난 지금, 영국 배우 노조 Equity가 제작사 단체 Pact의 최종 제안을 8,000명 규모의 배우 조합원 투표에 부치며 ‘찬성’을 권고했다. 이번 합의는 2027년 1월 1일부터 2029년 12월 31일까지 영국 드라마와 영화 대부분에 적용되지만, 협상을 거듭 늦춘 것은 인공지능이었다."
               },
               {
                 "t": "p",
-                "x": "두 해 전만 해도 Runway는 “피”나 “무기” 같은 고정된 범주로 콘텐츠를 채점하는 서드파티 분류기에 의존했고, 판타지 전투와 실제 폭력을 구분하지 못했다. 한때는 작은 핏방울이나 가벼운 긁힌 상처까지 차단됐고, 케첩이나 붉은 물감을 피로 오인하는 일도 있었다."
-              },
-              {
-                "t": "img",
-                "src": "https://image.mux.com/HLmH7qc2D6F02mKbyzuKSftNdKVkPrPMs21OfxVWdWZ8/thumbnail.webp",
-                "cap": "현재 정책은 허용하지만 이전 도구였다면 차단했을 콘텐츠의 예시."
+                "x": "Equity는 AI 부문이 “크게 개선됐다”며 네 갈래로 구성된다고 밝혔다. 디지털 복제물의 제작과 사용에 대한 보호, 연기의 디지털 변형에 대한 보호, “Synthetics”에 대한 보호, 그리고 AI 학습 라이선스에 관한 의무다. 배우는 “디지털 복제물이 사용될 때 보수를 받을 권리”와 그 사용에 동의할 권리를 갖고, 제작사는 “포괄적 동의를 받을 수 없으며” 특정 프로젝트에 한해서만 동의를 받는다. Equity는 “디지털 복제물 삭제”나 관행적인 CGI/VFX 스캔에 대한 보호는 얻어내지 못했다."
               },
               {
                 "t": "p",
-                "x": "대규모 언어 모델의 발전은 두 가지를 바꿨다. Runway가 자체 정책을 정하고 몇 시간, 심지어 몇 분 만에 갱신할 수 있게 됐고, 더 많은 맥락을 반영해 적용할 수 있게 됐다. 덕분에 사용자는 칼싸움, 총격전, 전투 장면, 호러를 작품에 담을 수 있고, 보호 대상 집단을 겨냥한 폭력 콘텐츠, 폭력적 극단주의 공격의 재현, 미성년자가 관련된 성적 콘텐츠, NCII는 더 정확하게 걸러진다."
-              },
-              {
-                "t": "p",
-                "x": "한계도 남아 있다. Runway에서 쓰는 서드파티 모델은 자체 모더레이션을 적용하고, LLMs는 여전히 실수를 하며, 맥락이 부족하면 정당한 사용 사례가 차단되기도 한다. 사용자는 오류 메시지의 “Send Feedback” 버튼으로 잘못된 판단을 신고할 수 있다."
+                "x": "합의에는 예산 £50M ($66M) 이상 영화의 출연료 24% 인상, 스트리밍 플랫폼 이용료 3퍼센트포인트 인상, 셀프테이프 72시간 사전 통지 기간도 담겼다. Paul W Fleming 사무총장은 “업계 최고의 AI 조항을 얻어냈다”고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Runway、ジャンル\n暴力の規制を緩和",
-          "body": "Runwayは剣戟や銃撃戦、ホラーを認めつつ、実害のある内容は引き続き遮断する。",
-          "mini_headline": "Runway、ジャンル暴力を容認",
+          "headline": "Equity、Pact案支持\nAI条項は四本柱",
+          "body": "Equityは8,000人にPactの2027-2029年UK映画・TV案の受諾を勧めた。",
+          "mini_headline": "Equity、AI-term案を支持",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/closing-the-gap-between-policy-and-practice-1600x1067-fc002504-f4d6-44f4-a6d7-941a5b751aed.png"
+                "src": "https://deadline.com/wp-content/uploads/2026/11/DSCF9690.jpeg?w=1024"
               },
               {
                 "t": "p",
-                "x": "人々は物語を語るためにRunwayを訪れ、優れた物語の多くは対立や危険、暴力を含む。この二年間でRunwayのモデレーションは、実害をもたらすコンテンツを遮断し続けながら、そうした物語をはるかに多く認める方向へ進化してきた。"
+                "x": "初めて交渉の席に着いてから三年近く、英国の俳優組合Equityは制作会社団体Pactの最終提案を、「賛成」票を推奨したうえで8,000人の俳優会員に諮る。合意は2027年1月1日から2029年12月31日まで英国のドラマと映画の大半を対象とするが、交渉を幾度も遅らせてきたのは人工知能だった。"
               },
               {
                 "t": "p",
-                "x": "二年前は、「血」や「武器」といった固定カテゴリーでコンテンツを採点するサードパーティーの分類器に頼っており、ファンタジーの戦闘と現実の暴力を区別できなかった。一時は小さな血のしずくや軽いかすり傷さえ遮断され、ケチャップや赤い絵の具が血と誤認されることもあった。"
-              },
-              {
-                "t": "img",
-                "src": "https://image.mux.com/HLmH7qc2D6F02mKbyzuKSftNdKVkPrPMs21OfxVWdWZ8/thumbnail.webp",
-                "cap": "現在のポリシーでは認められるが、以前のツールなら遮断されていたコンテンツの例。"
+                "x": "EquityはAI部分が「大幅に改善された」とし、四本柱で構成されると説明した。デジタルレプリカの作成と使用に関する保護、演技のデジタル改変に関する保護、「Synthetics」に対する保護、そしてAI学習のライセンスをめぐる義務である。俳優は「デジタルレプリカが使用された際に報酬を受け取る権利」とその使用に同意する権利を持ち、制作者は「包括的な同意を得ることはできず」、特定のプロジェクトに限って同意を得られる。Equityは「デジタルレプリカの削除」や慣行となっているCGI/VFXスキャンに関する保護は勝ち取れなかった。"
               },
               {
                 "t": "p",
-                "x": "大規模言語モデルの進歩は二つのことを変えた。Runwayは自社のポリシーを定めて数時間、あるいは数分で更新でき、より多くの文脈を踏まえて適用できるようになった。これによりユーザーは剣戟、銃撃戦、戦闘シーン、ホラーを取り入れられる一方、保護対象の集団に向けた暴力的コンテンツ、暴力的過激主義による攻撃の再現、未成年者が関わる性的コンテンツ、NCIIはより正確に遮断される。"
-              },
-              {
-                "t": "p",
-                "x": "限界も残る。Runway上のサードパーティー製モデルは独自のモデレーションを適用し、LLMsは今も誤りを犯し、文脈が欠けると正当な用途が遮断されることもある。ユーザーはエラーメッセージの「Send Feedback」ボタンから誤った判断を報告できる。"
+                "x": "合意には、予算£50M ($66M) 超の映画での出演料24%引き上げ、ストリーミングプラットフォーム利用料の3パーセントポイント上乗せ、セルフテープの72時間前通知期間も含まれる。Paul W Fleming書記長は「業界最高のAI条項を勝ち取った」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Runway放宽类型片\n暴力内容审核",
-          "body": "Runway的审核现允许剑斗、枪战和恐怖内容，同时继续拦截造成真实伤害的内容。",
-          "mini_headline": "Runway允许类型片暴力",
+          "headline": "Equity支持Pact方案\n含四部分AI条款",
+          "body": "Equity建议8,000名会员接受Pact的2027-2029年UK影视方案，含AI条款。",
+          "mini_headline": "Equity支持AI-term方案",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/closing-the-gap-between-policy-and-practice-1600x1067-fc002504-f4d6-44f4-a6d7-941a5b751aed.png"
+                "src": "https://deadline.com/wp-content/uploads/2026/11/DSCF9690.jpeg?w=1024"
               },
               {
                 "t": "p",
-                "x": "人们来到Runway讲故事，而许多好故事都涉及冲突、危险或暴力。过去两年里，Runway的审核机制不断演进，在继续拦截造成真实伤害的内容的同时，允许了多得多的此类故事。"
+                "x": "双方首次坐上谈判桌近三年后，英国演员工会Equity将制片商行业组织Pact的最终方案提交给8,000名演员会员表决，并建议投“赞成”票。该协议覆盖2027年1月1日至2029年12月31日期间英国大多数剧集和电影，但一再拖慢进程的正是人工智能。"
               },
               {
                 "t": "p",
-                "x": "两年前，它依赖第三方分类器，按“血腥”或“武器”等固定类别给内容打分，无法区分奇幻战斗与真实暴力。有一段时间，哪怕一小滴血或轻微擦伤都会被拦截，有时番茄酱或红色颜料也会被误认为血。"
-              },
-              {
-                "t": "img",
-                "src": "https://image.mux.com/HLmH7qc2D6F02mKbyzuKSftNdKVkPrPMs21OfxVWdWZ8/thumbnail.webp",
-                "cap": "我们的政策允许、但早期工具会拦截的内容示例。"
+                "x": "Equity表示，AI部分“已显著改善”，包含四个方面：对数字复制体的创建与使用的保护、对表演数字修改的保护、针对“Synthetics”的保护，以及围绕AI训练授权的义务。演员将“在数字复制体被使用时享有获得报酬的权利”，并有权同意其使用；制片方“不能获得一揽子同意”，只能针对具体项目取得同意。Equity未能争取到“数字复制体删除”或常规CGI/VFX扫描方面的保护。"
               },
               {
                 "t": "p",
-                "x": "大语言模型的进步改变了两件事：Runway可以制定自己的政策，并在几小时甚至几分钟内更新，还能结合更多上下文加以执行。用户因此可以加入剑斗、枪战、战斗场面和恐怖元素，而针对受保护群体的暴力内容、暴力极端主义袭击的再现、涉及未成年人的色情内容以及NCII则会被更准确地拦截。"
-              },
-              {
-                "t": "p",
-                "x": "局限依然存在：Runway上的第三方模型采用各自的审核机制，LLMs仍会出错，缺少上下文也会导致合理用例有时被拦截。用户可以通过错误提示中的“Send Feedback”按钮反馈错误判断。"
+                "x": "协议还包括：预算超过£50M ($66M) 的电影片酬上调24%，流媒体平台使用费提高3个百分点，自拍试镜视频设72小时通知期。秘书长Paul W Fleming表示：“我们拿到了业内最好的AI条款。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Runway relaja su moderación\npara la violencia de ficción",
-          "body": "Runway ahora permite duelos de espadas, tiroteos y terror, pero sigue bloqueando el contenido que causa daño real.",
-          "mini_headline": "Runway admite la violencia de ficción",
+          "headline": "Equity apoya la oferta de Pact\ncon cuatro apartados sobre AI",
+          "body": "Equity pide a sus 8,000 miembros aceptar la oferta de Pact de cine y TV de UK 2027-2029, con cuatro apartados de AI.",
+          "mini_headline": "Equity respalda la oferta AI-term",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/closing-the-gap-between-policy-and-practice-1600x1067-fc002504-f4d6-44f4-a6d7-941a5b751aed.png"
+                "src": "https://deadline.com/wp-content/uploads/2026/11/DSCF9690.jpeg?w=1024"
               },
               {
                 "t": "p",
-                "x": "La gente acude a Runway para contar historias, y muchas grandes historias implican conflicto, peligro o violencia. En los últimos dos años, la moderación de Runway ha evolucionado para permitir muchas más de esas historias sin dejar de bloquear el contenido que causa daño real."
+                "x": "Casi tres años después de sentarse a negociar por primera vez, el sindicato británico de actores Equity somete la oferta final de la patronal de productores Pact a sus 8,000 actores afiliados, con la recomendación de votar “sí”. El acuerdo cubre la mayoría de las series y películas británicas desde el 1 de enero de 2027 hasta el 31 de diciembre de 2029, pero ha sido la inteligencia artificial la que ha retrasado el proceso una y otra vez."
               },
               {
                 "t": "p",
-                "x": "Hace dos años dependía de clasificadores de terceros que puntuaban el contenido en categorías fijas como “sangre” o “armas” y no distinguían una batalla fantástica de la violencia real. Durante un tiempo se bloqueaba incluso una pequeña gota de sangre o un rasguño leve, y a veces el kétchup o la pintura roja se confundían con sangre."
-              },
-              {
-                "t": "img",
-                "src": "https://image.mux.com/HLmH7qc2D6F02mKbyzuKSftNdKVkPrPMs21OfxVWdWZ8/thumbnail.webp",
-                "cap": "Ejemplos de contenido que nuestras políticas permiten pero que nuestras herramientas anteriores habrían bloqueado."
+                "x": "Equity afirmó que el apartado de AI ha “mejorado significativamente” y tiene cuatro ejes: protecciones para la creación y el uso de réplicas digitales, para las alteraciones digitales de una interpretación, frente a los “Synthetics”, y obligaciones sobre las licencias de entrenamiento de AI. Los actores tendrán “derecho a cobrar cuando se use su réplica digital” y a consentir su uso, y un productor “no puede obtener un consentimiento general”, solo para proyectos concretos. Equity no logró protecciones para la “eliminación de réplicas digitales” ni para el escaneo habitual de CGI/VFX."
               },
               {
                 "t": "p",
-                "x": "Los avances en los grandes modelos de lenguaje cambiaron dos cosas: Runway puede fijar sus propias políticas y actualizarlas en horas o incluso minutos, y aplicarlas con más contexto. Eso permite a los usuarios incluir duelos de espadas, tiroteos, escenas de batalla y terror, mientras que el contenido violento dirigido a grupos protegidos, las recreaciones de ataques extremistas violentos, el contenido sexualizado con menores y el NCII se bloquean con más precisión."
-              },
-              {
-                "t": "p",
-                "x": "Persisten limitaciones: los modelos de terceros en Runway aplican su propia moderación, los LLMs aún cometen errores y la falta de contexto hace que a veces se bloquee un uso legítimo. Los usuarios pueden señalar decisiones erróneas con el botón “Send Feedback” del mensaje de error."
+                "x": "El acuerdo incluye además una subida del 24% en las tarifas de las películas con presupuesto superior a £50M ($66M), un aumento de 3 puntos porcentuales en las tarifas por uso en plataformas de streaming y un plazo de aviso de 72 horas para las self-tapes. El secretario general, Paul W Fleming: “Hemos logrado las mejores disposiciones sobre AI del sector”."
               }
             ]
           }
@@ -365,219 +275,171 @@
       }
     },
     {
-      "id": "kling4-seedance-test",
+      "id": "cnc-ai-dubbing-funding",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Kling 4.0, 맞수는\nSeedance 2.5",
-      "body": "Curious Refuge가 Kling 4.0과 Seedance 2.5를 맞붙였다.",
-      "mini_headline": "Kling 4.0 vs Seedance 2.5",
+      "headline": "프랑스 CNC는\nAI-only 더빙 미지원",
+      "body": "11월 1일부터 CNC 더빙·자막·화면해설 지원은 인간 작가·연기자에게만 간다.",
+      "mini_headline": "프랑스, AI 더빙 지원 제한",
       "tool": "Movies",
-      "source": "Curious Refuge (YouTube)",
-      "url": "https://www.youtube.com/watch?v=sh4bkvZQ1WE",
+      "source": "Slator",
+      "url": "https://slator.com/france-stops-ai-dubbing-subtitling-funding/",
       "accent": "#f5a623",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "video",
-            "yt": "sh4bkvZQ1WE"
-          },
-          {
-            "t": "p",
-            "x": "“We Tested Kling 4.0 Against Seedance 2.5, and It’s Not Close”(Kling 4.0과 Seedance 2.5를 비교해 보니 상대가 되지 않았다). 최근 온라인에서는 Kling 4.0이 화제였고, ByteDance의 Seedance 2.5보다 낫다는 말까지 돌았다. Curious Refuge가 이 주장을 직접 따져 봤다."
-          },
-          {
-            "t": "p",
-            "x": "Kuaishou의 Kling 4.0은 1080p로 최대 30초짜리 영상을 만든다. 두 모델을 나란히 놓고 돌린 테스트는 여섯 가지다. 캐릭터 레퍼런스를 넣은 사막 액션 장면, 사무라이와 로마 전사의 결투, 드론 궤도 카메라 레퍼런스, 말하는 원숭이가 나오는 New York 택시 대화, text-to-video 하이킹 숏, 애니메이션 스타일 레퍼런스다."
-          },
-          {
             "t": "img",
-            "src": "https://images.squarespace-cdn.com/content/v1/55bd7005e4b06da83f63b8d9/937c37be-3180-4f94-a605-16dbf03f02b7/Test+04+-+StyleReference+-+REFERENCE.png",
-            "cap": "스타일 레퍼런스 이미지"
+            "src": "https://slator.com/assets/2026/11/velora-473c5db10304df06.png",
+            "cap": "“La fin du cinéma”"
           },
           {
             "t": "p",
-            "x": "액션은 Seedance가 더 역동적이었고, 결투 장면에 고급 액션 장면 같은 에너지를 불어넣었다. Kling은 prompt-only 하이킹 숏에서 가장 근접했으며 애니메이션 스타일 레퍼런스도 더 비슷하게 재현했다. 비용 차이도 컸다. Magnific에서 사막 시퀀스를 만드는 데 1080p의 Kling 4.0은 $8.40, Seedance 2.5 standard는 $24.00가 들었다."
+            "x": "프랑스 국립영화영상센터(Centre national du cinéma et de l’image animée, CNC)는 인간 창작자가 전혀 참여하지 않은 더빙·자막·화면해설 프로젝트에 더 이상 자금을 대지 않는다. 이사회가 2026년 10월 14일 변경안을 채택했다. 10월 31일 Journal officiel에 실린 문안은 지원 대상 현지화 비용을 인간 작가·연기자와 그 결과물에 딸린 기술 작업으로 묶었다."
           },
           {
             "t": "p",
-            "x": "액션 물리, 카메라 움직임, 실사 같은 룩이 중요하다면 Seedance 2.5부터 써 보는 편이 낫다. 가장 까다로운 테스트 전반에서 더 좋은 결과를 냈다."
+            "x": "영화·영상물·비디오게임은 집필, 개발, 제작 과정에 “최소 한 명의 작가가 참여”해야 한다. 애니메이션에는 “그래픽 작가”가 최소 한 명, CNC 지원(CNC-funded) 오리지널 음악에는 인간 작곡가가 있어야 한다. 더빙 지원금은 대본을 쓰는 사람과 이를 연기하는 성우, 녹음·믹싱에만 쓸 수 있다. 자막 지원금은 인간 작가와 싱크 작업에 돌아간다."
+          },
+          {
+            "t": "p",
+            "x": "AI를 전면 금지하는 규정은 아니다. 문화부는 “AI의 전략적 활용은 [그럼에도] 업계 전문가들이 창작·기술 과정에 도움이 되는 도구를 갖추게 할 수 있다”면서도 “창작은 무엇보다 인간의 일로 남아야 한다”고 밝혔다. 규정은 2026년 11월 1일 발효돼 이날 이후 신청한 프로젝트부터 적용된다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Kling 4.0 goes head-to-head\nwith Seedance 2.5",
-          "body": "Curious Refuge pits Kuaishou's new Kling 4.0 against ByteDance's Seedance 2.5 in a test of cinematic shots.",
-          "mini_headline": "Kling 4.0 vs Seedance 2.5",
+          "headline": "France's CNC won't fund\nAI-only dubbing and subtitles",
+          "body": "Since Nov. 1, CNC funding for dubbing, subtitling and audio description covers only human authors and performers.",
+          "mini_headline": "France curbs AI dubbing funds",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "sh4bkvZQ1WE"
-              },
-              {
-                "t": "p",
-                "x": "We Tested Kling 4.0 Against Seedance 2.5, and It’s Not Close. There's been a lot of talk about Kling 4.0 online recently, with some people saying it is better than Seedance 2.5 — Curious Refuge puts that claim to the test."
-              },
-              {
-                "t": "p",
-                "x": "Kling 4.0 can generate up to 30 seconds of video at 1080p. The six side-by-side tests: a desert action scene with character references, a samurai vs. Roman warrior fight, a drone orbit camera reference, a New York taxi dialogue with a talking monkey, a text-to-video hiking shot and an anime style reference."
-              },
-              {
                 "t": "img",
-                "src": "https://images.squarespace-cdn.com/content/v1/55bd7005e4b06da83f63b8d9/937c37be-3180-4f94-a605-16dbf03f02b7/Test+04+-+StyleReference+-+REFERENCE.png",
-                "cap": "Style Reference Image"
+                "src": "https://slator.com/assets/2026/11/velora-473c5db10304df06.png",
+                "cap": "“La fin du cinéma”"
               },
               {
                 "t": "p",
-                "x": "Seedance made the action feel more dynamic and gave the fight the energy of a high-end action scene; Kling came closest on the prompt-only hiking shot and matched the anime style reference more closely. For the desert sequence in Magnific, Kling 4.0 at 1080p cost $8.40 versus $24.00 for Seedance 2.5 standard."
+                "x": "France’s Centre national du cinéma et de l’image animée (CNC) will no longer fund dubbing, subtitling, or audio description projects produced without any human creators. The board adopted the change on October 14, 2026; the text, published in the Journal officiel on October 31, limits eligible localization spending to human authors and performers and the technical work around their output."
               },
               {
                 "t": "p",
-                "x": "Verdict: for action physics, camera movement or a live-action look, start with Seedance 2.5, which performed better across the most demanding tests."
+                "x": "For films, audiovisual works and video games, writing, development and production must “involve at least one author”; animation needs at least one “graphic author,” and CNC-funded original music a human composer. Dubbing funds can only pay the people who write the text and the voice-actors who perform it, plus recording and mixing; subtitling funds cover human authors and synchronization."
+              },
+              {
+                "t": "p",
+                "x": "The rules stop short of banning AI outright. The culture ministry said “a strategic use of AI can [nevertheless] allow industry professionals to acquire tools that serve the creative and technical process,” but “creation must remain primarily a human endeavor.” The rule took effect on November 1, 2026, for projects applying on or after that date."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Kling 4.0, 맞수는\nSeedance 2.5",
-          "body": "Curious Refuge가 Kling 4.0과 Seedance 2.5를 맞붙였다.",
-          "mini_headline": "Kling 4.0 vs Seedance 2.5",
+          "headline": "프랑스 CNC는\nAI-only 더빙 미지원",
+          "body": "11월 1일부터 CNC 더빙·자막·화면해설 지원은 인간 작가·연기자에게만 간다.",
+          "mini_headline": "프랑스, AI 더빙 지원 제한",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "sh4bkvZQ1WE"
-              },
-              {
-                "t": "p",
-                "x": "“We Tested Kling 4.0 Against Seedance 2.5, and It’s Not Close”(Kling 4.0과 Seedance 2.5를 비교해 보니 상대가 되지 않았다). 최근 온라인에서는 Kling 4.0이 화제였고, ByteDance의 Seedance 2.5보다 낫다는 말까지 돌았다. Curious Refuge가 이 주장을 직접 따져 봤다."
-              },
-              {
-                "t": "p",
-                "x": "Kuaishou의 Kling 4.0은 1080p로 최대 30초짜리 영상을 만든다. 두 모델을 나란히 놓고 돌린 테스트는 여섯 가지다. 캐릭터 레퍼런스를 넣은 사막 액션 장면, 사무라이와 로마 전사의 결투, 드론 궤도 카메라 레퍼런스, 말하는 원숭이가 나오는 New York 택시 대화, text-to-video 하이킹 숏, 애니메이션 스타일 레퍼런스다."
-              },
-              {
                 "t": "img",
-                "src": "https://images.squarespace-cdn.com/content/v1/55bd7005e4b06da83f63b8d9/937c37be-3180-4f94-a605-16dbf03f02b7/Test+04+-+StyleReference+-+REFERENCE.png",
-                "cap": "스타일 레퍼런스 이미지"
+                "src": "https://slator.com/assets/2026/11/velora-473c5db10304df06.png",
+                "cap": "“La fin du cinéma”"
               },
               {
                 "t": "p",
-                "x": "액션은 Seedance가 더 역동적이었고, 결투 장면에 고급 액션 장면 같은 에너지를 불어넣었다. Kling은 prompt-only 하이킹 숏에서 가장 근접했으며 애니메이션 스타일 레퍼런스도 더 비슷하게 재현했다. 비용 차이도 컸다. Magnific에서 사막 시퀀스를 만드는 데 1080p의 Kling 4.0은 $8.40, Seedance 2.5 standard는 $24.00가 들었다."
+                "x": "프랑스 국립영화영상센터(Centre national du cinéma et de l’image animée, CNC)는 인간 창작자가 전혀 참여하지 않은 더빙·자막·화면해설 프로젝트에 더 이상 자금을 대지 않는다. 이사회가 2026년 10월 14일 변경안을 채택했다. 10월 31일 Journal officiel에 실린 문안은 지원 대상 현지화 비용을 인간 작가·연기자와 그 결과물에 딸린 기술 작업으로 묶었다."
               },
               {
                 "t": "p",
-                "x": "액션 물리, 카메라 움직임, 실사 같은 룩이 중요하다면 Seedance 2.5부터 써 보는 편이 낫다. 가장 까다로운 테스트 전반에서 더 좋은 결과를 냈다."
+                "x": "영화·영상물·비디오게임은 집필, 개발, 제작 과정에 “최소 한 명의 작가가 참여”해야 한다. 애니메이션에는 “그래픽 작가”가 최소 한 명, CNC 지원(CNC-funded) 오리지널 음악에는 인간 작곡가가 있어야 한다. 더빙 지원금은 대본을 쓰는 사람과 이를 연기하는 성우, 녹음·믹싱에만 쓸 수 있다. 자막 지원금은 인간 작가와 싱크 작업에 돌아간다."
+              },
+              {
+                "t": "p",
+                "x": "AI를 전면 금지하는 규정은 아니다. 문화부는 “AI의 전략적 활용은 [그럼에도] 업계 전문가들이 창작·기술 과정에 도움이 되는 도구를 갖추게 할 수 있다”면서도 “창작은 무엇보다 인간의 일로 남아야 한다”고 밝혔다. 규정은 2026년 11월 1일 발효돼 이날 이후 신청한 프로젝트부터 적용된다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Kling 4.0と\nSeedance 2.5激突",
-          "body": "Curious RefugeがKling 4.0とSeedance 2.5を比較した。",
-          "mini_headline": "Kling 4.0 vs Seedance 2.5",
+          "headline": "仏CNC、AI-onlyの\n吹き替え・字幕に助成せず",
+          "body": "11月1日以降、CNCの吹き替え・字幕・音声解説助成は人間の作者と演者のみが対象だ。",
+          "mini_headline": "仏、AI吹き替えへの助成を制限",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "sh4bkvZQ1WE"
-              },
-              {
-                "t": "p",
-                "x": "「We Tested Kling 4.0 Against Seedance 2.5, and It’s Not Close」(Kling 4.0とSeedance 2.5を比べたら勝負にならなかった)。最近ネットではKling 4.0が話題で、ByteDanceのSeedance 2.5より優れているという声もある。Curious Refugeがその主張を検証した。"
-              },
-              {
-                "t": "p",
-                "x": "KuaishouのKling 4.0は1080pで最大30秒の動画を生成できる。横並びのテストは六つ。キャラクター参照付きの砂漠のアクションシーン、侍とローマ戦士の戦い、ドローンの周回カメラ参照、しゃべる猿が登場するNew Yorkのタクシーでの会話、text-to-videoのハイキングショット、アニメのスタイル参照だ。"
-              },
-              {
                 "t": "img",
-                "src": "https://images.squarespace-cdn.com/content/v1/55bd7005e4b06da83f63b8d9/937c37be-3180-4f94-a605-16dbf03f02b7/Test+04+-+StyleReference+-+REFERENCE.png",
-                "cap": "スタイル参照画像"
+                "src": "https://slator.com/assets/2026/11/velora-473c5db10304df06.png",
+                "cap": "“La fin du cinéma”"
               },
               {
                 "t": "p",
-                "x": "Seedanceはアクションをよりダイナミックに見せ、戦闘にハイエンドなアクションシーンの迫力を与えた。Klingはprompt-onlyのハイキングショットで最も意図に近く、アニメのスタイル参照にもより忠実だった。Magnificでの砂漠シーンでは、1080pのKling 4.0が$8.40、Seedance 2.5 standardが$24.00だった。"
+                "x": "フランス国立映画映像センター(Centre national du cinéma et de l’image animée、CNC)は、人間のクリエイターが一切関わらずに制作された吹き替え・字幕・音声解説プロジェクトへの助成を打ち切る。理事会は2026年10月14日にこの変更を採択し、10月31日にJournal officielで公布された条文は、助成対象となるローカライズ費用を人間の作者と演者、およびその成果物にまつわる技術作業に限定している。"
               },
               {
                 "t": "p",
-                "x": "結論として、アクションの物理挙動、カメラワーク、実写的なルックを求めるなら、最も難しいテスト全体で上回ったSeedance 2.5から始めるのがよい。"
+                "x": "映画、映像作品、ビデオゲームでは、脚本、開発、制作に「少なくとも一人の作者が関与」しなければならない。アニメーションには少なくとも一人の「グラフィック作者」が、CNC-funded(CNC助成)のオリジナル音楽には人間の作曲家が必要だ。吹き替え助成金が支払われるのは台本を書く人とそれを演じる声優、そして録音とミキシングに限られ、字幕助成金は人間の作者と同期作業を対象とする。"
+              },
+              {
+                "t": "p",
+                "x": "規則はAIの全面禁止には踏み込んでいない。文化省は「AIの戦略的な活用は[それでも]業界の専門家が創作・技術プロセスに役立つツールを手にすることを可能にしうる」としつつ、「創作は何よりも人間の営みであり続けなければならない」と述べた。規則は2026年11月1日に発効し、同日以降に申請するプロジェクトに適用される。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Kling 4.0正面对决\nSeedance 2.5",
-          "body": "Curious Refuge用电影镜头对比Kling 4.0与Seedance 2.5。",
-          "mini_headline": "Kling 4.0 vs Seedance 2.5",
+          "headline": "法国CNC不再资助\nAI-only配音与字幕",
+          "body": "自11月1日起，CNC的配音、字幕和口述影像资助仅限人类作者与表演者。",
+          "mini_headline": "法国限制AI配音资助",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "sh4bkvZQ1WE"
-              },
-              {
-                "t": "p",
-                "x": "“We Tested Kling 4.0 Against Seedance 2.5, and It’s Not Close”（我们对比了Kling 4.0和Seedance 2.5，差距悬殊）。最近网上关于Kling 4.0的讨论很多，有人说它比ByteDance的Seedance 2.5更好——Curious Refuge对这一说法进行了检验。"
-              },
-              {
-                "t": "p",
-                "x": "Kuaishou的Kling 4.0能以1080p生成最长30秒的视频。六项并排测试分别是：带角色参考的沙漠动作场景、武士对战罗马战士、无人机环绕镜头参考、New York出租车里与会说话的猴子的对话、text-to-video徒步镜头，以及动漫风格参考。"
-              },
-              {
                 "t": "img",
-                "src": "https://images.squarespace-cdn.com/content/v1/55bd7005e4b06da83f63b8d9/937c37be-3180-4f94-a605-16dbf03f02b7/Test+04+-+StyleReference+-+REFERENCE.png",
-                "cap": "风格参考图"
+                "src": "https://slator.com/assets/2026/11/velora-473c5db10304df06.png",
+                "cap": "“La fin du cinéma”"
               },
               {
                 "t": "p",
-                "x": "Seedance让动作更具动感，赋予打斗高端动作场面的能量；Kling在prompt-only徒步镜头上最接近，对动漫风格参考的还原也更贴近。在Magnific中制作沙漠段落时，1080p的Kling 4.0花费$8.40，而Seedance 2.5 standard为$24.00。"
+                "x": "法国国家电影与动画中心(Centre national du cinéma et de l’image animée，CNC)将不再资助完全没有人类创作者参与的配音、字幕或口述影像项目。董事会于2026年10月14日通过这一调整；10月31日刊登于Journal officiel的文本，将符合资助条件的本地化支出限定于人类作者和表演者，以及围绕其成果的技术工作。"
               },
               {
                 "t": "p",
-                "x": "结论：若追求动作物理、镜头运动或真人实拍质感，应先用Seedance 2.5，它在最严苛的测试中整体表现更好。"
+                "x": "对于电影、视听作品和电子游戏，编剧、开发和制作必须“至少有一名作者参与”；动画至少需要一名“图像作者”，CNC资助(CNC-funded)的原创音乐需要人类作曲家。配音资助只能支付撰写文本的人员和演绎文本的配音演员，以及录音和混音；字幕资助涵盖人类作者和时间轴同步。"
+              },
+              {
+                "t": "p",
+                "x": "新规并未全面禁止AI。文化部表示，“[尽管如此，]对AI的策略性使用可以让业内专业人士获得服务于创作和技术流程的工具”，但“创作必须首先是人类的事业”。该规定于2026年11月1日生效，适用于当日及之后提交申请的项目。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Kling 4.0 se mide cara a cara\ncon Seedance 2.5",
-          "body": "Curious Refuge enfrenta Kling 4.0 de Kuaishou al Seedance 2.5 de ByteDance en una prueba de planos cinematográficos.",
-          "mini_headline": "Kling 4.0 vs Seedance 2.5",
+          "headline": "El CNC francés no financiará\ndoblaje ni subtítulos AI-only",
+          "body": "Desde el 1 de noviembre, el CNC solo financia doblaje, subtítulos y audiodescripción con autores e intérpretes humanos.",
+          "mini_headline": "Francia limita las ayudas al doblaje con AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "sh4bkvZQ1WE"
-              },
-              {
-                "t": "p",
-                "x": "“We Tested Kling 4.0 Against Seedance 2.5, and It’s Not Close” (Probamos Kling 4.0 contra Seedance 2.5 y no hay comparación). Últimamente se ha hablado mucho de Kling 4.0 en internet, y hay quien dice que supera a Seedance 2.5; Curious Refuge pone esa afirmación a prueba."
-              },
-              {
-                "t": "p",
-                "x": "Kling 4.0 puede generar hasta 30 segundos de vídeo a 1080p. Las seis pruebas en paralelo: una escena de acción en el desierto con referencias de personajes, un combate entre un samurái y un guerrero romano, una referencia de cámara orbital con dron, un diálogo en un taxi de New York con un mono que habla, una toma de senderismo text-to-video y una referencia de estilo anime."
-              },
-              {
                 "t": "img",
-                "src": "https://images.squarespace-cdn.com/content/v1/55bd7005e4b06da83f63b8d9/937c37be-3180-4f94-a605-16dbf03f02b7/Test+04+-+StyleReference+-+REFERENCE.png",
-                "cap": "Imagen de referencia de estilo"
+                "src": "https://slator.com/assets/2026/11/velora-473c5db10304df06.png",
+                "cap": "“La fin du cinéma”"
               },
               {
                 "t": "p",
-                "x": "Seedance dio más dinamismo a la acción y aportó al combate la energía de una escena de acción de alto nivel; Kling se acercó más en la toma de senderismo prompt-only y se ajustó mejor a la referencia de estilo anime. Para la secuencia del desierto en Magnific, Kling 4.0 a 1080p costó $8.40 frente a los $24.00 de Seedance 2.5 standard."
+                "x": "El Centre national du cinéma et de l’image animée (CNC) de Francia dejará de financiar proyectos de doblaje, subtitulado o audiodescripción realizados sin ningún creador humano. El consejo aprobó el cambio el 14 de octubre de 2026; el texto, publicado en el Journal officiel el 31 de octubre, limita el gasto de localización subvencionable a autores e intérpretes humanos y al trabajo técnico en torno a su producción."
               },
               {
                 "t": "p",
-                "x": "Veredicto: para física de la acción, movimiento de cámara o un aspecto de imagen real, conviene empezar con Seedance 2.5, que rindió mejor en las pruebas más exigentes."
+                "x": "En películas, obras audiovisuales y videojuegos, la escritura, el desarrollo y la producción deben “involucrar al menos a un autor”; la animación necesita al menos un “autor gráfico”, y la música original CNC-funded (financiada por el CNC), un compositor humano. Las ayudas al doblaje solo pueden pagar a quienes escriben el texto y a los actores de voz que lo interpretan, además de la grabación y la mezcla; las de subtitulado cubren a los autores humanos y la sincronización."
+              },
+              {
+                "t": "p",
+                "x": "Las normas no llegan a prohibir la AI por completo. El Ministerio de Cultura señaló que “un uso estratégico de la AI puede [no obstante] permitir a los profesionales del sector adquirir herramientas al servicio del proceso creativo y técnico”, pero que “la creación debe seguir siendo ante todo una labor humana”. La norma entró en vigor el 1 de noviembre de 2026 para los proyectos que se presenten a partir de esa fecha."
               }
             ]
           }
@@ -585,141 +447,109 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Kling 4.0, 맞수는\nSeedance 2.5",
-          "body": "Curious Refuge가 Kling 4.0과 Seedance 2.5를 맞붙였다.",
-          "mini_headline": "Kling 4.0 vs Seedance 2.5",
+          "headline": "프랑스 CNC는\nAI-only 더빙 미지원",
+          "body": "11월 1일부터 CNC 더빙·자막·화면해설 지원은 인간 작가·연기자만 받는다.",
+          "mini_headline": "프랑스, AI 더빙 지원 제한",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "sh4bkvZQ1WE"
-              },
-              {
-                "t": "p",
-                "x": "“We Tested Kling 4.0 Against Seedance 2.5, and It’s Not Close”(Kling 4.0과 Seedance 2.5를 비교해 보니 상대가 되지 않았다). 최근 온라인에서 Kling 4.0이 화제가 됐고, ByteDance의 Seedance 2.5보다 낫다는 말도 나왔다. Curious Refuge가 그 주장을 직접 검증했다."
-              },
-              {
-                "t": "p",
-                "x": "Kuaishou의 Kling 4.0은 1080p로 최대 30초 길이의 영상을 만든다. 나란히 비교한 테스트는 여섯 가지다. 캐릭터 레퍼런스를 쓴 사막 액션 장면, 사무라이와 로마 전사의 결투, 드론 궤도 카메라 레퍼런스, 말하는 원숭이가 나오는 New York 택시 대화, text-to-video 하이킹 숏, 애니메이션 스타일 레퍼런스다."
-              },
-              {
                 "t": "img",
-                "src": "https://images.squarespace-cdn.com/content/v1/55bd7005e4b06da83f63b8d9/937c37be-3180-4f94-a605-16dbf03f02b7/Test+04+-+StyleReference+-+REFERENCE.png",
-                "cap": "스타일 레퍼런스 이미지"
+                "src": "https://slator.com/assets/2026/11/velora-473c5db10304df06.png",
+                "cap": "“La fin du cinéma”"
               },
               {
                 "t": "p",
-                "x": "Seedance는 액션을 더 역동적으로 그려 결투에 고급 액션 장면의 에너지를 불어넣었고, Kling은 prompt-only 하이킹 숏에서 가장 근접했으며 애니메이션 스타일 레퍼런스도 더 가깝게 재현했다. Magnific에서 사막 시퀀스를 만드는 데 1080p의 Kling 4.0은 $8.40, Seedance 2.5 standard는 $24.00가 들었다."
+                "x": "프랑스 국립영화영상센터(Centre national du cinéma et de l’image animée, CNC)는 인간 창작자가 전혀 참여하지 않은 더빙·자막·화면해설 프로젝트에 더 이상 자금을 지원하지 않는다. 이사회는 2026년 10월 14일 이 변경안을 채택했고, 10월 31일 Journal officiel에 게재된 문안은 지원 대상 현지화 비용을 인간 작가·연기자와 그 결과물을 둘러싼 기술 작업으로 한정한다."
               },
               {
                 "t": "p",
-                "x": "결론: 액션 물리, 카메라 움직임, 실사 같은 룩이 필요하다면 가장 까다로운 테스트 전반에서 더 나은 성능을 보인 Seedance 2.5부터 써 보는 것이 좋다."
+                "x": "영화·영상물·비디오게임은 집필, 개발, 제작 과정에 “최소 한 명의 작가가 참여”해야 한다. 애니메이션은 최소 한 명의 “그래픽 작가”가, CNC 지원(CNC-funded) 오리지널 음악은 인간 작곡가가 있어야 한다. 더빙 지원금은 대본을 쓰는 사람과 이를 연기하는 성우, 그리고 녹음·믹싱에만 쓸 수 있고, 자막 지원금은 인간 작가와 싱크 작업을 대상으로 한다."
+              },
+              {
+                "t": "p",
+                "x": "이번 규정이 AI를 전면 금지하는 것은 아니다. 문화부는 “AI의 전략적 활용은 [그럼에도] 업계 전문가들이 창작·기술 과정에 도움이 되는 도구를 갖추게 할 수 있다”면서도 “창작은 무엇보다 인간의 일로 남아야 한다”고 밝혔다. 규정은 2026년 11월 1일 발효됐고, 이날 이후 신청하는 프로젝트에 적용된다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Kling 4.0と\nSeedance 2.5激突",
-          "body": "Curious RefugeがKling 4.0とSeedance 2.5を比較した。",
-          "mini_headline": "Kling 4.0 vs Seedance 2.5",
+          "headline": "仏CNC、AI-onlyの\n吹き替え・字幕に助成せず",
+          "body": "11月1日以降、CNCの吹き替え・字幕・音声解説助成は人間の作者と演者のみが対象だ。",
+          "mini_headline": "仏、AI吹き替えへの助成を制限",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "sh4bkvZQ1WE"
-              },
-              {
-                "t": "p",
-                "x": "「We Tested Kling 4.0 Against Seedance 2.5, and It’s Not Close」(Kling 4.0とSeedance 2.5を比べたら勝負にならなかった)。最近ネットではKling 4.0が話題で、ByteDanceのSeedance 2.5より優れているという声もある。Curious Refugeがその主張を検証した。"
-              },
-              {
-                "t": "p",
-                "x": "KuaishouのKling 4.0は1080pで最大30秒の動画を生成できる。横並びのテストは六つ。キャラクター参照付きの砂漠のアクションシーン、侍とローマ戦士の戦い、ドローンの周回カメラ参照、しゃべる猿が登場するNew Yorkのタクシーでの会話、text-to-videoのハイキングショット、アニメのスタイル参照だ。"
-              },
-              {
                 "t": "img",
-                "src": "https://images.squarespace-cdn.com/content/v1/55bd7005e4b06da83f63b8d9/937c37be-3180-4f94-a605-16dbf03f02b7/Test+04+-+StyleReference+-+REFERENCE.png",
-                "cap": "スタイル参照画像"
+                "src": "https://slator.com/assets/2026/11/velora-473c5db10304df06.png",
+                "cap": "“La fin du cinéma”"
               },
               {
                 "t": "p",
-                "x": "Seedanceはアクションをよりダイナミックに見せ、戦闘にハイエンドなアクションシーンの迫力を与えた。Klingはprompt-onlyのハイキングショットで最も意図に近く、アニメのスタイル参照にもより忠実だった。Magnificでの砂漠シーンでは、1080pのKling 4.0が$8.40、Seedance 2.5 standardが$24.00だった。"
+                "x": "フランス国立映画映像センター(Centre national du cinéma et de l’image animée、CNC)は、人間のクリエイターが一切関わらずに制作された吹き替え・字幕・音声解説プロジェクトへの助成を打ち切る。理事会は2026年10月14日にこの変更を採択し、10月31日にJournal officielで公布された条文は、助成対象となるローカライズ費用を人間の作者と演者、およびその成果物にまつわる技術作業に限定している。"
               },
               {
                 "t": "p",
-                "x": "結論として、アクションの物理挙動、カメラワーク、実写的なルックを求めるなら、最も難しいテスト全体で上回ったSeedance 2.5から始めるのがよい。"
+                "x": "映画、映像作品、ビデオゲームでは、脚本、開発、制作に「少なくとも一人の作者が関与」しなければならない。アニメーションには少なくとも一人の「グラフィック作者」が、CNC-funded(CNC助成)のオリジナル音楽には人間の作曲家が必要だ。吹き替え助成金が支払われるのは台本を書く人とそれを演じる声優、そして録音とミキシングに限られ、字幕助成金は人間の作者と同期作業を対象とする。"
+              },
+              {
+                "t": "p",
+                "x": "規則はAIの全面禁止には踏み込んでいない。文化省は「AIの戦略的な活用は[それでも]業界の専門家が創作・技術プロセスに役立つツールを手にすることを可能にしうる」としつつ、「創作は何よりも人間の営みであり続けなければならない」と述べた。規則は2026年11月1日に発効し、同日以降に申請するプロジェクトに適用される。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Kling 4.0正面对决\nSeedance 2.5",
-          "body": "Curious Refuge用电影镜头对比Kling 4.0与Seedance 2.5。",
-          "mini_headline": "Kling 4.0 vs Seedance 2.5",
+          "headline": "法国CNC不再资助\nAI-only配音与字幕",
+          "body": "自11月1日起，CNC的配音、字幕和口述影像资助仅限人类作者与表演者。",
+          "mini_headline": "法国限制AI配音资助",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "sh4bkvZQ1WE"
-              },
-              {
-                "t": "p",
-                "x": "“We Tested Kling 4.0 Against Seedance 2.5, and It’s Not Close”（我们对比了Kling 4.0和Seedance 2.5，差距悬殊）。最近网上关于Kling 4.0的讨论很多，有人说它比ByteDance的Seedance 2.5更好——Curious Refuge对这一说法进行了检验。"
-              },
-              {
-                "t": "p",
-                "x": "Kuaishou的Kling 4.0能以1080p生成最长30秒的视频。六项并排测试分别是：带角色参考的沙漠动作场景、武士对战罗马战士、无人机环绕镜头参考、New York出租车里与会说话的猴子的对话、text-to-video徒步镜头，以及动漫风格参考。"
-              },
-              {
                 "t": "img",
-                "src": "https://images.squarespace-cdn.com/content/v1/55bd7005e4b06da83f63b8d9/937c37be-3180-4f94-a605-16dbf03f02b7/Test+04+-+StyleReference+-+REFERENCE.png",
-                "cap": "风格参考图"
+                "src": "https://slator.com/assets/2026/11/velora-473c5db10304df06.png",
+                "cap": "“La fin du cinéma”"
               },
               {
                 "t": "p",
-                "x": "Seedance让动作更具动感，赋予打斗高端动作场面的能量；Kling在prompt-only徒步镜头上最接近，对动漫风格参考的还原也更贴近。在Magnific中制作沙漠段落时，1080p的Kling 4.0花费$8.40，而Seedance 2.5 standard为$24.00。"
+                "x": "法国国家电影与动画中心(Centre national du cinéma et de l’image animée，CNC)将不再资助完全没有人类创作者参与的配音、字幕或口述影像项目。董事会于2026年10月14日通过这一调整；10月31日刊登于Journal officiel的文本，将符合资助条件的本地化支出限定于人类作者和表演者，以及围绕其成果的技术工作。"
               },
               {
                 "t": "p",
-                "x": "结论：若追求动作物理、镜头运动或真人实拍质感，应先用Seedance 2.5，它在最严苛的测试中整体表现更好。"
+                "x": "对于电影、视听作品和电子游戏，编剧、开发和制作必须“至少有一名作者参与”；动画至少需要一名“图像作者”，CNC资助(CNC-funded)的原创音乐需要人类作曲家。配音资助只能支付撰写文本的人员和演绎文本的配音演员，以及录音和混音；字幕资助涵盖人类作者和时间轴同步。"
+              },
+              {
+                "t": "p",
+                "x": "新规并未全面禁止AI。文化部表示，“[尽管如此，]对AI的策略性使用可以让业内专业人士获得服务于创作和技术流程的工具”，但“创作必须首先是人类的事业”。该规定于2026年11月1日生效，适用于当日及之后提交申请的项目。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Kling 4.0 se mide cara a cara\ncon Seedance 2.5",
-          "body": "Curious Refuge enfrenta Kling 4.0 de Kuaishou al Seedance 2.5 de ByteDance en una prueba de planos cinematográficos.",
-          "mini_headline": "Kling 4.0 vs Seedance 2.5",
+          "headline": "El CNC francés no financiará\ndoblaje ni subtítulos AI-only",
+          "body": "Desde el 1 de noviembre, el CNC solo financia doblaje, subtítulos y audiodescripción con autores e intérpretes humanos.",
+          "mini_headline": "Francia limita las ayudas al doblaje con AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "sh4bkvZQ1WE"
-              },
-              {
-                "t": "p",
-                "x": "“We Tested Kling 4.0 Against Seedance 2.5, and It’s Not Close” (Probamos Kling 4.0 contra Seedance 2.5 y no hay comparación). Últimamente se ha hablado mucho de Kling 4.0 en internet, y hay quien dice que supera a Seedance 2.5; Curious Refuge pone esa afirmación a prueba."
-              },
-              {
-                "t": "p",
-                "x": "Kling 4.0 puede generar hasta 30 segundos de vídeo a 1080p. Las seis pruebas en paralelo: una escena de acción en el desierto con referencias de personajes, un combate entre un samurái y un guerrero romano, una referencia de cámara orbital con dron, un diálogo en un taxi de New York con un mono que habla, una toma de senderismo text-to-video y una referencia de estilo anime."
-              },
-              {
                 "t": "img",
-                "src": "https://images.squarespace-cdn.com/content/v1/55bd7005e4b06da83f63b8d9/937c37be-3180-4f94-a605-16dbf03f02b7/Test+04+-+StyleReference+-+REFERENCE.png",
-                "cap": "Imagen de referencia de estilo"
+                "src": "https://slator.com/assets/2026/11/velora-473c5db10304df06.png",
+                "cap": "“La fin du cinéma”"
               },
               {
                 "t": "p",
-                "x": "Seedance dio más dinamismo a la acción y aportó al combate la energía de una escena de acción de alto nivel; Kling se acercó más en la toma de senderismo prompt-only y se ajustó mejor a la referencia de estilo anime. Para la secuencia del desierto en Magnific, Kling 4.0 a 1080p costó $8.40 frente a los $24.00 de Seedance 2.5 standard."
+                "x": "El Centre national du cinéma et de l’image animée (CNC) de Francia dejará de financiar proyectos de doblaje, subtitulado o audiodescripción realizados sin ningún creador humano. El consejo aprobó el cambio el 14 de octubre de 2026; el texto, publicado en el Journal officiel el 31 de octubre, limita el gasto de localización subvencionable a autores e intérpretes humanos y al trabajo técnico en torno a su producción."
               },
               {
                 "t": "p",
-                "x": "Veredicto: para física de la acción, movimiento de cámara o un aspecto de imagen real, conviene empezar con Seedance 2.5, que rindió mejor en las pruebas más exigentes."
+                "x": "En películas, obras audiovisuales y videojuegos, la escritura, el desarrollo y la producción deben “involucrar al menos a un autor”; la animación necesita al menos un “autor gráfico”, y la música original CNC-funded (financiada por el CNC), un compositor humano. Las ayudas al doblaje solo pueden pagar a quienes escriben el texto y a los actores de voz que lo interpretan, además de la grabación y la mezcla; las de subtitulado cubren a los autores humanos y la sincronización."
+              },
+              {
+                "t": "p",
+                "x": "Las normas no llegan a prohibir la AI por completo. El Ministerio de Cultura señaló que “un uso estratégico de la AI puede [no obstante] permitir a los profesionales del sector adquirir herramientas al servicio del proceso creativo y técnico”, pero que “la creación debe seguir siendo ante todo una labor humana”. La norma entró en vigor el 1 de noviembre de 2026 para los proyectos que se presenten a partir de esa fecha."
               }
             ]
           }
@@ -727,15 +557,15 @@
       }
     },
     {
-      "id": "netflix-blue-eye-samurai-ai",
+      "id": "hpa-net-ai-second-unit",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI 없는 Blue Eye\nSamurai 제작",
-      "body": "Netflix는 Blue Eye Samurai 제작에 AI를 아예 금지했다.",
-      "mini_headline": "Blue Eye Samurai에 AI 없다",
+      "headline": "HPA 라운드테이블\nAI를 ‘세컨드 유닛’으로",
+      "body": "HPA NET 라운드테이블 후반 감독들은 AI 숏의 진짜 비용을 리테이크로 꼽았다.",
+      "mini_headline": "세컨드 유닛이 된 AI",
       "tool": "Movies",
-      "source": "CBR",
-      "url": "https://www.cbr.com/blue-eye-samurai-netflix-ai-ban/",
+      "source": "postPerspective",
+      "url": "https://postperspective.com/hpa-net-roundtable-ai-as-a-second-unit/",
       "accent": "#7928ca",
       "motif": "frame",
       "full": {
@@ -743,209 +573,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/11/blue-eye-samurai-with-mizu-holding-a-sword.jpg?&fit=crop&w=1600&h=900",
-            "cap": "검을 든 Mizu가 등장하는 Blue Eye Samurai"
+            "src": "https://postperspective.com/wp-content/uploads/2026/11/HPA-NET-Roundtable-Oct-6-2026-IMG_1847-copy-1.jpg"
           },
           {
             "t": "p",
-            "x": "프랑스에서 만드는 Netflix 사무라이 대서사극의 팬이라면 안심해도 된다. 이 시리즈 제작진은 생성형 AI를 지금도, 앞으로도 쓰지 않는다."
+            "x": "HPA는 10월 로스앤젤레스 Sheraton Universal에서 NET Roundtables를 열고 AI를 ‘세컨드 유닛’으로 보자는 주제를 꺼냈다. 책임은 여전히 책임자에게 있고, 팀은 정해진 지시대로 병렬 작업을 한다는 뜻이다. “이 팀은 당신에게 보고한다.” Alex Daro가 후반작업 분야 감독과 슈퍼바이저를 상대로 “Running a Second Unit: Compose, Gate and Cost an Unattended AI Pipeline” 세션을 이끌었다."
           },
           {
             "t": "p",
-            "x": "Variety에 따르면 Blue Spirit의 최고 크리에이티브 책임자(Chief Creative Officer) Charles Beirnaert는 Netflix가 제작 어느 단계에서도 자기 애니메이션 팀에 AI를 허용하지 않았다고 확인했다. 그는 “Netflix 프로젝트에는 AI를 쓸 수 없다”고 잘라 말했다. Blue Eye Samurai는 2023년 11월 공개됐고, Rotten Tomatoes 평론가 점수는 97%다."
+            "x": "AI에 절대 넘기지 않을 일을 묻자 답은 대개 해상도, 비트 심도, 통제권으로 모였다. AI가 CG를 대체할 준비가 됐는지를 두고는 의견이 갈렸다. 다툴 필요 없는 점도 하나 있었다. AI 숏에서 가장 비싼 건 리테이크다. 내보낼 만한 숏 하나를 얻기까지 거친 모든 테이크에, 고르는 데 들인 시간까지 붙는다."
           },
           {
             "t": "img",
-            "src": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2025/08/blue-eye-samurai.jpg?q=70&fit=crop&w=825&dpr=1",
-            "cap": "Netflix 애니메이션 시리즈 Blue Eye Samurai의 Mizu"
+            "src": "https://postperspective.com/wp-content/uploads/2026/11/HPA-NET-Roundtable-Oct-6-2026-IMG_1831.jpg"
           },
           {
             "t": "p",
-            "x": "그렇다고 Netflix가 전면적인 zero-AI 정책을 내놓은 건 아니다. 2023년 Netflix Japan은 Wit Studio의 단편 The Dog and the Boy가 배경 일러스트에 AI를 써서 비판을 받았다. 그런데도 Netflix는 2027년 2월 공개 예정인 One Piece 애니메이션 리부트에서 다시 Wit Studio와 손잡았다."
-          },
-          {
-            "t": "p",
-            "x": "Blue Spirit은 따로 생성형 AI를 실험하고 있다. 20명이 석 달 걸려 만든 파일럿을 한 사람이 AI로 다시 만들어 봤지만 결과는 신통치 않았다. Beirnaert는 “어림짐작”이라는 단서를 달고, 보통 팔백만 유로 규모 제작이라면 AI로 최대 백만 유로를 아낄 수 있다고 내다봤다."
+            "x": "지금 후반작업의 AI는 이미 확보한 영상을 다룬다. 배경 제거, 업레즈, 세트 확장 같은 일이다. 진행자 대부분은 시설이 통제하는 하드웨어에서 AI를 로컬로 돌려야 하고, AI가 전통적인 후반 워크플로에 들어오면 콘텐츠 자격 증명도 챙겨야 한다는 데 뜻을 모았다. 플레이트와 대조해 확인할 수 있는 작업부터 시작하고, 미디어는 자체 하드웨어에 두고, 렌더가 아니라 리테이크에 예산을 잡으라는 조언도 나왔다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Netflix rules out AI for\nBlue Eye Samurai",
-          "body": "Blue Spirit's Charles Beirnaert says Netflix has banned his team from using AI in any part of Blue Eye Samurai.",
-          "mini_headline": "No AI for Blue Eye Samurai",
+          "headline": "HPA roundtable casts AI\nas a second unit",
+          "body": "Post supervisors at HPA's October NET Roundtables agreed that retakes are the real cost of an AI shot.",
+          "mini_headline": "AI as a second unit",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/11/blue-eye-samurai-with-mizu-holding-a-sword.jpg?&fit=crop&w=1600&h=900",
-                "cap": "Blue Eye Samurai with Mizu holding a sword"
+                "src": "https://postperspective.com/wp-content/uploads/2026/11/HPA-NET-Roundtable-Oct-6-2026-IMG_1847-copy-1.jpg"
               },
               {
                 "t": "p",
-                "x": "Fans of Netflix's French-produced samurai epic can breathe easy -- generative AI is not and never will be utilized by the series' production team."
+                "x": "In October the HPA held its NET Roundtables at the Sheraton Universal in Los Angeles around AI as a “second unit,” a crew that works in parallel on a defined brief while the people in charge stay in charge — “This one reports to you.” Alex Daro hosted “Running a Second Unit: Compose, Gate and Cost an Unattended AI Pipeline” for directors and supervisors from post."
               },
               {
                 "t": "p",
-                "x": "Per Variety, Blue Spirit Chief Creative Officer Charles Beirnaert confirmed that Netflix banned his animation team from utilizing AI for any part of the production. “We're not allowed to use AI for the Netflix projects,” he stated bluntly. Blue Eye Samurai debuted in November 2023 and holds a 97% critics' score on Rotten Tomatoes."
+                "x": "Asked what job they’d never hand over to AI, most answers came back to resolution, bit depth and control. The room split on whether AI is ready to replace CG. One point needed no argument: retakes are the most expensive part of an AI shot — every take it took to get one you’d ship, plus the time spent choosing."
               },
               {
                 "t": "img",
-                "src": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2025/08/blue-eye-samurai.jpg?q=70&fit=crop&w=825&dpr=1",
-                "cap": "Mizu in Netflix anime series Blue Eye Samurai"
+                "src": "https://postperspective.com/wp-content/uploads/2026/11/HPA-NET-Roundtable-Oct-6-2026-IMG_1831.jpg"
               },
               {
                 "t": "p",
-                "x": "Netflix has not issued a zero-AI policy across the board: in 2023 Netflix Japan came under fire for The Dog and the Boy, a Wit Studio short that used AI for background illustrations, and Netflix has partnered with Wit Studio again on its One Piece anime reboot, due in February 2027."
-              },
-              {
-                "t": "p",
-                "x": "Blue Spirit itself is experimenting with generative AI. After a 20-person team spent three months finalizing a pilot, one individual replicated it with AI, with lackluster results. Beirnaert gave a “random estimate” that AI could save up to one million euro on a standard eight million euro production."
+                "x": "What post is using today works on footage it already has: background removal, uprez and set extensions. Most moderators agreed that running AI locally on hardware the facility controls matters, and that content credentials matter once AI is part of a traditional post workflow. Advice: start with work you can check against the plate, keep media on your hardware, and budget for retakes, not renders."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI 없는 Blue Eye\nSamurai 제작",
-          "body": "Netflix는 Blue Eye Samurai 제작에 AI를 아예 금지했다.",
-          "mini_headline": "Blue Eye Samurai에 AI 없다",
+          "headline": "HPA 라운드테이블\nAI를 ‘세컨드 유닛’으로",
+          "body": "HPA NET 라운드테이블 후반 감독들은 AI 숏의 진짜 비용을 리테이크로 꼽았다.",
+          "mini_headline": "세컨드 유닛이 된 AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/11/blue-eye-samurai-with-mizu-holding-a-sword.jpg?&fit=crop&w=1600&h=900",
-                "cap": "검을 든 Mizu가 등장하는 Blue Eye Samurai"
+                "src": "https://postperspective.com/wp-content/uploads/2026/11/HPA-NET-Roundtable-Oct-6-2026-IMG_1847-copy-1.jpg"
               },
               {
                 "t": "p",
-                "x": "프랑스에서 만드는 Netflix 사무라이 대서사극의 팬이라면 안심해도 된다. 이 시리즈 제작진은 생성형 AI를 지금도, 앞으로도 쓰지 않는다."
+                "x": "HPA는 10월 로스앤젤레스 Sheraton Universal에서 NET Roundtables를 열고 AI를 ‘세컨드 유닛’으로 보자는 주제를 꺼냈다. 책임은 여전히 책임자에게 있고, 팀은 정해진 지시대로 병렬 작업을 한다는 뜻이다. “이 팀은 당신에게 보고한다.” Alex Daro가 후반작업 분야 감독과 슈퍼바이저를 상대로 “Running a Second Unit: Compose, Gate and Cost an Unattended AI Pipeline” 세션을 이끌었다."
               },
               {
                 "t": "p",
-                "x": "Variety에 따르면 Blue Spirit의 최고 크리에이티브 책임자(Chief Creative Officer) Charles Beirnaert는 Netflix가 제작 어느 단계에서도 자기 애니메이션 팀에 AI를 허용하지 않았다고 확인했다. 그는 “Netflix 프로젝트에는 AI를 쓸 수 없다”고 잘라 말했다. Blue Eye Samurai는 2023년 11월 공개됐고, Rotten Tomatoes 평론가 점수는 97%다."
+                "x": "AI에 절대 넘기지 않을 일을 묻자 답은 대개 해상도, 비트 심도, 통제권으로 모였다. AI가 CG를 대체할 준비가 됐는지를 두고는 의견이 갈렸다. 다툴 필요 없는 점도 하나 있었다. AI 숏에서 가장 비싼 건 리테이크다. 내보낼 만한 숏 하나를 얻기까지 거친 모든 테이크에, 고르는 데 들인 시간까지 붙는다."
               },
               {
                 "t": "img",
-                "src": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2025/08/blue-eye-samurai.jpg?q=70&fit=crop&w=825&dpr=1",
-                "cap": "Netflix 애니메이션 시리즈 Blue Eye Samurai의 Mizu"
+                "src": "https://postperspective.com/wp-content/uploads/2026/11/HPA-NET-Roundtable-Oct-6-2026-IMG_1831.jpg"
               },
               {
                 "t": "p",
-                "x": "그렇다고 Netflix가 전면적인 zero-AI 정책을 내놓은 건 아니다. 2023년 Netflix Japan은 Wit Studio의 단편 The Dog and the Boy가 배경 일러스트에 AI를 써서 비판을 받았다. 그런데도 Netflix는 2027년 2월 공개 예정인 One Piece 애니메이션 리부트에서 다시 Wit Studio와 손잡았다."
-              },
-              {
-                "t": "p",
-                "x": "Blue Spirit은 따로 생성형 AI를 실험하고 있다. 20명이 석 달 걸려 만든 파일럿을 한 사람이 AI로 다시 만들어 봤지만 결과는 신통치 않았다. Beirnaert는 “어림짐작”이라는 단서를 달고, 보통 팔백만 유로 규모 제작이라면 AI로 최대 백만 유로를 아낄 수 있다고 내다봤다."
+                "x": "지금 후반작업의 AI는 이미 확보한 영상을 다룬다. 배경 제거, 업레즈, 세트 확장 같은 일이다. 진행자 대부분은 시설이 통제하는 하드웨어에서 AI를 로컬로 돌려야 하고, AI가 전통적인 후반 워크플로에 들어오면 콘텐츠 자격 증명도 챙겨야 한다는 데 뜻을 모았다. 플레이트와 대조해 확인할 수 있는 작업부터 시작하고, 미디어는 자체 하드웨어에 두고, 렌더가 아니라 리테이크에 예산을 잡으라는 조언도 나왔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI禁止のBlue Eye\nSamurai制作",
-          "body": "NetflixはBlue Eye Samuraiの制作でAI使用を全面禁止した。",
-          "mini_headline": "Blue Eye SamuraiにAIなし",
+          "headline": "HPA円卓会議、AIを\n「セカンドユニット」に",
+          "body": "HPAのNET円卓会議で、ポスト監督陣はAIショット最大のコストがリテイクだと認めた。",
+          "mini_headline": "セカンドユニットとしてのAI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/11/blue-eye-samurai-with-mizu-holding-a-sword.jpg?&fit=crop&w=1600&h=900",
-                "cap": "剣を手にするMizuが登場するBlue Eye Samurai"
+                "src": "https://postperspective.com/wp-content/uploads/2026/11/HPA-NET-Roundtable-Oct-6-2026-IMG_1847-copy-1.jpg"
               },
               {
                 "t": "p",
-                "x": "フランス制作によるNetflixの侍叙事詩のファンは安心していい。このシリーズの制作チームは生成AIを使っておらず、今後も使うことはない。"
+                "x": "HPAは十月、ロサンゼルスのSheraton UniversalでNET Roundtablesを開催し、AIを「セカンドユニット」と捉えるテーマを掲げた。責任者は責任者のまま、明確な指示のもとで並行して作業するクルーのことだ。「この班はあなたの指揮下にある」。Alex Daroはポストプロダクションの監督やスーパーバイザーに向けて「Running a Second Unit: Compose, Gate and Cost an Unattended AI Pipeline」を主催した。"
               },
               {
                 "t": "p",
-                "x": "Varietyによると、Blue SpiritのChief Creative OfficerであるCharles Beirnaertは、Netflixが自身のアニメーションチームに対し、制作のいかなる段階でもAIの使用を禁じたと認めた。「Netflixのプロジェクトでは、AIを使うことは許されていない」と彼は率直に語った。Blue Eye Samuraiは2023年11月に配信が始まり、Rotten Tomatoesで批評家スコア97%を得ている。"
+                "x": "AIに決して任せない仕事は何かと問われると、答えの大半は解像度、ビット深度、そしてコントロールに行き着いた。AIがCGに取って代わる準備ができているかについては意見が割れた。議論の余地がなかった点が一つある。AIショットで最も高くつくのはリテイクだということだ。出せる一本を得るまでに要したすべてのテイクに、選ぶための時間が加わる。"
               },
               {
                 "t": "img",
-                "src": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2025/08/blue-eye-samurai.jpg?q=70&fit=crop&w=825&dpr=1",
-                "cap": "NetflixのアニメシリーズBlue Eye SamuraiのMizu"
+                "src": "https://postperspective.com/wp-content/uploads/2026/11/HPA-NET-Roundtable-Oct-6-2026-IMG_1831.jpg"
               },
               {
                 "t": "p",
-                "x": "ただしNetflixが全面的なzero-AI方針を打ち出したわけではない。2023年にはNetflix Japanが、背景イラストにAIを用いたWit Studioの短編The Dog and the Boyで批判を浴びた。NetflixはまたWit Studioと組み、2027年2月公開予定のOne Pieceのアニメリブートを手がけている。"
-              },
-              {
-                "t": "p",
-                "x": "Blue Spirit自身は生成AIを試している。20人のチームが三か月かけてパイロットを仕上げた後、一人がAIでそれを再現したが、結果は物足りないものだった。Beirnaertは「当てずっぽうの見積もり」として、標準的な八百万ユーロの制作でAIにより最大百万ユーロを節約できる可能性があると述べた。"
+                "x": "現在ポストで使われているAIは、既存の素材に対して機能する。背景除去、アップレズ、セット拡張などだ。モデレーターの多くは、施設が管理するハードウェア上でAIをローカルに動かすことが重要であり、AIが従来のポストワークフローの一部になればコンテンツクレデンシャルも重要になるという点で一致した。助言はこうだ。プレートと照合して確認できる作業から始め、メディアは自前のハードウェアに置き、レンダーではなくリテイクに予算を割くこと。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Blue Eye\nSamurai全程禁用AI",
-          "body": "Netflix禁止团队在Blue Eye Samurai制作中使用任何AI。",
-          "mini_headline": "Blue Eye Samurai不用AI",
+          "headline": "HPA圆桌会议\n将AI视为“第二摄制组”",
+          "body": "在HPA十月NET圆桌会议上，后期主管们一致认为重拍才是AI镜头的真正成本。",
+          "mini_headline": "AI作为第二摄制组",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/11/blue-eye-samurai-with-mizu-holding-a-sword.jpg?&fit=crop&w=1600&h=900",
-                "cap": "Blue Eye Samurai中手持长剑的Mizu"
+                "src": "https://postperspective.com/wp-content/uploads/2026/11/HPA-NET-Roundtable-Oct-6-2026-IMG_1847-copy-1.jpg"
               },
               {
                 "t": "p",
-                "x": "这部由法国制作的Netflix武士史诗的粉丝可以放心了——该剧制作团队目前没有、将来也不会使用生成式AI。"
+                "x": "十月，HPA在洛杉矶Sheraton Universal举办NET Roundtables，主题是把AI视为“第二摄制组”——一支按明确任务并行工作的团队，而负责人依旧掌控全局：“这支团队向你汇报。”Alex Daro面向后期领域的导演和主管主持了“Running a Second Unit: Compose, Gate and Cost an Unattended AI Pipeline”环节。"
               },
               {
                 "t": "p",
-                "x": "据Variety报道，Blue Spirit首席创意官（Chief Creative Officer）Charles Beirnaert证实，Netflix禁止其动画团队在制作的任何环节使用AI。他直言：“我们不被允许在Netflix项目中使用AI。”Blue Eye Samurai于2023年11月首播，在Rotten Tomatoes上的影评人评分为97%。"
+                "x": "被问到哪些工作绝不会交给AI时，大多数回答都归结为分辨率、位深和控制权。对于AI是否已准备好取代CG，与会者意见分歧。但有一点无需争论：重拍是AI镜头中最昂贵的部分——为得到一个可交付镜头所需的每一次尝试，再加上挑选所花的时间。"
               },
               {
                 "t": "img",
-                "src": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2025/08/blue-eye-samurai.jpg?q=70&fit=crop&w=825&dpr=1",
-                "cap": "Netflix动画剧集Blue Eye Samurai中的Mizu"
+                "src": "https://postperspective.com/wp-content/uploads/2026/11/HPA-NET-Roundtable-Oct-6-2026-IMG_1831.jpg"
               },
               {
                 "t": "p",
-                "x": "不过Netflix并未全面推行zero-AI政策：2023年，Netflix Japan因Wit Studio制作的短片The Dog and the Boy用AI绘制背景插画而受到批评，而Netflix又与Wit Studio再度合作，推出将于2027年2月上线的One Piece动画重启版。"
-              },
-              {
-                "t": "p",
-                "x": "Blue Spirit自身也在试验生成式AI。一支20人团队花了三个月完成一部试播片后，一个人用AI将其复刻，效果平平。Beirnaert给出一个“随口估算”：在一部标准的八百万欧元制作中，AI最多可节省一百万欧元。"
+                "x": "后期目前使用的AI处理的是已有素材：背景移除、超分辨率提升和场景延展。多数主持人认为，在机构自主掌控的硬件上本地运行AI很重要；一旦AI成为传统后期流程的一部分，内容凭证也很重要。建议是：从能与原始素材比对检验的工作入手，把媒体留在自己的硬件上，并为重拍而非渲染编列预算。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Netflix descarta la AI en\nBlue Eye Samurai",
-          "body": "Charles Beirnaert, de Blue Spirit, dice que Netflix prohibió a su equipo usar AI en cualquier fase de Blue Eye Samurai.",
-          "mini_headline": "Sin AI para Blue Eye Samurai",
+          "headline": "La mesa redonda de HPA ve la AI\ncomo una segunda unidad",
+          "body": "En las NET Roundtables de HPA, los supervisores de post vieron en las repeticiones el costo real de un plano con AI.",
+          "mini_headline": "La AI como segunda unidad",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/11/blue-eye-samurai-with-mizu-holding-a-sword.jpg?&fit=crop&w=1600&h=900",
-                "cap": "Blue Eye Samurai, con Mizu empuñando una espada"
+                "src": "https://postperspective.com/wp-content/uploads/2026/11/HPA-NET-Roundtable-Oct-6-2026-IMG_1847-copy-1.jpg"
               },
               {
                 "t": "p",
-                "x": "Los fans de la epopeya samurái de Netflix producida en Francia pueden estar tranquilos: el equipo de producción de la serie no usa ni usará nunca AI generativa."
+                "x": "En octubre, la HPA celebró sus NET Roundtables en el Sheraton Universal de Los Ángeles en torno a la AI como “segunda unidad”: un equipo que trabaja en paralelo sobre un encargo definido mientras los responsables siguen al mando. “Esta te reporta a ti”. Alex Daro presentó “Running a Second Unit: Compose, Gate and Cost an Unattended AI Pipeline” para directores y supervisores de posproducción."
               },
               {
                 "t": "p",
-                "x": "Según Variety, el Chief Creative Officer de Blue Spirit, Charles Beirnaert, confirmó que Netflix prohibió a su equipo de animación usar AI en cualquier parte de la producción. “No se nos permite usar AI en los proyectos de Netflix”, afirmó sin rodeos. Blue Eye Samurai se estrenó en noviembre de 2023 y tiene un 97% de aprobación de la crítica en Rotten Tomatoes."
+                "x": "Al preguntarles qué tarea nunca cederían a la AI, la mayoría de las respuestas volvieron a la resolución, la profundidad de bits y el control. La sala se dividió sobre si la AI está lista para sustituir al CG. Un punto no necesitó discusión: las repeticiones son la parte más cara de un plano de AI, es decir, cada toma necesaria para obtener una entregable más el tiempo dedicado a elegir."
               },
               {
                 "t": "img",
-                "src": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2025/08/blue-eye-samurai.jpg?q=70&fit=crop&w=825&dpr=1",
-                "cap": "Mizu en la serie de animación de Netflix Blue Eye Samurai"
+                "src": "https://postperspective.com/wp-content/uploads/2026/11/HPA-NET-Roundtable-Oct-6-2026-IMG_1831.jpg"
               },
               {
                 "t": "p",
-                "x": "Netflix no ha adoptado una política zero-AI general: en 2023 Netflix Japan recibió críticas por The Dog and the Boy, un corto de Wit Studio que usó AI para las ilustraciones de fondo, y Netflix se ha vuelto a asociar con Wit Studio para su reinicio en anime de One Piece, previsto para febrero de 2027."
-              },
-              {
-                "t": "p",
-                "x": "Blue Spirit, por su parte, experimenta con AI generativa. Después de que un equipo de 20 personas dedicara tres meses a terminar un piloto, una sola persona lo replicó con AI, con resultados pobres. Beirnaert dio una “estimación aleatoria” de que la AI podría ahorrar hasta un millón de euros en una producción estándar de ocho millones de euros."
+                "x": "Lo que la posproducción usa hoy trabaja sobre material que ya tiene: eliminación de fondos, aumento de resolución y extensiones de decorado. La mayoría de los moderadores coincidió en que importa ejecutar la AI en local, en hardware que controla la propia instalación, y en que las credenciales de contenido importan cuando la AI forma parte de un flujo de posproducción tradicional. El consejo: empezar por trabajos que se puedan verificar contra la placa, mantener los medios en el propio hardware y presupuestar repeticiones, no renders."
               }
             ]
           }
@@ -953,145 +747,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI 없는 Blue Eye\nSamurai 제작",
-          "body": "Netflix는 Blue Eye Samurai 제작에 AI 사용을 전면 금지했다.",
-          "mini_headline": "Blue Eye Samurai에 AI 없다",
+          "headline": "HPA 라운드테이블\nAI를 ‘세컨드 유닛’으로",
+          "body": "HPA NET 라운드테이블의 후반 감독들은 AI 숏의 진짜 비용을 리테이크로 봤다.",
+          "mini_headline": "세컨드 유닛이 된 AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/11/blue-eye-samurai-with-mizu-holding-a-sword.jpg?&fit=crop&w=1600&h=900",
-                "cap": "검을 든 Mizu가 등장하는 Blue Eye Samurai"
+                "src": "https://postperspective.com/wp-content/uploads/2026/11/HPA-NET-Roundtable-Oct-6-2026-IMG_1847-copy-1.jpg"
               },
               {
                 "t": "p",
-                "x": "프랑스에서 제작하는 Netflix 사무라이 대서사극의 팬들은 안심해도 된다. 이 시리즈의 제작진은 생성형 AI를 쓰지 않으며 앞으로도 쓰지 않는다."
+                "x": "HPA는 10월 로스앤젤레스 Sheraton Universal에서 NET Roundtables를 열고 AI를 ‘세컨드 유닛’으로 보는 주제를 다뤘다. 책임자는 계속 책임을 지되, 정해진 지시에 따라 병렬로 작업하는 팀이라는 뜻이다. “이 팀은 당신에게 보고한다.” Alex Daro는 후반작업 분야 감독과 슈퍼바이저를 대상으로 “Running a Second Unit: Compose, Gate and Cost an Unattended AI Pipeline” 세션을 진행했다."
               },
               {
                 "t": "p",
-                "x": "Variety에 따르면 Blue Spirit의 최고 크리에이티브 책임자(Chief Creative Officer) Charles Beirnaert는 Netflix가 자신의 애니메이션 팀에 제작의 어떤 단계에서도 AI를 쓰지 못하게 했다고 확인했다. 그는 “Netflix 프로젝트에는 AI를 쓸 수 없다”고 잘라 말했다. Blue Eye Samurai는 2023년 11월 공개됐고 Rotten Tomatoes 평론가 점수 97%를 기록하고 있다."
+                "x": "AI에 절대 넘기지 않을 일이 무엇이냐는 질문에 대부분의 답은 해상도, 비트 심도, 통제권으로 모였다. AI가 CG를 대체할 준비가 됐는지를 두고는 의견이 갈렸다. 논쟁이 필요 없는 점도 하나 있었다. AI 숏에서 가장 비싼 부분은 리테이크라는 것이다. 내보낼 만한 숏 하나를 얻기까지 거친 모든 테이크에, 고르는 데 쓴 시간까지 더해진다."
               },
               {
                 "t": "img",
-                "src": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2025/08/blue-eye-samurai.jpg?q=70&fit=crop&w=825&dpr=1",
-                "cap": "Netflix 애니메이션 시리즈 Blue Eye Samurai의 Mizu"
+                "src": "https://postperspective.com/wp-content/uploads/2026/11/HPA-NET-Roundtable-Oct-6-2026-IMG_1831.jpg"
               },
               {
                 "t": "p",
-                "x": "다만 Netflix가 전면적인 zero-AI 정책을 내놓은 것은 아니다. 2023년 Netflix Japan은 배경 일러스트에 AI를 쓴 Wit Studio의 단편 The Dog and the Boy로 비판을 받았고, Netflix는 2027년 2월 공개 예정인 One Piece 애니메이션 리부트에서 다시 Wit Studio와 손잡았다."
-              },
-              {
-                "t": "p",
-                "x": "Blue Spirit 자체는 생성형 AI를 실험하고 있다. 20명 팀이 석 달에 걸쳐 파일럿을 완성한 뒤 한 사람이 AI로 이를 재현했지만 결과는 신통치 않았다. Beirnaert는 “어림짐작”이라며 일반적인 팔백만 유로 규모 제작에서 AI로 최대 백만 유로를 아낄 수 있다고 봤다."
+                "x": "현재 후반작업에서 쓰는 AI는 이미 확보한 영상을 다룬다. 배경 제거, 업레즈, 세트 확장이 그렇다. 진행자 대부분은 시설이 통제하는 하드웨어에서 AI를 로컬로 돌리는 것이 중요하고, AI가 전통적인 후반 워크플로의 일부가 되면 콘텐츠 자격 증명도 중요해진다는 데 동의했다. 조언은 이렇다. 플레이트와 대조해 확인할 수 있는 작업부터 시작하고, 미디어는 자체 하드웨어에 두며, 렌더가 아니라 리테이크에 예산을 잡으라는 것이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI禁止のBlue Eye\nSamurai制作",
-          "body": "NetflixはBlue Eye Samuraiの制作でAI使用を全面禁止した。",
-          "mini_headline": "Blue Eye SamuraiにAIなし",
+          "headline": "HPA円卓会議、AIを\n「セカンドユニット」に",
+          "body": "HPAのNET円卓会議で、ポスト監督陣はAIショット最大のコストがリテイクだと認めた。",
+          "mini_headline": "セカンドユニットとしてのAI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/11/blue-eye-samurai-with-mizu-holding-a-sword.jpg?&fit=crop&w=1600&h=900",
-                "cap": "剣を手にするMizuが登場するBlue Eye Samurai"
+                "src": "https://postperspective.com/wp-content/uploads/2026/11/HPA-NET-Roundtable-Oct-6-2026-IMG_1847-copy-1.jpg"
               },
               {
                 "t": "p",
-                "x": "フランス制作によるNetflixの侍叙事詩のファンは安心していい。このシリーズの制作チームは生成AIを使っておらず、今後も使うことはない。"
+                "x": "HPAは十月、ロサンゼルスのSheraton UniversalでNET Roundtablesを開催し、AIを「セカンドユニット」と捉えるテーマを掲げた。責任者は責任者のまま、明確な指示のもとで並行して作業するクルーのことだ。「この班はあなたの指揮下にある」。Alex Daroはポストプロダクションの監督やスーパーバイザーに向けて「Running a Second Unit: Compose, Gate and Cost an Unattended AI Pipeline」を主催した。"
               },
               {
                 "t": "p",
-                "x": "Varietyによると、Blue SpiritのChief Creative OfficerであるCharles Beirnaertは、Netflixが自身のアニメーションチームに対し、制作のいかなる段階でもAIの使用を禁じたと認めた。「Netflixのプロジェクトでは、AIを使うことは許されていない」と彼は率直に語った。Blue Eye Samuraiは2023年11月に配信が始まり、Rotten Tomatoesで批評家スコア97%を得ている。"
+                "x": "AIに決して任せない仕事は何かと問われると、答えの大半は解像度、ビット深度、そしてコントロールに行き着いた。AIがCGに取って代わる準備ができているかについては意見が割れた。議論の余地がなかった点が一つある。AIショットで最も高くつくのはリテイクだということだ。出せる一本を得るまでに要したすべてのテイクに、選ぶための時間が加わる。"
               },
               {
                 "t": "img",
-                "src": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2025/08/blue-eye-samurai.jpg?q=70&fit=crop&w=825&dpr=1",
-                "cap": "NetflixのアニメシリーズBlue Eye SamuraiのMizu"
+                "src": "https://postperspective.com/wp-content/uploads/2026/11/HPA-NET-Roundtable-Oct-6-2026-IMG_1831.jpg"
               },
               {
                 "t": "p",
-                "x": "ただしNetflixが全面的なzero-AI方針を打ち出したわけではない。2023年にはNetflix Japanが、背景イラストにAIを用いたWit Studioの短編The Dog and the Boyで批判を浴びた。NetflixはまたWit Studioと組み、2027年2月公開予定のOne Pieceのアニメリブートを手がけている。"
-              },
-              {
-                "t": "p",
-                "x": "Blue Spirit自身は生成AIを試している。20人のチームが三か月かけてパイロットを仕上げた後、一人がAIでそれを再現したが、結果は物足りないものだった。Beirnaertは「当てずっぽうの見積もり」として、標準的な八百万ユーロの制作でAIにより最大百万ユーロを節約できる可能性があると述べた。"
+                "x": "現在ポストで使われているAIは、既存の素材に対して機能する。背景除去、アップレズ、セット拡張などだ。モデレーターの多くは、施設が管理するハードウェア上でAIをローカルに動かすことが重要であり、AIが従来のポストワークフローの一部になればコンテンツクレデンシャルも重要になるという点で一致した。助言はこうだ。プレートと照合して確認できる作業から始め、メディアは自前のハードウェアに置き、レンダーではなくリテイクに予算を割くこと。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Blue Eye\nSamurai全程禁用AI",
-          "body": "Netflix禁止团队在Blue Eye Samurai制作中使用任何AI。",
-          "mini_headline": "Blue Eye Samurai不用AI",
+          "headline": "HPA圆桌会议\n将AI视为“第二摄制组”",
+          "body": "在HPA十月NET圆桌会议上，后期主管们一致认为重拍才是AI镜头的真正成本。",
+          "mini_headline": "AI作为第二摄制组",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/11/blue-eye-samurai-with-mizu-holding-a-sword.jpg?&fit=crop&w=1600&h=900",
-                "cap": "Blue Eye Samurai中手持长剑的Mizu"
+                "src": "https://postperspective.com/wp-content/uploads/2026/11/HPA-NET-Roundtable-Oct-6-2026-IMG_1847-copy-1.jpg"
               },
               {
                 "t": "p",
-                "x": "这部由法国制作的Netflix武士史诗的粉丝可以放心了——该剧制作团队目前没有、将来也不会使用生成式AI。"
+                "x": "十月，HPA在洛杉矶Sheraton Universal举办NET Roundtables，主题是把AI视为“第二摄制组”——一支按明确任务并行工作的团队，而负责人依旧掌控全局：“这支团队向你汇报。”Alex Daro面向后期领域的导演和主管主持了“Running a Second Unit: Compose, Gate and Cost an Unattended AI Pipeline”环节。"
               },
               {
                 "t": "p",
-                "x": "据Variety报道，Blue Spirit首席创意官（Chief Creative Officer）Charles Beirnaert证实，Netflix禁止其动画团队在制作的任何环节使用AI。他直言：“我们不被允许在Netflix项目中使用AI。”Blue Eye Samurai于2023年11月首播，在Rotten Tomatoes上的影评人评分为97%。"
+                "x": "被问到哪些工作绝不会交给AI时，大多数回答都归结为分辨率、位深和控制权。对于AI是否已准备好取代CG，与会者意见分歧。但有一点无需争论：重拍是AI镜头中最昂贵的部分——为得到一个可交付镜头所需的每一次尝试，再加上挑选所花的时间。"
               },
               {
                 "t": "img",
-                "src": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2025/08/blue-eye-samurai.jpg?q=70&fit=crop&w=825&dpr=1",
-                "cap": "Netflix动画剧集Blue Eye Samurai中的Mizu"
+                "src": "https://postperspective.com/wp-content/uploads/2026/11/HPA-NET-Roundtable-Oct-6-2026-IMG_1831.jpg"
               },
               {
                 "t": "p",
-                "x": "不过Netflix并未全面推行zero-AI政策：2023年，Netflix Japan因Wit Studio制作的短片The Dog and the Boy用AI绘制背景插画而受到批评，而Netflix又与Wit Studio再度合作，推出将于2027年2月上线的One Piece动画重启版。"
-              },
-              {
-                "t": "p",
-                "x": "Blue Spirit自身也在试验生成式AI。一支20人团队花了三个月完成一部试播片后，一个人用AI将其复刻，效果平平。Beirnaert给出一个“随口估算”：在一部标准的八百万欧元制作中，AI最多可节省一百万欧元。"
+                "x": "后期目前使用的AI处理的是已有素材：背景移除、超分辨率提升和场景延展。多数主持人认为，在机构自主掌控的硬件上本地运行AI很重要；一旦AI成为传统后期流程的一部分，内容凭证也很重要。建议是：从能与原始素材比对检验的工作入手，把媒体留在自己的硬件上，并为重拍而非渲染编列预算。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Netflix descarta la AI en\nBlue Eye Samurai",
-          "body": "Charles Beirnaert, de Blue Spirit, dice que Netflix prohibió a su equipo usar AI en cualquier fase de Blue Eye Samurai.",
-          "mini_headline": "Sin AI para Blue Eye Samurai",
+          "headline": "La mesa redonda de HPA ve la AI\ncomo una segunda unidad",
+          "body": "En las NET Roundtables de HPA, los supervisores de post vieron en las repeticiones el costo real de un plano con AI.",
+          "mini_headline": "La AI como segunda unidad",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/11/blue-eye-samurai-with-mizu-holding-a-sword.jpg?&fit=crop&w=1600&h=900",
-                "cap": "Blue Eye Samurai, con Mizu empuñando una espada"
+                "src": "https://postperspective.com/wp-content/uploads/2026/11/HPA-NET-Roundtable-Oct-6-2026-IMG_1847-copy-1.jpg"
               },
               {
                 "t": "p",
-                "x": "Los fans de la epopeya samurái de Netflix producida en Francia pueden estar tranquilos: el equipo de producción de la serie no usa ni usará nunca AI generativa."
+                "x": "En octubre, la HPA celebró sus NET Roundtables en el Sheraton Universal de Los Ángeles en torno a la AI como “segunda unidad”: un equipo que trabaja en paralelo sobre un encargo definido mientras los responsables siguen al mando. “Esta te reporta a ti”. Alex Daro presentó “Running a Second Unit: Compose, Gate and Cost an Unattended AI Pipeline” para directores y supervisores de posproducción."
               },
               {
                 "t": "p",
-                "x": "Según Variety, el Chief Creative Officer de Blue Spirit, Charles Beirnaert, confirmó que Netflix prohibió a su equipo de animación usar AI en cualquier parte de la producción. “No se nos permite usar AI en los proyectos de Netflix”, afirmó sin rodeos. Blue Eye Samurai se estrenó en noviembre de 2023 y tiene un 97% de aprobación de la crítica en Rotten Tomatoes."
+                "x": "Al preguntarles qué tarea nunca cederían a la AI, la mayoría de las respuestas volvieron a la resolución, la profundidad de bits y el control. La sala se dividió sobre si la AI está lista para sustituir al CG. Un punto no necesitó discusión: las repeticiones son la parte más cara de un plano de AI, es decir, cada toma necesaria para obtener una entregable más el tiempo dedicado a elegir."
               },
               {
                 "t": "img",
-                "src": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2025/08/blue-eye-samurai.jpg?q=70&fit=crop&w=825&dpr=1",
-                "cap": "Mizu en la serie de animación de Netflix Blue Eye Samurai"
+                "src": "https://postperspective.com/wp-content/uploads/2026/11/HPA-NET-Roundtable-Oct-6-2026-IMG_1831.jpg"
               },
               {
                 "t": "p",
-                "x": "Netflix no ha adoptado una política zero-AI general: en 2023 Netflix Japan recibió críticas por The Dog and the Boy, un corto de Wit Studio que usó AI para las ilustraciones de fondo, y Netflix se ha vuelto a asociar con Wit Studio para su reinicio en anime de One Piece, previsto para febrero de 2027."
-              },
-              {
-                "t": "p",
-                "x": "Blue Spirit, por su parte, experimenta con AI generativa. Después de que un equipo de 20 personas dedicara tres meses a terminar un piloto, una sola persona lo replicó con AI, con resultados pobres. Beirnaert dio una “estimación aleatoria” de que la AI podría ahorrar hasta un millón de euros en una producción estándar de ocho millones de euros."
+                "x": "Lo que la posproducción usa hoy trabaja sobre material que ya tiene: eliminación de fondos, aumento de resolución y extensiones de decorado. La mayoría de los moderadores coincidió en que importa ejecutar la AI en local, en hardware que controla la propia instalación, y en que las credenciales de contenido importan cuando la AI forma parte de un flujo de posproducción tradicional. El consejo: empezar por trabajos que se puedan verificar contra la placa, mantener los medios en el propio hardware y presupuestar repeticiones, no renders."
               }
             ]
           }
@@ -1099,15 +869,15 @@
       }
     },
     {
-      "id": "guardian-storyboard-artists-ai",
+      "id": "resolve-ai-assistant-editing",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Scorsese도 AI\n스토리보드 작가 긴장",
-      "body": "Hollywood가 AI를 들이자 스토리보드 작가가 가장 직접적인 위기에 놓였다.",
-      "mini_headline": "AI 앞의 스토리보드",
+      "headline": "Resolve에서 AI가\n하이라이트 편집한다",
+      "body": "Resolve 새 기능으로 Claude·Codex 등 AI가 하이라이트를 편집한다.",
+      "mini_headline": "AI 에이전트에 열린 Resolve",
       "tool": "Movies",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/nov/10/storyboard-artists-ai",
+      "source": "postPerspective",
+      "url": "https://postperspective.com/virtual-content-creator-roundtable/",
       "accent": "#2ec5c5",
       "motif": "frame",
       "full": {
@@ -1115,209 +885,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://i.guim.co.uk/img/media/c9aabe04cbc4724110ea14f7d6a4bfe25a89ef20/94_56_6693_4292/master/6693.jpg?width=1200&dpr=1&s=none&crop=none",
-            "cap": "Gone with the Wind의 스토리보드 패널"
+            "src": "https://postperspective.com/wp-content/uploads/2026/11/DaVinci-Resolve-21-EDIT-copy.jpg"
           },
           {
             "t": "p",
-            "x": "Hollywood가 이 기술을 받아들이기 시작하면서 가장 직접적인 위기를 맞은 직군은 감독의 첫 구상을 그림으로 옮기는 일러스트레이터다. James Cameron은 gen AI 기업 이사회에 들어가 있고, Steven Soderbergh는 John Lennon 다큐멘터리 애니메이션에 Meta-powered 기술을 썼다. Christopher Nolan도 AI가 쓸모 있는 “이미징 도구”를 몇 가지는 내놓을 것이라고 인정한다."
+            "x": "postPerspective 라운드테이블은 도구 제작사와 크리에이터들에게 소셜 크리에이터가 에피소드형 TV와 영화의 워크플로를 어떻게 빌려 쓰는지 묻는다. Blackmagic의 Bob Caniglia는 크리에이터들이 Pocket Cinema Camera, Micro Studio Camera, Pyxis 라인과 DaVinci Resolve를 쓴다며 비디오 팟캐스트와 롱폼, 세로형 마이크로필름 제작이 늘었다고 짚었다."
           },
           {
             "t": "p",
-            "x": "지금 탄광 속 카나리아는 스토리보드 작가다. Martin Scorsese까지 합류했다. 그는 6월 한 AI 기업과 협업을 발표했고 차기작 스토리보드에 이 회사의 text-to-image 모델을 썼다."
-          },
-          {
-            "t": "img",
-            "src": "https://i.guim.co.uk/img/media/b0a5fde115c51a5fd45e9a0ec5b762b61284e164/0_0_3404_4370/master/3404.jpg?width=890&dpr=1&s=none&crop=none",
-            "cap": "Saul Bass가 그린 Psycho의 스토리보드"
+            "x": "AI를 두고 Caniglia는 이렇게 말한다. “다만 생성형 AI 도구를 말하는 것은 아닙니다. DaVinci Resolve에 있는 것 같은 비생성형 AI 영화 제작 도구는 반복 작업을 맡아 크리에이터가 자신의 예술에 집중하게 해 줍니다.”"
           },
           {
             "t": "p",
-            "x": "Mickey 17과 The Gorge의 스토리보드 작가 Alex Clark는 “스토리보드가 멋진 그림을 그리는 일이라는 건 흔한 오해”라며 “감독이 어떻게 생각하는지에 다가가는 일”이라고 설명한다. Denis Villeneuve는 협업자 Sam Hudecki를 “내 뇌의 연장”이라고 부른다."
+            "x": "“좋은 예가 Claude, Claude Code, ChatGPT Codex 같은 AI 어시스턴트와의 연동을 지원하는 DaVinci Resolve의 새 기능입니다. AI 어시스턴트에게 롱폼 영상에서 하이라이트 편집본을 만들고, 원치 않는 클립을 지우고, 납품용 파일을 렌더링하라고 요청할 수 있습니다.”"
           },
           {
             "t": "p",
-            "x": "Abertay 강사 Ferdinando Cocco는 아날로그 작업으로 돌아가는 흐름을 내다본다. “AI가 극복했다는 그 어려움이야말로 애초에 핵심이었는지도 모른다.” Clark도 관객이 사람의 손길이 담긴 영화를 가치 있게 여기게 될 것으로 본다."
+            "x": "크리에이터 Josh Liljenquist, CA in LA의 Courtney Birk와 Ashleigh Coffelt, OWC의 Jon Hoeg 등 다른 응답자들은 소규모 크루, NLE-agnostic(특정 NLE에 얽매이지 않는) 후반작업, 스토리지 워크플로를 이야기한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Storyboard artists brace\nas even Scorsese uses AI",
-          "body": "As Hollywood adopts AI, storyboard artists who sketch directors' first visions face the most direct jeopardy.",
-          "mini_headline": "Storyboards meet AI",
+          "headline": "Resolve lets AI assistants\nbuild highlight edits",
+          "body": "Blackmagic says a new Resolve feature lets AI assistants like Claude and Codex build highlight edits and remove clips.",
+          "mini_headline": "Resolve opens to AI agents",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i.guim.co.uk/img/media/c9aabe04cbc4724110ea14f7d6a4bfe25a89ef20/94_56_6693_4292/master/6693.jpg?width=1200&dpr=1&s=none&crop=none",
-                "cap": "Gone with the Wind storyboard panels"
+                "src": "https://postperspective.com/wp-content/uploads/2026/11/DaVinci-Resolve-21-EDIT-copy.jpg"
               },
               {
                 "t": "p",
-                "x": "As Hollywood begins to adopt the technology, the professionals in most direct jeopardy are the illustrators mapping out directors’ first visions. James Cameron sits on the board of a gen AI firm, Steven Soderbergh used Meta-powered tech for animations in his John Lennon documentary, and Christopher Nolan concedes AI will create some useful “imaging tools”."
+                "x": "postPerspective’s roundtable asks tool makers and creators how social creators are borrowing workflows from episodic TV and film. Blackmagic’s Bob Caniglia says creators use the Pocket Cinema Camera, Micro Studio Camera and Pyxis lines and DaVinci Resolve, and points to growth in video podcasts, long-form and vertical microfilm productions."
               },
               {
                 "t": "p",
-                "x": "The current canary in the coalmine is the storyboard artist. Even Martin Scorsese has got on board: in June he announced a partnership with an AI firm whose text-to-image model he used in storyboarding his next movie."
-              },
-              {
-                "t": "img",
-                "src": "https://i.guim.co.uk/img/media/b0a5fde115c51a5fd45e9a0ec5b762b61284e164/0_0_3404_4370/master/3404.jpg?width=890&dpr=1&s=none&crop=none",
-                "cap": "Storyboard by Saul Bass for Psycho"
+                "x": "On AI, Caniglia says: “I am not talking generative AI tools, though. Non-generative AI filmmaking tools, like we have in DaVinci Resolve, take care of repetitive tasks and let creators focus on their art.”"
               },
               {
                 "t": "p",
-                "x": "“A common misconception is that storyboarding is about making nice drawings,” says Alex Clark, storyboard artist on Mickey 17 and The Gorge. “It’s about relating to how the director is thinking.” Denis Villeneuve calls his collaborator Sam Hudecki “an extension of my brain”."
+                "x": "“A good example is a new feature in DaVinci Resolve that supports integration with AI assistants like Claude, Claude Code and ChatGPT Codex. You can ask an AI assistant to create highlight edits from long-form video, remove unwanted clips and render deliverables.”"
               },
               {
                 "t": "p",
-                "x": "Abertay lecturer Ferdinando Cocco sees a return to analogue practices: “Perhaps the difficulty that AI purportedly overcomes was the whole point from the start.” Clark predicts audiences will come to value films with a human touch."
+                "x": "Other respondents — creator Josh Liljenquist, CA in LA’s Courtney Birk and Ashleigh Coffelt, and OWC’s Jon Hoeg — discuss small crews, NLE-agnostic post and storage workflows."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Scorsese도 AI\n스토리보드 작가 긴장",
-          "body": "Hollywood가 AI를 들이자 스토리보드 작가가 가장 직접적인 위기에 놓였다.",
-          "mini_headline": "AI 앞의 스토리보드",
+          "headline": "Resolve에서 AI가\n하이라이트 편집한다",
+          "body": "Resolve 새 기능으로 Claude·Codex 등 AI가 하이라이트를 편집한다.",
+          "mini_headline": "AI 에이전트에 열린 Resolve",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i.guim.co.uk/img/media/c9aabe04cbc4724110ea14f7d6a4bfe25a89ef20/94_56_6693_4292/master/6693.jpg?width=1200&dpr=1&s=none&crop=none",
-                "cap": "Gone with the Wind의 스토리보드 패널"
+                "src": "https://postperspective.com/wp-content/uploads/2026/11/DaVinci-Resolve-21-EDIT-copy.jpg"
               },
               {
                 "t": "p",
-                "x": "Hollywood가 이 기술을 받아들이기 시작하면서 가장 직접적인 위기를 맞은 직군은 감독의 첫 구상을 그림으로 옮기는 일러스트레이터다. James Cameron은 gen AI 기업 이사회에 들어가 있고, Steven Soderbergh는 John Lennon 다큐멘터리 애니메이션에 Meta-powered 기술을 썼다. Christopher Nolan도 AI가 쓸모 있는 “이미징 도구”를 몇 가지는 내놓을 것이라고 인정한다."
+                "x": "postPerspective 라운드테이블은 도구 제작사와 크리에이터들에게 소셜 크리에이터가 에피소드형 TV와 영화의 워크플로를 어떻게 빌려 쓰는지 묻는다. Blackmagic의 Bob Caniglia는 크리에이터들이 Pocket Cinema Camera, Micro Studio Camera, Pyxis 라인과 DaVinci Resolve를 쓴다며 비디오 팟캐스트와 롱폼, 세로형 마이크로필름 제작이 늘었다고 짚었다."
               },
               {
                 "t": "p",
-                "x": "지금 탄광 속 카나리아는 스토리보드 작가다. Martin Scorsese까지 합류했다. 그는 6월 한 AI 기업과 협업을 발표했고 차기작 스토리보드에 이 회사의 text-to-image 모델을 썼다."
-              },
-              {
-                "t": "img",
-                "src": "https://i.guim.co.uk/img/media/b0a5fde115c51a5fd45e9a0ec5b762b61284e164/0_0_3404_4370/master/3404.jpg?width=890&dpr=1&s=none&crop=none",
-                "cap": "Saul Bass가 그린 Psycho의 스토리보드"
+                "x": "AI를 두고 Caniglia는 이렇게 말한다. “다만 생성형 AI 도구를 말하는 것은 아닙니다. DaVinci Resolve에 있는 것 같은 비생성형 AI 영화 제작 도구는 반복 작업을 맡아 크리에이터가 자신의 예술에 집중하게 해 줍니다.”"
               },
               {
                 "t": "p",
-                "x": "Mickey 17과 The Gorge의 스토리보드 작가 Alex Clark는 “스토리보드가 멋진 그림을 그리는 일이라는 건 흔한 오해”라며 “감독이 어떻게 생각하는지에 다가가는 일”이라고 설명한다. Denis Villeneuve는 협업자 Sam Hudecki를 “내 뇌의 연장”이라고 부른다."
+                "x": "“좋은 예가 Claude, Claude Code, ChatGPT Codex 같은 AI 어시스턴트와의 연동을 지원하는 DaVinci Resolve의 새 기능입니다. AI 어시스턴트에게 롱폼 영상에서 하이라이트 편집본을 만들고, 원치 않는 클립을 지우고, 납품용 파일을 렌더링하라고 요청할 수 있습니다.”"
               },
               {
                 "t": "p",
-                "x": "Abertay 강사 Ferdinando Cocco는 아날로그 작업으로 돌아가는 흐름을 내다본다. “AI가 극복했다는 그 어려움이야말로 애초에 핵심이었는지도 모른다.” Clark도 관객이 사람의 손길이 담긴 영화를 가치 있게 여기게 될 것으로 본다."
+                "x": "크리에이터 Josh Liljenquist, CA in LA의 Courtney Birk와 Ashleigh Coffelt, OWC의 Jon Hoeg 등 다른 응답자들은 소규모 크루, NLE-agnostic(특정 NLE에 얽매이지 않는) 후반작업, 스토리지 워크플로를 이야기한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ScorseseもAI活用\n絵コンテ作家に危機感",
-          "body": "HollywoodのAI導入で、監督の構想を描く絵コンテ作家が最も直接的な危機にある。",
-          "mini_headline": "絵コンテとAI",
+          "headline": "ResolveでAIが\nハイライト編集を担う",
+          "body": "Resolveの新機能でClaudeやCodexなどのAIがハイライト編集を行う。",
+          "mini_headline": "ResolveがAIエージェントに対応",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i.guim.co.uk/img/media/c9aabe04cbc4724110ea14f7d6a4bfe25a89ef20/94_56_6693_4292/master/6693.jpg?width=1200&dpr=1&s=none&crop=none",
-                "cap": "Gone with the Windの絵コンテパネル"
+                "src": "https://postperspective.com/wp-content/uploads/2026/11/DaVinci-Resolve-21-EDIT-copy.jpg"
               },
               {
                 "t": "p",
-                "x": "Hollywoodがこの技術を取り入れ始める中、最も直接的な危機に立たされているのは、監督の最初の構想を描き出すイラストレーターたちだ。James Cameronはgen AI企業の取締役を務め、Steven SoderberghはJohn Lennonのドキュメンタリーのアニメーションに Meta-powered の技術を使い、Christopher NolanもAIが有用な「イメージングツール」をいくつか生み出すと認めている。"
+                "x": "postPerspectiveのラウンドテーブルは、ツールメーカーとクリエイターに、ソーシャルクリエイターがエピソード型TVや映画のワークフローをどう取り入れているかを尋ねる。BlackmagicのBob Canigliaは、クリエイターがPocket Cinema Camera、Micro Studio Camera、PyxisのラインとDaVinci Resolveを使っていると述べ、ビデオポッドキャスト、長尺作品、縦型マイクロフィルム制作の伸びを挙げる。"
               },
               {
                 "t": "p",
-                "x": "いま炭鉱のカナリアとなっているのは絵コンテ作家だ。Martin Scorseseまでもが乗り出した。彼は6月、あるAI企業との提携を発表し、次回作の絵コンテ制作にその企業のtext-to-imageモデルを使った。"
-              },
-              {
-                "t": "img",
-                "src": "https://i.guim.co.uk/img/media/b0a5fde115c51a5fd45e9a0ec5b762b61284e164/0_0_3404_4370/master/3404.jpg?width=890&dpr=1&s=none&crop=none",
-                "cap": "Saul BassによるPsychoの絵コンテ"
+                "x": "AIについてCanigliaはこう語る。「ただし、生成AIツールの話ではありません。DaVinci Resolveにあるような非生成AIの映像制作ツールは、反復作業を引き受け、クリエイターが自らの表現に集中できるようにします」"
               },
               {
                 "t": "p",
-                "x": "「絵コンテはきれいな絵を描くことだというのはよくある誤解だ」と、Mickey 17やThe Gorgeで絵コンテを手がけたAlex Clarkは言う。「監督がどう考えているかに寄り添うことなのだ」。Denis Villeneuveは協力者のSam Hudeckiを「私の脳の延長」と呼ぶ。"
+                "x": "「好例が、Claude、Claude Code、ChatGPT CodexといったAIアシスタントとの連携に対応したDaVinci Resolveの新機能です。AIアシスタントに、長尺動画からハイライト編集を作り、不要なクリップを削除し、納品物をレンダリングするよう依頼できます」"
               },
               {
                 "t": "p",
-                "x": "Abertayの講師Ferdinando Coccoはアナログな手法への回帰を見込む。「AIが克服したとされる難しさこそ、そもそもの要点だったのかもしれない」。Clarkは、観客が人の手のぬくもりがある映画を評価するようになると予想する。"
+                "x": "ほかの回答者——クリエイターのJosh Liljenquist、CA in LAのCourtney BirkとAshleigh Coffelt、OWCのJon Hoeg——は、少人数のクルー、NLE-agnostic(NLEに依存しない)なポスト、ストレージのワークフローについて論じている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "连Scorsese都用AI\n分镜师严阵以待",
-          "body": "随着Hollywood采用AI，为导演勾勒最初构想的分镜师首当其冲。",
-          "mini_headline": "分镜遇上AI",
+          "headline": "Resolve让AI助手\n生成精彩片段剪辑",
+          "body": "Blackmagic称Resolve新功能可让Claude等AI助手剪辑集锦、删除片段。",
+          "mini_headline": "Resolve向AI智能体开放",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i.guim.co.uk/img/media/c9aabe04cbc4724110ea14f7d6a4bfe25a89ef20/94_56_6693_4292/master/6693.jpg?width=1200&dpr=1&s=none&crop=none",
-                "cap": "Gone with the Wind的分镜画板"
+                "src": "https://postperspective.com/wp-content/uploads/2026/11/DaVinci-Resolve-21-EDIT-copy.jpg"
               },
               {
                 "t": "p",
-                "x": "随着Hollywood开始采用这项技术，处境最直接危险的是为导演描绘最初构想的插画师。James Cameron身居一家gen AI公司的董事会，Steven Soderbergh在其John Lennon纪录片的动画中使用了Meta-powered技术，Christopher Nolan也承认AI会催生一些有用的“成像工具”。"
+                "x": "postPerspective的圆桌访谈向工具厂商和创作者提问：社交平台创作者如何借鉴剧集类TV和电影的工作流程。Blackmagic的Bob Caniglia表示，创作者在使用Pocket Cinema Camera、Micro Studio Camera和Pyxis系列以及DaVinci Resolve，并指出视频播客、长视频和竖屏微电影制作正在增长。"
               },
               {
                 "t": "p",
-                "x": "如今煤矿里的金丝雀是分镜师。连Martin Scorsese也加入了：他在6月宣布与一家AI公司合作，并在为下一部电影绘制分镜时使用了该公司的text-to-image模型。"
-              },
-              {
-                "t": "img",
-                "src": "https://i.guim.co.uk/img/media/b0a5fde115c51a5fd45e9a0ec5b762b61284e164/0_0_3404_4370/master/3404.jpg?width=890&dpr=1&s=none&crop=none",
-                "cap": "Saul Bass为Psycho绘制的分镜"
+                "x": "谈到AI，Caniglia说：“不过我说的不是生成式AI工具。像DaVinci Resolve中那样的非生成式AI影视制作工具，可以处理重复性工作，让创作者专注于艺术本身。”"
               },
               {
                 "t": "p",
-                "x": "“一个常见的误解是，分镜就是画出好看的图，”Mickey 17和The Gorge的分镜师Alex Clark说，“它关乎贴近导演的思考方式。”Denis Villeneuve称他的合作者Sam Hudecki是“我大脑的延伸”。"
+                "x": "“一个很好的例子是DaVinci Resolve的一项新功能，它支持与Claude、Claude Code和ChatGPT Codex等AI助手集成。你可以让AI助手从长视频中生成精彩片段剪辑、删除不需要的片段并渲染交付文件。”"
               },
               {
                 "t": "p",
-                "x": "Abertay讲师Ferdinando Cocco认为会出现向模拟手法的回归：“也许AI声称克服的那种困难，从一开始就是关键所在。”Clark预测，观众会越来越珍视带有人情味的电影。"
+                "x": "其他受访者——创作者Josh Liljenquist、CA in LA的Courtney Birk和Ashleigh Coffelt，以及OWC的Jon Hoeg——讨论了小型团队、NLE-agnostic（不依赖特定NLE）的后期制作和存储工作流程。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Artistas de storyboard en vilo:\nhasta Scorsese usa AI",
-          "body": "Con la AI en Hollywood, los artistas de storyboard que plasman la primera visión del director son los más expuestos.",
-          "mini_headline": "El storyboard ante la AI",
+          "headline": "En Resolve, asistentes de AI\nmontan resúmenes destacados",
+          "body": "Según Blackmagic, una nueva función de Resolve deja que Claude, Codex y otros asistentes de AI monten resúmenes.",
+          "mini_headline": "Resolve se abre a los agentes de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i.guim.co.uk/img/media/c9aabe04cbc4724110ea14f7d6a4bfe25a89ef20/94_56_6693_4292/master/6693.jpg?width=1200&dpr=1&s=none&crop=none",
-                "cap": "Viñetas del storyboard de Gone with the Wind"
+                "src": "https://postperspective.com/wp-content/uploads/2026/11/DaVinci-Resolve-21-EDIT-copy.jpg"
               },
               {
                 "t": "p",
-                "x": "A medida que Hollywood empieza a adoptar la tecnología, los profesionales en peligro más directo son los ilustradores que plasman la primera visión de los directores. James Cameron forma parte del consejo de una empresa de gen AI, Steven Soderbergh usó tecnología Meta-powered para las animaciones de su documental sobre John Lennon y Christopher Nolan admite que la AI creará algunas “herramientas de imagen” útiles."
+                "x": "La mesa redonda de postPerspective pregunta a fabricantes de herramientas y creadores cómo los creadores de redes sociales adoptan flujos de trabajo de la TV episódica y el cine. Bob Caniglia, de Blackmagic, dice que los creadores usan las líneas Pocket Cinema Camera, Micro Studio Camera y Pyxis y DaVinci Resolve, y señala el crecimiento de los videopódcasts, las producciones de formato largo y los microfilmes verticales."
               },
               {
                 "t": "p",
-                "x": "El canario en la mina de hoy es el artista de storyboard. Incluso Martin Scorsese se ha subido al carro: en junio anunció una alianza con una empresa de AI cuyo modelo text-to-image utilizó para el storyboard de su próxima película."
-              },
-              {
-                "t": "img",
-                "src": "https://i.guim.co.uk/img/media/b0a5fde115c51a5fd45e9a0ec5b762b61284e164/0_0_3404_4370/master/3404.jpg?width=890&dpr=1&s=none&crop=none",
-                "cap": "Storyboard de Saul Bass para Psycho"
+                "x": "Sobre la AI, Caniglia afirma: “Aunque no hablo de herramientas de AI generativa. Las herramientas de AI no generativa para cine, como las que tenemos en DaVinci Resolve, se encargan de las tareas repetitivas y permiten a los creadores centrarse en su arte”."
               },
               {
                 "t": "p",
-                "x": "“Un error común es pensar que el storyboard consiste en hacer dibujos bonitos”, dice Alex Clark, artista de storyboard en Mickey 17 y The Gorge. “Se trata de conectar con cómo piensa el director”. Denis Villeneuve llama a su colaborador Sam Hudecki “una extensión de mi cerebro”."
+                "x": "“Un buen ejemplo es una nueva función de DaVinci Resolve que admite la integración con asistentes de AI como Claude, Claude Code y ChatGPT Codex. Se le puede pedir a un asistente de AI que cree ediciones de momentos destacados a partir de un video largo, elimine clips no deseados y renderice los entregables”."
               },
               {
                 "t": "p",
-                "x": "Ferdinando Cocco, profesor en Abertay, prevé un regreso a las prácticas analógicas: “Quizá la dificultad que la AI supuestamente supera era precisamente el sentido de todo desde el principio”. Clark predice que el público llegará a valorar las películas con un toque humano."
+                "x": "Otros participantes —el creador Josh Liljenquist, Courtney Birk y Ashleigh Coffelt de CA in LA, y Jon Hoeg de OWC— hablan de equipos pequeños, posproducción NLE-agnostic y flujos de trabajo de almacenamiento."
               }
             ]
           }
@@ -1325,145 +1059,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Scorsese도 AI\n스토리보드 작가 긴장",
-          "body": "Hollywood의 AI 도입으로 스토리보드 작가가 가장 직접적인 위기에 놓였다.",
-          "mini_headline": "AI 앞의 스토리보드",
+          "headline": "Resolve에서 AI가\n하이라이트 편집한다",
+          "body": "Resolve 신기능으로 Claude·Codex 등 AI가 하이라이트를 편집한다.",
+          "mini_headline": "AI 에이전트에 열린 Resolve",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i.guim.co.uk/img/media/c9aabe04cbc4724110ea14f7d6a4bfe25a89ef20/94_56_6693_4292/master/6693.jpg?width=1200&dpr=1&s=none&crop=none",
-                "cap": "Gone with the Wind의 스토리보드 패널"
+                "src": "https://postperspective.com/wp-content/uploads/2026/11/DaVinci-Resolve-21-EDIT-copy.jpg"
               },
               {
                 "t": "p",
-                "x": "Hollywood가 이 기술을 받아들이기 시작하면서 가장 직접적인 위기에 놓인 전문가는 감독의 첫 구상을 그려 내는 일러스트레이터들이다. James Cameron은 gen AI 기업의 이사회에 몸담고 있고, Steven Soderbergh는 John Lennon 다큐멘터리의 애니메이션에 Meta-powered 기술을 썼으며, Christopher Nolan도 AI가 유용한 “이미징 도구”를 일부 만들어 낼 것이라고 인정한다."
+                "x": "postPerspective의 라운드테이블은 도구 제작사와 크리에이터들에게 소셜 크리에이터들이 에피소드형 TV와 영화의 워크플로를 어떻게 빌려 쓰고 있는지 묻는다. Blackmagic의 Bob Caniglia는 크리에이터들이 Pocket Cinema Camera, Micro Studio Camera, Pyxis 라인과 DaVinci Resolve를 쓴다며, 비디오 팟캐스트와 롱폼, 세로형 마이크로필름 제작이 늘고 있다고 짚었다."
               },
               {
                 "t": "p",
-                "x": "지금 탄광 속 카나리아는 스토리보드 작가다. Martin Scorsese마저 합류했다. 그는 6월 한 AI 기업과의 협업을 발표했고, 차기작 스토리보드 작업에 이 회사의 text-to-image 모델을 썼다."
-              },
-              {
-                "t": "img",
-                "src": "https://i.guim.co.uk/img/media/b0a5fde115c51a5fd45e9a0ec5b762b61284e164/0_0_3404_4370/master/3404.jpg?width=890&dpr=1&s=none&crop=none",
-                "cap": "Saul Bass가 그린 Psycho의 스토리보드"
+                "x": "AI에 대해 Caniglia는 이렇게 말한다. “다만 생성형 AI 도구를 말하는 것은 아닙니다. DaVinci Resolve에 있는 것 같은 비생성형 AI 영화 제작 도구는 반복 작업을 맡아 크리에이터가 자신의 예술에 집중하게 해 줍니다.”"
               },
               {
                 "t": "p",
-                "x": "Mickey 17과 The Gorge의 스토리보드 작가 Alex Clark는 “스토리보드가 멋진 그림을 그리는 일이라는 건 흔한 오해”라며 “감독이 어떻게 생각하는지에 다가가는 일”이라고 말한다. Denis Villeneuve는 협업자 Sam Hudecki를 “내 뇌의 연장”이라고 부른다."
+                "x": "“좋은 예가 Claude, Claude Code, ChatGPT Codex 같은 AI 어시스턴트와의 연동을 지원하는 DaVinci Resolve의 새 기능입니다. AI 어시스턴트에게 롱폼 영상에서 하이라이트 편집본을 만들고, 원치 않는 클립을 지우고, 납품용 파일을 렌더링하라고 요청할 수 있습니다.”"
               },
               {
                 "t": "p",
-                "x": "Abertay 강사 Ferdinando Cocco는 아날로그 작업으로의 회귀를 내다본다. “AI가 극복했다는 그 어려움이야말로 애초에 핵심이었는지도 모른다.” Clark는 관객이 사람의 손길이 담긴 영화를 가치 있게 여기게 될 것이라고 전망한다."
+                "x": "다른 응답자들, 즉 크리에이터 Josh Liljenquist, CA in LA의 Courtney Birk와 Ashleigh Coffelt, OWC의 Jon Hoeg는 소규모 크루, NLE-agnostic(특정 NLE에 얽매이지 않는) 후반작업, 스토리지 워크플로를 논한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ScorseseもAI活用\n絵コンテ作家に危機感",
-          "body": "HollywoodのAI導入で、監督の構想を描く絵コンテ作家が最も直接的な危機にある。",
-          "mini_headline": "絵コンテとAI",
+          "headline": "ResolveでAIが\nハイライト編集を担う",
+          "body": "Resolveの新機能でClaudeやCodexなどのAIがハイライト編集を行う。",
+          "mini_headline": "ResolveがAIエージェントに対応",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i.guim.co.uk/img/media/c9aabe04cbc4724110ea14f7d6a4bfe25a89ef20/94_56_6693_4292/master/6693.jpg?width=1200&dpr=1&s=none&crop=none",
-                "cap": "Gone with the Windの絵コンテパネル"
+                "src": "https://postperspective.com/wp-content/uploads/2026/11/DaVinci-Resolve-21-EDIT-copy.jpg"
               },
               {
                 "t": "p",
-                "x": "Hollywoodがこの技術を取り入れ始める中、最も直接的な危機に立たされているのは、監督の最初の構想を描き出すイラストレーターたちだ。James Cameronはgen AI企業の取締役を務め、Steven SoderberghはJohn Lennonのドキュメンタリーのアニメーションに Meta-powered の技術を使い、Christopher NolanもAIが有用な「イメージングツール」をいくつか生み出すと認めている。"
+                "x": "postPerspectiveのラウンドテーブルは、ツールメーカーとクリエイターに、ソーシャルクリエイターがエピソード型TVや映画のワークフローをどう取り入れているかを尋ねる。BlackmagicのBob Canigliaは、クリエイターがPocket Cinema Camera、Micro Studio Camera、PyxisのラインとDaVinci Resolveを使っていると述べ、ビデオポッドキャスト、長尺作品、縦型マイクロフィルム制作の伸びを挙げる。"
               },
               {
                 "t": "p",
-                "x": "いま炭鉱のカナリアとなっているのは絵コンテ作家だ。Martin Scorseseまでもが乗り出した。彼は6月、あるAI企業との提携を発表し、次回作の絵コンテ制作にその企業のtext-to-imageモデルを使った。"
-              },
-              {
-                "t": "img",
-                "src": "https://i.guim.co.uk/img/media/b0a5fde115c51a5fd45e9a0ec5b762b61284e164/0_0_3404_4370/master/3404.jpg?width=890&dpr=1&s=none&crop=none",
-                "cap": "Saul BassによるPsychoの絵コンテ"
+                "x": "AIについてCanigliaはこう語る。「ただし、生成AIツールの話ではありません。DaVinci Resolveにあるような非生成AIの映像制作ツールは、反復作業を引き受け、クリエイターが自らの表現に集中できるようにします」"
               },
               {
                 "t": "p",
-                "x": "「絵コンテはきれいな絵を描くことだというのはよくある誤解だ」と、Mickey 17やThe Gorgeで絵コンテを手がけたAlex Clarkは言う。「監督がどう考えているかに寄り添うことなのだ」。Denis Villeneuveは協力者のSam Hudeckiを「私の脳の延長」と呼ぶ。"
+                "x": "「好例が、Claude、Claude Code、ChatGPT CodexといったAIアシスタントとの連携に対応したDaVinci Resolveの新機能です。AIアシスタントに、長尺動画からハイライト編集を作り、不要なクリップを削除し、納品物をレンダリングするよう依頼できます」"
               },
               {
                 "t": "p",
-                "x": "Abertayの講師Ferdinando Coccoはアナログな手法への回帰を見込む。「AIが克服したとされる難しさこそ、そもそもの要点だったのかもしれない」。Clarkは、観客が人の手のぬくもりがある映画を評価するようになると予想する。"
+                "x": "ほかの回答者——クリエイターのJosh Liljenquist、CA in LAのCourtney BirkとAshleigh Coffelt、OWCのJon Hoeg——は、少人数のクルー、NLE-agnostic(NLEに依存しない)なポスト、ストレージのワークフローについて論じている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "连Scorsese都用AI\n分镜师严阵以待",
-          "body": "随着Hollywood采用AI，为导演勾勒最初构想的分镜师首当其冲。",
-          "mini_headline": "分镜遇上AI",
+          "headline": "Resolve让AI助手\n生成精彩片段剪辑",
+          "body": "Blackmagic称Resolve新功能可让Claude等AI助手剪辑集锦、删除片段。",
+          "mini_headline": "Resolve向AI智能体开放",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i.guim.co.uk/img/media/c9aabe04cbc4724110ea14f7d6a4bfe25a89ef20/94_56_6693_4292/master/6693.jpg?width=1200&dpr=1&s=none&crop=none",
-                "cap": "Gone with the Wind的分镜画板"
+                "src": "https://postperspective.com/wp-content/uploads/2026/11/DaVinci-Resolve-21-EDIT-copy.jpg"
               },
               {
                 "t": "p",
-                "x": "随着Hollywood开始采用这项技术，处境最直接危险的是为导演描绘最初构想的插画师。James Cameron身居一家gen AI公司的董事会，Steven Soderbergh在其John Lennon纪录片的动画中使用了Meta-powered技术，Christopher Nolan也承认AI会催生一些有用的“成像工具”。"
+                "x": "postPerspective的圆桌访谈向工具厂商和创作者提问：社交平台创作者如何借鉴剧集类TV和电影的工作流程。Blackmagic的Bob Caniglia表示，创作者在使用Pocket Cinema Camera、Micro Studio Camera和Pyxis系列以及DaVinci Resolve，并指出视频播客、长视频和竖屏微电影制作正在增长。"
               },
               {
                 "t": "p",
-                "x": "如今煤矿里的金丝雀是分镜师。连Martin Scorsese也加入了：他在6月宣布与一家AI公司合作，并在为下一部电影绘制分镜时使用了该公司的text-to-image模型。"
-              },
-              {
-                "t": "img",
-                "src": "https://i.guim.co.uk/img/media/b0a5fde115c51a5fd45e9a0ec5b762b61284e164/0_0_3404_4370/master/3404.jpg?width=890&dpr=1&s=none&crop=none",
-                "cap": "Saul Bass为Psycho绘制的分镜"
+                "x": "谈到AI，Caniglia说：“不过我说的不是生成式AI工具。像DaVinci Resolve中那样的非生成式AI影视制作工具，可以处理重复性工作，让创作者专注于艺术本身。”"
               },
               {
                 "t": "p",
-                "x": "“一个常见的误解是，分镜就是画出好看的图，”Mickey 17和The Gorge的分镜师Alex Clark说，“它关乎贴近导演的思考方式。”Denis Villeneuve称他的合作者Sam Hudecki是“我大脑的延伸”。"
+                "x": "“一个很好的例子是DaVinci Resolve的一项新功能，它支持与Claude、Claude Code和ChatGPT Codex等AI助手集成。你可以让AI助手从长视频中生成精彩片段剪辑、删除不需要的片段并渲染交付文件。”"
               },
               {
                 "t": "p",
-                "x": "Abertay讲师Ferdinando Cocco认为会出现向模拟手法的回归：“也许AI声称克服的那种困难，从一开始就是关键所在。”Clark预测，观众会越来越珍视带有人情味的电影。"
+                "x": "其他受访者——创作者Josh Liljenquist、CA in LA的Courtney Birk和Ashleigh Coffelt，以及OWC的Jon Hoeg——讨论了小型团队、NLE-agnostic（不依赖特定NLE）的后期制作和存储工作流程。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Artistas de storyboard en vilo:\nhasta Scorsese usa AI",
-          "body": "Con la AI en Hollywood, los artistas de storyboard que plasman la primera visión del director son los más expuestos.",
-          "mini_headline": "El storyboard ante la AI",
+          "headline": "En Resolve, asistentes de AI\nmontan resúmenes destacados",
+          "body": "Según Blackmagic, una nueva función de Resolve deja que Claude, Codex y otros asistentes de AI monten resúmenes.",
+          "mini_headline": "Resolve se abre a los agentes de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i.guim.co.uk/img/media/c9aabe04cbc4724110ea14f7d6a4bfe25a89ef20/94_56_6693_4292/master/6693.jpg?width=1200&dpr=1&s=none&crop=none",
-                "cap": "Viñetas del storyboard de Gone with the Wind"
+                "src": "https://postperspective.com/wp-content/uploads/2026/11/DaVinci-Resolve-21-EDIT-copy.jpg"
               },
               {
                 "t": "p",
-                "x": "A medida que Hollywood empieza a adoptar la tecnología, los profesionales en peligro más directo son los ilustradores que plasman la primera visión de los directores. James Cameron forma parte del consejo de una empresa de gen AI, Steven Soderbergh usó tecnología Meta-powered para las animaciones de su documental sobre John Lennon y Christopher Nolan admite que la AI creará algunas “herramientas de imagen” útiles."
+                "x": "La mesa redonda de postPerspective pregunta a fabricantes de herramientas y creadores cómo los creadores de redes sociales adoptan flujos de trabajo de la TV episódica y el cine. Bob Caniglia, de Blackmagic, dice que los creadores usan las líneas Pocket Cinema Camera, Micro Studio Camera y Pyxis y DaVinci Resolve, y señala el crecimiento de los videopódcasts, las producciones de formato largo y los microfilmes verticales."
               },
               {
                 "t": "p",
-                "x": "El canario en la mina de hoy es el artista de storyboard. Incluso Martin Scorsese se ha subido al carro: en junio anunció una alianza con una empresa de AI cuyo modelo text-to-image utilizó para el storyboard de su próxima película."
-              },
-              {
-                "t": "img",
-                "src": "https://i.guim.co.uk/img/media/b0a5fde115c51a5fd45e9a0ec5b762b61284e164/0_0_3404_4370/master/3404.jpg?width=890&dpr=1&s=none&crop=none",
-                "cap": "Storyboard de Saul Bass para Psycho"
+                "x": "Sobre la AI, Caniglia afirma: “Aunque no hablo de herramientas de AI generativa. Las herramientas de AI no generativa para cine, como las que tenemos en DaVinci Resolve, se encargan de las tareas repetitivas y permiten a los creadores centrarse en su arte”."
               },
               {
                 "t": "p",
-                "x": "“Un error común es pensar que el storyboard consiste en hacer dibujos bonitos”, dice Alex Clark, artista de storyboard en Mickey 17 y The Gorge. “Se trata de conectar con cómo piensa el director”. Denis Villeneuve llama a su colaborador Sam Hudecki “una extensión de mi cerebro”."
+                "x": "“Un buen ejemplo es una nueva función de DaVinci Resolve que admite la integración con asistentes de AI como Claude, Claude Code y ChatGPT Codex. Se le puede pedir a un asistente de AI que cree ediciones de momentos destacados a partir de un video largo, elimine clips no deseados y renderice los entregables”."
               },
               {
                 "t": "p",
-                "x": "Ferdinando Cocco, profesor en Abertay, prevé un regreso a las prácticas analógicas: “Quizá la dificultad que la AI supuestamente supera era precisamente el sentido de todo desde el principio”. Clark predice que el público llegará a valorar las películas con un toque humano."
+                "x": "Otros participantes —el creador Josh Liljenquist, Courtney Birk y Ashleigh Coffelt de CA in LA, y Jon Hoeg de OWC— hablan de equipos pequeños, posproducción NLE-agnostic y flujos de trabajo de almacenamiento."
               }
             ]
           }
@@ -1471,311 +1181,401 @@
       }
     },
     {
-      "id": "chilemonos-2027-ai-rules",
-      "source_lang": "en",
+      "id": "kyungmin-jonah-ai-animation",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "CHILEMONOS,\n애니메이터 대체 AI 금지",
-      "body": "CHILEMONOS는 2027년 AI가 창작을 대신한 작품을 받지 않는다.",
-      "mini_headline": "CHILEMONOS, AI 제한",
+      "headline": "경민대, 극장용 AI\n애니메이션 '요나' 제작",
+      "body": "경민대 학생들이 산학협력으로 극장용 AI 애니메이션 '요나' 제작에 참여한다.",
+      "mini_headline": "경민대 AI 애니메이션",
       "tool": "Movies",
-      "source": "Indie Shorts Mag",
-      "url": "https://www.indieshortsmag.com/news/2026/11/chilemonos-2027-animation-festival-submissions-oscar-qualifying/",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261116073300060",
       "accent": "#eb367f",
       "motif": "frame",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
+            "t": "p",
+            "x": "경민대는 16일 ㈜강단스튜디오, ㈜스튜디오시네틱스 등 2곳과 인공지능(AI) 융합 콘텐츠 공동제작과 협력체계 구축을 위한 업무협약(MOU)을 체결했다."
+          },
+          {
+            "t": "p",
+            "x": "협약에 따라 경민대 실용음악과와 미디어영상과 학생들은 국내 최초로 시도되는 극장용 AI 애니메이션 영화 '요나' 제작 과정에 참여한다."
+          },
+          {
+            "t": "p",
+            "x": "학생들은 이야기·콘티 구성부터 캐릭터·미술 작업, AI 장면 제작, 편집·품질 검토, 음성·음악 작업 등에 이르기까지 미국 매사추세츠 공과대학(MIT)과 공동 연구한 최신 AI 기반 콘텐츠 기술을 경험하게 된다."
+          },
+          {
             "t": "img",
-            "src": "https://cms.indieshortsmag.com/wp-content/uploads/2026/11/CHILEMONOS-2027-Opens-Free-Oscar-Qualifying-Animation-Entries-With-New-AI-Restrictions-Indie-Shorts-Mag-News.jpg"
+            "src": "https://img3.yna.co.kr/etc/inner/KR/2026/11/16/AKR20261116073300060_01_i_P4.jpg",
+            "cap": "경민대는 16일 ㈜강단스튜디오, ㈜스튜디오시네틱스 등 2곳과 극장용 인공지능(AI) 애니메이션 콘텐츠 제작을 위한 산학협력 업무협약(MOU)을 체결했다. [경민대 제공]"
           },
           {
             "t": "p",
-            "x": "제16회 CHILEMONOS 국제 애니메이션 페스티벌이 2027년 행사 출품작을 받기 시작했다. 공식 경쟁 부문은 여섯 개로, 이 중 두 부문은 아카데미상(Academy Awards) 출품 자격으로 이어질 수 있다. 접수 기간은 2026년 11월 13일부터 2027년 2월 26일까지이고 출품료는 없다."
+            "x": "이 영화는 성경 요나서를 바탕으로 어린이와 가족 관객이 함께 즐기도록 기획된 성경 문화 프로젝트 '마중'의 첫 번째 작품이다. 목회자와 신학 전문가 자문을 거쳐 내년 하반기 극장 개봉이 목표다."
           },
           {
             "t": "p",
-            "x": "국제 단편 애니메이션 경쟁과 라틴아메리카 단편 애니메이션 경쟁은 Oscar-qualifying 부문으로, 페스티벌은 2019년부터 이 지위를 지켜 왔다. 출품 대상은 2026년 3월 1일 이후 완성된 작품이다. 전문가 부문 단편은 상영 시간이 2분에서 30분 사이여야 한다."
+            "x": "마중 프로젝트를 총괄하는 홍문종 추진협의회 의장은 \"이번 협약은 대학의 교육 역량을 산업 현장으로 확장하는 출발점이자 학생들이 배운 기술과 재능을 극장 개봉작이라는 구체적인 결과물로 구현하는 소중한 기회가 될 것\"이라고 말했다."
           },
           {
             "t": "p",
-            "x": "주최 측은 생성형 AI를 새로운 제작 도구로 보지만 장기 정책은 아직 정하지 않았다. 2027년 규정은 출품작의 AI 사용을 금지하며, 애니메이터의 창작 기여를 대체하는 AI-generated 애니메이션은 출품 자격 박탈 사유로 명시했다. AI-assisted 작업 방식을 쓴다면 출품 전에 주최 측에 먼저 문의해야 한다."
-          },
-          {
-            "t": "p",
-            "x": "행사는 하이브리드로 열린다. 라틴아메리카 전역에서는 온라인으로, Santiago에서는 오프라인으로 진행되며 규정상 페스티벌 기간은 2027년 5월 3–30일이다."
+            "x": "이 프로젝트는 20일 경민대 승태관 3층 아카페홀에서 출범식을 열며 요셉, 모세 등 성경 인물을 소재로 한 후속 시리즈도 기획 중이다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "CHILEMONOS bars AI that\nreplaces the animator",
-          "body": "Oscar-qualifying CHILEMONOS opens free 2027 entries, ruling out works where AI replaces the animator's creative input.",
-          "mini_headline": "CHILEMONOS limits AI",
+        "ko": {
+          "headline": "경민대, 극장용 AI\n애니메이션 '요나' 제작",
+          "body": "경민대 학생들이 산학협력으로 극장용 AI 애니메이션 '요나' 제작에 참여한다.",
+          "mini_headline": "경민대 AI 애니메이션",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "경민대는 16일 ㈜강단스튜디오, ㈜스튜디오시네틱스 등 2곳과 인공지능(AI) 융합 콘텐츠 공동제작과 협력체계 구축을 위한 업무협약(MOU)을 체결했다."
+              },
+              {
+                "t": "p",
+                "x": "협약에 따라 경민대 실용음악과와 미디어영상과 학생들은 국내 최초로 시도되는 극장용 AI 애니메이션 영화 '요나' 제작 과정에 참여한다."
+              },
+              {
+                "t": "p",
+                "x": "학생들은 이야기·콘티 구성부터 캐릭터·미술 작업, AI 장면 제작, 편집·품질 검토, 음성·음악 작업 등에 이르기까지 미국 매사추세츠 공과대학(MIT)과 공동 연구한 최신 AI 기반 콘텐츠 기술을 경험하게 된다."
+              },
+              {
                 "t": "img",
-                "src": "https://cms.indieshortsmag.com/wp-content/uploads/2026/11/CHILEMONOS-2027-Opens-Free-Oscar-Qualifying-Animation-Entries-With-New-AI-Restrictions-Indie-Shorts-Mag-News.jpg"
+                "src": "https://img3.yna.co.kr/etc/inner/KR/2026/11/16/AKR20261116073300060_01_i_P4.jpg",
+                "cap": "경민대는 16일 ㈜강단스튜디오, ㈜스튜디오시네틱스 등 2곳과 극장용 인공지능(AI) 애니메이션 콘텐츠 제작을 위한 산학협력 업무협약(MOU)을 체결했다. [경민대 제공]"
               },
               {
                 "t": "p",
-                "x": "The 16th CHILEMONOS International Animation Festival has opened submissions for its 2027 edition across six official competitions, two of which could qualify for the Academy Awards. Entries opened on 13 November 2026 and close on 26 February 2027, with no submission fees."
+                "x": "이 영화는 성경 요나서를 바탕으로 어린이와 가족 관객이 함께 즐기도록 기획된 성경 문화 프로젝트 '마중'의 첫 번째 작품이다. 목회자와 신학 전문가 자문을 거쳐 내년 하반기 극장 개봉이 목표다."
               },
               {
                 "t": "p",
-                "x": "The International and Latin American Animated Short Film Competitions are Oscar-qualifying; the festival has held that status since 2019. Films must be completed on or after 1 March 2026, and professional shorts must run between two and 30 minutes."
+                "x": "마중 프로젝트를 총괄하는 홍문종 추진협의회 의장은 \"이번 협약은 대학의 교육 역량을 산업 현장으로 확장하는 출발점이자 학생들이 배운 기술과 재능을 극장 개봉작이라는 구체적인 결과물로 구현하는 소중한 기회가 될 것\"이라고 말했다."
               },
               {
                 "t": "p",
-                "x": "The organizers acknowledge generative AI as an emerging production tool but have not yet established a definitive long-term policy. For 2027, the regulations prohibit AI in submitted works and identify AI-generated animation that replaces an animator’s creative contribution as grounds for ineligibility. Applicants using AI-assisted workflows should contact the organizers before submitting."
-              },
-              {
-                "t": "p",
-                "x": "The hybrid edition runs online across Latin America and in person in Santiago, with the regulations setting the festival period as 3–30 May 2027."
+                "x": "이 프로젝트는 20일 경민대 승태관 3층 아카페홀에서 출범식을 열며 요셉, 모세 등 성경 인물을 소재로 한 후속 시리즈도 기획 중이다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "CHILEMONOS,\n애니메이터 대체 AI 금지",
-          "body": "CHILEMONOS는 2027년 AI가 창작을 대신한 작품을 받지 않는다.",
-          "mini_headline": "CHILEMONOS, AI 제한",
+        "en": {
+          "headline": "Kyungmin University joins\ntheatrical AI film 'Jonah'",
+          "body": "Kyungmin University students will help make the theatrical AI animation 'Jonah' under an industry-academia deal.",
+          "mini_headline": "Kyungmin's AI animation",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "Kyungmin University signed a memorandum of understanding (MOU) on the 16th with 2 companies, Gangdan Studio Co. and Studio Cinetics Co., to co-produce artificial intelligence (AI) convergence content and build a cooperation system."
+              },
+              {
+                "t": "p",
+                "x": "Under the agreement, students from Kyungmin University's Department of Applied Music and Department of Media and Video will take part in producing the theatrical AI animated film 'Jonah', the first such attempt in the country."
+              },
+              {
+                "t": "p",
+                "x": "From story and storyboard development to character and art work, AI scene production, editing and quality review, and voice and music work, students will experience the latest AI-based content technology developed in joint research with the Massachusetts Institute of Technology (MIT) in the United States."
+              },
+              {
                 "t": "img",
-                "src": "https://cms.indieshortsmag.com/wp-content/uploads/2026/11/CHILEMONOS-2027-Opens-Free-Oscar-Qualifying-Animation-Entries-With-New-AI-Restrictions-Indie-Shorts-Mag-News.jpg"
+                "src": "https://img3.yna.co.kr/etc/inner/KR/2026/11/16/AKR20261116073300060_01_i_P4.jpg",
+                "cap": "Kyungmin University signed an industry-academia cooperation MOU on the 16th with 2 companies, Gangdan Studio Co. and Studio Cinetics Co., to produce theatrical artificial intelligence (AI) animation content. [Courtesy of Kyungmin University]"
               },
               {
                 "t": "p",
-                "x": "제16회 CHILEMONOS 국제 애니메이션 페스티벌이 2027년 행사 출품작을 받기 시작했다. 공식 경쟁 부문은 여섯 개로, 이 중 두 부문은 아카데미상(Academy Awards) 출품 자격으로 이어질 수 있다. 접수 기간은 2026년 11월 13일부터 2027년 2월 26일까지이고 출품료는 없다."
+                "x": "The film is the first work of 'Majung', a Bible culture project based on the Book of Jonah and designed for children and families to enjoy together. With advice from pastors and theology experts, it aims for a theatrical release in the second half of next year."
               },
               {
                 "t": "p",
-                "x": "국제 단편 애니메이션 경쟁과 라틴아메리카 단편 애니메이션 경쟁은 Oscar-qualifying 부문으로, 페스티벌은 2019년부터 이 지위를 지켜 왔다. 출품 대상은 2026년 3월 1일 이후 완성된 작품이다. 전문가 부문 단편은 상영 시간이 2분에서 30분 사이여야 한다."
+                "x": "Hong Moon-jong, chairman of the promotion council overseeing the Majung project, said, “This agreement is a starting point for extending the university's educational capacity into the industry, and it will be a valuable opportunity for students to turn the skills and talents they have learned into a concrete result: a theatrical release.”"
               },
               {
                 "t": "p",
-                "x": "주최 측은 생성형 AI를 새로운 제작 도구로 보지만 장기 정책은 아직 정하지 않았다. 2027년 규정은 출품작의 AI 사용을 금지하며, 애니메이터의 창작 기여를 대체하는 AI-generated 애니메이션은 출품 자격 박탈 사유로 명시했다. AI-assisted 작업 방식을 쓴다면 출품 전에 주최 측에 먼저 문의해야 한다."
-              },
-              {
-                "t": "p",
-                "x": "행사는 하이브리드로 열린다. 라틴아메리카 전역에서는 온라인으로, Santiago에서는 오프라인으로 진행되며 규정상 페스티벌 기간은 2027년 5월 3–30일이다."
+                "x": "The project will hold a launch ceremony on the 20th at Akape Hall on the 3rd floor of Seungtae Hall at Kyungmin University, and follow-up series based on biblical figures such as Joseph and Moses are also being planned."
               }
             ]
           }
         },
         "ja": {
-          "headline": "CHILEMONOS、\nアニメーター代替AIを禁止",
-          "body": "CHILEMONOSは2027年の応募を無料とし、AIが創作を代替した作品は除外する。",
-          "mini_headline": "CHILEMONOS、AIを制限",
+          "headline": "慶旻大、劇場用AIアニメ\n『ヨナ』を制作",
+          "body": "慶旻大の学生が産学連携で劇場用AIアニメ『ヨナ』の制作に参加する。",
+          "mini_headline": "慶旻大のAIアニメ",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "慶旻大学は16日、株式会社カンダンスタジオ、株式会社スタジオシネティクスの2社と、人工知能(AI)融合コンテンツの共同制作と協力体制構築に向けた業務協約(MOU)を締結した。"
+              },
+              {
+                "t": "p",
+                "x": "協約により、慶旻大学実用音楽科とメディア映像科の学生は、国内で初めて試みられる劇場用AIアニメーション映画『ヨナ』の制作過程に参加する。"
+              },
+              {
+                "t": "p",
+                "x": "学生らはストーリー・絵コンテ構成からキャラクター・美術作業、AIシーン制作、編集・品質チェック、音声・音楽作業に至るまで、米マサチューセッツ工科大学(MIT)と共同研究した最新のAIベースのコンテンツ技術を経験することになる。"
+              },
+              {
                 "t": "img",
-                "src": "https://cms.indieshortsmag.com/wp-content/uploads/2026/11/CHILEMONOS-2027-Opens-Free-Oscar-Qualifying-Animation-Entries-With-New-AI-Restrictions-Indie-Shorts-Mag-News.jpg"
+                "src": "https://img3.yna.co.kr/etc/inner/KR/2026/11/16/AKR20261116073300060_01_i_P4.jpg",
+                "cap": "慶旻大学は16日、株式会社カンダンスタジオ、株式会社スタジオシネティクスの2社と、劇場用人工知能(AI)アニメーションコンテンツ制作に向けた産学協力業務協約(MOU)を締結した。[慶旻大学提供]"
               },
               {
                 "t": "p",
-                "x": "第16回CHILEMONOS国際アニメーション映画祭が、2027年開催分の応募受付を始めた。公式コンペティションは六部門で、そのうち二部門はアカデミー賞(Academy Awards)の対象資格につながりうる。受付は2026年11月13日に始まり、2027年2月26日に締め切られる。応募料はかからない。"
+                "x": "この映画は、聖書のヨナ書をもとに子どもと家族の観客が一緒に楽しめるよう企画された聖書文化プロジェクト「マジュン」の第一作だ。牧師や神学の専門家の助言を経て、来年下半期の劇場公開を目指す。"
               },
               {
                 "t": "p",
-                "x": "国際短編アニメーション部門とラテンアメリカ短編アニメーション部門はOscar-qualifyingの部門で、映画祭は2019年からこの資格を保持している。作品は2026年3月1日以降に完成したものに限られ、プロの短編は上映時間が2分から30分でなければならない。"
+                "x": "マジュンプロジェクトを統括する洪文鐘推進協議会議長は「今回の協約は、大学の教育力を産業現場へと広げる出発点であり、学生が学んだ技術と才能を劇場公開作という具体的な成果として形にする貴重な機会になるだろう」と述べた。"
               },
               {
                 "t": "p",
-                "x": "主催者は生成AIを新たな制作ツールと認めつつも、長期的な方針はまだ定めていない。2027年の規定は応募作品でのAI使用を禁じ、アニメーターの創作的貢献を置き換えるAI-generatedのアニメーションを失格事由とする。AI-assistedのワークフローを使う応募者は、応募前に主催者へ連絡する必要がある。"
-              },
-              {
-                "t": "p",
-                "x": "ハイブリッド形式で、ラテンアメリカ全域ではオンライン、Santiagoでは対面で開催され、規定上の会期は2027年5月3–30日だ。"
+                "x": "同プロジェクトは20日に慶旻大学スンテ館3階のアカペホールで発足式を開き、ヨセフやモーセなど聖書の人物を題材とした続編シリーズも企画している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "CHILEMONOS禁止\n取代动画师的AI",
-          "body": "CHILEMONOS免费开放2027年报名，但排除由AI取代动画师创作的作品。",
-          "mini_headline": "CHILEMONOS限制AI",
+          "headline": "庆旻大学参与制作\n院线AI动画《约拿》",
+          "body": "庆旻大学学生将通过产学合作参与院线AI动画电影《约拿》的制作。",
+          "mini_headline": "庆旻大学AI动画",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "庆旻大学16日与Gangdan Studio公司、Studio Cinetics公司等2家企业签署业务协议(MOU)，旨在共同制作人工智能(AI)融合内容并建立合作体系。"
+              },
+              {
+                "t": "p",
+                "x": "根据协议，庆旻大学实用音乐系和媒体影像系的学生将参与国内首次尝试的院线AI动画电影《约拿》的制作过程。"
+              },
+              {
+                "t": "p",
+                "x": "从故事与分镜构思到角色与美术工作、AI场景制作、剪辑与质量审核、配音与音乐工作，学生们将体验与美国麻省理工学院(MIT)共同研发的最新AI内容技术。"
+              },
+              {
                 "t": "img",
-                "src": "https://cms.indieshortsmag.com/wp-content/uploads/2026/11/CHILEMONOS-2027-Opens-Free-Oscar-Qualifying-Animation-Entries-With-New-AI-Restrictions-Indie-Shorts-Mag-News.jpg"
+                "src": "https://img3.yna.co.kr/etc/inner/KR/2026/11/16/AKR20261116073300060_01_i_P4.jpg",
+                "cap": "庆旻大学16日与Gangdan Studio公司、Studio Cinetics公司等2家企业签署了院线人工智能(AI)动画内容制作产学合作业务协议(MOU)。[庆旻大学提供]"
               },
               {
                 "t": "p",
-                "x": "第16届CHILEMONOS国际动画节已开放2027年度报名，共设六个官方竞赛单元，其中两个可获得Academy Awards（奥斯卡金像奖）参评资格。报名于2026年11月13日开启，2027年2月26日截止，不收取报名费。"
+                "x": "这部电影是以《圣经·约拿书》为蓝本、面向儿童和家庭观众共同观赏而策划的圣经文化项目“Majung”的第一部作品。在征询牧师和神学专家意见后，计划于明年下半年在院线上映。"
               },
               {
                 "t": "p",
-                "x": "国际动画短片竞赛与拉丁美洲动画短片竞赛为Oscar-qualifying单元，该节自2019年起即拥有这一资格。参赛影片须于2026年3月1日或之后完成，专业组短片时长须在2至30分钟之间。"
+                "x": "统筹Majung项目的推进协议会议长洪文钟表示：“此次协议是将大学教育能力延伸至产业现场的起点，也将成为学生把所学技术和才华转化为院线上映作品这一具体成果的宝贵机会。”"
               },
               {
                 "t": "p",
-                "x": "主办方承认生成式AI是一种新兴制作工具，但尚未确立明确的长期政策。2027年的规则禁止在参赛作品中使用AI，并将取代动画师创作贡献的AI-generated动画列为取消资格的理由。使用AI-assisted工作流程的申请者应在提交前联系主办方。"
-              },
-              {
-                "t": "p",
-                "x": "本届采用线上线下结合的形式，在拉丁美洲各地线上进行，并在Santiago线下举办，规则将节期定为2027年5月3–30日。"
+                "x": "该项目将于20日在庆旻大学承泰馆3层Akape厅举行启动仪式，并正在策划以约瑟、摩西等圣经人物为题材的后续系列。"
               }
             ]
           }
         },
         "es": {
-          "headline": "CHILEMONOS veta la AI que\nsustituye al animador",
-          "body": "CHILEMONOS, Oscar-qualifying, abre la convocatoria 2027 gratis y excluye obras donde la AI reemplaza al animador.",
-          "mini_headline": "CHILEMONOS limita la AI",
+          "headline": "La Universidad Kyungmin hará\nel filme animado con AI 'Jonah'",
+          "body": "Estudiantes de la Universidad Kyungmin participarán en la producción de la animación con AI 'Jonah' para cines.",
+          "mini_headline": "La animación con AI de Kyungmin",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "La Universidad Kyungmin firmó el día 16 un memorando de entendimiento (MOU) con 2 empresas, Gangdan Studio y Studio Cinetics, para coproducir contenidos de convergencia con inteligencia artificial (AI) y crear un sistema de cooperación."
+              },
+              {
+                "t": "p",
+                "x": "En virtud del acuerdo, estudiantes de los departamentos de Música Aplicada y de Medios y Video de la Universidad Kyungmin participarán en la producción de 'Jonah', la primera película de animación con AI para cines que se intenta en el país."
+              },
+              {
+                "t": "p",
+                "x": "Desde la construcción de la historia y el guion gráfico hasta el trabajo de personajes y arte, la producción de escenas con AI, la edición y revisión de calidad y el trabajo de voz y música, los estudiantes conocerán la última tecnología de contenidos basada en AI, desarrollada en investigación conjunta con el Instituto Tecnológico de Massachusetts (MIT) de Estados Unidos."
+              },
+              {
                 "t": "img",
-                "src": "https://cms.indieshortsmag.com/wp-content/uploads/2026/11/CHILEMONOS-2027-Opens-Free-Oscar-Qualifying-Animation-Entries-With-New-AI-Restrictions-Indie-Shorts-Mag-News.jpg"
+                "src": "https://img3.yna.co.kr/etc/inner/KR/2026/11/16/AKR20261116073300060_01_i_P4.jpg",
+                "cap": "La Universidad Kyungmin firmó el día 16 un memorando de cooperación universidad-industria (MOU) con 2 empresas, Gangdan Studio y Studio Cinetics, para producir contenidos de animación con inteligencia artificial (AI) para cines. [Cortesía de la Universidad Kyungmin]"
               },
               {
                 "t": "p",
-                "x": "El 16.º Festival Internacional de Animación CHILEMONOS ha abierto la convocatoria de su edición 2027 en seis competencias oficiales, dos de las cuales pueden dar acceso a los Academy Awards. La inscripción se abrió el 13 de noviembre de 2026 y cierra el 26 de febrero de 2027, sin tarifa de inscripción."
+                "x": "La película es la primera obra de 'Majung', un proyecto cultural bíblico basado en el Libro de Jonás y pensado para que niños y familias lo disfruten juntos. Tras el asesoramiento de pastores y expertos en teología, aspira a estrenarse en cines en el segundo semestre del próximo año."
               },
               {
                 "t": "p",
-                "x": "Las Competencias Internacional y Latinoamericana de Cortometraje de Animación son Oscar-qualifying; el festival mantiene ese estatus desde 2019. Las películas deben haberse terminado el 1 de marzo de 2026 o después, y los cortometrajes profesionales deben durar entre dos y 30 minutos."
+                "x": "Hong Moon-jong, presidente del consejo impulsor que dirige el proyecto Majung, afirmó: “Este acuerdo es un punto de partida para extender la capacidad educativa de la universidad al ámbito industrial y será una valiosa oportunidad para que los estudiantes plasmen las técnicas y el talento aprendidos en un resultado concreto: una obra estrenada en cines”."
               },
               {
                 "t": "p",
-                "x": "Los organizadores reconocen la AI generativa como una herramienta de producción emergente, pero aún no han establecido una política definitiva a largo plazo. Para 2027, el reglamento prohíbe la AI en las obras presentadas y señala la animación AI-generated que sustituye la contribución creativa de un animador como causa de inelegibilidad. Quienes usen flujos de trabajo AI-assisted deben contactar a los organizadores antes de inscribirse."
-              },
-              {
-                "t": "p",
-                "x": "La edición híbrida se celebra en línea en toda Latinoamérica y de forma presencial en Santiago, y el reglamento fija el periodo del festival del 3 al 30 de mayo de 2027."
+                "x": "El proyecto celebrará su acto de lanzamiento el día 20 en la sala Akape, en la 3.ª planta del edificio Seungtae de la Universidad Kyungmin, y también prepara series posteriores sobre figuras bíblicas como José y Moisés."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "CHILEMONOS,\n애니메이터 대체 AI 금지",
-          "body": "CHILEMONOS는 2027년 AI가 창작을 대신한 작품을 받지 않는다.",
-          "mini_headline": "CHILEMONOS, AI 제한",
+        "en": {
+          "headline": "Kyungmin University joins\ntheatrical AI film 'Jonah'",
+          "body": "Kyungmin University students will help make the theatrical AI animation 'Jonah' under an industry-academia deal.",
+          "mini_headline": "Kyungmin's AI animation",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "Kyungmin University signed a memorandum of understanding (MOU) on the 16th with 2 companies, Gangdan Studio Co. and Studio Cinetics Co., to co-produce artificial intelligence (AI) convergence content and build a cooperation system."
+              },
+              {
+                "t": "p",
+                "x": "Under the agreement, students from Kyungmin University's Department of Applied Music and Department of Media and Video will take part in producing the theatrical AI animated film 'Jonah', the first such attempt in the country."
+              },
+              {
+                "t": "p",
+                "x": "From story and storyboard development to character and art work, AI scene production, editing and quality review, and voice and music work, students will experience the latest AI-based content technology developed in joint research with the Massachusetts Institute of Technology (MIT) in the United States."
+              },
+              {
                 "t": "img",
-                "src": "https://cms.indieshortsmag.com/wp-content/uploads/2026/11/CHILEMONOS-2027-Opens-Free-Oscar-Qualifying-Animation-Entries-With-New-AI-Restrictions-Indie-Shorts-Mag-News.jpg"
+                "src": "https://img3.yna.co.kr/etc/inner/KR/2026/11/16/AKR20261116073300060_01_i_P4.jpg",
+                "cap": "Kyungmin University signed an industry-academia cooperation MOU on the 16th with 2 companies, Gangdan Studio Co. and Studio Cinetics Co., to produce theatrical artificial intelligence (AI) animation content. [Courtesy of Kyungmin University]"
               },
               {
                 "t": "p",
-                "x": "제16회 CHILEMONOS 국제 애니메이션 페스티벌이 2027년 행사의 출품 접수를 시작했다. 공식 경쟁 부문은 여섯 개이고, 이 가운데 두 부문은 아카데미상(Academy Awards) 출품 자격으로 이어질 수 있다. 접수는 2026년 11월 13일 시작해 2027년 2월 26일 마감하며 출품료는 없다."
+                "x": "The film is the first work of 'Majung', a Bible culture project based on the Book of Jonah and designed for children and families to enjoy together. With advice from pastors and theology experts, it aims for a theatrical release in the second half of next year."
               },
               {
                 "t": "p",
-                "x": "국제 단편 애니메이션 경쟁과 라틴아메리카 단편 애니메이션 경쟁 부문은 Oscar-qualifying 부문으로, 페스티벌은 2019년부터 이 지위를 유지해 왔다. 출품작은 2026년 3월 1일 이후 완성된 작품이어야 하며, 전문가 부문 단편은 상영 시간이 2분에서 30분 사이여야 한다."
+                "x": "Hong Moon-jong, chairman of the promotion council overseeing the Majung project, said, “This agreement is a starting point for extending the university's educational capacity into the industry, and it will be a valuable opportunity for students to turn the skills and talents they have learned into a concrete result: a theatrical release.”"
               },
               {
                 "t": "p",
-                "x": "주최 측은 생성형 AI를 새로운 제작 도구로 인정하지만 장기적인 정책은 아직 확정하지 않았다. 2027년 규정은 출품작에 AI 사용을 금지하고, 애니메이터의 창작 기여를 대체하는 AI-generated 애니메이션을 출품 자격 박탈 사유로 명시한다. AI-assisted 작업 방식을 쓰는 지원자는 출품 전에 주최 측에 문의해야 한다."
-              },
-              {
-                "t": "p",
-                "x": "하이브리드로 열리는 이번 행사는 라틴아메리카 전역에서 온라인으로, Santiago에서 오프라인으로 진행되며, 규정상 페스티벌 기간은 2027년 5월 3–30일이다."
+                "x": "The project will hold a launch ceremony on the 20th at Akape Hall on the 3rd floor of Seungtae Hall at Kyungmin University, and follow-up series based on biblical figures such as Joseph and Moses are also being planned."
               }
             ]
           }
         },
         "ja": {
-          "headline": "CHILEMONOS、\nアニメーター代替AIを禁止",
-          "body": "CHILEMONOSは2027年の応募を無料とし、AIが創作を代替した作品は除外する。",
-          "mini_headline": "CHILEMONOS、AIを制限",
+          "headline": "慶旻大、劇場用AIアニメ\n『ヨナ』を制作",
+          "body": "慶旻大の学生が産学連携で劇場用AIアニメ『ヨナ』の制作に参加する。",
+          "mini_headline": "慶旻大のAIアニメ",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "慶旻大学は16日、株式会社カンダンスタジオ、株式会社スタジオシネティクスの2社と、人工知能(AI)融合コンテンツの共同制作と協力体制構築に向けた業務協約(MOU)を締結した。"
+              },
+              {
+                "t": "p",
+                "x": "協約により、慶旻大学実用音楽科とメディア映像科の学生は、国内で初めて試みられる劇場用AIアニメーション映画『ヨナ』の制作過程に参加する。"
+              },
+              {
+                "t": "p",
+                "x": "学生らはストーリー・絵コンテ構成からキャラクター・美術作業、AIシーン制作、編集・品質チェック、音声・音楽作業に至るまで、米マサチューセッツ工科大学(MIT)と共同研究した最新のAIベースのコンテンツ技術を経験することになる。"
+              },
+              {
                 "t": "img",
-                "src": "https://cms.indieshortsmag.com/wp-content/uploads/2026/11/CHILEMONOS-2027-Opens-Free-Oscar-Qualifying-Animation-Entries-With-New-AI-Restrictions-Indie-Shorts-Mag-News.jpg"
+                "src": "https://img3.yna.co.kr/etc/inner/KR/2026/11/16/AKR20261116073300060_01_i_P4.jpg",
+                "cap": "慶旻大学は16日、株式会社カンダンスタジオ、株式会社スタジオシネティクスの2社と、劇場用人工知能(AI)アニメーションコンテンツ制作に向けた産学協力業務協約(MOU)を締結した。[慶旻大学提供]"
               },
               {
                 "t": "p",
-                "x": "第16回CHILEMONOS国際アニメーション映画祭が、2027年開催分の応募受付を始めた。公式コンペティションは六部門で、そのうち二部門はアカデミー賞(Academy Awards)の対象資格につながりうる。受付は2026年11月13日に始まり、2027年2月26日に締め切られる。応募料はかからない。"
+                "x": "この映画は、聖書のヨナ書をもとに子どもと家族の観客が一緒に楽しめるよう企画された聖書文化プロジェクト「マジュン」の第一作だ。牧師や神学の専門家の助言を経て、来年下半期の劇場公開を目指す。"
               },
               {
                 "t": "p",
-                "x": "国際短編アニメーション部門とラテンアメリカ短編アニメーション部門はOscar-qualifyingの部門で、映画祭は2019年からこの資格を保持している。作品は2026年3月1日以降に完成したものに限られ、プロの短編は上映時間が2分から30分でなければならない。"
+                "x": "マジュンプロジェクトを統括する洪文鐘推進協議会議長は「今回の協約は、大学の教育力を産業現場へと広げる出発点であり、学生が学んだ技術と才能を劇場公開作という具体的な成果として形にする貴重な機会になるだろう」と述べた。"
               },
               {
                 "t": "p",
-                "x": "主催者は生成AIを新たな制作ツールと認めつつも、長期的な方針はまだ定めていない。2027年の規定は応募作品でのAI使用を禁じ、アニメーターの創作的貢献を置き換えるAI-generatedのアニメーションを失格事由とする。AI-assistedのワークフローを使う応募者は、応募前に主催者へ連絡する必要がある。"
-              },
-              {
-                "t": "p",
-                "x": "ハイブリッド形式で、ラテンアメリカ全域ではオンライン、Santiagoでは対面で開催され、規定上の会期は2027年5月3–30日だ。"
+                "x": "同プロジェクトは20日に慶旻大学スンテ館3階のアカペホールで発足式を開き、ヨセフやモーセなど聖書の人物を題材とした続編シリーズも企画している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "CHILEMONOS禁止\n取代动画师的AI",
-          "body": "CHILEMONOS免费开放2027年报名，但排除由AI取代动画师创作的作品。",
-          "mini_headline": "CHILEMONOS限制AI",
+          "headline": "庆旻大学参与制作\n院线AI动画《约拿》",
+          "body": "庆旻大学学生将通过产学合作参与院线AI动画电影《约拿》的制作。",
+          "mini_headline": "庆旻大学AI动画",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "庆旻大学16日与Gangdan Studio公司、Studio Cinetics公司等2家企业签署业务协议(MOU)，旨在共同制作人工智能(AI)融合内容并建立合作体系。"
+              },
+              {
+                "t": "p",
+                "x": "根据协议，庆旻大学实用音乐系和媒体影像系的学生将参与国内首次尝试的院线AI动画电影《约拿》的制作过程。"
+              },
+              {
+                "t": "p",
+                "x": "从故事与分镜构思到角色与美术工作、AI场景制作、剪辑与质量审核、配音与音乐工作，学生们将体验与美国麻省理工学院(MIT)共同研发的最新AI内容技术。"
+              },
+              {
                 "t": "img",
-                "src": "https://cms.indieshortsmag.com/wp-content/uploads/2026/11/CHILEMONOS-2027-Opens-Free-Oscar-Qualifying-Animation-Entries-With-New-AI-Restrictions-Indie-Shorts-Mag-News.jpg"
+                "src": "https://img3.yna.co.kr/etc/inner/KR/2026/11/16/AKR20261116073300060_01_i_P4.jpg",
+                "cap": "庆旻大学16日与Gangdan Studio公司、Studio Cinetics公司等2家企业签署了院线人工智能(AI)动画内容制作产学合作业务协议(MOU)。[庆旻大学提供]"
               },
               {
                 "t": "p",
-                "x": "第16届CHILEMONOS国际动画节已开放2027年度报名，共设六个官方竞赛单元，其中两个可获得Academy Awards（奥斯卡金像奖）参评资格。报名于2026年11月13日开启，2027年2月26日截止，不收取报名费。"
+                "x": "这部电影是以《圣经·约拿书》为蓝本、面向儿童和家庭观众共同观赏而策划的圣经文化项目“Majung”的第一部作品。在征询牧师和神学专家意见后，计划于明年下半年在院线上映。"
               },
               {
                 "t": "p",
-                "x": "国际动画短片竞赛与拉丁美洲动画短片竞赛为Oscar-qualifying单元，该节自2019年起即拥有这一资格。参赛影片须于2026年3月1日或之后完成，专业组短片时长须在2至30分钟之间。"
+                "x": "统筹Majung项目的推进协议会议长洪文钟表示：“此次协议是将大学教育能力延伸至产业现场的起点，也将成为学生把所学技术和才华转化为院线上映作品这一具体成果的宝贵机会。”"
               },
               {
                 "t": "p",
-                "x": "主办方承认生成式AI是一种新兴制作工具，但尚未确立明确的长期政策。2027年的规则禁止在参赛作品中使用AI，并将取代动画师创作贡献的AI-generated动画列为取消资格的理由。使用AI-assisted工作流程的申请者应在提交前联系主办方。"
-              },
-              {
-                "t": "p",
-                "x": "本届采用线上线下结合的形式，在拉丁美洲各地线上进行，并在Santiago线下举办，规则将节期定为2027年5月3–30日。"
+                "x": "该项目将于20日在庆旻大学承泰馆3层Akape厅举行启动仪式，并正在策划以约瑟、摩西等圣经人物为题材的后续系列。"
               }
             ]
           }
         },
         "es": {
-          "headline": "CHILEMONOS veta la AI que\nsustituye al animador",
-          "body": "CHILEMONOS, Oscar-qualifying, abre la convocatoria 2027 gratis y excluye obras donde la AI reemplaza al animador.",
-          "mini_headline": "CHILEMONOS limita la AI",
+          "headline": "La Universidad Kyungmin hará\nel filme animado con AI 'Jonah'",
+          "body": "Estudiantes de la Universidad Kyungmin participarán en la producción de la animación con AI 'Jonah' para cines.",
+          "mini_headline": "La animación con AI de Kyungmin",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "La Universidad Kyungmin firmó el día 16 un memorando de entendimiento (MOU) con 2 empresas, Gangdan Studio y Studio Cinetics, para coproducir contenidos de convergencia con inteligencia artificial (AI) y crear un sistema de cooperación."
+              },
+              {
+                "t": "p",
+                "x": "En virtud del acuerdo, estudiantes de los departamentos de Música Aplicada y de Medios y Video de la Universidad Kyungmin participarán en la producción de 'Jonah', la primera película de animación con AI para cines que se intenta en el país."
+              },
+              {
+                "t": "p",
+                "x": "Desde la construcción de la historia y el guion gráfico hasta el trabajo de personajes y arte, la producción de escenas con AI, la edición y revisión de calidad y el trabajo de voz y música, los estudiantes conocerán la última tecnología de contenidos basada en AI, desarrollada en investigación conjunta con el Instituto Tecnológico de Massachusetts (MIT) de Estados Unidos."
+              },
+              {
                 "t": "img",
-                "src": "https://cms.indieshortsmag.com/wp-content/uploads/2026/11/CHILEMONOS-2027-Opens-Free-Oscar-Qualifying-Animation-Entries-With-New-AI-Restrictions-Indie-Shorts-Mag-News.jpg"
+                "src": "https://img3.yna.co.kr/etc/inner/KR/2026/11/16/AKR20261116073300060_01_i_P4.jpg",
+                "cap": "La Universidad Kyungmin firmó el día 16 un memorando de cooperación universidad-industria (MOU) con 2 empresas, Gangdan Studio y Studio Cinetics, para producir contenidos de animación con inteligencia artificial (AI) para cines. [Cortesía de la Universidad Kyungmin]"
               },
               {
                 "t": "p",
-                "x": "El 16.º Festival Internacional de Animación CHILEMONOS ha abierto la convocatoria de su edición 2027 en seis competencias oficiales, dos de las cuales pueden dar acceso a los Academy Awards. La inscripción se abrió el 13 de noviembre de 2026 y cierra el 26 de febrero de 2027, sin tarifa de inscripción."
+                "x": "La película es la primera obra de 'Majung', un proyecto cultural bíblico basado en el Libro de Jonás y pensado para que niños y familias lo disfruten juntos. Tras el asesoramiento de pastores y expertos en teología, aspira a estrenarse en cines en el segundo semestre del próximo año."
               },
               {
                 "t": "p",
-                "x": "Las Competencias Internacional y Latinoamericana de Cortometraje de Animación son Oscar-qualifying; el festival mantiene ese estatus desde 2019. Las películas deben haberse terminado el 1 de marzo de 2026 o después, y los cortometrajes profesionales deben durar entre dos y 30 minutos."
+                "x": "Hong Moon-jong, presidente del consejo impulsor que dirige el proyecto Majung, afirmó: “Este acuerdo es un punto de partida para extender la capacidad educativa de la universidad al ámbito industrial y será una valiosa oportunidad para que los estudiantes plasmen las técnicas y el talento aprendidos en un resultado concreto: una obra estrenada en cines”."
               },
               {
                 "t": "p",
-                "x": "Los organizadores reconocen la AI generativa como una herramienta de producción emergente, pero aún no han establecido una política definitiva a largo plazo. Para 2027, el reglamento prohíbe la AI en las obras presentadas y señala la animación AI-generated que sustituye la contribución creativa de un animador como causa de inelegibilidad. Quienes usen flujos de trabajo AI-assisted deben contactar a los organizadores antes de inscribirse."
-              },
-              {
-                "t": "p",
-                "x": "La edición híbrida se celebra en línea en toda Latinoamérica y de forma presencial en Santiago, y el reglamento fija el periodo del festival del 3 al 30 de mayo de 2027."
+                "x": "El proyecto celebrará su acto de lanzamiento el día 20 en la sala Akape, en la 3.ª planta del edificio Seungtae de la Universidad Kyungmin, y también prepara series posteriores sobre figuras bíblicas como José y Moisés."
               }
             ]
           }

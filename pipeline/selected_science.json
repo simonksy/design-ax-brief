@@ -1,158 +1,158 @@
 {
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "section": "science",
   "picks": [
     {
-      "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
-      "title": "Advancing science & engineering with Antigravity's /teamwork",
-      "source": "Google Research",
+      "url": "https://www.psypost.org/scientists-who-use-ai-propose-less-distinctive-ideas-for-federal-research-grants/",
+      "title": "Scientists who use AI propose less distinctive ideas for federal research grants",
+      "source": "PsyPost",
       "tool": "Science",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "rationale": "Primary-source release: Google's /teamwork runs parallel Gemini agents with automated verifiers and delivers a fully Lean 4-formalized proof of the Courtade-Kumar conjecture plus a machine-checked Weil conjectures formalization.",
-      "published_iso": "2026-11-13T20:47:18Z",
-      "og_image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
-      "excerpt": "Google's multi-agent /teamwork pairs researchers with parallel Gemini agents plus automated verifiers; results include a full Lean 4-formalized proof of the 2013 Courtade-Kumar information-theory conjecture and a machine-checked Weil conjectures formalization."
+      "rationale": "Metascience result on how science itself is changing: AI-assisted U.S. federal grant proposals cluster closer to already-funded topics, and at NIH AI-heavy proposals won more often but preceded more routine papers.",
+      "published_iso": "2026-11-16T21:00:36+00:00",
+      "og_image": "https://www.psypost.org/wp-content/uploads/2025/11/artificial-intelligence.jpg",
+      "excerpt": "A new study of U.S. federal grant applications suggests that scientists using generative AI tend to pitch research closer to previously funded topics. At the NIH, AI-heavy proposals won funding more often and preceded modestly more routine papers."
     },
     {
-      "url": "https://www.sciencedaily.com/releases/2026/11/261110042553.htm",
-      "title": "AI-powered bionic eye breakthrough could help the blind see again",
-      "source": "ScienceDaily",
+      "url": "https://phys.org/news/2026-11-miles-earth-ai-tracks-invasive.html",
+      "title": "From 400 miles above Earth, AI tracks invasive leafy spurge",
+      "source": "Phys.org",
       "tool": "Science",
       "accent": "#0070f3",
       "motif": "sphere",
-      "rationale": "UCSB-led Neuron proof-of-concept: a deep-learning model designs cortical stimulation patterns that better control the phosphene shapes a blind volunteer perceives — AI as a neuroscience method, not a clinical product (not in the medicine pool, no cross-section clash).",
-      "published_iso": "2026-11-12T06:55:55-05:00",
-      "og_image": null,
-      "excerpt": "UC Santa Barbara and partners used a deep learning system to design electrical stimulation patterns for electrodes in a blind volunteer's visual cortex, improving control and prediction of perceived phosphene shapes (Neuron proof-of-concept)."
+      "rationale": "University of Minnesota combines satellite imagery, deep learning and community-science data to map 20 years of invasive leafy spurge spread — AI as an ecology field method.",
+      "published_iso": "2026-11-16T13:20:15-05:00",
+      "og_image": "https://scx2.b-cdn.net/gfx/news/2026/a-field-of-leafy-spurg.jpg",
+      "excerpt": "Harnessing satellite imagery, AI deep-learning models and community science data, scientists from the University of Minnesota have tracked the spread of leafy spurge over a 20-year period."
     },
     {
-      "url": "https://techxplore.com/news/2026-11-ai-cosmic-particle-scans-hidden.html",
-      "title": "AI improves cosmic particle scans to locate hidden objects more accurately in simulations",
+      "url": "https://techxplore.com/news/2026-11-faster-discovery-rethink-ai-role.html",
+      "title": "Less data, faster discovery: Researchers rethink AI's role in developing new materials",
       "source": "Tech Xplore",
       "tool": "Science",
       "accent": "#7928ca",
       "motif": "sphere",
-      "rationale": "Tartu/GScan ML on straight and scattered cosmic-ray muons cuts wrongly merged objects in muon tomography from about 15% to 2% in simulation — a quantified gain in a physics imaging method (IEEE Access).",
-      "published_iso": "2026-11-12T15:00:24-05:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-university-of.jpg",
-      "excerpt": "University of Tartu and GScan trained ML models on both straight-through and scattered cosmic-ray muons for muon tomography; in simulations a hybrid method located hidden objects better and cut wrongly merged nearby objects from about 15% to 2% (IEEE Access)."
+      "rationale": "Challenges the 'train on millions of simulations' approach to electronic-structure prediction, showing materials-discovery models can work with far less data — a method shift for computational materials science.",
+      "published_iso": "2026-11-16T09:30:01-05:00",
+      "og_image": "https://scx2.b-cdn.net/gfx/news/hires/2026/ai-12.jpg",
+      "excerpt": "Developing new materials often starts with understanding their electronic structure, or how electrons are arranged and behave within them. Calculating these electronic structures typically requires expensive simulations on supercomputers. That's led researchers to train artificial intelligence models on millions of simulated data points to make faster predictions."
     },
     {
-      "url": "https://www.livescience.com/technology/artificial-intelligence/this-ai-finds-patterns-in-visual-brain-activity-and-turns-them-into-pictures",
-      "title": "This AI finds patterns in visual brain activity and turns them into pictures",
-      "source": "Live Science",
+      "url": "https://techxplore.com/news/2026-11-quantum-neural-networks-high-dimensional.html",
+      "title": "Quantum neural networks with high-dimensional quantum neurons",
+      "source": "Tech Xplore",
       "tool": "Science",
       "accent": "#eb367f",
       "motif": "sphere",
-      "rationale": "Brain-IT reconstructs seen images from fMRI and runs the reverse mapping — a distinct model and paper from the 11-14 Concept2Brain (EEG simulation) card, adding the cognitive-science lane.",
-      "published_iso": "2026-11-13T10:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/BVofRKX8x3iWuYZNW7tcGZ-2000-80.jpg",
-      "excerpt": "A new AI model, Brain-IT, reconstructs images from fMRI brain scans and runs the reverse, predicting what an image would look like as visual-cortex activity."
+      "rationale": "National Science Review paper scales a quantum neural network with backpropagation on a qudit processor — high-dimensional neurons instead of more qubits, a new route for quantum ML hardware.",
+      "published_iso": "2026-11-16T08:40:04-05:00",
+      "og_image": "https://scx2.b-cdn.net/gfx/news/2026/quantum-neural-network-1.jpg",
+      "excerpt": "How can we scale up a quantum neural network? One way is to add more qubits as neurons. But a study titled \"Quantum neural network equipped with backpropagation on a qudit processor\" published in National Science Review shows another way."
     },
     {
-      "url": "https://phys.org/news/2026-11-romance-ai-explores-benefits-limits.html",
-      "title": "Finding romance with AI: Study explores benefits, limits of chatbot intimacy",
-      "source": "Phys.org",
+      "url": "https://www.scientificamerican.com/article/scientists-might-have-discovered-what-makes-ai-so-effective-at-chess/",
+      "title": "Scientists might have discovered what makes AI so effective at chess",
+      "source": "Scientific American",
       "tool": "Science",
       "accent": "#f5a623",
       "motif": "sphere",
-      "rationale": "University of Michigan survey of 463 adults compares chatbot, long-distance and in-person relationships: similar intimacy ratings, but chatbot emotional intimacy tracks with loneliness — a new psychology result, separate from the 11-05 companion-update study.",
-      "published_iso": "2026-11-12T00:00:00-05:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/chatbot-relationship.jpg",
-      "excerpt": "University of Michigan survey of 463 U.S. adults in chatbot, long-distance and in-person relationships finds similar emotional and intellectual intimacy ratings, but in chatbot relationships emotional intimacy tracked with more loneliness unless social support was accounted for (Computers in Human Behavior: Artificial Humans)."
+      "rationale": "Cognitive-science angle on game AI: research suggests chess engines' edge comes from comfort with complex positions humans avoid — insight into machine versus human cognition.",
+      "published_iso": "2026-11-15T07:00:00-05:00",
+      "og_image": "https://static.scientificamerican.com/dam/asset/1e99e951-c633-4384-8edb-9267b4a202c9/saw1226_0127Adva06.jpg?m=1793651269.904&w=1200",
+      "excerpt": "AI's comfort with complexity could be key to its chess-playing prowess"
     }
   ],
   "items": [
     {
-      "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
-      "title": "Advancing science & engineering with Antigravity's /teamwork",
-      "source": "Google Research",
+      "url": "https://www.psypost.org/scientists-who-use-ai-propose-less-distinctive-ideas-for-federal-research-grants/",
+      "title": "Scientists who use AI propose less distinctive ideas for federal research grants",
+      "source": "PsyPost",
       "tool": "Science",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "rationale": "Primary-source release: Google's /teamwork runs parallel Gemini agents with automated verifiers and delivers a fully Lean 4-formalized proof of the Courtade-Kumar conjecture plus a machine-checked Weil conjectures formalization.",
-      "published_iso": "2026-11-13T20:47:18Z",
-      "og_image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
-      "excerpt": "Google's multi-agent /teamwork pairs researchers with parallel Gemini agents plus automated verifiers; results include a full Lean 4-formalized proof of the 2013 Courtade-Kumar information-theory conjecture and a machine-checked Weil conjectures formalization."
+      "rationale": "Metascience result on how science itself is changing: AI-assisted U.S. federal grant proposals cluster closer to already-funded topics, and at NIH AI-heavy proposals won more often but preceded more routine papers.",
+      "published_iso": "2026-11-16T21:00:36+00:00",
+      "og_image": "https://www.psypost.org/wp-content/uploads/2025/11/artificial-intelligence.jpg",
+      "excerpt": "A new study of U.S. federal grant applications suggests that scientists using generative AI tend to pitch research closer to previously funded topics. At the NIH, AI-heavy proposals won funding more often and preceded modestly more routine papers."
     },
     {
-      "url": "https://www.sciencedaily.com/releases/2026/11/261110042553.htm",
-      "title": "AI-powered bionic eye breakthrough could help the blind see again",
-      "source": "ScienceDaily",
+      "url": "https://phys.org/news/2026-11-miles-earth-ai-tracks-invasive.html",
+      "title": "From 400 miles above Earth, AI tracks invasive leafy spurge",
+      "source": "Phys.org",
       "tool": "Science",
       "accent": "#0070f3",
       "motif": "sphere",
-      "rationale": "UCSB-led Neuron proof-of-concept: a deep-learning model designs cortical stimulation patterns that better control the phosphene shapes a blind volunteer perceives — AI as a neuroscience method, not a clinical product (not in the medicine pool, no cross-section clash).",
-      "published_iso": "2026-11-12T06:55:55-05:00",
-      "og_image": null,
-      "excerpt": "UC Santa Barbara and partners used a deep learning system to design electrical stimulation patterns for electrodes in a blind volunteer's visual cortex, improving control and prediction of perceived phosphene shapes (Neuron proof-of-concept)."
+      "rationale": "University of Minnesota combines satellite imagery, deep learning and community-science data to map 20 years of invasive leafy spurge spread — AI as an ecology field method.",
+      "published_iso": "2026-11-16T13:20:15-05:00",
+      "og_image": "https://scx2.b-cdn.net/gfx/news/2026/a-field-of-leafy-spurg.jpg",
+      "excerpt": "Harnessing satellite imagery, AI deep-learning models and community science data, scientists from the University of Minnesota have tracked the spread of leafy spurge over a 20-year period."
     },
     {
-      "url": "https://techxplore.com/news/2026-11-ai-cosmic-particle-scans-hidden.html",
-      "title": "AI improves cosmic particle scans to locate hidden objects more accurately in simulations",
+      "url": "https://techxplore.com/news/2026-11-faster-discovery-rethink-ai-role.html",
+      "title": "Less data, faster discovery: Researchers rethink AI's role in developing new materials",
       "source": "Tech Xplore",
       "tool": "Science",
       "accent": "#7928ca",
       "motif": "sphere",
-      "rationale": "Tartu/GScan ML on straight and scattered cosmic-ray muons cuts wrongly merged objects in muon tomography from about 15% to 2% in simulation — a quantified gain in a physics imaging method (IEEE Access).",
-      "published_iso": "2026-11-12T15:00:24-05:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-university-of.jpg",
-      "excerpt": "University of Tartu and GScan trained ML models on both straight-through and scattered cosmic-ray muons for muon tomography; in simulations a hybrid method located hidden objects better and cut wrongly merged nearby objects from about 15% to 2% (IEEE Access)."
+      "rationale": "Challenges the 'train on millions of simulations' approach to electronic-structure prediction, showing materials-discovery models can work with far less data — a method shift for computational materials science.",
+      "published_iso": "2026-11-16T09:30:01-05:00",
+      "og_image": "https://scx2.b-cdn.net/gfx/news/hires/2026/ai-12.jpg",
+      "excerpt": "Developing new materials often starts with understanding their electronic structure, or how electrons are arranged and behave within them. Calculating these electronic structures typically requires expensive simulations on supercomputers. That's led researchers to train artificial intelligence models on millions of simulated data points to make faster predictions."
     },
     {
-      "url": "https://www.livescience.com/technology/artificial-intelligence/this-ai-finds-patterns-in-visual-brain-activity-and-turns-them-into-pictures",
-      "title": "This AI finds patterns in visual brain activity and turns them into pictures",
-      "source": "Live Science",
+      "url": "https://techxplore.com/news/2026-11-quantum-neural-networks-high-dimensional.html",
+      "title": "Quantum neural networks with high-dimensional quantum neurons",
+      "source": "Tech Xplore",
       "tool": "Science",
       "accent": "#eb367f",
       "motif": "sphere",
-      "rationale": "Brain-IT reconstructs seen images from fMRI and runs the reverse mapping — a distinct model and paper from the 11-14 Concept2Brain (EEG simulation) card, adding the cognitive-science lane.",
-      "published_iso": "2026-11-13T10:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/BVofRKX8x3iWuYZNW7tcGZ-2000-80.jpg",
-      "excerpt": "A new AI model, Brain-IT, reconstructs images from fMRI brain scans and runs the reverse, predicting what an image would look like as visual-cortex activity."
+      "rationale": "National Science Review paper scales a quantum neural network with backpropagation on a qudit processor — high-dimensional neurons instead of more qubits, a new route for quantum ML hardware.",
+      "published_iso": "2026-11-16T08:40:04-05:00",
+      "og_image": "https://scx2.b-cdn.net/gfx/news/2026/quantum-neural-network-1.jpg",
+      "excerpt": "How can we scale up a quantum neural network? One way is to add more qubits as neurons. But a study titled \"Quantum neural network equipped with backpropagation on a qudit processor\" published in National Science Review shows another way."
     },
     {
-      "url": "https://phys.org/news/2026-11-romance-ai-explores-benefits-limits.html",
-      "title": "Finding romance with AI: Study explores benefits, limits of chatbot intimacy",
-      "source": "Phys.org",
+      "url": "https://www.scientificamerican.com/article/scientists-might-have-discovered-what-makes-ai-so-effective-at-chess/",
+      "title": "Scientists might have discovered what makes AI so effective at chess",
+      "source": "Scientific American",
       "tool": "Science",
       "accent": "#f5a623",
       "motif": "sphere",
-      "rationale": "University of Michigan survey of 463 adults compares chatbot, long-distance and in-person relationships: similar intimacy ratings, but chatbot emotional intimacy tracks with loneliness — a new psychology result, separate from the 11-05 companion-update study.",
-      "published_iso": "2026-11-12T00:00:00-05:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/chatbot-relationship.jpg",
-      "excerpt": "University of Michigan survey of 463 U.S. adults in chatbot, long-distance and in-person relationships finds similar emotional and intellectual intimacy ratings, but in chatbot relationships emotional intimacy tracked with more loneliness unless social support was accounted for (Computers in Human Behavior: Artificial Humans)."
+      "rationale": "Cognitive-science angle on game AI: research suggests chess engines' edge comes from comfort with complex positions humans avoid — insight into machine versus human cognition.",
+      "published_iso": "2026-11-15T07:00:00-05:00",
+      "og_image": "https://static.scientificamerican.com/dam/asset/1e99e951-c633-4384-8edb-9267b4a202c9/saw1226_0127Adva06.jpg?m=1793651269.904&w=1200",
+      "excerpt": "AI's comfort with complexity could be key to its chess-playing prowess"
     }
   ],
   "dedup": {
     "checks": {
-      "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/": {
+      "https://www.psypost.org/scientists-who-use-ai-propose-less-distinctive-ideas-for-federal-research-grants/": {
         "verdict": "new",
-        "nearest": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+        "nearest": "https://allenai.org/blog/novelty-bench",
         "new_action": ""
       },
-      "https://www.sciencedaily.com/releases/2026/11/261110042553.htm": {
+      "https://phys.org/news/2026-11-miles-earth-ai-tracks-invasive.html": {
         "verdict": "new",
-        "nearest": "https://techxplore.com/news/2026-10-app-ai-eyes-users-fall.html",
+        "nearest": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
         "new_action": ""
       },
-      "https://techxplore.com/news/2026-11-ai-cosmic-particle-scans-hidden.html": {
+      "https://techxplore.com/news/2026-11-faster-discovery-rethink-ai-role.html": {
         "verdict": "new",
-        "nearest": "https://phys.org/news/2026-11-ai-particle-jets-background-noise.html",
+        "nearest": "https://news.mit.edu/2026/how-to-predict-molecule-behavior-with-scant-data-1106",
         "new_action": ""
       },
-      "https://www.livescience.com/technology/artificial-intelligence/this-ai-finds-patterns-in-visual-brain-activity-and-turns-them-into-pictures": {
+      "https://techxplore.com/news/2026-11-quantum-neural-networks-high-dimensional.html": {
         "verdict": "new",
-        "nearest": "https://www.psypost.org/scientists-built-an-ai-called-concept2brain-that-simulates-human-brain-waves-from-pictures-and-text/",
+        "nearest": "https://quantumcomputingreport.com/qodex-quantum-nvidia-rtx-bbn-and-u-s-navy-researchers-forecast-unstructured-pdes-on-52-qubit-ibm-hardware/",
         "new_action": ""
       },
-      "https://phys.org/news/2026-11-romance-ai-explores-benefits-limits.html": {
+      "https://www.scientificamerican.com/article/scientists-might-have-discovered-what-makes-ai-so-effective-at-chess/": {
         "verdict": "new",
-        "nearest": "https://techxplore.com/news/2026-11-vulnerable-users-ai-companions-software.html",
+        "nearest": "",
         "new_action": ""
       }
     },
-    "note": "Dropped as duplicates: ScienceDaily 'Astronomers discover hidden alien planet in James Webb images' (likely-repeat of the 11-06 Universe Today JWST digital-twin card, same study); SingularityHub AutoDNA 'AI Agents Ran a Biology Lab' (same Nature AutoDNA story published 11-07). Cross-section: none of the picks appear in published_urls.json for any section, and the bionic-eye story is absent from today's medicine pool. Brain-IT (fMRI image reconstruction) is a different model/paper from the 11-14 Concept2Brain EEG card, so kept as new. Antigravity /teamwork is a new feature release, distinct from the 11-04 Antigravity cheminformatics post. Not picked on judgement: Phys.org bacLIFE plant-pathogen genes (pathogen-gene content carries classifier risk; related to 10-29 rice card); Phys.org Euclid lenses (ML only the first filter stage, AI incidental); Tech Xplore PI-GAE aerodynamics and CLARA bioreactor (lower novelty; keep Tech Xplore at 1); GEN protein-design feature (survey); Medical Xpress SfN roundup (preview); Live Science birdsong (Q&A, no new paper). Outlets: 5 distinct, 1 each."
+    "note": "Pool of 10, no history_match tags, no clusters; no candidate duplicates a story in the 30-day science history_digest, so nothing dropped as a duplicate. Cross-section: the picks' domains (phys.org, techxplore.com, psypost.org, scientificamerican.com) do not appear in the medicine block of published_urls.json, and no 11-17 cross-section assignment touches science. Not picked on judgement: Phys.org plastic pyrolysis impurities (good, but kept Phys.org to 1 and materials to 1 — Tech Xplore less-data item is the broader method story); SciAm 'young mathematicians' survey (kept SciAm to 1, overlaps the metascience lane of the PsyPost grant study); Phys.org Euclid lenses (AI incidental, ML only a first filter); Tech Xplore CLARA bioreactor (published 11-11, older, Tech Xplore already at 2); Medical Xpress SfN neuroscience roundup (conference preview, no single result). Outlets: 4 distinct (Tech Xplore x2, others x1); topics: metascience, ecology/remote sensing, materials, quantum, cognition."
   }
 }

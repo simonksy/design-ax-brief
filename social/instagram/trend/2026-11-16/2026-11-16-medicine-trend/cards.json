@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "issue": "진료실 AI, 의사가 먼저 들였다",
+    "date": "2026.11.16",
+    "section": "MEDICINE",
+    "accent": "#00897b",
+    "note": "원문 4건 대조(STAT은 앞부분만 공개). 63%·37%·3,300여 명(Healthcare Dive), 190개국·110개 언어·매주 300만 건·첫 국내 진출(청년의사), 5개월·500곳·약 80만 건·3분 48초→1분 8초(청년의사), Monument Health·OpenEvidence·환자 기록 100건+(STAT) 확인. STAT 원문 게재일은 11.05, 카드 날짜는 브리프 수록일. 어제 회차(배포 후 감시)와 겹치는 카드는 뺐고, 사진은 STAT 한 장만 남겼다.",
+    "sources": [
+      "Healthcare Dive — Despite concerns, AI becomes daily fixture in physician workflows (2026.11.12)",
+      "청년의사 — 삼성서울병원, 글로벌 의료 AI 기업 '하이디'와 협력 (2026.11.13)",
+      "청년의사 — 모니터 대신 환자 눈 맞춘다…정신과·소청과 호평 AI 차팅 '니어닥' (2026.11.16)",
+      "STAT — As more doctors consult chatbots, health systems can block them — or buy in (2026.11.05)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 의료 · 11.13~11.16",
+      "thread": [
+        {
+          "d": "11.13",
+          "t": "의사 63%",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        },
+        {
+          "d": "11.14",
+          "t": "병원 협약",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        },
+        {
+          "d": "11.16",
+          "t": "입소문",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        },
+        {
+          "d": "11.16",
+          "t": "차단",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        }
+      ],
+      "thread_note": "의사가 먼저 AI를 쓰고, 병원은 막거나 들여오며 뒤따른다",
+      "eyebrow": "흐름 · 의료",
+      "headline": "진료실 AI,\n의사가 먼저 들였다",
+      "body": "한 건씩 보면 설문, 협약, 제품, 차단이다. 이어 보면 의사가 먼저 쓰기 시작했고 병원이 뒤따라 정한다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "stat",
+      "eyebrow": "2026.11.13",
+      "headline": "AI, 이제 의사의\n일상 도구",
+      "body": "Doximity가 U.S. 의사 3,300여 명에게 물었다. 임상 판단에 AI를 쓴다는 답이 1년 새 거의 두 배가 됐다.",
+      "foot": "2026.11.13",
+      "_src": "https://www.healthcaredive.com/news/despite-concerns-ai-becomes-daily-fixture-in-physician-workflows/874541/",
+      "_id": "doximity-cds-survey-63pct",
+      "stat_top": "2025년 37%",
+      "stat_arrow": "임상 의사결정에 AI를 쓰는 의사",
+      "stat_bottom": "63%",
+      "stat_strike": false
+    },
+    {
+      "n": 3,
+      "kind": "stat",
+      "eyebrow": "2026.11.14",
+      "headline": "삼성서울병원,\n기록 AI 들인다",
+      "body": "삼성서울병원이 하이디와 협약을 맺고 자체 시스템 다윈에 진료 음성 기록 AI 적용을 추진한다. 하이디의 첫 국내 진출이다.",
+      "foot": "2026.11.14",
+      "_src": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044540",
+      "_id": "samsung-heidi-ambient-scribe",
+      "stat_top": "190개국 · 110개 언어",
+      "stat_arrow": "하이디가 돕는 진료",
+      "stat_bottom": "매주 300만 건+",
+      "stat_strike": false
+    },
+    {
+      "n": 4,
+      "kind": "stat",
+      "eyebrow": "2026.11.16",
+      "headline": "입소문 탄\n차팅 AI 니어닥",
+      "body": "의사들 입소문으로 출시 5개월 만에 500개 의료기관이 들였다. 누적 진료는 약 80만 건이다.",
+      "foot": "2026.11.16",
+      "_src": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044563",
+      "_id": "neardoc-ai-charting-clinics",
+      "stat_top": "도입 전 3분 48초",
+      "stat_arrow": "사용 의사 120명의 EMR 작성 시간",
+      "stat_bottom": "1분 8초",
+      "stat_strike": false
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.11.16",
+      "headline": "막을까,\n들일까",
+      "body": "Monument Health가 OpenEvidence를 막자 환자 기록 100건 넘게 넣던 의사가 반발했다. 들여오는 병원도 있다.",
+      "foot": "2026.11.16",
+      "_src": "https://www.statnews.com/2026/11/05/doctors-use-ai-chatbots-hipaa-compliance-questions/",
+      "_id": "monument-openevidence-block",
+      "media": "pipeline/media/monument-openevidence-block.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

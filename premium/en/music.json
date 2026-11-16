@@ -11245,6 +11245,129 @@
           "x": "“I am vehemently opposed to streaming fraud. That is a crime,” said Shulman during an appearance on the Trapital podcast this week. “The fact that AI music is sometimes involved? AI music is not a crime… These things are not the same.”"
         }
       ]
+    },
+    "music/elvis-suno-amended-suit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/Elvis-Live-1024x546.jpg",
+          "cap": "Elvis Presley performing live in 1956. Photo Credit: Don Wright"
+        },
+        {
+          "t": "p",
+          "x": "Just one week after filing a copyright infringement and NIL suit against Suno, Elvis Presley Enterprises has fired off an amended action – complete with an expanded list of allegedly infringing outputs. Plaintiffs including Elvis Presley Enterprises, Authentic Brands Group, and Raleigh Music Publishing made the amended action official following the original suit’s filing on November 6th."
+        },
+        {
+          "t": "p",
+          "x": "The rightsholders are seeking relief for alleged violations of Tennessee’s ELVIS Act and common law publicity right, centering on the alleged presence of Presley soundalike vocals in Suno outputs. On the copyright side, they accuse Suno of scraping IP from streaming platforms to create training datasets."
+        },
+        {
+          "t": "p",
+          "x": "The plaintiffs say they “added a multitude of additional examples…including no less than 42 examples of additional infringing output of songs involved in this action.” Meanwhile, 76 allegedly infringing outputs are tied to Elvis songs not at issue here – “Blue Suede Shoes” and “Hound Dog” among them."
+        },
+        {
+          "t": "p",
+          "x": "The amended complaint likewise accuses Suno of infringing 859 works for a maximum of $128.85 million in statutory damages and $23.62 million from alleged DMCA violations."
+        }
+      ]
+    },
+    "music/difro-melody-v25-plugin": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.kvraudio.com/i/b/difro_01.1794777186.png"
+        },
+        {
+          "t": "p",
+          "x": "Initial Audio has released Difro Melody AI v2.5, an update to its AI melody generator that adds audio-to-MIDI conversion and a VST3/AU plugin."
+        },
+        {
+          "t": "p",
+          "x": "Users can drag an audio loop into the piano roll and Difro converts it to MIDI locally, with velocity data. It works for melodic loops of up to 16 bars; longer files are cut to the first 16. Re-Imagine can then generate new variations from the transcription."
+        },
+        {
+          "t": "p",
+          "x": "The VST3 and AU plugin syncs to the DAW host and outputs MIDI, audio or both in realtime, and can be played via MIDI notes with a latch option. Other changes include an interactive quick-start tutorial, support for NVIDIA Blackwell GPUs on Windows (older Maxwell GPUs are no longer supported), a 300 MB smaller download and memory footprint, and a revised, resizable UI."
+        },
+        {
+          "t": "video",
+          "yt": "FfOGA4FlLO0"
+        },
+        {
+          "t": "p",
+          "x": "The base version is free with a monthly generation limit and no subscription; a Pro version offers unlimited generations."
+        }
+      ]
+    },
+    "music/kanye-bully-grammy-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.pitchfork.com/photos/6afaf9f6fa70625fee86f02d/2:1/w_2560%2Cc_limit/kanye-west-bully-grammys.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Kanye West has picked up a Best Rap Album nomination for the deluxe edition of Bully at the 2027 Grammys, where he will face off against Cardi B and Don Toliver, among others. The nod comes despite persistent allegations that Ye had a helping hand in its composition: artificial intelligence."
+        },
+        {
+          "t": "p",
+          "x": "Speculation stirred after a 2025 interview with Justin Laboy, in which Ye was palpably impressed by the creative possibilities of the technology. He demonstrated its ease in making soundalike vocals, a gimmick likely in evidence on a song premiered later that year with an apparent Ye verse rapped in Spanish, as The New Yorker’s Kelefa Sanneh noted. But Ye subsequently tweeted that the album would feature no A.I., and the claim has not been disproven, despite the efforts of armchair detectives. A lawsuit filed in August upped the stakes, claiming Ye had used A.I. vocal effects in both Vultures 2 and Bully. The Recording Academy rules allow artists to use A.I. provided the human authorship element is “meaningful” and “relevant to the category.”"
+        },
+        {
+          "t": "p",
+          "x": "Ye has a storied history in the Best Rap Album category, having claimed it for each of his first three albums and again for My Beautiful Dark Twisted Fantasy. This is his ninth nomination in the category. As well as Cardi’s Am I the Drama? and Toliver’s Octane, Bully is up against Rapsody’s God Gotta Afro & Gold Hoops, Wale’s Everything Is a Lot, and Busta Rhymes’ latest album set to posthumous J Dilla beats, Dillagence II."
+        }
+      ]
+    },
+    "music/bridgwater-carnival-ai-music": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/8fec/live/880e71a0-dd31-11f1-ab46-9fae224bbf6f.jpg.webp",
+          "cap": "Several carts included AI-generated music during the Bridgwater Carnival in 2026"
+        },
+        {
+          "t": "p",
+          "x": "The use of artificial intelligence (AI) in music during a series of carnival processions is \"disappointing\", a club member has said. About 150,000 people descended on Bridgwater, Somerset, to watch the procession of illuminated carts."
+        },
+        {
+          "t": "p",
+          "x": "Matt Ward, a member of one of the smaller clubs, said it was a shame that some of the 50 carts used AI music, adding: \"We're kind of forgetting where carnival came from.\" He said it reduces the cost for the committees, but \"the music kind of feels like an afterthought\"."
+        },
+        {
+          "t": "p",
+          "x": "Tim Bonser helped Gremlins produce its AI song. \"As a musician it's quite exciting and it's also quite terrifying,\" he said. \"We've had quite intense conversations about it and it is pretty divisive.\" \"Time is money and carnival budgets are tight these days.\""
+        },
+        {
+          "t": "p",
+          "x": "Organisers of the Bridgwater Guy Fawkes Carnival said they appreciated AI-generated music \"divided opinions\", but it is the individual clubs' decision, adding that carnival has \"always embraced new technology\" and clubs \"should have the creative freedom\" to present their themes."
+        }
+      ]
+    },
+    "music/xania-monet-ai-music-awards": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/11/7R6A5866-1.jpg?w=1000&h=667&crop=1",
+          "cap": "Xania Monet creator Telisha “Nikki” Jones"
+        },
+        {
+          "t": "p",
+          "x": "Variety attended Friday’s inaugural “AI Music Awards,” powered by the “Sonic Intelligence Academy” (SIQA), at the Mayan Theater in Downtown Los Angeles. To qualify, artists registered tracks to SIQA’s “Verified Registry,” then nominated peers in 25 categories and voted on the winners."
+        },
+        {
+          "t": "p",
+          "x": "Xania Monet, the AI persona of Telisha “Nikki” Jones, won AI Album of the Year at SIQA’s summit a day earlier and went on to win both artist and song of the year — three out of four of the awards’ top categories. The fourth, producer of the year, went to “DJ Shawn Q.” “AI is just a tool,” Jones said."
+        },
+        {
+          "t": "p",
+          "x": "SIQA, founded by software engineer Timirah “TJ” James and her sister Mia James, hopes to be an AI counterpart to the Recording Academy. The night was marked by kinks: a start about 30 minutes late, a Claude-generated run-of-show on a confused teleprompter, a Deepgram AI voice that often didn’t work, and performers who lip-synced to AI tracks backed by a free house band."
+        },
+        {
+          "t": "p",
+          "x": "“There will be a next year because this is the new music industry,” James told the crowd."
+        }
+      ]
     }
   }
 }

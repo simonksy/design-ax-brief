@@ -1,555 +1,239 @@
 {
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "section": "design",
   "cards": [
     {
-      "id": "design-fable52-brushstroke-painter",
+      "id": "claude-canvas-html",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Claude Fable\n5.2는 코드로 그린다",
-      "body": "Claude Fable 5.2는 픽셀이 아니라 Python 코드로 붓질을 놓는다.",
-      "mini_headline": "Claude Fable 5.2, 코드로 그리다",
+      "headline": "Claude, HTML을\n캔버스 그래픽 속으로",
+      "body": "Claude가 이제 캔버스 그래픽과 3D 효과 안에 실제 텍스트·버튼을 심는다.",
+      "mini_headline": "Claude, 캔버스에 HTML",
       "tool": "KeyShot",
       "source": "The Decoder",
-      "url": "https://the-decoder.com/anthropics-claude-fable-5-2-doesnt-generate-images-it-paints-them/",
+      "url": "https://the-decoder.com/claude-now-builds-interactive-websites-inside-canvas-graphics-reviving-the-flash-era-with-real-html/",
       "accent": "#f5a623",
       "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://the-decoder.com/wp-content/uploads/2026/11/claude_fable_5.2_painting.png",
-            "cap": "THE DECODER가 Nano Banana Pro로 생성한 이미지"
-          },
-          {
-            "t": "p",
-            "x": "Anthropic의 새 언어 모델 Claude Fable 5.2는 코드로 수십만 개의 붓질을 가상 캔버스에 하나씩 놓아 복잡한 그림, 심지어 사진 같은 그림까지 그린다. Midjourney 같은 지금의 이미지 모델은 대개 확산(diffusion) 방식을 쓴다. Fable 5.2는 다르다. 붓털 질감과 물감이 묻어나는 모양, 나중에 덧칠해야 할 실수까지 실제로 그림을 그리는 물리 과정을 그대로 시뮬레이션한다."
-          },
-          {
-            "t": "p",
-            "x": "Anthropic 개발자 Jake Eaton이 사진과 구별하기 어려울 만큼 사실적인 그림을 주문하자, 모델은 시뮬레이션 붓질 약 700,000번으로 주차장에 놓인 쇼핑 카트를 그렸다. Eaton은 Claude가 외부 이미지 모델도, 미리 렌더링하거나 따라 그릴 원본 이미지도 쓰지 않는다고 설명했다. 작품 한 점 한 점이 시뮬레이션 페인트 엔진을 돌리는 1,000줄에서 2,000줄 분량의 Python 프로그램이다."
-          },
-          {
-            "t": "img",
-            "src": "https://pbs.twimg.com/media/HWtMXeqboAA3yPD?format=jpg&name=medium",
-            "cap": "Claude Fable 5.2가 시뮬레이션 붓질 약 700,000번으로 그린 사실적인 주차장 장면. | 이미지: Jake Eaton"
-          },
-          {
-            "t": "p",
-            "x": "Anthropic 엔지니어 Michael Graczyk는 Fable 5.2에 해 뜰 무렵의 새를 그려 달라고 하면서 붓질마다 좌표를 한 줄씩 따로 출력하게 하고 되돌리기는 막았다. 21초짜리 영상에는 정확히 111번의 붓질로 그림이 모양을 잡아 가는 과정이 담겼다. 모델은 단계마다 캔버스를 확인했고, 실제 화가처럼 자기 실수에 대처했다."
-          },
-          {
-            "t": "video",
-            "src": "https://the-decoder.com/wp-content/uploads/2026/11/graczyk_demo.mp4"
-          },
-          {
-            "t": "p",
-            "x": "Anthropic은 자체 RoboDojo Sim 벤치마크에서 Fable 5.2가 64.9퍼센트, OpenAI의 GPT-6 Astra가 29.8퍼센트를 기록했다고 밝혔다. 다만 AI 연구자 Aris Zhu가 실제 로봇 팔로 해 본 테스트에서는 Astra가 더 빨리 그렸고 미세한 운동 제어도 앞섰다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Claude Fable 5.2 paints\nwith code, not diffusion",
-          "body": "Claude Fable 5.2 writes Python code that places simulated brushstrokes on a canvas rather than computing pixels.",
-          "mini_headline": "Claude Fable 5.2 paints in code",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/11/claude_fable_5.2_painting.png",
-                "cap": "Nano Banana Pro prompted by THE DECODER"
-              },
-              {
-                "t": "p",
-                "x": "Anthropic's new language model Claude Fable 5.2 can create complex and even photorealistic paintings by using code to place hundreds of thousands of individual brushstrokes on a virtual canvas. Current image models like Midjourney typically use diffusion; Fable 5.2 instead simulates the physical painting process, including bristle texture, how the paint goes on, and mistakes it then has to paint over."
-              },
-              {
-                "t": "p",
-                "x": "Asked by Anthropic developer Jake Eaton for a painting as hard to distinguish from a photograph as possible, the model generated a shopping cart in a parking garage using roughly 700,000 simulated brushstrokes. According to Eaton, Claude works without an external image model and without pre-rendered or traced source images. Each piece is a Python program of 1,000 to 2,000 lines that drives a simulated paint engine."
-              },
-              {
-                "t": "img",
-                "src": "https://pbs.twimg.com/media/HWtMXeqboAA3yPD?format=jpg&name=medium",
-                "cap": "About 700,000 simulated brushstrokes went into this photorealistic parking garage scene by Claude Fable 5.2. | Image: Jake Eaton"
-              },
-              {
-                "t": "p",
-                "x": "Anthropic engineer Michael Graczyk asked Fable 5.2 to paint a bird at sunrise, outputting every brushstroke as its own coordinate line with no way to undo. The 21-second video tracks the painting taking shape from exactly 111 strokes. Between passes, the model looked at the canvas and reacted to its own mistakes like a real painter would."
-              },
-              {
-                "t": "video",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/11/graczyk_demo.mp4"
-              },
-              {
-                "t": "p",
-                "x": "Anthropic reports a score of 64.9 percent for Fable 5.2 on its internal RoboDojo Sim benchmark, compared with 29.8 percent for OpenAI's GPT-6 Astra. In AI researcher Aris Zhu's real-world robot-arm test, Astra painted faster and showed better fine motor control."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Claude Fable\n5.2는 코드로 그린다",
-          "body": "Claude Fable 5.2는 픽셀이 아니라 Python 코드로 붓질을 놓는다.",
-          "mini_headline": "Claude Fable 5.2, 코드로 그리다",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/11/claude_fable_5.2_painting.png",
-                "cap": "THE DECODER가 Nano Banana Pro로 생성한 이미지"
-              },
-              {
-                "t": "p",
-                "x": "Anthropic의 새 언어 모델 Claude Fable 5.2는 코드로 수십만 개의 붓질을 가상 캔버스에 하나씩 놓아 복잡한 그림, 심지어 사진 같은 그림까지 그린다. Midjourney 같은 지금의 이미지 모델은 대개 확산(diffusion) 방식을 쓴다. Fable 5.2는 다르다. 붓털 질감과 물감이 묻어나는 모양, 나중에 덧칠해야 할 실수까지 실제로 그림을 그리는 물리 과정을 그대로 시뮬레이션한다."
-              },
-              {
-                "t": "p",
-                "x": "Anthropic 개발자 Jake Eaton이 사진과 구별하기 어려울 만큼 사실적인 그림을 주문하자, 모델은 시뮬레이션 붓질 약 700,000번으로 주차장에 놓인 쇼핑 카트를 그렸다. Eaton은 Claude가 외부 이미지 모델도, 미리 렌더링하거나 따라 그릴 원본 이미지도 쓰지 않는다고 설명했다. 작품 한 점 한 점이 시뮬레이션 페인트 엔진을 돌리는 1,000줄에서 2,000줄 분량의 Python 프로그램이다."
-              },
-              {
-                "t": "img",
-                "src": "https://pbs.twimg.com/media/HWtMXeqboAA3yPD?format=jpg&name=medium",
-                "cap": "Claude Fable 5.2가 시뮬레이션 붓질 약 700,000번으로 그린 사실적인 주차장 장면. | 이미지: Jake Eaton"
-              },
-              {
-                "t": "p",
-                "x": "Anthropic 엔지니어 Michael Graczyk는 Fable 5.2에 해 뜰 무렵의 새를 그려 달라고 하면서 붓질마다 좌표를 한 줄씩 따로 출력하게 하고 되돌리기는 막았다. 21초짜리 영상에는 정확히 111번의 붓질로 그림이 모양을 잡아 가는 과정이 담겼다. 모델은 단계마다 캔버스를 확인했고, 실제 화가처럼 자기 실수에 대처했다."
-              },
-              {
-                "t": "video",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/11/graczyk_demo.mp4"
-              },
-              {
-                "t": "p",
-                "x": "Anthropic은 자체 RoboDojo Sim 벤치마크에서 Fable 5.2가 64.9퍼센트, OpenAI의 GPT-6 Astra가 29.8퍼센트를 기록했다고 밝혔다. 다만 AI 연구자 Aris Zhu가 실제 로봇 팔로 해 본 테스트에서는 Astra가 더 빨리 그렸고 미세한 운동 제어도 앞섰다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Claude Fable\n5.2はコードで描く",
-          "body": "Claude Fable 5.2はピクセル計算でなくPythonコードで筆を置く。",
-          "mini_headline": "Claude Fable 5.2、コードで描く",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/11/claude_fable_5.2_painting.png",
-                "cap": "THE DECODERがNano Banana Proで生成した画像"
-              },
-              {
-                "t": "p",
-                "x": "Anthropicの新しい言語モデルClaude Fable 5.2は、コードを使って仮想キャンバスに数十万もの筆致を一つずつ置くことで、複雑な絵画、さらには写真のようにリアルな絵画まで描ける。Midjourneyなど現在の画像モデルは一般に拡散（diffusion）方式を用いるが、Fable 5.2は筆の毛の質感や絵の具ののり方、後から塗り重ねて直すことになるミスまで含め、絵を描く物理的なプロセスそのものをシミュレートする。"
-              },
-              {
-                "t": "p",
-                "x": "Anthropicの開発者Jake Eatonが写真とできるだけ見分けのつかない絵を求めたところ、モデルは約700,000回のシミュレートされた筆致で、立体駐車場に置かれたショッピングカートを描いた。Eatonによれば、Claudeは外部の画像モデルを使わず、事前にレンダリングした画像やトレース用の元画像も使わない。各作品は、シミュレートされたペイントエンジンを動かす1,000行から2,000行のPythonプログラムである。"
-              },
-              {
-                "t": "img",
-                "src": "https://pbs.twimg.com/media/HWtMXeqboAA3yPD?format=jpg&name=medium",
-                "cap": "Claude Fable 5.2が約700,000回のシミュレートされた筆致で描いた、写真のようにリアルな駐車場の場面。| 画像：Jake Eaton"
-              },
-              {
-                "t": "p",
-                "x": "AnthropicのエンジニアMichael Graczykは、Fable 5.2に日の出の鳥を描くよう依頼し、筆致の一つ一つを独立した座標の行として出力させ、やり直しはできないようにした。21秒の動画は、ちょうど111筆で絵が形になっていく様子を追う。モデルは工程の合間にキャンバスを見て、本物の画家のように自らのミスに対応した。"
-              },
-              {
-                "t": "video",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/11/graczyk_demo.mp4"
-              },
-              {
-                "t": "p",
-                "x": "Anthropicによると、社内ベンチマークRoboDojo SimでFable 5.2のスコアは64.9パーセントで、OpenAIのGPT-6 Astraは29.8パーセントだった。AI研究者Aris Zhuが実際のロボットアームで行ったテストでは、Astraのほうが速く描き、細かな運動制御でも上回った。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Claude Fable\n5.2用代码而非扩散作画",
-          "body": "Claude Fable 5.2编写Python代码在画布上模拟笔触，而非计算像素。",
-          "mini_headline": "Claude Fable 5.2用代码作画",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/11/claude_fable_5.2_painting.png",
-                "cap": "图片由 THE DECODER 使用 Nano Banana Pro 生成"
-              },
-              {
-                "t": "p",
-                "x": "Anthropic的新语言模型Claude Fable 5.2能通过代码在虚拟画布上逐一放置数十万道笔触，创作出复杂乃至照片级写实的画作。Midjourney等现有图像模型通常采用扩散（diffusion）方法，而Fable 5.2模拟的是真实的绘画过程，包括笔刷鬃毛的质感、颜料落到画布上的方式，以及之后不得不覆盖重画的失误。"
-              },
-              {
-                "t": "p",
-                "x": "Anthropic开发者Jake Eaton要求模型画一幅尽可能难以与照片区分的作品，模型用约700,000道模拟笔触画出了停车库里的一辆购物车。据Eaton介绍，Claude不借助外部图像模型，也不使用预先渲染或描摹的源图像。每件作品都是一个1,000到2,000行的Python程序，用来驱动一个模拟绘画引擎。"
-              },
-              {
-                "t": "img",
-                "src": "https://pbs.twimg.com/media/HWtMXeqboAA3yPD?format=jpg&name=medium",
-                "cap": "Claude Fable 5.2用约700,000道模拟笔触绘制了这幅照片级写实的停车库场景。| 图片：Jake Eaton"
-              },
-              {
-                "t": "p",
-                "x": "Anthropic工程师Michael Graczyk请Fable 5.2画一只日出时的鸟，要求每一笔都作为单独的坐标行输出，且无法撤销。这段21秒的视频记录了这幅画如何由恰好111笔逐渐成形。在每轮作画之间，模型会观察画布，并像真正的画家一样应对自己的失误。"
-              },
-              {
-                "t": "video",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/11/graczyk_demo.mp4"
-              },
-              {
-                "t": "p",
-                "x": "Anthropic称，Fable 5.2在其内部RoboDojo Sim基准测试中得分64.9%，OpenAI的GPT-6 Astra为29.8%。在AI研究者Aris Zhu进行的真实机械臂测试中，Astra画得更快，精细动作控制也更好。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Claude Fable 5.2 pinta\ncon código, no con difusión",
-          "body": "Claude Fable 5.2 escribe código Python que coloca pinceladas simuladas en un lienzo en lugar de calcular píxeles.",
-          "mini_headline": "Claude Fable 5.2 pinta con código",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/11/claude_fable_5.2_painting.png",
-                "cap": "Imagen generada con Nano Banana Pro por THE DECODER"
-              },
-              {
-                "t": "p",
-                "x": "El nuevo modelo de lenguaje de Anthropic, Claude Fable 5.2, puede crear pinturas complejas e incluso fotorrealistas usando código para colocar cientos de miles de pinceladas individuales sobre un lienzo virtual. Los modelos de imagen actuales como Midjourney suelen usar difusión; Fable 5.2, en cambio, simula el proceso físico de pintar, incluida la textura de las cerdas, la forma en que se aplica la pintura y los errores que luego tiene que cubrir."
-              },
-              {
-                "t": "p",
-                "x": "Cuando el desarrollador de Anthropic Jake Eaton le pidió una pintura lo más difícil posible de distinguir de una fotografía, el modelo generó un carrito de compras en un garaje usando unas 700,000 pinceladas simuladas. Según Eaton, Claude trabaja sin un modelo de imagen externo y sin imágenes de origen prerrenderizadas o calcadas. Cada obra es un programa en Python de 1,000 a 2,000 líneas que controla un motor de pintura simulado."
-              },
-              {
-                "t": "img",
-                "src": "https://pbs.twimg.com/media/HWtMXeqboAA3yPD?format=jpg&name=medium",
-                "cap": "Unas 700,000 pinceladas simuladas formaron esta escena fotorrealista de un garaje pintada por Claude Fable 5.2. | Imagen: Jake Eaton"
-              },
-              {
-                "t": "p",
-                "x": "El ingeniero de Anthropic Michael Graczyk pidió a Fable 5.2 que pintara un pájaro al amanecer, emitiendo cada pincelada como una línea de coordenadas propia y sin posibilidad de deshacer. El video de 21 segundos muestra cómo la pintura toma forma a partir de exactamente 111 trazos. Entre pasadas, el modelo observaba el lienzo y reaccionaba a sus propios errores como lo haría un pintor real."
-              },
-              {
-                "t": "video",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/11/graczyk_demo.mp4"
-              },
-              {
-                "t": "p",
-                "x": "Anthropic informa una puntuación de 64.9 por ciento para Fable 5.2 en su benchmark interno RoboDojo Sim, frente al 29.8 por ciento de GPT-6 Astra de OpenAI. En la prueba con un brazo robótico real del investigador de AI Aris Zhu, Astra pintó más rápido y mostró mejor control motor fino."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Claude Fable\n5.2는 코드로 그린다",
-          "body": "Claude Fable 5.2는 픽셀 대신 Python 코드로 붓질을 배치한다.",
-          "mini_headline": "Claude Fable 5.2, 코드로 그리다",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/11/claude_fable_5.2_painting.png",
-                "cap": "THE DECODER가 Nano Banana Pro로 생성한 이미지"
-              },
-              {
-                "t": "p",
-                "x": "Anthropic의 새 언어 모델 Claude Fable 5.2는 코드로 수십만 개의 붓질을 가상 캔버스에 하나하나 배치해 복잡한, 나아가 사진 같은 그림까지 그려 낸다. Midjourney 같은 현재의 이미지 모델은 대개 확산(diffusion) 방식을 쓰지만, Fable 5.2는 붓털의 질감, 물감이 묻어나는 방식, 나중에 덧칠해야 하는 실수까지 포함해 실제로 그림을 그리는 물리적 과정을 시뮬레이션한다."
-              },
-              {
-                "t": "p",
-                "x": "Anthropic 개발자 Jake Eaton이 사진과 최대한 구별하기 어려운 그림을 요청하자, 모델은 약 700,000번의 시뮬레이션 붓질로 주차장 안의 쇼핑 카트를 그렸다. Eaton에 따르면 Claude는 외부 이미지 모델 없이, 미리 렌더링하거나 따라 그린 원본 이미지 없이 작업한다. 작품 하나하나는 시뮬레이션 페인트 엔진을 구동하는 1,000줄에서 2,000줄 분량의 Python 프로그램이다."
-              },
-              {
-                "t": "img",
-                "src": "https://pbs.twimg.com/media/HWtMXeqboAA3yPD?format=jpg&name=medium",
-                "cap": "Claude Fable 5.2가 약 700,000번의 시뮬레이션 붓질로 그린 사실적인 주차장 장면. | 이미지: Jake Eaton"
-              },
-              {
-                "t": "p",
-                "x": "Anthropic 엔지니어 Michael Graczyk는 Fable 5.2에 해 뜰 녘의 새를 그려 달라고 요청하면서, 붓질 하나하나를 별도의 좌표 줄로 출력하게 하고 되돌리기는 막았다. 21초 길이의 영상은 정확히 111번의 붓질로 그림이 형태를 갖춰 가는 과정을 보여 준다. 모델은 단계 사이마다 캔버스를 살피고, 실제 화가처럼 자기 실수에 대응했다."
-              },
-              {
-                "t": "video",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/11/graczyk_demo.mp4"
-              },
-              {
-                "t": "p",
-                "x": "Anthropic은 자체 RoboDojo Sim 벤치마크에서 Fable 5.2가 64.9퍼센트를, OpenAI의 GPT-6 Astra가 29.8퍼센트를 기록했다고 밝혔다. AI 연구자 Aris Zhu가 실제 로봇 팔로 진행한 테스트에서는 Astra가 더 빨리 그렸고 미세한 운동 제어도 더 뛰어났다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Claude Fable\n5.2はコードで描く",
-          "body": "Claude Fable 5.2はピクセル計算でなくPythonコードで筆を置く。",
-          "mini_headline": "Claude Fable 5.2、コードで描く",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/11/claude_fable_5.2_painting.png",
-                "cap": "THE DECODERがNano Banana Proで生成した画像"
-              },
-              {
-                "t": "p",
-                "x": "Anthropicの新しい言語モデルClaude Fable 5.2は、コードを使って仮想キャンバスに数十万もの筆致を一つずつ置くことで、複雑な絵画、さらには写真のようにリアルな絵画まで描ける。Midjourneyなど現在の画像モデルは一般に拡散（diffusion）方式を用いるが、Fable 5.2は筆の毛の質感や絵の具ののり方、後から塗り重ねて直すことになるミスまで含め、絵を描く物理的なプロセスそのものをシミュレートする。"
-              },
-              {
-                "t": "p",
-                "x": "Anthropicの開発者Jake Eatonが写真とできるだけ見分けのつかない絵を求めたところ、モデルは約700,000回のシミュレートされた筆致で、立体駐車場に置かれたショッピングカートを描いた。Eatonによれば、Claudeは外部の画像モデルを使わず、事前にレンダリングした画像やトレース用の元画像も使わない。各作品は、シミュレートされたペイントエンジンを動かす1,000行から2,000行のPythonプログラムである。"
-              },
-              {
-                "t": "img",
-                "src": "https://pbs.twimg.com/media/HWtMXeqboAA3yPD?format=jpg&name=medium",
-                "cap": "Claude Fable 5.2が約700,000回のシミュレートされた筆致で描いた、写真のようにリアルな駐車場の場面。| 画像：Jake Eaton"
-              },
-              {
-                "t": "p",
-                "x": "AnthropicのエンジニアMichael Graczykは、Fable 5.2に日の出の鳥を描くよう依頼し、筆致の一つ一つを独立した座標の行として出力させ、やり直しはできないようにした。21秒の動画は、ちょうど111筆で絵が形になっていく様子を追う。モデルは工程の合間にキャンバスを見て、本物の画家のように自らのミスに対応した。"
-              },
-              {
-                "t": "video",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/11/graczyk_demo.mp4"
-              },
-              {
-                "t": "p",
-                "x": "Anthropicによると、社内ベンチマークRoboDojo SimでFable 5.2のスコアは64.9パーセントで、OpenAIのGPT-6 Astraは29.8パーセントだった。AI研究者Aris Zhuが実際のロボットアームで行ったテストでは、Astraのほうが速く描き、細かな運動制御でも上回った。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Claude Fable\n5.2用代码而非扩散作画",
-          "body": "Claude Fable 5.2编写Python代码在画布上模拟笔触，而非计算像素。",
-          "mini_headline": "Claude Fable 5.2用代码作画",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/11/claude_fable_5.2_painting.png",
-                "cap": "图片由 THE DECODER 使用 Nano Banana Pro 生成"
-              },
-              {
-                "t": "p",
-                "x": "Anthropic的新语言模型Claude Fable 5.2能通过代码在虚拟画布上逐一放置数十万道笔触，创作出复杂乃至照片级写实的画作。Midjourney等现有图像模型通常采用扩散（diffusion）方法，而Fable 5.2模拟的是真实的绘画过程，包括笔刷鬃毛的质感、颜料落到画布上的方式，以及之后不得不覆盖重画的失误。"
-              },
-              {
-                "t": "p",
-                "x": "Anthropic开发者Jake Eaton要求模型画一幅尽可能难以与照片区分的作品，模型用约700,000道模拟笔触画出了停车库里的一辆购物车。据Eaton介绍，Claude不借助外部图像模型，也不使用预先渲染或描摹的源图像。每件作品都是一个1,000到2,000行的Python程序，用来驱动一个模拟绘画引擎。"
-              },
-              {
-                "t": "img",
-                "src": "https://pbs.twimg.com/media/HWtMXeqboAA3yPD?format=jpg&name=medium",
-                "cap": "Claude Fable 5.2用约700,000道模拟笔触绘制了这幅照片级写实的停车库场景。| 图片：Jake Eaton"
-              },
-              {
-                "t": "p",
-                "x": "Anthropic工程师Michael Graczyk请Fable 5.2画一只日出时的鸟，要求每一笔都作为单独的坐标行输出，且无法撤销。这段21秒的视频记录了这幅画如何由恰好111笔逐渐成形。在每轮作画之间，模型会观察画布，并像真正的画家一样应对自己的失误。"
-              },
-              {
-                "t": "video",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/11/graczyk_demo.mp4"
-              },
-              {
-                "t": "p",
-                "x": "Anthropic称，Fable 5.2在其内部RoboDojo Sim基准测试中得分64.9%，OpenAI的GPT-6 Astra为29.8%。在AI研究者Aris Zhu进行的真实机械臂测试中，Astra画得更快，精细动作控制也更好。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Claude Fable 5.2 pinta\ncon código, no con difusión",
-          "body": "Claude Fable 5.2 escribe código Python que coloca pinceladas simuladas en un lienzo en lugar de calcular píxeles.",
-          "mini_headline": "Claude Fable 5.2 pinta con código",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/11/claude_fable_5.2_painting.png",
-                "cap": "Imagen generada con Nano Banana Pro por THE DECODER"
-              },
-              {
-                "t": "p",
-                "x": "El nuevo modelo de lenguaje de Anthropic, Claude Fable 5.2, puede crear pinturas complejas e incluso fotorrealistas usando código para colocar cientos de miles de pinceladas individuales sobre un lienzo virtual. Los modelos de imagen actuales como Midjourney suelen usar difusión; Fable 5.2, en cambio, simula el proceso físico de pintar, incluida la textura de las cerdas, la forma en que se aplica la pintura y los errores que luego tiene que cubrir."
-              },
-              {
-                "t": "p",
-                "x": "Cuando el desarrollador de Anthropic Jake Eaton le pidió una pintura lo más difícil posible de distinguir de una fotografía, el modelo generó un carrito de compras en un garaje usando unas 700,000 pinceladas simuladas. Según Eaton, Claude trabaja sin un modelo de imagen externo y sin imágenes de origen prerrenderizadas o calcadas. Cada obra es un programa en Python de 1,000 a 2,000 líneas que controla un motor de pintura simulado."
-              },
-              {
-                "t": "img",
-                "src": "https://pbs.twimg.com/media/HWtMXeqboAA3yPD?format=jpg&name=medium",
-                "cap": "Unas 700,000 pinceladas simuladas formaron esta escena fotorrealista de un garaje pintada por Claude Fable 5.2. | Imagen: Jake Eaton"
-              },
-              {
-                "t": "p",
-                "x": "El ingeniero de Anthropic Michael Graczyk pidió a Fable 5.2 que pintara un pájaro al amanecer, emitiendo cada pincelada como una línea de coordenadas propia y sin posibilidad de deshacer. El video de 21 segundos muestra cómo la pintura toma forma a partir de exactamente 111 trazos. Entre pasadas, el modelo observaba el lienzo y reaccionaba a sus propios errores como lo haría un pintor real."
-              },
-              {
-                "t": "video",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/11/graczyk_demo.mp4"
-              },
-              {
-                "t": "p",
-                "x": "Anthropic informa una puntuación de 64.9 por ciento para Fable 5.2 en su benchmark interno RoboDojo Sim, frente al 29.8 por ciento de GPT-6 Astra de OpenAI. En la prueba con un brazo robótico real del investigador de AI Aris Zhu, Astra pintó más rápido y mostró mejor control motor fino."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "figma-configindia-canvas-production",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Figma, 캔버스에서\n프로덕션까지 더 매끄럽게",
-      "body": "Figma가 Config India에서 MCP와 코드 레이어로 제작 간극을 좁힌다.",
-      "mini_headline": "Figma, 캔버스에서 프로덕션까지",
-      "tool": "Social",
-      "source": "Figma (YouTube)",
-      "url": "https://www.youtube.com/watch?v=87SISSxj6R4",
-      "accent": "#ff2d55",
-      "motif": "frame",
       "full": {
         "mode": "full",
         "blocks": [
           {
+            "t": "img",
+            "src": "https://the-decoder.com/wp-content/uploads/2026/11/claude_gemini_pro-scaled.png"
+          },
+          {
+            "t": "p",
+            "x": "Claude가 이제 복잡한 그래픽과 3D 효과 안에 텍스트, 버튼 같은 웹 요소를 넣는다."
+          },
+          {
+            "t": "p",
+            "x": "웹 페이지에는 늘 절충이 따랐다. 표준 HTML 요소는 클릭하고 선택할 수 있고 스크린 리더도 읽지만, 시각적으로 비틀기는 어렵다. Canvas는 무엇이든 그려내지만 브라우저는 그 결과를 납작한 이미지처럼 다룬다. 그 안의 텍스트는 선택되지 않고 링크도 눌리지 않는다. HTML-in-Canvas는 실제 페이지 요소를 캔버스 그래픽 안에 넣으면서 상호작용은 그대로 살려 이 문제를 푼다."
+          },
+          {
+            "t": "p",
+            "x": "Anthropic에서 Claude 관련 일을 하는 Felix Rieseberg는 X에 이 기능 덕분에 Claude가 \"bizarre & beautiful sites\"(기묘하고 아름다운 사이트)를 만들 수 있게 됐다며 Flash 시절이 떠오른다고 썼다. 데모 페이지에는 뜨개질 도안, 3D 큐브, 레이어를 분해해 렌더링한 웹사이트 등 예시 15개가 올라 있다. 콘텐츠는 강조 표시하고 복사할 수 있는 실제 텍스트 그대로다."
+          },
+          {
             "t": "video",
-            "yt": "87SISSxj6R4"
+            "src": "https://the-decoder.de/wp-content/uploads/2026/11/Felix_Rieseberg_wordpress_small_480p.mp4"
           },
           {
             "t": "p",
-            "x": "Config India 2026에서 열린 Figma 딥다이브 세션 'Nothing lost in translation'은 캔버스의 작업을 하나도 잃지 않고 프로덕션까지 옮기는 법을 다룬다."
+            "x": "Google은 상호작용성과 접근성을 함께 지키는 웹 표준으로 HTML-in-Canvas를 개발 중이다. Chrome과 Edge는 157 버전부터, Claude 데스크톱 앱은 5.11492 버전부터 이 기능이 작동한다. Safari와 Firefox는 아직 지원하지 않는다. 쓰려면 프롬프트에서 Claude에게 HTML-in-Canvas를 콕 집어 요청해야 한다."
           },
           {
             "t": "p",
-            "x": "프로토타입은 동작과 의도를 보여 주지만 프로덕션 그 자체는 아니다. 어긋남은 대개 결정한 내용과 실제로 만들어지는 결과 사이의 틈에서 생긴다. 세션은 디자인 시스템 맥락과 고급 MCP 기법, 코드 레이어, 스펙을 써서 기본기 너머로 나아간다."
+            "x": "시각 작업에서 Claude는 갈수록 창의적이다. 최근 Claude Fable 5.2는 직접 짠 Python 코드로 사실적인 그림을 한 획씩 그렸다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Figma maps a cleaner path\nfrom canvas to production",
-          "body": "Figma's Config India session uses design-system context, MCP, code layers and specs to close the gap to production.",
-          "mini_headline": "Figma: canvas to production",
+          "headline": "Claude puts live HTML\ninside canvas graphics",
+          "body": "Claude can now place real text, buttons, and other web elements inside complex canvas graphics and 3D effects.",
+          "mini_headline": "Claude puts HTML in canvas",
           "full": {
             "mode": "full",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://the-decoder.com/wp-content/uploads/2026/11/claude_gemini_pro-scaled.png"
+              },
+              {
+                "t": "p",
+                "x": "Claude can now embed text, buttons, and other web elements into complex graphics and 3D effects."
+              },
+              {
+                "t": "p",
+                "x": "Web pages have always faced a tradeoff. Standard HTML elements are clickable, selectable, and readable by screen readers, but they're hard to warp visually. Canvas lets you draw anything you want, but the browser treats it like a flat image. You can't select text or click links inside it. HTML-in-Canvas changes that by placing real page elements inside canvas graphics while keeping them fully interactive."
+              },
+              {
+                "t": "p",
+                "x": "Felix Rieseberg works on Claude at Anthropic. He wrote on X that Claude can now build \"bizarre & beautiful sites\" with the feature, adding that it reminds him of the Flash era. A demo page shows 15 examples, including websites rendered as knitting patterns, 3D cubes, or exploded layer views. The content stays as real text you can highlight and copy."
+              },
+              {
                 "t": "video",
-                "yt": "87SISSxj6R4"
+                "src": "https://the-decoder.de/wp-content/uploads/2026/11/Felix_Rieseberg_wordpress_small_480p.mp4"
               },
               {
                 "t": "p",
-                "x": "Config India 2026: Figma deep dive: Nothing lost in translation, from canvas to production."
+                "x": "Google is developing HTML-in-Canvas as a web standard that preserves both interactivity and accessibility. The feature works in Chrome and Edge starting with version 157 and in Claude's desktop apps from version 5.11492. Safari and Firefox don't support it yet. Users need to ask Claude for HTML-in-Canvas explicitly in their prompt."
               },
               {
                 "t": "p",
-                "x": "Prototypes communicate behaviour and intent, but they aren't in production, and the gap between what was decided and what gets built is where most of the drift happens. Go beyond the basics with your design system context, advanced MCP techniques, code layers, and specs."
+                "x": "Claude keeps getting more creative with visual tasks. Recently, Claude Fable 5.2 painted photorealistic artwork stroke by stroke using self-written Python code."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Figma, 캔버스에서\n프로덕션까지 더 매끄럽게",
-          "body": "Figma가 Config India에서 MCP와 코드 레이어로 제작 간극을 좁힌다.",
-          "mini_headline": "Figma, 캔버스에서 프로덕션까지",
+          "headline": "Claude, HTML을\n캔버스 그래픽 속으로",
+          "body": "Claude가 이제 캔버스 그래픽과 3D 효과 안에 실제 텍스트·버튼을 심는다.",
+          "mini_headline": "Claude, 캔버스에 HTML",
           "full": {
             "mode": "full",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://the-decoder.com/wp-content/uploads/2026/11/claude_gemini_pro-scaled.png"
+              },
+              {
+                "t": "p",
+                "x": "Claude가 이제 복잡한 그래픽과 3D 효과 안에 텍스트, 버튼 같은 웹 요소를 넣는다."
+              },
+              {
+                "t": "p",
+                "x": "웹 페이지에는 늘 절충이 따랐다. 표준 HTML 요소는 클릭하고 선택할 수 있고 스크린 리더도 읽지만, 시각적으로 비틀기는 어렵다. Canvas는 무엇이든 그려내지만 브라우저는 그 결과를 납작한 이미지처럼 다룬다. 그 안의 텍스트는 선택되지 않고 링크도 눌리지 않는다. HTML-in-Canvas는 실제 페이지 요소를 캔버스 그래픽 안에 넣으면서 상호작용은 그대로 살려 이 문제를 푼다."
+              },
+              {
+                "t": "p",
+                "x": "Anthropic에서 Claude 관련 일을 하는 Felix Rieseberg는 X에 이 기능 덕분에 Claude가 \"bizarre & beautiful sites\"(기묘하고 아름다운 사이트)를 만들 수 있게 됐다며 Flash 시절이 떠오른다고 썼다. 데모 페이지에는 뜨개질 도안, 3D 큐브, 레이어를 분해해 렌더링한 웹사이트 등 예시 15개가 올라 있다. 콘텐츠는 강조 표시하고 복사할 수 있는 실제 텍스트 그대로다."
+              },
+              {
                 "t": "video",
-                "yt": "87SISSxj6R4"
+                "src": "https://the-decoder.de/wp-content/uploads/2026/11/Felix_Rieseberg_wordpress_small_480p.mp4"
               },
               {
                 "t": "p",
-                "x": "Config India 2026에서 열린 Figma 딥다이브 세션 'Nothing lost in translation'은 캔버스의 작업을 하나도 잃지 않고 프로덕션까지 옮기는 법을 다룬다."
+                "x": "Google은 상호작용성과 접근성을 함께 지키는 웹 표준으로 HTML-in-Canvas를 개발 중이다. Chrome과 Edge는 157 버전부터, Claude 데스크톱 앱은 5.11492 버전부터 이 기능이 작동한다. Safari와 Firefox는 아직 지원하지 않는다. 쓰려면 프롬프트에서 Claude에게 HTML-in-Canvas를 콕 집어 요청해야 한다."
               },
               {
                 "t": "p",
-                "x": "프로토타입은 동작과 의도를 보여 주지만 프로덕션 그 자체는 아니다. 어긋남은 대개 결정한 내용과 실제로 만들어지는 결과 사이의 틈에서 생긴다. 세션은 디자인 시스템 맥락과 고급 MCP 기법, 코드 레이어, 스펙을 써서 기본기 너머로 나아간다."
+                "x": "시각 작업에서 Claude는 갈수록 창의적이다. 최근 Claude Fable 5.2는 직접 짠 Python 코드로 사실적인 그림을 한 획씩 그렸다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Figmaが示す\nキャンバスから本番への道",
-          "body": "FigmaはConfig IndiaでMCPとコードレイヤーを用いた本番化を解説した。",
-          "mini_headline": "Figma：キャンバスから本番へ",
+          "headline": "ClaudeがHTMLを\nキャンバス画像に埋め込む",
+          "body": "Claudeはキャンバス描画や3D 効果の中に本物のテキストやボタンを置けるようになった。",
+          "mini_headline": "ClaudeがcanvasにHTML",
           "full": {
             "mode": "full",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://the-decoder.com/wp-content/uploads/2026/11/claude_gemini_pro-scaled.png"
+              },
+              {
+                "t": "p",
+                "x": "Claudeは、複雑なグラフィックや3D エフェクトの中に、テキストやボタンなどのウェブ要素を埋め込めるようになった。"
+              },
+              {
+                "t": "p",
+                "x": "ウェブページは常にトレードオフを抱えてきた。標準のHTML要素はクリックや選択ができ、スクリーンリーダーでも読み取れるが、見た目を変形させるのは難しい。Canvasなら何でも描けるが、ブラウザはそれを平面の画像として扱う。中のテキストを選択したり、リンクをクリックしたりはできない。HTML-in-Canvasは、実際のページ要素をキャンバスのグラフィック内に配置しつつ、完全に操作できる状態を保つことで、これを変える。"
+              },
+              {
+                "t": "p",
+                "x": "Felix RiesebergはAnthropicでClaudeに携わっている。彼はXで、この機能によってClaudeが「bizarre & beautiful sites」(奇妙で美しいサイト)を作れるようになったと書き、Flash時代を思い出すと付け加えた。デモページには、編み物の図案、3D キューブ、分解したレイヤー表示としてレンダリングしたウェブサイトなど、15の例が並ぶ。コンテンツは選択してコピーできる本物のテキストのままだ。"
+              },
+              {
                 "t": "video",
-                "yt": "87SISSxj6R4"
+                "src": "https://the-decoder.de/wp-content/uploads/2026/11/Felix_Rieseberg_wordpress_small_480p.mp4"
               },
               {
                 "t": "p",
-                "x": "Config India 2026：Figmaディープダイブ「Nothing lost in translation」——キャンバスから本番まで、何も失わずに。"
+                "x": "Googleは、操作性とアクセシビリティを両立するウェブ標準としてHTML-in-Canvasを開発している。この機能はChromeとEdgeではバージョン157から、Claudeのデスクトップアプリではバージョン5.11492から動作する。SafariとFirefoxはまだ対応していない。利用者はプロンプトでClaudeにHTML-in-Canvasを明示的に指示する必要がある。"
               },
               {
                 "t": "p",
-                "x": "プロトタイプは振る舞いや意図を伝えるが、本番環境にあるわけではない。決定された内容と実際に作られるものとのギャップこそ、ずれの大半が生じる場所だ。デザインシステムのコンテキスト、高度なMCPテクニック、コードレイヤー、スペックを使い、基本の一歩先へ進む。"
+                "x": "Claudeは視覚的なタスクでますます創造性を発揮している。最近ではClaude Fable 5.2が、自ら書いたPythonコードで写実的な絵を一筆ずつ描いた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Figma 理顺画布\n到生产的路径",
-          "body": "Figma在Config India上借助MCP、代码图层与规格说明缩小与生产的差距。",
-          "mini_headline": "Figma：从画布到生产",
+          "headline": "Claude把实时HTML\n嵌入画布图形之中",
+          "body": "Claude现在能在复杂的画布图形和3D 效果中放入真实文本、按钮等网页元素。",
+          "mini_headline": "Claude 把 HTML 放进画布",
           "full": {
             "mode": "full",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://the-decoder.com/wp-content/uploads/2026/11/claude_gemini_pro-scaled.png"
+              },
+              {
+                "t": "p",
+                "x": "Claude 现在可以把文本、按钮和其他网页元素嵌入复杂的图形和 3D 效果之中。"
+              },
+              {
+                "t": "p",
+                "x": "网页一直面临一种取舍。标准 HTML 元素可以点击、选择，也能被屏幕阅读器读取，但很难在视觉上扭曲变形。Canvas 能让你画出任何东西，但浏览器把它当作一张扁平图片，你无法选中其中的文字，也无法点击其中的链接。HTML-in-Canvas 把真实的页面元素放进画布图形，同时保持完全可交互，从而改变了这一点。"
+              },
+              {
+                "t": "p",
+                "x": "Felix Rieseberg 在 Anthropic 从事 Claude 相关工作。他在 X 上写道，借助这项功能，Claude 现在能做出“bizarre & beautiful sites”（怪诞而美丽的网站），并说这让他想起 Flash 时代。一个演示页面展示了 15 个示例，包括渲染成编织图样、3D 立方体或分层爆炸视图的网站。内容仍是可以高亮和复制的真实文本。"
+              },
+              {
                 "t": "video",
-                "yt": "87SISSxj6R4"
+                "src": "https://the-decoder.de/wp-content/uploads/2026/11/Felix_Rieseberg_wordpress_small_480p.mp4"
               },
               {
                 "t": "p",
-                "x": "Config India 2026：Figma深度解析——Nothing lost in translation，从画布到生产，毫无损耗。"
+                "x": "Google 正在把 HTML-in-Canvas 发展为一项同时保留交互性与无障碍性的网页标准。该功能在 Chrome 和 Edge 中从 157 版起可用，在 Claude 桌面应用中从 5.11492 版起可用。Safari 和 Firefox 尚不支持。用户需要在提示词中明确要求 Claude 使用 HTML-in-Canvas。"
               },
               {
                 "t": "p",
-                "x": "原型能够传达交互行为与设计意图，但它们并不在生产环境中，而决策内容与最终构建结果之间的差距，正是大多数偏差产生的地方。借助设计系统上下文、进阶MCP技巧、代码图层和规格说明，超越基础用法。"
+                "x": "Claude 在视觉任务上越来越有创意。最近，Claude Fable 5.2 用自己编写的 Python 代码，一笔一笔画出了照片级写实的作品。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Figma traza una ruta más limpia\ndel lienzo a la producción",
-          "body": "En Config India, Figma usa contexto de diseño, MCP, capas de código y especificaciones para llegar a producción.",
-          "mini_headline": "Figma: del lienzo a la producción",
+          "headline": "Claude integra HTML interactivo\ndentro de gráficos canvas",
+          "body": "Claude ya puede colocar texto real, botones y otros elementos web dentro de gráficos canvas complejos y efectos 3D.",
+          "mini_headline": "Claude lleva HTML al canvas",
           "full": {
             "mode": "full",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://the-decoder.com/wp-content/uploads/2026/11/claude_gemini_pro-scaled.png"
+              },
+              {
+                "t": "p",
+                "x": "Claude ya puede incrustar texto, botones y otros elementos web en gráficos complejos y efectos 3D."
+              },
+              {
+                "t": "p",
+                "x": "Las páginas web siempre han enfrentado un dilema. Los elementos HTML estándar se pueden pulsar, seleccionar y leer con lectores de pantalla, pero es difícil deformarlos visualmente. Canvas permite dibujar cualquier cosa, pero el navegador lo trata como una imagen plana. No se puede seleccionar el texto ni pulsar enlaces dentro de él. HTML-in-Canvas cambia eso al colocar elementos reales de la página dentro de gráficos canvas sin que pierdan su interactividad."
+              },
+              {
+                "t": "p",
+                "x": "Felix Rieseberg trabaja en Claude en Anthropic. Escribió en X que Claude ya puede crear \"bizarre & beautiful sites\" (sitios extraños y bellos) con esta función, y añadió que le recuerda a la era de Flash. Una página de demostración muestra 15 ejemplos, entre ellos sitios web representados como patrones de tejido, cubos 3D o vistas de capas desplegadas. El contenido sigue siendo texto real que se puede resaltar y copiar."
+              },
+              {
                 "t": "video",
-                "yt": "87SISSxj6R4"
+                "src": "https://the-decoder.de/wp-content/uploads/2026/11/Felix_Rieseberg_wordpress_small_480p.mp4"
               },
               {
                 "t": "p",
-                "x": "Config India 2026: análisis a fondo de Figma: «Nothing lost in translation» (nada se pierde en la traducción), del lienzo a la producción."
+                "x": "Google está desarrollando HTML-in-Canvas como un estándar web que conserva tanto la interactividad como la accesibilidad. La función está disponible en Chrome y Edge a partir de la versión 157 y en las apps de escritorio de Claude desde la versión 5.11492. Safari y Firefox aún no la admiten. Los usuarios deben pedir HTML-in-Canvas a Claude de forma explícita en su prompt."
               },
               {
                 "t": "p",
-                "x": "Los prototipos comunican comportamiento e intención, pero no están en producción, y la brecha entre lo que se decidió y lo que se construye es donde ocurre la mayor parte de la desviación. Vaya más allá de lo básico con el contexto de su sistema de diseño, técnicas avanzadas de MCP, capas de código y especificaciones."
+                "x": "Claude es cada vez más creativo en las tareas visuales. Hace poco, Claude Fable 5.2 pintó obras fotorrealistas trazo a trazo con código Python escrito por él mismo."
               }
             ]
           }
@@ -557,89 +241,153 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Figma, 캔버스에서\n프로덕션까지 더 매끄럽게",
-          "body": "Figma는 Config India에서 MCP·코드 레이어로 제작 간극을 좁힌다.",
-          "mini_headline": "Figma: 캔버스에서 프로덕션까지",
+          "headline": "Claude, HTML을\n캔버스 그래픽 속으로",
+          "body": "Claude가 이제 캔버스 그래픽과 3D 효과 속에 실제 텍스트·버튼을 넣는다.",
+          "mini_headline": "Claude, 캔버스에 HTML",
           "full": {
             "mode": "full",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://the-decoder.com/wp-content/uploads/2026/11/claude_gemini_pro-scaled.png"
+              },
+              {
+                "t": "p",
+                "x": "Claude가 이제 복잡한 그래픽과 3D 효과 안에 텍스트, 버튼 등 웹 요소를 넣을 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "웹 페이지는 늘 절충을 안고 있었다. 표준 HTML 요소는 클릭하고 선택할 수 있으며 스크린 리더가 읽을 수 있지만, 시각적으로 비틀기는 어렵다. Canvas는 무엇이든 그릴 수 있지만 브라우저는 이를 납작한 이미지처럼 다룬다. 그 안의 텍스트를 선택하거나 링크를 클릭할 수 없다. HTML-in-Canvas는 실제 페이지 요소를 캔버스 그래픽 안에 넣으면서도 상호작용을 온전히 유지해 이 문제를 바꾼다."
+              },
+              {
+                "t": "p",
+                "x": "Felix Rieseberg는 Anthropic에서 Claude 관련 일을 한다. 그는 X에 이 기능으로 Claude가 이제 \"bizarre & beautiful sites\"(기묘하고 아름다운 사이트)를 만들 수 있다고 쓰며, Flash 시절이 떠오른다고 덧붙였다. 데모 페이지에는 뜨개질 도안, 3D 큐브, 분해된 레이어 뷰로 렌더링한 웹사이트 등 15개 예시가 있다. 콘텐츠는 강조 표시하고 복사할 수 있는 실제 텍스트로 남는다."
+              },
+              {
                 "t": "video",
-                "yt": "87SISSxj6R4"
+                "src": "https://the-decoder.de/wp-content/uploads/2026/11/Felix_Rieseberg_wordpress_small_480p.mp4"
               },
               {
                 "t": "p",
-                "x": "Config India 2026의 Figma 딥다이브 세션 'Nothing lost in translation'은 캔버스에서 프로덕션까지 아무것도 잃지 않고 옮기는 법을 다룬다."
+                "x": "Google은 상호작용성과 접근성을 모두 지키는 웹 표준으로 HTML-in-Canvas를 개발하고 있다. 이 기능은 Chrome과 Edge에서는 157 버전부터, Claude 데스크톱 앱에서는 5.11492 버전부터 작동한다. Safari와 Firefox는 아직 지원하지 않는다. 사용자는 프롬프트에서 Claude에게 HTML-in-Canvas를 명시적으로 요청해야 한다."
               },
               {
                 "t": "p",
-                "x": "프로토타입은 동작과 의도를 전달하지만 프로덕션에 있는 것은 아니며, 결정된 내용과 실제로 만들어지는 결과 사이의 간극에서 대부분의 어긋남이 생긴다. 디자인 시스템 맥락, 고급 MCP 기법, 코드 레이어, 스펙을 활용해 기본 그 이상으로 나아간다."
+                "x": "Claude는 시각 작업에서 점점 더 창의적인 모습을 보이고 있다. 최근 Claude Fable 5.2는 직접 작성한 Python 코드로 사실적인 그림을 한 획씩 그렸다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Figmaが示す\nキャンバスから本番への道",
-          "body": "FigmaはConfig IndiaでMCPとコードレイヤーを用いた本番化を解説した。",
-          "mini_headline": "Figma：キャンバスから本番へ",
+          "headline": "ClaudeがHTMLを\nキャンバス画像に埋め込む",
+          "body": "Claudeはキャンバス描画や3D 効果の中に本物のテキストやボタンを置けるようになった。",
+          "mini_headline": "ClaudeがcanvasにHTML",
           "full": {
             "mode": "full",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://the-decoder.com/wp-content/uploads/2026/11/claude_gemini_pro-scaled.png"
+              },
+              {
+                "t": "p",
+                "x": "Claudeは、複雑なグラフィックや3D エフェクトの中に、テキストやボタンなどのウェブ要素を埋め込めるようになった。"
+              },
+              {
+                "t": "p",
+                "x": "ウェブページは常にトレードオフを抱えてきた。標準のHTML要素はクリックや選択ができ、スクリーンリーダーでも読み取れるが、見た目を変形させるのは難しい。Canvasなら何でも描けるが、ブラウザはそれを平面の画像として扱う。中のテキストを選択したり、リンクをクリックしたりはできない。HTML-in-Canvasは、実際のページ要素をキャンバスのグラフィック内に配置しつつ、完全に操作できる状態を保つことで、これを変える。"
+              },
+              {
+                "t": "p",
+                "x": "Felix RiesebergはAnthropicでClaudeに携わっている。彼はXで、この機能によってClaudeが「bizarre & beautiful sites」(奇妙で美しいサイト)を作れるようになったと書き、Flash時代を思い出すと付け加えた。デモページには、編み物の図案、3D キューブ、分解したレイヤー表示としてレンダリングしたウェブサイトなど、15の例が並ぶ。コンテンツは選択してコピーできる本物のテキストのままだ。"
+              },
+              {
                 "t": "video",
-                "yt": "87SISSxj6R4"
+                "src": "https://the-decoder.de/wp-content/uploads/2026/11/Felix_Rieseberg_wordpress_small_480p.mp4"
               },
               {
                 "t": "p",
-                "x": "Config India 2026：Figmaディープダイブ「Nothing lost in translation」——キャンバスから本番まで、何も失わずに。"
+                "x": "Googleは、操作性とアクセシビリティを両立するウェブ標準としてHTML-in-Canvasを開発している。この機能はChromeとEdgeではバージョン157から、Claudeのデスクトップアプリではバージョン5.11492から動作する。SafariとFirefoxはまだ対応していない。利用者はプロンプトでClaudeにHTML-in-Canvasを明示的に指示する必要がある。"
               },
               {
                 "t": "p",
-                "x": "プロトタイプは振る舞いや意図を伝えるが、本番環境にあるわけではない。決定された内容と実際に作られるものとのギャップこそ、ずれの大半が生じる場所だ。デザインシステムのコンテキスト、高度なMCPテクニック、コードレイヤー、スペックを使い、基本の一歩先へ進む。"
+                "x": "Claudeは視覚的なタスクでますます創造性を発揮している。最近ではClaude Fable 5.2が、自ら書いたPythonコードで写実的な絵を一筆ずつ描いた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Figma 理顺画布\n到生产的路径",
-          "body": "Figma在Config India上借助MCP、代码图层与规格说明缩小与生产的差距。",
-          "mini_headline": "Figma：从画布到生产",
+          "headline": "Claude把实时HTML\n嵌入画布图形之中",
+          "body": "Claude现在能在复杂的画布图形和3D 效果中放入真实文本、按钮等网页元素。",
+          "mini_headline": "Claude 把 HTML 放进画布",
           "full": {
             "mode": "full",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://the-decoder.com/wp-content/uploads/2026/11/claude_gemini_pro-scaled.png"
+              },
+              {
+                "t": "p",
+                "x": "Claude 现在可以把文本、按钮和其他网页元素嵌入复杂的图形和 3D 效果之中。"
+              },
+              {
+                "t": "p",
+                "x": "网页一直面临一种取舍。标准 HTML 元素可以点击、选择，也能被屏幕阅读器读取，但很难在视觉上扭曲变形。Canvas 能让你画出任何东西，但浏览器把它当作一张扁平图片，你无法选中其中的文字，也无法点击其中的链接。HTML-in-Canvas 把真实的页面元素放进画布图形，同时保持完全可交互，从而改变了这一点。"
+              },
+              {
+                "t": "p",
+                "x": "Felix Rieseberg 在 Anthropic 从事 Claude 相关工作。他在 X 上写道，借助这项功能，Claude 现在能做出“bizarre & beautiful sites”（怪诞而美丽的网站），并说这让他想起 Flash 时代。一个演示页面展示了 15 个示例，包括渲染成编织图样、3D 立方体或分层爆炸视图的网站。内容仍是可以高亮和复制的真实文本。"
+              },
+              {
                 "t": "video",
-                "yt": "87SISSxj6R4"
+                "src": "https://the-decoder.de/wp-content/uploads/2026/11/Felix_Rieseberg_wordpress_small_480p.mp4"
               },
               {
                 "t": "p",
-                "x": "Config India 2026：Figma深度解析——Nothing lost in translation，从画布到生产，毫无损耗。"
+                "x": "Google 正在把 HTML-in-Canvas 发展为一项同时保留交互性与无障碍性的网页标准。该功能在 Chrome 和 Edge 中从 157 版起可用，在 Claude 桌面应用中从 5.11492 版起可用。Safari 和 Firefox 尚不支持。用户需要在提示词中明确要求 Claude 使用 HTML-in-Canvas。"
               },
               {
                 "t": "p",
-                "x": "原型能够传达交互行为与设计意图，但它们并不在生产环境中，而决策内容与最终构建结果之间的差距，正是大多数偏差产生的地方。借助设计系统上下文、进阶MCP技巧、代码图层和规格说明，超越基础用法。"
+                "x": "Claude 在视觉任务上越来越有创意。最近，Claude Fable 5.2 用自己编写的 Python 代码，一笔一笔画出了照片级写实的作品。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Figma traza una ruta más limpia\ndel lienzo a la producción",
-          "body": "En Config India, Figma usa contexto de diseño, MCP, capas de código y especificaciones para llegar a producción.",
-          "mini_headline": "Figma: del lienzo a la producción",
+          "headline": "Claude integra HTML interactivo\ndentro de gráficos canvas",
+          "body": "Claude ya puede colocar texto real, botones y otros elementos web dentro de gráficos canvas complejos y efectos 3D.",
+          "mini_headline": "Claude lleva HTML al canvas",
           "full": {
             "mode": "full",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://the-decoder.com/wp-content/uploads/2026/11/claude_gemini_pro-scaled.png"
+              },
+              {
+                "t": "p",
+                "x": "Claude ya puede incrustar texto, botones y otros elementos web en gráficos complejos y efectos 3D."
+              },
+              {
+                "t": "p",
+                "x": "Las páginas web siempre han enfrentado un dilema. Los elementos HTML estándar se pueden pulsar, seleccionar y leer con lectores de pantalla, pero es difícil deformarlos visualmente. Canvas permite dibujar cualquier cosa, pero el navegador lo trata como una imagen plana. No se puede seleccionar el texto ni pulsar enlaces dentro de él. HTML-in-Canvas cambia eso al colocar elementos reales de la página dentro de gráficos canvas sin que pierdan su interactividad."
+              },
+              {
+                "t": "p",
+                "x": "Felix Rieseberg trabaja en Claude en Anthropic. Escribió en X que Claude ya puede crear \"bizarre & beautiful sites\" (sitios extraños y bellos) con esta función, y añadió que le recuerda a la era de Flash. Una página de demostración muestra 15 ejemplos, entre ellos sitios web representados como patrones de tejido, cubos 3D o vistas de capas desplegadas. El contenido sigue siendo texto real que se puede resaltar y copiar."
+              },
+              {
                 "t": "video",
-                "yt": "87SISSxj6R4"
+                "src": "https://the-decoder.de/wp-content/uploads/2026/11/Felix_Rieseberg_wordpress_small_480p.mp4"
               },
               {
                 "t": "p",
-                "x": "Config India 2026: análisis a fondo de Figma: «Nothing lost in translation» (nada se pierde en la traducción), del lienzo a la producción."
+                "x": "Google está desarrollando HTML-in-Canvas como un estándar web que conserva tanto la interactividad como la accesibilidad. La función está disponible en Chrome y Edge a partir de la versión 157 y en las apps de escritorio de Claude desde la versión 5.11492. Safari y Firefox aún no la admiten. Los usuarios deben pedir HTML-in-Canvas a Claude de forma explícita en su prompt."
               },
               {
                 "t": "p",
-                "x": "Los prototipos comunican comportamiento e intención, pero no están en producción, y la brecha entre lo que se decidió y lo que se construye es donde ocurre la mayor parte de la desviación. Vaya más allá de lo básico con el contexto de su sistema de diseño, técnicas avanzadas de MCP, capas de código y especificaciones."
+                "x": "Claude es cada vez más creativo en las tareas visuales. Hace poco, Claude Fable 5.2 pintó obras fotorrealistas trazo a trazo con código Python escrito por él mismo."
               }
             ]
           }
@@ -647,15 +395,15 @@
       }
     },
     {
-      "id": "figma-blog-creative-ai-split",
+      "id": "lovable-drafts-parallel",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "디자이너가 AI에 넘길 것\n끝까지 지킬 것",
-      "body": "Figma가 창작 과정에서 디자이너가 AI에 넘길 몫과 지킬 몫을 짚는다.",
-      "mini_headline": "디자이너가 긋는 AI의 선",
+      "headline": "Lovable Drafts\n배포 없이 팀이 실험",
+      "body": "Lovable Drafts로 팀은 라이브 앱을 두고 여러 버전을 함께 시험한다.",
+      "mini_headline": "Lovable, Drafts 추가",
       "tool": "Figma",
-      "source": "Figma Blog",
-      "url": "https://www.figma.com/blog/ai-role-in-the-creative-process/",
+      "source": "Lovable",
+      "url": "https://lovable.dev/blog/introducing-drafts",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
@@ -663,209 +411,221 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/4791f6c2acbf0d3121abf8a8f3e7aa3c6b7c4ae9-3264x1836.png?w=1632&h=918&q=75&fit=max&auto=format",
-            "cap": "히어로 일러스트: Jose Flores"
+            "src": "https://assets.lovable.dev/content/news/covers/introducing-drafts-2026-11-15.png"
           },
           {
             "t": "p",
-            "x": "Figma Weave 공동 창업자이자 최고 크리에이티브 책임자인 Itay Schiff는 창작 과정에서 AI에 맡길 수 있는 부분과 우리가 끝까지 지키려는 부분이 무엇인지 묻는다. 요즘 많은 창작자가 글쓰기, 디자인, 편집, 연출처럼 사실은 즐기던 일까지 AI로 처리한다. 그가 보기에 문제는 AI를 쓰느냐가 아니라 어느 부분을 자동화하느냐다."
+            "x": "뛰어난 빌더는 실험하고 만지작거리며 다듬는다. 이제 팀은 여러 아이디어를 한꺼번에 시도하고 하나를 고르기 전에 실제 환경에서 어떻게 보이는지 확인한다. 그동안 라이브 앱은 손대지 않은 채 남는다."
           },
           {
             "t": "p",
-            "x": "마찰이 쓸모 있을 때도 있다. 트래커 제거, 프리비즈 제작, 그린 스크린 키잉 같은 지루한 VFX 작업은 대부분 기꺼이 내려놓을 노동이다. 하지만 어떤 마찰은 노동이 아니라 생각이 일어나는 자리다. 그저 노동일 뿐인가? 그렇다면 기계에 맡기면 된다."
+            "x": "드래프트를 쓰면 디자인부터 데이터베이스까지 앱 전체를 원하는 만큼 복사한다. 드래프트마다 채팅과 미리보기가 따로 있어 팀원이 각자 다른 버전을 작업하고 나란히 비교한다. 드래프트를 수락해 게시하기 전까지 라이브에는 아무것도 반영되지 않는다."
+          },
+          {
+            "t": "video",
+            "src": "https://assets.lovable.dev/content/news/introducing-drafts/drafts-overview-2026-11-16.mp4"
           },
           {
             "t": "p",
-            "x": "생성은 저작이 아니다. AI 모델이 처음 내놓은 결과물은 완성된 것처럼 보여도, 같은 프레임은 누구든 생성할 수 있었다. Figma Weave에서 Seedance 2.5로 만든 Gaussian splat 캠페인도 v1은 금방 나왔지만 완성과는 거리가 멀었다. 팀은 이후 스토리와 캐릭터, 스타일링을 계속 다듬었다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/6ff46e4235ab02c904cb2673573d5fefd08312aa-3264x1836.png?w=3264&h=1836&q=75&fit=crop&crop=focalpoint&auto=format",
-            "cap": "Figma Design에 표시된 “Spring Arrivals” 캠페인 디자인과 그 옆에 연결된 Weave의 Figma 노드."
+            "x": "팀원이나 클라이언트는 기존 앱을 건드리지 않고 자기 드래프트에서 고친다. 드래프트마다 예시 데이터가 채워져 있어 빈 페이지 대신 예약이 꽉 찬 캘린더, 가득 쌓인 주문 내역, 긴 가입자 목록 위에서 아이디어를 본다. Lovable에 여러 버전을 만들어 달라고 한 뒤 마음에 드는 것만 남겨도 된다."
           },
           {
             "t": "p",
-            "x": "Schiff는 탐색하는 “열린 모드”와 결정을 확정하고 자동화하는 “닫힌 모드”를 나눠 설명한다. 무언가를 AI에 넘기기 전에 먼저 그것을 들여다봐야 한다. 유혹이 가장 클 때일수록 생각까지 자동화하지 않도록 조심해야 한다."
+            "x": "\"드래프트로 여러 기능과 레이아웃, UX를 나란히 테스트한 뒤 가장 잘 맞는 것을 남긴다.\" OLX Global의 Director of Product Design & Research인 Shane Stuart의 말이다."
+          },
+          {
+            "t": "p",
+            "x": "프로젝트를 열고 편집기 상단의 프로젝트 이름을 클릭한 뒤 \"New draft\"를 누르면 된다. 드래프트가 마음에 들면 수락을 눌러 변경 사항을 프로젝트에 합치고, 게시를 눌러 라이브로 내보낸다. 테스트하며 넣은 데이터는 드래프트 안에만 머물다가 수락하거나 삭제하면 사라진다. 실제 고객 데이터와 섞일 일이 없다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "What designers hand to AI\nand what they keep",
-          "body": "Figma examines which parts of the creative process designers will hand to AI and which they insist on keeping.",
-          "mini_headline": "Designers draw AI's line",
+          "headline": "Lovable Drafts lets teams\nexplore without going live",
+          "body": "Lovable Drafts let teams explore different versions of a project in parallel while the live app stays unchanged.",
+          "mini_headline": "Lovable adds Drafts",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/4791f6c2acbf0d3121abf8a8f3e7aa3c6b7c4ae9-3264x1836.png?w=1632&h=918&q=75&fit=max&auto=format",
-                "cap": "Hero illustration by Jose Flores"
+                "src": "https://assets.lovable.dev/content/news/covers/introducing-drafts-2026-11-15.png"
               },
               {
                 "t": "p",
-                "x": "Itay Schiff, co-founder and chief creative officer of Figma Weave, asks which parts of the creative process AI can do for us—and which we insist on keeping for ourselves. Many creative people today are using AI to do something they actually enjoyed doing, like writing, designing, editing, or directing. To him, the question isn't whether or not to use AI, but which parts to automate."
+                "x": "The best builders experiment, tinker, and tweak. Now you and your team can try different ideas in parallel and see how they'd really look in the wild before choosing your favorite, while your live app stays untouched."
               },
               {
                 "t": "p",
-                "x": "Friction can be valuable. Tedious VFX steps—removing trackers, building previs, pulling the green screen—are labor most of us would gladly give up. But some friction isn't labor; it's where the thinking happens. Is it simply labor? Let the machine take it."
+                "x": "With drafts, you can copy your whole app, from design to database, as often as you like. Each draft has its own chat and preview, so you and your team can work on separate versions and compare them side by side. Nothing goes live until you accept a draft and hit publish."
+              },
+              {
+                "t": "video",
+                "src": "https://assets.lovable.dev/content/news/introducing-drafts/drafts-overview-2026-11-16.mp4"
               },
               {
                 "t": "p",
-                "x": "Generation isn't authorship. An AI model's first output looks finished, but anyone could have generated that same frame. For a Gaussian splat campaign generated with Seedance 2.5 in Figma Weave, the v1 came out fast and far from finished; the team kept riffing on story, characters and styling."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/6ff46e4235ab02c904cb2673573d5fefd08312aa-3264x1836.png?w=3264&h=1836&q=75&fit=crop&crop=focalpoint&auto=format",
-                "cap": "A “Spring Arrivals” campaign design shown in Figma Design beside its connected Figma node in Weave."
+                "x": "Let a teammate or a client make changes in their own draft without altering the existing app. Every draft comes filled with example data, so instead of an empty page you see your idea with a busy booking calendar, a full order history, or a long list of sign-ups. You can even ask Lovable to spin up different versions for you and keep the ones you like."
               },
               {
                 "t": "p",
-                "x": "Schiff describes an “open mode” for exploring and a “closed mode” for committing to decisions and automating. Before you hand something off to AI, examine it first. Be careful not to automate thinking away—especially when it's most tempting."
+                "x": "\"We use drafts to test different features, layouts and UX side by side, then keep what works best,\" says Shane Stuart, Director of Product Design & Research, OLX Global."
+              },
+              {
+                "t": "p",
+                "x": "Open a project, click its name at the top of the editor, and hit \"New draft.\" When you're happy with a draft, hit accept to add its changes to your project, then hit publish to make them live. Any data you add while testing stays in the draft and is cleared when you accept or delete it, so it never lands next to real customer data."
               }
             ]
           }
         },
         "ko": {
-          "headline": "디자이너가 AI에 넘길 것\n끝까지 지킬 것",
-          "body": "Figma가 창작 과정에서 디자이너가 AI에 넘길 몫과 지킬 몫을 짚는다.",
-          "mini_headline": "디자이너가 긋는 AI의 선",
+          "headline": "Lovable Drafts\n배포 없이 팀이 실험",
+          "body": "Lovable Drafts로 팀은 라이브 앱을 두고 여러 버전을 함께 시험한다.",
+          "mini_headline": "Lovable, Drafts 추가",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/4791f6c2acbf0d3121abf8a8f3e7aa3c6b7c4ae9-3264x1836.png?w=1632&h=918&q=75&fit=max&auto=format",
-                "cap": "히어로 일러스트: Jose Flores"
+                "src": "https://assets.lovable.dev/content/news/covers/introducing-drafts-2026-11-15.png"
               },
               {
                 "t": "p",
-                "x": "Figma Weave 공동 창업자이자 최고 크리에이티브 책임자인 Itay Schiff는 창작 과정에서 AI에 맡길 수 있는 부분과 우리가 끝까지 지키려는 부분이 무엇인지 묻는다. 요즘 많은 창작자가 글쓰기, 디자인, 편집, 연출처럼 사실은 즐기던 일까지 AI로 처리한다. 그가 보기에 문제는 AI를 쓰느냐가 아니라 어느 부분을 자동화하느냐다."
+                "x": "뛰어난 빌더는 실험하고 만지작거리며 다듬는다. 이제 팀은 여러 아이디어를 한꺼번에 시도하고 하나를 고르기 전에 실제 환경에서 어떻게 보이는지 확인한다. 그동안 라이브 앱은 손대지 않은 채 남는다."
               },
               {
                 "t": "p",
-                "x": "마찰이 쓸모 있을 때도 있다. 트래커 제거, 프리비즈 제작, 그린 스크린 키잉 같은 지루한 VFX 작업은 대부분 기꺼이 내려놓을 노동이다. 하지만 어떤 마찰은 노동이 아니라 생각이 일어나는 자리다. 그저 노동일 뿐인가? 그렇다면 기계에 맡기면 된다."
+                "x": "드래프트를 쓰면 디자인부터 데이터베이스까지 앱 전체를 원하는 만큼 복사한다. 드래프트마다 채팅과 미리보기가 따로 있어 팀원이 각자 다른 버전을 작업하고 나란히 비교한다. 드래프트를 수락해 게시하기 전까지 라이브에는 아무것도 반영되지 않는다."
+              },
+              {
+                "t": "video",
+                "src": "https://assets.lovable.dev/content/news/introducing-drafts/drafts-overview-2026-11-16.mp4"
               },
               {
                 "t": "p",
-                "x": "생성은 저작이 아니다. AI 모델이 처음 내놓은 결과물은 완성된 것처럼 보여도, 같은 프레임은 누구든 생성할 수 있었다. Figma Weave에서 Seedance 2.5로 만든 Gaussian splat 캠페인도 v1은 금방 나왔지만 완성과는 거리가 멀었다. 팀은 이후 스토리와 캐릭터, 스타일링을 계속 다듬었다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/6ff46e4235ab02c904cb2673573d5fefd08312aa-3264x1836.png?w=3264&h=1836&q=75&fit=crop&crop=focalpoint&auto=format",
-                "cap": "Figma Design에 표시된 “Spring Arrivals” 캠페인 디자인과 그 옆에 연결된 Weave의 Figma 노드."
+                "x": "팀원이나 클라이언트는 기존 앱을 건드리지 않고 자기 드래프트에서 고친다. 드래프트마다 예시 데이터가 채워져 있어 빈 페이지 대신 예약이 꽉 찬 캘린더, 가득 쌓인 주문 내역, 긴 가입자 목록 위에서 아이디어를 본다. Lovable에 여러 버전을 만들어 달라고 한 뒤 마음에 드는 것만 남겨도 된다."
               },
               {
                 "t": "p",
-                "x": "Schiff는 탐색하는 “열린 모드”와 결정을 확정하고 자동화하는 “닫힌 모드”를 나눠 설명한다. 무언가를 AI에 넘기기 전에 먼저 그것을 들여다봐야 한다. 유혹이 가장 클 때일수록 생각까지 자동화하지 않도록 조심해야 한다."
+                "x": "\"드래프트로 여러 기능과 레이아웃, UX를 나란히 테스트한 뒤 가장 잘 맞는 것을 남긴다.\" OLX Global의 Director of Product Design & Research인 Shane Stuart의 말이다."
+              },
+              {
+                "t": "p",
+                "x": "프로젝트를 열고 편집기 상단의 프로젝트 이름을 클릭한 뒤 \"New draft\"를 누르면 된다. 드래프트가 마음에 들면 수락을 눌러 변경 사항을 프로젝트에 합치고, 게시를 눌러 라이브로 내보낸다. 테스트하며 넣은 데이터는 드래프트 안에만 머물다가 수락하거나 삭제하면 사라진다. 실제 고객 데이터와 섞일 일이 없다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "デザイナーがAIに渡すもの\n手元に残すもの",
-          "body": "Figmaは、デザイナーが創作のどこをAIに任せ、どこを手放さないかを考察する。",
-          "mini_headline": "デザイナーが引くAIの線",
+          "headline": "Lovable Drafts\n公開せずにチームで試す",
+          "body": "Lovable Draftsで公開中のアプリはそのままにチームが複数案を並行して試せる。",
+          "mini_headline": "LovableにDrafts追加",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/4791f6c2acbf0d3121abf8a8f3e7aa3c6b7c4ae9-3264x1836.png?w=1632&h=918&q=75&fit=max&auto=format",
-                "cap": "ヒーローイラスト：Jose Flores"
+                "src": "https://assets.lovable.dev/content/news/covers/introducing-drafts-2026-11-15.png"
               },
               {
                 "t": "p",
-                "x": "Figma Weaveの共同創業者で最高クリエイティブ責任者のItay Schiffは、創作プロセスのうちAIに任せられる部分と、自分たちの手に残しておきたい部分はどこかを問う。今日、多くのクリエイターが、文章、デザイン、編集、演出など、本来は楽しんでいた作業にAIを使っている。彼にとって問題はAIを使うかどうかではなく、どの部分を自動化するかだ。"
+                "x": "優れたビルダーは実験し、いじり、微調整する。これからはチームで複数のアイデアを並行して試し、お気に入りを選ぶ前に実際の環境でどう見えるかを確かめられる。その間も公開中のアプリには手が加わらない。"
               },
               {
                 "t": "p",
-                "x": "摩擦には価値がありうる。トラッカーの除去、プリビズの構築、グリーンスクリーンの抜きといった退屈なVFX工程は、多くの人が喜んで手放す労働だ。だが、ある種の摩擦は労働ではなく、思考が生まれる場所である。それは単なる労働か。ならば機械に任せればよい。"
+                "x": "ドラフトを使えば、デザインからデータベースまでアプリ全体を何度でも複製できる。各ドラフトには専用のチャットとプレビューがあり、チームで別々のバージョンに取り組んで並べて比較できる。ドラフトを承認して公開を押すまで、何も本番には反映されない。"
+              },
+              {
+                "t": "video",
+                "src": "https://assets.lovable.dev/content/news/introducing-drafts/drafts-overview-2026-11-16.mp4"
               },
               {
                 "t": "p",
-                "x": "生成は作者性ではない。AIモデルの最初の出力は完成品のように見えるが、同じフレームは誰でも生成できた。Figma WeaveでSeedance 2.5を使って生成したGaussian splatキャンペーンでは、v1はすぐにできたものの完成には程遠く、チームはストーリー、キャラクター、スタイリングを練り続けた。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/6ff46e4235ab02c904cb2673573d5fefd08312aa-3264x1836.png?w=3264&h=1836&q=75&fit=crop&crop=focalpoint&auto=format",
-                "cap": "Figma Designで表示した「Spring Arrivals」キャンペーンのデザインと、その横にあるWeave内の連携したFigmaノード。"
+                "x": "チームメイトやクライアントは、既存のアプリを変えずに自分のドラフトで変更を加えられる。どのドラフトにもサンプルデータが入っているので、空のページではなく、予約で埋まったカレンダーや充実した注文履歴、長い登録者リストとともにアイデアを確認できる。Lovableに別バージョンを作らせ、気に入ったものだけを残すこともできる。"
               },
               {
                 "t": "p",
-                "x": "Schiffは、探索のための「オープンモード」と、決定を確定して自動化するための「クローズドモード」について語る。AIに何かを渡す前に、まずそれを吟味すること。特にそうしたくなるときほど、思考まで自動化してしまわないよう注意が必要だ。"
+                "x": "「ドラフトでさまざまな機能やレイアウト、UXを並べてテストし、最も効果的なものを残している」と、OLX GlobalのDirector of Product Design & ResearchであるShane Stuartは語る。"
+              },
+              {
+                "t": "p",
+                "x": "プロジェクトを開き、エディタ上部のプロジェクト名をクリックして「New draft」を押す。ドラフトに満足したら承認を押して変更をプロジェクトに取り込み、公開を押して本番に反映する。テスト中に追加したデータはドラフト内にとどまり、承認または削除した時点で消去されるため、実際の顧客データと混ざることはない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "设计师把什么交给AI\n又把什么留给自己",
-          "body": "Figma探讨设计师会把创作流程的哪些部分交给AI，又坚持保留哪些。",
-          "mini_headline": "设计师为AI划线",
+          "headline": "Lovable Drafts\n团队无需上线即可探索",
+          "body": "借助Lovable Drafts，团队可在线上应用不变的情况下并行探索项目的不同版本。",
+          "mini_headline": "Lovable 推出 Drafts",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/4791f6c2acbf0d3121abf8a8f3e7aa3c6b7c4ae9-3264x1836.png?w=1632&h=918&q=75&fit=max&auto=format",
-                "cap": "头图插画：Jose Flores"
+                "src": "https://assets.lovable.dev/content/news/covers/introducing-drafts-2026-11-15.png"
               },
               {
                 "t": "p",
-                "x": "Figma Weave联合创始人兼首席创意官Itay Schiff提出了一个问题：创作过程中哪些部分可以交给AI，哪些部分我们坚持留给自己？如今，许多创意工作者正在用AI去做他们其实乐在其中的事，比如写作、设计、剪辑或导演。在他看来，问题不在于要不要用AI，而在于自动化哪些部分。"
+                "x": "最优秀的构建者总在实验、摆弄和微调。现在，你和团队可以并行尝试不同的想法，在选定最喜欢的方案之前看看它们在真实环境中的样子，而线上应用始终保持不变。"
               },
               {
                 "t": "p",
-                "x": "摩擦可能是有价值的。去除跟踪点、制作预演、抠绿幕等繁琐的VFX步骤，是大多数人乐于放手的劳动。但有些摩擦并非劳动，而是思考发生的地方。如果只是劳动？那就交给机器。"
+                "x": "借助草稿，你可以随意多次复制整个应用，从设计到数据库。每个草稿都有独立的聊天和预览，团队可以分别处理不同版本并并排比较。在你接受草稿并点击发布之前，任何内容都不会上线。"
+              },
+              {
+                "t": "video",
+                "src": "https://assets.lovable.dev/content/news/introducing-drafts/drafts-overview-2026-11-16.mp4"
               },
               {
                 "t": "p",
-                "x": "生成不等于创作。AI模型的第一版输出看起来已经完成，但任何人都可能生成同样的画面。在Figma Weave中用Seedance 2.5生成的一个Gaussian splat营销活动里，v1很快就出来了，却远未完成；团队继续围绕故事、角色和造型反复打磨。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/6ff46e4235ab02c904cb2673573d5fefd08312aa-3264x1836.png?w=3264&h=1836&q=75&fit=crop&crop=focalpoint&auto=format",
-                "cap": "在Figma Design中展示的“Spring Arrivals”活动设计，旁边是Weave中与之相连的Figma节点。"
+                "x": "让队友或客户在各自的草稿里修改，而不改动现有应用。每个草稿都预先填好示例数据，所以你看到的不是空白页面，而是带着排满的预约日历、完整的订单记录或一长串注册名单的创意。你甚至可以让 Lovable 为你生成不同版本，再保留喜欢的那些。"
               },
               {
                 "t": "p",
-                "x": "Schiff描述了用于探索的“开放模式”和用于确定决策、实现自动化的“封闭模式”。在把某件事交给AI之前，先审视它。尤其在最有诱惑力的时候，要小心别把思考也自动化掉。"
+                "x": "“我们用草稿并排测试不同的功能、布局和 UX，然后保留效果最好的。”OLX Global 的 Director of Product Design & Research Shane Stuart 说。"
+              },
+              {
+                "t": "p",
+                "x": "打开项目，点击编辑器顶部的项目名称，再点击“New draft”。对草稿满意后，点击接受，将其更改加入项目，再点击发布让它们上线。测试时添加的数据只留在草稿中，在你接受或删除草稿时清除，因此绝不会与真实客户数据混在一起。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Lo que los diseñadores dejan\na la AI y lo que conservan",
-          "body": "Figma analiza qué partes del proceso creativo dejarán los diseñadores a la AI y cuáles insisten en conservar.",
-          "mini_headline": "Los diseñadores marcan el límite de la AI",
+          "headline": "Con Lovable Drafts, los equipos\nexploran sin publicar",
+          "body": "Lovable Drafts permite a los equipos explorar en paralelo varias versiones de un proyecto sin tocar la app en vivo.",
+          "mini_headline": "Lovable añade Drafts",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/4791f6c2acbf0d3121abf8a8f3e7aa3c6b7c4ae9-3264x1836.png?w=1632&h=918&q=75&fit=max&auto=format",
-                "cap": "Ilustración principal de Jose Flores"
+                "src": "https://assets.lovable.dev/content/news/covers/introducing-drafts-2026-11-15.png"
               },
               {
                 "t": "p",
-                "x": "Itay Schiff, cofundador y director creativo de Figma Weave, se pregunta qué partes del proceso creativo puede hacer la AI por nosotros y cuáles insistimos en conservar. Hoy muchas personas creativas usan la AI para hacer algo que en realidad disfrutaban, como escribir, diseñar, editar o dirigir. Para él, la cuestión no es si usar AI o no, sino qué partes automatizar."
+                "x": "Los mejores creadores experimentan, prueban y ajustan. Ahora tú y tu equipo pueden probar ideas distintas en paralelo y ver cómo se verían de verdad en el mundo real antes de elegir la favorita, mientras la app publicada sigue intacta."
               },
               {
                 "t": "p",
-                "x": "La fricción puede ser valiosa. Los pasos tediosos de VFX —quitar trackers, armar la previs, extraer el croma— son trabajo al que la mayoría renunciaría con gusto. Pero cierta fricción no es trabajo; es donde ocurre el pensamiento. ¿Es simplemente trabajo? Que lo haga la máquina."
+                "x": "Con los borradores puedes copiar toda tu app, del diseño a la base de datos, tantas veces como quieras. Cada borrador tiene su propio chat y vista previa, así que tú y tu equipo pueden trabajar en versiones separadas y compararlas lado a lado. Nada se publica hasta que aceptas un borrador y pulsas publicar."
+              },
+              {
+                "t": "video",
+                "src": "https://assets.lovable.dev/content/news/introducing-drafts/drafts-overview-2026-11-16.mp4"
               },
               {
                 "t": "p",
-                "x": "Generar no es ser autor. El primer resultado de un modelo de AI parece terminado, pero cualquiera podría haber generado ese mismo fotograma. En una campaña de Gaussian splat generada con Seedance 2.5 en Figma Weave, la v1 salió rápido y lejos de estar terminada; el equipo siguió iterando la historia, los personajes y el estilismo."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/6ff46e4235ab02c904cb2673573d5fefd08312aa-3264x1836.png?w=3264&h=1836&q=75&fit=crop&crop=focalpoint&auto=format",
-                "cap": "Diseño de la campaña “Spring Arrivals” en Figma Design junto a su nodo de Figma conectado en Weave."
+                "x": "Deja que un compañero o un cliente haga cambios en su propio borrador sin alterar la app existente. Cada borrador viene con datos de ejemplo, así que en lugar de una página vacía ves tu idea con un calendario de reservas lleno, un historial de pedidos completo o una larga lista de registros. Incluso puedes pedirle a Lovable que genere distintas versiones por ti y quedarte con las que te gusten."
               },
               {
                 "t": "p",
-                "x": "Schiff describe un “modo abierto” para explorar y un “modo cerrado” para comprometerse con decisiones y automatizar. Antes de delegar algo a la AI, conviene examinarlo primero. Hay que cuidarse de no automatizar el pensamiento, sobre todo cuando más tienta hacerlo."
+                "x": "\"Usamos los borradores para probar lado a lado distintas funciones, diseños y UX, y luego quedarnos con lo que mejor funciona\", dice Shane Stuart, Director of Product Design & Research de OLX Global."
+              },
+              {
+                "t": "p",
+                "x": "Abre un proyecto, haz clic en su nombre en la parte superior del editor y pulsa \"New draft\". Cuando un borrador te convenza, pulsa aceptar para añadir sus cambios al proyecto y luego publicar para ponerlos en vivo. Los datos que añadas durante las pruebas se quedan en el borrador y se borran al aceptarlo o eliminarlo, así que nunca se mezclan con datos reales de clientes."
               }
             ]
           }
@@ -873,145 +633,153 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "디자이너가 AI에 넘길 것\n그리고 지킬 것",
-          "body": "Figma는 디자이너가 창작 과정 중 AI에 넘길 부분과 지킬 부분을 짚는다.",
-          "mini_headline": "디자이너가 긋는 AI의 선",
+          "headline": "Lovable Drafts\n배포 없이 팀이 실험",
+          "body": "Lovable Drafts로 팀은 라이브 앱은 두고 여러 버전을 동시에 탐색한다.",
+          "mini_headline": "Lovable, Drafts 추가",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/4791f6c2acbf0d3121abf8a8f3e7aa3c6b7c4ae9-3264x1836.png?w=1632&h=918&q=75&fit=max&auto=format",
-                "cap": "히어로 일러스트: Jose Flores"
+                "src": "https://assets.lovable.dev/content/news/covers/introducing-drafts-2026-11-15.png"
               },
               {
                 "t": "p",
-                "x": "Figma Weave의 공동 창업자이자 최고 크리에이티브 책임자인 Itay Schiff는 창작 과정에서 AI가 대신해 줄 수 있는 부분과 우리가 끝까지 스스로 지키려는 부분이 무엇인지 묻는다. 오늘날 많은 창작자가 글쓰기, 디자인, 편집, 연출처럼 실은 즐겨 하던 일을 AI로 처리한다. 그에게 문제는 AI를 쓸지 말지가 아니라 어느 부분을 자동화할지다."
+                "x": "뛰어난 빌더는 실험하고, 만지작거리고, 다듬는다. 이제 당신과 팀은 여러 아이디어를 동시에 시도하고, 마음에 드는 것을 고르기 전에 실제 환경에서 어떻게 보일지 확인할 수 있다. 그동안 라이브 앱은 그대로 유지된다."
               },
               {
                 "t": "p",
-                "x": "마찰에는 가치가 있을 수 있다. 트래커 제거, 프리비즈 제작, 그린 스크린 키잉처럼 지루한 VFX 작업은 대부분이 기꺼이 내려놓을 노동이다. 그러나 어떤 마찰은 노동이 아니라 생각이 일어나는 자리다. 그저 노동일 뿐인가? 그렇다면 기계에 맡기면 된다."
+                "x": "드래프트로 디자인부터 데이터베이스까지 앱 전체를 원하는 만큼 복사할 수 있다. 드래프트마다 채팅과 미리보기가 따로 있어 팀이 각자 다른 버전을 작업하고 나란히 비교할 수 있다. 드래프트를 수락하고 게시하기 전까지는 아무것도 라이브에 반영되지 않는다."
+              },
+              {
+                "t": "video",
+                "src": "https://assets.lovable.dev/content/news/introducing-drafts/drafts-overview-2026-11-16.mp4"
               },
               {
                 "t": "p",
-                "x": "생성은 저작이 아니다. AI 모델의 첫 결과물은 완성된 듯 보이지만, 같은 프레임은 누구라도 생성할 수 있었다. Figma Weave에서 Seedance 2.5로 생성한 Gaussian splat 캠페인에서 v1은 빠르게 나왔지만 완성과는 거리가 멀었고, 팀은 스토리와 캐릭터, 스타일링을 계속 다듬어 나갔다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/6ff46e4235ab02c904cb2673573d5fefd08312aa-3264x1836.png?w=3264&h=1836&q=75&fit=crop&crop=focalpoint&auto=format",
-                "cap": "Figma Design에 표시된 “Spring Arrivals” 캠페인 디자인과 그 옆에 연결된 Weave의 Figma 노드."
+                "x": "팀원이나 클라이언트가 기존 앱을 건드리지 않고 자기 드래프트에서 변경할 수 있다. 모든 드래프트에는 예시 데이터가 채워져 있어, 빈 페이지 대신 예약이 꽉 찬 캘린더, 가득 찬 주문 내역, 긴 가입자 목록과 함께 아이디어를 볼 수 있다. Lovable에 여러 버전을 만들어 달라고 한 뒤 마음에 드는 것만 남길 수도 있다."
               },
               {
                 "t": "p",
-                "x": "Schiff는 탐색을 위한 “열린 모드”와, 결정을 확정하고 자동화하는 “닫힌 모드”를 설명한다. AI에 무언가를 넘기기 전에 먼저 그것을 살펴봐야 한다. 특히 가장 유혹적인 순간일수록 생각까지 자동화해 버리지 않도록 조심해야 한다."
+                "x": "\"드래프트로 여러 기능과 레이아웃, UX를 나란히 테스트한 뒤 가장 잘 맞는 것을 남긴다.\" OLX Global의 Director of Product Design & Research인 Shane Stuart의 말이다."
+              },
+              {
+                "t": "p",
+                "x": "프로젝트를 열고 편집기 상단의 프로젝트 이름을 클릭한 뒤 \"New draft\"를 누른다. 드래프트가 마음에 들면 수락을 눌러 변경 사항을 프로젝트에 더하고, 게시를 눌러 라이브로 내보낸다. 테스트 중 추가한 데이터는 드래프트 안에만 머물고 수락하거나 삭제하면 지워지므로, 실제 고객 데이터 옆에 섞일 일이 없다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "デザイナーがAIに渡すもの\n手元に残すもの",
-          "body": "Figmaは、デザイナーが創作のどこをAIに任せ、どこを手放さないかを考察する。",
-          "mini_headline": "デザイナーが引くAIの線",
+          "headline": "Lovable Drafts\n公開せずにチームで試す",
+          "body": "Lovable Draftsで公開中のアプリはそのままにチームが複数案を並行して試せる。",
+          "mini_headline": "LovableにDrafts追加",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/4791f6c2acbf0d3121abf8a8f3e7aa3c6b7c4ae9-3264x1836.png?w=1632&h=918&q=75&fit=max&auto=format",
-                "cap": "ヒーローイラスト：Jose Flores"
+                "src": "https://assets.lovable.dev/content/news/covers/introducing-drafts-2026-11-15.png"
               },
               {
                 "t": "p",
-                "x": "Figma Weaveの共同創業者で最高クリエイティブ責任者のItay Schiffは、創作プロセスのうちAIに任せられる部分と、自分たちの手に残しておきたい部分はどこかを問う。今日、多くのクリエイターが、文章、デザイン、編集、演出など、本来は楽しんでいた作業にAIを使っている。彼にとって問題はAIを使うかどうかではなく、どの部分を自動化するかだ。"
+                "x": "優れたビルダーは実験し、いじり、微調整する。これからはチームで複数のアイデアを並行して試し、お気に入りを選ぶ前に実際の環境でどう見えるかを確かめられる。その間も公開中のアプリには手が加わらない。"
               },
               {
                 "t": "p",
-                "x": "摩擦には価値がありうる。トラッカーの除去、プリビズの構築、グリーンスクリーンの抜きといった退屈なVFX工程は、多くの人が喜んで手放す労働だ。だが、ある種の摩擦は労働ではなく、思考が生まれる場所である。それは単なる労働か。ならば機械に任せればよい。"
+                "x": "ドラフトを使えば、デザインからデータベースまでアプリ全体を何度でも複製できる。各ドラフトには専用のチャットとプレビューがあり、チームで別々のバージョンに取り組んで並べて比較できる。ドラフトを承認して公開を押すまで、何も本番には反映されない。"
+              },
+              {
+                "t": "video",
+                "src": "https://assets.lovable.dev/content/news/introducing-drafts/drafts-overview-2026-11-16.mp4"
               },
               {
                 "t": "p",
-                "x": "生成は作者性ではない。AIモデルの最初の出力は完成品のように見えるが、同じフレームは誰でも生成できた。Figma WeaveでSeedance 2.5を使って生成したGaussian splatキャンペーンでは、v1はすぐにできたものの完成には程遠く、チームはストーリー、キャラクター、スタイリングを練り続けた。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/6ff46e4235ab02c904cb2673573d5fefd08312aa-3264x1836.png?w=3264&h=1836&q=75&fit=crop&crop=focalpoint&auto=format",
-                "cap": "Figma Designで表示した「Spring Arrivals」キャンペーンのデザインと、その横にあるWeave内の連携したFigmaノード。"
+                "x": "チームメイトやクライアントは、既存のアプリを変えずに自分のドラフトで変更を加えられる。どのドラフトにもサンプルデータが入っているので、空のページではなく、予約で埋まったカレンダーや充実した注文履歴、長い登録者リストとともにアイデアを確認できる。Lovableに別バージョンを作らせ、気に入ったものだけを残すこともできる。"
               },
               {
                 "t": "p",
-                "x": "Schiffは、探索のための「オープンモード」と、決定を確定して自動化するための「クローズドモード」について語る。AIに何かを渡す前に、まずそれを吟味すること。特にそうしたくなるときほど、思考まで自動化してしまわないよう注意が必要だ。"
+                "x": "「ドラフトでさまざまな機能やレイアウト、UXを並べてテストし、最も効果的なものを残している」と、OLX GlobalのDirector of Product Design & ResearchであるShane Stuartは語る。"
+              },
+              {
+                "t": "p",
+                "x": "プロジェクトを開き、エディタ上部のプロジェクト名をクリックして「New draft」を押す。ドラフトに満足したら承認を押して変更をプロジェクトに取り込み、公開を押して本番に反映する。テスト中に追加したデータはドラフト内にとどまり、承認または削除した時点で消去されるため、実際の顧客データと混ざることはない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "设计师把什么交给AI\n又把什么留给自己",
-          "body": "Figma探讨设计师会把创作流程的哪些部分交给AI，又坚持保留哪些。",
-          "mini_headline": "设计师为AI划线",
+          "headline": "Lovable Drafts\n团队无需上线即可探索",
+          "body": "借助Lovable Drafts，团队可在线上应用不变的情况下并行探索项目的不同版本。",
+          "mini_headline": "Lovable 推出 Drafts",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/4791f6c2acbf0d3121abf8a8f3e7aa3c6b7c4ae9-3264x1836.png?w=1632&h=918&q=75&fit=max&auto=format",
-                "cap": "头图插画：Jose Flores"
+                "src": "https://assets.lovable.dev/content/news/covers/introducing-drafts-2026-11-15.png"
               },
               {
                 "t": "p",
-                "x": "Figma Weave联合创始人兼首席创意官Itay Schiff提出了一个问题：创作过程中哪些部分可以交给AI，哪些部分我们坚持留给自己？如今，许多创意工作者正在用AI去做他们其实乐在其中的事，比如写作、设计、剪辑或导演。在他看来，问题不在于要不要用AI，而在于自动化哪些部分。"
+                "x": "最优秀的构建者总在实验、摆弄和微调。现在，你和团队可以并行尝试不同的想法，在选定最喜欢的方案之前看看它们在真实环境中的样子，而线上应用始终保持不变。"
               },
               {
                 "t": "p",
-                "x": "摩擦可能是有价值的。去除跟踪点、制作预演、抠绿幕等繁琐的VFX步骤，是大多数人乐于放手的劳动。但有些摩擦并非劳动，而是思考发生的地方。如果只是劳动？那就交给机器。"
+                "x": "借助草稿，你可以随意多次复制整个应用，从设计到数据库。每个草稿都有独立的聊天和预览，团队可以分别处理不同版本并并排比较。在你接受草稿并点击发布之前，任何内容都不会上线。"
+              },
+              {
+                "t": "video",
+                "src": "https://assets.lovable.dev/content/news/introducing-drafts/drafts-overview-2026-11-16.mp4"
               },
               {
                 "t": "p",
-                "x": "生成不等于创作。AI模型的第一版输出看起来已经完成，但任何人都可能生成同样的画面。在Figma Weave中用Seedance 2.5生成的一个Gaussian splat营销活动里，v1很快就出来了，却远未完成；团队继续围绕故事、角色和造型反复打磨。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/6ff46e4235ab02c904cb2673573d5fefd08312aa-3264x1836.png?w=3264&h=1836&q=75&fit=crop&crop=focalpoint&auto=format",
-                "cap": "在Figma Design中展示的“Spring Arrivals”活动设计，旁边是Weave中与之相连的Figma节点。"
+                "x": "让队友或客户在各自的草稿里修改，而不改动现有应用。每个草稿都预先填好示例数据，所以你看到的不是空白页面，而是带着排满的预约日历、完整的订单记录或一长串注册名单的创意。你甚至可以让 Lovable 为你生成不同版本，再保留喜欢的那些。"
               },
               {
                 "t": "p",
-                "x": "Schiff描述了用于探索的“开放模式”和用于确定决策、实现自动化的“封闭模式”。在把某件事交给AI之前，先审视它。尤其在最有诱惑力的时候，要小心别把思考也自动化掉。"
+                "x": "“我们用草稿并排测试不同的功能、布局和 UX，然后保留效果最好的。”OLX Global 的 Director of Product Design & Research Shane Stuart 说。"
+              },
+              {
+                "t": "p",
+                "x": "打开项目，点击编辑器顶部的项目名称，再点击“New draft”。对草稿满意后，点击接受，将其更改加入项目，再点击发布让它们上线。测试时添加的数据只留在草稿中，在你接受或删除草稿时清除，因此绝不会与真实客户数据混在一起。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Lo que los diseñadores dejan\na la AI y lo que conservan",
-          "body": "Figma analiza qué partes del proceso creativo dejarán los diseñadores a la AI y cuáles insisten en conservar.",
-          "mini_headline": "Los diseñadores marcan el límite de la AI",
+          "headline": "Con Lovable Drafts, los equipos\nexploran sin publicar",
+          "body": "Lovable Drafts permite a los equipos explorar en paralelo varias versiones de un proyecto sin tocar la app en vivo.",
+          "mini_headline": "Lovable añade Drafts",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/4791f6c2acbf0d3121abf8a8f3e7aa3c6b7c4ae9-3264x1836.png?w=1632&h=918&q=75&fit=max&auto=format",
-                "cap": "Ilustración principal de Jose Flores"
+                "src": "https://assets.lovable.dev/content/news/covers/introducing-drafts-2026-11-15.png"
               },
               {
                 "t": "p",
-                "x": "Itay Schiff, cofundador y director creativo de Figma Weave, se pregunta qué partes del proceso creativo puede hacer la AI por nosotros y cuáles insistimos en conservar. Hoy muchas personas creativas usan la AI para hacer algo que en realidad disfrutaban, como escribir, diseñar, editar o dirigir. Para él, la cuestión no es si usar AI o no, sino qué partes automatizar."
+                "x": "Los mejores creadores experimentan, prueban y ajustan. Ahora tú y tu equipo pueden probar ideas distintas en paralelo y ver cómo se verían de verdad en el mundo real antes de elegir la favorita, mientras la app publicada sigue intacta."
               },
               {
                 "t": "p",
-                "x": "La fricción puede ser valiosa. Los pasos tediosos de VFX —quitar trackers, armar la previs, extraer el croma— son trabajo al que la mayoría renunciaría con gusto. Pero cierta fricción no es trabajo; es donde ocurre el pensamiento. ¿Es simplemente trabajo? Que lo haga la máquina."
+                "x": "Con los borradores puedes copiar toda tu app, del diseño a la base de datos, tantas veces como quieras. Cada borrador tiene su propio chat y vista previa, así que tú y tu equipo pueden trabajar en versiones separadas y compararlas lado a lado. Nada se publica hasta que aceptas un borrador y pulsas publicar."
+              },
+              {
+                "t": "video",
+                "src": "https://assets.lovable.dev/content/news/introducing-drafts/drafts-overview-2026-11-16.mp4"
               },
               {
                 "t": "p",
-                "x": "Generar no es ser autor. El primer resultado de un modelo de AI parece terminado, pero cualquiera podría haber generado ese mismo fotograma. En una campaña de Gaussian splat generada con Seedance 2.5 en Figma Weave, la v1 salió rápido y lejos de estar terminada; el equipo siguió iterando la historia, los personajes y el estilismo."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/6ff46e4235ab02c904cb2673573d5fefd08312aa-3264x1836.png?w=3264&h=1836&q=75&fit=crop&crop=focalpoint&auto=format",
-                "cap": "Diseño de la campaña “Spring Arrivals” en Figma Design junto a su nodo de Figma conectado en Weave."
+                "x": "Deja que un compañero o un cliente haga cambios en su propio borrador sin alterar la app existente. Cada borrador viene con datos de ejemplo, así que en lugar de una página vacía ves tu idea con un calendario de reservas lleno, un historial de pedidos completo o una larga lista de registros. Incluso puedes pedirle a Lovable que genere distintas versiones por ti y quedarte con las que te gusten."
               },
               {
                 "t": "p",
-                "x": "Schiff describe un “modo abierto” para explorar y un “modo cerrado” para comprometerse con decisiones y automatizar. Antes de delegar algo a la AI, conviene examinarlo primero. Hay que cuidarse de no automatizar el pensamiento, sobre todo cuando más tienta hacerlo."
+                "x": "\"Usamos los borradores para probar lado a lado distintas funciones, diseños y UX, y luego quedarnos con lo que mejor funciona\", dice Shane Stuart, Director of Product Design & Research de OLX Global."
+              },
+              {
+                "t": "p",
+                "x": "Abre un proyecto, haz clic en su nombre en la parte superior del editor y pulsa \"New draft\". Cuando un borrador te convenza, pulsa aceptar para añadir sus cambios al proyecto y luego publicar para ponerlos en vivo. Los datos que añadas durante las pruebas se quedan en el borrador y se borran al aceptarlo o eliminarlo, así que nunca se mezclan con datos reales de clientes."
               }
             ]
           }
@@ -1019,189 +787,195 @@
       }
     },
     {
-      "id": "qentin-scan-search-aec",
+      "id": "astryx-v0-skill",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI, 건물 스캔을\n검색 가능한 자산으로",
-      "body": "시설 관리자는 qentin으로 건물 스캔을 검색해 자산과 안전 설비를 찾는다.",
-      "mini_headline": "qentin, 건물 스캔을 검색하다",
-      "tool": "Text-to-CAD",
-      "source": "AEC Magazine",
-      "url": "https://aecmag.com/cafm/ai-makes-scanned-buildings-searchable/",
-      "accent": "#7928ca",
-      "motif": "cube",
+      "headline": "Meta Astryx,\nv0 디자인 스킬로",
+      "body": "Astryx가 v0 디자인 시스템 스킬로 컴포넌트·예시·템플릿을 빌드에 넣는다.",
+      "mini_headline": "Astryx, v0에 합류",
+      "tool": "Design Tokens",
+      "source": "Astryx (Meta)",
+      "url": "https://astryx.atmeta.com/blog/astryx-is-now-available-in-v0",
+      "accent": "#2ec5c5",
+      "motif": "swatch",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
+            "t": "p",
+            "x": "이제 v0에서 Astryx를 디자인 시스템 스킬로 쓸 수 있다. v0가 빌드하는 동안 가이드, 컴포넌트, 예시, 템플릿이 컨텍스트로 들어간다."
+          },
+          {
             "t": "img",
-            "src": "https://aecmag.com/wp-content/uploads/2026/11/qentin.jpg"
+            "src": "https://astryx.atmeta.com/blog/astryx-is-now-available-in-v0/cover.png",
+            "cap": "검은 배경 위 Astryx 마크 옆에 놓인 v0 로고."
           },
           {
             "t": "p",
-            "x": "qentin은 시설 관리자가 레이저 스캔으로 만든 “디지털 트윈”을 자연어로 검색하게 해 주는 AI 에이전트다. 지금은 얼리 액세스 단계이며, 오스트리아 스타트업 qapture가 만든다. qapture는 여섯 해 동안 오스트리아, 스위스, 독일 곳곳의 건물을 레이저로 스캔해 왔다. 여기에는 2백만 제곱미터가 넘는 Ikea 시설 38곳도 들어 있다."
+            "x": "이제 v0에서 Astryx를 사용할 수 있다."
           },
           {
             "t": "p",
-            "x": "건물을 스캔해 지리 좌표를 붙이면 qentin이 AI로 객체를 자동 감지해 라벨을 달고 위치를 잡는다. 문자 인식으로 스캔 속 라벨과 자산 태그도 읽어 낸다. 사용자가 독일어나 영어로 물으면 3D 뷰어의 특정 위치에 고정된 답이 돌아온다."
+            "x": "v0에서 디자인 시스템은 에이전트 스킬로 작동한다. 빌더가 프로젝트에 Astryx를 고르면 v0는 빌드하는 동안 그 가이드, 컴포넌트, 예시, 템플릿을 컨텍스트로 불러온다."
           },
           {
             "t": "p",
-            "x": "“오늘날 건물에 관한 지식은 Excel 목록, 오래된 도면, PDF 보고서, 그리고 몇몇 사람의 머릿속에 있습니다. qentin과 함께라면 그 지식은 건물 자체에 담기고, 그냥 물어보면 됩니다.” qapture의 CEO이자 공동 창업자인 Daniel Höller의 말이다."
-          },
-          {
-            "t": "p",
-            "x": "Energie AG Oberösterreich는 이미 실제 운영에 qentin을 쓴다. Qapture가 캡처한 Energie AG 시설은 137곳, 면적은 730,000제곱미터이며 수력발전소 43곳이 포함되고 자동 감지된 라벨은 6,300개다. 대피 경로와 화재 방지 조치를 점검하는 데도 쓰인다."
+            "x": "Vercel과 함께한 이번 작업은 디자인 시스템이 사람과 에이전트를 함께 돕는다는 게 무엇인지, 시스템 지식이 창작하는 순간에도 어떻게 쓸모를 잃지 않는지 탐색하는 한 방법이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI turns building scans\ninto searchable assets",
-          "body": "qentin lets facility managers query building scans to find assets, check safety features and explore digital twins.",
-          "mini_headline": "qentin searches building scans",
+          "headline": "Meta's Astryx arrives\nin v0 as a design skill",
+          "body": "Astryx now works as a design-system skill in v0, feeding its components, examples, and templates into each build.",
+          "mini_headline": "Astryx comes to v0",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "Astryx is now available in v0 as a design-system skill, bringing guidance, components, examples, and templates into context as v0 builds."
+              },
+              {
                 "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/qentin.jpg"
+                "src": "https://astryx.atmeta.com/blog/astryx-is-now-available-in-v0/cover.png",
+                "cap": "The v0 logo beside the Astryx mark on a black background."
               },
               {
                 "t": "p",
-                "x": "qentin is an AI agent that lets facility managers search laser-scanned “digital twins” using natural language. Currently in early access, it is developed by Austrian startup qapture, which has spent six years laser scanning buildings across Austria, Switzerland and Germany, including 38 Ikea sites covering more than 2 million square metres."
+                "x": "Astryx is now available in v0."
               },
               {
                 "t": "p",
-                "x": "Once a building has been scanned and georeferenced, qentin uses AI to automatically detect, label and locate objects, and reads labels and asset tags from the scans using text recognition. Users ask questions in German or English and receive answers pinned to a location in the 3D viewer."
+                "x": "In v0, a design system is an agent skill. Builders can choose Astryx for a project, bringing its guidance, components, examples, and templates into context as v0 builds."
               },
               {
                 "t": "p",
-                "x": "“Today, knowledge about a building sits in Excel lists, old drawings, PDF reports and in the heads of a few people. With qentin it sits in the building itself, and you can simply ask,” says Daniel Höller, CEO and co-founder of qapture."
-              },
-              {
-                "t": "p",
-                "x": "Energie AG Oberösterreich already uses qentin in live operations. Qapture has captured 137 Energie AG sites, covering 730,000 square metres and 43 hydropower plants, with 6,300 automatically detected labels. Other uses include checking escape routes and fire protection measures."
+                "x": "This collaboration with Vercel is one way we are exploring what it means for a design system to support both people and agents, and how system knowledge can remain useful at the moment of creation."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI, 건물 스캔을\n검색 가능한 자산으로",
-          "body": "시설 관리자는 qentin으로 건물 스캔을 검색해 자산과 안전 설비를 찾는다.",
-          "mini_headline": "qentin, 건물 스캔을 검색하다",
+          "headline": "Meta Astryx,\nv0 디자인 스킬로",
+          "body": "Astryx가 v0 디자인 시스템 스킬로 컴포넌트·예시·템플릿을 빌드에 넣는다.",
+          "mini_headline": "Astryx, v0에 합류",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "이제 v0에서 Astryx를 디자인 시스템 스킬로 쓸 수 있다. v0가 빌드하는 동안 가이드, 컴포넌트, 예시, 템플릿이 컨텍스트로 들어간다."
+              },
+              {
                 "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/qentin.jpg"
+                "src": "https://astryx.atmeta.com/blog/astryx-is-now-available-in-v0/cover.png",
+                "cap": "검은 배경 위 Astryx 마크 옆에 놓인 v0 로고."
               },
               {
                 "t": "p",
-                "x": "qentin은 시설 관리자가 레이저 스캔으로 만든 “디지털 트윈”을 자연어로 검색하게 해 주는 AI 에이전트다. 지금은 얼리 액세스 단계이며, 오스트리아 스타트업 qapture가 만든다. qapture는 여섯 해 동안 오스트리아, 스위스, 독일 곳곳의 건물을 레이저로 스캔해 왔다. 여기에는 2백만 제곱미터가 넘는 Ikea 시설 38곳도 들어 있다."
+                "x": "이제 v0에서 Astryx를 사용할 수 있다."
               },
               {
                 "t": "p",
-                "x": "건물을 스캔해 지리 좌표를 붙이면 qentin이 AI로 객체를 자동 감지해 라벨을 달고 위치를 잡는다. 문자 인식으로 스캔 속 라벨과 자산 태그도 읽어 낸다. 사용자가 독일어나 영어로 물으면 3D 뷰어의 특정 위치에 고정된 답이 돌아온다."
+                "x": "v0에서 디자인 시스템은 에이전트 스킬로 작동한다. 빌더가 프로젝트에 Astryx를 고르면 v0는 빌드하는 동안 그 가이드, 컴포넌트, 예시, 템플릿을 컨텍스트로 불러온다."
               },
               {
                 "t": "p",
-                "x": "“오늘날 건물에 관한 지식은 Excel 목록, 오래된 도면, PDF 보고서, 그리고 몇몇 사람의 머릿속에 있습니다. qentin과 함께라면 그 지식은 건물 자체에 담기고, 그냥 물어보면 됩니다.” qapture의 CEO이자 공동 창업자인 Daniel Höller의 말이다."
-              },
-              {
-                "t": "p",
-                "x": "Energie AG Oberösterreich는 이미 실제 운영에 qentin을 쓴다. Qapture가 캡처한 Energie AG 시설은 137곳, 면적은 730,000제곱미터이며 수력발전소 43곳이 포함되고 자동 감지된 라벨은 6,300개다. 대피 경로와 화재 방지 조치를 점검하는 데도 쓰인다."
+                "x": "Vercel과 함께한 이번 작업은 디자인 시스템이 사람과 에이전트를 함께 돕는다는 게 무엇인지, 시스템 지식이 창작하는 순간에도 어떻게 쓸모를 잃지 않는지 탐색하는 한 방법이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIが建物スキャンを\n検索可能な資産に",
-          "body": "qentinで施設管理者は建物スキャンを検索し、資産や安全設備を確認できる。",
-          "mini_headline": "qentin、建物スキャンを検索",
+          "headline": "MetaのAstryx\nv0のデザインスキルに",
+          "body": "Astryxがv0のデザインシステムスキルとなり部品や例、テンプレートをビルドに供給する。",
+          "mini_headline": "Astryxがv0に登場",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "Astryxがv0でデザインシステムスキルとして利用可能になり、v0がビルドする際にガイダンス、コンポーネント、例、テンプレートをコンテキストに取り込む。"
+              },
+              {
                 "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/qentin.jpg"
+                "src": "https://astryx.atmeta.com/blog/astryx-is-now-available-in-v0/cover.png",
+                "cap": "黒い背景にAstryxのマークと並ぶv0のロゴ。"
               },
               {
                 "t": "p",
-                "x": "qentinは、施設管理者がレーザースキャンした「デジタルツイン」を自然言語で検索できるAIエージェントだ。現在はアーリーアクセス段階で、オーストリアのスタートアップqaptureが開発している。同社は六年にわたりオーストリア、スイス、ドイツの建物をレーザースキャンしてきた。その中には2百万平方メートルを超えるIkeaの拠点38か所も含まれる。"
+                "x": "Astryxがv0で利用可能になった。"
               },
               {
                 "t": "p",
-                "x": "建物をスキャンしてジオリファレンスを施すと、qentinはAIで物体を自動的に検出・ラベル付け・位置特定し、文字認識によってスキャンからラベルや資産タグを読み取る。ユーザーはドイツ語か英語で質問し、3Dビューア内の位置に紐づいた回答を受け取る。"
+                "x": "v0では、デザインシステムはエージェントスキルである。ビルダーはプロジェクトにAstryxを選択でき、v0がビルドする際にそのガイダンス、コンポーネント、例、テンプレートがコンテキストに取り込まれる。"
               },
               {
                 "t": "p",
-                "x": "「今日、建物に関する知識はExcelのリストや古い図面、PDFの報告書、そして数人の頭の中にある。qentinがあれば、知識は建物そのものの中にあり、ただ尋ねればいい」と、qaptureのCEO兼共同創業者Daniel Höllerは語る。"
-              },
-              {
-                "t": "p",
-                "x": "Energie AG Oberösterreichはすでに実運用でqentinを使っている。QaptureはEnergie AGの137拠点を取り込み、その面積は730,000平方メートル、水力発電所は43か所にのぼり、自動検出されたラベルは6,300件に達する。避難経路や防火対策の確認にも使われている。"
+                "x": "Vercelとのこの協業は、デザインシステムが人とエージェントの両方を支えるとはどういうことか、そしてシステムの知識が創作の瞬間にどう役立ち続けられるかを探る試みの一つだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI让建筑扫描\n变成可搜索的资产",
-          "body": "借助qentin，设施管理者可查询建筑扫描，查找资产、检查安全设施并探索数字孪生。",
-          "mini_headline": "qentin检索建筑扫描",
+          "headline": "Meta的Astryx\n以设计技能登陆v0",
+          "body": "Astryx现已作为设计系统技能进入v0，在每次构建中提供组件、示例和模板。",
+          "mini_headline": "Astryx 登陆 v0",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "Astryx 现已作为设计系统技能登陆 v0，在 v0 构建时将指导原则、组件、示例和模板带入上下文。"
+              },
+              {
                 "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/qentin.jpg"
+                "src": "https://astryx.atmeta.com/blog/astryx-is-now-available-in-v0/cover.png",
+                "cap": "黑色背景上，v0 标志与 Astryx 标识并排。"
               },
               {
                 "t": "p",
-                "x": "qentin是一款AI智能体，让设施管理者能用自然语言搜索激光扫描生成的“数字孪生”。它目前处于抢先体验阶段，由奥地利初创公司qapture开发。qapture六年来一直在奥地利、瑞士和德国各地对建筑进行激光扫描，其中包括38处Ikea场所，面积超过2百万平方米。"
+                "x": "Astryx 现已登陆 v0。"
               },
               {
                 "t": "p",
-                "x": "建筑完成扫描和地理配准后，qentin利用AI自动检测、标注并定位物体，并借助文字识别从扫描中读取标签和资产标签。用户可用德语或英语提问，得到的答案会固定在3D查看器中的某个位置。"
+                "x": "在 v0 中，设计系统就是一项代理技能。构建者可以为项目选择 Astryx，让 v0 在构建时把它的指导原则、组件、示例和模板带入上下文。"
               },
               {
                 "t": "p",
-                "x": "“如今，关于一栋建筑的知识散落在Excel列表、旧图纸、PDF报告和少数人的脑子里。有了qentin，知识就存在于建筑本身，你只需开口询问。”qapture的CEO兼联合创始人Daniel Höller说。"
-              },
-              {
-                "t": "p",
-                "x": "Energie AG Oberösterreich已在实际运营中使用qentin。Qapture已采集Energie AG的137处场所，覆盖730,000平方米和43座水电站，自动识别出6,300个标签。其他用途还包括检查逃生路线和防火措施。"
+                "x": "与 Vercel 的这次合作，是我们探索设计系统如何同时支持人和代理、以及系统知识如何在创作当下保持有用的一种方式。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La AI convierte escaneos\nen activos consultables",
-          "body": "qentin permite consultar escaneos de edificios para hallar activos, revisar la seguridad y explorar gemelos digitales.",
-          "mini_headline": "qentin busca en escaneos de edificios",
+          "headline": "Astryx de Meta llega a v0\ncomo habilidad de diseño",
+          "body": "Astryx funciona en v0 como habilidad de sistema de diseño y aporta componentes, ejemplos y plantillas a cada build.",
+          "mini_headline": "Astryx llega a v0",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "Astryx ya está disponible en v0 como habilidad de sistema de diseño, y aporta pautas, componentes, ejemplos y plantillas al contexto mientras v0 construye."
+              },
+              {
                 "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/qentin.jpg"
+                "src": "https://astryx.atmeta.com/blog/astryx-is-now-available-in-v0/cover.png",
+                "cap": "El logo de v0 junto a la marca de Astryx sobre fondo negro."
               },
               {
                 "t": "p",
-                "x": "qentin es un agente de AI que permite a los responsables de instalaciones buscar en “gemelos digitales” escaneados con láser usando lenguaje natural. Actualmente en acceso anticipado, lo desarrolla la startup austriaca qapture, que lleva seis años escaneando con láser edificios en Austria, Suiza y Alemania, incluidas 38 sedes de Ikea que suman más de 2 millones de metros cuadrados."
+                "x": "Astryx ya está disponible en v0."
               },
               {
                 "t": "p",
-                "x": "Una vez escaneado y georreferenciado un edificio, qentin usa AI para detectar, etiquetar y ubicar objetos automáticamente, y lee etiquetas y placas de activos de los escaneos mediante reconocimiento de texto. Los usuarios preguntan en alemán o inglés y reciben respuestas ancladas a una ubicación en el visor 3D."
+                "x": "En v0, un sistema de diseño es una habilidad de agente. Los creadores pueden elegir Astryx para un proyecto y llevar sus pautas, componentes, ejemplos y plantillas al contexto mientras v0 construye."
               },
               {
                 "t": "p",
-                "x": "“Hoy, el conocimiento sobre un edificio está en listas de Excel, planos antiguos, informes en PDF y en la cabeza de unas pocas personas. Con qentin está en el propio edificio, y basta con preguntar”, dice Daniel Höller, CEO y cofundador de qapture."
-              },
-              {
-                "t": "p",
-                "x": "Energie AG Oberösterreich ya usa qentin en operaciones reales. Qapture ha capturado 137 sedes de Energie AG, que abarcan 730,000 metros cuadrados y 43 centrales hidroeléctricas, con 6,300 etiquetas detectadas automáticamente. Otros usos incluyen revisar rutas de evacuación y medidas de protección contra incendios."
+                "x": "Esta colaboración con Vercel es una de las formas en que exploramos qué significa que un sistema de diseño dé soporte tanto a personas como a agentes, y cómo el conocimiento del sistema puede seguir siendo útil en el momento de la creación."
               }
             ]
           }
@@ -1209,121 +983,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI, 건물 스캔을\n검색 가능한 자산으로",
-          "body": "qentin으로 시설 관리자는 건물 스캔을 검색해 자산과 안전 설비를 찾는다.",
-          "mini_headline": "qentin, 건물 스캔을 검색하다",
+          "headline": "Meta Astryx,\nv0 디자인 스킬로",
+          "body": "Astryx가 v0 디자인 시스템 스킬로 컴포넌트·예시·템플릿을 빌드에 넣는다.",
+          "mini_headline": "Astryx, v0에 합류",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "이제 v0에서 Astryx를 디자인 시스템 스킬로 쓸 수 있다. v0가 빌드하는 동안 가이드, 컴포넌트, 예시, 템플릿이 컨텍스트로 들어간다."
+              },
+              {
                 "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/qentin.jpg"
+                "src": "https://astryx.atmeta.com/blog/astryx-is-now-available-in-v0/cover.png",
+                "cap": "검은 배경 위 Astryx 마크 옆에 놓인 v0 로고."
               },
               {
                 "t": "p",
-                "x": "qentin은 시설 관리자가 레이저 스캔으로 만든 “디지털 트윈”을 자연어로 검색할 수 있게 해 주는 AI 에이전트다. 현재 얼리 액세스 단계로, 오스트리아 스타트업 qapture가 개발한다. qapture는 여섯 해 동안 오스트리아, 스위스, 독일 전역의 건물을 레이저 스캔해 왔으며, 여기에는 2백만 제곱미터가 넘는 Ikea 시설 38곳도 포함된다."
+                "x": "이제 v0에서 Astryx를 사용할 수 있다."
               },
               {
                 "t": "p",
-                "x": "건물을 스캔하고 지리 좌표를 부여하면, qentin은 AI로 객체를 자동 감지해 라벨을 붙이고 위치를 파악하며, 문자 인식으로 스캔 속 라벨과 자산 태그를 읽어 낸다. 사용자가 독일어나 영어로 질문하면 3D 뷰어 속 특정 위치에 고정된 답을 받는다."
+                "x": "v0에서 디자인 시스템은 에이전트 스킬이다. 빌더는 프로젝트에 Astryx를 선택해, v0가 빌드하는 동안 그 가이드, 컴포넌트, 예시, 템플릿을 컨텍스트로 불러올 수 있다."
               },
               {
                 "t": "p",
-                "x": "“오늘날 건물에 관한 지식은 Excel 목록, 오래된 도면, PDF 보고서, 그리고 몇몇 사람의 머릿속에 있습니다. qentin과 함께라면 그 지식은 건물 자체에 담기고, 그냥 물어보면 됩니다.” qapture의 CEO이자 공동 창업자인 Daniel Höller의 말이다."
-              },
-              {
-                "t": "p",
-                "x": "Energie AG Oberösterreich는 이미 실제 운영에 qentin을 쓰고 있다. Qapture는 Energie AG 시설 137곳을 캡처했으며, 그 규모는 730,000제곱미터와 수력발전소 43곳에 이르고 자동 감지된 라벨은 6,300개다. 이 밖에 대피 경로와 화재 방지 조치 점검에도 쓰인다."
+                "x": "Vercel과의 이번 협업은 디자인 시스템이 사람과 에이전트를 함께 지원한다는 것이 무엇인지, 그리고 시스템 지식이 창작의 순간에도 어떻게 쓸모를 유지할 수 있는지 탐색하는 한 방법이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIが建物スキャンを\n検索可能な資産に",
-          "body": "qentinで施設管理者は建物スキャンを検索し、資産や安全設備を確認できる。",
-          "mini_headline": "qentin、建物スキャンを検索",
+          "headline": "MetaのAstryx\nv0のデザインスキルに",
+          "body": "Astryxがv0のデザインシステムスキルとなり部品や例、テンプレートをビルドに供給する。",
+          "mini_headline": "Astryxがv0に登場",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "Astryxがv0でデザインシステムスキルとして利用可能になり、v0がビルドする際にガイダンス、コンポーネント、例、テンプレートをコンテキストに取り込む。"
+              },
+              {
                 "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/qentin.jpg"
+                "src": "https://astryx.atmeta.com/blog/astryx-is-now-available-in-v0/cover.png",
+                "cap": "黒い背景にAstryxのマークと並ぶv0のロゴ。"
               },
               {
                 "t": "p",
-                "x": "qentinは、施設管理者がレーザースキャンした「デジタルツイン」を自然言語で検索できるAIエージェントだ。現在はアーリーアクセス段階で、オーストリアのスタートアップqaptureが開発している。同社は六年にわたりオーストリア、スイス、ドイツの建物をレーザースキャンしてきた。その中には2百万平方メートルを超えるIkeaの拠点38か所も含まれる。"
+                "x": "Astryxがv0で利用可能になった。"
               },
               {
                 "t": "p",
-                "x": "建物をスキャンしてジオリファレンスを施すと、qentinはAIで物体を自動的に検出・ラベル付け・位置特定し、文字認識によってスキャンからラベルや資産タグを読み取る。ユーザーはドイツ語か英語で質問し、3Dビューア内の位置に紐づいた回答を受け取る。"
+                "x": "v0では、デザインシステムはエージェントスキルである。ビルダーはプロジェクトにAstryxを選択でき、v0がビルドする際にそのガイダンス、コンポーネント、例、テンプレートがコンテキストに取り込まれる。"
               },
               {
                 "t": "p",
-                "x": "「今日、建物に関する知識はExcelのリストや古い図面、PDFの報告書、そして数人の頭の中にある。qentinがあれば、知識は建物そのものの中にあり、ただ尋ねればいい」と、qaptureのCEO兼共同創業者Daniel Höllerは語る。"
-              },
-              {
-                "t": "p",
-                "x": "Energie AG Oberösterreichはすでに実運用でqentinを使っている。QaptureはEnergie AGの137拠点を取り込み、その面積は730,000平方メートル、水力発電所は43か所にのぼり、自動検出されたラベルは6,300件に達する。避難経路や防火対策の確認にも使われている。"
+                "x": "Vercelとのこの協業は、デザインシステムが人とエージェントの両方を支えるとはどういうことか、そしてシステムの知識が創作の瞬間にどう役立ち続けられるかを探る試みの一つだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI让建筑扫描\n变成可搜索的资产",
-          "body": "借助qentin，设施管理者可查询建筑扫描，查找资产、检查安全设施并探索数字孪生。",
-          "mini_headline": "qentin检索建筑扫描",
+          "headline": "Meta的Astryx\n以设计技能登陆v0",
+          "body": "Astryx现已作为设计系统技能进入v0，在每次构建中提供组件、示例和模板。",
+          "mini_headline": "Astryx 登陆 v0",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "Astryx 现已作为设计系统技能登陆 v0，在 v0 构建时将指导原则、组件、示例和模板带入上下文。"
+              },
+              {
                 "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/qentin.jpg"
+                "src": "https://astryx.atmeta.com/blog/astryx-is-now-available-in-v0/cover.png",
+                "cap": "黑色背景上，v0 标志与 Astryx 标识并排。"
               },
               {
                 "t": "p",
-                "x": "qentin是一款AI智能体，让设施管理者能用自然语言搜索激光扫描生成的“数字孪生”。它目前处于抢先体验阶段，由奥地利初创公司qapture开发。qapture六年来一直在奥地利、瑞士和德国各地对建筑进行激光扫描，其中包括38处Ikea场所，面积超过2百万平方米。"
+                "x": "Astryx 现已登陆 v0。"
               },
               {
                 "t": "p",
-                "x": "建筑完成扫描和地理配准后，qentin利用AI自动检测、标注并定位物体，并借助文字识别从扫描中读取标签和资产标签。用户可用德语或英语提问，得到的答案会固定在3D查看器中的某个位置。"
+                "x": "在 v0 中，设计系统就是一项代理技能。构建者可以为项目选择 Astryx，让 v0 在构建时把它的指导原则、组件、示例和模板带入上下文。"
               },
               {
                 "t": "p",
-                "x": "“如今，关于一栋建筑的知识散落在Excel列表、旧图纸、PDF报告和少数人的脑子里。有了qentin，知识就存在于建筑本身，你只需开口询问。”qapture的CEO兼联合创始人Daniel Höller说。"
-              },
-              {
-                "t": "p",
-                "x": "Energie AG Oberösterreich已在实际运营中使用qentin。Qapture已采集Energie AG的137处场所，覆盖730,000平方米和43座水电站，自动识别出6,300个标签。其他用途还包括检查逃生路线和防火措施。"
+                "x": "与 Vercel 的这次合作，是我们探索设计系统如何同时支持人和代理、以及系统知识如何在创作当下保持有用的一种方式。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La AI convierte escaneos\nen activos consultables",
-          "body": "qentin permite consultar escaneos de edificios para hallar activos, revisar la seguridad y explorar gemelos digitales.",
-          "mini_headline": "qentin busca en escaneos de edificios",
+          "headline": "Astryx de Meta llega a v0\ncomo habilidad de diseño",
+          "body": "Astryx funciona en v0 como habilidad de sistema de diseño y aporta componentes, ejemplos y plantillas a cada build.",
+          "mini_headline": "Astryx llega a v0",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "Astryx ya está disponible en v0 como habilidad de sistema de diseño, y aporta pautas, componentes, ejemplos y plantillas al contexto mientras v0 construye."
+              },
+              {
                 "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/qentin.jpg"
+                "src": "https://astryx.atmeta.com/blog/astryx-is-now-available-in-v0/cover.png",
+                "cap": "El logo de v0 junto a la marca de Astryx sobre fondo negro."
               },
               {
                 "t": "p",
-                "x": "qentin es un agente de AI que permite a los responsables de instalaciones buscar en “gemelos digitales” escaneados con láser usando lenguaje natural. Actualmente en acceso anticipado, lo desarrolla la startup austriaca qapture, que lleva seis años escaneando con láser edificios en Austria, Suiza y Alemania, incluidas 38 sedes de Ikea que suman más de 2 millones de metros cuadrados."
+                "x": "Astryx ya está disponible en v0."
               },
               {
                 "t": "p",
-                "x": "Una vez escaneado y georreferenciado un edificio, qentin usa AI para detectar, etiquetar y ubicar objetos automáticamente, y lee etiquetas y placas de activos de los escaneos mediante reconocimiento de texto. Los usuarios preguntan en alemán o inglés y reciben respuestas ancladas a una ubicación en el visor 3D."
+                "x": "En v0, un sistema de diseño es una habilidad de agente. Los creadores pueden elegir Astryx para un proyecto y llevar sus pautas, componentes, ejemplos y plantillas al contexto mientras v0 construye."
               },
               {
                 "t": "p",
-                "x": "“Hoy, el conocimiento sobre un edificio está en listas de Excel, planos antiguos, informes en PDF y en la cabeza de unas pocas personas. Con qentin está en el propio edificio, y basta con preguntar”, dice Daniel Höller, CEO y cofundador de qapture."
-              },
-              {
-                "t": "p",
-                "x": "Energie AG Oberösterreich ya usa qentin en operaciones reales. Qapture ha capturado 137 sedes de Energie AG, que abarcan 730,000 metros cuadrados y 43 centrales hidroeléctricas, con 6,300 etiquetas detectadas automáticamente. Otros usos incluyen revisar rutas de evacuación y medidas de protección contra incendios."
+                "x": "Esta colaboración con Vercel es una de las formas en que exploramos qué significa que un sistema de diseño dé soporte tanto a personas como a agentes, y cómo el conocimiento del sistema puede seguir siendo útil en el momento de la creación."
               }
             ]
           }
@@ -1331,189 +1109,237 @@
       }
     },
     {
-      "id": "simscale-ai-blueprint-nvidia",
+      "id": "gemini-notebook-sites",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "SimScale 청사진,\nAI 시뮬레이션 본격화",
-      "body": "SimScale이 NVIDIA 도구로 AI-driven 시뮬레이션 확산을 돕는다.",
-      "mini_headline": "SimScale의 AI Blueprint",
-      "tool": "Text-to-CAD",
-      "source": "Engineering.com",
-      "url": "https://www.engineering.com/simscale-launches-engineering-ai-blueprint/",
-      "accent": "#3b6bff",
-      "motif": "cube",
+      "headline": "리서치를 Gemini\nNotebook이 사이트로",
+      "body": "Gemini Notebook이 이제 자료를 트래커·대시보드 같은 사이트로 바꾼다.",
+      "mini_headline": "Gemini Notebook, 사이트 제작",
+      "tool": "AI Workflow",
+      "source": "Google",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/interactive-sites/",
+      "accent": "#ff5a4d",
+      "motif": "frame",
       "full": {
         "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.engineering.com/wp-content/uploads/2026/11/V-model-graphic.jpg"
+            "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/blog_hero_periodic_table3_2784x1566.max-1440x810.png"
           },
           {
             "t": "p",
-            "x": "SimScale이 엔지니어링 워크플로에 AI 에이전트를 들이려는 CTOs와 엔지니어링 리더를 위해 Engineering AI Blueprint를 내놓았다. 청사진에는 가속 컴퓨팅용 NVIDIA 기술과 물리 AI 모델·도구가 담겼다."
+            "x": "오늘부터 Gemini Notebook은 자료를 인터랙티브 사이트로 바꿔 복잡한 정보를 빠르게 이해하도록 돕는다."
           },
           {
             "t": "p",
-            "x": "파일럿 프로젝트를 넘어 더 넓게 배포하기는 쉽지 않고, 설계 워크플로에 AI 에이전트를 쓸 때는 더 그렇다. 청사진은 엔지니어링 프로젝트와 고객 배포 사례를 토대로 엔지니어링 AI를 확장하는 프레임워크를 제시한다."
+            "x": "Gemini Notebook 채팅에 “make me a site”라고 입력한 뒤 업무나 공부에 필요한 결과물을 설명하면 된다. 이를테면 다음과 같다."
           },
           {
             "t": "p",
-            "x": "청사진이 인용한 한 연구를 보면 설계 동결 전에 내린 결정이 예상 프로그램 비용의 86%를 좌우했고, 늦게 발견된 콘셉트 결함은 약 13배 많은 재작업으로 이어졌다. 청사진은 고르기 전에 탐색하고, 검증은 더 일찍 시작하며, 물리 테스트는 확인 용도로 쓰는 프로세스를 제안한다. 에이전트 자율성에 어디서 선을 그을지도 정한다."
+            "x": "시험 준비를 돕는 인터랙티브 주기율표나 역사 연표 같은 시각 자료. 분기별 매출 실적 같은 데이터를 살펴보는 인터랙티브 대시보드. 할 일과 마감일을 정리하는 프로젝트 관리 트래커."
           },
           {
             "t": "p",
-            "x": "청사진은 자율 워크플로에 필요한 소프트웨어 계층을 정리하고, NVIDIA PhysicsNeMo, NVIDIA Nemotron, NVIDIA NeMo Agent Toolkit이 스택 어디에 들어가는지 짚는다. SimScale이 엔지니어링 리더 350명에게 물었더니 99%가 12개월 안에 AI로 측정 가능한 ROI를 낼 것으로 내다봤다."
+            "x": "완성되면 “Open in a new tab”을 눌러 직접 쓰거나 다른 사람과 공유하면 된다."
+          },
+          {
+            "t": "p",
+            "x": "이 기능은 오늘부터 웹에서 Google Workspace 구독자를 포함한 전 세계 Gemini Notebook 사용자(18+)에게 배포되고, 모바일 앱에는 곧 나온다."
+          },
+          {
+            "t": "video",
+            "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Sites_Final.mp4"
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "SimScale blueprint takes\nAI simulation past pilots",
-          "body": "SimScale's Engineering AI Blueprint bundles NVIDIA tools and a framework to move AI-driven simulation beyond pilots.",
-          "mini_headline": "SimScale's AI Blueprint",
+          "headline": "Gemini Notebook turns research\ninto interactive sites",
+          "body": "Gemini Notebook can now turn research and sources into interactive sites like project trackers and visual dashboards.",
+          "mini_headline": "Gemini Notebook builds sites",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/11/V-model-graphic.jpg"
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/blog_hero_periodic_table3_2784x1566.max-1440x810.png"
               },
               {
                 "t": "p",
-                "x": "SimScale has launched the Engineering AI Blueprint for CTOs and engineering leaders who are planning to deploy AI agents in engineering workflows. The blueprint includes NVIDIA technologies for accelerated computing and physics AI models and tools."
+                "x": "Starting today, Gemini Notebook can turn your sources into interactive sites to help you quickly make sense of complex information."
               },
               {
                 "t": "p",
-                "x": "Moving from pilot projects to broader deployment can be difficult, especially when AI agents are used in design workflows. The blueprint draws on engineering projects and customer deployments to outline a framework for scaling engineering AI."
+                "x": "To get started, simply type “make me a site” in your Gemini Notebook chat along with a description of what you want to build for work or study, such as:"
               },
               {
                 "t": "p",
-                "x": "It cites one study in which decisions made before design freeze accounted for 86% of expected program cost and late-found concept defects required about 13 times more rework. It proposes a process in which exploration comes before selection, validation starts earlier and physical testing is used for confirmation. It also defines where agent autonomy should be limited."
+                "x": "Visual explainers to help you prepare for exams, like an interactive periodic table or a historical timeline. Interactive dashboards to explore your data, such as quarterly sales performance. Project management trackers to outline your tasks and deadlines."
               },
               {
                 "t": "p",
-                "x": "The blueprint outlines the software layers needed for autonomous workflows and identifies where NVIDIA PhysicsNeMo, NVIDIA Nemotron and the NVIDIA NeMo Agent Toolkit fit in the stack. A SimScale survey of 350 engineering leaders found that 99% expected measurable ROI from AI within 12 months."
+                "x": "Once built, select “Open in a new tab” to interact with it, or share it with others."
+              },
+              {
+                "t": "p",
+                "x": "This capability is rolling out globally on the web today for Gemini Notebook users (18+), including Google Workspace subscribers, and is coming soon to the mobile app."
+              },
+              {
+                "t": "video",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Sites_Final.mp4"
               }
             ]
           }
         },
         "ko": {
-          "headline": "SimScale 청사진,\nAI 시뮬레이션 본격화",
-          "body": "SimScale이 NVIDIA 도구로 AI-driven 시뮬레이션 확산을 돕는다.",
-          "mini_headline": "SimScale의 AI Blueprint",
+          "headline": "리서치를 Gemini\nNotebook이 사이트로",
+          "body": "Gemini Notebook이 이제 자료를 트래커·대시보드 같은 사이트로 바꾼다.",
+          "mini_headline": "Gemini Notebook, 사이트 제작",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/11/V-model-graphic.jpg"
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/blog_hero_periodic_table3_2784x1566.max-1440x810.png"
               },
               {
                 "t": "p",
-                "x": "SimScale이 엔지니어링 워크플로에 AI 에이전트를 들이려는 CTOs와 엔지니어링 리더를 위해 Engineering AI Blueprint를 내놓았다. 청사진에는 가속 컴퓨팅용 NVIDIA 기술과 물리 AI 모델·도구가 담겼다."
+                "x": "오늘부터 Gemini Notebook은 자료를 인터랙티브 사이트로 바꿔 복잡한 정보를 빠르게 이해하도록 돕는다."
               },
               {
                 "t": "p",
-                "x": "파일럿 프로젝트를 넘어 더 넓게 배포하기는 쉽지 않고, 설계 워크플로에 AI 에이전트를 쓸 때는 더 그렇다. 청사진은 엔지니어링 프로젝트와 고객 배포 사례를 토대로 엔지니어링 AI를 확장하는 프레임워크를 제시한다."
+                "x": "Gemini Notebook 채팅에 “make me a site”라고 입력한 뒤 업무나 공부에 필요한 결과물을 설명하면 된다. 이를테면 다음과 같다."
               },
               {
                 "t": "p",
-                "x": "청사진이 인용한 한 연구를 보면 설계 동결 전에 내린 결정이 예상 프로그램 비용의 86%를 좌우했고, 늦게 발견된 콘셉트 결함은 약 13배 많은 재작업으로 이어졌다. 청사진은 고르기 전에 탐색하고, 검증은 더 일찍 시작하며, 물리 테스트는 확인 용도로 쓰는 프로세스를 제안한다. 에이전트 자율성에 어디서 선을 그을지도 정한다."
+                "x": "시험 준비를 돕는 인터랙티브 주기율표나 역사 연표 같은 시각 자료. 분기별 매출 실적 같은 데이터를 살펴보는 인터랙티브 대시보드. 할 일과 마감일을 정리하는 프로젝트 관리 트래커."
               },
               {
                 "t": "p",
-                "x": "청사진은 자율 워크플로에 필요한 소프트웨어 계층을 정리하고, NVIDIA PhysicsNeMo, NVIDIA Nemotron, NVIDIA NeMo Agent Toolkit이 스택 어디에 들어가는지 짚는다. SimScale이 엔지니어링 리더 350명에게 물었더니 99%가 12개월 안에 AI로 측정 가능한 ROI를 낼 것으로 내다봤다."
+                "x": "완성되면 “Open in a new tab”을 눌러 직접 쓰거나 다른 사람과 공유하면 된다."
+              },
+              {
+                "t": "p",
+                "x": "이 기능은 오늘부터 웹에서 Google Workspace 구독자를 포함한 전 세계 Gemini Notebook 사용자(18+)에게 배포되고, 모바일 앱에는 곧 나온다."
+              },
+              {
+                "t": "video",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Sites_Final.mp4"
               }
             ]
           }
         },
         "ja": {
-          "headline": "SimScaleの設計図\nAIシミュレーション本格化へ",
-          "body": "SimScaleはNVIDIAのツールでAI-driven シミュレーションを広げる。",
-          "mini_headline": "SimScaleのAI Blueprint",
+          "headline": "リサーチをGemini\nNotebookがサイト化",
+          "body": "Gemini Notebookが研究資料を対話型サイトに変換できるようになった。",
+          "mini_headline": "Gemini Notebookがサイト作成",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/11/V-model-graphic.jpg"
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/blog_hero_periodic_table3_2784x1566.max-1440x810.png"
               },
               {
                 "t": "p",
-                "x": "SimScaleは、エンジニアリングのワークフローにAIエージェントの導入を計画しているCTOsやエンジニアリングリーダー向けに、Engineering AI Blueprintを公開した。このブループリントには、高速コンピューティング向けのNVIDIA技術と、物理AIのモデルやツールが含まれる。"
+                "x": "本日から、Gemini Notebookは資料をインタラクティブなサイトに変え、複雑な情報をすばやく把握できるよう手助けする。"
               },
               {
                 "t": "p",
-                "x": "パイロットプロジェクトから本格展開へ移るのは難しく、設計ワークフローでAIエージェントを使う場合は特にそうだ。ブループリントはエンジニアリングのプロジェクトと顧客での導入事例をもとに、エンジニアリングAIを拡大するためのフレームワークを示す。"
+                "x": "始めるには、Gemini Notebookのチャットに「make me a site」と入力し、仕事や学習のために作りたいものを説明するだけだ。たとえば次のようなものがある。"
               },
               {
                 "t": "p",
-                "x": "ブループリントが引く研究によると、設計凍結前の意思決定が想定プログラムコストの86%を占め、後になって見つかったコンセプト上の欠陥は約13倍の手戻りを要した。ブループリントは、選定より前に探索を行い、検証を早めに始め、物理テストは確認に用いるプロセスを提案する。エージェントの自律性をどこで制限すべきかも定めている。"
+                "x": "インタラクティブな周期表や歴史年表など、試験対策に役立つ図解。四半期の売上実績など、データを探索できるインタラクティブなダッシュボード。タスクと締め切りを整理するプロジェクト管理トラッカー。"
               },
               {
                 "t": "p",
-                "x": "ブループリントは自律的なワークフローに必要なソフトウェア層を整理し、NVIDIA PhysicsNeMo、NVIDIA Nemotron、NVIDIA NeMo Agent Toolkitがスタックのどこに位置するかを示す。SimScaleがエンジニアリングリーダー350人を対象に行った調査では、99%が12か月以内にAIで測定可能なROIを得られると見込んでいた。"
+                "x": "完成したら「Open in a new tab」を選んで操作するか、他の人と共有できる。"
+              },
+              {
+                "t": "p",
+                "x": "この機能は本日、Google Workspaceの契約者を含むGemini Notebookユーザー(18+)向けにウェブ版で全世界に順次提供が始まり、モバイルアプリにも近く対応する。"
+              },
+              {
+                "t": "video",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Sites_Final.mp4"
               }
             ]
           }
         },
         "zh": {
-          "headline": "SimScale蓝图\n推动AI仿真走出试点",
-          "body": "SimScale借助NVIDIA工具与框架，推动AI-driven仿真走出试点阶段。",
-          "mini_headline": "SimScale的AI Blueprint",
+          "headline": "研究资料经Gemini\nNotebook变互动网站",
+          "body": "Gemini Notebook现在能把研究和资料变成项目追踪器、可视化仪表板等互动网站。",
+          "mini_headline": "Gemini Notebook 可建网站",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/11/V-model-graphic.jpg"
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/blog_hero_periodic_table3_2784x1566.max-1440x810.png"
               },
               {
                 "t": "p",
-                "x": "SimScale推出了Engineering AI Blueprint，面向计划在工程工作流中部署AI智能体的CTOs和工程负责人。该蓝图包含用于加速计算的NVIDIA技术，以及物理AI模型和工具。"
+                "x": "从今天起，Gemini Notebook 可以把你的资料转化为互动网站，帮你快速理清复杂信息。"
               },
               {
                 "t": "p",
-                "x": "从试点项目走向更广泛的部署可能很困难，在设计工作流中使用AI智能体时尤其如此。该蓝图借鉴工程项目和客户部署经验，勾勒出扩展工程AI的框架。"
+                "x": "开始使用时，只需在 Gemini Notebook 聊天中输入“make me a site”，并描述你想为工作或学习构建的内容，例如："
               },
               {
                 "t": "p",
-                "x": "它引用的一项研究显示，设计冻结前做出的决策占预期项目成本的86%，而后期发现的概念缺陷需要约13倍的返工。蓝图提出了一套流程：先探索再选择，更早开始验证，物理测试则用于确认。它还界定了应在哪些环节限制智能体的自主性。"
+                "x": "帮助备考的可视化讲解，如互动元素周期表或历史时间线。用于探索数据的互动仪表板，如季度销售业绩。梳理任务和截止日期的项目管理追踪器。"
               },
               {
                 "t": "p",
-                "x": "蓝图梳理了自主工作流所需的软件层，并指出NVIDIA PhysicsNeMo、NVIDIA Nemotron和NVIDIA NeMo Agent Toolkit在技术栈中的位置。SimScale对350位工程负责人的调查发现，99%的人预计在12个月内从AI获得可衡量的ROI。"
+                "x": "建好后，选择“Open in a new tab”即可与之互动，或分享给他人。"
+              },
+              {
+                "t": "p",
+                "x": "该功能今天起在网页端面向全球 Gemini Notebook 用户（18+）推出，包括 Google Workspace 订阅用户，并将很快登陆移动应用。"
+              },
+              {
+                "t": "video",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Sites_Final.mp4"
               }
             ]
           }
         },
         "es": {
-          "headline": "SimScale lleva la simulación\ncon AI más allá de los pilotos",
-          "body": "El Engineering AI Blueprint de SimScale usa herramientas de NVIDIA para sacar la simulación AI-driven de fase piloto.",
-          "mini_headline": "El AI Blueprint de SimScale",
+          "headline": "Gemini Notebook convierte\nla investigación en sitios",
+          "body": "Gemini Notebook ya convierte investigación y fuentes en sitios interactivos como paneles y gestores de proyectos.",
+          "mini_headline": "Gemini Notebook crea sitios",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/11/V-model-graphic.jpg"
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/blog_hero_periodic_table3_2784x1566.max-1440x810.png"
               },
               {
                 "t": "p",
-                "x": "SimScale lanzó el Engineering AI Blueprint para CTOs y líderes de ingeniería que planean desplegar agentes de AI en flujos de trabajo de ingeniería. El blueprint incluye tecnologías de NVIDIA para computación acelerada y modelos y herramientas de AI física."
+                "x": "Desde hoy, Gemini Notebook puede convertir tus fuentes en sitios interactivos para ayudarte a entender rápidamente información compleja."
               },
               {
                 "t": "p",
-                "x": "Pasar de proyectos piloto a un despliegue más amplio puede ser difícil, sobre todo cuando se usan agentes de AI en flujos de diseño. El blueprint se basa en proyectos de ingeniería y despliegues con clientes para trazar un marco que permita escalar la AI de ingeniería."
+                "x": "Para empezar, basta con escribir “make me a site” en el chat de Gemini Notebook junto con una descripción de lo que quieres crear para el trabajo o los estudios, por ejemplo:"
               },
               {
                 "t": "p",
-                "x": "Cita un estudio según el cual las decisiones tomadas antes del congelamiento del diseño representaron el 86% del costo previsto del programa, y los defectos de concepto detectados tarde exigieron unas 13 veces más retrabajo. Propone un proceso en el que la exploración va antes de la selección, la validación empieza antes y las pruebas físicas se usan para confirmar. También define dónde debe limitarse la autonomía de los agentes."
+                "x": "Explicaciones visuales para preparar exámenes, como una tabla periódica interactiva o una línea de tiempo histórica. Paneles interactivos para explorar tus datos, como el rendimiento de ventas trimestral. Gestores de proyectos para organizar tus tareas y plazos."
               },
               {
                 "t": "p",
-                "x": "El blueprint describe las capas de software necesarias para flujos autónomos e identifica dónde encajan NVIDIA PhysicsNeMo, NVIDIA Nemotron y NVIDIA NeMo Agent Toolkit en la pila. Una encuesta de SimScale a 350 líderes de ingeniería halló que el 99% esperaba un ROI medible de la AI en 12 meses."
+                "x": "Una vez creado, selecciona “Open in a new tab” para interactuar con él o compártelo con otras personas."
+              },
+              {
+                "t": "p",
+                "x": "Esta función empieza a llegar hoy a nivel mundial en la web para los usuarios de Gemini Notebook (18+), incluidos los suscriptores de Google Workspace, y pronto estará en la app móvil."
+              },
+              {
+                "t": "video",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Sites_Final.mp4"
               }
             ]
           }
@@ -1521,121 +1347,565 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "SimScale 청사진,\nAI 시뮬레이션 본격화",
-          "body": "SimScale은 NVIDIA 도구로 AI-driven 시뮬레이션 확산을 돕는다.",
-          "mini_headline": "SimScale의 AI Blueprint",
+          "headline": "리서치를 Gemini\nNotebook이 사이트로",
+          "body": "Gemini Notebook이 이제 자료를 트래커·대시보드 같은 사이트로 바꾼다.",
+          "mini_headline": "Gemini Notebook, 사이트 제작",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/11/V-model-graphic.jpg"
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/blog_hero_periodic_table3_2784x1566.max-1440x810.png"
               },
               {
                 "t": "p",
-                "x": "SimScale이 엔지니어링 워크플로에 AI 에이전트 도입을 계획하는 CTOs와 엔지니어링 리더를 위한 Engineering AI Blueprint를 내놓았다. 이 청사진에는 가속 컴퓨팅을 위한 NVIDIA 기술과 물리 AI 모델·도구가 담겼다."
+                "x": "오늘부터 Gemini Notebook은 자료를 인터랙티브 사이트로 바꿔 복잡한 정보를 빠르게 이해하도록 돕는다."
               },
               {
                 "t": "p",
-                "x": "파일럿 프로젝트에서 더 넓은 배포로 나아가기는 쉽지 않으며, 설계 워크플로에 AI 에이전트를 쓸 때는 특히 그렇다. 청사진은 엔지니어링 프로젝트와 고객 배포 사례를 바탕으로 엔지니어링 AI를 확장하는 프레임워크를 제시한다."
+                "x": "시작하려면 Gemini Notebook 채팅에 “make me a site”라고 입력하고, 업무나 학습을 위해 만들고 싶은 것을 설명하면 된다. 예를 들면 다음과 같다."
               },
               {
                 "t": "p",
-                "x": "청사진이 인용한 한 연구에 따르면 설계 동결 이전에 내린 결정이 예상 프로그램 비용의 86%를 차지했고, 뒤늦게 발견된 콘셉트 결함은 약 13배 많은 재작업을 요구했다. 청사진은 선택에 앞서 탐색하고, 검증을 더 일찍 시작하며, 물리적 테스트는 확인용으로 쓰는 프로세스를 제안한다. 에이전트의 자율성을 어디서 제한해야 하는지도 정의한다."
+                "x": "인터랙티브 주기율표나 역사 연표처럼 시험 준비를 돕는 시각 자료. 분기별 매출 실적처럼 데이터를 탐색하는 인터랙티브 대시보드. 할 일과 마감일을 정리하는 프로젝트 관리 트래커."
               },
               {
                 "t": "p",
-                "x": "청사진은 자율 워크플로에 필요한 소프트웨어 계층을 정리하고, NVIDIA PhysicsNeMo, NVIDIA Nemotron, NVIDIA NeMo Agent Toolkit이 스택의 어디에 들어가는지 짚는다. SimScale이 엔지니어링 리더 350명을 조사한 결과, 99%가 12개월 안에 AI로 측정 가능한 ROI를 거둘 것으로 예상했다."
+                "x": "완성되면 “Open in a new tab”을 선택해 직접 사용하거나 다른 사람과 공유할 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "이 기능은 오늘부터 Google Workspace 구독자를 포함한 Gemini Notebook 사용자(18+)에게 웹에서 전 세계로 배포되며, 모바일 앱에도 곧 제공된다."
+              },
+              {
+                "t": "video",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Sites_Final.mp4"
               }
             ]
           }
         },
         "ja": {
-          "headline": "SimScaleの設計図\nAIシミュレーション本格化へ",
-          "body": "SimScaleはNVIDIAのツールでAI-driven シミュレーションを広げる。",
-          "mini_headline": "SimScaleのAI Blueprint",
+          "headline": "リサーチをGemini\nNotebookがサイト化",
+          "body": "Gemini Notebookが研究資料を対話型サイトに変換できるようになった。",
+          "mini_headline": "Gemini Notebookがサイト作成",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/11/V-model-graphic.jpg"
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/blog_hero_periodic_table3_2784x1566.max-1440x810.png"
               },
               {
                 "t": "p",
-                "x": "SimScaleは、エンジニアリングのワークフローにAIエージェントの導入を計画しているCTOsやエンジニアリングリーダー向けに、Engineering AI Blueprintを公開した。このブループリントには、高速コンピューティング向けのNVIDIA技術と、物理AIのモデルやツールが含まれる。"
+                "x": "本日から、Gemini Notebookは資料をインタラクティブなサイトに変え、複雑な情報をすばやく把握できるよう手助けする。"
               },
               {
                 "t": "p",
-                "x": "パイロットプロジェクトから本格展開へ移るのは難しく、設計ワークフローでAIエージェントを使う場合は特にそうだ。ブループリントはエンジニアリングのプロジェクトと顧客での導入事例をもとに、エンジニアリングAIを拡大するためのフレームワークを示す。"
+                "x": "始めるには、Gemini Notebookのチャットに「make me a site」と入力し、仕事や学習のために作りたいものを説明するだけだ。たとえば次のようなものがある。"
               },
               {
                 "t": "p",
-                "x": "ブループリントが引く研究によると、設計凍結前の意思決定が想定プログラムコストの86%を占め、後になって見つかったコンセプト上の欠陥は約13倍の手戻りを要した。ブループリントは、選定より前に探索を行い、検証を早めに始め、物理テストは確認に用いるプロセスを提案する。エージェントの自律性をどこで制限すべきかも定めている。"
+                "x": "インタラクティブな周期表や歴史年表など、試験対策に役立つ図解。四半期の売上実績など、データを探索できるインタラクティブなダッシュボード。タスクと締め切りを整理するプロジェクト管理トラッカー。"
               },
               {
                 "t": "p",
-                "x": "ブループリントは自律的なワークフローに必要なソフトウェア層を整理し、NVIDIA PhysicsNeMo、NVIDIA Nemotron、NVIDIA NeMo Agent Toolkitがスタックのどこに位置するかを示す。SimScaleがエンジニアリングリーダー350人を対象に行った調査では、99%が12か月以内にAIで測定可能なROIを得られると見込んでいた。"
+                "x": "完成したら「Open in a new tab」を選んで操作するか、他の人と共有できる。"
+              },
+              {
+                "t": "p",
+                "x": "この機能は本日、Google Workspaceの契約者を含むGemini Notebookユーザー(18+)向けにウェブ版で全世界に順次提供が始まり、モバイルアプリにも近く対応する。"
+              },
+              {
+                "t": "video",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Sites_Final.mp4"
               }
             ]
           }
         },
         "zh": {
-          "headline": "SimScale蓝图\n推动AI仿真走出试点",
-          "body": "SimScale借助NVIDIA工具与框架，推动AI-driven仿真走出试点阶段。",
-          "mini_headline": "SimScale的AI Blueprint",
+          "headline": "研究资料经Gemini\nNotebook变互动网站",
+          "body": "Gemini Notebook现在能把研究和资料变成项目追踪器、可视化仪表板等互动网站。",
+          "mini_headline": "Gemini Notebook 可建网站",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/11/V-model-graphic.jpg"
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/blog_hero_periodic_table3_2784x1566.max-1440x810.png"
               },
               {
                 "t": "p",
-                "x": "SimScale推出了Engineering AI Blueprint，面向计划在工程工作流中部署AI智能体的CTOs和工程负责人。该蓝图包含用于加速计算的NVIDIA技术，以及物理AI模型和工具。"
+                "x": "从今天起，Gemini Notebook 可以把你的资料转化为互动网站，帮你快速理清复杂信息。"
               },
               {
                 "t": "p",
-                "x": "从试点项目走向更广泛的部署可能很困难，在设计工作流中使用AI智能体时尤其如此。该蓝图借鉴工程项目和客户部署经验，勾勒出扩展工程AI的框架。"
+                "x": "开始使用时，只需在 Gemini Notebook 聊天中输入“make me a site”，并描述你想为工作或学习构建的内容，例如："
               },
               {
                 "t": "p",
-                "x": "它引用的一项研究显示，设计冻结前做出的决策占预期项目成本的86%，而后期发现的概念缺陷需要约13倍的返工。蓝图提出了一套流程：先探索再选择，更早开始验证，物理测试则用于确认。它还界定了应在哪些环节限制智能体的自主性。"
+                "x": "帮助备考的可视化讲解，如互动元素周期表或历史时间线。用于探索数据的互动仪表板，如季度销售业绩。梳理任务和截止日期的项目管理追踪器。"
               },
               {
                 "t": "p",
-                "x": "蓝图梳理了自主工作流所需的软件层，并指出NVIDIA PhysicsNeMo、NVIDIA Nemotron和NVIDIA NeMo Agent Toolkit在技术栈中的位置。SimScale对350位工程负责人的调查发现，99%的人预计在12个月内从AI获得可衡量的ROI。"
+                "x": "建好后，选择“Open in a new tab”即可与之互动，或分享给他人。"
+              },
+              {
+                "t": "p",
+                "x": "该功能今天起在网页端面向全球 Gemini Notebook 用户（18+）推出，包括 Google Workspace 订阅用户，并将很快登陆移动应用。"
+              },
+              {
+                "t": "video",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Sites_Final.mp4"
               }
             ]
           }
         },
         "es": {
-          "headline": "SimScale lleva la simulación\ncon AI más allá de los pilotos",
-          "body": "El Engineering AI Blueprint de SimScale usa herramientas de NVIDIA para sacar la simulación AI-driven de fase piloto.",
-          "mini_headline": "El AI Blueprint de SimScale",
+          "headline": "Gemini Notebook convierte\nla investigación en sitios",
+          "body": "Gemini Notebook ya convierte investigación y fuentes en sitios interactivos como paneles y gestores de proyectos.",
+          "mini_headline": "Gemini Notebook crea sitios",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/11/V-model-graphic.jpg"
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/blog_hero_periodic_table3_2784x1566.max-1440x810.png"
               },
               {
                 "t": "p",
-                "x": "SimScale lanzó el Engineering AI Blueprint para CTOs y líderes de ingeniería que planean desplegar agentes de AI en flujos de trabajo de ingeniería. El blueprint incluye tecnologías de NVIDIA para computación acelerada y modelos y herramientas de AI física."
+                "x": "Desde hoy, Gemini Notebook puede convertir tus fuentes en sitios interactivos para ayudarte a entender rápidamente información compleja."
               },
               {
                 "t": "p",
-                "x": "Pasar de proyectos piloto a un despliegue más amplio puede ser difícil, sobre todo cuando se usan agentes de AI en flujos de diseño. El blueprint se basa en proyectos de ingeniería y despliegues con clientes para trazar un marco que permita escalar la AI de ingeniería."
+                "x": "Para empezar, basta con escribir “make me a site” en el chat de Gemini Notebook junto con una descripción de lo que quieres crear para el trabajo o los estudios, por ejemplo:"
               },
               {
                 "t": "p",
-                "x": "Cita un estudio según el cual las decisiones tomadas antes del congelamiento del diseño representaron el 86% del costo previsto del programa, y los defectos de concepto detectados tarde exigieron unas 13 veces más retrabajo. Propone un proceso en el que la exploración va antes de la selección, la validación empieza antes y las pruebas físicas se usan para confirmar. También define dónde debe limitarse la autonomía de los agentes."
+                "x": "Explicaciones visuales para preparar exámenes, como una tabla periódica interactiva o una línea de tiempo histórica. Paneles interactivos para explorar tus datos, como el rendimiento de ventas trimestral. Gestores de proyectos para organizar tus tareas y plazos."
               },
               {
                 "t": "p",
-                "x": "El blueprint describe las capas de software necesarias para flujos autónomos e identifica dónde encajan NVIDIA PhysicsNeMo, NVIDIA Nemotron y NVIDIA NeMo Agent Toolkit en la pila. Una encuesta de SimScale a 350 líderes de ingeniería halló que el 99% esperaba un ROI medible de la AI en 12 meses."
+                "x": "Una vez creado, selecciona “Open in a new tab” para interactuar con él o compártelo con otras personas."
+              },
+              {
+                "t": "p",
+                "x": "Esta función empieza a llegar hoy a nivel mundial en la web para los usuarios de Gemini Notebook (18+), incluidos los suscriptores de Google Workspace, y pronto estará en la app móvil."
+              },
+              {
+                "t": "video",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Sites_Final.mp4"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "onepassword-figma-make",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "1Password가 신뢰를\nFigma Make로 설계",
+      "body": "1Password는 Figma Make로 자동완성과 AI 에이전트 승인을 만든다.",
+      "mini_headline": "1Password, Make로 설계",
+      "tool": "Figma",
+      "source": "Figma Blog",
+      "url": "https://www.figma.com/blog/1password-figma-make/",
+      "accent": "#eb367f",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/bbbd715863ae9596492a6b6eda14af49a9b802de-2400x1260.png?w=1200&q=70&fit=max&auto=format"
+          },
+          {
+            "t": "p",
+            "x": "사용자가 휴대폰에서 로그인 정보를 자동완성하든, 데스크톱에서 1Password를 쓰든, 브라우저 확장 프로그램으로 AI 에이전트의 자격 증명 요청을 승인하든 그 경험은 한결같이 1Password다워야 한다. 1Password의 Chief Experience Officer인 Matt Davey는 “신뢰와 확실성이라고 하겠다”고 말한다."
+          },
+          {
+            "t": "p",
+            "x": "디자인 시스템 팀은 이십 년 가까이 쌓인 디자인 가이드를 도구가 읽을 수 있는 컨텍스트로 바꿨다. 덕분에 Figma Make와 다른 에이전트도 디자이너와 같은 규칙을 따른다. Ryan Williamson-Cardneau의 팀은 내부 프로토타입 플레이그라운드를 만들었다. Figma 파일에서 바로 만든 1Password 제품용 코드 템플릿을 담은 프런트엔드 전용 저장소다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/a17b404ae2b6620f5900cc3aec4ff42c6e1a150c-1706x1410.png?rect=1,0,1705,1410&w=1080&h=893&q=75&fit=max&auto=format",
+            "cap": "Figma Make에서 연 1Password의 프로토타입 플레이그라운드. 디자이너는 코드로 만든 컴포넌트를 선택해 채팅이나 속성 패널로 조정할 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "Ryan은 간단한 수정 30건을 직접 하지 않고 Figma Make에 맡겼는데, 약 80%를 제대로 처리했다. Matt는 프로토타입을 복제해 버전끼리 나란히 비교하는 방식을 “시각적 브랜칭”이라 부른다. 채팅을 1Password의 MCP에 연결하면 “스파링 파트너”가 된다는 게 그의 설명이다."
+          },
+          {
+            "t": "p",
+            "x": "1Password 디자이너는 모두 프로토타입 플레이그라운드 온보딩을 마쳤고, 엔지니어와 PMs도 그곳에서 프로토타입을 만든다. 1Password는 사용자 테스트에 연결해 쓰던 Figma 프로토타입 대부분을 코드 프로토타입으로 바꿨다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/ec408a42a9435922312ea6e79eb44ac6826c9a07-1706x1408.png?rect=0,1,1706,1407&w=1080&h=891&q=75&fit=max&auto=format",
+            "cap": "프로토타입 플레이그라운드에는 팀 전체의 프로토타입이 모여 있다. 모두 코드로 만든 1Password 제품 템플릿에서 출발했다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "1Password uses Figma Make\nto design for trust",
+          "body": "1Password's design team uses Figma Make to shape moments users trust, from autofill to AI agent approvals.",
+          "mini_headline": "1Password designs in Make",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/bbbd715863ae9596492a6b6eda14af49a9b802de-2400x1260.png?w=1200&q=70&fit=max&auto=format"
+              },
+              {
+                "t": "p",
+                "x": "Anytime a user autofills a login on their phone, uses 1Password on their desktop, or approves a credential request from an AI agent through the browser extension, the experience has to feel unmistakably like 1Password. “I'd say it's trust and certainty,” says Matt Davey, Chief Experience Officer at 1Password."
+              },
+              {
+                "t": "p",
+                "x": "The design systems team turned nearly two decades of design guidance into context that tools can use, so Figma Make and other agents follow the same rules a designer would. Ryan Williamson-Cardneau's team built an internal prototype playground: a front-end-only repo with code templates for 1Password's products, built directly from their Figma files."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/a17b404ae2b6620f5900cc3aec4ff42c6e1a150c-1706x1410.png?rect=1,0,1705,1410&w=1080&h=893&q=75&fit=max&auto=format",
+                "cap": "1Password’s prototype playground open in Figma Make, where designers can select a coded component and adjust it through chat or its properties panel."
+              },
+              {
+                "t": "p",
+                "x": "Instead of making 30 quick edits by hand, Ryan found that Figma Make got about 80% of them right. Matt calls duplicating a prototype and comparing versions side by side “visual branching.” With the chat connected to 1Password’s MCP, “It’s a sparring partner,” he says."
+              },
+              {
+                "t": "p",
+                "x": "Every designer at 1Password has been onboarded to the prototype playground, and engineers and PMs are building prototypes there, too. 1Password has largely replaced its wired-up Figma prototypes with coded ones for user testing."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/ec408a42a9435922312ea6e79eb44ac6826c9a07-1706x1408.png?rect=0,1,1706,1407&w=1080&h=891&q=75&fit=max&auto=format",
+                "cap": "The prototype playground holds prototypes from across the team, each started from a coded 1Password product template."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "1Password가 신뢰를\nFigma Make로 설계",
+          "body": "1Password는 Figma Make로 자동완성과 AI 에이전트 승인을 만든다.",
+          "mini_headline": "1Password, Make로 설계",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/bbbd715863ae9596492a6b6eda14af49a9b802de-2400x1260.png?w=1200&q=70&fit=max&auto=format"
+              },
+              {
+                "t": "p",
+                "x": "사용자가 휴대폰에서 로그인 정보를 자동완성하든, 데스크톱에서 1Password를 쓰든, 브라우저 확장 프로그램으로 AI 에이전트의 자격 증명 요청을 승인하든 그 경험은 한결같이 1Password다워야 한다. 1Password의 Chief Experience Officer인 Matt Davey는 “신뢰와 확실성이라고 하겠다”고 말한다."
+              },
+              {
+                "t": "p",
+                "x": "디자인 시스템 팀은 이십 년 가까이 쌓인 디자인 가이드를 도구가 읽을 수 있는 컨텍스트로 바꿨다. 덕분에 Figma Make와 다른 에이전트도 디자이너와 같은 규칙을 따른다. Ryan Williamson-Cardneau의 팀은 내부 프로토타입 플레이그라운드를 만들었다. Figma 파일에서 바로 만든 1Password 제품용 코드 템플릿을 담은 프런트엔드 전용 저장소다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/a17b404ae2b6620f5900cc3aec4ff42c6e1a150c-1706x1410.png?rect=1,0,1705,1410&w=1080&h=893&q=75&fit=max&auto=format",
+                "cap": "Figma Make에서 연 1Password의 프로토타입 플레이그라운드. 디자이너는 코드로 만든 컴포넌트를 선택해 채팅이나 속성 패널로 조정할 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "Ryan은 간단한 수정 30건을 직접 하지 않고 Figma Make에 맡겼는데, 약 80%를 제대로 처리했다. Matt는 프로토타입을 복제해 버전끼리 나란히 비교하는 방식을 “시각적 브랜칭”이라 부른다. 채팅을 1Password의 MCP에 연결하면 “스파링 파트너”가 된다는 게 그의 설명이다."
+              },
+              {
+                "t": "p",
+                "x": "1Password 디자이너는 모두 프로토타입 플레이그라운드 온보딩을 마쳤고, 엔지니어와 PMs도 그곳에서 프로토타입을 만든다. 1Password는 사용자 테스트에 연결해 쓰던 Figma 프로토타입 대부분을 코드 프로토타입으로 바꿨다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/ec408a42a9435922312ea6e79eb44ac6826c9a07-1706x1408.png?rect=0,1,1706,1407&w=1080&h=891&q=75&fit=max&auto=format",
+                "cap": "프로토타입 플레이그라운드에는 팀 전체의 프로토타입이 모여 있다. 모두 코드로 만든 1Password 제품 템플릿에서 출발했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "1Passwordの信頼\nFigma Makeで設計",
+          "body": "1PasswordはFigma Makeで自動入力やAIエージェント承認の体験を設計する。",
+          "mini_headline": "1PasswordがMakeで設計",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/bbbd715863ae9596492a6b6eda14af49a9b802de-2400x1260.png?w=1200&q=70&fit=max&auto=format"
+              },
+              {
+                "t": "p",
+                "x": "ユーザーがスマートフォンでログイン情報を自動入力するときも、デスクトップで1Passwordを使うときも、ブラウザ拡張機能からAIエージェントの認証情報リクエストを承認するときも、その体験は紛れもなく1Passwordらしくなければならない。「信頼と確実性だと思う」と、1PasswordのChief Experience OfficerであるMatt Daveyは言う。"
+              },
+              {
+                "t": "p",
+                "x": "デザインシステムチームは、約二十年分のデザインガイドラインをツールが使えるコンテキストに変換し、Figma Makeなどのエージェントがデザイナーと同じルールに従えるようにした。Ryan Williamson-Cardneauのチームは社内向けのプロトタイプ・プレイグラウンドを構築した。Figmaファイルから直接作った1Password製品のコードテンプレートを収めた、フロントエンドのみのリポジトリだ。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/a17b404ae2b6620f5900cc3aec4ff42c6e1a150c-1706x1410.png?rect=1,0,1705,1410&w=1080&h=893&q=75&fit=max&auto=format",
+                "cap": "Figma Makeで開いた1Passwordのプロトタイプ・プレイグラウンド。デザイナーはコード化されたコンポーネントを選び、チャットやプロパティパネルで調整できる。"
+              },
+              {
+                "t": "p",
+                "x": "Ryanは、30件の細かな修正を手作業で行う代わりにFigma Makeに任せたところ、約80%が正しく仕上がったことに気づいた。Mattは、プロトタイプを複製してバージョンを並べて比較することを「ビジュアル・ブランチング」と呼ぶ。チャットを1PasswordのMCPに接続すると「スパーリング相手になる」と彼は言う。"
+              },
+              {
+                "t": "p",
+                "x": "1Passwordのデザイナー全員がプロトタイプ・プレイグラウンドを使い始めており、エンジニアやPMsもそこでプロトタイプを作っている。1Passwordはユーザーテスト用に、配線で組んだFigmaプロトタイプの大半をコードによるプロトタイプに置き換えた。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/ec408a42a9435922312ea6e79eb44ac6826c9a07-1706x1408.png?rect=0,1,1706,1407&w=1080&h=891&q=75&fit=max&auto=format",
+                "cap": "プロトタイプ・プレイグラウンドにはチーム全体のプロトタイプが集まっており、どれもコード化された1Password製品テンプレートから作られている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "1Password用\nFigma Make设计信任",
+          "body": "1Password设计团队用Figma Make打造从自动填充到AI代理审批的可信体验。",
+          "mini_headline": "1Password 用 Make 设计",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/bbbd715863ae9596492a6b6eda14af49a9b802de-2400x1260.png?w=1200&q=70&fit=max&auto=format"
+              },
+              {
+                "t": "p",
+                "x": "无论用户是在手机上自动填充登录信息、在桌面端使用 1Password，还是通过浏览器扩展批准 AI 代理的凭据请求，体验都必须让人一眼认出是 1Password。“我会说是信任和确定性。”1Password 的 Chief Experience Officer Matt Davey 说。"
+              },
+              {
+                "t": "p",
+                "x": "设计系统团队把近二十年的设计规范转化为工具可用的上下文，让 Figma Make 和其他代理遵循与设计师相同的规则。Ryan Williamson-Cardneau 的团队搭建了一个内部原型试验场：一个只含前端的代码库，内有直接从 Figma 文件构建的 1Password 产品代码模板。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/a17b404ae2b6620f5900cc3aec4ff42c6e1a150c-1706x1410.png?rect=1,0,1705,1410&w=1080&h=893&q=75&fit=max&auto=format",
+                "cap": "在 Figma Make 中打开的 1Password 原型试验场，设计师可以选中一个代码组件，通过聊天或属性面板进行调整。"
+              },
+              {
+                "t": "p",
+                "x": "Ryan 发现，与其手动完成 30 处快速修改，交给 Figma Make 大约能做对 80%。Matt 把复制原型并将版本并排比较称为“视觉分支”。他说，聊天连接 1Password 的 MCP 后，“它就是一个陪练伙伴”。"
+              },
+              {
+                "t": "p",
+                "x": "1Password 的每位设计师都已上手原型试验场，工程师和 PMs 也在那里构建原型。1Password 在用户测试中已基本用代码原型取代了连线式 Figma 原型。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/ec408a42a9435922312ea6e79eb44ac6826c9a07-1706x1408.png?rect=0,1,1706,1407&w=1080&h=891&q=75&fit=max&auto=format",
+                "cap": "原型试验场汇集了整个团队的原型，每个都从一个代码化的 1Password 产品模板开始。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "1Password usa Figma Make\npara diseñar la confianza",
+          "body": "1Password usa Figma Make para diseñar momentos de confianza, desde el autocompletado hasta aprobar agentes de AI.",
+          "mini_headline": "1Password diseña en Make",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/bbbd715863ae9596492a6b6eda14af49a9b802de-2400x1260.png?w=1200&q=70&fit=max&auto=format"
+              },
+              {
+                "t": "p",
+                "x": "Cada vez que un usuario autocompleta un inicio de sesión en su teléfono, usa 1Password en el escritorio o aprueba desde la extensión del navegador una solicitud de credenciales de un agente de AI, la experiencia tiene que sentirse inconfundiblemente como 1Password. “Yo diría que es confianza y certeza”, dice Matt Davey, Chief Experience Officer de 1Password."
+              },
+              {
+                "t": "p",
+                "x": "El equipo de sistemas de diseño convirtió casi dos décadas de pautas de diseño en contexto que las herramientas pueden usar, de modo que Figma Make y otros agentes siguen las mismas reglas que seguiría un diseñador. El equipo de Ryan Williamson-Cardneau creó un espacio interno de prototipado: un repositorio solo de front-end con plantillas de código para los productos de 1Password, construidas directamente a partir de sus archivos de Figma."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/a17b404ae2b6620f5900cc3aec4ff42c6e1a150c-1706x1410.png?rect=1,0,1705,1410&w=1080&h=893&q=75&fit=max&auto=format",
+                "cap": "El espacio de prototipado de 1Password abierto en Figma Make, donde los diseñadores pueden seleccionar un componente programado y ajustarlo por chat o desde su panel de propiedades."
+              },
+              {
+                "t": "p",
+                "x": "En lugar de hacer a mano 30 ediciones rápidas, Ryan comprobó que Figma Make acertaba en cerca del 80% de ellas. Matt llama “ramificación visual” a duplicar un prototipo y comparar versiones lado a lado. Con el chat conectado al MCP de 1Password, “es un compañero de entrenamiento”, dice."
+              },
+              {
+                "t": "p",
+                "x": "Todos los diseñadores de 1Password se han incorporado al espacio de prototipado, y los ingenieros y PMs también crean prototipos allí. 1Password ha sustituido en gran medida sus prototipos enlazados de Figma por prototipos programados para las pruebas con usuarios."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/ec408a42a9435922312ea6e79eb44ac6826c9a07-1706x1408.png?rect=0,1,1706,1407&w=1080&h=891&q=75&fit=max&auto=format",
+                "cap": "El espacio de prototipado reúne prototipos de todo el equipo, cada uno iniciado a partir de una plantilla programada de un producto de 1Password."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "1Password가 신뢰를\nFigma Make로 설계",
+          "body": "1Password는 Figma Make로 자동완성과 AI 에이전트 승인을 만든다.",
+          "mini_headline": "1Password, Make로 설계",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/bbbd715863ae9596492a6b6eda14af49a9b802de-2400x1260.png?w=1200&q=70&fit=max&auto=format"
+              },
+              {
+                "t": "p",
+                "x": "사용자가 휴대폰에서 로그인 정보를 자동완성하든, 데스크톱에서 1Password를 쓰든, 브라우저 확장 프로그램으로 AI 에이전트의 자격 증명 요청을 승인하든, 그 경험은 틀림없이 1Password답게 느껴져야 한다. 1Password의 Chief Experience Officer인 Matt Davey는 “신뢰와 확실성이라고 하겠다”고 말한다."
+              },
+              {
+                "t": "p",
+                "x": "디자인 시스템 팀은 거의 이십 년에 걸친 디자인 가이드를 도구가 쓸 수 있는 컨텍스트로 바꿔, Figma Make와 다른 에이전트가 디자이너와 같은 규칙을 따르게 했다. Ryan Williamson-Cardneau의 팀은 내부 프로토타입 플레이그라운드를 만들었다. Figma 파일에서 직접 만든 1Password 제품용 코드 템플릿을 담은 프런트엔드 전용 저장소다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/a17b404ae2b6620f5900cc3aec4ff42c6e1a150c-1706x1410.png?rect=1,0,1705,1410&w=1080&h=893&q=75&fit=max&auto=format",
+                "cap": "Figma Make에서 연 1Password의 프로토타입 플레이그라운드. 디자이너는 코드로 만든 컴포넌트를 선택해 채팅이나 속성 패널로 조정할 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "Ryan은 30건의 간단한 수정을 손으로 하는 대신 Figma Make에 맡겼더니 약 80%를 제대로 해냈다는 것을 알게 됐다. Matt는 프로토타입을 복제해 버전을 나란히 비교하는 방식을 “시각적 브랜칭”이라 부른다. 채팅을 1Password의 MCP에 연결하면 “스파링 파트너”가 된다고 그는 말한다."
+              },
+              {
+                "t": "p",
+                "x": "1Password의 모든 디자이너가 프로토타입 플레이그라운드 온보딩을 마쳤고, 엔지니어와 PMs도 그곳에서 프로토타입을 만들고 있다. 1Password는 사용자 테스트용으로 연결해 두던 Figma 프로토타입을 대부분 코드 프로토타입으로 바꿨다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/ec408a42a9435922312ea6e79eb44ac6826c9a07-1706x1408.png?rect=0,1,1706,1407&w=1080&h=891&q=75&fit=max&auto=format",
+                "cap": "프로토타입 플레이그라운드에는 팀 전체의 프로토타입이 모여 있으며, 모두 코드로 만든 1Password 제품 템플릿에서 시작했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "1Passwordの信頼\nFigma Makeで設計",
+          "body": "1PasswordはFigma Makeで自動入力やAIエージェント承認の体験を設計する。",
+          "mini_headline": "1PasswordがMakeで設計",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/bbbd715863ae9596492a6b6eda14af49a9b802de-2400x1260.png?w=1200&q=70&fit=max&auto=format"
+              },
+              {
+                "t": "p",
+                "x": "ユーザーがスマートフォンでログイン情報を自動入力するときも、デスクトップで1Passwordを使うときも、ブラウザ拡張機能からAIエージェントの認証情報リクエストを承認するときも、その体験は紛れもなく1Passwordらしくなければならない。「信頼と確実性だと思う」と、1PasswordのChief Experience OfficerであるMatt Daveyは言う。"
+              },
+              {
+                "t": "p",
+                "x": "デザインシステムチームは、約二十年分のデザインガイドラインをツールが使えるコンテキストに変換し、Figma Makeなどのエージェントがデザイナーと同じルールに従えるようにした。Ryan Williamson-Cardneauのチームは社内向けのプロトタイプ・プレイグラウンドを構築した。Figmaファイルから直接作った1Password製品のコードテンプレートを収めた、フロントエンドのみのリポジトリだ。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/a17b404ae2b6620f5900cc3aec4ff42c6e1a150c-1706x1410.png?rect=1,0,1705,1410&w=1080&h=893&q=75&fit=max&auto=format",
+                "cap": "Figma Makeで開いた1Passwordのプロトタイプ・プレイグラウンド。デザイナーはコード化されたコンポーネントを選び、チャットやプロパティパネルで調整できる。"
+              },
+              {
+                "t": "p",
+                "x": "Ryanは、30件の細かな修正を手作業で行う代わりにFigma Makeに任せたところ、約80%が正しく仕上がったことに気づいた。Mattは、プロトタイプを複製してバージョンを並べて比較することを「ビジュアル・ブランチング」と呼ぶ。チャットを1PasswordのMCPに接続すると「スパーリング相手になる」と彼は言う。"
+              },
+              {
+                "t": "p",
+                "x": "1Passwordのデザイナー全員がプロトタイプ・プレイグラウンドを使い始めており、エンジニアやPMsもそこでプロトタイプを作っている。1Passwordはユーザーテスト用に、配線で組んだFigmaプロトタイプの大半をコードによるプロトタイプに置き換えた。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/ec408a42a9435922312ea6e79eb44ac6826c9a07-1706x1408.png?rect=0,1,1706,1407&w=1080&h=891&q=75&fit=max&auto=format",
+                "cap": "プロトタイプ・プレイグラウンドにはチーム全体のプロトタイプが集まっており、どれもコード化された1Password製品テンプレートから作られている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "1Password用\nFigma Make设计信任",
+          "body": "1Password设计团队用Figma Make打造从自动填充到AI代理审批的可信体验。",
+          "mini_headline": "1Password 用 Make 设计",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/bbbd715863ae9596492a6b6eda14af49a9b802de-2400x1260.png?w=1200&q=70&fit=max&auto=format"
+              },
+              {
+                "t": "p",
+                "x": "无论用户是在手机上自动填充登录信息、在桌面端使用 1Password，还是通过浏览器扩展批准 AI 代理的凭据请求，体验都必须让人一眼认出是 1Password。“我会说是信任和确定性。”1Password 的 Chief Experience Officer Matt Davey 说。"
+              },
+              {
+                "t": "p",
+                "x": "设计系统团队把近二十年的设计规范转化为工具可用的上下文，让 Figma Make 和其他代理遵循与设计师相同的规则。Ryan Williamson-Cardneau 的团队搭建了一个内部原型试验场：一个只含前端的代码库，内有直接从 Figma 文件构建的 1Password 产品代码模板。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/a17b404ae2b6620f5900cc3aec4ff42c6e1a150c-1706x1410.png?rect=1,0,1705,1410&w=1080&h=893&q=75&fit=max&auto=format",
+                "cap": "在 Figma Make 中打开的 1Password 原型试验场，设计师可以选中一个代码组件，通过聊天或属性面板进行调整。"
+              },
+              {
+                "t": "p",
+                "x": "Ryan 发现，与其手动完成 30 处快速修改，交给 Figma Make 大约能做对 80%。Matt 把复制原型并将版本并排比较称为“视觉分支”。他说，聊天连接 1Password 的 MCP 后，“它就是一个陪练伙伴”。"
+              },
+              {
+                "t": "p",
+                "x": "1Password 的每位设计师都已上手原型试验场，工程师和 PMs 也在那里构建原型。1Password 在用户测试中已基本用代码原型取代了连线式 Figma 原型。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/ec408a42a9435922312ea6e79eb44ac6826c9a07-1706x1408.png?rect=0,1,1706,1407&w=1080&h=891&q=75&fit=max&auto=format",
+                "cap": "原型试验场汇集了整个团队的原型，每个都从一个代码化的 1Password 产品模板开始。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "1Password usa Figma Make\npara diseñar la confianza",
+          "body": "1Password usa Figma Make para diseñar momentos de confianza, desde el autocompletado hasta aprobar agentes de AI.",
+          "mini_headline": "1Password diseña en Make",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/bbbd715863ae9596492a6b6eda14af49a9b802de-2400x1260.png?w=1200&q=70&fit=max&auto=format"
+              },
+              {
+                "t": "p",
+                "x": "Cada vez que un usuario autocompleta un inicio de sesión en su teléfono, usa 1Password en el escritorio o aprueba desde la extensión del navegador una solicitud de credenciales de un agente de AI, la experiencia tiene que sentirse inconfundiblemente como 1Password. “Yo diría que es confianza y certeza”, dice Matt Davey, Chief Experience Officer de 1Password."
+              },
+              {
+                "t": "p",
+                "x": "El equipo de sistemas de diseño convirtió casi dos décadas de pautas de diseño en contexto que las herramientas pueden usar, de modo que Figma Make y otros agentes siguen las mismas reglas que seguiría un diseñador. El equipo de Ryan Williamson-Cardneau creó un espacio interno de prototipado: un repositorio solo de front-end con plantillas de código para los productos de 1Password, construidas directamente a partir de sus archivos de Figma."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/a17b404ae2b6620f5900cc3aec4ff42c6e1a150c-1706x1410.png?rect=1,0,1705,1410&w=1080&h=893&q=75&fit=max&auto=format",
+                "cap": "El espacio de prototipado de 1Password abierto en Figma Make, donde los diseñadores pueden seleccionar un componente programado y ajustarlo por chat o desde su panel de propiedades."
+              },
+              {
+                "t": "p",
+                "x": "En lugar de hacer a mano 30 ediciones rápidas, Ryan comprobó que Figma Make acertaba en cerca del 80% de ellas. Matt llama “ramificación visual” a duplicar un prototipo y comparar versiones lado a lado. Con el chat conectado al MCP de 1Password, “es un compañero de entrenamiento”, dice."
+              },
+              {
+                "t": "p",
+                "x": "Todos los diseñadores de 1Password se han incorporado al espacio de prototipado, y los ingenieros y PMs también crean prototipos allí. 1Password ha sustituido en gran medida sus prototipos enlazados de Figma por prototipos programados para las pruebas con usuarios."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/ec408a42a9435922312ea6e79eb44ac6826c9a07-1706x1408.png?rect=0,1,1706,1407&w=1080&h=891&q=75&fit=max&auto=format",
+                "cap": "El espacio de prototipado reúne prototipos de todo el equipo, cada uno iniciado a partir de una plantilla programada de un producto de 1Password."
               }
             ]
           }

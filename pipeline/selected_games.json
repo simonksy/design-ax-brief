@@ -1,96 +1,84 @@
 {
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "section": "games",
-  "picks": [
+  "user_selection": "none (deferred — curator scored)",
+  "items": [
     {
-      "title": "Xbox's Jason Ronald Confirms Project Helix Is a Console That Plays PC Games, Says Neural Rendering Is Leveraged to Deliver \"A New Level of Visual Fidelity\"",
-      "url": "https://wccftech.com/xbox-project-helix-console-pc-games-neural-rendering/",
-      "source": "Wccftech",
+      "title": "Unity CLI 1.0 is here",
+      "url": "https://unity.com/the-unity-cli-1.0-is-here",
+      "source": "Unity",
+      "category": "games",
       "tool": "Games",
       "accent": "#7928ca",
       "motif": "cube",
-      "rationale": "Platform-holder confirmation that Xbox's next-gen console builds neural rendering into its graphics pipeline; sets the AI-rendering target art and tech teams will ship against.",
-      "published_iso": "2026-11-15T21:00:00+00:00",
-      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Project-Helix-Xbox-HD-1920x1080.jpeg",
-      "excerpt": "XBOX's VP of Next Gen Jason Ronald confirmed that Project Helix also plays PC games, and revealed that neural rendering will be leveraged."
+      "published_iso": "2026-11-17T00:00:00+09:00",
+      "og_image": "https://cdn.sanity.io/images/fuvbjjlp/production/3308f9f8397d3f9eadf3a91ccd3de3754fd82400-1609x978.png",
+      "excerpt": "Announced at Unite Tokyo: the Unity CLI and Pipeline package are out of beta at 1.0, ready for projects, build machines and AI agents driving Unity from the terminal.",
+      "rationale": "Primary-source GA release: Unity's CLI and Pipeline package leave beta at 1.0, which lets AI coding agents drive Unity projects and builds from the terminal. Teams can act on it right away."
     },
     {
-      "title": "조카 그림, 클로드 페이블 5.2가 갓게임으로 제작",
-      "url": "http://www.gamey.kr/news/articleView.html?idxno=3019684",
-      "source": "게임와이",
+      "title": "Video Game Union Manifesto Calls On Consumers To 'Support Games Made Without GenAI'",
+      "url": "https://kotaku.com/video-game-union-manifesto-calls-on-consumers-to-support-games-made-without-genai-2000757423",
+      "source": "Kotaku",
+      "category": "games",
       "tool": "Games",
       "accent": "#0070f3",
       "motif": "cube",
-      "rationale": "A developer turned a child's hand-drawn design doc into a 12-stage, 18-character 4-player browser brawler overnight with Claude Fable 5.2; a concrete case of design-doc-to-playable AI production (the single Fable 5.2 games card allowed today).",
-      "published_iso": "2026-11-12T17:22:41+09:00",
-      "og_image": "https://cdn.gamey.kr/news/thumbnail/202611/3019684_174021_143_v150.jpg",
-      "excerpt": "개발자 렉스 톰부로우가 조카가 직접 그린 게임 설계를 '클로드 페이블 5.2'에 맡겨 하룻밤 만에 4인 협동 벨트스크롤 액션 게임 '에이든의 복수'를 만들었다. 12개 스테이지에 플레이 캐릭터 18명이 등장하며 웹 브라우저에서 바로 즐길 수 있다."
+      "published_iso": "2026-11-16T18:00:11+00:00",
+      "og_image": "https://kotaku.com/app/uploads/2026/11/IWGB-union-logo-1200x675.jpg",
+      "excerpt": "The joint collective made up of six European video game unions has urged consumers to 'be vocal about disliking GenAI in games'",
+      "rationale": "New labour-side event: six European game unions publish a joint manifesto asking players to back games made without GenAI. It is a fresh organised move, not more commentary on a story we already ran."
     },
     {
-      "title": "Moving Beyond the Editor: Unity's Three Approaches to the AI Ecosystem",
-      "url": "https://www.invenglobal.com/articles/28529/moving-beyond-the-editor-unitys-three-approaches-to-the-ai-ecosystem",
-      "source": "Inven Global",
-      "tool": "Games",
-      "accent": "#f5a623",
-      "motif": "cube",
-      "rationale": "Unity Korea's engineer lays out the engine's three-track AI strategy (in-editor, external agents, ecosystem) at AI Game Lab Day; tells Unity teams where AI tooling is headed.",
-      "published_iso": "2026-11-12T11:39:36+00:00",
-      "og_image": "https://static.invenglobal.com/upload/image/2026/11/12/r1794483730633569.jpeg",
-      "excerpt": "With game engines paying close attention to AI game development in recent years, Jong-tae Park, Staff Partner Engineer at Unity Korea, attended 'AI Game Lab Day 2026' as a speaker on November 12."
-    },
-    {
-      "title": "NC AI, 게임 제작 AI '바르코' 활용 확대…개발자 커뮤니티 가동",
-      "url": "https://zdnet.co.kr/view/?no=20261113120913",
-      "source": "지디넷코리아",
+      "title": "指定されたワードを履歴書に盛り込んで書類審査を突破。AI面接官との面接に挑むゲーム「AI面接官を突破せよ」，Steamで配信中",
+      "url": "https://www.4gamer.net/games/058/G105854/20261116008/",
+      "source": "4Gamer.net",
+      "category": "games",
       "tool": "Games",
       "accent": "#2ec5c5",
       "motif": "cube",
-      "rationale": "NC AI launches the 'Pangyo Builders' developer community and shares VARCO 3D-graphics and sound generation workflows directly with game devs; a new rollout step beyond the G-Star booth.",
-      "published_iso": "2026-11-13T12:09:37+09:00",
-      "og_image": "https://image.zdnet.co.kr/2026/11/13/9665b74012e71c74367f92553650ba35.jpg",
-      "excerpt": "NC AI가 게임 개발자 커뮤니티 '판교 빌더스'의 첫 행사에서 자체 AI 창작 플랫폼 '바르코'를 활용한 3D 그래픽과 사운드 제작 기술을 개발자들과 공유했다."
+      "published_iso": "2026-11-16T14:58:34+09:00",
+      "og_image": "https://www.4gamer.net/games/058/G105854/20261116008/SS/002.jpg",
+      "excerpt": "MeteorWing's 'AI面接官を突破せよ' is out on Steam (280 yen): players write a résumé with assigned keywords, then face an AI interviewer that generates questions on the spot from what they wrote.",
+      "rationale": "New release in which the AI is the game itself: an LLM interviewer writes its questions live from the player's résumé. It is a concrete example of AI-native game design."
     },
     {
-      "title": "How to organize a video game project with AI: 10 tips",
-      "url": "https://unity.com/blog/how-to-organize-a-game-project-with-ai",
-      "source": "Unity",
+      "title": "[판례.zip] AI에 게임 도둑맞았는데, 어떻게 대응하죠?",
+      "url": "https://www.gamemeca.com/view.php?gid=1783557",
+      "source": "게임메카",
+      "category": "games",
       "tool": "Games",
       "accent": "#eb367f",
       "motif": "cube",
-      "rationale": "Primary-source Unity guide with directly usable practices (design briefs, naming, checkpoints, prompt logs, playtesting) for structuring an AI-assisted game project.",
-      "published_iso": "2026-11-10T00:00:00Z",
-      "og_image": "https://cdn.sanity.io/images/fuvbjjlp/production/2330bde656908d3aad3b4b3181a276993cc9fd61-1200x675.png",
-      "excerpt": "How to organize a video game project with AI: 10 beginner tips on design briefs, naming, checkpoints, prompt logs, and playtesting – no coding needed."
+      "published_iso": "2026-11-16T15:04:27+09:00",
+      "og_image": "https://cdn.gamemeca.com/gmdata/0001/783/557/gm611794_261116-risell-tt5.webp",
+      "excerpt": "생성형 AI의 발전으로 인해 인디게임의 플레이 영상을 무단 분석하여 비슷한 게임을 먼저 출시하는 역설계 문제가 대두되고 있습니다. 대법원 판례에 따르면 단순한 장르적 규칙을 넘어 개별 요소가 선택되고 배열된 창작적 표현의 조합이 유사한지가 핵심 판단 기준이 됩니다. 따라서 개발자...",
+      "rationale": "Practical Korean legal guide for indie developers facing AI-made clones of their games. It uses Korean Supreme Court precedent to explain when a combination of game elements counts as protected expression, which is new and actionable for local studios."
     }
   ],
   "dedup": {
     "checks": {
-      "https://wccftech.com/xbox-project-helix-console-pc-games-neural-rendering/": {
-        "verdict": "new",
-        "nearest": "https://www.eurogamer.net/microsoft-xbox-gen-ai-asha-sharma-memo",
-        "new_action": ""
-      },
-      "http://www.gamey.kr/news/articleView.html?idxno=3019684": {
-        "verdict": "new",
-        "nearest": "https://wccftech.com/claude-fable-5-2-builds-playable-gears-of-war-e-day-clone-from-three-line-prompt-but-estimated-cost-reaches-15000/",
-        "new_action": ""
-      },
-      "https://www.invenglobal.com/articles/28529/moving-beyond-the-editor-unitys-three-approaches-to-the-ai-ecosystem": {
-        "verdict": "new",
-        "nearest": "https://www.inews24.com/view/2021651",
-        "new_action": ""
-      },
-      "https://zdnet.co.kr/view/?no=20261113120913": {
+      "https://unity.com/the-unity-cli-1.0-is-here": {
         "verdict": "follow-up",
-        "nearest": "https://www.inews24.com/view/2022819",
-        "new_action": "New announcement: NC AI launched the 'Pangyo Builders' developer community and held its first session sharing VARCO 3D/sound production workflows (11-06 card was only the G-Star experience cafe)."
-      },
-      "https://unity.com/blog/how-to-organize-a-game-project-with-ai": {
-        "verdict": "new",
         "nearest": "https://unity.com/blog/unity-cli-usage-data-ai-coding-agents",
+        "new_action": "Unity CLI and Pipeline package released at 1.0 (out of beta), announced at Unite Tokyo; the 10-25 card was a beta-period usage-data post"
+      },
+      "https://kotaku.com/video-game-union-manifesto-calls-on-consumers-to-support-games-made-without-genai-2000757423": {
+        "verdict": "new",
+        "nearest": "https://80.lv/articles/blizzard-workers-secure-historic-contract-covering-ai-use-layoff-protections/",
+        "new_action": ""
+      },
+      "https://www.4gamer.net/games/058/G105854/20261116008/": {
+        "verdict": "new",
+        "nearest": "http://www.gamespark.jp/article/2026/11/06/174568.html",
+        "new_action": ""
+      },
+      "https://www.gamemeca.com/view.php?gid=1783557": {
+        "verdict": "new",
+        "nearest": "https://www.gamesindustry.biz/how-to-protect-your-ip-against-the-army-of-ai-clones",
         "new_action": ""
       }
     },
-    "note": "Dropped as already published / same story: ArtStation AI declarations (80 Level) = ArtStation AI policy already ran in design 11-12 (creativebloq is-artstations-new-ai-art-policy-good-enough) -> cross-section dup. Tim Sweeney cluster (GamesRadar Steam disclosure = repeat of 10-24 card; GamesBeat 10X interview and Kotaku UE6 = commentary on running story, UE6 keynote ran 11-05 via 4gamer, Sweeney X spat ran 11-09). Big Walk / House House cluster (Polygon interview, Polygon GOTY analysis, Inven IGF boycott) = same running story as GI.biz 11-11 card, no new release. Game Developer GDC genAI brainstorming = same GDC State of the Industry report ran 11-13. Eurogamer Steam backlog delays = same story as RPS Food Devils 11-04; Aftermath AI disclosure op-ed = commentary. Take-Two CEO on Anthropic/OpenAI and AUTOMATON Claude Pokemon refusal = reactions/extra reporting on the Claude game-remake block that ran 11-02. AUTOMATON Hogwarts DLSS 5 hands-on = DLSS 5 Hogwarts support already ran 10-14 (wccftech). Wccftech Fable 5.2 underwater world skipped per cross-section rule (only one Fable 5.2 games card; chose the game-making item). Not picked on score: inews24 Hive Axil interview (commentary on 10-27 plugin), Eurogamer Sakurai column (opinion, Sakurai AI card ran 10-17), GI.biz investor panel (commentary)."
+    "note": "Replacement: the fact-check pass dropped the Shrek 2 Remastered pick (GamesRadar+) because AI appears in only one line and the article is about missing options and co-op; it is replaced by Nexus Mods' daily upload limit (Rock Paper Shotgun), a follow-up with a new platform policy action. Dropped as same story: Pearl Abyss AI design validation (Wccftech) is a likely-repeat of the 11-14 Eurogamer card. Game Developer GDC 'brainstorming' is the same report as the 11-13 GamesIndustry.biz card. Roblox newsroom repeats the 80% stat from the 10-30 GamesBeat card. Eurogamer Steam approval backlog continues the 11-04 RPS story with no new Valve action. Dropped as commentary with no new action: Sweeney on Steam AI disclosure (GamesRadar+; covered 10-24 and 06-26), Sweeney 10X productivity (GamesBeat), Claude refusing Pokemon fan projects (GamesRadar+; reaction to the 11-02 card), War Thunder art director on DLSS 5 (Wccftech; after the 11-04 card), Aftermath AI-disclosure op-ed. Dropped on fit: Humble Bundle redesign (AI angle is speculation only); Epic MegaJam YouTube (event footage of the 10-23 jam story, no new release). Cross-section: none of the 5 URLs appear in pipeline/published_urls.json for any section. Diversity: 5 distinct outlets, 1 card each."
   }
 }

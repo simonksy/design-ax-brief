@@ -1,191 +1,197 @@
 {
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "section": "games",
   "cards": [
     {
-      "id": "xbox-helix-neural-rendering",
+      "id": "unity-cli-ga-release",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Xbox Helix는\nPC 게임·뉴럴 렌더링",
-      "body": "Xbox VP Jason Ronald가 Helix의 PC 게임 구동을 확인했다.",
-      "mini_headline": "Helix, PC 게임 구동",
+      "headline": "Unity CLI 1.0\n에이전트·빌드 머신용",
+      "body": "Unite Tokyo에서 Unity CLI 1.0이 나와 AI가 터미널로 다룬다.",
+      "mini_headline": "Unity CLI 1.0 정식 출시",
       "tool": "Games",
-      "source": "Wccftech",
-      "url": "https://wccftech.com/xbox-project-helix-console-pc-games-neural-rendering/",
+      "source": "Unity",
+      "url": "https://unity.com/the-unity-cli-1.0-is-here",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "p",
+            "x": "Unity가 Unity를 터미널로 옮긴 건 2026년 7월 15일이다. 오늘 Unite Tokyo에서 Unity CLI와 Pipeline 패키지(com.unity.pipeline)가 베타 딱지를 뗐다. 버전 1.0은 프로젝트와 빌드 머신, 에이전트에 곧바로 투입할 수 있다."
+          },
+          {
             "t": "img",
-            "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Project-Helix-Xbox-HD-1920x1080.jpeg"
+            "src": "https://cdn.sanity.io/images/fuvbjjlp/production/3308f9f8397d3f9eadf3a91ccd3de3754fd82400-1609x978.png",
+            "cap": "Unity CLI 1.0"
           },
           {
             "t": "p",
-            "x": "XBOX 25주년 기념 행사가 이어지는 가운데 Microsoft가 차세대 콘솔 Project Helix의 새 정보를 내놓았다. 무료 디지털 잡지 'XBOX 25th Anniversary Magazine'에 실린 Jason Ronald XBOX 차세대 부문 부사장(Vice President of Next Generation) 인터뷰에서다."
+            "x": "베타는 터미널에서 Unity Editors와 모듈, 프로젝트를 설치·관리하는 단일 바이너리였다. Pipeline 패키지를 쓰면 CLI가 실행 중인 Editor를 조작하므로, 스크립트나 에이전트가 프로젝트를 열고 명령을 실행한 뒤 결과까지 확인한다. 이제 CLI는 Unity Hub가 설치해 준다. Claude Code·Codex·Grok Build·Google Antigravity용 공식 Unity 플러그인은 Unity 팀이 직접 쓴 스킬을 이들 에이전트에 넘겨준다. 베타 릴리스만 17회가 넘었다."
           },
           {
             "t": "p",
-            "x": "Ronald는 Helix가 PC 게임도 구동한다고 거듭 밝혔다. 다만 Steam 같은 플랫폼 지원 여부는 분명히 하지 않았다. \"Helix는 PC의 게임도 플레이할 수 있도록 설계된 콘솔이다. 콘솔 게임도 돌릴 수 있는 PC가 아니다.\""
+            "x": "7월 20일 이후 로그인 사용자 350,000명 이상이 Unity CLI로 6억 회 넘는 명령을 실행했다. 그중 약 98%는 코딩 에이전트와 기타 자동화가 보낸 것이다."
           },
           {
             "t": "p",
-            "x": "그는 이 콘솔이 뉴럴 렌더링을 적극 활용한다고 강조했다. \"우리가 뉴럴 렌더링 같은 기술 발전에 집중하는 큰 이유가 여기에 있다. 더 많은 연산 능력이나 추가 메모리 같은 것 없이도 프레임을 만들어 내는 완전히 새로운 방식이기 때문이다.\" 차세대의 핵심으로는 \"뉴럴 렌더링 같은 새로운 기술 발전을 활용해 더 효율적이고 혁신적인 방식으로 한 단계 높은 시각 품질을 구현하는 것\"을 꼽았다."
-          },
-          {
-            "t": "p",
-            "x": "Wccftech는 그가 말한 뉴럴 렌더링이 NVIDIA의 DLSS 5 같은 방식이라기보다 AI-powered 업스케일링, 프레임 생성, 레이 재구성을 아우르는 넓은 개념으로 보인다고 짚었다. 콘솔 출시가 2028년 홀리데이 시즌으로 미뤄졌다는 소문대로라면 전체 세부 사항은 한동안 나오지 않을 수도 있다."
+            "x": "1.0은 약속이기도 하다. 명령과 플래그, 출력은 1.x 릴리스 내내 호환된다. Build Server 라이선스도 이제 빌드에 더해 에이전트와 자동화까지 아우른다. 인스턴스당 라이선스 하나면 헤드리스 Editor나 컨테이너에서 에이전트를 돌릴 수 있다. Linux 컨테이너형 Editor가 곧 나오고, 그 뒤로 AI Generators, Live Games, Build Automation용 명령과 에이전트 전용 계정이 이어진다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Xbox Helix plays PC games\nand taps neural rendering",
-          "body": "Xbox VP Jason Ronald confirmed Project Helix also plays PC games and will use neural rendering for visual fidelity.",
-          "mini_headline": "Helix plays PC games",
+          "headline": "Unity CLI reaches 1.0\nfor agents and build machines",
+          "body": "Announced at Unite Tokyo, Unity's CLI and Pipeline package hit 1.0, letting AI agents drive Unity from the terminal.",
+          "mini_headline": "Unity CLI hits 1.0",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "On July 15, 2026, we brought Unity to the terminal. Today at Unite Tokyo, the Unity CLI and the Pipeline package (com.unity.pipeline) are out of beta. Version 1.0 is ready for your projects, your build machines and your agents."
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Project-Helix-Xbox-HD-1920x1080.jpeg"
+                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/3308f9f8397d3f9eadf3a91ccd3de3754fd82400-1609x978.png",
+                "cap": "Unity CLI 1.0"
               },
               {
                 "t": "p",
-                "x": "The celebrations for XBOX's 25th anniversary are underway, and Microsoft has shared new details about the upcoming next-generation Project Helix console in an interview with Jason Ronald, XBOX Vice President of Next Generation, published in the free digital XBOX 25th Anniversary Magazine."
+                "x": "The beta was one binary that installs and manages Unity Editors, modules and projects from the terminal; the Pipeline package lets the CLI drive a running Editor, so a script or an agent can open a project, run a command and check the result. The Unity Hub now installs the CLI, and official Unity plugins for Claude Code, Codex, Grok Build and Google Antigravity give those agents skills written by Unity's own teams. More than 17 beta releases shipped."
               },
               {
                 "t": "p",
-                "x": "Ronald reiterated that Helix will also play PC games, though he did not clarify whether it would support platforms like Steam: \"Helix is designed to be a console that is also capable of playing games from your PC. It is not a PC that can also play console games.\""
+                "x": "Since July 20, more than 350,000 logged-in users have run more than 600 million commands with the Unity CLI. About 98% of those runs come from coding agents and other automation."
               },
               {
                 "t": "p",
-                "x": "He stressed that the console will leverage neural rendering: \"This is a big reason why we're really focused on advancements like neural rendering, because it's an entirely new way to generate a frame without requiring more computational horsepower, additional memory, and things like that.\" The next generation, he said, is about \"leveraging new technical advancements, such as neural rendering, to deliver a new level of visual fidelity in more efficient and innovative ways.\""
-              },
-              {
-                "t": "p",
-                "x": "Wccftech notes he was likely referring to neural rendering in a broader sense, including AI-powered upscaling, frame generation and ray reconstruction, rather than NVIDIA's DLSS 5-like approach. Full details may take a while, given rumors that the console has been delayed to Holiday 2028."
+                "x": "1.0 is also a commitment: commands, flags and output stay compatible across 1.x releases. The Build Server license now covers agents and automation, not only builds: one license per instance lets you run agents on a headless Editor or in a container. Coming soon: the Linux containerized Editor. Next: commands for AI Generators, Live Games and Build Automation, and accounts built for agents."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Xbox Helix는\nPC 게임·뉴럴 렌더링",
-          "body": "Xbox VP Jason Ronald가 Helix의 PC 게임 구동을 확인했다.",
-          "mini_headline": "Helix, PC 게임 구동",
+          "headline": "Unity CLI 1.0\n에이전트·빌드 머신용",
+          "body": "Unite Tokyo에서 Unity CLI 1.0이 나와 AI가 터미널로 다룬다.",
+          "mini_headline": "Unity CLI 1.0 정식 출시",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Unity가 Unity를 터미널로 옮긴 건 2026년 7월 15일이다. 오늘 Unite Tokyo에서 Unity CLI와 Pipeline 패키지(com.unity.pipeline)가 베타 딱지를 뗐다. 버전 1.0은 프로젝트와 빌드 머신, 에이전트에 곧바로 투입할 수 있다."
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Project-Helix-Xbox-HD-1920x1080.jpeg"
+                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/3308f9f8397d3f9eadf3a91ccd3de3754fd82400-1609x978.png",
+                "cap": "Unity CLI 1.0"
               },
               {
                 "t": "p",
-                "x": "XBOX 25주년 기념 행사가 이어지는 가운데 Microsoft가 차세대 콘솔 Project Helix의 새 정보를 내놓았다. 무료 디지털 잡지 'XBOX 25th Anniversary Magazine'에 실린 Jason Ronald XBOX 차세대 부문 부사장(Vice President of Next Generation) 인터뷰에서다."
+                "x": "베타는 터미널에서 Unity Editors와 모듈, 프로젝트를 설치·관리하는 단일 바이너리였다. Pipeline 패키지를 쓰면 CLI가 실행 중인 Editor를 조작하므로, 스크립트나 에이전트가 프로젝트를 열고 명령을 실행한 뒤 결과까지 확인한다. 이제 CLI는 Unity Hub가 설치해 준다. Claude Code·Codex·Grok Build·Google Antigravity용 공식 Unity 플러그인은 Unity 팀이 직접 쓴 스킬을 이들 에이전트에 넘겨준다. 베타 릴리스만 17회가 넘었다."
               },
               {
                 "t": "p",
-                "x": "Ronald는 Helix가 PC 게임도 구동한다고 거듭 밝혔다. 다만 Steam 같은 플랫폼 지원 여부는 분명히 하지 않았다. \"Helix는 PC의 게임도 플레이할 수 있도록 설계된 콘솔이다. 콘솔 게임도 돌릴 수 있는 PC가 아니다.\""
+                "x": "7월 20일 이후 로그인 사용자 350,000명 이상이 Unity CLI로 6억 회 넘는 명령을 실행했다. 그중 약 98%는 코딩 에이전트와 기타 자동화가 보낸 것이다."
               },
               {
                 "t": "p",
-                "x": "그는 이 콘솔이 뉴럴 렌더링을 적극 활용한다고 강조했다. \"우리가 뉴럴 렌더링 같은 기술 발전에 집중하는 큰 이유가 여기에 있다. 더 많은 연산 능력이나 추가 메모리 같은 것 없이도 프레임을 만들어 내는 완전히 새로운 방식이기 때문이다.\" 차세대의 핵심으로는 \"뉴럴 렌더링 같은 새로운 기술 발전을 활용해 더 효율적이고 혁신적인 방식으로 한 단계 높은 시각 품질을 구현하는 것\"을 꼽았다."
-              },
-              {
-                "t": "p",
-                "x": "Wccftech는 그가 말한 뉴럴 렌더링이 NVIDIA의 DLSS 5 같은 방식이라기보다 AI-powered 업스케일링, 프레임 생성, 레이 재구성을 아우르는 넓은 개념으로 보인다고 짚었다. 콘솔 출시가 2028년 홀리데이 시즌으로 미뤄졌다는 소문대로라면 전체 세부 사항은 한동안 나오지 않을 수도 있다."
+                "x": "1.0은 약속이기도 하다. 명령과 플래그, 출력은 1.x 릴리스 내내 호환된다. Build Server 라이선스도 이제 빌드에 더해 에이전트와 자동화까지 아우른다. 인스턴스당 라이선스 하나면 헤드리스 Editor나 컨테이너에서 에이전트를 돌릴 수 있다. Linux 컨테이너형 Editor가 곧 나오고, 그 뒤로 AI Generators, Live Games, Build Automation용 명령과 에이전트 전용 계정이 이어진다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Xbox Helix、\nPCゲームとニューラル描画",
-          "body": "Xbox VP Jason RonaldはHelixがPCゲームも動かすと認めた。",
-          "mini_headline": "HelixはPCゲームも動く",
+          "headline": "Unity CLIが1.0に\nエージェントとビルド機向け",
+          "body": "Unite TokyoでCLIとPipelineが1.0に達し、AIが端末から操作できる。",
+          "mini_headline": "Unity CLIが1.0に",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "2026年7月15日、UnityはUnityをターミナルに持ち込んだ。本日Unite Tokyoで、Unity CLIとPipelineパッケージ(com.unity.pipeline)がベータを終えた。バージョン1.0は、プロジェクト、ビルドマシン、エージェントですぐに使える。"
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Project-Helix-Xbox-HD-1920x1080.jpeg"
+                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/3308f9f8397d3f9eadf3a91ccd3de3754fd82400-1609x978.png",
+                "cap": "Unity CLI 1.0"
               },
               {
                 "t": "p",
-                "x": "XBOXの25周年を祝う催しが進むなか、Microsoftは無料のデジタル誌『XBOX 25th Anniversary Magazine』に掲載されたXBOX次世代担当バイスプレジデントJason Ronaldのインタビューで、次世代コンソールProject Helixの新たな詳細を明らかにした。"
+                "x": "ベータ版は、ターミナルからUnity Editors、モジュール、プロジェクトをインストール・管理する単一のバイナリだった。PipelineパッケージによってCLIが実行中のEditorを操作でき、スクリプトやエージェントがプロジェクトを開き、コマンドを実行し、結果を確認できる。現在はUnity HubがCLIをインストールし、Claude Code、Codex、Grok Build、Google Antigravity向けの公式Unityプラグインが、Unity自身のチームが書いたスキルをこれらのエージェントに提供する。ベータは17回以上リリースされた。"
               },
               {
                 "t": "p",
-                "x": "RonaldはHelixがPCゲームもプレイできると改めて述べたが、Steamのようなプラットフォームに対応するかは明言しなかった。「Helixは、PCのゲームもプレイできるよう設計されたコンソールだ。コンソールゲームも遊べるPCではない」"
+                "x": "7月20日以降、350,000人を超えるログインユーザーがUnity CLIで6億回を超えるコマンドを実行した。その約98%はコーディングエージェントやその他の自動化によるものだ。"
               },
               {
                 "t": "p",
-                "x": "彼は同機がニューラルレンダリングを活用すると強調した。「ニューラルレンダリングのような進歩に本気で注力している大きな理由はここにある。演算能力や追加メモリなどを増やさずにフレームを生成する、まったく新しい方法だからだ」。次世代とは「ニューラルレンダリングなどの新たな技術的進歩を活用し、より効率的かつ革新的な方法で新たな水準のビジュアル品質を実現すること」だという。"
-              },
-              {
-                "t": "p",
-                "x": "Wccftechは、彼がNVIDIAのDLSS 5のような手法ではなく、AI-poweredのアップスケーリングやフレーム生成、レイ再構成を含む広い意味でのニューラルレンダリングを指していた可能性が高いと指摘する。同機が2028年のホリデーシーズンに延期されたとのうわさもあり、全容が明らかになるには時間がかかりそうだ。"
+                "x": "1.0は約束でもある。コマンド、フラグ、出力は1.xリリースを通じて互換性を保つ。Build Serverライセンスはビルドだけでなく、エージェントと自動化もカバーするようになった。インスタンスごとにライセンス一つで、ヘッドレスEditorやコンテナ上でエージェントを動かせる。近日登場するのはLinuxのコンテナ版Editorだ。その次はAI Generators、Live Games、Build Automation向けのコマンドと、エージェント向けのアカウントである。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Xbox Helix将可玩\nPC游戏并用神经渲染",
-          "body": "Xbox VP Jason Ronald确认Project Helix也能运行PC游戏。",
-          "mini_headline": "Helix可玩PC游戏",
+          "headline": "Unity CLI迎来1.0\n面向智能体与构建机器",
+          "body": "Unity CLI与Pipeline包在Unite Tokyo发布1.0，AI可从终端操控。",
+          "mini_headline": "Unity CLI迎来1.0",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "2026年7月15日，我们把Unity带进了终端。今天在Unite Tokyo上，Unity CLI与Pipeline包（com.unity.pipeline）结束测试。1.0版本已可用于你的项目、构建机器和智能体。"
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Project-Helix-Xbox-HD-1920x1080.jpeg"
+                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/3308f9f8397d3f9eadf3a91ccd3de3754fd82400-1609x978.png",
+                "cap": "Unity CLI 1.0"
               },
               {
                 "t": "p",
-                "x": "XBOX 25周年庆祝活动正在进行，Microsoft在免费数字刊物《XBOX 25th Anniversary Magazine》刊登的XBOX次世代副总裁Jason Ronald专访中，公布了下一代主机Project Helix的新细节。"
+                "x": "测试版是一个可在终端中安装和管理Unity Editors、模块与项目的单一二进制文件；Pipeline包让CLI驱动正在运行的Editor，脚本或智能体因此能打开项目、执行命令并检查结果。Unity Hub现已可安装CLI，面向Claude Code、Codex、Grok Build和Google Antigravity的官方Unity插件，为这些智能体提供由Unity自家团队编写的技能。测试版共发布了超过17个版本。"
               },
               {
                 "t": "p",
-                "x": "Ronald重申Helix也能运行PC游戏，但未说明是否支持Steam等平台：“Helix的设计定位是一台也能玩PC游戏的主机，而不是一台也能玩主机游戏的PC。”"
+                "x": "自7月20日以来，超过350,000名登录用户使用Unity CLI运行了超过6亿条命令。其中约98%来自编码智能体及其他自动化工具。"
               },
               {
                 "t": "p",
-                "x": "他强调这台主机将运用神经渲染：“这正是我们高度关注神经渲染等技术进步的重要原因，因为这是一种全新的帧生成方式，无需更多算力、额外内存之类的资源。”他表示，下一代的意义在于“借助神经渲染等新的技术进步，以更高效、更具创新性的方式带来全新水平的视觉保真度”。"
-              },
-              {
-                "t": "p",
-                "x": "Wccftech指出，他所说的很可能是广义的神经渲染，包括AI-powered超分辨率、帧生成和光线重建，而非NVIDIA DLSS 5那样的方案。鉴于有传闻称这台主机已推迟至2028年假日季，完整细节可能还要等上一段时间。"
+                "x": "1.0也是一项承诺：命令、标志和输出在1.x各版本间保持兼容。Build Server许可现在不仅涵盖构建，也涵盖智能体与自动化：每个实例一个许可，即可在无头Editor或容器中运行智能体。即将推出：Linux容器化Editor。下一步：面向AI Generators、Live Games和Build Automation的命令，以及为智能体打造的账户。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Xbox Helix ejecuta juegos de PC\ny usa renderizado neuronal",
-          "body": "Jason Ronald, VP de Xbox, confirmó que Project Helix también ejecuta juegos de PC y usará renderizado neuronal.",
-          "mini_headline": "Helix ejecuta juegos de PC",
+          "headline": "Unity CLI llega a la 1.0\npara agentes y compilaciones",
+          "body": "En Unite Tokyo, el CLI y el paquete Pipeline de Unity llegan a la 1.0: los agentes de AI lo usan desde la terminal.",
+          "mini_headline": "Unity CLI llega a la 1.0",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "El 15 de julio de 2026 llevamos Unity a la terminal. Hoy, en Unite Tokyo, el Unity CLI y el paquete Pipeline (com.unity.pipeline) salen de la beta. La versión 1.0 está lista para tus proyectos, tus máquinas de compilación y tus agentes."
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Project-Helix-Xbox-HD-1920x1080.jpeg"
+                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/3308f9f8397d3f9eadf3a91ccd3de3754fd82400-1609x978.png",
+                "cap": "Unity CLI 1.0"
               },
               {
                 "t": "p",
-                "x": "Las celebraciones por el 25 aniversario de XBOX ya están en marcha, y Microsoft compartió nuevos detalles sobre Project Helix, la próxima consola de nueva generación, en una entrevista con Jason Ronald, vicepresidente de Next Generation de XBOX, publicada en la revista digital gratuita XBOX 25th Anniversary Magazine."
+                "x": "La beta era un único binario que instala y gestiona Unity Editors, módulos y proyectos desde la terminal; el paquete Pipeline permite que el CLI controle un Editor en ejecución, de modo que un script o un agente pueda abrir un proyecto, ejecutar un comando y comprobar el resultado. Unity Hub ahora instala el CLI, y los plugins oficiales de Unity para Claude Code, Codex, Grok Build y Google Antigravity dan a esos agentes habilidades escritas por los propios equipos de Unity. Se publicaron más de 17 versiones beta."
               },
               {
                 "t": "p",
-                "x": "Ronald reiteró que Helix también ejecutará juegos de PC, aunque no aclaró si admitirá plataformas como Steam: \"Helix está diseñada para ser una consola que también puede ejecutar juegos de tu PC. No es un PC que también pueda ejecutar juegos de consola\"."
+                "x": "Desde el 20 de julio, más de 350,000 usuarios con sesión iniciada han ejecutado más de 600 millones de comandos con el Unity CLI. Cerca del 98% de esas ejecuciones proviene de agentes de programación y otras automatizaciones."
               },
               {
                 "t": "p",
-                "x": "Subrayó que la consola aprovechará el renderizado neuronal: \"Esta es una de las grandes razones por las que nos centramos en avances como el renderizado neuronal, porque es una forma completamente nueva de generar un fotograma sin necesitar más potencia de cálculo, memoria adicional y cosas por el estilo\". La nueva generación, dijo, consiste en \"aprovechar nuevos avances técnicos, como el renderizado neuronal, para ofrecer un nuevo nivel de fidelidad visual de formas más eficientes e innovadoras\"."
-              },
-              {
-                "t": "p",
-                "x": "Wccftech señala que probablemente se refería al renderizado neuronal en un sentido amplio, que incluye el escalado AI-powered, la generación de fotogramas y la reconstrucción de rayos, y no a un enfoque similar a DLSS 5 de NVIDIA. Los detalles completos podrían tardar, dados los rumores de que la consola se ha retrasado a la temporada navideña de 2028."
+                "x": "La 1.0 también es un compromiso: los comandos, las flags y la salida seguirán siendo compatibles en todas las versiones 1.x. La licencia de Build Server ahora cubre agentes y automatización, no solo compilaciones: una licencia por instancia permite ejecutar agentes en un Editor headless o en un contenedor. Próximamente: el Editor en contenedor para Linux. Después: comandos para AI Generators, Live Games y Build Automation, y cuentas pensadas para agentes."
               }
             ]
           }
@@ -193,121 +199,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Xbox Helix는\nPC 게임·뉴럴 렌더링",
-          "body": "Xbox VP Jason Ronald는 Helix가 PC 게임도 돌린다고 확인했다.",
-          "mini_headline": "Helix, PC 게임 구동",
+          "headline": "Unity CLI 1.0\n에이전트·빌드 머신용",
+          "body": "Unite Tokyo서 Unity CLI 1.0이 나와 AI가 터미널로 조작한다.",
+          "mini_headline": "Unity CLI 1.0 정식 출시",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Unity는 2026년 7월 15일 Unity를 터미널로 가져왔다. 오늘 Unite Tokyo에서 Unity CLI와 Pipeline 패키지(com.unity.pipeline)가 베타를 마쳤다. 버전 1.0은 프로젝트와 빌드 머신, 에이전트에 바로 쓸 수 있다."
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Project-Helix-Xbox-HD-1920x1080.jpeg"
+                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/3308f9f8397d3f9eadf3a91ccd3de3754fd82400-1609x978.png",
+                "cap": "Unity CLI 1.0"
               },
               {
                 "t": "p",
-                "x": "XBOX 25주년 기념 행사가 이어지는 가운데, Microsoft가 무료 디지털 잡지 'XBOX 25th Anniversary Magazine'에 실린 Jason Ronald XBOX 차세대 부문 부사장(Vice President of Next Generation) 인터뷰를 통해 차세대 콘솔 Project Helix의 새로운 정보를 공개했다."
+                "x": "베타는 터미널에서 Unity Editors와 모듈, 프로젝트를 설치하고 관리하는 단일 바이너리였다. Pipeline 패키지는 CLI가 실행 중인 Editor를 조작하게 해, 스크립트나 에이전트가 프로젝트를 열고 명령을 실행한 뒤 결과를 확인할 수 있다. 이제 Unity Hub가 CLI를 설치하며, Claude Code·Codex·Grok Build·Google Antigravity용 공식 Unity 플러그인은 Unity 팀이 직접 작성한 스킬을 이 에이전트들에 제공한다. 베타 릴리스는 17회 넘게 나왔다."
               },
               {
                 "t": "p",
-                "x": "Ronald는 Helix가 PC 게임도 구동한다고 거듭 밝혔지만, Steam 같은 플랫폼을 지원하는지는 분명히 하지 않았다. \"Helix는 PC의 게임도 플레이할 수 있도록 설계된 콘솔이다. 콘솔 게임도 돌릴 수 있는 PC가 아니다.\""
+                "x": "7월 20일 이후 로그인 사용자 350,000명 이상이 Unity CLI로 6억 회 이상의 명령을 실행했다. 이 실행의 약 98%는 코딩 에이전트와 기타 자동화에서 나왔다."
               },
               {
                 "t": "p",
-                "x": "그는 이 콘솔이 뉴럴 렌더링을 적극 활용한다고 강조했다. \"우리가 뉴럴 렌더링 같은 기술 발전에 집중하는 큰 이유가 여기에 있다. 더 많은 연산 능력이나 추가 메모리 같은 것 없이도 프레임을 만들어 내는 완전히 새로운 방식이기 때문이다.\" 그는 차세대의 핵심이 \"뉴럴 렌더링 같은 새로운 기술 발전을 활용해 더 효율적이고 혁신적인 방식으로 한 단계 높은 시각 품질을 구현하는 것\"이라고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "Wccftech는 그가 NVIDIA의 DLSS 5 같은 방식보다는 AI-powered 업스케일링, 프레임 생성, 레이 재구성을 아우르는 넓은 의미의 뉴럴 렌더링을 말한 것으로 보인다고 짚었다. 콘솔 출시가 2028년 홀리데이 시즌으로 미뤄졌다는 소문을 고려하면 전체 세부 사항이 나오기까지는 시간이 걸릴 수 있다."
+                "x": "1.0은 약속이기도 하다. 명령과 플래그, 출력은 1.x 릴리스 전반에서 호환성을 유지한다. Build Server 라이선스는 이제 빌드뿐 아니라 에이전트와 자동화까지 포괄한다. 인스턴스당 라이선스 하나로 헤드리스 Editor나 컨테이너에서 에이전트를 돌릴 수 있다. 곧 Linux 컨테이너형 Editor가 나온다. 그다음은 AI Generators, Live Games, Build Automation용 명령과 에이전트 전용 계정이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Xbox Helix、\nPCゲームとニューラル描画",
-          "body": "Xbox VP Jason RonaldはHelixがPCゲームも動かすと認めた。",
-          "mini_headline": "HelixはPCゲームも動く",
+          "headline": "Unity CLIが1.0に\nエージェントとビルド機向け",
+          "body": "Unite TokyoでCLIとPipelineが1.0に達し、AIが端末から操作できる。",
+          "mini_headline": "Unity CLIが1.0に",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "2026年7月15日、UnityはUnityをターミナルに持ち込んだ。本日Unite Tokyoで、Unity CLIとPipelineパッケージ(com.unity.pipeline)がベータを終えた。バージョン1.0は、プロジェクト、ビルドマシン、エージェントですぐに使える。"
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Project-Helix-Xbox-HD-1920x1080.jpeg"
+                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/3308f9f8397d3f9eadf3a91ccd3de3754fd82400-1609x978.png",
+                "cap": "Unity CLI 1.0"
               },
               {
                 "t": "p",
-                "x": "XBOXの25周年を祝う催しが進むなか、Microsoftは無料のデジタル誌『XBOX 25th Anniversary Magazine』に掲載されたXBOX次世代担当バイスプレジデントJason Ronaldのインタビューで、次世代コンソールProject Helixの新たな詳細を明らかにした。"
+                "x": "ベータ版は、ターミナルからUnity Editors、モジュール、プロジェクトをインストール・管理する単一のバイナリだった。PipelineパッケージによってCLIが実行中のEditorを操作でき、スクリプトやエージェントがプロジェクトを開き、コマンドを実行し、結果を確認できる。現在はUnity HubがCLIをインストールし、Claude Code、Codex、Grok Build、Google Antigravity向けの公式Unityプラグインが、Unity自身のチームが書いたスキルをこれらのエージェントに提供する。ベータは17回以上リリースされた。"
               },
               {
                 "t": "p",
-                "x": "RonaldはHelixがPCゲームもプレイできると改めて述べたが、Steamのようなプラットフォームに対応するかは明言しなかった。「Helixは、PCのゲームもプレイできるよう設計されたコンソールだ。コンソールゲームも遊べるPCではない」"
+                "x": "7月20日以降、350,000人を超えるログインユーザーがUnity CLIで6億回を超えるコマンドを実行した。その約98%はコーディングエージェントやその他の自動化によるものだ。"
               },
               {
                 "t": "p",
-                "x": "彼は同機がニューラルレンダリングを活用すると強調した。「ニューラルレンダリングのような進歩に本気で注力している大きな理由はここにある。演算能力や追加メモリなどを増やさずにフレームを生成する、まったく新しい方法だからだ」。次世代とは「ニューラルレンダリングなどの新たな技術的進歩を活用し、より効率的かつ革新的な方法で新たな水準のビジュアル品質を実現すること」だという。"
-              },
-              {
-                "t": "p",
-                "x": "Wccftechは、彼がNVIDIAのDLSS 5のような手法ではなく、AI-poweredのアップスケーリングやフレーム生成、レイ再構成を含む広い意味でのニューラルレンダリングを指していた可能性が高いと指摘する。同機が2028年のホリデーシーズンに延期されたとのうわさもあり、全容が明らかになるには時間がかかりそうだ。"
+                "x": "1.0は約束でもある。コマンド、フラグ、出力は1.xリリースを通じて互換性を保つ。Build Serverライセンスはビルドだけでなく、エージェントと自動化もカバーするようになった。インスタンスごとにライセンス一つで、ヘッドレスEditorやコンテナ上でエージェントを動かせる。近日登場するのはLinuxのコンテナ版Editorだ。その次はAI Generators、Live Games、Build Automation向けのコマンドと、エージェント向けのアカウントである。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Xbox Helix将可玩\nPC游戏并用神经渲染",
-          "body": "Xbox VP Jason Ronald确认Project Helix也能运行PC游戏。",
-          "mini_headline": "Helix可玩PC游戏",
+          "headline": "Unity CLI迎来1.0\n面向智能体与构建机器",
+          "body": "Unity CLI与Pipeline包在Unite Tokyo发布1.0，AI可从终端操控。",
+          "mini_headline": "Unity CLI迎来1.0",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "2026年7月15日，我们把Unity带进了终端。今天在Unite Tokyo上，Unity CLI与Pipeline包（com.unity.pipeline）结束测试。1.0版本已可用于你的项目、构建机器和智能体。"
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Project-Helix-Xbox-HD-1920x1080.jpeg"
+                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/3308f9f8397d3f9eadf3a91ccd3de3754fd82400-1609x978.png",
+                "cap": "Unity CLI 1.0"
               },
               {
                 "t": "p",
-                "x": "XBOX 25周年庆祝活动正在进行，Microsoft在免费数字刊物《XBOX 25th Anniversary Magazine》刊登的XBOX次世代副总裁Jason Ronald专访中，公布了下一代主机Project Helix的新细节。"
+                "x": "测试版是一个可在终端中安装和管理Unity Editors、模块与项目的单一二进制文件；Pipeline包让CLI驱动正在运行的Editor，脚本或智能体因此能打开项目、执行命令并检查结果。Unity Hub现已可安装CLI，面向Claude Code、Codex、Grok Build和Google Antigravity的官方Unity插件，为这些智能体提供由Unity自家团队编写的技能。测试版共发布了超过17个版本。"
               },
               {
                 "t": "p",
-                "x": "Ronald重申Helix也能运行PC游戏，但未说明是否支持Steam等平台：“Helix的设计定位是一台也能玩PC游戏的主机，而不是一台也能玩主机游戏的PC。”"
+                "x": "自7月20日以来，超过350,000名登录用户使用Unity CLI运行了超过6亿条命令。其中约98%来自编码智能体及其他自动化工具。"
               },
               {
                 "t": "p",
-                "x": "他强调这台主机将运用神经渲染：“这正是我们高度关注神经渲染等技术进步的重要原因，因为这是一种全新的帧生成方式，无需更多算力、额外内存之类的资源。”他表示，下一代的意义在于“借助神经渲染等新的技术进步，以更高效、更具创新性的方式带来全新水平的视觉保真度”。"
-              },
-              {
-                "t": "p",
-                "x": "Wccftech指出，他所说的很可能是广义的神经渲染，包括AI-powered超分辨率、帧生成和光线重建，而非NVIDIA DLSS 5那样的方案。鉴于有传闻称这台主机已推迟至2028年假日季，完整细节可能还要等上一段时间。"
+                "x": "1.0也是一项承诺：命令、标志和输出在1.x各版本间保持兼容。Build Server许可现在不仅涵盖构建，也涵盖智能体与自动化：每个实例一个许可，即可在无头Editor或容器中运行智能体。即将推出：Linux容器化Editor。下一步：面向AI Generators、Live Games和Build Automation的命令，以及为智能体打造的账户。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Xbox Helix ejecuta juegos de PC\ny usa renderizado neuronal",
-          "body": "Jason Ronald, VP de Xbox, confirmó que Project Helix también ejecuta juegos de PC y usará renderizado neuronal.",
-          "mini_headline": "Helix ejecuta juegos de PC",
+          "headline": "Unity CLI llega a la 1.0\npara agentes y compilaciones",
+          "body": "En Unite Tokyo, el CLI y el paquete Pipeline de Unity llegan a la 1.0: los agentes de AI lo usan desde la terminal.",
+          "mini_headline": "Unity CLI llega a la 1.0",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "El 15 de julio de 2026 llevamos Unity a la terminal. Hoy, en Unite Tokyo, el Unity CLI y el paquete Pipeline (com.unity.pipeline) salen de la beta. La versión 1.0 está lista para tus proyectos, tus máquinas de compilación y tus agentes."
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Project-Helix-Xbox-HD-1920x1080.jpeg"
+                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/3308f9f8397d3f9eadf3a91ccd3de3754fd82400-1609x978.png",
+                "cap": "Unity CLI 1.0"
               },
               {
                 "t": "p",
-                "x": "Las celebraciones por el 25 aniversario de XBOX ya están en marcha, y Microsoft compartió nuevos detalles sobre Project Helix, la próxima consola de nueva generación, en una entrevista con Jason Ronald, vicepresidente de Next Generation de XBOX, publicada en la revista digital gratuita XBOX 25th Anniversary Magazine."
+                "x": "La beta era un único binario que instala y gestiona Unity Editors, módulos y proyectos desde la terminal; el paquete Pipeline permite que el CLI controle un Editor en ejecución, de modo que un script o un agente pueda abrir un proyecto, ejecutar un comando y comprobar el resultado. Unity Hub ahora instala el CLI, y los plugins oficiales de Unity para Claude Code, Codex, Grok Build y Google Antigravity dan a esos agentes habilidades escritas por los propios equipos de Unity. Se publicaron más de 17 versiones beta."
               },
               {
                 "t": "p",
-                "x": "Ronald reiteró que Helix también ejecutará juegos de PC, aunque no aclaró si admitirá plataformas como Steam: \"Helix está diseñada para ser una consola que también puede ejecutar juegos de tu PC. No es un PC que también pueda ejecutar juegos de consola\"."
+                "x": "Desde el 20 de julio, más de 350,000 usuarios con sesión iniciada han ejecutado más de 600 millones de comandos con el Unity CLI. Cerca del 98% de esas ejecuciones proviene de agentes de programación y otras automatizaciones."
               },
               {
                 "t": "p",
-                "x": "Subrayó que la consola aprovechará el renderizado neuronal: \"Esta es una de las grandes razones por las que nos centramos en avances como el renderizado neuronal, porque es una forma completamente nueva de generar un fotograma sin necesitar más potencia de cálculo, memoria adicional y cosas por el estilo\". La nueva generación, dijo, consiste en \"aprovechar nuevos avances técnicos, como el renderizado neuronal, para ofrecer un nuevo nivel de fidelidad visual de formas más eficientes e innovadoras\"."
-              },
-              {
-                "t": "p",
-                "x": "Wccftech señala que probablemente se refería al renderizado neuronal en un sentido amplio, que incluye el escalado AI-powered, la generación de fotogramas y la reconstrucción de rayos, y no a un enfoque similar a DLSS 5 de NVIDIA. Los detalles completos podrían tardar, dados los rumores de que la consola se ha retrasado a la temporada navideña de 2028."
+                "x": "La 1.0 también es un compromiso: los comandos, las flags y la salida seguirán siendo compatibles en todas las versiones 1.x. La licencia de Build Server ahora cubre agentes y automatización, no solo compilaciones: una licencia por instancia permite ejecutar agentes en un Editor headless o en un contenedor. Próximamente: el Editor en contenedor para Linux. Después: comandos para AI Generators, Live Games y Build Automation, y cuentas pensadas para agentes."
               }
             ]
           }
@@ -315,653 +325,195 @@
       }
     },
     {
-      "id": "fable52-nephew-brawler",
-      "source_lang": "ko",
+      "id": "games-unions-genai-manifesto",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "클로드, 조카 그림을\n하룻밤 새 게임으로",
-      "body": "개발자가 조카가 그린 설계를 클로드 페이블 5.2로 하룻밤 만에 게임화했다.",
-      "mini_headline": "조카 그림이 게임으로",
+      "headline": "유럽 게임노조가 권하는\nnon-GenAI 게임",
+      "body": "유럽 게임 노조 여섯 곳이 GenAI 없이 만든 게임을 지지해 달라고 선언했다.",
+      "mini_headline": "노조, GenAI 없는 게임 지지",
       "tool": "Games",
-      "source": "게임와이",
-      "url": "http://www.gamey.kr/news/articleView.html?idxno=3019684",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/video-game-union-manifesto-calls-on-consumers-to-support-games-made-without-genai-2000757423",
       "accent": "#0070f3",
       "motif": "cube",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "개발자 렉스 톰부로우(Lex Toumbourou)가 조카가 직접 그린 게임 설계를 앤트로픽의 최신 AI 모델 '클로드 페이블 5.2(Claude Fable 5.2)'에 맡겨 하룻밤 만에 4인 협동 벨트스크롤 액션 게임을 만들었다고 11월 10일 자신의 블로그에 공개했다. 게임 이름은 '에이든의 복수(Aiden's Revenge)'로, 12개 스테이지에 플레이 캐릭터 18명이 등장하며 웹 브라우저에서 바로 즐길 수 있다."
-          },
-          {
             "t": "img",
-            "src": "https://cdn.gamey.kr/news/photo/202611/3019684_174018_136.jpg"
+            "src": "https://kotaku.com/app/uploads/2026/11/IWGB-union-logo.jpg",
+            "cap": "IWGB Game Workers 로고 © IWGB"
           },
           {
             "t": "p",
-            "x": "조카 에이든은 가족을 본뜬 영웅 5명과 보스 12명, 납치된 강아지 푸딩을 구하는 이야기까지 그림으로 그려 건넸다. 6월 생일에 맞춰 클로드 코드와 오퍼스 4.8, 페이블 5로 만든 첫 버전은 몇 분 이상 즐기기 어려운 수준이었다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.gamey.kr/news/photo/202611/3019684_174019_1343.jpg"
+            "x": "유럽 각국의 비디오게임 노조들이 오늘 영국 맨체스터(Manchester)에서 열리는 두 번째 유럽 게임 노동자 노조 정상회의를 앞두고 공동 선언문을 발표했다. 소비자에게 “GenAI 없이 만든 게임을 지지해 달라”고 요청하는 내용이다. 선언문이 첫째로 내건 목표는 “생성형 AI의 해악에 대한 인식을 높이는 것”이다."
           },
           {
             "t": "p",
-            "x": "페이블 5.2를 출시 전에 먼저 써 본 톰부로우가 프롬프트를 남기고 다음 날 아침 확인하자 게임은 엔딩까지 완성돼 있었다. 페이블은 기존 코드 대부분을 버리고 처음부터 다시 작성했고, 게임을 대신 플레이하는 봇으로 12개 스테이지를 모두 실행하며 스크린샷으로 문제를 찾아 고쳤다. 이틀간 클로드 요청 약 600회, 토큰 약 3억4,000만 개가 쓰였고, 이미지 약 500장과 음악 11곡, 효과음 약 100개가 생성됐다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.gamey.kr/news/photo/202611/3019684_174021_143.jpg"
+            "x": "선언문 제목은 “On Generative AI Usage in the Games Industry(게임 산업의 생성형 AI 사용에 관하여)”다. 영국 IWGB, 아일랜드 공화국 GWUI, 프랑스 STJV, 스페인 CSVI, 독일 GDRT, 이탈리아 FIOM-CGIL이 함께 조율해 만들었다."
           },
           {
             "t": "p",
-            "x": "가족들의 요청으로 영웅은 18명으로 늘었다. 완성된 게임을 본 에이든은 \"내가 상상한 그대로야\"라고 말했다. 해커뉴스에서는 비용을 두고 최소 2,560달러에서 최대 1만3,000달러가 들었을 것이라는 추정과 구독료면 충분하다는 계산이 엇갈렸다."
-          }
-        ]
-      },
-      "text": {
-        "ko": {
-          "headline": "클로드, 조카 그림을\n하룻밤 새 게임으로",
-          "body": "개발자가 조카가 그린 설계를 클로드 페이블 5.2로 하룻밤 만에 게임화했다.",
-          "mini_headline": "조카 그림이 게임으로",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "개발자 렉스 톰부로우(Lex Toumbourou)가 조카가 직접 그린 게임 설계를 앤트로픽의 최신 AI 모델 '클로드 페이블 5.2(Claude Fable 5.2)'에 맡겨 하룻밤 만에 4인 협동 벨트스크롤 액션 게임을 만들었다고 11월 10일 자신의 블로그에 공개했다. 게임 이름은 '에이든의 복수(Aiden's Revenge)'로, 12개 스테이지에 플레이 캐릭터 18명이 등장하며 웹 브라우저에서 바로 즐길 수 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gamey.kr/news/photo/202611/3019684_174018_136.jpg"
-              },
-              {
-                "t": "p",
-                "x": "조카 에이든은 가족을 본뜬 영웅 5명과 보스 12명, 납치된 강아지 푸딩을 구하는 이야기까지 그림으로 그려 건넸다. 6월 생일에 맞춰 클로드 코드와 오퍼스 4.8, 페이블 5로 만든 첫 버전은 몇 분 이상 즐기기 어려운 수준이었다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gamey.kr/news/photo/202611/3019684_174019_1343.jpg"
-              },
-              {
-                "t": "p",
-                "x": "페이블 5.2를 출시 전에 먼저 써 본 톰부로우가 프롬프트를 남기고 다음 날 아침 확인하자 게임은 엔딩까지 완성돼 있었다. 페이블은 기존 코드 대부분을 버리고 처음부터 다시 작성했고, 게임을 대신 플레이하는 봇으로 12개 스테이지를 모두 실행하며 스크린샷으로 문제를 찾아 고쳤다. 이틀간 클로드 요청 약 600회, 토큰 약 3억4,000만 개가 쓰였고, 이미지 약 500장과 음악 11곡, 효과음 약 100개가 생성됐다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gamey.kr/news/photo/202611/3019684_174021_143.jpg"
-              },
-              {
-                "t": "p",
-                "x": "가족들의 요청으로 영웅은 18명으로 늘었다. 완성된 게임을 본 에이든은 \"내가 상상한 그대로야\"라고 말했다. 해커뉴스에서는 비용을 두고 최소 2,560달러에서 최대 1만3,000달러가 들었을 것이라는 추정과 구독료면 충분하다는 계산이 엇갈렸다."
-              }
-            ]
-          }
-        },
-        "en": {
-          "headline": "Claude turns a nephew's drawing\ninto a game overnight",
-          "body": "A developer used Claude Fable 5.2 to turn his nephew's game design drawings into a game overnight.",
-          "mini_headline": "A nephew's drawing becomes a game",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Developer Lex Toumbourou wrote on his blog on November 10 that he handed a game design drawn by his nephew to Claude Fable 5.2, Anthropic's latest AI model, and got a co-op side-scrolling beat 'em up for 4 players built overnight. The game, called Aiden's Revenge, has 12 stages and 18 playable characters, and runs directly in a web browser."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gamey.kr/news/photo/202611/3019684_174018_136.jpg"
-              },
-              {
-                "t": "p",
-                "x": "His nephew Aiden handed over drawings of 5 heroes modeled on family members, 12 bosses, and a story about rescuing Pudding, a kidnapped puppy. The first version, made for his June birthday with Claude Code, Opus 4.8 and Fable 5, was hard to enjoy for more than a few minutes."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gamey.kr/news/photo/202611/3019684_174019_1343.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Toumbourou, who had access to Fable 5.2 before its release, left a prompt and checked the next morning to find the game finished all the way to the ending. Fable threw out most of the existing code and rewrote it from scratch, then used a bot that plays the game on its own to run all 12 stages, finding and fixing problems through screenshots. Over two days the project used about 600 Claude requests and about 3억4,000만 (three hundred forty million) tokens, and generated about 500 images, 11 music tracks and about 100 sound effects."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gamey.kr/news/photo/202611/3019684_174021_143.jpg"
-              },
-              {
-                "t": "p",
-                "x": "At the family's request, the roster of heroes grew to 18. After seeing the finished game, Aiden said, \"It's exactly what I imagined.\" On Hacker News, estimates that it cost anywhere from $2,560 to 1만3,000달러 (thirteen thousand dollars) clashed with calculations that a subscription would have been enough."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Claude、甥の絵を\n一晩でゲームに",
-          "body": "開発者が甥の描いた設計図をClaude Fable 5.2で一晩のうちにゲーム化した。",
-          "mini_headline": "甥の絵がゲームに",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "開発者のLex Toumbourouは、甥が自ら描いたゲーム設計をAnthropicの最新AIモデル「Claude Fable 5.2」に任せ、一晩で4人協力プレイのベルトスクロールアクションゲームを完成させたと、11月10日に自身のブログで公表した。ゲーム名は「Aiden's Revenge」で、12のステージにプレイアブルキャラクター18人が登場し、ウェブブラウザですぐに遊べる。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gamey.kr/news/photo/202611/3019684_174018_136.jpg"
-              },
-              {
-                "t": "p",
-                "x": "甥のエイデンは、家族をモデルにしたヒーロー5人とボス12人、さらわれた子犬プリンを救う物語まで絵に描いて手渡した。6月の誕生日に合わせてClaude Code、Opus 4.8、Fable 5で作った最初のバージョンは、数分以上楽しむのが難しい出来だった。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gamey.kr/news/photo/202611/3019684_174019_1343.jpg"
-              },
-              {
-                "t": "p",
-                "x": "リリース前にFable 5.2を先行して使っていたToumbourouがプロンプトを残し、翌朝確認すると、ゲームはエンディングまで完成していた。Fableは既存コードの大半を捨てて一から書き直し、ゲームを代わりにプレイするボットで12ステージすべてを実行しながら、スクリーンショットで問題を見つけて修正した。二日間でClaudeへのリクエストは約600回、トークンは約3억4,000만（三億四千万）個が使われ、画像約500枚と音楽11曲、効果音約100個が生成された。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gamey.kr/news/photo/202611/3019684_174021_143.jpg"
-              },
-              {
-                "t": "p",
-                "x": "家族の要望でヒーローは18人に増えた。完成したゲームを見たエイデンは「僕が想像したとおりだ」と語った。Hacker Newsでは費用について、最低2,560ドルから最大1만3,000달러（一万三千ドル）かかったとの推計と、サブスクリプション料金で十分だとの計算が分かれた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Claude一夜之间\n把外甥画作变成游戏",
-          "body": "一名开发者用Claude Fable 5.2，一夜之间把外甥画的设计变成了游戏。",
-          "mini_headline": "外甥的画变成游戏",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "开发者Lex Toumbourou于11月10日在个人博客上发文称，他把外甥亲手画的游戏设计交给Anthropic最新的AI模型“Claude Fable 5.2”，一夜之间做出了一款4人合作横版清版动作游戏。游戏名为“Aiden's Revenge”，共有12个关卡、18名可操作角色，可直接在网页浏览器中游玩。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gamey.kr/news/photo/202611/3019684_174018_136.jpg"
-              },
-              {
-                "t": "p",
-                "x": "外甥艾登把以家人为原型的5名英雄、12名首领，以及营救被绑架小狗布丁的故事都画成图交给了他。为赶上6月生日、用Claude Code、Opus 4.8和Fable 5做出的第一版，玩上几分钟就难以继续。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gamey.kr/news/photo/202611/3019684_174019_1343.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Toumbourou在发布前抢先试用了Fable 5.2，他留下提示词，第二天早上查看时，游戏已一直完成到结局。Fable抛弃了大部分原有代码从头重写，并用代替人玩游戏的机器人跑完全部12个关卡，借助截图发现并修复问题。两天内共发出约600次Claude请求，消耗约3억4,000만（三亿四千万）个词元，生成约500张图片、11首音乐和约100个音效。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gamey.kr/news/photo/202611/3019684_174021_143.jpg"
-              },
-              {
-                "t": "p",
-                "x": "应家人要求，英雄增至18名。看到完成的游戏后，艾登说：“和我想象的一模一样。”在Hacker News上，有人估算成本最低2,560美元、最高1만3,000달러（一万三千美元），也有人算出订阅费就足够，看法不一。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Claude convierte un dibujo\nen un juego en una noche",
-          "body": "Un desarrollador convirtió en una noche el diseño dibujado por su sobrino en un juego con Claude Fable 5.2.",
-          "mini_headline": "El dibujo del sobrino, hecho juego",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "El desarrollador Lex Toumbourou publicó el 10 de noviembre en su blog que encargó a Claude Fable 5.2, el modelo de inteligencia artificial (AI) más reciente de Anthropic, el diseño de juego que dibujó su sobrino, y que en una sola noche obtuvo un beat 'em up cooperativo de desplazamiento lateral para 4 jugadores. El juego se llama Aiden's Revenge, tiene 12 fases y 18 personajes jugables, y se puede jugar directamente en el navegador web."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gamey.kr/news/photo/202611/3019684_174018_136.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Su sobrino Aiden le entregó dibujos con 5 héroes inspirados en la familia, 12 jefes y la historia del rescate de Pudding, un cachorro secuestrado. La primera versión, hecha para su cumpleaños de junio con Claude Code, Opus 4.8 y Fable 5, apenas se podía disfrutar más de unos minutos."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gamey.kr/news/photo/202611/3019684_174019_1343.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Toumbourou, que probó Fable 5.2 antes de su lanzamiento, dejó un prompt y a la mañana siguiente encontró el juego terminado hasta el final. Fable descartó la mayor parte del código existente y lo reescribió desde cero; luego usó un bot que juega en lugar de una persona para recorrer las 12 fases y detectar y corregir fallos mediante capturas de pantalla. En dos días se usaron unas 600 solicitudes a Claude y unos 3억4,000만 (trescientos cuarenta millones de) tokens, y se generaron unas 500 imágenes, 11 temas musicales y unos 100 efectos de sonido."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gamey.kr/news/photo/202611/3019684_174021_143.jpg"
-              },
-              {
-                "t": "p",
-                "x": "A petición de la familia, los héroes aumentaron a 18. Al ver el juego terminado, Aiden dijo: \"Es justo como lo imaginaba\". En Hacker News chocaron las estimaciones de que costó entre 2,560 dólares como mínimo y 1만3,000달러 (trece mil dólares) como máximo con los cálculos de que bastaba con la suscripción."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "en": {
-          "headline": "Claude turns a nephew's drawing\ninto a game overnight",
-          "body": "A developer used Claude Fable 5.2 to turn his nephew's game design drawings into a game overnight.",
-          "mini_headline": "A nephew's drawing becomes a game",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Developer Lex Toumbourou wrote on his blog on November 10 that he handed a game design drawn by his nephew to Claude Fable 5.2, Anthropic's latest AI model, and got a co-op side-scrolling beat 'em up for 4 players built overnight. The game, called Aiden's Revenge, has 12 stages and 18 playable characters, and runs directly in a web browser."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gamey.kr/news/photo/202611/3019684_174018_136.jpg"
-              },
-              {
-                "t": "p",
-                "x": "His nephew Aiden handed over drawings of 5 heroes modeled on family members, 12 bosses, and a story about rescuing Pudding, a kidnapped puppy. The first version, made for his June birthday with Claude Code, Opus 4.8 and Fable 5, was hard to enjoy for more than a few minutes."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gamey.kr/news/photo/202611/3019684_174019_1343.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Toumbourou, who had access to Fable 5.2 before its release, left a prompt and checked the next morning to find the game finished all the way to the ending. Fable threw out most of the existing code and rewrote it from scratch, then used a bot that plays the game on its own to run all 12 stages, finding and fixing problems through screenshots. Over two days the project used about 600 Claude requests and about 3억4,000만 (three hundred forty million) tokens, and generated about 500 images, 11 music tracks and about 100 sound effects."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gamey.kr/news/photo/202611/3019684_174021_143.jpg"
-              },
-              {
-                "t": "p",
-                "x": "At the family's request, the roster of heroes grew to 18. After seeing the finished game, Aiden said, \"It's exactly what I imagined.\" On Hacker News, estimates that it cost anywhere from $2,560 to 1만3,000달러 (thirteen thousand dollars) clashed with calculations that a subscription would have been enough."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Claude、甥の絵を\n一晩でゲームに",
-          "body": "開発者が甥の描いた設計図をClaude Fable 5.2で一晩のうちにゲーム化した。",
-          "mini_headline": "甥の絵がゲームに",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "開発者のLex Toumbourouは、甥が自ら描いたゲーム設計をAnthropicの最新AIモデル「Claude Fable 5.2」に任せ、一晩で4人協力プレイのベルトスクロールアクションゲームを完成させたと、11月10日に自身のブログで公表した。ゲーム名は「Aiden's Revenge」で、12のステージにプレイアブルキャラクター18人が登場し、ウェブブラウザですぐに遊べる。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gamey.kr/news/photo/202611/3019684_174018_136.jpg"
-              },
-              {
-                "t": "p",
-                "x": "甥のエイデンは、家族をモデルにしたヒーロー5人とボス12人、さらわれた子犬プリンを救う物語まで絵に描いて手渡した。6月の誕生日に合わせてClaude Code、Opus 4.8、Fable 5で作った最初のバージョンは、数分以上楽しむのが難しい出来だった。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gamey.kr/news/photo/202611/3019684_174019_1343.jpg"
-              },
-              {
-                "t": "p",
-                "x": "リリース前にFable 5.2を先行して使っていたToumbourouがプロンプトを残し、翌朝確認すると、ゲームはエンディングまで完成していた。Fableは既存コードの大半を捨てて一から書き直し、ゲームを代わりにプレイするボットで12ステージすべてを実行しながら、スクリーンショットで問題を見つけて修正した。二日間でClaudeへのリクエストは約600回、トークンは約3억4,000만（三億四千万）個が使われ、画像約500枚と音楽11曲、効果音約100個が生成された。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gamey.kr/news/photo/202611/3019684_174021_143.jpg"
-              },
-              {
-                "t": "p",
-                "x": "家族の要望でヒーローは18人に増えた。完成したゲームを見たエイデンは「僕が想像したとおりだ」と語った。Hacker Newsでは費用について、最低2,560ドルから最大1만3,000달러（一万三千ドル）かかったとの推計と、サブスクリプション料金で十分だとの計算が分かれた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Claude一夜之间\n把外甥画作变成游戏",
-          "body": "一名开发者用Claude Fable 5.2，一夜之间把外甥画的设计变成了游戏。",
-          "mini_headline": "外甥的画变成游戏",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "开发者Lex Toumbourou于11月10日在个人博客上发文称，他把外甥亲手画的游戏设计交给Anthropic最新的AI模型“Claude Fable 5.2”，一夜之间做出了一款4人合作横版清版动作游戏。游戏名为“Aiden's Revenge”，共有12个关卡、18名可操作角色，可直接在网页浏览器中游玩。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gamey.kr/news/photo/202611/3019684_174018_136.jpg"
-              },
-              {
-                "t": "p",
-                "x": "外甥艾登把以家人为原型的5名英雄、12名首领，以及营救被绑架小狗布丁的故事都画成图交给了他。为赶上6月生日、用Claude Code、Opus 4.8和Fable 5做出的第一版，玩上几分钟就难以继续。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gamey.kr/news/photo/202611/3019684_174019_1343.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Toumbourou在发布前抢先试用了Fable 5.2，他留下提示词，第二天早上查看时，游戏已一直完成到结局。Fable抛弃了大部分原有代码从头重写，并用代替人玩游戏的机器人跑完全部12个关卡，借助截图发现并修复问题。两天内共发出约600次Claude请求，消耗约3억4,000만（三亿四千万）个词元，生成约500张图片、11首音乐和约100个音效。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gamey.kr/news/photo/202611/3019684_174021_143.jpg"
-              },
-              {
-                "t": "p",
-                "x": "应家人要求，英雄增至18名。看到完成的游戏后，艾登说：“和我想象的一模一样。”在Hacker News上，有人估算成本最低2,560美元、最高1만3,000달러（一万三千美元），也有人算出订阅费就足够，看法不一。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Claude convierte un dibujo\nen un juego en una noche",
-          "body": "Un desarrollador convirtió en una noche el diseño dibujado por su sobrino en un juego con Claude Fable 5.2.",
-          "mini_headline": "El dibujo del sobrino, hecho juego",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "El desarrollador Lex Toumbourou publicó el 10 de noviembre en su blog que encargó a Claude Fable 5.2, el modelo de inteligencia artificial (AI) más reciente de Anthropic, el diseño de juego que dibujó su sobrino, y que en una sola noche obtuvo un beat 'em up cooperativo de desplazamiento lateral para 4 jugadores. El juego se llama Aiden's Revenge, tiene 12 fases y 18 personajes jugables, y se puede jugar directamente en el navegador web."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gamey.kr/news/photo/202611/3019684_174018_136.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Su sobrino Aiden le entregó dibujos con 5 héroes inspirados en la familia, 12 jefes y la historia del rescate de Pudding, un cachorro secuestrado. La primera versión, hecha para su cumpleaños de junio con Claude Code, Opus 4.8 y Fable 5, apenas se podía disfrutar más de unos minutos."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gamey.kr/news/photo/202611/3019684_174019_1343.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Toumbourou, que probó Fable 5.2 antes de su lanzamiento, dejó un prompt y a la mañana siguiente encontró el juego terminado hasta el final. Fable descartó la mayor parte del código existente y lo reescribió desde cero; luego usó un bot que juega en lugar de una persona para recorrer las 12 fases y detectar y corregir fallos mediante capturas de pantalla. En dos días se usaron unas 600 solicitudes a Claude y unos 3억4,000만 (trescientos cuarenta millones de) tokens, y se generaron unas 500 imágenes, 11 temas musicales y unos 100 efectos de sonido."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gamey.kr/news/photo/202611/3019684_174021_143.jpg"
-              },
-              {
-                "t": "p",
-                "x": "A petición de la familia, los héroes aumentaron a 18. Al ver el juego terminado, Aiden dijo: \"Es justo como lo imaginaba\". En Hacker News chocaron las estimaciones de que costó entre 2,560 dólares como mínimo y 1만3,000달러 (trece mil dólares) como máximo con los cálculos de que bastaba con la suscripción."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "unity-korea-ai-three-paths",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Unity, AI 생태계로\n가는 세 갈래 길",
-      "body": "Unity가 AI Game Lab Day 2026에서 세 갈래 AI 전략을 밝혔다.",
-      "mini_headline": "Unity의 세 갈래 AI 전략",
-      "tool": "Games",
-      "source": "Inven Global",
-      "url": "https://www.invenglobal.com/articles/28529/moving-beyond-the-editor-unitys-three-approaches-to-the-ai-ecosystem",
-      "accent": "#f5a623",
-      "motif": "cube",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://static.invenglobal.com/upload/image/2026/11/12/r1794483730633569.jpeg"
+            "x": "선언문은 생성형 AI가 “환경에 심각한 해를 끼친다”고 지적한다. “업계의 주니어 일자리가 눈에 띄게 줄어드는” 원인이 되고, AI 모델이 “도용한 제3자 데이터로 학습했다”는 기록도 남아 있다는 것이다. 플레이어에게는 “게임 속 genAI가 싫다고 분명히 목소리를 내고” “genAI 없이 만든 게임”을 지지하라고 촉구한다."
           },
           {
             "t": "p",
-            "x": "Unity Korea의 Jong-tae Park 스태프 파트너 엔지니어가 지난 12일 판교(Pangyo) Global Game Hub Center에서 KOCCA 주최로 열린 'AI Game Lab Day 2026'에서 발표했다. 그는 웹 기반의 단순한 결과물을 넘어 완성도 높은 고품질 게임을 만들려면 엔진에 특화된 AI 워크플로가 꼭 필요하다고 강조했다."
-          },
-          {
-            "t": "p",
-            "x": "Unity는 올해 12월 'Unity 6.7 LTS'를, 내년 3월 GDC 즈음 'Unity 7'을 내놓는다. URP에는 Surface Cache GI와 DLSS·FSR·PSSR·STP를 지원하는 업스케일링 프레임워크가 들어가고, 'Sentis' 추론 엔진으로 텍스처 메모리를 약 40% 줄이는 Neural Texture Compression도 추가된다."
-          },
-          {
-            "t": "img",
-            "src": "https://static.invenglobal.com/upload/image/2026/11/12/r1794483738795652.jpeg"
-          },
-          {
-            "t": "p",
-            "x": "첫 번째 축은 에디터에 들어간 'Unity AI Tools'다. 'AI Assistant', 'Generator', 'AI Gateway'로 이뤄진다. AI Assistant는 프로젝트를 분석해 에디터를 직접 조작하고 Ask·Plan·Agent 모드와 'Checkpoint' 기능을 갖췄다. Generator는 2D 스프라이트부터 3D 모델, 리깅, 오디오까지 다루며 과금은 'Unity AI Credits'로 한다($10당 약 1,000 크레디트)."
-          },
-          {
-            "t": "img",
-            "src": "https://static.invenglobal.com/upload/image/2026/11/12/r1794483750571959.jpeg"
-          },
-          {
-            "t": "p",
-            "x": "두 번째 축 'Unity CLI'는 에이전트가 꼭 필요한 명령만 호출하게 해 MCP-based AI Gateway보다 빠르고 토큰도 덜 쓴다. 세 번째 축은 Claude Code, Codex, Antigravity용 공식 플러그인과, 자연어로 게임을 만들고 멀티플레이 협업까지 지원하는 웹 기반 도구 'Unity Spark'다."
-          },
-          {
-            "t": "video",
-            "yt": "IkcK7aeMw5A"
+            "x": "생성형 AI를 “언제, 어디서, 어떻게 쓸지 결정하는 주체는 노동자여야 한다”는 게 선언문의 입장이다. 쓰는 쪽에는 “환경, 비용, 윤리, 법, 정직성에 대한 우려”와 “예술의 신성함”을 염두에 두라고 당부했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Unity maps three paths\ninto the AI ecosystem",
-          "body": "At AI Game Lab Day 2026, Unity Korea's Jong-tae Park outlined the engine's three approaches to AI beyond the editor.",
-          "mini_headline": "Unity's three AI paths",
+          "headline": "European game unions urge\nplayers to back non-GenAI games",
+          "body": "A collective of six European game unions published a manifesto urging consumers to support games made without GenAI.",
+          "mini_headline": "Unions back GenAI-free games",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.invenglobal.com/upload/image/2026/11/12/r1794483730633569.jpeg"
+                "src": "https://kotaku.com/app/uploads/2026/11/IWGB-union-logo.jpg",
+                "cap": "IWGB Game Workers logo © IWGB"
               },
               {
                 "t": "p",
-                "x": "Jong-tae Park, Staff Partner Engineer at Unity Korea, spoke at 'AI Game Lab Day 2026' on November 12, hosted by KOCCA at the Global Game Hub Center in Pangyo. He emphasized that an engine-specialized AI workflow is essential for moving beyond simple web-based outputs to create polished, high-fidelity games."
+                "x": "Video game unions across Europe have published a joint manifesto calling for consumers to “support games made without GenAI” prior to today’s second European game worker union summit meeting in Manchester, England. The manifesto’s primary goal is to “raise awareness of the harms of generative AI.”"
               },
               {
                 "t": "p",
-                "x": "Unity plans 'Unity 6.7 LTS' this December and 'Unity 7' around GDC next March. URP gains Surface Cache GI, an upscaling framework for DLSS, FSR, PSSR and STP, and Neural Texture Compression leveraging the 'Sentis' inference engine to reduce texture memory by approximately 40%."
-              },
-              {
-                "t": "img",
-                "src": "https://static.invenglobal.com/upload/image/2026/11/12/r1794483738795652.jpeg"
+                "x": "The manifesto, titled “On Generative AI Usage in the Games Industry,” is a joint effort coordinated by Great Britain’s IWGB, the Republic of Ireland’s GWUI, France’s STJV, Spain’s CSVI, Germany’s GDRT, and Italy’s FIOM-CGIL."
               },
               {
                 "t": "p",
-                "x": "The first pillar is 'Unity AI Tools' inside the editor: 'AI Assistant', 'Generator' and 'AI Gateway'. AI Assistant analyzes the project to actively manipulate the editor, with Ask, Plan and Agent modes and a 'Checkpoint' feature. Generator handles 2D sprites to 3D models, rigging and audio, billed via 'Unity AI Credits' (approx. 1,000 credits per $10)."
-              },
-              {
-                "t": "img",
-                "src": "https://static.invenglobal.com/upload/image/2026/11/12/r1794483750571959.jpeg"
+                "x": "It highlights generative AI’s “severe harm to the environment,” its role in causing a “marked decline in junior positions within the industry,” and AI models’ documented history of being “trained on stolen third-party data.” Players are urged to “be vocal about disliking genAI in games” and to support “games made without genAI.”"
               },
               {
                 "t": "p",
-                "x": "The second pillar, 'Unity CLI', lets agents call only the precise commands required, boosting speed and lowering token usage versus the MCP-based AI Gateway. The third consists of official plugins for Claude Code, Codex and Antigravity, plus 'Unity Spark', a web-based tool for creating games in natural language with multiplayer collaboration."
-              },
-              {
-                "t": "video",
-                "yt": "IkcK7aeMw5A"
+                "x": "The manifesto states that “workers should be the ones who decide when, where and how to use” generative AI, while urging those who do to keep “concerns around the environment, cost, ethics, law, honesty,” and “the sanctity of art” in mind."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Unity, AI 생태계로\n가는 세 갈래 길",
-          "body": "Unity가 AI Game Lab Day 2026에서 세 갈래 AI 전략을 밝혔다.",
-          "mini_headline": "Unity의 세 갈래 AI 전략",
+          "headline": "유럽 게임노조가 권하는\nnon-GenAI 게임",
+          "body": "유럽 게임 노조 여섯 곳이 GenAI 없이 만든 게임을 지지해 달라고 선언했다.",
+          "mini_headline": "노조, GenAI 없는 게임 지지",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.invenglobal.com/upload/image/2026/11/12/r1794483730633569.jpeg"
+                "src": "https://kotaku.com/app/uploads/2026/11/IWGB-union-logo.jpg",
+                "cap": "IWGB Game Workers 로고 © IWGB"
               },
               {
                 "t": "p",
-                "x": "Unity Korea의 Jong-tae Park 스태프 파트너 엔지니어가 지난 12일 판교(Pangyo) Global Game Hub Center에서 KOCCA 주최로 열린 'AI Game Lab Day 2026'에서 발표했다. 그는 웹 기반의 단순한 결과물을 넘어 완성도 높은 고품질 게임을 만들려면 엔진에 특화된 AI 워크플로가 꼭 필요하다고 강조했다."
+                "x": "유럽 각국의 비디오게임 노조들이 오늘 영국 맨체스터(Manchester)에서 열리는 두 번째 유럽 게임 노동자 노조 정상회의를 앞두고 공동 선언문을 발표했다. 소비자에게 “GenAI 없이 만든 게임을 지지해 달라”고 요청하는 내용이다. 선언문이 첫째로 내건 목표는 “생성형 AI의 해악에 대한 인식을 높이는 것”이다."
               },
               {
                 "t": "p",
-                "x": "Unity는 올해 12월 'Unity 6.7 LTS'를, 내년 3월 GDC 즈음 'Unity 7'을 내놓는다. URP에는 Surface Cache GI와 DLSS·FSR·PSSR·STP를 지원하는 업스케일링 프레임워크가 들어가고, 'Sentis' 추론 엔진으로 텍스처 메모리를 약 40% 줄이는 Neural Texture Compression도 추가된다."
-              },
-              {
-                "t": "img",
-                "src": "https://static.invenglobal.com/upload/image/2026/11/12/r1794483738795652.jpeg"
+                "x": "선언문 제목은 “On Generative AI Usage in the Games Industry(게임 산업의 생성형 AI 사용에 관하여)”다. 영국 IWGB, 아일랜드 공화국 GWUI, 프랑스 STJV, 스페인 CSVI, 독일 GDRT, 이탈리아 FIOM-CGIL이 함께 조율해 만들었다."
               },
               {
                 "t": "p",
-                "x": "첫 번째 축은 에디터에 들어간 'Unity AI Tools'다. 'AI Assistant', 'Generator', 'AI Gateway'로 이뤄진다. AI Assistant는 프로젝트를 분석해 에디터를 직접 조작하고 Ask·Plan·Agent 모드와 'Checkpoint' 기능을 갖췄다. Generator는 2D 스프라이트부터 3D 모델, 리깅, 오디오까지 다루며 과금은 'Unity AI Credits'로 한다($10당 약 1,000 크레디트)."
-              },
-              {
-                "t": "img",
-                "src": "https://static.invenglobal.com/upload/image/2026/11/12/r1794483750571959.jpeg"
+                "x": "선언문은 생성형 AI가 “환경에 심각한 해를 끼친다”고 지적한다. “업계의 주니어 일자리가 눈에 띄게 줄어드는” 원인이 되고, AI 모델이 “도용한 제3자 데이터로 학습했다”는 기록도 남아 있다는 것이다. 플레이어에게는 “게임 속 genAI가 싫다고 분명히 목소리를 내고” “genAI 없이 만든 게임”을 지지하라고 촉구한다."
               },
               {
                 "t": "p",
-                "x": "두 번째 축 'Unity CLI'는 에이전트가 꼭 필요한 명령만 호출하게 해 MCP-based AI Gateway보다 빠르고 토큰도 덜 쓴다. 세 번째 축은 Claude Code, Codex, Antigravity용 공식 플러그인과, 자연어로 게임을 만들고 멀티플레이 협업까지 지원하는 웹 기반 도구 'Unity Spark'다."
-              },
-              {
-                "t": "video",
-                "yt": "IkcK7aeMw5A"
+                "x": "생성형 AI를 “언제, 어디서, 어떻게 쓸지 결정하는 주체는 노동자여야 한다”는 게 선언문의 입장이다. 쓰는 쪽에는 “환경, 비용, 윤리, 법, 정직성에 대한 우려”와 “예술의 신성함”을 염두에 두라고 당부했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Unity、AI生態系への\n三つの道を示す",
-          "body": "AI Game Lab Day 2026でUnityがエディター外のAI活用三本柱を示した。",
-          "mini_headline": "Unityの三つのAI戦略",
+          "headline": "欧州のゲーム労組が推す\nnon-GenAI ゲーム",
+          "body": "欧州のゲーム労組六団体が、GenAIを使わずに作られたゲームの支持を求める声明を発表した。",
+          "mini_headline": "労組、GenAI不使用ゲームを支持",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.invenglobal.com/upload/image/2026/11/12/r1794483730633569.jpeg"
+                "src": "https://kotaku.com/app/uploads/2026/11/IWGB-union-logo.jpg",
+                "cap": "IWGB Game Workersのロゴ © IWGB"
               },
               {
                 "t": "p",
-                "x": "Unity KoreaのスタッフパートナーエンジニアJong-tae Parkは12日、KOCCAが板橋（Pangyo）のGlobal Game Hub Centerで開催した「AI Game Lab Day 2026」に登壇した。単なるウェブベースの成果物を超えて完成度の高いハイフィデリティなゲームを作るには、エンジンに特化したAIワークフローが不可欠だと強調した。"
+                "x": "欧州各国のビデオゲーム労組が、本日英国マンチェスター(Manchester)で開かれる第2回欧州ゲーム労働者労組サミットを前に、消費者に「GenAIを使わずに作られたゲームを支持する」よう呼びかける共同マニフェストを発表した。マニフェストの主な目的は「生成AIの害についての認識を高める」ことだ。"
               },
               {
                 "t": "p",
-                "x": "Unityは今年12月に「Unity 6.7 LTS」を、来年3月のGDC前後に「Unity 7」を予定している。URPにはSurface Cache GI、DLSS・FSR・PSSR・STPに対応するアップスケーリングフレームワーク、推論エンジン「Sentis」を活用してテクスチャメモリを約40%削減するNeural Texture Compressionが加わる。"
-              },
-              {
-                "t": "img",
-                "src": "https://static.invenglobal.com/upload/image/2026/11/12/r1794483738795652.jpeg"
+                "x": "「On Generative AI Usage in the Games Industry(ゲーム業界における生成AIの使用について)」と題したこのマニフェストは、英国のIWGB、アイルランド共和国のGWUI、フランスのSTJV、スペインのCSVI、ドイツのGDRT、イタリアのFIOM-CGILが連携してまとめたものである。"
               },
               {
                 "t": "p",
-                "x": "第一の柱はエディター内の「Unity AI Tools」で、「AI Assistant」「Generator」「AI Gateway」からなる。AI Assistantはプロジェクトを分析してエディターを能動的に操作し、Ask・Plan・Agentモードと「Checkpoint」機能を備える。Generatorは2Dスプライトから3Dモデル、リギング、オーディオまで扱い、「Unity AI Credits」で課金される（$10あたり約1,000クレジット）。"
-              },
-              {
-                "t": "img",
-                "src": "https://static.invenglobal.com/upload/image/2026/11/12/r1794483750571959.jpeg"
+                "x": "マニフェストは、生成AIが「環境に深刻な害を与える」こと、「業界におけるジュニア職の著しい減少」を招いていること、そしてAIモデルが「盗まれた第三者のデータで学習された」という記録があることを指摘する。プレイヤーには「ゲームにおけるgenAIを嫌だと声を上げる」こと、そして「genAIを使わずに作られたゲーム」を支持することを求めている。"
               },
               {
                 "t": "p",
-                "x": "第二の柱「Unity CLI」は、エージェントが必要なコマンドだけを正確に呼び出せるようにし、MCP-basedのAI Gatewayに比べて速度を高めトークン使用量を抑える。第三の柱は、Claude Code、Codex、Antigravity向けの公式プラグインと、自然言語でゲームを作りマルチプレイ協業もできるウェブベースのツール「Unity Spark」だ。"
-              },
-              {
-                "t": "video",
-                "yt": "IkcK7aeMw5A"
+                "x": "マニフェストは、生成AIを「いつ、どこで、どのように使うかを決めるのは労働者であるべきだ」とし、使う側には「環境、コスト、倫理、法、誠実さをめぐる懸念」と「芸術の尊さ」を念頭に置くよう促している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Unity勾勒进入AI\n生态的三条路径",
-          "body": "在AI Game Lab Day 2026上，Unity Korea阐述了AI三条路径。",
-          "mini_headline": "Unity的三条AI路径",
+          "headline": "欧洲游戏工会呼吁玩家\n支持non-GenAI游戏",
+          "body": "欧洲六家游戏工会联合发布宣言，呼吁消费者支持不使用GenAI制作的游戏。",
+          "mini_headline": "工会力挺无GenAI游戏",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.invenglobal.com/upload/image/2026/11/12/r1794483730633569.jpeg"
+                "src": "https://kotaku.com/app/uploads/2026/11/IWGB-union-logo.jpg",
+                "cap": "IWGB Game Workers 标志 © IWGB"
               },
               {
                 "t": "p",
-                "x": "Unity Korea资深合作伙伴工程师Jong-tae Park于12日在KOCCA于板桥（Pangyo）Global Game Hub Center举办的“AI Game Lab Day 2026”上发表演讲。他强调，要超越简单的网页端产出、打造精致的高保真游戏，针对引擎的专用AI工作流不可或缺。"
+                "x": "在今天于英国曼彻斯特（Manchester）举行的第二届欧洲游戏从业者工会峰会召开前，欧洲多国的电子游戏工会发布联合宣言，呼吁消费者“支持不使用GenAI制作的游戏”。宣言的首要目标是“提高人们对生成式AI危害的认识”。"
               },
               {
                 "t": "p",
-                "x": "Unity计划今年12月推出“Unity 6.7 LTS”，明年3月GDC前后推出“Unity 7”。URP将新增Surface Cache GI、支持DLSS、FSR、PSSR和STP的超分辨率框架，以及借助“Sentis”推理引擎将纹理内存减少约40%的Neural Texture Compression。"
-              },
-              {
-                "t": "img",
-                "src": "https://static.invenglobal.com/upload/image/2026/11/12/r1794483738795652.jpeg"
+                "x": "这份题为“On Generative AI Usage in the Games Industry”（《关于游戏行业使用生成式AI》）的宣言，由英国的IWGB、爱尔兰共和国的GWUI、法国的STJV、西班牙的CSVI、德国的GDRT和意大利的FIOM-CGIL共同协调完成。"
               },
               {
                 "t": "p",
-                "x": "第一大支柱是编辑器内的“Unity AI Tools”，包括“AI Assistant”“Generator”和“AI Gateway”。AI Assistant会分析项目并主动操作编辑器，提供Ask、Plan和Agent模式以及“Checkpoint”功能。Generator涵盖从2D精灵到3D模型、骨骼绑定和音频，通过“Unity AI Credits”计费（每$10约1,000积分）。"
-              },
-              {
-                "t": "img",
-                "src": "https://static.invenglobal.com/upload/image/2026/11/12/r1794483750571959.jpeg"
+                "x": "宣言指出，生成式AI“对环境造成严重危害”，导致“行业内初级岗位明显减少”，而且AI模型有据可查地“使用窃取的第三方数据进行训练”。宣言敦促玩家“明确表达对游戏中genAI的反感”，并支持“不使用genAI制作的游戏”。"
               },
               {
                 "t": "p",
-                "x": "第二大支柱“Unity CLI”让智能体只调用所需的精确命令，与MCP-based的AI Gateway相比速度更快、词元用量更低。第三大支柱是面向Claude Code、Codex和Antigravity的官方插件，以及可用自然语言制作游戏并支持多人协作的网页工具“Unity Spark”。"
-              },
-              {
-                "t": "video",
-                "yt": "IkcK7aeMw5A"
+                "x": "宣言表示，“应当由劳动者来决定何时、何地以及如何使用”生成式AI，同时敦促使用者牢记“对环境、成本、伦理、法律、诚信的关切”以及“艺术的神圣性”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Unity traza tres caminos\nhacia el ecosistema de AI",
-          "body": "En AI Game Lab Day 2026, Jong-tae Park, de Unity Korea, expuso tres enfoques de AI del motor más allá del editor.",
-          "mini_headline": "Las tres vías de AI de Unity",
+          "headline": "Sindicatos europeos piden\napoyar juegos non-GenAI",
+          "body": "Un colectivo de seis sindicatos europeos del videojuego publicó un manifiesto que pide apoyar juegos hechos sin GenAI.",
+          "mini_headline": "Sindicatos apoyan juegos sin GenAI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.invenglobal.com/upload/image/2026/11/12/r1794483730633569.jpeg"
+                "src": "https://kotaku.com/app/uploads/2026/11/IWGB-union-logo.jpg",
+                "cap": "Logotipo de IWGB Game Workers © IWGB"
               },
               {
                 "t": "p",
-                "x": "Jong-tae Park, Staff Partner Engineer de Unity Korea, intervino el 12 de noviembre en 'AI Game Lab Day 2026', organizado por KOCCA en el Global Game Hub Center de Pangyo. Subrayó que un flujo de trabajo de AI especializado en el motor es esencial para ir más allá de simples resultados web y crear juegos pulidos y de alta fidelidad."
+                "x": "Sindicatos de videojuegos de toda Europa publicaron un manifiesto conjunto que pide a los consumidores “apoyar los juegos hechos sin GenAI”, antes de la segunda cumbre europea de sindicatos de trabajadores del videojuego, que se celebra hoy en Manchester, Inglaterra. El objetivo principal del manifiesto es “concienciar sobre los daños de la AI generativa”."
               },
               {
                 "t": "p",
-                "x": "Unity prevé lanzar 'Unity 6.7 LTS' este diciembre y 'Unity 7' en torno a la GDC del próximo marzo. URP incorpora Surface Cache GI, un marco de escalado para DLSS, FSR, PSSR y STP, y Neural Texture Compression, que aprovecha el motor de inferencia 'Sentis' para reducir la memoria de texturas en aproximadamente un 40%."
-              },
-              {
-                "t": "img",
-                "src": "https://static.invenglobal.com/upload/image/2026/11/12/r1794483738795652.jpeg"
+                "x": "El manifiesto, titulado “On Generative AI Usage in the Games Industry” (“Sobre el uso de la AI generativa en la industria del videojuego”), es un esfuerzo conjunto coordinado por la IWGB de Gran Bretaña, la GWUI de la República de Irlanda, el STJV de Francia, el CSVI de España, el GDRT de Alemania y la FIOM-CGIL de Italia."
               },
               {
                 "t": "p",
-                "x": "El primer pilar es 'Unity AI Tools', dentro del editor: 'AI Assistant', 'Generator' y 'AI Gateway'. AI Assistant analiza el proyecto para manipular activamente el editor, con los modos Ask, Plan y Agent y una función 'Checkpoint'. Generator abarca desde sprites 2D hasta modelos 3D, rigging y audio, y se factura mediante 'Unity AI Credits' (aprox. 1,000 créditos por $10)."
-              },
-              {
-                "t": "img",
-                "src": "https://static.invenglobal.com/upload/image/2026/11/12/r1794483750571959.jpeg"
+                "x": "El texto destaca el “grave daño al medio ambiente” de la AI generativa, su papel en una “marcada disminución de los puestos junior en la industria” y el historial documentado de modelos de AI “entrenados con datos robados de terceros”. Insta a los jugadores a “expresar abiertamente su rechazo a la genAI en los juegos” y a apoyar “los juegos hechos sin genAI”."
               },
               {
                 "t": "p",
-                "x": "El segundo pilar, 'Unity CLI', permite a los agentes llamar solo a los comandos precisos necesarios, lo que aumenta la velocidad y reduce el uso de tokens frente al AI Gateway MCP-based. El tercero lo forman los plugins oficiales para Claude Code, Codex y Antigravity, además de 'Unity Spark', una herramienta web para crear juegos en lenguaje natural con colaboración multijugador."
-              },
-              {
-                "t": "video",
-                "yt": "IkcK7aeMw5A"
+                "x": "El manifiesto afirma que “los trabajadores deben ser quienes decidan cuándo, dónde y cómo usar” la AI generativa, y pide a quienes la usen que tengan presentes “las preocupaciones sobre el medio ambiente, el costo, la ética, la ley, la honestidad” y “la santidad del arte”."
               }
             ]
           }
@@ -969,169 +521,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Unity, AI 생태계로\n가는 세 갈래 길",
-          "body": "AI Game Lab Day 2026에서 Unity가 AI 세 갈래 전략을 밝혔다.",
-          "mini_headline": "Unity의 세 갈래 AI 전략",
+          "headline": "유럽 게임노조가 권하는\nnon-GenAI 게임",
+          "body": "유럽 게임 노조 여섯 곳이 GenAI 없이 만든 게임을 지지하자는 선언문을 냈다.",
+          "mini_headline": "노조, GenAI 없는 게임 지지",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.invenglobal.com/upload/image/2026/11/12/r1794483730633569.jpeg"
+                "src": "https://kotaku.com/app/uploads/2026/11/IWGB-union-logo.jpg",
+                "cap": "IWGB Game Workers 로고 © IWGB"
               },
               {
                 "t": "p",
-                "x": "Unity Korea의 Jong-tae Park 스태프 파트너 엔지니어는 지난 12일 판교(Pangyo) Global Game Hub Center에서 KOCCA 주최로 열린 'AI Game Lab Day 2026'에서 발표했다. 그는 단순한 웹 기반 결과물을 넘어 완성도 높은 고품질 게임을 만들려면 엔진에 특화된 AI 워크플로가 필수라고 강조했다."
+                "x": "유럽 각국의 비디오게임 노조들이 오늘 영국 맨체스터(Manchester)에서 열리는 두 번째 유럽 게임 노동자 노조 정상회의를 앞두고, 소비자에게 “GenAI 없이 만든 게임을 지지해 달라”고 요청하는 공동 선언문을 발표했다. 선언문의 일차 목표는 “생성형 AI의 해악에 대한 인식을 높이는 것”이다."
               },
               {
                 "t": "p",
-                "x": "Unity는 올해 12월 'Unity 6.7 LTS'를, 내년 3월 GDC 무렵 'Unity 7'을 내놓을 계획이다. URP에는 Surface Cache GI, DLSS·FSR·PSSR·STP를 지원하는 업스케일링 프레임워크, 'Sentis' 추론 엔진으로 텍스처 메모리를 약 40% 줄이는 Neural Texture Compression이 추가된다."
-              },
-              {
-                "t": "img",
-                "src": "https://static.invenglobal.com/upload/image/2026/11/12/r1794483738795652.jpeg"
+                "x": "“On Generative AI Usage in the Games Industry(게임 산업의 생성형 AI 사용에 관하여)”라는 제목의 이 선언문은 영국의 IWGB, 아일랜드 공화국의 GWUI, 프랑스의 STJV, 스페인의 CSVI, 독일의 GDRT, 이탈리아의 FIOM-CGIL이 함께 조율해 만들었다."
               },
               {
                 "t": "p",
-                "x": "첫 번째 축은 에디터 안의 'Unity AI Tools'로, 'AI Assistant', 'Generator', 'AI Gateway'로 구성된다. AI Assistant는 프로젝트를 분석해 에디터를 직접 조작하며, Ask·Plan·Agent 모드와 'Checkpoint' 기능을 갖췄다. Generator는 2D 스프라이트부터 3D 모델, 리깅, 오디오까지 다루며, 'Unity AI Credits'로 과금된다($10당 약 1,000 크레디트)."
-              },
-              {
-                "t": "img",
-                "src": "https://static.invenglobal.com/upload/image/2026/11/12/r1794483750571959.jpeg"
+                "x": "선언문은 생성형 AI가 “환경에 심각한 해를 끼친다”는 점, “업계의 주니어 일자리가 눈에 띄게 줄어드는” 원인이 된다는 점, 그리고 AI 모델이 “도용한 제3자 데이터로 학습했다”는 기록이 남아 있다는 점을 짚는다. 플레이어에게는 “게임 속 genAI가 싫다고 분명히 목소리를 내고” “genAI 없이 만든 게임”을 지지하라고 촉구한다."
               },
               {
                 "t": "p",
-                "x": "두 번째 축인 'Unity CLI'는 에이전트가 꼭 필요한 명령만 호출하게 해, MCP-based AI Gateway보다 속도를 높이고 토큰 사용량을 줄인다. 세 번째는 Claude Code, Codex, Antigravity용 공식 플러그인과, 자연어로 게임을 만들고 멀티플레이 협업을 지원하는 웹 기반 도구 'Unity Spark'다."
-              },
-              {
-                "t": "video",
-                "yt": "IkcK7aeMw5A"
+                "x": "선언문은 생성형 AI를 “언제, 어디서, 어떻게 쓸지 결정하는 주체는 노동자여야 한다”고 밝히면서, 이를 쓰는 이들에게는 “환경, 비용, 윤리, 법, 정직성에 대한 우려”와 “예술의 신성함”을 염두에 두라고 당부한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Unity、AI生態系への\n三つの道を示す",
-          "body": "AI Game Lab Day 2026でUnityがエディター外のAI活用三本柱を示した。",
-          "mini_headline": "Unityの三つのAI戦略",
+          "headline": "欧州のゲーム労組が推す\nnon-GenAI ゲーム",
+          "body": "欧州のゲーム労組六団体が、GenAIを使わずに作られたゲームの支持を求める声明を発表した。",
+          "mini_headline": "労組、GenAI不使用ゲームを支持",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.invenglobal.com/upload/image/2026/11/12/r1794483730633569.jpeg"
+                "src": "https://kotaku.com/app/uploads/2026/11/IWGB-union-logo.jpg",
+                "cap": "IWGB Game Workersのロゴ © IWGB"
               },
               {
                 "t": "p",
-                "x": "Unity KoreaのスタッフパートナーエンジニアJong-tae Parkは12日、KOCCAが板橋（Pangyo）のGlobal Game Hub Centerで開催した「AI Game Lab Day 2026」に登壇した。単なるウェブベースの成果物を超えて完成度の高いハイフィデリティなゲームを作るには、エンジンに特化したAIワークフローが不可欠だと強調した。"
+                "x": "欧州各国のビデオゲーム労組が、本日英国マンチェスター(Manchester)で開かれる第2回欧州ゲーム労働者労組サミットを前に、消費者に「GenAIを使わずに作られたゲームを支持する」よう呼びかける共同マニフェストを発表した。マニフェストの主な目的は「生成AIの害についての認識を高める」ことだ。"
               },
               {
                 "t": "p",
-                "x": "Unityは今年12月に「Unity 6.7 LTS」を、来年3月のGDC前後に「Unity 7」を予定している。URPにはSurface Cache GI、DLSS・FSR・PSSR・STPに対応するアップスケーリングフレームワーク、推論エンジン「Sentis」を活用してテクスチャメモリを約40%削減するNeural Texture Compressionが加わる。"
-              },
-              {
-                "t": "img",
-                "src": "https://static.invenglobal.com/upload/image/2026/11/12/r1794483738795652.jpeg"
+                "x": "「On Generative AI Usage in the Games Industry(ゲーム業界における生成AIの使用について)」と題したこのマニフェストは、英国のIWGB、アイルランド共和国のGWUI、フランスのSTJV、スペインのCSVI、ドイツのGDRT、イタリアのFIOM-CGILが連携してまとめたものである。"
               },
               {
                 "t": "p",
-                "x": "第一の柱はエディター内の「Unity AI Tools」で、「AI Assistant」「Generator」「AI Gateway」からなる。AI Assistantはプロジェクトを分析してエディターを能動的に操作し、Ask・Plan・Agentモードと「Checkpoint」機能を備える。Generatorは2Dスプライトから3Dモデル、リギング、オーディオまで扱い、「Unity AI Credits」で課金される（$10あたり約1,000クレジット）。"
-              },
-              {
-                "t": "img",
-                "src": "https://static.invenglobal.com/upload/image/2026/11/12/r1794483750571959.jpeg"
+                "x": "マニフェストは、生成AIが「環境に深刻な害を与える」こと、「業界におけるジュニア職の著しい減少」を招いていること、そしてAIモデルが「盗まれた第三者のデータで学習された」という記録があることを指摘する。プレイヤーには「ゲームにおけるgenAIを嫌だと声を上げる」こと、そして「genAIを使わずに作られたゲーム」を支持することを求めている。"
               },
               {
                 "t": "p",
-                "x": "第二の柱「Unity CLI」は、エージェントが必要なコマンドだけを正確に呼び出せるようにし、MCP-basedのAI Gatewayに比べて速度を高めトークン使用量を抑える。第三の柱は、Claude Code、Codex、Antigravity向けの公式プラグインと、自然言語でゲームを作りマルチプレイ協業もできるウェブベースのツール「Unity Spark」だ。"
-              },
-              {
-                "t": "video",
-                "yt": "IkcK7aeMw5A"
+                "x": "マニフェストは、生成AIを「いつ、どこで、どのように使うかを決めるのは労働者であるべきだ」とし、使う側には「環境、コスト、倫理、法、誠実さをめぐる懸念」と「芸術の尊さ」を念頭に置くよう促している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Unity勾勒进入AI\n生态的三条路径",
-          "body": "在AI Game Lab Day 2026上，Unity Korea阐述了AI三条路径。",
-          "mini_headline": "Unity的三条AI路径",
+          "headline": "欧洲游戏工会呼吁玩家\n支持non-GenAI游戏",
+          "body": "欧洲六家游戏工会联合发布宣言，呼吁消费者支持不使用GenAI制作的游戏。",
+          "mini_headline": "工会力挺无GenAI游戏",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.invenglobal.com/upload/image/2026/11/12/r1794483730633569.jpeg"
+                "src": "https://kotaku.com/app/uploads/2026/11/IWGB-union-logo.jpg",
+                "cap": "IWGB Game Workers 标志 © IWGB"
               },
               {
                 "t": "p",
-                "x": "Unity Korea资深合作伙伴工程师Jong-tae Park于12日在KOCCA于板桥（Pangyo）Global Game Hub Center举办的“AI Game Lab Day 2026”上发表演讲。他强调，要超越简单的网页端产出、打造精致的高保真游戏，针对引擎的专用AI工作流不可或缺。"
+                "x": "在今天于英国曼彻斯特（Manchester）举行的第二届欧洲游戏从业者工会峰会召开前，欧洲多国的电子游戏工会发布联合宣言，呼吁消费者“支持不使用GenAI制作的游戏”。宣言的首要目标是“提高人们对生成式AI危害的认识”。"
               },
               {
                 "t": "p",
-                "x": "Unity计划今年12月推出“Unity 6.7 LTS”，明年3月GDC前后推出“Unity 7”。URP将新增Surface Cache GI、支持DLSS、FSR、PSSR和STP的超分辨率框架，以及借助“Sentis”推理引擎将纹理内存减少约40%的Neural Texture Compression。"
-              },
-              {
-                "t": "img",
-                "src": "https://static.invenglobal.com/upload/image/2026/11/12/r1794483738795652.jpeg"
+                "x": "这份题为“On Generative AI Usage in the Games Industry”（《关于游戏行业使用生成式AI》）的宣言，由英国的IWGB、爱尔兰共和国的GWUI、法国的STJV、西班牙的CSVI、德国的GDRT和意大利的FIOM-CGIL共同协调完成。"
               },
               {
                 "t": "p",
-                "x": "第一大支柱是编辑器内的“Unity AI Tools”，包括“AI Assistant”“Generator”和“AI Gateway”。AI Assistant会分析项目并主动操作编辑器，提供Ask、Plan和Agent模式以及“Checkpoint”功能。Generator涵盖从2D精灵到3D模型、骨骼绑定和音频，通过“Unity AI Credits”计费（每$10约1,000积分）。"
-              },
-              {
-                "t": "img",
-                "src": "https://static.invenglobal.com/upload/image/2026/11/12/r1794483750571959.jpeg"
+                "x": "宣言指出，生成式AI“对环境造成严重危害”，导致“行业内初级岗位明显减少”，而且AI模型有据可查地“使用窃取的第三方数据进行训练”。宣言敦促玩家“明确表达对游戏中genAI的反感”，并支持“不使用genAI制作的游戏”。"
               },
               {
                 "t": "p",
-                "x": "第二大支柱“Unity CLI”让智能体只调用所需的精确命令，与MCP-based的AI Gateway相比速度更快、词元用量更低。第三大支柱是面向Claude Code、Codex和Antigravity的官方插件，以及可用自然语言制作游戏并支持多人协作的网页工具“Unity Spark”。"
-              },
-              {
-                "t": "video",
-                "yt": "IkcK7aeMw5A"
+                "x": "宣言表示，“应当由劳动者来决定何时、何地以及如何使用”生成式AI，同时敦促使用者牢记“对环境、成本、伦理、法律、诚信的关切”以及“艺术的神圣性”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Unity traza tres caminos\nhacia el ecosistema de AI",
-          "body": "En AI Game Lab Day 2026, Jong-tae Park, de Unity Korea, expuso tres enfoques de AI del motor más allá del editor.",
-          "mini_headline": "Las tres vías de AI de Unity",
+          "headline": "Sindicatos europeos piden\napoyar juegos non-GenAI",
+          "body": "Un colectivo de seis sindicatos europeos del videojuego publicó un manifiesto que pide apoyar juegos hechos sin GenAI.",
+          "mini_headline": "Sindicatos apoyan juegos sin GenAI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.invenglobal.com/upload/image/2026/11/12/r1794483730633569.jpeg"
+                "src": "https://kotaku.com/app/uploads/2026/11/IWGB-union-logo.jpg",
+                "cap": "Logotipo de IWGB Game Workers © IWGB"
               },
               {
                 "t": "p",
-                "x": "Jong-tae Park, Staff Partner Engineer de Unity Korea, intervino el 12 de noviembre en 'AI Game Lab Day 2026', organizado por KOCCA en el Global Game Hub Center de Pangyo. Subrayó que un flujo de trabajo de AI especializado en el motor es esencial para ir más allá de simples resultados web y crear juegos pulidos y de alta fidelidad."
+                "x": "Sindicatos de videojuegos de toda Europa publicaron un manifiesto conjunto que pide a los consumidores “apoyar los juegos hechos sin GenAI”, antes de la segunda cumbre europea de sindicatos de trabajadores del videojuego, que se celebra hoy en Manchester, Inglaterra. El objetivo principal del manifiesto es “concienciar sobre los daños de la AI generativa”."
               },
               {
                 "t": "p",
-                "x": "Unity prevé lanzar 'Unity 6.7 LTS' este diciembre y 'Unity 7' en torno a la GDC del próximo marzo. URP incorpora Surface Cache GI, un marco de escalado para DLSS, FSR, PSSR y STP, y Neural Texture Compression, que aprovecha el motor de inferencia 'Sentis' para reducir la memoria de texturas en aproximadamente un 40%."
-              },
-              {
-                "t": "img",
-                "src": "https://static.invenglobal.com/upload/image/2026/11/12/r1794483738795652.jpeg"
+                "x": "El manifiesto, titulado “On Generative AI Usage in the Games Industry” (“Sobre el uso de la AI generativa en la industria del videojuego”), es un esfuerzo conjunto coordinado por la IWGB de Gran Bretaña, la GWUI de la República de Irlanda, el STJV de Francia, el CSVI de España, el GDRT de Alemania y la FIOM-CGIL de Italia."
               },
               {
                 "t": "p",
-                "x": "El primer pilar es 'Unity AI Tools', dentro del editor: 'AI Assistant', 'Generator' y 'AI Gateway'. AI Assistant analiza el proyecto para manipular activamente el editor, con los modos Ask, Plan y Agent y una función 'Checkpoint'. Generator abarca desde sprites 2D hasta modelos 3D, rigging y audio, y se factura mediante 'Unity AI Credits' (aprox. 1,000 créditos por $10)."
-              },
-              {
-                "t": "img",
-                "src": "https://static.invenglobal.com/upload/image/2026/11/12/r1794483750571959.jpeg"
+                "x": "El texto destaca el “grave daño al medio ambiente” de la AI generativa, su papel en una “marcada disminución de los puestos junior en la industria” y el historial documentado de modelos de AI “entrenados con datos robados de terceros”. Insta a los jugadores a “expresar abiertamente su rechazo a la genAI en los juegos” y a apoyar “los juegos hechos sin genAI”."
               },
               {
                 "t": "p",
-                "x": "El segundo pilar, 'Unity CLI', permite a los agentes llamar solo a los comandos precisos necesarios, lo que aumenta la velocidad y reduce el uso de tokens frente al AI Gateway MCP-based. El tercero lo forman los plugins oficiales para Claude Code, Codex y Antigravity, además de 'Unity Spark', una herramienta web para crear juegos en lenguaje natural con colaboración multijugador."
-              },
-              {
-                "t": "video",
-                "yt": "IkcK7aeMw5A"
+                "x": "El manifiesto afirma que “los trabajadores deben ser quienes decidan cuándo, dónde y cómo usar” la AI generativa, y pide a quienes la usen que tengan presentes “las preocupaciones sobre el medio ambiente, el costo, la ética, la ley, la honestidad” y “la santidad del arte”."
               }
             ]
           }
@@ -1139,381 +647,261 @@
       }
     },
     {
-      "id": "ncai-varco-pangyo-builders",
-      "source_lang": "ko",
+      "id": "ai-mensetsukan-steam-game",
+      "source_lang": "ja",
       "eyebrow": "AI NEWS",
-      "headline": "NC AI, 판교 빌더스로\n바르코 노하우 공유",
-      "body": "NC AI가 '판교 빌더스' 첫 행사에서 바르코 3D·사운드 기술을 공유했다.",
-      "mini_headline": "NC AI 바르코 공유",
+      "headline": "AI 면접관에 도전하는\n게임 Steam에 출시",
+      "body": "지정 단어를 넣어 쓴 이력서를 읽고 AI 면접관이 즉석에서 질문을 던진다.",
+      "mini_headline": "AI 면접관 게임 출시",
       "tool": "Games",
-      "source": "지디넷코리아",
-      "url": "https://zdnet.co.kr/view/?no=20261113120913",
+      "source": "4Gamer.net",
+      "url": "https://www.4gamer.net/games/058/G105854/20261116008/",
       "accent": "#2ec5c5",
       "motif": "cube",
       "full": {
         "mode": "full",
         "blocks": [
           {
-            "t": "p",
-            "x": "NC AI가 게임 개발자들과 직접 만나 인공지능(AI)을 활용한 3D 그래픽과 사운드 제작 기술을 공유했다. 자체 AI 창작 플랫폼 '바르코'를 알리고 게임 개발 현장에서 활용을 확대하기 위한 행보다."
+            "t": "img",
+            "src": "https://www.4gamer.net/games/058/G105854/20261116008/SS/001.jpg"
           },
           {
             "t": "p",
-            "x": "NC AI는 게임 개발자 커뮤니티 '판교 빌더스'의 첫 행사인 '빌더스 나잇'을 개최했다고 13일 밝혔다. 행사에는 게임 개발자와 업계 관계자 70여명이 참석해 AI를 활용한 게임 제작 사례와 실무 경험을 공유했다."
-          },
-          {
-            "t": "p",
-            "x": "판교 빌더스는 소속 회사나 담당 업무와 관계없이 게임 개발자들이 교류하는 커뮤니티다. NC AI는 개발자들이 AI 제작 도구를 실제 업무에 적용하는 방법을 나누고 협업 기회를 찾도록 지원할 계획이다."
+            "x": "MeteorWing이 2026년 11월 13일 PC용 소프트웨어 「AI 면접관을 돌파하라」(AI面接官を突破せよ)를 Steam에 내놨다. 가격은 280엔(세금 포함)이고, 출시 기념 세일로 11월 28일까지는 40% 할인된 168엔(세금 포함)에 살 수 있다. 제한 시간 5분 안에 지정된 단어를 이력서에 담아 AI 면접관의 서류 심사를 통과한 뒤 면접에 도전하는 게임이다."
           },
           {
             "t": "img",
-            "src": "https://image.zdnet.co.kr/2026/11/13/9665b74012e71c74367f92553650ba35.jpg"
+            "src": "https://www.4gamer.net/games/058/G105854/20261116008/SS/002.jpg"
           },
           {
             "t": "p",
-            "x": "이번 행사는 'AI로 게임 빌드하기'를 주제로 진행됐다. 게임 프로그래머이자 '가짜게임잼' 운영자인 셰이더쿠가 AI를 활용한 게임 개발 경험을 소개했다."
+            "x": "지정 단어 중에는 ‘산책’, ‘연필’처럼 이력서에 써도 무난해 보이는 것도 있지만, ‘유령’이나 ‘지명수배’ 같은 엉뚱한 단어도 섞여 있다. 플레이어는 이 단어들을 이력서 문장에 자연스럽게 녹여 넣어야 한다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.4gamer.net/games/058/G105854/20261116008/SS/003.jpg"
           },
           {
             "t": "p",
-            "x": "셰이더쿠는 NC AI의 창작 플랫폼 '바르코(VARCO)'로 제작한 3D 그래픽 자산을 실제 게임에 적용한 사례를 공유했다. AI 도구 연동부터 그래픽 처리 성능 최적화, 화면 연출과 사운드 제작까지 개발 과정에서 활용한 기술과 방법도 설명했다."
+            "x": "AI 면접관은 플레이어의 이력서를 읽고 점수와 코멘트로 평가한다. 서류를 통과하면 면접이다. 면접에서는 AI가 이력서 내용을 토대로 그 자리에서 질문을 만든다. “이력서에 ‘전생은 닌자’라고 적혀 있는데요……” 같은 질문이 나오면 1문항당 1분 안에 키보드나 음성으로 답하면 된다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.4gamer.net/games/058/G105854/20261116008/SS/004.jpg"
           },
           {
             "t": "p",
-            "x": "바르코는 생성형 AI로 게임에 필요한 3D 그래픽과 사운드를 제작하는 플랫폼이다. NC AI는 반복적인 콘텐츠 제작 작업을 줄이고 개발자가 게임 기획과 완성도 개선에 집중하도록 지원한다는 목표로 기술을 개발하고 있다."
-          },
-          {
-            "t": "p",
-            "x": "NC AI 실무진도 개발 경험을 공유했다. 바르코 3D를 담당하는 김장영 팀장과 바르코 사운드를 담당하는 조남현 팀장은 AI로 제작한 그래픽과 음향을 실제 게임 개발 과정에 적용하는 방법을 소개했다. 작업 시간을 줄이면서 결과물 품질을 관리할 때 고려해야 할 사항도 다뤘다."
-          },
-          {
-            "t": "p",
-            "x": "행사 후에는 참가자들이 개발 경험과 아이디어를 나누는 네트워킹 프로그램이 진행됐다. NC AI는 참가자 전원에게 바르코 1개월 무료 이용권을 제공해 행사에서 소개한 기능을 직접 사용하도록 지원했다."
-          },
-          {
-            "t": "p",
-            "x": "게임 개발자와 만나는 자리도 확대한다. NC AI는 오는 19일부터 21일까지 부산에서 열리는 국제게임전시회 '지스타 2026' 기간에 체험 카페를 운영할 예정이다."
-          },
-          {
-            "t": "p",
-            "x": "방문객은 바르코 3D와 바르코 사운드를 직접 사용해 볼 수 있다. 게임 개발사와 제작팀을 대상으로 프로젝트 환경에 맞는 AI 도입 상담도 진행한다."
-          },
-          {
-            "t": "p",
-            "x": "NC AI는 앞으로 판교 빌더스를 정기적으로 개최해 개발자 커뮤니티를 운영할 계획이다. 바르코 활용 사례를 지속적으로 공유하고 게임 제작 과정에서 개발자들이 겪는 문제와 요구도 살펴볼 방침이다."
-          },
-          {
-            "t": "p",
-            "x": "이연수 NC AI 대표는 \"NC AI는 게임 개발 현장의 고민에서 출발해 AI 기술을 발전시켜 온 만큼 실제 게임을 만드는 개발자들과의 소통을 중요하게 생각한다\"며 \"판교 빌더스가 다양한 개발자들이 경험과 아이디어를 나누고 새로운 가능성을 발견하는 커뮤니티로 자리잡을 수 있도록 지속적으로 지원할 것\"이라고 말했다."
+            "x": "답변마다 점수와 이유가 뜨고, 마지막에 채용 여부가 갈린다. 11월 14일에는 Steam 체험판도 공개됐으니 관심이 있다면 체험판부터 해 보는 것도 방법이다."
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "NC AI, 판교 빌더스로\n바르코 노하우 공유",
-          "body": "NC AI가 '판교 빌더스' 첫 행사에서 바르코 3D·사운드 기술을 공유했다.",
-          "mini_headline": "NC AI 바르코 공유",
+        "ja": {
+          "headline": "AI面接官に挑む\nゲームがSteamで配信",
+          "body": "指定ワードを入れた履歴書をもとに、AI面接官がその場で質問を生成する。",
+          "mini_headline": "AI面接官ゲーム配信",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "NC AI가 게임 개발자들과 직접 만나 인공지능(AI)을 활용한 3D 그래픽과 사운드 제작 기술을 공유했다. 자체 AI 창작 플랫폼 '바르코'를 알리고 게임 개발 현장에서 활용을 확대하기 위한 행보다."
+                "t": "img",
+                "src": "https://www.4gamer.net/games/058/G105854/20261116008/SS/001.jpg"
               },
               {
                 "t": "p",
-                "x": "NC AI는 게임 개발자 커뮤니티 '판교 빌더스'의 첫 행사인 '빌더스 나잇'을 개최했다고 13일 밝혔다. 행사에는 게임 개발자와 업계 관계자 70여명이 참석해 AI를 활용한 게임 제작 사례와 실무 경험을 공유했다."
-              },
-              {
-                "t": "p",
-                "x": "판교 빌더스는 소속 회사나 담당 업무와 관계없이 게임 개발자들이 교류하는 커뮤니티다. NC AI는 개발자들이 AI 제작 도구를 실제 업무에 적용하는 방법을 나누고 협업 기회를 찾도록 지원할 계획이다."
+                "x": "MeteorWingは2026年11月13日，PC用ソフト「AI面接官を突破せよ」の配信をSteamで開始した。価格は280円（税込）。リリース記念セールとして，11月28日まで40％オフの168円（税込）で購入できる。本作は，指定されたワードを制限時間5分以内に履歴書に盛り込んで，AI面接官の書類審査を突破し，面接に挑むゲームだ。"
               },
               {
                 "t": "img",
-                "src": "https://image.zdnet.co.kr/2026/11/13/9665b74012e71c74367f92553650ba35.jpg"
+                "src": "https://www.4gamer.net/games/058/G105854/20261116008/SS/002.jpg"
               },
               {
                 "t": "p",
-                "x": "이번 행사는 'AI로 게임 빌드하기'를 주제로 진행됐다. 게임 프로그래머이자 '가짜게임잼' 운영자인 셰이더쿠가 AI를 활용한 게임 개발 경험을 소개했다."
+                "x": "指定されるワードには，「散歩」「鉛筆」など，履歴書に書いても問題なさそうなワードのほか，「幽霊」や「指名手配」といったとんでもないものが含まれている。プレイヤーは，これらのワードを自然に履歴書の文章に盛り込んでいく。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.4gamer.net/games/058/G105854/20261116008/SS/003.jpg"
               },
               {
                 "t": "p",
-                "x": "셰이더쿠는 NC AI의 창작 플랫폼 '바르코(VARCO)'로 제작한 3D 그래픽 자산을 실제 게임에 적용한 사례를 공유했다. AI 도구 연동부터 그래픽 처리 성능 최적화, 화면 연출과 사운드 제작까지 개발 과정에서 활용한 기술과 방법도 설명했다."
+                "x": "AI面接官は，プレイヤーが書いた履歴書を読み上げ，点数とコメントで評価する。書類審査を通れば，面接へと進む。面接では，プレイヤーが書いた履歴書の内容からAIがその場で質問を考える。「履歴書に『前世は忍者』とありますが……」といった質問に対して，1問1分以内にキーボードか音声で答えていく。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.4gamer.net/games/058/G105854/20261116008/SS/004.jpg"
               },
               {
                 "t": "p",
-                "x": "바르코는 생성형 AI로 게임에 필요한 3D 그래픽과 사운드를 제작하는 플랫폼이다. NC AI는 반복적인 콘텐츠 제작 작업을 줄이고 개발자가 게임 기획과 완성도 개선에 집중하도록 지원한다는 목표로 기술을 개발하고 있다."
-              },
-              {
-                "t": "p",
-                "x": "NC AI 실무진도 개발 경험을 공유했다. 바르코 3D를 담당하는 김장영 팀장과 바르코 사운드를 담당하는 조남현 팀장은 AI로 제작한 그래픽과 음향을 실제 게임 개발 과정에 적용하는 방법을 소개했다. 작업 시간을 줄이면서 결과물 품질을 관리할 때 고려해야 할 사항도 다뤘다."
-              },
-              {
-                "t": "p",
-                "x": "행사 후에는 참가자들이 개발 경험과 아이디어를 나누는 네트워킹 프로그램이 진행됐다. NC AI는 참가자 전원에게 바르코 1개월 무료 이용권을 제공해 행사에서 소개한 기능을 직접 사용하도록 지원했다."
-              },
-              {
-                "t": "p",
-                "x": "게임 개발자와 만나는 자리도 확대한다. NC AI는 오는 19일부터 21일까지 부산에서 열리는 국제게임전시회 '지스타 2026' 기간에 체험 카페를 운영할 예정이다."
-              },
-              {
-                "t": "p",
-                "x": "방문객은 바르코 3D와 바르코 사운드를 직접 사용해 볼 수 있다. 게임 개발사와 제작팀을 대상으로 프로젝트 환경에 맞는 AI 도입 상담도 진행한다."
-              },
-              {
-                "t": "p",
-                "x": "NC AI는 앞으로 판교 빌더스를 정기적으로 개최해 개발자 커뮤니티를 운영할 계획이다. 바르코 활용 사례를 지속적으로 공유하고 게임 제작 과정에서 개발자들이 겪는 문제와 요구도 살펴볼 방침이다."
-              },
-              {
-                "t": "p",
-                "x": "이연수 NC AI 대표는 \"NC AI는 게임 개발 현장의 고민에서 출발해 AI 기술을 발전시켜 온 만큼 실제 게임을 만드는 개발자들과의 소통을 중요하게 생각한다\"며 \"판교 빌더스가 다양한 개발자들이 경험과 아이디어를 나누고 새로운 가능성을 발견하는 커뮤니티로 자리잡을 수 있도록 지속적으로 지원할 것\"이라고 말했다."
+                "x": "回答ごとに点数と理由が表示され，最後に採用か不採用かが決まる。11月14日には体験版もSteamで公開されているので，気になる人は，まずそちらをプレイしてみよう。"
               }
             ]
           }
         },
         "en": {
-          "headline": "NC AI shares VARCO know-how\nat Pangyo Builders",
-          "body": "NC AI shared its VARCO 3D and sound technology at the first event of its Pangyo Builders developer community.",
-          "mini_headline": "NC AI shares VARCO",
+          "headline": "Take on an AI interviewer\nin a game now on Steam",
+          "body": "From a resume that includes the assigned words, the AI interviewer generates questions on the spot.",
+          "mini_headline": "AI interviewer game out on Steam",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "NC AI met game developers in person to share techniques for producing 3D graphics and sound with artificial intelligence (AI). The move aims to promote VARCO, its own AI creation platform, and to expand its use in game development."
+                "t": "img",
+                "src": "https://www.4gamer.net/games/058/G105854/20261116008/SS/001.jpg"
               },
               {
                 "t": "p",
-                "x": "NC AI said on the 13th that it held Builders Night, the first event of the game developer community Pangyo Builders. More than 70 game developers and industry officials attended and shared AI-based game production cases and hands-on experience."
-              },
-              {
-                "t": "p",
-                "x": "Pangyo Builders is a community where game developers interact regardless of their company or role. NC AI plans to help developers share ways to apply AI production tools to their actual work and find opportunities for collaboration."
+                "x": "On November 13, 2026, MeteorWing released the PC title “AI面接官を突破せよ” (Get Past the AI Interviewer) on Steam. It costs 280 yen (tax included). As a launch sale, it is 40% off at 168 yen (tax included) until November 28. In the game, you work assigned words into a resume within a 5-minute time limit, pass the AI interviewer's document screening, and then face the interview."
               },
               {
                 "t": "img",
-                "src": "https://image.zdnet.co.kr/2026/11/13/9665b74012e71c74367f92553650ba35.jpg"
+                "src": "https://www.4gamer.net/games/058/G105854/20261116008/SS/002.jpg"
               },
               {
                 "t": "p",
-                "x": "The event was held under the theme \"Building games with AI.\" Shaderku, a game programmer and organizer of Fake Game Jam, introduced his experience developing games with AI."
+                "x": "The assigned words include ones that would look fine on a resume, such as “walk” and “pencil,” as well as outlandish ones like “ghost” and “wanted fugitive.” Players weave these words naturally into the text of their resume."
+              },
+              {
+                "t": "img",
+                "src": "https://www.4gamer.net/games/058/G105854/20261116008/SS/003.jpg"
               },
               {
                 "t": "p",
-                "x": "Shaderku shared cases of applying 3D graphic assets made with VARCO, NC AI's creation platform, to actual games. He also explained the techniques and methods he used during development, from integrating AI tools to optimizing graphics processing performance, staging and sound production."
+                "x": "The AI interviewer reads the player's resume aloud and rates it with a score and comments. Passing the document screening moves you on to the interview, where the AI comes up with questions on the spot based on what the player wrote. Questions such as “Your resume says ‘In my past life I was a ninja’...” are answered by keyboard or voice, within 1 minute per 1 question."
+              },
+              {
+                "t": "img",
+                "src": "https://www.4gamer.net/games/058/G105854/20261116008/SS/004.jpg"
               },
               {
                 "t": "p",
-                "x": "VARCO is a platform that uses generative AI to create the 3D graphics and sound that games need. NC AI is developing the technology with the goal of reducing repetitive content production work and helping developers focus on game design and polish."
-              },
-              {
-                "t": "p",
-                "x": "NC AI staff also shared their development experience. Team leader Kim Jang-young, in charge of VARCO 3D, and team leader Cho Nam-hyun, in charge of VARCO Sound, explained how to apply AI-made graphics and audio to the actual game development process. They also covered what to consider when managing output quality while cutting work time."
-              },
-              {
-                "t": "p",
-                "x": "After the event, a networking program let participants exchange development experience and ideas. NC AI gave every participant a free 1-month VARCO pass so they could try the features introduced at the event themselves."
-              },
-              {
-                "t": "p",
-                "x": "NC AI is also expanding opportunities to meet game developers. It plans to run a hands-on cafe during G-STAR 2026, the international game exhibition held in Busan from the 19th to the 21st."
-              },
-              {
-                "t": "p",
-                "x": "Visitors can try VARCO 3D and VARCO Sound firsthand. NC AI will also offer game developers and production teams consultations on adopting AI to suit their project environments."
-              },
-              {
-                "t": "p",
-                "x": "NC AI plans to hold Pangyo Builders regularly to run its developer community. It intends to keep sharing VARCO use cases and to look into the problems and needs developers face in the game production process."
-              },
-              {
-                "t": "p",
-                "x": "Lee Yeon-su, CEO of NC AI, said, \"Since NC AI has developed its AI technology starting from the concerns of people on the game development front line, we value communication with the developers who make actual games,\" adding, \"We will keep supporting Pangyo Builders so it can settle in as a community where diverse developers share experiences and ideas and discover new possibilities.\""
+                "x": "Each answer shows a score and the reason for it, and at the end you are either hired or rejected. A demo was also released on Steam on November 14, so anyone curious can try that first."
               }
             ]
           }
         },
-        "ja": {
-          "headline": "NC AI、板橋ビルダーズで\nVARCOノウハウ共有",
-          "body": "NC AIが「板橋ビルダーズ」初イベントでVARCOの3D・サウンド技術を共有した。",
-          "mini_headline": "NC AI、VARCOを共有",
+        "ko": {
+          "headline": "AI 면접관에 도전하는\n게임 Steam에 출시",
+          "body": "지정 단어를 넣어 쓴 이력서를 읽고 AI 면접관이 즉석에서 질문을 던진다.",
+          "mini_headline": "AI 면접관 게임 출시",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "NC AIがゲーム開発者と直接会い、人工知能（AI）を活用した3Dグラフィックとサウンドの制作技術を共有した。自社のAI創作プラットフォーム「VARCO」を広め、ゲーム開発の現場での活用を広げるための取り組みだ。"
+                "t": "img",
+                "src": "https://www.4gamer.net/games/058/G105854/20261116008/SS/001.jpg"
               },
               {
                 "t": "p",
-                "x": "NC AIは13日、ゲーム開発者コミュニティ「板橋ビルダーズ」の初イベント「ビルダーズナイト」を開催したと明らかにした。イベントにはゲーム開発者や業界関係者70人余りが参加し、AIを活用したゲーム制作事例と実務経験を共有した。"
-              },
-              {
-                "t": "p",
-                "x": "板橋ビルダーズは、所属企業や担当業務に関係なくゲーム開発者が交流するコミュニティだ。NC AIは、開発者がAI制作ツールを実務に適用する方法を共有し、協業の機会を見つけられるよう支援する計画だ。"
+                "x": "MeteorWing이 2026년 11월 13일 PC용 소프트웨어 「AI 면접관을 돌파하라」(AI面接官を突破せよ)를 Steam에 내놨다. 가격은 280엔(세금 포함)이고, 출시 기념 세일로 11월 28일까지는 40% 할인된 168엔(세금 포함)에 살 수 있다. 제한 시간 5분 안에 지정된 단어를 이력서에 담아 AI 면접관의 서류 심사를 통과한 뒤 면접에 도전하는 게임이다."
               },
               {
                 "t": "img",
-                "src": "https://image.zdnet.co.kr/2026/11/13/9665b74012e71c74367f92553650ba35.jpg"
+                "src": "https://www.4gamer.net/games/058/G105854/20261116008/SS/002.jpg"
               },
               {
                 "t": "p",
-                "x": "今回のイベントは「AIでゲームをビルドする」をテーマに行われた。ゲームプログラマーで「偽ゲームジャム」の運営者でもあるシェーダークが、AIを活用したゲーム開発の経験を紹介した。"
+                "x": "지정 단어 중에는 ‘산책’, ‘연필’처럼 이력서에 써도 무난해 보이는 것도 있지만, ‘유령’이나 ‘지명수배’ 같은 엉뚱한 단어도 섞여 있다. 플레이어는 이 단어들을 이력서 문장에 자연스럽게 녹여 넣어야 한다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.4gamer.net/games/058/G105854/20261116008/SS/003.jpg"
               },
               {
                 "t": "p",
-                "x": "シェーダークは、NC AIの創作プラットフォーム「VARCO」で制作した3Dグラフィックアセットを実際のゲームに適用した事例を共有した。AIツールの連携からグラフィック処理性能の最適化、画面演出、サウンド制作まで、開発過程で用いた技術と手法も説明した。"
+                "x": "AI 면접관은 플레이어의 이력서를 읽고 점수와 코멘트로 평가한다. 서류를 통과하면 면접이다. 면접에서는 AI가 이력서 내용을 토대로 그 자리에서 질문을 만든다. “이력서에 ‘전생은 닌자’라고 적혀 있는데요……” 같은 질문이 나오면 1문항당 1분 안에 키보드나 음성으로 답하면 된다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.4gamer.net/games/058/G105854/20261116008/SS/004.jpg"
               },
               {
                 "t": "p",
-                "x": "VARCOは生成AIでゲームに必要な3Dグラフィックとサウンドを制作するプラットフォームだ。NC AIは、反復的なコンテンツ制作作業を減らし、開発者がゲームの企画と完成度の向上に集中できるよう支援することを目標に技術を開発している。"
-              },
-              {
-                "t": "p",
-                "x": "NC AIの実務陣も開発経験を共有した。VARCO 3Dを担当するキム・ジャンヨンチーム長とVARCOサウンドを担当するチョ・ナムヒョンチーム長は、AIで制作したグラフィックと音響を実際のゲーム開発工程に適用する方法を紹介した。作業時間を短縮しつつ成果物の品質を管理する際の留意点も取り上げた。"
-              },
-              {
-                "t": "p",
-                "x": "イベント後には、参加者が開発経験やアイデアを交わすネットワーキングプログラムが行われた。NC AIは参加者全員にVARCOの1か月無料利用券を提供し、イベントで紹介した機能を実際に使えるよう支援した。"
-              },
-              {
-                "t": "p",
-                "x": "ゲーム開発者と会う場も広げる。NC AIは19日から21日まで釜山で開かれる国際ゲーム展示会「G-STAR 2026」の期間中、体験カフェを運営する予定だ。"
-              },
-              {
-                "t": "p",
-                "x": "来場者はVARCO 3DとVARCOサウンドを直接試せる。ゲーム開発会社や制作チームを対象に、プロジェクト環境に合わせたAI導入の相談も行う。"
-              },
-              {
-                "t": "p",
-                "x": "NC AIは今後、板橋ビルダーズを定期的に開催し、開発者コミュニティを運営する計画だ。VARCOの活用事例を継続的に共有し、ゲーム制作の過程で開発者が直面する課題やニーズも探っていく方針だ。"
-              },
-              {
-                "t": "p",
-                "x": "NC AIのイ・ヨンス代表は「NC AIはゲーム開発現場の悩みから出発してAI技術を発展させてきただけに、実際にゲームを作る開発者とのコミュニケーションを重視している」とし、「板橋ビルダーズが、多様な開発者が経験とアイデアを分かち合い新たな可能性を発見するコミュニティとして定着できるよう、継続的に支援していく」と述べた。"
+                "x": "답변마다 점수와 이유가 뜨고, 마지막에 채용 여부가 갈린다. 11월 14일에는 Steam 체험판도 공개됐으니 관심이 있다면 체험판부터 해 보는 것도 방법이다."
               }
             ]
           }
         },
         "zh": {
-          "headline": "NC AI办“板桥建造者”\n分享VARCO经验",
-          "body": "NC AI在“板桥建造者”首场活动上分享了VARCO的3D与音效技术。",
-          "mini_headline": "NC AI分享VARCO",
+          "headline": "挑战AI面试官\n游戏登陆Steam",
+          "body": "根据玩家写入指定词语的简历，AI面试官会当场生成面试问题。",
+          "mini_headline": "AI面试官游戏上线",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "NC AI与游戏开发者面对面，分享了运用人工智能（AI）制作3D图形与音效的技术。此举旨在推广其自研AI创作平台VARCO，并扩大其在游戏开发一线的应用。"
+                "t": "img",
+                "src": "https://www.4gamer.net/games/058/G105854/20261116008/SS/001.jpg"
               },
               {
                 "t": "p",
-                "x": "NC AI于13日宣布，举办了游戏开发者社区“板桥建造者”的首场活动“建造者之夜”。70余名游戏开发者和业内人士出席，分享了利用AI制作游戏的案例与实务经验。"
-              },
-              {
-                "t": "p",
-                "x": "板桥建造者是一个不论所属公司或负责工作、供游戏开发者交流的社区。NC AI计划帮助开发者分享将AI制作工具应用于实际工作的方法，并寻找合作机会。"
+                "x": "MeteorWing于2026年11月13日在Steam上推出PC软件《突破AI面试官》（AI面接官を突破せよ）。售价280日元（含税）。作为发售纪念促销，11月28日前可享40%折扣，以168日元（含税）购买。本作要求玩家在5分钟时限内把指定词语写进简历，通过AI面试官的书面审查，再挑战面试。"
               },
               {
                 "t": "img",
-                "src": "https://image.zdnet.co.kr/2026/11/13/9665b74012e71c74367f92553650ba35.jpg"
+                "src": "https://www.4gamer.net/games/058/G105854/20261116008/SS/002.jpg"
               },
               {
                 "t": "p",
-                "x": "本次活动以“用AI构建游戏”为主题。游戏程序员、“假游戏创作马拉松”组织者Shaderku介绍了用AI开发游戏的经验。"
+                "x": "指定词语既有“散步”“铅笔”这类写进简历也无妨的词，也有“幽灵”“通缉”这类离谱的词。玩家需要把这些词自然地融入简历文字中。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.4gamer.net/games/058/G105854/20261116008/SS/003.jpg"
               },
               {
                 "t": "p",
-                "x": "Shaderku分享了将用NC AI创作平台VARCO制作的3D图形资产应用到实际游戏中的案例，并说明了从AI工具对接、图形处理性能优化，到画面演出和音效制作，在开发过程中使用的技术与方法。"
+                "x": "AI面试官会朗读玩家写的简历，并以分数和评语进行评价。通过书面审查后即进入面试。面试中，AI会根据玩家所写的简历内容当场构思问题。面对“简历上写着‘前世是忍者’……”这样的问题，玩家需用键盘或语音作答，每1题限时1分钟。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.4gamer.net/games/058/G105854/20261116008/SS/004.jpg"
               },
               {
                 "t": "p",
-                "x": "VARCO是利用生成式AI制作游戏所需3D图形和音效的平台。NC AI正以减少重复性内容制作工作、帮助开发者专注于游戏策划和提升完成度为目标开发相关技术。"
-              },
-              {
-                "t": "p",
-                "x": "NC AI的一线团队也分享了开发经验。负责VARCO 3D的金章英组长和负责VARCO音效的赵南贤组长介绍了将AI制作的图形与音频应用到实际游戏开发流程中的方法，还谈到了在缩短工作时间的同时管理产出质量需要考虑的事项。"
-              },
-              {
-                "t": "p",
-                "x": "活动结束后举行了交流环节，参与者分享了开发经验与创意。NC AI向全体参与者提供了VARCO 1个月免费使用券，帮助他们亲自体验活动中介绍的功能。"
-              },
-              {
-                "t": "p",
-                "x": "NC AI还将扩大与游戏开发者见面的机会，计划于19日至21日在釜山举行的国际游戏展“G-STAR 2026”期间运营体验咖啡馆。"
-              },
-              {
-                "t": "p",
-                "x": "参观者可以亲自试用VARCO 3D和VARCO音效。NC AI还将面向游戏开发商和制作团队，提供契合项目环境的AI导入咨询。"
-              },
-              {
-                "t": "p",
-                "x": "NC AI计划今后定期举办板桥建造者活动，运营开发者社区，持续分享VARCO应用案例，并关注开发者在游戏制作过程中遇到的问题与需求。"
-              },
-              {
-                "t": "p",
-                "x": "NC AI代表李妍秀表示：“NC AI从游戏开发一线的困扰出发发展AI技术，因此非常重视与实际制作游戏的开发者沟通。”他还说：“我们将持续支持板桥建造者，使其成为多元开发者分享经验与创意、发现新可能的社区。”"
+                "x": "每次回答都会显示分数和理由，最后决定是否录用。11月14日，体验版也已在Steam上公开，感兴趣的人不妨先试玩。"
               }
             ]
           }
         },
         "es": {
-          "headline": "NC AI comparte VARCO\nen Pangyo Builders",
-          "body": "NC AI compartió su tecnología de 3D y sonido de VARCO en el primer encuentro de la comunidad Pangyo Builders.",
-          "mini_headline": "NC AI comparte VARCO",
+          "headline": "Un juego para superar a un\nentrevistador AI llega a Steam",
+          "body": "A partir de un currículum con palabras asignadas, el entrevistador AI genera preguntas en el momento.",
+          "mini_headline": "Juego de entrevistador AI en Steam",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "NC AI se reunió en persona con desarrolladores de videojuegos para compartir técnicas de producción de gráficos 3D y sonido con inteligencia artificial (AI). El objetivo es dar a conocer VARCO, su propia plataforma de creación con AI, y ampliar su uso en el desarrollo de juegos."
+                "t": "img",
+                "src": "https://www.4gamer.net/games/058/G105854/20261116008/SS/001.jpg"
               },
               {
                 "t": "p",
-                "x": "NC AI informó el día 13 que celebró Builders Night, el primer evento de Pangyo Builders, una comunidad de desarrolladores de videojuegos. Asistieron más de 70 desarrolladores y profesionales del sector, que compartieron casos de producción de juegos con AI y experiencias prácticas."
-              },
-              {
-                "t": "p",
-                "x": "Pangyo Builders es una comunidad en la que los desarrolladores de videojuegos se relacionan sin importar su empresa o su función. NC AI planea ayudarles a compartir formas de aplicar herramientas de producción con AI a su trabajo real y a encontrar oportunidades de colaboración."
+                "x": "MeteorWing lanzó el 13 de noviembre de 2026 en Steam el software para PC “AI面接官を突破せよ” (Supera al entrevistador AI). Cuesta 280 yenes (impuestos incluidos). Como oferta de lanzamiento, hasta el 28 de noviembre se puede comprar con un 40% de descuento, por 168 yenes (impuestos incluidos). En el juego hay que incluir en el currículum las palabras indicadas en un tiempo límite de 5 minutos, superar la revisión documental del entrevistador AI y afrontar la entrevista."
               },
               {
                 "t": "img",
-                "src": "https://image.zdnet.co.kr/2026/11/13/9665b74012e71c74367f92553650ba35.jpg"
+                "src": "https://www.4gamer.net/games/058/G105854/20261116008/SS/002.jpg"
               },
               {
                 "t": "p",
-                "x": "El evento giró en torno al tema \"Crear juegos con AI\". Shaderku, programador de videojuegos y organizador de Fake Game Jam, presentó su experiencia desarrollando juegos con AI."
+                "x": "Entre las palabras indicadas hay algunas que no desentonarían en un currículum, como “paseo” o “lápiz”, y otras disparatadas, como “fantasma” o “se busca”. El jugador debe incorporarlas con naturalidad al texto del currículum."
+              },
+              {
+                "t": "img",
+                "src": "https://www.4gamer.net/games/058/G105854/20261116008/SS/003.jpg"
               },
               {
                 "t": "p",
-                "x": "Shaderku mostró casos en los que aplicó a juegos reales recursos gráficos 3D creados con VARCO, la plataforma de creación de NC AI. También explicó las técnicas y métodos que usó durante el desarrollo, desde la integración de herramientas de AI hasta la optimización del rendimiento gráfico, la puesta en escena y la producción de sonido."
+                "x": "El entrevistador AI lee en voz alta el currículum escrito por el jugador y lo evalúa con una puntuación y comentarios. Si se supera la revisión documental, se pasa a la entrevista. En ella, la AI formula preguntas en el momento a partir del contenido del currículum. Ante preguntas como “En su currículum dice ‘en mi vida pasada fui ninja’…”, se responde por teclado o por voz, con 1 minuto como máximo por cada 1 pregunta."
+              },
+              {
+                "t": "img",
+                "src": "https://www.4gamer.net/games/058/G105854/20261116008/SS/004.jpg"
               },
               {
                 "t": "p",
-                "x": "VARCO es una plataforma que utiliza AI generativa para crear los gráficos 3D y el sonido que necesitan los juegos. NC AI desarrolla la tecnología con el objetivo de reducir las tareas repetitivas de producción de contenido y ayudar a los desarrolladores a centrarse en el diseño y el acabado del juego."
-              },
-              {
-                "t": "p",
-                "x": "El equipo de NC AI también compartió su experiencia. Kim Jang-young, jefe del equipo de VARCO 3D, y Cho Nam-hyun, jefe del equipo de VARCO Sound, explicaron cómo aplicar gráficos y audio creados con AI al proceso real de desarrollo de juegos. También abordaron lo que hay que tener en cuenta para controlar la calidad del resultado mientras se reduce el tiempo de trabajo."
-              },
-              {
-                "t": "p",
-                "x": "Tras el evento se celebró un programa de networking en el que los participantes intercambiaron experiencias e ideas. NC AI entregó a todos los asistentes un pase gratuito de 1 mes de VARCO para que probaran por sí mismos las funciones presentadas."
-              },
-              {
-                "t": "p",
-                "x": "NC AI también ampliará los encuentros con desarrolladores. Tiene previsto operar un café de demostración durante G-STAR 2026, la feria internacional de videojuegos que se celebrará en Busan del 19 al 21."
-              },
-              {
-                "t": "p",
-                "x": "Los visitantes podrán probar directamente VARCO 3D y VARCO Sound. NC AI también ofrecerá a estudios y equipos de producción asesoría sobre la adopción de AI adaptada al entorno de cada proyecto."
-              },
-              {
-                "t": "p",
-                "x": "NC AI planea celebrar Pangyo Builders de forma periódica para mantener su comunidad de desarrolladores. Seguirá compartiendo casos de uso de VARCO y analizará los problemas y necesidades que enfrentan los desarrolladores durante la producción de juegos."
-              },
-              {
-                "t": "p",
-                "x": "Lee Yeon-su, director ejecutivo de NC AI, afirmó: \"Como NC AI ha desarrollado su tecnología de AI partiendo de las inquietudes del propio desarrollo de juegos, valoramos la comunicación con los desarrolladores que crean juegos reales\", y añadió: \"Seguiremos apoyando a Pangyo Builders para que se consolide como una comunidad donde desarrolladores diversos compartan experiencias e ideas y descubran nuevas posibilidades\"."
+                "x": "Cada respuesta muestra una puntuación y su motivo, y al final se decide si el candidato es contratado o no. El 14 de noviembre también se publicó una demo en Steam, así que quien tenga curiosidad puede probarla primero."
               }
             ]
           }
@@ -1521,249 +909,169 @@
       },
       "_i18n_passed": {
         "en": {
-          "headline": "NC AI shares VARCO know-how\nat Pangyo Builders",
-          "body": "NC AI shared its VARCO 3D and sound technology at the first event of its Pangyo Builders developer community.",
-          "mini_headline": "NC AI shares VARCO",
+          "headline": "Take on an AI interviewer\nin a game now on Steam",
+          "body": "From a resume that includes the assigned words, the AI interviewer generates questions on the spot.",
+          "mini_headline": "AI interviewer game out on Steam",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "NC AI met game developers in person to share techniques for producing 3D graphics and sound with artificial intelligence (AI). The move aims to promote VARCO, its own AI creation platform, and to expand its use in game development."
+                "t": "img",
+                "src": "https://www.4gamer.net/games/058/G105854/20261116008/SS/001.jpg"
               },
               {
                 "t": "p",
-                "x": "NC AI said on the 13th that it held Builders Night, the first event of the game developer community Pangyo Builders. More than 70 game developers and industry officials attended and shared AI-based game production cases and hands-on experience."
-              },
-              {
-                "t": "p",
-                "x": "Pangyo Builders is a community where game developers interact regardless of their company or role. NC AI plans to help developers share ways to apply AI production tools to their actual work and find opportunities for collaboration."
+                "x": "On November 13, 2026, MeteorWing released the PC title “AI面接官を突破せよ” (Get Past the AI Interviewer) on Steam. It costs 280 yen (tax included). As a launch sale, it is 40% off at 168 yen (tax included) until November 28. In the game, you work assigned words into a resume within a 5-minute time limit, pass the AI interviewer's document screening, and then face the interview."
               },
               {
                 "t": "img",
-                "src": "https://image.zdnet.co.kr/2026/11/13/9665b74012e71c74367f92553650ba35.jpg"
+                "src": "https://www.4gamer.net/games/058/G105854/20261116008/SS/002.jpg"
               },
               {
                 "t": "p",
-                "x": "The event was held under the theme \"Building games with AI.\" Shaderku, a game programmer and organizer of Fake Game Jam, introduced his experience developing games with AI."
+                "x": "The assigned words include ones that would look fine on a resume, such as “walk” and “pencil,” as well as outlandish ones like “ghost” and “wanted fugitive.” Players weave these words naturally into the text of their resume."
+              },
+              {
+                "t": "img",
+                "src": "https://www.4gamer.net/games/058/G105854/20261116008/SS/003.jpg"
               },
               {
                 "t": "p",
-                "x": "Shaderku shared cases of applying 3D graphic assets made with VARCO, NC AI's creation platform, to actual games. He also explained the techniques and methods he used during development, from integrating AI tools to optimizing graphics processing performance, staging and sound production."
+                "x": "The AI interviewer reads the player's resume aloud and rates it with a score and comments. Passing the document screening moves you on to the interview, where the AI comes up with questions on the spot based on what the player wrote. Questions such as “Your resume says ‘In my past life I was a ninja’...” are answered by keyboard or voice, within 1 minute per 1 question."
+              },
+              {
+                "t": "img",
+                "src": "https://www.4gamer.net/games/058/G105854/20261116008/SS/004.jpg"
               },
               {
                 "t": "p",
-                "x": "VARCO is a platform that uses generative AI to create the 3D graphics and sound that games need. NC AI is developing the technology with the goal of reducing repetitive content production work and helping developers focus on game design and polish."
-              },
-              {
-                "t": "p",
-                "x": "NC AI staff also shared their development experience. Team leader Kim Jang-young, in charge of VARCO 3D, and team leader Cho Nam-hyun, in charge of VARCO Sound, explained how to apply AI-made graphics and audio to the actual game development process. They also covered what to consider when managing output quality while cutting work time."
-              },
-              {
-                "t": "p",
-                "x": "After the event, a networking program let participants exchange development experience and ideas. NC AI gave every participant a free 1-month VARCO pass so they could try the features introduced at the event themselves."
-              },
-              {
-                "t": "p",
-                "x": "NC AI is also expanding opportunities to meet game developers. It plans to run a hands-on cafe during G-STAR 2026, the international game exhibition held in Busan from the 19th to the 21st."
-              },
-              {
-                "t": "p",
-                "x": "Visitors can try VARCO 3D and VARCO Sound firsthand. NC AI will also offer game developers and production teams consultations on adopting AI to suit their project environments."
-              },
-              {
-                "t": "p",
-                "x": "NC AI plans to hold Pangyo Builders regularly to run its developer community. It intends to keep sharing VARCO use cases and to look into the problems and needs developers face in the game production process."
-              },
-              {
-                "t": "p",
-                "x": "Lee Yeon-su, CEO of NC AI, said, \"Since NC AI has developed its AI technology starting from the concerns of people on the game development front line, we value communication with the developers who make actual games,\" adding, \"We will keep supporting Pangyo Builders so it can settle in as a community where diverse developers share experiences and ideas and discover new possibilities.\""
+                "x": "Each answer shows a score and the reason for it, and at the end you are either hired or rejected. A demo was also released on Steam on November 14, so anyone curious can try that first."
               }
             ]
           }
         },
-        "ja": {
-          "headline": "NC AI、板橋ビルダーズで\nVARCOノウハウ共有",
-          "body": "NC AIが「板橋ビルダーズ」初イベントでVARCOの3D・サウンド技術を共有した。",
-          "mini_headline": "NC AI、VARCOを共有",
+        "ko": {
+          "headline": "AI 면접관에 도전하는\n게임 Steam에 출시",
+          "body": "지정 단어를 넣은 이력서를 바탕으로 AI 면접관이 즉석에서 질문을 만든다.",
+          "mini_headline": "AI 면접관 게임 출시",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "NC AIがゲーム開発者と直接会い、人工知能（AI）を活用した3Dグラフィックとサウンドの制作技術を共有した。自社のAI創作プラットフォーム「VARCO」を広め、ゲーム開発の現場での活用を広げるための取り組みだ。"
+                "t": "img",
+                "src": "https://www.4gamer.net/games/058/G105854/20261116008/SS/001.jpg"
               },
               {
                 "t": "p",
-                "x": "NC AIは13日、ゲーム開発者コミュニティ「板橋ビルダーズ」の初イベント「ビルダーズナイト」を開催したと明らかにした。イベントにはゲーム開発者や業界関係者70人余りが参加し、AIを活用したゲーム制作事例と実務経験を共有した。"
-              },
-              {
-                "t": "p",
-                "x": "板橋ビルダーズは、所属企業や担当業務に関係なくゲーム開発者が交流するコミュニティだ。NC AIは、開発者がAI制作ツールを実務に適用する方法を共有し、協業の機会を見つけられるよう支援する計画だ。"
+                "x": "MeteorWing은 2026년 11월 13일 PC용 소프트웨어 「AI 면접관을 돌파하라」(AI面接官を突破せよ)를 Steam에서 출시했다. 가격은 280엔(세금 포함)이다. 출시 기념 세일로 11월 28일까지 40% 할인된 168엔(세금 포함)에 살 수 있다. 이 작품은 지정된 단어를 제한 시간 5분 안에 이력서에 담아 AI 면접관의 서류 심사를 통과하고 면접에 도전하는 게임이다."
               },
               {
                 "t": "img",
-                "src": "https://image.zdnet.co.kr/2026/11/13/9665b74012e71c74367f92553650ba35.jpg"
+                "src": "https://www.4gamer.net/games/058/G105854/20261116008/SS/002.jpg"
               },
               {
                 "t": "p",
-                "x": "今回のイベントは「AIでゲームをビルドする」をテーマに行われた。ゲームプログラマーで「偽ゲームジャム」の運営者でもあるシェーダークが、AIを活用したゲーム開発の経験を紹介した。"
+                "x": "지정 단어에는 ‘산책’, ‘연필’처럼 이력서에 써도 문제없어 보이는 단어도 있지만, ‘유령’이나 ‘지명수배’ 같은 엉뚱한 단어도 섞여 있다. 플레이어는 이 단어들을 이력서 문장에 자연스럽게 녹여 넣는다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.4gamer.net/games/058/G105854/20261116008/SS/003.jpg"
               },
               {
                 "t": "p",
-                "x": "シェーダークは、NC AIの創作プラットフォーム「VARCO」で制作した3Dグラフィックアセットを実際のゲームに適用した事例を共有した。AIツールの連携からグラフィック処理性能の最適化、画面演出、サウンド制作まで、開発過程で用いた技術と手法も説明した。"
+                "x": "AI 면접관은 플레이어가 쓴 이력서를 읽고 점수와 코멘트로 평가한다. 서류 심사를 통과하면 면접으로 넘어간다. 면접에서는 AI가 플레이어가 쓴 이력서 내용을 바탕으로 그 자리에서 질문을 만든다. “이력서에 ‘전생은 닌자’라고 적혀 있는데요……” 같은 질문에 1문항당 1분 안에 키보드나 음성으로 답한다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.4gamer.net/games/058/G105854/20261116008/SS/004.jpg"
               },
               {
                 "t": "p",
-                "x": "VARCOは生成AIでゲームに必要な3Dグラフィックとサウンドを制作するプラットフォームだ。NC AIは、反復的なコンテンツ制作作業を減らし、開発者がゲームの企画と完成度の向上に集中できるよう支援することを目標に技術を開発している。"
-              },
-              {
-                "t": "p",
-                "x": "NC AIの実務陣も開発経験を共有した。VARCO 3Dを担当するキム・ジャンヨンチーム長とVARCOサウンドを担当するチョ・ナムヒョンチーム長は、AIで制作したグラフィックと音響を実際のゲーム開発工程に適用する方法を紹介した。作業時間を短縮しつつ成果物の品質を管理する際の留意点も取り上げた。"
-              },
-              {
-                "t": "p",
-                "x": "イベント後には、参加者が開発経験やアイデアを交わすネットワーキングプログラムが行われた。NC AIは参加者全員にVARCOの1か月無料利用券を提供し、イベントで紹介した機能を実際に使えるよう支援した。"
-              },
-              {
-                "t": "p",
-                "x": "ゲーム開発者と会う場も広げる。NC AIは19日から21日まで釜山で開かれる国際ゲーム展示会「G-STAR 2026」の期間中、体験カフェを運営する予定だ。"
-              },
-              {
-                "t": "p",
-                "x": "来場者はVARCO 3DとVARCOサウンドを直接試せる。ゲーム開発会社や制作チームを対象に、プロジェクト環境に合わせたAI導入の相談も行う。"
-              },
-              {
-                "t": "p",
-                "x": "NC AIは今後、板橋ビルダーズを定期的に開催し、開発者コミュニティを運営する計画だ。VARCOの活用事例を継続的に共有し、ゲーム制作の過程で開発者が直面する課題やニーズも探っていく方針だ。"
-              },
-              {
-                "t": "p",
-                "x": "NC AIのイ・ヨンス代表は「NC AIはゲーム開発現場の悩みから出発してAI技術を発展させてきただけに、実際にゲームを作る開発者とのコミュニケーションを重視している」とし、「板橋ビルダーズが、多様な開発者が経験とアイデアを分かち合い新たな可能性を発見するコミュニティとして定着できるよう、継続的に支援していく」と述べた。"
+                "x": "답변마다 점수와 이유가 표시되고, 마지막에 채용 여부가 결정된다. 11월 14일에는 Steam에 체험판도 공개됐으니, 관심 있다면 먼저 체험판을 해 볼 만하다."
               }
             ]
           }
         },
         "zh": {
-          "headline": "NC AI办“板桥建造者”\n分享VARCO经验",
-          "body": "NC AI在“板桥建造者”首场活动上分享了VARCO的3D与音效技术。",
-          "mini_headline": "NC AI分享VARCO",
+          "headline": "挑战AI面试官\n游戏登陆Steam",
+          "body": "根据玩家写入指定词语的简历，AI面试官会当场生成面试问题。",
+          "mini_headline": "AI面试官游戏上线",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "NC AI与游戏开发者面对面，分享了运用人工智能（AI）制作3D图形与音效的技术。此举旨在推广其自研AI创作平台VARCO，并扩大其在游戏开发一线的应用。"
+                "t": "img",
+                "src": "https://www.4gamer.net/games/058/G105854/20261116008/SS/001.jpg"
               },
               {
                 "t": "p",
-                "x": "NC AI于13日宣布，举办了游戏开发者社区“板桥建造者”的首场活动“建造者之夜”。70余名游戏开发者和业内人士出席，分享了利用AI制作游戏的案例与实务经验。"
-              },
-              {
-                "t": "p",
-                "x": "板桥建造者是一个不论所属公司或负责工作、供游戏开发者交流的社区。NC AI计划帮助开发者分享将AI制作工具应用于实际工作的方法，并寻找合作机会。"
+                "x": "MeteorWing于2026年11月13日在Steam上推出PC软件《突破AI面试官》（AI面接官を突破せよ）。售价280日元（含税）。作为发售纪念促销，11月28日前可享40%折扣，以168日元（含税）购买。本作要求玩家在5分钟时限内把指定词语写进简历，通过AI面试官的书面审查，再挑战面试。"
               },
               {
                 "t": "img",
-                "src": "https://image.zdnet.co.kr/2026/11/13/9665b74012e71c74367f92553650ba35.jpg"
+                "src": "https://www.4gamer.net/games/058/G105854/20261116008/SS/002.jpg"
               },
               {
                 "t": "p",
-                "x": "本次活动以“用AI构建游戏”为主题。游戏程序员、“假游戏创作马拉松”组织者Shaderku介绍了用AI开发游戏的经验。"
+                "x": "指定词语既有“散步”“铅笔”这类写进简历也无妨的词，也有“幽灵”“通缉”这类离谱的词。玩家需要把这些词自然地融入简历文字中。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.4gamer.net/games/058/G105854/20261116008/SS/003.jpg"
               },
               {
                 "t": "p",
-                "x": "Shaderku分享了将用NC AI创作平台VARCO制作的3D图形资产应用到实际游戏中的案例，并说明了从AI工具对接、图形处理性能优化，到画面演出和音效制作，在开发过程中使用的技术与方法。"
+                "x": "AI面试官会朗读玩家写的简历，并以分数和评语进行评价。通过书面审查后即进入面试。面试中，AI会根据玩家所写的简历内容当场构思问题。面对“简历上写着‘前世是忍者’……”这样的问题，玩家需用键盘或语音作答，每1题限时1分钟。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.4gamer.net/games/058/G105854/20261116008/SS/004.jpg"
               },
               {
                 "t": "p",
-                "x": "VARCO是利用生成式AI制作游戏所需3D图形和音效的平台。NC AI正以减少重复性内容制作工作、帮助开发者专注于游戏策划和提升完成度为目标开发相关技术。"
-              },
-              {
-                "t": "p",
-                "x": "NC AI的一线团队也分享了开发经验。负责VARCO 3D的金章英组长和负责VARCO音效的赵南贤组长介绍了将AI制作的图形与音频应用到实际游戏开发流程中的方法，还谈到了在缩短工作时间的同时管理产出质量需要考虑的事项。"
-              },
-              {
-                "t": "p",
-                "x": "活动结束后举行了交流环节，参与者分享了开发经验与创意。NC AI向全体参与者提供了VARCO 1个月免费使用券，帮助他们亲自体验活动中介绍的功能。"
-              },
-              {
-                "t": "p",
-                "x": "NC AI还将扩大与游戏开发者见面的机会，计划于19日至21日在釜山举行的国际游戏展“G-STAR 2026”期间运营体验咖啡馆。"
-              },
-              {
-                "t": "p",
-                "x": "参观者可以亲自试用VARCO 3D和VARCO音效。NC AI还将面向游戏开发商和制作团队，提供契合项目环境的AI导入咨询。"
-              },
-              {
-                "t": "p",
-                "x": "NC AI计划今后定期举办板桥建造者活动，运营开发者社区，持续分享VARCO应用案例，并关注开发者在游戏制作过程中遇到的问题与需求。"
-              },
-              {
-                "t": "p",
-                "x": "NC AI代表李妍秀表示：“NC AI从游戏开发一线的困扰出发发展AI技术，因此非常重视与实际制作游戏的开发者沟通。”他还说：“我们将持续支持板桥建造者，使其成为多元开发者分享经验与创意、发现新可能的社区。”"
+                "x": "每次回答都会显示分数和理由，最后决定是否录用。11月14日，体验版也已在Steam上公开，感兴趣的人不妨先试玩。"
               }
             ]
           }
         },
         "es": {
-          "headline": "NC AI comparte VARCO\nen Pangyo Builders",
-          "body": "NC AI compartió su tecnología de 3D y sonido de VARCO en el primer encuentro de la comunidad Pangyo Builders.",
-          "mini_headline": "NC AI comparte VARCO",
+          "headline": "Un juego para superar a un\nentrevistador AI llega a Steam",
+          "body": "A partir de un currículum con palabras asignadas, el entrevistador AI genera preguntas en el momento.",
+          "mini_headline": "Juego de entrevistador AI en Steam",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "NC AI se reunió en persona con desarrolladores de videojuegos para compartir técnicas de producción de gráficos 3D y sonido con inteligencia artificial (AI). El objetivo es dar a conocer VARCO, su propia plataforma de creación con AI, y ampliar su uso en el desarrollo de juegos."
+                "t": "img",
+                "src": "https://www.4gamer.net/games/058/G105854/20261116008/SS/001.jpg"
               },
               {
                 "t": "p",
-                "x": "NC AI informó el día 13 que celebró Builders Night, el primer evento de Pangyo Builders, una comunidad de desarrolladores de videojuegos. Asistieron más de 70 desarrolladores y profesionales del sector, que compartieron casos de producción de juegos con AI y experiencias prácticas."
-              },
-              {
-                "t": "p",
-                "x": "Pangyo Builders es una comunidad en la que los desarrolladores de videojuegos se relacionan sin importar su empresa o su función. NC AI planea ayudarles a compartir formas de aplicar herramientas de producción con AI a su trabajo real y a encontrar oportunidades de colaboración."
+                "x": "MeteorWing lanzó el 13 de noviembre de 2026 en Steam el software para PC “AI面接官を突破せよ” (Supera al entrevistador AI). Cuesta 280 yenes (impuestos incluidos). Como oferta de lanzamiento, hasta el 28 de noviembre se puede comprar con un 40% de descuento, por 168 yenes (impuestos incluidos). En el juego hay que incluir en el currículum las palabras indicadas en un tiempo límite de 5 minutos, superar la revisión documental del entrevistador AI y afrontar la entrevista."
               },
               {
                 "t": "img",
-                "src": "https://image.zdnet.co.kr/2026/11/13/9665b74012e71c74367f92553650ba35.jpg"
+                "src": "https://www.4gamer.net/games/058/G105854/20261116008/SS/002.jpg"
               },
               {
                 "t": "p",
-                "x": "El evento giró en torno al tema \"Crear juegos con AI\". Shaderku, programador de videojuegos y organizador de Fake Game Jam, presentó su experiencia desarrollando juegos con AI."
+                "x": "Entre las palabras indicadas hay algunas que no desentonarían en un currículum, como “paseo” o “lápiz”, y otras disparatadas, como “fantasma” o “se busca”. El jugador debe incorporarlas con naturalidad al texto del currículum."
+              },
+              {
+                "t": "img",
+                "src": "https://www.4gamer.net/games/058/G105854/20261116008/SS/003.jpg"
               },
               {
                 "t": "p",
-                "x": "Shaderku mostró casos en los que aplicó a juegos reales recursos gráficos 3D creados con VARCO, la plataforma de creación de NC AI. También explicó las técnicas y métodos que usó durante el desarrollo, desde la integración de herramientas de AI hasta la optimización del rendimiento gráfico, la puesta en escena y la producción de sonido."
+                "x": "El entrevistador AI lee en voz alta el currículum escrito por el jugador y lo evalúa con una puntuación y comentarios. Si se supera la revisión documental, se pasa a la entrevista. En ella, la AI formula preguntas en el momento a partir del contenido del currículum. Ante preguntas como “En su currículum dice ‘en mi vida pasada fui ninja’…”, se responde por teclado o por voz, con 1 minuto como máximo por cada 1 pregunta."
+              },
+              {
+                "t": "img",
+                "src": "https://www.4gamer.net/games/058/G105854/20261116008/SS/004.jpg"
               },
               {
                 "t": "p",
-                "x": "VARCO es una plataforma que utiliza AI generativa para crear los gráficos 3D y el sonido que necesitan los juegos. NC AI desarrolla la tecnología con el objetivo de reducir las tareas repetitivas de producción de contenido y ayudar a los desarrolladores a centrarse en el diseño y el acabado del juego."
-              },
-              {
-                "t": "p",
-                "x": "El equipo de NC AI también compartió su experiencia. Kim Jang-young, jefe del equipo de VARCO 3D, y Cho Nam-hyun, jefe del equipo de VARCO Sound, explicaron cómo aplicar gráficos y audio creados con AI al proceso real de desarrollo de juegos. También abordaron lo que hay que tener en cuenta para controlar la calidad del resultado mientras se reduce el tiempo de trabajo."
-              },
-              {
-                "t": "p",
-                "x": "Tras el evento se celebró un programa de networking en el que los participantes intercambiaron experiencias e ideas. NC AI entregó a todos los asistentes un pase gratuito de 1 mes de VARCO para que probaran por sí mismos las funciones presentadas."
-              },
-              {
-                "t": "p",
-                "x": "NC AI también ampliará los encuentros con desarrolladores. Tiene previsto operar un café de demostración durante G-STAR 2026, la feria internacional de videojuegos que se celebrará en Busan del 19 al 21."
-              },
-              {
-                "t": "p",
-                "x": "Los visitantes podrán probar directamente VARCO 3D y VARCO Sound. NC AI también ofrecerá a estudios y equipos de producción asesoría sobre la adopción de AI adaptada al entorno de cada proyecto."
-              },
-              {
-                "t": "p",
-                "x": "NC AI planea celebrar Pangyo Builders de forma periódica para mantener su comunidad de desarrolladores. Seguirá compartiendo casos de uso de VARCO y analizará los problemas y necesidades que enfrentan los desarrolladores durante la producción de juegos."
-              },
-              {
-                "t": "p",
-                "x": "Lee Yeon-su, director ejecutivo de NC AI, afirmó: \"Como NC AI ha desarrollado su tecnología de AI partiendo de las inquietudes del propio desarrollo de juegos, valoramos la comunicación con los desarrolladores que crean juegos reales\", y añadió: \"Seguiremos apoyando a Pangyo Builders para que se consolide como una comunidad donde desarrolladores diversos compartan experiencias e ideas y descubran nuevas posibilidades\"."
+                "x": "Cada respuesta muestra una puntuación y su motivo, y al final se decide si el candidato es contratado o no. El 14 de noviembre también se publicó una demo en Steam, así que quien tenga curiosidad puede probarla primero."
               }
             ]
           }
@@ -1771,311 +1079,421 @@
       }
     },
     {
-      "id": "unity-ai-project-tips",
-      "source_lang": "en",
+      "id": "gamemeca-ai-clone-precedent",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "Unity가 전하는\nAI 게임 팁 10가지",
-      "body": "Unity 가이드가 AI 게임의 기획서·명명·체크포인트·프롬프트 기록을 짚었다.",
-      "mini_headline": "AI 게임 프로젝트 팁 10가지",
+      "headline": "AI에 게임 도둑맞았을 때\n판례로 본 대응법",
+      "body": "대법원 판례상 장르 규칙이 아닌 창작적 표현의 조합이 유사한지가 핵심 기준이다.",
+      "mini_headline": "AI 게임 도용 대응법",
       "tool": "Games",
-      "source": "Unity",
-      "url": "https://unity.com/blog/how-to-organize-a-game-project-with-ai",
+      "source": "게임메카",
+      "url": "https://www.gamemeca.com/view.php?gid=1783557",
       "accent": "#eb367f",
       "motif": "cube",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "p",
+            "x": "생성형 AI 활용이 활발해지며 ‘AI 역설계’가 문제로 떠오르고 있습니다. 공개한 플레이 영상이나 체험판을 바탕으로, 게임 작동 방식과 플레이 흐름을 분석해 이를 닮은 게임을 만드는 경우입니다."
+          },
+          {
             "t": "img",
-            "src": "https://cdn.sanity.io/images/fuvbjjlp/production/2330bde656908d3aad3b4b3181a276993cc9fd61-1200x675.png"
+            "src": "https://cdn.gamemeca.com/data_center/346/572/20261104154322.webp",
+            "cap": "▲ AI 역설계 피해를 입었던 슬롯바운드 (사진출처: 스팀 공식 페이지)"
           },
           {
             "t": "p",
-            "x": "아이디어와 프롬프트, 진행 상황을 정리하는 간단한 방법 열 가지만 지켜도 첫 비디오 게임을 첫날부터 궤도에 올릴 수 있다. Unity Spark 같은 도구에 프롬프트를 넣어 AI로 게임을 만들면 코드는 쓰지 않아도 되지만, 보통 엔진이 강제하던 결정은 여전히 직접 내려야 한다."
+            "x": "킹은 팜히어로사가를 베꼈다며 포레스트 매니아의 국내 서비스사 아보카도엔터테인먼트를 상대로 소송을 냈습니다. 2심은 실질적 유사성을 부정했지만, 대법원 2019. 6. 27. 선고 2017다212095 판결은 실질적 유사성을 인정하고 원심판결을 파기환송했습니다. 대법원은 게임의 주요 구성 요소가 선택·배열되고 유기적으로 결합한 방식에서 창작적 개성이 드러난다면 저작권으로 보호할 수 있다고 봤습니다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.gamemeca.com/data_center/347/855/20261116135039.webp",
+            "cap": "▲ 팜히어로사가(좌)와 포레스트 매니아(우) 비교 자료 (자료출처: 서울중앙지방법원 판결문)"
           },
           {
             "t": "p",
-            "x": "1. 기획서를 하나 써서 늘 곁에 둔다. 2. 한 번에 작은 조각 하나씩 만든다. 3. 이름은 한 번 정했으면 매번 같은 단어를 쓴다. 4. 모든 아이디어를 목록 하나에 모은다. 5. 원하는 느낌을 다시 꺼내 쓸 수 있는 말로 묘사한다."
+            "x": "이 기준을 적용하면 AI로 코드를 새로 작성했다는 사실만으로 저작권 문제를 피할 수 있다고 보기는 어렵습니다. 다만 AI를 사용했다거나 제작 기간이 짧다는 이유만으로 침해가 더 쉽게 인정되는 것도 아닙니다. 핵심은 원작을 바탕으로 만들었는지, 그리고 원작의 창작적 표현이 실질적으로 유사하게 구현됐는지입니다."
           },
           {
             "t": "p",
-            "x": "6. 한 번에 하나만 바꾸고 플레이테스트한다. 7. 큰 변경 전에는 체크포인트를 저장한다. Spark는 프롬프트마다 복원 지점을 자동으로 저장하는데, 보관 기간은 7일이고 대화마다 최신 20개만 남는다. 8. 프롬프트 기록을 남긴다. 9. 각 요소의 출처를 적어 둔다. 10. 끝난 일과 남은 일을 관리한다."
+            "x": "개발자는 기획서, 버전별 빌드, 회의록, 원격 저장소 변경 기록을 시간순으로 정리하고, 유사 게임의 상점 주소·게시자·확인 날짜·버전과 원본 녹화 영상을 남겨야 합니다. 스팀의 저작권 침해 신고, 배포금지 가처분, 한국저작권위원회 분쟁조정도 선택지가 될 수 있습니다."
           },
           {
-            "t": "p",
-            "x": "메모 앱을 열어 게임을 한 문장으로 적어 본다. \"내 게임에서 당신은 ___하고, 그다음 ___해서, ___할 수 있다.\" Unity Spark를 쓸 수 있게 되면 이 문장을 첫 프롬프트로 그대로 붙여 넣으면 된다."
+            "t": "img",
+            "src": "https://cdn.gamemeca.com/data_center/347/856/20261116135635.webp",
+            "cap": "▲ 스팀의 저작권 침해 신고서 (자료출처: 스팀 공식 페이지)"
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "Unity offers 10 tips\nfor AI game projects",
-          "body": "Unity's beginner guide covers design briefs, naming, checkpoints, prompt logs and playtesting for AI game projects.",
-          "mini_headline": "10 tips for AI game projects",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/2330bde656908d3aad3b4b3181a276993cc9fd61-1200x675.png"
-              },
-              {
-                "t": "p",
-                "x": "Keep your first video game on track from day one with ten simple ways to organize your ideas, prompts, and progress. When you build a game with AI by prompting a tool like Unity Spark, you don't need to write code, but you still make the decisions an engine normally forces on you."
-              },
-              {
-                "t": "p",
-                "x": "1. Write one design brief and keep it handy. 2. Build one small piece at a time. 3. Name things once, and use the same word every time. 4. Keep one list for all your ideas. 5. Describe your look in words you can reuse."
-              },
-              {
-                "t": "p",
-                "x": "6. Change one thing at a time, then playtest. 7. Save a checkpoint before big changes: Spark saves a restore point automatically after each prompt, keeping them for 7 days and only the newest 20 in each conversation. 8. Keep a prompt log. 9. Keep track of where things came from. 10. Track what's done and what's left."
-              },
-              {
-                "t": "p",
-                "x": "Open your notes app and write your one-sentence game description: \"In my game, you ___, then ___, so you can ___.\" When you get access to Unity Spark, paste it in as your first prompt."
-              }
-            ]
-          }
-        },
         "ko": {
-          "headline": "Unity가 전하는\nAI 게임 팁 10가지",
-          "body": "Unity 가이드가 AI 게임의 기획서·명명·체크포인트·프롬프트 기록을 짚었다.",
-          "mini_headline": "AI 게임 프로젝트 팁 10가지",
+          "headline": "AI에 게임 도둑맞았을 때\n판례로 본 대응법",
+          "body": "대법원 판례상 장르 규칙이 아닌 창작적 표현의 조합이 유사한지가 핵심 기준이다.",
+          "mini_headline": "AI 게임 도용 대응법",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "생성형 AI 활용이 활발해지며 ‘AI 역설계’가 문제로 떠오르고 있습니다. 공개한 플레이 영상이나 체험판을 바탕으로, 게임 작동 방식과 플레이 흐름을 분석해 이를 닮은 게임을 만드는 경우입니다."
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/2330bde656908d3aad3b4b3181a276993cc9fd61-1200x675.png"
+                "src": "https://cdn.gamemeca.com/data_center/346/572/20261104154322.webp",
+                "cap": "▲ AI 역설계 피해를 입었던 슬롯바운드 (사진출처: 스팀 공식 페이지)"
               },
               {
                 "t": "p",
-                "x": "아이디어와 프롬프트, 진행 상황을 정리하는 간단한 방법 열 가지만 지켜도 첫 비디오 게임을 첫날부터 궤도에 올릴 수 있다. Unity Spark 같은 도구에 프롬프트를 넣어 AI로 게임을 만들면 코드는 쓰지 않아도 되지만, 보통 엔진이 강제하던 결정은 여전히 직접 내려야 한다."
+                "x": "킹은 팜히어로사가를 베꼈다며 포레스트 매니아의 국내 서비스사 아보카도엔터테인먼트를 상대로 소송을 냈습니다. 2심은 실질적 유사성을 부정했지만, 대법원 2019. 6. 27. 선고 2017다212095 판결은 실질적 유사성을 인정하고 원심판결을 파기환송했습니다. 대법원은 게임의 주요 구성 요소가 선택·배열되고 유기적으로 결합한 방식에서 창작적 개성이 드러난다면 저작권으로 보호할 수 있다고 봤습니다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.gamemeca.com/data_center/347/855/20261116135039.webp",
+                "cap": "▲ 팜히어로사가(좌)와 포레스트 매니아(우) 비교 자료 (자료출처: 서울중앙지방법원 판결문)"
               },
               {
                 "t": "p",
-                "x": "1. 기획서를 하나 써서 늘 곁에 둔다. 2. 한 번에 작은 조각 하나씩 만든다. 3. 이름은 한 번 정했으면 매번 같은 단어를 쓴다. 4. 모든 아이디어를 목록 하나에 모은다. 5. 원하는 느낌을 다시 꺼내 쓸 수 있는 말로 묘사한다."
+                "x": "이 기준을 적용하면 AI로 코드를 새로 작성했다는 사실만으로 저작권 문제를 피할 수 있다고 보기는 어렵습니다. 다만 AI를 사용했다거나 제작 기간이 짧다는 이유만으로 침해가 더 쉽게 인정되는 것도 아닙니다. 핵심은 원작을 바탕으로 만들었는지, 그리고 원작의 창작적 표현이 실질적으로 유사하게 구현됐는지입니다."
               },
               {
                 "t": "p",
-                "x": "6. 한 번에 하나만 바꾸고 플레이테스트한다. 7. 큰 변경 전에는 체크포인트를 저장한다. Spark는 프롬프트마다 복원 지점을 자동으로 저장하는데, 보관 기간은 7일이고 대화마다 최신 20개만 남는다. 8. 프롬프트 기록을 남긴다. 9. 각 요소의 출처를 적어 둔다. 10. 끝난 일과 남은 일을 관리한다."
+                "x": "개발자는 기획서, 버전별 빌드, 회의록, 원격 저장소 변경 기록을 시간순으로 정리하고, 유사 게임의 상점 주소·게시자·확인 날짜·버전과 원본 녹화 영상을 남겨야 합니다. 스팀의 저작권 침해 신고, 배포금지 가처분, 한국저작권위원회 분쟁조정도 선택지가 될 수 있습니다."
               },
               {
-                "t": "p",
-                "x": "메모 앱을 열어 게임을 한 문장으로 적어 본다. \"내 게임에서 당신은 ___하고, 그다음 ___해서, ___할 수 있다.\" Unity Spark를 쓸 수 있게 되면 이 문장을 첫 프롬프트로 그대로 붙여 넣으면 된다."
+                "t": "img",
+                "src": "https://cdn.gamemeca.com/data_center/347/856/20261116135635.webp",
+                "cap": "▲ 스팀의 저작권 침해 신고서 (자료출처: 스팀 공식 페이지)"
               }
             ]
           }
         },
         "ja": {
-          "headline": "Unityが示す\nAIゲーム制作の10の心得",
-          "body": "Unityの入門ガイドは、AIゲーム制作の設計書や命名、チェックポイントを解説する。",
-          "mini_headline": "AIゲーム制作の10の心得",
+          "headline": "AIにゲームを盗まれたら\n判例に学ぶ対処法",
+          "body": "最高裁判例では、ジャンルの規則ではなく創作的表現の組み合わせの類似性が核心だ。",
+          "mini_headline": "AIゲーム盗用への対処法",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "生成AIの活用が広がり、「AIリバースエンジニアリング」が問題になっている。公開したプレイ動画や体験版をもとにゲームの仕組みやプレイの流れを分析し、それに似たゲームを作るケースだ。"
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/2330bde656908d3aad3b4b3181a276993cc9fd61-1200x675.png"
+                "src": "https://cdn.gamemeca.com/data_center/346/572/20261104154322.webp",
+                "cap": "▲ AIリバースエンジニアリングの被害を受けたSlotbound(写真出典: Steam公式ページ)"
               },
               {
                 "t": "p",
-                "x": "アイデアやプロンプト、進捗を整理する十のシンプルな方法で、初めてのビデオゲームを初日から軌道に乗せられる。Unity Sparkのようなツールにプロンプトを入力してAIでゲームを作る場合、コードを書く必要はないが、通常はエンジンが迫る判断を自分で下すことに変わりはない。"
+                "x": "Kingは、Farm Heroes Sagaを模倣したとして、Forest Maniaの韓国での運営会社Avocado Entertainmentを提訴した。2審は実質的類似性を否定したが、大法院2019年6月27日宣告2017다212095判決は実質的類似性を認め、原判決を破棄差し戻した。大法院は、ゲームの主要な構成要素が選択・配列され、有機的に結合された方式に創作的個性が表れていれば、著作権で保護されうると判断した。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.gamemeca.com/data_center/347/855/20261116135039.webp",
+                "cap": "▲ Farm Heroes Saga(左)とForest Mania(右)の比較資料(資料出典: ソウル中央地方法院判決文)"
               },
               {
                 "t": "p",
-                "x": "1. 設計書を一つ書き、手元に置く。2. 一度に小さな部分を一つずつ作る。3. 名前は一度決めたら、毎回同じ言葉を使う。4. アイデアはすべて一つのリストにまとめる。5. 見た目を、再利用できる言葉で表現する。"
+                "x": "この基準に照らせば、AIでコードを新たに書いたという事実だけで著作権の問題を避けられるとは言いにくい。ただし、AIを使ったことや制作期間が短いことだけを理由に、侵害がより認められやすくなるわけでもない。核心は、原作をもとに作ったかどうか、そして原作の創作的表現が実質的に類似した形で実装されたかどうかだ。"
               },
               {
                 "t": "p",
-                "x": "6. 一度に変えるのは一つだけにし、その後プレイテストする。7. 大きな変更の前にはチェックポイントを保存する。Sparkはプロンプトごとに復元ポイントを自動保存し、7日間保持するが、各会話で残るのは最新の20件だけだ。8. プロンプトのログを残す。9. 素材の出どころを記録する。10. 終わったことと残っていることを管理する。"
+                "x": "開発者は企画書、バージョンごとのビルド、議事録、リモートリポジトリの変更履歴を時系列で整理し、類似ゲームのストアのアドレス・パブリッシャー・確認日・バージョンと元の録画映像を残しておくべきだ。Steamの著作権侵害申告、配布差し止めの仮処分、韓国著作権委員会の紛争調停も選択肢になりうる。"
               },
               {
-                "t": "p",
-                "x": "メモアプリを開き、ゲームを一文で説明してみる。「私のゲームでは、あなたは___し、次に___して、___できる」。Unity Sparkを使えるようになったら、それを最初のプロンプトとして貼り付ければよい。"
+                "t": "img",
+                "src": "https://cdn.gamemeca.com/data_center/347/856/20261116135635.webp",
+                "cap": "▲ Steamの著作権侵害申告フォーム(資料出典: Steam公式ページ)"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Unity分享AI游戏\n项目的10条建议",
-          "body": "Unity入门指南介绍AI游戏项目的设计简报、命名、检查点、提示词记录和试玩。",
-          "mini_headline": "AI游戏项目10条建议",
+          "headline": "游戏被AI抄袭时\n从判例看应对之道",
+          "body": "依据大法院判例，关键在于创作性表达的组合是否相似，而非类型规则。",
+          "mini_headline": "AI游戏抄袭应对法",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "随着生成式AI的普及，“AI逆向工程”正成为一个问题。这是指以公开的游玩视频或试玩版为基础，分析游戏的运作方式和游玩流程，进而制作出与之相似的游戏。"
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/2330bde656908d3aad3b4b3181a276993cc9fd61-1200x675.png"
+                "src": "https://cdn.gamemeca.com/data_center/346/572/20261104154322.webp",
+                "cap": "▲ 曾遭受AI逆向工程侵害的Slotbound（图片来源：Steam官方页面）"
               },
               {
                 "t": "p",
-                "x": "用十个简单方法整理你的创意、提示词和进度，让你的第一款电子游戏从第一天起就步入正轨。当你通过向Unity Spark这类工具输入提示词、借助AI制作游戏时，无需编写代码，但仍要做出通常由引擎迫使你做的决定。"
+                "x": "King以抄袭Farm Heroes Saga为由，起诉了Forest Mania的韩国运营商Avocado Entertainment。第2审否认了实质性相似，但大法院2019年6月27日宣判的2017다212095判决认定存在实质性相似，撤销原判并发回重审。大法院认为，如果游戏主要构成要素的选择、编排及有机结合方式体现出创作个性，即可受著作权保护。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.gamemeca.com/data_center/347/855/20261116135039.webp",
+                "cap": "▲ Farm Heroes Saga（左）与Forest Mania（右）对比资料（资料来源：首尔中央地方法院判决书）"
               },
               {
                 "t": "p",
-                "x": "1. 写一份设计简报并随时备用。2. 一次只做一小部分。3. 东西只命名一次，并始终使用同一个词。4. 用一份清单记下所有创意。5. 用可重复使用的词语描述你想要的风格。"
+                "x": "按照这一标准，很难认为仅凭用AI重新编写代码这一事实就能规避著作权问题。但也不会仅因使用了AI或开发周期短，就更容易被认定为侵权。关键在于是否以原作为基础制作，以及原作的创作性表达是否以实质性相似的方式被再现。"
               },
               {
                 "t": "p",
-                "x": "6. 一次只改一处，然后试玩。7. 重大改动前先保存检查点：Spark会在每次输入提示词后自动保存还原点，保留7天，且每个对话只保留最新的20个。8. 记录提示词日志。9. 记下素材的来源。10. 跟踪已完成和待完成的事项。"
+                "x": "开发者应按时间顺序整理企划书、各版本构建、会议记录和远程仓库变更记录，并保存相似游戏的商店地址、发行商、确认日期、版本以及原始录屏视频。Steam的著作权侵权举报、禁止发行的临时禁令，以及韩国著作权委员会的纠纷调解也都可作为选项。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.gamemeca.com/data_center/347/856/20261116135635.webp",
+                "cap": "▲ Steam的著作权侵权举报表（资料来源：Steam官方页面）"
+              }
+            ]
+          }
+        },
+        "en": {
+          "headline": "When AI clones your game:\nwhat court precedent says",
+          "body": "Supreme Court precedent says the key test is whether combined creative expression, not genre rules, is similar.",
+          "mini_headline": "Fighting AI game cloning",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "As generative AI use spreads, \"AI reverse engineering\" is emerging as a problem. It refers to cases where someone analyzes how a game works and how its play flows, based on publicly released gameplay videos or demos, and then builds a game that resembles it."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.gamemeca.com/data_center/346/572/20261104154322.webp",
+                "cap": "▲ Slotbound, which was hit by AI reverse engineering (Photo: official Steam page)"
               },
               {
                 "t": "p",
-                "x": "打开笔记应用，写下一句话的游戏描述：“在我的游戏里，你___，然后___，这样你就能___。”等你获得Unity Spark使用权限后，把它粘贴进去作为第一条提示词。"
+                "x": "King sued Avocado Entertainment, the domestic service operator of Forest Mania, claiming it had copied Farm Heroes Saga. The 2nd-instance court denied substantial similarity, but the Supreme Court's ruling 2017다212095, delivered on 2019. 6. 27., recognized substantial similarity and reversed and remanded the lower court's decision. The Supreme Court held that a game can be protected by copyright if creative individuality shows in the way its main components are selected, arranged and organically combined."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.gamemeca.com/data_center/347/855/20261116135039.webp",
+                "cap": "▲ Comparison of Farm Heroes Saga (left) and Forest Mania (right) (Source: Seoul Central District Court ruling)"
+              },
+              {
+                "t": "p",
+                "x": "Under this standard, it is hard to argue that copyright issues can be avoided simply because the code was newly written with AI. At the same time, infringement is not more easily recognized merely because AI was used or the development period was short. The key is whether the game was built on the original, and whether the original's creative expression was reproduced in a substantially similar way."
+              },
+              {
+                "t": "p",
+                "x": "Developers should organize design documents, builds by version, meeting notes and remote repository change logs in chronological order, and keep the store URL, publisher, date checked and version of the similar game along with original screen recordings. Steam's copyright infringement report, an injunction banning distribution, and dispute mediation by the Korea Copyright Commission can also be options."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.gamemeca.com/data_center/347/856/20261116135635.webp",
+                "cap": "▲ Steam's copyright infringement report form (Source: official Steam page)"
               }
             ]
           }
         },
         "es": {
-          "headline": "Unity ofrece 10 consejos\npara proyectos de juego con AI",
-          "body": "La guía de Unity cubre briefs, nombres, checkpoints, registros de prompts y pruebas en proyectos de juego con AI.",
-          "mini_headline": "10 consejos para juegos con AI",
+          "headline": "Cuando la AI copia tu juego:\nqué dicen los precedentes",
+          "body": "Según la Corte Suprema, la clave es si se parece la combinación de expresiones creativas, no las reglas del género.",
+          "mini_headline": "Cómo responder a la copia con AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "A medida que se extiende el uso de la AI generativa, la \"ingeniería inversa con AI\" surge como un problema. Se trata de casos en los que, a partir de videos de juego o demos publicados, se analizan el funcionamiento y el flujo de juego de un título para crear otro que se le parece."
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/2330bde656908d3aad3b4b3181a276993cc9fd61-1200x675.png"
+                "src": "https://cdn.gamemeca.com/data_center/346/572/20261104154322.webp",
+                "cap": "▲ Slotbound, que sufrió ingeniería inversa con AI (Foto: página oficial de Steam)"
               },
               {
                 "t": "p",
-                "x": "Mantén tu primer videojuego en buen camino desde el primer día con diez formas sencillas de organizar tus ideas, prompts y avances. Cuando creas un juego con AI dando instrucciones a una herramienta como Unity Spark, no necesitas escribir código, pero sigues tomando las decisiones que un motor normalmente te obliga a tomar."
+                "x": "King demandó a Avocado Entertainment, operadora en Corea de Forest Mania, alegando que había copiado Farm Heroes Saga. El tribunal de 2.ª instancia negó la similitud sustancial, pero la sentencia 2017다212095 de la Corte Suprema, dictada el 2019. 6. 27., reconoció la similitud sustancial y anuló y devolvió la sentencia original. La Corte Suprema consideró que un juego puede protegerse por derechos de autor si su individualidad creativa se manifiesta en la forma en que sus componentes principales se seleccionan, se ordenan y se combinan orgánicamente."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.gamemeca.com/data_center/347/855/20261116135039.webp",
+                "cap": "▲ Comparación de Farm Heroes Saga (izquierda) y Forest Mania (derecha) (Fuente: sentencia del Tribunal del Distrito Central de Seúl)"
               },
               {
                 "t": "p",
-                "x": "1. Escribe un único documento de diseño y tenlo a mano. 2. Construye una pieza pequeña cada vez. 3. Pon nombre a las cosas una sola vez y usa siempre la misma palabra. 4. Mantén una sola lista para todas tus ideas. 5. Describe tu estilo visual con palabras que puedas reutilizar."
+                "x": "Con este criterio, es difícil sostener que se evitan los problemas de derechos de autor solo porque el código se haya escrito de nuevo con AI. Sin embargo, tampoco se reconoce la infracción con más facilidad solo por haber usado AI o porque el desarrollo fue breve. La clave es si el juego se hizo a partir del original y si la expresión creativa del original se reprodujo de forma sustancialmente similar."
               },
               {
                 "t": "p",
-                "x": "6. Cambia una sola cosa cada vez y luego prueba el juego. 7. Guarda un checkpoint antes de cambios importantes: Spark guarda automáticamente un punto de restauración después de cada prompt, los conserva durante 7 días y solo mantiene los 20 más recientes de cada conversación. 8. Lleva un registro de prompts. 9. Anota de dónde salió cada cosa. 10. Controla lo que está hecho y lo que falta."
+                "x": "Los desarrolladores deben ordenar cronológicamente los documentos de diseño, las compilaciones por versión, las actas de reuniones y el historial de cambios del repositorio remoto, y conservar la dirección de la tienda, el editor, la fecha de comprobación y la versión del juego similar, junto con las grabaciones de video originales. La denuncia por infracción de derechos de autor de Steam, una medida cautelar que prohíba la distribución y la mediación de la Comisión de Derechos de Autor de Corea también pueden ser opciones."
               },
               {
-                "t": "p",
-                "x": "Abre tu app de notas y escribe la descripción de tu juego en una frase: \"En mi juego, tú ___, luego ___, para poder ___\". Cuando tengas acceso a Unity Spark, pégala como tu primer prompt."
+                "t": "img",
+                "src": "https://cdn.gamemeca.com/data_center/347/856/20261116135635.webp",
+                "cap": "▲ Formulario de denuncia por infracción de derechos de autor de Steam (Fuente: página oficial de Steam)"
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "Unity가 전하는\nAI 게임 팁 10가지",
-          "body": "Unity 가이드는 AI 게임의 기획서·명명·체크포인트·프롬프트 기록을 다룬다.",
-          "mini_headline": "AI 게임 프로젝트 팁 10가지",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/2330bde656908d3aad3b4b3181a276993cc9fd61-1200x675.png"
-              },
-              {
-                "t": "p",
-                "x": "아이디어와 프롬프트, 진행 상황을 정리하는 열 가지 간단한 방법으로 첫 비디오 게임을 첫날부터 궤도에 올려 둘 수 있다. Unity Spark 같은 도구에 프롬프트를 넣어 AI로 게임을 만들면 코드를 쓸 필요는 없지만, 보통 엔진이 강제하는 결정은 여전히 직접 내려야 한다."
-              },
-              {
-                "t": "p",
-                "x": "1. 기획서를 하나 써서 늘 곁에 둔다. 2. 한 번에 작은 조각 하나씩 만든다. 3. 이름은 한 번 정하고, 매번 같은 단어를 쓴다. 4. 모든 아이디어를 목록 하나에 모은다. 5. 원하는 느낌을 다시 쓸 수 있는 말로 묘사한다."
-              },
-              {
-                "t": "p",
-                "x": "6. 한 번에 하나만 바꾸고 플레이테스트한다. 7. 큰 변경 전에는 체크포인트를 저장한다. Spark는 프롬프트마다 복원 지점을 자동 저장하며, 7일간 보관하고 대화마다 최신 20개만 남긴다. 8. 프롬프트 기록을 남긴다. 9. 각 요소의 출처를 기록한다. 10. 끝난 일과 남은 일을 관리한다."
-              },
-              {
-                "t": "p",
-                "x": "메모 앱을 열고 게임을 한 문장으로 설명하는 글을 적는다. \"내 게임에서 당신은 ___하고, 그다음 ___해서, ___할 수 있다.\" Unity Spark를 쓸 수 있게 되면 이 문장을 첫 프롬프트로 붙여 넣으면 된다."
-              }
-            ]
-          }
-        },
         "ja": {
-          "headline": "Unityが示す\nAIゲーム制作の10の心得",
-          "body": "Unityの入門ガイドは、AIゲーム制作の設計書や命名、チェックポイントを解説する。",
-          "mini_headline": "AIゲーム制作の10の心得",
+          "headline": "AIにゲームを盗まれたら\n判例に学ぶ対処法",
+          "body": "最高裁判例では、ジャンルの規則ではなく創作的表現の組み合わせの類似性が核心だ。",
+          "mini_headline": "AIゲーム盗用への対処法",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "生成AIの活用が広がり、「AIリバースエンジニアリング」が問題になっている。公開したプレイ動画や体験版をもとにゲームの仕組みやプレイの流れを分析し、それに似たゲームを作るケースだ。"
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/2330bde656908d3aad3b4b3181a276993cc9fd61-1200x675.png"
+                "src": "https://cdn.gamemeca.com/data_center/346/572/20261104154322.webp",
+                "cap": "▲ AIリバースエンジニアリングの被害を受けたSlotbound(写真出典: Steam公式ページ)"
               },
               {
                 "t": "p",
-                "x": "アイデアやプロンプト、進捗を整理する十のシンプルな方法で、初めてのビデオゲームを初日から軌道に乗せられる。Unity Sparkのようなツールにプロンプトを入力してAIでゲームを作る場合、コードを書く必要はないが、通常はエンジンが迫る判断を自分で下すことに変わりはない。"
+                "x": "Kingは、Farm Heroes Sagaを模倣したとして、Forest Maniaの韓国での運営会社Avocado Entertainmentを提訴した。2審は実質的類似性を否定したが、大法院2019年6月27日宣告2017다212095判決は実質的類似性を認め、原判決を破棄差し戻した。大法院は、ゲームの主要な構成要素が選択・配列され、有機的に結合された方式に創作的個性が表れていれば、著作権で保護されうると判断した。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.gamemeca.com/data_center/347/855/20261116135039.webp",
+                "cap": "▲ Farm Heroes Saga(左)とForest Mania(右)の比較資料(資料出典: ソウル中央地方法院判決文)"
               },
               {
                 "t": "p",
-                "x": "1. 設計書を一つ書き、手元に置く。2. 一度に小さな部分を一つずつ作る。3. 名前は一度決めたら、毎回同じ言葉を使う。4. アイデアはすべて一つのリストにまとめる。5. 見た目を、再利用できる言葉で表現する。"
+                "x": "この基準に照らせば、AIでコードを新たに書いたという事実だけで著作権の問題を避けられるとは言いにくい。ただし、AIを使ったことや制作期間が短いことだけを理由に、侵害がより認められやすくなるわけでもない。核心は、原作をもとに作ったかどうか、そして原作の創作的表現が実質的に類似した形で実装されたかどうかだ。"
               },
               {
                 "t": "p",
-                "x": "6. 一度に変えるのは一つだけにし、その後プレイテストする。7. 大きな変更の前にはチェックポイントを保存する。Sparkはプロンプトごとに復元ポイントを自動保存し、7日間保持するが、各会話で残るのは最新の20件だけだ。8. プロンプトのログを残す。9. 素材の出どころを記録する。10. 終わったことと残っていることを管理する。"
+                "x": "開発者は企画書、バージョンごとのビルド、議事録、リモートリポジトリの変更履歴を時系列で整理し、類似ゲームのストアのアドレス・パブリッシャー・確認日・バージョンと元の録画映像を残しておくべきだ。Steamの著作権侵害申告、配布差し止めの仮処分、韓国著作権委員会の紛争調停も選択肢になりうる。"
               },
               {
-                "t": "p",
-                "x": "メモアプリを開き、ゲームを一文で説明してみる。「私のゲームでは、あなたは___し、次に___して、___できる」。Unity Sparkを使えるようになったら、それを最初のプロンプトとして貼り付ければよい。"
+                "t": "img",
+                "src": "https://cdn.gamemeca.com/data_center/347/856/20261116135635.webp",
+                "cap": "▲ Steamの著作権侵害申告フォーム(資料出典: Steam公式ページ)"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Unity分享AI游戏\n项目的10条建议",
-          "body": "Unity入门指南介绍AI游戏项目的设计简报、命名、检查点、提示词记录和试玩。",
-          "mini_headline": "AI游戏项目10条建议",
+          "headline": "游戏被AI抄袭时\n从判例看应对之道",
+          "body": "依据大法院判例，关键在于创作性表达的组合是否相似，而非类型规则。",
+          "mini_headline": "AI游戏抄袭应对法",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "随着生成式AI的普及，“AI逆向工程”正成为一个问题。这是指以公开的游玩视频或试玩版为基础，分析游戏的运作方式和游玩流程，进而制作出与之相似的游戏。"
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/2330bde656908d3aad3b4b3181a276993cc9fd61-1200x675.png"
+                "src": "https://cdn.gamemeca.com/data_center/346/572/20261104154322.webp",
+                "cap": "▲ 曾遭受AI逆向工程侵害的Slotbound（图片来源：Steam官方页面）"
               },
               {
                 "t": "p",
-                "x": "用十个简单方法整理你的创意、提示词和进度，让你的第一款电子游戏从第一天起就步入正轨。当你通过向Unity Spark这类工具输入提示词、借助AI制作游戏时，无需编写代码，但仍要做出通常由引擎迫使你做的决定。"
+                "x": "King以抄袭Farm Heroes Saga为由，起诉了Forest Mania的韩国运营商Avocado Entertainment。第2审否认了实质性相似，但大法院2019年6月27日宣判的2017다212095判决认定存在实质性相似，撤销原判并发回重审。大法院认为，如果游戏主要构成要素的选择、编排及有机结合方式体现出创作个性，即可受著作权保护。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.gamemeca.com/data_center/347/855/20261116135039.webp",
+                "cap": "▲ Farm Heroes Saga（左）与Forest Mania（右）对比资料（资料来源：首尔中央地方法院判决书）"
               },
               {
                 "t": "p",
-                "x": "1. 写一份设计简报并随时备用。2. 一次只做一小部分。3. 东西只命名一次，并始终使用同一个词。4. 用一份清单记下所有创意。5. 用可重复使用的词语描述你想要的风格。"
+                "x": "按照这一标准，很难认为仅凭用AI重新编写代码这一事实就能规避著作权问题。但也不会仅因使用了AI或开发周期短，就更容易被认定为侵权。关键在于是否以原作为基础制作，以及原作的创作性表达是否以实质性相似的方式被再现。"
               },
               {
                 "t": "p",
-                "x": "6. 一次只改一处，然后试玩。7. 重大改动前先保存检查点：Spark会在每次输入提示词后自动保存还原点，保留7天，且每个对话只保留最新的20个。8. 记录提示词日志。9. 记下素材的来源。10. 跟踪已完成和待完成的事项。"
+                "x": "开发者应按时间顺序整理企划书、各版本构建、会议记录和远程仓库变更记录，并保存相似游戏的商店地址、发行商、确认日期、版本以及原始录屏视频。Steam的著作权侵权举报、禁止发行的临时禁令，以及韩国著作权委员会的纠纷调解也都可作为选项。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.gamemeca.com/data_center/347/856/20261116135635.webp",
+                "cap": "▲ Steam的著作权侵权举报表（资料来源：Steam官方页面）"
+              }
+            ]
+          }
+        },
+        "en": {
+          "headline": "When AI clones your game:\nwhat court precedent says",
+          "body": "Supreme Court precedent says the key test is whether combined creative expression, not genre rules, is similar.",
+          "mini_headline": "Fighting AI game cloning",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "As generative AI use spreads, \"AI reverse engineering\" is emerging as a problem. It refers to cases where someone analyzes how a game works and how its play flows, based on publicly released gameplay videos or demos, and then builds a game that resembles it."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.gamemeca.com/data_center/346/572/20261104154322.webp",
+                "cap": "▲ Slotbound, which was hit by AI reverse engineering (Photo: official Steam page)"
               },
               {
                 "t": "p",
-                "x": "打开笔记应用，写下一句话的游戏描述：“在我的游戏里，你___，然后___，这样你就能___。”等你获得Unity Spark使用权限后，把它粘贴进去作为第一条提示词。"
+                "x": "King sued Avocado Entertainment, the domestic service operator of Forest Mania, claiming it had copied Farm Heroes Saga. The 2nd-instance court denied substantial similarity, but the Supreme Court's ruling 2017다212095, delivered on 2019. 6. 27., recognized substantial similarity and reversed and remanded the lower court's decision. The Supreme Court held that a game can be protected by copyright if creative individuality shows in the way its main components are selected, arranged and organically combined."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.gamemeca.com/data_center/347/855/20261116135039.webp",
+                "cap": "▲ Comparison of Farm Heroes Saga (left) and Forest Mania (right) (Source: Seoul Central District Court ruling)"
+              },
+              {
+                "t": "p",
+                "x": "Under this standard, it is hard to argue that copyright issues can be avoided simply because the code was newly written with AI. At the same time, infringement is not more easily recognized merely because AI was used or the development period was short. The key is whether the game was built on the original, and whether the original's creative expression was reproduced in a substantially similar way."
+              },
+              {
+                "t": "p",
+                "x": "Developers should organize design documents, builds by version, meeting notes and remote repository change logs in chronological order, and keep the store URL, publisher, date checked and version of the similar game along with original screen recordings. Steam's copyright infringement report, an injunction banning distribution, and dispute mediation by the Korea Copyright Commission can also be options."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.gamemeca.com/data_center/347/856/20261116135635.webp",
+                "cap": "▲ Steam's copyright infringement report form (Source: official Steam page)"
               }
             ]
           }
         },
         "es": {
-          "headline": "Unity ofrece 10 consejos\npara proyectos de juego con AI",
-          "body": "La guía de Unity cubre briefs, nombres, checkpoints, registros de prompts y pruebas en proyectos de juego con AI.",
-          "mini_headline": "10 consejos para juegos con AI",
+          "headline": "Cuando la AI copia tu juego:\nqué dicen los precedentes",
+          "body": "Según la Corte Suprema, la clave es si se parece la combinación de expresiones creativas, no las reglas del género.",
+          "mini_headline": "Cómo responder a la copia con AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "A medida que se extiende el uso de la AI generativa, la \"ingeniería inversa con AI\" surge como un problema. Se trata de casos en los que, a partir de videos de juego o demos publicados, se analizan el funcionamiento y el flujo de juego de un título para crear otro que se le parece."
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/2330bde656908d3aad3b4b3181a276993cc9fd61-1200x675.png"
+                "src": "https://cdn.gamemeca.com/data_center/346/572/20261104154322.webp",
+                "cap": "▲ Slotbound, que sufrió ingeniería inversa con AI (Foto: página oficial de Steam)"
               },
               {
                 "t": "p",
-                "x": "Mantén tu primer videojuego en buen camino desde el primer día con diez formas sencillas de organizar tus ideas, prompts y avances. Cuando creas un juego con AI dando instrucciones a una herramienta como Unity Spark, no necesitas escribir código, pero sigues tomando las decisiones que un motor normalmente te obliga a tomar."
+                "x": "King demandó a Avocado Entertainment, operadora en Corea de Forest Mania, alegando que había copiado Farm Heroes Saga. El tribunal de 2.ª instancia negó la similitud sustancial, pero la sentencia 2017다212095 de la Corte Suprema, dictada el 2019. 6. 27., reconoció la similitud sustancial y anuló y devolvió la sentencia original. La Corte Suprema consideró que un juego puede protegerse por derechos de autor si su individualidad creativa se manifiesta en la forma en que sus componentes principales se seleccionan, se ordenan y se combinan orgánicamente."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.gamemeca.com/data_center/347/855/20261116135039.webp",
+                "cap": "▲ Comparación de Farm Heroes Saga (izquierda) y Forest Mania (derecha) (Fuente: sentencia del Tribunal del Distrito Central de Seúl)"
               },
               {
                 "t": "p",
-                "x": "1. Escribe un único documento de diseño y tenlo a mano. 2. Construye una pieza pequeña cada vez. 3. Pon nombre a las cosas una sola vez y usa siempre la misma palabra. 4. Mantén una sola lista para todas tus ideas. 5. Describe tu estilo visual con palabras que puedas reutilizar."
+                "x": "Con este criterio, es difícil sostener que se evitan los problemas de derechos de autor solo porque el código se haya escrito de nuevo con AI. Sin embargo, tampoco se reconoce la infracción con más facilidad solo por haber usado AI o porque el desarrollo fue breve. La clave es si el juego se hizo a partir del original y si la expresión creativa del original se reprodujo de forma sustancialmente similar."
               },
               {
                 "t": "p",
-                "x": "6. Cambia una sola cosa cada vez y luego prueba el juego. 7. Guarda un checkpoint antes de cambios importantes: Spark guarda automáticamente un punto de restauración después de cada prompt, los conserva durante 7 días y solo mantiene los 20 más recientes de cada conversación. 8. Lleva un registro de prompts. 9. Anota de dónde salió cada cosa. 10. Controla lo que está hecho y lo que falta."
+                "x": "Los desarrolladores deben ordenar cronológicamente los documentos de diseño, las compilaciones por versión, las actas de reuniones y el historial de cambios del repositorio remoto, y conservar la dirección de la tienda, el editor, la fecha de comprobación y la versión del juego similar, junto con las grabaciones de video originales. La denuncia por infracción de derechos de autor de Steam, una medida cautelar que prohíba la distribución y la mediación de la Comisión de Derechos de Autor de Corea también pueden ser opciones."
               },
               {
-                "t": "p",
-                "x": "Abre tu app de notas y escribe la descripción de tu juego en una frase: \"En mi juego, tú ___, luego ___, para poder ___\". Cuando tengas acceso a Unity Spark, pégala como tu primer prompt."
+                "t": "img",
+                "src": "https://cdn.gamemeca.com/data_center/347/856/20261116135635.webp",
+                "cap": "▲ Formulario de denuncia por infracción de derechos de autor de Steam (Fuente: página oficial de Steam)"
               }
             ]
           }

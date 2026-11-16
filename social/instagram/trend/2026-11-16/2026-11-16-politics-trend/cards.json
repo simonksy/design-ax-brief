@@ -1,0 +1,113 @@
+{
+  "meta": {
+    "issue": "AI 부정에 시험장이 바뀐다",
+    "date": "2026.11.16",
+    "section": "POLITICS",
+    "accent": "#9aa8c7",
+    "note": "원문 4건 대조: 전자신문 11.07 수능 시험장별 스마트안경 판별 전담 요원 1명·평가원 반입 금지, 전자신문 11.09 교육부 내신 전수조사 4건(보도 2건+추가 2건)·전원 0점, POLITICO 11.13 Whitehall 대면 면접 확대·자기소개서 축소·2027년 4월 새 선발 체계·펜먼 발언, 전자신문 11.15 제63회 세무사 시험 부정 합격 취소·5년 응시 제한·올해 국가자격시험 전수조사. 사진은 수능 스마트안경 한 장만, 나머지는 stat·quote. 칩·데이터센터 회차와 겹치지 않는 새 축.",
+    "sources": [
+      "전자신문 — 수능 앞두고 대통령도 경계한 AI안경 부정행위…뿔테 수험생 “안경 빼앗기면 어떡하나” (2026.11.07)",
+      "전자신문 — AI 안경 쓰고 시험 치다 적발된 중·고생 4명…전원 0점 처리 (2026.11.09)",
+      "POLITICO Europe — Whitehall to increase face-to-face job interviews after surge in AI applications (2026.11.13)",
+      "전자신문 — 정부, 올해 국가자격시험 전수조사 실시…세무사 시험 부정행위자는 5년간 응시 제한 (2026.11.15)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 정책 · 11.08~11.16",
+      "thread": [
+        {
+          "d": "11.8",
+          "t": "수능 감독",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        },
+        {
+          "d": "11.10",
+          "t": "내신 0점",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        },
+        {
+          "d": "11.14",
+          "t": "대면 면접",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        },
+        {
+          "d": "11.16",
+          "t": "자격시험",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        }
+      ],
+      "thread_note": "AI 부정행위가 번지자 시험·채용 관문이 사람이 직접 확인하는 방식으로 되돌아간다",
+      "eyebrow": "흐름 · 정책",
+      "headline": "AI 부정에\n시험장이 바뀐다",
+      "body": "수능, 내신, 공무원 채용, 국가자격시험. 따로 보면 단속 소식이지만 모두 사람이 직접 확인하는 쪽으로 관문을 다시 짠다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.11.08",
+      "headline": "수능장마다\n안경 판별 요원",
+      "body": "교육당국은 수능 시험장마다 스마트안경 판별 전담 요원 1명을 둔다. 평가원은 스마트안경을 반입 금지 물품으로 정했다.",
+      "foot": "2026.11.08",
+      "_src": "https://www.etnews.com/20261107000027",
+      "_id": "suneung-ai-smartglasses-ban",
+      "media": "pipeline/media/suneung-ai-smartglasses-ban.jpg"
+    },
+    {
+      "n": 3,
+      "kind": "stat",
+      "eyebrow": "2026.11.10",
+      "headline": "AI 안경 쓴\n중·고생 4명 0점",
+      "body": "교육부가 전국 중·고교 내신을 전수조사해 스마트 안경 부정 4건을 찾았다. 보도된 2건 외에 2건이 더 나왔다.",
+      "foot": "2026.11.10",
+      "_src": "https://www.etnews.com/20261109000269",
+      "_id": "politics-ai-glasses-exam-zero",
+      "stat_top": "전국 중·고교 전수조사",
+      "stat_arrow": "스마트 안경 내신 부정행위",
+      "stat_bottom": "4건 · 전원 0점",
+      "stat_strike": false
+    },
+    {
+      "n": 4,
+      "kind": "quote",
+      "eyebrow": "2026.11.14",
+      "headline": "AI 지원서에\n대면 면접으로",
+      "body": "AI로 쓴 지원서가 쏟아지자 UK 공무원 조직이 대면 면접을 늘린다. 화상 면접까지 봇이 한 것으로 보인 사례도 있었다.",
+      "foot": "2026.11.14",
+      "_src": "https://www.politico.eu/article/whitehall-increase-in-person-job-interviews-after-ai-applications/",
+      "_id": "politics-whitehall-ai-applications",
+      "quote": "이런 정당한 우려가\n시스템 전체가 망가졌다는\n뜻은 아니다",
+      "quote_by": "데이브 펜먼 · FDA 노조 사무총장"
+    },
+    {
+      "n": 5,
+      "kind": "stat",
+      "eyebrow": "2026.11.16",
+      "headline": "세무사 시험 뒤\n자격시험 전수조사",
+      "body": "제63회 세무사 시험 AI 부정 뒤 노동부가 올해 치른 모든 국가자격시험을 조사한다. 시험장별 AI 인스펙터도 늘린다.",
+      "foot": "2026.11.16",
+      "_src": "https://www.etnews.com/20261115000178",
+      "_id": "politics-exam-ai-audit",
+      "stat_top": "제63회 세무사 시험 AI 부정",
+      "stat_arrow": "부정행위자 합격 취소",
+      "stat_bottom": "5년간 응시 제한",
+      "stat_strike": false
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

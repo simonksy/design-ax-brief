@@ -1,0 +1,113 @@
+{
+  "meta": {
+    "issue": "AI에 넘기기 전에 먼저 따진다",
+    "date": "2026.11.16",
+    "section": "DESIGN",
+    "accent": "#0070f3",
+    "note": "원문 4건 대조: 날짜를 원문 게재일로 고침(UX Collective 10.29→10.27, Smashing 11.13→11.12, NN/g 11.15→11.13, Figma 블로그 11.16→11.13). 521명·4.2점·3.57점·69%는 아카이브 본문(NN/g 설문 인용), 네 질문·오후 한나절·Itay Schiff 인용과 25년 경력은 원문에서 확인. 같은 주제의 11-13 디자인 시스템 회차와 겹치지 않게 A2UI·KT 묶음은 버림. 사진은 Smashing 한 장만, 나머지는 stat·quote.",
+    "sources": [
+      "UX Collective — The time AI saves designers usually disappears. Here's how to keep it (2026.10.27)",
+      "Smashing Magazine — Should You Actually Add AI To That? A Four-Question Audit For Product Teams (2026.11.12)",
+      "Nielsen Norman Group — Research in the Loop (2026.11.13)",
+      "Figma Blog — Which parts of the creative process can AI do for us (2026.11.13)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 디자인 · 10.27~11.13",
+      "thread": [
+        {
+          "d": "10.27",
+          "t": "검증 부담",
+          "c": "#0070f3",
+          "s": "DESIGN"
+        },
+        {
+          "d": "11.12",
+          "t": "네 질문",
+          "c": "#0070f3",
+          "s": "DESIGN"
+        },
+        {
+          "d": "11.13",
+          "t": "리서치",
+          "c": "#0070f3",
+          "s": "DESIGN"
+        },
+        {
+          "d": "11.13",
+          "t": "지킬 몫",
+          "c": "#0070f3",
+          "s": "DESIGN"
+        }
+      ],
+      "thread_note": "AI에 일을 넘기기 전, 사람에게 남길 몫부터 따지기 시작했다",
+      "eyebrow": "흐름 · 디자인",
+      "headline": "넘기기 전에\n먼저 따진다",
+      "body": "한 건씩 보면 실무 팁이다. 그런데 설문·기능 점검·리서치·창작 현장이 3주 사이 같은 걸 묻는다. 무엇을 AI에 넘길까.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "stat",
+      "eyebrow": "2026.10.27",
+      "headline": "아낀 시간은\n검증으로 샌다",
+      "body": "NN/g의 UX 실무자 521명 설문. 시간 효과는 5점 만점 4.2점인데, 의견 69%엔 부정 정서가 묻었다. 검증 부담 탓이다.",
+      "foot": "2026.10.27",
+      "_src": "https://uxdesign.cc/the-time-ai-saves-designers-usually-disappears-heres-how-to-keep-it-61eb38e1ed69",
+      "_id": "ai-time-savings",
+      "stat_top": "작업 시간 효과 4.2점",
+      "stat_arrow": "직장에서 AI를 느끼는 점수는",
+      "stat_bottom": "3.57점",
+      "stat_strike": false
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.11.12",
+      "headline": "넣기 전에\n네 가지 질문",
+      "body": "Smashing은 AI 기능을 기획 때 따지자고 한다. 떠안을 검토까지 노력에 넣고, 1년 뒤에도 오류를 알아챌지 묻는다.",
+      "foot": "2026.11.12",
+      "_src": "https://smashingmagazine.com/2026/11/should-you-add-ai-audit-product-teams/",
+      "_id": "smashing-ai-feature-audit",
+      "media": "pipeline/media/smashing-ai-feature-audit.jpg"
+    },
+    {
+      "n": 4,
+      "kind": "stat",
+      "eyebrow": "2026.11.13",
+      "headline": "출시는 빨라도\n이유는 리서치가",
+      "body": "에이전트가 기능을 오후 한나절에 만든다. NN/g는 릴리스마다 무엇을 잴지 리서치가 먼저 정하고, 측정 장치도 함께 짓자고 한다.",
+      "foot": "2026.11.13",
+      "_src": "https://www.nngroup.com/articles/research-in-the-loop/",
+      "_id": "nngroup-research-in-the-loop",
+      "stat_top": "몇 달 걸리던 기능",
+      "stat_arrow": "코딩 에이전트와 함께면",
+      "stat_bottom": "오후 한나절",
+      "stat_strike": false
+    },
+    {
+      "n": 5,
+      "kind": "quote",
+      "eyebrow": "2026.11.13",
+      "headline": "노동은 넘기고\n생각은 지킨다",
+      "body": "그냥 노동인 단계는 기계에 넘기고, 생각이 일어나는 마찰은 지키라는 것. 25년 VFX 경력의 Figma Weave 공동창업자가 썼다.",
+      "foot": "2026.11.13",
+      "_src": "https://www.figma.com/blog/ai-role-in-the-creative-process/",
+      "_id": "figma-blog-creative-ai-split",
+      "quote": "생각까지 자동화해\n없애지 않게 조심하라.\n가장 끌릴 때일수록.",
+      "quote_by": "Itay Schiff · Figma Weave 공동창업자"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

@@ -4549,6 +4549,138 @@
           "x": "In preclinical studies, BD200 adapted its specificity to heterogeneous antigen expression on tumor cells, showing greater efficacy and the ability to overcome resistance compared with standard monospecific ADCs or a template bispecific ADC, according to the company. The phase 1 study will evaluate safety, tolerability, pharmacokinetics, and preliminary efficacy."
         }
       ]
+    },
+    "medicine/openai-computer-use-health-agents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2219425791.jpg?VersionId=O1OkFR85axRupu_mdYZTS0_LgbsUcqZy",
+          "cap": "CVS Health said that in one production workflow, an agent cleared a months-long document-sending backlog over a weekend."
+        },
+        {
+          "t": "p",
+          "x": "OpenAI is expanding computer-use agents for healthcare, enabling AI to navigate electronic health record systems, payer portals and other software to tackle repetitive and manual tasks. The agents view a screen, move a cursor, click buttons and type text the way a human does."
+        },
+        {
+          "t": "p",
+          "x": "Karan Singhal, head of Health AI at OpenAI, said the company is working with CVS Health, Cigna Healthcare, Abridge and Ambience on workflows including referrals, prior authorizations, discharge planning, specialist consults and care manager preparation. Access comes through ChatGPT for Healthcare, ChatGPT for Clinicians and the OpenAI API."
+        },
+        {
+          "t": "p",
+          "x": "In OpenAI's evaluation of GPT-6 Astra on EHR inbox tasks, 99% of 325 reviewed tasks were rated clinically safe, and physicians rated the model \"very helpful\" or \"extremely helpful\" in 93% of 646 assessments."
+        },
+        {
+          "t": "p",
+          "x": "CVS Health uses the agents to send documents, process referrals and support specialist consults; one agent cleared a months-long backlog over a weekend. Cigna pulls member information from more than 10 systems, and Abridge is building agents for care plans in apps without APIs."
+        }
+      ]
+    },
+    "medicine/poskom-miniair-icu-xray": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "An ultra-compact AI-powered x-ray system can cut bedside imaging workflow times in intensive care units by more than three-quarters while preserving diagnostic performance, according to research in this session."
+        },
+        {
+          "t": "p",
+          "x": "In a prospective study involving 121 ICU patients, Runqiu Huang, of Southern Medical University in Guangzhou, China, and colleagues compared the MiniAIR system (Poskom, South Korea), a 1.3-kilogram device roughly the size of a paperback book, with conventional mobile digital radiography for bedside imaging."
+        },
+        {
+          "t": "p",
+          "x": "MiniAIR reduced total workflow time from 2,061 seconds to 475 seconds, a 76.9% decrease. Reductions were pronounced across all stages, particularly order initiation (87.5% faster) and post-acquisition processing (88.4% faster). AI image enhancement improved image quality, reducing noise scores and boosting spatial resolution from 34 to 40 line pairs per centimeter. Diagnostic agreement was high and non-inferior to conventional imaging, with intraclass correlation coefficients of at least 0.9987 and Cohen’s kappa values of 0.88 to 1.00 across all evaluated tasks."
+        },
+        {
+          "t": "p",
+          "x": "Conventional mobile radiography has long constrained ICU workflows through bulky hardware and processing delays, the authors noted. “This integrated hardware-AI approach addresses key limitations of conventional mobile radiography and supports rapid, point-of-care clinical decision-making,” the researchers suggested."
+        }
+      ]
+    },
+    "medicine/naitive-osteosight-spine-510k": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://naxztztabtiofaq7.public.blob.vercel-storage.com/app-uploads/images/1794492544592-Naitive-LinkedIn-post---1200---627-q9nL5xrPZdo1AtcWY8epwITx37wld5.png",
+          "cap": "Courtesy of Naitive Technologies"
+        },
+        {
+          "t": "p",
+          "x": "Naitive Technologies announced that it has received 510(k) clearance from the U.S. FDA for OsteoSight Spine, which enables opportunistic assessment of bone mineral density (BMD) using routine lumbar spine, thoracic spine, and chest X-rays acquired to investigate other clinical concerns. An estimated 124 million such X-rays are performed in the US each year. The clearance follows FDA clearance of OsteoSight for hip and pelvis X-rays in September 2025."
+        },
+        {
+          "t": "p",
+          "x": "70% of patients with low BMD are undiagnosed, often until a fracture occurs. OsteoSight Spine analyzes X-rays in patients 50 years and older, identifies cases at risk for low BMD and provides a report to aid the interpreting physician and prompt a clinical assessment of bone health."
+        },
+        {
+          "t": "p",
+          "x": "“OsteoSight Spine draws on the X-rays we order every day to flag patients whose low bone density is hiding in plain sight,” said Dr. Todd Albert of Hospital for Special Surgery. “Spine and chest X-rays are among the most common images in medicine, and each one is a chance to catch low bone density before a fracture,” said Naitive CEO Dr. Will Briggs."
+        }
+      ]
+    },
+    "medicine/dongsan-adpkd-ai-platform": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.bosa.co.kr/news/photo/202611/3016555_417451_059.jpg",
+          "cap": "Exterior of Keimyung University Dongsan Hospital"
+        },
+        {
+          "t": "p",
+          "x": "Keimyung University Dongsan Hospital (director Kim Jun-hyung) is setting out to build an artificial intelligence (AI)-based integrated management platform that helps patients with polycystic kidney disease, a hereditary kidney disorder, manage their health in daily life. The hospital said it is carrying out the project ‘Building an integrated metabolic and functional management platform centered on disease burden in autosomal dominant polycystic kidney disease (ADPKD)’ as part of the research-oriented hospital leap support program (C-LINK R&D)."
+        },
+        {
+          "t": "p",
+          "x": "Polycystic kidney disease is a hereditary condition in which numerous cysts (fluid-filled sacs) form and grow in the kidneys, liver and other organs, gradually reducing kidney function. Because the pace of progression differs from patient to patient and symptoms such as abdominal pain and fatigue vary, multidimensional care that covers nutrition and physical activity, beyond simple kidney function values, is essential."
+        },
+        {
+          "t": "p",
+          "x": "The core of the platform is linking clinical data, AI image analysis, physical function assessment, personalized exercise and patient education in a single system. It combines kidney and liver imaging data analyzed by AI with muscle mass, activity levels collected through wearable devices and other means, and pain and fatigue indicators to precisely assess each patient's disease burden, then issues optimized exercise prescriptions on that basis. To do this, nephrology and rehabilitation medicine lead a multidisciplinary collaboration with experts in exercise, nutrition and digital health."
+        },
+        {
+          "t": "p",
+          "x": "The preliminary study (Pilot study) to confirm feasibility in clinical settings is also producing positive results. When the researchers delivered personalized exercise interventions through a mobile platform, patient adherence to treatment participation exceeded 90%. Participating patients said the specific exercise guidance and real-time support for putting it into practice genuinely helped them regain energy in daily life."
+        },
+        {
+          "t": "p",
+          "x": "“The goal of this research is to create an environment in which patients with polycystic kidney disease can keep managing their own health in daily life outside the hospital,” said principal investigator Kim Ye-rim, a professor of nephrology. “Based on the patient feedback confirmed in the preliminary study, we will further refine the exercise program and the platform.”"
+        },
+        {
+          "t": "p",
+          "x": "Dongsan Hospital plans to apply the platform first to polycystic kidney disease, then use the research-oriented hospital's clinical research infrastructure to advance it into an integrated management model that can be used broadly for a range of chronic diseases, and to pursue commercialization."
+        }
+      ]
+    },
+    "medicine/neca-vitalcare-input-audit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://medigatenews.com/file/news/542817",
+          "cap": "The written survey letter that hospitals must answer to NECA by November 19. Source: provided by a reader"
+        },
+        {
+          "t": "p",
+          "x": "The National Evidence-based Healthcare Collaborating Agency (NECA) has sent written survey letters to 171 hospitals that used technology related to VitalCare, an artificial intelligence (AI) that predicts patient deterioration, and the move is causing confusion in the medical field. The follow-up survey, prompted by criticism raised in the parliamentary audit, asks hospitals to answer 'yes' or 'no' on whether each of the 19 input items was actually measured at least once during the hospital stay for every eligible patient."
+        },
+        {
+          "t": "p",
+          "x": "At the October 7 parliamentary audit, Rep. Kwon Chil-seung of the Democratic Party questioned whether the notice was being followed. In one hospital's submitted response, all 19 items were present on only 73 of 5042 total days of use, about 1.5%."
+        },
+        {
+          "t": "p",
+          "x": "NECA sent the letter on November 4 at the request of the Ministry of Health and Welfare. The survey runs from November 11 to 19, and hospitals must submit their usage between March 2023 and September 2026, whether patient consent forms were obtained, and vendor guidance materials. Sending the letter does not in itself confirm a violation."
+        },
+        {
+          "t": "img",
+          "src": "https://medigatenews.com/file/news/542829"
+        },
+        {
+          "t": "p",
+          "x": "AITRICS issued an official statement on the 12th rebutting the claim that it violated the notice. Under the Ministry of Food and Drug Safety approval, 5 vital signs require at least one actual measurement, but oxygen saturation, 11 blood test results and the consciousness score are handled by imputing missing values when the risk score is calculated, the company said. \"Items without a measured value are filled in with the previous measurement or the median of the normal range, so all 19 items are input and analyzed,\" the company stated."
+        },
+        {
+          "t": "p",
+          "x": "The company also pointed to first-instance rulings in related unjust-enrichment lawsuits, in which the Osan City Court and the Ulsan District Court dismissed the plaintiffs' claims, and asked the Ministry of Health and Welfare to revise the usage method in the notice to match the Ministry of Food and Drug Safety approval. VitalCare went through a deferral period for new health technology assessment and is now undergoing the main assessment."
+        }
+      ]
     }
   }
 }

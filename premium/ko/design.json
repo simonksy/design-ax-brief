@@ -18254,6 +18254,163 @@
           "x": "3D 변환은 Dev Mode에서 CSS로 그대로 옮겨진다. 코딩 에이전트는 Figma MCP 서버로 3D 디자인을 읽고 만든다. 지금은 모든 Full 시트 사용자가 오픈 베타로 쓸 수 있다."
         }
       ]
+    },
+    "design/lovable-drafts-parallel": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assets.lovable.dev/content/news/covers/introducing-drafts-2026-11-15.png"
+        },
+        {
+          "t": "p",
+          "x": "뛰어난 빌더는 실험하고 만지작거리며 다듬는다. 이제 팀은 여러 아이디어를 한꺼번에 시도하고 하나를 고르기 전에 실제 환경에서 어떻게 보이는지 확인한다. 그동안 라이브 앱은 손대지 않은 채 남는다."
+        },
+        {
+          "t": "p",
+          "x": "드래프트를 쓰면 디자인부터 데이터베이스까지 앱 전체를 원하는 만큼 복사한다. 드래프트마다 채팅과 미리보기가 따로 있어 팀원이 각자 다른 버전을 작업하고 나란히 비교한다. 드래프트를 수락해 게시하기 전까지 라이브에는 아무것도 반영되지 않는다."
+        },
+        {
+          "t": "video",
+          "src": "https://assets.lovable.dev/content/news/introducing-drafts/drafts-overview-2026-11-16.mp4"
+        },
+        {
+          "t": "p",
+          "x": "팀원이나 클라이언트는 기존 앱을 건드리지 않고 자기 드래프트에서 고친다. 드래프트마다 예시 데이터가 채워져 있어 빈 페이지 대신 예약이 꽉 찬 캘린더, 가득 쌓인 주문 내역, 긴 가입자 목록 위에서 아이디어를 본다. Lovable에 여러 버전을 만들어 달라고 한 뒤 마음에 드는 것만 남겨도 된다."
+        },
+        {
+          "t": "p",
+          "x": "\"드래프트로 여러 기능과 레이아웃, UX를 나란히 테스트한 뒤 가장 잘 맞는 것을 남긴다.\" OLX Global의 Director of Product Design & Research인 Shane Stuart의 말이다."
+        },
+        {
+          "t": "p",
+          "x": "프로젝트를 열고 편집기 상단의 프로젝트 이름을 클릭한 뒤 \"New draft\"를 누르면 된다. 드래프트가 마음에 들면 수락을 눌러 변경 사항을 프로젝트에 합치고, 게시를 눌러 라이브로 내보낸다. 테스트하며 넣은 데이터는 드래프트 안에만 머물다가 수락하거나 삭제하면 사라진다. 실제 고객 데이터와 섞일 일이 없다."
+        }
+      ]
+    },
+    "design/astryx-v0-skill": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "이제 v0에서 Astryx를 디자인 시스템 스킬로 쓸 수 있다. v0가 빌드하는 동안 가이드, 컴포넌트, 예시, 템플릿이 컨텍스트로 들어간다."
+        },
+        {
+          "t": "img",
+          "src": "https://astryx.atmeta.com/blog/astryx-is-now-available-in-v0/cover.png",
+          "cap": "검은 배경 위 Astryx 마크 옆에 놓인 v0 로고."
+        },
+        {
+          "t": "p",
+          "x": "이제 v0에서 Astryx를 사용할 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "v0에서 디자인 시스템은 에이전트 스킬로 작동한다. 빌더가 프로젝트에 Astryx를 고르면 v0는 빌드하는 동안 그 가이드, 컴포넌트, 예시, 템플릿을 컨텍스트로 불러온다."
+        },
+        {
+          "t": "p",
+          "x": "Vercel과 함께한 이번 작업은 디자인 시스템이 사람과 에이전트를 함께 돕는다는 게 무엇인지, 시스템 지식이 창작하는 순간에도 어떻게 쓸모를 잃지 않는지 탐색하는 한 방법이다."
+        }
+      ]
+    },
+    "design/gemini-notebook-sites": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/blog_hero_periodic_table3_2784x1566.max-1440x810.png"
+        },
+        {
+          "t": "p",
+          "x": "오늘부터 Gemini Notebook은 자료를 인터랙티브 사이트로 바꿔 복잡한 정보를 빠르게 이해하도록 돕는다."
+        },
+        {
+          "t": "p",
+          "x": "Gemini Notebook 채팅에 “make me a site”라고 입력한 뒤 업무나 공부에 필요한 결과물을 설명하면 된다. 이를테면 다음과 같다."
+        },
+        {
+          "t": "p",
+          "x": "시험 준비를 돕는 인터랙티브 주기율표나 역사 연표 같은 시각 자료. 분기별 매출 실적 같은 데이터를 살펴보는 인터랙티브 대시보드. 할 일과 마감일을 정리하는 프로젝트 관리 트래커."
+        },
+        {
+          "t": "p",
+          "x": "완성되면 “Open in a new tab”을 눌러 직접 쓰거나 다른 사람과 공유하면 된다."
+        },
+        {
+          "t": "p",
+          "x": "이 기능은 오늘부터 웹에서 Google Workspace 구독자를 포함한 전 세계 Gemini Notebook 사용자(18+)에게 배포되고, 모바일 앱에는 곧 나온다."
+        },
+        {
+          "t": "video",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Sites_Final.mp4"
+        }
+      ]
+    },
+    "design/onepassword-figma-make": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/bbbd715863ae9596492a6b6eda14af49a9b802de-2400x1260.png?w=1200&q=70&fit=max&auto=format"
+        },
+        {
+          "t": "p",
+          "x": "사용자가 휴대폰에서 로그인 정보를 자동완성하든, 데스크톱에서 1Password를 쓰든, 브라우저 확장 프로그램으로 AI 에이전트의 자격 증명 요청을 승인하든 그 경험은 한결같이 1Password다워야 한다. 1Password의 Chief Experience Officer인 Matt Davey는 “신뢰와 확실성이라고 하겠다”고 말한다."
+        },
+        {
+          "t": "p",
+          "x": "디자인 시스템 팀은 이십 년 가까이 쌓인 디자인 가이드를 도구가 읽을 수 있는 컨텍스트로 바꿨다. 덕분에 Figma Make와 다른 에이전트도 디자이너와 같은 규칙을 따른다. Ryan Williamson-Cardneau의 팀은 내부 프로토타입 플레이그라운드를 만들었다. Figma 파일에서 바로 만든 1Password 제품용 코드 템플릿을 담은 프런트엔드 전용 저장소다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/a17b404ae2b6620f5900cc3aec4ff42c6e1a150c-1706x1410.png?rect=1,0,1705,1410&w=1080&h=893&q=75&fit=max&auto=format",
+          "cap": "Figma Make에서 연 1Password의 프로토타입 플레이그라운드. 디자이너는 코드로 만든 컴포넌트를 선택해 채팅이나 속성 패널로 조정할 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "Ryan은 간단한 수정 30건을 직접 하지 않고 Figma Make에 맡겼는데, 약 80%를 제대로 처리했다. Matt는 프로토타입을 복제해 버전끼리 나란히 비교하는 방식을 “시각적 브랜칭”이라 부른다. 채팅을 1Password의 MCP에 연결하면 “스파링 파트너”가 된다는 게 그의 설명이다."
+        },
+        {
+          "t": "p",
+          "x": "1Password 디자이너는 모두 프로토타입 플레이그라운드 온보딩을 마쳤고, 엔지니어와 PMs도 그곳에서 프로토타입을 만든다. 1Password는 사용자 테스트에 연결해 쓰던 Figma 프로토타입 대부분을 코드 프로토타입으로 바꿨다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/ec408a42a9435922312ea6e79eb44ac6826c9a07-1706x1408.png?rect=0,1,1706,1407&w=1080&h=891&q=75&fit=max&auto=format",
+          "cap": "프로토타입 플레이그라운드에는 팀 전체의 프로토타입이 모여 있다. 모두 코드로 만든 1Password 제품 템플릿에서 출발했다."
+        }
+      ]
+    },
+    "design/design-fable52-brushstroke-painter": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://the-decoder.com/wp-content/uploads/2026/11/claude_fable_5.2_painting.png",
+          "cap": "THE DECODER가 Nano Banana Pro로 생성한 이미지"
+        },
+        {
+          "t": "p",
+          "x": "Anthropic의 새 언어 모델 Claude Fable 5.2는 코드로 수십만 개의 붓질을 가상 캔버스에 하나씩 놓아 복잡한 그림, 심지어 사진 같은 그림까지 그린다. Midjourney 같은 지금의 이미지 모델은 대개 확산(diffusion) 방식을 쓴다. Fable 5.2는 다르다. 붓털 질감과 물감이 묻어나는 모양, 나중에 덧칠해야 할 실수까지 실제로 그림을 그리는 물리 과정을 그대로 시뮬레이션한다."
+        },
+        {
+          "t": "p",
+          "x": "Anthropic 개발자 Jake Eaton이 사진과 구별하기 어려울 만큼 사실적인 그림을 주문하자, 모델은 시뮬레이션 붓질 약 700,000번으로 주차장에 놓인 쇼핑 카트를 그렸다. Eaton은 Claude가 외부 이미지 모델도, 미리 렌더링하거나 따라 그릴 원본 이미지도 쓰지 않는다고 설명했다. 작품 한 점 한 점이 시뮬레이션 페인트 엔진을 돌리는 1,000줄에서 2,000줄 분량의 Python 프로그램이다."
+        },
+        {
+          "t": "img",
+          "src": "https://pbs.twimg.com/media/HWtMXeqboAA3yPD?format=jpg&name=medium",
+          "cap": "Claude Fable 5.2가 시뮬레이션 붓질 약 700,000번으로 그린 사실적인 주차장 장면. | 이미지: Jake Eaton"
+        },
+        {
+          "t": "p",
+          "x": "Anthropic 엔지니어 Michael Graczyk는 Fable 5.2에 해 뜰 무렵의 새를 그려 달라고 하면서 붓질마다 좌표를 한 줄씩 따로 출력하게 하고 되돌리기는 막았다. 21초짜리 영상에는 정확히 111번의 붓질로 그림이 모양을 잡아 가는 과정이 담겼다. 모델은 단계마다 캔버스를 확인했고, 실제 화가처럼 자기 실수에 대처했다."
+        },
+        {
+          "t": "video",
+          "src": "https://the-decoder.com/wp-content/uploads/2026/11/graczyk_demo.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Anthropic은 자체 RoboDojo Sim 벤치마크에서 Fable 5.2가 64.9퍼센트, OpenAI의 GPT-6 Astra가 29.8퍼센트를 기록했다고 밝혔다. 다만 AI 연구자 Aris Zhu가 실제 로봇 팔로 해 본 테스트에서는 Astra가 더 빨리 그렸고 미세한 운동 제어도 앞섰다."
+        }
+      ]
     }
   }
 }

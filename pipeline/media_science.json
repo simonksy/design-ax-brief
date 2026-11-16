@@ -1,7 +1,31 @@
-{"date":"2026-11-16","section":"science","media":[
-{"id":"science-teamwork-lean-proof","type":"video","src":"pipeline/media/science-teamwork-lean-proof.mp4","poster":"pipeline/media/science-teamwork-lean-proof.jpg"},
-{"id":"ucsb-phosphene-stimulation","type":"image","src":"pipeline/media/ucsb-phosphene-stimulation.jpg"},
-{"id":"tartu-muon-tomography","type":"image","src":"pipeline/media/tartu-muon-tomography.jpg"},
-{"id":"brainit-fmri-reconstruction","type":"image","src":"pipeline/media/brainit-fmri-reconstruction.jpg"},
-{"id":"umich-chatbot-intimacy","type":"image","src":"pipeline/media/umich-chatbot-intimacy.jpg"}
-]}
+{
+  "date": "2026-11-17",
+  "section": "science",
+  "media": [
+    {
+      "id": "psypost-ai-grant-novelty",
+      "type": "image",
+      "src": "pipeline/media/psypost-ai-grant-novelty.jpg"
+    },
+    {
+      "id": "leafy-spurge-satellite-ai",
+      "type": "image",
+      "src": "pipeline/media/leafy-spurge-satellite-ai.jpg"
+    },
+    {
+      "id": "materials-ai-less-data",
+      "type": "image",
+      "src": "pipeline/media/materials-ai-less-data.jpg"
+    },
+    {
+      "id": "qudit-quantum-neural-net",
+      "type": "image",
+      "src": "pipeline/media/qudit-quantum-neural-net.jpg"
+    },
+    {
+      "id": "sciam-chess-ai-complexity",
+      "type": "image",
+      "src": "pipeline/media/sciam-chess-ai-complexity.jpg"
+    }
+  ]
+}

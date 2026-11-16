@@ -11771,6 +11771,143 @@
           "x": "著者らは、各モデルがどの規則に一貫して従うかを示す「価値カード」も作成した。論文「Alignment Faking Depends on the Value, Not Just the Model」はarXivで公開されている。"
         }
       ]
+    },
+    "science/leafy-spurge-satellite-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-field-of-leafy-spurg.jpg",
+          "cap": "提供: University of Minnesota"
+        },
+        {
+          "t": "p",
+          "x": "ミネソタ大学(University of Minnesota)の研究者らは、衛星画像とAIの深層学習モデル、市民科学のデータを活用し、リーフィースパージの20年にわたる拡散を追跡した。最近Ecological Applicationsに掲載された成果は、農家や牧場主、土地管理者がこの有害雑草の拡散に対処する助けとなる。"
+        },
+        {
+          "t": "p",
+          "x": "研究チームは、iNaturalistアプリによる市民の観察記録を含むリーフィースパージの実観測データと、NASAの衛星の協力を得てU.S. Geological Survey(米地質調査所)が提供するオープンソースのLandsat画像を組み合わせ、予測用の深層学習モデルを訓練した。"
+        },
+        {
+          "t": "p",
+          "x": "研究によると、リーフィースパージは二十年間(2000–2021)で個体量が急増し(570%)、主にFargo-MoorheadとMinneapolis-Saint Paul周辺で広がった。道路沿いに現れることが多く、衛星画像で新たな侵入地を検出することで将来の侵入予測が向上した。"
+        },
+        {
+          "t": "p",
+          "x": "「リーフィースパージが花を咲かせると、誰かが風景に黄色の蛍光ペンを引いたようになる。あまりに鮮やかな黄色なので、衛星からも見える」とThomas Lakeは語る。チームは七つの州にわたってこの植物を地図化する計画だ。"
+        }
+      ]
+    },
+    "science/materials-ai-less-data": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-12.jpg",
+          "cap": "提供: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "新素材の開発は多くの場合、電子構造、つまり物質内で電子がどう配置され、どう振る舞うかを理解することから始まる。電子構造の計算には通常、スーパーコンピューターでの高価なシミュレーションが必要だ。そのため研究者は、より速く予測するために数百万点のシミュレーションデータで人工知能モデルを訓練してきた。"
+        },
+        {
+          "t": "p",
+          "x": "しかし、Michigan Techの機械・航空宇宙工学科のSusanta Ghosh准教授が率いた最近の研究によれば、それほどの訓練データは必要ない。UCLAと共同で取り組んだ研究チームは、npj Computational Materialsに最近発表した論文で、AIモデルが訓練データの90%を捨てても精度がほとんど落ちないことを示した。"
+        },
+        {
+          "t": "p",
+          "x": "訓練データの99%を取り除いても大半の予測は高い精度を保ち、モデルの訓練は三倍以上速くなった。今回の知見は、金属や水、複雑な合金を含む幅広い物質に当てはまる。"
+        },
+        {
+          "t": "p",
+          "x": "「電子構造データの多くは同じ情報を繰り返している。よく選んだ小さなサンプルが、AIが学ぶべきことのほぼすべてを捉える」とGhoshは述べた。"
+        },
+        {
+          "t": "p",
+          "x": "「代表的な電子構造データを特定し、訓練時間を少なくとも三分の一に縮めることで、この研究は広大な組成空間にわたる複雑な合金のAI-drivenな発見を加速できる」と彼は語った。"
+        }
+      ]
+    },
+    "science/qudit-quantum-neural-net": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/quantum-neural-network-1.jpg",
+          "cap": "高次元量子ニューロンの構築と訓練。提供: University of Science and Technology of China"
+        },
+        {
+          "t": "p",
+          "x": "量子ニューラルネットワークの規模をどう拡大するか。一つの方法は、ニューロンとして量子ビットを増やすことだ。だが、National Science Reviewに掲載された研究「Quantum neural network equipped with backpropagation on a qudit processor」は別の道を示している。"
+        },
+        {
+          "t": "p",
+          "x": "中国科学技術大学(University of Science and Technology of China)のLi Zhaokai准教授とLin Yiheng教授が率いる研究者らは、単一の物理ユニットの内部に目を向け、そのエネルギー準位をより多く使った。これにより、物理ユニットを増やさずに高次元の量子ニューロンを構築できた。"
+        },
+        {
+          "t": "p",
+          "x": "量子ビットを増やして規模を拡大すると、制御すべきハードウェアが増え、蓄積する誤りも増える。これは今日のノイズのある中規模量子デバイスにとって特に難しい課題だ。"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/quantum-neural-network-2.jpg",
+          "cap": "ズボンとプルオーバーを見分ける学習。提供: University of Science and Technology of China"
+        },
+        {
+          "t": "p",
+          "x": "研究チームはカルシウムイオンの五つのエネルギー準位を使って多準位の量子プロセッサーを構築し、高次元量子ニューラルネットワークを実験的に実装した。このネットワークはFashion-MNISTデータセットの衣類画像を分類し、395サンプルのテストセットで95.7%の実験的分類精度を達成した。"
+        }
+      ]
+    },
+    "science/sciam-chess-ai-complexity": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/1e99e951-c633-4384-8edb-9267b4a202c9/saw1226_0127Adva06.jpg?m=1793651269.904&w=1200",
+          "cap": "Thomas Fuchs"
+        },
+        {
+          "t": "p",
+          "x": "複雑さを苦にしないことが、AIのチェスの強さの鍵かもしれない。APS Open Scienceに最近掲載された論文は、AIの戦略的優位を支えるとみられる特徴の一つを浮き彫りにした。研究の責任著者で、ウィーンのComplexity Science Hubの物理学者Vito D. P. Servedioは「おそらく私たちの論文は、これらの機械が何をしているのかの理解に最も近づいている」と語る。"
+        },
+        {
+          "t": "p",
+          "x": "研究者らはオンラインのデータベースから人間 vs. 人間、Stockfish vs. Leelaの対局を集め、「戦略的緊張」、すなわち対立する駒どうしの間で可能な相互作用の数を測定した。"
+        },
+        {
+          "t": "p",
+          "x": "両者が20手ずつ指した時点までは、人間同士の対局の平均的な緊張がAIの対局を上回っていた。だがその後、人間の対局の緊張はAIの対局を下回り、AIの対局では高いまま保たれる。人間は認知的負荷を減らす必要があるが、「エンジンにはその問題は実はない」と、研究に関わっていないNorthumbria UniversityのMerim Bilalićは言う。"
+        },
+        {
+          "t": "p",
+          "x": "レーティングの高い選手ほど緊張を高く保ち、Stockfishがより深い木を探索すると緊張は高まった。高い緊張は人間とAIの双方で実力と相関したが、それが実力をもたらすのか、実力から生じるのかは示されなかった。"
+        }
+      ]
+    },
+    "science/science-teamwork-lean-proof": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/original_images/AntigravityTeamwork_HeroFinal.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Google ResearchはAntigravityの/teamworkマルチエージェントシステムの最新成果を公開した。このシステムはGemini 4 Argon、Gemini 4 Carbon、Gemini 4 Hydrogenを用いて人間とAIの協働（human-AI collaboration）を強化し、数学、化学、システムソフトウェア、ML工学にわたる未解決問題に取り組む。並列探索と専用の反証器（Lean 4証明チェッカー、改変していないソフトウェアテストスイート、実行シミュレーターなど）を組み合わせ、コンテキストを分割して各専門エージェントに必要なファイルとツールだけを渡す。"
+        },
+        {
+          "t": "p",
+          "x": "Google、CUHK、USC、CMUの研究者は/teamworkのLong Proofパターンを使い、情報理論における2013年のCourtade–Kumar予想を完全な一般性で証明し、証明全体をLean 4で形式化した（コード5000万行）。/teamwork-LEAPは完全に自律的にWeil予想の機械検証済み形式化を生成し、その規模は28,800回のサブエージェント呼び出しにわたる約180万行のLeanに及ぶ。"
+        },
+        {
+          "t": "p",
+          "x": "ほかにも、30のエージェントによるNMR構造決定でのtop-1完全一致率95%、Zirconマイクロカーネル向けの安全なRustコード約800,000行、八日足らずでEloを約2,600伸ばした9x9の囲碁（Go）エンジンといった成果がある。"
+        },
+        {
+          "t": "video",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/media/AntigravityTeamwork_HillClimbing_1x.mp4"
+        },
+        {
+          "t": "p",
+          "x": "外部の科学者や開発者は本日から、AntigravityとDeep Reviewで/teamworkや/boostとともにGemini 4モデルを利用できる。また、学術研究者10,000人に最上位の利用枠を六か月間無料で提供する募集も始まっている。"
+        }
+      ]
     }
   }
 }

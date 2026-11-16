@@ -1,57 +1,32 @@
 {
   "section": "marketing",
-  "now_iso": "2026-11-15T22:00:36Z",
+  "now_iso": "2026-11-16T22:37:00Z",
   "window_hours": 72,
   "items": [
     {
-      "title": "AI is turning ad tech into a fight for the brain behind the buy",
-      "url": "https://digiday.com/media-buying/ai-is-turning-ad-tech-into-a-fight-for-the-brain-behind-the-buy/",
-      "source": "Digiday",
+      "title": "ChatGPT Ads vs. Google Search Ads: what early data shows",
+      "url": "https://www.searchenginejournal.com/chatgpt-ads-vs-google-search-ads-early-data/597125/",
+      "source": "Search Engine Journal",
       "category": "marketing",
-      "published_iso": "2026-11-13T05:01:00+00:00",
-      "excerpt": "AI is reshaping ad tech on two fronts at once: how marketing technology selects and delivers ads, and how consumers discover and buy products, turning the contest into who owns the decision-making 'brain' behind each buy.",
-      "og_image": "https://digiday.com/wp-content/uploads/sites/3/2025/10/ai-workflows-digiday.jpg"
-    },
-    {
-      "title": "AI Creative In The Programmatic Loop",
-      "url": "https://www.adexchanger.com/the-big-story/ai-creative-in-the-programmatic-loop/",
-      "source": "AdExchanger",
-      "category": "marketing",
-      "published_iso": "2026-11-13T05:40:29+00:00",
-      "excerpt": "The latest bolt-on to a DSP is AI-generated creative rather than media or measurement: AdExchanger unpacks Viant folding Waymark's AI video creative into its buying platform, and what The Trade Desk might buy next. (Hook is an acquisition; AI creative-in-DSP is the substance.)",
-      "og_image": "https://www.adexchanger.com/wp-content/uploads/2023/10/Big-Story-podcast-square.jpg",
+      "published_iso": "2026-11-16T13:00:58+00:00",
+      "excerpt": "Early data comparing ChatGPT Ads and Google Search ads: ChatGPT is competing for ad budgets, but its ad visits earned less in early data and per-dollar returns are still estimated; revenue and survey data don't yet show how much spend has left search.",
+      "og_image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/chatgpt-google-search-ads-1600x840-1.jpg",
       "history_match": {
-        "score": 0.151,
-        "date": "2026-11-05",
-        "url": "https://www.adweek.com/programmatic/the-trade-desk-and-dstillery-link-ai-agents-to-reshape-audiences-mid-campaign/",
-        "title": "The Trade Desk and Dstillery Link AI Agents to Reshape Audiences Mid-Campaign",
-        "band": "related"
+        "score": 0.424,
+        "date": "2026-11-03",
+        "url": "https://www.searchenginejournal.com/google-search-chatgpt-ad-revenue-per-visit/595596/",
+        "title": "Google Search Ad Visits Out-Earned ChatGPT Ads In U.S.",
+        "band": "likely-repeat"
       }
     },
     {
-      "title": "Google's new parameter shows when an 'exact' click was really AI Max",
-      "url": "https://ppc.land/googles-new-parameter-shows-when-an-exact-click-was-really-ai-max/",
-      "source": "PPC Land",
+      "title": "New Google AdMob AI tools help app creators build, fix, and grow faster",
+      "url": "https://blog.google/products/publisher-connections/new-google-admob-tools/",
+      "source": "Google Blog",
       "category": "marketing",
-      "published_iso": "2026-11-15T19:35:14+00:00",
-      "excerpt": "A new ValueTrack value 'a' in {search_term_matchtype} flags clicks that came from AI Max expansion in Search campaigns, even on exact-match keywords, giving advertisers a way to see how much traffic Google's AI is matching beyond their keywords.",
-      "og_image": "https://ppc.land/content/images/2026/11/google-ads-search-term-matchtype-valuetrack-ai-max-clicks-exact-label-conveyor-parcel-stamp.jpg",
-      "history_match": {
-        "score": 0.231,
-        "date": "2026-10-27",
-        "url": "https://www.seroundtable.com/google-ads-1-click-ai-max-experiment-42324.html",
-        "title": "Google Ads 1-Click AI Max Experiment",
-        "band": "related"
-      }
-    },
-    {
-      "title": "eBay bans the robot shopper, unless eBay sends the invitation",
-      "url": "https://ppc.land/ebay-bans-the-robot-shopper-unless-ebay-sends-the-invitation/",
-      "source": "PPC Land",
-      "category": "marketing",
-      "published_iso": "2026-11-13T14:20:29+00:00",
-      "excerpt": "eBay's user agreement now requires prior express permission for buy-for-me AI agents and LLM-driven bots, and Meta's Muse agent access to eBay has turned patchy, another major marketplace gating which shopping agents may transact.",
-      "og_image": "https://ppc.land/content/images/2026/11/ebay-user-agreement-bans-buy-for-me-ai-agents-without-permission-orange-velvet-rope-teal-errand-box-at-door.jpg"
+      "published_iso": "2026-11-16T17:00:00+00:00",
+      "excerpt": "Google introduces Ask AdMob, a Gemini agent that uses peer benchmarks to flag setup errors, suggest SDK bidders and spot floor-price discrepancies, plus agent skills/MCP so coding agents can set up app ad monetization in code.",
+      "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_share.width-1300.jpg"
     },
     {
       "title": "Lunio cuts Google brand bids when no rival is in the auction",
@@ -59,126 +34,124 @@
       "source": "PPC Land",
       "category": "marketing",
       "published_iso": "2026-11-14T19:55:09+00:00",
-      "excerpt": "Lunio and Revvim launched 'Agentic Bid Optimization', which automatically drops Google Search and Shopping brand bids to a minimum when no competitor is in the auction and restores them when one appears, charging only a share of the savings.",
-      "og_image": "https://ppc.land/content/images/size/w1200/2026/11/lunio-revvim-agentic-bid-optimization-google-brand-search-uncontested-auctions-toll-plaza-empty-lane.jpg"
+      "excerpt": "A Revvim-powered agentic bid tool from Lunio moves uncontested Google Search and Shopping brand clicks to a low-bid campaign within the hour, cutting brand-search spend when no competitor is bidding.",
+      "og_image": "https://ppc.land/content/images/2026/11/lunio-revvim-agentic-bid-optimization-google-brand-search-uncontested-auctions-toll-plaza-empty-lane.jpg"
     },
     {
-      "title": "현대백화점, 챗GPT에 '더현대 하이' 플러그인 서비스 출시",
-      "url": "https://www.etnews.com/20261115000021",
-      "source": "전자신문",
+      "title": "Google steers holiday hotel, dinner and ticket bookings into AI Mode",
+      "url": "https://ppc.land/google-steers-holiday-hotel-dinner-and-ticket-bookings-into-ai-mode/",
+      "source": "PPC Land",
       "category": "marketing",
-      "published_iso": "2026-11-15T09:21:48+09:00",
-      "excerpt": "현대백화점이 오픈AI '앱스 인 챗GPT'에 프리미엄 전문몰 '더현대 하이' 전용 쇼핑 플러그인을 내놨다. 챗GPT 대화창에서 선물 추천, 매장 안내, 구매 연결까지 이어지는 국내 백화점의 첫 챗GPT 커머스 접점이다.",
-      "og_image": "https://img.etnews.com/news/article/2026/11/15/news-p.v1.20261115.043d6ceedf144d1d9c9992c332281857_P1.png"
-    },
-    {
-      "title": "AI가 라이브 만들고, 크리에이터가 판로 넓힌다…모비두의 '올웨이즈 온' 전략",
-      "url": "https://byline.network/2026/11/13_291283845/",
-      "source": "Byline Network",
-      "category": "marketing",
-      "published_iso": "2026-11-13T16:27:58+09:00",
-      "excerpt": "라이브커머스 솔루션 기업 모비두가 AI가 라이브 방송을 만들고 크리에이터가 판로를 넓히는 방식으로, 정해진 시간에만 팔던 라이브커머스를 언제든 살 수 있는 '올웨이즈 온' 커머스로 바꾸겠다고 밝혔다.",
-      "og_image": "https://cdn.byline.network/wp-content/uploads/2026/11/20261113_mobidoo.jpeg"
-    },
-    {
-      "title": "AI Goes Mainstream for Holiday Shopping, but Humans and Video in Ads Still Win Trust",
-      "url": "https://www.adweek.com/adweek-wire/ai-goes-mainstream-for-holiday-shopping-but-humans-and-video-in-ads-still-win-trust/",
-      "source": "ADWEEK (Adweek Wire / Equativ release)",
-      "category": "marketing",
-      "published_iso": "2026-11-13T09:21:10-05:00",
-      "excerpt": "Equativ's AI Consumer Pulse survey of 1,000 US/Canada shoppers: 65.7% have used AI for gift ideas or price comparison, but 29.8% react negatively to AI-generated holiday ads vs 18.3% positively (44.2% among 18-24s). NOTE: vendor press release on Adweek Wire, not newsroom reporting.",
-      "og_image": "https://static-www.adweek.com/wp-content/uploads/2026/11/Adweek-hero-16-9-9.png?w=600&h=315&crop=1",
+      "published_iso": "2026-11-16T21:23:37+00:00",
+      "excerpt": "Hotel rooms now book inside Google's AI Mode via Google Pay in the US with partners as merchant of record, and ticket drops get tracked too - pulling holiday purchase transactions into Google's AI surface.",
+      "og_image": "https://ppc.land/content/images/2026/11/google-ai-mode-holiday-guide-hotel-dinner-ticket-bookings-google-pay-funnel-key-plate-ticket.jpg",
       "history_match": {
-        "score": 0.153,
-        "date": "2026-11-15",
-        "url": "https://www.socialmediatoday.com/news/pinterest-adds-holiday-shopping-tools/874575/",
-        "title": "Pinterest adds holiday shopping tools",
+        "score": 0.181,
+        "date": "2026-11-05",
+        "url": "https://www.seroundtable.com/google-ai-mode-four-ads-42443.html",
+        "title": "Google AI Mode Now With Up To Four Ads",
         "band": "related"
       }
     },
     {
-      "title": "AI가 쇼핑 대신 하는 시대…대한상의, 유통업계 대응 전략 논의",
-      "url": "https://stock.mk.co.kr/news/view/1197965",
-      "source": "매일경제 (연합뉴스)",
+      "title": "Amazon's $78bn ad machine now sets the defaults agencies buy inside",
+      "url": "https://ppc.land/amazons-78bn-ad-machine-now-sets-the-defaults-agencies-buy-inside/",
+      "source": "PPC Land",
       "category": "marketing",
-      "published_iso": "2026-11-13T07:30:01+09:00",
-      "excerpt": "대한상의가 '에이전틱 AI 시대, 유통산업의 변화와 미래 경쟁력'을 주제로 유통위원회를 열고, 메타 '뮤즈' 등 개인 AI 에이전트의 쇼핑 활용 사례를 공유하며 AI 연동 거래 인프라 구축 등 공동 대응을 논의했다. (행사성 기사, 약한 후보)",
-      "og_image": "https://stock.mk.co.kr/photos/20261113/AKR20261112140700003_01_i_P4.jpg"
+      "published_iso": "2026-11-14T14:06:13+00:00",
+      "excerpt": "Analysis of how Amazon's AI-automated DVA+ defaults, a cheap DSP and Prime Video inventory are shifting budget control from agencies to Amazon itself.",
+      "og_image": "https://ppc.land/content/images/2026/11/amazon-ads-78bn-dva-plus-defaults-agencies-stranded-desk-conveyor-belt.jpg",
+      "history_match": {
+        "score": 0.177,
+        "date": "2026-11-15",
+        "url": "https://ppc.land/amazon-caps-its-automated-dva-campaigns-at-20-products/",
+        "title": "Amazon caps its automated DVA+ campaigns at 20 products",
+        "band": "related"
+      }
     },
     {
-      "title": "\"AI가 고르는 쇼핑 시대\"…카페24, 내년 자사몰 성장 전략 제시",
-      "url": "https://www.news1.kr/industry/sb-founded/6352988",
-      "source": "뉴스1",
+      "title": "J. Crew introduces AI-powered Style Advisor",
+      "url": "https://www.retaildive.com/news/j-crew-introduces-ai-style-advisor/874596/",
+      "source": "Retail Dive",
       "category": "marketing",
-      "published_iso": "2026-11-13T10:37:43+09:00",
-      "excerpt": "카페24가 AI가 상품을 찾고 비교하는 쇼핑 환경에 맞춘 자사몰 성장 전략을 12월 '익스팬드 2027'에서 제시한다고 밝혔다. (행사 예고성, 약한 후보)",
-      "og_image": "https://i3n.news1.kr/system/photos/2026/11/13/8212353/high.jpg"
+      "published_iso": "2026-11-16T17:09:00+00:00",
+      "excerpt": "J. Crew launches a desktop AI Style Advisor built with Anthropic that goes beyond single-product search to deliver styled outfit recommendations ahead of the holidays.",
+      "og_image": "https://imgproxy.divecdn.com/5ftKNg6KC4Z8jjX9jEYHUiERaxRZ2VEbofJSIaq4tcw/g:nowe:0:70/c:640:362/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8xNDU3OTUzMjMxOF84ZjkxMjlmMzljX3ouanBn.webp"
     },
     {
-      "title": "日, AI로 복제한 유명인 목소리·사진 무단 상업이용 규제 추진",
-      "url": "https://www.yna.co.kr/view/AKR20261114030800073",
-      "source": "연합뉴스",
+      "title": "Deloitte Digital's new agentic tools aim to fix messy marketing workflows",
+      "url": "https://www.marketingdive.com/news/deloitte-digitals-new-agentic-tools-aim-to-fix-messy-marketing-workflows/874779/",
+      "source": "Marketing Dive",
       "category": "marketing",
-      "published_iso": "2026-11-14T13:08:53+09:00",
-      "excerpt": "일본 경제산업성이 생성형 AI로 복제한 유명인의 목소리·초상을 상품 판매나 광고에 무단 활용하는 행위를 법으로 규제하는 방안을 추진한다. (off-list: allowed 국내 매체에 동일 기사 없음)",
-      "og_image": "https://img7.yna.co.kr/photo/cms/2024/05/24/30/PCM20240524000130990_P4.jpg"
+      "published_iso": "2026-11-16T17:09:28+00:00",
+      "excerpt": "Deloitte Digital's Converge by Front Office suite uses agents to link brands' existing marketing tools and data, responding to survey data that 76% of brand leaders say their foundations don't support AI value.",
+      "og_image": "https://imgproxy.divecdn.com/brpFUOmKGgLRhh-xLyLUDTK-6K6SF0kqumu6JgpOA3I/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMDQ0NDg4NjUyLmpwZw==.webp"
     },
     {
-      "title": "현대홈쇼핑, 쇼호스트·카메라 없는 '100% AI 방송' 도입",
-      "url": "https://zdnet.co.kr/view/?no=20261115122232",
-      "source": "ZDNet Korea",
+      "title": "How Bustle Digital Group is helping Pampers and Innisfree show up in AI recommendations",
+      "url": "https://digiday.com/media/how-bustle-digital-group-is-helping-pampers-and-innisfree-show-up-in-ai-recommendations/",
+      "source": "Digiday",
       "category": "marketing",
-      "published_iso": "2026-11-15T12:23:41+09:00",
-      "excerpt": "현대홈쇼핑이 쇼호스트와 카메라 촬영 없이 AI가 음성과 영상을 모두 생성한 홈쇼핑 방송을 데이터홈쇼핑 채널에 선보인다. 제작 비용을 줄이고 촬영으로 구현하기 어려운 상품 정보까지 시각화한다는 구상이다.",
-      "og_image": "https://image.zdnet.co.kr/2026/11/15/ec3435b603102586bf7d4d94af724d69.png"
+      "published_iso": "2026-11-16T05:01:00+00:00",
+      "excerpt": "Bustle Digital Group has teamed with Profound to sell brands like Pampers and Innisfree a service that boosts their visibility in AI chatbot recommendations.",
+      "og_image": "https://digiday.com/wp-content/uploads/sites/3/2026/04/ai-recommends-digiday.jpg"
     },
     {
-      "title": "AI發 구글 광고 위기론 현실로...AI 검색 수익화 심판대",
-      "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=715539",
-      "source": "디지털투데이",
+      "title": "OpenAI ChatGPT Business Agent - first look",
+      "url": "https://www.seroundtable.com/openai-chatgpt-business-agent-42536.html",
+      "source": "Search Engine Roundtable",
       "category": "marketing",
-      "published_iso": "2026-11-15T08:32:51+09:00",
-      "excerpt": "3분기를 기점으로 구글 검색 광고 매출 성장세가 둔화되면서, AI 검색 확산에 따른 자기잠식(카니발리제이션) 우려가 현실화하고 AI 검색 화면의 광고 수익화가 시험대에 올랐다는 분석.",
-      "og_image": "https://cdn.digitaltoday.co.kr/news/photo/202611/715539_662841_5958.jpg"
+      "published_iso": "2026-11-16T12:31:00+00:00",
+      "excerpt": "Brand business agents built with ChatGPT Business Hub's agent builder (e.g. Chewy) are starting to appear inside ChatGPT, giving a first look at how customer-facing brand agents surface to shoppers.",
+      "og_image": "https://images.seroundtable.com/chewy-chatgpt-business-agent-kuvsURfi.jpg",
+      "history_match": {
+        "score": 0.305,
+        "date": "2026-11-11",
+        "url": "https://digiday.com/marketing/openais-new-business-agents-give-brands-a-free-way-into-the-conversation-its-also-selling-as-an-ad/",
+        "title": "OpenAI's new business agents give brands a free way into the conversation it's also selling as an ad",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Jordan Belfort's new AI voice startup, Tone, wants to sell like the 'Wolf of Wall Street'",
+      "url": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
+      "source": "TechCrunch",
+      "category": "marketing",
+      "published_iso": "2026-11-16T17:10:00+00:00",
+      "excerpt": "Belfort's Tone builds an AI sales voice agent he claims already closes deals almost as well as top human salespeople, and expects to catch up within a year.",
+      "og_image": "https://techcrunch.com/wp-content/uploads/2026/11/Jordan-Belfort.jpeg?resize=1200,675"
+    },
+    {
+      "title": "LinkedIn says influential voices are critical for AI chatbot citations",
+      "url": "https://www.socialmediatoday.com/news/linkedin-says-influential-voices-are-critical-for-ai-chatbot-citations/874712/",
+      "source": "Social Media Today",
+      "category": "marketing",
+      "published_iso": "2026-11-15T22:27:00+00:00",
+      "excerpt": "LinkedIn Ads' AI search marketing lead says AI models reward credibility, so B2B brands' executive and expert voices on LinkedIn drive citations in AI chatbots.",
+      "og_image": "https://imgproxy.divecdn.com/_FAVahfSPYL8PCWffrC19APvkjVWahSqPoF6-JDjk0g/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9saW5rZWRpbl9haV9yYW5raW5nX3JlcG9yMi5wbmc=.webp"
+    },
+    {
+      "title": "네이버 vs 카카오, AI 에이전트 경쟁 본격화…외부 서비스 연결 승부",
+      "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=715772",
+      "source": "Digital Today",
+      "category": "marketing",
+      "published_iso": "2026-11-17T07:30:00+09:00",
+      "excerpt": "Naver and Kakao disclosed on Q3 calls that their AI agents will extend to external services, linking search through booking, purchase and payment to win transaction share.",
+      "og_image": "https://cdn.digitaltoday.co.kr/news/photo/202611/715772_663055_1247.png"
     }
   ],
   "dedup": {
-    "dropped": 2,
+    "dropped": 1,
     "kept": 11,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
     "dropped": [],
-    "review": 3,
+    "review": 4,
     "same_story_pairs": []
   },
   "history_digest": [
-    {
-      "date": "2026-10-17",
-      "title": "Thrad commits $1m in ad spend to AI chat apps testing in-chat ads",
-      "url": "https://ppc.land/thrad-commits-1m-in-ad-spend-to-ai-chat-apps-testing-in-chat-ads/"
-    },
-    {
-      "date": "2026-10-17",
-      "title": "ChatGPT Ads introduces new measurement tools and visual ad formats",
-      "url": "https://searchengineland.com/chatgpt-ads-introduces-new-measurement-tools-and-visual-ad-formats-496998"
-    },
-    {
-      "date": "2026-10-17",
-      "title": "Google begins testing ads in AI Mode for users with Personal Intelligence enabled",
-      "url": "https://searchengineland.com/google-begins-testing-ads-in-ai-mode-for-users-with-personal-intelligence-enabled-496990"
-    },
-    {
-      "date": "2026-10-17",
-      "title": "How ChatGPT Targets Ads To You Based On Your Prompts, Phone Number, and Email",
-      "url": "https://www.404media.co/how-chatgpt-targets-ads-to-you-based-on-your-prompts-phone-number-and-email/"
-    },
-    {
-      "date": "2026-10-17",
-      "title": "Meta's New Terms Expand Crawling Rights Beyond Advertisers",
-      "url": "https://www.searchenginejournal.com/metas-new-terms-expand-crawling-rights-beyond-advertisers/593217/"
-    },
     {
       "date": "2026-10-18",
       "title": "Brands turn to content series and Jimi Hendrix to improve AI search performance",
@@ -833,6 +806,31 @@
       "date": "2026-11-15",
       "title": "Amazon has a plan to index the world's online shopping data",
       "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search"
+    },
+    {
+      "date": "2026-11-16",
+      "title": "AI is turning ad tech into a fight for the brain behind the buy",
+      "url": "https://digiday.com/media-buying/ai-is-turning-ad-tech-into-a-fight-for-the-brain-behind-the-buy/"
+    },
+    {
+      "date": "2026-11-16",
+      "title": "eBay bans the robot shopper, unless eBay sends the invitation",
+      "url": "https://ppc.land/ebay-bans-the-robot-shopper-unless-ebay-sends-the-invitation/"
+    },
+    {
+      "date": "2026-11-16",
+      "title": "Google's new parameter shows when an 'exact' click was really AI Max",
+      "url": "https://ppc.land/googles-new-parameter-shows-when-an-exact-click-was-really-ai-max/"
+    },
+    {
+      "date": "2026-11-16",
+      "title": "현대백화점, 챗GPT에 '더현대 하이' 플러그인 서비스 출시",
+      "url": "https://www.etnews.com/20261115000021"
+    },
+    {
+      "date": "2026-11-16",
+      "title": "현대홈쇼핑, 쇼호스트·카메라 없는 '100% AI 방송' 도입",
+      "url": "https://zdnet.co.kr/view/?no=20261115122232"
     }
   ]
 }

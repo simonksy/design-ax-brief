@@ -4943,6 +4943,142 @@
           "x": "Whether this ships is still up in the air. Reuters says it’s unclear “if or when this plan may be implemented,” but the document included an October 1st, 2027 release date. Amazon said “the existence of a brainstorming document such as this one doesn’t necessarily reflect our current plans.”"
         }
       ]
+    },
+    "marketing/google-aimode-hotel-booking": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/11/google-ai-mode-holiday-guide-hotel-dinner-ticket-bookings-google-pay-funnel-key-plate-ticket.jpg",
+          "cap": "Google's holiday guide sends hotel, dinner and ticket bookings through AI Mode, paid with Google Pay"
+        },
+        {
+          "t": "p",
+          "x": "Google published a holiday guide, \"4 ways Search can help with your holiday plans,\" that routes seasonal chores through Search Live, Lens and AI Mode, with hotel rooms, restaurant tables and event tickets presented as things Search can reserve rather than merely find. None of the features is labeled as a launch."
+        },
+        {
+          "t": "p",
+          "x": "For hotels, AI Mode offers \"a visual list of options to compare amenities, guest reviews, and photos.\" Users can click out to book with travel partners or, \"if you see 'Continue on Google,' complete your hotel reservation right in AI Mode using Google Pay.\" Hotel booking in AI Mode began rolling out on August 27, 2026, in the US and in English, with ten partners including Booking.com, Expedia, Hilton and Marriott, which act as merchant of record."
+        },
+        {
+          "t": "p",
+          "x": "Google's help page says the feature is only available in the US, in English for select properties, and does not support promotional codes, reward points redemption or loyalty numbers."
+        },
+        {
+          "t": "p",
+          "x": "Dinner and tickets follow the same template, and AI Mode tasks will \"track ticket drops and price changes behind the scenes,\" notifying users through the Google app. For marketers, the booking partners keep merchant-of-record status, while Google keeps the interface, the Google Pay credential and the alert that brings the shopper back."
+        }
+      ]
+    },
+    "marketing/jcrew-style-advisor-anthropic": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/f5YC8XCfhWSHGirICm9w9L7klu_UcwXzWbVHVxach0Q/g:nowe:0:70/c:640:362/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8xNDU3OTUzMjMxOF84ZjkxMjlmMzljX3ouanBn.webp",
+          "cap": "J. Crew's Style Advisor uses AI to deliver completed looks customers can shop."
+        },
+        {
+          "t": "p",
+          "x": "J. Crew has launched an AI-powered wardrobe consultant called Style Advisor, created in partnership with Anthropic and powered \"by a variety of Claude models.\" The company said it is \"driven by inspiration and discovery rather than searching for individual products.\""
+        },
+        {
+          "t": "p",
+          "x": "The conversational chatbot features \"an extensive library of proprietary imagery\" and lets customers use natural language queries to get \"the kind of advice J. Crew stylists have always offered.\" It's available now on the J. Crew U.S. website for men's and women's styles."
+        },
+        {
+          "t": "p",
+          "x": "Style Advisor helps customers assemble head-to-toe looks drawn from \"thousands of outfit pairings from J.Crew's own photo shoots.\" Customers can start with an event, such as a job interview or birthday party, or build around a specific item, and the tool will \"become more personal, tailoring suggestions to each customer's preferences and past purchases.\""
+        },
+        {
+          "t": "p",
+          "x": "\"Through our work with Anthropic, we're bringing decades of J. Crew styling, merchandising and creative expertise together to help shape what's next for customer behavior,\" said Libby Wadle, CEO of J. Crew Group."
+        },
+        {
+          "t": "p",
+          "x": "Rival Ralph Lauren launched its own AI styling assistant just over a year ago, and Stitch Fix launched one in July. J. Crew currently operates 114 U.S. retail stores."
+        }
+      ]
+    },
+    "marketing/bustle-profound-ai-visibility": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://digiday.com/wp-content/uploads/sites/3/2026/04/ai-recommends-digiday.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Bustle Digital Group is using Profound's AI measurement tools to help brands, including Pampers and Innisfree, show up in AI-generated recommendations. The GEO offering, called ECHO internally, uses Profound analytics and AI agents trained on BDG content to generate creative briefs. At least three brands have paid for it."
+        },
+        {
+          "t": "p",
+          "x": "In one campaign, Innisfree's visibility across 200 tracked skincare prompts grew 30%, while Bustle's citation rank rose from #709 to #12, according to a BDG case study based on Profound data."
+        },
+        {
+          "t": "img",
+          "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Innisfree_ChatGPTScreenshot-1.jpeg",
+          "cap": "Source: BDG"
+        },
+        {
+          "t": "p",
+          "x": "Pampers moved from #2 to #1 in AI visibility for fragrance-free diaper questions following a Scary Mommy explainer."
+        },
+        {
+          "t": "p",
+          "x": "BDG and Profound first analyze eight to 10 topics and 25 to 50 prompts each; agents then design briefs that BDG's editors write to, and content is cross-promoted on Reddit. \"The advertiser has no hand in the actual creative development at all,\" said Graham Howes, svp of distribution and AI intelligence at BDG. Results are tracked mainly across ChatGPT, Gemini and Google's AI Overviews. Profound does not receive a cut of these deals."
+        }
+      ]
+    },
+    "marketing/tone-belfort-ai-sales-voice": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/11/Jordan-Belfort.jpeg?resize=1200,675",
+          "cap": "Image Credits:Osiris Media, Inc"
+        },
+        {
+          "t": "p",
+          "x": "Jordan Belfort, the self-proclaimed \"Wolf of Wall Street,\" is building a voice-based AI platform called Tone. The secret sauce, he says, is that it imbues its voices with the kind of tonality that wins deals, for example by phrasing declarative statements as questions and even whispering at times."
+        },
+        {
+          "t": "p",
+          "x": "Belfort says Tone is already used by companies that have more sales leads than their human teams can handle, and it is launching a self-service platform for creators and authors who want \"expressive AI-generated narration,\" with voice cloning rolling out. His co-founder is investor Shervin Pishevar; TechCrunch notes it can't independently verify that the technology works as described."
+        },
+        {
+          "t": "p",
+          "x": "\"We have law firms and health insurance companies. We do a lot in polling and automobiles,\" Belfort says. \"Our latency is like 600 milliseconds… It does literally the whole entire sale.\""
+        },
+        {
+          "t": "p",
+          "x": "On close rates: \"I still don't think it's quite as good as a top producer. A top producer in the field would outdo it call for call. I think that will change in the next six months to a year.\" Tone uses \"our own very small, very light models,\" and he thinks it \"will significantly outperform a mediocre closer.\""
+        },
+        {
+          "t": "p",
+          "x": "Belfort puts revenue at \"probably about a million bucks — $700,000, maybe,\" with about $10 million raised. Tone only calls opt-in leads or existing customers, he says."
+        }
+      ]
+    },
+    "marketing/google-aimax-matchtype-param": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/11/google-ads-search-term-matchtype-valuetrack-ai-max-clicks-exact-label-conveyor-parcel-stamp.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Google Ads has added a ValueTrack parameter, {search_term_matchtype}, that records inside the click URL whether a search term reached an ad through the advertiser's own keyword or through an AI Max expansion. PPC News Feed reported it on November 11, 2026, crediting Hana Kobzová with spotting it on Google's help page; the page gives no date for the change."
+        },
+        {
+          "t": "p",
+          "x": "It records \"e\" for exact, \"p\" for phrase, \"b\" for broad, or \"a\" for AI Max broad expansions and keywordless matches. The older {matchtype} labels AI Max broad expansions with the keyword's own match type, so a click on an exact match keyword served through AI Max arrived carrying matchtype=e. Only the new parameter, returning \"a,\" marks the difference."
+        },
+        {
+          "t": "p",
+          "x": "Google's \"Tracking AI Max matches\" guidance combines {matchtype}, {targetid}, {keyword} and {search_term_matchtype} to sort traffic into standard keyword matches, AI Max broad expansions, AI Max keywordless expansions and AI Max keywordless URL rules. Smarter Ecommerce found the AI Max-expanded share of exact match impressions rose to nearly 29% by July 2026."
+        },
+        {
+          "t": "p",
+          "x": "The parameter does not change how AI Max matches queries, how Google bids or what advertisers pay. It changes only what can be measured downstream, in analytics, CRM and reporting systems that read landing page URLs."
+        }
+      ]
     }
   }
 }

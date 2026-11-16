@@ -1,0 +1,113 @@
+{
+  "meta": {
+    "issue": "AI 음악, 있는 곡에 맞추다",
+    "date": "2026.11.16",
+    "section": "MUSIC",
+    "accent": "#eb367f",
+    "note": "원문 4건 대조: SOS 기사(2026.11.09 게재)에서 '생성 기능 없음'·조정 항목 확인, arXiv 초록 3건에서 MusicFlux 조건화 2방식·MusicGen 어댑터·GTZAN·드럼 제거 견고성·SimDPS의 RePaint·DPS 대비를 확인. eyebrow는 카드 날짜, 출처 날짜는 원문 게재·제출일. 사진은 VSL 1장만, 나머지는 quote/stat.",
+    "sources": [
+      "Sound On Sound — VSL introduce Vienna Performer (2026.11.09)",
+      "arXiv — MusicFlux: Flexible Conditioning for Text-Guided Music Generation and Editing (2026.11.10)",
+      "arXiv — Can Music Generation Models Tap Along? Evaluating Generative Approaches to Beat Tracking (2026.11.11)",
+      "arXiv — Music Inpainting With Similarity-Guided Latent Diffusion (2026.11.08)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 음악 · 11.11~11.16",
+      "thread": [
+        {
+          "d": "11.11",
+          "t": "연주 입히기",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        },
+        {
+          "d": "11.12",
+          "t": "텍스트 편집",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        },
+        {
+          "d": "11.15",
+          "t": "따라 치기",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        },
+        {
+          "d": "11.16",
+          "t": "공백 메우기",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        }
+      ],
+      "thread_note": "AI 음악 도구가 새 곡을 짓기보다 이미 있는 음악에 맞춰 손보는 쪽으로 간다",
+      "eyebrow": "흐름 · 음악",
+      "headline": "새 곡보다\n있는 곡에 맞추기",
+      "body": "한 건씩 보면 플러그인 하나, 논문 하나다. 그런데 엿새 사이 넷 모두 이미 있는 음악을 입력으로 삼았다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.11.11",
+      "headline": "음표는 두고\n연주만 입힌다",
+      "body": "VSL Vienna Performer는 사용자 MIDI의 프레이징·비브라토·타이밍을 다듬어 오디오로 낸다. 생성 기능은 없다.",
+      "foot": "2026.11.11",
+      "_src": "https://www.soundonsound.com/news/vsl-introduce-vienna-performer",
+      "_id": "vsl-vienna-performer",
+      "media": "pipeline/media/vsl-vienna-performer.jpg"
+    },
+    {
+      "n": 3,
+      "kind": "quote",
+      "eyebrow": "2026.11.12",
+      "headline": "텍스트로\n있는 녹음을 고친다",
+      "body": "MusicFlux는 사전학습 텍스트-오디오 모델을 편집기로 바꿨다. 원곡을 맥락으로 넣는 조건화 방식 두 가지를 냈다.",
+      "foot": "2026.11.12",
+      "_src": "https://arxiv.org/abs/2611.13834",
+      "_id": "musicflux-text-music-editing",
+      "quote": "음악 편집은\n원래 속성을 지키며\n기존 녹음을 바꾸는 일",
+      "quote_by": "MusicFlux 논문 초록 · arXiv"
+    },
+    {
+      "n": 4,
+      "kind": "stat",
+      "eyebrow": "2026.11.15",
+      "headline": "곡에 맞춰\n드럼을 친다",
+      "body": "어댑터를 단 MusicGen이 입력곡에 맞는 타악 트랙을 만들고 박을 뽑는다. GTZAN에서 최신 비트 추적기에 근접했다.",
+      "foot": "2026.11.15",
+      "_src": "https://arxiv.org/abs/2611.14971",
+      "_id": "musicgen-beat-tracking-adapter",
+      "stat_top": "입력곡",
+      "stat_arrow": "MusicGen + 오디오 조건 어댑터",
+      "stat_bottom": "맞춰 치는 드럼",
+      "stat_strike": false
+    },
+    {
+      "n": 5,
+      "kind": "stat",
+      "eyebrow": "2026.11.16",
+      "headline": "빈 구간은\n같은 곡에서 찾는다",
+      "body": "SimDPS는 같은 녹음에서 비슷한 구간을 찾아 확산 모델이 긴 공백을 메우게 이끈다. RePaint·DPS보다 나았다.",
+      "foot": "2026.11.16",
+      "_src": "https://arxiv.org/abs/2611.11522",
+      "_id": "simdps-music-inpainting",
+      "stat_top": "긴 공백",
+      "stat_arrow": "같은 녹음의 닮은 구간을 길잡이로",
+      "stat_bottom": "자연스러운 복원",
+      "stat_strike": false
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

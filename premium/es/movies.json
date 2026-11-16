@@ -11051,6 +11051,137 @@
           "x": "Casi el 100% de quienes la usan a diario o cada semana cree que la AI solo debe potenciar la visión creativa. Solo el 7.5% quería que la AI ayudara a montar planos o primeros cortes, y las preocupaciones éticas, de derechos de autor y de seguridad suponían casi el 50% de las barreras para usar AI. “Solo queremos asegurarnos de que se nos incluya en la conversación sobre cómo se va a usar”, dijo Shock."
         }
       ]
+    },
+    "movies/cnc-ai-dubbing-funding": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://slator.com/assets/2026/11/velora-473c5db10304df06.png",
+          "cap": "“La fin du cinéma”"
+        },
+        {
+          "t": "p",
+          "x": "El Centre national du cinéma et de l’image animée (CNC) de Francia dejará de financiar proyectos de doblaje, subtitulado o audiodescripción realizados sin ningún creador humano. El consejo aprobó el cambio el 14 de octubre de 2026; el texto, publicado en el Journal officiel el 31 de octubre, limita el gasto de localización subvencionable a autores e intérpretes humanos y al trabajo técnico en torno a su producción."
+        },
+        {
+          "t": "p",
+          "x": "En películas, obras audiovisuales y videojuegos, la escritura, el desarrollo y la producción deben “involucrar al menos a un autor”; la animación necesita al menos un “autor gráfico”, y la música original CNC-funded (financiada por el CNC), un compositor humano. Las ayudas al doblaje solo pueden pagar a quienes escriben el texto y a los actores de voz que lo interpretan, además de la grabación y la mezcla; las de subtitulado cubren a los autores humanos y la sincronización."
+        },
+        {
+          "t": "p",
+          "x": "Las normas no llegan a prohibir la AI por completo. El Ministerio de Cultura señaló que “un uso estratégico de la AI puede [no obstante] permitir a los profesionales del sector adquirir herramientas al servicio del proceso creativo y técnico”, pero que “la creación debe seguir siendo ante todo una labor humana”. La norma entró en vigor el 1 de noviembre de 2026 para los proyectos que se presenten a partir de esa fecha."
+        }
+      ]
+    },
+    "movies/hpa-net-ai-second-unit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/11/HPA-NET-Roundtable-Oct-6-2026-IMG_1847-copy-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "En octubre, la HPA celebró sus NET Roundtables en el Sheraton Universal de Los Ángeles en torno a la AI como “segunda unidad”: un equipo que trabaja en paralelo sobre un encargo definido mientras los responsables siguen al mando. “Esta te reporta a ti”. Alex Daro presentó “Running a Second Unit: Compose, Gate and Cost an Unattended AI Pipeline” para directores y supervisores de posproducción."
+        },
+        {
+          "t": "p",
+          "x": "Al preguntarles qué tarea nunca cederían a la AI, la mayoría de las respuestas volvieron a la resolución, la profundidad de bits y el control. La sala se dividió sobre si la AI está lista para sustituir al CG. Un punto no necesitó discusión: las repeticiones son la parte más cara de un plano de AI, es decir, cada toma necesaria para obtener una entregable más el tiempo dedicado a elegir."
+        },
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/11/HPA-NET-Roundtable-Oct-6-2026-IMG_1831.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Lo que la posproducción usa hoy trabaja sobre material que ya tiene: eliminación de fondos, aumento de resolución y extensiones de decorado. La mayoría de los moderadores coincidió en que importa ejecutar la AI en local, en hardware que controla la propia instalación, y en que las credenciales de contenido importan cuando la AI forma parte de un flujo de posproducción tradicional. El consejo: empezar por trabajos que se puedan verificar contra la placa, mantener los medios en el propio hardware y presupuestar repeticiones, no renders."
+        }
+      ]
+    },
+    "movies/resolve-ai-assistant-editing": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/11/DaVinci-Resolve-21-EDIT-copy.jpg"
+        },
+        {
+          "t": "p",
+          "x": "La mesa redonda de postPerspective pregunta a fabricantes de herramientas y creadores cómo los creadores de redes sociales adoptan flujos de trabajo de la TV episódica y el cine. Bob Caniglia, de Blackmagic, dice que los creadores usan las líneas Pocket Cinema Camera, Micro Studio Camera y Pyxis y DaVinci Resolve, y señala el crecimiento de los videopódcasts, las producciones de formato largo y los microfilmes verticales."
+        },
+        {
+          "t": "p",
+          "x": "Sobre la AI, Caniglia afirma: “Aunque no hablo de herramientas de AI generativa. Las herramientas de AI no generativa para cine, como las que tenemos en DaVinci Resolve, se encargan de las tareas repetitivas y permiten a los creadores centrarse en su arte”."
+        },
+        {
+          "t": "p",
+          "x": "“Un buen ejemplo es una nueva función de DaVinci Resolve que admite la integración con asistentes de AI como Claude, Claude Code y ChatGPT Codex. Se le puede pedir a un asistente de AI que cree ediciones de momentos destacados a partir de un video largo, elimine clips no deseados y renderice los entregables”."
+        },
+        {
+          "t": "p",
+          "x": "Otros participantes —el creador Josh Liljenquist, Courtney Birk y Ashleigh Coffelt de CA in LA, y Jon Hoeg de OWC— hablan de equipos pequeños, posproducción NLE-agnostic y flujos de trabajo de almacenamiento."
+        }
+      ]
+    },
+    "movies/kyungmin-jonah-ai-animation": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La Universidad Kyungmin firmó el día 16 un memorando de entendimiento (MOU) con 2 empresas, Gangdan Studio y Studio Cinetics, para coproducir contenidos de convergencia con inteligencia artificial (AI) y crear un sistema de cooperación."
+        },
+        {
+          "t": "p",
+          "x": "En virtud del acuerdo, estudiantes de los departamentos de Música Aplicada y de Medios y Video de la Universidad Kyungmin participarán en la producción de 'Jonah', la primera película de animación con AI para cines que se intenta en el país."
+        },
+        {
+          "t": "p",
+          "x": "Desde la construcción de la historia y el guion gráfico hasta el trabajo de personajes y arte, la producción de escenas con AI, la edición y revisión de calidad y el trabajo de voz y música, los estudiantes conocerán la última tecnología de contenidos basada en AI, desarrollada en investigación conjunta con el Instituto Tecnológico de Massachusetts (MIT) de Estados Unidos."
+        },
+        {
+          "t": "img",
+          "src": "https://img3.yna.co.kr/etc/inner/KR/2026/11/16/AKR20261116073300060_01_i_P4.jpg",
+          "cap": "La Universidad Kyungmin firmó el día 16 un memorando de cooperación universidad-industria (MOU) con 2 empresas, Gangdan Studio y Studio Cinetics, para producir contenidos de animación con inteligencia artificial (AI) para cines. [Cortesía de la Universidad Kyungmin]"
+        },
+        {
+          "t": "p",
+          "x": "La película es la primera obra de 'Majung', un proyecto cultural bíblico basado en el Libro de Jonás y pensado para que niños y familias lo disfruten juntos. Tras el asesoramiento de pastores y expertos en teología, aspira a estrenarse en cines en el segundo semestre del próximo año."
+        },
+        {
+          "t": "p",
+          "x": "Hong Moon-jong, presidente del consejo impulsor que dirige el proyecto Majung, afirmó: “Este acuerdo es un punto de partida para extender la capacidad educativa de la universidad al ámbito industrial y será una valiosa oportunidad para que los estudiantes plasmen las técnicas y el talento aprendidos en un resultado concreto: una obra estrenada en cines”."
+        },
+        {
+          "t": "p",
+          "x": "El proyecto celebrará su acto de lanzamiento el día 20 en la sala Akape, en la 3.ª planta del edificio Seungtae de la Universidad Kyungmin, y también prepara series posteriores sobre figuras bíblicas como José y Moisés."
+        }
+      ]
+    },
+    "movies/runway-genre-violence-policy": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/closing-the-gap-between-policy-and-practice-1600x1067-fc002504-f4d6-44f4-a6d7-941a5b751aed.png"
+        },
+        {
+          "t": "p",
+          "x": "La gente acude a Runway para contar historias, y muchas grandes historias implican conflicto, peligro o violencia. En los últimos dos años, la moderación de Runway ha evolucionado para permitir muchas más de esas historias sin dejar de bloquear el contenido que causa daño real."
+        },
+        {
+          "t": "p",
+          "x": "Hace dos años dependía de clasificadores de terceros que puntuaban el contenido en categorías fijas como “sangre” o “armas” y no distinguían una batalla fantástica de la violencia real. Durante un tiempo se bloqueaba incluso una pequeña gota de sangre o un rasguño leve, y a veces el kétchup o la pintura roja se confundían con sangre."
+        },
+        {
+          "t": "img",
+          "src": "https://image.mux.com/HLmH7qc2D6F02mKbyzuKSftNdKVkPrPMs21OfxVWdWZ8/thumbnail.webp",
+          "cap": "Ejemplos de contenido que nuestras políticas permiten pero que nuestras herramientas anteriores habrían bloqueado."
+        },
+        {
+          "t": "p",
+          "x": "Los avances en los grandes modelos de lenguaje cambiaron dos cosas: Runway puede fijar sus propias políticas y actualizarlas en horas o incluso minutos, y aplicarlas con más contexto. Eso permite a los usuarios incluir duelos de espadas, tiroteos, escenas de batalla y terror, mientras que el contenido violento dirigido a grupos protegidos, las recreaciones de ataques extremistas violentos, el contenido sexualizado con menores y el NCII se bloquean con más precisión."
+        },
+        {
+          "t": "p",
+          "x": "Persisten limitaciones: los modelos de terceros en Runway aplican su propia moderación, los LLMs aún cometen errores y la falta de contexto hace que a veces se bloquee un uso legítimo. Los usuarios pueden señalar decisiones erróneas con el botón “Send Feedback” del mensaje de error."
+        }
+      ]
     }
   }
 }

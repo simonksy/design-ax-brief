@@ -11586,6 +11586,143 @@
           "x": "The authors also built \"value cards\" showing which rules each model follows consistently. The paper, 'Alignment Faking Depends on the Value, Not Just the Model,' is on arXiv."
         }
       ]
+    },
+    "science/leafy-spurge-satellite-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-field-of-leafy-spurg.jpg",
+          "cap": "Credit: University of Minnesota"
+        },
+        {
+          "t": "p",
+          "x": "Harnessing satellite imagery, AI deep-learning models and community science data, scientists from the University of Minnesota have tracked the spread of leafy spurge over a 20-year period. Their findings, recently published in Ecological Applications, will help farmers, ranchers and land managers combat the spread of the noxious weed."
+        },
+        {
+          "t": "p",
+          "x": "The researchers trained a predictive deep-learning computer model on real observations of leafy spurge—including community observations from the iNaturalist app—combined with open-source Landsat imagery provided by the U.S. Geological Survey with help from NASA satellites."
+        },
+        {
+          "t": "p",
+          "x": "The study found leafy spurge has rapidly increased in abundance (570%) over two decades (2000–2021), primarily around Fargo-Moorhead and Minneapolis-Saint Paul. It often appears near roadways, and detection of newly invaded areas from satellite imagery improved forecasts of future invasion."
+        },
+        {
+          "t": "p",
+          "x": "\"When leafy spurge flowers, it's like someone took a yellow highlighter to the landscape. It's so bright yellow, satellites can see it too,\" said Thomas Lake. The team plans to map the plant across a seven-state area."
+        }
+      ]
+    },
+    "science/materials-ai-less-data": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-12.jpg",
+          "cap": "Credit: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "Developing new materials often starts with understanding their electronic structure, or how electrons are arranged and behave within them. Calculating these electronic structures typically requires expensive simulations on supercomputers. That's led researchers to train artificial intelligence models on millions of simulated data points to make faster predictions."
+        },
+        {
+          "t": "p",
+          "x": "But according to a recent study led by associate professor Susanta Ghosh in Michigan Tech's Department of Mechanical and Aerospace Engineering, that much training data isn't necessary. In a study recently published in npj Computational Materials, the research team, collaborating with UCLA, found that AI models could discard 90% of their training data with virtually no loss in accuracy."
+        },
+        {
+          "t": "p",
+          "x": "Even after removing 99% of the training data, most predictions stayed highly accurate, while the models trained three or more times faster. The new findings apply to an expansive range of materials, including metals, water and complex alloys."
+        },
+        {
+          "t": "p",
+          "x": "\"Much of the electronic structure data repeats the same information. A small, well-chosen sample captures nearly everything the AI needs to learn,\" said Ghosh."
+        },
+        {
+          "t": "p",
+          "x": "\"By identifying representative electronic-structure data and reducing training time by at least threefold, this work can accelerate AI-driven discovery of complex alloys across vast composition spaces,\" he said."
+        }
+      ]
+    },
+    "science/qudit-quantum-neural-net": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/quantum-neural-network-1.jpg",
+          "cap": "Building and training a high-dimensional quantum neuron. Credit: University of Science and Technology of China"
+        },
+        {
+          "t": "p",
+          "x": "How can we scale up a quantum neural network? One way is to add more qubits as neurons. But a study titled \"Quantum neural network equipped with backpropagation on a qudit processor\" published in National Science Review shows another way."
+        },
+        {
+          "t": "p",
+          "x": "Researchers from the University of Science and Technology of China, led by associate professor Li Zhaokai and professor Lin Yiheng, looked inside a single physical unit and used more of its energy levels. This allowed them to build a high-dimensional quantum neuron without adding physical units."
+        },
+        {
+          "t": "p",
+          "x": "Scaling up by adding more qubits brings more hardware to control and more errors to accumulate—especially challenging for today's noisy intermediate-scale quantum devices."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/quantum-neural-network-2.jpg",
+          "cap": "Learning to distinguish pants from pullovers. Credit: University of Science and Technology of China"
+        },
+        {
+          "t": "p",
+          "x": "Using five energy levels of a calcium ion, the team constructed a multilevel quantum processor and experimentally implemented a high-dimensional quantum neural network. The network classified clothing images from the Fashion-MNIST dataset, achieving an experimental classification accuracy of 95.7% on a test set of 395 samples."
+        }
+      ]
+    },
+    "science/sciam-chess-ai-complexity": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/1e99e951-c633-4384-8edb-9267b4a202c9/saw1226_0127Adva06.jpg?m=1793651269.904&w=1200",
+          "cap": "Thomas Fuchs"
+        },
+        {
+          "t": "p",
+          "x": "AI's comfort with complexity could be key to its chess-playing prowess. A recent paper in APS Open Science highlights one likely feature of AI's strategic superiority. \"Probably our paper is the closest to understanding what these machines are doing,\" says study senior author Vito D. P. Servedio, a physicist at Complexity Science Hub in Vienna."
+        },
+        {
+          "t": "p",
+          "x": "The researchers collected human vs. human and Stockfish vs. Leela games from online databases and measured \"strategic tension\"—the number of mutual interactions possible between opposing pieces."
+        },
+        {
+          "t": "p",
+          "x": "Once each player had made 20 moves, the average tension in human games exceeded that of the AI games. But after it, human tension drops below that of AI games, which remains high. People need to reduce cognitive load, but \"engines don't really have that problem,\" says Merim Bilalić of Northumbria University, who wasn't involved."
+        },
+        {
+          "t": "p",
+          "x": "Higher-rated players maintained greater tension, and tension rose when Stockfish searched deeper trees. Though higher tension correlated with greater ability in both humans and AI, the study didn't show that it led to, or came from, that ability."
+        }
+      ]
+    },
+    "science/science-teamwork-lean-proof": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/original_images/AntigravityTeamwork_HeroFinal.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Google Research shared recent results from Antigravity’s /teamwork multiagent systems, which enhance human-AI collaborations to solve open problems across mathematics, chemistry, systems software, and ML engineering, using Gemini 4 Argon, Gemini 4 Carbon, Gemini 4 Hydrogen. The system pairs parallel exploration with dedicated falsifiers (e.g., the Lean 4 proof checker, unmodified software test suites, execution simulators) and partitions context so each specialized agent receives only the files and tools it needs."
+        },
+        {
+          "t": "p",
+          "x": "Researchers from Google, CUHK, USC, and CMU used /teamwork's Long Proof pattern to prove information theory's 2013 Courtade–Kumar conjecture in full generality, formalizing the entire proof in Lean 4 (50 million lines of code). /teamwork-LEAP fully autonomously produced a machine-checked formalization of the Weil conjectures, spanning about 1.8 million lines of Lean across 28,800 subagent invocations."
+        },
+        {
+          "t": "p",
+          "x": "Other results include 95% top-1 exact match in NMR structure determination with 30 agents, about 800,000 lines of safe Rust for the Zircon microkernel, and a 9x9 Go engine that gained roughly 2,600 Elo in under eight days."
+        },
+        {
+          "t": "video",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/media/AntigravityTeamwork_HillClimbing_1x.mp4"
+        },
+        {
+          "t": "p",
+          "x": "External scientists and developers can use Gemini 4 models with /teamwork and /boost in Antigravity and Deep Review today, and applications are open giving 10,000 academic researchers six months of free access to the highest usage tier."
+        }
+      ]
     }
   }
 }

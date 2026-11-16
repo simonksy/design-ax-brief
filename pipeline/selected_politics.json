@@ -1,168 +1,168 @@
 {
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "section": "politics",
   "items": [
     {
-      "title": "정부, 올해 국가자격시험 전수조사 실시…세무사 시험 부정행위자는 5년간 응시 제한",
-      "url": "https://www.etnews.com/20261115000178",
-      "source": "전자신문",
+      "title": "US moves to cut China’s remote access to AI chips",
+      "url": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/",
+      "source": "Ars Technica",
       "category": "politics",
       "tool": "Politics",
       "accent": "#3b6bff",
       "motif": "cube",
-      "published_iso": "2026-11-15T20:24:10+09:00",
-      "og_image": "https://img.etnews.com/news/article/2026/11/15/news-p.v1.20261115.bef88a93891e47efaf3da25295cd9235_P1.jpg",
-      "excerpt": "고용노동부가 비상대책회의를 열고 올해 국가자격시험 AI 활용 부정행위 전수조사와 제63회 세무사 시험 부정행위자 합격 취소·5년 응시 제한 등 후속대책을 마련했다.",
-      "rationale": "Korean government orders a full audit of AI-assisted cheating across all national licensing exams this year and cancels the tax-accountant exam result with a 5-year ban - the concrete government action in the AI-exam-cheating story (single card for that cluster)."
+      "published_iso": "2026-11-16T19:10:09+00:00",
+      "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2303586820-1024x648.jpg",
+      "excerpt": "The Commerce Department says a rule change closes the loophole that let China, Russia and Iran bypass chip export curbs by renting remote access to restricted AI chips in data centers in Indonesia, Malaysia, Singapore, Thailand and Brazil.",
+      "rationale": "The Commerce Department actually issues the export-control rule (remote/cloud access to restricted AI chips via five SE Asian and Latin American hubs), turning the 11-13 reported plan into an official measure - single card for the Ars/Yonhap/디지털투데이 cluster."
     },
     {
-      "title": "홍콩, AI 안면인식 감시망 가동…용의자 동선 실시간 추적",
-      "url": "https://www.yna.co.kr/view/AKR20261115024600009",
-      "source": "연합뉴스",
+      "title": "California sues OpenAI over rogue AI hacking incidents",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
+      "source": "The Verge",
       "category": "politics",
       "tool": "Politics",
       "accent": "#0070f3",
       "motif": "cube",
-      "published_iso": "2026-11-15T15:18:23+09:00",
-      "og_image": "https://img1.yna.co.kr/photo/etc/epa/2019/08/14/PEP20190814028001848_P4.jpg",
-      "excerpt": "홍콩 경찰이 인공지능(AI)을 활용한 안면인식 감시망을 가동해 용의자 동선을 실시간으로 추적한다.",
-      "rationale": "Hong Kong police switch on an AI facial-recognition surveillance network for real-time suspect tracking - a state deployment of AI surveillance, distinct from the UK watchdog report that ran 11-15."
+      "published_iso": "2026-11-16T20:46:01+00:00",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK155_OPEN_AI_4_CVirginia_D.png?quality=90&strip=all&crop=0%2C10.742221417566%2C100%2C78.515557164868&w=1200",
+      "excerpt": "California sued OpenAI, claiming it knowingly tested a 'dangerous product' without safeguards after its AI agents were linked to the Hugging Face hacking incidents.",
+      "rationale": "A new state lawsuit: California alleges OpenAI knowingly tested a dangerous agent product without safeguards after the Hugging Face incidents - liability litigation over AI agents, attributed to the state's complaint."
     },
     {
-      "title": "중기부, '모두의 창업' 개인정보 유출 업체 제재 추진…AI 공급기업 긴급 보안점검",
-      "url": "https://www.etnews.com/20261115000103",
-      "source": "전자신문",
+      "title": "US allies deepen deal to guard AI supply chains against 'hostile actors'",
+      "url": "https://www.theregister.com/systems/2026/11/16/us-allies-deepen-deal-to-guard-ai-supply-chains-against-hostile-actors-cough-china-cough/5310094",
+      "source": "The Register",
       "category": "politics",
       "tool": "Politics",
       "accent": "#7928ca",
       "motif": "cube",
-      "published_iso": "2026-11-15T14:16:33+09:00",
-      "og_image": "https://img.etnews.com/news/article/2026/06/22/news-p.v1.20260622.99fbfe4faacb4bd3ac70411b25c009d9_P2.jpg",
-      "excerpt": "중기부가 '모두의 창업' 참가자 개인정보 유출 사고를 낸 민간 AI 솔루션 공급업체에 선정 취소 등 제재를 검토하고 나머지 AI 공급기업 긴급 보안점검에 나선다.",
-      "rationale": "Korea's SME ministry moves to sanction the AI solution vendor behind a startup-program data leak and orders emergency security checks of all its AI suppliers - a procurement/privacy enforcement step for vendors selling AI to government programs."
+      "published_iso": "2026-11-16T16:15:00.000Z",
+      "og_image": "https://image.theregister.com/5244738.jpg?imageId=5244738&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "excerpt": "The US and nine partners (incl. Korea, Japan, UK, India, Australia) signed the 'San Francisco Declaration' pledging to protect AI supply chains, sensitive tech and AI infrastructure from hostile actors.",
+      "rationale": "The US and nine partners including Korea and Japan sign the San Francisco Declaration on protecting AI supply chains and infrastructure - a new multilateral AI-geopolitics agreement (single card for the Register/전자신문 cluster)."
     },
     {
-      "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
-      "source": "The Verge",
+      "title": "정부, 수능 스마트기기 반납·공공 와이파이 차단 추진(종합)",
+      "url": "https://www.yna.co.kr/view/AKR20261116029451001",
+      "source": "연합뉴스",
       "category": "politics",
       "tool": "Politics",
       "accent": "#2ec5c5",
       "motif": "cube",
-      "published_iso": "2026-11-15T19:15:43+00:00",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25545717/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "excerpt": "Jensen Huang's relationship with a suspected Chinese spy has Congress ready to crack down, with lawmakers moving to tighten export rules on advanced AI chips to China.",
-      "rationale": "The single Nvidia/Megaspeed card today: the legislative response - lawmakers moving to tighten AI-chip export rules to China - rather than further allegations or officials' reactions."
+      "published_iso": "2026-11-16T14:43:52+09:00",
+      "og_image": "https://img4.yna.co.kr/photo/yna/YH/2026/11/11/PYH2026111119740001300_P4.jpg",
+      "excerpt": "AI(인공지능) 첨단기술을 활용한 부정행위 우려가 커지는 가운데 정부가 오는 19일 대학수학능력시험 시험장에서 스마트기기 반납과 공공 와이파이 차단을 추진한다.",
+      "rationale": "New government measure for the 11-19 CSAT - mandatory smart-device surrender and public Wi-Fi shutdown at test sites to block AI-assisted cheating; the only exam-cheating card today, distinct from the 11-16 licensing-exam audit."
     },
     {
-      "title": "DOJ takes aim at $1.2B in Binance loot as FBI disrupts North Korean scam",
-      "url": "https://www.theregister.com/cyber-crime/2026/11/12/doj-takes-aim-at-12b-in-binance-loot-as-fbi-disrupts-north-korean-scam/5309523",
+      "title": "Attackers are using AI agents to automate cybercrime at 'industrial scale,' FBI and AWS warn",
+      "url": "https://www.theregister.com/cyber-crime/2026/11/16/attackers-are-using-ai-agents-to-automate-cybercrime-at-industrial-scale-fbi-and-aws-warn/5310223",
       "source": "The Register",
       "category": "politics",
       "tool": "Politics",
       "accent": "#ff5a4d",
       "motif": "cube",
-      "published_iso": "2026-11-12T23:51:00Z",
-      "og_image": "https://image.theregister.com/5309552.jpg?imageId=5309552&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-      "excerpt": "DOJ moves to seize $1.2B from the Binance hack; the FBI ties North Korea's 'FaceStealer' deepfake video-call scam to $400M+ in theft and 900+ webcam recordings.",
-      "rationale": "US enforcement action: the FBI disrupts North Korea's 'FaceStealer' deepfake video-call operation (attributed $400M+ theft) alongside a DOJ forfeiture move - state-backed deepfake fraud meets law enforcement; writer should lead with the deepfake angle."
+      "published_iso": "2026-11-16T19:52:00.000Z",
+      "og_image": "https://image.theregister.com/5310250.jpg?imageId=5310250&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "excerpt": "The FBI and AWS warn attackers are using AI agents to automate cybercrime at 'industrial scale' against critical organisations worldwide.",
+      "rationale": "An official FBI warning (with AWS) that AI agents are automating cybercrime at industrial scale against critical organisations - a government security advisory, preferred over the vendor-only Google threat report under the primary-source rule."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.etnews.com/20261115000178": {
+      "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/": {
         "verdict": "follow-up",
-        "nearest": "https://www.etnews.com/20261109000269",
-        "new_action": "Government emergency meeting decides a full audit of AI-assisted cheating across this year's national licensing exams, plus cancellation of the 63rd tax-accountant exam pass and a 5-year exam ban for the offender (new official decision; prior cards covered AI-glasses warnings before the CSAT and 4 secondary students zeroed)."
+        "nearest": "https://www.yna.co.kr/view/AKR20261112121900009",
+        "new_action": "Commerce Department issues the rule change closing the remote-access loophole and adding Indonesia, Malaysia, Singapore, Thailand and Brazil to licence requirements (11-13 card was a reported plan; 11-16 Verge card was Congress, not Commerce; history_match Treasury outbound-investment curbs 10-26 is a different measure)."
       },
-      "https://www.yna.co.kr/view/AKR20261115024600009": {
+      "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit": {
+        "verdict": "follow-up",
+        "nearest": "https://www.theverge.com/ai-artificial-intelligence/1017900/texas-becomes-the-latest-state-to-sue-openai",
+        "new_action": "California files its own lawsuit against OpenAI tied to the Hugging Face agent hacking incidents (new filing; earlier cards: Register red-team report 10-25, Texas suit 10-26, Australia mandatory reporting 11-11 - history_match)."
+      },
+      "https://www.theregister.com/systems/2026/11/16/us-allies-deepen-deal-to-guard-ai-supply-chains-against-hostile-actors-cough-china-cough/5310094": {
         "verdict": "new",
-        "nearest": "https://www.theregister.com/security/2026/11/13/brit-police-watchdog-says-cops-use-of-facial-recog-risks-wrongful-arrests/5309379",
+        "nearest": "https://www.gov.uk/government/news/united-kingdom-norway-joint-statement-of-intent-on-artificial-intelligence",
         "new_action": ""
       },
-      "https://www.etnews.com/20261115000103": {
-        "verdict": "new",
-        "nearest": "https://www.yna.co.kr/view/AKR20261110142600530",
-        "new_action": ""
-      },
-      "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china": {
+      "https://www.yna.co.kr/view/AKR20261116029451001": {
         "verdict": "follow-up",
-        "nearest": "https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/",
-        "new_action": "Congressional move to tighten export rules on advanced AI chips to China (legislative response), distinct from the 11-07 Huang summons, 11-08 Megaspeed entity-list gap, 11-13 SEA licence rule and 11-14 Malaysia probe."
+        "nearest": "https://www.etnews.com/20261115000178",
+        "new_action": "Government decides CSAT-day measures: smart-device surrender and public Wi-Fi blocking at test sites (new official decision; 11-16 card was the national licensing-exam audit and tax-accountant 5-year ban)."
       },
-      "https://www.theregister.com/cyber-crime/2026/11/12/doj-takes-aim-at-12b-in-binance-loot-as-fbi-disrupts-north-korean-scam/5309523": {
+      "https://www.theregister.com/cyber-crime/2026/11/16/attackers-are-using-ai-agents-to-automate-cybercrime-at-industrial-scale-fbi-and-aws-warn/5310223": {
         "verdict": "new",
-        "nearest": "",
+        "nearest": "https://www.theregister.com/security/2026/11/03/britain-on-notice-ai-powered-ransomware-attacks-to-arrive-by-2028/5307200",
         "new_action": ""
       }
     },
-    "note": "AI-exam-cheating cluster (yna 靑 전수조사, zdnet 수능 코앞 전수조사, etnews 5년 응시제한) = one story; kept only etnews (most concrete decision: audit + pass cancellation + 5-year ban). Nvidia/Megaspeed saga capped at 1 card (Verge Congress export rules); dropped as reactions/extra reporting on already-published events: yna Lutnick NYT report (allegation), Guardian + BBC Bessent blames Lutnick (reaction; related to 11-08 Verge), BBC Megaspeed says Alice Huang left (company statement), Decoder WSJ $12B brokering (extra reporting), Rest of World Huang exit analysis, MIT TR Download newsletter (chip tracking), digitaltoday 美 의회 조사 착수 (same as 11-07 summons / overlaps Verge pick), Register Blackwell forensic report (third-party analysis, not an official action). Dropped as commentary: CSET Convergent Interests essay, AI Now BAAJA statement (advocacy on a bill; no og_image), Guardian Australian senator speech. Politico EU Dublin summit dropped: headline/excerpt centre on the Ukraine deal with no reported AI decision. Cross-section: Yonhap Japan likeness item already ran 11-15 and is not re-picked. published_urls.json is too large to read and this agent has no shell/grep - orchestrator should exact-grep these 5 URLs (and 'Hong Kong facial recognition', 'FaceStealer', '모두의 창업') across all sections before roll."
+    "note": "Within-pool clusters: chip remote-access rule kept Ars, dropped 연합뉴스 AKR20261117004151091 and 디지털투데이 idxno=715881 (same Commerce rule). San Francisco Declaration kept Register, dropped 전자신문 20261116000527. Exam-cheating cap 1: kept yna 수능 기기반납/와이파이 차단; dropped yna AKR20261116170000017 (방미통위 유통 방지 - second measure in same cluster, cap) and etnews 20261116000335 (police probe of the tax-accountant case already covered 11-16). AI-automated cyberattacks: kept FBI/AWS official warning; dropped POLITICO EU Google GTIG report and 디지털투데이 idxno=715880 (same Google report; vendor report, and cap 1 for the theme). Not picked on fit/strength: Verge OpenAI CSAM classifier (company product launch, would be 2nd Verge), Guardian AI-CSAM 8,400% data (research data, no decision), Guardian Wales facial-scan data (extra reporting on the running UK police facial-recognition story, history_match 11-15), Guardian Australian senator (commentary), Register UK datacenter planning share (statistics, weak AI axis). Outlets: Ars, Verge, Register x2, Yonhap. Cross-section: this agent has no shell to exact-grep pipeline/published_urls.json (file too large to scan by Read); orchestrator should exact-grep the 5 picked URLs plus 'San Francisco Declaration', 'remote access', 'California sues OpenAI', '수능 스마트기기', 'industrial scale' across all sections before roll."
   },
   "picks": [
     {
-      "title": "정부, 올해 국가자격시험 전수조사 실시…세무사 시험 부정행위자는 5년간 응시 제한",
-      "url": "https://www.etnews.com/20261115000178",
-      "source": "전자신문",
+      "title": "US moves to cut China’s remote access to AI chips",
+      "url": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/",
+      "source": "Ars Technica",
       "category": "politics",
       "tool": "Politics",
       "accent": "#3b6bff",
       "motif": "cube",
-      "published_iso": "2026-11-15T20:24:10+09:00",
-      "og_image": "https://img.etnews.com/news/article/2026/11/15/news-p.v1.20261115.bef88a93891e47efaf3da25295cd9235_P1.jpg",
-      "excerpt": "고용노동부가 비상대책회의를 열고 올해 국가자격시험 AI 활용 부정행위 전수조사와 제63회 세무사 시험 부정행위자 합격 취소·5년 응시 제한 등 후속대책을 마련했다.",
-      "rationale": "Korean government orders a full audit of AI-assisted cheating across all national licensing exams this year and cancels the tax-accountant exam result with a 5-year ban - the concrete government action in the AI-exam-cheating story (single card for that cluster)."
+      "published_iso": "2026-11-16T19:10:09+00:00",
+      "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2303586820-1024x648.jpg",
+      "excerpt": "The Commerce Department says a rule change closes the loophole that let China, Russia and Iran bypass chip export curbs by renting remote access to restricted AI chips in data centers in Indonesia, Malaysia, Singapore, Thailand and Brazil.",
+      "rationale": "The Commerce Department actually issues the export-control rule (remote/cloud access to restricted AI chips via five SE Asian and Latin American hubs), turning the 11-13 reported plan into an official measure - single card for the Ars/Yonhap/디지털투데이 cluster."
     },
     {
-      "title": "홍콩, AI 안면인식 감시망 가동…용의자 동선 실시간 추적",
-      "url": "https://www.yna.co.kr/view/AKR20261115024600009",
-      "source": "연합뉴스",
+      "title": "California sues OpenAI over rogue AI hacking incidents",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
+      "source": "The Verge",
       "category": "politics",
       "tool": "Politics",
       "accent": "#0070f3",
       "motif": "cube",
-      "published_iso": "2026-11-15T15:18:23+09:00",
-      "og_image": "https://img1.yna.co.kr/photo/etc/epa/2019/08/14/PEP20190814028001848_P4.jpg",
-      "excerpt": "홍콩 경찰이 인공지능(AI)을 활용한 안면인식 감시망을 가동해 용의자 동선을 실시간으로 추적한다.",
-      "rationale": "Hong Kong police switch on an AI facial-recognition surveillance network for real-time suspect tracking - a state deployment of AI surveillance, distinct from the UK watchdog report that ran 11-15."
+      "published_iso": "2026-11-16T20:46:01+00:00",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK155_OPEN_AI_4_CVirginia_D.png?quality=90&strip=all&crop=0%2C10.742221417566%2C100%2C78.515557164868&w=1200",
+      "excerpt": "California sued OpenAI, claiming it knowingly tested a 'dangerous product' without safeguards after its AI agents were linked to the Hugging Face hacking incidents.",
+      "rationale": "A new state lawsuit: California alleges OpenAI knowingly tested a dangerous agent product without safeguards after the Hugging Face incidents - liability litigation over AI agents, attributed to the state's complaint."
     },
     {
-      "title": "중기부, '모두의 창업' 개인정보 유출 업체 제재 추진…AI 공급기업 긴급 보안점검",
-      "url": "https://www.etnews.com/20261115000103",
-      "source": "전자신문",
+      "title": "US allies deepen deal to guard AI supply chains against 'hostile actors'",
+      "url": "https://www.theregister.com/systems/2026/11/16/us-allies-deepen-deal-to-guard-ai-supply-chains-against-hostile-actors-cough-china-cough/5310094",
+      "source": "The Register",
       "category": "politics",
       "tool": "Politics",
       "accent": "#7928ca",
       "motif": "cube",
-      "published_iso": "2026-11-15T14:16:33+09:00",
-      "og_image": "https://img.etnews.com/news/article/2026/06/22/news-p.v1.20260622.99fbfe4faacb4bd3ac70411b25c009d9_P2.jpg",
-      "excerpt": "중기부가 '모두의 창업' 참가자 개인정보 유출 사고를 낸 민간 AI 솔루션 공급업체에 선정 취소 등 제재를 검토하고 나머지 AI 공급기업 긴급 보안점검에 나선다.",
-      "rationale": "Korea's SME ministry moves to sanction the AI solution vendor behind a startup-program data leak and orders emergency security checks of all its AI suppliers - a procurement/privacy enforcement step for vendors selling AI to government programs."
+      "published_iso": "2026-11-16T16:15:00.000Z",
+      "og_image": "https://image.theregister.com/5244738.jpg?imageId=5244738&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "excerpt": "The US and nine partners (incl. Korea, Japan, UK, India, Australia) signed the 'San Francisco Declaration' pledging to protect AI supply chains, sensitive tech and AI infrastructure from hostile actors.",
+      "rationale": "The US and nine partners including Korea and Japan sign the San Francisco Declaration on protecting AI supply chains and infrastructure - a new multilateral AI-geopolitics agreement (single card for the Register/전자신문 cluster)."
     },
     {
-      "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
-      "source": "The Verge",
+      "title": "정부, 수능 스마트기기 반납·공공 와이파이 차단 추진(종합)",
+      "url": "https://www.yna.co.kr/view/AKR20261116029451001",
+      "source": "연합뉴스",
       "category": "politics",
       "tool": "Politics",
       "accent": "#2ec5c5",
       "motif": "cube",
-      "published_iso": "2026-11-15T19:15:43+00:00",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25545717/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "excerpt": "Jensen Huang's relationship with a suspected Chinese spy has Congress ready to crack down, with lawmakers moving to tighten export rules on advanced AI chips to China.",
-      "rationale": "The single Nvidia/Megaspeed card today: the legislative response - lawmakers moving to tighten AI-chip export rules to China - rather than further allegations or officials' reactions."
+      "published_iso": "2026-11-16T14:43:52+09:00",
+      "og_image": "https://img4.yna.co.kr/photo/yna/YH/2026/11/11/PYH2026111119740001300_P4.jpg",
+      "excerpt": "AI(인공지능) 첨단기술을 활용한 부정행위 우려가 커지는 가운데 정부가 오는 19일 대학수학능력시험 시험장에서 스마트기기 반납과 공공 와이파이 차단을 추진한다.",
+      "rationale": "New government measure for the 11-19 CSAT - mandatory smart-device surrender and public Wi-Fi shutdown at test sites to block AI-assisted cheating; the only exam-cheating card today, distinct from the 11-16 licensing-exam audit."
     },
     {
-      "title": "DOJ takes aim at $1.2B in Binance loot as FBI disrupts North Korean scam",
-      "url": "https://www.theregister.com/cyber-crime/2026/11/12/doj-takes-aim-at-12b-in-binance-loot-as-fbi-disrupts-north-korean-scam/5309523",
+      "title": "Attackers are using AI agents to automate cybercrime at 'industrial scale,' FBI and AWS warn",
+      "url": "https://www.theregister.com/cyber-crime/2026/11/16/attackers-are-using-ai-agents-to-automate-cybercrime-at-industrial-scale-fbi-and-aws-warn/5310223",
       "source": "The Register",
       "category": "politics",
       "tool": "Politics",
       "accent": "#ff5a4d",
       "motif": "cube",
-      "published_iso": "2026-11-12T23:51:00Z",
-      "og_image": "https://image.theregister.com/5309552.jpg?imageId=5309552&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-      "excerpt": "DOJ moves to seize $1.2B from the Binance hack; the FBI ties North Korea's 'FaceStealer' deepfake video-call scam to $400M+ in theft and 900+ webcam recordings.",
-      "rationale": "US enforcement action: the FBI disrupts North Korea's 'FaceStealer' deepfake video-call operation (attributed $400M+ theft) alongside a DOJ forfeiture move - state-backed deepfake fraud meets law enforcement; writer should lead with the deepfake angle."
+      "published_iso": "2026-11-16T19:52:00.000Z",
+      "og_image": "https://image.theregister.com/5310250.jpg?imageId=5310250&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "excerpt": "The FBI and AWS warn attackers are using AI agents to automate cybercrime at 'industrial scale' against critical organisations worldwide.",
+      "rationale": "An official FBI warning (with AWS) that AI agents are automating cybercrime at industrial scale against critical organisations - a government security advisory, preferred over the vendor-only Google threat report under the primary-source rule."
     }
   ]
 }

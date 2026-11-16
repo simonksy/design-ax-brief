@@ -10632,6 +10632,129 @@
           "x": "“Me opongo rotundamente al fraude en streaming. Es un delito”, dijo Shulman esta semana en el podcast Trapital. “¿Que a veces haya música con AI de por medio? La música con AI no es un delito… No son lo mismo”."
         }
       ]
+    },
+    "music/elvis-suno-amended-suit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/Elvis-Live-1024x546.jpg",
+          "cap": "Elvis Presley actuando en directo en 1956. Foto: Don Wright"
+        },
+        {
+          "t": "p",
+          "x": "Apenas una semana después de demandar a Suno por infracción de derechos de autor y NIL, Elvis Presley Enterprises ha presentado una demanda enmendada, con una lista ampliada de resultados presuntamente infractores. Los demandantes, entre ellos Elvis Presley Enterprises, Authentic Brands Group y Raleigh Music Publishing, formalizaron la demanda enmendada tras la presentación de la original el 6 de noviembre."
+        },
+        {
+          "t": "p",
+          "x": "Los titulares de derechos piden reparación por presuntas violaciones de la ELVIS Act de Tennessee y del derecho de publicidad del common law, centradas en la supuesta presencia de voces que imitan a Presley en los resultados de Suno. En cuanto a los derechos de autor, acusan a Suno de extraer IP de plataformas de streaming para crear conjuntos de datos de entrenamiento."
+        },
+        {
+          "t": "p",
+          "x": "Los demandantes afirman que “añadieron multitud de ejemplos adicionales… incluidos no menos de 42 ejemplos de resultados infractores adicionales de canciones implicadas en esta acción”. Además, 76 resultados presuntamente infractores están vinculados a canciones de Elvis que no forman parte del caso, entre ellas “Blue Suede Shoes” y “Hound Dog”."
+        },
+        {
+          "t": "p",
+          "x": "La demanda enmendada acusa además a Suno de infringir 859 obras, por un máximo de $128.85 million en daños legales y $23.62 million por presuntas violaciones de la DMCA."
+        }
+      ]
+    },
+    "music/difro-melody-v25-plugin": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.kvraudio.com/i/b/difro_01.1794777186.png"
+        },
+        {
+          "t": "p",
+          "x": "Initial Audio ha lanzado Difro Melody AI v2.5, una actualización de su generador de melodías con AI que añade conversión audio-to-MIDI y un plugin VST3/AU."
+        },
+        {
+          "t": "p",
+          "x": "Los usuarios pueden arrastrar un loop de audio al piano roll y Difro lo convierte a MIDI en local, con datos de velocidad. Funciona con loops melódicos de hasta 16 compases; los archivos más largos se recortan a los primeros 16. Después, Re-Imagine puede generar nuevas variaciones a partir de la transcripción."
+        },
+        {
+          "t": "p",
+          "x": "El plugin VST3 y AU se sincroniza con el DAW anfitrión y emite MIDI, audio o ambos en tiempo real, y puede tocarse mediante notas MIDI con una opción de latch. Otros cambios incluyen un tutorial interactivo de inicio rápido, compatibilidad con NVIDIA Blackwell GPUs en Windows (las Maxwell GPUs más antiguas ya no son compatibles), una descarga y un uso de memoria 300 MB menores y una UI renovada y redimensionable."
+        },
+        {
+          "t": "video",
+          "yt": "FfOGA4FlLO0"
+        },
+        {
+          "t": "p",
+          "x": "La versión básica es gratuita, sin suscripción y con un límite mensual de generaciones; la versión Pro ofrece generaciones ilimitadas."
+        }
+      ]
+    },
+    "music/kanye-bully-grammy-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.pitchfork.com/photos/6afaf9f6fa70625fee86f02d/2:1/w_2560%2Cc_limit/kanye-west-bully-grammys.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Kanye West ha obtenido una nominación a Mejor Álbum de Rap (Best Rap Album) por la edición deluxe de Bully en los Grammys de 2027, donde competirá con Cardi B y Don Toliver, entre otros. La nominación llega pese a las persistentes acusaciones de que Ye contó con una ayuda en su composición: la inteligencia artificial."
+        },
+        {
+          "t": "p",
+          "x": "Las especulaciones surgieron tras una entrevista de 2025 con Justin Laboy, en la que Ye se mostró visiblemente impresionado por las posibilidades creativas de la tecnología. Demostró lo fácil que era crear voces que imitan a otras, un recurso probablemente presente en una canción estrenada ese mismo año con un aparente verso de Ye rapeado en español, como señaló Kelefa Sanneh, de The New Yorker. Pero Ye tuiteó después que el álbum no incluiría A.I., y la afirmación no ha sido desmentida pese a los esfuerzos de detectives aficionados. Una demanda presentada en agosto elevó la tensión al afirmar que Ye había usado efectos vocales de A.I. tanto en Vultures 2 como en Bully. Las normas de la Recording Academy permiten a los artistas usar A.I. siempre que el elemento de autoría humana sea “significativo” y “relevante para la categoría”."
+        },
+        {
+          "t": "p",
+          "x": "Ye tiene una larga historia en la categoría Best Rap Album: la ganó con cada uno de sus tres primeros álbumes y de nuevo con My Beautiful Dark Twisted Fantasy. Esta es su novena nominación en la categoría. Además de Am I the Drama?, de Cardi, y Octane, de Toliver, Bully compite con God Gotta Afro & Gold Hoops, de Rapsody; Everything Is a Lot, de Wale, y el último álbum de Busta Rhymes, construido sobre ritmos póstumos de J Dilla, Dillagence II."
+        }
+      ]
+    },
+    "music/bridgwater-carnival-ai-music": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/8fec/live/880e71a0-dd31-11f1-ab46-9fae224bbf6f.jpg.webp",
+          "cap": "Varias carrozas incluyeron música AI-generated durante el Bridgwater Carnival de 2026"
+        },
+        {
+          "t": "p",
+          "x": "El uso de inteligencia artificial (AI) en la música durante una serie de desfiles de carnaval es \"decepcionante\", según un miembro de un club. Unas 150,000 personas acudieron a Bridgwater, en Somerset, para ver el desfile de carrozas iluminadas."
+        },
+        {
+          "t": "p",
+          "x": "Matt Ward, miembro de uno de los clubes más pequeños, dijo que era una pena que algunas de las 50 carrozas usaran música con AI, y añadió: \"Estamos olvidando un poco de dónde viene el carnaval\". Señaló que reduce los costes para los comités, pero que \"la música parece algo secundario\"."
+        },
+        {
+          "t": "p",
+          "x": "Tim Bonser ayudó a Gremlins a producir su canción con AI. \"Como músico, es bastante emocionante y también bastante aterrador\", dijo. \"Hemos tenido conversaciones bastante intensas sobre ello y genera mucha división\". \"El tiempo es dinero y hoy los presupuestos del carnaval son ajustados\"."
+        },
+        {
+          "t": "p",
+          "x": "Los organizadores del Bridgwater Guy Fawkes Carnival dijeron que entienden que la música AI-generated \"dividió opiniones\", pero que la decisión corresponde a cada club, y añadieron que el carnaval \"siempre ha adoptado las nuevas tecnologías\" y que los clubes \"deberían tener libertad creativa\" para presentar sus temas."
+        }
+      ]
+    },
+    "music/xania-monet-ai-music-awards": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/11/7R6A5866-1.jpg?w=1000&h=667&crop=1",
+          "cap": "Telisha “Nikki” Jones, creadora de Xania Monet"
+        },
+        {
+          "t": "p",
+          "x": "Variety asistió el viernes a la primera edición de los “AI Music Awards”, impulsados por la “Sonic Intelligence Academy” (SIQA), en el Mayan Theater de Downtown Los Angeles. Para participar, los artistas registraron sus temas en el “Verified Registry” de SIQA, luego nominaron a sus pares en 25 categorías y votaron por los ganadores."
+        },
+        {
+          "t": "p",
+          "x": "Xania Monet, la persona de IA de Telisha “Nikki” Jones, ganó AI Album of the Year en la cumbre de SIQA el día anterior y después se llevó artista y canción del año: tres de las cuatro categorías principales de los premios. La cuarta, productor del año, fue para “DJ Shawn Q.” “La IA es solo una herramienta”, dijo Jones."
+        },
+        {
+          "t": "p",
+          "x": "SIQA, fundada por la ingeniera de software Timirah “TJ” James y su hermana Mia James, aspira a ser la contraparte en IA de la Recording Academy. La noche estuvo marcada por fallos: un inicio con unos 30 minutos de retraso, un guion del evento generado por Claude (Claude-generated) en un teleprompter confuso, una voz de Deepgram AI que a menudo no funcionaba y artistas que hacían playback sobre temas de IA acompañados por una banda de la casa gratuita."
+        },
+        {
+          "t": "p",
+          "x": "“Habrá un próximo año porque esta es la nueva industria musical”, dijo James al público."
+        }
+      ]
     }
   }
 }

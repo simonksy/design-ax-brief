@@ -12292,6 +12292,163 @@
           "x": "3D transforms map directly to CSS in Dev Mode, and coding agents can read and create 3D designs through the Figma MCP server. 3D transforms are now in open beta for all Full seat users."
         }
       ]
+    },
+    "design/lovable-drafts-parallel": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assets.lovable.dev/content/news/covers/introducing-drafts-2026-11-15.png"
+        },
+        {
+          "t": "p",
+          "x": "The best builders experiment, tinker, and tweak. Now you and your team can try different ideas in parallel and see how they'd really look in the wild before choosing your favorite, while your live app stays untouched."
+        },
+        {
+          "t": "p",
+          "x": "With drafts, you can copy your whole app, from design to database, as often as you like. Each draft has its own chat and preview, so you and your team can work on separate versions and compare them side by side. Nothing goes live until you accept a draft and hit publish."
+        },
+        {
+          "t": "video",
+          "src": "https://assets.lovable.dev/content/news/introducing-drafts/drafts-overview-2026-11-16.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Let a teammate or a client make changes in their own draft without altering the existing app. Every draft comes filled with example data, so instead of an empty page you see your idea with a busy booking calendar, a full order history, or a long list of sign-ups. You can even ask Lovable to spin up different versions for you and keep the ones you like."
+        },
+        {
+          "t": "p",
+          "x": "\"We use drafts to test different features, layouts and UX side by side, then keep what works best,\" says Shane Stuart, Director of Product Design & Research, OLX Global."
+        },
+        {
+          "t": "p",
+          "x": "Open a project, click its name at the top of the editor, and hit \"New draft.\" When you're happy with a draft, hit accept to add its changes to your project, then hit publish to make them live. Any data you add while testing stays in the draft and is cleared when you accept or delete it, so it never lands next to real customer data."
+        }
+      ]
+    },
+    "design/astryx-v0-skill": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Astryx is now available in v0 as a design-system skill, bringing guidance, components, examples, and templates into context as v0 builds."
+        },
+        {
+          "t": "img",
+          "src": "https://astryx.atmeta.com/blog/astryx-is-now-available-in-v0/cover.png",
+          "cap": "The v0 logo beside the Astryx mark on a black background."
+        },
+        {
+          "t": "p",
+          "x": "Astryx is now available in v0."
+        },
+        {
+          "t": "p",
+          "x": "In v0, a design system is an agent skill. Builders can choose Astryx for a project, bringing its guidance, components, examples, and templates into context as v0 builds."
+        },
+        {
+          "t": "p",
+          "x": "This collaboration with Vercel is one way we are exploring what it means for a design system to support both people and agents, and how system knowledge can remain useful at the moment of creation."
+        }
+      ]
+    },
+    "design/gemini-notebook-sites": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/blog_hero_periodic_table3_2784x1566.max-1440x810.png"
+        },
+        {
+          "t": "p",
+          "x": "Starting today, Gemini Notebook can turn your sources into interactive sites to help you quickly make sense of complex information."
+        },
+        {
+          "t": "p",
+          "x": "To get started, simply type “make me a site” in your Gemini Notebook chat along with a description of what you want to build for work or study, such as:"
+        },
+        {
+          "t": "p",
+          "x": "Visual explainers to help you prepare for exams, like an interactive periodic table or a historical timeline. Interactive dashboards to explore your data, such as quarterly sales performance. Project management trackers to outline your tasks and deadlines."
+        },
+        {
+          "t": "p",
+          "x": "Once built, select “Open in a new tab” to interact with it, or share it with others."
+        },
+        {
+          "t": "p",
+          "x": "This capability is rolling out globally on the web today for Gemini Notebook users (18+), including Google Workspace subscribers, and is coming soon to the mobile app."
+        },
+        {
+          "t": "video",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Sites_Final.mp4"
+        }
+      ]
+    },
+    "design/onepassword-figma-make": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/bbbd715863ae9596492a6b6eda14af49a9b802de-2400x1260.png?w=1200&q=70&fit=max&auto=format"
+        },
+        {
+          "t": "p",
+          "x": "Anytime a user autofills a login on their phone, uses 1Password on their desktop, or approves a credential request from an AI agent through the browser extension, the experience has to feel unmistakably like 1Password. “I'd say it's trust and certainty,” says Matt Davey, Chief Experience Officer at 1Password."
+        },
+        {
+          "t": "p",
+          "x": "The design systems team turned nearly two decades of design guidance into context that tools can use, so Figma Make and other agents follow the same rules a designer would. Ryan Williamson-Cardneau's team built an internal prototype playground: a front-end-only repo with code templates for 1Password's products, built directly from their Figma files."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/a17b404ae2b6620f5900cc3aec4ff42c6e1a150c-1706x1410.png?rect=1,0,1705,1410&w=1080&h=893&q=75&fit=max&auto=format",
+          "cap": "1Password’s prototype playground open in Figma Make, where designers can select a coded component and adjust it through chat or its properties panel."
+        },
+        {
+          "t": "p",
+          "x": "Instead of making 30 quick edits by hand, Ryan found that Figma Make got about 80% of them right. Matt calls duplicating a prototype and comparing versions side by side “visual branching.” With the chat connected to 1Password’s MCP, “It’s a sparring partner,” he says."
+        },
+        {
+          "t": "p",
+          "x": "Every designer at 1Password has been onboarded to the prototype playground, and engineers and PMs are building prototypes there, too. 1Password has largely replaced its wired-up Figma prototypes with coded ones for user testing."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/ec408a42a9435922312ea6e79eb44ac6826c9a07-1706x1408.png?rect=0,1,1706,1407&w=1080&h=891&q=75&fit=max&auto=format",
+          "cap": "The prototype playground holds prototypes from across the team, each started from a coded 1Password product template."
+        }
+      ]
+    },
+    "design/design-fable52-brushstroke-painter": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://the-decoder.com/wp-content/uploads/2026/11/claude_fable_5.2_painting.png",
+          "cap": "Nano Banana Pro prompted by THE DECODER"
+        },
+        {
+          "t": "p",
+          "x": "Anthropic's new language model Claude Fable 5.2 can create complex and even photorealistic paintings by using code to place hundreds of thousands of individual brushstrokes on a virtual canvas. Current image models like Midjourney typically use diffusion; Fable 5.2 instead simulates the physical painting process, including bristle texture, how the paint goes on, and mistakes it then has to paint over."
+        },
+        {
+          "t": "p",
+          "x": "Asked by Anthropic developer Jake Eaton for a painting as hard to distinguish from a photograph as possible, the model generated a shopping cart in a parking garage using roughly 700,000 simulated brushstrokes. According to Eaton, Claude works without an external image model and without pre-rendered or traced source images. Each piece is a Python program of 1,000 to 2,000 lines that drives a simulated paint engine."
+        },
+        {
+          "t": "img",
+          "src": "https://pbs.twimg.com/media/HWtMXeqboAA3yPD?format=jpg&name=medium",
+          "cap": "About 700,000 simulated brushstrokes went into this photorealistic parking garage scene by Claude Fable 5.2. | Image: Jake Eaton"
+        },
+        {
+          "t": "p",
+          "x": "Anthropic engineer Michael Graczyk asked Fable 5.2 to paint a bird at sunrise, outputting every brushstroke as its own coordinate line with no way to undo. The 21-second video tracks the painting taking shape from exactly 111 strokes. Between passes, the model looked at the canvas and reacted to its own mistakes like a real painter would."
+        },
+        {
+          "t": "video",
+          "src": "https://the-decoder.com/wp-content/uploads/2026/11/graczyk_demo.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Anthropic reports a score of 64.9 percent for Fable 5.2 on its internal RoboDojo Sim benchmark, compared with 29.8 percent for OpenAI's GPT-6 Astra. In AI researcher Aris Zhu's real-world robot-arm test, Astra painted faster and showed better fine motor control."
+        }
+      ]
     }
   }
 }

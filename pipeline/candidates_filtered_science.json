@@ -1,207 +1,111 @@
 {
   "section": "science",
-  "now_iso": "2026-11-15T22:00:36Z",
+  "now_iso": "2026-11-16T22:37:00Z",
   "window_hours": 336,
   "items": [
     {
-      "title": "New AI tool exposes plant pathogens and the genes behind them",
-      "url": "https://phys.org/news/2026-11-ai-tool-exposes-pathogens-genes.html",
+      "title": "From 400 miles above Earth, AI tracks invasive leafy spurge",
+      "url": "https://phys.org/news/2026-11-miles-earth-ai-tracks-invasive.html",
       "source": "Phys.org",
-      "category": "science",
-      "published_iso": "2026-11-12T17:00:11-05:00",
-      "excerpt": "Leiden University's bacLIFE uses machine learning across 16,000+ plant-associated bacterial genomes to flag lifestyle and disease-linked genes; knocking out six candidate genes made bacteria far worse at infecting plants (PhD thesis, Guerrero Egido). Detection/knockout only, no enhancement.",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/new-ai-tool-exposes-pl.jpg",
-      "history_match": {
-        "score": 0.205,
-        "date": "2026-10-29",
-        "url": "https://phys.org/news/2026-10-rice-devastating-disease-gene-ai.html",
-        "title": "Rice plants can fight off devastating disease after gene editing with AI-designed tool",
-        "band": "related"
-      }
+      "category": "life_science",
+      "published_iso": "2026-11-16T13:20:15-05:00",
+      "excerpt": "Harnessing satellite imagery, AI deep-learning models and community science data, scientists from the University of Minnesota have tracked the spread of leafy spurge over a 20-year period.",
+      "og_image": "https://scx2.b-cdn.net/gfx/news/2026/a-field-of-leafy-spurg.jpg"
     },
     {
-      "title": "AI improves cosmic particle scans to locate hidden objects more accurately in simulations",
-      "url": "https://techxplore.com/news/2026-11-ai-cosmic-particle-scans-hidden.html",
-      "source": "Tech Xplore",
-      "category": "science",
-      "published_iso": "2026-11-12T15:00:24-05:00",
-      "excerpt": "University of Tartu and GScan trained ML models on both straight-through and scattered cosmic-ray muons for muon tomography; in simulations a hybrid method located hidden objects better and cut wrongly merged nearby objects from about 15% to 2% (IEEE Access).",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-university-of.jpg"
-    },
-    {
-      "title": "Using AI to accelerate neuroscience research",
-      "url": "https://medicalxpress.com/news/2026-11-ai-neuroscience.html",
-      "source": "Medical Xpress",
-      "category": "science",
-      "published_iso": "2026-11-14T12:00:24-05:00",
-      "excerpt": "Society for Neuroscience preview of Neuroscience 2026 talks: Tsinghua's Guanglong Sun finds a shared memory-formation learning principle between artificial neural networks and fruit flies; UC Irvine's Vivek Swarup presents a plain-English AI tool for genomic data analysis. Roundup, few numbers.",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2025/neuroscience.jpg"
-    },
-    {
-      "title": "AI-powered bionic eye breakthrough could help the blind see again",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261110042553.htm",
-      "source": "ScienceDaily",
-      "category": "science",
-      "published_iso": "2026-11-12T06:55:55-05:00",
-      "excerpt": "UC Santa Barbara and partners used a deep learning system to design electrical stimulation patterns for electrodes in a blind volunteer's visual cortex, improving control and prediction of perceived phosphene shapes (Neuron proof-of-concept).",
-      "og_image": null
-    },
-    {
-      "title": "This AI finds patterns in visual brain activity and turns them into pictures",
-      "url": "https://www.livescience.com/technology/artificial-intelligence/this-ai-finds-patterns-in-visual-brain-activity-and-turns-them-into-pictures",
-      "source": "Live Science",
-      "category": "science",
-      "published_iso": "2026-11-13T10:00:00Z",
-      "excerpt": "A new AI model, Brain-IT, reconstructs images from fMRI brain scans and runs the reverse, predicting what an image would look like as visual-cortex activity. (Brain decoding; cognition lane is LOW today.)",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/BVofRKX8x3iWuYZNW7tcGZ-2000-80.jpg",
-      "history_match": {
-        "score": 0.174,
-        "date": "2026-11-14",
-        "url": "https://www.psypost.org/scientists-built-an-ai-called-concept2brain-that-simulates-human-brain-waves-from-pictures-and-text/",
-        "title": "Scientists built an AI called 'Concept2Brain' that simulates human brain waves from pictures and text",
-        "band": "related"
-      }
-    },
-    {
-      "title": "An animal researcher explains how she decoded birdsong with AI",
-      "url": "https://www.livescience.com/animals/birds/the-first-species-we-might-be-able-to-communicate-with-interact-with-vocally-might-be-a-bird-an-animal-researcher-explains-how-she-decoded-birdsong",
-      "source": "Live Science",
-      "category": "science",
-      "published_iso": "2026-11-10T11:00:00Z",
-      "excerpt": "Interview with UC Berkeley computational neuroethologist Julie Elie on combining machine learning with behavioural experiments to decode zebra finch calls and what they reveal about avian social intelligence (bioacoustics; Q&A format, not a new paper).",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/iFQmJKT3D3QzMAhH38ETgG-2000-80.jpg"
-    },
-    {
-      "title": "New AI Models Are Turbo-Charging Protein Design",
-      "url": "https://www.genengnews.com/topics/artificial-intelligence/new-ai-models-are-turbo-charging-protein-design/",
-      "source": "GEN - Genetic Engineering and Biotechnology News",
-      "category": "science",
-      "published_iso": "2026-11-09T13:55:53Z",
-      "excerpt": "GEN feature: computer-designed protein therapeutics move from proof-of-concept to wet-lab validation and clinical trials; e.g. Anthropic's Claude Opus 4.8 designed multiple binders to the hard target TNFalpha. Industry survey feature rather than single paper.",
-      "og_image": "https://www.genengnews.com/wp-content/uploads/2026/11/GEN_NOV_2026_GettyImages-2172899400.jpg",
-      "history_match": {
-        "score": 0.15,
-        "date": "2026-10-17",
-        "url": "https://phys.org/news/2026-10-ai-molecular-scissors-protein.html",
-        "title": "AI designs working molecular scissors that recognize and cut selected protein targets",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Advancing science & engineering with Antigravity's /teamwork",
-      "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
-      "source": "Google Research",
-      "category": "science",
-      "published_iso": "2026-11-13T20:47:18Z",
-      "excerpt": "Google's multi-agent /teamwork pairs researchers with parallel Gemini agents plus automated verifiers; results include a full Lean 4-formalized proof of the 2013 Courtade-Kumar information-theory conjecture and a machine-checked Weil conjectures formalization. (Lean/formal-proof lane is deprioritized today.)",
-      "og_image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg"
-    },
-    {
-      "title": "AI Agents Ran a Biology Lab. Humans Popped in to Empty the Trash.",
-      "url": "https://singularityhub.com/2026/11/10/ai-agents-ran-a-biology-lab-humans-popped-in-to-empty-the-trash/",
-      "source": "SingularityHub",
-      "category": "science",
-      "published_iso": "2026-11-10T08:18:21-08:00",
-      "excerpt": "Shanghai Jiao Tong University's AutoDNA: an AI coordinator and agents plan workflows from literature, write control code and drive robot arms across 20+ lab instruments to run DNA-storage experiments end to end, with humans only restocking (Nature). Off-list outlet: no allowed-domain coverage found.",
-      "og_image": "https://singularityhub.com/uploads/2026/11/pink-pipette-rows-of-test-tubes.jpeg?auto=webp",
-      "history_match": {
-        "score": 0.389,
-        "date": "2026-11-07",
-        "url": "https://www.nature.com/articles/d41586-026-03552-8",
-        "title": "AI agents run this automated biology lab that sequences DNA and more",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Dark matter-hunting satellite Euclid reveals record number of cosmic 'magnifying glasses'",
+      "title": "Dark matter–hunting satellite Euclid reveals record number of cosmic 'magnifying glasses'",
       "url": "https://phys.org/news/2026-11-dark-matterhunting-satellite-euclid-reveals.html",
       "source": "Phys.org",
-      "published_iso": "2026-11-15T00:00:00-05:00",
-      "excerpt": "Euclid's first major data release yields about 15,000 new candidate strong gravitational lenses, more than all previous catalogs combined; a four-stage pipeline starts with machine learning to parse the survey for likely lenses before citizen-science and expert review (UBC; 26 papers submitted to Astronomy & Astrophysics).",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/disc-of-m81-feat-holmb.jpg",
-      "category": "science"
+      "category": "astronomy",
+      "published_iso": "2026-11-15T15:00:01-05:00",
+      "excerpt": "UBC researchers have helped uncover 15,000 new potential strong gravitational lenses—the largest collection of these cosmic tools that help astronomers investigate dark matter.",
+      "og_image": "https://scx2.b-cdn.net/gfx/news/hires/2026/disc-of-m81-feat-holmb.jpg"
     },
     {
-      "title": "Finding romance with AI: Study explores benefits, limits of chatbot intimacy",
-      "url": "https://phys.org/news/2026-11-romance-ai-explores-benefits-limits.html",
+      "title": "AI and experiments reveal impurities hindering waste plastic pyrolysis oil recycling",
+      "url": "https://phys.org/news/2026-11-ai-reveal-impurities-hindering-plastic.html",
       "source": "Phys.org",
-      "published_iso": "2026-11-12T00:00:00-05:00",
-      "excerpt": "University of Michigan survey of 463 U.S. adults in chatbot, long-distance and in-person relationships finds similar emotional and intellectual intimacy ratings, but in chatbot relationships emotional intimacy tracked with more loneliness unless social support was accounted for (Computers in Human Behavior: Artificial Humans).",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/chatbot-relationship.jpg",
-      "category": "science"
+      "category": "materials",
+      "published_iso": "2026-11-16T14:40:07-05:00",
+      "excerpt": "A Korean research team has identified how impurities interfere with the use of waste plastic pyrolysis oil as a petrochemical feedstock through catalytic experiments and artificial intelligence (AI)-based computational chemistry. The findings, published in the journal ACS Catalysis, provide a scientific basis for predicting potential declines in catalytic performance according to the types and concentrations of impurities present.",
+      "og_image": "https://scx2.b-cdn.net/gfx/news/2026/ai-and-experiments-rev-2.jpg"
     },
     {
-      "title": "AI system can reconstruct aerodynamic shapes and predict their performance",
-      "url": "https://techxplore.com/news/2026-11-ai-reconstruct-aerodynamic.html",
+      "title": "Less data, faster discovery: Researchers rethink AI's role in developing new materials",
+      "url": "https://techxplore.com/news/2026-11-faster-discovery-rethink-ai-role.html",
       "source": "Tech Xplore",
-      "published_iso": "2026-11-12T00:00:00-05:00",
-      "excerpt": "Kyushu University's PI-GAE, a physics-informed graph autoencoder, compresses wing and compressor-blade shapes into a few variables, rebuilds them and predicts aerodynamic performance without a full CFD run per design (Computer Methods in Applied Mechanics and Engineering).",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/an-ai-system-that-reco.jpg",
-      "category": "science"
+      "category": "materials",
+      "published_iso": "2026-11-16T09:30:01-05:00",
+      "excerpt": "Developing new materials often starts with understanding their electronic structure, or how electrons are arranged and behave within them. Calculating these electronic structures typically requires expensive simulations on supercomputers. That's led researchers to train artificial intelligence models on millions of simulated data points to make faster predictions.",
+      "og_image": "https://scx2.b-cdn.net/gfx/news/hires/2026/ai-12.jpg"
+    },
+    {
+      "title": "Quantum neural networks with high-dimensional quantum neurons",
+      "url": "https://techxplore.com/news/2026-11-quantum-neural-networks-high-dimensional.html",
+      "source": "Tech Xplore",
+      "category": "quantum",
+      "published_iso": "2026-11-16T08:40:04-05:00",
+      "excerpt": "How can we scale up a quantum neural network? One way is to add more qubits as neurons. But a study titled \"Quantum neural network equipped with backpropagation on a qudit processor\" published in National Science Review shows another way.",
+      "og_image": "https://scx2.b-cdn.net/gfx/news/2026/quantum-neural-network-1.jpg"
     },
     {
       "title": "AI toolbox accelerates bioreactor simulations by up to 10,000 times",
       "url": "https://techxplore.com/news/2026-11-ai-toolbox-bioreactor-simulations.html",
       "source": "Tech Xplore",
+      "category": "physics",
       "published_iso": "2026-11-11T11:40:26-05:00",
-      "excerpt": "TU Graz's CLARA toolbox uses unsupervised clustering to collapse millions of CFD data points into a small network of compartments, automating reduced-order bioreactor models that run up to 10,000x faster (Chemical Engineering Science).",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/bioreactor.jpg",
-      "category": "science"
+      "excerpt": "The control of large-scale industrial bioreactors is one of the most complex tasks in the process industry. In the often huge plants, the smallest differences in temperature, pH value or oxygen content determine the success or failure of a process.",
+      "og_image": "https://scx2.b-cdn.net/gfx/news/hires/2026/bioreactor.jpg"
     },
     {
-      "title": "Astronomers discover hidden alien planet in James Webb images",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261108233028.htm",
-      "source": "ScienceDaily",
-      "published_iso": "2026-11-10T18:56:04-05:00",
-      "excerpt": "A digital twin of JWST, built by combining a physical instrument model with machine-learning optimization tools, removes starlight glare far more precisely, making faint exoplanets 2 to 15 times easier to detect and revealing a previously hidden planet in archival data.",
-      "og_image": null,
-      "category": "science",
-      "history_match": {
-        "score": 0.438,
-        "date": "2026-11-06",
-        "url": "https://www.universetoday.com/articles/exoplanets-cant-hide-from-the-jwsts-digital-twin",
-        "title": "Exoplanets Can't Hide From The JWST's 'Digital Twin'",
-        "band": "likely-repeat"
-      }
+      "title": "Scientists who use AI propose less distinctive ideas for federal research grants",
+      "url": "https://www.psypost.org/scientists-who-use-ai-propose-less-distinctive-ideas-for-federal-research-grants/",
+      "source": "PsyPost",
+      "category": "psychology",
+      "published_iso": "2026-11-16T21:00:36+00:00",
+      "excerpt": "A new study of U.S. federal grant applications suggests that scientists using generative AI tend to pitch research closer to previously funded topics. At the NIH, AI-heavy proposals won funding more often and preceded modestly more routine papers.",
+      "og_image": "https://www.psypost.org/wp-content/uploads/2025/11/artificial-intelligence.jpg"
+    },
+    {
+      "title": "Scientists might have discovered what makes AI so effective at chess",
+      "url": "https://www.scientificamerican.com/article/scientists-might-have-discovered-what-makes-ai-so-effective-at-chess/",
+      "source": "Scientific American",
+      "category": "cognition",
+      "published_iso": "2026-11-15T07:00:00-05:00",
+      "excerpt": "AI’s comfort with complexity could be key to its chess-playing prowess",
+      "og_image": "https://static.scientificamerican.com/dam/asset/1e99e951-c633-4384-8edb-9267b4a202c9/saw1226_0127Adva06.jpg?m=1793651269.904&w=1200"
+    },
+    {
+      "title": "AI has put young mathematicians in an impossible situation",
+      "url": "https://www.scientificamerican.com/article/math-students-fear-ai-will-take-their-jobs-theyre-using-it-anyway/",
+      "source": "Scientific American",
+      "category": "psychology",
+      "published_iso": "2026-11-16T09:00:00-05:00",
+      "excerpt": "A survey of 268 graduate students and postdocs reveals researchers are unsure of their future in mathematics and uneasy about using AI—the very technology they fear",
+      "og_image": "https://static.scientificamerican.com/dam/asset/3fe4c4cd-b942-4d99-a83a-414ac96ae998/ai-math-still.jpg?m=1794846748.118&w=1200"
+    },
+    {
+      "title": "Using AI to accelerate neuroscience research",
+      "url": "https://medicalxpress.com/news/2026-11-ai-neuroscience.html",
+      "source": "Medical Xpress",
+      "category": "cognition",
+      "published_iso": "2026-11-14T12:00:24-05:00",
+      "excerpt": "Integrating artificial intelligence (AI) into neuroscience is changing how scientists engage with data, improving our understanding of the brain and leading to better ways of training computational models. The findings will be presented at Neuroscience 2026, the annual meeting of the Society for Neuroscience.",
+      "og_image": "https://scx2.b-cdn.net/gfx/news/hires/2025/neuroscience.jpg"
     }
   ],
   "dedup": {
     "dropped": 0,
-    "kept": 14,
+    "kept": 10,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
     "dropped": [],
-    "review": 5,
+    "review": 0,
     "same_story_pairs": []
   },
   "history_digest": [
-    {
-      "date": "2026-10-17",
-      "title": "AI designs working molecular scissors that recognize and cut selected protein targets",
-      "url": "https://phys.org/news/2026-10-ai-molecular-scissors-protein.html"
-    },
-    {
-      "date": "2026-10-17",
-      "title": "Physics-guided AI reconstructs hidden patterns inside ultrathin magnets from external fields",
-      "url": "https://phys.org/news/2026-10-physics-ai-reconstructs-hidden-patterns.html"
-    },
-    {
-      "date": "2026-10-17",
-      "title": "Using electronic structure to guide AI in designing new materials",
-      "url": "https://techxplore.com/news/2026-10-electronic-ai-materials.html"
-    },
-    {
-      "date": "2026-10-17",
-      "title": "He Wants AI Benchmarking To Be a Science, Not a Dark Art",
-      "url": "https://www.quantamagazine.org/he-wants-ai-benchmarking-to-be-a-science-not-a-dark-art-20261016/"
-    },
-    {
-      "date": "2026-10-17",
-      "title": "Can AI break encryption? OpenAI's new math has cryptographers divided",
-      "url": "https://www.scientificamerican.com/article/can-ai-break-encryption-openai-new-math-has-cryptographers-divided/"
-    },
     {
       "date": "2026-10-18",
       "title": "Fully automated testing of bulk metals paves the way for AI-driven materials development",
@@ -876,6 +780,31 @@
       "date": "2026-11-15",
       "title": "AI supercharges laser physics with a stunning 250x speed boost",
       "url": "https://www.sciencedaily.com/releases/2026/11/261111005913.htm"
+    },
+    {
+      "date": "2026-11-16",
+      "title": "Finding romance with AI: Study explores benefits, limits of chatbot intimacy",
+      "url": "https://phys.org/news/2026-11-romance-ai-explores-benefits-limits.html"
+    },
+    {
+      "date": "2026-11-16",
+      "title": "Advancing science & engineering with Antigravity's /teamwork",
+      "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/"
+    },
+    {
+      "date": "2026-11-16",
+      "title": "AI improves cosmic particle scans to locate hidden objects more accurately in simulations",
+      "url": "https://techxplore.com/news/2026-11-ai-cosmic-particle-scans-hidden.html"
+    },
+    {
+      "date": "2026-11-16",
+      "title": "This AI finds patterns in visual brain activity and turns them into pictures",
+      "url": "https://www.livescience.com/technology/artificial-intelligence/this-ai-finds-patterns-in-visual-brain-activity-and-turns-them-into-pictures"
+    },
+    {
+      "date": "2026-11-16",
+      "title": "AI-powered bionic eye breakthrough could help the blind see again",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261110042553.htm"
     }
   ]
 }

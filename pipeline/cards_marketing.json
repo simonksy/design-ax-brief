@@ -1,191 +1,191 @@
 {
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "section": "marketing",
   "cards": [
     {
-      "id": "google-aimax-matchtype-param",
+      "id": "admob-ask-gemini-agent",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "정확 일치 클릭 속\nAI Max 가려낸다",
-      "body": "AI Max발 정확 일치 Search 클릭엔 ValueTrack이 'a'를 붙인다.",
-      "mini_headline": "Google, AI Max 클릭 표시",
+      "headline": "Google Gemini,\nAsk AdMob에 탑재",
+      "body": "Ask AdMob은 설정 오류와 하한가 불일치를 잡고 SDK 입찰자를 추천한다.",
+      "mini_headline": "AdMob용 Gemini 에이전트",
       "tool": "Marketing",
-      "source": "PPC Land",
-      "url": "https://ppc.land/googles-new-parameter-shows-when-an-exact-click-was-really-ai-max/",
+      "source": "Google Blog",
+      "url": "https://blog.google/products/publisher-connections/new-google-admob-tools/",
       "accent": "#ff8a3d",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://ppc.land/content/images/2026/11/google-ads-search-term-matchtype-valuetrack-ai-max-clicks-exact-label-conveyor-parcel-stamp.jpg"
+            "t": "p",
+            "x": "Google이 AdMob용 새 AI 도구인 Ask AdMob, 에이전트 스킬, MCP 서버를 선보인다. 앱 개발자가 사업을 더 빨리 세우고 고치고 키우게 하려는 취지다. 광고 설정을 수작업으로 관리하고 연동 오류를 고치고 브랜드 안전성을 점검하는 일은 개발에 쏟아야 할 팀의 힘을 빼앗는다."
           },
           {
             "t": "p",
-            "x": "Google Ads가 ValueTrack 매개변수 {search_term_matchtype}을 추가했다. 검색어가 광고주의 자체 키워드로 광고에 닿았는지, AI Max 확장으로 닿았는지를 클릭 URL에 남기는 값이다. PPC News Feed는 2026년 11월 11일 이 소식을 전하면서 Google 도움말 페이지에서 이를 찾아낸 사람으로 Hana Kobzová를 꼽았다. 페이지에 변경 날짜는 적혀 있지 않다."
+            "x": "Gemini로 만든 대화형 에이전트 Ask AdMob은 AdMob 계정 안에 바로 자리 잡는다. AdMob 수익화 모범 사례를 학습해 AdMob 제품 전문가처럼 문제 해결과 수익 기회 발굴, 브랜드 안전 관리를 돕는다. 문제 해결 허브는 설정 이상과 SDK 연동 문제를 찾아낸다."
           },
           {
             "t": "p",
-            "x": "값은 정확 일치면 \"e\", 구문 일치면 \"p\", 확장 일치면 \"b\", AI Max 확장 일치와 키워드 없는 일치면 \"a\"다. 기존 {matchtype}은 AI Max 확장 일치에도 키워드 자체의 일치 유형을 붙인다. 그래서 AI Max로 노출된 정확 일치 키워드 클릭도 matchtype=e를 달고 들어왔다. 이 차이는 \"a\"를 돌려주는 새 매개변수로만 드러난다."
+            "x": "Ask AdMob은 동종 업계 벤치마크로 예상 수익 상승폭과 함께 고가치 SDK 입찰자를 추천하고 미디에이션 그룹 최적화를 돕는다. 서드파티 네트워크 설정을 자동으로 점검해 수익에 영향을 주기 전에 값비싼 오타와 가격 하한 불일치를 잡아낸다. 브랜드 안전 규칙도 수동 차단 목록 없이 간단한 자연어 프롬프트로 정한다."
           },
           {
             "t": "p",
-            "x": "Google의 \"Tracking AI Max matches\" 가이드는 {matchtype}, {targetid}, {keyword}, {search_term_matchtype}을 조합해 트래픽을 일반 키워드 일치, AI Max 확장 일치, AI Max 키워드 없는 확장, AI Max 키워드 없는 URL 규칙으로 나눈다. Smarter Ecommerce에 따르면 정확 일치 노출 중 AI Max 확장(AI Max-expanded) 비중은 2026년 7월까지 29% 가까이 올랐다."
+            "x": "Google은 앞으로 몇 달 안에 이 기능의 테스트를 시작한다. 사용자를 대신해 조치하는 고급 기능은 내년 후반에 나온다. 권고는 모두 사용자가 검토하고 승인해야 적용되므로 통제권은 사용자에게 남는다."
           },
           {
             "t": "p",
-            "x": "매개변수가 생겼다고 AI Max의 검색어 일치 방식이나 Google 입찰, 광고주가 내는 비용이 달라지지는 않는다. 넓어지는 건 랜딩 페이지 URLs를 읽는 애널리틱스, CRM, 리포팅 시스템 같은 하위 단계의 측정 범위뿐이다."
+            "x": "AdMob 에이전트 스킬은 Google Mobile Ads Next-Gen SDK 이전이나 새 광고 형식 구현 같은 작업에 쓸 플레이북을 미리 만들고 검증해 AI 에이전트에 준다. 초기 테스트 중인 AdMob MCP 서버는 에이전트가 계정 데이터를 읽고 새 광고 단위를 만들고 미디에이션 설정을 관리하게 해 준다. 내년 초에는 더 많은 개발자에게 열린다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Google flags exact clicks\nthat were really AI Max",
-          "body": "A new ValueTrack parameter returns 'a' when a Search click on an exact-match keyword came from AI Max expansion.",
-          "mini_headline": "Google tags AI Max clicks",
+          "headline": "Google's Ask AdMob puts Gemini\non app ad monetization",
+          "body": "Ask AdMob flags setup errors, uses peer benchmarks to suggest SDK bidders and catches floor-price discrepancies.",
+          "mini_headline": "Gemini agent for AdMob",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://ppc.land/content/images/2026/11/google-ads-search-term-matchtype-valuetrack-ai-max-clicks-exact-label-conveyor-parcel-stamp.jpg"
+                "t": "p",
+                "x": "Google is introducing new AI tools for AdMob — Ask AdMob, agent skills and an MCP server — to help app developers build, fix, and grow their businesses faster. Manually managing ad setups, fixing integration errors, and auditing brand safety pulls teams' focus away from building."
               },
               {
                 "t": "p",
-                "x": "Google Ads has added a ValueTrack parameter, {search_term_matchtype}, that records inside the click URL whether a search term reached an ad through the advertiser's own keyword or through an AI Max expansion. PPC News Feed reported it on November 11, 2026, crediting Hana Kobzová with spotting it on Google's help page; the page gives no date for the change."
+                "x": "Ask AdMob, a conversational agent built with Gemini, will live directly in your AdMob account. Trained on AdMob monetization best practices, it can help fix issues, find revenue opportunities, and protect brand safety like an AdMob product expert. Its troubleshooting hub will help spot setup anomalies and SDK integration issues."
               },
               {
                 "t": "p",
-                "x": "It records \"e\" for exact, \"p\" for phrase, \"b\" for broad, or \"a\" for AI Max broad expansions and keywordless matches. The older {matchtype} labels AI Max broad expansions with the keyword's own match type, so a click on an exact match keyword served through AI Max arrived carrying matchtype=e. Only the new parameter, returning \"a,\" marks the difference."
+                "x": "Ask AdMob uses peer benchmarks to recommend high-value SDK bidders with predicted revenue uplifts and help optimize mediation groups. It will automatically check third-party network configuration to catch costly typos and floor price discrepancies before they impact yield. Brand safety rules can be configured with simple, natural-language prompts instead of manual blocklists."
               },
               {
                 "t": "p",
-                "x": "Google's \"Tracking AI Max matches\" guidance combines {matchtype}, {targetid}, {keyword} and {search_term_matchtype} to sort traffic into standard keyword matches, AI Max broad expansions, AI Max keywordless expansions and AI Max keywordless URL rules. Smarter Ecommerce found the AI Max-expanded share of exact match impressions rose to nearly 29% by July 2026."
+                "x": "Google will begin testing these capabilities over the next few months, with more advanced features to take action on your behalf later next year. You remain in control, reviewing and approving every recommendation before it's applied."
               },
               {
                 "t": "p",
-                "x": "The parameter does not change how AI Max matches queries, how Google bids or what advertisers pay. It changes only what can be measured downstream, in analytics, CRM and reporting systems that read landing page URLs."
+                "x": "AdMob agent skills give your AI agent pre-built, tested playbooks for tasks like migrating to the Google Mobile Ads Next-Gen SDK and implementing new ad formats. An AdMob MCP server, in early testing, will let agents read account data, write new ad units, and manage mediation settings, expanding to more developers early next year."
               }
             ]
           }
         },
         "ko": {
-          "headline": "정확 일치 클릭 속\nAI Max 가려낸다",
-          "body": "AI Max발 정확 일치 Search 클릭엔 ValueTrack이 'a'를 붙인다.",
-          "mini_headline": "Google, AI Max 클릭 표시",
+          "headline": "Google Gemini,\nAsk AdMob에 탑재",
+          "body": "Ask AdMob은 설정 오류와 하한가 불일치를 잡고 SDK 입찰자를 추천한다.",
+          "mini_headline": "AdMob용 Gemini 에이전트",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://ppc.land/content/images/2026/11/google-ads-search-term-matchtype-valuetrack-ai-max-clicks-exact-label-conveyor-parcel-stamp.jpg"
+                "t": "p",
+                "x": "Google이 AdMob용 새 AI 도구인 Ask AdMob, 에이전트 스킬, MCP 서버를 선보인다. 앱 개발자가 사업을 더 빨리 세우고 고치고 키우게 하려는 취지다. 광고 설정을 수작업으로 관리하고 연동 오류를 고치고 브랜드 안전성을 점검하는 일은 개발에 쏟아야 할 팀의 힘을 빼앗는다."
               },
               {
                 "t": "p",
-                "x": "Google Ads가 ValueTrack 매개변수 {search_term_matchtype}을 추가했다. 검색어가 광고주의 자체 키워드로 광고에 닿았는지, AI Max 확장으로 닿았는지를 클릭 URL에 남기는 값이다. PPC News Feed는 2026년 11월 11일 이 소식을 전하면서 Google 도움말 페이지에서 이를 찾아낸 사람으로 Hana Kobzová를 꼽았다. 페이지에 변경 날짜는 적혀 있지 않다."
+                "x": "Gemini로 만든 대화형 에이전트 Ask AdMob은 AdMob 계정 안에 바로 자리 잡는다. AdMob 수익화 모범 사례를 학습해 AdMob 제품 전문가처럼 문제 해결과 수익 기회 발굴, 브랜드 안전 관리를 돕는다. 문제 해결 허브는 설정 이상과 SDK 연동 문제를 찾아낸다."
               },
               {
                 "t": "p",
-                "x": "값은 정확 일치면 \"e\", 구문 일치면 \"p\", 확장 일치면 \"b\", AI Max 확장 일치와 키워드 없는 일치면 \"a\"다. 기존 {matchtype}은 AI Max 확장 일치에도 키워드 자체의 일치 유형을 붙인다. 그래서 AI Max로 노출된 정확 일치 키워드 클릭도 matchtype=e를 달고 들어왔다. 이 차이는 \"a\"를 돌려주는 새 매개변수로만 드러난다."
+                "x": "Ask AdMob은 동종 업계 벤치마크로 예상 수익 상승폭과 함께 고가치 SDK 입찰자를 추천하고 미디에이션 그룹 최적화를 돕는다. 서드파티 네트워크 설정을 자동으로 점검해 수익에 영향을 주기 전에 값비싼 오타와 가격 하한 불일치를 잡아낸다. 브랜드 안전 규칙도 수동 차단 목록 없이 간단한 자연어 프롬프트로 정한다."
               },
               {
                 "t": "p",
-                "x": "Google의 \"Tracking AI Max matches\" 가이드는 {matchtype}, {targetid}, {keyword}, {search_term_matchtype}을 조합해 트래픽을 일반 키워드 일치, AI Max 확장 일치, AI Max 키워드 없는 확장, AI Max 키워드 없는 URL 규칙으로 나눈다. Smarter Ecommerce에 따르면 정확 일치 노출 중 AI Max 확장(AI Max-expanded) 비중은 2026년 7월까지 29% 가까이 올랐다."
+                "x": "Google은 앞으로 몇 달 안에 이 기능의 테스트를 시작한다. 사용자를 대신해 조치하는 고급 기능은 내년 후반에 나온다. 권고는 모두 사용자가 검토하고 승인해야 적용되므로 통제권은 사용자에게 남는다."
               },
               {
                 "t": "p",
-                "x": "매개변수가 생겼다고 AI Max의 검색어 일치 방식이나 Google 입찰, 광고주가 내는 비용이 달라지지는 않는다. 넓어지는 건 랜딩 페이지 URLs를 읽는 애널리틱스, CRM, 리포팅 시스템 같은 하위 단계의 측정 범위뿐이다."
+                "x": "AdMob 에이전트 스킬은 Google Mobile Ads Next-Gen SDK 이전이나 새 광고 형식 구현 같은 작업에 쓸 플레이북을 미리 만들고 검증해 AI 에이전트에 준다. 초기 테스트 중인 AdMob MCP 서버는 에이전트가 계정 데이터를 읽고 새 광고 단위를 만들고 미디에이션 설정을 관리하게 해 준다. 내년 초에는 더 많은 개발자에게 열린다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "完全一致のクリック、\n実はAI Max経由",
-          "body": "AI Max経由の完全一致Searchクリックに、ValueTrackが'a'を返す。",
-          "mini_headline": "Google、AI Maxクリックを識別",
+          "headline": "Google Gemini、\nAsk AdMobに搭載",
+          "body": "Ask AdMobは設定ミスと下限価格の不一致を検出し、SDK入札者を提案する。",
+          "mini_headline": "AdMob向けGeminiエージェント",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://ppc.land/content/images/2026/11/google-ads-search-term-matchtype-valuetrack-ai-max-clicks-exact-label-conveyor-parcel-stamp.jpg"
+                "t": "p",
+                "x": "GoogleはAdMob向けの新しいAIツールとして、Ask AdMob、エージェントスキル、MCPサーバーを導入する。アプリ開発者がビジネスをより速く構築し、修正し、成長させるのを支援するためだ。広告設定の手動管理、連携エラーの修正、ブランドセーフティの監査は、チームの注意を開発からそらしてしまう。"
               },
               {
                 "t": "p",
-                "x": "Google Adsは、検索語句が広告主自身のキーワード経由で広告に到達したのか、AI Maxの拡張経由で到達したのかをクリックURL内に記録するValueTrackパラメータ{search_term_matchtype}を追加した。PPC News Feedが2026年11月11日に報じ、GoogleのヘルプページでこれをHana Kobzováが見つけたとしている。ページには変更の日付は記されていない。"
+                "x": "Geminiで構築された対話型エージェントのAsk AdMobは、AdMobアカウント内に直接組み込まれる。AdMobの収益化ベストプラクティスで学習しており、AdMobの製品エキスパートのように問題の修正、収益機会の発見、ブランドセーフティの保護を手助けする。トラブルシューティングハブは設定の異常やSDK連携の問題を見つけ出す。"
               },
               {
                 "t": "p",
-                "x": "値は完全一致なら\"e\"、フレーズ一致なら\"p\"、部分一致なら\"b\"、AI Maxの部分一致拡張とキーワードなしの一致なら\"a\"となる。従来の{matchtype}はAI Maxの部分一致拡張にキーワード自体のマッチタイプを付けるため、AI Max経由で配信された完全一致キーワードのクリックもmatchtype=eとして届いていた。違いを示すのは\"a\"を返す新パラメータだけだ。"
+                "x": "Ask AdMobは同業他社のベンチマークを使い、予測される収益の上積みとともに価値の高いSDK入札者を推奨し、メディエーショングループの最適化を支援する。サードパーティネットワークの設定を自動で確認し、収益に響く前に高くつくタイプミスや下限価格の不一致を捉える。ブランドセーフティのルールは、手動のブロックリストではなく、簡単な自然言語プロンプトで設定できる。"
               },
               {
                 "t": "p",
-                "x": "Googleのガイダンス「Tracking AI Max matches」は、{matchtype}、{targetid}、{keyword}、{search_term_matchtype}を組み合わせ、トラフィックを通常のキーワード一致、AI Maxの部分一致拡張、AI Maxのキーワードなし拡張、AI MaxのキーワードなしURLルールに分類する。Smarter Ecommerceによると、完全一致のインプレッションに占めるAI Max拡張分（AI Max-expanded）の割合は、2026年7月までに29%近くに達した。"
+                "x": "Googleは今後数か月のうちにこれらの機能のテストを始め、ユーザーに代わって操作を行うより高度な機能は来年後半に投入する。すべての推奨は適用前にユーザーが確認・承認するため、主導権はユーザー側に残る。"
               },
               {
                 "t": "p",
-                "x": "このパラメータは、AI Maxによる検索語句のマッチング、Googleの入札、広告主の支払額を変えない。変わるのは、ランディングページのURLsを読み取るアナリティクス、CRM、レポーティングシステムなど、下流で測定できる範囲だけだ。"
+                "x": "AdMobのエージェントスキルは、Google Mobile Ads Next-Gen SDKへの移行や新しい広告フォーマットの実装といった作業向けに、構築・検証済みのプレイブックをAIエージェントに提供する。初期テスト中のAdMob MCPサーバーは、エージェントがアカウントデータを読み取り、新しい広告ユニットを作成し、メディエーション設定を管理できるようにするもので、来年初めにより多くの開発者へ拡大する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Google标记来自\nAI Max的精确点击",
-          "body": "新的ValueTrack参数会在精确匹配Search点击来自AI Max扩展时返回'a'。",
-          "mini_headline": "Google标记AI Max点击",
+          "headline": "Google Gemini\n驱动Ask AdMob",
+          "body": "Ask AdMob可发现设置错误和底价差异，并参照同行基准推荐SDK竞价方。",
+          "mini_headline": "AdMob的Gemini智能体",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://ppc.land/content/images/2026/11/google-ads-search-term-matchtype-valuetrack-ai-max-clicks-exact-label-conveyor-parcel-stamp.jpg"
+                "t": "p",
+                "x": "Google正为AdMob推出新的AI工具——Ask AdMob、智能体技能和一个MCP服务器——帮助应用开发者更快地构建、修复和发展业务。手动管理广告设置、修复集成错误、审核品牌安全，都会分散团队对开发的专注。"
               },
               {
                 "t": "p",
-                "x": "Google Ads新增了ValueTrack参数{search_term_matchtype}，在点击URL中记录搜索词是通过广告主自己的关键字还是通过AI Max扩展触达广告。PPC News Feed于2026年11月11日报道此事，并称是Hana Kobzová在Google帮助页面上发现的；该页面未注明变更日期。"
+                "x": "Ask AdMob是基于Gemini构建的对话式智能体，将直接内置于AdMob账户中。它以AdMob变现最佳实践训练，能像AdMob产品专家一样帮助修复问题、发现收入机会并保护品牌安全。其故障排查中心将帮助发现设置异常和SDK集成问题。"
               },
               {
                 "t": "p",
-                "x": "该参数以\"e\"表示精确匹配，\"p\"表示词组匹配，\"b\"表示广泛匹配，\"a\"表示AI Max广泛扩展和无关键字匹配。旧的{matchtype}会给AI Max广泛扩展标上关键字本身的匹配类型，因此经AI Max投放的精确匹配关键字点击，到达时带的是matchtype=e。只有返回\"a\"的新参数能标出这一区别。"
+                "x": "Ask AdMob借助同行基准推荐高价值的SDK竞价方，并给出预测的收入提升，同时帮助优化中介组。它会自动检查第三方网络配置，在影响收益之前发现代价高昂的拼写错误和底价差异。品牌安全规则可以用简单的自然语言提示来设置，而无需手动维护屏蔽列表。"
               },
               {
                 "t": "p",
-                "x": "Google的“Tracking AI Max matches”指南将{matchtype}、{targetid}、{keyword}和{search_term_matchtype}组合使用，把流量分为标准关键字匹配、AI Max广泛扩展、AI Max无关键字扩展和AI Max无关键字URL规则。Smarter Ecommerce发现，到2026年7月，精确匹配展示中经AI Max扩展（AI Max-expanded）的占比已升至近29%。"
+                "x": "Google将在未来几个月开始测试这些功能，可代表用户执行操作的更高级功能将于明年晚些时候推出。用户仍掌握控制权，每条建议在应用前都由用户审核和批准。"
               },
               {
                 "t": "p",
-                "x": "该参数不会改变AI Max匹配查询的方式、Google的出价方式或广告主支付的费用。它改变的只是下游可衡量的内容，即读取着陆页URLs的分析、CRM和报告系统。"
+                "x": "AdMob智能体技能为AI智能体提供预先构建并经过测试的操作手册，用于迁移到Google Mobile Ads Next-Gen SDK、实现新广告格式等任务。处于早期测试阶段的AdMob MCP服务器将让智能体读取账户数据、新建广告单元并管理中介设置，明年初将向更多开发者开放。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Google marca los clics exactos\nque en realidad eran de AI Max",
-          "body": "Un nuevo parámetro de ValueTrack devuelve 'a' si un clic de Search en concordancia exacta vino de AI Max.",
-          "mini_headline": "Google etiqueta los clics de AI Max",
+          "headline": "Ask AdMob de Google lleva Gemini\na la monetización de apps",
+          "body": "Ask AdMob señala errores de configuración, sugiere pujadores SDK y detecta discrepancias de precio mínimo.",
+          "mini_headline": "Agente Gemini para AdMob",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://ppc.land/content/images/2026/11/google-ads-search-term-matchtype-valuetrack-ai-max-clicks-exact-label-conveyor-parcel-stamp.jpg"
+                "t": "p",
+                "x": "Google presenta nuevas herramientas de AI para AdMob —Ask AdMob, habilidades de agente y un servidor MCP— para ayudar a los desarrolladores de apps a construir, corregir y hacer crecer sus negocios más rápido. Gestionar a mano la configuración de anuncios, corregir errores de integración y auditar la seguridad de marca aparta a los equipos del desarrollo."
               },
               {
                 "t": "p",
-                "x": "Google Ads ha añadido un parámetro de ValueTrack, {search_term_matchtype}, que registra dentro de la URL del clic si un término de búsqueda llegó a un anuncio a través de la propia palabra clave del anunciante o de una expansión de AI Max. PPC News Feed lo informó el 11 de noviembre de 2026 y atribuyó a Hana Kobzová haberlo detectado en la página de ayuda de Google; la página no indica la fecha del cambio."
+                "x": "Ask AdMob, un agente conversacional creado con Gemini, estará integrado directamente en la cuenta de AdMob. Entrenado con las mejores prácticas de monetización de AdMob, puede ayudar a resolver problemas, encontrar oportunidades de ingresos y proteger la seguridad de marca como un experto en productos de AdMob. Su centro de solución de problemas ayudará a detectar anomalías de configuración y fallos de integración del SDK."
               },
               {
                 "t": "p",
-                "x": "Registra \"e\" para concordancia exacta, \"p\" para frase, \"b\" para amplia o \"a\" para las expansiones amplias de AI Max y las coincidencias sin palabra clave. El antiguo {matchtype} etiqueta las expansiones amplias de AI Max con el tipo de concordancia de la propia palabra clave, de modo que un clic en una palabra clave de concordancia exacta servido mediante AI Max llegaba con matchtype=e. Solo el nuevo parámetro, al devolver \"a\", marca la diferencia."
+                "x": "Ask AdMob usa referencias de pares para recomendar pujadores SDK de alto valor con aumentos de ingresos previstos y ayuda a optimizar los grupos de mediación. Revisará automáticamente la configuración de redes de terceros para detectar errores tipográficos costosos y discrepancias de precio mínimo antes de que afecten al rendimiento. Las reglas de seguridad de marca se pueden configurar con instrucciones sencillas en lenguaje natural en lugar de listas de bloqueo manuales."
               },
               {
                 "t": "p",
-                "x": "La guía \"Tracking AI Max matches\" de Google combina {matchtype}, {targetid}, {keyword} y {search_term_matchtype} para clasificar el tráfico en coincidencias estándar de palabra clave, expansiones amplias de AI Max, expansiones sin palabra clave de AI Max y reglas de URL sin palabra clave de AI Max. Smarter Ecommerce constató que la proporción de impresiones de concordancia exacta ampliadas por AI Max (AI Max-expanded) subió hasta casi el 29% en julio de 2026."
+                "x": "Google empezará a probar estas funciones en los próximos meses, y las funciones más avanzadas para actuar en nombre del usuario llegarán a finales del próximo año. El usuario mantiene el control y revisa y aprueba cada recomendación antes de aplicarla."
               },
               {
                 "t": "p",
-                "x": "El parámetro no cambia cómo AI Max empareja las consultas, cómo puja Google ni lo que pagan los anunciantes. Solo cambia lo que puede medirse más adelante, en los sistemas de analítica, CRM e informes que leen las URLs de las páginas de destino."
+                "x": "Las habilidades de agente de AdMob ofrecen a tu agente de AI guías prediseñadas y probadas para tareas como migrar al Google Mobile Ads Next-Gen SDK e implementar nuevos formatos de anuncio. Un servidor MCP de AdMob, en pruebas iniciales, permitirá a los agentes leer datos de la cuenta, crear nuevos bloques de anuncios y gestionar la configuración de mediación, y se ampliará a más desarrolladores a principios del próximo año."
               }
             ]
           }
@@ -193,121 +193,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "정확 일치 클릭 속\nAI Max 가려낸다",
-          "body": "AI Max발 정확 일치 Search 클릭에 ValueTrack이 'a'를 단다.",
-          "mini_headline": "Google, AI Max 클릭 표시",
+          "headline": "Google Gemini,\nAsk AdMob에 탑재",
+          "body": "Ask AdMob은 설정 오류와 하한가 불일치를 잡고 SDK 입찰자를 추천한다.",
+          "mini_headline": "AdMob용 Gemini 에이전트",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://ppc.land/content/images/2026/11/google-ads-search-term-matchtype-valuetrack-ai-max-clicks-exact-label-conveyor-parcel-stamp.jpg"
+                "t": "p",
+                "x": "Google이 AdMob용 새 AI 도구인 Ask AdMob, 에이전트 스킬, MCP 서버를 선보인다. 앱 개발자가 비즈니스를 더 빨리 구축하고 고치고 키우도록 돕기 위해서다. 광고 설정을 수작업으로 관리하고 연동 오류를 고치고 브랜드 안전성을 점검하는 일은 팀이 개발에 쏟을 집중력을 빼앗는다."
               },
               {
                 "t": "p",
-                "x": "Google Ads가 검색어가 광고주의 자체 키워드를 거쳐 광고에 닿았는지, AI Max 확장을 거쳐 닿았는지를 클릭 URL 안에 기록하는 ValueTrack 매개변수 {search_term_matchtype}을 추가했다. PPC News Feed는 2026년 11월 11일 이를 보도하며 Google 도움말 페이지에서 이를 찾아낸 사람으로 Hana Kobzová를 꼽았다. 해당 페이지에는 변경 날짜가 적혀 있지 않다."
+                "x": "Gemini로 만든 대화형 에이전트 Ask AdMob은 AdMob 계정 안에 바로 자리 잡는다. AdMob 수익화 모범 사례로 학습해 AdMob 제품 전문가처럼 문제를 고치고 수익 기회를 찾고 브랜드 안전성을 지키도록 돕는다. 문제 해결 허브는 설정 이상과 SDK 연동 문제를 찾아낸다."
               },
               {
                 "t": "p",
-                "x": "값은 정확 일치면 \"e\", 구문 일치면 \"p\", 확장 일치면 \"b\", AI Max 확장 일치와 키워드 없는 일치면 \"a\"다. 기존 {matchtype}은 AI Max 확장 일치에 키워드 자체의 일치 유형을 붙이기 때문에, AI Max로 노출된 정확 일치 키워드 클릭도 matchtype=e를 달고 들어왔다. 둘의 차이는 \"a\"를 반환하는 새 매개변수만 보여준다."
+                "x": "Ask AdMob은 동종 업계 벤치마크를 활용해 예상 수익 상승폭과 함께 고가치 SDK 입찰자를 추천하고 미디에이션 그룹 최적화를 돕는다. 서드파티 네트워크 설정을 자동으로 점검해 수익에 영향을 주기 전에 값비싼 오타와 가격 하한 불일치를 잡아낸다. 브랜드 안전 규칙은 수동 차단 목록 대신 간단한 자연어 프롬프트로 설정할 수 있다."
               },
               {
                 "t": "p",
-                "x": "Google의 \"Tracking AI Max matches\" 가이드는 {matchtype}, {targetid}, {keyword}, {search_term_matchtype}을 조합해 트래픽을 일반 키워드 일치, AI Max 확장 일치, AI Max 키워드 없는 확장, AI Max 키워드 없는 URL 규칙으로 나눈다. Smarter Ecommerce에 따르면 정확 일치 노출 가운데 AI Max 확장(AI Max-expanded) 비중은 2026년 7월까지 29% 가까이로 올랐다."
+                "x": "Google은 앞으로 몇 달 안에 이 기능의 테스트를 시작하고, 사용자를 대신해 조치하는 고급 기능은 내년 후반에 내놓을 예정이다. 모든 권고는 적용 전에 사용자가 검토하고 승인하므로 통제권은 사용자에게 있다."
               },
               {
                 "t": "p",
-                "x": "이 매개변수는 AI Max가 검색어를 일치시키는 방식이나 Google의 입찰, 광고주가 내는 비용을 바꾸지 않는다. 바뀌는 것은 랜딩 페이지 URLs를 읽는 애널리틱스, CRM, 리포팅 시스템 등 하위 단계에서 측정할 수 있는 범위뿐이다."
+                "x": "AdMob 에이전트 스킬은 Google Mobile Ads Next-Gen SDK로의 이전, 새 광고 형식 구현 같은 작업을 위해 미리 만들어 검증한 플레이북을 AI 에이전트에 제공한다. 초기 테스트 중인 AdMob MCP 서버는 에이전트가 계정 데이터를 읽고 새 광고 단위를 만들고 미디에이션 설정을 관리하게 하며, 내년 초 더 많은 개발자로 확대된다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "完全一致のクリック、\n実はAI Max経由",
-          "body": "AI Max経由の完全一致Searchクリックに、ValueTrackが'a'を返す。",
-          "mini_headline": "Google、AI Maxクリックを識別",
+          "headline": "Google Gemini、\nAsk AdMobに搭載",
+          "body": "Ask AdMobは設定ミスと下限価格の不一致を検出し、SDK入札者を提案する。",
+          "mini_headline": "AdMob向けGeminiエージェント",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://ppc.land/content/images/2026/11/google-ads-search-term-matchtype-valuetrack-ai-max-clicks-exact-label-conveyor-parcel-stamp.jpg"
+                "t": "p",
+                "x": "GoogleはAdMob向けの新しいAIツールとして、Ask AdMob、エージェントスキル、MCPサーバーを導入する。アプリ開発者がビジネスをより速く構築し、修正し、成長させるのを支援するためだ。広告設定の手動管理、連携エラーの修正、ブランドセーフティの監査は、チームの注意を開発からそらしてしまう。"
               },
               {
                 "t": "p",
-                "x": "Google Adsは、検索語句が広告主自身のキーワード経由で広告に到達したのか、AI Maxの拡張経由で到達したのかをクリックURL内に記録するValueTrackパラメータ{search_term_matchtype}を追加した。PPC News Feedが2026年11月11日に報じ、GoogleのヘルプページでこれをHana Kobzováが見つけたとしている。ページには変更の日付は記されていない。"
+                "x": "Geminiで構築された対話型エージェントのAsk AdMobは、AdMobアカウント内に直接組み込まれる。AdMobの収益化ベストプラクティスで学習しており、AdMobの製品エキスパートのように問題の修正、収益機会の発見、ブランドセーフティの保護を手助けする。トラブルシューティングハブは設定の異常やSDK連携の問題を見つけ出す。"
               },
               {
                 "t": "p",
-                "x": "値は完全一致なら\"e\"、フレーズ一致なら\"p\"、部分一致なら\"b\"、AI Maxの部分一致拡張とキーワードなしの一致なら\"a\"となる。従来の{matchtype}はAI Maxの部分一致拡張にキーワード自体のマッチタイプを付けるため、AI Max経由で配信された完全一致キーワードのクリックもmatchtype=eとして届いていた。違いを示すのは\"a\"を返す新パラメータだけだ。"
+                "x": "Ask AdMobは同業他社のベンチマークを使い、予測される収益の上積みとともに価値の高いSDK入札者を推奨し、メディエーショングループの最適化を支援する。サードパーティネットワークの設定を自動で確認し、収益に響く前に高くつくタイプミスや下限価格の不一致を捉える。ブランドセーフティのルールは、手動のブロックリストではなく、簡単な自然言語プロンプトで設定できる。"
               },
               {
                 "t": "p",
-                "x": "Googleのガイダンス「Tracking AI Max matches」は、{matchtype}、{targetid}、{keyword}、{search_term_matchtype}を組み合わせ、トラフィックを通常のキーワード一致、AI Maxの部分一致拡張、AI Maxのキーワードなし拡張、AI MaxのキーワードなしURLルールに分類する。Smarter Ecommerceによると、完全一致のインプレッションに占めるAI Max拡張分（AI Max-expanded）の割合は、2026年7月までに29%近くに達した。"
+                "x": "Googleは今後数か月のうちにこれらの機能のテストを始め、ユーザーに代わって操作を行うより高度な機能は来年後半に投入する。すべての推奨は適用前にユーザーが確認・承認するため、主導権はユーザー側に残る。"
               },
               {
                 "t": "p",
-                "x": "このパラメータは、AI Maxによる検索語句のマッチング、Googleの入札、広告主の支払額を変えない。変わるのは、ランディングページのURLsを読み取るアナリティクス、CRM、レポーティングシステムなど、下流で測定できる範囲だけだ。"
+                "x": "AdMobのエージェントスキルは、Google Mobile Ads Next-Gen SDKへの移行や新しい広告フォーマットの実装といった作業向けに、構築・検証済みのプレイブックをAIエージェントに提供する。初期テスト中のAdMob MCPサーバーは、エージェントがアカウントデータを読み取り、新しい広告ユニットを作成し、メディエーション設定を管理できるようにするもので、来年初めにより多くの開発者へ拡大する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Google标记来自\nAI Max的精确点击",
-          "body": "新的ValueTrack参数会在精确匹配Search点击来自AI Max扩展时返回'a'。",
-          "mini_headline": "Google标记AI Max点击",
+          "headline": "Google Gemini\n驱动Ask AdMob",
+          "body": "Ask AdMob可发现设置错误和底价差异，并参照同行基准推荐SDK竞价方。",
+          "mini_headline": "AdMob的Gemini智能体",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://ppc.land/content/images/2026/11/google-ads-search-term-matchtype-valuetrack-ai-max-clicks-exact-label-conveyor-parcel-stamp.jpg"
+                "t": "p",
+                "x": "Google正为AdMob推出新的AI工具——Ask AdMob、智能体技能和一个MCP服务器——帮助应用开发者更快地构建、修复和发展业务。手动管理广告设置、修复集成错误、审核品牌安全，都会分散团队对开发的专注。"
               },
               {
                 "t": "p",
-                "x": "Google Ads新增了ValueTrack参数{search_term_matchtype}，在点击URL中记录搜索词是通过广告主自己的关键字还是通过AI Max扩展触达广告。PPC News Feed于2026年11月11日报道此事，并称是Hana Kobzová在Google帮助页面上发现的；该页面未注明变更日期。"
+                "x": "Ask AdMob是基于Gemini构建的对话式智能体，将直接内置于AdMob账户中。它以AdMob变现最佳实践训练，能像AdMob产品专家一样帮助修复问题、发现收入机会并保护品牌安全。其故障排查中心将帮助发现设置异常和SDK集成问题。"
               },
               {
                 "t": "p",
-                "x": "该参数以\"e\"表示精确匹配，\"p\"表示词组匹配，\"b\"表示广泛匹配，\"a\"表示AI Max广泛扩展和无关键字匹配。旧的{matchtype}会给AI Max广泛扩展标上关键字本身的匹配类型，因此经AI Max投放的精确匹配关键字点击，到达时带的是matchtype=e。只有返回\"a\"的新参数能标出这一区别。"
+                "x": "Ask AdMob借助同行基准推荐高价值的SDK竞价方，并给出预测的收入提升，同时帮助优化中介组。它会自动检查第三方网络配置，在影响收益之前发现代价高昂的拼写错误和底价差异。品牌安全规则可以用简单的自然语言提示来设置，而无需手动维护屏蔽列表。"
               },
               {
                 "t": "p",
-                "x": "Google的“Tracking AI Max matches”指南将{matchtype}、{targetid}、{keyword}和{search_term_matchtype}组合使用，把流量分为标准关键字匹配、AI Max广泛扩展、AI Max无关键字扩展和AI Max无关键字URL规则。Smarter Ecommerce发现，到2026年7月，精确匹配展示中经AI Max扩展（AI Max-expanded）的占比已升至近29%。"
+                "x": "Google将在未来几个月开始测试这些功能，可代表用户执行操作的更高级功能将于明年晚些时候推出。用户仍掌握控制权，每条建议在应用前都由用户审核和批准。"
               },
               {
                 "t": "p",
-                "x": "该参数不会改变AI Max匹配查询的方式、Google的出价方式或广告主支付的费用。它改变的只是下游可衡量的内容，即读取着陆页URLs的分析、CRM和报告系统。"
+                "x": "AdMob智能体技能为AI智能体提供预先构建并经过测试的操作手册，用于迁移到Google Mobile Ads Next-Gen SDK、实现新广告格式等任务。处于早期测试阶段的AdMob MCP服务器将让智能体读取账户数据、新建广告单元并管理中介设置，明年初将向更多开发者开放。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Google marca los clics exactos\nque en realidad eran de AI Max",
-          "body": "Un nuevo parámetro de ValueTrack devuelve 'a' si un clic de Search en concordancia exacta vino de AI Max.",
-          "mini_headline": "Google etiqueta los clics de AI Max",
+          "headline": "Ask AdMob de Google lleva Gemini\na la monetización de apps",
+          "body": "Ask AdMob señala errores de configuración, sugiere pujadores SDK y detecta discrepancias de precio mínimo.",
+          "mini_headline": "Agente Gemini para AdMob",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://ppc.land/content/images/2026/11/google-ads-search-term-matchtype-valuetrack-ai-max-clicks-exact-label-conveyor-parcel-stamp.jpg"
+                "t": "p",
+                "x": "Google presenta nuevas herramientas de AI para AdMob —Ask AdMob, habilidades de agente y un servidor MCP— para ayudar a los desarrolladores de apps a construir, corregir y hacer crecer sus negocios más rápido. Gestionar a mano la configuración de anuncios, corregir errores de integración y auditar la seguridad de marca aparta a los equipos del desarrollo."
               },
               {
                 "t": "p",
-                "x": "Google Ads ha añadido un parámetro de ValueTrack, {search_term_matchtype}, que registra dentro de la URL del clic si un término de búsqueda llegó a un anuncio a través de la propia palabra clave del anunciante o de una expansión de AI Max. PPC News Feed lo informó el 11 de noviembre de 2026 y atribuyó a Hana Kobzová haberlo detectado en la página de ayuda de Google; la página no indica la fecha del cambio."
+                "x": "Ask AdMob, un agente conversacional creado con Gemini, estará integrado directamente en la cuenta de AdMob. Entrenado con las mejores prácticas de monetización de AdMob, puede ayudar a resolver problemas, encontrar oportunidades de ingresos y proteger la seguridad de marca como un experto en productos de AdMob. Su centro de solución de problemas ayudará a detectar anomalías de configuración y fallos de integración del SDK."
               },
               {
                 "t": "p",
-                "x": "Registra \"e\" para concordancia exacta, \"p\" para frase, \"b\" para amplia o \"a\" para las expansiones amplias de AI Max y las coincidencias sin palabra clave. El antiguo {matchtype} etiqueta las expansiones amplias de AI Max con el tipo de concordancia de la propia palabra clave, de modo que un clic en una palabra clave de concordancia exacta servido mediante AI Max llegaba con matchtype=e. Solo el nuevo parámetro, al devolver \"a\", marca la diferencia."
+                "x": "Ask AdMob usa referencias de pares para recomendar pujadores SDK de alto valor con aumentos de ingresos previstos y ayuda a optimizar los grupos de mediación. Revisará automáticamente la configuración de redes de terceros para detectar errores tipográficos costosos y discrepancias de precio mínimo antes de que afecten al rendimiento. Las reglas de seguridad de marca se pueden configurar con instrucciones sencillas en lenguaje natural en lugar de listas de bloqueo manuales."
               },
               {
                 "t": "p",
-                "x": "La guía \"Tracking AI Max matches\" de Google combina {matchtype}, {targetid}, {keyword} y {search_term_matchtype} para clasificar el tráfico en coincidencias estándar de palabra clave, expansiones amplias de AI Max, expansiones sin palabra clave de AI Max y reglas de URL sin palabra clave de AI Max. Smarter Ecommerce constató que la proporción de impresiones de concordancia exacta ampliadas por AI Max (AI Max-expanded) subió hasta casi el 29% en julio de 2026."
+                "x": "Google empezará a probar estas funciones en los próximos meses, y las funciones más avanzadas para actuar en nombre del usuario llegarán a finales del próximo año. El usuario mantiene el control y revisa y aprueba cada recomendación antes de aplicarla."
               },
               {
                 "t": "p",
-                "x": "El parámetro no cambia cómo AI Max empareja las consultas, cómo puja Google ni lo que pagan los anunciantes. Solo cambia lo que puede medirse más adelante, en los sistemas de analítica, CRM e informes que leen las URLs de las páginas de destino."
+                "x": "Las habilidades de agente de AdMob ofrecen a tu agente de AI guías prediseñadas y probadas para tareas como migrar al Google Mobile Ads Next-Gen SDK e implementar nuevos formatos de anuncio. Un servidor MCP de AdMob, en pruebas iniciales, permitirá a los agentes leer datos de la cuenta, crear nuevos bloques de anuncios y gestionar la configuración de mediación, y se ampliará a más desarrolladores a principios del próximo año."
               }
             ]
           }
@@ -315,15 +315,15 @@
       }
     },
     {
-      "id": "thehyundai-hi-chatgpt-plugin",
-      "source_lang": "ko",
+      "id": "google-aimode-hotel-booking",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "현대백화점 더현대 하이\n챗GPT 플러그인 출시",
-      "body": "현대백화점이 챗GPT 대화창에서 선물 추천부터 구매까지 잇는 플러그인을 내놨다.",
-      "mini_headline": "더현대 하이, 챗GPT 입점",
+      "headline": "Google, 휴가철 호텔\n예약을 AI Mode로",
+      "body": "US에서는 AI Mode 안에서 Google Pay로 호텔을 예약한다.",
+      "mini_headline": "AI Mode로 호텔 예약",
       "tool": "Marketing",
-      "source": "전자신문",
-      "url": "https://www.etnews.com/20261115000021",
+      "source": "PPC Land",
+      "url": "https://ppc.land/google-steers-holiday-hotel-dinner-and-ticket-bookings-into-ai-mode/",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
@@ -331,305 +331,305 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://img.etnews.com/news/article/2026/11/15/news-p.v1.20261115.043d6ceedf144d1d9c9992c332281857_P1.png",
-            "cap": "현대백화점은 오픈AI '앱스 인 챗GPT'에 '더현대 하이' 전용 쇼핑 플러그인 서비스를 선보인다고 15일 밝혔다."
+            "src": "https://ppc.land/content/images/2026/11/google-ai-mode-holiday-guide-hotel-dinner-ticket-bookings-google-pay-funnel-key-plate-ticket.jpg",
+            "cap": "Google의 연휴 가이드는 호텔·저녁 식사·티켓 예약을 AI Mode로 보내고 Google Pay로 결제하게 한다"
           },
           {
             "t": "p",
-            "x": "현대백화점은 오픈AI '앱스 인 챗GPT'에 '더현대 하이' 전용 쇼핑 플러그인 서비스를 선보인다고 15일 밝혔다. '앱스 인 챗GPT'는 이용자가 챗GPT 대화창 안에서 외부 서비스를 직접 연결해 쓰는 기능이다. 챗GPT 메뉴의 플러그인 탭에서 더현대 하이를 검색해 추가하면 된다."
+            "x": "Google은 연휴 가이드 “Search가 연휴 계획을 돕는 4가지 방법”을 공개했다. 가이드는 시즌 잡무를 Search Live, Lens, AI Mode에 맡기라고 권한다. 호텔 객실·레스토랑 테이블·공연 티켓도 Search가 찾아 주는 데서 그치지 않고 예약까지 한다는 식이다. 신규 출시로 표시된 기능은 하나도 없다."
           },
           {
             "t": "p",
-            "x": "“부모님 생신 선물로 10만원대 건강식품 추천해줘” “더현대 서울에서 핫한 팝업스토어 알려줘” 등으로 질문하면 챗GPT가 현대백화점의 온·오프라인 쇼핑 정보를 제공한다. 추천 상품은 더현대 하이 링크로 안내한다. 링크를 누르면 더현대 하이로 연결돼 상품 상세 정보 확인과 구매·결제·예약을 이어서 할 수 있다."
+            "x": "호텔이라면 AI Mode는 “편의시설, 투숙객 리뷰, 사진을 비교할 수 있는 시각적 옵션 목록”을 보여준다. 사용자는 여행 파트너 사이트로 넘어가 예약하거나, “‘Continue on Google’이 보이면 Google Pay로 AI Mode 안에서 바로 호텔 예약을 마칠 수 있다.” AI Mode의 호텔 예약은 2026년 8월 27일 US에서 영어로 배포되기 시작했다. Booking.com, Expedia, Hilton, Marriott 등 열 곳의 파트너가 판매 주체(merchant of record)를 맡는다."
           },
           {
             "t": "p",
-            "x": "현대백화점이 AI 쇼핑 역량을 키우는 것은 생성형 AI가 상품 검색·추천 등 구매 결정에 미치는 영향이 커지고 있어서다. 올해 추석 선물 판매 기간 챗GPT, 제미나이 등 생성형 AI를 통해 더현대 하이로 유입된 접속 건수는 지난해 추석 기간보다 4배 이상 늘었다. 현대백화점은 이번 연동으로 외국인 관광객 등 글로벌 고객과의 접점을 넓힌다는 구상이다."
+            "x": "Google 도움말 페이지에 따르면 이 기능은 US에서 영어로, 일부 숙소에만 제공되며 프로모션 코드, 리워드 포인트 사용, 멤버십 번호는 지원하지 않는다."
           },
           {
             "t": "p",
-            "x": "앞서 현대백화점은 지난 4월 카카오톡 기반 '챗GPT 포 카카오'에 더현대 하이를 연동한 AI 쇼핑 서비스를 선보였다. 누적 이용 고객은 지난 10월 기준 약 86만명을 넘었다. 현대백화점은 AI 쇼핑 어시스턴트 '헤이디(HEYDI)'로 더현대 하이에 등록된 약 50만 개 상품을 대화형으로 추천하고 있다."
+            "x": "저녁 식사와 티켓도 같은 틀이다. AI Mode 작업은 “티켓 오픈과 가격 변동을 뒤에서 추적”해 Google 앱으로 알린다. 마케터 눈으로 보면 예약 파트너는 판매 주체 지위를 유지하지만, 인터페이스와 Google Pay 결제 정보, 쇼핑객을 다시 불러오는 알림은 Google이 쥔다."
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "현대백화점 더현대 하이\n챗GPT 플러그인 출시",
-          "body": "현대백화점이 챗GPT 대화창에서 선물 추천부터 구매까지 잇는 플러그인을 내놨다.",
-          "mini_headline": "더현대 하이, 챗GPT 입점",
+        "en": {
+          "headline": "Google steers holiday hotel\nbookings into AI Mode",
+          "body": "In the US, hotel rooms book inside Google's AI Mode via Google Pay, with partners acting as merchant of record.",
+          "mini_headline": "AI Mode books hotels",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/15/news-p.v1.20261115.043d6ceedf144d1d9c9992c332281857_P1.png",
-                "cap": "현대백화점은 오픈AI '앱스 인 챗GPT'에 '더현대 하이' 전용 쇼핑 플러그인 서비스를 선보인다고 15일 밝혔다."
+                "src": "https://ppc.land/content/images/2026/11/google-ai-mode-holiday-guide-hotel-dinner-ticket-bookings-google-pay-funnel-key-plate-ticket.jpg",
+                "cap": "Google's holiday guide sends hotel, dinner and ticket bookings through AI Mode, paid with Google Pay"
               },
               {
                 "t": "p",
-                "x": "현대백화점은 오픈AI '앱스 인 챗GPT'에 '더현대 하이' 전용 쇼핑 플러그인 서비스를 선보인다고 15일 밝혔다. '앱스 인 챗GPT'는 이용자가 챗GPT 대화창 안에서 외부 서비스를 직접 연결해 쓰는 기능이다. 챗GPT 메뉴의 플러그인 탭에서 더현대 하이를 검색해 추가하면 된다."
+                "x": "Google published a holiday guide, \"4 ways Search can help with your holiday plans,\" that routes seasonal chores through Search Live, Lens and AI Mode, with hotel rooms, restaurant tables and event tickets presented as things Search can reserve rather than merely find. None of the features is labeled as a launch."
               },
               {
                 "t": "p",
-                "x": "“부모님 생신 선물로 10만원대 건강식품 추천해줘” “더현대 서울에서 핫한 팝업스토어 알려줘” 등으로 질문하면 챗GPT가 현대백화점의 온·오프라인 쇼핑 정보를 제공한다. 추천 상품은 더현대 하이 링크로 안내한다. 링크를 누르면 더현대 하이로 연결돼 상품 상세 정보 확인과 구매·결제·예약을 이어서 할 수 있다."
+                "x": "For hotels, AI Mode offers \"a visual list of options to compare amenities, guest reviews, and photos.\" Users can click out to book with travel partners or, \"if you see 'Continue on Google,' complete your hotel reservation right in AI Mode using Google Pay.\" Hotel booking in AI Mode began rolling out on August 27, 2026, in the US and in English, with ten partners including Booking.com, Expedia, Hilton and Marriott, which act as merchant of record."
               },
               {
                 "t": "p",
-                "x": "현대백화점이 AI 쇼핑 역량을 키우는 것은 생성형 AI가 상품 검색·추천 등 구매 결정에 미치는 영향이 커지고 있어서다. 올해 추석 선물 판매 기간 챗GPT, 제미나이 등 생성형 AI를 통해 더현대 하이로 유입된 접속 건수는 지난해 추석 기간보다 4배 이상 늘었다. 현대백화점은 이번 연동으로 외국인 관광객 등 글로벌 고객과의 접점을 넓힌다는 구상이다."
+                "x": "Google's help page says the feature is only available in the US, in English for select properties, and does not support promotional codes, reward points redemption or loyalty numbers."
               },
               {
                 "t": "p",
-                "x": "앞서 현대백화점은 지난 4월 카카오톡 기반 '챗GPT 포 카카오'에 더현대 하이를 연동한 AI 쇼핑 서비스를 선보였다. 누적 이용 고객은 지난 10월 기준 약 86만명을 넘었다. 현대백화점은 AI 쇼핑 어시스턴트 '헤이디(HEYDI)'로 더현대 하이에 등록된 약 50만 개 상품을 대화형으로 추천하고 있다."
+                "x": "Dinner and tickets follow the same template, and AI Mode tasks will \"track ticket drops and price changes behind the scenes,\" notifying users through the Google app. For marketers, the booking partners keep merchant-of-record status, while Google keeps the interface, the Google Pay credential and the alert that brings the shopper back."
               }
             ]
           }
         },
-        "en": {
-          "headline": "The Hyundai Hi launches\na ChatGPT shopping plugin",
-          "body": "Hyundai Department Store's new plugin takes users from gift recommendations to purchase inside a ChatGPT chat.",
-          "mini_headline": "The Hyundai Hi comes to ChatGPT",
+        "ko": {
+          "headline": "Google, 휴가철 호텔\n예약을 AI Mode로",
+          "body": "US에서는 AI Mode 안에서 Google Pay로 호텔을 예약한다.",
+          "mini_headline": "AI Mode로 호텔 예약",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/15/news-p.v1.20261115.043d6ceedf144d1d9c9992c332281857_P1.png",
-                "cap": "Hyundai Department Store said on the 15th that it is launching a dedicated 'The Hyundai Hi' shopping plugin service in OpenAI's 'Apps in ChatGPT.'"
+                "src": "https://ppc.land/content/images/2026/11/google-ai-mode-holiday-guide-hotel-dinner-ticket-bookings-google-pay-funnel-key-plate-ticket.jpg",
+                "cap": "Google의 연휴 가이드는 호텔·저녁 식사·티켓 예약을 AI Mode로 보내고 Google Pay로 결제하게 한다"
               },
               {
                 "t": "p",
-                "x": "Hyundai Department Store said on the 15th that it is launching a dedicated 'The Hyundai Hi' shopping plugin service in OpenAI's 'Apps in ChatGPT.' 'Apps in ChatGPT' is a feature that lets users connect and use outside services directly inside the ChatGPT chat window. Users can search for The Hyundai Hi in the plugin tab of the ChatGPT menu and add it."
+                "x": "Google은 연휴 가이드 “Search가 연휴 계획을 돕는 4가지 방법”을 공개했다. 가이드는 시즌 잡무를 Search Live, Lens, AI Mode에 맡기라고 권한다. 호텔 객실·레스토랑 테이블·공연 티켓도 Search가 찾아 주는 데서 그치지 않고 예약까지 한다는 식이다. 신규 출시로 표시된 기능은 하나도 없다."
               },
               {
                 "t": "p",
-                "x": "Ask questions such as “Recommend a 10만원대 health food as a birthday gift for my parents” or “Tell me about the hottest pop-up stores at The Hyundai Seoul,” and ChatGPT provides Hyundai Department Store's online and offline shopping information. Recommended products are presented as links to The Hyundai Hi. Tapping a link opens The Hyundai Hi, where users can check product details and go on to purchase, pay or make a reservation."
+                "x": "호텔이라면 AI Mode는 “편의시설, 투숙객 리뷰, 사진을 비교할 수 있는 시각적 옵션 목록”을 보여준다. 사용자는 여행 파트너 사이트로 넘어가 예약하거나, “‘Continue on Google’이 보이면 Google Pay로 AI Mode 안에서 바로 호텔 예약을 마칠 수 있다.” AI Mode의 호텔 예약은 2026년 8월 27일 US에서 영어로 배포되기 시작했다. Booking.com, Expedia, Hilton, Marriott 등 열 곳의 파트너가 판매 주체(merchant of record)를 맡는다."
               },
               {
                 "t": "p",
-                "x": "Hyundai Department Store is building up its AI shopping capabilities because generative AI has a growing influence on purchase decisions such as product search and recommendations. During this year's Chuseok gift sales period, visits to The Hyundai Hi coming through generative AI such as ChatGPT and Gemini rose more than 4 times compared with last year's Chuseok period. Through this integration, Hyundai Department Store plans to widen its points of contact with global customers, including foreign tourists."
+                "x": "Google 도움말 페이지에 따르면 이 기능은 US에서 영어로, 일부 숙소에만 제공되며 프로모션 코드, 리워드 포인트 사용, 멤버십 번호는 지원하지 않는다."
               },
               {
                 "t": "p",
-                "x": "Earlier, in April, Hyundai Department Store launched an AI shopping service that linked The Hyundai Hi to the KakaoTalk-based 'ChatGPT for Kakao.' Cumulative users passed about 86만명 as of October. Hyundai Department Store uses its AI shopping assistant 'HEYDI' to recommend, in conversation, about 50만 개 products listed on The Hyundai Hi."
+                "x": "저녁 식사와 티켓도 같은 틀이다. AI Mode 작업은 “티켓 오픈과 가격 변동을 뒤에서 추적”해 Google 앱으로 알린다. 마케터 눈으로 보면 예약 파트너는 판매 주체 지위를 유지하지만, 인터페이스와 Google Pay 결제 정보, 쇼핑객을 다시 불러오는 알림은 Google이 쥔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "現代百貨店が\nChatGPTプラグイン公開",
-          "body": "現代百貨店が、ChatGPTの対話画面でギフト推薦から購入までをつなぐプラグインを出した。",
-          "mini_headline": "The Hyundai Hi、ChatGPTに登場",
+          "headline": "Google、休暇シーズンの\nホテル予約をAI Modeへ",
+          "body": "USではAI ModeでGoogle Pay決済のホテル予約ができ、販売元は提携先だ。",
+          "mini_headline": "AI Modeでホテル予約",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/15/news-p.v1.20261115.043d6ceedf144d1d9c9992c332281857_P1.png",
-                "cap": "現代百貨店は15日、OpenAIの「Apps in ChatGPT」で「The Hyundai Hi」専用のショッピングプラグインサービスを提供すると明らかにした。"
+                "src": "https://ppc.land/content/images/2026/11/google-ai-mode-holiday-guide-hotel-dinner-ticket-bookings-google-pay-funnel-key-plate-ticket.jpg",
+                "cap": "Googleのホリデーガイドは、ホテル、ディナー、チケットの予約をAI Modeに誘導し、Google Payで支払わせる"
               },
               {
                 "t": "p",
-                "x": "現代百貨店は15日、OpenAIの「Apps in ChatGPT」で「The Hyundai Hi」専用のショッピングプラグインサービスを提供すると明らかにした。「Apps in ChatGPT」は、利用者がChatGPTの対話画面内で外部サービスを直接連携して使える機能だ。ChatGPTメニューのプラグインタブでThe Hyundai Hiを検索し、追加すればよい。"
+                "x": "Googleはホリデーガイド「Searchが休暇の計画に役立つ4つの方法」を公開した。季節の雑事をSearch Live、Lens、AI Modeに通す内容で、ホテルの客室、レストランの席、イベントのチケットを、Searchが探すだけでなく予約までできるものとして示している。どの機能も新規ローンチとは表記されていない。"
               },
               {
                 "t": "p",
-                "x": "「両親の誕生日プレゼントに10万ウォン台の健康食品を薦めて」「The Hyundai Seoulで話題のポップアップストアを教えて」などと質問すると、ChatGPTが現代百貨店のオンライン・オフラインのショッピング情報を提供する。おすすめ商品はThe Hyundai Hiのリンクで案内する。リンクを押すとThe Hyundai Hiにつながり、商品の詳細確認から購入・決済・予約までそのまま進められる。"
+                "x": "ホテルについては、AI Modeが「設備、宿泊者レビュー、写真を比較できる視覚的な選択肢の一覧」を表示する。ユーザーは旅行パートナーのサイトに移って予約するか、「『Continue on Google』と表示されていれば、Google Payを使ってAI Mode内でそのままホテル予約を完了できる」。AI Modeでのホテル予約は2026年8月27日にUSで英語向けに提供が始まり、Booking.com、Expedia、Hilton、Marriottを含む十社のパートナーが販売事業者(merchant of record)となる。"
               },
               {
                 "t": "p",
-                "x": "現代百貨店がAIショッピングの力を強化するのは、生成AIが商品検索・推薦など購買決定に与える影響が大きくなっているためだ。今年の秋夕（チュソク）ギフト販売期間に、ChatGPTやGeminiなどの生成AIを通じてThe Hyundai Hiに流入したアクセス数は、昨年の秋夕期間より4倍以上増えた。現代百貨店は今回の連携で、外国人観光客などグローバル顧客との接点を広げる構想だ。"
+                "x": "Googleのヘルプページによると、この機能はUSで英語のみ、一部の施設に限って利用でき、プロモーションコード、リワードポイントの利用、会員番号には対応していない。"
               },
               {
                 "t": "p",
-                "x": "現代百貨店はこれに先立ち、4月にKakaoTalkベースの「ChatGPT for Kakao」にThe Hyundai Hiを連携したAIショッピングサービスを始めた。累計利用者は10月時点で約86万人を超えた。現代百貨店はAIショッピングアシスタント「HEYDI（ヘイディ）」で、The Hyundai Hiに登録された約50万点の商品を対話形式で推薦している。"
+                "x": "ディナーとチケットも同じ型をたどり、AI Modeのタスクは「チケットの販売開始や価格変動を裏で追跡」し、Googleアプリで通知する。マーケターにとっては、予約パートナーが販売事業者の立場を保つ一方、インターフェース、Google Payの決済情報、買い物客を呼び戻す通知はGoogleが握ることになる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "现代百货推出\nChatGPT购物插件",
-          "body": "现代百货推出插件，在ChatGPT对话框内打通从礼物推荐到购买的流程。",
-          "mini_headline": "The Hyundai Hi入驻ChatGPT",
+          "headline": "Google把假日酒店预订\n引入AI Mode",
+          "body": "在US，可在AI Mode内用Google Pay订酒店，由合作方担任记录商户。",
+          "mini_headline": "AI Mode可订酒店",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/15/news-p.v1.20261115.043d6ceedf144d1d9c9992c332281857_P1.png",
-                "cap": "现代百货15日表示，将在OpenAI的“Apps in ChatGPT”中推出“The Hyundai Hi”专属购物插件服务。"
+                "src": "https://ppc.land/content/images/2026/11/google-ai-mode-holiday-guide-hotel-dinner-ticket-bookings-google-pay-funnel-key-plate-ticket.jpg",
+                "cap": "Google的假日指南把酒店、晚餐和门票预订引向AI Mode，并用Google Pay支付"
               },
               {
                 "t": "p",
-                "x": "现代百货15日表示，将在OpenAI的“Apps in ChatGPT”中推出“The Hyundai Hi”专属购物插件服务。“Apps in ChatGPT”是让用户在ChatGPT对话框内直接连接并使用外部服务的功能。用户只需在ChatGPT菜单的插件标签中搜索The Hyundai Hi并添加即可。"
+                "x": "Google发布了一份假日指南《Search帮你规划假期的4种方式》，把季节性琐事交给Search Live、Lens和AI Mode处理，并将酒店客房、餐厅座位和活动门票呈现为Search可以直接预订、而不只是搜索到的东西。其中没有任何功能被标注为新发布。"
               },
               {
                 "t": "p",
-                "x": "用户提出“推荐10万韩元档的健康食品作为父母生日礼物”“告诉我The Hyundai Seoul最火的快闪店”等问题，ChatGPT就会提供现代百货的线上线下购物信息。推荐商品以The Hyundai Hi链接的形式呈现。点击链接即可跳转至The Hyundai Hi，继续查看商品详情并完成购买、支付和预约。"
+                "x": "在酒店方面，AI Mode提供“可比较设施、住客评价和照片的可视化选项列表”。用户可以跳转到旅行合作方处预订，或者“如果看到‘Continue on Google’，就可以直接在AI Mode中用Google Pay完成酒店预订”。AI Mode的酒店预订于2026年8月27日开始在US以英语推出，合作方包括Booking.com、Expedia、Hilton和Marriott在内的十家，由它们担任记录商户（merchant of record）。"
               },
               {
                 "t": "p",
-                "x": "现代百货加强AI购物能力，是因为生成式AI对商品搜索、推荐等购买决策的影响日益扩大。今年中秋礼品销售期间，经ChatGPT、Gemini等生成式AI进入The Hyundai Hi的访问量比去年中秋期间增长了4倍以上。现代百货计划借此次对接，扩大与外国游客等全球顾客的接触点。"
+                "x": "Google的帮助页面称，该功能仅在US以英语提供，且只适用于部分酒店，不支持促销代码、奖励积分兑换或会员号码。"
               },
               {
                 "t": "p",
-                "x": "此前，现代百货于4月在基于KakaoTalk的“ChatGPT for Kakao”中推出了对接The Hyundai Hi的AI购物服务。截至10月，累计用户已超过约86万人。现代百货还通过AI购物助手“HEYDI”，以对话方式推荐The Hyundai Hi上架的约50万件商品。"
+                "x": "晚餐和门票沿用同一模式，AI Mode任务会“在后台追踪门票开售和价格变动”，并通过Google应用通知用户。对营销人员而言，预订合作方保留记录商户身份，而界面、Google Pay凭证以及把购物者拉回来的提醒都掌握在Google手中。"
               }
             ]
           }
         },
         "es": {
-          "headline": "The Hyundai Hi lanza\nun plugin para ChatGPT",
-          "body": "Hyundai Department Store lanzó un plugin que lleva del regalo recomendado a la compra dentro de ChatGPT.",
-          "mini_headline": "The Hyundai Hi llega a ChatGPT",
+          "headline": "Google lleva reservas de hotel\nde las fiestas a AI Mode",
+          "body": "En US, se reservan hoteles en AI Mode de Google con Google Pay y los socios actúan como comerciante registrado.",
+          "mini_headline": "AI Mode reserva hoteles",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/15/news-p.v1.20261115.043d6ceedf144d1d9c9992c332281857_P1.png",
-                "cap": "Hyundai Department Store anunció el día 15 que lanza un servicio de plugin de compras exclusivo de 'The Hyundai Hi' en 'Apps in ChatGPT' de OpenAI."
+                "src": "https://ppc.land/content/images/2026/11/google-ai-mode-holiday-guide-hotel-dinner-ticket-bookings-google-pay-funnel-key-plate-ticket.jpg",
+                "cap": "La guía de fiestas de Google envía las reservas de hotel, cenas y entradas a través de AI Mode, con pago mediante Google Pay"
               },
               {
                 "t": "p",
-                "x": "Hyundai Department Store anunció el día 15 que lanza un servicio de plugin de compras exclusivo de 'The Hyundai Hi' en 'Apps in ChatGPT' de OpenAI. 'Apps in ChatGPT' es una función que permite a los usuarios conectar y usar servicios externos directamente dentro de la ventana de chat de ChatGPT. Basta con buscar The Hyundai Hi en la pestaña de plugins del menú de ChatGPT y añadirlo."
+                "x": "Google publicó una guía para las fiestas, “4 formas en que Search puede ayudarte con tus planes de vacaciones”, que canaliza las tareas de temporada a través de Search Live, Lens y AI Mode, y presenta habitaciones de hotel, mesas de restaurante y entradas para eventos como cosas que Search puede reservar y no solo encontrar. Ninguna de las funciones figura como lanzamiento."
               },
               {
                 "t": "p",
-                "x": "Al hacer preguntas como “Recomiéndame un alimento saludable de 10만원대 como regalo de cumpleaños para mis padres” o “Dime qué pop-up stores están de moda en The Hyundai Seoul”, ChatGPT ofrece información de compras en línea y en tiendas físicas de Hyundai Department Store. Los productos recomendados se presentan con enlaces a The Hyundai Hi. Al pulsar el enlace se abre The Hyundai Hi, donde se pueden consultar los detalles del producto y continuar con la compra, el pago o la reserva."
+                "x": "Para hoteles, AI Mode ofrece “una lista visual de opciones para comparar servicios, opiniones de huéspedes y fotos”. Los usuarios pueden salir a reservar con socios de viaje o, “si ves ‘Continue on Google’, completar la reserva del hotel directamente en AI Mode con Google Pay”. La reserva de hoteles en AI Mode empezó a desplegarse el 27 de agosto de 2026, en US y en inglés, con diez socios, entre ellos Booking.com, Expedia, Hilton y Marriott, que actúan como comerciante registrado (merchant of record)."
               },
               {
                 "t": "p",
-                "x": "Hyundai Department Store refuerza sus capacidades de compra con AI porque la AI generativa influye cada vez más en las decisiones de compra, como la búsqueda y la recomendación de productos. Durante el periodo de venta de regalos de Chuseok de este año, los accesos a The Hyundai Hi procedentes de AI generativa como ChatGPT y Gemini se multiplicaron por más de 4 respecto al Chuseok del año pasado. Con esta integración, la empresa busca ampliar sus puntos de contacto con clientes globales, como los turistas extranjeros."
+                "x": "La página de ayuda de Google indica que la función solo está disponible en US, en inglés y para determinados alojamientos, y que no admite códigos promocionales, canje de puntos de recompensa ni números de fidelización."
               },
               {
                 "t": "p",
-                "x": "Anteriormente, en abril, Hyundai Department Store lanzó un servicio de compras con AI que integraba The Hyundai Hi en 'ChatGPT for Kakao', basado en KakaoTalk. Los usuarios acumulados superaron aproximadamente los 86만명 a fecha de octubre. Hyundai Department Store recomienda de forma conversacional unos 50만 개 productos registrados en The Hyundai Hi mediante su asistente de compras con AI 'HEYDI'."
+                "x": "Las cenas y las entradas siguen la misma plantilla, y las tareas de AI Mode “seguirán en segundo plano la salida de entradas y los cambios de precio”, con avisos a través de la app de Google. Para los profesionales del marketing, los socios de reserva conservan la condición de comerciante registrado, mientras Google se queda con la interfaz, la credencial de Google Pay y la alerta que hace volver al comprador."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "The Hyundai Hi launches\na ChatGPT shopping plugin",
-          "body": "Hyundai Department Store's new plugin takes users from gift recommendations to purchase inside a ChatGPT chat.",
-          "mini_headline": "The Hyundai Hi comes to ChatGPT",
+        "ko": {
+          "headline": "Google, 휴가철 호텔\n예약을 AI Mode로",
+          "body": "US에서는 AI Mode 안에서 Google Pay로 호텔을 예약한다.",
+          "mini_headline": "AI Mode로 호텔 예약",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/15/news-p.v1.20261115.043d6ceedf144d1d9c9992c332281857_P1.png",
-                "cap": "Hyundai Department Store said on the 15th that it is launching a dedicated 'The Hyundai Hi' shopping plugin service in OpenAI's 'Apps in ChatGPT.'"
+                "src": "https://ppc.land/content/images/2026/11/google-ai-mode-holiday-guide-hotel-dinner-ticket-bookings-google-pay-funnel-key-plate-ticket.jpg",
+                "cap": "Google의 연휴 가이드는 호텔·저녁 식사·티켓 예약을 AI Mode로 보내고 Google Pay로 결제하게 한다"
               },
               {
                 "t": "p",
-                "x": "Hyundai Department Store said on the 15th that it is launching a dedicated 'The Hyundai Hi' shopping plugin service in OpenAI's 'Apps in ChatGPT.' 'Apps in ChatGPT' is a feature that lets users connect and use outside services directly inside the ChatGPT chat window. Users can search for The Hyundai Hi in the plugin tab of the ChatGPT menu and add it."
+                "x": "Google은 연휴 가이드 “Search가 연휴 계획을 돕는 4가지 방법”을 공개했다. 이 가이드는 시즌 잡무를 Search Live, Lens, AI Mode로 처리하게 하고, 호텔 객실·레스토랑 테이블·공연 티켓을 Search가 찾기만 하는 대상이 아니라 예약까지 하는 대상으로 제시한다. 어느 기능도 신규 출시로 표시되지 않았다."
               },
               {
                 "t": "p",
-                "x": "Ask questions such as “Recommend a 10만원대 health food as a birthday gift for my parents” or “Tell me about the hottest pop-up stores at The Hyundai Seoul,” and ChatGPT provides Hyundai Department Store's online and offline shopping information. Recommended products are presented as links to The Hyundai Hi. Tapping a link opens The Hyundai Hi, where users can check product details and go on to purchase, pay or make a reservation."
+                "x": "호텔의 경우 AI Mode는 “편의시설, 투숙객 리뷰, 사진을 비교할 수 있는 시각적 옵션 목록”을 보여준다. 사용자는 여행 파트너 사이트로 넘어가 예약하거나, “‘Continue on Google’이 보이면 Google Pay로 AI Mode 안에서 바로 호텔 예약을 마칠 수 있다.” AI Mode의 호텔 예약은 2026년 8월 27일 US에서 영어로 배포되기 시작했으며, Booking.com, Expedia, Hilton, Marriott 등 열 곳의 파트너가 판매 주체(merchant of record)를 맡는다."
               },
               {
                 "t": "p",
-                "x": "Hyundai Department Store is building up its AI shopping capabilities because generative AI has a growing influence on purchase decisions such as product search and recommendations. During this year's Chuseok gift sales period, visits to The Hyundai Hi coming through generative AI such as ChatGPT and Gemini rose more than 4 times compared with last year's Chuseok period. Through this integration, Hyundai Department Store plans to widen its points of contact with global customers, including foreign tourists."
+                "x": "Google 도움말 페이지에 따르면 이 기능은 US에서 영어로, 일부 숙소에만 제공되며 프로모션 코드, 리워드 포인트 사용, 멤버십 번호는 지원하지 않는다."
               },
               {
                 "t": "p",
-                "x": "Earlier, in April, Hyundai Department Store launched an AI shopping service that linked The Hyundai Hi to the KakaoTalk-based 'ChatGPT for Kakao.' Cumulative users passed about 86만명 as of October. Hyundai Department Store uses its AI shopping assistant 'HEYDI' to recommend, in conversation, about 50만 개 products listed on The Hyundai Hi."
+                "x": "저녁 식사와 티켓도 같은 틀을 따르며, AI Mode 작업은 “티켓 오픈과 가격 변동을 뒤에서 추적”해 Google 앱으로 알린다. 마케터 입장에서 보면 예약 파트너는 판매 주체 지위를 유지하지만, 인터페이스와 Google Pay 결제 정보, 쇼핑객을 다시 불러오는 알림은 Google이 쥔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "現代百貨店が\nChatGPTプラグイン公開",
-          "body": "現代百貨店が、ChatGPTの対話画面でギフト推薦から購入までをつなぐプラグインを出した。",
-          "mini_headline": "The Hyundai Hi、ChatGPTに登場",
+          "headline": "Google、休暇シーズンの\nホテル予約をAI Modeへ",
+          "body": "USではAI ModeでGoogle Pay決済のホテル予約ができ、販売元は提携先だ。",
+          "mini_headline": "AI Modeでホテル予約",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/15/news-p.v1.20261115.043d6ceedf144d1d9c9992c332281857_P1.png",
-                "cap": "現代百貨店は15日、OpenAIの「Apps in ChatGPT」で「The Hyundai Hi」専用のショッピングプラグインサービスを提供すると明らかにした。"
+                "src": "https://ppc.land/content/images/2026/11/google-ai-mode-holiday-guide-hotel-dinner-ticket-bookings-google-pay-funnel-key-plate-ticket.jpg",
+                "cap": "Googleのホリデーガイドは、ホテル、ディナー、チケットの予約をAI Modeに誘導し、Google Payで支払わせる"
               },
               {
                 "t": "p",
-                "x": "現代百貨店は15日、OpenAIの「Apps in ChatGPT」で「The Hyundai Hi」専用のショッピングプラグインサービスを提供すると明らかにした。「Apps in ChatGPT」は、利用者がChatGPTの対話画面内で外部サービスを直接連携して使える機能だ。ChatGPTメニューのプラグインタブでThe Hyundai Hiを検索し、追加すればよい。"
+                "x": "Googleはホリデーガイド「Searchが休暇の計画に役立つ4つの方法」を公開した。季節の雑事をSearch Live、Lens、AI Modeに通す内容で、ホテルの客室、レストランの席、イベントのチケットを、Searchが探すだけでなく予約までできるものとして示している。どの機能も新規ローンチとは表記されていない。"
               },
               {
                 "t": "p",
-                "x": "「両親の誕生日プレゼントに10万ウォン台の健康食品を薦めて」「The Hyundai Seoulで話題のポップアップストアを教えて」などと質問すると、ChatGPTが現代百貨店のオンライン・オフラインのショッピング情報を提供する。おすすめ商品はThe Hyundai Hiのリンクで案内する。リンクを押すとThe Hyundai Hiにつながり、商品の詳細確認から購入・決済・予約までそのまま進められる。"
+                "x": "ホテルについては、AI Modeが「設備、宿泊者レビュー、写真を比較できる視覚的な選択肢の一覧」を表示する。ユーザーは旅行パートナーのサイトに移って予約するか、「『Continue on Google』と表示されていれば、Google Payを使ってAI Mode内でそのままホテル予約を完了できる」。AI Modeでのホテル予約は2026年8月27日にUSで英語向けに提供が始まり、Booking.com、Expedia、Hilton、Marriottを含む十社のパートナーが販売事業者(merchant of record)となる。"
               },
               {
                 "t": "p",
-                "x": "現代百貨店がAIショッピングの力を強化するのは、生成AIが商品検索・推薦など購買決定に与える影響が大きくなっているためだ。今年の秋夕（チュソク）ギフト販売期間に、ChatGPTやGeminiなどの生成AIを通じてThe Hyundai Hiに流入したアクセス数は、昨年の秋夕期間より4倍以上増えた。現代百貨店は今回の連携で、外国人観光客などグローバル顧客との接点を広げる構想だ。"
+                "x": "Googleのヘルプページによると、この機能はUSで英語のみ、一部の施設に限って利用でき、プロモーションコード、リワードポイントの利用、会員番号には対応していない。"
               },
               {
                 "t": "p",
-                "x": "現代百貨店はこれに先立ち、4月にKakaoTalkベースの「ChatGPT for Kakao」にThe Hyundai Hiを連携したAIショッピングサービスを始めた。累計利用者は10月時点で約86万人を超えた。現代百貨店はAIショッピングアシスタント「HEYDI（ヘイディ）」で、The Hyundai Hiに登録された約50万点の商品を対話形式で推薦している。"
+                "x": "ディナーとチケットも同じ型をたどり、AI Modeのタスクは「チケットの販売開始や価格変動を裏で追跡」し、Googleアプリで通知する。マーケターにとっては、予約パートナーが販売事業者の立場を保つ一方、インターフェース、Google Payの決済情報、買い物客を呼び戻す通知はGoogleが握ることになる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "现代百货推出\nChatGPT购物插件",
-          "body": "现代百货推出插件，在ChatGPT对话框内打通从礼物推荐到购买的流程。",
-          "mini_headline": "The Hyundai Hi入驻ChatGPT",
+          "headline": "Google把假日酒店预订\n引入AI Mode",
+          "body": "在US，可在AI Mode内用Google Pay订酒店，由合作方担任记录商户。",
+          "mini_headline": "AI Mode可订酒店",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/15/news-p.v1.20261115.043d6ceedf144d1d9c9992c332281857_P1.png",
-                "cap": "现代百货15日表示，将在OpenAI的“Apps in ChatGPT”中推出“The Hyundai Hi”专属购物插件服务。"
+                "src": "https://ppc.land/content/images/2026/11/google-ai-mode-holiday-guide-hotel-dinner-ticket-bookings-google-pay-funnel-key-plate-ticket.jpg",
+                "cap": "Google的假日指南把酒店、晚餐和门票预订引向AI Mode，并用Google Pay支付"
               },
               {
                 "t": "p",
-                "x": "现代百货15日表示，将在OpenAI的“Apps in ChatGPT”中推出“The Hyundai Hi”专属购物插件服务。“Apps in ChatGPT”是让用户在ChatGPT对话框内直接连接并使用外部服务的功能。用户只需在ChatGPT菜单的插件标签中搜索The Hyundai Hi并添加即可。"
+                "x": "Google发布了一份假日指南《Search帮你规划假期的4种方式》，把季节性琐事交给Search Live、Lens和AI Mode处理，并将酒店客房、餐厅座位和活动门票呈现为Search可以直接预订、而不只是搜索到的东西。其中没有任何功能被标注为新发布。"
               },
               {
                 "t": "p",
-                "x": "用户提出“推荐10万韩元档的健康食品作为父母生日礼物”“告诉我The Hyundai Seoul最火的快闪店”等问题，ChatGPT就会提供现代百货的线上线下购物信息。推荐商品以The Hyundai Hi链接的形式呈现。点击链接即可跳转至The Hyundai Hi，继续查看商品详情并完成购买、支付和预约。"
+                "x": "在酒店方面，AI Mode提供“可比较设施、住客评价和照片的可视化选项列表”。用户可以跳转到旅行合作方处预订，或者“如果看到‘Continue on Google’，就可以直接在AI Mode中用Google Pay完成酒店预订”。AI Mode的酒店预订于2026年8月27日开始在US以英语推出，合作方包括Booking.com、Expedia、Hilton和Marriott在内的十家，由它们担任记录商户（merchant of record）。"
               },
               {
                 "t": "p",
-                "x": "现代百货加强AI购物能力，是因为生成式AI对商品搜索、推荐等购买决策的影响日益扩大。今年中秋礼品销售期间，经ChatGPT、Gemini等生成式AI进入The Hyundai Hi的访问量比去年中秋期间增长了4倍以上。现代百货计划借此次对接，扩大与外国游客等全球顾客的接触点。"
+                "x": "Google的帮助页面称，该功能仅在US以英语提供，且只适用于部分酒店，不支持促销代码、奖励积分兑换或会员号码。"
               },
               {
                 "t": "p",
-                "x": "此前，现代百货于4月在基于KakaoTalk的“ChatGPT for Kakao”中推出了对接The Hyundai Hi的AI购物服务。截至10月，累计用户已超过约86万人。现代百货还通过AI购物助手“HEYDI”，以对话方式推荐The Hyundai Hi上架的约50万件商品。"
+                "x": "晚餐和门票沿用同一模式，AI Mode任务会“在后台追踪门票开售和价格变动”，并通过Google应用通知用户。对营销人员而言，预订合作方保留记录商户身份，而界面、Google Pay凭证以及把购物者拉回来的提醒都掌握在Google手中。"
               }
             ]
           }
         },
         "es": {
-          "headline": "The Hyundai Hi lanza\nun plugin para ChatGPT",
-          "body": "Hyundai Department Store lanzó un plugin que lleva del regalo recomendado a la compra dentro de ChatGPT.",
-          "mini_headline": "The Hyundai Hi llega a ChatGPT",
+          "headline": "Google lleva reservas de hotel\nde las fiestas a AI Mode",
+          "body": "En US, se reservan hoteles en AI Mode de Google con Google Pay y los socios actúan como comerciante registrado.",
+          "mini_headline": "AI Mode reserva hoteles",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/15/news-p.v1.20261115.043d6ceedf144d1d9c9992c332281857_P1.png",
-                "cap": "Hyundai Department Store anunció el día 15 que lanza un servicio de plugin de compras exclusivo de 'The Hyundai Hi' en 'Apps in ChatGPT' de OpenAI."
+                "src": "https://ppc.land/content/images/2026/11/google-ai-mode-holiday-guide-hotel-dinner-ticket-bookings-google-pay-funnel-key-plate-ticket.jpg",
+                "cap": "La guía de fiestas de Google envía las reservas de hotel, cenas y entradas a través de AI Mode, con pago mediante Google Pay"
               },
               {
                 "t": "p",
-                "x": "Hyundai Department Store anunció el día 15 que lanza un servicio de plugin de compras exclusivo de 'The Hyundai Hi' en 'Apps in ChatGPT' de OpenAI. 'Apps in ChatGPT' es una función que permite a los usuarios conectar y usar servicios externos directamente dentro de la ventana de chat de ChatGPT. Basta con buscar The Hyundai Hi en la pestaña de plugins del menú de ChatGPT y añadirlo."
+                "x": "Google publicó una guía para las fiestas, “4 formas en que Search puede ayudarte con tus planes de vacaciones”, que canaliza las tareas de temporada a través de Search Live, Lens y AI Mode, y presenta habitaciones de hotel, mesas de restaurante y entradas para eventos como cosas que Search puede reservar y no solo encontrar. Ninguna de las funciones figura como lanzamiento."
               },
               {
                 "t": "p",
-                "x": "Al hacer preguntas como “Recomiéndame un alimento saludable de 10만원대 como regalo de cumpleaños para mis padres” o “Dime qué pop-up stores están de moda en The Hyundai Seoul”, ChatGPT ofrece información de compras en línea y en tiendas físicas de Hyundai Department Store. Los productos recomendados se presentan con enlaces a The Hyundai Hi. Al pulsar el enlace se abre The Hyundai Hi, donde se pueden consultar los detalles del producto y continuar con la compra, el pago o la reserva."
+                "x": "Para hoteles, AI Mode ofrece “una lista visual de opciones para comparar servicios, opiniones de huéspedes y fotos”. Los usuarios pueden salir a reservar con socios de viaje o, “si ves ‘Continue on Google’, completar la reserva del hotel directamente en AI Mode con Google Pay”. La reserva de hoteles en AI Mode empezó a desplegarse el 27 de agosto de 2026, en US y en inglés, con diez socios, entre ellos Booking.com, Expedia, Hilton y Marriott, que actúan como comerciante registrado (merchant of record)."
               },
               {
                 "t": "p",
-                "x": "Hyundai Department Store refuerza sus capacidades de compra con AI porque la AI generativa influye cada vez más en las decisiones de compra, como la búsqueda y la recomendación de productos. Durante el periodo de venta de regalos de Chuseok de este año, los accesos a The Hyundai Hi procedentes de AI generativa como ChatGPT y Gemini se multiplicaron por más de 4 respecto al Chuseok del año pasado. Con esta integración, la empresa busca ampliar sus puntos de contacto con clientes globales, como los turistas extranjeros."
+                "x": "La página de ayuda de Google indica que la función solo está disponible en US, en inglés y para determinados alojamientos, y que no admite códigos promocionales, canje de puntos de recompensa ni números de fidelización."
               },
               {
                 "t": "p",
-                "x": "Anteriormente, en abril, Hyundai Department Store lanzó un servicio de compras con AI que integraba The Hyundai Hi en 'ChatGPT for Kakao', basado en KakaoTalk. Los usuarios acumulados superaron aproximadamente los 86만명 a fecha de octubre. Hyundai Department Store recomienda de forma conversacional unos 50만 개 productos registrados en The Hyundai Hi mediante su asistente de compras con AI 'HEYDI'."
+                "x": "Las cenas y las entradas siguen la misma plantilla, y las tareas de AI Mode “seguirán en segundo plano la salida de entradas y los cambios de precio”, con avisos a través de la app de Google. Para los profesionales del marketing, los socios de reserva conservan la condición de comerciante registrado, mientras Google se queda con la interfaz, la credencial de Google Pay y la alerta que hace volver al comprador."
               }
             ]
           }
@@ -637,497 +637,15 @@
       }
     },
     {
-      "id": "hyundai-homeshopping-ai-broadcast",
-      "source_lang": "ko",
-      "eyebrow": "AI NEWS",
-      "headline": "현대홈쇼핑, 쇼호스트\n없는 AI 방송 도입",
-      "body": "현대홈쇼핑이 쇼호스트·카메라 없이 AI가 음성과 영상을 만든 방송을 선보인다.",
-      "mini_headline": "현대홈쇼핑 AI 방송",
-      "tool": "Marketing",
-      "source": "ZDNet Korea",
-      "url": "https://zdnet.co.kr/view/?no=20261115122232",
-      "accent": "#f5a623",
-      "motif": "frame",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "현대홈쇼핑이 쇼호스트와 카메라 촬영 없이 인공지능(AI)만으로 제작한 홈쇼핑 방송을 선보인다. AI가 음성과 영상을 모두 생성하는 방식으로, 방송 제작 비용을 줄이는 동시에 기존 촬영 방식으로 구현하기 어려웠던 상품 정보까지 시각적으로 전달한다는 구상이다."
-          },
-          {
-            "t": "p",
-            "x": "현대홈쇼핑은 데이터홈쇼핑 채널 '현대홈쇼핑 플러스샵'에 100% AI 방송 시스템인 'AI-REAL'을 도입한다고 15일 밝혔다. 첫 정규 방송은 오는 16일 오후 3시 20분 진행되는 '제주 하트 골드키위' 판매 방송이다."
-          },
-          {
-            "t": "p",
-            "x": "AI-REAL은 실제 쇼호스트의 출연이나 카메라 촬영 없이 AI가 방송에 필요한 음성과 영상을 생성하는 시스템이다. 기존 홈쇼핑 방송에서 일부 장면이나 쇼호스트를 AI로 대체한 사례는 있었지만, 방송 전체를 AI로 제작하는 것은 업계 최초라는 설명이다."
-          },
-          {
-            "t": "img",
-            "src": "https://image.zdnet.co.kr/2026/11/15/ec3435b603102586bf7d4d94af724d69.png",
-            "cap": "현대홈쇼핑 100% AI 방송 화면"
-          },
-          {
-            "t": "p",
-            "x": "현대홈쇼핑은 AI를 활용해 기존 실물 촬영 방식으로 표현하기 어려웠던 상품 정보도 시각화할 계획이다. 농산물의 산지 토양 상태나 유통 과정, 식품 조리 예시 등을 별도 촬영이나 소품 제작 없이 영상으로 구현하는 방식이다."
-          },
-          {
-            "t": "p",
-            "x": "방송 제작 비용 절감 효과도 기대하고 있다. 특히 방송용 샘플 준비와 영상 제작 등에 부담을 느끼는 중소 협력사의 비용을 줄일 수 있다는 설명이다. 현대홈쇼핑에 따르면 최근 진행한 테스트 방송에서 협력사가 부담하는 샘플 준비와 삽입 영상 제작 등 제반 비용이 기존 대비 80% 이상 감소했다. 매출은 목표 대비 120%를 달성했다."
-          },
-          {
-            "t": "p",
-            "x": "임수진 현대홈쇼핑 방송제작담당 사업부장은 \"테스트 방송에서 고객들은 실제 사람이 출연하는 방송 못지않게 자연스럽고, 재배 환경이나 조리 예시 등 다양한 정보가 구매 결정에 도움이 됐다는 긍정적인 반응을 보였다\"고 설명했다."
-          },
-          {
-            "t": "p",
-            "x": "현대홈쇼핑은 우선 농·축·수산물 등 신선식품을 중심으로 AI 방송을 월 1회 이상 정기 편성할 예정이다. 이후 가공식품과 리빙 등 중소 협력사의 입점 수요가 높은 상품군으로 적용 범위를 확대할 계획이다."
-          },
-          {
-            "t": "p",
-            "x": "임현태 현대홈쇼핑 채널전략디비전 부문장은 \"중소 협력사와 상생하며 고객에게 차별화된 쇼핑 경험을 제공하기 위해 AI 방송 생성 시스템을 개발했다\"며 \"앞으로도 AI 기술을 실무에 적극 접목해 AI 전환(AX) 속도를 높이겠다\"고 말했다."
-          }
-        ]
-      },
-      "text": {
-        "ko": {
-          "headline": "현대홈쇼핑, 쇼호스트\n없는 AI 방송 도입",
-          "body": "현대홈쇼핑이 쇼호스트·카메라 없이 AI가 음성과 영상을 만든 방송을 선보인다.",
-          "mini_headline": "현대홈쇼핑 AI 방송",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "현대홈쇼핑이 쇼호스트와 카메라 촬영 없이 인공지능(AI)만으로 제작한 홈쇼핑 방송을 선보인다. AI가 음성과 영상을 모두 생성하는 방식으로, 방송 제작 비용을 줄이는 동시에 기존 촬영 방식으로 구현하기 어려웠던 상품 정보까지 시각적으로 전달한다는 구상이다."
-              },
-              {
-                "t": "p",
-                "x": "현대홈쇼핑은 데이터홈쇼핑 채널 '현대홈쇼핑 플러스샵'에 100% AI 방송 시스템인 'AI-REAL'을 도입한다고 15일 밝혔다. 첫 정규 방송은 오는 16일 오후 3시 20분 진행되는 '제주 하트 골드키위' 판매 방송이다."
-              },
-              {
-                "t": "p",
-                "x": "AI-REAL은 실제 쇼호스트의 출연이나 카메라 촬영 없이 AI가 방송에 필요한 음성과 영상을 생성하는 시스템이다. 기존 홈쇼핑 방송에서 일부 장면이나 쇼호스트를 AI로 대체한 사례는 있었지만, 방송 전체를 AI로 제작하는 것은 업계 최초라는 설명이다."
-              },
-              {
-                "t": "img",
-                "src": "https://image.zdnet.co.kr/2026/11/15/ec3435b603102586bf7d4d94af724d69.png",
-                "cap": "현대홈쇼핑 100% AI 방송 화면"
-              },
-              {
-                "t": "p",
-                "x": "현대홈쇼핑은 AI를 활용해 기존 실물 촬영 방식으로 표현하기 어려웠던 상품 정보도 시각화할 계획이다. 농산물의 산지 토양 상태나 유통 과정, 식품 조리 예시 등을 별도 촬영이나 소품 제작 없이 영상으로 구현하는 방식이다."
-              },
-              {
-                "t": "p",
-                "x": "방송 제작 비용 절감 효과도 기대하고 있다. 특히 방송용 샘플 준비와 영상 제작 등에 부담을 느끼는 중소 협력사의 비용을 줄일 수 있다는 설명이다. 현대홈쇼핑에 따르면 최근 진행한 테스트 방송에서 협력사가 부담하는 샘플 준비와 삽입 영상 제작 등 제반 비용이 기존 대비 80% 이상 감소했다. 매출은 목표 대비 120%를 달성했다."
-              },
-              {
-                "t": "p",
-                "x": "임수진 현대홈쇼핑 방송제작담당 사업부장은 \"테스트 방송에서 고객들은 실제 사람이 출연하는 방송 못지않게 자연스럽고, 재배 환경이나 조리 예시 등 다양한 정보가 구매 결정에 도움이 됐다는 긍정적인 반응을 보였다\"고 설명했다."
-              },
-              {
-                "t": "p",
-                "x": "현대홈쇼핑은 우선 농·축·수산물 등 신선식품을 중심으로 AI 방송을 월 1회 이상 정기 편성할 예정이다. 이후 가공식품과 리빙 등 중소 협력사의 입점 수요가 높은 상품군으로 적용 범위를 확대할 계획이다."
-              },
-              {
-                "t": "p",
-                "x": "임현태 현대홈쇼핑 채널전략디비전 부문장은 \"중소 협력사와 상생하며 고객에게 차별화된 쇼핑 경험을 제공하기 위해 AI 방송 생성 시스템을 개발했다\"며 \"앞으로도 AI 기술을 실무에 적극 접목해 AI 전환(AX) 속도를 높이겠다\"고 말했다."
-              }
-            ]
-          }
-        },
-        "en": {
-          "headline": "Hyundai Home Shopping airs\nAI shows with no show host",
-          "body": "Hyundai Home Shopping will air broadcasts whose voice and video are generated by AI, with no show host or camera.",
-          "mini_headline": "Hyundai Home Shopping AI broadcasts",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Hyundai Home Shopping is launching home shopping broadcasts produced entirely by artificial intelligence (AI), with no show host and no camera filming. AI generates both the voice and the video, and the plan is to cut production costs while also conveying visually product information that was hard to show with conventional filming."
-              },
-              {
-                "t": "p",
-                "x": "Hyundai Home Shopping said on the 15th that it is introducing 'AI-REAL,' a 100% AI broadcast system, on its data home shopping channel 'Hyundai Home Shopping Plus Shop.' The first regular broadcast is a sales show for 'Jeju Heart Gold Kiwi' at 3:20 p.m. on the 16th."
-              },
-              {
-                "t": "p",
-                "x": "AI-REAL is a system in which AI generates the voice and video a broadcast needs, without a real show host appearing or any camera filming. The company said that while home shopping broadcasts have previously replaced some scenes or show hosts with AI, producing an entire broadcast with AI is an industry first."
-              },
-              {
-                "t": "img",
-                "src": "https://image.zdnet.co.kr/2026/11/15/ec3435b603102586bf7d4d94af724d69.png",
-                "cap": "Hyundai Home Shopping's 100% AI broadcast screen"
-              },
-              {
-                "t": "p",
-                "x": "Hyundai Home Shopping plans to use AI to visualize product information that was hard to express with conventional live-action filming. Details such as the soil conditions where produce is grown, the distribution process and cooking examples for food will be rendered as video without separate filming or props."
-              },
-              {
-                "t": "p",
-                "x": "The company also expects lower production costs. In particular, it said the system can reduce costs for small and mid-sized partner companies that find preparing broadcast samples and producing video burdensome. According to Hyundai Home Shopping, in recent test broadcasts the overall costs borne by partners, including sample preparation and inserted video production, fell by more than 80% compared with before. Sales reached 120% of target."
-              },
-              {
-                "t": "p",
-                "x": "Lim Su-jin, head of the broadcast production business unit at Hyundai Home Shopping, said, \"In the test broadcasts, customers responded positively, saying the shows felt as natural as broadcasts featuring real people and that a range of information, such as growing conditions and cooking examples, helped their purchase decisions.\""
-              },
-              {
-                "t": "p",
-                "x": "Hyundai Home Shopping plans to schedule AI broadcasts regularly, at least 1 per month, starting with fresh food such as agricultural, livestock and fishery products. It then plans to expand to product categories where demand from small and mid-sized partners is high, such as processed food and living goods."
-              },
-              {
-                "t": "p",
-                "x": "Lim Hyun-tae, head of the channel strategy division at Hyundai Home Shopping, said, \"We developed the AI broadcast generation system to grow together with small and mid-sized partners and give customers a differentiated shopping experience,\" adding, \"We will keep actively applying AI technology to our work to speed up our AI transformation (AX).\""
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "現代ホームショッピング、\nショーホストなしAI放送",
-          "body": "現代ホームショッピングが、ショーホストもカメラも使わずAIが音声と映像を作る放送を始める。",
-          "mini_headline": "現代ホームショッピングのAI放送",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "現代ホームショッピングが、ショーホストもカメラ撮影も使わず人工知能（AI）だけで制作したホームショッピング放送を始める。AIが音声と映像をすべて生成する方式で、放送制作費を抑えると同時に、従来の撮影方式では表現しにくかった商品情報まで視覚的に伝える構想だ。"
-              },
-              {
-                "t": "p",
-                "x": "現代ホームショッピングは15日、データホームショッピングチャンネル「現代ホームショッピング プラスショップ」に100% AI放送システム「AI-REAL」を導入すると明らかにした。初の定期放送は16日午後3時20分に行う「済州ハートゴールドキウイ」の販売放送だ。"
-              },
-              {
-                "t": "p",
-                "x": "AI-REALは、実際のショーホストの出演やカメラ撮影なしに、AIが放送に必要な音声と映像を生成するシステムだ。従来のホームショッピング放送で一部の場面やショーホストをAIに置き換えた例はあったが、放送全体をAIで制作するのは業界初だという。"
-              },
-              {
-                "t": "img",
-                "src": "https://image.zdnet.co.kr/2026/11/15/ec3435b603102586bf7d4d94af724d69.png",
-                "cap": "現代ホームショッピングの100% AI放送画面"
-              },
-              {
-                "t": "p",
-                "x": "現代ホームショッピングは、AIを活用して従来の実物撮影では表現しにくかった商品情報も可視化する計画だ。農産物の産地の土壌状態や流通過程、食品の調理例などを、別途の撮影や小道具の制作なしに映像で表現する。"
-              },
-              {
-                "t": "p",
-                "x": "放送制作費の削減効果も見込む。特に放送用サンプルの準備や映像制作などに負担を感じる中小協力会社のコストを減らせるという。現代ホームショッピングによると、最近実施したテスト放送では、協力会社が負担するサンプル準備や挿入映像の制作などの諸費用が従来比で80%以上減った。売上は目標比120%を達成した。"
-              },
-              {
-                "t": "p",
-                "x": "現代ホームショッピングのイム・スジン放送制作担当事業部長は「テスト放送で顧客からは、実際の人が出演する放送に劣らず自然で、栽培環境や調理例などさまざまな情報が購入の決め手になったという好意的な反応があった」と説明した。"
-              },
-              {
-                "t": "p",
-                "x": "現代ホームショッピングはまず農・畜・水産物などの生鮮食品を中心に、AI放送を月1回以上定期編成する予定だ。その後、加工食品やリビングなど中小協力会社の出店ニーズが高い商品群へ適用範囲を広げる計画だ。"
-              },
-              {
-                "t": "p",
-                "x": "現代ホームショッピングのイム・ヒョンテ チャネル戦略ディビジョン部門長は「中小協力会社と共に成長しながら顧客に差別化されたショッピング体験を提供するため、AI放送生成システムを開発した」とし、「今後もAI技術を実務に積極的に取り入れ、AI転換（AX）のスピードを高める」と述べた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "现代家庭购物推出\n无主持人的AI节目",
-          "body": "现代家庭购物将推出无需主持人和摄像机、由AI生成声音与画面的节目。",
-          "mini_headline": "现代家庭购物AI节目",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "现代家庭购物将推出无需购物主持人和摄像机拍摄、完全由人工智能（AI）制作的电视购物节目。AI生成全部声音和画面，旨在降低节目制作成本，同时以视觉方式传达以往拍摄方式难以呈现的商品信息。"
-              },
-              {
-                "t": "p",
-                "x": "现代家庭购物15日表示，将在数据家庭购物频道“现代家庭购物 Plus Shop”引入100% AI节目系统“AI-REAL”。首个常规节目是16日下午3点20分播出的“济州心形金果猕猴桃”销售节目。"
-              },
-              {
-                "t": "p",
-                "x": "AI-REAL是一套无需真人主持人出镜或摄像机拍摄、由AI生成节目所需声音和画面的系统。据介绍，此前电视购物节目中虽有用AI替代部分场景或主持人的案例，但整档节目全部由AI制作尚属业界首次。"
-              },
-              {
-                "t": "img",
-                "src": "https://image.zdnet.co.kr/2026/11/15/ec3435b603102586bf7d4d94af724d69.png",
-                "cap": "现代家庭购物100% AI节目画面"
-              },
-              {
-                "t": "p",
-                "x": "现代家庭购物计划利用AI，将以往实物拍摄难以表现的商品信息也加以可视化，例如农产品产地的土壤状况、流通过程以及食品烹饪示例等，无需另行拍摄或制作道具即可用视频呈现。"
-              },
-              {
-                "t": "p",
-                "x": "公司还期待降低节目制作成本，尤其能减轻在准备节目样品和制作视频等方面负担较重的中小合作企业的成本。据现代家庭购物介绍，在近期的测试节目中，合作企业承担的样品准备、插播视频制作等各项费用比以往减少了80%以上，销售额达到目标的120%。"
-              },
-              {
-                "t": "p",
-                "x": "现代家庭购物节目制作负责事业部长Lim Su-jin表示：“在测试节目中，顾客反馈称节目与真人出镜的节目一样自然，种植环境和烹饪示例等多样信息对购买决定有帮助，反应积极。”"
-              },
-              {
-                "t": "p",
-                "x": "现代家庭购物计划首先以农畜水产品等生鲜食品为中心，每月至少定期编排1次AI节目，之后再将适用范围扩大到加工食品、家居等中小合作企业入驻需求较高的品类。"
-              },
-              {
-                "t": "p",
-                "x": "现代家庭购物渠道战略部门负责人Lim Hyun-tae表示：“为了与中小合作企业共同成长，并为顾客提供差异化的购物体验，我们开发了AI节目生成系统。”他还表示：“今后将继续积极把AI技术应用到实际业务中，加快AI转型（AX）的步伐。”"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Hyundai Home Shopping emite\nprogramas de AI sin presentador",
-          "body": "Hyundai Home Shopping estrenará emisiones con voz e imagen generadas por AI, sin presentador ni cámaras.",
-          "mini_headline": "Programas de AI de Hyundai Home Shopping",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Hyundai Home Shopping lanzará programas de televenta producidos solo con inteligencia artificial (AI), sin presentadores ni grabación con cámaras. La AI genera tanto la voz como la imagen, con el objetivo de reducir los costes de producción y, al mismo tiempo, transmitir de forma visual información de producto que era difícil de mostrar con la grabación convencional."
-              },
-              {
-                "t": "p",
-                "x": "Hyundai Home Shopping anunció el día 15 que incorporará 'AI-REAL', un sistema de emisión 100% AI, en su canal de televenta de datos 'Hyundai Home Shopping Plus Shop'. La primera emisión regular será un programa de venta de 'Jeju Heart Gold Kiwi' el día 16 a las 3:20 de la tarde."
-              },
-              {
-                "t": "p",
-                "x": "AI-REAL es un sistema en el que la AI genera la voz y la imagen que necesita una emisión, sin que aparezca un presentador real ni se grabe con cámaras. Según la empresa, en la televenta ya había casos en los que algunas escenas o presentadores se sustituían por AI, pero producir una emisión completa con AI es una primicia en el sector."
-              },
-              {
-                "t": "img",
-                "src": "https://image.zdnet.co.kr/2026/11/15/ec3435b603102586bf7d4d94af724d69.png",
-                "cap": "Pantalla de una emisión 100% AI de Hyundai Home Shopping"
-              },
-              {
-                "t": "p",
-                "x": "Hyundai Home Shopping planea usar la AI para visualizar también información de producto difícil de expresar con la grabación física convencional, como el estado del suelo en la zona de origen de los productos agrícolas, el proceso de distribución o ejemplos de preparación de alimentos, que se recrearán en vídeo sin grabaciones aparte ni fabricación de atrezo."
-              },
-              {
-                "t": "p",
-                "x": "También espera reducir los costes de producción, en especial para los socios pequeños y medianos a los que les pesa preparar muestras y producir vídeos para las emisiones. Según Hyundai Home Shopping, en las emisiones de prueba recientes los costes asumidos por los socios, como la preparación de muestras y la producción de vídeos insertados, bajaron más de un 80% respecto a lo habitual. Las ventas alcanzaron el 120% del objetivo."
-              },
-              {
-                "t": "p",
-                "x": "Lim Su-jin, responsable de la unidad de producción de emisiones de Hyundai Home Shopping, explicó: \"En las emisiones de prueba, los clientes reaccionaron de forma positiva: dijeron que resultaban tan naturales como las emisiones con personas reales y que la variada información, como el entorno de cultivo o los ejemplos de preparación, les ayudó a decidir la compra\"."
-              },
-              {
-                "t": "p",
-                "x": "Hyundai Home Shopping programará primero emisiones de AI de forma regular, al menos 1 vez al mes, centradas en alimentos frescos como productos agrícolas, ganaderos y pesqueros. Después ampliará su aplicación a categorías con alta demanda de socios pequeños y medianos, como alimentos procesados y artículos para el hogar."
-              },
-              {
-                "t": "p",
-                "x": "Lim Hyun-tae, responsable de la división de estrategia de canales de Hyundai Home Shopping, afirmó: \"Desarrollamos el sistema de generación de emisiones con AI para crecer junto a los socios pequeños y medianos y ofrecer a los clientes una experiencia de compra diferenciada\", y añadió: \"Seguiremos aplicando activamente la tecnología de AI en nuestro trabajo para acelerar nuestra transformación AI (AX)\"."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "en": {
-          "headline": "Hyundai Home Shopping airs\nAI shows with no show host",
-          "body": "Hyundai Home Shopping will air broadcasts whose voice and video are generated by AI, with no show host or camera.",
-          "mini_headline": "Hyundai Home Shopping AI broadcasts",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Hyundai Home Shopping is launching home shopping broadcasts produced entirely by artificial intelligence (AI), with no show host and no camera filming. AI generates both the voice and the video, and the plan is to cut production costs while also conveying visually product information that was hard to show with conventional filming."
-              },
-              {
-                "t": "p",
-                "x": "Hyundai Home Shopping said on the 15th that it is introducing 'AI-REAL,' a 100% AI broadcast system, on its data home shopping channel 'Hyundai Home Shopping Plus Shop.' The first regular broadcast is a sales show for 'Jeju Heart Gold Kiwi' at 3:20 p.m. on the 16th."
-              },
-              {
-                "t": "p",
-                "x": "AI-REAL is a system in which AI generates the voice and video a broadcast needs, without a real show host appearing or any camera filming. The company said that while home shopping broadcasts have previously replaced some scenes or show hosts with AI, producing an entire broadcast with AI is an industry first."
-              },
-              {
-                "t": "img",
-                "src": "https://image.zdnet.co.kr/2026/11/15/ec3435b603102586bf7d4d94af724d69.png",
-                "cap": "Hyundai Home Shopping's 100% AI broadcast screen"
-              },
-              {
-                "t": "p",
-                "x": "Hyundai Home Shopping plans to use AI to visualize product information that was hard to express with conventional live-action filming. Details such as the soil conditions where produce is grown, the distribution process and cooking examples for food will be rendered as video without separate filming or props."
-              },
-              {
-                "t": "p",
-                "x": "The company also expects lower production costs. In particular, it said the system can reduce costs for small and mid-sized partner companies that find preparing broadcast samples and producing video burdensome. According to Hyundai Home Shopping, in recent test broadcasts the overall costs borne by partners, including sample preparation and inserted video production, fell by more than 80% compared with before. Sales reached 120% of target."
-              },
-              {
-                "t": "p",
-                "x": "Lim Su-jin, head of the broadcast production business unit at Hyundai Home Shopping, said, \"In the test broadcasts, customers responded positively, saying the shows felt as natural as broadcasts featuring real people and that a range of information, such as growing conditions and cooking examples, helped their purchase decisions.\""
-              },
-              {
-                "t": "p",
-                "x": "Hyundai Home Shopping plans to schedule AI broadcasts regularly, at least 1 per month, starting with fresh food such as agricultural, livestock and fishery products. It then plans to expand to product categories where demand from small and mid-sized partners is high, such as processed food and living goods."
-              },
-              {
-                "t": "p",
-                "x": "Lim Hyun-tae, head of the channel strategy division at Hyundai Home Shopping, said, \"We developed the AI broadcast generation system to grow together with small and mid-sized partners and give customers a differentiated shopping experience,\" adding, \"We will keep actively applying AI technology to our work to speed up our AI transformation (AX).\""
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "現代ホームショッピング、\nショーホストなしAI放送",
-          "body": "現代ホームショッピングが、ショーホストもカメラも使わずAIが音声と映像を作る放送を始める。",
-          "mini_headline": "現代ホームショッピングのAI放送",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "現代ホームショッピングが、ショーホストもカメラ撮影も使わず人工知能（AI）だけで制作したホームショッピング放送を始める。AIが音声と映像をすべて生成する方式で、放送制作費を抑えると同時に、従来の撮影方式では表現しにくかった商品情報まで視覚的に伝える構想だ。"
-              },
-              {
-                "t": "p",
-                "x": "現代ホームショッピングは15日、データホームショッピングチャンネル「現代ホームショッピング プラスショップ」に100% AI放送システム「AI-REAL」を導入すると明らかにした。初の定期放送は16日午後3時20分に行う「済州ハートゴールドキウイ」の販売放送だ。"
-              },
-              {
-                "t": "p",
-                "x": "AI-REALは、実際のショーホストの出演やカメラ撮影なしに、AIが放送に必要な音声と映像を生成するシステムだ。従来のホームショッピング放送で一部の場面やショーホストをAIに置き換えた例はあったが、放送全体をAIで制作するのは業界初だという。"
-              },
-              {
-                "t": "img",
-                "src": "https://image.zdnet.co.kr/2026/11/15/ec3435b603102586bf7d4d94af724d69.png",
-                "cap": "現代ホームショッピングの100% AI放送画面"
-              },
-              {
-                "t": "p",
-                "x": "現代ホームショッピングは、AIを活用して従来の実物撮影では表現しにくかった商品情報も可視化する計画だ。農産物の産地の土壌状態や流通過程、食品の調理例などを、別途の撮影や小道具の制作なしに映像で表現する。"
-              },
-              {
-                "t": "p",
-                "x": "放送制作費の削減効果も見込む。特に放送用サンプルの準備や映像制作などに負担を感じる中小協力会社のコストを減らせるという。現代ホームショッピングによると、最近実施したテスト放送では、協力会社が負担するサンプル準備や挿入映像の制作などの諸費用が従来比で80%以上減った。売上は目標比120%を達成した。"
-              },
-              {
-                "t": "p",
-                "x": "現代ホームショッピングのイム・スジン放送制作担当事業部長は「テスト放送で顧客からは、実際の人が出演する放送に劣らず自然で、栽培環境や調理例などさまざまな情報が購入の決め手になったという好意的な反応があった」と説明した。"
-              },
-              {
-                "t": "p",
-                "x": "現代ホームショッピングはまず農・畜・水産物などの生鮮食品を中心に、AI放送を月1回以上定期編成する予定だ。その後、加工食品やリビングなど中小協力会社の出店ニーズが高い商品群へ適用範囲を広げる計画だ。"
-              },
-              {
-                "t": "p",
-                "x": "現代ホームショッピングのイム・ヒョンテ チャネル戦略ディビジョン部門長は「中小協力会社と共に成長しながら顧客に差別化されたショッピング体験を提供するため、AI放送生成システムを開発した」とし、「今後もAI技術を実務に積極的に取り入れ、AI転換（AX）のスピードを高める」と述べた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "现代家庭购物推出\n无主持人的AI节目",
-          "body": "现代家庭购物将推出无需主持人和摄像机、由AI生成声音与画面的节目。",
-          "mini_headline": "现代家庭购物AI节目",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "现代家庭购物将推出无需购物主持人和摄像机拍摄、完全由人工智能（AI）制作的电视购物节目。AI生成全部声音和画面，旨在降低节目制作成本，同时以视觉方式传达以往拍摄方式难以呈现的商品信息。"
-              },
-              {
-                "t": "p",
-                "x": "现代家庭购物15日表示，将在数据家庭购物频道“现代家庭购物 Plus Shop”引入100% AI节目系统“AI-REAL”。首个常规节目是16日下午3点20分播出的“济州心形金果猕猴桃”销售节目。"
-              },
-              {
-                "t": "p",
-                "x": "AI-REAL是一套无需真人主持人出镜或摄像机拍摄、由AI生成节目所需声音和画面的系统。据介绍，此前电视购物节目中虽有用AI替代部分场景或主持人的案例，但整档节目全部由AI制作尚属业界首次。"
-              },
-              {
-                "t": "img",
-                "src": "https://image.zdnet.co.kr/2026/11/15/ec3435b603102586bf7d4d94af724d69.png",
-                "cap": "现代家庭购物100% AI节目画面"
-              },
-              {
-                "t": "p",
-                "x": "现代家庭购物计划利用AI，将以往实物拍摄难以表现的商品信息也加以可视化，例如农产品产地的土壤状况、流通过程以及食品烹饪示例等，无需另行拍摄或制作道具即可用视频呈现。"
-              },
-              {
-                "t": "p",
-                "x": "公司还期待降低节目制作成本，尤其能减轻在准备节目样品和制作视频等方面负担较重的中小合作企业的成本。据现代家庭购物介绍，在近期的测试节目中，合作企业承担的样品准备、插播视频制作等各项费用比以往减少了80%以上，销售额达到目标的120%。"
-              },
-              {
-                "t": "p",
-                "x": "现代家庭购物节目制作负责事业部长Lim Su-jin表示：“在测试节目中，顾客反馈称节目与真人出镜的节目一样自然，种植环境和烹饪示例等多样信息对购买决定有帮助，反应积极。”"
-              },
-              {
-                "t": "p",
-                "x": "现代家庭购物计划首先以农畜水产品等生鲜食品为中心，每月至少定期编排1次AI节目，之后再将适用范围扩大到加工食品、家居等中小合作企业入驻需求较高的品类。"
-              },
-              {
-                "t": "p",
-                "x": "现代家庭购物渠道战略部门负责人Lim Hyun-tae表示：“为了与中小合作企业共同成长，并为顾客提供差异化的购物体验，我们开发了AI节目生成系统。”他还表示：“今后将继续积极把AI技术应用到实际业务中，加快AI转型（AX）的步伐。”"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Hyundai Home Shopping emite\nprogramas de AI sin presentador",
-          "body": "Hyundai Home Shopping estrenará emisiones con voz e imagen generadas por AI, sin presentador ni cámaras.",
-          "mini_headline": "Programas de AI de Hyundai Home Shopping",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Hyundai Home Shopping lanzará programas de televenta producidos solo con inteligencia artificial (AI), sin presentadores ni grabación con cámaras. La AI genera tanto la voz como la imagen, con el objetivo de reducir los costes de producción y, al mismo tiempo, transmitir de forma visual información de producto que era difícil de mostrar con la grabación convencional."
-              },
-              {
-                "t": "p",
-                "x": "Hyundai Home Shopping anunció el día 15 que incorporará 'AI-REAL', un sistema de emisión 100% AI, en su canal de televenta de datos 'Hyundai Home Shopping Plus Shop'. La primera emisión regular será un programa de venta de 'Jeju Heart Gold Kiwi' el día 16 a las 3:20 de la tarde."
-              },
-              {
-                "t": "p",
-                "x": "AI-REAL es un sistema en el que la AI genera la voz y la imagen que necesita una emisión, sin que aparezca un presentador real ni se grabe con cámaras. Según la empresa, en la televenta ya había casos en los que algunas escenas o presentadores se sustituían por AI, pero producir una emisión completa con AI es una primicia en el sector."
-              },
-              {
-                "t": "img",
-                "src": "https://image.zdnet.co.kr/2026/11/15/ec3435b603102586bf7d4d94af724d69.png",
-                "cap": "Pantalla de una emisión 100% AI de Hyundai Home Shopping"
-              },
-              {
-                "t": "p",
-                "x": "Hyundai Home Shopping planea usar la AI para visualizar también información de producto difícil de expresar con la grabación física convencional, como el estado del suelo en la zona de origen de los productos agrícolas, el proceso de distribución o ejemplos de preparación de alimentos, que se recrearán en vídeo sin grabaciones aparte ni fabricación de atrezo."
-              },
-              {
-                "t": "p",
-                "x": "También espera reducir los costes de producción, en especial para los socios pequeños y medianos a los que les pesa preparar muestras y producir vídeos para las emisiones. Según Hyundai Home Shopping, en las emisiones de prueba recientes los costes asumidos por los socios, como la preparación de muestras y la producción de vídeos insertados, bajaron más de un 80% respecto a lo habitual. Las ventas alcanzaron el 120% del objetivo."
-              },
-              {
-                "t": "p",
-                "x": "Lim Su-jin, responsable de la unidad de producción de emisiones de Hyundai Home Shopping, explicó: \"En las emisiones de prueba, los clientes reaccionaron de forma positiva: dijeron que resultaban tan naturales como las emisiones con personas reales y que la variada información, como el entorno de cultivo o los ejemplos de preparación, les ayudó a decidir la compra\"."
-              },
-              {
-                "t": "p",
-                "x": "Hyundai Home Shopping programará primero emisiones de AI de forma regular, al menos 1 vez al mes, centradas en alimentos frescos como productos agrícolas, ganaderos y pesqueros. Después ampliará su aplicación a categorías con alta demanda de socios pequeños y medianos, como alimentos procesados y artículos para el hogar."
-              },
-              {
-                "t": "p",
-                "x": "Lim Hyun-tae, responsable de la división de estrategia de canales de Hyundai Home Shopping, afirmó: \"Desarrollamos el sistema de generación de emisiones con AI para crecer junto a los socios pequeños y medianos y ofrecer a los clientes una experiencia de compra diferenciada\", y añadió: \"Seguiremos aplicando activamente la tecnología de AI en nuestro trabajo para acelerar nuestra transformación AI (AX)\"."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "ebay-agent-ban-useragreement",
+      "id": "jcrew-style-advisor-anthropic",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "eBay, 허가 없는\nAI 쇼핑 에이전트 차단",
-      "body": "eBay는 buy-for-me AI·LLM-driven 봇엔 사전 허가를 요구한다.",
-      "mini_headline": "eBay, AI 쇼핑객에 문턱",
+      "headline": "J. Crew의 AI 코디\nStyle Advisor",
+      "body": "J. Crew Style Advisor는 Anthropic과 만든 코디 도구다.",
+      "mini_headline": "J. Crew의 AI 스타일리스트",
       "tool": "Marketing",
-      "source": "PPC Land",
-      "url": "https://ppc.land/ebay-bans-the-robot-shopper-unless-ebay-sends-the-invitation/",
+      "source": "Retail Dive",
+      "url": "https://www.retaildive.com/news/j-crew-introduces-ai-style-advisor/874596/",
       "accent": "#7928ca",
       "motif": "frame",
       "full": {
@@ -1135,149 +653,203 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://ppc.land/content/images/2026/11/ebay-user-agreement-bans-buy-for-me-ai-agents-without-permission-orange-velvet-rope-teal-errand-box-at-door.jpg"
+            "src": "https://imgproxy.divecdn.com/f5YC8XCfhWSHGirICm9w9L7klu_UcwXzWbVHVxach0Q/g:nowe:0:70/c:640:362/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8xNDU3OTUzMjMxOF84ZjkxMjlmMzljX3ouanBn.webp",
+            "cap": "J. Crew의 Style Advisor는 AI로 고객이 바로 살 수 있는 완성된 룩을 제시한다."
           },
           {
             "t": "p",
-            "x": "eBay 이용약관(User Agreement)은 회사의 \"사전 명시적 허가\" 없이 구매자와 판매자가 마켓플레이스에서 \"buy-for-me 에이전트, LLM-driven 봇, 또는 사람의 검토 없이 주문을 시도하는 모든 end-to-end 흐름\"을 쓰지 못하게 막는다. 2026년 2월 20일부터 시행된 이 조항은 2026년 6월 28일 발효 버전에도 문구 그대로 남았다."
+            "x": "J. Crew가 AI-powered 옷장 컨설턴트 Style Advisor를 출시했다. Anthropic과 협력해 만들었고 “다양한 Claude 모델”로 구동된다. 회사는 이 도구가 “개별 제품 검색이 아니라 영감과 발견을 중심으로 한다”고 밝혔다."
           },
           {
             "t": "p",
-            "x": "The Verge는 11월 10일 Meta의 Muse 에이전트가 eBay 상품 목록을 가져오지 못하게 막혔다고 보도했다. 11월 12일에는 접근이 \"될 때도 있고 안 될 때도 있는 것 같다\"고 전했다. eBay 대변인 Sybille St. Arromand는 전면 금지가 아니라며 eBay가 \"정책에 따라 AI 검색, 탐색, 일부 에이전트 지원 내비게이션은 허용하되 승인되지 않은 자동 스크래핑은 차단한다\"고 설명했다."
+            "x": "대화형 챗봇인 이 도구는 “방대한 자체 이미지 라이브러리”를 갖췄다. 고객은 자연어로 물어 “J. Crew 스타일리스트가 늘 해 온 그런 조언”을 받을 수 있다. 지금은 J. Crew U.S. 웹사이트에서 남성·여성 스타일로 쓸 수 있다."
           },
           {
             "t": "p",
-            "x": "Amazon은 외부 에이전트를 전면 차단한다. Target은 경우에 따라 에이전트의 탐색을 허용하고 Walmart와 Shopify는 진입 경로를 공개했다. 어떤 에이전트가 허가를 받았는지, 개발자가 허가를 어떻게 요청하면 되는지 eBay는 밝히지 않았다."
+            "x": "Style Advisor는 “J.Crew 자체 화보 촬영에서 나온 수천 가지 코디 조합”으로 머리부터 발끝까지 룩을 짜도록 돕는다. 고객은 면접이나 생일 파티 같은 행사에서 출발하거나 특정 아이템을 중심으로 코디를 짤 수 있다. 도구는 “각 고객의 취향과 구매 이력에 맞춰 제안을 조정하며 점점 더 개인화된다.”"
+          },
+          {
+            "t": "p",
+            "x": "“Anthropic과의 협업으로 수십 년간 쌓은 J. Crew의 스타일링, 머천다이징, 크리에이티브 전문성을 모아 고객 행동의 다음 모습을 만드는 데 힘을 보태고 있다”고 J. Crew Group의 CEO Libby Wadle은 말했다."
+          },
+          {
+            "t": "p",
+            "x": "경쟁사 Ralph Lauren은 한 해 남짓 전 자체 AI 스타일링 어시스턴트를 내놓았다. Stitch Fix는 7월에 선보였다. J. Crew는 현재 U.S.에서 114개 매장을 운영한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "eBay bars AI shopping agents\nwithout its permission",
-          "body": "eBay's user agreement now requires prior express permission for buy-for-me AI agents and LLM-driven bots.",
-          "mini_headline": "eBay gates AI shoppers",
+          "headline": "J. Crew launches an AI\nStyle Advisor for outfits",
+          "body": "J. Crew's desktop Style Advisor, built with Anthropic, suggests full outfits instead of single products.",
+          "mini_headline": "J. Crew's AI stylist",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/11/ebay-user-agreement-bans-buy-for-me-ai-agents-without-permission-orange-velvet-rope-teal-errand-box-at-door.jpg"
+                "src": "https://imgproxy.divecdn.com/f5YC8XCfhWSHGirICm9w9L7klu_UcwXzWbVHVxach0Q/g:nowe:0:70/c:640:362/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8xNDU3OTUzMjMxOF84ZjkxMjlmMzljX3ouanBn.webp",
+                "cap": "J. Crew's Style Advisor uses AI to deliver completed looks customers can shop."
               },
               {
                 "t": "p",
-                "x": "eBay's User Agreement prohibits buyers and sellers from using \"buy-for-me agents, LLM-driven bots, or any end-to-end flow that attempts to place orders without human review\" on the marketplace unless the company grants \"prior express permission.\" The clause has been in force since February 20, 2026, and carried over word for word into the version effective June 28, 2026."
+                "x": "J. Crew has launched an AI-powered wardrobe consultant called Style Advisor, created in partnership with Anthropic and powered \"by a variety of Claude models.\" The company said it is \"driven by inspiration and discovery rather than searching for individual products.\""
               },
               {
                 "t": "p",
-                "x": "The Verge reported on November 10 that Meta's Muse agent had been blocked from pulling eBay listings; by November 12 its access \"seems to be somewhat hit or miss.\" eBay spokesperson Sybille St. Arromand said the restrictions were not a blanket ban and that eBay permits \"AI search, discovery and certain agent-assisted navigation in accordance with our policies, while blocking unauthorized automated scraping.\""
+                "x": "The conversational chatbot features \"an extensive library of proprietary imagery\" and lets customers use natural language queries to get \"the kind of advice J. Crew stylists have always offered.\" It's available now on the J. Crew U.S. website for men's and women's styles."
               },
               {
                 "t": "p",
-                "x": "Amazon blocks external agents entirely, Target lets agents browse in some instances, while Walmart and Shopify have published routes in. eBay has not said which agents hold permission or how a developer would request it."
+                "x": "Style Advisor helps customers assemble head-to-toe looks drawn from \"thousands of outfit pairings from J.Crew's own photo shoots.\" Customers can start with an event, such as a job interview or birthday party, or build around a specific item, and the tool will \"become more personal, tailoring suggestions to each customer's preferences and past purchases.\""
+              },
+              {
+                "t": "p",
+                "x": "\"Through our work with Anthropic, we're bringing decades of J. Crew styling, merchandising and creative expertise together to help shape what's next for customer behavior,\" said Libby Wadle, CEO of J. Crew Group."
+              },
+              {
+                "t": "p",
+                "x": "Rival Ralph Lauren launched its own AI styling assistant just over a year ago, and Stitch Fix launched one in July. J. Crew currently operates 114 U.S. retail stores."
               }
             ]
           }
         },
         "ko": {
-          "headline": "eBay, 허가 없는\nAI 쇼핑 에이전트 차단",
-          "body": "eBay는 buy-for-me AI·LLM-driven 봇엔 사전 허가를 요구한다.",
-          "mini_headline": "eBay, AI 쇼핑객에 문턱",
+          "headline": "J. Crew의 AI 코디\nStyle Advisor",
+          "body": "J. Crew Style Advisor는 Anthropic과 만든 코디 도구다.",
+          "mini_headline": "J. Crew의 AI 스타일리스트",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/11/ebay-user-agreement-bans-buy-for-me-ai-agents-without-permission-orange-velvet-rope-teal-errand-box-at-door.jpg"
+                "src": "https://imgproxy.divecdn.com/f5YC8XCfhWSHGirICm9w9L7klu_UcwXzWbVHVxach0Q/g:nowe:0:70/c:640:362/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8xNDU3OTUzMjMxOF84ZjkxMjlmMzljX3ouanBn.webp",
+                "cap": "J. Crew의 Style Advisor는 AI로 고객이 바로 살 수 있는 완성된 룩을 제시한다."
               },
               {
                 "t": "p",
-                "x": "eBay 이용약관(User Agreement)은 회사의 \"사전 명시적 허가\" 없이 구매자와 판매자가 마켓플레이스에서 \"buy-for-me 에이전트, LLM-driven 봇, 또는 사람의 검토 없이 주문을 시도하는 모든 end-to-end 흐름\"을 쓰지 못하게 막는다. 2026년 2월 20일부터 시행된 이 조항은 2026년 6월 28일 발효 버전에도 문구 그대로 남았다."
+                "x": "J. Crew가 AI-powered 옷장 컨설턴트 Style Advisor를 출시했다. Anthropic과 협력해 만들었고 “다양한 Claude 모델”로 구동된다. 회사는 이 도구가 “개별 제품 검색이 아니라 영감과 발견을 중심으로 한다”고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "The Verge는 11월 10일 Meta의 Muse 에이전트가 eBay 상품 목록을 가져오지 못하게 막혔다고 보도했다. 11월 12일에는 접근이 \"될 때도 있고 안 될 때도 있는 것 같다\"고 전했다. eBay 대변인 Sybille St. Arromand는 전면 금지가 아니라며 eBay가 \"정책에 따라 AI 검색, 탐색, 일부 에이전트 지원 내비게이션은 허용하되 승인되지 않은 자동 스크래핑은 차단한다\"고 설명했다."
+                "x": "대화형 챗봇인 이 도구는 “방대한 자체 이미지 라이브러리”를 갖췄다. 고객은 자연어로 물어 “J. Crew 스타일리스트가 늘 해 온 그런 조언”을 받을 수 있다. 지금은 J. Crew U.S. 웹사이트에서 남성·여성 스타일로 쓸 수 있다."
               },
               {
                 "t": "p",
-                "x": "Amazon은 외부 에이전트를 전면 차단한다. Target은 경우에 따라 에이전트의 탐색을 허용하고 Walmart와 Shopify는 진입 경로를 공개했다. 어떤 에이전트가 허가를 받았는지, 개발자가 허가를 어떻게 요청하면 되는지 eBay는 밝히지 않았다."
+                "x": "Style Advisor는 “J.Crew 자체 화보 촬영에서 나온 수천 가지 코디 조합”으로 머리부터 발끝까지 룩을 짜도록 돕는다. 고객은 면접이나 생일 파티 같은 행사에서 출발하거나 특정 아이템을 중심으로 코디를 짤 수 있다. 도구는 “각 고객의 취향과 구매 이력에 맞춰 제안을 조정하며 점점 더 개인화된다.”"
+              },
+              {
+                "t": "p",
+                "x": "“Anthropic과의 협업으로 수십 년간 쌓은 J. Crew의 스타일링, 머천다이징, 크리에이티브 전문성을 모아 고객 행동의 다음 모습을 만드는 데 힘을 보태고 있다”고 J. Crew Group의 CEO Libby Wadle은 말했다."
+              },
+              {
+                "t": "p",
+                "x": "경쟁사 Ralph Lauren은 한 해 남짓 전 자체 AI 스타일링 어시스턴트를 내놓았다. Stitch Fix는 7월에 선보였다. J. Crew는 현재 U.S.에서 114개 매장을 운영한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "eBay、無許可の\nAI買い物エージェント禁止",
-          "body": "eBayはbuy-for-me型AIやLLM-drivenボットに事前許可を求める。",
-          "mini_headline": "eBay、AI買い物客に関門",
+          "headline": "J. Crew、AIコーデの\nStyle Advisor",
+          "body": "J. CrewのStyle AdvisorはAnthropicと組み、服を一式で提案する。",
+          "mini_headline": "J. CrewのAIスタイリスト",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/11/ebay-user-agreement-bans-buy-for-me-ai-agents-without-permission-orange-velvet-rope-teal-errand-box-at-door.jpg"
+                "src": "https://imgproxy.divecdn.com/f5YC8XCfhWSHGirICm9w9L7klu_UcwXzWbVHVxach0Q/g:nowe:0:70/c:640:362/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8xNDU3OTUzMjMxOF84ZjkxMjlmMzljX3ouanBn.webp",
+                "cap": "J. CrewのStyle Advisorは、AIを使って顧客がそのまま購入できる完成したルックを提示する。"
               },
               {
                 "t": "p",
-                "x": "eBayの利用規約（User Agreement）は、同社が「事前の明示的な許可」を与えない限り、買い手と売り手がマーケットプレイス上で「buy-for-meエージェント、LLM-drivenボット、または人による確認なしに注文を試みるあらゆるend-to-endのフロー」を使うことを禁じている。この条項は2026年2月20日から施行されており、2026年6月28日発効の版にも一字一句そのまま引き継がれた。"
+                "x": "J. CrewはAI-poweredのワードローブ・コンサルタント「Style Advisor」を投入した。Anthropicと提携して開発し、「さまざまなClaudeモデル」で動く。同社は、このツールが「個々の商品を検索するのではなく、インスピレーションと発見を軸にしている」と説明した。"
               },
               {
                 "t": "p",
-                "x": "The Vergeは11月10日、MetaのMuseエージェントがeBayの出品情報を取得できないようブロックされたと報じ、11月12日にはそのアクセスが「つながったりつながらなかったりするようだ」と伝えた。eBayの広報担当Sybille St. Arromandは、今回の制限は全面禁止ではなく、eBayは「ポリシーに沿ってAI検索、ディスカバリー、一部のエージェント支援ナビゲーションを認める一方、無許可の自動スクレイピングはブロックしている」と述べた。"
+                "x": "この対話型チャットボットは「独自画像の豊富なライブラリ」を備え、顧客は自然言語で質問して「J. Crewのスタイリストが常に提供してきたようなアドバイス」を得られる。現在、J. Crew U.S.のウェブサイトでメンズとウィメンズのスタイルに対応している。"
               },
               {
                 "t": "p",
-                "x": "Amazonは外部エージェントを全面的にブロックし、Targetは一部のケースでエージェントの閲覧を認め、WalmartとShopifyは参入経路を公開している。eBayは、どのエージェントが許可を得ているのか、開発者がどう許可を申請すればよいのかを明らかにしていない。"
+                "x": "Style Advisorは「J.Crew自身の撮影から生まれた数千通りのコーディネート」をもとに、頭からつま先までのルックを組み立てる手助けをする。顧客は就職面接や誕生日パーティーといったイベントから始めることも、特定のアイテムを軸に組み立てることもでき、ツールは「各顧客の好みと購入履歴に合わせて提案を調整し、よりパーソナルになっていく」。"
+              },
+              {
+                "t": "p",
+                "x": "「Anthropicとの取り組みを通じて、J. Crewが数十年かけて培ったスタイリング、マーチャンダイジング、クリエイティブの専門性を結集し、顧客行動の次のかたちづくりに貢献していく」と、J. Crew GroupのCEO、Libby Wadle氏は述べた。"
+              },
+              {
+                "t": "p",
+                "x": "競合のRalph Laurenは一年余り前に独自のAIスタイリングアシスタントを投入し、Stitch Fixも7月に同様のものを公開した。J. Crewは現在、U.S.で114の店舗を運営している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "eBay：AI购物代理\n须先获其许可",
-          "body": "eBay规定buy-for-me AI代理与LLM-driven机器人须事先获明确许可。",
-          "mini_headline": "eBay为AI购物代理设门槛",
+          "headline": "J. Crew上线AI穿搭\nStyle Advisor",
+          "body": "J. Crew与Anthropic合作的Style Advisor推荐整套搭配，而非单品。",
+          "mini_headline": "J. Crew的AI造型师",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/11/ebay-user-agreement-bans-buy-for-me-ai-agents-without-permission-orange-velvet-rope-teal-errand-box-at-door.jpg"
+                "src": "https://imgproxy.divecdn.com/f5YC8XCfhWSHGirICm9w9L7klu_UcwXzWbVHVxach0Q/g:nowe:0:70/c:640:362/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8xNDU3OTUzMjMxOF84ZjkxMjlmMzljX3ouanBn.webp",
+                "cap": "J. Crew的Style Advisor利用AI为顾客提供可直接选购的完整造型。"
               },
               {
                 "t": "p",
-                "x": "eBay的用户协议（User Agreement）规定，除非公司给予“事先明确许可”，否则买家和卖家不得在平台上使用“buy-for-me代理、LLM-driven机器人，或任何试图在无人审核的情况下下单的end-to-end流程”。该条款自2026年2月20日起生效，并一字不改地沿用到2026年6月28日生效的版本中。"
+                "x": "J. Crew推出了名为Style Advisor的AI-powered衣橱顾问，由其与Anthropic合作打造，并“由多种Claude模型”驱动。公司表示，它“以灵感和发现为导向，而不是搜索单个商品”。"
               },
               {
                 "t": "p",
-                "x": "The Verge于11月10日报道，Meta的Muse代理被阻止抓取eBay商品信息；到11月12日，其访问“似乎时好时坏”。eBay发言人Sybille St. Arromand表示，这些限制并非全面禁令，eBay“根据我们的政策允许AI搜索、发现和部分代理辅助导航，同时阻止未经授权的自动抓取”。"
+                "x": "这款对话式聊天机器人拥有“庞大的自有图片库”，顾客可以用自然语言提问，获得“J. Crew造型师一直以来提供的那种建议”。目前它已在J. Crew U.S.网站上线，覆盖男装和女装风格。"
               },
               {
                 "t": "p",
-                "x": "Amazon完全屏蔽外部代理，Target在部分情况下允许代理浏览，Walmart和Shopify则已公布接入途径。eBay未说明哪些代理获得了许可，也未说明开发者该如何申请。"
+                "x": "Style Advisor从“J.Crew自家拍摄中的数千套服装搭配”出发，帮助顾客组合从头到脚的造型。顾客可以从求职面试、生日派对等场合入手，也可以围绕某件单品搭配，这一工具还会“变得更加个性化，根据每位顾客的偏好和过往购买调整建议”。"
+              },
+              {
+                "t": "p",
+                "x": "“通过与Anthropic的合作，我们正把J. Crew数十年的造型、商品企划和创意经验汇聚起来，帮助塑造顾客行为的下一步，”J. Crew Group首席执行官（CEO）Libby Wadle说。"
+              },
+              {
+                "t": "p",
+                "x": "竞争对手Ralph Lauren在一年多前推出了自己的AI造型助手，Stitch Fix则在7月推出了类似产品。J. Crew目前在U.S.经营114家零售门店。"
               }
             ]
           }
         },
         "es": {
-          "headline": "eBay veta a los agentes de AI\nque compran sin su permiso",
-          "body": "El acuerdo de usuario de eBay exige permiso expreso previo para los agentes de AI buy-for-me y los bots LLM-driven.",
-          "mini_headline": "eBay pone filtro a los compradores de AI",
+          "headline": "J. Crew lanza Style Advisor,\nun asesor de atuendos con AI",
+          "body": "El Style Advisor de escritorio de J. Crew, creado con Anthropic, sugiere atuendos completos y no prendas sueltas.",
+          "mini_headline": "El estilista AI de J. Crew",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/11/ebay-user-agreement-bans-buy-for-me-ai-agents-without-permission-orange-velvet-rope-teal-errand-box-at-door.jpg"
+                "src": "https://imgproxy.divecdn.com/f5YC8XCfhWSHGirICm9w9L7klu_UcwXzWbVHVxach0Q/g:nowe:0:70/c:640:362/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8xNDU3OTUzMjMxOF84ZjkxMjlmMzljX3ouanBn.webp",
+                "cap": "El Style Advisor de J. Crew usa AI para ofrecer looks completos que los clientes pueden comprar."
               },
               {
                 "t": "p",
-                "x": "El User Agreement (acuerdo de usuario) de eBay prohíbe a compradores y vendedores usar en el marketplace \"agentes buy-for-me, bots LLM-driven o cualquier flujo end-to-end que intente realizar pedidos sin revisión humana\", salvo que la compañía otorgue un \"permiso expreso previo\". La cláusula está en vigor desde el 20 de febrero de 2026 y se mantuvo palabra por palabra en la versión vigente desde el 28 de junio de 2026."
+                "x": "J. Crew lanzó un asesor de vestuario AI-powered llamado Style Advisor, creado en colaboración con Anthropic e impulsado “por una variedad de modelos Claude”. La empresa dijo que está “guiado por la inspiración y el descubrimiento, más que por la búsqueda de productos individuales”."
               },
               {
                 "t": "p",
-                "x": "The Verge informó el 10 de noviembre de que el agente Muse de Meta había sido bloqueado para extraer anuncios de eBay; para el 12 de noviembre, su acceso \"parece funcionar a veces sí y a veces no\". La portavoz de eBay Sybille St. Arromand afirmó que las restricciones no son una prohibición general y que eBay permite \"la búsqueda con AI, el descubrimiento y cierta navegación asistida por agentes de acuerdo con nuestras políticas, mientras bloquea el scraping automatizado no autorizado\"."
+                "x": "El chatbot conversacional cuenta con “una amplia biblioteca de imágenes propias” y permite a los clientes hacer consultas en lenguaje natural para recibir “el tipo de consejo que los estilistas de J. Crew siempre han ofrecido”. Ya está disponible en el sitio web de J. Crew U.S. para estilos de hombre y de mujer."
               },
               {
                 "t": "p",
-                "x": "Amazon bloquea por completo a los agentes externos, Target permite que los agentes naveguen en algunos casos, y Walmart y Shopify han publicado vías de acceso. eBay no ha dicho qué agentes tienen permiso ni cómo podría solicitarlo un desarrollador."
+                "x": "Style Advisor ayuda a los clientes a armar looks de pies a cabeza a partir de “miles de combinaciones de atuendos de las propias sesiones de fotos de J.Crew”. Los clientes pueden partir de un evento, como una entrevista de trabajo o una fiesta de cumpleaños, o construir en torno a una prenda concreta, y la herramienta “se volverá más personal, adaptando las sugerencias a las preferencias y compras anteriores de cada cliente”."
+              },
+              {
+                "t": "p",
+                "x": "“A través de nuestro trabajo con Anthropic, reunimos décadas de experiencia de J. Crew en estilismo, merchandising y creatividad para ayudar a definir lo que viene en el comportamiento del cliente”, dijo Libby Wadle, CEO de J. Crew Group."
+              },
+              {
+                "t": "p",
+                "x": "Su rival Ralph Lauren lanzó su propio asistente de estilismo con AI hace poco más de un año, y Stitch Fix presentó uno en julio. J. Crew opera actualmente 114 tiendas en U.S."
               }
             ]
           }
@@ -1285,105 +857,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "eBay, 허가 없는\nAI 쇼핑 에이전트 차단",
-          "body": "eBay는 buy-for-me AI·LLM-driven 봇에 사전 허가를 요구한다.",
-          "mini_headline": "eBay, AI 쇼핑객에 문턱",
+          "headline": "J. Crew의 AI 코디\nStyle Advisor",
+          "body": "J. Crew Style Advisor는 Anthropic과 만든 코디 도구다.",
+          "mini_headline": "J. Crew의 AI 스타일리스트",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/11/ebay-user-agreement-bans-buy-for-me-ai-agents-without-permission-orange-velvet-rope-teal-errand-box-at-door.jpg"
+                "src": "https://imgproxy.divecdn.com/f5YC8XCfhWSHGirICm9w9L7klu_UcwXzWbVHVxach0Q/g:nowe:0:70/c:640:362/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8xNDU3OTUzMjMxOF84ZjkxMjlmMzljX3ouanBn.webp",
+                "cap": "J. Crew의 Style Advisor는 AI로 고객이 바로 살 수 있는 완성된 룩을 제시한다."
               },
               {
                 "t": "p",
-                "x": "eBay 이용약관(User Agreement)은 회사가 \"사전 명시적 허가\"를 주지 않는 한, 구매자와 판매자가 마켓플레이스에서 \"buy-for-me 에이전트, LLM-driven 봇, 또는 사람의 검토 없이 주문을 시도하는 모든 end-to-end 흐름\"을 쓰지 못하게 한다. 이 조항은 2026년 2월 20일부터 시행됐고, 2026년 6월 28일 발효된 버전에도 문구 그대로 이어졌다."
+                "x": "J. Crew가 AI-powered 옷장 컨설턴트 Style Advisor를 출시했다. Anthropic과 협력해 만들었고 “다양한 Claude 모델”로 구동된다. 회사는 이 도구가 “개별 제품 검색이 아니라 영감과 발견을 중심으로 한다”고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "The Verge는 11월 10일 Meta의 Muse 에이전트가 eBay 상품 목록을 가져오지 못하게 차단됐다고 보도했고, 11월 12일에는 접근이 \"될 때도 있고 안 될 때도 있는 것 같다\"고 전했다. eBay 대변인 Sybille St. Arromand는 이번 제한이 전면 금지가 아니며, eBay가 \"정책에 따라 AI 검색, 탐색, 일부 에이전트 지원 내비게이션은 허용하되 승인되지 않은 자동 스크래핑은 차단한다\"고 말했다."
+                "x": "이 대화형 챗봇은 “방대한 자체 이미지 라이브러리”를 갖췄고, 고객은 자연어로 질문해 “J. Crew 스타일리스트가 늘 해 온 그런 조언”을 받을 수 있다. 현재 J. Crew U.S. 웹사이트에서 남성·여성 스타일로 이용할 수 있다."
               },
               {
                 "t": "p",
-                "x": "Amazon은 외부 에이전트를 전면 차단하고, Target은 일부 경우 에이전트의 탐색을 허용하며, Walmart와 Shopify는 진입 경로를 공개했다. eBay는 어떤 에이전트가 허가를 받았는지, 개발자가 어떻게 허가를 요청할 수 있는지 밝히지 않았다."
+                "x": "Style Advisor는 “J.Crew 자체 화보 촬영에서 나온 수천 가지 코디 조합”을 바탕으로 머리부터 발끝까지 룩을 구성하도록 돕는다. 고객은 면접이나 생일 파티 같은 행사에서 출발하거나 특정 아이템을 중심으로 코디를 짤 수 있으며, 이 도구는 “각 고객의 취향과 구매 이력에 맞춰 제안을 조정하며 점점 더 개인화된다.”"
+              },
+              {
+                "t": "p",
+                "x": "“Anthropic과의 협업으로 수십 년간 쌓은 J. Crew의 스타일링, 머천다이징, 크리에이티브 전문성을 모아 고객 행동의 다음 모습을 만드는 데 힘을 보태고 있다”고 J. Crew Group의 CEO Libby Wadle은 말했다."
+              },
+              {
+                "t": "p",
+                "x": "경쟁사 Ralph Lauren은 한 해 남짓 전 자체 AI 스타일링 어시스턴트를 내놓았고, Stitch Fix는 7월에 선보였다. J. Crew는 현재 U.S.에서 114개 매장을 운영한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "eBay、無許可の\nAI買い物エージェント禁止",
-          "body": "eBayはbuy-for-me型AIやLLM-drivenボットに事前許可を求める。",
-          "mini_headline": "eBay、AI買い物客に関門",
+          "headline": "J. Crew、AIコーデの\nStyle Advisor",
+          "body": "J. CrewのStyle AdvisorはAnthropicと組み、服を一式で提案する。",
+          "mini_headline": "J. CrewのAIスタイリスト",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/11/ebay-user-agreement-bans-buy-for-me-ai-agents-without-permission-orange-velvet-rope-teal-errand-box-at-door.jpg"
+                "src": "https://imgproxy.divecdn.com/f5YC8XCfhWSHGirICm9w9L7klu_UcwXzWbVHVxach0Q/g:nowe:0:70/c:640:362/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8xNDU3OTUzMjMxOF84ZjkxMjlmMzljX3ouanBn.webp",
+                "cap": "J. CrewのStyle Advisorは、AIを使って顧客がそのまま購入できる完成したルックを提示する。"
               },
               {
                 "t": "p",
-                "x": "eBayの利用規約（User Agreement）は、同社が「事前の明示的な許可」を与えない限り、買い手と売り手がマーケットプレイス上で「buy-for-meエージェント、LLM-drivenボット、または人による確認なしに注文を試みるあらゆるend-to-endのフロー」を使うことを禁じている。この条項は2026年2月20日から施行されており、2026年6月28日発効の版にも一字一句そのまま引き継がれた。"
+                "x": "J. CrewはAI-poweredのワードローブ・コンサルタント「Style Advisor」を投入した。Anthropicと提携して開発し、「さまざまなClaudeモデル」で動く。同社は、このツールが「個々の商品を検索するのではなく、インスピレーションと発見を軸にしている」と説明した。"
               },
               {
                 "t": "p",
-                "x": "The Vergeは11月10日、MetaのMuseエージェントがeBayの出品情報を取得できないようブロックされたと報じ、11月12日にはそのアクセスが「つながったりつながらなかったりするようだ」と伝えた。eBayの広報担当Sybille St. Arromandは、今回の制限は全面禁止ではなく、eBayは「ポリシーに沿ってAI検索、ディスカバリー、一部のエージェント支援ナビゲーションを認める一方、無許可の自動スクレイピングはブロックしている」と述べた。"
+                "x": "この対話型チャットボットは「独自画像の豊富なライブラリ」を備え、顧客は自然言語で質問して「J. Crewのスタイリストが常に提供してきたようなアドバイス」を得られる。現在、J. Crew U.S.のウェブサイトでメンズとウィメンズのスタイルに対応している。"
               },
               {
                 "t": "p",
-                "x": "Amazonは外部エージェントを全面的にブロックし、Targetは一部のケースでエージェントの閲覧を認め、WalmartとShopifyは参入経路を公開している。eBayは、どのエージェントが許可を得ているのか、開発者がどう許可を申請すればよいのかを明らかにしていない。"
+                "x": "Style Advisorは「J.Crew自身の撮影から生まれた数千通りのコーディネート」をもとに、頭からつま先までのルックを組み立てる手助けをする。顧客は就職面接や誕生日パーティーといったイベントから始めることも、特定のアイテムを軸に組み立てることもでき、ツールは「各顧客の好みと購入履歴に合わせて提案を調整し、よりパーソナルになっていく」。"
+              },
+              {
+                "t": "p",
+                "x": "「Anthropicとの取り組みを通じて、J. Crewが数十年かけて培ったスタイリング、マーチャンダイジング、クリエイティブの専門性を結集し、顧客行動の次のかたちづくりに貢献していく」と、J. Crew GroupのCEO、Libby Wadle氏は述べた。"
+              },
+              {
+                "t": "p",
+                "x": "競合のRalph Laurenは一年余り前に独自のAIスタイリングアシスタントを投入し、Stitch Fixも7月に同様のものを公開した。J. Crewは現在、U.S.で114の店舗を運営している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "eBay：AI购物代理\n须先获其许可",
-          "body": "eBay规定buy-for-me AI代理与LLM-driven机器人须事先获明确许可。",
-          "mini_headline": "eBay为AI购物代理设门槛",
+          "headline": "J. Crew上线AI穿搭\nStyle Advisor",
+          "body": "J. Crew与Anthropic合作的Style Advisor推荐整套搭配，而非单品。",
+          "mini_headline": "J. Crew的AI造型师",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/11/ebay-user-agreement-bans-buy-for-me-ai-agents-without-permission-orange-velvet-rope-teal-errand-box-at-door.jpg"
+                "src": "https://imgproxy.divecdn.com/f5YC8XCfhWSHGirICm9w9L7klu_UcwXzWbVHVxach0Q/g:nowe:0:70/c:640:362/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8xNDU3OTUzMjMxOF84ZjkxMjlmMzljX3ouanBn.webp",
+                "cap": "J. Crew的Style Advisor利用AI为顾客提供可直接选购的完整造型。"
               },
               {
                 "t": "p",
-                "x": "eBay的用户协议（User Agreement）规定，除非公司给予“事先明确许可”，否则买家和卖家不得在平台上使用“buy-for-me代理、LLM-driven机器人，或任何试图在无人审核的情况下下单的end-to-end流程”。该条款自2026年2月20日起生效，并一字不改地沿用到2026年6月28日生效的版本中。"
+                "x": "J. Crew推出了名为Style Advisor的AI-powered衣橱顾问，由其与Anthropic合作打造，并“由多种Claude模型”驱动。公司表示，它“以灵感和发现为导向，而不是搜索单个商品”。"
               },
               {
                 "t": "p",
-                "x": "The Verge于11月10日报道，Meta的Muse代理被阻止抓取eBay商品信息；到11月12日，其访问“似乎时好时坏”。eBay发言人Sybille St. Arromand表示，这些限制并非全面禁令，eBay“根据我们的政策允许AI搜索、发现和部分代理辅助导航，同时阻止未经授权的自动抓取”。"
+                "x": "这款对话式聊天机器人拥有“庞大的自有图片库”，顾客可以用自然语言提问，获得“J. Crew造型师一直以来提供的那种建议”。目前它已在J. Crew U.S.网站上线，覆盖男装和女装风格。"
               },
               {
                 "t": "p",
-                "x": "Amazon完全屏蔽外部代理，Target在部分情况下允许代理浏览，Walmart和Shopify则已公布接入途径。eBay未说明哪些代理获得了许可，也未说明开发者该如何申请。"
+                "x": "Style Advisor从“J.Crew自家拍摄中的数千套服装搭配”出发，帮助顾客组合从头到脚的造型。顾客可以从求职面试、生日派对等场合入手，也可以围绕某件单品搭配，这一工具还会“变得更加个性化，根据每位顾客的偏好和过往购买调整建议”。"
+              },
+              {
+                "t": "p",
+                "x": "“通过与Anthropic的合作，我们正把J. Crew数十年的造型、商品企划和创意经验汇聚起来，帮助塑造顾客行为的下一步，”J. Crew Group首席执行官（CEO）Libby Wadle说。"
+              },
+              {
+                "t": "p",
+                "x": "竞争对手Ralph Lauren在一年多前推出了自己的AI造型助手，Stitch Fix则在7月推出了类似产品。J. Crew目前在U.S.经营114家零售门店。"
               }
             ]
           }
         },
         "es": {
-          "headline": "eBay veta a los agentes de AI\nque compran sin su permiso",
-          "body": "El acuerdo de usuario de eBay exige permiso expreso previo para los agentes de AI buy-for-me y los bots LLM-driven.",
-          "mini_headline": "eBay pone filtro a los compradores de AI",
+          "headline": "J. Crew lanza Style Advisor,\nun asesor de atuendos con AI",
+          "body": "El Style Advisor de escritorio de J. Crew, creado con Anthropic, sugiere atuendos completos y no prendas sueltas.",
+          "mini_headline": "El estilista AI de J. Crew",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/11/ebay-user-agreement-bans-buy-for-me-ai-agents-without-permission-orange-velvet-rope-teal-errand-box-at-door.jpg"
+                "src": "https://imgproxy.divecdn.com/f5YC8XCfhWSHGirICm9w9L7klu_UcwXzWbVHVxach0Q/g:nowe:0:70/c:640:362/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8xNDU3OTUzMjMxOF84ZjkxMjlmMzljX3ouanBn.webp",
+                "cap": "El Style Advisor de J. Crew usa AI para ofrecer looks completos que los clientes pueden comprar."
               },
               {
                 "t": "p",
-                "x": "El User Agreement (acuerdo de usuario) de eBay prohíbe a compradores y vendedores usar en el marketplace \"agentes buy-for-me, bots LLM-driven o cualquier flujo end-to-end que intente realizar pedidos sin revisión humana\", salvo que la compañía otorgue un \"permiso expreso previo\". La cláusula está en vigor desde el 20 de febrero de 2026 y se mantuvo palabra por palabra en la versión vigente desde el 28 de junio de 2026."
+                "x": "J. Crew lanzó un asesor de vestuario AI-powered llamado Style Advisor, creado en colaboración con Anthropic e impulsado “por una variedad de modelos Claude”. La empresa dijo que está “guiado por la inspiración y el descubrimiento, más que por la búsqueda de productos individuales”."
               },
               {
                 "t": "p",
-                "x": "The Verge informó el 10 de noviembre de que el agente Muse de Meta había sido bloqueado para extraer anuncios de eBay; para el 12 de noviembre, su acceso \"parece funcionar a veces sí y a veces no\". La portavoz de eBay Sybille St. Arromand afirmó que las restricciones no son una prohibición general y que eBay permite \"la búsqueda con AI, el descubrimiento y cierta navegación asistida por agentes de acuerdo con nuestras políticas, mientras bloquea el scraping automatizado no autorizado\"."
+                "x": "El chatbot conversacional cuenta con “una amplia biblioteca de imágenes propias” y permite a los clientes hacer consultas en lenguaje natural para recibir “el tipo de consejo que los estilistas de J. Crew siempre han ofrecido”. Ya está disponible en el sitio web de J. Crew U.S. para estilos de hombre y de mujer."
               },
               {
                 "t": "p",
-                "x": "Amazon bloquea por completo a los agentes externos, Target permite que los agentes naveguen en algunos casos, y Walmart y Shopify han publicado vías de acceso. eBay no ha dicho qué agentes tienen permiso ni cómo podría solicitarlo un desarrollador."
+                "x": "Style Advisor ayuda a los clientes a armar looks de pies a cabeza a partir de “miles de combinaciones de atuendos de las propias sesiones de fotos de J.Crew”. Los clientes pueden partir de un evento, como una entrevista de trabajo o una fiesta de cumpleaños, o construir en torno a una prenda concreta, y la herramienta “se volverá más personal, adaptando las sugerencias a las preferencias y compras anteriores de cada cliente”."
+              },
+              {
+                "t": "p",
+                "x": "“A través de nuestro trabajo con Anthropic, reunimos décadas de experiencia de J. Crew en estilismo, merchandising y creatividad para ayudar a definir lo que viene en el comportamiento del cliente”, dijo Libby Wadle, CEO de J. Crew Group."
+              },
+              {
+                "t": "p",
+                "x": "Su rival Ralph Lauren lanzó su propio asistente de estilismo con AI hace poco más de un año, y Stitch Fix presentó uno en julio. J. Crew opera actualmente 114 tiendas en U.S."
               }
             ]
           }
@@ -1391,15 +999,15 @@
       }
     },
     {
-      "id": "digiday-adtech-ai-brain",
+      "id": "bustle-profound-ai-visibility",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "애드테크 새 승부처는\n구매 뒤 AI 두뇌",
-      "body": "AI가 광고 전달과 구매를 함께 바꾸자 애드테크 경쟁은 의사결정층으로 갔다.",
-      "mini_headline": "애드테크의 AI 두뇌 경쟁",
+      "headline": "Bustle, 브랜드에\nAI 챗봇 노출을 판다",
+      "body": "Bustle은 Profound로 Pampers·Innisfree를 AI에 띄운다.",
+      "mini_headline": "Bustle의 AI 노출 판매",
       "tool": "Marketing",
       "source": "Digiday",
-      "url": "https://digiday.com/media-buying/ai-is-turning-ad-tech-into-a-fight-for-the-brain-behind-the-buy/",
+      "url": "https://digiday.com/media/how-bustle-digital-group-is-helping-pampers-and-innisfree-show-up-in-ai-recommendations/",
       "accent": "#2ec5c5",
       "motif": "frame",
       "full": {
@@ -1407,149 +1015,203 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://digiday.com/wp-content/uploads/sites/3/2025/10/ai-workflows-digiday.jpg"
+            "src": "https://digiday.com/wp-content/uploads/sites/3/2026/04/ai-recommends-digiday.jpg"
           },
           {
             "t": "p",
-            "x": "11월 9일 New York에서 열린 LUMA Partners의 Digital Marketing Summit에서 Terry Kawaja CEO와 Conor McKenna 파트너는 AI가 애드테크를 두 전선에서 바꾸고 있다고 짚었다. 하나는 마케팅 기술이 광고를 고르고 전달하는 방식, 또 하나는 소비자가 제품을 발견하고 구매하는 방식이다."
+            "x": "Bustle Digital Group이 Profound의 AI 측정 도구로 Pampers, Innisfree 등 브랜드가 AI-generated 추천에 노출되게 돕는다. 내부적으로 ECHO라 부르는 이 GEO 상품은 Profound 분석과 BDG 콘텐츠로 학습한 AI 에이전트를 써서 크리에이티브 브리프를 만든다. 적어도 세 브랜드가 비용을 냈다."
           },
           {
             "t": "p",
-            "x": "워크플로 자동화가 쉬워지면 경쟁 우위의 무게도 캠페인 집행 관리에서 더 나은 실시간 의사결정으로 넘어간다. McKenna는 \"새로 나오는 AI 기술과 함께 워크플로라는 해자는 사라지기 시작한다\"고 말했다. Kawaja는 \"고유한 신호와 결합한 의사결정이 기업을 차별화하고, 승자와 패자를 가르며, 결국 통합을 촉진할 것\"이라고 덧붙였다."
+            "x": "Profound 데이터로 만든 BDG 사례 연구를 보면 한 캠페인에서 추적하던 스킨케어 프롬프트 200개에서 Innisfree 노출도가 30% 늘었고 Bustle의 인용 순위는 #709에서 #12로 올랐다."
+          },
+          {
+            "t": "img",
+            "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Innisfree_ChatGPTScreenshot-1.jpeg",
+            "cap": "출처: BDG"
           },
           {
             "t": "p",
-            "x": "소비자 쪽에선 AI 어시스턴트가 조사·발견·비교를 한 인터페이스에 모아 구매 여정을 줄일 수 있다. 연사들은 사람이 당분간 결정이 아니라 작업을 맡기는 식으로 계속 관여하리라 본다. SWYM.ai의 Ravi Patel은 통합 미디어 플랫폼이 \"'무엇'과 '얼마나'는 관리할 수 있다. '어떤 노출'은 관리하지 못한다\"고 말했다."
+            "x": "Pampers는 Scary Mommy의 설명 기사가 나온 뒤 무향 기저귀 질문의 AI 노출 순위가 #2에서 #1로 올랐다."
+          },
+          {
+            "t": "p",
+            "x": "BDG와 Profound는 주제 여덟~10개와 주제마다 프롬프트 25~50개를 분석하는 데서 출발한다. 에이전트가 브리프를 설계하면 BDG 에디터가 그에 맞춰 글을 쓰고, 완성된 콘텐츠는 Reddit에서 교차 홍보한다. BDG의 배포·AI 인텔리전스 담당 svp Graham Howes는 “광고주는 실제 크리에이티브 개발에 전혀 관여하지 않는다”고 말했다. 성과는 주로 ChatGPT, Gemini, Google의 AI Overviews에서 추적한다. Profound는 이 거래에서 몫을 받지 않는다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Ad tech's new fight is over\nthe AI brain behind the buy",
-          "body": "AI now shapes both how ads are delivered and how people buy, making ad tech a race to own the decision layer.",
-          "mini_headline": "Ad tech's AI brain fight",
+          "headline": "Bustle sells brands a way\ninto AI chatbot answers",
+          "body": "Using Profound's tools, Bustle sells brands like Pampers and Innisfree a service that lifts their AI chatbot visibility.",
+          "mini_headline": "Bustle sells AI visibility",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2025/10/ai-workflows-digiday.jpg"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/04/ai-recommends-digiday.jpg"
               },
               {
                 "t": "p",
-                "x": "At LUMA Partners' Digital Marketing Summit in New York on November 9, CEO Terry Kawaja and partner Conor McKenna said AI is changing ad tech on two fronts: how marketing technology selects and delivers ads, and how consumers discover and buy products."
+                "x": "Bustle Digital Group is using Profound's AI measurement tools to help brands, including Pampers and Innisfree, show up in AI-generated recommendations. The GEO offering, called ECHO internally, uses Profound analytics and AI agents trained on BDG content to generate creative briefs. At least three brands have paid for it."
               },
               {
                 "t": "p",
-                "x": "As workflows get easier to automate, competitive advantage shifts from managing campaign delivery to making better real-time decisions. \"The workflow moat begins to evaporate with the AI technology that is coming out,\" McKenna said. \"Decisioning coupled with unique signal is what will differentiate the companies, separate the winners from the losers, and finally promote consolidation,\" added Kawaja."
+                "x": "In one campaign, Innisfree's visibility across 200 tracked skincare prompts grew 30%, while Bustle's citation rank rose from #709 to #12, according to a BDG case study based on Profound data."
+              },
+              {
+                "t": "img",
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Innisfree_ChatGPTScreenshot-1.jpeg",
+                "cap": "Source: BDG"
               },
               {
                 "t": "p",
-                "x": "On the consumer side, AI assistants could bring research, discovery and comparison into a single interface, compressing the purchase journey; speakers expect people to remain involved for now, delegating tasks rather than decisions. SWYM.ai's Ravi Patel said unified media platforms \"can manage the 'what' and the 'how much.' It can't manage the 'which impression.'\""
+                "x": "Pampers moved from #2 to #1 in AI visibility for fragrance-free diaper questions following a Scary Mommy explainer."
+              },
+              {
+                "t": "p",
+                "x": "BDG and Profound first analyze eight to 10 topics and 25 to 50 prompts each; agents then design briefs that BDG's editors write to, and content is cross-promoted on Reddit. \"The advertiser has no hand in the actual creative development at all,\" said Graham Howes, svp of distribution and AI intelligence at BDG. Results are tracked mainly across ChatGPT, Gemini and Google's AI Overviews. Profound does not receive a cut of these deals."
               }
             ]
           }
         },
         "ko": {
-          "headline": "애드테크 새 승부처는\n구매 뒤 AI 두뇌",
-          "body": "AI가 광고 전달과 구매를 함께 바꾸자 애드테크 경쟁은 의사결정층으로 갔다.",
-          "mini_headline": "애드테크의 AI 두뇌 경쟁",
+          "headline": "Bustle, 브랜드에\nAI 챗봇 노출을 판다",
+          "body": "Bustle은 Profound로 Pampers·Innisfree를 AI에 띄운다.",
+          "mini_headline": "Bustle의 AI 노출 판매",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2025/10/ai-workflows-digiday.jpg"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/04/ai-recommends-digiday.jpg"
               },
               {
                 "t": "p",
-                "x": "11월 9일 New York에서 열린 LUMA Partners의 Digital Marketing Summit에서 Terry Kawaja CEO와 Conor McKenna 파트너는 AI가 애드테크를 두 전선에서 바꾸고 있다고 짚었다. 하나는 마케팅 기술이 광고를 고르고 전달하는 방식, 또 하나는 소비자가 제품을 발견하고 구매하는 방식이다."
+                "x": "Bustle Digital Group이 Profound의 AI 측정 도구로 Pampers, Innisfree 등 브랜드가 AI-generated 추천에 노출되게 돕는다. 내부적으로 ECHO라 부르는 이 GEO 상품은 Profound 분석과 BDG 콘텐츠로 학습한 AI 에이전트를 써서 크리에이티브 브리프를 만든다. 적어도 세 브랜드가 비용을 냈다."
               },
               {
                 "t": "p",
-                "x": "워크플로 자동화가 쉬워지면 경쟁 우위의 무게도 캠페인 집행 관리에서 더 나은 실시간 의사결정으로 넘어간다. McKenna는 \"새로 나오는 AI 기술과 함께 워크플로라는 해자는 사라지기 시작한다\"고 말했다. Kawaja는 \"고유한 신호와 결합한 의사결정이 기업을 차별화하고, 승자와 패자를 가르며, 결국 통합을 촉진할 것\"이라고 덧붙였다."
+                "x": "Profound 데이터로 만든 BDG 사례 연구를 보면 한 캠페인에서 추적하던 스킨케어 프롬프트 200개에서 Innisfree 노출도가 30% 늘었고 Bustle의 인용 순위는 #709에서 #12로 올랐다."
+              },
+              {
+                "t": "img",
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Innisfree_ChatGPTScreenshot-1.jpeg",
+                "cap": "출처: BDG"
               },
               {
                 "t": "p",
-                "x": "소비자 쪽에선 AI 어시스턴트가 조사·발견·비교를 한 인터페이스에 모아 구매 여정을 줄일 수 있다. 연사들은 사람이 당분간 결정이 아니라 작업을 맡기는 식으로 계속 관여하리라 본다. SWYM.ai의 Ravi Patel은 통합 미디어 플랫폼이 \"'무엇'과 '얼마나'는 관리할 수 있다. '어떤 노출'은 관리하지 못한다\"고 말했다."
+                "x": "Pampers는 Scary Mommy의 설명 기사가 나온 뒤 무향 기저귀 질문의 AI 노출 순위가 #2에서 #1로 올랐다."
+              },
+              {
+                "t": "p",
+                "x": "BDG와 Profound는 주제 여덟~10개와 주제마다 프롬프트 25~50개를 분석하는 데서 출발한다. 에이전트가 브리프를 설계하면 BDG 에디터가 그에 맞춰 글을 쓰고, 완성된 콘텐츠는 Reddit에서 교차 홍보한다. BDG의 배포·AI 인텔리전스 담당 svp Graham Howes는 “광고주는 실제 크리에이티브 개발에 전혀 관여하지 않는다”고 말했다. 성과는 주로 ChatGPT, Gemini, Google의 AI Overviews에서 추적한다. Profound는 이 거래에서 몫을 받지 않는다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "アドテクの新たな争点は\n購買を動かすAI頭脳",
-          "body": "AIが広告配信と購買の両方を変え、アドテクは意思決定層を握る競争になった。",
-          "mini_headline": "アドテクのAI頭脳争い",
+          "headline": "Bustle、AIの回答に\n載る道をブランドへ販売",
+          "body": "BustleはProfoundで、PampersやInnisfreeのAI露出を高める。",
+          "mini_headline": "BustleがAI露出を販売",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2025/10/ai-workflows-digiday.jpg"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/04/ai-recommends-digiday.jpg"
               },
               {
                 "t": "p",
-                "x": "11月9日にNew Yorkで開かれたLUMA PartnersのDigital Marketing Summitで、CEOのTerry KawajaとパートナーのConor McKennaは、AIが二つの面でアドテクを変えていると語った。マーケティング技術が広告を選び配信する方法と、消費者が商品を見つけて購入する方法だ。"
+                "x": "Bustle Digital Groupは、ProfoundのAI計測ツールを使い、PampersやInnisfreeなどのブランドがAI-generatedのレコメンドに表示されるよう支援している。社内でECHOと呼ばれるこのGEOサービスは、Profoundの分析と、BDGのコンテンツで学習したAIエージェントを使ってクリエイティブブリーフを作成する。少なくとも三つのブランドが対価を支払った。"
               },
               {
                 "t": "p",
-                "x": "ワークフローの自動化が容易になるにつれ、競争優位はキャンペーン配信の管理から、より優れたリアルタイムの意思決定へと移る。McKennaは「登場しつつあるAI技術によって、ワークフローという堀は消え始める」と述べた。Kawajaは「独自のシグナルと結びついた意思決定こそが企業を差別化し、勝者と敗者を分け、最終的には統合を促す」と付け加えた。"
+                "x": "Profoundのデータに基づくBDGのケーススタディによると、あるキャンペーンでは、追跡対象の200のスキンケア関連プロンプトにおけるInnisfreeの可視性が30%向上し、Bustleの引用順位は#709から#12に上がった。"
+              },
+              {
+                "t": "img",
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Innisfree_ChatGPTScreenshot-1.jpeg",
+                "cap": "出典：BDG"
               },
               {
                 "t": "p",
-                "x": "消費者側では、AIアシスタントが調査、発見、比較を一つのインターフェースにまとめ、購買プロセスを短縮する可能性がある。登壇者らは、人々は当面、判断ではなくタスクを任せる形で関与し続けるとみている。SWYM.aiのRavi Patelは、統合メディアプラットフォームは「『何を』と『どれだけ』は管理できる。『どのインプレッションか』は管理できない」と語った。"
+                "x": "Pampersは、Scary Mommyの解説記事の掲載後、無香料おむつに関する質問でのAI可視性が#2から#1に上がった。"
+              },
+              {
+                "t": "p",
+                "x": "BDGとProfoundはまず八〜10のトピックと、それぞれ25〜50のプロンプトを分析する。次にエージェントがブリーフを設計し、BDGの編集者がそれに沿って執筆、コンテンツはRedditでクロスプロモーションされる。BDGの配信・AIインテリジェンス担当svp、Graham Howes氏は「広告主は実際のクリエイティブ制作に一切関与しない」と語った。成果は主にChatGPT、Gemini、GoogleのAI Overviewsで追跡される。Profoundはこれらの取引から分け前を受け取らない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "广告技术新战场：\n购买背后的AI大脑",
-          "body": "AI正同时改变广告投放与消费者购买方式，广告技术成了争夺决策层的竞赛。",
-          "mini_headline": "广告技术的AI大脑之争",
+          "headline": "Bustle向品牌兜售\nAI聊天机器人曝光",
+          "body": "Bustle借助Profound，帮Pampers和Innisfree提升AI曝光。",
+          "mini_headline": "Bustle出售AI可见度",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2025/10/ai-workflows-digiday.jpg"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/04/ai-recommends-digiday.jpg"
               },
               {
                 "t": "p",
-                "x": "11月9日，在LUMA Partners于New York举办的Digital Marketing Summit上，CEO Terry Kawaja和合伙人Conor McKenna表示，AI正在从两个方面改变广告技术：营销技术如何选择和投放广告，以及消费者如何发现和购买产品。"
+                "x": "Bustle Digital Group正借助Profound的AI测量工具，帮助Pampers、Innisfree等品牌出现在AI-generated推荐中。这项内部代号为ECHO的GEO服务，利用Profound的分析和以BDG内容训练的AI智能体来生成创意简报。至少已有三个品牌为此付费。"
               },
               {
                 "t": "p",
-                "x": "随着工作流程越来越容易自动化，竞争优势正从管理广告活动投放转向做出更好的实时决策。McKenna说：“随着新AI技术的出现，工作流程这道护城河开始消失。”Kawaja补充道：“与独特信号相结合的决策，才是让企业脱颖而出、区分赢家和输家并最终推动整合的关键。”"
+                "x": "根据一份基于Profound数据的BDG案例研究，在一次活动中，Innisfree在200个被追踪的护肤类提示词中的可见度提升了30%，而Bustle的引用排名从#709升至#12。"
+              },
+              {
+                "t": "img",
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Innisfree_ChatGPTScreenshot-1.jpeg",
+                "cap": "来源：BDG"
               },
               {
                 "t": "p",
-                "x": "在消费者端，AI助手可能将调研、发现和比较整合到单一界面中，从而压缩购买路径；演讲者预计，人们目前仍会参与其中，交出的是任务而非决定。SWYM.ai的Ravi Patel表示，统一媒体平台“可以管理‘什么’和‘多少’，但无法管理‘哪次展示’”。"
+                "x": "在Scary Mommy发布一篇解读文章后，Pampers在无香型纸尿裤相关问题上的AI可见度从#2升至#1。"
+              },
+              {
+                "t": "p",
+                "x": "BDG和Profound先分析八到10个主题，每个主题25到50个提示词；随后由智能体设计简报，BDG编辑据此撰稿，内容再在Reddit上交叉推广。BDG分发与AI情报svp Graham Howes表示：“广告主完全不参与实际的创意开发。”效果主要在ChatGPT、Gemini和Google的AI Overviews上追踪。Profound不从这些交易中抽成。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La nueva pelea del ad tech es\npor la AI que decide la compra",
-          "body": "La AI influye en cómo se sirven los anuncios y en cómo compra la gente, y el ad tech pelea por la capa de decisión.",
-          "mini_headline": "La pelea por la AI del ad tech",
+          "headline": "Bustle vende a las marcas\npresencia en chatbots de AI",
+          "body": "Con herramientas de Profound, Bustle vende a Pampers e Innisfree un servicio para ganar visibilidad en chatbots de AI.",
+          "mini_headline": "Bustle vende visibilidad en AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2025/10/ai-workflows-digiday.jpg"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/04/ai-recommends-digiday.jpg"
               },
               {
                 "t": "p",
-                "x": "En el Digital Marketing Summit de LUMA Partners, celebrado en New York el 9 de noviembre, el CEO Terry Kawaja y el socio Conor McKenna afirmaron que la AI está cambiando el ad tech en dos frentes: cómo la tecnología de marketing selecciona y sirve los anuncios, y cómo los consumidores descubren y compran productos."
+                "x": "Bustle Digital Group usa las herramientas de medición de AI de Profound para ayudar a marcas como Pampers e Innisfree a aparecer en recomendaciones AI-generated. La oferta de GEO, llamada internamente ECHO, emplea la analítica de Profound y agentes de AI entrenados con contenido de BDG para generar briefs creativos. Al menos tres marcas han pagado por ella."
               },
               {
                 "t": "p",
-                "x": "A medida que los flujos de trabajo son más fáciles de automatizar, la ventaja competitiva pasa de gestionar la entrega de campañas a tomar mejores decisiones en tiempo real. \"El foso de los flujos de trabajo empieza a evaporarse con la tecnología de AI que está saliendo\", dijo McKenna. \"La toma de decisiones unida a una señal única es lo que diferenciará a las empresas, separará a los ganadores de los perdedores y, finalmente, impulsará la consolidación\", añadió Kawaja."
+                "x": "En una campaña, la visibilidad de Innisfree en 200 prompts de cuidado de la piel monitorizados creció un 30%, mientras que el ranking de citas de Bustle subió del #709 al #12, según un caso de estudio de BDG basado en datos de Profound."
+              },
+              {
+                "t": "img",
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Innisfree_ChatGPTScreenshot-1.jpeg",
+                "cap": "Fuente: BDG"
               },
               {
                 "t": "p",
-                "x": "Del lado del consumidor, los asistentes de AI podrían reunir la investigación, el descubrimiento y la comparación en una sola interfaz y comprimir el recorrido de compra; los ponentes esperan que, por ahora, las personas sigan implicadas y deleguen tareas en lugar de decisiones. Ravi Patel, de SWYM.ai, dijo que las plataformas de medios unificadas \"pueden gestionar el 'qué' y el 'cuánto'. No pueden gestionar el 'qué impresión'\"."
+                "x": "Pampers pasó del #2 al #1 en visibilidad en AI para preguntas sobre pañales sin fragancia tras un artículo explicativo de Scary Mommy."
+              },
+              {
+                "t": "p",
+                "x": "BDG y Profound analizan primero de ocho a 10 temas y de 25 a 50 prompts por tema; luego los agentes diseñan briefs con los que escriben los editores de BDG, y el contenido se promociona de forma cruzada en Reddit. “El anunciante no participa en absoluto en el desarrollo creativo real”, dijo Graham Howes, svp de distribución e inteligencia de AI en BDG. Los resultados se siguen sobre todo en ChatGPT, Gemini y AI Overviews de Google. Profound no recibe comisión de estos acuerdos."
               }
             ]
           }
@@ -1557,105 +1219,503 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "애드테크 새 승부처는\n구매 뒤 AI 두뇌",
-          "body": "AI가 광고 전달과 구매 방식을 모두 바꾸며 애드테크는 의사결정층 경쟁이 됐다.",
-          "mini_headline": "애드테크의 AI 두뇌 경쟁",
+          "headline": "Bustle, 브랜드에\nAI 챗봇 노출을 판다",
+          "body": "Bustle은 Profound로 Pampers·Innisfree를 AI에 띄운다.",
+          "mini_headline": "Bustle의 AI 노출 판매",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2025/10/ai-workflows-digiday.jpg"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/04/ai-recommends-digiday.jpg"
               },
               {
                 "t": "p",
-                "x": "11월 9일 New York에서 열린 LUMA Partners의 Digital Marketing Summit에서 Terry Kawaja CEO와 Conor McKenna 파트너는 AI가 두 가지 전선에서 애드테크를 바꾸고 있다고 말했다. 마케팅 기술이 광고를 고르고 전달하는 방식, 그리고 소비자가 제품을 발견하고 구매하는 방식이다."
+                "x": "Bustle Digital Group이 Profound의 AI 측정 도구를 활용해 Pampers, Innisfree 등 브랜드가 AI-generated 추천에 노출되도록 돕고 있다. 내부적으로 ECHO라 부르는 이 GEO 상품은 Profound 분석과 BDG 콘텐츠로 학습한 AI 에이전트를 써서 크리에이티브 브리프를 만든다. 적어도 세 브랜드가 비용을 냈다."
               },
               {
                 "t": "p",
-                "x": "워크플로 자동화가 쉬워지면서 경쟁 우위는 캠페인 집행 관리에서 더 나은 실시간 의사결정으로 옮겨 간다. McKenna는 \"새로 나오는 AI 기술과 함께 워크플로라는 해자는 사라지기 시작한다\"고 말했다. Kawaja는 \"고유한 신호와 결합한 의사결정이 기업을 차별화하고, 승자와 패자를 가르며, 결국 통합을 촉진할 것\"이라고 덧붙였다."
+                "x": "Profound 데이터를 바탕으로 한 BDG 사례 연구에 따르면, 한 캠페인에서 추적 중인 스킨케어 프롬프트 200개에 걸친 Innisfree의 노출도는 30% 늘었고 Bustle의 인용 순위는 #709에서 #12로 올랐다."
+              },
+              {
+                "t": "img",
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Innisfree_ChatGPTScreenshot-1.jpeg",
+                "cap": "출처: BDG"
               },
               {
                 "t": "p",
-                "x": "소비자 쪽에서는 AI 어시스턴트가 조사, 발견, 비교를 하나의 인터페이스로 모아 구매 여정을 압축할 수 있다. 연사들은 당분간 사람이 결정이 아닌 작업을 맡기는 방식으로 계속 관여할 것으로 본다. SWYM.ai의 Ravi Patel은 통합 미디어 플랫폼이 \"'무엇'과 '얼마나'는 관리할 수 있다. '어떤 노출'은 관리하지 못한다\"고 말했다."
+                "x": "Pampers는 Scary Mommy의 설명 기사가 나온 뒤 무향 기저귀 질문에 대한 AI 노출 순위가 #2에서 #1로 올랐다."
+              },
+              {
+                "t": "p",
+                "x": "BDG와 Profound는 먼저 주제 여덟~10개와 주제마다 프롬프트 25~50개를 분석한다. 이어 에이전트가 브리프를 설계하면 BDG 에디터가 이를 바탕으로 글을 쓰고, 콘텐츠는 Reddit에서 교차 홍보된다. BDG의 배포·AI 인텔리전스 담당 svp Graham Howes는 “광고주는 실제 크리에이티브 개발에 전혀 관여하지 않는다”고 말했다. 성과는 주로 ChatGPT, Gemini, Google의 AI Overviews에서 추적한다. Profound는 이 거래에서 몫을 받지 않는다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "アドテクの新たな争点は\n購買を動かすAI頭脳",
-          "body": "AIが広告配信と購買の両方を変え、アドテクは意思決定層を握る競争になった。",
-          "mini_headline": "アドテクのAI頭脳争い",
+          "headline": "Bustle、AIの回答に\n載る道をブランドへ販売",
+          "body": "BustleはProfoundで、PampersやInnisfreeのAI露出を高める。",
+          "mini_headline": "BustleがAI露出を販売",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2025/10/ai-workflows-digiday.jpg"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/04/ai-recommends-digiday.jpg"
               },
               {
                 "t": "p",
-                "x": "11月9日にNew Yorkで開かれたLUMA PartnersのDigital Marketing Summitで、CEOのTerry KawajaとパートナーのConor McKennaは、AIが二つの面でアドテクを変えていると語った。マーケティング技術が広告を選び配信する方法と、消費者が商品を見つけて購入する方法だ。"
+                "x": "Bustle Digital Groupは、ProfoundのAI計測ツールを使い、PampersやInnisfreeなどのブランドがAI-generatedのレコメンドに表示されるよう支援している。社内でECHOと呼ばれるこのGEOサービスは、Profoundの分析と、BDGのコンテンツで学習したAIエージェントを使ってクリエイティブブリーフを作成する。少なくとも三つのブランドが対価を支払った。"
               },
               {
                 "t": "p",
-                "x": "ワークフローの自動化が容易になるにつれ、競争優位はキャンペーン配信の管理から、より優れたリアルタイムの意思決定へと移る。McKennaは「登場しつつあるAI技術によって、ワークフローという堀は消え始める」と述べた。Kawajaは「独自のシグナルと結びついた意思決定こそが企業を差別化し、勝者と敗者を分け、最終的には統合を促す」と付け加えた。"
+                "x": "Profoundのデータに基づくBDGのケーススタディによると、あるキャンペーンでは、追跡対象の200のスキンケア関連プロンプトにおけるInnisfreeの可視性が30%向上し、Bustleの引用順位は#709から#12に上がった。"
+              },
+              {
+                "t": "img",
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Innisfree_ChatGPTScreenshot-1.jpeg",
+                "cap": "出典：BDG"
               },
               {
                 "t": "p",
-                "x": "消費者側では、AIアシスタントが調査、発見、比較を一つのインターフェースにまとめ、購買プロセスを短縮する可能性がある。登壇者らは、人々は当面、判断ではなくタスクを任せる形で関与し続けるとみている。SWYM.aiのRavi Patelは、統合メディアプラットフォームは「『何を』と『どれだけ』は管理できる。『どのインプレッションか』は管理できない」と語った。"
+                "x": "Pampersは、Scary Mommyの解説記事の掲載後、無香料おむつに関する質問でのAI可視性が#2から#1に上がった。"
+              },
+              {
+                "t": "p",
+                "x": "BDGとProfoundはまず八〜10のトピックと、それぞれ25〜50のプロンプトを分析する。次にエージェントがブリーフを設計し、BDGの編集者がそれに沿って執筆、コンテンツはRedditでクロスプロモーションされる。BDGの配信・AIインテリジェンス担当svp、Graham Howes氏は「広告主は実際のクリエイティブ制作に一切関与しない」と語った。成果は主にChatGPT、Gemini、GoogleのAI Overviewsで追跡される。Profoundはこれらの取引から分け前を受け取らない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "广告技术新战场：\n购买背后的AI大脑",
-          "body": "AI正同时改变广告投放与消费者购买方式，广告技术成了争夺决策层的竞赛。",
-          "mini_headline": "广告技术的AI大脑之争",
+          "headline": "Bustle向品牌兜售\nAI聊天机器人曝光",
+          "body": "Bustle借助Profound，帮Pampers和Innisfree提升AI曝光。",
+          "mini_headline": "Bustle出售AI可见度",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2025/10/ai-workflows-digiday.jpg"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/04/ai-recommends-digiday.jpg"
               },
               {
                 "t": "p",
-                "x": "11月9日，在LUMA Partners于New York举办的Digital Marketing Summit上，CEO Terry Kawaja和合伙人Conor McKenna表示，AI正在从两个方面改变广告技术：营销技术如何选择和投放广告，以及消费者如何发现和购买产品。"
+                "x": "Bustle Digital Group正借助Profound的AI测量工具，帮助Pampers、Innisfree等品牌出现在AI-generated推荐中。这项内部代号为ECHO的GEO服务，利用Profound的分析和以BDG内容训练的AI智能体来生成创意简报。至少已有三个品牌为此付费。"
               },
               {
                 "t": "p",
-                "x": "随着工作流程越来越容易自动化，竞争优势正从管理广告活动投放转向做出更好的实时决策。McKenna说：“随着新AI技术的出现，工作流程这道护城河开始消失。”Kawaja补充道：“与独特信号相结合的决策，才是让企业脱颖而出、区分赢家和输家并最终推动整合的关键。”"
+                "x": "根据一份基于Profound数据的BDG案例研究，在一次活动中，Innisfree在200个被追踪的护肤类提示词中的可见度提升了30%，而Bustle的引用排名从#709升至#12。"
+              },
+              {
+                "t": "img",
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Innisfree_ChatGPTScreenshot-1.jpeg",
+                "cap": "来源：BDG"
               },
               {
                 "t": "p",
-                "x": "在消费者端，AI助手可能将调研、发现和比较整合到单一界面中，从而压缩购买路径；演讲者预计，人们目前仍会参与其中，交出的是任务而非决定。SWYM.ai的Ravi Patel表示，统一媒体平台“可以管理‘什么’和‘多少’，但无法管理‘哪次展示’”。"
+                "x": "在Scary Mommy发布一篇解读文章后，Pampers在无香型纸尿裤相关问题上的AI可见度从#2升至#1。"
+              },
+              {
+                "t": "p",
+                "x": "BDG和Profound先分析八到10个主题，每个主题25到50个提示词；随后由智能体设计简报，BDG编辑据此撰稿，内容再在Reddit上交叉推广。BDG分发与AI情报svp Graham Howes表示：“广告主完全不参与实际的创意开发。”效果主要在ChatGPT、Gemini和Google的AI Overviews上追踪。Profound不从这些交易中抽成。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La nueva pelea del ad tech es\npor la AI que decide la compra",
-          "body": "La AI influye en cómo se sirven los anuncios y en cómo compra la gente, y el ad tech pelea por la capa de decisión.",
-          "mini_headline": "La pelea por la AI del ad tech",
+          "headline": "Bustle vende a las marcas\npresencia en chatbots de AI",
+          "body": "Con herramientas de Profound, Bustle vende a Pampers e Innisfree un servicio para ganar visibilidad en chatbots de AI.",
+          "mini_headline": "Bustle vende visibilidad en AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2025/10/ai-workflows-digiday.jpg"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/04/ai-recommends-digiday.jpg"
               },
               {
                 "t": "p",
-                "x": "En el Digital Marketing Summit de LUMA Partners, celebrado en New York el 9 de noviembre, el CEO Terry Kawaja y el socio Conor McKenna afirmaron que la AI está cambiando el ad tech en dos frentes: cómo la tecnología de marketing selecciona y sirve los anuncios, y cómo los consumidores descubren y compran productos."
+                "x": "Bustle Digital Group usa las herramientas de medición de AI de Profound para ayudar a marcas como Pampers e Innisfree a aparecer en recomendaciones AI-generated. La oferta de GEO, llamada internamente ECHO, emplea la analítica de Profound y agentes de AI entrenados con contenido de BDG para generar briefs creativos. Al menos tres marcas han pagado por ella."
               },
               {
                 "t": "p",
-                "x": "A medida que los flujos de trabajo son más fáciles de automatizar, la ventaja competitiva pasa de gestionar la entrega de campañas a tomar mejores decisiones en tiempo real. \"El foso de los flujos de trabajo empieza a evaporarse con la tecnología de AI que está saliendo\", dijo McKenna. \"La toma de decisiones unida a una señal única es lo que diferenciará a las empresas, separará a los ganadores de los perdedores y, finalmente, impulsará la consolidación\", añadió Kawaja."
+                "x": "En una campaña, la visibilidad de Innisfree en 200 prompts de cuidado de la piel monitorizados creció un 30%, mientras que el ranking de citas de Bustle subió del #709 al #12, según un caso de estudio de BDG basado en datos de Profound."
+              },
+              {
+                "t": "img",
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Innisfree_ChatGPTScreenshot-1.jpeg",
+                "cap": "Fuente: BDG"
               },
               {
                 "t": "p",
-                "x": "Del lado del consumidor, los asistentes de AI podrían reunir la investigación, el descubrimiento y la comparación en una sola interfaz y comprimir el recorrido de compra; los ponentes esperan que, por ahora, las personas sigan implicadas y deleguen tareas en lugar de decisiones. Ravi Patel, de SWYM.ai, dijo que las plataformas de medios unificadas \"pueden gestionar el 'qué' y el 'cuánto'. No pueden gestionar el 'qué impresión'\"."
+                "x": "Pampers pasó del #2 al #1 en visibilidad en AI para preguntas sobre pañales sin fragancia tras un artículo explicativo de Scary Mommy."
+              },
+              {
+                "t": "p",
+                "x": "BDG y Profound analizan primero de ocho a 10 temas y de 25 a 50 prompts por tema; luego los agentes diseñan briefs con los que escriben los editores de BDG, y el contenido se promociona de forma cruzada en Reddit. “El anunciante no participa en absoluto en el desarrollo creativo real”, dijo Graham Howes, svp de distribución e inteligencia de AI en BDG. Los resultados se siguen sobre todo en ChatGPT, Gemini y AI Overviews de Google. Profound no recibe comisión de estos acuerdos."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "tone-belfort-ai-sales-voice",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Jordan Belfort\n세일즈 AI 음성 Tone",
+      "body": "Jordan Belfort는 Tone의 AI가 아직 최고 영업자만 못하다고 했다.",
+      "mini_headline": "Belfort의 AI 세일즈 음성",
+      "tool": "Marketing",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
+      "accent": "#eb367f",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://techcrunch.com/wp-content/uploads/2026/11/Jordan-Belfort.jpeg?resize=1200,675",
+            "cap": "이미지 출처: Osiris Media, Inc"
+          },
+          {
+            "t": "p",
+            "x": "스스로 “Wolf of Wall Street”라 부르는 Jordan Belfort가 음성 기반 AI 플랫폼 Tone을 만들고 있다. 비결은 거래를 따내는 어조를 음성에 입히는 데 있다고 그는 말한다. 예컨대 평서문을 질문처럼 말하고 때로는 속삭이기까지 한다."
+          },
+          {
+            "t": "p",
+            "x": "Belfort에 따르면 영업 인력이 감당 못 할 만큼 리드가 많은 기업들이 이미 Tone을 쓰고 있다. “표현력 있는 AI-generated 내레이션”을 원하는 크리에이터와 작가용 셀프서비스 플랫폼도 내놓는 중이다. 음성 복제 기능도 배포 중이다. 공동 창업자는 투자자 Shervin Pishevar이며, TechCrunch는 이 기술이 설명대로 작동하는지 독자적으로 검증할 수 없다고 밝혔다."
+          },
+          {
+            "t": "p",
+            "x": "“법률 사무소와 건강보험사가 고객이다. 여론조사와 자동차 분야에서도 많이 쓴다”고 Belfort는 말한다. “지연 시간은 600밀리초 정도다… 말 그대로 판매 전체를 처리한다.”"
+          },
+          {
+            "t": "p",
+            "x": "성사율을 두고 그는 “아직 최고 영업자만큼 좋지는 않다고 본다. 현장의 최고 영업자라면 통화마다 이길 것이다. 앞으로 여섯 달에서 한 해 사이에 달라질 것”이라고 말했다. Tone은 “자체 개발한 아주 작고 아주 가벼운 모델”을 쓰며, 그는 Tone이 “평범한 클로저를 크게 앞설 것”이라고 본다."
+          },
+          {
+            "t": "p",
+            "x": "Belfort는 매출을 “아마 백만 달러쯤 — $700,000 정도일 것”이라고 했고, 투자 유치액은 약 $10 million이다. 그는 Tone이 수신에 동의한(opt-in) 리드나 기존 고객에게만 전화한다고 말한다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Jordan Belfort's Tone builds\nan AI voice that sells",
+          "body": "Jordan Belfort says Tone's AI sales voice agent still falls short of a top human producer, call for call.",
+          "mini_headline": "Belfort's AI sales voice",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/Jordan-Belfort.jpeg?resize=1200,675",
+                "cap": "Image Credits:Osiris Media, Inc"
+              },
+              {
+                "t": "p",
+                "x": "Jordan Belfort, the self-proclaimed \"Wolf of Wall Street,\" is building a voice-based AI platform called Tone. The secret sauce, he says, is that it imbues its voices with the kind of tonality that wins deals, for example by phrasing declarative statements as questions and even whispering at times."
+              },
+              {
+                "t": "p",
+                "x": "Belfort says Tone is already used by companies that have more sales leads than their human teams can handle, and it is launching a self-service platform for creators and authors who want \"expressive AI-generated narration,\" with voice cloning rolling out. His co-founder is investor Shervin Pishevar; TechCrunch notes it can't independently verify that the technology works as described."
+              },
+              {
+                "t": "p",
+                "x": "\"We have law firms and health insurance companies. We do a lot in polling and automobiles,\" Belfort says. \"Our latency is like 600 milliseconds… It does literally the whole entire sale.\""
+              },
+              {
+                "t": "p",
+                "x": "On close rates: \"I still don't think it's quite as good as a top producer. A top producer in the field would outdo it call for call. I think that will change in the next six months to a year.\" Tone uses \"our own very small, very light models,\" and he thinks it \"will significantly outperform a mediocre closer.\""
+              },
+              {
+                "t": "p",
+                "x": "Belfort puts revenue at \"probably about a million bucks — $700,000, maybe,\" with about $10 million raised. Tone only calls opt-in leads or existing customers, he says."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Jordan Belfort\n세일즈 AI 음성 Tone",
+          "body": "Jordan Belfort는 Tone의 AI가 아직 최고 영업자만 못하다고 했다.",
+          "mini_headline": "Belfort의 AI 세일즈 음성",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/Jordan-Belfort.jpeg?resize=1200,675",
+                "cap": "이미지 출처: Osiris Media, Inc"
+              },
+              {
+                "t": "p",
+                "x": "스스로 “Wolf of Wall Street”라 부르는 Jordan Belfort가 음성 기반 AI 플랫폼 Tone을 만들고 있다. 비결은 거래를 따내는 어조를 음성에 입히는 데 있다고 그는 말한다. 예컨대 평서문을 질문처럼 말하고 때로는 속삭이기까지 한다."
+              },
+              {
+                "t": "p",
+                "x": "Belfort에 따르면 영업 인력이 감당 못 할 만큼 리드가 많은 기업들이 이미 Tone을 쓰고 있다. “표현력 있는 AI-generated 내레이션”을 원하는 크리에이터와 작가용 셀프서비스 플랫폼도 내놓는 중이다. 음성 복제 기능도 배포 중이다. 공동 창업자는 투자자 Shervin Pishevar이며, TechCrunch는 이 기술이 설명대로 작동하는지 독자적으로 검증할 수 없다고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "“법률 사무소와 건강보험사가 고객이다. 여론조사와 자동차 분야에서도 많이 쓴다”고 Belfort는 말한다. “지연 시간은 600밀리초 정도다… 말 그대로 판매 전체를 처리한다.”"
+              },
+              {
+                "t": "p",
+                "x": "성사율을 두고 그는 “아직 최고 영업자만큼 좋지는 않다고 본다. 현장의 최고 영업자라면 통화마다 이길 것이다. 앞으로 여섯 달에서 한 해 사이에 달라질 것”이라고 말했다. Tone은 “자체 개발한 아주 작고 아주 가벼운 모델”을 쓰며, 그는 Tone이 “평범한 클로저를 크게 앞설 것”이라고 본다."
+              },
+              {
+                "t": "p",
+                "x": "Belfort는 매출을 “아마 백만 달러쯤 — $700,000 정도일 것”이라고 했고, 투자 유치액은 약 $10 million이다. 그는 Tone이 수신에 동의한(opt-in) 리드나 기존 고객에게만 전화한다고 말한다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Jordan Belfort\n売り込むAI音声Tone",
+          "body": "Jordan BelfortはToneのAI営業音声がまだトップ営業に及ばないと語る。",
+          "mini_headline": "BelfortのAI営業音声",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/Jordan-Belfort.jpeg?resize=1200,675",
+                "cap": "画像クレジット：Osiris Media, Inc"
+              },
+              {
+                "t": "p",
+                "x": "「Wolf of Wall Street」を自称するJordan Belfortが、音声ベースのAIプラットフォーム「Tone」を構築している。彼によれば秘訣は、取引を勝ち取る抑揚を音声に持たせることにある。たとえば断定文を疑問形で言い、時にはささやきさえする。"
+              },
+              {
+                "t": "p",
+                "x": "Belfortによると、Toneはすでに営業チームでは処理しきれないほどの見込み客を抱える企業で使われており、「表現力豊かなAI-generatedナレーション」を求めるクリエイターや作家向けのセルフサービス型プラットフォームも立ち上げている。音声クローン機能も順次提供中だ。共同創業者は投資家のShervin Pishevarで、TechCrunchはこの技術が説明どおりに機能するかを独自に検証できないとしている。"
+              },
+              {
+                "t": "p",
+                "x": "「顧客には法律事務所や健康保険会社がいる。世論調査や自動車の分野でも多く使われている」とBelfortは言う。「レイテンシーは600ミリ秒ほどだ……文字どおり販売の全工程をこなす」"
+              },
+              {
+                "t": "p",
+                "x": "成約率については、「まだトップの営業担当者ほどではないと思う。現場のトップ営業なら一件一件の通話で上回るだろう。それも六か月から一年で変わると思う」と語る。Toneは「自社開発の非常に小さく非常に軽いモデル」を使っており、彼は「凡庸なクローザーを大きく上回る」と考えている。"
+              },
+              {
+                "t": "p",
+                "x": "Belfortは売上を「たぶん百万ドルくらい——$700,000かな」とし、調達額は約$10 millionだという。Toneが電話するのはオプトイン(opt-in)した見込み客か既存顧客だけだと彼は言う。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Jordan Belfort\n打造会销售的AI语音Tone",
+          "body": "Jordan Belfort称，Tone的AI销售语音代理逐通电话来看仍不及顶尖销售。",
+          "mini_headline": "Belfort的AI销售语音",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/Jordan-Belfort.jpeg?resize=1200,675",
+                "cap": "图片来源：Osiris Media, Inc"
+              },
+              {
+                "t": "p",
+                "x": "自称“Wolf of Wall Street”的Jordan Belfort正在打造一个名为Tone的语音AI平台。他说，秘诀在于让语音带上能拿下交易的语调，比如把陈述句说成问句，有时甚至压低声音耳语。"
+              },
+              {
+                "t": "p",
+                "x": "Belfort称，Tone已被一些销售线索多到人工团队应付不过来的公司使用，并正为想要“富有表现力的AI-generated旁白”的创作者和作者推出自助服务平台，语音克隆功能也在陆续上线。他的联合创始人是投资人Shervin Pishevar；TechCrunch指出，无法独立核实这项技术是否如其所述。"
+              },
+              {
+                "t": "p",
+                "x": "“我们的客户有律师事务所和健康保险公司。在民调和汽车领域也做得很多，”Belfort说。“我们的延迟大约600毫秒……它真的能完成整个销售。”"
+              },
+              {
+                "t": "p",
+                "x": "谈到成交率，他说：“我仍然觉得它还不如顶尖销售。一线的顶尖销售逐通电话都能胜过它。我认为未来六个月到一年会有改变。”Tone使用“我们自己的非常小、非常轻的模型”，他认为它“会显著胜过平庸的成交员”。"
+              },
+              {
+                "t": "p",
+                "x": "Belfort估计收入“大概百万美元左右——也许是$700,000”，融资约$10 million。他说，Tone只给主动同意（opt-in）的潜在客户或现有客户打电话。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Tone, de Jordan Belfort, crea\nuna voz de AI que vende",
+          "body": "Jordan Belfort dice que el agente de voz de ventas AI de Tone aún no iguala a un vendedor humano de élite.",
+          "mini_headline": "La voz de ventas AI de Belfort",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/Jordan-Belfort.jpeg?resize=1200,675",
+                "cap": "Créditos de imagen: Osiris Media, Inc"
+              },
+              {
+                "t": "p",
+                "x": "Jordan Belfort, el autoproclamado “Wolf of Wall Street”, está construyendo una plataforma de AI basada en voz llamada Tone. El ingrediente secreto, según él, es que dota a sus voces del tipo de tono que cierra tratos, por ejemplo formulando afirmaciones como preguntas e incluso susurrando a veces."
+              },
+              {
+                "t": "p",
+                "x": "Belfort dice que Tone ya lo usan empresas con más clientes potenciales de los que sus equipos humanos pueden atender, y que está lanzando una plataforma de autoservicio para creadores y autores que buscan “narración AI-generated expresiva”, con la clonación de voz en despliegue. Su cofundador es el inversor Shervin Pishevar; TechCrunch señala que no puede verificar de forma independiente que la tecnología funcione como se describe."
+              },
+              {
+                "t": "p",
+                "x": "“Tenemos bufetes de abogados y aseguradoras de salud. Hacemos mucho en encuestas y automóviles”, dice Belfort. “Nuestra latencia es de unos 600 milisegundos… Literalmente hace toda la venta completa”."
+              },
+              {
+                "t": "p",
+                "x": "Sobre las tasas de cierre: “Sigo pensando que no es tan bueno como un vendedor de primer nivel. Un vendedor de primer nivel en el terreno lo superaría llamada a llamada. Creo que eso cambiará en los próximos seis meses a un año”. Tone usa “nuestros propios modelos muy pequeños y muy ligeros”, y él cree que “superará con creces a un cerrador mediocre”."
+              },
+              {
+                "t": "p",
+                "x": "Belfort sitúa los ingresos en “probablemente alrededor de un millón de dólares; $700,000, quizá”, con unos $10 million recaudados. Según él, Tone solo llama a clientes potenciales que han dado su consentimiento (opt-in) o a clientes existentes."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Jordan Belfort\n세일즈 AI 음성 Tone",
+          "body": "Jordan Belfort는 Tone의 AI가 아직 최고 영업자만 못하다고 했다.",
+          "mini_headline": "Belfort의 AI 세일즈 음성",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/Jordan-Belfort.jpeg?resize=1200,675",
+                "cap": "이미지 출처: Osiris Media, Inc"
+              },
+              {
+                "t": "p",
+                "x": "스스로 “Wolf of Wall Street”라 부르는 Jordan Belfort가 음성 기반 AI 플랫폼 Tone을 만들고 있다. 그가 말하는 비결은 거래를 따내는 어조를 음성에 입힌다는 점이다. 예컨대 평서문을 질문처럼 말하고 때로는 속삭이기까지 한다."
+              },
+              {
+                "t": "p",
+                "x": "Belfort에 따르면 Tone은 이미 영업 인력이 감당하지 못할 만큼 리드가 많은 기업들이 쓰고 있으며, “표현력 있는 AI-generated 내레이션”을 원하는 크리에이터와 작가를 위한 셀프서비스 플랫폼도 내놓고 있다. 음성 복제 기능도 배포 중이다. 공동 창업자는 투자자 Shervin Pishevar이며, TechCrunch는 이 기술이 설명대로 작동하는지 독자적으로 검증할 수 없다고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "“법률 사무소와 건강보험사가 고객이다. 여론조사와 자동차 분야에서도 많이 쓴다”고 Belfort는 말한다. “지연 시간은 600밀리초 정도다… 말 그대로 판매 전체를 처리한다.”"
+              },
+              {
+                "t": "p",
+                "x": "성사율에 대해 그는 “아직 최고 영업자만큼 좋지는 않다고 본다. 현장의 최고 영업자라면 통화마다 이길 것이다. 앞으로 여섯 달에서 한 해 사이에 달라질 것”이라고 말했다. Tone은 “자체 개발한 아주 작고 아주 가벼운 모델”을 쓰며, 그는 Tone이 “평범한 클로저를 크게 앞설 것”이라고 본다."
+              },
+              {
+                "t": "p",
+                "x": "Belfort는 매출을 “아마 백만 달러쯤 — $700,000 정도일 것”이라고 했고, 투자 유치액은 약 $10 million이다. 그는 Tone이 수신에 동의한(opt-in) 리드나 기존 고객에게만 전화한다고 말한다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Jordan Belfort\n売り込むAI音声Tone",
+          "body": "Jordan BelfortはToneのAI営業音声がまだトップ営業に及ばないと語る。",
+          "mini_headline": "BelfortのAI営業音声",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/Jordan-Belfort.jpeg?resize=1200,675",
+                "cap": "画像クレジット：Osiris Media, Inc"
+              },
+              {
+                "t": "p",
+                "x": "「Wolf of Wall Street」を自称するJordan Belfortが、音声ベースのAIプラットフォーム「Tone」を構築している。彼によれば秘訣は、取引を勝ち取る抑揚を音声に持たせることにある。たとえば断定文を疑問形で言い、時にはささやきさえする。"
+              },
+              {
+                "t": "p",
+                "x": "Belfortによると、Toneはすでに営業チームでは処理しきれないほどの見込み客を抱える企業で使われており、「表現力豊かなAI-generatedナレーション」を求めるクリエイターや作家向けのセルフサービス型プラットフォームも立ち上げている。音声クローン機能も順次提供中だ。共同創業者は投資家のShervin Pishevarで、TechCrunchはこの技術が説明どおりに機能するかを独自に検証できないとしている。"
+              },
+              {
+                "t": "p",
+                "x": "「顧客には法律事務所や健康保険会社がいる。世論調査や自動車の分野でも多く使われている」とBelfortは言う。「レイテンシーは600ミリ秒ほどだ……文字どおり販売の全工程をこなす」"
+              },
+              {
+                "t": "p",
+                "x": "成約率については、「まだトップの営業担当者ほどではないと思う。現場のトップ営業なら一件一件の通話で上回るだろう。それも六か月から一年で変わると思う」と語る。Toneは「自社開発の非常に小さく非常に軽いモデル」を使っており、彼は「凡庸なクローザーを大きく上回る」と考えている。"
+              },
+              {
+                "t": "p",
+                "x": "Belfortは売上を「たぶん百万ドルくらい——$700,000かな」とし、調達額は約$10 millionだという。Toneが電話するのはオプトイン(opt-in)した見込み客か既存顧客だけだと彼は言う。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Jordan Belfort\n打造会销售的AI语音Tone",
+          "body": "Jordan Belfort称，Tone的AI销售语音代理逐通电话来看仍不及顶尖销售。",
+          "mini_headline": "Belfort的AI销售语音",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/Jordan-Belfort.jpeg?resize=1200,675",
+                "cap": "图片来源：Osiris Media, Inc"
+              },
+              {
+                "t": "p",
+                "x": "自称“Wolf of Wall Street”的Jordan Belfort正在打造一个名为Tone的语音AI平台。他说，秘诀在于让语音带上能拿下交易的语调，比如把陈述句说成问句，有时甚至压低声音耳语。"
+              },
+              {
+                "t": "p",
+                "x": "Belfort称，Tone已被一些销售线索多到人工团队应付不过来的公司使用，并正为想要“富有表现力的AI-generated旁白”的创作者和作者推出自助服务平台，语音克隆功能也在陆续上线。他的联合创始人是投资人Shervin Pishevar；TechCrunch指出，无法独立核实这项技术是否如其所述。"
+              },
+              {
+                "t": "p",
+                "x": "“我们的客户有律师事务所和健康保险公司。在民调和汽车领域也做得很多，”Belfort说。“我们的延迟大约600毫秒……它真的能完成整个销售。”"
+              },
+              {
+                "t": "p",
+                "x": "谈到成交率，他说：“我仍然觉得它还不如顶尖销售。一线的顶尖销售逐通电话都能胜过它。我认为未来六个月到一年会有改变。”Tone使用“我们自己的非常小、非常轻的模型”，他认为它“会显著胜过平庸的成交员”。"
+              },
+              {
+                "t": "p",
+                "x": "Belfort估计收入“大概百万美元左右——也许是$700,000”，融资约$10 million。他说，Tone只给主动同意（opt-in）的潜在客户或现有客户打电话。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Tone, de Jordan Belfort, crea\nuna voz de AI que vende",
+          "body": "Jordan Belfort dice que el agente de voz de ventas AI de Tone aún no iguala a un vendedor humano de élite.",
+          "mini_headline": "La voz de ventas AI de Belfort",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/Jordan-Belfort.jpeg?resize=1200,675",
+                "cap": "Créditos de imagen: Osiris Media, Inc"
+              },
+              {
+                "t": "p",
+                "x": "Jordan Belfort, el autoproclamado “Wolf of Wall Street”, está construyendo una plataforma de AI basada en voz llamada Tone. El ingrediente secreto, según él, es que dota a sus voces del tipo de tono que cierra tratos, por ejemplo formulando afirmaciones como preguntas e incluso susurrando a veces."
+              },
+              {
+                "t": "p",
+                "x": "Belfort dice que Tone ya lo usan empresas con más clientes potenciales de los que sus equipos humanos pueden atender, y que está lanzando una plataforma de autoservicio para creadores y autores que buscan “narración AI-generated expresiva”, con la clonación de voz en despliegue. Su cofundador es el inversor Shervin Pishevar; TechCrunch señala que no puede verificar de forma independiente que la tecnología funcione como se describe."
+              },
+              {
+                "t": "p",
+                "x": "“Tenemos bufetes de abogados y aseguradoras de salud. Hacemos mucho en encuestas y automóviles”, dice Belfort. “Nuestra latencia es de unos 600 milisegundos… Literalmente hace toda la venta completa”."
+              },
+              {
+                "t": "p",
+                "x": "Sobre las tasas de cierre: “Sigo pensando que no es tan bueno como un vendedor de primer nivel. Un vendedor de primer nivel en el terreno lo superaría llamada a llamada. Creo que eso cambiará en los próximos seis meses a un año”. Tone usa “nuestros propios modelos muy pequeños y muy ligeros”, y él cree que “superará con creces a un cerrador mediocre”."
+              },
+              {
+                "t": "p",
+                "x": "Belfort sitúa los ingresos en “probablemente alrededor de un millón de dólares; $700,000, quizá”, con unos $10 million recaudados. Según él, Tone solo llama a clientes potenciales que han dado su consentimiento (opt-in) o a clientes existentes."
               }
             ]
           }
