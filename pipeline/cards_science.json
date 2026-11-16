@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "section": "science",
   "cards": [
     {
-      "id": "science-teamwork-lean-proof",
+      "id": "psypost-ai-grant-novelty",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Gemini 에이전트 팀,\n기계 검증한 수학 증명",
-      "body": "Gemini 에이전트가 Courtade-Kumar 증명을 Lean 4로 완성했다.",
-      "mini_headline": "Gemini 에이전트 팀의 증명 형식화",
+      "headline": "AI-assisted 제안\n기존 지원 주제를 맴돈다",
+      "body": "생성형 AI를 쓰는 과학자는 연방 연구비 제안서를 기존 지원 주제에 가깝게 쓴다.",
+      "mini_headline": "AI 손 거친 연구비 제안, 익숙한 주제로",
       "tool": "Science",
-      "source": "Google Research",
-      "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
+      "source": "PsyPost",
+      "url": "https://www.psypost.org/scientists-who-use-ai-propose-less-distinctive-ideas-for-federal-research-grants/",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
@@ -19,335 +19,305 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://storage.googleapis.com/gweb-research2023-media/original_images/AntigravityTeamwork_HeroFinal.jpg"
+            "src": "https://www.psypost.org/wp-content/uploads/2025/11/artificial-intelligence.jpg",
+            "cap": "[Adobe Stock]"
           },
           {
             "t": "p",
-            "x": "Google Research가 Antigravity의 /teamwork 멀티에이전트 시스템이 거둔 최근 성과를 공개했다. 이 시스템은 Gemini 4 Argon, Gemini 4 Carbon, Gemini 4 Hydrogen으로 인간과 AI의 협업(human-AI collaboration)을 끌어올리고, 수학·화학·시스템 소프트웨어·ML 엔지니어링의 미해결 문제를 푼다. 병렬 탐색에 전담 반증기(예: Lean 4 증명 검사기, 수정하지 않은 소프트웨어 테스트 스위트, 실행 시뮬레이터)를 붙이고, 맥락을 나눠 전문 에이전트마다 필요한 파일과 도구만 쥐여 준다."
+            "x": "PNAS에 실린 새 연구를 보면 생성형 인공지능(AI)의 도움으로 연방 연구비 신청서를 쓰는 과학자는 최근 지원받은 과제와 더 비슷한 연구 주제를 내놓는 경향이 있다. 미국 국립보건원(NIH)에서는 AI 글쓰기 흔적이 많은 신청서일수록 연구비를 받을 가능성이 높았다. AI 흔적이 많은 과제는 첫 한두 해 동안 논문도 조금 더 많이 냈다. 다만 이 논문은 인용이 많은 획기적 성과보다 통상적인 연구 쪽에 몰렸다."
           },
           {
             "t": "p",
-            "x": "Google, CUHK, USC, CMU 연구진은 /teamwork의 Long Proof 패턴으로 정보이론의 2013년 Courtade–Kumar 추측을 완전한 일반성에서 증명했고, 증명 전체를 Lean 4로 형식화했다(코드 5,000만 줄). /teamwork-LEAP은 완전 자율로 Weil 추측을 기계 검증 가능한 형태로 옮겼다. 하위 에이전트를 28,800회 호출해 쓴 Lean 코드가 약 180만 줄이다."
+            "x": "Northwestern University의 Yifan Qian 연구팀은 U.S. 대형 연구중심대학 두 곳에서 나온 NSF 제안서 1,600건과 NIH 제안서 4,100건에 더해 NSF 지원 과제 57,000건과 NIH 지원 과제 74,000건을 분석했다. 분석한 과제는 2021년부터 2025년 사이에 시작됐다. 추정 AI 관여도는 2022년 말까지 평탄하다가 2023년부터 가파르게 올랐다."
           },
           {
             "t": "p",
-            "x": "그 밖에 에이전트 30개로 NMR 구조 결정에서 top-1 정확 일치율 95%를 기록했다. Zircon 마이크로커널용 안전한 Rust 코드도 약 800,000줄 작성했고, 여드레가 채 안 돼 Elo를 약 2,600 끌어올린 9x9 바둑(Go) 엔진도 만들었다."
-          },
-          {
-            "t": "video",
-            "src": "https://storage.googleapis.com/gweb-research2023-media/media/AntigravityTeamwork_HillClimbing_1x.mp4"
+            "x": "AI 관여도가 높을수록 독창성은 일관되게 낮았다. 관여도가 25번째에서 75번째 백분위로 올라가면 NSF 과제는 백분위 기준 약 5포인트, NIH 과제는 약 4포인트 떨어졌다. NIH에서는 같은 변화에 연구비 수주 가능성이 약 4퍼센트포인트 오르고 논문 수도 약 5퍼센트 늘었다. NSF에서는 어느 쪽도 통계적으로 유의하지 않았다."
           },
           {
             "t": "p",
-            "x": "외부 과학자와 개발자도 오늘부터 Antigravity와 Deep Review에서 Gemini 4 모델을 /teamwork·/boost와 함께 쓸 수 있다. 학계 연구자 10,000명에게 최상위 사용 등급을 여섯 달간 무료로 주는 프로그램도 신청을 받는다."
+            "x": "관찰 연구라서 AI 도구 때문에 더 안전한 주제를 고르게 되거나 NIH 연구비 수주 확률이 높아진다고 단정하기는 어렵다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Gemini agent teams deliver\na machine-checked math proof",
-          "body": "Google's /teamwork runs parallel Gemini agents with verifiers, yielding a Lean 4-formalized Courtade-Kumar proof.",
-          "mini_headline": "Gemini agent teams\nformalize a proof",
+          "headline": "AI-assisted grant proposals\nstay closer to funded topics",
+          "body": "Scientists who use generative AI tend to pitch federal grant proposals closer to previously funded topics.",
+          "mini_headline": "AI-aided grants stay familiar",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-research2023-media/original_images/AntigravityTeamwork_HeroFinal.jpg"
+                "src": "https://www.psypost.org/wp-content/uploads/2025/11/artificial-intelligence.jpg",
+                "cap": "[Adobe Stock]"
               },
               {
                 "t": "p",
-                "x": "Google Research shared recent results from Antigravity’s /teamwork multiagent systems, which enhance human-AI collaborations to solve open problems across mathematics, chemistry, systems software, and ML engineering, using Gemini 4 Argon, Gemini 4 Carbon, Gemini 4 Hydrogen. The system pairs parallel exploration with dedicated falsifiers (e.g., the Lean 4 proof checker, unmodified software test suites, execution simulators) and partitions context so each specialized agent receives only the files and tools it needs."
+                "x": "Scientists who use generative artificial intelligence to help write federal grant applications tend to propose research topics that more closely resemble recently funded projects, according to a new study published in PNAS. At the National Institutes of Health, submissions with greater traces of AI writing were more likely to win funding, and awards with more AI traces were followed by modestly more publications in the first year or two, concentrated in routine studies rather than highly cited breakthroughs."
               },
               {
                 "t": "p",
-                "x": "Researchers from Google, CUHK, USC, and CMU used /teamwork's Long Proof pattern to prove information theory's 2013 Courtade–Kumar conjecture in full generality, formalizing the entire proof in Lean 4 (50 million lines of code). /teamwork-LEAP fully autonomously produced a machine-checked formalization of the Weil conjectures, spanning about 1.8 million lines of Lean across 28,800 subagent invocations."
+                "x": "Yifan Qian and colleagues at Northwestern University analyzed 1,600 NSF and 4,100 NIH proposals from two large U.S. research universities, plus 57,000 NSF and 74,000 NIH funded awards, with start dates from 2021 to 2025. Estimated AI involvement stayed flat before late 2022 and rose sharply beginning in 2023."
               },
               {
                 "t": "p",
-                "x": "Other results include 95% top-1 exact match in NMR structure determination with 30 agents, about 800,000 lines of safe Rust for the Zircon microkernel, and a 9x9 Go engine that gained roughly 2,600 Elo in under eight days."
-              },
-              {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-research2023-media/media/AntigravityTeamwork_HillClimbing_1x.mp4"
+                "x": "Higher AI involvement was consistently associated with lower distinctiveness: moving from the 25th to the 75th percentile corresponded to roughly a 5-percentile-point drop for NSF awards and about 4 points for NIH awards. At NIH, the same shift meant roughly a 4-percentage-point higher likelihood of winning an award and about 5 percent more publications; at NSF neither link was statistically significant."
               },
               {
                 "t": "p",
-                "x": "External scientists and developers can use Gemini 4 models with /teamwork and /boost in Antigravity and Deep Review today, and applications are open giving 10,000 academic researchers six months of free access to the highest usage tier."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Gemini 에이전트 팀,\n기계 검증한 수학 증명",
-          "body": "Gemini 에이전트가 Courtade-Kumar 증명을 Lean 4로 완성했다.",
-          "mini_headline": "Gemini 에이전트 팀의 증명 형식화",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gweb-research2023-media/original_images/AntigravityTeamwork_HeroFinal.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Google Research가 Antigravity의 /teamwork 멀티에이전트 시스템이 거둔 최근 성과를 공개했다. 이 시스템은 Gemini 4 Argon, Gemini 4 Carbon, Gemini 4 Hydrogen으로 인간과 AI의 협업(human-AI collaboration)을 끌어올리고, 수학·화학·시스템 소프트웨어·ML 엔지니어링의 미해결 문제를 푼다. 병렬 탐색에 전담 반증기(예: Lean 4 증명 검사기, 수정하지 않은 소프트웨어 테스트 스위트, 실행 시뮬레이터)를 붙이고, 맥락을 나눠 전문 에이전트마다 필요한 파일과 도구만 쥐여 준다."
-              },
-              {
-                "t": "p",
-                "x": "Google, CUHK, USC, CMU 연구진은 /teamwork의 Long Proof 패턴으로 정보이론의 2013년 Courtade–Kumar 추측을 완전한 일반성에서 증명했고, 증명 전체를 Lean 4로 형식화했다(코드 5,000만 줄). /teamwork-LEAP은 완전 자율로 Weil 추측을 기계 검증 가능한 형태로 옮겼다. 하위 에이전트를 28,800회 호출해 쓴 Lean 코드가 약 180만 줄이다."
-              },
-              {
-                "t": "p",
-                "x": "그 밖에 에이전트 30개로 NMR 구조 결정에서 top-1 정확 일치율 95%를 기록했다. Zircon 마이크로커널용 안전한 Rust 코드도 약 800,000줄 작성했고, 여드레가 채 안 돼 Elo를 약 2,600 끌어올린 9x9 바둑(Go) 엔진도 만들었다."
-              },
-              {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-research2023-media/media/AntigravityTeamwork_HillClimbing_1x.mp4"
-              },
-              {
-                "t": "p",
-                "x": "외부 과학자와 개발자도 오늘부터 Antigravity와 Deep Review에서 Gemini 4 모델을 /teamwork·/boost와 함께 쓸 수 있다. 학계 연구자 10,000명에게 최상위 사용 등급을 여섯 달간 무료로 주는 프로그램도 신청을 받는다."
+                "x": "The study is observational and cannot establish that AI tools directly cause safer topic choices or higher NIH funding odds."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Geminiエージェント群が\n機械検証済みの数学証明",
-          "body": "GeminiエージェントがCourtade-Kumarの証明をLean 4で形式化した。",
-          "mini_headline": "Geminiエージェント群が証明を形式化",
+          "headline": "AI-assistedの\n研究費申請は採択テーマ寄り",
+          "body": "生成AIを使う科学者は、連邦の研究助成申請で過去に採択されたテーマに近い提案をしがちだ。",
+          "mini_headline": "AI-aidedの研究費申請は既知のテーマへ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-research2023-media/original_images/AntigravityTeamwork_HeroFinal.jpg"
+                "src": "https://www.psypost.org/wp-content/uploads/2025/11/artificial-intelligence.jpg",
+                "cap": "[Adobe Stock]"
               },
               {
                 "t": "p",
-                "x": "Google ResearchはAntigravityの/teamworkマルチエージェントシステムの最新成果を公開した。このシステムはGemini 4 Argon、Gemini 4 Carbon、Gemini 4 Hydrogenを用いて人間とAIの協働（human-AI collaboration）を強化し、数学、化学、システムソフトウェア、ML工学にわたる未解決問題に取り組む。並列探索と専用の反証器（Lean 4証明チェッカー、改変していないソフトウェアテストスイート、実行シミュレーターなど）を組み合わせ、コンテキストを分割して各専門エージェントに必要なファイルとツールだけを渡す。"
+                "x": "連邦の研究助成申請書の作成に生成人工知能を使う科学者は、最近採択されたプロジェクトにより近い研究テーマを提案する傾向がある。PNASに掲載された新たな研究が明らかにした。米国立衛生研究所(National Institutes of Health)では、AIによる執筆の痕跡が濃い申請ほど採択されやすく、AIの痕跡が多い採択課題はその後の一、二年で論文数がやや多かった。ただし増えたのは高被引用の画期的成果ではなく、定型的な研究だった。"
               },
               {
                 "t": "p",
-                "x": "Google、CUHK、USC、CMUの研究者は/teamworkのLong Proofパターンを使い、情報理論における2013年のCourtade–Kumar予想を完全な一般性で証明し、証明全体をLean 4で形式化した（コード5000万行）。/teamwork-LEAPは完全に自律的にWeil予想の機械検証済み形式化を生成し、その規模は28,800回のサブエージェント呼び出しにわたる約180万行のLeanに及ぶ。"
+                "x": "ノースウェスタン大学(Northwestern University)のYifan Qianらは、U.S.の大規模研究大学二校から出たNSF申請1,600件とNIH申請4,100件に加え、NSFの採択課題57,000件とNIHの採択課題74,000件を分析した。開始日は2021年から2025年である。推定されたAIの関与は2022年後半までは横ばいで、2023年から急増した。"
               },
               {
                 "t": "p",
-                "x": "ほかにも、30のエージェントによるNMR構造決定でのtop-1完全一致率95%、Zirconマイクロカーネル向けの安全なRustコード約800,000行、八日足らずでEloを約2,600伸ばした9x9の囲碁（Go）エンジンといった成果がある。"
-              },
-              {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-research2023-media/media/AntigravityTeamwork_HillClimbing_1x.mp4"
+                "x": "AIの関与が大きいほど、独自性は一貫して低かった。関与が25パーセンタイルから75パーセンタイルに移ると、NSFの課題では独自性が約5パーセンタイルポイント、NIHの課題では約4ポイント下がった。NIHでは同じ変化が、採択確率の約4パーセントポイント上昇と論文数の約5パーセント増加に対応した。NSFではどちらの関連も統計的に有意ではなかった。"
               },
               {
                 "t": "p",
-                "x": "外部の科学者や開発者は本日から、AntigravityとDeep Reviewで/teamworkや/boostとともにGemini 4モデルを利用できる。また、学術研究者10,000人に最上位の利用枠を六か月間無料で提供する募集も始まっている。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Gemini智能体团队\n交出机器验证的数学证明",
-          "body": "Gemini智能体并行协作，用Lean 4形式化了Courtade-Kumar证明。",
-          "mini_headline": "Gemini智能体团队形式化证明",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gweb-research2023-media/original_images/AntigravityTeamwork_HeroFinal.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Google Research公布了Antigravity的/teamwork多智能体系统的最新成果。该系统使用Gemini 4 Argon、Gemini 4 Carbon和Gemini 4 Hydrogen，强化人与AI的协作（human-AI collaboration），以解决数学、化学、系统软件和ML工程领域的开放问题。系统将并行探索与专门的证伪器（如Lean 4证明检查器、未经修改的软件测试套件、执行模拟器）相结合，并对上下文进行分区，使每个专职智能体只获得所需的文件和工具。"
-              },
-              {
-                "t": "p",
-                "x": "来自Google、CUHK、USC和CMU的研究人员利用/teamwork的Long Proof模式，在完全一般的情形下证明了信息论中2013年的Courtade–Kumar猜想，并用Lean 4将整个证明形式化（5000万行代码）。/teamwork-LEAP完全自主地完成了Weil猜想的机器验证形式化，涉及约180万行Lean代码和28,800次子智能体调用。"
-              },
-              {
-                "t": "p",
-                "x": "其他成果包括：用30个智能体在NMR结构解析中实现95%的top-1精确匹配；为Zircon微内核编写约800,000行安全的Rust代码；以及一个9x9围棋（Go）引擎，在不到八天内将Elo提升约2,600。"
-              },
-              {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-research2023-media/media/AntigravityTeamwork_HillClimbing_1x.mp4"
-              },
-              {
-                "t": "p",
-                "x": "外部科学家和开发者即日起可在Antigravity和Deep Review中将Gemini 4模型与/teamwork和/boost配合使用；同时开放申请，为10,000名学术研究人员提供六个月的最高使用等级免费访问权限。"
+                "x": "この研究は観察研究であり、AIツールがより無難なテーマ選びやNIHでの高い採択確率を直接もたらすとは立証できない。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Equipos de agentes Gemini\nlogran una prueba verificada",
-          "body": "/teamwork, de Google, usa agentes Gemini paralelos y verificadores para una prueba de Courtade-Kumar en Lean 4.",
-          "mini_headline": "Agentes Gemini formalizan una prueba",
+          "headline": "Las solicitudes AI-assisted\nse acercan a temas financiados",
+          "body": "Los científicos que usan AI generativa tienden a proponer solicitudes federales más cercanas a temas ya financiados.",
+          "mini_headline": "Solicitudes AI-aided, temas conocidos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-research2023-media/original_images/AntigravityTeamwork_HeroFinal.jpg"
+                "src": "https://www.psypost.org/wp-content/uploads/2025/11/artificial-intelligence.jpg",
+                "cap": "[Adobe Stock]"
               },
               {
                 "t": "p",
-                "x": "Google Research presentó resultados recientes de los sistemas multiagente /teamwork de Antigravity, que refuerzan la colaboración human-AI (entre humanos y AI) para resolver problemas abiertos en matemáticas, química, software de sistemas e ingeniería de ML, con Gemini 4 Argon, Gemini 4 Carbon y Gemini 4 Hydrogen. El sistema combina la exploración en paralelo con falsificadores dedicados (por ejemplo, el verificador de pruebas Lean 4, conjuntos de pruebas de software sin modificar y simuladores de ejecución) y divide el contexto para que cada agente especializado reciba solo los archivos y las herramientas que necesita."
+                "x": "Los científicos que usan inteligencia artificial generativa para redactar solicitudes de subvenciones federales tienden a proponer temas de investigación más parecidos a proyectos financiados recientemente, según un nuevo estudio publicado en PNAS. En los National Institutes of Health, las solicitudes con más rastros de escritura con AI tenían más probabilidades de obtener financiación, y a las subvenciones con más rastros de AI les siguieron algo más de publicaciones en el primer o segundo año, concentradas en estudios rutinarios y no en avances muy citados."
               },
               {
                 "t": "p",
-                "x": "Investigadores de Google, CUHK, USC y CMU usaron el patrón Long Proof de /teamwork para demostrar en plena generalidad la conjetura de Courtade–Kumar de 2013, de la teoría de la información, y formalizaron toda la prueba en Lean 4 (50 millones de líneas de código). /teamwork-LEAP produjo de forma totalmente autónoma una formalización verificada por máquina de las conjeturas de Weil, con unos 1.8 millones de líneas de Lean a lo largo de 28,800 invocaciones de subagentes."
+                "x": "Yifan Qian y sus colegas de la Northwestern University analizaron 1,600 propuestas a la NSF y 4,100 a los NIH procedentes de dos grandes universidades de investigación de U.S., además de 57,000 subvenciones financiadas por la NSF y 74,000 por los NIH, con fechas de inicio entre 2021 y 2025. La participación estimada de la AI se mantuvo estable hasta finales de 2022 y aumentó con fuerza a partir de 2023."
               },
               {
                 "t": "p",
-                "x": "Otros resultados incluyen un 95% de coincidencia exacta top-1 en la determinación de estructuras por NMR con 30 agentes, unas 800,000 líneas de Rust seguro para el microkernel Zircon y un motor de Go de 9x9 que ganó cerca de 2,600 puntos Elo en menos de ocho días."
-              },
-              {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-research2023-media/media/AntigravityTeamwork_HillClimbing_1x.mp4"
+                "x": "Una mayor participación de la AI se asoció de forma constante con menor singularidad: pasar del percentil 25 al 75 supuso una caída de unos 5 puntos percentiles en las subvenciones de la NSF y de unos 4 puntos en las de los NIH. En los NIH, ese mismo cambio implicó una probabilidad de obtener financiación unos 4 puntos porcentuales mayor y alrededor de un 5 por ciento más de publicaciones; en la NSF ninguna de las dos relaciones fue estadísticamente significativa."
               },
               {
                 "t": "p",
-                "x": "Científicos y desarrolladores externos ya pueden usar los modelos Gemini 4 con /teamwork y /boost en Antigravity y Deep Review, y está abierta la convocatoria que dará a 10,000 investigadores académicos seis meses de acceso gratuito al nivel de uso más alto."
+                "x": "El estudio es observacional y no puede establecer que las herramientas de AI causen directamente elecciones de temas más seguras ni mayores probabilidades de financiación en los NIH."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "AI-assisted 제안\n기존 지원 주제를 맴돈다",
+          "body": "생성형 AI를 쓰는 과학자는 연방 연구비 제안서를 기존 지원 주제에 가깝게 쓴다.",
+          "mini_headline": "AI 손 거친 연구비 제안, 익숙한 주제로",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.psypost.org/wp-content/uploads/2025/11/artificial-intelligence.jpg",
+                "cap": "[Adobe Stock]"
+              },
+              {
+                "t": "p",
+                "x": "PNAS에 실린 새 연구를 보면 생성형 인공지능(AI)의 도움으로 연방 연구비 신청서를 쓰는 과학자는 최근 지원받은 과제와 더 비슷한 연구 주제를 내놓는 경향이 있다. 미국 국립보건원(NIH)에서는 AI 글쓰기 흔적이 많은 신청서일수록 연구비를 받을 가능성이 높았다. AI 흔적이 많은 과제는 첫 한두 해 동안 논문도 조금 더 많이 냈다. 다만 이 논문은 인용이 많은 획기적 성과보다 통상적인 연구 쪽에 몰렸다."
+              },
+              {
+                "t": "p",
+                "x": "Northwestern University의 Yifan Qian 연구팀은 U.S. 대형 연구중심대학 두 곳에서 나온 NSF 제안서 1,600건과 NIH 제안서 4,100건에 더해 NSF 지원 과제 57,000건과 NIH 지원 과제 74,000건을 분석했다. 분석한 과제는 2021년부터 2025년 사이에 시작됐다. 추정 AI 관여도는 2022년 말까지 평탄하다가 2023년부터 가파르게 올랐다."
+              },
+              {
+                "t": "p",
+                "x": "AI 관여도가 높을수록 독창성은 일관되게 낮았다. 관여도가 25번째에서 75번째 백분위로 올라가면 NSF 과제는 백분위 기준 약 5포인트, NIH 과제는 약 4포인트 떨어졌다. NIH에서는 같은 변화에 연구비 수주 가능성이 약 4퍼센트포인트 오르고 논문 수도 약 5퍼센트 늘었다. NSF에서는 어느 쪽도 통계적으로 유의하지 않았다."
+              },
+              {
+                "t": "p",
+                "x": "관찰 연구라서 AI 도구 때문에 더 안전한 주제를 고르게 되거나 NIH 연구비 수주 확률이 높아진다고 단정하기는 어렵다."
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "AI-assisted申请\n更贴近已获资助课题",
+          "body": "使用生成式AI的科学家，往往让联邦科研基金申请更贴近此前已获资助的课题。",
+          "mini_headline": "AI辅助的基金申请趋于熟悉题材",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.psypost.org/wp-content/uploads/2025/11/artificial-intelligence.jpg",
+                "cap": "[Adobe Stock]"
+              },
+              {
+                "t": "p",
+                "x": "发表在PNAS上的一项新研究显示，借助生成式人工智能（AI）撰写联邦科研基金申请的科学家，提出的研究课题往往更接近近期获得资助的项目。在美国国立卫生研究院（NIH），AI写作痕迹越多的申请越有可能获得资助；AI痕迹较多的资助项目在头一两年内发表的论文也略多，但集中在常规研究，而非高被引的突破性成果。"
+              },
+              {
+                "t": "p",
+                "x": "Northwestern University的Yifan Qian及其同事分析了来自两所U.S.大型研究型大学的1,600份NSF申请和4,100份NIH申请，以及57,000项NSF资助项目和74,000项NIH资助项目，项目起始时间为2021年至2025年。估计的AI参与度在2022年底之前保持平稳，从2023年起急剧上升。"
+              },
+              {
+                "t": "p",
+                "x": "AI参与度越高，独特性始终越低：参与度的百分位排名从第25位升至第75位时，NSF资助项目的独特性下降约5个百分位点，NIH资助项目下降约4个点。在NIH，同样的变化意味着获得资助的可能性高出约4个百分点，论文数量多出约百分之五；在NSF，这两种关联均不具统计显著性。"
+              },
+              {
+                "t": "p",
+                "x": "该研究属于观察性研究，无法证明AI工具会直接导致更保守的选题或更高的NIH资助几率。"
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "Gemini 에이전트 팀,\n기계 검증한 수학 증명",
-          "body": "Gemini 에이전트가 Courtade-Kumar 증명을 Lean 4로 완성했다.",
-          "mini_headline": "Gemini 에이전트 팀의 증명 형식화",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gweb-research2023-media/original_images/AntigravityTeamwork_HeroFinal.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Google Research가 Antigravity의 /teamwork 멀티에이전트 시스템이 거둔 최근 성과를 공개했다. 이 시스템은 Gemini 4 Argon, Gemini 4 Carbon, Gemini 4 Hydrogen을 활용해 인간과 AI의 협업(human-AI collaboration)을 강화하고, 수학·화학·시스템 소프트웨어·ML 엔지니어링 분야의 미해결 문제를 푼다. 병렬 탐색에 전담 반증기(예: Lean 4 증명 검사기, 수정하지 않은 소프트웨어 테스트 스위트, 실행 시뮬레이터)를 결합하고, 맥락을 나눠 각 전문 에이전트가 필요한 파일과 도구만 받도록 한다."
-              },
-              {
-                "t": "p",
-                "x": "Google, CUHK, USC, CMU 연구진은 /teamwork의 Long Proof 패턴으로 정보이론의 2013년 Courtade–Kumar 추측을 완전한 일반성에서 증명하고, 증명 전체를 Lean 4로 형식화했다(코드 5,000만 줄). /teamwork-LEAP은 완전히 자율적으로 Weil 추측의 기계 검증 형식화를 만들어냈으며, 그 규모는 28,800회의 하위 에이전트 호출에 걸친 약 180만 줄의 Lean 코드에 이른다."
-              },
-              {
-                "t": "p",
-                "x": "그 밖에 30개 에이전트로 NMR 구조 결정에서 95%의 top-1 정확 일치율을 기록했고, Zircon 마이크로커널용 안전한 Rust 코드 약 800,000줄을 작성했으며, 여드레가 채 안 되는 기간에 Elo를 약 2,600 끌어올린 9x9 바둑(Go) 엔진도 만들었다."
-              },
-              {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-research2023-media/media/AntigravityTeamwork_HillClimbing_1x.mp4"
-              },
-              {
-                "t": "p",
-                "x": "외부 과학자와 개발자는 오늘부터 Antigravity와 Deep Review에서 /teamwork 및 /boost와 함께 Gemini 4 모델을 쓸 수 있다. 학계 연구자 10,000명에게 최상위 사용 등급을 여섯 달 동안 무료로 제공하는 프로그램도 신청을 받고 있다."
-              }
-            ]
-          }
-        },
         "ja": {
-          "headline": "Geminiエージェント群が\n機械検証済みの数学証明",
-          "body": "GeminiエージェントがCourtade-Kumarの証明をLean 4で形式化した。",
-          "mini_headline": "Geminiエージェント群が証明を形式化",
+          "headline": "AI-assistedの\n研究費申請は採択テーマ寄り",
+          "body": "生成AIを使う科学者は、連邦の研究助成申請で過去に採択されたテーマに近い提案をしがちだ。",
+          "mini_headline": "AI-aidedの研究費申請は既知のテーマへ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-research2023-media/original_images/AntigravityTeamwork_HeroFinal.jpg"
+                "src": "https://www.psypost.org/wp-content/uploads/2025/11/artificial-intelligence.jpg",
+                "cap": "[Adobe Stock]"
               },
               {
                 "t": "p",
-                "x": "Google ResearchはAntigravityの/teamworkマルチエージェントシステムの最新成果を公開した。このシステムはGemini 4 Argon、Gemini 4 Carbon、Gemini 4 Hydrogenを用いて人間とAIの協働（human-AI collaboration）を強化し、数学、化学、システムソフトウェア、ML工学にわたる未解決問題に取り組む。並列探索と専用の反証器（Lean 4証明チェッカー、改変していないソフトウェアテストスイート、実行シミュレーターなど）を組み合わせ、コンテキストを分割して各専門エージェントに必要なファイルとツールだけを渡す。"
+                "x": "連邦の研究助成申請書の作成に生成人工知能を使う科学者は、最近採択されたプロジェクトにより近い研究テーマを提案する傾向がある。PNASに掲載された新たな研究が明らかにした。米国立衛生研究所(National Institutes of Health)では、AIによる執筆の痕跡が濃い申請ほど採択されやすく、AIの痕跡が多い採択課題はその後の一、二年で論文数がやや多かった。ただし増えたのは高被引用の画期的成果ではなく、定型的な研究だった。"
               },
               {
                 "t": "p",
-                "x": "Google、CUHK、USC、CMUの研究者は/teamworkのLong Proofパターンを使い、情報理論における2013年のCourtade–Kumar予想を完全な一般性で証明し、証明全体をLean 4で形式化した（コード5000万行）。/teamwork-LEAPは完全に自律的にWeil予想の機械検証済み形式化を生成し、その規模は28,800回のサブエージェント呼び出しにわたる約180万行のLeanに及ぶ。"
+                "x": "ノースウェスタン大学(Northwestern University)のYifan Qianらは、U.S.の大規模研究大学二校から出たNSF申請1,600件とNIH申請4,100件に加え、NSFの採択課題57,000件とNIHの採択課題74,000件を分析した。開始日は2021年から2025年である。推定されたAIの関与は2022年後半までは横ばいで、2023年から急増した。"
               },
               {
                 "t": "p",
-                "x": "ほかにも、30のエージェントによるNMR構造決定でのtop-1完全一致率95%、Zirconマイクロカーネル向けの安全なRustコード約800,000行、八日足らずでEloを約2,600伸ばした9x9の囲碁（Go）エンジンといった成果がある。"
-              },
-              {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-research2023-media/media/AntigravityTeamwork_HillClimbing_1x.mp4"
+                "x": "AIの関与が大きいほど、独自性は一貫して低かった。関与が25パーセンタイルから75パーセンタイルに移ると、NSFの課題では独自性が約5パーセンタイルポイント、NIHの課題では約4ポイント下がった。NIHでは同じ変化が、採択確率の約4パーセントポイント上昇と論文数の約5パーセント増加に対応した。NSFではどちらの関連も統計的に有意ではなかった。"
               },
               {
                 "t": "p",
-                "x": "外部の科学者や開発者は本日から、AntigravityとDeep Reviewで/teamworkや/boostとともにGemini 4モデルを利用できる。また、学術研究者10,000人に最上位の利用枠を六か月間無料で提供する募集も始まっている。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Gemini智能体团队\n交出机器验证的数学证明",
-          "body": "Gemini智能体并行协作，用Lean 4形式化了Courtade-Kumar证明。",
-          "mini_headline": "Gemini智能体团队形式化证明",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gweb-research2023-media/original_images/AntigravityTeamwork_HeroFinal.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Google Research公布了Antigravity的/teamwork多智能体系统的最新成果。该系统使用Gemini 4 Argon、Gemini 4 Carbon和Gemini 4 Hydrogen，强化人与AI的协作（human-AI collaboration），以解决数学、化学、系统软件和ML工程领域的开放问题。系统将并行探索与专门的证伪器（如Lean 4证明检查器、未经修改的软件测试套件、执行模拟器）相结合，并对上下文进行分区，使每个专职智能体只获得所需的文件和工具。"
-              },
-              {
-                "t": "p",
-                "x": "来自Google、CUHK、USC和CMU的研究人员利用/teamwork的Long Proof模式，在完全一般的情形下证明了信息论中2013年的Courtade–Kumar猜想，并用Lean 4将整个证明形式化（5000万行代码）。/teamwork-LEAP完全自主地完成了Weil猜想的机器验证形式化，涉及约180万行Lean代码和28,800次子智能体调用。"
-              },
-              {
-                "t": "p",
-                "x": "其他成果包括：用30个智能体在NMR结构解析中实现95%的top-1精确匹配；为Zircon微内核编写约800,000行安全的Rust代码；以及一个9x9围棋（Go）引擎，在不到八天内将Elo提升约2,600。"
-              },
-              {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-research2023-media/media/AntigravityTeamwork_HillClimbing_1x.mp4"
-              },
-              {
-                "t": "p",
-                "x": "外部科学家和开发者即日起可在Antigravity和Deep Review中将Gemini 4模型与/teamwork和/boost配合使用；同时开放申请，为10,000名学术研究人员提供六个月的最高使用等级免费访问权限。"
+                "x": "この研究は観察研究であり、AIツールがより無難なテーマ選びやNIHでの高い採択確率を直接もたらすとは立証できない。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Equipos de agentes Gemini\nlogran una prueba verificada",
-          "body": "/teamwork, de Google, usa agentes Gemini paralelos y verificadores para una prueba de Courtade-Kumar en Lean 4.",
-          "mini_headline": "Agentes Gemini formalizan una prueba",
+          "headline": "Las solicitudes AI-assisted\nse acercan a temas financiados",
+          "body": "Los científicos que usan AI generativa tienden a proponer solicitudes federales más cercanas a temas ya financiados.",
+          "mini_headline": "Solicitudes AI-aided, temas conocidos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-research2023-media/original_images/AntigravityTeamwork_HeroFinal.jpg"
+                "src": "https://www.psypost.org/wp-content/uploads/2025/11/artificial-intelligence.jpg",
+                "cap": "[Adobe Stock]"
               },
               {
                 "t": "p",
-                "x": "Google Research presentó resultados recientes de los sistemas multiagente /teamwork de Antigravity, que refuerzan la colaboración human-AI (entre humanos y AI) para resolver problemas abiertos en matemáticas, química, software de sistemas e ingeniería de ML, con Gemini 4 Argon, Gemini 4 Carbon y Gemini 4 Hydrogen. El sistema combina la exploración en paralelo con falsificadores dedicados (por ejemplo, el verificador de pruebas Lean 4, conjuntos de pruebas de software sin modificar y simuladores de ejecución) y divide el contexto para que cada agente especializado reciba solo los archivos y las herramientas que necesita."
+                "x": "Los científicos que usan inteligencia artificial generativa para redactar solicitudes de subvenciones federales tienden a proponer temas de investigación más parecidos a proyectos financiados recientemente, según un nuevo estudio publicado en PNAS. En los National Institutes of Health, las solicitudes con más rastros de escritura con AI tenían más probabilidades de obtener financiación, y a las subvenciones con más rastros de AI les siguieron algo más de publicaciones en el primer o segundo año, concentradas en estudios rutinarios y no en avances muy citados."
               },
               {
                 "t": "p",
-                "x": "Investigadores de Google, CUHK, USC y CMU usaron el patrón Long Proof de /teamwork para demostrar en plena generalidad la conjetura de Courtade–Kumar de 2013, de la teoría de la información, y formalizaron toda la prueba en Lean 4 (50 millones de líneas de código). /teamwork-LEAP produjo de forma totalmente autónoma una formalización verificada por máquina de las conjeturas de Weil, con unos 1.8 millones de líneas de Lean a lo largo de 28,800 invocaciones de subagentes."
+                "x": "Yifan Qian y sus colegas de la Northwestern University analizaron 1,600 propuestas a la NSF y 4,100 a los NIH procedentes de dos grandes universidades de investigación de U.S., además de 57,000 subvenciones financiadas por la NSF y 74,000 por los NIH, con fechas de inicio entre 2021 y 2025. La participación estimada de la AI se mantuvo estable hasta finales de 2022 y aumentó con fuerza a partir de 2023."
               },
               {
                 "t": "p",
-                "x": "Otros resultados incluyen un 95% de coincidencia exacta top-1 en la determinación de estructuras por NMR con 30 agentes, unas 800,000 líneas de Rust seguro para el microkernel Zircon y un motor de Go de 9x9 que ganó cerca de 2,600 puntos Elo en menos de ocho días."
-              },
-              {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-research2023-media/media/AntigravityTeamwork_HillClimbing_1x.mp4"
+                "x": "Una mayor participación de la AI se asoció de forma constante con menor singularidad: pasar del percentil 25 al 75 supuso una caída de unos 5 puntos percentiles en las subvenciones de la NSF y de unos 4 puntos en las de los NIH. En los NIH, ese mismo cambio implicó una probabilidad de obtener financiación unos 4 puntos porcentuales mayor y alrededor de un 5 por ciento más de publicaciones; en la NSF ninguna de las dos relaciones fue estadísticamente significativa."
               },
               {
                 "t": "p",
-                "x": "Científicos y desarrolladores externos ya pueden usar los modelos Gemini 4 con /teamwork y /boost en Antigravity y Deep Review, y está abierta la convocatoria que dará a 10,000 investigadores académicos seis meses de acceso gratuito al nivel de uso más alto."
+                "x": "El estudio es observacional y no puede establecer que las herramientas de AI causen directamente elecciones de temas más seguras ni mayores probabilidades de financiación en los NIH."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "AI-assisted 제안\n기존 지원 주제에 머문다",
+          "body": "생성형 AI를 쓰는 과학자는 연방 연구비 제안서를 기존 지원 주제에 가깝게 쓴다.",
+          "mini_headline": "AI 거친 연구비 제안, 익숙한 주제로",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.psypost.org/wp-content/uploads/2025/11/artificial-intelligence.jpg",
+                "cap": "[Adobe Stock]"
+              },
+              {
+                "t": "p",
+                "x": "PNAS에 실린 새 연구에 따르면, 생성형 인공지능(AI)의 도움을 받아 연방 연구비 신청서를 쓰는 과학자는 최근 지원을 받은 과제와 더 비슷한 연구 주제를 제안하는 경향이 있다. 미국 국립보건원(NIH)에서는 AI 글쓰기 흔적이 많은 신청서일수록 연구비를 받을 가능성이 높았고, AI 흔적이 많은 과제는 첫 한두 해 동안 논문을 조금 더 많이 냈다. 다만 그 논문은 많이 인용되는 획기적 성과보다 통상적인 연구에 몰려 있었다."
+              },
+              {
+                "t": "p",
+                "x": "Northwestern University의 Yifan Qian 연구팀은 U.S. 대형 연구중심대학 두 곳에서 나온 NSF 제안서 1,600건과 NIH 제안서 4,100건, 그리고 NSF 지원 과제 57,000건과 NIH 지원 과제 74,000건을 분석했다. 대상 과제의 시작 시점은 2021년부터 2025년까지다. 추정된 AI 관여도는 2022년 말 이전까지 평탄했고 2023년부터 가파르게 높아졌다."
+              },
+              {
+                "t": "p",
+                "x": "AI 관여도가 높을수록 독창성은 일관되게 낮았다. 관여도가 25번째에서 75번째 백분위로 올라가면 NSF 과제는 백분위 기준 약 5포인트, NIH 과제는 약 4포인트 떨어졌다. NIH에서는 같은 변화가 연구비 수주 가능성 약 4퍼센트포인트 상승, 논문 수 약 5퍼센트 증가로 이어졌다. NSF에서는 두 관계 모두 통계적으로 유의하지 않았다."
+              },
+              {
+                "t": "p",
+                "x": "이 연구는 관찰 연구여서, AI 도구가 더 안전한 주제 선택이나 더 높은 NIH 연구비 수주 확률을 직접 불러온다고 단정할 수는 없다."
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "AI-assisted申请\n更贴近已获资助课题",
+          "body": "使用生成式AI的科学家，往往让联邦科研基金申请更贴近此前已获资助的课题。",
+          "mini_headline": "AI辅助的基金申请趋于熟悉题材",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.psypost.org/wp-content/uploads/2025/11/artificial-intelligence.jpg",
+                "cap": "[Adobe Stock]"
+              },
+              {
+                "t": "p",
+                "x": "发表在PNAS上的一项新研究显示，借助生成式人工智能（AI）撰写联邦科研基金申请的科学家，提出的研究课题往往更接近近期获得资助的项目。在美国国立卫生研究院（NIH），AI写作痕迹越多的申请越有可能获得资助；AI痕迹较多的资助项目在头一两年内发表的论文也略多，但集中在常规研究，而非高被引的突破性成果。"
+              },
+              {
+                "t": "p",
+                "x": "Northwestern University的Yifan Qian及其同事分析了来自两所U.S.大型研究型大学的1,600份NSF申请和4,100份NIH申请，以及57,000项NSF资助项目和74,000项NIH资助项目，项目起始时间为2021年至2025年。估计的AI参与度在2022年底之前保持平稳，从2023年起急剧上升。"
+              },
+              {
+                "t": "p",
+                "x": "AI参与度越高，独特性始终越低：参与度的百分位排名从第25位升至第75位时，NSF资助项目的独特性下降约5个百分位点，NIH资助项目下降约4个点。在NIH，同样的变化意味着获得资助的可能性高出约4个百分点，论文数量多出约百分之五；在NSF，这两种关联均不具统计显著性。"
+              },
+              {
+                "t": "p",
+                "x": "该研究属于观察性研究，无法证明AI工具会直接导致更保守的选题或更高的NIH资助几率。"
               }
             ]
           }
@@ -355,141 +325,195 @@
       }
     },
     {
-      "id": "ucsb-phosphene-stimulation",
+      "id": "leafy-spurge-satellite-ai",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI, 시각장애인 뇌\n임플란트를 정밀 조율",
-      "body": "딥러닝이 설계한 피질 자극이 시각장애인의 뇌 활동을 의도에 더 가깝게 이끌었다.",
-      "mini_headline": "AI가 조율한 시각장애인 임플란트",
+      "headline": "위성과 AI가 추적한\n침입 잡초 리피 스퍼지",
+      "body": "미네소타 연구진이 위성·딥러닝·시민 데이터로 리피 스퍼지의 20년 확산을 그려냈다.",
+      "mini_headline": "궤도에서 리피 스퍼지 지도를 그리는 AI",
       "tool": "Science",
-      "source": "ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261110042553.htm",
+      "source": "Phys.org",
+      "url": "https://phys.org/news/2026-11-miles-earth-ai-tracks-invasive.html",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "UC Santa Barbara 등 세 기관 연구진이 실험용 시각 보철 장치의 뇌 자극 정밀도와, 사람이 무엇을 지각할지 예측하는 정확도를 AI로 높였다. 연구팀은 딥러닝 시스템으로 시각피질에 일시적으로 심은 전극용 전기 자극 패턴을 만들었다. 개념 증명 단계인 이번 연구는 학술지 Neuron 온라인판에 실렸다."
+            "t": "img",
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-field-of-leafy-spurg.jpg",
+            "cap": "사진: University of Minnesota"
           },
           {
             "t": "p",
-            "x": "참가자는 스페인 Hospital IMED Elche에서 시각피질에 전극 96개짜리 임플란트를 이식받은 27세 남성으로, 외상성 뇌손상 뒤 시력을 잃었다. 심층 신경망은 자극 전 뇌의 휴지기 활동까지 따져 자극 설정별 시각피질 반응을 예측했다. AI가 고른(AI-selected) 패턴은 비교 방법보다 적은 전류로 의도한 신경 활동을 더 정확히 끌어냈다. 기록된 뇌 활동은 자극 설정 자체보다 그가 지각한 내용을 더 잘 예측했다."
+            "x": "미네소타대학교(University of Minnesota) 연구진이 위성 영상과 AI 딥러닝 모델, 시민과학 데이터로 리피 스퍼지가 20년 동안 퍼져 나간 과정을 추적했다. 최근 Ecological Applications에 실린 결과는 이 유해 잡초와 싸우는 농민과 목장주, 토지 관리자에게 도움이 될 전망이다."
           },
           {
             "t": "p",
-            "x": "Michael Beyeler는 \"쓸모 있는 시각 보철은 고정된 처방에 기댈 수 없다\"며 \"개별 뇌가 어떻게 반응하는지 학습하고 그에 맞춰 자극을 조정해야 한다\"고 말했다. 이번 연구에는 UC Santa Barbara, ETH Zurich, Miguel Hernández University가 참여했다."
+            "x": "연구진은 iNaturalist 앱의 시민 관찰 기록을 비롯한 리피 스퍼지 실제 관측 자료를 모았다. 여기에 U.S. Geological Survey(미국 지질조사국)가 NASA 위성의 도움으로 제공하는 오픈소스 Landsat 영상을 더해 예측용 딥러닝 컴퓨터 모델을 학습시켰다."
+          },
+          {
+            "t": "p",
+            "x": "연구에 따르면 리피 스퍼지 개체량은 두 번의 십 년(2000–2021) 동안 570% 늘며 빠르게 불어났다. 확산은 주로 Fargo-Moorhead와 Minneapolis-Saint Paul 일대에서 일어났다. 이 식물은 도로 주변에서 자주 보였다. 위성 영상으로 새 침입지를 찾아내자 앞으로의 침입 예측도 나아졌다."
+          },
+          {
+            "t": "p",
+            "x": "Thomas Lake는 \"리피 스퍼지가 꽃을 피우면 누군가 풍경에 노란 형광펜을 칠한 것 같다. 워낙 샛노래서 위성에서도 보인다\"고 말했다. 연구팀은 앞으로 일곱 개 주에서 이 식물의 분포 지도를 만들 계획이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI fine-tunes a brain implant\nfor a blind volunteer",
-          "body": "A deep learning model designed cortical stimulation that better evoked intended brain activity in a blind volunteer.",
-          "mini_headline": "AI tunes a blind\nvolunteer's implant",
+          "headline": "Satellites and AI track\ninvasive leafy spurge",
+          "body": "Minnesota scientists used satellite imagery, deep learning and community data to map 20 years of leafy spurge spread.",
+          "mini_headline": "AI maps leafy spurge from orbit",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Researchers from three institutions, including UC Santa Barbara, have demonstrated that AI can improve how precisely an experimental visual prosthesis stimulates the brain and predicts what a person perceives. The team used a deep learning system to develop electrical stimulation patterns for electrodes temporarily implanted in the visual cortex. The proof-of-concept study was published online in the journal Neuron."
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-field-of-leafy-spurg.jpg",
+                "cap": "Credit: University of Minnesota"
               },
               {
                 "t": "p",
-                "x": "At Hospital IMED Elche in Spain, the team worked with a 27-year-old man who had become blind following a traumatic brain injury and had received an implant containing 96 electrodes in his visual cortex. A deep neural network predicted how the visual cortex would respond to different stimulation settings, also considering the brain's resting activity before stimulation. The AI-selected patterns generated the intended neural activity more accurately than comparison methods while requiring less electrical current, and recorded brain activity better predicted what he perceived than the stimulation settings themselves."
+                "x": "Harnessing satellite imagery, AI deep-learning models and community science data, scientists from the University of Minnesota have tracked the spread of leafy spurge over a 20-year period. Their findings, recently published in Ecological Applications, will help farmers, ranchers and land managers combat the spread of the noxious weed."
               },
               {
                 "t": "p",
-                "x": "\"A useful visual prosthesis cannot rely on a fixed recipe,\" said Michael Beyeler. \"It has to learn how an individual brain responds and adapt the stimulation accordingly.\" The work involved UC Santa Barbara, ETH Zurich, and Miguel Hernández University."
+                "x": "The researchers trained a predictive deep-learning computer model on real observations of leafy spurge—including community observations from the iNaturalist app—combined with open-source Landsat imagery provided by the U.S. Geological Survey with help from NASA satellites."
+              },
+              {
+                "t": "p",
+                "x": "The study found leafy spurge has rapidly increased in abundance (570%) over two decades (2000–2021), primarily around Fargo-Moorhead and Minneapolis-Saint Paul. It often appears near roadways, and detection of newly invaded areas from satellite imagery improved forecasts of future invasion."
+              },
+              {
+                "t": "p",
+                "x": "\"When leafy spurge flowers, it's like someone took a yellow highlighter to the landscape. It's so bright yellow, satellites can see it too,\" said Thomas Lake. The team plans to map the plant across a seven-state area."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI, 시각장애인 뇌\n임플란트를 정밀 조율",
-          "body": "딥러닝이 설계한 피질 자극이 시각장애인의 뇌 활동을 의도에 더 가깝게 이끌었다.",
-          "mini_headline": "AI가 조율한 시각장애인 임플란트",
+          "headline": "위성과 AI가 추적한\n침입 잡초 리피 스퍼지",
+          "body": "미네소타 연구진이 위성·딥러닝·시민 데이터로 리피 스퍼지의 20년 확산을 그려냈다.",
+          "mini_headline": "궤도에서 리피 스퍼지 지도를 그리는 AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "UC Santa Barbara 등 세 기관 연구진이 실험용 시각 보철 장치의 뇌 자극 정밀도와, 사람이 무엇을 지각할지 예측하는 정확도를 AI로 높였다. 연구팀은 딥러닝 시스템으로 시각피질에 일시적으로 심은 전극용 전기 자극 패턴을 만들었다. 개념 증명 단계인 이번 연구는 학술지 Neuron 온라인판에 실렸다."
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-field-of-leafy-spurg.jpg",
+                "cap": "사진: University of Minnesota"
               },
               {
                 "t": "p",
-                "x": "참가자는 스페인 Hospital IMED Elche에서 시각피질에 전극 96개짜리 임플란트를 이식받은 27세 남성으로, 외상성 뇌손상 뒤 시력을 잃었다. 심층 신경망은 자극 전 뇌의 휴지기 활동까지 따져 자극 설정별 시각피질 반응을 예측했다. AI가 고른(AI-selected) 패턴은 비교 방법보다 적은 전류로 의도한 신경 활동을 더 정확히 끌어냈다. 기록된 뇌 활동은 자극 설정 자체보다 그가 지각한 내용을 더 잘 예측했다."
+                "x": "미네소타대학교(University of Minnesota) 연구진이 위성 영상과 AI 딥러닝 모델, 시민과학 데이터로 리피 스퍼지가 20년 동안 퍼져 나간 과정을 추적했다. 최근 Ecological Applications에 실린 결과는 이 유해 잡초와 싸우는 농민과 목장주, 토지 관리자에게 도움이 될 전망이다."
               },
               {
                 "t": "p",
-                "x": "Michael Beyeler는 \"쓸모 있는 시각 보철은 고정된 처방에 기댈 수 없다\"며 \"개별 뇌가 어떻게 반응하는지 학습하고 그에 맞춰 자극을 조정해야 한다\"고 말했다. 이번 연구에는 UC Santa Barbara, ETH Zurich, Miguel Hernández University가 참여했다."
+                "x": "연구진은 iNaturalist 앱의 시민 관찰 기록을 비롯한 리피 스퍼지 실제 관측 자료를 모았다. 여기에 U.S. Geological Survey(미국 지질조사국)가 NASA 위성의 도움으로 제공하는 오픈소스 Landsat 영상을 더해 예측용 딥러닝 컴퓨터 모델을 학습시켰다."
+              },
+              {
+                "t": "p",
+                "x": "연구에 따르면 리피 스퍼지 개체량은 두 번의 십 년(2000–2021) 동안 570% 늘며 빠르게 불어났다. 확산은 주로 Fargo-Moorhead와 Minneapolis-Saint Paul 일대에서 일어났다. 이 식물은 도로 주변에서 자주 보였다. 위성 영상으로 새 침입지를 찾아내자 앞으로의 침입 예측도 나아졌다."
+              },
+              {
+                "t": "p",
+                "x": "Thomas Lake는 \"리피 스퍼지가 꽃을 피우면 누군가 풍경에 노란 형광펜을 칠한 것 같다. 워낙 샛노래서 위성에서도 보인다\"고 말했다. 연구팀은 앞으로 일곱 개 주에서 이 식물의 분포 지도를 만들 계획이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIが視覚障害者の\n脳インプラントを微調整",
-          "body": "深層学習が設計した皮質刺激が、視覚障害者の脳で意図した活動をより的確に引き出した。",
-          "mini_headline": "AIが視覚障害者のインプラントを調整",
+          "headline": "衛星とAIで追う\n外来雑草リーフィースパージ",
+          "body": "ミネソタの研究者が衛星・深層学習・市民データで雑草の20年の拡散を地図化した。",
+          "mini_headline": "軌道からリーフィースパージを描くAI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "UC Santa Barbaraを含む三つの機関の研究者が、実験的な視覚補綴が脳を刺激する精度と、人が何を知覚するかの予測精度を、AIで高められることを示した。研究チームは深層学習システムを使い、視覚野に一時的に埋め込んだ電極向けの電気刺激パターンを開発した。この概念実証研究は学術誌Neuronにオンライン掲載された。"
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-field-of-leafy-spurg.jpg",
+                "cap": "提供: University of Minnesota"
               },
               {
                 "t": "p",
-                "x": "チームはスペインのHospital IMED Elcheで、外傷性脳損傷により失明し、視覚野に96個の電極を備えたインプラントを埋め込んだ27歳の男性と研究を行った。深層ニューラルネットワークは、刺激前の脳の安静時活動も考慮しながら、刺激設定ごとに視覚野がどう反応するかを予測した。AIが選んだ（AI-selected）パターンは比較手法より少ない電流で意図した神経活動をより正確に生み出し、記録された脳活動は刺激設定そのものよりも本人の知覚をよく予測した。"
+                "x": "ミネソタ大学(University of Minnesota)の研究者らは、衛星画像とAIの深層学習モデル、市民科学のデータを活用し、リーフィースパージの20年にわたる拡散を追跡した。最近Ecological Applicationsに掲載された成果は、農家や牧場主、土地管理者がこの有害雑草の拡散に対処する助けとなる。"
               },
               {
                 "t": "p",
-                "x": "Michael Beyelerは「有用な視覚補綴は固定のレシピに頼れない。個々の脳がどう反応するかを学び、それに合わせて刺激を調整しなければならない」と述べた。研究にはUC Santa Barbara、ETH Zurich、Miguel Hernández Universityが参加した。"
+                "x": "研究チームは、iNaturalistアプリによる市民の観察記録を含むリーフィースパージの実観測データと、NASAの衛星の協力を得てU.S. Geological Survey(米地質調査所)が提供するオープンソースのLandsat画像を組み合わせ、予測用の深層学習モデルを訓練した。"
+              },
+              {
+                "t": "p",
+                "x": "研究によると、リーフィースパージは二十年間(2000–2021)で個体量が急増し(570%)、主にFargo-MoorheadとMinneapolis-Saint Paul周辺で広がった。道路沿いに現れることが多く、衛星画像で新たな侵入地を検出することで将来の侵入予測が向上した。"
+              },
+              {
+                "t": "p",
+                "x": "「リーフィースパージが花を咲かせると、誰かが風景に黄色の蛍光ペンを引いたようになる。あまりに鮮やかな黄色なので、衛星からも見える」とThomas Lakeは語る。チームは七つの州にわたってこの植物を地図化する計画だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI为盲人志愿者\n精调脑植入物",
-          "body": "深度学习模型设计的皮层刺激，在一名盲人志愿者脑中更好地诱发了预期的脑活动。",
-          "mini_headline": "AI为盲人志愿者调校植入物",
+          "headline": "卫星与AI追踪\n入侵杂草乳浆大戟",
+          "body": "明尼苏达科学家借助卫星影像、深度学习和社区数据，绘制了乳浆大戟20年的扩散。",
+          "mini_headline": "AI从轨道绘制乳浆大戟分布",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "包括UC Santa Barbara在内的三家机构的研究人员证明，AI能提高实验性视觉假体刺激大脑的精确度，并更准确地预测人所感知的内容。团队利用深度学习系统，为临时植入视觉皮层的电极设计电刺激模式。这项概念验证研究已在线发表于期刊Neuron。"
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-field-of-leafy-spurg.jpg",
+                "cap": "图片来源：University of Minnesota"
               },
               {
                 "t": "p",
-                "x": "团队在西班牙Hospital IMED Elche与一名27岁男子合作，他因创伤性脑损伤失明，视觉皮层中植入了含96个电极的装置。深度神经网络在考虑刺激前大脑静息活动的同时，预测视觉皮层对不同刺激设置的反应。由AI选择（AI-selected）的模式比对照方法更准确地产生了预期神经活动，所需电流也更少；记录到的脑活动比刺激设置本身更能预测他的感知。"
+                "x": "明尼苏达大学（University of Minnesota）的科学家借助卫星影像、AI深度学习模型和社区科学数据，追踪了乳浆大戟在20年间的扩散。这项成果近期发表于Ecological Applications，将帮助农民、牧场主和土地管理者遏制这种有害杂草的蔓延。"
               },
               {
                 "t": "p",
-                "x": "Michael Beyeler表示：“有用的视觉假体不能依赖固定配方，它必须学习每个大脑如何反应，并据此调整刺激。”参与这项研究的有UC Santa Barbara、ETH Zurich和Miguel Hernández University。"
+                "x": "研究人员将乳浆大戟的真实观测数据（包括来自iNaturalist应用的社区观测）与U.S. Geological Survey（美国地质调查局）在NASA卫星协助下提供的开源Landsat影像相结合，训练了一个预测性深度学习计算机模型。"
+              },
+              {
+                "t": "p",
+                "x": "研究发现，乳浆大戟在二十年间（2000–2021）数量迅速增加（570%），主要集中在Fargo-Moorhead和Minneapolis-Saint Paul一带。它常出现在道路附近，而利用卫星影像发现新入侵区域，提高了对未来入侵的预测能力。"
+              },
+              {
+                "t": "p",
+                "x": "“乳浆大戟开花时，就像有人拿黄色荧光笔在大地上涂过一样。那种黄色非常鲜亮，连卫星都能看到，”Thomas Lake说。团队计划在七个州的范围内绘制这种植物的分布图。"
               }
             ]
           }
         },
         "es": {
-          "headline": "AI afina un implante cerebral\npara un voluntario ciego",
-          "body": "Estímulos corticales diseñados por aprendizaje profundo evocaron mejor la actividad buscada en un voluntario ciego.",
-          "mini_headline": "La AI ajusta el implante de un voluntario ciego",
+          "headline": "Satélites y AI rastrean la\nlechetrezna invasora",
+          "body": "Científicos de Minnesota mapearon 20 años de avance de lechetrezna con satélites, deep learning y datos comunitarios.",
+          "mini_headline": "La AI cartografía la lechetrezna desde la órbita",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Investigadores de tres instituciones, entre ellas UC Santa Barbara, demostraron que la AI puede mejorar la precisión con que una prótesis visual experimental estimula el cerebro y predice lo que percibe una persona. El equipo usó un sistema de aprendizaje profundo para desarrollar patrones de estimulación eléctrica para electrodos implantados temporalmente en la corteza visual. El estudio de prueba de concepto se publicó en línea en la revista Neuron."
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-field-of-leafy-spurg.jpg",
+                "cap": "Crédito: University of Minnesota"
               },
               {
                 "t": "p",
-                "x": "En el Hospital IMED Elche, en España, el equipo trabajó con un hombre de 27 años que había quedado ciego tras una lesión cerebral traumática y que había recibido un implante con 96 electrodos en la corteza visual. Una red neuronal profunda predijo cómo respondería la corteza visual a distintas configuraciones de estimulación, teniendo en cuenta también la actividad cerebral en reposo previa a la estimulación. Los patrones AI-selected (seleccionados por la AI) generaron la actividad neural buscada con más precisión que los métodos de comparación y con menos corriente eléctrica, y la actividad cerebral registrada predijo mejor lo que él percibía que las propias configuraciones de estimulación."
+                "x": "Con imágenes satelitales, modelos de deep learning de AI y datos de ciencia ciudadana, científicos de la University of Minnesota han seguido la expansión de la lechetrezna durante un periodo de 20 años. Sus resultados, publicados recientemente en Ecological Applications, ayudarán a agricultores, ganaderos y gestores de tierras a frenar la propagación de esta maleza nociva."
               },
               {
                 "t": "p",
-                "x": "\"Una prótesis visual útil no puede depender de una receta fija\", dijo Michael Beyeler. \"Tiene que aprender cómo responde cada cerebro y adaptar la estimulación en consecuencia\". En el trabajo participaron UC Santa Barbara, ETH Zurich y la Universidad Miguel Hernández."
+                "x": "Los investigadores entrenaron un modelo informático predictivo de deep learning con observaciones reales de lechetrezna —incluidas observaciones ciudadanas de la app iNaturalist— combinadas con imágenes de código abierto de Landsat proporcionadas por el U.S. Geological Survey con ayuda de satélites de la NASA."
+              },
+              {
+                "t": "p",
+                "x": "El estudio halló que la abundancia de la lechetrezna aumentó con rapidez (570%) en dos décadas (2000–2021), sobre todo en torno a Fargo-Moorhead y Minneapolis-Saint Paul. Suele aparecer cerca de carreteras, y la detección de zonas recién invadidas con imágenes satelitales mejoró las previsiones de futuras invasiones."
+              },
+              {
+                "t": "p",
+                "x": "\"Cuando la lechetrezna florece, es como si alguien hubiera pasado un rotulador amarillo por el paisaje. Es de un amarillo tan intenso que los satélites también pueden verlo\", dijo Thomas Lake. El equipo prevé cartografiar la planta en una zona de siete estados."
               }
             ]
           }
@@ -497,89 +521,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI, 시각장애인 뇌\n임플란트를 정밀 조율",
-          "body": "딥러닝이 설계한 피질 자극이 시각장애인의 뇌 활동을 의도대로 더 잘 이끌었다.",
-          "mini_headline": "AI가 조율한 시각장애인 임플란트",
+          "headline": "위성과 AI가 추적한\n침입 잡초 리피 스퍼지",
+          "body": "미네소타 연구진이 위성·딥러닝·시민 데이터로 리피 스퍼지 20년 확산을 그렸다.",
+          "mini_headline": "궤도에서 리피 스퍼지 지도를 그리는 AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "UC Santa Barbara를 포함한 세 기관의 연구진이 AI로 실험용 시각 보철 장치가 뇌를 자극하는 정밀도와 사람이 지각하는 내용을 예측하는 정확도를 높일 수 있음을 보였다. 연구팀은 딥러닝 시스템으로 시각피질에 일시적으로 심은 전극에 쓸 전기 자극 패턴을 개발했다. 개념 증명 단계인 이번 연구는 학술지 Neuron에 온라인으로 실렸다."
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-field-of-leafy-spurg.jpg",
+                "cap": "사진: University of Minnesota"
               },
               {
                 "t": "p",
-                "x": "연구팀은 스페인 Hospital IMED Elche에서 외상성 뇌손상 뒤 시력을 잃고 시각피질에 전극 96개짜리 임플란트를 이식받은 27세 남성과 함께 연구했다. 심층 신경망은 자극 전 뇌의 휴지기 활동까지 고려해 자극 설정에 따라 시각피질이 어떻게 반응할지 예측했다. AI가 고른(AI-selected) 패턴은 비교 방법보다 적은 전류로 의도한 신경 활동을 더 정확히 만들어냈고, 기록된 뇌 활동은 자극 설정 자체보다 그가 지각한 내용을 더 잘 예측했다."
+                "x": "미네소타대학교(University of Minnesota) 연구진이 위성 영상과 AI 딥러닝 모델, 시민과학 데이터를 활용해 20년에 걸친 리피 스퍼지의 확산을 추적했다. 최근 Ecological Applications에 실린 이 결과는 농민과 목장주, 토지 관리자가 이 유해 잡초의 확산에 맞서는 데 도움이 될 전망이다."
               },
               {
                 "t": "p",
-                "x": "Michael Beyeler는 \"쓸모 있는 시각 보철은 고정된 처방에 기댈 수 없다\"며 \"개별 뇌가 어떻게 반응하는지 학습하고 그에 맞춰 자극을 조정해야 한다\"고 말했다. 이번 연구에는 UC Santa Barbara, ETH Zurich, Miguel Hernández University가 참여했다."
+                "x": "연구진은 iNaturalist 앱의 시민 관찰 기록을 포함한 리피 스퍼지 실제 관측 자료와, NASA 위성의 도움을 받아 U.S. Geological Survey(미국 지질조사국)가 제공한 오픈소스 Landsat 영상을 결합해 예측용 딥러닝 컴퓨터 모델을 학습시켰다."
+              },
+              {
+                "t": "p",
+                "x": "연구에 따르면 리피 스퍼지는 두 번의 십 년(2000–2021) 동안 개체량이 빠르게 늘었고(570%), 주로 Fargo-Moorhead와 Minneapolis-Saint Paul 일대에서 퍼졌다. 이 식물은 도로 주변에 자주 나타났고, 위성 영상으로 새 침입 지역을 찾아내자 향후 침입 예측도 나아졌다."
+              },
+              {
+                "t": "p",
+                "x": "Thomas Lake는 \"리피 스퍼지가 꽃을 피우면 누군가 풍경에 노란 형광펜을 칠한 것 같다. 워낙 샛노래서 위성에서도 보인다\"고 말했다. 연구팀은 일곱 개 주에 걸쳐 이 식물의 분포를 지도로 만들 계획이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIが視覚障害者の\n脳インプラントを微調整",
-          "body": "深層学習が設計した皮質刺激が、視覚障害者の脳で意図した活動をより的確に引き出した。",
-          "mini_headline": "AIが視覚障害者のインプラントを調整",
+          "headline": "衛星とAIで追う\n外来雑草リーフィースパージ",
+          "body": "ミネソタの研究者が衛星・深層学習・市民データで雑草の20年の拡散を地図化した。",
+          "mini_headline": "軌道からリーフィースパージを描くAI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "UC Santa Barbaraを含む三つの機関の研究者が、実験的な視覚補綴が脳を刺激する精度と、人が何を知覚するかの予測精度を、AIで高められることを示した。研究チームは深層学習システムを使い、視覚野に一時的に埋め込んだ電極向けの電気刺激パターンを開発した。この概念実証研究は学術誌Neuronにオンライン掲載された。"
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-field-of-leafy-spurg.jpg",
+                "cap": "提供: University of Minnesota"
               },
               {
                 "t": "p",
-                "x": "チームはスペインのHospital IMED Elcheで、外傷性脳損傷により失明し、視覚野に96個の電極を備えたインプラントを埋め込んだ27歳の男性と研究を行った。深層ニューラルネットワークは、刺激前の脳の安静時活動も考慮しながら、刺激設定ごとに視覚野がどう反応するかを予測した。AIが選んだ（AI-selected）パターンは比較手法より少ない電流で意図した神経活動をより正確に生み出し、記録された脳活動は刺激設定そのものよりも本人の知覚をよく予測した。"
+                "x": "ミネソタ大学(University of Minnesota)の研究者らは、衛星画像とAIの深層学習モデル、市民科学のデータを活用し、リーフィースパージの20年にわたる拡散を追跡した。最近Ecological Applicationsに掲載された成果は、農家や牧場主、土地管理者がこの有害雑草の拡散に対処する助けとなる。"
               },
               {
                 "t": "p",
-                "x": "Michael Beyelerは「有用な視覚補綴は固定のレシピに頼れない。個々の脳がどう反応するかを学び、それに合わせて刺激を調整しなければならない」と述べた。研究にはUC Santa Barbara、ETH Zurich、Miguel Hernández Universityが参加した。"
+                "x": "研究チームは、iNaturalistアプリによる市民の観察記録を含むリーフィースパージの実観測データと、NASAの衛星の協力を得てU.S. Geological Survey(米地質調査所)が提供するオープンソースのLandsat画像を組み合わせ、予測用の深層学習モデルを訓練した。"
+              },
+              {
+                "t": "p",
+                "x": "研究によると、リーフィースパージは二十年間(2000–2021)で個体量が急増し(570%)、主にFargo-MoorheadとMinneapolis-Saint Paul周辺で広がった。道路沿いに現れることが多く、衛星画像で新たな侵入地を検出することで将来の侵入予測が向上した。"
+              },
+              {
+                "t": "p",
+                "x": "「リーフィースパージが花を咲かせると、誰かが風景に黄色の蛍光ペンを引いたようになる。あまりに鮮やかな黄色なので、衛星からも見える」とThomas Lakeは語る。チームは七つの州にわたってこの植物を地図化する計画だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI为盲人志愿者\n精调脑植入物",
-          "body": "深度学习模型设计的皮层刺激，在一名盲人志愿者脑中更好地诱发了预期的脑活动。",
-          "mini_headline": "AI为盲人志愿者调校植入物",
+          "headline": "卫星与AI追踪\n入侵杂草乳浆大戟",
+          "body": "明尼苏达科学家借助卫星影像、深度学习和社区数据，绘制了乳浆大戟20年的扩散。",
+          "mini_headline": "AI从轨道绘制乳浆大戟分布",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "包括UC Santa Barbara在内的三家机构的研究人员证明，AI能提高实验性视觉假体刺激大脑的精确度，并更准确地预测人所感知的内容。团队利用深度学习系统，为临时植入视觉皮层的电极设计电刺激模式。这项概念验证研究已在线发表于期刊Neuron。"
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-field-of-leafy-spurg.jpg",
+                "cap": "图片来源：University of Minnesota"
               },
               {
                 "t": "p",
-                "x": "团队在西班牙Hospital IMED Elche与一名27岁男子合作，他因创伤性脑损伤失明，视觉皮层中植入了含96个电极的装置。深度神经网络在考虑刺激前大脑静息活动的同时，预测视觉皮层对不同刺激设置的反应。由AI选择（AI-selected）的模式比对照方法更准确地产生了预期神经活动，所需电流也更少；记录到的脑活动比刺激设置本身更能预测他的感知。"
+                "x": "明尼苏达大学（University of Minnesota）的科学家借助卫星影像、AI深度学习模型和社区科学数据，追踪了乳浆大戟在20年间的扩散。这项成果近期发表于Ecological Applications，将帮助农民、牧场主和土地管理者遏制这种有害杂草的蔓延。"
               },
               {
                 "t": "p",
-                "x": "Michael Beyeler表示：“有用的视觉假体不能依赖固定配方，它必须学习每个大脑如何反应，并据此调整刺激。”参与这项研究的有UC Santa Barbara、ETH Zurich和Miguel Hernández University。"
+                "x": "研究人员将乳浆大戟的真实观测数据（包括来自iNaturalist应用的社区观测）与U.S. Geological Survey（美国地质调查局）在NASA卫星协助下提供的开源Landsat影像相结合，训练了一个预测性深度学习计算机模型。"
+              },
+              {
+                "t": "p",
+                "x": "研究发现，乳浆大戟在二十年间（2000–2021）数量迅速增加（570%），主要集中在Fargo-Moorhead和Minneapolis-Saint Paul一带。它常出现在道路附近，而利用卫星影像发现新入侵区域，提高了对未来入侵的预测能力。"
+              },
+              {
+                "t": "p",
+                "x": "“乳浆大戟开花时，就像有人拿黄色荧光笔在大地上涂过一样。那种黄色非常鲜亮，连卫星都能看到，”Thomas Lake说。团队计划在七个州的范围内绘制这种植物的分布图。"
               }
             ]
           }
         },
         "es": {
-          "headline": "AI afina un implante cerebral\npara un voluntario ciego",
-          "body": "Estímulos corticales diseñados por aprendizaje profundo evocaron mejor la actividad buscada en un voluntario ciego.",
-          "mini_headline": "La AI ajusta el implante de un voluntario ciego",
+          "headline": "Satélites y AI rastrean la\nlechetrezna invasora",
+          "body": "Científicos de Minnesota mapearon 20 años de avance de lechetrezna con satélites, deep learning y datos comunitarios.",
+          "mini_headline": "La AI cartografía la lechetrezna desde la órbita",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Investigadores de tres instituciones, entre ellas UC Santa Barbara, demostraron que la AI puede mejorar la precisión con que una prótesis visual experimental estimula el cerebro y predice lo que percibe una persona. El equipo usó un sistema de aprendizaje profundo para desarrollar patrones de estimulación eléctrica para electrodos implantados temporalmente en la corteza visual. El estudio de prueba de concepto se publicó en línea en la revista Neuron."
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-field-of-leafy-spurg.jpg",
+                "cap": "Crédito: University of Minnesota"
               },
               {
                 "t": "p",
-                "x": "En el Hospital IMED Elche, en España, el equipo trabajó con un hombre de 27 años que había quedado ciego tras una lesión cerebral traumática y que había recibido un implante con 96 electrodos en la corteza visual. Una red neuronal profunda predijo cómo respondería la corteza visual a distintas configuraciones de estimulación, teniendo en cuenta también la actividad cerebral en reposo previa a la estimulación. Los patrones AI-selected (seleccionados por la AI) generaron la actividad neural buscada con más precisión que los métodos de comparación y con menos corriente eléctrica, y la actividad cerebral registrada predijo mejor lo que él percibía que las propias configuraciones de estimulación."
+                "x": "Con imágenes satelitales, modelos de deep learning de AI y datos de ciencia ciudadana, científicos de la University of Minnesota han seguido la expansión de la lechetrezna durante un periodo de 20 años. Sus resultados, publicados recientemente en Ecological Applications, ayudarán a agricultores, ganaderos y gestores de tierras a frenar la propagación de esta maleza nociva."
               },
               {
                 "t": "p",
-                "x": "\"Una prótesis visual útil no puede depender de una receta fija\", dijo Michael Beyeler. \"Tiene que aprender cómo responde cada cerebro y adaptar la estimulación en consecuencia\". En el trabajo participaron UC Santa Barbara, ETH Zurich y la Universidad Miguel Hernández."
+                "x": "Los investigadores entrenaron un modelo informático predictivo de deep learning con observaciones reales de lechetrezna —incluidas observaciones ciudadanas de la app iNaturalist— combinadas con imágenes de código abierto de Landsat proporcionadas por el U.S. Geological Survey con ayuda de satélites de la NASA."
+              },
+              {
+                "t": "p",
+                "x": "El estudio halló que la abundancia de la lechetrezna aumentó con rapidez (570%) en dos décadas (2000–2021), sobre todo en torno a Fargo-Moorhead y Minneapolis-Saint Paul. Suele aparecer cerca de carreteras, y la detección de zonas recién invadidas con imágenes satelitales mejoró las previsiones de futuras invasiones."
+              },
+              {
+                "t": "p",
+                "x": "\"Cuando la lechetrezna florece, es como si alguien hubiera pasado un rotulador amarillo por el paisaje. Es de un amarillo tan intenso que los satélites también pueden verlo\", dijo Thomas Lake. El equipo prevé cartografiar la planta en una zona de siete estados."
               }
             ]
           }
@@ -587,147 +647,219 @@
       }
     },
     {
-      "id": "tartu-muon-tomography",
+      "id": "materials-ai-less-data",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "머신러닝으로 더 선명해진\n우주선 뮤온 스캔",
-      "body": "직진·산란 뮤온을 함께 배운 모델이 모의실험 오병합을 약 15%에서 2%로 줄였다.",
-      "mini_headline": "AI로 선명해진 뮤온 스캔",
+      "headline": "신소재 발견에서\nAI 역할을 다시 본다",
+      "body": "연구진은 전자구조 예측 AI가 수백만 시뮬레이션을 다 배울 필요는 없다고 본다.",
+      "mini_headline": "더 적은 데이터로 충분한 소재 AI",
       "tool": "Science",
       "source": "Tech Xplore",
-      "url": "https://techxplore.com/news/2026-11-ai-cosmic-particle-scans-hidden.html",
+      "url": "https://techxplore.com/news/2026-11-faster-discovery-rethink-ai-role.html",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "University of Tartu Institute of Computer Science(타르투대 컴퓨터과학연구소) 연구진이 에스토니아 기업 GScan과 손잡고 우주 입자 측정값으로 물체 위치를 더 정확히 짚어내는 AI 기법을 연구한다. 교량 같은 대형 구조물 진단에 쓰일 수 있는 기술이다. 뮤온 단층촬영 데이터 작업을 이끄는 Kallol Roy 강사는 \"우리 목표는 인공지능이 복잡한 측정값을 더 정확하게 해석하도록 가르치는 것\"이라고 말했다."
-          },
-          {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-university-of.jpg",
-            "cap": "산란되는 뮤온의 경로. 숨겨진 물질이나 반입 금지 물질을 찾는 트럭 스캔에 쓰일 수 있음을 보여준다. 출처: IEEE Access (2026)"
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-12.jpg",
+            "cap": "사진: Unsplash/CC0 Public Domain"
           },
           {
             "t": "p",
-            "x": "지구 표면에는 매분 제곱미터당 약 10,000개의 뮤온이 쏟아진다. 뮤온은 수 미터 두께의 콘크리트·강철·암석도 뚫지만 측정이 느리고 잡음이 많다. 곧게 지나가는 뮤온도 휘어진 뮤온만큼 정보를 담고 있어, 연구팀은 두 데이터를 함께 읽는 머신러닝 모델을 만들었다. IEEE Access에 실린 결과를 보면 이 하이브리드 방법은 시뮬레이션에서 단일 데이터 모델과 표준 뮤온 영상 기법을 앞섰고, 잘못 병합된 물체 비율을 약 15%에서 2%로 낮췄다. 연구팀은 물질 14가지도 분석했다. 현장에서 널리 쓰이려면 개발과 시험이 더 필요하다."
+            "x": "새 소재 개발은 흔히 전자구조, 곧 소재 안에서 전자가 어떻게 배열되고 움직이는지 이해하는 데서 시작한다. 전자구조를 계산하려면 보통 슈퍼컴퓨터에서 비싼 시뮬레이션을 돌려야 한다. 그래서 연구자들은 예측 속도를 높이려고 수백만 개의 시뮬레이션 데이터로 인공지능 모델을 학습시켜 왔다."
+          },
+          {
+            "t": "p",
+            "x": "하지만 Michigan Tech 기계·항공우주공학과 Susanta Ghosh 부교수가 이끈 최근 연구에 따르면 학습 데이터가 그렇게 많을 필요는 없다. UCLA와 함께한 연구팀은 npj Computational Materials에 최근 낸 논문에서 학습 데이터의 90%를 버려도 AI 모델의 정확도가 거의 떨어지지 않는다는 점을 확인했다."
+          },
+          {
+            "t": "p",
+            "x": "학습 데이터의 99%를 없앤 뒤에도 예측 대부분이 높은 정확도를 지켰고 모델 학습은 세 배 이상 빨라졌다. 금속과 물, 복잡한 합금까지 폭넓은 소재에 들어맞는 결과다."
+          },
+          {
+            "t": "p",
+            "x": "Ghosh는 \"전자구조 데이터의 상당 부분은 같은 정보를 되풀이한다. 잘 고른 작은 표본만으로도 AI가 배워야 할 거의 모든 것을 담을 수 있다\"고 말했다."
+          },
+          {
+            "t": "p",
+            "x": "그는 \"대표적인 전자구조 데이터를 찾아내고 학습 시간을 최소 세 배 줄임으로써, 이 연구는 방대한 조성 공간에서 복잡한 합금의 AI-driven 발견을 앞당길 수 있다\"고 덧붙였다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Machine learning sharpens\ncosmic-ray muon scans",
-          "body": "In simulations, models trained on straight and scattered muons cut wrongly merged nearby objects from about 15% to 2%.",
-          "mini_headline": "AI sharpens\nmuon scans",
+          "headline": "Rethinking AI's role in\nnew materials discovery",
+          "body": "Researchers argue AI predicting materials' electronic structure need not train on millions of simulations.",
+          "mini_headline": "Materials AI, less data",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Researchers at the University of Tartu Institute of Computer Science are working with Estonian company GScan on AI methods that use cosmic-particle measurements to locate objects more accurately, which could help assess bridges and other large structures. Lecturer Kallol Roy leads the muon tomography data work: \"Our goal is to teach artificial intelligence to interpret complex measurements more accurately.\""
-              },
-              {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-university-of.jpg",
-                "cap": "A muon's path being scattered, illustrating a possible use: scanning trucks for concealed or prohibited materials. Credit: IEEE Access (2026)"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-12.jpg",
+                "cap": "Credit: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "About 10,000 muons strike each square meter of Earth's surface every minute and can pass through meters of concrete, steel, and rock, but measurements are slow and noisy. Straight-through muons are as informative as deflected ones, so the team built machine learning models that read both kinds of data at once; in simulations they outperformed single-data models and the standard muon imaging method, as published in IEEE Access. A hybrid method cut the proportion of incorrectly merged objects in simulations from approximately 15% to 2%. The team has also analyzed 14 materials, and wider real-world use still requires further development and testing."
+                "x": "Developing new materials often starts with understanding their electronic structure, or how electrons are arranged and behave within them. Calculating these electronic structures typically requires expensive simulations on supercomputers. That's led researchers to train artificial intelligence models on millions of simulated data points to make faster predictions."
+              },
+              {
+                "t": "p",
+                "x": "But according to a recent study led by associate professor Susanta Ghosh in Michigan Tech's Department of Mechanical and Aerospace Engineering, that much training data isn't necessary. In a study recently published in npj Computational Materials, the research team, collaborating with UCLA, found that AI models could discard 90% of their training data with virtually no loss in accuracy."
+              },
+              {
+                "t": "p",
+                "x": "Even after removing 99% of the training data, most predictions stayed highly accurate, while the models trained three or more times faster. The new findings apply to an expansive range of materials, including metals, water and complex alloys."
+              },
+              {
+                "t": "p",
+                "x": "\"Much of the electronic structure data repeats the same information. A small, well-chosen sample captures nearly everything the AI needs to learn,\" said Ghosh."
+              },
+              {
+                "t": "p",
+                "x": "\"By identifying representative electronic-structure data and reducing training time by at least threefold, this work can accelerate AI-driven discovery of complex alloys across vast composition spaces,\" he said."
               }
             ]
           }
         },
         "ko": {
-          "headline": "머신러닝으로 더 선명해진\n우주선 뮤온 스캔",
-          "body": "직진·산란 뮤온을 함께 배운 모델이 모의실험 오병합을 약 15%에서 2%로 줄였다.",
-          "mini_headline": "AI로 선명해진 뮤온 스캔",
+          "headline": "신소재 발견에서\nAI 역할을 다시 본다",
+          "body": "연구진은 전자구조 예측 AI가 수백만 시뮬레이션을 다 배울 필요는 없다고 본다.",
+          "mini_headline": "더 적은 데이터로 충분한 소재 AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "University of Tartu Institute of Computer Science(타르투대 컴퓨터과학연구소) 연구진이 에스토니아 기업 GScan과 손잡고 우주 입자 측정값으로 물체 위치를 더 정확히 짚어내는 AI 기법을 연구한다. 교량 같은 대형 구조물 진단에 쓰일 수 있는 기술이다. 뮤온 단층촬영 데이터 작업을 이끄는 Kallol Roy 강사는 \"우리 목표는 인공지능이 복잡한 측정값을 더 정확하게 해석하도록 가르치는 것\"이라고 말했다."
-              },
-              {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-university-of.jpg",
-                "cap": "산란되는 뮤온의 경로. 숨겨진 물질이나 반입 금지 물질을 찾는 트럭 스캔에 쓰일 수 있음을 보여준다. 출처: IEEE Access (2026)"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-12.jpg",
+                "cap": "사진: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "지구 표면에는 매분 제곱미터당 약 10,000개의 뮤온이 쏟아진다. 뮤온은 수 미터 두께의 콘크리트·강철·암석도 뚫지만 측정이 느리고 잡음이 많다. 곧게 지나가는 뮤온도 휘어진 뮤온만큼 정보를 담고 있어, 연구팀은 두 데이터를 함께 읽는 머신러닝 모델을 만들었다. IEEE Access에 실린 결과를 보면 이 하이브리드 방법은 시뮬레이션에서 단일 데이터 모델과 표준 뮤온 영상 기법을 앞섰고, 잘못 병합된 물체 비율을 약 15%에서 2%로 낮췄다. 연구팀은 물질 14가지도 분석했다. 현장에서 널리 쓰이려면 개발과 시험이 더 필요하다."
+                "x": "새 소재 개발은 흔히 전자구조, 곧 소재 안에서 전자가 어떻게 배열되고 움직이는지 이해하는 데서 시작한다. 전자구조를 계산하려면 보통 슈퍼컴퓨터에서 비싼 시뮬레이션을 돌려야 한다. 그래서 연구자들은 예측 속도를 높이려고 수백만 개의 시뮬레이션 데이터로 인공지능 모델을 학습시켜 왔다."
+              },
+              {
+                "t": "p",
+                "x": "하지만 Michigan Tech 기계·항공우주공학과 Susanta Ghosh 부교수가 이끈 최근 연구에 따르면 학습 데이터가 그렇게 많을 필요는 없다. UCLA와 함께한 연구팀은 npj Computational Materials에 최근 낸 논문에서 학습 데이터의 90%를 버려도 AI 모델의 정확도가 거의 떨어지지 않는다는 점을 확인했다."
+              },
+              {
+                "t": "p",
+                "x": "학습 데이터의 99%를 없앤 뒤에도 예측 대부분이 높은 정확도를 지켰고 모델 학습은 세 배 이상 빨라졌다. 금속과 물, 복잡한 합금까지 폭넓은 소재에 들어맞는 결과다."
+              },
+              {
+                "t": "p",
+                "x": "Ghosh는 \"전자구조 데이터의 상당 부분은 같은 정보를 되풀이한다. 잘 고른 작은 표본만으로도 AI가 배워야 할 거의 모든 것을 담을 수 있다\"고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "그는 \"대표적인 전자구조 데이터를 찾아내고 학습 시간을 최소 세 배 줄임으로써, 이 연구는 방대한 조성 공간에서 복잡한 합금의 AI-driven 발견을 앞당길 수 있다\"고 덧붙였다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "機械学習で鮮明になる\n宇宙線ミューオン撮像",
-          "body": "直進・散乱ミューオンで学習したモデルが、模擬実験で誤結合を約15%から2%に減らした。",
-          "mini_headline": "AIでミューオン撮像が鮮明に",
+          "headline": "新素材探索における\nAIの役割を見直す",
+          "body": "物質の電子構造を予測するAIに数百万件のシミュレーション学習は不要だと研究者は説く。",
+          "mini_headline": "少ないデータで足りる素材AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "University of Tartu Institute of Computer Science（タルトゥ大学コンピューター科学研究所）の研究者は、エストニア企業GScanと共同で、宇宙粒子の測定値を使って物体の位置をより正確に特定するAI手法に取り組んでいる。橋などの大型構造物の評価に役立つ可能性がある。ミューオントモグラフィーのデータ解析を率いる講師のKallol Royは「私たちの目標は、複雑な測定値をより正確に解釈するよう人工知能に教えることだ」と語る。"
-              },
-              {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-university-of.jpg",
-                "cap": "散乱するミューオンの経路。隠された物や禁制品を探すためのトラックのスキャンという用途の可能性を示す。クレジット：IEEE Access (2026)"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-12.jpg",
+                "cap": "提供: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "地表には毎分、平方メートルあたり約10,000個のミューオンが降り注ぎ、数メートルのコンクリートや鋼鉄、岩石も通り抜けるが、測定には時間がかかりノイズも多い。まっすぐ通り抜けるミューオンも曲げられたものと同じだけ情報を持つため、チームは両方のデータを同時に読み取る機械学習モデルを構築した。IEEE Accessに発表された結果によれば、シミュレーションでは単一データのモデルや標準的なミューオン画像化手法を上回った。ハイブリッド手法は、シミュレーションで誤って結合された物体の割合を約15%から2%に減らした。チームは14種類の物質も分析しているが、実地で広く使うにはさらなる開発と試験が必要だ。"
+                "x": "新素材の開発は多くの場合、電子構造、つまり物質内で電子がどう配置され、どう振る舞うかを理解することから始まる。電子構造の計算には通常、スーパーコンピューターでの高価なシミュレーションが必要だ。そのため研究者は、より速く予測するために数百万点のシミュレーションデータで人工知能モデルを訓練してきた。"
+              },
+              {
+                "t": "p",
+                "x": "しかし、Michigan Techの機械・航空宇宙工学科のSusanta Ghosh准教授が率いた最近の研究によれば、それほどの訓練データは必要ない。UCLAと共同で取り組んだ研究チームは、npj Computational Materialsに最近発表した論文で、AIモデルが訓練データの90%を捨てても精度がほとんど落ちないことを示した。"
+              },
+              {
+                "t": "p",
+                "x": "訓練データの99%を取り除いても大半の予測は高い精度を保ち、モデルの訓練は三倍以上速くなった。今回の知見は、金属や水、複雑な合金を含む幅広い物質に当てはまる。"
+              },
+              {
+                "t": "p",
+                "x": "「電子構造データの多くは同じ情報を繰り返している。よく選んだ小さなサンプルが、AIが学ぶべきことのほぼすべてを捉える」とGhoshは述べた。"
+              },
+              {
+                "t": "p",
+                "x": "「代表的な電子構造データを特定し、訓練時間を少なくとも三分の一に縮めることで、この研究は広大な組成空間にわたる複雑な合金のAI-drivenな発見を加速できる」と彼は語った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "机器学习让宇宙线\n缪子扫描更清晰",
-          "body": "模拟中，用直行与散射缪子训练的模型将相邻物体误合并率从约15%降至2%。",
-          "mini_headline": "AI让缪子扫描更清晰",
+          "headline": "重新审视AI在\n新材料发现中的角色",
+          "body": "研究人员认为，预测材料电子结构的AI无需用数百万次模拟来训练。",
+          "mini_headline": "材料AI，更少数据",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "University of Tartu Institute of Computer Science（塔尔图大学计算机科学研究所）的研究人员正与爱沙尼亚公司GScan合作，开发利用宇宙粒子测量更准确定位物体的AI方法，有望帮助评估桥梁等大型结构。负责缪子断层成像数据工作的讲师Kallol Roy表示：“我们的目标是教会人工智能更准确地解读复杂的测量数据。”"
-              },
-              {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-university-of.jpg",
-                "cap": "缪子路径发生散射，展示了一种可能的用途：扫描卡车以查找隐藏或违禁物品。图片来源：IEEE Access (2026)"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-12.jpg",
+                "cap": "图片来源：Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "每分钟约有10,000个缪子撞击地球表面的每平方米，它们能穿透数米厚的混凝土、钢材和岩石，但测量速度慢、噪声大。直穿的缪子与偏折的缪子同样富含信息，因此团队构建了能同时读取两类数据的机器学习模型；据发表于IEEE Access的论文，在模拟中这些模型优于单一数据模型和标准缪子成像方法。一种混合方法在模拟中将错误合并物体的比例从约15%降至2%。团队还分析了14种材料，更广泛的实际应用仍需进一步开发和测试。"
+                "x": "开发新材料往往始于理解其电子结构，即电子在材料内部如何排布和运动。计算电子结构通常需要在超级计算机上进行昂贵的模拟。因此，研究人员用数百万个模拟数据点训练人工智能模型，以便更快地做出预测。"
+              },
+              {
+                "t": "p",
+                "x": "但根据Michigan Tech机械与航空航天工程系副教授Susanta Ghosh领导的一项最新研究，并不需要那么多训练数据。研究团队与UCLA合作，在近期发表于npj Computational Materials的研究中发现，AI模型可以舍弃90%的训练数据，而准确度几乎不受影响。"
+              },
+              {
+                "t": "p",
+                "x": "即便去掉99%的训练数据，大多数预测仍保持很高的准确度，同时模型训练速度提高了三倍或更多。新发现适用于金属、水和复杂合金等广泛材料。"
+              },
+              {
+                "t": "p",
+                "x": "“大量电子结构数据在重复相同的信息。一个经过精心挑选的小样本，几乎涵盖了AI需要学习的全部内容，”Ghosh说。"
+              },
+              {
+                "t": "p",
+                "x": "“通过找出具有代表性的电子结构数据，并将训练时间缩短至少三倍，这项工作可以在广阔的成分空间中加速复杂合金的AI-driven发现，”他说。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El aprendizaje automático\nafina los escaneos de muones",
-          "body": "En simulaciones, modelos basados en muones rectos y dispersos redujeron las fusiones erróneas de cerca del 15% al 2%.",
-          "mini_headline": "La AI afina los escaneos de muones",
+          "headline": "Repensar el papel de la AI en\nla búsqueda de nuevos materiales",
+          "body": "Según investigadores, la AI que predice la estructura electrónica de materiales no requiere millones de simulaciones.",
+          "mini_headline": "AI de materiales con menos datos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Investigadores del Institute of Computer Science de la University of Tartu trabajan con la empresa estonia GScan en métodos de AI que usan mediciones de partículas cósmicas para localizar objetos con más precisión, lo que podría ayudar a evaluar puentes y otras grandes estructuras. El profesor Kallol Roy dirige el trabajo con datos de tomografía de muones: \"Nuestro objetivo es enseñar a la inteligencia artificial a interpretar mediciones complejas con más precisión\"."
-              },
-              {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-university-of.jpg",
-                "cap": "Trayectoria de un muon al dispersarse, que ilustra un posible uso: escanear camiones en busca de materiales ocultos o prohibidos. Crédito: IEEE Access (2026)"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-12.jpg",
+                "cap": "Crédito: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "Cada minuto, unos 10,000 muones llegan a cada metro cuadrado de la superficie terrestre y pueden atravesar metros de hormigón, acero y roca, pero las mediciones son lentas y ruidosas. Los muones que pasan en línea recta aportan tanta información como los desviados, así que el equipo creó modelos de aprendizaje automático que leen ambos tipos de datos a la vez; en simulaciones superaron a los modelos de un solo tipo de datos y al método estándar de imagen con muones, según se publicó en IEEE Access. Un método híbrido redujo en simulaciones la proporción de objetos fusionados por error de aproximadamente el 15% al 2%. El equipo también analizó 14 materiales, y un uso más amplio en el mundo real aún requiere más desarrollo y pruebas."
+                "x": "El desarrollo de nuevos materiales suele empezar por comprender su estructura electrónica, es decir, cómo se organizan y se comportan los electrones en su interior. Calcular estas estructuras electrónicas suele requerir costosas simulaciones en supercomputadoras. Por eso los investigadores han entrenado modelos de inteligencia artificial con millones de datos simulados para obtener predicciones más rápidas."
+              },
+              {
+                "t": "p",
+                "x": "Pero, según un estudio reciente dirigido por el profesor asociado Susanta Ghosh, del Departamento de Ingeniería Mecánica y Aeroespacial de Michigan Tech, no hacen falta tantos datos de entrenamiento. En un estudio publicado recientemente en npj Computational Materials, el equipo, en colaboración con UCLA, descubrió que los modelos de AI podían descartar el 90% de sus datos de entrenamiento prácticamente sin perder precisión."
+              },
+              {
+                "t": "p",
+                "x": "Incluso tras eliminar el 99% de los datos de entrenamiento, la mayoría de las predicciones siguieron siendo muy precisas, y los modelos se entrenaron tres o más veces más rápido. Los nuevos hallazgos se aplican a una amplia gama de materiales, como metales, agua y aleaciones complejas."
+              },
+              {
+                "t": "p",
+                "x": "\"Gran parte de los datos de estructura electrónica repite la misma información. Una muestra pequeña y bien elegida recoge casi todo lo que la AI necesita aprender\", afirmó Ghosh."
+              },
+              {
+                "t": "p",
+                "x": "\"Al identificar datos representativos de estructura electrónica y reducir el tiempo de entrenamiento al menos tres veces, este trabajo puede acelerar el descubrimiento AI-driven de aleaciones complejas en vastos espacios de composición\", dijo."
               }
             ]
           }
@@ -735,93 +867,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "머신러닝으로 더 선명해진\n우주선 뮤온 스캔",
-          "body": "직진·산란 뮤온 학습 모델이 모의실험에서 오병합을 약 15%에서 2%로 줄였다.",
-          "mini_headline": "AI로 선명해진 뮤온 스캔",
+          "headline": "신소재 발견에서\nAI의 역할을 다시 본다",
+          "body": "연구진은 전자구조 예측 AI가 수백만 시뮬레이션을 학습할 필요가 없다고 본다.",
+          "mini_headline": "더 적은 데이터로 충분한 소재 AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "University of Tartu Institute of Computer Science(타르투대 컴퓨터과학연구소) 연구진은 에스토니아 기업 GScan과 함께 우주 입자 측정값으로 물체 위치를 더 정확히 찾아내는 AI 기법을 연구하고 있다. 이는 교량을 비롯한 대형 구조물 진단에 도움이 될 수 있다. 뮤온 단층촬영 데이터 작업을 이끄는 Kallol Roy 강사는 \"우리 목표는 인공지능이 복잡한 측정값을 더 정확하게 해석하도록 가르치는 것\"이라고 말했다."
-              },
-              {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-university-of.jpg",
-                "cap": "산란되는 뮤온의 경로. 숨겨진 물질이나 반입 금지 물질을 찾는 트럭 스캔이라는 활용 가능성을 보여준다. 출처: IEEE Access (2026)"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-12.jpg",
+                "cap": "사진: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "지구 표면에는 매분 제곱미터마다 약 10,000개의 뮤온이 쏟아지며, 이들은 수 미터 두께의 콘크리트·강철·암석을 통과할 수 있지만 측정은 느리고 잡음이 많다. 곧게 통과하는 뮤온도 휘어진 뮤온만큼 정보가 많기 때문에 연구팀은 두 종류의 데이터를 동시에 읽는 머신러닝 모델을 만들었고, IEEE Access에 발표된 결과에 따르면 시뮬레이션에서 단일 데이터 모델과 표준 뮤온 영상 기법을 앞섰다. 하이브리드 방법은 시뮬레이션에서 잘못 병합된 물체 비율을 약 15%에서 2%로 낮췄다. 연구팀은 14가지 물질도 분석했으며, 현장에서 폭넓게 쓰이려면 추가 개발과 시험이 더 필요하다."
+                "x": "새로운 소재 개발은 흔히 전자구조, 즉 소재 안에서 전자가 어떻게 배열되고 움직이는지를 이해하는 데서 출발한다. 전자구조를 계산하려면 보통 슈퍼컴퓨터에서 비싼 시뮬레이션을 돌려야 한다. 그래서 연구자들은 더 빠른 예측을 위해 수백만 개의 시뮬레이션 데이터로 인공지능 모델을 학습시켜 왔다."
+              },
+              {
+                "t": "p",
+                "x": "그러나 Michigan Tech 기계·항공우주공학과 Susanta Ghosh 부교수가 이끈 최근 연구에 따르면 그만큼의 학습 데이터는 필요하지 않다. UCLA와 함께한 연구팀은 npj Computational Materials에 최근 발표한 논문에서, AI 모델이 학습 데이터의 90%를 버려도 정확도가 거의 떨어지지 않는다는 사실을 확인했다."
+              },
+              {
+                "t": "p",
+                "x": "학습 데이터의 99%를 없앤 뒤에도 대부분의 예측은 높은 정확도를 유지했고, 모델 학습 속도는 세 배 이상 빨라졌다. 이번 결과는 금속과 물, 복잡한 합금 등 폭넓은 소재에 적용된다."
+              },
+              {
+                "t": "p",
+                "x": "Ghosh는 \"전자구조 데이터의 상당 부분은 같은 정보를 되풀이한다. 잘 고른 작은 표본만으로도 AI가 배워야 할 거의 모든 것을 담을 수 있다\"고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "그는 \"대표적인 전자구조 데이터를 찾아내고 학습 시간을 최소 세 배 줄임으로써, 이 연구는 방대한 조성 공간에서 복잡한 합금의 AI-driven 발견을 앞당길 수 있다\"고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "機械学習で鮮明になる\n宇宙線ミューオン撮像",
-          "body": "直進・散乱ミューオンで学習したモデルが、模擬実験で誤結合を約15%から2%に減らした。",
-          "mini_headline": "AIでミューオン撮像が鮮明に",
+          "headline": "新素材探索における\nAIの役割を見直す",
+          "body": "物質の電子構造を予測するAIに数百万件のシミュレーション学習は不要だと研究者は説く。",
+          "mini_headline": "少ないデータで足りる素材AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "University of Tartu Institute of Computer Science（タルトゥ大学コンピューター科学研究所）の研究者は、エストニア企業GScanと共同で、宇宙粒子の測定値を使って物体の位置をより正確に特定するAI手法に取り組んでいる。橋などの大型構造物の評価に役立つ可能性がある。ミューオントモグラフィーのデータ解析を率いる講師のKallol Royは「私たちの目標は、複雑な測定値をより正確に解釈するよう人工知能に教えることだ」と語る。"
-              },
-              {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-university-of.jpg",
-                "cap": "散乱するミューオンの経路。隠された物や禁制品を探すためのトラックのスキャンという用途の可能性を示す。クレジット：IEEE Access (2026)"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-12.jpg",
+                "cap": "提供: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "地表には毎分、平方メートルあたり約10,000個のミューオンが降り注ぎ、数メートルのコンクリートや鋼鉄、岩石も通り抜けるが、測定には時間がかかりノイズも多い。まっすぐ通り抜けるミューオンも曲げられたものと同じだけ情報を持つため、チームは両方のデータを同時に読み取る機械学習モデルを構築した。IEEE Accessに発表された結果によれば、シミュレーションでは単一データのモデルや標準的なミューオン画像化手法を上回った。ハイブリッド手法は、シミュレーションで誤って結合された物体の割合を約15%から2%に減らした。チームは14種類の物質も分析しているが、実地で広く使うにはさらなる開発と試験が必要だ。"
+                "x": "新素材の開発は多くの場合、電子構造、つまり物質内で電子がどう配置され、どう振る舞うかを理解することから始まる。電子構造の計算には通常、スーパーコンピューターでの高価なシミュレーションが必要だ。そのため研究者は、より速く予測するために数百万点のシミュレーションデータで人工知能モデルを訓練してきた。"
+              },
+              {
+                "t": "p",
+                "x": "しかし、Michigan Techの機械・航空宇宙工学科のSusanta Ghosh准教授が率いた最近の研究によれば、それほどの訓練データは必要ない。UCLAと共同で取り組んだ研究チームは、npj Computational Materialsに最近発表した論文で、AIモデルが訓練データの90%を捨てても精度がほとんど落ちないことを示した。"
+              },
+              {
+                "t": "p",
+                "x": "訓練データの99%を取り除いても大半の予測は高い精度を保ち、モデルの訓練は三倍以上速くなった。今回の知見は、金属や水、複雑な合金を含む幅広い物質に当てはまる。"
+              },
+              {
+                "t": "p",
+                "x": "「電子構造データの多くは同じ情報を繰り返している。よく選んだ小さなサンプルが、AIが学ぶべきことのほぼすべてを捉える」とGhoshは述べた。"
+              },
+              {
+                "t": "p",
+                "x": "「代表的な電子構造データを特定し、訓練時間を少なくとも三分の一に縮めることで、この研究は広大な組成空間にわたる複雑な合金のAI-drivenな発見を加速できる」と彼は語った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "机器学习让宇宙线\n缪子扫描更清晰",
-          "body": "模拟中，用直行与散射缪子训练的模型将相邻物体误合并率从约15%降至2%。",
-          "mini_headline": "AI让缪子扫描更清晰",
+          "headline": "重新审视AI在\n新材料发现中的角色",
+          "body": "研究人员认为，预测材料电子结构的AI无需用数百万次模拟来训练。",
+          "mini_headline": "材料AI，更少数据",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "University of Tartu Institute of Computer Science（塔尔图大学计算机科学研究所）的研究人员正与爱沙尼亚公司GScan合作，开发利用宇宙粒子测量更准确定位物体的AI方法，有望帮助评估桥梁等大型结构。负责缪子断层成像数据工作的讲师Kallol Roy表示：“我们的目标是教会人工智能更准确地解读复杂的测量数据。”"
-              },
-              {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-university-of.jpg",
-                "cap": "缪子路径发生散射，展示了一种可能的用途：扫描卡车以查找隐藏或违禁物品。图片来源：IEEE Access (2026)"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-12.jpg",
+                "cap": "图片来源：Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "每分钟约有10,000个缪子撞击地球表面的每平方米，它们能穿透数米厚的混凝土、钢材和岩石，但测量速度慢、噪声大。直穿的缪子与偏折的缪子同样富含信息，因此团队构建了能同时读取两类数据的机器学习模型；据发表于IEEE Access的论文，在模拟中这些模型优于单一数据模型和标准缪子成像方法。一种混合方法在模拟中将错误合并物体的比例从约15%降至2%。团队还分析了14种材料，更广泛的实际应用仍需进一步开发和测试。"
+                "x": "开发新材料往往始于理解其电子结构，即电子在材料内部如何排布和运动。计算电子结构通常需要在超级计算机上进行昂贵的模拟。因此，研究人员用数百万个模拟数据点训练人工智能模型，以便更快地做出预测。"
+              },
+              {
+                "t": "p",
+                "x": "但根据Michigan Tech机械与航空航天工程系副教授Susanta Ghosh领导的一项最新研究，并不需要那么多训练数据。研究团队与UCLA合作，在近期发表于npj Computational Materials的研究中发现，AI模型可以舍弃90%的训练数据，而准确度几乎不受影响。"
+              },
+              {
+                "t": "p",
+                "x": "即便去掉99%的训练数据，大多数预测仍保持很高的准确度，同时模型训练速度提高了三倍或更多。新发现适用于金属、水和复杂合金等广泛材料。"
+              },
+              {
+                "t": "p",
+                "x": "“大量电子结构数据在重复相同的信息。一个经过精心挑选的小样本，几乎涵盖了AI需要学习的全部内容，”Ghosh说。"
+              },
+              {
+                "t": "p",
+                "x": "“通过找出具有代表性的电子结构数据，并将训练时间缩短至少三倍，这项工作可以在广阔的成分空间中加速复杂合金的AI-driven发现，”他说。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El aprendizaje automático\nafina los escaneos de muones",
-          "body": "En simulaciones, modelos basados en muones rectos y dispersos redujeron las fusiones erróneas de cerca del 15% al 2%.",
-          "mini_headline": "La AI afina los escaneos de muones",
+          "headline": "Repensar el papel de la AI en\nla búsqueda de nuevos materiales",
+          "body": "Según investigadores, la AI que predice la estructura electrónica de materiales no requiere millones de simulaciones.",
+          "mini_headline": "AI de materiales con menos datos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Investigadores del Institute of Computer Science de la University of Tartu trabajan con la empresa estonia GScan en métodos de AI que usan mediciones de partículas cósmicas para localizar objetos con más precisión, lo que podría ayudar a evaluar puentes y otras grandes estructuras. El profesor Kallol Roy dirige el trabajo con datos de tomografía de muones: \"Nuestro objetivo es enseñar a la inteligencia artificial a interpretar mediciones complejas con más precisión\"."
-              },
-              {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-university-of.jpg",
-                "cap": "Trayectoria de un muon al dispersarse, que ilustra un posible uso: escanear camiones en busca de materiales ocultos o prohibidos. Crédito: IEEE Access (2026)"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-12.jpg",
+                "cap": "Crédito: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "Cada minuto, unos 10,000 muones llegan a cada metro cuadrado de la superficie terrestre y pueden atravesar metros de hormigón, acero y roca, pero las mediciones son lentas y ruidosas. Los muones que pasan en línea recta aportan tanta información como los desviados, así que el equipo creó modelos de aprendizaje automático que leen ambos tipos de datos a la vez; en simulaciones superaron a los modelos de un solo tipo de datos y al método estándar de imagen con muones, según se publicó en IEEE Access. Un método híbrido redujo en simulaciones la proporción de objetos fusionados por error de aproximadamente el 15% al 2%. El equipo también analizó 14 materiales, y un uso más amplio en el mundo real aún requiere más desarrollo y pruebas."
+                "x": "El desarrollo de nuevos materiales suele empezar por comprender su estructura electrónica, es decir, cómo se organizan y se comportan los electrones en su interior. Calcular estas estructuras electrónicas suele requerir costosas simulaciones en supercomputadoras. Por eso los investigadores han entrenado modelos de inteligencia artificial con millones de datos simulados para obtener predicciones más rápidas."
+              },
+              {
+                "t": "p",
+                "x": "Pero, según un estudio reciente dirigido por el profesor asociado Susanta Ghosh, del Departamento de Ingeniería Mecánica y Aeroespacial de Michigan Tech, no hacen falta tantos datos de entrenamiento. En un estudio publicado recientemente en npj Computational Materials, el equipo, en colaboración con UCLA, descubrió que los modelos de AI podían descartar el 90% de sus datos de entrenamiento prácticamente sin perder precisión."
+              },
+              {
+                "t": "p",
+                "x": "Incluso tras eliminar el 99% de los datos de entrenamiento, la mayoría de las predicciones siguieron siendo muy precisas, y los modelos se entrenaron tres o más veces más rápido. Los nuevos hallazgos se aplican a una amplia gama de materiales, como metales, agua y aleaciones complejas."
+              },
+              {
+                "t": "p",
+                "x": "\"Gran parte de los datos de estructura electrónica repite la misma información. Una muestra pequeña y bien elegida recoge casi todo lo que la AI necesita aprender\", afirmó Ghosh."
+              },
+              {
+                "t": "p",
+                "x": "\"Al identificar datos representativos de estructura electrónica y reducir el tiempo de entrenamiento al menos tres veces, este trabajo puede acelerar el descubrimiento AI-driven de aleaciones complejas en vastos espacios de composición\", dijo."
               }
             ]
           }
@@ -829,15 +1009,15 @@
       }
     },
     {
-      "id": "brainit-fmri-reconstruction",
+      "id": "qudit-quantum-neural-net",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Brain-IT가 fMRI\n스캔에서 본 그림 복원",
-      "body": "Brain-IT는 fMRI 한 시간치로 40시간 쓴 방법만큼 본 장면을 복원한다.",
-      "mini_headline": "fMRI에서 그림을 읽는 Brain-IT",
+      "headline": "큐디트 뉴런으로\n커지는 양자 신경망",
+      "body": "큐비트를 늘리는 대신 고차원 큐디트 뉴런으로 양자 신경망의 규모를 키웠다.",
+      "mini_headline": "qudit 뉴런으로 키우는 양자 AI",
       "tool": "Science",
-      "source": "Live Science",
-      "url": "https://www.livescience.com/technology/artificial-intelligence/this-ai-finds-patterns-in-visual-brain-activity-and-turns-them-into-pictures",
+      "source": "Tech Xplore",
+      "url": "https://techxplore.com/news/2026-11-quantum-neural-networks-high-dimensional.html",
       "accent": "#eb367f",
       "motif": "sphere",
       "full": {
@@ -845,155 +1025,209 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/BVofRKX8x3iWuYZNW7tcGZ-2000-80.jpg"
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/quantum-neural-network-1.jpg",
+            "cap": "고차원 양자 뉴런의 구축과 학습. 사진: University of Science and Technology of China"
           },
           {
             "t": "p",
-            "x": "인공지능(AI) 도구가 뇌 스캔만으로 사람이 본 이미지를 섬뜩할 만큼 정확하게 되살려낸다. Brain-IT라는 이 시스템은 시각피질 fMRI 데이터를 쓴다. 모델이 이미지의 전체 배치와 내용에 관한 고수준 정보를 함께 예측해 AI 이미지 생성기에 넘기는 방식이다. 바탕은 이미지에 대한 fMRI 반응을 예측하는 Universal Brain Encoder이고, 뇌 스캔 측정값은 서로 단서를 공유하는 128개 그룹으로 나눈다."
+            "x": "양자 신경망은 어떻게 키울까. 뉴런 역할을 하는 큐비트를 더 늘리는 방법이 있다. National Science Review에 실린 \"Quantum neural network equipped with backpropagation on a qudit processor\" 연구는 다른 길을 택했다."
+          },
+          {
+            "t": "p",
+            "x": "중국과학기술대학(University of Science and Technology of China)의 Li Zhaokai 부교수와 Lin Yiheng 교수가 이끄는 연구진은 물리 단위 하나의 내부를 들여다보며 그 안의 에너지 준위를 더 많이 썼다. 덕분에 물리 단위를 늘리지 않고도 고차원 양자 뉴런을 만들었다."
+          },
+          {
+            "t": "p",
+            "x": "큐비트 수로 규모를 키우면 제어할 하드웨어도, 쌓이는 오류도 함께 늘어난다. 잡음이 많은 지금의 중간 규모 양자 장치에는 특히 버거운 일이다."
           },
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/CzwUQ4j4gQG6p5BRXYM9aT-1200-80.jpg",
-            "cap": "야구 경기 원본 이미지(왼쪽)와, 이 이미지를 본 사람의 뇌 활동으로 Brain-IT AI 모델이 만든 재구성 이미지(오른쪽)."
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/quantum-neural-network-2.jpg",
+            "cap": "바지와 풀오버를 구별하는 학습. 사진: University of Science and Technology of China"
           },
           {
             "t": "p",
-            "x": "Brain-IT는 표준 객관적 재구성 지표에서 기존 선도 방법들을 앞섰다. 새 참가자 데이터는 단 한 시간이면 됐고, 40시간 기록으로 학습한 기존 방식만큼 정확했다. 기억하거나 상상한 장면은 재현하지 못한다. 공동 저자인 Weizmann Institute of Science의 Michal Irani는 \"우리는 사람의 생각을 읽는 것이 아니다\"라고 말했다. 연구는 ICLR 2026에서 발표됐다."
+            "x": "연구팀은 칼슘 이온의 다섯 개 에너지 준위로 다준위 양자 프로세서를 꾸리고 고차원 양자 신경망을 실험으로 구현했다. 이 신경망은 Fashion-MNIST 데이터셋의 의류 이미지를 분류했는데, 395개 샘플로 된 테스트 세트에서 실험 분류 정확도가 95.7%에 이르렀다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Brain-IT turns fMRI scans\ninto the pictures people saw",
-          "body": "Brain-IT reconstructs seen images from fMRI scans, matching earlier methods with one hour of data instead of 40.",
-          "mini_headline": "Brain-IT reads\npictures from fMRI",
+          "headline": "Quantum neural networks\ngrow with qudit neurons",
+          "body": "In National Science Review, a quantum neural network scales up using high-dimensional qudit neurons, not more qubits.",
+          "mini_headline": "Qudit neurons scale quantum AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/BVofRKX8x3iWuYZNW7tcGZ-2000-80.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/quantum-neural-network-1.jpg",
+                "cap": "Building and training a high-dimensional quantum neuron. Credit: University of Science and Technology of China"
               },
               {
                 "t": "p",
-                "x": "An artificial intelligence (AI) tool can use brain scans to recreate the images people looked at with eerie accuracy. The system, called Brain-IT, uses fMRI data from the visual cortex; a model predicts both the broad layout of an image and high-level information about its content, then passes those predictions to an AI image generator. It builds on the Universal Brain Encoder, which predicts the fMRI response to an image, and sorts brain-scan measurements into 128 groups that share clues with one another."
+                "x": "How can we scale up a quantum neural network? One way is to add more qubits as neurons. But a study titled \"Quantum neural network equipped with backpropagation on a qudit processor\" published in National Science Review shows another way."
+              },
+              {
+                "t": "p",
+                "x": "Researchers from the University of Science and Technology of China, led by associate professor Li Zhaokai and professor Lin Yiheng, looked inside a single physical unit and used more of its energy levels. This allowed them to build a high-dimensional quantum neuron without adding physical units."
+              },
+              {
+                "t": "p",
+                "x": "Scaling up by adding more qubits brings more hardware to control and more errors to accumulate—especially challenging for today's noisy intermediate-scale quantum devices."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/CzwUQ4j4gQG6p5BRXYM9aT-1200-80.jpg",
-                "cap": "The original image of a baseball game (left) and the reconstruction (right) generated by the Brain-IT AI model based on the brain activity of a person viewing the image."
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/quantum-neural-network-2.jpg",
+                "cap": "Learning to distinguish pants from pullovers. Credit: University of Science and Technology of China"
               },
               {
                 "t": "p",
-                "x": "Brain-IT surpassed prior leading methods on standard objective reconstruction metrics, with just one hour of data from a new participant producing results as accurately as earlier approaches trained on 40 hours of recordings. It can't reproduce memories or imagined scenes. \"We're not reading people's thoughts,\" said co-author Michal Irani of the Weizmann Institute of Science. The research was presented at ICLR 2026."
+                "x": "Using five energy levels of a calcium ion, the team constructed a multilevel quantum processor and experimentally implemented a high-dimensional quantum neural network. The network classified clothing images from the Fashion-MNIST dataset, achieving an experimental classification accuracy of 95.7% on a test set of 395 samples."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Brain-IT가 fMRI\n스캔에서 본 그림 복원",
-          "body": "Brain-IT는 fMRI 한 시간치로 40시간 쓴 방법만큼 본 장면을 복원한다.",
-          "mini_headline": "fMRI에서 그림을 읽는 Brain-IT",
+          "headline": "큐디트 뉴런으로\n커지는 양자 신경망",
+          "body": "큐비트를 늘리는 대신 고차원 큐디트 뉴런으로 양자 신경망의 규모를 키웠다.",
+          "mini_headline": "qudit 뉴런으로 키우는 양자 AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/BVofRKX8x3iWuYZNW7tcGZ-2000-80.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/quantum-neural-network-1.jpg",
+                "cap": "고차원 양자 뉴런의 구축과 학습. 사진: University of Science and Technology of China"
               },
               {
                 "t": "p",
-                "x": "인공지능(AI) 도구가 뇌 스캔만으로 사람이 본 이미지를 섬뜩할 만큼 정확하게 되살려낸다. Brain-IT라는 이 시스템은 시각피질 fMRI 데이터를 쓴다. 모델이 이미지의 전체 배치와 내용에 관한 고수준 정보를 함께 예측해 AI 이미지 생성기에 넘기는 방식이다. 바탕은 이미지에 대한 fMRI 반응을 예측하는 Universal Brain Encoder이고, 뇌 스캔 측정값은 서로 단서를 공유하는 128개 그룹으로 나눈다."
+                "x": "양자 신경망은 어떻게 키울까. 뉴런 역할을 하는 큐비트를 더 늘리는 방법이 있다. National Science Review에 실린 \"Quantum neural network equipped with backpropagation on a qudit processor\" 연구는 다른 길을 택했다."
+              },
+              {
+                "t": "p",
+                "x": "중국과학기술대학(University of Science and Technology of China)의 Li Zhaokai 부교수와 Lin Yiheng 교수가 이끄는 연구진은 물리 단위 하나의 내부를 들여다보며 그 안의 에너지 준위를 더 많이 썼다. 덕분에 물리 단위를 늘리지 않고도 고차원 양자 뉴런을 만들었다."
+              },
+              {
+                "t": "p",
+                "x": "큐비트 수로 규모를 키우면 제어할 하드웨어도, 쌓이는 오류도 함께 늘어난다. 잡음이 많은 지금의 중간 규모 양자 장치에는 특히 버거운 일이다."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/CzwUQ4j4gQG6p5BRXYM9aT-1200-80.jpg",
-                "cap": "야구 경기 원본 이미지(왼쪽)와, 이 이미지를 본 사람의 뇌 활동으로 Brain-IT AI 모델이 만든 재구성 이미지(오른쪽)."
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/quantum-neural-network-2.jpg",
+                "cap": "바지와 풀오버를 구별하는 학습. 사진: University of Science and Technology of China"
               },
               {
                 "t": "p",
-                "x": "Brain-IT는 표준 객관적 재구성 지표에서 기존 선도 방법들을 앞섰다. 새 참가자 데이터는 단 한 시간이면 됐고, 40시간 기록으로 학습한 기존 방식만큼 정확했다. 기억하거나 상상한 장면은 재현하지 못한다. 공동 저자인 Weizmann Institute of Science의 Michal Irani는 \"우리는 사람의 생각을 읽는 것이 아니다\"라고 말했다. 연구는 ICLR 2026에서 발표됐다."
+                "x": "연구팀은 칼슘 이온의 다섯 개 에너지 준위로 다준위 양자 프로세서를 꾸리고 고차원 양자 신경망을 실험으로 구현했다. 이 신경망은 Fashion-MNIST 데이터셋의 의류 이미지를 분류했는데, 395개 샘플로 된 테스트 세트에서 실험 분류 정확도가 95.7%에 이르렀다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Brain-IT、fMRIで\n人が見た画像を再構成",
-          "body": "Brain-ITはfMRIから見た画像を再構成し、40時間でなく一時間分で従来法に並ぶ。",
-          "mini_headline": "Brain-ITがfMRIから画像を読む",
+          "headline": "quditニューロンで\n量子ニューラルネット拡張",
+          "body": "量子ニューラルネットを量子ビットの追加でなく高次元quditニューロンで拡張した研究だ。",
+          "mini_headline": "quditニューロンで量子AIを拡張",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/BVofRKX8x3iWuYZNW7tcGZ-2000-80.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/quantum-neural-network-1.jpg",
+                "cap": "高次元量子ニューロンの構築と訓練。提供: University of Science and Technology of China"
               },
               {
                 "t": "p",
-                "x": "人工知能（AI）ツールが脳スキャンを使い、人が見ていた画像を不気味なほど正確に再現できる。Brain-ITと呼ばれるこのシステムは視覚野のfMRIデータを用い、モデルが画像の大まかな配置と内容に関する高次の情報の両方を予測し、それをAI画像生成器に渡す。画像に対するfMRI応答を予測するUniversal Brain Encoderを基盤とし、脳スキャンの測定値を互いに手がかりを共有する128のグループに分ける。"
+                "x": "量子ニューラルネットワークの規模をどう拡大するか。一つの方法は、ニューロンとして量子ビットを増やすことだ。だが、National Science Reviewに掲載された研究「Quantum neural network equipped with backpropagation on a qudit processor」は別の道を示している。"
+              },
+              {
+                "t": "p",
+                "x": "中国科学技術大学(University of Science and Technology of China)のLi Zhaokai准教授とLin Yiheng教授が率いる研究者らは、単一の物理ユニットの内部に目を向け、そのエネルギー準位をより多く使った。これにより、物理ユニットを増やさずに高次元の量子ニューロンを構築できた。"
+              },
+              {
+                "t": "p",
+                "x": "量子ビットを増やして規模を拡大すると、制御すべきハードウェアが増え、蓄積する誤りも増える。これは今日のノイズのある中規模量子デバイスにとって特に難しい課題だ。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/CzwUQ4j4gQG6p5BRXYM9aT-1200-80.jpg",
-                "cap": "野球の試合の元画像（左）と、その画像を見ている人の脳活動をもとにBrain-IT AIモデルが生成した再構成画像（右）。"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/quantum-neural-network-2.jpg",
+                "cap": "ズボンとプルオーバーを見分ける学習。提供: University of Science and Technology of China"
               },
               {
                 "t": "p",
-                "x": "Brain-ITは標準的な客観的再構成指標でこれまでの主要手法を上回り、新たな参加者のわずか一時間のデータで、40時間の記録で訓練した従来手法と同等の精度の結果を出した。記憶や想像した場面は再現できない。共著者であるWeizmann Institute of ScienceのMichal Iraniは「私たちは人の思考を読んでいるわけではない」と述べた。研究はICLR 2026で発表された。"
+                "x": "研究チームはカルシウムイオンの五つのエネルギー準位を使って多準位の量子プロセッサーを構築し、高次元量子ニューラルネットワークを実験的に実装した。このネットワークはFashion-MNISTデータセットの衣類画像を分類し、395サンプルのテストセットで95.7%の実験的分類精度を達成した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Brain-IT将fMRI\n扫描还原为所见图像",
-          "body": "Brain-IT从fMRI扫描重建所见图像，只需一小时数据即可媲美需40小时的旧方法。",
-          "mini_headline": "Brain-IT从fMRI读出图像",
+          "headline": "以qudit神经元\n扩展量子神经网络",
+          "body": "一项量子神经网络研究不靠增加量子比特，而是用高维qudit神经元实现扩展。",
+          "mini_headline": "qudit神经元扩展量子AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/BVofRKX8x3iWuYZNW7tcGZ-2000-80.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/quantum-neural-network-1.jpg",
+                "cap": "构建并训练高维量子神经元。图片来源：University of Science and Technology of China"
               },
               {
                 "t": "p",
-                "x": "一款人工智能（AI）工具能利用脑部扫描，以近乎诡异的精度重现人们看过的图像。这套名为Brain-IT的系统使用视觉皮层的fMRI数据：模型同时预测图像的大致布局和有关其内容的高层信息，再将这些预测交给AI图像生成器。它以预测图像fMRI反应的Universal Brain Encoder为基础，并把脑扫描测量值分成128个彼此共享线索的组。"
+                "x": "如何扩大量子神经网络的规模？一种方法是增加作为神经元的量子比特。但发表于National Science Review、题为“Quantum neural network equipped with backpropagation on a qudit processor”的研究展示了另一条路径。"
+              },
+              {
+                "t": "p",
+                "x": "由中国科学技术大学（University of Science and Technology of China）副教授Li Zhaokai和教授Lin Yiheng带领的研究人员，深入单个物理单元内部，利用了其更多的能级。这使他们无需增加物理单元，就构建出高维量子神经元。"
+              },
+              {
+                "t": "p",
+                "x": "通过增加量子比特来扩大规模，会带来更多需要控制的硬件和更多累积的误差，这对当今含噪声的中等规模量子设备而言尤其困难。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/CzwUQ4j4gQG6p5BRXYM9aT-1200-80.jpg",
-                "cap": "棒球比赛的原始图像（左）与Brain-IT AI模型根据观看者脑活动生成的重建图像（右）。"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/quantum-neural-network-2.jpg",
+                "cap": "学习区分裤子与套头衫。图片来源：University of Science and Technology of China"
               },
               {
                 "t": "p",
-                "x": "Brain-IT在标准客观重建指标上超越了此前的领先方法，新参与者仅需一小时数据，就能达到此前用40小时记录训练的方法的准确度。它无法重现记忆或想象的场景。合著者、Weizmann Institute of Science的Michal Irani说：“我们并不是在读取人们的思想。”该研究已在ICLR 2026上发表。"
+                "x": "团队利用钙离子的五个能级构建了多能级量子处理器，并在实验中实现了高维量子神经网络。该网络对Fashion-MNIST数据集中的服装图像进行分类，在包含395个样本的测试集上取得了95.7%的实验分类准确率。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Brain-IT convierte la fMRI\nen las imágenes que se vieron",
-          "body": "Brain-IT reconstruye imágenes vistas desde la fMRI e iguala a métodos previos con una hora de datos, no 40.",
-          "mini_headline": "Brain-IT lee imágenes en la fMRI",
+          "headline": "Redes neuronales cuánticas\ncrecen con neuronas qudit",
+          "body": "En National Science Review, una red neuronal cuántica escala con neuronas qudit de alta dimensión, no con más qubits.",
+          "mini_headline": "Neuronas qudit amplían la AI cuántica",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/BVofRKX8x3iWuYZNW7tcGZ-2000-80.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/quantum-neural-network-1.jpg",
+                "cap": "Construcción y entrenamiento de una neurona cuántica de alta dimensión. Crédito: University of Science and Technology of China"
               },
               {
                 "t": "p",
-                "x": "Una herramienta de inteligencia artificial (AI) puede usar escáneres cerebrales para recrear con una precisión inquietante las imágenes que las personas miraban. El sistema, llamado Brain-IT, usa datos de fMRI de la corteza visual; un modelo predice tanto la disposición general de una imagen como información de alto nivel sobre su contenido y luego pasa esas predicciones a un generador de imágenes con AI. Se basa en el Universal Brain Encoder, que predice la respuesta de fMRI ante una imagen, y clasifica las mediciones de los escáneres en 128 grupos que comparten pistas entre sí."
+                "x": "¿Cómo se puede ampliar una red neuronal cuántica? Una forma es añadir más qubits como neuronas. Pero un estudio titulado \"Quantum neural network equipped with backpropagation on a qudit processor\", publicado en National Science Review, muestra otro camino."
+              },
+              {
+                "t": "p",
+                "x": "Investigadores de la University of Science and Technology of China, dirigidos por el profesor asociado Li Zhaokai y el profesor Lin Yiheng, examinaron el interior de una sola unidad física y aprovecharon más de sus niveles de energía. Así pudieron construir una neurona cuántica de alta dimensión sin añadir unidades físicas."
+              },
+              {
+                "t": "p",
+                "x": "Escalar añadiendo más qubits implica más hardware que controlar y más errores que se acumulan, algo especialmente difícil para los actuales dispositivos cuánticos ruidosos de escala intermedia."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/CzwUQ4j4gQG6p5BRXYM9aT-1200-80.jpg",
-                "cap": "La imagen original de un partido de béisbol (izquierda) y la reconstrucción (derecha) generada por el modelo de AI Brain-IT a partir de la actividad cerebral de una persona que veía la imagen."
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/quantum-neural-network-2.jpg",
+                "cap": "Aprender a distinguir pantalones de jerséis. Crédito: University of Science and Technology of China"
               },
               {
                 "t": "p",
-                "x": "Brain-IT superó a los principales métodos anteriores en las métricas objetivas estándar de reconstrucción: con solo una hora de datos de un nuevo participante obtuvo resultados tan precisos como enfoques previos entrenados con 40 horas de registros. No puede reproducir recuerdos ni escenas imaginadas. \"No estamos leyendo los pensamientos de la gente\", dijo la coautora Michal Irani, del Weizmann Institute of Science. La investigación se presentó en ICLR 2026."
+                "x": "Con cinco niveles de energía de un ion de calcio, el equipo construyó un procesador cuántico multinivel e implementó experimentalmente una red neuronal cuántica de alta dimensión. La red clasificó imágenes de ropa del conjunto de datos Fashion-MNIST y alcanzó una precisión experimental de clasificación del 95.7% en un conjunto de prueba de 395 muestras."
               }
             ]
           }
@@ -1001,109 +1235,145 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Brain-IT가 fMRI\n스캔에서 본 그림 복원",
-          "body": "Brain-IT는 fMRI 한 시간치로 40시간 쓴 방법만큼 본 장면을 복원한다.",
-          "mini_headline": "fMRI에서 그림을 읽는 Brain-IT",
+          "headline": "큐디트 뉴런으로\n커지는 양자 신경망",
+          "body": "양자 신경망이 큐비트를 늘리지 않고 고차원 큐디트 뉴런으로 규모를 키웠다.",
+          "mini_headline": "qudit 뉴런으로 키우는 양자 AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/BVofRKX8x3iWuYZNW7tcGZ-2000-80.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/quantum-neural-network-1.jpg",
+                "cap": "고차원 양자 뉴런의 구축과 학습. 사진: University of Science and Technology of China"
               },
               {
                 "t": "p",
-                "x": "인공지능(AI) 도구가 뇌 스캔으로 사람이 본 이미지를 섬뜩할 만큼 정확하게 재현할 수 있다. Brain-IT라는 이 시스템은 시각피질의 fMRI 데이터를 쓰며, 모델이 이미지의 전체 배치와 내용에 관한 고수준 정보를 함께 예측한 뒤 이를 AI 이미지 생성기에 넘긴다. 이미지에 대한 fMRI 반응을 예측하는 Universal Brain Encoder를 토대로 삼았고, 뇌 스캔 측정값을 서로 단서를 공유하는 128개 그룹으로 분류한다."
+                "x": "양자 신경망의 규모는 어떻게 키울 수 있을까. 한 가지 방법은 뉴런 역할을 하는 큐비트를 더 늘리는 것이다. 그러나 National Science Review에 실린 \"Quantum neural network equipped with backpropagation on a qudit processor\" 연구는 다른 길을 보여준다."
+              },
+              {
+                "t": "p",
+                "x": "중국과학기술대학(University of Science and Technology of China)의 Li Zhaokai 부교수와 Lin Yiheng 교수가 이끄는 연구진은 하나의 물리 단위 내부를 들여다보고 그 에너지 준위를 더 많이 활용했다. 덕분에 물리 단위를 늘리지 않고도 고차원 양자 뉴런을 만들 수 있었다."
+              },
+              {
+                "t": "p",
+                "x": "큐비트를 늘려 규모를 키우면 제어할 하드웨어가 늘고 누적되는 오류도 많아진다. 오늘날의 잡음이 많은 중간 규모 양자 장치에는 특히 어려운 문제다."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/CzwUQ4j4gQG6p5BRXYM9aT-1200-80.jpg",
-                "cap": "야구 경기 원본 이미지(왼쪽)와, 이 이미지를 보는 사람의 뇌 활동을 바탕으로 Brain-IT AI 모델이 생성한 재구성 이미지(오른쪽)."
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/quantum-neural-network-2.jpg",
+                "cap": "바지와 풀오버를 구별하는 학습. 사진: University of Science and Technology of China"
               },
               {
                 "t": "p",
-                "x": "Brain-IT는 표준 객관적 재구성 지표에서 기존 선도 방법들을 넘어섰으며, 새 참가자의 데이터 단 한 시간만으로 40시간 기록으로 학습한 기존 방식만큼 정확한 결과를 냈다. 기억이나 상상한 장면은 재현하지 못한다. 공동 저자인 Weizmann Institute of Science의 Michal Irani는 \"우리는 사람의 생각을 읽는 것이 아니다\"라고 말했다. 이 연구는 ICLR 2026에서 발표됐다."
+                "x": "연구팀은 칼슘 이온의 다섯 개 에너지 준위를 이용해 다준위 양자 프로세서를 구성하고, 고차원 양자 신경망을 실험으로 구현했다. 이 신경망은 Fashion-MNIST 데이터셋의 의류 이미지를 분류해, 395개 샘플로 이뤄진 테스트 세트에서 95.7%의 실험 분류 정확도를 기록했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Brain-IT、fMRIで\n人が見た画像を再構成",
-          "body": "Brain-ITはfMRIから見た画像を再構成し、40時間でなく一時間分で従来法に並ぶ。",
-          "mini_headline": "Brain-ITがfMRIから画像を読む",
+          "headline": "quditニューロンで\n量子ニューラルネット拡張",
+          "body": "量子ニューラルネットを量子ビットの追加でなく高次元quditニューロンで拡張した研究だ。",
+          "mini_headline": "quditニューロンで量子AIを拡張",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/BVofRKX8x3iWuYZNW7tcGZ-2000-80.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/quantum-neural-network-1.jpg",
+                "cap": "高次元量子ニューロンの構築と訓練。提供: University of Science and Technology of China"
               },
               {
                 "t": "p",
-                "x": "人工知能（AI）ツールが脳スキャンを使い、人が見ていた画像を不気味なほど正確に再現できる。Brain-ITと呼ばれるこのシステムは視覚野のfMRIデータを用い、モデルが画像の大まかな配置と内容に関する高次の情報の両方を予測し、それをAI画像生成器に渡す。画像に対するfMRI応答を予測するUniversal Brain Encoderを基盤とし、脳スキャンの測定値を互いに手がかりを共有する128のグループに分ける。"
+                "x": "量子ニューラルネットワークの規模をどう拡大するか。一つの方法は、ニューロンとして量子ビットを増やすことだ。だが、National Science Reviewに掲載された研究「Quantum neural network equipped with backpropagation on a qudit processor」は別の道を示している。"
+              },
+              {
+                "t": "p",
+                "x": "中国科学技術大学(University of Science and Technology of China)のLi Zhaokai准教授とLin Yiheng教授が率いる研究者らは、単一の物理ユニットの内部に目を向け、そのエネルギー準位をより多く使った。これにより、物理ユニットを増やさずに高次元の量子ニューロンを構築できた。"
+              },
+              {
+                "t": "p",
+                "x": "量子ビットを増やして規模を拡大すると、制御すべきハードウェアが増え、蓄積する誤りも増える。これは今日のノイズのある中規模量子デバイスにとって特に難しい課題だ。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/CzwUQ4j4gQG6p5BRXYM9aT-1200-80.jpg",
-                "cap": "野球の試合の元画像（左）と、その画像を見ている人の脳活動をもとにBrain-IT AIモデルが生成した再構成画像（右）。"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/quantum-neural-network-2.jpg",
+                "cap": "ズボンとプルオーバーを見分ける学習。提供: University of Science and Technology of China"
               },
               {
                 "t": "p",
-                "x": "Brain-ITは標準的な客観的再構成指標でこれまでの主要手法を上回り、新たな参加者のわずか一時間のデータで、40時間の記録で訓練した従来手法と同等の精度の結果を出した。記憶や想像した場面は再現できない。共著者であるWeizmann Institute of ScienceのMichal Iraniは「私たちは人の思考を読んでいるわけではない」と述べた。研究はICLR 2026で発表された。"
+                "x": "研究チームはカルシウムイオンの五つのエネルギー準位を使って多準位の量子プロセッサーを構築し、高次元量子ニューラルネットワークを実験的に実装した。このネットワークはFashion-MNISTデータセットの衣類画像を分類し、395サンプルのテストセットで95.7%の実験的分類精度を達成した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Brain-IT将fMRI\n扫描还原为所见图像",
-          "body": "Brain-IT从fMRI扫描重建所见图像，只需一小时数据即可媲美需40小时的旧方法。",
-          "mini_headline": "Brain-IT从fMRI读出图像",
+          "headline": "以qudit神经元\n扩展量子神经网络",
+          "body": "一项量子神经网络研究不靠增加量子比特，而是用高维qudit神经元实现扩展。",
+          "mini_headline": "qudit神经元扩展量子AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/BVofRKX8x3iWuYZNW7tcGZ-2000-80.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/quantum-neural-network-1.jpg",
+                "cap": "构建并训练高维量子神经元。图片来源：University of Science and Technology of China"
               },
               {
                 "t": "p",
-                "x": "一款人工智能（AI）工具能利用脑部扫描，以近乎诡异的精度重现人们看过的图像。这套名为Brain-IT的系统使用视觉皮层的fMRI数据：模型同时预测图像的大致布局和有关其内容的高层信息，再将这些预测交给AI图像生成器。它以预测图像fMRI反应的Universal Brain Encoder为基础，并把脑扫描测量值分成128个彼此共享线索的组。"
+                "x": "如何扩大量子神经网络的规模？一种方法是增加作为神经元的量子比特。但发表于National Science Review、题为“Quantum neural network equipped with backpropagation on a qudit processor”的研究展示了另一条路径。"
+              },
+              {
+                "t": "p",
+                "x": "由中国科学技术大学（University of Science and Technology of China）副教授Li Zhaokai和教授Lin Yiheng带领的研究人员，深入单个物理单元内部，利用了其更多的能级。这使他们无需增加物理单元，就构建出高维量子神经元。"
+              },
+              {
+                "t": "p",
+                "x": "通过增加量子比特来扩大规模，会带来更多需要控制的硬件和更多累积的误差，这对当今含噪声的中等规模量子设备而言尤其困难。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/CzwUQ4j4gQG6p5BRXYM9aT-1200-80.jpg",
-                "cap": "棒球比赛的原始图像（左）与Brain-IT AI模型根据观看者脑活动生成的重建图像（右）。"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/quantum-neural-network-2.jpg",
+                "cap": "学习区分裤子与套头衫。图片来源：University of Science and Technology of China"
               },
               {
                 "t": "p",
-                "x": "Brain-IT在标准客观重建指标上超越了此前的领先方法，新参与者仅需一小时数据，就能达到此前用40小时记录训练的方法的准确度。它无法重现记忆或想象的场景。合著者、Weizmann Institute of Science的Michal Irani说：“我们并不是在读取人们的思想。”该研究已在ICLR 2026上发表。"
+                "x": "团队利用钙离子的五个能级构建了多能级量子处理器，并在实验中实现了高维量子神经网络。该网络对Fashion-MNIST数据集中的服装图像进行分类，在包含395个样本的测试集上取得了95.7%的实验分类准确率。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Brain-IT convierte la fMRI\nen las imágenes que se vieron",
-          "body": "Brain-IT reconstruye imágenes vistas desde la fMRI e iguala a métodos previos con una hora de datos, no 40.",
-          "mini_headline": "Brain-IT lee imágenes en la fMRI",
+          "headline": "Redes neuronales cuánticas\ncrecen con neuronas qudit",
+          "body": "En National Science Review, una red neuronal cuántica escala con neuronas qudit de alta dimensión, no con más qubits.",
+          "mini_headline": "Neuronas qudit amplían la AI cuántica",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/BVofRKX8x3iWuYZNW7tcGZ-2000-80.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/quantum-neural-network-1.jpg",
+                "cap": "Construcción y entrenamiento de una neurona cuántica de alta dimensión. Crédito: University of Science and Technology of China"
               },
               {
                 "t": "p",
-                "x": "Una herramienta de inteligencia artificial (AI) puede usar escáneres cerebrales para recrear con una precisión inquietante las imágenes que las personas miraban. El sistema, llamado Brain-IT, usa datos de fMRI de la corteza visual; un modelo predice tanto la disposición general de una imagen como información de alto nivel sobre su contenido y luego pasa esas predicciones a un generador de imágenes con AI. Se basa en el Universal Brain Encoder, que predice la respuesta de fMRI ante una imagen, y clasifica las mediciones de los escáneres en 128 grupos que comparten pistas entre sí."
+                "x": "¿Cómo se puede ampliar una red neuronal cuántica? Una forma es añadir más qubits como neuronas. Pero un estudio titulado \"Quantum neural network equipped with backpropagation on a qudit processor\", publicado en National Science Review, muestra otro camino."
+              },
+              {
+                "t": "p",
+                "x": "Investigadores de la University of Science and Technology of China, dirigidos por el profesor asociado Li Zhaokai y el profesor Lin Yiheng, examinaron el interior de una sola unidad física y aprovecharon más de sus niveles de energía. Así pudieron construir una neurona cuántica de alta dimensión sin añadir unidades físicas."
+              },
+              {
+                "t": "p",
+                "x": "Escalar añadiendo más qubits implica más hardware que controlar y más errores que se acumulan, algo especialmente difícil para los actuales dispositivos cuánticos ruidosos de escala intermedia."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/CzwUQ4j4gQG6p5BRXYM9aT-1200-80.jpg",
-                "cap": "La imagen original de un partido de béisbol (izquierda) y la reconstrucción (derecha) generada por el modelo de AI Brain-IT a partir de la actividad cerebral de una persona que veía la imagen."
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/quantum-neural-network-2.jpg",
+                "cap": "Aprender a distinguir pantalones de jerséis. Crédito: University of Science and Technology of China"
               },
               {
                 "t": "p",
-                "x": "Brain-IT superó a los principales métodos anteriores en las métricas objetivas estándar de reconstrucción: con solo una hora de datos de un nuevo participante obtuvo resultados tan precisos como enfoques previos entrenados con 40 horas de registros. No puede reproducir recuerdos ni escenas imaginadas. \"No estamos leyendo los pensamientos de la gente\", dijo la coautora Michal Irani, del Weizmann Institute of Science. La investigación se presentó en ICLR 2026."
+                "x": "Con cinco niveles de energía de un ion de calcio, el equipo construyó un procesador cuántico multinivel e implementó experimentalmente una red neuronal cuántica de alta dimensión. La red clasificó imágenes de ropa del conjunto de datos Fashion-MNIST y alcanzó una precisión experimental de clasificación del 95.7% en un conjunto de prueba de 395 muestras."
               }
             ]
           }
@@ -1111,15 +1381,15 @@
       }
     },
     {
-      "id": "umich-chatbot-intimacy",
+      "id": "sciam-chess-ai-complexity",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "챗봇 연애의 친밀도,\n사람 관계와 비슷",
-      "body": "성인 463명 조사에서 챗봇 관계의 친밀도는 사람과 같았지만 외로움과 맞물렸다.",
-      "mini_headline": "챗봇 연애와 외로움",
+      "headline": "AI가 체스에 강한 건\n복잡성 덕일까",
+      "body": "복잡한 국면에 익숙하다는 점이 AI 체스 실력의 열쇠일 수 있다는 연구가 나왔다.",
+      "mini_headline": "복잡할수록 강해지는 AI 체스",
       "tool": "Science",
-      "source": "Phys.org",
-      "url": "https://phys.org/news/2026-11-romance-ai-explores-benefits-limits.html",
+      "source": "Scientific American",
+      "url": "https://www.scientificamerican.com/article/scientists-might-have-discovered-what-makes-ai-so-effective-at-chess/",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
@@ -1127,131 +1397,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chatbot-relationship.jpg",
-            "cap": "출처: Unsplash/CC0 Public Domain"
+            "src": "https://static.scientificamerican.com/dam/asset/1e99e951-c633-4384-8edb-9267b4a202c9/saw1226_0127Adva06.jpg?m=1793651269.904&w=1200",
+            "cap": "Thomas Fuchs"
           },
           {
             "t": "p",
-            "x": "University of Michigan의 Lionel Robert, Annette Masterson, Xin Ye는 미국(U.S.) 성인 463명을 조사했다. 챗봇과 관계를 맺은 155명, 원거리 관계인 153명, 대면 관계인 155명이다. 정서적·지적 친밀도는 세 집단이 비슷하게 평가했지만, 외로움·만족도·웰빙 양상은 챗봇 관계에서 달랐다. Robert는 \"그래야 하든 아니든, 사람들은 AI 챗봇과 관계를 맺고 있다\"고 말했다."
+            "x": "AI가 체스에 강한 비결은 복잡성을 편하게 다루는 능력일지 모른다. APS Open Science에 최근 실린 논문이 AI의 전략적 우위를 설명할 유력한 특징 하나를 짚었다. 연구 책임저자인 빈 Complexity Science Hub의 물리학자 Vito D. P. Servedio는 \"아마 우리 논문이 이 기계들이 무엇을 하는지 이해하는 데 가장 가까이 다가갔을 것\"이라고 말한다."
           },
           {
             "t": "p",
-            "x": "두 인간 관계 집단은 정서적 친밀도가 높을수록 덜 외로웠지만, 챗봇 사용자는 오히려 더 외로웠다. 관계 만족도도 함께 높았는데, 이 연관성은 사회적 지지를 고려하자 사라졌다. 성적 친밀도는 챗봇 집단과 원거리 집단에서 높은 만족도로 이어졌고, 지적 친밀도가 높은 챗봇 사용자는 만족도와 웰빙도 높았다. 연구는 Computers in Human Behavior: Artificial Humans에 실렸다."
+            "x": "연구진은 온라인 데이터베이스에서 사람 vs. 사람, Stockfish vs. Leela의 대국을 모은 뒤 '전략적 긴장도'를 쟀다. 서로 맞선 기물 사이에서 일어날 수 있는 상호작용의 수다."
+          },
+          {
+            "t": "p",
+            "x": "양쪽이 각각 20수를 둔 시점까지는 사람 대국의 평균 긴장도가 AI 대국보다 높았다. 그 뒤로는 사람 대국의 긴장도가 AI 대국 아래로 떨어지는 반면 AI 대국은 높은 수준을 지킨다. 사람은 인지 부담을 줄여야 하지만 \"엔진에는 사실상 그런 문제가 없다\"고 이번 연구에 참여하지 않은 Northumbria University의 Merim Bilalić은 말한다."
+          },
+          {
+            "t": "p",
+            "x": "레이팅이 높은 선수일수록 긴장도를 더 높게 유지했다. Stockfish가 더 깊은 트리를 탐색할 때도 긴장도가 올랐다. 사람과 AI 모두에서 높은 긴장도는 실력과 상관관계를 보였다. 다만 긴장도가 실력을 낳는지, 실력에서 비롯되는지는 이번 연구로 가리지 못했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Chatbot romance matches\nhuman intimacy ratings",
-          "body": "In a 463-adult survey, chatbot bonds matched human emotional intimacy ratings, yet that intimacy tracked loneliness.",
-          "mini_headline": "Chatbot romance\nand loneliness",
+          "headline": "Why AI excels at chess may\ncome down to complexity",
+          "body": "New research suggests AI's comfort with complexity could be a key to its chess-playing prowess.",
+          "mini_headline": "AI chess thrives on complexity",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chatbot-relationship.jpg",
-                "cap": "Credit: Unsplash/CC0 Public Domain"
+                "src": "https://static.scientificamerican.com/dam/asset/1e99e951-c633-4384-8edb-9267b4a202c9/saw1226_0127Adva06.jpg?m=1793651269.904&w=1200",
+                "cap": "Thomas Fuchs"
               },
               {
                 "t": "p",
-                "x": "University of Michigan researchers Lionel Robert, Annette Masterson and Xin Ye surveyed 463 U.S. adults: 155 in chatbot relationships, 153 in long-distance human relationships and 155 in in-person relationships. Emotional and intellectual intimacy ratings were similar across the three, but chatbot relationships showed different patterns of loneliness, satisfaction and well-being. \"Whether people should be or not, people are developing relationships with AI chatbots,\" Robert said."
+                "x": "AI's comfort with complexity could be key to its chess-playing prowess. A recent paper in APS Open Science highlights one likely feature of AI's strategic superiority. \"Probably our paper is the closest to understanding what these machines are doing,\" says study senior author Vito D. P. Servedio, a physicist at Complexity Science Hub in Vienna."
               },
               {
                 "t": "p",
-                "x": "In both human groups, more emotional intimacy went with less loneliness; among chatbot users it went with more loneliness, though also with more relationship satisfaction, and that link disappeared when social support was included. Sexual intimacy was tied to greater satisfaction in the chatbot and long-distance groups, and intellectual intimacy to greater satisfaction and well-being for chatbot users. The study appears in Computers in Human Behavior: Artificial Humans."
+                "x": "The researchers collected human vs. human and Stockfish vs. Leela games from online databases and measured \"strategic tension\"—the number of mutual interactions possible between opposing pieces."
+              },
+              {
+                "t": "p",
+                "x": "Once each player had made 20 moves, the average tension in human games exceeded that of the AI games. But after it, human tension drops below that of AI games, which remains high. People need to reduce cognitive load, but \"engines don't really have that problem,\" says Merim Bilalić of Northumbria University, who wasn't involved."
+              },
+              {
+                "t": "p",
+                "x": "Higher-rated players maintained greater tension, and tension rose when Stockfish searched deeper trees. Though higher tension correlated with greater ability in both humans and AI, the study didn't show that it led to, or came from, that ability."
               }
             ]
           }
         },
         "ko": {
-          "headline": "챗봇 연애의 친밀도,\n사람 관계와 비슷",
-          "body": "성인 463명 조사에서 챗봇 관계의 친밀도는 사람과 같았지만 외로움과 맞물렸다.",
-          "mini_headline": "챗봇 연애와 외로움",
+          "headline": "AI가 체스에 강한 건\n복잡성 덕일까",
+          "body": "복잡한 국면에 익숙하다는 점이 AI 체스 실력의 열쇠일 수 있다는 연구가 나왔다.",
+          "mini_headline": "복잡할수록 강해지는 AI 체스",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chatbot-relationship.jpg",
-                "cap": "출처: Unsplash/CC0 Public Domain"
+                "src": "https://static.scientificamerican.com/dam/asset/1e99e951-c633-4384-8edb-9267b4a202c9/saw1226_0127Adva06.jpg?m=1793651269.904&w=1200",
+                "cap": "Thomas Fuchs"
               },
               {
                 "t": "p",
-                "x": "University of Michigan의 Lionel Robert, Annette Masterson, Xin Ye는 미국(U.S.) 성인 463명을 조사했다. 챗봇과 관계를 맺은 155명, 원거리 관계인 153명, 대면 관계인 155명이다. 정서적·지적 친밀도는 세 집단이 비슷하게 평가했지만, 외로움·만족도·웰빙 양상은 챗봇 관계에서 달랐다. Robert는 \"그래야 하든 아니든, 사람들은 AI 챗봇과 관계를 맺고 있다\"고 말했다."
+                "x": "AI가 체스에 강한 비결은 복잡성을 편하게 다루는 능력일지 모른다. APS Open Science에 최근 실린 논문이 AI의 전략적 우위를 설명할 유력한 특징 하나를 짚었다. 연구 책임저자인 빈 Complexity Science Hub의 물리학자 Vito D. P. Servedio는 \"아마 우리 논문이 이 기계들이 무엇을 하는지 이해하는 데 가장 가까이 다가갔을 것\"이라고 말한다."
               },
               {
                 "t": "p",
-                "x": "두 인간 관계 집단은 정서적 친밀도가 높을수록 덜 외로웠지만, 챗봇 사용자는 오히려 더 외로웠다. 관계 만족도도 함께 높았는데, 이 연관성은 사회적 지지를 고려하자 사라졌다. 성적 친밀도는 챗봇 집단과 원거리 집단에서 높은 만족도로 이어졌고, 지적 친밀도가 높은 챗봇 사용자는 만족도와 웰빙도 높았다. 연구는 Computers in Human Behavior: Artificial Humans에 실렸다."
+                "x": "연구진은 온라인 데이터베이스에서 사람 vs. 사람, Stockfish vs. Leela의 대국을 모은 뒤 '전략적 긴장도'를 쟀다. 서로 맞선 기물 사이에서 일어날 수 있는 상호작용의 수다."
+              },
+              {
+                "t": "p",
+                "x": "양쪽이 각각 20수를 둔 시점까지는 사람 대국의 평균 긴장도가 AI 대국보다 높았다. 그 뒤로는 사람 대국의 긴장도가 AI 대국 아래로 떨어지는 반면 AI 대국은 높은 수준을 지킨다. 사람은 인지 부담을 줄여야 하지만 \"엔진에는 사실상 그런 문제가 없다\"고 이번 연구에 참여하지 않은 Northumbria University의 Merim Bilalić은 말한다."
+              },
+              {
+                "t": "p",
+                "x": "레이팅이 높은 선수일수록 긴장도를 더 높게 유지했다. Stockfish가 더 깊은 트리를 탐색할 때도 긴장도가 올랐다. 사람과 AI 모두에서 높은 긴장도는 실력과 상관관계를 보였다. 다만 긴장도가 실력을 낳는지, 실력에서 비롯되는지는 이번 연구로 가리지 못했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "チャットボットとの恋\n親密度は人間並み",
-          "body": "成人463人の調査で、チャットボットとの絆の情緒的親密度は人間並みだが、孤独と連動した。",
-          "mini_headline": "チャットボットとの恋と孤独",
+          "headline": "AIがチェスに強い理由は\n複雑さにあるのか",
+          "body": "複雑さに動じないことがAIのチェスの強さの鍵かもしれないと新研究は示す。",
+          "mini_headline": "複雑さで強みを発揮するAIチェス",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chatbot-relationship.jpg",
-                "cap": "クレジット：Unsplash/CC0 Public Domain"
+                "src": "https://static.scientificamerican.com/dam/asset/1e99e951-c633-4384-8edb-9267b4a202c9/saw1226_0127Adva06.jpg?m=1793651269.904&w=1200",
+                "cap": "Thomas Fuchs"
               },
               {
                 "t": "p",
-                "x": "University of Michiganの研究者Lionel Robert、Annette Masterson、Xin Yeは、U.S.（米国）の成人463人を調査した。内訳はチャットボットと交際する155人、遠距離の人間関係にある153人、対面の関係にある155人である。情緒的・知的な親密度の評価は三者で似ていたが、チャットボットとの関係では孤独感、満足度、幸福感のパターンが異なっていた。Robertは「是非はともかく、人々はAIチャットボットと関係を築いている」と語った。"
+                "x": "複雑さを苦にしないことが、AIのチェスの強さの鍵かもしれない。APS Open Scienceに最近掲載された論文は、AIの戦略的優位を支えるとみられる特徴の一つを浮き彫りにした。研究の責任著者で、ウィーンのComplexity Science Hubの物理学者Vito D. P. Servedioは「おそらく私たちの論文は、これらの機械が何をしているのかの理解に最も近づいている」と語る。"
               },
               {
                 "t": "p",
-                "x": "人間同士の二つのグループでは、情緒的親密度が高いほど孤独感は低かった。チャットボット利用者では逆に孤独感が高く、同時に関係への満足度も高かったが、社会的支援を考慮するとこの関連は消えた。性的親密度はチャットボット群と遠距離群で満足度の高さと結びつき、知的親密度はチャットボット利用者の満足度と幸福感の高さと結びついていた。研究はComputers in Human Behavior: Artificial Humansに掲載された。"
+                "x": "研究者らはオンラインのデータベースから人間 vs. 人間、Stockfish vs. Leelaの対局を集め、「戦略的緊張」、すなわち対立する駒どうしの間で可能な相互作用の数を測定した。"
+              },
+              {
+                "t": "p",
+                "x": "両者が20手ずつ指した時点までは、人間同士の対局の平均的な緊張がAIの対局を上回っていた。だがその後、人間の対局の緊張はAIの対局を下回り、AIの対局では高いまま保たれる。人間は認知的負荷を減らす必要があるが、「エンジンにはその問題は実はない」と、研究に関わっていないNorthumbria UniversityのMerim Bilalićは言う。"
+              },
+              {
+                "t": "p",
+                "x": "レーティングの高い選手ほど緊張を高く保ち、Stockfishがより深い木を探索すると緊張は高まった。高い緊張は人間とAIの双方で実力と相関したが、それが実力をもたらすのか、実力から生じるのかは示されなかった。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "与聊天机器人恋爱\n亲密度评分与真人相当",
-          "body": "一项463名成人的调查显示，聊天机器人关系的情感亲密度与真人相当，却与孤独感相伴。",
-          "mini_headline": "聊天机器人恋爱与孤独",
+          "headline": "AI擅长国际象棋的原因\n或许在于复杂性",
+          "body": "新研究表明，AI善于应对复杂性，这可能是其国际象棋实力的关键。",
+          "mini_headline": "AI国际象棋在复杂中制胜",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chatbot-relationship.jpg",
-                "cap": "图片来源：Unsplash/CC0 Public Domain"
+                "src": "https://static.scientificamerican.com/dam/asset/1e99e951-c633-4384-8edb-9267b4a202c9/saw1226_0127Adva06.jpg?m=1793651269.904&w=1200",
+                "cap": "Thomas Fuchs"
               },
               {
                 "t": "p",
-                "x": "University of Michigan研究人员Lionel Robert、Annette Masterson和Xin Ye调查了463名U.S.（美国）成年人：155人处于聊天机器人关系中，153人处于异地人际关系中，155人处于面对面关系中。三组的情感亲密度和智识亲密度评分相近，但聊天机器人关系在孤独感、满意度和幸福感方面呈现不同模式。Robert说：“无论人们该不该这样做，他们都在与AI聊天机器人建立关系。”"
+                "x": "AI对复杂性的从容可能是其国际象棋实力的关键。近期发表在APS Open Science上的一篇论文指出了AI战略优势的一个可能特征。研究资深作者、维也纳Complexity Science Hub的物理学家Vito D. P. Servedio说：“或许我们的论文最接近于理解这些机器在做什么。”"
               },
               {
                 "t": "p",
-                "x": "在两个真人关系组中，情感亲密度越高，孤独感越低；而在聊天机器人用户中，情感亲密度越高孤独感越强，但关系满意度也更高，纳入社会支持后这一关联消失。性亲密度在聊天机器人组和异地组中与更高的满意度相关，智识亲密度则与聊天机器人用户更高的满意度和幸福感相关。该研究发表于Computers in Human Behavior: Artificial Humans。"
+                "x": "研究人员从在线数据库中收集了人类 vs. 人类以及Stockfish vs. Leela的对局，并测量了“战略张力”，即对立棋子之间可能产生的相互作用数量。"
+              },
+              {
+                "t": "p",
+                "x": "在双方各走完20步之前，人类对局的平均张力高于AI对局。但此后，人类对局的张力降至AI对局之下，而AI对局的张力依然很高。人类需要减轻认知负荷，但“引擎其实没有这个问题”，未参与该研究的Northumbria University的Merim Bilalić说。"
+              },
+              {
+                "t": "p",
+                "x": "等级分越高的棋手保持的张力越大，Stockfish搜索更深的博弈树时张力也会上升。尽管在人类和AI中，较高的张力都与更强的能力相关，但研究并未表明张力导致了这种能力，或源自这种能力。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El romance con chatbots iguala\nla intimidad humana",
-          "body": "En un sondeo a 463 adultos, el vínculo con chatbots igualó la intimidad emocional humana, aunque ligada a la soledad.",
-          "mini_headline": "Romance con chatbots y soledad",
+          "headline": "Por qué la AI domina el ajedrez\npodría deberse a la complejidad",
+          "body": "Un nuevo estudio sugiere que la soltura de la AI con la complejidad podría ser clave en su dominio del ajedrez.",
+          "mini_headline": "La AI de ajedrez prospera con la complejidad",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chatbot-relationship.jpg",
-                "cap": "Crédito: Unsplash/CC0 Public Domain"
+                "src": "https://static.scientificamerican.com/dam/asset/1e99e951-c633-4384-8edb-9267b4a202c9/saw1226_0127Adva06.jpg?m=1793651269.904&w=1200",
+                "cap": "Thomas Fuchs"
               },
               {
                 "t": "p",
-                "x": "Los investigadores de la University of Michigan Lionel Robert, Annette Masterson y Xin Ye encuestaron a 463 adultos de U.S. (Estados Unidos): 155 en relaciones con chatbots, 153 en relaciones humanas a distancia y 155 en relaciones presenciales. Las valoraciones de intimidad emocional e intelectual fueron similares en los tres grupos, pero las relaciones con chatbots mostraron patrones distintos de soledad, satisfacción y bienestar. \"Deban o no hacerlo, las personas están desarrollando relaciones con chatbots de AI\", dijo Robert."
+                "x": "La soltura de la AI con la complejidad podría ser clave en su dominio del ajedrez. Un artículo reciente en APS Open Science destaca un rasgo probable de la superioridad estratégica de la AI. \"Probablemente nuestro artículo es el que más se acerca a entender lo que hacen estas máquinas\", dice el autor principal del estudio, Vito D. P. Servedio, físico del Complexity Science Hub de Viena."
               },
               {
                 "t": "p",
-                "x": "En ambos grupos humanos, una mayor intimidad emocional se asoció con menos soledad; entre los usuarios de chatbots se asoció con más soledad, aunque también con más satisfacción en la relación, y ese vínculo desapareció al incluir el apoyo social. La intimidad sexual se relacionó con mayor satisfacción en los grupos de chatbots y de relaciones a distancia, y la intimidad intelectual, con mayor satisfacción y bienestar en los usuarios de chatbots. El estudio aparece en Computers in Human Behavior: Artificial Humans."
+                "x": "Los investigadores reunieron partidas humano vs. humano y Stockfish vs. Leela de bases de datos en línea y midieron la \"tensión estratégica\": el número de interacciones mutuas posibles entre piezas rivales."
+              },
+              {
+                "t": "p",
+                "x": "Hasta que cada jugador había hecho 20 jugadas, la tensión media en las partidas humanas superaba a la de las partidas de AI. Pero después, la tensión humana cae por debajo de la de las partidas de AI, que se mantiene alta. Las personas necesitan reducir la carga cognitiva, pero \"los motores no tienen realmente ese problema\", dice Merim Bilalić, de la Northumbria University, que no participó en el estudio."
+              },
+              {
+                "t": "p",
+                "x": "Los jugadores con mayor puntuación mantuvieron más tensión, y la tensión aumentó cuando Stockfish exploró árboles más profundos. Aunque una mayor tensión se correlacionó con mayor capacidad tanto en humanos como en AI, el estudio no demostró que la causara ni que proviniera de ella."
               }
             ]
           }
@@ -1259,93 +1577,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "챗봇 연애의 친밀도,\n사람 관계와 비슷",
-          "body": "성인 463명 조사에서 챗봇 관계의 친밀도는 사람과 같았지만 외로움과 맞물렸다.",
-          "mini_headline": "챗봇 연애와 외로움",
+          "headline": "AI가 체스에 강한 이유는\n복잡성일 수도",
+          "body": "AI가 복잡성에 익숙한 점이 체스 실력의 열쇠일 수 있다는 연구가 나왔다.",
+          "mini_headline": "복잡할수록 강해지는 AI 체스",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chatbot-relationship.jpg",
-                "cap": "출처: Unsplash/CC0 Public Domain"
+                "src": "https://static.scientificamerican.com/dam/asset/1e99e951-c633-4384-8edb-9267b4a202c9/saw1226_0127Adva06.jpg?m=1793651269.904&w=1200",
+                "cap": "Thomas Fuchs"
               },
               {
                 "t": "p",
-                "x": "University of Michigan 연구진 Lionel Robert, Annette Masterson, Xin Ye는 미국(U.S.) 성인 463명을 조사했다. 챗봇과 관계를 맺은 155명, 원거리 인간 관계에 있는 153명, 대면 관계에 있는 155명이다. 정서적·지적 친밀도 평가는 세 집단이 비슷했지만, 챗봇 관계에서는 외로움·만족도·웰빙의 양상이 달랐다. Robert는 \"그래야 하든 아니든, 사람들은 AI 챗봇과 관계를 맺고 있다\"고 말했다."
+                "x": "복잡성을 편하게 다루는 능력이 AI가 체스에 강한 비결일 수 있다. APS Open Science에 최근 실린 논문은 AI의 전략적 우위를 설명하는 유력한 특징 하나를 짚었다. 연구 책임저자인 빈 Complexity Science Hub의 물리학자 Vito D. P. Servedio는 \"아마 우리 논문이 이 기계들이 무엇을 하는지 이해하는 데 가장 가까이 다가갔을 것\"이라고 말한다."
               },
               {
                 "t": "p",
-                "x": "두 인간 관계 집단에서는 정서적 친밀도가 높을수록 외로움이 적었지만, 챗봇 사용자에게서는 외로움이 더 컸다. 다만 관계 만족도도 함께 높았으며, 이 연관성은 사회적 지지를 고려하자 사라졌다. 성적 친밀도는 챗봇 집단과 원거리 집단에서 더 높은 만족도와 이어졌고, 지적 친밀도는 챗봇 사용자의 더 높은 만족도·웰빙과 연결됐다. 연구는 Computers in Human Behavior: Artificial Humans에 실렸다."
+                "x": "연구진은 온라인 데이터베이스에서 사람 vs. 사람, Stockfish vs. Leela의 대국을 모아 '전략적 긴장도', 즉 서로 맞선 기물 사이에 가능한 상호작용의 수를 측정했다."
+              },
+              {
+                "t": "p",
+                "x": "양쪽이 각각 20수를 둔 시점까지는 사람 대국의 평균 긴장도가 AI 대국보다 높았다. 그러나 그 뒤로 사람 대국의 긴장도는 AI 대국 아래로 떨어지고, AI 대국은 높은 수준을 유지한다. 사람은 인지 부담을 줄여야 하지만 \"엔진에는 사실상 그런 문제가 없다\"고 이번 연구에 참여하지 않은 Northumbria University의 Merim Bilalić은 말한다."
+              },
+              {
+                "t": "p",
+                "x": "레이팅이 높은 선수일수록 긴장도를 더 높게 유지했고, Stockfish가 더 깊은 트리를 탐색할 때도 긴장도가 올랐다. 높은 긴장도는 사람과 AI 모두에서 실력과 상관관계를 보였지만, 연구는 긴장도가 실력을 낳는지 혹은 실력에서 비롯되는지는 보여주지 못했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "チャットボットとの恋\n親密度は人間並み",
-          "body": "成人463人の調査で、チャットボットとの絆の情緒的親密度は人間並みだが、孤独と連動した。",
-          "mini_headline": "チャットボットとの恋と孤独",
+          "headline": "AIがチェスに強い理由は\n複雑さにあるのか",
+          "body": "複雑さに動じないことがAIのチェスの強さの鍵かもしれないと新研究は示す。",
+          "mini_headline": "複雑さで強みを発揮するAIチェス",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chatbot-relationship.jpg",
-                "cap": "クレジット：Unsplash/CC0 Public Domain"
+                "src": "https://static.scientificamerican.com/dam/asset/1e99e951-c633-4384-8edb-9267b4a202c9/saw1226_0127Adva06.jpg?m=1793651269.904&w=1200",
+                "cap": "Thomas Fuchs"
               },
               {
                 "t": "p",
-                "x": "University of Michiganの研究者Lionel Robert、Annette Masterson、Xin Yeは、U.S.（米国）の成人463人を調査した。内訳はチャットボットと交際する155人、遠距離の人間関係にある153人、対面の関係にある155人である。情緒的・知的な親密度の評価は三者で似ていたが、チャットボットとの関係では孤独感、満足度、幸福感のパターンが異なっていた。Robertは「是非はともかく、人々はAIチャットボットと関係を築いている」と語った。"
+                "x": "複雑さを苦にしないことが、AIのチェスの強さの鍵かもしれない。APS Open Scienceに最近掲載された論文は、AIの戦略的優位を支えるとみられる特徴の一つを浮き彫りにした。研究の責任著者で、ウィーンのComplexity Science Hubの物理学者Vito D. P. Servedioは「おそらく私たちの論文は、これらの機械が何をしているのかの理解に最も近づいている」と語る。"
               },
               {
                 "t": "p",
-                "x": "人間同士の二つのグループでは、情緒的親密度が高いほど孤独感は低かった。チャットボット利用者では逆に孤独感が高く、同時に関係への満足度も高かったが、社会的支援を考慮するとこの関連は消えた。性的親密度はチャットボット群と遠距離群で満足度の高さと結びつき、知的親密度はチャットボット利用者の満足度と幸福感の高さと結びついていた。研究はComputers in Human Behavior: Artificial Humansに掲載された。"
+                "x": "研究者らはオンラインのデータベースから人間 vs. 人間、Stockfish vs. Leelaの対局を集め、「戦略的緊張」、すなわち対立する駒どうしの間で可能な相互作用の数を測定した。"
+              },
+              {
+                "t": "p",
+                "x": "両者が20手ずつ指した時点までは、人間同士の対局の平均的な緊張がAIの対局を上回っていた。だがその後、人間の対局の緊張はAIの対局を下回り、AIの対局では高いまま保たれる。人間は認知的負荷を減らす必要があるが、「エンジンにはその問題は実はない」と、研究に関わっていないNorthumbria UniversityのMerim Bilalićは言う。"
+              },
+              {
+                "t": "p",
+                "x": "レーティングの高い選手ほど緊張を高く保ち、Stockfishがより深い木を探索すると緊張は高まった。高い緊張は人間とAIの双方で実力と相関したが、それが実力をもたらすのか、実力から生じるのかは示されなかった。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "与聊天机器人恋爱\n亲密度评分与真人相当",
-          "body": "一项463名成人的调查显示，聊天机器人关系的情感亲密度与真人相当，却与孤独感相伴。",
-          "mini_headline": "聊天机器人恋爱与孤独",
+          "headline": "AI擅长国际象棋的原因\n或许在于复杂性",
+          "body": "新研究表明，AI善于应对复杂性，这可能是其国际象棋实力的关键。",
+          "mini_headline": "AI国际象棋在复杂中制胜",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chatbot-relationship.jpg",
-                "cap": "图片来源：Unsplash/CC0 Public Domain"
+                "src": "https://static.scientificamerican.com/dam/asset/1e99e951-c633-4384-8edb-9267b4a202c9/saw1226_0127Adva06.jpg?m=1793651269.904&w=1200",
+                "cap": "Thomas Fuchs"
               },
               {
                 "t": "p",
-                "x": "University of Michigan研究人员Lionel Robert、Annette Masterson和Xin Ye调查了463名U.S.（美国）成年人：155人处于聊天机器人关系中，153人处于异地人际关系中，155人处于面对面关系中。三组的情感亲密度和智识亲密度评分相近，但聊天机器人关系在孤独感、满意度和幸福感方面呈现不同模式。Robert说：“无论人们该不该这样做，他们都在与AI聊天机器人建立关系。”"
+                "x": "AI对复杂性的从容可能是其国际象棋实力的关键。近期发表在APS Open Science上的一篇论文指出了AI战略优势的一个可能特征。研究资深作者、维也纳Complexity Science Hub的物理学家Vito D. P. Servedio说：“或许我们的论文最接近于理解这些机器在做什么。”"
               },
               {
                 "t": "p",
-                "x": "在两个真人关系组中，情感亲密度越高，孤独感越低；而在聊天机器人用户中，情感亲密度越高孤独感越强，但关系满意度也更高，纳入社会支持后这一关联消失。性亲密度在聊天机器人组和异地组中与更高的满意度相关，智识亲密度则与聊天机器人用户更高的满意度和幸福感相关。该研究发表于Computers in Human Behavior: Artificial Humans。"
+                "x": "研究人员从在线数据库中收集了人类 vs. 人类以及Stockfish vs. Leela的对局，并测量了“战略张力”，即对立棋子之间可能产生的相互作用数量。"
+              },
+              {
+                "t": "p",
+                "x": "在双方各走完20步之前，人类对局的平均张力高于AI对局。但此后，人类对局的张力降至AI对局之下，而AI对局的张力依然很高。人类需要减轻认知负荷，但“引擎其实没有这个问题”，未参与该研究的Northumbria University的Merim Bilalić说。"
+              },
+              {
+                "t": "p",
+                "x": "等级分越高的棋手保持的张力越大，Stockfish搜索更深的博弈树时张力也会上升。尽管在人类和AI中，较高的张力都与更强的能力相关，但研究并未表明张力导致了这种能力，或源自这种能力。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El romance con chatbots iguala\nla intimidad humana",
-          "body": "En un sondeo a 463 adultos, el vínculo con chatbots igualó la intimidad emocional humana, aunque ligada a la soledad.",
-          "mini_headline": "Romance con chatbots y soledad",
+          "headline": "Por qué la AI domina el ajedrez\npodría deberse a la complejidad",
+          "body": "Un nuevo estudio sugiere que la soltura de la AI con la complejidad podría ser clave en su dominio del ajedrez.",
+          "mini_headline": "La AI de ajedrez prospera con la complejidad",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chatbot-relationship.jpg",
-                "cap": "Crédito: Unsplash/CC0 Public Domain"
+                "src": "https://static.scientificamerican.com/dam/asset/1e99e951-c633-4384-8edb-9267b4a202c9/saw1226_0127Adva06.jpg?m=1793651269.904&w=1200",
+                "cap": "Thomas Fuchs"
               },
               {
                 "t": "p",
-                "x": "Los investigadores de la University of Michigan Lionel Robert, Annette Masterson y Xin Ye encuestaron a 463 adultos de U.S. (Estados Unidos): 155 en relaciones con chatbots, 153 en relaciones humanas a distancia y 155 en relaciones presenciales. Las valoraciones de intimidad emocional e intelectual fueron similares en los tres grupos, pero las relaciones con chatbots mostraron patrones distintos de soledad, satisfacción y bienestar. \"Deban o no hacerlo, las personas están desarrollando relaciones con chatbots de AI\", dijo Robert."
+                "x": "La soltura de la AI con la complejidad podría ser clave en su dominio del ajedrez. Un artículo reciente en APS Open Science destaca un rasgo probable de la superioridad estratégica de la AI. \"Probablemente nuestro artículo es el que más se acerca a entender lo que hacen estas máquinas\", dice el autor principal del estudio, Vito D. P. Servedio, físico del Complexity Science Hub de Viena."
               },
               {
                 "t": "p",
-                "x": "En ambos grupos humanos, una mayor intimidad emocional se asoció con menos soledad; entre los usuarios de chatbots se asoció con más soledad, aunque también con más satisfacción en la relación, y ese vínculo desapareció al incluir el apoyo social. La intimidad sexual se relacionó con mayor satisfacción en los grupos de chatbots y de relaciones a distancia, y la intimidad intelectual, con mayor satisfacción y bienestar en los usuarios de chatbots. El estudio aparece en Computers in Human Behavior: Artificial Humans."
+                "x": "Los investigadores reunieron partidas humano vs. humano y Stockfish vs. Leela de bases de datos en línea y midieron la \"tensión estratégica\": el número de interacciones mutuas posibles entre piezas rivales."
+              },
+              {
+                "t": "p",
+                "x": "Hasta que cada jugador había hecho 20 jugadas, la tensión media en las partidas humanas superaba a la de las partidas de AI. Pero después, la tensión humana cae por debajo de la de las partidas de AI, que se mantiene alta. Las personas necesitan reducir la carga cognitiva, pero \"los motores no tienen realmente ese problema\", dice Merim Bilalić, de la Northumbria University, que no participó en el estudio."
+              },
+              {
+                "t": "p",
+                "x": "Los jugadores con mayor puntuación mantuvieron más tensión, y la tensión aumentó cuando Stockfish exploró árboles más profundos. Aunque una mayor tensión se correlacionó con mayor capacidad tanto en humanos como en AI, el estudio no demostró que la causara ni que proviniera de ella."
               }
             ]
           }

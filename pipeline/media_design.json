@@ -1,34 +1,34 @@
 {
- "date": "2026-11-16",
- "section": "design",
- "media": [
-  {
-   "id": "design-fable52-brushstroke-painter",
-   "type": "video",
-   "src": "pipeline/media/design-fable52-brushstroke-painter.mp4",
-   "poster": "pipeline/media/design-fable52-brushstroke-painter.jpg"
-  },
-  {
-   "id": "figma-configindia-canvas-production",
-   "type": "video",
-   "src": "pipeline/media/figma-configindia-canvas-production.mp4",
-   "poster": "pipeline/media/figma-configindia-canvas-production.jpg"
-  },
-  {
-   "id": "figma-blog-creative-ai-split",
-   "type": "video",
-   "src": "pipeline/media/figma-blog-creative-ai-split.mp4",
-   "poster": "pipeline/media/figma-blog-creative-ai-split.jpg"
-  },
-  {
-   "id": "qentin-scan-search-aec",
-   "type": "image",
-   "src": "pipeline/media/qentin-scan-search-aec.jpg"
-  },
-  {
-   "id": "simscale-ai-blueprint-nvidia",
-   "type": "image",
-   "src": "pipeline/media/simscale-ai-blueprint-nvidia.jpg"
-  }
- ]
+  "date": "2026-11-17",
+  "section": "design",
+  "media": [
+    {
+      "id": "claude-canvas-html",
+      "type": "video",
+      "src": "pipeline/media/claude-canvas-html.mp4",
+      "poster": "pipeline/media/claude-canvas-html.jpg"
+    },
+    {
+      "id": "lovable-drafts-parallel",
+      "type": "video",
+      "src": "pipeline/media/lovable-drafts-parallel.mp4",
+      "poster": "pipeline/media/lovable-drafts-parallel.jpg"
+    },
+    {
+      "id": "astryx-v0-skill",
+      "type": "image",
+      "src": "pipeline/media/astryx-v0-skill.png"
+    },
+    {
+      "id": "gemini-notebook-sites",
+      "type": "video",
+      "src": "pipeline/media/gemini-notebook-sites.mp4",
+      "poster": "pipeline/media/gemini-notebook-sites.jpg"
+    },
+    {
+      "id": "onepassword-figma-make",
+      "type": "image",
+      "src": "pipeline/media/onepassword-figma-make.png"
+    }
+  ]
 }

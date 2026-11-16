@@ -4943,6 +4943,142 @@
           "x": "実現するかはまだ不透明だ。Reutersは「この計画が実施されるかどうか、いつ実施されるか」は不明だとしているが、文書には2027年10月1日のリリース日が記されていた。Amazonは「このようなブレインストーミング文書の存在は、必ずしも現在の計画を反映するものではない」と述べた。"
         }
       ]
+    },
+    "marketing/google-aimode-hotel-booking": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/11/google-ai-mode-holiday-guide-hotel-dinner-ticket-bookings-google-pay-funnel-key-plate-ticket.jpg",
+          "cap": "Googleのホリデーガイドは、ホテル、ディナー、チケットの予約をAI Modeに誘導し、Google Payで支払わせる"
+        },
+        {
+          "t": "p",
+          "x": "Googleはホリデーガイド「Searchが休暇の計画に役立つ4つの方法」を公開した。季節の雑事をSearch Live、Lens、AI Modeに通す内容で、ホテルの客室、レストランの席、イベントのチケットを、Searchが探すだけでなく予約までできるものとして示している。どの機能も新規ローンチとは表記されていない。"
+        },
+        {
+          "t": "p",
+          "x": "ホテルについては、AI Modeが「設備、宿泊者レビュー、写真を比較できる視覚的な選択肢の一覧」を表示する。ユーザーは旅行パートナーのサイトに移って予約するか、「『Continue on Google』と表示されていれば、Google Payを使ってAI Mode内でそのままホテル予約を完了できる」。AI Modeでのホテル予約は2026年8月27日にUSで英語向けに提供が始まり、Booking.com、Expedia、Hilton、Marriottを含む十社のパートナーが販売事業者(merchant of record)となる。"
+        },
+        {
+          "t": "p",
+          "x": "Googleのヘルプページによると、この機能はUSで英語のみ、一部の施設に限って利用でき、プロモーションコード、リワードポイントの利用、会員番号には対応していない。"
+        },
+        {
+          "t": "p",
+          "x": "ディナーとチケットも同じ型をたどり、AI Modeのタスクは「チケットの販売開始や価格変動を裏で追跡」し、Googleアプリで通知する。マーケターにとっては、予約パートナーが販売事業者の立場を保つ一方、インターフェース、Google Payの決済情報、買い物客を呼び戻す通知はGoogleが握ることになる。"
+        }
+      ]
+    },
+    "marketing/jcrew-style-advisor-anthropic": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/f5YC8XCfhWSHGirICm9w9L7klu_UcwXzWbVHVxach0Q/g:nowe:0:70/c:640:362/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8xNDU3OTUzMjMxOF84ZjkxMjlmMzljX3ouanBn.webp",
+          "cap": "J. CrewのStyle Advisorは、AIを使って顧客がそのまま購入できる完成したルックを提示する。"
+        },
+        {
+          "t": "p",
+          "x": "J. CrewはAI-poweredのワードローブ・コンサルタント「Style Advisor」を投入した。Anthropicと提携して開発し、「さまざまなClaudeモデル」で動く。同社は、このツールが「個々の商品を検索するのではなく、インスピレーションと発見を軸にしている」と説明した。"
+        },
+        {
+          "t": "p",
+          "x": "この対話型チャットボットは「独自画像の豊富なライブラリ」を備え、顧客は自然言語で質問して「J. Crewのスタイリストが常に提供してきたようなアドバイス」を得られる。現在、J. Crew U.S.のウェブサイトでメンズとウィメンズのスタイルに対応している。"
+        },
+        {
+          "t": "p",
+          "x": "Style Advisorは「J.Crew自身の撮影から生まれた数千通りのコーディネート」をもとに、頭からつま先までのルックを組み立てる手助けをする。顧客は就職面接や誕生日パーティーといったイベントから始めることも、特定のアイテムを軸に組み立てることもでき、ツールは「各顧客の好みと購入履歴に合わせて提案を調整し、よりパーソナルになっていく」。"
+        },
+        {
+          "t": "p",
+          "x": "「Anthropicとの取り組みを通じて、J. Crewが数十年かけて培ったスタイリング、マーチャンダイジング、クリエイティブの専門性を結集し、顧客行動の次のかたちづくりに貢献していく」と、J. Crew GroupのCEO、Libby Wadle氏は述べた。"
+        },
+        {
+          "t": "p",
+          "x": "競合のRalph Laurenは一年余り前に独自のAIスタイリングアシスタントを投入し、Stitch Fixも7月に同様のものを公開した。J. Crewは現在、U.S.で114の店舗を運営している。"
+        }
+      ]
+    },
+    "marketing/bustle-profound-ai-visibility": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://digiday.com/wp-content/uploads/sites/3/2026/04/ai-recommends-digiday.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Bustle Digital Groupは、ProfoundのAI計測ツールを使い、PampersやInnisfreeなどのブランドがAI-generatedのレコメンドに表示されるよう支援している。社内でECHOと呼ばれるこのGEOサービスは、Profoundの分析と、BDGのコンテンツで学習したAIエージェントを使ってクリエイティブブリーフを作成する。少なくとも三つのブランドが対価を支払った。"
+        },
+        {
+          "t": "p",
+          "x": "Profoundのデータに基づくBDGのケーススタディによると、あるキャンペーンでは、追跡対象の200のスキンケア関連プロンプトにおけるInnisfreeの可視性が30%向上し、Bustleの引用順位は#709から#12に上がった。"
+        },
+        {
+          "t": "img",
+          "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Innisfree_ChatGPTScreenshot-1.jpeg",
+          "cap": "出典：BDG"
+        },
+        {
+          "t": "p",
+          "x": "Pampersは、Scary Mommyの解説記事の掲載後、無香料おむつに関する質問でのAI可視性が#2から#1に上がった。"
+        },
+        {
+          "t": "p",
+          "x": "BDGとProfoundはまず八〜10のトピックと、それぞれ25〜50のプロンプトを分析する。次にエージェントがブリーフを設計し、BDGの編集者がそれに沿って執筆、コンテンツはRedditでクロスプロモーションされる。BDGの配信・AIインテリジェンス担当svp、Graham Howes氏は「広告主は実際のクリエイティブ制作に一切関与しない」と語った。成果は主にChatGPT、Gemini、GoogleのAI Overviewsで追跡される。Profoundはこれらの取引から分け前を受け取らない。"
+        }
+      ]
+    },
+    "marketing/tone-belfort-ai-sales-voice": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/11/Jordan-Belfort.jpeg?resize=1200,675",
+          "cap": "画像クレジット：Osiris Media, Inc"
+        },
+        {
+          "t": "p",
+          "x": "「Wolf of Wall Street」を自称するJordan Belfortが、音声ベースのAIプラットフォーム「Tone」を構築している。彼によれば秘訣は、取引を勝ち取る抑揚を音声に持たせることにある。たとえば断定文を疑問形で言い、時にはささやきさえする。"
+        },
+        {
+          "t": "p",
+          "x": "Belfortによると、Toneはすでに営業チームでは処理しきれないほどの見込み客を抱える企業で使われており、「表現力豊かなAI-generatedナレーション」を求めるクリエイターや作家向けのセルフサービス型プラットフォームも立ち上げている。音声クローン機能も順次提供中だ。共同創業者は投資家のShervin Pishevarで、TechCrunchはこの技術が説明どおりに機能するかを独自に検証できないとしている。"
+        },
+        {
+          "t": "p",
+          "x": "「顧客には法律事務所や健康保険会社がいる。世論調査や自動車の分野でも多く使われている」とBelfortは言う。「レイテンシーは600ミリ秒ほどだ……文字どおり販売の全工程をこなす」"
+        },
+        {
+          "t": "p",
+          "x": "成約率については、「まだトップの営業担当者ほどではないと思う。現場のトップ営業なら一件一件の通話で上回るだろう。それも六か月から一年で変わると思う」と語る。Toneは「自社開発の非常に小さく非常に軽いモデル」を使っており、彼は「凡庸なクローザーを大きく上回る」と考えている。"
+        },
+        {
+          "t": "p",
+          "x": "Belfortは売上を「たぶん百万ドルくらい——$700,000かな」とし、調達額は約$10 millionだという。Toneが電話するのはオプトイン(opt-in)した見込み客か既存顧客だけだと彼は言う。"
+        }
+      ]
+    },
+    "marketing/google-aimax-matchtype-param": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/11/google-ads-search-term-matchtype-valuetrack-ai-max-clicks-exact-label-conveyor-parcel-stamp.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Google Adsは、検索語句が広告主自身のキーワード経由で広告に到達したのか、AI Maxの拡張経由で到達したのかをクリックURL内に記録するValueTrackパラメータ{search_term_matchtype}を追加した。PPC News Feedが2026年11月11日に報じ、GoogleのヘルプページでこれをHana Kobzováが見つけたとしている。ページには変更の日付は記されていない。"
+        },
+        {
+          "t": "p",
+          "x": "値は完全一致なら\"e\"、フレーズ一致なら\"p\"、部分一致なら\"b\"、AI Maxの部分一致拡張とキーワードなしの一致なら\"a\"となる。従来の{matchtype}はAI Maxの部分一致拡張にキーワード自体のマッチタイプを付けるため、AI Max経由で配信された完全一致キーワードのクリックもmatchtype=eとして届いていた。違いを示すのは\"a\"を返す新パラメータだけだ。"
+        },
+        {
+          "t": "p",
+          "x": "Googleのガイダンス「Tracking AI Max matches」は、{matchtype}、{targetid}、{keyword}、{search_term_matchtype}を組み合わせ、トラフィックを通常のキーワード一致、AI Maxの部分一致拡張、AI Maxのキーワードなし拡張、AI MaxのキーワードなしURLルールに分類する。Smarter Ecommerceによると、完全一致のインプレッションに占めるAI Max拡張分（AI Max-expanded）の割合は、2026年7月までに29%近くに達した。"
+        },
+        {
+          "t": "p",
+          "x": "このパラメータは、AI Maxによる検索語句のマッチング、Googleの入札、広告主の支払額を変えない。変わるのは、ランディングページのURLsを読み取るアナリティクス、CRM、レポーティングシステムなど、下流で測定できる範囲だけだ。"
+        }
+      ]
     }
   }
 }

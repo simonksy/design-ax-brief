@@ -12419,6 +12419,163 @@
           "x": "3D変形はDev ModeでそのままCSSに対応し、コーディングエージェントはFigma MCPサーバーを通じて3Dデザインを読み取り、作成できる。3D変形は現在、すべてのFullシートユーザー向けにオープンベータで提供されている。"
         }
       ]
+    },
+    "design/lovable-drafts-parallel": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assets.lovable.dev/content/news/covers/introducing-drafts-2026-11-15.png"
+        },
+        {
+          "t": "p",
+          "x": "優れたビルダーは実験し、いじり、微調整する。これからはチームで複数のアイデアを並行して試し、お気に入りを選ぶ前に実際の環境でどう見えるかを確かめられる。その間も公開中のアプリには手が加わらない。"
+        },
+        {
+          "t": "p",
+          "x": "ドラフトを使えば、デザインからデータベースまでアプリ全体を何度でも複製できる。各ドラフトには専用のチャットとプレビューがあり、チームで別々のバージョンに取り組んで並べて比較できる。ドラフトを承認して公開を押すまで、何も本番には反映されない。"
+        },
+        {
+          "t": "video",
+          "src": "https://assets.lovable.dev/content/news/introducing-drafts/drafts-overview-2026-11-16.mp4"
+        },
+        {
+          "t": "p",
+          "x": "チームメイトやクライアントは、既存のアプリを変えずに自分のドラフトで変更を加えられる。どのドラフトにもサンプルデータが入っているので、空のページではなく、予約で埋まったカレンダーや充実した注文履歴、長い登録者リストとともにアイデアを確認できる。Lovableに別バージョンを作らせ、気に入ったものだけを残すこともできる。"
+        },
+        {
+          "t": "p",
+          "x": "「ドラフトでさまざまな機能やレイアウト、UXを並べてテストし、最も効果的なものを残している」と、OLX GlobalのDirector of Product Design & ResearchであるShane Stuartは語る。"
+        },
+        {
+          "t": "p",
+          "x": "プロジェクトを開き、エディタ上部のプロジェクト名をクリックして「New draft」を押す。ドラフトに満足したら承認を押して変更をプロジェクトに取り込み、公開を押して本番に反映する。テスト中に追加したデータはドラフト内にとどまり、承認または削除した時点で消去されるため、実際の顧客データと混ざることはない。"
+        }
+      ]
+    },
+    "design/astryx-v0-skill": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Astryxがv0でデザインシステムスキルとして利用可能になり、v0がビルドする際にガイダンス、コンポーネント、例、テンプレートをコンテキストに取り込む。"
+        },
+        {
+          "t": "img",
+          "src": "https://astryx.atmeta.com/blog/astryx-is-now-available-in-v0/cover.png",
+          "cap": "黒い背景にAstryxのマークと並ぶv0のロゴ。"
+        },
+        {
+          "t": "p",
+          "x": "Astryxがv0で利用可能になった。"
+        },
+        {
+          "t": "p",
+          "x": "v0では、デザインシステムはエージェントスキルである。ビルダーはプロジェクトにAstryxを選択でき、v0がビルドする際にそのガイダンス、コンポーネント、例、テンプレートがコンテキストに取り込まれる。"
+        },
+        {
+          "t": "p",
+          "x": "Vercelとのこの協業は、デザインシステムが人とエージェントの両方を支えるとはどういうことか、そしてシステムの知識が創作の瞬間にどう役立ち続けられるかを探る試みの一つだ。"
+        }
+      ]
+    },
+    "design/gemini-notebook-sites": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/blog_hero_periodic_table3_2784x1566.max-1440x810.png"
+        },
+        {
+          "t": "p",
+          "x": "本日から、Gemini Notebookは資料をインタラクティブなサイトに変え、複雑な情報をすばやく把握できるよう手助けする。"
+        },
+        {
+          "t": "p",
+          "x": "始めるには、Gemini Notebookのチャットに「make me a site」と入力し、仕事や学習のために作りたいものを説明するだけだ。たとえば次のようなものがある。"
+        },
+        {
+          "t": "p",
+          "x": "インタラクティブな周期表や歴史年表など、試験対策に役立つ図解。四半期の売上実績など、データを探索できるインタラクティブなダッシュボード。タスクと締め切りを整理するプロジェクト管理トラッカー。"
+        },
+        {
+          "t": "p",
+          "x": "完成したら「Open in a new tab」を選んで操作するか、他の人と共有できる。"
+        },
+        {
+          "t": "p",
+          "x": "この機能は本日、Google Workspaceの契約者を含むGemini Notebookユーザー(18+)向けにウェブ版で全世界に順次提供が始まり、モバイルアプリにも近く対応する。"
+        },
+        {
+          "t": "video",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Sites_Final.mp4"
+        }
+      ]
+    },
+    "design/onepassword-figma-make": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/bbbd715863ae9596492a6b6eda14af49a9b802de-2400x1260.png?w=1200&q=70&fit=max&auto=format"
+        },
+        {
+          "t": "p",
+          "x": "ユーザーがスマートフォンでログイン情報を自動入力するときも、デスクトップで1Passwordを使うときも、ブラウザ拡張機能からAIエージェントの認証情報リクエストを承認するときも、その体験は紛れもなく1Passwordらしくなければならない。「信頼と確実性だと思う」と、1PasswordのChief Experience OfficerであるMatt Daveyは言う。"
+        },
+        {
+          "t": "p",
+          "x": "デザインシステムチームは、約二十年分のデザインガイドラインをツールが使えるコンテキストに変換し、Figma Makeなどのエージェントがデザイナーと同じルールに従えるようにした。Ryan Williamson-Cardneauのチームは社内向けのプロトタイプ・プレイグラウンドを構築した。Figmaファイルから直接作った1Password製品のコードテンプレートを収めた、フロントエンドのみのリポジトリだ。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/a17b404ae2b6620f5900cc3aec4ff42c6e1a150c-1706x1410.png?rect=1,0,1705,1410&w=1080&h=893&q=75&fit=max&auto=format",
+          "cap": "Figma Makeで開いた1Passwordのプロトタイプ・プレイグラウンド。デザイナーはコード化されたコンポーネントを選び、チャットやプロパティパネルで調整できる。"
+        },
+        {
+          "t": "p",
+          "x": "Ryanは、30件の細かな修正を手作業で行う代わりにFigma Makeに任せたところ、約80%が正しく仕上がったことに気づいた。Mattは、プロトタイプを複製してバージョンを並べて比較することを「ビジュアル・ブランチング」と呼ぶ。チャットを1PasswordのMCPに接続すると「スパーリング相手になる」と彼は言う。"
+        },
+        {
+          "t": "p",
+          "x": "1Passwordのデザイナー全員がプロトタイプ・プレイグラウンドを使い始めており、エンジニアやPMsもそこでプロトタイプを作っている。1Passwordはユーザーテスト用に、配線で組んだFigmaプロトタイプの大半をコードによるプロトタイプに置き換えた。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/ec408a42a9435922312ea6e79eb44ac6826c9a07-1706x1408.png?rect=0,1,1706,1407&w=1080&h=891&q=75&fit=max&auto=format",
+          "cap": "プロトタイプ・プレイグラウンドにはチーム全体のプロトタイプが集まっており、どれもコード化された1Password製品テンプレートから作られている。"
+        }
+      ]
+    },
+    "design/design-fable52-brushstroke-painter": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://the-decoder.com/wp-content/uploads/2026/11/claude_fable_5.2_painting.png",
+          "cap": "THE DECODERがNano Banana Proで生成した画像"
+        },
+        {
+          "t": "p",
+          "x": "Anthropicの新しい言語モデルClaude Fable 5.2は、コードを使って仮想キャンバスに数十万もの筆致を一つずつ置くことで、複雑な絵画、さらには写真のようにリアルな絵画まで描ける。Midjourneyなど現在の画像モデルは一般に拡散（diffusion）方式を用いるが、Fable 5.2は筆の毛の質感や絵の具ののり方、後から塗り重ねて直すことになるミスまで含め、絵を描く物理的なプロセスそのものをシミュレートする。"
+        },
+        {
+          "t": "p",
+          "x": "Anthropicの開発者Jake Eatonが写真とできるだけ見分けのつかない絵を求めたところ、モデルは約700,000回のシミュレートされた筆致で、立体駐車場に置かれたショッピングカートを描いた。Eatonによれば、Claudeは外部の画像モデルを使わず、事前にレンダリングした画像やトレース用の元画像も使わない。各作品は、シミュレートされたペイントエンジンを動かす1,000行から2,000行のPythonプログラムである。"
+        },
+        {
+          "t": "img",
+          "src": "https://pbs.twimg.com/media/HWtMXeqboAA3yPD?format=jpg&name=medium",
+          "cap": "Claude Fable 5.2が約700,000回のシミュレートされた筆致で描いた、写真のようにリアルな駐車場の場面。| 画像：Jake Eaton"
+        },
+        {
+          "t": "p",
+          "x": "AnthropicのエンジニアMichael Graczykは、Fable 5.2に日の出の鳥を描くよう依頼し、筆致の一つ一つを独立した座標の行として出力させ、やり直しはできないようにした。21秒の動画は、ちょうど111筆で絵が形になっていく様子を追う。モデルは工程の合間にキャンバスを見て、本物の画家のように自らのミスに対応した。"
+        },
+        {
+          "t": "video",
+          "src": "https://the-decoder.com/wp-content/uploads/2026/11/graczyk_demo.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Anthropicによると、社内ベンチマークRoboDojo SimでFable 5.2のスコアは64.9パーセントで、OpenAIのGPT-6 Astraは29.8パーセントだった。AI研究者Aris Zhuが実際のロボットアームで行ったテストでは、Astraのほうが速く描き、細かな運動制御でも上回った。"
+        }
+      ]
     }
   }
 }

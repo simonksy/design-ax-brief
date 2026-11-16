@@ -10488,6 +10488,130 @@
           "x": "El gobierno taiwanés también desarrolla un proyecto piloto para digitalizar publicaciones y otros materiales lingüísticos a fin de facilitar el entrenamiento de AI y pagar una compensación justa a los titulares de derechos. Según informó el día 9 el semanario taiwanés Mirror Media, la legisladora del partido gobernante Chen Pei-yu afirmó que “el gobierno ha iniciado recientemente consultas interministeriales y está diseñando un ‘Plan Piloto de Digitalización de Materiales Lingüísticos Tradicionales’”. Los ‘materiales lingüísticos tradicionales’ son publicaciones y otros materiales ya producidos."
         }
       ]
+    },
+    "books/janefriedman-ai-writing-business": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://janefriedman.com/wp-content/uploads/2026/11/friedman_ai_improve_business-blogpost-1000x667.png",
+          "cap": "Foto de Negative Space"
+        },
+        {
+          "t": "p",
+          "x": "Las conversaciones sobre el uso de la AI en la comunidad de la escritura y la edición se han centrado de forma abrumadora en los efectos negativos de la AI generativa, el temor a la detección de AI y, sobre todo, el entrenamiento de AI con obras protegidas por derechos de autor sin permiso ni licencia. Estas son algunas de las cosas que he hecho con AI para apoyar mi negocio."
+        },
+        {
+          "t": "p",
+          "x": "Una mejor página de búsqueda en todo el sitio: le describí este reto a Claude y le pedí que investigara las mejores prácticas para un sitio de WordPress como el mío. En menos de una hora, Claude me dio la página de búsqueda en todo el sitio que tengo ahora."
+        },
+        {
+          "t": "p",
+          "x": "JaneBot: un chatbot conversacional que solo consulta materiales que he escrito y publicado. Usa generación aumentada por recuperación (RAG). Creé JaneBot en colaboración con Soqratic."
+        },
+        {
+          "t": "img",
+          "src": "https://janefriedman.com/wp-content/uploads/2026/11/Screenshot-2026-11-14-at-1.03.21-PM-1000x731.png",
+          "cap": "Gráfico con los temas de los comentarios, el número de comentarios, cuántos tienen 50+ palabras y el año mediano de los comentarios."
+        },
+        {
+          "t": "p",
+          "x": "Convertir los números del boletín en artículos individuales en mi sitio web era una tarea de 2–3 horas; ahora lleva menos de 15 minutos. Materiales de seguimiento tras las clases por Zoom: listos en 5 minutos."
+        },
+        {
+          "t": "p",
+          "x": "Me ha devuelto horas para dedicar a escribir e investigar el mercado. ¿Es inevitable la AI? Sí y no. Es inevitable que tus socios comerciales (editoriales, distribuidores, minoristas, proveedores de servicios y de software) usen AI."
+        }
+      ]
+    },
+    "books/scholarly-ai-usage-metrics": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Un investigador pide a un asistente de AI, como ChatGPT o Claude, que evalúe la evidencia de una afirmación científica. Detrás de la respuesta, el asistente solicitó el texto completo de treinta y dos artículos, recuperó pasajes de treinta, aportó seis como evidencia y citó tres. El investigador hizo clic en un enlace."
+        },
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/iStock-877002088-1024x694.jpg"
+        },
+        {
+          "t": "p",
+          "x": "La edición académica ha dedicado décadas a construir medidas de uso estandarizadas, sobre todo a través de COUNTER. Los asistentes de AI generan una actividad que esas medidas nunca se diseñaron para captar. La nueva guía de informes de AI de COUNTER se basa en el marco de telemetría de la SPUR Coalition, mientras que NISO prueba un modelo mínimo de metadatos para la procedencia y la atribución."
+        },
+        {
+          "t": "p",
+          "x": "¿Debería contarse como uso, en el mismo sentido, todo lo que un asistente de AI hace con contenido académico? Creemos que no. Proponemos cuatro registros superpuestos: uso, demanda, contribución y participación."
+        },
+        {
+          "t": "p",
+          "x": "Del 7 de octubre al 6 de noviembre de 2026, los asistentes intentaron 7.2 millones de lecturas de contenido de editoriales a través de Scite, de las cuales a 3.7 millones se les denegó el texto completo porque el permiso de AI-access no estaba disponible en ese servicio, una tasa de rechazo del 51%."
+        },
+        {
+          "t": "p",
+          "x": "Nos gustaría que cada informe de uso de AI incluyera una declaración de cobertura: qué servicios se incluyen, qué eventos puede observar cada uno, cómo se obtienen las cifras y dónde siguen las lagunas."
+        }
+      ]
+    },
+    "books/scholarly-governed-ai-practice": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La AI se ha extendido por la edición académica más rápido de lo que la mayoría de las editoriales pueden gobernarla. El 2026 AI in Scholarly Publishing Pulse Check de la Society for Scholarly Publishing (SSP) halló que la mayoría de las organizaciones tiene al menos un caso de uso de AI activo. Solo el 3% se siente totalmente preparada."
+        },
+        {
+          "t": "p",
+          "x": "¿Cómo puede una editorial hacer que la AI sea útil en toda la organización sin perder el control de la información confidencial, las decisiones editoriales y la rendición de cuentas? Gregory Simmons abordó esa pregunta en una presentación reciente ante la AI in Scholarly Publishing Community of Interest (CoIN) de SSP."
+        },
+        {
+          "t": "p",
+          "x": "Greg: La AI puede resumir contenidos, clasificar envíos, apoyar la mejora del lenguaje, detectar patrones y ayudar en la evaluación inicial. Las personas siguen tomando las decisiones sobre relevancia, ética, calidad y publicación."
+        },
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/Figure-1-1024x926.png",
+          "cap": "Figura 1. La gobernanza, la ejecución y la protección actúan juntas como núcleo operativo de un enfoque seguro de la AI."
+        },
+        {
+          "t": "p",
+          "x": "Greg: Hay que empezar por el propósito y seguir con la estrategia, la gobernanza y la tecnología, en ese orden. Las organizaciones a menudo lo hacen al revés: encuentran una herramienta nueva y luego buscan una razón para usarla."
+        },
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/Figure-2-1024x931.png",
+          "cap": "Figura 2. La preparación para la AI abarca seis dimensiones, y la tecnología es solo una de ellas."
+        }
+      ]
+    },
+    "books/books-sinchun-ai-manuscript-ban": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://wimg.munhwa.com/news/cms/2026/11/13/news-p.v1.20261113.21eb02ee52ec4296855b46c84ebc89cd_P1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "“Pedimos disculpas de antemano.” Al preparar el Sinchun Munye de este año, pedimos comprensión desde temprano a los jurados convocados. Con la temporada del Sinchun Munye acercándose, tuvimos que empezar disculpándonos por la avalancha de manuscritos que llegará. Hoy, para los periodistas que se encargan del Sinchun Munye en los diarios, la mayor preocupación son los ‘manuscritos de IA’, que han aumentado con el uso de la inteligencia artificial generativa (AI). Cada medio se prepara con cuidado e incluye sus propias cláusulas de prohibición."
+        },
+        {
+          "t": "p",
+          "x": "Todo empezó el año pasado. El Sinchun Munye del Munhwa Ilbo recibió más de 1000 obras más que el año anterior. Entonces algunos pensaron que se debía a un ‘auge literario’ o a la moda del text-hip impulsada por el Premio Nobel de Literatura de la escritora Han Kang, pero hoy predomina el análisis de que es efecto de la creación con IA."
+        },
+        {
+          "t": "p",
+          "x": "Esta preocupación no es solo de los periódicos. Las principales editoriales literarias que eligen premios cada año también están ocupadas. Para el próximo año, en general, los premios para autores noveles prohibirán por completo el uso de IA, y los premios para escritores consagrados admitirán un uso parcial, pero exigirán pruebas de que las ideas principales y el esquema los creó un ‘humano’."
+        },
+        {
+          "t": "img",
+          "src": "https://wimg.munhwa.com/news/cms/2026/11/13/news-p.v1.20261113.cc65030b449144b4945454fc8df11877_P3.webp"
+        },
+        {
+          "t": "p",
+          "x": "Esto responde a la confianza en los escritores consagrados, pero también a límites físicos. En los premios para noveles, sin restricciones para participar, aceptar manuscritos de IA traería tantas obras que la evaluación misma sería imposible. En el extranjero, la polémica ya está en pleno apogeo. La novela del autor Tellison Aurélien, que había entrado en las listas de la ronda 1 de los 4 grandes premios literarios de Francia, fue retirada de la lista del Premio Goncourt tras surgir sospechas de uso de IA, y su editorial también rescindió el contrato."
+        },
+        {
+          "t": "p",
+          "x": "Es una época en la que resulta cada vez más difícil impedir del todo la creación con IA y distinguirla de la escritura humana. Aun así, ante esta singularidad, entre las limitaciones reales y la expectativa de una creación pura, tomamos por ahora esta decisión. El Munhwa Ilbo no aceptará ningún manuscrito escrito con IA en este Sinchun Munye. El plazo de este año vence el 2 de diciembre."
+        }
+      ]
     }
   }
 }

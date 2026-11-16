@@ -11835,6 +11835,126 @@
           "x": "Activision says cheat developers are adjusting their software to make automated gameplay appear more natural, but the more their software imitates legitimate gameplay, the less advantage it potentially provides. No release date has been announced for additional AI-focused detection tools."
         }
       ]
+    },
+    "games/games-unions-genai-manifesto": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/11/IWGB-union-logo.jpg",
+          "cap": "IWGB Game Workers logo © IWGB"
+        },
+        {
+          "t": "p",
+          "x": "Video game unions across Europe have published a joint manifesto calling for consumers to “support games made without GenAI” prior to today’s second European game worker union summit meeting in Manchester, England. The manifesto’s primary goal is to “raise awareness of the harms of generative AI.”"
+        },
+        {
+          "t": "p",
+          "x": "The manifesto, titled “On Generative AI Usage in the Games Industry,” is a joint effort coordinated by Great Britain’s IWGB, the Republic of Ireland’s GWUI, France’s STJV, Spain’s CSVI, Germany’s GDRT, and Italy’s FIOM-CGIL."
+        },
+        {
+          "t": "p",
+          "x": "It highlights generative AI’s “severe harm to the environment,” its role in causing a “marked decline in junior positions within the industry,” and AI models’ documented history of being “trained on stolen third-party data.” Players are urged to “be vocal about disliking genAI in games” and to support “games made without genAI.”"
+        },
+        {
+          "t": "p",
+          "x": "The manifesto states that “workers should be the ones who decide when, where and how to use” generative AI, while urging those who do to keep “concerns around the environment, cost, ethics, law, honesty,” and “the sanctity of art” in mind."
+        }
+      ]
+    },
+    "games/ai-mensetsukan-steam-game": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.4gamer.net/games/058/G105854/20261116008/SS/001.jpg"
+        },
+        {
+          "t": "p",
+          "x": "On November 13, 2026, MeteorWing released the PC title “AI面接官を突破せよ” (Get Past the AI Interviewer) on Steam. It costs 280 yen (tax included). As a launch sale, it is 40% off at 168 yen (tax included) until November 28. In the game, you work assigned words into a resume within a 5-minute time limit, pass the AI interviewer's document screening, and then face the interview."
+        },
+        {
+          "t": "img",
+          "src": "https://www.4gamer.net/games/058/G105854/20261116008/SS/002.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The assigned words include ones that would look fine on a resume, such as “walk” and “pencil,” as well as outlandish ones like “ghost” and “wanted fugitive.” Players weave these words naturally into the text of their resume."
+        },
+        {
+          "t": "img",
+          "src": "https://www.4gamer.net/games/058/G105854/20261116008/SS/003.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The AI interviewer reads the player's resume aloud and rates it with a score and comments. Passing the document screening moves you on to the interview, where the AI comes up with questions on the spot based on what the player wrote. Questions such as “Your resume says ‘In my past life I was a ninja’...” are answered by keyboard or voice, within 1 minute per 1 question."
+        },
+        {
+          "t": "img",
+          "src": "https://www.4gamer.net/games/058/G105854/20261116008/SS/004.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Each answer shows a score and the reason for it, and at the end you are either hired or rejected. A demo was also released on Steam on November 14, so anyone curious can try that first."
+        }
+      ]
+    },
+    "games/gamemeca-ai-clone-precedent": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "As generative AI use spreads, \"AI reverse engineering\" is emerging as a problem. It refers to cases where someone analyzes how a game works and how its play flows, based on publicly released gameplay videos or demos, and then builds a game that resembles it."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gamemeca.com/data_center/346/572/20261104154322.webp",
+          "cap": "▲ Slotbound, which was hit by AI reverse engineering (Photo: official Steam page)"
+        },
+        {
+          "t": "p",
+          "x": "King sued Avocado Entertainment, the domestic service operator of Forest Mania, claiming it had copied Farm Heroes Saga. The 2nd-instance court denied substantial similarity, but the Supreme Court's ruling 2017다212095, delivered on 2019. 6. 27., recognized substantial similarity and reversed and remanded the lower court's decision. The Supreme Court held that a game can be protected by copyright if creative individuality shows in the way its main components are selected, arranged and organically combined."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gamemeca.com/data_center/347/855/20261116135039.webp",
+          "cap": "▲ Comparison of Farm Heroes Saga (left) and Forest Mania (right) (Source: Seoul Central District Court ruling)"
+        },
+        {
+          "t": "p",
+          "x": "Under this standard, it is hard to argue that copyright issues can be avoided simply because the code was newly written with AI. At the same time, infringement is not more easily recognized merely because AI was used or the development period was short. The key is whether the game was built on the original, and whether the original's creative expression was reproduced in a substantially similar way."
+        },
+        {
+          "t": "p",
+          "x": "Developers should organize design documents, builds by version, meeting notes and remote repository change logs in chronological order, and keep the store URL, publisher, date checked and version of the similar game along with original screen recordings. Steam's copyright infringement report, an injunction banning distribution, and dispute mediation by the Korea Copyright Commission can also be options."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gamemeca.com/data_center/347/856/20261116135635.webp",
+          "cap": "▲ Steam's copyright infringement report form (Source: official Steam page)"
+        }
+      ]
+    },
+    "games/xbox-helix-neural-rendering": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Project-Helix-Xbox-HD-1920x1080.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "The celebrations for XBOX's 25th anniversary are underway, and Microsoft has shared new details about the upcoming next-generation Project Helix console in an interview with Jason Ronald, XBOX Vice President of Next Generation, published in the free digital XBOX 25th Anniversary Magazine."
+        },
+        {
+          "t": "p",
+          "x": "Ronald reiterated that Helix will also play PC games, though he did not clarify whether it would support platforms like Steam: \"Helix is designed to be a console that is also capable of playing games from your PC. It is not a PC that can also play console games.\""
+        },
+        {
+          "t": "p",
+          "x": "He stressed that the console will leverage neural rendering: \"This is a big reason why we're really focused on advancements like neural rendering, because it's an entirely new way to generate a frame without requiring more computational horsepower, additional memory, and things like that.\" The next generation, he said, is about \"leveraging new technical advancements, such as neural rendering, to deliver a new level of visual fidelity in more efficient and innovative ways.\""
+        },
+        {
+          "t": "p",
+          "x": "Wccftech notes he was likely referring to neural rendering in a broader sense, including AI-powered upscaling, frame generation and ray reconstruction, rather than NVIDIA's DLSS 5-like approach. Full details may take a while, given rumors that the console has been delayed to Holiday 2028."
+        }
+      ]
     }
   }
 }

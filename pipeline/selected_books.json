@@ -1,158 +1,129 @@
 {
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "section": "books",
   "picks": [
     {
-      "title": "‘AI 활용 원고’ 신춘문예선 안받습니다[소소한 복도통신]",
-      "url": "https://www.munhwa.com/article/11631030",
-      "source": "문화일보",
+      "title": "Audible turns to AI to help users discover audiobooks",
+      "url": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/",
+      "source": "TechCrunch",
       "tool": "Books",
       "accent": "#f5a623",
       "motif": "swatch",
-      "published_iso": "2026-11-13T09:26:16+09:00",
-      "og_image": "https://wimg.munhwa.com/news/cms/2026/11/13/news-p.v1.20261113.21eb02ee52ec4296855b46c84ebc89cd_R.jpg",
-      "excerpt": "생성형 AI로 쓴 'AI 원고'가 신춘문예 응모작에 쏟아지면서 일간지 신춘문예 담당 기자들이 AI 활용 원고를 받지 않겠다고 공지하고 심사위원들에게 미리 양해를 구하는 상황을 전한다.",
-      "rationale": "New submission rule: Korean dailies' 신춘문예 contests now publicly refuse AI-assisted manuscripts — directly changes what aspiring writers can submit this season."
+      "published_iso": "2026-11-16T15:52:19+00:00",
+      "og_image": "https://techcrunch.com/wp-content/uploads/2026/11/Audible_Audio_Discovery_Still.jpeg?resize=1200,824",
+      "excerpt": "Audible's new AI-generated audio previews summarize a book's themes and what readers liked about it, in addition to playing the narrated sample.",
+      "rationale": "New product release: Audible's AI 'Audio Discovery' previews change how listeners find audiobooks, and how authors' books get pitched to them."
     },
     {
-      "title": "SelfPubCon26 highlights: 7 ideas from the 2026 Self-Publishing Advice Conference",
-      "url": "https://selfpublishingadvice.org/selfpubcon26-highlights-7-ideas-from-the-2026-self-publishing-advice-conference/",
-      "source": "ALLi Self-Publishing Advice Center",
+      "title": "How I've Used AI to Improve My Writing Business",
+      "url": "https://janefriedman.com/how-ive-used-ai-to-improve-my-writing-business/",
+      "source": "Jane Friedman",
       "tool": "Books",
       "accent": "#0070f3",
       "motif": "swatch",
-      "published_iso": "2026-11-14T23:01:18+00:00",
-      "og_image": "https://selfpublishingadvice.org/wp-content/uploads/2026/11/Self-Pub-Con-2026-Highlights-Report.jpg",
-      "excerpt": "ALLi's SelfPubCon26 takeaways for indie authors include optimizing to be found when readers ask AI assistants for book recommendations, and a publisher who runs admin across eight brands with AI agents while keeping all writing and editing human.",
-      "rationale": "Most actionable item in the pool: concrete practices from SelfPubCon26 for indie authors (AI-assistant discoverability, AI agents for admin with human-only writing)."
+      "published_iso": "2026-11-16T10:00:00+00:00",
+      "og_image": "https://janefriedman.com/wp-content/uploads/2026/11/friedman_ai_improve_business-social.png",
+      "excerpt": "Most discussion of AI in the writing and publishing community has focused on its harms. Jane Friedman details how she has put AI to work in her publishing-industry business.",
+      "rationale": "The most practical item in the pool: a respected publishing-industry voice lays out the concrete AI uses she relies on in her own writing business."
     },
     {
-      "title": "AI Is Destroying the Trust Between Writers and Readers",
-      "url": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/",
-      "source": "The Atlantic",
+      "title": "Beyond the Download: What Counts as Scholarly Content Use in the Age of AI?",
+      "url": "https://scholarlykitchen.sspnet.org/2026/11/16/guest-post-beyond-the-download-what-counts-as-scholarly-content-use-in-the-age-of-ai/",
+      "source": "The Scholarly Kitchen",
       "tool": "Books",
       "accent": "#7928ca",
       "motif": "swatch",
-      "published_iso": "2026-11-12T13:00:00Z",
-      "og_image": "https://cdn.theatlantic.com/thumbor/WpCSt6SIpZ4SfMiOezfUwZu_uUw=/0x0:4800x2700/960x540/media/img/mt/2026/11/2016_11_12_AI_Authors_and_Readers_1/original.jpg",
-      "excerpt": "Novelist Rachel Kadish describes ChatGPT inventing a false plotline for her novel The Weight of Ink that a reader then confronted her about, and argues AI literary scams and fabrications are eroding trust between authors and readers.",
-      "rationale": "Fresh first-hand case: ChatGPT fabricating a plot for a real novel and a reader confronting the author — a new angle (AI hallucinations about existing books) not covered by prior slop/scam cards."
+      "published_iso": "2026-11-16T10:30:27+00:00",
+      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/iStock-877002088.jpg",
+      "excerpt": "New usage metrics are needed as AI assistants intermediate between researchers and publisher content. What should count, and what can those numbers say about the value of research?",
+      "rationale": "New argument: download counts stop working once AI assistants sit between researchers and content. This matters for publisher licensing and library renewals."
     },
     {
-      "title": "Wee Tian Beng's The Celestial Zone Is Getting an AI-Assisted Anime From 2027",
-      "url": "https://danamic.org/2026/11/15/wee-tian-bengs-the-celestial-zone-is-getting-an-ai-assisted-anime-from-2027/",
-      "source": "DANAMIC",
-      "tool": "Books",
-      "accent": "#2ec5c5",
-      "motif": "swatch",
-      "published_iso": "2026-11-15T05:22:00+00:00",
-      "og_image": "https://danamic-media.danamic.org/danamic-production/2026/11/15052246/pitch-13890a76-XM-Media-1-link_14a2e195f1.webp",
-      "excerpt": "New Singapore company XM Media launched at Game Fest 2026 with plans to turn Wee Tian Beng's 1999 wuxia comic The Celestial Zone into a multi-season anime from 2027 using AI-assisted animation.",
-      "rationale": "New announcement: a classic Singapore comic gets a multi-season AI-assisted anime adaptation — comics-to-screen via AI outside Korea/Japan."
-    },
-    {
-      "title": "TN suspends five library officials over procurement of AI-generated books",
-      "url": "https://timesofindia.indiatimes.com/city/chennai/tn-suspends-five-library-officials-over-procurement-of-ai-generated-books/articleshow/135861968.cms",
-      "source": "The Times of India",
+      "title": "From AI Adoption to AI Practice: Building Governed AI in Scholarly Publishing",
+      "url": "https://scholarlykitchen.sspnet.org/2026/11/04/from-ai-adoption-to-ai-practice-building-governed-ai-in-scholarly-publishing/",
+      "source": "The Scholarly Kitchen",
       "tool": "Books",
       "accent": "#eb367f",
       "motif": "swatch",
-      "published_iso": "2026-11-15T22:58:00+05:30",
-      "og_image": "https://static.toiimg.com/thumb/msid-135618763,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "excerpt": "Tamil Nadu govt suspends five library officials over procurement of AI-generated books for Periyar Arivulagam Library, Coimbatore; DVAC inquiry underway.",
-      "rationale": "Follow-up with a new concrete action: Tamil Nadu suspends five library officials and opens a DVAC inquiry over AI-generated book purchases — consequences beyond the 11-07 probe and 11-11 court FIR order."
+      "published_iso": "2026-11-04T10:30:11+00:00",
+      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/venn.jpg",
+      "excerpt": "How a publisher can make AI useful across the organization while keeping control of confidential information, editorial decisions and accountability.",
+      "rationale": "Actionable operating guide for publishers rolling out governed internal AI (confidentiality, editorial control, accountability). It is distinct from the 10-14 'moving faster than the evidence' post."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.munhwa.com/article/11631030": {
+      "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/": {
         "verdict": "new",
-        "nearest": "https://www.donga.com/news/Culture/article/all/20261018/134863199/2",
+        "nearest": "https://www.tomsguide.com/ai/turn-your-pdfs-into-audiobooks-with-chatgpt-heres-the-simple-trick",
         "new_action": ""
       },
-      "https://selfpublishingadvice.org/selfpubcon26-highlights-7-ideas-from-the-2026-self-publishing-advice-conference/": {
+      "https://janefriedman.com/how-ive-used-ai-to-improve-my-writing-business/": {
         "verdict": "new",
-        "nearest": "https://www.thebookseller.com/comment/ai-changing-book-discovery-what-booksellers-can-do",
+        "nearest": "https://selfpublishingadvice.org/selfpubcon26-highlights-7-ideas-from-the-2026-self-publishing-advice-conference/",
         "new_action": ""
       },
-      "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/": {
+      "https://scholarlykitchen.sspnet.org/2026/11/16/guest-post-beyond-the-download-what-counts-as-scholarly-content-use-in-the-age-of-ai/": {
         "verdict": "new",
-        "nearest": "https://www.ncregister.com/news/the-catholic-ai-slop-problem",
+        "nearest": "https://scholarlykitchen.sspnet.org/2026/11/10/ai-and-the-users-we-serve/",
         "new_action": ""
       },
-      "https://danamic.org/2026/11/15/wee-tian-bengs-the-celestial-zone-is-getting-an-ai-assisted-anime-from-2027/": {
+      "https://scholarlykitchen.sspnet.org/2026/11/04/from-ai-adoption-to-ai-practice-building-governed-ai-in-scholarly-publishing/": {
         "verdict": "new",
-        "nearest": "https://www.animenewsnetwork.com/news/2026-11-14/kakao-openai-collaborate-on-ai-generated-short-animation-based-on-ryan-begins-webtoon/.243712",
+        "nearest": "https://scholarlykitchen.sspnet.org/2026/10/14/guest-post-artificial-intelligence-in-scholarly-publishing-are-we-moving-faster-than-the-evidence/",
         "new_action": ""
-      },
-      "https://timesofindia.indiatimes.com/city/chennai/tn-suspends-five-library-officials-over-procurement-of-ai-generated-books/articleshow/135861968.cms": {
-        "verdict": "follow-up",
-        "nearest": "https://www.indiatoday.in/india/tamil-nadu/story/periyar-arivulagam-book-purchase-probe-ai-errors-inflated-prices-vijay-tvk-dmk-3034039-2026-11-06",
-        "new_action": "Tamil Nadu government suspended five library officials and a DVAC (vigilance) inquiry is underway — new disciplinary action after the 11-07 probe order and the 11-11 Madras HC FIR order (barandbench)."
       }
     },
-    "note": "Dropped as duplicates / running-story repeats: The News Minute 'Libraries of lies' (extra reporting on the Tamil Nadu library story already published 11-07 and 11-11; the TOI suspension is the one new action kept); Futurism Coral Hart mass-produced AI romance (related to 2026-10-25 Times Now '370 books in 20 months' prolific-AI-author card — treated as the same running story); 시사IN, 독서신문 column and Computer Weekly ethics feature (commentary on the Anthropic book-buying/scanning story already covered 10-22, 10-27, 11-08, 11-15). Excluded as business noise: 한국경제 키다리·더핑크퐁 analyst note, 천지일보 Naver Webtoon earnings call, 디지털데일리 웹툰엔터 earnings-call metric (byUs launched 10-26). Passed over on score: Guardian 'wild west' feature (roundup of already-covered prize/AI-use scandals), Voice Over Herald SAG-AFTRA remarks (commentary, weak books fit; same outlet ran 11-15), Yonhap 이우혁 interview, B2B News NZ author scams, 노컷 웹툰 기획 and 한미중 저작권 preview, 오마이뉴스 illustrators, 강원도민일보 forum, school picture-book/SF anthology items. No candidate appears in the curator brief's cross-section assignments; published_urls.json not grep-able with Read-only tools — orchestrator should exact-grep the 5 URLs before roll."
+    "note": "The Bookseller 'Publishing Ireland conference' pick was removed after the fact-check pass: the article is paywalled and only a one-line standfirst is reachable, so its AI coverage can't be verified. No replacement was added and the section stays at 4 picks. The two remaining eligible candidates don't qualify. The Guardian 'wild west' feature is a roundup and extra reporting on prize/AI-use scandals already published (Goncourt 11-05, Caine 11-12, Quebec 10-22, French manuscript screening 11-15), so it counts as the same running story with no new event, and it was passed over on 11-16 too. The Lit Hub William Blake essay is opinion with no news hook, so adding it would be padding. Dropped as duplicates / running-story repeats: Good e-Reader Audible Audio Discovery (same launch as the TechCrunch pick; brief caps Audible at 1); Le Monde Pascal Prize (same as the 2026-10-21 Bookseller Prix Pascal card); Futurism Coral Hart AI romance (same running story as the 2026-10-25 Times Now '370 books' card, also dropped 11-16); Scholarly Kitchen IFRRO CEO interview (commentary on the IFRRO study published 2026-10-30, no new release); Book Riot 'Investigations targeting BIPOC authors' (commentary on the French AI-manuscript scandal already covered 11-05/11-15). Excluded by cross-section assignment: Books+Publishing ASA 'Not AI's to Take' (music only) and Voice Over Herald Equity–Pact ballot (movies only). Picks: 3 outlets, max 2 per outlet (Scholarly Kitchen). I could not grep published_urls.json with Read-only tools, so the orchestrator should exact-grep the 4 URLs across all sections before roll."
   },
   "items": [
     {
-      "title": "‘AI 활용 원고’ 신춘문예선 안받습니다[소소한 복도통신]",
-      "url": "https://www.munhwa.com/article/11631030",
-      "source": "문화일보",
+      "title": "Audible turns to AI to help users discover audiobooks",
+      "url": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/",
+      "source": "TechCrunch",
       "tool": "Books",
       "accent": "#f5a623",
       "motif": "swatch",
-      "published_iso": "2026-11-13T09:26:16+09:00",
-      "og_image": "https://wimg.munhwa.com/news/cms/2026/11/13/news-p.v1.20261113.21eb02ee52ec4296855b46c84ebc89cd_R.jpg",
-      "excerpt": "생성형 AI로 쓴 'AI 원고'가 신춘문예 응모작에 쏟아지면서 일간지 신춘문예 담당 기자들이 AI 활용 원고를 받지 않겠다고 공지하고 심사위원들에게 미리 양해를 구하는 상황을 전한다.",
-      "rationale": "New submission rule: Korean dailies' 신춘문예 contests now publicly refuse AI-assisted manuscripts — directly changes what aspiring writers can submit this season."
+      "published_iso": "2026-11-16T15:52:19+00:00",
+      "og_image": "https://techcrunch.com/wp-content/uploads/2026/11/Audible_Audio_Discovery_Still.jpeg?resize=1200,824",
+      "excerpt": "Audible's new AI-generated audio previews summarize a book's themes and what readers liked about it, in addition to playing the narrated sample.",
+      "rationale": "New product release: Audible's AI 'Audio Discovery' previews change how listeners find audiobooks, and how authors' books get pitched to them."
     },
     {
-      "title": "SelfPubCon26 highlights: 7 ideas from the 2026 Self-Publishing Advice Conference",
-      "url": "https://selfpublishingadvice.org/selfpubcon26-highlights-7-ideas-from-the-2026-self-publishing-advice-conference/",
-      "source": "ALLi Self-Publishing Advice Center",
+      "title": "How I've Used AI to Improve My Writing Business",
+      "url": "https://janefriedman.com/how-ive-used-ai-to-improve-my-writing-business/",
+      "source": "Jane Friedman",
       "tool": "Books",
       "accent": "#0070f3",
       "motif": "swatch",
-      "published_iso": "2026-11-14T23:01:18+00:00",
-      "og_image": "https://selfpublishingadvice.org/wp-content/uploads/2026/11/Self-Pub-Con-2026-Highlights-Report.jpg",
-      "excerpt": "ALLi's SelfPubCon26 takeaways for indie authors include optimizing to be found when readers ask AI assistants for book recommendations, and a publisher who runs admin across eight brands with AI agents while keeping all writing and editing human.",
-      "rationale": "Most actionable item in the pool: concrete practices from SelfPubCon26 for indie authors (AI-assistant discoverability, AI agents for admin with human-only writing)."
+      "published_iso": "2026-11-16T10:00:00+00:00",
+      "og_image": "https://janefriedman.com/wp-content/uploads/2026/11/friedman_ai_improve_business-social.png",
+      "excerpt": "Most discussion of AI in the writing and publishing community has focused on its harms. Jane Friedman details how she has put AI to work in her publishing-industry business.",
+      "rationale": "The most practical item in the pool: a respected publishing-industry voice lays out the concrete AI uses she relies on in her own writing business."
     },
     {
-      "title": "AI Is Destroying the Trust Between Writers and Readers",
-      "url": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/",
-      "source": "The Atlantic",
+      "title": "Beyond the Download: What Counts as Scholarly Content Use in the Age of AI?",
+      "url": "https://scholarlykitchen.sspnet.org/2026/11/16/guest-post-beyond-the-download-what-counts-as-scholarly-content-use-in-the-age-of-ai/",
+      "source": "The Scholarly Kitchen",
       "tool": "Books",
       "accent": "#7928ca",
       "motif": "swatch",
-      "published_iso": "2026-11-12T13:00:00Z",
-      "og_image": "https://cdn.theatlantic.com/thumbor/WpCSt6SIpZ4SfMiOezfUwZu_uUw=/0x0:4800x2700/960x540/media/img/mt/2026/11/2016_11_12_AI_Authors_and_Readers_1/original.jpg",
-      "excerpt": "Novelist Rachel Kadish describes ChatGPT inventing a false plotline for her novel The Weight of Ink that a reader then confronted her about, and argues AI literary scams and fabrications are eroding trust between authors and readers.",
-      "rationale": "Fresh first-hand case: ChatGPT fabricating a plot for a real novel and a reader confronting the author — a new angle (AI hallucinations about existing books) not covered by prior slop/scam cards."
+      "published_iso": "2026-11-16T10:30:27+00:00",
+      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/iStock-877002088.jpg",
+      "excerpt": "New usage metrics are needed as AI assistants intermediate between researchers and publisher content. What should count, and what can those numbers say about the value of research?",
+      "rationale": "New argument: download counts stop working once AI assistants sit between researchers and content. This matters for publisher licensing and library renewals."
     },
     {
-      "title": "Wee Tian Beng's The Celestial Zone Is Getting an AI-Assisted Anime From 2027",
-      "url": "https://danamic.org/2026/11/15/wee-tian-bengs-the-celestial-zone-is-getting-an-ai-assisted-anime-from-2027/",
-      "source": "DANAMIC",
-      "tool": "Books",
-      "accent": "#2ec5c5",
-      "motif": "swatch",
-      "published_iso": "2026-11-15T05:22:00+00:00",
-      "og_image": "https://danamic-media.danamic.org/danamic-production/2026/11/15052246/pitch-13890a76-XM-Media-1-link_14a2e195f1.webp",
-      "excerpt": "New Singapore company XM Media launched at Game Fest 2026 with plans to turn Wee Tian Beng's 1999 wuxia comic The Celestial Zone into a multi-season anime from 2027 using AI-assisted animation.",
-      "rationale": "New announcement: a classic Singapore comic gets a multi-season AI-assisted anime adaptation — comics-to-screen via AI outside Korea/Japan."
-    },
-    {
-      "title": "TN suspends five library officials over procurement of AI-generated books",
-      "url": "https://timesofindia.indiatimes.com/city/chennai/tn-suspends-five-library-officials-over-procurement-of-ai-generated-books/articleshow/135861968.cms",
-      "source": "The Times of India",
+      "title": "From AI Adoption to AI Practice: Building Governed AI in Scholarly Publishing",
+      "url": "https://scholarlykitchen.sspnet.org/2026/11/04/from-ai-adoption-to-ai-practice-building-governed-ai-in-scholarly-publishing/",
+      "source": "The Scholarly Kitchen",
       "tool": "Books",
       "accent": "#eb367f",
       "motif": "swatch",
-      "published_iso": "2026-11-15T22:58:00+05:30",
-      "og_image": "https://static.toiimg.com/thumb/msid-135618763,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "excerpt": "Tamil Nadu govt suspends five library officials over procurement of AI-generated books for Periyar Arivulagam Library, Coimbatore; DVAC inquiry underway.",
-      "rationale": "Follow-up with a new concrete action: Tamil Nadu suspends five library officials and opens a DVAC inquiry over AI-generated book purchases — consequences beyond the 11-07 probe and 11-11 court FIR order."
+      "published_iso": "2026-11-04T10:30:11+00:00",
+      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/venn.jpg",
+      "excerpt": "How a publisher can make AI useful across the organization while keeping control of confidential information, editorial decisions and accountability.",
+      "rationale": "Actionable operating guide for publishers rolling out governed internal AI (confidentiality, editorial control, accountability). It is distinct from the 10-14 'moving faster than the evidence' post."
     }
   ]
 }

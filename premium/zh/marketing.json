@@ -4943,6 +4943,142 @@
           "x": "该计划能否落地仍是未知数。Reuters称，目前尚不清楚“该计划是否或何时会实施”，但文件中列出了2027年10月1日的发布日期。Amazon表示：“这样一份头脑风暴文件的存在，并不一定反映我们当前的计划。”"
         }
       ]
+    },
+    "marketing/google-aimode-hotel-booking": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/11/google-ai-mode-holiday-guide-hotel-dinner-ticket-bookings-google-pay-funnel-key-plate-ticket.jpg",
+          "cap": "Google的假日指南把酒店、晚餐和门票预订引向AI Mode，并用Google Pay支付"
+        },
+        {
+          "t": "p",
+          "x": "Google发布了一份假日指南《Search帮你规划假期的4种方式》，把季节性琐事交给Search Live、Lens和AI Mode处理，并将酒店客房、餐厅座位和活动门票呈现为Search可以直接预订、而不只是搜索到的东西。其中没有任何功能被标注为新发布。"
+        },
+        {
+          "t": "p",
+          "x": "在酒店方面，AI Mode提供“可比较设施、住客评价和照片的可视化选项列表”。用户可以跳转到旅行合作方处预订，或者“如果看到‘Continue on Google’，就可以直接在AI Mode中用Google Pay完成酒店预订”。AI Mode的酒店预订于2026年8月27日开始在US以英语推出，合作方包括Booking.com、Expedia、Hilton和Marriott在内的十家，由它们担任记录商户（merchant of record）。"
+        },
+        {
+          "t": "p",
+          "x": "Google的帮助页面称，该功能仅在US以英语提供，且只适用于部分酒店，不支持促销代码、奖励积分兑换或会员号码。"
+        },
+        {
+          "t": "p",
+          "x": "晚餐和门票沿用同一模式，AI Mode任务会“在后台追踪门票开售和价格变动”，并通过Google应用通知用户。对营销人员而言，预订合作方保留记录商户身份，而界面、Google Pay凭证以及把购物者拉回来的提醒都掌握在Google手中。"
+        }
+      ]
+    },
+    "marketing/jcrew-style-advisor-anthropic": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/f5YC8XCfhWSHGirICm9w9L7klu_UcwXzWbVHVxach0Q/g:nowe:0:70/c:640:362/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8xNDU3OTUzMjMxOF84ZjkxMjlmMzljX3ouanBn.webp",
+          "cap": "J. Crew的Style Advisor利用AI为顾客提供可直接选购的完整造型。"
+        },
+        {
+          "t": "p",
+          "x": "J. Crew推出了名为Style Advisor的AI-powered衣橱顾问，由其与Anthropic合作打造，并“由多种Claude模型”驱动。公司表示，它“以灵感和发现为导向，而不是搜索单个商品”。"
+        },
+        {
+          "t": "p",
+          "x": "这款对话式聊天机器人拥有“庞大的自有图片库”，顾客可以用自然语言提问，获得“J. Crew造型师一直以来提供的那种建议”。目前它已在J. Crew U.S.网站上线，覆盖男装和女装风格。"
+        },
+        {
+          "t": "p",
+          "x": "Style Advisor从“J.Crew自家拍摄中的数千套服装搭配”出发，帮助顾客组合从头到脚的造型。顾客可以从求职面试、生日派对等场合入手，也可以围绕某件单品搭配，这一工具还会“变得更加个性化，根据每位顾客的偏好和过往购买调整建议”。"
+        },
+        {
+          "t": "p",
+          "x": "“通过与Anthropic的合作，我们正把J. Crew数十年的造型、商品企划和创意经验汇聚起来，帮助塑造顾客行为的下一步，”J. Crew Group首席执行官（CEO）Libby Wadle说。"
+        },
+        {
+          "t": "p",
+          "x": "竞争对手Ralph Lauren在一年多前推出了自己的AI造型助手，Stitch Fix则在7月推出了类似产品。J. Crew目前在U.S.经营114家零售门店。"
+        }
+      ]
+    },
+    "marketing/bustle-profound-ai-visibility": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://digiday.com/wp-content/uploads/sites/3/2026/04/ai-recommends-digiday.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Bustle Digital Group正借助Profound的AI测量工具，帮助Pampers、Innisfree等品牌出现在AI-generated推荐中。这项内部代号为ECHO的GEO服务，利用Profound的分析和以BDG内容训练的AI智能体来生成创意简报。至少已有三个品牌为此付费。"
+        },
+        {
+          "t": "p",
+          "x": "根据一份基于Profound数据的BDG案例研究，在一次活动中，Innisfree在200个被追踪的护肤类提示词中的可见度提升了30%，而Bustle的引用排名从#709升至#12。"
+        },
+        {
+          "t": "img",
+          "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Innisfree_ChatGPTScreenshot-1.jpeg",
+          "cap": "来源：BDG"
+        },
+        {
+          "t": "p",
+          "x": "在Scary Mommy发布一篇解读文章后，Pampers在无香型纸尿裤相关问题上的AI可见度从#2升至#1。"
+        },
+        {
+          "t": "p",
+          "x": "BDG和Profound先分析八到10个主题，每个主题25到50个提示词；随后由智能体设计简报，BDG编辑据此撰稿，内容再在Reddit上交叉推广。BDG分发与AI情报svp Graham Howes表示：“广告主完全不参与实际的创意开发。”效果主要在ChatGPT、Gemini和Google的AI Overviews上追踪。Profound不从这些交易中抽成。"
+        }
+      ]
+    },
+    "marketing/tone-belfort-ai-sales-voice": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/11/Jordan-Belfort.jpeg?resize=1200,675",
+          "cap": "图片来源：Osiris Media, Inc"
+        },
+        {
+          "t": "p",
+          "x": "自称“Wolf of Wall Street”的Jordan Belfort正在打造一个名为Tone的语音AI平台。他说，秘诀在于让语音带上能拿下交易的语调，比如把陈述句说成问句，有时甚至压低声音耳语。"
+        },
+        {
+          "t": "p",
+          "x": "Belfort称，Tone已被一些销售线索多到人工团队应付不过来的公司使用，并正为想要“富有表现力的AI-generated旁白”的创作者和作者推出自助服务平台，语音克隆功能也在陆续上线。他的联合创始人是投资人Shervin Pishevar；TechCrunch指出，无法独立核实这项技术是否如其所述。"
+        },
+        {
+          "t": "p",
+          "x": "“我们的客户有律师事务所和健康保险公司。在民调和汽车领域也做得很多，”Belfort说。“我们的延迟大约600毫秒……它真的能完成整个销售。”"
+        },
+        {
+          "t": "p",
+          "x": "谈到成交率，他说：“我仍然觉得它还不如顶尖销售。一线的顶尖销售逐通电话都能胜过它。我认为未来六个月到一年会有改变。”Tone使用“我们自己的非常小、非常轻的模型”，他认为它“会显著胜过平庸的成交员”。"
+        },
+        {
+          "t": "p",
+          "x": "Belfort估计收入“大概百万美元左右——也许是$700,000”，融资约$10 million。他说，Tone只给主动同意（opt-in）的潜在客户或现有客户打电话。"
+        }
+      ]
+    },
+    "marketing/google-aimax-matchtype-param": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/11/google-ads-search-term-matchtype-valuetrack-ai-max-clicks-exact-label-conveyor-parcel-stamp.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Google Ads新增了ValueTrack参数{search_term_matchtype}，在点击URL中记录搜索词是通过广告主自己的关键字还是通过AI Max扩展触达广告。PPC News Feed于2026年11月11日报道此事，并称是Hana Kobzová在Google帮助页面上发现的；该页面未注明变更日期。"
+        },
+        {
+          "t": "p",
+          "x": "该参数以\"e\"表示精确匹配，\"p\"表示词组匹配，\"b\"表示广泛匹配，\"a\"表示AI Max广泛扩展和无关键字匹配。旧的{matchtype}会给AI Max广泛扩展标上关键字本身的匹配类型，因此经AI Max投放的精确匹配关键字点击，到达时带的是matchtype=e。只有返回\"a\"的新参数能标出这一区别。"
+        },
+        {
+          "t": "p",
+          "x": "Google的“Tracking AI Max matches”指南将{matchtype}、{targetid}、{keyword}和{search_term_matchtype}组合使用，把流量分为标准关键字匹配、AI Max广泛扩展、AI Max无关键字扩展和AI Max无关键字URL规则。Smarter Ecommerce发现，到2026年7月，精确匹配展示中经AI Max扩展（AI Max-expanded）的占比已升至近29%。"
+        },
+        {
+          "t": "p",
+          "x": "该参数不会改变AI Max匹配查询的方式、Google的出价方式或广告主支付的费用。它改变的只是下游可衡量的内容，即读取着陆页URLs的分析、CRM和报告系统。"
+        }
+      ]
     }
   }
 }

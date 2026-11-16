@@ -1,158 +1,96 @@
 {
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "section": "gadgets",
   "items": [
     {
       "tool": "Gadgets",
       "accent": "#ff5a4d",
       "motif": "headset",
-      "title": "This AI Tamagotchi Turns Everyday Objects Into Needy Virtual Pets",
-      "url": "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/",
-      "source": "WIRED",
-      "published_iso": "2026-11-15T11:00:00.000Z",
-      "og_image": "https://media.wired.com/photos/6af4802ffbe5af43ea5dee0a/191:100/w_1280,c_limit/Screenshot%202026-11-11%20at%2014.47.44.png",
-      "excerpt": "A Carnegie Mellon student’s tiny E Ink gadgets, called OATs, give houseplants, skateboards, and dumbbells expressive personalities to nudge you toward better habits.",
-      "rationale": "Freshest item in the pool: a new CMU E Ink object-companion device, a distinct design idea from the Mori lamp companion that ran in October."
+      "title": "Apple is testing daily usage limits for more complex Siri AI interactions",
+      "url": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription",
+      "source": "The Verge",
+      "published_iso": "2026-11-16T19:24:40+00:00",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/siri-ai.jpg?quality=90&strip=all&crop=0.17391304347827%2C0%2C99.652173913043%2C100&w=1200",
+      "excerpt": "The iOS 27.3 beta caps daily use of the more complex Siri AI and Apple Intelligence requests on each device, and iCloud+ tiers raise the limits. Basic Siri requests stay free and unlimited.",
+      "rationale": "New iOS 27.3 beta change that puts metered, subscription-tiered limits on on-device assistant use; first Apple/Siri slot."
     },
     {
       "tool": "Gadgets",
       "accent": "#0070f3",
       "motif": "headset",
-      "title": "The Xiaomi 18 Pro's rear displays support Google apps, Spotify, and custom GenAI apps",
-      "url": "https://9to5google.com/2026/11/13/the-xiaomi-18-pros-rear-displays-support-google-apps-spotify-and-custom-genai-apps/",
-      "source": "9to5Google",
-      "published_iso": "2026-11-13T16:45:47+00:00",
-      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/xiaomi-18-pro-2.jpg?quality=82&strip=all&resize=1200,628",
-      "excerpt": "The Xiaomi 18 Pro series' rear display is looking a lot more useful than initially thought, thanks to some clever apps.",
-      "rationale": "New phone-hardware capability: user-made GenAI apps on a secondary rear screen, a new interface surface not covered before."
+      "title": "macOS 27.3 Warns Against Giving AI Apps Full Mac Control",
+      "url": "https://www.macrumors.com/2026/11/16/macos-27-3-full-desk-access/",
+      "source": "MacRumors",
+      "published_iso": "2026-11-16T21:08:10+00:00",
+      "og_image": "https://images.macrumors.com/t/XEyVh7VFnBpfoKyJ-wxGJUrYFFU=/2500x/article-new/2026/11/claude-warning-2-2.jpg",
+      "excerpt": "The macOS 27.3 beta changes the Full Disk Access API and adds warnings before users give AI-agent apps such as Claude broad control of their Mac.",
+      "rationale": "New OS-level permission gate for AI agents on the desktop; second (and last) Apple/Siri slot, distinct from the Siri limits story."
     },
     {
       "tool": "Gadgets",
       "accent": "#7928ca",
       "motif": "headset",
-      "title": "Apple Releases tvOS 27.2.1 With Siri AI for Older Apple TVs",
-      "url": "https://www.macrumors.com/2026/11/13/apple-releases-tvos-27-2-1/",
-      "source": "MacRumors",
-      "published_iso": "2026-11-13T19:26:39+00:00",
-      "og_image": "https://images.macrumors.com/t/NIQfOSBaVtOFpZf_INMVdrQgmCg=/2500x/article-new/2026/10/Apple-TV-4K-4th-Generation-feature0.jpg",
-      "excerpt": "Apple today released tvOS 27.2.1, an update to the tvOS 27 operating system that launched in September. tvOS 27.2.1 comes nearly three weeks after Apple released tvOS 27.2. tvOS 27.2.1 brings Siri AI support to the 2nd- and 3rd-generation Apple TV 4K models, but it is available for all Apple TV 4K m",
-      "rationale": "Shipped software release that brings Siri AI to older Apple TV 4K hardware; the one Apple/Siri card allowed, and it is a new release, not commentary."
-    },
-    {
-      "tool": "Gadgets",
-      "accent": "#f5a623",
-      "motif": "headset",
-      "title": "SlashVibe is an open-source workspace for AI agents, built to run your own code",
-      "url": "https://the-gadgeteer.com/2026/11/15/slashvibe-open-source-ai-agent-desk-controller/",
-      "source": "The Gadgeteer",
-      "published_iso": "2026-11-15T13:16:29-06:00",
-      "og_image": "https://the-gadgeteer.com/wp-content/uploads/2026/11/slashvibe-hero-in-hand-1440.jpg",
-      "excerpt": "SlashVibe is an open-source AI agent desk controller with a Node.js and Python SDK. Kickstarter Early Bird is $189 ($249 retail), shipping March 2027.",
-      "rationale": "New hardware launch: an open-source desk controller for AI agents with Node.js and Python SDKs. Builders can program it directly."
+      "title": "I tested the Halliday G2 AI smart glasses and they turned me into a walking 'cheat sheet' — but everyone could tell",
+      "url": "https://www.tomsguide.com/computing/smart-glasses/i-tested-the-halliday-g2-ai-smart-glasses-and-they-turned-me-into-a-walking-cheat-sheet-but-everyone-could-tell",
+      "source": "Tom's Guide",
+      "published_iso": "2026-11-16T05:30:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/wVu3i3WESBzbZxWLscxMMA-2560-80.jpg",
+      "excerpt": "A hands-on review of Halliday's camera-less G2 AI glasses. The AI features are useful, but the design looks dorky and people around you notice when you're reading answers off the display.",
+      "rationale": "First review of a different product (Halliday G2) from the Even Realities G2 reviewed 10-20; covers the smart-glasses slot without the exam-cheating story."
     },
     {
       "tool": "Gadgets",
       "accent": "#2ec5c5",
       "motif": "headset",
-      "title": "HP ZGX Fury packs in 748GB RAM and Nvidia GB300 — but prices start at $132,000",
-      "url": "https://www.techradar.com/pro/your-next-desktop-pc-for-the-price-of-a-ferrari-hp-zgx-fury-packs-in-748gb-ram-and-nvidia-gb300-but-starts-at-usd132-000",
-      "source": "TechRadar",
-      "published_iso": "2026-11-15T19:15:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/PZgCJ7B7RendGrosbZtv5e-1920-80.jpg",
-      "excerpt": "This $132,000 workstation packs 748GB of memory and 400Gbps networking into a desk-side chassis — bringing data center AI hardware out of the cloud",
-      "rationale": "New product with pricing: a desk-side GB300 workstation that runs data-center-class AI locally. It sits at the top end of the local-AI desktop trend and is a different machine from the Gigabyte and MSI boxes already covered."
+      "title": "This chatty robot turns your kid's doodles into new pictures",
+      "url": "https://the-gadgeteer.com/2026/11/16/this-chatty-robot-turns-your-kids-doodles-into-new-pictures/",
+      "source": "The Gadgeteer",
+      "published_iso": "2026-11-16T03:04:25-06:00",
+      "og_image": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pubbo-hero.jpg",
+      "excerpt": "WhalesBot's Pubbo, an AI companion robot for kids aged 3 to 11, draws what a child describes out loud on its 3.5-inch screen face and talks back. It uses a 5MP camera for visual recognition, just went on sale in the US at $299.99, and is a holiday AI toy pick.",
+      "rationale": "New consumer AI companion robot now on sale in the US with a price, in the kids' AI toy category."
+    },
+    {
+      "tool": "Gadgets",
+      "accent": "#eb367f",
+      "motif": "headset",
+      "title": "The family 3D printer that turns phone photos into toys",
+      "url": "https://the-gadgeteer.com/2026/11/16/the-family-3d-printer-that-turns-phone-photos-into-toys/",
+      "source": "The Gadgeteer",
+      "published_iso": "2026-11-16T01:15:53-06:00",
+      "og_image": "https://the-gadgeteer.com/wp-content/uploads/2026/11/qidi-smart5-hero.jpg",
+      "excerpt": "QIDI's $349 MakeBuddy Smart5 is an enclosed 3D printer for family rooms. It has an AI camera, and an AI photo-to-3D app turns phone snapshots into printable toy models.",
+      "rationale": "New maker hardware with an AI photo-to-3D pipeline; a different category (fabrication) from the rest of the set."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/": {
+      "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription": {
         "verdict": "new",
-        "nearest": "https://www.cnet.com/tech/computing/mori-is-a-mushroom-shaped-ai-lamp-companion-and-im-smitten/",
+        "nearest": "https://www.zdnet.com/business/siri-ai-beta-waitlist-ends-ios-27/",
         "new_action": ""
       },
-      "https://9to5google.com/2026/11/13/the-xiaomi-18-pros-rear-displays-support-google-apps-spotify-and-custom-genai-apps/": {
+      "https://www.macrumors.com/2026/11/16/macos-27-3-full-desk-access/": {
+        "verdict": "new",
+        "nearest": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
+        "new_action": ""
+      },
+      "https://www.tomsguide.com/computing/smart-glasses/i-tested-the-halliday-g2-ai-smart-glasses-and-they-turned-me-into-a-walking-cheat-sheet-but-everyone-could-tell": {
+        "verdict": "new",
+        "nearest": "https://www.engadget.com/2288658/even-realities-g2-smart-glasses-review/",
+        "new_action": ""
+      },
+      "https://the-gadgeteer.com/2026/11/16/this-chatty-robot-turns-your-kids-doodles-into-new-pictures/": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
       },
-      "https://www.macrumors.com/2026/11/13/apple-releases-tvos-27-2-1/": {
-        "verdict": "follow-up",
-        "nearest": "https://www.macrumors.com/2026/11/12/apple-plans-homeview-update-with-siri-fix/",
-        "new_action": "Apple shipped tvOS 27.2.1 (11-13), enabling Siri AI on 2nd/3rd-gen Apple TV 4K. This is a new software release, distinct from the announced HomeView fix (11-13 card) and from the Microsoft Copilot-on-TVs story (10-29, the tagged history_match)."
-      },
-      "https://the-gadgeteer.com/2026/11/15/slashvibe-open-source-ai-agent-desk-controller/": {
+      "https://the-gadgeteer.com/2026/11/16/the-family-3d-printer-that-turns-phone-photos-into-toys/": {
         "verdict": "new",
-        "nearest": "https://www.wired.com/story/aina-smart-ring/",
-        "new_action": ""
-      },
-      "https://www.techradar.com/pro/your-next-desktop-pc-for-the-price-of-a-ferrari-hp-zgx-fury-packs-in-748gb-ram-and-nvidia-gb300-but-starts-at-usd132-000": {
-        "verdict": "new",
-        "nearest": "https://www.notebookcheck.net/Gigabyte-takes-on-Mac-Studio-with-a-tiny-AI-PC-powered-by-Nvidia-RTX-Spark.1447215.0.html",
+        "nearest": "",
         "new_action": ""
       }
     },
-    "note": "Dropped as duplicates or running-story follow-ups with no new action: CNET Apple Watch eavesdrop hands-on (same watchOS 27.3 Audio Intelligence feature as MacRumors 11-04); Tom's Guide Siri-liability opinion, Engadget HomeView review, and MacRumors HomePod mini 2 still-no-Siri-AI (Siri/HomeView commentary or a non-event; the one Apple/Siri slot went to the tvOS 27.2.1 release); Google/Samsung smart-glasses cluster (Tom's Guide Gentle Monster tarot pop-up, The Verge hands-on, Engadget privacy, and Notebookcheck face redaction), which is hands-on, privacy and pre-order coverage of the same glasses launch already published 11-06 (pre-orders) and 11-13 (Samsung December release). Excluded per the brief: etnews 'AI 안경 의혹' 세무사 item (politics only). Not picked on merit: Engadget NPU explainer (evergreen) and 9to5Mac Apple @ Work Xserve column (analysis, no new release). Cross-section: published_urls.json is too large to exact-grep without shell tools in this agent. The orchestrator should confirm that none of the 5 pick URLs appear in other sections before roll; the picks are gadget-native items, so a clash is unlikely. Outlets: 5 distinct (WIRED, 9to5Google, MacRumors, The Gadgeteer, TechRadar)."
-  },
-  "picks": [
-    {
-      "tool": "Gadgets",
-      "accent": "#ff5a4d",
-      "motif": "headset",
-      "title": "This AI Tamagotchi Turns Everyday Objects Into Needy Virtual Pets",
-      "url": "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/",
-      "source": "WIRED",
-      "published_iso": "2026-11-15T11:00:00.000Z",
-      "og_image": "https://media.wired.com/photos/6af4802ffbe5af43ea5dee0a/191:100/w_1280,c_limit/Screenshot%202026-11-11%20at%2014.47.44.png",
-      "excerpt": "A Carnegie Mellon student’s tiny E Ink gadgets, called OATs, give houseplants, skateboards, and dumbbells expressive personalities to nudge you toward better habits.",
-      "rationale": "Freshest item in the pool: a new CMU E Ink object-companion device, a distinct design idea from the Mori lamp companion that ran in October."
-    },
-    {
-      "tool": "Gadgets",
-      "accent": "#0070f3",
-      "motif": "headset",
-      "title": "The Xiaomi 18 Pro's rear displays support Google apps, Spotify, and custom GenAI apps",
-      "url": "https://9to5google.com/2026/11/13/the-xiaomi-18-pros-rear-displays-support-google-apps-spotify-and-custom-genai-apps/",
-      "source": "9to5Google",
-      "published_iso": "2026-11-13T16:45:47+00:00",
-      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/xiaomi-18-pro-2.jpg?quality=82&strip=all&resize=1200,628",
-      "excerpt": "The Xiaomi 18 Pro series' rear display is looking a lot more useful than initially thought, thanks to some clever apps.",
-      "rationale": "New phone-hardware capability: user-made GenAI apps on a secondary rear screen, a new interface surface not covered before."
-    },
-    {
-      "tool": "Gadgets",
-      "accent": "#7928ca",
-      "motif": "headset",
-      "title": "Apple Releases tvOS 27.2.1 With Siri AI for Older Apple TVs",
-      "url": "https://www.macrumors.com/2026/11/13/apple-releases-tvos-27-2-1/",
-      "source": "MacRumors",
-      "published_iso": "2026-11-13T19:26:39+00:00",
-      "og_image": "https://images.macrumors.com/t/NIQfOSBaVtOFpZf_INMVdrQgmCg=/2500x/article-new/2026/10/Apple-TV-4K-4th-Generation-feature0.jpg",
-      "excerpt": "Apple today released tvOS 27.2.1, an update to the tvOS 27 operating system that launched in September. tvOS 27.2.1 comes nearly three weeks after Apple released tvOS 27.2. tvOS 27.2.1 brings Siri AI support to the 2nd- and 3rd-generation Apple TV 4K models, but it is available for all Apple TV 4K m",
-      "rationale": "Shipped software release that brings Siri AI to older Apple TV 4K hardware; the one Apple/Siri card allowed, and it is a new release, not commentary."
-    },
-    {
-      "tool": "Gadgets",
-      "accent": "#f5a623",
-      "motif": "headset",
-      "title": "SlashVibe is an open-source workspace for AI agents, built to run your own code",
-      "url": "https://the-gadgeteer.com/2026/11/15/slashvibe-open-source-ai-agent-desk-controller/",
-      "source": "The Gadgeteer",
-      "published_iso": "2026-11-15T13:16:29-06:00",
-      "og_image": "https://the-gadgeteer.com/wp-content/uploads/2026/11/slashvibe-hero-in-hand-1440.jpg",
-      "excerpt": "SlashVibe is an open-source AI agent desk controller with a Node.js and Python SDK. Kickstarter Early Bird is $189 ($249 retail), shipping March 2027.",
-      "rationale": "New hardware launch: an open-source desk controller for AI agents with Node.js and Python SDKs. Builders can program it directly."
-    },
-    {
-      "tool": "Gadgets",
-      "accent": "#2ec5c5",
-      "motif": "headset",
-      "title": "HP ZGX Fury packs in 748GB RAM and Nvidia GB300 — but prices start at $132,000",
-      "url": "https://www.techradar.com/pro/your-next-desktop-pc-for-the-price-of-a-ferrari-hp-zgx-fury-packs-in-748gb-ram-and-nvidia-gb300-but-starts-at-usd132-000",
-      "source": "TechRadar",
-      "published_iso": "2026-11-15T19:15:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/PZgCJ7B7RendGrosbZtv5e-1920-80.jpg",
-      "excerpt": "This $132,000 workstation packs 748GB of memory and 400Gbps networking into a desk-side chassis — bringing data center AI hardware out of the cloud",
-      "rationale": "New product with pricing: a desk-side GB300 workstation that runs data-center-class AI locally. It sits at the top end of the local-AI desktop trend and is a different machine from the Gigabyte and MSI boxes already covered."
-    }
-  ]
+    "note": "Dropped as duplicates or follow-ups: Nothing screen-free AI gadget design reveal (The Gadgeteer), the same running story as the 11-05 Verge teaser card, with no name, price or release yet; CNET Apple Watch Audio Intelligence hands-on, extra reporting on the watchOS 27.3 feature published 11-04 (MacRumors). Excluded by cross-section assignments: TechRadar Apple x OpenEvidence health study (medicine only); etnews anti-AI-cheating and zdnet AI-glasses exam card news (politics only). Apple cap (2): kept the Verge Siri limits and MacRumors macOS warning, and dropped 9to5Mac Siri health questions and MacRumors Safari Ask About Page (also one cluster, c6). Lower-scored and not picked: Hasbro Sixth Wall Studio (CNET, AI character licensing, weak gadget angle), Lenovo Yoga 9n review, XDA on-device vision model opinion, Engadget NPU explainer (evergreen). Cross-section: published_urls.json is too large to read whole here (no grep tool), so I relied on the brief's cross-section assignments, and none of the picks appear in them."
+  }
 }

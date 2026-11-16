@@ -1,61 +1,153 @@
 {
   "section": "gadgets",
-  "now_iso": "2026-11-15T22:00:36Z",
+  "now_iso": "2026-11-16T22:37:00Z",
   "window_hours": 336,
   "items": [
     {
-      "title": "This AI Tamagotchi Turns Everyday Objects Into Needy Virtual Pets",
-      "url": "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/",
-      "source": "WIRED",
-      "category": "gadgets",
-      "published_iso": "2026-11-15T11:00:00.000Z",
-      "excerpt": "A Carnegie Mellon student’s tiny E Ink gadgets, called OATs, give houseplants, skateboards, and dumbbells expressive personalities to nudge you toward better habits.",
-      "og_image": "https://media.wired.com/photos/6af4802ffbe5af43ea5dee0a/191:100/w_1280,c_limit/Screenshot%202026-11-11%20at%2014.47.44.png"
-    },
-    {
-      "title": "SlashVibe is an open-source workspace for AI agents, built to run your own code",
-      "url": "https://the-gadgeteer.com/2026/11/15/slashvibe-open-source-ai-agent-desk-controller/",
+      "title": "Context doesn't live in a chat box, so Nothing built an AI gadget with no screen",
+      "url": "https://the-gadgeteer.com/2026/11/16/nothing-ai-gadget-no-screen-design-reveal/",
       "source": "The Gadgeteer",
       "category": "gadgets",
-      "published_iso": "2026-11-15T13:16:29-06:00",
-      "excerpt": "SlashVibe is an open-source AI agent desk controller with a Node.js and Python SDK. Kickstarter Early Bird is $189 ($249 retail), shipping March 2027.",
-      "og_image": "https://the-gadgeteer.com/wp-content/uploads/2026/11/slashvibe-hero-in-hand-1440.jpg"
+      "published_iso": "2026-11-16T00:44:51-06:00",
+      "excerpt": "Carl Pei's nine-second video shows the face of Nothing's first AI-native device: a brushed-metal slab with one big button, a red dot and two glowing pills, no screen. Ships in December; still no name or price.",
+      "og_image": "https://the-gadgeteer.com/wp-content/uploads/2026/11/nothing-ai-gadget-hero-1440x810-1.jpg",
+      "note": "Follow-up to the 11-05 teaser; adds the first look at the hardware design but no name or price yet"
     },
     {
-      "title": "I got a tarot reading from Google's smart glasses at Gentle Monster's wonderfully weird pop-up",
-      "url": "https://www.tomsguide.com/computing/smart-glasses/i-got-a-tarot-reading-from-googles-smart-glasses-at-gentle-monsters-wonderfully-weird-pop-up-and-have-a-whole-new-perspective-on-smart-glasses",
+      "title": "This chatty robot turns your kid's doodles into new pictures",
+      "url": "https://the-gadgeteer.com/2026/11/16/this-chatty-robot-turns-your-kids-doodles-into-new-pictures/",
+      "source": "The Gadgeteer",
+      "category": "gadgets",
+      "published_iso": "2026-11-16T03:04:25-06:00",
+      "excerpt": "WhalesBot's Pubbo, an AI companion robot for kids aged 3 to 11, draws what a child describes out loud on its 3.5-inch screen face and talks back. It uses a 5MP camera for visual recognition, just went on sale in the US at $299.99, and is a holiday AI toy pick.",
+      "og_image": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pubbo-hero.jpg"
+    },
+    {
+      "title": "The family 3D printer that turns phone photos into toys",
+      "url": "https://the-gadgeteer.com/2026/11/16/the-family-3d-printer-that-turns-phone-photos-into-toys/",
+      "source": "The Gadgeteer",
+      "category": "gadgets",
+      "published_iso": "2026-11-16T01:15:53-06:00",
+      "excerpt": "QIDI's $349 MakeBuddy Smart5 is an enclosed 3D printer for family rooms. It has an AI camera, and an AI photo-to-3D app turns phone snapshots into printable toy models.",
+      "og_image": "https://the-gadgeteer.com/wp-content/uploads/2026/11/qidi-smart5-hero.jpg"
+    },
+    {
+      "title": "I tested the Halliday G2 AI smart glasses and they turned me into a walking 'cheat sheet' — but everyone could tell",
+      "url": "https://www.tomsguide.com/computing/smart-glasses/i-tested-the-halliday-g2-ai-smart-glasses-and-they-turned-me-into-a-walking-cheat-sheet-but-everyone-could-tell",
       "source": "Tom's Guide",
       "category": "gadgets",
-      "published_iso": "2026-11-15T09:45:00Z",
-      "excerpt": "Robot horses, AI tarot and a very Gentle Monster afternoon",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/8KzKRteDWxLbTbZPhgpxsT-2560-80.jpg"
+      "published_iso": "2026-11-16T05:30:00Z",
+      "excerpt": "A hands-on review of Halliday's camera-less G2 AI glasses. The AI features are useful, but the design looks dorky and people around you notice when you're reading answers off the display.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/wVu3i3WESBzbZxWLscxMMA-2560-80.jpg",
+      "note": "Non-Apple/non-Samsung smart glasses review; fits the smart-glasses slot"
     },
     {
-      "title": "'AI 안경 의혹' 세무사 수석 합격자, 결국 부정행위 자수… \"진짜 수석에 죄송\"",
-      "url": "https://www.etnews.com/20261115000036",
-      "source": "전자신문",
+      "title": "I tested Lenovo's Yoga 9n 2-in-1 against the MacBook Pro for two weeks — impressive OLED and AI smarts cannot make up for poor gaming",
+      "url": "https://www.tomsguide.com/computing/laptops/lenovo-yoga-9n-2-in-1-review",
+      "source": "Tom's Guide",
       "category": "gadgets",
-      "published_iso": "2026-11-15T09:59:22+09:00",
-      "excerpt": "제63회 세무사 자격시험에서 이례적인 고득점으로 수석 합격해 인공지능(AI) 스마트안경 부정행위 의혹을 받았던 한원석씨가 결국 부정행위를 인정하고 경찰에 자수했다. 앞서 의혹을 강하게 부인했던 그는 전자기기와 생성형 AI를 이용해 시험을 치렀다고 털어놨다. 15일 법조계 등에 따르면 '세무냥이'라는 닉네임으로 활동해 온 한씨는 이날 법률대리인인 이돈호 법무법인 노바 대표변호사의 유튜브 채널에 공개된 영상을 통해 자신의 부정행위 사실을 인정하고",
-      "og_image": "https://img.etnews.com/news/article/2026/11/15/news-p.v1.20261115.050db271848442abb379c14cf4513281_P1.png"
+      "published_iso": "2026-11-12T10:30:00Z",
+      "excerpt": "Review of Lenovo's $2,999 ARM-and-Nvidia Windows 2-in-1, built to run AI models locally. The OLED and pen are excellent and local AI performance is strong, but gaming and raw performance trail the MacBook Pro.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/ZgVM5EFtsDn4f2hoUNDZwU-2560-80.jpg",
+      "note": "On-device AI PC review"
     },
     {
-      "title": "HP ZGX Fury packs in 748GB RAM and Nvidia GB300 — but prices start at $132,000",
-      "url": "https://www.techradar.com/pro/your-next-desktop-pc-for-the-price-of-a-ferrari-hp-zgx-fury-packs-in-748gb-ram-and-nvidia-gb300-but-starts-at-usd132-000",
-      "source": "TechRadar",
+      "title": "Apple is testing daily usage limits for more complex Siri AI interactions",
+      "url": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription",
+      "source": "The Verge",
       "category": "gadgets",
-      "published_iso": "2026-11-15T19:15:00Z",
-      "excerpt": "This $132,000 workstation packs 748GB of memory and 400Gbps networking into a desk-side chassis — bringing data center AI hardware out of the cloud",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/PZgCJ7B7RendGrosbZtv5e-1920-80.jpg"
+      "published_iso": "2026-11-16T19:24:40+00:00",
+      "excerpt": "The iOS 27.3 beta caps daily use of the more complex Siri AI and Apple Intelligence requests on each device, and iCloud+ tiers raise the limits. Basic Siri requests stay free and unlimited.",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/siri-ai.jpg?quality=90&strip=all&crop=0.17391304347827%2C0%2C99.652173913043%2C100&w=1200",
+      "note": "Same news is on MacRumors and 9to5Mac; keep one"
+    },
+    {
+      "title": "You can now ask Siri AI questions about your health data, with iOS 27.3 beta 2",
+      "url": "https://9to5mac.com/2026/11/16/siri-ai-health-app-questions-ios-27/",
+      "source": "9to5Mac",
+      "category": "gadgets",
+      "published_iso": "2026-11-16T19:16:41+00:00",
+      "excerpt": "iOS 27.3 beta 2 lets Siri AI answer questions about data in the Health app. That opens one of the last areas the new on-device assistant had stayed out of.",
+      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/siri-ai-health-ios-27-beta-3.jpg?quality=82&strip=all&resize=1200,628"
+    },
+    {
+      "title": "iOS 27.3 Adds 'Ask About Page' Siri AI Feature to Safari",
+      "url": "https://www.macrumors.com/2026/11/16/siri-ai-ask-about-page-safari/",
+      "source": "MacRumors",
+      "category": "gadgets",
+      "published_iso": "2026-11-16T18:24:57+00:00",
+      "excerpt": "In iOS 27.3 beta 2, Siri AI can read a whole webpage in Safari, including parts not on screen, and answer questions about it, such as listing every option on a long menu.",
+      "og_image": "https://images.macrumors.com/t/AMzlHXYCh5f7HOPQwqP7K3rUyXI=/1600x/article-new/2026/06/Siri-AI.jpg"
+    },
+    {
+      "title": "macOS 27.3 Warns Against Giving AI Apps Full Mac Control",
+      "url": "https://www.macrumors.com/2026/11/16/macos-27-3-full-desk-access/",
+      "source": "MacRumors",
+      "category": "gadgets",
+      "published_iso": "2026-11-16T21:08:10+00:00",
+      "excerpt": "The macOS 27.3 beta changes the Full Disk Access API and adds warnings before users give AI-agent apps such as Claude broad control of their Mac.",
+      "og_image": "https://images.macrumors.com/t/XEyVh7VFnBpfoKyJ-wxGJUrYFFU=/2500x/article-new/2026/11/claude-warning-2-2.jpg",
+      "note": "OS-level device control of AI agents; borderline against the 'desktop agent apps 0' cap, but this is an OS feature, not an agent app"
     },
     {
       "title": "I Let My Apple Watch Eavesdrop on My Conversations for 2 Weeks",
-      "url": "https://www.cnet.com/tech/mobile/apple-watch-audio-intelligence-hands-on-privacy/",
+      "url": "https://www.cnet.com/tech/mobile/apple-watch-audio-intelligence-hands-on-privacy-tes/",
       "source": "CNET",
       "category": "gadgets",
       "published_iso": "2026-11-14T11:00:10-05:00",
-      "excerpt": "I tested Apple's new AI note-taking features in WatchOS 27.3, and now I'm more concerned about my sanity than my privacy.",
-      "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/AudioIntelligence.jpg"
+      "excerpt": "A two-week hands-on with Audio Intelligence, the AI note-taking feature in watchOS 27.3 that listens to and summarizes conversations on the Apple Watch. The tester came away more worried about sanity than privacy.",
+      "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/AudioIntelligence.jpg",
+      "note": "AI wearable feature hands-on"
+    },
+    {
+      "title": "Hasbro Is Using AI to Bring Characters to Life — With Limits",
+      "url": "https://www.cnet.com/tech/services-and-software/hasbro-sixth-wall-studio-ai-characters/",
+      "source": "CNET",
+      "category": "gadgets",
+      "published_iso": "2026-11-12T07:20:15-05:00",
+      "excerpt": "Hasbro's Sixth Wall Studio is giving licensed characters like Cobra Commander conversational AI personas for toys, theme-park robots and video calls, with guardrails on what they will say.",
+      "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-1496748930.jpg",
+      "note": "AI toy/character angle; The Gadgeteer's 11-16 story covers the theme-park robot side"
+    },
+    {
+      "title": "Apple launches private AI health study app — first-of-its-kind beta opens to 200,000 testers",
+      "url": "https://www.techradar.com/phones/iphone/apple-launches-first-of-its-kind-ai-health-app-privacy-focused-research-program-opens-for-its-first-200-000-iphone-testers",
+      "source": "TechRadar",
+      "category": "gadgets",
+      "published_iso": "2026-11-16T12:32:12Z",
+      "excerpt": "Apple and OpenEvidence opened a research app in which up to 200,000 iPhone users can talk to a custom AI about conditions and symptoms, a test of whether people trust AI health advice.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/CywXG2cMS5jjK3wDHHCQj7-1365-80.jpg",
+      "note": "Lean on gadgets (an app, not hardware); medicine crossover"
+    },
+    {
+      "title": "'안티 AI 커닝' 기술 속속 등장…전파차단부터 AI 답변 봉쇄까지",
+      "url": "https://www.etnews.com/20261116000308",
+      "source": "전자신문",
+      "category": "gadgets",
+      "published_iso": "2026-11-16T14:22:02+09:00",
+      "excerpt": "AI 안경과 초소형 기기를 쓴 시험 부정행위가 늘면서 전파탐지, 전파차단, AI 안경 식별, AI 서비스의 시험 문제 풀이 제한 같은 '안티 AI 커닝' 기술이 주목받는다. 정부는 이번 수능에서 스마트안경을 착용만 해도 부정행위로 처리한다.",
+      "og_image": "https://img.etnews.com/news/article/2026/11/16/news-p.v1.20261116.fe67a2ab147c4b4fbefda8cd9a7f9a56_P1.jpg",
+      "note": "Korean AI-glasses angle; avoids the Samsung eyewear cap"
+    },
+    {
+      "title": "[카드뉴스] AI안경 하나면 국가시험도 뚫릴까요",
+      "url": "https://zdnet.co.kr/view/?no=20261116101323",
+      "source": "지디넷코리아",
+      "category": "gadgets",
+      "published_iso": "2026-11-16T21:46:05+09:00",
+      "excerpt": "금속탐지기에도 잘 걸리지 않는 AI 안경이 시험 문제 글자를 읽어 AI에 보내고 답을 받는 방식이 세무사 시험 수석 합격자 의혹으로 쟁점이 됐다. 카드뉴스로 정리한 AI 안경 부정행위 이슈.",
+      "og_image": "https://image.zdnet.co.kr/2026/11/16/0c7b20411fcf72800463a96859a3b77d.png",
+      "note": "Same story as the etnews item; keep one"
+    },
+    {
+      "title": "I run a 2B vision model on my phone and stopped sending my screenshots to ChatGPT and Claude",
+      "url": "https://www.xda-developers.com/run-2b-vision-model-on-phone-stopped-sending-screenshots-to-chatgpt-claude/",
+      "source": "XDA",
+      "category": "gadgets",
+      "published_iso": "2026-11-16T22:30:21Z",
+      "excerpt": "A hands-on with a 2-billion-parameter vision model running fully on a phone. It reads and sorts screenshots privately, without sending them to cloud chatbots.",
+      "og_image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/09/qwen-3-5-in-noema-on-iphone-16-keyboard-and-clock-in-view.jpeg?w=1600&h=900&fit=crop",
+      "note": "On-device AI how-to/opinion"
     },
     {
       "title": "What does an NPU do and why do so many laptops have them?",
@@ -63,89 +155,9 @@
       "source": "Engadget",
       "category": "gadgets",
       "published_iso": "2026-11-14T18:00:00+00:00",
-      "excerpt": "Wondering what an NPU actually does and whether you even need it? We've got you covered.",
-      "og_image": "https://www.engadget.com/img/gallery/what-does-an-npu-do-and-why-do-so-many-laptops-have-them/l-intro-1794310250.jpg"
-    },
-    {
-      "title": "Our HomeView and Apple TV 4K reviews show Siri is becoming Apple's biggest liability",
-      "url": "https://www.tomsguide.com/ai/apple-intelligence/apples-new-siri-still-lags-behind-gemini-and-alexa-putting-its-entire-ecosystem-at-risk",
-      "source": "Tom's Guide",
-      "category": "gadgets",
-      "published_iso": "2026-11-14T09:45:00Z",
-      "excerpt": "Siri isn’t smart enough for Apple’s next big things — and fans might not wait around",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/iopeLDvPGawviRJFdMxca5-1794-80.jpg"
-    },
-    {
-      "title": "Apple @ Work: The spiritual successor to the Xserve is here, thanks to Apple silicon and MLX",
-      "url": "https://9to5mac.com/2026/11/14/apple-work-the-spiritual-successor-to-the-xserve-is-here-and-apple-never-had-to-ship-an-llm-to-get-there/",
-      "source": "9to5Mac",
-      "category": "gadgets",
-      "published_iso": "2026-11-14T14:00:00+00:00",
-      "excerpt": "Meta’s biggest open weight model runs best on a Mac Studio, and Osaurus runs a useful one on a 16 GB MacBook. Apple built the hardware, not the chatbot.",
-      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&strip=all&resize=1200,628"
-    },
-    {
-      "title": "The Xiaomi 18 Pro's rear displays support Google apps, Spotify, and custom GenAI apps",
-      "url": "https://9to5google.com/2026/11/13/the-xiaomi-18-pros-rear-displays-support-google-apps-spotify-and-custom-genai-apps/",
-      "source": "9to5Google",
-      "category": "gadgets",
-      "published_iso": "2026-11-13T16:45:47+00:00",
-      "excerpt": "The Xiaomi 18 Pro series' rear display is looking a lot more useful than initially thought, thanks to some clever apps.",
-      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/xiaomi-18-pro-2.jpg?quality=82&strip=all&resize=1200,628"
-    },
-    {
-      "title": "Google's Gemini glasses redact faces before the AI sees them",
-      "url": "https://www.notebookcheck.net/Google-s-Gemini-glasses-redact-faces-before-the-AI-sees-them.1449500.0.html",
-      "source": "Notebookcheck",
-      "category": "gadgets",
-      "published_iso": "2026-11-13T15:00:00+01:00",
-      "excerpt": "Google is taking pre-orders in the US and South Korea for its first glasses with Gemini, built with Samsung, Warby Parker and Gentle Monster. The glasses are designed to redact bystanders' faces before Gemini analyzes a camera image. Here is what Google promises on privacy, what it leaves open and w",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/gemini-brille-google-teaser.jpg"
-    },
-    {
-      "title": "Apple Releases tvOS 27.2.1 With Siri AI for Older Apple TVs",
-      "url": "https://www.macrumors.com/2026/11/13/apple-releases-tvos-27-2-1/",
-      "source": "MacRumors",
-      "category": "gadgets",
-      "published_iso": "2026-11-13T19:26:39+00:00",
-      "excerpt": "Apple today released tvOS 27.2.1, an update to the tvOS 27 operating system that launched in September. tvOS 27.2.1 comes nearly three weeks after Apple released tvOS 27.2. tvOS 27.2.1 brings Siri AI support to the 2nd- and 3rd-generation Apple TV 4K models, but it is available for all Apple TV 4K m",
-      "og_image": "https://images.macrumors.com/t/NIQfOSBaVtOFpZf_INMVdrQgmCg=/2500x/article-new/2026/10/Apple-TV-4K-4th-Generation-feature0.jpg"
-    },
-    {
-      "title": "Siri AI Still Not Enabled on HomePod Mini 2 With Latest Software Update",
-      "url": "https://www.macrumors.com/2026/11/13/homepod-mini-2-still-lacks-siri-ai/",
-      "source": "MacRumors",
-      "category": "gadgets",
-      "published_iso": "2026-11-13T20:18:36+00:00",
-      "excerpt": "Apple today released HomePod software version 27.2.1, but it does not enable Siri AI on the HomePod mini 2. Apple's website continues to say the feature is \"coming in a future software update,\" but it has not provided a timeframe. Due to the HomePod mini 2 having only 2GB of RAM, well below the mini",
-      "og_image": "https://images.macrumors.com/t/i0L0_y-u_c-HgB6GhJPFUufFzNc=/2500x/article-new/2026/10/homepod-mini-2-feature2.jpg"
-    },
-    {
-      "title": "I tried Google's AI glasses and Meta's finally got real competition",
-      "url": "https://www.theverge.com/tech/1031647/google-android-xr-warby-parker-gentle-monster-hands-on",
-      "source": "The Verge",
-      "category": "gadgets",
-      "published_iso": "2026-11-12T14:00:00+00:00",
-      "excerpt": "Where Meta’s privacy policy is reactive, Google’s approach is proactive.",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/androidxr8.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-    },
-    {
-      "title": "Apple HomeView review: A versatile smart display and Siri-powered home hub",
-      "url": "https://www.engadget.com/2313999/apple-homeview-review/",
-      "source": "Engadget",
-      "category": "gadgets",
-      "published_iso": "2026-11-12T14:00:00+00:00",
-      "excerpt": "With its first smart display, Apple provides a lot of convenience for a variety of tasks in your home.",
-      "og_image": "https://www.engadget.com/img/gallery/apple-homeview-review-a-versatile-smart-display-and-siri-powered-home-hub/l-intro-1794423451.jpg"
-    },
-    {
-      "title": "Google really needs you to know it cares about smart glasses privacy",
-      "url": "https://www.engadget.com/2314414/google-really-wants-you-to-know-it-cares-about-smart-glasses-privacy/",
-      "source": "Engadget",
-      "category": "gadgets",
-      "published_iso": "2026-11-12T14:00:00+00:00",
-      "excerpt": "Yes, it’s a bit attention-seeking, but some of these policies are genuinely good.",
-      "og_image": "https://www.engadget.com/img/gallery/google-really-wants-you-to-know-it-cares-about-smart-glasses-privacy/l-intro-1794448673.jpg"
+      "excerpt": "An explainer on what the neural processing units in Copilot+ and other AI laptops actually do and whether buyers need one.",
+      "og_image": "https://www.engadget.com/img/gallery/what-does-an-npu-do-and-why-do-so-many-laptops-have-them/l-intro-1794310250.jpg",
+      "note": "Evergreen explainer; low priority"
     }
   ]
 }

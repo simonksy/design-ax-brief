@@ -1,31 +1,32 @@
 {
- "date": "2026-11-16",
+ "date": "2026-11-17",
  "section": "politics",
  "media": [
   {
-   "id": "politics-exam-ai-audit",
+   "id": "commerce-chip-remote-access",
    "type": "image",
-   "src": "pipeline/media/politics-exam-ai-audit.jpg"
+   "src": "pipeline/media/commerce-chip-remote-access.jpg"
   },
   {
-   "id": "hongkong-ai-facial-surveillance",
+   "id": "california-openai-agent-suit",
    "type": "image",
-   "src": "pipeline/media/hongkong-ai-facial-surveillance.jpg"
+   "src": "pipeline/media/california-openai-agent-suit.png"
   },
   {
-   "id": "modu-changup-ai-vendor-leak",
+   "id": "san-francisco-declaration-ai",
    "type": "image",
-   "src": "pipeline/media/modu-changup-ai-vendor-leak.jpg"
+   "src": "pipeline/media/san-francisco-declaration-ai.jpg"
   },
   {
-   "id": "congress-ai-chip-export-rules",
-   "type": "image",
-   "src": "pipeline/media/congress-ai-chip-export-rules.jpg"
+   "id": "csat-device-wifi-block",
+   "type": "video",
+   "src": "pipeline/media/csat-device-wifi-block.mp4",
+   "poster": "pipeline/media/csat-device-wifi-block.jpg"
   },
   {
-   "id": "fbi-facestealer-deepfake-scam",
+   "id": "fbi-aws-agent-cybercrime",
    "type": "image",
-   "src": "pipeline/media/fbi-facestealer-deepfake-scam.jpg"
+   "src": "pipeline/media/fbi-aws-agent-cybercrime.jpg"
   }
  ]
 }

@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "section": "music",
   "cards": [
     {
-      "id": "xania-monet-ai-music-awards",
+      "id": "aria-ppca-notaistotake",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Xania Monet,\nAI 음악상 넷 중 셋",
-      "body": "Xania Monet가 첫 AI Music Awards 네 부문 중 셋을 가져갔다.",
-      "mini_headline": "Xania Monet, AI Music Awards 석권",
+      "headline": "호주 음악계, AI 저작권\n'동의 우선' 운동 시작",
+      "body": "ARIA·PPCA가 Canberra에 AI 기업 사전 동의 의무화를 요구했다.",
+      "mini_headline": "호주, 동의 우선 AI 운동",
       "tool": "Music",
-      "source": "Variety",
-      "url": "https://variety.com/2026/music/features/inside-first-ai-music-awards-sonic-intelligence-academy-1236947847/",
+      "source": "Australasian Leisure Management",
+      "url": "https://www.ausleisure.com.au/news/australian-creative-sector-launches-campaign-against-unauthorised-ai-use-of-copyright-material",
       "accent": "#ff2d55",
       "motif": "sphere",
       "full": {
@@ -19,179 +19,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://variety.com/wp-content/uploads/2026/11/7R6A5866-1.jpg?w=1000&h=667&crop=1",
-            "cap": "Xania Monet의 창작자 Telisha “Nikki” Jones"
+            "src": "https://www.ausleisure.com.au/img/containers/assets/news-images/aria-and-ppca-petition.jpg/9685855ac03c87223028de21bf617610/aria-and-ppca-petition.webp"
           },
           {
             "t": "p",
-            "x": "Variety는 금요일 로스앤젤레스 도심(Downtown Los Angeles)의 Mayan Theater에서 열린 첫 “AI Music Awards”를 취재했다. 주관은 “Sonic Intelligence Academy”(SIQA)가 맡았다. 아티스트가 자격을 얻으려면 SIQA의 “Verified Registry”에 트랙을 등록해야 했고, 이들이 25개 부문에서 동료를 후보로 추천하고 투표로 수상자를 가렸다."
+            "x": "호주 음악·미디어·창작 산업계가 인공지능(AI) 학습에 호주 창작물이 무단으로 쓰이지 않도록 저작권 보호를 강화하라고 연방정부에 요구하고 나섰다. Not AI’s to Take 캠페인은 제40회 ARIA Awards를 앞둔 11월 17일 시작됐으며 Australian Recording Industry Association(ARIA)와 Phonographic Performance Company of Australia(PPCA)가 이끈다."
           },
           {
             "t": "p",
-            "x": "Telisha “Nikki” Jones의 AI 페르소나 Xania Monet는 하루 전 SIQA 서밋에서 AI Album of the Year를 받은 데 이어 올해의 아티스트와 올해의 노래까지 품었다. 시상식 최고 부문 네 개 가운데 세 개다. 남은 올해의 프로듀서는 “DJ Shawn Q.”가 가져갔다. Jones는 “AI는 도구일 뿐”이라고 했다."
+            "x": "Anthony Albanese 총리는 2026년 7월 어떤 기업도 창작자의 통제 없이 그 작품으로 AI를 학습시켜선 안 된다며 “그보다 못한 것은 모두 절도”라고 했다. 정부는 이미 포괄적인 텍스트·데이터 마이닝 예외를 배제했지만 라이선스와 집행 문제는 여전히 논의 중이다."
           },
           {
             "t": "p",
-            "x": "SIQA는 소프트웨어 엔지니어 Timirah “TJ” James와 자매 Mia James가 세웠고, Recording Academy의 AI판을 꿈꾼다. 하지만 이날 행사는 곳곳에서 삐걱댔다. 시작은 30분가량 늦어졌고 엉킨 텔레프롬프터에는 Claude가 만든(Claude-generated) 진행표가 떴다. Deepgram AI 음성은 툭하면 먹통이었고, 출연자들은 무료 하우스 밴드를 뒤에 두고 AI 트랙에 맞춰 립싱크했다."
+            "x": "ARIA와 PPCA는 opt-out 방식으로 기울면 기존 저작권 보호가 약해지고 부담이 개별 아티스트에게 떠넘겨질까 걱정한다. 캠페인이 대안으로 내세운 건 허락 우선 방식이다. AI 기업은 자료를 쓰기 전에 저작권자 동의부터 받고 조건을 협상해야 한다는 주장이다."
           },
           {
             "t": "p",
-            "x": "James는 청중에게 “이것이 새로운 음악 산업이기에 내년도 있을 것”이라고 말했다."
+            "x": "호주 창작·미디어 산업은 해마다 국가 경제에 $70.3 billion 을 보태고 600,000명 가까운 일자리를 떠받친다. 캠페인은 시민들에게 청원 서명과 지역구 연방 하원의원(MP)에게 편지 보내기, nottheirstotake.com.au 캠페인 자료 공유를 요청했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Xania Monet takes three\nof four top AI Music Awards",
-          "body": "At the Sonic Intelligence Academy's first AI Music Awards, AI artist Xania Monet won three of four top categories.",
-          "mini_headline": "Xania Monet wins\nAI Music Awards",
+          "headline": "Australian music bodies launch\nconsent-first AI copyright push",
+          "body": "ARIA and PPCA are urging Canberra to reject an opt-out data-mining exception and make AI firms seek consent first.",
+          "mini_headline": "Australia's consent-first AI push",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/7R6A5866-1.jpg?w=1000&h=667&crop=1",
-                "cap": "Xania Monet creator Telisha “Nikki” Jones"
+                "src": "https://www.ausleisure.com.au/img/containers/assets/news-images/aria-and-ppca-petition.jpg/9685855ac03c87223028de21bf617610/aria-and-ppca-petition.webp"
               },
               {
                 "t": "p",
-                "x": "Variety attended Friday’s inaugural “AI Music Awards,” powered by the “Sonic Intelligence Academy” (SIQA), at the Mayan Theater in Downtown Los Angeles. To qualify, artists registered tracks to SIQA’s “Verified Registry,” then nominated peers in 25 categories and voted on the winners."
+                "x": "Australia’s music, media and creative industries are urging the Federal Government to strengthen copyright protections against the unauthorised use of Australian creative works to train artificial intelligence (AI) systems. Launched on 17th November, ahead of the 40th ARIA Awards, the Not AI’s to Take campaign is led by the Australian Recording Industry Association (ARIA) and the Phonographic Performance Company of Australia (PPCA)."
               },
               {
                 "t": "p",
-                "x": "Xania Monet, the AI persona of Telisha “Nikki” Jones, won AI Album of the Year at SIQA’s summit a day earlier and went on to win both artist and song of the year — three out of four of the awards’ top categories. The fourth, producer of the year, went to “DJ Shawn Q.” “AI is just a tool,” Jones said."
+                "x": "In July 2026, Prime Minister Anthony Albanese said no company should use creators’ work to train AI without their control, adding that “anything less is theft”. The Government has previously ruled out a broad text and data mining exception, but discussions continue around licensing and enforcement."
               },
               {
                 "t": "p",
-                "x": "SIQA, founded by software engineer Timirah “TJ” James and her sister Mia James, hopes to be an AI counterpart to the Recording Academy. The night was marked by kinks: a start about 30 minutes late, a Claude-generated run-of-show on a confused teleprompter, a Deepgram AI voice that often didn’t work, and performers who lip-synced to AI tracks backed by a free house band."
+                "x": "ARIA and PPCA are concerned that any move towards an opt-out system would undermine existing copyright protections and place the responsibility on individual artists. Instead, the campaign is advocating a permission-first approach, requiring AI companies to obtain consent and negotiate terms with copyright holders before using their material."
               },
               {
                 "t": "p",
-                "x": "“There will be a next year because this is the new music industry,” James told the crowd."
+                "x": "Australia's creative and media industries contribute $70.3 billion annually to the national economy and support almost 600,000 workers. The campaign asks the public to sign a petition, write to a local Federal MP and share campaign resources at nottheirstotake.com.au."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Xania Monet,\nAI 음악상 넷 중 셋",
-          "body": "Xania Monet가 첫 AI Music Awards 네 부문 중 셋을 가져갔다.",
-          "mini_headline": "Xania Monet, AI Music Awards 석권",
+          "headline": "호주 음악계, AI 저작권\n'동의 우선' 운동 시작",
+          "body": "ARIA·PPCA가 Canberra에 AI 기업 사전 동의 의무화를 요구했다.",
+          "mini_headline": "호주, 동의 우선 AI 운동",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/7R6A5866-1.jpg?w=1000&h=667&crop=1",
-                "cap": "Xania Monet의 창작자 Telisha “Nikki” Jones"
+                "src": "https://www.ausleisure.com.au/img/containers/assets/news-images/aria-and-ppca-petition.jpg/9685855ac03c87223028de21bf617610/aria-and-ppca-petition.webp"
               },
               {
                 "t": "p",
-                "x": "Variety는 금요일 로스앤젤레스 도심(Downtown Los Angeles)의 Mayan Theater에서 열린 첫 “AI Music Awards”를 취재했다. 주관은 “Sonic Intelligence Academy”(SIQA)가 맡았다. 아티스트가 자격을 얻으려면 SIQA의 “Verified Registry”에 트랙을 등록해야 했고, 이들이 25개 부문에서 동료를 후보로 추천하고 투표로 수상자를 가렸다."
+                "x": "호주 음악·미디어·창작 산업계가 인공지능(AI) 학습에 호주 창작물이 무단으로 쓰이지 않도록 저작권 보호를 강화하라고 연방정부에 요구하고 나섰다. Not AI’s to Take 캠페인은 제40회 ARIA Awards를 앞둔 11월 17일 시작됐으며 Australian Recording Industry Association(ARIA)와 Phonographic Performance Company of Australia(PPCA)가 이끈다."
               },
               {
                 "t": "p",
-                "x": "Telisha “Nikki” Jones의 AI 페르소나 Xania Monet는 하루 전 SIQA 서밋에서 AI Album of the Year를 받은 데 이어 올해의 아티스트와 올해의 노래까지 품었다. 시상식 최고 부문 네 개 가운데 세 개다. 남은 올해의 프로듀서는 “DJ Shawn Q.”가 가져갔다. Jones는 “AI는 도구일 뿐”이라고 했다."
+                "x": "Anthony Albanese 총리는 2026년 7월 어떤 기업도 창작자의 통제 없이 그 작품으로 AI를 학습시켜선 안 된다며 “그보다 못한 것은 모두 절도”라고 했다. 정부는 이미 포괄적인 텍스트·데이터 마이닝 예외를 배제했지만 라이선스와 집행 문제는 여전히 논의 중이다."
               },
               {
                 "t": "p",
-                "x": "SIQA는 소프트웨어 엔지니어 Timirah “TJ” James와 자매 Mia James가 세웠고, Recording Academy의 AI판을 꿈꾼다. 하지만 이날 행사는 곳곳에서 삐걱댔다. 시작은 30분가량 늦어졌고 엉킨 텔레프롬프터에는 Claude가 만든(Claude-generated) 진행표가 떴다. Deepgram AI 음성은 툭하면 먹통이었고, 출연자들은 무료 하우스 밴드를 뒤에 두고 AI 트랙에 맞춰 립싱크했다."
+                "x": "ARIA와 PPCA는 opt-out 방식으로 기울면 기존 저작권 보호가 약해지고 부담이 개별 아티스트에게 떠넘겨질까 걱정한다. 캠페인이 대안으로 내세운 건 허락 우선 방식이다. AI 기업은 자료를 쓰기 전에 저작권자 동의부터 받고 조건을 협상해야 한다는 주장이다."
               },
               {
                 "t": "p",
-                "x": "James는 청중에게 “이것이 새로운 음악 산업이기에 내년도 있을 것”이라고 말했다."
+                "x": "호주 창작·미디어 산업은 해마다 국가 경제에 $70.3 billion 을 보태고 600,000명 가까운 일자리를 떠받친다. 캠페인은 시민들에게 청원 서명과 지역구 연방 하원의원(MP)에게 편지 보내기, nottheirstotake.com.au 캠페인 자료 공유를 요청했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Xania Monetが\nAI音楽賞で四部門中三冠",
-          "body": "初のAI Music AwardsでXania Monetが主要四部門中三部門を制した。",
-          "mini_headline": "Xania MonetがAI Music Awardsを席巻",
+          "headline": "豪音楽団体がAI著作権で\n「同意優先」運動を開始",
+          "body": "ARIAとPPCAはCanberraに対し、AI企業に事前の同意取得を求めるよう訴えた。",
+          "mini_headline": "豪州の同意優先AI運動",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/7R6A5866-1.jpg?w=1000&h=667&crop=1",
-                "cap": "Xania Monetの生みの親、Telisha “Nikki” Jones"
+                "src": "https://www.ausleisure.com.au/img/containers/assets/news-images/aria-and-ppca-petition.jpg/9685855ac03c87223028de21bf617610/aria-and-ppca-petition.webp"
               },
               {
                 "t": "p",
-                "x": "Varietyは金曜日、ロサンゼルスのダウンタウン(Downtown Los Angeles)にあるMayan Theaterで開かれた初の「AI Music Awards」を取材した。主催は「Sonic Intelligence Academy」(SIQA)だ。出場資格を得るには、アーティストがSIQAの「Verified Registry」に楽曲を登録し、25部門で仲間をノミネートし、受賞者を投票で決める仕組みだ。"
+                "x": "オーストラリアの音楽・メディア・クリエイティブ産業は、人工知能(AI)システムの学習にオーストラリアの創作物が無断で使われないよう、著作権保護の強化を連邦政府に求めている。第40回ARIA Awardsを前に11月17日に始まったNot AI’s to Takeキャンペーンは、Australian Recording Industry Association(ARIA)とPhonographic Performance Company of Australia(PPCA)が主導する。"
               },
               {
                 "t": "p",
-                "x": "Telisha “Nikki” JonesのAIペルソナであるXania Monetは、前日のSIQAサミットでAI Album of the Yearを受賞し、続いて年間最優秀アーティストと年間最優秀楽曲も獲得した。賞の主要四部門のうち三部門である。残る年間最優秀プロデューサーは「DJ Shawn Q.」が手にした。Jonesは「AIは道具にすぎない」と語った。"
+                "x": "2026年7月、Anthony Albanese首相は、いかなる企業も創作者の管理なしにその作品でAIを学習させるべきではないと述べ、「それに満たないものは窃盗だ」と付け加えた。政府は広範なテキスト・データマイニング例外をすでに否定しているが、ライセンスと執行をめぐる議論は続いている。"
               },
               {
                 "t": "p",
-                "x": "ソフトウェアエンジニアのTimirah “TJ” Jamesと姉妹のMia Jamesが設立したSIQAは、Recording AcademyのAI版になることを目指している。当夜は不手際が目立った。開始は約30分遅れ、混乱したテレプロンプターにはClaudeが生成した(Claude-generated)進行表が映り、Deepgram AIの音声はしばしば機能せず、出演者は無償のハウスバンドを従えてAI楽曲に口パクで合わせた。"
+                "x": "ARIAとPPCAは、opt-out方式に傾けば既存の著作権保護が損なわれ、責任が個々のアーティストに押し付けられると懸念する。キャンペーンはその代わりに、AI企業が素材を使う前に著作権者の同意を得て条件を交渉することを求める「許諾優先」の方式を訴えている。"
               },
               {
                 "t": "p",
-                "x": "「これが新しい音楽業界なのだから、来年もある」とJamesは観客に語った。"
+                "x": "オーストラリアの創造・メディア産業は年間$70.3 billion を国の経済にもたらし、600,000人近い雇用を支えている。キャンペーンは市民に、請願への署名、地元の連邦議員(MP)への手紙、nottheirstotake.com.auでのキャンペーン資料の共有を呼びかけている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Xania Monet\n斩获AI音乐奖四项中三项",
-          "body": "在首届AI Music Awards上，AI艺人Xania Monet拿下四大奖项中三项。",
-          "mini_headline": "Xania Monet称霸AI Music Awards",
+          "headline": "澳大利亚音乐团体发起\nAI版权“同意优先”行动",
+          "body": "ARIA与PPCA敦促Canberra拒绝选择退出式数据挖掘例外，要求AI公司先征得同意。",
+          "mini_headline": "澳大利亚“同意优先”AI行动",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/7R6A5866-1.jpg?w=1000&h=667&crop=1",
-                "cap": "Xania Monet的创作者Telisha “Nikki” Jones"
+                "src": "https://www.ausleisure.com.au/img/containers/assets/news-images/aria-and-ppca-petition.jpg/9685855ac03c87223028de21bf617610/aria-and-ppca-petition.webp"
               },
               {
                 "t": "p",
-                "x": "Variety周五出席了在洛杉矶市中心（Downtown Los Angeles）Mayan Theater举行的首届“AI Music Awards”，该活动由“Sonic Intelligence Academy”（SIQA）主办。艺人须先在SIQA的“Verified Registry”登记作品才有参评资格，随后在25个类别中提名同行，并投票选出获奖者。"
+                "x": "澳大利亚音乐、媒体和创意产业正敦促联邦政府加强版权保护，防止澳大利亚创作作品在未经授权的情况下被用于训练人工智能(AI)系统。Not AI’s to Take 运动于11月17日、第40届ARIA Awards前夕启动，由Australian Recording Industry Association(ARIA)和Phonographic Performance Company of Australia(PPCA)牵头。"
               },
               {
                 "t": "p",
-                "x": "Xania Monet是Telisha “Nikki” Jones的AI化身，前一天已在SIQA峰会上获得AI Album of the Year，随后又拿下年度艺人和年度歌曲——即该奖项四大类别中的三项。第四项年度制作人由“DJ Shawn Q.”获得。Jones表示：“AI只是一种工具。”"
+                "x": "2026年7月，总理Anthony Albanese表示，任何公司都不应在创作者无法掌控的情况下用其作品训练AI，并称“任何低于此标准的做法都是盗窃”。政府此前已排除宽泛的文本与数据挖掘例外，但围绕许可和执法的讨论仍在继续。"
               },
               {
                 "t": "p",
-                "x": "SIQA由软件工程师Timirah “TJ” James与姐妹Mia James创办，希望成为Recording Academy的AI版本。当晚状况频出：开场晚了约30分钟，混乱的提词器上显示着由Claude生成（Claude-generated）的流程表，Deepgram AI语音经常失灵，表演者则在免费驻场乐队的伴奏下对着AI曲目假唱。"
+                "x": "ARIA和PPCA担心，任何走向opt-out机制的举措都会削弱现有版权保护，并把责任推给个体艺术家。该运动转而倡导“许可优先”模式，要求AI公司在使用素材前征得版权持有人同意并协商条款。"
               },
               {
                 "t": "p",
-                "x": "James对观众说：“明年还会有，因为这就是新的音乐产业。”"
+                "x": "澳大利亚创意和媒体产业每年为国民经济贡献$70.3 billion ，并支撑近600,000名从业者。该运动呼吁公众签署请愿书、致信当地联邦议员(MP)，并在nottheirstotake.com.au分享运动资料。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Xania Monet gana tres de los\ncuatro grandes AI Music Awards",
-          "body": "En los primeros AI Music Awards de la Sonic Intelligence Academy, Xania Monet ganó tres de cuatro categorías clave.",
-          "mini_headline": "Xania Monet gana los AI Music Awards",
+          "headline": "Entidades musicales de Australia\nexigen consentimiento ante la AI",
+          "body": "ARIA y PPCA piden a Canberra rechazar una excepción opt-out y que las firmas de AI pidan consentimiento previo.",
+          "mini_headline": "Australia exige consentimiento ante la AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/7R6A5866-1.jpg?w=1000&h=667&crop=1",
-                "cap": "Telisha “Nikki” Jones, creadora de Xania Monet"
+                "src": "https://www.ausleisure.com.au/img/containers/assets/news-images/aria-and-ppca-petition.jpg/9685855ac03c87223028de21bf617610/aria-and-ppca-petition.webp"
               },
               {
                 "t": "p",
-                "x": "Variety asistió el viernes a la primera edición de los “AI Music Awards”, impulsados por la “Sonic Intelligence Academy” (SIQA), en el Mayan Theater de Downtown Los Angeles. Para participar, los artistas registraron sus temas en el “Verified Registry” de SIQA, luego nominaron a sus pares en 25 categorías y votaron por los ganadores."
+                "x": "Las industrias musical, mediática y creativa de Australia instan al Gobierno federal a reforzar la protección de los derechos de autor frente al uso no autorizado de obras creativas australianas para entrenar sistemas de inteligencia artificial (AI). Lanzada el 17 de noviembre, antes de la 40.ª edición de los ARIA Awards, la campaña Not AI’s to Take está liderada por la Australian Recording Industry Association (ARIA) y la Phonographic Performance Company of Australia (PPCA)."
               },
               {
                 "t": "p",
-                "x": "Xania Monet, la persona de IA de Telisha “Nikki” Jones, ganó AI Album of the Year en la cumbre de SIQA el día anterior y después se llevó artista y canción del año: tres de las cuatro categorías principales de los premios. La cuarta, productor del año, fue para “DJ Shawn Q.” “La IA es solo una herramienta”, dijo Jones."
+                "x": "En julio de 2026, el primer ministro Anthony Albanese dijo que ninguna empresa debería usar la obra de los creadores para entrenar AI sin su control, y añadió que “cualquier cosa menos es robo”. El Gobierno ya había descartado una excepción amplia de minería de textos y datos, pero continúan las conversaciones sobre licencias y su aplicación."
               },
               {
                 "t": "p",
-                "x": "SIQA, fundada por la ingeniera de software Timirah “TJ” James y su hermana Mia James, aspira a ser la contraparte en IA de la Recording Academy. La noche estuvo marcada por fallos: un inicio con unos 30 minutos de retraso, un guion del evento generado por Claude (Claude-generated) en un teleprompter confuso, una voz de Deepgram AI que a menudo no funcionaba y artistas que hacían playback sobre temas de IA acompañados por una banda de la casa gratuita."
+                "x": "A ARIA y PPCA les preocupa que cualquier paso hacia un sistema opt-out debilite la protección vigente de los derechos de autor y traslade la responsabilidad a cada artista. En su lugar, la campaña defiende un enfoque de permiso previo que obligue a las empresas de AI a obtener consentimiento y negociar condiciones con los titulares de derechos antes de usar su material."
               },
               {
                 "t": "p",
-                "x": "“Habrá un próximo año porque esta es la nueva industria musical”, dijo James al público."
+                "x": "Las industrias creativas y de medios de Australia aportan $70.3 billion al año a la economía nacional y sostienen casi 600,000 empleos. La campaña pide al público firmar una petición, escribir a su diputado federal (MP) local y compartir los materiales de la campaña en nottheirstotake.com.au."
               }
             ]
           }
@@ -199,125 +193,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Xania Monet,\nAI 음악상 넷 중 셋",
-          "body": "Xania Monet가 첫 AI Music Awards 네 부문 중 셋을 땄다.",
-          "mini_headline": "Xania Monet, AI Music Awards 석권",
+          "headline": "호주 음악계, AI 저작권\n'동의 우선' 운동 시작",
+          "body": "ARIA·PPCA는 Canberra에 AI 기업의 사전 동의 의무화를 촉구했다.",
+          "mini_headline": "호주, 동의 우선 AI 운동",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/7R6A5866-1.jpg?w=1000&h=667&crop=1",
-                "cap": "Xania Monet의 창작자 Telisha “Nikki” Jones"
+                "src": "https://www.ausleisure.com.au/img/containers/assets/news-images/aria-and-ppca-petition.jpg/9685855ac03c87223028de21bf617610/aria-and-ppca-petition.webp"
               },
               {
                 "t": "p",
-                "x": "Variety는 금요일 로스앤젤레스 도심(Downtown Los Angeles)의 Mayan Theater에서 열린 첫 “AI Music Awards”를 취재했다. 행사는 “Sonic Intelligence Academy”(SIQA)가 주관했다. 자격을 얻으려면 아티스트는 SIQA의 “Verified Registry”에 트랙을 등록한 뒤, 25개 부문에서 동료를 후보로 추천하고 수상자를 투표로 정했다."
+                "x": "호주의 음악·미디어·창작 산업계가 인공지능(AI) 시스템 학습에 호주 창작물이 무단으로 쓰이지 않도록 저작권 보호를 강화하라고 연방정부에 촉구하고 있다. 제40회 ARIA Awards를 앞둔 11월 17일 시작된 Not AI’s to Take 캠페인은 Australian Recording Industry Association(ARIA)와 Phonographic Performance Company of Australia(PPCA)가 이끈다."
               },
               {
                 "t": "p",
-                "x": "Telisha “Nikki” Jones의 AI 페르소나인 Xania Monet는 하루 전 SIQA 서밋에서 AI Album of the Year를 받았고, 이어 올해의 아티스트와 올해의 노래까지 거머쥐었다. 시상식 최고 부문 네 개 중 세 개다. 네 번째 부문인 올해의 프로듀서는 “DJ Shawn Q.”에게 돌아갔다. Jones는 “AI는 도구일 뿐”이라고 말했다."
+                "x": "2026년 7월 Anthony Albanese 총리는 어떤 기업도 창작자의 통제 없이 그들의 작품으로 AI를 학습시켜서는 안 된다며 “그보다 못한 것은 모두 절도”라고 말했다. 정부는 앞서 포괄적인 텍스트·데이터 마이닝 예외를 배제했지만, 라이선스와 집행을 둘러싼 논의는 이어지고 있다."
               },
               {
                 "t": "p",
-                "x": "소프트웨어 엔지니어 Timirah “TJ” James와 자매 Mia James가 세운 SIQA는 Recording Academy의 AI판이 되기를 바란다. 이날 행사는 곳곳에서 삐걱거렸다. 시작이 약 30분 늦었고, 헷갈린 텔레프롬프터에는 Claude가 만든(Claude-generated) 진행표가 떴으며, Deepgram AI 음성은 자주 작동하지 않았고, 출연자들은 무료 하우스 밴드를 배경으로 AI 트랙에 맞춰 립싱크를 했다."
+                "x": "ARIA와 PPCA는 opt-out 방식으로 기울면 기존 저작권 보호가 약해지고 책임이 개별 아티스트에게 넘어갈 것을 우려한다. 대신 캠페인은 AI 기업이 자료를 쓰기 전에 저작권자의 동의를 얻고 조건을 협상하도록 하는 허락 우선 방식을 주장한다."
               },
               {
                 "t": "p",
-                "x": "James는 청중에게 “이것이 새로운 음악 산업이기에 내년도 있을 것”이라고 말했다."
+                "x": "호주 창작·미디어 산업은 매년 국가 경제에 $70.3 billion 을 기여하고 근 600,000명의 일자리를 떠받친다. 캠페인은 시민들에게 청원 서명, 지역구 연방 하원의원(MP)에게 편지 쓰기, nottheirstotake.com.au의 캠페인 자료 공유를 요청한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Xania Monetが\nAI音楽賞で四部門中三冠",
-          "body": "初のAI Music AwardsでXania Monetが主要四部門中三部門を制した。",
-          "mini_headline": "Xania MonetがAI Music Awardsを席巻",
+          "headline": "豪音楽団体がAI著作権で\n「同意優先」運動を開始",
+          "body": "ARIAとPPCAはCanberraに対し、AI企業に事前の同意取得を求めるよう訴えた。",
+          "mini_headline": "豪州の同意優先AI運動",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/7R6A5866-1.jpg?w=1000&h=667&crop=1",
-                "cap": "Xania Monetの生みの親、Telisha “Nikki” Jones"
+                "src": "https://www.ausleisure.com.au/img/containers/assets/news-images/aria-and-ppca-petition.jpg/9685855ac03c87223028de21bf617610/aria-and-ppca-petition.webp"
               },
               {
                 "t": "p",
-                "x": "Varietyは金曜日、ロサンゼルスのダウンタウン(Downtown Los Angeles)にあるMayan Theaterで開かれた初の「AI Music Awards」を取材した。主催は「Sonic Intelligence Academy」(SIQA)だ。出場資格を得るには、アーティストがSIQAの「Verified Registry」に楽曲を登録し、25部門で仲間をノミネートし、受賞者を投票で決める仕組みだ。"
+                "x": "オーストラリアの音楽・メディア・クリエイティブ産業は、人工知能(AI)システムの学習にオーストラリアの創作物が無断で使われないよう、著作権保護の強化を連邦政府に求めている。第40回ARIA Awardsを前に11月17日に始まったNot AI’s to Takeキャンペーンは、Australian Recording Industry Association(ARIA)とPhonographic Performance Company of Australia(PPCA)が主導する。"
               },
               {
                 "t": "p",
-                "x": "Telisha “Nikki” JonesのAIペルソナであるXania Monetは、前日のSIQAサミットでAI Album of the Yearを受賞し、続いて年間最優秀アーティストと年間最優秀楽曲も獲得した。賞の主要四部門のうち三部門である。残る年間最優秀プロデューサーは「DJ Shawn Q.」が手にした。Jonesは「AIは道具にすぎない」と語った。"
+                "x": "2026年7月、Anthony Albanese首相は、いかなる企業も創作者の管理なしにその作品でAIを学習させるべきではないと述べ、「それに満たないものは窃盗だ」と付け加えた。政府は広範なテキスト・データマイニング例外をすでに否定しているが、ライセンスと執行をめぐる議論は続いている。"
               },
               {
                 "t": "p",
-                "x": "ソフトウェアエンジニアのTimirah “TJ” Jamesと姉妹のMia Jamesが設立したSIQAは、Recording AcademyのAI版になることを目指している。当夜は不手際が目立った。開始は約30分遅れ、混乱したテレプロンプターにはClaudeが生成した(Claude-generated)進行表が映り、Deepgram AIの音声はしばしば機能せず、出演者は無償のハウスバンドを従えてAI楽曲に口パクで合わせた。"
+                "x": "ARIAとPPCAは、opt-out方式に傾けば既存の著作権保護が損なわれ、責任が個々のアーティストに押し付けられると懸念する。キャンペーンはその代わりに、AI企業が素材を使う前に著作権者の同意を得て条件を交渉することを求める「許諾優先」の方式を訴えている。"
               },
               {
                 "t": "p",
-                "x": "「これが新しい音楽業界なのだから、来年もある」とJamesは観客に語った。"
+                "x": "オーストラリアの創造・メディア産業は年間$70.3 billion を国の経済にもたらし、600,000人近い雇用を支えている。キャンペーンは市民に、請願への署名、地元の連邦議員(MP)への手紙、nottheirstotake.com.auでのキャンペーン資料の共有を呼びかけている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Xania Monet\n斩获AI音乐奖四项中三项",
-          "body": "在首届AI Music Awards上，AI艺人Xania Monet拿下四大奖项中三项。",
-          "mini_headline": "Xania Monet称霸AI Music Awards",
+          "headline": "澳大利亚音乐团体发起\nAI版权“同意优先”行动",
+          "body": "ARIA与PPCA敦促Canberra拒绝选择退出式数据挖掘例外，要求AI公司先征得同意。",
+          "mini_headline": "澳大利亚“同意优先”AI行动",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/7R6A5866-1.jpg?w=1000&h=667&crop=1",
-                "cap": "Xania Monet的创作者Telisha “Nikki” Jones"
+                "src": "https://www.ausleisure.com.au/img/containers/assets/news-images/aria-and-ppca-petition.jpg/9685855ac03c87223028de21bf617610/aria-and-ppca-petition.webp"
               },
               {
                 "t": "p",
-                "x": "Variety周五出席了在洛杉矶市中心（Downtown Los Angeles）Mayan Theater举行的首届“AI Music Awards”，该活动由“Sonic Intelligence Academy”（SIQA）主办。艺人须先在SIQA的“Verified Registry”登记作品才有参评资格，随后在25个类别中提名同行，并投票选出获奖者。"
+                "x": "澳大利亚音乐、媒体和创意产业正敦促联邦政府加强版权保护，防止澳大利亚创作作品在未经授权的情况下被用于训练人工智能(AI)系统。Not AI’s to Take 运动于11月17日、第40届ARIA Awards前夕启动，由Australian Recording Industry Association(ARIA)和Phonographic Performance Company of Australia(PPCA)牵头。"
               },
               {
                 "t": "p",
-                "x": "Xania Monet是Telisha “Nikki” Jones的AI化身，前一天已在SIQA峰会上获得AI Album of the Year，随后又拿下年度艺人和年度歌曲——即该奖项四大类别中的三项。第四项年度制作人由“DJ Shawn Q.”获得。Jones表示：“AI只是一种工具。”"
+                "x": "2026年7月，总理Anthony Albanese表示，任何公司都不应在创作者无法掌控的情况下用其作品训练AI，并称“任何低于此标准的做法都是盗窃”。政府此前已排除宽泛的文本与数据挖掘例外，但围绕许可和执法的讨论仍在继续。"
               },
               {
                 "t": "p",
-                "x": "SIQA由软件工程师Timirah “TJ” James与姐妹Mia James创办，希望成为Recording Academy的AI版本。当晚状况频出：开场晚了约30分钟，混乱的提词器上显示着由Claude生成（Claude-generated）的流程表，Deepgram AI语音经常失灵，表演者则在免费驻场乐队的伴奏下对着AI曲目假唱。"
+                "x": "ARIA和PPCA担心，任何走向opt-out机制的举措都会削弱现有版权保护，并把责任推给个体艺术家。该运动转而倡导“许可优先”模式，要求AI公司在使用素材前征得版权持有人同意并协商条款。"
               },
               {
                 "t": "p",
-                "x": "James对观众说：“明年还会有，因为这就是新的音乐产业。”"
+                "x": "澳大利亚创意和媒体产业每年为国民经济贡献$70.3 billion ，并支撑近600,000名从业者。该运动呼吁公众签署请愿书、致信当地联邦议员(MP)，并在nottheirstotake.com.au分享运动资料。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Xania Monet gana tres de los\ncuatro grandes AI Music Awards",
-          "body": "En los primeros AI Music Awards de la Sonic Intelligence Academy, Xania Monet ganó tres de cuatro categorías clave.",
-          "mini_headline": "Xania Monet gana los AI Music Awards",
+          "headline": "Entidades musicales de Australia\nexigen consentimiento ante la AI",
+          "body": "ARIA y PPCA piden a Canberra rechazar una excepción opt-out y que las firmas de AI pidan consentimiento previo.",
+          "mini_headline": "Australia exige consentimiento ante la AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/7R6A5866-1.jpg?w=1000&h=667&crop=1",
-                "cap": "Telisha “Nikki” Jones, creadora de Xania Monet"
+                "src": "https://www.ausleisure.com.au/img/containers/assets/news-images/aria-and-ppca-petition.jpg/9685855ac03c87223028de21bf617610/aria-and-ppca-petition.webp"
               },
               {
                 "t": "p",
-                "x": "Variety asistió el viernes a la primera edición de los “AI Music Awards”, impulsados por la “Sonic Intelligence Academy” (SIQA), en el Mayan Theater de Downtown Los Angeles. Para participar, los artistas registraron sus temas en el “Verified Registry” de SIQA, luego nominaron a sus pares en 25 categorías y votaron por los ganadores."
+                "x": "Las industrias musical, mediática y creativa de Australia instan al Gobierno federal a reforzar la protección de los derechos de autor frente al uso no autorizado de obras creativas australianas para entrenar sistemas de inteligencia artificial (AI). Lanzada el 17 de noviembre, antes de la 40.ª edición de los ARIA Awards, la campaña Not AI’s to Take está liderada por la Australian Recording Industry Association (ARIA) y la Phonographic Performance Company of Australia (PPCA)."
               },
               {
                 "t": "p",
-                "x": "Xania Monet, la persona de IA de Telisha “Nikki” Jones, ganó AI Album of the Year en la cumbre de SIQA el día anterior y después se llevó artista y canción del año: tres de las cuatro categorías principales de los premios. La cuarta, productor del año, fue para “DJ Shawn Q.” “La IA es solo una herramienta”, dijo Jones."
+                "x": "En julio de 2026, el primer ministro Anthony Albanese dijo que ninguna empresa debería usar la obra de los creadores para entrenar AI sin su control, y añadió que “cualquier cosa menos es robo”. El Gobierno ya había descartado una excepción amplia de minería de textos y datos, pero continúan las conversaciones sobre licencias y su aplicación."
               },
               {
                 "t": "p",
-                "x": "SIQA, fundada por la ingeniera de software Timirah “TJ” James y su hermana Mia James, aspira a ser la contraparte en IA de la Recording Academy. La noche estuvo marcada por fallos: un inicio con unos 30 minutos de retraso, un guion del evento generado por Claude (Claude-generated) en un teleprompter confuso, una voz de Deepgram AI que a menudo no funcionaba y artistas que hacían playback sobre temas de IA acompañados por una banda de la casa gratuita."
+                "x": "A ARIA y PPCA les preocupa que cualquier paso hacia un sistema opt-out debilite la protección vigente de los derechos de autor y traslade la responsabilidad a cada artista. En su lugar, la campaña defiende un enfoque de permiso previo que obligue a las empresas de AI a obtener consentimiento y negociar condiciones con los titulares de derechos antes de usar su material."
               },
               {
                 "t": "p",
-                "x": "“Habrá un próximo año porque esta es la nueva industria musical”, dijo James al público."
+                "x": "Las industrias creativas y de medios de Australia aportan $70.3 billion al año a la economía nacional y sostienen casi 600,000 empleos. La campaña pide al público firmar una petición, escribir a su diputado federal (MP) local y compartir los materiales de la campaña en nottheirstotake.com.au."
               }
             ]
           }
@@ -325,729 +315,195 @@
       }
     },
     {
-      "id": "cerati-me-quedo-aqui-remaster",
+      "id": "elvis-suno-amended-suit",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Cerati 자녀들\n“영상 협의 없었다”",
-      "body": "Cerati 자녀들은 AI-altered 의혹 영상을 두고 자문이 없었다고 했다.",
-      "mini_headline": "Cerati 유족, 보정 영상 비판",
+      "headline": "Elvis 측, Suno에\n저작권 소송 확대",
+      "body": "Elvis Presley Enterprises 등이 Suno 저작권 소송을 키웠다.",
+      "mini_headline": "Elvis 측, Suno 소송 확대",
       "tool": "Music",
-      "source": "Consequence",
-      "url": "https://consequence.net/2026/11/gustavo-cerati-children-video-ai-backlash/",
+      "source": "Digital Music News",
+      "url": "https://www.digitalmusicnews.com/2026/11/16/elvis-presley-enterprises-amended-suno-lawsuit/",
       "accent": "#0070f3",
-      "motif": "sphere",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://consequence.net/wp-content/uploads/2026/11/Gustavo-Cerati-Me-Quedo-Aqui-Remastered-Video-Frame.jpg",
-            "cap": "Gustavo Cerati “Me Quedo Aquí” 리마스터 뮤직비디오 (via Instagram)"
-          },
-          {
-            "t": "p",
-            "x": "Gustavo Cerati의 자녀 Lisa와 Benito가 아르헨티나 록 아이콘인 고인의 “Me Quedo Aquí” 뮤직비디오 새 버전을 비판했다. 2006년 앨범 Ahí Vamos 발매 20주년에 맞춰 공개된 영상이다. 팬들은 인공지능으로 고인의 외모를 바꾼 것 아니냐며 반발하고 있다."
-          },
-          {
-            "t": "p",
-            "x": "남매는 Lisa Cerati가 Instagram Stories에 올리고 Benito가 다시 공유한 성명에서 앨범 오디오 리마스터는 지지한다고 먼저 밝혔다. “필요한 작업이라고 느꼈고, 더 거친 사운드라는 원래 의도를 존중해 완성된 오디오에 만족한다.”"
-          },
-          {
-            "t": "p",
-            "x": "“영상의 경우, ‘Me Quedo Aquí’는 여러분이 보기 전까지 저희도 보지 못한 처리를 거쳤고, 그 결과가 좋지 않다고 봤다”고 남매는 덧붙였다. “보정 과정이나 어떤 도구가 쓰였는지 알지 못했다. 저희는 자문을 받지 못했고, 이를 깊이 유감스럽게 생각한다.”"
-          },
-          {
-            "t": "img",
-            "src": "https://consequence.net/wp-content/uploads/2026/11/Lisa-and-Benito-Cerati-Slam-Use-of-AI-Gustavo-Cerati-Remastered-Video.png",
-            "cap": "Lisa와 Benito Cerati의 성명 (via Instagram)"
-          },
-          {
-            "t": "p",
-            "x": "팬들은 Cerati의 얼굴 생김새가 달라 보인다며 의문을 제기했고 일부는 AI-generated 수정을 의심했다. 공식 계정도, 남매도 AI 사용 여부는 확인하지 않았다. Cerati는 2014년 55세로 세상을 떠났다. 리마스터한 Ahí Vamos는 11월 12일 디지털로 먼저 나왔고 실물 음반은 11월 13일 나왔다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Cerati's children say they\nweren't consulted on video",
-          "body": "Gustavo Cerati's children say they weren't consulted on the remastered 'Me Quedo Aquí' video fans suspect is AI-altered.",
-          "mini_headline": "Cerati heirs fault\nenhanced video",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://consequence.net/wp-content/uploads/2026/11/Gustavo-Cerati-Me-Quedo-Aqui-Remastered-Video-Frame.jpg",
-                "cap": "Remastered video for Gustavo Cerati’s “Me Quedo Aquí” (via Instagram)"
-              },
-              {
-                "t": "p",
-                "x": "Gustavo Cerati’s children, Lisa and Benito, have criticized an updated version of the late Argentine rock icon’s “Me Quedo Aquí” music video, released to coincide with the 20th anniversary of his 2006 album Ahí Vamos. The video has drawn backlash from fans who suspect artificial intelligence was used to alter the late musician’s appearance."
-              },
-              {
-                "t": "p",
-                "x": "In a statement shared on Lisa Cerati’s Instagram Stories and also reposted by Benito, the siblings first expressed their support for the album’s audio remaster. “We felt it was necessary, and we’re happy with how the audio turned out, respecting the original intention of a rawer sound.”"
-              },
-              {
-                "t": "p",
-                "x": "“As for the videos, ‘Me Quedo Aquí’ received a treatment that we didn’t see before all of you did, and we found the result unfavorable,” they continued. “We weren’t aware of the enhancement process or what tools were used. We weren’t consulted, and we deeply regret that.”"
-              },
-              {
-                "t": "img",
-                "src": "https://consequence.net/wp-content/uploads/2026/11/Lisa-and-Benito-Cerati-Slam-Use-of-AI-Gustavo-Cerati-Remastered-Video.png",
-                "cap": "Lisa and Benito Cerati statement (via Instagram)"
-              },
-              {
-                "t": "p",
-                "x": "Fans questioned apparent alterations to Cerati’s facial features, with some suspecting AI-generated modifications. Neither the official account nor the siblings have confirmed whether AI was used. Cerati died in 2014 at the age of 55. The remastered Ahí Vamos arrived digitally on November 12th, with physical editions following November 13th."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Cerati 자녀들\n“영상 협의 없었다”",
-          "body": "Cerati 자녀들은 AI-altered 의혹 영상을 두고 자문이 없었다고 했다.",
-          "mini_headline": "Cerati 유족, 보정 영상 비판",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://consequence.net/wp-content/uploads/2026/11/Gustavo-Cerati-Me-Quedo-Aqui-Remastered-Video-Frame.jpg",
-                "cap": "Gustavo Cerati “Me Quedo Aquí” 리마스터 뮤직비디오 (via Instagram)"
-              },
-              {
-                "t": "p",
-                "x": "Gustavo Cerati의 자녀 Lisa와 Benito가 아르헨티나 록 아이콘인 고인의 “Me Quedo Aquí” 뮤직비디오 새 버전을 비판했다. 2006년 앨범 Ahí Vamos 발매 20주년에 맞춰 공개된 영상이다. 팬들은 인공지능으로 고인의 외모를 바꾼 것 아니냐며 반발하고 있다."
-              },
-              {
-                "t": "p",
-                "x": "남매는 Lisa Cerati가 Instagram Stories에 올리고 Benito가 다시 공유한 성명에서 앨범 오디오 리마스터는 지지한다고 먼저 밝혔다. “필요한 작업이라고 느꼈고, 더 거친 사운드라는 원래 의도를 존중해 완성된 오디오에 만족한다.”"
-              },
-              {
-                "t": "p",
-                "x": "“영상의 경우, ‘Me Quedo Aquí’는 여러분이 보기 전까지 저희도 보지 못한 처리를 거쳤고, 그 결과가 좋지 않다고 봤다”고 남매는 덧붙였다. “보정 과정이나 어떤 도구가 쓰였는지 알지 못했다. 저희는 자문을 받지 못했고, 이를 깊이 유감스럽게 생각한다.”"
-              },
-              {
-                "t": "img",
-                "src": "https://consequence.net/wp-content/uploads/2026/11/Lisa-and-Benito-Cerati-Slam-Use-of-AI-Gustavo-Cerati-Remastered-Video.png",
-                "cap": "Lisa와 Benito Cerati의 성명 (via Instagram)"
-              },
-              {
-                "t": "p",
-                "x": "팬들은 Cerati의 얼굴 생김새가 달라 보인다며 의문을 제기했고 일부는 AI-generated 수정을 의심했다. 공식 계정도, 남매도 AI 사용 여부는 확인하지 않았다. Cerati는 2014년 55세로 세상을 떠났다. 리마스터한 Ahí Vamos는 11월 12일 디지털로 먼저 나왔고 실물 음반은 11월 13일 나왔다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Cerati の子ども\n映像に「相談なし」",
-          "body": "Cerati の子どもたちは AI-altered 疑惑の映像に相談はなかったと述べた。",
-          "mini_headline": "Cerati の遺族、補正映像を批判",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://consequence.net/wp-content/uploads/2026/11/Gustavo-Cerati-Me-Quedo-Aqui-Remastered-Video-Frame.jpg",
-                "cap": "Gustavo Cerati「Me Quedo Aquí」のリマスター映像（via Instagram）"
-              },
-              {
-                "t": "p",
-                "x": "Gustavo Cerati の子どもである Lisa と Benito が、故人となったアルゼンチンのロックの象徴による「Me Quedo Aquí」のミュージックビデオ新版を批判した。この映像は2006年のアルバム Ahí Vamos の20周年に合わせて公開された。故人の容姿を変えるのに人工知能が使われたのではないかと疑うファンから反発が起きている。"
-              },
-              {
-                "t": "p",
-                "x": "Lisa Cerati の Instagram Stories で共有され、Benito も再投稿した声明で、2人はまずアルバムの音源リマスターを支持すると表明した。「必要だと感じていたし、より生々しいサウンドという本来の意図を尊重した音の仕上がりに満足している」"
-              },
-              {
-                "t": "p",
-                "x": "「映像については、『Me Quedo Aquí』に私たちも皆さんより先に見ていない処理が施されており、その結果は好ましくないと感じた」と2人は続けた。「補正の過程も、どんなツールが使われたのかも知らなかった。私たちは相談を受けておらず、そのことを深く残念に思う」"
-              },
-              {
-                "t": "img",
-                "src": "https://consequence.net/wp-content/uploads/2026/11/Lisa-and-Benito-Cerati-Slam-Use-of-AI-Gustavo-Cerati-Remastered-Video.png",
-                "cap": "Lisa と Benito Cerati の声明（via Instagram）"
-              },
-              {
-                "t": "p",
-                "x": "ファンは Cerati の顔立ちが変わったように見えると疑問を呈し、一部は AI-generated の修正を疑った。公式アカウントも2人も、AI が使われたかどうかを認めていない。Cerati は2014年に55歳で死去した。リマスター版 Ahí Vamos は11月12日にデジタルで配信され、フィジカル版は11月13日に続いた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Cerati 子女称\n视频事先未获征询",
-          "body": "Cerati 子女称，粉丝疑为 AI-altered 的重制视频事先未征询他们。",
-          "mini_headline": "Cerati 后人批评修复视频",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://consequence.net/wp-content/uploads/2026/11/Gustavo-Cerati-Me-Quedo-Aqui-Remastered-Video-Frame.jpg",
-                "cap": "Gustavo Cerati《Me Quedo Aquí》重制版视频（via Instagram）"
-              },
-              {
-                "t": "p",
-                "x": "Gustavo Cerati 的子女 Lisa 和 Benito 批评了这位已故阿根廷摇滚偶像《Me Quedo Aquí》音乐视频的新版本。该视频为纪念他2006年专辑 Ahí Vamos 发行20周年而推出。部分粉丝怀疑有人用人工智能改变了这位已故音乐人的外貌，并因此表达不满。"
-              },
-              {
-                "t": "p",
-                "x": "在 Lisa Cerati 于 Instagram Stories 发布、Benito 也转发的声明中，兄妹二人首先表示支持专辑的音频重制。“我们觉得这是必要的，也对音频的效果感到满意，它尊重了更原始声音的初衷。”"
-              },
-              {
-                "t": "p",
-                "x": "“至于视频，‘Me Quedo Aquí’经过了一种处理，我们和大家一样事先没有看过，我们认为结果并不理想，”他们接着说，“我们不知道增强的过程，也不知道用了什么工具。我们没有被征询意见，对此深感遗憾。”"
-              },
-              {
-                "t": "img",
-                "src": "https://consequence.net/wp-content/uploads/2026/11/Lisa-and-Benito-Cerati-Slam-Use-of-AI-Gustavo-Cerati-Remastered-Video.png",
-                "cap": "Lisa 和 Benito Cerati 的声明（via Instagram）"
-              },
-              {
-                "t": "p",
-                "x": "粉丝质疑 Cerati 的面部特征似乎被改动，有人怀疑是 AI-generated 的修改。官方账号和兄妹二人都未确认是否使用了 AI。Cerati 于2014年去世，享年55岁。重制版 Ahí Vamos 于11月12日以数字形式发行，实体版随后于11月13日推出。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Los hijos de Cerati dicen que\nno fueron consultados",
-          "body": "Los hijos de Cerati dicen que no fueron consultados sobre el video de 'Me Quedo Aquí', señalado como AI-altered.",
-          "mini_headline": "Herederos de Cerati critican el video",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://consequence.net/wp-content/uploads/2026/11/Gustavo-Cerati-Me-Quedo-Aqui-Remastered-Video-Frame.jpg",
-                "cap": "Video remasterizado de “Me Quedo Aquí” de Gustavo Cerati (vía Instagram)"
-              },
-              {
-                "t": "p",
-                "x": "Los hijos de Gustavo Cerati, Lisa y Benito, criticaron una versión actualizada del video musical de “Me Quedo Aquí” del fallecido ícono del rock argentino, publicada para coincidir con el 20.º aniversario de su álbum de 2006 Ahí Vamos. El video provocó el rechazo de fans que sospechan que se usó inteligencia artificial para alterar la apariencia del músico."
-              },
-              {
-                "t": "p",
-                "x": "En un comunicado compartido en las Instagram Stories de Lisa Cerati y también republicado por Benito, los hermanos expresaron primero su apoyo a la remasterización del audio del álbum. “Sentíamos que era necesaria y estamos contentos con cómo quedó el audio, respetando la intención original de un sonido más crudo”."
-              },
-              {
-                "t": "p",
-                "x": "“En cuanto a los videos, ‘Me Quedo Aquí’ recibió un tratamiento que no vimos antes que ustedes, y el resultado nos pareció desfavorable”, continuaron. “No sabíamos del proceso de mejora ni de qué herramientas se usaron. No fuimos consultados y lo lamentamos profundamente”."
-              },
-              {
-                "t": "img",
-                "src": "https://consequence.net/wp-content/uploads/2026/11/Lisa-and-Benito-Cerati-Slam-Use-of-AI-Gustavo-Cerati-Remastered-Video.png",
-                "cap": "Comunicado de Lisa y Benito Cerati (vía Instagram)"
-              },
-              {
-                "t": "p",
-                "x": "Los fans cuestionaron aparentes alteraciones en los rasgos faciales de Cerati, y algunos sospechan modificaciones AI-generated. Ni la cuenta oficial ni los hermanos han confirmado si se usó AI. Cerati murió en 2014 a los 55 años. Ahí Vamos remasterizado llegó en formato digital el 12 de noviembre, y las ediciones físicas siguieron el 13 de noviembre."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Cerati 자녀들\n“영상 협의 없었다”",
-          "body": "Cerati 자녀들은 AI-altered 의심 영상에 자문받지 못했다고 밝혔다.",
-          "mini_headline": "Cerati 유족, 보정 영상 비판",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://consequence.net/wp-content/uploads/2026/11/Gustavo-Cerati-Me-Quedo-Aqui-Remastered-Video-Frame.jpg",
-                "cap": "Gustavo Cerati “Me Quedo Aquí” 리마스터 뮤직비디오 (via Instagram)"
-              },
-              {
-                "t": "p",
-                "x": "Gustavo Cerati의 자녀 Lisa와 Benito가 고인이 된 아르헨티나 록 아이콘의 “Me Quedo Aquí” 뮤직비디오 새 버전을 비판했다. 이 영상은 2006년 앨범 Ahí Vamos 발매 20주년에 맞춰 공개됐다. 팬들은 고인의 외모를 바꾸는 데 인공지능이 쓰였다고 의심하며 반발하고 있다."
-              },
-              {
-                "t": "p",
-                "x": "Lisa Cerati의 Instagram Stories에 올라오고 Benito도 다시 공유한 성명에서, 남매는 먼저 앨범 오디오 리마스터를 지지한다고 밝혔다. “필요한 작업이라고 느꼈고, 더 거친 사운드라는 원래 의도를 존중해 완성된 오디오에 만족한다.”"
-              },
-              {
-                "t": "p",
-                "x": "“영상의 경우, ‘Me Quedo Aquí’는 여러분이 보기 전까지 저희도 보지 못한 처리를 거쳤고, 그 결과가 좋지 않다고 봤다”고 이들은 이어 말했다. “보정 과정이나 어떤 도구가 쓰였는지 알지 못했다. 저희는 자문을 받지 못했고, 이를 깊이 유감스럽게 생각한다.”"
-              },
-              {
-                "t": "img",
-                "src": "https://consequence.net/wp-content/uploads/2026/11/Lisa-and-Benito-Cerati-Slam-Use-of-AI-Gustavo-Cerati-Remastered-Video.png",
-                "cap": "Lisa와 Benito Cerati의 성명 (via Instagram)"
-              },
-              {
-                "t": "p",
-                "x": "팬들은 Cerati의 얼굴 생김새가 달라진 것 같다며 의문을 제기했고, 일부는 AI-generated 수정을 의심했다. 공식 계정도 남매도 AI 사용 여부를 확인하지 않았다. Cerati는 2014년 55세로 세상을 떠났다. 리마스터된 Ahí Vamos는 11월 12일 디지털로 나왔고, 실물 음반은 11월 13일 뒤따랐다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Cerati の子ども\n映像に「相談なし」",
-          "body": "Cerati の子どもたちは AI-altered 疑惑の映像に相談はなかったと述べた。",
-          "mini_headline": "Cerati の遺族、補正映像を批判",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://consequence.net/wp-content/uploads/2026/11/Gustavo-Cerati-Me-Quedo-Aqui-Remastered-Video-Frame.jpg",
-                "cap": "Gustavo Cerati「Me Quedo Aquí」のリマスター映像（via Instagram）"
-              },
-              {
-                "t": "p",
-                "x": "Gustavo Cerati の子どもである Lisa と Benito が、故人となったアルゼンチンのロックの象徴による「Me Quedo Aquí」のミュージックビデオ新版を批判した。この映像は2006年のアルバム Ahí Vamos の20周年に合わせて公開された。故人の容姿を変えるのに人工知能が使われたのではないかと疑うファンから反発が起きている。"
-              },
-              {
-                "t": "p",
-                "x": "Lisa Cerati の Instagram Stories で共有され、Benito も再投稿した声明で、2人はまずアルバムの音源リマスターを支持すると表明した。「必要だと感じていたし、より生々しいサウンドという本来の意図を尊重した音の仕上がりに満足している」"
-              },
-              {
-                "t": "p",
-                "x": "「映像については、『Me Quedo Aquí』に私たちも皆さんより先に見ていない処理が施されており、その結果は好ましくないと感じた」と2人は続けた。「補正の過程も、どんなツールが使われたのかも知らなかった。私たちは相談を受けておらず、そのことを深く残念に思う」"
-              },
-              {
-                "t": "img",
-                "src": "https://consequence.net/wp-content/uploads/2026/11/Lisa-and-Benito-Cerati-Slam-Use-of-AI-Gustavo-Cerati-Remastered-Video.png",
-                "cap": "Lisa と Benito Cerati の声明（via Instagram）"
-              },
-              {
-                "t": "p",
-                "x": "ファンは Cerati の顔立ちが変わったように見えると疑問を呈し、一部は AI-generated の修正を疑った。公式アカウントも2人も、AI が使われたかどうかを認めていない。Cerati は2014年に55歳で死去した。リマスター版 Ahí Vamos は11月12日にデジタルで配信され、フィジカル版は11月13日に続いた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Cerati 子女称\n视频事先未获征询",
-          "body": "Cerati 子女称，粉丝疑为 AI-altered 的重制视频事先未征询他们。",
-          "mini_headline": "Cerati 后人批评修复视频",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://consequence.net/wp-content/uploads/2026/11/Gustavo-Cerati-Me-Quedo-Aqui-Remastered-Video-Frame.jpg",
-                "cap": "Gustavo Cerati《Me Quedo Aquí》重制版视频（via Instagram）"
-              },
-              {
-                "t": "p",
-                "x": "Gustavo Cerati 的子女 Lisa 和 Benito 批评了这位已故阿根廷摇滚偶像《Me Quedo Aquí》音乐视频的新版本。该视频为纪念他2006年专辑 Ahí Vamos 发行20周年而推出。部分粉丝怀疑有人用人工智能改变了这位已故音乐人的外貌，并因此表达不满。"
-              },
-              {
-                "t": "p",
-                "x": "在 Lisa Cerati 于 Instagram Stories 发布、Benito 也转发的声明中，兄妹二人首先表示支持专辑的音频重制。“我们觉得这是必要的，也对音频的效果感到满意，它尊重了更原始声音的初衷。”"
-              },
-              {
-                "t": "p",
-                "x": "“至于视频，‘Me Quedo Aquí’经过了一种处理，我们和大家一样事先没有看过，我们认为结果并不理想，”他们接着说，“我们不知道增强的过程，也不知道用了什么工具。我们没有被征询意见，对此深感遗憾。”"
-              },
-              {
-                "t": "img",
-                "src": "https://consequence.net/wp-content/uploads/2026/11/Lisa-and-Benito-Cerati-Slam-Use-of-AI-Gustavo-Cerati-Remastered-Video.png",
-                "cap": "Lisa 和 Benito Cerati 的声明（via Instagram）"
-              },
-              {
-                "t": "p",
-                "x": "粉丝质疑 Cerati 的面部特征似乎被改动，有人怀疑是 AI-generated 的修改。官方账号和兄妹二人都未确认是否使用了 AI。Cerati 于2014年去世，享年55岁。重制版 Ahí Vamos 于11月12日以数字形式发行，实体版随后于11月13日推出。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Los hijos de Cerati dicen que\nno fueron consultados",
-          "body": "Los hijos de Cerati dicen que no fueron consultados sobre el video de 'Me Quedo Aquí', señalado como AI-altered.",
-          "mini_headline": "Herederos de Cerati critican el video",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://consequence.net/wp-content/uploads/2026/11/Gustavo-Cerati-Me-Quedo-Aqui-Remastered-Video-Frame.jpg",
-                "cap": "Video remasterizado de “Me Quedo Aquí” de Gustavo Cerati (vía Instagram)"
-              },
-              {
-                "t": "p",
-                "x": "Los hijos de Gustavo Cerati, Lisa y Benito, criticaron una versión actualizada del video musical de “Me Quedo Aquí” del fallecido ícono del rock argentino, publicada para coincidir con el 20.º aniversario de su álbum de 2006 Ahí Vamos. El video provocó el rechazo de fans que sospechan que se usó inteligencia artificial para alterar la apariencia del músico."
-              },
-              {
-                "t": "p",
-                "x": "En un comunicado compartido en las Instagram Stories de Lisa Cerati y también republicado por Benito, los hermanos expresaron primero su apoyo a la remasterización del audio del álbum. “Sentíamos que era necesaria y estamos contentos con cómo quedó el audio, respetando la intención original de un sonido más crudo”."
-              },
-              {
-                "t": "p",
-                "x": "“En cuanto a los videos, ‘Me Quedo Aquí’ recibió un tratamiento que no vimos antes que ustedes, y el resultado nos pareció desfavorable”, continuaron. “No sabíamos del proceso de mejora ni de qué herramientas se usaron. No fuimos consultados y lo lamentamos profundamente”."
-              },
-              {
-                "t": "img",
-                "src": "https://consequence.net/wp-content/uploads/2026/11/Lisa-and-Benito-Cerati-Slam-Use-of-AI-Gustavo-Cerati-Remastered-Video.png",
-                "cap": "Comunicado de Lisa y Benito Cerati (vía Instagram)"
-              },
-              {
-                "t": "p",
-                "x": "Los fans cuestionaron aparentes alteraciones en los rasgos faciales de Cerati, y algunos sospechan modificaciones AI-generated. Ni la cuenta oficial ni los hermanos han confirmado si se usó AI. Cerati murió en 2014 a los 55 años. Ahí Vamos remasterizado llegó en formato digital el 12 de noviembre, y las ediciones físicas siguieron el 13 de noviembre."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "terrecon-russia-ai-war-songs",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "러시아 전쟁 선전하는\nAI 노래 약 1,000곡",
-      "body": "Terrecon은 러시아 스트리밍에서 AI 전쟁 찬양곡 약 1,000곡을 찾았다.",
-      "mini_headline": "러시아의 AI 전쟁 찬양곡",
-      "tool": "Music",
-      "source": "RFE/RL",
-      "url": "https://www.rferl.org/a/russia-propaganda-war-ukraine-artificial-intelligence/33897525.html",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "video",
-            "src": "https://rfe-video-ns.akamaized.net/pangeavideo/2026/11/0/02/0241abbc-9211-4460-8439-08df3ee82709_720p.mp4"
-          },
-          {
-            "t": "p",
-            "x": "음악 스트리밍 사이트를 쓰는 러시아인이라면 피드에서 낯선 장르를 마주칠지도 모른다. 러시아군과 우크라이나 전쟁을 응원하는 AI로 만든(AI-generated) 노래다. 우크라이나 비영리단체 Terrecon은 연구에서 이런 노래를 1,000곡 가까이 찾아냈다. 연구진은 이 노래들이 애국심을 부추기고 신병 동원을 돕고 아이들까지 끌어들이려고 만들어졌다고 본다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Nearly 1,000 AI songs push\nRussia's war on streaming",
-          "body": "Ukrainian nonprofit Terrecon found nearly 1,000 AI-generated pro-war songs on streaming music sites used by Russians.",
-          "mini_headline": "Russia's AI\npro-war songs",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "src": "https://rfe-video-ns.akamaized.net/pangeavideo/2026/11/0/02/0241abbc-9211-4460-8439-08df3ee82709_720p.mp4"
-              },
-              {
-                "t": "p",
-                "x": "Russians using streaming music sites might find a new genre turning up in their feeds: AI-generated songs in support of Russia's military and the war in Ukraine. A study by a Ukrainian nonprofit, Terrecon, found nearly 1,000 songs in that category, and researchers say they are meant to generate patriotic sentiment, help mobilize new recruits, and even appeal to children."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "러시아 전쟁 선전하는\nAI 노래 약 1,000곡",
-          "body": "Terrecon은 러시아 스트리밍에서 AI 전쟁 찬양곡 약 1,000곡을 찾았다.",
-          "mini_headline": "러시아의 AI 전쟁 찬양곡",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "src": "https://rfe-video-ns.akamaized.net/pangeavideo/2026/11/0/02/0241abbc-9211-4460-8439-08df3ee82709_720p.mp4"
-              },
-              {
-                "t": "p",
-                "x": "음악 스트리밍 사이트를 쓰는 러시아인이라면 피드에서 낯선 장르를 마주칠지도 모른다. 러시아군과 우크라이나 전쟁을 응원하는 AI로 만든(AI-generated) 노래다. 우크라이나 비영리단체 Terrecon은 연구에서 이런 노래를 1,000곡 가까이 찾아냈다. 연구진은 이 노래들이 애국심을 부추기고 신병 동원을 돕고 아이들까지 끌어들이려고 만들어졌다고 본다."
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "近1,000首AI歌曲\n在流媒体为俄战争造势",
-          "body": "乌克兰组织Terrecon在俄罗斯人用的音乐流媒体上发现近1,000首AI生成挺战歌曲。",
-          "mini_headline": "俄罗斯的AI挺战歌曲",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "src": "https://rfe-video-ns.akamaized.net/pangeavideo/2026/11/0/02/0241abbc-9211-4460-8439-08df3ee82709_720p.mp4"
-              },
-              {
-                "t": "p",
-                "x": "使用音乐流媒体网站的俄罗斯人可能会在推送中看到一种新类型：支持俄罗斯军队和乌克兰战争的AI生成（AI-generated）歌曲。乌克兰非营利组织Terrecon的一项研究发现了近1,000首此类歌曲，研究人员称，这些歌曲旨在激发爱国情绪、协助动员新兵，甚至吸引儿童。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Casi 1,000 canciones con IA\nimpulsan la guerra rusa",
-          "body": "La ONG ucraniana Terrecon halló casi 1,000 canciones probélicas generadas con IA en el streaming que usan los rusos.",
-          "mini_headline": "Canciones bélicas de IA en Rusia",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "src": "https://rfe-video-ns.akamaized.net/pangeavideo/2026/11/0/02/0241abbc-9211-4460-8439-08df3ee82709_720p.mp4"
-              },
-              {
-                "t": "p",
-                "x": "Los rusos que usan sitios de música en streaming podrían encontrar un nuevo género en sus feeds: canciones generadas por IA (AI-generated) que apoyan al ejército ruso y la guerra en Ucrania. Un estudio de la organización sin fines de lucro ucraniana Terrecon halló casi 1,000 canciones de esa categoría, y los investigadores dicen que buscan generar sentimiento patriótico, ayudar a movilizar nuevos reclutas e incluso atraer a los niños."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AI 生成の親戦争歌\n露の配信に約1,000曲",
-          "body": "Terrecon、露の配信で AI-generated 親戦争曲約1,000曲を確認した。",
-          "mini_headline": "ロシアの AI 親戦争歌",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "src": "https://rfe-video-ns.akamaized.net/pangeavideo/2026/11/0/02/0241abbc-9211-4460-8439-08df3ee82709_720p.mp4"
-              },
-              {
-                "t": "p",
-                "x": "音楽ストリーミングサイトを使うロシア人のフィードに、新たなジャンルが現れているかもしれない。ロシア軍とウクライナでの戦争を支持する AI-generated の楽曲だ。ウクライナの非営利団体 Terrecon の調査では、この種の楽曲が約1,000曲見つかった。研究者によると、これらは愛国心をかき立て、新兵の動員を助け、さらには子どもにも訴えかけることを狙っているという。"
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "러시아 전쟁 선전하는\nAI 노래 약 1,000곡",
-          "body": "Terrecon은 러시아 스트리밍에서 AI 전쟁 찬양곡 약 1,000곡을 찾았다.",
-          "mini_headline": "러시아의 AI 전쟁 찬양곡",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "src": "https://rfe-video-ns.akamaized.net/pangeavideo/2026/11/0/02/0241abbc-9211-4460-8439-08df3ee82709_720p.mp4"
-              },
-              {
-                "t": "p",
-                "x": "음악 스트리밍 사이트를 쓰는 러시아인들은 피드에 새로운 장르가 등장한 것을 보게 될지도 모른다. 러시아군과 우크라이나 전쟁을 지지하는 AI로 만든(AI-generated) 노래다. 우크라이나 비영리단체 Terrecon의 연구는 이 범주에서 1,000곡 가까이를 찾아냈다. 연구진은 이 노래들이 애국심을 불러일으키고 신병 동원을 돕고 아이들의 마음까지 끌려는 목적이라고 말한다."
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "近1,000首AI歌曲\n在流媒体为俄战争造势",
-          "body": "乌克兰组织Terrecon在俄罗斯人用的音乐流媒体上发现近1,000首AI生成挺战歌曲。",
-          "mini_headline": "俄罗斯的AI挺战歌曲",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "src": "https://rfe-video-ns.akamaized.net/pangeavideo/2026/11/0/02/0241abbc-9211-4460-8439-08df3ee82709_720p.mp4"
-              },
-              {
-                "t": "p",
-                "x": "使用音乐流媒体网站的俄罗斯人可能会在推送中看到一种新类型：支持俄罗斯军队和乌克兰战争的AI生成（AI-generated）歌曲。乌克兰非营利组织Terrecon的一项研究发现了近1,000首此类歌曲，研究人员称，这些歌曲旨在激发爱国情绪、协助动员新兵，甚至吸引儿童。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Casi 1,000 canciones con IA\nimpulsan la guerra rusa",
-          "body": "La ONG ucraniana Terrecon halló casi 1,000 canciones probélicas generadas con IA en el streaming que usan los rusos.",
-          "mini_headline": "Canciones bélicas de IA en Rusia",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "src": "https://rfe-video-ns.akamaized.net/pangeavideo/2026/11/0/02/0241abbc-9211-4460-8439-08df3ee82709_720p.mp4"
-              },
-              {
-                "t": "p",
-                "x": "Los rusos que usan sitios de música en streaming podrían encontrar un nuevo género en sus feeds: canciones generadas por IA (AI-generated) que apoyan al ejército ruso y la guerra en Ucrania. Un estudio de la organización sin fines de lucro ucraniana Terrecon halló casi 1,000 canciones de esa categoría, y los investigadores dicen que buscan generar sentimiento patriótico, ayudar a movilizar nuevos reclutas e incluso atraer a los niños."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AI 生成の親戦争歌\n露の配信に約1,000曲",
-          "body": "Terrecon、露の配信で AI-generated 親戦争曲約1,000曲を確認した。",
-          "mini_headline": "ロシアの AI 親戦争歌",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "src": "https://rfe-video-ns.akamaized.net/pangeavideo/2026/11/0/02/0241abbc-9211-4460-8439-08df3ee82709_720p.mp4"
-              },
-              {
-                "t": "p",
-                "x": "音楽ストリーミングサイトを使うロシア人のフィードに、新たなジャンルが現れているかもしれない。ロシア軍とウクライナでの戦争を支持する AI-generated の楽曲だ。ウクライナの非営利団体 Terrecon の調査では、この種の楽曲が約1,000曲見つかった。研究者によると、これらは愛国心をかき立て、新兵の動員を助け、さらには子どもにも訴えかけることを狙っているという。"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "wired-youtube-beyond-the-beat",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "WIRED, AI DJs가\n가짜 곡 정보로 흥 깬다",
-      "body": "WIRED가 써 보니 Spotify AI DJ 등은 곡 정보를 지어내 감상을 깼다.",
-      "mini_headline": "AI DJs, 흥을 깨다",
-      "tool": "Music",
-      "source": "WIRED",
-      "url": "https://www.wired.com/story/ai-djs-completely-kill-my-groove/",
-      "accent": "#7928ca",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://media.wired.com/photos/6af7840bd2837972f5ddf4f3/master/w_1600,c_limit/Untitled-1.jpg"
+            "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/Elvis-Live-1024x546.jpg",
+            "cap": "1956년 라이브 무대에 선 Elvis Presley. 사진: Don Wright"
           },
           {
             "t": "p",
-            "x": "YouTube Music과 Spotify가 플레이리스트 큐레이션을 합성 진행자에게 맡기려 한다. WIRED의 Reece Rogers는 이들의 어색한 잡담과 엉터리 곡 정보가 오히려 분위기를 망친다고 지적한다."
+            "x": "Elvis Presley Enterprises가 Suno를 상대로 저작권 침해 및 NIL 소송을 낸 지 불과 일주일 만에 침해 의혹 결과물을 더 늘린 수정 소장을 냈다. Elvis Presley Enterprises, Authentic Brands Group, Raleigh Music Publishing 등 원고들은 11월 6일 처음 소송을 건 뒤 수정 소장을 정식 제출했다."
           },
           {
             "t": "p",
-            "x": "YouTube Music의 “Beyond the Beat”는 2025년 나온 YouTube Labs 베타 기능으로, 곡과 곡 사이에 불쑥 30초쯤 끼어든다. Slayyyter 곡이 끝나자 “Rock Music by Charli XXC [sic]”에 관해 한 단락을 읊으며 Charli XCX의 이름을 틀리게 불렀다. Olivia Rodrigo의 Expectations 리믹스에 Chappell Roan이 참여했다고 소개해 놓고 정작 Roan이 빠진 원곡을 튼 적도 있다."
+            "x": "권리자들은 Suno 결과물에 Presley와 흡사한 보컬이 담겼다는 의혹을 앞세워 Tennessee주 ELVIS Act와 보통법상 퍼블리시티권 위반에 따른 구제를 요구한다. 저작권 쪽에서는 Suno가 학습 데이터셋을 만들려고 스트리밍 플랫폼에서 IP를 긁어모았다고 주장한다."
           },
           {
             "t": "p",
-            "x": "Spotify는 2023년 AI DJ를 들였고 11월에는 성격과 조작 기능을 더 늘렸다. 영어 음성은 여덟 개인데, 몇몇은 “you know”, “like” 같은 군말에 기댄다. 해설은 YouTube보다 간결해 견딜 만했다. 그래도 “청취자의 80퍼센트가 매주 DJ로 돌아온다”는 Spotify의 주장에 Rogers는 들지 않을 것이다. “공허한 상투어든 인간의 실수를 흉내 내든, 이제 충분히 들었다.”"
+            "x": "원고들은 “다수의 추가 사례를 덧붙였으며…여기에는 이번 소송 대상 곡의 추가 침해 결과물 사례 42건 이상이 포함된다”고 밝혔다. 이와 별개로 침해 의혹 결과물 76건은 이번 소송에 들어가지 않은 Elvis 곡과 이어져 있는데, “Blue Suede Shoes”와 “Hound Dog”도 여기에 속한다."
+          },
+          {
+            "t": "p",
+            "x": "수정 소장은 Suno가 저작물 859건을 침해했다고도 주장한다. 법정 손해배상액은 최대 $128.85 million, DMCA 위반 의혹 관련 금액은 $23.62 million 이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "WIRED finds AI DJs invent\nsong trivia and kill the mood",
-          "body": "WIRED's test of YouTube Music's Beyond the Beat and Spotify's AI DJ found fabricated song trivia derails listening.",
-          "mini_headline": "AI DJs kill\nthe groove",
+          "headline": "Elvis estate widens its\ncopyright suit against Suno",
+          "body": "Elvis Presley Enterprises and co-plaintiffs filed an expanded copyright and likeness complaint against Suno.",
+          "mini_headline": "Elvis estate widens Suno suit",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6af7840bd2837972f5ddf4f3/master/w_1600,c_limit/Untitled-1.jpg"
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/Elvis-Live-1024x546.jpg",
+                "cap": "Elvis Presley performing live in 1956. Photo Credit: Don Wright"
               },
               {
                 "t": "p",
-                "x": "YouTube Music and Spotify want synthetic hosts to curate your playlists. WIRED’s Reece Rogers says their awkward banter and bogus song trivia are ruining the vibe."
+                "x": "Just one week after filing a copyright infringement and NIL suit against Suno, Elvis Presley Enterprises has fired off an amended action – complete with an expanded list of allegedly infringing outputs. Plaintiffs including Elvis Presley Enterprises, Authentic Brands Group, and Raleigh Music Publishing made the amended action official following the original suit’s filing on November 6th."
               },
               {
                 "t": "p",
-                "x": "YouTube Music’s “Beyond the Beat,” a YouTube Labs beta launched in 2025, randomly interjects for about 30 seconds between songs. After a Slayyyter track it delivered a paragraph about “Rock Music by Charli XXC [sic]” — butchering Charli XCX’s name. It also unpacked Olivia Rodrigo’s Expectations remix featuring Chappell Roan, then played the original track, sans Roan."
+                "x": "The rightsholders are seeking relief for alleged violations of Tennessee’s ELVIS Act and common law publicity right, centering on the alleged presence of Presley soundalike vocals in Suno outputs. On the copyright side, they accuse Suno of scraping IP from streaming platforms to create training datasets."
               },
               {
                 "t": "p",
-                "x": "Spotify, which introduced its AI DJ in 2023 and in November added more personalities and controls, offers eight English-language voices; several lean on filler words like “you know” and “like.” Its commentary felt tighter and more tolerable than YouTube’s, but Spotify’s claim of “80 percent of listeners coming back to DJ week after week” won’t include Rogers: “Whether it’s empty platitudes or mimicking human mistakes, I’ve heard enough.”"
+                "x": "The plaintiffs say they “added a multitude of additional examples…including no less than 42 examples of additional infringing output of songs involved in this action.” Meanwhile, 76 allegedly infringing outputs are tied to Elvis songs not at issue here – “Blue Suede Shoes” and “Hound Dog” among them."
+              },
+              {
+                "t": "p",
+                "x": "The amended complaint likewise accuses Suno of infringing 859 works for a maximum of $128.85 million in statutory damages and $23.62 million from alleged DMCA violations."
               }
             ]
           }
         },
         "ko": {
-          "headline": "WIRED, AI DJs가\n가짜 곡 정보로 흥 깬다",
-          "body": "WIRED가 써 보니 Spotify AI DJ 등은 곡 정보를 지어내 감상을 깼다.",
-          "mini_headline": "AI DJs, 흥을 깨다",
+          "headline": "Elvis 측, Suno에\n저작권 소송 확대",
+          "body": "Elvis Presley Enterprises 등이 Suno 저작권 소송을 키웠다.",
+          "mini_headline": "Elvis 측, Suno 소송 확대",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6af7840bd2837972f5ddf4f3/master/w_1600,c_limit/Untitled-1.jpg"
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/Elvis-Live-1024x546.jpg",
+                "cap": "1956년 라이브 무대에 선 Elvis Presley. 사진: Don Wright"
               },
               {
                 "t": "p",
-                "x": "YouTube Music과 Spotify가 플레이리스트 큐레이션을 합성 진행자에게 맡기려 한다. WIRED의 Reece Rogers는 이들의 어색한 잡담과 엉터리 곡 정보가 오히려 분위기를 망친다고 지적한다."
+                "x": "Elvis Presley Enterprises가 Suno를 상대로 저작권 침해 및 NIL 소송을 낸 지 불과 일주일 만에 침해 의혹 결과물을 더 늘린 수정 소장을 냈다. Elvis Presley Enterprises, Authentic Brands Group, Raleigh Music Publishing 등 원고들은 11월 6일 처음 소송을 건 뒤 수정 소장을 정식 제출했다."
               },
               {
                 "t": "p",
-                "x": "YouTube Music의 “Beyond the Beat”는 2025년 나온 YouTube Labs 베타 기능으로, 곡과 곡 사이에 불쑥 30초쯤 끼어든다. Slayyyter 곡이 끝나자 “Rock Music by Charli XXC [sic]”에 관해 한 단락을 읊으며 Charli XCX의 이름을 틀리게 불렀다. Olivia Rodrigo의 Expectations 리믹스에 Chappell Roan이 참여했다고 소개해 놓고 정작 Roan이 빠진 원곡을 튼 적도 있다."
+                "x": "권리자들은 Suno 결과물에 Presley와 흡사한 보컬이 담겼다는 의혹을 앞세워 Tennessee주 ELVIS Act와 보통법상 퍼블리시티권 위반에 따른 구제를 요구한다. 저작권 쪽에서는 Suno가 학습 데이터셋을 만들려고 스트리밍 플랫폼에서 IP를 긁어모았다고 주장한다."
               },
               {
                 "t": "p",
-                "x": "Spotify는 2023년 AI DJ를 들였고 11월에는 성격과 조작 기능을 더 늘렸다. 영어 음성은 여덟 개인데, 몇몇은 “you know”, “like” 같은 군말에 기댄다. 해설은 YouTube보다 간결해 견딜 만했다. 그래도 “청취자의 80퍼센트가 매주 DJ로 돌아온다”는 Spotify의 주장에 Rogers는 들지 않을 것이다. “공허한 상투어든 인간의 실수를 흉내 내든, 이제 충분히 들었다.”"
+                "x": "원고들은 “다수의 추가 사례를 덧붙였으며…여기에는 이번 소송 대상 곡의 추가 침해 결과물 사례 42건 이상이 포함된다”고 밝혔다. 이와 별개로 침해 의혹 결과물 76건은 이번 소송에 들어가지 않은 Elvis 곡과 이어져 있는데, “Blue Suede Shoes”와 “Hound Dog”도 여기에 속한다."
+              },
+              {
+                "t": "p",
+                "x": "수정 소장은 Suno가 저작물 859건을 침해했다고도 주장한다. 법정 손해배상액은 최대 $128.85 million, DMCA 위반 의혹 관련 금액은 $23.62 million 이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "WIRED、AI DJsは\n偽の曲情報で興ざめ",
-          "body": "WIREDの検証で、SpotifyのAI DJなどが偽の曲情報で鑑賞を妨げると分かった。",
-          "mini_headline": "AI DJsが流れを壊す",
+          "headline": "Elvis側がSunoへの\n著作権訴訟を拡大",
+          "body": "Elvis Presley EnterprisesなどがSunoへの著作権訴訟を拡大した。",
+          "mini_headline": "Elvis側、Suno訴訟を拡大",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6af7840bd2837972f5ddf4f3/master/w_1600,c_limit/Untitled-1.jpg"
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/Elvis-Live-1024x546.jpg",
+                "cap": "1956年、ライブで歌うElvis Presley。写真:Don Wright"
               },
               {
                 "t": "p",
-                "x": "YouTube MusicとSpotifyは、合成ホストにプレイリストを選曲させたい考えだ。WIREDのReece Rogersは、そのぎこちない語りとでたらめな楽曲トリビアが雰囲気を台無しにしていると指摘する。"
+                "x": "Sunoを相手取り著作権侵害とNILをめぐる訴訟を起こしてからわずか一週間で、Elvis Presley Enterprisesは侵害の疑いがある生成物のリストを拡大した修正訴状を提出した。Elvis Presley Enterprises、Authentic Brands Group、Raleigh Music Publishingなどの原告は、11月6日の当初の提訴に続き、修正訴状を正式なものとした。"
               },
               {
                 "t": "p",
-                "x": "YouTube Musicの「Beyond the Beat」は2025年に始まったYouTube Labsのベータ機能で、曲間に約30秒、不規則に割り込んでくる。Slayyyterの曲の後には「Rock Music by Charli XXC [sic]」について一段落語り、Charli XCXの名前を誤った。Chappell Roanが参加したOlivia RodrigoのExpectationsのリミックスを解説した直後に、Roan抜きの原曲を流したこともある。"
+                "x": "権利者側は、Sunoの生成物にPresleyに似た歌声が含まれているとの疑いを軸に、Tennessee州のELVIS Actとコモンロー上のパブリシティ権の侵害に対する救済を求めている。著作権の面では、Sunoが学習データセットを作るためにストリーミングプラットフォームからIPをスクレイピングしたと主張している。"
               },
               {
                 "t": "p",
-                "x": "2023年にAI DJを導入し、11月にパーソナリティと操作機能を追加したSpotifyは、英語の音声を八種類用意する。いくつかは「you know」や「like」といったつなぎ言葉に頼りがちだ。解説はYouTubeより簡潔で耐えられるものだったが、「リスナーの80パーセントが毎週DJに戻ってくる」というSpotifyの主張にRogersは含まれない。「空虚な決まり文句であれ、人間のミスの模倣であれ、もう聞き飽きた」"
+                "x": "原告側は「多数の追加事例を加えた…その中には、本件で対象となる楽曲の追加的な侵害生成物の事例が42件以上含まれる」としている。一方、侵害の疑いがある76件の生成物は本件の対象外であるElvisの楽曲に関連しており、「Blue Suede Shoes」や「Hound Dog」もその中に含まれる。"
+              },
+              {
+                "t": "p",
+                "x": "修正訴状はまた、Sunoが859作品を侵害したとして、最大$128.85 million の法定損害賠償と、DMCA違反の疑いによる$23.62 million を求めている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "WIRED：AI DJs\n编造歌曲轶事坏氛围",
-          "body": "WIRED测试发现，Spotify的AI DJ等编造歌曲轶事，破坏了聆听体验。",
-          "mini_headline": "AI DJs扼杀律动",
+          "headline": "Elvis遗产方扩大\n对Suno的版权诉讼",
+          "body": "Elvis Presley Enterprises等方扩大了对Suno的版权与肖像权诉讼。",
+          "mini_headline": "Elvis遗产方扩大对Suno诉讼",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6af7840bd2837972f5ddf4f3/master/w_1600,c_limit/Untitled-1.jpg"
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/Elvis-Live-1024x546.jpg",
+                "cap": "1956年，Elvis Presley在现场演出。图片来源：Don Wright"
               },
               {
                 "t": "p",
-                "x": "YouTube Music和Spotify希望由合成主持人来策划你的播放列表。WIRED的Reece Rogers认为，它们尴尬的闲聊和虚假的歌曲轶事正在破坏氛围。"
+                "x": "在对Suno提起版权侵权及NIL诉讼仅一周后，Elvis Presley Enterprises又提交了修正诉状，并扩充了涉嫌侵权的生成内容清单。Elvis Presley Enterprises、Authentic Brands Group和Raleigh Music Publishing等原告在11月6日提起原诉后，正式提交了这份修正诉状。"
               },
               {
                 "t": "p",
-                "x": "YouTube Music的“Beyond the Beat”是2025年推出的YouTube Labs测试功能，会在歌曲之间随机插话约30秒。在一首Slayyyter的歌之后，它讲了一段关于“Rock Music by Charli XXC [sic]”的内容，把Charli XCX的名字说错了。它还介绍了Olivia Rodrigo与Chappell Roan合作的Expectations混音版，随后却播放了没有Roan的原版。"
+                "x": "权利人围绕Suno生成内容中疑似出现Presley仿声人声一事，就涉嫌违反Tennessee州ELVIS Act及普通法公开权寻求救济。在版权方面，他们指控Suno从流媒体平台抓取IP以构建训练数据集。"
               },
               {
                 "t": "p",
-                "x": "Spotify于2023年推出AI DJ，并在11月增加了更多个性和控制选项，目前提供八种英语声音，其中几种常依赖“you know”和“like”这类填充词。它的解说比YouTube更紧凑，也更能让人忍受，但Spotify所称“80%的听众每周都会回到DJ”中不会包括Rogers：“无论是空洞的陈词滥调，还是模仿人类的失误，我已经听够了。”"
+                "x": "原告表示，他们“增加了大量额外示例……其中包括不少于42个涉及本案歌曲的额外侵权生成示例”。此外，另有76个涉嫌侵权的生成内容与本案未涉及的Elvis歌曲相关，其中包括“Blue Suede Shoes”和“Hound Dog”。"
+              },
+              {
+                "t": "p",
+                "x": "修正诉状同样指控Suno侵犯了859部作品，法定赔偿最高可达$128.85 million ，另有涉嫌违反DMCA的$23.62 million 。"
               }
             ]
           }
         },
         "es": {
-          "headline": "WIRED: los AI DJs inventan datos\ny arruinan el ambiente",
-          "body": "La prueba de WIRED a Beyond the Beat de YouTube Music y al AI DJ de Spotify halló datos falsos que arruinan la escucha.",
-          "mini_headline": "Los AI DJs arruinan el ritmo",
+          "headline": "El patrimonio de Elvis amplía\nsu demanda contra Suno",
+          "body": "Elvis Presley Enterprises y otros demandantes ampliaron su demanda contra Suno por derechos de autor e imagen.",
+          "mini_headline": "Elvis amplía su demanda contra Suno",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6af7840bd2837972f5ddf4f3/master/w_1600,c_limit/Untitled-1.jpg"
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/Elvis-Live-1024x546.jpg",
+                "cap": "Elvis Presley actuando en directo en 1956. Foto: Don Wright"
               },
               {
                 "t": "p",
-                "x": "YouTube Music y Spotify quieren que presentadores sintéticos curen tus listas de reproducción. Reece Rogers, de WIRED, dice que sus charlas torpes y sus datos falsos sobre canciones arruinan el ambiente."
+                "x": "Apenas una semana después de demandar a Suno por infracción de derechos de autor y NIL, Elvis Presley Enterprises ha presentado una demanda enmendada, con una lista ampliada de resultados presuntamente infractores. Los demandantes, entre ellos Elvis Presley Enterprises, Authentic Brands Group y Raleigh Music Publishing, formalizaron la demanda enmendada tras la presentación de la original el 6 de noviembre."
               },
               {
                 "t": "p",
-                "x": "“Beyond the Beat” de YouTube Music, una beta de YouTube Labs lanzada en 2025, interviene al azar durante unos 30 segundos entre canciones. Tras un tema de Slayyyter soltó un párrafo sobre “Rock Music by Charli XXC [sic]”, destrozando el nombre de Charli XCX. También comentó el remix de Expectations de Olivia Rodrigo con Chappell Roan y luego puso la versión original, sin Roan."
+                "x": "Los titulares de derechos piden reparación por presuntas violaciones de la ELVIS Act de Tennessee y del derecho de publicidad del common law, centradas en la supuesta presencia de voces que imitan a Presley en los resultados de Suno. En cuanto a los derechos de autor, acusan a Suno de extraer IP de plataformas de streaming para crear conjuntos de datos de entrenamiento."
               },
               {
                 "t": "p",
-                "x": "Spotify, que presentó su AI DJ en 2023 y en noviembre añadió más personalidades y controles, ofrece ocho voces en inglés; varias abusan de muletillas como “you know” y “like”. Sus comentarios resultaron más ajustados y tolerables que los de YouTube, pero la afirmación de Spotify de que “el 80 por ciento de los oyentes vuelve al DJ semana tras semana” no incluirá a Rogers: “Ya sean frases vacías o imitaciones de errores humanos, ya escuché suficiente”."
+                "x": "Los demandantes afirman que “añadieron multitud de ejemplos adicionales… incluidos no menos de 42 ejemplos de resultados infractores adicionales de canciones implicadas en esta acción”. Además, 76 resultados presuntamente infractores están vinculados a canciones de Elvis que no forman parte del caso, entre ellas “Blue Suede Shoes” y “Hound Dog”."
+              },
+              {
+                "t": "p",
+                "x": "La demanda enmendada acusa además a Suno de infringir 859 obras, por un máximo de $128.85 million en daños legales y $23.62 million por presuntas violaciones de la DMCA."
               }
             ]
           }
@@ -1055,105 +511,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "WIRED, AI DJs가\n가짜 곡 정보로 흥 깬다",
-          "body": "WIRED 시험서 Spotify AI DJ 등이 곡 정보를 지어내 감상을 깼다.",
-          "mini_headline": "AI DJs, 흥을 깨다",
+          "headline": "Elvis 측, Suno에\n저작권 소송 확대",
+          "body": "Elvis Presley Enterprises 등이 Suno 저작권 소송을 넓혔다.",
+          "mini_headline": "Elvis 측, Suno 소송 확대",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6af7840bd2837972f5ddf4f3/master/w_1600,c_limit/Untitled-1.jpg"
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/Elvis-Live-1024x546.jpg",
+                "cap": "1956년 라이브 무대에 선 Elvis Presley. 사진: Don Wright"
               },
               {
                 "t": "p",
-                "x": "YouTube Music과 Spotify는 합성 진행자에게 플레이리스트 큐레이션을 맡기려 한다. WIRED의 Reece Rogers는 이들의 어색한 잡담과 엉터리 곡 정보가 분위기를 망치고 있다고 말한다."
+                "x": "Suno를 상대로 저작권 침해 및 NIL 소송을 낸 지 불과 일주일 만에 Elvis Presley Enterprises가 침해 의혹 결과물 목록을 늘린 수정 소장을 냈다. Elvis Presley Enterprises, Authentic Brands Group, Raleigh Music Publishing 등 원고들은 11월 6일 원래 소송을 제기한 데 이어 수정 소장을 정식으로 제출했다."
               },
               {
                 "t": "p",
-                "x": "2025년 출시된 YouTube Labs 베타 기능인 YouTube Music의 “Beyond the Beat”는 곡과 곡 사이에 무작위로 약 30초간 끼어든다. Slayyyter 곡 뒤에는 “Rock Music by Charli XXC [sic]”에 관한 한 단락을 읊으며 Charli XCX의 이름을 망가뜨렸다. Chappell Roan이 참여한 Olivia Rodrigo의 Expectations 리믹스를 설명한 뒤, 정작 Roan이 빠진 원곡을 틀기도 했다."
+                "x": "권리자들은 Suno 결과물에 Presley와 흡사한 보컬이 들어 있다는 의혹을 중심으로, Tennessee주 ELVIS Act와 보통법상 퍼블리시티권 위반에 대한 구제를 요구하고 있다. 저작권 측면에서는 Suno가 학습 데이터셋을 만들려고 스트리밍 플랫폼에서 IP를 긁어모았다고 주장한다."
               },
               {
                 "t": "p",
-                "x": "2023년 AI DJ를 도입하고 11월 더 많은 성격과 조작 기능을 추가한 Spotify는 영어 음성 여덟 개를 제공한다. 그중 몇몇은 “you know”, “like” 같은 군말에 기댄다. 해설은 YouTube보다 간결하고 견딜 만했지만, “청취자의 80퍼센트가 매주 DJ로 돌아온다”는 Spotify의 주장에 Rogers는 포함되지 않을 것이다. “공허한 상투어든 인간의 실수를 흉내 내든, 이제 충분히 들었다.”"
+                "x": "원고들은 “다수의 추가 사례를 덧붙였으며…여기에는 이번 소송 대상 곡의 추가 침해 결과물 사례 42건 이상이 포함된다”고 밝혔다. 한편 침해 의혹 결과물 76건은 이번 소송 대상이 아닌 Elvis 곡과 연결돼 있으며, “Blue Suede Shoes”와 “Hound Dog”도 그중 하나다."
+              },
+              {
+                "t": "p",
+                "x": "수정 소장은 또한 Suno가 저작물 859건을 침해했다고 주장하며, 최대 법정 손해배상액은 $128.85 million, DMCA 위반 의혹 관련 금액은 $23.62 million 이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "WIRED、AI DJsは\n偽の曲情報で興ざめ",
-          "body": "WIREDの検証で、SpotifyのAI DJなどが偽の曲情報で鑑賞を妨げると分かった。",
-          "mini_headline": "AI DJsが流れを壊す",
+          "headline": "Elvis側がSunoへの\n著作権訴訟を拡大",
+          "body": "Elvis Presley EnterprisesなどがSunoへの著作権訴訟を拡大した。",
+          "mini_headline": "Elvis側、Suno訴訟を拡大",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6af7840bd2837972f5ddf4f3/master/w_1600,c_limit/Untitled-1.jpg"
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/Elvis-Live-1024x546.jpg",
+                "cap": "1956年、ライブで歌うElvis Presley。写真:Don Wright"
               },
               {
                 "t": "p",
-                "x": "YouTube MusicとSpotifyは、合成ホストにプレイリストを選曲させたい考えだ。WIREDのReece Rogersは、そのぎこちない語りとでたらめな楽曲トリビアが雰囲気を台無しにしていると指摘する。"
+                "x": "Sunoを相手取り著作権侵害とNILをめぐる訴訟を起こしてからわずか一週間で、Elvis Presley Enterprisesは侵害の疑いがある生成物のリストを拡大した修正訴状を提出した。Elvis Presley Enterprises、Authentic Brands Group、Raleigh Music Publishingなどの原告は、11月6日の当初の提訴に続き、修正訴状を正式なものとした。"
               },
               {
                 "t": "p",
-                "x": "YouTube Musicの「Beyond the Beat」は2025年に始まったYouTube Labsのベータ機能で、曲間に約30秒、不規則に割り込んでくる。Slayyyterの曲の後には「Rock Music by Charli XXC [sic]」について一段落語り、Charli XCXの名前を誤った。Chappell Roanが参加したOlivia RodrigoのExpectationsのリミックスを解説した直後に、Roan抜きの原曲を流したこともある。"
+                "x": "権利者側は、Sunoの生成物にPresleyに似た歌声が含まれているとの疑いを軸に、Tennessee州のELVIS Actとコモンロー上のパブリシティ権の侵害に対する救済を求めている。著作権の面では、Sunoが学習データセットを作るためにストリーミングプラットフォームからIPをスクレイピングしたと主張している。"
               },
               {
                 "t": "p",
-                "x": "2023年にAI DJを導入し、11月にパーソナリティと操作機能を追加したSpotifyは、英語の音声を八種類用意する。いくつかは「you know」や「like」といったつなぎ言葉に頼りがちだ。解説はYouTubeより簡潔で耐えられるものだったが、「リスナーの80パーセントが毎週DJに戻ってくる」というSpotifyの主張にRogersは含まれない。「空虚な決まり文句であれ、人間のミスの模倣であれ、もう聞き飽きた」"
+                "x": "原告側は「多数の追加事例を加えた…その中には、本件で対象となる楽曲の追加的な侵害生成物の事例が42件以上含まれる」としている。一方、侵害の疑いがある76件の生成物は本件の対象外であるElvisの楽曲に関連しており、「Blue Suede Shoes」や「Hound Dog」もその中に含まれる。"
+              },
+              {
+                "t": "p",
+                "x": "修正訴状はまた、Sunoが859作品を侵害したとして、最大$128.85 million の法定損害賠償と、DMCA違反の疑いによる$23.62 million を求めている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "WIRED：AI DJs\n编造歌曲轶事坏氛围",
-          "body": "WIRED测试发现，Spotify的AI DJ等编造歌曲轶事，破坏了聆听体验。",
-          "mini_headline": "AI DJs扼杀律动",
+          "headline": "Elvis遗产方扩大\n对Suno的版权诉讼",
+          "body": "Elvis Presley Enterprises等方扩大了对Suno的版权与肖像权诉讼。",
+          "mini_headline": "Elvis遗产方扩大对Suno诉讼",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6af7840bd2837972f5ddf4f3/master/w_1600,c_limit/Untitled-1.jpg"
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/Elvis-Live-1024x546.jpg",
+                "cap": "1956年，Elvis Presley在现场演出。图片来源：Don Wright"
               },
               {
                 "t": "p",
-                "x": "YouTube Music和Spotify希望由合成主持人来策划你的播放列表。WIRED的Reece Rogers认为，它们尴尬的闲聊和虚假的歌曲轶事正在破坏氛围。"
+                "x": "在对Suno提起版权侵权及NIL诉讼仅一周后，Elvis Presley Enterprises又提交了修正诉状，并扩充了涉嫌侵权的生成内容清单。Elvis Presley Enterprises、Authentic Brands Group和Raleigh Music Publishing等原告在11月6日提起原诉后，正式提交了这份修正诉状。"
               },
               {
                 "t": "p",
-                "x": "YouTube Music的“Beyond the Beat”是2025年推出的YouTube Labs测试功能，会在歌曲之间随机插话约30秒。在一首Slayyyter的歌之后，它讲了一段关于“Rock Music by Charli XXC [sic]”的内容，把Charli XCX的名字说错了。它还介绍了Olivia Rodrigo与Chappell Roan合作的Expectations混音版，随后却播放了没有Roan的原版。"
+                "x": "权利人围绕Suno生成内容中疑似出现Presley仿声人声一事，就涉嫌违反Tennessee州ELVIS Act及普通法公开权寻求救济。在版权方面，他们指控Suno从流媒体平台抓取IP以构建训练数据集。"
               },
               {
                 "t": "p",
-                "x": "Spotify于2023年推出AI DJ，并在11月增加了更多个性和控制选项，目前提供八种英语声音，其中几种常依赖“you know”和“like”这类填充词。它的解说比YouTube更紧凑，也更能让人忍受，但Spotify所称“80%的听众每周都会回到DJ”中不会包括Rogers：“无论是空洞的陈词滥调，还是模仿人类的失误，我已经听够了。”"
+                "x": "原告表示，他们“增加了大量额外示例……其中包括不少于42个涉及本案歌曲的额外侵权生成示例”。此外，另有76个涉嫌侵权的生成内容与本案未涉及的Elvis歌曲相关，其中包括“Blue Suede Shoes”和“Hound Dog”。"
+              },
+              {
+                "t": "p",
+                "x": "修正诉状同样指控Suno侵犯了859部作品，法定赔偿最高可达$128.85 million ，另有涉嫌违反DMCA的$23.62 million 。"
               }
             ]
           }
         },
         "es": {
-          "headline": "WIRED: los AI DJs inventan datos\ny arruinan el ambiente",
-          "body": "La prueba de WIRED a Beyond the Beat de YouTube Music y al AI DJ de Spotify halló datos falsos que arruinan la escucha.",
-          "mini_headline": "Los AI DJs arruinan el ritmo",
+          "headline": "El patrimonio de Elvis amplía\nsu demanda contra Suno",
+          "body": "Elvis Presley Enterprises y otros demandantes ampliaron su demanda contra Suno por derechos de autor e imagen.",
+          "mini_headline": "Elvis amplía su demanda contra Suno",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6af7840bd2837972f5ddf4f3/master/w_1600,c_limit/Untitled-1.jpg"
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/Elvis-Live-1024x546.jpg",
+                "cap": "Elvis Presley actuando en directo en 1956. Foto: Don Wright"
               },
               {
                 "t": "p",
-                "x": "YouTube Music y Spotify quieren que presentadores sintéticos curen tus listas de reproducción. Reece Rogers, de WIRED, dice que sus charlas torpes y sus datos falsos sobre canciones arruinan el ambiente."
+                "x": "Apenas una semana después de demandar a Suno por infracción de derechos de autor y NIL, Elvis Presley Enterprises ha presentado una demanda enmendada, con una lista ampliada de resultados presuntamente infractores. Los demandantes, entre ellos Elvis Presley Enterprises, Authentic Brands Group y Raleigh Music Publishing, formalizaron la demanda enmendada tras la presentación de la original el 6 de noviembre."
               },
               {
                 "t": "p",
-                "x": "“Beyond the Beat” de YouTube Music, una beta de YouTube Labs lanzada en 2025, interviene al azar durante unos 30 segundos entre canciones. Tras un tema de Slayyyter soltó un párrafo sobre “Rock Music by Charli XXC [sic]”, destrozando el nombre de Charli XCX. También comentó el remix de Expectations de Olivia Rodrigo con Chappell Roan y luego puso la versión original, sin Roan."
+                "x": "Los titulares de derechos piden reparación por presuntas violaciones de la ELVIS Act de Tennessee y del derecho de publicidad del common law, centradas en la supuesta presencia de voces que imitan a Presley en los resultados de Suno. En cuanto a los derechos de autor, acusan a Suno de extraer IP de plataformas de streaming para crear conjuntos de datos de entrenamiento."
               },
               {
                 "t": "p",
-                "x": "Spotify, que presentó su AI DJ en 2023 y en noviembre añadió más personalidades y controles, ofrece ocho voces en inglés; varias abusan de muletillas como “you know” y “like”. Sus comentarios resultaron más ajustados y tolerables que los de YouTube, pero la afirmación de Spotify de que “el 80 por ciento de los oyentes vuelve al DJ semana tras semana” no incluirá a Rogers: “Ya sean frases vacías o imitaciones de errores humanos, ya escuché suficiente”."
+                "x": "Los demandantes afirman que “añadieron multitud de ejemplos adicionales… incluidos no menos de 42 ejemplos de resultados infractores adicionales de canciones implicadas en esta acción”. Además, 76 resultados presuntamente infractores están vinculados a canciones de Elvis que no forman parte del caso, entre ellas “Blue Suede Shoes” y “Hound Dog”."
+              },
+              {
+                "t": "p",
+                "x": "La demanda enmendada acusa además a Suno de infringir 859 obras, por un máximo de $128.85 million en daños legales y $23.62 million por presuntas violaciones de la DMCA."
               }
             ]
           }
@@ -1161,141 +637,213 @@
       }
     },
     {
-      "id": "simdps-music-inpainting",
+      "id": "difro-melody-v25-plugin",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "SimDPS, 음악 공백을\n유사 구간으로 메운다",
-      "body": "SimDPS는 같은 녹음에서 비슷한 구간을 찾아 확산 모델의 공백 복원을 이끈다.",
-      "mini_headline": "SimDPS, 빠진 음악 복원",
+      "headline": "Difro Melody\nAI 2.5 로컬 MIDI",
+      "body": "2.5는 16마디까지 로컬 MIDI로 바꾸고 VST3/AU로 DAW와 붙는다.",
+      "mini_headline": "Difro 2.5, 로컬 MIDI 추가",
       "tool": "Music",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2611.11522",
-      "accent": "#2ec5c5",
+      "source": "KVR Audio",
+      "url": "https://www.kvraudio.com/news/initial-audio-updates-difro-melody-ai-to-v2-5-with-audio-to-midi-and-vst3-au-plugin-69842",
+      "accent": "#f5a623",
       "motif": "sphere",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "Music Inpainting With Similarity-Guided Latent Diffusion(유사도 유도 잠재 확산을 이용한 음악 인페인팅) — Sean Turland, Eloi Moliner, Vesa Välimäki. ISMIR 2026 채택."
+            "t": "img",
+            "src": "https://static.kvraudio.com/i/b/difro_01.1794777186.png"
           },
           {
             "t": "p",
-            "x": "유사도 매칭과 확산 기반 생성 모델을 결합해 오디오 녹음의 큰 구간을 알맞은 대안으로 바꾸는 음악 인페인팅 기법을 제안한다. 하이브리드 방법인 Similarity-Guided Diffusion Posterior Sampling(SimDPS)은 맥락 유사도로 더 넓은 신호에서 대체 후보 구간을 찾고, 이 후보로 확산 과정을 일관된 재구성 쪽으로 이끈다. 특정 모델에 매이지 않는 프레임워크라서 파형 영역이든 잠재 영역이든 사전 학습된 확산 모델이면 어디에나 붙일 수 있다."
+            "x": "Initial Audio가 AI 멜로디 생성기 Difro Melody AI v2.5 업데이트를 내놨다. audio-to-MIDI 변환과 VST3/AU 플러그인이 새로 들어갔다."
           },
           {
             "t": "p",
-            "x": "객관적 평가에서 SimDPS는 음향 특징과 신경 임베딩 거리 지표 전반에서 널리 쓰이는 RePaint와 DPS 방법을 앞섰다. 여러 장르를 담은 음악 데이터셋으로 한 주관적 평가에서도 기존 확산 기반 방법보다 지각적 개연성이 높았고, 잘 맞지 않는 유사 후보에도 흔들리지 않았다. 음악 복원과 맥락을 읽는 오디오 편집을 개선할 길이 열린 셈이다."
+            "x": "오디오 루프를 피아노 롤에 끌어다 놓으면 Difro가 벨로시티 데이터까지 담아 로컬에서 MIDI로 바꾼다. 멜로디 루프는 최대 16마디까지 처리하고 그보다 긴 파일은 앞 16마디만 남기고 자른다. 변환 결과는 Re-Imagine으로 새 변주를 만들 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "VST3와 AU 플러그인은 DAW 호스트와 동기화해 MIDI나 오디오, 또는 둘 다를 실시간으로 내보낸다. latch 옵션을 켜고 MIDI 노트로 연주할 수도 있다. 이 밖에 대화형 퀵스타트 튜토리얼, Windows 환경의 NVIDIA Blackwell GPUs 지원(구형 Maxwell GPUs는 지원 종료), 다운로드 용량·메모리 사용량 300 MB 절감, 크기를 바꿀 수 있는 새 UI가 추가됐다."
+          },
+          {
+            "t": "video",
+            "yt": "FfOGA4FlLO0"
+          },
+          {
+            "t": "p",
+            "x": "기본 버전은 구독 없이 무료로 쓸 수 있지만 월간 생성 횟수에 제한이 있다. Pro 버전은 생성 횟수 제한이 없다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "SimDPS fills gaps in music\nwith similar-passage guidance",
-          "body": "SimDPS retrieves similar segments from the same recording to guide a diffusion model in rebuilding missing sections.",
-          "mini_headline": "SimDPS repairs\nmissing music",
+          "headline": "Difro Melody AI 2.5 turns\nloops into MIDI on device",
+          "body": "Version 2.5 converts melodic loops of up to 16 bars to MIDI locally and now runs as a VST3/AU plugin with DAW sync.",
+          "mini_headline": "Difro 2.5 adds local MIDI",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Music Inpainting With Similarity-Guided Latent Diffusion — Sean Turland, Eloi Moliner, Vesa Välimäki. Accepted to ISMIR 2026."
+                "t": "img",
+                "src": "https://static.kvraudio.com/i/b/difro_01.1794777186.png"
               },
               {
                 "t": "p",
-                "x": "We propose a music inpainting technique combining similarity matching and a diffusion-based generative model to replace large segments of audio recordings with suitable alternatives. The proposed hybrid method, Similarity-Guided Diffusion Posterior Sampling (SimDPS), retrieves candidate replacement segments from the wider signal based on contextual similarity and uses them to guide the diffusion process toward coherent reconstructions. Being model-agnostic, the framework is compatible with any pre-trained diffusion model operating in either the waveform or latent domain."
+                "x": "Initial Audio has released Difro Melody AI v2.5, an update to its AI melody generator that adds audio-to-MIDI conversion and a VST3/AU plugin."
               },
               {
                 "t": "p",
-                "x": "Objective evaluations demonstrate that SimDPS outperforms widely adopted RePaint and DPS methods across acoustic features and neural-embedding distance metrics. Subjective evaluations on multi-genre music datasets confirm that SimDPS enhances perceptual plausibility compared to previous diffusion-based methods and demonstrates robustness to poorly matched similarity candidates. These findings pave the way for improved music restoration and context-aware audio editing."
+                "x": "Users can drag an audio loop into the piano roll and Difro converts it to MIDI locally, with velocity data. It works for melodic loops of up to 16 bars; longer files are cut to the first 16. Re-Imagine can then generate new variations from the transcription."
+              },
+              {
+                "t": "p",
+                "x": "The VST3 and AU plugin syncs to the DAW host and outputs MIDI, audio or both in realtime, and can be played via MIDI notes with a latch option. Other changes include an interactive quick-start tutorial, support for NVIDIA Blackwell GPUs on Windows (older Maxwell GPUs are no longer supported), a 300 MB smaller download and memory footprint, and a revised, resizable UI."
+              },
+              {
+                "t": "video",
+                "yt": "FfOGA4FlLO0"
+              },
+              {
+                "t": "p",
+                "x": "The base version is free with a monthly generation limit and no subscription; a Pro version offers unlimited generations."
               }
             ]
           }
         },
         "ko": {
-          "headline": "SimDPS, 음악 공백을\n유사 구간으로 메운다",
-          "body": "SimDPS는 같은 녹음에서 비슷한 구간을 찾아 확산 모델의 공백 복원을 이끈다.",
-          "mini_headline": "SimDPS, 빠진 음악 복원",
+          "headline": "Difro Melody\nAI 2.5 로컬 MIDI",
+          "body": "2.5는 16마디까지 로컬 MIDI로 바꾸고 VST3/AU로 DAW와 붙는다.",
+          "mini_headline": "Difro 2.5, 로컬 MIDI 추가",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Music Inpainting With Similarity-Guided Latent Diffusion(유사도 유도 잠재 확산을 이용한 음악 인페인팅) — Sean Turland, Eloi Moliner, Vesa Välimäki. ISMIR 2026 채택."
+                "t": "img",
+                "src": "https://static.kvraudio.com/i/b/difro_01.1794777186.png"
               },
               {
                 "t": "p",
-                "x": "유사도 매칭과 확산 기반 생성 모델을 결합해 오디오 녹음의 큰 구간을 알맞은 대안으로 바꾸는 음악 인페인팅 기법을 제안한다. 하이브리드 방법인 Similarity-Guided Diffusion Posterior Sampling(SimDPS)은 맥락 유사도로 더 넓은 신호에서 대체 후보 구간을 찾고, 이 후보로 확산 과정을 일관된 재구성 쪽으로 이끈다. 특정 모델에 매이지 않는 프레임워크라서 파형 영역이든 잠재 영역이든 사전 학습된 확산 모델이면 어디에나 붙일 수 있다."
+                "x": "Initial Audio가 AI 멜로디 생성기 Difro Melody AI v2.5 업데이트를 내놨다. audio-to-MIDI 변환과 VST3/AU 플러그인이 새로 들어갔다."
               },
               {
                 "t": "p",
-                "x": "객관적 평가에서 SimDPS는 음향 특징과 신경 임베딩 거리 지표 전반에서 널리 쓰이는 RePaint와 DPS 방법을 앞섰다. 여러 장르를 담은 음악 데이터셋으로 한 주관적 평가에서도 기존 확산 기반 방법보다 지각적 개연성이 높았고, 잘 맞지 않는 유사 후보에도 흔들리지 않았다. 음악 복원과 맥락을 읽는 오디오 편집을 개선할 길이 열린 셈이다."
+                "x": "오디오 루프를 피아노 롤에 끌어다 놓으면 Difro가 벨로시티 데이터까지 담아 로컬에서 MIDI로 바꾼다. 멜로디 루프는 최대 16마디까지 처리하고 그보다 긴 파일은 앞 16마디만 남기고 자른다. 변환 결과는 Re-Imagine으로 새 변주를 만들 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "VST3와 AU 플러그인은 DAW 호스트와 동기화해 MIDI나 오디오, 또는 둘 다를 실시간으로 내보낸다. latch 옵션을 켜고 MIDI 노트로 연주할 수도 있다. 이 밖에 대화형 퀵스타트 튜토리얼, Windows 환경의 NVIDIA Blackwell GPUs 지원(구형 Maxwell GPUs는 지원 종료), 다운로드 용량·메모리 사용량 300 MB 절감, 크기를 바꿀 수 있는 새 UI가 추가됐다."
+              },
+              {
+                "t": "video",
+                "yt": "FfOGA4FlLO0"
+              },
+              {
+                "t": "p",
+                "x": "기본 버전은 구독 없이 무료로 쓸 수 있지만 월간 생성 횟수에 제한이 있다. Pro 버전은 생성 횟수 제한이 없다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "SimDPS、類似箇所で\n音楽の欠落を補完",
-          "body": "SimDPSは同じ録音から類似区間を探し、拡散モデルによる欠落部分の再構築を導く。",
-          "mini_headline": "SimDPSが欠けた音楽を修復",
+          "headline": "Difro Melody\nAI 2.5でMIDI変換",
+          "body": "2.5は16小節までのループをローカルでMIDI化し、VST3/AUでDAWと同期する。",
+          "mini_headline": "Difro 2.5、ローカルMIDI対応",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Music Inpainting With Similarity-Guided Latent Diffusion(類似度誘導型潜在拡散による音楽インペインティング)— Sean Turland、Eloi Moliner、Vesa Välimäki。ISMIR 2026に採択。"
+                "t": "img",
+                "src": "https://static.kvraudio.com/i/b/difro_01.1794777186.png"
               },
               {
                 "t": "p",
-                "x": "類似度マッチングと拡散ベースの生成モデルを組み合わせ、音声録音の大きな区間を適切な代替で置き換える音楽インペインティング手法を提案する。提案するハイブリッド手法Similarity-Guided Diffusion Posterior Sampling(SimDPS)は、文脈上の類似度に基づいてより広い信号から置き換え候補区間を取り出し、それを手がかりに拡散過程を一貫した再構成へ導く。モデルに依存しないため、波形領域・潜在領域のいずれで動作する事前学習済み拡散モデルとも組み合わせられる。"
+                "x": "Initial AudioはAIメロディ生成ツールのアップデート、Difro Melody AI v2.5をリリースした。audio-to-MIDI変換とVST3/AUプラグインが加わった。"
               },
               {
                 "t": "p",
-                "x": "客観評価では、SimDPSは音響特徴量とニューラル埋め込み距離の指標全般で、広く使われるRePaintやDPSを上回った。複数ジャンルの音楽データセットによる主観評価でも、SimDPSは従来の拡散ベース手法より知覚上のもっともらしさを高め、類似候補の一致度が低い場合にも頑健であることが確認された。これらの成果は、音楽修復と文脈を考慮した音声編集の改善に道を開く。"
+                "x": "オーディオループをピアノロールにドラッグすると、DifroがベロシティデータとともにローカルでMIDIに変換する。対象は最大16小節のメロディックなループで、それより長いファイルは最初の16小節にカットされる。その後、Re-Imagineで書き起こしから新たなバリエーションを生成できる。"
+              },
+              {
+                "t": "p",
+                "x": "VST3とAUのプラグインはDAWホストと同期し、MIDI、オーディオ、またはその両方をリアルタイムで出力する。ラッチオプション付きでMIDIノートから演奏することもできる。ほかに、対話型のクイックスタートチュートリアル、WindowsでのNVIDIA Blackwell GPUs対応(旧世代のMaxwell GPUsはサポート終了)、ダウンロードサイズとメモリ使用量の300 MB削減、サイズ変更可能な刷新UIが加わった。"
+              },
+              {
+                "t": "video",
+                "yt": "FfOGA4FlLO0"
+              },
+              {
+                "t": "p",
+                "x": "基本版は無料でサブスクリプション不要だが、月ごとの生成回数に上限がある。Pro版は生成回数が無制限だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "SimDPS借相似片段\n填补音乐中的空缺",
-          "body": "SimDPS从同一录音中检索相似片段，引导扩散模型重建缺失部分。",
-          "mini_headline": "SimDPS修复缺失音乐",
+          "headline": "Difro Melody\nAI 2.5本地转MIDI",
+          "body": "2.5版可在本地将最多16小节的旋律循环转为MIDI，并以VST3/AU插件与DAW同步。",
+          "mini_headline": "Difro 2.5新增本地MIDI转换",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Music Inpainting With Similarity-Guided Latent Diffusion（基于相似性引导潜在扩散的音乐修复）—— Sean Turland、Eloi Moliner、Vesa Välimäki。已被ISMIR 2026接收。"
+                "t": "img",
+                "src": "https://static.kvraudio.com/i/b/difro_01.1794777186.png"
               },
               {
                 "t": "p",
-                "x": "我们提出一种音乐修复技术，将相似性匹配与基于扩散的生成模型相结合，用合适的替代内容替换音频录音中的大段片段。所提出的混合方法Similarity-Guided Diffusion Posterior Sampling（SimDPS）依据上下文相似性从更广泛的信号中检索候选替换片段，并用它们引导扩散过程生成连贯的重建结果。该框架与模型无关，可兼容任何在波形域或潜在域中运行的预训练扩散模型。"
+                "x": "Initial Audio发布了其AI旋律生成器的更新版本Difro Melody AI v2.5，新增audio-to-MIDI转换功能和VST3/AU插件。"
               },
               {
                 "t": "p",
-                "x": "客观评估表明，SimDPS在声学特征和神经嵌入距离指标上均优于广泛采用的RePaint和DPS方法。在多流派音乐数据集上的主观评估证实，与以往基于扩散的方法相比，SimDPS提升了感知合理性，且对匹配不佳的相似候选表现出稳健性。这些发现为改进音乐修复和上下文感知的音频编辑铺平了道路。"
+                "x": "用户可将音频循环拖入钢琴卷帘，Difro会在本地将其转换为MIDI，并保留力度数据。该功能适用于最长16小节的旋律循环；更长的文件会被截取前16小节。随后可用Re-Imagine根据转录结果生成新的变奏。"
+              },
+              {
+                "t": "p",
+                "x": "VST3和AU插件可与DAW宿主同步，实时输出MIDI、音频或两者兼有，并可通过MIDI音符演奏，支持latch选项。其他更新包括交互式快速入门教程、Windows上对NVIDIA Blackwell GPUs的支持（较旧的Maxwell GPUs不再受支持）、下载体积和内存占用减少300 MB，以及经过改版、可调整大小的UI。"
+              },
+              {
+                "t": "video",
+                "yt": "FfOGA4FlLO0"
+              },
+              {
+                "t": "p",
+                "x": "基础版免费且无需订阅，但每月生成次数有限；Pro版提供无限次生成。"
               }
             ]
           }
         },
         "es": {
-          "headline": "SimDPS rellena huecos musicales\ncon pasajes similares",
-          "body": "SimDPS busca segmentos similares de la misma grabación para guiar a un modelo de difusión al rehacer tramos perdidos.",
-          "mini_headline": "SimDPS repara música faltante",
+          "headline": "Difro Melody AI 2.5 convierte\nloops en MIDI en el dispositivo",
+          "body": "La versión 2.5 convierte en local loops de hasta 16 compases a MIDI y funciona como plugin VST3/AU con sincronía DAW.",
+          "mini_headline": "Difro 2.5 añade MIDI local",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Music Inpainting With Similarity-Guided Latent Diffusion (inpainting musical con difusión latente guiada por similitud) — Sean Turland, Eloi Moliner, Vesa Välimäki. Aceptado en ISMIR 2026."
+                "t": "img",
+                "src": "https://static.kvraudio.com/i/b/difro_01.1794777186.png"
               },
               {
                 "t": "p",
-                "x": "Proponemos una técnica de inpainting musical que combina la búsqueda de similitudes con un modelo generativo basado en difusión para reemplazar segmentos extensos de grabaciones de audio por alternativas adecuadas. El método híbrido propuesto, Similarity-Guided Diffusion Posterior Sampling (SimDPS), recupera segmentos candidatos de reemplazo de la señal más amplia según su similitud contextual y los usa para guiar el proceso de difusión hacia reconstrucciones coherentes. Al ser independiente del modelo, el marco es compatible con cualquier modelo de difusión preentrenado que opere en el dominio de la forma de onda o en el latente."
+                "x": "Initial Audio ha lanzado Difro Melody AI v2.5, una actualización de su generador de melodías con AI que añade conversión audio-to-MIDI y un plugin VST3/AU."
               },
               {
                 "t": "p",
-                "x": "Las evaluaciones objetivas muestran que SimDPS supera a los métodos RePaint y DPS, ampliamente adoptados, en características acústicas y métricas de distancia de embeddings neuronales. Las evaluaciones subjetivas en conjuntos de datos musicales de varios géneros confirman que SimDPS mejora la plausibilidad perceptiva frente a métodos previos basados en difusión y muestra robustez ante candidatos de similitud poco coincidentes. Estos resultados abren el camino a una mejor restauración musical y a una edición de audio consciente del contexto."
+                "x": "Los usuarios pueden arrastrar un loop de audio al piano roll y Difro lo convierte a MIDI en local, con datos de velocidad. Funciona con loops melódicos de hasta 16 compases; los archivos más largos se recortan a los primeros 16. Después, Re-Imagine puede generar nuevas variaciones a partir de la transcripción."
+              },
+              {
+                "t": "p",
+                "x": "El plugin VST3 y AU se sincroniza con el DAW anfitrión y emite MIDI, audio o ambos en tiempo real, y puede tocarse mediante notas MIDI con una opción de latch. Otros cambios incluyen un tutorial interactivo de inicio rápido, compatibilidad con NVIDIA Blackwell GPUs en Windows (las Maxwell GPUs más antiguas ya no son compatibles), una descarga y un uso de memoria 300 MB menores y una UI renovada y redimensionable."
+              },
+              {
+                "t": "video",
+                "yt": "FfOGA4FlLO0"
+              },
+              {
+                "t": "p",
+                "x": "La versión básica es gratuita, sin suscripción y con un límite mensual de generaciones; la versión Pro ofrece generaciones ilimitadas."
               }
             ]
           }
@@ -1303,89 +851,731 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "SimDPS, 음악 공백을\n유사 구간으로 메운다",
-          "body": "SimDPS는 같은 녹음 속 유사 구간을 찾아 확산 모델의 빈 구간 복원을 이끈다.",
-          "mini_headline": "SimDPS, 빠진 음악 복원",
+          "headline": "Difro Melody\nAI 2.5 로컬 MIDI",
+          "body": "2.5는 16마디까지 로컬 MIDI로 바꾸고 VST3/AU로 DAW와 연동된다.",
+          "mini_headline": "Difro 2.5, 로컬 MIDI 추가",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Music Inpainting With Similarity-Guided Latent Diffusion(유사도 유도 잠재 확산을 이용한 음악 인페인팅) — Sean Turland, Eloi Moliner, Vesa Välimäki. ISMIR 2026 채택."
+                "t": "img",
+                "src": "https://static.kvraudio.com/i/b/difro_01.1794777186.png"
               },
               {
                 "t": "p",
-                "x": "우리는 유사도 매칭과 확산 기반 생성 모델을 결합해 오디오 녹음의 큰 구간을 알맞은 대안으로 바꾸는 음악 인페인팅 기법을 제안한다. 제안한 하이브리드 방법인 Similarity-Guided Diffusion Posterior Sampling(SimDPS)은 맥락 유사도를 바탕으로 더 넓은 신호에서 대체 후보 구간을 찾고, 이를 활용해 확산 과정이 일관된 재구성을 향하도록 이끈다. 특정 모델에 매이지 않는 이 프레임워크는 파형 영역이나 잠재 영역에서 작동하는 어떤 사전 학습 확산 모델과도 호환된다."
+                "x": "Initial Audio가 AI 멜로디 생성기 업데이트 Difro Melody AI v2.5를 내놓았다. audio-to-MIDI 변환과 VST3/AU 플러그인이 추가됐다."
               },
               {
                 "t": "p",
-                "x": "객관적 평가에서 SimDPS는 음향 특징과 신경 임베딩 거리 지표 전반에서 널리 쓰이는 RePaint와 DPS 방법을 앞섰다. 다장르 음악 데이터셋에 대한 주관적 평가에서도 SimDPS는 기존 확산 기반 방법보다 지각적 개연성을 높였고, 잘 맞지 않는 유사 후보에도 강건함을 보였다. 이 결과는 음악 복원과 맥락 인식 오디오 편집 개선의 길을 연다."
+                "x": "오디오 루프를 피아노 롤로 끌어다 놓으면 Difro가 이를 벨로시티 데이터와 함께 로컬에서 MIDI로 변환한다. 최대 16마디의 멜로디 루프에서 작동하며, 더 긴 파일은 앞 16마디만 남기고 잘린다. 이후 Re-Imagine으로 변환 결과에서 새로운 변주를 만들 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "VST3와 AU 플러그인은 DAW 호스트와 동기화되고 MIDI, 오디오 또는 둘 다를 실시간으로 출력하며, latch 옵션을 켜고 MIDI 노트로 연주할 수 있다. 그 밖에 대화형 퀵스타트 튜토리얼, Windows에서의 NVIDIA Blackwell GPUs 지원(구형 Maxwell GPUs는 지원 종료), 다운로드 용량과 메모리 사용량 300 MB 감소, 크기 조절이 가능한 새 UI가 더해졌다."
+              },
+              {
+                "t": "video",
+                "yt": "FfOGA4FlLO0"
+              },
+              {
+                "t": "p",
+                "x": "기본 버전은 구독 없이 무료이며 월간 생성 횟수 제한이 있다. Pro 버전은 생성 횟수 제한이 없다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "SimDPS、類似箇所で\n音楽の欠落を補完",
-          "body": "SimDPSは同じ録音から類似区間を探し、拡散モデルによる欠落部分の再構築を導く。",
-          "mini_headline": "SimDPSが欠けた音楽を修復",
+          "headline": "Difro Melody\nAI 2.5でMIDI変換",
+          "body": "2.5は16小節までのループをローカルでMIDI化し、VST3/AUでDAWと同期する。",
+          "mini_headline": "Difro 2.5、ローカルMIDI対応",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Music Inpainting With Similarity-Guided Latent Diffusion(類似度誘導型潜在拡散による音楽インペインティング)— Sean Turland、Eloi Moliner、Vesa Välimäki。ISMIR 2026に採択。"
+                "t": "img",
+                "src": "https://static.kvraudio.com/i/b/difro_01.1794777186.png"
               },
               {
                 "t": "p",
-                "x": "類似度マッチングと拡散ベースの生成モデルを組み合わせ、音声録音の大きな区間を適切な代替で置き換える音楽インペインティング手法を提案する。提案するハイブリッド手法Similarity-Guided Diffusion Posterior Sampling(SimDPS)は、文脈上の類似度に基づいてより広い信号から置き換え候補区間を取り出し、それを手がかりに拡散過程を一貫した再構成へ導く。モデルに依存しないため、波形領域・潜在領域のいずれで動作する事前学習済み拡散モデルとも組み合わせられる。"
+                "x": "Initial AudioはAIメロディ生成ツールのアップデート、Difro Melody AI v2.5をリリースした。audio-to-MIDI変換とVST3/AUプラグインが加わった。"
               },
               {
                 "t": "p",
-                "x": "客観評価では、SimDPSは音響特徴量とニューラル埋め込み距離の指標全般で、広く使われるRePaintやDPSを上回った。複数ジャンルの音楽データセットによる主観評価でも、SimDPSは従来の拡散ベース手法より知覚上のもっともらしさを高め、類似候補の一致度が低い場合にも頑健であることが確認された。これらの成果は、音楽修復と文脈を考慮した音声編集の改善に道を開く。"
+                "x": "オーディオループをピアノロールにドラッグすると、DifroがベロシティデータとともにローカルでMIDIに変換する。対象は最大16小節のメロディックなループで、それより長いファイルは最初の16小節にカットされる。その後、Re-Imagineで書き起こしから新たなバリエーションを生成できる。"
+              },
+              {
+                "t": "p",
+                "x": "VST3とAUのプラグインはDAWホストと同期し、MIDI、オーディオ、またはその両方をリアルタイムで出力する。ラッチオプション付きでMIDIノートから演奏することもできる。ほかに、対話型のクイックスタートチュートリアル、WindowsでのNVIDIA Blackwell GPUs対応(旧世代のMaxwell GPUsはサポート終了)、ダウンロードサイズとメモリ使用量の300 MB削減、サイズ変更可能な刷新UIが加わった。"
+              },
+              {
+                "t": "video",
+                "yt": "FfOGA4FlLO0"
+              },
+              {
+                "t": "p",
+                "x": "基本版は無料でサブスクリプション不要だが、月ごとの生成回数に上限がある。Pro版は生成回数が無制限だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "SimDPS借相似片段\n填补音乐中的空缺",
-          "body": "SimDPS从同一录音中检索相似片段，引导扩散模型重建缺失部分。",
-          "mini_headline": "SimDPS修复缺失音乐",
+          "headline": "Difro Melody\nAI 2.5本地转MIDI",
+          "body": "2.5版可在本地将最多16小节的旋律循环转为MIDI，并以VST3/AU插件与DAW同步。",
+          "mini_headline": "Difro 2.5新增本地MIDI转换",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Music Inpainting With Similarity-Guided Latent Diffusion（基于相似性引导潜在扩散的音乐修复）—— Sean Turland、Eloi Moliner、Vesa Välimäki。已被ISMIR 2026接收。"
+                "t": "img",
+                "src": "https://static.kvraudio.com/i/b/difro_01.1794777186.png"
               },
               {
                 "t": "p",
-                "x": "我们提出一种音乐修复技术，将相似性匹配与基于扩散的生成模型相结合，用合适的替代内容替换音频录音中的大段片段。所提出的混合方法Similarity-Guided Diffusion Posterior Sampling（SimDPS）依据上下文相似性从更广泛的信号中检索候选替换片段，并用它们引导扩散过程生成连贯的重建结果。该框架与模型无关，可兼容任何在波形域或潜在域中运行的预训练扩散模型。"
+                "x": "Initial Audio发布了其AI旋律生成器的更新版本Difro Melody AI v2.5，新增audio-to-MIDI转换功能和VST3/AU插件。"
               },
               {
                 "t": "p",
-                "x": "客观评估表明，SimDPS在声学特征和神经嵌入距离指标上均优于广泛采用的RePaint和DPS方法。在多流派音乐数据集上的主观评估证实，与以往基于扩散的方法相比，SimDPS提升了感知合理性，且对匹配不佳的相似候选表现出稳健性。这些发现为改进音乐修复和上下文感知的音频编辑铺平了道路。"
+                "x": "用户可将音频循环拖入钢琴卷帘，Difro会在本地将其转换为MIDI，并保留力度数据。该功能适用于最长16小节的旋律循环；更长的文件会被截取前16小节。随后可用Re-Imagine根据转录结果生成新的变奏。"
+              },
+              {
+                "t": "p",
+                "x": "VST3和AU插件可与DAW宿主同步，实时输出MIDI、音频或两者兼有，并可通过MIDI音符演奏，支持latch选项。其他更新包括交互式快速入门教程、Windows上对NVIDIA Blackwell GPUs的支持（较旧的Maxwell GPUs不再受支持）、下载体积和内存占用减少300 MB，以及经过改版、可调整大小的UI。"
+              },
+              {
+                "t": "video",
+                "yt": "FfOGA4FlLO0"
+              },
+              {
+                "t": "p",
+                "x": "基础版免费且无需订阅，但每月生成次数有限；Pro版提供无限次生成。"
               }
             ]
           }
         },
         "es": {
-          "headline": "SimDPS rellena huecos musicales\ncon pasajes similares",
-          "body": "SimDPS busca segmentos similares de la misma grabación para guiar a un modelo de difusión al rehacer tramos perdidos.",
-          "mini_headline": "SimDPS repara música faltante",
+          "headline": "Difro Melody AI 2.5 convierte\nloops en MIDI en el dispositivo",
+          "body": "La versión 2.5 convierte en local loops de hasta 16 compases a MIDI y funciona como plugin VST3/AU con sincronía DAW.",
+          "mini_headline": "Difro 2.5 añade MIDI local",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://static.kvraudio.com/i/b/difro_01.1794777186.png"
+              },
+              {
+                "t": "p",
+                "x": "Initial Audio ha lanzado Difro Melody AI v2.5, una actualización de su generador de melodías con AI que añade conversión audio-to-MIDI y un plugin VST3/AU."
+              },
+              {
+                "t": "p",
+                "x": "Los usuarios pueden arrastrar un loop de audio al piano roll y Difro lo convierte a MIDI en local, con datos de velocidad. Funciona con loops melódicos de hasta 16 compases; los archivos más largos se recortan a los primeros 16. Después, Re-Imagine puede generar nuevas variaciones a partir de la transcripción."
+              },
+              {
+                "t": "p",
+                "x": "El plugin VST3 y AU se sincroniza con el DAW anfitrión y emite MIDI, audio o ambos en tiempo real, y puede tocarse mediante notas MIDI con una opción de latch. Otros cambios incluyen un tutorial interactivo de inicio rápido, compatibilidad con NVIDIA Blackwell GPUs en Windows (las Maxwell GPUs más antiguas ya no son compatibles), una descarga y un uso de memoria 300 MB menores y una UI renovada y redimensionable."
+              },
+              {
+                "t": "video",
+                "yt": "FfOGA4FlLO0"
+              },
+              {
+                "t": "p",
+                "x": "La versión básica es gratuita, sin suscripción y con un límite mensual de generaciones; la versión Pro ofrece generaciones ilimitadas."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "kanye-bully-grammy-ai",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "AI 의혹에도 Ye의\nBully, Grammy행",
+      "body": "AI 의혹 속에 Bully가 2027년 Grammy 최우수 랩 앨범 후보에 들었다.",
+      "mini_headline": "Bully, Grammy 후보 지명",
+      "tool": "Music",
+      "source": "Pitchfork",
+      "url": "https://pitchfork.com/story/kanye-wests-bully-up-for-best-rap-album-grammy/",
+      "accent": "#7928ca",
+      "motif": "sphere",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://media.pitchfork.com/photos/6afaf9f6fa70625fee86f02d/2:1/w_2560%2Cc_limit/kanye-west-bully-grammys.jpg"
+          },
+          {
+            "t": "p",
+            "x": "Kanye West가 Bully 디럭스 에디션으로 2027 Grammys 최우수 랩 앨범(Best Rap Album) 후보에 올라 Cardi B, Don Toliver 등과 겨룬다. Ye가 인공지능의 도움을 받아 곡을 썼다는 의혹이 끊이지 않는 와중에 나온 지명이다."
+          },
+          {
+            "t": "p",
+            "x": "추측에 불을 붙인 건 2025년 Justin Laboy와의 인터뷰였다. Ye는 이 자리에서 이 기술의 창작 가능성에 눈에 띄게 감탄했고 비슷한 목소리를 손쉽게 뽑아내는 모습도 보여줬다. The New Yorker의 Kelefa Sanneh가 짚었듯 같은 해 말 나온 곡에서 Ye가 스페인어로 랩한 듯한 벌스도 이 기법을 썼을 가능성이 크다. 그러나 Ye는 이후 앨범에 A.I.를 쓰지 않는다고 트윗했고, 아마추어 탐정들이 매달렸지만 그 주장은 반박되지 않았다. 8월 제기된 소송은 Ye가 Vultures 2와 Bully 모두에 A.I. 보컬 효과를 썼다고 주장해 판을 키웠다. Recording Academy 규정은 인간 창작 요소가 “의미 있고” “해당 부문과 관련된” 경우라면 아티스트의 A.I. 사용을 허용한다."
+          },
+          {
+            "t": "p",
+            "x": "Best Rap Album 부문에서 Ye의 이력은 화려하다. 첫 세 앨범이 모두 이 상을 받았고 My Beautiful Dark Twisted Fantasy로 또 한 번 수상했다. 이 부문 후보 지명은 이번이 아홉 번째다. Bully의 경쟁작은 Cardi의 Am I the Drama?, Toliver의 Octane, Rapsody의 God Gotta Afro & Gold Hoops, Wale의 Everything Is a Lot, 그리고 J Dilla의 유작 비트 위에 Busta Rhymes가 얹은 신작 Dillagence II다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Ye's Bully earns a Grammy nod\ndespite AI allegations",
+          "body": "Widespread claims of AI use did not stop Grammy voters from nominating Bully for Best Rap Album at the 2027 Grammys.",
+          "mini_headline": "Bully gets a Grammy nod",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "Music Inpainting With Similarity-Guided Latent Diffusion (inpainting musical con difusión latente guiada por similitud) — Sean Turland, Eloi Moliner, Vesa Välimäki. Aceptado en ISMIR 2026."
+                "t": "img",
+                "src": "https://media.pitchfork.com/photos/6afaf9f6fa70625fee86f02d/2:1/w_2560%2Cc_limit/kanye-west-bully-grammys.jpg"
               },
               {
                 "t": "p",
-                "x": "Proponemos una técnica de inpainting musical que combina la búsqueda de similitudes con un modelo generativo basado en difusión para reemplazar segmentos extensos de grabaciones de audio por alternativas adecuadas. El método híbrido propuesto, Similarity-Guided Diffusion Posterior Sampling (SimDPS), recupera segmentos candidatos de reemplazo de la señal más amplia según su similitud contextual y los usa para guiar el proceso de difusión hacia reconstrucciones coherentes. Al ser independiente del modelo, el marco es compatible con cualquier modelo de difusión preentrenado que opere en el dominio de la forma de onda o en el latente."
+                "x": "Kanye West has picked up a Best Rap Album nomination for the deluxe edition of Bully at the 2027 Grammys, where he will face off against Cardi B and Don Toliver, among others. The nod comes despite persistent allegations that Ye had a helping hand in its composition: artificial intelligence."
               },
               {
                 "t": "p",
-                "x": "Las evaluaciones objetivas muestran que SimDPS supera a los métodos RePaint y DPS, ampliamente adoptados, en características acústicas y métricas de distancia de embeddings neuronales. Las evaluaciones subjetivas en conjuntos de datos musicales de varios géneros confirman que SimDPS mejora la plausibilidad perceptiva frente a métodos previos basados en difusión y muestra robustez ante candidatos de similitud poco coincidentes. Estos resultados abren el camino a una mejor restauración musical y a una edición de audio consciente del contexto."
+                "x": "Speculation stirred after a 2025 interview with Justin Laboy, in which Ye was palpably impressed by the creative possibilities of the technology. He demonstrated its ease in making soundalike vocals, a gimmick likely in evidence on a song premiered later that year with an apparent Ye verse rapped in Spanish, as The New Yorker’s Kelefa Sanneh noted. But Ye subsequently tweeted that the album would feature no A.I., and the claim has not been disproven, despite the efforts of armchair detectives. A lawsuit filed in August upped the stakes, claiming Ye had used A.I. vocal effects in both Vultures 2 and Bully. The Recording Academy rules allow artists to use A.I. provided the human authorship element is “meaningful” and “relevant to the category.”"
+              },
+              {
+                "t": "p",
+                "x": "Ye has a storied history in the Best Rap Album category, having claimed it for each of his first three albums and again for My Beautiful Dark Twisted Fantasy. This is his ninth nomination in the category. As well as Cardi’s Am I the Drama? and Toliver’s Octane, Bully is up against Rapsody’s God Gotta Afro & Gold Hoops, Wale’s Everything Is a Lot, and Busta Rhymes’ latest album set to posthumous J Dilla beats, Dillagence II."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "AI 의혹에도 Ye의\nBully, Grammy행",
+          "body": "AI 의혹 속에 Bully가 2027년 Grammy 최우수 랩 앨범 후보에 들었다.",
+          "mini_headline": "Bully, Grammy 후보 지명",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.pitchfork.com/photos/6afaf9f6fa70625fee86f02d/2:1/w_2560%2Cc_limit/kanye-west-bully-grammys.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Kanye West가 Bully 디럭스 에디션으로 2027 Grammys 최우수 랩 앨범(Best Rap Album) 후보에 올라 Cardi B, Don Toliver 등과 겨룬다. Ye가 인공지능의 도움을 받아 곡을 썼다는 의혹이 끊이지 않는 와중에 나온 지명이다."
+              },
+              {
+                "t": "p",
+                "x": "추측에 불을 붙인 건 2025년 Justin Laboy와의 인터뷰였다. Ye는 이 자리에서 이 기술의 창작 가능성에 눈에 띄게 감탄했고 비슷한 목소리를 손쉽게 뽑아내는 모습도 보여줬다. The New Yorker의 Kelefa Sanneh가 짚었듯 같은 해 말 나온 곡에서 Ye가 스페인어로 랩한 듯한 벌스도 이 기법을 썼을 가능성이 크다. 그러나 Ye는 이후 앨범에 A.I.를 쓰지 않는다고 트윗했고, 아마추어 탐정들이 매달렸지만 그 주장은 반박되지 않았다. 8월 제기된 소송은 Ye가 Vultures 2와 Bully 모두에 A.I. 보컬 효과를 썼다고 주장해 판을 키웠다. Recording Academy 규정은 인간 창작 요소가 “의미 있고” “해당 부문과 관련된” 경우라면 아티스트의 A.I. 사용을 허용한다."
+              },
+              {
+                "t": "p",
+                "x": "Best Rap Album 부문에서 Ye의 이력은 화려하다. 첫 세 앨범이 모두 이 상을 받았고 My Beautiful Dark Twisted Fantasy로 또 한 번 수상했다. 이 부문 후보 지명은 이번이 아홉 번째다. Bully의 경쟁작은 Cardi의 Am I the Drama?, Toliver의 Octane, Rapsody의 God Gotta Afro & Gold Hoops, Wale의 Everything Is a Lot, 그리고 J Dilla의 유작 비트 위에 Busta Rhymes가 얹은 신작 Dillagence II다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AI疑惑のYe『Bully』\nGrammyにノミネート",
+          "body": "AI疑惑をよそに、Bullyが2027年Grammyの最優秀ラップ・アルバム候補に入った。",
+          "mini_headline": "BullyがGrammyにノミネート",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.pitchfork.com/photos/6afaf9f6fa70625fee86f02d/2:1/w_2560%2Cc_limit/kanye-west-bully-grammys.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Kanye WestはBullyのデラックス・エディションで2027年Grammysの最優秀ラップ・アルバム(Best Rap Album)にノミネートされ、Cardi BやDon Toliverらと競う。今回のノミネートは、Yeが制作に人工知能の助けを借りたという疑惑が根強く残る中でのことだ。"
+              },
+              {
+                "t": "p",
+                "x": "憶測が広がったのは、2025年のJustin Laboyとのインタビューがきっかけだった。Yeはこの技術の創造的な可能性に明らかに感銘を受け、似た歌声を簡単に作れることを実演してみせた。The New YorkerのKelefa Sannehが指摘したように、同年後半に公開された曲でYeがスペイン語でラップしているように聞こえるヴァースにも、その手法が使われていた可能性が高い。だがYeはその後、アルバムにA.I.は使わないとツイートし、素人探偵たちの努力にもかかわらず、その主張は覆されていない。8月に起こされた訴訟は、YeがVultures 2とBullyの両方でA.I.のボーカルエフェクトを使ったと主張し、事態を一段と深刻にした。Recording Academyの規定は、人間による創作の要素が「意味のある」もので「部門に関連する」限り、アーティストのA.I.使用を認めている。"
+              },
+              {
+                "t": "p",
+                "x": "YeはBest Rap Album部門で輝かしい歴史を持ち、最初の三作のアルバムすべてで受賞し、My Beautiful Dark Twisted Fantasyでも再び受賞した。今回は同部門で九度目のノミネートとなる。BullyはCardiのAm I the Drama?、ToliverのOctaneに加え、RapsodyのGod Gotta Afro & Gold Hoops、WaleのEverything Is a Lot、そしてJ Dillaの遺作ビートに乗せたBusta Rhymesの最新作Dillagence IIと競う。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Ye的Bully遭AI质疑\n仍获Grammy提名",
+          "body": "尽管AI使用传闻广泛，Bully仍获2027年Grammy最佳说唱专辑提名。",
+          "mini_headline": "Bully获Grammy提名",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.pitchfork.com/photos/6afaf9f6fa70625fee86f02d/2:1/w_2560%2Cc_limit/kanye-west-bully-grammys.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Kanye West凭借Bully豪华版获得2027年Grammys最佳说唱专辑(Best Rap Album)提名，将与Cardi B、Don Toliver等人角逐。此次提名是在外界持续指控Ye在创作中借助了人工智能的背景下获得的。"
+              },
+              {
+                "t": "p",
+                "x": "相关猜测始于2025年Ye接受Justin Laboy的一次采访，当时他明显对这项技术的创作潜力印象深刻，并演示了用它制作仿声人声有多么容易。正如The New Yorker的Kelefa Sanneh所指出的，同年晚些时候首发的一首歌中疑似由Ye用西班牙语说唱的段落，很可能就运用了这一手法。但Ye随后发推称专辑不会使用A.I.，尽管网络侦探们多方求证，这一说法至今未被证伪。8月提起的一宗诉讼让事态升级，指控Ye在Vultures 2和Bully中都使用了A.I.人声效果。Recording Academy的规则允许艺人使用A.I.，前提是人类创作部分“有意义”且“与该类别相关”。"
+              },
+              {
+                "t": "p",
+                "x": "Ye在Best Rap Album类别中战绩辉煌，他的前三张专辑均获此奖，后来又凭My Beautiful Dark Twisted Fantasy再度获奖。这是他在该类别的第九次提名。除Cardi的Am I the Drama?和Toliver的Octane外，Bully的对手还包括Rapsody的God Gotta Afro & Gold Hoops、Wale的Everything Is a Lot，以及Busta Rhymes以J Dilla遗作节拍打造的新专辑Dillagence II。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Bully de Ye, nominado al Grammy\npese a las acusaciones de AI",
+          "body": "Las acusaciones de uso de AI no impidieron que Bully fuera nominado a Mejor Álbum de Rap en los Grammys de 2027.",
+          "mini_headline": "Bully, nominado al Grammy",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.pitchfork.com/photos/6afaf9f6fa70625fee86f02d/2:1/w_2560%2Cc_limit/kanye-west-bully-grammys.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Kanye West ha obtenido una nominación a Mejor Álbum de Rap (Best Rap Album) por la edición deluxe de Bully en los Grammys de 2027, donde competirá con Cardi B y Don Toliver, entre otros. La nominación llega pese a las persistentes acusaciones de que Ye contó con una ayuda en su composición: la inteligencia artificial."
+              },
+              {
+                "t": "p",
+                "x": "Las especulaciones surgieron tras una entrevista de 2025 con Justin Laboy, en la que Ye se mostró visiblemente impresionado por las posibilidades creativas de la tecnología. Demostró lo fácil que era crear voces que imitan a otras, un recurso probablemente presente en una canción estrenada ese mismo año con un aparente verso de Ye rapeado en español, como señaló Kelefa Sanneh, de The New Yorker. Pero Ye tuiteó después que el álbum no incluiría A.I., y la afirmación no ha sido desmentida pese a los esfuerzos de detectives aficionados. Una demanda presentada en agosto elevó la tensión al afirmar que Ye había usado efectos vocales de A.I. tanto en Vultures 2 como en Bully. Las normas de la Recording Academy permiten a los artistas usar A.I. siempre que el elemento de autoría humana sea “significativo” y “relevante para la categoría”."
+              },
+              {
+                "t": "p",
+                "x": "Ye tiene una larga historia en la categoría Best Rap Album: la ganó con cada uno de sus tres primeros álbumes y de nuevo con My Beautiful Dark Twisted Fantasy. Esta es su novena nominación en la categoría. Además de Am I the Drama?, de Cardi, y Octane, de Toliver, Bully compite con God Gotta Afro & Gold Hoops, de Rapsody; Everything Is a Lot, de Wale, y el último álbum de Busta Rhymes, construido sobre ritmos póstumos de J Dilla, Dillagence II."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "AI 의혹에도 Ye의\nBully, Grammy행",
+          "body": "AI 의혹에도 Bully가 2027년 Grammy 최우수 랩 앨범 후보에 올랐다.",
+          "mini_headline": "Bully, Grammy 후보 지명",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.pitchfork.com/photos/6afaf9f6fa70625fee86f02d/2:1/w_2560%2Cc_limit/kanye-west-bully-grammys.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Kanye West가 Bully 디럭스 에디션으로 2027 Grammys 최우수 랩 앨범(Best Rap Album) 후보에 올라 Cardi B, Don Toliver 등과 경쟁한다. 이번 지명은 Ye가 작곡에 인공지능의 도움을 받았다는 의혹이 끊이지 않는 가운데 나왔다."
+              },
+              {
+                "t": "p",
+                "x": "추측은 2025년 Justin Laboy와의 인터뷰 이후 불붙었다. 이 인터뷰에서 Ye는 이 기술의 창작 가능성에 확연히 감탄했고, 비슷한 목소리를 손쉽게 만들어내는 모습을 시연했다. The New Yorker의 Kelefa Sanneh가 지적했듯, 같은 해 말 공개된 곡에서 Ye가 스페인어로 랩한 것으로 보이는 벌스도 이 기법을 쓴 것일 가능성이 크다. 그러나 Ye는 이후 앨범에 A.I.가 쓰이지 않는다고 트윗했고, 아마추어 탐정들의 노력에도 그 주장은 반박되지 않았다. 8월 제기된 소송은 Ye가 Vultures 2와 Bully 모두에 A.I. 보컬 효과를 썼다고 주장하며 판을 키웠다. Recording Academy 규정은 인간 창작 요소가 “의미 있고” “해당 부문과 관련된” 경우 아티스트의 A.I. 사용을 허용한다."
+              },
+              {
+                "t": "p",
+                "x": "Ye는 Best Rap Album 부문에서 화려한 이력을 지녔다. 첫 세 앨범으로 모두 이 상을 받았고 My Beautiful Dark Twisted Fantasy로 다시 수상했다. 이번이 이 부문 아홉 번째 후보 지명이다. Bully는 Cardi의 Am I the Drama?, Toliver의 Octane과 함께 Rapsody의 God Gotta Afro & Gold Hoops, Wale의 Everything Is a Lot, 그리고 J Dilla의 유작 비트에 맞춘 Busta Rhymes의 신작 Dillagence II와 경쟁한다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AI疑惑のYe『Bully』\nGrammyにノミネート",
+          "body": "AI疑惑をよそに、Bullyが2027年Grammyの最優秀ラップ・アルバム候補に入った。",
+          "mini_headline": "BullyがGrammyにノミネート",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.pitchfork.com/photos/6afaf9f6fa70625fee86f02d/2:1/w_2560%2Cc_limit/kanye-west-bully-grammys.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Kanye WestはBullyのデラックス・エディションで2027年Grammysの最優秀ラップ・アルバム(Best Rap Album)にノミネートされ、Cardi BやDon Toliverらと競う。今回のノミネートは、Yeが制作に人工知能の助けを借りたという疑惑が根強く残る中でのことだ。"
+              },
+              {
+                "t": "p",
+                "x": "憶測が広がったのは、2025年のJustin Laboyとのインタビューがきっかけだった。Yeはこの技術の創造的な可能性に明らかに感銘を受け、似た歌声を簡単に作れることを実演してみせた。The New YorkerのKelefa Sannehが指摘したように、同年後半に公開された曲でYeがスペイン語でラップしているように聞こえるヴァースにも、その手法が使われていた可能性が高い。だがYeはその後、アルバムにA.I.は使わないとツイートし、素人探偵たちの努力にもかかわらず、その主張は覆されていない。8月に起こされた訴訟は、YeがVultures 2とBullyの両方でA.I.のボーカルエフェクトを使ったと主張し、事態を一段と深刻にした。Recording Academyの規定は、人間による創作の要素が「意味のある」もので「部門に関連する」限り、アーティストのA.I.使用を認めている。"
+              },
+              {
+                "t": "p",
+                "x": "YeはBest Rap Album部門で輝かしい歴史を持ち、最初の三作のアルバムすべてで受賞し、My Beautiful Dark Twisted Fantasyでも再び受賞した。今回は同部門で九度目のノミネートとなる。BullyはCardiのAm I the Drama?、ToliverのOctaneに加え、RapsodyのGod Gotta Afro & Gold Hoops、WaleのEverything Is a Lot、そしてJ Dillaの遺作ビートに乗せたBusta Rhymesの最新作Dillagence IIと競う。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Ye的Bully遭AI质疑\n仍获Grammy提名",
+          "body": "尽管AI使用传闻广泛，Bully仍获2027年Grammy最佳说唱专辑提名。",
+          "mini_headline": "Bully获Grammy提名",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.pitchfork.com/photos/6afaf9f6fa70625fee86f02d/2:1/w_2560%2Cc_limit/kanye-west-bully-grammys.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Kanye West凭借Bully豪华版获得2027年Grammys最佳说唱专辑(Best Rap Album)提名，将与Cardi B、Don Toliver等人角逐。此次提名是在外界持续指控Ye在创作中借助了人工智能的背景下获得的。"
+              },
+              {
+                "t": "p",
+                "x": "相关猜测始于2025年Ye接受Justin Laboy的一次采访，当时他明显对这项技术的创作潜力印象深刻，并演示了用它制作仿声人声有多么容易。正如The New Yorker的Kelefa Sanneh所指出的，同年晚些时候首发的一首歌中疑似由Ye用西班牙语说唱的段落，很可能就运用了这一手法。但Ye随后发推称专辑不会使用A.I.，尽管网络侦探们多方求证，这一说法至今未被证伪。8月提起的一宗诉讼让事态升级，指控Ye在Vultures 2和Bully中都使用了A.I.人声效果。Recording Academy的规则允许艺人使用A.I.，前提是人类创作部分“有意义”且“与该类别相关”。"
+              },
+              {
+                "t": "p",
+                "x": "Ye在Best Rap Album类别中战绩辉煌，他的前三张专辑均获此奖，后来又凭My Beautiful Dark Twisted Fantasy再度获奖。这是他在该类别的第九次提名。除Cardi的Am I the Drama?和Toliver的Octane外，Bully的对手还包括Rapsody的God Gotta Afro & Gold Hoops、Wale的Everything Is a Lot，以及Busta Rhymes以J Dilla遗作节拍打造的新专辑Dillagence II。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Bully de Ye, nominado al Grammy\npese a las acusaciones de AI",
+          "body": "Las acusaciones de uso de AI no impidieron que Bully fuera nominado a Mejor Álbum de Rap en los Grammys de 2027.",
+          "mini_headline": "Bully, nominado al Grammy",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.pitchfork.com/photos/6afaf9f6fa70625fee86f02d/2:1/w_2560%2Cc_limit/kanye-west-bully-grammys.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Kanye West ha obtenido una nominación a Mejor Álbum de Rap (Best Rap Album) por la edición deluxe de Bully en los Grammys de 2027, donde competirá con Cardi B y Don Toliver, entre otros. La nominación llega pese a las persistentes acusaciones de que Ye contó con una ayuda en su composición: la inteligencia artificial."
+              },
+              {
+                "t": "p",
+                "x": "Las especulaciones surgieron tras una entrevista de 2025 con Justin Laboy, en la que Ye se mostró visiblemente impresionado por las posibilidades creativas de la tecnología. Demostró lo fácil que era crear voces que imitan a otras, un recurso probablemente presente en una canción estrenada ese mismo año con un aparente verso de Ye rapeado en español, como señaló Kelefa Sanneh, de The New Yorker. Pero Ye tuiteó después que el álbum no incluiría A.I., y la afirmación no ha sido desmentida pese a los esfuerzos de detectives aficionados. Una demanda presentada en agosto elevó la tensión al afirmar que Ye había usado efectos vocales de A.I. tanto en Vultures 2 como en Bully. Las normas de la Recording Academy permiten a los artistas usar A.I. siempre que el elemento de autoría humana sea “significativo” y “relevante para la categoría”."
+              },
+              {
+                "t": "p",
+                "x": "Ye tiene una larga historia en la categoría Best Rap Album: la ganó con cada uno de sus tres primeros álbumes y de nuevo con My Beautiful Dark Twisted Fantasy. Esta es su novena nominación en la categoría. Además de Am I the Drama?, de Cardi, y Octane, de Toliver, Bully compite con God Gotta Afro & Gold Hoops, de Rapsody; Everything Is a Lot, de Wale, y el último álbum de Busta Rhymes, construido sobre ritmos póstumos de J Dilla, Dillagence II."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "bridgwater-carnival-ai-music",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "카니발 수레 AI 음악,\nBridgwater 분열",
+      "body": "Bridgwater Carnival 일부 클럽의 AI 음악에 의견이 갈렸다.",
+      "mini_headline": "AI 음악에 갈린 카니발",
+      "tool": "Music",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cqvgrg262pp5o",
+      "accent": "#2ec5c5",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/8fec/live/880e71a0-dd31-11f1-ab46-9fae224bbf6f.jpg.webp",
+            "cap": "2026년 Bridgwater Carnival에서 여러 수레가 AI-generated 음악을 틀었다"
+          },
+          {
+            "t": "p",
+            "x": "카니발 행렬 곳곳에서 음악에 인공지능(AI)을 쓴 것을 두고 한 클럽 회원은 “실망스럽다”고 했다. Somerset주 Bridgwater에는 약 150,000명이 모여 불을 밝힌 수레 행렬을 지켜봤다."
+          },
+          {
+            "t": "p",
+            "x": "작은 클럽 회원 Matt Ward는 수레 50대 가운데 일부가 AI 음악을 쓴 게 아쉽다며 “우리는 카니발이 어디서 왔는지 잊어가고 있다”고 말했다. 위원회 비용이 주는 건 맞지만 “음악이 뒷전이 된 느낌”이라고 했다."
+          },
+          {
+            "t": "p",
+            "x": "Tim Bonser는 Gremlins의 AI 노래 제작을 거들었다. 그는 “음악가로서 꽤 흥미로우면서도 꽤 두렵다”며 “이 문제를 두고 꽤 치열하게 대화했고, 상당히 의견이 갈린다”고 말했다. “시간이 곧 돈이고, 요즘 카니발 예산은 빠듯하다.”"
+          },
+          {
+            "t": "p",
+            "x": "Bridgwater Guy Fawkes Carnival 주최 측은 AI-generated 음악이 “의견을 갈라놓았다”는 점은 이해하지만 이는 각 클럽이 정할 일이라고 밝혔다. 카니발은 “늘 새로운 기술을 받아들여 왔다”며 클럽들이 주제를 표현할 “창작의 자유를 누려야 한다”고도 했다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "AI music on carnival carts\ndivides Bridgwater",
+          "body": "Some Bridgwater Carnival clubs scored their illuminated carts with AI music, which organisers said divided opinions.",
+          "mini_headline": "AI music splits a carnival",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/8fec/live/880e71a0-dd31-11f1-ab46-9fae224bbf6f.jpg.webp",
+                "cap": "Several carts included AI-generated music during the Bridgwater Carnival in 2026"
+              },
+              {
+                "t": "p",
+                "x": "The use of artificial intelligence (AI) in music during a series of carnival processions is \"disappointing\", a club member has said. About 150,000 people descended on Bridgwater, Somerset, to watch the procession of illuminated carts."
+              },
+              {
+                "t": "p",
+                "x": "Matt Ward, a member of one of the smaller clubs, said it was a shame that some of the 50 carts used AI music, adding: \"We're kind of forgetting where carnival came from.\" He said it reduces the cost for the committees, but \"the music kind of feels like an afterthought\"."
+              },
+              {
+                "t": "p",
+                "x": "Tim Bonser helped Gremlins produce its AI song. \"As a musician it's quite exciting and it's also quite terrifying,\" he said. \"We've had quite intense conversations about it and it is pretty divisive.\" \"Time is money and carnival budgets are tight these days.\""
+              },
+              {
+                "t": "p",
+                "x": "Organisers of the Bridgwater Guy Fawkes Carnival said they appreciated AI-generated music \"divided opinions\", but it is the individual clubs' decision, adding that carnival has \"always embraced new technology\" and clubs \"should have the creative freedom\" to present their themes."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "카니발 수레 AI 음악,\nBridgwater 분열",
+          "body": "Bridgwater Carnival 일부 클럽의 AI 음악에 의견이 갈렸다.",
+          "mini_headline": "AI 음악에 갈린 카니발",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/8fec/live/880e71a0-dd31-11f1-ab46-9fae224bbf6f.jpg.webp",
+                "cap": "2026년 Bridgwater Carnival에서 여러 수레가 AI-generated 음악을 틀었다"
+              },
+              {
+                "t": "p",
+                "x": "카니발 행렬 곳곳에서 음악에 인공지능(AI)을 쓴 것을 두고 한 클럽 회원은 “실망스럽다”고 했다. Somerset주 Bridgwater에는 약 150,000명이 모여 불을 밝힌 수레 행렬을 지켜봤다."
+              },
+              {
+                "t": "p",
+                "x": "작은 클럽 회원 Matt Ward는 수레 50대 가운데 일부가 AI 음악을 쓴 게 아쉽다며 “우리는 카니발이 어디서 왔는지 잊어가고 있다”고 말했다. 위원회 비용이 주는 건 맞지만 “음악이 뒷전이 된 느낌”이라고 했다."
+              },
+              {
+                "t": "p",
+                "x": "Tim Bonser는 Gremlins의 AI 노래 제작을 거들었다. 그는 “음악가로서 꽤 흥미로우면서도 꽤 두렵다”며 “이 문제를 두고 꽤 치열하게 대화했고, 상당히 의견이 갈린다”고 말했다. “시간이 곧 돈이고, 요즘 카니발 예산은 빠듯하다.”"
+              },
+              {
+                "t": "p",
+                "x": "Bridgwater Guy Fawkes Carnival 주최 측은 AI-generated 음악이 “의견을 갈라놓았다”는 점은 이해하지만 이는 각 클럽이 정할 일이라고 밝혔다. 카니발은 “늘 새로운 기술을 받아들여 왔다”며 클럽들이 주제를 표현할 “창작의 자유를 누려야 한다”고도 했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "カーニバルのAI音楽\nBridgwaterで賛否",
+          "body": "Bridgwater Carnivalの一部クラブが山車にAI音楽を使い、賛否が分かれた。",
+          "mini_headline": "AI音楽でカーニバルに賛否",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/8fec/live/880e71a0-dd31-11f1-ab46-9fae224bbf6f.jpg.webp",
+                "cap": "2026年のBridgwater Carnivalでは、いくつかの山車がAI-generatedの音楽を使った"
+              },
+              {
+                "t": "p",
+                "x": "一連のカーニバル・パレードで音楽に人工知能(AI)が使われたことは「残念だ」と、あるクラブの会員は語った。約150,000人がSomersetのBridgwaterに詰めかけ、電飾で彩られた山車のパレードを見物した。"
+              },
+              {
+                "t": "p",
+                "x": "小規模クラブの一つに所属するMatt Wardは、50台の山車の一部がAI音楽を使ったのは残念だとし、「カーニバルの原点を忘れかけている」と述べた。委員会のコストは下がるが、「音楽が後回しにされている感じがする」とも語った。"
+              },
+              {
+                "t": "p",
+                "x": "Tim BonserはGremlinsのAI楽曲制作を手伝った。「ミュージシャンとしてはかなりワクワクするし、かなり恐ろしくもある」と彼は言う。「このことではかなり激しい議論をしてきたし、賛否はかなり分かれる」「時は金なりで、最近のカーニバルの予算は厳しい」"
+              },
+              {
+                "t": "p",
+                "x": "Bridgwater Guy Fawkes Carnivalの主催者は、AI-generatedの音楽が「意見を二分した」ことは理解しているが、判断は各クラブに委ねられているとした。そのうえで、カーニバルは「常に新しい技術を取り入れてきた」とし、クラブはテーマを表現する「創作の自由を持つべきだ」と付け加えた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "嘉年华彩车用AI音乐\nBridgwater意见分歧",
+          "body": "Bridgwater Carnival部分俱乐部为彩车配上AI音乐，主办方称引发意见分歧。",
+          "mini_headline": "AI音乐令嘉年华意见分歧",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/8fec/live/880e71a0-dd31-11f1-ab46-9fae224bbf6f.jpg.webp",
+                "cap": "2026年Bridgwater Carnival期间，多辆彩车使用了AI-generated音乐"
+              },
+              {
+                "t": "p",
+                "x": "一名俱乐部成员表示，一系列嘉年华游行中在音乐上使用人工智能(AI)“令人失望”。约150,000人涌入Somerset的Bridgwater，观看灯光彩车游行。"
+              },
+              {
+                "t": "p",
+                "x": "一家小型俱乐部的成员Matt Ward说，50辆彩车中有一些使用了AI音乐，这很可惜，并补充道：“我们有点忘了嘉年华从何而来。”他表示，这为各委员会降低了成本，但“音乐有点像是事后才想到的”。"
+              },
+              {
+                "t": "p",
+                "x": "Tim Bonser帮助Gremlins制作了其AI歌曲。“作为音乐人，这相当令人兴奋，也相当可怕，”他说，“我们为此进行过相当激烈的讨论，分歧很大。”“时间就是金钱，如今嘉年华的预算很紧。”"
+              },
+              {
+                "t": "p",
+                "x": "Bridgwater Guy Fawkes Carnival的主办方表示，他们理解AI-generated音乐“引发了意见分歧”，但这由各俱乐部自行决定，并补充说嘉年华“一直拥抱新技术”，俱乐部“应当拥有创作自由”来呈现各自主题。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Música con AI en las carrozas\ndivide a Bridgwater",
+          "body": "Algunos clubes del Bridgwater Carnival usaron música con AI en sus carrozas iluminadas, algo que dividió opiniones.",
+          "mini_headline": "La música con AI divide un carnaval",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/8fec/live/880e71a0-dd31-11f1-ab46-9fae224bbf6f.jpg.webp",
+                "cap": "Varias carrozas incluyeron música AI-generated durante el Bridgwater Carnival de 2026"
+              },
+              {
+                "t": "p",
+                "x": "El uso de inteligencia artificial (AI) en la música durante una serie de desfiles de carnaval es \"decepcionante\", según un miembro de un club. Unas 150,000 personas acudieron a Bridgwater, en Somerset, para ver el desfile de carrozas iluminadas."
+              },
+              {
+                "t": "p",
+                "x": "Matt Ward, miembro de uno de los clubes más pequeños, dijo que era una pena que algunas de las 50 carrozas usaran música con AI, y añadió: \"Estamos olvidando un poco de dónde viene el carnaval\". Señaló que reduce los costes para los comités, pero que \"la música parece algo secundario\"."
+              },
+              {
+                "t": "p",
+                "x": "Tim Bonser ayudó a Gremlins a producir su canción con AI. \"Como músico, es bastante emocionante y también bastante aterrador\", dijo. \"Hemos tenido conversaciones bastante intensas sobre ello y genera mucha división\". \"El tiempo es dinero y hoy los presupuestos del carnaval son ajustados\"."
+              },
+              {
+                "t": "p",
+                "x": "Los organizadores del Bridgwater Guy Fawkes Carnival dijeron que entienden que la música AI-generated \"dividió opiniones\", pero que la decisión corresponde a cada club, y añadieron que el carnaval \"siempre ha adoptado las nuevas tecnologías\" y que los clubes \"deberían tener libertad creativa\" para presentar sus temas."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "카니발 수레 AI 음악,\nBridgwater 분열",
+          "body": "Bridgwater Carnival 일부 클럽이 AI 음악을 써 의견이 갈렸다.",
+          "mini_headline": "AI 음악에 갈린 카니발",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/8fec/live/880e71a0-dd31-11f1-ab46-9fae224bbf6f.jpg.webp",
+                "cap": "2026년 Bridgwater Carnival에서 여러 수레가 AI-generated 음악을 사용했다"
+              },
+              {
+                "t": "p",
+                "x": "일련의 카니발 행렬에서 음악에 인공지능(AI)을 쓴 것은 “실망스럽다”고 한 클럽 회원이 말했다. 약 150,000명이 Somerset주 Bridgwater를 찾아 불을 밝힌 수레 행렬을 지켜봤다."
+              },
+              {
+                "t": "p",
+                "x": "작은 클럽 중 한 곳의 회원인 Matt Ward는 50대의 수레 가운데 일부가 AI 음악을 쓴 것이 아쉽다며 “우리는 카니발이 어디서 왔는지 잊어가고 있다”고 말했다. 그는 이것이 위원회의 비용을 줄여주지만 “음악이 뒷전이 된 느낌”이라고 했다."
+              },
+              {
+                "t": "p",
+                "x": "Tim Bonser는 Gremlins의 AI 노래 제작을 도왔다. 그는 “음악가로서 꽤 흥미로우면서도 꽤 두렵다”며 “이 문제를 두고 꽤 치열하게 대화했고, 상당히 의견이 갈린다”고 말했다. “시간이 곧 돈이고, 요즘 카니발 예산은 빠듯하다.”"
+              },
+              {
+                "t": "p",
+                "x": "Bridgwater Guy Fawkes Carnival 주최 측은 AI-generated 음악이 “의견을 갈라놓았다”는 점을 이해한다면서도, 이는 각 클럽이 결정할 일이라고 밝혔다. 이어 카니발은 “늘 새로운 기술을 받아들여 왔다”며 클럽들은 주제를 표현할 “창작의 자유를 누려야 한다”고 덧붙였다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "カーニバルのAI音楽\nBridgwaterで賛否",
+          "body": "Bridgwater Carnivalの一部クラブが山車にAI音楽を使い、賛否が分かれた。",
+          "mini_headline": "AI音楽でカーニバルに賛否",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/8fec/live/880e71a0-dd31-11f1-ab46-9fae224bbf6f.jpg.webp",
+                "cap": "2026年のBridgwater Carnivalでは、いくつかの山車がAI-generatedの音楽を使った"
+              },
+              {
+                "t": "p",
+                "x": "一連のカーニバル・パレードで音楽に人工知能(AI)が使われたことは「残念だ」と、あるクラブの会員は語った。約150,000人がSomersetのBridgwaterに詰めかけ、電飾で彩られた山車のパレードを見物した。"
+              },
+              {
+                "t": "p",
+                "x": "小規模クラブの一つに所属するMatt Wardは、50台の山車の一部がAI音楽を使ったのは残念だとし、「カーニバルの原点を忘れかけている」と述べた。委員会のコストは下がるが、「音楽が後回しにされている感じがする」とも語った。"
+              },
+              {
+                "t": "p",
+                "x": "Tim BonserはGremlinsのAI楽曲制作を手伝った。「ミュージシャンとしてはかなりワクワクするし、かなり恐ろしくもある」と彼は言う。「このことではかなり激しい議論をしてきたし、賛否はかなり分かれる」「時は金なりで、最近のカーニバルの予算は厳しい」"
+              },
+              {
+                "t": "p",
+                "x": "Bridgwater Guy Fawkes Carnivalの主催者は、AI-generatedの音楽が「意見を二分した」ことは理解しているが、判断は各クラブに委ねられているとした。そのうえで、カーニバルは「常に新しい技術を取り入れてきた」とし、クラブはテーマを表現する「創作の自由を持つべきだ」と付け加えた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "嘉年华彩车用AI音乐\nBridgwater意见分歧",
+          "body": "Bridgwater Carnival部分俱乐部为彩车配上AI音乐，主办方称引发意见分歧。",
+          "mini_headline": "AI音乐令嘉年华意见分歧",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/8fec/live/880e71a0-dd31-11f1-ab46-9fae224bbf6f.jpg.webp",
+                "cap": "2026年Bridgwater Carnival期间，多辆彩车使用了AI-generated音乐"
+              },
+              {
+                "t": "p",
+                "x": "一名俱乐部成员表示，一系列嘉年华游行中在音乐上使用人工智能(AI)“令人失望”。约150,000人涌入Somerset的Bridgwater，观看灯光彩车游行。"
+              },
+              {
+                "t": "p",
+                "x": "一家小型俱乐部的成员Matt Ward说，50辆彩车中有一些使用了AI音乐，这很可惜，并补充道：“我们有点忘了嘉年华从何而来。”他表示，这为各委员会降低了成本，但“音乐有点像是事后才想到的”。"
+              },
+              {
+                "t": "p",
+                "x": "Tim Bonser帮助Gremlins制作了其AI歌曲。“作为音乐人，这相当令人兴奋，也相当可怕，”他说，“我们为此进行过相当激烈的讨论，分歧很大。”“时间就是金钱，如今嘉年华的预算很紧。”"
+              },
+              {
+                "t": "p",
+                "x": "Bridgwater Guy Fawkes Carnival的主办方表示，他们理解AI-generated音乐“引发了意见分歧”，但这由各俱乐部自行决定，并补充说嘉年华“一直拥抱新技术”，俱乐部“应当拥有创作自由”来呈现各自主题。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Música con AI en las carrozas\ndivide a Bridgwater",
+          "body": "Algunos clubes del Bridgwater Carnival usaron música con AI en sus carrozas iluminadas, algo que dividió opiniones.",
+          "mini_headline": "La música con AI divide un carnaval",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/8fec/live/880e71a0-dd31-11f1-ab46-9fae224bbf6f.jpg.webp",
+                "cap": "Varias carrozas incluyeron música AI-generated durante el Bridgwater Carnival de 2026"
+              },
+              {
+                "t": "p",
+                "x": "El uso de inteligencia artificial (AI) en la música durante una serie de desfiles de carnaval es \"decepcionante\", según un miembro de un club. Unas 150,000 personas acudieron a Bridgwater, en Somerset, para ver el desfile de carrozas iluminadas."
+              },
+              {
+                "t": "p",
+                "x": "Matt Ward, miembro de uno de los clubes más pequeños, dijo que era una pena que algunas de las 50 carrozas usaran música con AI, y añadió: \"Estamos olvidando un poco de dónde viene el carnaval\". Señaló que reduce los costes para los comités, pero que \"la música parece algo secundario\"."
+              },
+              {
+                "t": "p",
+                "x": "Tim Bonser ayudó a Gremlins a producir su canción con AI. \"Como músico, es bastante emocionante y también bastante aterrador\", dijo. \"Hemos tenido conversaciones bastante intensas sobre ello y genera mucha división\". \"El tiempo es dinero y hoy los presupuestos del carnaval son ajustados\"."
+              },
+              {
+                "t": "p",
+                "x": "Los organizadores del Bridgwater Guy Fawkes Carnival dijeron que entienden que la música AI-generated \"dividió opiniones\", pero que la decisión corresponde a cada club, y añadieron que el carnaval \"siempre ha adoptado las nuevas tecnologías\" y que los clubes \"deberían tener libertad creativa\" para presentar sus temas."
               }
             ]
           }

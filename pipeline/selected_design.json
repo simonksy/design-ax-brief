@@ -1,101 +1,101 @@
 {
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "section": "design",
   "items": [
     {
-      "title": "Anthropic's Claude Fable 5.2 doesn't generate images, it paints them",
-      "url": "https://the-decoder.com/anthropics-claude-fable-5-2-doesnt-generate-images-it-paints-them/",
+      "title": "Claude now builds interactive websites inside canvas graphics, reviving the Flash era with real HTML",
+      "url": "https://the-decoder.com/claude-now-builds-interactive-websites-inside-canvas-graphics-reviving-the-flash-era-with-real-html/",
       "source": "The Decoder",
       "category": "render",
       "tool": "KeyShot",
       "accent": "#f5a623",
       "motif": "sphere",
-      "published_iso": "2026-11-15T15:42:03Z",
-      "og_image": "https://the-decoder.com/wp-content/uploads/2026/11/claude_fable_5.2_painting.png",
-      "excerpt": "Instead of computing pixels, Claude Fable 5.2 writes Python code that places hundreds of thousands of simulated brushstrokes on a virtual canvas, complete with bristle texture and paint application — a code-driven painting pipeline rather than a diffusion image model.",
-      "rationale": "A new way to make images: code-driven brushstroke painting instead of diffusion. The brief assigns this creative-tool angle to design."
+      "published_iso": "2026-11-16T16:10:22+00:00",
+      "og_image": "https://the-decoder.com/wp-content/uploads/2026/11/claude_gemini_pro-scaled.png",
+      "excerpt": "Claude can now embed text, buttons, and other web elements into complex graphics and 3D effects.",
+      "rationale": "New Claude capability: real HTML elements live inside canvas/3D graphics, which opens expressive interactive web layouts designers can prototype directly."
     },
     {
-      "title": "Config India 2026: Figma deep dive: Nothing lost in translation, from canvas to production",
-      "url": "https://www.youtube.com/watch?v=87SISSxj6R4",
-      "source": "Figma (YouTube)",
-      "category": "social",
-      "tool": "Social",
-      "accent": "#ff2d55",
-      "motif": "frame",
-      "published_iso": "2026-11-15T18:36:14Z",
-      "og_image": "https://i.ytimg.com/vi/87SISSxj6R4/maxresdefault.jpg",
-      "excerpt": "Deep dive on closing the prototype-to-production gap with design-system context, advanced MCP techniques, code layers and specs in Figma.",
-      "rationale": "Hands-on Figma session on MCP, code layers and specs that designers can apply to handoff tomorrow. It is a separate Config India session from the 11-12 card."
-    },
-    {
-      "title": "AI's Role in the Creative Process",
-      "url": "https://www.figma.com/blog/ai-role-in-the-creative-process/",
-      "source": "Figma Blog",
+      "title": "Lovable introduces Drafts: explore any idea in parallel without touching what's live",
+      "url": "https://lovable.dev/blog/introducing-drafts",
+      "source": "Lovable",
       "category": "figma",
       "tool": "Figma",
       "accent": "#0070f3",
       "motif": "frame",
-      "published_iso": "2026-11-13T20:00:00Z",
-      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/4791f6c2acbf0d3121abf8a8f3e7aa3c6b7c4ae9-3264x1836.png?w=1200&q=70&fit=max&auto=format",
-      "excerpt": "Figma examines which parts of the creative process designers are willing to hand to AI and which they insist on keeping for themselves.",
-      "rationale": "Figma's own account of which creative tasks designers hand to AI and which they keep. Useful for deciding where to automate."
+      "published_iso": "2026-11-16T13:30:00Z",
+      "og_image": "https://assets.lovable.dev/content/news/covers/introducing-drafts-2026-11-15.png",
+      "excerpt": "Now you and your team can explore different versions of your project in parallel while keeping your live app unchanged.",
+      "rationale": "Primary-source feature launch: parallel design variants on a vibe-coded app without touching production, which changes how designers explore in AI builders."
     },
     {
-      "title": "AI makes scanned buildings searchable",
-      "url": "https://aecmag.com/cafm/ai-makes-scanned-buildings-searchable/",
-      "source": "AEC Magazine",
-      "category": "cad",
-      "tool": "Text-to-CAD",
-      "accent": "#7928ca",
-      "motif": "cube",
-      "published_iso": "2026-11-13T11:17:46Z",
-      "og_image": "https://aecmag.com/wp-content/uploads/2026/11/qentin.jpg",
-      "excerpt": "qentin uses AI to make reality-captured buildings searchable, letting facility managers find assets, check safety features and explore digital twins by query.",
-      "rationale": "New product that lets people search reality-capture scans and digital twins with natural-language queries. A concrete AEC/CAD workflow change."
+      "title": "Astryx is now available in v0",
+      "url": "https://astryx.atmeta.com/blog/astryx-is-now-available-in-v0",
+      "source": "Astryx (Meta)",
+      "category": "tokens",
+      "tool": "Design Tokens",
+      "accent": "#2ec5c5",
+      "motif": "swatch",
+      "published_iso": "2026-11-14T00:00:00Z",
+      "og_image": "https://astryx.atmeta.com/blog/astryx-is-now-available-in-v0/cover.png",
+      "excerpt": "Astryx is now available in v0 as a design-system skill, bringing guidance, components, examples, and templates into context as v0 builds.",
+      "rationale": "Meta's design system ships as a v0 skill, so generated UI follows real components and guidance; directly actionable for design-system teams."
     },
     {
-      "title": "SimScale launches Engineering AI Blueprint",
-      "url": "https://www.engineering.com/simscale-launches-engineering-ai-blueprint/",
-      "source": "Engineering.com",
-      "category": "cad",
-      "tool": "Text-to-CAD",
-      "accent": "#3b6bff",
-      "motif": "cube",
-      "published_iso": "2026-11-13T08:39:51Z",
-      "og_image": "https://www.engineering.com/wp-content/uploads/2026/11/V-model-graphic.jpg",
-      "excerpt": "SimScale's Engineering AI Blueprint bundles NVIDIA tools and a framework for moving AI-driven simulation and design-engineering workflows from pilots to broader deployment.",
-      "rationale": "New launch that packages AI simulation for design-engineering teams moving past pilots. It comes from an on-whitelist CAD outlet."
+      "title": "Transform notes, research, and sources into interactive sites with Gemini Notebook",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/interactive-sites/",
+      "source": "Google",
+      "category": "workflow",
+      "tool": "AI Workflow",
+      "accent": "#ff5a4d",
+      "motif": "frame",
+      "published_iso": "2026-11-16T16:00:00Z",
+      "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/blog_hero_periodic_table3_2784x1566.max-1440x810.png",
+      "excerpt": "Gemini Notebook now turns your research into interactive sites. Build project trackers and visual dashboards with Google. Create your site today.",
+      "rationale": "New Gemini Notebook output type (interactive sites/dashboards from research), distinct from the 10-20 slides/videos feature; useful for research-to-artifact workflows."
+    },
+    {
+      "title": "How 1Password uses Figma Make to design for trust and certainty",
+      "url": "https://www.figma.com/blog/1password-figma-make/",
+      "source": "Figma Blog",
+      "category": "figma",
+      "tool": "Figma",
+      "accent": "#eb367f",
+      "motif": "frame",
+      "published_iso": "2026-11-16T18:03:00Z",
+      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/bbbd715863ae9596492a6b6eda14af49a9b802de-2400x1260.png?w=1200&q=70&fit=max&auto=format",
+      "excerpt": "From autofill to AI agent approvals, every 1Password interaction counts. Here's how the design team uses Figma Make to design moments users trust.",
+      "rationale": "Concrete team case study of prototyping AI-agent approval flows in Figma Make; practical patterns for designing trust in agentic UX."
     }
   ],
   "dedup": {
     "checks": {
-      "https://the-decoder.com/anthropics-claude-fable-5-2-doesnt-generate-images-it-paints-them/": {
+      "https://the-decoder.com/claude-now-builds-interactive-websites-inside-canvas-graphics-reviving-the-flash-era-with-real-html/": {
+        "verdict": "new",
+        "nearest": "https://www.cgchannel.com/2026/11/adobe-releases-after-effects-27-0/",
+        "new_action": ""
+      },
+      "https://lovable.dev/blog/introducing-drafts": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
       },
-      "https://www.youtube.com/watch?v=87SISSxj6R4": {
-        "verdict": "new",
-        "nearest": "https://www.figma.com/blog/build-by-design/",
-        "new_action": ""
-      },
-      "https://www.figma.com/blog/ai-role-in-the-creative-process/": {
-        "verdict": "new",
-        "nearest": "https://www.figma.com/blog/the-tldr-on-figma-weave/",
-        "new_action": ""
-      },
-      "https://aecmag.com/cafm/ai-makes-scanned-buildings-searchable/": {
+      "https://astryx.atmeta.com/blog/astryx-is-now-available-in-v0": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
       },
-      "https://www.engineering.com/simscale-launches-engineering-ai-blueprint/": {
+      "https://blog.google/innovation-and-ai/products/gemini-notebook/interactive-sites/": {
         "verdict": "new",
-        "nearest": "https://www.engineering.com/allplan-max-2027-launched-for-engineering-workflows/",
+        "nearest": "https://blog.google/innovation-and-ai/products/gemini-notebook/co-create-slides-videos/",
+        "new_action": ""
+      },
+      "https://www.figma.com/blog/1password-figma-make/": {
+        "verdict": "new",
+        "nearest": "https://www.figma.com/blog/how-to-put-your-design-system-to-work-with-the-figma-agent/",
         "new_action": ""
       }
     },
-    "note": "Dropped as follow-ups or same-story repeats: Creative Bloq 'Adobe Firefly was supposed to be the safe AI option' is commentary on the third-party-model move already covered by the 11-11 Adobe MAX card (news.adobe.com), with no new action. Config India 'What we keep in creative work' (Weave) repeats the Weave story that ran 11-03 and overlaps the Figma blog pick. Config India 'Better together: handoff to handshake' is the same designers-shipping-code thread as the 11-12 Config India card. Matt Wolfe's weekly roundup rehashes Fable 5.2, Adobe MAX and Claude updates. Excluded per the brief: Runway Praxis-1, NVIDIA SOMA Retargeter and the HF/NVIDIA SimReady pick-and-place post (robotics, not design). Not picked for score or diversity: UX Collective 'Decision theatre' (opinion essay), three DEV posts (the renders QC post is semi-promotional; the brainstorm skill and expert-roles posts are personal write-ups), the AI Advantage Claude Whiteboards walkthrough (secondary, and it may overlap another section), and the Higgsfield MCP tutorial (affiliate link). Outlets: The Decoder, Figma YouTube, Figma blog, AEC Magazine and Engineering.com, so Figma has 2. Categories: render, social, figma, and cad twice (the second cad pick uses palette accent #3b6bff). published_urls.json could not be grepped (Read-only tools). The brief's cross-section assignments explicitly clear the Fable 5.2 Decoder item for design."
+    "note": "No candidate was a repeat of the 30-day history. Claude canvas feature differs from the 11-16 Claude Fable 5.2 painting card and the 11-11 interactive connectors card; Gemini Notebook interactive sites is a different feature release from the 10-20 slides/videos card; 1Password Figma Make is a separate customer story from the 10-24 design-system post and the 10-23 Lufthansa Make story. Excluded: Pearl Abyss/Wccftech (cross-section brief: games only); CNET Adobe MAX slop piece and Creative Bloq Firefly trust essay (commentary on the Adobe MAX launch already published 11-11); Runway Praxis-1 (robotics, not design); Vercel agent evals (developer testing, weak design angle); UX Collective 'Why bother paying for software' (member-only opinion); DEV 'developer or designer' and 'AI loves purple' (lower-credibility blog posts); Parametric Architecture critic essay and MarketScale AIA survey (lower actionability); Claude whiteboards YouTube explainer (secondary walkthrough). Cross-section: published_urls.json is too large to read in full without grep. The picks dated 11-16 came out after the previous run's harvest, so they cannot already be published. Astryx is specific to design systems and is not on the brief's collision list."
   }
 }

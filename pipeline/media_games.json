@@ -1,7 +1,27 @@
-{"date":"2026-11-16","section":"games","media":[
-{"id":"xbox-helix-neural-rendering","type":"image","src":"pipeline/media/xbox-helix-neural-rendering.jpg"},
-{"id":"fable52-nephew-brawler","type":"image","src":"pipeline/media/fable52-nephew-brawler.jpg"},
-{"id":"unity-korea-ai-three-paths","type":"video","src":"pipeline/media/unity-korea-ai-three-paths.mp4","poster":"pipeline/media/unity-korea-ai-three-paths.jpg"},
-{"id":"ncai-varco-pangyo-builders","type":"image","src":"pipeline/media/ncai-varco-pangyo-builders.jpg"},
-{"id":"unity-ai-project-tips","type":"image","src":"pipeline/media/unity-ai-project-tips.png"}
-]}
+{
+  "date": "2026-11-17",
+  "section": "games",
+  "media": [
+    {
+      "id": "unity-cli-ga-release",
+      "type": "video",
+      "src": "pipeline/media/unity-cli-ga-release.mp4",
+      "poster": "pipeline/media/unity-cli-ga-release.jpg"
+    },
+    {
+      "id": "games-unions-genai-manifesto",
+      "type": "image",
+      "src": "pipeline/media/games-unions-genai-manifesto.jpg"
+    },
+    {
+      "id": "ai-mensetsukan-steam-game",
+      "type": "image",
+      "src": "pipeline/media/ai-mensetsukan-steam-game.jpg"
+    },
+    {
+      "id": "gamemeca-ai-clone-precedent",
+      "type": "image",
+      "src": "pipeline/media/gamemeca-ai-clone-precedent.jpg"
+    }
+  ]
+}

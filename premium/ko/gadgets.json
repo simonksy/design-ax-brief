@@ -17694,6 +17694,165 @@
           "x": "파라미터 이십억 개 규모인 GR00T 2 Turbo는 Jetson Thor를 얹은 Unitree G1 휴머노이드에서 온보드로 돌아가고 예측 한 번에 124밀리초가 걸린다. 풀사이즈 모델은 Nexuni, Foxconn, Siemens가 시험 중이다. 모델 가중치와 X-Adapt 레시피는 12월에 공개된다."
         }
       ]
+    },
+    "gadgets/macos-273-ai-agent-warning": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Apple은 최신 macOS 27.3 베타에서 Mac 사용자가 데이터를 공유하고 앱에 접근 권한을 주는 방식을 더 세밀하게 통제하게 했다. AI 에이전트를 쓰는 앱도 대상이다. Apple은 오늘 개발자들에게 Full Disk Access API와 Device Control and Data Access API의 변경 예정 사항을 알렸다."
+        },
+        {
+          "t": "img",
+          "src": "https://images.macrumors.com/t/RcnvC03vxGzanG38_QS1Fc9J62A=/400x0/article-new/2026/11/claude-warning.jpg?lossy",
+          "cap": "claude 경고"
+        },
+        {
+          "t": "p",
+          "x": "Device Control and Data Access 설정은 System & App Protection Override와 Accessibility 두 갈래다. 사용자는 목록에서 권한을 요청한 앱을 골라 허용한다. Apple은 워크플로에 꼭 필요한 앱이나 폴더에만 접근을 열어 두라고 권한다. 앱이 받게 될 데이터는 사용자에게 더 분명히 알리고, 앱은 무제한 접근 대신 매번 허락을 구하며, 한 앱이 다른 앱을 제어하면 메뉴 막대에 투명성 표시기가 뜬다."
+        },
+        {
+          "t": "img",
+          "src": "https://images.macrumors.com/t/XEyVh7VFnBpfoKyJ-wxGJUrYFFU=/2500x/article-new/2026/11/claude-warning-2-2.jpg",
+          "cap": "claude 경고 2"
+        },
+        {
+          "t": "p",
+          "x": "이미 알려진 앱은 별도 인타이틀먼트 없이도 지금처럼 쓸 수 있고, macOS 27.3 이전에 준 권한도 그대로 유효하다. Apple은 지난달 AI 에이전트가 부르는 위험을 이유로 Full Disk Access에 “추가 통제 장치”를 더하겠다고 밝혔다. 일부 개발자가 파일, 메일, 메시지, 방문 기록 등이 노출될 수 있는 방식으로 이 권한을 쓰고 있다는 경고도 덧붙였다."
+        }
+      ]
+    },
+    "gadgets/halliday-g2-glasses-review": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/wVu3i3WESBzbZxWLscxMMA-2560-80.jpg",
+          "cap": "(이미지 출처: © Future / Tom's Guide)"
+        },
+        {
+          "t": "p",
+          "x": "Tom's Guide Verdict: Halliday G2 AI 스마트 안경은 올바른 방향으로 한 걸음 나아갔다. 카메라 없는 안경에 쓸 만한 AI 기능을 담았고, 착용감은 편하지만 디자인은 두툼하다(투박하기도 하다). 다만 경쟁 제품과 경험이 거의 같고, 오픈형 오디오 품질은 기대에 못 미친다."
+        },
+        {
+          "t": "p",
+          "x": "듀얼 micro-LED 엔진과 웨이브가이드 광학계가 양쪽 렌즈에 녹색 도트 매트릭스 텍스트를 띄운다. 해상도는 눈당 600 x 300, 최대 밝기는 1,600니트다. 무게는 1.7온스로, 리뷰어가 써 본 AI 안경 중 착용감이 좋은 축에 든다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/buBdfVFApQx8tiQPUDTHQA.jpg",
+          "cap": "(이미지 출처: Future / Tom's Guide)"
+        },
+        {
+          "t": "p",
+          "x": "핵심 기능은 세 가지다. 실시간 AI 에이전트가 대화를 따라가며 요약·전사하고 조사까지 하는 Meeting Flow, 텔레프롬프터 기능 Cheatsheet, 45개 이상 언어를 지원하는 Translation이다. Halliday AI 어시스턴트는 질문에 빠르게 답한다. 그런데 기능 구성이 Even Realities G2의 Conversate, Teleprompt, Translate와 판박이다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/tzxstR6aTrhyeqcLwgATLA.jpg",
+          "cap": "(이미지 출처: Future / Tom's Guide)"
+        },
+        {
+          "t": "p",
+          "x": "리뷰어와 마주친 사람들은 모두 한눈에 스마트 안경임을 알아챘다. Stealth Mode는 녹색 텍스트를 어둡게 할 뿐이라 각도에 따라 여전히 보인다. 배터리는 약 12시간 간다. 같은 소매가의 Even Realities G2가 모든 면에서 낫다는 걸 생각하면 추천하기 어렵다."
+        }
+      ]
+    },
+    "gadgets/whalesbot-pubbo-kids-robot": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pubbo-hero.jpg",
+          "cap": "거실 바닥에 누워 WhalesBot의 AI 컴패니언 로봇 Pubbo를 안고 웃는 소녀"
+        },
+        {
+          "t": "p",
+          "x": "아이가 공룡을 소리 내어 묘사하면 몇 초 뒤 Pubbo가 작은 화면에 공룡을 그린다. 말대답도 한다. WhalesBot이 3~11세 아이용으로 만든 이 로봇은 미국(US)에서 $299.99에 막 판매를 시작했다."
+        },
+        {
+          "t": "p",
+          "x": "Pubbo의 얼굴은 3.5인치 터치스크린이라 말하거나 노래하거나 반응할 때마다 표정이 바뀐다. 듀얼 마이크로 질문을 듣고, 아이가 장난감이나 그림을 5MP 카메라에 비추면 그에 맞는 답을 들려준다."
+        },
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pubbo-body-create.jpg",
+          "cap": "아이가 말로 요청한 공룡 그림을 화면에 띄운 Pubbo"
+        },
+        {
+          "t": "p",
+          "x": "아이가 원하는 그림을 말로 설명하면 Pubbo가 그 말을 화면 속 이미지로 바꾼다. 종이 스케치를 보여 줘도 된다. 로봇이 스케치를 더 선명하고 완성도 있는 그림으로 다시 그린다. 날개를 달아 달라고 하면 공룡에 날개 한 쌍이 돋는다."
+        },
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pubbo-body-draw.jpg",
+          "cap": "아이의 종이 공룡 스케치를 화면에서 날개 달린 더 큰 공룡으로 바꾸는 Pubbo"
+        },
+        {
+          "t": "p",
+          "x": "Pubbo는 동화책 페이지에 맞춰 책도 읽어 준다. 무료 앱에는 800×800 밀리미터 코딩 맵과 함께 Challenge, Invention, 블록 코딩 모드가 있다. 대화는 실시간으로 점검하고 개인 정보는 표시하며, 위험한 주제가 나오면 대화를 멈출 수 있고 부모에게 알림이 간다. 5,200 mAh 배터리로 한 번 충전해 2시간 넘게 쓴다."
+        }
+      ]
+    },
+    "gadgets/qidi-makebuddy-smart5": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/qidi-smart5-hero.jpg",
+          "cap": "커피 테이블 위 QIDI MakeBuddy Smart5 3D 프린터 주위에 모인 가족"
+        },
+        {
+          "t": "p",
+          "x": "QIDI의 MakeBuddy Smart5는 작업대가 아닌 거실에 놓으려고 만든 완전 밀폐형 3D 프린터다. AI 카메라와 자동 베드 레벨링을 갖췄고, 휴대폰 사진을 출력 가능한 모델로 바꿔 주는 앱도 딸려 있다. 가격은 $349이고 11월 10일 판매를 시작했다."
+        },
+        {
+          "t": "p",
+          "x": "AI Image-to-3D 도구는 사진이나 그림으로 맞춤형 3D 모델을 만든다. 아이가 그린 반려견 스케치도 모델링 소프트웨어를 따로 배우지 않고 바로 프린터로 뽑아 피규어로 만들 수 있다."
+        },
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/qidi-smart5-body-ai.jpg",
+          "cap": "휴대폰 화면에 AI photo-to-3D 앱이 떠 있는 가운데 출력된 피규어를 든 두 아이"
+        },
+        {
+          "t": "p",
+          "x": "QIDI Joy 앱에는 바로 출력할 수 있는 모델 라이브러리와 STEAM 강좌가 들어 있고, 내장 카메라는 출력 과정을 모두 타임랩스로 남긴다. 닫힌 난연 챔버는 뜨거운 부품에 어린아이 손이 닿지 않게 막는다. G3, H12 HEPA, 활성탄을 겹친 필터 스택은 입자의 99.5%를 걸러낸다."
+        },
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/qidi-smart5-body-enclosed.jpg",
+          "cap": "MakeBuddy Smart5의 닫힌 유리문을 앞발로 건드리는 고양이"
+        },
+        {
+          "t": "p",
+          "x": "외장 안에는 600 mm/s 속도의 CoreXY 시스템이 들어 있고, 출력 공간은 180×180×180 mm다. 기본 구성으로는 PLA와 PETG를 단색으로 출력하며, 다색 출력에는 별매 QIDI Box 애드온이 필요하다. 상자에는 250 g PLA 스풀 네 개와 LED 조명·시계 메이커 키트가 함께 들어 있다."
+        }
+      ]
+    },
+    "gadgets/wired-oats-eink-pets": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6af4802ffbe5af43ea5dee0a/191:100/w_1280,c_limit/Screenshot%202026-11-11%20at%2014.47.44.png"
+        },
+        {
+          "t": "p",
+          "x": "식물에 물 주는 걸 깜빡했다. 잎이 누렇게 변하는 대신, 작은 화면 속 귀여운 식물 모양 펫이 슬프고 풀 죽은 얼굴을 한다. OATs, 즉 Object Agent Twins의 발상이다. 집 안의 평범한 사물과 짝을 이루도록 만든 마이크로 에이전트 AI 아바타가 작은 E Ink 디스플레이에 뜬다. 만든 사람은 Carnegie Mellon Future Interfaces Group의 박사(PhD) 과정 다섯 해째 학생 Daehwa Kim이다. Kim은 Detroit에서 열린 ACM Symposium on User Interface Software and Technology에서 이 프로젝트를 발표해 Honorable Mention 상 두 개를 받았다."
+        },
+        {
+          "t": "p",
+          "x": "OATs는 수분, 온도, 습도, 조도, 재실 여부, 움직임을 감지하는 센서에 E Ink 디스플레이를 붙인 구조다(메인 모듈은 약 $20). 스프라이트는 Google Gemini의 Nano Banana가 그리고, 웹 포털은 사물의 이름과 설명을 보고 “Positive”와 “Negative” 행동을 만든다. 스케이트보드를 며칠 내버려 두면 아바타가 슬프고 외로워 보이고, 올라타면 기뻐한다."
+        },
+        {
+          "t": "p",
+          "x": "배터리는 사흘에서 나흘 정도밖에 못 가고, 소음 센서를 켜면 하루 남짓이라 아직은 개념 증명 단계다. 테스터들은 OATs로 사물이 쓰이는지 확인했고, 작동 중인 3D 프린터 근처에 온 사람에게 경고를 띄웠다. 꾸준한 운동을 독려한 덤벨처럼 습관을 기록하기도 했다."
+        },
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6af4807c3969d4fffae9b294/master/w_1600%2Cc_limit/user_oat_setup.png"
+        },
+        {
+          "t": "p",
+          "x": "데모는 AI 의인화 논쟁도 불러왔다. 그래서 OATs의 상호작용은 E Ink 디스플레이 위 감정 표현으로 한정된다. Kim은 “의인화는 사람들의 행동 변화를 돕는 것처럼 어떤 면에서는 매우 유용할 수 있다”며 “하지만 이를 남용하지 않도록 분명히 조심해야 한다”고 말한다."
+        }
+      ]
     }
   }
 }

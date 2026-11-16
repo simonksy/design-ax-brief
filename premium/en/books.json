@@ -10722,6 +10722,130 @@
           "x": "The Taiwanese government is also running a pilot project to digitize publications and other language materials so they can be used more easily for AI training, and to pay copyright holders fair compensation. According to a report on the 9th by Taiwanese weekly Mirror Media, ruling-party legislator Chen Pei-yu said that “the government recently began inter-ministry consultations and is planning a ‘Traditional Language Materials Digitization Leading Plan.’” ‘Traditional language materials’ refers to publications and other materials produced in the past."
         }
       ]
+    },
+    "books/janefriedman-ai-writing-business": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://janefriedman.com/wp-content/uploads/2026/11/friedman_ai_improve_business-blogpost-1000x667.png",
+          "cap": "Photo by Negative Space"
+        },
+        {
+          "t": "p",
+          "x": "Discussions about AI use in the writing and publishing community have overwhelmingly focused on the negative effects of generative AI, fears around AI detection, and most of all AI training on copyrighted work without permission or licensing. Here are some of the things I’ve done with AI to support my business."
+        },
+        {
+          "t": "p",
+          "x": "Better sitewide search page: I described this challenge to Claude and asked it to research best practices for a WordPress site like mine. Claude gave me, in less than an hour, the sitewide search page I now have."
+        },
+        {
+          "t": "p",
+          "x": "JaneBot: a conversational chatbot that only references materials I’ve written and published. It uses retrieval-augmented generation (RAG). I built JaneBot in partnership with Soqratic."
+        },
+        {
+          "t": "img",
+          "src": "https://janefriedman.com/wp-content/uploads/2026/11/Screenshot-2026-11-14-at-1.03.21-PM-1000x731.png",
+          "cap": "Chart showing comment subjects, number of comments, how many are 50+ words, and median year of comments."
+        },
+        {
+          "t": "p",
+          "x": "Converting newsletter issues into single articles at my website used to be a 2–3 hour task; now it takes less than 15 minutes. Follow-up materials after Zoom-based classes: done in 5 minutes."
+        },
+        {
+          "t": "p",
+          "x": "It has given me back hours to spend on writing and researching the market. Is AI inevitable? Yes and no. It’s inevitable that your business partners (publishers, distributors, retailers, service and software providers) will be using AI."
+        }
+      ]
+    },
+    "books/scholarly-ai-usage-metrics": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A researcher asks an AI assistant, such as ChatGPT or Claude, to assess the evidence for a scientific claim. Behind the answer, the assistant requested the full text of thirty-two papers, retrieved passages from thirty, supplied six as evidence and cited three. The researcher clicked one link."
+        },
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/iStock-877002088-1024x694.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Scholarly publishing has spent decades building standardized measures of usage, most notably through COUNTER. AI assistants generate activity those measures were never designed to capture. COUNTER’s new AI reporting guidance draws on the SPUR Coalition‘s telemetry framework, while NISO is piloting a minimum metadata model for provenance and attribution."
+        },
+        {
+          "t": "p",
+          "x": "Should everything an AI assistant does with scholarly content count as usage in the same sense? We don’t think so. We propose four overlapping ledgers: usage, demand, contribution and engagement."
+        },
+        {
+          "t": "p",
+          "x": "From October 7 to November 6, 2026, assistants attempted 7.2 million reads of publisher content through Scite, of which 3.7 million were refused full text because AI-access permission was not available through that service, a refusal rate of 51%."
+        },
+        {
+          "t": "p",
+          "x": "We would like every AI usage report to carry a coverage statement: which services are included, which events each can observe, how the counts are derived, and where the gaps remain."
+        }
+      ]
+    },
+    "books/scholarly-governed-ai-practice": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "AI has spread through scholarly publishing faster than most publishers can govern it. The Society for Scholarly Publishing’s (SSP) 2026 AI in Scholarly Publishing Pulse Check found that most organizations have at least one active AI use case. Only 3% feel fully prepared."
+        },
+        {
+          "t": "p",
+          "x": "How can a publisher make AI useful across the organization while keeping control of confidential information, editorial decisions, and accountability? Gregory Simmons took up that question in a recent presentation to SSP’s AI in Scholarly Publishing Community of Interest (CoIN)."
+        },
+        {
+          "t": "p",
+          "x": "Greg: AI can summarize content, classify submissions, support language improvement, spot patterns, and assist with screening. People still make the calls on significance, ethics, quality, and publication."
+        },
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/Figure-1-1024x926.png",
+          "cap": "Figure 1. Governance, execution, and protection work together as the operational core of a safe AI approach."
+        },
+        {
+          "t": "p",
+          "x": "Greg: Start with purpose, then strategy, governance, and technology, in that order. Organizations often do it in reverse. They find a new tool and then go looking for a reason to use it."
+        },
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/Figure-2-1024x931.png",
+          "cap": "Figure 2. AI readiness spans six dimensions, and technology is only one of them."
+        }
+      ]
+    },
+    "books/books-sinchun-ai-manuscript-ban": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://wimg.munhwa.com/news/cms/2026/11/13/news-p.v1.20261113.21eb02ee52ec4296855b46c84ebc89cd_P1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "“My apologies in advance.” While preparing this year's Sinchun Munye, we asked the judges we had lined up for their understanding early on. With the Sinchun Munye season approaching, we had to start by apologizing for the flood of manuscripts to come. These days, the reporters who run daily newspapers' Sinchun Munye contests say their biggest worry is the rise of ‘AI manuscripts’ driven by generative artificial intelligence (AI). Each outlet is preparing carefully, adding its own prohibition clauses."
+        },
+        {
+          "t": "p",
+          "x": "It started last year. The Munhwa Ilbo Sinchun Munye received more than 1000 more entries than the year before. At the time some guessed it was a ‘literature boom’ or a text-hip craze sparked by author Han Kang's Nobel Prize in Literature, but the prevailing view now is that it reflects the influence of AI writing."
+        },
+        {
+          "t": "p",
+          "x": "The concern is not the newspapers' alone. Major literary publishers that select literary prizes every year are busy too. For next year, most say their new-writer prizes will ban AI use entirely, while prizes for established writers will allow some use but require proof that the main ideas and outline were created by a ‘human’."
+        },
+        {
+          "t": "img",
+          "src": "https://wimg.munhwa.com/news/cms/2026/11/13/news-p.v1.20261113.cc65030b449144b4945454fc8df11877_P3.webp"
+        },
+        {
+          "t": "p",
+          "x": "This reflects trust in established writers, but also physical limits. For new-writer prizes with no eligibility restrictions, allowing AI manuscripts would bring in so many works that judging itself would become impossible. Abroad, the controversy is already in full swing. A novel by author Tellison Aurélien, which had made the round-1 shortlists of all 4 major French literary prizes, was dropped from the Prix Goncourt shortlist after suspicions of AI use were raised, and its publisher then ended the contract."
+        },
+        {
+          "t": "p",
+          "x": "It is getting harder both to stop AI writing entirely and to tell it apart from human writing. Still, facing this singularity, between practical constraints and hopes for pure creative work, we have made this decision for now. The Munhwa Ilbo will not accept any AI-written manuscripts in this Sinchun Munye. This year's submission deadline is December 2."
+        }
+      ]
     }
   }
 }

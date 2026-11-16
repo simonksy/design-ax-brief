@@ -12473,6 +12473,165 @@
           "x": "GR00T 2 Turbo, una versión de dos mil millones de parámetros, se ejecuta a bordo de un humanoide Unitree G1 con Jetson Thor a 124 milisegundos por predicción. Nexuni, Foxconn y Siemens están probando el modelo completo. Los pesos del modelo y las recetas de X-Adapt llegarán en diciembre."
         }
       ]
+    },
+    "gadgets/macos-273-ai-agent-warning": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Con la última beta de macOS 27.3, Apple da a los usuarios de Mac más control sobre los datos que comparten y el acceso que conceden a las apps, incluidas las que usan agentes de AI. Apple informó hoy a los desarrolladores de los próximos cambios en la Full Disk Access API y la Device Control and Data Access API."
+        },
+        {
+          "t": "img",
+          "src": "https://images.macrumors.com/t/RcnvC03vxGzanG38_QS1Fc9J62A=/400x0/article-new/2026/11/claude-warning.jpg?lossy",
+          "cap": "advertencia de claude"
+        },
+        {
+          "t": "p",
+          "x": "El ajuste Device Control and Data Access se dividirá en System & App Protection Override y Accessibility. Los usuarios concederán permisos eligiendo la app solicitante en una lista, y Apple fomentará el acceso solo a las apps o carpetas concretas que necesite cada flujo de trabajo, informará mejor sobre los datos que recibirán las apps, permitirá que estas pidan permiso cada vez en lugar de obtener acceso sin restricciones y mostrará un indicador de transparencia en la barra de menús cuando una app controle otra."
+        },
+        {
+          "t": "img",
+          "src": "https://images.macrumors.com/t/XEyVh7VFnBpfoKyJ-wxGJUrYFFU=/2500x/article-new/2026/11/claude-warning-2-2.jpg",
+          "cap": "advertencia de claude 2"
+        },
+        {
+          "t": "p",
+          "x": "Las apps conocidas mantienen su experiencia actual sin necesidad de un entitlement, y los permisos concedidos antes de macOS 27.3 siguen vigentes. El mes pasado, Apple dijo que añadiría “controles adicionales” a Full Disk Access por los riesgos que plantean los agentes de AI, y advirtió que algunos desarrolladores lo usan de formas que pueden exponer archivos, correo, mensajes, historial de navegación y más."
+        }
+      ]
+    },
+    "gadgets/halliday-g2-glasses-review": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/wVu3i3WESBzbZxWLscxMMA-2560-80.jpg",
+          "cap": "(Crédito de la imagen: © Future / Tom's Guide)"
+        },
+        {
+          "t": "p",
+          "x": "Tom's Guide Verdict: las gafas inteligentes Halliday G2 AI son un paso en la dirección correcta: ofrecen unas gafas sin cámara con funciones de AI útiles en un diseño cómodo pero voluminoso (y poco elegante). Sin embargo, brindan una experiencia casi idéntica a la de sus rivales y las lastra un audio de oído abierto mediocre."
+        },
+        {
+          "t": "p",
+          "x": "Dos motores micro-LED y una óptica de guía de ondas muestran texto verde de matriz de puntos en ambas lentes, con una resolución de 600 x 300 por ojo y un brillo máximo de 1,600 nits. Con 1.7 onzas, son de las gafas con AI más cómodas que ha usado el autor de la reseña."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/buBdfVFApQx8tiQPUDTHQA.jpg",
+          "cap": "(Crédito de la imagen: Future / Tom's Guide)"
+        },
+        {
+          "t": "p",
+          "x": "Entre las funciones clave están Meeting Flow, en la que agentes de AI en vivo siguen, resumen, transcriben e investigan conversaciones; Cheatsheet, un teleprompter; y Translation, para más de 45 idiomas. El asistente Halliday AI responde con rapidez, pero las funciones replican Conversate, Teleprompt y Translate de las Even Realities G2."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/tzxstR6aTrhyeqcLwgATLA.jpg",
+          "cap": "(Crédito de la imagen: Future / Tom's Guide)"
+        },
+        {
+          "t": "p",
+          "x": "Todas las personas con las que se cruzó el autor notaron a primera vista que eran gafas inteligentes, y Stealth Mode solo atenúa el texto verde, que sigue viéndose desde distintos ángulos. La batería dura unas 12 horas. Si las Even Realities G2 lo hacen todo mejor al mismo precio de venta, cuesta más recomendar estas."
+        }
+      ]
+    },
+    "gadgets/whalesbot-pubbo-kids-robot": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pubbo-hero.jpg",
+          "cap": "Una niña sonriente tumbada en el suelo de la sala sostiene a Pubbo, el robot de compañía con AI de WhalesBot"
+        },
+        {
+          "t": "p",
+          "x": "Un niño describe un dinosaurio en voz alta y, segundos después, Pubbo lo dibuja en su pequeña pantalla. También contesta. WhalesBot lo creó para niños de 3 a 11 años, y acaba de salir a la venta en Estados Unidos (US) por $299.99."
+        },
+        {
+          "t": "p",
+          "x": "La cara de Pubbo es una pantalla táctil de 3.5 pulgadas cuyas expresiones cambian mientras habla, canta o reacciona. Dos micrófonos escuchan las preguntas, y una cámara de 5MP permite a los niños mostrarle un juguete o un dibujo y obtener una respuesta sobre él."
+        },
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pubbo-body-create.jpg",
+          "cap": "Pubbo muestra un dinosaurio que dibujó a partir de la petición hablada de un niño"
+        },
+        {
+          "t": "p",
+          "x": "Un niño puede describir un dibujo en voz alta y ver cómo Pubbo convierte esas palabras en una imagen en pantalla. También funciona mostrarle un boceto en papel: el robot lo rehace en una versión terminada y más vistosa. Si un niño pide alas, al dinosaurio le sale un par."
+        },
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pubbo-body-draw.jpg",
+          "cap": "Pubbo convierte en pantalla el boceto en papel de un dinosaurio hecho por un niño en una versión más grande y con alas"
+        },
+        {
+          "t": "p",
+          "x": "También lee su libro de cuentos al ritmo de las páginas, y la app gratuita añade los modos Challenge, Invention y programación por bloques, con un mapa de programación de 800 por 800 milímetros. Los chats se revisan en tiempo real, los datos personales se señalan y los temas de riesgo pueden detener una conversación, mientras los padres ven las alertas. La batería de 5,200 mAh ofrece 2 horas o más por carga."
+        }
+      ]
+    },
+    "gadgets/qidi-makebuddy-smart5": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/qidi-smart5-hero.jpg",
+          "cap": "Una familia reunida alrededor de una impresora 3D QIDI MakeBuddy Smart5 sobre una mesa de centro"
+        },
+        {
+          "t": "p",
+          "x": "La MakeBuddy Smart5 de QIDI es una impresora 3D totalmente cerrada pensada para la sala de estar y no para el banco de trabajo, con cámara AI, nivelación automática de la cama y una app que convierte fotos del teléfono en modelos imprimibles. Cuesta $349 y salió a la venta el 10 de noviembre."
+        },
+        {
+          "t": "p",
+          "x": "La herramienta AI Image-to-3D toma una foto o un dibujo y crea a partir de ellos un modelo 3D personalizado, de modo que el boceto que un niño hace del perro de la familia se convierte en una figura que la impresora puede fabricar de verdad, sin tener que aprender antes un software de modelado."
+        },
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/qidi-smart5-body-ai.jpg",
+          "cap": "Dos niños sostienen una figura impresa mientras las pantallas de los teléfonos muestran la app AI photo-to-3D"
+        },
+        {
+          "t": "p",
+          "x": "La app QIDI Joy combina una biblioteca de modelos listos para imprimir con cursos STEAM, y la cámara integrada graba un timelapse de cada impresión. Una cámara cerrada e ignífuga mantiene las piezas calientes lejos de las manos pequeñas, y un conjunto de filtros G3, H12 HEPA y carbón activado está clasificado para capturar el 99.5% de las partículas."
+        },
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/qidi-smart5-body-enclosed.jpg",
+          "cap": "Un gato toca con la pata la puerta de cristal cerrada de una MakeBuddy Smart5"
+        },
+        {
+          "t": "p",
+          "x": "Bajo la carcasa hay un sistema CoreXY de hasta 600 mm/s con un volumen de impresión de 180 por 180 por 180 mm. De serie imprime PLA y PETG en un solo color; para varios colores hace falta el complemento opcional QIDI Box. En la caja vienen cuatro bobinas de PLA de 250 g y un kit maker de luz LED y reloj."
+        }
+      ]
+    },
+    "gadgets/wired-oats-eink-pets": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6af4802ffbe5af43ea5dee0a/191:100/w_1280,c_limit/Screenshot%202026-11-11%20at%2014.47.44.png"
+        },
+        {
+          "t": "p",
+          "x": "Olvidaste regar la planta. En lugar de hojas amarillentas, ves en una pequeña pantalla una simpática mascota con forma de planta, triste y abatida. Esa es la idea detrás de OATs, u Object Agent Twins: avatares de AI con microagentes en pequeñas pantallas E Ink, diseñados para acompañar objetos cotidianos del hogar y creados por Daehwa Kim, estudiante de quinto año de PhD en el Future Interfaces Group de Carnegie Mellon. Kim presentó el proyecto en el ACM Symposium on User Interface Software and Technology en Detroit y obtuvo dos premios Honorable Mention."
+        },
+        {
+          "t": "p",
+          "x": "Los OATs tienen una pantalla E Ink conectada a sensores que registran humedad, temperatura, humedad relativa, luz, ocupación y movimiento (unos $20 por el módulo principal). Los sprites se crean con Nano Banana de Google Gemini, y un portal web genera comportamientos “Positive” y “Negative” a partir del nombre y la descripción del objeto. Si una patineta pasa días sin usarse, el avatar se ve triste y solo; si te subes, se pone contento."
+        },
+        {
+          "t": "p",
+          "x": "La batería dura poco —entre tres y cuatro días, o un día con el sensor de nivel sonoro—, así que es más bien una prueba de concepto. Quienes lo probaron usaron OATs para saber si un objeto se está usando, advertir a quienes están cerca de una impresora 3D en marcha y seguir hábitos, como una mancuerna que animaba a hacer ejercicio con regularidad."
+        },
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6af4807c3969d4fffae9b294/master/w_1600%2Cc_limit/user_oat_setup.png"
+        },
+        {
+          "t": "p",
+          "x": "La demostración también abrió el debate sobre la antropomorfización de la AI, y por eso las interacciones de los OATs se limitan a emociones expresivas en la pantalla E Ink. “La antropomorfización puede ser muy útil en ciertos aspectos, como ayudar a las personas a cambiar sus conductas”, dice Kim, “pero sin duda debemos tener cuidado de no abusar de esto”."
+        }
+      ]
     }
   }
 }

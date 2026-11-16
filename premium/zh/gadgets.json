@@ -11685,6 +11685,165 @@
           "x": "GR00T 2 Turbo是二十亿参数版本，可在搭载Jetson Thor的Unitree G1人形机器人上本地运行，每次预测耗时124毫秒。Nexuni、Foxconn和Siemens正在测试完整版模型。模型权重和X-Adapt方案将于12月发布。"
         }
       ]
+    },
+    "gadgets/macos-273-ai-agent-warning": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "在最新的macOS 27.3测试版中，Apple让Mac用户对自己共享的数据和授予应用的访问权限拥有更多控制，其中也包括使用AI代理的应用。Apple今天向开发者通报了Full Disk Access API以及Device Control and Data Access API即将发生的变化。"
+        },
+        {
+          "t": "img",
+          "src": "https://images.macrumors.com/t/RcnvC03vxGzanG38_QS1Fc9J62A=/400x0/article-new/2026/11/claude-warning.jpg?lossy",
+          "cap": "claude 警告"
+        },
+        {
+          "t": "p",
+          "x": "Device Control and Data Access设置将拆分为System & App Protection Override和Accessibility两项。用户需从列表中选择发出请求的应用来授予权限；Apple将鼓励只开放工作流程所需的特定应用或文件夹，更清楚地告知用户应用将获得哪些数据，允许应用每次单独请求而非获得不受限制的访问，并在某个应用控制另一个应用时在菜单栏显示透明度指示器。"
+        },
+        {
+          "t": "img",
+          "src": "https://images.macrumors.com/t/XEyVh7VFnBpfoKyJ-wxGJUrYFFU=/2500x/article-new/2026/11/claude-warning-2-2.jpg",
+          "cap": "claude 警告 2"
+        },
+        {
+          "t": "p",
+          "x": "已知应用无需额外授权即可保持现有体验，macOS 27.3之前授予的权限也继续有效。Apple上个月表示，由于AI代理带来的风险，将为Full Disk Access增加“额外控制”，并警告部分开发者使用它的方式可能暴露文件、邮件、信息、浏览记录等内容。"
+        }
+      ]
+    },
+    "gadgets/halliday-g2-glasses-review": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/wVu3i3WESBzbZxWLscxMMA-2560-80.jpg",
+          "cap": "（图片来源：© Future / Tom's Guide）"
+        },
+        {
+          "t": "p",
+          "x": "Tom's Guide Verdict：Halliday G2 AI智能眼镜朝着正确方向迈出了一步，在舒适但厚重（且笨拙）的设计中，提供了不带摄像头、配有实用AI功能的眼镜。但它的体验与竞品几乎一样，开放式音频表现欠佳也拖了后腿。"
+        },
+        {
+          "t": "p",
+          "x": "双micro-LED引擎和光波导光学元件在两片镜片上显示绿色点阵文字，单眼分辨率为600 x 300，峰值亮度1,600尼特。它重1.7盎司，是评测者戴过的较舒适的AI眼镜之一。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/buBdfVFApQx8tiQPUDTHQA.jpg",
+          "cap": "（图片来源：Future / Tom's Guide）"
+        },
+        {
+          "t": "p",
+          "x": "主要功能包括由实时AI代理追踪、总结、转录和研究对话的Meeting Flow，提词器功能Cheatsheet，以及支持45种以上语言的Translation。Halliday AI助手回答问题很迅速，但这些功能与Even Realities G2的Conversate、Teleprompt和Translate如出一辙。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/tzxstR6aTrhyeqcLwgATLA.jpg",
+          "cap": "（图片来源：Future / Tom's Guide）"
+        },
+        {
+          "t": "p",
+          "x": "评测者遇到的每个人都一眼认出这是智能眼镜，而Stealth Mode只是调暗绿色文字，从不同角度仍能看到。电池续航约12小时。既然Even Realities G2以相同零售价把一切做得更好，这款眼镜就更难推荐了。"
+        }
+      ]
+    },
+    "gadgets/whalesbot-pubbo-kids-robot": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pubbo-hero.jpg",
+          "cap": "躺在客厅地板上、抱着WhalesBot AI陪伴机器人Pubbo微笑的女孩"
+        },
+        {
+          "t": "p",
+          "x": "孩子大声描述一只恐龙，几秒后Pubbo就在小屏幕上把它画出来，还会开口回应。WhalesBot为3至11岁儿童打造了这款机器人，它刚在美国（US）开售，售价$299.99。"
+        },
+        {
+          "t": "p",
+          "x": "Pubbo的脸是一块3.5英寸触摸屏，说话、唱歌或做出反应时表情会随之变化。双麦克风负责听取问题，5MP 摄像头让孩子举起玩具或画作就能得到相关解答。"
+        },
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pubbo-body-create.jpg",
+          "cap": "Pubbo展示根据孩子口头要求画出的恐龙图"
+        },
+        {
+          "t": "p",
+          "x": "孩子可以口头描述一幅画，看着Pubbo把这些话变成屏幕上的图像。给它看纸上的草图也行，机器人会把草图重绘成更完整、更鲜亮的版本。孩子想要翅膀，恐龙就长出一对翅膀。"
+        },
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pubbo-body-draw.jpg",
+          "cap": "Pubbo把孩子的纸上恐龙草图在屏幕上变成更大的带翅膀版本"
+        },
+        {
+          "t": "p",
+          "x": "它还能配合书页朗读故事书，免费应用则增加了Challenge、Invention和积木编程模式，并配有800×800 毫米的编程地图。对话会被实时检查，个人信息会被标记，危险话题可以中止对话，家长也能看到提醒。5,200 mAh电池每次充电可用2小时以上。"
+        }
+      ]
+    },
+    "gadgets/qidi-makebuddy-smart5": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/qidi-smart5-hero.jpg",
+          "cap": "一家人围在茶几上的QIDI MakeBuddy Smart5 3D打印机旁"
+        },
+        {
+          "t": "p",
+          "x": "QIDI的MakeBuddy Smart5是一款为家庭客厅而非工作台打造的全封闭3D打印机，配备AI摄像头、自动调平热床，以及能把手机照片转换为可打印模型的应用。售价$349，已于11月10日开售。"
+        },
+        {
+          "t": "p",
+          "x": "AI Image-to-3D工具可以根据照片或画作生成个性化3D模型，因此孩子画的家中小狗草图能变成打印机真正可以做出来的手办，无需先学建模软件。"
+        },
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/qidi-smart5-body-ai.jpg",
+          "cap": "两个孩子拿着打印好的手办，手机屏幕上显示AI photo-to-3D应用"
+        },
+        {
+          "t": "p",
+          "x": "QIDI Joy应用将现成可打印的模型库与STEAM课程结合，内置摄像头会为每次打印录制延时视频。封闭的阻燃腔体让高温部件远离小手，由G3、H12 HEPA和活性炭组成的过滤层可捕获99.5%的颗粒物。"
+        },
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/qidi-smart5-body-enclosed.jpg",
+          "cap": "一只猫用爪子拍打MakeBuddy Smart5关着的玻璃门"
+        },
+        {
+          "t": "p",
+          "x": "外壳之下是一套速度达600 mm/s的CoreXY系统，成型尺寸为180×180×180 mm。出厂即可单色打印PLA和PETG；多色打印需要选配QIDI Box扩展。包装内附四卷250 g PLA耗材，以及一套LED灯和时钟制作套件。"
+        }
+      ]
+    },
+    "gadgets/wired-oats-eink-pets": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6af4802ffbe5af43ea5dee0a/191:100/w_1280,c_limit/Screenshot%202026-11-11%20at%2014.47.44.png"
+        },
+        {
+          "t": "p",
+          "x": "你忘了给植物浇水。映入眼帘的不是发黄的叶子，而是小屏幕上一只可爱的植物造型宠物，看起来又难过又沮丧。这就是OATs（Object Agent Twins）背后的构想：运行在小型E Ink显示屏上的微型智能体AI化身，专为与日常家居物件配对而设计，由Carnegie Mellon的Future Interfaces Group五年级PhD学生Daehwa Kim打造。Kim在Detroit举行的ACM Symposium on User Interface Software and Technology上展示了这一项目，并获得两项Honorable Mention奖。"
+        },
+        {
+          "t": "p",
+          "x": "OATs的E Ink显示屏连接着可监测水分、温度、湿度、光照、占用状态和运动的传感器（主模块约$20）。精灵形象由Google Gemini的Nano Banana生成，网页门户会根据物件的名称和描述生成“Positive”和“Negative”行为。滑板几天不用，化身就显得悲伤孤独；踩上去，它就开心起来。"
+        },
+        {
+          "t": "p",
+          "x": "电池续航很短——约三到四天，若启用声级传感器则只有一天左右——因此它更像是一个概念验证。测试者用OATs查看物件是否在被使用、提醒运行中的3D打印机附近的人，以及追踪习惯，比如一只鼓励规律锻炼的哑铃。"
+        },
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6af4807c3969d4fffae9b294/master/w_1600%2Cc_limit/user_oat_setup.png"
+        },
+        {
+          "t": "p",
+          "x": "这次演示也引发了关于AI拟人化的讨论，这也是OATs的交互仅限于E Ink显示屏上情绪表达的原因。“拟人化在某些方面可能非常有用，比如帮助人们改变行为，”Kim说，“但我们绝对应该小心，不要滥用这一点。”"
+        }
+      ]
     }
   }
 }

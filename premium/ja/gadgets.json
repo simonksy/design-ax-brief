@@ -12024,6 +12024,165 @@
           "x": "二十億パラメータ版のGR00T 2 Turboは、Jetson Thorを積んだUnitree G1ヒューマノイド上で、予測1回あたり124ミリ秒で動作する。Nexuni、Foxconn、Siemensがフルサイズモデルを試験中だ。モデルの重みとX-Adaptのレシピは12月に公開される。"
         }
       ]
+    },
+    "gadgets/macos-273-ai-agent-warning": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "最新のmacOS 27.3ベータで、AppleはMacユーザーが共有するデータやアプリに与えるアクセスについて、AIエージェントを使うアプリも含めてより細かく管理できるようにする。Appleは本日、Full Disk Access APIとDevice Control and Data Access APIの今後の変更を開発者に通知した。"
+        },
+        {
+          "t": "img",
+          "src": "https://images.macrumors.com/t/RcnvC03vxGzanG38_QS1Fc9J62A=/400x0/article-new/2026/11/claude-warning.jpg?lossy",
+          "cap": "claude 警告"
+        },
+        {
+          "t": "p",
+          "x": "Device Control and Data Access設定はSystem & App Protection OverrideとAccessibilityに分割される。ユーザーは要求しているアプリをリストから選んで権限を与える。Appleは、ワークフローに必要な特定のアプリやフォルダーだけへのアクセスを促し、アプリが受け取るデータをユーザーにより分かりやすく伝え、無制限のアクセスではなく毎回確認させる仕組みを可能にし、あるアプリが別のアプリを操作しているときにはメニューバーに透明性インジケーターを表示する。"
+        },
+        {
+          "t": "img",
+          "src": "https://images.macrumors.com/t/XEyVh7VFnBpfoKyJ-wxGJUrYFFU=/2500x/article-new/2026/11/claude-warning-2-2.jpg",
+          "cap": "claude 警告 2"
+        },
+        {
+          "t": "p",
+          "x": "既知のアプリはエンタイトルメントなしで現在の体験を維持し、macOS 27.3以前に付与された権限も引き続き有効だ。Appleは先月、AIエージェントがもたらすリスクを理由にFull Disk Accessへ「追加の管理機能」を加えると表明し、一部の開発者がファイル、メール、メッセージ、閲覧履歴などを露出させかねない形でこれを使っていると警告していた。"
+        }
+      ]
+    },
+    "gadgets/halliday-g2-glasses-review": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/wVu3i3WESBzbZxWLscxMMA-2560-80.jpg",
+          "cap": "（画像クレジット：© Future / Tom's Guide）"
+        },
+        {
+          "t": "p",
+          "x": "Tom's Guide Verdict：Halliday G2 AIスマートグラスは正しい方向への一歩だ。カメラを持たないメガネに便利なAI機能を載せ、装着感は快適だが、デザインは分厚い（そして野暮ったい）。ただし体験はライバル製品とほぼ同じで、オープンイヤー型オーディオの物足りなさが足を引っ張る。"
+        },
+        {
+          "t": "p",
+          "x": "デュアルmicro-LEDエンジンと導波路光学系が両レンズに緑のドットマトリクス文字を表示し、片目あたりの解像度は600 x 300、ピーク輝度は1,600ニトだ。重さは1.7オンスで、レビュアーが試したAIグラスの中でも快適な部類に入る。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/buBdfVFApQx8tiQPUDTHQA.jpg",
+          "cap": "（画像クレジット：Future / Tom's Guide）"
+        },
+        {
+          "t": "p",
+          "x": "主な機能は、ライブのAIエージェントが会話を追跡・要約・文字起こし・調査するMeeting Flow、テレプロンプターのCheatsheet、45以上の言語に対応するTranslationだ。Halliday AIアシスタントは質問への応答がきびきびしているが、機能はEven Realities G2のConversate、Teleprompt、Translateをなぞったものだ。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/tzxstR6aTrhyeqcLwgATLA.jpg",
+          "cap": "（画像クレジット：Future / Tom's Guide）"
+        },
+        {
+          "t": "p",
+          "x": "レビュアーが出会った人は皆、一目でスマートグラスだと指摘した。Stealth Modeは緑の文字を暗くするだけで、角度によっては見えてしまう。バッテリーは約12時間持つ。同じ小売価格でEven Realities G2がすべてをより上手くこなす以上、これを薦めるのは難しい。"
+        }
+      ]
+    },
+    "gadgets/whalesbot-pubbo-kids-robot": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pubbo-hero.jpg",
+          "cap": "リビングの床に寝そべり、WhalesBotのAIコンパニオンロボットPubboを抱えて笑う少女"
+        },
+        {
+          "t": "p",
+          "x": "子どもが恐竜を声に出して説明すると、数秒後にPubboが小さな画面に恐竜を描く。言葉も返してくる。WhalesBotが3〜11歳の子ども向けに開発したこのロボットは、米国（US）で$299.99で発売されたばかりだ。"
+        },
+        {
+          "t": "p",
+          "x": "Pubboの顔は3.5インチのタッチスクリーンで、話したり歌ったり反応したりするたびに表情が変わる。デュアルマイクが質問を聞き取り、5MP カメラにおもちゃや絵をかざせば、それについての答えが返ってくる。"
+        },
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pubbo-body-create.jpg",
+          "cap": "子どもの音声リクエストから描いた恐竜の絵を表示するPubbo"
+        },
+        {
+          "t": "p",
+          "x": "子どもが絵を言葉で説明すると、Pubboがその言葉を画面上の画像に変えていく様子を見られる。紙のスケッチを見せてもよく、ロボットはそれをより鮮やかな完成版に描き直す。子どもが翼を頼めば、恐竜に一対の翼が生える。"
+        },
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pubbo-body-draw.jpg",
+          "cap": "子どもの紙の恐竜スケッチを、画面上で翼のある大きな恐竜に描き変えるPubbo"
+        },
+        {
+          "t": "p",
+          "x": "Pubboは絵本をページに合わせて読み聞かせもする。無料アプリにはChallenge、Invention、ブロックコーディングの各モードがあり、800×800 ミリメートルのコーディングマップが付く。会話はリアルタイムでチェックされ、個人情報にはフラグが立ち、危険な話題では会話を止められ、保護者にはアラートが届く。5,200 mAhバッテリーはフル充電で2時間以上使える。"
+        }
+      ]
+    },
+    "gadgets/qidi-makebuddy-smart5": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/qidi-smart5-hero.jpg",
+          "cap": "コーヒーテーブル上のQIDI MakeBuddy Smart5 3Dプリンターを囲む家族"
+        },
+        {
+          "t": "p",
+          "x": "QIDIのMakeBuddy Smart5は、作業台ではなくリビング向けに作られた完全密閉型3Dプリンターで、AIカメラ、自動ベッドレベリング、スマホの写真を印刷可能なモデルに変えるアプリを備える。価格は$349で、11月10日に発売された。"
+        },
+        {
+          "t": "p",
+          "x": "AI Image-to-3Dツールは写真や絵からパーソナライズされた3Dモデルを生成する。子どもが描いた飼い犬のスケッチも、モデリングソフトを先に覚えることなく、プリンターで実際に作れるフィギュアになる。"
+        },
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/qidi-smart5-body-ai.jpg",
+          "cap": "スマホ画面にAI photo-to-3Dアプリが映る中、印刷されたフィギュアを持つ二人の子ども"
+        },
+        {
+          "t": "p",
+          "x": "QIDI Joyアプリは、すぐに印刷できるモデルのライブラリとSTEAM講座を組み合わせ、内蔵カメラはすべての印刷をタイムラプスで記録する。密閉された難燃性チャンバーが高温部を小さな手から遠ざけ、G3、H12 HEPA、活性炭を重ねたフィルターは粒子の99.5%を捕集する性能を持つ。"
+        },
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/qidi-smart5-body-enclosed.jpg",
+          "cap": "MakeBuddy Smart5の閉じたガラス扉を前足でつつく猫"
+        },
+        {
+          "t": "p",
+          "x": "筐体の内部には600 mm/s対応のCoreXYシステムがあり、造形サイズは180×180×180 mmだ。標準ではPLAとPETGを単色で印刷でき、多色印刷にはオプションのQIDI Boxアドオンが必要になる。250 gのPLAスプール四つと、LEDライト・時計のメーカーキットが同梱される。"
+        }
+      ]
+    },
+    "gadgets/wired-oats-eink-pets": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6af4802ffbe5af43ea5dee0a/191:100/w_1280,c_limit/Screenshot%202026-11-11%20at%2014.47.44.png"
+        },
+        {
+          "t": "p",
+          "x": "植物に水をやり忘れた。黄ばんだ葉の代わりに目に入るのは、小さな画面の中でしょんぼりと悲しげにしている、植物の形をしたかわいいペットだ。これがOATs（Object Agent Twins）の発想である。日常の家庭用品と組み合わせるよう設計された、小型E Inkディスプレイ上のマイクロエージェントAIアバターで、Carnegie MellonのFuture Interfaces Groupに所属する博士課程（PhD）五年目のDaehwa Kimが開発した。KimはDetroitで開かれたACM Symposium on User Interface Software and Technologyでこのプロジェクトを発表し、Honorable Mentionを二つ受賞した。"
+        },
+        {
+          "t": "p",
+          "x": "OATsは、水分、温度、湿度、照度、在室、動きを検知するセンサーにE Inkディスプレイを接続したものだ（メインモジュールは約$20）。スプライトはGoogle GeminiのNano Bananaで作られ、ウェブポータルが物の名前と説明から「Positive」と「Negative」の振る舞いを生成する。スケートボードを何日も使わずにいるとアバターは悲しく寂しげになり、乗れば喜ぶ。"
+        },
+        {
+          "t": "p",
+          "x": "バッテリー持続時間は三〜四日ほど、騒音センサーを使うと一日ほどと短く、現時点では概念実証に近い。テスターはOATsを使って、物が使われているかを確認したり、稼働中の3Dプリンターの近くにいる人に警告したり、定期的な運動を促したダンベルのように習慣を記録したりした。"
+        },
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6af4807c3969d4fffae9b294/master/w_1600%2Cc_limit/user_oat_setup.png"
+        },
+        {
+          "t": "p",
+          "x": "このデモはAIの擬人化をめぐる議論も呼んだ。そのためOATsのやり取りは、E Inkディスプレイ上の感情表現に限られている。「擬人化は、人の行動を変える手助けをするなど、ある面ではとても役に立つことがある」とKimは言う。「しかし、これを乱用しないよう確実に注意すべきだ」"
+        }
+      ]
     }
   }
 }

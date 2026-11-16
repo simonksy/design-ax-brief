@@ -15779,6 +15779,143 @@
           "x": "저자들은 모델마다 어떤 규칙을 일관되게 따르는지 보여 주는 \"가치 카드\"도 만들었다. 논문 'Alignment Faking Depends on the Value, Not Just the Model'은 arXiv에서 볼 수 있다."
         }
       ]
+    },
+    "science/leafy-spurge-satellite-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-field-of-leafy-spurg.jpg",
+          "cap": "사진: University of Minnesota"
+        },
+        {
+          "t": "p",
+          "x": "미네소타대학교(University of Minnesota) 연구진이 위성 영상과 AI 딥러닝 모델, 시민과학 데이터로 리피 스퍼지가 20년 동안 퍼져 나간 과정을 추적했다. 최근 Ecological Applications에 실린 결과는 이 유해 잡초와 싸우는 농민과 목장주, 토지 관리자에게 도움이 될 전망이다."
+        },
+        {
+          "t": "p",
+          "x": "연구진은 iNaturalist 앱의 시민 관찰 기록을 비롯한 리피 스퍼지 실제 관측 자료를 모았다. 여기에 U.S. Geological Survey(미국 지질조사국)가 NASA 위성의 도움으로 제공하는 오픈소스 Landsat 영상을 더해 예측용 딥러닝 컴퓨터 모델을 학습시켰다."
+        },
+        {
+          "t": "p",
+          "x": "연구에 따르면 리피 스퍼지 개체량은 두 번의 십 년(2000–2021) 동안 570% 늘며 빠르게 불어났다. 확산은 주로 Fargo-Moorhead와 Minneapolis-Saint Paul 일대에서 일어났다. 이 식물은 도로 주변에서 자주 보였다. 위성 영상으로 새 침입지를 찾아내자 앞으로의 침입 예측도 나아졌다."
+        },
+        {
+          "t": "p",
+          "x": "Thomas Lake는 \"리피 스퍼지가 꽃을 피우면 누군가 풍경에 노란 형광펜을 칠한 것 같다. 워낙 샛노래서 위성에서도 보인다\"고 말했다. 연구팀은 앞으로 일곱 개 주에서 이 식물의 분포 지도를 만들 계획이다."
+        }
+      ]
+    },
+    "science/materials-ai-less-data": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-12.jpg",
+          "cap": "사진: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "새 소재 개발은 흔히 전자구조, 곧 소재 안에서 전자가 어떻게 배열되고 움직이는지 이해하는 데서 시작한다. 전자구조를 계산하려면 보통 슈퍼컴퓨터에서 비싼 시뮬레이션을 돌려야 한다. 그래서 연구자들은 예측 속도를 높이려고 수백만 개의 시뮬레이션 데이터로 인공지능 모델을 학습시켜 왔다."
+        },
+        {
+          "t": "p",
+          "x": "하지만 Michigan Tech 기계·항공우주공학과 Susanta Ghosh 부교수가 이끈 최근 연구에 따르면 학습 데이터가 그렇게 많을 필요는 없다. UCLA와 함께한 연구팀은 npj Computational Materials에 최근 낸 논문에서 학습 데이터의 90%를 버려도 AI 모델의 정확도가 거의 떨어지지 않는다는 점을 확인했다."
+        },
+        {
+          "t": "p",
+          "x": "학습 데이터의 99%를 없앤 뒤에도 예측 대부분이 높은 정확도를 지켰고 모델 학습은 세 배 이상 빨라졌다. 금속과 물, 복잡한 합금까지 폭넓은 소재에 들어맞는 결과다."
+        },
+        {
+          "t": "p",
+          "x": "Ghosh는 \"전자구조 데이터의 상당 부분은 같은 정보를 되풀이한다. 잘 고른 작은 표본만으로도 AI가 배워야 할 거의 모든 것을 담을 수 있다\"고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "그는 \"대표적인 전자구조 데이터를 찾아내고 학습 시간을 최소 세 배 줄임으로써, 이 연구는 방대한 조성 공간에서 복잡한 합금의 AI-driven 발견을 앞당길 수 있다\"고 덧붙였다."
+        }
+      ]
+    },
+    "science/qudit-quantum-neural-net": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/quantum-neural-network-1.jpg",
+          "cap": "고차원 양자 뉴런의 구축과 학습. 사진: University of Science and Technology of China"
+        },
+        {
+          "t": "p",
+          "x": "양자 신경망은 어떻게 키울까. 뉴런 역할을 하는 큐비트를 더 늘리는 방법이 있다. National Science Review에 실린 \"Quantum neural network equipped with backpropagation on a qudit processor\" 연구는 다른 길을 택했다."
+        },
+        {
+          "t": "p",
+          "x": "중국과학기술대학(University of Science and Technology of China)의 Li Zhaokai 부교수와 Lin Yiheng 교수가 이끄는 연구진은 물리 단위 하나의 내부를 들여다보며 그 안의 에너지 준위를 더 많이 썼다. 덕분에 물리 단위를 늘리지 않고도 고차원 양자 뉴런을 만들었다."
+        },
+        {
+          "t": "p",
+          "x": "큐비트 수로 규모를 키우면 제어할 하드웨어도, 쌓이는 오류도 함께 늘어난다. 잡음이 많은 지금의 중간 규모 양자 장치에는 특히 버거운 일이다."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/quantum-neural-network-2.jpg",
+          "cap": "바지와 풀오버를 구별하는 학습. 사진: University of Science and Technology of China"
+        },
+        {
+          "t": "p",
+          "x": "연구팀은 칼슘 이온의 다섯 개 에너지 준위로 다준위 양자 프로세서를 꾸리고 고차원 양자 신경망을 실험으로 구현했다. 이 신경망은 Fashion-MNIST 데이터셋의 의류 이미지를 분류했는데, 395개 샘플로 된 테스트 세트에서 실험 분류 정확도가 95.7%에 이르렀다."
+        }
+      ]
+    },
+    "science/sciam-chess-ai-complexity": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/1e99e951-c633-4384-8edb-9267b4a202c9/saw1226_0127Adva06.jpg?m=1793651269.904&w=1200",
+          "cap": "Thomas Fuchs"
+        },
+        {
+          "t": "p",
+          "x": "AI가 체스에 강한 비결은 복잡성을 편하게 다루는 능력일지 모른다. APS Open Science에 최근 실린 논문이 AI의 전략적 우위를 설명할 유력한 특징 하나를 짚었다. 연구 책임저자인 빈 Complexity Science Hub의 물리학자 Vito D. P. Servedio는 \"아마 우리 논문이 이 기계들이 무엇을 하는지 이해하는 데 가장 가까이 다가갔을 것\"이라고 말한다."
+        },
+        {
+          "t": "p",
+          "x": "연구진은 온라인 데이터베이스에서 사람 vs. 사람, Stockfish vs. Leela의 대국을 모은 뒤 '전략적 긴장도'를 쟀다. 서로 맞선 기물 사이에서 일어날 수 있는 상호작용의 수다."
+        },
+        {
+          "t": "p",
+          "x": "양쪽이 각각 20수를 둔 시점까지는 사람 대국의 평균 긴장도가 AI 대국보다 높았다. 그 뒤로는 사람 대국의 긴장도가 AI 대국 아래로 떨어지는 반면 AI 대국은 높은 수준을 지킨다. 사람은 인지 부담을 줄여야 하지만 \"엔진에는 사실상 그런 문제가 없다\"고 이번 연구에 참여하지 않은 Northumbria University의 Merim Bilalić은 말한다."
+        },
+        {
+          "t": "p",
+          "x": "레이팅이 높은 선수일수록 긴장도를 더 높게 유지했다. Stockfish가 더 깊은 트리를 탐색할 때도 긴장도가 올랐다. 사람과 AI 모두에서 높은 긴장도는 실력과 상관관계를 보였다. 다만 긴장도가 실력을 낳는지, 실력에서 비롯되는지는 이번 연구로 가리지 못했다."
+        }
+      ]
+    },
+    "science/science-teamwork-lean-proof": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/original_images/AntigravityTeamwork_HeroFinal.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Google Research가 Antigravity의 /teamwork 멀티에이전트 시스템이 거둔 최근 성과를 공개했다. 이 시스템은 Gemini 4 Argon, Gemini 4 Carbon, Gemini 4 Hydrogen으로 인간과 AI의 협업(human-AI collaboration)을 끌어올리고, 수학·화학·시스템 소프트웨어·ML 엔지니어링의 미해결 문제를 푼다. 병렬 탐색에 전담 반증기(예: Lean 4 증명 검사기, 수정하지 않은 소프트웨어 테스트 스위트, 실행 시뮬레이터)를 붙이고, 맥락을 나눠 전문 에이전트마다 필요한 파일과 도구만 쥐여 준다."
+        },
+        {
+          "t": "p",
+          "x": "Google, CUHK, USC, CMU 연구진은 /teamwork의 Long Proof 패턴으로 정보이론의 2013년 Courtade–Kumar 추측을 완전한 일반성에서 증명했고, 증명 전체를 Lean 4로 형식화했다(코드 5,000만 줄). /teamwork-LEAP은 완전 자율로 Weil 추측을 기계 검증 가능한 형태로 옮겼다. 하위 에이전트를 28,800회 호출해 쓴 Lean 코드가 약 180만 줄이다."
+        },
+        {
+          "t": "p",
+          "x": "그 밖에 에이전트 30개로 NMR 구조 결정에서 top-1 정확 일치율 95%를 기록했다. Zircon 마이크로커널용 안전한 Rust 코드도 약 800,000줄 작성했고, 여드레가 채 안 돼 Elo를 약 2,600 끌어올린 9x9 바둑(Go) 엔진도 만들었다."
+        },
+        {
+          "t": "video",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/media/AntigravityTeamwork_HillClimbing_1x.mp4"
+        },
+        {
+          "t": "p",
+          "x": "외부 과학자와 개발자도 오늘부터 Antigravity와 Deep Review에서 Gemini 4 모델을 /teamwork·/boost와 함께 쓸 수 있다. 학계 연구자 10,000명에게 최상위 사용 등급을 여섯 달간 무료로 주는 프로그램도 신청을 받는다."
+        }
+      ]
     }
   }
 }

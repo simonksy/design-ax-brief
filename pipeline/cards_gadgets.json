@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "section": "gadgets",
   "cards": [
     {
-      "id": "wired-oats-eink-pets",
+      "id": "apple-siri-usage-limits",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "E Ink OATs가\n사물을 가상 펫으로",
-      "body": "Carnegie Mellon 학생의 OATs는 사물에 성격을 입혀 습관을 돕는다.",
-      "mini_headline": "일상 사물을 위한 E Ink 펫",
+      "headline": "Apple, Siri AI\n복잡한 요청에 일일 한도",
+      "body": "iOS 27.3 베타가 Siri AI에 일일 한도를 걸고 iCloud+엔 늘린다.",
+      "mini_headline": "Apple, Siri AI 한도 시험",
       "tool": "Gadgets",
-      "source": "WIRED",
-      "url": "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription",
       "accent": "#ff5a4d",
       "motif": "headset",
       "full": {
@@ -19,197 +19,203 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://media.wired.com/photos/6af4802ffbe5af43ea5dee0a/191:100/w_1280,c_limit/Screenshot%202026-11-11%20at%2014.47.44.png"
+            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/siri-ai.jpg?quality=90&strip=all&crop=10.869565217391%2C0%2C78.260869565217%2C100&w=2400",
+            "cap": "이미지: Apple"
           },
           {
             "t": "p",
-            "x": "식물에 물 주는 걸 깜빡했다. 잎이 누렇게 변하는 대신, 작은 화면 속 귀여운 식물 모양 펫이 슬프고 풀 죽은 얼굴을 한다. OATs, 즉 Object Agent Twins의 발상이다. 집 안의 평범한 사물과 짝을 이루도록 만든 마이크로 에이전트 AI 아바타가 작은 E Ink 디스플레이에 뜬다. 만든 사람은 Carnegie Mellon Future Interfaces Group의 박사(PhD) 과정 다섯 해째 학생 Daehwa Kim이다. Kim은 Detroit에서 열린 ACM Symposium on User Interface Software and Technology에서 이 프로젝트를 발표해 Honorable Mention 상 두 개를 받았다."
+            "x": "MacRumors에 따르면 Apple은 오늘 iOS 27.3, iPadOS 27.3, macOS 27.3 베타를 공개했다. 이번 업데이트에서 일부 Siri AI와 Apple Intelligence 기능에 기기별 일일 사용 한도를 새로 시험한다."
           },
           {
             "t": "p",
-            "x": "OATs는 수분, 온도, 습도, 조도, 재실 여부, 움직임을 감지하는 센서에 E Ink 디스플레이를 붙인 구조다(메인 모듈은 약 $20). 스프라이트는 Google Gemini의 Nano Banana가 그리고, 웹 포털은 사물의 이름과 설명을 보고 “Positive”와 “Negative” 행동을 만든다. 스케이트보드를 며칠 내버려 두면 아바타가 슬프고 외로워 보이고, 올라타면 기뻐한다."
+            "x": "기본적인 Siri 명령과 요청은 지금처럼 무료로, 횟수 제한 없이 쓸 수 있다. 일일 한도가 걸리는 건 Photos의 이미지 생성·정리·확장처럼 클라우드 처리에 기대는 고급 기능이다. 대상은 네 가지다. “여러 단계를 거치는 개인 맥락 요청”을 처리하는 Siri AI, 이미지 생성·편집 도구, “Apple Foundation Cloud와 Cloud Pro Models에 의존하는” Shortcuts 자동화, 같은 클라우드 모델을 쓰는 서드파티 앱이다."
           },
           {
             "t": "p",
-            "x": "배터리는 사흘에서 나흘 정도밖에 못 가고, 소음 센서를 켜면 하루 남짓이라 아직은 개념 증명 단계다. 테스터들은 OATs로 사물이 쓰이는지 확인했고, 작동 중인 3D 프린터 근처에 온 사람에게 경고를 띄웠다. 꾸준한 운동을 독려한 덤벨처럼 습관을 기록하기도 했다."
-          },
-          {
-            "t": "img",
-            "src": "https://media.wired.com/photos/6af4807c3969d4fffae9b294/master/w_1600%2Cc_limit/user_oat_setup.png"
+            "x": "Apple은 기능별로 하루 몇 번까지 쓸 수 있는지 정확히 밝히지 않았다. 한도는 작업마다 다르고, 한도에 가까워지거나 다 쓰면 알림이 뜬다."
           },
           {
             "t": "p",
-            "x": "데모는 AI 의인화 논쟁도 불러왔다. 그래서 OATs의 상호작용은 E Ink 디스플레이 위 감정 표현으로 한정된다. Kim은 “의인화는 사람들의 행동 변화를 돕는 것처럼 어떤 면에서는 매우 유용할 수 있다”며 “하지만 이를 남용하지 않도록 분명히 조심해야 한다”고 말한다."
+            "x": "50GB 옵션을 뺀 대부분의 iCloud Plus 요금제는 같은 가격에 일일 한도가 더 높다. 월 $2.99 200GB 요금제는 사용량이 2x 수준, 월 $9.99 2TB 요금제는 5x 수준이다. 월 $29.99 6TB 옵션과 월 $59.99 12TB 옵션은 각각 10x 와 20x 수준까지 늘어난다. iCloud Plus를 공유하는 가족 구성원은 사용량을 나눠 쓴다."
+          },
+          {
+            "t": "p",
+            "x": "Apple은 지난주 Logic Pro에 $49.99 Intelligence Usage Packs로 사는 “Buy More Usage” 옵션을 넣었다. 이 옵션은 이달 중 다른 Apple Creator Studio 앱으로도 확대될 전망이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "E Ink OATs turn objects\ninto needy virtual pets",
-          "body": "A Carnegie Mellon student's E Ink OATs give plants, skateboards, and dumbbells personalities to nudge better habits.",
-          "mini_headline": "E Ink pets for everyday objects",
+          "headline": "Apple tests daily caps\non complex Siri AI requests",
+          "body": "The iOS 27.3 beta caps complex Siri AI requests per device each day, with higher limits for iCloud+ tiers.",
+          "mini_headline": "Apple tests Siri AI caps",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6af4802ffbe5af43ea5dee0a/191:100/w_1280,c_limit/Screenshot%202026-11-11%20at%2014.47.44.png"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/siri-ai.jpg?quality=90&strip=all&crop=10.869565217391%2C0%2C78.260869565217%2C100&w=2400",
+                "cap": "Image: Apple"
               },
               {
                 "t": "p",
-                "x": "You forgot to water the plant. Instead of yellowing leaves, you see a cute plant-shaped pet on a tiny screen, looking sad and dejected. That's the idea behind OATs, or Object Agent Twins—micro-agent AI avatars on tiny E Ink displays designed to pair with everyday household objects, created by Daehwa Kim, a fifth-year PhD student in Carnegie Mellon's Future Interfaces Group. Kim presented the project at the ACM Symposium on User Interface Software and Technology in Detroit and earned two Honorable Mention awards."
+                "x": "Apple released betas of iOS 27.3, iPadOS 27.3, and macOS 27.3 today, and the company is using the update to test new per device daily usage limits for some Siri AI and Apple Intelligence features, according to MacRumors."
               },
               {
                 "t": "p",
-                "x": "OATs have an E Ink display connected to sensors that track moisture, temperature, humidity, light, occupancy, and motion (around $20 for the main module). The sprites are created with Google Gemini's Nano Banana, and a web portal generates “Positive” and “Negative” behaviors from your object's name and description. Leave a skateboard unused for days and the avatar looks sad and lonely; hop on and it's happy."
+                "x": "Basic Siri commands and requests will remain free and unlimited, but more advanced features that rely on cloud-based processing like generating, cleaning up, or extending images in Photos will be subjected to the daily limits. There are four categories of limited usage, including Siri AI for “multi-step, personal context requests,” image generation and editing tools, Shortcuts automations that “rely on Apple Foundation Cloud and Cloud Pro Models,” and third-party apps that use those same cloud models."
               },
               {
                 "t": "p",
-                "x": "Battery life is short—around three to four days, or a day with the sound-level sensor—so this is more of a proof of concept. Testers used OATs to see whether an object is being used, to warn people near a running 3D printer, and to track habits, like a dumbbell that encouraged regular exercise."
-              },
-              {
-                "t": "img",
-                "src": "https://media.wired.com/photos/6af4807c3969d4fffae9b294/master/w_1600%2Cc_limit/user_oat_setup.png"
+                "x": "Apple hasn’t specified exactly how many times those features can be used each day, but limits will vary based on the task, and users will be notified when approaching and reaching them."
               },
               {
                 "t": "p",
-                "x": "The demo also sparked discussion about anthropomorphizing AI, which is why OATs' interactions are limited to expressive emotions on the E Ink display. “Anthropomorphism can be very useful in certain ways, like helping people to change their behaviors,” Kim says, “but we should definitely be careful not to abuse this.”"
+                "x": "Most iCloud Plus plans (excluding the 50GB option) will include higher daily limits at their same price: the $2.99/month 200GB plan includes 2x the usage, the $9.99/month 2TB plan 5x, while the $29.99/month 6TB and $59.99 12TB/month options bump it to 10x and 20x. Family members sharing iCloud Plus get a shared usage pool."
+              },
+              {
+                "t": "p",
+                "x": "Last week Apple updated Logic Pro with a “Buy More Usage” option through $49.99 Intelligence Usage Packs, expected to come to other Apple Creator Studio apps this month."
               }
             ]
           }
         },
         "ko": {
-          "headline": "E Ink OATs가\n사물을 가상 펫으로",
-          "body": "Carnegie Mellon 학생의 OATs는 사물에 성격을 입혀 습관을 돕는다.",
-          "mini_headline": "일상 사물을 위한 E Ink 펫",
+          "headline": "Apple, Siri AI\n복잡한 요청에 일일 한도",
+          "body": "iOS 27.3 베타가 Siri AI에 일일 한도를 걸고 iCloud+엔 늘린다.",
+          "mini_headline": "Apple, Siri AI 한도 시험",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6af4802ffbe5af43ea5dee0a/191:100/w_1280,c_limit/Screenshot%202026-11-11%20at%2014.47.44.png"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/siri-ai.jpg?quality=90&strip=all&crop=10.869565217391%2C0%2C78.260869565217%2C100&w=2400",
+                "cap": "이미지: Apple"
               },
               {
                 "t": "p",
-                "x": "식물에 물 주는 걸 깜빡했다. 잎이 누렇게 변하는 대신, 작은 화면 속 귀여운 식물 모양 펫이 슬프고 풀 죽은 얼굴을 한다. OATs, 즉 Object Agent Twins의 발상이다. 집 안의 평범한 사물과 짝을 이루도록 만든 마이크로 에이전트 AI 아바타가 작은 E Ink 디스플레이에 뜬다. 만든 사람은 Carnegie Mellon Future Interfaces Group의 박사(PhD) 과정 다섯 해째 학생 Daehwa Kim이다. Kim은 Detroit에서 열린 ACM Symposium on User Interface Software and Technology에서 이 프로젝트를 발표해 Honorable Mention 상 두 개를 받았다."
+                "x": "MacRumors에 따르면 Apple은 오늘 iOS 27.3, iPadOS 27.3, macOS 27.3 베타를 공개했다. 이번 업데이트에서 일부 Siri AI와 Apple Intelligence 기능에 기기별 일일 사용 한도를 새로 시험한다."
               },
               {
                 "t": "p",
-                "x": "OATs는 수분, 온도, 습도, 조도, 재실 여부, 움직임을 감지하는 센서에 E Ink 디스플레이를 붙인 구조다(메인 모듈은 약 $20). 스프라이트는 Google Gemini의 Nano Banana가 그리고, 웹 포털은 사물의 이름과 설명을 보고 “Positive”와 “Negative” 행동을 만든다. 스케이트보드를 며칠 내버려 두면 아바타가 슬프고 외로워 보이고, 올라타면 기뻐한다."
+                "x": "기본적인 Siri 명령과 요청은 지금처럼 무료로, 횟수 제한 없이 쓸 수 있다. 일일 한도가 걸리는 건 Photos의 이미지 생성·정리·확장처럼 클라우드 처리에 기대는 고급 기능이다. 대상은 네 가지다. “여러 단계를 거치는 개인 맥락 요청”을 처리하는 Siri AI, 이미지 생성·편집 도구, “Apple Foundation Cloud와 Cloud Pro Models에 의존하는” Shortcuts 자동화, 같은 클라우드 모델을 쓰는 서드파티 앱이다."
               },
               {
                 "t": "p",
-                "x": "배터리는 사흘에서 나흘 정도밖에 못 가고, 소음 센서를 켜면 하루 남짓이라 아직은 개념 증명 단계다. 테스터들은 OATs로 사물이 쓰이는지 확인했고, 작동 중인 3D 프린터 근처에 온 사람에게 경고를 띄웠다. 꾸준한 운동을 독려한 덤벨처럼 습관을 기록하기도 했다."
-              },
-              {
-                "t": "img",
-                "src": "https://media.wired.com/photos/6af4807c3969d4fffae9b294/master/w_1600%2Cc_limit/user_oat_setup.png"
+                "x": "Apple은 기능별로 하루 몇 번까지 쓸 수 있는지 정확히 밝히지 않았다. 한도는 작업마다 다르고, 한도에 가까워지거나 다 쓰면 알림이 뜬다."
               },
               {
                 "t": "p",
-                "x": "데모는 AI 의인화 논쟁도 불러왔다. 그래서 OATs의 상호작용은 E Ink 디스플레이 위 감정 표현으로 한정된다. Kim은 “의인화는 사람들의 행동 변화를 돕는 것처럼 어떤 면에서는 매우 유용할 수 있다”며 “하지만 이를 남용하지 않도록 분명히 조심해야 한다”고 말한다."
+                "x": "50GB 옵션을 뺀 대부분의 iCloud Plus 요금제는 같은 가격에 일일 한도가 더 높다. 월 $2.99 200GB 요금제는 사용량이 2x 수준, 월 $9.99 2TB 요금제는 5x 수준이다. 월 $29.99 6TB 옵션과 월 $59.99 12TB 옵션은 각각 10x 와 20x 수준까지 늘어난다. iCloud Plus를 공유하는 가족 구성원은 사용량을 나눠 쓴다."
+              },
+              {
+                "t": "p",
+                "x": "Apple은 지난주 Logic Pro에 $49.99 Intelligence Usage Packs로 사는 “Buy More Usage” 옵션을 넣었다. 이 옵션은 이달 중 다른 Apple Creator Studio 앱으로도 확대될 전망이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "E Ink OATsが\n物を仮想ペットに変える",
-          "body": "Carnegie Mellonの学生によるOATsは、物に性格を与え習慣を後押しする。",
-          "mini_headline": "日用品のためのE Inkペット",
+          "headline": "Apple、Siri AI\n複雑な要求に日次上限を試験",
+          "body": "iOS 27.3 ベータは複雑なSiri AI要求に日次上限、iCloud+は枠を拡大する。",
+          "mini_headline": "Apple、Siri AIに利用上限を試験",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6af4802ffbe5af43ea5dee0a/191:100/w_1280,c_limit/Screenshot%202026-11-11%20at%2014.47.44.png"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/siri-ai.jpg?quality=90&strip=all&crop=10.869565217391%2C0%2C78.260869565217%2C100&w=2400",
+                "cap": "画像：Apple"
               },
               {
                 "t": "p",
-                "x": "植物に水をやり忘れた。黄ばんだ葉の代わりに目に入るのは、小さな画面の中でしょんぼりと悲しげにしている、植物の形をしたかわいいペットだ。これがOATs（Object Agent Twins）の発想である。日常の家庭用品と組み合わせるよう設計された、小型E Inkディスプレイ上のマイクロエージェントAIアバターで、Carnegie MellonのFuture Interfaces Groupに所属する博士課程（PhD）五年目のDaehwa Kimが開発した。KimはDetroitで開かれたACM Symposium on User Interface Software and Technologyでこのプロジェクトを発表し、Honorable Mentionを二つ受賞した。"
+                "x": "MacRumorsによると、Appleは本日iOS 27.3、iPadOS 27.3、macOS 27.3のベータ版を公開し、このアップデートで一部のSiri AIとApple Intelligence機能にデバイスごとの日次利用上限を新たに試している。"
               },
               {
                 "t": "p",
-                "x": "OATsは、水分、温度、湿度、照度、在室、動きを検知するセンサーにE Inkディスプレイを接続したものだ（メインモジュールは約$20）。スプライトはGoogle GeminiのNano Bananaで作られ、ウェブポータルが物の名前と説明から「Positive」と「Negative」の振る舞いを生成する。スケートボードを何日も使わずにいるとアバターは悲しく寂しげになり、乗れば喜ぶ。"
+                "x": "基本的なSiriのコマンドやリクエストは引き続き無料かつ無制限だが、Photosでの画像の生成・クリーンアップ・拡張など、クラウド処理に依存する高度な機能は日次上限の対象になる。制限対象は四つのカテゴリーで、「複数ステップの、個人的な文脈を含むリクエスト」向けのSiri AI、画像生成・編集ツール、「Apple Foundation CloudとCloud Pro Modelsに依存する」Shortcutsの自動化、そして同じクラウドモデルを使うサードパーティアプリだ。"
               },
               {
                 "t": "p",
-                "x": "バッテリー持続時間は三〜四日ほど、騒音センサーを使うと一日ほどと短く、現時点では概念実証に近い。テスターはOATsを使って、物が使われているかを確認したり、稼働中の3Dプリンターの近くにいる人に警告したり、定期的な運動を促したダンベルのように習慣を記録したりした。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.wired.com/photos/6af4807c3969d4fffae9b294/master/w_1600%2Cc_limit/user_oat_setup.png"
+                "x": "Appleはこれらの機能を毎日何回使えるかを正確には示していないが、上限はタスクによって異なり、上限に近づいたときと達したときにユーザーへ通知される。"
               },
               {
                 "t": "p",
-                "x": "このデモはAIの擬人化をめぐる議論も呼んだ。そのためOATsのやり取りは、E Inkディスプレイ上の感情表現に限られている。「擬人化は、人の行動を変える手助けをするなど、ある面ではとても役に立つことがある」とKimは言う。「しかし、これを乱用しないよう確実に注意すべきだ」"
+                "x": "iCloud Plusのほとんどのプラン（50GB オプションを除く）は、同じ価格でより高い日次上限を備える。月額$2.99の200GB プランは利用量が2x 、月額$9.99の2TB プランは5x 、月額$29.99の6TB と月額$59.99の12TB オプションはそれぞれ10x と20x に引き上げられる。iCloud Plusを共有する家族メンバーは共有の利用枠を使う。"
+              },
+              {
+                "t": "p",
+                "x": "Appleは先週、Logic Proに$49.99のIntelligence Usage Packsによる「Buy More Usage」オプションを追加した。今月中に他のApple Creator Studioアプリにも導入される見込みだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "E Ink OATs\n让物件变成黏人的虚拟宠物",
-          "body": "Carnegie Mellon学生的OATs为植物、滑板和哑铃赋予个性，促成好习惯。",
-          "mini_headline": "为日常物件打造的E Ink宠物",
+          "headline": "Apple测试Siri AI\n复杂请求每日上限",
+          "body": "iOS 27.3 测试版按设备每日限制复杂的Siri AI请求，iCloud+套餐上限更高。",
+          "mini_headline": "Apple测试Siri AI用量上限",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6af4802ffbe5af43ea5dee0a/191:100/w_1280,c_limit/Screenshot%202026-11-11%20at%2014.47.44.png"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/siri-ai.jpg?quality=90&strip=all&crop=10.869565217391%2C0%2C78.260869565217%2C100&w=2400",
+                "cap": "图片：Apple"
               },
               {
                 "t": "p",
-                "x": "你忘了给植物浇水。映入眼帘的不是发黄的叶子，而是小屏幕上一只可爱的植物造型宠物，看起来又难过又沮丧。这就是OATs（Object Agent Twins）背后的构想：运行在小型E Ink显示屏上的微型智能体AI化身，专为与日常家居物件配对而设计，由Carnegie Mellon的Future Interfaces Group五年级PhD学生Daehwa Kim打造。Kim在Detroit举行的ACM Symposium on User Interface Software and Technology上展示了这一项目，并获得两项Honorable Mention奖。"
+                "x": "据MacRumors报道，Apple今天发布了iOS 27.3、iPadOS 27.3和macOS 27.3测试版，并借这次更新为部分Siri AI和Apple Intelligence功能测试新的按设备每日使用上限。"
               },
               {
                 "t": "p",
-                "x": "OATs的E Ink显示屏连接着可监测水分、温度、湿度、光照、占用状态和运动的传感器（主模块约$20）。精灵形象由Google Gemini的Nano Banana生成，网页门户会根据物件的名称和描述生成“Positive”和“Negative”行为。滑板几天不用，化身就显得悲伤孤独；踩上去，它就开心起来。"
+                "x": "基础的Siri指令和请求仍将免费且不限次数，但依赖云端处理的高级功能，例如在Photos中生成、清理或扩展图像，将受每日上限约束。受限用途分为四类：处理“多步骤、个人情境请求”的Siri AI，图像生成与编辑工具，“依赖Apple Foundation Cloud和Cloud Pro Models”的Shortcuts自动化，以及使用同样云端模型的第三方应用。"
               },
               {
                 "t": "p",
-                "x": "电池续航很短——约三到四天，若启用声级传感器则只有一天左右——因此它更像是一个概念验证。测试者用OATs查看物件是否在被使用、提醒运行中的3D打印机附近的人，以及追踪习惯，比如一只鼓励规律锻炼的哑铃。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.wired.com/photos/6af4807c3969d4fffae9b294/master/w_1600%2Cc_limit/user_oat_setup.png"
+                "x": "Apple没有具体说明这些功能每天可以使用多少次，但上限会因任务而异，用户在接近和达到上限时都会收到通知。"
               },
               {
                 "t": "p",
-                "x": "这次演示也引发了关于AI拟人化的讨论，这也是OATs的交互仅限于E Ink显示屏上情绪表达的原因。“拟人化在某些方面可能非常有用，比如帮助人们改变行为，”Kim说，“但我们绝对应该小心，不要滥用这一点。”"
+                "x": "大多数iCloud Plus方案（50GB 方案除外）将在价格不变的情况下提供更高的每日上限：每月$2.99的200GB 方案用量为2x ，每月$9.99的2TB 方案为5x ，每月$29.99的6TB 和每月$59.99的12TB 方案则分别提升至10x 和20x 。共享iCloud Plus的家庭成员共用一个用量池。"
+              },
+              {
+                "t": "p",
+                "x": "上周Apple为Logic Pro加入了“Buy More Usage”选项，可通过$49.99的Intelligence Usage Packs购买，预计本月将扩展到其他Apple Creator Studio应用。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los E Ink OATs convierten\nobjetos en mascotas exigentes",
-          "body": "Los E Ink OATs de un alumno de Carnegie Mellon dan personalidad a plantas, patinetas y pesas para mejorar hábitos.",
-          "mini_headline": "Mascotas E Ink para objetos cotidianos",
+          "headline": "Apple prueba límites diarios\na peticiones complejas a Siri AI",
+          "body": "La beta de iOS 27.3 limita a diario las peticiones complejas a Siri AI por dispositivo, con más margen en iCloud+.",
+          "mini_headline": "Apple prueba límites en Siri AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6af4802ffbe5af43ea5dee0a/191:100/w_1280,c_limit/Screenshot%202026-11-11%20at%2014.47.44.png"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/siri-ai.jpg?quality=90&strip=all&crop=10.869565217391%2C0%2C78.260869565217%2C100&w=2400",
+                "cap": "Imagen: Apple"
               },
               {
                 "t": "p",
-                "x": "Olvidaste regar la planta. En lugar de hojas amarillentas, ves en una pequeña pantalla una simpática mascota con forma de planta, triste y abatida. Esa es la idea detrás de OATs, u Object Agent Twins: avatares de AI con microagentes en pequeñas pantallas E Ink, diseñados para acompañar objetos cotidianos del hogar y creados por Daehwa Kim, estudiante de quinto año de PhD en el Future Interfaces Group de Carnegie Mellon. Kim presentó el proyecto en el ACM Symposium on User Interface Software and Technology en Detroit y obtuvo dos premios Honorable Mention."
+                "x": "Apple lanzó hoy las betas de iOS 27.3, iPadOS 27.3 y macOS 27.3, y está usando la actualización para probar nuevos límites de uso diario por dispositivo en algunas funciones de Siri AI y Apple Intelligence, según MacRumors."
               },
               {
                 "t": "p",
-                "x": "Los OATs tienen una pantalla E Ink conectada a sensores que registran humedad, temperatura, humedad relativa, luz, ocupación y movimiento (unos $20 por el módulo principal). Los sprites se crean con Nano Banana de Google Gemini, y un portal web genera comportamientos “Positive” y “Negative” a partir del nombre y la descripción del objeto. Si una patineta pasa días sin usarse, el avatar se ve triste y solo; si te subes, se pone contento."
+                "x": "Los comandos y peticiones básicos a Siri seguirán siendo gratuitos e ilimitados, pero las funciones más avanzadas que dependen del procesamiento en la nube, como generar, limpiar o ampliar imágenes en Photos, estarán sujetas a los límites diarios. Hay cuatro categorías de uso limitado: Siri AI para “peticiones de varios pasos con contexto personal”, las herramientas de generación y edición de imágenes, las automatizaciones de Shortcuts que “dependen de Apple Foundation Cloud y Cloud Pro Models” y las apps de terceros que usan esos mismos modelos en la nube."
               },
               {
                 "t": "p",
-                "x": "La batería dura poco —entre tres y cuatro días, o un día con el sensor de nivel sonoro—, así que es más bien una prueba de concepto. Quienes lo probaron usaron OATs para saber si un objeto se está usando, advertir a quienes están cerca de una impresora 3D en marcha y seguir hábitos, como una mancuerna que animaba a hacer ejercicio con regularidad."
-              },
-              {
-                "t": "img",
-                "src": "https://media.wired.com/photos/6af4807c3969d4fffae9b294/master/w_1600%2Cc_limit/user_oat_setup.png"
+                "x": "Apple no ha especificado cuántas veces exactamente se pueden usar esas funciones cada día, pero los límites variarán según la tarea y los usuarios recibirán un aviso al acercarse a ellos y al alcanzarlos."
               },
               {
                 "t": "p",
-                "x": "La demostración también abrió el debate sobre la antropomorfización de la AI, y por eso las interacciones de los OATs se limitan a emociones expresivas en la pantalla E Ink. “La antropomorfización puede ser muy útil en ciertos aspectos, como ayudar a las personas a cambiar sus conductas”, dice Kim, “pero sin duda debemos tener cuidado de no abusar de esto”."
+                "x": "La mayoría de los planes de iCloud Plus (salvo la opción de 50GB) incluirán límites diarios más altos al mismo precio: el plan de 200GB por $2.99/mes ofrece 2x el uso, el de 2TB por $9.99/mes 5x, y las opciones de 6TB por $29.99/mes y de 12TB por $59.99/mes lo elevan a 10x y 20x. Los miembros de la familia que comparten iCloud Plus disponen de un fondo de uso compartido."
+              },
+              {
+                "t": "p",
+                "x": "La semana pasada Apple actualizó Logic Pro con una opción “Buy More Usage” mediante Intelligence Usage Packs de $49.99, que se espera llegue este mes a otras apps de Apple Creator Studio."
               }
             ]
           }
@@ -217,137 +223,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "E Ink OATs가\n사물을 가상 펫으로",
-          "body": "Carnegie Mellon 학생의 OATs는 사물에 성격을 입혀 습관을 돕는다.",
-          "mini_headline": "일상 사물을 위한 E Ink 펫",
+          "headline": "Apple, Siri AI\n복잡한 요청에 일일 한도",
+          "body": "iOS 27.3 베타는 Siri AI 일일 한도를 두고 iCloud+엔 높인다.",
+          "mini_headline": "Apple, Siri AI 한도 시험",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6af4802ffbe5af43ea5dee0a/191:100/w_1280,c_limit/Screenshot%202026-11-11%20at%2014.47.44.png"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/siri-ai.jpg?quality=90&strip=all&crop=10.869565217391%2C0%2C78.260869565217%2C100&w=2400",
+                "cap": "이미지: Apple"
               },
               {
                 "t": "p",
-                "x": "식물에 물 주는 것을 잊었다. 누렇게 변한 잎 대신, 작은 화면 속 귀여운 식물 모양 펫이 슬프고 풀 죽은 얼굴을 하고 있다. 이것이 OATs, 즉 Object Agent Twins의 발상이다. 일상 가정용 사물과 짝을 이루도록 설계된 작은 E Ink 디스플레이 위의 마이크로 에이전트 AI 아바타로, Carnegie Mellon Future Interfaces Group의 박사(PhD) 과정 다섯 해째 학생 Daehwa Kim이 만들었다. Kim은 Detroit에서 열린 ACM Symposium on User Interface Software and Technology에서 이 프로젝트를 발표해 Honorable Mention 상 두 개를 받았다."
+                "x": "MacRumors에 따르면 Apple은 오늘 iOS 27.3, iPadOS 27.3, macOS 27.3 베타를 공개하고, 이번 업데이트로 일부 Siri AI와 Apple Intelligence 기능에 기기별 일일 사용 한도를 새로 시험하고 있다."
               },
               {
                 "t": "p",
-                "x": "OATs는 수분, 온도, 습도, 조도, 재실 여부, 움직임을 감지하는 센서에 E Ink 디스플레이를 연결한 구조다(메인 모듈은 약 $20). 스프라이트는 Google Gemini의 Nano Banana로 만들고, 웹 포털이 사물의 이름과 설명을 바탕으로 “Positive”와 “Negative” 행동을 생성한다. 스케이트보드를 며칠 내버려 두면 아바타가 슬프고 외로워 보이고, 올라타면 기뻐한다."
+                "x": "기본적인 Siri 명령과 요청은 지금처럼 무료로 무제한 쓸 수 있다. 다만 Photos에서 이미지를 생성하거나 정리하거나 확장하는 기능처럼 클라우드 처리에 의존하는 고급 기능에는 일일 한도가 적용된다. 사용 제한 대상은 네 가지다. “여러 단계를 거치는 개인 맥락 요청”을 처리하는 Siri AI, 이미지 생성·편집 도구, “Apple Foundation Cloud와 Cloud Pro Models에 의존하는” Shortcuts 자동화, 그리고 같은 클라우드 모델을 쓰는 서드파티 앱이다."
               },
               {
                 "t": "p",
-                "x": "배터리 수명은 사흘에서 나흘 정도로 짧고, 소음 센서를 쓰면 하루 정도에 그쳐 아직은 개념 증명에 가깝다. 테스터들은 OATs로 사물이 쓰이고 있는지 확인하고, 작동 중인 3D 프린터 근처의 사람에게 경고하고, 꾸준한 운동을 독려한 덤벨처럼 습관을 기록했다."
-              },
-              {
-                "t": "img",
-                "src": "https://media.wired.com/photos/6af4807c3969d4fffae9b294/master/w_1600%2Cc_limit/user_oat_setup.png"
+                "x": "Apple은 각 기능을 하루에 정확히 몇 번 쓸 수 있는지 밝히지 않았다. 한도는 작업에 따라 다르며, 한도에 가까워지거나 도달하면 사용자에게 알림이 간다."
               },
               {
                 "t": "p",
-                "x": "이 데모는 AI 의인화에 관한 논의도 불러왔고, 그래서 OATs의 상호작용은 E Ink 디스플레이 위의 감정 표현으로 한정된다. Kim은 “의인화는 사람들의 행동 변화를 돕는 것처럼 어떤 면에서는 매우 유용할 수 있다”며 “하지만 이를 남용하지 않도록 분명히 조심해야 한다”고 말한다."
+                "x": "대부분의 iCloud Plus 요금제(50GB 옵션 제외)는 같은 가격에 더 높은 일일 한도를 제공한다. 월 $2.99 200GB 요금제는 사용량이 2x 수준, 월 $9.99 2TB 요금제는 5x 수준이고, 월 $29.99 6TB 옵션과 월 $59.99 12TB 옵션은 각각 10x 와 20x 수준으로 늘어난다. iCloud Plus를 공유하는 가족 구성원은 사용량을 함께 나눠 쓴다."
+              },
+              {
+                "t": "p",
+                "x": "Apple은 지난주 Logic Pro에 $49.99 Intelligence Usage Packs를 통한 “Buy More Usage” 옵션을 추가했으며, 이 옵션은 이달 중 다른 Apple Creator Studio 앱에도 적용될 전망이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "E Ink OATsが\n物を仮想ペットに変える",
-          "body": "Carnegie Mellonの学生によるOATsは、物に性格を与え習慣を後押しする。",
-          "mini_headline": "日用品のためのE Inkペット",
+          "headline": "Apple、Siri AI\n複雑な要求に日次上限を試験",
+          "body": "iOS 27.3 ベータは複雑なSiri AI要求に日次上限、iCloud+は枠を拡大する。",
+          "mini_headline": "Apple、Siri AIに利用上限を試験",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6af4802ffbe5af43ea5dee0a/191:100/w_1280,c_limit/Screenshot%202026-11-11%20at%2014.47.44.png"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/siri-ai.jpg?quality=90&strip=all&crop=10.869565217391%2C0%2C78.260869565217%2C100&w=2400",
+                "cap": "画像：Apple"
               },
               {
                 "t": "p",
-                "x": "植物に水をやり忘れた。黄ばんだ葉の代わりに目に入るのは、小さな画面の中でしょんぼりと悲しげにしている、植物の形をしたかわいいペットだ。これがOATs（Object Agent Twins）の発想である。日常の家庭用品と組み合わせるよう設計された、小型E Inkディスプレイ上のマイクロエージェントAIアバターで、Carnegie MellonのFuture Interfaces Groupに所属する博士課程（PhD）五年目のDaehwa Kimが開発した。KimはDetroitで開かれたACM Symposium on User Interface Software and Technologyでこのプロジェクトを発表し、Honorable Mentionを二つ受賞した。"
+                "x": "MacRumorsによると、Appleは本日iOS 27.3、iPadOS 27.3、macOS 27.3のベータ版を公開し、このアップデートで一部のSiri AIとApple Intelligence機能にデバイスごとの日次利用上限を新たに試している。"
               },
               {
                 "t": "p",
-                "x": "OATsは、水分、温度、湿度、照度、在室、動きを検知するセンサーにE Inkディスプレイを接続したものだ（メインモジュールは約$20）。スプライトはGoogle GeminiのNano Bananaで作られ、ウェブポータルが物の名前と説明から「Positive」と「Negative」の振る舞いを生成する。スケートボードを何日も使わずにいるとアバターは悲しく寂しげになり、乗れば喜ぶ。"
+                "x": "基本的なSiriのコマンドやリクエストは引き続き無料かつ無制限だが、Photosでの画像の生成・クリーンアップ・拡張など、クラウド処理に依存する高度な機能は日次上限の対象になる。制限対象は四つのカテゴリーで、「複数ステップの、個人的な文脈を含むリクエスト」向けのSiri AI、画像生成・編集ツール、「Apple Foundation CloudとCloud Pro Modelsに依存する」Shortcutsの自動化、そして同じクラウドモデルを使うサードパーティアプリだ。"
               },
               {
                 "t": "p",
-                "x": "バッテリー持続時間は三〜四日ほど、騒音センサーを使うと一日ほどと短く、現時点では概念実証に近い。テスターはOATsを使って、物が使われているかを確認したり、稼働中の3Dプリンターの近くにいる人に警告したり、定期的な運動を促したダンベルのように習慣を記録したりした。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.wired.com/photos/6af4807c3969d4fffae9b294/master/w_1600%2Cc_limit/user_oat_setup.png"
+                "x": "Appleはこれらの機能を毎日何回使えるかを正確には示していないが、上限はタスクによって異なり、上限に近づいたときと達したときにユーザーへ通知される。"
               },
               {
                 "t": "p",
-                "x": "このデモはAIの擬人化をめぐる議論も呼んだ。そのためOATsのやり取りは、E Inkディスプレイ上の感情表現に限られている。「擬人化は、人の行動を変える手助けをするなど、ある面ではとても役に立つことがある」とKimは言う。「しかし、これを乱用しないよう確実に注意すべきだ」"
+                "x": "iCloud Plusのほとんどのプラン（50GB オプションを除く）は、同じ価格でより高い日次上限を備える。月額$2.99の200GB プランは利用量が2x 、月額$9.99の2TB プランは5x 、月額$29.99の6TB と月額$59.99の12TB オプションはそれぞれ10x と20x に引き上げられる。iCloud Plusを共有する家族メンバーは共有の利用枠を使う。"
+              },
+              {
+                "t": "p",
+                "x": "Appleは先週、Logic Proに$49.99のIntelligence Usage Packsによる「Buy More Usage」オプションを追加した。今月中に他のApple Creator Studioアプリにも導入される見込みだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "E Ink OATs\n让物件变成黏人的虚拟宠物",
-          "body": "Carnegie Mellon学生的OATs为植物、滑板和哑铃赋予个性，促成好习惯。",
-          "mini_headline": "为日常物件打造的E Ink宠物",
+          "headline": "Apple测试Siri AI\n复杂请求每日上限",
+          "body": "iOS 27.3 测试版按设备每日限制复杂的Siri AI请求，iCloud+套餐上限更高。",
+          "mini_headline": "Apple测试Siri AI用量上限",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6af4802ffbe5af43ea5dee0a/191:100/w_1280,c_limit/Screenshot%202026-11-11%20at%2014.47.44.png"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/siri-ai.jpg?quality=90&strip=all&crop=10.869565217391%2C0%2C78.260869565217%2C100&w=2400",
+                "cap": "图片：Apple"
               },
               {
                 "t": "p",
-                "x": "你忘了给植物浇水。映入眼帘的不是发黄的叶子，而是小屏幕上一只可爱的植物造型宠物，看起来又难过又沮丧。这就是OATs（Object Agent Twins）背后的构想：运行在小型E Ink显示屏上的微型智能体AI化身，专为与日常家居物件配对而设计，由Carnegie Mellon的Future Interfaces Group五年级PhD学生Daehwa Kim打造。Kim在Detroit举行的ACM Symposium on User Interface Software and Technology上展示了这一项目，并获得两项Honorable Mention奖。"
+                "x": "据MacRumors报道，Apple今天发布了iOS 27.3、iPadOS 27.3和macOS 27.3测试版，并借这次更新为部分Siri AI和Apple Intelligence功能测试新的按设备每日使用上限。"
               },
               {
                 "t": "p",
-                "x": "OATs的E Ink显示屏连接着可监测水分、温度、湿度、光照、占用状态和运动的传感器（主模块约$20）。精灵形象由Google Gemini的Nano Banana生成，网页门户会根据物件的名称和描述生成“Positive”和“Negative”行为。滑板几天不用，化身就显得悲伤孤独；踩上去，它就开心起来。"
+                "x": "基础的Siri指令和请求仍将免费且不限次数，但依赖云端处理的高级功能，例如在Photos中生成、清理或扩展图像，将受每日上限约束。受限用途分为四类：处理“多步骤、个人情境请求”的Siri AI，图像生成与编辑工具，“依赖Apple Foundation Cloud和Cloud Pro Models”的Shortcuts自动化，以及使用同样云端模型的第三方应用。"
               },
               {
                 "t": "p",
-                "x": "电池续航很短——约三到四天，若启用声级传感器则只有一天左右——因此它更像是一个概念验证。测试者用OATs查看物件是否在被使用、提醒运行中的3D打印机附近的人，以及追踪习惯，比如一只鼓励规律锻炼的哑铃。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.wired.com/photos/6af4807c3969d4fffae9b294/master/w_1600%2Cc_limit/user_oat_setup.png"
+                "x": "Apple没有具体说明这些功能每天可以使用多少次，但上限会因任务而异，用户在接近和达到上限时都会收到通知。"
               },
               {
                 "t": "p",
-                "x": "这次演示也引发了关于AI拟人化的讨论，这也是OATs的交互仅限于E Ink显示屏上情绪表达的原因。“拟人化在某些方面可能非常有用，比如帮助人们改变行为，”Kim说，“但我们绝对应该小心，不要滥用这一点。”"
+                "x": "大多数iCloud Plus方案（50GB 方案除外）将在价格不变的情况下提供更高的每日上限：每月$2.99的200GB 方案用量为2x ，每月$9.99的2TB 方案为5x ，每月$29.99的6TB 和每月$59.99的12TB 方案则分别提升至10x 和20x 。共享iCloud Plus的家庭成员共用一个用量池。"
+              },
+              {
+                "t": "p",
+                "x": "上周Apple为Logic Pro加入了“Buy More Usage”选项，可通过$49.99的Intelligence Usage Packs购买，预计本月将扩展到其他Apple Creator Studio应用。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los E Ink OATs convierten\nobjetos en mascotas exigentes",
-          "body": "Los E Ink OATs de un alumno de Carnegie Mellon dan personalidad a plantas, patinetas y pesas para mejorar hábitos.",
-          "mini_headline": "Mascotas E Ink para objetos cotidianos",
+          "headline": "Apple prueba límites diarios\na peticiones complejas a Siri AI",
+          "body": "La beta de iOS 27.3 limita a diario las peticiones complejas a Siri AI por dispositivo, con más margen en iCloud+.",
+          "mini_headline": "Apple prueba límites en Siri AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6af4802ffbe5af43ea5dee0a/191:100/w_1280,c_limit/Screenshot%202026-11-11%20at%2014.47.44.png"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/siri-ai.jpg?quality=90&strip=all&crop=10.869565217391%2C0%2C78.260869565217%2C100&w=2400",
+                "cap": "Imagen: Apple"
               },
               {
                 "t": "p",
-                "x": "Olvidaste regar la planta. En lugar de hojas amarillentas, ves en una pequeña pantalla una simpática mascota con forma de planta, triste y abatida. Esa es la idea detrás de OATs, u Object Agent Twins: avatares de AI con microagentes en pequeñas pantallas E Ink, diseñados para acompañar objetos cotidianos del hogar y creados por Daehwa Kim, estudiante de quinto año de PhD en el Future Interfaces Group de Carnegie Mellon. Kim presentó el proyecto en el ACM Symposium on User Interface Software and Technology en Detroit y obtuvo dos premios Honorable Mention."
+                "x": "Apple lanzó hoy las betas de iOS 27.3, iPadOS 27.3 y macOS 27.3, y está usando la actualización para probar nuevos límites de uso diario por dispositivo en algunas funciones de Siri AI y Apple Intelligence, según MacRumors."
               },
               {
                 "t": "p",
-                "x": "Los OATs tienen una pantalla E Ink conectada a sensores que registran humedad, temperatura, humedad relativa, luz, ocupación y movimiento (unos $20 por el módulo principal). Los sprites se crean con Nano Banana de Google Gemini, y un portal web genera comportamientos “Positive” y “Negative” a partir del nombre y la descripción del objeto. Si una patineta pasa días sin usarse, el avatar se ve triste y solo; si te subes, se pone contento."
+                "x": "Los comandos y peticiones básicos a Siri seguirán siendo gratuitos e ilimitados, pero las funciones más avanzadas que dependen del procesamiento en la nube, como generar, limpiar o ampliar imágenes en Photos, estarán sujetas a los límites diarios. Hay cuatro categorías de uso limitado: Siri AI para “peticiones de varios pasos con contexto personal”, las herramientas de generación y edición de imágenes, las automatizaciones de Shortcuts que “dependen de Apple Foundation Cloud y Cloud Pro Models” y las apps de terceros que usan esos mismos modelos en la nube."
               },
               {
                 "t": "p",
-                "x": "La batería dura poco —entre tres y cuatro días, o un día con el sensor de nivel sonoro—, así que es más bien una prueba de concepto. Quienes lo probaron usaron OATs para saber si un objeto se está usando, advertir a quienes están cerca de una impresora 3D en marcha y seguir hábitos, como una mancuerna que animaba a hacer ejercicio con regularidad."
-              },
-              {
-                "t": "img",
-                "src": "https://media.wired.com/photos/6af4807c3969d4fffae9b294/master/w_1600%2Cc_limit/user_oat_setup.png"
+                "x": "Apple no ha especificado cuántas veces exactamente se pueden usar esas funciones cada día, pero los límites variarán según la tarea y los usuarios recibirán un aviso al acercarse a ellos y al alcanzarlos."
               },
               {
                 "t": "p",
-                "x": "La demostración también abrió el debate sobre la antropomorfización de la AI, y por eso las interacciones de los OATs se limitan a emociones expresivas en la pantalla E Ink. “La antropomorfización puede ser muy útil en ciertos aspectos, como ayudar a las personas a cambiar sus conductas”, dice Kim, “pero sin duda debemos tener cuidado de no abusar de esto”."
+                "x": "La mayoría de los planes de iCloud Plus (salvo la opción de 50GB) incluirán límites diarios más altos al mismo precio: el plan de 200GB por $2.99/mes ofrece 2x el uso, el de 2TB por $9.99/mes 5x, y las opciones de 6TB por $29.99/mes y de 12TB por $59.99/mes lo elevan a 10x y 20x. Los miembros de la familia que comparten iCloud Plus disponen de un fondo de uso compartido."
+              },
+              {
+                "t": "p",
+                "x": "La semana pasada Apple actualizó Logic Pro con una opción “Buy More Usage” mediante Intelligence Usage Packs de $49.99, que se espera llegue este mes a otras apps de Apple Creator Studio."
               }
             ]
           }
@@ -355,261 +365,201 @@
       }
     },
     {
-      "id": "xiaomi18pro-rear-genai",
+      "id": "macos-273-ai-agent-warning",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Xiaomi 18 Pro\n후면에 맞춤 GenAI 앱",
-      "body": "Xiaomi 18 Pro 후면은 Spotify와 맞춤 GenAI 앱까지 돌린다.",
-      "mini_headline": "Xiaomi 후면 화면, GenAI 앱 구동",
+      "headline": "macOS 27.3, AI\n에이전트 Mac 제어 경고",
+      "body": "macOS 27.3은 API를 바꿔 Claude 등 AI에 전권 주기 전 경고한다.",
+      "mini_headline": "macOS, AI 에이전트 접근 경고",
       "tool": "Gadgets",
-      "source": "9to5Google",
-      "url": "https://9to5google.com/2026/11/13/the-xiaomi-18-pros-rear-displays-support-google-apps-spotify-and-custom-genai-apps/",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/11/16/macos-27-3-full-desk-access/",
       "accent": "#0070f3",
       "motif": "headset",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/xiaomi-18-pro-2.jpg?quality=82&strip=all&w=1400"
-          },
-          {
             "t": "p",
-            "x": "Xiaomi 18 Pro 시리즈의 후면 디스플레이는 이번엔 정말 쓸모가 있을지도 모른다."
-          },
-          {
-            "t": "p",
-            "x": "후면 디스플레이를 단 폰을 내놓은 회사는 손에 꼽고, 솔직히 대부분은 별 쓸모가 없었다. Xiaomi는 Xiaomi 18 Pro와 Xiaomi 18 Pro Max의 후면 디스플레이로 판을 뒤집으려 한다. 회사 설명으로는 이 화면이 Google Maps, YouTube Music, Spotify를 지원하고, 깔끔한 GenAI 통합 덕에 수많은 추가 앱도 돌린다."
-          },
-          {
-            "t": "p",
-            "x": "소식은 GSMArena가 전했고, Xiaomi Group의 VP & CMO인 Xu Fei가 X에 올려 온 AMA 영상이 출처다. 아직 못 봤다면, Xiaomi 18 Pro 시리즈 뒷면의 카메라 섬은 Galaxy Z Flip 8이나 Motorola Razr 시리즈 같은 플립형 폴더블의 커버 화면을 닮았다. 풀컬러 터치스크린에 해상도도 꽤 높다."
+            "x": "Apple은 최신 macOS 27.3 베타에서 Mac 사용자가 데이터를 공유하고 앱에 접근 권한을 주는 방식을 더 세밀하게 통제하게 했다. AI 에이전트를 쓰는 앱도 대상이다. Apple은 오늘 개발자들에게 Full Disk Access API와 Device Control and Data Access API의 변경 예정 사항을 알렸다."
           },
           {
             "t": "img",
-            "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/xiaomi-18-pro-back-display-genai-camera.jpg?quality=82&strip=all&w=800"
+            "src": "https://images.macrumors.com/t/RcnvC03vxGzanG38_QS1Fc9J62A=/400x0/article-new/2026/11/claude-warning.jpg?lossy",
+            "cap": "claude 경고"
+          },
+          {
+            "t": "p",
+            "x": "Device Control and Data Access 설정은 System & App Protection Override와 Accessibility 두 갈래다. 사용자는 목록에서 권한을 요청한 앱을 골라 허용한다. Apple은 워크플로에 꼭 필요한 앱이나 폴더에만 접근을 열어 두라고 권한다. 앱이 받게 될 데이터는 사용자에게 더 분명히 알리고, 앱은 무제한 접근 대신 매번 허락을 구하며, 한 앱이 다른 앱을 제어하면 메뉴 막대에 투명성 표시기가 뜬다."
           },
           {
             "t": "img",
-            "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/xiaomi-18-pro-back-display-google-spotify.jpg?quality=82&strip=all&w=800"
+            "src": "https://images.macrumors.com/t/XEyVh7VFnBpfoKyJ-wxGJUrYFFU=/2500x/article-new/2026/11/claude-warning-2-2.jpg",
+            "cap": "claude 경고 2"
           },
           {
             "t": "p",
-            "x": "YouTube Music과 Spotify는 재생 중인 곡의 아트워크와 제목을 큼직한 재생/일시정지·건너뛰기 버튼과 함께 보여 준다. Google Maps에서는 내비게이션 진행 상황과 다음 경로 안내가 뜬다."
-          },
-          {
-            "t": "p",
-            "x": "Xiaomi는 공식 통합에 더해 내장 GenAI 앱 제작 도구도 넣어, 사용자가 후면 디스플레이 앱을 직접 만들게 했다. 원하는 걸 설명하면 기기 내 AI가 앱을 만들어 준다. 꽤 편해 보이고, 이전 후면 디스플레이들이 겪은 “쓸모없음” 문제도 어느 정도 풀어 줄 듯하다. Xiaomi 18 Pro 시리즈는 글로벌로 출시된다."
+            "x": "이미 알려진 앱은 별도 인타이틀먼트 없이도 지금처럼 쓸 수 있고, macOS 27.3 이전에 준 권한도 그대로 유효하다. Apple은 지난달 AI 에이전트가 부르는 위험을 이유로 Full Disk Access에 “추가 통제 장치”를 더하겠다고 밝혔다. 일부 개발자가 파일, 메일, 메시지, 방문 기록 등이 노출될 수 있는 방식으로 이 권한을 쓰고 있다는 경고도 덧붙였다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Xiaomi 18 Pro rear screen\nruns custom GenAI apps",
-          "body": "The Xiaomi 18 Pro series' rear display supports Google apps, Spotify, and even custom GenAI apps.",
-          "mini_headline": "Xiaomi rear screen runs GenAI",
+          "headline": "macOS 27.3 warns before AI\nagents get full Mac control",
+          "body": "The macOS 27.3 beta changes the Full Disk Access API and warns before users grant AI agents like Claude broad control.",
+          "mini_headline": "macOS flags AI agent access",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/xiaomi-18-pro-2.jpg?quality=82&strip=all&w=1400"
-              },
-              {
                 "t": "p",
-                "x": "The Xiaomi 18 Pro series’ rear displays might actually be useful, after all."
-              },
-              {
-                "t": "p",
-                "x": "Only a few companies have debuted phones with rear displays, and, quite frankly, most of them have been fairly useless. Xiaomi is hoping to turn all that around with the Xiaomi 18 Pro and Xiaomi 18 Pro Max’s rear display, which the company says supports Google Maps, YouTube Music, Spotify, and lots of additional apps via a nifty GenAI integration."
-              },
-              {
-                "t": "p",
-                "x": "The news comes via GSMArena and builds on the AMA videos Xu Fei, VP & CMO of the Xiaomi Group, has been posting on X. If you haven’t seen it yet, the camera island on the back of the Xiaomi 18 Pro series looks similar to the cover screen on a flip-style foldable like the Galaxy Z Flip 8 or Motorola Razr series. It’s a full-color touchscreen and has impressively high resolution."
+                "x": "With the latest macOS 27.3 beta, Apple is giving Mac users more control over the data they share and the access they give to apps, including apps that use AI agents. Apple today informed developers about upcoming changes to the Full Disk Access API and the Device Control and Data Access API."
               },
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/xiaomi-18-pro-back-display-genai-camera.jpg?quality=82&strip=all&w=800"
+                "src": "https://images.macrumors.com/t/RcnvC03vxGzanG38_QS1Fc9J62A=/400x0/article-new/2026/11/claude-warning.jpg?lossy",
+                "cap": "claude warning"
+              },
+              {
+                "t": "p",
+                "x": "The Device Control and Data Access setting will be split into System & App Protection Override and Accessibility. Users will grant permissions by selecting the requesting app from a list, and Apple will encourage access to just the specific apps or folders a workflow needs, better inform users about the data apps will receive, let apps ask each time instead of getting unrestricted access, and show a menu bar transparency indicator when an app is controlling another app."
               },
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/xiaomi-18-pro-back-display-google-spotify.jpg?quality=82&strip=all&w=800"
+                "src": "https://images.macrumors.com/t/XEyVh7VFnBpfoKyJ-wxGJUrYFFU=/2500x/article-new/2026/11/claude-warning-2-2.jpg",
+                "cap": "claude warning 2"
               },
               {
                 "t": "p",
-                "x": "YouTube Music and Spotify will feature prominent play/pause and skip buttons, plus the artwork and name of the song playing. Google Maps will give you a navigation progress indicator, plus the next upcoming direction."
-              },
-              {
-                "t": "p",
-                "x": "In addition to official integration, Xiaomi is letting users create their own rear display apps using a built-in GenAI app creation tool. Just describe what you want, and the onboard AI will create the app for you. It looks quite handy and should help solve the “useless” problem that prior rear displays have faced. The Xiaomi 18 Pro series will debut globally."
+                "x": "Known apps keep their current experience without an entitlement, and permissions granted before macOS 27.3 remain in effect. Last month, Apple said it would add \"additional controls\" for Full Disk Access because of the risks posed by AI agents, warning that some developers use it in ways that can expose files, mail, messages, browsing history, and more."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Xiaomi 18 Pro\n후면에 맞춤 GenAI 앱",
-          "body": "Xiaomi 18 Pro 후면은 Spotify와 맞춤 GenAI 앱까지 돌린다.",
-          "mini_headline": "Xiaomi 후면 화면, GenAI 앱 구동",
+          "headline": "macOS 27.3, AI\n에이전트 Mac 제어 경고",
+          "body": "macOS 27.3은 API를 바꿔 Claude 등 AI에 전권 주기 전 경고한다.",
+          "mini_headline": "macOS, AI 에이전트 접근 경고",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/xiaomi-18-pro-2.jpg?quality=82&strip=all&w=1400"
-              },
-              {
                 "t": "p",
-                "x": "Xiaomi 18 Pro 시리즈의 후면 디스플레이는 이번엔 정말 쓸모가 있을지도 모른다."
-              },
-              {
-                "t": "p",
-                "x": "후면 디스플레이를 단 폰을 내놓은 회사는 손에 꼽고, 솔직히 대부분은 별 쓸모가 없었다. Xiaomi는 Xiaomi 18 Pro와 Xiaomi 18 Pro Max의 후면 디스플레이로 판을 뒤집으려 한다. 회사 설명으로는 이 화면이 Google Maps, YouTube Music, Spotify를 지원하고, 깔끔한 GenAI 통합 덕에 수많은 추가 앱도 돌린다."
-              },
-              {
-                "t": "p",
-                "x": "소식은 GSMArena가 전했고, Xiaomi Group의 VP & CMO인 Xu Fei가 X에 올려 온 AMA 영상이 출처다. 아직 못 봤다면, Xiaomi 18 Pro 시리즈 뒷면의 카메라 섬은 Galaxy Z Flip 8이나 Motorola Razr 시리즈 같은 플립형 폴더블의 커버 화면을 닮았다. 풀컬러 터치스크린에 해상도도 꽤 높다."
+                "x": "Apple은 최신 macOS 27.3 베타에서 Mac 사용자가 데이터를 공유하고 앱에 접근 권한을 주는 방식을 더 세밀하게 통제하게 했다. AI 에이전트를 쓰는 앱도 대상이다. Apple은 오늘 개발자들에게 Full Disk Access API와 Device Control and Data Access API의 변경 예정 사항을 알렸다."
               },
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/xiaomi-18-pro-back-display-genai-camera.jpg?quality=82&strip=all&w=800"
+                "src": "https://images.macrumors.com/t/RcnvC03vxGzanG38_QS1Fc9J62A=/400x0/article-new/2026/11/claude-warning.jpg?lossy",
+                "cap": "claude 경고"
+              },
+              {
+                "t": "p",
+                "x": "Device Control and Data Access 설정은 System & App Protection Override와 Accessibility 두 갈래다. 사용자는 목록에서 권한을 요청한 앱을 골라 허용한다. Apple은 워크플로에 꼭 필요한 앱이나 폴더에만 접근을 열어 두라고 권한다. 앱이 받게 될 데이터는 사용자에게 더 분명히 알리고, 앱은 무제한 접근 대신 매번 허락을 구하며, 한 앱이 다른 앱을 제어하면 메뉴 막대에 투명성 표시기가 뜬다."
               },
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/xiaomi-18-pro-back-display-google-spotify.jpg?quality=82&strip=all&w=800"
+                "src": "https://images.macrumors.com/t/XEyVh7VFnBpfoKyJ-wxGJUrYFFU=/2500x/article-new/2026/11/claude-warning-2-2.jpg",
+                "cap": "claude 경고 2"
               },
               {
                 "t": "p",
-                "x": "YouTube Music과 Spotify는 재생 중인 곡의 아트워크와 제목을 큼직한 재생/일시정지·건너뛰기 버튼과 함께 보여 준다. Google Maps에서는 내비게이션 진행 상황과 다음 경로 안내가 뜬다."
-              },
-              {
-                "t": "p",
-                "x": "Xiaomi는 공식 통합에 더해 내장 GenAI 앱 제작 도구도 넣어, 사용자가 후면 디스플레이 앱을 직접 만들게 했다. 원하는 걸 설명하면 기기 내 AI가 앱을 만들어 준다. 꽤 편해 보이고, 이전 후면 디스플레이들이 겪은 “쓸모없음” 문제도 어느 정도 풀어 줄 듯하다. Xiaomi 18 Pro 시리즈는 글로벌로 출시된다."
+                "x": "이미 알려진 앱은 별도 인타이틀먼트 없이도 지금처럼 쓸 수 있고, macOS 27.3 이전에 준 권한도 그대로 유효하다. Apple은 지난달 AI 에이전트가 부르는 위험을 이유로 Full Disk Access에 “추가 통제 장치”를 더하겠다고 밝혔다. 일부 개발자가 파일, 메일, 메시지, 방문 기록 등이 노출될 수 있는 방식으로 이 권한을 쓰고 있다는 경고도 덧붙였다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Xiaomi 18 Pro\n背面で自作GenAIアプリ",
-          "body": "Xiaomi 18 Proの背面画面はSpotifyや自作GenAIアプリに対応する。",
-          "mini_headline": "Xiaomiの背面画面でGenAIが動く",
+          "headline": "macOS 27.3が\nAIのMac掌握前に警告",
+          "body": "macOS 27.3ベータはAPIを改め、ClaudeなどのAIに全権を与える前に警告する。",
+          "mini_headline": "macOSがAIエージェントの権限に警告",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/xiaomi-18-pro-2.jpg?quality=82&strip=all&w=1400"
-              },
-              {
                 "t": "p",
-                "x": "Xiaomi 18 Proシリーズの背面ディスプレイは、結局のところ本当に役立つものになるかもしれない。"
-              },
-              {
-                "t": "p",
-                "x": "背面ディスプレイ付きのスマートフォンを出したメーカーはわずかで、率直に言えば、その大半はほとんど役に立たなかった。XiaomiはXiaomi 18 ProとXiaomi 18 Pro Maxの背面ディスプレイでその状況を覆そうとしている。同社によると、この画面はGoogle Maps、YouTube Music、Spotifyに対応し、気の利いたGenAI統合によって多くの追加アプリも使えるという。"
-              },
-              {
-                "t": "p",
-                "x": "このニュースはGSMArena経由で伝えられたもので、Xiaomi GroupのVP & CMOであるXu FeiがXに投稿してきたAMA動画に基づいている。まだ見ていない人のために言えば、Xiaomi 18 Proシリーズ背面のカメラアイランドは、Galaxy Z Flip 8やMotorola Razrシリーズのような縦折りフォルダブルのカバー画面に似ている。フルカラーのタッチスクリーンで、解像度も見事に高い。"
+                "x": "最新のmacOS 27.3ベータで、AppleはMacユーザーが共有するデータやアプリに与えるアクセスについて、AIエージェントを使うアプリも含めてより細かく管理できるようにする。Appleは本日、Full Disk Access APIとDevice Control and Data Access APIの今後の変更を開発者に通知した。"
               },
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/xiaomi-18-pro-back-display-genai-camera.jpg?quality=82&strip=all&w=800"
+                "src": "https://images.macrumors.com/t/RcnvC03vxGzanG38_QS1Fc9J62A=/400x0/article-new/2026/11/claude-warning.jpg?lossy",
+                "cap": "claude 警告"
+              },
+              {
+                "t": "p",
+                "x": "Device Control and Data Access設定はSystem & App Protection OverrideとAccessibilityに分割される。ユーザーは要求しているアプリをリストから選んで権限を与える。Appleは、ワークフローに必要な特定のアプリやフォルダーだけへのアクセスを促し、アプリが受け取るデータをユーザーにより分かりやすく伝え、無制限のアクセスではなく毎回確認させる仕組みを可能にし、あるアプリが別のアプリを操作しているときにはメニューバーに透明性インジケーターを表示する。"
               },
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/xiaomi-18-pro-back-display-google-spotify.jpg?quality=82&strip=all&w=800"
+                "src": "https://images.macrumors.com/t/XEyVh7VFnBpfoKyJ-wxGJUrYFFU=/2500x/article-new/2026/11/claude-warning-2-2.jpg",
+                "cap": "claude 警告 2"
               },
               {
                 "t": "p",
-                "x": "YouTube MusicとSpotifyでは、再生/一時停止とスキップのボタンが大きく表示され、再生中の曲のアートワークと曲名も出る。Google Mapsはナビの進行状況表示と、次の進路案内を示す。"
-              },
-              {
-                "t": "p",
-                "x": "公式の統合に加え、Xiaomiは内蔵のGenAIアプリ作成ツールで、ユーザーが独自の背面ディスプレイ用アプリを作れるようにする。欲しいものを説明するだけで、端末上のAIがアプリを作ってくれる。かなり便利そうで、これまでの背面ディスプレイが抱えてきた「役に立たない」問題の解決に役立つはずだ。Xiaomi 18 Proシリーズはグローバルで発売される。"
+                "x": "既知のアプリはエンタイトルメントなしで現在の体験を維持し、macOS 27.3以前に付与された権限も引き続き有効だ。Appleは先月、AIエージェントがもたらすリスクを理由にFull Disk Accessへ「追加の管理機能」を加えると表明し、一部の開発者がファイル、メール、メッセージ、閲覧履歴などを露出させかねない形でこれを使っていると警告していた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Xiaomi 18 Pro\n背屏可跑自制GenAI应用",
-          "body": "Xiaomi 18 Pro背屏支持Google应用、Spotify及自制GenAI应用。",
-          "mini_headline": "Xiaomi背屏跑GenAI",
+          "headline": "macOS 27.3\nAI接管Mac前先发警告",
+          "body": "macOS 27.3测试版改动API，在Claude等AI代理获取广泛控制权前发出警告。",
+          "mini_headline": "macOS提示AI代理访问权限",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/xiaomi-18-pro-2.jpg?quality=82&strip=all&w=1400"
-              },
-              {
                 "t": "p",
-                "x": "Xiaomi 18 Pro系列的背屏，或许终于真能派上用场了。"
-              },
-              {
-                "t": "p",
-                "x": "推出过背屏手机的厂商寥寥无几，而且坦白说，其中大多数都相当鸡肋。Xiaomi希望借Xiaomi 18 Pro和Xiaomi 18 Pro Max的背屏扭转这一局面。该公司表示，这块屏幕支持Google Maps、YouTube Music、Spotify，还能通过巧妙的GenAI集成运行大量其他应用。"
-              },
-              {
-                "t": "p",
-                "x": "消息来自GSMArena，并延续了Xiaomi Group的VP & CMO Xu Fei一直在X上发布的AMA视频内容。如果你还没见过，Xiaomi 18 Pro系列背部的摄像头岛看起来很像Galaxy Z Flip 8或Motorola Razr系列等翻盖折叠屏手机的外屏。它是一块全彩触摸屏，分辨率高得惊人。"
+                "x": "在最新的macOS 27.3测试版中，Apple让Mac用户对自己共享的数据和授予应用的访问权限拥有更多控制，其中也包括使用AI代理的应用。Apple今天向开发者通报了Full Disk Access API以及Device Control and Data Access API即将发生的变化。"
               },
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/xiaomi-18-pro-back-display-genai-camera.jpg?quality=82&strip=all&w=800"
+                "src": "https://images.macrumors.com/t/RcnvC03vxGzanG38_QS1Fc9J62A=/400x0/article-new/2026/11/claude-warning.jpg?lossy",
+                "cap": "claude 警告"
+              },
+              {
+                "t": "p",
+                "x": "Device Control and Data Access设置将拆分为System & App Protection Override和Accessibility两项。用户需从列表中选择发出请求的应用来授予权限；Apple将鼓励只开放工作流程所需的特定应用或文件夹，更清楚地告知用户应用将获得哪些数据，允许应用每次单独请求而非获得不受限制的访问，并在某个应用控制另一个应用时在菜单栏显示透明度指示器。"
               },
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/xiaomi-18-pro-back-display-google-spotify.jpg?quality=82&strip=all&w=800"
+                "src": "https://images.macrumors.com/t/XEyVh7VFnBpfoKyJ-wxGJUrYFFU=/2500x/article-new/2026/11/claude-warning-2-2.jpg",
+                "cap": "claude 警告 2"
               },
               {
                 "t": "p",
-                "x": "YouTube Music和Spotify会显示醒目的播放/暂停和跳过按钮，以及正在播放歌曲的封面和名称。Google Maps则会显示导航进度指示，以及下一步的路线指引。"
-              },
-              {
-                "t": "p",
-                "x": "除官方集成外，Xiaomi还允许用户使用内置的GenAI应用创建工具，自己制作背屏应用。只需描述你想要的功能，设备端AI就会为你生成应用。它看起来相当实用，应该有助于解决以往背屏面临的“鸡肋”问题。Xiaomi 18 Pro系列将在全球发布。"
+                "x": "已知应用无需额外授权即可保持现有体验，macOS 27.3之前授予的权限也继续有效。Apple上个月表示，由于AI代理带来的风险，将为Full Disk Access增加“额外控制”，并警告部分开发者使用它的方式可能暴露文件、邮件、信息、浏览记录等内容。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Xiaomi 18 Pro: su pantalla\ntrasera ejecuta apps GenAI",
-          "body": "La pantalla trasera de la serie Xiaomi 18 Pro admite apps de Google, Spotify e incluso apps GenAI personalizadas.",
-          "mini_headline": "La pantalla trasera de Xiaomi ejecuta GenAI",
+          "headline": "macOS 27.3 avisa antes de dar a\nagentes AI el control del Mac",
+          "body": "La beta de macOS 27.3 cambia la Full Disk Access API y avisa antes de dar a agentes AI como Claude amplio control.",
+          "mini_headline": "macOS avisa sobre el acceso de agentes AI",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/xiaomi-18-pro-2.jpg?quality=82&strip=all&w=1400"
-              },
-              {
                 "t": "p",
-                "x": "Las pantallas traseras de la serie Xiaomi 18 Pro podrían, después de todo, resultar útiles."
-              },
-              {
-                "t": "p",
-                "x": "Solo unas pocas empresas han lanzado teléfonos con pantalla trasera y, francamente, la mayoría han sido bastante inútiles. Xiaomi espera darle la vuelta a eso con la pantalla trasera del Xiaomi 18 Pro y el Xiaomi 18 Pro Max, que según la compañía admite Google Maps, YouTube Music, Spotify y muchas otras apps gracias a una ingeniosa integración GenAI."
-              },
-              {
-                "t": "p",
-                "x": "La noticia llega a través de GSMArena y se basa en los videos AMA que Xu Fei, VP & CMO de Xiaomi Group, ha publicado en X. Si aún no la has visto, la isla de cámaras en la parte trasera de la serie Xiaomi 18 Pro se parece a la pantalla exterior de un plegable tipo concha como el Galaxy Z Flip 8 o la serie Motorola Razr. Es una pantalla táctil a todo color y tiene una resolución notablemente alta."
+                "x": "Con la última beta de macOS 27.3, Apple da a los usuarios de Mac más control sobre los datos que comparten y el acceso que conceden a las apps, incluidas las que usan agentes de AI. Apple informó hoy a los desarrolladores de los próximos cambios en la Full Disk Access API y la Device Control and Data Access API."
               },
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/xiaomi-18-pro-back-display-genai-camera.jpg?quality=82&strip=all&w=800"
+                "src": "https://images.macrumors.com/t/RcnvC03vxGzanG38_QS1Fc9J62A=/400x0/article-new/2026/11/claude-warning.jpg?lossy",
+                "cap": "advertencia de claude"
+              },
+              {
+                "t": "p",
+                "x": "El ajuste Device Control and Data Access se dividirá en System & App Protection Override y Accessibility. Los usuarios concederán permisos eligiendo la app solicitante en una lista, y Apple fomentará el acceso solo a las apps o carpetas concretas que necesite cada flujo de trabajo, informará mejor sobre los datos que recibirán las apps, permitirá que estas pidan permiso cada vez en lugar de obtener acceso sin restricciones y mostrará un indicador de transparencia en la barra de menús cuando una app controle otra."
               },
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/xiaomi-18-pro-back-display-google-spotify.jpg?quality=82&strip=all&w=800"
+                "src": "https://images.macrumors.com/t/XEyVh7VFnBpfoKyJ-wxGJUrYFFU=/2500x/article-new/2026/11/claude-warning-2-2.jpg",
+                "cap": "advertencia de claude 2"
               },
               {
                 "t": "p",
-                "x": "YouTube Music y Spotify mostrarán botones destacados de reproducir/pausar y saltar, además de la carátula y el nombre de la canción en curso. Google Maps ofrecerá un indicador de progreso de la navegación y la siguiente indicación de ruta."
-              },
-              {
-                "t": "p",
-                "x": "Además de la integración oficial, Xiaomi permite a los usuarios crear sus propias apps para la pantalla trasera con una herramienta integrada de creación de apps GenAI. Basta con describir lo que se quiere y la AI del dispositivo crea la app. Parece bastante práctica y debería ayudar a resolver el problema de “inutilidad” que han arrastrado las pantallas traseras anteriores. La serie Xiaomi 18 Pro se lanzará a nivel global."
+                "x": "Las apps conocidas mantienen su experiencia actual sin necesidad de un entitlement, y los permisos concedidos antes de macOS 27.3 siguen vigentes. El mes pasado, Apple dijo que añadiría “controles adicionales” a Full Disk Access por los riesgos que plantean los agentes de AI, y advirtió que algunos desarrolladores lo usan de formas que pueden exponer archivos, correo, mensajes, historial de navegación y más."
               }
             ]
           }
@@ -617,169 +567,129 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Xiaomi 18 Pro\n후면에 맞춤 GenAI 앱",
-          "body": "Xiaomi 18 Pro 후면은 Spotify와 맞춤 GenAI 앱까지 돌린다.",
-          "mini_headline": "Xiaomi 후면 화면, GenAI 앱 구동",
+          "headline": "macOS 27.3, AI\n에이전트 Mac 제어 경고",
+          "body": "macOS 27.3은 API를 바꿔 Claude 등 AI에 전권 주기 전 경고한다.",
+          "mini_headline": "macOS, AI 에이전트 접근 경고",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/xiaomi-18-pro-2.jpg?quality=82&strip=all&w=1400"
-              },
-              {
                 "t": "p",
-                "x": "Xiaomi 18 Pro 시리즈의 후면 디스플레이가 결국 정말 쓸모 있을지도 모른다."
-              },
-              {
-                "t": "p",
-                "x": "후면 디스플레이를 단 폰을 내놓은 회사는 몇 곳뿐이고, 솔직히 말해 대부분은 별 쓸모가 없었다. Xiaomi는 Xiaomi 18 Pro와 Xiaomi 18 Pro Max의 후면 디스플레이로 이 흐름을 뒤집으려 한다. 회사에 따르면 이 화면은 Google Maps, YouTube Music, Spotify를 지원하고, 깔끔한 GenAI 통합으로 수많은 추가 앱도 쓸 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "이 소식은 GSMArena를 통해 나왔으며, Xiaomi Group의 VP & CMO인 Xu Fei가 X에 올려 온 AMA 영상을 바탕으로 한다. 아직 보지 못했다면, Xiaomi 18 Pro 시리즈 뒷면의 카메라 섬은 Galaxy Z Flip 8이나 Motorola Razr 시리즈 같은 플립형 폴더블의 커버 화면과 비슷해 보인다. 풀컬러 터치스크린이며 해상도도 인상적으로 높다."
+                "x": "Apple은 최신 macOS 27.3 베타에서 AI 에이전트를 쓰는 앱을 포함해, Mac 사용자가 공유하는 데이터와 앱에 주는 접근 권한을 더 세밀하게 통제할 수 있게 한다. Apple은 오늘 개발자들에게 Full Disk Access API와 Device Control and Data Access API의 변경 예정 사항을 알렸다."
               },
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/xiaomi-18-pro-back-display-genai-camera.jpg?quality=82&strip=all&w=800"
+                "src": "https://images.macrumors.com/t/RcnvC03vxGzanG38_QS1Fc9J62A=/400x0/article-new/2026/11/claude-warning.jpg?lossy",
+                "cap": "claude 경고"
+              },
+              {
+                "t": "p",
+                "x": "Device Control and Data Access 설정은 System & App Protection Override와 Accessibility로 나뉜다. 사용자는 목록에서 요청한 앱을 골라 권한을 준다. Apple은 워크플로에 필요한 특정 앱이나 폴더에만 접근을 허용하도록 권장하고, 앱이 받게 될 데이터를 사용자에게 더 잘 알리며, 앱이 무제한 접근 대신 매번 요청하도록 하고, 한 앱이 다른 앱을 제어할 때 메뉴 막대에 투명성 표시기를 띄운다."
               },
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/xiaomi-18-pro-back-display-google-spotify.jpg?quality=82&strip=all&w=800"
+                "src": "https://images.macrumors.com/t/XEyVh7VFnBpfoKyJ-wxGJUrYFFU=/2500x/article-new/2026/11/claude-warning-2-2.jpg",
+                "cap": "claude 경고 2"
               },
               {
                 "t": "p",
-                "x": "YouTube Music과 Spotify는 눈에 잘 띄는 재생/일시정지·건너뛰기 버튼과 함께 재생 중인 곡의 아트워크와 제목을 보여 준다. Google Maps는 내비게이션 진행 표시와 다음 경로 안내를 띄운다."
-              },
-              {
-                "t": "p",
-                "x": "공식 통합 외에도 Xiaomi는 내장 GenAI 앱 제작 도구로 사용자가 직접 후면 디스플레이 앱을 만들 수 있게 한다. 원하는 것을 설명하기만 하면 기기 내 AI가 앱을 만들어 준다. 꽤 편리해 보이며, 이전 후면 디스플레이들이 겪은 “쓸모없음” 문제를 푸는 데 도움이 될 듯하다. Xiaomi 18 Pro 시리즈는 글로벌 출시된다."
+                "x": "이미 알려진 앱은 별도 인타이틀먼트 없이도 지금의 사용 경험을 유지하며, macOS 27.3 이전에 부여한 권한도 그대로 유효하다. Apple은 지난달 AI 에이전트가 초래하는 위험 때문에 Full Disk Access에 “추가 통제 장치”를 더하겠다고 밝히며, 일부 개발자가 이를 파일, 메일, 메시지, 방문 기록 등이 노출될 수 있는 방식으로 쓰고 있다고 경고했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Xiaomi 18 Pro\n背面で自作GenAIアプリ",
-          "body": "Xiaomi 18 Proの背面画面はSpotifyや自作GenAIアプリに対応する。",
-          "mini_headline": "Xiaomiの背面画面でGenAIが動く",
+          "headline": "macOS 27.3が\nAIのMac掌握前に警告",
+          "body": "macOS 27.3ベータはAPIを改め、ClaudeなどのAIに全権を与える前に警告する。",
+          "mini_headline": "macOSがAIエージェントの権限に警告",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/xiaomi-18-pro-2.jpg?quality=82&strip=all&w=1400"
-              },
-              {
                 "t": "p",
-                "x": "Xiaomi 18 Proシリーズの背面ディスプレイは、結局のところ本当に役立つものになるかもしれない。"
-              },
-              {
-                "t": "p",
-                "x": "背面ディスプレイ付きのスマートフォンを出したメーカーはわずかで、率直に言えば、その大半はほとんど役に立たなかった。XiaomiはXiaomi 18 ProとXiaomi 18 Pro Maxの背面ディスプレイでその状況を覆そうとしている。同社によると、この画面はGoogle Maps、YouTube Music、Spotifyに対応し、気の利いたGenAI統合によって多くの追加アプリも使えるという。"
-              },
-              {
-                "t": "p",
-                "x": "このニュースはGSMArena経由で伝えられたもので、Xiaomi GroupのVP & CMOであるXu FeiがXに投稿してきたAMA動画に基づいている。まだ見ていない人のために言えば、Xiaomi 18 Proシリーズ背面のカメラアイランドは、Galaxy Z Flip 8やMotorola Razrシリーズのような縦折りフォルダブルのカバー画面に似ている。フルカラーのタッチスクリーンで、解像度も見事に高い。"
+                "x": "最新のmacOS 27.3ベータで、AppleはMacユーザーが共有するデータやアプリに与えるアクセスについて、AIエージェントを使うアプリも含めてより細かく管理できるようにする。Appleは本日、Full Disk Access APIとDevice Control and Data Access APIの今後の変更を開発者に通知した。"
               },
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/xiaomi-18-pro-back-display-genai-camera.jpg?quality=82&strip=all&w=800"
+                "src": "https://images.macrumors.com/t/RcnvC03vxGzanG38_QS1Fc9J62A=/400x0/article-new/2026/11/claude-warning.jpg?lossy",
+                "cap": "claude 警告"
+              },
+              {
+                "t": "p",
+                "x": "Device Control and Data Access設定はSystem & App Protection OverrideとAccessibilityに分割される。ユーザーは要求しているアプリをリストから選んで権限を与える。Appleは、ワークフローに必要な特定のアプリやフォルダーだけへのアクセスを促し、アプリが受け取るデータをユーザーにより分かりやすく伝え、無制限のアクセスではなく毎回確認させる仕組みを可能にし、あるアプリが別のアプリを操作しているときにはメニューバーに透明性インジケーターを表示する。"
               },
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/xiaomi-18-pro-back-display-google-spotify.jpg?quality=82&strip=all&w=800"
+                "src": "https://images.macrumors.com/t/XEyVh7VFnBpfoKyJ-wxGJUrYFFU=/2500x/article-new/2026/11/claude-warning-2-2.jpg",
+                "cap": "claude 警告 2"
               },
               {
                 "t": "p",
-                "x": "YouTube MusicとSpotifyでは、再生/一時停止とスキップのボタンが大きく表示され、再生中の曲のアートワークと曲名も出る。Google Mapsはナビの進行状況表示と、次の進路案内を示す。"
-              },
-              {
-                "t": "p",
-                "x": "公式の統合に加え、Xiaomiは内蔵のGenAIアプリ作成ツールで、ユーザーが独自の背面ディスプレイ用アプリを作れるようにする。欲しいものを説明するだけで、端末上のAIがアプリを作ってくれる。かなり便利そうで、これまでの背面ディスプレイが抱えてきた「役に立たない」問題の解決に役立つはずだ。Xiaomi 18 Proシリーズはグローバルで発売される。"
+                "x": "既知のアプリはエンタイトルメントなしで現在の体験を維持し、macOS 27.3以前に付与された権限も引き続き有効だ。Appleは先月、AIエージェントがもたらすリスクを理由にFull Disk Accessへ「追加の管理機能」を加えると表明し、一部の開発者がファイル、メール、メッセージ、閲覧履歴などを露出させかねない形でこれを使っていると警告していた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Xiaomi 18 Pro\n背屏可跑自制GenAI应用",
-          "body": "Xiaomi 18 Pro背屏支持Google应用、Spotify及自制GenAI应用。",
-          "mini_headline": "Xiaomi背屏跑GenAI",
+          "headline": "macOS 27.3\nAI接管Mac前先发警告",
+          "body": "macOS 27.3测试版改动API，在Claude等AI代理获取广泛控制权前发出警告。",
+          "mini_headline": "macOS提示AI代理访问权限",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/xiaomi-18-pro-2.jpg?quality=82&strip=all&w=1400"
-              },
-              {
                 "t": "p",
-                "x": "Xiaomi 18 Pro系列的背屏，或许终于真能派上用场了。"
-              },
-              {
-                "t": "p",
-                "x": "推出过背屏手机的厂商寥寥无几，而且坦白说，其中大多数都相当鸡肋。Xiaomi希望借Xiaomi 18 Pro和Xiaomi 18 Pro Max的背屏扭转这一局面。该公司表示，这块屏幕支持Google Maps、YouTube Music、Spotify，还能通过巧妙的GenAI集成运行大量其他应用。"
-              },
-              {
-                "t": "p",
-                "x": "消息来自GSMArena，并延续了Xiaomi Group的VP & CMO Xu Fei一直在X上发布的AMA视频内容。如果你还没见过，Xiaomi 18 Pro系列背部的摄像头岛看起来很像Galaxy Z Flip 8或Motorola Razr系列等翻盖折叠屏手机的外屏。它是一块全彩触摸屏，分辨率高得惊人。"
+                "x": "在最新的macOS 27.3测试版中，Apple让Mac用户对自己共享的数据和授予应用的访问权限拥有更多控制，其中也包括使用AI代理的应用。Apple今天向开发者通报了Full Disk Access API以及Device Control and Data Access API即将发生的变化。"
               },
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/xiaomi-18-pro-back-display-genai-camera.jpg?quality=82&strip=all&w=800"
+                "src": "https://images.macrumors.com/t/RcnvC03vxGzanG38_QS1Fc9J62A=/400x0/article-new/2026/11/claude-warning.jpg?lossy",
+                "cap": "claude 警告"
+              },
+              {
+                "t": "p",
+                "x": "Device Control and Data Access设置将拆分为System & App Protection Override和Accessibility两项。用户需从列表中选择发出请求的应用来授予权限；Apple将鼓励只开放工作流程所需的特定应用或文件夹，更清楚地告知用户应用将获得哪些数据，允许应用每次单独请求而非获得不受限制的访问，并在某个应用控制另一个应用时在菜单栏显示透明度指示器。"
               },
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/xiaomi-18-pro-back-display-google-spotify.jpg?quality=82&strip=all&w=800"
+                "src": "https://images.macrumors.com/t/XEyVh7VFnBpfoKyJ-wxGJUrYFFU=/2500x/article-new/2026/11/claude-warning-2-2.jpg",
+                "cap": "claude 警告 2"
               },
               {
                 "t": "p",
-                "x": "YouTube Music和Spotify会显示醒目的播放/暂停和跳过按钮，以及正在播放歌曲的封面和名称。Google Maps则会显示导航进度指示，以及下一步的路线指引。"
-              },
-              {
-                "t": "p",
-                "x": "除官方集成外，Xiaomi还允许用户使用内置的GenAI应用创建工具，自己制作背屏应用。只需描述你想要的功能，设备端AI就会为你生成应用。它看起来相当实用，应该有助于解决以往背屏面临的“鸡肋”问题。Xiaomi 18 Pro系列将在全球发布。"
+                "x": "已知应用无需额外授权即可保持现有体验，macOS 27.3之前授予的权限也继续有效。Apple上个月表示，由于AI代理带来的风险，将为Full Disk Access增加“额外控制”，并警告部分开发者使用它的方式可能暴露文件、邮件、信息、浏览记录等内容。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Xiaomi 18 Pro: su pantalla\ntrasera ejecuta apps GenAI",
-          "body": "La pantalla trasera de la serie Xiaomi 18 Pro admite apps de Google, Spotify e incluso apps GenAI personalizadas.",
-          "mini_headline": "La pantalla trasera de Xiaomi ejecuta GenAI",
+          "headline": "macOS 27.3 avisa antes de dar a\nagentes AI el control del Mac",
+          "body": "La beta de macOS 27.3 cambia la Full Disk Access API y avisa antes de dar a agentes AI como Claude amplio control.",
+          "mini_headline": "macOS avisa sobre el acceso de agentes AI",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/xiaomi-18-pro-2.jpg?quality=82&strip=all&w=1400"
-              },
-              {
                 "t": "p",
-                "x": "Las pantallas traseras de la serie Xiaomi 18 Pro podrían, después de todo, resultar útiles."
-              },
-              {
-                "t": "p",
-                "x": "Solo unas pocas empresas han lanzado teléfonos con pantalla trasera y, francamente, la mayoría han sido bastante inútiles. Xiaomi espera darle la vuelta a eso con la pantalla trasera del Xiaomi 18 Pro y el Xiaomi 18 Pro Max, que según la compañía admite Google Maps, YouTube Music, Spotify y muchas otras apps gracias a una ingeniosa integración GenAI."
-              },
-              {
-                "t": "p",
-                "x": "La noticia llega a través de GSMArena y se basa en los videos AMA que Xu Fei, VP & CMO de Xiaomi Group, ha publicado en X. Si aún no la has visto, la isla de cámaras en la parte trasera de la serie Xiaomi 18 Pro se parece a la pantalla exterior de un plegable tipo concha como el Galaxy Z Flip 8 o la serie Motorola Razr. Es una pantalla táctil a todo color y tiene una resolución notablemente alta."
+                "x": "Con la última beta de macOS 27.3, Apple da a los usuarios de Mac más control sobre los datos que comparten y el acceso que conceden a las apps, incluidas las que usan agentes de AI. Apple informó hoy a los desarrolladores de los próximos cambios en la Full Disk Access API y la Device Control and Data Access API."
               },
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/xiaomi-18-pro-back-display-genai-camera.jpg?quality=82&strip=all&w=800"
+                "src": "https://images.macrumors.com/t/RcnvC03vxGzanG38_QS1Fc9J62A=/400x0/article-new/2026/11/claude-warning.jpg?lossy",
+                "cap": "advertencia de claude"
+              },
+              {
+                "t": "p",
+                "x": "El ajuste Device Control and Data Access se dividirá en System & App Protection Override y Accessibility. Los usuarios concederán permisos eligiendo la app solicitante en una lista, y Apple fomentará el acceso solo a las apps o carpetas concretas que necesite cada flujo de trabajo, informará mejor sobre los datos que recibirán las apps, permitirá que estas pidan permiso cada vez en lugar de obtener acceso sin restricciones y mostrará un indicador de transparencia en la barra de menús cuando una app controle otra."
               },
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/xiaomi-18-pro-back-display-google-spotify.jpg?quality=82&strip=all&w=800"
+                "src": "https://images.macrumors.com/t/XEyVh7VFnBpfoKyJ-wxGJUrYFFU=/2500x/article-new/2026/11/claude-warning-2-2.jpg",
+                "cap": "advertencia de claude 2"
               },
               {
                 "t": "p",
-                "x": "YouTube Music y Spotify mostrarán botones destacados de reproducir/pausar y saltar, además de la carátula y el nombre de la canción en curso. Google Maps ofrecerá un indicador de progreso de la navegación y la siguiente indicación de ruta."
-              },
-              {
-                "t": "p",
-                "x": "Además de la integración oficial, Xiaomi permite a los usuarios crear sus propias apps para la pantalla trasera con una herramienta integrada de creación de apps GenAI. Basta con describir lo que se quiere y la AI del dispositivo crea la app. Parece bastante práctica y debería ayudar a resolver el problema de “inutilidad” que han arrastrado las pantallas traseras anteriores. La serie Xiaomi 18 Pro se lanzará a nivel global."
+                "x": "Las apps conocidas mantienen su experiencia actual sin necesidad de un entitlement, y los permisos concedidos antes de macOS 27.3 siguen vigentes. El mes pasado, Apple dijo que añadiría “controles adicionales” a Full Disk Access por los riesgos que plantean los agentes de AI, y advirtió que algunos desarrolladores lo usan de formas que pueden exponer archivos, correo, mensajes, historial de navegación y más."
               }
             ]
           }
@@ -787,647 +697,255 @@
       }
     },
     {
-      "id": "tvos-27-2-1-siri-ai",
+      "id": "halliday-g2-glasses-review",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "tvOS 27.2.1 배포\n4K 구형도 Siri AI",
-      "body": "tvOS 27.2.1은 2·3세대 Apple TV 4K 에 Siri AI를 들였다.",
-      "mini_headline": "구형 Apple TVs에도 Siri AI",
+      "headline": "Halliday G2 AI\n유용하나 눈에 띄는 커닝",
+      "body": "Halliday G2는 카메라 없이 AI가 유용하나 투박하고 답을 읽으면 티 난다.",
+      "mini_headline": "Halliday G2 안경 써 보니",
       "tool": "Gadgets",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/11/13/apple-releases-tvos-27-2-1/",
+      "source": "Tom's Guide",
+      "url": "https://www.tomsguide.com/computing/smart-glasses/i-tested-the-halliday-g2-ai-smart-glasses-and-they-turned-me-into-a-walking-cheat-sheet-but-everyone-could-tell",
       "accent": "#7928ca",
-      "motif": "headset",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://images.macrumors.com/t/NIQfOSBaVtOFpZf_INMVdrQgmCg=/2500x/article-new/2026/10/Apple-TV-4K-4th-Generation-feature0.jpg"
-          },
-          {
-            "t": "p",
-            "x": "Apple이 오늘 tvOS 27.2.1을 배포했다. 9월에 나온 tvOS 27 운영체제의 업데이트다. tvOS 27.2.1은 Apple이 tvOS 27.2를 낸 지 세 주 가까이 만에 나왔다."
-          },
-          {
-            "t": "p",
-            "x": "tvOS 27.2.1로 2세대와 3세대 Apple TV 4K 모델에서도 Siri AI를 쓸 수 있게 됐다. 업데이트 자체는 tvOS 27을 지원하는 모든 Apple TV 4K 모델이 받을 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "Apple은 4세대 Apple TV 4K 를 공개하면서 Apple TV용 Siri AI를 발표했다. 최신 셋톱박스는 별도 tvOS 27.2 빌드로 Siri AI가 켜지지만, 구형 Apple TV 4K 모델은 tvOS 27.2.1 업데이트를 받아야 쓸 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "Siri AI는 Apple이 올해 초 선보인, 한층 똑똑하고 유능해진 Siri다. Siri AI는 콘텐츠를 틀고, 개인 맥락에 맞춰 제안하고, 일반 상식 질문에 답하며, 작업도 처리한다."
-          },
-          {
-            "t": "p",
-            "x": "Apple TV에서 Siri AI를 쓰려면 Apple Intelligence-compatible iOS 기기, 즉 iPhone 15 Pro 이후 모델과 페어링해야 한다."
-          },
-          {
-            "t": "p",
-            "x": "Apple TV 사용자는 설정(Settings) > 시스템(System) > 소프트웨어 업데이트(Software Update)에서 tvOS 27.2.1을 받을 수 있다. Apple은 HomePod와 HomePod mini용 HomePod Software 27.2.1 업데이트도 함께 내놓았다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "tvOS 27.2.1 brings Siri AI\nto older Apple TV 4K models",
-          "body": "Apple's tvOS 27.2.1 brings Siri AI to the 2nd- and 3rd-generation Apple TV 4K, nearly three weeks after tvOS 27.2.",
-          "mini_headline": "Siri AI reaches older Apple TVs",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://images.macrumors.com/t/NIQfOSBaVtOFpZf_INMVdrQgmCg=/2500x/article-new/2026/10/Apple-TV-4K-4th-Generation-feature0.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Apple today released tvOS 27.2.1, an update to the tvOS 27 operating system that launched in September. tvOS 27.2.1 comes nearly three weeks after Apple released tvOS 27.2."
-              },
-              {
-                "t": "p",
-                "x": "tvOS 27.2.1 brings Siri AI support to the 2nd- and 3rd-generation Apple TV 4K models, but it is available for all Apple TV 4K models that support tvOS 27."
-              },
-              {
-                "t": "p",
-                "x": "Apple announced Siri AI for the Apple TV when debuting the 4th-generation Apple TV 4K. A separate tvOS 27.2 build activates Siri AI on the newest set-top box, but the older Apple TV 4K models will need the tvOS 27.2.1 update to get access."
-              },
-              {
-                "t": "p",
-                "x": "Siri AI is the smarter, more capable version of Siri that Apple introduced earlier this year. Siri AI can play content, draw on personal context to offer suggestions, answer world knowledge questions, and complete tasks."
-              },
-              {
-                "t": "p",
-                "x": "Using Siri AI on the Apple TV requires a paired Apple Intelligence-compatible iOS device, which includes the iPhone 15 Pro and later."
-              },
-              {
-                "t": "p",
-                "x": "Apple TV users can download tvOS 27.2.1 by going to Settings > System > Software Update. Apple has also released a new HomePod Software 27.2.1 update for the HomePod and HomePod mini."
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "tvOS 27.2.1 lleva Siri AI\na los Apple TV 4K anteriores",
-          "body": "tvOS 27.2.1 de Apple lleva Siri AI al Apple TV 4K de 2.ª y 3.ª generación, casi tres semanas después de tvOS 27.2.",
-          "mini_headline": "Siri AI llega a los Apple TV anteriores",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://images.macrumors.com/t/NIQfOSBaVtOFpZf_INMVdrQgmCg=/2500x/article-new/2026/10/Apple-TV-4K-4th-Generation-feature0.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Apple lanzó hoy tvOS 27.2.1, una actualización del sistema operativo tvOS 27 que llegó en septiembre. tvOS 27.2.1 aparece casi tres semanas después de que Apple publicara tvOS 27.2."
-              },
-              {
-                "t": "p",
-                "x": "tvOS 27.2.1 incorpora compatibilidad con Siri AI en los Apple TV 4K de 2.ª y 3.ª generación, aunque está disponible para todos los modelos de Apple TV 4K compatibles con tvOS 27."
-              },
-              {
-                "t": "p",
-                "x": "Apple anunció Siri AI para el Apple TV al presentar el Apple TV 4K de 4.ª generación. Una compilación aparte de tvOS 27.2 activa Siri AI en el decodificador más reciente, pero los modelos anteriores de Apple TV 4K necesitarán la actualización tvOS 27.2.1 para acceder."
-              },
-              {
-                "t": "p",
-                "x": "Siri AI es la versión más inteligente y capaz de Siri que Apple presentó a principios de este año. Siri AI puede reproducir contenido, recurrir al contexto personal para ofrecer sugerencias, responder preguntas de conocimiento general y completar tareas."
-              },
-              {
-                "t": "p",
-                "x": "Usar Siri AI en el Apple TV requiere un dispositivo iOS Apple Intelligence-compatible vinculado, lo que incluye el iPhone 15 Pro y posteriores."
-              },
-              {
-                "t": "p",
-                "x": "Los usuarios de Apple TV pueden descargar tvOS 27.2.1 en Settings > System > Software Update (Ajustes > Sistema > Actualización de software). Apple también publicó una nueva actualización HomePod Software 27.2.1 para el HomePod y el HomePod mini."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "tvOS 27.2.1 배포\n4K 구형도 Siri AI",
-          "body": "tvOS 27.2.1은 2·3세대 Apple TV 4K 에 Siri AI를 들였다.",
-          "mini_headline": "구형 Apple TVs에도 Siri AI",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://images.macrumors.com/t/NIQfOSBaVtOFpZf_INMVdrQgmCg=/2500x/article-new/2026/10/Apple-TV-4K-4th-Generation-feature0.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Apple이 오늘 tvOS 27.2.1을 배포했다. 9월에 나온 tvOS 27 운영체제의 업데이트다. tvOS 27.2.1은 Apple이 tvOS 27.2를 낸 지 세 주 가까이 만에 나왔다."
-              },
-              {
-                "t": "p",
-                "x": "tvOS 27.2.1로 2세대와 3세대 Apple TV 4K 모델에서도 Siri AI를 쓸 수 있게 됐다. 업데이트 자체는 tvOS 27을 지원하는 모든 Apple TV 4K 모델이 받을 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "Apple은 4세대 Apple TV 4K 를 공개하면서 Apple TV용 Siri AI를 발표했다. 최신 셋톱박스는 별도 tvOS 27.2 빌드로 Siri AI가 켜지지만, 구형 Apple TV 4K 모델은 tvOS 27.2.1 업데이트를 받아야 쓸 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "Siri AI는 Apple이 올해 초 선보인, 한층 똑똑하고 유능해진 Siri다. Siri AI는 콘텐츠를 틀고, 개인 맥락에 맞춰 제안하고, 일반 상식 질문에 답하며, 작업도 처리한다."
-              },
-              {
-                "t": "p",
-                "x": "Apple TV에서 Siri AI를 쓰려면 Apple Intelligence-compatible iOS 기기, 즉 iPhone 15 Pro 이후 모델과 페어링해야 한다."
-              },
-              {
-                "t": "p",
-                "x": "Apple TV 사용자는 설정(Settings) > 시스템(System) > 소프트웨어 업데이트(Software Update)에서 tvOS 27.2.1을 받을 수 있다. Apple은 HomePod와 HomePod mini용 HomePod Software 27.2.1 업데이트도 함께 내놓았다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "tvOS 27.2.1配信\n旧型 4K にSiri AI",
-          "body": "tvOS 27.2.1が第2・第3世代Apple TV 4K にSiri AIを提供する。",
-          "mini_headline": "旧型Apple TVsにもSiri AI",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://images.macrumors.com/t/NIQfOSBaVtOFpZf_INMVdrQgmCg=/2500x/article-new/2026/10/Apple-TV-4K-4th-Generation-feature0.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Appleは本日、9月に登場したtvOS 27オペレーティングシステムのアップデートとしてtvOS 27.2.1を公開した。tvOS 27.2.1は、AppleがtvOS 27.2を出してから三週間近く後の配信となる。"
-              },
-              {
-                "t": "p",
-                "x": "tvOS 27.2.1は第2世代と第3世代のApple TV 4K モデルにSiri AIへの対応をもたらすが、tvOS 27に対応するすべてのApple TV 4K モデルで入手できる。"
-              },
-              {
-                "t": "p",
-                "x": "Appleは第4世代Apple TV 4K の発表時に、Apple TV向けのSiri AIを発表した。最新のセットトップボックスでは別のtvOS 27.2ビルドがSiri AIを有効にするが、旧型のApple TV 4K モデルで使うにはtvOS 27.2.1アップデートが必要だ。"
-              },
-              {
-                "t": "p",
-                "x": "Siri AIは、Appleが今年初めに導入した、より賢く高機能なSiriである。Siri AIはコンテンツの再生、個人の文脈に基づく提案、一般知識の質問への回答、タスクの実行をこなす。"
-              },
-              {
-                "t": "p",
-                "x": "Apple TVでSiri AIを使うには、Apple Intelligence-compatibleのiOSデバイス、つまりiPhone 15 Pro以降とのペアリングが必要だ。"
-              },
-              {
-                "t": "p",
-                "x": "Apple TVのユーザーは、設定（Settings）> システム（System）> ソフトウェアアップデート（Software Update）からtvOS 27.2.1をダウンロードできる。AppleはHomePodとHomePod mini向けの新しいHomePod Software 27.2.1アップデートも公開した。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "tvOS 27.2.1 更新\n旧款 4K 获Siri AI",
-          "body": "tvOS 27.2.1为第2、3代Apple TV 4K 带来Siri AI。",
-          "mini_headline": "旧款Apple TVs迎来Siri AI",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://images.macrumors.com/t/NIQfOSBaVtOFpZf_INMVdrQgmCg=/2500x/article-new/2026/10/Apple-TV-4K-4th-Generation-feature0.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Apple今天发布了tvOS 27.2.1，这是对9月推出的tvOS 27操作系统的更新。tvOS 27.2.1距Apple发布tvOS 27.2已近三周。"
-              },
-              {
-                "t": "p",
-                "x": "tvOS 27.2.1为第2代和第3代Apple TV 4K 机型带来Siri AI支持，但所有支持tvOS 27的Apple TV 4K 机型都可以安装。"
-              },
-              {
-                "t": "p",
-                "x": "Apple在推出第4代Apple TV 4K 时宣布了Apple TV版Siri AI。最新的机顶盒通过另一个tvOS 27.2版本启用Siri AI，而较早的Apple TV 4K 机型需要安装tvOS 27.2.1更新才能使用。"
-              },
-              {
-                "t": "p",
-                "x": "Siri AI是Apple今年早些时候推出的更聪明、更强大的Siri。Siri AI可以播放内容、依据个人情境提供建议、回答常识性问题并完成任务。"
-              },
-              {
-                "t": "p",
-                "x": "在Apple TV上使用Siri AI，需要配对一台Apple Intelligence-compatible的iOS设备，即iPhone 15 Pro及更新机型。"
-              },
-              {
-                "t": "p",
-                "x": "Apple TV用户可前往设置（Settings）> 系统（System）> 软件更新（Software Update）下载tvOS 27.2.1。Apple还为HomePod和HomePod mini发布了新的HomePod Software 27.2.1更新。"
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "es": {
-          "headline": "tvOS 27.2.1 lleva Siri AI\na los Apple TV 4K anteriores",
-          "body": "tvOS 27.2.1 de Apple lleva Siri AI al Apple TV 4K de 2.ª y 3.ª generación, casi tres semanas después de tvOS 27.2.",
-          "mini_headline": "Siri AI llega a los Apple TV anteriores",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://images.macrumors.com/t/NIQfOSBaVtOFpZf_INMVdrQgmCg=/2500x/article-new/2026/10/Apple-TV-4K-4th-Generation-feature0.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Apple lanzó hoy tvOS 27.2.1, una actualización del sistema operativo tvOS 27 que llegó en septiembre. tvOS 27.2.1 aparece casi tres semanas después de que Apple publicara tvOS 27.2."
-              },
-              {
-                "t": "p",
-                "x": "tvOS 27.2.1 incorpora compatibilidad con Siri AI en los Apple TV 4K de 2.ª y 3.ª generación, aunque está disponible para todos los modelos de Apple TV 4K compatibles con tvOS 27."
-              },
-              {
-                "t": "p",
-                "x": "Apple anunció Siri AI para el Apple TV al presentar el Apple TV 4K de 4.ª generación. Una compilación aparte de tvOS 27.2 activa Siri AI en el decodificador más reciente, pero los modelos anteriores de Apple TV 4K necesitarán la actualización tvOS 27.2.1 para acceder."
-              },
-              {
-                "t": "p",
-                "x": "Siri AI es la versión más inteligente y capaz de Siri que Apple presentó a principios de este año. Siri AI puede reproducir contenido, recurrir al contexto personal para ofrecer sugerencias, responder preguntas de conocimiento general y completar tareas."
-              },
-              {
-                "t": "p",
-                "x": "Usar Siri AI en el Apple TV requiere un dispositivo iOS Apple Intelligence-compatible vinculado, lo que incluye el iPhone 15 Pro y posteriores."
-              },
-              {
-                "t": "p",
-                "x": "Los usuarios de Apple TV pueden descargar tvOS 27.2.1 en Settings > System > Software Update (Ajustes > Sistema > Actualización de software). Apple también publicó una nueva actualización HomePod Software 27.2.1 para el HomePod y el HomePod mini."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "tvOS 27.2.1 배포\n4K 구형도 Siri AI",
-          "body": "tvOS 27.2.1은 2·3세대 Apple TV 4K 에 Siri AI를 들였다.",
-          "mini_headline": "구형 Apple TVs에도 Siri AI",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://images.macrumors.com/t/NIQfOSBaVtOFpZf_INMVdrQgmCg=/2500x/article-new/2026/10/Apple-TV-4K-4th-Generation-feature0.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Apple이 오늘 9월에 나온 tvOS 27 운영체제의 업데이트인 tvOS 27.2.1을 내놓았다. tvOS 27.2.1은 Apple이 tvOS 27.2를 낸 지 세 주 가까이 지나 나왔다."
-              },
-              {
-                "t": "p",
-                "x": "tvOS 27.2.1은 2세대와 3세대 Apple TV 4K 모델에 Siri AI 지원을 더한다. 다만 업데이트 자체는 tvOS 27을 지원하는 모든 Apple TV 4K 모델에서 받을 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "Apple은 4세대 Apple TV 4K 를 공개하며 Apple TV용 Siri AI를 발표했다. 최신 셋톱박스에서는 별도의 tvOS 27.2 빌드가 Siri AI를 켜지만, 구형 Apple TV 4K 모델은 tvOS 27.2.1 업데이트를 받아야 쓸 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "Siri AI는 Apple이 올해 초 선보인, 더 똑똑하고 유능해진 Siri다. Siri AI는 콘텐츠를 재생하고, 개인 맥락을 바탕으로 제안을 내놓고, 일반 상식 질문에 답하고, 작업을 처리한다."
-              },
-              {
-                "t": "p",
-                "x": "Apple TV에서 Siri AI를 쓰려면 Apple Intelligence-compatible iOS 기기, 즉 iPhone 15 Pro 이후 모델과 페어링해야 한다."
-              },
-              {
-                "t": "p",
-                "x": "Apple TV 사용자는 설정(Settings) > 시스템(System) > 소프트웨어 업데이트(Software Update)에서 tvOS 27.2.1을 내려받을 수 있다. Apple은 HomePod와 HomePod mini용 HomePod Software 27.2.1 업데이트도 새로 내놓았다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "tvOS 27.2.1配信\n旧型 4K にSiri AI",
-          "body": "tvOS 27.2.1が第2・第3世代Apple TV 4K にSiri AIを提供する。",
-          "mini_headline": "旧型Apple TVsにもSiri AI",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://images.macrumors.com/t/NIQfOSBaVtOFpZf_INMVdrQgmCg=/2500x/article-new/2026/10/Apple-TV-4K-4th-Generation-feature0.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Appleは本日、9月に登場したtvOS 27オペレーティングシステムのアップデートとしてtvOS 27.2.1を公開した。tvOS 27.2.1は、AppleがtvOS 27.2を出してから三週間近く後の配信となる。"
-              },
-              {
-                "t": "p",
-                "x": "tvOS 27.2.1は第2世代と第3世代のApple TV 4K モデルにSiri AIへの対応をもたらすが、tvOS 27に対応するすべてのApple TV 4K モデルで入手できる。"
-              },
-              {
-                "t": "p",
-                "x": "Appleは第4世代Apple TV 4K の発表時に、Apple TV向けのSiri AIを発表した。最新のセットトップボックスでは別のtvOS 27.2ビルドがSiri AIを有効にするが、旧型のApple TV 4K モデルで使うにはtvOS 27.2.1アップデートが必要だ。"
-              },
-              {
-                "t": "p",
-                "x": "Siri AIは、Appleが今年初めに導入した、より賢く高機能なSiriである。Siri AIはコンテンツの再生、個人の文脈に基づく提案、一般知識の質問への回答、タスクの実行をこなす。"
-              },
-              {
-                "t": "p",
-                "x": "Apple TVでSiri AIを使うには、Apple Intelligence-compatibleのiOSデバイス、つまりiPhone 15 Pro以降とのペアリングが必要だ。"
-              },
-              {
-                "t": "p",
-                "x": "Apple TVのユーザーは、設定（Settings）> システム（System）> ソフトウェアアップデート（Software Update）からtvOS 27.2.1をダウンロードできる。AppleはHomePodとHomePod mini向けの新しいHomePod Software 27.2.1アップデートも公開した。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "tvOS 27.2.1 更新\n旧款 4K 获Siri AI",
-          "body": "tvOS 27.2.1为第2、3代Apple TV 4K 带来Siri AI。",
-          "mini_headline": "旧款Apple TVs迎来Siri AI",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://images.macrumors.com/t/NIQfOSBaVtOFpZf_INMVdrQgmCg=/2500x/article-new/2026/10/Apple-TV-4K-4th-Generation-feature0.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Apple今天发布了tvOS 27.2.1，这是对9月推出的tvOS 27操作系统的更新。tvOS 27.2.1距Apple发布tvOS 27.2已近三周。"
-              },
-              {
-                "t": "p",
-                "x": "tvOS 27.2.1为第2代和第3代Apple TV 4K 机型带来Siri AI支持，但所有支持tvOS 27的Apple TV 4K 机型都可以安装。"
-              },
-              {
-                "t": "p",
-                "x": "Apple在推出第4代Apple TV 4K 时宣布了Apple TV版Siri AI。最新的机顶盒通过另一个tvOS 27.2版本启用Siri AI，而较早的Apple TV 4K 机型需要安装tvOS 27.2.1更新才能使用。"
-              },
-              {
-                "t": "p",
-                "x": "Siri AI是Apple今年早些时候推出的更聪明、更强大的Siri。Siri AI可以播放内容、依据个人情境提供建议、回答常识性问题并完成任务。"
-              },
-              {
-                "t": "p",
-                "x": "在Apple TV上使用Siri AI，需要配对一台Apple Intelligence-compatible的iOS设备，即iPhone 15 Pro及更新机型。"
-              },
-              {
-                "t": "p",
-                "x": "Apple TV用户可前往设置（Settings）> 系统（System）> 软件更新（Software Update）下载tvOS 27.2.1。Apple还为HomePod和HomePod mini发布了新的HomePod Software 27.2.1更新。"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "slashvibe-agent-controller",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "오픈소스 SlashVibe\nAI 에이전트 컨트롤러",
-      "body": "SlashVibe는 SDKs를 갖춘 AI 에이전트 컨트롤러로 $189부터다.",
-      "mini_headline": "SlashVibe 에이전트 데스크 컨트롤러",
-      "tool": "Gadgets",
-      "source": "The Gadgeteer",
-      "url": "https://the-gadgeteer.com/2026/11/15/slashvibe-open-source-ai-agent-desk-controller/",
-      "accent": "#f5a623",
       "motif": "headset",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/slashvibe-hero-in-hand-1440.jpg",
-            "cap": "에이전트 세션이 대기, 완료, 작업 중으로 표시된 화면의 SlashVibe V1을 두 손으로 든 모습"
+            "src": "https://cdn.mos.cms.futurecdn.net/wVu3i3WESBzbZxWLscxMMA-2560-80.jpg",
+            "cap": "(이미지 출처: © Future / Tom's Guide)"
           },
           {
             "t": "p",
-            "x": "SlashVibe는 AI 에이전트용 분리형 컨트롤러를 단 작은 데스크 디스플레이다. 제작진은 이를 구동하는 데스크톱 앱, 펌웨어, 통신 프로토콜, SDK를 오픈소스로 공개한다. Kickstarter 캠페인은 2026년 11월 15일 기준 552명의 후원자에게서 $122,881을 모아 목표액 $10,000를 훌쩍 넘겼고, 12월 10일에 마감한다. Early Bird 후원가는 $189로 소매가 $249보다 $60 싸며, 첫 물량은 2027년 3월부터 출하될 예정이다."
+            "x": "Tom's Guide Verdict: Halliday G2 AI 스마트 안경은 올바른 방향으로 한 걸음 나아갔다. 카메라 없는 안경에 쓸 만한 AI 기능을 담았고, 착용감은 편하지만 디자인은 두툼하다(투박하기도 하다). 다만 경쟁 제품과 경험이 거의 같고, 오픈형 오디오 품질은 기대에 못 미친다."
           },
           {
             "t": "p",
-            "x": "SlashVibe SDK는 Node.js나 Python만 있으면 된다. 코드는 사용자 컴퓨터에서 돌고, 인터페이스는 SlashVibe로 스트리밍된다. 첫 릴리스에는 훅 세 가지가 들어간다. 맞춤 화면 레이아웃, 버튼·조이스틱 이벤트, 음성을 받아 적은 텍스트다."
+            "x": "듀얼 micro-LED 엔진과 웨이브가이드 광학계가 양쪽 렌즈에 녹색 도트 매트릭스 텍스트를 띄운다. 해상도는 눈당 600 x 300, 최대 밝기는 1,600니트다. 무게는 1.7온스로, 리뷰어가 써 본 AI 안경 중 착용감이 좋은 축에 든다."
           },
           {
             "t": "img",
-            "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/slashvibe-sdk-spend-screen.jpg",
-            "cap": "월 예산 대비 API 지출을 추적하는 SlashVibe SDK 예시 화면"
+            "src": "https://cdn.mos.cms.futurecdn.net/buBdfVFApQx8tiQPUDTHQA.jpg",
+            "cap": "(이미지 출처: Future / Tom's Guide)"
           },
           {
             "t": "p",
-            "x": "하드웨어는 3.96인치 LCD, Kailh 초저상 기계식 스위치, 2축 조이스틱, 듀얼 MEMS 마이크, 2W 스피커로 이뤄진다. 분리되는 컨트롤러는 2.4GHz 로 통신하며 500mAh 배터리로 20시간 간다."
+            "x": "핵심 기능은 세 가지다. 실시간 AI 에이전트가 대화를 따라가며 요약·전사하고 조사까지 하는 Meeting Flow, 텔레프롬프터 기능 Cheatsheet, 45개 이상 언어를 지원하는 Translation이다. Halliday AI 어시스턴트는 질문에 빠르게 답한다. 그런데 기능 구성이 Even Realities G2의 Conversate, Teleprompt, Translate와 판박이다."
           },
           {
             "t": "img",
-            "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/slashvibe-agent-status-screen-closeup-1440.jpg",
-            "cap": "에이전트 세션이 대기, 완료, 작업 중으로 표시된 SlashVibe 디스플레이 클로즈업"
+            "src": "https://cdn.mos.cms.futurecdn.net/tzxstR6aTrhyeqcLwgATLA.jpg",
+            "cap": "(이미지 출처: Future / Tom's Guide)"
           },
           {
             "t": "p",
-            "x": "SlashVibe는 따로 설정하지 않아도 macOS와 Windows에서 Claude Code, Codex, Cursor, Copilot CLI, Gemini CLI 등 20개가 넘는 에이전트·도구와 함께 쓸 수 있다. 세션마다 실행 중, 완료, 대기 상태가 뜨고, 승인도 기기에서 바로 한다. 음성 입력은 100밀리초 안에 녹음을 시작하고 군말은 걸러낸다. 라이선스와 저장소는 아직 밝히지 않았다. 코드는 출하 전에 공개할 예정이다."
+            "x": "리뷰어와 마주친 사람들은 모두 한눈에 스마트 안경임을 알아챘다. Stealth Mode는 녹색 텍스트를 어둡게 할 뿐이라 각도에 따라 여전히 보인다. 배터리는 약 12시간 간다. 같은 소매가의 Even Realities G2가 모든 면에서 낫다는 걸 생각하면 추천하기 어렵다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "SlashVibe, an open-source\ndesk controller for AI agents",
-          "body": "SlashVibe, an open-source AI agent desk controller with Node.js and Python SDKs, starts at $189 on Kickstarter.",
-          "mini_headline": "SlashVibe agent desk controller",
+          "headline": "Halliday G2 AI glasses make\na useful but obvious cheat sheet",
+          "body": "Halliday's camera-less G2 glasses have useful AI, but they look dorky and people notice when you read answers off them.",
+          "mini_headline": "Halliday G2 glasses tested",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/slashvibe-hero-in-hand-1440.jpg",
-                "cap": "SlashVibe V1 held in two hands with agent sessions marked waiting, done and working on its display"
+                "src": "https://cdn.mos.cms.futurecdn.net/wVu3i3WESBzbZxWLscxMMA-2560-80.jpg",
+                "cap": "(Image credit: © Future / Tom's Guide)"
               },
               {
                 "t": "p",
-                "x": "SlashVibe is a small desk display with a detachable controller for your AI agents, and its makers are open-sourcing the desktop app, firmware, communication protocol and SDK behind it. The Kickstarter had raised $122,881 against a $10,000 goal from 552 backers as of November 15, 2026, and closes on December 10. Early Bird pledges sit at $189, $60 under the $249 retail price, and the first batch is expected to start shipping in March 2027."
+                "x": "Tom's Guide Verdict: The Halliday G2 AI smart glasses are a step in the right direction, delivering camera-less specs with helpful AI features in a comfortable yet chunky (and dorky) design. But they offer a near-identical experience to their rivals, and are let down by subpar open-ear audio."
               },
               {
                 "t": "p",
-                "x": "Node.js or Python is all the SlashVibe SDK needs. Your code runs on your computer and streams its interface to SlashVibe. Three hooks ship in the first release: custom screen layouts, button and joystick events, and the text transcribed from your voice."
+                "x": "Dual micro-LED engines and waveguide optics put green dot-matrix text on both lenses, at 600 x 300 per-eye resolution and 1,600 nits peak brightness. At 1.7 ounces, they are one of the more comfortable AI glasses the reviewer has worn."
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/slashvibe-sdk-spend-screen.jpg",
-                "cap": "SlashVibe SDK example screen tracking API spend against a monthly budget"
+                "src": "https://cdn.mos.cms.futurecdn.net/buBdfVFApQx8tiQPUDTHQA.jpg",
+                "cap": "(Image credit: Future / Tom's Guide)"
               },
               {
                 "t": "p",
-                "x": "The hardware has a 3.96-inch LCD, Kailh ultra-low-profile mechanical switches, a two-axis joystick, dual MEMS microphones and a 2W speaker; the controller detaches and talks over 2.4GHz on a 500mAh battery rated for 20 hours."
+                "x": "Key features include Meeting Flow, where live AI agents track, summarize, transcribe and research conversations; Cheatsheet, a teleprompter; and Translation for over 45 languages. The Halliday AI assistant is snappy at answering questions — but the features mirror the Even Realities G2's Conversate, Teleprompt and Translate."
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/slashvibe-agent-status-screen-closeup-1440.jpg",
-                "cap": "SlashVibe display close-up showing agent sessions marked waiting, done and working"
+                "src": "https://cdn.mos.cms.futurecdn.net/tzxstR6aTrhyeqcLwgATLA.jpg",
+                "cap": "(Image credit: Future / Tom's Guide)"
               },
               {
                 "t": "p",
-                "x": "Out of the box, SlashVibe works with more than 20 agents and tools on macOS and Windows, including Claude Code, Codex, Cursor, Copilot CLI and Gemini CLI. Every session shows as running, done or waiting, and approvals happen on the device. Voice input starts recording in under 100 milliseconds and strips filler words. No license or repository has been named yet; the code will be published before shipping."
+                "x": "Everyone the reviewer came across pointed out they were smart glasses at first glance, and Stealth Mode only dims the green text, which can still be seen at different angles. Battery lasts around 12 hours. When the Even Realities G2 does it all better at the same retail price, it's harder to recommend these."
               }
             ]
           }
         },
         "ko": {
-          "headline": "오픈소스 SlashVibe\nAI 에이전트 컨트롤러",
-          "body": "SlashVibe는 SDKs를 갖춘 AI 에이전트 컨트롤러로 $189부터다.",
-          "mini_headline": "SlashVibe 에이전트 데스크 컨트롤러",
+          "headline": "Halliday G2 AI\n유용하나 눈에 띄는 커닝",
+          "body": "Halliday G2는 카메라 없이 AI가 유용하나 투박하고 답을 읽으면 티 난다.",
+          "mini_headline": "Halliday G2 안경 써 보니",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/slashvibe-hero-in-hand-1440.jpg",
-                "cap": "에이전트 세션이 대기, 완료, 작업 중으로 표시된 화면의 SlashVibe V1을 두 손으로 든 모습"
+                "src": "https://cdn.mos.cms.futurecdn.net/wVu3i3WESBzbZxWLscxMMA-2560-80.jpg",
+                "cap": "(이미지 출처: © Future / Tom's Guide)"
               },
               {
                 "t": "p",
-                "x": "SlashVibe는 AI 에이전트용 분리형 컨트롤러를 단 작은 데스크 디스플레이다. 제작진은 이를 구동하는 데스크톱 앱, 펌웨어, 통신 프로토콜, SDK를 오픈소스로 공개한다. Kickstarter 캠페인은 2026년 11월 15일 기준 552명의 후원자에게서 $122,881을 모아 목표액 $10,000를 훌쩍 넘겼고, 12월 10일에 마감한다. Early Bird 후원가는 $189로 소매가 $249보다 $60 싸며, 첫 물량은 2027년 3월부터 출하될 예정이다."
+                "x": "Tom's Guide Verdict: Halliday G2 AI 스마트 안경은 올바른 방향으로 한 걸음 나아갔다. 카메라 없는 안경에 쓸 만한 AI 기능을 담았고, 착용감은 편하지만 디자인은 두툼하다(투박하기도 하다). 다만 경쟁 제품과 경험이 거의 같고, 오픈형 오디오 품질은 기대에 못 미친다."
               },
               {
                 "t": "p",
-                "x": "SlashVibe SDK는 Node.js나 Python만 있으면 된다. 코드는 사용자 컴퓨터에서 돌고, 인터페이스는 SlashVibe로 스트리밍된다. 첫 릴리스에는 훅 세 가지가 들어간다. 맞춤 화면 레이아웃, 버튼·조이스틱 이벤트, 음성을 받아 적은 텍스트다."
+                "x": "듀얼 micro-LED 엔진과 웨이브가이드 광학계가 양쪽 렌즈에 녹색 도트 매트릭스 텍스트를 띄운다. 해상도는 눈당 600 x 300, 최대 밝기는 1,600니트다. 무게는 1.7온스로, 리뷰어가 써 본 AI 안경 중 착용감이 좋은 축에 든다."
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/slashvibe-sdk-spend-screen.jpg",
-                "cap": "월 예산 대비 API 지출을 추적하는 SlashVibe SDK 예시 화면"
+                "src": "https://cdn.mos.cms.futurecdn.net/buBdfVFApQx8tiQPUDTHQA.jpg",
+                "cap": "(이미지 출처: Future / Tom's Guide)"
               },
               {
                 "t": "p",
-                "x": "하드웨어는 3.96인치 LCD, Kailh 초저상 기계식 스위치, 2축 조이스틱, 듀얼 MEMS 마이크, 2W 스피커로 이뤄진다. 분리되는 컨트롤러는 2.4GHz 로 통신하며 500mAh 배터리로 20시간 간다."
+                "x": "핵심 기능은 세 가지다. 실시간 AI 에이전트가 대화를 따라가며 요약·전사하고 조사까지 하는 Meeting Flow, 텔레프롬프터 기능 Cheatsheet, 45개 이상 언어를 지원하는 Translation이다. Halliday AI 어시스턴트는 질문에 빠르게 답한다. 그런데 기능 구성이 Even Realities G2의 Conversate, Teleprompt, Translate와 판박이다."
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/slashvibe-agent-status-screen-closeup-1440.jpg",
-                "cap": "에이전트 세션이 대기, 완료, 작업 중으로 표시된 SlashVibe 디스플레이 클로즈업"
+                "src": "https://cdn.mos.cms.futurecdn.net/tzxstR6aTrhyeqcLwgATLA.jpg",
+                "cap": "(이미지 출처: Future / Tom's Guide)"
               },
               {
                 "t": "p",
-                "x": "SlashVibe는 따로 설정하지 않아도 macOS와 Windows에서 Claude Code, Codex, Cursor, Copilot CLI, Gemini CLI 등 20개가 넘는 에이전트·도구와 함께 쓸 수 있다. 세션마다 실행 중, 완료, 대기 상태가 뜨고, 승인도 기기에서 바로 한다. 음성 입력은 100밀리초 안에 녹음을 시작하고 군말은 걸러낸다. 라이선스와 저장소는 아직 밝히지 않았다. 코드는 출하 전에 공개할 예정이다."
+                "x": "리뷰어와 마주친 사람들은 모두 한눈에 스마트 안경임을 알아챘다. Stealth Mode는 녹색 텍스트를 어둡게 할 뿐이라 각도에 따라 여전히 보인다. 배터리는 약 12시간 간다. 같은 소매가의 Even Realities G2가 모든 면에서 낫다는 걸 생각하면 추천하기 어렵다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "SlashVibe、AI\nエージェント用操作卓",
-          "body": "SlashVibeはSDKsを備えたAIエージェント用コントローラーで、$189からだ。",
-          "mini_headline": "SlashVibeのエージェント用卓上コントローラー",
+          "headline": "Halliday G2 AI\n便利だがバレるカンペ",
+          "body": "カメラ非搭載のHalliday G2はAIが便利だが、見た目は野暮で、答えを読むとバレる。",
+          "mini_headline": "Halliday G2グラスを試す",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/slashvibe-hero-in-hand-1440.jpg",
-                "cap": "画面に待機中・完了・作業中のエージェントセッションを表示したSlashVibe V1を両手で持った様子"
+                "src": "https://cdn.mos.cms.futurecdn.net/wVu3i3WESBzbZxWLscxMMA-2560-80.jpg",
+                "cap": "（画像クレジット：© Future / Tom's Guide）"
               },
               {
                 "t": "p",
-                "x": "SlashVibeはAIエージェント用の着脱式コントローラーを備えた小型の卓上ディスプレイで、開発元はそれを支えるデスクトップアプリ、ファームウェア、通信プロトコル、SDKをオープンソース化する。Kickstarterでは2026年11月15日時点で552人の支援者から目標額$10,000に対し$122,881を集めており、12月10日に終了する。Early Birdの支援額は小売価格$249より$60安い$189で、最初のロットは2027年3月に出荷が始まる見込みだ。"
+                "x": "Tom's Guide Verdict：Halliday G2 AIスマートグラスは正しい方向への一歩だ。カメラを持たないメガネに便利なAI機能を載せ、装着感は快適だが、デザインは分厚い（そして野暮ったい）。ただし体験はライバル製品とほぼ同じで、オープンイヤー型オーディオの物足りなさが足を引っ張る。"
               },
               {
                 "t": "p",
-                "x": "SlashVibe SDKに必要なのはNode.jsかPythonだけだ。コードは手元のコンピューターで動き、そのインターフェースをSlashVibeにストリーミングする。最初のリリースには、カスタム画面レイアウト、ボタンとジョイスティックのイベント、音声を書き起こしたテキストという三つのフックが入る。"
+                "x": "デュアルmicro-LEDエンジンと導波路光学系が両レンズに緑のドットマトリクス文字を表示し、片目あたりの解像度は600 x 300、ピーク輝度は1,600ニトだ。重さは1.7オンスで、レビュアーが試したAIグラスの中でも快適な部類に入る。"
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/slashvibe-sdk-spend-screen.jpg",
-                "cap": "月間予算に対するAPI支出を追跡するSlashVibe SDKのサンプル画面"
+                "src": "https://cdn.mos.cms.futurecdn.net/buBdfVFApQx8tiQPUDTHQA.jpg",
+                "cap": "（画像クレジット：Future / Tom's Guide）"
               },
               {
                 "t": "p",
-                "x": "ハードウェアは3.96インチLCD、Kailhの超薄型メカニカルスイッチ、2軸ジョイスティック、デュアルMEMSマイク、2W スピーカーを備える。コントローラーは取り外し可能で2.4GHz で通信し、500mAh バッテリーで20時間使える。"
+                "x": "主な機能は、ライブのAIエージェントが会話を追跡・要約・文字起こし・調査するMeeting Flow、テレプロンプターのCheatsheet、45以上の言語に対応するTranslationだ。Halliday AIアシスタントは質問への応答がきびきびしているが、機能はEven Realities G2のConversate、Teleprompt、Translateをなぞったものだ。"
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/slashvibe-agent-status-screen-closeup-1440.jpg",
-                "cap": "待機中・完了・作業中のエージェントセッションを表示するSlashVibeディスプレイのクローズアップ"
+                "src": "https://cdn.mos.cms.futurecdn.net/tzxstR6aTrhyeqcLwgATLA.jpg",
+                "cap": "（画像クレジット：Future / Tom's Guide）"
               },
               {
                 "t": "p",
-                "x": "SlashVibeは初期状態でmacOSとWindows上のClaude Code、Codex、Cursor、Copilot CLI、Gemini CLIなど20を超えるエージェントやツールに対応する。各セッションは実行中、完了、待機として表示され、承認はデバイス上で行う。音声入力は100ミリ秒以内に録音を始め、言いよどみを取り除く。ライセンスやリポジトリはまだ明らかにされておらず、コードは出荷前に公開される。"
+                "x": "レビュアーが出会った人は皆、一目でスマートグラスだと指摘した。Stealth Modeは緑の文字を暗くするだけで、角度によっては見えてしまう。バッテリーは約12時間持つ。同じ小売価格でEven Realities G2がすべてをより上手くこなす以上、これを薦めるのは難しい。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "开源SlashVibe\nAI智能体桌面控制器",
-          "body": "SlashVibe是配备SDKs的开源AI智能体控制器，Kickstarter起价$189。",
-          "mini_headline": "SlashVibe智能体桌面控制器",
+          "headline": "Halliday G2 AI\n实用却显眼的小抄",
+          "body": "Halliday G2无摄像头，AI实用，但外形笨拙，看着它读答案会被人察觉。",
+          "mini_headline": "Halliday G2眼镜实测",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/slashvibe-hero-in-hand-1440.jpg",
-                "cap": "双手握持SlashVibe V1，屏幕上显示标为等待、完成和工作中的智能体会话"
+                "src": "https://cdn.mos.cms.futurecdn.net/wVu3i3WESBzbZxWLscxMMA-2560-80.jpg",
+                "cap": "（图片来源：© Future / Tom's Guide）"
               },
               {
                 "t": "p",
-                "x": "SlashVibe是一款配有可拆卸AI智能体控制器的小型桌面显示屏，开发团队将开源其背后的桌面应用、固件、通信协议和SDK。截至2026年11月15日，其Kickstarter众筹已从552名支持者处筹得$122,881，目标为$10,000，将于12月10日结束。Early Bird档位为$189，比$249的零售价低$60，首批产品预计于2027年3月开始发货。"
+                "x": "Tom's Guide Verdict：Halliday G2 AI智能眼镜朝着正确方向迈出了一步，在舒适但厚重（且笨拙）的设计中，提供了不带摄像头、配有实用AI功能的眼镜。但它的体验与竞品几乎一样，开放式音频表现欠佳也拖了后腿。"
               },
               {
                 "t": "p",
-                "x": "SlashVibe SDK只需要Node.js或Python。代码在你的电脑上运行，并将界面串流到SlashVibe。首个版本提供三个钩子：自定义屏幕布局、按键与摇杆事件，以及语音转写出的文本。"
+                "x": "双micro-LED引擎和光波导光学元件在两片镜片上显示绿色点阵文字，单眼分辨率为600 x 300，峰值亮度1,600尼特。它重1.7盎司，是评测者戴过的较舒适的AI眼镜之一。"
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/slashvibe-sdk-spend-screen.jpg",
-                "cap": "SlashVibe SDK示例界面，按月度预算追踪API支出"
+                "src": "https://cdn.mos.cms.futurecdn.net/buBdfVFApQx8tiQPUDTHQA.jpg",
+                "cap": "（图片来源：Future / Tom's Guide）"
               },
               {
                 "t": "p",
-                "x": "硬件配备3.96英寸LCD、Kailh超矮机械轴、双轴摇杆、双MEMS麦克风和2W 扬声器；控制器可拆卸，通过2.4GHz 通信，内置500mAh 电池，续航20小时。"
+                "x": "主要功能包括由实时AI代理追踪、总结、转录和研究对话的Meeting Flow，提词器功能Cheatsheet，以及支持45种以上语言的Translation。Halliday AI助手回答问题很迅速，但这些功能与Even Realities G2的Conversate、Teleprompt和Translate如出一辙。"
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/slashvibe-agent-status-screen-closeup-1440.jpg",
-                "cap": "SlashVibe显示屏特写，智能体会话标为等待、完成和工作中"
+                "src": "https://cdn.mos.cms.futurecdn.net/tzxstR6aTrhyeqcLwgATLA.jpg",
+                "cap": "（图片来源：Future / Tom's Guide）"
               },
               {
                 "t": "p",
-                "x": "SlashVibe开箱即可在macOS和Windows上配合20多个智能体和工具使用，包括Claude Code、Codex、Cursor、Copilot CLI和Gemini CLI。每个会话显示为运行中、完成或等待，审批直接在设备上完成。语音输入在100毫秒内开始录音，并去除口头填充词。许可证和代码仓库尚未公布；代码将在发货前公开。"
+                "x": "评测者遇到的每个人都一眼认出这是智能眼镜，而Stealth Mode只是调暗绿色文字，从不同角度仍能看到。电池续航约12小时。既然Even Realities G2以相同零售价把一切做得更好，这款眼镜就更难推荐了。"
               }
             ]
           }
         },
         "es": {
-          "headline": "SlashVibe, un control de código\nabierto para agentes de IA",
-          "body": "El controlador abierto SlashVibe para agentes de IA, con SDKs de Node.js y Python, parte de $189 en Kickstarter.",
-          "mini_headline": "SlashVibe, controlador de escritorio para agentes",
+          "headline": "Las gafas AI Halliday G2, una\nchuleta útil pero muy evidente",
+          "body": "Las G2 de Halliday, sin cámara, tienen AI útil, pero se ven toscas y se nota cuando lees respuestas en ellas.",
+          "mini_headline": "Probamos las gafas Halliday G2",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/slashvibe-hero-in-hand-1440.jpg",
-                "cap": "SlashVibe V1 sostenido con ambas manos, con sesiones de agentes marcadas como en espera, terminada y en curso en su pantalla"
+                "src": "https://cdn.mos.cms.futurecdn.net/wVu3i3WESBzbZxWLscxMMA-2560-80.jpg",
+                "cap": "(Crédito de la imagen: © Future / Tom's Guide)"
               },
               {
                 "t": "p",
-                "x": "SlashVibe es una pequeña pantalla de escritorio con un controlador desmontable para tus agentes de IA, y sus creadores liberarán como código abierto la aplicación de escritorio, el firmware, el protocolo de comunicación y el SDK que la hacen funcionar. A 15 de noviembre de 2026, la campaña de Kickstarter había recaudado $122,881 frente a una meta de $10,000 con 552 patrocinadores, y cierra el 10 de diciembre. Las aportaciones Early Bird cuestan $189, $60 menos que el precio de venta de $249, y se espera que el primer lote empiece a enviarse en marzo de 2027."
+                "x": "Tom's Guide Verdict: las gafas inteligentes Halliday G2 AI son un paso en la dirección correcta: ofrecen unas gafas sin cámara con funciones de AI útiles en un diseño cómodo pero voluminoso (y poco elegante). Sin embargo, brindan una experiencia casi idéntica a la de sus rivales y las lastra un audio de oído abierto mediocre."
               },
               {
                 "t": "p",
-                "x": "El SlashVibe SDK solo necesita Node.js o Python. Tu código se ejecuta en tu ordenador y transmite su interfaz a SlashVibe. La primera versión incluye tres hooks: diseños de pantalla personalizados, eventos de botones y joystick, y el texto transcrito de tu voz."
+                "x": "Dos motores micro-LED y una óptica de guía de ondas muestran texto verde de matriz de puntos en ambas lentes, con una resolución de 600 x 300 por ojo y un brillo máximo de 1,600 nits. Con 1.7 onzas, son de las gafas con AI más cómodas que ha usado el autor de la reseña."
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/slashvibe-sdk-spend-screen.jpg",
-                "cap": "Pantalla de ejemplo del SlashVibe SDK que sigue el gasto en API frente a un presupuesto mensual"
+                "src": "https://cdn.mos.cms.futurecdn.net/buBdfVFApQx8tiQPUDTHQA.jpg",
+                "cap": "(Crédito de la imagen: Future / Tom's Guide)"
               },
               {
                 "t": "p",
-                "x": "El hardware tiene una LCD de 3.96 pulgadas, interruptores mecánicos Kailh de perfil ultrabajo, un joystick de dos ejes, dos micrófonos MEMS y un altavoz de 2W; el controlador se desmonta y se comunica a 2.4GHz con una batería de 500mAh que dura 20 horas."
+                "x": "Entre las funciones clave están Meeting Flow, en la que agentes de AI en vivo siguen, resumen, transcriben e investigan conversaciones; Cheatsheet, un teleprompter; y Translation, para más de 45 idiomas. El asistente Halliday AI responde con rapidez, pero las funciones replican Conversate, Teleprompt y Translate de las Even Realities G2."
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/slashvibe-agent-status-screen-closeup-1440.jpg",
-                "cap": "Primer plano de la pantalla de SlashVibe con sesiones de agentes marcadas como en espera, terminada y en curso"
+                "src": "https://cdn.mos.cms.futurecdn.net/tzxstR6aTrhyeqcLwgATLA.jpg",
+                "cap": "(Crédito de la imagen: Future / Tom's Guide)"
               },
               {
                 "t": "p",
-                "x": "De serie, SlashVibe funciona con más de 20 agentes y herramientas en macOS y Windows, entre ellos Claude Code, Codex, Cursor, Copilot CLI y Gemini CLI. Cada sesión aparece como en ejecución, terminada o en espera, y las aprobaciones se hacen en el dispositivo. La entrada de voz empieza a grabar en menos de 100 milisegundos y elimina las muletillas. Aún no se ha indicado licencia ni repositorio; el código se publicará antes de los envíos."
+                "x": "Todas las personas con las que se cruzó el autor notaron a primera vista que eran gafas inteligentes, y Stealth Mode solo atenúa el texto verde, que sigue viéndose desde distintos ángulos. La batería dura unas 12 horas. Si las Even Realities G2 lo hacen todo mejor al mismo precio de venta, cuesta más recomendar estas."
               }
             ]
           }
@@ -1435,165 +953,165 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "오픈소스 SlashVibe\nAI 에이전트 컨트롤러",
-          "body": "SlashVibe는 SDKs를 갖춘 AI 에이전트 컨트롤러로 $189부터다.",
-          "mini_headline": "SlashVibe 에이전트 데스크 컨트롤러",
+          "headline": "Halliday G2 AI\n유용하나 눈에 띄는 커닝",
+          "body": "Halliday G2는 카메라 없이 AI가 유용하나 투박하고 답을 읽으면 티 난다.",
+          "mini_headline": "Halliday G2 안경 써 보니",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/slashvibe-hero-in-hand-1440.jpg",
-                "cap": "에이전트 세션이 대기, 완료, 작업 중으로 표시된 화면의 SlashVibe V1을 두 손으로 든 모습"
+                "src": "https://cdn.mos.cms.futurecdn.net/wVu3i3WESBzbZxWLscxMMA-2560-80.jpg",
+                "cap": "(이미지 출처: © Future / Tom's Guide)"
               },
               {
                 "t": "p",
-                "x": "SlashVibe는 AI 에이전트용 분리형 컨트롤러가 달린 작은 데스크 디스플레이로, 제작진은 이를 구동하는 데스크톱 앱, 펌웨어, 통신 프로토콜, SDK를 오픈소스로 공개한다. Kickstarter 캠페인은 2026년 11월 15일 기준 552명의 후원자에게서 목표액 $10,000 대비 $122,881을 모았고, 12월 10일에 마감한다. Early Bird 후원가는 소매가 $249보다 $60 낮은 $189이며, 첫 물량은 2027년 3월 출하를 시작할 예정이다."
+                "x": "Tom's Guide Verdict: Halliday G2 AI 스마트 안경은 올바른 방향으로 한 걸음 나아간 제품이다. 카메라 없는 안경에 유용한 AI 기능을 담았고, 착용감은 편하지만 디자인은 두툼하다(그리고 투박하다). 다만 경쟁 제품과 거의 같은 경험을 제공하고, 오픈형 오디오 품질이 기대에 못 미친다."
               },
               {
                 "t": "p",
-                "x": "SlashVibe SDK에 필요한 것은 Node.js나 Python뿐이다. 코드는 사용자의 컴퓨터에서 돌고, 인터페이스를 SlashVibe로 스트리밍한다. 첫 릴리스에는 맞춤 화면 레이아웃, 버튼과 조이스틱 이벤트, 음성을 받아 적은 텍스트라는 세 가지 훅이 들어간다."
+                "x": "듀얼 micro-LED 엔진과 웨이브가이드 광학계가 양쪽 렌즈에 녹색 도트 매트릭스 텍스트를 띄우며, 눈당 해상도는 600 x 300, 최대 밝기는 1,600니트다. 무게는 1.7온스로, 리뷰어가 써 본 AI 안경 가운데 착용감이 좋은 편에 속한다."
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/slashvibe-sdk-spend-screen.jpg",
-                "cap": "월 예산 대비 API 지출을 추적하는 SlashVibe SDK 예시 화면"
+                "src": "https://cdn.mos.cms.futurecdn.net/buBdfVFApQx8tiQPUDTHQA.jpg",
+                "cap": "(이미지 출처: Future / Tom's Guide)"
               },
               {
                 "t": "p",
-                "x": "하드웨어는 3.96인치 LCD, Kailh 초저상 기계식 스위치, 2축 조이스틱, 듀얼 MEMS 마이크, 2W 스피커를 갖췄다. 컨트롤러는 분리되며 2.4GHz 로 통신하고, 500mAh 배터리로 20시간 쓸 수 있다."
+                "x": "주요 기능으로는 실시간 AI 에이전트가 대화를 추적·요약·전사하고 조사하는 Meeting Flow, 텔레프롬프터 기능인 Cheatsheet, 45개 이상 언어를 지원하는 Translation이 있다. Halliday AI 어시스턴트는 질문에 빠르게 답하지만, 기능 구성은 Even Realities G2의 Conversate, Teleprompt, Translate와 판박이다."
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/slashvibe-agent-status-screen-closeup-1440.jpg",
-                "cap": "에이전트 세션이 대기, 완료, 작업 중으로 표시된 SlashVibe 디스플레이 클로즈업"
+                "src": "https://cdn.mos.cms.futurecdn.net/tzxstR6aTrhyeqcLwgATLA.jpg",
+                "cap": "(이미지 출처: Future / Tom's Guide)"
               },
               {
                 "t": "p",
-                "x": "SlashVibe는 별도 설정 없이 macOS와 Windows에서 Claude Code, Codex, Cursor, Copilot CLI, Gemini CLI 등 20개가 넘는 에이전트와 도구와 함께 쓸 수 있다. 모든 세션은 실행 중, 완료, 대기로 표시되고, 승인은 기기에서 처리한다. 음성 입력은 100밀리초 안에 녹음을 시작하며 군말을 걸러낸다. 라이선스와 저장소는 아직 밝히지 않았고, 코드는 출하 전에 공개할 예정이다."
+                "x": "리뷰어가 마주친 사람들은 모두 한눈에 스마트 안경임을 알아챘고, Stealth Mode는 녹색 텍스트를 어둡게 할 뿐이라 각도에 따라 여전히 보인다. 배터리는 약 12시간 간다. 같은 소매가에 Even Realities G2가 모든 면에서 더 낫다는 점을 생각하면 추천하기 어렵다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "SlashVibe、AI\nエージェント用操作卓",
-          "body": "SlashVibeはSDKsを備えたAIエージェント用コントローラーで、$189からだ。",
-          "mini_headline": "SlashVibeのエージェント用卓上コントローラー",
+          "headline": "Halliday G2 AI\n便利だがバレるカンペ",
+          "body": "カメラ非搭載のHalliday G2はAIが便利だが、見た目は野暮で、答えを読むとバレる。",
+          "mini_headline": "Halliday G2グラスを試す",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/slashvibe-hero-in-hand-1440.jpg",
-                "cap": "画面に待機中・完了・作業中のエージェントセッションを表示したSlashVibe V1を両手で持った様子"
+                "src": "https://cdn.mos.cms.futurecdn.net/wVu3i3WESBzbZxWLscxMMA-2560-80.jpg",
+                "cap": "（画像クレジット：© Future / Tom's Guide）"
               },
               {
                 "t": "p",
-                "x": "SlashVibeはAIエージェント用の着脱式コントローラーを備えた小型の卓上ディスプレイで、開発元はそれを支えるデスクトップアプリ、ファームウェア、通信プロトコル、SDKをオープンソース化する。Kickstarterでは2026年11月15日時点で552人の支援者から目標額$10,000に対し$122,881を集めており、12月10日に終了する。Early Birdの支援額は小売価格$249より$60安い$189で、最初のロットは2027年3月に出荷が始まる見込みだ。"
+                "x": "Tom's Guide Verdict：Halliday G2 AIスマートグラスは正しい方向への一歩だ。カメラを持たないメガネに便利なAI機能を載せ、装着感は快適だが、デザインは分厚い（そして野暮ったい）。ただし体験はライバル製品とほぼ同じで、オープンイヤー型オーディオの物足りなさが足を引っ張る。"
               },
               {
                 "t": "p",
-                "x": "SlashVibe SDKに必要なのはNode.jsかPythonだけだ。コードは手元のコンピューターで動き、そのインターフェースをSlashVibeにストリーミングする。最初のリリースには、カスタム画面レイアウト、ボタンとジョイスティックのイベント、音声を書き起こしたテキストという三つのフックが入る。"
+                "x": "デュアルmicro-LEDエンジンと導波路光学系が両レンズに緑のドットマトリクス文字を表示し、片目あたりの解像度は600 x 300、ピーク輝度は1,600ニトだ。重さは1.7オンスで、レビュアーが試したAIグラスの中でも快適な部類に入る。"
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/slashvibe-sdk-spend-screen.jpg",
-                "cap": "月間予算に対するAPI支出を追跡するSlashVibe SDKのサンプル画面"
+                "src": "https://cdn.mos.cms.futurecdn.net/buBdfVFApQx8tiQPUDTHQA.jpg",
+                "cap": "（画像クレジット：Future / Tom's Guide）"
               },
               {
                 "t": "p",
-                "x": "ハードウェアは3.96インチLCD、Kailhの超薄型メカニカルスイッチ、2軸ジョイスティック、デュアルMEMSマイク、2W スピーカーを備える。コントローラーは取り外し可能で2.4GHz で通信し、500mAh バッテリーで20時間使える。"
+                "x": "主な機能は、ライブのAIエージェントが会話を追跡・要約・文字起こし・調査するMeeting Flow、テレプロンプターのCheatsheet、45以上の言語に対応するTranslationだ。Halliday AIアシスタントは質問への応答がきびきびしているが、機能はEven Realities G2のConversate、Teleprompt、Translateをなぞったものだ。"
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/slashvibe-agent-status-screen-closeup-1440.jpg",
-                "cap": "待機中・完了・作業中のエージェントセッションを表示するSlashVibeディスプレイのクローズアップ"
+                "src": "https://cdn.mos.cms.futurecdn.net/tzxstR6aTrhyeqcLwgATLA.jpg",
+                "cap": "（画像クレジット：Future / Tom's Guide）"
               },
               {
                 "t": "p",
-                "x": "SlashVibeは初期状態でmacOSとWindows上のClaude Code、Codex、Cursor、Copilot CLI、Gemini CLIなど20を超えるエージェントやツールに対応する。各セッションは実行中、完了、待機として表示され、承認はデバイス上で行う。音声入力は100ミリ秒以内に録音を始め、言いよどみを取り除く。ライセンスやリポジトリはまだ明らかにされておらず、コードは出荷前に公開される。"
+                "x": "レビュアーが出会った人は皆、一目でスマートグラスだと指摘した。Stealth Modeは緑の文字を暗くするだけで、角度によっては見えてしまう。バッテリーは約12時間持つ。同じ小売価格でEven Realities G2がすべてをより上手くこなす以上、これを薦めるのは難しい。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "开源SlashVibe\nAI智能体桌面控制器",
-          "body": "SlashVibe是配备SDKs的开源AI智能体控制器，Kickstarter起价$189。",
-          "mini_headline": "SlashVibe智能体桌面控制器",
+          "headline": "Halliday G2 AI\n实用却显眼的小抄",
+          "body": "Halliday G2无摄像头，AI实用，但外形笨拙，看着它读答案会被人察觉。",
+          "mini_headline": "Halliday G2眼镜实测",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/slashvibe-hero-in-hand-1440.jpg",
-                "cap": "双手握持SlashVibe V1，屏幕上显示标为等待、完成和工作中的智能体会话"
+                "src": "https://cdn.mos.cms.futurecdn.net/wVu3i3WESBzbZxWLscxMMA-2560-80.jpg",
+                "cap": "（图片来源：© Future / Tom's Guide）"
               },
               {
                 "t": "p",
-                "x": "SlashVibe是一款配有可拆卸AI智能体控制器的小型桌面显示屏，开发团队将开源其背后的桌面应用、固件、通信协议和SDK。截至2026年11月15日，其Kickstarter众筹已从552名支持者处筹得$122,881，目标为$10,000，将于12月10日结束。Early Bird档位为$189，比$249的零售价低$60，首批产品预计于2027年3月开始发货。"
+                "x": "Tom's Guide Verdict：Halliday G2 AI智能眼镜朝着正确方向迈出了一步，在舒适但厚重（且笨拙）的设计中，提供了不带摄像头、配有实用AI功能的眼镜。但它的体验与竞品几乎一样，开放式音频表现欠佳也拖了后腿。"
               },
               {
                 "t": "p",
-                "x": "SlashVibe SDK只需要Node.js或Python。代码在你的电脑上运行，并将界面串流到SlashVibe。首个版本提供三个钩子：自定义屏幕布局、按键与摇杆事件，以及语音转写出的文本。"
+                "x": "双micro-LED引擎和光波导光学元件在两片镜片上显示绿色点阵文字，单眼分辨率为600 x 300，峰值亮度1,600尼特。它重1.7盎司，是评测者戴过的较舒适的AI眼镜之一。"
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/slashvibe-sdk-spend-screen.jpg",
-                "cap": "SlashVibe SDK示例界面，按月度预算追踪API支出"
+                "src": "https://cdn.mos.cms.futurecdn.net/buBdfVFApQx8tiQPUDTHQA.jpg",
+                "cap": "（图片来源：Future / Tom's Guide）"
               },
               {
                 "t": "p",
-                "x": "硬件配备3.96英寸LCD、Kailh超矮机械轴、双轴摇杆、双MEMS麦克风和2W 扬声器；控制器可拆卸，通过2.4GHz 通信，内置500mAh 电池，续航20小时。"
+                "x": "主要功能包括由实时AI代理追踪、总结、转录和研究对话的Meeting Flow，提词器功能Cheatsheet，以及支持45种以上语言的Translation。Halliday AI助手回答问题很迅速，但这些功能与Even Realities G2的Conversate、Teleprompt和Translate如出一辙。"
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/slashvibe-agent-status-screen-closeup-1440.jpg",
-                "cap": "SlashVibe显示屏特写，智能体会话标为等待、完成和工作中"
+                "src": "https://cdn.mos.cms.futurecdn.net/tzxstR6aTrhyeqcLwgATLA.jpg",
+                "cap": "（图片来源：Future / Tom's Guide）"
               },
               {
                 "t": "p",
-                "x": "SlashVibe开箱即可在macOS和Windows上配合20多个智能体和工具使用，包括Claude Code、Codex、Cursor、Copilot CLI和Gemini CLI。每个会话显示为运行中、完成或等待，审批直接在设备上完成。语音输入在100毫秒内开始录音，并去除口头填充词。许可证和代码仓库尚未公布；代码将在发货前公开。"
+                "x": "评测者遇到的每个人都一眼认出这是智能眼镜，而Stealth Mode只是调暗绿色文字，从不同角度仍能看到。电池续航约12小时。既然Even Realities G2以相同零售价把一切做得更好，这款眼镜就更难推荐了。"
               }
             ]
           }
         },
         "es": {
-          "headline": "SlashVibe, un control de código\nabierto para agentes de IA",
-          "body": "El controlador abierto SlashVibe para agentes de IA, con SDKs de Node.js y Python, parte de $189 en Kickstarter.",
-          "mini_headline": "SlashVibe, controlador de escritorio para agentes",
+          "headline": "Las gafas AI Halliday G2, una\nchuleta útil pero muy evidente",
+          "body": "Las G2 de Halliday, sin cámara, tienen AI útil, pero se ven toscas y se nota cuando lees respuestas en ellas.",
+          "mini_headline": "Probamos las gafas Halliday G2",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/slashvibe-hero-in-hand-1440.jpg",
-                "cap": "SlashVibe V1 sostenido con ambas manos, con sesiones de agentes marcadas como en espera, terminada y en curso en su pantalla"
+                "src": "https://cdn.mos.cms.futurecdn.net/wVu3i3WESBzbZxWLscxMMA-2560-80.jpg",
+                "cap": "(Crédito de la imagen: © Future / Tom's Guide)"
               },
               {
                 "t": "p",
-                "x": "SlashVibe es una pequeña pantalla de escritorio con un controlador desmontable para tus agentes de IA, y sus creadores liberarán como código abierto la aplicación de escritorio, el firmware, el protocolo de comunicación y el SDK que la hacen funcionar. A 15 de noviembre de 2026, la campaña de Kickstarter había recaudado $122,881 frente a una meta de $10,000 con 552 patrocinadores, y cierra el 10 de diciembre. Las aportaciones Early Bird cuestan $189, $60 menos que el precio de venta de $249, y se espera que el primer lote empiece a enviarse en marzo de 2027."
+                "x": "Tom's Guide Verdict: las gafas inteligentes Halliday G2 AI son un paso en la dirección correcta: ofrecen unas gafas sin cámara con funciones de AI útiles en un diseño cómodo pero voluminoso (y poco elegante). Sin embargo, brindan una experiencia casi idéntica a la de sus rivales y las lastra un audio de oído abierto mediocre."
               },
               {
                 "t": "p",
-                "x": "El SlashVibe SDK solo necesita Node.js o Python. Tu código se ejecuta en tu ordenador y transmite su interfaz a SlashVibe. La primera versión incluye tres hooks: diseños de pantalla personalizados, eventos de botones y joystick, y el texto transcrito de tu voz."
+                "x": "Dos motores micro-LED y una óptica de guía de ondas muestran texto verde de matriz de puntos en ambas lentes, con una resolución de 600 x 300 por ojo y un brillo máximo de 1,600 nits. Con 1.7 onzas, son de las gafas con AI más cómodas que ha usado el autor de la reseña."
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/slashvibe-sdk-spend-screen.jpg",
-                "cap": "Pantalla de ejemplo del SlashVibe SDK que sigue el gasto en API frente a un presupuesto mensual"
+                "src": "https://cdn.mos.cms.futurecdn.net/buBdfVFApQx8tiQPUDTHQA.jpg",
+                "cap": "(Crédito de la imagen: Future / Tom's Guide)"
               },
               {
                 "t": "p",
-                "x": "El hardware tiene una LCD de 3.96 pulgadas, interruptores mecánicos Kailh de perfil ultrabajo, un joystick de dos ejes, dos micrófonos MEMS y un altavoz de 2W; el controlador se desmonta y se comunica a 2.4GHz con una batería de 500mAh que dura 20 horas."
+                "x": "Entre las funciones clave están Meeting Flow, en la que agentes de AI en vivo siguen, resumen, transcriben e investigan conversaciones; Cheatsheet, un teleprompter; y Translation, para más de 45 idiomas. El asistente Halliday AI responde con rapidez, pero las funciones replican Conversate, Teleprompt y Translate de las Even Realities G2."
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/slashvibe-agent-status-screen-closeup-1440.jpg",
-                "cap": "Primer plano de la pantalla de SlashVibe con sesiones de agentes marcadas como en espera, terminada y en curso"
+                "src": "https://cdn.mos.cms.futurecdn.net/tzxstR6aTrhyeqcLwgATLA.jpg",
+                "cap": "(Crédito de la imagen: Future / Tom's Guide)"
               },
               {
                 "t": "p",
-                "x": "De serie, SlashVibe funciona con más de 20 agentes y herramientas en macOS y Windows, entre ellos Claude Code, Codex, Cursor, Copilot CLI y Gemini CLI. Cada sesión aparece como en ejecución, terminada o en espera, y las aprobaciones se hacen en el dispositivo. La entrada de voz empieza a grabar en menos de 100 milisegundos y elimina las muletillas. Aún no se ha indicado licencia ni repositorio; el código se publicará antes de los envíos."
+                "x": "Todas las personas con las que se cruzó el autor notaron a primera vista que eran gafas inteligentes, y Stealth Mode solo atenúa el texto verde, que sigue viéndose desde distintos ángulos. La batería dura unas 12 horas. Si las Even Realities G2 lo hacen todo mejor al mismo precio de venta, cuesta más recomendar estas."
               }
             ]
           }
@@ -1601,15 +1119,15 @@
       }
     },
     {
-      "id": "hp-zgx-fury-gb300",
+      "id": "whalesbot-pubbo-kids-robot",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "HP ZGX Fury puts a GB300\non the desk for $132,000",
-      "body": "HP's ZGX Fury puts Nvidia GB300 power, 748GB of memory, and 400Gbps networking in a desk-side chassis.",
-      "mini_headline": "HP's $132,000 desk-side GB300",
+      "headline": "WhalesBot의 로봇\nPubbo, 말하면 그린다",
+      "body": "WhalesBot $299.99 Pubbo는 3~11세 말을 3.5인치에 그린다.",
+      "mini_headline": "Pubbo, 아이 상상을 그리는 로봇",
       "tool": "Gadgets",
-      "source": "TechRadar",
-      "url": "https://www.techradar.com/pro/your-next-desktop-pc-for-the-price-of-a-ferrari-hp-zgx-fury-packs-in-748gb-ram-and-nvidia-gb300-but-starts-at-usd132-000",
+      "source": "The Gadgeteer",
+      "url": "https://the-gadgeteer.com/2026/11/16/this-chatty-robot-turns-your-kids-doodles-into-new-pictures/",
       "accent": "#2ec5c5",
       "motif": "headset",
       "full": {
@@ -1617,250 +1135,831 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/PZgCJ7B7RendGrosbZtv5e-1920-80.jpg",
-            "cap": "HP ZGX Fury desktop workstation"
+            "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pubbo-hero.jpg",
+            "cap": "거실 바닥에 누워 WhalesBot의 AI 컴패니언 로봇 Pubbo를 안고 웃는 소녀"
           },
           {
             "t": "p",
-            "x": "HP has introduced an expensive workstation that brings computing hardware previously associated with large-scale AI infrastructure into an office-sized machine. The ZGX Fury G1n combines Nvidia's GB300 Grace Blackwell Ultra processor with LPDDR5X and HBM3e memory: 496GB of system memory and 252GB for graphics, 748GB in total, with a 72-core Arm Neoverse V2 Grace CPU. Selected configurations raise video memory to 276GB, including discrete RTX PRO 2000 and RTX PRO 4000 cards."
+            "x": "아이가 공룡을 소리 내어 묘사하면 몇 초 뒤 Pubbo가 작은 화면에 공룡을 그린다. 말대답도 한다. WhalesBot이 3~11세 아이용으로 만든 이 로봇은 미국(US)에서 $299.99에 막 판매를 시작했다."
           },
           {
             "t": "p",
-            "x": "HP says the memory can accommodate local adjustment of language models with up to 100 billion parameters, and inference on models reaching one trillion parameters through FP4 quantization."
+            "x": "Pubbo의 얼굴은 3.5인치 터치스크린이라 말하거나 노래하거나 반응할 때마다 표정이 바뀐다. 듀얼 마이크로 질문을 듣고, 아이가 장난감이나 그림을 5MP 카메라에 비추면 그에 맞는 답을 들려준다."
+          },
+          {
+            "t": "img",
+            "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pubbo-body-create.jpg",
+            "cap": "아이가 말로 요청한 공룡 그림을 화면에 띄운 Pubbo"
           },
           {
             "t": "p",
-            "x": "It uses liquid cooling with a 1,600W Titanium-certified power supply, ships with Ubuntu 24.04 LTS, and an Nvidia ConnectX-8 SuperNIC provides two QSFP112 connections rated at 400Gbps. The enclosure also fits a 5U equipment rack."
+            "x": "아이가 원하는 그림을 말로 설명하면 Pubbo가 그 말을 화면 속 이미지로 바꾼다. 종이 스케치를 보여 줘도 된다. 로봇이 스케치를 더 선명하고 완성도 있는 그림으로 다시 그린다. 날개를 달아 달라고 하면 공룡에 날개 한 쌍이 돋는다."
+          },
+          {
+            "t": "img",
+            "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pubbo-body-draw.jpg",
+            "cap": "아이의 종이 공룡 스케치를 화면에서 날개 달린 더 큰 공룡으로 바꾸는 Pubbo"
           },
           {
             "t": "p",
-            "x": "The standard configuration costs $132,000; the RTX PRO 2000 option is $133,000 and the RTX PRO 4000 option $136,000."
+            "x": "Pubbo는 동화책 페이지에 맞춰 책도 읽어 준다. 무료 앱에는 800×800 밀리미터 코딩 맵과 함께 Challenge, Invention, 블록 코딩 모드가 있다. 대화는 실시간으로 점검하고 개인 정보는 표시하며, 위험한 주제가 나오면 대화를 멈출 수 있고 부모에게 알림이 간다. 5,200 mAh 배터리로 한 번 충전해 2시간 넘게 쓴다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "HP ZGX Fury puts a GB300\non the desk for $132,000",
-          "body": "HP's ZGX Fury puts Nvidia GB300 power, 748GB of memory, and 400Gbps networking in a desk-side chassis.",
-          "mini_headline": "HP's $132,000 desk-side GB300",
+          "headline": "WhalesBot's Pubbo robot draws\nwhat kids describe out loud",
+          "body": "WhalesBot's $299.99 Pubbo, for kids aged 3 to 11, draws spoken descriptions on its 3.5-inch screen face and talks back.",
+          "mini_headline": "Pubbo robot draws kids' ideas",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/PZgCJ7B7RendGrosbZtv5e-1920-80.jpg",
-                "cap": "HP ZGX Fury desktop workstation"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pubbo-hero.jpg",
+                "cap": "A smiling girl lying on a living room floor holding Pubbo, the WhalesBot AI companion robot"
               },
               {
                 "t": "p",
-                "x": "HP has introduced an expensive workstation that brings computing hardware previously associated with large-scale AI infrastructure into an office-sized machine. The ZGX Fury G1n combines Nvidia's GB300 Grace Blackwell Ultra processor with LPDDR5X and HBM3e memory: 496GB of system memory and 252GB for graphics, 748GB in total, with a 72-core Arm Neoverse V2 Grace CPU. Selected configurations raise video memory to 276GB, including discrete RTX PRO 2000 and RTX PRO 4000 cards."
+                "x": "A kid describes a dinosaur out loud, and Pubbo draws one on its little screen seconds later. It talks back. WhalesBot built it for kids ages 3 to 11, and it just went on sale in the US for $299.99."
               },
               {
                 "t": "p",
-                "x": "HP says the memory can accommodate local adjustment of language models with up to 100 billion parameters, and inference on models reaching one trillion parameters through FP4 quantization."
+                "x": "Pubbo’s face is a 3.5-inch touch screen whose expressions shift while it talks, sings or reacts. Dual microphones hear questions, and a 5MP camera lets kids hold up a toy or drawing and get an answer about it."
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pubbo-body-create.jpg",
+                "cap": "Pubbo displays a dinosaur picture it drew from a child’s spoken request"
               },
               {
                 "t": "p",
-                "x": "It uses liquid cooling with a 1,600W Titanium-certified power supply, ships with Ubuntu 24.04 LTS, and an Nvidia ConnectX-8 SuperNIC provides two QSFP112 connections rated at 400Gbps. The enclosure also fits a 5U equipment rack."
+                "x": "A child can describe a picture out loud and watch Pubbo turn those words into an image on screen. Showing it a paper sketch works too, and the robot rebuilds that sketch into a finished, brighter version. A kid asks for wings, and the dinosaur grows a pair."
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pubbo-body-draw.jpg",
+                "cap": "Pubbo turns a child’s paper dinosaur sketch into a bigger winged version on screen"
               },
               {
                 "t": "p",
-                "x": "The standard configuration costs $132,000; the RTX PRO 2000 option is $133,000 and the RTX PRO 4000 option $136,000."
+                "x": "It also reads its storybook along with the pages, and the free app adds Challenge, Invention and block-coding modes with an 800 by 800 millimeter coding map. Chats get checked in real time, personal details get flagged, and risky topics can stop a conversation while parents see the alerts. The 5,200 mAh battery is rated at 2+ hours per charge."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "WhalesBot의 로봇\nPubbo, 말하면 그린다",
+          "body": "WhalesBot $299.99 Pubbo는 3~11세 말을 3.5인치에 그린다.",
+          "mini_headline": "Pubbo, 아이 상상을 그리는 로봇",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pubbo-hero.jpg",
+                "cap": "거실 바닥에 누워 WhalesBot의 AI 컴패니언 로봇 Pubbo를 안고 웃는 소녀"
+              },
+              {
+                "t": "p",
+                "x": "아이가 공룡을 소리 내어 묘사하면 몇 초 뒤 Pubbo가 작은 화면에 공룡을 그린다. 말대답도 한다. WhalesBot이 3~11세 아이용으로 만든 이 로봇은 미국(US)에서 $299.99에 막 판매를 시작했다."
+              },
+              {
+                "t": "p",
+                "x": "Pubbo의 얼굴은 3.5인치 터치스크린이라 말하거나 노래하거나 반응할 때마다 표정이 바뀐다. 듀얼 마이크로 질문을 듣고, 아이가 장난감이나 그림을 5MP 카메라에 비추면 그에 맞는 답을 들려준다."
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pubbo-body-create.jpg",
+                "cap": "아이가 말로 요청한 공룡 그림을 화면에 띄운 Pubbo"
+              },
+              {
+                "t": "p",
+                "x": "아이가 원하는 그림을 말로 설명하면 Pubbo가 그 말을 화면 속 이미지로 바꾼다. 종이 스케치를 보여 줘도 된다. 로봇이 스케치를 더 선명하고 완성도 있는 그림으로 다시 그린다. 날개를 달아 달라고 하면 공룡에 날개 한 쌍이 돋는다."
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pubbo-body-draw.jpg",
+                "cap": "아이의 종이 공룡 스케치를 화면에서 날개 달린 더 큰 공룡으로 바꾸는 Pubbo"
+              },
+              {
+                "t": "p",
+                "x": "Pubbo는 동화책 페이지에 맞춰 책도 읽어 준다. 무료 앱에는 800×800 밀리미터 코딩 맵과 함께 Challenge, Invention, 블록 코딩 모드가 있다. 대화는 실시간으로 점검하고 개인 정보는 표시하며, 위험한 주제가 나오면 대화를 멈출 수 있고 부모에게 알림이 간다. 5,200 mAh 배터리로 한 번 충전해 2시간 넘게 쓴다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "HP ZGX Fury、机に\n$132,000でGB300",
-          "body": "HP ZGX FuryはGB300と748GBメモリ、400Gbps通信を机の脇に収める。",
-          "mini_headline": "HPの$132,000デスクサイドGB300",
+          "headline": "WhalesBotの\nPubboは子どもの話を絵に",
+          "body": "WhalesBotの$299.99 Pubboは3〜11歳向け、話を3.5インチ画面に描く。",
+          "mini_headline": "Pubboが子どもの発想を描く",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/PZgCJ7B7RendGrosbZtv5e-1920-80.jpg",
-                "cap": "HP ZGX Furyデスクトップワークステーション"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pubbo-hero.jpg",
+                "cap": "リビングの床に寝そべり、WhalesBotのAIコンパニオンロボットPubboを抱えて笑う少女"
               },
               {
                 "t": "p",
-                "x": "HPは、これまで大規模AIインフラと結び付けられてきたコンピューティングハードウェアをオフィスサイズのマシンに収めた、高価なワークステーションを発表した。ZGX Fury G1nは、NvidiaのGB300 Grace Blackwell UltraプロセッサーにLPDDR5XとHBM3eメモリを組み合わせる。システムメモリ496GBとグラフィックス用252GBで合計748GBとなり、CPUは72コアのArm Neoverse V2 Grace CPUだ。一部の構成では、単体のRTX PRO 2000やRTX PRO 4000カードを含めてビデオメモリが276GBに増える。"
+                "x": "子どもが恐竜を声に出して説明すると、数秒後にPubboが小さな画面に恐竜を描く。言葉も返してくる。WhalesBotが3〜11歳の子ども向けに開発したこのロボットは、米国（US）で$299.99で発売されたばかりだ。"
               },
               {
                 "t": "p",
-                "x": "HPによると、このメモリは最大100 billion（千億）パラメータの言語モデルのローカル調整に対応でき、FP4量子化を使えば一兆パラメータに達するモデルの推論も可能だという。"
+                "x": "Pubboの顔は3.5インチのタッチスクリーンで、話したり歌ったり反応したりするたびに表情が変わる。デュアルマイクが質問を聞き取り、5MP カメラにおもちゃや絵をかざせば、それについての答えが返ってくる。"
               },
-              {
-                "t": "p",
-                "x": "水冷を採用し、1,600WのTitanium-certified電源を備え、Ubuntu 24.04 LTSを搭載して出荷される。Nvidia ConnectX-8 SuperNICが400GbpsのQSFP112接続を二つ提供する。筐体は5Uの機器ラックにも収まる。"
-              },
-              {
-                "t": "p",
-                "x": "標準構成は$132,000で、RTX PRO 2000搭載オプションは$133,000、RTX PRO 4000搭載オプションは$136,000だ。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "HP ZGX Fury lleva una GB300\nal escritorio por $132,000",
-          "body": "El ZGX Fury de HP reúne potencia Nvidia GB300, 748GB de memoria y red de 400Gbps en un chasis junto al escritorio.",
-          "mini_headline": "La GB300 de escritorio de HP por $132,000",
-          "full": {
-            "mode": "summary",
-            "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/PZgCJ7B7RendGrosbZtv5e-1920-80.jpg",
-                "cap": "Estación de trabajo de escritorio HP ZGX Fury"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pubbo-body-create.jpg",
+                "cap": "子どもの音声リクエストから描いた恐竜の絵を表示するPubbo"
               },
               {
                 "t": "p",
-                "x": "HP presentó una costosa estación de trabajo que lleva hardware de cómputo antes asociado a la infraestructura de AI a gran escala a una máquina del tamaño de una oficina. El ZGX Fury G1n combina el procesador GB300 Grace Blackwell Ultra de Nvidia con memoria LPDDR5X y HBM3e: 496GB de memoria del sistema y 252GB para gráficos, 748GB en total, con una CPU Arm Neoverse V2 Grace de 72 núcleos. Algunas configuraciones elevan la memoria de video a 276GB, con tarjetas dedicadas RTX PRO 2000 y RTX PRO 4000."
+                "x": "子どもが絵を言葉で説明すると、Pubboがその言葉を画面上の画像に変えていく様子を見られる。紙のスケッチを見せてもよく、ロボットはそれをより鮮やかな完成版に描き直す。子どもが翼を頼めば、恐竜に一対の翼が生える。"
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pubbo-body-draw.jpg",
+                "cap": "子どもの紙の恐竜スケッチを、画面上で翼のある大きな恐竜に描き変えるPubbo"
               },
               {
                 "t": "p",
-                "x": "HP afirma que la memoria permite ajustar localmente modelos de lenguaje de hasta 100 billion (cien mil millones) de parámetros, y ejecutar inferencia en modelos de un billón de parámetros mediante cuantización FP4."
-              },
-              {
-                "t": "p",
-                "x": "Usa refrigeración líquida con una fuente de alimentación Titanium-certified de 1,600W, viene con Ubuntu 24.04 LTS y una Nvidia ConnectX-8 SuperNIC ofrece dos conexiones QSFP112 de 400Gbps. La carcasa también cabe en un rack de equipos de 5U."
-              },
-              {
-                "t": "p",
-                "x": "La configuración estándar cuesta $132,000; la opción con RTX PRO 2000 cuesta $133,000 y la de RTX PRO 4000, $136,000."
+                "x": "Pubboは絵本をページに合わせて読み聞かせもする。無料アプリにはChallenge、Invention、ブロックコーディングの各モードがあり、800×800 ミリメートルのコーディングマップが付く。会話はリアルタイムでチェックされ、個人情報にはフラグが立ち、危険な話題では会話を止められ、保護者にはアラートが届く。5,200 mAhバッテリーはフル充電で2時間以上使える。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "HP ZGX Fury桌面机\nGB300售$132,000",
-          "body": "HP ZGX Fury把GB300、748GB 内存和400Gbps 网络装进桌边机箱。",
-          "mini_headline": "HP售$132,000的桌边GB300",
+          "headline": "WhalesBot机器人\nPubbo把孩子的话画出来",
+          "body": "WhalesBot的$299.99 Pubbo面向3至11岁儿童，把口述画在3.5英寸屏上。",
+          "mini_headline": "Pubbo画出孩子的想法",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/PZgCJ7B7RendGrosbZtv5e-1920-80.jpg",
-                "cap": "HP ZGX Fury台式工作站"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pubbo-hero.jpg",
+                "cap": "躺在客厅地板上、抱着WhalesBot AI陪伴机器人Pubbo微笑的女孩"
               },
               {
                 "t": "p",
-                "x": "HP推出了一款昂贵的工作站，把以往属于大规模AI基础设施的计算硬件装进办公室大小的机器。ZGX Fury G1n将Nvidia的GB300 Grace Blackwell Ultra处理器与LPDDR5X和HBM3e内存结合：496GB 系统内存加252GB 图形内存，共748GB ，并配备72核Arm Neoverse V2 Grace CPU。部分配置包含独立的RTX PRO 2000和RTX PRO 4000显卡，显存提升至276GB 。"
+                "x": "孩子大声描述一只恐龙，几秒后Pubbo就在小屏幕上把它画出来，还会开口回应。WhalesBot为3至11岁儿童打造了这款机器人，它刚在美国（US）开售，售价$299.99。"
               },
               {
                 "t": "p",
-                "x": "HP表示，这些内存可支持在本地调整参数多达1000亿的语言模型，并能通过FP4量化对参数达一万亿的模型进行推理。"
+                "x": "Pubbo的脸是一块3.5英寸触摸屏，说话、唱歌或做出反应时表情会随之变化。双麦克风负责听取问题，5MP 摄像头让孩子举起玩具或画作就能得到相关解答。"
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pubbo-body-create.jpg",
+                "cap": "Pubbo展示根据孩子口头要求画出的恐龙图"
               },
               {
                 "t": "p",
-                "x": "它采用液冷，配备1,600W 的Titanium-certified电源，预装Ubuntu 24.04 LTS，Nvidia ConnectX-8 SuperNIC提供两个速率为400Gbps 的QSFP112接口。机箱也可装入5U 设备机架。"
+                "x": "孩子可以口头描述一幅画，看着Pubbo把这些话变成屏幕上的图像。给它看纸上的草图也行，机器人会把草图重绘成更完整、更鲜亮的版本。孩子想要翅膀，恐龙就长出一对翅膀。"
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pubbo-body-draw.jpg",
+                "cap": "Pubbo把孩子的纸上恐龙草图在屏幕上变成更大的带翅膀版本"
               },
               {
                 "t": "p",
-                "x": "标准配置售价$132,000；RTX PRO 2000选项为$133,000，RTX PRO 4000选项为$136,000。"
+                "x": "它还能配合书页朗读故事书，免费应用则增加了Challenge、Invention和积木编程模式，并配有800×800 毫米的编程地图。对话会被实时检查，个人信息会被标记，危险话题可以中止对话，家长也能看到提醒。5,200 mAh电池每次充电可用2小时以上。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "El robot Pubbo de WhalesBot\ndibuja lo que dicen los niños",
+          "body": "El Pubbo de WhalesBot, de $299.99 y para niños de 3 a 11 años, dibuja en su cara de 3.5 pulgadas lo que oye y responde.",
+          "mini_headline": "Pubbo dibuja las ideas de los niños",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pubbo-hero.jpg",
+                "cap": "Una niña sonriente tumbada en el suelo de la sala sostiene a Pubbo, el robot de compañía con AI de WhalesBot"
+              },
+              {
+                "t": "p",
+                "x": "Un niño describe un dinosaurio en voz alta y, segundos después, Pubbo lo dibuja en su pequeña pantalla. También contesta. WhalesBot lo creó para niños de 3 a 11 años, y acaba de salir a la venta en Estados Unidos (US) por $299.99."
+              },
+              {
+                "t": "p",
+                "x": "La cara de Pubbo es una pantalla táctil de 3.5 pulgadas cuyas expresiones cambian mientras habla, canta o reacciona. Dos micrófonos escuchan las preguntas, y una cámara de 5MP permite a los niños mostrarle un juguete o un dibujo y obtener una respuesta sobre él."
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pubbo-body-create.jpg",
+                "cap": "Pubbo muestra un dinosaurio que dibujó a partir de la petición hablada de un niño"
+              },
+              {
+                "t": "p",
+                "x": "Un niño puede describir un dibujo en voz alta y ver cómo Pubbo convierte esas palabras en una imagen en pantalla. También funciona mostrarle un boceto en papel: el robot lo rehace en una versión terminada y más vistosa. Si un niño pide alas, al dinosaurio le sale un par."
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pubbo-body-draw.jpg",
+                "cap": "Pubbo convierte en pantalla el boceto en papel de un dinosaurio hecho por un niño en una versión más grande y con alas"
+              },
+              {
+                "t": "p",
+                "x": "También lee su libro de cuentos al ritmo de las páginas, y la app gratuita añade los modos Challenge, Invention y programación por bloques, con un mapa de programación de 800 por 800 milímetros. Los chats se revisan en tiempo real, los datos personales se señalan y los temas de riesgo pueden detener una conversación, mientras los padres ven las alertas. La batería de 5,200 mAh ofrece 2 horas o más por carga."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ja": {
-          "headline": "HP ZGX Fury、机に\n$132,000でGB300",
-          "body": "HP ZGX FuryはGB300と748GBメモリ、400Gbps通信を机の脇に収める。",
-          "mini_headline": "HPの$132,000デスクサイドGB300",
+        "ko": {
+          "headline": "WhalesBot의 로봇\nPubbo, 말하면 그린다",
+          "body": "WhalesBot $299.99 Pubbo는 3~11세 말을 3.5인치에 그린다.",
+          "mini_headline": "Pubbo, 아이 상상을 그리는 로봇",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/PZgCJ7B7RendGrosbZtv5e-1920-80.jpg",
-                "cap": "HP ZGX Furyデスクトップワークステーション"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pubbo-hero.jpg",
+                "cap": "거실 바닥에 누워 WhalesBot의 AI 컴패니언 로봇 Pubbo를 안고 웃는 소녀"
               },
               {
                 "t": "p",
-                "x": "HPは、これまで大規模AIインフラと結び付けられてきたコンピューティングハードウェアをオフィスサイズのマシンに収めた、高価なワークステーションを発表した。ZGX Fury G1nは、NvidiaのGB300 Grace Blackwell UltraプロセッサーにLPDDR5XとHBM3eメモリを組み合わせる。システムメモリ496GBとグラフィックス用252GBで合計748GBとなり、CPUは72コアのArm Neoverse V2 Grace CPUだ。一部の構成では、単体のRTX PRO 2000やRTX PRO 4000カードを含めてビデオメモリが276GBに増える。"
+                "x": "아이가 공룡을 소리 내어 묘사하면, 몇 초 뒤 Pubbo가 작은 화면에 공룡을 그린다. 말대답도 한다. WhalesBot이 3~11세 아이를 위해 만든 이 로봇은 미국(US)에서 $299.99에 막 판매를 시작했다."
               },
               {
                 "t": "p",
-                "x": "HPによると、このメモリは最大100 billion（千億）パラメータの言語モデルのローカル調整に対応でき、FP4量子化を使えば一兆パラメータに達するモデルの推論も可能だという。"
+                "x": "Pubbo의 얼굴은 3.5인치 터치스크린으로, 말하거나 노래하거나 반응할 때 표정이 바뀐다. 듀얼 마이크가 질문을 듣고, 5MP 카메라 덕분에 아이가 장난감이나 그림을 비추면 그에 대한 답을 들을 수 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pubbo-body-create.jpg",
+                "cap": "아이가 말로 요청한 공룡 그림을 화면에 띄운 Pubbo"
               },
               {
                 "t": "p",
-                "x": "水冷を採用し、1,600WのTitanium-certified電源を備え、Ubuntu 24.04 LTSを搭載して出荷される。Nvidia ConnectX-8 SuperNICが400GbpsのQSFP112接続を二つ提供する。筐体は5Uの機器ラックにも収まる。"
+                "x": "아이가 그림을 말로 설명하면 Pubbo가 그 말을 화면 속 이미지로 바꾸는 모습을 볼 수 있다. 종이 스케치를 보여 줘도 되는데, 로봇은 그 스케치를 더 선명하고 완성된 그림으로 다시 그린다. 아이가 날개를 달아 달라고 하면 공룡에 날개 한 쌍이 돋는다."
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pubbo-body-draw.jpg",
+                "cap": "아이의 종이 공룡 스케치를 화면에서 날개 달린 더 큰 공룡으로 바꾸는 Pubbo"
               },
               {
                 "t": "p",
-                "x": "標準構成は$132,000で、RTX PRO 2000搭載オプションは$133,000、RTX PRO 4000搭載オプションは$136,000だ。"
+                "x": "Pubbo는 동화책 페이지에 맞춰 책을 읽어 주기도 하며, 무료 앱에는 800×800 밀리미터 코딩 맵과 함께 Challenge, Invention, 블록 코딩 모드가 있다. 대화는 실시간으로 점검되고, 개인 정보는 표시되며, 위험한 주제가 나오면 대화를 멈출 수 있고 부모는 알림을 받는다. 5,200 mAh 배터리는 한 번 충전으로 2시간 이상 쓸 수 있다."
               }
             ]
           }
         },
-        "es": {
-          "headline": "HP ZGX Fury lleva una GB300\nal escritorio por $132,000",
-          "body": "El ZGX Fury de HP reúne potencia Nvidia GB300, 748GB de memoria y red de 400Gbps en un chasis junto al escritorio.",
-          "mini_headline": "La GB300 de escritorio de HP por $132,000",
+        "ja": {
+          "headline": "WhalesBotの\nPubboは子どもの話を絵に",
+          "body": "WhalesBotの$299.99 Pubboは3〜11歳向け、話を3.5インチ画面に描く。",
+          "mini_headline": "Pubboが子どもの発想を描く",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/PZgCJ7B7RendGrosbZtv5e-1920-80.jpg",
-                "cap": "Estación de trabajo de escritorio HP ZGX Fury"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pubbo-hero.jpg",
+                "cap": "リビングの床に寝そべり、WhalesBotのAIコンパニオンロボットPubboを抱えて笑う少女"
               },
               {
                 "t": "p",
-                "x": "HP presentó una costosa estación de trabajo que lleva hardware de cómputo antes asociado a la infraestructura de AI a gran escala a una máquina del tamaño de una oficina. El ZGX Fury G1n combina el procesador GB300 Grace Blackwell Ultra de Nvidia con memoria LPDDR5X y HBM3e: 496GB de memoria del sistema y 252GB para gráficos, 748GB en total, con una CPU Arm Neoverse V2 Grace de 72 núcleos. Algunas configuraciones elevan la memoria de video a 276GB, con tarjetas dedicadas RTX PRO 2000 y RTX PRO 4000."
+                "x": "子どもが恐竜を声に出して説明すると、数秒後にPubboが小さな画面に恐竜を描く。言葉も返してくる。WhalesBotが3〜11歳の子ども向けに開発したこのロボットは、米国（US）で$299.99で発売されたばかりだ。"
               },
               {
                 "t": "p",
-                "x": "HP afirma que la memoria permite ajustar localmente modelos de lenguaje de hasta 100 billion (cien mil millones) de parámetros, y ejecutar inferencia en modelos de un billón de parámetros mediante cuantización FP4."
+                "x": "Pubboの顔は3.5インチのタッチスクリーンで、話したり歌ったり反応したりするたびに表情が変わる。デュアルマイクが質問を聞き取り、5MP カメラにおもちゃや絵をかざせば、それについての答えが返ってくる。"
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pubbo-body-create.jpg",
+                "cap": "子どもの音声リクエストから描いた恐竜の絵を表示するPubbo"
               },
               {
                 "t": "p",
-                "x": "Usa refrigeración líquida con una fuente de alimentación Titanium-certified de 1,600W, viene con Ubuntu 24.04 LTS y una Nvidia ConnectX-8 SuperNIC ofrece dos conexiones QSFP112 de 400Gbps. La carcasa también cabe en un rack de equipos de 5U."
+                "x": "子どもが絵を言葉で説明すると、Pubboがその言葉を画面上の画像に変えていく様子を見られる。紙のスケッチを見せてもよく、ロボットはそれをより鮮やかな完成版に描き直す。子どもが翼を頼めば、恐竜に一対の翼が生える。"
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pubbo-body-draw.jpg",
+                "cap": "子どもの紙の恐竜スケッチを、画面上で翼のある大きな恐竜に描き変えるPubbo"
               },
               {
                 "t": "p",
-                "x": "La configuración estándar cuesta $132,000; la opción con RTX PRO 2000 cuesta $133,000 y la de RTX PRO 4000, $136,000."
+                "x": "Pubboは絵本をページに合わせて読み聞かせもする。無料アプリにはChallenge、Invention、ブロックコーディングの各モードがあり、800×800 ミリメートルのコーディングマップが付く。会話はリアルタイムでチェックされ、個人情報にはフラグが立ち、危険な話題では会話を止められ、保護者にはアラートが届く。5,200 mAhバッテリーはフル充電で2時間以上使える。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "HP ZGX Fury桌面机\nGB300售$132,000",
-          "body": "HP ZGX Fury把GB300、748GB 内存和400Gbps 网络装进桌边机箱。",
-          "mini_headline": "HP售$132,000的桌边GB300",
+          "headline": "WhalesBot机器人\nPubbo把孩子的话画出来",
+          "body": "WhalesBot的$299.99 Pubbo面向3至11岁儿童，把口述画在3.5英寸屏上。",
+          "mini_headline": "Pubbo画出孩子的想法",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/PZgCJ7B7RendGrosbZtv5e-1920-80.jpg",
-                "cap": "HP ZGX Fury台式工作站"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pubbo-hero.jpg",
+                "cap": "躺在客厅地板上、抱着WhalesBot AI陪伴机器人Pubbo微笑的女孩"
               },
               {
                 "t": "p",
-                "x": "HP推出了一款昂贵的工作站，把以往属于大规模AI基础设施的计算硬件装进办公室大小的机器。ZGX Fury G1n将Nvidia的GB300 Grace Blackwell Ultra处理器与LPDDR5X和HBM3e内存结合：496GB 系统内存加252GB 图形内存，共748GB ，并配备72核Arm Neoverse V2 Grace CPU。部分配置包含独立的RTX PRO 2000和RTX PRO 4000显卡，显存提升至276GB 。"
+                "x": "孩子大声描述一只恐龙，几秒后Pubbo就在小屏幕上把它画出来，还会开口回应。WhalesBot为3至11岁儿童打造了这款机器人，它刚在美国（US）开售，售价$299.99。"
               },
               {
                 "t": "p",
-                "x": "HP表示，这些内存可支持在本地调整参数多达1000亿的语言模型，并能通过FP4量化对参数达一万亿的模型进行推理。"
+                "x": "Pubbo的脸是一块3.5英寸触摸屏，说话、唱歌或做出反应时表情会随之变化。双麦克风负责听取问题，5MP 摄像头让孩子举起玩具或画作就能得到相关解答。"
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pubbo-body-create.jpg",
+                "cap": "Pubbo展示根据孩子口头要求画出的恐龙图"
               },
               {
                 "t": "p",
-                "x": "它采用液冷，配备1,600W 的Titanium-certified电源，预装Ubuntu 24.04 LTS，Nvidia ConnectX-8 SuperNIC提供两个速率为400Gbps 的QSFP112接口。机箱也可装入5U 设备机架。"
+                "x": "孩子可以口头描述一幅画，看着Pubbo把这些话变成屏幕上的图像。给它看纸上的草图也行，机器人会把草图重绘成更完整、更鲜亮的版本。孩子想要翅膀，恐龙就长出一对翅膀。"
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pubbo-body-draw.jpg",
+                "cap": "Pubbo把孩子的纸上恐龙草图在屏幕上变成更大的带翅膀版本"
               },
               {
                 "t": "p",
-                "x": "标准配置售价$132,000；RTX PRO 2000选项为$133,000，RTX PRO 4000选项为$136,000。"
+                "x": "它还能配合书页朗读故事书，免费应用则增加了Challenge、Invention和积木编程模式，并配有800×800 毫米的编程地图。对话会被实时检查，个人信息会被标记，危险话题可以中止对话，家长也能看到提醒。5,200 mAh电池每次充电可用2小时以上。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "El robot Pubbo de WhalesBot\ndibuja lo que dicen los niños",
+          "body": "El Pubbo de WhalesBot, de $299.99 y para niños de 3 a 11 años, dibuja en su cara de 3.5 pulgadas lo que oye y responde.",
+          "mini_headline": "Pubbo dibuja las ideas de los niños",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pubbo-hero.jpg",
+                "cap": "Una niña sonriente tumbada en el suelo de la sala sostiene a Pubbo, el robot de compañía con AI de WhalesBot"
+              },
+              {
+                "t": "p",
+                "x": "Un niño describe un dinosaurio en voz alta y, segundos después, Pubbo lo dibuja en su pequeña pantalla. También contesta. WhalesBot lo creó para niños de 3 a 11 años, y acaba de salir a la venta en Estados Unidos (US) por $299.99."
+              },
+              {
+                "t": "p",
+                "x": "La cara de Pubbo es una pantalla táctil de 3.5 pulgadas cuyas expresiones cambian mientras habla, canta o reacciona. Dos micrófonos escuchan las preguntas, y una cámara de 5MP permite a los niños mostrarle un juguete o un dibujo y obtener una respuesta sobre él."
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pubbo-body-create.jpg",
+                "cap": "Pubbo muestra un dinosaurio que dibujó a partir de la petición hablada de un niño"
+              },
+              {
+                "t": "p",
+                "x": "Un niño puede describir un dibujo en voz alta y ver cómo Pubbo convierte esas palabras en una imagen en pantalla. También funciona mostrarle un boceto en papel: el robot lo rehace en una versión terminada y más vistosa. Si un niño pide alas, al dinosaurio le sale un par."
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pubbo-body-draw.jpg",
+                "cap": "Pubbo convierte en pantalla el boceto en papel de un dinosaurio hecho por un niño en una versión más grande y con alas"
+              },
+              {
+                "t": "p",
+                "x": "También lee su libro de cuentos al ritmo de las páginas, y la app gratuita añade los modos Challenge, Invention y programación por bloques, con un mapa de programación de 800 por 800 milímetros. Los chats se revisan en tiempo real, los datos personales se señalan y los temas de riesgo pueden detener una conversación, mientras los padres ven las alertas. La batería de 5,200 mAh ofrece 2 horas o más por carga."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "qidi-makebuddy-smart5",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "QIDI MakeBuddy\nSmart5 사진을 3D로",
+      "body": "QIDI MakeBuddy Smart5는 $349 가족용 AI 3D 프린터다.",
+      "mini_headline": "QIDI, 사진을 장난감으로 출력",
+      "tool": "Gadgets",
+      "source": "The Gadgeteer",
+      "url": "https://the-gadgeteer.com/2026/11/16/the-family-3d-printer-that-turns-phone-photos-into-toys/",
+      "accent": "#eb367f",
+      "motif": "headset",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/qidi-smart5-hero.jpg",
+            "cap": "커피 테이블 위 QIDI MakeBuddy Smart5 3D 프린터 주위에 모인 가족"
+          },
+          {
+            "t": "p",
+            "x": "QIDI의 MakeBuddy Smart5는 작업대가 아닌 거실에 놓으려고 만든 완전 밀폐형 3D 프린터다. AI 카메라와 자동 베드 레벨링을 갖췄고, 휴대폰 사진을 출력 가능한 모델로 바꿔 주는 앱도 딸려 있다. 가격은 $349이고 11월 10일 판매를 시작했다."
+          },
+          {
+            "t": "p",
+            "x": "AI Image-to-3D 도구는 사진이나 그림으로 맞춤형 3D 모델을 만든다. 아이가 그린 반려견 스케치도 모델링 소프트웨어를 따로 배우지 않고 바로 프린터로 뽑아 피규어로 만들 수 있다."
+          },
+          {
+            "t": "img",
+            "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/qidi-smart5-body-ai.jpg",
+            "cap": "휴대폰 화면에 AI photo-to-3D 앱이 떠 있는 가운데 출력된 피규어를 든 두 아이"
+          },
+          {
+            "t": "p",
+            "x": "QIDI Joy 앱에는 바로 출력할 수 있는 모델 라이브러리와 STEAM 강좌가 들어 있고, 내장 카메라는 출력 과정을 모두 타임랩스로 남긴다. 닫힌 난연 챔버는 뜨거운 부품에 어린아이 손이 닿지 않게 막는다. G3, H12 HEPA, 활성탄을 겹친 필터 스택은 입자의 99.5%를 걸러낸다."
+          },
+          {
+            "t": "img",
+            "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/qidi-smart5-body-enclosed.jpg",
+            "cap": "MakeBuddy Smart5의 닫힌 유리문을 앞발로 건드리는 고양이"
+          },
+          {
+            "t": "p",
+            "x": "외장 안에는 600 mm/s 속도의 CoreXY 시스템이 들어 있고, 출력 공간은 180×180×180 mm다. 기본 구성으로는 PLA와 PETG를 단색으로 출력하며, 다색 출력에는 별매 QIDI Box 애드온이 필요하다. 상자에는 250 g PLA 스풀 네 개와 LED 조명·시계 메이커 키트가 함께 들어 있다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "QIDI's MakeBuddy Smart5 turns\nphone photos into 3D toys",
+          "body": "QIDI's $349 MakeBuddy Smart5 is a family 3D printer with an AI camera and an app that turns snapshots into models.",
+          "mini_headline": "QIDI prints photos as toys",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/qidi-smart5-hero.jpg",
+                "cap": "Family gathered around a QIDI MakeBuddy Smart5 3D printer on a coffee table"
+              },
+              {
+                "t": "p",
+                "x": "QIDI’s MakeBuddy Smart5 is a fully enclosed 3D printer built for family rooms instead of workbenches, with an AI camera, automatic bed leveling and an app that turns phone photos into printable models. It sells for $349 and went on sale November 10."
+              },
+              {
+                "t": "p",
+                "x": "The AI Image-to-3D tool takes a photo or a drawing and builds a personalized 3D model from it, so a kid’s sketch of the family dog becomes a figure the printer can actually make, with no modeling software to learn first."
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/qidi-smart5-body-ai.jpg",
+                "cap": "Two children holding a printed figure while phone screens show the AI photo-to-3D app"
+              },
+              {
+                "t": "p",
+                "x": "The QIDI Joy app pairs a library of ready-to-print models with STEAM courses, and the built-in camera records a timelapse of every print. A closed, flame-retardant chamber keeps hot parts away from small hands, and a G3, H12 HEPA and activated carbon filter stack is rated at capturing 99.5% of particles."
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/qidi-smart5-body-enclosed.jpg",
+                "cap": "Cat pawing at the closed glass door of a MakeBuddy Smart5"
+              },
+              {
+                "t": "p",
+                "x": "Under the shell is a CoreXY system rated at 600 mm/s with a 180 by 180 by 180 mm build volume. It prints PLA and PETG in a single color out of the box; multi-color needs the optional QIDI Box add-on. Four 250 g PLA spools and an LED light and clock maker kit come in the box."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "QIDI MakeBuddy\nSmart5 사진을 3D로",
+          "body": "QIDI MakeBuddy Smart5는 $349 가족용 AI 3D 프린터다.",
+          "mini_headline": "QIDI, 사진을 장난감으로 출력",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/qidi-smart5-hero.jpg",
+                "cap": "커피 테이블 위 QIDI MakeBuddy Smart5 3D 프린터 주위에 모인 가족"
+              },
+              {
+                "t": "p",
+                "x": "QIDI의 MakeBuddy Smart5는 작업대가 아닌 거실에 놓으려고 만든 완전 밀폐형 3D 프린터다. AI 카메라와 자동 베드 레벨링을 갖췄고, 휴대폰 사진을 출력 가능한 모델로 바꿔 주는 앱도 딸려 있다. 가격은 $349이고 11월 10일 판매를 시작했다."
+              },
+              {
+                "t": "p",
+                "x": "AI Image-to-3D 도구는 사진이나 그림으로 맞춤형 3D 모델을 만든다. 아이가 그린 반려견 스케치도 모델링 소프트웨어를 따로 배우지 않고 바로 프린터로 뽑아 피규어로 만들 수 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/qidi-smart5-body-ai.jpg",
+                "cap": "휴대폰 화면에 AI photo-to-3D 앱이 떠 있는 가운데 출력된 피규어를 든 두 아이"
+              },
+              {
+                "t": "p",
+                "x": "QIDI Joy 앱에는 바로 출력할 수 있는 모델 라이브러리와 STEAM 강좌가 들어 있고, 내장 카메라는 출력 과정을 모두 타임랩스로 남긴다. 닫힌 난연 챔버는 뜨거운 부품에 어린아이 손이 닿지 않게 막는다. G3, H12 HEPA, 활성탄을 겹친 필터 스택은 입자의 99.5%를 걸러낸다."
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/qidi-smart5-body-enclosed.jpg",
+                "cap": "MakeBuddy Smart5의 닫힌 유리문을 앞발로 건드리는 고양이"
+              },
+              {
+                "t": "p",
+                "x": "외장 안에는 600 mm/s 속도의 CoreXY 시스템이 들어 있고, 출력 공간은 180×180×180 mm다. 기본 구성으로는 PLA와 PETG를 단색으로 출력하며, 다색 출력에는 별매 QIDI Box 애드온이 필요하다. 상자에는 250 g PLA 스풀 네 개와 LED 조명·시계 메이커 키트가 함께 들어 있다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "QIDI MakeBuddy\nSmart5、写真を3Dに",
+          "body": "QIDIのMakeBuddy Smart5は$349の家庭用AIカメラ付き3Dプリンターだ。",
+          "mini_headline": "QIDIが写真をおもちゃに",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/qidi-smart5-hero.jpg",
+                "cap": "コーヒーテーブル上のQIDI MakeBuddy Smart5 3Dプリンターを囲む家族"
+              },
+              {
+                "t": "p",
+                "x": "QIDIのMakeBuddy Smart5は、作業台ではなくリビング向けに作られた完全密閉型3Dプリンターで、AIカメラ、自動ベッドレベリング、スマホの写真を印刷可能なモデルに変えるアプリを備える。価格は$349で、11月10日に発売された。"
+              },
+              {
+                "t": "p",
+                "x": "AI Image-to-3Dツールは写真や絵からパーソナライズされた3Dモデルを生成する。子どもが描いた飼い犬のスケッチも、モデリングソフトを先に覚えることなく、プリンターで実際に作れるフィギュアになる。"
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/qidi-smart5-body-ai.jpg",
+                "cap": "スマホ画面にAI photo-to-3Dアプリが映る中、印刷されたフィギュアを持つ二人の子ども"
+              },
+              {
+                "t": "p",
+                "x": "QIDI Joyアプリは、すぐに印刷できるモデルのライブラリとSTEAM講座を組み合わせ、内蔵カメラはすべての印刷をタイムラプスで記録する。密閉された難燃性チャンバーが高温部を小さな手から遠ざけ、G3、H12 HEPA、活性炭を重ねたフィルターは粒子の99.5%を捕集する性能を持つ。"
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/qidi-smart5-body-enclosed.jpg",
+                "cap": "MakeBuddy Smart5の閉じたガラス扉を前足でつつく猫"
+              },
+              {
+                "t": "p",
+                "x": "筐体の内部には600 mm/s対応のCoreXYシステムがあり、造形サイズは180×180×180 mmだ。標準ではPLAとPETGを単色で印刷でき、多色印刷にはオプションのQIDI Boxアドオンが必要になる。250 gのPLAスプール四つと、LEDライト・時計のメーカーキットが同梱される。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "QIDI MakeBuddy\nSmart5把照片变3D玩具",
+          "body": "QIDI的$349 MakeBuddy Smart5是带AI摄像头和应用的家用3D打印机。",
+          "mini_headline": "QIDI把照片打印成玩具",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/qidi-smart5-hero.jpg",
+                "cap": "一家人围在茶几上的QIDI MakeBuddy Smart5 3D打印机旁"
+              },
+              {
+                "t": "p",
+                "x": "QIDI的MakeBuddy Smart5是一款为家庭客厅而非工作台打造的全封闭3D打印机，配备AI摄像头、自动调平热床，以及能把手机照片转换为可打印模型的应用。售价$349，已于11月10日开售。"
+              },
+              {
+                "t": "p",
+                "x": "AI Image-to-3D工具可以根据照片或画作生成个性化3D模型，因此孩子画的家中小狗草图能变成打印机真正可以做出来的手办，无需先学建模软件。"
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/qidi-smart5-body-ai.jpg",
+                "cap": "两个孩子拿着打印好的手办，手机屏幕上显示AI photo-to-3D应用"
+              },
+              {
+                "t": "p",
+                "x": "QIDI Joy应用将现成可打印的模型库与STEAM课程结合，内置摄像头会为每次打印录制延时视频。封闭的阻燃腔体让高温部件远离小手，由G3、H12 HEPA和活性炭组成的过滤层可捕获99.5%的颗粒物。"
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/qidi-smart5-body-enclosed.jpg",
+                "cap": "一只猫用爪子拍打MakeBuddy Smart5关着的玻璃门"
+              },
+              {
+                "t": "p",
+                "x": "外壳之下是一套速度达600 mm/s的CoreXY系统，成型尺寸为180×180×180 mm。出厂即可单色打印PLA和PETG；多色打印需要选配QIDI Box扩展。包装内附四卷250 g PLA耗材，以及一套LED灯和时钟制作套件。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "La MakeBuddy Smart5 de QIDI\nconvierte fotos en juguetes 3D",
+          "body": "La MakeBuddy Smart5 de QIDI, de $349, es una impresora 3D familiar con cámara AI y una app que pasa fotos a modelos.",
+          "mini_headline": "QIDI imprime fotos como juguetes",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/qidi-smart5-hero.jpg",
+                "cap": "Una familia reunida alrededor de una impresora 3D QIDI MakeBuddy Smart5 sobre una mesa de centro"
+              },
+              {
+                "t": "p",
+                "x": "La MakeBuddy Smart5 de QIDI es una impresora 3D totalmente cerrada pensada para la sala de estar y no para el banco de trabajo, con cámara AI, nivelación automática de la cama y una app que convierte fotos del teléfono en modelos imprimibles. Cuesta $349 y salió a la venta el 10 de noviembre."
+              },
+              {
+                "t": "p",
+                "x": "La herramienta AI Image-to-3D toma una foto o un dibujo y crea a partir de ellos un modelo 3D personalizado, de modo que el boceto que un niño hace del perro de la familia se convierte en una figura que la impresora puede fabricar de verdad, sin tener que aprender antes un software de modelado."
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/qidi-smart5-body-ai.jpg",
+                "cap": "Dos niños sostienen una figura impresa mientras las pantallas de los teléfonos muestran la app AI photo-to-3D"
+              },
+              {
+                "t": "p",
+                "x": "La app QIDI Joy combina una biblioteca de modelos listos para imprimir con cursos STEAM, y la cámara integrada graba un timelapse de cada impresión. Una cámara cerrada e ignífuga mantiene las piezas calientes lejos de las manos pequeñas, y un conjunto de filtros G3, H12 HEPA y carbón activado está clasificado para capturar el 99.5% de las partículas."
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/qidi-smart5-body-enclosed.jpg",
+                "cap": "Un gato toca con la pata la puerta de cristal cerrada de una MakeBuddy Smart5"
+              },
+              {
+                "t": "p",
+                "x": "Bajo la carcasa hay un sistema CoreXY de hasta 600 mm/s con un volumen de impresión de 180 por 180 por 180 mm. De serie imprime PLA y PETG en un solo color; para varios colores hace falta el complemento opcional QIDI Box. En la caja vienen cuatro bobinas de PLA de 250 g y un kit maker de luz LED y reloj."
               }
             ]
           }
         }
       },
-      "i18n_status": {
-        "ko": "fallback"
+      "_i18n_passed": {
+        "ko": {
+          "headline": "QIDI MakeBuddy\nSmart5 사진을 3D로",
+          "body": "QIDI MakeBuddy Smart5는 $349 가족용 AI 3D 프린터다.",
+          "mini_headline": "QIDI, 사진을 장난감으로 출력",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/qidi-smart5-hero.jpg",
+                "cap": "커피 테이블 위 QIDI MakeBuddy Smart5 3D 프린터 주위에 모인 가족"
+              },
+              {
+                "t": "p",
+                "x": "QIDI의 MakeBuddy Smart5는 작업대가 아닌 거실을 위해 만든 완전 밀폐형 3D 프린터로, AI 카메라와 자동 베드 레벨링, 휴대폰 사진을 출력 가능한 모델로 바꿔 주는 앱을 갖췄다. 가격은 $349이며 11월 10일 판매를 시작했다."
+              },
+              {
+                "t": "p",
+                "x": "AI Image-to-3D 도구는 사진이나 그림을 받아 맞춤형 3D 모델을 만든다. 덕분에 아이가 그린 반려견 스케치가 모델링 소프트웨어를 먼저 배울 필요 없이 프린터로 실제 출력할 수 있는 피규어가 된다."
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/qidi-smart5-body-ai.jpg",
+                "cap": "휴대폰 화면에 AI photo-to-3D 앱이 떠 있는 가운데 출력된 피규어를 든 두 아이"
+              },
+              {
+                "t": "p",
+                "x": "QIDI Joy 앱은 바로 출력할 수 있는 모델 라이브러리와 STEAM 강좌를 함께 제공하고, 내장 카메라는 모든 출력 과정을 타임랩스로 기록한다. 닫힌 난연 챔버가 뜨거운 부품을 어린아이 손에서 떼어 놓고, G3, H12 HEPA, 활성탄으로 이뤄진 필터 스택은 입자의 99.5%를 걸러내는 성능을 갖췄다."
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/qidi-smart5-body-enclosed.jpg",
+                "cap": "MakeBuddy Smart5의 닫힌 유리문을 앞발로 건드리는 고양이"
+              },
+              {
+                "t": "p",
+                "x": "외장 안쪽에는 600 mm/s 성능의 CoreXY 시스템이 있고, 출력 공간은 180×180×180 mm다. 기본 상태로는 PLA와 PETG를 단색으로 출력하며, 다색 출력에는 별매 QIDI Box 애드온이 필요하다. 250 g PLA 스풀 네 개와 LED 조명·시계 메이커 키트가 함께 들어 있다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "QIDI MakeBuddy\nSmart5、写真を3Dに",
+          "body": "QIDIのMakeBuddy Smart5は$349の家庭用AIカメラ付き3Dプリンターだ。",
+          "mini_headline": "QIDIが写真をおもちゃに",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/qidi-smart5-hero.jpg",
+                "cap": "コーヒーテーブル上のQIDI MakeBuddy Smart5 3Dプリンターを囲む家族"
+              },
+              {
+                "t": "p",
+                "x": "QIDIのMakeBuddy Smart5は、作業台ではなくリビング向けに作られた完全密閉型3Dプリンターで、AIカメラ、自動ベッドレベリング、スマホの写真を印刷可能なモデルに変えるアプリを備える。価格は$349で、11月10日に発売された。"
+              },
+              {
+                "t": "p",
+                "x": "AI Image-to-3Dツールは写真や絵からパーソナライズされた3Dモデルを生成する。子どもが描いた飼い犬のスケッチも、モデリングソフトを先に覚えることなく、プリンターで実際に作れるフィギュアになる。"
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/qidi-smart5-body-ai.jpg",
+                "cap": "スマホ画面にAI photo-to-3Dアプリが映る中、印刷されたフィギュアを持つ二人の子ども"
+              },
+              {
+                "t": "p",
+                "x": "QIDI Joyアプリは、すぐに印刷できるモデルのライブラリとSTEAM講座を組み合わせ、内蔵カメラはすべての印刷をタイムラプスで記録する。密閉された難燃性チャンバーが高温部を小さな手から遠ざけ、G3、H12 HEPA、活性炭を重ねたフィルターは粒子の99.5%を捕集する性能を持つ。"
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/qidi-smart5-body-enclosed.jpg",
+                "cap": "MakeBuddy Smart5の閉じたガラス扉を前足でつつく猫"
+              },
+              {
+                "t": "p",
+                "x": "筐体の内部には600 mm/s対応のCoreXYシステムがあり、造形サイズは180×180×180 mmだ。標準ではPLAとPETGを単色で印刷でき、多色印刷にはオプションのQIDI Boxアドオンが必要になる。250 gのPLAスプール四つと、LEDライト・時計のメーカーキットが同梱される。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "QIDI MakeBuddy\nSmart5把照片变3D玩具",
+          "body": "QIDI的$349 MakeBuddy Smart5是带AI摄像头和应用的家用3D打印机。",
+          "mini_headline": "QIDI把照片打印成玩具",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/qidi-smart5-hero.jpg",
+                "cap": "一家人围在茶几上的QIDI MakeBuddy Smart5 3D打印机旁"
+              },
+              {
+                "t": "p",
+                "x": "QIDI的MakeBuddy Smart5是一款为家庭客厅而非工作台打造的全封闭3D打印机，配备AI摄像头、自动调平热床，以及能把手机照片转换为可打印模型的应用。售价$349，已于11月10日开售。"
+              },
+              {
+                "t": "p",
+                "x": "AI Image-to-3D工具可以根据照片或画作生成个性化3D模型，因此孩子画的家中小狗草图能变成打印机真正可以做出来的手办，无需先学建模软件。"
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/qidi-smart5-body-ai.jpg",
+                "cap": "两个孩子拿着打印好的手办，手机屏幕上显示AI photo-to-3D应用"
+              },
+              {
+                "t": "p",
+                "x": "QIDI Joy应用将现成可打印的模型库与STEAM课程结合，内置摄像头会为每次打印录制延时视频。封闭的阻燃腔体让高温部件远离小手，由G3、H12 HEPA和活性炭组成的过滤层可捕获99.5%的颗粒物。"
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/qidi-smart5-body-enclosed.jpg",
+                "cap": "一只猫用爪子拍打MakeBuddy Smart5关着的玻璃门"
+              },
+              {
+                "t": "p",
+                "x": "外壳之下是一套速度达600 mm/s的CoreXY系统，成型尺寸为180×180×180 mm。出厂即可单色打印PLA和PETG；多色打印需要选配QIDI Box扩展。包装内附四卷250 g PLA耗材，以及一套LED灯和时钟制作套件。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "La MakeBuddy Smart5 de QIDI\nconvierte fotos en juguetes 3D",
+          "body": "La MakeBuddy Smart5 de QIDI, de $349, es una impresora 3D familiar con cámara AI y una app que pasa fotos a modelos.",
+          "mini_headline": "QIDI imprime fotos como juguetes",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/qidi-smart5-hero.jpg",
+                "cap": "Una familia reunida alrededor de una impresora 3D QIDI MakeBuddy Smart5 sobre una mesa de centro"
+              },
+              {
+                "t": "p",
+                "x": "La MakeBuddy Smart5 de QIDI es una impresora 3D totalmente cerrada pensada para la sala de estar y no para el banco de trabajo, con cámara AI, nivelación automática de la cama y una app que convierte fotos del teléfono en modelos imprimibles. Cuesta $349 y salió a la venta el 10 de noviembre."
+              },
+              {
+                "t": "p",
+                "x": "La herramienta AI Image-to-3D toma una foto o un dibujo y crea a partir de ellos un modelo 3D personalizado, de modo que el boceto que un niño hace del perro de la familia se convierte en una figura que la impresora puede fabricar de verdad, sin tener que aprender antes un software de modelado."
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/qidi-smart5-body-ai.jpg",
+                "cap": "Dos niños sostienen una figura impresa mientras las pantallas de los teléfonos muestran la app AI photo-to-3D"
+              },
+              {
+                "t": "p",
+                "x": "La app QIDI Joy combina una biblioteca de modelos listos para imprimir con cursos STEAM, y la cámara integrada graba un timelapse de cada impresión. Una cámara cerrada e ignífuga mantiene las piezas calientes lejos de las manos pequeñas, y un conjunto de filtros G3, H12 HEPA y carbón activado está clasificado para capturar el 99.5% de las partículas."
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/qidi-smart5-body-enclosed.jpg",
+                "cap": "Un gato toca con la pata la puerta de cristal cerrada de una MakeBuddy Smart5"
+              },
+              {
+                "t": "p",
+                "x": "Bajo la carcasa hay un sistema CoreXY de hasta 600 mm/s con un volumen de impresión de 180 por 180 por 180 mm. De serie imprime PLA y PETG en un solo color; para varios colores hace falta el complemento opcional QIDI Box. En la caja vienen cuatro bobinas de PLA de 250 g y un kit maker de luz LED y reloj."
+              }
+            ]
+          }
+        }
       }
     }
   ]

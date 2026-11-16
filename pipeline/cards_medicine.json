@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "section": "medicine",
   "cards": [
     {
-      "id": "neca-vitalcare-input-audit",
-      "source_lang": "ko",
+      "id": "apple-openevidence-trust-study",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "보의연, 171개 병원\n바이탈케어 실측 조사",
-      "body": "보의연이 바이탈케어 쓴 병원 171곳에 19종 실측 여부를 묻는 공문을 보냈다.",
-      "mini_headline": "보의연 바이탈케어 실측 조사",
+      "headline": "OpenEvidence와\nApple 200,000명",
+      "body": "Apple·OpenEvidence가 200,000명에게 건강 AI 신뢰를 묻는다.",
+      "mini_headline": "Apple, 건강 AI 신뢰 연구",
       "tool": "Medicine",
-      "source": "메디게이트뉴스",
-      "url": "https://www.medigatenews.com/news/2035204417",
+      "source": "Healthcare Dive",
+      "url": "https://www.healthcaredive.com/news/apple-openevidence-conversational-health-ai-study-app/874714/",
       "accent": "#00897b",
       "motif": "sphere",
       "full": {
@@ -19,385 +19,305 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://medigatenews.com/file/news/542817",
-            "cap": "병원 측이 11월 19일까지 보의연에 답변해야 하는 서면조사 공문. 자료=독자 제공"
+            "src": "https://imgproxy.divecdn.com/lrWpKyDPoRNfWujsemRGW0NePogYS2NDb_nRgu67jLU/g:nowe:78:428/c:1356:766/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9hcHBsZV9vcGVuZXZpZGVuY2VfaGx0aC5qcGc=.webp",
+            "cap": "Apple과 OpenEvidence가 2026년 11월 15일 네바다주 라스베이거스(Las Vegas, Nevada)에서 열린 HLTH 콘퍼런스에서 대화형 AI 연구와 관련 앱을 소개하는 모습."
           },
           {
             "t": "p",
-            "x": "한국보건의료연구원이 환자 상태악화 예측 인공지능(AI) ‘바이탈케어’ 관련 기술을 사용한 병원 171곳에 서면조사 공문을 보내면서 의료현장에 혼선이 일고 있다. 국정감사 지적에 따른 후속 조사로, 모든 대상 환자가 입원기간 중 19종 입력정보를 각각 한 번 이상 실측했는지를 '예' 또는 '아니오'로 확인하도록 했다."
+            "x": "Apple이 일요일 라스베이거스(Las Vegas)에서 열린 HLTH 콘퍼런스에서 가상 연구와 관련 앱을 선보인다고 밝혔다. 사람들이 대화형 건강 AI를 어떻게 쓰는지 알아보려는 연구다. Apple 건강·피트니스(Health and Fitness) 부문 부사장 Dr. Sumbul Desai는 임상 AI 플랫폼 OpenEvidence와 함께하는 이 연구가 소비자 신뢰를 좌우하는 요인과 건강 AI 응답의 품질, 대화형 AI가 행동 변화를 끌어낼 수 있는지를 살핀다고 말했다."
           },
           {
             "t": "p",
-            "x": "더불어민주당 권칠승 의원은 10월 7일 국정감사에서 고시 준수 여부를 문제 삼았다. 한 병원이 제출한 답변에서는 총 5042일의 사용일수 중 19개 항목이 모두 존재한 날은 73일, 약 1.5%에 그쳤다."
+            "x": "U.S. 전역의 21세 이상 적격 참가자라면 최대 200,000명까지 참여할 수 있다. 사용자는 앱에 건강 질문을 던지고 안정 시 심박수, 활동량, 수면, 검사 결과 같은 데이터를 공유해 대화를 자기에게 맞출 수 있다. 연구 데이터는 AI 모델 학습에 쓰지 않는다. 개인 데이터도 본인이 원할 때만 공유된다."
           },
           {
             "t": "p",
-            "x": "보의연은 복지부 협조 요청에 따라 11월 4일 공문을 발송했다. 조사 기간은 11월 11일부터 19일까지이며, 병원들은 2023년 3월부터 2026년 9월 사이 사용 현황과 환자 동의서 구득 여부, 업체 안내자료 등을 제출해야 한다. 공문 발송 자체가 위반 확정을 의미하지는 않는다."
-          },
-          {
-            "t": "img",
-            "src": "https://medigatenews.com/file/news/542829"
+            "x": "“사용자 신뢰를 쌓는 요인, 사람들이 응답을 이해하는 방식, 응답의 품질을 연구하고 있으며, 임상적 근거를 갖춘 파트너와 일하고 싶었다. 그 파트너가 OpenEvidence다”라고 Desai는 설명했다. OpenEvidence CEO Daniel Nadler는 진료가 대개 10분이나 15분이면 끝난다며 앱이 그 빈틈을 메워 줄 수 있다고 했다."
           },
           {
             "t": "p",
-            "x": "에이아이트릭스는 12일 공식 입장을 내고 고시 위반 주장을 반박했다. 식약처 허가사항상 생체신호 5종은 최소 한 번의 실측 데이터가 필요하지만, 산소포화도, 혈액검사 결과 11종, 의식상태 점수는 결측치 보정을 통해 위험도 점수가 계산된다는 것이다. 회사 측은 \"측정값이 없는 항목을 직전 측정값 또는 정상범위 중앙값으로 보정해 19종을 모두 입력·분석한다\"고 밝혔다."
-          },
-          {
-            "t": "p",
-            "x": "회사는 관련 부당이득반환 소송 1심에서 오산시법원과 울산지법이 원고 청구를 기각했다는 점도 근거로 들며, 복지부에 고시의 사용방법을 식약처 허가사항과 일치하게 정비해 달라고 요청했다. 바이탈케어는 신의료기술 평가유예 기간을 거쳐 현재 본평가를 받고 있다."
+            "x": "Apple에 따르면 앱은 우려되는 질문을 걸러 내고 필요하면 외부 의료진이나 다른 창구로 연결한다. KFF에 따르면 U.S. 성인 약 삼분의 일이 AI 챗봇과 자기 건강 문제를 이야기해 본 적이 있다."
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "보의연, 171개 병원\n바이탈케어 실측 조사",
-          "body": "보의연이 바이탈케어 쓴 병원 171곳에 19종 실측 여부를 묻는 공문을 보냈다.",
-          "mini_headline": "보의연 바이탈케어 실측 조사",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://medigatenews.com/file/news/542817",
-                "cap": "병원 측이 11월 19일까지 보의연에 답변해야 하는 서면조사 공문. 자료=독자 제공"
-              },
-              {
-                "t": "p",
-                "x": "한국보건의료연구원이 환자 상태악화 예측 인공지능(AI) ‘바이탈케어’ 관련 기술을 사용한 병원 171곳에 서면조사 공문을 보내면서 의료현장에 혼선이 일고 있다. 국정감사 지적에 따른 후속 조사로, 모든 대상 환자가 입원기간 중 19종 입력정보를 각각 한 번 이상 실측했는지를 '예' 또는 '아니오'로 확인하도록 했다."
-              },
-              {
-                "t": "p",
-                "x": "더불어민주당 권칠승 의원은 10월 7일 국정감사에서 고시 준수 여부를 문제 삼았다. 한 병원이 제출한 답변에서는 총 5042일의 사용일수 중 19개 항목이 모두 존재한 날은 73일, 약 1.5%에 그쳤다."
-              },
-              {
-                "t": "p",
-                "x": "보의연은 복지부 협조 요청에 따라 11월 4일 공문을 발송했다. 조사 기간은 11월 11일부터 19일까지이며, 병원들은 2023년 3월부터 2026년 9월 사이 사용 현황과 환자 동의서 구득 여부, 업체 안내자료 등을 제출해야 한다. 공문 발송 자체가 위반 확정을 의미하지는 않는다."
-              },
-              {
-                "t": "img",
-                "src": "https://medigatenews.com/file/news/542829"
-              },
-              {
-                "t": "p",
-                "x": "에이아이트릭스는 12일 공식 입장을 내고 고시 위반 주장을 반박했다. 식약처 허가사항상 생체신호 5종은 최소 한 번의 실측 데이터가 필요하지만, 산소포화도, 혈액검사 결과 11종, 의식상태 점수는 결측치 보정을 통해 위험도 점수가 계산된다는 것이다. 회사 측은 \"측정값이 없는 항목을 직전 측정값 또는 정상범위 중앙값으로 보정해 19종을 모두 입력·분석한다\"고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "회사는 관련 부당이득반환 소송 1심에서 오산시법원과 울산지법이 원고 청구를 기각했다는 점도 근거로 들며, 복지부에 고시의 사용방법을 식약처 허가사항과 일치하게 정비해 달라고 요청했다. 바이탈케어는 신의료기술 평가유예 기간을 거쳐 현재 본평가를 받고 있다."
-              }
-            ]
-          }
-        },
         "en": {
-          "headline": "NECA checks 171 hospitals\non VitalCare measured inputs",
-          "body": "NECA sent letters to 171 hospitals using VitalCare, asking whether all 19 inputs were actually measured.",
-          "mini_headline": "NECA audits VitalCare inputs",
+          "headline": "Apple, OpenEvidence open a\nhealth AI study to 200,000",
+          "body": "Apple's study with OpenEvidence, open to up to 200,000 people, asks what drives trust in conversational health AI.",
+          "mini_headline": "Apple studies trust\nin health AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://medigatenews.com/file/news/542817",
-                "cap": "The written survey letter that hospitals must answer to NECA by November 19. Source: provided by a reader"
+                "src": "https://imgproxy.divecdn.com/lrWpKyDPoRNfWujsemRGW0NePogYS2NDb_nRgu67jLU/g:nowe:78:428/c:1356:766/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9hcHBsZV9vcGVuZXZpZGVuY2VfaGx0aC5qcGc=.webp",
+                "cap": "Apple and OpenEvidence announce a conversational AI study and associated app at the HLTH conference in Las Vegas, Nevada, on Nov. 15, 2026."
               },
               {
                 "t": "p",
-                "x": "The National Evidence-based Healthcare Collaborating Agency (NECA) has sent written survey letters to 171 hospitals that used technology related to VitalCare, an artificial intelligence (AI) that predicts patient deterioration, and the move is causing confusion in the medical field. The follow-up survey, prompted by criticism raised in the parliamentary audit, asks hospitals to answer 'yes' or 'no' on whether each of the 19 input items was actually measured at least once during the hospital stay for every eligible patient."
+                "x": "Apple is launching a virtual research study — and an associated app — to understand how people interact with conversational health AI, the company announced Sunday at the HLTH conference in Las Vegas. Conducted with clinical AI platform OpenEvidence, it will examine what drives consumer trust, the quality of health AI responses and whether conversational AI can drive behavior change, said Dr. Sumbul Desai, Apple’s vice president of Health and Fitness."
               },
               {
                 "t": "p",
-                "x": "At the October 7 parliamentary audit, Rep. Kwon Chil-seung of the Democratic Party questioned whether the notice was being followed. In one hospital's submitted response, all 19 items were present on only 73 of 5042 total days of use, about 1.5%."
+                "x": "The study is open to up to 200,000 eligible participants age 21 and older across the U.S. Users ask health questions in the app and can share data such as resting heart rate, activity, sleep or lab results to personalize interactions. Study data will not be used to train AI models, and sharing personal data is opt-in."
               },
               {
                 "t": "p",
-                "x": "NECA sent the letter on November 4 at the request of the Ministry of Health and Welfare. The survey runs from November 11 to 19, and hospitals must submit their usage between March 2023 and September 2026, whether patient consent forms were obtained, and vendor guidance materials. Sending the letter does not in itself confirm a violation."
-              },
-              {
-                "t": "img",
-                "src": "https://medigatenews.com/file/news/542829"
+                "x": "“We’re studying what builds user trust, how people comprehend responses, the quality of responses, and we wanted to work with a clinically grounded partner, and that is OpenEvidence,” Desai said. OpenEvidence CEO Daniel Nadler said physician visits are often just 10 or 15 minutes, and the app could help bridge that divide."
               },
               {
                 "t": "p",
-                "x": "AITRICS issued an official statement on the 12th rebutting the claim that it violated the notice. Under the Ministry of Food and Drug Safety approval, 5 vital signs require at least one actual measurement, but oxygen saturation, 11 blood test results and the consciousness score are handled by imputing missing values when the risk score is calculated, the company said. \"Items without a measured value are filled in with the previous measurement or the median of the normal range, so all 19 items are input and analyzed,\" the company stated."
-              },
-              {
-                "t": "p",
-                "x": "The company also pointed to first-instance rulings in related unjust-enrichment lawsuits, in which the Osan City Court and the Ulsan District Court dismissed the plaintiffs' claims, and asked the Ministry of Health and Welfare to revise the usage method in the notice to match the Ministry of Food and Drug Safety approval. VitalCare went through a deferral period for new health technology assessment and is now undergoing the main assessment."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "保健医療研究院、171病院\nVitalCare実測を調査",
-          "body": "保健医療研究院がVitalCare導入171病院に19項目の実測有無を問う文書を送った。",
-          "mini_headline": "VitalCare実測調査",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://medigatenews.com/file/news/542817",
-                "cap": "病院側が11月19日までに保健医療研究院へ回答しなければならない書面調査の公文書。資料=読者提供"
-              },
-              {
-                "t": "p",
-                "x": "韓国保健医療研究院が、患者の容体悪化を予測する人工知能(AI)「VitalCare」関連技術を使った病院171カ所に書面調査の公文書を送り、医療現場に混乱が広がっている。国政監査での指摘を受けた追跡調査で、すべての対象患者について入院期間中に19種類の入力情報をそれぞれ少なくとも一度実測したかを「はい」か「いいえ」で確認させる内容だ。"
-              },
-              {
-                "t": "p",
-                "x": "共に民主党の権七勝議員は10月7日の国政監査で、告示の順守状況を問題視した。ある病院が提出した回答では、計5042日の使用日数のうち19項目がすべてそろった日は73日、約1.5%にとどまった。"
-              },
-              {
-                "t": "p",
-                "x": "保健医療研究院は保健福祉部の協力要請を受け、11月4日に公文書を発送した。調査期間は11月11日から19日までで、病院は2023年3月から2026年9月までの使用状況、患者同意書の取得の有無、業者の案内資料などを提出しなければならない。公文書の発送自体が違反の確定を意味するわけではない。"
-              },
-              {
-                "t": "img",
-                "src": "https://medigatenews.com/file/news/542829"
-              },
-              {
-                "t": "p",
-                "x": "AITRICSは12日に公式見解を出し、告示違反との主張に反論した。食品医薬品安全処の許可事項上、生体信号5種は少なくとも一度の実測データが必要だが、酸素飽和度、血液検査結果11種、意識状態スコアは欠測値の補完によって危険度スコアが計算されるという。同社は「測定値のない項目を直前の測定値または正常範囲の中央値で補完し、19種すべてを入力・分析している」と説明した。"
-              },
-              {
-                "t": "p",
-                "x": "同社は、関連する不当利得返還訴訟の第1審で烏山市法院と蔚山地裁が原告の請求を棄却した点も根拠に挙げ、保健福祉部に対し告示の使用方法を食品医薬品安全処の許可事項と一致するよう整備してほしいと求めた。VitalCareは新医療技術評価の猶予期間を経て、現在は本評価を受けている。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "研究院调查171家医院\nVitalCare实测情况",
-          "body": "保健医疗研究院向171家使用VitalCare的医院发函，询问19项数据是否实测。",
-          "mini_headline": "VitalCare实测调查",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://medigatenews.com/file/news/542817",
-                "cap": "医院须在11月19日前答复保健医疗研究院的书面调查公函。资料=读者提供"
-              },
-              {
-                "t": "p",
-                "x": "韩国保健医疗研究院向171家使用患者病情恶化预测人工智能(AI)“VitalCare”相关技术的医院发出书面调查公函，在医疗一线引发混乱。这是针对国政监查中所提问题的后续调查，要求医院以“是”或“否”确认所有对象患者在住院期间是否对19种输入信息各至少实测过一次。"
-              },
-              {
-                "t": "p",
-                "x": "共同民主党议员权七胜在10月7日的国政监查中对告示的遵守情况提出质疑。在某医院提交的答复中，总计5042天的使用天数里，19个项目全部齐备的只有73天，约1.5%。"
-              },
-              {
-                "t": "p",
-                "x": "保健医疗研究院应保健福祉部的协助请求，于11月4日发出公函。调查期为11月11日至19日，医院须提交2023年3月至2026年9月期间的使用情况、是否取得患者同意书以及厂商说明材料等。发函本身并不意味着违规已被确认。"
-              },
-              {
-                "t": "img",
-                "src": "https://medigatenews.com/file/news/542829"
-              },
-              {
-                "t": "p",
-                "x": "AITRICS于12日发表正式立场，反驳违反告示的说法。该公司称，根据食品药品安全处的许可事项，5项生命体征至少需要一次实测数据，但血氧饱和度、11项血液检查结果和意识状态评分可通过缺失值插补来计算风险评分。公司表示：“对没有测量值的项目，用前一次测量值或正常范围中位数进行插补，从而输入并分析全部19项。”"
-              },
-              {
-                "t": "p",
-                "x": "该公司还以相关不当得利返还诉讼一审中乌山市法院和蔚山地方法院驳回原告请求为依据，要求保健福祉部将告示中的使用方法调整为与食品药品安全处许可事项一致。VitalCare在经历新医疗技术评估暂缓期后，目前正在接受正式评估。"
+                "x": "Apple said the app will detect worrying questions and direct a consumer to an outside provider or other resources if needed. Roughly one-third of U.S. adults have used an AI chatbot to talk about their health, according to KFF."
               }
             ]
           }
         },
         "es": {
-          "headline": "NECA revisa 171 hospitales\nsobre mediciones de VitalCare",
-          "body": "NECA envió cartas a 171 hospitales que usan VitalCare para preguntar si se midieron realmente los 19 datos.",
-          "mini_headline": "NECA audita VitalCare",
+          "headline": "Apple y OpenEvidence abren un\nestudio de AI para 200,000",
+          "body": "El estudio de Apple y OpenEvidence, abierto a hasta 200,000 personas, indaga la confianza en la AI de salud.",
+          "mini_headline": "Apple estudia la confianza en la AI de salud",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://medigatenews.com/file/news/542817",
-                "cap": "Carta de encuesta escrita que los hospitales deben responder a NECA antes del 19 de noviembre. Fuente: aportada por un lector"
+                "src": "https://imgproxy.divecdn.com/lrWpKyDPoRNfWujsemRGW0NePogYS2NDb_nRgu67jLU/g:nowe:78:428/c:1356:766/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9hcHBsZV9vcGVuZXZpZGVuY2VfaGx0aC5qcGc=.webp",
+                "cap": "Apple y OpenEvidence anuncian un estudio de AI conversacional y una app asociada en la conferencia HLTH de Las Vegas, Nevada, el 15 de noviembre de 2026."
               },
               {
                 "t": "p",
-                "x": "La Agencia Nacional de Colaboración en Salud Basada en la Evidencia de Corea (NECA) envió cartas de encuesta escrita a 171 hospitales que usaron tecnología relacionada con VitalCare, una inteligencia artificial (AI) que predice el deterioro de los pacientes, lo que ha generado confusión en el ámbito médico. Es una encuesta de seguimiento tras las críticas de la auditoría parlamentaria, y pide confirmar con 'sí' o 'no' si cada uno de los 19 datos de entrada se midió realmente al menos una vez durante la hospitalización de cada paciente incluido."
+                "x": "Apple lanza un estudio de investigación virtual —y una app asociada— para entender cómo interactúan las personas con la AI conversacional de salud, según anunció la compañía el domingo en la conferencia HLTH de Las Vegas. Realizado con la plataforma de AI clínica OpenEvidence, el estudio examinará qué impulsa la confianza del consumidor, la calidad de las respuestas de la AI de salud y si la AI conversacional puede impulsar cambios de conducta, dijo la Dra. Sumbul Desai, vicepresidenta de Health and Fitness de Apple."
               },
               {
                 "t": "p",
-                "x": "El diputado Kwon Chil-seung, del Partido Democrático, cuestionó el cumplimiento de la normativa en la auditoría parlamentaria del 7 de octubre. En la respuesta que presentó un hospital, de un total de 5042 días de uso, los 19 elementos estuvieron presentes solo en 73 días, alrededor del 1.5%."
+                "x": "El estudio está abierto a hasta 200,000 participantes elegibles de 21 años o más en todo Estados Unidos (U.S.). Los usuarios hacen preguntas de salud en la app y pueden compartir datos como la frecuencia cardiaca en reposo, la actividad, el sueño o resultados de laboratorio para personalizar las interacciones. Los datos del estudio no se usarán para entrenar modelos de AI, y compartir datos personales es opcional."
               },
               {
                 "t": "p",
-                "x": "NECA envió la carta el 4 de noviembre a petición del Ministerio de Salud y Bienestar. La encuesta se realiza del 11 al 19 de noviembre, y los hospitales deben presentar su uso entre marzo de 2023 y septiembre de 2026, si obtuvieron el consentimiento de los pacientes y los materiales informativos del proveedor. El envío de la carta no implica por sí mismo que se haya confirmado una infracción."
+                "x": "“Estudiamos qué genera la confianza del usuario, cómo comprenden las personas las respuestas y la calidad de las respuestas, y queríamos trabajar con un socio con base clínica, y ese socio es OpenEvidence”, dijo Desai. El CEO de OpenEvidence, Daniel Nadler, dijo que las consultas médicas suelen durar solo 10 o 15 minutos y que la app podría ayudar a cerrar esa brecha."
               },
+              {
+                "t": "p",
+                "x": "Apple dijo que la app detectará preguntas preocupantes y, si es necesario, remitirá al consumidor a un proveedor externo u otros recursos. Aproximadamente un tercio de los adultos de Estados Unidos (U.S.) ha usado un chatbot de AI para hablar de su salud, según KFF."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "OpenEvidence와\nApple 200,000명",
+          "body": "Apple·OpenEvidence가 200,000명에게 건강 AI 신뢰를 묻는다.",
+          "mini_headline": "Apple, 건강 AI 신뢰 연구",
+          "full": {
+            "mode": "summary",
+            "blocks": [
               {
                 "t": "img",
-                "src": "https://medigatenews.com/file/news/542829"
+                "src": "https://imgproxy.divecdn.com/lrWpKyDPoRNfWujsemRGW0NePogYS2NDb_nRgu67jLU/g:nowe:78:428/c:1356:766/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9hcHBsZV9vcGVuZXZpZGVuY2VfaGx0aC5qcGc=.webp",
+                "cap": "Apple과 OpenEvidence가 2026년 11월 15일 네바다주 라스베이거스(Las Vegas, Nevada)에서 열린 HLTH 콘퍼런스에서 대화형 AI 연구와 관련 앱을 소개하는 모습."
               },
               {
                 "t": "p",
-                "x": "AITRICS emitió un comunicado oficial el día 12 en el que rechazó la acusación de incumplir la normativa. Según la autorización del Ministerio de Seguridad de Alimentos y Medicamentos, 5 signos vitales requieren al menos una medición real, pero la saturación de oxígeno, 11 resultados de análisis de sangre y la puntuación del nivel de conciencia se completan mediante imputación de valores faltantes para calcular la puntuación de riesgo. \"Los elementos sin valor medido se completan con la medición anterior o con la mediana del rango normal, de modo que se introducen y analizan los 19\", afirmó la empresa."
+                "x": "Apple이 일요일 라스베이거스(Las Vegas)에서 열린 HLTH 콘퍼런스에서 가상 연구와 관련 앱을 선보인다고 밝혔다. 사람들이 대화형 건강 AI를 어떻게 쓰는지 알아보려는 연구다. Apple 건강·피트니스(Health and Fitness) 부문 부사장 Dr. Sumbul Desai는 임상 AI 플랫폼 OpenEvidence와 함께하는 이 연구가 소비자 신뢰를 좌우하는 요인과 건강 AI 응답의 품질, 대화형 AI가 행동 변화를 끌어낼 수 있는지를 살핀다고 말했다."
               },
               {
                 "t": "p",
-                "x": "La empresa también citó que, en primera instancia de las demandas relacionadas de restitución por enriquecimiento injusto, el Tribunal Municipal de Osan y el Tribunal de Distrito de Ulsan desestimaron las pretensiones de los demandantes, y pidió al Ministerio de Salud y Bienestar que ajuste el método de uso de la normativa a la autorización del Ministerio de Seguridad de Alimentos y Medicamentos. VitalCare pasó por un periodo de aplazamiento de la evaluación de nuevas tecnologías sanitarias y ahora está en la evaluación principal."
+                "x": "U.S. 전역의 21세 이상 적격 참가자라면 최대 200,000명까지 참여할 수 있다. 사용자는 앱에 건강 질문을 던지고 안정 시 심박수, 활동량, 수면, 검사 결과 같은 데이터를 공유해 대화를 자기에게 맞출 수 있다. 연구 데이터는 AI 모델 학습에 쓰지 않는다. 개인 데이터도 본인이 원할 때만 공유된다."
+              },
+              {
+                "t": "p",
+                "x": "“사용자 신뢰를 쌓는 요인, 사람들이 응답을 이해하는 방식, 응답의 품질을 연구하고 있으며, 임상적 근거를 갖춘 파트너와 일하고 싶었다. 그 파트너가 OpenEvidence다”라고 Desai는 설명했다. OpenEvidence CEO Daniel Nadler는 진료가 대개 10분이나 15분이면 끝난다며 앱이 그 빈틈을 메워 줄 수 있다고 했다."
+              },
+              {
+                "t": "p",
+                "x": "Apple에 따르면 앱은 우려되는 질문을 걸러 내고 필요하면 외부 의료진이나 다른 창구로 연결한다. KFF에 따르면 U.S. 성인 약 삼분의 일이 AI 챗봇과 자기 건강 문제를 이야기해 본 적이 있다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "OpenEvidenceと\nApple 200,000人",
+          "body": "AppleとOpenEvidenceの研究は最大200,000人に健康AIへの信頼を問う。",
+          "mini_headline": "Apple、健康AIへの信頼を研究",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/lrWpKyDPoRNfWujsemRGW0NePogYS2NDb_nRgu67jLU/g:nowe:78:428/c:1356:766/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9hcHBsZV9vcGVuZXZpZGVuY2VfaGx0aC5qcGc=.webp",
+                "cap": "2026年11月15日、ネバダ州ラスベガス（Las Vegas, Nevada）のHLTHカンファレンスで、会話型AIの研究と関連アプリを発表するAppleとOpenEvidence。"
+              },
+              {
+                "t": "p",
+                "x": "Appleは日曜日、ラスベガス（Las Vegas）で開かれたHLTHカンファレンスで、人々が会話型の健康AIとどう関わるかを理解するためのバーチャル研究と関連アプリを始めると発表した。臨床AIプラットフォームOpenEvidenceと共同で実施するこの研究では、消費者の信頼を左右する要因、健康AIの回答の質、会話型AIが行動変容を促せるかどうかを調べると、Appleのヘルス・フィットネス（Health and Fitness）担当副社長Dr. Sumbul Desaiは述べた。"
+              },
+              {
+                "t": "p",
+                "x": "研究はU.S.全土の21歳以上の対象者、最大200,000人が参加できる。利用者はアプリで健康に関する質問をし、安静時心拍数、活動量、睡眠、検査結果などのデータを共有してやり取りを個別化できる。研究データはAIモデルの学習には使われず、個人データの共有は本人が選んだ場合に限られる。"
+              },
+              {
+                "t": "p",
+                "x": "「ユーザーの信頼を築くもの、人々が回答をどう理解するか、回答の質を研究している。そして臨床的な裏付けのあるパートナーと組みたかった。それがOpenEvidenceだ」とDesaiは語った。OpenEvidenceのCEO、Daniel Nadlerは、医師の診察はわずか10分か15分であることが多く、アプリがその隔たりを埋める助けになり得ると述べた。"
+              },
+              {
+                "t": "p",
+                "x": "Appleによると、アプリは懸念のある質問を検知し、必要に応じて外部の医療提供者やその他の窓口へ案内する。KFFによれば、U.S.の成人の約三分の一がAIチャットボットで自分の健康について話したことがある。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "OpenEvidence与\nApple 200,000人",
+          "body": "Apple与OpenEvidence面向至多200,000人研究对话式健康AI的信任。",
+          "mini_headline": "Apple研究健康AI信任",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/lrWpKyDPoRNfWujsemRGW0NePogYS2NDb_nRgu67jLU/g:nowe:78:428/c:1356:766/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9hcHBsZV9vcGVuZXZpZGVuY2VfaGx0aC5qcGc=.webp",
+                "cap": "2026年11月15日，Apple与OpenEvidence在内华达州拉斯维加斯（Las Vegas, Nevada）举行的HLTH大会上发布一项对话式AI研究及配套应用。"
+              },
+              {
+                "t": "p",
+                "x": "Apple周日在拉斯维加斯（Las Vegas）举行的HLTH大会上宣布，将推出一项虚拟研究及配套应用，以了解人们如何与对话式健康AI互动。Apple健康与健身（Health and Fitness）副总裁Dr. Sumbul Desai表示，这项研究与临床AI平台OpenEvidence合作开展，将考察是什么驱动消费者信任、健康AI回答的质量，以及对话式AI能否推动行为改变。"
+              },
+              {
+                "t": "p",
+                "x": "研究面向U.S.全境年满21岁的合格参与者开放，名额至多200,000人。用户可在应用中提出健康问题，并可分享静息心率、活动、睡眠或化验结果等数据，让互动更个性化。研究数据不会用于训练AI模型，个人数据的分享须由用户自愿选择。"
+              },
+              {
+                "t": "p",
+                "x": "“我们在研究是什么建立了用户信任、人们如何理解回答以及回答的质量，我们希望与一个有临床依据的伙伴合作，那就是OpenEvidence。”Desai说。OpenEvidence首席执行官（CEO）Daniel Nadler表示，医生问诊往往只有10或15分钟，这款应用有助于弥合这一差距。"
+              },
+              {
+                "t": "p",
+                "x": "Apple表示，应用会识别令人担忧的问题，并在必要时引导用户转向外部医疗服务提供者或其他资源。据KFF统计，约三分之一的U.S.成年人曾用AI聊天机器人谈论自己的健康。"
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "NECA checks 171 hospitals\non VitalCare measured inputs",
-          "body": "NECA sent letters to 171 hospitals using VitalCare, asking whether all 19 inputs were actually measured.",
-          "mini_headline": "NECA audits VitalCare inputs",
+        "es": {
+          "headline": "Apple y OpenEvidence abren un\nestudio de AI para 200,000",
+          "body": "El estudio de Apple y OpenEvidence, abierto a hasta 200,000 personas, indaga la confianza en la AI de salud.",
+          "mini_headline": "Apple estudia la confianza en la AI de salud",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://medigatenews.com/file/news/542817",
-                "cap": "The written survey letter that hospitals must answer to NECA by November 19. Source: provided by a reader"
+                "src": "https://imgproxy.divecdn.com/lrWpKyDPoRNfWujsemRGW0NePogYS2NDb_nRgu67jLU/g:nowe:78:428/c:1356:766/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9hcHBsZV9vcGVuZXZpZGVuY2VfaGx0aC5qcGc=.webp",
+                "cap": "Apple y OpenEvidence anuncian un estudio de AI conversacional y una app asociada en la conferencia HLTH de Las Vegas, Nevada, el 15 de noviembre de 2026."
               },
               {
                 "t": "p",
-                "x": "The National Evidence-based Healthcare Collaborating Agency (NECA) has sent written survey letters to 171 hospitals that used technology related to VitalCare, an artificial intelligence (AI) that predicts patient deterioration, and the move is causing confusion in the medical field. The follow-up survey, prompted by criticism raised in the parliamentary audit, asks hospitals to answer 'yes' or 'no' on whether each of the 19 input items was actually measured at least once during the hospital stay for every eligible patient."
+                "x": "Apple lanza un estudio de investigación virtual —y una app asociada— para entender cómo interactúan las personas con la AI conversacional de salud, según anunció la compañía el domingo en la conferencia HLTH de Las Vegas. Realizado con la plataforma de AI clínica OpenEvidence, el estudio examinará qué impulsa la confianza del consumidor, la calidad de las respuestas de la AI de salud y si la AI conversacional puede impulsar cambios de conducta, dijo la Dra. Sumbul Desai, vicepresidenta de Health and Fitness de Apple."
               },
               {
                 "t": "p",
-                "x": "At the October 7 parliamentary audit, Rep. Kwon Chil-seung of the Democratic Party questioned whether the notice was being followed. In one hospital's submitted response, all 19 items were present on only 73 of 5042 total days of use, about 1.5%."
+                "x": "El estudio está abierto a hasta 200,000 participantes elegibles de 21 años o más en todo Estados Unidos (U.S.). Los usuarios hacen preguntas de salud en la app y pueden compartir datos como la frecuencia cardiaca en reposo, la actividad, el sueño o resultados de laboratorio para personalizar las interacciones. Los datos del estudio no se usarán para entrenar modelos de AI, y compartir datos personales es opcional."
               },
               {
                 "t": "p",
-                "x": "NECA sent the letter on November 4 at the request of the Ministry of Health and Welfare. The survey runs from November 11 to 19, and hospitals must submit their usage between March 2023 and September 2026, whether patient consent forms were obtained, and vendor guidance materials. Sending the letter does not in itself confirm a violation."
+                "x": "“Estudiamos qué genera la confianza del usuario, cómo comprenden las personas las respuestas y la calidad de las respuestas, y queríamos trabajar con un socio con base clínica, y ese socio es OpenEvidence”, dijo Desai. El CEO de OpenEvidence, Daniel Nadler, dijo que las consultas médicas suelen durar solo 10 o 15 minutos y que la app podría ayudar a cerrar esa brecha."
               },
+              {
+                "t": "p",
+                "x": "Apple dijo que la app detectará preguntas preocupantes y, si es necesario, remitirá al consumidor a un proveedor externo u otros recursos. Aproximadamente un tercio de los adultos de Estados Unidos (U.S.) ha usado un chatbot de AI para hablar de su salud, según KFF."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "OpenEvidence와\nApple 200,000명",
+          "body": "Apple·OpenEvidence가 200,000명에게 건강 AI 신뢰를 묻는다.",
+          "mini_headline": "Apple, 건강 AI 신뢰 연구",
+          "full": {
+            "mode": "summary",
+            "blocks": [
               {
                 "t": "img",
-                "src": "https://medigatenews.com/file/news/542829"
+                "src": "https://imgproxy.divecdn.com/lrWpKyDPoRNfWujsemRGW0NePogYS2NDb_nRgu67jLU/g:nowe:78:428/c:1356:766/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9hcHBsZV9vcGVuZXZpZGVuY2VfaGx0aC5qcGc=.webp",
+                "cap": "Apple과 OpenEvidence가 2026년 11월 15일 네바다주 라스베이거스(Las Vegas, Nevada)에서 열린 HLTH 콘퍼런스에서 대화형 AI 연구와 관련 앱을 발표하고 있다."
               },
               {
                 "t": "p",
-                "x": "AITRICS issued an official statement on the 12th rebutting the claim that it violated the notice. Under the Ministry of Food and Drug Safety approval, 5 vital signs require at least one actual measurement, but oxygen saturation, 11 blood test results and the consciousness score are handled by imputing missing values when the risk score is calculated, the company said. \"Items without a measured value are filled in with the previous measurement or the median of the normal range, so all 19 items are input and analyzed,\" the company stated."
+                "x": "Apple은 사람들이 대화형 건강 AI와 어떻게 상호작용하는지 이해하기 위해 가상 연구와 관련 앱을 선보인다고 일요일 라스베이거스(Las Vegas)에서 열린 HLTH 콘퍼런스에서 발표했다. 임상 AI 플랫폼 OpenEvidence와 함께 진행하는 이 연구는 소비자 신뢰를 이끄는 요인, 건강 AI 응답의 품질, 대화형 AI가 행동 변화를 이끌어 낼 수 있는지를 살핀다고 Apple 건강·피트니스(Health and Fitness) 부문 부사장 Dr. Sumbul Desai가 말했다."
               },
               {
                 "t": "p",
-                "x": "The company also pointed to first-instance rulings in related unjust-enrichment lawsuits, in which the Osan City Court and the Ulsan District Court dismissed the plaintiffs' claims, and asked the Ministry of Health and Welfare to revise the usage method in the notice to match the Ministry of Food and Drug Safety approval. VitalCare went through a deferral period for new health technology assessment and is now undergoing the main assessment."
+                "x": "연구는 U.S. 전역의 21세 이상 적격 참가자 최대 200,000명에게 열려 있다. 사용자는 앱에서 건강 질문을 하고, 안정 시 심박수, 활동량, 수면, 검사 결과 같은 데이터를 공유해 대화를 개인화할 수 있다. 연구 데이터는 AI 모델 학습에 쓰이지 않으며, 개인 데이터 공유는 본인이 선택할 때만 이뤄진다."
+              },
+              {
+                "t": "p",
+                "x": "“사용자 신뢰를 쌓는 요인, 사람들이 응답을 이해하는 방식, 응답의 품질을 연구하고 있으며, 임상적 근거를 갖춘 파트너와 일하고 싶었다. 그 파트너가 OpenEvidence다”라고 Desai는 말했다. OpenEvidence CEO Daniel Nadler는 진료 시간이 대개 10분이나 15분에 그친다며 앱이 그 간극을 메우는 데 도움이 될 수 있다고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "Apple은 앱이 우려스러운 질문을 감지하고 필요하면 외부 의료진이나 다른 자원으로 안내할 것이라고 밝혔다. KFF에 따르면 U.S. 성인의 약 삼분의 일이 AI 챗봇으로 자신의 건강에 관해 이야기해 본 적이 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "保健医療研究院、171病院\nVitalCare実測を調査",
-          "body": "保健医療研究院がVitalCare導入171病院に19項目の実測有無を問う文書を送った。",
-          "mini_headline": "VitalCare実測調査",
+          "headline": "OpenEvidenceと\nApple 200,000人",
+          "body": "AppleとOpenEvidenceの研究は最大200,000人に健康AIへの信頼を問う。",
+          "mini_headline": "Apple、健康AIへの信頼を研究",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://medigatenews.com/file/news/542817",
-                "cap": "病院側が11月19日までに保健医療研究院へ回答しなければならない書面調査の公文書。資料=読者提供"
+                "src": "https://imgproxy.divecdn.com/lrWpKyDPoRNfWujsemRGW0NePogYS2NDb_nRgu67jLU/g:nowe:78:428/c:1356:766/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9hcHBsZV9vcGVuZXZpZGVuY2VfaGx0aC5qcGc=.webp",
+                "cap": "2026年11月15日、ネバダ州ラスベガス（Las Vegas, Nevada）のHLTHカンファレンスで、会話型AIの研究と関連アプリを発表するAppleとOpenEvidence。"
               },
               {
                 "t": "p",
-                "x": "韓国保健医療研究院が、患者の容体悪化を予測する人工知能(AI)「VitalCare」関連技術を使った病院171カ所に書面調査の公文書を送り、医療現場に混乱が広がっている。国政監査での指摘を受けた追跡調査で、すべての対象患者について入院期間中に19種類の入力情報をそれぞれ少なくとも一度実測したかを「はい」か「いいえ」で確認させる内容だ。"
+                "x": "Appleは日曜日、ラスベガス（Las Vegas）で開かれたHLTHカンファレンスで、人々が会話型の健康AIとどう関わるかを理解するためのバーチャル研究と関連アプリを始めると発表した。臨床AIプラットフォームOpenEvidenceと共同で実施するこの研究では、消費者の信頼を左右する要因、健康AIの回答の質、会話型AIが行動変容を促せるかどうかを調べると、Appleのヘルス・フィットネス（Health and Fitness）担当副社長Dr. Sumbul Desaiは述べた。"
               },
               {
                 "t": "p",
-                "x": "共に民主党の権七勝議員は10月7日の国政監査で、告示の順守状況を問題視した。ある病院が提出した回答では、計5042日の使用日数のうち19項目がすべてそろった日は73日、約1.5%にとどまった。"
+                "x": "研究はU.S.全土の21歳以上の対象者、最大200,000人が参加できる。利用者はアプリで健康に関する質問をし、安静時心拍数、活動量、睡眠、検査結果などのデータを共有してやり取りを個別化できる。研究データはAIモデルの学習には使われず、個人データの共有は本人が選んだ場合に限られる。"
               },
               {
                 "t": "p",
-                "x": "保健医療研究院は保健福祉部の協力要請を受け、11月4日に公文書を発送した。調査期間は11月11日から19日までで、病院は2023年3月から2026年9月までの使用状況、患者同意書の取得の有無、業者の案内資料などを提出しなければならない。公文書の発送自体が違反の確定を意味するわけではない。"
-              },
-              {
-                "t": "img",
-                "src": "https://medigatenews.com/file/news/542829"
+                "x": "「ユーザーの信頼を築くもの、人々が回答をどう理解するか、回答の質を研究している。そして臨床的な裏付けのあるパートナーと組みたかった。それがOpenEvidenceだ」とDesaiは語った。OpenEvidenceのCEO、Daniel Nadlerは、医師の診察はわずか10分か15分であることが多く、アプリがその隔たりを埋める助けになり得ると述べた。"
               },
               {
                 "t": "p",
-                "x": "AITRICSは12日に公式見解を出し、告示違反との主張に反論した。食品医薬品安全処の許可事項上、生体信号5種は少なくとも一度の実測データが必要だが、酸素飽和度、血液検査結果11種、意識状態スコアは欠測値の補完によって危険度スコアが計算されるという。同社は「測定値のない項目を直前の測定値または正常範囲の中央値で補完し、19種すべてを入力・分析している」と説明した。"
-              },
-              {
-                "t": "p",
-                "x": "同社は、関連する不当利得返還訴訟の第1審で烏山市法院と蔚山地裁が原告の請求を棄却した点も根拠に挙げ、保健福祉部に対し告示の使用方法を食品医薬品安全処の許可事項と一致するよう整備してほしいと求めた。VitalCareは新医療技術評価の猶予期間を経て、現在は本評価を受けている。"
+                "x": "Appleによると、アプリは懸念のある質問を検知し、必要に応じて外部の医療提供者やその他の窓口へ案内する。KFFによれば、U.S.の成人の約三分の一がAIチャットボットで自分の健康について話したことがある。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "研究院调查171家医院\nVitalCare实测情况",
-          "body": "保健医疗研究院向171家使用VitalCare的医院发函，询问19项数据是否实测。",
-          "mini_headline": "VitalCare实测调查",
+          "headline": "OpenEvidence与\nApple 200,000人",
+          "body": "Apple与OpenEvidence面向至多200,000人研究对话式健康AI的信任。",
+          "mini_headline": "Apple研究健康AI信任",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://medigatenews.com/file/news/542817",
-                "cap": "医院须在11月19日前答复保健医疗研究院的书面调查公函。资料=读者提供"
+                "src": "https://imgproxy.divecdn.com/lrWpKyDPoRNfWujsemRGW0NePogYS2NDb_nRgu67jLU/g:nowe:78:428/c:1356:766/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9hcHBsZV9vcGVuZXZpZGVuY2VfaGx0aC5qcGc=.webp",
+                "cap": "2026年11月15日，Apple与OpenEvidence在内华达州拉斯维加斯（Las Vegas, Nevada）举行的HLTH大会上发布一项对话式AI研究及配套应用。"
               },
               {
                 "t": "p",
-                "x": "韩国保健医疗研究院向171家使用患者病情恶化预测人工智能(AI)“VitalCare”相关技术的医院发出书面调查公函，在医疗一线引发混乱。这是针对国政监查中所提问题的后续调查，要求医院以“是”或“否”确认所有对象患者在住院期间是否对19种输入信息各至少实测过一次。"
+                "x": "Apple周日在拉斯维加斯（Las Vegas）举行的HLTH大会上宣布，将推出一项虚拟研究及配套应用，以了解人们如何与对话式健康AI互动。Apple健康与健身（Health and Fitness）副总裁Dr. Sumbul Desai表示，这项研究与临床AI平台OpenEvidence合作开展，将考察是什么驱动消费者信任、健康AI回答的质量，以及对话式AI能否推动行为改变。"
               },
               {
                 "t": "p",
-                "x": "共同民主党议员权七胜在10月7日的国政监查中对告示的遵守情况提出质疑。在某医院提交的答复中，总计5042天的使用天数里，19个项目全部齐备的只有73天，约1.5%。"
+                "x": "研究面向U.S.全境年满21岁的合格参与者开放，名额至多200,000人。用户可在应用中提出健康问题，并可分享静息心率、活动、睡眠或化验结果等数据，让互动更个性化。研究数据不会用于训练AI模型，个人数据的分享须由用户自愿选择。"
               },
               {
                 "t": "p",
-                "x": "保健医疗研究院应保健福祉部的协助请求，于11月4日发出公函。调查期为11月11日至19日，医院须提交2023年3月至2026年9月期间的使用情况、是否取得患者同意书以及厂商说明材料等。发函本身并不意味着违规已被确认。"
-              },
-              {
-                "t": "img",
-                "src": "https://medigatenews.com/file/news/542829"
+                "x": "“我们在研究是什么建立了用户信任、人们如何理解回答以及回答的质量，我们希望与一个有临床依据的伙伴合作，那就是OpenEvidence。”Desai说。OpenEvidence首席执行官（CEO）Daniel Nadler表示，医生问诊往往只有10或15分钟，这款应用有助于弥合这一差距。"
               },
               {
                 "t": "p",
-                "x": "AITRICS于12日发表正式立场，反驳违反告示的说法。该公司称，根据食品药品安全处的许可事项，5项生命体征至少需要一次实测数据，但血氧饱和度、11项血液检查结果和意识状态评分可通过缺失值插补来计算风险评分。公司表示：“对没有测量值的项目，用前一次测量值或正常范围中位数进行插补，从而输入并分析全部19项。”"
-              },
-              {
-                "t": "p",
-                "x": "该公司还以相关不当得利返还诉讼一审中乌山市法院和蔚山地方法院驳回原告请求为依据，要求保健福祉部将告示中的使用方法调整为与食品药品安全处许可事项一致。VitalCare在经历新医疗技术评估暂缓期后，目前正在接受正式评估。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "NECA revisa 171 hospitales\nsobre mediciones de VitalCare",
-          "body": "NECA envió cartas a 171 hospitales que usan VitalCare para preguntar si se midieron realmente los 19 datos.",
-          "mini_headline": "NECA audita VitalCare",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://medigatenews.com/file/news/542817",
-                "cap": "Carta de encuesta escrita que los hospitales deben responder a NECA antes del 19 de noviembre. Fuente: aportada por un lector"
-              },
-              {
-                "t": "p",
-                "x": "La Agencia Nacional de Colaboración en Salud Basada en la Evidencia de Corea (NECA) envió cartas de encuesta escrita a 171 hospitales que usaron tecnología relacionada con VitalCare, una inteligencia artificial (AI) que predice el deterioro de los pacientes, lo que ha generado confusión en el ámbito médico. Es una encuesta de seguimiento tras las críticas de la auditoría parlamentaria, y pide confirmar con 'sí' o 'no' si cada uno de los 19 datos de entrada se midió realmente al menos una vez durante la hospitalización de cada paciente incluido."
-              },
-              {
-                "t": "p",
-                "x": "El diputado Kwon Chil-seung, del Partido Democrático, cuestionó el cumplimiento de la normativa en la auditoría parlamentaria del 7 de octubre. En la respuesta que presentó un hospital, de un total de 5042 días de uso, los 19 elementos estuvieron presentes solo en 73 días, alrededor del 1.5%."
-              },
-              {
-                "t": "p",
-                "x": "NECA envió la carta el 4 de noviembre a petición del Ministerio de Salud y Bienestar. La encuesta se realiza del 11 al 19 de noviembre, y los hospitales deben presentar su uso entre marzo de 2023 y septiembre de 2026, si obtuvieron el consentimiento de los pacientes y los materiales informativos del proveedor. El envío de la carta no implica por sí mismo que se haya confirmado una infracción."
-              },
-              {
-                "t": "img",
-                "src": "https://medigatenews.com/file/news/542829"
-              },
-              {
-                "t": "p",
-                "x": "AITRICS emitió un comunicado oficial el día 12 en el que rechazó la acusación de incumplir la normativa. Según la autorización del Ministerio de Seguridad de Alimentos y Medicamentos, 5 signos vitales requieren al menos una medición real, pero la saturación de oxígeno, 11 resultados de análisis de sangre y la puntuación del nivel de conciencia se completan mediante imputación de valores faltantes para calcular la puntuación de riesgo. \"Los elementos sin valor medido se completan con la medición anterior o con la mediana del rango normal, de modo que se introducen y analizan los 19\", afirmó la empresa."
-              },
-              {
-                "t": "p",
-                "x": "La empresa también citó que, en primera instancia de las demandas relacionadas de restitución por enriquecimiento injusto, el Tribunal Municipal de Osan y el Tribunal de Distrito de Ulsan desestimaron las pretensiones de los demandantes, y pidió al Ministerio de Salud y Bienestar que ajuste el método de uso de la normativa a la autorización del Ministerio de Seguridad de Alimentos y Medicamentos. VitalCare pasó por un periodo de aplazamiento de la evaluación de nuevas tecnologías sanitarias y ahora está en la evaluación principal."
+                "x": "Apple表示，应用会识别令人担忧的问题，并在必要时引导用户转向外部医疗服务提供者或其他资源。据KFF统计，约三分之一的U.S.成年人曾用AI聊天机器人谈论自己的健康。"
               }
             ]
           }
@@ -405,15 +325,15 @@
       }
     },
     {
-      "id": "monument-openevidence-block",
+      "id": "openai-computer-use-health-agents",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "의사용 AI 챗봇에\n병원 대응 엇갈려",
-      "body": "OpenEvidence를 막자 환자 기록 100건 넘게 넣은 의사가 반발했다.",
-      "mini_headline": "의사 AI 챗봇, 병원 대응 갈려",
+      "headline": "OpenAI 에이전트\nCVS·Cigna가 시험",
+      "body": "OpenAI 에이전트가 EHRs와 보험사 포털에서 반복 의료 업무를 맡는다.",
+      "mini_headline": "CVS·Cigna, OpenAI 에이전트 시험",
       "tool": "Medicine",
-      "source": "STAT",
-      "url": "https://www.statnews.com/2026/11/05/doctors-use-ai-chatbots-hipaa-compliance-questions/",
+      "source": "Fierce Healthcare",
+      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/hlth26-cvs-health-cigna-and-ambience-collaborating-openai-test-computer-use",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
@@ -421,173 +341,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_305233727-1024x576.jpeg"
+            "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2219425791.jpg?VersionId=O1OkFR85axRupu_mdYZTS0_LgbsUcqZy",
+            "cap": "CVS Health에 따르면 실제 운영 중인 한 워크플로에서 에이전트가 몇 달 치 밀린 문서 발송을 주말 사이에 처리했다."
           },
           {
             "t": "p",
-            "x": "일부 병원은 규정 준수 위험이 있는 도구를 막고, 다른 병원은 직접 들여온다."
+            "x": "OpenAI가 의료용 컴퓨터 사용(computer-use) 에이전트를 넓힌다. AI가 전자건강기록 시스템과 보험사 포털 같은 소프트웨어를 직접 다루며 반복 수작업을 맡는 방식이다. 에이전트는 사람처럼 화면을 보고 커서를 옮기고 버튼을 누르며 텍스트를 입력한다."
           },
           {
             "t": "p",
-            "x": "South Dakota와 Wyoming에 거점을 둔 의료 시스템 Monument Health는 올해 초 인기 무료 인공지능 도구 OpenEvidence 접근을 막기로 했다. 최고정보책임자 Patrick Woodard에게는 반대 의견이 몇 건 들어왔다."
+            "x": "OpenAI Health AI 책임자 Karan Singhal에 따르면 회사는 CVS Health, Cigna Healthcare, Abridge, Ambience와 진료 의뢰, 사전 승인, 퇴원 계획, 전문의 협진, 케어 매니저 준비 같은 워크플로를 함께 다듬고 있다. 에이전트는 ChatGPT for Healthcare, ChatGPT for Clinicians, OpenAI API에서 쓸 수 있다."
           },
           {
             "t": "p",
-            "x": "헤비 유저인 한 의사도 그중 하나였다. 이 의사는 OpenEvidence에 환자 기록을 백 건 넘게 저장해 두고, 진료 결정에 참고하려고 AI 도구에 입력해 왔다. Woodard는 그만두라고 했다."
+            "x": "OpenAI가 EHR 받은편지함 업무로 GPT-6 Astra를 평가해 보니 검토한 325건 중 99%가 임상적으로 안전하다는 판정을 받았다. 의사 평가 646건 중 93%는 모델이 “매우 도움이 된다” 또는 “극히 도움이 된다”는 쪽이었다."
           },
           {
             "t": "p",
-            "x": "OpenEvidence, Doximity Ask, ChatGPT for Clinicians처럼 임상의 질문에 답하도록 만든 무료 챗봇은 지난 한 해 사이 인기가 부쩍 높아졌다. 수십만 명의 의사가 쓰는데, HIPAA 준수를 내세운 점도 한몫했다. 사용자는 계약서에 서명하면 환자의 보호 대상 건강 정보를 AI와 곧바로 공유할 수 있다. (기사의 나머지는 STAT+ 유료 영역이다.)"
+            "x": "CVS Health는 에이전트에 문서 발송과 진료 의뢰 처리, 전문의 협진 지원을 맡긴다. 한 에이전트는 몇 달 치 밀린 일을 주말 사이에 끝냈다. Cigna는 10개가 넘는 시스템에서 가입자 정보를 끌어오고 Abridge는 APIs가 없는 앱에서 케어 플랜을 다루는 에이전트를 만드는 중이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Health systems split\non doctors' AI chatbots",
-          "body": "Monument Health blocked OpenEvidence, and one objecting doctor had stored over 100 patient records in it.",
-          "mini_headline": "Hospitals split on chatbots",
+          "headline": "CVS, Cigna and Abridge test\nOpenAI computer-use agents",
+          "body": "OpenAI's computer-use agents navigate EHRs and payer portals to take over repetitive manual healthcare tasks.",
+          "mini_headline": "CVS, Cigna test\nOpenAI agents",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_305233727-1024x576.jpeg"
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2219425791.jpg?VersionId=O1OkFR85axRupu_mdYZTS0_LgbsUcqZy",
+                "cap": "CVS Health said that in one production workflow, an agent cleared a months-long document-sending backlog over a weekend."
               },
               {
                 "t": "p",
-                "x": "Some hospitals restrict access if tools present compliance risks. Others bring them in house."
+                "x": "OpenAI is expanding computer-use agents for healthcare, enabling AI to navigate electronic health record systems, payer portals and other software to tackle repetitive and manual tasks. The agents view a screen, move a cursor, click buttons and type text the way a human does."
               },
               {
                 "t": "p",
-                "x": "Earlier this year, Monument Health, the South Dakota and Wyoming-based health system where Patrick Woodard is chief information officer, decided to block access to OpenEvidence, the popular free artificial intelligence tool, and Woodard got a few objections."
+                "x": "Karan Singhal, head of Health AI at OpenAI, said the company is working with CVS Health, Cigna Healthcare, Abridge and Ambience on workflows including referrals, prior authorizations, discharge planning, specialist consults and care manager preparation. Access comes through ChatGPT for Healthcare, ChatGPT for Clinicians and the OpenAI API."
               },
               {
                 "t": "p",
-                "x": "One of them was from a super user. This doctor was storing more than a hundred patient records inside OpenEvidence, and feeding them to the AI tool for help making medical decisions. That would have to end, Woodard told him."
+                "x": "In OpenAI's evaluation of GPT-6 Astra on EHR inbox tasks, 99% of 325 reviewed tasks were rated clinically safe, and physicians rated the model \"very helpful\" or \"extremely helpful\" in 93% of 646 assessments."
               },
               {
                 "t": "p",
-                "x": "In the last year, free chatbots built to answer clinician questions — including OpenEvidence, Doximity Ask, and ChatGPT for Clinicians — have grown in popularity. Hundreds of thousands of doctors use the tools, in part, because they claim to be compliant with HIPAA, allowing users to share a patient’s protected health information directly with the AI after signing an agreement. (The rest of the article is behind STAT+.)"
+                "x": "CVS Health uses the agents to send documents, process referrals and support specialist consults; one agent cleared a months-long backlog over a weekend. Cigna pulls member information from more than 10 systems, and Abridge is building agents for care plans in apps without APIs."
               }
             ]
           }
         },
         "ko": {
-          "headline": "의사용 AI 챗봇에\n병원 대응 엇갈려",
-          "body": "OpenEvidence를 막자 환자 기록 100건 넘게 넣은 의사가 반발했다.",
-          "mini_headline": "의사 AI 챗봇, 병원 대응 갈려",
+          "headline": "OpenAI 에이전트\nCVS·Cigna가 시험",
+          "body": "OpenAI 에이전트가 EHRs와 보험사 포털에서 반복 의료 업무를 맡는다.",
+          "mini_headline": "CVS·Cigna, OpenAI 에이전트 시험",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_305233727-1024x576.jpeg"
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2219425791.jpg?VersionId=O1OkFR85axRupu_mdYZTS0_LgbsUcqZy",
+                "cap": "CVS Health에 따르면 실제 운영 중인 한 워크플로에서 에이전트가 몇 달 치 밀린 문서 발송을 주말 사이에 처리했다."
               },
               {
                 "t": "p",
-                "x": "일부 병원은 규정 준수 위험이 있는 도구를 막고, 다른 병원은 직접 들여온다."
+                "x": "OpenAI가 의료용 컴퓨터 사용(computer-use) 에이전트를 넓힌다. AI가 전자건강기록 시스템과 보험사 포털 같은 소프트웨어를 직접 다루며 반복 수작업을 맡는 방식이다. 에이전트는 사람처럼 화면을 보고 커서를 옮기고 버튼을 누르며 텍스트를 입력한다."
               },
               {
                 "t": "p",
-                "x": "South Dakota와 Wyoming에 거점을 둔 의료 시스템 Monument Health는 올해 초 인기 무료 인공지능 도구 OpenEvidence 접근을 막기로 했다. 최고정보책임자 Patrick Woodard에게는 반대 의견이 몇 건 들어왔다."
+                "x": "OpenAI Health AI 책임자 Karan Singhal에 따르면 회사는 CVS Health, Cigna Healthcare, Abridge, Ambience와 진료 의뢰, 사전 승인, 퇴원 계획, 전문의 협진, 케어 매니저 준비 같은 워크플로를 함께 다듬고 있다. 에이전트는 ChatGPT for Healthcare, ChatGPT for Clinicians, OpenAI API에서 쓸 수 있다."
               },
               {
                 "t": "p",
-                "x": "헤비 유저인 한 의사도 그중 하나였다. 이 의사는 OpenEvidence에 환자 기록을 백 건 넘게 저장해 두고, 진료 결정에 참고하려고 AI 도구에 입력해 왔다. Woodard는 그만두라고 했다."
+                "x": "OpenAI가 EHR 받은편지함 업무로 GPT-6 Astra를 평가해 보니 검토한 325건 중 99%가 임상적으로 안전하다는 판정을 받았다. 의사 평가 646건 중 93%는 모델이 “매우 도움이 된다” 또는 “극히 도움이 된다”는 쪽이었다."
               },
               {
                 "t": "p",
-                "x": "OpenEvidence, Doximity Ask, ChatGPT for Clinicians처럼 임상의 질문에 답하도록 만든 무료 챗봇은 지난 한 해 사이 인기가 부쩍 높아졌다. 수십만 명의 의사가 쓰는데, HIPAA 준수를 내세운 점도 한몫했다. 사용자는 계약서에 서명하면 환자의 보호 대상 건강 정보를 AI와 곧바로 공유할 수 있다. (기사의 나머지는 STAT+ 유료 영역이다.)"
+                "x": "CVS Health는 에이전트에 문서 발송과 진료 의뢰 처리, 전문의 협진 지원을 맡긴다. 한 에이전트는 몇 달 치 밀린 일을 주말 사이에 끝냈다. Cigna는 10개가 넘는 시스템에서 가입자 정보를 끌어오고 Abridge는 APIs가 없는 앱에서 케어 플랜을 다루는 에이전트를 만드는 중이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "医師のAIチャットボット\n病院で対応分かれる",
-          "body": "OpenEvidence遮断に、患者記録100件超を入れた医師が反発した。",
-          "mini_headline": "医師AIチャット、病院で割れる",
+          "headline": "OpenAI操作エージェント\nCVSやCignaが試験",
+          "body": "OpenAIのエージェントがEHRsや保険者ポータルを操作し、反復的な医療事務を担う。",
+          "mini_headline": "CVSやCignaがOpenAIエージェントを試す",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_305233727-1024x576.jpeg"
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2219425791.jpg?VersionId=O1OkFR85axRupu_mdYZTS0_LgbsUcqZy",
+                "cap": "CVS Healthによると、ある本番ワークフローでエージェントが数カ月分たまっていた文書送付の滞留を週末のうちに解消した。"
               },
               {
                 "t": "p",
-                "x": "コンプライアンス上のリスクがあればアクセスを制限する病院がある。一方で、自前で導入する病院もある。"
+                "x": "OpenAIは医療向けのコンピューター操作(computer-use)エージェントを拡充し、AIが電子カルテシステムや保険者ポータルなどのソフトウェアを操作して、反復的な手作業をこなせるようにする。エージェントは人間と同じように画面を見て、カーソルを動かし、ボタンをクリックし、文字を入力する。"
               },
               {
                 "t": "p",
-                "x": "今年初め、South DakotaとWyomingを拠点とする医療システムMonument Healthは、人気の無料人工知能ツールOpenEvidenceへのアクセスを遮断することを決めた。同組織の最高情報責任者であるPatrick Woodardのもとには、いくつかの反対意見が寄せられた。"
+                "x": "OpenAIでHealth AIを率いるKaran Singhalによると、同社はCVS Health、Cigna Healthcare、Abridge、Ambienceと、紹介、事前承認、退院計画、専門医コンサルト、ケアマネジャーの準備などのワークフローに取り組んでいる。ChatGPT for Healthcare、ChatGPT for Clinicians、OpenAI APIを通じて利用できる。"
               },
               {
                 "t": "p",
-                "x": "そのひとつはヘビーユーザーからだった。この医師はOpenEvidenceの中に百件を超える患者記録を保存し、医療上の判断の助けとしてAIツールに入力していた。それはやめなければならない、とWoodardは伝えた。"
+                "x": "OpenAIがEHRの受信トレイ業務でGPT-6 Astraを評価したところ、レビューした325件のタスクの99%が臨床的に安全と判定され、医師は646件の評価のうち93%でモデルを「非常に役立つ」または「極めて役立つ」と評価した。"
               },
               {
                 "t": "p",
-                "x": "この一年で、OpenEvidence、Doximity Ask、ChatGPT for Cliniciansなど、臨床医の質問に答えるために作られた無料チャットボットの人気が高まった。数十万人の医師がこれらのツールを使っている。その一因は、各ツールがHIPAA準拠をうたい、契約に署名すれば患者の保護対象医療情報をAIと直接共有できるとしている点にある。(記事の続きはSTAT+の会員限定である。)"
+                "x": "CVS Healthはエージェントを使って文書の送付、紹介の処理、専門医コンサルトの支援を行っており、あるエージェントは数カ月分の滞留を週末のうちに解消した。Cignaは10を超えるシステムから会員情報を引き出し、AbridgeはAPIsのないアプリでケアプランを扱うエージェントを開発している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "医生用AI聊天机器人\n医疗系统态度分化",
-          "body": "Monument Health封禁OpenEvidence，有医生曾存入100多份病历。",
-          "mini_headline": "医院对AI聊天机器人分歧",
+          "headline": "CVS、Cigna等测试\nOpenAI电脑操作智能体",
+          "body": "OpenAI的电脑操作智能体可操作EHRs和支付方门户，接手重复的医疗手工任务。",
+          "mini_headline": "CVS、Cigna测试OpenAI智能体",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_305233727-1024x576.jpeg"
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2219425791.jpg?VersionId=O1OkFR85axRupu_mdYZTS0_LgbsUcqZy",
+                "cap": "CVS Health表示，在一个实际生产工作流中，一个智能体在一个周末内清理了积压数月的文件发送任务。"
               },
               {
                 "t": "p",
-                "x": "一些医院在工具存在合规风险时会限制访问，另一些则将其引入内部。"
+                "x": "OpenAI正在扩大面向医疗行业的电脑操作（computer-use）智能体，让AI能够操作电子健康记录系统、支付方门户及其他软件，处理重复性的手工任务。这些智能体像人一样查看屏幕、移动光标、点击按钮并输入文字。"
               },
               {
                 "t": "p",
-                "x": "今年早些时候，总部位于South Dakota和Wyoming的医疗系统Monument Health决定封禁热门免费人工智能工具OpenEvidence。该系统首席信息官Patrick Woodard随后收到了几条反对意见。"
+                "x": "OpenAI的Health AI负责人Karan Singhal表示，公司正与CVS Health、Cigna Healthcare、Abridge和Ambience合作，覆盖转诊、事前授权、出院计划、专科会诊和护理经理准备等工作流。用户可通过ChatGPT for Healthcare、ChatGPT for Clinicians和OpenAI API使用。"
               },
               {
                 "t": "p",
-                "x": "其中一条来自一位重度用户。这名医生在OpenEvidence中存储了一百多份患者病历，并把它们输入这款AI工具，以辅助医疗决策。Woodard告诉他，这种做法必须停止。"
+                "x": "在OpenAI对GPT-6 Astra处理EHR收件箱任务的评估中，经审核的325项任务中有99%被评为临床安全；在646次评估中，医生有93%将该模型评为“非常有帮助”或“极其有帮助”。"
               },
               {
                 "t": "p",
-                "x": "过去一年里，专为回答临床医生问题而打造的免费聊天机器人越来越受欢迎，包括OpenEvidence、Doximity Ask和ChatGPT for Clinicians。数十万名医生在使用这些工具，部分原因是它们声称符合HIPAA，用户签署协议后即可将患者受保护的健康信息直接分享给AI。（文章其余部分为STAT+付费内容。）"
+                "x": "CVS Health用这些智能体发送文件、处理转诊并支持专科会诊；其中一个智能体在一个周末内清理了积压数月的任务。Cigna从10多个系统中调取会员信息，Abridge则在为没有APIs的应用构建处理护理计划的智能体。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Hospitales divididos ante los\nchatbots de AI para médicos",
-          "body": "Monument Health bloqueó OpenEvidence, y un médico que se opuso guardaba en ella más de 100 historiales de pacientes.",
-          "mini_headline": "Hospitales divididos por chatbots",
+          "headline": "CVS, Cigna y Abridge prueban\nagentes computer-use de OpenAI",
+          "body": "Los agentes computer-use de OpenAI operan EHRs y portales de aseguradoras para asumir tareas sanitarias repetitivas.",
+          "mini_headline": "CVS y Cigna prueban agentes de OpenAI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_305233727-1024x576.jpeg"
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2219425791.jpg?VersionId=O1OkFR85axRupu_mdYZTS0_LgbsUcqZy",
+                "cap": "CVS Health dijo que, en un flujo de trabajo en producción, un agente eliminó en un fin de semana un retraso de meses en el envío de documentos."
               },
               {
                 "t": "p",
-                "x": "Algunos hospitales restringen el acceso si las herramientas suponen riesgos de cumplimiento normativo. Otros las incorporan internamente."
+                "x": "OpenAI amplía sus agentes computer-use para el sector sanitario, que permiten a la AI navegar por sistemas de historia clínica electrónica, portales de aseguradoras y otro software para resolver tareas repetitivas y manuales. Los agentes ven una pantalla, mueven un cursor, hacen clic en botones y escriben texto como lo haría una persona."
               },
               {
                 "t": "p",
-                "x": "A principios de este año, Monument Health, el sistema de salud con sede en South Dakota y Wyoming donde Patrick Woodard es director de sistemas de información, decidió bloquear el acceso a OpenEvidence, la popular herramienta gratuita de inteligencia artificial, y Woodard recibió algunas objeciones."
+                "x": "Karan Singhal, responsable de Health AI en OpenAI, dijo que la compañía trabaja con CVS Health, Cigna Healthcare, Abridge y Ambience en flujos de trabajo como derivaciones, autorizaciones previas, planificación del alta, interconsultas con especialistas y preparación de gestores de casos. El acceso se ofrece a través de ChatGPT for Healthcare, ChatGPT for Clinicians y la OpenAI API."
               },
               {
                 "t": "p",
-                "x": "Una de ellas vino de un usuario intensivo. Este médico guardaba más de cien historiales de pacientes dentro de OpenEvidence y se los proporcionaba a la herramienta de AI para que lo ayudara a tomar decisiones médicas. Eso tendría que terminar, le dijo Woodard."
+                "x": "En la evaluación de OpenAI de GPT-6 Astra en tareas de la bandeja de entrada de la EHR, el 99% de 325 tareas revisadas se calificó como clínicamente seguro, y los médicos calificaron el modelo como “muy útil” o “extremadamente útil” en el 93% de 646 evaluaciones."
               },
               {
                 "t": "p",
-                "x": "En el último año han ganado popularidad los chatbots gratuitos creados para responder preguntas de los clínicos, entre ellos OpenEvidence, Doximity Ask y ChatGPT for Clinicians. Cientos de miles de médicos usan estas herramientas, en parte porque afirman cumplir con HIPAA, lo que permite a los usuarios compartir la información de salud protegida de un paciente directamente con la AI tras firmar un acuerdo. (El resto del artículo está reservado a STAT+.)"
+                "x": "CVS Health usa los agentes para enviar documentos, tramitar derivaciones y apoyar interconsultas con especialistas; un agente eliminó en un fin de semana un retraso acumulado de meses. Cigna extrae información de afiliados de más de 10 sistemas, y Abridge desarrolla agentes para planes de cuidados en apps sin APIs."
               }
             ]
           }
@@ -595,121 +521,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "의사용 AI 챗봇 두고\n병원들 엇갈린 대응",
-          "body": "OpenEvidence 차단에 환자 기록 100건 넘게 넣은 의사가 반발했다.",
-          "mini_headline": "의사 AI 챗봇, 병원 대응 갈려",
+          "headline": "OpenAI 에이전트\nCVS·Cigna가 시험",
+          "body": "OpenAI 에이전트가 EHRs와 보험사 포털에서 반복 의료 업무를 맡는다.",
+          "mini_headline": "CVS·Cigna, OpenAI 에이전트 시험",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_305233727-1024x576.jpeg"
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2219425791.jpg?VersionId=O1OkFR85axRupu_mdYZTS0_LgbsUcqZy",
+                "cap": "CVS Health는 한 실제 운영 워크플로에서 에이전트가 몇 달 치 쌓인 문서 발송 적체를 주말 사이에 해소했다고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "일부 병원은 도구에 규정 준수 위험이 있으면 접근을 막는다. 다른 병원은 이를 자체적으로 들여온다."
+                "x": "OpenAI가 의료용 컴퓨터 사용(computer-use) 에이전트를 확대해, AI가 전자건강기록 시스템과 보험사 포털 등 소프트웨어를 다루며 반복적인 수작업을 처리하게 한다. 에이전트는 사람처럼 화면을 보고, 커서를 움직이고, 버튼을 누르고, 텍스트를 입력한다."
               },
               {
                 "t": "p",
-                "x": "올해 초 South Dakota와 Wyoming에 기반을 둔 의료 시스템 Monument Health는 인기 있는 무료 인공지능 도구 OpenEvidence의 접근을 막기로 했다. 이곳의 최고정보책임자인 Patrick Woodard는 몇 건의 반대 의견을 받았다."
+                "x": "OpenAI의 Health AI 책임자 Karan Singhal은 CVS Health, Cigna Healthcare, Abridge, Ambience와 함께 진료 의뢰, 사전 승인, 퇴원 계획, 전문의 협진, 케어 매니저 준비 등의 워크플로를 작업하고 있다고 말했다. ChatGPT for Healthcare, ChatGPT for Clinicians, OpenAI API로 이용할 수 있다."
               },
               {
                 "t": "p",
-                "x": "그중 하나는 헤비 유저에게서 왔다. 이 의사는 OpenEvidence 안에 환자 기록을 백 건 넘게 저장해 두고, 진료 결정에 도움을 받으려고 이를 AI 도구에 입력하고 있었다. Woodard는 그에게 이를 그만둬야 한다고 말했다."
+                "x": "OpenAI가 EHR 받은편지함 업무에서 GPT-6 Astra를 평가한 결과, 검토한 325건 중 99%가 임상적으로 안전하다는 평가를 받았고, 의사들은 646건의 평가 중 93%에서 모델을 “매우 도움이 된다” 또는 “극히 도움이 된다”고 평가했다."
               },
               {
                 "t": "p",
-                "x": "지난 한 해 동안 OpenEvidence, Doximity Ask, ChatGPT for Clinicians 등 임상의의 질문에 답하도록 만든 무료 챗봇의 인기가 높아졌다. 수십만 명의 의사가 이 도구를 쓰는데, 이 도구들이 HIPAA를 준수한다고 내세우는 점도 한 이유다. 사용자는 계약서에 서명한 뒤 환자의 보호 대상 건강 정보를 AI와 바로 공유할 수 있다. (기사의 나머지는 STAT+ 유료 영역이다.)"
+                "x": "CVS Health는 에이전트로 문서를 발송하고 진료 의뢰를 처리하며 전문의 협진을 지원한다. 한 에이전트는 몇 달 치 적체를 주말 사이에 해소했다. Cigna는 10개가 넘는 시스템에서 가입자 정보를 가져오고, Abridge는 APIs가 없는 앱에서 케어 플랜을 다루는 에이전트를 만들고 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "医師のAIチャットボット\n病院で対応分かれる",
-          "body": "OpenEvidence遮断に、患者記録100件超を入れた医師が反発した。",
-          "mini_headline": "医師AIチャット、病院で割れる",
+          "headline": "OpenAI操作エージェント\nCVSやCignaが試験",
+          "body": "OpenAIのエージェントがEHRsや保険者ポータルを操作し、反復的な医療事務を担う。",
+          "mini_headline": "CVSやCignaがOpenAIエージェントを試す",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_305233727-1024x576.jpeg"
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2219425791.jpg?VersionId=O1OkFR85axRupu_mdYZTS0_LgbsUcqZy",
+                "cap": "CVS Healthによると、ある本番ワークフローでエージェントが数カ月分たまっていた文書送付の滞留を週末のうちに解消した。"
               },
               {
                 "t": "p",
-                "x": "コンプライアンス上のリスクがあればアクセスを制限する病院がある。一方で、自前で導入する病院もある。"
+                "x": "OpenAIは医療向けのコンピューター操作(computer-use)エージェントを拡充し、AIが電子カルテシステムや保険者ポータルなどのソフトウェアを操作して、反復的な手作業をこなせるようにする。エージェントは人間と同じように画面を見て、カーソルを動かし、ボタンをクリックし、文字を入力する。"
               },
               {
                 "t": "p",
-                "x": "今年初め、South DakotaとWyomingを拠点とする医療システムMonument Healthは、人気の無料人工知能ツールOpenEvidenceへのアクセスを遮断することを決めた。同組織の最高情報責任者であるPatrick Woodardのもとには、いくつかの反対意見が寄せられた。"
+                "x": "OpenAIでHealth AIを率いるKaran Singhalによると、同社はCVS Health、Cigna Healthcare、Abridge、Ambienceと、紹介、事前承認、退院計画、専門医コンサルト、ケアマネジャーの準備などのワークフローに取り組んでいる。ChatGPT for Healthcare、ChatGPT for Clinicians、OpenAI APIを通じて利用できる。"
               },
               {
                 "t": "p",
-                "x": "そのひとつはヘビーユーザーからだった。この医師はOpenEvidenceの中に百件を超える患者記録を保存し、医療上の判断の助けとしてAIツールに入力していた。それはやめなければならない、とWoodardは伝えた。"
+                "x": "OpenAIがEHRの受信トレイ業務でGPT-6 Astraを評価したところ、レビューした325件のタスクの99%が臨床的に安全と判定され、医師は646件の評価のうち93%でモデルを「非常に役立つ」または「極めて役立つ」と評価した。"
               },
               {
                 "t": "p",
-                "x": "この一年で、OpenEvidence、Doximity Ask、ChatGPT for Cliniciansなど、臨床医の質問に答えるために作られた無料チャットボットの人気が高まった。数十万人の医師がこれらのツールを使っている。その一因は、各ツールがHIPAA準拠をうたい、契約に署名すれば患者の保護対象医療情報をAIと直接共有できるとしている点にある。(記事の続きはSTAT+の会員限定である。)"
+                "x": "CVS Healthはエージェントを使って文書の送付、紹介の処理、専門医コンサルトの支援を行っており、あるエージェントは数カ月分の滞留を週末のうちに解消した。Cignaは10を超えるシステムから会員情報を引き出し、AbridgeはAPIsのないアプリでケアプランを扱うエージェントを開発している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "医生用AI聊天机器人\n医疗系统态度分化",
-          "body": "Monument Health封禁OpenEvidence，有医生曾存入100多份病历。",
-          "mini_headline": "医院对AI聊天机器人分歧",
+          "headline": "CVS、Cigna等测试\nOpenAI电脑操作智能体",
+          "body": "OpenAI的电脑操作智能体可操作EHRs和支付方门户，接手重复的医疗手工任务。",
+          "mini_headline": "CVS、Cigna测试OpenAI智能体",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_305233727-1024x576.jpeg"
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2219425791.jpg?VersionId=O1OkFR85axRupu_mdYZTS0_LgbsUcqZy",
+                "cap": "CVS Health表示，在一个实际生产工作流中，一个智能体在一个周末内清理了积压数月的文件发送任务。"
               },
               {
                 "t": "p",
-                "x": "一些医院在工具存在合规风险时会限制访问，另一些则将其引入内部。"
+                "x": "OpenAI正在扩大面向医疗行业的电脑操作（computer-use）智能体，让AI能够操作电子健康记录系统、支付方门户及其他软件，处理重复性的手工任务。这些智能体像人一样查看屏幕、移动光标、点击按钮并输入文字。"
               },
               {
                 "t": "p",
-                "x": "今年早些时候，总部位于South Dakota和Wyoming的医疗系统Monument Health决定封禁热门免费人工智能工具OpenEvidence。该系统首席信息官Patrick Woodard随后收到了几条反对意见。"
+                "x": "OpenAI的Health AI负责人Karan Singhal表示，公司正与CVS Health、Cigna Healthcare、Abridge和Ambience合作，覆盖转诊、事前授权、出院计划、专科会诊和护理经理准备等工作流。用户可通过ChatGPT for Healthcare、ChatGPT for Clinicians和OpenAI API使用。"
               },
               {
                 "t": "p",
-                "x": "其中一条来自一位重度用户。这名医生在OpenEvidence中存储了一百多份患者病历，并把它们输入这款AI工具，以辅助医疗决策。Woodard告诉他，这种做法必须停止。"
+                "x": "在OpenAI对GPT-6 Astra处理EHR收件箱任务的评估中，经审核的325项任务中有99%被评为临床安全；在646次评估中，医生有93%将该模型评为“非常有帮助”或“极其有帮助”。"
               },
               {
                 "t": "p",
-                "x": "过去一年里，专为回答临床医生问题而打造的免费聊天机器人越来越受欢迎，包括OpenEvidence、Doximity Ask和ChatGPT for Clinicians。数十万名医生在使用这些工具，部分原因是它们声称符合HIPAA，用户签署协议后即可将患者受保护的健康信息直接分享给AI。（文章其余部分为STAT+付费内容。）"
+                "x": "CVS Health用这些智能体发送文件、处理转诊并支持专科会诊；其中一个智能体在一个周末内清理了积压数月的任务。Cigna从10多个系统中调取会员信息，Abridge则在为没有APIs的应用构建处理护理计划的智能体。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Hospitales divididos ante los\nchatbots de AI para médicos",
-          "body": "Monument Health bloqueó OpenEvidence, y un médico que se opuso guardaba en ella más de 100 historiales de pacientes.",
-          "mini_headline": "Hospitales divididos por chatbots",
+          "headline": "CVS, Cigna y Abridge prueban\nagentes computer-use de OpenAI",
+          "body": "Los agentes computer-use de OpenAI operan EHRs y portales de aseguradoras para asumir tareas sanitarias repetitivas.",
+          "mini_headline": "CVS y Cigna prueban agentes de OpenAI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_305233727-1024x576.jpeg"
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2219425791.jpg?VersionId=O1OkFR85axRupu_mdYZTS0_LgbsUcqZy",
+                "cap": "CVS Health dijo que, en un flujo de trabajo en producción, un agente eliminó en un fin de semana un retraso de meses en el envío de documentos."
               },
               {
                 "t": "p",
-                "x": "Algunos hospitales restringen el acceso si las herramientas suponen riesgos de cumplimiento normativo. Otros las incorporan internamente."
+                "x": "OpenAI amplía sus agentes computer-use para el sector sanitario, que permiten a la AI navegar por sistemas de historia clínica electrónica, portales de aseguradoras y otro software para resolver tareas repetitivas y manuales. Los agentes ven una pantalla, mueven un cursor, hacen clic en botones y escriben texto como lo haría una persona."
               },
               {
                 "t": "p",
-                "x": "A principios de este año, Monument Health, el sistema de salud con sede en South Dakota y Wyoming donde Patrick Woodard es director de sistemas de información, decidió bloquear el acceso a OpenEvidence, la popular herramienta gratuita de inteligencia artificial, y Woodard recibió algunas objeciones."
+                "x": "Karan Singhal, responsable de Health AI en OpenAI, dijo que la compañía trabaja con CVS Health, Cigna Healthcare, Abridge y Ambience en flujos de trabajo como derivaciones, autorizaciones previas, planificación del alta, interconsultas con especialistas y preparación de gestores de casos. El acceso se ofrece a través de ChatGPT for Healthcare, ChatGPT for Clinicians y la OpenAI API."
               },
               {
                 "t": "p",
-                "x": "Una de ellas vino de un usuario intensivo. Este médico guardaba más de cien historiales de pacientes dentro de OpenEvidence y se los proporcionaba a la herramienta de AI para que lo ayudara a tomar decisiones médicas. Eso tendría que terminar, le dijo Woodard."
+                "x": "En la evaluación de OpenAI de GPT-6 Astra en tareas de la bandeja de entrada de la EHR, el 99% de 325 tareas revisadas se calificó como clínicamente seguro, y los médicos calificaron el modelo como “muy útil” o “extremadamente útil” en el 93% de 646 evaluaciones."
               },
               {
                 "t": "p",
-                "x": "En el último año han ganado popularidad los chatbots gratuitos creados para responder preguntas de los clínicos, entre ellos OpenEvidence, Doximity Ask y ChatGPT for Clinicians. Cientos de miles de médicos usan estas herramientas, en parte porque afirman cumplir con HIPAA, lo que permite a los usuarios compartir la información de salud protegida de un paciente directamente con la AI tras firmar un acuerdo. (El resto del artículo está reservado a STAT+.)"
+                "x": "CVS Health usa los agentes para enviar documentos, tramitar derivaciones y apoyar interconsultas con especialistas; un agente eliminó en un fin de semana un retraso acumulado de meses. Cigna extrae información de afiliados de más de 10 sistemas, y Abridge desarrolla agentes para planes de cuidados en apps sin APIs."
               }
             ]
           }
@@ -717,653 +647,271 @@
       }
     },
     {
-      "id": "neardoc-ai-charting-clinics",
-      "source_lang": "ko",
-      "eyebrow": "AI NEWS",
-      "headline": "AI 차팅 니어닥\n정신과·소청과 호평",
-      "body": "니어닥은 진료 대화로 SOAP 기록을 실시간 작성해 차팅 시간을 1분대로 줄였다.",
-      "mini_headline": "니어닥 AI 차팅 호평",
-      "tool": "Medicine",
-      "source": "청년의사",
-      "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044563",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044563_3048547_938.png",
-            "cap": "스튜디오키코 '니어닥'의 이창민 최고의료책임자(CMO)가 최근 청년의사와 만나 인터뷰를 하고 있다(ⓒ청년의사)."
-          },
-          {
-            "t": "p",
-            "x": "\"환자와의 대화량이 가장 많은 정신건강의학과, 소아 환자와 보호자를 동시에 대해야 하는 소아청소년과에서 특히 호평이 많았죠.\" 니어닥은 AI 기반 전자의무기록(EMR) 작성 보조 서비스로, 의사와 환자의 대화를 실시간으로 이해하며 증상, 진찰 소견, 진단과 치료 계획(SOAP)을 정리해 준다. 사용자의 차팅 스타일이 반영되는 '개인화 차팅'이 강점이다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044563_3048548_2030.png",
-            "cap": "니어닥 활용 예시. 의료진과 환자간의 대화가 기록돼 있다(자료 제공: 이창민 CMO)."
-          },
-          {
-            "t": "p",
-            "x": "정형외과 전문의인 이 CMO는 \"전공의 시절 항상 병동에 앉아 1~2시간씩 밀린 의무기록을 정리했다\"며 개발 참여 계기를 설명했다. 스튜디오키코에 따르면 니어닥을 사용한 의사 120명 중 98%가 차팅에 만족했고, 무료 체험에서 유료로 전환한 비율은 70%에 달했다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044563_3048549_2124.png",
-            "cap": "니어닥 활용 예시. 의료진과 환자간의 대화를 바탕으로 SOAP가 정리돼 있다(자료 제공: 이창민 CMO)."
-          },
-          {
-            "t": "p",
-            "x": "니어닥 사용 의료진(120명)의 EMR 작성 시간은 도입 전 평균 3분 48초에서 도입 후 평균 약 1분 8초로 약 70% 단축됐다. 환자 100명 대상 조사에서 진료 만족도는 약 28%p 상승했다. 출시 5개월 만에 도입 의료기관 500곳을 돌파했고 누적 진료 건수는 약 80만건이다."
-          },
-          {
-            "t": "p",
-            "x": "원본 음성은 텍스트로 변환한 즉시 파기되며, 평소 작성하던 차트 데이터를 입력하면 니어닥이 차팅 스타일을 분석해 학습한다. 스튜디오키코는 연내 국공립병원 등과 개념검증(PoC)을 거쳐 엔터프라이즈 모듈을 선보일 계획이다."
-          }
-        ]
-      },
-      "text": {
-        "ko": {
-          "headline": "AI 차팅 니어닥\n정신과·소청과 호평",
-          "body": "니어닥은 진료 대화로 SOAP 기록을 실시간 작성해 차팅 시간을 1분대로 줄였다.",
-          "mini_headline": "니어닥 AI 차팅 호평",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044563_3048547_938.png",
-                "cap": "스튜디오키코 '니어닥'의 이창민 최고의료책임자(CMO)가 최근 청년의사와 만나 인터뷰를 하고 있다(ⓒ청년의사)."
-              },
-              {
-                "t": "p",
-                "x": "\"환자와의 대화량이 가장 많은 정신건강의학과, 소아 환자와 보호자를 동시에 대해야 하는 소아청소년과에서 특히 호평이 많았죠.\" 니어닥은 AI 기반 전자의무기록(EMR) 작성 보조 서비스로, 의사와 환자의 대화를 실시간으로 이해하며 증상, 진찰 소견, 진단과 치료 계획(SOAP)을 정리해 준다. 사용자의 차팅 스타일이 반영되는 '개인화 차팅'이 강점이다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044563_3048548_2030.png",
-                "cap": "니어닥 활용 예시. 의료진과 환자간의 대화가 기록돼 있다(자료 제공: 이창민 CMO)."
-              },
-              {
-                "t": "p",
-                "x": "정형외과 전문의인 이 CMO는 \"전공의 시절 항상 병동에 앉아 1~2시간씩 밀린 의무기록을 정리했다\"며 개발 참여 계기를 설명했다. 스튜디오키코에 따르면 니어닥을 사용한 의사 120명 중 98%가 차팅에 만족했고, 무료 체험에서 유료로 전환한 비율은 70%에 달했다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044563_3048549_2124.png",
-                "cap": "니어닥 활용 예시. 의료진과 환자간의 대화를 바탕으로 SOAP가 정리돼 있다(자료 제공: 이창민 CMO)."
-              },
-              {
-                "t": "p",
-                "x": "니어닥 사용 의료진(120명)의 EMR 작성 시간은 도입 전 평균 3분 48초에서 도입 후 평균 약 1분 8초로 약 70% 단축됐다. 환자 100명 대상 조사에서 진료 만족도는 약 28%p 상승했다. 출시 5개월 만에 도입 의료기관 500곳을 돌파했고 누적 진료 건수는 약 80만건이다."
-              },
-              {
-                "t": "p",
-                "x": "원본 음성은 텍스트로 변환한 즉시 파기되며, 평소 작성하던 차트 데이터를 입력하면 니어닥이 차팅 스타일을 분석해 학습한다. 스튜디오키코는 연내 국공립병원 등과 개념검증(PoC)을 거쳐 엔터프라이즈 모듈을 선보일 계획이다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AIカルテ作成NearDoc\n精神科・小児科で好評",
-          "body": "NearDocは診療会話からSOAP記録をリアルタイム作成し、記録時間を1分台に短縮した。",
-          "mini_headline": "NearDoc AIカルテ好評",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044563_3048547_938.png",
-                "cap": "Studio Kiko「NearDoc」の李昌珉最高医療責任者(CMO)が最近、青年医師のインタビューに応じている(ⓒ青年医師)。"
-              },
-              {
-                "t": "p",
-                "x": "「患者との会話量が最も多い精神健康医学科や、小児患者と保護者に同時に対応しなければならない小児青少年科で特に好評でした」。NearDocはAIベースの電子カルテ(EMR)作成支援サービスで、医師と患者の会話をリアルタイムで理解し、症状、診察所見、診断と治療計画(SOAP)を整理する。ユーザーのカルテ記載スタイルを反映する「パーソナライズドチャーティング」が強みだ。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044563_3048548_2030.png",
-                "cap": "NearDocの活用例。医療者と患者の会話が記録されている(資料提供:李昌珉CMO)。"
-              },
-              {
-                "t": "p",
-                "x": "整形外科専門医である李CMOは「研修医時代はいつも病棟に座って、1〜2時間ずつたまったカルテを整理していた」と開発に加わったきっかけを語った。Studio Kikoによると、NearDocを使った医師120人のうち98%がカルテ作成に満足し、無料体験から有料への転換率は70%に達した。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044563_3048549_2124.png",
-                "cap": "NearDocの活用例。医療者と患者の会話をもとにSOAPが整理されている(資料提供:李昌珉CMO)。"
-              },
-              {
-                "t": "p",
-                "x": "NearDocを使う医療者(120人)のEMR作成時間は、導入前の平均3分48秒から導入後は平均約1分8秒となり、約70%短縮された。患者100人を対象にした調査では、診療満足度が約28%p上昇した。発売から5カ月で導入医療機関は500カ所を突破し、累計診療件数は約80万件に上る。"
-              },
-              {
-                "t": "p",
-                "x": "元の音声はテキストに変換した直後に破棄され、普段書いているカルテデータを入力すると、NearDocがカルテ記載スタイルを分析して学習する。Studio Kikoは年内に国公立病院などとの概念実証(PoC)を経て、エンタープライズ向けモジュールを公開する計画だ。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "AI病历助手NearDoc\n获精神科、儿科好评",
-          "body": "NearDoc根据诊疗对话实时生成SOAP记录，把病历时间缩至1分钟出头。",
-          "mini_headline": "NearDoc AI病历获好评",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044563_3048547_938.png",
-                "cap": "Studio Kiko“NearDoc”首席医疗官(CMO)李昌珉近日接受《青年医师》采访(ⓒ青年医师)。"
-              },
-              {
-                "t": "p",
-                "x": "“在与患者对话量最大的精神健康医学科，以及需要同时面对儿童患者和监护人的儿童青少年科，好评尤其多。”NearDoc是一款基于AI的电子病历(EMR)书写辅助服务，能实时理解医生与患者的对话，整理出症状、查体所见、诊断和治疗计划(SOAP)。其优势在于能体现用户书写风格的“个性化病历书写”。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044563_3048548_2030.png",
-                "cap": "NearDoc使用示例，记录了医护人员与患者之间的对话(资料提供：李昌珉CMO)。"
-              },
-              {
-                "t": "p",
-                "x": "身为骨科专科医生的李CMO谈到参与开发的契机时说：“当住院医师时，我总是坐在病房里，每次花1到2个小时整理积压的病历。”据Studio Kiko介绍，使用NearDoc的120名医生中有98%对病历书写感到满意，从免费试用转为付费的比例达到70%。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044563_3048549_2124.png",
-                "cap": "NearDoc使用示例，根据医护人员与患者的对话整理出SOAP(资料提供：李昌珉CMO)。"
-              },
-              {
-                "t": "p",
-                "x": "使用NearDoc的医护人员(120名)书写EMR的时间，从引入前平均3分48秒缩短到引入后平均约1分8秒，缩短约70%。在针对100名患者的调查中，诊疗满意度上升约28%p。上线5个月，引入的医疗机构突破500家，累计诊疗约80万次。"
-              },
-              {
-                "t": "p",
-                "x": "原始语音在转换为文本后立即销毁；输入平时书写的病历数据后，NearDoc会分析并学习用户的书写风格。Studio Kiko计划年内与国立和公立医院等开展概念验证(PoC)，随后推出企业版模块。"
-              }
-            ]
-          }
-        },
-        "en": {
-          "headline": "AI charting tool Neardoc\nPraised in psych and pediatrics",
-          "body": "Neardoc writes SOAP notes in real time from consultation dialogue, cutting charting time to about 1 minute.",
-          "mini_headline": "Neardoc AI charting praised",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044563_3048547_938.png",
-                "cap": "Lee Chang-min, chief medical officer (CMO) of Studio Kiko's 'Neardoc', in a recent interview with Korean Doctors' Weekly (ⓒKorean Doctors' Weekly)."
-              },
-              {
-                "t": "p",
-                "x": "\"We got especially strong praise from psychiatry, where conversations with patients are the longest, and from pediatrics, where doctors deal with child patients and guardians at the same time.\" Neardoc is an AI-based electronic medical record (EMR) writing assistant that understands doctor-patient conversations in real time and organizes symptoms, examination findings, diagnosis and treatment plan (SOAP). Its strength is 'personalized charting' that reflects each user's charting style."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044563_3048548_2030.png",
-                "cap": "An example of Neardoc in use, with the conversation between clinician and patient recorded (source: CMO Lee Chang-min)."
-              },
-              {
-                "t": "p",
-                "x": "CMO Lee, an orthopedic surgeon, explained why he joined the development: \"As a resident, I always sat in the ward for 1~2 hours catching up on overdue medical records.\" According to Studio Kiko, 98% of the 120 doctors who used Neardoc were satisfied with its charting, and the conversion rate from free trial to paid reached 70%."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044563_3048549_2124.png",
-                "cap": "An example of Neardoc in use, with a SOAP summary based on the conversation between clinician and patient (source: CMO Lee Chang-min)."
-              },
-              {
-                "t": "p",
-                "x": "For the clinicians using Neardoc (120 people), EMR writing time fell by about 70%, from an average of 3 minutes 48 seconds before adoption to about 1 minute 8 seconds after. In a survey of 100 patients, consultation satisfaction rose by about 28%p. Within 5 months of launch, it passed 500 adopting medical institutions, with about 800,000 cumulative consultations."
-              },
-              {
-                "t": "p",
-                "x": "The original audio is destroyed as soon as it is converted to text, and when users input the chart data they usually write, Neardoc analyzes and learns their charting style. Studio Kiko plans to release an enterprise module within the year after proof-of-concept (PoC) trials with national and public hospitals and others."
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Elogian el charting AI Neardoc\nen psiquiatría y pediatría",
-          "body": "Neardoc redacta notas SOAP en tiempo real a partir de la consulta y reduce el charting a 1 minuto y poco más.",
-          "mini_headline": "Elogios al charting AI de Neardoc",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044563_3048547_938.png",
-                "cap": "Lee Chang-min, director médico (CMO) de 'Neardoc' de Studio Kiko, durante una entrevista reciente con Korean Doctors' Weekly (ⓒKorean Doctors' Weekly)."
-              },
-              {
-                "t": "p",
-                "x": "\"Recibimos especialmente buenas valoraciones en psiquiatría, donde la conversación con el paciente es más extensa, y en pediatría, donde hay que atender a la vez al niño y a su tutor.\" Neardoc es un servicio de apoyo basado en AI para redactar la historia clínica electrónica (EMR): comprende en tiempo real la conversación entre médico y paciente y organiza síntomas, hallazgos de la exploración, diagnóstico y plan de tratamiento (SOAP). Su punto fuerte es el 'charting personalizado', que refleja el estilo de cada usuario."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044563_3048548_2030.png",
-                "cap": "Ejemplo de uso de Neardoc, con la conversación entre el personal médico y el paciente registrada (fuente: CMO Lee Chang-min)."
-              },
-              {
-                "t": "p",
-                "x": "El CMO Lee, especialista en ortopedia, explicó por qué se sumó al desarrollo: \"Cuando era residente, siempre me sentaba en la planta 1~2 horas para poner al día los registros médicos atrasados\". Según Studio Kiko, el 98% de los 120 médicos que usaron Neardoc quedaron satisfechos con el charting, y la tasa de conversión de la prueba gratuita al pago alcanzó el 70%."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044563_3048549_2124.png",
-                "cap": "Ejemplo de uso de Neardoc, con el SOAP organizado a partir de la conversación entre el personal médico y el paciente (fuente: CMO Lee Chang-min)."
-              },
-              {
-                "t": "p",
-                "x": "En el personal médico que usa Neardoc (120 personas), el tiempo de redacción del EMR bajó cerca de un 70%, de un promedio de 3 minutos 48 segundos antes de la adopción a unos 1 minuto 8 segundos después. En una encuesta a 100 pacientes, la satisfacción con la consulta subió unos 28%p. A los 5 meses del lanzamiento superó las 500 instituciones médicas usuarias, con unas 800.000 consultas acumuladas."
-              },
-              {
-                "t": "p",
-                "x": "El audio original se elimina en cuanto se convierte en texto, y al introducir los datos de las historias que el usuario redacta habitualmente, Neardoc analiza y aprende su estilo de charting. Studio Kiko prevé lanzar este año un módulo empresarial tras pruebas de concepto (PoC) con hospitales nacionales y públicos, entre otros."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ja": {
-          "headline": "AIカルテ作成NearDoc\n精神科・小児科で好評",
-          "body": "NearDocは診療会話からSOAP記録をリアルタイム作成し、記録時間を1分台に短縮した。",
-          "mini_headline": "NearDoc AIカルテ好評",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044563_3048547_938.png",
-                "cap": "Studio Kiko「NearDoc」の李昌珉最高医療責任者(CMO)が最近、青年医師のインタビューに応じている(ⓒ青年医師)。"
-              },
-              {
-                "t": "p",
-                "x": "「患者との会話量が最も多い精神健康医学科や、小児患者と保護者に同時に対応しなければならない小児青少年科で特に好評でした」。NearDocはAIベースの電子カルテ(EMR)作成支援サービスで、医師と患者の会話をリアルタイムで理解し、症状、診察所見、診断と治療計画(SOAP)を整理する。ユーザーのカルテ記載スタイルを反映する「パーソナライズドチャーティング」が強みだ。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044563_3048548_2030.png",
-                "cap": "NearDocの活用例。医療者と患者の会話が記録されている(資料提供:李昌珉CMO)。"
-              },
-              {
-                "t": "p",
-                "x": "整形外科専門医である李CMOは「研修医時代はいつも病棟に座って、1〜2時間ずつたまったカルテを整理していた」と開発に加わったきっかけを語った。Studio Kikoによると、NearDocを使った医師120人のうち98%がカルテ作成に満足し、無料体験から有料への転換率は70%に達した。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044563_3048549_2124.png",
-                "cap": "NearDocの活用例。医療者と患者の会話をもとにSOAPが整理されている(資料提供:李昌珉CMO)。"
-              },
-              {
-                "t": "p",
-                "x": "NearDocを使う医療者(120人)のEMR作成時間は、導入前の平均3分48秒から導入後は平均約1分8秒となり、約70%短縮された。患者100人を対象にした調査では、診療満足度が約28%p上昇した。発売から5カ月で導入医療機関は500カ所を突破し、累計診療件数は約80万件に上る。"
-              },
-              {
-                "t": "p",
-                "x": "元の音声はテキストに変換した直後に破棄され、普段書いているカルテデータを入力すると、NearDocがカルテ記載スタイルを分析して学習する。Studio Kikoは年内に国公立病院などとの概念実証(PoC)を経て、エンタープライズ向けモジュールを公開する計画だ。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "AI病历助手NearDoc\n获精神科、儿科好评",
-          "body": "NearDoc根据诊疗对话实时生成SOAP记录，把病历时间缩至1分钟出头。",
-          "mini_headline": "NearDoc AI病历获好评",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044563_3048547_938.png",
-                "cap": "Studio Kiko“NearDoc”首席医疗官(CMO)李昌珉近日接受《青年医师》采访(ⓒ青年医师)。"
-              },
-              {
-                "t": "p",
-                "x": "“在与患者对话量最大的精神健康医学科，以及需要同时面对儿童患者和监护人的儿童青少年科，好评尤其多。”NearDoc是一款基于AI的电子病历(EMR)书写辅助服务，能实时理解医生与患者的对话，整理出症状、查体所见、诊断和治疗计划(SOAP)。其优势在于能体现用户书写风格的“个性化病历书写”。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044563_3048548_2030.png",
-                "cap": "NearDoc使用示例，记录了医护人员与患者之间的对话(资料提供：李昌珉CMO)。"
-              },
-              {
-                "t": "p",
-                "x": "身为骨科专科医生的李CMO谈到参与开发的契机时说：“当住院医师时，我总是坐在病房里，每次花1到2个小时整理积压的病历。”据Studio Kiko介绍，使用NearDoc的120名医生中有98%对病历书写感到满意，从免费试用转为付费的比例达到70%。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044563_3048549_2124.png",
-                "cap": "NearDoc使用示例，根据医护人员与患者的对话整理出SOAP(资料提供：李昌珉CMO)。"
-              },
-              {
-                "t": "p",
-                "x": "使用NearDoc的医护人员(120名)书写EMR的时间，从引入前平均3分48秒缩短到引入后平均约1分8秒，缩短约70%。在针对100名患者的调查中，诊疗满意度上升约28%p。上线5个月，引入的医疗机构突破500家，累计诊疗约80万次。"
-              },
-              {
-                "t": "p",
-                "x": "原始语音在转换为文本后立即销毁；输入平时书写的病历数据后，NearDoc会分析并学习用户的书写风格。Studio Kiko计划年内与国立和公立医院等开展概念验证(PoC)，随后推出企业版模块。"
-              }
-            ]
-          }
-        },
-        "en": {
-          "headline": "AI charting tool Neardoc\nPraised in psych and pediatrics",
-          "body": "Neardoc writes SOAP notes in real time from consultation dialogue, cutting charting time to about 1 minute.",
-          "mini_headline": "Neardoc AI charting praised",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044563_3048547_938.png",
-                "cap": "Lee Chang-min, chief medical officer (CMO) of Studio Kiko's 'Neardoc', in a recent interview with Korean Doctors' Weekly (ⓒKorean Doctors' Weekly)."
-              },
-              {
-                "t": "p",
-                "x": "\"We got especially strong praise from psychiatry, where conversations with patients are the longest, and from pediatrics, where doctors deal with child patients and guardians at the same time.\" Neardoc is an AI-based electronic medical record (EMR) writing assistant that understands doctor-patient conversations in real time and organizes symptoms, examination findings, diagnosis and treatment plan (SOAP). Its strength is 'personalized charting' that reflects each user's charting style."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044563_3048548_2030.png",
-                "cap": "An example of Neardoc in use, with the conversation between clinician and patient recorded (source: CMO Lee Chang-min)."
-              },
-              {
-                "t": "p",
-                "x": "CMO Lee, an orthopedic surgeon, explained why he joined the development: \"As a resident, I always sat in the ward for 1~2 hours catching up on overdue medical records.\" According to Studio Kiko, 98% of the 120 doctors who used Neardoc were satisfied with its charting, and the conversion rate from free trial to paid reached 70%."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044563_3048549_2124.png",
-                "cap": "An example of Neardoc in use, with a SOAP summary based on the conversation between clinician and patient (source: CMO Lee Chang-min)."
-              },
-              {
-                "t": "p",
-                "x": "For the clinicians using Neardoc (120 people), EMR writing time fell by about 70%, from an average of 3 minutes 48 seconds before adoption to about 1 minute 8 seconds after. In a survey of 100 patients, consultation satisfaction rose by about 28%p. Within 5 months of launch, it passed 500 adopting medical institutions, with about 800,000 cumulative consultations."
-              },
-              {
-                "t": "p",
-                "x": "The original audio is destroyed as soon as it is converted to text, and when users input the chart data they usually write, Neardoc analyzes and learns their charting style. Studio Kiko plans to release an enterprise module within the year after proof-of-concept (PoC) trials with national and public hospitals and others."
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Elogian el charting AI Neardoc\nen psiquiatría y pediatría",
-          "body": "Neardoc redacta notas SOAP en tiempo real a partir de la consulta y reduce el charting a 1 minuto y poco más.",
-          "mini_headline": "Elogios al charting AI de Neardoc",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044563_3048547_938.png",
-                "cap": "Lee Chang-min, director médico (CMO) de 'Neardoc' de Studio Kiko, durante una entrevista reciente con Korean Doctors' Weekly (ⓒKorean Doctors' Weekly)."
-              },
-              {
-                "t": "p",
-                "x": "\"Recibimos especialmente buenas valoraciones en psiquiatría, donde la conversación con el paciente es más extensa, y en pediatría, donde hay que atender a la vez al niño y a su tutor.\" Neardoc es un servicio de apoyo basado en AI para redactar la historia clínica electrónica (EMR): comprende en tiempo real la conversación entre médico y paciente y organiza síntomas, hallazgos de la exploración, diagnóstico y plan de tratamiento (SOAP). Su punto fuerte es el 'charting personalizado', que refleja el estilo de cada usuario."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044563_3048548_2030.png",
-                "cap": "Ejemplo de uso de Neardoc, con la conversación entre el personal médico y el paciente registrada (fuente: CMO Lee Chang-min)."
-              },
-              {
-                "t": "p",
-                "x": "El CMO Lee, especialista en ortopedia, explicó por qué se sumó al desarrollo: \"Cuando era residente, siempre me sentaba en la planta 1~2 horas para poner al día los registros médicos atrasados\". Según Studio Kiko, el 98% de los 120 médicos que usaron Neardoc quedaron satisfechos con el charting, y la tasa de conversión de la prueba gratuita al pago alcanzó el 70%."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.docdocdoc.co.kr/news/photo/202611/3044563_3048549_2124.png",
-                "cap": "Ejemplo de uso de Neardoc, con el SOAP organizado a partir de la conversación entre el personal médico y el paciente (fuente: CMO Lee Chang-min)."
-              },
-              {
-                "t": "p",
-                "x": "En el personal médico que usa Neardoc (120 personas), el tiempo de redacción del EMR bajó cerca de un 70%, de un promedio de 3 minutos 48 segundos antes de la adopción a unos 1 minuto 8 segundos después. En una encuesta a 100 pacientes, la satisfacción con la consulta subió unos 28%p. A los 5 meses del lanzamiento superó las 500 instituciones médicas usuarias, con unas 800.000 consultas acumuladas."
-              },
-              {
-                "t": "p",
-                "x": "El audio original se elimina en cuanto se convierte en texto, y al introducir los datos de las historias que el usuario redacta habitualmente, Neardoc analiza y aprende su estilo de charting. Studio Kiko prevé lanzar este año un módulo empresarial tras pruebas de concepto (PoC) con hospitales nacionales y públicos, entre otros."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "quibim-qp-prostate-microsoft",
+      "id": "poskom-miniair-icu-xray",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Quibim 전립선 MRI\nAI Microsoft망에",
-      "body": "FDA-cleared QP-Prostate가 Microsoft 망에 올라갔다.",
-      "mini_headline": "Quibim, Microsoft 망 합류",
+      "headline": "1.3-kg AI 엑스레이\nICU 촬영 시간 단축",
+      "body": "121-patient ICU 연구에서 MiniAIR가 DR보다 75% 넘게 빨랐다.",
+      "mini_headline": "초소형 AI 엑스레이, ICU 촬영 단축",
       "tool": "Medicine",
       "source": "AuntMinnie",
-      "url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/news/16425030/quibim-quibims-prostate-mri-ai-joins-microsoft-imaging-ai-network",
-      "accent": "#7928ca",
+      "url": "https://www.auntminnie.com/resources/conference/rsna/2026/digital-xray-preview/article/16425516/ultracompact-ai-xray-unit-slashes-icu-bedside-imaging-time",
+      "accent": "#f5a623",
       "motif": "sphere",
       "full": {
         "mode": "full",
         "blocks": [
           {
             "t": "p",
-            "x": "Quibim은 Microsoft의 Precision Imaging Network로 북미 의료기관에 QP-Prostate 소프트웨어를 공급한다. Precision Imaging Network는 서드파티 영상 AI 애플리케이션을 쓸 수 있게 해 주는 플랫폼이다."
+            "x": "초소형 AI 기반(AI-powered) 엑스선 시스템이 진단 성능은 유지한 채 중환자실(ICU) 침상 촬영 작업 시간을 사분의 삼 넘게 줄인다는 연구 결과가 이번 세션에서 나왔다."
           },
           {
             "t": "p",
-            "x": "업체 설명으로는 QP-Prostate가 바이파라메트릭(bi-parametric) 전립선 MRI에서 의심 병변을 자동으로 찾아내 원본 영상 위에 오버레이로 표시한다. U.S. 식품의약국(FDA) 허가를 받았고, Health Canada에서 class III 의료기기 면허도 받았다."
+            "x": "중국 광저우 Southern Medical University의 Runqiu Huang 연구팀은 ICU 환자 121명을 전향적으로 연구했다. 페이퍼백 책만 한 1.3킬로그램짜리 MiniAIR 시스템(Poskom, 한국)과 침상 촬영에 쓰던 기존 이동형 디지털 방사선촬영(DR)을 맞비교했다."
           },
           {
             "t": "p",
-            "x": "회사 측은 Precision Imaging Network가 기존 영상 공유 인프라를 그대로 활용해 기관이 고른 애플리케이션으로 영상 검사를 보낸다고 설명했다. Quibim은 지원되는 구성이라면 QP-Prostate 결과가 Microsoft의 판독 보고 소프트웨어 PowerScribe로 넘어가고, 영상의학과 전문의가 보고서를 확정하기 전에 검토해 반영할 수 있다고 밝혔다."
+            "x": "MiniAIR는 전체 작업 시간을 2,061초에서 475초로 76.9% 줄였다. 단계마다 크게 줄었는데 오더 시작(87.5% 단축)과 촬영 후 처리(88.4% 단축)가 특히 두드러졌다. AI 영상 보정으로 노이즈 점수가 낮아지고 공간 해상도는 센티미터당 34에서 40 라인 쌍으로 올라가 화질이 개선됐다. 진단 일치도는 높았고 기존 촬영 대비 비열등했다. 평가한 모든 과제에서 급내상관계수는 0.9987 이상, Cohen’s kappa 값은 0.88에서 1.00이었다."
+          },
+          {
+            "t": "p",
+            "x": "저자들에 따르면 기존 이동형 방사선촬영은 덩치 큰 장비와 처리 지연 탓에 오랫동안 ICU 업무 흐름의 발목을 잡아 왔다. 연구진은 “이 hardware-AI 통합 방식은 기존 이동형 방사선촬영의 핵심 한계를 해결하고 신속한 현장 진료(point-of-care) 임상 의사결정을 지원한다”고 밝혔다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Quibim prostate MRI AI\njoins Microsoft network",
-          "body": "FDA-cleared QP-Prostate now reaches Microsoft's Precision Imaging Network, with results landing in PowerScribe.",
-          "mini_headline": "Quibim joins Microsoft network",
+          "headline": "A 1.3-kg AI x-ray unit cuts\nICU bedside imaging time",
+          "body": "In a 121-patient ICU study, Poskom's MiniAIR cut workflow time by over 75% versus mobile DR with no diagnostic loss.",
+          "mini_headline": "Tiny AI x-ray\nspeeds ICU imaging",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "Quibim is making its QP-Prostate software available to healthcare organizations in North America through Microsoft’s Precision Imaging Network, a platform that provides access to third-party imaging AI applications."
+                "x": "An ultra-compact AI-powered x-ray system can cut bedside imaging workflow times in intensive care units by more than three-quarters while preserving diagnostic performance, according to research in this session."
               },
               {
                 "t": "p",
-                "x": "QP-Prostate automatically detects and identifies suspected lesions on bi-parametric prostate MRI and marks them as an overlay on the source images, according to the vendor. The software is cleared by the U.S. Food and Drug Administration (FDA) and holds a class III medical device license from Health Canada."
+                "x": "In a prospective study involving 121 ICU patients, Runqiu Huang, of Southern Medical University in Guangzhou, China, and colleagues compared the MiniAIR system (Poskom, South Korea), a 1.3-kilogram device roughly the size of a paperback book, with conventional mobile digital radiography for bedside imaging."
               },
               {
                 "t": "p",
-                "x": "Precision Imaging Network routes imaging studies to the applications an organization has selected using existing image-sharing infrastructure, according to the firm. In supported configurations, QP-Prostate results can be delivered to Microsoft’s PowerScribe reporting software, where radiologists can review and incorporate them before finalizing reports, Quibim said."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Quibim 전립선 MRI\nAI Microsoft망에",
-          "body": "FDA-cleared QP-Prostate가 Microsoft 망에 올라갔다.",
-          "mini_headline": "Quibim, Microsoft 망 합류",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Quibim은 Microsoft의 Precision Imaging Network로 북미 의료기관에 QP-Prostate 소프트웨어를 공급한다. Precision Imaging Network는 서드파티 영상 AI 애플리케이션을 쓸 수 있게 해 주는 플랫폼이다."
+                "x": "MiniAIR reduced total workflow time from 2,061 seconds to 475 seconds, a 76.9% decrease. Reductions were pronounced across all stages, particularly order initiation (87.5% faster) and post-acquisition processing (88.4% faster). AI image enhancement improved image quality, reducing noise scores and boosting spatial resolution from 34 to 40 line pairs per centimeter. Diagnostic agreement was high and non-inferior to conventional imaging, with intraclass correlation coefficients of at least 0.9987 and Cohen’s kappa values of 0.88 to 1.00 across all evaluated tasks."
               },
               {
                 "t": "p",
-                "x": "업체 설명으로는 QP-Prostate가 바이파라메트릭(bi-parametric) 전립선 MRI에서 의심 병변을 자동으로 찾아내 원본 영상 위에 오버레이로 표시한다. U.S. 식품의약국(FDA) 허가를 받았고, Health Canada에서 class III 의료기기 면허도 받았다."
-              },
-              {
-                "t": "p",
-                "x": "회사 측은 Precision Imaging Network가 기존 영상 공유 인프라를 그대로 활용해 기관이 고른 애플리케이션으로 영상 검사를 보낸다고 설명했다. Quibim은 지원되는 구성이라면 QP-Prostate 결과가 Microsoft의 판독 보고 소프트웨어 PowerScribe로 넘어가고, 영상의학과 전문의가 보고서를 확정하기 전에 검토해 반영할 수 있다고 밝혔다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Quibimの前立腺MRI\nAIがMicrosoft網に",
-          "body": "FDA-clearedのQP-ProstateがMicrosoftの画像網に加わった。",
-          "mini_headline": "QuibimがMicrosoft網に参加",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Quibimは、サードパーティーの画像AIアプリケーションを利用できるプラットフォームであるMicrosoftのPrecision Imaging Networkを通じて、北米の医療機関にQP-Prostateソフトウェアを提供する。"
-              },
-              {
-                "t": "p",
-                "x": "同社によると、QP-Prostateはバイパラメトリック(bi-parametric)前立腺MRIで疑わしい病変を自動的に検出・特定し、元画像の上にオーバーレイとして表示する。このソフトウェアはU.S.食品医薬品局(FDA)の承認を受けており、Health Canadaからクラス(class) IIIの医療機器ライセンスを取得している。"
-              },
-              {
-                "t": "p",
-                "x": "同社によると、Precision Imaging Networkは既存の画像共有インフラを使い、医療機関が選んだアプリケーションへ画像検査を振り分ける。対応する構成では、QP-Prostateの結果をMicrosoftの読影レポートソフトPowerScribeに送ることができ、放射線科医はレポートを確定する前にそれを確認して反映できるとQuibimは説明している。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Quibim前列腺MRI\nAI加入Microsoft网",
-          "body": "FDA-cleared的QP-Prostate已接入Microsoft影像网络。",
-          "mini_headline": "Quibim接入Microsoft网络",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Quibim将通过Microsoft的Precision Imaging Network向北美医疗机构提供其QP-Prostate软件。Precision Imaging Network是一个可接入第三方影像AI应用的平台。"
-              },
-              {
-                "t": "p",
-                "x": "据该公司介绍，QP-Prostate可在双参数(bi-parametric)前列腺MRI上自动检测并识别可疑病灶，并以叠加层形式标注在原始图像上。该软件已获U.S.食品药品监督管理局(FDA)批准，并持有Health Canada颁发的class III医疗器械许可证。"
-              },
-              {
-                "t": "p",
-                "x": "该公司称，Precision Imaging Network利用现有的影像共享基础设施，将影像检查发送到机构所选的应用。Quibim表示，在受支持的配置下，QP-Prostate的结果可传送至Microsoft的报告软件PowerScribe，放射科医生可在最终确定报告前查看并纳入这些结果。"
+                "x": "Conventional mobile radiography has long constrained ICU workflows through bulky hardware and processing delays, the authors noted. “This integrated hardware-AI approach addresses key limitations of conventional mobile radiography and supports rapid, point-of-care clinical decision-making,” the researchers suggested."
               }
             ]
           }
         },
         "es": {
-          "headline": "Quibim lleva su AI de MRI\nprostática a la red Microsoft",
-          "body": "QP-Prostate, FDA-cleared, llega a la Precision Imaging Network de Microsoft y envía resultados a PowerScribe.",
-          "mini_headline": "Quibim se suma a la red de Microsoft",
+          "headline": "Un aparato de rayos X de 1.3 kg\ncon AI agiliza la imagen en ICU",
+          "body": "En 121 pacientes de ICU, el MiniAIR de Poskom recortó más del 75% del tiempo frente al DR móvil sin perder precisión.",
+          "mini_headline": "Rayos X mini con AI agilizan la ICU",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "Quibim pone su software QP-Prostate a disposición de las organizaciones sanitarias de Norteamérica a través de la Precision Imaging Network de Microsoft, una plataforma que da acceso a aplicaciones de AI de imagen de terceros."
+                "x": "Un sistema de rayos X ultracompacto con AI (AI-powered) puede reducir en más de tres cuartas partes el tiempo del flujo de trabajo de imagen junto a la cama en unidades de cuidados intensivos, manteniendo el rendimiento diagnóstico, según una investigación presentada en esta sesión."
               },
               {
                 "t": "p",
-                "x": "Según el proveedor, QP-Prostate detecta e identifica de forma automática lesiones sospechosas en la MRI de próstata biparamétrica (bi-parametric) y las marca como una superposición sobre las imágenes originales. El software cuenta con la autorización de la Administración de Alimentos y Medicamentos de EE. UU. (U.S. FDA) y con una licencia de dispositivo médico de class III de Health Canada."
+                "x": "En un estudio prospectivo con 121 pacientes de ICU, Runqiu Huang, de la Southern Medical University de Guangzhou (China), y sus colegas compararon el sistema MiniAIR (Poskom, Corea del Sur), un dispositivo de 1.3 kilogramos del tamaño aproximado de un libro de bolsillo, con la radiografía digital móvil convencional para la imagen junto a la cama."
               },
               {
                 "t": "p",
-                "x": "Según la empresa, Precision Imaging Network dirige los estudios de imagen a las aplicaciones que cada organización ha seleccionado mediante la infraestructura existente para compartir imágenes. En las configuraciones compatibles, los resultados de QP-Prostate pueden enviarse al software de informes PowerScribe de Microsoft, donde los radiólogos pueden revisarlos e incorporarlos antes de cerrar sus informes, explicó Quibim."
+                "x": "MiniAIR redujo el tiempo total del flujo de trabajo de 2,061 segundos a 475 segundos, una disminución del 76.9%. Las reducciones fueron marcadas en todas las etapas, sobre todo en el inicio de la orden (87.5% más rápido) y el procesamiento posterior a la adquisición (88.4% más rápido). La mejora de imagen con AI elevó la calidad, redujo las puntuaciones de ruido y aumentó la resolución espacial de 34 a 40 pares de líneas por centímetro. La concordancia diagnóstica fue alta y no inferior a la imagen convencional, con coeficientes de correlación intraclase de al menos 0.9987 y valores kappa de Cohen de 0.88 a 1.00 en todas las tareas evaluadas."
+              },
+              {
+                "t": "p",
+                "x": "La radiografía móvil convencional ha limitado durante mucho tiempo los flujos de trabajo de la ICU por su hardware voluminoso y sus retrasos de procesamiento, señalaron los autores. “Este enfoque integrado hardware-AI aborda limitaciones clave de la radiografía móvil convencional y respalda una toma de decisiones clínicas rápida en el punto de atención”, sugirieron los investigadores."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "1.3-kg AI 엑스레이\nICU 촬영 시간 단축",
+          "body": "121-patient ICU 연구에서 MiniAIR가 DR보다 75% 넘게 빨랐다.",
+          "mini_headline": "초소형 AI 엑스레이, ICU 촬영 단축",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "초소형 AI 기반(AI-powered) 엑스선 시스템이 진단 성능은 유지한 채 중환자실(ICU) 침상 촬영 작업 시간을 사분의 삼 넘게 줄인다는 연구 결과가 이번 세션에서 나왔다."
+              },
+              {
+                "t": "p",
+                "x": "중국 광저우 Southern Medical University의 Runqiu Huang 연구팀은 ICU 환자 121명을 전향적으로 연구했다. 페이퍼백 책만 한 1.3킬로그램짜리 MiniAIR 시스템(Poskom, 한국)과 침상 촬영에 쓰던 기존 이동형 디지털 방사선촬영(DR)을 맞비교했다."
+              },
+              {
+                "t": "p",
+                "x": "MiniAIR는 전체 작업 시간을 2,061초에서 475초로 76.9% 줄였다. 단계마다 크게 줄었는데 오더 시작(87.5% 단축)과 촬영 후 처리(88.4% 단축)가 특히 두드러졌다. AI 영상 보정으로 노이즈 점수가 낮아지고 공간 해상도는 센티미터당 34에서 40 라인 쌍으로 올라가 화질이 개선됐다. 진단 일치도는 높았고 기존 촬영 대비 비열등했다. 평가한 모든 과제에서 급내상관계수는 0.9987 이상, Cohen’s kappa 값은 0.88에서 1.00이었다."
+              },
+              {
+                "t": "p",
+                "x": "저자들에 따르면 기존 이동형 방사선촬영은 덩치 큰 장비와 처리 지연 탓에 오랫동안 ICU 업무 흐름의 발목을 잡아 왔다. 연구진은 “이 hardware-AI 통합 방식은 기존 이동형 방사선촬영의 핵심 한계를 해결하고 신속한 현장 진료(point-of-care) 임상 의사결정을 지원한다”고 밝혔다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "1.3-kgのAI X線機\nICUの撮影時間を短縮",
+          "body": "121-patientのICU研究で、MiniAIRはDR比で作業時間を75%超短縮した。",
+          "mini_headline": "小型AI X線がICU撮影を短縮",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "超小型のAI搭載（AI-powered）X線システムは、診断性能を保ったまま集中治療室（ICU）でのベッドサイド撮影の作業時間を四分の三以上短縮できると、本セッションの研究が示した。"
+              },
+              {
+                "t": "p",
+                "x": "中国・広州のSouthern Medical UniversityのRunqiu Huangらは、ICU患者121人を対象とした前向き研究で、ペーパーバック本ほどの大きさの1.3キログラムの装置であるMiniAIRシステム（Poskom、韓国）を、ベッドサイド撮影用の従来の移動型デジタルX線撮影（DR）と比較した。"
+              },
+              {
+                "t": "p",
+                "x": "MiniAIRは総作業時間を2,061秒から475秒へと76.9%短縮した。短縮はすべての段階で顕著で、特にオーダー開始（87.5%短縮）と撮影後処理（88.4%短縮）で大きかった。AIによる画像補正は画質を高め、ノイズスコアを下げ、空間分解能を1センチメートルあたり34から40ラインペアに向上させた。診断の一致度は高く従来撮影に対して非劣性で、評価したすべての課題で級内相関係数は0.9987以上、Cohen’s kappa値は0.88から1.00だった。"
+              },
+              {
+                "t": "p",
+                "x": "従来の移動型X線撮影は、かさばる装置と処理の遅れによって長くICUの業務フローを制約してきたと著者らは指摘した。研究者らは「このhardware-AI統合アプローチは従来の移動型X線撮影の主要な限界に対処し、迅速なポイント・オブ・ケア（point-of-care）での臨床判断を支える」と述べた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "1.3-kg AI X光机\n缩短ICU床旁成像时间",
+          "body": "在121-patient ICU研究中，MiniAIR较移动DR将流程时间缩短逾75%。",
+          "mini_headline": "微型AI X光机加快ICU成像",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "本场次发布的研究显示，一款超小型AI驱动（AI-powered）X光系统可在保持诊断性能的同时，将重症监护病房（ICU）床旁成像的工作流程时间缩短四分之三以上。"
+              },
+              {
+                "t": "p",
+                "x": "在一项纳入121名ICU患者的前瞻性研究中，中国广州Southern Medical University（南方医科大学）的Runqiu Huang及同事将MiniAIR系统（Poskom，韩国）——一台重1.3公斤、大小约如一本平装书的设备——与床旁成像常用的传统移动数字X线摄影（DR）进行了比较。"
+              },
+              {
+                "t": "p",
+                "x": "MiniAIR将总流程时间从2,061秒缩短至475秒，降幅76.9%。各环节的缩减都很明显，尤其是开单环节（快87.5%）和采集后处理环节（快88.4%）。AI图像增强提升了图像质量，降低了噪声评分，并将空间分辨率从每厘米34线对提高到40线对。诊断一致性高，且不劣于传统成像：在所有评估任务中，组内相关系数至少为0.9987，Cohen’s kappa值为0.88至1.00。"
+              },
+              {
+                "t": "p",
+                "x": "作者指出，传统移动X线摄影长期以来因设备笨重和处理延迟而制约着ICU的工作流程。研究人员认为：“这种hardware-AI一体化方案解决了传统移动X线摄影的关键局限，可支持快速的床旁（point-of-care）临床决策。”"
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "Quibim 전립선 MRI\nAI Microsoft망에",
-          "body": "FDA-cleared QP-Prostate가 Microsoft 망에 들어갔다.",
-          "mini_headline": "Quibim, Microsoft 망 합류",
+        "es": {
+          "headline": "Un aparato de rayos X de 1.3 kg\ncon AI agiliza la imagen en ICU",
+          "body": "En 121 pacientes de ICU, el MiniAIR de Poskom recortó más del 75% del tiempo frente al DR móvil sin perder precisión.",
+          "mini_headline": "Rayos X mini con AI agilizan la ICU",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "Quibim이 QP-Prostate 소프트웨어를 Microsoft의 Precision Imaging Network를 통해 북미 의료기관에 제공한다. Precision Imaging Network는 서드파티 영상 AI 애플리케이션을 쓸 수 있게 해 주는 플랫폼이다."
+                "x": "Un sistema de rayos X ultracompacto con AI (AI-powered) puede reducir en más de tres cuartas partes el tiempo del flujo de trabajo de imagen junto a la cama en unidades de cuidados intensivos, manteniendo el rendimiento diagnóstico, según una investigación presentada en esta sesión."
               },
               {
                 "t": "p",
-                "x": "업체에 따르면 QP-Prostate는 바이파라메트릭(bi-parametric) 전립선 MRI에서 의심 병변을 자동으로 찾아 식별하고, 원본 영상 위에 오버레이로 표시한다. 이 소프트웨어는 U.S. 식품의약국(FDA)의 허가를 받았고, Health Canada로부터 class III 의료기기 면허를 받았다."
+                "x": "En un estudio prospectivo con 121 pacientes de ICU, Runqiu Huang, de la Southern Medical University de Guangzhou (China), y sus colegas compararon el sistema MiniAIR (Poskom, Corea del Sur), un dispositivo de 1.3 kilogramos del tamaño aproximado de un libro de bolsillo, con la radiografía digital móvil convencional para la imagen junto a la cama."
               },
               {
                 "t": "p",
-                "x": "회사에 따르면 Precision Imaging Network는 기존 영상 공유 인프라를 이용해 기관이 고른 애플리케이션으로 영상 검사를 보낸다. Quibim은 지원되는 구성에서는 QP-Prostate 결과를 Microsoft의 판독 보고 소프트웨어 PowerScribe로 보낼 수 있고, 영상의학과 전문의가 보고서를 확정하기 전에 이를 검토해 반영할 수 있다고 밝혔다."
+                "x": "MiniAIR redujo el tiempo total del flujo de trabajo de 2,061 segundos a 475 segundos, una disminución del 76.9%. Las reducciones fueron marcadas en todas las etapas, sobre todo en el inicio de la orden (87.5% más rápido) y el procesamiento posterior a la adquisición (88.4% más rápido). La mejora de imagen con AI elevó la calidad, redujo las puntuaciones de ruido y aumentó la resolución espacial de 34 a 40 pares de líneas por centímetro. La concordancia diagnóstica fue alta y no inferior a la imagen convencional, con coeficientes de correlación intraclase de al menos 0.9987 y valores kappa de Cohen de 0.88 a 1.00 en todas las tareas evaluadas."
+              },
+              {
+                "t": "p",
+                "x": "La radiografía móvil convencional ha limitado durante mucho tiempo los flujos de trabajo de la ICU por su hardware voluminoso y sus retrasos de procesamiento, señalaron los autores. “Este enfoque integrado hardware-AI aborda limitaciones clave de la radiografía móvil convencional y respalda una toma de decisiones clínicas rápida en el punto de atención”, sugirieron los investigadores."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "1.3-kg AI 엑스레이\nICU 촬영 시간 단축",
+          "body": "121-patient ICU 연구에서 MiniAIR가 DR보다 75% 넘게 빨랐다.",
+          "mini_headline": "초소형 AI 엑스레이, ICU 촬영 단축",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "초소형 AI 기반(AI-powered) 엑스선 시스템이 진단 성능을 유지하면서 중환자실(ICU) 침상 촬영 작업 시간을 사분의 삼 넘게 줄일 수 있다는 연구가 이번 세션에서 발표됐다."
+              },
+              {
+                "t": "p",
+                "x": "중국 광저우 Southern Medical University의 Runqiu Huang 연구팀은 ICU 환자 121명을 대상으로 한 전향적 연구에서 페이퍼백 책 크기의 1.3킬로그램 장비인 MiniAIR 시스템(Poskom, 한국)을 침상 촬영용 기존 이동형 디지털 방사선촬영(DR)과 비교했다."
+              },
+              {
+                "t": "p",
+                "x": "MiniAIR는 전체 작업 시간을 2,061초에서 475초로 76.9% 줄였다. 모든 단계에서 감소 폭이 컸고, 특히 오더 시작(87.5% 단축)과 촬영 후 처리(88.4% 단축)에서 두드러졌다. AI 영상 보정은 노이즈 점수를 낮추고 공간 해상도를 센티미터당 34에서 40 라인 쌍으로 높여 화질을 개선했다. 진단 일치도는 높았고 기존 촬영에 비해 비열등했으며, 평가한 모든 과제에서 급내상관계수는 0.9987 이상, Cohen’s kappa 값은 0.88에서 1.00이었다."
+              },
+              {
+                "t": "p",
+                "x": "저자들은 기존 이동형 방사선촬영이 부피 큰 장비와 처리 지연으로 오랫동안 ICU 업무 흐름을 제약해 왔다고 지적했다. 연구진은 “이 hardware-AI 통합 방식은 기존 이동형 방사선촬영의 핵심 한계를 해결하고 신속한 현장 진료(point-of-care) 임상 의사결정을 지원한다”고 밝혔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Quibimの前立腺MRI\nAIがMicrosoft網に",
-          "body": "FDA-clearedのQP-ProstateがMicrosoftの画像網に加わった。",
-          "mini_headline": "QuibimがMicrosoft網に参加",
+          "headline": "1.3-kgのAI X線機\nICUの撮影時間を短縮",
+          "body": "121-patientのICU研究で、MiniAIRはDR比で作業時間を75%超短縮した。",
+          "mini_headline": "小型AI X線がICU撮影を短縮",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "Quibimは、サードパーティーの画像AIアプリケーションを利用できるプラットフォームであるMicrosoftのPrecision Imaging Networkを通じて、北米の医療機関にQP-Prostateソフトウェアを提供する。"
+                "x": "超小型のAI搭載（AI-powered）X線システムは、診断性能を保ったまま集中治療室（ICU）でのベッドサイド撮影の作業時間を四分の三以上短縮できると、本セッションの研究が示した。"
               },
               {
                 "t": "p",
-                "x": "同社によると、QP-Prostateはバイパラメトリック(bi-parametric)前立腺MRIで疑わしい病変を自動的に検出・特定し、元画像の上にオーバーレイとして表示する。このソフトウェアはU.S.食品医薬品局(FDA)の承認を受けており、Health Canadaからクラス(class) IIIの医療機器ライセンスを取得している。"
+                "x": "中国・広州のSouthern Medical UniversityのRunqiu Huangらは、ICU患者121人を対象とした前向き研究で、ペーパーバック本ほどの大きさの1.3キログラムの装置であるMiniAIRシステム（Poskom、韓国）を、ベッドサイド撮影用の従来の移動型デジタルX線撮影（DR）と比較した。"
               },
               {
                 "t": "p",
-                "x": "同社によると、Precision Imaging Networkは既存の画像共有インフラを使い、医療機関が選んだアプリケーションへ画像検査を振り分ける。対応する構成では、QP-Prostateの結果をMicrosoftの読影レポートソフトPowerScribeに送ることができ、放射線科医はレポートを確定する前にそれを確認して反映できるとQuibimは説明している。"
+                "x": "MiniAIRは総作業時間を2,061秒から475秒へと76.9%短縮した。短縮はすべての段階で顕著で、特にオーダー開始（87.5%短縮）と撮影後処理（88.4%短縮）で大きかった。AIによる画像補正は画質を高め、ノイズスコアを下げ、空間分解能を1センチメートルあたり34から40ラインペアに向上させた。診断の一致度は高く従来撮影に対して非劣性で、評価したすべての課題で級内相関係数は0.9987以上、Cohen’s kappa値は0.88から1.00だった。"
+              },
+              {
+                "t": "p",
+                "x": "従来の移動型X線撮影は、かさばる装置と処理の遅れによって長くICUの業務フローを制約してきたと著者らは指摘した。研究者らは「このhardware-AI統合アプローチは従来の移動型X線撮影の主要な限界に対処し、迅速なポイント・オブ・ケア（point-of-care）での臨床判断を支える」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Quibim前列腺MRI\nAI加入Microsoft网",
-          "body": "FDA-cleared的QP-Prostate已接入Microsoft影像网络。",
-          "mini_headline": "Quibim接入Microsoft网络",
+          "headline": "1.3-kg AI X光机\n缩短ICU床旁成像时间",
+          "body": "在121-patient ICU研究中，MiniAIR较移动DR将流程时间缩短逾75%。",
+          "mini_headline": "微型AI X光机加快ICU成像",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "Quibim将通过Microsoft的Precision Imaging Network向北美医疗机构提供其QP-Prostate软件。Precision Imaging Network是一个可接入第三方影像AI应用的平台。"
+                "x": "本场次发布的研究显示，一款超小型AI驱动（AI-powered）X光系统可在保持诊断性能的同时，将重症监护病房（ICU）床旁成像的工作流程时间缩短四分之三以上。"
               },
               {
                 "t": "p",
-                "x": "据该公司介绍，QP-Prostate可在双参数(bi-parametric)前列腺MRI上自动检测并识别可疑病灶，并以叠加层形式标注在原始图像上。该软件已获U.S.食品药品监督管理局(FDA)批准，并持有Health Canada颁发的class III医疗器械许可证。"
+                "x": "在一项纳入121名ICU患者的前瞻性研究中，中国广州Southern Medical University（南方医科大学）的Runqiu Huang及同事将MiniAIR系统（Poskom，韩国）——一台重1.3公斤、大小约如一本平装书的设备——与床旁成像常用的传统移动数字X线摄影（DR）进行了比较。"
               },
               {
                 "t": "p",
-                "x": "该公司称，Precision Imaging Network利用现有的影像共享基础设施，将影像检查发送到机构所选的应用。Quibim表示，在受支持的配置下，QP-Prostate的结果可传送至Microsoft的报告软件PowerScribe，放射科医生可在最终确定报告前查看并纳入这些结果。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Quibim lleva su AI de MRI\nprostática a la red Microsoft",
-          "body": "QP-Prostate, FDA-cleared, llega a la Precision Imaging Network de Microsoft y envía resultados a PowerScribe.",
-          "mini_headline": "Quibim se suma a la red de Microsoft",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Quibim pone su software QP-Prostate a disposición de las organizaciones sanitarias de Norteamérica a través de la Precision Imaging Network de Microsoft, una plataforma que da acceso a aplicaciones de AI de imagen de terceros."
+                "x": "MiniAIR将总流程时间从2,061秒缩短至475秒，降幅76.9%。各环节的缩减都很明显，尤其是开单环节（快87.5%）和采集后处理环节（快88.4%）。AI图像增强提升了图像质量，降低了噪声评分，并将空间分辨率从每厘米34线对提高到40线对。诊断一致性高，且不劣于传统成像：在所有评估任务中，组内相关系数至少为0.9987，Cohen’s kappa值为0.88至1.00。"
               },
               {
                 "t": "p",
-                "x": "Según el proveedor, QP-Prostate detecta e identifica de forma automática lesiones sospechosas en la MRI de próstata biparamétrica (bi-parametric) y las marca como una superposición sobre las imágenes originales. El software cuenta con la autorización de la Administración de Alimentos y Medicamentos de EE. UU. (U.S. FDA) y con una licencia de dispositivo médico de class III de Health Canada."
-              },
-              {
-                "t": "p",
-                "x": "Según la empresa, Precision Imaging Network dirige los estudios de imagen a las aplicaciones que cada organización ha seleccionado mediante la infraestructura existente para compartir imágenes. En las configuraciones compatibles, los resultados de QP-Prostate pueden enviarse al software de informes PowerScribe de Microsoft, donde los radiólogos pueden revisarlos e incorporarlos antes de cerrar sus informes, explicó Quibim."
+                "x": "作者指出，传统移动X线摄影长期以来因设备笨重和处理延迟而制约着ICU的工作流程。研究人员认为：“这种hardware-AI一体化方案解决了传统移动X线摄影的关键局限，可支持快速的床旁（point-of-care）临床决策。”"
               }
             ]
           }
@@ -1371,191 +919,683 @@
       }
     },
     {
-      "id": "oral-pigmentation-ai-screening-gap",
+      "id": "naitive-osteosight-spine-510k",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "구강암 AI 검진에\n색소 검증 공백",
-      "body": "아시아인 위주로 검증된 MeMoSA가 정상 구강 색소를 이상으로 오판할 수 있다.",
-      "mini_headline": "구강암 AI 색소 검증 공백",
+      "headline": "FDA, X선 AI 골건강\nOsteoSight 승인",
+      "body": "Naitive는 FDA 510(k)로 AI 골건강 평가를 척추·흉부 X선에 넓혔다.",
+      "mini_headline": "FDA, X선 AI 골건강 판독 승인",
       "tool": "Medicine",
-      "source": "npj Digital Medicine",
-      "url": "https://www.nature.com/articles/s41746-026-03466-9",
-      "accent": "#eb367f",
+      "source": "Orthopedics This Week",
+      "url": "https://orthotw.com/2026/11/naitive-receives-fda-510-k-clearance-for-osteosight-spine-extending-ai-enabled-opportunistic-bone-health-assessment-to-spine-and-chest-x-rays",
+      "accent": "#7928ca",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "MeMoSA 같은 AI-assisted(AI 보조) 구강암 검진 도구는 거의 아시아인 집단에서만 검증됐다. 연구진은 검증 가능한 가설 하나를 내놓았다. 인종마다 다르지만 병리와는 무관한 생리적 구강 색소 침착 탓에 분류기가 정상 변이를 의심 소견으로 잘못 분류하거나, 색소에 가려진 병변을 놓칠 수 있다는 것이다. 연구진은 맥박산소측정기와 피부과 AI의 전례를 들며, 미국처럼 인종 구성이 다양한 곳에 들이기 전에 색소 침착 정도별 검증부터 거쳐야 한다고 촉구했다."
+            "t": "img",
+            "src": "https://naxztztabtiofaq7.public.blob.vercel-storage.com/app-uploads/images/1794492544592-Naitive-LinkedIn-post---1200---627-q9nL5xrPZdo1AtcWY8epwITx37wld5.png",
+            "cap": "Naitive Technologies 제공"
           },
           {
             "t": "p",
-            "x": "Khanna, D., Grover, A. Beyond skin deep: physiologic oral pigmentation as an overlooked validation gap in AI-assisted oral cancer screening. npj Digit. Med. (2026). 가속 공개(Accelerated article preview) 논문이라 현재는 초록만 나와 있다."
+            "x": "Naitive Technologies가 OsteoSight Spine의 U.S. FDA 510(k) 승인을 발표했다. OsteoSight Spine은 다른 임상 목적으로 찍은 일상적인 요추·흉추·흉부 X선(X-rays)을 그대로 활용해 골밀도(BMD)를 기회적으로 평가한다. US에서는 이런 X선 촬영이 해마다 약 124 million 건으로 추산된다. 앞서 2025년 9월에는 고관절·골반 X선용 OsteoSight가 FDA 승인을 받았다."
+          },
+          {
+            "t": "p",
+            "x": "BMD가 낮은 환자의 70%는 진단 없이 지내다 골절이 생기고 나서야 발견되는 일이 많다. OsteoSight Spine은 50세 이상 환자의 X선을 분석해 낮은 BMD 위험 사례를 골라낸다. 보고서는 판독의를 돕고 골 건강 임상 평가로 이어지게 한다."
+          },
+          {
+            "t": "p",
+            "x": "Hospital for Special Surgery의 Dr. Todd Albert는 “OsteoSight Spine은 우리가 매일 처방하는 X선을 활용해 버젓이 눈앞에 숨어 있던 낮은 골밀도 환자를 짚어 낸다”고 말했다. Naitive CEO Dr. Will Briggs는 “척추와 흉부 X선은 의학에서 가장 흔한 영상에 속하며, 한 장 한 장이 골절 전에 낮은 골밀도를 잡아낼 기회”라고 설명했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Oral cancer AI has a\npigmentation validation gap",
-          "body": "Tools like MeMoSA, validated mostly in Asian populations, may flag normal oral pigmentation as suspicious.",
-          "mini_headline": "Oral AI pigmentation gap",
+          "headline": "FDA clears OsteoSight Spine\nfor AI bone health on x-rays",
+          "body": "Naitive's FDA 510(k) clearance extends its AI opportunistic bone-health assessment to spine and chest x-rays.",
+          "mini_headline": "FDA clears AI bone\ncheck on x-rays",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "AI-assisted oral cancer screening tools, exemplified by MeMoSA, have been validated almost exclusively in Asian populations. We propose a testable hypothesis: physiologic oral pigmentation, which varies by race independent of pathology, may cause classifiers to misclassify normal variation as suspicious or miss camouflaged lesions. Following precedent from pulse oximetry and dermatology AI, we call for pigmentation-stratified validation before deployment in racially diverse settings such as the United States."
+                "t": "img",
+                "src": "https://naxztztabtiofaq7.public.blob.vercel-storage.com/app-uploads/images/1794492544592-Naitive-LinkedIn-post---1200---627-q9nL5xrPZdo1AtcWY8epwITx37wld5.png",
+                "cap": "Courtesy of Naitive Technologies"
               },
               {
                 "t": "p",
-                "x": "Khanna, D., Grover, A. Beyond skin deep: physiologic oral pigmentation as an overlooked validation gap in AI-assisted oral cancer screening. npj Digit. Med. (2026). Accelerated article preview; only the abstract is published so far."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "구강암 AI 검진에\n색소 검증 공백",
-          "body": "아시아인 위주로 검증된 MeMoSA가 정상 구강 색소를 이상으로 오판할 수 있다.",
-          "mini_headline": "구강암 AI 색소 검증 공백",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "MeMoSA 같은 AI-assisted(AI 보조) 구강암 검진 도구는 거의 아시아인 집단에서만 검증됐다. 연구진은 검증 가능한 가설 하나를 내놓았다. 인종마다 다르지만 병리와는 무관한 생리적 구강 색소 침착 탓에 분류기가 정상 변이를 의심 소견으로 잘못 분류하거나, 색소에 가려진 병변을 놓칠 수 있다는 것이다. 연구진은 맥박산소측정기와 피부과 AI의 전례를 들며, 미국처럼 인종 구성이 다양한 곳에 들이기 전에 색소 침착 정도별 검증부터 거쳐야 한다고 촉구했다."
+                "x": "Naitive Technologies announced that it has received 510(k) clearance from the U.S. FDA for OsteoSight Spine, which enables opportunistic assessment of bone mineral density (BMD) using routine lumbar spine, thoracic spine, and chest X-rays acquired to investigate other clinical concerns. An estimated 124 million such X-rays are performed in the US each year. The clearance follows FDA clearance of OsteoSight for hip and pelvis X-rays in September 2025."
               },
               {
                 "t": "p",
-                "x": "Khanna, D., Grover, A. Beyond skin deep: physiologic oral pigmentation as an overlooked validation gap in AI-assisted oral cancer screening. npj Digit. Med. (2026). 가속 공개(Accelerated article preview) 논문이라 현재는 초록만 나와 있다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "口腔がんAIに\n色素の検証ギャップ",
-          "body": "アジア人中心に検証されたMeMoSAなどは、正常な口腔色素を疑わしいと判定しうる。",
-          "mini_headline": "口腔がんAIの色素ギャップ",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "MeMoSAに代表されるAI-assisted(AI支援)口腔がん検診ツールは、ほぼアジア人集団でのみ検証されてきた。著者らは検証可能な仮説を提示する。病理とは無関係に人種によって異なる生理的な口腔色素沈着が原因で、分類器が正常な変異を疑わしいと誤分類したり、色素に紛れた病変を見逃したりする可能性があるというものだ。パルスオキシメトリーや皮膚科AIの前例にならい、米国のように人種が多様な環境で導入する前に、色素沈着の程度で層別化した検証を行うよう求めている。"
+                "x": "70% of patients with low BMD are undiagnosed, often until a fracture occurs. OsteoSight Spine analyzes X-rays in patients 50 years and older, identifies cases at risk for low BMD and provides a report to aid the interpreting physician and prompt a clinical assessment of bone health."
               },
               {
                 "t": "p",
-                "x": "Khanna, D., Grover, A. Beyond skin deep: physiologic oral pigmentation as an overlooked validation gap in AI-assisted oral cancer screening. npj Digit. Med. (2026). 早期公開版(Accelerated article preview)で、現時点では要旨のみが公開されている。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "口腔癌AI筛查\n存在色素验证缺口",
-          "body": "MeMoSA等工具主要在亚洲人群中验证，可能把正常口腔色素误判为可疑。",
-          "mini_headline": "口腔癌AI色素验证缺口",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "以MeMoSA为代表的AI-assisted(AI辅助)口腔癌筛查工具几乎只在亚洲人群中做过验证。作者提出一个可检验的假设：生理性口腔色素沉着因种族而异、与病理无关，可能导致分类器把正常变异误判为可疑，或漏掉被色素掩盖的病灶。借鉴脉搏血氧仪和皮肤科AI的先例，作者呼吁在美国等种族多元的环境中部署前，先按色素沉着程度分层进行验证。"
-              },
-              {
-                "t": "p",
-                "x": "Khanna, D., Grover, A. Beyond skin deep: physiologic oral pigmentation as an overlooked validation gap in AI-assisted oral cancer screening. npj Digit. Med. (2026). 本文为加速预览版(Accelerated article preview)，目前仅发布了摘要。"
+                "x": "“OsteoSight Spine draws on the X-rays we order every day to flag patients whose low bone density is hiding in plain sight,” said Dr. Todd Albert of Hospital for Special Surgery. “Spine and chest X-rays are among the most common images in medicine, and each one is a chance to catch low bone density before a fracture,” said Naitive CEO Dr. Will Briggs."
               }
             ]
           }
         },
         "es": {
-          "headline": "La AI de cáncer oral tiene un\nvacío de validación pigmentaria",
-          "body": "Herramientas como MeMoSA, validadas sobre todo en asiáticos, podrían juzgar sospechosa la pigmentación oral normal.",
-          "mini_headline": "AI oral: vacío de pigmentación",
+          "headline": "La FDA autoriza OsteoSight Spine\nsalud ósea con AI en rayos X",
+          "body": "Con la autorización 510(k) de la FDA, Naitive lleva su evaluación ósea con AI a rayos X de columna y tórax.",
+          "mini_headline": "La FDA autoriza AI ósea en rayos X",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Las herramientas de cribado de cáncer oral AI-assisted (asistidas por AI), con MeMoSA como ejemplo, se han validado casi exclusivamente en poblaciones asiáticas. Proponemos una hipótesis comprobable: la pigmentación oral fisiológica, que varía según la raza con independencia de la patología, puede hacer que los clasificadores tomen la variación normal por sospechosa o pasen por alto lesiones camufladas. Siguiendo el precedente de la pulsioximetría y la AI dermatológica, pedimos una validación estratificada por pigmentación antes de su despliegue en entornos racialmente diversos como Estados Unidos."
+                "t": "img",
+                "src": "https://naxztztabtiofaq7.public.blob.vercel-storage.com/app-uploads/images/1794492544592-Naitive-LinkedIn-post---1200---627-q9nL5xrPZdo1AtcWY8epwITx37wld5.png",
+                "cap": "Cortesía de Naitive Technologies"
               },
               {
                 "t": "p",
-                "x": "Khanna, D., Grover, A. Beyond skin deep: physiologic oral pigmentation as an overlooked validation gap in AI-assisted oral cancer screening. npj Digit. Med. (2026). Vista previa acelerada del artículo (Accelerated article preview); por ahora solo se ha publicado el resumen."
+                "x": "Naitive Technologies anunció que recibió la autorización 510(k) de la FDA de Estados Unidos (U.S.) para OsteoSight Spine, que permite evaluar de forma oportunista la densidad mineral ósea (BMD) con radiografías rutinarias de columna lumbar, columna torácica y tórax obtenidas para investigar otros problemas clínicos. Se estima que en Estados Unidos (US) se realizan 124 millones de estas radiografías al año. La autorización llega después de que la FDA autorizara OsteoSight para radiografías de cadera y pelvis en septiembre de 2025."
+              },
+              {
+                "t": "p",
+                "x": "El 70% de los pacientes con BMD baja no está diagnosticado, a menudo hasta que se produce una fractura. OsteoSight Spine analiza radiografías de pacientes de 50 años o más, identifica casos con riesgo de BMD baja y ofrece un informe que ayuda al médico que las interpreta y promueve una evaluación clínica de la salud ósea."
+              },
+              {
+                "t": "p",
+                "x": "“OsteoSight Spine aprovecha las radiografías que pedimos cada día para señalar a pacientes cuya baja densidad ósea se esconde a plena vista”, dijo el Dr. Todd Albert, del Hospital for Special Surgery. “Las radiografías de columna y tórax están entre las imágenes más comunes de la medicina, y cada una es una oportunidad para detectar la baja densidad ósea antes de una fractura”, dijo el CEO de Naitive, el Dr. Will Briggs."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "FDA, X선 AI 골건강\nOsteoSight 승인",
+          "body": "Naitive는 FDA 510(k)로 AI 골건강 평가를 척추·흉부 X선에 넓혔다.",
+          "mini_headline": "FDA, X선 AI 골건강 판독 승인",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://naxztztabtiofaq7.public.blob.vercel-storage.com/app-uploads/images/1794492544592-Naitive-LinkedIn-post---1200---627-q9nL5xrPZdo1AtcWY8epwITx37wld5.png",
+                "cap": "Naitive Technologies 제공"
+              },
+              {
+                "t": "p",
+                "x": "Naitive Technologies가 OsteoSight Spine의 U.S. FDA 510(k) 승인을 발표했다. OsteoSight Spine은 다른 임상 목적으로 찍은 일상적인 요추·흉추·흉부 X선(X-rays)을 그대로 활용해 골밀도(BMD)를 기회적으로 평가한다. US에서는 이런 X선 촬영이 해마다 약 124 million 건으로 추산된다. 앞서 2025년 9월에는 고관절·골반 X선용 OsteoSight가 FDA 승인을 받았다."
+              },
+              {
+                "t": "p",
+                "x": "BMD가 낮은 환자의 70%는 진단 없이 지내다 골절이 생기고 나서야 발견되는 일이 많다. OsteoSight Spine은 50세 이상 환자의 X선을 분석해 낮은 BMD 위험 사례를 골라낸다. 보고서는 판독의를 돕고 골 건강 임상 평가로 이어지게 한다."
+              },
+              {
+                "t": "p",
+                "x": "Hospital for Special Surgery의 Dr. Todd Albert는 “OsteoSight Spine은 우리가 매일 처방하는 X선을 활용해 버젓이 눈앞에 숨어 있던 낮은 골밀도 환자를 짚어 낸다”고 말했다. Naitive CEO Dr. Will Briggs는 “척추와 흉부 X선은 의학에서 가장 흔한 영상에 속하며, 한 장 한 장이 골절 전에 낮은 골밀도를 잡아낼 기회”라고 설명했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "FDA、X線AI骨評価\nOsteoSightを承認",
+          "body": "NaitiveはFDA 510(k)取得で、AI骨健康評価を脊椎・胸部X線へ広げた。",
+          "mini_headline": "FDA、X線のAI骨評価を承認",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://naxztztabtiofaq7.public.blob.vercel-storage.com/app-uploads/images/1794492544592-Naitive-LinkedIn-post---1200---627-q9nL5xrPZdo1AtcWY8epwITx37wld5.png",
+                "cap": "Naitive Technologies提供"
+              },
+              {
+                "t": "p",
+                "x": "Naitive Technologiesは、OsteoSight SpineがU.S. FDAから510(k)クリアランスを取得したと発表した。OsteoSight Spineは、別の臨床的理由で撮影された通常の腰椎・胸椎・胸部X線（X-rays）を使い、骨密度（BMD）を機会的に評価できる。USではこうしたX線撮影が年間推定124 million 件行われている。今回の承認は、2025年9月に股関節・骨盤X線向けのOsteoSightがFDAの承認を受けたのに続くものだ。"
+              },
+              {
+                "t": "p",
+                "x": "BMDが低い患者の70%は診断されておらず、骨折が起きるまで見過ごされることが多い。OsteoSight Spineは50歳以上の患者のX線を解析し、低BMDのリスクがある症例を特定して、読影医を支援し骨の健康の臨床評価を促すレポートを提供する。"
+              },
+              {
+                "t": "p",
+                "x": "「OsteoSight Spineは、私たちが毎日オーダーするX線を活用し、目の前に隠れている低骨密度の患者を拾い上げる」とHospital for Special SurgeryのDr. Todd Albertは述べた。NaitiveのCEO、Dr. Will Briggsは「脊椎と胸部のX線は医療で最も一般的な画像の一つであり、その一枚一枚が骨折前に低骨密度を見つける機会だ」と語った。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "FDA批准X光AI骨评估\nOsteoSight脊柱版",
+          "body": "Naitive获FDA 510(k)许可，将AI机会性骨健康评估扩展至脊柱与胸部X光。",
+          "mini_headline": "FDA批准X光AI骨健康评估",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://naxztztabtiofaq7.public.blob.vercel-storage.com/app-uploads/images/1794492544592-Naitive-LinkedIn-post---1200---627-q9nL5xrPZdo1AtcWY8epwITx37wld5.png",
+                "cap": "图片由Naitive Technologies提供"
+              },
+              {
+                "t": "p",
+                "x": "Naitive Technologies宣布，其OsteoSight Spine已获U.S. FDA的510(k)许可。该产品可利用为排查其他临床问题而拍摄的常规腰椎、胸椎及胸部X光片（X-rays），对骨密度（BMD）进行机会性评估。US每年此类X光检查估计约有124 million 次。此前，用于髋部和骨盆X光的OsteoSight已于2025年9月获FDA许可。"
+              },
+              {
+                "t": "p",
+                "x": "70%的低BMD患者未获诊断，往往直到发生骨折才被发现。OsteoSight Spine分析50岁及以上患者的X光片，识别存在低BMD风险的病例，并提供报告，辅助判读医生并促使其对骨骼健康进行临床评估。"
+              },
+              {
+                "t": "p",
+                "x": "Hospital for Special Surgery的Dr. Todd Albert表示：“OsteoSight Spine利用我们每天开具的X光片，找出那些低骨密度就藏在眼皮底下的患者。”Naitive首席执行官（CEO）Dr. Will Briggs说：“脊柱和胸部X光是医学中最常见的影像之一，每一张都是在骨折前发现低骨密度的机会。”"
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "구강암 AI 검진에\n색소 검증 공백",
-          "body": "아시아인 위주로 검증된 MeMoSA는 정상 구강 색소를 이상으로 볼 수 있다.",
-          "mini_headline": "구강암 AI 색소 검증 공백",
+        "es": {
+          "headline": "La FDA autoriza OsteoSight Spine\nsalud ósea con AI en rayos X",
+          "body": "Con la autorización 510(k) de la FDA, Naitive lleva su evaluación ósea con AI a rayos X de columna y tórax.",
+          "mini_headline": "La FDA autoriza AI ósea en rayos X",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "MeMoSA로 대표되는 AI-assisted(AI 보조) 구강암 검진 도구는 거의 아시아인 집단에서만 검증됐다. 연구진은 검증 가능한 가설을 제시한다. 병리와 무관하게 인종에 따라 달라지는 생리적 구강 색소 침착 때문에 분류기가 정상 변이를 의심 소견으로 잘못 분류하거나, 색소에 가려진 병변을 놓칠 수 있다는 것이다. 연구진은 맥박산소측정기와 피부과 AI의 선례에 비춰, 미국처럼 인종이 다양한 환경에 도입하기 전에 색소 침착 정도별로 나눈 검증이 필요하다고 촉구한다."
+                "t": "img",
+                "src": "https://naxztztabtiofaq7.public.blob.vercel-storage.com/app-uploads/images/1794492544592-Naitive-LinkedIn-post---1200---627-q9nL5xrPZdo1AtcWY8epwITx37wld5.png",
+                "cap": "Cortesía de Naitive Technologies"
               },
               {
                 "t": "p",
-                "x": "Khanna, D., Grover, A. Beyond skin deep: physiologic oral pigmentation as an overlooked validation gap in AI-assisted oral cancer screening. npj Digit. Med. (2026). 가속 공개(Accelerated article preview) 논문으로, 지금까지는 초록만 공개됐다."
+                "x": "Naitive Technologies anunció que recibió la autorización 510(k) de la FDA de Estados Unidos (U.S.) para OsteoSight Spine, que permite evaluar de forma oportunista la densidad mineral ósea (BMD) con radiografías rutinarias de columna lumbar, columna torácica y tórax obtenidas para investigar otros problemas clínicos. Se estima que en Estados Unidos (US) se realizan 124 millones de estas radiografías al año. La autorización llega después de que la FDA autorizara OsteoSight para radiografías de cadera y pelvis en septiembre de 2025."
+              },
+              {
+                "t": "p",
+                "x": "El 70% de los pacientes con BMD baja no está diagnosticado, a menudo hasta que se produce una fractura. OsteoSight Spine analiza radiografías de pacientes de 50 años o más, identifica casos con riesgo de BMD baja y ofrece un informe que ayuda al médico que las interpreta y promueve una evaluación clínica de la salud ósea."
+              },
+              {
+                "t": "p",
+                "x": "“OsteoSight Spine aprovecha las radiografías que pedimos cada día para señalar a pacientes cuya baja densidad ósea se esconde a plena vista”, dijo el Dr. Todd Albert, del Hospital for Special Surgery. “Las radiografías de columna y tórax están entre las imágenes más comunes de la medicina, y cada una es una oportunidad para detectar la baja densidad ósea antes de una fractura”, dijo el CEO de Naitive, el Dr. Will Briggs."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "FDA, X선 AI 골건강\nOsteoSight 승인",
+          "body": "Naitive는 FDA 510(k)로 AI 골건강 평가를 척추·흉부 X선에 넓혔다.",
+          "mini_headline": "FDA, X선 AI 골건강 판독 승인",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://naxztztabtiofaq7.public.blob.vercel-storage.com/app-uploads/images/1794492544592-Naitive-LinkedIn-post---1200---627-q9nL5xrPZdo1AtcWY8epwITx37wld5.png",
+                "cap": "Naitive Technologies 제공"
+              },
+              {
+                "t": "p",
+                "x": "Naitive Technologies는 OsteoSight Spine이 U.S. FDA로부터 510(k) 승인을 받았다고 발표했다. OsteoSight Spine은 다른 임상적 이유로 촬영한 일상적인 요추·흉추·흉부 X선(X-rays)을 활용해 골밀도(BMD)를 기회적으로 평가한다. US에서는 이런 X선 촬영이 해마다 약 124 million 건 이뤄지는 것으로 추산된다. 이번 승인은 2025년 9월 고관절·골반 X선용 OsteoSight가 FDA 승인을 받은 데 이은 것이다."
+              },
+              {
+                "t": "p",
+                "x": "BMD가 낮은 환자의 70%는 진단을 받지 못한 채 지내며, 골절이 생긴 뒤에야 발견되는 경우가 많다. OsteoSight Spine은 50세 이상 환자의 X선을 분석해 낮은 BMD 위험 사례를 찾아내고, 판독의를 돕고 골 건강에 대한 임상 평가를 이끌어 내는 보고서를 제공한다."
+              },
+              {
+                "t": "p",
+                "x": "Hospital for Special Surgery의 Dr. Todd Albert는 “OsteoSight Spine은 우리가 매일 처방하는 X선을 활용해 버젓이 눈앞에 숨어 있던 낮은 골밀도 환자를 짚어 낸다”고 말했다. Naitive CEO Dr. Will Briggs는 “척추와 흉부 X선은 의학에서 가장 흔한 영상에 속하며, 한 장 한 장이 골절 전에 낮은 골밀도를 잡아낼 기회”라고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "口腔がんAIに\n色素の検証ギャップ",
-          "body": "アジア人中心に検証されたMeMoSAなどは、正常な口腔色素を疑わしいと判定しうる。",
-          "mini_headline": "口腔がんAIの色素ギャップ",
+          "headline": "FDA、X線AI骨評価\nOsteoSightを承認",
+          "body": "NaitiveはFDA 510(k)取得で、AI骨健康評価を脊椎・胸部X線へ広げた。",
+          "mini_headline": "FDA、X線のAI骨評価を承認",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "MeMoSAに代表されるAI-assisted(AI支援)口腔がん検診ツールは、ほぼアジア人集団でのみ検証されてきた。著者らは検証可能な仮説を提示する。病理とは無関係に人種によって異なる生理的な口腔色素沈着が原因で、分類器が正常な変異を疑わしいと誤分類したり、色素に紛れた病変を見逃したりする可能性があるというものだ。パルスオキシメトリーや皮膚科AIの前例にならい、米国のように人種が多様な環境で導入する前に、色素沈着の程度で層別化した検証を行うよう求めている。"
+                "t": "img",
+                "src": "https://naxztztabtiofaq7.public.blob.vercel-storage.com/app-uploads/images/1794492544592-Naitive-LinkedIn-post---1200---627-q9nL5xrPZdo1AtcWY8epwITx37wld5.png",
+                "cap": "Naitive Technologies提供"
               },
               {
                 "t": "p",
-                "x": "Khanna, D., Grover, A. Beyond skin deep: physiologic oral pigmentation as an overlooked validation gap in AI-assisted oral cancer screening. npj Digit. Med. (2026). 早期公開版(Accelerated article preview)で、現時点では要旨のみが公開されている。"
+                "x": "Naitive Technologiesは、OsteoSight SpineがU.S. FDAから510(k)クリアランスを取得したと発表した。OsteoSight Spineは、別の臨床的理由で撮影された通常の腰椎・胸椎・胸部X線（X-rays）を使い、骨密度（BMD）を機会的に評価できる。USではこうしたX線撮影が年間推定124 million 件行われている。今回の承認は、2025年9月に股関節・骨盤X線向けのOsteoSightがFDAの承認を受けたのに続くものだ。"
+              },
+              {
+                "t": "p",
+                "x": "BMDが低い患者の70%は診断されておらず、骨折が起きるまで見過ごされることが多い。OsteoSight Spineは50歳以上の患者のX線を解析し、低BMDのリスクがある症例を特定して、読影医を支援し骨の健康の臨床評価を促すレポートを提供する。"
+              },
+              {
+                "t": "p",
+                "x": "「OsteoSight Spineは、私たちが毎日オーダーするX線を活用し、目の前に隠れている低骨密度の患者を拾い上げる」とHospital for Special SurgeryのDr. Todd Albertは述べた。NaitiveのCEO、Dr. Will Briggsは「脊椎と胸部のX線は医療で最も一般的な画像の一つであり、その一枚一枚が骨折前に低骨密度を見つける機会だ」と語った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "口腔癌AI筛查\n存在色素验证缺口",
-          "body": "MeMoSA等工具主要在亚洲人群中验证，可能把正常口腔色素误判为可疑。",
-          "mini_headline": "口腔癌AI色素验证缺口",
+          "headline": "FDA批准X光AI骨评估\nOsteoSight脊柱版",
+          "body": "Naitive获FDA 510(k)许可，将AI机会性骨健康评估扩展至脊柱与胸部X光。",
+          "mini_headline": "FDA批准X光AI骨健康评估",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "以MeMoSA为代表的AI-assisted(AI辅助)口腔癌筛查工具几乎只在亚洲人群中做过验证。作者提出一个可检验的假设：生理性口腔色素沉着因种族而异、与病理无关，可能导致分类器把正常变异误判为可疑，或漏掉被色素掩盖的病灶。借鉴脉搏血氧仪和皮肤科AI的先例，作者呼吁在美国等种族多元的环境中部署前，先按色素沉着程度分层进行验证。"
+                "t": "img",
+                "src": "https://naxztztabtiofaq7.public.blob.vercel-storage.com/app-uploads/images/1794492544592-Naitive-LinkedIn-post---1200---627-q9nL5xrPZdo1AtcWY8epwITx37wld5.png",
+                "cap": "图片由Naitive Technologies提供"
               },
               {
                 "t": "p",
-                "x": "Khanna, D., Grover, A. Beyond skin deep: physiologic oral pigmentation as an overlooked validation gap in AI-assisted oral cancer screening. npj Digit. Med. (2026). 本文为加速预览版(Accelerated article preview)，目前仅发布了摘要。"
+                "x": "Naitive Technologies宣布，其OsteoSight Spine已获U.S. FDA的510(k)许可。该产品可利用为排查其他临床问题而拍摄的常规腰椎、胸椎及胸部X光片（X-rays），对骨密度（BMD）进行机会性评估。US每年此类X光检查估计约有124 million 次。此前，用于髋部和骨盆X光的OsteoSight已于2025年9月获FDA许可。"
+              },
+              {
+                "t": "p",
+                "x": "70%的低BMD患者未获诊断，往往直到发生骨折才被发现。OsteoSight Spine分析50岁及以上患者的X光片，识别存在低BMD风险的病例，并提供报告，辅助判读医生并促使其对骨骼健康进行临床评估。"
+              },
+              {
+                "t": "p",
+                "x": "Hospital for Special Surgery的Dr. Todd Albert表示：“OsteoSight Spine利用我们每天开具的X光片，找出那些低骨密度就藏在眼皮底下的患者。”Naitive首席执行官（CEO）Dr. Will Briggs说：“脊柱和胸部X光是医学中最常见的影像之一，每一张都是在骨折前发现低骨密度的机会。”"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "dongsan-adpkd-ai-platform",
+      "source_lang": "ko",
+      "eyebrow": "AI NEWS",
+      "headline": "계명대 동산병원\n다낭콩팥병 AI 플랫폼",
+      "body": "동산병원이 다낭콩팥병 환자의 일상 건강관리를 돕는 AI 플랫폼 구축에 나섰다.",
+      "mini_headline": "다낭콩팥병\nAI 관리 플랫폼",
+      "tool": "Medicine",
+      "source": "의학신문",
+      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3016555",
+      "accent": "#eb367f",
+      "motif": "sphere",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://cdn.bosa.co.kr/news/photo/202611/3016555_417451_059.jpg",
+            "cap": "계명대학교 동산병원 전경"
+          },
+          {
+            "t": "p",
+            "x": "계명대학교 동산병원(병원장 김준형)이 유전성 신장질환인 다낭콩팥병 환자의 일상 속 건강관리를 돕는 인공지능(AI) 기반 통합관리 플랫폼 구축에 나선다. 동산병원은 최근 연구중심병원 도약지원사업(C-LINK R&D)의 일환으로 ‘상염색체우성 다낭콩팥병(ADPKD) 기반 질병부담 중심 대사·기능 통합관리 플랫폼 구축’ 과제를 수행하고 있다고 밝혔다."
+          },
+          {
+            "t": "p",
+            "x": "다낭콩팥병은 콩팥과 간 등에 다수의 낭종(물혹)이 생겨 커지면서 신장 기능이 점차 떨어지는 유전성 질환이다. 환자마다 병의 진행 속도가 다르고 복부 통증과 피로 등 증상이 다양해, 단순 신장 기능 수치를 넘어 영양과 신체 활동량을 아우르는 입체적 관리가 필수적이다."
+          },
+          {
+            "t": "p",
+            "x": "이번 플랫폼은 임상 데이터와 AI 영상 분석, 신체 기능 평가, 맞춤형 운동, 환자 교육을 하나의 시스템으로 연동하는 것이 핵심이다. AI가 분석한 콩팥·간 영상 데이터에 근육량과 웨어러블 기기 등으로 수집한 활동량, 통증·피로도 지표를 결합해 환자별 질병 부담을 정밀 평가하고, 이를 토대로 최적화된 운동 처방을 내리는 방식이다. 이를 위해 신장내과와 재활의학과를 주축으로 운동·영양·디지털헬스 분야 전문가들이 다학제 협력 체계를 가동하고 있다."
+          },
+          {
+            "t": "p",
+            "x": "현장 적용 가능성을 확인하기 위한 예비연구(Pilot study)에서도 긍정적인 성과가 도출되고 있다. 연구진이 모바일 플랫폼을 통해 맞춤형 운동 중재를 시행한 결과, 환자들의 치료 참여 순응도는 90% 이상을 기록했다. 참여 환자들은 구체적인 운동 가이드와 실시간 실천 지원이 일상생활의 활력을 찾는 데 실질적인 도움이 됐다고 평가했다."
+          },
+          {
+            "t": "p",
+            "x": "연구책임자인 김예림 신장내과 교수는 “다낭콩팥병 환자들이 병원 밖 일상에서도 스스로 건강관리를 지속할 수 있는 환경을 만드는 것이 이번 연구의 목표”라며 “예비연구에서 확인된 환자들의 피드백을 바탕으로 운동 프로그램과 플랫폼의 완성도를 더욱 높이겠다”고 전했다."
+          },
+          {
+            "t": "p",
+            "x": "동산병원은 이번 플랫폼을 다낭콩팥병에 우선 적용한 뒤, 연구중심병원의 임상연구 인프라를 활용해 다양한 만성질환에 범용적으로 활용할 수 있는 통합관리 모델로 고도화하고 사업화까지 추진할 계획이다."
+          }
+        ]
+      },
+      "text": {
+        "ko": {
+          "headline": "계명대 동산병원\n다낭콩팥병 AI 플랫폼",
+          "body": "동산병원이 다낭콩팥병 환자의 일상 건강관리를 돕는 AI 플랫폼 구축에 나섰다.",
+          "mini_headline": "다낭콩팥병\nAI 관리 플랫폼",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.bosa.co.kr/news/photo/202611/3016555_417451_059.jpg",
+                "cap": "계명대학교 동산병원 전경"
+              },
+              {
+                "t": "p",
+                "x": "계명대학교 동산병원(병원장 김준형)이 유전성 신장질환인 다낭콩팥병 환자의 일상 속 건강관리를 돕는 인공지능(AI) 기반 통합관리 플랫폼 구축에 나선다. 동산병원은 최근 연구중심병원 도약지원사업(C-LINK R&D)의 일환으로 ‘상염색체우성 다낭콩팥병(ADPKD) 기반 질병부담 중심 대사·기능 통합관리 플랫폼 구축’ 과제를 수행하고 있다고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "다낭콩팥병은 콩팥과 간 등에 다수의 낭종(물혹)이 생겨 커지면서 신장 기능이 점차 떨어지는 유전성 질환이다. 환자마다 병의 진행 속도가 다르고 복부 통증과 피로 등 증상이 다양해, 단순 신장 기능 수치를 넘어 영양과 신체 활동량을 아우르는 입체적 관리가 필수적이다."
+              },
+              {
+                "t": "p",
+                "x": "이번 플랫폼은 임상 데이터와 AI 영상 분석, 신체 기능 평가, 맞춤형 운동, 환자 교육을 하나의 시스템으로 연동하는 것이 핵심이다. AI가 분석한 콩팥·간 영상 데이터에 근육량과 웨어러블 기기 등으로 수집한 활동량, 통증·피로도 지표를 결합해 환자별 질병 부담을 정밀 평가하고, 이를 토대로 최적화된 운동 처방을 내리는 방식이다. 이를 위해 신장내과와 재활의학과를 주축으로 운동·영양·디지털헬스 분야 전문가들이 다학제 협력 체계를 가동하고 있다."
+              },
+              {
+                "t": "p",
+                "x": "현장 적용 가능성을 확인하기 위한 예비연구(Pilot study)에서도 긍정적인 성과가 도출되고 있다. 연구진이 모바일 플랫폼을 통해 맞춤형 운동 중재를 시행한 결과, 환자들의 치료 참여 순응도는 90% 이상을 기록했다. 참여 환자들은 구체적인 운동 가이드와 실시간 실천 지원이 일상생활의 활력을 찾는 데 실질적인 도움이 됐다고 평가했다."
+              },
+              {
+                "t": "p",
+                "x": "연구책임자인 김예림 신장내과 교수는 “다낭콩팥병 환자들이 병원 밖 일상에서도 스스로 건강관리를 지속할 수 있는 환경을 만드는 것이 이번 연구의 목표”라며 “예비연구에서 확인된 환자들의 피드백을 바탕으로 운동 프로그램과 플랫폼의 완성도를 더욱 높이겠다”고 전했다."
+              },
+              {
+                "t": "p",
+                "x": "동산병원은 이번 플랫폼을 다낭콩팥병에 우선 적용한 뒤, 연구중심병원의 임상연구 인프라를 활용해 다양한 만성질환에 범용적으로 활용할 수 있는 통합관리 모델로 고도화하고 사업화까지 추진할 계획이다."
+              }
+            ]
+          }
+        },
+        "en": {
+          "headline": "Keimyung Univ. Dongsan Hospital\nPolycystic kidney AI platform",
+          "body": "Dongsan Hospital is building an AI platform to help polycystic kidney disease patients manage their daily health.",
+          "mini_headline": "AI care platform for polycystic kidney disease",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.bosa.co.kr/news/photo/202611/3016555_417451_059.jpg",
+                "cap": "Exterior of Keimyung University Dongsan Hospital"
+              },
+              {
+                "t": "p",
+                "x": "Keimyung University Dongsan Hospital (director Kim Jun-hyung) is setting out to build an artificial intelligence (AI)-based integrated management platform that helps patients with polycystic kidney disease, a hereditary kidney disorder, manage their health in daily life. The hospital said it is carrying out the project ‘Building an integrated metabolic and functional management platform centered on disease burden in autosomal dominant polycystic kidney disease (ADPKD)’ as part of the research-oriented hospital leap support program (C-LINK R&D)."
+              },
+              {
+                "t": "p",
+                "x": "Polycystic kidney disease is a hereditary condition in which numerous cysts (fluid-filled sacs) form and grow in the kidneys, liver and other organs, gradually reducing kidney function. Because the pace of progression differs from patient to patient and symptoms such as abdominal pain and fatigue vary, multidimensional care that covers nutrition and physical activity, beyond simple kidney function values, is essential."
+              },
+              {
+                "t": "p",
+                "x": "The core of the platform is linking clinical data, AI image analysis, physical function assessment, personalized exercise and patient education in a single system. It combines kidney and liver imaging data analyzed by AI with muscle mass, activity levels collected through wearable devices and other means, and pain and fatigue indicators to precisely assess each patient's disease burden, then issues optimized exercise prescriptions on that basis. To do this, nephrology and rehabilitation medicine lead a multidisciplinary collaboration with experts in exercise, nutrition and digital health."
+              },
+              {
+                "t": "p",
+                "x": "The preliminary study (Pilot study) to confirm feasibility in clinical settings is also producing positive results. When the researchers delivered personalized exercise interventions through a mobile platform, patient adherence to treatment participation exceeded 90%. Participating patients said the specific exercise guidance and real-time support for putting it into practice genuinely helped them regain energy in daily life."
+              },
+              {
+                "t": "p",
+                "x": "“The goal of this research is to create an environment in which patients with polycystic kidney disease can keep managing their own health in daily life outside the hospital,” said principal investigator Kim Ye-rim, a professor of nephrology. “Based on the patient feedback confirmed in the preliminary study, we will further refine the exercise program and the platform.”"
+              },
+              {
+                "t": "p",
+                "x": "Dongsan Hospital plans to apply the platform first to polycystic kidney disease, then use the research-oriented hospital's clinical research infrastructure to advance it into an integrated management model that can be used broadly for a range of chronic diseases, and to pursue commercialization."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "啓明大学東山病院\n多発性嚢胞腎AI基盤",
+          "body": "東山病院が多発性嚢胞腎患者の日常の健康管理を支えるAI基盤の構築に乗り出した。",
+          "mini_headline": "多発性嚢胞腎のAI管理基盤",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.bosa.co.kr/news/photo/202611/3016555_417451_059.jpg",
+                "cap": "啓明大学校東山病院の外観"
+              },
+              {
+                "t": "p",
+                "x": "啓明大学校東山病院(病院長キム・ジュンヒョン)は、遺伝性の腎疾患である多発性嚢胞腎の患者の日常的な健康管理を支える人工知能(AI)ベースの統合管理プラットフォームの構築に乗り出す。同病院は最近、研究中心病院飛躍支援事業(C-LINK R&D)の一環として「常染色体顕性多発性嚢胞腎(ADPKD)に基づく疾病負担中心の代謝・機能統合管理プラットフォーム構築」の課題を進めていると明らかにした。"
+              },
+              {
+                "t": "p",
+                "x": "多発性嚢胞腎は、腎臓や肝臓などに多数の嚢胞(水ぶくれ)ができて大きくなり、腎機能が徐々に低下する遺伝性疾患だ。患者ごとに進行速度が異なり、腹痛や疲労など症状も多様なため、単なる腎機能の数値を超えて栄養や身体活動量まで含めた立体的な管理が欠かせない。"
+              },
+              {
+                "t": "p",
+                "x": "今回のプラットフォームの核心は、臨床データ、AI画像解析、身体機能評価、個別化運動、患者教育を一つのシステムで連動させることにある。AIが解析した腎臓・肝臓の画像データに、筋肉量やウェアラブル機器などで収集した活動量、痛み・疲労度の指標を組み合わせて患者ごとの疾病負担を精密に評価し、それをもとに最適化された運動処方を出す仕組みだ。そのために腎臓内科とリハビリテーション医学科を中心に、運動・栄養・デジタルヘルス分野の専門家が多職種連携体制を動かしている。"
+              },
+              {
+                "t": "p",
+                "x": "現場への適用可能性を確かめる予備研究(Pilot study)でも前向きな成果が出ている。研究チームがモバイルプラットフォームを通じて個別化運動介入を行った結果、患者の治療参加の遵守率は90%以上を記録した。参加した患者は、具体的な運動ガイドとリアルタイムの実践支援が日常生活の活力を取り戻すうえで実際に役立ったと評価した。"
+              },
+              {
+                "t": "p",
+                "x": "研究責任者であるキム・イェリム腎臓内科教授は「多発性嚢胞腎の患者が病院の外の日常でも自ら健康管理を続けられる環境をつくることが今回の研究の目標だ」とし、「予備研究で確認された患者のフィードバックをもとに、運動プログラムとプラットフォームの完成度をさらに高めていく」と述べた。"
+              },
+              {
+                "t": "p",
+                "x": "東山病院はこのプラットフォームをまず多発性嚢胞腎に適用し、その後、研究中心病院の臨床研究インフラを活用して、さまざまな慢性疾患に幅広く使える統合管理モデルへと高度化し、事業化まで進める計画だ。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "启明大学东山医院\n多囊肾AI管理平台",
+          "body": "东山医院着手构建AI平台，帮助多囊肾病患者做好日常健康管理。",
+          "mini_headline": "多囊肾AI管理平台",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.bosa.co.kr/news/photo/202611/3016555_417451_059.jpg",
+                "cap": "启明大学东山医院外景"
+              },
+              {
+                "t": "p",
+                "x": "启明大学东山医院（院长Kim Jun-hyung）将着手构建基于人工智能（AI）的综合管理平台，帮助遗传性肾病多囊肾病患者做好日常健康管理。医院表示，近期正作为研究型医院跃升支持项目（C-LINK R&D）的一部分，推进“基于常染色体显性多囊肾病（ADPKD）、以疾病负担为中心的代谢与功能综合管理平台构建”课题。"
+              },
+              {
+                "t": "p",
+                "x": "多囊肾病是一种遗传性疾病，肾脏和肝脏等器官中会出现多个囊肿（水泡）并逐渐增大，导致肾功能逐步下降。由于每位患者的病情进展速度不同，腹痛、疲劳等症状也多种多样，因此需要超越单纯肾功能指标、兼顾营养与身体活动量的立体化管理。"
+              },
+              {
+                "t": "p",
+                "x": "该平台的核心是将临床数据、AI影像分析、身体功能评估、个性化运动和患者教育整合到同一个系统中。它把AI分析的肾脏和肝脏影像数据，与肌肉量、通过可穿戴设备等收集的活动量以及疼痛和疲劳指标相结合，精确评估每位患者的疾病负担，并据此给出优化的运动处方。为此，医院以肾内科和康复医学科为核心，联合运动、营养和数字健康领域专家，运行多学科协作体系。"
+              },
+              {
+                "t": "p",
+                "x": "在为确认临床应用可行性而开展的预研究（Pilot study）中，也取得了积极成果。研究团队通过移动平台实施个性化运动干预后，患者的治疗参与依从性达到90%以上。参与患者表示，具体的运动指导和实时的实践支持，切实帮助他们在日常生活中找回活力。"
+              },
+              {
+                "t": "p",
+                "x": "研究负责人、肾内科教授Kim Ye-rim表示：“这项研究的目标，是让多囊肾病患者在医院之外的日常生活中也能持续自我管理健康。”并表示：“我们将根据预研究中患者的反馈，进一步完善运动方案和平台。”"
+              },
+              {
+                "t": "p",
+                "x": "东山医院计划先将该平台应用于多囊肾病，随后利用研究型医院的临床研究基础设施，将其升级为可广泛用于多种慢性病的综合管理模式，并推进商业化。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La AI de cáncer oral tiene un\nvacío de validación pigmentaria",
-          "body": "Herramientas como MeMoSA, validadas sobre todo en asiáticos, podrían juzgar sospechosa la pigmentación oral normal.",
-          "mini_headline": "AI oral: vacío de pigmentación",
+          "headline": "Hospital Dongsan de Keimyung\nAI para la poliquistosis renal",
+          "body": "El Hospital Dongsan crea una plataforma de AI que ayuda a pacientes con poliquistosis renal a cuidar su salud diaria.",
+          "mini_headline": "Plataforma de AI para la poliquistosis renal",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "Las herramientas de cribado de cáncer oral AI-assisted (asistidas por AI), con MeMoSA como ejemplo, se han validado casi exclusivamente en poblaciones asiáticas. Proponemos una hipótesis comprobable: la pigmentación oral fisiológica, que varía según la raza con independencia de la patología, puede hacer que los clasificadores tomen la variación normal por sospechosa o pasen por alto lesiones camufladas. Siguiendo el precedente de la pulsioximetría y la AI dermatológica, pedimos una validación estratificada por pigmentación antes de su despliegue en entornos racialmente diversos como Estados Unidos."
+                "t": "img",
+                "src": "https://cdn.bosa.co.kr/news/photo/202611/3016555_417451_059.jpg",
+                "cap": "Vista exterior del Hospital Dongsan de la Universidad Keimyung"
               },
               {
                 "t": "p",
-                "x": "Khanna, D., Grover, A. Beyond skin deep: physiologic oral pigmentation as an overlooked validation gap in AI-assisted oral cancer screening. npj Digit. Med. (2026). Vista previa acelerada del artículo (Accelerated article preview); por ahora solo se ha publicado el resumen."
+                "x": "El Hospital Dongsan de la Universidad Keimyung (director: Kim Jun-hyung) se dispone a crear una plataforma de gestión integral basada en inteligencia artificial (AI) para ayudar a los pacientes con poliquistosis renal, una enfermedad renal hereditaria, a cuidar su salud en el día a día. El hospital informó de que, como parte del programa de apoyo al impulso de hospitales orientados a la investigación (C-LINK R&D), desarrolla el proyecto ‘Creación de una plataforma de gestión integral metabólica y funcional centrada en la carga de enfermedad basada en la poliquistosis renal autosómica dominante (ADPKD)’."
+              },
+              {
+                "t": "p",
+                "x": "La poliquistosis renal es una enfermedad hereditaria en la que se forman y crecen numerosos quistes (bolsas de líquido) en los riñones, el hígado y otros órganos, lo que reduce de forma progresiva la función renal. Como la velocidad de progresión varía entre pacientes y los síntomas, como el dolor abdominal y la fatiga, son diversos, resulta imprescindible un manejo integral que abarque la nutrición y la actividad física más allá de los simples valores de función renal."
+              },
+              {
+                "t": "p",
+                "x": "La clave de la plataforma es conectar en un único sistema los datos clínicos, el análisis de imagen con AI, la evaluación de la función física, el ejercicio personalizado y la educación del paciente. Combina los datos de imagen de riñón e hígado analizados por AI con la masa muscular, la actividad registrada mediante dispositivos portátiles y otros medios, y los indicadores de dolor y fatiga para evaluar con precisión la carga de enfermedad de cada paciente y, a partir de ello, prescribir ejercicio optimizado. Para ello, nefrología y medicina de rehabilitación encabezan un sistema de colaboración multidisciplinar con expertos en ejercicio, nutrición y salud digital."
+              },
+              {
+                "t": "p",
+                "x": "El estudio preliminar (Pilot study) para comprobar su aplicabilidad en la práctica también está dando resultados positivos. Tras aplicar intervenciones de ejercicio personalizadas a través de una plataforma móvil, la adherencia de los pacientes a la participación en el tratamiento superó el 90%. Los pacientes participantes valoraron que la guía de ejercicio concreta y el apoyo en tiempo real les ayudaron de forma real a recuperar la vitalidad en su vida diaria."
+              },
+              {
+                "t": "p",
+                "x": "“El objetivo de esta investigación es crear un entorno en el que los pacientes con poliquistosis renal puedan seguir cuidando su salud por sí mismos en su vida diaria fuera del hospital”, afirmó Kim Ye-rim, responsable de la investigación y docente de Nefrología. “Con base en los comentarios de los pacientes recogidos en el estudio preliminar, seguiremos perfeccionando el programa de ejercicio y la plataforma”, añadió."
+              },
+              {
+                "t": "p",
+                "x": "El Hospital Dongsan prevé aplicar primero la plataforma a la poliquistosis renal y, después, aprovechar la infraestructura de investigación clínica del hospital orientado a la investigación para convertirla en un modelo de gestión integral aplicable de forma general a diversas enfermedades crónicas, e impulsar su comercialización."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "en": {
+          "headline": "Keimyung Univ. Dongsan Hospital\nPolycystic kidney AI platform",
+          "body": "Dongsan Hospital is building an AI platform to help polycystic kidney disease patients manage their daily health.",
+          "mini_headline": "AI care platform for polycystic kidney disease",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.bosa.co.kr/news/photo/202611/3016555_417451_059.jpg",
+                "cap": "Exterior of Keimyung University Dongsan Hospital"
+              },
+              {
+                "t": "p",
+                "x": "Keimyung University Dongsan Hospital (director Kim Jun-hyung) is setting out to build an artificial intelligence (AI)-based integrated management platform that helps patients with polycystic kidney disease, a hereditary kidney disorder, manage their health in daily life. The hospital said it is carrying out the project ‘Building an integrated metabolic and functional management platform centered on disease burden in autosomal dominant polycystic kidney disease (ADPKD)’ as part of the research-oriented hospital leap support program (C-LINK R&D)."
+              },
+              {
+                "t": "p",
+                "x": "Polycystic kidney disease is a hereditary condition in which numerous cysts (fluid-filled sacs) form and grow in the kidneys, liver and other organs, gradually reducing kidney function. Because the pace of progression differs from patient to patient and symptoms such as abdominal pain and fatigue vary, multidimensional care that covers nutrition and physical activity, beyond simple kidney function values, is essential."
+              },
+              {
+                "t": "p",
+                "x": "The core of the platform is linking clinical data, AI image analysis, physical function assessment, personalized exercise and patient education in a single system. It combines kidney and liver imaging data analyzed by AI with muscle mass, activity levels collected through wearable devices and other means, and pain and fatigue indicators to precisely assess each patient's disease burden, then issues optimized exercise prescriptions on that basis. To do this, nephrology and rehabilitation medicine lead a multidisciplinary collaboration with experts in exercise, nutrition and digital health."
+              },
+              {
+                "t": "p",
+                "x": "The preliminary study (Pilot study) to confirm feasibility in clinical settings is also producing positive results. When the researchers delivered personalized exercise interventions through a mobile platform, patient adherence to treatment participation exceeded 90%. Participating patients said the specific exercise guidance and real-time support for putting it into practice genuinely helped them regain energy in daily life."
+              },
+              {
+                "t": "p",
+                "x": "“The goal of this research is to create an environment in which patients with polycystic kidney disease can keep managing their own health in daily life outside the hospital,” said principal investigator Kim Ye-rim, a professor of nephrology. “Based on the patient feedback confirmed in the preliminary study, we will further refine the exercise program and the platform.”"
+              },
+              {
+                "t": "p",
+                "x": "Dongsan Hospital plans to apply the platform first to polycystic kidney disease, then use the research-oriented hospital's clinical research infrastructure to advance it into an integrated management model that can be used broadly for a range of chronic diseases, and to pursue commercialization."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "啓明大学東山病院\n多発性嚢胞腎AI基盤",
+          "body": "東山病院が多発性嚢胞腎患者の日常の健康管理を支えるAI基盤の構築に乗り出した。",
+          "mini_headline": "多発性嚢胞腎のAI管理基盤",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.bosa.co.kr/news/photo/202611/3016555_417451_059.jpg",
+                "cap": "啓明大学校東山病院の外観"
+              },
+              {
+                "t": "p",
+                "x": "啓明大学校東山病院(病院長キム・ジュンヒョン)は、遺伝性の腎疾患である多発性嚢胞腎の患者の日常的な健康管理を支える人工知能(AI)ベースの統合管理プラットフォームの構築に乗り出す。同病院は最近、研究中心病院飛躍支援事業(C-LINK R&D)の一環として「常染色体顕性多発性嚢胞腎(ADPKD)に基づく疾病負担中心の代謝・機能統合管理プラットフォーム構築」の課題を進めていると明らかにした。"
+              },
+              {
+                "t": "p",
+                "x": "多発性嚢胞腎は、腎臓や肝臓などに多数の嚢胞(水ぶくれ)ができて大きくなり、腎機能が徐々に低下する遺伝性疾患だ。患者ごとに進行速度が異なり、腹痛や疲労など症状も多様なため、単なる腎機能の数値を超えて栄養や身体活動量まで含めた立体的な管理が欠かせない。"
+              },
+              {
+                "t": "p",
+                "x": "今回のプラットフォームの核心は、臨床データ、AI画像解析、身体機能評価、個別化運動、患者教育を一つのシステムで連動させることにある。AIが解析した腎臓・肝臓の画像データに、筋肉量やウェアラブル機器などで収集した活動量、痛み・疲労度の指標を組み合わせて患者ごとの疾病負担を精密に評価し、それをもとに最適化された運動処方を出す仕組みだ。そのために腎臓内科とリハビリテーション医学科を中心に、運動・栄養・デジタルヘルス分野の専門家が多職種連携体制を動かしている。"
+              },
+              {
+                "t": "p",
+                "x": "現場への適用可能性を確かめる予備研究(Pilot study)でも前向きな成果が出ている。研究チームがモバイルプラットフォームを通じて個別化運動介入を行った結果、患者の治療参加の遵守率は90%以上を記録した。参加した患者は、具体的な運動ガイドとリアルタイムの実践支援が日常生活の活力を取り戻すうえで実際に役立ったと評価した。"
+              },
+              {
+                "t": "p",
+                "x": "研究責任者であるキム・イェリム腎臓内科教授は「多発性嚢胞腎の患者が病院の外の日常でも自ら健康管理を続けられる環境をつくることが今回の研究の目標だ」とし、「予備研究で確認された患者のフィードバックをもとに、運動プログラムとプラットフォームの完成度をさらに高めていく」と述べた。"
+              },
+              {
+                "t": "p",
+                "x": "東山病院はこのプラットフォームをまず多発性嚢胞腎に適用し、その後、研究中心病院の臨床研究インフラを活用して、さまざまな慢性疾患に幅広く使える統合管理モデルへと高度化し、事業化まで進める計画だ。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "启明大学东山医院\n多囊肾AI管理平台",
+          "body": "东山医院着手构建AI平台，帮助多囊肾病患者做好日常健康管理。",
+          "mini_headline": "多囊肾AI管理平台",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.bosa.co.kr/news/photo/202611/3016555_417451_059.jpg",
+                "cap": "启明大学东山医院外景"
+              },
+              {
+                "t": "p",
+                "x": "启明大学东山医院（院长Kim Jun-hyung）将着手构建基于人工智能（AI）的综合管理平台，帮助遗传性肾病多囊肾病患者做好日常健康管理。医院表示，近期正作为研究型医院跃升支持项目（C-LINK R&D）的一部分，推进“基于常染色体显性多囊肾病（ADPKD）、以疾病负担为中心的代谢与功能综合管理平台构建”课题。"
+              },
+              {
+                "t": "p",
+                "x": "多囊肾病是一种遗传性疾病，肾脏和肝脏等器官中会出现多个囊肿（水泡）并逐渐增大，导致肾功能逐步下降。由于每位患者的病情进展速度不同，腹痛、疲劳等症状也多种多样，因此需要超越单纯肾功能指标、兼顾营养与身体活动量的立体化管理。"
+              },
+              {
+                "t": "p",
+                "x": "该平台的核心是将临床数据、AI影像分析、身体功能评估、个性化运动和患者教育整合到同一个系统中。它把AI分析的肾脏和肝脏影像数据，与肌肉量、通过可穿戴设备等收集的活动量以及疼痛和疲劳指标相结合，精确评估每位患者的疾病负担，并据此给出优化的运动处方。为此，医院以肾内科和康复医学科为核心，联合运动、营养和数字健康领域专家，运行多学科协作体系。"
+              },
+              {
+                "t": "p",
+                "x": "在为确认临床应用可行性而开展的预研究（Pilot study）中，也取得了积极成果。研究团队通过移动平台实施个性化运动干预后，患者的治疗参与依从性达到90%以上。参与患者表示，具体的运动指导和实时的实践支持，切实帮助他们在日常生活中找回活力。"
+              },
+              {
+                "t": "p",
+                "x": "研究负责人、肾内科教授Kim Ye-rim表示：“这项研究的目标，是让多囊肾病患者在医院之外的日常生活中也能持续自我管理健康。”并表示：“我们将根据预研究中患者的反馈，进一步完善运动方案和平台。”"
+              },
+              {
+                "t": "p",
+                "x": "东山医院计划先将该平台应用于多囊肾病，随后利用研究型医院的临床研究基础设施，将其升级为可广泛用于多种慢性病的综合管理模式，并推进商业化。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Hospital Dongsan de Keimyung\nAI para la poliquistosis renal",
+          "body": "El Hospital Dongsan crea una plataforma de AI que ayuda a pacientes con poliquistosis renal a cuidar su salud diaria.",
+          "mini_headline": "Plataforma de AI para la poliquistosis renal",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.bosa.co.kr/news/photo/202611/3016555_417451_059.jpg",
+                "cap": "Vista exterior del Hospital Dongsan de la Universidad Keimyung"
+              },
+              {
+                "t": "p",
+                "x": "El Hospital Dongsan de la Universidad Keimyung (director: Kim Jun-hyung) se dispone a crear una plataforma de gestión integral basada en inteligencia artificial (AI) para ayudar a los pacientes con poliquistosis renal, una enfermedad renal hereditaria, a cuidar su salud en el día a día. El hospital informó de que, como parte del programa de apoyo al impulso de hospitales orientados a la investigación (C-LINK R&D), desarrolla el proyecto ‘Creación de una plataforma de gestión integral metabólica y funcional centrada en la carga de enfermedad basada en la poliquistosis renal autosómica dominante (ADPKD)’."
+              },
+              {
+                "t": "p",
+                "x": "La poliquistosis renal es una enfermedad hereditaria en la que se forman y crecen numerosos quistes (bolsas de líquido) en los riñones, el hígado y otros órganos, lo que reduce de forma progresiva la función renal. Como la velocidad de progresión varía entre pacientes y los síntomas, como el dolor abdominal y la fatiga, son diversos, resulta imprescindible un manejo integral que abarque la nutrición y la actividad física más allá de los simples valores de función renal."
+              },
+              {
+                "t": "p",
+                "x": "La clave de la plataforma es conectar en un único sistema los datos clínicos, el análisis de imagen con AI, la evaluación de la función física, el ejercicio personalizado y la educación del paciente. Combina los datos de imagen de riñón e hígado analizados por AI con la masa muscular, la actividad registrada mediante dispositivos portátiles y otros medios, y los indicadores de dolor y fatiga para evaluar con precisión la carga de enfermedad de cada paciente y, a partir de ello, prescribir ejercicio optimizado. Para ello, nefrología y medicina de rehabilitación encabezan un sistema de colaboración multidisciplinar con expertos en ejercicio, nutrición y salud digital."
+              },
+              {
+                "t": "p",
+                "x": "El estudio preliminar (Pilot study) para comprobar su aplicabilidad en la práctica también está dando resultados positivos. Tras aplicar intervenciones de ejercicio personalizadas a través de una plataforma móvil, la adherencia de los pacientes a la participación en el tratamiento superó el 90%. Los pacientes participantes valoraron que la guía de ejercicio concreta y el apoyo en tiempo real les ayudaron de forma real a recuperar la vitalidad en su vida diaria."
+              },
+              {
+                "t": "p",
+                "x": "“El objetivo de esta investigación es crear un entorno en el que los pacientes con poliquistosis renal puedan seguir cuidando su salud por sí mismos en su vida diaria fuera del hospital”, afirmó Kim Ye-rim, responsable de la investigación y docente de Nefrología. “Con base en los comentarios de los pacientes recogidos en el estudio preliminar, seguiremos perfeccionando el programa de ejercicio y la plataforma”, añadió."
+              },
+              {
+                "t": "p",
+                "x": "El Hospital Dongsan prevé aplicar primero la plataforma a la poliquistosis renal y, después, aprovechar la infraestructura de investigación clínica del hospital orientado a la investigación para convertirla en un modelo de gestión integral aplicable de forma general a diversas enfermedades crónicas, e impulsar su comercialización."
               }
             ]
           }

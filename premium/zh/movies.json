@@ -10656,6 +10656,137 @@
           "x": "在每天或每周使用AI的用户中，近100%认为AI只应用于增强创意构想。只有7.5%希望AI帮助拼接镜头或粗剪，而在使用AI的障碍中，伦理、版权和安全方面的担忧占了近50%。Shock说：“我们只是希望确保自己能参与到关于AI将如何使用的讨论中。”"
         }
       ]
+    },
+    "movies/cnc-ai-dubbing-funding": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://slator.com/assets/2026/11/velora-473c5db10304df06.png",
+          "cap": "“La fin du cinéma”"
+        },
+        {
+          "t": "p",
+          "x": "法国国家电影与动画中心(Centre national du cinéma et de l’image animée，CNC)将不再资助完全没有人类创作者参与的配音、字幕或口述影像项目。董事会于2026年10月14日通过这一调整；10月31日刊登于Journal officiel的文本，将符合资助条件的本地化支出限定于人类作者和表演者，以及围绕其成果的技术工作。"
+        },
+        {
+          "t": "p",
+          "x": "对于电影、视听作品和电子游戏，编剧、开发和制作必须“至少有一名作者参与”；动画至少需要一名“图像作者”，CNC资助(CNC-funded)的原创音乐需要人类作曲家。配音资助只能支付撰写文本的人员和演绎文本的配音演员，以及录音和混音；字幕资助涵盖人类作者和时间轴同步。"
+        },
+        {
+          "t": "p",
+          "x": "新规并未全面禁止AI。文化部表示，“[尽管如此，]对AI的策略性使用可以让业内专业人士获得服务于创作和技术流程的工具”，但“创作必须首先是人类的事业”。该规定于2026年11月1日生效，适用于当日及之后提交申请的项目。"
+        }
+      ]
+    },
+    "movies/hpa-net-ai-second-unit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/11/HPA-NET-Roundtable-Oct-6-2026-IMG_1847-copy-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "十月，HPA在洛杉矶Sheraton Universal举办NET Roundtables，主题是把AI视为“第二摄制组”——一支按明确任务并行工作的团队，而负责人依旧掌控全局：“这支团队向你汇报。”Alex Daro面向后期领域的导演和主管主持了“Running a Second Unit: Compose, Gate and Cost an Unattended AI Pipeline”环节。"
+        },
+        {
+          "t": "p",
+          "x": "被问到哪些工作绝不会交给AI时，大多数回答都归结为分辨率、位深和控制权。对于AI是否已准备好取代CG，与会者意见分歧。但有一点无需争论：重拍是AI镜头中最昂贵的部分——为得到一个可交付镜头所需的每一次尝试，再加上挑选所花的时间。"
+        },
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/11/HPA-NET-Roundtable-Oct-6-2026-IMG_1831.jpg"
+        },
+        {
+          "t": "p",
+          "x": "后期目前使用的AI处理的是已有素材：背景移除、超分辨率提升和场景延展。多数主持人认为，在机构自主掌控的硬件上本地运行AI很重要；一旦AI成为传统后期流程的一部分，内容凭证也很重要。建议是：从能与原始素材比对检验的工作入手，把媒体留在自己的硬件上，并为重拍而非渲染编列预算。"
+        }
+      ]
+    },
+    "movies/resolve-ai-assistant-editing": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/11/DaVinci-Resolve-21-EDIT-copy.jpg"
+        },
+        {
+          "t": "p",
+          "x": "postPerspective的圆桌访谈向工具厂商和创作者提问：社交平台创作者如何借鉴剧集类TV和电影的工作流程。Blackmagic的Bob Caniglia表示，创作者在使用Pocket Cinema Camera、Micro Studio Camera和Pyxis系列以及DaVinci Resolve，并指出视频播客、长视频和竖屏微电影制作正在增长。"
+        },
+        {
+          "t": "p",
+          "x": "谈到AI，Caniglia说：“不过我说的不是生成式AI工具。像DaVinci Resolve中那样的非生成式AI影视制作工具，可以处理重复性工作，让创作者专注于艺术本身。”"
+        },
+        {
+          "t": "p",
+          "x": "“一个很好的例子是DaVinci Resolve的一项新功能，它支持与Claude、Claude Code和ChatGPT Codex等AI助手集成。你可以让AI助手从长视频中生成精彩片段剪辑、删除不需要的片段并渲染交付文件。”"
+        },
+        {
+          "t": "p",
+          "x": "其他受访者——创作者Josh Liljenquist、CA in LA的Courtney Birk和Ashleigh Coffelt，以及OWC的Jon Hoeg——讨论了小型团队、NLE-agnostic（不依赖特定NLE）的后期制作和存储工作流程。"
+        }
+      ]
+    },
+    "movies/kyungmin-jonah-ai-animation": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "庆旻大学16日与Gangdan Studio公司、Studio Cinetics公司等2家企业签署业务协议(MOU)，旨在共同制作人工智能(AI)融合内容并建立合作体系。"
+        },
+        {
+          "t": "p",
+          "x": "根据协议，庆旻大学实用音乐系和媒体影像系的学生将参与国内首次尝试的院线AI动画电影《约拿》的制作过程。"
+        },
+        {
+          "t": "p",
+          "x": "从故事与分镜构思到角色与美术工作、AI场景制作、剪辑与质量审核、配音与音乐工作，学生们将体验与美国麻省理工学院(MIT)共同研发的最新AI内容技术。"
+        },
+        {
+          "t": "img",
+          "src": "https://img3.yna.co.kr/etc/inner/KR/2026/11/16/AKR20261116073300060_01_i_P4.jpg",
+          "cap": "庆旻大学16日与Gangdan Studio公司、Studio Cinetics公司等2家企业签署了院线人工智能(AI)动画内容制作产学合作业务协议(MOU)。[庆旻大学提供]"
+        },
+        {
+          "t": "p",
+          "x": "这部电影是以《圣经·约拿书》为蓝本、面向儿童和家庭观众共同观赏而策划的圣经文化项目“Majung”的第一部作品。在征询牧师和神学专家意见后，计划于明年下半年在院线上映。"
+        },
+        {
+          "t": "p",
+          "x": "统筹Majung项目的推进协议会议长洪文钟表示：“此次协议是将大学教育能力延伸至产业现场的起点，也将成为学生把所学技术和才华转化为院线上映作品这一具体成果的宝贵机会。”"
+        },
+        {
+          "t": "p",
+          "x": "该项目将于20日在庆旻大学承泰馆3层Akape厅举行启动仪式，并正在策划以约瑟、摩西等圣经人物为题材的后续系列。"
+        }
+      ]
+    },
+    "movies/runway-genre-violence-policy": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/closing-the-gap-between-policy-and-practice-1600x1067-fc002504-f4d6-44f4-a6d7-941a5b751aed.png"
+        },
+        {
+          "t": "p",
+          "x": "人们来到Runway讲故事，而许多好故事都涉及冲突、危险或暴力。过去两年里，Runway的审核机制不断演进，在继续拦截造成真实伤害的内容的同时，允许了多得多的此类故事。"
+        },
+        {
+          "t": "p",
+          "x": "两年前，它依赖第三方分类器，按“血腥”或“武器”等固定类别给内容打分，无法区分奇幻战斗与真实暴力。有一段时间，哪怕一小滴血或轻微擦伤都会被拦截，有时番茄酱或红色颜料也会被误认为血。"
+        },
+        {
+          "t": "img",
+          "src": "https://image.mux.com/HLmH7qc2D6F02mKbyzuKSftNdKVkPrPMs21OfxVWdWZ8/thumbnail.webp",
+          "cap": "我们的政策允许、但早期工具会拦截的内容示例。"
+        },
+        {
+          "t": "p",
+          "x": "大语言模型的进步改变了两件事：Runway可以制定自己的政策，并在几小时甚至几分钟内更新，还能结合更多上下文加以执行。用户因此可以加入剑斗、枪战、战斗场面和恐怖元素，而针对受保护群体的暴力内容、暴力极端主义袭击的再现、涉及未成年人的色情内容以及NCII则会被更准确地拦截。"
+        },
+        {
+          "t": "p",
+          "x": "局限依然存在：Runway上的第三方模型采用各自的审核机制，LLMs仍会出错，缺少上下文也会导致合理用例有时被拦截。用户可以通过错误提示中的“Send Feedback”按钮反馈错误判断。"
+        }
+      ]
     }
   }
 }

@@ -12033,6 +12033,163 @@
           "x": "在Dev Mode中，3D变换可直接对应到CSS；编码智能体也可通过Figma MCP服务器读取和创建3D设计。3D变换现已向所有Full席位用户开放公测。"
         }
       ]
+    },
+    "design/lovable-drafts-parallel": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assets.lovable.dev/content/news/covers/introducing-drafts-2026-11-15.png"
+        },
+        {
+          "t": "p",
+          "x": "最优秀的构建者总在实验、摆弄和微调。现在，你和团队可以并行尝试不同的想法，在选定最喜欢的方案之前看看它们在真实环境中的样子，而线上应用始终保持不变。"
+        },
+        {
+          "t": "p",
+          "x": "借助草稿，你可以随意多次复制整个应用，从设计到数据库。每个草稿都有独立的聊天和预览，团队可以分别处理不同版本并并排比较。在你接受草稿并点击发布之前，任何内容都不会上线。"
+        },
+        {
+          "t": "video",
+          "src": "https://assets.lovable.dev/content/news/introducing-drafts/drafts-overview-2026-11-16.mp4"
+        },
+        {
+          "t": "p",
+          "x": "让队友或客户在各自的草稿里修改，而不改动现有应用。每个草稿都预先填好示例数据，所以你看到的不是空白页面，而是带着排满的预约日历、完整的订单记录或一长串注册名单的创意。你甚至可以让 Lovable 为你生成不同版本，再保留喜欢的那些。"
+        },
+        {
+          "t": "p",
+          "x": "“我们用草稿并排测试不同的功能、布局和 UX，然后保留效果最好的。”OLX Global 的 Director of Product Design & Research Shane Stuart 说。"
+        },
+        {
+          "t": "p",
+          "x": "打开项目，点击编辑器顶部的项目名称，再点击“New draft”。对草稿满意后，点击接受，将其更改加入项目，再点击发布让它们上线。测试时添加的数据只留在草稿中，在你接受或删除草稿时清除，因此绝不会与真实客户数据混在一起。"
+        }
+      ]
+    },
+    "design/astryx-v0-skill": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Astryx 现已作为设计系统技能登陆 v0，在 v0 构建时将指导原则、组件、示例和模板带入上下文。"
+        },
+        {
+          "t": "img",
+          "src": "https://astryx.atmeta.com/blog/astryx-is-now-available-in-v0/cover.png",
+          "cap": "黑色背景上，v0 标志与 Astryx 标识并排。"
+        },
+        {
+          "t": "p",
+          "x": "Astryx 现已登陆 v0。"
+        },
+        {
+          "t": "p",
+          "x": "在 v0 中，设计系统就是一项代理技能。构建者可以为项目选择 Astryx，让 v0 在构建时把它的指导原则、组件、示例和模板带入上下文。"
+        },
+        {
+          "t": "p",
+          "x": "与 Vercel 的这次合作，是我们探索设计系统如何同时支持人和代理、以及系统知识如何在创作当下保持有用的一种方式。"
+        }
+      ]
+    },
+    "design/gemini-notebook-sites": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/blog_hero_periodic_table3_2784x1566.max-1440x810.png"
+        },
+        {
+          "t": "p",
+          "x": "从今天起，Gemini Notebook 可以把你的资料转化为互动网站，帮你快速理清复杂信息。"
+        },
+        {
+          "t": "p",
+          "x": "开始使用时，只需在 Gemini Notebook 聊天中输入“make me a site”，并描述你想为工作或学习构建的内容，例如："
+        },
+        {
+          "t": "p",
+          "x": "帮助备考的可视化讲解，如互动元素周期表或历史时间线。用于探索数据的互动仪表板，如季度销售业绩。梳理任务和截止日期的项目管理追踪器。"
+        },
+        {
+          "t": "p",
+          "x": "建好后，选择“Open in a new tab”即可与之互动，或分享给他人。"
+        },
+        {
+          "t": "p",
+          "x": "该功能今天起在网页端面向全球 Gemini Notebook 用户（18+）推出，包括 Google Workspace 订阅用户，并将很快登陆移动应用。"
+        },
+        {
+          "t": "video",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Sites_Final.mp4"
+        }
+      ]
+    },
+    "design/onepassword-figma-make": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/bbbd715863ae9596492a6b6eda14af49a9b802de-2400x1260.png?w=1200&q=70&fit=max&auto=format"
+        },
+        {
+          "t": "p",
+          "x": "无论用户是在手机上自动填充登录信息、在桌面端使用 1Password，还是通过浏览器扩展批准 AI 代理的凭据请求，体验都必须让人一眼认出是 1Password。“我会说是信任和确定性。”1Password 的 Chief Experience Officer Matt Davey 说。"
+        },
+        {
+          "t": "p",
+          "x": "设计系统团队把近二十年的设计规范转化为工具可用的上下文，让 Figma Make 和其他代理遵循与设计师相同的规则。Ryan Williamson-Cardneau 的团队搭建了一个内部原型试验场：一个只含前端的代码库，内有直接从 Figma 文件构建的 1Password 产品代码模板。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/a17b404ae2b6620f5900cc3aec4ff42c6e1a150c-1706x1410.png?rect=1,0,1705,1410&w=1080&h=893&q=75&fit=max&auto=format",
+          "cap": "在 Figma Make 中打开的 1Password 原型试验场，设计师可以选中一个代码组件，通过聊天或属性面板进行调整。"
+        },
+        {
+          "t": "p",
+          "x": "Ryan 发现，与其手动完成 30 处快速修改，交给 Figma Make 大约能做对 80%。Matt 把复制原型并将版本并排比较称为“视觉分支”。他说，聊天连接 1Password 的 MCP 后，“它就是一个陪练伙伴”。"
+        },
+        {
+          "t": "p",
+          "x": "1Password 的每位设计师都已上手原型试验场，工程师和 PMs 也在那里构建原型。1Password 在用户测试中已基本用代码原型取代了连线式 Figma 原型。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/ec408a42a9435922312ea6e79eb44ac6826c9a07-1706x1408.png?rect=0,1,1706,1407&w=1080&h=891&q=75&fit=max&auto=format",
+          "cap": "原型试验场汇集了整个团队的原型，每个都从一个代码化的 1Password 产品模板开始。"
+        }
+      ]
+    },
+    "design/design-fable52-brushstroke-painter": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://the-decoder.com/wp-content/uploads/2026/11/claude_fable_5.2_painting.png",
+          "cap": "图片由 THE DECODER 使用 Nano Banana Pro 生成"
+        },
+        {
+          "t": "p",
+          "x": "Anthropic的新语言模型Claude Fable 5.2能通过代码在虚拟画布上逐一放置数十万道笔触，创作出复杂乃至照片级写实的画作。Midjourney等现有图像模型通常采用扩散（diffusion）方法，而Fable 5.2模拟的是真实的绘画过程，包括笔刷鬃毛的质感、颜料落到画布上的方式，以及之后不得不覆盖重画的失误。"
+        },
+        {
+          "t": "p",
+          "x": "Anthropic开发者Jake Eaton要求模型画一幅尽可能难以与照片区分的作品，模型用约700,000道模拟笔触画出了停车库里的一辆购物车。据Eaton介绍，Claude不借助外部图像模型，也不使用预先渲染或描摹的源图像。每件作品都是一个1,000到2,000行的Python程序，用来驱动一个模拟绘画引擎。"
+        },
+        {
+          "t": "img",
+          "src": "https://pbs.twimg.com/media/HWtMXeqboAA3yPD?format=jpg&name=medium",
+          "cap": "Claude Fable 5.2用约700,000道模拟笔触绘制了这幅照片级写实的停车库场景。| 图片：Jake Eaton"
+        },
+        {
+          "t": "p",
+          "x": "Anthropic工程师Michael Graczyk请Fable 5.2画一只日出时的鸟，要求每一笔都作为单独的坐标行输出，且无法撤销。这段21秒的视频记录了这幅画如何由恰好111笔逐渐成形。在每轮作画之间，模型会观察画布，并像真正的画家一样应对自己的失误。"
+        },
+        {
+          "t": "video",
+          "src": "https://the-decoder.com/wp-content/uploads/2026/11/graczyk_demo.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Anthropic称，Fable 5.2在其内部RoboDojo Sim基准测试中得分64.9%，OpenAI的GPT-6 Astra为29.8%。在AI研究者Aris Zhu进行的真实机械臂测试中，Astra画得更快，精细动作控制也更好。"
+        }
+      ]
     }
   }
 }

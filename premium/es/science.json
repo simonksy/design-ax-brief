@@ -11336,6 +11336,143 @@
           "x": "Los autores también elaboraron \"tarjetas de valores\" que muestran qué reglas sigue cada modelo de forma constante. El artículo, 'Alignment Faking Depends on the Value, Not Just the Model', está en arXiv."
         }
       ]
+    },
+    "science/leafy-spurge-satellite-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-field-of-leafy-spurg.jpg",
+          "cap": "Crédito: University of Minnesota"
+        },
+        {
+          "t": "p",
+          "x": "Con imágenes satelitales, modelos de deep learning de AI y datos de ciencia ciudadana, científicos de la University of Minnesota han seguido la expansión de la lechetrezna durante un periodo de 20 años. Sus resultados, publicados recientemente en Ecological Applications, ayudarán a agricultores, ganaderos y gestores de tierras a frenar la propagación de esta maleza nociva."
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores entrenaron un modelo informático predictivo de deep learning con observaciones reales de lechetrezna —incluidas observaciones ciudadanas de la app iNaturalist— combinadas con imágenes de código abierto de Landsat proporcionadas por el U.S. Geological Survey con ayuda de satélites de la NASA."
+        },
+        {
+          "t": "p",
+          "x": "El estudio halló que la abundancia de la lechetrezna aumentó con rapidez (570%) en dos décadas (2000–2021), sobre todo en torno a Fargo-Moorhead y Minneapolis-Saint Paul. Suele aparecer cerca de carreteras, y la detección de zonas recién invadidas con imágenes satelitales mejoró las previsiones de futuras invasiones."
+        },
+        {
+          "t": "p",
+          "x": "\"Cuando la lechetrezna florece, es como si alguien hubiera pasado un rotulador amarillo por el paisaje. Es de un amarillo tan intenso que los satélites también pueden verlo\", dijo Thomas Lake. El equipo prevé cartografiar la planta en una zona de siete estados."
+        }
+      ]
+    },
+    "science/materials-ai-less-data": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-12.jpg",
+          "cap": "Crédito: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "El desarrollo de nuevos materiales suele empezar por comprender su estructura electrónica, es decir, cómo se organizan y se comportan los electrones en su interior. Calcular estas estructuras electrónicas suele requerir costosas simulaciones en supercomputadoras. Por eso los investigadores han entrenado modelos de inteligencia artificial con millones de datos simulados para obtener predicciones más rápidas."
+        },
+        {
+          "t": "p",
+          "x": "Pero, según un estudio reciente dirigido por el profesor asociado Susanta Ghosh, del Departamento de Ingeniería Mecánica y Aeroespacial de Michigan Tech, no hacen falta tantos datos de entrenamiento. En un estudio publicado recientemente en npj Computational Materials, el equipo, en colaboración con UCLA, descubrió que los modelos de AI podían descartar el 90% de sus datos de entrenamiento prácticamente sin perder precisión."
+        },
+        {
+          "t": "p",
+          "x": "Incluso tras eliminar el 99% de los datos de entrenamiento, la mayoría de las predicciones siguieron siendo muy precisas, y los modelos se entrenaron tres o más veces más rápido. Los nuevos hallazgos se aplican a una amplia gama de materiales, como metales, agua y aleaciones complejas."
+        },
+        {
+          "t": "p",
+          "x": "\"Gran parte de los datos de estructura electrónica repite la misma información. Una muestra pequeña y bien elegida recoge casi todo lo que la AI necesita aprender\", afirmó Ghosh."
+        },
+        {
+          "t": "p",
+          "x": "\"Al identificar datos representativos de estructura electrónica y reducir el tiempo de entrenamiento al menos tres veces, este trabajo puede acelerar el descubrimiento AI-driven de aleaciones complejas en vastos espacios de composición\", dijo."
+        }
+      ]
+    },
+    "science/qudit-quantum-neural-net": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/quantum-neural-network-1.jpg",
+          "cap": "Construcción y entrenamiento de una neurona cuántica de alta dimensión. Crédito: University of Science and Technology of China"
+        },
+        {
+          "t": "p",
+          "x": "¿Cómo se puede ampliar una red neuronal cuántica? Una forma es añadir más qubits como neuronas. Pero un estudio titulado \"Quantum neural network equipped with backpropagation on a qudit processor\", publicado en National Science Review, muestra otro camino."
+        },
+        {
+          "t": "p",
+          "x": "Investigadores de la University of Science and Technology of China, dirigidos por el profesor asociado Li Zhaokai y el profesor Lin Yiheng, examinaron el interior de una sola unidad física y aprovecharon más de sus niveles de energía. Así pudieron construir una neurona cuántica de alta dimensión sin añadir unidades físicas."
+        },
+        {
+          "t": "p",
+          "x": "Escalar añadiendo más qubits implica más hardware que controlar y más errores que se acumulan, algo especialmente difícil para los actuales dispositivos cuánticos ruidosos de escala intermedia."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/quantum-neural-network-2.jpg",
+          "cap": "Aprender a distinguir pantalones de jerséis. Crédito: University of Science and Technology of China"
+        },
+        {
+          "t": "p",
+          "x": "Con cinco niveles de energía de un ion de calcio, el equipo construyó un procesador cuántico multinivel e implementó experimentalmente una red neuronal cuántica de alta dimensión. La red clasificó imágenes de ropa del conjunto de datos Fashion-MNIST y alcanzó una precisión experimental de clasificación del 95.7% en un conjunto de prueba de 395 muestras."
+        }
+      ]
+    },
+    "science/sciam-chess-ai-complexity": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/1e99e951-c633-4384-8edb-9267b4a202c9/saw1226_0127Adva06.jpg?m=1793651269.904&w=1200",
+          "cap": "Thomas Fuchs"
+        },
+        {
+          "t": "p",
+          "x": "La soltura de la AI con la complejidad podría ser clave en su dominio del ajedrez. Un artículo reciente en APS Open Science destaca un rasgo probable de la superioridad estratégica de la AI. \"Probablemente nuestro artículo es el que más se acerca a entender lo que hacen estas máquinas\", dice el autor principal del estudio, Vito D. P. Servedio, físico del Complexity Science Hub de Viena."
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores reunieron partidas humano vs. humano y Stockfish vs. Leela de bases de datos en línea y midieron la \"tensión estratégica\": el número de interacciones mutuas posibles entre piezas rivales."
+        },
+        {
+          "t": "p",
+          "x": "Hasta que cada jugador había hecho 20 jugadas, la tensión media en las partidas humanas superaba a la de las partidas de AI. Pero después, la tensión humana cae por debajo de la de las partidas de AI, que se mantiene alta. Las personas necesitan reducir la carga cognitiva, pero \"los motores no tienen realmente ese problema\", dice Merim Bilalić, de la Northumbria University, que no participó en el estudio."
+        },
+        {
+          "t": "p",
+          "x": "Los jugadores con mayor puntuación mantuvieron más tensión, y la tensión aumentó cuando Stockfish exploró árboles más profundos. Aunque una mayor tensión se correlacionó con mayor capacidad tanto en humanos como en AI, el estudio no demostró que la causara ni que proviniera de ella."
+        }
+      ]
+    },
+    "science/science-teamwork-lean-proof": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/original_images/AntigravityTeamwork_HeroFinal.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Google Research presentó resultados recientes de los sistemas multiagente /teamwork de Antigravity, que refuerzan la colaboración human-AI (entre humanos y AI) para resolver problemas abiertos en matemáticas, química, software de sistemas e ingeniería de ML, con Gemini 4 Argon, Gemini 4 Carbon y Gemini 4 Hydrogen. El sistema combina la exploración en paralelo con falsificadores dedicados (por ejemplo, el verificador de pruebas Lean 4, conjuntos de pruebas de software sin modificar y simuladores de ejecución) y divide el contexto para que cada agente especializado reciba solo los archivos y las herramientas que necesita."
+        },
+        {
+          "t": "p",
+          "x": "Investigadores de Google, CUHK, USC y CMU usaron el patrón Long Proof de /teamwork para demostrar en plena generalidad la conjetura de Courtade–Kumar de 2013, de la teoría de la información, y formalizaron toda la prueba en Lean 4 (50 millones de líneas de código). /teamwork-LEAP produjo de forma totalmente autónoma una formalización verificada por máquina de las conjeturas de Weil, con unos 1.8 millones de líneas de Lean a lo largo de 28,800 invocaciones de subagentes."
+        },
+        {
+          "t": "p",
+          "x": "Otros resultados incluyen un 95% de coincidencia exacta top-1 en la determinación de estructuras por NMR con 30 agentes, unas 800,000 líneas de Rust seguro para el microkernel Zircon y un motor de Go de 9x9 que ganó cerca de 2,600 puntos Elo en menos de ocho días."
+        },
+        {
+          "t": "video",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/media/AntigravityTeamwork_HillClimbing_1x.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Científicos y desarrolladores externos ya pueden usar los modelos Gemini 4 con /teamwork y /boost en Antigravity y Deep Review, y está abierta la convocatoria que dará a 10,000 investigadores académicos seis meses de acceso gratuito al nivel de uso más alto."
+        }
+      ]
     }
   }
 }

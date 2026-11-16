@@ -1,158 +1,96 @@
 {
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "section": "medicine",
   "items": [
     {
       "tool": "Medicine",
       "accent": "#00897b",
       "motif": "sphere",
-      "title": "보의연, 병원들에 '19종 실측' 조사 공문…에이아이트릭스 \"고시 위반 아니다\"",
-      "url": "https://www.medigatenews.com/news/2035204417",
-      "source": "메디게이트뉴스",
-      "published_iso": "2026-11-15T15:24:00+09:00",
-      "og_image": "https://medigatenews.com/file/news/542817",
-      "excerpt": "Following a National Assembly audit, Korea's NECA sent a written survey to 171 hospitals that used AITRICS' VitalCare deterioration-prediction AI under the innovative-medical-technology reimbursement pathway, asking whether all 19 input variables were actually measured for every patient (deadline Nov 19); AITRICS says imputing missing values is within its MFDS approval.",
-      "rationale": "Concrete regulator action on a reimbursed clinical AI: NECA audits 171 hospitals' use of VitalCare inputs, with the vendor disputing the reading."
+      "title": "Apple, OpenEvidence launch conversational health AI study and app",
+      "url": "https://www.healthcaredive.com/news/apple-openevidence-conversational-health-ai-study-app/874714/",
+      "source": "Healthcare Dive",
+      "published_iso": "2026-11-16T14:32:00Z",
+      "og_image": "https://imgproxy.divecdn.com/mZqDXAZolSHpHweMB5uWX4TeGZ2_NXsdKUhXJSuEWWw/g:nowe:78:428/c:1356:766/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9hcHBsZV9vcGVuZXZpZGVuY2VfaGx0aC5qcGc=.webp",
+      "excerpt": "Apple launched a 200,000-participant Apple Health AI Usage Study with OpenEvidence to research what drives consumer trust in, and the quality of, conversational health AI answers; findings could inform Apple products.",
+      "rationale": "A 200,000-person patient-facing study on trust and answer quality in consumer health AI, run by Apple with a clinical-evidence vendor (assigned to medicine, not gadgets)."
     },
     {
       "tool": "Medicine",
       "accent": "#0070f3",
       "motif": "sphere",
-      "title": "As more doctors consult chatbots, health systems can block them — or buy in",
-      "url": "https://www.statnews.com/2026/11/05/doctors-use-ai-chatbots-hipaa-compliance-questions/",
-      "source": "STAT",
-      "published_iso": "2026-11-05T09:30:00+00:00",
-      "og_image": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_305233727-1024x576.jpeg",
-      "excerpt": "Health systems are split on clinicians' use of consumer AI tools like OpenEvidence: Monument Health blocked it after finding a doctor had stored more than 100 patient records in the tool, while others are licensing HIPAA-compliant versions.",
-      "rationale": "Patient-privacy incident driving a concrete hospital policy choice (block vs license) on clinician chatbot use."
+      "title": "HLTH 2026: CVS Health, Cigna and Abridge collaborating with OpenAI to test computer-use agents",
+      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/hlth26-cvs-health-cigna-and-ambience-collaborating-openai-test-computer-use",
+      "source": "Fierce Healthcare",
+      "published_iso": "2026-11-16T09:05:00-05:00",
+      "og_image": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2219425791.jpg?VersionId=O1OkFR85axRupu_mdYZTS0_LgbsUcqZy",
+      "excerpt": "OpenAI is expanding computer-use agents for healthcare that navigate EHR systems, payer portals and other software to handle repetitive manual tasks, with CVS Health, Cigna and Abridge testing them.",
+      "rationale": "New release: OpenAI computer-use agents being tested by a pharmacy chain, an insurer and a scribe vendor on EHRs and payer portals, which covers prior auth and admin work."
     },
     {
       "tool": "Medicine",
       "accent": "#f5a623",
       "motif": "sphere",
-      "title": "모니터 대신 환자 눈 맞춘다…정신과·소청과 호평 AI 차팅 '니어닥'",
-      "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044563",
-      "source": "청년의사",
-      "published_iso": "2026-11-16T06:18:17+09:00",
-      "og_image": "https://cdn.docdocdoc.co.kr/news/thumbnail/202611/3044563_3048547_938_v150.jpg",
-      "excerpt": "AI EMR charting assistant Neardoc (Studio Kiko), which drafts SOAP notes from doctor-patient conversation in real time and learns each physician's charting style, is drawing strongest uptake in psychiatry and pediatrics; Bosa reports ~500 clinics and 970,000 visit records since its May launch, with self-reported chart time falling from 3m48s to 1m08s per visit.",
-      "rationale": "Freshest item in the pool: real clinic adoption numbers for an AI scribe, with specialty-level uptake and charting-time data."
+      "title": "Ultra-compact AI X-ray unit slashes ICU bedside imaging time",
+      "url": "https://www.auntminnie.com/resources/conference/rsna/2026/digital-xray-preview/article/16425516/ultracompact-ai-xray-unit-slashes-icu-bedside-imaging-time",
+      "source": "AuntMinnie",
+      "published_iso": "2026-11-16T12:00:00Z",
+      "og_image": null,
+      "excerpt": "RSNA 2026 preview: in a prospective 121-patient ICU study, Poskom's 1.3-kg AI-powered MiniAIR x-ray cut bedside imaging workflow time by more than 75% versus mobile DR while preserving diagnostic performance.",
+      "rationale": "Prospective ICU data on an AI bedside x-ray unit: workflow time cut by more than 75% with diagnostic performance unchanged."
     },
     {
       "tool": "Medicine",
       "accent": "#7928ca",
       "motif": "sphere",
-      "title": "Quibim's prostate MRI AI joins Microsoft imaging AI network",
-      "url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/news/16425030/quibim-quibims-prostate-mri-ai-joins-microsoft-imaging-ai-network",
-      "source": "AuntMinnie",
-      "published_iso": "2026-11-10T15:38:42+00:00",
-      "og_image": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/11/quibim-logo.nzuGqmRqWf.jpg?auto=format%2Ccompress&bg=ffffff&fit=crop&h=675&q=70&w=1200",
-      "excerpt": "FDA-cleared QP-Prostate, which detects suspected lesions on biparametric prostate MRI, is now available through Microsoft's Precision Imaging Network, with results delivered into PowerScribe for radiologists to review before finalizing reports.",
-      "rationale": "An FDA-cleared prostate MRI tool lands inside radiologists' reporting workflow (PowerScribe) — a deployment change, not just a deal."
+      "title": "Naitive Receives FDA 510(k) Clearance for OsteoSight Spine, Extending AI-Enabled Opportunistic Bone Health Assessment to Spine and Chest X-rays",
+      "url": "https://orthotw.com/2026/11/naitive-receives-fda-510-k-clearance-for-osteosight-spine-extending-ai-enabled-opportunistic-bone-health-assessment-to-spine-and-chest-x-rays",
+      "source": "Orthopedics This Week",
+      "published_iso": "2026-11-12T12:00:00Z",
+      "og_image": "https://naxztztabtiofaq7.public.blob.vercel-storage.com/app-uploads/images/1794492544592-Naitive-LinkedIn-post---1200---627-q9nL5xrPZdo1AtcWY8epwITx37wld5.png",
+      "excerpt": "Naitive Technologies won FDA 510(k) clearance for OsteoSight Spine, extending its AI opportunistic bone-health assessment from routine x-rays to spine and chest films.",
+      "rationale": "Regulatory event: a new FDA 510(k) clearance lets routine spine and chest x-rays be used for opportunistic osteoporosis screening."
     },
     {
       "tool": "Medicine",
       "accent": "#eb367f",
       "motif": "sphere",
-      "title": "Beyond skin deep: physiologic oral pigmentation as an overlooked validation gap in AI-assisted oral cancer screening",
-      "url": "https://www.nature.com/articles/s41746-026-03466-9",
-      "source": "npj Digital Medicine",
-      "published_iso": "2026-11-14T00:00:00+00:00",
-      "og_image": null,
-      "excerpt": "AI oral cancer screening tools such as MeMoSA have been validated almost exclusively in Asian populations; the authors argue physiologic oral pigmentation, which varies by race, may cause classifiers to flag normal variation as suspicious and call for targeted validation before wider deployment.",
-      "rationale": "Patient-safety and bias angle: a specific, testable validation gap in oral cancer screening AI before broader rollout."
+      "title": "계명대 동산병원, 다낭콩팥병 'AI 관리 플랫폼' 구축",
+      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3016555",
+      "source": "의학신문",
+      "published_iso": "2026-11-17T07:27:48+09:00",
+      "og_image": "https://cdn.bosa.co.kr/news/photo/202611/3016555_417451_059.jpg",
+      "excerpt": "계명대 동산병원이 유전성 신장질환인 다낭콩팥병 환자의 일상 건강관리를 돕는 인공지능(AI) 기반 통합관리 플랫폼을 구축했다.",
+      "rationale": "Freshest item in the pool: a Korean hospital deploys an AI care platform for patients with a specific hereditary kidney disease (ADPKD)."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.medigatenews.com/news/2035204417": {
-        "verdict": "new",
-        "nearest": "https://www.bosa.co.kr/news/articleView.html?idxno=3014709",
-        "new_action": ""
-      },
-      "https://www.statnews.com/2026/11/05/doctors-use-ai-chatbots-hipaa-compliance-questions/": {
+      "https://www.healthcaredive.com/news/apple-openevidence-conversational-health-ai-study-app/874714/": {
         "verdict": "new",
         "nearest": "https://www.fiercehealthcare.com/ai-and-machine-learning/nyu-langone-brings-openevidences-clinical-ai-ehr-systemwide",
         "new_action": ""
       },
-      "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044563": {
+      "https://www.fiercehealthcare.com/ai-and-machine-learning/hlth26-cvs-health-cigna-and-ambience-collaborating-openai-test-computer-use": {
         "verdict": "new",
-        "nearest": "https://www.bosa.co.kr/news/articleView.html?idxno=3014062",
+        "nearest": "https://www.thelancet.com/journals/landig/article/PIIS2589-7500(26)00146-9/fulltext",
         "new_action": ""
       },
-      "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/news/16425030/quibim-quibims-prostate-mri-ai-joins-microsoft-imaging-ai-network": {
-        "verdict": "new",
-        "nearest": "https://www.bmj.com/content/395/bmj-2026-101231",
-        "new_action": ""
-      },
-      "https://www.nature.com/articles/s41746-026-03466-9": {
+      "https://www.auntminnie.com/resources/conference/rsna/2026/digital-xray-preview/article/16425516/ultracompact-ai-xray-unit-slashes-icu-bedside-imaging-time": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
+      },
+      "https://orthotw.com/2026/11/naitive-receives-fda-510-k-clearance-for-osteosight-spine-extending-ai-enabled-opportunistic-bone-health-assessment-to-spine-and-chest-x-rays": {
+        "verdict": "new",
+        "nearest": "https://www.nature.com/articles/s41746-026-03333-7",
+        "new_action": ""
+      },
+      "https://www.bosa.co.kr/news/articleView.html?idxno=3016555": {
+        "verdict": "new",
+        "nearest": "https://m.medigatenews.com/news/2393566577",
+        "new_action": ""
       }
     },
-    "note": "Dropped as duplicates: Cardiovascular Business Cleerly PARAMOUNT (same AHA trial already ran 11-09 via cleerly.com press); MedCity News NEJM LLM cost-of-care study (same NEJM AI paper ran 10-17); Radiology Business AI-derived FAI inflammation score (same Oxford/Antoniades coronary-inflammation running story as 10-27 Cardiovascular Business; also judged a likely repeat in the 11-15 run). Not picked for strength/diversity (not duplicates): Comm Med AML febrile-neutropenia model (thematically close to 11-13 persistent-fever item), npj bladder LLM benchmark, Radpair/Novarad partnership, STAT men's chatbot feature, JAMA rogue-agent Viewpoint, Medigate med-school AI conference, KBR GI-308 patent filing. Cross-section: no pick's product/event (AITRICS VitalCare NECA survey, Monument Health/OpenEvidence block, Neardoc, Quibim QP-Prostate, oral pigmentation) appears in the 30-day medicine history; published_urls.json could not be grepped (Read-only tools), so the orchestrator should exact-grep the five URLs before roll."
-  },
-  "picks": [
-    {
-      "tool": "Medicine",
-      "accent": "#00897b",
-      "motif": "sphere",
-      "title": "보의연, 병원들에 '19종 실측' 조사 공문…에이아이트릭스 \"고시 위반 아니다\"",
-      "url": "https://www.medigatenews.com/news/2035204417",
-      "source": "메디게이트뉴스",
-      "published_iso": "2026-11-15T15:24:00+09:00",
-      "og_image": "https://medigatenews.com/file/news/542817",
-      "excerpt": "Following a National Assembly audit, Korea's NECA sent a written survey to 171 hospitals that used AITRICS' VitalCare deterioration-prediction AI under the innovative-medical-technology reimbursement pathway, asking whether all 19 input variables were actually measured for every patient (deadline Nov 19); AITRICS says imputing missing values is within its MFDS approval.",
-      "rationale": "Concrete regulator action on a reimbursed clinical AI: NECA audits 171 hospitals' use of VitalCare inputs, with the vendor disputing the reading."
-    },
-    {
-      "tool": "Medicine",
-      "accent": "#0070f3",
-      "motif": "sphere",
-      "title": "As more doctors consult chatbots, health systems can block them — or buy in",
-      "url": "https://www.statnews.com/2026/11/05/doctors-use-ai-chatbots-hipaa-compliance-questions/",
-      "source": "STAT",
-      "published_iso": "2026-11-05T09:30:00+00:00",
-      "og_image": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_305233727-1024x576.jpeg",
-      "excerpt": "Health systems are split on clinicians' use of consumer AI tools like OpenEvidence: Monument Health blocked it after finding a doctor had stored more than 100 patient records in the tool, while others are licensing HIPAA-compliant versions.",
-      "rationale": "Patient-privacy incident driving a concrete hospital policy choice (block vs license) on clinician chatbot use."
-    },
-    {
-      "tool": "Medicine",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "title": "모니터 대신 환자 눈 맞춘다…정신과·소청과 호평 AI 차팅 '니어닥'",
-      "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044563",
-      "source": "청년의사",
-      "published_iso": "2026-11-16T06:18:17+09:00",
-      "og_image": "https://cdn.docdocdoc.co.kr/news/thumbnail/202611/3044563_3048547_938_v150.jpg",
-      "excerpt": "AI EMR charting assistant Neardoc (Studio Kiko), which drafts SOAP notes from doctor-patient conversation in real time and learns each physician's charting style, is drawing strongest uptake in psychiatry and pediatrics; Bosa reports ~500 clinics and 970,000 visit records since its May launch, with self-reported chart time falling from 3m48s to 1m08s per visit.",
-      "rationale": "Freshest item in the pool: real clinic adoption numbers for an AI scribe, with specialty-level uptake and charting-time data."
-    },
-    {
-      "tool": "Medicine",
-      "accent": "#7928ca",
-      "motif": "sphere",
-      "title": "Quibim's prostate MRI AI joins Microsoft imaging AI network",
-      "url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/news/16425030/quibim-quibims-prostate-mri-ai-joins-microsoft-imaging-ai-network",
-      "source": "AuntMinnie",
-      "published_iso": "2026-11-10T15:38:42+00:00",
-      "og_image": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/11/quibim-logo.nzuGqmRqWf.jpg?auto=format%2Ccompress&bg=ffffff&fit=crop&h=675&q=70&w=1200",
-      "excerpt": "FDA-cleared QP-Prostate, which detects suspected lesions on biparametric prostate MRI, is now available through Microsoft's Precision Imaging Network, with results delivered into PowerScribe for radiologists to review before finalizing reports.",
-      "rationale": "An FDA-cleared prostate MRI tool lands inside radiologists' reporting workflow (PowerScribe) — a deployment change, not just a deal."
-    },
-    {
-      "tool": "Medicine",
-      "accent": "#eb367f",
-      "motif": "sphere",
-      "title": "Beyond skin deep: physiologic oral pigmentation as an overlooked validation gap in AI-assisted oral cancer screening",
-      "url": "https://www.nature.com/articles/s41746-026-03466-9",
-      "source": "npj Digital Medicine",
-      "published_iso": "2026-11-14T00:00:00+00:00",
-      "og_image": null,
-      "excerpt": "AI oral cancer screening tools such as MeMoSA have been validated almost exclusively in Asian populations; the authors argue physiologic oral pigmentation, which varies by race, may cause classifiers to flag normal variation as suspicious and call for targeted validation before wider deployment.",
-      "rationale": "Patient-safety and bias angle: a specific, testable validation gap in oral cancer screening AI before broader rollout."
-    }
-  ]
+    "note": "Dropped as duplicates: Cardiovascular Business Cleerly PARAMOUNT (same AHA trial ran 11-09 via cleerly.com); Harvard Medical School MANTIS childhood brain tumor model (same Nature Genetics paper ran 11-04); MedCity News NEJM AI cost-of-care study (same NEJM paper ran 10-17, already dropped in the 11-16 run); Radiology Business AI-derived coronary inflammation score (same Oxford coronary-inflammation running story as 10-27, already judged a repeat on 11-15/11-16). Avoided as likely-overlapping: AuntMinnie Promedius CXR osteoporosis and NEJM AI SNUH CXR fracture-risk paper (close to the 10-18 npj chest-radiograph osteoporosis paper). The Naitive pick shares the topic but is a distinct new event (an FDA 510(k) clearance), so its verdict is new. Not picked for strength/diversity: Suki OS (second Fierce item), Viz.ai/Wolters Kluwer partnership, AuntMinnie PREVENT CXR cardiac risk, NEJM AI lung-cancer stats review, Nature Medicine OpenScientist (leans science), npj history-taking tutor, Comm Med AML neutropenia model (close to the 11-13 fever item), STAT Doerr/Tom Health (business framing), STAT men's chatbot feature, JAMA rogue-agent Viewpoint (commentary), Insilico TEAD (11-09, older), KBR KAIST lip-reading (research stage), KBR Samsung/OpenAI (analysis). Cross-section: Apple x OpenEvidence is assigned to medicine by the curator brief. published_urls.json could not be grepped with Read-only tools, so the orchestrator should exact-grep the five URLs (bosa idxno=3016555 full URL) before roll."
+  }
 }

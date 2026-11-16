@@ -12129,6 +12129,163 @@
           "x": "Las transformaciones 3D se traducen directamente a CSS en Dev Mode, y los agentes de programación pueden leer y crear diseños 3D a través del servidor Figma MCP. Las transformaciones 3D ya están en beta abierta para todos los usuarios con asiento Full."
         }
       ]
+    },
+    "design/lovable-drafts-parallel": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assets.lovable.dev/content/news/covers/introducing-drafts-2026-11-15.png"
+        },
+        {
+          "t": "p",
+          "x": "Los mejores creadores experimentan, prueban y ajustan. Ahora tú y tu equipo pueden probar ideas distintas en paralelo y ver cómo se verían de verdad en el mundo real antes de elegir la favorita, mientras la app publicada sigue intacta."
+        },
+        {
+          "t": "p",
+          "x": "Con los borradores puedes copiar toda tu app, del diseño a la base de datos, tantas veces como quieras. Cada borrador tiene su propio chat y vista previa, así que tú y tu equipo pueden trabajar en versiones separadas y compararlas lado a lado. Nada se publica hasta que aceptas un borrador y pulsas publicar."
+        },
+        {
+          "t": "video",
+          "src": "https://assets.lovable.dev/content/news/introducing-drafts/drafts-overview-2026-11-16.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Deja que un compañero o un cliente haga cambios en su propio borrador sin alterar la app existente. Cada borrador viene con datos de ejemplo, así que en lugar de una página vacía ves tu idea con un calendario de reservas lleno, un historial de pedidos completo o una larga lista de registros. Incluso puedes pedirle a Lovable que genere distintas versiones por ti y quedarte con las que te gusten."
+        },
+        {
+          "t": "p",
+          "x": "\"Usamos los borradores para probar lado a lado distintas funciones, diseños y UX, y luego quedarnos con lo que mejor funciona\", dice Shane Stuart, Director of Product Design & Research de OLX Global."
+        },
+        {
+          "t": "p",
+          "x": "Abre un proyecto, haz clic en su nombre en la parte superior del editor y pulsa \"New draft\". Cuando un borrador te convenza, pulsa aceptar para añadir sus cambios al proyecto y luego publicar para ponerlos en vivo. Los datos que añadas durante las pruebas se quedan en el borrador y se borran al aceptarlo o eliminarlo, así que nunca se mezclan con datos reales de clientes."
+        }
+      ]
+    },
+    "design/astryx-v0-skill": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Astryx ya está disponible en v0 como habilidad de sistema de diseño, y aporta pautas, componentes, ejemplos y plantillas al contexto mientras v0 construye."
+        },
+        {
+          "t": "img",
+          "src": "https://astryx.atmeta.com/blog/astryx-is-now-available-in-v0/cover.png",
+          "cap": "El logo de v0 junto a la marca de Astryx sobre fondo negro."
+        },
+        {
+          "t": "p",
+          "x": "Astryx ya está disponible en v0."
+        },
+        {
+          "t": "p",
+          "x": "En v0, un sistema de diseño es una habilidad de agente. Los creadores pueden elegir Astryx para un proyecto y llevar sus pautas, componentes, ejemplos y plantillas al contexto mientras v0 construye."
+        },
+        {
+          "t": "p",
+          "x": "Esta colaboración con Vercel es una de las formas en que exploramos qué significa que un sistema de diseño dé soporte tanto a personas como a agentes, y cómo el conocimiento del sistema puede seguir siendo útil en el momento de la creación."
+        }
+      ]
+    },
+    "design/gemini-notebook-sites": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/blog_hero_periodic_table3_2784x1566.max-1440x810.png"
+        },
+        {
+          "t": "p",
+          "x": "Desde hoy, Gemini Notebook puede convertir tus fuentes en sitios interactivos para ayudarte a entender rápidamente información compleja."
+        },
+        {
+          "t": "p",
+          "x": "Para empezar, basta con escribir “make me a site” en el chat de Gemini Notebook junto con una descripción de lo que quieres crear para el trabajo o los estudios, por ejemplo:"
+        },
+        {
+          "t": "p",
+          "x": "Explicaciones visuales para preparar exámenes, como una tabla periódica interactiva o una línea de tiempo histórica. Paneles interactivos para explorar tus datos, como el rendimiento de ventas trimestral. Gestores de proyectos para organizar tus tareas y plazos."
+        },
+        {
+          "t": "p",
+          "x": "Una vez creado, selecciona “Open in a new tab” para interactuar con él o compártelo con otras personas."
+        },
+        {
+          "t": "p",
+          "x": "Esta función empieza a llegar hoy a nivel mundial en la web para los usuarios de Gemini Notebook (18+), incluidos los suscriptores de Google Workspace, y pronto estará en la app móvil."
+        },
+        {
+          "t": "video",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Sites_Final.mp4"
+        }
+      ]
+    },
+    "design/onepassword-figma-make": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/bbbd715863ae9596492a6b6eda14af49a9b802de-2400x1260.png?w=1200&q=70&fit=max&auto=format"
+        },
+        {
+          "t": "p",
+          "x": "Cada vez que un usuario autocompleta un inicio de sesión en su teléfono, usa 1Password en el escritorio o aprueba desde la extensión del navegador una solicitud de credenciales de un agente de AI, la experiencia tiene que sentirse inconfundiblemente como 1Password. “Yo diría que es confianza y certeza”, dice Matt Davey, Chief Experience Officer de 1Password."
+        },
+        {
+          "t": "p",
+          "x": "El equipo de sistemas de diseño convirtió casi dos décadas de pautas de diseño en contexto que las herramientas pueden usar, de modo que Figma Make y otros agentes siguen las mismas reglas que seguiría un diseñador. El equipo de Ryan Williamson-Cardneau creó un espacio interno de prototipado: un repositorio solo de front-end con plantillas de código para los productos de 1Password, construidas directamente a partir de sus archivos de Figma."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/a17b404ae2b6620f5900cc3aec4ff42c6e1a150c-1706x1410.png?rect=1,0,1705,1410&w=1080&h=893&q=75&fit=max&auto=format",
+          "cap": "El espacio de prototipado de 1Password abierto en Figma Make, donde los diseñadores pueden seleccionar un componente programado y ajustarlo por chat o desde su panel de propiedades."
+        },
+        {
+          "t": "p",
+          "x": "En lugar de hacer a mano 30 ediciones rápidas, Ryan comprobó que Figma Make acertaba en cerca del 80% de ellas. Matt llama “ramificación visual” a duplicar un prototipo y comparar versiones lado a lado. Con el chat conectado al MCP de 1Password, “es un compañero de entrenamiento”, dice."
+        },
+        {
+          "t": "p",
+          "x": "Todos los diseñadores de 1Password se han incorporado al espacio de prototipado, y los ingenieros y PMs también crean prototipos allí. 1Password ha sustituido en gran medida sus prototipos enlazados de Figma por prototipos programados para las pruebas con usuarios."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/ec408a42a9435922312ea6e79eb44ac6826c9a07-1706x1408.png?rect=0,1,1706,1407&w=1080&h=891&q=75&fit=max&auto=format",
+          "cap": "El espacio de prototipado reúne prototipos de todo el equipo, cada uno iniciado a partir de una plantilla programada de un producto de 1Password."
+        }
+      ]
+    },
+    "design/design-fable52-brushstroke-painter": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://the-decoder.com/wp-content/uploads/2026/11/claude_fable_5.2_painting.png",
+          "cap": "Imagen generada con Nano Banana Pro por THE DECODER"
+        },
+        {
+          "t": "p",
+          "x": "El nuevo modelo de lenguaje de Anthropic, Claude Fable 5.2, puede crear pinturas complejas e incluso fotorrealistas usando código para colocar cientos de miles de pinceladas individuales sobre un lienzo virtual. Los modelos de imagen actuales como Midjourney suelen usar difusión; Fable 5.2, en cambio, simula el proceso físico de pintar, incluida la textura de las cerdas, la forma en que se aplica la pintura y los errores que luego tiene que cubrir."
+        },
+        {
+          "t": "p",
+          "x": "Cuando el desarrollador de Anthropic Jake Eaton le pidió una pintura lo más difícil posible de distinguir de una fotografía, el modelo generó un carrito de compras en un garaje usando unas 700,000 pinceladas simuladas. Según Eaton, Claude trabaja sin un modelo de imagen externo y sin imágenes de origen prerrenderizadas o calcadas. Cada obra es un programa en Python de 1,000 a 2,000 líneas que controla un motor de pintura simulado."
+        },
+        {
+          "t": "img",
+          "src": "https://pbs.twimg.com/media/HWtMXeqboAA3yPD?format=jpg&name=medium",
+          "cap": "Unas 700,000 pinceladas simuladas formaron esta escena fotorrealista de un garaje pintada por Claude Fable 5.2. | Imagen: Jake Eaton"
+        },
+        {
+          "t": "p",
+          "x": "El ingeniero de Anthropic Michael Graczyk pidió a Fable 5.2 que pintara un pájaro al amanecer, emitiendo cada pincelada como una línea de coordenadas propia y sin posibilidad de deshacer. El video de 21 segundos muestra cómo la pintura toma forma a partir de exactamente 111 trazos. Entre pasadas, el modelo observaba el lienzo y reaccionaba a sus propios errores como lo haría un pintor real."
+        },
+        {
+          "t": "video",
+          "src": "https://the-decoder.com/wp-content/uploads/2026/11/graczyk_demo.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Anthropic informa una puntuación de 64.9 por ciento para Fable 5.2 en su benchmark interno RoboDojo Sim, frente al 29.8 por ciento de GPT-6 Astra de OpenAI. En la prueba con un brazo robótico real del investigador de AI Aris Zhu, Astra pintó más rápido y mostró mejor control motor fino."
+        }
+      ]
     }
   }
 }

@@ -6484,6 +6484,156 @@
           "x": "In August, an advisory body to Japan's Ministry of Justice issued guidelines stating that the voices of voice actors and actors, like likenesses, are subject to legal protection under publicity rights, and said that generative AI developers and providers could also bear joint liability depending on the degree of infringement."
         }
       ]
+    },
+    "politics/california-openai-agent-suit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK155_OPEN_AI_4_CVirginia_D.png?quality=90&strip=all&crop=0%2C10.742221417566%2C100%2C78.515557164868&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit on Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a “dangerous product without proper oversight,” as reported earlier by Reuters."
+        },
+        {
+          "t": "p",
+          "x": "The lawsuit claims the cyberattack on Hugging Face “was the predictable result of an internal culture at OpenAI that prioritizes growth and rapid model development over safety and accountability.” It alleges that OpenAI recently told the attorney general’s office that it “lost control” of its AI agents more than 80 times during testing."
+        },
+        {
+          "t": "p",
+          "x": "After revealing the rogue AI attack on Hugging Face in July, news of several other similar incidents emerged, including attacks on an Australian government website, a German wiki site, and the software package manager RubyGems. OpenAI’s agents also tried to “bruteforce” a United Nations website."
+        },
+        {
+          "t": "p",
+          "x": "“The company knowingly tested a dangerous product without proper oversight or safety procedures and misled the public about it — this disregard for public safety violated California law,” Bonta says in the press release."
+        },
+        {
+          "t": "p",
+          "x": "“This lawsuit appears to single out OpenAI over a challenge that’s been identified by every major AI lab. We take misalignment seriously,” OpenAI spokesperson Drew Pusateri says in a statement to The Verge, adding that the company will continue to engage constructively with the Attorney General’s office."
+        }
+      ]
+    },
+    "politics/san-francisco-declaration-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://image.theregister.com/5244738.jpg?imageId=5244738&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+        },
+        {
+          "t": "p",
+          "x": "Nine countries including the UK have signed a US declaration pledging to secure supply chains for AI tech. Under the San Francisco declaration, signed on November 15, the Pax Silica coalition says it is entering a new phase that turns shared principles into a working partnership with shared responsibilities."
+        },
+        {
+          "t": "p",
+          "x": "Pax Silica was announced in December last year to cover frontier foundation models, compute and semiconductors, advanced manufacturing, minerals refining and processing, and energy. China is not a participant, and the South China Morning Post calls it Trump's \"campaign to China-proof AI and chip supply chains.\""
+        },
+        {
+          "t": "p",
+          "x": "The declaration covers \"software, materials, knowledge, components and inputs…essential to AI supply chains\" whose acquisition by hostile actors \"would confer a meaningful military or intelligence advantage,\" plus critical infrastructure such as ports, communications, and the ICT and energy infrastructure they depend upon."
+        },
+        {
+          "t": "p",
+          "x": "It was jointly released by the US and the governments of Australia, India, Israel, Japan, South Korea, Qatar, Singapore, United Arab Emirates, and the United Kingdom. \"Pax Silica partners have agreed to treat the security of those technologies and the infrastructure behind them as a shared responsibility,\" US under-secretary of state Jacob Helberg told the Financial Times."
+        }
+      ]
+    },
+    "politics/csat-device-wifi-block": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img2.yna.co.kr/photo/yna/YH/2026/11/16/PYH2026111602630001300_P4.jpg",
+          "cap": "Inter-ministerial meeting on preventing exam cheating with smart devices"
+        },
+        {
+          "t": "p",
+          "x": "As concerns grow over cheating using advanced AI (artificial intelligence) technology, the government will push to have all types of smart devices handed in and public Wi-Fi blocked at test sites for the College Scholastic Ability Test (CSAT) on the 19th."
+        },
+        {
+          "t": "p",
+          "x": "At an inter-ministerial meeting on the 16th, Prime Minister Han Seong-sook said thorough preparations were needed so that no cheating abusing AI technology, such as smart glasses, micro cameras and earphones, takes place, and ordered the formation of a government-wide emergency response team for the CSAT."
+        },
+        {
+          "t": "p",
+          "x": "She asked the Ministry of Education to have test-takers hand in all smart devices at test sites, and asked the Ministry of Science and ICT to actively consider blocking public Wi-Fi at all test sites during the CSAT. The government plans to hold cheaters accountable, even after the fact, through cancelled admission, restricted exam eligibility and requests for investigation if cheating is confirmed."
+        },
+        {
+          "t": "img",
+          "src": "https://img8.yna.co.kr/photo/yna/YH/2026/11/16/PYH2026111601910001300_P4.jpg",
+          "cap": "Vice Minister of Labor Kwon Chang-jun receives a report"
+        },
+        {
+          "t": "p",
+          "x": "Han ordered the creation of a 'government-wide task force (TF) to prevent smart-device cheating' and a review of the entire national qualification exam system to prepare measures responding to the spread of AI, such as building certified exam venues and installing smart screening gates at each test site. On the recent cheating case involving the top-scoring successful candidate in the tax accountant exam, Han called for swift initiation of proceedings to void the exam and suspend eligibility to sit it for 5 years."
+        },
+        {
+          "t": "p",
+          "x": "Han said, \"Fairness in exams is a fundamental principle that sustains trust in our society.\""
+        },
+        {
+          "t": "video",
+          "yt": "MJ89R-gpviw"
+        }
+      ]
+    },
+    "politics/fbi-aws-agent-cybercrime": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://image.theregister.com/5310250.jpg?imageId=5310250&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+        },
+        {
+          "t": "p",
+          "x": "Attackers are using open source AI penetration testing framework ARTEX to automate their attacks on banks, governments, energy and healthcare providers, and other critical sectors around the globe, according to security alerts from the FBI and Amazon Threat Intelligence."
+        },
+        {
+          "t": "p",
+          "x": "Between October 3 and November 5, Amazon’s MadPot honeypot sensors detected two ARTEX campaigns: one that stole AI credentials at “industrial scale” to gain free access to models, and a second that generated deepfake videos to trick live selfie checks at two cryptocurrency exchanges. The vendor’s server-side verdict rejected the deepfake in every attempt."
+        },
+        {
+          "t": "p",
+          "x": "“The agents succeeded where basic security hygiene was missing, including default or hardcoded credentials, keys left in code and public artifacts, unauthenticated interfaces and inference endpoints, and unpatched software,” AWS CISO CJ Moses wrote."
+        },
+        {
+          "t": "p",
+          "x": "The FBI said “ARTEX significantly reduces the time required to chain attack techniques, with some intrusions progressing from initial targeting to privileged access in under three hours,” citing August attacks on South Korean financial institutions that stole data on about 67,000 people. As of November 4, Censys identified 1,465 hosts running an exposed ARTEX console. The FBI urged organizations to restrict sensitive services to trusted networks and adopt zero-trust access policies."
+        }
+      ]
+    },
+    "politics/politics-exam-ai-audit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.etnews.com/news/article/2026/11/15/news-p.v1.20261115.bef88a93891e47efaf3da25295cd9235_P1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The government will conduct a full audit of cheating with artificial intelligence (AI) in the national qualification exams held this year. Those who cheated on the 63rd certified tax accountant exam will have their passes revoked and will be barred from taking the exam for 5 years."
+        },
+        {
+          "t": "p",
+          "x": "The Ministry of Employment and Labor said that on the 15th it drew up these follow-up measures on AI-assisted cheating in the 63rd tax accountant exam at an emergency meeting chaired by Vice Minister of Employment and Labor Kwon Chang-jun. The meeting followed an “emergency meeting on preventing the spread of AI-assisted exam cheating” held the same day and chaired by Ha Joon-kyung, chief of staff for policy at Cheong Wa Dae."
+        },
+        {
+          "t": "p",
+          "x": "The ministry judged the cheating to be a serious matter that undermines the fairness of national qualification exams. It therefore decided not to limit the probe to the tax accountant exam and to immediately examine every national qualification exam held this year, based on the patterns found in the suspected cases. The Human Resources Development Service of Korea will open online and offline tip centers to receive reports of cheating on national qualification exams, including the use of AI devices."
+        },
+        {
+          "t": "p",
+          "x": "Exam-room supervision will also be strengthened. Additional measures, including the introduction of radio-wave detectors being developed by the Korea Radio Promotion Association, will be put in place as soon as possible, and current anti-cheating measures will be strictly enforced. The current measures include △ stronger guidance to candidates on the ban on bringing in and using smart devices (including smart glasses) and on penalties △ more training time for proctors on identification methods and response procedures △ wider deployment of dedicated supervisors at each exam site (AI inspectors) in addition to proctors."
+        },
+        {
+          "t": "p",
+          "x": "The ministry plans to form a joint task force (TF) with the Human Resources Development Service of Korea to review the testing system across national qualification exams and to prepare comprehensive anti-cheating measures within the year."
+        },
+        {
+          "t": "p",
+          "x": "Meanwhile, for those who cheated on this tax accountant exam, the ministry will move quickly to revoke their passes (with a 5-year ban on taking the exam) and file criminal complaints, and will cooperate fully with the police investigation."
+        },
+        {
+          "t": "p",
+          "x": "On the 16th, the government will also hold a meeting of vice ministers from related ministries, including the Ministry of Education, the Ministry of Employment and Labor and the Ministry of the Interior and Safety, chaired by Prime Minister Han Seong-sook, to further discuss responses to AI-assisted cheating."
+        }
+      ]
     }
   }
 }

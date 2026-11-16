@@ -4549,6 +4549,138 @@
           "x": "En estudios preclínicos, BD200 adaptó su especificidad a la expresión heterogénea de antígenos en las células tumorales y mostró mayor eficacia y capacidad para superar la resistencia frente a ADCs monoespecíficos estándar o un ADC biespecífico de referencia, según la compañía. El estudio de phase 1 evaluará la seguridad, la tolerabilidad, la farmacocinética y la eficacia preliminar."
         }
       ]
+    },
+    "medicine/openai-computer-use-health-agents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2219425791.jpg?VersionId=O1OkFR85axRupu_mdYZTS0_LgbsUcqZy",
+          "cap": "CVS Health dijo que, en un flujo de trabajo en producción, un agente eliminó en un fin de semana un retraso de meses en el envío de documentos."
+        },
+        {
+          "t": "p",
+          "x": "OpenAI amplía sus agentes computer-use para el sector sanitario, que permiten a la AI navegar por sistemas de historia clínica electrónica, portales de aseguradoras y otro software para resolver tareas repetitivas y manuales. Los agentes ven una pantalla, mueven un cursor, hacen clic en botones y escriben texto como lo haría una persona."
+        },
+        {
+          "t": "p",
+          "x": "Karan Singhal, responsable de Health AI en OpenAI, dijo que la compañía trabaja con CVS Health, Cigna Healthcare, Abridge y Ambience en flujos de trabajo como derivaciones, autorizaciones previas, planificación del alta, interconsultas con especialistas y preparación de gestores de casos. El acceso se ofrece a través de ChatGPT for Healthcare, ChatGPT for Clinicians y la OpenAI API."
+        },
+        {
+          "t": "p",
+          "x": "En la evaluación de OpenAI de GPT-6 Astra en tareas de la bandeja de entrada de la EHR, el 99% de 325 tareas revisadas se calificó como clínicamente seguro, y los médicos calificaron el modelo como “muy útil” o “extremadamente útil” en el 93% de 646 evaluaciones."
+        },
+        {
+          "t": "p",
+          "x": "CVS Health usa los agentes para enviar documentos, tramitar derivaciones y apoyar interconsultas con especialistas; un agente eliminó en un fin de semana un retraso acumulado de meses. Cigna extrae información de afiliados de más de 10 sistemas, y Abridge desarrolla agentes para planes de cuidados en apps sin APIs."
+        }
+      ]
+    },
+    "medicine/poskom-miniair-icu-xray": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Un sistema de rayos X ultracompacto con AI (AI-powered) puede reducir en más de tres cuartas partes el tiempo del flujo de trabajo de imagen junto a la cama en unidades de cuidados intensivos, manteniendo el rendimiento diagnóstico, según una investigación presentada en esta sesión."
+        },
+        {
+          "t": "p",
+          "x": "En un estudio prospectivo con 121 pacientes de ICU, Runqiu Huang, de la Southern Medical University de Guangzhou (China), y sus colegas compararon el sistema MiniAIR (Poskom, Corea del Sur), un dispositivo de 1.3 kilogramos del tamaño aproximado de un libro de bolsillo, con la radiografía digital móvil convencional para la imagen junto a la cama."
+        },
+        {
+          "t": "p",
+          "x": "MiniAIR redujo el tiempo total del flujo de trabajo de 2,061 segundos a 475 segundos, una disminución del 76.9%. Las reducciones fueron marcadas en todas las etapas, sobre todo en el inicio de la orden (87.5% más rápido) y el procesamiento posterior a la adquisición (88.4% más rápido). La mejora de imagen con AI elevó la calidad, redujo las puntuaciones de ruido y aumentó la resolución espacial de 34 a 40 pares de líneas por centímetro. La concordancia diagnóstica fue alta y no inferior a la imagen convencional, con coeficientes de correlación intraclase de al menos 0.9987 y valores kappa de Cohen de 0.88 a 1.00 en todas las tareas evaluadas."
+        },
+        {
+          "t": "p",
+          "x": "La radiografía móvil convencional ha limitado durante mucho tiempo los flujos de trabajo de la ICU por su hardware voluminoso y sus retrasos de procesamiento, señalaron los autores. “Este enfoque integrado hardware-AI aborda limitaciones clave de la radiografía móvil convencional y respalda una toma de decisiones clínicas rápida en el punto de atención”, sugirieron los investigadores."
+        }
+      ]
+    },
+    "medicine/naitive-osteosight-spine-510k": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://naxztztabtiofaq7.public.blob.vercel-storage.com/app-uploads/images/1794492544592-Naitive-LinkedIn-post---1200---627-q9nL5xrPZdo1AtcWY8epwITx37wld5.png",
+          "cap": "Cortesía de Naitive Technologies"
+        },
+        {
+          "t": "p",
+          "x": "Naitive Technologies anunció que recibió la autorización 510(k) de la FDA de Estados Unidos (U.S.) para OsteoSight Spine, que permite evaluar de forma oportunista la densidad mineral ósea (BMD) con radiografías rutinarias de columna lumbar, columna torácica y tórax obtenidas para investigar otros problemas clínicos. Se estima que en Estados Unidos (US) se realizan 124 millones de estas radiografías al año. La autorización llega después de que la FDA autorizara OsteoSight para radiografías de cadera y pelvis en septiembre de 2025."
+        },
+        {
+          "t": "p",
+          "x": "El 70% de los pacientes con BMD baja no está diagnosticado, a menudo hasta que se produce una fractura. OsteoSight Spine analiza radiografías de pacientes de 50 años o más, identifica casos con riesgo de BMD baja y ofrece un informe que ayuda al médico que las interpreta y promueve una evaluación clínica de la salud ósea."
+        },
+        {
+          "t": "p",
+          "x": "“OsteoSight Spine aprovecha las radiografías que pedimos cada día para señalar a pacientes cuya baja densidad ósea se esconde a plena vista”, dijo el Dr. Todd Albert, del Hospital for Special Surgery. “Las radiografías de columna y tórax están entre las imágenes más comunes de la medicina, y cada una es una oportunidad para detectar la baja densidad ósea antes de una fractura”, dijo el CEO de Naitive, el Dr. Will Briggs."
+        }
+      ]
+    },
+    "medicine/dongsan-adpkd-ai-platform": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.bosa.co.kr/news/photo/202611/3016555_417451_059.jpg",
+          "cap": "Vista exterior del Hospital Dongsan de la Universidad Keimyung"
+        },
+        {
+          "t": "p",
+          "x": "El Hospital Dongsan de la Universidad Keimyung (director: Kim Jun-hyung) se dispone a crear una plataforma de gestión integral basada en inteligencia artificial (AI) para ayudar a los pacientes con poliquistosis renal, una enfermedad renal hereditaria, a cuidar su salud en el día a día. El hospital informó de que, como parte del programa de apoyo al impulso de hospitales orientados a la investigación (C-LINK R&D), desarrolla el proyecto ‘Creación de una plataforma de gestión integral metabólica y funcional centrada en la carga de enfermedad basada en la poliquistosis renal autosómica dominante (ADPKD)’."
+        },
+        {
+          "t": "p",
+          "x": "La poliquistosis renal es una enfermedad hereditaria en la que se forman y crecen numerosos quistes (bolsas de líquido) en los riñones, el hígado y otros órganos, lo que reduce de forma progresiva la función renal. Como la velocidad de progresión varía entre pacientes y los síntomas, como el dolor abdominal y la fatiga, son diversos, resulta imprescindible un manejo integral que abarque la nutrición y la actividad física más allá de los simples valores de función renal."
+        },
+        {
+          "t": "p",
+          "x": "La clave de la plataforma es conectar en un único sistema los datos clínicos, el análisis de imagen con AI, la evaluación de la función física, el ejercicio personalizado y la educación del paciente. Combina los datos de imagen de riñón e hígado analizados por AI con la masa muscular, la actividad registrada mediante dispositivos portátiles y otros medios, y los indicadores de dolor y fatiga para evaluar con precisión la carga de enfermedad de cada paciente y, a partir de ello, prescribir ejercicio optimizado. Para ello, nefrología y medicina de rehabilitación encabezan un sistema de colaboración multidisciplinar con expertos en ejercicio, nutrición y salud digital."
+        },
+        {
+          "t": "p",
+          "x": "El estudio preliminar (Pilot study) para comprobar su aplicabilidad en la práctica también está dando resultados positivos. Tras aplicar intervenciones de ejercicio personalizadas a través de una plataforma móvil, la adherencia de los pacientes a la participación en el tratamiento superó el 90%. Los pacientes participantes valoraron que la guía de ejercicio concreta y el apoyo en tiempo real les ayudaron de forma real a recuperar la vitalidad en su vida diaria."
+        },
+        {
+          "t": "p",
+          "x": "“El objetivo de esta investigación es crear un entorno en el que los pacientes con poliquistosis renal puedan seguir cuidando su salud por sí mismos en su vida diaria fuera del hospital”, afirmó Kim Ye-rim, responsable de la investigación y docente de Nefrología. “Con base en los comentarios de los pacientes recogidos en el estudio preliminar, seguiremos perfeccionando el programa de ejercicio y la plataforma”, añadió."
+        },
+        {
+          "t": "p",
+          "x": "El Hospital Dongsan prevé aplicar primero la plataforma a la poliquistosis renal y, después, aprovechar la infraestructura de investigación clínica del hospital orientado a la investigación para convertirla en un modelo de gestión integral aplicable de forma general a diversas enfermedades crónicas, e impulsar su comercialización."
+        }
+      ]
+    },
+    "medicine/neca-vitalcare-input-audit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://medigatenews.com/file/news/542817",
+          "cap": "Carta de encuesta escrita que los hospitales deben responder a NECA antes del 19 de noviembre. Fuente: aportada por un lector"
+        },
+        {
+          "t": "p",
+          "x": "La Agencia Nacional de Colaboración en Salud Basada en la Evidencia de Corea (NECA) envió cartas de encuesta escrita a 171 hospitales que usaron tecnología relacionada con VitalCare, una inteligencia artificial (AI) que predice el deterioro de los pacientes, lo que ha generado confusión en el ámbito médico. Es una encuesta de seguimiento tras las críticas de la auditoría parlamentaria, y pide confirmar con 'sí' o 'no' si cada uno de los 19 datos de entrada se midió realmente al menos una vez durante la hospitalización de cada paciente incluido."
+        },
+        {
+          "t": "p",
+          "x": "El diputado Kwon Chil-seung, del Partido Democrático, cuestionó el cumplimiento de la normativa en la auditoría parlamentaria del 7 de octubre. En la respuesta que presentó un hospital, de un total de 5042 días de uso, los 19 elementos estuvieron presentes solo en 73 días, alrededor del 1.5%."
+        },
+        {
+          "t": "p",
+          "x": "NECA envió la carta el 4 de noviembre a petición del Ministerio de Salud y Bienestar. La encuesta se realiza del 11 al 19 de noviembre, y los hospitales deben presentar su uso entre marzo de 2023 y septiembre de 2026, si obtuvieron el consentimiento de los pacientes y los materiales informativos del proveedor. El envío de la carta no implica por sí mismo que se haya confirmado una infracción."
+        },
+        {
+          "t": "img",
+          "src": "https://medigatenews.com/file/news/542829"
+        },
+        {
+          "t": "p",
+          "x": "AITRICS emitió un comunicado oficial el día 12 en el que rechazó la acusación de incumplir la normativa. Según la autorización del Ministerio de Seguridad de Alimentos y Medicamentos, 5 signos vitales requieren al menos una medición real, pero la saturación de oxígeno, 11 resultados de análisis de sangre y la puntuación del nivel de conciencia se completan mediante imputación de valores faltantes para calcular la puntuación de riesgo. \"Los elementos sin valor medido se completan con la medición anterior o con la mediana del rango normal, de modo que se introducen y analizan los 19\", afirmó la empresa."
+        },
+        {
+          "t": "p",
+          "x": "La empresa también citó que, en primera instancia de las demandas relacionadas de restitución por enriquecimiento injusto, el Tribunal Municipal de Osan y el Tribunal de Distrito de Ulsan desestimaron las pretensiones de los demandantes, y pidió al Ministerio de Salud y Bienestar que ajuste el método de uso de la normativa a la autorización del Ministerio de Seguridad de Alimentos y Medicamentos. VitalCare pasó por un periodo de aplazamiento de la evaluación de nuevas tecnologías sanitarias y ahora está en la evaluación principal."
+        }
+      ]
     }
   }
 }

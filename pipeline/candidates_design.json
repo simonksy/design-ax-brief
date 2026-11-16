@@ -1,169 +1,152 @@
 {
- "section": "design",
- "now_iso": "2026-11-15T22:00:36Z",
- "window_hours": 72,
- "items": [
-  {
-   "title": "Anthropic's Claude Fable 5.2 doesn't generate images, it paints them",
-   "url": "https://the-decoder.com/anthropics-claude-fable-5-2-doesnt-generate-images-it-paints-them/",
-   "source": "The Decoder",
-   "category": "render",
-   "published_iso": "2026-11-15T15:42:03+00:00",
-   "excerpt": "Instead of computing pixels, Claude Fable 5.2 writes Python code that places hundreds of thousands of simulated brushstrokes on a virtual canvas, complete with bristle texture and paint application — a code-driven painting pipeline rather than a diffusion image model.",
-   "og_image": "https://the-decoder.com/wp-content/uploads/2026/11/claude_fable_5.2_painting.png"
-  },
-  {
-   "title": "Runway's open-source Praxis-1 turns video AI into a robot controller",
-   "url": "https://the-decoder.com/runways-open-source-praxis-1-turns-video-ai-into-a-robot-controller/",
-   "source": "The Decoder",
-   "category": "render",
-   "published_iso": "2026-11-14T09:45:45+00:00",
-   "excerpt": "Runway released its robotics model Praxis-1 with open weights and code under Apache 2.0; it reuses knowledge from video-generation training for robot control and leads the World Action Model category on Nvidia's RoboLab-120 benchmark. Check movies-section overlap (Runway).",
-   "og_image": "https://the-decoder.com/wp-content/uploads/2026/11/Runway-Praxis-1.jpg"
-  },
-  {
-   "title": "Adobe Firefly was supposed to be the safe AI option – so what's changed?",
-   "url": "https://www.creativebloq.com/news/i-trusted-adobe-firefly-because-it-was-the-safe-ai-option-now-im-not-so-sure",
-   "source": "Creative Bloq",
-   "category": "workflow",
-   "published_iso": "2026-11-15T14:00:00+00:00",
-   "excerpt": "A designer who chose Firefly for its licensed training data questions whether that commercial-safety promise still holds now that Adobe is inviting rival third-party AI models into its apps after MAX 2026.",
-   "og_image": "https://cdn.mos.cms.futurecdn.net/uUbpTvaqSDLvaVs2dTRkZJ-1920-80.jpg"
-  },
-  {
-   "title": "AI's Role in the Creative Process",
-   "url": "https://www.figma.com/blog/ai-role-in-the-creative-process/",
-   "source": "Figma Blog",
-   "category": "figma",
-   "published_iso": "2026-11-13T20:00:00+00:00",
-   "excerpt": "Figma examines which parts of the creative process designers are willing to hand to AI and which they insist on keeping for themselves.",
-   "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/4791f6c2acbf0d3121abf8a8f3e7aa3c6b7c4ae9-3264x1836.png?w=1200&q=70&fit=max&auto=format"
-  },
-  {
-   "title": "Decision theatre or decision design?",
-   "url": "https://uxdesign.cc/decision-theatre-or-decision-design-f1604f178685",
-   "source": "UX Collective",
-   "category": "workflow",
-   "published_iso": "2026-11-13T18:51:01+00:00",
-   "excerpt": "AI has made information easy but not decisions simple; as machines produce more than teams can read, the designer's job shifts from building knowledge to owning and designing decisions. (Opinion essay.)",
-   "og_image": null
-  },
-  {
-   "title": "SimScale launches Engineering AI Blueprint",
-   "url": "https://www.engineering.com/simscale-launches-engineering-ai-blueprint/",
-   "source": "Engineering.com",
-   "category": "cad",
-   "published_iso": "2026-11-13T08:39:51+00:00",
-   "excerpt": "SimScale's Engineering AI Blueprint bundles NVIDIA tools and a framework for moving AI-driven simulation and design-engineering workflows from pilots to broader deployment.",
-   "og_image": "https://www.engineering.com/wp-content/uploads/2026/11/V-model-graphic.jpg"
-  },
-  {
-   "title": "AI makes scanned buildings searchable",
-   "url": "https://aecmag.com/cafm/ai-makes-scanned-buildings-searchable/",
-   "source": "AEC Magazine",
-   "category": "cad",
-   "published_iso": "2026-11-13T11:17:46+00:00",
-   "excerpt": "qentin uses AI to make reality-captured buildings searchable, letting facility managers find assets, check safety features and explore digital twins by query.",
-   "og_image": "https://aecmag.com/wp-content/uploads/2026/11/qentin.jpg"
-  },
-  {
-   "title": "Adapt Human Motion for Robots with NVIDIA SOMA Retargeter",
-   "url": "https://developer.nvidia.com/blog/adapt-human-motion-for-robots-with-nvidia-soma-retargeter/",
-   "source": "NVIDIA Technical Blog",
-   "category": "render",
-   "published_iso": "2026-11-13T17:00:00+00:00",
-   "excerpt": "NVIDIA's SOMA Retargeter maps captured human motion onto humanoid robot bodies, using human demonstrations as a starting point for teaching natural robot movement (physical AI / motion pipeline).",
-   "og_image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/SOMA_Retargeter_Featured_600x338-500x282.gif"
-  },
-  {
-   "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
-   "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
-   "source": "Hugging Face (NVIDIA)",
-   "category": "workflow",
-   "published_iso": "2026-11-13T18:00:39+00:00",
-   "excerpt": "NVIDIA walks through using SimReady 3D assets to build a robot pick-and-place simulation, connecting physically accurate 3D asset authoring to physical-AI training.",
-   "og_image": "https://cdn-uploads.huggingface.co/production/uploads/6abfe9e7d7cf09a9b38ef308/HFZWtQ2i9VN_agjeUw2HB.gif"
-  },
-  {
-   "title": "Designing screens with AI expert roles: what each one caught",
-   "url": "https://dev.to/anton_shubin_f26b3cb5a572/designing-screens-with-ai-expert-roles-what-each-one-caught-1f7l",
-   "source": "DEV Community",
-   "category": "figma",
-   "published_iso": "2026-11-15T13:25:35+00:00",
-   "excerpt": "A developer whose AI agents write most of his code describes assigning AI 'expert roles' (UX, visual, accessibility) to review screens so they don't look like default templates, and what each role caught.",
-   "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fantonshubin.com%2Fimg%2Fblog%2Fdesigning-screens-with-ai-expert-roles%2Fcover.png"
-  },
-  {
-   "title": "AI Concept Renders Are Not Technical Drawings: A Practical Quality-Control Workflow",
-   "url": "https://dev.to/alexis_markarian_d5d36ed8/ai-concept-renders-are-not-technical-drawings-a-practical-quality-control-workflow-d39",
-   "source": "DEV Community",
-   "category": "cad",
-   "published_iso": "2026-11-15T14:12:03+00:00",
-   "excerpt": "A QC workflow for checking AI-generated architectural concept renders before they are mistaken for technical drawings. Author discloses he develops an AI visualization tool (Estate Render) — treat as semi-promotional.",
-   "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcbd40afcwstam13g191f.png"
-  },
-  {
-   "title": "Claude gets creative: a skill for brainstorming in rounds",
-   "url": "https://dev.to/atomijd/claude-gets-creative-a-skill-for-brainstorming-in-rounds-2km6",
-   "source": "DEV Community",
-   "category": "workflow",
-   "published_iso": "2026-11-15T15:08:38+00:00",
-   "excerpt": "A Claude Code skill that runs a three-round creativity/ideation session with a human verdict after each round.",
-   "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5t7eughlq2mdff6hsnb2.png"
-  },
-  {
-   "title": "Config India 2026: Figma Weave: What we keep in creative work and what we refuse to automate",
-   "url": "https://www.youtube.com/watch?v=znW1i7AQdPI",
-   "source": "Figma (YouTube)",
-   "category": "social",
-   "published_iso": "2026-11-14T15:38:42+00:00",
-   "excerpt": "Using Figma Weave as the example, this Config India session argues that deciding what not to automate with AI may be one of the most important creative choices teams make; taste and judgement over execution.",
-   "og_image": "https://i.ytimg.com/vi/znW1i7AQdPI/maxresdefault.jpg"
-  },
-  {
-   "title": "Config India 2026: Figma deep dive: Nothing lost in translation, from canvas to production",
-   "url": "https://www.youtube.com/watch?v=87SISSxj6R4",
-   "source": "Figma (YouTube)",
-   "category": "social",
-   "published_iso": "2026-11-15T18:36:14+00:00",
-   "excerpt": "Deep dive on closing the prototype-to-production gap with design-system context, advanced MCP techniques, code layers and specs in Figma.",
-   "og_image": "https://i.ytimg.com/vi/87SISSxj6R4/maxresdefault.jpg"
-  },
-  {
-   "title": "Config India 2026: Better together: from handoff to handshake",
-   "url": "https://www.youtube.com/watch?v=boZ85l-ShJM",
-   "source": "Figma (YouTube)",
-   "category": "social",
-   "published_iso": "2026-11-13T18:19:33+00:00",
-   "excerpt": "Atlassian shows how one team reworked its design-to-build path now that AI lets PMs prototype and engineers ship from a prompt, using real Figma artefacts and AI tooling to keep day-one intent through launch.",
-   "og_image": "https://i.ytimg.com/vi/boZ85l-ShJM/maxresdefault.jpg"
-  },
-  {
-   "title": "Claude's New Whiteboards, Sheets & Data: What You Can Do Now.",
-   "url": "https://www.youtube.com/watch?v=SDipcfxxa8s",
-   "source": "The AI Advantage (YouTube)",
-   "category": "social",
-   "published_iso": "2026-11-13T23:57:34+00:00",
-   "excerpt": "Hands-on walkthrough of Claude's new Whiteboards, Sheets and Data features and which are actually useful in practice.",
-   "og_image": "https://i.ytimg.com/vi/SDipcfxxa8s/maxresdefault.jpg"
-  },
-  {
-   "title": "AI News: Things Will Never Be The Same",
-   "url": "https://www.youtube.com/watch?v=G_Jrexy_5Bg",
-   "source": "Matt Wolfe (YouTube)",
-   "category": "social",
-   "published_iso": "2026-11-13T17:21:49+00:00",
-   "excerpt": "Weekly AI roundup: Claude Fable 5.2, Gemini 4 Carbon availability, new Adobe MAX AI features, Claude updates and more (general roundup; design hook is the Adobe/Claude segments).",
-   "og_image": "https://i.ytimg.com/vi/G_Jrexy_5Bg/maxresdefault.jpg"
-  },
-  {
-   "title": "I Turned a Website's Hero Image Into a Scroll Video With Claude Code + Higgsfield MCP",
-   "url": "https://www.youtube.com/watch?v=jgnYGCpShSQ",
-   "source": "Kosta Motresku (YouTube)",
-   "category": "social",
-   "published_iso": "2026-11-15T14:12:25+00:00",
-   "excerpt": "Tutorial connecting the Higgsfield MCP server to Claude Code to turn a website template's static hero image into a scroll-driven AI video with a few prompts. Description carries a Higgsfield affiliate link.",
-   "og_image": "https://i.ytimg.com/vi/jgnYGCpShSQ/maxresdefault.jpg"
-  }
- ]
+  "section": "design",
+  "now_iso": "2026-11-16T22:37:00Z",
+  "window_hours": 72,
+  "items": [
+    {
+      "title": "How 1Password uses Figma Make to design for trust and certainty",
+      "url": "https://www.figma.com/blog/1password-figma-make/",
+      "source": "Figma Blog",
+      "category": "figma",
+      "published_iso": "2026-11-16T18:03:00Z",
+      "excerpt": "From autofill to AI agent approvals, every 1Password interaction counts. Here's how the design team uses Figma Make to design moments users trust.",
+      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/bbbd715863ae9596492a6b6eda14af49a9b802de-2400x1260.png?w=1200&q=70&fit=max&auto=format"
+    },
+    {
+      "title": "Lovable introduces Drafts: explore any idea in parallel without touching what's live",
+      "url": "https://lovable.dev/blog/introducing-drafts",
+      "source": "Lovable",
+      "category": "figma",
+      "published_iso": "2026-11-16T13:30:00Z",
+      "excerpt": "Now you and your team can explore different versions of your project in parallel while keeping your live app unchanged.",
+      "og_image": "https://assets.lovable.dev/content/news/covers/introducing-drafts-2026-11-15.png"
+    },
+    {
+      "title": "Developer or designer for an AI-built app: How to tell which problem you have",
+      "url": "https://dev.to/andyur/developer-or-designer-for-an-ai-built-app-how-to-tell-which-problem-you-have-36ji",
+      "source": "DEV Community",
+      "category": "figma",
+      "published_iso": "2026-11-16T16:17:27Z",
+      "excerpt": "Originally published on ayurchenko.xyz.  If an app built with Lovable, Bolt, Cursor or Claude Code...",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj4zi8pxg98d713hvdfau.png"
+    },
+    {
+      "title": "Adobe Firefly was supposed to be the safe AI option – so what's changed?",
+      "url": "https://www.creativebloq.com/news/i-trusted-adobe-firefly-because-it-was-the-safe-ai-option-now-im-not-so-sure",
+      "source": "Creative Bloq",
+      "category": "figma",
+      "published_iso": "2026-11-15T14:00:00Z",
+      "excerpt": "I trusted Firefly's licensed training data. Now Adobe's inviting rival AI models in, and I'm not sure that trust still holds.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/uUbpTvaqSDLvaVs2dTRkZJ-1920-80.jpg"
+    },
+    {
+      "title": "Why bother paying for software anymore?",
+      "url": "https://uxdesign.cc/why-bother-paying-for-software-anymore-e1f76093f772",
+      "source": "UX Collective",
+      "category": "figma",
+      "published_iso": "2026-11-16T21:27:13Z",
+      "excerpt": "Ed Orozco argues that AI-assisted clones such as ArtCraft's open-sourced copies of Adobe apps are eroding the value of paid creative software, and that design craft is the moat 'AI bros didn't expect'. Member-only story.",
+      "og_image": "https://miro.medium.com/v2/resize:fit:1200/1*TV7xQSMxyAg-Mgkm4Fat5g.png"
+    },
+    {
+      "title": "Agents are users, so your software needs evals",
+      "url": "https://vercel.com/blog/agent-evals",
+      "source": "Vercel",
+      "category": "figma",
+      "published_iso": "2026-11-16T05:00:00Z",
+      "excerpt": "How to test software that agents use: the agentic testing pyramid, choosing between pass@k and pass^k, and building end-to-end evals with Harbor on Vercel Sandbox and AI Gateway.",
+      "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/37vK1b2WXqlYnat7DPTF47/f61f24f23f4bb0dbc30ab010f217431b/agents_are_users.png"
+    },
+    {
+      "title": "Claude now builds interactive websites inside canvas graphics, reviving the Flash era with real HTML",
+      "url": "https://the-decoder.com/claude-now-builds-interactive-websites-inside-canvas-graphics-reviving-the-flash-era-with-real-html/",
+      "source": "The Decoder",
+      "category": "render",
+      "published_iso": "2026-11-16T16:10:22+00:00",
+      "excerpt": "Claude can now embed text, buttons, and other web elements into complex graphics and 3D effects.",
+      "og_image": "https://the-decoder.com/wp-content/uploads/2026/11/claude_gemini_pro-scaled.png"
+    },
+    {
+      "title": "Runway's open-source Praxis-1 turns video AI into a robot controller",
+      "url": "https://the-decoder.com/runways-open-source-praxis-1-turns-video-ai-into-a-robot-controller/",
+      "source": "The Decoder",
+      "category": "render",
+      "published_iso": "2026-11-14T09:45:45+00:00",
+      "excerpt": "Runway releases its robotics model Praxis-1 with open weights and source code under the Apache 2.0 license. The model uses knowledge from video training for robot control and leads the World Action Model category on Nvidia's RoboLab-120 benchmark. It can't yet plan complex action sequences on its ow",
+      "og_image": "https://the-decoder.com/wp-content/uploads/2026/11/Runway-Praxis-1.jpg"
+    },
+    {
+      "title": "Adobe Is Betting You Hate Slop, Not AI. Some Designers Feel Differently",
+      "url": "https://www.cnet.com/tech/services-and-software/adobe-max-2026-slop-agents-ai-feature/",
+      "source": "CNET",
+      "category": "workflow",
+      "published_iso": "2026-11-16T08:30:10-05:00",
+      "excerpt": "At Adobe Max 2026, executives outlined their vision for agentic creative software. But many creators still aren't sold.",
+      "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/image-3-6.png"
+    },
+    {
+      "title": "Astryx is now available in v0",
+      "url": "https://astryx.atmeta.com/blog/astryx-is-now-available-in-v0",
+      "source": "Astryx (Meta)",
+      "category": "tokens",
+      "published_iso": "2026-11-14T00:00:00Z",
+      "excerpt": "Astryx is now available in v0 as a design-system skill, bringing guidance, components, examples, and templates into context as v0 builds.",
+      "og_image": "https://astryx.atmeta.com/blog/astryx-is-now-available-in-v0/cover.png"
+    },
+    {
+      "title": "AI Loves Purple: Most and Least Used AI Colors",
+      "url": "https://dev.to/f9xrteam/ai-loves-purple-most-and-least-used-ai-colors-4g22",
+      "source": "DEV Community",
+      "category": "tokens",
+      "published_iso": "2026-11-15T10:58:19Z",
+      "excerpt": "Which colors does AI use most and least? See the purple problem, what research shows, why it happens and how to fix AI default palettes in your code.",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fraw.githubusercontent.com%2Ff9xr%2Fdev9b%2Fmaster%2Fcontent%2Fpost%2Fmost-least-used-colors-by-ai%2Fmost-least-used-ai-colors.webp"
+    },
+    {
+      "title": "Transform notes, research, and sources into interactive sites with Gemini Notebook",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/interactive-sites/",
+      "source": "Google",
+      "category": "workflow",
+      "published_iso": "2026-11-16T16:00:00Z",
+      "excerpt": "Gemini Notebook now turns your research into interactive sites. Build project trackers and visual dashboards with Google. Create your site today.",
+      "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/blog_hero_periodic_table3_2784x1566.max-1440x810.png"
+    },
+    {
+      "title": "The Algorithmic Critic: Can AI Learn to Judge Architecture?",
+      "url": "https://parametric-architecture.com/the-algorithmic-critic-can-ai-judge/",
+      "source": "Parametric Architecture",
+      "category": "cad",
+      "published_iso": "2026-11-16T16:00:00+00:00",
+      "excerpt": "Can AI judge architecture? Explore how algorithmic criticism is reshaping architectural value, design standards, and professional responsibility.",
+      "og_image": "https://parametric-architecture.com/wp-content/uploads/2026/11/The-Algorithmic-Critic-Can-Artificial-Intelligence-Learn-to-Judge-Architecture02.webp"
+    },
+    {
+      "title": "AIA survey finds 74% of architecture firms used AI in day-to-day operations in 2025",
+      "url": "https://www.marketscale.com/industries/architecture-and-design/aia-survey-finds-74-of-architecture-firms-used-ai-in-day-to-day-operations-in-2025",
+      "source": "MarketScale",
+      "category": "cad",
+      "published_iso": "2026-11-15T15:49:00Z",
+      "excerpt": "AIA's 2026 firm survey reports $121.7B in billings and 74% AI use for 2025. Here is how firm leaders can use it as a baseline in a 2026 slowdown.",
+      "og_image": "https://res.cloudinary.com/marketscalecms/image/upload/f_auto,q_auto/v1/payload/media/news-cover-aia-survey-finds-74-of-architecture-firms-used-ai-in-day-to-day-operations-in-2025?_a=BAMAABiw0"
+    },
+    {
+      "title": "Crimson Desert studio Pearl Abyss now uses AI to validate game designs before developers build them",
+      "url": "https://wccftech.com/pearl-abyss-ai-validate-game-designs-crimson-desert/",
+      "source": "Wccftech",
+      "category": "workflow",
+      "published_iso": "2026-11-16T08:00:00+00:00",
+      "excerpt": "Crimson Desert developer Pearl Abyss admits it's going all-in with AI tools integration into its BlackSpace Engine to accelerate development.",
+      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/11/crimson-desert-charting-the-unknown-HD-1920x1080.jpeg"
+    },
+    {
+      "title": "Claude's New Whiteboards, Sheets & Data: What You Can Do Now",
+      "url": "https://www.youtube.com/watch?v=SDipcfxxa8s",
+      "source": "The AI Advantage (YouTube)",
+      "category": "social",
+      "published_iso": "2026-11-13T23:57:34Z",
+      "excerpt": "The AI Advantage walks through Claude's new whiteboards, sheets and data features and what creators can now do with them.",
+      "og_image": "https://i.ytimg.com/vi/SDipcfxxa8s/maxresdefault.jpg"
+    }
+  ],
+  "notes": "Feeds-first harvest (63+ feeds, Google News RSS w/ batchexecute URL resolve), 3 WebSearch used (all stale). Dropped as cross-section dups: Manchester Animation Festival AI ban (movies), UE 5.9 Preview (games), Create My Widget (gadgets). Off-list exceptions: CNET, Parametric Architecture, MarketScale, Wccftech, astryx.atmeta.com. Pearl Abyss item may collide with games."
 }
