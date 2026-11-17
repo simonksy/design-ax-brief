@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "issue": "32년 된 지프, Claude·Codex로 배출가스 검사 통과",
+    "date": "2026.11.13",
+    "section": "GADGETS",
+    "accent": "#ff5a4d",
+    "note": "Tom's Hardware(Mark Tyson, 2026-11-13T10:30Z 게재) 원문을 차주 무하마드 줄랄리(Muhammad Zulali)의 YouTube 영상 'Claude reverse engineered my 32-year-old Jeep. Then it started controlling it.'(2026.11.10 업로드, 11:42, 자막·화면 대조)과 GitHub MZULALI/xj-scanner(2026.11.10 생성, GPLv3, README·docs/protocol.md)로 대조. 확인: 1994 체로키 XJ 4.0L, OBD2 없음, 약 일주일 작업, 3달러 아두이노 나노·부품 약 15달러, 진단 플러그 6구 중 3개 사용, SCI 7812.5보드·전기적 반전(protocol.md 그대로, TH '~7,800'은 반올림), 재검사 회당 약 100달러, Claude가 연료 펌프를 약 10초 직접 구동, ECU 프로그램 통째 복사, 캘리포니아용 연료표가 검사 부하에서 연료를 줄임(줄랄리는 'potentially causing'이라 함 → '~로 보였다'), ECU 제조 1993.12.20 라벨·프로그래밍 가능 모델보다 약 4개월 앞서 재기록 불가, Codex가 RAM에 작은 프로그램을 돌린 뒤(약 초당 90회) EEPROM에 올림, 검사 통과, 인용 'Claude did most of the diagnostic work and Codex did pretty much all of the memory work… I just did the wiring and the driving'. NOx 수치는 영상 속 줄랄리의 그래픽(검사 1·2: 15mph 79 통과 / 25mph 702·660 불합격, 기준 517·539; 산소 센서 교체 뒤 검사 3: 15mph 905 불합격). 정정: 날짜 초안 11.15 → 기사 게재일 11.13. TH의 '산소 혼합 조정 뒤 25·50mph 모두 불합격', '25·50mph 주행 로깅'은 영상과 다름 — 영상은 산소 센서 교체 뒤 15·25mph 모두 불합격, 로깅은 15~25mph(캘리포니아 검사 속도)라 영상을 따름. TH '22% 추가 연료는 다른 차종 데이터 탓'은 영상상 ChryslerScanner 도구 해석이 이 차에 틀렸던 것(실제로는 연료를 빼는 중) — 카드엔 싣지 않음. 초안 '$15로 ECU를 손봐'는 15달러가 부품값이라 분리. 미디어: 차주 개인 YouTube 영상(표준 라이선스)은 회사 공식·CC 자료가 아니라 쓰지 않음 — 11-17 발행 전 보류 후 전 카드를 숫자·인용 카드로 교체. Tom's Hardware 자체 영상·이미지도 쓰지 않음.",
+    "sources": [
+      "Tom's Hardware — 1994 Jeep Cherokee owner hacks 32-year-old car with Claude AI to pass California smog tests (2026.11.13)",
+      "Muhammad Zulali YouTube — Claude reverse engineered my 32-year-old Jeep. Then it started controlling it. (2026.11.10)",
+      "GitHub MZULALI/xj-scanner — README · docs/protocol.md (2026.11.17 확인)"
+    ]
+  },
+  "cards": [
+    {
+      "kind": "stat",
+      "eyebrow": "AI × 가젯 · 2026.11.13",
+      "headline": "Claude가 뜯어본 지프",
+      "body": "캘리포니아 배출가스 검사에 거듭 떨어진 1994년식 체로키. 차주 무하마드 줄랄리가 Claude·Codex와 일주일을 매달렸다.",
+      "foot": "밀어서 보기 →",
+      "n": 1,
+      "stat_top": "1994년식 체로키",
+      "stat_arrow": "Claude·Codex와 일주일",
+      "stat_bottom": "검사 통과",
+      "stat_strike": false
+    },
+    {
+      "kind": "stat",
+      "stat_top": "15mph NOx 79",
+      "stat_arrow": "산소 센서를 갈고 재검사",
+      "stat_bottom": "905",
+      "stat_strike": false,
+      "eyebrow": "왜 시작했나",
+      "headline": "센서 갈자 더 나빠졌다",
+      "body": "25mph 구간에서 NOx가 기준을 넘었다. 센서를 갈자 통과하던 15mph(기준 517)도 터졌다. 재검사는 회당 약 100달러.",
+      "foot": "2026.11.13",
+      "n": 2
+    },
+    {
+      "kind": "stat",
+      "eyebrow": "어떻게 읽었나",
+      "headline": "3달러 칩이 통역사",
+      "body": "OBD2 이전 차다. Claude는 이 차가 신호가 뒤집힌 크라이슬러 SCI 버스로 말한다고 짚었고, 그 사이에 아두이노 나노를 끼웠다.",
+      "foot": "2026.11.13",
+      "n": 3,
+      "stat_top": "OBD2 이전 차",
+      "stat_arrow": "3달러 아두이노 나노를 끼우자",
+      "stat_bottom": "노트북이 읽는다",
+      "stat_strike": false
+    },
+    {
+      "kind": "stat",
+      "eyebrow": "고쳐 쓸 수 없자",
+      "headline": "칩 안에 코드를 심다",
+      "body": "검사 구간에서 연료를 깎는 캘리포니아용 프로그램이 원인으로 보였다. 재기록이 안 되는 칩이라 Codex가 EEPROM에 코드를 올렸다.",
+      "foot": "2026.11.13",
+      "n": 4,
+      "stat_top": "1993.12 제조 ECU",
+      "stat_arrow": "재기록 가능 모델보다 약 4개월 앞서",
+      "stat_bottom": "다시 쓸 수 없는 칩",
+      "stat_strike": false
+    },
+    {
+      "kind": "quote",
+      "quote": "진단은 대부분 Claude가, 메모리 작업은\n거의 다 Codex가 했다. 난 배선과 운전만 했다.",
+      "quote_by": "무하마드 줄랄리 · 차주",
+      "eyebrow": "그래서 지금",
+      "headline": "그리고 검사 통과",
+      "body": "정비사도, 크라이슬러 딜러 장비도 쓰지 않았다. 배선도와 코드는 깃허브 xj-scanner에 공개했다.",
+      "foot": "2026.11.13",
+      "n": 5
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}
