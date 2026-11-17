@@ -1,0 +1,134 @@
+{
+  "meta": {
+    "issue": "AI 칩 통제, 빌려 쓰기까지",
+    "date": "2026.11.18",
+    "section": "POLITICS",
+    "accent": "#9aa8c7",
+    "note": "원문 5건 대조: 날짜를 원문 게재일로 고침(연합 11.13→11.12, 11.14→11.13 KST, Verge 11.16→11.15, Ars 11.17→11.16, DOJ 11.18→11.17 ET). 7개국(보도)·5개국(상무부 규칙 요약)·90일, 46억 달러+, 2024 착수·2025.5 기록 요구·2025.6 현장 점검, 존슨 의장 발언(로이터 인용), 슈머·팀 스콧 요구 확인. 의혹은 의혹으로, Megaspeed 부인 병기. 사진은 Ars 데이터센터 항공사진 한 장만 남기고 나머지는 stat·quote.",
+    "sources": [
+      "연합뉴스 — \"미, 중국 AI 칩 '동남아 우회로' 차단 추진\" (2026.11.12)",
+      "연합뉴스 — 말레이, 앨리스 황 근무 메가스피드 자회사 AI반도체 유출 조사 (2026.11.13)",
+      "The Verge — Congress wants to tighten export rules on AI chips after Nvidia spy scandal (2026.11.15)",
+      "Ars Technica — US moves to cut China's remote access to AI chips (2026.11.16)",
+      "U.S. Department of Justice — Joint Statement from Department of Commerce and Department of Justice on Megaspeed Investigation (2026.11.17)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "5건 · 정책 · 11.12~11.17",
+      "thread": [
+        {
+          "d": "11.12",
+          "t": "7개국",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        },
+        {
+          "d": "11.13",
+          "t": "말레이",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        },
+        {
+          "d": "11.15",
+          "t": "의회",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        },
+        {
+          "d": "11.16",
+          "t": "원격 차단",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        },
+        {
+          "d": "11.17",
+          "t": "수사 공개",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        }
+      ],
+      "thread_note": "Megaspeed 의혹과 맞물려 미국의 AI 칩 통제가 칩 판매에서 원격 임차·경유지까지 넓어진다",
+      "eyebrow": "흐름 · 정책",
+      "headline": "AI 칩 통제,\n빌려 쓰기까지",
+      "body": "한 건씩 보면 보도·조사·법안이 따로 논다. 이어 보면 칩을 사는 길에서 빌려 쓰는 길까지 막는 쪽으로 간다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "stat",
+      "eyebrow": "2026.11.12",
+      "headline": "동남아 우회로, 허가제로",
+      "body": "디인포메이션 보도. 상무부가 블랙웰급 이상 칩을 들일 때 허가를 받아야 할 나라에 7곳을 더하려 한다.",
+      "foot": "2026.11.12",
+      "_src": "https://www.yna.co.kr/view/AKR20261112121900009",
+      "_id": "bis-ai-chip-sea-license-rule",
+      "stat_top": "싱가포르·말레이시아·태국",
+      "stat_arrow": "인니·브라질·노르웨이·남아공",
+      "stat_bottom": "7개국 추가",
+      "stat_strike": false
+    },
+    {
+      "n": 3,
+      "kind": "stat",
+      "eyebrow": "2026.11.13",
+      "headline": "말레이시아, 재수출 조사",
+      "body": "말레이시아 투자통상산업부가 Megaspeed 자회사 스피드매트릭스의 AI 칩 재수출이 적법했는지 관세청과 조사한다.",
+      "foot": "2026.11.13",
+      "_src": "https://www.yna.co.kr/view/AKR20261113115800104",
+      "_id": "politics-malaysia-megaspeed-probe",
+      "stat_top": "스피드매트릭스",
+      "stat_arrow": "2024년 설립 뒤 들인 Nvidia AI 장비",
+      "stat_bottom": "46억 달러+",
+      "stat_strike": false
+    },
+    {
+      "n": 4,
+      "kind": "quote",
+      "eyebrow": "2026.11.15",
+      "headline": "의회, 여야가 함께 조인다",
+      "body": "민주당 슈머 원내대표는 젠슨 황과 행정부에 해명을, 공화당 팀 스콧 상원 은행위원장은 공개 증언을 요구했다.",
+      "foot": "2026.11.15",
+      "_src": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+      "_id": "congress-ai-chip-export-rules",
+      "quote": "중국으로 가는 칩 수출을\n제한하자는 의회 공감대가\n커지고 있다",
+      "quote_by": "마이크 존슨 하원의장(공화) · 로이터 인용"
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.11.16",
+      "headline": "빌려 쓰는 칩도 막는다",
+      "body": "상무부가 중·러·이란이 다섯 나라 데이터센터에서 제한 칩을 빌려 쓰는 길을 막는다. 관보 게재 90일 뒤 시행.",
+      "foot": "2026.11.16",
+      "_src": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/",
+      "_id": "commerce-chip-remote-access",
+      "media": "pipeline/media/commerce-chip-remote-access.jpg"
+    },
+    {
+      "n": 6,
+      "kind": "stat",
+      "eyebrow": "2026.11.17",
+      "headline": "상무부·DOJ, 경과 공개",
+      "body": "2025년 5월 Nvidia에 기록을 요구했고 6월 현장 점검을 했다고 밝혔다. Megaspeed는 밀수를 부인해 왔다.",
+      "foot": "2026.11.17",
+      "_src": "https://www.justice.gov/opa/pr/joint-statement-department-commerce-and-department-justice-megaspeed-investigation",
+      "_id": "pol-megaspeed-doj-statement",
+      "stat_top": "2024년 상무부 조사 착수",
+      "stat_arrow": "2025.6 현장 점검 뒤",
+      "stat_bottom": "DOJ 형사 수사",
+      "stat_strike": false
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 7
+    }
+  ]
+}
